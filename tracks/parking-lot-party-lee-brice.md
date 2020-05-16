@@ -1,8 +1,11 @@
 ---
+album: Hard 2 Love
 artists:
 - Lee Brice
+external_ids:
+  spotify: spotify:track:4HFNGbVmsMV5lHUvDuXLkl
 features: []
-genres: []
+first_released_as_single: false
 key: parking-lot-party-lee-brice
 lyrics_url: https://www.azlyrics.com/lyrics/leebrice/parkinglotparty.html
 name: Parking Lot Party
@@ -87,8 +90,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2013-11-23'
+release_year: 2012
+runtime: 207893
 ---
-
 Johnny's firing' up his coleman grill
 We've got 24 tall boys on the chill
 Yeah, 14 of 'em's mine
@@ -157,6 +161,3 @@ To light one up, fill up your cup
 Cause there ain't no party like the pre-party
 And after the party the after-party
 At the parking lot party
-
-
-

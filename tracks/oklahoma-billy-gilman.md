@@ -1,8 +1,11 @@
 ---
+album: One Voice
 artists:
 - Billy Gilman
+external_ids:
+  spotify: spotify:track:2TIzsX5IvHW2ppG5PD7Qma
 features: []
-genres: []
+first_released_as_single: false
 key: oklahoma-billy-gilman
 lyrics_url: https://www.azlyrics.com/lyrics/billygilman/oklahoma.html
 name: Oklahoma
@@ -59,8 +62,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2001-02-03'
+release_year: 2000
+runtime: 244000
 ---
-
 Suitcase packed with all his things
 Car pulls up, the doorbell rings
 He don't wanna go 
@@ -108,6 +112,3 @@ A rambler in my younger days I knew I made a few mistakes
 But I swear I would have been there had I known it
 Never again will you ever be alone
 Son welcome to your home in Oklahoma
-
-
-

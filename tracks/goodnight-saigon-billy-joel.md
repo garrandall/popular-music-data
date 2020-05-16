@@ -1,8 +1,11 @@
 ---
+album: The Nylon Curtain
 artists:
 - Billy Joel
+external_ids:
+  spotify: spotify:track:5bIwtIednTXz7BHnnoQN06
 features: []
-genres: []
+first_released_as_single: false
 key: goodnight-saigon-billy-joel
 lyrics_url: https://www.azlyrics.com/lyrics/billyjoel/goodnightsaigon.html
 name: Goodnight Saigon
@@ -35,8 +38,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1983-04-30'
+release_year: 1982
+runtime: 423266
 ---
-
 We met as soul mates
 On Parris Island
 We left as inmates
@@ -103,6 +107,3 @@ And waited for us to arrive
 And we would all go down together
 We said we'd all go down together
 Yes we would all go down together
-
-
-

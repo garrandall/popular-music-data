@@ -1,10 +1,13 @@
 ---
+album: Emerson, Lake & Palmer
 artists:
 - Emerson
 - Lake
 - Palmer
+external_ids:
+  spotify: spotify:track:6qj0OV5w2PlGTASSx34Lrl
 features: []
-genres: []
+first_released_as_single: false
 key: lucky-man-emerson-lake-palmer
 lyrics_url: https://www.azlyrics.com/lyrics/emersonlakepalmer/luckyman.html
 name: Lucky Man
@@ -85,8 +88,9 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '1973-02-10'
+release_year: 1970
+runtime: 277653
 ---
-
 He had white horses
 And ladies by the score
 All dressed in satin
@@ -118,6 +122,3 @@ So he laid down and he died
 
 Oh, what a lucky man he was
 Oh, what a lucky man he was
-
-
-

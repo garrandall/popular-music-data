@@ -1,8 +1,11 @@
 ---
+album: 'The #1 Hits Collection'
 artists:
 - Conway Twitty
+external_ids:
+  spotify: spotify:track:68xr30YygtdqpocAOvzjg3
 features: []
-genres: []
+first_released_as_single: false
 key: you-ve-never-been-this-far-before-conway-twitty
 lyrics_url: https://www.musixmatch.com/lyrics/Conway-Twitty/You-ve-Never-Been-This-Far-Before
 name: You've Never Been This Far Before
@@ -63,6 +66,8 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '1973-11-10'
+release_year: 1973
+runtime: 181600
 ---
 I can almost hear the stillness
 As it yields to the sound of your heart beating

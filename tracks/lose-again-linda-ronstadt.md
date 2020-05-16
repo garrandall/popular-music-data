@@ -1,8 +1,11 @@
 ---
+album: Hasten Down The Wind
 artists:
 - Linda Ronstadt
+external_ids:
+  spotify: spotify:track:0ONrTsYOnruqQt2y17tRKR
 features: []
-genres: []
+first_released_as_single: false
 key: lose-again-linda-ronstadt
 lyrics_url: https://www.azlyrics.com/lyrics/lindaronstadt/loseagain.html
 name: Lose Again
@@ -27,8 +30,9 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1977-07-02'
+release_year: 1976
+runtime: 214066
 ---
-
 Save me
 Free me
 From my heart this time
@@ -57,6 +61,3 @@ I've made up my mind I would leave today
 But you're keeping me going I know it's insane
 'Cause I'll love you and lose again
 Woah I'll love you and lose again
-
-
-

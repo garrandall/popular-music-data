@@ -1,8 +1,11 @@
 ---
+album: Splinter
 artists:
 - The Offspring
+external_ids:
+  spotify: spotify:track:3lfmqF0ULXRHlWxBeaHo3t
 features: []
-genres: []
+first_released_as_single: false
 key: hit-that-the-offspring
 lyrics_url: https://genius.com/The-offspring-hit-that-lyrics
 name: Hit That
@@ -67,6 +70,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2004-03-27'
+release_year: 2003
+runtime: 169413
 ---
 The winds of fortune
 Don't blow the same

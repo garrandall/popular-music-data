@@ -1,8 +1,11 @@
 ---
+album: Stacie Orrico
 artists:
 - Stacie Orrico
+external_ids:
+  spotify: spotify:track:2ptt0Eftq3b2jElTRrctrT
 features: []
-genres: []
+first_released_as_single: false
 key: stuck-stacie-orrico
 lyrics_url: https://www.azlyrics.com/lyrics/stacieorrico/stuck.html
 name: Stuck
@@ -51,8 +54,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2003-07-26'
+release_year: 2003
+runtime: 221586
 ---
-
 I can't get out of bed today
 Or get you off my mind
 I just can't seem to find a way
@@ -107,4 +111,3 @@ I be wishing you would call me on the telephone
 Say you want me back
 But you never do
 I feel like such a fool
-

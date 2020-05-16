@@ -1,9 +1,12 @@
 ---
+album: Go Get It
 artists:
 - Mary Mary
+external_ids:
+  spotify: spotify:track:1ZxwWrMNukjS8sb9TZ0HjU
 features:
 - Kierra "KiKi" Sheard
-genres: []
+first_released_as_single: false
 key: god-in-me-mary-mary-kierra--kiki--sheard
 lyrics_url: https://www.azlyrics.com/lyrics/marymary/godinme.html
 name: God In Me
@@ -88,8 +91,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2009-11-28'
+release_year: 2000
+runtime: 192680
 ---
-
 I just wanna tell the truth, man 
 I just wanna tell the truth, man 
 I just wanna tell the truth, man 
@@ -171,6 +175,3 @@ You think I'm so clean
 My God
 You think I'm so sweet
 It's the God in me
-
-
-

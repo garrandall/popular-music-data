@@ -1,8 +1,11 @@
 ---
+album: Awakening
 artists:
 - Color Me Badd
+external_ids:
+  spotify: spotify:track:1qlytTdL89gQe4hOMAPtGp
 features: []
-genres: []
+first_released_as_single: false
 key: remember-when-color-me-badd
 lyrics_url: https://genius.com/Color-me-badd-remember-when-lyrics
 name: Remember When
@@ -59,6 +62,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1998-10-17'
+release_year: 1998
+runtime: 256853
 ---
 Nothing could be harder to believe
 When you told me that you needed to be free, free

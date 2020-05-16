@@ -1,8 +1,11 @@
 ---
+album: Touch
 artists:
 - Eurythmics
+external_ids:
+  spotify: spotify:track:6P8kyob4SPq2Z0TBEHzgZy
 features: []
-genres: []
+first_released_as_single: false
 key: who-s-that-girl-eurythmics
 lyrics_url: https://www.azlyrics.com/lyrics/eurythmics/whosthatgirl.html
 name: Who's That Girl
@@ -59,8 +62,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1984-07-28'
+release_year: 1983
+runtime: 286733
 ---
-
 Who's that girl?
 
 The language of love
@@ -91,6 +95,3 @@ Your careless notions
 Have silenced these emotions
 Look at all the foolishness
 Your lover's talk has done
-
-
-

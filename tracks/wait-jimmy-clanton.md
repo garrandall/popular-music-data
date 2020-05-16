@@ -1,8 +1,11 @@
 ---
+album: All the Hits and More!
 artists:
 - Jimmy Clanton
+external_ids:
+  spotify: spotify:track:5tbo9qdIzEmuaL779FCeKr
 features: []
-genres: []
+first_released_as_single: false
 key: wait-jimmy-clanton
 name: Wait
 rankings:
@@ -18,5 +21,7 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1960-10-10'
+release_year: 1960
+runtime: 133189
 ---
 

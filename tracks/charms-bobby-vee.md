@@ -1,8 +1,11 @@
 ---
+album: Bobby Vee's Golden Greats (Vol. 2)
 artists:
 - Bobby Vee
+external_ids:
+  spotify: spotify:track:2KU5PSLhswewmi8ScZwqHA
 features: []
-genres: []
+first_released_as_single: false
 key: charms-bobby-vee
 lyrics_url: https://www.azlyrics.com/lyrics/bobbyvee/charms.html
 name: Charms
@@ -47,8 +50,9 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1963-06-01'
+release_year: 1963
+runtime: 143746
 ---
-
 Pretty charms, pretty little charms
 See how they sparkle in the sun
 Ding dong ding listen to them ring
@@ -77,6 +81,3 @@ And show him you belong to me
 (Pretty charms, pretty little charms)
 (Pretty charms, pretty little charms)
 (Pretty charms, pretty little charms)
-
-
-

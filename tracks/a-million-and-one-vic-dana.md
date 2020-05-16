@@ -1,8 +1,11 @@
 ---
+album: The Complete Hits Of Vic Dana
 artists:
 - Vic Dana
+external_ids:
+  spotify: spotify:track:7qykdbkxp5BN1EBpRdOLfs
 features: []
-genres: []
+first_released_as_single: false
 key: a-million-and-one-vic-dana
 lyrics_url: https://www.musixmatch.com/lyrics/Vic-Dana/A-Million-and-One
 name: A Million And One
@@ -19,6 +22,8 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '1966-08-20'
+release_year: 1966
+runtime: 149880
 ---
 How many teardrops
 Have I cried over you

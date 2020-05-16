@@ -1,8 +1,11 @@
 ---
+album: Ten Rounds
 artists:
 - Tracy Byrd
+external_ids:
+  spotify: spotify:track:71EVFQO2umcIfdxE8DquYy
 features: []
-genres: []
+first_released_as_single: false
 key: just-let-me-be-in-love-tracy-byrd
 lyrics_url: https://www.azlyrics.com/lyrics/tracybyrd/justletmebeinlove.html
 name: Just Let Me Be In Love
@@ -47,8 +50,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2002-03-16'
+release_year: 2001
+runtime: 226213
 ---
-
 My breath is short, my heart is beating fast
 Every time I smile at her she's smiling back
 If I'm dreaming, please just let me sleep
@@ -88,6 +92,3 @@ Who knows, who cares, right now
 Just let me be in love
 Let me be in love
 I just want to be in love
-
-
-

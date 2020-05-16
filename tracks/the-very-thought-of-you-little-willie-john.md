@@ -1,8 +1,11 @@
 ---
+album: Sure Things
 artists:
 - Little Willie John
+external_ids:
+  spotify: spotify:track:0qBFeHjlC4yBTQVPCI2gg3
 features: []
-genres: []
+first_released_as_single: false
 key: the-very-thought-of-you-little-willie-john
 lyrics_url: https://www.musixmatch.com/lyrics/Little-Willie-John/The-Very-Thought-of-You
 name: The Very Thought Of You
@@ -31,6 +34,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1961-04-17'
+release_year: 1961
+runtime: 139866
 ---
 The very thought of you
 And I forget to do

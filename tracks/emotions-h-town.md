@@ -1,8 +1,11 @@
 ---
+album: Beggin After Dark
 artists:
 - H-Town
+external_ids:
+  spotify: spotify:track:2wqSycuLuGlQgzV1aA6Myu
 features: []
-genres: []
+first_released_as_single: false
 key: emotions-h-town
 lyrics_url: https://www.azlyrics.com/lyrics/htown/emotions.html
 name: Emotions
@@ -67,9 +70,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1995-07-29'
+release_year: 1994
+runtime: 297273
 ---
-
-
 Emotions Make You Cry Sometimes, Emotions Make You Sad Sometimes, Emotions Make You Glad Sometimes, But Most Of All They Make You Fall In Love.
 
 
@@ -90,6 +93,3 @@ Come On Baby Come On Sugar, Say, Alright
 Alright Alright Alright
 Say Alright Alright Alright Alright
 I Know Its Alright Yeah Said The Make You Fall In Love...
-
-
-

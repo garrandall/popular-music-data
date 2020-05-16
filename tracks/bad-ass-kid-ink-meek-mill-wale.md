@@ -1,10 +1,13 @@
 ---
+album: My Own Lane
 artists:
 - Kid Ink
+external_ids:
+  spotify: spotify:track:4RtkMgnsyyei3UKEGQ82JO
 features:
 - Meek Mill
 - Wale
-genres: []
+first_released_as_single: true
 key: bad-ass-kid-ink-meek-mill-wale
 lyrics_url: https://genius.com/Kid-ink-badass-lyrics
 name: Bad Ass
@@ -13,6 +16,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2013-02-09'
+release_year: 2013
+runtime: 298840
 ---
 I'm feeling like a man of the hour, tear down the house
 Throwin' this money like it's no running out

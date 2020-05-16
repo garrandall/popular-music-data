@@ -1,8 +1,11 @@
 ---
+album: Blue Midnight
 artists:
 - Bert Kaempfert
+external_ids:
+  spotify: spotify:track:2Q7ee3yYMiuY3MQwmlvPhn
 features: []
-genres: []
+first_released_as_single: false
 key: three-o-clock-in-the-morning-bert-kaempfert-and-his-orchestra
 name: Three O'Clock In The Morning
 rankings:
@@ -38,5 +41,7 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '1965-06-19'
+release_year: 1964
+runtime: 153626
 ---
 

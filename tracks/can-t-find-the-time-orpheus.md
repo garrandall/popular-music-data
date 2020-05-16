@@ -1,8 +1,11 @@
 ---
+album: Orpheus
 artists:
 - Orpheus
+external_ids:
+  spotify: spotify:track:5e6X8odyjARbtQM4j9nE2z
 features: []
-genres: []
+first_released_as_single: false
 key: can-t-find-the-time-orpheus
 lyrics_url: https://www.musixmatch.com/lyrics/Orpheus/Can-t-Find-the-Time-to-Tell-You
 name: Can't Find The Time
@@ -35,6 +38,8 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '1969-10-04'
+release_year: 1969
+runtime: 202506
 ---
 Ba da da da da da da
 I can't find the time to tell you

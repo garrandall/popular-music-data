@@ -1,8 +1,11 @@
 ---
+album: I'm Still in Love with You
 artists:
 - Al Green
+external_ids:
+  spotify: spotify:track:0ZhwlFI7I69yaXphO7t5R8
 features: []
-genres: []
+first_released_as_single: false
 key: look-what-you-done-for-me-al-green
 lyrics_url: https://genius.com/Al-green-look-what-you-done-for-me-lyrics
 name: Look What You Done For Me
@@ -55,6 +58,8 @@ rankings:
   rank: 22
   ranking_list: Billboard Hot 100
   start_date: '1972-06-17'
+release_year: 1972
+runtime: 185822
 ---
 Now that you're here with me
 I want to keep you free

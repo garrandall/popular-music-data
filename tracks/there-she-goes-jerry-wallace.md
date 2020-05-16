@@ -1,8 +1,11 @@
 ---
+album: Jerry Wallace's Greatest Hits
 artists:
 - Jerry Wallace
+external_ids:
+  spotify: spotify:track:66gZUpnIAhvuxx4bGkeBXd
 features: []
-genres: []
+first_released_as_single: true
 key: there-she-goes-jerry-wallace
 lyrics_url: https://genius.com/Jerry-wallace-there-she-goes-lyrics
 name: There She Goes
@@ -47,6 +50,8 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '1961-02-27'
+release_year: 1960
+runtime: 151946
 ---
 There she goes, she's walkin' away
 Each step she takes brings heartaches my way

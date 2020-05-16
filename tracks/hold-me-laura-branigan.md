@@ -1,8 +1,11 @@
 ---
+album: Hold Me
 artists:
 - Laura Branigan
+external_ids:
+  spotify: spotify:track:3eT8rfOWOyU7hdaUyJ3LpA
 features: []
-genres: []
+first_released_as_single: false
 key: hold-me-laura-branigan
 lyrics_url: https://www.azlyrics.com/lyrics/laurabranigan/holdme.html
 name: Hold Me
@@ -23,8 +26,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1985-11-09'
+release_year: 1985
+runtime: 286760
 ---
-
 Kinda young, very pretty
 Living alone, full of fear
 Feeling lost, so unhappy
@@ -56,6 +60,3 @@ She whispers hold me
 Baby please hold me 
 I'd feel safe for just a minute
 Help me drive away my fear
-
-
-

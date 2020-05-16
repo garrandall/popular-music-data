@@ -1,8 +1,11 @@
 ---
+album: He's A Friend
 artists:
 - Eddie Kendricks
+external_ids:
+  spotify: spotify:track:4YHFkUf0KTaBbRxED9nGAg
 features: []
-genres: []
+first_released_as_single: false
 key: he-s-a-friend-eddie-kendricks
 lyrics_url: https://www.azlyrics.com/lyrics/eddiekendricks/hesafriend.html
 name: He's A Friend
@@ -55,8 +58,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1976-05-01'
+release_year: 1976
+runtime: 283933
 ---
-
 He's a friend of mine
 He's a friend of mine
 
@@ -115,6 +119,3 @@ He's a friend of mine (Don't you need a friend)
 He's a friend of mine (Don't you need a friend)
 He's a friend of mine
 He's a friend of mine (Don't you need a friend)
-
-
-

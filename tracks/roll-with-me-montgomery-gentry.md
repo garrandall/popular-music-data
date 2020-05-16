@@ -1,8 +1,11 @@
 ---
+album: Back When I Knew It All
 artists:
 - Montgomery Gentry
+external_ids:
+  spotify: spotify:track:0vugKXYcq8mhvn4xEqgMrp
 features: []
-genres: []
+first_released_as_single: false
 key: roll-with-me-montgomery-gentry
 lyrics_url: https://www.azlyrics.com/lyrics/montgomerygentry/rollwithme.html
 name: Roll With Me
@@ -87,8 +90,9 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '2009-02-07'
+release_year: 1999
+runtime: 234506
 ---
-
 Wake up in the morning
 Get to living my life
 Making sure that Im all that I can be
@@ -124,6 +128,3 @@ Aint' worried 'bout nothing cept for the man I wanna be
 I'm thinking maybe it's time to be livin' the rhyme
 When I'm singing a song about nothing but right
 And it's sure be nice if you would roll with me
-
-
-

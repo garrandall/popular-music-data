@@ -1,9 +1,12 @@
 ---
+album: Reflections
 artists:
 - Diana Ross
 - The Supremes
+external_ids:
+  spotify: spotify:track:3215kcniU6gv7FdOXefhom
 features: []
-genres: []
+first_released_as_single: false
 key: in-and-out-of-love-diana-ross-the-supremes
 lyrics_url: https://www.musixmatch.com/lyrics/Diana-Ross/In-And-Out-Of-Love-feat-The-Supremes
 name: In And Out Of Love
@@ -40,6 +43,8 @@ rankings:
   rank: 21
   ranking_list: Billboard Hot 100
   start_date: '1967-12-30'
+release_year: 1967
+runtime: 159373
 ---
 In and out of love
 Diana ross & the supremes

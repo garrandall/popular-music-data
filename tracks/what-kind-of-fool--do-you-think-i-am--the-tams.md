@@ -1,8 +1,11 @@
 ---
+album: Be Young Be Foolish But Be Happy
 artists:
 - The Tams
+external_ids:
+  spotify: spotify:track:619paal0VMcfrmtFdN6kGf
 features: []
-genres: []
+first_released_as_single: false
 key: what-kind-of-fool--do-you-think-i-am--the-tams
 lyrics_url: https://genius.com/The-tams-what-kind-of-fool-do-you-think-i-am-lyrics
 name: What Kind Of Fool (Do You Think I Am)
@@ -63,6 +66,8 @@ rankings:
   rank: 36
   ranking_list: Billboard Hot 100
   start_date: '1964-03-14'
+release_year: 1963
+runtime: 124933
 ---
 What kind of fool, what kind of fool
 What kind of fool do you think I am?

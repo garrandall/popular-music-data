@@ -1,9 +1,12 @@
 ---
+album: The Best In The World Pack
 artists:
 - Drake
+external_ids:
+  spotify: spotify:track:5ry2OE6R2zPQFDO85XkgRb
 features:
 - Rick Ross
-genres: []
+first_released_as_single: true
 key: money-in-the-grave-drake-rick-ross
 lyrics_url: https://www.musixmatch.com/lyrics/Drake-feat-Rick-Ross/Money-In-The-Grave
 name: Money In The Grave
@@ -100,6 +103,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '2019-11-30'
+release_year: 2019
+runtime: 205426
 ---
 Yeah, okay
 'Lil CC, on the beat, hm

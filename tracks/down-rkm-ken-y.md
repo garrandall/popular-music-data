@@ -1,9 +1,12 @@
 ---
+album: Masterpiece World Tour
 artists:
 - RKM
 - Ken-Y
+external_ids:
+  spotify: spotify:track:3xvXku9flKxcVODbujUqHg
 features: []
-genres: []
+first_released_as_single: false
 key: down-rkm-ken-y
 lyrics_url: https://genius.com/Rkm-and-ken-y-down-lyrics
 name: Down
@@ -20,6 +23,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2006-07-29'
+release_year: 2006
+runtime: 227106
 ---
 Down, down, down, down
 Down, down, down, down

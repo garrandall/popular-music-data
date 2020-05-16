@@ -1,8 +1,11 @@
 ---
+album: Valotte
 artists:
 - Julian Lennon
+external_ids:
+  spotify: spotify:track:2SPU97neddixGZ3wCMLAwx
 features: []
-genres: []
+first_released_as_single: false
 key: too-late-for-goodbyes-julian-lennon
 lyrics_url: https://genius.com/Julian-lennon-too-late-for-goodbyes-lyrics
 name: Too Late For Goodbyes
@@ -75,6 +78,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1985-05-18'
+release_year: 1984
+runtime: 214645
 ---
 Ever since you've been leaving me
 I've been wanting to cry

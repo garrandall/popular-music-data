@@ -1,8 +1,11 @@
 ---
+album: One More Song
 artists:
 - Randy Meisner
+external_ids:
+  spotify: spotify:track:1b5Y0L4Hid6s8HDsNiiwS9
 features: []
-genres: []
+first_released_as_single: false
 key: deep-inside-my-heart-randy-meisner
 lyrics_url: https://genius.com/Randy-meisner-deep-inside-my-heart-lyrics
 name: Deep Inside My Heart
@@ -71,6 +74,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1981-01-31'
+release_year: 1980
+runtime: 209320
 ---
 I stayed up all night
 Waiting for you to call

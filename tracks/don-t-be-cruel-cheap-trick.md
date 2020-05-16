@@ -1,8 +1,11 @@
 ---
+album: Lap Of Luxury
 artists:
 - Cheap Trick
+external_ids:
+  spotify: spotify:track:6A1MJbqxcHvNcT0u9qMqEP
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-be-cruel-cheap-trick
 lyrics_url: https://genius.com/Cheap-trick-dont-be-cruel-lyrics
 name: Don't Be Cruel
@@ -75,6 +78,8 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1988-11-19'
+release_year: 1988
+runtime: 187200
 ---
 Well you know I can be found
 Sitting all alone

@@ -1,8 +1,11 @@
 ---
+album: 'Signature Series: Heartsfield'
 artists:
 - Heartsfield
+external_ids:
+  spotify: spotify:track:0yYOVisihdsQHUIaIPVk33
 features: []
-genres: []
+first_released_as_single: false
 key: music-eyes-heartsfield
 lyrics_url: https://www.musixmatch.com/lyrics/Heartsfield/Music-Eyes
 name: Music Eyes
@@ -27,6 +30,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1974-03-30'
+release_year: 1973
+runtime: 385133
 ---
 Yeah, when I feel that music
 Rockin' on my soul

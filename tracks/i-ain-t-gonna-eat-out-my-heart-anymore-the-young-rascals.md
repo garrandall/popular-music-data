@@ -1,8 +1,11 @@
 ---
+album: The Young Rascals
 artists:
 - The Young Rascals
+external_ids:
+  spotify: spotify:track:1GKtKXsCbpspPy1837Oaw9
 features: []
-genres: []
+first_released_as_single: false
 key: i-ain-t-gonna-eat-out-my-heart-anymore-the-young-rascals
 lyrics_url: https://genius.com/The-young-rascals-i-aint-gonna-eat-out-my-heart-anymore-lyrics
 name: I Ain't Gonna Eat Out My Heart Anymore
@@ -43,6 +46,8 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1966-02-19'
+release_year: 1965
+runtime: 163240
 ---
 (Yeah) I admit you got the biggest brown eyes
 And you know how to part your lips to tantalize, sure

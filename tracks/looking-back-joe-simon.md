@@ -1,8 +1,11 @@
 ---
+album: Simon Sings
 artists:
 - Joe Simon
+external_ids:
+  spotify: spotify:track:2STSpwPnkPkSK4hVirHUq7
 features: []
-genres: []
+first_released_as_single: false
 key: looking-back-joe-simon
 lyrics_url: https://www.musixmatch.com/lyrics/Joe-Simon/Looking-Back
 name: Looking Back
@@ -31,6 +34,8 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1969-01-25'
+release_year: 1968
+runtime: 144693
 ---
 Looking back over my life
 I can see where

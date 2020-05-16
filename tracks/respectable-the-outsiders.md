@@ -1,8 +1,11 @@
 ---
+album: Capitol Collectors Series
 artists:
 - The Outsiders
+external_ids:
+  spotify: spotify:track:6E9zaZ0Tnm9Np5XkfinOQq
 features: []
-genres: []
+first_released_as_single: false
 key: respectable-the-outsiders
 lyrics_url: https://www.musixmatch.com/lyrics/The-Outsiders/Respectable
 name: Respectable
@@ -39,6 +42,8 @@ rankings:
   rank: 31
   ranking_list: Billboard Hot 100
   start_date: '1966-09-24'
+release_year: 1966
+runtime: 121466
 ---
 RESPECTABLE
 THE OUTSIDERS

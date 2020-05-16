@@ -1,8 +1,11 @@
 ---
+album: All Out Of Love Live
 artists:
 - Air Supply
+external_ids:
+  spotify: spotify:track:2cmBxW7NUksfg8acT0m5ad
 features: []
-genres: []
+first_released_as_single: false
 key: making-love-out-of-nothing-at-all-air-supply
 lyrics_url: https://www.azlyrics.com/lyrics/airsupply/makingloveoutofnothingatall.html
 name: Making Love Out Of Nothing At All
@@ -107,8 +110,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1984-01-14'
+release_year: 1983
+runtime: 346333
 ---
-
 I know just how to whisper,
 and I know just how to cry;
 I know just where to find the answers;
@@ -186,6 +190,3 @@ out of nothing at all
 (making love)
 out of nothing at all
 (making love)
-
-
-

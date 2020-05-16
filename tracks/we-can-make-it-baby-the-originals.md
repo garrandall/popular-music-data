@@ -1,8 +1,11 @@
 ---
+album: Superstar Series - Celebrating Motown's Twentieth Anniversary
 artists:
 - The Originals
+external_ids:
+  spotify: spotify:track:6rebbVefjRIV5cOg8s70x6
 features: []
-genres: []
+first_released_as_single: false
 key: we-can-make-it-baby-the-originals
 lyrics_url: https://genius.com/The-originals-we-can-make-it-baby-lyrics
 name: We Can Make It Baby
@@ -31,6 +34,8 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '1970-09-26'
+release_year: 1970
+runtime: 173800
 ---
 (Oh baby)
 Haven't got much to give

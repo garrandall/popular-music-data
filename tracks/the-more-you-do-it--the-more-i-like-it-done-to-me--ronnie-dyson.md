@@ -1,8 +1,11 @@
 ---
+album: His All Time Golden Classics
 artists:
 - Ronnie Dyson
+external_ids:
+  spotify: spotify:track:7AuAson3xLOLK4cfaSwdJZ
 features: []
-genres: []
+first_released_as_single: false
 key: the-more-you-do-it--the-more-i-like-it-done-to-me--ronnie-dyson
 lyrics_url: https://www.musixmatch.com/lyrics/Ronnie-Dyson/The-More-You-Do-It-The-More-I-Like-It-Done-to-Me
 name: The More You Do It (The More I Like It Done To Me)
@@ -55,6 +58,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1976-10-16'
+release_year: 1972
+runtime: 191066
 ---
 Keep on doing, doing
 Doing what you do

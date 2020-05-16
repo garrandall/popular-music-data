@@ -1,8 +1,11 @@
 ---
+album: The Dixie Cups Meet The Shangri-Las
 artists:
 - The Shangri-Las
+external_ids:
+  spotify: spotify:track:5LqbjDvu0cexOm1sckRgjh
 features: []
-genres: []
+first_released_as_single: false
 key: remember--walkin--in-the-sand--the-shangri-las
 lyrics_url: https://www.azlyrics.com/lyrics/shangrilas/rememberwalkinginthesand.html
 name: Remember (Walkin' in the Sand)
@@ -51,8 +54,9 @@ rankings:
   rank: 26
   ranking_list: Billboard Hot 100
   start_date: '1964-10-31'
+release_year: 1964
+runtime: 142866
 ---
-
 Seems like the other day
 My baby went away
 He went away 'cross the sea
@@ -87,6 +91,3 @@ What will I do with it now?
 (Remember) then he touched my cheek
 (Remember) with his fingertips
 Softly, softly we'd meet with our lips
-
-
-

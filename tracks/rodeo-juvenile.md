@@ -1,8 +1,11 @@
 ---
+album: 'UTP: The Movement'
 artists:
 - Juvenile
+external_ids:
+  spotify: spotify:track:16Pg1TDpgQFDMyiXDE8nD4
 features: []
-genres: []
+first_released_as_single: true
 key: rodeo-juvenile
 lyrics_url: https://www.azlyrics.com/lyrics/juvenile/rodeo.html
 name: Rodeo
@@ -83,8 +86,9 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '2006-04-15'
+release_year: 2005
+runtime: 237946
 ---
-
 Y'all need to open your ears up and soak this game up
 If nobody don't know ya I'm gunna make you famous
 This is 24 karats but it shine like stainless
@@ -142,6 +146,3 @@ Let me see you work that, Twurk that, sur that c'mon and do the rodeo
 Let me see you bounce that, move that, do that let me see you do the rodeo
 Let me see you work that, Twurk that, sur that c'mon and do the rodeo
 Let me see you bounce that, move that, do that let me see you do the rodeo
-
-
-

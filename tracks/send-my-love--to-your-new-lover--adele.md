@@ -1,8 +1,11 @@
 ---
+album: 25 (The Piano Versions)
 artists:
 - Adele
+external_ids:
+  spotify: spotify:track:70uEe3Key95fjdHfcf5ELt
 features: []
-genres: []
+first_released_as_single: false
 key: send-my-love--to-your-new-lover--adele
 lyrics_url: https://www.azlyrics.com/lyrics/adele/sendmylovetoyournewlover.html
 name: Send My Love (To Your New Lover)
@@ -115,8 +118,9 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '2016-12-03'
+release_year: 2015
+runtime: 223262
 ---
-
 Just the guitar. OK, cool.
 
 This was all you, none of it me
@@ -190,6 +194,3 @@ If you're ready, if you're ready (send my love to your new lover)
 If you're ready, I am ready (treat her better)
 We've gotta let go of all of our ghosts
 We both know we ain't kids no more
-
-
-

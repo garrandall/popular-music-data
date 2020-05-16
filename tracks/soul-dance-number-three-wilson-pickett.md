@@ -1,8 +1,11 @@
 ---
+album: The Sound of Wilson Pickett
 artists:
 - Wilson Pickett
+external_ids:
+  spotify: spotify:track:5IvhNuUo5uN25LrSHuyHAo
 features: []
-genres: []
+first_released_as_single: false
 key: soul-dance-number-three-wilson-pickett
 lyrics_url: https://www.azlyrics.com/lyrics/wilsonpickett/souldancenumberthree.html
 name: Soul Dance Number Three
@@ -27,8 +30,9 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '1967-07-15'
+release_year: 1967
+runtime: 161533
 ---
-
 Now everybody's talkin' about all the brand new dances
 But I've got 3 that I'm gonna do for you, lord have mercy
 
@@ -52,4 +56,3 @@ Shake it from side to side, baby; that's the shing-a-ling
 Oh I like that one; now get it, get it, hey! Lord have mercy
 Do the shing-a-ling now, baby; wow ow!
 Get it, get it, get it, lord have mercy, do the shing-a-ling
-

@@ -1,8 +1,11 @@
 ---
+album: Tyrese
 artists:
 - Tyrese
+external_ids:
+  spotify: spotify:track:2ZmUMKX5cJQfQj12SmGYtg
 features: []
-genres: []
+first_released_as_single: false
 key: nobody-else-tyrese
 lyrics_url: https://www.azlyrics.com/lyrics/tyrese/nobodyelse.html
 name: Nobody Else
@@ -67,8 +70,9 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '1998-11-28'
+release_year: 1998
+runtime: 232733
 ---
-
 Now as I look around
 What do I see
 Everybody wants to try to get to know me baby
@@ -124,6 +128,3 @@ hold me in your arms...)
 I don't want nobody else but you
 cause no one makes me feel
 the way that you do
-
-
-

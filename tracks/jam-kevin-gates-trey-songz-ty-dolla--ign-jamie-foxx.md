@@ -1,11 +1,14 @@
 ---
+album: Islah
 artists:
 - Kevin Gates
+external_ids:
+  spotify: spotify:track:2IAaBzOLUtr2hqcwOItFWJ
 features:
 - Trey Songz
 - Ty Dolla $ign
 - Jamie Foxx
-genres: []
+first_released_as_single: false
 key: jam-kevin-gates-trey-songz-ty-dolla--ign-jamie-foxx
 lyrics_url: https://www.azlyrics.com/lyrics/kevingates/jam.html
 name: Jam
@@ -14,8 +17,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2016-02-20'
+release_year: 2016
+runtime: 213533
 ---
-
 It was cool, and he'd get back on the phone and say, "Bernadette I got somethin' I want you to hear." And what you do, players, is you get the phone and you hold it up to the speakers and you let Luther do your talkin' for you. And Luther break it down like...
 
 
@@ -92,6 +96,3 @@ I'm all in her head, she's all in my bed
 I'm locked and loaded, ready to go like a gun that don't (jam)
 I'm all in-between, that's all that she needs
 Her body rockin', nobody stoppin', this song is probably your (jam)
-
-
-

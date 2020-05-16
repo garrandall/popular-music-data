@@ -1,9 +1,12 @@
 ---
+album: 18 Months
 artists:
 - Calvin Harris
+external_ids:
+  spotify: spotify:track:1KtD0xaLAikgIt5tPbteZQ
 features:
 - Ayah Marar
-genres: []
+first_released_as_single: false
 key: thinking-about-you-calvin-harris-ayah-marar
 lyrics_url: https://www.azlyrics.com/lyrics/calvinharris/thinkingaboutyou.html
 name: Thinking About You
@@ -32,8 +35,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2014-03-08'
+release_year: 2012
+runtime: 247933
 ---
-
 If I told you, that this couldn't get better baby
 And your heartbeat, it lets me know you feel the same.
 I can hold you, keep you safe until you fall asleep.
@@ -80,6 +84,3 @@ I'll be thinking about you.
 I'll be thinking about you.
 I'll be thinking about you.
 I'll be thinking about you.
-
-
-

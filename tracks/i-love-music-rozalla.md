@@ -1,8 +1,11 @@
 ---
+album: 'Carlito''s Way: Music From The Motion Picture'
 artists:
 - Rozalla
+external_ids:
+  spotify: spotify:track:7bf3WkBlgMvE2n0F96LQja
 features: []
-genres: []
+first_released_as_single: false
 key: i-love-music-rozalla
 lyrics_url: https://genius.com/Rozalla-i-love-music-lyrics
 name: I Love Music
@@ -35,6 +38,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1994-02-05'
+release_year: 1993
+runtime: 290000
 ---
 Oh get it on get it on yeah
 

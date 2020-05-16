@@ -1,9 +1,11 @@
 ---
+album: Big Bambu
 artists:
-- Cheech
-- Chong
+- Cheech & Chong
+external_ids:
+  spotify: spotify:track:3rNLX7c3ahL2QHVDuvbPYH
 features: []
-genres: []
+first_released_as_single: false
 key: sister-mary-elephant--shudd-up---cheech-chong
 lyrics_url: https://genius.com/Cheech-and-chong-sister-mary-elephant-lyrics
 name: Sister Mary Elephant (Shudd-Up!)
@@ -56,6 +58,8 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '1974-02-09'
+release_year: 1972
+runtime: 215866
 ---
 Good morning, class. Good morning, class. Class? Class?! Shut up! Thank you
 As you know your regular teacher Sister Rosetta Stone is on a small vacation. However she does send her love, at least fingerpaintings, and desk club she's making. I am your substitute teacher, Sister Mary Elephant

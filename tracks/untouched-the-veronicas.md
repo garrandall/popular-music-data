@@ -1,8 +1,11 @@
 ---
+album: Hook Me Up (US Version)
 artists:
 - The Veronicas
+external_ids:
+  spotify: spotify:track:4WkOdYTTcPa7WefKMK1iYL
 features: []
-genres: []
+first_released_as_single: true
 key: untouched-the-veronicas
 lyrics_url: https://www.azlyrics.com/lyrics/veronicas/untouched.html
 name: Untouched
@@ -87,8 +90,9 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '2009-04-25'
+release_year: 2007
+runtime: 254360
 ---
-
 I go oh oh, you go ah ah
 lalalalalalalala
 
@@ -163,6 +167,3 @@ I can't forget you
 Been going crazy from the moment I met you
 
 Untouched, untouched, untouched
-
-
-

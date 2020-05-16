@@ -1,8 +1,11 @@
 ---
+album: Disco Garden
 artists:
 - Shalamar
+external_ids:
+  spotify: spotify:track:5HNnPmoo8atgikDwiAfYL7
 features: []
-genres: []
+first_released_as_single: false
 key: take-that-to-the-bank-shalamar
 lyrics_url: https://www.azlyrics.com/lyrics/shalamar/takethattothebank.html
 name: Take That To The Bank
@@ -31,8 +34,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1979-02-17'
+release_year: 1978
+runtime: 373179
 ---
-
 Take that to the bank
 Take that to the bank
 
@@ -100,6 +104,3 @@ Take that to the bank
 My interest is strong
 I got a love you can count on, baby love
 Take that to the bank
-
-
-

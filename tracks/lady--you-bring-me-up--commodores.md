@@ -1,8 +1,11 @@
 ---
+album: Natural High
 artists:
 - Commodores
+external_ids:
+  spotify: spotify:track:2uTGX4wxnRGS3i0FSOMGCQ
 features: []
-genres: []
+first_released_as_single: false
 key: lady--you-bring-me-up--commodores
 lyrics_url: https://www.azlyrics.com/lyrics/commodores/ladyyoubringmeup.html
 name: Lady (You Bring Me Up)
@@ -95,8 +98,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1981-11-14'
+release_year: 1978
+runtime: 398506
 ---
-
 Lady, you bring me up when I'm down
 Maybe you're gonna change my life around
 
@@ -144,6 +148,3 @@ Lady, you bring me up when I'm down
 Maybe you're gonna change my life around
 
 Lady...
-
-
-

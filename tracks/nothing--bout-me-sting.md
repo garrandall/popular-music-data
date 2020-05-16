@@ -1,8 +1,11 @@
 ---
+album: Karaoke - In The Style Of Sting - Vol. 1
 artists:
 - Sting
+external_ids:
+  spotify: spotify:track:01AbsiQSiox864cI0dLa1f
 features: []
-genres: []
+first_released_as_single: false
 key: nothing--bout-me-sting
 lyrics_url: https://genius.com/Sting-epilogue-nothing-bout-me-lyrics
 name: Nothing 'Bout Me
@@ -51,6 +54,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1993-12-11'
+release_year: 1993
+runtime: 205095
 ---
 Lay my head on the surgeon's table
 Take my fingerprints if you are able

@@ -1,8 +1,11 @@
 ---
+album: Blurring The Edges
 artists:
 - Meredith Brooks
+external_ids:
+  spotify: spotify:track:3i6qNxyVgIdUZTTi5m25EM
 features: []
-genres: []
+first_released_as_single: false
 key: bitch-meredith-brooks
 lyrics_url: https://www.azlyrics.com/lyrics/meredithbrooks/bitch.html
 name: Bitch
@@ -127,8 +130,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1997-11-15'
+release_year: 1997
+runtime: 252760
 ---
-
 I hate the world today
 You're so good to me
 I know but I can't change
@@ -178,6 +182,3 @@ I'm your angel undercover
 I've been numb, I'm revived
 Can't say I'm not alive
 You know I wouldn't want it any other way
-
-
-

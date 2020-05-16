@@ -1,8 +1,11 @@
 ---
+album: The Complete Season 4 Collection (The Voice Performance)
 artists:
 - Danielle Bradbery
+external_ids:
+  spotify: spotify:track:0yOqU2Ix7ficDZCT4z8vVk
 features: []
-genres: []
+first_released_as_single: false
 key: please-remember-me-danielle-bradbery
 lyrics_url: https://www.musixmatch.com/lyrics/Danielle-Bradbery/Please-Remember-Me-The-Voice-Performance
 name: Please Remember Me
@@ -11,6 +14,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2013-06-29'
+release_year: 2013
+runtime: 218293
 ---
 When all our tears have reached the sea
 Part of you will live in me

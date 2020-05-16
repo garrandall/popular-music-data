@@ -1,8 +1,11 @@
 ---
+album: Towards
 artists:
 - Eve
+external_ids:
+  spotify: spotify:track:1U16aNzvnlfARgjWXjKmQj
 features: []
-genres: []
+first_released_as_single: true
 key: tambourine-eve
 lyrics_url: https://www.musixmatch.com/lyrics/Eve/Tambourine
 name: Tambourine
@@ -75,6 +78,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2007-09-15'
+release_year: 2007
+runtime: 192440
 ---
 You gotta shake ya ass
 

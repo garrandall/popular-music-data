@@ -1,8 +1,11 @@
 ---
+album: Damn The Torpedoes
 artists:
 - Tom Petty And The Heartbreakers
+external_ids:
+  spotify: spotify:track:685sEpLJe80Zzuxz3siOVT
 features: []
-genres: []
+first_released_as_single: false
 key: here-comes-my-girl-tom-petty-and-the-heartbreakers
 lyrics_url: https://genius.com/Tom-petty-and-the-heartbreakers-here-comes-my-girl-lyrics
 name: Here Comes My Girl
@@ -35,6 +38,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1980-06-07'
+release_year: 1979
+runtime: 264453
 ---
 You know sometimes, I don't know why
 But this old town just seems so hopeless

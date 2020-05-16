@@ -1,10 +1,13 @@
 ---
+album: 'Day69: Graduation Day'
 artists:
 - 6ix9ine
+external_ids:
+  spotify: spotify:track:3p6JF5nt0bZOSgZRONNZp0
 features:
 - Tory Lanez
 - Young Thug
-genres: []
+first_released_as_single: false
 key: rondo-6ix9ine-tory-lanez-young-thug
 lyrics_url: https://www.azlyrics.com/lyrics/6ix9ine/rondo.html
 name: RONDO
@@ -13,9 +16,9 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '2018-03-10'
+release_year: 2018
+runtime: 138473
 ---
-
-
 I'ma do my dance in a bit (I'ma do my dance)
 She front on me, I throw bands at the bih
 All up in my pants and I'm rich (yeah)
@@ -78,6 +81,3 @@ We ain't throwin' hands in this bitch (throwin' hands)
 Throw a couple bands in this bitch (throw a couple bands)
 Tell the bitch to do the dance on the dick
 Handstand off the bando, this shit lit, lit
-
-
-

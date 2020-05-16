@@ -1,8 +1,11 @@
 ---
+album: 'Diary of a Sinner: 1st Entry'
 artists:
 - Petey Pablo
+external_ids:
+  spotify: spotify:track:2T5wKTa1NEkxwXwtxh7xvu
 features: []
-genres: []
+first_released_as_single: false
 key: i-told-y-all-petey-pablo
 lyrics_url: https://genius.com/Petey-pablo-i-told-yall-lyrics
 name: I Told Y'all
@@ -19,6 +22,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2002-05-18'
+release_year: 2001
+runtime: 256893
 ---
 (Yeah)
 (Heh)

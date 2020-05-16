@@ -1,8 +1,11 @@
 ---
+album: Love Among The Cannibals
 artists:
 - Starship
+external_ids:
+  spotify: spotify:track:2AuHSF7dV35UqfsQe67TeT
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-not-enough-starship
 lyrics_url: https://www.azlyrics.com/lyrics/jeffersonstarship/itsnotenough.html
 name: It's Not Enough
@@ -71,8 +74,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1989-11-18'
+release_year: 1989
+runtime: 290186
 ---
-
 If you want my love tell me 'bout tomorrow 
 Cause I can't wait one more day 
 Cold in the night waiting for a promise 
@@ -117,6 +121,3 @@ It's just not enough (Not enough)
 
 Oh, if you really wanna know girl (Not enough) 
 What it takes if you want my love...
-
-
-

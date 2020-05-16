@@ -1,8 +1,11 @@
 ---
+album: The Battle for Everything
 artists:
 - Five For Fighting
+external_ids:
+  spotify: spotify:track:5gBQ3x6u7DCvMW1QoP3CpG
 features: []
-genres: []
+first_released_as_single: false
 key: 100-years-five-for-fighting
 lyrics_url: https://genius.com/Five-for-fighting-100-years-lyrics
 name: 100 Years
@@ -95,6 +98,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2004-07-10'
+release_year: 1997
+runtime: 244173
 ---
 I'm 15 for a moment
 Caught in between 10 and 20

@@ -1,8 +1,11 @@
 ---
+album: DC4
 artists:
 - Meek Mill
+external_ids:
+  spotify: spotify:track:5F6dydXRZ7EfukbfbrbZrS
 features: []
-genres: []
+first_released_as_single: false
 key: on-the-regular-meek-mill
 lyrics_url: https://www.azlyrics.com/lyrics/meekmill/ontheregular.html
 name: On The Regular
@@ -11,8 +14,9 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '2016-11-19'
+release_year: 2016
+runtime: 184109
 ---
-
 Sell a lot of dope
 Dodge a lot of cases
 Stickin' to the basics
@@ -107,6 +111,3 @@ Count it on the regular
 Sippin' on the regular
 Never smokin' regular
 Nigga we ain't regular
-
-
-

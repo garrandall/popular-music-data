@@ -1,8 +1,11 @@
 ---
+album: Venus
 artists:
 - Frankie Avalon
+external_ids:
+  spotify: spotify:track:3TjvbvtdWiNF1M3BcoEDat
 features: []
-genres: []
+first_released_as_single: false
 key: tuxedo-junction-frankie-avalon
 lyrics_url: https://www.musixmatch.com/lyrics/Frankie-Avalon/Tuxedo-Junction
 name: Tuxedo Junction
@@ -15,6 +18,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1960-06-20'
+release_year: 1960
+runtime: 177006
 ---
 Way down south in Birmingham
 I mean south in Alabam

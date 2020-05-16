@@ -1,8 +1,11 @@
 ---
+album: Dynamic
 artists:
 - KC
+external_ids:
+  spotify: spotify:track:2kT8avlszbWzBabcGkdb5f
 features: []
-genres: []
+first_released_as_single: false
 key: give-it-up-kc
 lyrics_url: https://genius.com/Kc-and-the-sunshine-band-give-it-up-lyrics
 name: Give It Up
@@ -91,6 +94,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1984-05-12'
+release_year: 1983
+runtime: 250626
 ---
 Everybody wants you
 Everybody wants your love

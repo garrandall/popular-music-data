@@ -1,8 +1,11 @@
 ---
+album: 'The Story Of My Life: The Best Of Marty Robbins 1952-1965'
 artists:
 - Marty Robbins
+external_ids:
+  spotify: spotify:track:4YOujaYI7YhWtjHQg7ekDx
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-your-world-marty-robbins
 lyrics_url: https://genius.com/Marty-robbins-its-your-world-lyrics
 name: It's Your World
@@ -43,6 +46,8 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1961-11-06'
+release_year: 1961
+runtime: 163932
 ---
 It's Your World and your smile turns on my sunshine
 You have all the power it takes to make me blue

@@ -1,8 +1,11 @@
 ---
+album: It Just Comes Natural
 artists:
 - George Strait
+external_ids:
+  spotify: spotify:track:1qHRFZE8qykNXYZadzmi1m
 features: []
-genres: []
+first_released_as_single: false
 key: give-it-away-george-strait
 lyrics_url: https://genius.com/George-strait-give-it-away-lyrics
 name: Give It Away
@@ -83,6 +86,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2006-12-23'
+release_year: 2006
+runtime: 209320
 ---
 She was storming through the house that day
 And I could tell she was leaving

@@ -1,9 +1,12 @@
 ---
+album: beerbongs & bentleys
 artists:
 - Post Malone
+external_ids:
+  spotify: spotify:track:5VuxWXbt7XENQCtE9TzpTv
 features:
 - Swae Lee
-genres: []
+first_released_as_single: false
 key: spoil-my-night-post-malone-swae-lee
 lyrics_url: https://www.azlyrics.com/lyrics/postmalone/spoilmynight.html
 name: Spoil My Night
@@ -28,9 +31,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2018-06-09'
+release_year: 2018
+runtime: 194560
 ---
-
-
 I don't have much to say, I'll be out front
 Won't you come spoil my night?
 Feelin's come into play and I'm thinkin' this happens every time
@@ -87,6 +90,3 @@ Feelin's come into play and I'm thinkin' this happens every time
 Spoil my night, spoil my night
 Spoil my night, spoil my night
 Spoil my night, spoil my night
-
-
-

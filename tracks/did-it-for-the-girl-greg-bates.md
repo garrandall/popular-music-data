@@ -1,8 +1,11 @@
 ---
+album: Greg Bates EP
 artists:
 - Greg Bates
+external_ids:
+  spotify: spotify:track:0d3P3GZGU7G3L1cIFLAbqj
 features: []
-genres: []
+first_released_as_single: true
 key: did-it-for-the-girl-greg-bates
 lyrics_url: https://www.azlyrics.com/lyrics/gregbates/diditforthegirl.html
 name: Did It For The Girl
@@ -71,8 +74,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2013-01-19'
+release_year: 2012
+runtime: 191293
 ---
-
 I got the Chevy all shined up
 Paid a little more for a haircut
 Ironed up a pearl snap, left that old ball cap
@@ -106,6 +110,3 @@ Reachin' out to grab my shirt and pull me through the front door
 I did it for the midnight, candlelight
 Anything to make her mine, all mine, I did it for the girl
 I did it for the girl
-
-
-

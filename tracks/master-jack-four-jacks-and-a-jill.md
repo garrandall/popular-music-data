@@ -1,8 +1,11 @@
 ---
+album: Master Jack
 artists:
 - Four Jacks And A Jill
+external_ids:
+  spotify: spotify:track:3j6zsFGcxg79Zr0KTpM2Ja
 features: []
-genres: []
+first_released_as_single: false
 key: master-jack-four-jacks-and-a-jill
 lyrics_url: https://www.musixmatch.com/lyrics/Four-Jacks-and-a-Jill/Master-Jack
 name: Master Jack
@@ -63,6 +66,8 @@ rankings:
   rank: 38
   ranking_list: Billboard Hot 100
   start_date: '1968-06-29'
+release_year: 1968
+runtime: 163840
 ---
 It's a strange, strange world we live in, Master Jack
 You taught me all I know and I'll never look back

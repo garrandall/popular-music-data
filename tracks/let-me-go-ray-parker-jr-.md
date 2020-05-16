@@ -1,8 +1,11 @@
 ---
+album: The Other Woman
 artists:
 - Ray Parker Jr.
+external_ids:
+  spotify: spotify:track:6pBrQaELefnR8XyZzargLy
 features: []
-genres: []
+first_released_as_single: false
 key: let-me-go-ray-parker-jr-
 lyrics_url: https://www.azlyrics.com/lyrics/rayparkerjr/letmego.html
 name: Let Me Go
@@ -43,8 +46,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1982-09-11'
+release_year: 1982
+runtime: 304000
 ---
-
 We've been goin out for awhile now baby 
 We've had some good times and some hard times too 
 But now I've reached that point in my life 
@@ -77,6 +81,3 @@ But now the table's turned
 The shoe is on the other foot 
 I know what I want 
 But you still wanna look
-
-
-

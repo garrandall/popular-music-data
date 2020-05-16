@@ -1,8 +1,11 @@
 ---
+album: On the Border
 artists:
 - Eagles
+external_ids:
+  spotify: spotify:track:5MLLuLqPdUlx8bfKtdkLwO
 features: []
-genres: []
+first_released_as_single: false
 key: best-of-my-love-eagles
 lyrics_url: https://genius.com/Eagles-best-of-my-love-lyrics
 name: Best Of My Love
@@ -83,6 +86,8 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '1975-04-05'
+release_year: 1974
+runtime: 274891
 ---
 Every night I'm lying in bed
 Holding you close in my dreams

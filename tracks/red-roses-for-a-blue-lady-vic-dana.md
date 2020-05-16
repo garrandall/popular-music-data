@@ -1,8 +1,11 @@
 ---
+album: The Complete Hits Of Vic Dana
 artists:
 - Vic Dana
+external_ids:
+  spotify: spotify:track:2U8i316GHJMluI42xqbThK
 features: []
-genres: []
+first_released_as_single: false
 key: red-roses-for-a-blue-lady-vic-dana
 lyrics_url: https://genius.com/Vic-dana-red-roses-for-a-blue-lady-lyrics
 name: Red Roses For A Blue Lady
@@ -55,6 +58,8 @@ rankings:
   rank: 27
   ranking_list: Billboard Hot 100
   start_date: '1965-04-24'
+release_year: 1965
+runtime: 170360
 ---
 I want some red roses for a blue lady
 Mister florist take my order please

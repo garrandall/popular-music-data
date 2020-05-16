@@ -1,8 +1,11 @@
 ---
+album: Worldwide Underground
 artists:
 - Erykah Badu
+external_ids:
+  spotify: spotify:track:4dfvajW0PS2LG2kHFig8vy
 features: []
-genres: []
+first_released_as_single: false
 key: danger-erykah-badu
 lyrics_url: https://www.azlyrics.com/lyrics/erykahbadu/danger.html
 name: Danger
@@ -51,9 +54,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2003-11-01'
+release_year: 2003
+runtime: 349000
 ---
-
-
 The brotha's got this complex occupation
 The brotha's got this complex occupation
 The brotha's got this complex occupation
@@ -161,7 +164,4 @@ Yeyo, Yeyo
 Break!
 
 Your eye, your eye,your eye, your eye,
-Your eye, your eye, your eyes 
-
-
-
+Your eye, your eye, your eyes

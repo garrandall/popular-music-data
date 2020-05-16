@@ -1,9 +1,12 @@
 ---
+album: Diana Ross & The Supremes Join The Temptations
 artists:
 - Diana Ross And The Supremes
 - The Temptations
+external_ids:
+  spotify: spotify:track:3Rhxe6P1im82NFVkt9X2qZ
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-gonna-make-you-love-me-diana-ross-and-the-supremes-the-temptations
 lyrics_url: https://genius.com/Diana-ross-and-the-supremes-and-the-temptations-im-gonna-make-you-love-me-lyrics
 name: I'm Gonna Make You Love Me
@@ -60,6 +63,8 @@ rankings:
   rank: 31
   ranking_list: Billboard Hot 100
   start_date: '1969-03-01'
+release_year: 1968
+runtime: 187333
 ---
 Oh-oh-oh-oh-oh
 Oh-oh-oh-oh-oh

@@ -1,8 +1,11 @@
 ---
+album: Home
 artists:
 - Blessid Union Of Souls
+external_ids:
+  spotify: spotify:track:1JCZW25j2yONeYZhVksSNw
 features: []
-genres: []
+first_released_as_single: false
 key: let-me-be-the-one-blessid-union-of-souls
 lyrics_url: https://www.azlyrics.com/lyrics/blessidunionofsouls/letmebetheone.html
 name: Let Me Be The One
@@ -87,8 +90,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1995-12-16'
+release_year: 1995
+runtime: 278333
 ---
-
 So you're scared to show your feelings
 Baby I do understand
 Well I don't make a promise I can't keep
@@ -130,6 +134,3 @@ Don't be scared to show your feelings
 Cause baby I do understand
 And I don't make promises that I can't keep
 And I vow to be a real good man
-
-
-

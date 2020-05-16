@@ -1,8 +1,11 @@
 ---
+album: Girl Interrupted
 artists:
 - Ms. Jade
+external_ids:
+  spotify: spotify:track:1ONo2x3Lv4vhWoEd5A7U4q
 features: []
-genres: []
+first_released_as_single: false
 key: feel-the-girl-ms--jade
 lyrics_url: https://www.azlyrics.com/lyrics/msjade/feelthegirl.html
 name: Feel The Girl
@@ -23,9 +26,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2002-04-20'
+release_year: 2002
+runtime: 246133
 ---
-
-
 Ladies and gentlemen
 Ladies and gentlemen
 (Ms. Jade) Lay lay lay ladies and gentlemen
@@ -107,6 +110,3 @@ Shh doha doha digga doha doha fra fricky fricky feel the girl
 Fra fridicka feel the girl
 Fra freh freh freh freh freh feel feel feel feel
 Fra fra freaky feel
-
-
-

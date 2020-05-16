@@ -1,9 +1,12 @@
 ---
+album: It Won't Be Soon Before Long. (MTV Bonus Version)
 artists:
 - Maroon 5
+external_ids:
+  spotify: spotify:track:3jmHMBoFlXy3swI6d9DCxQ
 features:
 - Rihanna
-genres: []
+first_released_as_single: true
 key: if-i-never-see-your-face-again-maroon-5-rihanna
 lyrics_url: https://genius.com/Maroon-5-if-i-never-see-your-face-again-remix-lyrics
 name: If I Never See Your Face Again
@@ -88,6 +91,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2008-10-04'
+release_year: 2008
+runtime: 198413
 ---
 Now as the summer fades, I let you slip away
 You say I'm not your type, but I can make you sway

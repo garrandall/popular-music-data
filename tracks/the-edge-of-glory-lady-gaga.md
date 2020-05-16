@@ -1,8 +1,11 @@
 ---
+album: Born This Way
 artists:
 - Lady Gaga
+external_ids:
+  spotify: spotify:track:0JNdS1n0ifOP25XvhwAMgM
 features: []
-genres: []
+first_released_as_single: false
 key: the-edge-of-glory-lady-gaga
 lyrics_url: https://genius.com/Lady-gaga-the-edge-of-glory-lyrics
 name: The Edge Of Glory
@@ -103,6 +106,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2011-11-05'
+release_year: 2011
+runtime: 320586
 ---
 There ain't no reason you and me should be alone
 Tonight, yeah, baby

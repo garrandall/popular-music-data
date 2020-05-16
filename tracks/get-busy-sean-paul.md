@@ -1,8 +1,11 @@
 ---
+album: Dutty Rock
 artists:
 - Sean Paul
+external_ids:
+  spotify: spotify:track:5qTvkDrSfvwDv6RBjjcfQr
 features: []
-genres: []
+first_released_as_single: false
 key: get-busy-sean-paul
 lyrics_url: https://www.musixmatch.com/lyrics/Sean-Paul-vs-Rihanna/Get-Busy-VS-Pon-de-Replay
 name: Get Busy
@@ -135,6 +138,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2003-09-27'
+release_year: 2002
+runtime: 211666
 ---
 Come Mr. DJ song pon de replay
 Come Mr. DJ won't you turn the music up

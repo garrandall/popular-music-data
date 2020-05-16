@@ -1,8 +1,11 @@
 ---
+album: Evolution
 artists:
 - Boyz II Men
+external_ids:
+  spotify: spotify:track:6FuJokk9FHx0E00SZ8ib8X
 features: []
-genres: []
+first_released_as_single: false
 key: a-song-for-mama-boyz-ii-men
 lyrics_url: https://genius.com/Boyz-ii-men-a-song-for-mama-lyrics
 name: A Song For Mama
@@ -87,6 +90,8 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '1998-04-25'
+release_year: 1997
+runtime: 303373
 ---
 You taught me everything
 Everything you've given me

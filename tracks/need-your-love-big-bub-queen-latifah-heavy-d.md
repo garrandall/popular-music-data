@@ -1,10 +1,13 @@
 ---
+album: Timeless
 artists:
 - Big Bub
+external_ids:
+  spotify: spotify:track:251h5GZGnBlFpwg1USb9Aw
 features:
 - Queen Latifah
 - Heavy D
-genres: []
+first_released_as_single: false
 key: need-your-love-big-bub-queen-latifah-heavy-d
 lyrics_url: https://genius.com/Big-bub-need-your-love-lyrics
 name: Need Your Love
@@ -29,6 +32,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1997-10-04'
+release_year: 1997
+runtime: 226066
 ---
 Ha ha, yeah, Big Bub, nine seven
 Yo Latifah, do you

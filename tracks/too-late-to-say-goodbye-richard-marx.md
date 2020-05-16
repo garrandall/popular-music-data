@@ -1,8 +1,11 @@
 ---
+album: Repeat Offender
 artists:
 - Richard Marx
+external_ids:
+  spotify: spotify:track:30v1GJsSnw9GM1WndnsHIg
 features: []
-genres: []
+first_released_as_single: false
 key: too-late-to-say-goodbye-richard-marx
 lyrics_url: https://www.azlyrics.com/lyrics/richardmarx/toolatetosaygoodbye.html
 name: Too Late To Say Goodbye
@@ -59,8 +62,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1990-04-14'
+release_year: 1989
+runtime: 292600
 ---
-
 What I had to flaunt
 Has come back to haunt
 Like a restless wind
@@ -101,6 +105,3 @@ This feeling won't die
 It's too late to say goodbye
 I can't watch you cry
 It's too late to say goodbye
-
-
-

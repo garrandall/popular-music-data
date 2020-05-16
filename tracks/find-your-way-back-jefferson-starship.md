@@ -1,8 +1,11 @@
 ---
+album: Modern Times
 artists:
 - Jefferson Starship
+external_ids:
+  spotify: spotify:track:1QlHzR2Nl7gJlb4n3OrtrV
 features: []
-genres: []
+first_released_as_single: false
 key: find-your-way-back-jefferson-starship
 lyrics_url: https://www.azlyrics.com/lyrics/jeffersonstarship/findyourwayback.html
 name: Find Your Way Back
@@ -59,8 +62,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1981-06-27'
+release_year: 1981
+runtime: 255466
 ---
-
 You know, it's been a long, long road
 Since I packed up and left on my own
 And I carry a heavy load
@@ -111,6 +115,3 @@ Find your way back (find your way back)
 Find your way back
 Find your way back (find your way back)
 Find your way back
-
-
-

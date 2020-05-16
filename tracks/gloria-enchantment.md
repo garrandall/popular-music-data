@@ -1,8 +1,11 @@
 ---
+album: Enchantment
 artists:
 - Enchantment
+external_ids:
+  spotify: spotify:track:2XdRMTwfEjItKexvEiwEpF
 features: []
-genres: []
+first_released_as_single: false
 key: gloria-enchantment
 lyrics_url: https://www.azlyrics.com/lyrics/jessepowell/theenchantmentmedleygloriaitsyouthatineed.html
 name: Gloria
@@ -59,8 +62,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1977-04-23'
+release_year: 1976
+runtime: 338413
 ---
-
 Gloria, my Gloria
 Things ain't been the same since you've been away yeah
 Gloria, my Gloria
@@ -125,7 +129,4 @@ Baby baby
 Baby baby it's you that I need 
 Baby baby
 
-Baby baby it's you that I need 
-
-
-
+Baby baby it's you that I need

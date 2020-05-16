@@ -1,8 +1,12 @@
 ---
+album: My Kinda Party
 artists:
-- Jason Aldean With Kelly Clarkson
-features: []
-genres: []
+- Jason Aldean
+external_ids:
+  spotify: spotify:track:7CZiLgkiVHhFcDkI2Y4lZ4
+features:
+- Kelly Clarkson
+first_released_as_single: false
 key: don-t-you-wanna-stay-jason-aldean-with-kelly-clarkson
 name: Don't You Wanna Stay
 rankings:
@@ -130,5 +134,7 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2011-09-03'
+release_year: 2010
+runtime: 256440
 ---
 

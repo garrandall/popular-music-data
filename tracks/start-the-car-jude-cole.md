@@ -1,8 +1,11 @@
 ---
+album: Start The Car
 artists:
 - Jude Cole
+external_ids:
+  spotify: spotify:track:5k6LZE2GHmChX0UeKiKjvl
 features: []
-genres: []
+first_released_as_single: false
 key: start-the-car-jude-cole
 lyrics_url: https://genius.com/Jude-cole-start-the-car-lyrics
 name: Start The Car
@@ -35,6 +38,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1992-10-24'
+release_year: 1992
+runtime: 306840
 ---
 Yeah, yeah, uh-huh
 Well I'm tired of the pressure

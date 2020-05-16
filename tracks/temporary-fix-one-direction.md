@@ -1,8 +1,11 @@
 ---
+album: Made In The A.M.
 artists:
 - One Direction
+external_ids:
+  spotify: spotify:track:2Xcvt8NRLw0xbB3ClfW8MI
 features: []
-genres: []
+first_released_as_single: false
 key: temporary-fix-one-direction
 lyrics_url: https://www.azlyrics.com/lyrics/onedirection/temporaryfix.html
 name: Temporary Fix
@@ -11,8 +14,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2015-12-05'
+release_year: 2015
+runtime: 175013
 ---
-
 Saw your body language and I know how you're feeling
 You look like the kind of girl that's tired of speaking
 Standing with somebody but he doesn't know what you like
@@ -83,6 +87,3 @@ I'm your good time
 I'll be your temporary fix
 You can own me and we'll call this what you like
 Let me be your good night
-
-
-

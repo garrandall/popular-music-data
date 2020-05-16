@@ -1,8 +1,11 @@
 ---
+album: The Other Side Of Life
 artists:
 - The Moody Blues
+external_ids:
+  spotify: spotify:track:1T4iwEA2ySieXjWxjiMVWs
 features: []
-genres: []
+first_released_as_single: false
 key: your-wildest-dreams-the-moody-blues
 lyrics_url: https://genius.com/The-moody-blues-your-wildest-dreams-lyrics
 name: Your Wildest Dreams
@@ -91,6 +94,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1986-09-06'
+release_year: 1986
+runtime: 291000
 ---
 Once upon a time
 Once when you were mine

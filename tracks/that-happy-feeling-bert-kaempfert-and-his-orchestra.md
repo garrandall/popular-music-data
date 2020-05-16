@@ -1,8 +1,11 @@
 ---
+album: A Swingin' Safari
 artists:
 - Bert Kaempfert
+external_ids:
+  spotify: spotify:track:3H3tU3Px0shcEq18WkRY3p
 features: []
-genres: []
+first_released_as_single: false
 key: that-happy-feeling-bert-kaempfert-and-his-orchestra
 lyrics_url: https://genius.com/Bert-kaempfert-that-happy-feeling-lyrics
 name: That Happy Feeling
@@ -31,5 +34,7 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1962-06-30'
+release_year: 1962
+runtime: 172746
 ---
 Instrumental

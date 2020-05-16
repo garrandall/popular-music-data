@@ -1,8 +1,11 @@
 ---
+album: Goodnight Vienna
 artists:
 - Ringo Starr
+external_ids:
+  spotify: spotify:track:2YnZugg0pdEkAtSHR4dwFo
 features: []
-genres: []
+first_released_as_single: false
 key: no-no-song-ringo-starr
 lyrics_url: https://www.azlyrics.com/lyrics/ringostarr/nonosong.html
 name: No No Song
@@ -63,8 +66,9 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1975-05-10'
+release_year: 1974
+runtime: 154693
 ---
-
 Huh-huh! Huh-huh
 (Ah-ah-ah-ah-ah)
 (Aye-aye-aye-aye)
@@ -118,6 +122,3 @@ And then it makes it hard to find the door."
 Hey yeh!
 
 "i'll just have another drink, barman, have you got a large brandy?"
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Set This Circus Down
 artists:
 - Tim McGraw
+external_ids:
+  spotify: spotify:track:7iGdNkROFlxqUJkHNlkoQV
 features: []
-genres: []
+first_released_as_single: false
 key: the-cowboy-in-me-tim-mcgraw
 lyrics_url: https://www.azlyrics.com/lyrics/timmcgraw/thecowboyinme.html
 name: The Cowboy In Me
@@ -87,8 +90,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '2002-05-25'
+release_year: 2001
+runtime: 244506
 ---
-
 I don't know why I act the way I do 
 Like I ain't got a single thing to lose 
 Sometimes I'm my own worst enemy 
@@ -120,6 +124,3 @@ I guess that's just the cowboy in you
 
 We ride and never worry about the fall 
 I guess that's just the cowboy in us all
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Feels Like Today
 artists:
 - Rascal Flatts
+external_ids:
+  spotify: spotify:track:4YjjNHtEsTX6Af4mCTupT5
 features: []
-genres: []
+first_released_as_single: false
 key: bless-the-broken-road-rascal-flatts
 lyrics_url: https://genius.com/Rascal-flatts-bless-the-broken-road-lyrics
 name: Bless The Broken Road
@@ -87,6 +90,8 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '2005-04-30'
+release_year: 2004
+runtime: 226680
 ---
 I set out on a narrow way many years ago
 Hoping I would find true love along the broken road

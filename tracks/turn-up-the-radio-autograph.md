@@ -1,8 +1,11 @@
 ---
+album: Sign In Please
 artists:
 - Autograph
+external_ids:
+  spotify: spotify:track:7u0b4DthVvd2F2EzCiOx0Z
 features: []
-genres: []
+first_released_as_single: false
 key: turn-up-the-radio-autograph
 lyrics_url: https://www.azlyrics.com/lyrics/autograph/turnuptheradio.html
 name: Turn Up The Radio
@@ -83,8 +86,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1985-04-27'
+release_year: 1984
+runtime: 278506
 ---
-
 Turn it up
 Oh!
 
@@ -136,6 +140,3 @@ Turn up the radio
 I need the music, give me some more
 Turn up the radio
 I wanna feel it, got to give me some more
-
-
-

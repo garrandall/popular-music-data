@@ -1,8 +1,11 @@
 ---
+album: Boom Boom Rock 'N' Roll
 artists:
 - Freddy Cannon
+external_ids:
+  spotify: spotify:track:2AvLQRGacGcxZJ0GzzpRls
 features: []
-genres: []
+first_released_as_single: false
 key: teen-queen-of-the-week-freddy-cannon
 lyrics_url: https://genius.com/Freddy-cannon-teen-queen-of-the-week-lyrics
 name: Teen Queen Of The Week
@@ -15,6 +18,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1962-03-17'
+release_year: 1962
+runtime: 131386
 ---
 Last night they held a beauty contest
 And crowned my girl the best

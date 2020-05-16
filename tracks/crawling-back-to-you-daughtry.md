@@ -1,8 +1,11 @@
 ---
+album: It's Not Over....The Hits So Far
 artists:
 - Daughtry
+external_ids:
+  spotify: spotify:track:6BDtTzjbJ5kKKSWcJT8MlX
 features: []
-genres: []
+first_released_as_single: false
 key: crawling-back-to-you-daughtry
 lyrics_url: https://www.azlyrics.com/lyrics/daughtry/crawlingbacktoyou.html
 name: Crawling Back To You
@@ -47,8 +50,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2012-01-28'
+release_year: 2006
+runtime: 225813
 ---
-
 Lessons learned
 And bridges burned
 To the ground
@@ -125,6 +129,3 @@ I'm crawling back to you
 
 Crawling back to you
 Crawling back to you
-
-
-

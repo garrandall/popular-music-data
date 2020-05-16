@@ -1,8 +1,11 @@
 ---
+album: Hysteria
 artists:
 - The Human League
+external_ids:
+  spotify: spotify:track:1H5PKvXYdGgHKv8bPtRwQI
 features: []
-genres: []
+first_released_as_single: false
 key: the-lebanon-the-human-league
 lyrics_url: https://www.azlyrics.com/lyrics/humanleague/thelebanon.html
 name: The Lebanon
@@ -27,8 +30,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1984-07-07'
+release_year: 1984
+runtime: 304933
 ---
-
 She dreams of 1969
 Before the soldiers came
 The life was cheap on bread and wine
@@ -70,6 +74,3 @@ From the Lebanon
 The Lebanon
 The Lebanon
 From the Lebanon
-
-
-

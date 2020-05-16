@@ -1,9 +1,12 @@
 ---
+album: EVOL
 artists:
 - Future
+external_ids:
+  spotify: spotify:track:7EiZI6JVHllARrX9PUvAdX
 features:
 - The Weeknd
-genres: []
+first_released_as_single: false
 key: low-life-future-the-weeknd
 lyrics_url: https://www.musixmatch.com/lyrics/The-Weeknd-feat-Future-2/Low-Life-3
 name: Low Life
@@ -148,6 +151,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2016-10-22'
+release_year: 2016
+runtime: 313546
 ---
 Everybody getting high
 Getting high, getting high, getting high

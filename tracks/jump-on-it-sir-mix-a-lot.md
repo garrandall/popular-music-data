@@ -1,8 +1,11 @@
 ---
+album: Return Of The Bumpasaurus
 artists:
 - Sir Mix-A-Lot
+external_ids:
+  spotify: spotify:track:3G1lmq2hDoJZlemVcJNFK0
 features: []
-genres: []
+first_released_as_single: false
 key: jump-on-it-sir-mix-a-lot
 lyrics_url: https://genius.com/Sir-mix-a-lot-jump-on-it-lyrics
 name: Jump On It
@@ -19,6 +22,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1996-09-28'
+release_year: 1996
+runtime: 300533
 ---
 Ho, Ho, Ho
 I know I ain't hear somebody say

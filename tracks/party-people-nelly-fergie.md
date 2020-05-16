@@ -1,9 +1,12 @@
 ---
+album: The Dutchess Deluxe
 artists:
 - Nelly
+external_ids:
+  spotify: spotify:track:3oHrG7NcBZUwQ56Q1qEfPv
 features:
 - Fergie
-genres: []
+first_released_as_single: false
 key: party-people-nelly-fergie
 lyrics_url: https://www.azlyrics.com/lyrics/nelly/partypeople.html
 name: Party People
@@ -48,9 +51,9 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '2008-06-14'
+release_year: 2007
+runtime: 242240
 ---
-
-
 This is a motherfuckin emergency!
 (Let's go) Zone Fo', St. Louis - you ready?
 Haha, A-T-L... let's go!
@@ -123,6 +126,3 @@ I told you before that big girls don't cry
 
 
 Where my party people at? (Where my party people at?)
-
-
-

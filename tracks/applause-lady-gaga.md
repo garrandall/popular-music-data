@@ -1,8 +1,11 @@
 ---
+album: ARTPOP
 artists:
 - Lady Gaga
+external_ids:
+  spotify: spotify:track:63LAR8TGAGvpfLLM8Z1weo
 features: []
-genres: []
+first_released_as_single: true
 key: applause-lady-gaga
 lyrics_url: https://genius.com/Lady-gaga-applause-lyrics
 name: Applause
@@ -99,6 +102,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2014-02-01'
+release_year: 2013
+runtime: 212493
 ---
 I stand here waiting for you to bang the gong
 To crash the critic saying, “Is it right or is it wrong?”

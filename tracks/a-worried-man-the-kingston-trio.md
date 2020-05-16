@@ -1,8 +1,11 @@
 ---
+album: Here We Go Again
 artists:
 - The Kingston Trio
+external_ids:
+  spotify: spotify:track:2XVkxB5mFJvLuej0V6aVqb
 features: []
-genres: []
+first_released_as_single: false
 key: a-worried-man-the-kingston-trio
 lyrics_url: https://www.musixmatch.com/lyrics/The-Kingston-Trio/A-Worried-Man
 name: A Worried Man
@@ -51,6 +54,8 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '1959-11-23'
+release_year: 1959
+runtime: 172853
 ---
 It takes a worried man
 To sing a worried song

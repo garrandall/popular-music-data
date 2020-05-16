@@ -1,8 +1,11 @@
 ---
+album: Cosmo's Factory
 artists:
 - Creedence Clearwater Revival
+external_ids:
+  spotify: spotify:track:4FFOC5gezItYXltMTQEpqy
 features: []
-genres: []
+first_released_as_single: false
 key: travelin--band-creedence-clearwater-revival
 lyrics_url: https://www.azlyrics.com/lyrics/creedenceclearwaterrevival/travelinband.html
 name: Travelin' Band
@@ -47,8 +50,9 @@ rankings:
   rank: 26
   ranking_list: Billboard Hot 100
   start_date: '1970-04-04'
+release_year: 1969
+runtime: 128799
 ---
-
 Seven Thirty Seven comin' out of the sky.
 Oh! Won't you take me down to Memphis on a midnight ride,
 I wanna move.
@@ -90,6 +94,3 @@ Tryin' to get a hand,
 Playin' in a Travelin' Band, OH! WOW!
 
 Hey!
-
-
-

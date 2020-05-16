@@ -1,8 +1,11 @@
 ---
+album: The Great Songs from 'My Fair Lady' and Other Broadway Hits
 artists:
 - Andy Williams
+external_ids:
+  spotify: spotify:track:4XnagdTZs5yHI7wNyj802Y
 features: []
-genres: []
+first_released_as_single: false
 key: on-the-street-where-you-live-andy-williams
 lyrics_url: https://www.azlyrics.com/lyrics/andywilliams/onthestreetwhereyoulive.html
 name: On The Street Where You Live
@@ -39,8 +42,9 @@ rankings:
   rank: 35
   ranking_list: Billboard Hot 100
   start_date: '1964-10-31'
+release_year: 1962
+runtime: 188560
 ---
-
 I have often walked down this street before
 But the pavement always stayed beneath my feet before
 All at once am I several stories high
@@ -58,6 +62,3 @@ People stop and stare, they don't bother me
 For there's nowhere else on earth that I would rather be
 Let the time go by, I won't care if I
 Can be here on the street where you live
-
-
-

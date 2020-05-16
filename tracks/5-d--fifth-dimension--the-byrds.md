@@ -1,8 +1,11 @@
 ---
+album: THE ORIGINAL SINGLES 1965 - 1967 Volume I
 artists:
 - The Byrds
+external_ids:
+  spotify: spotify:track:0aPGKvqf3M5BjjwQC3CIfR
 features: []
-genres: []
+first_released_as_single: false
 key: 5-d--fifth-dimension--the-byrds
 lyrics_url: https://genius.com/The-byrds-5d-fifth-dimension-lyrics
 name: 5 D (Fifth Dimension)
@@ -27,6 +30,8 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1966-08-13'
+release_year: 1966
+runtime: 152760
 ---
 Oh how is it that I could come out to here
 And be still floating

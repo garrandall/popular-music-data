@@ -1,8 +1,11 @@
 ---
+album: The Best Of Ronnie Dove Volume 1
 artists:
 - Ronnie Dove
+external_ids:
+  spotify: spotify:track:0pMQwgR1wo0ttfZY9onBn3
 features: []
-genres: []
+first_released_as_single: false
 key: say-you-ronnie-dove
 lyrics_url: https://www.musixmatch.com/lyrics/Ronnie-Dove/Say-You
 name: Say You
@@ -51,6 +54,8 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '1964-09-26'
+release_year: 1964
+runtime: 147866
 ---
 Say, you, over there
 Please come here

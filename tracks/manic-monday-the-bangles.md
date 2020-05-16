@@ -1,8 +1,11 @@
 ---
+album: Different Light
 artists:
 - The Bangles
+external_ids:
+  spotify: spotify:track:54qrEGmR0eis06ES2eKTuC
 features: []
-genres: []
+first_released_as_single: false
 key: manic-monday-the-bangles
 lyrics_url: https://genius.com/The-bangles-manic-monday-lyrics
 name: Manic Monday
@@ -87,6 +90,8 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1986-06-07'
+release_year: 1981
+runtime: 183866
 ---
 Six o'clock already
 I was just in the middle of a dream

@@ -1,8 +1,11 @@
 ---
+album: The Complete Season 6 Collection (The Voice Performance)
 artists:
 - Josh Kaufman
+external_ids:
+  spotify: spotify:track:64Flzdebissfcq2f0QQq0t
 features: []
-genres: []
+first_released_as_single: false
 key: stay-with-me-josh-kaufman
 lyrics_url: https://www.musixmatch.com/lyrics/Josh-Kaufman/Stay-With-Me-The-Voice-Performance
 name: Stay With Me
@@ -11,6 +14,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2014-05-10'
+release_year: 2014
+runtime: 180726
 ---
 Guess it's true, I'm not good at a one-night stand
 But I still need love cause I'm just a man

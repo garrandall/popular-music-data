@@ -1,8 +1,11 @@
 ---
+album: Spanky & Our Gang
 artists:
 - Spanky And Our Gang
+external_ids:
+  spotify: spotify:track:42ccaJliexMY66rWpnaGId
 features: []
-genres: []
+first_released_as_single: false
 key: sunday-will-never-be-the-same-spanky-and-our-gang
 lyrics_url: https://genius.com/Spanky-and-our-gang-sunday-will-never-be-the-same-lyrics
 name: Sunday Will Never Be The Same
@@ -39,6 +42,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1967-07-08'
+release_year: 1967
+runtime: 180306
 ---
 I remember Sunday morning
 I would meet him at the park

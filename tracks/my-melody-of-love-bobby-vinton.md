@@ -1,8 +1,11 @@
 ---
+album: Because Of You (The Love Songs Collection)
 artists:
 - Bobby Vinton
+external_ids:
+  spotify: spotify:track:0kWgvFMSjTcmN0YHjmNxgO
 features: []
-genres: []
+first_released_as_single: false
 key: my-melody-of-love-bobby-vinton
 lyrics_url: https://www.azlyrics.com/lyrics/bobbyvinton/mymelodyoflove.html
 name: My Melody Of Love
@@ -75,8 +78,9 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '1975-01-11'
+release_year: 1974
+runtime: 191760
 ---
-
 I'm lookin for a place to go so I can be all alone
 From thoughts and memories
 So that when the music plays I don't go back to the days
@@ -111,6 +115,3 @@ Oh, oh,
 My melody of love
 My melody of love
 My melody of love
-
-
-

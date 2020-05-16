@@ -1,8 +1,11 @@
 ---
+album: The Step Daddy (Explicit)
 artists:
 - Hitman Sammy Sam
+external_ids:
+  spotify: spotify:track:1TKRumlRMXv2SEKPhueya0
 features: []
-genres: []
+first_released_as_single: false
 key: step-daddy-hitman-sammy-sam
 lyrics_url: https://genius.com/Hitman-sammy-sam-step-daddy-lyrics
 name: Step Daddy
@@ -19,6 +22,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2003-05-31'
+release_year: 2003
+runtime: 230493
 ---
 This for the step-daddies here
 

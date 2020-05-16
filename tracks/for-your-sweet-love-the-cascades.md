@@ -1,8 +1,11 @@
 ---
+album: 'Oldie Generation: The Cascades'
 artists:
 - The Cascades
+external_ids:
+  spotify: spotify:track:0tLx9xTs2l8Hzv5PYwIK1K
 features: []
-genres: []
+first_released_as_single: false
 key: for-your-sweet-love-the-cascades
 lyrics_url: https://www.musixmatch.com/lyrics/The-Cascades/For-Your-Sweet-Love
 name: For Your Sweet Love
@@ -19,6 +22,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1964-01-11'
+release_year: 1963
+runtime: 126720
 ---
 Take a piece of chalk
 And draw a line

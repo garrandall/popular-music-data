@@ -1,9 +1,12 @@
 ---
+album: Major Key
 artists:
 - DJ Khaled
+external_ids:
+  spotify: spotify:track:4JDZl9nKIAhAhDjw753u4X
 features:
 - Drake
-genres: []
+first_released_as_single: true
 key: for-free-dj-khaled-drake
 lyrics_url: https://www.azlyrics.com/lyrics/djkhaled/forfree.html
 name: For Free
@@ -88,9 +91,9 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '2016-11-05'
+release_year: 2016
+runtime: 183695
 ---
-
-
 Would you fuck me for free?
 Another one
 We the Best Music! Major Key! DJ Khaled!
@@ -167,6 +170,3 @@ One time for 40
 One time for Drake
 Another one
 Bless up
-
-
-

@@ -1,9 +1,12 @@
 ---
+album: Tha Hall Of Game
 artists:
 - E-40
+external_ids:
+  spotify: spotify:track:5SGYhng2ZjeNZlkbgnoZeR
 features:
 - Bo-Rock
-genres: []
+first_released_as_single: false
 key: things-ll-never-change-e-40-bo-rock
 lyrics_url: https://www.musixmatch.com/lyrics/E-40-feat-Bo-Rock-2/Things-ll-Never-Change
 name: Things'll Never Change
@@ -64,6 +67,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1997-05-03'
+release_year: 1995
+runtime: 303133
 ---
 Ah yeah
 It's real

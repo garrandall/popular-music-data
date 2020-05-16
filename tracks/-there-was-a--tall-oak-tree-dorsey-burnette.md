@@ -1,8 +1,11 @@
 ---
+album: The Golden Hits Of
 artists:
 - Dorsey Burnette
+external_ids:
+  spotify: spotify:track:4ZRmjXvlQ8k8YquGcWVjPY
 features: []
-genres: []
+first_released_as_single: false
 key: -there-was-a--tall-oak-tree-dorsey-burnette
 lyrics_url: https://genius.com/Dorsey-burnette-there-was-a-tall-oak-tree-lyrics
 name: (There Was A) Tall Oak Tree
@@ -67,6 +70,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1960-05-09'
+release_year: 1960
+runtime: 131586
 ---
 There was a tall oak tree
 That loved a babblin brook

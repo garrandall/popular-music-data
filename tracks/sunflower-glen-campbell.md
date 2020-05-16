@@ -1,8 +1,11 @@
 ---
+album: Southern Nights
 artists:
 - Glen Campbell
+external_ids:
+  spotify: spotify:track:0eIubxzEPvIoKgBawqYsih
 features: []
-genres: []
+first_released_as_single: false
 key: sunflower-glen-campbell
 lyrics_url: https://www.azlyrics.com/lyrics/glencampbell/sunflower.html
 name: Sunflower
@@ -51,8 +54,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1977-09-17'
+release_year: 1977
+runtime: 171333
 ---
-
 Sunflower, good morning
 You sure do make it like a sunny day
 Sunflower, fair warning
@@ -79,6 +83,3 @@ Sunflower, good morning
 You sure do make it like a sunny time
 Sunflower, sweet morning
 For every time I'm gonna make you mine
-
-
-

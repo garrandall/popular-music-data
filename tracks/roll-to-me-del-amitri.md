@@ -1,8 +1,11 @@
 ---
+album: Twisted
 artists:
 - Del Amitri
+external_ids:
+  spotify: spotify:track:7LF0YY1gON8rBECsyEs0Wb
 features: []
-genres: []
+first_released_as_single: false
 key: roll-to-me-del-amitri
 lyrics_url: https://genius.com/Del-amitri-roll-to-me-lyrics
 name: Roll To Me
@@ -151,6 +154,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1996-03-09'
+release_year: 1995
+runtime: 132306
 ---
 Look around your world pretty baby
 Is it everything you hoped it'd be

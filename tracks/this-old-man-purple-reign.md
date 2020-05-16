@@ -1,8 +1,11 @@
 ---
+album: This Old Man
 artists:
 - Purple Reign
+external_ids:
+  spotify: spotify:track:4UidIHIPqESo40EEuXck6v
 features: []
-genres: []
+first_released_as_single: true
 key: this-old-man-purple-reign
 name: This Old Man
 rankings:
@@ -38,5 +41,7 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '1976-01-10'
+release_year: 1975
+runtime: 161784
 ---
 

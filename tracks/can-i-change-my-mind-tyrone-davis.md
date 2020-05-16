@@ -1,8 +1,11 @@
 ---
+album: Can I Change My Mind
 artists:
 - Tyrone Davis
+external_ids:
+  spotify: spotify:track:0zyyaMpWRZNSx2GqAMFKX3
 features: []
-genres: []
+first_released_as_single: false
 key: can-i-change-my-mind-tyrone-davis
 lyrics_url: https://genius.com/Tyrone-davis-can-i-change-my-mind-lyrics
 name: Can I Change My Mind
@@ -59,6 +62,8 @@ rankings:
   rank: 22
   ranking_list: Billboard Hot 100
   start_date: '1969-03-15'
+release_year: 1968
+runtime: 177733
 ---
 Aww, she didn't bat an eye
 As I packed my bags to leave

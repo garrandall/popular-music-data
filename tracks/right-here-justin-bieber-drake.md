@@ -1,9 +1,12 @@
 ---
+album: Believe
 artists:
 - Justin Bieber
+external_ids:
+  spotify: spotify:track:2Rmuzh89p29BeTIF63Opwo
 features:
 - Drake
-genres: []
+first_released_as_single: false
 key: right-here-justin-bieber-drake
 lyrics_url: https://www.musixmatch.com/lyrics/Justin-Bieber-feat-Drake/Right-Here
 name: Right Here
@@ -12,6 +15,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2012-07-07'
+release_year: 2012
+runtime: 204186
 ---
 Baby I'm here, I'm here to stay, I ain't going nowhere
 I know you're scared cause you've been hurt,

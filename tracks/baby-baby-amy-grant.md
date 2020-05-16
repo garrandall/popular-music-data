@@ -1,8 +1,11 @@
 ---
+album: Heart In Motion
 artists:
 - Amy Grant
+external_ids:
+  spotify: spotify:track:3IDsegNBHC4pjGCOMTQYlU
 features: []
-genres: []
+first_released_as_single: false
 key: baby-baby-amy-grant
 lyrics_url: https://genius.com/Amy-grant-baby-baby-lyrics
 name: Baby Baby
@@ -91,6 +94,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1991-07-13'
+release_year: 1991
+runtime: 236973
 ---
 Baby, baby
 I'm taken with the notion

@@ -1,8 +1,11 @@
 ---
+album: 'Atlantic Records 40th Anniversary: Hit Singles'
 artists:
 - Hot
+external_ids:
+  spotify: spotify:track:1qOwgAjki5VN0G2kXEUCLG
 features: []
-genres: []
+first_released_as_single: false
 key: angel-in-your-arms-hot
 lyrics_url: https://genius.com/Dj-hot-angel-in-your-arms-lyrics
 name: Angel In Your Arms
@@ -115,6 +118,8 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '1977-08-20'
+release_year: 1977
+runtime: 176573
 ---
 ANGEL IN YOUR ARMS
 

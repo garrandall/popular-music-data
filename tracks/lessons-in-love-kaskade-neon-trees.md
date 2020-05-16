@@ -1,9 +1,12 @@
 ---
+album: Fire & Ice
 artists:
 - Kaskade
+external_ids:
+  spotify: spotify:track:3fPPBbpHUpUnZOU9QwBiWp
 features:
 - Neon Trees
-genres: []
+first_released_as_single: false
 key: lessons-in-love-kaskade-neon-trees
 lyrics_url: https://genius.com/Kaskade-lessons-in-love-lyrics
 name: Lessons In Love
@@ -12,6 +15,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2011-11-12'
+release_year: 2011
+runtime: 247760
 ---
 When you walk my way
 I feel the rush come over me

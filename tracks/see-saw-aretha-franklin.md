@@ -1,8 +1,11 @@
 ---
+album: Aretha Now
 artists:
 - Aretha Franklin
+external_ids:
+  spotify: spotify:track:1vrJWHhhDQ5JcB9xtF2VMq
 features: []
-genres: []
+first_released_as_single: false
 key: see-saw-aretha-franklin
 lyrics_url: https://genius.com/Aretha-franklin-see-saw-lyrics
 name: See Saw
@@ -39,6 +42,8 @@ rankings:
   rank: 36
   ranking_list: Billboard Hot 100
   start_date: '1969-01-11'
+release_year: 1968
+runtime: 166360
 ---
 Sometimes you love me
 Like a good man oughta

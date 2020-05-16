@@ -1,8 +1,11 @@
 ---
+album: Revolution
 artists:
 - Miranda Lambert
+external_ids:
+  spotify: spotify:track:02eD9ymfJOJOhM97HYp5R9
 features: []
-genres: []
+first_released_as_single: false
 key: the-house-that-built-me-miranda-lambert
 lyrics_url: https://genius.com/Miranda-lambert-the-house-that-built-me-lyrics
 name: The House That Built Me
@@ -87,6 +90,8 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '2010-08-21'
+release_year: 2009
+runtime: 236626
 ---
 I know they say "You can’t go home again"
 I just had to come back one last time

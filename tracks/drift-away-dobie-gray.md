@@ -1,8 +1,11 @@
 ---
+album: 'Ultimate Collection: Dobie Gray'
 artists:
 - Dobie Gray
+external_ids:
+  spotify: spotify:track:6hJhVBOnkchxBsDHbLOBJP
 features: []
-genres: []
+first_released_as_single: false
 key: drift-away-dobie-gray
 lyrics_url: https://genius.com/Dobie-gray-drift-away-lyrics
 name: Drift Away
@@ -91,6 +94,8 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '1973-07-14'
+release_year: 1973
+runtime: 237466
 ---
 Day after day I'm more confused
 Yet I look for the light through the pouring rain

@@ -1,8 +1,11 @@
 ---
+album: Back Where I Belong
 artists:
 - Four Tops
+external_ids:
+  spotify: spotify:track:1QMBPrEheDmXyC9dE820gd
 features: []
-genres: []
+first_released_as_single: false
 key: i-just-can-t-walk-away-four-tops
 lyrics_url: https://genius.com/The-four-tops-i-just-cant-walk-away-lyrics
 name: I Just Can't Walk Away
@@ -43,6 +46,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1983-12-17'
+release_year: 1983
+runtime: 260200
 ---
 Once again we said it's over
 And just like before

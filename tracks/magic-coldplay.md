@@ -1,8 +1,11 @@
 ---
+album: Ghost Stories
 artists:
 - Coldplay
+external_ids:
+  spotify: spotify:track:23khhseCLQqVMCIT1WMAns
 features: []
-genres: []
+first_released_as_single: false
 key: magic-coldplay
 lyrics_url: https://www.azlyrics.com/lyrics/coldplay/magic.html
 name: Magic
@@ -63,8 +66,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2014-06-21'
+release_year: 2014
+runtime: 285014
 ---
-
 Call it magic
 Call it true
 Call it magic
@@ -124,6 +128,3 @@ Oh yes I do
 Yes I do
 Oh yes I do
 Of course I do
-
-
-

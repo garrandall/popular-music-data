@@ -1,8 +1,11 @@
 ---
+album: Luna Sea
 artists:
 - Firefall
+external_ids:
+  spotify: spotify:track:7MPz81ZGZt0hQnUa2mJQUY
 features: []
-genres: []
+first_released_as_single: false
 key: so-long-firefall
 lyrics_url: https://www.azlyrics.com/lyrics/firefall/solong.html
 name: So Long
@@ -31,8 +34,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1978-02-18'
+release_year: 1977
+runtime: 326640
 ---
-
 Nevermind the reason, you may never know
 Blame it on the seasons, they come and go
 Blame it on the weather, something in the wind
@@ -79,6 +83,3 @@ I been wrong before
 (You can say you know what happened)
 Does it really matter, oh
 You can say you know what happened
-
-
-

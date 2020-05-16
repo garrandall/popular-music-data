@@ -1,8 +1,11 @@
 ---
+album: 'Tears Of Fire: The 25th Anniversary Collection'
 artists:
 - Tammy Wynette
+external_ids:
+  spotify: spotify:track:3kLPYEPgPfa5fBROK2qjbP
 features: []
-genres: []
+first_released_as_single: false
 key: i-ll-see-him-through-tammy-wynette
 lyrics_url: https://genius.com/Tammy-wynette-ill-see-him-through-lyrics
 name: I'll See Him Through
@@ -15,6 +18,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1970-02-07'
+release_year: 1964
+runtime: 172160
 ---
 Sometimes, I wonder if he loves me like he used to
 So many things bring doubt to my mind

@@ -1,8 +1,11 @@
 ---
+album: Circles
 artists:
 - Mac Miller
+external_ids:
+  spotify: spotify:track:0udOCZp7yk0Ml92C0k8H8D
 features: []
-genres: []
+first_released_as_single: false
 key: that-s-on-me-mac-miller
 lyrics_url: https://www.musixmatch.com/lyrics/Mac-Miller/That-s-On-Me
 name: That's On Me
@@ -11,6 +14,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2020-02-01'
+release_year: 2020
+runtime: 217868
 ---
 That's on me, that's on me, I know
 That's on me, that's on me, it's all my fault

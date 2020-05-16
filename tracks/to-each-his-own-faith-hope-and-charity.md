@@ -1,9 +1,12 @@
 ---
+album: Faith, Hope & Charity
 artists:
 - Faith
 - Hope And Charity
+external_ids:
+  spotify: spotify:track:6bHlinY9FlU19g4dA0IXvD
 features: []
-genres: []
+first_released_as_single: false
 key: to-each-his-own-faith-hope-and-charity
 name: To Each His Own
 rankings:
@@ -67,5 +70,7 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1975-11-22'
+release_year: 1975
+runtime: 319373
 ---
 

@@ -1,8 +1,11 @@
 ---
+album: Break the Cycle
 artists:
 - Staind
+external_ids:
+  spotify: spotify:track:25CMmGsl22APKhfuj4Tp7j
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-been-awhile-staind
 lyrics_url: https://www.azlyrics.com/lyrics/staind/itsbeenawhile.html
 name: It's Been Awhile
@@ -191,8 +194,9 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2002-02-23'
+release_year: 2001
+runtime: 264706
 ---
-
 And it's been awhile
 Since I could hold my head up high
 And it's been awhile
@@ -243,6 +247,3 @@ And it's been awhile
 Since I could hold my head up high
 And it's been awhile
 Since I said I'm sorry
-
-
-

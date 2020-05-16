@@ -1,8 +1,11 @@
 ---
+album: The Great Sir Douglas Quintet Live
 artists:
 - Sir Douglas Quintet
+external_ids:
+  spotify: spotify:track:3S0T61WfNihtpcoYuDa3Ri
 features: []
-genres: []
+first_released_as_single: false
 key: the-rains-came-sir-douglas-quintet
 lyrics_url: https://genius.com/The-sir-douglas-quintet-the-rains-came-lyrics
 name: The Rains Came
@@ -51,6 +54,8 @@ rankings:
   rank: 52
   ranking_list: Billboard Hot 100
   start_date: '1966-04-09'
+release_year: 1966
+runtime: 168533
 ---
 Rain, rain, rain, rain
 My tears keep tumbling down

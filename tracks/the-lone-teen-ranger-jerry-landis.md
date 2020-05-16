@@ -1,8 +1,11 @@
 ---
+album: The Best of Old Rock/Pop
 artists:
 - Jerry Landis
+external_ids:
+  spotify: spotify:track:2bTnyC2hJc8U5mXcCL0Mtf
 features: []
-genres: []
+first_released_as_single: false
 key: the-lone-teen-ranger-jerry-landis
 lyrics_url: https://www.musixmatch.com/lyrics/Simon-Art-Garfunkel/The-Lone-Teen-Ranger-Jerry-Landis
 name: The Lone Teen Ranger
@@ -19,6 +22,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1963-02-02'
+release_year: 1963
+runtime: 139440
 ---
 Hiyo Silver, away.
 (Nonsense syllables)

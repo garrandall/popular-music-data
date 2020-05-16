@@ -1,8 +1,11 @@
 ---
+album: +
 artists:
 - Ed Sheeran
+external_ids:
+  spotify: spotify:track:5wDo8f5JkiLu98wa38chVT
 features: []
-genres: []
+first_released_as_single: true
 key: don-t-ed-sheeran
 lyrics_url: https://genius.com/Ed-sheeran-dont-lyrics
 name: Don't
@@ -151,6 +154,8 @@ rankings:
   rank: 38
   ranking_list: Billboard Hot 100
   start_date: '2015-02-28'
+release_year: 2011
+runtime: 213600
 ---
 I met this girl late last year
 She said, "Don't you worry if I disappear"

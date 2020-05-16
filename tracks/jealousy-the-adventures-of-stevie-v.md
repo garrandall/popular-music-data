@@ -1,8 +1,11 @@
 ---
+album: Adventures Of Stevie V
 artists:
 - The Adventures Of Stevie V
+external_ids:
+  spotify: spotify:track:5jiL19Nh6e8RBabkmwBSeS
 features: []
-genres: []
+first_released_as_single: false
 key: jealousy-the-adventures-of-stevie-v
 lyrics_url: https://genius.com/Adventures-of-stevie-v-jealousy-lyrics
 name: Jealousy
@@ -31,6 +34,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1991-02-23'
+release_year: 1990
+runtime: 324533
 ---
 Degradation, aggravation
 Jealousy's my observation

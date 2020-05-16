@@ -1,8 +1,11 @@
 ---
+album: The Ultimate Petula Clark
 artists:
 - Petula Clark
+external_ids:
+  spotify: spotify:track:6Gnu9oeLUqAXTfmspkBNiU
 features: []
-genres: []
+first_released_as_single: false
 key: the-other-man-s-grass-is-always-greener-petula-clark
 lyrics_url: https://www.azlyrics.com/lyrics/petulaclark/theothermansgrassisalwaysgreener.html
 name: The Other Man's Grass Is Always Greener
@@ -35,8 +38,9 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1968-01-13'
+release_year: 1967
+runtime: 174426
 ---
-
 Life is never what it seems 
 We're always searching in our dreams 
 To find that little castle in the air 
@@ -88,6 +92,3 @@ The sun shines brighter on the other side
 The other man's grass is always greener 
 Some are lucky, some are not 
 But I'm so thankful for what I've got
-
-
-

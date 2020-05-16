@@ -1,8 +1,11 @@
 ---
+album: Whitesnake
 artists:
 - Whitesnake
+external_ids:
+  spotify: spotify:track:3uBV7qO7PSMatjXySYy6eo
 features: []
-genres: []
+first_released_as_single: false
 key: give-me-all-your-love-whitesnake
 lyrics_url: https://genius.com/Whitesnake-give-me-all-your-love-lyrics
 name: Give Me All Your Love
@@ -51,6 +54,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1988-04-23'
+release_year: 1987
+runtime: 208133
 ---
 When I first saw you, baby
 You took my breath away

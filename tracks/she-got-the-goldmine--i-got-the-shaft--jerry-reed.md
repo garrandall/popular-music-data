@@ -1,8 +1,11 @@
 ---
+album: The Man with the Golden Thumb
 artists:
 - Jerry Reed
+external_ids:
+  spotify: spotify:track:78iLhGgOe9TGEIut074O8A
 features: []
-genres: []
+first_released_as_single: false
 key: she-got-the-goldmine--i-got-the-shaft--jerry-reed
 lyrics_url: https://genius.com/Jerry-reed-she-got-the-goldmine-i-got-the-shaft-lyrics
 name: She Got The Goldmine (i Got The Shaft)
@@ -43,6 +46,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1982-09-18'
+release_year: 1982
+runtime: 196466
 ---
 Well I guess it was back in '63
 When eatin' my cookin' got the better of me

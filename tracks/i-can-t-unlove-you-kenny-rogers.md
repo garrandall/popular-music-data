@@ -1,8 +1,11 @@
 ---
+album: Water & Bridges
 artists:
 - Kenny Rogers
+external_ids:
+  spotify: spotify:track:6Yp4C2d3ZYhbUc4xiQAySq
 features: []
-genres: []
+first_released_as_single: false
 key: i-can-t-unlove-you-kenny-rogers
 lyrics_url: https://www.musixmatch.com/lyrics/Kenny-Rogers/I-Can-t-Unlove-You
 name: I Can't Unlove You
@@ -27,6 +30,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2006-07-15'
+release_year: 2006
+runtime: 204653
 ---
 Postcards and letters
 And pictures made to last forever

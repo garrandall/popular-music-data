@@ -1,8 +1,11 @@
 ---
+album: Neighborhoods
 artists:
 - Blink-182
+external_ids:
+  spotify: spotify:track:0sqQ9N6hY0ieocwrgxgJ9F
 features: []
-genres: []
+first_released_as_single: false
 key: up-all-night-blink-182
 lyrics_url: https://genius.com/Blink-182-up-all-night-lyrics
 name: Up All Night
@@ -15,6 +18,8 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '2011-08-06'
+release_year: 2011
+runtime: 199706
 ---
 Everyone wants to call it all around our life with a better name
 Everyone falls and spins and gets up again with a friend who does the same

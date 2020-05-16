@@ -1,8 +1,11 @@
 ---
+album: Ricky Sings Again
 artists:
 - Ricky Nelson
+external_ids:
+  spotify: spotify:track:1asCFshazteZOYJ6gqv0Fj
 features: []
-genres: []
+first_released_as_single: false
 key: i-got-a-feeling-ricky-nelson
 lyrics_url: https://www.azlyrics.com/lyrics/rickynelson/igotafeeling.html
 name: I Got A Feeling
@@ -75,8 +78,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1959-02-02'
+release_year: 1958
+runtime: 125066
 ---
-
 Well I've got a feeling
 That I'm gonna get you
 Say I've got a little feeling
@@ -100,6 +104,3 @@ That you love me only
 that you really do
 And I never had this feeling
 'Til I fell in love with you
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Muscle Of Love
 artists:
 - Alice Cooper
+external_ids:
+  spotify: spotify:track:3OI78dvWiKFAIDaSnwu4Pv
 features: []
-genres: []
+first_released_as_single: false
 key: teenage-lament--74-alice-cooper
 lyrics_url: https://www.azlyrics.com/lyrics/alicecooper/teenagelament74.html
 name: Teenage Lament '74
@@ -39,8 +42,9 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '1974-02-16'
+release_year: 1973
+runtime: 232693
 ---
-
 What a drag it is
 These gold lame jeans
 Is this the coolest way
@@ -93,6 +97,3 @@ Why don't you get away
 Well, I'd rather cry all day
 
 What are you gonna do, gonna do, gonna do...
-
-
-

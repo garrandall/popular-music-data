@@ -1,8 +1,11 @@
 ---
+album: Where There's Smoke...
 artists:
 - Smokey Robinson
+external_ids:
+  spotify: spotify:track:2gliw3L0oa4w8LqaHploje
 features: []
-genres: []
+first_released_as_single: false
 key: cruisin--smokey-robinson
 lyrics_url: https://www.azlyrics.com/lyrics/smokeyrobinson/cruisin.html
 name: Cruisin'
@@ -107,8 +110,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1980-03-22'
+release_year: 1979
+runtime: 352920
 ---
-
 Baby, let's cruise away from here
 Don't be confused, the way is clear
 And if you want it, you got it forever
@@ -162,6 +166,3 @@ You gonna fly away, glad you're goin' my way
 I love it when we're cruising together
 The music is played for love, cruisin' is made for love
 I love it, I love it, I love it, I love it...
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: The Complete Original Chart Hits 1964-1969
 artists:
 - Ronnie Dove
+external_ids:
+  spotify: spotify:track:0YbKyUAst6ZaTtJSOkU8G1
 features: []
-genres: []
+first_released_as_single: false
 key: tomboy-ronnie-dove
 lyrics_url: https://www.musixmatch.com/lyrics/Ronnie-Dove/Tomboy
 name: Tomboy
@@ -19,6 +22,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1968-10-05'
+release_year: 1968
+runtime: 169080
 ---
 When you fell and skinned your knees
 By jumping fences, climbing trees

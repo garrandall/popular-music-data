@@ -1,8 +1,11 @@
 ---
+album: 'A Good Thing Lost: 1968-1973'
 artists:
 - The Poppy Family
+external_ids:
+  spotify: spotify:track:3w56u6nrL0K1YYpinkfTeP
 features: []
-genres: []
+first_released_as_single: false
 key: where-evil-grows-the-poppy-family
 lyrics_url: https://genius.com/The-poppy-family-where-evil-grows-lyrics
 name: Where Evil Grows
@@ -55,6 +58,8 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '1971-10-16'
+release_year: 1971
+runtime: 171000
 ---
 I like the way you smile at me
 I felt the heat that enveloped me

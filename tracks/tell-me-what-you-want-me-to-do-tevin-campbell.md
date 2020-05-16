@@ -1,8 +1,11 @@
 ---
+album: T.E.V.I.N.
 artists:
 - Tevin Campbell
+external_ids:
+  spotify: spotify:track:0IhHkW1fnUSMEcLSHmKhrJ
 features: []
-genres: []
+first_released_as_single: false
 key: tell-me-what-you-want-me-to-do-tevin-campbell
 lyrics_url: https://www.azlyrics.com/lyrics/tevincampbell/tellmewhatyouwantmetodo.html
 name: Tell Me What You Want Me To Do
@@ -107,8 +110,9 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1992-04-25'
+release_year: 1991
+runtime: 256040
 ---
-
 I love you girl 
 You called me up and I came to see you 
 You say you've been awake all night 
@@ -158,6 +162,3 @@ Tell me what you want me to do
 My love is always here for you 
 So tell me what you want me to do 
 So tell me what you want me to do
-
-
-

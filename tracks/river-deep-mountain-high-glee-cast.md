@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music, Volume 4'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:6w8tGzTSdZKkKG4IWh1n6h
 features: []
-genres: []
+first_released_as_single: false
 key: river-deep-mountain-high-glee-cast
 lyrics_url: https://www.azlyrics.com/lyrics/gleecast/riverdeepmountainhigh.html
 name: River Deep Mountain High
@@ -11,8 +14,9 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '2010-10-30'
+release_year: 2010
+runtime: 212626
 ---
-
 When I was a little girl I had a rag doll
 Only doll I've ever owned
 Now I'll love you just the way I loved that rag doll
@@ -54,6 +58,3 @@ Do I love you? My, oh, my
 River-deep, mountain-high! Yeah, yeah, yeah
 If I lost you would I cry?
 Oh, how I love you, baby, baby, baby, baby
-
-
-

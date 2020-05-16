@@ -1,8 +1,11 @@
 ---
+album: Meteora
 artists:
 - Linkin Park
+external_ids:
+  spotify: spotify:track:3BmjRmFTESgWZLPSVGp8aG
 features: []
-genres: []
+first_released_as_single: false
 key: lying-from-you-linkin-park
 lyrics_url: https://www.azlyrics.com/lyrics/linkinpark/lyingfromyou.html
 name: Lying From You
@@ -79,9 +82,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2004-08-21'
+release_year: 2003
+runtime: 175373
 ---
-
-
 When I pretend, everything is what I want it to be
 I look exactly like what you had always wanted to see
 When I pretend, I can forget about the criminal I am
@@ -146,6 +149,3 @@ No turning back now
 No, no turning back now
 (The very worst part of you)
 (The very worst part of you is me)
-
-
-

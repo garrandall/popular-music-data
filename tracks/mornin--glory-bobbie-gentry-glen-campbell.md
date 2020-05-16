@@ -1,9 +1,12 @@
 ---
+album: Bobbie Gentry And Glen Campbell
 artists:
 - Bobbie Gentry
 - Glen Campbell
+external_ids:
+  spotify: spotify:track:0YcKZu2WVjO0U3vSNAPsKj
 features: []
-genres: []
+first_released_as_single: false
 key: mornin--glory-bobbie-gentry-glen-campbell
 lyrics_url: https://genius.com/Bobbie-gentry-and-glen-campbell-mornin-glory-lyrics
 name: Mornin' Glory
@@ -32,6 +35,8 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '1968-11-30'
+release_year: 1968
+runtime: 174946
 ---
 Good mornin', mornin' glory
 Good mornin', what's your story?

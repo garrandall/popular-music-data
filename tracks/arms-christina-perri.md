@@ -1,8 +1,11 @@
 ---
+album: lovestrong.
 artists:
 - Christina Perri
+external_ids:
+  spotify: spotify:track:5u0YB9bpmgEPS2bPhwfRFV
 features: []
-genres: []
+first_released_as_single: false
 key: arms-christina-perri
 lyrics_url: https://www.azlyrics.com/lyrics/christinaperri/arms.html
 name: Arms
@@ -15,8 +18,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2011-09-10'
+release_year: 2011
+runtime: 261213
 ---
-
 I never thought that you would be the one to hold my heart
 But you came around and you knocked me off the ground from the start
 
@@ -54,6 +58,3 @@ I'll never let our love get so close
 You put your arms around me and I'm home
 
 You put your arms around me and I'm home
-
-
-

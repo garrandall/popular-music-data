@@ -1,8 +1,11 @@
 ---
+album: 'Hang On Sloopy: The Best Of The McCoys'
 artists:
 - The McCoys
+external_ids:
+  spotify: spotify:track:7KKCysLL3WwTRZnyGWVeZV
 features: []
-genres: []
+first_released_as_single: false
 key: beat-the-clock-the-mccoys
 lyrics_url: https://genius.com/The-mccoys-beat-the-clock-lyrics
 name: Beat The Clock
@@ -15,6 +18,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1967-05-20'
+release_year: 1967
+runtime: 239933
 ---
 Beat the clock. Try to make it stop
 Before time can draw the line

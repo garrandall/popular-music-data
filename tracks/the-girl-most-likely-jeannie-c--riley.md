@@ -1,8 +1,11 @@
 ---
+album: Yearbooks and Yesterdays
 artists:
 - Jeannie C. Riley
+external_ids:
+  spotify: spotify:track:0gKwwWFlHf1pkdLIeSmqW4
 features: []
-genres: []
+first_released_as_single: false
 key: the-girl-most-likely-jeannie-c--riley
 lyrics_url: https://genius.com/Jeannie-c-riley-the-girl-most-likely-lyrics
 name: The Girl Most Likely
@@ -31,6 +34,8 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '1969-01-11'
+release_year: 1968
+runtime: 128459
 ---
 Papa worked but his cheque was small
 Mama sewed just to help us all

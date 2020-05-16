@@ -1,8 +1,11 @@
 ---
+album: 'Everlasting: The Best Of Carl Carlton'
 artists:
 - Carl Carlton
+external_ids:
+  spotify: spotify:track:1Hmm0C4IccbRODCp5vUGBU
 features: []
-genres: []
+first_released_as_single: false
 key: smokin--room-carl-carlton
 lyrics_url: https://genius.com/Carl-carlton-smokin-room-lyrics
 name: Smokin' Room
@@ -23,6 +26,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1975-03-08'
+release_year: 1975
+runtime: 213186
 ---
 Oh, oh, oh, yeah
 

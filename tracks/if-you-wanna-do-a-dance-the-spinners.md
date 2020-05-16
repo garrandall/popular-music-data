@@ -1,8 +1,11 @@
 ---
+album: From Here To Eternally
 artists:
 - The Spinners
+external_ids:
+  spotify: spotify:track:7GCmYWkqCsCJe8JdQwMt3w
 features: []
-genres: []
+first_released_as_single: false
 key: if-you-wanna-do-a-dance-the-spinners
 lyrics_url: https://genius.com/The-spinners-if-you-wanna-do-a-dance-all-night-lyrics
 name: If You Wanna Do A Dance
@@ -31,6 +34,8 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '1978-09-02'
+release_year: 1978
+runtime: 427093
 ---
 If you wanna do a dance all night, all night
 If you wanna do a dance all night

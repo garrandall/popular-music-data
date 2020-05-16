@@ -1,8 +1,11 @@
 ---
+album: Stop All The World Now
 artists:
 - Howie Day
+external_ids:
+  spotify: spotify:track:6dwkFmLUz6hx2CZG2EqLol
 features: []
-genres: []
+first_released_as_single: false
 key: collide-howie-day
 lyrics_url: https://www.azlyrics.com/lyrics/howieday/collide.html
 name: Collide
@@ -135,8 +138,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2005-09-17'
+release_year: 2003
+runtime: 249120
 ---
-
 The dawn is breaking
 A light shining through
 You're barely waking
@@ -180,6 +184,3 @@ You finally find
 You and I collide
 You finally find
 You and I collide
-
-
-

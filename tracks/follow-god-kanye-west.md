@@ -1,8 +1,11 @@
 ---
+album: JESUS IS KING
 artists:
 - Kanye West
+external_ids:
+  spotify: spotify:track:2QpGZOhTCHHiKmpSO9FW4h
 features: []
-genres: []
+first_released_as_single: false
 key: follow-god-kanye-west
 lyrics_url: https://genius.com/Kanye-west-follow-god-lyrics
 name: Follow God
@@ -31,6 +34,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2019-12-14'
+release_year: 2019
+runtime: 104591
 ---
 Father, I stretch
 Stretch my hands to You

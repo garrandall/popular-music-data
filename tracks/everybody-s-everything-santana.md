@@ -1,8 +1,11 @@
 ---
+album: Santana (III)
 artists:
 - Santana
+external_ids:
+  spotify: spotify:track:2YLnhsmArUvFQpisSeNFDQ
 features: []
-genres: []
+first_released_as_single: false
 key: everybody-s-everything-santana
 lyrics_url: https://genius.com/Santana-everybodys-everything-lyrics
 name: Everybody's Everything
@@ -47,6 +50,8 @@ rankings:
   rank: 37
   ranking_list: Billboard Hot 100
   start_date: '1971-12-18'
+release_year: 1969
+runtime: 210320
 ---
 Seems like everybody's waitin' for the new change to come around
 Come around, come around, come around

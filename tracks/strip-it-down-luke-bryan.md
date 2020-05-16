@@ -1,8 +1,11 @@
 ---
+album: Kill The Lights
 artists:
 - Luke Bryan
+external_ids:
+  spotify: spotify:track:5XFu5S1vBY7sNHlheCapOz
 features: []
-genres: []
+first_released_as_single: false
 key: strip-it-down-luke-bryan
 lyrics_url: https://genius.com/Luke-bryan-strip-it-down-lyrics
 name: Strip It Down
@@ -87,6 +90,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2016-01-02'
+release_year: 2015
+runtime: 241613
 ---
 Let it fade to black
 Let me run my fingers down your back

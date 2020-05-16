@@ -1,8 +1,11 @@
 ---
+album: Hands All Over
 artists:
 - Maroon 5
+external_ids:
+  spotify: spotify:track:6KBYk8OFtod7brGuZ3Y67q
 features: []
-genres: []
+first_released_as_single: false
 key: misery-maroon-5
 lyrics_url: https://genius.com/Maroon-5-misery-lyrics
 name: Misery
@@ -87,6 +90,8 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '2010-11-20'
+release_year: 2010
+runtime: 216200
 ---
 Oh yeah
 Oh yeah

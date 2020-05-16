@@ -1,8 +1,11 @@
 ---
+album: The Mountain
 artists:
 - Dierks Bentley
+external_ids:
+  spotify: spotify:track:0S9fPShKErhEtrXYChFprE
 features: []
-genres: []
+first_released_as_single: false
 key: woman-amen-dierks-bentley
 lyrics_url: https://genius.com/Dierks-bentley-woman-amen-lyrics
 name: Woman Amen
@@ -55,6 +58,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2018-07-07'
+release_year: 2018
+runtime: 179933
 ---
 Oh oh oh oh oh oh
 Oh oh oh oh oh

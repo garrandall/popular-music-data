@@ -1,8 +1,11 @@
 ---
+album: Skid Row
 artists:
 - Skid Row
+external_ids:
+  spotify: spotify:track:4ZpXHlV2vQVfPXUvbDSZ92
 features: []
-genres: []
+first_released_as_single: false
 key: i-remember-you-skid-row
 lyrics_url: https://genius.com/Skid-row-i-remember-you-lyrics
 name: I Remember You
@@ -87,6 +90,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1990-03-31'
+release_year: 1989
+runtime: 313693
 ---
 Woke up to the sound of pouring rain
 The wind would whisper and I'd think of you

@@ -1,8 +1,11 @@
 ---
+album: SremmLife 2
 artists:
 - Rae Sremmurd
+external_ids:
+  spotify: spotify:track:7a9QBLlQOunA6KvPcVDIMt
 features: []
-genres: []
+first_released_as_single: true
 key: look-alive-rae-sremmurd
 lyrics_url: https://www.azlyrics.com/lyrics/raesremmurd/lookalive.html
 name: Look Alive
@@ -31,8 +34,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2016-12-17'
+release_year: 2016
+runtime: 270280
 ---
-
 I'm so far out of sight
 Sounds about right
 
@@ -98,6 +102,3 @@ We can start with something light
 Look alive
 I can get you so right
 I just need an invite
-
-
-

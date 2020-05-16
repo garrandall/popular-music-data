@@ -1,8 +1,12 @@
 ---
+album: Hard To Hold
 artists:
-- Rick Springfield With Randy Crawford
-features: []
-genres: []
+- Rick Springfield
+external_ids:
+  spotify: spotify:track:3QcDkPzM4bx6CVZYr8Il1Z
+features:
+- Randy Crawford
+first_released_as_single: false
 key: taxi-dancing-rick-springfield-with-randy-crawford
 name: Taxi Dancing
 rankings:
@@ -46,5 +50,7 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1985-01-19'
+release_year: 1984
+runtime: 226146
 ---
 

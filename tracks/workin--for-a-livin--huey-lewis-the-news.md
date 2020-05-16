@@ -1,8 +1,11 @@
 ---
+album: Picture This
 artists:
 - Huey Lewis & The News
+external_ids:
+  spotify: spotify:track:3gkH5q7qT0Ex08kua0KgrN
 features: []
-genres: []
+first_released_as_single: false
 key: workin--for-a-livin--huey-lewis-the-news
 lyrics_url: https://www.azlyrics.com/lyrics/hueylewisthenews/workinforalivin.html
 name: Workin' For A Livin'
@@ -43,8 +46,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1982-10-09'
+release_year: 1982
+runtime: 158533
 ---
-
 Somedays won't end ever and somedays pass on by,
 I'll be working here forever, at least until I die.
 Dammed if you do, dammed if you don't
@@ -82,6 +86,3 @@ I'm taking what they giving 'cause I'm working for a livin'
 Workin' for a livin', livin' and workin'
 I'm taking what they giving 'cause I'm working for a livin'
 Workin' for a livin', livin' and workin'
-
-
-

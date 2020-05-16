@@ -1,8 +1,11 @@
 ---
+album: Alone Together
 artists:
 - Donny Osmond
+external_ids:
+  spotify: spotify:track:74NGDmt0oXeXesxoUGASTz
 features: []
-genres: []
+first_released_as_single: false
 key: the-twelfth-of-never-donny-osmond
 lyrics_url: https://genius.com/Donny-osmond-the-twelfth-of-never-lyrics
 name: The Twelfth Of Never
@@ -59,6 +62,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1973-05-26'
+release_year: 1973
+runtime: 161706
 ---
 You ask how much I need you
 Must I explain

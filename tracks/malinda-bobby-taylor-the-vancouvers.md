@@ -1,9 +1,12 @@
 ---
+album: Bobby Taylor & The Vancouvers
 artists:
 - Bobby Taylor
 - The Vancouvers
+external_ids:
+  spotify: spotify:track:6JksbULJAhGbb8ro2tBrpN
 features: []
-genres: []
+first_released_as_single: false
 key: malinda-bobby-taylor-the-vancouvers
 lyrics_url: https://genius.com/Bobby-taylor-and-the-vancouvers-malinda-lyrics
 name: Malinda
@@ -36,6 +39,8 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1969-01-18'
+release_year: 1968
+runtime: 167026
 ---
 Malinda, Malinda
 

@@ -1,8 +1,11 @@
 ---
+album: One Hell Of A Ride
 artists:
 - Willie Nelson
+external_ids:
+  spotify: spotify:track:0wXpLAGn8vD4nuer85zZ9f
 features: []
-genres: []
+first_released_as_single: false
 key: my-heroes-have-always-been-cowboys-willie-nelson
 lyrics_url: https://genius.com/Willie-nelson-my-heroes-have-always-been-cowboys-lyrics
 name: My Heroes Have Always Been Cowboys
@@ -47,6 +50,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1980-04-12'
+release_year: 1975
+runtime: 183973
 ---
 I grew up a-dreamin' of bein' a cowboy
 And lovin' the cowboy ways

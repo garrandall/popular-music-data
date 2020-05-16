@@ -1,9 +1,12 @@
 ---
+album: DUMMY BOY
 artists:
 - 6ix9ine
+external_ids:
+  spotify: spotify:track:057sdYirt745dVbe48m7Hl
 features:
 - A Boogie Wit da Hoodie
-genres: []
+first_released_as_single: false
 key: waka-6ix9ine-a-boogie-wit-da-hoodie
 lyrics_url: https://www.azlyrics.com/lyrics/6ix9ine/waka.html
 name: WAKA
@@ -20,9 +23,9 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '2018-12-22'
+release_year: 2018
+runtime: 128769
 ---
-
-
 Catch an asthma attack, the way we pull up on ya
 Put the pump to his chest, make a nigga cough up
 You a bum and you stressed, and that's why you lost her
@@ -85,6 +88,3 @@ Na-na-na-na-na-na-na
 Na-na-na-na-na-na-na
 Na-na-na-na-na-na-na, yeah
 Scott Storch
-
-
-

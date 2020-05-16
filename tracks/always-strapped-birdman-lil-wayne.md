@@ -1,9 +1,12 @@
 ---
+album: Pricele$$
 artists:
 - Birdman
+external_ids:
+  spotify: spotify:track:0uiMSv1iUmIELMFnTmyyKX
 features:
 - Lil Wayne
-genres: []
+first_released_as_single: true
 key: always-strapped-birdman-lil-wayne
 lyrics_url: https://www.azlyrics.com/lyrics/birdman/alwaysstrapped.html
 name: Always Strapped
@@ -76,9 +79,9 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '2009-08-15'
+release_year: 2009
+runtime: 208293
 ---
-
-
 CMB, we in the buildin' Swag Out 100.
 
 
@@ -178,6 +181,3 @@ Always Strapped when I hit the club
 Niggas give me dap, bitches give me hugs
 & since I'm paid, bitches be lovin' me, they know I love 'em back
 Bitches be lovin' me, they know I love 'em back.
-
-
-

@@ -1,9 +1,12 @@
 ---
+album: A Woman Needs Love
 artists:
 - Ray Parker Jr.
 - Raydio
+external_ids:
+  spotify: spotify:track:0DEwNI2DgasX1eprqCivJk
 features: []
-genres: []
+first_released_as_single: false
 key: a-woman-needs-love--just-like-you-do--ray-parker-jr--raydio
 lyrics_url: https://www.musixmatch.com/lyrics/Ray-Parker-Jr-and-Raydio/A-Woman-Needs-Love-Just-Like-You-Do
 name: A Woman Needs Love (Just Like You Do)
@@ -116,6 +119,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1981-09-05'
+release_year: 1981
+runtime: 249053
 ---
 A woman needs love
 (Just like you do)

@@ -1,8 +1,11 @@
 ---
+album: Super Hits
 artists:
 - Regina Belle
+external_ids:
+  spotify: spotify:track:2dtK0pUwhrG1HBR0gJUVGJ
 features: []
-genres: []
+first_released_as_single: false
 key: show-me-the-way-regina-belle
 lyrics_url: https://www.azlyrics.com/lyrics/reginabelle/showmetheway.html
 name: Show Me The Way
@@ -43,8 +46,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1987-09-12'
+release_year: 1987
+runtime: 249306
 ---
-
 Show me the way now
 Moving step by step to love
 Show me, yeah, the way now
@@ -112,6 +116,3 @@ Oh, show me
 Yeah
 (Show me)
 The way baby
-
-
-

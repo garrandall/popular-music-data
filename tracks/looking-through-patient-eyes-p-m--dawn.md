@@ -1,8 +1,11 @@
 ---
+album: The Bliss Album...?
 artists:
 - P.M. Dawn
+external_ids:
+  spotify: spotify:track:2cRlkoXssyeXXHjjaF06Za
 features: []
-genres: []
+first_released_as_single: false
 key: looking-through-patient-eyes-p-m--dawn
 lyrics_url: https://www.azlyrics.com/lyrics/pmdawn/lookingthroughpatienteyes.html
 name: Looking Through Patient Eyes
@@ -91,8 +94,9 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1993-08-07'
+release_year: 1993
+runtime: 249666
 ---
-
 Whatever it is I do, I try to think about you
 I have a love for you that nothing hides
 Whatever it is I do, I'm only thinking of you
@@ -162,6 +166,3 @@ Whatever it is I do, I try to think about you
 I seek the sympathy and I can't lie
 Whatever it is I do, I'm only thinkin' of you
 I hope you look at me through patient eyes
-
-
-

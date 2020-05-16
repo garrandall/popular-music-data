@@ -1,9 +1,12 @@
 ---
+album: Savage Life
 artists:
 - Webbie
+external_ids:
+  spotify: spotify:track:0KGZzYTmH3lfpSKOcjnOkp
 features:
 - Bun B
-genres: []
+first_released_as_single: false
 key: give-me-that-webbie-bun-b
 lyrics_url: https://www.azlyrics.com/lyrics/webbie/givemethat.html
 name: Give Me That
@@ -88,8 +91,9 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '2005-09-17'
+release_year: 2005
+runtime: 267720
 ---
-
 (Oh) Girl give me that 
 (Oh Oh Oh) Girl give me that 
 Girl give me that (pussy) 
@@ -184,6 +188,3 @@ Don't act confused you know what time it is
 Girl give me that pussy 
 Girl give me that 
 Girl give me girl give me that there
-
-
-

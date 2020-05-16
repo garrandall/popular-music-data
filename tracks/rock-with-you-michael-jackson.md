@@ -1,8 +1,11 @@
 ---
+album: Off the Wall
 artists:
 - Michael Jackson
+external_ids:
+  spotify: spotify:track:7oOOI85fVQvVnK5ynNMdW7
 features: []
-genres: []
+first_released_as_single: false
 key: rock-with-you-michael-jackson
 lyrics_url: https://genius.com/Michael-jackson-rock-with-you-lyrics
 name: Rock With You
@@ -103,6 +106,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1980-04-12'
+release_year: 1979
+runtime: 220626
 ---
 Girl, close your eyes
 Let that rhythm get into you

@@ -1,8 +1,11 @@
 ---
+album: Live In New York!
 artists:
 - The Cleftones
+external_ids:
+  spotify: spotify:track:5XoYj1BbiLSzBjhPoMv09C
 features: []
-genres: []
+first_released_as_single: false
 key: heart-and-soul-the-cleftones
 lyrics_url: https://genius.com/The-cleftones-heart-and-soul-lyrics
 name: Heart And Soul
@@ -47,6 +50,8 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '1961-07-24'
+release_year: 1961
+runtime: 113640
 ---
 Heart and soul
 I fell in love with you

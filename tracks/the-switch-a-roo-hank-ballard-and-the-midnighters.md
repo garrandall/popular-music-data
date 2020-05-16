@@ -1,8 +1,11 @@
 ---
+album: All 20 Of Their Chart Hits 1953-1962
 artists:
 - Hank Ballard And The Midnighters
+external_ids:
+  spotify: spotify:track:076BYiXX9CDsj8U40m5xV2
 features: []
-genres: []
+first_released_as_single: false
 key: the-switch-a-roo-hank-ballard-and-the-midnighters
 lyrics_url: https://genius.com/Hank-ballard-and-the-midnighters-the-switch-a-roo-lyrics
 name: The Switch-A-Roo
@@ -35,6 +38,8 @@ rankings:
   rank: 35
   ranking_list: Billboard Hot 100
   start_date: '1961-08-07'
+release_year: 1961
+runtime: 166573
 ---
 Now come on, baby
 Let's do the switch-a-roo

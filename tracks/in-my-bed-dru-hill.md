@@ -1,8 +1,11 @@
 ---
+album: Dru Hill
 artists:
 - Dru Hill
+external_ids:
+  spotify: spotify:track:2v9Obh8z41hUXDqnfdhVON
 features: []
-genres: []
+first_released_as_single: false
 key: in-my-bed-dru-hill
 lyrics_url: https://www.azlyrics.com/lyrics/druhill/inmybedsosodefrmx.html
 name: In My Bed
@@ -107,9 +110,9 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1997-06-28'
+release_year: 1996
+runtime: 286533
 ---
-
-
 You wanna dance?
 Ha, I'ma make you dance
 You wanna move?
@@ -201,4 +204,3 @@ VVS describes best what's on the fingers
 
 
 We make believers out of dreamers
-

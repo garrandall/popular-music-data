@@ -1,8 +1,11 @@
 ---
+album: Destiny
 artists:
 - Myron
+external_ids:
+  spotify: spotify:track:51o406VX7fJ7XezEDC8wq3
 features: []
-genres: []
+first_released_as_single: false
 key: we-can-get-down-myron
 lyrics_url: https://genius.com/Myron-we-can-get-down-lyrics
 name: We Can Get Down
@@ -39,8 +42,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1997-10-25'
+release_year: 1997
+runtime: 241866
 ---
-
 We can get down baby
 Down, down, down, uh
 When you come around baby

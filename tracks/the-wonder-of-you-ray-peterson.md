@@ -1,8 +1,11 @@
 ---
+album: Nippers 50's-Vol.2
 artists:
 - Ray Peterson
+external_ids:
+  spotify: spotify:track:1Tj4U3U5Kgvztr5CLT7mLZ
 features: []
-genres: []
+first_released_as_single: false
 key: the-wonder-of-you-ray-peterson
 lyrics_url: https://genius.com/Ray-peterson-the-wonder-of-you-lyrics
 name: The Wonder Of You
@@ -83,6 +86,8 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '1964-05-09'
+release_year: 1959
+runtime: 155706
 ---
 When no one else can understand me
 When everything I do is wrong

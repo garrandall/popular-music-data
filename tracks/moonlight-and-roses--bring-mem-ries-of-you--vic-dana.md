@@ -1,8 +1,11 @@
 ---
+album: The Complete Hits Of Vic Dana
 artists:
 - Vic Dana
+external_ids:
+  spotify: spotify:track:0820J4H0wwqH506WtDuhKO
 features: []
-genres: []
+first_released_as_single: false
 key: moonlight-and-roses--bring-mem-ries-of-you--vic-dana
 lyrics_url: https://genius.com/Vic-dana-moonlight-and-roses-bring-memries-of-you-lyrics
 name: Moonlight And Roses (Bring Mem'ries Of You)
@@ -43,6 +46,8 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1965-10-02'
+release_year: 1965
+runtime: 170573
 ---
 Moonlight and roses
 Bring wonderful memories of you

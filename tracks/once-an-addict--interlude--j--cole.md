@@ -1,8 +1,11 @@
 ---
+album: KOD
 artists:
 - J. Cole
+external_ids:
+  spotify: spotify:track:0UV4PCNunm3uzhxzzQSvDE
 features: []
-genres: []
+first_released_as_single: false
 key: once-an-addict--interlude--j--cole
 lyrics_url: https://genius.com/J-cole-once-an-addict-interlude-lyrics
 name: Once An Addict (Interlude)
@@ -11,6 +14,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '2018-05-05'
+release_year: 2018
+runtime: 197821
 ---
 Right, right, right, right
 Something's got a hold on me

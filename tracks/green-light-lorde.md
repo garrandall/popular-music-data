@@ -1,8 +1,11 @@
 ---
+album: Melodrama
 artists:
 - Lorde
+external_ids:
+  spotify: spotify:track:2sbtixigDCbjXBTMRSEECS
 features: []
-genres: []
+first_released_as_single: true
 key: green-light-lorde
 lyrics_url: https://genius.com/Lorde-green-light-lyrics
 name: Green Light
@@ -43,6 +46,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2017-05-13'
+release_year: 2017
+runtime: 247933
 ---
 I do my makeup in somebody else's car
 We order different drinks at the same bars

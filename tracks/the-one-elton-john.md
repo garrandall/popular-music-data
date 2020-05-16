@@ -1,8 +1,11 @@
 ---
+album: The One
 artists:
 - Elton John
+external_ids:
+  spotify: spotify:track:2stzPKoUdtHcA4LlEu2ayw
 features: []
-genres: []
+first_released_as_single: false
 key: the-one-elton-john
 lyrics_url: https://genius.com/Elton-john-the-one-lyrics
 name: The One
@@ -95,6 +98,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1992-11-21'
+release_year: 1992
+runtime: 353160
 ---
 I saw you dancin' out the ocean
 Runnin' fast along the sand

@@ -1,8 +1,11 @@
 ---
+album: Don't Stop Believin'
 artists:
 - Olivia Newton-John
+external_ids:
+  spotify: spotify:track:0XKMWf41IPSbQacyRU3agk
 features: []
-genres: []
+first_released_as_single: false
 key: every-face-tells-a-story-olivia-newton-john
 lyrics_url: https://www.azlyrics.com/lyrics/olivianewtonjohn/everyfacetellsastory.html
 name: Every Face Tells A Story
@@ -43,8 +46,9 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1977-01-01'
+release_year: 1976
+runtime: 222106
 ---
-
 There's no need for you to tell me
 I can see the way you feel
 I just know without you saying
@@ -91,6 +95,3 @@ Every face tells a story
 It's hard to hide a lie
 Every face tells a story
 And yours is saying goodbye
-
-
-

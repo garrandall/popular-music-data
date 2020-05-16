@@ -1,9 +1,12 @@
 ---
+album: The State vs. Radric Davis
 artists:
 - Gucci Mane
+external_ids:
+  spotify: spotify:track:5xgAPoTn4YswCIOjAGNWJI
 features:
 - Usher
-genres: []
+first_released_as_single: true
 key: spotlight-gucci-mane-usher
 lyrics_url: https://genius.com/Gucci-mane-spotlight-lyrics
 name: Spotlight
@@ -72,6 +75,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2010-02-27'
+release_year: 2009
+runtime: 236080
 ---
 It feels so good to be back!
 Polow, Usher, baby (yeah, Zone 4)

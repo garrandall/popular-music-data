@@ -1,8 +1,12 @@
 ---
+album: Dance Naked
 artists:
-- John Mellencamp With Me'Shell Ndegeocello
-features: []
-genres: []
+- John Mellencamp
+external_ids:
+  spotify: spotify:track:6opIwpImZYdxNgG4wpDxED
+features:
+- Me'Shell Ndegeocello
+first_released_as_single: false
 key: wild-night-john-mellencamp-with-me-shell-ndegeocello
 name: Wild Night
 rankings:
@@ -174,5 +178,7 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1995-03-11'
+release_year: 1994
+runtime: 207506
 ---
 

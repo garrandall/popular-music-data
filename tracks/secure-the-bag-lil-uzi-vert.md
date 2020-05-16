@@ -1,8 +1,11 @@
 ---
+album: Eternal Atake
 artists:
 - Lil Uzi Vert
+external_ids:
+  spotify: spotify:track:7gHZGXSJzM29WA384suYY2
 features: []
-genres: []
+first_released_as_single: false
 key: secure-the-bag-lil-uzi-vert
 lyrics_url: https://www.azlyrics.com/lyrics/liluzivert/securethebag.html
 name: Secure The Bag
@@ -11,9 +14,9 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '2020-03-21'
+release_year: 2020
+runtime: 238425
 ---
-
-
 Diamonds on my choker
 Diamonds on my necklace
 Diamonds they be shinin', boy they so precious
@@ -94,6 +97,3 @@ Yeah, hey
 I'm a go getter
 I secure the bag then I go get it
 I secure the bag then I go get it
-
-
-

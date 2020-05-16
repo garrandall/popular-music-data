@@ -1,8 +1,11 @@
 ---
+album: The Lonesome Jubilee
 artists:
 - John Mellencamp
+external_ids:
+  spotify: spotify:track:2PZFLJLct6yrvBcCNEkAw0
 features: []
-genres: []
+first_released_as_single: false
 key: check-it-out-john-mellencamp
 lyrics_url: https://www.azlyrics.com/lyrics/johnmellencamp/checkitout.html
 name: Check It Out
@@ -67,8 +70,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1988-05-14'
+release_year: 1987
+runtime: 259226
 ---
-
 A million young poets
 Screamin' out their words
 To a world full of people
@@ -124,6 +128,3 @@ Maybe they'll have a better understanding
 Check it out
 Hope they have a better understanding
 Check it out...
-
-
-

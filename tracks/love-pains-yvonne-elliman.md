@@ -1,8 +1,11 @@
 ---
+album: The Best Of Yvonne Elliman
 artists:
 - Yvonne Elliman
+external_ids:
+  spotify: spotify:track:2ewHI38ZzJ3zld4jIJLp4p
 features: []
-genres: []
+first_released_as_single: false
 key: love-pains-yvonne-elliman
 lyrics_url: https://www.azlyrics.com/lyrics/yvonneelliman/lovepains.html
 name: Love Pains
@@ -59,8 +62,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1980-01-05'
+release_year: 1979
+runtime: 232866
 ---
-
 Midnight, I watch you as you're sleeping
 You don't know that I'm leaving my bag is packed to go
 Oh, no, no, no, it hurts me, hurts me so to leave you
@@ -100,6 +104,3 @@ Oh, will I ever be free from these love pains?
 Hurting me through and through, caught between a lover or two
 Oh, will I ever be free from these love pains?
 Tearing me all apart 'cause I don't wanna break your heart
-
-
-

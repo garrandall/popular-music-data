@@ -1,8 +1,11 @@
 ---
+album: 'You''ll Never Walk Alone: All the Best'
 artists:
 - Gerry And The Pacemakers
+external_ids:
+  spotify: spotify:track:1HU2MNYU5CNIsjQgkRXz1k
 features: []
-genres: []
+first_released_as_single: false
 key: give-all-your-love-to-me-gerry-and-the-pacemakers
 lyrics_url: https://www.azlyrics.com/lyrics/gerryandthepacemakers/giveallyourlovetome.html
 name: Give All Your Love To Me
@@ -31,8 +34,9 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '1965-09-18'
+release_year: 1965
+runtime: 157600
 ---
-
 Love me till the end of time
 Till the seas run dry
 Till the flowers forget to bloom
@@ -54,6 +58,3 @@ Give me all your love
 Give me all your love all of the time
 As the wind that blows evermore, evermore
 Give me all your love
-
-
-

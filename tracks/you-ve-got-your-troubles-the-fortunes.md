@@ -1,8 +1,11 @@
 ---
+album: The Fortunes Greatest Hits
 artists:
 - The Fortunes
+external_ids:
+  spotify: spotify:track:1qMgoZFIBwiDcR6rKdCI51
 features: []
-genres: []
+first_released_as_single: false
 key: you-ve-got-your-troubles-the-fortunes
 lyrics_url: https://genius.com/The-fortunes-uk-group-youve-got-your-troubles-lyrics
 name: You've Got Your Troubles
@@ -51,6 +54,8 @@ rankings:
   rank: 36
   ranking_list: Billboard Hot 100
   start_date: '1965-10-30'
+release_year: 1965
+runtime: 202813
 ---
 I see that worried look upon your face
 You've got your troubles, I've got mine

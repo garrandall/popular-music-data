@@ -1,8 +1,11 @@
 ---
+album: HERO
 artists:
 - Maren Morris
+external_ids:
+  spotify: spotify:track:3FfxN6oyZfYV4osU6PlhJZ
 features: []
-genres: []
+first_released_as_single: true
 key: 80s-mercedes-maren-morris
 lyrics_url: https://www.azlyrics.com/lyrics/maren-morris/80smercedes.html
 name: 80s Mercedes
@@ -59,8 +62,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2017-02-25'
+release_year: 2015
+runtime: 211440
 ---
-
 Still runs good, built to last
 Moves like a hula girl on the dash
 She ain't made for practicality
@@ -112,6 +116,3 @@ I'm a 90's baby
 In my 80's Mercedes
 I'm a 90's baby
 In my 80's Mercedes
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Westlife
 artists:
 - Westlife
+external_ids:
+  spotify: spotify:track:2x1D20z93vGEjtTP07GOOr
 features: []
-genres: []
+first_released_as_single: false
 key: swear-it-again-westlife
 lyrics_url: https://www.azlyrics.com/lyrics/westlife/swearitagain.html
 name: Swear It Again
@@ -87,9 +90,9 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '2000-08-12'
+release_year: 1999
+runtime: 247933
 ---
-
-
 I wanna know
 Who ever told you I was letting go
 The only joy that I have ever known
@@ -180,6 +183,3 @@ And I swear it all over again
 All over again
 All over again
 And I swear it all over again
-
-
-

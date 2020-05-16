@@ -1,8 +1,11 @@
 ---
+album: Main Course
 artists:
 - Bee Gees
+external_ids:
+  spotify: spotify:track:75Ml66r5JHxd3c1bsplR5d
 features: []
-genres: []
+first_released_as_single: false
 key: edge-of-the-universe-bee-gees
 lyrics_url: https://www.azlyrics.com/lyrics/beegees/edgeoftheuniverse.html
 name: Edge Of The Universe
@@ -59,8 +62,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1977-10-15'
+release_year: 1975
+runtime: 322160
 ---
-
 Just my dog and I
 at the edge of the universe.
 Well, I didn't wanna bring her
@@ -109,6 +113,3 @@ and it must be nice down there.
 And they call me Shenandora in the air.
 
 At the edge of the universe...
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: The Global Masters
 artists:
 - Johnny Mathis
+external_ids:
+  spotify: spotify:track:2Ak3g959MkFk9sVS8iHJOC
 features: []
-genres: []
+first_released_as_single: false
 key: bye-bye-barbara-johnny-mathis
 lyrics_url: https://genius.com/Johnny-mathis-bye-bye-barbara-lyrics
 name: Bye Bye Barbara
@@ -35,6 +38,8 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '1964-03-14'
+release_year: 1964
+runtime: 152026
 ---
 Never more to hurt me deep
 Bye, bye Barbara

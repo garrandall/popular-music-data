@@ -1,8 +1,11 @@
 ---
+album: Language of Love
 artists:
 - John D. Loudermilk
+external_ids:
+  spotify: spotify:track:1ntld9r5VD1UxHYEO4PBT3
 features: []
-genres: []
+first_released_as_single: false
 key: road-hog-john-d--loudermilk
 lyrics_url: https://genius.com/John-d-loudermilk-road-hog-lyrics
 name: Road Hog
@@ -23,6 +26,8 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1962-12-22'
+release_year: 1961
+runtime: 139106
 ---
 Have you ever been driving down the road
 And come up on a fella who was just poking along straddlin' the white line

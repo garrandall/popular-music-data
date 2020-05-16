@@ -1,9 +1,12 @@
 ---
+album: 'Luca Brasi 2: Gangsta Grillz'
 artists:
 - Kevin Gates
+external_ids:
+  spotify: spotify:track:6HMHgBHdLBQ0QYIaOp2gse
 features:
 - August Alsina
-genres: []
+first_released_as_single: false
 key: i-don-t-get-tired---idgt--kevin-gates-august-alsina
 lyrics_url: https://genius.com/Kevin-gates-i-dont-get-tired-lyrics
 name: I Don't Get Tired (#IDGT)
@@ -44,6 +47,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2015-07-04'
+release_year: 2014
+runtime: 209707
 ---
 I was tryna get it how I live
 I want them dead presidents

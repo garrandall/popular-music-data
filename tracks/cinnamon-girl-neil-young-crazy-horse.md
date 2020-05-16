@@ -1,9 +1,12 @@
 ---
+album: Everybody Knows This Is Nowhere
 artists:
 - Neil Young
 - Crazy Horse
+external_ids:
+  spotify: spotify:track:4gRfV6SEd0cTqeR9ksrbIs
 features: []
-genres: []
+first_released_as_single: false
 key: cinnamon-girl-neil-young-crazy-horse
 lyrics_url: https://genius.com/Neil-young-and-crazy-horse-cinnamon-girl-lyrics
 name: Cinnamon Girl
@@ -44,6 +47,8 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '1970-08-15'
+release_year: 1969
+runtime: 180360
 ---
 I wanna live with a cinnamon girl
 I could be happy the rest of my life

@@ -1,8 +1,11 @@
 ---
+album: Linear
 artists:
 - Linear
+external_ids:
+  spotify: spotify:track:4y9kZJCapqCwJYJh6dtXDm
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-you-come-cryin--linear
 lyrics_url: https://www.musixmatch.com/lyrics/Linear/Don-t-You-Come-Cryin
 name: Don't You Come Cryin'
@@ -35,6 +38,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1990-08-25'
+release_year: 1990
+runtime: 229773
 ---
 I know you know
 Exactly what I'm thinking

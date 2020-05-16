@@ -1,8 +1,11 @@
 ---
+album: Dirty Vegas
 artists:
 - Dirty Vegas
+external_ids:
+  spotify: spotify:track:6xJK5UpzADwHc4v4u9ipKs
 features: []
-genres: []
+first_released_as_single: true
 key: days-go-by-dirty-vegas
 lyrics_url: https://genius.com/Dirty-vegas-days-go-by-lyrics
 name: Days Go By
@@ -87,6 +90,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '2002-09-21'
+release_year: 2001
+runtime: 223466
 ---
 You
 You

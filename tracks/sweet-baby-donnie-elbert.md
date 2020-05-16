@@ -1,8 +1,11 @@
 ---
+album: The Best of Echo Soul
 artists:
 - Donnie Elbert
+external_ids:
+  spotify: spotify:track:1qAi5biM1gCAW5w0eMwjqY
 features: []
-genres: []
+first_released_as_single: false
 key: sweet-baby-donnie-elbert
 lyrics_url: https://www.musixmatch.com/lyrics/Donnie-Elbert/Sweet-Baby
 name: Sweet Baby
@@ -23,6 +26,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1972-02-12'
+release_year: 1972
+runtime: 154958
 ---
 (CHORUS)
 Hey, sweet baby

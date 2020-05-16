@@ -1,8 +1,11 @@
 ---
+album: How Dare You
 artists:
 - 10cc
+external_ids:
+  spotify: spotify:track:0FkFTZOJ5Dt4RG4gAWB74z
 features: []
-genres: []
+first_released_as_single: false
 key: art-for-art-s-sake-10cc
 lyrics_url: https://www.azlyrics.com/lyrics/10cc/artforartssake.html
 name: Art For Art's Sake
@@ -31,8 +34,9 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1976-01-03'
+release_year: 1975
+runtime: 359506
 ---
-
 Gimme your body
 Gimme your mind
 Open your heart
@@ -89,6 +93,3 @@ Art for arts sake
 Money for Gods sake
 Art for arts sake
 Money for Gods sake
-
-
-

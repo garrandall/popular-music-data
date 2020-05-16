@@ -1,8 +1,11 @@
 ---
+album: Diana Ross
 artists:
 - Diana Ross
+external_ids:
+  spotify: spotify:track:4UqPeeSyRt59KZmC0aA2Ni
 features: []
-genres: []
+first_released_as_single: false
 key: love-hangover-diana-ross
 lyrics_url: https://www.azlyrics.com/lyrics/dianaross/lovehangover.html
 name: Love Hangover
@@ -79,8 +82,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1976-07-31'
+release_year: 1976
+runtime: 468640
 ---
-
 Ah, if there's a cure for this
 I don't want it
 Don't want it
@@ -128,6 +132,3 @@ Sweet, sweet, sweet, sweet love
 Sweet, sweet, sweet, sweet love
 Sweet, sweet, sweet, sweet love
 Sweet, sweet, sweet, sweet love
-
-
-

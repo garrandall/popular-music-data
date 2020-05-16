@@ -1,8 +1,11 @@
 ---
+album: Motown Rarities 1965-1968
 artists:
 - The Contours
+external_ids:
+  spotify: spotify:track:5d0HMOXTxsprOXMzSWK3Gu
 features: []
-genres: []
+first_released_as_single: false
 key: just-a-little-misunderstanding-the-contours
 lyrics_url: https://www.azlyrics.com/lyrics/contours/justalittlemisunderstanding.html
 name: Just A Little Misunderstanding
@@ -15,8 +18,9 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1966-06-04'
+release_year: 1966
+runtime: 162720
 ---
-
 Yeah, yeah, yeah, yeah
 
 It's a cold man to hurt his woman
@@ -75,6 +79,3 @@ It's just a little misunderstanding
 
 Baby (baby)
 I just can't let you go...
-
-
-

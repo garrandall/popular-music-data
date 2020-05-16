@@ -1,8 +1,11 @@
 ---
+album: Invisible Touch
 artists:
 - Genesis
+external_ids:
+  spotify: spotify:track:4P0uyibZjcXZLVeNOHBd8Q
 features: []
-genres: []
+first_released_as_single: false
 key: in-too-deep-genesis
 lyrics_url: https://genius.com/Genesis-in-too-deep-lyrics
 name: In Too Deep
@@ -75,6 +78,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1987-08-15'
+release_year: 1986
+runtime: 298093
 ---
 All that time I was searching with nowhere to run to
 It started me thinking, wondering

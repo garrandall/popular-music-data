@@ -1,8 +1,11 @@
 ---
+album: Growing Pains
 artists:
 - Mary J. Blige
+external_ids:
+  spotify: spotify:track:33vzOPcd9FRirYGlCu32x4
 features: []
-genres: []
+first_released_as_single: false
 key: just-fine-mary-j--blige
 lyrics_url: https://genius.com/Mary-j-blige-just-fine-lyrics
 name: Just Fine
@@ -95,6 +98,8 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '2008-03-29'
+release_year: 2007
+runtime: 242133
 ---
 You know I love music
 And every time I hear something hot

@@ -1,8 +1,11 @@
 ---
+album: Live In Las Vegas
 artists:
 - Tom Jones
+external_ids:
+  spotify: spotify:track:5n7sZhPLqp3RGaqSyJOqxo
 features: []
-genres: []
+first_released_as_single: false
 key: love-me-tonight-tom-jones
 lyrics_url: https://www.azlyrics.com/lyrics/tomjones/lovemetonight.html
 name: Love Me Tonight
@@ -51,8 +54,9 @@ rankings:
   rank: 23
   ranking_list: Billboard Hot 100
   start_date: '1969-08-02'
+release_year: 1969
+runtime: 181600
 ---
-
 I know that it's late and I really must leave you alone
 But you're too good to hold that I feel such a long way from home
 Yes I know that our love is too new, But I promise Its going to be true
@@ -92,6 +96,3 @@ Let me love you baby
 Baby love me tonight
 
 Love me To ni-i-i-i-ght!
-
-
-

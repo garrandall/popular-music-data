@@ -1,8 +1,11 @@
 ---
+album: Right On
 artists:
 - Wilson Pickett
+external_ids:
+  spotify: spotify:track:6FixOciblTbUmV9pLiYw1s
 features: []
-genres: []
+first_released_as_single: false
 key: hey-joe-wilson-pickett
 lyrics_url: https://genius.com/Wilson-pickett-hey-joe-lyrics
 name: Hey Joe
@@ -31,6 +34,8 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1969-08-16'
+release_year: 1969
+runtime: 185680
 ---
 Hey Joe
 Where you goin' with that gun in your hand?

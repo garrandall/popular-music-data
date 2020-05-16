@@ -1,8 +1,11 @@
 ---
+album: Soul Dancing
 artists:
 - Taylor Dayne
+external_ids:
+  spotify: spotify:track:2FJwRi6hPtMpfurqWT293G
 features: []
-genres: []
+first_released_as_single: false
 key: send-me-a-lover-taylor-dayne
 lyrics_url: https://www.azlyrics.com/lyrics/taylordayne/sendmealover.html
 name: Send Me A Lover
@@ -63,8 +66,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1994-01-01'
+release_year: 1993
+runtime: 267466
 ---
-
 I wasn't searching
 To end this hurting
 But out of nowhere
@@ -106,4 +110,3 @@ Out of your heart you gave to me
 I know it's real
 And I've fallen
 So in love with you
-

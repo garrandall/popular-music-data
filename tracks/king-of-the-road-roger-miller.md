@@ -1,8 +1,11 @@
 ---
+album: Golden Hits
 artists:
 - Roger Miller
+external_ids:
+  spotify: spotify:track:3XG7bMVcMWLIn2k9jLAaAt
 features: []
-genres: []
+first_released_as_single: false
 key: king-of-the-road-roger-miller
 lyrics_url: https://genius.com/Roger-miller-king-of-the-road-lyrics
 name: King Of The Road
@@ -59,6 +62,8 @@ rankings:
   rank: 23
   ranking_list: Billboard Hot 100
   start_date: '1965-04-24'
+release_year: 1965
+runtime: 147306
 ---
 Trailer for sale or rent
 Rooms to let, fifty cents

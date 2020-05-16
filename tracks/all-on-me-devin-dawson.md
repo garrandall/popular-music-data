@@ -1,8 +1,11 @@
 ---
+album: Dark Horse
 artists:
 - Devin Dawson
+external_ids:
+  spotify: spotify:track:4Oz0aHwmdWM2Rl1QnQ0X46
 features: []
-genres: []
+first_released_as_single: true
 key: all-on-me-devin-dawson
 lyrics_url: https://genius.com/Devin-dawson-all-on-me-lyrics
 name: All On Me
@@ -87,6 +90,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2018-04-21'
+release_year: 2017
+runtime: 224162
 ---
 Yeah I know that the woes and the weight of the world
 Can get in side our minds and be too much sometimes, I know

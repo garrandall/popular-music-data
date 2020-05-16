@@ -1,8 +1,11 @@
 ---
+album: Kaleidoscope Heart
 artists:
 - Sara Bareilles
+external_ids:
+  spotify: spotify:track:3VA8T3rNy5V24AXxNK5u9E
 features: []
-genres: []
+first_released_as_single: false
 key: king-of-anything-sara-bareilles
 lyrics_url: https://genius.com/Sara-bareilles-king-of-anything-lyrics
 name: King Of Anything
@@ -95,6 +98,8 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '2010-12-04'
+release_year: 2010
+runtime: 207493
 ---
 Oh (oh, oh, oh)
 Oh (oh, oh, oh)

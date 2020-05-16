@@ -1,8 +1,11 @@
 ---
+album: 18 Til I Die
 artists:
 - Bryan Adams
+external_ids:
+  spotify: spotify:track:3wgNhWuV5gkcEkTgMBNcoA
 features: []
-genres: []
+first_released_as_single: false
 key: let-s-make-a-night-to-remember-bryan-adams
 lyrics_url: https://www.azlyrics.com/lyrics/bryanadams/letsmakeanighttoremember.html
 name: Let's Make A Night To Remember
@@ -99,8 +102,9 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '1997-02-01'
+release_year: 1996
+runtime: 378906
 ---
-
 I love the way you look tonight
 With your hair hangin' down on your shoulders
 N' I love the way you dance your slow sweet tango
@@ -148,6 +152,3 @@ Ya I never want this night to end
 Cuz I've never touched somebody like the way I touch
 your body
 Now I never want to let your body go...
-
-
-

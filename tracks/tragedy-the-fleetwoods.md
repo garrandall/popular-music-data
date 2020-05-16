@@ -1,8 +1,11 @@
 ---
+album: Come Softly To Me
 artists:
 - The Fleetwoods
+external_ids:
+  spotify: spotify:track:7r60cjhpBJxUuU631Q5YGd
 features: []
-genres: []
+first_released_as_single: false
 key: tragedy-the-fleetwoods
 lyrics_url: https://www.musixmatch.com/lyrics/The-Fleetwoods/Tragedy
 name: Tragedy
@@ -55,6 +58,8 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '1961-07-03'
+release_year: 1961
+runtime: 166160
 ---
 Tragedy
 Wind and storm (wah-oh

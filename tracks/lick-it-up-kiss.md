@@ -1,8 +1,11 @@
 ---
+album: Lick It Up
 artists:
 - KISS
+external_ids:
+  spotify: spotify:track:3cXiUuiGpFmZ8OdAWKk8Ck
 features: []
-genres: []
+first_released_as_single: false
 key: lick-it-up-kiss
 lyrics_url: https://genius.com/Kiss-lick-it-up-lyrics
 name: Lick It Up
@@ -51,6 +54,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1984-01-21'
+release_year: 1983
+runtime: 236640
 ---
 Yeah, yeah
 

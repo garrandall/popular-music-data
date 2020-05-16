@@ -1,9 +1,12 @@
 ---
+album: The Peoples Champ
 artists:
 - Paul Wall
+external_ids:
+  spotify: spotify:track:6CKC5Rmo0uKf71eReodMoO
 features:
 - Big Pokey
-genres: []
+first_released_as_single: true
 key: sittin--sidewayz-paul-wall-big-pokey
 lyrics_url: https://www.azlyrics.com/lyrics/paulwall/sittinsidewayz.html
 name: Sittin' Sidewayz
@@ -28,9 +31,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2005-10-01'
+release_year: 2005
+runtime: 228933
 ---
-
-
 Sittin' sideways, boys in a daze
 Sittin' sideways, boys in a daze
 Sittin' sideways, boys in a daze
@@ -105,6 +108,3 @@ Sittin' sideways, boys in a daze
 Sittin' sideways, boys in a daze
 Sittin' sideways, boys in a daze
 On a Sunday night I might bang me some Maze
-
-
-

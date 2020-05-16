@@ -1,9 +1,12 @@
 ---
+album: Still In The Game
 artists:
 - Keith Sweat
+external_ids:
+  spotify: spotify:track:6IVcP0GyH1xRmqdTiNdjzn
 features:
 - Snoop Dogg
-genres: []
+first_released_as_single: false
 key: come-and-get-with-me-keith-sweat-snoop-dogg
 lyrics_url: https://www.azlyrics.com/lyrics/keithsweat/comeandgetwithme.html
 name: Come And Get With Me
@@ -68,8 +71,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1999-01-30'
+release_year: 1998
+runtime: 296000
 ---
-
 Yo', Keith Sweat and Snoop D-O-double G
 Real players doin' this VIP, you feel me
 So all the ladies that wanna get with us
@@ -165,6 +169,3 @@ holler at a player (Yeah)
 
 Don't even sweat it
 Keith Sweat, Doggy Dogg, VIP, no doubt
-
-
-

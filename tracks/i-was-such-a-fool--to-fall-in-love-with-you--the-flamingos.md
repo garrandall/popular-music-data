@@ -1,8 +1,11 @@
 ---
+album: Requestfully Yours
 artists:
 - The Flamingos
+external_ids:
+  spotify: spotify:track:6PgWAPileQr2WDJp3SRLfz
 features: []
-genres: []
+first_released_as_single: false
 key: i-was-such-a-fool--to-fall-in-love-with-you--the-flamingos
 name: I Was Such A Fool (To Fall In Love With You)
 rankings:
@@ -26,5 +29,7 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '1960-02-29'
+release_year: 1960
+runtime: 170266
 ---
 

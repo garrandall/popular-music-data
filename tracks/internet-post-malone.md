@@ -1,8 +1,11 @@
 ---
+album: Hollywood's Bleeding
 artists:
 - Post Malone
+external_ids:
+  spotify: spotify:track:0KAzP1Rbp0Vz5pw8i1KDDI
 features: []
-genres: []
+first_released_as_single: false
 key: internet-post-malone
 lyrics_url: https://www.azlyrics.com/lyrics/postmalone/internet.html
 name: Internet
@@ -11,8 +14,9 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '2019-09-21'
+release_year: 2019
+runtime: 123386
 ---
-
 I just seen lil mama on Instagram and she flashin'
 Don't care about your puppy, just that ass and them breasts
 Oh girl, you a model? Damn, I never would've guessed it
@@ -38,6 +42,3 @@ And I'll probably be the last to know
 Instalove, well if ignorance is bliss, then don't wake me up
 And I'll probably be the last to know
 'Cause I don't get on the internet no more
-
-
-

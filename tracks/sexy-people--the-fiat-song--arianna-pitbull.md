@@ -1,9 +1,12 @@
 ---
+album: Sexy People (The Fiat Song)
 artists:
 - Arianna
+external_ids:
+  spotify: spotify:track:4X06LeyOO0NZoqOowDmp3a
 features:
 - Pitbull
-genres: []
+first_released_as_single: true
 key: sexy-people--the-fiat-song--arianna-pitbull
 lyrics_url: https://genius.com/Arianna-sexy-people-the-fiat-song-lyrics
 name: Sexy People (The Fiat Song)
@@ -12,6 +15,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2013-05-18'
+release_year: 2013
+runtime: 208666
 ---
 When I hear the ocean calling
 And I feel my spirit falling

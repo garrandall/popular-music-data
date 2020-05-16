@@ -1,8 +1,11 @@
 ---
+album: California Sunrise
 artists:
 - Jon Pardi
+external_ids:
+  spotify: spotify:track:2rWWh7X1oDMYQL1LOUUjRi
 features: []
-genres: []
+first_released_as_single: true
 key: night-shift-jon-pardi
 lyrics_url: https://www.azlyrics.com/lyrics/jonpardi/nightshift.html
 name: Night Shift
@@ -71,8 +74,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2019-06-15'
+release_year: 2016
+runtime: 172253
 ---
-
 It's been a wreck me week
 Sixty plus from dawn to dusk
 In the red dirt heat
@@ -110,6 +114,3 @@ Loving how we're working on the night shift, baby
 Loving how we're working on the night shift
 Loving how we're working on the night shift
 Working on the night shift, baby
-
-
-

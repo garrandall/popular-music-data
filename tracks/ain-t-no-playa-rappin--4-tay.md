@@ -1,8 +1,11 @@
 ---
+album: Off Parole
 artists:
 - Rappin' 4-Tay
+external_ids:
+  spotify: spotify:track:3Mu5nGJNRiDWdFgHV3OuIo
 features: []
-genres: []
+first_released_as_single: false
 key: ain-t-no-playa-rappin--4-tay
 name: Ain't No Playa
 rankings:
@@ -50,5 +53,7 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1996-05-11'
+release_year: 1996
+runtime: 302360
 ---
 

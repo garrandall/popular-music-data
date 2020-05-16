@@ -1,8 +1,11 @@
 ---
+album: Future Crimes
 artists:
 - Future
+external_ids:
+  spotify: spotify:track:5RH0lck6PUF6YZC8KrJZTH
 features: []
-genres: []
+first_released_as_single: false
 key: please-tell-me-future
 lyrics_url: https://genius.com/Future-please-tell-me-lyrics
 name: Please Tell Me
@@ -11,6 +14,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '2019-06-22'
+release_year: 2014
+runtime: 118288
 ---
 Please tell me one Rolex won't do
 Please tell me want the new Bentley coupe

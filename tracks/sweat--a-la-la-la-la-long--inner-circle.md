@@ -1,8 +1,11 @@
 ---
+album: Blazzin' Fire
 artists:
 - Inner Circle
+external_ids:
+  spotify: spotify:track:1SssFw74DdHVjRa6ADggdD
 features: []
-genres: []
+first_released_as_single: false
 key: sweat--a-la-la-la-la-long--inner-circle
 lyrics_url: https://genius.com/Inner-circle-sweat-lyrics
 name: Sweat (A La La La La Long)
@@ -107,6 +110,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1994-01-22'
+release_year: 1993
+runtime: 227067
 ---
 I've been watching you
 A la la la la long, a la la la la long long li long long long

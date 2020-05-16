@@ -1,8 +1,11 @@
 ---
+album: A Feelin' Like That
 artists:
 - Gary Allan
+external_ids:
+  spotify: spotify:track:6wAfHJMtWNSK0Al19RzHPE
 features: []
-genres: []
+first_released_as_single: true
 key: a-feelin--like-that-gary-allan
 lyrics_url: https://www.azlyrics.com/lyrics/garyallan/afeelinlikethat.html
 name: A Feelin' Like That
@@ -11,8 +14,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2007-05-05'
+release_year: 2006
+runtime: 211760
 ---
-
 I stepped out into the blue
 Felt the wind hit my face
 Before my shoot opened I felt my heart race
@@ -69,6 +73,3 @@ I've done it all I've seen it all but I can't find a feelin' like that.
 
 thats right I've done it all
 I've seen it all but I can't find a fellin like that
-
-
-

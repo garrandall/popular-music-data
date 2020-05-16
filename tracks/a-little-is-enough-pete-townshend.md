@@ -1,8 +1,11 @@
 ---
+album: Empty Glass
 artists:
 - Pete Townshend
+external_ids:
+  spotify: spotify:track:1kTVJHll6cl8SyH2Op2EEr
 features: []
-genres: []
+first_released_as_single: false
 key: a-little-is-enough-pete-townshend
 lyrics_url: https://www.azlyrics.com/lyrics/petetownshend/alittleisenough.html
 name: A Little Is Enough
@@ -23,8 +26,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1980-11-01'
+release_year: 1980
+runtime: 283000
 ---
-
 They say that love often passes in a second
 And you can never catch it up
 So I'm hanging onto you as though eternity beckoned
@@ -72,6 +76,3 @@ Your love's so incredible
 Your body's so edible
 You give me an overdose of love
 A little is enough
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: How Country Feels
 artists:
 - Randy Houser
+external_ids:
+  spotify: spotify:track:27aDju7VAODvQYHWrrv6o9
 features: []
-genres: []
+first_released_as_single: false
 key: goodnight-kiss-randy-houser
 lyrics_url: https://www.azlyrics.com/lyrics/randyhouser/goodnightkiss.html
 name: Goodnight Kiss
@@ -71,8 +74,9 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '2014-05-10'
+release_year: 2013
+runtime: 206800
 ---
-
 Girl I've finally got you up in the seat of my old truck
 And I bet you're wonderin' what we're gonna do
 We could hit the county line, hell we do that all the time
@@ -110,6 +114,3 @@ Let's start it with a goodnight kiss
 Let's start it with a goodnight kiss
 
 I don't wanna wait, I don't wanna wait
-
-
-

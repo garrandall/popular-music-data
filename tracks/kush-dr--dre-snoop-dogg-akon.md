@@ -1,10 +1,13 @@
 ---
+album: Kush
 artists:
 - Dr. Dre
+external_ids:
+  spotify: spotify:track:1U8Ho1nOzKXYDvfigOuHG4
 features:
 - Snoop Dogg
 - Akon
-genres: []
+first_released_as_single: true
 key: kush-dr--dre-snoop-dogg-akon
 lyrics_url: https://genius.com/Dr-dre-kush-lyrics
 name: Kush
@@ -77,6 +80,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2011-03-26'
+release_year: 2010
+runtime: 235120
 ---
 Hold up, wait a minute
 Let me put some kush up in it

@@ -1,9 +1,12 @@
 ---
+album: Rock The House
 artists:
 - D.J. Jazzy Jeff
 - The Fresh Prince
+external_ids:
+  spotify: spotify:track:3MlbfAiLlOMI9xeKy8csqs
 features: []
-genres: []
+first_released_as_single: false
 key: girls-ain-t-nothing-but-trouble-d-j--jazzy-jeff-the-fresh-prince
 lyrics_url: https://genius.com/Dj-jazzy-jeff-and-the-fresh-prince-girls-aint-nothing-but-trouble-lyrics
 name: Girls Ain't Nothing But Trouble
@@ -56,6 +59,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1989-01-14'
+release_year: 1987
+runtime: 306040
 ---
 Listen homeboys don't mean to burst your bubble
 But girls of the world ain't nothing but trouble

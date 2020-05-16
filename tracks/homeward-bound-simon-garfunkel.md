@@ -1,8 +1,11 @@
 ---
+album: Parsley, Sage, Rosemary And Thyme
 artists:
 - Simon & Garfunkel
+external_ids:
+  spotify: spotify:track:4Xl2PrS3DJqqSKXCo6Uhv9
 features: []
-genres: []
+first_released_as_single: false
 key: homeward-bound-simon-garfunkel
 lyrics_url: https://www.musixmatch.com/lyrics/Simon-Garfunkel/Homeward-Bound
 name: Homeward Bound
@@ -55,6 +58,8 @@ rankings:
   rank: 37
   ranking_list: Billboard Hot 100
   start_date: '1966-04-30'
+release_year: 1966
+runtime: 149613
 ---
 I'm sittin' in the railway station, got a ticket for my destination
 On a tour of one-night stands, my suitcase and guitar in hand

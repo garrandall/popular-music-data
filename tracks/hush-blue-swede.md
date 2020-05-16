@@ -1,8 +1,11 @@
 ---
+album: Hooked On A Feeling - 40th Anniversary Collection
 artists:
 - Blue Swede
+external_ids:
+  spotify: spotify:track:6LK1eETYVyjcroRTwQjjmo
 features: []
-genres: []
+first_released_as_single: false
 key: hush-blue-swede
 lyrics_url: https://www.azlyrics.com/lyrics/blueswede/hushimalive.html
 name: Hush
@@ -27,8 +30,9 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '1975-03-22'
+release_year: 1975
+runtime: 208080
 ---
-
 Na nanana nanana nanana
 
 I got a certan little girl she's on my mind 
@@ -96,6 +100,3 @@ I'm real!
 I can see and touch and taste and feel and I'm alive!
 I'm a man!
 And I'm red and yellow and black and tan, I'm a man!
-
-
-

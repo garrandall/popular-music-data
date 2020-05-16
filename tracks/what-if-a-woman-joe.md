@@ -1,8 +1,11 @@
 ---
+album: Better Days
 artists:
 - Joe
+external_ids:
+  spotify: spotify:track:6B38ul2FMi2Vho0siZ6DjB
 features: []
-genres: []
+first_released_as_single: false
 key: what-if-a-woman-joe
 lyrics_url: https://genius.com/Joe-what-if-a-woman-lyrics
 name: What If A Woman
@@ -71,6 +74,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2002-08-24'
+release_year: 2001
+runtime: 254840
 ---
 What if a woman
 Had a man on the side

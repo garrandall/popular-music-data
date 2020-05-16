@@ -1,8 +1,11 @@
 ---
+album: In My Tribe
 artists:
 - 10,000 Maniacs
+external_ids:
+  spotify: spotify:track:0oyj088gTacb4sWeMBBpfb
 features: []
-genres: []
+first_released_as_single: false
 key: what-s-the-matter-here--10-000-maniacs
 lyrics_url: https://genius.com/10000-maniacs-whats-the-matter-here-lyrics
 name: What's The Matter Here?
@@ -39,6 +42,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1988-10-22'
+release_year: 1987
+runtime: 289026
 ---
 Mmm la la, yeah yeah yeah
 Oh oh oh

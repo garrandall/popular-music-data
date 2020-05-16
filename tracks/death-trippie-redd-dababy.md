@@ -1,9 +1,12 @@
 ---
+album: A Love Letter To You 4
 artists:
 - Trippie Redd
+external_ids:
+  spotify: spotify:track:6YfTl5YupXOQBKiJJLrxcw
 features:
 - DaBaby
-genres: []
+first_released_as_single: true
 key: death-trippie-redd-dababy
 lyrics_url: https://www.azlyrics.com/lyrics/trippieredd/death.html
 name: Death
@@ -36,9 +39,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2020-01-11'
+release_year: 2019
+runtime: 172195
 ---
-
-
 Ya dig?
 You gon' die
 You gon' die
@@ -109,6 +112,3 @@ Yeah, huh, murder, murder, slatt (Yeah)
 Choppa big, it blow you back (Yeah)
 Hanging with them slatts (Yeah), pussy nigga, we tote gats (Yeah, yeah)
 Nigga, you get whacked (Gang), that's on gang and that's all facts, ugh (Yeah, yeah)
-
-
-

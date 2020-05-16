@@ -1,8 +1,11 @@
 ---
+album: Startin' With Me
 artists:
 - Jake Owen
+external_ids:
+  spotify: spotify:track:5bQ8psGbXl0heZAiwG9jW6
 features: []
-genres: []
+first_released_as_single: false
 key: startin--with-me-jake-owen
 lyrics_url: https://www.azlyrics.com/lyrics/jakeowen/startinwithme.html
 name: Startin' With Me
@@ -43,8 +46,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2007-08-11'
+release_year: 2006
+runtime: 236026
 ---
-
 I had a one night stand with my best friend's baby sister
 And to this day he still won't speak to me
 I pawned my grandpa's old guitar in college
@@ -82,6 +86,3 @@ If only I'd've known that later on down the road
 I'd look back and not like what I see
 Ohh, I'd've changed a lot of things... Startin' with me
 Startin' with me...
-
-
-

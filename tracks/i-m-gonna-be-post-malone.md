@@ -1,8 +1,11 @@
 ---
+album: Hollywood's Bleeding
 artists:
 - Post Malone
+external_ids:
+  spotify: spotify:track:1ckLp8lCl8LipXI0ypX72m
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-gonna-be-post-malone
 lyrics_url: https://genius.com/Post-malone-im-gonna-be-lyrics
 name: I'm Gonna Be
@@ -15,6 +18,8 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '2019-09-28'
+release_year: 2019
+runtime: 200680
 ---
 Can you feel it?
 Can you feel it?

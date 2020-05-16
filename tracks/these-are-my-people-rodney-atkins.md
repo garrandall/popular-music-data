@@ -1,8 +1,11 @@
 ---
+album: If You're Going Through Hell
 artists:
 - Rodney Atkins
+external_ids:
+  spotify: spotify:track:5jFid6SUnYqohvNvNuZvIz
 features: []
-genres: []
+first_released_as_single: false
 key: these-are-my-people-rodney-atkins
 lyrics_url: https://www.azlyrics.com/lyrics/rodneyatkins/thesearemypeople.html
 name: These Are My People
@@ -87,8 +90,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2007-11-03'
+release_year: 2006
+runtime: 213653
 ---
-
 Well we grew up down by the railroad tracks
 Shootin' b.b.'s at old beer cans
 Chokin' on the smoke from a lucky strike
@@ -136,4 +140,3 @@ We fall down and we get up
 We walk proud and we talk tough
 We got heart and we got nerve
 Even if we are a bit disturbed
-

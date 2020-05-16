@@ -1,8 +1,11 @@
 ---
+album: House Of Love
 artists:
 - Amy Grant
+external_ids:
+  spotify: spotify:track:5reaWOvB4w0Gp8KjwKXqcu
 features: []
-genres: []
+first_released_as_single: false
 key: big-yellow-taxi-amy-grant
 lyrics_url: https://www.azlyrics.com/lyrics/amygrant/bigyellowtaxi.html
 name: Big Yellow Taxi
@@ -67,8 +70,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1995-09-23'
+release_year: 1994
+runtime: 181853
 ---
-
 They paved paradise and put up a parking lot
 With a pink hotel, a botique, and a swinging hot spot
 Don't it always seem to go
@@ -103,6 +107,3 @@ Don't it always seem to go
 That you don't know what you've got till it's gone
 They paved paradise and put up a parking lot
 Hey, they steamrolled paradise... for a parking lot
-
-
-

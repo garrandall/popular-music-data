@@ -1,8 +1,11 @@
 ---
+album: 'Melba Montgomery & Norma Jean: First Ladies of Country'
 artists:
 - Melba Montgomery
+external_ids:
+  spotify: spotify:track:72AiDFol5CTGQGTfsUINUF
 features: []
-genres: []
+first_released_as_single: false
 key: no-charge-melba-montgomery
 lyrics_url: https://genius.com/Melba-montgomery-no-charge-lyrics
 name: No Charge
@@ -47,6 +50,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1974-06-15'
+release_year: 1974
+runtime: 199333
 ---
 My little boy came into the kitchen this evening
 While I was fixing supper

@@ -1,9 +1,12 @@
 ---
+album: A Different Me
 artists:
 - Keyshia Cole
+external_ids:
+  spotify: spotify:track:0nJZDtAaqO7o9mb6YoBfqO
 features:
 - 2Pac
-genres: []
+first_released_as_single: false
 key: playa-cardz-right-keyshia-cole-2pac
 lyrics_url: https://www.musixmatch.com/lyrics/Keyshia-Cole-feat-2pac/Playa-Cardz-Right
 name: Playa Cardz Right
@@ -60,6 +63,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2009-02-21'
+release_year: 2008
+runtime: 291240
 ---
 What's up boo?
 Yeah, ha ha ha ha

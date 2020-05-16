@@ -1,8 +1,11 @@
 ---
+album: Moving Violation
 artists:
 - Jackson 5
+external_ids:
+  spotify: spotify:track:5tfKAGpQZpTd4afl0ZjUsF
 features: []
-genres: []
+first_released_as_single: false
 key: forever-came-today-jackson-5
 lyrics_url: https://www.azlyrics.com/lyrics/jackson5/forevercametoday.html
 name: Forever Came Today
@@ -43,9 +46,9 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1975-08-30'
+release_year: 1975
+runtime: 380226
 ---
-
-
 (Ever, forever, ever, and ever, and ever)
 (Ever, forever, ever, and ever, and ever)
 
@@ -106,6 +109,3 @@ Oh, you give my life completeness
 Make it last for more than just a day
 Make it last for more than just an hour
 Make it last forever
-
-
-

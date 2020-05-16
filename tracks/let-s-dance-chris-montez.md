@@ -1,8 +1,11 @@
 ---
+album: The Hits
 artists:
 - Chris Montez
+external_ids:
+  spotify: spotify:track:2Qm5DrmotzWvqNM3JlcQYo
 features: []
-genres: []
+first_released_as_single: false
 key: let-s-dance-chris-montez
 lyrics_url: https://genius.com/Chris-montez-lets-dance-lyrics
 name: Let's Dance
@@ -63,6 +66,8 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1962-11-10'
+release_year: 1962
+runtime: 149626
 ---
 (One, two)
 (One, two, three, four)

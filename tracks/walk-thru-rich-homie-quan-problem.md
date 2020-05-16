@@ -1,9 +1,12 @@
 ---
+album: I Promise I Will Never Stop Going In
 artists:
 - Rich Homie Quan
+external_ids:
+  spotify: spotify:track:2ppKIytnAyI8GRiRv8VpP6
 features:
 - Problem
-genres: []
+first_released_as_single: true
 key: walk-thru-rich-homie-quan-problem
 lyrics_url: https://www.musixmatch.com/lyrics/Rich-Homie-Quan-feat-Problem-3/Walk-Thru
 name: Walk Thru
@@ -36,6 +39,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2014-10-18'
+release_year: 2014
+runtime: 184894
 ---
 I be feeling like the man when I walk through
 Ain't stunting what you saying when I walk through

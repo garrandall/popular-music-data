@@ -1,8 +1,11 @@
 ---
+album: Savage Garden
 artists:
 - Savage Garden
+external_ids:
+  spotify: spotify:track:2t14KrX2g24inxFWpFVf93
 features: []
-genres: []
+first_released_as_single: true
 key: i-want-you-savage-garden
 lyrics_url: https://genius.com/Savage-garden-i-want-you-lyrics
 name: I Want You
@@ -139,6 +142,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1997-10-11'
+release_year: 1996
+runtime: 232693
 ---
 Anytime I need to see your face
 I just close my eyes

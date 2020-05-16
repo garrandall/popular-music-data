@@ -1,8 +1,11 @@
 ---
+album: Culture II
 artists:
 - Migos
+external_ids:
+  spotify: spotify:track:4Kw3CztmD15X1QGDnnHmLD
 features: []
-genres: []
+first_released_as_single: false
 key: auto-pilot-migos
 lyrics_url: https://www.azlyrics.com/lyrics/migos/autopilothunchoonthebeat.html
 name: Auto Pilot
@@ -11,9 +14,9 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '2018-02-10'
+release_year: 2018
+runtime: 287992
 ---
-
-
 Huncho, woo
 What time it is? eleven o'clock?
 Let's roll
@@ -149,6 +152,3 @@ Young nigga whip the birdie (woo)
 Oh watch 'em movin' (oh)
 Oh, shake 'em out the shoes (shake 'em out the shoes)
 Oh, VVS jewels, GI Jew, nigga what it do? yeah
-
-
-

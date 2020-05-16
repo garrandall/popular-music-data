@@ -1,8 +1,11 @@
 ---
+album: Spanky's Greatest Hit(s)
 artists:
 - Spanky And Our Gang
+external_ids:
+  spotify: spotify:track:2BZUWsWUDhRnGqfZOaOzfC
 features: []
-genres: []
+first_released_as_single: false
 key: and-she-s-mine-spanky-and-our-gang
 lyrics_url: https://genius.com/Spanky-and-our-gang-and-shes-mine-lyrics
 name: And She's Mine
@@ -11,6 +14,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1969-06-21'
+release_year: 1969
+runtime: 161960
 ---
 Hey, there ain't a bit of truth
 In anything that you've heard about her

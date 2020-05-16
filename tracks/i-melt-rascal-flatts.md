@@ -1,8 +1,11 @@
 ---
+album: Melt
 artists:
 - Rascal Flatts
+external_ids:
+  spotify: spotify:track:02UnamzTn2rySwzcMkq5qx
 features: []
-genres: []
+first_released_as_single: false
 key: i-melt-rascal-flatts
 lyrics_url: https://www.azlyrics.com/lyrics/rascalflatts/imelt.html
 name: I Melt
@@ -87,8 +90,9 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '2004-01-03'
+release_year: 2002
+runtime: 234253
 ---
-
 When you light those candles 
 Up there on that mantle, setting the mood 
 Well, I just lie there staring 
@@ -113,6 +117,3 @@ One little stare from you is all it takes
 
 Every time you look at me that way 
 I melt, I melt
-
-
-

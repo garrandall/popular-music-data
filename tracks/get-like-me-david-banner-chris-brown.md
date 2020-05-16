@@ -1,9 +1,12 @@
 ---
+album: The Greatest Story Ever Told
 artists:
 - David Banner
+external_ids:
+  spotify: spotify:track:2IBF9lQ9lgVai8LkskI5L7
 features:
 - Chris Brown
-genres: []
+first_released_as_single: false
 key: get-like-me-david-banner-chris-brown
 lyrics_url: https://www.azlyrics.com/lyrics/davidbanner/getlikeme.html
 name: Get Like Me
@@ -92,8 +95,9 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2008-10-11'
+release_year: 2008
+runtime: 224546
 ---
-
 (David Banner!)
 Have you ever seen a Chevy with the butterfly do's
 
@@ -165,6 +169,3 @@ I got Chad in my heart and DJ Screw in my cup
 
 
 (Stuntin-stuntin is a habit)
-
-
-

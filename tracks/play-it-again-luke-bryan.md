@@ -1,8 +1,11 @@
 ---
+album: Crash My Party
 artists:
 - Luke Bryan
+external_ids:
+  spotify: spotify:track:03fT3OHB9KyMtGMt2zwqCT
 features: []
-genres: []
+first_released_as_single: false
 key: play-it-again-luke-bryan
 lyrics_url: https://www.azlyrics.com/lyrics/lukebryan/playitagain.html
 name: Play It Again
@@ -87,8 +90,9 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '2014-08-09'
+release_year: 2013
+runtime: 226866
 ---
-
 She was sittin' all alone over on the tailgate
 Tan legs swingin' by a Georgia plate
 I was lookin' for her boyfriend,
@@ -141,6 +145,3 @@ And I said, "Play it again, play it again, play it again."
 
 Yeah, play it again, play it again, play it again
 Somebody, play it again, play it again, play it again
-
-
-

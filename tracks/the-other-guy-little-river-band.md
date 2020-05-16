@@ -1,8 +1,11 @@
 ---
+album: Rearranged
 artists:
 - Little River Band
+external_ids:
+  spotify: spotify:track:1cVSNQ0yL8EdISYFLaxW6m
 features: []
-genres: []
+first_released_as_single: false
 key: the-other-guy-little-river-band
 lyrics_url: https://www.azlyrics.com/lyrics/littleriverband/theotherguy.html
 name: The Other Guy
@@ -79,8 +82,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1983-03-19'
+release_year: 1982
+runtime: 169200
 ---
-
 I found out that you care for another guy
 I found out that you want for another smile
 We are alone as two different people can be
@@ -104,6 +108,3 @@ We had it all, you and I, we just need to try again
 You don't know it's me that you need
 You're thinking of him and I can't compete
 Well I'm here to say I still want you back again
-
-
-

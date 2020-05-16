@@ -1,8 +1,11 @@
 ---
+album: Detroit City and Other Hits by Bobby Bare
 artists:
 - Bobby Bare
+external_ids:
+  spotify: spotify:track:6zBHtuqVP7CAx26XQRZnb6
 features: []
-genres: []
+first_released_as_single: false
 key: detroit-city-bobby-bare
 lyrics_url: https://www.azlyrics.com/lyrics/bobbybare/detroitcity.html
 name: Detroit City
@@ -55,8 +58,9 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1963-08-31'
+release_year: 1963
+runtime: 168066
 ---
-
 I wanna go home, I wanna go home
 Oh, how I wanna go home.
 
@@ -79,6 +83,3 @@ And go on back to the loved ones, the ones that I left waitin' so far behind.
 
 I wanna go home, I wanna go home,
 Oh, how I wanna go home...
-
-
-

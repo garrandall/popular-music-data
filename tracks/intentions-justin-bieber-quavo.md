@@ -1,9 +1,12 @@
 ---
+album: Changes
 artists:
 - Justin Bieber
+external_ids:
+  spotify: spotify:track:364dI1bYnvamSnBJ8JcNzN
 features:
 - Quavo
-genres: []
+first_released_as_single: true
 key: intentions-justin-bieber-quavo
 lyrics_url: https://www.azlyrics.com/lyrics/justinbieber/intentions.html
 name: Intentions
@@ -28,8 +31,9 @@ rankings:
   rank: 10
   ranking_list: Billboard Hot 100
   start_date: '2020-03-21'
+release_year: 2020
+runtime: 212868
 ---
-
 Picture-perfect, you don't need no filter
 Gorgeous, make 'em drop dead, you a killer
 Shower you with all my attention
@@ -101,6 +105,3 @@ Heart full of equity, you're an asset (Uh huh)
 Make sure that you don't need no mentions (No mentions)
 Yeah, these are my only intentions (Only intentions)
 (That's all I plan to do, oh
-
-
-

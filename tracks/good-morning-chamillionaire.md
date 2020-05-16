@@ -1,8 +1,11 @@
 ---
+album: Good Morning
 artists:
 - Chamillionaire
+external_ids:
+  spotify: spotify:track:2VkD1v3tYy51yHdalZzEgJ
 features: []
-genres: []
+first_released_as_single: true
 key: good-morning-chamillionaire
 lyrics_url: https://www.azlyrics.com/lyrics/chamillionaire/goodmorning.html
 name: Good Morning
@@ -19,9 +22,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2009-11-14'
+release_year: 2009
+runtime: 212520
 ---
-
-
 I want to show all of my haters love (hey!) 
 This song's for you (this song's for you) 
 If you had it like me and I was in your shoes 
@@ -76,6 +79,3 @@ See they hate to see you be successful
 
 Ha-ha-ha-ha-haters, good morning 
 Ha-ha-ha-ha-haters, good morning
-
-
-

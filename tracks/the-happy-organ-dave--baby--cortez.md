@@ -1,8 +1,11 @@
 ---
+album: The Happy Organ
 artists:
 - Dave "Baby" Cortez
+external_ids:
+  spotify: spotify:track:6Vd3TYtyMHKaGtBBLLwgGC
 features: []
-genres: []
+first_released_as_single: false
 key: the-happy-organ-dave--baby--cortez
 lyrics_url: https://genius.com/Dave-baby-cortez-the-happy-organ-lyrics
 name: The Happy Organ
@@ -75,6 +78,8 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1959-07-06'
+release_year: 1959
+runtime: 122826
 ---
 The best things in life are free, but you can give them to the birds and bees
 I need money

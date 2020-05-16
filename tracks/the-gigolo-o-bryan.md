@@ -1,8 +1,11 @@
 ---
+album: The Best Of O'Bryan
 artists:
 - O'Bryan
+external_ids:
+  spotify: spotify:track:3jNrCEcYwrZd8xC8FXm0RD
 features: []
-genres: []
+first_released_as_single: false
 key: the-gigolo-o-bryan
 lyrics_url: https://genius.com/Obryan-the-gigolo-lyrics
 name: The Gigolo
@@ -43,6 +46,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1982-05-22'
+release_year: 1982
+runtime: 297293
 ---
 He walked into the party
 And looked at everybody in the room

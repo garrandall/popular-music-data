@@ -1,8 +1,11 @@
 ---
+album: Three Chord Country and American Rock & Roll
 artists:
 - Keith Anderson
+external_ids:
+  spotify: spotify:track:2GgIDaPLsowybB3WgxLWUj
 features: []
-genres: []
+first_released_as_single: false
 key: pickin--wildflowers-keith-anderson
 lyrics_url: https://www.azlyrics.com/lyrics/keithanderson/pickinwildflowers.html
 name: Pickin' Wildflowers
@@ -55,8 +58,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2005-08-20'
+release_year: 2005
+runtime: 185920
 ---
-
 Hey baby whatcha doin' this evening?
 Can you meet me down at the railroad tracks?
 I got Tom Petty playin' in my Silverado,
@@ -82,4 +86,3 @@ Dive on in like honey bees.
 
 Take a trail ride if you know what I mean.
 Hey baby won't you come with me?
-

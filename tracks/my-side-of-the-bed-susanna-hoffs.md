@@ -1,8 +1,11 @@
 ---
+album: WHEN YOU'RE A BOY
 artists:
 - Susanna Hoffs
+external_ids:
+  spotify: spotify:track:4bYKBEeblMr5KLOEMD7OHu
 features: []
-genres: []
+first_released_as_single: false
 key: my-side-of-the-bed-susanna-hoffs
 lyrics_url: https://genius.com/Susanna-hoffs-my-side-of-the-bed-lyrics
 name: My Side Of The Bed
@@ -51,6 +54,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1991-04-13'
+release_year: 1991
+runtime: 208360
 ---
 I want to show you the picture I drew
 When I was on the phone talking to you

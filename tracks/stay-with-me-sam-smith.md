@@ -1,8 +1,11 @@
 ---
+album: In The Lonely Hour
 artists:
 - Sam Smith
+external_ids:
+  spotify: spotify:track:5Nm9ERjJZ5oyfXZTECKmRt
 features: []
-genres: []
+first_released_as_single: false
 key: stay-with-me-sam-smith
 lyrics_url: https://genius.com/Sam-smith-stay-with-me-lyrics
 name: Stay With Me
@@ -223,6 +226,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2015-05-02'
+release_year: 2014
+runtime: 172723
 ---
 Guess it's true, I'm not good at a one-night stand
 But I still need love 'cause I'm just a man

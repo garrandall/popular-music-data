@@ -1,8 +1,11 @@
 ---
+album: Cucumber Castle
 artists:
 - Bee Gees
+external_ids:
+  spotify: spotify:track:45oIGEnIM1t8uzuZgxW6ZD
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-forget-to-remember-bee-gees
 lyrics_url: https://genius.com/Bee-gees-dont-forget-to-remember-lyrics
 name: Don't Forget To Remember
@@ -19,6 +22,8 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '1969-10-04'
+release_year: 1969
+runtime: 207066
 ---
 Oh my heart won't believe that you have left me
 I keep telling my self that it's true

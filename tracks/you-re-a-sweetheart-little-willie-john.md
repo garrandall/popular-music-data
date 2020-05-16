@@ -1,8 +1,11 @@
 ---
+album: Mister Little Willie John
 artists:
 - Little Willie John
+external_ids:
+  spotify: spotify:track:4mpInrFdf5KO5VadxRJ3Ql
 features: []
-genres: []
+first_released_as_single: false
 key: you-re-a-sweetheart-little-willie-john
 lyrics_url: https://www.musixmatch.com/lyrics/Little-Willie-John/You-re-a-Sweetheart
 name: You're A Sweetheart
@@ -23,6 +26,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1958-09-08'
+release_year: 1958
+runtime: 158502
 ---
 You're, you're a sweetheart
 If there ever was one

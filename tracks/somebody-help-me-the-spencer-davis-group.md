@@ -1,8 +1,11 @@
 ---
+album: Autumn '66
 artists:
 - The Spencer Davis Group
+external_ids:
+  spotify: spotify:track:3S3F7BVYO7iCZq9d1l2joS
 features: []
-genres: []
+first_released_as_single: false
 key: somebody-help-me-the-spencer-davis-group
 lyrics_url: https://www.azlyrics.com/lyrics/spencerdavisgroup/somebodyhelpme.html
 name: Somebody Help Me
@@ -35,8 +38,9 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '1967-07-29'
+release_year: 1966
+runtime: 121666
 ---
-
 Somebody help me, yeah
 Somebody help me now
 Won't somebody tell me
@@ -71,6 +75,3 @@ Somebody help me, yeah
 Somebody help me now
 Somebody help me, yeah
 Somebody help me now
-
-
-

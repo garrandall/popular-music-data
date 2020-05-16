@@ -1,8 +1,11 @@
 ---
+album: Midstream
 artists:
 - Debby Boone
+external_ids:
+  spotify: spotify:track:7qaZbn35h88YLeeloJ2Utq
 features: []
-genres: []
+first_released_as_single: false
 key: california-debby-boone
 lyrics_url: https://www.azlyrics.com/lyrics/debbyboone/california.html
 name: California
@@ -27,8 +30,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1978-03-11'
+release_year: 1978
+runtime: 204528
 ---
-
 The Sierra Mountains rise up
 As you float down into L.A
 The Pacific roars hello
@@ -73,6 +77,3 @@ So come on to California
 Where the sun is warm
 Where the winds called Santa Ana
 Make you feel like you belong
-
-
-

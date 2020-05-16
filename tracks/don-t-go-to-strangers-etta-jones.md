@@ -1,8 +1,11 @@
 ---
+album: Don't Go To Strangers
 artists:
 - Etta Jones
+external_ids:
+  spotify: spotify:track:2k8nNJfIuOuT3RPVFmA9UG
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-go-to-strangers-etta-jones
 lyrics_url: https://genius.com/Etta-jones-dont-go-to-strangers-lyrics
 name: Don't Go To Strangers
@@ -35,6 +38,8 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '1960-12-19'
+release_year: 1960
+runtime: 229466
 ---
 Build your dreams to the stars above
 But when you need someone true to love

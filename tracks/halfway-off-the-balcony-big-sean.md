@@ -1,8 +1,11 @@
 ---
+album: I Decided.
 artists:
 - Big Sean
+external_ids:
+  spotify: spotify:track:5Z3b1nMthKjpuLwkOubRnv
 features: []
-genres: []
+first_released_as_single: false
 key: halfway-off-the-balcony-big-sean
 lyrics_url: https://www.azlyrics.com/lyrics/bigsean/halfwayoffthebalcony.html
 name: Halfway Off The Balcony
@@ -11,8 +14,9 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '2017-02-25'
+release_year: 2017
+runtime: 230960
 ---
-
 (I am ready right now)
 Uh huh
 I look up, I don't even...
@@ -86,6 +90,3 @@ She been mad
  Um, I'm a call her back
  You sure dawg? She keep callin'
  Yeah for sure, for sure, bruh, I'm a call her back
-
-
-

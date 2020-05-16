@@ -1,8 +1,11 @@
 ---
+album: Hurts 2B Human
 artists:
 - P!nk
+external_ids:
+  spotify: spotify:track:7DHApOHsIFo7EyfieArYGE
 features: []
-genres: []
+first_released_as_single: true
 key: walk-me-home-p-nk
 lyrics_url: https://genius.com/P-nk-walk-me-home-lyrics
 name: Walk Me Home
@@ -87,6 +90,8 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '2019-07-27'
+release_year: 2019
+runtime: 177390
 ---
 There's somethin' in the way you roll your eyes
 Takes me back to a better time

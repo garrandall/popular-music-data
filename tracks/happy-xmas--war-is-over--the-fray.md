@@ -1,8 +1,11 @@
 ---
+album: Happy Xmas (War Is Over)
 artists:
 - The Fray
+external_ids:
+  spotify: spotify:track:6Rjw3kkox3TPXPB6sixLGs
 features: []
-genres: []
+first_released_as_single: true
 key: happy-xmas--war-is-over--the-fray
 lyrics_url: https://www.azlyrics.com/lyrics/fray/happyxmaswarisover.html
 name: Happy Xmas (War Is Over)
@@ -15,8 +18,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2007-01-06'
+release_year: 2006
+runtime: 251520
 ---
-
 So this is Christmas
 And what have you done
 Another year over
@@ -65,6 +69,3 @@ Without any fear
 War is over
 If you want it
 War is over, now
-
-
-

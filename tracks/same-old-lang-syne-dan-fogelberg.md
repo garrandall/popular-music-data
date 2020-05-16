@@ -1,8 +1,11 @@
 ---
+album: Love Songs
 artists:
 - Dan Fogelberg
+external_ids:
+  spotify: spotify:track:0juQNDN4EdiuG97rgKywkF
 features: []
-genres: []
+first_released_as_single: false
 key: same-old-lang-syne-dan-fogelberg
 lyrics_url: https://www.azlyrics.com/lyrics/danfogelberg/sameoldlangsyne.html
 name: Same Old Lang Syne
@@ -79,8 +82,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1981-04-11'
+release_year: 1979
+runtime: 315733
 ---
-
 Met my old lover in the grocery store
 The snow was falling Christmas Eve
 I stole behind her in the frozen foods
@@ -140,6 +144,3 @@ Just for a moment I was back at school
 And felt that old familiar pain
 And as I turned to make my way back home
 The snow turned into rain
-
-
-

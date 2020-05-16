@@ -1,8 +1,11 @@
 ---
+album: Bells Of Love
 artists:
 - Ral Donner
+external_ids:
+  spotify: spotify:track:7cdaqRtNo3e2ZtbjYd6nzX
 features: []
-genres: []
+first_released_as_single: false
 key: please-don-t-go-ral-donner
 lyrics_url: https://www.musixmatch.com/lyrics/Ral-Donner/Please-Don-t-Go
 name: Please Don't Go
@@ -43,6 +46,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1961-11-20'
+release_year: 1961
+runtime: 135133
 ---
 You're gonna make
 You're gonna make me cry

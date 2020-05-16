@@ -1,8 +1,11 @@
 ---
+album: Goody Goody
 artists:
 - Goody Goody
+external_ids:
+  spotify: spotify:track:0MzHSJl9bHQiNPufYxJaab
 features: []
-genres: []
+first_released_as_single: false
 key: -1-dee-jay-goody-goody
 lyrics_url: https://www.musixmatch.com/lyrics/Goody-Goody/1-Dee-Jay
 name: '#1 Dee Jay'
@@ -27,6 +30,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1978-12-16'
+release_year: 1978
+runtime: 452160
 ---
 You're my number one deejay
 Oh, my number one man

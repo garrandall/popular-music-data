@@ -1,8 +1,11 @@
 ---
+album: All the Little Lights (Deluxe Version)
 artists:
 - Passenger
+external_ids:
+  spotify: spotify:track:2JXnsuFhfVgLHPL1mp3xdW
 features: []
-genres: []
+first_released_as_single: true
 key: let-her-go-passenger
 lyrics_url: https://genius.com/Passenger-let-her-go-lyrics
 name: Let Her Go
@@ -179,6 +182,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2014-06-07'
+release_year: 2012
+runtime: 223573
 ---
 Well you only need the light when it's burning low
 Only miss the sun when it starts to snow

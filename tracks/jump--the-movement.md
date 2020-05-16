@@ -1,8 +1,11 @@
 ---
+album: The Movement (Mini EP, 10 Tracks)
 artists:
 - The Movement
+external_ids:
+  spotify: spotify:track:6HvYl8oxVm25EvzUvNQemb
 features: []
-genres: []
+first_released_as_single: true
 key: jump--the-movement
 lyrics_url: https://genius.com/The-movement-la-jump-lyrics
 name: Jump!
@@ -87,6 +90,8 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1992-12-19'
+release_year: 1992
+runtime: 232640
 ---
 Aww yeah
 We are to make you jump

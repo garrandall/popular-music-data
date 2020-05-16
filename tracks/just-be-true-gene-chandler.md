@@ -1,8 +1,11 @@
 ---
+album: Soul Master
 artists:
 - Gene Chandler
+external_ids:
+  spotify: spotify:track:6tsjCzciIajxisQtbUkOUa
 features: []
-genres: []
+first_released_as_single: false
 key: just-be-true-gene-chandler
 lyrics_url: https://genius.com/Gene-chandler-just-be-true-lyrics
 name: Just Be True
@@ -47,6 +50,8 @@ rankings:
   rank: 34
   ranking_list: Billboard Hot 100
   start_date: '1964-09-12'
+release_year: 1964
+runtime: 154933
 ---
 We're kids no more baby, we belong you and me together
 I vowed never to do you wrong, and shall always keep you happy, (together)

@@ -1,8 +1,11 @@
 ---
+album: Searchin' for a Rainbow
 artists:
 - The Marshall Tucker Band
+external_ids:
+  spotify: spotify:track:3okKVZgaeql0vACn0kwMvY
 features: []
-genres: []
+first_released_as_single: false
 key: it-takes-time-the-marshall-tucker-band
 lyrics_url: https://www.azlyrics.com/lyrics/marshalltuckerband/ittakestime.html
 name: It Takes Time
@@ -19,6 +22,8 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1980-05-10'
+release_year: 1975
+runtime: 223760
 ---
 When you're feeling down and low
 And you don't know which way your life should go

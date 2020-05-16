@@ -1,8 +1,11 @@
 ---
+album: Because the Internet
 artists:
 - Childish Gambino
+external_ids:
+  spotify: spotify:track:2ZltjIqztEpZtafc8w0I9t
 features: []
-genres: []
+first_released_as_single: false
 key: v-3005-childish-gambino
 lyrics_url: https://genius.com/Childish-gambino-v-3005-lyrics
 name: '3005'
@@ -87,6 +90,8 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '2014-11-01'
+release_year: 2013
+runtime: 234215
 ---
 No matter what you say or what you do
 When I'm alone, I'd rather be with you

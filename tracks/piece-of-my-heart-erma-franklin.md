@@ -1,8 +1,11 @@
 ---
+album: 'Erma Franklin: Piece Of Her Heart - The Epic And Shout Years'
 artists:
 - Erma Franklin
+external_ids:
+  spotify: spotify:track:6JbyaNMXK99e5JG368DHL9
 features: []
-genres: []
+first_released_as_single: false
 key: piece-of-my-heart-erma-franklin
 lyrics_url: https://genius.com/Erma-franklin-piece-of-my-heart-lyrics
 name: Piece Of My Heart
@@ -39,6 +42,8 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '1967-12-23'
+release_year: 1967
+runtime: 156826
 ---
 Didn't I make you feel
 Like you were the only man?

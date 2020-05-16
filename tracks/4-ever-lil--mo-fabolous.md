@@ -1,9 +1,12 @@
 ---
+album: Love My New Millenium Hip Hop
 artists:
 - Lil' Mo
+external_ids:
+  spotify: spotify:track:42GyzxpX8RmcD7vWqWLGBt
 features:
 - Fabolous
-genres: []
+first_released_as_single: false
 key: 4-ever-lil--mo-fabolous
 lyrics_url: https://genius.com/Lil-mo-4ever-lyrics
 name: 4 Ever
@@ -88,6 +91,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2003-08-02'
+release_year: 2003
+runtime: 222946
 ---
 Baby, I'm at the point at my life
 And I'm tired of playing games

@@ -1,8 +1,11 @@
 ---
+album: Every Beat of My Heart
 artists:
 - Rod Stewart
+external_ids:
+  spotify: spotify:track:53rzQx6CQEDyBEcWQCQiuV
 features: []
-genres: []
+first_released_as_single: false
 key: another-heartache-rod-stewart
 lyrics_url: https://www.azlyrics.com/lyrics/rodstewart/anotherheartache.html
 name: Another Heartache
@@ -43,8 +46,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1986-10-25'
+release_year: 1986
+runtime: 269306
 ---
-
 I told you once I'm a jealous man
 But you never want to listen to who I am
 We're divided, completely out of touch
@@ -106,6 +110,3 @@ It's only another heartache
 Nothing to worry about
 Something I may get used to
 Dragging my heart around
-
-
-

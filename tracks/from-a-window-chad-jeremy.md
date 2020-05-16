@@ -1,9 +1,12 @@
 ---
+album: A Summer Song
 artists:
 - Chad
 - Jeremy
+external_ids:
+  spotify: spotify:track:5QdkhR3MSMQRqbsW14KUXZ
 features: []
-genres: []
+first_released_as_single: false
 key: from-a-window-chad-jeremy
 lyrics_url: https://genius.com/Chad-and-jeremy-from-a-window-lyrics
 name: From A Window
@@ -16,6 +19,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1965-07-17'
+release_year: 1965
+runtime: 129120
 ---
 Lennon-McCartney
 

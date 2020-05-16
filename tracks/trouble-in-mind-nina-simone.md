@@ -1,8 +1,11 @@
 ---
+album: At Newport
 artists:
 - Nina Simone
+external_ids:
+  spotify: spotify:track:2HbFnvwckMtdEqpOzAVufx
 features: []
-genres: []
+first_released_as_single: false
 key: trouble-in-mind-nina-simone
 lyrics_url: https://www.azlyrics.com/lyrics/ninasimone/troubleinmind.html
 name: Trouble In Mind
@@ -15,8 +18,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1961-01-30'
+release_year: 1960
+runtime: 330733
 ---
-
 Trouble in mind, I'm blue
 But I won't be blue always,
 'cause the sun's gonna shine
@@ -52,6 +56,3 @@ Well it's trouble, oh trouble
 Trouble on my worried mind,
 When you see me laughin'
 I'm laughin' just to keep from cryin'.
-
-
-

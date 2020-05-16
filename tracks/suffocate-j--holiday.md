@@ -1,8 +1,11 @@
 ---
+album: Back Of My Lac'
 artists:
 - J. Holiday
+external_ids:
+  spotify: spotify:track:3nJjIYchBNkYm7B8XfJf5N
 features: []
-genres: []
+first_released_as_single: false
 key: suffocate-j--holiday
 lyrics_url: https://www.azlyrics.com/lyrics/jholiday/suffocate.html
 name: Suffocate
@@ -103,8 +106,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2008-05-03'
+release_year: 2007
+runtime: 220053
 ---
-
 Now even though I try to play it off
 I'm thinking about you all day long
 And I can't wait for shorty to come through
@@ -173,6 +177,3 @@ I'm going outta my mind (I'm going outta my mind)
 Oh no no I can't breathe
 Oh no no I can't breathe (I can't breathe)
 Oh no no I can't breathe oh no
-
-
-

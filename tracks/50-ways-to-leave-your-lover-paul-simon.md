@@ -1,8 +1,11 @@
 ---
+album: Still Crazy After All These Years
 artists:
 - Paul Simon
+external_ids:
+  spotify: spotify:track:6Qb7gtV6Q4MnUjSbkFcopl
 features: []
-genres: []
+first_released_as_single: false
 key: 50-ways-to-leave-your-lover-paul-simon
 lyrics_url: https://genius.com/Paul-simon-50-ways-to-leave-your-lover-lyrics
 name: 50 Ways To Leave Your Lover
@@ -75,6 +78,8 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1976-04-10'
+release_year: 1975
+runtime: 217346
 ---
 "The problem is all inside your head," she said to me
 "The answer is easy if you take it logically

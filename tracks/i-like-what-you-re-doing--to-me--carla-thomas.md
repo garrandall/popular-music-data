@@ -1,8 +1,11 @@
 ---
+album: Memphis Queen
 artists:
 - Carla Thomas
+external_ids:
+  spotify: spotify:track:2fnbljRroXC33HuhgyoApM
 features: []
-genres: []
+first_released_as_single: false
 key: i-like-what-you-re-doing--to-me--carla-thomas
 lyrics_url: https://genius.com/Carla-thomas-i-like-what-youre-doing-to-me-lyrics
 name: I Like What You're Doing (To Me)
@@ -51,6 +54,8 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '1969-04-26'
+release_year: 1969
+runtime: 178160
 ---
 Baby, I like what you're doing to me
 I'm all messed up now

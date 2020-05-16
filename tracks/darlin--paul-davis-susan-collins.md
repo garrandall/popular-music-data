@@ -1,9 +1,12 @@
 ---
+album: Singer of Songs, Teller of Tales
 artists:
 - Paul Davis
+external_ids:
+  spotify: spotify:track:0p6yJ2Kf4wBaQ3xoIiagtR
 features:
 - Susan Collins
-genres: []
+first_released_as_single: false
 key: darlin--paul-davis-susan-collins
 lyrics_url: https://www.musixmatch.com/lyrics/Paul-Davis-feat-Susan-Collins/Darlin
 name: Darlin'
@@ -32,6 +35,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1978-06-24'
+release_year: 1977
+runtime: 180400
 ---
 Oh, darling
 Darling, you're so fine

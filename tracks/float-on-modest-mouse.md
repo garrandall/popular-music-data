@@ -1,8 +1,11 @@
 ---
+album: Good News For People Who Love Bad News
 artists:
 - Modest Mouse
+external_ids:
+  spotify: spotify:track:2lwwrWVKdf3LR9lbbhnr6R
 features: []
-genres: []
+first_released_as_single: false
 key: float-on-modest-mouse
 lyrics_url: https://genius.com/Modest-mouse-float-on-lyrics
 name: Float On
@@ -87,6 +90,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2004-10-09'
+release_year: 2004
+runtime: 208466
 ---
 I backed my car into a cop car the other day
 Well, he just drove off, sometimes life's okay

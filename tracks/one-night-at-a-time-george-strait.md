@@ -1,8 +1,11 @@
 ---
+album: Carrying Your Love With Me
 artists:
 - George Strait
+external_ids:
+  spotify: spotify:track:0MPKiPO83oR1XoLWLMb7bD
 features: []
-genres: []
+first_released_as_single: false
 key: one-night-at-a-time-george-strait
 lyrics_url: https://www.azlyrics.com/lyrics/georgestrait/onenightatatime.html
 name: One Night At A Time
@@ -55,8 +58,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1997-06-21'
+release_year: 1997
+runtime: 230933
 ---
-
 I'm not yours and baby you're not mine.
 We've got something that sure is fine.
 Let's take our love one night at a time.
@@ -76,4 +80,3 @@ I got my fingers crossed that this goes on and on.
 Tomorrow well that's another day.
 Come on baby, now whatta you say.
 Let's take our love one night at a time.
-

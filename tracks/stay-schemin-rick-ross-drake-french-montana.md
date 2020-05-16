@@ -1,10 +1,13 @@
 ---
+album: Stay Schemin
 artists:
 - Rick Ross
+external_ids:
+  spotify: spotify:track:0nq6sfr8z1R5KJ4XUk396e
 features:
 - Drake
 - French Montana
-genres: []
+first_released_as_single: true
 key: stay-schemin-rick-ross-drake-french-montana
 lyrics_url: https://www.azlyrics.com/lyrics/rickross/stayschemin.html
 name: Stay Schemin
@@ -17,8 +20,9 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '2012-05-12'
+release_year: 2012
+runtime: 267720
 ---
-
 RIP to all the real niggas worldwide
 Salute, Real Shit
 
@@ -123,6 +127,3 @@ I ride for my niggas
 Stay schemin'
 Niggas tryna get at me (dawg)
 I ride for my niggas
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: The Colour Of Spring
 artists:
 - Talk Talk
+external_ids:
+  spotify: spotify:track:2iWTHXaFtRSMhd5OLpYD7f
 features: []
-genres: []
+first_released_as_single: false
 key: life-s-what-you-make-it-talk-talk
 lyrics_url: https://genius.com/Talk-talk-lifes-what-you-make-it-lyrics
 name: Life's What You Make It
@@ -23,6 +26,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1986-02-22'
+release_year: 1986
+runtime: 268893
 ---
 Baby, life's what you make it
 Can't escape it

@@ -1,8 +1,11 @@
 ---
+album: 'Dean Martin: The Capitol Recordings, Vol. 12 (1961)'
 artists:
 - Dean Martin
+external_ids:
+  spotify: spotify:track:4neyOg3db1liExAWvyqDtN
 features: []
-genres: []
+first_released_as_single: false
 key: on-an-evening-in-roma-dean-martin
 lyrics_url: https://genius.com/Dean-martin-on-an-evening-in-roma-lyrics
 name: On An Evening In Roma
@@ -59,6 +62,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1959-10-05'
+release_year: 1956
+runtime: 151533
 ---
 Como e' bella ce' la luna brille e' strette
 Strette como e' tutta bella a passeggiare

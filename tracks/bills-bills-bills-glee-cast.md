@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music presents The Warblers'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:67QoEc0mR2OpqNKXgHGHDq
 features: []
-genres: []
+first_released_as_single: false
 key: bills-bills-bills-glee-cast
 lyrics_url: https://www.azlyrics.com/lyrics/gleecast/billsbillsbills.html
 name: Bills Bills Bills
@@ -15,8 +18,9 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '2011-02-26'
+release_year: 2011
+runtime: 180280
 ---
-
 At first we started out real cool
 Taking me places I ain't never been
 But now you're getting comfortable
@@ -87,6 +91,3 @@ Do you pay my automo' bills?
 If you did then maybe we could chill
 I don't think you do
 So you and me are through
-
-
-

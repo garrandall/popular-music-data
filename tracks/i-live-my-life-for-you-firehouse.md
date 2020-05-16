@@ -1,8 +1,11 @@
 ---
+album: '3'
 artists:
 - Firehouse
+external_ids:
+  spotify: spotify:track:2ViaeF07UM7J2zeIoJePAQ
 features: []
-genres: []
+first_released_as_single: false
 key: i-live-my-life-for-you-firehouse
 lyrics_url: https://www.azlyrics.com/lyrics/firehouse/ilivemylifeforyou.html
 name: I Live My Life For You
@@ -87,8 +90,9 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1995-07-08'
+release_year: 1995
+runtime: 264653
 ---
-
 You know you're everything to me and I could never see
 The two of us apart
 And you know I give myself to you and no matter what you do
@@ -121,6 +125,3 @@ I need you like I've never needed anyone before
 I live my life for you
 
 I live my life for you
-
-
-

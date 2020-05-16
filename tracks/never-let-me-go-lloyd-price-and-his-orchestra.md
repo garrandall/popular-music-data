@@ -1,8 +1,11 @@
 ---
+album: The Best Of Lloyd Price
 artists:
 - Lloyd Price
+external_ids:
+  spotify: spotify:track:5z0lOvhjDBD1doNvVUHdXw
 features: []
-genres: []
+first_released_as_single: false
 key: never-let-me-go-lloyd-price-and-his-orchestra
 lyrics_url: https://genius.com/Lloyd-price-never-let-me-go-lyrics
 name: Never Let Me Go
@@ -19,6 +22,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1960-04-11'
+release_year: 1960
+runtime: 150773
 ---
 Darling, hold me
 Hold me, hold me

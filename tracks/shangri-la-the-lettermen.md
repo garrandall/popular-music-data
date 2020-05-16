@@ -1,8 +1,11 @@
 ---
+album: Favorites
 artists:
 - The Lettermen
+external_ids:
+  spotify: spotify:track:4W9dXLZ2ZV3pSYzea0k4Wz
 features: []
-genres: []
+first_released_as_single: false
 key: shangri-la-the-lettermen
 lyrics_url: https://genius.com/The-lettermen-shangri-la-lyrics
 name: Shangri-La
@@ -27,6 +30,8 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1969-11-15'
+release_year: 1969
+runtime: 154973
 ---
 Your kisses take me
 To Shangri-La

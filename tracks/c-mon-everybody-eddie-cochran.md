@@ -1,8 +1,11 @@
 ---
+album: On The Air
 artists:
 - Eddie Cochran
+external_ids:
+  spotify: spotify:track:46a7xxScsqKJ8gDbTGCdtq
 features: []
-genres: []
+first_released_as_single: false
 key: c-mon-everybody-eddie-cochran
 lyrics_url: https://genius.com/Eddie-cochran-cmon-everybody-lyrics
 name: C'mon Everybody
@@ -55,6 +58,8 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1959-02-09'
+release_year: 1958
+runtime: 346400
 ---
 Ah well, c'mon everybody and let's get together tonight
 I got some money in my jeans and I'm really gonna spend it right

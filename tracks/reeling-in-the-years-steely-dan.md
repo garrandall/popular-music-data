@@ -1,8 +1,11 @@
 ---
+album: A Decade Of Steely Dan
 artists:
 - Steely Dan
+external_ids:
+  spotify: spotify:track:3Xe4JagghOfs9NF1xaqbb8
 features: []
-genres: []
+first_released_as_single: false
 key: reeling-in-the-years-steely-dan
 lyrics_url: https://www.musixmatch.com/lyrics/Steely-Dan/Reeling-in-the-Years
 name: Reeling In The Years
@@ -71,6 +74,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1973-06-23'
+release_year: 1973
+runtime: 278800
 ---
 Your everlasting summer you can see it fading fast
 So you grab a piece of something that you think is gonna last

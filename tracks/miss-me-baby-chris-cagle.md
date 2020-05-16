@@ -1,8 +1,11 @@
 ---
+album: Anywhere But Here
 artists:
 - Chris Cagle
+external_ids:
+  spotify: spotify:track:4e4vO6bp5nSdP9G79O3qS6
 features: []
-genres: []
+first_released_as_single: false
 key: miss-me-baby-chris-cagle
 lyrics_url: https://www.azlyrics.com/lyrics/chriscagle/missmebaby.html
 name: Miss Me Baby
@@ -63,8 +66,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2006-02-04'
+release_year: 2005
+runtime: 234653
 ---
-
 Miss me baby
 When you hear our favorite song 
 Miss me baby
@@ -111,6 +115,3 @@ Miss me baby
 
 Every time you hear this song
 Miss me baby
-
-
-

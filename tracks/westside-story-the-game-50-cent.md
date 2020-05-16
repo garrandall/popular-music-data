@@ -1,9 +1,12 @@
 ---
+album: The Documentary
 artists:
 - The Game
+external_ids:
+  spotify: spotify:track:61GzG81BTR3pxEPOX24I1i
 features:
 - 50 Cent
-genres: []
+first_released_as_single: true
 key: westside-story-the-game-50-cent
 lyrics_url: https://genius.com/The-game-westside-story-lyrics
 name: Westside Story
@@ -24,6 +27,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2004-11-13'
+release_year: 2004
+runtime: 264760
 ---
 Crip niggas, Blood niggas, eses, Asians
 Dominicans, Puerto Ricans, white boys, Jamaicans

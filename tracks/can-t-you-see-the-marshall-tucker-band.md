@@ -1,8 +1,11 @@
 ---
+album: The Marshall Tucker Band
 artists:
 - The Marshall Tucker Band
+external_ids:
+  spotify: spotify:track:4fUU9WKxEgJXyrZJsUA2iP
 features: []
-genres: []
+first_released_as_single: false
 key: can-t-you-see-the-marshall-tucker-band
 lyrics_url: https://genius.com/The-marshall-tucker-band-cant-you-see-lyrics
 name: Can't You See
@@ -31,6 +34,8 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1977-09-24'
+release_year: 1973
+runtime: 365093
 ---
 Gonna take a freight train
 Down at the station, Lord

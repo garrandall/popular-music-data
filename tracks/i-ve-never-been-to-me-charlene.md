@@ -1,8 +1,11 @@
 ---
+album: I've Never Been To Me
 artists:
 - Charlene
+external_ids:
+  spotify: spotify:track:6DMOzL2zPZBAW0LDYCYLWm
 features: []
-genres: []
+first_released_as_single: false
 key: i-ve-never-been-to-me-charlene
 lyrics_url: https://genius.com/Charlene-ive-never-been-to-me-lyrics
 name: I've Never Been To Me
@@ -99,6 +102,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1982-07-17'
+release_year: 1977
+runtime: 234773
 ---
 Hey, lady, you, lady
 Cursing at your life

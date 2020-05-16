@@ -1,8 +1,11 @@
 ---
+album: Golden
 artists:
 - Lady Antebellum
+external_ids:
+  spotify: spotify:track:1qDahv56bbyCytqvnvY2Yp
 features: []
-genres: []
+first_released_as_single: false
 key: goodbye-town-lady-antebellum
 lyrics_url: https://www.azlyrics.com/lyrics/ladyantebellum/goodbyetown.html
 name: Goodbye Town
@@ -51,8 +54,9 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2013-09-21'
+release_year: 2013
+runtime: 288800
 ---
-
 Right there's the high school where we met
 We'd sneak out back for a couple kisses and a cigarette
 And that parking lot was our first date
@@ -109,6 +113,3 @@ You're gonna think of me
 You're gonna think of me
 When I'm long gone
 I'll be long gone
-
-
-

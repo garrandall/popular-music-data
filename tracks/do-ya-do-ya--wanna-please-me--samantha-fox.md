@@ -1,8 +1,11 @@
 ---
+album: Touch Me
 artists:
 - Samantha Fox
+external_ids:
+  spotify: spotify:track:487g8FbkUPBWiWSzrMNGsm
 features: []
-genres: []
+first_released_as_single: false
 key: do-ya-do-ya--wanna-please-me--samantha-fox
 lyrics_url: https://genius.com/Samantha-fox-do-ya-do-ya-extended-version-lyrics
 name: Do Ya Do Ya (Wanna Please Me)
@@ -27,6 +30,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1987-04-11'
+release_year: 1987
+runtime: 224266
 ---
 Are you strong enough?
 Give me what I want! Can you please me right now

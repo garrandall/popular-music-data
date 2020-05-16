@@ -1,8 +1,11 @@
 ---
+album: Remembering
 artists:
 - Patsy Cline
+external_ids:
+  spotify: spotify:track:3I8NCHSf2PFVRRKUqyh8AE
 features: []
-genres: []
+first_released_as_single: false
 key: so-wrong-patsy-cline
 lyrics_url: https://genius.com/Patsy-cline-so-wrong-lyrics
 name: So Wrong
@@ -11,6 +14,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1962-08-25'
+release_year: 1962
+runtime: 183000
 ---
 I've been so wrong
 For so long

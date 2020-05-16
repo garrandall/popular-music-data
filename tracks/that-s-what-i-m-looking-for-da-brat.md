@@ -1,8 +1,11 @@
 ---
+album: Unrestricted
 artists:
 - Da Brat
+external_ids:
+  spotify: spotify:track:3hVNySmPHrzsrpwxL3j6vT
 features: []
-genres: []
+first_released_as_single: false
 key: that-s-what-i-m-looking-for-da-brat
 lyrics_url: https://genius.com/Da-brat-thats-what-im-looking-for-lyrics
 name: That's What I'm Looking For
@@ -79,6 +82,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2000-06-24'
+release_year: 2000
+runtime: 221533
 ---
 Hey JD, why you be saying oh, oh
 Is that like flossin' shit?

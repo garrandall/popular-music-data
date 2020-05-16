@@ -1,7 +1,8 @@
 ---
 artists:
-- Brook Benton With The Dixie Flyers
-features: []
+- Brook Benton
+features:
+- The Dixie Flyers
 genres: []
 key: shoes-brook-benton-with-the-dixie-flyers
 name: Shoes

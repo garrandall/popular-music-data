@@ -1,8 +1,11 @@
 ---
+album: Wild Mood Swings
 artists:
 - The Cure
+external_ids:
+  spotify: spotify:track:3OxKJOPa1AqFkZGBB2HUlW
 features: []
-genres: []
+first_released_as_single: false
 key: mint-car-the-cure
 lyrics_url: https://www.azlyrics.com/lyrics/cure/mintcar.html
 name: Mint Car
@@ -27,8 +30,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1996-08-17'
+release_year: 1996
+runtime: 209733
 ---
-
 The sun is up
 I'm so happy I could scream!
 And there's nowhere else in the world I'd rather be
@@ -73,6 +77,3 @@ Wondered if it ever would
 Really didn't think it could
 Do it all the time?
 I know that we should!
-
-
-

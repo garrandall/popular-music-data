@@ -1,8 +1,11 @@
 ---
+album: Barry Manilow I
 artists:
 - Barry Manilow
+external_ids:
+  spotify: spotify:track:6FDrn47S3Q4s9rhLHm4um0
 features: []
-genres: []
+first_released_as_single: false
 key: could-it-be-magic-barry-manilow
 lyrics_url: https://www.azlyrics.com/lyrics/barrymanilow/coulditbemagic.html
 name: Could It Be Magic
@@ -79,8 +82,9 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1975-10-25'
+release_year: 1973
+runtime: 409053
 ---
-
 Spirit move me
 Every time I"m near you
 Whirling like a cyclone in my mind
@@ -128,6 +132,3 @@ Let me know the wonder of all of you
 Baby I want you
 Now, now, oh now, now oh now and hold on fast
 Could this be the magic at last
-
-
-

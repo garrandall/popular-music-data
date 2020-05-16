@@ -1,8 +1,11 @@
 ---
+album: This Is Dean Martin
 artists:
 - Dean Martin
+external_ids:
+  spotify: spotify:track:5OkKOkdVTKFrYi6GWXkMzR
 features: []
-genres: []
+first_released_as_single: false
 key: volare--nel-blu-dipinto-di-blu--dean-martin
 lyrics_url: https://www.azlyrics.com/lyrics/deanmartin/volare.html
 name: Volare (Nel Blu Dipinto Di Blu)
@@ -59,8 +62,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1958-10-27'
+release_year: 1958
+runtime: 181626
 ---
-
 Volare, oh oh
 Cantare, oh oh oh oh
 Let's fly way up to the clouds
@@ -93,6 +97,3 @@ No wonder my happy heart sings
 Your love has given me wings
 Nel blu, dipinto di blu
 Felice di stare lassu
-
-
-

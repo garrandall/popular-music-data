@@ -1,8 +1,11 @@
 ---
+album: Alone With Dion
 artists:
 - Dion
+external_ids:
+  spotify: spotify:track:4nRGC5nt3QO7bqZBvCDXlm
 features: []
-genres: []
+first_released_as_single: false
 key: lonely-teenager-dion
 lyrics_url: https://www.azlyrics.com/lyrics/dionband/lonelyteenager.html
 name: Lonely Teenager
@@ -71,8 +74,9 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '1961-01-30'
+release_year: 1960
+runtime: 135093
 ---
-
 I wanna go home where I belong
 'Cause now I'm just a lonely teenager
 
@@ -98,6 +102,3 @@ If I stay out of sight
 
 I wanna go home where I belong
 'Cause now I'm just a lonely teenager, lonely teenager
-
-
-

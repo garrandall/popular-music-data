@@ -1,9 +1,12 @@
 ---
+album: Nick Jonas X2
 artists:
 - Sage The Gemini
+external_ids:
+  spotify: spotify:track:5k7KtLUFDlawcjyvo5NpnT
 features:
 - Nick Jonas
-genres: []
+first_released_as_single: false
 key: good-thing-sage-the-gemini-nick-jonas
 lyrics_url: https://www.azlyrics.com/lyrics/sagethegemini/goodthing.html
 name: Good Thing
@@ -40,8 +43,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2015-08-22'
+release_year: 2015
+runtime: 227120
 ---
-
 Yeah
 And they already know me S-A-G-E
 
@@ -118,6 +122,3 @@ We can make the good thing keep happening
 Good thing keep happening
 We can make the good thing keep happening
 Good thing keep happening
-
-
-

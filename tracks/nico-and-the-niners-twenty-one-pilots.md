@@ -1,8 +1,11 @@
 ---
+album: Trench
 artists:
 - twenty one pilots
+external_ids:
+  spotify: spotify:track:5SehvGGC53A7SZKCLXQcyt
 features: []
-genres: []
+first_released_as_single: false
 key: nico-and-the-niners-twenty-one-pilots
 lyrics_url: https://genius.com/Twenty-one-pilots-nico-and-the-niners-lyrics
 name: Nico And The Niners
@@ -15,6 +18,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2018-10-20'
+release_year: 2018
+runtime: 225040
 ---
 Msilaiv ecnuoned ew
 Tsae eurt daeh dna amed evael lliw uoy

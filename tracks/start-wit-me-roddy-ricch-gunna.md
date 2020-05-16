@@ -1,9 +1,12 @@
 ---
+album: Please Excuse Me For Being Antisocial
 artists:
 - Roddy Ricch
 - Gunna
+external_ids:
+  spotify: spotify:track:5ravc2aiNoYmu9m37diYXW
 features: []
-genres: []
+first_released_as_single: true
 key: start-wit-me-roddy-ricch-gunna
 lyrics_url: https://www.azlyrics.com/lyrics/roddyricch/startwitme.html
 name: Start Wit Me
@@ -60,8 +63,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2020-02-22'
+release_year: 2019
+runtime: 158691
 ---
-
 Oh Lord, Jetson made another one
 
 I been done ride through another nigga city
@@ -142,6 +146,3 @@ Plug in Colombia, my diamonds in Africa
 I'm like, "Fuck the DA"
 Groupies been fuckin' my DJ
 And shawty had an ass on her
-
-
-

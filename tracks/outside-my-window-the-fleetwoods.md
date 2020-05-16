@@ -1,8 +1,11 @@
 ---
+album: Come Softly To Me
 artists:
 - The Fleetwoods
+external_ids:
+  spotify: spotify:track:6uQlc0WC4jGIJhIKCIfHJo
 features: []
-genres: []
+first_released_as_single: false
 key: outside-my-window-the-fleetwoods
 lyrics_url: https://genius.com/The-fleetwoods-outside-my-window-lyrics
 name: Outside My Window
@@ -43,6 +46,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1960-04-11'
+release_year: 1960
+runtime: 128866
 ---
 Outside my window
 You're walking by with someone new (outside my window)

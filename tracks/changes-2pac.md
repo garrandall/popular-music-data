@@ -1,8 +1,11 @@
 ---
+album: Greatest Hits
 artists:
 - 2Pac
+external_ids:
+  spotify: spotify:track:1ofhfV90EnYhEr7Un2fWiv
 features: []
-genres: []
+first_released_as_single: false
 key: changes-2pac
 lyrics_url: https://genius.com/2pac-changes-lyrics
 name: Changes
@@ -83,6 +86,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1999-04-10'
+release_year: 1998
+runtime: 268826
 ---
 I see no changes, wake up in the morning and I ask myself
 Is life worth livin'? Should I blast myself?

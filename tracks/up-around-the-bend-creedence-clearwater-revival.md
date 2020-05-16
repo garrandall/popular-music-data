@@ -1,8 +1,11 @@
 ---
+album: Cosmo's Factory
 artists:
 - Creedence Clearwater Revival
+external_ids:
+  spotify: spotify:track:5U4lU4Hm1PxGUsLimQAYeG
 features: []
-genres: []
+first_released_as_single: false
 key: up-around-the-bend-creedence-clearwater-revival
 lyrics_url: https://www.azlyrics.com/lyrics/creedenceclearwaterrevival/uparoundthebend.html
 name: Up Around The Bend
@@ -51,8 +54,9 @@ rankings:
   rank: 26
   ranking_list: Billboard Hot 100
   start_date: '1970-07-04'
+release_year: 1969
+runtime: 159172
 ---
-
 There's a place up ahead and I'm goin' just as fast as my feet can fly
 Come away, come away if you're goin', leave the sinkin' ship behind.
 
@@ -80,6 +84,3 @@ There's a place up ahead and I'm goin', come along, come along with me.
 
 Yeah!
 Do do doo do...
-
-
-

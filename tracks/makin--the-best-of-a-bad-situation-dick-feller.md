@@ -1,8 +1,11 @@
 ---
+album: Centaur of Attention
 artists:
 - Dick Feller
+external_ids:
+  spotify: spotify:track:51ece5ZWM4OoNyi2BFoPZN
 features: []
-genres: []
+first_released_as_single: false
 key: makin--the-best-of-a-bad-situation-dick-feller
 lyrics_url: https://www.musixmatch.com/lyrics/Dick-Feller/Makin-the-Best-of-a-Bad-Situation
 name: Makin' The Best Of A Bad Situation
@@ -27,6 +30,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1974-08-24'
+release_year: 1974
+runtime: 170600
 ---
 Now, I know a man
 He's a hard workin' man

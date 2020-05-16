@@ -1,8 +1,11 @@
 ---
+album: At The Hop With The Sherrys
 artists:
 - The Sherrys
+external_ids:
+  spotify: spotify:track:2Q8V5YOVc9Wsb8GlNUhKuk
 features: []
-genres: []
+first_released_as_single: false
 key: pop-pop-pop---pie-the-sherrys
 lyrics_url: https://genius.com/The-sherrys-pop-pop-pop-pie-lyrics
 name: Pop Pop Pop - Pie
@@ -39,6 +42,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1962-11-24'
+release_year: 1962
+runtime: 134226
 ---
 Pop pop pop pie, here's the dance of the day! Hey!
 (Dance of the day! Hey!)

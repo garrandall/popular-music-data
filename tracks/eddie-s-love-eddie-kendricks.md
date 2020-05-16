@@ -1,8 +1,11 @@
 ---
+album: People... Hold On
 artists:
 - Eddie Kendricks
+external_ids:
+  spotify: spotify:track:1GnZ2BX4a6ob0TBSj8xHQO
 features: []
-genres: []
+first_released_as_single: false
 key: eddie-s-love-eddie-kendricks
 lyrics_url: https://genius.com/Eddie-kendricks-eddies-love-lyrics
 name: Eddie's Love
@@ -39,6 +42,8 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1972-07-29'
+release_year: 1972
+runtime: 209866
 ---
 Ah (Eddie's love) Eddie's love
 

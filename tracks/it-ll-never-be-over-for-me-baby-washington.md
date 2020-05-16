@@ -1,8 +1,11 @@
 ---
+album: Only Those In Love
 artists:
 - Baby Washington
+external_ids:
+  spotify: spotify:track:2Co8otif6KH0pIMwzNrIdf
 features: []
-genres: []
+first_released_as_single: false
 key: it-ll-never-be-over-for-me-baby-washington
 lyrics_url: https://genius.com/Baby-washington-itll-never-be-over-for-me-lyrics
 name: It'll Never Be Over For Me
@@ -15,6 +18,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1964-12-12'
+release_year: 1964
+runtime: 188066
 ---
 I know you've come
 To tell me that it's over

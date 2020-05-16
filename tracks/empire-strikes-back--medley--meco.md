@@ -1,8 +1,11 @@
 ---
+album: Star Wars Party
 artists:
 - Meco
+external_ids:
+  spotify: spotify:track:6ubZjtB8Ay68dwG3Z0EQ1g
 features: []
-genres: []
+first_released_as_single: false
 key: empire-strikes-back--medley--meco
 name: Empire Strikes Back (Medley)
 rankings:
@@ -62,5 +65,7 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1980-09-13'
+release_year: 1980
+runtime: 243533
 ---
 

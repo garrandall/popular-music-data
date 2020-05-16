@@ -1,8 +1,11 @@
 ---
+album: Mr. Smith
 artists:
 - LL Cool J
+external_ids:
+  spotify: spotify:track:4WMBl2wiGUSGa5C7tfQEAo
 features: []
-genres: []
+first_released_as_single: false
 key: doin-it-ll-cool-j
 lyrics_url: https://genius.com/Ll-cool-j-doin-it-lyrics
 name: Doin It
@@ -87,6 +90,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1996-07-20'
+release_year: 1995
+runtime: 293933
 ---
 Mmm yeah (mmm) check it out baby
 Make it hot... then we drop it

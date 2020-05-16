@@ -1,8 +1,11 @@
 ---
+album: The Essential Clyde McPhatter
 artists:
 - Clyde McPhatter
+external_ids:
+  spotify: spotify:track:1sQSRfGtfFsjWZSPk0ehtt
 features: []
-genres: []
+first_released_as_single: false
 key: you-went-back-on-your-word-clyde-mcphatter
 name: You Went Back On Your Word
 rankings:
@@ -18,5 +21,7 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1959-11-16'
+release_year: 1959
+runtime: 149066
 ---
 

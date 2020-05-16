@@ -1,8 +1,11 @@
 ---
+album: Hitsville USA - The Motown Singles Collection 1959-1971
 artists:
 - The Velvelettes
+external_ids:
+  spotify: spotify:track:3wZuAQtmYxxioD0LQfIM4G
 features: []
-genres: []
+first_released_as_single: false
 key: he-was-really-sayin--somethin--the-velvelettes
 lyrics_url: https://genius.com/The-velvelettes-he-was-really-sayin-somethin-lyrics
 name: He Was Really Sayin' Somethin'
@@ -31,6 +34,8 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '1965-03-06'
+release_year: 1965
+runtime: 152000
 ---
 There I was, I was walkin' down the street
 I just left a party you know girl

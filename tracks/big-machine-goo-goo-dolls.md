@@ -1,8 +1,11 @@
 ---
+album: Gutterflower
 artists:
 - Goo Goo Dolls
+external_ids:
+  spotify: spotify:track:4u0mNH2fqIoeeyGff3NLrx
 features: []
-genres: []
+first_released_as_single: false
 key: big-machine-goo-goo-dolls
 lyrics_url: https://www.azlyrics.com/lyrics/googoodolls/bigmachine.html
 name: Big Machine
@@ -31,8 +34,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '2002-10-12'
+release_year: 2002
+runtime: 189546
 ---
-
 Ecstasy is all you need
 Living in the big machine now
 Oh, you're so vain
@@ -84,6 +88,3 @@ God, it's good to be alive
 But I'm still here waitin' for you
 And I can't believe it's coming true
 I'm blind and waiting for you
-
-
-

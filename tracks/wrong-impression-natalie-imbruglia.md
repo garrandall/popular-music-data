@@ -1,8 +1,11 @@
 ---
+album: White Lilies Island
 artists:
 - Natalie Imbruglia
+external_ids:
+  spotify: spotify:track:1TZEQi5FfRDef6CcjxNIYB
 features: []
-genres: []
+first_released_as_single: false
 key: wrong-impression-natalie-imbruglia
 lyrics_url: https://www.azlyrics.com/lyrics/natalieimbruglia/wrongimpression.html
 name: Wrong Impression
@@ -39,8 +42,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2002-04-20'
+release_year: 2001
+runtime: 256000
 ---
-
 Calling out, calling out
 Haven't you wondered
 Why I'm always alone
@@ -92,6 +96,3 @@ Of love
 
 I need you
 I love you
-
-
-

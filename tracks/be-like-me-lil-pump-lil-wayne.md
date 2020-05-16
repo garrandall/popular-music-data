@@ -1,9 +1,12 @@
 ---
+album: Harverd Dropout
 artists:
 - Lil Pump
+external_ids:
+  spotify: spotify:track:3j74Rz7pfvxd621GXbYMJY
 features:
 - Lil Wayne
-genres: []
+first_released_as_single: true
 key: be-like-me-lil-pump-lil-wayne
 lyrics_url: https://genius.com/Genius-brasil-traducoes-lil-pump-and-lil-wayne-be-like-me-traducao-em-portugues-lyrics
 name: Be Like Me
@@ -12,6 +15,8 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '2019-03-09'
+release_year: 2019
+runtime: 240000
 ---
 Então você sabe
 Muitas pessoas tentam ser como eu, mas, você sabe

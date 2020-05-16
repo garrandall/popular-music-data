@@ -1,9 +1,12 @@
 ---
+album: Starboy
 artists:
 - The Weeknd
+external_ids:
+  spotify: spotify:track:4MBGysmc3qsFY3jYEgYfHe
 features:
 - Future
-genres: []
+first_released_as_single: false
 key: all-i-know-the-weeknd-future
 lyrics_url: https://www.azlyrics.com/lyrics/weeknd/alliknow.html
 name: All I Know
@@ -16,8 +19,9 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '2016-12-24'
+release_year: 2016
+runtime: 321026
 ---
-
 Oh, oh, oh, oh
 Ohohoohhoh
 Oh, oh, oh, oh
@@ -112,6 +116,3 @@ All I know, all I know, all I know, all I know
 All I know, all I know, All I know is this
 All I know, all I know, All I know is this
 Is this, is this
-
-
-

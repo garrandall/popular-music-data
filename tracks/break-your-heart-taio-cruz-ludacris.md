@@ -1,9 +1,12 @@
 ---
+album: Rokstarr
 artists:
 - Taio Cruz
+external_ids:
+  spotify: spotify:track:1CdqVF1ywD0ZO1zXtB9yWa
 features:
 - Ludacris
-genres: []
+first_released_as_single: false
 key: break-your-heart-taio-cruz-ludacris
 lyrics_url: https://genius.com/Taio-cruz-break-your-heart-remix-lyrics
 name: Break Your Heart
@@ -124,6 +127,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2010-09-25'
+release_year: 2010
+runtime: 186266
 ---
 Luda!
 Now I may not be the worst or the best but you gotta respect my honesty

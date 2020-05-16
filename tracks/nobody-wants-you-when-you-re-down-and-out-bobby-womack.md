@@ -1,8 +1,11 @@
 ---
+album: Facts Of Life
 artists:
 - Bobby Womack
+external_ids:
+  spotify: spotify:track:0eUxuKdGYUopPsN7Xvb1jA
 features: []
-genres: []
+first_released_as_single: false
 key: nobody-wants-you-when-you-re-down-and-out-bobby-womack
 lyrics_url: https://genius.com/Bobby-womack-nobody-wants-you-when-youre-down-and-out-lyrics
 name: Nobody Wants You When You're Down And Out
@@ -67,6 +70,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1973-09-22'
+release_year: 1973
+runtime: 179666
 ---
 Well, once I lived the life of a millionaire
 Spending my money, no, I didn't care

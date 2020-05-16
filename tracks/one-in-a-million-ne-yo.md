@@ -1,8 +1,11 @@
 ---
+album: Libra Scale
 artists:
 - Ne-Yo
+external_ids:
+  spotify: spotify:track:03ZtlmARAMWhAgZSIs6Fes
 features: []
-genres: []
+first_released_as_single: false
 key: one-in-a-million-ne-yo
 lyrics_url: https://genius.com/Ne-yo-one-in-a-million-lyrics
 name: One In A Million
@@ -35,6 +38,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2010-12-25'
+release_year: 2010
+runtime: 243226
 ---
 Jet setter, go getter
 Nothing better

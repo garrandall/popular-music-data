@@ -1,8 +1,11 @@
 ---
+album: Pearl
 artists:
 - Janis Joplin
+external_ids:
+  spotify: spotify:track:3dOfHE5J4Qsj1hJ35vnfn4
 features: []
-genres: []
+first_released_as_single: false
 key: get-it-while-you-can-janis-joplin
 lyrics_url: https://www.azlyrics.com/lyrics/janisjoplin/getitwhileyoucan.html
 name: Get It While You Can
@@ -15,8 +18,9 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1971-09-18'
+release_year: 1971
+runtime: 203400
 ---
-
 In this world, if you read the papers, Lord,
 You know everybody's fighting on with each other.
 You got no one you can count on, baby,
@@ -52,6 +56,3 @@ Get it, want it, need it, hold it,
 Get it while you can, yeah,
 Honey get it while you can, baby, yeah,
 Hey hey, get it while you can!
-
-
-

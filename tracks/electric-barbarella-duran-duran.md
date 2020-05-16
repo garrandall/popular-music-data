@@ -1,8 +1,11 @@
 ---
+album: Thanksgiving Live - The Ultra Chrome, Latex and Steel Tour
 artists:
 - Duran Duran
+external_ids:
+  spotify: spotify:track:1b07dcDUW7mBKuERDDvuD2
 features: []
-genres: []
+first_released_as_single: false
 key: electric-barbarella-duran-duran
 lyrics_url: https://www.azlyrics.com/lyrics/duranduran/electricbarbarella.html
 name: Electric Barbarella
@@ -43,8 +46,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1997-12-06'
+release_year: 1997
+runtime: 257200
 ---
-
 I knew when I first saw you on the showroom floor
 You were made for me
 I took you home and dressed you up in polyester
@@ -96,6 +100,3 @@ Major domo plasticomo Barbarella
 Pro-genetic you Electric Barbarella
 (She's all mine)
 My pretty pretty pretty pretty Barbarella
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Backspacer
 artists:
 - Pearl Jam
+external_ids:
+  spotify: spotify:track:4J9qfNgyYFAkUK8oIOohN1
 features: []
-genres: []
+first_released_as_single: false
 key: the-fixer-pearl-jam
 lyrics_url: https://genius.com/Pearl-jam-the-fixer-lyrics
 name: The Fixer
@@ -35,6 +38,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2009-10-24'
+release_year: 2009
+runtime: 177560
 ---
 When something's dark, let me shed a little light on it
 When something's cold, let me put a little fire on it

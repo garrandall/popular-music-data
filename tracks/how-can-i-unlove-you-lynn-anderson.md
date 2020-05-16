@@ -1,8 +1,11 @@
 ---
+album: How Can I Unlove You
 artists:
 - Lynn Anderson
+external_ids:
+  spotify: spotify:track:3KuZi8PN6hZEaCkxVh3XsH
 features: []
-genres: []
+first_released_as_single: false
 key: how-can-i-unlove-you-lynn-anderson
 lyrics_url: https://www.azlyrics.com/lyrics/lynnanderson/howcaniunloveyou.html
 name: How Can I Unlove You
@@ -35,8 +38,9 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '1971-10-02'
+release_year: 1966
+runtime: 167093
 ---
-
 How can I unsay the things I said to you
 How can I undo the things that we used to do
 Tell me how can I unfeel the way I feel for you how can I unlove you
@@ -50,6 +54,3 @@ How can I unsay the things I said to you
 And how can I undo the things that we used to do
 Tell me how can I unfeel the way I feel for you how can I unlove you
 ...
-
-
-

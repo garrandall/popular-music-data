@@ -1,8 +1,11 @@
 ---
+album: Cicero Park
 artists:
 - Hot Chocolate
+external_ids:
+  spotify: spotify:track:4IeyHnKDMvCIiUhGVKF0dh
 features: []
-genres: []
+first_released_as_single: false
 key: disco-queen-hot-chocolate
 lyrics_url: https://www.azlyrics.com/lyrics/hotchocolate/discoqueen.html
 name: Disco Queen
@@ -51,8 +54,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1975-08-09'
+release_year: 1974
+runtime: 215466
 ---
-
 Don't need no man to give her satisfaction
 All she needs is a guitar playin' high
 She don't need no sweet-talkin' man
@@ -89,6 +93,3 @@ Yeah, yeah music is her lover - disco queen, disco queen
 Music turns her on and on
 Music is her lover
 Music turns her on and on - disco queen, disco queen
-
-
-

@@ -1,9 +1,12 @@
 ---
+album: 'Mississippi: The Album'
 artists:
 - David Banner
+external_ids:
+  spotify: spotify:track:6y4CZBkZFkLc0ObxNYaOdL
 features:
 - Lil' Flip
-genres: []
+first_released_as_single: false
 key: like-a-pimp-david-banner-lil--flip
 lyrics_url: https://www.azlyrics.com/lyrics/davidbanner/likeapimp.html
 name: Like A Pimp
@@ -88,8 +91,9 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '2003-09-06'
+release_year: 2003
+runtime: 254506
 ---
-
 Real girls get down on the flo' on the flo'
 Like a Pimp
 Real girls get down on the flo' on the flo'
@@ -207,6 +211,3 @@ Get yo mother fucking money
 Get yo mother fucking money nigga
 Uh get your money money
 Money money
-
-
-

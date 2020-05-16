@@ -1,8 +1,11 @@
 ---
+album: Can't Shake This Feeling
 artists:
 - The Spinners
+external_ids:
+  spotify: spotify:track:3WgG3riF5NWh74A2VNzTvn
 features: []
-genres: []
+first_released_as_single: false
 key: never-thought-i-d-fall-in-love-the-spinners
 lyrics_url: https://genius.com/The-spinners-never-thought-id-fall-in-love-lyrics
 name: Never Thought I'd Fall In Love
@@ -15,6 +18,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1982-03-13'
+release_year: 1981
+runtime: 236426
 ---
 Never thought I'd fall in love
 'Till you came and took my heart

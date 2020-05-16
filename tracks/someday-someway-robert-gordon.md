@@ -1,8 +1,11 @@
 ---
+album: Are You Gonna Be the One (Bonus Tracks)
 artists:
 - Robert Gordon
+external_ids:
+  spotify: spotify:track:13cFAWqOn5a7sXy4QSoGVL
 features: []
-genres: []
+first_released_as_single: false
 key: someday-someway-robert-gordon
 lyrics_url: https://genius.com/Robert-gordon-someday-someway-lyrics
 name: Someday Someway
@@ -23,6 +26,8 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1981-07-18'
+release_year: 1981
+runtime: 145200
 ---
 I can't stand to see you sad
 I can't bear to hear you cry

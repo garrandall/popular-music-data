@@ -1,9 +1,12 @@
 ---
+album: Boys In The Trees
 artists:
 - Carly Simon
 - James Taylor
+external_ids:
+  spotify: spotify:track:6b7l3YWWWUcxJZVETEKBVc
 features: []
-genres: []
+first_released_as_single: false
 key: devoted-to-you-carly-simon-james-taylor
 lyrics_url: https://genius.com/Carly-simon-devoted-to-you-lyrics
 name: Devoted To You
@@ -44,6 +47,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1978-10-14'
+release_year: 1978
+runtime: 150040
 ---
 Darlin' you can count on me
 Till the sun dries up the sea

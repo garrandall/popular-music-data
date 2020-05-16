@@ -1,8 +1,11 @@
 ---
+album: Purpose
 artists:
 - Justin Bieber
+external_ids:
+  spotify: spotify:track:6gcA4zzG6FnMEgPSDKbAMs
 features: []
-genres: []
+first_released_as_single: false
 key: been-you-justin-bieber
 lyrics_url: https://genius.com/Justin-bieber-been-you-lyrics
 name: Been You
@@ -11,6 +14,8 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '2015-12-05'
+release_year: 2015
+runtime: 199226
 ---
 Feeling the reminisce
 Gone in an instance

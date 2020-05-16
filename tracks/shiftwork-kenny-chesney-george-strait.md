@@ -1,9 +1,12 @@
 ---
+album: 'Just Who I Am: Poets & Pirates'
 artists:
 - Kenny Chesney
 - George Strait
+external_ids:
+  spotify: spotify:track:1JtYfT7sJF3jojvLo1Vl7c
 features: []
-genres: []
+first_released_as_single: false
 key: shiftwork-kenny-chesney-george-strait
 lyrics_url: https://www.azlyrics.com/lyrics/kennychesney/shiftwork.html
 name: Shiftwork
@@ -72,8 +75,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2008-05-03'
+release_year: 2007
+runtime: 269506
 ---
-
 Shift work, hard work, tired body
 Blue-collar shirt and a baseball cap
 You knew me
@@ -122,6 +126,3 @@ Eleven to seven
 Work seven to three
 Three to eleven
 Eleven to seven
-
-
-

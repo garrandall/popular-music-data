@@ -1,8 +1,11 @@
 ---
+album: Wet
 artists:
 - Barbra Streisand
+external_ids:
+  spotify: spotify:track:4sXt4EiUMTpfa5GNUXU2hi
 features: []
-genres: []
+first_released_as_single: false
 key: kiss-me-in-the-rain-barbra-streisand
 lyrics_url: https://www.azlyrics.com/lyrics/barbrastreisand/kissmeintherain.html
 name: Kiss Me In The Rain
@@ -51,8 +54,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1980-03-22'
+release_year: 1979
+runtime: 260800
 ---
-
 I remember sitting on the front steps
 Feeling the softness of a warm summer rain
 I see the reflections of my mind
@@ -89,6 +93,3 @@ Come on kiss me in the rain
 Oh, won't you kiss me in the rain
 With the feeling that I get
 I don't even mind if I get wet
-
-
-

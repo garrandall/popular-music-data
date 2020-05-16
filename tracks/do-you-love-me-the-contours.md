@@ -1,8 +1,11 @@
 ---
+album: 'Sing 2: Eclectic Boogaloo'
 artists:
 - The Contours
+external_ids:
+  spotify: spotify:track:2al1iGnrxZTcY6eCBnAQHR
 features: []
-genres: []
+first_released_as_single: false
 key: do-you-love-me-the-contours
 lyrics_url: https://genius.com/The-contours-do-you-love-me-lyrics
 name: Do You Love Me
@@ -143,6 +146,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1988-09-17'
+release_year: 1962
+runtime: 172240
 ---
 You broke my heart
 Cause I couldn't dance

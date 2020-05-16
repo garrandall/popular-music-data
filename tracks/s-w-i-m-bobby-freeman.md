@@ -1,8 +1,11 @@
 ---
+album: Do You Wanna Dance
 artists:
 - Bobby Freeman
+external_ids:
+  spotify: spotify:track:4QVLwVgNxqTp73Gfg6pS56
 features: []
-genres: []
+first_released_as_single: false
 key: s-w-i-m-bobby-freeman
 lyrics_url: https://www.musixmatch.com/lyrics/Bobby-Freeman/S-W-I-M
 name: S-W-I-M
@@ -31,6 +34,8 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '1964-12-05'
+release_year: 1964
+runtime: 161826
 ---
 Come on, all you swimmers
 I'll show you the way

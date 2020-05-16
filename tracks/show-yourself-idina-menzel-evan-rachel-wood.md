@@ -1,9 +1,12 @@
 ---
+album: Frozen 2
 artists:
 - Idina Menzel
 - Evan Rachel Wood
+external_ids:
+  spotify: spotify:track:50WeOnXhM1H7AZEeIDoWfZ
 features: []
-genres: []
+first_released_as_single: false
 key: show-yourself-idina-menzel-evan-rachel-wood
 lyrics_url: https://www.azlyrics.com/lyrics/idinamenzel/showyourself.html
 name: Show Yourself
@@ -20,8 +23,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2019-12-21'
+release_year: 2019
+runtime: 260906
 ---
-
 Every inch of me is trembling
 But not from the cold
 Something is familiar
@@ -99,6 +103,3 @@ Ah ah ah ah
 Ah ah ah ah
 Ah ah ah ah
 Ah ah ah ah
-
-
-

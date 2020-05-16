@@ -1,8 +1,11 @@
 ---
+album: 80's Pop Heroes
 artists:
 - Chic
+external_ids:
+  spotify: spotify:track:0QF9u4OZhxte33Li1qjhcX
 features: []
-genres: []
+first_released_as_single: false
 key: soup-for-one-chic
 lyrics_url: https://www.azlyrics.com/lyrics/chic/soupforone.html
 name: Soup For One
@@ -31,8 +34,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1982-07-10'
+release_year: 1982
+runtime: 335871
 ---
-
 Soup for one
 When you're on the run
 When you're by yourself
@@ -67,6 +71,3 @@ Soup for one
 When the evening comes
 When you're all alone
 In your empty home
-
-
-

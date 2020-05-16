@@ -1,8 +1,11 @@
 ---
+album: '17'
 artists:
 - XXXTENTACION
+external_ids:
+  spotify: spotify:track:5SFTZsHW3HdCp9f1zbzitS
 features: []
-genres: []
+first_released_as_single: true
 key: revenge-xxxtentacion
 lyrics_url: https://www.azlyrics.com/lyrics/xxxtentacion/revenge566988.html
 name: Revenge
@@ -15,8 +18,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2017-09-23'
+release_year: 2017
+runtime: 120058
 ---
-
 I think I, I think I finally, found a way to forgive myself
 From mistakes I made in my past
 I think that's the first step, right?
@@ -50,6 +54,3 @@ I'll rot, I'll rot, I'll rot
 Is my pain your freedom?
 Is all of my pain your freedom?
 Enjoy...
-
-
-

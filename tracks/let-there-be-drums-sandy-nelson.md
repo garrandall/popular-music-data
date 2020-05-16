@@ -1,8 +1,11 @@
 ---
+album: Let There Be Drums
 artists:
 - Sandy Nelson
+external_ids:
+  spotify: spotify:track:0nf1kn9Nt1WeQyOinNadKz
 features: []
-genres: []
+first_released_as_single: false
 key: let-there-be-drums-sandy-nelson
 lyrics_url: https://genius.com/Sandy-nelson-let-there-be-drums-lyrics
 name: Let There Be Drums
@@ -71,5 +74,7 @@ rankings:
   rank: 52
   ranking_list: Billboard Hot 100
   start_date: '1962-02-17'
+release_year: 1961
+runtime: 138666
 ---
 (Instrumental)

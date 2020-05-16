@@ -1,8 +1,11 @@
 ---
+album: Hawaii Five-O
 artists:
 - The Ventures
+external_ids:
+  spotify: spotify:track:3UUwbJd2j4RORlalTUhaDk
 features: []
-genres: []
+first_released_as_single: false
 key: hawaii-five-o-the-ventures
 lyrics_url: https://genius.com/The-ventures-hawaii-five-o-radio-spot-lyrics
 name: Hawaii Five-O
@@ -63,13 +66,7 @@ rankings:
   rank: 32
   ranking_list: Billboard Hot 100
   start_date: '1969-06-07'
+release_year: 1969
+runtime: 113893
 ---
-This brand new album is called Hawaii Five-O
-Proving, once again, that the fabulous Ventures are definitely instrumental in your life
-The Ventures personally and proudly present, on the always together Liberty label
-A sky-rocketing spectrum of mass sound
-The Ventures
-Creating a universal instrumental institution
-And when they do a hit you know it's been done
-Hawaii Five-O
-Also available on 4-track, 8-track and cassette
+(instrumental)

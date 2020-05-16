@@ -1,8 +1,11 @@
 ---
+album: Synchronicity (Remastered 2003)
 artists:
 - The Police
+external_ids:
+  spotify: spotify:track:5ynO8cYFjDwELIZfFHHeYe
 features: []
-genres: []
+first_released_as_single: false
 key: synchronicity-ii-the-police
 lyrics_url: https://genius.com/The-police-synchronicity-ii-lyrics
 name: Synchronicity II
@@ -63,6 +66,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1984-02-04'
+release_year: 1983
+runtime: 300466
 ---
 Another suburban family morning
 Grandmother screaming at the wall

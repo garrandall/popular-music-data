@@ -1,8 +1,11 @@
 ---
+album: In The Zone
 artists:
 - Britney Spears
+external_ids:
+  spotify: spotify:track:0dRhSF9LV0HR8Jwd3MMMKJ
 features: []
-genres: []
+first_released_as_single: false
 key: everytime-britney-spears
 lyrics_url: https://www.musixmatch.com/lyrics/Britney-Spears/Everytime
 name: Everytime
@@ -79,6 +82,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2004-09-18'
+release_year: 2003
+runtime: 230306
 ---
 Notice me
 Take my hand

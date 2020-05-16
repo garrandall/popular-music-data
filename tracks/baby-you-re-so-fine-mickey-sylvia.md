@@ -1,9 +1,12 @@
 ---
+album: Great Rare Songs, Vol. 2
 artists:
 - Mickey
 - Sylvia
+external_ids:
+  spotify: spotify:track:419PaL8alIb8WVe2a8f2zQ
 features: []
-genres: []
+first_released_as_single: false
 key: baby-you-re-so-fine-mickey-sylvia
 lyrics_url: https://genius.com/Mickey-and-sylvia-baby-youre-so-fine-lyrics
 name: Baby You're So Fine
@@ -32,6 +35,8 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '1961-09-25'
+release_year: 1961
+runtime: 129000
 ---
 Hoo-wee, baby
 Baby you`re so fine

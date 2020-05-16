@@ -1,8 +1,11 @@
 ---
+album: Terry Knight And The Pack/Reflections
 artists:
 - Terry Knight and The Pack
+external_ids:
+  spotify: spotify:track:749S6pIVPtnCCq6mzufmUd
 features: []
-genres: []
+first_released_as_single: false
 key: i--who-have-nothing--terry-knight-and-the-pack
 lyrics_url: https://genius.com/Terry-knight-and-the-pack-i-who-have-nothing-lyrics
 name: I (Who Have Nothing)
@@ -47,6 +50,8 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '1967-01-14'
+release_year: 1966
+runtime: 202000
 ---
 You know everybody, no matter who they are
 And no matter how different they might be

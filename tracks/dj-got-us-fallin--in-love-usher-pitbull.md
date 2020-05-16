@@ -1,9 +1,12 @@
 ---
+album: Raymond v Raymond
 artists:
 - Usher
+external_ids:
+  spotify: spotify:track:4356Typ82hUiFAynbLYbPn
 features:
 - Pitbull
-genres: []
+first_released_as_single: false
 key: dj-got-us-fallin--in-love-usher-pitbull
 lyrics_url: https://genius.com/Usher-dj-got-us-fallin-in-love-lyrics
 name: DJ Got Us Fallin' In Love
@@ -144,6 +147,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '2011-03-19'
+release_year: 2010
+runtime: 220800
 ---
 Usher, Usher, Usher
 Yeah, man

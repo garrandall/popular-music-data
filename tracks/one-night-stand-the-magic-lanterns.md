@@ -1,8 +1,11 @@
 ---
+album: 'Magic Lanters, Shame Shame: The Complete Recordings'
 artists:
 - The Magic Lanterns
+external_ids:
+  spotify: spotify:track:41qxoOCmUubvnBsBkHyjXB
 features: []
-genres: []
+first_released_as_single: false
 key: one-night-stand-the-magic-lanterns
 lyrics_url: https://genius.com/Magic-lanterns-one-night-stand-lyrics
 name: One Night Stand
@@ -31,6 +34,8 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '1971-02-13'
+release_year: 1971
+runtime: 185222
 ---
 Listen to the rumors fly
 If is true what I hear

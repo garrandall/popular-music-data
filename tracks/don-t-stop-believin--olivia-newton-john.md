@@ -1,8 +1,11 @@
 ---
+album: Don't Stop Believin'
 artists:
 - Olivia Newton-John
+external_ids:
+  spotify: spotify:track:4nfUPgbMIXqD3YuIcUdA4i
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-stop-believin--olivia-newton-john
 lyrics_url: https://genius.com/Olivia-newton-john-dont-stop-believin-lyrics
 name: Don't Stop Believin'
@@ -43,6 +46,8 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1976-10-02'
+release_year: 1976
+runtime: 217226
 ---
 You think the world should see things your way
 Love, I know you, you think good fortune's here to stay

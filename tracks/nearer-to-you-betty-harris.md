@@ -1,8 +1,11 @@
 ---
+album: 'Betty Harris: The Lost Queen of New Orleans Soul'
 artists:
 - Betty Harris
+external_ids:
+  spotify: spotify:track:247LjOYYHS4qdiv9u1FOxH
 features: []
-genres: []
+first_released_as_single: false
 key: nearer-to-you-betty-harris
 lyrics_url: https://genius.com/Betty-harris-nearer-to-you-lyrics
 name: Nearer To You
@@ -23,6 +26,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1967-09-09'
+release_year: 1967
+runtime: 173336
 ---
 I made you think
 You don't understand

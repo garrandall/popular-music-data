@@ -1,8 +1,11 @@
 ---
+album: Worlds Away
 artists:
 - Pablo Cruise
+external_ids:
+  spotify: spotify:track:1bFnHX6AWY5yIlfk41Vg68
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-want-to-live-without-it-pablo-cruise
 lyrics_url: https://genius.com/Pablo-cruise-dont-want-to-live-without-it-lyrics
 name: Don't Want To Live Without It
@@ -71,6 +74,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1978-12-30'
+release_year: 1978
+runtime: 276666
 ---
 I remember how you caught my eye
 The first time you smiled at me

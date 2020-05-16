@@ -1,8 +1,11 @@
 ---
+album: Breakaway
 artists:
 - Kelly Clarkson
+external_ids:
+  spotify: spotify:track:3f3omU8n47Mqyab5nCaGyT
 features: []
-genres: []
+first_released_as_single: false
 key: because-of-you-kelly-clarkson
 lyrics_url: https://www.musixmatch.com/lyrics/Kelly-Clarkson/Because-of-You
 name: Because Of You
@@ -155,6 +158,8 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '2006-05-13'
+release_year: 2004
+runtime: 219493
 ---
 I will not make the same mistakes that you did
 I will not let myself cause my heart so much misery

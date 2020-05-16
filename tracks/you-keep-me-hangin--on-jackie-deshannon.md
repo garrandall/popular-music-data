@@ -1,8 +1,11 @@
 ---
+album: Put A Little Love In Your Heart
 artists:
 - Jackie DeShannon
+external_ids:
+  spotify: spotify:track:1frVTKhPae5iaZfjTbPPHd
 features: []
-genres: []
+first_released_as_single: false
 key: you-keep-me-hangin--on-jackie-deshannon
 lyrics_url: https://genius.com/Jackie-deshannon-you-keep-me-hangin-on-hurt-so-bad-medley-lyrics
 name: You Keep Me Hangin' On
@@ -11,6 +14,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1970-05-30'
+release_year: 1969
+runtime: 236853
 ---
 Set me free, why don't you, babe?
 Get out of my life, why don't you, babe?

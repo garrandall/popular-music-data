@@ -1,8 +1,11 @@
 ---
+album: Boy In The Box
 artists:
 - Corey Hart
+external_ids:
+  spotify: spotify:track:4XlXFUSN9HGw7xiJFeQW5v
 features: []
-genres: []
+first_released_as_single: false
 key: everything-in-my-heart-corey-hart
 lyrics_url: https://www.azlyrics.com/lyrics/coreyhart/everythinginmyheart.html
 name: Everything In My Heart
@@ -67,8 +70,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1986-03-08'
+release_year: 1985
+runtime: 293080
 ---
-
 I never see the light
 Still I follow you
 Couldn't imagine how
@@ -117,6 +121,3 @@ Even though, everything in my soul
 (I said) for you and I'll do it again
 
 Everything in my heart
-
-
-

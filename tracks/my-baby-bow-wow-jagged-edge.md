@@ -1,9 +1,12 @@
 ---
+album: Unleashed
 artists:
 - Bow Wow
+external_ids:
+  spotify: spotify:track:4S6iSQ7Wr8Ugj4PK1iexkt
 features:
 - Jagged Edge
-genres: []
+first_released_as_single: false
 key: my-baby-bow-wow-jagged-edge
 lyrics_url: https://www.azlyrics.com/lyrics/bowwow/mybaby.html
 name: My Baby
@@ -52,9 +55,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2004-02-14'
+release_year: 2003
+runtime: 303106
 ---
-
-
 It was the summer 2001
 All before the drama begun
 When we first met
@@ -143,4 +146,3 @@ But
 Instead, I keep on having these dreams
 Waiting for my phone to ring
 My baby wishing that it would be you But I know that won't come true
-

@@ -1,8 +1,11 @@
 ---
+album: In Heat
 artists:
 - Love Unlimited
+external_ids:
+  spotify: spotify:track:1o97JEm3gUX9Yd2S6IdTyd
 features: []
-genres: []
+first_released_as_single: false
 key: i-belong-to-you-love-unlimited
 lyrics_url: https://genius.com/Love-unlimited-i-belong-to-you-lyrics
 name: I Belong To You
@@ -67,6 +70,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1975-03-08'
+release_year: 1974
+runtime: 307560
 ---
 I belong to you
 For as long as you want me to

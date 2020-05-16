@@ -1,8 +1,11 @@
 ---
+album: Great Sax
 artists:
 - Sil Austin
+external_ids:
+  spotify: spotify:track:0mprL4ny8oxRoXyBLRJwvN
 features: []
-genres: []
+first_released_as_single: false
 key: danny-boy-sil-austin
 lyrics_url: https://www.musixmatch.com/lyrics/Sil-Austin/Danny-Boy
 name: Danny Boy
@@ -55,6 +58,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1959-08-17'
+release_year: 1959
+runtime: 171760
 ---
 Oh, Danny boy, the pipes, the pipes are calling
 From glen to glen, and down the mountain side.

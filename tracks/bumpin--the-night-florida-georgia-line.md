@@ -1,8 +1,11 @@
 ---
+album: Anything Goes
 artists:
 - Florida Georgia Line
+external_ids:
+  spotify: spotify:track:5ygp81TQpolYKghQjdYZpD
 features: []
-genres: []
+first_released_as_single: false
 key: bumpin--the-night-florida-georgia-line
 lyrics_url: https://www.azlyrics.com/lyrics/floridageorgialine/bumpinthenight.html
 name: Bumpin' The Night
@@ -11,8 +14,9 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '2014-10-18'
+release_year: 2014
+runtime: 221080
 ---
-
 The week was long
 But now it's gone,
 The drink is on
@@ -93,6 +97,3 @@ Two bottles of Bud
 Two speakers in the trunk
 Two people in love
 Just bumpin' the night
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: This Girl's in Love with You
 artists:
 - Aretha Franklin
+external_ids:
+  spotify: spotify:track:39lw4tu2jDKW5kf7HGyqmM
 features: []
-genres: []
+first_released_as_single: false
 key: the-weight-aretha-franklin
 lyrics_url: https://www.azlyrics.com/lyrics/arethafranklin/theweight.html
 name: The Weight
@@ -35,8 +38,9 @@ rankings:
   rank: 32
   ranking_list: Billboard Hot 100
   start_date: '1969-04-05'
+release_year: 1969
+runtime: 179826
 ---
-
 I pulled into Nazareth, I was feelin' about half past dead;
 I just need some place where I can lay my head.
 "Hey, mister, can you tell me where a girl might find a bed?"
@@ -68,6 +72,3 @@ Who sent me here with her regards for everyone?
 
 Take a load off Annie, take a load off for free;
 Take a load off Annie, And (and) (and) put the weight on me.
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Human
 artists:
 - Rag'n'Bone Man
+external_ids:
+  spotify: spotify:track:70fdF045x3n1ahv7MG6Z4H
 features: []
-genres: []
+first_released_as_single: true
 key: human-rag-n-bone-man
 lyrics_url: https://genius.com/Ragnbone-man-human-lyrics
 name: Human
@@ -35,6 +38,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2017-06-24'
+release_year: 2016
+runtime: 229773
 ---
 I'm only human
 I'm only, I'm only

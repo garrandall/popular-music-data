@@ -1,8 +1,11 @@
 ---
+album: By The Time I Get To Phoenix
 artists:
 - Glen Campbell
+external_ids:
+  spotify: spotify:track:4MMMt9WyMbCgcHknN6o9HC
 features: []
-genres: []
+first_released_as_single: false
 key: hey-little-one-glen-campbell
 lyrics_url: https://www.azlyrics.com/lyrics/glencampbell/heylittleone.html
 name: Hey Little One
@@ -35,14 +38,12 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '1968-03-02'
+release_year: 1967
+runtime: 152466
 ---
-
 Hey little one so far from home and so alone
 Hey little one I'm just like you I'm lonely too
 The road of life is a long long road when you walk alone
 Then I found you I found a love a love I've never known a love I've never known
 Hey hey hey hey little one don't go away tell me you'll stay
 Hey hey hey hey little one I'm just like you I'm so lonely too
-
-
-

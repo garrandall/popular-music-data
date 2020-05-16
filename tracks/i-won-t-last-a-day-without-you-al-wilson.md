@@ -1,8 +1,11 @@
 ---
+album: 'Show and Tell: The Best of Al Wilson'
 artists:
 - Al Wilson
+external_ids:
+  spotify: spotify:track:35UZMRJxRT9bIpRiGKkj59
 features: []
-genres: []
+first_released_as_single: false
 key: i-won-t-last-a-day-without-you-al-wilson
 lyrics_url: https://www.musixmatch.com/lyrics/Al-Wilson/I-Won-t-Last-a-Day-Without-You-Let-Me-Be-the-One
 name: I Won't Last A Day Without You
@@ -35,6 +38,8 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1975-02-22'
+release_year: 1973
+runtime: 352746
 ---
 Some sweet blessed night
 If you should find yourself alone

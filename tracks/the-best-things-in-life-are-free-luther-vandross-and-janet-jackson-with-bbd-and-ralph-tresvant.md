@@ -1,7 +1,10 @@
 ---
 artists:
-- Luther Vandross And Janet Jackson With BBD And Ralph Tresvant
-features: []
+- Luther Vandross
+- Janet Jackson
+features:
+- Bell Biv DeVoe
+- Ralph Tresvant
 genres: []
 key: the-best-things-in-life-are-free-luther-vandross-and-janet-jackson-with-bbd-and-ralph-tresvant
 name: The Best Things In Life Are Free

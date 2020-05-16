@@ -1,8 +1,11 @@
 ---
+album: Deliver The Word
 artists:
 - War
+external_ids:
+  spotify: spotify:track:0Zqe77qWdraPStbSINMXBE
 features: []
-genres: []
+first_released_as_single: false
 key: me-and-baby-brother-war
 lyrics_url: https://genius.com/War-me-and-baby-brother-lyrics
 name: Me And Baby Brother
@@ -67,6 +70,8 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '1974-02-16'
+release_year: 1973
+runtime: 212493
 ---
 Me and baby brother
 Used to run together

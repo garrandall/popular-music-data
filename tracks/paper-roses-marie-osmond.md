@@ -1,8 +1,11 @@
 ---
+album: The Best Of Marie Osmond
 artists:
 - Marie Osmond
+external_ids:
+  spotify: spotify:track:57vxnYTzK0lhURCrT4jDl2
 features: []
-genres: []
+first_released_as_single: false
 key: paper-roses-marie-osmond
 lyrics_url: https://www.azlyrics.com/lyrics/marieosmond/paperroses.html
 name: Paper Roses
@@ -71,8 +74,9 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1973-12-29'
+release_year: 1973
+runtime: 160906
 ---
-
 I realized the way your eyes deceived me
 With tender looks that I mistook for love
 So take away the flowers that you gave me
@@ -92,6 +96,3 @@ Paper roses, paper roses
 Oh, how real those roses seem to be
 But they're only imitation 
 Like your imitation love for me
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: When The Wrong One Loves You Right
 artists:
 - Wade Hayes
+external_ids:
+  spotify: spotify:track:5j6njwjrYgV7sCN8yKl1bF
 features: []
-genres: []
+first_released_as_single: false
 key: how-do-you-sleep-at-night-wade-hayes
 lyrics_url: https://genius.com/Wade-hayes-how-do-you-sleep-at-night-lyrics
 name: How Do You Sleep At Night
@@ -19,6 +22,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1998-12-19'
+release_year: 1998
+runtime: 205800
 ---
 I haven't had a good nights sleep in weeks thanks to you
 There goes to broken promises you made haunts every room

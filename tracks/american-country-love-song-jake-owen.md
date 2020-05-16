@@ -1,8 +1,11 @@
 ---
+album: American Love
 artists:
 - Jake Owen
+external_ids:
+  spotify: spotify:track:0O1x2tRm8ZpfDbcpOWZp7z
 features: []
-genres: []
+first_released_as_single: false
 key: american-country-love-song-jake-owen
 lyrics_url: https://genius.com/Jake-owen-american-country-love-song-lyrics
 name: American Country Love Song
@@ -75,6 +78,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2016-10-01'
+release_year: 2016
+runtime: 199746
 ---
 It's two tickets to a concert
 It's a Daytona airbrush T-shirt

@@ -1,8 +1,11 @@
 ---
+album: Sounds... And Stuff Like That!
 artists:
 - Quincy Jones
+external_ids:
+  spotify: spotify:track:7AMwuxdGAoynRxymC6Lwzj
 features: []
-genres: []
+first_released_as_single: false
 key: stuff-like-that-quincy-jones
 lyrics_url: https://www.azlyrics.com/lyrics/quincyjones/stufflikethat1995version.html
 name: Stuff Like That
@@ -71,8 +74,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1978-09-23'
+release_year: 1978
+runtime: 378173
 ---
-
 I walked in the joint
 They were lined up back to back
 Anything you can name, but it ain't no shame
@@ -149,6 +153,3 @@ Do it - do it (Stuff like that)
 Stuff like that
 Stuff like that
 What makes you feel like doin' stuff like that?
-
-
-

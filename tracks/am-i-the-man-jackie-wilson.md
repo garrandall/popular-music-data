@@ -1,8 +1,11 @@
 ---
+album: A Woman, A Lover, A Friend
 artists:
 - Jackie Wilson
+external_ids:
+  spotify: spotify:track:2tuJOOawgEpB7yJb0eqnDq
 features: []
-genres: []
+first_released_as_single: false
 key: am-i-the-man-jackie-wilson
 lyrics_url: https://www.azlyrics.com/lyrics/jackiewilson/amitheman.html
 name: Am I The Man
@@ -47,8 +50,9 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '1960-12-26'
+release_year: 1960
+runtime: 158493
 ---
-
 You ought a be a here a hundred times, now
 You ought a be a here to a treatin' my right
 You ought a be here to hold my hand
@@ -94,6 +98,3 @@ And baby tell me once again, a-huh-huh
 Am I the man (yes, you're the man)
 ...Yeah, come on tell me, baby
 I really need somebody Ellis, now I need somebody else...
-
-
-

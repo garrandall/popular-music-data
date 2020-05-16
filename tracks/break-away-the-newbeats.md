@@ -1,8 +1,11 @@
 ---
+album: "The Best of\u2026."
 artists:
 - The Newbeats
+external_ids:
+  spotify: spotify:track:7A321B4SBwbiPIVqO2E50m
 features: []
-genres: []
+first_released_as_single: false
 key: break-away-the-newbeats
 lyrics_url: https://genius.com/The-newbeats-break-away-lyrics
 name: Break Away
@@ -35,6 +38,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1965-03-06'
+release_year: 1965
+runtime: 152920
 ---
 Break away, break away
 Break away from that boy, he's not your kind

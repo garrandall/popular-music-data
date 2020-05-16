@@ -1,8 +1,11 @@
 ---
+album: The Best Of Laurie Records
 artists:
 - Dean And Jean
+external_ids:
+  spotify: spotify:track:10CQhAezi1GXuUotRAjXqB
 features: []
-genres: []
+first_released_as_single: false
 key: hey-jean-hey-dean-dean-and-jean
 lyrics_url: https://www.musixmatch.com/lyrics/Dean-And-Jean/Hey-Jean-Hey-Dean
 name: Hey Jean Hey Dean
@@ -39,6 +42,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1964-04-11'
+release_year: 1964
+runtime: 155826
 ---
 Well, it's Saturday night
 So let's have a party, hey, Jean

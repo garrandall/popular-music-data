@@ -1,8 +1,11 @@
 ---
+album: Do You Wanna Dance
 artists:
 - Bobby Freeman
+external_ids:
+  spotify: spotify:track:7LAMmINm2WrXyvFAD1iVnD
 features: []
-genres: []
+first_released_as_single: false
 key: c-mon-and-swim-bobby-freeman
 lyrics_url: https://genius.com/Bobby-freeman-cmon-and-swim-lyrics
 name: C'mon And Swim
@@ -55,6 +58,8 @@ rankings:
   rank: 36
   ranking_list: Billboard Hot 100
   start_date: '1964-09-26'
+release_year: 1964
+runtime: 187906
 ---
 C'mon everybody, c'mon in
 Bobby's gonna show you how to do the swim

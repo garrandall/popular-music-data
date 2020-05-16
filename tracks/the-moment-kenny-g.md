@@ -1,8 +1,11 @@
 ---
+album: The Essential Kenny G
 artists:
 - Kenny G
+external_ids:
+  spotify: spotify:track:1tihl5baIlJCgkjAqkAzQa
 features: []
-genres: []
+first_released_as_single: false
 key: the-moment-kenny-g
 lyrics_url: https://genius.com/Kenny-g-the-moment-lyrics
 name: The Moment
@@ -63,5 +66,7 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1997-02-15'
+release_year: 1986
+runtime: 360706
 ---
 Instrumental

@@ -1,8 +1,11 @@
 ---
+album: Flowing Rivers
 artists:
 - Andy Gibb
+external_ids:
+  spotify: spotify:track:5EdlwzcgIAYs2HGvOnczPN
 features: []
-genres: []
+first_released_as_single: false
 key: i-just-want-to-be-your-everything-andy-gibb
 lyrics_url: https://www.azlyrics.com/lyrics/andygibb/ijustwanttobeyoureverything.html
 name: I Just Want To Be Your Everything
@@ -131,8 +134,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1977-11-19'
+release_year: 1977
+runtime: 225666
 ---
-
 For so long
 You and me been finding each other for so long
 And the feeling that I feel for you is more than strong, girl
@@ -184,6 +188,3 @@ Oh, if I, if I stay here without you, darling, I will die
 I want you laying in the love I have to bring
 'Cause I'd do anything
 To be your everything
-
-
-

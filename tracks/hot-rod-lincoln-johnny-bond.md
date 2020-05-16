@@ -1,8 +1,11 @@
 ---
+album: Hits For The Road
 artists:
 - Johnny Bond
+external_ids:
+  spotify: spotify:track:3m54NIgBgycOGF5h6Ww1Ru
 features: []
-genres: []
+first_released_as_single: false
 key: hot-rod-lincoln-johnny-bond
 lyrics_url: https://genius.com/Johnny-bond-hot-rod-lincoln-lyrics
 name: Hot Rod Lincoln
@@ -47,6 +50,8 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '1960-10-10'
+release_year: 1960
+runtime: 153040
 ---
 My pappy said, "Son, you're gonna drive me to drinkin'
 If you don't stop drivin' that Hot Rod Lincoln"

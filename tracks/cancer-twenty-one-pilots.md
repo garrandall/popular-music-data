@@ -1,8 +1,11 @@
 ---
+album: Cancer
 artists:
 - twenty one pilots
+external_ids:
+  spotify: spotify:track:19W5OTEcQI3ZoRW1HERMyy
 features: []
-genres: []
+first_released_as_single: true
 key: cancer-twenty-one-pilots
 lyrics_url: https://www.azlyrics.com/lyrics/twentyonepilots/cancer.html
 name: Cancer
@@ -11,8 +14,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2016-10-08'
+release_year: 2016
+runtime: 236826
 ---
-
 Turn away
 If you could get me a drink
 Of water 'cause my lips are chapped and faded
@@ -70,6 +74,3 @@ Kiss you (kiss you)
 Lips are chapped and faded
 Call my (Call my)
 Lips are chapped and faded (faded)
-
-
-

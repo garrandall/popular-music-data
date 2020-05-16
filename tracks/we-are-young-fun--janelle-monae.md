@@ -1,9 +1,12 @@
 ---
+album: Some Nights
 artists:
 - fun.
+external_ids:
+  spotify: spotify:track:7a86XRg84qjasly9f6bPSD
 features:
 - Janelle Monae
-genres: []
+first_released_as_single: false
 key: we-are-young-fun--janelle-monae
 lyrics_url: https://www.azlyrics.com/lyrics/fun/weareyoung.html
 name: We Are Young
@@ -176,8 +179,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2012-10-20'
+release_year: 2011
+runtime: 250626
 ---
-
 Give me a second I
 I need to get my story straight
 My friends are in the bathroom getting higher than the Empire State
@@ -245,6 +249,3 @@ We can burn brighter than the sun
 So if by the time the bar closes
 And you feel like falling down
 I'll carry you home tonight
-
-
-

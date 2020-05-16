@@ -1,8 +1,11 @@
 ---
+album: 'Solid Gold: 20 Classics'
 artists:
 - Kenny Rogers
+external_ids:
+  spotify: spotify:track:5Pj5zrq2nbKcAekH1AxbrO
 features: []
-genres: []
+first_released_as_single: false
 key: lady-kenny-rogers
 lyrics_url: https://www.azlyrics.com/lyrics/kennyrogers/lady.html
 name: Lady
@@ -107,8 +110,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1981-03-21'
+release_year: 1980
+runtime: 231866
 ---
-
 Lady, I'm your knight in shining armor and I love you
 You have made me what I am and I am yours
 My love, there's so many ways I want to say I love you
@@ -133,6 +137,3 @@ Lady, your love's the only love I need
 And beside me is where I want you to be
 'Cause, my love, there's something I want you to know
 You're the love of my life, you're my lady
-
-
-

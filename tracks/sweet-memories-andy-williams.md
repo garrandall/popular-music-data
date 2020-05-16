@@ -1,8 +1,11 @@
 ---
+album: Raindrops Keep Fallin' On My Head
 artists:
 - Andy Williams
+external_ids:
+  spotify: spotify:track:3xE0A6yMS7SJDns9WjGs1s
 features: []
-genres: []
+first_released_as_single: false
 key: sweet-memories-andy-williams
 lyrics_url: https://genius.com/Andy-williams-sweet-memories-lyrics
 name: Sweet Memories
@@ -31,6 +34,8 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1968-07-13'
+release_year: 1968
+runtime: 183906
 ---
 My world is like a river, as dark as it is deep;
 Night after night the past slips in and gathers all my sleep

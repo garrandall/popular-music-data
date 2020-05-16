@@ -1,8 +1,11 @@
 ---
+album: Ace's Golden Age of American Hits Vol 1
 artists:
 - Deane Hawley
+external_ids:
+  spotify: spotify:track:12JcJfzNkD2IOsp0MazlNY
 features: []
-genres: []
+first_released_as_single: false
 key: look-for-a-star-deane-hawley
 lyrics_url: https://genius.com/Deane-hawley-look-for-a-star-lyrics
 name: Look For A Star
@@ -51,6 +54,8 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '1960-08-29'
+release_year: 1960
+runtime: 129186
 ---
 When life doesn't seem worth the living
 And you don't really care who you are

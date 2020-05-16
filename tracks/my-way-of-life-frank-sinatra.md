@@ -1,8 +1,11 @@
 ---
+album: Cycles
 artists:
 - Frank Sinatra
+external_ids:
+  spotify: spotify:track:0Sc8AsDTBeZFWg8K9tMARE
 features: []
-genres: []
+first_released_as_single: false
 key: my-way-of-life-frank-sinatra
 lyrics_url: https://genius.com/Frank-sinatra-my-way-of-life-lyrics
 name: My Way Of Life
@@ -31,6 +34,8 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1968-10-05'
+release_year: 1968
+runtime: 187360
 ---
 Gotta have you near all the time, with your dreams wrapped up in mine
 Gotta be a part of your soul and your heart all the time

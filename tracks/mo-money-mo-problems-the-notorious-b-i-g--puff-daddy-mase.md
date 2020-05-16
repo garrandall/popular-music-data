@@ -1,10 +1,13 @@
 ---
+album: Life After Death
 artists:
 - The Notorious B.I.G.
+external_ids:
+  spotify: spotify:track:4twB8kC49VFnvgCdCrOskb
 features:
 - Puff Daddy
 - Mase
-genres: []
+first_released_as_single: true
 key: mo-money-mo-problems-the-notorious-b-i-g--puff-daddy-mase
 lyrics_url: https://www.azlyrics.com/lyrics/notoriousbig/momoneymoproblems.html
 name: Mo Money Mo Problems
@@ -129,10 +132,9 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1998-02-21'
+release_year: 1997
+runtime: 252026
 ---
-
-
-
 Now, who's hot who not
 Tell me who rock who sell out in the stores
 You tell me who flopped who copped the blue drop
@@ -216,4 +218,3 @@ What's going on?
 I don't know what, they want from me
 It's like the more money we come across
 The more problems we see
-

@@ -1,9 +1,12 @@
 ---
+album: What A Time To Be Alive
 artists:
 - Drake
 - Future
+external_ids:
+  spotify: spotify:track:2AGottAzfC8bHzF7kEJ3Wa
 features: []
-genres: []
+first_released_as_single: false
 key: diamonds-dancing-drake-future
 lyrics_url: https://genius.com/Drake-and-future-diamonds-dancing-lyrics
 name: Diamonds Dancing
@@ -40,6 +43,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '2015-11-28'
+release_year: 2015
+runtime: 314631
 ---
 I'm at a stage in my life where I feel like I can conquer anything and everything
 (Diamond, diamond, diamond, diamonds on me dancing

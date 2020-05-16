@@ -1,8 +1,11 @@
 ---
+album: C.M.B.
 artists:
 - Color Me Badd
+external_ids:
+  spotify: spotify:track:03GzYByXsXHcoEAxjsWv9G
 features: []
-genres: []
+first_released_as_single: false
 key: slow-motion-color-me-badd
 lyrics_url: https://www.azlyrics.com/lyrics/colormebadd/slowmotion.html
 name: Slow Motion
@@ -87,8 +90,9 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1992-09-19'
+release_year: 1991
+runtime: 265666
 ---
-
 Oh sock it to me mamma
 
 
@@ -154,6 +158,3 @@ Forrrr you
 Allll night
 You're the 1 I'm thinking of
 Once I make it right
-
-
-

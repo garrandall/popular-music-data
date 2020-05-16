@@ -1,8 +1,11 @@
 ---
+album: In Between Dreams
 artists:
 - Jack Johnson
+external_ids:
+  spotify: spotify:track:5eWOsyHHic4vJP3LjTVhqv
 features: []
-genres: []
+first_released_as_single: false
 key: sitting-waiting-wishing-jack-johnson
 lyrics_url: https://www.azlyrics.com/lyrics/jackjohnson/sittingwaitingwishing.html
 name: Sitting Waiting Wishing
@@ -83,8 +86,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2005-07-09'
+release_year: 2005
+runtime: 183720
 ---
-
 Well I was sitting waiting wishing
 You believed in superstitions
 Then maybe you'd see the signs
@@ -129,6 +133,3 @@ Must I always be waiting waiting on you?
 Must I always be playing playing your fool?
 No I can't always be waiting waiting on you
 I can't always be playing playing your fool, fool
-
-
-

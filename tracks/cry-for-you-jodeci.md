@@ -1,8 +1,11 @@
 ---
+album: Diary Of A Mad Band
 artists:
 - Jodeci
+external_ids:
+  spotify: spotify:track:3RNvMhYFEwpCgPnDGKR5MB
 features: []
-genres: []
+first_released_as_single: false
 key: cry-for-you-jodeci
 lyrics_url: https://www.azlyrics.com/lyrics/jodeci/cryforyou.html
 name: Cry For You
@@ -87,8 +90,9 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1994-04-09'
+release_year: 1993
+runtime: 300906
 ---
-
 Without you baby
 I feel worthless
 I'm livin on the edge
@@ -163,6 +167,3 @@ I want you back baby
 Oh yeah
 Baby I'm beggin, baby I'm beggin, beggin baby x8
 Yeahhhhhhhhh
-
-
-

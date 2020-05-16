@@ -1,8 +1,11 @@
 ---
+album: Hotel California
 artists:
 - Eagles
+external_ids:
+  spotify: spotify:track:6Zyz8lsnMFpIrCTuvGurCB
 features: []
-genres: []
+first_released_as_single: false
 key: new-kid-in-town-eagles
 lyrics_url: https://www.azlyrics.com/lyrics/eagles/newkidintown.html
 name: New Kid In Town
@@ -67,8 +70,9 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '1977-03-26'
+release_year: 1976
+runtime: 304925
 ---
-
 There's talk on the street
 It sounds so familiar
 Great expectations, everybody's watching you
@@ -126,6 +130,3 @@ There's a new kid in town
 (People started walking)
 There's a new kid in town
 There's a new kid in town
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Building The Perfect Beast
 artists:
 - Don Henley
+external_ids:
+  spotify: spotify:track:4yCRCEAfCMRyqCpBSd0qDp
 features: []
-genres: []
+first_released_as_single: false
 key: all-she-wants-to-do-is-dance-don-henley
 lyrics_url: https://www.azlyrics.com/lyrics/donhenley/allshewantstodoisdance.html
 name: All She Wants to Do Is Dance
@@ -83,8 +86,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1985-06-29'
+release_year: 1984
+runtime: 269106
 ---
-
 They're pickin' up the prisoners and puttin' 'em in a pen
 And all she wants to do is dance, dance
 Rebels been rebels since I don't know when
@@ -129,6 +133,3 @@ All she wants to do is
 All she wants to do is dance
 All she wants to do is dance and make romance
 All she wants to do is dance
-
-
-

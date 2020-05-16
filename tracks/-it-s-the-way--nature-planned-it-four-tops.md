@@ -1,8 +1,11 @@
 ---
+album: Nature Planned It
 artists:
 - Four Tops
+external_ids:
+  spotify: spotify:track:77ofWAzg1VoiK0mek1pYC0
 features: []
-genres: []
+first_released_as_single: false
 key: -it-s-the-way--nature-planned-it-four-tops
 lyrics_url: https://www.azlyrics.com/lyrics/fourtops/itsthewaynatureplannedit.html
 name: (It's The Way) Nature Planned It
@@ -43,8 +46,9 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '1972-11-04'
+release_year: 1972
+runtime: 227386
 ---
-
 Baby, don't fight it
 I'm comin' baby
 
@@ -94,6 +98,3 @@ Why does it rain?
 It's the way, it's the way nature planned it
 Why do I feel this way?
 It's the way, it's the way nature planned it
-
-
-

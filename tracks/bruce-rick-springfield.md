@@ -1,8 +1,11 @@
 ---
+album: Beautiful Feelings
 artists:
 - Rick Springfield
+external_ids:
+  spotify: spotify:track:6AvKwKOC46N8GupphdSNiu
 features: []
-genres: []
+first_released_as_single: false
 key: bruce-rick-springfield
 lyrics_url: https://www.azlyrics.com/lyrics/rickspringfield/bruce.html
 name: Bruce
@@ -59,8 +62,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1985-02-09'
+release_year: 1984
+runtime: 216840
 ---
-
 Doctor, doctor you gotta help me yeah 
 You gotta make it right for me 
 It seems this other man's name has been following me around 
@@ -111,6 +115,3 @@ I can hear her calling Bruce, Bruce
 She called me Bruce, Bruce 
 I can hear her 
 My name is Ricky gonna stick it to you babe
-
-
-

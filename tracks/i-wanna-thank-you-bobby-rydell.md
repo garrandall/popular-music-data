@@ -1,8 +1,11 @@
 ---
+album: The Best Of Bobby Rydell
 artists:
 - Bobby Rydell
+external_ids:
+  spotify: spotify:track:79H73UE3CpqhIwxAJaTtiE
 features: []
-genres: []
+first_released_as_single: false
 key: i-wanna-thank-you-bobby-rydell
 lyrics_url: https://genius.com/Bobby-rydell-i-wanna-thank-you-lyrics
 name: I Wanna Thank You
@@ -43,6 +46,8 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '1961-12-11'
+release_year: 1961
+runtime: 145640
 ---
 Hah hah hah
 Hah hah hah

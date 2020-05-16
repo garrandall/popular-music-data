@@ -1,8 +1,11 @@
 ---
+album: Pluto
 artists:
 - Future
+external_ids:
+  spotify: spotify:track:4sX8e5VkqBWA7IIooImSsS
 features: []
-genres: []
+first_released_as_single: false
 key: neva-end-future
 lyrics_url: https://genius.com/Future-neva-end-lyrics
 name: Neva End
@@ -87,6 +90,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2013-05-04'
+release_year: 2012
+runtime: 262306
 ---
 We don’t wanna
 We don’t wanna

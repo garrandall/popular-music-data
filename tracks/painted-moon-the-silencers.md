@@ -1,8 +1,11 @@
 ---
+album: A Letter from St. Paul
 artists:
 - The Silencers
+external_ids:
+  spotify: spotify:track:2BOdEwU54cnQhWpAqMUQqg
 features: []
-genres: []
+first_released_as_single: false
 key: painted-moon-the-silencers
 lyrics_url: https://genius.com/The-silencers-painted-moon-lyrics
 name: Painted Moon
@@ -31,6 +34,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1987-09-12'
+release_year: 1987
+runtime: 365000
 ---
 Whoo-hoo...
 Whoo-hoo...

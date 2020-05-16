@@ -1,8 +1,11 @@
 ---
+album: Time, Love & Tenderness
 artists:
 - Michael Bolton
+external_ids:
+  spotify: spotify:track:2V5YBBGrZicNG5nLSTGzrY
 features: []
-genres: []
+first_released_as_single: false
 key: when-a-man-loves-a-woman-michael-bolton
 lyrics_url: https://www.azlyrics.com/lyrics/michaelbolton/whenamanlovesawoman.html
 name: When A Man Loves A Woman
@@ -87,8 +90,9 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '1992-02-22'
+release_year: 1987
+runtime: 231000
 ---
-
 When a man loves a woman
 Can't keep his mind on nothin' else
 He'd trade the world
@@ -124,6 +128,3 @@ I know exactly how he feels
 'Cause baby, baby, baby
 I am a man
 When a man loves a woman
-
-
-

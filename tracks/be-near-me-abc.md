@@ -1,8 +1,11 @@
 ---
+album: How To Be A Zillionaire
 artists:
 - ABC
+external_ids:
+  spotify: spotify:track:1l3fRzoUngJr6hSMIT1Hfq
 features: []
-genres: []
+first_released_as_single: false
 key: be-near-me-abc
 lyrics_url: https://genius.com/Abc-be-near-me-lyrics
 name: Be Near Me
@@ -95,6 +98,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1986-01-18'
+release_year: 1985
+runtime: 219826
 ---
 The message is perfectly simple
 The meaning is clear

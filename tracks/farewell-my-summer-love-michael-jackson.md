@@ -1,8 +1,11 @@
 ---
+album: Jackson 5 - Dell Bundle (100 Track Dell Bundle)
 artists:
 - Michael Jackson
+external_ids:
+  spotify: spotify:track:2OOM7hg35KaqYbDwTmbbk5
 features: []
-genres: []
+first_released_as_single: false
 key: farewell-my-summer-love-michael-jackson
 lyrics_url: https://www.azlyrics.com/lyrics/michaeljackson/farewellmysummerlove.html
 name: Farewell My Summer Love
@@ -55,8 +58,9 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1984-08-11'
+release_year: 1984
+runtime: 263986
 ---
-
 Farewell my summer love, farewell
 Girl I won't forget you,
 Farewell, my summer love, farewell, oh
@@ -121,6 +125,3 @@ Don't turn around
 You might see me cry
 Farewell, my summer love, farewell, oh, yeah
 Farewell, my summer love, farewell
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Love Me Again
 artists:
 - Rita Coolidge
+external_ids:
+  spotify: spotify:track:7vYpMAhNCvBFNWXTLQXgtN
 features: []
-genres: []
+first_released_as_single: false
 key: love-me-again-rita-coolidge
 lyrics_url: https://www.azlyrics.com/lyrics/ritacoolidge/lovemeagain.html
 name: Love Me Again
@@ -35,8 +38,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1978-12-16'
+release_year: 1978
+runtime: 217373
 ---
-
 I wanna say I love you
 I wanna say I care
 Even though you
@@ -76,6 +80,3 @@ Love me again
 
 Love me again
 Love me again
-
-
-

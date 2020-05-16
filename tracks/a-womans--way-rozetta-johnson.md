@@ -1,8 +1,11 @@
 ---
+album: Personal Woman
 artists:
 - Rozetta Johnson
+external_ids:
+  spotify: spotify:track:1Sz9tbkM2YIpzqE45ww0vR
 features: []
-genres: []
+first_released_as_single: false
 key: a-womans--way-rozetta-johnson
 lyrics_url: https://genius.com/Rozetta-johnson-a-womans-way-lyrics
 name: A Womans' Way
@@ -11,6 +14,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1970-12-12'
+release_year: 1970
+runtime: 214493
 ---
 A run around man
 A do you wrong man

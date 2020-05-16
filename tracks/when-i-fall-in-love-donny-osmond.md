@@ -1,8 +1,11 @@
 ---
+album: A Time For Us
 artists:
 - Donny Osmond
+external_ids:
+  spotify: spotify:track:4VmXYzYcXOLrFwLWW3cFVs
 features: []
-genres: []
+first_released_as_single: false
 key: when-i-fall-in-love-donny-osmond
 lyrics_url: https://genius.com/Donny-osmond-when-i-fall-in-love-lyrics
 name: When I Fall In Love
@@ -59,6 +62,8 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '1974-02-16'
+release_year: 1973
+runtime: 178160
 ---
 When I fall in love
 It will be forever

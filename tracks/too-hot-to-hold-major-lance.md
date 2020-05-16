@@ -1,8 +1,11 @@
 ---
+album: 'The Best Of Major Lance: Everybody Loves A Good Time!'
 artists:
 - Major Lance
+external_ids:
+  spotify: spotify:track:2ewZzmlA8JH6QsTvOdhFTR
 features: []
-genres: []
+first_released_as_single: false
 key: too-hot-to-hold-major-lance
 lyrics_url: https://genius.com/Major-lance-too-hot-to-hold-lyrics
 name: Too Hot To Hold
@@ -19,6 +22,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1965-09-11'
+release_year: 1965
+runtime: 160266
 ---
 Too hot to hold now, baby
 Too hot to hold, baby

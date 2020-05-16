@@ -1,8 +1,11 @@
 ---
+album: Michael Morales
 artists:
 - Michael Morales
+external_ids:
+  spotify: spotify:track:5RBdhB9q70XvaGK2ai2bNp
 features: []
-genres: []
+first_released_as_single: false
 key: what-i-like-about-you-michael-morales
 lyrics_url: https://genius.com/Michael-morales-what-i-like-about-you-lyrics
 name: What I Like About You
@@ -59,6 +62,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1989-11-04'
+release_year: 1989
+runtime: 184600
 ---
 What I like about you
 Romantics

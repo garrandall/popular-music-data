@@ -1,8 +1,11 @@
 ---
+album: Harmony
 artists:
 - Three Dog Night
+external_ids:
+  spotify: spotify:track:61OQuSzsom6geFCA18JwO6
 features: []
-genres: []
+first_released_as_single: false
 key: never-been-to-spain-three-dog-night
 lyrics_url: https://genius.com/Three-dog-night-never-been-to-spain-lyrics
 name: Never Been To Spain
@@ -55,6 +58,8 @@ rankings:
   rank: 26
   ranking_list: Billboard Hot 100
   start_date: '1972-03-11'
+release_year: 1971
+runtime: 226066
 ---
 Well, I've never been to Spain
 But I kinda like the music

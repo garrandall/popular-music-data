@@ -1,8 +1,11 @@
 ---
+album: Super Star
 artists:
 - Gene Pitney
+external_ids:
+  spotify: spotify:track:0It04LDUih6fnGVE2dcX2E
 features: []
-genres: []
+first_released_as_single: false
 key: she-lets-her-hair-down--early-in-the-morning--gene-pitney
 lyrics_url: https://genius.com/Gene-pitney-she-lets-her-hair-down-lyrics
 name: She Lets Her Hair Down (Early In The Morning)
@@ -27,6 +30,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1970-01-24'
+release_year: 1969
+runtime: 163986
 ---
 She walks barefoot through the meadow early in the mornin'
 Early in the mornin' every day

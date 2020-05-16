@@ -1,8 +1,11 @@
 ---
+album: Hipster '60s Rarities & Obscurities
 artists:
 - The Novas
+external_ids:
+  spotify: spotify:track:0hRECUb42yXfkSOS9Un1qf
 features: []
-genres: []
+first_released_as_single: false
 key: the-crusher-the-novas
 lyrics_url: https://genius.com/The-novas-the-crusher-lyrics
 name: The Crusher
@@ -19,6 +22,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1965-01-23'
+release_year: 1965
+runtime: 118520
 ---
 Heeey
 Do the hammer lock

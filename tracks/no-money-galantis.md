@@ -1,8 +1,11 @@
 ---
+album: The Aviary
 artists:
 - Galantis
+external_ids:
+  spotify: spotify:track:0gb1J5UrTpzaU1s3nupgCd
 features: []
-genres: []
+first_released_as_single: true
 key: no-money-galantis
 lyrics_url: https://www.azlyrics.com/lyrics/galantis/nomoney.html
 name: No Money
@@ -27,8 +30,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2016-09-03'
+release_year: 2016
+runtime: 189126
 ---
-
 Sorry I ain't got no money I'm not trying to be funny but I left it all at home today
 You can call me what you wanna I ain't giving you a dollar this time I ain't gonna run away
 You might knock me down, you might knock me down, but I will get back up again
@@ -53,6 +57,3 @@ This time I ain't gonna run, run, run, run
 Not this time, not this time
 Not this time, not this time
 Not this time
-
-
-

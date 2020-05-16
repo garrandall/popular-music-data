@@ -1,8 +1,11 @@
 ---
+album: No Code
 artists:
 - Pearl Jam
+external_ids:
+  spotify: spotify:track:2Avh5LgyS4UCeYbzmgiSg9
 features: []
-genres: []
+first_released_as_single: false
 key: who-you-are-pearl-jam
 lyrics_url: https://genius.com/Pearl-jam-who-you-are-lyrics
 name: Who You Are
@@ -43,6 +46,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1996-10-12'
+release_year: 1996
+runtime: 230133
 ---
 Come to send. Not condescend
 Transcendent to consequences

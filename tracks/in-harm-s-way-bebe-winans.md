@@ -1,8 +1,11 @@
 ---
+album: Bebe Winans
 artists:
 - BeBe Winans
+external_ids:
+  spotify: spotify:track:0tXSYsBNLm04TyMH6LrtcU
 features: []
-genres: []
+first_released_as_single: false
 key: in-harm-s-way-bebe-winans
 lyrics_url: https://www.azlyrics.com/lyrics/bebewinans/inharmsway.html
 name: In Harm's Way
@@ -55,8 +58,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1998-02-07'
+release_year: 1997
+runtime: 320063
 ---
-
 Undying love you've given to me
 Seen in me things I would never have seen
 I don't understand why you care so much, it's all a mystery
@@ -90,4 +94,3 @@ It seems to be so easy
 It hurts sometimes but you never let go
 You will to love in spite of all you know
 You know, you know
-

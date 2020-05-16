@@ -1,8 +1,11 @@
 ---
+album: Pebbles
 artists:
 - Pebbles
+external_ids:
+  spotify: spotify:track:1ci5FGk5faD2gWyYl995yw
 features: []
-genres: []
+first_released_as_single: false
 key: mercedes-boy-pebbles
 lyrics_url: https://www.azlyrics.com/lyrics/pebbles/mercedesboy.html
 name: Mercedes Boy
@@ -79,8 +82,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1988-09-03'
+release_year: 1987
+runtime: 295893
 ---
-
 Do you wanna ride?
 Baby
 Let me tell you
@@ -149,6 +153,3 @@ Tell me what you're gonna do with me
 Boy
 
 There are so many things that I'm gonna do to you
-
-
-

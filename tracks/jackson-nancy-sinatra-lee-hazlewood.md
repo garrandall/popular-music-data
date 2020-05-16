@@ -1,9 +1,12 @@
 ---
+album: Nancy & Lee
 artists:
 - Nancy Sinatra
 - Lee Hazlewood
+external_ids:
+  spotify: spotify:track:3kf3t1i8fwaeqg3V25RNjc
 features: []
-genres: []
+first_released_as_single: false
 key: jackson-nancy-sinatra-lee-hazlewood
 lyrics_url: https://genius.com/Nancy-sinatra-and-lee-hazlewood-jackson-lyrics
 name: Jackson
@@ -44,6 +47,8 @@ rankings:
   rank: 36
   ranking_list: Billboard Hot 100
   start_date: '1967-08-19'
+release_year: 1967
+runtime: 169013
 ---
 We got married in a fever
 Hotter than a pepper sprout

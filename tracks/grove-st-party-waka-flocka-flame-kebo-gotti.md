@@ -1,9 +1,12 @@
 ---
+album: Flockaveli
 artists:
 - Waka Flocka Flame
+external_ids:
+  spotify: spotify:track:2e9EZ2V5QGGZPMJacO3y0Y
 features:
 - Kebo Gotti
-genres: []
+first_released_as_single: false
 key: grove-st-party-waka-flocka-flame-kebo-gotti
 lyrics_url: https://www.azlyrics.com/lyrics/wakaflockaflame/grovestparty.html
 name: Grove St Party
@@ -44,9 +47,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2011-05-28'
+release_year: 2010
+runtime: 250493
 ---
-
-
 Grovvvvvve Grovvvvve Streeeeettttt...FLOCKA!
 
 
@@ -136,6 +139,3 @@ My partner on a pill, my other partner drunk, rollin a lot I'm trying to get fuc
 
 It's a party It's a party It's a party
 It's a party It's a party It's a party
-
-
-

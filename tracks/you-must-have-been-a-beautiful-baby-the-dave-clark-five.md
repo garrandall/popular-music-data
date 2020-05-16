@@ -1,8 +1,11 @@
 ---
+album: Everybody Knows
 artists:
 - The Dave Clark Five
+external_ids:
+  spotify: spotify:track:57KyBPfnROUOMBvyQQwnei
 features: []
-genres: []
+first_released_as_single: false
 key: you-must-have-been-a-beautiful-baby-the-dave-clark-five
 lyrics_url: https://genius.com/The-dave-clark-five-you-must-have-been-a-beautiful-baby-lyrics
 name: You Must Have Been A Beautiful Baby
@@ -31,6 +34,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1967-07-15'
+release_year: 1967
+runtime: 137906
 ---
 You must have been a
 Beautiful baby, yeah, yeah

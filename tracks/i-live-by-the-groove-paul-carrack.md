@@ -1,8 +1,11 @@
 ---
+album: Groove Approved
 artists:
 - Paul Carrack
+external_ids:
+  spotify: spotify:track:77LVgYgRJU8LVDcC87otHv
 features: []
-genres: []
+first_released_as_single: false
 key: i-live-by-the-groove-paul-carrack
 lyrics_url: https://www.azlyrics.com/lyrics/paulcarrack/ilivebythegroove.html
 name: I Live By The Groove
@@ -59,8 +62,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1990-01-20'
+release_year: 1989
+runtime: 252373
 ---
-
 Hey 
 
 Everybody loves to feel the beat 
@@ -152,6 +156,3 @@ I live by the groove
 
 If I can't feel it, baby 
 I can't move...
-
-
-

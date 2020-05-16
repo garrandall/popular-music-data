@@ -1,8 +1,11 @@
 ---
+album: Down To Earth
 artists:
 - The Undisputed Truth
+external_ids:
+  spotify: spotify:track:2IiDmAzpj7SU0flm2eBH5D
 features: []
-genres: []
+first_released_as_single: false
 key: help-yourself-the-undisputed-truth
 lyrics_url: https://www.musixmatch.com/lyrics/The-Undisputed-Truth/Help-Yourself
 name: Help Yourself
@@ -35,6 +38,8 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1974-06-08'
+release_year: 1974
+runtime: 199533
 ---
 Ah, I just want to let you people know, yeah
 True love is hard to find and that's yourself

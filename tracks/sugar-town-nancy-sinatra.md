@@ -1,8 +1,11 @@
 ---
+album: Sugar
 artists:
 - Nancy Sinatra
+external_ids:
+  spotify: spotify:track:0AWN35e76cvPxAUms8SojX
 features: []
-genres: []
+first_released_as_single: false
 key: sugar-town-nancy-sinatra
 lyrics_url: https://www.azlyrics.com/lyrics/nancysinatra/sugartown.html
 name: Sugar Town
@@ -59,8 +62,9 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1967-02-11'
+release_year: 1966
+runtime: 146468
 ---
-
 I got some troubles but they won't last
 I'm gonna lay right down here in the grass
 And pretty soon all my troubles will pass
@@ -90,6 +94,3 @@ Shu shu shu,
 shu shu shu shu shu shu Sugar Town.
 
 La la la
-
-
-

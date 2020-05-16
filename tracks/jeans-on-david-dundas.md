@@ -1,8 +1,11 @@
 ---
+album: David Dundas
 artists:
 - David Dundas
+external_ids:
+  spotify: spotify:track:0uN4g8yIAUpbyjcLhn79t7
 features: []
-genres: []
+first_released_as_single: false
 key: jeans-on-david-dundas
 lyrics_url: https://genius.com/David-dundas-jeans-on-lyrics
 name: Jeans On
@@ -91,6 +94,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1977-02-26'
+release_year: 1976
+runtime: 199933
 ---
 When I wake up in the morning light
 I pull on my jeans and I feel all right

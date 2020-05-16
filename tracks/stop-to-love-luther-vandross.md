@@ -1,8 +1,11 @@
 ---
+album: Give Me The Reason
 artists:
 - Luther Vandross
+external_ids:
+  spotify: spotify:track:0M78T1W2eL8DsLgCufoGzM
 features: []
-genres: []
+first_released_as_single: false
 key: stop-to-love-luther-vandross
 lyrics_url: https://genius.com/Luther-vandross-stop-to-love-lyrics
 name: Stop To Love
@@ -83,6 +86,8 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '1987-03-21'
+release_year: 1986
+runtime: 310266
 ---
 Lately love keeps keeping me wake at night
 Tossing and turning, my love

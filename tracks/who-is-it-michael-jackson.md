@@ -1,8 +1,11 @@
 ---
+album: Dangerous
 artists:
 - Michael Jackson
+external_ids:
+  spotify: spotify:track:4HWcWgleTuUAWnVPNwW4CM
 features: []
-genres: []
+first_released_as_single: false
 key: who-is-it-michael-jackson
 lyrics_url: https://genius.com/Michael-jackson-who-is-it-lyrics
 name: Who Is It
@@ -79,6 +82,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1993-08-07'
+release_year: 1991
+runtime: 393306
 ---
 I gave her money
 I gave her time

@@ -1,8 +1,11 @@
 ---
+album: The Long Road
 artists:
 - Nickelback
+external_ids:
+  spotify: spotify:track:4i2WUspbfNZCnhkypoFKrM
 features: []
-genres: []
+first_released_as_single: false
 key: feelin--way-too-damn-good-nickelback
 lyrics_url: https://www.azlyrics.com/lyrics/nickelback/feelinwaytoodamngood.html
 name: Feelin' Way Too Damn Good
@@ -71,8 +74,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2004-10-16'
+release_year: 2003
+runtime: 256453
 ---
-
 I missed you so much
 That I begged you to fly and see me
 You must've broke down
@@ -139,6 +143,3 @@ That I begged you to fly and see me)
 Feelin' way too damn good
 (I missed you so much
 That I begged you to fly and see me)
-
-
-

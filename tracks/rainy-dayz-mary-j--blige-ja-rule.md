@@ -1,9 +1,12 @@
 ---
+album: No More Drama
 artists:
 - Mary J. Blige
+external_ids:
+  spotify: spotify:track:1F1XjwRzMh8KT2BvH6ISkG
 features:
 - Ja Rule
-genres: []
+first_released_as_single: false
 key: rainy-dayz-mary-j--blige-ja-rule
 lyrics_url: https://www.azlyrics.com/lyrics/maryjblige/rainydayz.html
 name: Rainy Dayz
@@ -88,9 +91,9 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '2002-08-10'
+release_year: 2001
+runtime: 276360
 ---
-
-
 Heh yeah
 Rule baby, heh
 Mary J. Blige
@@ -226,6 +229,3 @@ Know in your heart, that we are free
 Free to believe, whatever we feel
 So feel somethin real, baby
 Hey-ey
-
-
-

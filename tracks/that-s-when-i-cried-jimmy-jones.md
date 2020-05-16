@@ -1,8 +1,11 @@
 ---
+album: Essential Masters
 artists:
 - Jimmy Jones
+external_ids:
+  spotify: spotify:track:5TtA086ipFri7rhkLD5IV3
 features: []
-genres: []
+first_released_as_single: false
 key: that-s-when-i-cried-jimmy-jones
 lyrics_url: https://www.musixmatch.com/lyrics/Jimmy-Jones/That-s-When-I-Cried
 name: That's When I Cried
@@ -27,6 +30,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1960-08-08'
+release_year: 1960
+runtime: 164240
 ---
 I was passing by the churchhouse
 Just like I always do

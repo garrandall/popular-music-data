@@ -1,8 +1,11 @@
 ---
+album: The Way We Were
 artists:
 - Barbra Streisand
+external_ids:
+  spotify: spotify:track:1WbqjbkL9esFQOiMKxRHQm
 features: []
-genres: []
+first_released_as_single: false
 key: all-in-love-is-fair-barbra-streisand
 lyrics_url: https://www.azlyrics.com/lyrics/barbrastreisand/allinloveisfair.html
 name: All In Love Is Fair
@@ -27,8 +30,9 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1974-04-27'
+release_year: 1972
+runtime: 229906
 ---
-
 All is fair in love,
 Love's a crazy game
 Two people vow to stay
@@ -54,6 +58,3 @@ A writer takes his pen to write the words again
 That all in love is fair
 A writer takes his pen to write the words again...
 That all in love is fair...
-
-
-

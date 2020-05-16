@@ -1,8 +1,11 @@
 ---
+album: Desolation Boulevard
 artists:
 - Sweet
+external_ids:
+  spotify: spotify:track:3Pu3IChaAoa5EjgUBv5F6x
 features: []
-genres: []
+first_released_as_single: false
 key: ballroom-blitz-sweet
 lyrics_url: https://genius.com/Sweet-ballroom-blitz-lyrics
 name: Ballroom Blitz
@@ -107,6 +110,8 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1975-11-29'
+release_year: 1974
+runtime: 246573
 ---
 Are you ready Steve?
 "Uh huh"

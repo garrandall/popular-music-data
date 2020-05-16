@@ -1,8 +1,11 @@
 ---
+album: Wanna Make Love
 artists:
 - Sun
+external_ids:
+  spotify: spotify:track:4BKGhFzEF2EmnmOXJZsM3t
 features: []
-genres: []
+first_released_as_single: false
 key: wanna-make-love--come-flick-my-bic--sun
 name: Wanna Make Love (Come Flick My BIC)
 rankings:
@@ -30,5 +33,7 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1976-10-30'
+release_year: 1976
+runtime: 210466
 ---
 

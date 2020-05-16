@@ -1,9 +1,12 @@
 ---
+album: Hello Friday
 artists:
 - Flo Rida
+external_ids:
+  spotify: spotify:track:2UIRHeHi72VP5WBMAfkPe5
 features:
 - Jason Derulo
-genres: []
+first_released_as_single: true
 key: hello-friday-flo-rida-jason-derulo
 lyrics_url: https://www.azlyrics.com/lyrics/florida/hellofriday.html
 name: Hello Friday
@@ -12,9 +15,9 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '2016-03-19'
+release_year: 2016
+runtime: 201237
 ---
-
-
 Hello, Friday, I've been waiting for you for a long time
 You just save me when my life came tumbling down
 And I know you're gonna leave me
@@ -90,6 +93,3 @@ Hello, Friday, I've been waiting for you for a long time
 You just save me when my life came tumbling down
 And I know you're gonna leave me
 Hello, Friday, I've been waiting for you for a long time
-
-
-

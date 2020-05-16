@@ -1,10 +1,13 @@
 ---
+album: Bezerk
 artists:
 - Big Sean
+external_ids:
+  spotify: spotify:track:2B9wgj9XzbJZLty03PRbVo
 features:
 - A$AP Ferg
 - Hit-Boy
-genres: []
+first_released_as_single: true
 key: bezerk-big-sean-a-ap-ferg-hit-boy
 lyrics_url: https://www.azlyrics.com/lyrics/bigsean/bezerk.html
 name: Bezerk
@@ -13,9 +16,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2019-09-14'
+release_year: 2019
+runtime: 151066
 ---
-
-
 Yeah, yeah (Hit-Boy)
 , yeah, yeah
 Sean, what up nigga? (Sean, what up nigga?)
@@ -76,6 +79,3 @@ Shake that booty, I know it's little but unique (So unique)
 Yeah (Yeah), yeah (Yeah)
 Me and A$AP Ferg preaching back to back on the verse
 Hit-Boy on the beat so, bitch, you gotta go berserk
-
-
-

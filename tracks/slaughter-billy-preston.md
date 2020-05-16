@@ -1,8 +1,11 @@
 ---
+album: 'Ultimate Collection: Billy Preston'
 artists:
 - Billy Preston
+external_ids:
+  spotify: spotify:track:5UM8o0YPE4o168xZ3l5Upp
 features: []
-genres: []
+first_released_as_single: false
 key: slaughter-billy-preston
 lyrics_url: https://www.azlyrics.com/lyrics/billypreston/slaughter.html
 name: Slaughter
@@ -39,8 +42,9 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '1972-10-28'
+release_year: 1972
+runtime: 165533
 ---
-
 Slaughter's going to blow your mind
 Slaughter does not waste his time
 My advice to you is this
@@ -66,6 +70,3 @@ Slaughter
 
 Yeah, Slaughter
 Yeah, Slaughter
-
-
-

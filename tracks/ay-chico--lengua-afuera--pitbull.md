@@ -1,8 +1,11 @@
 ---
+album: El Mariel
 artists:
 - Pitbull
+external_ids:
+  spotify: spotify:track:3b2Dm0jdnbiD29SLROeLkU
 features: []
-genres: []
+first_released_as_single: false
 key: ay-chico--lengua-afuera--pitbull
 lyrics_url: https://genius.com/Pitbull-ay-chico-lyrics
 name: Ay Chico (Lengua Afuera)
@@ -31,6 +34,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2007-01-27'
+release_year: 2006
+runtime: 205600
 ---
 Bend over girl show me what you're working with
 Bend over girl show me what you're working with

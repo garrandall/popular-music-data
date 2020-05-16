@@ -1,8 +1,11 @@
 ---
+album: Dreams, Dreams, Dreams
 artists:
 - Chilliwack
+external_ids:
+  spotify: spotify:track:7M0Q9ZGZdEQn0AHomogllv
 features: []
-genres: []
+first_released_as_single: false
 key: fly-at-night-chilliwack
 lyrics_url: https://www.azlyrics.com/lyrics/chilliwack/flyatnight.html
 name: Fly At Night
@@ -31,8 +34,9 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1977-06-04'
+release_year: 1976
+runtime: 293970
 ---
-
 Four men in a rock 'n' roll band
 Fly at night, in the morning we land
 Fly at night till we're satisfied
@@ -73,6 +77,3 @@ Four men in a rock 'n' roll band
 Fly at night, in the morning we land
 Fly at night till we're satisfied
 See the morning from the other side
-
-
-

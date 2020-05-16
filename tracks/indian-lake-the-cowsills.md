@@ -1,8 +1,11 @@
 ---
+album: Captain Sad And His Ship Of Fools
 artists:
 - The Cowsills
+external_ids:
+  spotify: spotify:track:5JaN7UNzRF91yL5cpFrOPF
 features: []
-genres: []
+first_released_as_single: false
 key: indian-lake-the-cowsills
 lyrics_url: https://genius.com/The-cowsills-indian-lake-lyrics
 name: Indian Lake
@@ -59,6 +62,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1968-08-24'
+release_year: 1968
+runtime: 163546
 ---
 You take a bus marked "Lakewood Drive"
 And you keep on drivin' till you're out of the city

@@ -1,8 +1,11 @@
 ---
+album: Abilene
 artists:
 - George Hamilton IV
+external_ids:
+  spotify: spotify:track:5bA26v8eeZrbHJpD4YPKAX
 features: []
-genres: []
+first_released_as_single: false
 key: abilene-george-hamilton-iv
 lyrics_url: https://genius.com/George-hamilton-iv-abilene-lyrics
 name: Abilene
@@ -63,6 +66,8 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1963-09-21'
+release_year: 1963
+runtime: 133333
 ---
 Abilene Abilene prettiest town I've ever seen
 Women there don't treat you mean in Abilene my Abilene

@@ -1,8 +1,11 @@
 ---
+album: Divinyls
 artists:
 - Divinyls
+external_ids:
+  spotify: spotify:track:6oNvmplQGUkmAh441Teows
 features: []
-genres: []
+first_released_as_single: false
 key: i-touch-myself-divinyls
 lyrics_url: https://www.azlyrics.com/lyrics/divinyls/itouchmyself.html
 name: I Touch Myself
@@ -79,8 +82,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1991-07-06'
+release_year: 1991
+runtime: 227640
 ---
-
 I love myself, I want you to love me
 When I feel down, I want you above me
 I search myself, I want you to find me
@@ -144,6 +148,3 @@ I honestly do
 
 I touch myself
 I touch myself
-
-
-

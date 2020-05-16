@@ -1,8 +1,11 @@
 ---
+album: Rumor Has It
 artists:
 - Clay Walker
+external_ids:
+  spotify: spotify:track:1TjtrBIx7fPUBjDXL9svN1
 features: []
-genres: []
+first_released_as_single: false
 key: then-what--clay-walker
 lyrics_url: https://www.azlyrics.com/lyrics/claywalker/thenwhat.html
 name: Then What?
@@ -79,8 +82,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1998-06-06'
+release_year: 1997
+runtime: 184026
 ---
-
 Well, I got a good friend who's got a good life
 He's got two pretty children and a real nice wife
 Yet he never seems quite satisfied
@@ -126,6 +130,3 @@ Then what, where you gonna turn
 When you can't turn back for the bridges you burn
 And fate can't wait to kick you in the butt, then what?
 Oh, then what?
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: The New Breed
 artists:
 - M.C. Breed
+external_ids:
+  spotify: spotify:track:5oqSr3rehtGgZyDh0LCSA7
 features: []
-genres: []
+first_released_as_single: false
 key: gotta-get-mine-m-c--breed
 lyrics_url: https://genius.com/Mc-breed-gotta-get-mine-lyrics
 name: Gotta Get Mine
@@ -15,6 +18,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1993-08-28'
+release_year: 1993
+runtime: 264760
 ---
 I gotta get mine, you gotta get yours
 I gotta get mine, you gotta get yours

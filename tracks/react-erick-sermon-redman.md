@@ -1,9 +1,12 @@
 ---
+album: React
 artists:
 - Erick Sermon
+external_ids:
+  spotify: spotify:track:4psCG36I4hy1h3qgG6o03m
 features:
 - Redman
-genres: []
+first_released_as_single: false
 key: react-erick-sermon-redman
 lyrics_url: https://www.azlyrics.com/lyrics/ericksermon/react.html
 name: React
@@ -72,9 +75,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2003-02-01'
+release_year: 2002
+runtime: 217840
 ---
-
-
 Just Blaze, yeah
 Check me out now
 Yo, yo, yo, yo, check me out now
@@ -147,4 +150,3 @@ Dozy-doe with cowboys where they saddle at
 Rodeo with 20 fours on the Cadillac
 What your name is, yo, R.E.D.
 Crack cost money, but the "E" is free, yeah
-

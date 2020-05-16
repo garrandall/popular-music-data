@@ -1,8 +1,11 @@
 ---
+album: Side 3
 artists:
 - Raspberries
+external_ids:
+  spotify: spotify:track:1HDnpYpxx5QksiWFs7DGzv
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-a-rocker-raspberries
 lyrics_url: https://genius.com/Raspberries-im-a-rocker-lyrics
 name: I'm A Rocker
@@ -19,6 +22,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1973-12-22'
+release_year: 1973
+runtime: 310533
 ---
 Back beat boogie got a hold on me
 Make me wanna jump and shout

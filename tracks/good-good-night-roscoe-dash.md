@@ -1,8 +1,11 @@
 ---
+album: Good Good Night
 artists:
 - Roscoe Dash
+external_ids:
+  spotify: spotify:track:0Rktu1dU3VH295WpdK36vs
 features: []
-genres: []
+first_released_as_single: true
 key: good-good-night-roscoe-dash
 lyrics_url: https://genius.com/Roscoe-dash-good-good-night-lyrics
 name: Good Good Night
@@ -23,6 +26,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2012-01-14'
+release_year: 2011
+runtime: 205053
 ---
 How they let me go and get a beat from kane
 I swear these 808s & snares make me go insane

@@ -1,9 +1,12 @@
 ---
+album: 'Cole World: The Sideline Story'
 artists:
 - J. Cole
+external_ids:
+  spotify: spotify:track:3mTpegrOwRn0oJjv4TSbEE
 features:
 - Trey Songz
-genres: []
+first_released_as_single: false
 key: can-t-get-enough-j--cole-trey-songz
 lyrics_url: https://genius.com/J-cole-cant-get-enough-lyrics
 name: Can't Get Enough
@@ -88,6 +91,8 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '2012-04-28'
+release_year: 2011
+runtime: 225960
 ---
 Cole World, Southside
 Can’t get enough, can’t get enough

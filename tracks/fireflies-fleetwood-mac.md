@@ -1,8 +1,11 @@
 ---
+album: Live
 artists:
 - Fleetwood Mac
+external_ids:
+  spotify: spotify:track:6T8HYJSt4v6O2WbRlBkxi2
 features: []
-genres: []
+first_released_as_single: false
 key: fireflies-fleetwood-mac
 lyrics_url: https://www.azlyrics.com/lyrics/fleetwoodmac/fireflies.html
 name: Fireflies
@@ -31,8 +34,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1981-03-14'
+release_year: 1980
+runtime: 283640
 ---
-
 To be the last to leave the last to be gone
 Stolen from the ones who held onto it
 To be the last in line oh the ones that live on
@@ -68,6 +72,3 @@ Well like a sailing ship on one of love's rocks, no one
 Of our love affair like a whip through the air
 I would love to believe, I believe what you say
 Fireflies
-
-
-

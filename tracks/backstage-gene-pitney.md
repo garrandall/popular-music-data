@@ -1,8 +1,11 @@
 ---
+album: The Best Of Gene Pitney
 artists:
 - Gene Pitney
+external_ids:
+  spotify: spotify:track:4mxgsUgIoDZVI92GchUWMm
 features: []
-genres: []
+first_released_as_single: false
 key: backstage-gene-pitney
 lyrics_url: https://www.azlyrics.com/lyrics/genepitney/backstageimlonely.html
 name: Backstage
@@ -39,8 +42,9 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '1966-06-11'
+release_year: 1966
+runtime: 156666
 ---
-
 A thousand hands applaud tonight 
 I sing my songs my star shines bright 
 I stop and smile I take my bow 
@@ -74,6 +78,3 @@ Your smiling face waiting there backstage for me
 Your smiling face waiting backstage for me 
 Backstage 
 Backstage
-
-
-

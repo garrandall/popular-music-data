@@ -1,8 +1,11 @@
 ---
+album: Brotherhood
 artists:
 - 3T
+external_ids:
+  spotify: spotify:track:2AtBXRPCZhtIqSGF5ap33B
 features: []
-genres: []
+first_released_as_single: false
 key: anything-3t
 lyrics_url: https://www.azlyrics.com/lyrics/3t/anything.html
 name: Anything
@@ -139,8 +142,9 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1996-05-18'
+release_year: 1995
+runtime: 321000
 ---
-
 I'll give you love
 The things you want
 I would do anything for you
@@ -221,6 +225,3 @@ I swear I would do, babe
 I would do anything for you
 Anything you want, baby
 I would do anything, girl, anything for you
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Talk Dirty
 artists:
 - Jason Derulo
+external_ids:
+  spotify: spotify:track:5KONnBIQ9LqCxyeSPin26k
 features: []
-genres: []
+first_released_as_single: false
 key: trumpets-jason-derulo
 lyrics_url: https://www.azlyrics.com/lyrics/jasonderulo/trumpets.html
 name: Trumpets
@@ -135,8 +138,9 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '2015-01-17'
+release_year: 2013
+runtime: 217419
 ---
-
 Every time that you get undressed
 I hear symphonies in my head
 I wrote this song just looking at you oh, oh
@@ -207,6 +211,3 @@ And the trumpets they go
 There you go, oh-oh, yeah
 Come on, come on, come on
 There you go
-
-
-

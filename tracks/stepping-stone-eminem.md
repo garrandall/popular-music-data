@@ -1,8 +1,11 @@
 ---
+album: Kamikaze
 artists:
 - Eminem
+external_ids:
+  spotify: spotify:track:60Z57Wdrn0pEVpHI7d7GAX
 features: []
-genres: []
+first_released_as_single: false
 key: stepping-stone-eminem
 lyrics_url: https://genius.com/Eminem-stepping-stone-lyrics
 name: Stepping Stone
@@ -11,6 +14,8 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '2018-09-15'
+release_year: 2018
+runtime: 309637
 ---
 Take me to the river
 Yeah, yeah, yeah, yeah

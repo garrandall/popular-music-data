@@ -1,8 +1,11 @@
 ---
+album: Steel Wheels (Remastered 2009)
 artists:
 - The Rolling Stones
+external_ids:
+  spotify: spotify:track:6fKQblT3h0U2ydiDbnsyfa
 features: []
-genres: []
+first_released_as_single: false
 key: mixed-emotions-the-rolling-stones
 lyrics_url: https://www.azlyrics.com/lyrics/rollingstones/mixedemotions.html
 name: Mixed Emotions
@@ -55,8 +58,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1989-11-18'
+release_year: 1989
+runtime: 278106
 ---
-
 Button your lip baby
 Button your coat
 Let's go out dancing
@@ -101,6 +105,3 @@ You're not the only one
 That's feeling lonesome
 You're not the only one
 With mixed emotions
-
-
-

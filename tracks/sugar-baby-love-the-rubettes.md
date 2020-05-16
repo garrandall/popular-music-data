@@ -1,8 +1,11 @@
 ---
+album: Juke Box Jive
 artists:
 - The Rubettes
+external_ids:
+  spotify: spotify:track:533zrb4HTBOJpGidBU2df0
 features: []
-genres: []
+first_released_as_single: false
 key: sugar-baby-love-the-rubettes
 lyrics_url: https://www.azlyrics.com/lyrics/rubettes/sugarbabylove.html
 name: Sugar Baby Love
@@ -47,8 +50,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1974-09-21'
+release_year: 1974
+runtime: 209760
 ---
-
 Sugar baby love, sugar baby love
 I didn't mean to make you blue
 Sugar baby love, sugar baby love
@@ -72,6 +76,3 @@ Don't think twice
 
 Love your baby love, sugar baby love
 Love her anyway, love her ev'ryday
-
-
-

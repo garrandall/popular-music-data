@@ -1,8 +1,11 @@
 ---
+album: Jennifer Hudson
 artists:
 - Jennifer Hudson
+external_ids:
+  spotify: spotify:track:6YLCYYNS0gK7S22PVItqF4
 features: []
-genres: []
+first_released_as_single: true
 key: spotlight-jennifer-hudson
 lyrics_url: https://www.azlyrics.com/lyrics/jenniferhudson/spotlight.html
 name: Spotlight
@@ -91,9 +94,9 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '2008-12-27'
+release_year: 2008
+runtime: 249973
 ---
-
-
 Are you a man who loves and cherishes and cares for me?
 Is that you? Is that you? Is that you?
 Are you a guard in a prison maximum security?
@@ -151,6 +154,3 @@ Maybe if you treat me right (treat me right, yeah!)
 You won't have to worry
 
 (I don't like)
-
-
-

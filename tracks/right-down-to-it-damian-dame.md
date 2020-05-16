@@ -1,8 +1,11 @@
 ---
+album: Damian Dame
 artists:
 - Damian Dame
+external_ids:
+  spotify: spotify:track:31tcr4OcLi2TXE5u4Iwhjc
 features: []
-genres: []
+first_released_as_single: false
 key: right-down-to-it-damian-dame
 lyrics_url: https://genius.com/Damian-dame-right-down-to-it-lyrics
 name: Right Down To It
@@ -31,6 +34,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1992-01-18'
+release_year: 1991
+runtime: 294266
 ---
 Mmm
 

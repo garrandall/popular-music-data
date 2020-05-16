@@ -1,8 +1,11 @@
 ---
+album: The Best Of Timi Yuro
 artists:
 - Timi Yuro
+external_ids:
+  spotify: spotify:track:1Kd5vbYmkaDSed6gJrDHGk
 features: []
-genres: []
+first_released_as_single: false
 key: she-really-loves-you-timi-yuro
 lyrics_url: https://genius.com/Timi-yuro-she-really-loves-you-lyrics
 name: She Really Loves You
@@ -15,6 +18,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1961-12-11'
+release_year: 1961
+runtime: 165426
 ---
 She really loves you and how could you know
 How she has waited for you to show her

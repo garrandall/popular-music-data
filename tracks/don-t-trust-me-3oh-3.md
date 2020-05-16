@@ -1,8 +1,11 @@
 ---
+album: Alternative 2K Essentials
 artists:
 - 3OH!3
+external_ids:
+  spotify: spotify:track:3bsDo5vjjJI7O8VuytGIrc
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-trust-me-3oh-3
 lyrics_url: https://genius.com/3oh-3-dont-trust-me-lyrics
 name: Don't Trust Me
@@ -155,6 +158,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2009-09-05'
+release_year: 2008
+runtime: 194613
 ---
 Black dress with the tights underneath
 I got the breath of a last cigarette on my teeth

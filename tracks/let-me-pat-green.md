@@ -1,8 +1,11 @@
 ---
+album: What I'm For
 artists:
 - Pat Green
+external_ids:
+  spotify: spotify:track:7D3XZFoMd9VyeHq4bNudwm
 features: []
-genres: []
+first_released_as_single: true
 key: let-me-pat-green
 lyrics_url: https://genius.com/Pat-green-let-me-lyrics
 name: Let Me
@@ -15,6 +18,8 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '2009-02-14'
+release_year: 2008
+runtime: 234306
 ---
 Let Me
 Pat Green

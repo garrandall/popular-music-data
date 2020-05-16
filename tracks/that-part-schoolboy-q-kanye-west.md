@@ -1,9 +1,12 @@
 ---
+album: Blank Face LP
 artists:
 - ScHoolboy Q
+external_ids:
+  spotify: spotify:track:2yJ9GVCLMmzBBfQAnfzlwr
 features:
 - Kanye West
-genres: []
+first_released_as_single: false
 key: that-part-schoolboy-q-kanye-west
 lyrics_url: https://www.azlyrics.com/lyrics/schoolboyq/thatpart.html
 name: THat Part
@@ -88,8 +91,9 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2016-11-05'
+release_year: 2016
+runtime: 313573
 ---
-
 Me no conversate with the fake, that part
 All my bitches independent bitches, that part
 I just want the paper, that part
@@ -199,6 +203,3 @@ And uh, Top Dawg, call Top Dawg
 Get that nigga on the phone
 Top Dawg on the phone!
 Ayy, ayy, ayy, ayy, ayy, ayy, ayy! Hah!
-
-
-

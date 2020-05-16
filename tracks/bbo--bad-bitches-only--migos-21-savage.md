@@ -1,9 +1,12 @@
 ---
+album: Culture II
 artists:
 - Migos
+external_ids:
+  spotify: spotify:track:4BHzHISX21PYwGXiBEUQ70
 features:
 - 21 Savage
-genres: []
+first_released_as_single: false
 key: bbo--bad-bitches-only--migos-21-savage
 lyrics_url: https://www.azlyrics.com/lyrics/migos/bbobadbitchesonly.html
 name: BBO (Bad Bitches Only)
@@ -16,8 +19,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2018-02-17'
+release_year: 2018
+runtime: 251858
 ---
-
 Buddah bless this beat
 
 
@@ -133,6 +137,3 @@ Hit it for a minute then I pass her to the homie
 Hit her for a minute then I pass her to my homie
 I don't wanna see you when I wake up in the morning
 Bad bitches only, bad bitches on me
-
-
-

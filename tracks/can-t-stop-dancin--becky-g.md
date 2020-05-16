@@ -1,8 +1,11 @@
 ---
+album: Can't Stop Dancin'
 artists:
 - Becky G
+external_ids:
+  spotify: spotify:track:5NetSTs4dgiR6GLrZOQcwJ
 features: []
-genres: []
+first_released_as_single: true
 key: can-t-stop-dancin--becky-g
 lyrics_url: https://genius.com/Becky-g-cant-stop-dancin-lyrics
 name: Can't Stop Dancin'
@@ -19,6 +22,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2015-02-14'
+release_year: 2014
+runtime: 198852
 ---
 The lights are shining like the sun out tonight
 Just keep your body moving how I like

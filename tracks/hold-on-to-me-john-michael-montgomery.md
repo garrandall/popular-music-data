@@ -1,8 +1,11 @@
 ---
+album: Leave A Mark
 artists:
 - John Michael Montgomery
+external_ids:
+  spotify: spotify:track:4PVE40zZNMEFJi5MA3Ph9z
 features: []
-genres: []
+first_released_as_single: false
 key: hold-on-to-me-john-michael-montgomery
 lyrics_url: https://www.azlyrics.com/lyrics/johnmichaelmontgomery/holdontome.html
 name: Hold On To Me
@@ -83,8 +86,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1999-04-10'
+release_year: 1998
+runtime: 251200
 ---
-
 I wanna wake up each morning
 With you for the rest of my life
 I wanna feel your heart beating
@@ -125,6 +129,3 @@ And you don't know if you can hold on to your dreams
 Baby you can hold on I said
 Baby you can hold on I said
 Baby you can hold on to me
-
-
-

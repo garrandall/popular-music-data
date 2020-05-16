@@ -1,8 +1,11 @@
 ---
+album: Back to Back - Atlantic Starr & The Jets
 artists:
 - Atlantic Starr
+external_ids:
+  spotify: spotify:track:7iuOtQr6jAaTq0xB6cDuBN
 features: []
-genres: []
+first_released_as_single: false
 key: circles-atlantic-starr
 lyrics_url: https://www.azlyrics.com/lyrics/atlanticstarr/circles.html
 name: Circles
@@ -51,8 +54,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1982-06-05'
+release_year: 1982
+runtime: 293493
 ---
-
 Circles, goin' round in circles
 Circles, goin' round in circles
 
@@ -100,6 +104,3 @@ Circles, goin' round in circles
 Circles
 Circles
 Circles goin' round in circles
-
-
-

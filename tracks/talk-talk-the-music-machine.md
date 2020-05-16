@@ -1,8 +1,11 @@
 ---
+album: (Turn On) The Music Machine
 artists:
 - The Music Machine
+external_ids:
+  spotify: spotify:track:3J9VPVRnoqyF0keO1nReTz
 features: []
-genres: []
+first_released_as_single: false
 key: talk-talk-the-music-machine
 lyrics_url: https://genius.com/The-music-machine-talk-talk-lyrics
 name: Talk Talk
@@ -55,6 +58,8 @@ rankings:
   rank: 30
   ranking_list: Billboard Hot 100
   start_date: '1967-01-28'
+release_year: 1966
+runtime: 118133
 ---
 I got me a complication
 And it's an only child

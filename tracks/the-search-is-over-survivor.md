@@ -1,8 +1,11 @@
 ---
+album: Vital Signs
 artists:
 - Survivor
+external_ids:
+  spotify: spotify:track:1M3xrSPzPcKkCnXGHFPKaw
 features: []
-genres: []
+first_released_as_single: false
 key: the-search-is-over-survivor
 lyrics_url: https://www.azlyrics.com/lyrics/survivor/thesearchisover.html
 name: The Search Is Over
@@ -91,8 +94,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1985-09-07'
+release_year: 1984
+runtime: 252613
 ---
-
 How can I convince you
 What you see is real
 Who am I to blame you
@@ -156,6 +160,3 @@ Then I touched your hand
 I could hear you whisper
 The search is over
 Love was right before my eyes
-
-
-

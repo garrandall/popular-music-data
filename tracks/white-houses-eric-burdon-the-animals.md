@@ -1,9 +1,12 @@
 ---
+album: Every One Of Us
 artists:
 - Eric Burdon
 - The Animals
+external_ids:
+  spotify: spotify:track:2MpbWdO7O3tObbPR9AiMik
 features: []
-genres: []
+first_released_as_single: false
 key: white-houses-eric-burdon-the-animals
 lyrics_url: https://genius.com/Eric-burdon-and-the-animals-white-houses-lyrics
 name: White Houses
@@ -40,6 +43,8 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '1969-01-11'
+release_year: 1965
+runtime: 231026
 ---
 White houses in neat little rows
 Contrasting against the sky

@@ -1,8 +1,11 @@
 ---
+album: Time After Time
 artists:
 - Chris Montez
+external_ids:
+  spotify: spotify:track:70DZRMZUbE4vLcNnwEpbNb
 features: []
-genres: []
+first_released_as_single: false
 key: time-after-time-chris-montez
 lyrics_url: https://genius.com/Chris-montez-time-after-time-lyrics
 name: Time After Time
@@ -39,6 +42,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1966-12-17'
+release_year: 1966
+runtime: 139960
 ---
 Time after time I tell myself that I'm
 So lucky to be loving you

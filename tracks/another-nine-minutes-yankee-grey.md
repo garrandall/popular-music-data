@@ -1,8 +1,11 @@
 ---
+album: Untamed
 artists:
 - Yankee Grey
+external_ids:
+  spotify: spotify:track:52MpgETOZTO75eWgO0ilSC
 features: []
-genres: []
+first_released_as_single: false
 key: another-nine-minutes-yankee-grey
 lyrics_url: https://genius.com/Yankee-grey-another-nine-minutes-lyrics
 name: Another Nine Minutes
@@ -39,6 +42,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2000-06-17'
+release_year: 1999
+runtime: 190000
 ---
 6:30 in the morning
 I'm in the middle of the sweetest dream

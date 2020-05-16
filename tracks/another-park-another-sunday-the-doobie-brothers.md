@@ -1,8 +1,11 @@
 ---
+album: What Were Once Vices Are Now Habits
 artists:
 - The Doobie Brothers
+external_ids:
+  spotify: spotify:track:6K1Wr66UPDkfsS4lrNdY9e
 features: []
-genres: []
+first_released_as_single: false
 key: another-park-another-sunday-the-doobie-brothers
 lyrics_url: https://www.azlyrics.com/lyrics/doobiebrothers/anotherparkanothersunday.html
 name: Another Park Another Sunday
@@ -47,8 +50,9 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '1974-06-22'
+release_year: 1974
+runtime: 267029
 ---
-
 I'm sittin' in my room, I'm starin' out my window
 And I wonder where you've gone
 Thinking back on the happy hours just before the dawn
@@ -83,6 +87,3 @@ Another park, another Sunday
 It's dark and empty thanks to you
 I got to get myself together
 But it's hard to do
-
-
-

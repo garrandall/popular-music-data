@@ -1,9 +1,12 @@
 ---
+album: Private Line
 artists:
 - Gerald Levert
 - Eddie Levert
+external_ids:
+  spotify: spotify:track:38V9quY32pQ1DPK5JRTs94
 features: []
-genres: []
+first_released_as_single: false
 key: baby-hold-on-to-me-gerald-levert-eddie-levert
 lyrics_url: https://genius.com/Gerald-levert-and-eddie-levert-baby-hold-on-to-me-feat-eddie-levert-lyrics
 name: Baby Hold On To Me
@@ -88,6 +91,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1992-06-27'
+release_year: 1991
+runtime: 345200
 ---
 All your friends are tellin' you
 You should have a fancy car and diamond rings

@@ -1,8 +1,11 @@
 ---
+album: Music Of My Mind
 artists:
 - Stevie Wonder
+external_ids:
+  spotify: spotify:track:2qQ80w3ARHgD4vAsjh9hsQ
 features: []
-genres: []
+first_released_as_single: false
 key: superwoman--where-were-you-when-i-needed-you--stevie-wonder
 lyrics_url: https://www.azlyrics.com/lyrics/steviewonder/superwoman.html
 name: Superwoman (Where Were You When I Needed You)
@@ -51,8 +54,9 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '1972-07-29'
+release_year: 1972
+runtime: 487666
 ---
-
 Mary wants to be a superwoman
 But is that really in her head
 But I just want to live each day to love her
@@ -135,6 +139,3 @@ Yea, Need you Baby, need you, need you baby,
 Oh, you want me too need you baby
 Oh where were you when I needed you last, dear
 Yea
-
-
-

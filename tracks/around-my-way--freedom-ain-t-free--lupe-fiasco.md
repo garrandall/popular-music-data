@@ -1,8 +1,11 @@
 ---
+album: 'Food & Liquor II: The Great American Rap Album Pt. 1'
 artists:
 - Lupe Fiasco
+external_ids:
+  spotify: spotify:track:2Vba5MBCdGqcE57GSiOstv
 features: []
-genres: []
+first_released_as_single: false
 key: around-my-way--freedom-ain-t-free--lupe-fiasco
 lyrics_url: https://genius.com/Lupe-fiasco-around-my-way-freedom-aint-free-lyrics
 name: Around My Way (Freedom Ain't Free)
@@ -11,6 +14,8 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '2012-06-09'
+release_year: 2012
+runtime: 255773
 ---
 First off, say "Peace" to Pine Ridge
 Shame at all the damage that the white man wine did

@@ -1,7 +1,8 @@
 ---
 artists:
-- Elton Anderson With Sid Lawrence Combo
-features: []
+- Elton Anderson
+features:
+- Sid Lawrence Combo
 genres: []
 key: secret-of-love-elton-anderson-with-sid-lawrence-combo
 name: Secret Of Love

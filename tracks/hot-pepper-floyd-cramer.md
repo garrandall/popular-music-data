@@ -1,8 +1,11 @@
 ---
+album: Collection 1953-62
 artists:
 - Floyd Cramer
+external_ids:
+  spotify: spotify:track:4S4vOEhdyyEKIjLOH6Lspy
 features: []
-genres: []
+first_released_as_single: false
 key: hot-pepper-floyd-cramer
 name: Hot Pepper
 rankings:
@@ -22,5 +25,7 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '1962-07-28'
+release_year: 1962
+runtime: 131773
 ---
 

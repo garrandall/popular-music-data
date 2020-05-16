@@ -1,8 +1,11 @@
 ---
+album: Most Wanted Instrumental Urban Tracks
 artists:
 - Naughty By Nature
+external_ids:
+  spotify: spotify:track:43G0DW1dmj1eVzVqVmGRt3
 features: []
-genres: []
+first_released_as_single: false
 key: opp-naughty-by-nature
 lyrics_url: https://genius.com/Naughty-by-nature-opp-lyrics
 name: OPP
@@ -91,6 +94,8 @@ rankings:
   rank: 37
   ranking_list: Billboard Hot 100
   start_date: '1992-01-25'
+release_year: 1991
+runtime: 250462
 ---
 Arm me with harmony
 Dave, drop a load on 'em!

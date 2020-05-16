@@ -1,8 +1,11 @@
 ---
+album: Heartbeat City
 artists:
 - The Cars
+external_ids:
+  spotify: spotify:track:38grNTrwhKRovfJNgtN3l8
 features: []
-genres: []
+first_released_as_single: false
 key: tonight-she-comes-the-cars
 lyrics_url: https://genius.com/The-cars-tonight-she-comes-lyrics
 name: Tonight She Comes
@@ -75,6 +78,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1986-02-22'
+release_year: 1984
+runtime: 237668
 ---
 I know tonight she comes
 She's takin' a swipe at fun
@@ -100,14 +105,14 @@ One more time (one more time)
 I know she's gonna stay implanted
 In my mind
 Why does she keep me hanging on the line, oh
-(why does she keep me hanging on the liiiiiiine)
+(why does she keep me hanging on the line)
 
 Ah yeah, I know she's gonna do it to me
 One more time (one more time)
 I know she's gonna stay implanted
 In my mind
 Oh, why does she keep me hanging on the line, oh yeah
-(why does she keep me hanging on the liiiiiiine)
+(why does she keep me hanging on the line)
 
 I know the way she feels
 And all of the hearts that she steals
@@ -149,14 +154,14 @@ One more time (one more time)
 I know she's gonna stay implanted
 In my mind
 Why does she keep me hanging on the line, oh
-(why does she keep me hanging on the liiiiiiine)
+(why does she keep me hanging on the line)
 
 Ah yeah, I know she's gonna do it to me
 One more time (one more time)
 I know she's gonna stay implanted
 In my mind
 Oh, why does she keep me hanging on the line, oh yeah
-(why does she keep me hanging on the liiiiiiine)
+(why does she keep me hanging on the line)
 
 I know the way she feels
 And all of the hearts that she steals

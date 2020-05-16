@@ -1,10 +1,13 @@
 ---
+album: Kamikaze
 artists:
 - Twista
+external_ids:
+  spotify: spotify:track:17Kh3I18Pl2QFzT1B0rYvQ
 features:
 - Kanye West
 - Jamie Foxx
-genres: []
+first_released_as_single: true
 key: slow-jamz-twista-kanye-west-jamie-foxx
 lyrics_url: https://genius.com/Twista-kanye-west-and-jamie-foxx-slow-jamz-lyrics
 name: Slow Jamz
@@ -97,6 +100,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '2004-05-01'
+release_year: 2003
+runtime: 212346
 ---
 Kanye, it's Foxx, man
 I'm just sayin' I was talkin' to the girls you know

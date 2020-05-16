@@ -1,8 +1,11 @@
 ---
+album: Clearly Love
 artists:
 - Olivia Newton-John
+external_ids:
+  spotify: spotify:track:7x7eiPhnwODlzKrm4fupzW
 features: []
-genres: []
+first_released_as_single: false
 key: something-better-to-do-olivia-newton-john
 lyrics_url: https://www.azlyrics.com/lyrics/olivianewtonjohn/somethingbettertodo.html
 name: Something Better To Do
@@ -51,8 +54,9 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1975-11-29'
+release_year: 1975
+runtime: 195066
 ---
-
 I try to be patient - I try not to moan
 But it's driving me crazy trying to live here alone
 My conversation gets nowhere when I talk to myself
@@ -82,6 +86,3 @@ Until you're back in my arms dear
 The birds will have to find something better to do
 Baby, till you're back in my arms
 The birds will have to find something better to do
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: A Kind Of Hush
 artists:
 - Carpenters
+external_ids:
+  spotify: spotify:track:0akS5CnravKgyWljlRiJms
 features: []
-genres: []
+first_released_as_single: false
 key: goofus-carpenters
 lyrics_url: https://www.azlyrics.com/lyrics/carpenters/goofus.html
 name: Goofus
@@ -27,8 +30,9 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '1976-10-02'
+release_year: 1976
+runtime: 189200
 ---
-
 I was born on a farm out in Ioway
 A flaming youth I was bound I would
 I packed my grip and I grabbed
@@ -59,6 +63,3 @@ And we all played just the same
 "Goofus" harmony
 And I must admit we made a hit
 "Goofus" has been lucky for me
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Document (R.E.M. No. 5)
 artists:
 - R.E.M.
+external_ids:
+  spotify: spotify:track:2oSpQ7QtIKTNFfA08Cy0ku
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-the-end-of-the-world-as-we-know-it--and-i-feel-fine--r-e-m-
 lyrics_url: https://genius.com/Rem-its-the-end-of-the-world-as-we-know-it-and-i-feel-fine-lyrics
 name: It's The End Of The World As We Know It (And I Feel Fine)
@@ -43,6 +46,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1988-03-26'
+release_year: 1987
+runtime: 246933
 ---
 That's great, it starts with an earthquake
 Birds and snakes, an aeroplane

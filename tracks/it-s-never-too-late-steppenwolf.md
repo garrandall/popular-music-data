@@ -1,8 +1,11 @@
 ---
+album: At Your Birthday Party
 artists:
 - Steppenwolf
+external_ids:
+  spotify: spotify:track:54RmVI3i4V9WlMsvciMB4s
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-never-too-late-steppenwolf
 lyrics_url: https://www.azlyrics.com/lyrics/steppenwolf/itsnevertoolate.html
 name: It's Never Too Late
@@ -27,8 +30,9 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1969-06-07'
+release_year: 1969
+runtime: 242973
 ---
-
 Your eyes are moist, you scream and shout
 As though you were a man possessed
 From deep inside comes rushing forth
@@ -72,6 +76,3 @@ You can find a way to change today
 You don't have to wait 'til then
 
 Repeat Chorus
-
-
-

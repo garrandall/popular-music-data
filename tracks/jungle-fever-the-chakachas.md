@@ -1,8 +1,11 @@
 ---
+album: Jungle Fever
 artists:
 - The Chakachas
+external_ids:
+  spotify: spotify:track:2QEhVc7hg5Z5yI8UPOSRk8
 features: []
-genres: []
+first_released_as_single: false
 key: jungle-fever-the-chakachas
 lyrics_url: https://www.musixmatch.com/lyrics/The-Chakachas/Jungle-Fever
 name: Jungle Fever
@@ -67,6 +70,8 @@ rankings:
   rank: 22
   ranking_list: Billboard Hot 100
   start_date: '1972-04-22'
+release_year: 1972
+runtime: 260706
 ---
 Muchos años han pasado
 De esta banda en la tribuna

@@ -1,9 +1,12 @@
 ---
+album: The Jersey Shore 2
 artists:
 - Yolanda Be Cool
 - Dcup
+external_ids:
+  spotify: spotify:track:6lFKHp2pjDlbYeeqZ0olm8
 features: []
-genres: []
+first_released_as_single: true
 key: we-no-speak-americano-yolanda-be-cool-dcup
 lyrics_url: https://www.azlyrics.com/lyrics/yolandabecool/wenospeakamericano.html
 name: We No Speak Americano
@@ -88,8 +91,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2011-02-12'
+release_year: 2010
+runtime: 269800
 ---
-
 Comme te po'
 Comme te po'
 Comme te po' capÃ¬ chi te vÃ² bene
@@ -109,6 +113,3 @@ Fa fa l' americano
 Whisky soda e rockenroll
 Whisky soda e rockenroll
 Whisky soda e rockenroll
-
-
-

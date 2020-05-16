@@ -1,8 +1,11 @@
 ---
+album: Breakaway
 artists:
 - Kelly Clarkson
+external_ids:
+  spotify: spotify:track:2vXsH6DQxMclze0MhDmsQu
 features: []
-genres: []
+first_released_as_single: true
 key: walk-away-kelly-clarkson
 lyrics_url: https://www.azlyrics.com/lyrics/kellyclarkson/walkaway.html
 name: Walk Away
@@ -123,8 +126,9 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '2006-08-05'
+release_year: 2004
+runtime: 186133
 ---
-
 You've got your mother and your brother
 Every other undercover
 Tellin' you what to say (say)
@@ -202,6 +206,3 @@ Yeah yeah
 Walk away
 Walk away
 Walk away
-
-
-

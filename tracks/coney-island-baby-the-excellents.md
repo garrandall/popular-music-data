@@ -1,8 +1,11 @@
 ---
+album: Spotlight Series - Blast & Cheer Records Vol. 1
 artists:
 - The Excellents
+external_ids:
+  spotify: spotify:track:4bHbFiX0JA7rrHVZd423BB
 features: []
-genres: []
+first_released_as_single: false
 key: coney-island-baby-the-excellents
 lyrics_url: https://genius.com/The-excellents-coney-island-baby-lyrics
 name: Coney Island Baby
@@ -43,6 +46,8 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1963-01-19'
+release_year: 1962
+runtime: 131146
 ---
 You know, man, when I was a young man in high school
 You believe in or not, that I wanted to play football for the coach

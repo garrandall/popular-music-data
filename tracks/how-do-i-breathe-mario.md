@@ -1,8 +1,11 @@
 ---
+album: Go
 artists:
 - Mario
+external_ids:
+  spotify: spotify:track:7hijz8il3sNScfNUOKeomX
 features: []
-genres: []
+first_released_as_single: true
 key: how-do-i-breathe-mario
 lyrics_url: https://www.azlyrics.com/lyrics/mario/howdoibreathe.html
 name: How Do I Breathe
@@ -47,8 +50,9 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '2007-09-08'
+release_year: 2007
+runtime: 256386
 ---
-
 How do I breathe, yeah?
 How do I breathe, yeah?
 
@@ -142,6 +146,3 @@ When your heart's where I lay my head?
 When you're not with me (you're not with me),
 How do I breathe (how do I breathe)?
 How do I breathe?
-
-
-

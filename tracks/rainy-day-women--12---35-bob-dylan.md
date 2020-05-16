@@ -1,8 +1,11 @@
 ---
+album: Blonde On Blonde
 artists:
 - Bob Dylan
+external_ids:
+  spotify: spotify:track:7BkAlVpGwXXl3sYNn5OoJ7
 features: []
-genres: []
+first_released_as_single: false
 key: rainy-day-women--12---35-bob-dylan
 lyrics_url: https://genius.com/Bob-dylan-rainy-day-women-12-and-35-lyrics
 name: 'Rainy Day Women #12 & 35'
@@ -47,6 +50,8 @@ rankings:
   rank: 29
   ranking_list: Billboard Hot 100
   start_date: '1966-06-18'
+release_year: 1966
+runtime: 274066
 ---
 Well, they'll stone you when you're tryin' to be so good
 They'll stone you just like they said they would

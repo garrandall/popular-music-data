@@ -1,8 +1,11 @@
 ---
+album: Very Necessary
 artists:
 - Salt-N-Pepa
+external_ids:
+  spotify: spotify:track:0Pu71wxadDlB8fJXfjIjeJ
 features: []
-genres: []
+first_released_as_single: false
 key: shoop-salt-n-pepa
 lyrics_url: https://genius.com/Salt-n-pepa-shoop-lyrics
 name: Shoop
@@ -107,6 +110,8 @@ rankings:
   rank: 35
   ranking_list: Billboard Hot 100
   start_date: '1994-03-26'
+release_year: 1993
+runtime: 248573
 ---
 (Hey yeah, I wanna shoop baby!)
 Oh, how you doing baby?

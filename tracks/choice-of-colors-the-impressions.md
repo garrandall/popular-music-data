@@ -1,8 +1,11 @@
 ---
+album: The Young Mods' Forgotten Story
 artists:
 - The Impressions
+external_ids:
+  spotify: spotify:track:28tgHkgZoBWHsmbzmI41Yt
 features: []
-genres: []
+first_released_as_single: false
 key: choice-of-colors-the-impressions
 lyrics_url: https://www.azlyrics.com/lyrics/impressions/choiceofcolors.html
 name: Choice Of Colors
@@ -51,8 +54,9 @@ rankings:
   rank: 31
   ranking_list: Billboard Hot 100
   start_date: '1969-09-06'
+release_year: 1969
+runtime: 200400
 ---
-
 If you had a choice of colors
 Which one would you choose, my brothers
 If there was no day or night
@@ -97,6 +101,3 @@ Which would you prefer to be right
 
 If you had a choice of colors
 Which one would you choose, my brothers
-
-
-

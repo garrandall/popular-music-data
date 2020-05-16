@@ -1,8 +1,11 @@
 ---
+album: Spanish Harlem
 artists:
 - Ben E. King
+external_ids:
+  spotify: spotify:track:3UCmuRdeTriWgOZMEJsfqZ
 features: []
-genres: []
+first_released_as_single: false
 key: spanish-harlem-ben-e--king
 lyrics_url: https://www.azlyrics.com/lyrics/beneking/spanishharlem.html
 name: Spanish Harlem
@@ -71,8 +74,9 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '1961-04-17'
+release_year: 1961
+runtime: 174293
 ---
-
 There is a rose in Spanish Harlem
 A red rose up in Spanish Harlem
 
@@ -99,6 +103,3 @@ And watch her as she grows
 In my garden
 
 (There is a rose in Spanish Harlem)...
-
-
-

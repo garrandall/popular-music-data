@@ -1,8 +1,11 @@
 ---
+album: Doo-Wop - The Golden Age 1956-1963
 artists:
 - Dukays
+external_ids:
+  spotify: spotify:track:2ksy8psInYT8KKjIxImv0M
 features: []
-genres: []
+first_released_as_single: false
 key: nite-owl-dukays
 lyrics_url: https://www.musixmatch.com/lyrics/The-Dukays/Nite-Owl
 name: Nite Owl
@@ -31,6 +34,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1962-03-31'
+release_year: 1962
+runtime: 146226
 ---
 Ten o'clock, ten-thirty
 Eleven o'clock, eleven-thirty

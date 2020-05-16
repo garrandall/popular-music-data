@@ -1,8 +1,11 @@
 ---
+album: The Game Of Funk
 artists:
 - Sons Of Funk
+external_ids:
+  spotify: spotify:track:4GLFF4jMBQ9uG6NJJUaTnu
 features: []
-genres: []
+first_released_as_single: false
 key: pushin--inside-you-sons-of-funk
 lyrics_url: https://genius.com/Sons-of-funk-pushin-inside-you-lyrics
 name: Pushin' Inside You
@@ -15,6 +18,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1997-11-01'
+release_year: 1997
+runtime: 227973
 ---
 You know, I know it's gonna be good girl
 I can feel your water streaming down all around

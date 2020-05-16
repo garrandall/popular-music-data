@@ -1,8 +1,11 @@
 ---
+album: Who Do We Think We Are
 artists:
 - Deep Purple
+external_ids:
+  spotify: spotify:track:6aqWPEhtxJaPbSabre2fdx
 features: []
-genres: []
+first_released_as_single: false
 key: woman-from-tokyo-deep-purple
 lyrics_url: https://www.azlyrics.com/lyrics/deeppurple/womanfromtokyo.html
 name: Woman From Tokyo
@@ -31,8 +34,9 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '1973-10-20'
+release_year: 1973
+runtime: 348640
 ---
-
 Fly into the rising sun,
 Faces, smiling everyone
 Yeah, she is a whole new tradition
@@ -69,6 +73,3 @@ My woman from Tokyo
 She makes me see
 My woman from Tokyo
 She's so good to me
-
-
-

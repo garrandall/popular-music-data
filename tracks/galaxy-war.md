@@ -1,8 +1,11 @@
 ---
+album: Galaxy
 artists:
 - War
+external_ids:
+  spotify: spotify:track:2j8m9sboX9FFadbKctTXq1
 features: []
-genres: []
+first_released_as_single: false
 key: galaxy-war
 lyrics_url: https://genius.com/War-galaxy-lyrics
 name: Galaxy
@@ -43,6 +46,8 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '1978-03-04'
+release_year: 1977
+runtime: 491000
 ---
 Take me to your place in space
 I'm sick and tired of the rat race

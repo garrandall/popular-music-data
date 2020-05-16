@@ -1,9 +1,12 @@
 ---
+album: TY.O (International Version)
 artists:
 - Taio Cruz
+external_ids:
+  spotify: spotify:track:5pmL3RzOy3IvGFaSDi4hZL
 features:
 - Flo Rida
-genres: []
+first_released_as_single: false
 key: hangover-taio-cruz-flo-rida
 lyrics_url: https://www.azlyrics.com/lyrics/taiocruz/hangover.html
 name: Hangover
@@ -12,9 +15,9 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '2011-10-22'
+release_year: 2011
+runtime: 244906
 ---
-
-
 I got a hangover, whoa!
 I've been drinking too much for sure
 I got a hangover, whoa!
@@ -94,6 +97,3 @@ So I can go until I blow up, eh
 And I can drink until I throw up, eh
 And I don't ever ever want to grow up, eh
 I wanna keep it going, ke-keep, keep it going, come on!
-
-
-

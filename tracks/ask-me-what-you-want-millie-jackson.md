@@ -1,8 +1,11 @@
 ---
+album: 21 of the Best 1971-83
 artists:
 - Millie Jackson
+external_ids:
+  spotify: spotify:track:3SKIWP9bhmNSFZvFyNjAuO
 features: []
-genres: []
+first_released_as_single: false
 key: ask-me-what-you-want-millie-jackson
 lyrics_url: https://www.musixmatch.com/lyrics/Millie-Jackson/Ask-Me-What-You-Want
 name: Ask Me What You Want
@@ -63,6 +66,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1972-06-24'
+release_year: 1972
+runtime: 187542
 ---
 Come to me before your friends
 Tell you they can't help you

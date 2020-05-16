@@ -1,8 +1,11 @@
 ---
+album: The Best of Ronnie Dove Volume 2
 artists:
 - Ronnie Dove
+external_ids:
+  spotify: spotify:track:78KNbfrF7reK9Rm4XTzb8B
 features: []
-genres: []
+first_released_as_single: false
 key: mountain-of-love-ronnie-dove
 lyrics_url: https://genius.com/Ronnie-dove-mountain-of-love-lyrics
 name: Mountain Of Love
@@ -31,6 +34,8 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1968-07-13'
+release_year: 1968
+runtime: 155200
 ---
 Standing on the mountain
 Looking down on a city

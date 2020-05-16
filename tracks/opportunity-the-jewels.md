@@ -1,8 +1,11 @@
 ---
+album: 'One Kiss Can Lead To Another: Girl Group Sounds, Lost & Found'
 artists:
 - The Jewels
+external_ids:
+  spotify: spotify:track:6dEKQOQChSmEKCrcfXdsvR
 features: []
-genres: []
+first_released_as_single: false
 key: opportunity-the-jewels
 name: Opportunity
 rankings:
@@ -46,5 +49,7 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '1964-12-12'
+release_year: 1964
+runtime: 145373
 ---
 

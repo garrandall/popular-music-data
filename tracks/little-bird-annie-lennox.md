@@ -1,8 +1,11 @@
 ---
+album: Diva
 artists:
 - Annie Lennox
+external_ids:
+  spotify: spotify:track:1KX8GhTteEUlkbfzaRzbsx
 features: []
-genres: []
+first_released_as_single: false
 key: little-bird-annie-lennox
 lyrics_url: https://www.azlyrics.com/lyrics/annielennox/littlebird.html
 name: Little Bird
@@ -55,8 +58,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1993-04-10'
+release_year: 1992
+runtime: 292425
 ---
-
 I look up to the little bird
 That glides across the sky
 He sings the clearest melody
@@ -95,6 +99,3 @@ They always said that you knew best
 But this little bird's fallen out of that nest now
 I've got a feeling that it might have been blessed
 So I've just got to put these wings to test
-
-
-

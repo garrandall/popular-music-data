@@ -1,8 +1,11 @@
 ---
+album: Down In The Boondocks - 20 Great Songs
 artists:
 - Billy Joe Royal
+external_ids:
+  spotify: spotify:track:4vE5gPMXr9ZSU4o38vxaIS
 features: []
-genres: []
+first_released_as_single: false
 key: tulsa-billy-joe-royal
 lyrics_url: https://genius.com/Billy-joe-royal-tulsa-lyrics
 name: Tulsa
@@ -19,6 +22,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1971-03-06'
+release_year: 1971
+runtime: 216480
 ---
 (Jamie)
 (Don't sight) when I left Tulsa

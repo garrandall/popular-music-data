@@ -1,8 +1,11 @@
 ---
+album: Nilsson Schmilsson
 artists:
 - Nilsson
+external_ids:
+  spotify: spotify:track:4o5GyaeGMgDsrclBsL3au7
 features: []
-genres: []
+first_released_as_single: false
 key: coconut-nilsson
 lyrics_url: https://www.azlyrics.com/lyrics/harrynilsson/coconut.html
 name: Coconut
@@ -63,8 +66,9 @@ rankings:
   rank: 32
   ranking_list: Billboard Hot 100
   start_date: '1972-09-09'
+release_year: 1971
+runtime: 231733
 ---
-
 Brother bought a coconut, he bought it for a dime
 His sister had another one, she paid it for a lime
 She put the lime in the coconut, she drank them both up
@@ -143,6 +147,3 @@ If you call me in the morning, I'll tell you what to do
 If you call me in the morning, I'll tell you what to do
 If you call me in the morning, I'll tell you what to do
 Well, if you call me in the morning, I'll tell you what to do
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: The Smoker You Drink, The Player You Get
 artists:
 - Joe Walsh
+external_ids:
+  spotify: spotify:track:6Lxn6n4qQawPrjVqM6Lesx
 features: []
-genres: []
+first_released_as_single: false
 key: meadows-joe-walsh
 lyrics_url: https://www.azlyrics.com/lyrics/joewalsh/meadows.html
 name: Meadows
@@ -23,8 +26,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1974-02-02'
+release_year: 1973
+runtime: 283866
 ---
-
 Can't think of any reason
 Don't know exactly why
 Must be it's out of season
@@ -54,6 +58,3 @@ I'm out here in the meadow
 Part of an old stone wall
 Stand here because he said so
 Waitin' around to fall
-
-
-

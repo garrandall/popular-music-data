@@ -1,7 +1,8 @@
 ---
 artists:
-- The Beatles With Billy Preston
-features: []
+- The Beatles
+features:
+- Billy Preston
 genres: []
 key: don-t-let-me-down-the-beatles-with-billy-preston
 name: Don't Let Me Down

@@ -1,8 +1,11 @@
 ---
+album: Uh-HUH!
 artists:
 - John Mellencamp
+external_ids:
+  spotify: spotify:track:5JKQMoGmXwDHCodn5pFVHB
 features: []
-genres: []
+first_released_as_single: false
 key: pink-houses-john-mellencamp
 lyrics_url: https://www.azlyrics.com/lyrics/johnmellencamp/pinkhouses.html
 name: Pink Houses
@@ -71,8 +74,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1984-03-24'
+release_year: 1983
+runtime: 283666
 ---
-
 There's a black man with a black cat
 Livin' in a black neighborhood
 He's got an interstate
@@ -138,6 +142,3 @@ Little pink houses
 For you and me
 Oh
 Oh, yeah...
-
-
-

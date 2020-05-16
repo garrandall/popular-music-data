@@ -1,8 +1,11 @@
 ---
+album: We Love You Tecca
 artists:
 - Lil Tecca
+external_ids:
+  spotify: spotify:track:1ipyiYqvds0wcaFDTW6N4X
 features: []
-genres: []
+first_released_as_single: false
 key: out-of-luck-lil-tecca
 lyrics_url: https://www.azlyrics.com/lyrics/liltecca/outofluck.html
 name: Out Of Luck
@@ -11,8 +14,9 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '2019-09-14'
+release_year: 2019
+runtime: 163266
 ---
-
 Menoh!
 
 My life a movie the way they be acting
@@ -103,6 +107,3 @@ Anti-social, never done the club
 Now your ho invite me to the club
 But you're sexy, don't want to try me
 Girl, nah, that ain't enough
-
-
-

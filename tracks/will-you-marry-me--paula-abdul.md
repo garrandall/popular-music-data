@@ -1,8 +1,11 @@
 ---
+album: Spellbound
 artists:
 - Paula Abdul
+external_ids:
+  spotify: spotify:track:2I0O4qU0DVUvSCKLW0Bvs6
 features: []
-genres: []
+first_released_as_single: false
 key: will-you-marry-me--paula-abdul
 lyrics_url: https://www.azlyrics.com/lyrics/paulaabdul/willyoumarryme.html
 name: Will You Marry Me?
@@ -59,8 +62,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1992-06-27'
+release_year: 1991
+runtime: 264866
 ---
-
 JUST GIRL TO BOY
 I'D LIKE TO SHARE THIS THOUGHT WITH YOU
 OUR LOVE'S A JOY
@@ -122,6 +126,3 @@ ALL WE NEED IS
 JUST THE TWO OF US
 
 AND OOH...
-
-
-

@@ -1,9 +1,12 @@
 ---
+album: Kiss & Tell
 artists:
 - Selena Gomez
 - The Scene
+external_ids:
+  spotify: spotify:track:6PAL3nzEgroNOMurJAjpFX
 features: []
-genres: []
+first_released_as_single: false
 key: falling-down-selena-gomez-the-scene
 lyrics_url: https://genius.com/Selena-gomez-and-the-scene-falling-down-lyrics
 name: Falling Down
@@ -36,6 +39,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2010-01-09'
+release_year: 2009
+runtime: 184680
 ---
 You walk and talk like you're some new sensation
 You move in circles, you don't need an invitation

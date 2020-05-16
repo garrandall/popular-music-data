@@ -1,8 +1,11 @@
 ---
+album: Jazz Ballads Classics
 artists:
 - Anita Baker
+external_ids:
+  spotify: spotify:track:69aOeHaVpr4dxUWBW6F4Rb
 features: []
-genres: []
+first_released_as_single: false
 key: body---soul-anita-baker
 lyrics_url: https://www.azlyrics.com/lyrics/anitabaker/bodyandsoul.html
 name: Body & Soul
@@ -87,8 +90,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1995-01-14'
+release_year: 1994
+runtime: 342000
 ---
-
 Hm
 
 What have you done to me
@@ -148,6 +152,3 @@ Body and soul, soul
 Body and soul, soul
 Body and soul, soul
 Body and soul, soul
-
-
-

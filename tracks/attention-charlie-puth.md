@@ -1,8 +1,11 @@
 ---
+album: Voicenotes
 artists:
 - Charlie Puth
+external_ids:
+  spotify: spotify:track:4I8s6vwzHT2geqH91w2Dyg
 features: []
-genres: []
+first_released_as_single: true
 key: attention-charlie-puth
 lyrics_url: https://www.azlyrics.com/lyrics/charlieputh/attention.html
 name: Attention
@@ -167,8 +170,9 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2018-02-03'
+release_year: 2017
+runtime: 206702
 ---
-
 Whoa oh oh hm
 
 You've been runnin' 'round, runnin' 'round, runnin' 'round throwin' that dirt all on my name
@@ -237,6 +241,3 @@ What are you doin', huh?
 (You're just making sure I'm never gettin' over you)
 What are you doin' to me?
 What are you doin', huh?
-
-
-

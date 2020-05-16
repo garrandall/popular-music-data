@@ -1,9 +1,12 @@
 ---
+album: Let The Sunshine In
 artists:
 - Diana Ross
 - The Supremes
+external_ids:
+  spotify: spotify:track:0e27D3hGktUV6VEz3rkPqL
 features: []
-genres: []
+first_released_as_single: false
 key: the-composer-diana-ross-the-supremes
 lyrics_url: https://www.musixmatch.com/lyrics/Diana-Ross/The-Composer-feat-The-Supremes
 name: The Composer
@@ -32,6 +35,8 @@ rankings:
   rank: 31
   ranking_list: Billboard Hot 100
   start_date: '1969-05-24'
+release_year: 1969
+runtime: 180000
 ---
 You may not how
 To make words rhyme

@@ -1,8 +1,11 @@
 ---
+album: Living In The 20th Century
 artists:
 - The Steve Miller Band
+external_ids:
+  spotify: spotify:track:2CIsh4esvNKZBi78CVFh3K
 features: []
-genres: []
+first_released_as_single: false
 key: i-want-to-make-the-world-turn-around-the-steve-miller-band
 lyrics_url: https://www.azlyrics.com/lyrics/stevemillerband/iwanttomaketheworldturnaround.html
 name: I Want To Make The World Turn Around
@@ -19,8 +22,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1986-11-29'
+release_year: 1973
+runtime: 264866
 ---
-
 I don't want to live in a world of darkness
 I want to live in a world of light
 I don't want to live in a world that's heartless
@@ -60,6 +64,3 @@ We got to build it up
 Stop tearing it down
 We got to build it up
 Make the world turn around
-
-
-

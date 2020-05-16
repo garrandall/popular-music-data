@@ -1,8 +1,11 @@
 ---
+album: Shakira.
 artists:
 - Shakira
+external_ids:
+  spotify: spotify:track:1eIk4CkooTRycHSDfaShLC
 features: []
-genres: []
+first_released_as_single: false
 key: empire-shakira
 lyrics_url: https://www.azlyrics.com/lyrics/shakira/empire.html
 name: Empire
@@ -55,8 +58,9 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2014-06-28'
+release_year: 2014
+runtime: 239333
 ---
-
 Take off all of your skin
 I'm brave when you are free
 Shake off all of your sins
@@ -118,6 +122,3 @@ Oh oh
 And I'm like oh oh
 And I'm like oh oh
 And I'm like oh
-
-
-

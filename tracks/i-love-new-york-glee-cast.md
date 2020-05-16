@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music, The Complete Season Two'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:4OdlzQY1elrRbmXexXTvAp
 features: []
-genres: []
+first_released_as_single: false
 key: i-love-new-york-glee-cast
 lyrics_url: https://www.azlyrics.com/lyrics/gleecast/ilovenewyorknewyorknewyork.html
 name: I Love New York
@@ -11,9 +14,9 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '2011-06-11'
+release_year: 2011
+runtime: 164933
 ---
-
-
 I don't like cities
 But I like New York
 
@@ -126,6 +129,3 @@ I love New York (New York, New York)
 
 
 New York, New York!
-
-
-

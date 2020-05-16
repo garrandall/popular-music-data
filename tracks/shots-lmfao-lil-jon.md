@@ -1,9 +1,12 @@
 ---
+album: Party Rock
 artists:
 - LMFAO
+external_ids:
+  spotify: spotify:track:1V4jC0vJ5525lEF1bFgPX2
 features:
 - Lil Jon
-genres: []
+first_released_as_single: false
 key: shots-lmfao-lil-jon
 lyrics_url: https://genius.com/Lmfao-shots-lyrics
 name: Shots
@@ -80,6 +83,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2010-04-24'
+release_year: 2009
+runtime: 222133
 ---
 I'm fucked up!
 If you not drunk ladies and gentlemen (Uh-huh?)

@@ -1,9 +1,12 @@
 ---
+album: Made For Now
 artists:
 - Janet
 - Daddy Yankee
+external_ids:
+  spotify: spotify:track:2Ul7yRZaxGcWCzQg7m632Z
 features: []
-genres: []
+first_released_as_single: true
 key: made-for-now-janet-daddy-yankee
 lyrics_url: https://genius.com/Janet-jackson-made-for-now-lyrics
 name: Made For Now
@@ -12,6 +15,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2018-09-01'
+release_year: 2018
+runtime: 210685
 ---
 Janet Jackson
 Iconic

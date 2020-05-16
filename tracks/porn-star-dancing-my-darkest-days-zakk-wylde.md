@@ -1,9 +1,12 @@
 ---
+album: My Darkest Days
 artists:
 - My Darkest Days
+external_ids:
+  spotify: spotify:track:3Q8zopc4ABXhysDb1sgLVW
 features:
 - Zakk Wylde
-genres: []
+first_released_as_single: false
 key: porn-star-dancing-my-darkest-days-zakk-wylde
 lyrics_url: https://www.azlyrics.com/lyrics/mydarkestdays/pornstardancing108243.html
 name: Porn Star Dancing
@@ -36,8 +39,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2011-01-22'
+release_year: 2010
+runtime: 199013
 ---
-
 Kelly won't kiss my friend, Cassandra
 Jessica won't play ball
 Mandy won't share her friend, Miranda
@@ -108,6 +112,3 @@ She don't play nice, she makes me beg
 She drops that dress around her legs
 And I'm sittin right by the stage for this
 Porn star dancin'
-
-
-

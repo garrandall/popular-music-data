@@ -1,8 +1,11 @@
 ---
+album: Farewell Andromeda
 artists:
 - John Denver
+external_ids:
+  spotify: spotify:track:6BE7wBQqdQQudliybOH6r9
 features: []
-genres: []
+first_released_as_single: false
 key: i-d-rather-be-a-cowboy-john-denver
 lyrics_url: https://genius.com/John-denver-id-rather-be-a-cowboy-ladys-chains-lyrics
 name: I'd Rather Be A Cowboy
@@ -47,6 +50,8 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1973-07-28'
+release_year: 1973
+runtime: 266053
 ---
 Jessie went away last summer, couple of months ago
 After all our time together it was hard to see her go

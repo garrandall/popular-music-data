@@ -1,8 +1,11 @@
 ---
+album: Aura
 artists:
 - Ozuna
+external_ids:
+  spotify: spotify:track:33b2wX9d0kxqxhi7lcsC1A
 features: []
-genres: []
+first_released_as_single: false
 key: unica-ozuna
 lyrics_url: https://genius.com/Ozuna-unica-lyrics
 name: Unica
@@ -11,6 +14,8 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '2018-09-08'
+release_year: 2018
+runtime: 218386
 ---
 Salgo a gastar unos poco' (poco')
 Música en el Lambo pa' que te relaje' (relaje')

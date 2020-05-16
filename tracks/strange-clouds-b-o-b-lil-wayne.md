@@ -1,9 +1,12 @@
 ---
+album: 'EPIC: Every Play Is Crucial'
 artists:
 - B.o.B
+external_ids:
+  spotify: spotify:track:6Xi7Ga4bA2XuLq2YpZAdLm
 features:
 - Lil Wayne
-genres: []
+first_released_as_single: false
 key: strange-clouds-b-o-b-lil-wayne
 lyrics_url: https://www.azlyrics.com/lyrics/bob/strangeclouds.html
 name: Strange Clouds
@@ -88,9 +91,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2012-02-25'
+release_year: 2011
+runtime: 208533
 ---
-
-
 Yeah
 Hahaha
 Oh you already know we gon' do
@@ -170,6 +173,3 @@ All night, drinks out
 And all we do is light it up
 All night, all you see is strange clouds
 Strange clouds, strange clouds
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Turn! Turn! Turn!
 artists:
 - The Byrds
+external_ids:
+  spotify: spotify:track:3LWorN8S7IKJhPyeEQ4yIH
 features: []
-genres: []
+first_released_as_single: false
 key: set-you-free-this-time-the-byrds
 lyrics_url: https://www.azlyrics.com/lyrics/byrds/setyoufreethistime.html
 name: Set You Free This Time
@@ -23,8 +26,9 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1966-02-26'
+release_year: 1965
+runtime: 169000
 ---
-
 The first thing that I heard you say when you were standing there
 Set in your way was that you were not blind
 You were sure to make a fool of me cause there was nothing there
@@ -48,6 +52,3 @@ There was only something you can look at lying in your hand
 Now who's wondering what has changed and why it can not be arranged
 To have each thing work fine
 It isn't how it was set up to be but I'll set you free this time
-
-
-

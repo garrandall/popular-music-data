@@ -1,8 +1,11 @@
 ---
+album: Company B
 artists:
 - Company B
+external_ids:
+  spotify: spotify:track:1mk6Ts3Rl80ZiRuGdV8ydx
 features: []
-genres: []
+first_released_as_single: false
 key: fascinated-company-b
 lyrics_url: https://genius.com/Company-b-fascinated-lyrics
 name: Fascinated
@@ -79,6 +82,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1987-07-18'
+release_year: 1987
+runtime: 326466
 ---
 I want to play with you tonight
 Hold me

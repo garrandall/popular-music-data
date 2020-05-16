@@ -1,8 +1,11 @@
 ---
+album: The Definitive Collection
 artists:
 - Brenda Lee
+external_ids:
+  spotify: spotify:track:3QNrN2Wzl0KshnGcR1VJj3
 features: []
-genres: []
+first_released_as_single: false
 key: your-used-to-be-brenda-lee
 lyrics_url: https://genius.com/Brenda-lee-your-used-to-be-lyrics
 name: Your Used To Be
@@ -35,6 +38,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1963-03-09'
+release_year: 1963
+runtime: 131306
 ---
 Your used to be, that's me, that's me
 I was your was, she is your is

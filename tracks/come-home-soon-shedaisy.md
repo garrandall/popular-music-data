@@ -1,8 +1,11 @@
 ---
+album: Sweet Right Here
 artists:
 - SHeDAISY
+external_ids:
+  spotify: spotify:track:5q8WL51d8vXvGSwDdfzgJ0
 features: []
-genres: []
+first_released_as_single: false
 key: come-home-soon-shedaisy
 lyrics_url: https://www.azlyrics.com/lyrics/shedaisy/comehomesoon.html
 name: Come Home Soon
@@ -35,8 +38,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2005-01-22'
+release_year: 2004
+runtime: 242053
 ---
-
 I put away the groceries
 And I take my daily bread
 I dream of your arms around me
@@ -88,6 +92,3 @@ So please, come home soon
 
 Come home soon
 Come home soon
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Wild Ones
 artists:
 - Flo Rida
+external_ids:
+  spotify: spotify:track:3NcO4jGK1Opb5ea0mYLpxb
 features: []
-genres: []
+first_released_as_single: true
 key: good-feeling-flo-rida
 lyrics_url: https://genius.com/Flo-rida-good-feeling-lyrics
 name: Good Feeling
@@ -155,6 +158,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2012-06-23'
+release_year: 2011
+runtime: 248133
 ---
 Oh, oh, sometimes I get a good feeling, yeah
 I get a feeling that I

@@ -1,9 +1,12 @@
 ---
+album: Still Crazy After All These Years
 artists:
 - Paul Simon
 - Phoebe Snow
+external_ids:
+  spotify: spotify:track:5oROkcna6Wods0AJXmRzS0
 features: []
-genres: []
+first_released_as_single: false
 key: gone-at-last-paul-simon-phoebe-snow
 lyrics_url: https://genius.com/Paul-simon-gone-at-last-lyrics
 name: Gone At Last
@@ -48,6 +51,8 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '1975-10-18'
+release_year: 1975
+runtime: 220946
 ---
 The night was black, the roads were icy
 Snow was falling, drifts were high

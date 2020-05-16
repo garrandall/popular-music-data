@@ -1,8 +1,11 @@
 ---
+album: Going Solo with Steve Lawrence
 artists:
 - Steve Lawrence
+external_ids:
+  spotify: spotify:track:2tve82MQkxXX1WsdxpI4sk
 features: []
-genres: []
+first_released_as_single: false
 key: -i-don-t-care--only-love-me-steve-lawrence
 lyrics_url: https://www.musixmatch.com/lyrics/Steve-Lawrence/I-Don-T-Care-Only-Love-Me
 name: (I Don't Care) Only Love Me
@@ -23,6 +26,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1959-06-08'
+release_year: 1959
+runtime: 153600
 ---
 Oh I don't care how much you love me
 Only love me

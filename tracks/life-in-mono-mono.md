@@ -1,8 +1,11 @@
 ---
+album: Formica Blues
 artists:
 - Mono
+external_ids:
+  spotify: spotify:track:2kKXdLmAm62JxGGtArFKIi
 features: []
-genres: []
+first_released_as_single: true
 key: life-in-mono-mono
 lyrics_url: https://genius.com/Mono-life-in-mono-lyrics
 name: Life In Mono
@@ -67,6 +70,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1998-05-23'
+release_year: 1996
+runtime: 228733
 ---
 The stranger sang a theme
 From someone else's dream

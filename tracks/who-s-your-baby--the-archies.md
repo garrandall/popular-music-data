@@ -1,8 +1,11 @@
 ---
+album: 'The Archies: Greatest Hits'
 artists:
 - The Archies
+external_ids:
+  spotify: spotify:track:0Z29vGryuCuKA9BAwICGKf
 features: []
-genres: []
+first_released_as_single: false
 key: who-s-your-baby--the-archies
 lyrics_url: https://genius.com/The-archies-whos-your-baby-lyrics
 name: Who's Your Baby?
@@ -35,6 +38,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1970-04-18'
+release_year: 1968
+runtime: 172255
 ---
 Hey
 What's your favourite thing in the world ?

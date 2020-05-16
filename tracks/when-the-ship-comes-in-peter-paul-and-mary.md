@@ -1,8 +1,11 @@
 ---
+album: A Song Will Rise
 artists:
 - Peter, Paul, and Mary
+external_ids:
+  spotify: spotify:track:03xqKkIVYcDk4PQACbWDdo
 features: []
-genres: []
+first_released_as_single: false
 key: when-the-ship-comes-in-peter-paul-and-mary
 lyrics_url: https://www.azlyrics.com/lyrics/peterpaulandmary/whentheshipcomesin.html
 name: When The Ship Comes In
@@ -19,8 +22,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1965-05-29'
+release_year: 1965
+runtime: 158840
 ---
-
 Oh the time will come up when the wind will stop
 And the breeze will cease to be breathin'
 Like the stillness in the wind 'fore the hurricane begins
@@ -62,6 +66,3 @@ And they'll raise their hands sayin'
 But we'll shout from the bow "Your days are numbered!"
 And like Pharaoh's tribe they'll be drownded in the tide
 And like Goliath they'll be conquered!
-
-
-

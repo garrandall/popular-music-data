@@ -1,9 +1,12 @@
 ---
+album: Juslisen
 artists:
 - The Roots
+external_ids:
+  spotify: spotify:track:3eotTijEXqXvBwkJSBuZwN
 features:
 - Musiq
-genres: []
+first_released_as_single: true
 key: break-you-off-the-roots-musiq
 lyrics_url: https://www.azlyrics.com/lyrics/roots/breakyouoff.html
 name: Break You Off
@@ -12,9 +15,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2003-03-15'
+release_year: 2002
+runtime: 216346
 ---
-
-
 I'm coming to break you off (beat started...start-started..)
 I'm coming to break you off (beat started...start-started..)
 I'm coming to break you off (beat started...start-started..)
@@ -100,6 +103,3 @@ I'm coming to break you off (beat started...start-started..)
 I'm coming to break you off (beat started...start-started..)
 I'm coming to break you off (beat started...start-started..)
 Yeah Baby
-
-
-

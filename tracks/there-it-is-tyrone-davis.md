@@ -1,8 +1,11 @@
 ---
+album: 20 Greatest Hits
 artists:
 - Tyrone Davis
+external_ids:
+  spotify: spotify:track:1VdAn3xx7LrZO0Pg1Mb933
 features: []
-genres: []
+first_released_as_single: false
 key: there-it-is-tyrone-davis
 lyrics_url: https://genius.com/Tyrone-davis-there-it-is-lyrics
 name: There It Is
@@ -43,6 +46,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1973-09-22'
+release_year: 1973
+runtime: 253400
 ---
 Here I am with tears in my eyes
 I can't help but to cry at

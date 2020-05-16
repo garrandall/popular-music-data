@@ -1,8 +1,11 @@
 ---
+album: Rock Me Tonight
 artists:
 - Freddie Jackson
+external_ids:
+  spotify: spotify:track:7pzkpCkXfU99i4Bm5KG0oM
 features: []
-genres: []
+first_released_as_single: false
 key: rock-me-tonight-freddie-jackson
 lyrics_url: https://www.azlyrics.com/lyrics/freddiejackson/rockmetonightforoldtimessake.html
 name: Rock Me Tonight
@@ -83,8 +86,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1985-09-28'
+release_year: 1985
+runtime: 432160
 ---
-
 Oh, come on and rock me, oh, girl
 Oh, come on and rock me, oh, girl
 
@@ -167,6 +171,3 @@ I wanna rock and roll with you, baby
 Come on, hey
 I'm gonna rock and roll and hold and squeeze ya
 Sweet thing, yeah
-
-
-

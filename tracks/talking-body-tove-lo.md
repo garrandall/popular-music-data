@@ -1,8 +1,11 @@
 ---
+album: Queen Of The Clouds
 artists:
 - Tove Lo
+external_ids:
+  spotify: spotify:track:3NS3174GAS0Wt1LimIXb3E
 features: []
-genres: []
+first_released_as_single: false
 key: talking-body-tove-lo
 lyrics_url: https://genius.com/Tove-lo-talking-body-lyrics
 name: Talking Body
@@ -127,6 +130,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2015-09-05'
+release_year: 2014
+runtime: 238493
 ---
 Hey, hey
 

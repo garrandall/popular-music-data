@@ -1,8 +1,11 @@
 ---
+album: Candlebox
 artists:
 - Candlebox
+external_ids:
+  spotify: spotify:track:3mhOmh4tRKsMfnRmgZfeBm
 features: []
-genres: []
+first_released_as_single: false
 key: far-behind-candlebox
 lyrics_url: https://www.azlyrics.com/lyrics/candlebox/farbehind.html
 name: Far Behind
@@ -99,8 +102,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1995-01-28'
+release_year: 1993
+runtime: 299733
 ---
-
 Now maybe
 I did not mean to treat you bad
 But I did it anyway
@@ -163,6 +167,3 @@ I didn't mean to treat you bad
 But you left me far behind
 Left me far behind
 Left me far behind
-
-
-

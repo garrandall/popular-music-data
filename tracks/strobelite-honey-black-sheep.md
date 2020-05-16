@@ -1,8 +1,11 @@
 ---
+album: A Wolf In Sheep's Clothing
 artists:
 - Black Sheep
+external_ids:
+  spotify: spotify:track:1ppE6XvxAX2EOR5POLUzy0
 features: []
-genres: []
+first_released_as_single: false
 key: strobelite-honey-black-sheep
 lyrics_url: https://genius.com/Black-sheep-strobelite-honey-lyrics
 name: Strobelite Honey
@@ -39,6 +42,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1992-08-29'
+release_year: 1991
+runtime: 185560
 ---
 I skipped the line, I paid my dime
 I hung my coat, and now it's time

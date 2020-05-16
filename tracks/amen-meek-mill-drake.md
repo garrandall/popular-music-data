@@ -1,9 +1,12 @@
 ---
+album: Dreams and Nightmares
 artists:
 - Meek Mill
+external_ids:
+  spotify: spotify:track:4fjsZYsmRqfiq6pMdoFa8I
 features:
 - Drake
-genres: []
+first_released_as_single: true
 key: amen-meek-mill-drake
 lyrics_url: https://genius.com/Meek-mill-amen-lyrics
 name: Amen
@@ -80,6 +83,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2012-11-03'
+release_year: 2012
+runtime: 289946
 ---
 I just wanna thank God
 For all the pretty women he let into my life

@@ -1,9 +1,12 @@
 ---
+album: Sensual Seduction
 artists:
 - Snoop Dogg
+external_ids:
+  spotify: spotify:track:4PpKZcyNfIuzOxybammiYE
 features:
 - R. Kelly
-genres: []
+first_released_as_single: true
 key: that-s-that-snoop-dogg-r--kelly
 lyrics_url: https://www.azlyrics.com/lyrics/snoopdogg/thatsthat.html
 name: That's That
@@ -72,11 +75,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2007-03-17'
+release_year: 2006
+runtime: 257773
 ---
-
-
-
-
 I pull up, whip low in the Phantom
 With the wheels spinnin'
 Ladies like
@@ -233,6 +234,3 @@ Snoop Dizzle (Hey)
 Your boy Kells (Hey)
 Let me hear you say
 That's that shit
-
-
-

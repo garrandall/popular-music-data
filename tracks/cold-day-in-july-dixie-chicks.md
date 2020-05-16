@@ -1,8 +1,11 @@
 ---
+album: Fly
 artists:
 - Dixie Chicks
+external_ids:
+  spotify: spotify:track:2dtitppHZmA0MxLZ3Giq3o
 features: []
-genres: []
+first_released_as_single: false
 key: cold-day-in-july-dixie-chicks
 lyrics_url: https://www.azlyrics.com/lyrics/dixiechicks/colddayinjuly.html
 name: Cold Day In July
@@ -47,8 +50,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2000-08-26'
+release_year: 1999
+runtime: 312693
 ---
-
 The moon is full and my arms are empty
 All night long I've pleaded and cried
 You always said the day that you would leave me
@@ -94,6 +98,3 @@ Yeah
 Oh yeah
 la da da la da da la da da
 Oh Ooo
-
-
-

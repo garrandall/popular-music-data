@@ -1,9 +1,12 @@
 ---
+album: Not for Long
 artists:
 - B.o.B
+external_ids:
+  spotify: spotify:track:5YMNu5AoZWTV1lQp1xi0Qn
 features:
 - Trey Songz
-genres: []
+first_released_as_single: true
 key: not-for-long-b-o-b-trey-songz
 lyrics_url: https://www.azlyrics.com/lyrics/bob/notforlong.html
 name: Not For Long
@@ -44,9 +47,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2015-03-21'
+release_year: 2014
+runtime: 215342
 ---
-
-
 You will be mine
 Even if you're somebody elses
 But not for long
@@ -99,4 +102,3 @@ But I still see that you finna be with a G like me
 You'll never need, no one else
 And I know you know
 I'ma be like I told you so
-

@@ -1,8 +1,11 @@
 ---
+album: Lovers Who Wander
 artists:
 - Dion
+external_ids:
+  spotify: spotify:track:6fww29GnfeF4BJoDjO3qM5
 features: []
-genres: []
+first_released_as_single: false
 key: -i-was--born-to-cry-dion
 lyrics_url: https://genius.com/Dion-i-was-born-to-cry-lyrics
 name: (I was) Born To Cry
@@ -35,6 +38,8 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '1962-06-02'
+release_year: 1962
+runtime: 144813
 ---
 Yeah, yeah, yeah
 

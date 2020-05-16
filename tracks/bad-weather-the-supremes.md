@@ -1,8 +1,11 @@
 ---
+album: In Japan!
 artists:
 - The Supremes
+external_ids:
+  spotify: spotify:track:4i5SwHsHJlrDjRxheqgx9f
 features: []
-genres: []
+first_released_as_single: false
 key: bad-weather-the-supremes
 lyrics_url: https://genius.com/The-supremes-bad-weather-lyrics
 name: Bad Weather
@@ -11,6 +14,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1973-06-09'
+release_year: 1973
+runtime: 308280
 ---
 Oh, oh oohoh
 Oh oh oh

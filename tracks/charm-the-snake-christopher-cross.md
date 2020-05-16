@@ -1,8 +1,11 @@
 ---
+album: Every Turn of the World
 artists:
 - Christopher Cross
+external_ids:
+  spotify: spotify:track:6jsgtMAZORR5XR6N0mT54Q
 features: []
-genres: []
+first_released_as_single: false
 key: charm-the-snake-christopher-cross
 lyrics_url: https://www.azlyrics.com/lyrics/christophercross/charmthesnake.html
 name: Charm The Snake
@@ -27,8 +30,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1985-11-23'
+release_year: 1985
+runtime: 267040
 ---
-
 You gotta be smart
 You gotta be cool
 You gotta keep a straight face
@@ -105,6 +109,3 @@ Charm that snake
 Whoa, you gotta charm that snake now, baby
 Whoa, you gotta charm that snake now, baby
 Charm that snake
-
-
-

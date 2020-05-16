@@ -1,8 +1,11 @@
 ---
+album: Back Into Blue
 artists:
 - Quarterflash
+external_ids:
+  spotify: spotify:track:7I3BK99f2ZhTF1moaPxap2
 features: []
-genres: []
+first_released_as_single: false
 key: talk-to-me-quarterflash
 lyrics_url: https://www.azlyrics.com/lyrics/quarterflash/talktome.html
 name: Talk To Me
@@ -31,8 +34,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1985-11-23'
+release_year: 1985
+runtime: 299240
 ---
-
 There's some out there tonight
 Who's lost and lonely, too
 There's a heart beating just with mine
@@ -67,6 +71,3 @@ Talk to me, open up your heart
 Oh love's so lonely when you're in the dark
 Talk to me, take it from the start
 Oh, love comes easy when you show your heart
-
-
-

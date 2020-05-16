@@ -1,9 +1,12 @@
 ---
+album: Let It Loose
 artists:
 - Gloria Estefan
 - Miami Sound Machine
+external_ids:
+  spotify: spotify:track:1dDHyWQwUZSS2FVY7I6Ezp
 features: []
-genres: []
+first_released_as_single: false
 key: anything-for-you-gloria-estefan-miami-sound-machine
 lyrics_url: https://genius.com/Gloria-estefan-anything-for-you-lyrics
 name: Anything For You
@@ -100,6 +103,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1988-08-13'
+release_year: 1984
+runtime: 224026
 ---
 Anything for you
 Though you're not here

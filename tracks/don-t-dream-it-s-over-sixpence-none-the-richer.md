@@ -1,8 +1,11 @@
 ---
+album: Divine Discontent
 artists:
 - Sixpence None The Richer
+external_ids:
+  spotify: spotify:track:0uEbrJ0jHlUspP9i6zNBCC
 features: []
-genres: []
+first_released_as_single: true
 key: don-t-dream-it-s-over-sixpence-none-the-richer
 lyrics_url: https://genius.com/Sixpence-none-the-richer-dont-dream-its-over-lyrics
 name: Don't Dream It's Over
@@ -31,6 +34,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2003-04-26'
+release_year: 2002
+runtime: 205813
 ---
 There is freedom within, there is freedom without
 Try to catch the deluge in a paper cup

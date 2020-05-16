@@ -1,8 +1,11 @@
 ---
+album: Devil in Blue Jeans
 artists:
 - Oliver
+external_ids:
+  spotify: spotify:track:5F004ASyy7rI1trVqAQABT
 features: []
-genres: []
+first_released_as_single: false
 key: jean-oliver
 lyrics_url: https://genius.com/Oliver-francis-jean-lyrics
 name: Jean
@@ -63,6 +66,8 @@ rankings:
   rank: 33
   ranking_list: Billboard Hot 100
   start_date: '1969-11-15'
+release_year: 1969
+runtime: 191400
 ---
 Jean, Jean, roses are red
 All the leaves have gone green

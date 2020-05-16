@@ -1,8 +1,11 @@
 ---
+album: Evangeline
 artists:
 - Emmylou Harris
+external_ids:
+  spotify: spotify:track:3UP0fGC6X9uHp2gG6PFfgM
 features: []
-genres: []
+first_released_as_single: false
 key: mister-sandman-emmylou-harris
 lyrics_url: https://www.azlyrics.com/lyrics/emmylouharris/mistersandman.html
 name: Mister Sandman
@@ -59,8 +62,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1981-05-23'
+release_year: 1981
+runtime: 142773
 ---
-
 Mister Sandman, bring me a dream
 Make him the cutest that I've ever seen
 Give him two lips like roses and clover
@@ -87,6 +91,3 @@ Sp please turn on your magic beam
 Mister Sandman, bring us
 Please, please, please
 Mister Sandman, bring us a dream
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music, The Complete Season Three'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:0bL8hWpF9KH2QlvLgDJtYM
 features: []
-genres: []
+first_released_as_single: false
 key: i-will-always-love-you-glee-cast
 lyrics_url: https://genius.com/Glee-cast-i-will-always-love-you-lyrics
 name: I Will Always Love You
@@ -11,6 +14,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '2012-03-03'
+release_year: 2012
+runtime: 268000
 ---
 Mercedes:
 If I should stay

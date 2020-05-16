@@ -1,8 +1,11 @@
 ---
+album: Scorpion
 artists:
 - Drake
+external_ids:
+  spotify: spotify:track:2G7V7zsVDxg1yRsu7Ew9RJ
 features: []
-genres: []
+first_released_as_single: false
 key: in-my-feelings-drake
 lyrics_url: https://genius.com/Drake-in-my-feelings-lyrics
 name: In My Feelings
@@ -95,6 +98,8 @@ rankings:
   rank: 37
   ranking_list: Billboard Hot 100
   start_date: '2018-12-08'
+release_year: 2018
+runtime: 217925
 ---
 Trap, TrapMoneyBenny
 This shit got me in my feelings

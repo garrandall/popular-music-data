@@ -1,8 +1,11 @@
 ---
+album: Fallen Empires
 artists:
 - Snow Patrol
+external_ids:
+  spotify: spotify:track:4BBt0kc625eUAdG2XpWPHm
 features: []
-genres: []
+first_released_as_single: false
 key: called-out-in-the-dark-snow-patrol
 lyrics_url: https://www.azlyrics.com/lyrics/snowpatrol/calledoutinthedark.html
 name: Called Out In The Dark
@@ -11,8 +14,9 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '2012-01-28'
+release_year: 2011
+runtime: 241933
 ---
-
 It's like we just can't help ourselves
 'Cause we don't know how to back down
 We were called out to the streets
@@ -54,4 +58,3 @@ We are listening
 And we're not blind
 This is your life
 This is your time
-

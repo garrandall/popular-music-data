@@ -1,8 +1,11 @@
 ---
+album: Fun-Tastic
 artists:
 - Fun Factory
+external_ids:
+  spotify: spotify:track:7qagFssHDfL41t0PSOL1yn
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-go-away-fun-factory
 lyrics_url: https://www.musixmatch.com/lyrics/Fun-Factory/Don-t-Go-Away
 name: Don't Go Away
@@ -23,6 +26,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1996-11-23'
+release_year: 1996
+runtime: 208160
 ---
 Don't go away, please stay by my side
 Just hold me tight

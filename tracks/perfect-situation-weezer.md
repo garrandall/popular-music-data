@@ -1,8 +1,11 @@
 ---
+album: Make Believe
 artists:
 - Weezer
+external_ids:
+  spotify: spotify:track:1D7UBHqaPWDbBHs2S5YXge
 features: []
-genres: []
+first_released_as_single: false
 key: perfect-situation-weezer
 lyrics_url: https://www.azlyrics.com/lyrics/weezer/perfectsituation.html
 name: Perfect Situation
@@ -75,8 +78,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2006-04-15'
+release_year: 2005
+runtime: 254333
 ---
-
 What's the deal with my brain?
 Why am I so obviously insane?
 In a perfect situation
@@ -124,6 +128,3 @@ Singing...
 Oh oh. Oh oh. Oh.
 Singing...
 Oh
-
-
-

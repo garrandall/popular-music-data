@@ -1,9 +1,12 @@
 ---
+album: The Real Testament
 artists:
 - Plies
+external_ids:
+  spotify: spotify:track:6olIWF9LZgO0Eij4CeORQV
 features:
 - T-Pain
-genres: []
+first_released_as_single: true
 key: shawty-plies-t-pain
 lyrics_url: https://genius.com/Plies-shawty-lyrics
 name: Shawty
@@ -96,6 +99,8 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '2007-11-24'
+release_year: 2007
+runtime: 255413
 ---
 Ay, what's happenin homey?
 This yo' lil' boy Plies, man (shaw-tay)

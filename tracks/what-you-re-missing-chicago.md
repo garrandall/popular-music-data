@@ -1,8 +1,11 @@
 ---
+album: Chicago 16
 artists:
 - Chicago
+external_ids:
+  spotify: spotify:track:49VkUiEBFzlMlXZN4fk7sL
 features: []
-genres: []
+first_released_as_single: false
 key: what-you-re-missing-chicago
 lyrics_url: https://genius.com/Chicago-what-youre-missing-lyrics
 name: What You're Missing
@@ -27,6 +30,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1983-02-26'
+release_year: 1982
+runtime: 209304
 ---
 All we wanted was each other
 Nothing more

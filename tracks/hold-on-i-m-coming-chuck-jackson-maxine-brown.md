@@ -1,9 +1,12 @@
 ---
+album: Super Hits
 artists:
 - Chuck Jackson
 - Maxine Brown
+external_ids:
+  spotify: spotify:track:3M7lh7hFUeRnTGOSJsdT27
 features: []
-genres: []
+first_released_as_single: false
 key: hold-on-i-m-coming-chuck-jackson-maxine-brown
 lyrics_url: https://www.musixmatch.com/lyrics/Chuck-Jackson-feat-Maxine-Brown/Hold-on-I-m-Coming
 name: Hold On I'm Coming
@@ -24,6 +27,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1967-04-01'
+release_year: 1967
+runtime: 175106
 ---
 Now don't you ever be sad
 Lean on me when your times are bad

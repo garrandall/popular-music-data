@@ -1,8 +1,11 @@
 ---
+album: Nightwalker
 artists:
 - Gino Vannelli
+external_ids:
+  spotify: spotify:track:6PNGlVBS65UVMb78YO6ABc
 features: []
-genres: []
+first_released_as_single: false
 key: living-inside-myself-gino-vannelli
 lyrics_url: https://www.azlyrics.com/lyrics/ginovannelli/livinginsidemyself.html
 name: Living Inside Myself
@@ -87,8 +90,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1981-08-01'
+release_year: 1979
+runtime: 262613
 ---
-
 In my life
 I've felt so self assured
 But suddenly it's all changed
@@ -140,6 +144,3 @@ Living inside myself
 Living inside this shell
 Living outside your love
 I am lost
-
-
-

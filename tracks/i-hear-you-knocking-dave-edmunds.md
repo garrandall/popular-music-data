@@ -1,8 +1,11 @@
 ---
+album: I Hear You Rockin'
 artists:
 - Dave Edmunds
+external_ids:
+  spotify: spotify:track:2XusUYHMIaqwd3I2ZPQpHB
 features: []
-genres: []
+first_released_as_single: false
 key: i-hear-you-knocking-dave-edmunds
 lyrics_url: https://genius.com/Dave-edmunds-i-hear-you-knocking-lyrics
 name: I Hear You Knocking
@@ -55,6 +58,8 @@ rankings:
   rank: 26
   ranking_list: Billboard Hot 100
   start_date: '1971-03-13'
+release_year: 1970
+runtime: 147911
 ---
 You went away and left me long time ago
 And now you're knockin' on my door

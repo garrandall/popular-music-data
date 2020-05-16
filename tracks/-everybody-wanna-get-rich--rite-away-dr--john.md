@@ -1,8 +1,11 @@
 ---
+album: Destively Bonnaroo
 artists:
 - Dr. John
+external_ids:
+  spotify: spotify:track:2a0fkN8dbA5Kh8SR7cvl3D
 features: []
-genres: []
+first_released_as_single: false
 key: -everybody-wanna-get-rich--rite-away-dr--john
 lyrics_url: https://www.azlyrics.com/lyrics/drjohn/everybodywannagetrichriteaway.html
 name: (everybody Wanna Get Rich) Rite Away
@@ -23,8 +26,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1974-06-01'
+release_year: 1974
+runtime: 163933
 ---
-
 Hot change
 Got it right in the groove
 And a rang-a-tang Joe
@@ -45,6 +49,3 @@ A racka tacka tacka tacka rum-dum thing
 It's a racka tacka tacka tacka rum-dum game
 A racka tacka tacka tacka rum-dum thing
 It's a racka tacka tacka tacka rum-dum game..
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Right Here
 artists:
 - Eddie Money
+external_ids:
+  spotify: spotify:track:2zYWVAsSGYtXVemcXlKpqL
 features: []
-genres: []
+first_released_as_single: false
 key: i-ll-get-by-eddie-money
 lyrics_url: https://genius.com/Eddie-money-ill-get-by-lyrics
 name: I'll Get By
@@ -87,6 +90,8 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1992-05-02'
+release_year: 1977
+runtime: 212200
 ---
 Give me one last look
 As you walk away

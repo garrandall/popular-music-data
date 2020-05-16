@@ -1,8 +1,11 @@
 ---
+album: Going Back To Detroit
 artists:
 - The Platters
+external_ids:
+  spotify: spotify:track:6tDoriALbmVqkXJEgQd5oo
 features: []
-genres: []
+first_released_as_single: false
 key: with-this-ring-the-platters
 lyrics_url: https://genius.com/The-platters-with-this-ring-lyrics
 name: With This Ring
@@ -55,6 +58,8 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '1967-05-13'
+release_year: 1967
+runtime: 163760
 ---
 With this ring I promise I'll always love you, always love you
 With this ring I promise I'll always love you, always love you

@@ -1,8 +1,11 @@
 ---
+album: "\xF7"
 artists:
 - Ed Sheeran
+external_ids:
+  spotify: spotify:track:51ChrwmUPDJvedPQnIU8Ls
 features: []
-genres: []
+first_released_as_single: false
 key: dive-ed-sheeran
 lyrics_url: https://genius.com/Ed-sheeran-dive-lyrics
 name: Dive
@@ -15,6 +18,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '2017-04-01'
+release_year: 2017
+runtime: 238440
 ---
 Oh, maybe I came on too strong
 Maybe I waited too long

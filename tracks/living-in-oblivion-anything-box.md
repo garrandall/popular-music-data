@@ -1,8 +1,11 @@
 ---
+album: Peace
 artists:
 - Anything Box
+external_ids:
+  spotify: spotify:track:3YvWI3uLVvPjnWNgfgXht0
 features: []
-genres: []
+first_released_as_single: false
 key: living-in-oblivion-anything-box
 lyrics_url: https://genius.com/Anything-box-living-in-oblivion-lyrics
 name: Living In Oblivion
@@ -47,6 +50,8 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1990-04-21'
+release_year: 1990
+runtime: 306746
 ---
 You can't hide the pain
 I can see it scrawled on your empty face

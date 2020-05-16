@@ -1,8 +1,11 @@
 ---
+album: Answers to Nothing (Deluxe Version)
 artists:
 - Midge Ure
+external_ids:
+  spotify: spotify:track:3W4rGT4snRgcqzfyfOZlao
 features: []
-genres: []
+first_released_as_single: true
 key: dear-god-midge-ure
 lyrics_url: https://www.azlyrics.com/lyrics/midgeure/deargod.html
 name: Dear God
@@ -27,8 +30,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1989-04-08'
+release_year: 1988
+runtime: 488760
 ---
-
 Dear God, is there somebody out there?
 Is there someone to hear my prayer?
 I'm a simple man with simple words to say
@@ -85,6 +89,3 @@ Give me, peace in our restless world
 
 Dear god, is there somebody out there
 Is there someone to hear my prayer
-
-
-

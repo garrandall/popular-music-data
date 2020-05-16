@@ -1,8 +1,11 @@
 ---
+album: That Lonesome Song
 artists:
 - Jamey Johnson
+external_ids:
+  spotify: spotify:track:7CNd7rjfVt74TFlcOcnZgN
 features: []
-genres: []
+first_released_as_single: false
 key: in-color-jamey-johnson
 lyrics_url: https://genius.com/Jamey-johnson-in-color-lyrics
 name: In Color
@@ -79,6 +82,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2009-02-14'
+release_year: 2008
+runtime: 290680
 ---
 I said Grandpa what's this picture here
 It's all black and white, and it ain't real clear

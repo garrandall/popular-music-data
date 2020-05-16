@@ -1,9 +1,12 @@
 ---
+album: The Marshall Mathers LP2
 artists:
 - Eminem
+external_ids:
+  spotify: spotify:track:7hiBhOh4s8G0xmGYBAjyuw
 features:
 - Sia
-genres: []
+first_released_as_single: false
 key: beautiful-pain-eminem-sia
 lyrics_url: https://www.azlyrics.com/lyrics/eminem/beautifulpain.html
 name: Beautiful Pain
@@ -12,9 +15,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2013-11-23'
+release_year: 2013
+runtime: 265025
 ---
-
-
 I can feel the heat rising, everything is on fire
 Today is a painful reminder of why
 We can only get brighter
@@ -136,6 +139,3 @@ I'm standin' in the flames
 It's a beautiful kind of pain
 Settin' fire to yesterday
 Find the light, find the light, find the light
-
-
-

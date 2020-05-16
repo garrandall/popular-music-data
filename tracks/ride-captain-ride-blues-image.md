@@ -1,8 +1,11 @@
 ---
+album: Open (US Internet Release)
 artists:
 - Blues Image
+external_ids:
+  spotify: spotify:track:1d9hUvkv64Wmdu671Dydpc
 features: []
-genres: []
+first_released_as_single: false
 key: ride-captain-ride-blues-image
 lyrics_url: https://genius.com/Blues-image-ride-captain-ride-lyrics
 name: Ride Captain Ride
@@ -67,9 +70,9 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '1970-08-15'
+release_year: 1970
+runtime: 225560
 ---
-
-
 Seventy-three men sailed up from the San Francisco Bay
 Rolled off of their ship, and here's what they had to say
 "We're callin' everyone to ride along to another shore
@@ -104,5 +107,3 @@ On your way to a world that others might have missed
 
 Ride, captain ride upon your mystery ship
 Be amazed at the friends you have here on your trip
-
-

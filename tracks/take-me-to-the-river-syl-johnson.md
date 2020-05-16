@@ -1,8 +1,11 @@
 ---
+album: Total Explosion
 artists:
 - Syl Johnson
+external_ids:
+  spotify: spotify:track:1VkM17IchG9iReZw8Z8UI2
 features: []
-genres: []
+first_released_as_single: false
 key: take-me-to-the-river-syl-johnson
 lyrics_url: https://genius.com/Syl-johnson-take-me-to-the-river-lyrics
 name: Take Me To The River
@@ -35,6 +38,8 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1975-07-26'
+release_year: 1975
+runtime: 185906
 ---
 I don't know why I love you like I do
 After all these changes that you put me through

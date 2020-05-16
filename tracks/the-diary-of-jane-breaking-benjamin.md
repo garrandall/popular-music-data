@@ -1,8 +1,11 @@
 ---
+album: Phobia (Clean Version)
 artists:
 - Breaking Benjamin
+external_ids:
+  spotify: spotify:track:0faXHILILebCGnJBPU6KJJ
 features: []
-genres: []
+first_released_as_single: false
 key: the-diary-of-jane-breaking-benjamin
 lyrics_url: https://www.azlyrics.com/lyrics/breakingbenjamin/thediaryofjane.html
 name: The Diary Of Jane
@@ -87,8 +90,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2006-12-23'
+release_year: 2006
+runtime: 200546
 ---
-
 If I had to
 I would put myself right beside you
 So let me ask
@@ -140,6 +144,3 @@ I will try to find my place in the diary of Jane.
 As I burn another page,
 As I look the other way.
 I still try to find my place in the diary of Jane.
-
-
-

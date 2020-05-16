@@ -1,8 +1,11 @@
 ---
+album: 'Deliver: The Singles 1961-1971'
 artists:
 - The Marvelettes
+external_ids:
+  spotify: spotify:track:6M8Qa4DpmGrQPrLtxs2V9M
 features: []
-genres: []
+first_released_as_single: false
 key: as-long-as-i-know-he-s-mine-the-marvelettes
 lyrics_url: https://www.azlyrics.com/lyrics/marvelettes/aslongasiknowhesmine.html
 name: As Long As I Know He's Mine
@@ -59,8 +62,9 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1964-02-01'
+release_year: 1963
+runtime: 151040
 ---
-
 There may be clouds in the sky, but even if it starts to raining
 My days are bright as can be, oh you don't catch me complaining
 'Cause I got a guy sweet as he can be
@@ -94,6 +98,3 @@ Oh I love him all the time
 'Cause he's so fine
 Don't you know all the time
 He's mine, all mine
-
-
-

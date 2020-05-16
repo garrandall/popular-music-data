@@ -1,8 +1,11 @@
 ---
+album: Trafalgar
 artists:
 - Bee Gees
+external_ids:
+  spotify: spotify:track:1jy0RbDHyBMTupSdc98XbG
 features: []
-genres: []
+first_released_as_single: false
 key: how-can-you-mend-a-broken-heart-bee-gees
 lyrics_url: https://genius.com/Bee-gees-how-can-you-mend-a-broken-heart-lyrics
 name: How Can You Mend A Broken Heart
@@ -67,6 +70,8 @@ rankings:
   rank: 28
   ranking_list: Billboard Hot 100
   start_date: '1971-10-02'
+release_year: 1971
+runtime: 237826
 ---
 I can think of younger days when living for my life
 Was everything a man could want to do

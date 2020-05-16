@@ -1,8 +1,11 @@
 ---
+album: My Way
 artists:
 - Major Harris
+external_ids:
+  spotify: spotify:track:0hGlEv05CFThJmE2vmzNUu
 features: []
-genres: []
+first_released_as_single: true
 key: love-won-t-let-me-wait-major-harris
 lyrics_url: https://genius.com/Major-harris-love-wont-let-me-wait-annotated
 name: Love Won't Let Me Wait
@@ -79,6 +82,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1975-07-26'
+release_year: 1974
+runtime: 227640
 ---
 The time is right
 You hold me tight

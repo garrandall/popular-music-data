@@ -1,8 +1,11 @@
 ---
+album: The Thrill Of It All
 artists:
 - Sam Smith
+external_ids:
+  spotify: spotify:track:12stscgKeVXBWntP0LjQGk
 features: []
-genres: []
+first_released_as_single: false
 key: too-good-at-goodbyes-sam-smith
 lyrics_url: https://genius.com/Sam-smith-too-good-at-goodbyes-lyrics
 name: Too Good At Goodbyes
@@ -103,6 +106,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '2018-03-03'
+release_year: 2017
+runtime: 202386
 ---
 You must think that I'm stupid
 You must think that I'm a fool

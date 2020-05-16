@@ -1,8 +1,11 @@
 ---
+album: Cannibal
 artists:
 - Kesha
+external_ids:
+  spotify: spotify:track:3JTMWdhcJPiegDSe7SvZS3
 features: []
-genres: []
+first_released_as_single: false
 key: cannibal-ke-ha
 lyrics_url: https://www.azlyrics.com/lyrics/keha/cannibal.html
 name: Cannibal
@@ -11,8 +14,9 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '2010-11-27'
+release_year: 2010
+runtime: 194253
 ---
-
 I-I-I have a heart I swear I do
 But just not baby when it comes to you
 I get so hungry when you say you love me (hush)
@@ -71,6 +75,3 @@ I'll eat you up
 
 I love you
 I warned you
-
-
-

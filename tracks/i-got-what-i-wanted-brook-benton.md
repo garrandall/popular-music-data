@@ -1,8 +1,11 @@
 ---
+album: 20 Greatest Hits
 artists:
 - Brook Benton
+external_ids:
+  spotify: spotify:track:3TjxMUYb6fh5lqnJklk7pP
 features: []
-genres: []
+first_released_as_single: false
 key: i-got-what-i-wanted-brook-benton
 lyrics_url: https://genius.com/Brook-benton-i-got-what-i-wanted-lyrics
 name: I Got What I Wanted
@@ -39,6 +42,8 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '1963-05-04'
+release_year: 1963
+runtime: 173844
 ---
 When I go to all the places we used to go
 When I see all the people we used to know

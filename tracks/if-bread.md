@@ -1,8 +1,11 @@
 ---
+album: Manna
 artists:
 - Bread
+external_ids:
+  spotify: spotify:track:40W8Mm9t3ZO1iNQlls35lL
 features: []
-genres: []
+first_released_as_single: false
 key: if-bread
 lyrics_url: https://genius.com/Bread-if-lyrics
 name: If
@@ -55,6 +58,8 @@ rankings:
   rank: 25
   ranking_list: Billboard Hot 100
   start_date: '1971-06-12'
+release_year: 1971
+runtime: 155773
 ---
 If a picture paints a thousand words
 Then why can't I paint you?

@@ -1,8 +1,11 @@
 ---
+album: Diana Ross
 artists:
 - Diana Ross
+external_ids:
+  spotify: spotify:track:46ti1YDiaK1aTPxifXWxUk
 features: []
-genres: []
+first_released_as_single: false
 key: theme-from-mahogany--do-you-know-where-you-re-going-to--diana-ross
 lyrics_url: https://genius.com/Diana-ross-do-you-know-where-youre-going-to-theme-from-mahogany-lyrics
 name: Theme From Mahogany (Do You Know Where You're Going To)
@@ -75,6 +78,8 @@ rankings:
   rank: 52
   ranking_list: Billboard Hot 100
   start_date: '1976-02-21'
+release_year: 1975
+runtime: 202426
 ---
 Do you know where you're going to?
 Do you like the things that life is showing you?

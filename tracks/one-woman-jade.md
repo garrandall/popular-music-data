@@ -1,8 +1,11 @@
 ---
+album: Jade To The Max
 artists:
 - Jade
+external_ids:
+  spotify: spotify:track:0EnFaSWSkj45lktHxHtcXb
 features: []
-genres: []
+first_released_as_single: false
 key: one-woman-jade
 lyrics_url: https://genius.com/Jade-one-woman-lyrics
 name: One Woman
@@ -87,6 +90,8 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1993-10-16'
+release_year: 1992
+runtime: 289466
 ---
 Shoo doo doo wop! 4x
 

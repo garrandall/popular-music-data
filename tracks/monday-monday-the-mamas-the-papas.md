@@ -1,9 +1,12 @@
 ---
+album: If You Can Believe Your Eyes & Ears
 artists:
 - The Mamas
 - The Papas
+external_ids:
+  spotify: spotify:track:3EFb1qDgIqf9MegIryKtDj
 features: []
-genres: []
+first_released_as_single: false
 key: monday-monday-the-mamas-the-papas
 lyrics_url: https://genius.com/The-mamas-and-the-papas-monday-monday-lyrics
 name: Monday Monday
@@ -56,6 +59,8 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1966-06-25'
+release_year: 1966
+runtime: 208293
 ---
 Bah-da bah-da-da-da
 Bah-da bah-da-da-da

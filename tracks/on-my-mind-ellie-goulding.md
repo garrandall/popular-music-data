@@ -1,8 +1,11 @@
 ---
+album: Delirium
 artists:
 - Ellie Goulding
+external_ids:
+  spotify: spotify:track:4V8zi6WqKPmN8V8nyb3WFk
 features: []
-genres: []
+first_released_as_single: true
 key: on-my-mind-ellie-goulding
 lyrics_url: https://genius.com/Ellie-goulding-on-my-mind-lyrics
 name: On My Mind
@@ -95,6 +98,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2016-03-05'
+release_year: 2015
+runtime: 253466
 ---
 Oh, oh
 Uh-oh-oh-oh

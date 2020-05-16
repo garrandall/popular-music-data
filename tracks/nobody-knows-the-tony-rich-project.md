@@ -1,8 +1,11 @@
 ---
+album: Words
 artists:
 - The Tony Rich Project
+external_ids:
+  spotify: spotify:track:2PsHIonOTmX6bSrzIJSjyS
 features: []
-genres: []
+first_released_as_single: false
 key: nobody-knows-the-tony-rich-project
 lyrics_url: https://genius.com/The-tony-rich-project-nobody-knows-lyrics
 name: Nobody Knows
@@ -195,6 +198,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1996-11-02'
+release_year: 1995
+runtime: 306933
 ---
 Yeah, wish I told her how I felt
 Maybe she'd be here right now

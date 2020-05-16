@@ -1,8 +1,11 @@
 ---
+album: CoCo
 artists:
 - O.T. Genasis
+external_ids:
+  spotify: spotify:track:2JI71GHwq2LN8mtq3iCLYo
 features: []
-genres: []
+first_released_as_single: true
 key: coco-o-t--genasis
 lyrics_url: https://www.azlyrics.com/lyrics/otgenasis/cocopart3.html
 name: CoCo
@@ -87,8 +90,9 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '2015-04-18'
+release_year: 2014
+runtime: 239573
 ---
-
 O.T., Breezy
 Coco, part three! ('caina)
 
@@ -125,4 +129,3 @@ Bend it over, girl just bend it over (bend it over!)
 You picture perfect, let me send up for you (alright, alright)
 Smack it, on her, ass, nigga (woo! woo! woo! woo!)
 I'm blowin', money, fast, nigga!
-

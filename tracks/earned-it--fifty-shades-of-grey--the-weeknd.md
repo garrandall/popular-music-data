@@ -1,8 +1,11 @@
 ---
+album: Beauty Behind The Madness
 artists:
 - The Weeknd
+external_ids:
+  spotify: spotify:track:2PIvq1pGrUjY007X5y1UpM
 features: []
-genres: []
+first_released_as_single: true
 key: earned-it--fifty-shades-of-grey--the-weeknd
 lyrics_url: https://genius.com/The-weeknd-earned-it-fifty-shades-of-grey-lyrics
 name: Earned It (Fifty Shades Of Grey)
@@ -179,6 +182,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2015-10-31'
+release_year: 2014
+runtime: 252226
 ---
 I'ma care for you
 I'ma care for you, you, you, you

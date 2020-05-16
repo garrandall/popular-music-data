@@ -1,8 +1,11 @@
 ---
+album: Delicious Surprise
 artists:
 - Jo Dee Messina
+external_ids:
+  spotify: spotify:track:3n8QTc8J3T72KurDsWo1b6
 features: []
-genres: []
+first_released_as_single: false
 key: my-give-a-damn-s-busted-jo-dee-messina
 lyrics_url: https://www.azlyrics.com/lyrics/jodeemessina/mygiveadamnsbusted.html
 name: My Give A Damn's Busted
@@ -87,8 +90,9 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '2005-07-02'
+release_year: 2005
+runtime: 198960
 ---
-
 Well you filled up my head with so many lies
 You've twisted my heart 'til something snapped inside
 I'd like to give it one more try
@@ -137,6 +141,3 @@ Just nothing, no
 
 You've really done it this time
 My give a damn's busted
-
-
-

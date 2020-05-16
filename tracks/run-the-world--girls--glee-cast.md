@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music, Volume 7'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:6GqR6Nw2dPPsC0NZfN6QmX
 features: []
-genres: []
+first_released_as_single: false
 key: run-the-world--girls--glee-cast
 lyrics_url: https://www.azlyrics.com/lyrics/gleecast/runtheworldgirls.html
 name: Run The World (Girls)
@@ -11,8 +14,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2011-10-22'
+release_year: 2011
+runtime: 239160
 ---
-
 Girls, we run this mother (yeah) 
 Girls, we run this mother (yeah) 
 Girls, we run this mother (yeah) 
@@ -107,6 +111,3 @@ Who are we, what do we run, the world
 (Who run this mother, yeah)
 Who are we, what we run, we run the world 
 Who run the world, girls (Girls!)
-
-
-

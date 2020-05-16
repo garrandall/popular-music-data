@@ -1,8 +1,11 @@
 ---
+album: Idea
 artists:
 - Bee Gees
+external_ids:
+  spotify: spotify:track:1bAhMCb5E2jSLHG3uJX50N
 features: []
-genres: []
+first_released_as_single: false
 key: jumbo-bee-gees
 lyrics_url: https://genius.com/Bee-gees-jumbo-lyrics
 name: Jumbo
@@ -31,6 +34,8 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '1968-05-11'
+release_year: 1968
+runtime: 131800
 ---
 Jumbo said to say goodnight, see you in the morning
 Please don't lose your appetite, he knows who is yawning

@@ -1,8 +1,11 @@
 ---
+album: Toto IV
 artists:
 - Toto
+external_ids:
+  spotify: spotify:track:37BTh5g05cxBIRYMbw8g2T
 features: []
-genres: []
+first_released_as_single: false
 key: rosanna-toto
 lyrics_url: https://www.azlyrics.com/lyrics/toto/rosanna.html
 name: Rosanna
@@ -99,8 +102,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1982-09-18'
+release_year: 1982
+runtime: 331200
 ---
-
 All I wanna do when I wake up in the morning is see your eyes
 Rosanna, Rosanna
 I never thought that a girl like you could ever care for me, Rosanna
@@ -135,6 +139,3 @@ Now she's gone and I have to say
 
 Meet you all the way, meet you all the way, Rosanna
 Meet you all the way, meet you all the way, Rosanna
-
-
-

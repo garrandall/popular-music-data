@@ -1,8 +1,11 @@
 ---
+album: Last Hurrah
 artists:
 - Bebe Rexha
+external_ids:
+  spotify: spotify:track:0i0wnv9UoFdZ5MfuFGQzMy
 features: []
-genres: []
+first_released_as_single: true
 key: last-hurrah-bebe-rexha
 lyrics_url: https://www.azlyrics.com/lyrics/beberexha/lasthurrah.html
 name: Last Hurrah
@@ -11,8 +14,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2019-04-06'
+release_year: 2019
+runtime: 150333
 ---
-
 I'm done with the drinkin'
 I'm done with the smokin'
 I'm done with the playin'
@@ -72,6 +76,3 @@ And it's okay
 Maybe tomorrow I won't feel this pain
 Last hurrah-ah-ah-ah-ah-ah!
 Last hurrah-ah-ah-ah-ah-ah!
-
-
-

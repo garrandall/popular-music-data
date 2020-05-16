@@ -1,8 +1,11 @@
 ---
+album: Crazy Elephant
 artists:
 - Crazy Elephant
+external_ids:
+  spotify: spotify:track:20uuYKrBuh81J8T9fkm2sC
 features: []
-genres: []
+first_released_as_single: false
 key: gimme-gimme-good-lovin--crazy-elephant
 lyrics_url: https://genius.com/Crazy-elephant-gimme-gimme-good-lovin-lyrics
 name: Gimme Gimme Good Lovin'
@@ -59,6 +62,8 @@ rankings:
   rank: 26
   ranking_list: Billboard Hot 100
   start_date: '1969-05-24'
+release_year: 1969
+runtime: 123866
 ---
 From Atlanta, Georgia, to the Gulf Stream water
 Up to Californ-i-a

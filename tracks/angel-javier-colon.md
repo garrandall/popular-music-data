@@ -1,8 +1,11 @@
 ---
+album: Angel (The Voice Performance)
 artists:
 - Javier Colon
+external_ids:
+  spotify: spotify:track:6jUMZqTfYABabGcK74L6KT
 features: []
-genres: []
+first_released_as_single: true
 key: angel-javier-colon
 lyrics_url: https://www.azlyrics.com/lyrics/javiercolon/angel.html
 name: Angel
@@ -11,8 +14,9 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '2011-07-02'
+release_year: 2011
+runtime: 215893
 ---
-
 Spend all your time waiting
 For that second chance
 For a break that would make it okay
@@ -57,6 +61,3 @@ You're in the arms of the angel
 May you find some comfort here
 You're in the arms of the angel
 May you find some comfort here
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Poison
 artists:
 - Bell Biv DeVoe
+external_ids:
+  spotify: spotify:track:6m59VvDUi0UQsB2eZ9wVbH
 features: []
-genres: []
+first_released_as_single: false
 key: poison-bell-biv-devoe
 lyrics_url: https://www.azlyrics.com/lyrics/bellbivdevoe/poison.html
 name: Poison
@@ -95,9 +98,10 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1990-09-01'
+release_year: 1990
+runtime: 261853
 ---
-
- Yeah, Spiderman and Freeze in full effect
+Yeah, Spiderman and Freeze in full effect
  Uh-huh
  You ready, Ron?
  I'm ready
@@ -111,7 +115,7 @@ Girl, I, must
 I sense something strange in my mind
 Situation is (seriooooooooous)
 Let's cure it 'cause we're running out of time
-It's oh, so (beautifuuuuuuuuul)
+It's oh, so (beautiful)
 Relationships they seem from the start
 It's all so (deadllllllllly)
 When love is not together from the heart
@@ -177,4 +181,3 @@ And I can't forget about my boy, B. Brown
 And the whole NE crew
 
 POISOOOOOOOOOON...
-

@@ -1,8 +1,11 @@
 ---
+album: Big Generator
 artists:
 - 'Yes'
+external_ids:
+  spotify: spotify:track:5B8sDKrg4VN8etjH0vFz40
 features: []
-genres: []
+first_released_as_single: false
 key: love-will-find-a-way-yes
 lyrics_url: https://genius.com/Yes-love-will-find-a-way-lyrics
 name: Love Will Find A Way
@@ -83,6 +86,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1988-02-06'
+release_year: 1987
+runtime: 289733
 ---
 You wanna get close to me, the feeling so clear
 But I need some time to see, vision through my tears

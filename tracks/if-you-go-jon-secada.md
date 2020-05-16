@@ -1,8 +1,11 @@
 ---
+album: "S\xF3lo Lo Mejor: 20 Exitos"
 artists:
 - Jon Secada
+external_ids:
+  spotify: spotify:track:3b2JWlZ020qGdaDtcO7Gyy
 features: []
-genres: []
+first_released_as_single: false
 key: if-you-go-jon-secada
 lyrics_url: https://genius.com/Jon-secada-if-you-go-lyrics
 name: If You Go
@@ -131,6 +134,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1994-12-03'
+release_year: 1994
+runtime: 275000
 ---
 Taking a day at a time
 Dealing with feelings I don't wanna hide

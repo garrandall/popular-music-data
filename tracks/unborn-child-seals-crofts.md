@@ -1,9 +1,12 @@
 ---
+album: Unborn Child
 artists:
 - Seals
 - Crofts
+external_ids:
+  spotify: spotify:track:5oWFjdQnSa0PTNlpLnxnWG
 features: []
-genres: []
+first_released_as_single: false
 key: unborn-child-seals-crofts
 lyrics_url: https://genius.com/Seals-and-crofts-unborn-child-lyrics
 name: Unborn Child
@@ -40,6 +43,8 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1974-04-20'
+release_year: 1974
+runtime: 235589
 ---
 Oh little baby, you'll never cry, nor will you hear a sweet lullabye
 

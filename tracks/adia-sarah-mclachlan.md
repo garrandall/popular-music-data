@@ -1,8 +1,11 @@
 ---
+album: Surfacing
 artists:
 - Sarah McLachlan
+external_ids:
+  spotify: spotify:track:0rl84FuazRHYmK72krdmA1
 features: []
-genres: []
+first_released_as_single: false
 key: adia-sarah-mclachlan
 lyrics_url: https://www.azlyrics.com/lyrics/sarahmclachlan/adia.html
 name: Adia
@@ -115,8 +118,9 @@ rankings:
   rank: 24
   ranking_list: Billboard Hot 100
   start_date: '1998-11-28'
+release_year: 1997
+runtime: 244666
 ---
-
 Adia I do believe I failed you
 Adia I know I let you down
 don't you know I tried so hard
@@ -152,6 +156,3 @@ believe me Adia, we are still innocent
 'cause we are born innocent
 Adia we are still
 it's easy, we all falter ... but does it matter?
-
-
-

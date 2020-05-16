@@ -1,8 +1,11 @@
 ---
+album: Dedication
 artists:
 - Bay City Rollers
+external_ids:
+  spotify: spotify:track:0cQXUbbYH4FcDN1M13oxMw
 features: []
-genres: []
+first_released_as_single: false
 key: money-honey-bay-city-rollers
 lyrics_url: https://genius.com/Bay-city-rollers-money-honey-lyrics
 name: Money Honey
@@ -67,6 +70,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1976-05-15'
+release_year: 1974
+runtime: 197090
 ---
 Money, can't make you turn your head now
 Money, can't get you into bed now

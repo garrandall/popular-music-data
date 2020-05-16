@@ -1,8 +1,11 @@
 ---
+album: Rare Gems And Hidden Treasures
 artists:
 - Peggy Lee
+external_ids:
+  spotify: spotify:track:13ErpYVZ6DKoEHVr2kSI7B
 features: []
-genres: []
+first_released_as_single: false
 key: light-of-love-peggy-lee
 lyrics_url: https://www.musixmatch.com/lyrics/Peggy-Lee/Light-of-Love
 name: Light Of Love
@@ -31,6 +34,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1958-12-08'
+release_year: 1958
+runtime: 90760
 ---
 I'm gonna open up all of my doors
 I'm gonna open up all of my doors

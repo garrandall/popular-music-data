@@ -1,8 +1,11 @@
 ---
+album: The Bang Years 1966-1968 (The 23 Original Mono Recordings)
 artists:
 - Neil Diamond
+external_ids:
+  spotify: spotify:track:0Xh4FLPsZSlXIupqRvdbs2
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-a-believer-neil-diamond
 lyrics_url: https://genius.com/Neil-diamond-im-a-believer-lyrics
 name: I'm A Believer
@@ -39,6 +42,8 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '1971-08-14'
+release_year: 1968
+runtime: 163666
 ---
 I thought love was only true in fairy tales
 Meant for someone else, but not for me

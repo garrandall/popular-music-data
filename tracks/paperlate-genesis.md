@@ -1,8 +1,11 @@
 ---
+album: Platinum Collection
 artists:
 - Genesis
+external_ids:
+  spotify: spotify:track:2GHCxqFK2xl4b0JRTl3v8s
 features: []
-genres: []
+first_released_as_single: false
 key: paperlate-genesis
 lyrics_url: https://www.azlyrics.com/lyrics/genesis/paperlate.html
 name: Paperlate
@@ -63,8 +66,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1982-09-04'
+release_year: 1982
+runtime: 203493
 ---
-
 Paperlate paperlate
 Paperlate paperlate
 
@@ -116,6 +120,3 @@ Paperlate
 Oh I'm sorry but there's no one on the line
 Paperlate
 Oh I'm sorry but rest easy no news is good news...
-
-
-

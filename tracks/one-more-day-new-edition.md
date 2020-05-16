@@ -1,8 +1,11 @@
 ---
+album: Home Again
 artists:
 - New Edition
+external_ids:
+  spotify: spotify:track:61jNGa6MxlzLNsDqyqn0Bi
 features: []
-genres: []
+first_released_as_single: false
 key: one-more-day-new-edition
 lyrics_url: https://www.musixmatch.com/lyrics/New-Edition/One-More-Day
 name: One More Day
@@ -47,6 +50,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1997-08-09'
+release_year: 1996
+runtime: 304466
 ---
 Yeah, I can't deny it
 On the inside, I'm slowly dyin'

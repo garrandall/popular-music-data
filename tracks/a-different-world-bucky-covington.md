@@ -1,8 +1,11 @@
 ---
+album: Bucky Covington
 artists:
 - Bucky Covington
+external_ids:
+  spotify: spotify:track:0E0B8a7LSVgbQL160oUnwO
 features: []
-genres: []
+first_released_as_single: false
 key: a-different-world-bucky-covington
 lyrics_url: https://www.azlyrics.com/lyrics/buckycovington/adifferentworld.html
 name: A Different World
@@ -87,8 +90,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2007-09-15'
+release_year: 2007
+runtime: 208573
 ---
-
 We were born to mothers who smoked and drank
 Our cribs were covered in lead based paint
 No child proof lids no seat belts in cars
@@ -117,6 +121,3 @@ And every Sunday, all the stores were closed
 
 
 It was a different world
-
-
-

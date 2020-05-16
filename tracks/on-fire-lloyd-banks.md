@@ -1,8 +1,11 @@
 ---
+album: The Hunger For More
 artists:
 - Lloyd Banks
+external_ids:
+  spotify: spotify:track:0B2ZuTLZnWQ6gz8RlNwBu1
 features: []
-genres: []
+first_released_as_single: false
 key: on-fire-lloyd-banks
 lyrics_url: https://genius.com/Lloyd-banks-on-fire-lyrics
 name: On Fire
@@ -87,6 +90,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2004-09-25'
+release_year: 2004
+runtime: 187280
 ---
 New York City ("Hunger for More!")
 You are now rocking with the best

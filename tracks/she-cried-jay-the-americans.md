@@ -1,9 +1,12 @@
 ---
+album: She Cried
 artists:
 - Jay
 - The Americans
+external_ids:
+  spotify: spotify:track:30vrWTWGHRF6mbyCiDMamO
 features: []
-genres: []
+first_released_as_single: false
 key: she-cried-jay-the-americans
 lyrics_url: https://www.musixmatch.com/lyrics/Jay-feat-The-Americans/She-Cried-2
 name: She Cried
@@ -64,6 +67,8 @@ rankings:
   rank: 32
   ranking_list: Billboard Hot 100
   start_date: '1962-06-16'
+release_year: 1962
+runtime: 159933
 ---
 And when I told her
 I didn't love her anymore

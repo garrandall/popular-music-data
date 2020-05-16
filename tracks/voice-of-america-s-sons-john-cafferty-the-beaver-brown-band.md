@@ -1,9 +1,12 @@
 ---
+album: Tough All Over
 artists:
 - John Cafferty
 - The Beaver Brown Band
+external_ids:
+  spotify: spotify:track:43rLwQvmkkJCMxFRrhnAbu
 features: []
-genres: []
+first_released_as_single: false
 key: voice-of-america-s-sons-john-cafferty-the-beaver-brown-band
 lyrics_url: https://www.azlyrics.com/lyrics/johncaffertythebeaverbrownband/voiceofamericassons.html
 name: Voice Of America's Sons
@@ -40,8 +43,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1986-08-02'
+release_year: 1986
+runtime: 280266
 ---
-
 You better wake up, little Johnny
 Better wake up real
 soon
@@ -122,6 +126,3 @@ With every beat of the drum
 Then go out in the
 streets
 Hear the voice of America's sons
-
-
-

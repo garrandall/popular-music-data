@@ -1,8 +1,11 @@
 ---
+album: 'Let Me Be the One: Classic AM Favorites ''55-''65'
 artists:
 - Ray Peterson
+external_ids:
+  spotify: spotify:track:0Xu0V7K1rK7ea4gMmiFIlG
 features: []
-genres: []
+first_released_as_single: false
 key: i-could-have-loved-you-so-well-ray-peterson
 lyrics_url: https://www.musixmatch.com/lyrics/Ray-Peterson/I-Could-Have-Loved-You-So-Well
 name: I Could Have Loved You So Well
@@ -39,6 +42,8 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1962-02-10'
+release_year: 1961
+runtime: 125800
 ---
 I know I can't make you stay
 And as you're walkin' away

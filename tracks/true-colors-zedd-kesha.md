@@ -1,9 +1,12 @@
 ---
+album: True Colors
 artists:
 - Zedd
 - Kesha
+external_ids:
+  spotify: spotify:track:71qR03VPn762lG8esdRmkR
 features: []
-genres: []
+first_released_as_single: true
 key: true-colors-zedd-kesha
 lyrics_url: https://genius.com/Zedd-and-kesha-true-colors-remix-lyrics
 name: True Colors
@@ -12,6 +15,8 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '2016-05-21'
+release_year: 2016
+runtime: 224866
 ---
 Stars fall at my feet, keep me grounded as I reach
 Higher than I see, is there something there for me?

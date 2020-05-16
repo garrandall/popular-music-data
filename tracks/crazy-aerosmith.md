@@ -1,8 +1,11 @@
 ---
+album: Get A Grip
 artists:
 - Aerosmith
+external_ids:
+  spotify: spotify:track:74irxdVWstNlEQjsvArITq
 features: []
-genres: []
+first_released_as_single: false
 key: crazy-aerosmith
 lyrics_url: https://www.azlyrics.com/lyrics/aerosmith/crazy.html
 name: Crazy
@@ -99,8 +102,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1994-10-22'
+release_year: 1993
+runtime: 316693
 ---
-
 Come Here baby
 You know you drive me up a wall
 The way you make good on all the nasty tricks you pull
@@ -162,6 +166,3 @@ Cause I'm goin' crazy
 Crazy, crazy, crazy for you baby
 You turn it on, then you're gone
 Yeah you drive me
-
-
-

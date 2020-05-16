@@ -1,8 +1,11 @@
 ---
+album: Presenting the Fabulous Ronettes Featuring Veronica
 artists:
 - The Ronettes
+external_ids:
+  spotify: spotify:track:6oP90YnPkTFcJJUgQEBG5i
 features: []
-genres: []
+first_released_as_single: false
 key: walking-in-the-rain-the-ronettes
 lyrics_url: https://genius.com/The-ronettes-walking-in-the-rain-lyrics
 name: Walking In The Rain
@@ -51,6 +54,8 @@ rankings:
   rank: 36
   ranking_list: Billboard Hot 100
   start_date: '1965-01-02'
+release_year: 1964
+runtime: 194520
 ---
 I want him, and I need him
 And someday, some way, woah, oh, oh, I'll meet him

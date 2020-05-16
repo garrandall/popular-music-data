@@ -1,8 +1,11 @@
 ---
+album: Rocky IV
 artists:
 - Robert Tepper
+external_ids:
+  spotify: spotify:track:5bnMKUXkMfYVXW8FjvFTuV
 features: []
-genres: []
+first_released_as_single: false
 key: no-easy-way-out-robert-tepper
 lyrics_url: https://genius.com/Robert-tepper-no-easy-way-out-lyrics
 name: No Easy Way Out
@@ -71,6 +74,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1986-05-10'
+release_year: 1985
+runtime: 262026
 ---
 We're not indestructible
 Baby better get that straight

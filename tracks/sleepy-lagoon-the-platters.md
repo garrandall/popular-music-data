@@ -1,8 +1,11 @@
 ---
+album: Reflections
 artists:
 - The Platters
+external_ids:
+  spotify: spotify:track:0vLLgMvboHzcBxgqOhBtoG
 features: []
-genres: []
+first_released_as_single: false
 key: sleepy-lagoon-the-platters
 lyrics_url: https://www.azlyrics.com/lyrics/platters/sleepylagoon.html
 name: Sleepy Lagoon
@@ -27,8 +30,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1960-03-21'
+release_year: 1960
+runtime: 161866
 ---
-
 A sleepy lagoon
 A tropical moon and two on an island
 A sleepy lagoon
@@ -70,6 +74,3 @@ Will haunt me forever
 A tropical moon
 A sleepy lagoon
 And you
-
-
-

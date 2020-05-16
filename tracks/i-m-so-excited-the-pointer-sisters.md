@@ -1,8 +1,11 @@
 ---
+album: So Excited!
 artists:
 - The Pointer Sisters
+external_ids:
+  spotify: spotify:track:1ot6jEe4w4hYnsOPjd3xKQ
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-so-excited-the-pointer-sisters
 lyrics_url: https://genius.com/The-pointer-sisters-im-so-excited-lyrics
 name: I'm So Excited
@@ -167,6 +170,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1985-01-12'
+release_year: 1982
+runtime: 230640
 ---
 Tonight's the night we're gonna make it happen
 Tonight we'll put all other things aside

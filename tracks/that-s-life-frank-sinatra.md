@@ -1,8 +1,11 @@
 ---
+album: That's Life
 artists:
 - Frank Sinatra
+external_ids:
+  spotify: spotify:track:4FmCUATNIarCQh72JYdvnm
 features: []
-genres: []
+first_released_as_single: false
 key: that-s-life-frank-sinatra
 lyrics_url: https://genius.com/Frank-sinatra-thats-life-lyrics
 name: That's Life
@@ -51,6 +54,8 @@ rankings:
   rank: 32
   ranking_list: Billboard Hot 100
   start_date: '1967-01-28'
+release_year: 1966
+runtime: 187040
 ---
 That's life (That's life), that's what all the people say
 You're riding high in April, shot down in May

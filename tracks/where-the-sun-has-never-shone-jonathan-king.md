@@ -1,8 +1,11 @@
 ---
+album: Or Then Again...
 artists:
 - Jonathan King
+external_ids:
+  spotify: spotify:track:5jlpKLVutiVG9f9CMYkJRF
 features: []
-genres: []
+first_released_as_single: false
 key: where-the-sun-has-never-shone-jonathan-king
 name: Where The Sun Has Never Shone
 rankings:
@@ -14,5 +17,7 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1966-01-22'
+release_year: 1966
+runtime: 177786
 ---
 

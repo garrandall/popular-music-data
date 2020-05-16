@@ -1,9 +1,12 @@
 ---
+album: Savage Mode
 artists:
 - 21 Savage
 - Metro Boomin
+external_ids:
+  spotify: spotify:track:4gmmRb6bZJffOOiww1JGTO
 features: []
-genres: []
+first_released_as_single: false
 key: no-heart-21-savage-metro-boomin
 lyrics_url: https://genius.com/21-savage-and-metro-boomin-no-heart-lyrics
 name: No Heart
@@ -84,6 +87,8 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '2017-03-18'
+release_year: 2016
+runtime: 235040
 ---
 Southside, Southside on the, Southside on the, hey
 Metro Boomin want some more, nigga

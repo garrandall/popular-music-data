@@ -1,8 +1,11 @@
 ---
+album: Cats Without Claws
 artists:
 - Donna Summer
+external_ids:
+  spotify: spotify:track:6FY0PMsCTpCzm4G1Z3VSn2
 features: []
-genres: []
+first_released_as_single: false
 key: there-goes-my-baby-donna-summer
 lyrics_url: https://www.azlyrics.com/lyrics/donnasummer/theregoesmybaby.html
 name: There Goes My Baby
@@ -63,8 +66,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1984-11-10'
+release_year: 1984
+runtime: 247360
 ---
-
 All alone I sit
 Looking out of the window
 And the rain just keeps coming on down
@@ -136,6 +140,3 @@ What can I do
 Sing this song forever
 Till we're back together
 Oh, oh, oh
-
-
-

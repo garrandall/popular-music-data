@@ -1,8 +1,11 @@
 ---
+album: The Life
 artists:
 - Ginuwine
+external_ids:
+  spotify: spotify:track:18pNNuwebGFjx6DBg7C3jl
 features: []
-genres: []
+first_released_as_single: false
 key: there-it-is-ginuwine
 lyrics_url: https://genius.com/Ginuwine-there-it-is-lyrics
 name: There It Is
@@ -47,6 +50,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2001-06-09'
+release_year: 1999
+runtime: 249800
 ---
 Said I work my fingers down to the bone
 I put it down from 9 to 5 so you should know

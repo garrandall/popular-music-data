@@ -1,10 +1,13 @@
 ---
+album: Forever In A Day
 artists:
 - DAY26
+external_ids:
+  spotify: spotify:track:20m3aiJZdxy6kzOapoVTyD
 features:
 - P. Diddy
 - Yung Joc
-genres: []
+first_released_as_single: false
 key: imma-put-it-on-her-day26-p--diddy-yung-joc
 lyrics_url: https://genius.com/Day26-imma-put-it-on-her-lyrics
 name: Imma Put It On Her
@@ -21,6 +24,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2009-05-09'
+release_year: 2009
+runtime: 264653
 ---
 Yung Joc Yeah
 Bad boy Bad Boy

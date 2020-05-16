@@ -1,8 +1,11 @@
 ---
+album: True to Self
 artists:
 - Bryson Tiller
+external_ids:
+  spotify: spotify:track:4IdAIZRVkwuQQnHpi529cn
 features: []
-genres: []
+first_released_as_single: false
 key: no-longer-friends-bryson-tiller
 lyrics_url: https://www.azlyrics.com/lyrics/brysontiller/nolongerfriends.html
 name: No Longer Friends
@@ -11,8 +14,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2017-06-17'
+release_year: 2017
+runtime: 134746
 ---
-
 Hi, aight, whatever, you doing too much
 You doing too much
 Ayy
@@ -71,6 +75,3 @@ That's all
 That's all I want, all I want, all I want
 That's all I want, all I want, yeah
 All I want (just a, just a little time)
-
-
-

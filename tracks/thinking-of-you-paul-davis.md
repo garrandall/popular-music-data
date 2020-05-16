@@ -1,8 +1,11 @@
 ---
+album: Southern Tracks & Fantasies
 artists:
 - Paul Davis
+external_ids:
+  spotify: spotify:track:5Rk7ej7u8lKqNGzrwkE9Tt
 features: []
-genres: []
+first_released_as_single: false
 key: thinking-of-you-paul-davis
 lyrics_url: https://www.azlyrics.com/lyrics/pauldavis/thinkingofyou.html
 name: Thinking Of You
@@ -47,8 +50,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1976-06-26'
+release_year: 1976
+runtime: 215400
 ---
-
 I read your letter, made me feel better
 How did you know that I was singing the blues?
 I felt your sunshine, made me feel so fine
@@ -85,6 +89,3 @@ Thinking of you
 
 Thinking of you
 (I still love you)
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Joe Cocker
 artists:
 - Joe Cocker
+external_ids:
+  spotify: spotify:track:2n4r6bOB36BqmbbpriXCw1
 features: []
-genres: []
+first_released_as_single: false
 key: pardon-me-sir-joe-cocker
 lyrics_url: https://genius.com/Joe-cocker-pardon-me-sir-lyrics
 name: Pardon Me Sir
@@ -39,6 +42,8 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '1973-04-07'
+release_year: 1972
+runtime: 201106
 ---
 Pardon me, friend
 If what I'm saying don't seem right

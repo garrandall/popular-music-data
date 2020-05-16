@@ -1,9 +1,12 @@
 ---
+album: Last Train To Paris
 artists:
 - Diddy - Dirty Money
+external_ids:
+  spotify: spotify:track:6Iocm6VMu6bVNYwiDoyQFW
 features:
 - Skylar Grey
-genres: []
+first_released_as_single: false
 key: coming-home-diddy---dirty-money-skylar-grey
 lyrics_url: https://www.azlyrics.com/lyrics/diddydirtymoney/cominghome.html
 name: Coming Home
@@ -104,9 +107,9 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '2011-05-21'
+release_year: 2010
+runtime: 238693
 ---
-
-
 I'm coming home, I'm coming home
 Tell the world I'm coming home
 Let the rain wash away
@@ -203,6 +206,3 @@ I know my kingdom awaits
 And they've forgiven my mistakes
 I'm coming home, I'm coming home
 Tell the world I'm coming
-
-
-

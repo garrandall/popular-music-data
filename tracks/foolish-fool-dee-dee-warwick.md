@@ -1,8 +1,11 @@
 ---
+album: I Want To Be With You
 artists:
 - Dee Dee Warwick
+external_ids:
+  spotify: spotify:track:3LAa8tNBzwHNCgNYCpguFe
 features: []
-genres: []
+first_released_as_single: false
 key: foolish-fool-dee-dee-warwick
 lyrics_url: https://genius.com/Dee-dee-warwick-foolish-fool-lyrics
 name: Foolish Fool
@@ -39,6 +42,8 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '1969-05-10'
+release_year: 1969
+runtime: 206573
 ---
 Foolish...Foolish...Foolish...Foolish...Foooolish...
 Fool

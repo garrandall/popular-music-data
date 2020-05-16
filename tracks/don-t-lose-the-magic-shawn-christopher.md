@@ -1,8 +1,11 @@
 ---
+album: Don't Lose The Magic
 artists:
 - Shawn Christopher
+external_ids:
+  spotify: spotify:track:5RIuQt5fDaSFGTAJfmxJEJ
 features: []
-genres: []
+first_released_as_single: true
 key: don-t-lose-the-magic-shawn-christopher
 lyrics_url: https://genius.com/Shawn-christopher-dont-lose-the-magic-lyrics
 name: Don't Lose The Magic
@@ -39,6 +42,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1992-04-18'
+release_year: 1992
+runtime: 475160
 ---
 Don't lose the magic
 Don't lose the magic

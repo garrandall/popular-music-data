@@ -1,8 +1,11 @@
 ---
+album: Suncity
 artists:
 - Khalid
+external_ids:
+  spotify: spotify:track:5APhQZZBSImYxrUypTiANE
 features: []
-genres: []
+first_released_as_single: true
 key: better-khalid
 lyrics_url: https://genius.com/Khalid-better-lyrics
 name: Better
@@ -199,6 +202,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '2019-08-24'
+release_year: 2018
+runtime: 198400
 ---
 Better
 Nothing, baby

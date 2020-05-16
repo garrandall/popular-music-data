@@ -1,8 +1,11 @@
 ---
+album: This Is The Shack
 artists:
 - The Dove Shack
+external_ids:
+  spotify: spotify:track:7yOze3trRklt4gGPGyjVwN
 features: []
-genres: []
+first_released_as_single: false
 key: summertime-in-the-lbc-the-dove-shack
 lyrics_url: https://genius.com/The-dove-shack-summertime-in-the-lbc-lyrics
 name: Summertime In The LBC
@@ -87,6 +90,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1995-12-23'
+release_year: 1995
+runtime: 238800
 ---
 Yeah, This is C Knight from the Dove Shack
 Gettin' dojahed out

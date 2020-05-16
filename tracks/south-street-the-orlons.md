@@ -1,8 +1,11 @@
 ---
+album: The Wah-Watusi/South Street
 artists:
 - The Orlons
+external_ids:
+  spotify: spotify:track:2yoTFqvgtJgEK68lfUC9Kp
 features: []
-genres: []
+first_released_as_single: false
 key: south-street-the-orlons
 lyrics_url: https://genius.com/The-orlons-south-street-lyrics
 name: South Street
@@ -59,6 +62,8 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1963-05-11'
+release_year: 1962
+runtime: 132453
 ---
 Where do all the hippest meet? (South Street, South Street)
 Where the dancin' is elite (South Street, South Street)

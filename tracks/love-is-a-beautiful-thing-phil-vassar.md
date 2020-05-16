@@ -1,8 +1,11 @@
 ---
+album: Prayer Of A Common Man
 artists:
 - Phil Vassar
+external_ids:
+  spotify: spotify:track:2tb6j9YOtNcdBRlnV5zHW7
 features: []
-genres: []
+first_released_as_single: true
 key: love-is-a-beautiful-thing-phil-vassar
 lyrics_url: https://www.azlyrics.com/lyrics/philvassar/loveisabeautifulthing.html
 name: Love Is A Beautiful Thing
@@ -75,8 +78,9 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2008-06-28'
+release_year: 2007
+runtime: 237826
 ---
-
 Look's like everybody's here
 Had to put some folding chairs in the vestibule
 Yeah, it's gettin' full
@@ -139,6 +143,3 @@ Throw the rice in the air
 Let the church bells ring
 Tie the cans to the back of that limousine
 Love, two people in love is a beautiful thing
-
-
-

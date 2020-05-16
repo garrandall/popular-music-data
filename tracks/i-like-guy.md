@@ -1,8 +1,11 @@
 ---
+album: Guy
 artists:
 - Guy
+external_ids:
+  spotify: spotify:track:67j0ZucyzdfMGWLe2kh6Ze
 features: []
-genres: []
+first_released_as_single: false
 key: i-like-guy
 lyrics_url: https://genius.com/Guy-i-like-lyrics
 name: I Like
@@ -35,6 +38,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1989-06-17'
+release_year: 1988
+runtime: 294475
 ---
 (I like) Girl words can't express the way I feel for you
 (I like) The way you hold me, the way you touch me

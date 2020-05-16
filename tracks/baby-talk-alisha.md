@@ -1,8 +1,11 @@
 ---
+album: Alisha
 artists:
 - Alisha
+external_ids:
+  spotify: spotify:track:0qZjI2OW5qyBlxpTCYeDai
 features: []
-genres: []
+first_released_as_single: false
 key: baby-talk-alisha
 lyrics_url: https://genius.com/Alisha-baby-talk-lyrics
 name: Baby Talk
@@ -75,6 +78,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1986-04-12'
+release_year: 1985
+runtime: 405466
 ---
 It's too bad not to know
 I don't know

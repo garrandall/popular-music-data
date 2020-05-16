@@ -1,8 +1,11 @@
 ---
+album: '...All This Time'
 artists:
 - Sting
+external_ids:
+  spotify: spotify:track:7CVx5BviLkGyR1xIirrHzl
 features: []
-genres: []
+first_released_as_single: true
 key: when-we-dance-sting
 lyrics_url: https://genius.com/Sting-when-we-dance-lyrics
 name: When We Dance
@@ -79,6 +82,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1995-02-25'
+release_year: 1994
+runtime: 298240
 ---
 If he loves you
 Like I love you

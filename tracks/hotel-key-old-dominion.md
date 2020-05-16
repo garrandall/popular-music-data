@@ -1,8 +1,11 @@
 ---
+album: Happy Endings
 artists:
 - Old Dominion
+external_ids:
+  spotify: spotify:track:33471tzU1VghDg9zNgGRpz
 features: []
-genres: []
+first_released_as_single: false
 key: hotel-key-old-dominion
 lyrics_url: https://www.azlyrics.com/lyrics/olddominion/hotelkey.html
 name: Hotel Key
@@ -83,8 +86,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2018-11-17'
+release_year: 2017
+runtime: 166573
 ---
-
 Well it was down some street we couldn't even pronounce
 We were smoking a little from a half an ounce
 The tequila was cheap but the flow we were feeling was real
@@ -142,6 +146,3 @@ Yeah she kept it
 She kept the hotel key
 Oh
 She kept the hotel key
-
-
-

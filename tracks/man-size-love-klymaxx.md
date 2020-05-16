@@ -1,8 +1,11 @@
 ---
+album: Klymaxx
 artists:
 - Klymaxx
+external_ids:
+  spotify: spotify:track:4rVTbwop3mruiYMoAQ6buN
 features: []
-genres: []
+first_released_as_single: false
 key: man-size-love-klymaxx
 lyrics_url: https://www.azlyrics.com/lyrics/klymaxx/mansizelove.html
 name: Man Size Love
@@ -67,8 +70,9 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1986-10-11'
+release_year: 1986
+runtime: 341746
 ---
-
 Standing in the shadows
 Calling out his name
 Waiting for a lover
@@ -154,6 +158,3 @@ Thrill me with the things
 That I understand
 Baby can't you feel it?
 You can hold my heart
-
-
-

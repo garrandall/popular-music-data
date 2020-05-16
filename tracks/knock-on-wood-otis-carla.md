@@ -1,9 +1,12 @@
 ---
+album: King & Queen
 artists:
 - Otis
 - Carla
+external_ids:
+  spotify: spotify:track:5Sx26i9lDxDHTOM5YvxVOt
 features: []
-genres: []
+first_released_as_single: false
 key: knock-on-wood-otis-carla
 lyrics_url: https://www.azlyrics.com/lyrics/otisredding/knockonwood.html
 name: Knock On Wood
@@ -44,12 +47,9 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1967-10-07'
+release_year: 1967
+runtime: 172760
 ---
-
-
-
-
-
 I don't' wanna loose
 This good thing (Baby)
 That I got If I do, now
@@ -95,6 +95,3 @@ I think I better knock, knock, knock on wood
 I think I better knock, knock, knock on wood
 I think I better knock, knock, knock on wood
 I think I better knock, knock, knock on wood
-
-
-

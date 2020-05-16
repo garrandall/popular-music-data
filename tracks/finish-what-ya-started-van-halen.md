@@ -1,8 +1,11 @@
 ---
+album: OU812
 artists:
 - Van Halen
+external_ids:
+  spotify: spotify:track:37A5wFomo4EVz5tGInAynI
 features: []
-genres: []
+first_released_as_single: false
 key: finish-what-ya-started-van-halen
 lyrics_url: https://www.azlyrics.com/lyrics/vanhalen/finishwhatyastarted.html
 name: Finish What Ya Started
@@ -87,8 +90,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1989-02-11'
+release_year: 1988
+runtime: 263133
 ---
-
 If you wanna see other guys
 Baby, I could let it slide
 You wanna lover, you want a friend
@@ -157,6 +161,3 @@ Uh, come on!
 Now, come on!
 Baby come on)
 Uh, come on!
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: The Complete Season 9 Collection (The Voice Performance)
 artists:
 - Emily Ann Roberts
+external_ids:
+  spotify: spotify:track:4hgrcrkcaHtsdKU35RZyn6
 features: []
-genres: []
+first_released_as_single: false
 key: burning-house-emily-ann-roberts
 lyrics_url: https://www.musixmatch.com/lyrics/Emily-Ann-Roberts/Burning-House-The-Voice-Performance
 name: Burning House
@@ -11,6 +14,8 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '2016-01-02'
+release_year: 2015
+runtime: 186853
 ---
 I had a dream about a burning house
 You were stuck inside, I couldn't get you out

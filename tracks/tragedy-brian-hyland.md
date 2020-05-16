@@ -1,8 +1,11 @@
 ---
+album: Chronology
 artists:
 - Brian Hyland
+external_ids:
+  spotify: spotify:track:0sAE0W22n0Ygie95b15wNE
 features: []
-genres: []
+first_released_as_single: false
 key: tragedy-brian-hyland
 lyrics_url: https://genius.com/Brian-hyland-tragedy-lyrics
 name: Tragedy
@@ -47,6 +50,8 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '1969-03-15'
+release_year: 1969
+runtime: 176066
 ---
 Wind and storm, goes the sun
 From the stars, my dark has come

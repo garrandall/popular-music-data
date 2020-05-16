@@ -1,9 +1,12 @@
 ---
+album: Iicons
 artists:
 - Naughty By Nature
+external_ids:
+  spotify: spotify:track:3uh7YcFzAWHGg7spVzPfqP
 features:
 - 3LW
-genres: []
+first_released_as_single: false
 key: feels-good--don-t-worry-bout-a-thing--naughty-by-nature-3lw
 lyrics_url: https://genius.com/Naughty-by-nature-feels-good-dont-worry-bout-a-thang-lyrics
 name: Feels Good (Don't Worry Bout A Thing)
@@ -88,6 +91,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2002-08-10'
+release_year: 2002
+runtime: 253626
 ---
 Ohh.. hey Naughty..
 
@@ -148,11 +153,11 @@ Body to body dance... Naughty
 Oh lordie, its IIcon and Naughty
 It's the groove move more of us hate, come on tour with us
 IF everybody smiles it makes the whole day glorious
-Sliiiide left, sliiiiide right
+Slide left, slide right
 Throw your hands high - I know that's right!
 Now I strong, we ride strong, double IIcons
 Wanna stop hurtin better let bygones be bygones
-Sliiiide left, sliiiiide right
+Slide left, slide right
 Dance ya spine out, wind let me find out
 Oh-ah Oh-ah, outdoor with indo'
 Aiyyy-yo! Drop the keys out the window

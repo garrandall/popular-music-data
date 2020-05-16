@@ -1,8 +1,11 @@
 ---
+album: Girls With Guns
 artists:
 - Tommy Shaw
+external_ids:
+  spotify: spotify:track:44JFvUCM9325jy7M10AKBg
 features: []
-genres: []
+first_released_as_single: false
 key: lonely-school-tommy-shaw
 lyrics_url: https://genius.com/Tommy-shaw-lonely-school-lyrics
 name: Lonely School
@@ -43,6 +46,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1985-02-09'
+release_year: 1984
+runtime: 300480
 ---
 I drove past where we used to live
 You might have caught a glimpse of me

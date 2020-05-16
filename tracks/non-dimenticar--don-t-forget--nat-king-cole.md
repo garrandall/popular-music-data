@@ -1,8 +1,11 @@
 ---
+album: The Nat King Cole Story
 artists:
 - Nat King Cole
+external_ids:
+  spotify: spotify:track:7eC0hWA0WSAaZvPM0t38lv
 features: []
-genres: []
+first_released_as_single: false
 key: non-dimenticar--don-t-forget--nat-king-cole
 lyrics_url: https://genius.com/Nat-king-cole-non-dimenticar-lyrics
 name: Non Dimenticar (Don't Forget)
@@ -51,6 +54,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1958-12-22'
+release_year: 1958
+runtime: 187200
 ---
 Non dimenticar means don't forget you are my darling
 Don't forget to be

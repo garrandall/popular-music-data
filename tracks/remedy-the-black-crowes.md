@@ -1,8 +1,11 @@
 ---
+album: The Southern Harmony And Musical Companion
 artists:
 - The Black Crowes
+external_ids:
+  spotify: spotify:track:217a9W3cZ3ur40RFQW2pTo
 features: []
-genres: []
+first_released_as_single: false
 key: remedy-the-black-crowes
 lyrics_url: https://www.azlyrics.com/lyrics/blackcrowes/remedy.html
 name: Remedy
@@ -43,8 +46,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1992-08-08'
+release_year: 1992
+runtime: 322640
 ---
-
 Baby, baby why can't you sit still?
 Who killed that bird out on you window sill?
 Are you the reason that he broke his back?
@@ -67,6 +71,3 @@ If I come on like a dream?
 Would you let me show you what I mean?
 If you let me come on inside?
 Will you let it slide?
-
-
-

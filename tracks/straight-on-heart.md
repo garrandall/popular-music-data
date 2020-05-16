@@ -1,8 +1,11 @@
 ---
+album: Dog & Butterfly
 artists:
 - Heart
+external_ids:
+  spotify: spotify:track:12ucCd1VANzNJSCMQ5UMvO
 features: []
-genres: []
+first_released_as_single: false
 key: straight-on-heart
 lyrics_url: https://genius.com/Heart-straight-on-lyrics
 name: Straight On
@@ -79,6 +82,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1979-01-20'
+release_year: 1978
+runtime: 307973
 ---
 Quite some time, I been sittin' it out
 Didn't take no chances, I was a prisoner of doubt

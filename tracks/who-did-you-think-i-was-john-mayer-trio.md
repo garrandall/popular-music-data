@@ -1,8 +1,11 @@
 ---
+album: TRY!
 artists:
 - John Mayer Trio
+external_ids:
+  spotify: spotify:track:00gvX9sFwh19OH88f4v4jW
 features: []
-genres: []
+first_released_as_single: false
 key: who-did-you-think-i-was-john-mayer-trio
 lyrics_url: https://genius.com/John-mayer-trio-who-did-you-think-i-was-lyrics
 name: Who Did You Think I Was
@@ -11,6 +14,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2005-10-01'
+release_year: 2005
+runtime: 189160
 ---
 I got half a smile and zero shame
 I got a reflection with a different name

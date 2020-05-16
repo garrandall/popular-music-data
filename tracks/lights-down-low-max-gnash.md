@@ -1,9 +1,12 @@
 ---
+album: Lights Down Low - EP
 artists:
 - MAX
+external_ids:
+  spotify: spotify:track:60vvp6UXG2KmLmrNvcVHa8
 features:
 - gnash
-genres: []
+first_released_as_single: true
 key: lights-down-low-max-gnash
 lyrics_url: https://www.azlyrics.com/lyrics/max/lightsdownlow-gnash.html
 name: Lights Down Low
@@ -120,8 +123,9 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '2018-04-28'
+release_year: 2016
+runtime: 225013
 ---
-
 Heaven only knows where you've been
 But I don't really need to know
 I know where you're gonna go
@@ -202,6 +206,3 @@ Turn the lights, turn the lights down low
 
 Oh
 Turn the lights down low
-
-
-

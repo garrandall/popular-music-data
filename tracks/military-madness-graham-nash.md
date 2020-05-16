@@ -1,8 +1,11 @@
 ---
+album: Songs For Beginners
 artists:
 - Graham Nash
+external_ids:
+  spotify: spotify:track:6n3Wk44F3ZZwts8OAyB2zK
 features: []
-genres: []
+first_released_as_single: false
 key: military-madness-graham-nash
 lyrics_url: https://www.azlyrics.com/lyrics/grahamnash/militarymadness.html
 name: Military Madness
@@ -31,8 +34,9 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1971-10-09'
+release_year: 1971
+runtime: 176666
 ---
-
 In an upstairs room in Blackpool
 By the side of a Northern Sea
 The army had my father
@@ -65,6 +69,3 @@ Between you and me
 
 War, war, war
 War, war, war
-
-
-

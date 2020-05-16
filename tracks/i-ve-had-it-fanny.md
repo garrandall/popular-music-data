@@ -1,8 +1,11 @@
 ---
+album: Heard It On the Radio, Vol. 7
 artists:
 - Fanny
+external_ids:
+  spotify: spotify:track:4CqwojuTO50lSyS5DvyrCZ
 features: []
-genres: []
+first_released_as_single: false
 key: i-ve-had-it-fanny
 lyrics_url: https://genius.com/Fanny-ive-had-it-lyrics
 name: I've Had It
@@ -35,6 +38,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1974-07-20'
+release_year: 1974
+runtime: 185520
 ---
 When I saw you on the corner
 Then I knew that I was a goner

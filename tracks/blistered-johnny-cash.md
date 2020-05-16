@@ -1,8 +1,11 @@
 ---
+album: At San Quentin
 artists:
 - Johnny Cash
+external_ids:
+  spotify: spotify:track:1NU0hPrAef1Jv1sHEHlkmb
 features: []
-genres: []
+first_released_as_single: false
 key: blistered-johnny-cash
 lyrics_url: https://genius.com/Johnny-cash-blistered-lyrics
 name: Blistered
@@ -31,6 +34,8 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '1969-12-27'
+release_year: 1969
+runtime: 105626
 ---
 I've got great big blisters on my bloodshot
 Eyes from looking at that long legged woman up ahead

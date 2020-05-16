@@ -1,8 +1,11 @@
 ---
+album: Essential Sue Thompson
 artists:
 - Sue Thompson
+external_ids:
+  spotify: spotify:track:0jjxoU70YIa8KhehsFRedX
 features: []
-genres: []
+first_released_as_single: false
 key: two-of-a-kind-sue-thompson
 lyrics_url: https://genius.com/Sue-thompson-two-of-a-kind-lyrics
 name: Two Of A Kind
@@ -43,6 +46,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1962-05-12'
+release_year: 1961
+runtime: 170106
 ---
 They say we're searching for love we'll never find
 They say we're foolish kids, we're two of a kind

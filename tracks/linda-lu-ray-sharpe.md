@@ -1,8 +1,11 @@
 ---
+album: "Rockin\u2019 Classics"
 artists:
 - Ray Sharpe
+external_ids:
+  spotify: spotify:track:5eFtAb55Lmb9wj739PBi0O
 features: []
-genres: []
+first_released_as_single: false
 key: linda-lu-ray-sharpe
 lyrics_url: https://www.musixmatch.com/lyrics/Ray-Sharpe/Linda-Lu
 name: Linda Lu
@@ -59,6 +62,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1959-10-12'
+release_year: 1959
+runtime: 128000
 ---
 Well, they call my Baby, Patty
 But her real name, her real name, her real name is Linda Lu

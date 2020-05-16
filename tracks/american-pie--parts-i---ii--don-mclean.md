@@ -1,8 +1,11 @@
 ---
+album: American Pie
 artists:
 - Don McLean
+external_ids:
+  spotify: spotify:track:1fDsrQ23eTAVFElUMaf38X
 features: []
-genres: []
+first_released_as_single: false
 key: american-pie--parts-i---ii--don-mclean
 lyrics_url: https://genius.com/Don-mclean-american-pie-lyrics
 name: American Pie (Parts I & II)
@@ -83,6 +86,8 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '1972-04-01'
+release_year: 1971
+runtime: 516893
 ---
 A long, long time ago...
 I can still remember

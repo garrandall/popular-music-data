@@ -1,8 +1,11 @@
 ---
+album: Blues Ballads
 artists:
 - LaVern Baker
+external_ids:
+  spotify: spotify:track:6BFVvFyHiHmrFBfLv7bRnr
 features: []
-genres: []
+first_released_as_single: false
 key: i-waited-too-long-lavern-baker
 lyrics_url: https://genius.com/Lavern-baker-i-waited-too-long-lyrics
 name: I Waited Too Long
@@ -51,6 +54,8 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '1959-06-29'
+release_year: 1959
+runtime: 152653
 ---
 I waited too long
 And now we're apart

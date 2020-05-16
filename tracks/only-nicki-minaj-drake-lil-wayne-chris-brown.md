@@ -1,11 +1,14 @@
 ---
+album: The Pinkprint
 artists:
 - Nicki Minaj
+external_ids:
+  spotify: spotify:track:4MRT0dDbhqFKl67WzhUbSw
 features:
 - Drake
 - Lil Wayne
 - Chris Brown
-genres: []
+first_released_as_single: false
 key: only-nicki-minaj-drake-lil-wayne-chris-brown
 lyrics_url: https://www.azlyrics.com/lyrics/nickiminaj/only.html
 name: Only
@@ -110,9 +113,9 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2015-05-02'
+release_year: 2014
+runtime: 312026
 ---
-
-
 Yo, I never fucked Wayne, I never fucked Drake
 On my life, man, fuck's sake
 If I did I'd Minaj wid' him and let 'em eat my ass like a cupcake
@@ -203,4 +206,3 @@ Like Jamie Foxx acting like Ray Charles
 17 ward bully with 17 bullets
 My story is how I went from poor me
 To please pour me a drink and celebrate with me
-

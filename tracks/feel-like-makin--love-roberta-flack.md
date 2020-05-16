@@ -1,8 +1,11 @@
 ---
+album: Feel Like Makin' Love
 artists:
 - Roberta Flack
+external_ids:
+  spotify: spotify:track:7gkboYtvhuXNS4EUwmFPcw
 features: []
-genres: []
+first_released_as_single: false
 key: feel-like-makin--love-roberta-flack
 lyrics_url: https://www.azlyrics.com/lyrics/robertaflack/feellikemakinlove.html
 name: Feel Like Makin' Love
@@ -71,8 +74,9 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '1974-10-05'
+release_year: 1974
+runtime: 175400
 ---
-
 Strollin' in the park
 Watchin' winter turn to spring
 Walkin' in the dark
@@ -114,6 +118,3 @@ Seein' lovers do their thing
 Oo-oo-oh
 That's the time
 I feel like makin' love to you
-
-
-

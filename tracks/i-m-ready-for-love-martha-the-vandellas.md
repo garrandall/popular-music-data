@@ -1,9 +1,12 @@
 ---
+album: Watchout!
 artists:
 - Martha
 - The Vandellas
+external_ids:
+  spotify: spotify:track:1NzDXJTbP1zHDLZrulnfMk
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-ready-for-love-martha-the-vandellas
 lyrics_url: https://genius.com/Martha-reeves-and-the-vandellas-im-ready-for-love-lyrics
 name: I'm Ready For Love
@@ -48,6 +51,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1966-12-31'
+release_year: 1966
+runtime: 171533
 ---
 As I stand alone on this mournful night
 For the first time I feel alone in light

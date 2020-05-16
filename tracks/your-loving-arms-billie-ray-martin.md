@@ -1,8 +1,11 @@
 ---
+album: Deadline For My Memories
 artists:
 - Billie Ray Martin
+external_ids:
+  spotify: spotify:track:43uEswibmbXpBBwy5kzAmt
 features: []
-genres: []
+first_released_as_single: false
 key: your-loving-arms-billie-ray-martin
 lyrics_url: https://genius.com/Billie-ray-martin-your-loving-arms-lyrics
 name: Your Loving Arms
@@ -99,6 +102,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1996-07-13'
+release_year: 1995
+runtime: 396066
 ---
 Oh burnin' inside yeah I'm burnin' inside yeah
 Oh burnin' inside now I'm burnin' inside now yeah

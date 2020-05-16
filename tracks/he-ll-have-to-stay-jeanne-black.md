@@ -1,8 +1,11 @@
 ---
+album: Lost Hits Of The 60's (All Original Artists & Versions)
 artists:
 - Jeanne Black
+external_ids:
+  spotify: spotify:track:4OgCE8bmGO7eatG3OuBEju
 features: []
-genres: []
+first_released_as_single: false
 key: he-ll-have-to-stay-jeanne-black
 lyrics_url: https://genius.com/Jeanne-black-hell-have-to-stay-lyrics
 name: He'll Have To Stay
@@ -51,6 +54,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1960-07-11'
+release_year: 1960
+runtime: 164440
 ---
 I am glad you've finally called me on the phone
 I've been waiting here tonight but not alone

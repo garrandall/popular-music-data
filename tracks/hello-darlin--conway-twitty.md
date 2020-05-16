@@ -1,8 +1,11 @@
 ---
+album: Hello Darlin'
 artists:
 - Conway Twitty
+external_ids:
+  spotify: spotify:track:6vmAgl2y9MpoZKrVUXrPe5
 features: []
-genres: []
+first_released_as_single: false
 key: hello-darlin--conway-twitty
 lyrics_url: https://genius.com/Conway-twitty-hello-darlin-lyrics
 name: Hello Darlin'
@@ -39,6 +42,8 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '1970-08-22'
+release_year: 1970
+runtime: 149133
 ---
 Hello Darlin'
 Nice to see you

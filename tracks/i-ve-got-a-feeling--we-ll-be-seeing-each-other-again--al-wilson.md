@@ -1,8 +1,11 @@
 ---
+album: I've Got a Feeling
 artists:
 - Al Wilson
+external_ids:
+  spotify: spotify:track:1twbyNBfmBi00h6acviBvF
 features: []
-genres: []
+first_released_as_single: false
 key: i-ve-got-a-feeling--we-ll-be-seeing-each-other-again--al-wilson
 lyrics_url: https://genius.com/Al-wilson-ive-got-a-feeling-well-be-seeing-each-other-again-lyrics
 name: I've Got A Feeling (We'll Be Seeing Each Other Again)
@@ -47,6 +50,8 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '1976-05-29'
+release_year: 1976
+runtime: 197130
 ---
 I've got a feeling
 That we'll be seeing

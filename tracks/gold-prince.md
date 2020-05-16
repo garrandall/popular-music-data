@@ -1,8 +1,11 @@
 ---
+album: ''
 artists:
 - Prince
+external_ids:
+  spotify: spotify:track:02xJ0V8wj4ZMBMLNckcogH
 features: []
-genres: []
+first_released_as_single: false
 key: gold-prince
 lyrics_url: https://genius.com/Prince-gold-lyrics
 name: Gold
@@ -15,6 +18,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1995-12-30'
+release_year: 1992
+runtime: 363306
 ---
 There's a mountain, and it's mighty high
 You cannot see the top, unless you fly

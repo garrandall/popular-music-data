@@ -1,8 +1,11 @@
 ---
+album: Endless Wire
 artists:
 - The Who
+external_ids:
+  spotify: spotify:track:5orygsZ5Ga0jEOvftsXqw2
 features: []
-genres: []
+first_released_as_single: false
 key: the-seeker-the-who
 lyrics_url: https://genius.com/The-who-the-seeker-lyrics
 name: The Seeker
@@ -35,6 +38,8 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '1970-05-30'
+release_year: 1970
+runtime: 190373
 ---
 I looked under chairs
 I looked under tables

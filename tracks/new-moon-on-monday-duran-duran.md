@@ -1,8 +1,11 @@
 ---
+album: Seven and the Ragged Tiger
 artists:
 - Duran Duran
+external_ids:
+  spotify: spotify:track:74tXc7WOWxEDZahXcyPG9D
 features: []
-genres: []
+first_released_as_single: false
 key: new-moon-on-monday-duran-duran
 lyrics_url: https://www.azlyrics.com/lyrics/duranduran/newmoononmonday.html
 name: New Moon On Monday
@@ -71,8 +74,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1984-04-28'
+release_year: 1983
+runtime: 256279
 ---
-
 Shake up the picture the lizard mixture
 With your dance on the eventide
 You got me coming up with answers
@@ -100,4 +104,3 @@ Clues that you leave behind
 Save me from these reminders
 As if I'd forget tonight
 This time La Luna
-

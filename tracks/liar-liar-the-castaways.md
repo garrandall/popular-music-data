@@ -1,8 +1,11 @@
 ---
+album: One Hit Wonders - Vol. 1
 artists:
 - The Castaways
+external_ids:
+  spotify: spotify:track:3C7HT4XA9Gw5XbJv4QAvIg
 features: []
-genres: []
+first_released_as_single: false
 key: liar-liar-the-castaways
 lyrics_url: https://genius.com/The-castaways-liar-liar-lyrics
 name: Liar Liar
@@ -63,6 +66,8 @@ rankings:
   rank: 37
   ranking_list: Billboard Hot 100
   start_date: '1965-11-13'
+release_year: 1965
+runtime: 110493
 ---
 Liar, liar, pants on fire
 Your nose is longer than a telephone wire

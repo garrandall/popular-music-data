@@ -1,8 +1,11 @@
 ---
+album: Reasonable Doubt
 artists:
 - JAY-Z
+external_ids:
+  spotify: spotify:track:2ey8VvW7LS4G0q9xtgEtBA
 features: []
-genres: []
+first_released_as_single: false
 key: feelin--it-jay-z
 lyrics_url: https://genius.com/Jay-z-feelin-it-lyrics
 name: Feelin' It
@@ -43,6 +46,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1997-06-28'
+release_year: 1996
+runtime: 227360
 ---
 Ha ha, ha ha
 What.. '96 and forever

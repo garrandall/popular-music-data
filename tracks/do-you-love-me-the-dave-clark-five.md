@@ -1,8 +1,11 @@
 ---
+album: Glad All Over
 artists:
 - The Dave Clark Five
+external_ids:
+  spotify: spotify:track:3qjl89Zx45QpRL0o6wTvDM
 features: []
-genres: []
+first_released_as_single: false
 key: do-you-love-me-the-dave-clark-five
 lyrics_url: https://genius.com/The-dave-clark-five-do-you-love-me-lyrics
 name: Do You Love Me
@@ -47,6 +50,8 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '1964-07-04'
+release_year: 1964
+runtime: 163653
 ---
 You broke my heart 'cause I couldn't dance
 You didn't even want me around

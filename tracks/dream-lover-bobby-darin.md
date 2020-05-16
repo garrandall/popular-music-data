@@ -1,8 +1,11 @@
 ---
+album: Sing & Swing With Bobby Darin
 artists:
 - Bobby Darin
+external_ids:
+  spotify: spotify:track:1KLpjQFgubHI3GkAICCNH3
 features: []
-genres: []
+first_released_as_single: false
 key: dream-lover-bobby-darin
 lyrics_url: https://genius.com/Bobby-darin-dream-lover-lyrics
 name: Dream Lover
@@ -75,6 +78,8 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '1959-08-10'
+release_year: 1959
+runtime: 150706
 ---
 Every night I hope and pray
 A dream lover will come my way

@@ -1,8 +1,11 @@
 ---
+album: The Fabulous Favorites
 artists:
 - Kay Starr
+external_ids:
+  spotify: spotify:track:7wAzqU8jYiqjLSvaTsfPxR
 features: []
-genres: []
+first_released_as_single: false
 key: foolin--around-kay-starr
 lyrics_url: https://genius.com/Kay-starr-foolin-around-lyrics
 name: Foolin' Around
@@ -43,6 +46,8 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '1961-05-15'
+release_year: 1961
+runtime: 140733
 ---
 I know that you've been foolin' around on me right from the start
 So I'll give back your ring and I'll take back my heart

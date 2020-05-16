@@ -1,9 +1,12 @@
 ---
+album: Talk Dirty
 artists:
 - Jason Derulo
+external_ids:
+  spotify: spotify:track:6g6A7qNhTfUgOSH7ROOxTD
 features:
 - 2 Chainz
-genres: []
+first_released_as_single: false
 key: talk-dirty-jason-derulo-2-chainz
 lyrics_url: https://genius.com/Talk-dirty-talk-dirty-tribute-to-jason-derulo-and-2-chainz-lyrics
 name: Talk Dirty
@@ -140,6 +143,8 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '2014-08-16'
+release_year: 2013
+runtime: 177685
 ---
 Jason, ha ha
 Jason Derulo

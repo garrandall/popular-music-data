@@ -1,8 +1,11 @@
 ---
+album: Nubia Soul
 artists:
 - Jomanda
+external_ids:
+  spotify: spotify:track:041ABl7CuQnTuBYmuzzsRm
 features: []
-genres: []
+first_released_as_single: false
 key: i-like-it-jomanda
 lyrics_url: https://genius.com/Jomanda-i-like-it-lyrics
 name: I Like It
@@ -31,6 +34,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1993-08-14'
+release_year: 1993
+runtime: 264426
 ---
 Boy, I've been thinkin' 'bout you, for quite a while
 You're on my mind everyday and every night

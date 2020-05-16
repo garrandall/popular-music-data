@@ -1,8 +1,11 @@
 ---
+album: 'Greatest Hits: The Mercury Years'
 artists:
 - Brook Benton
+external_ids:
+  spotify: spotify:track:29W8uzEFa8e21w4SL7ozUs
 features: []
-genres: []
+first_released_as_single: false
 key: walk-on-the-wild-side-brook-benton
 lyrics_url: https://genius.com/Brook-benton-walk-on-the-wild-side-lyrics
 name: Walk On The Wild Side
@@ -35,6 +38,8 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '1962-03-31'
+release_year: 1962
+runtime: 155533
 ---
 Sinner, hear what I'm sayin'
 Sinner, you've been swingin', not prayin'

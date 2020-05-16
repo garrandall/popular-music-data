@@ -1,9 +1,12 @@
 ---
+album: 'The Ultimate Collection: Captain & Tennille'
 artists:
 - Captain
 - Tennille
+external_ids:
+  spotify: spotify:track:6pStcHAawim9a5Bp50whXi
 features: []
-genres: []
+first_released_as_single: false
 key: por-amor-viviremos-captain-tennille
 lyrics_url: https://www.azlyrics.com/lyrics/captaintennille/poramorviviremos.html
 name: Por Amor Viviremos
@@ -32,8 +35,9 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1975-09-20'
+release_year: 1975
+runtime: 203773
 ---
-
 Si, por amor viviremos
 Piense en mi en el momento
 Que una linda mujer
@@ -94,6 +98,3 @@ Yo soy (ever) yo soy (ever)
 Yo soy (ever) yo soy (ever)
 
 Da da da da
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Double Trouble-Live
 artists:
 - Molly Hatchet
+external_ids:
+  spotify: spotify:track:2M1rkXg01pHFVaGg99xOh0
 features: []
-genres: []
+first_released_as_single: false
 key: satisfied-man-molly-hatchet
 lyrics_url: https://www.azlyrics.com/lyrics/mollyhatchet/satisfiedman.html
 name: Satisfied Man
@@ -27,8 +30,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1984-11-17'
+release_year: 1984
+runtime: 283200
 ---
-
 Don't do no drugs
 Ain't got the time
 I keep it straight
@@ -105,6 +109,3 @@ Satisfied man
 Satisfied man
 Satisfied man
 I'm a satisfied man.
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: 'Good Morning Freedom: The Anthology'
 artists:
 - Blue Mink
+external_ids:
+  spotify: spotify:track:4Pa1My7Qsg5uhDU3AHc718
 features: []
-genres: []
+first_released_as_single: false
 key: our-world-blue-mink
 lyrics_url: https://genius.com/Blue-mink-our-world-lyrics
 name: Our World
@@ -31,6 +34,8 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '1970-10-31'
+release_year: 1970
+runtime: 240333
 ---
 Suddenly I woke this morning, the light was dawning on me
 Tumbling from my bed and scratching my head, I looked up to see

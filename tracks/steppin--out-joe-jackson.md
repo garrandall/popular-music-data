@@ -1,8 +1,11 @@
 ---
+album: Night And Day
 artists:
 - Joe Jackson
+external_ids:
+  spotify: spotify:track:2KY0QUeRY3IPuJI1gyU9BJ
 features: []
-genres: []
+first_released_as_single: false
 key: steppin--out-joe-jackson
 lyrics_url: https://www.azlyrics.com/lyrics/joejackson/steppinout.html
 name: Steppin' Out
@@ -115,8 +118,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1983-02-19'
+release_year: 1982
+runtime: 268200
 ---
-
 Now 
 The mist across the window hides the lines
 But nothing hides the colour of the lights that shine
@@ -165,6 +169,3 @@ Into the light
 Me babe, steppin' out
 Into the night
 Into the light
-
-
-

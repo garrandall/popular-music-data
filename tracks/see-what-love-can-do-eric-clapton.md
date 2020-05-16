@@ -1,8 +1,11 @@
 ---
+album: Behind the Sun
 artists:
 - Eric Clapton
+external_ids:
+  spotify: spotify:track:0ldGt691SIoqABL54QQ5gd
 features: []
-genres: []
+first_released_as_single: false
 key: see-what-love-can-do-eric-clapton
 lyrics_url: https://genius.com/Eric-clapton-see-what-love-can-do-lyrics
 name: See What Love Can Do
@@ -15,6 +18,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1985-07-06'
+release_year: 1985
+runtime: 238973
 ---
 When your world, it starts to fall apart
 Look deep within, within your lonely heart

@@ -1,8 +1,11 @@
 ---
+album: My First Time Around
 artists:
 - Betty Wright
+external_ids:
+  spotify: spotify:track:2geMYfXFhqZFMdrF08XSLz
 features: []
-genres: []
+first_released_as_single: false
 key: girls-can-t-do-what-the-guys-do-betty-wright
 lyrics_url: https://genius.com/Betty-wright-girls-cant-do-what-the-guys-do-lyrics
 name: Girls Can't Do What The Guys Do
@@ -39,6 +42,8 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '1968-09-21'
+release_year: 1968
+runtime: 127666
 ---
 The guys are gonna wander
 Go out and play some times

@@ -1,8 +1,11 @@
 ---
+album: Summer (The First Time)
 artists:
 - Bobby Goldsboro
+external_ids:
+  spotify: spotify:track:4vaC9C0EfNT8rVfJD4dbmo
 features: []
-genres: []
+first_released_as_single: false
 key: the-straight-life-bobby-goldsboro
 lyrics_url: https://www.azlyrics.com/lyrics/bobbygoldsboro/thestraightlife.html
 name: The Straight Life
@@ -39,8 +42,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1968-12-14'
+release_year: 1968
+runtime: 172920
 ---
-
 Sometimes I imagine myself as a drifter
 Seeker of fortunes, connoisseur of great wines
 Dashing through meadows of yellow and green
@@ -82,6 +86,3 @@ Runnin' away with my mind
 It's great to be in love, I'm not really thinkin' of
 Leavin' the straight life behind
 I'm just playin' a game in my mind
-
-
-

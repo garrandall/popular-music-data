@@ -1,9 +1,12 @@
 ---
+album: For Cool Grandkids Everywhere
 artists:
 - Danny
 - The Juniors
+external_ids:
+  spotify: spotify:track:6Fv7hFDDqwu9dbYadrwpme
 features: []
-genres: []
+first_released_as_single: true
 key: pony-express-danny-the-juniors
 lyrics_url: https://genius.com/Danny-and-the-juniors-pony-express-lyrics
 name: Pony Express
@@ -36,6 +39,8 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1961-04-03'
+release_year: 1961
+runtime: 149386
 ---
 Pack up your bags, put on your dress
 Caught a ride on the Pony Express

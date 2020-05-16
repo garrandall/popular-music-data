@@ -1,8 +1,11 @@
 ---
+album: Instant Replay
 artists:
 - The Monkees
+external_ids:
+  spotify: spotify:track:5JDbqSNMXTRQgf2oCyPHWJ
 features: []
-genres: []
+first_released_as_single: false
 key: someday-man-the-monkees
 lyrics_url: https://www.azlyrics.com/lyrics/monkees/somedayman.html
 name: Someday Man
@@ -15,8 +18,9 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1969-05-17'
+release_year: 1969
+runtime: 159906
 ---
-
 Some people always complain
 That their life is too short so they hurry it along
 Their worries drive them insane
@@ -58,6 +62,3 @@ I was born a someday man
 I'm a maybe child
 I was born a someday man
 I was always wild
-
-
-

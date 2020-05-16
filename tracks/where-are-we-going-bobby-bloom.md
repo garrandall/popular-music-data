@@ -1,8 +1,11 @@
 ---
+album: Where Are We Going (Expanded)
 artists:
 - Bobby Bloom
+external_ids:
+  spotify: spotify:track:2aLDkROo7XYPtJSVo5wi5h
 features: []
-genres: []
+first_released_as_single: false
 key: where-are-we-going-bobby-bloom
 name: Where Are We Going
 rankings:
@@ -22,5 +25,7 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1971-01-30'
+release_year: 1970
+runtime: 135146
 ---
 

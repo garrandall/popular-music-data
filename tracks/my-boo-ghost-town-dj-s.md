@@ -1,8 +1,11 @@
 ---
+album: My Boo (Hitman's Club Mix)
 artists:
 - Ghost Town DJ's
+external_ids:
+  spotify: spotify:track:4c0rkFPszqQTyC753tsCMU
 features: []
-genres: []
+first_released_as_single: true
 key: my-boo-ghost-town-dj-s
 lyrics_url: https://genius.com/Ghost-town-djs-my-boo-lyrics
 name: My Boo
@@ -151,6 +154,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '2016-06-18'
+release_year: 1996
+runtime: 346840
 ---
 Boy you should know that
 I've got you on my mind

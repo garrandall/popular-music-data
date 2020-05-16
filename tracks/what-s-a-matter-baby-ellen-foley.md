@@ -1,8 +1,11 @@
 ---
+album: Nightout
 artists:
 - Ellen Foley
+external_ids:
+  spotify: spotify:track:0jmKKKt7Iuy14ZnJOGegsf
 features: []
-genres: []
+first_released_as_single: false
 key: what-s-a-matter-baby-ellen-foley
 lyrics_url: https://genius.com/Ellen-foley-whats-a-matter-baby-is-it-hurting-you-lyrics
 name: What's A Matter Baby
@@ -23,6 +26,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1979-12-08'
+release_year: 1979
+runtime: 219920
 ---
 I know the reason you've been cryin'
 And I heard she won't be needin' you

@@ -1,8 +1,11 @@
 ---
+album: Soupy Sales Sez Do The Mouse And Other Teen Hits
 artists:
 - Soupy Sales
+external_ids:
+  spotify: spotify:track:2bTAf7hPTbjiKzvJLqGGbA
 features: []
-genres: []
+first_released_as_single: false
 key: the-mouse-soupy-sales
 lyrics_url: https://genius.com/Soupy-sales-the-mouse-lyrics
 name: The Mouse
@@ -31,6 +34,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1965-05-29'
+release_year: 1965
+runtime: 147040
 ---
 Hey, do the mouse, yeah
 Hey, you can do it in your house yeah

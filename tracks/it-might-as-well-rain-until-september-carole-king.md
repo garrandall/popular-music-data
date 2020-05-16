@@ -1,8 +1,11 @@
 ---
+album: The Living Room Tour (Live)
 artists:
 - Carole King
+external_ids:
+  spotify: spotify:track:7xcxCkGff2NNCO8TeoPC0R
 features: []
-genres: []
+first_released_as_single: false
 key: it-might-as-well-rain-until-september-carole-king
 lyrics_url: https://www.azlyrics.com/lyrics/caroleking/itmightaswellrainuntilseptember.html
 name: It Might As Well Rain Until September
@@ -43,8 +46,9 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1962-10-20'
+release_year: 1962
+runtime: 147573
 ---
-
 What shall I write?
 What can I say?
 How can I tell you how much I miss you?
@@ -70,6 +74,3 @@ I'm only living for the day you're home to stay
 So It might as well rain until September
 September, September, oh
 It might as well rain until September
-
-
-

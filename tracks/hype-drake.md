@@ -1,8 +1,11 @@
 ---
+album: Views
 artists:
 - Drake
+external_ids:
+  spotify: spotify:track:5NFYuqu8V6QXc6mzcLImd6
 features: []
-genres: []
+first_released_as_single: false
 key: hype-drake
 lyrics_url: https://genius.com/Drake-hype-lyrics
 name: Hype
@@ -47,6 +50,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2016-07-23'
+release_year: 2016
+runtime: 209413
 ---
 Man don't live of a di hype huh?
 Real ting ay

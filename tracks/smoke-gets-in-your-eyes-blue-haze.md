@@ -1,8 +1,11 @@
 ---
+album: The Best of Old Rock/Pop
 artists:
 - Blue Haze
+external_ids:
+  spotify: spotify:track:3kiHKOtFYoM3ULlPHNyp7T
 features: []
-genres: []
+first_released_as_single: false
 key: smoke-gets-in-your-eyes-blue-haze
 lyrics_url: https://www.musixmatch.com/lyrics/Blue-Haze/Smoke-Gets-in-Your-Eyes
 name: Smoke Gets In Your Eyes
@@ -63,6 +66,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1973-02-10'
+release_year: 1972
+runtime: 196146
 ---
 Smoke, smoke, smoke, smoke
 Smoke, smoke, smoke, smoke

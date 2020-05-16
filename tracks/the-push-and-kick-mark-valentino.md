@@ -1,8 +1,11 @@
 ---
+album: The Push and Kick
 artists:
 - Mark Valentino
+external_ids:
+  spotify: spotify:track:3B13JXDcBhg94mi4NSsPKv
 features: []
-genres: []
+first_released_as_single: true
 key: the-push-and-kick-mark-valentino
 name: The Push And Kick
 rankings:
@@ -42,5 +45,7 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1963-01-05'
+release_year: 1962
+runtime: 144173
 ---
 

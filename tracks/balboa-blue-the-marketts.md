@@ -1,8 +1,11 @@
 ---
+album: Twilight City
 artists:
 - The Marketts
+external_ids:
+  spotify: spotify:track:55zFQ5348oWQhWkhkwF98E
 features: []
-genres: []
+first_released_as_single: true
 key: balboa-blue-the-marketts
 name: Balboa Blue
 rankings:
@@ -46,5 +49,7 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1962-06-30'
+release_year: 1962
+runtime: 154466
 ---
 

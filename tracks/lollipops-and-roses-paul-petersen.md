@@ -1,8 +1,11 @@
 ---
+album: Lollipops And Roses
 artists:
 - Paul Petersen
+external_ids:
+  spotify: spotify:track:4O3C5wHN2tetlVZEZ7V8aG
 features: []
-genres: []
+first_released_as_single: false
 key: lollipops-and-roses-paul-petersen
 lyrics_url: https://www.musixmatch.com/lyrics/Paul-Petersen/Lollipops-and-Roses
 name: Lollipops And Roses
@@ -35,6 +38,8 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '1962-10-06'
+release_year: 1962
+runtime: 142466
 ---
 (Lollipops and roses)
 (Lollipops and roses)

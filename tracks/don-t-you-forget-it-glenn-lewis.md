@@ -1,8 +1,11 @@
 ---
+album: World Outside My Window
 artists:
 - Glenn Lewis
+external_ids:
+  spotify: spotify:track:6PjpgKVeZnMSM0Hyi4DHDt
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-you-forget-it-glenn-lewis
 lyrics_url: https://genius.com/Glenn-lewis-dont-you-forget-it-lyrics
 name: Don't You Forget It
@@ -87,6 +90,8 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '2002-04-13'
+release_year: 2001
+runtime: 252600
 ---
 Faraway from that life so young
 That's when you used to know

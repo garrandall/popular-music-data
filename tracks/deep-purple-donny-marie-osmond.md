@@ -1,9 +1,12 @@
 ---
+album: Donny & Marie Featuring Songs From Their Television Show
 artists:
 - Donny
 - Marie Osmond
+external_ids:
+  spotify: spotify:track:0i5HtqKaBgIpAC7N0kknqu
 features: []
-genres: []
+first_released_as_single: false
 key: deep-purple-donny-marie-osmond
 lyrics_url: https://genius.com/Donny-and-marie-osmond-deep-purple-lyrics
 name: Deep Purple
@@ -100,6 +103,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1976-05-15'
+release_year: 1975
+runtime: 170653
 ---
 When the deep purple falls
 Over sleepy garden walls

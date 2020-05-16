@@ -1,8 +1,11 @@
 ---
+album: An Innocent Man
 artists:
 - Billy Joel
+external_ids:
+  spotify: spotify:track:1Gg14U26oq94uWcG7khccX
 features: []
-genres: []
+first_released_as_single: false
 key: an-innocent-man-billy-joel
 lyrics_url: https://www.azlyrics.com/lyrics/billyjoel/aninnocentman.html
 name: An Innocent Man
@@ -79,8 +82,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1984-04-14'
+release_year: 1983
+runtime: 318000
 ---
-
 Some people stay far away from the door
 If there's a chance of it opening up
 They hear a voice in the hall outside
@@ -150,6 +154,3 @@ Because I am an innocent man
 I am an innocent man
 Oh yes I am
 An innocent man
-
-
-

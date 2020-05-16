@@ -1,8 +1,11 @@
 ---
+album: Born In The U.S.A.
 artists:
 - Bruce Springsteen
+external_ids:
+  spotify: spotify:track:3PzsbWSQdLCKDLxn7YZfkM
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-on-fire-bruce-springsteen
 lyrics_url: https://genius.com/Bruce-springsteen-im-on-fire-lyrics
 name: I'm On Fire
@@ -87,6 +90,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1985-06-29'
+release_year: 1984
+runtime: 155880
 ---
 Hey, little girl, is your daddy home?
 Did he go away and leave you all alone?

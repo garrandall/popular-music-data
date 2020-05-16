@@ -1,8 +1,11 @@
 ---
+album: Tug Of War
 artists:
 - Paul McCartney
+external_ids:
+  spotify: spotify:track:2t2gZb03AlCSlBzbWeeHsM
 features: []
-genres: []
+first_released_as_single: false
 key: take-it-away-paul-mccartney
 lyrics_url: https://genius.com/Paul-mccartney-take-it-away-lyrics
 name: Take It Away
@@ -71,6 +74,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1982-10-23'
+release_year: 1982
+runtime: 256053
 ---
 Take it away
 Want to hear you play till the lights go down

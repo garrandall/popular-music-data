@@ -1,9 +1,12 @@
 ---
+album: 'Ms. Kelly: Diva Deluxe'
 artists:
 - Kelly Rowland
+external_ids:
+  spotify: spotify:track:4xwwWktL9Gbe8xoWKFFnuB
 features:
 - Eve
-genres: []
+first_released_as_single: false
 key: like-this-kelly-rowland-eve
 lyrics_url: https://genius.com/Kelly-rowland-like-this-lyrics
 name: Like This
@@ -88,6 +91,8 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '2007-08-18'
+release_year: 2007
+runtime: 168360
 ---
 Ladies and gentlemen.. Kelly's back
 

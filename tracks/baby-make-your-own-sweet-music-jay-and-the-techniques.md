@@ -1,8 +1,11 @@
 ---
+album: Best Of Jay And The Techniques
 artists:
 - Jay And The Techniques
+external_ids:
+  spotify: spotify:track:18oX158s1ny8C4Tk7Vcm6l
 features: []
-genres: []
+first_released_as_single: false
 key: baby-make-your-own-sweet-music-jay-and-the-techniques
 lyrics_url: https://genius.com/Jay-and-the-techniques-baby-make-your-own-sweet-music-lyrics
 name: Baby Make Your Own Sweet Music
@@ -39,6 +42,8 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '1968-06-01'
+release_year: 1968
+runtime: 162066
 ---
 Baby, baby
 

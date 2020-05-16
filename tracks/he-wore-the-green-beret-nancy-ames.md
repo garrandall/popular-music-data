@@ -1,8 +1,11 @@
 ---
+album: As Time Goes By
 artists:
 - Nancy Ames
+external_ids:
+  spotify: spotify:track:6o8FFvTMZFCCf9fB4bhXWn
 features: []
-genres: []
+first_released_as_single: false
 key: he-wore-the-green-beret-nancy-ames
 lyrics_url: https://www.musixmatch.com/lyrics/Nancy-Ames/He-Wore-the-Green-Beret
 name: He Wore The Green Beret
@@ -19,6 +22,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1966-04-02'
+release_year: 1966
+runtime: 142786
 ---
 My true love
 Wore the green beret

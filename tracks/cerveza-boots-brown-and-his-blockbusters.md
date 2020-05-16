@@ -1,8 +1,11 @@
 ---
+album: Jazz Latino Vol. 2
 artists:
 - Boots Brown And His Blockbusters
+external_ids:
+  spotify: spotify:track:3eF1xOxaoeslKjwxrdQ2rD
 features: []
-genres: []
+first_released_as_single: false
 key: cerveza-boots-brown-and-his-blockbusters
 name: Cerveza
 rankings:
@@ -38,5 +41,7 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1958-09-29'
+release_year: 1958
+runtime: 126240
 ---
 

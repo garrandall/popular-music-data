@@ -1,8 +1,11 @@
 ---
+album: Foster Sylvers
 artists:
 - Foster Sylvers
+external_ids:
+  spotify: spotify:track:1275YgYg0eukurO8nQi6Vx
 features: []
-genres: []
+first_released_as_single: false
 key: hey-little-girl-foster-sylvers
 name: Hey Little Girl
 rankings:
@@ -26,5 +29,7 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1973-11-03'
+release_year: 1973
+runtime: 173106
 ---
 

@@ -1,8 +1,11 @@
 ---
+album: Super Hits
 artists:
 - Hooters
+external_ids:
+  spotify: spotify:track:20JrcZW9Djp70GZyFRrAfl
 features: []
-genres: []
+first_released_as_single: false
 key: johnny-b-hooters
 lyrics_url: https://genius.com/The-hooters-johnny-b-lyrics
 name: Johnny B
@@ -51,6 +54,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1987-09-26'
+release_year: 1985
+runtime: 237168
 ---
 It's a sleepless night, she's callin' your name
 It's a lonely ride, I know how you want her

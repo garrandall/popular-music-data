@@ -1,8 +1,11 @@
 ---
+album: Free Spirit
 artists:
 - Khalid
+external_ids:
+  spotify: spotify:track:1DUSuNhF8P5vUGNPpQiZa5
 features: []
-genres: []
+first_released_as_single: true
 key: my-bad-khalid
 lyrics_url: https://www.azlyrics.com/lyrics/khalid/mybad.html
 name: My Bad
@@ -19,8 +22,9 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '2019-04-20'
+release_year: 2019
+runtime: 166101
 ---
-
 Can't count up the times you've blown my line
 And that's been on my mind a lot lately
 I wanna leave the extra all behind, mmm
@@ -77,6 +81,3 @@ Oh my, my, my
 Oh my, my, my
 My bad, my bad
 Alright
-
-
-

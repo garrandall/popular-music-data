@@ -1,8 +1,11 @@
 ---
+album: Thank You Happy Birthday
 artists:
 - Cage The Elephant
+external_ids:
+  spotify: spotify:track:1Hb1IJ9bBCa6wo3fRtexnJ
 features: []
-genres: []
+first_released_as_single: false
 key: shake-me-down-cage-the-elephant
 lyrics_url: https://genius.com/Cage-the-elephant-shake-me-down-lyrics
 name: Shake Me Down
@@ -23,6 +26,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2011-04-09'
+release_year: 2011
+runtime: 211373
 ---
 Shake me down, not a lot of people left around
 Who knows now? Softly laying on the ground

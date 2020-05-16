@@ -1,8 +1,11 @@
 ---
+album: Golden Oldies
 artists:
 - The Belmonts
+external_ids:
+  spotify: spotify:track:2DrzDTdx0YS6CxdfnVUq5i
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-get-around-much-anymore-the-belmonts
 lyrics_url: https://www.musixmatch.com/lyrics/The-Belmonts/Dont-Get-Around-Much-Anymore
 name: Don't Get Around Much Anymore
@@ -43,6 +46,8 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1961-10-30'
+release_year: 1961
+runtime: 127192
 ---
 Don't get around much any
 Don't get around much any

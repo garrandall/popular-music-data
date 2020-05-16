@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music, The Complete Season Three'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:27yjn0vzgAp27P2BWQW89b
 features: []
-genres: []
+first_released_as_single: false
 key: perfect-glee-cast
 lyrics_url: https://genius.com/Glee-cast-perfect-lyrics
 name: Perfect
@@ -11,6 +14,8 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '2011-12-17'
+release_year: 2011
+runtime: 210613
 ---
 Kurt
 Made a wrong turn once or twice

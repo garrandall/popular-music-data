@@ -1,8 +1,11 @@
 ---
+album: Lost in Love
 artists:
 - Air Supply
+external_ids:
+  spotify: spotify:track:6OxnToSgslbtjJuNSKSdDQ
 features: []
-genres: []
+first_released_as_single: false
 key: every-woman-in-the-world-air-supply
 lyrics_url: https://www.azlyrics.com/lyrics/airsupply/everywomanintheworld.html
 name: Every Woman In The World
@@ -95,8 +98,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1981-03-21'
+release_year: 1980
+runtime: 209600
 ---
-
 Over night scenes, dinner and wine
 Saturday girls
 I was never in love, never had the time
@@ -124,8 +128,3 @@ So put your hand in mine and together
 We'll climb as high as the highest star
 I'm living a lifetime in every minute that we're together
 And I'm stayin' right here forever oh
-
-
-
-
-

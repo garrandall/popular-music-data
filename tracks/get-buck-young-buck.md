@@ -1,8 +1,11 @@
 ---
+album: Buck The World
 artists:
 - Young Buck
+external_ids:
+  spotify: spotify:track:2v89G6dKQHB3LiV1Ej1vfX
 features: []
-genres: []
+first_released_as_single: false
 key: get-buck-young-buck
 lyrics_url: https://genius.com/Young-buck-get-buck-lyrics
 name: Get Buck
@@ -19,6 +22,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2007-05-05'
+release_year: 2006
+runtime: 254493
 ---
 Yeah, get em Buck
 

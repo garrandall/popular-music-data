@@ -1,9 +1,12 @@
 ---
+album: Down to Earth
 artists:
 - Monie Love
+external_ids:
+  spotify: spotify:track:2tFAP5PycKceC26ZnIqnBt
 features:
 - True Image
-genres: []
+first_released_as_single: false
 key: it-s-a-shame--my-sister--monie-love-true-image
 lyrics_url: https://genius.com/Monie-love-its-a-shame-my-sister-lyrics
 name: It's A Shame (My Sister)
@@ -72,6 +75,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1991-06-29'
+release_year: 1990
+runtime: 222840
 ---
 My sister, my sister, tell me what the trouble is
 I'll try to listen good and give the best advice that I can give

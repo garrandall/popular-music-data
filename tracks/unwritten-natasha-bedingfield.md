@@ -1,8 +1,11 @@
 ---
+album: Unwritten
 artists:
 - Natasha Bedingfield
+external_ids:
+  spotify: spotify:track:1D1nixOVWOxvNfWi0UD7VX
 features: []
-genres: []
+first_released_as_single: false
 key: unwritten-natasha-bedingfield
 lyrics_url: https://www.azlyrics.com/lyrics/natashabedingfield/unwritten.html
 name: Unwritten
@@ -175,8 +178,9 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2006-09-23'
+release_year: 2004
+runtime: 259333
 ---
-
 I am unwritten, can't read my mind
 I'm undefined
 I'm just beginning, the pen's in my hand
@@ -263,6 +267,3 @@ Today is where your book begins
 The rest is still unwritten
 The rest is still unwritten
 The rest is still unwritten
-
-
-

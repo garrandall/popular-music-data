@@ -1,8 +1,11 @@
 ---
+album: 8th Wonder
 artists:
 - Sugarhill Gang
+external_ids:
+  spotify: spotify:track:4UCkX8nrBlpxjrrEqtb46a
 features: []
-genres: []
+first_released_as_single: false
 key: apache-sugarhill-gang
 lyrics_url: https://www.azlyrics.com/lyrics/sugarhillgang/apache.html
 name: Apache
@@ -51,8 +54,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1982-04-24'
+release_year: 1981
+runtime: 373293
 ---
-
 Ho! Ho! Ho!
 
 
@@ -119,4 +123,3 @@ They were jammin off a record that said it best:
 
 Aowowowowowowowowowowowo!
 A-hunga-hunga-hunga-hunga
-

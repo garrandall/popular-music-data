@@ -1,8 +1,11 @@
 ---
+album: Shine On
 artists:
 - Climax Blues Band
+external_ids:
+  spotify: spotify:track:5W4amRbTIyv1uYpHtsYtmV
 features: []
-genres: []
+first_released_as_single: false
 key: makin--love-climax-blues-band
 lyrics_url: https://www.musixmatch.com/lyrics/Climax-Blues-Band/Makin-Love
 name: Makin' Love
@@ -23,6 +26,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1978-07-29'
+release_year: 1978
+runtime: 240442
 ---
 Running around in
 The towns and cities

@@ -1,8 +1,11 @@
 ---
+album: Ten Best Series - The Crests
 artists:
 - The Crests
+external_ids:
+  spotify: spotify:track:7nHk1twfKCz55GINCyIwG2
 features: []
-genres: []
+first_released_as_single: true
 key: trouble-in-paradise-the-crests
 lyrics_url: https://genius.com/The-crests-trouble-in-paradise-lyrics
 name: Trouble In Paradise
@@ -59,6 +62,8 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '1960-09-05'
+release_year: 1960
+runtime: 143592
 ---
 Calling all angels
 Calling all angels

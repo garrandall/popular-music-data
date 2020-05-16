@@ -1,8 +1,11 @@
 ---
+album: The Best Of Roy Head
 artists:
 - Roy Head
+external_ids:
+  spotify: spotify:track:2p1ixDAqMAdZaa40a2PdmW
 features: []
-genres: []
+first_released_as_single: false
 key: to-make-a-big-man-cry-roy-head
 lyrics_url: https://www.musixmatch.com/lyrics/Roy-Head/To-Make-a-Big-Man-Cry
 name: To Make A Big Man Cry
@@ -15,6 +18,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1966-09-24'
+release_year: 1966
+runtime: 180840
 ---
 It only takes a little girl
 To make a big man cry

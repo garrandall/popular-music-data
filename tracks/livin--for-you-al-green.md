@@ -1,8 +1,11 @@
 ---
+album: Livin' for You
 artists:
 - Al Green
+external_ids:
+  spotify: spotify:track:0ZPtVZ5asLGjXTxrjTayeZ
 features: []
-genres: []
+first_released_as_single: false
 key: livin--for-you-al-green
 lyrics_url: https://genius.com/Al-green-livin-for-you-lyrics
 name: Livin' For You
@@ -51,6 +54,8 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '1974-02-16'
+release_year: 1973
+runtime: 192266
 ---
 I guess there's no good reason, for livin'
 But I'll keep on livin' for you, baby

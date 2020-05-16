@@ -1,8 +1,11 @@
 ---
+album: Sam Records Extended Play Disco Classics
 artists:
 - John Davis
+external_ids:
+  spotify: spotify:track:6Ka1oO97pwFVCZKYnhF6sH
 features: []
-genres: []
+first_released_as_single: false
 key: ain-t-that-enough-for-you-john-davis-and-the-monster-orchestra
 lyrics_url: https://www.musixmatch.com/lyrics/John-Davis-and-the-Monster-Orchestra/Ain-t-That-Enough-for-You
 name: Ain't That Enough For You
@@ -23,6 +26,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1979-01-13'
+release_year: 1978
+runtime: 535946
 ---
 I'll do anything to make you mine
 I wanna be here with you all the time

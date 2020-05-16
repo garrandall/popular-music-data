@@ -1,9 +1,12 @@
 ---
+album: East Atlanta Love Letter
 artists:
 - 6LACK
+external_ids:
+  spotify: spotify:track:4at3d5QWnlibMVN75ECDrp
 features:
 - J. Cole
-genres: []
+first_released_as_single: false
 key: pretty-little-fears-6lack-j--cole
 lyrics_url: https://www.musixmatch.com/lyrics/6LACK-feat-J-Cole/Pretty-Little-Fears
 name: Pretty Little Fears
@@ -12,6 +15,8 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '2018-09-29'
+release_year: 2018
+runtime: 240341
 ---
 Do better
 Who better

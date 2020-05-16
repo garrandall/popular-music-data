@@ -1,8 +1,11 @@
 ---
+album: Pump Up The Jam
 artists:
 - Technotronic
+external_ids:
+  spotify: spotify:track:5xuktWMVGM0OcOOO39zILo
 features: []
-genres: []
+first_released_as_single: false
 key: rockin--over-the-beat-technotronic
 lyrics_url: https://www.azlyrics.com/lyrics/technotronic/rockinoverthebeat.html
 name: Rockin' Over The Beat
@@ -19,8 +22,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1990-12-01'
+release_year: 1989
+runtime: 346626
 ---
-
 Oh oh yeah, oh oh yeah
 Oh oh yeah
 
@@ -107,6 +111,3 @@ One for all and all for one,
 United we stand, we'll get the job done
 Each for me and I for y'all,
 United we stand, divided we fall
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: The Man Who Invented Soul
 artists:
 - Sam Cooke
+external_ids:
+  spotify: spotify:track:5ekg7CCe1ZAG9RH4zA5mqD
 features: []
-genres: []
+first_released_as_single: false
 key: there-i-ve-said-it-again-sam-cooke
 lyrics_url: https://genius.com/Sam-cooke-there-ive-said-it-again-lyrics
 name: There I've Said It Again
@@ -27,6 +30,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1959-12-07'
+release_year: 1959
+runtime: 118933
 ---
 (Love you, love you)
 I love you, there’s nothing to hide

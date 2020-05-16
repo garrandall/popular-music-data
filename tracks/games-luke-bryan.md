@@ -1,8 +1,11 @@
 ---
+album: Spring Break...Checkin' Out
 artists:
 - Luke Bryan
+external_ids:
+  spotify: spotify:track:085lgcfCstjd3AjWDAt2OX
 features: []
-genres: []
+first_released_as_single: false
 key: games-luke-bryan
 lyrics_url: https://www.azlyrics.com/lyrics/lukebryan/games.html
 name: Games
@@ -27,8 +30,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2015-06-06'
+release_year: 2015
+runtime: 176293
 ---
-
 You know the one where you call
 But you act like you never called me
 When you see me at a bar
@@ -83,6 +87,3 @@ Nobody ever comes out on top
 Tell me are we ever gonna stop
 Playing these games
 All of these games
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: The Best Of The Orlons
 artists:
 - The Orlons
+external_ids:
+  spotify: spotify:track:0d7vdZtSkKwUt5H4gxoOGz
 features: []
-genres: []
+first_released_as_single: false
 key: shimmy-shimmy-the-orlons
 name: Shimmy Shimmy
 rankings:
@@ -26,5 +29,7 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '1964-02-29'
+release_year: 1964
+runtime: 139933
 ---
 

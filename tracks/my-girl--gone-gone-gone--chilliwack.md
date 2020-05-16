@@ -1,8 +1,11 @@
 ---
+album: Wanna Be A Star
 artists:
 - Chilliwack
+external_ids:
+  spotify: spotify:track:0m28f73Piz111HOdimOmmf
 features: []
-genres: []
+first_released_as_single: false
 key: my-girl--gone-gone-gone--chilliwack
 lyrics_url: https://www.azlyrics.com/lyrics/chilliwack/mygirlgonegonegone.html
 name: My Girl (Gone Gone Gone)
@@ -83,8 +86,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1982-01-30'
+release_year: 1981
+runtime: 254506
 ---
-
 Gone gone gone, she been gone so long
 She been gone gone gone so long
 Gone gone gone, she been gone so long
@@ -154,6 +158,3 @@ Sooner or later, I know I'm gonna get her
 Talkin' about my girl, my girl
 
 My girl, my girl, my girl, my girl...
-
-
-

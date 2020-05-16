@@ -1,9 +1,12 @@
 ---
+album: Beautiful
 artists:
 - Bazzi
+external_ids:
+  spotify: spotify:track:4VUwkH455At9kENOfzTqmF
 features:
 - Camila Cabello
-genres: []
+first_released_as_single: true
 key: beautiful-bazzi-camila-cabello
 lyrics_url: https://genius.com/Bazzi-beautiful-bazzi-vs-edxs-ibiza-sunrise-remix-lyrics
 name: Beautiful
@@ -116,6 +119,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '2019-02-16'
+release_year: 2018
+runtime: 180000
 ---
 Hey
 Beautiful, beautiful, beautiful, beautiful angel

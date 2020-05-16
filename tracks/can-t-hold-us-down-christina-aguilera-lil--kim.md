@@ -1,9 +1,12 @@
 ---
+album: Stripped
 artists:
 - Christina Aguilera
+external_ids:
+  spotify: spotify:track:0cv1Mnb47oMvjVKMc2cyZw
 features:
 - Lil' Kim
-genres: []
+first_released_as_single: false
 key: can-t-hold-us-down-christina-aguilera-lil--kim
 lyrics_url: https://www.azlyrics.com/lyrics/christinaaguilera/cantholdusdown.html
 name: Can't Hold Us Down
@@ -88,8 +91,9 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '2003-12-13'
+release_year: 2002
+runtime: 255266
 ---
-
 So what am I not supposed to have an opinion
 Should I be quiet just because I'm a woman
 Call me a bitch 'cause I speak what's on my mind
@@ -204,6 +208,3 @@ Spread the word, can't hold us down
 We here, we back again
 Lil' Kim and Christina Aguilera
 Can't hold us down
-
-
-

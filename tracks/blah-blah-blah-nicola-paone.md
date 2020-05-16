@@ -1,8 +1,11 @@
 ---
+album: Rock and Pop Oldies Mix, Vol. 1
 artists:
 - Nicola Paone
+external_ids:
+  spotify: spotify:track:0DjvEtL6of7GNZlGvvcx1V
 features: []
-genres: []
+first_released_as_single: false
 key: blah-blah-blah-nicola-paone
 lyrics_url: https://genius.com/Nicola-paone-blah-blah-blah-lyrics
 name: Blah Blah Blah
@@ -35,6 +38,8 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1959-03-23'
+release_year: 1959
+runtime: 159346
 ---
 (Yakety yak, blah blah, blah blah)
 (Yakety yak, blah blah, blah blah)

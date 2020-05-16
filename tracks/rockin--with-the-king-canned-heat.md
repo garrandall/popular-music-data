@@ -1,8 +1,11 @@
 ---
+album: Historical Figures And Ancient Heads
 artists:
 - Canned Heat
+external_ids:
+  spotify: spotify:track:1lU6LgXMSXXxaV0wHmd1HL
 features: []
-genres: []
+first_released_as_single: false
 key: rockin--with-the-king-canned-heat
 lyrics_url: https://www.musixmatch.com/lyrics/Canned-Heat/Rockin-With-The-King-2005-Remaster
 name: Rockin' With The King
@@ -27,6 +30,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1972-04-15'
+release_year: 1971
+runtime: 196426
 ---
 With Little Richard
 

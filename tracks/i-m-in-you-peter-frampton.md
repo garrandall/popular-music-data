@@ -1,8 +1,11 @@
 ---
+album: I'm In You
 artists:
 - Peter Frampton
+external_ids:
+  spotify: spotify:track:03zB9duFz1JqLxAIYvGdac
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-in-you-peter-frampton
 lyrics_url: https://genius.com/Peter-frampton-im-in-you-lyrics
 name: I'm In You
@@ -87,6 +90,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1977-10-08'
+release_year: 1977
+runtime: 250000
 ---
 I don't care where I go
 When I'm with you

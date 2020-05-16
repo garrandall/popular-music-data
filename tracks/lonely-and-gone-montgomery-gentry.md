@@ -1,8 +1,11 @@
 ---
+album: Tattoos & Scars
 artists:
 - Montgomery Gentry
+external_ids:
+  spotify: spotify:track:1A1OJfUACIagZBHMiHAsdb
 features: []
-genres: []
+first_released_as_single: false
 key: lonely-and-gone-montgomery-gentry
 lyrics_url: https://www.azlyrics.com/lyrics/montgomerygentry/lonelyandgone.html
 name: Lonely And Gone
@@ -83,8 +86,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1999-12-04'
+release_year: 1999
+runtime: 199493
 ---
-
 Pulled in the driveway, picked up the paper 
 Found my key, and unlocked the door 
 I walked in, felt like a stranger 
@@ -115,6 +119,3 @@ Oh never heard a house sound, so loud with memories
 Where there used to be a happy home 
 In the house on the corner, in the house on the corner 
 Of lonely and gone
-
-
-

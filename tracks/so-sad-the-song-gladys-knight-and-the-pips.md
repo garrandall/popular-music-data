@@ -1,8 +1,11 @@
 ---
+album: Pipe Dreams (Original Soundtrack)
 artists:
 - Gladys Knight And The Pips
+external_ids:
+  spotify: spotify:track:6sL0eQK0pBTxvHpFKwJiiy
 features: []
-genres: []
+first_released_as_single: false
 key: so-sad-the-song-gladys-knight-and-the-pips
 lyrics_url: https://genius.com/Gladys-knight-and-the-pips-so-sad-the-song-lyrics
 name: So Sad The Song
@@ -39,6 +42,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1976-11-27'
+release_year: 1976
+runtime: 233053
 ---
 So sad the song of
 To end two lives

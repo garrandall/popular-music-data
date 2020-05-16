@@ -1,9 +1,12 @@
 ---
+album: Epiphany
 artists:
 - T-Pain
+external_ids:
+  spotify: spotify:track:3wpFarXxtMrmHB8D8676XA
 features:
 - Akon
-genres: []
+first_released_as_single: true
 key: bartender-t-pain-akon
 lyrics_url: https://www.azlyrics.com/lyrics/tpain/bartender.html
 name: Bartender
@@ -96,9 +99,9 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2007-11-10'
+release_year: 2007
+runtime: 241893
 ---
-
-
 Yeah...
 Uh-Huh...
 Yeah...
@@ -166,4 +169,3 @@ We drunk 'em, got drunk
 And now I know she thinks I'm cool
 She gave me a wink, I winked back (Uh-huh)
 And then I think that, (Uh-huh) we 'gonna have fun at my spot tonight... (Oh yes)
-

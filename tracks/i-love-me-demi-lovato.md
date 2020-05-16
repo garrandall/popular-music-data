@@ -1,8 +1,11 @@
 ---
+album: I Love Me
 artists:
 - Demi Lovato
+external_ids:
+  spotify: spotify:track:2IHLaN6wwYKQ3S24NsQqpA
 features: []
-genres: []
+first_released_as_single: true
 key: i-love-me-demi-lovato
 lyrics_url: https://genius.com/Demi-lovato-i-love-me-lyrics
 name: I Love Me
@@ -11,6 +14,8 @@ rankings:
   rank: 18
   ranking_list: Billboard Hot 100
   start_date: '2020-03-21'
+release_year: 2020
+runtime: 203672
 ---
 Flippin' through all of these magazines
 Tellin' me who I'm supposed to be

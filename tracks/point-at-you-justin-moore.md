@@ -1,8 +1,11 @@
 ---
+album: Off The Beaten Path
 artists:
 - Justin Moore
+external_ids:
+  spotify: spotify:track:5ZMFVgZSYvbq3SmgRwaGMa
 features: []
-genres: []
+first_released_as_single: false
 key: point-at-you-justin-moore
 lyrics_url: https://www.azlyrics.com/lyrics/justinmoore/pointatyou.html
 name: Point At You
@@ -83,8 +86,9 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '2013-10-19'
+release_year: 2013
+runtime: 180720
 ---
-
 I've always been one of them boys
 Rollin' around in jacked up toys
 Making noise on small town Friday nights
@@ -134,6 +138,3 @@ Oh baby, I just point at you
 Girl I point at you
 Oh babe my best side is you
 Girl I point at you
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Rare Capitol Masters
 artists:
 - Bobby Darin
+external_ids:
+  spotify: spotify:track:4stwqGZ1eXy5gwGuuxVIWm
 features: []
-genres: []
+first_released_as_single: false
 key: i-wonder-who-s-kissing-her-now-bobby-darin
 lyrics_url: https://genius.com/Bobby-darin-i-wonder-whos-kissing-her-now-lyrics
 name: I Wonder Who's Kissing Her Now
@@ -19,6 +22,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1964-03-21'
+release_year: 1964
+runtime: 160506
 ---
 (I wonder, I wonder)
 

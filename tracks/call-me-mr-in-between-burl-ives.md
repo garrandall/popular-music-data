@@ -1,8 +1,11 @@
 ---
+album: A Little Bitty Tear
 artists:
 - Burl Ives
+external_ids:
+  spotify: spotify:track:73pKr3QfG3uP0QW8X9Ubgx
 features: []
-genres: []
+first_released_as_single: false
 key: call-me-mr-in-between-burl-ives
 lyrics_url: https://www.azlyrics.com/lyrics/burlives/callmemrinbetween.html
 name: Call Me Mr In-Between
@@ -43,8 +46,9 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '1962-09-15'
+release_year: 1962
+runtime: 163293
 ---
-
 (Mr. In-Between, Mr. In-Between)
 (Pickin's mighty lean, Mr. In-Between)
 
@@ -83,6 +87,3 @@ They call me Mr. In-Between
 
 (Mr. In-Between, Mr. In-Between)
 (Better leave the scene, Mr. In-Between)
-
-
-

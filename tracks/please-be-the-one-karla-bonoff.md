@@ -1,8 +1,11 @@
 ---
+album: Wild Heart Of The Young
 artists:
 - Karla Bonoff
+external_ids:
+  spotify: spotify:track:4qMcYzlTpj5pmIkwhGoFkc
 features: []
-genres: []
+first_released_as_single: false
 key: please-be-the-one-karla-bonoff
 lyrics_url: https://www.azlyrics.com/lyrics/karlabonoff/pleasebetheone.html
 name: Please Be The One
@@ -35,8 +38,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1982-11-06'
+release_year: 1982
+runtime: 246733
 ---
-
 You spend your days and nights alone
 You think it's easier that way
 But that cold feeling in your bones
@@ -64,6 +68,3 @@ And for my sweet kiss you will yearn
 When it's too late to say
 Please be the one
 Please be the one
-
-
-

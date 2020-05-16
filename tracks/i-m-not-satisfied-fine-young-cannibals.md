@@ -1,8 +1,11 @@
 ---
+album: The Raw & The Cooked
 artists:
 - Fine Young Cannibals
+external_ids:
+  spotify: spotify:track:1FVYxUTZ67w7SPq6RpS9VQ
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-not-satisfied-fine-young-cannibals
 lyrics_url: https://genius.com/Fine-young-cannibals-im-not-satisfied-lyrics
 name: I'm Not Satisfied
@@ -19,6 +22,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1990-03-10'
+release_year: 1988
+runtime: 227066
 ---
 It's hard - can't afford to stop
 Keep on working - till you're fit to drop

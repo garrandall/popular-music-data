@@ -1,8 +1,11 @@
 ---
+album: Never Say Never
 artists:
 - Brandy
+external_ids:
+  spotify: spotify:track:1iuwzRxWxDB7VbBldAtmrP
 features: []
-genres: []
+first_released_as_single: false
 key: u-don-t-know-me--like-u-used-to--brandy
 lyrics_url: https://genius.com/Brandy-u-dont-know-me-swizz-beats-remix-lyrics
 name: U Don't Know Me (Like U Used To)
@@ -31,6 +34,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1999-11-27'
+release_year: 1998
+runtime: 267960
 ---
 Uh, it's for the ladies
 This if for the ladies

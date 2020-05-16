@@ -1,8 +1,11 @@
 ---
+album: Best of The Five Americans
 artists:
 - The Five Americans
+external_ids:
+  spotify: spotify:track:51vOsQ5ZSYoLBdw6fFFFgH
 features: []
-genres: []
+first_released_as_single: false
 key: evol-not-love-the-five-americans
 name: Evol-Not Love
 rankings:
@@ -42,5 +45,7 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1966-06-11'
+release_year: 1966
+runtime: 143613
 ---
 

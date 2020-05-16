@@ -1,8 +1,11 @@
 ---
+album: Belinda
 artists:
 - Belinda Carlisle
+external_ids:
+  spotify: spotify:track:2KtvUv0MTGL8YNEfB7N4MH
 features: []
-genres: []
+first_released_as_single: false
 key: i-feel-the-magic-belinda-carlisle
 lyrics_url: https://www.azlyrics.com/lyrics/belindacarlisle/ifeelthemagic.html
 name: I Feel The Magic
@@ -27,8 +30,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1986-10-18'
+release_year: 1986
+runtime: 201720
 ---
-
 Last night I gave up on myself
 I hit the bed, tell me what should I do
 And in a dream I saw your face
@@ -53,6 +57,3 @@ I imagine that it's always been there
 I feel the magic
 There's an angel looking after me
 Angel baby give me more and more
-
-
-

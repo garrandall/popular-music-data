@@ -1,8 +1,11 @@
 ---
+album: '...But Seriously'
 artists:
 - Phil Collins
+external_ids:
+  spotify: spotify:track:4y42JYIIfYXrJ63s5hQQWS
 features: []
-genres: []
+first_released_as_single: false
 key: hang-in-long-enough-phil-collins
 lyrics_url: https://www.azlyrics.com/lyrics/philcollins/hanginlongenough.html
 name: Hang In Long Enough
@@ -59,8 +62,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1991-02-02'
+release_year: 1989
+runtime: 285000
 ---
-
 The signs are getting clearer, clearer than you need
 The writing's on the wall, for you to see
 
@@ -97,6 +101,3 @@ Playing hell with your emotions,
 You'll feel like giving in.
 
 So just hang in long enough...
-
-
-

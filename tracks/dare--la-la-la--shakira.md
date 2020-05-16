@@ -1,8 +1,11 @@
 ---
+album: Shakira.
 artists:
 - Shakira
+external_ids:
+  spotify: spotify:track:0YoUczWJPqphLvxnTXG00N
 features: []
-genres: []
+first_released_as_single: false
 key: dare--la-la-la--shakira
 lyrics_url: https://www.azlyrics.com/lyrics/shakira/darelalala.html
 name: Dare (La La La)
@@ -51,8 +54,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2014-09-06'
+release_year: 2014
+runtime: 186506
 ---
-
 Hola, hola!
 
 La la la la la
@@ -140,6 +144,3 @@ La la la la la la
 I dare you
 
 Leggo, leggo, leggo, leggo
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: HERO
 artists:
 - Maren Morris
+external_ids:
+  spotify: spotify:track:7lSkrG37gZdMZOUfc86kEg
 features: []
-genres: []
+first_released_as_single: true
 key: girl-maren-morris
 lyrics_url: https://www.azlyrics.com/lyrics/maren-morris/girl.html
 name: GIRL
@@ -91,8 +94,9 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '2019-08-03'
+release_year: 2015
+runtime: 205920
 ---
-
 Man, this shit's unflatterin', all up in my head again
 I don't feel myself right now, maybe I should just lay down
 If vanity's my vitamin, well, I don't feel the difference
@@ -149,6 +153,3 @@ Baby girl
 Everyone's gonna be okay, baby
 Mm
 Hoo...
-
-
-

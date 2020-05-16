@@ -1,8 +1,11 @@
 ---
+album: Solo
 artists:
 - Solo
+external_ids:
+  spotify: spotify:track:5Xv3eesPSCo1YVdU2RePWe
 features: []
-genres: []
+first_released_as_single: false
 key: heaven-solo
 lyrics_url: https://genius.com/Solo-r-b-group-heaven-lyrics
 name: Heaven
@@ -87,6 +90,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1995-12-23'
+release_year: 1995
+runtime: 229026
 ---
 I never lived my days
 Like this

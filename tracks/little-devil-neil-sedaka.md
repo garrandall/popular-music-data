@@ -1,8 +1,11 @@
 ---
+album: Circulate
 artists:
 - Neil Sedaka
+external_ids:
+  spotify: spotify:track:2xWYWJV1WLfrFe5uSr3Jcv
 features: []
-genres: []
+first_released_as_single: false
 key: little-devil-neil-sedaka
 lyrics_url: https://genius.com/Neil-sedaka-little-devil-lyrics
 name: Little Devil
@@ -43,6 +46,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1961-06-26'
+release_year: 1960
+runtime: 163960
 ---
 Whoa, whoa, whoa, whoa, yeah, yeah, yeah
 Hey, little devil

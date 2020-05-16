@@ -1,8 +1,11 @@
 ---
+album: Pleasure & Pain
 artists:
 - Dr. Hook
+external_ids:
+  spotify: spotify:track:1UiKUFbCfgbVjwY8W657Pv
 features: []
-genres: []
+first_released_as_single: false
 key: when-you-re-in-love-with-a-beautiful-woman-dr--hook
 lyrics_url: https://www.musixmatch.com/lyrics/Dr-Hook/When-You-re-In-Love-With-A-Beautiful-Woman
 name: When You're In Love With A Beautiful Woman
@@ -107,6 +110,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1979-09-29'
+release_year: 1978
+runtime: 178826
 ---
 When you're in love with a beautiful woman, it's hard
 When you're in love with a beautiful woman, you know it's hard

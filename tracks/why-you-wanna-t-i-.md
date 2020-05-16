@@ -1,8 +1,11 @@
 ---
+album: King
 artists:
 - T.I.
+external_ids:
+  spotify: spotify:track:4G6nDMotZyFlErPckGDAQR
 features: []
-genres: []
+first_released_as_single: false
 key: why-you-wanna-t-i-
 lyrics_url: https://genius.com/Ti-why-you-wanna-lyrics
 name: Why You Wanna
@@ -87,6 +90,8 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '2006-09-09'
+release_year: 1992
+runtime: 212600
 ---
 Hey, T.I.P. pimpin'
 Hey, shorty, why you gotta act like that?

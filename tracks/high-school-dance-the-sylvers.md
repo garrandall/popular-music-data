@@ -1,8 +1,11 @@
 ---
+album: Something Special
 artists:
 - The Sylvers
+external_ids:
+  spotify: spotify:track:0HPMybrubLvT9pWJWRrKUE
 features: []
-genres: []
+first_released_as_single: false
 key: high-school-dance-the-sylvers
 lyrics_url: https://genius.com/The-sylvers-high-school-dance-lyrics
 name: High School Dance
@@ -75,6 +78,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1977-08-13'
+release_year: 1976
+runtime: 228266
 ---
 Remember back in high school
 When you couldn't wait

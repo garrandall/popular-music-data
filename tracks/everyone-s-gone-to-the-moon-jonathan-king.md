@@ -1,8 +1,11 @@
 ---
+album: Jonathan King - Combined 60's/70's Singles Sales Over 40 Million
 artists:
 - Jonathan King
+external_ids:
+  spotify: spotify:track:3tuup6TfHtbNdqlbF01HrX
 features: []
-genres: []
+first_released_as_single: false
 key: everyone-s-gone-to-the-moon-jonathan-king
 lyrics_url: https://genius.com/Jonathan-king-everyones-gone-to-the-moon-lyrics
 name: Everyone's Gone To The Moon
@@ -51,6 +54,8 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '1965-12-04'
+release_year: 1965
+runtime: 143034
 ---
 Streets full of people
 All alone

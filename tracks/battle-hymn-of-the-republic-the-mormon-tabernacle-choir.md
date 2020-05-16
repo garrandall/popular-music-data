@@ -1,8 +1,11 @@
 ---
+album: America The Beautiful
 artists:
 - The Mormon Tabernacle Choir
+external_ids:
+  spotify: spotify:track:4X2oOZAf7Rv6PatkhdXefD
 features: []
-genres: []
+first_released_as_single: false
 key: battle-hymn-of-the-republic-the-mormon-tabernacle-choir
 lyrics_url: https://genius.com/The-mormon-tabernacle-choir-battle-hymn-of-the-republic-lyrics
 name: Battle Hymn Of The Republic
@@ -71,6 +74,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1959-12-21'
+release_year: 1959
+runtime: 278266
 ---
 Mine eyes have seen the glory of the coming of the Lord
 He is trampling out the vintage where the grapes of wrath are stored

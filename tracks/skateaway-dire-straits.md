@@ -1,8 +1,11 @@
 ---
+album: Making Movies
 artists:
 - Dire Straits
+external_ids:
+  spotify: spotify:track:7dRrGFypClyo0iNxSyxpnD
 features: []
-genres: []
+first_released_as_single: false
 key: skateaway-dire-straits
 lyrics_url: https://www.azlyrics.com/lyrics/direstraits/skateaway.html
 name: Skateaway
@@ -47,8 +50,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1981-02-21'
+release_year: 1980
+runtime: 378960
 ---
-
 I seen a girl on a one way corridor
 Stealing down a wrong way street
 For all the world like an urban toreador
@@ -108,6 +112,3 @@ Skateaway that's all
 Shala shalay hey hey skateaway
 She's going sining shala shalay hey hey
 Skateaway
-
-
-

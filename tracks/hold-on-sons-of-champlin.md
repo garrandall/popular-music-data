@@ -1,8 +1,11 @@
 ---
+album: A Circle Filled With Love
 artists:
 - Sons Of Champlin
+external_ids:
+  spotify: spotify:track:1ZpxbubLYimCNuabbXbrzD
 features: []
-genres: []
+first_released_as_single: false
 key: hold-on-sons-of-champlin
 lyrics_url: https://www.musixmatch.com/lyrics/The-Sons-Of-Champlin/Hold-On
 name: Hold On
@@ -47,6 +50,8 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '1976-08-21'
+release_year: 1976
+runtime: 186773
 ---
 Say hold on, say hold on
 Hold on, say hold on

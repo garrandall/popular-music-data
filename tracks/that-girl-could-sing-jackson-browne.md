@@ -1,8 +1,11 @@
 ---
+album: Hold Out
 artists:
 - Jackson Browne
+external_ids:
+  spotify: spotify:track:0KbNyJFUpNHhzCRFlrMPSE
 features: []
-genres: []
+first_released_as_single: false
 key: that-girl-could-sing-jackson-browne
 lyrics_url: https://www.azlyrics.com/lyrics/jacksonbrowne/thatgirlcouldsing.html
 name: That Girl Could Sing
@@ -59,8 +62,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1980-12-13'
+release_year: 1980
+runtime: 275293
 ---
-
 She was a friend to me when I needed one
 Wasn't for her I don't know what I'd done
 She gave me back something that was missing in me
@@ -105,6 +109,3 @@ But she couldn't have been any kinder
 If she'd come back and tried to explain
 She wasn't much good a saying goodbye... but
 That girl could sing...
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: The Pinkprint
 artists:
 - Nicki Minaj
+external_ids:
+  spotify: spotify:track:2bkyTJ4bAnc8a5ly3dg9DX
 features: []
-genres: []
+first_released_as_single: false
 key: pills-n-potions-nicki-minaj
 lyrics_url: https://www.azlyrics.com/lyrics/nickiminaj/pillsnpotions.html
 name: Pills N Potions
@@ -79,8 +82,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2014-10-04'
+release_year: 2014
+runtime: 268000
 ---
-
 Pills and potions
 We're overdosing
 I'm angry but I still love you
@@ -177,6 +181,3 @@ I still love, I still love
 I still lo-o-ove, I still love
 I still love, I still love
 I still love, I still love
-
-
-

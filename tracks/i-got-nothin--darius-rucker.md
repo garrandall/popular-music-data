@@ -1,8 +1,11 @@
 ---
+album: Charleston, SC 1966
 artists:
 - Darius Rucker
+external_ids:
+  spotify: spotify:track:5SHrrJllBeZqG7wEWZvYSN
 features: []
-genres: []
+first_released_as_single: false
 key: i-got-nothin--darius-rucker
 lyrics_url: https://www.azlyrics.com/lyrics/dariusrucker/igotnothin.html
 name: I Got Nothin'
@@ -47,8 +50,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2011-12-10'
+release_year: 2010
+runtime: 204360
 ---
-
 It's my third cup of coffee
 Fifth time I've said I'm sorry
 The sun slowly peaking through the glass
@@ -85,4 +89,3 @@ You're almost at the door
 And you stop and turn around
 Your eyes are begging me
 Please say something right now
-

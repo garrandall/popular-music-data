@@ -1,8 +1,11 @@
 ---
+album: What You See Is What You Get
 artists:
 - Luke Combs
+external_ids:
+  spotify: spotify:track:6gdLyYNuhWBzqwlOFSsXC7
 features: []
-genres: []
+first_released_as_single: false
 key: better-together-luke-combs
 lyrics_url: https://www.azlyrics.com/lyrics/lukecombs/bettertogether.html
 name: Better Together
@@ -11,8 +14,9 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '2019-11-23'
+release_year: 2019
+runtime: 219573
 ---
-
 A 40 HP Johnson
 On a flat bottom metal boat
 Coke cans and BB guns
@@ -73,6 +77,3 @@ Like good ole boys and beer
 And me, as long as you're right here
 
 And me, as long as you're right here
-
-
-

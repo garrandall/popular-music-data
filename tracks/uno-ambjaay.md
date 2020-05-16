@@ -1,8 +1,11 @@
 ---
+album: It Cost To Live Like This Pt. 2
 artists:
 - Ambjaay
+external_ids:
+  spotify: spotify:track:3AEgic4yp82NxMWUjHtxnO
 features: []
-genres: []
+first_released_as_single: true
 key: uno-ambjaay
 lyrics_url: https://www.azlyrics.com/lyrics/ambjaay/uno.html
 name: Uno
@@ -19,8 +22,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2019-08-31'
+release_year: 2019
+runtime: 109090
 ---
-
 Ayy, let's party, holmes
 Invite all the bitches
 Hundreds and fifties, big ol' bitties, ayy?
@@ -83,6 +87,3 @@ Big chop knock a nigga out zapatos
 Still getting queso like nachos
 
 Ayy, it cost to live like this, you heard me?
-
-
-

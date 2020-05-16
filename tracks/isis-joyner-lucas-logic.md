@@ -1,9 +1,12 @@
 ---
+album: ADHD
 artists:
 - Joyner Lucas
+external_ids:
+  spotify: spotify:track:36TO60sxDduIsO3xH8IcUh
 features:
 - Logic
-genres: []
+first_released_as_single: true
 key: isis-joyner-lucas-logic
 lyrics_url: https://genius.com/Officiallytz-isis-remix-joyner-lucas-x-logic-lyrics
 name: Isis
@@ -16,6 +19,8 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '2019-06-15'
+release_year: 2019
+runtime: 236000
 ---
 (Intro)
 (Attention deficit hyperactivity disorder, or better known as ADHD, is a mental disorder that affects an individual's ability to focus causing them to move around more frequently they may also have trouble controlling their impulsive behaviours)

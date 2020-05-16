@@ -1,8 +1,11 @@
 ---
+album: 'Bobby Byrd Got Soul: The Best Of Bobby Byrd'
 artists:
 - Bobby Byrd
+external_ids:
+  spotify: spotify:track:7JHptW8NXkfjCIIiBshGel
 features: []
-genres: []
+first_released_as_single: false
 key: hot-pants---i-m-coming-coming-i-m-coming-bobby-byrd
 lyrics_url: https://genius.com/Bobby-byrd-hot-pants-im-coming-coming-im-coming-lyrics
 name: Hot Pants - I'm Coming Coming I'm Coming
@@ -23,6 +26,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1971-10-16'
+release_year: 1971
+runtime: 150000
 ---
 I'm coming, I'm coming, baby
 I'm coming, comin'-come, help me

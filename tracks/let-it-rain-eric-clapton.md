@@ -1,8 +1,11 @@
 ---
+album: Eric Clapton
 artists:
 - Eric Clapton
+external_ids:
+  spotify: spotify:track:7DiaNCPgH5dJ1cJ925jTAA
 features: []
-genres: []
+first_released_as_single: false
 key: let-it-rain-eric-clapton
 lyrics_url: https://www.azlyrics.com/lyrics/ericclapton/letitrain108707.html
 name: Let It Rain
@@ -59,8 +62,9 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1972-12-16'
+release_year: 1970
+runtime: 301266
 ---
-
 The rain is falling through the mist
 Of sorrow that surrounded me.
 The sun could never thaw away
@@ -83,4 +87,3 @@ Now I know the secret;
 There is nothing that I lack.
 If I give my love to you,
 You'll surely give it back.
-

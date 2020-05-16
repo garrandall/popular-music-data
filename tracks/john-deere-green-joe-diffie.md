@@ -1,8 +1,11 @@
 ---
+album: The Essential Joe Diffie
 artists:
 - Joe Diffie
+external_ids:
+  spotify: spotify:track:2ZXsvL9DO2MPv43Ay1IxgR
 features: []
-genres: []
+first_released_as_single: false
 key: john-deere-green-joe-diffie
 lyrics_url: https://www.azlyrics.com/lyrics/joediffie/johndeeregreen.html
 name: John Deere Green
@@ -51,8 +54,9 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1994-03-05'
+release_year: 1990
+runtime: 273000
 ---
-
 They were farm kids way down in Dixie 
 Met in high school in the sixties
 Everyone knew it was love from the start
@@ -107,6 +111,3 @@ But it looked good to Charlene
 In John Deere green
 
 John Deere green
-
-
-

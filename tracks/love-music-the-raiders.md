@@ -1,8 +1,11 @@
 ---
+album: Country Wine
 artists:
 - The Raiders
+external_ids:
+  spotify: spotify:track:3sv9qVHoWuv379HxLEmARb
 features: []
-genres: []
+first_released_as_single: false
 key: love-music-the-raiders
 lyrics_url: https://www.azlyrics.com/lyrics/paulreveretheraiders/lovemusic.html
 name: Love Music
@@ -27,8 +30,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1973-03-03'
+release_year: 1972
+runtime: 220386
 ---
-
 Look at us today
 We ain't got nothin' nice to say
 We've got our hands up in the air
@@ -78,6 +82,3 @@ We need more love music
 We need more love music
 We need more love music
 ...
-
-
-

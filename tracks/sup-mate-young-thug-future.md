@@ -1,9 +1,12 @@
 ---
+album: So Much Fun
 artists:
 - Young Thug
+external_ids:
+  spotify: spotify:track:7lLLejtrRtnZtkb2QXa9hQ
 features:
 - Future
-genres: []
+first_released_as_single: false
 key: sup-mate-young-thug-future
 lyrics_url: https://www.azlyrics.com/lyrics/youngthug/supmate.html
 name: Sup Mate
@@ -12,6 +15,8 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '2019-08-31'
+release_year: 2019
+runtime: 238000
 ---
 Yellow tape, I put that on (Yeah, yeah)
 Hold up, wait, life's great (Yeah, yeah)
@@ -134,6 +139,3 @@ Oh, ass and her titties (Oh)
 Oh, that ting litty (Oh)
 Oh, ass and her titties (Oh)
 Oh, that ting litty (Oh)
-
-
-

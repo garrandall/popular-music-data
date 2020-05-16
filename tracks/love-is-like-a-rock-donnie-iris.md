@@ -1,8 +1,11 @@
 ---
+album: '20th Century Masters: The Millennium Collection: Best of Donnie Iris'
 artists:
 - Donnie Iris
+external_ids:
+  spotify: spotify:track:6GMyxGEdbHl2Wj8s32LWC6
 features: []
-genres: []
+first_released_as_single: false
 key: love-is-like-a-rock-donnie-iris
 lyrics_url: https://www.azlyrics.com/lyrics/donnieiris/loveislikearock.html
 name: Love Is Like A Rock
@@ -63,8 +66,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1982-03-20'
+release_year: 1981
+runtime: 207640
 ---
-
 Love is Like a Rock
 You can't depend on your teacher
 You can't depend on your preacher
@@ -90,6 +94,3 @@ Love can rock you
 Never stop you
 Ah, ah, ah, ah
 Love is like a rock
-
-
-

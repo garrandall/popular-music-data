@@ -1,8 +1,11 @@
 ---
+album: Herman's Hermits Retrospective
 artists:
 - Herman's Hermits
+external_ids:
+  spotify: spotify:track:4JxKHEtoBlaw6GlJPJYQo8
 features: []
-genres: []
+first_released_as_single: false
 key: silhouettes-herman-s-hermits
 lyrics_url: https://www.azlyrics.com/lyrics/hermanshermits/silhouettes.html
 name: Silhouettes
@@ -59,8 +62,9 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1965-06-26'
+release_year: 1965
+runtime: 119106
 ---
-
 Took a walk and passed your house late last night
 All the shades were pulled and drawn way down tight
 From within, the dim light cast two silhouettes on the shade
@@ -86,6 +90,3 @@ All of our days, two silhouettes on the shade
 
 Ah-ah-ah-ah-ah-ah-ah
 Ah-ah-ah-ah-ah-ah-ah-ah-ah-ah
-
-
-

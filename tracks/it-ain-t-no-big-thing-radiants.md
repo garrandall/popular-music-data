@@ -1,8 +1,11 @@
 ---
+album: Chess Sing A Song Of Soul
 artists:
 - Radiants
+external_ids:
+  spotify: spotify:track:2WX4wOulDgaoWJstc4r34h
 features: []
-genres: []
+first_released_as_single: false
 key: it-ain-t-no-big-thing-radiants
 name: It Ain't No Big Thing
 rankings:
@@ -18,5 +21,7 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1965-05-29'
+release_year: 1965
+runtime: 162077
 ---
 

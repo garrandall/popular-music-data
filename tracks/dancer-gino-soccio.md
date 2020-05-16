@@ -1,8 +1,11 @@
 ---
+album: Outline
 artists:
 - Gino Soccio
+external_ids:
+  spotify: spotify:track:4lteGaLzU5veJOe6wnOvz4
 features: []
-genres: []
+first_released_as_single: false
 key: dancer-gino-soccio
 lyrics_url: https://genius.com/Gino-soccio-dancer-bailarina-lyrics
 name: Dancer
@@ -31,6 +34,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1979-05-12'
+release_year: 1979
+runtime: 508120
 ---
 Dancer
 Dancer

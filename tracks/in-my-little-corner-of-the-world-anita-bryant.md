@@ -1,8 +1,11 @@
 ---
+album: On Rute 66
 artists:
 - Anita Bryant
+external_ids:
+  spotify: spotify:track:1NAvZNIUfC79QACBJ7qhK0
 features: []
-genres: []
+first_released_as_single: false
 key: in-my-little-corner-of-the-world-anita-bryant
 lyrics_url: https://genius.com/Anita-bryant-in-my-little-corner-of-the-world-lyrics
 name: In My Little Corner Of The World
@@ -63,6 +66,8 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '1960-10-10'
+release_year: 1960
+runtime: 150279
 ---
 Oh, come along with me
 To my little corner of the world

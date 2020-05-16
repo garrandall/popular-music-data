@@ -1,8 +1,11 @@
 ---
+album: For Ladies Only
 artists:
 - Steppenwolf
+external_ids:
+  spotify: spotify:track:4BVNp4KCIX8TDKaC5PuqdR
 features: []
-genres: []
+first_released_as_single: false
 key: for-ladies-only-steppenwolf
 lyrics_url: https://www.azlyrics.com/lyrics/steppenwolf/forladiesonly.html
 name: For Ladies Only
@@ -35,8 +38,9 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '1971-12-18'
+release_year: 1971
+runtime: 557400
 ---
-
 What you say to drive that girl away
 When she's the one and only?
 Who's the one that you been leanin' on
@@ -130,6 +134,3 @@ Repeat Chorus
 Now you can see me lyin' down in my swamp
 Any time I feel disgusted
 You'll see me do the Hippo Stomp
-
-
-

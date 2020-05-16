@@ -1,8 +1,11 @@
 ---
+album: Sings Lonely and Blue
 artists:
 - Roy Orbison
+external_ids:
+  spotify: spotify:track:2OOOryxSSW2BHI11IHL3y4
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-hurtin--roy-orbison
 lyrics_url: https://genius.com/Roy-orbison-im-hurtin-lyrics
 name: I'm Hurtin'
@@ -39,6 +42,8 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1961-01-30'
+release_year: 1960
+runtime: 162666
 ---
 Felt this way yesterday
 Today I keep hurtin', yeah hurtin'

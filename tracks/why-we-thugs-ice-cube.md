@@ -1,8 +1,11 @@
 ---
+album: Laugh Now, Cry Later
 artists:
 - Ice Cube
+external_ids:
+  spotify: spotify:track:5880eYQmXx3c3oD22IljIt
 features: []
-genres: []
+first_released_as_single: false
 key: why-we-thugs-ice-cube
 lyrics_url: https://www.azlyrics.com/lyrics/icecube/whywethugs.html
 name: Why We Thugs
@@ -15,9 +18,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2006-07-01'
+release_year: 2006
+runtime: 224106
 ---
-
-
 Yeah
 Every hood's the same
 Come on
@@ -98,6 +101,3 @@ Every hood's the same
 Stop tripping on it
 Every hood's the same
 Every hood's the same
-
-
-

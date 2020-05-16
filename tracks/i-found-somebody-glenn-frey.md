@@ -1,8 +1,11 @@
 ---
+album: No Fun Aloud
 artists:
 - Glenn Frey
+external_ids:
+  spotify: spotify:track:64wX1p2ZtC9ksXSVYtCp88
 features: []
-genres: []
+first_released_as_single: false
 key: i-found-somebody-glenn-frey
 lyrics_url: https://www.azlyrics.com/lyrics/glennfrey/ifoundsomebody.html
 name: I Found Somebody
@@ -59,8 +62,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1982-08-28'
+release_year: 1982
+runtime: 245306
 ---
-
 I never thought it could happen
 It was the furthest thing from my mind
 I just turned my back on a sad love affair
@@ -105,6 +109,3 @@ I found somebody
 I found somebody to love
 I found somebody
 I found somebody to love
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Nashville Strong
 artists:
 - Ingrid Andress
+external_ids:
+  spotify: spotify:track:0LcspVKJxhEQQSvVMiTPWz
 features: []
-genres: []
+first_released_as_single: true
 key: more-hearts-than-mine-ingrid-andress
 lyrics_url: https://www.azlyrics.com/lyrics/ingridandress/moreheartsthanmine.html
 name: More Hearts Than Mine
@@ -51,8 +54,9 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '2020-03-21'
+release_year: 2019
+runtime: 214160
 ---
-
 I can't wait to show you where I grew up
 Walk you 'round the foothills of my town
 Probably feel like you've been there before
@@ -101,6 +105,3 @@ And tell a lie and say he never really liked you
 If we break up, I'll be fine
 But you'll be breakin' more hearts than mine
 You'll be breakin' more hearts than mine
-
-
-

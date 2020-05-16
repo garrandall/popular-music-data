@@ -1,8 +1,11 @@
 ---
+album: Hello My Name Is...
 artists:
 - Bridgit Mendler
+external_ids:
+  spotify: spotify:track:5xvUgoVED1F4mBu8FL0HaW
 features: []
-genres: []
+first_released_as_single: false
 key: ready-or-not-bridgit-mendler
 lyrics_url: https://www.azlyrics.com/lyrics/bridgitmendler/readyornot.html
 name: Ready Or Not
@@ -59,8 +62,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2013-01-26'
+release_year: 2012
+runtime: 200946
 ---
-
 H-Hey H-Hey
 H-H-Hey (H-Hey)
 Oooooooooooooo
@@ -148,6 +152,3 @@ Ready or not (here I come, oh)
 Ready or not (ready or not, whoa!)
 Ready or not (ready or not, ready or not, boombada, boombada, boombada)
 Ready or not
-
-
-

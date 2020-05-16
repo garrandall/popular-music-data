@@ -1,8 +1,11 @@
 ---
+album: A Gangster And A Gentleman
 artists:
 - Styles
+external_ids:
+  spotify: spotify:track:7cFpB4ozcSwXuhqjvNbrbP
 features: []
-genres: []
+first_released_as_single: false
 key: good-times-styles
 lyrics_url: https://genius.com/Styles-p-good-times-lyrics
 name: Good Times
@@ -87,6 +90,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2002-11-30'
+release_year: 2002
+runtime: 211493
 ---
 "I get high, I get high, I get high, I get high
 I get high, I get high, I get high, I get high

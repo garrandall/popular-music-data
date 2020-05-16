@@ -1,8 +1,11 @@
 ---
+album: Tell Me Why
 artists:
 - Wynonna
+external_ids:
+  spotify: spotify:track:3Vfj2JGXayXgc0c9J4gJ8m
 features: []
-genres: []
+first_released_as_single: false
 key: tell-me-why-wynonna
 lyrics_url: https://www.azlyrics.com/lyrics/wynonnajudd/tellmewhy.html
 name: Tell Me Why
@@ -23,8 +26,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1993-07-24'
+release_year: 1993
+runtime: 230640
 ---
-
 Everywhere I look the sun is shining
 But it's always raining here inside
 I can see
@@ -58,6 +62,3 @@ I can't say goodbye
 
 Won't you tell me why
 I can't say goodbye
-
-
-

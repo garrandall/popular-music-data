@@ -1,8 +1,11 @@
 ---
+album: Achtung Baby
 artists:
 - U2
+external_ids:
+  spotify: spotify:track:4SzIZFruLhiAzhuMtAhIRt
 features: []
-genres: []
+first_released_as_single: false
 key: who-s-gonna-ride-your-wild-horses-u2
 lyrics_url: https://genius.com/U2-whos-gonna-ride-your-wild-horses-lyrics
 name: Who's Gonna Ride Your Wild Horses
@@ -71,6 +74,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1993-02-20'
+release_year: 1991
+runtime: 316426
 ---
 You're dangerous 'cos you're honest
 You're dangerous 'cos you don't know what you want

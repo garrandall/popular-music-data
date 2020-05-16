@@ -1,8 +1,11 @@
 ---
+album: Live Radio City Music Hall 2003
 artists:
 - Luther Vandross
+external_ids:
+  spotify: spotify:track:042pmCix7CPth3l3X28jl1
 features: []
-genres: []
+first_released_as_single: false
 key: here-and-now-luther-vandross
 lyrics_url: https://genius.com/Luther-vandross-here-and-now-lyrics
 name: Here And Now
@@ -115,6 +118,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1990-06-23'
+release_year: 1989
+runtime: 323000
 ---
 One look in your eyes
 And there I see

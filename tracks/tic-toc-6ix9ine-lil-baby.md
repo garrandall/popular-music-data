@@ -1,9 +1,12 @@
 ---
+album: DUMMY BOY
 artists:
 - 6ix9ine
+external_ids:
+  spotify: spotify:track:2UbGTULrgk641ZzV4vWfXK
 features:
 - Lil Baby
-genres: []
+first_released_as_single: false
 key: tic-toc-6ix9ine-lil-baby
 lyrics_url: https://www.azlyrics.com/lyrics/6ix9ine/tictoc.html
 name: TIC TOC
@@ -20,9 +23,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2018-12-22'
+release_year: 2018
+runtime: 135739
 ---
-
-
 Yung Lan on the track
 
 
@@ -74,6 +77,3 @@ I do not kiss, you making shit hot
 You think I'm dumb, I ain't no kid
 Thought you was in love
 You ain't my bitch, nah
-
-
-

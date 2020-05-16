@@ -1,8 +1,11 @@
 ---
+album: Purple Rain
 artists:
 - Prince
+external_ids:
+  spotify: spotify:track:51H2y6YrNNXcy3dfc3qSbA
 features: []
-genres: []
+first_released_as_single: false
 key: when-doves-cry-prince
 lyrics_url: https://www.azlyrics.com/lyrics/prince/whendovescry.html
 name: When Doves Cry
@@ -99,8 +102,9 @@ rankings:
   rank: 8
   ranking_list: Billboard Hot 100
   start_date: '2016-05-14'
+release_year: 1984
+runtime: 352906
 ---
-
 Dig if you will the picture
 Of you and I engaged in a kiss
 The sweat of your body covers me
@@ -164,6 +168,3 @@ Darling don't cry
 Don't cry
 Don't cry
 Don't don't cry
-
-
-

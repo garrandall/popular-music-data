@@ -1,8 +1,11 @@
 ---
+album: Natural High
 artists:
 - Bloodstone
+external_ids:
+  spotify: spotify:track:5k42YNUpqeuazWED9R3L1a
 features: []
-genres: []
+first_released_as_single: false
 key: never-let-you-go-bloodstone
 lyrics_url: https://genius.com/Bloodstone-never-let-you-go-lyrics
 name: Never Let You Go
@@ -63,6 +66,8 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '1973-12-15'
+release_year: 1972
+runtime: 337226
 ---
 Oh...
 My mind has been blown to bits

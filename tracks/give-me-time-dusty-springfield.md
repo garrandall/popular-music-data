@@ -1,8 +1,11 @@
 ---
+album: The Look Of Love
 artists:
 - Dusty Springfield
+external_ids:
+  spotify: spotify:track:6duLDfk7RheKAup8VFt0P1
 features: []
-genres: []
+first_released_as_single: false
 key: give-me-time-dusty-springfield
 lyrics_url: https://www.azlyrics.com/lyrics/dustyspringfield/givemetime.html
 name: Give Me Time
@@ -23,8 +26,9 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1967-07-22'
+release_year: 1967
+runtime: 187866
 ---
-
 If you'll only give me time
 All the heartache that he left behind
 Will fade from my mind
@@ -55,6 +59,3 @@ Wait awhile
 'Til I can find my smile
 And I'll be yours for as long as I live
 If you'll only give me time
-
-
-

@@ -1,9 +1,12 @@
 ---
+album: Make It Right
 artists:
 - BTS
+external_ids:
+  spotify: spotify:track:314ZkcV7oLWG8yWE7LABvH
 features:
 - Lauv
-genres: []
+first_released_as_single: true
 key: make-it-right-bts-lauv
 lyrics_url: https://genius.com/Bts-make-it-right-remix-lyrics
 name: Make It Right
@@ -16,6 +19,8 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '2019-11-02'
+release_year: 2019
+runtime: 226321
 ---
 Yeah, I was lost, I was tryna find the answer
 In the world around me

@@ -1,8 +1,11 @@
 ---
+album: Any Way You Like It
 artists:
 - Thelma Houston
+external_ids:
+  spotify: spotify:track:51qi5dgc9CsotM87GmRkAX
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-leave-me-this-way-thelma-houston
 lyrics_url: https://genius.com/Thelma-houston-dont-leave-me-this-way-lyrics
 name: Don't Leave Me This Way
@@ -103,6 +106,8 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '1977-05-28'
+release_year: 1976
+runtime: 342360
 ---
 Don't leave me this way
 I can't survive, I can't stay alive

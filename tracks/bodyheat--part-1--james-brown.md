@@ -1,8 +1,11 @@
 ---
+album: Bodyheat
 artists:
 - James Brown
+external_ids:
+  spotify: spotify:track:2uzMDeJQJzdeyQyRx9Jlgj
 features: []
-genres: []
+first_released_as_single: false
 key: bodyheat--part-1--james-brown
 lyrics_url: https://genius.com/James-brown-bodyheat-lyrics
 name: Bodyheat (Part 1)
@@ -19,6 +22,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1977-03-12'
+release_year: 1976
+runtime: 560346
 ---
 Yeah
 (Body heat)

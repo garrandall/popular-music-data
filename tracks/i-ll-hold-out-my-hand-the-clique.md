@@ -1,8 +1,11 @@
 ---
+album: The Clique
 artists:
 - The Clique
+external_ids:
+  spotify: spotify:track:4F7DPcLkBhKIl6yhFMcwhm
 features: []
-genres: []
+first_released_as_single: false
 key: i-ll-hold-out-my-hand-the-clique
 lyrics_url: https://www.musixmatch.com/lyrics/The-Clique-2/I-ll-Hold-Out-My-Hand
 name: I'll Hold Out My Hand
@@ -35,6 +38,8 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '1970-01-03'
+release_year: 1969
+runtime: 157466
 ---
 Just like a child
 Got to set your heart to believing

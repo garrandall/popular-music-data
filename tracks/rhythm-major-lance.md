@@ -1,8 +1,11 @@
 ---
+album: 'The Best Of Major Lance: Everybody Loves A Good Time!'
 artists:
 - Major Lance
+external_ids:
+  spotify: spotify:track:4haCOsZKm2dOVT4Z1cNcyE
 features: []
-genres: []
+first_released_as_single: false
 key: rhythm-major-lance
 lyrics_url: https://genius.com/Major-lance-rhythm-lyrics
 name: Rhythm
@@ -47,6 +50,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1964-10-24'
+release_year: 1964
+runtime: 140866
 ---
 What's that sound?
 (That's rhythm)

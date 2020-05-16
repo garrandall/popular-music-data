@@ -1,8 +1,11 @@
 ---
+album: The Fame
 artists:
 - Lady Gaga
+external_ids:
+  spotify: spotify:track:0TcJ7QWpggdSg8t0fHThHm
 features: []
-genres: []
+first_released_as_single: false
 key: lovegame-lady-gaga
 lyrics_url: https://genius.com/Lady-gaga-lovegame-lyrics
 name: LoveGame
@@ -95,6 +98,8 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '2009-09-26'
+release_year: 2008
+runtime: 216333
 ---
 Let's have some fun, this beat is sick
 I wanna take a ride on your disco stick

@@ -1,8 +1,11 @@
 ---
+album: Golden Hits
 artists:
 - Faron Young
+external_ids:
+  spotify: spotify:track:6YfNVDgakhuHsWUjptaBIO
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-four-in-the-morning-faron-young
 lyrics_url: https://www.azlyrics.com/lyrics/faronyoung/itsfourinthemorning.html
 name: It's Four In The Morning
@@ -23,8 +26,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1972-03-04'
+release_year: 1972
+runtime: 178493
 ---
-
 It's four in the morning and once more the dawning
 Just woke up the wanting in me
 Wishing I'd never met her knowing if I'd forget her
@@ -56,6 +60,3 @@ And it's four in the morning and once more the dawning
 Just woke up the wanting in me
 It's four in the morning and once more the dawning
 Just woke up the wanting in me
-
-
-

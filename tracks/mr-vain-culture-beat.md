@@ -1,8 +1,11 @@
 ---
+album: Serenity
 artists:
 - Culture Beat
+external_ids:
+  spotify: spotify:track:4ih3dyFZoeTdaeJW9mPbOI
 features: []
-genres: []
+first_released_as_single: true
 key: mr-vain-culture-beat
 lyrics_url: https://genius.com/Culture-beat-mr-vain-lyrics
 name: Mr Vain
@@ -87,6 +90,8 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '1994-03-19'
+release_year: 1993
+runtime: 257466
 ---
 Call him Mr. Raider
 Call him Mr. Wrong

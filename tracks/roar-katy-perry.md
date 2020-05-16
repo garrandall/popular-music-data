@@ -1,8 +1,11 @@
 ---
+album: PRISM
 artists:
 - Katy Perry
+external_ids:
+  spotify: spotify:track:27tNWlhdAryQY04Gb2ZhUI
 features: []
-genres: []
+first_released_as_single: false
 key: roar-katy-perry
 lyrics_url: https://www.azlyrics.com/lyrics/katyperry/roar.html
 name: Roar
@@ -147,8 +150,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2014-04-19'
+release_year: 2013
+runtime: 223546
 ---
-
 I used to bite my tongue and hold my breath
 Scared to rock the boat and make a mess
 So I sit quietly
@@ -229,6 +233,3 @@ Oh oh oh oh oh oh oh
 You'll hear me roar
 Oh oh oh oh oh oh oh
 You're gonna hear me roar
-
-
-

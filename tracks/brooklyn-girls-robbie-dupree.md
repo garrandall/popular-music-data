@@ -1,8 +1,11 @@
 ---
+album: Street Corner Heroes
 artists:
 - Robbie Dupree
+external_ids:
+  spotify: spotify:track:2yzzxCBnrIq9etWnMsJi27
 features: []
-genres: []
+first_released_as_single: false
 key: brooklyn-girls-robbie-dupree
 lyrics_url: https://genius.com/Robbie-dupree-brooklyn-girls-lyrics
 name: Brooklyn Girls
@@ -35,6 +38,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1981-07-04'
+release_year: 1981
+runtime: 205240
 ---
 She spins the wheel of fortune on the boardwalk
 Where lovers draw their secrets in the sand

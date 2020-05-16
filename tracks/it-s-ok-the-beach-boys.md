@@ -1,8 +1,11 @@
 ---
+album: Made In California
 artists:
 - The Beach Boys
+external_ids:
+  spotify: spotify:track:4EleogDSmNDrq3F9tt73Dd
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-ok-the-beach-boys
 lyrics_url: https://www.azlyrics.com/lyrics/beachboys/itsok.html
 name: It's Ok
@@ -47,6 +50,8 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '1976-10-23'
+release_year: 1976
+runtime: 131039
 ---
 Fun is in
 It's no sin

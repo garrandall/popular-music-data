@@ -1,8 +1,11 @@
 ---
+album: Juice
 artists:
 - Juice Newton
+external_ids:
+  spotify: spotify:track:11y8GSP2ASv8S9n0FiiDva
 features: []
-genres: []
+first_released_as_single: false
 key: angel-of-the-morning-juice-newton
 lyrics_url: https://www.azlyrics.com/lyrics/juicenewton/angelofthemorning.html
 name: Angel Of The Morning
@@ -95,8 +98,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1981-07-18'
+release_year: 1981
+runtime: 250440
 ---
-
 There'll be no strings to bind your hands
 Not if my love can't bind your heart.
 And there's no need to take a stand
@@ -130,6 +134,3 @@ Just call me angel of the morning, angel
 Just touch my cheek before you leave me, darling
 Just call me angel of the morning, angel
 Just touch my cheek before you leave me, darling
-
-
-

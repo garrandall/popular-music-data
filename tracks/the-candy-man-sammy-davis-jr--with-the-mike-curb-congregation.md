@@ -1,8 +1,11 @@
 ---
+album: That Old Black Magic
 artists:
 - Sammy Davis Jr.
+external_ids:
+  spotify: spotify:track:5X3XrHlCFVGqNKpGp85xVC
 features: []
-genres: []
+first_released_as_single: false
 key: the-candy-man-sammy-davis-jr--with-the-mike-curb-congregation
 lyrics_url: https://genius.com/Sammy-davis-jr-the-candy-man-lyrics
 name: The Candy Man
@@ -91,6 +94,8 @@ rankings:
   rank: 32
   ranking_list: Billboard Hot 100
   start_date: '1972-07-29'
+release_year: 1972
+runtime: 188226
 ---
 Candy Man, hey Candy Man
 Alright everybody, gather around

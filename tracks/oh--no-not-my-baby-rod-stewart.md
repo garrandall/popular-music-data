@@ -1,8 +1,11 @@
 ---
+album: 'Reason To Believe: The Complete Mercury Recordings'
 artists:
 - Rod Stewart
+external_ids:
+  spotify: spotify:track:0S7KIHfuTy9vTmNJUsnz3k
 features: []
-genres: []
+first_released_as_single: false
 key: oh--no-not-my-baby-rod-stewart
 lyrics_url: https://genius.com/Rod-stewart-oh-no-not-my-baby-lyrics
 name: Oh! No Not My Baby
@@ -39,6 +42,8 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1973-12-01'
+release_year: 1973
+runtime: 221000
 ---
 When my friends told me you had someone new
 I didn't believe a single word was true

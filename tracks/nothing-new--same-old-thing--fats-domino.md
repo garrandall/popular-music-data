@@ -1,8 +1,11 @@
 ---
+album: They Call Me The Fat Man (The Legendary Imperial Recordings)
 artists:
 - Fats Domino
+external_ids:
+  spotify: spotify:track:3WgjedKdtPCwsA2qJ3IK0o
 features: []
-genres: []
+first_released_as_single: false
 key: nothing-new--same-old-thing--fats-domino
 lyrics_url: https://genius.com/Fats-domino-nothing-new-same-old-thing-lyrics
 name: Nothing New (Same Old Thing)
@@ -27,6 +30,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1962-07-28'
+release_year: 1962
+runtime: 129226
 ---
 The blues is knocking on my door
 Just like it did once before

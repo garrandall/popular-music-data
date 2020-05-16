@@ -1,8 +1,11 @@
 ---
+album: A Crow Left Of The Murder...
 artists:
 - Incubus
+external_ids:
+  spotify: spotify:track:1rSo624QuuCteNxAzsU3SV
 features: []
-genres: []
+first_released_as_single: false
 key: megalomaniac-incubus
 lyrics_url: https://www.azlyrics.com/lyrics/incubus/megalomaniac.html
 name: Megalomaniac
@@ -87,8 +90,9 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '2004-05-15'
+release_year: 2004
+runtime: 294800
 ---
-
 I hear you on the radio
 You permeate my screen, its' unkind but
 If I met you in a scissor fight
@@ -133,6 +137,3 @@ Maniac, step down, step,
 Step down, step down, 
 Step down, step down, 
 Step down
-
-
-

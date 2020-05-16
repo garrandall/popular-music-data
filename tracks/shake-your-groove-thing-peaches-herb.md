@@ -1,9 +1,12 @@
 ---
+album: 2 Hot!
 artists:
 - Peaches
 - Herb
+external_ids:
+  spotify: spotify:track:5o89Bf80t8ko3uNXJkYoVs
 features: []
-genres: []
+first_released_as_single: false
 key: shake-your-groove-thing-peaches-herb
 lyrics_url: https://www.azlyrics.com/lyrics/peachesherb/shakeyourgroovething.html
 name: Shake Your Groove Thing
@@ -96,8 +99,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1979-05-12'
+release_year: 1978
+runtime: 346133
 ---
-
 Shake it, shake it
 
 Shake your groove thing, shake your groove thing, yeah, yeah
@@ -176,6 +180,3 @@ Shake it, shake it
 Shake it, shake it, a little freaky now
 Shake it, shake it
 A shake it, shake it, a do it to it y'all
-
-
-

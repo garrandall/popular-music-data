@@ -1,8 +1,11 @@
 ---
+album: The Original Studio Recordings, Vol. 1
 artists:
 - The Zombies
+external_ids:
+  spotify: spotify:track:2ZVb4m91QCXD2GFbxC2OwV
 features: []
-genres: []
+first_released_as_single: false
 key: she-s-coming-home-the-zombies
 lyrics_url: https://genius.com/The-zombies-shes-coming-home-lyrics
 name: She's Coming Home
@@ -31,6 +34,8 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '1965-05-15'
+release_year: 1965
+runtime: 158293
 ---
 I saw her walking out the other day
 I thought my love for her

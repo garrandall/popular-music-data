@@ -1,8 +1,11 @@
 ---
+album: Aja
 artists:
 - Steely Dan
+external_ids:
+  spotify: spotify:track:2P6eZ3eCyWVhEhGNqMFBLv
 features: []
-genres: []
+first_released_as_single: false
 key: josie-steely-dan
 lyrics_url: https://www.azlyrics.com/lyrics/steelydan/josie.html
 name: Josie
@@ -51,8 +54,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1978-11-04'
+release_year: 1977
+runtime: 270800
 ---
-
 We're gonna break out the hats and hooters
 When Josie comes home
 We're gonna rev up the motor scooters
@@ -96,6 +100,3 @@ She's the raw flame
 The live wire
 She prays like a Roman
 With her eyes on fire
-
-
-

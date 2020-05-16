@@ -1,8 +1,11 @@
 ---
+album: Super Hits
 artists:
 - Hooters
+external_ids:
+  spotify: spotify:track:5tggRH403EhmwsHH1jcdYa
 features: []
-genres: []
+first_released_as_single: false
 key: day-by-day-hooters
 lyrics_url: https://genius.com/The-hooters-day-by-day-lyrics
 name: Day By Day
@@ -79,6 +82,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1986-04-12'
+release_year: 1985
+runtime: 200434
 ---
 Give me what you can tonight
 Time is all we have to play

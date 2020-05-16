@@ -1,9 +1,12 @@
 ---
+album: Hot Sauce Committee (Pt. 2)
 artists:
 - Beastie Boys
+external_ids:
+  spotify: spotify:track:4XMQa78z5CsMrYfVYUfsda
 features:
 - Nas
-genres: []
+first_released_as_single: true
 key: too-many-rappers-beastie-boys-nas
 lyrics_url: https://www.azlyrics.com/lyrics/beastieboys/toomanyrappers.html
 name: Too Many Rappers
@@ -12,8 +15,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2009-08-08'
+release_year: 2009
+runtime: 264440
 ---
-
 Mic check, mic check
 
 One, one, two, two, three, three
@@ -124,6 +128,3 @@ Ladies and gents attention, Nas in the house
 With Beastie Boys, we can turn it out
 Perpetrators, we can point 'em out
 So if you got somethin' on your mind, let it out
-
-
-

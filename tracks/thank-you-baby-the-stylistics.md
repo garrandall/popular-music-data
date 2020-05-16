@@ -1,8 +1,11 @@
 ---
+album: Thank You Baby
 artists:
 - The Stylistics
+external_ids:
+  spotify: spotify:track:1sqBUjLmLz8AL5xee7I8Ak
 features: []
-genres: []
+first_released_as_single: false
 key: thank-you-baby-the-stylistics
 lyrics_url: https://www.azlyrics.com/lyrics/stylistics/thankyoubaby.html
 name: Thank You Baby
@@ -31,8 +34,9 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '1975-05-24'
+release_year: 1975
+runtime: 242764
 ---
-
 What was I before you
 Just another guy who never knew
 The right time from the wrong
@@ -78,6 +82,3 @@ Thank you, baby
 
 You and me
 You and me
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Chess Divas
 artists:
 - Marlena Shaw
+external_ids:
+  spotify: spotify:track:01slhbkp1vxXKC9lDO6zxp
 features: []
-genres: []
+first_released_as_single: false
 key: mercy-mercy-mercy-marlena-shaw
 lyrics_url: https://genius.com/Marlena-shaw-mercy-mercy-mercy-lyrics
 name: Mercy Mercy Mercy
@@ -27,6 +30,8 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '1967-04-08'
+release_year: 1967
+runtime: 186240
 ---
 It seems like this? Came on me
 I'm lost in a sea of misery

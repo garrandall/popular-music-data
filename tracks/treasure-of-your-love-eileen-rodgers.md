@@ -1,8 +1,11 @@
 ---
+album: Treasure of Your Love
 artists:
 - Eileen Rodgers
+external_ids:
+  spotify: spotify:track:193VYSbs1du0k1leg5AXcw
 features: []
-genres: []
+first_released_as_single: true
 key: treasure-of-your-love-eileen-rodgers
 lyrics_url: https://www.musixmatch.com/lyrics/Eileen-Rodgers/Treasure-of-Your-Love
 name: Treasure Of Your Love
@@ -67,6 +70,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1958-12-01'
+release_year: 1958
+runtime: 171076
 ---
 If I could have a mountain made of gold and diamonds like the stars above,
 The treasure I would most be longing for would be the treasure of your love.

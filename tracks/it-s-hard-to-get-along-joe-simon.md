@@ -1,8 +1,11 @@
 ---
+album: Joe Simon...Better Than Ever
 artists:
 - Joe Simon
+external_ids:
+  spotify: spotify:track:4oHPXhESHjpj0sI4JSfW5R
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-hard-to-get-along-joe-simon
 lyrics_url: https://genius.com/Joe-simon-its-hard-to-get-along-lyrics
 name: It's Hard To Get Along
@@ -19,6 +22,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1969-11-01'
+release_year: 1969
+runtime: 178293
 ---
 It's hard to get along
 It's hard to get along

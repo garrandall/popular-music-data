@@ -1,8 +1,11 @@
 ---
+album: Knee Deep In The Hoopla
 artists:
 - Starship
+external_ids:
+  spotify: spotify:track:0HzjKCZmFhwcO2vnnHpj9q
 features: []
-genres: []
+first_released_as_single: false
 key: sara-starship
 lyrics_url: https://www.azlyrics.com/lyrics/jeffersonstarship/sara.html
 name: Sara
@@ -87,8 +90,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1986-05-10'
+release_year: 1985
+runtime: 292800
 ---
-
 Go now
 Don't look back, we've drawn the line
 Move on
@@ -148,6 +152,3 @@ Why did it, why did it
 (Sara, Sara)
 Why did it all fall apart?
 (Sara, Sara)
-
-
-

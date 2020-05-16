@@ -1,8 +1,11 @@
 ---
+album: Summer Pack
 artists:
 - Childish Gambino
+external_ids:
+  spotify: spotify:track:7p4vHnYXkxlzvfePJVpcTr
 features: []
-genres: []
+first_released_as_single: true
 key: feels-like-summer-childish-gambino
 lyrics_url: https://www.azlyrics.com/lyrics/childishgambino/feelslikesummer.html
 name: Feels Like Summer
@@ -15,8 +18,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2018-09-22'
+release_year: 2018
+runtime: 297404
 ---
-
 You can feel it in the streets
 On a day like this, that heat
 It feel like summer
@@ -72,6 +76,3 @@ I'm hoping that this world will change
 But it just seems the same
 I know
 Oh, I hope we change...
-
-
-

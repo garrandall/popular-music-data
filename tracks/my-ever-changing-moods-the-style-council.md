@@ -1,8 +1,11 @@
 ---
+album: Cafe Bleu
 artists:
 - The Style Council
+external_ids:
+  spotify: spotify:track:4vk81xgPsTv0auIZh0cvGK
 features: []
-genres: []
+first_released_as_single: false
 key: my-ever-changing-moods-the-style-council
 lyrics_url: https://www.azlyrics.com/lyrics/stylecouncil/myeverchangingmoods.html
 name: My Ever Changing Moods
@@ -63,8 +66,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1984-07-07'
+release_year: 1984
+runtime: 217426
 ---
-
 Daylight turns to moonlight - and I'm at my best
 Praising the way it all works - gazing upon the rest
 The cool before the warm
@@ -98,6 +102,3 @@ the present our mistake
 And the future we always leave too late
 I wish we'd come to our senses and see there is no truth
 In those who promote the confusion for this ever changing mood
-
-
-

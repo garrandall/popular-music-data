@@ -1,8 +1,11 @@
 ---
+album: Brothers in Arms
 artists:
 - Dire Straits
+external_ids:
+  spotify: spotify:track:3pGBIgFdfdnjtHDJR4nbrR
 features: []
-genres: []
+first_released_as_single: false
 key: so-far-away-dire-straits
 lyrics_url: https://www.azlyrics.com/lyrics/direstraits/sofaraway.html
 name: So Far Away
@@ -63,8 +66,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1986-05-31'
+release_year: 1985
+runtime: 312133
 ---
-
 Here I am again in this mean old town
 And you're so far away from me
 And where are you when the sun goes down
@@ -94,6 +98,3 @@ So far away from me
 So far I just can't see
 So far away from me
 You're so far away from me
-
-
-

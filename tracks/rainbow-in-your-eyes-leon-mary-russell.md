@@ -1,9 +1,12 @@
 ---
+album: Wedding Album
 artists:
 - Leon
 - Mary Russell
+external_ids:
+  spotify: spotify:track:0sL2gIDdJ5Qb4J9C7ggmln
 features: []
-genres: []
+first_released_as_single: false
 key: rainbow-in-your-eyes-leon-mary-russell
 name: Rainbow In Your Eyes
 rankings:
@@ -55,5 +58,7 @@ rankings:
   rank: 52
   ranking_list: Billboard Hot 100
   start_date: '1976-09-04'
+release_year: 1976
+runtime: 252666
 ---
 

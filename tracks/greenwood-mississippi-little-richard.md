@@ -1,8 +1,11 @@
 ---
+album: The Rill Thing
 artists:
 - Little Richard
+external_ids:
+  spotify: spotify:track:5VLvShYDz4uekJrAB4ucsS
 features: []
-genres: []
+first_released_as_single: false
 key: greenwood-mississippi-little-richard
 lyrics_url: https://www.azlyrics.com/lyrics/littlerichard/greenwoodmississippi.html
 name: Greenwood Mississippi
@@ -27,8 +30,9 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1970-10-03'
+release_year: 1970
+runtime: 212520
 ---
-
 Well I've been on the road
 for a long time
 met a lot of women
@@ -52,4 +56,3 @@ He don't have to worry
 'bout a thing
 'cause everyday now
 you can hear him sing
-

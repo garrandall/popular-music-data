@@ -1,8 +1,11 @@
 ---
+album: In Flight
 artists:
 - George Benson
+external_ids:
+  spotify: spotify:track:6GjOjrIuU4Pu4mqxUqSET1
 features: []
-genres: []
+first_released_as_single: false
 key: gonna-love-you-more-george-benson
 lyrics_url: https://www.azlyrics.com/lyrics/georgebenson/gonnaloveyoumore.html
 name: Gonna Love You More
@@ -27,8 +30,9 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '1977-07-30'
+release_year: 1977
+runtime: 278760
 ---
-
 I'm gonna love you more
 More than anything you heard about
 I'm gonna love you more
@@ -95,6 +99,3 @@ Cause I know I can
 I'm gonna love you, baby
 Gonna make you know
 That I'm your man
-
-
-

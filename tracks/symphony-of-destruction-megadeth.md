@@ -1,8 +1,11 @@
 ---
+album: Countdown To Extinction
 artists:
 - Megadeth
+external_ids:
+  spotify: spotify:track:51TG9W3y9qyO8BY5RXKgnZ
 features: []
-genres: []
+first_released_as_single: false
 key: symphony-of-destruction-megadeth
 lyrics_url: https://www.musixmatch.com/lyrics/Megadeth/Symphony-of-Destruction
 name: Symphony Of Destruction
@@ -67,6 +70,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1993-01-23'
+release_year: 1992
+runtime: 246733
 ---
 You take a mortal man
 And put him in control

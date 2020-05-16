@@ -1,8 +1,11 @@
 ---
+album: Edward Bear
 artists:
 - Edward Bear
+external_ids:
+  spotify: spotify:track:7cbYx1iSCstX5W0YkKDK0c
 features: []
-genres: []
+first_released_as_single: false
 key: last-song-edward-bear
 lyrics_url: https://genius.com/Edward-bear-last-song-lyrics
 name: Last Song
@@ -79,6 +82,8 @@ rankings:
   rank: 23
   ranking_list: Billboard Hot 100
   start_date: '1973-04-14'
+release_year: 1972
+runtime: 195120
 ---
 Did you know I'd go to sleep and leave the lights on
 Hoping you'd come by and know that I was home, still awake

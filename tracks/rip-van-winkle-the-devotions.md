@@ -1,8 +1,11 @@
 ---
+album: "U.S. Smash Hit Records The \u201860s"
 artists:
 - The Devotions
+external_ids:
+  spotify: spotify:track:6wP6XDZH9HiMs6ejL2R6nj
 features: []
-genres: []
+first_released_as_single: false
 key: rip-van-winkle-the-devotions
 lyrics_url: https://genius.com/The-devotions-rip-van-winkle-lyrics
 name: Rip Van Winkle
@@ -47,6 +50,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1964-04-11'
+release_year: 1964
+runtime: 138293
 ---
 (Rolling ball, pins falling)
 Wow-wee, ha, ha, ha, haaaaa, a strike

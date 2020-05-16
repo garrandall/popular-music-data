@@ -1,8 +1,11 @@
 ---
+album: Sign "O" the Times
 artists:
 - Prince
+external_ids:
+  spotify: spotify:track:2X6okzhnNPSzh9yxDMHHe3
 features: []
-genres: []
+first_released_as_single: false
 key: u-got-the-look-prince
 lyrics_url: https://genius.com/Prince-u-got-the-look-lyrics
 name: U Got The Look
@@ -107,6 +110,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1988-01-16'
+release_year: 1987
+runtime: 227706
 ---
 Here we are folks
 The dream we all dream of

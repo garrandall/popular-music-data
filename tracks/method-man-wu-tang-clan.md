@@ -1,8 +1,11 @@
 ---
+album: Enter The Wu-Tang (36 Chambers)
 artists:
 - Wu-Tang Clan
+external_ids:
+  spotify: spotify:track:1Ymmmt8H4oIk5q13ODd4T1
 features: []
-genres: []
+first_released_as_single: true
 key: method-man-wu-tang-clan
 lyrics_url: https://genius.com/Wu-tang-clan-method-man-lyrics
 name: Method Man
@@ -63,6 +66,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1994-01-08'
+release_year: 1993
+runtime: 252213
 ---
 Yeahhh, torture, motherfucker, what?
 Torture, nigga, what?

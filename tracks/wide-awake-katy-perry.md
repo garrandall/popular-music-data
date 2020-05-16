@@ -1,8 +1,11 @@
 ---
+album: 'Teenage Dream: The Complete Confection'
 artists:
 - Katy Perry
+external_ids:
+  spotify: spotify:track:1rUQmXEy41tXwHIKFECNTa
 features: []
-genres: []
+first_released_as_single: false
 key: wide-awake-katy-perry
 lyrics_url: https://genius.com/Katy-perry-wide-awake-lyrics
 name: Wide Awake
@@ -111,6 +114,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2012-12-01'
+release_year: 2012
+runtime: 220933
 ---
 I'm wide awake
 I'm wide awake

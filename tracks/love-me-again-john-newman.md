@@ -1,8 +1,11 @@
 ---
+album: Tribute
 artists:
 - John Newman
+external_ids:
+  spotify: spotify:track:5VSCgNlSmTV2Yq5lB40Eaw
 features: []
-genres: []
+first_released_as_single: false
 key: love-me-again-john-newman
 lyrics_url: https://genius.com/John-newman-love-me-again-lyrics
 name: Love Me Again
@@ -79,6 +82,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '2014-04-05'
+release_year: 2013
+runtime: 239894
 ---
 Know I've done wrong
 I left your heart torn

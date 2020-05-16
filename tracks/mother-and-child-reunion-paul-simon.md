@@ -1,8 +1,11 @@
 ---
+album: Paul Simon
 artists:
 - Paul Simon
+external_ids:
+  spotify: spotify:track:5vZ1BKMSLgrxxPYGMR904n
 features: []
-genres: []
+first_released_as_single: false
 key: mother-and-child-reunion-paul-simon
 lyrics_url: https://genius.com/Paul-simon-mother-and-child-reunion-lyrics
 name: Mother And Child Reunion
@@ -59,6 +62,8 @@ rankings:
   rank: 26
   ranking_list: Billboard Hot 100
   start_date: '1972-04-29'
+release_year: 1972
+runtime: 187400
 ---
 No, I would not give you false hope
 On this strange and mournful day

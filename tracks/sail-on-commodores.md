@@ -1,8 +1,11 @@
 ---
+album: Midnight Magic
 artists:
 - Commodores
+external_ids:
+  spotify: spotify:track:2QglMIKYxa06BFSXG6KwvC
 features: []
-genres: []
+first_released_as_single: false
 key: sail-on-commodores
 lyrics_url: https://www.azlyrics.com/lyrics/commodores/sailon.html
 name: Sail On
@@ -75,8 +78,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1979-12-01'
+release_year: 1979
+runtime: 332186
 ---
-
 Sail on, down the line
 About half a mile or so
 And I don't really wanna know ah
@@ -121,6 +125,3 @@ Good times never felt so good
 Sail on sugar
 Good times never felt so good
 Sail on
-
-
-

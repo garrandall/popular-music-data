@@ -1,8 +1,11 @@
 ---
+album: 'One World: Together At Home'
 artists:
 - Jessie J
+external_ids:
+  spotify: spotify:track:6SkoBaMd0lzoQjID5aV2d9
 features: []
-genres: []
+first_released_as_single: false
 key: flashlight-jessie-j
 lyrics_url: https://www.azlyrics.com/lyrics/jessiej/flashlight.html
 name: Flashlight
@@ -35,8 +38,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2015-07-18'
+release_year: 2015
+runtime: 209560
 ---
-
 When tomorrow comes
 I'll be on my own
 Feeling frightened of
@@ -111,6 +115,3 @@ You're my flashlight
 Light light)
 
 You're my flashlight
-
-
-

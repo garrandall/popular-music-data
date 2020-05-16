@@ -1,8 +1,11 @@
 ---
+album: 30 Exitos Insuperables
 artists:
 - Jon Secada
+external_ids:
+  spotify: spotify:track:77km7GdVzfN7tY6IRapthq
 features: []
-genres: []
+first_released_as_single: false
 key: whipped-jon-secada
 lyrics_url: https://www.azlyrics.com/lyrics/jonsecada/whipped.html
 name: Whipped
@@ -43,8 +46,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1994-11-12'
+release_year: 1994
+runtime: 273200
 ---
-
 I'm a man, I'm a man such a loving man
 Understand that I'm strong and I know I belong
 That's why there's no way you can say what you say
@@ -122,6 +126,3 @@ Be whipped from the outside
 Be whipped from the inside
 Be whipped from the outside
 Whipped from the inside looking for something.
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: That's Life
 artists:
 - Neal McCoy
+external_ids:
+  spotify: spotify:track:18J8Yx5SSjRF8QYkT9bRVx
 features: []
-genres: []
+first_released_as_single: false
 key: billy-s-got-his-beer-goggles-on-neal-mccoy
 lyrics_url: https://www.azlyrics.com/lyrics/nealmccoy/billysgothisbeergoggleson.html
 name: Billy's Got His Beer Goggles On
@@ -43,8 +46,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2005-12-03'
+release_year: 2005
+runtime: 218546
 ---
-
 Awww Yah!
 Billys at the bar, he's been there all night
 First ten beers hes had, since her goodbye
@@ -90,6 +94,3 @@ Cause life looks good, good, good
 So good, good, good,
 Life looks good, good, good
 Billy's got his beer goggles...on
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Closer To Home
 artists:
 - Grand Funk Railroad
+external_ids:
+  spotify: spotify:track:1qKSrG553yLwxUVR4el9Vs
 features: []
-genres: []
+first_released_as_single: false
 key: mean-mistreater-grand-funk-railroad
 lyrics_url: https://www.azlyrics.com/lyrics/grandfunkrailroad/meanmistreater.html
 name: Mean Mistreater
@@ -39,8 +42,9 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1971-01-30'
+release_year: 1970
+runtime: 267866
 ---
-
 Mean mistreater, you make me cry
 You lay around and watch me die
 Mean mistreater, can't you see I'm real?
@@ -55,6 +59,3 @@ I know all about you, your childhood days
 Your mom and dad, your pretty face
 Mean mistreater, if you need me
 I'm needin' you to set me free
-
-
-

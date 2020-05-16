@@ -1,8 +1,11 @@
 ---
+album: True Colors
 artists:
 - Cyndi Lauper
+external_ids:
+  spotify: spotify:track:1xQAnlPYZHrtf4Ux6WpkJv
 features: []
-genres: []
+first_released_as_single: false
 key: what-s-going-on-cyndi-lauper
 lyrics_url: https://genius.com/Cyndi-lauper-whats-going-on-lyrics
 name: What's Going On
@@ -59,6 +62,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1987-06-06'
+release_year: 1983
+runtime: 231270
 ---
 Mother, mother
 There's too many of you crying

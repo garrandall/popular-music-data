@@ -1,7 +1,8 @@
 ---
 artists:
-- Dale Wright And The Wright Guys With the Dons
-features: []
+- Dale Wright And The Wright Guys
+features:
+- The Dons
 genres: []
 key: please-don-t-do-it-dale-wright-and-the-wright-guys-with-the-dons
 name: Please Don't Do It

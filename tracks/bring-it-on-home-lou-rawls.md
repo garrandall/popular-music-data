@@ -1,8 +1,11 @@
 ---
+album: 'Above My Head: Soul Beginnings'
 artists:
 - Lou Rawls
+external_ids:
+  spotify: spotify:track:18jpr5IfbVU06rCO86sSV1
 features: []
-genres: []
+first_released_as_single: false
 key: bring-it-on-home-lou-rawls
 lyrics_url: https://www.musixmatch.com/lyrics/Sam-Cooke-Lou-Rawls/Bring-It-On-Home-To-Me
 name: Bring It On Home
@@ -27,6 +30,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1970-08-29'
+release_year: 1962
+runtime: 158080
 ---
 If you ever change your mind
 About leaving, leaving me behind

@@ -1,8 +1,11 @@
 ---
+album: Capitol Collectors Series
 artists:
 - The Lettermen
+external_ids:
+  spotify: spotify:track:01vU3aIv30DTDyboxD8s1i
 features: []
-genres: []
+first_released_as_single: false
 key: silly-boy--she-doesn-t-love-you--the-lettermen
 lyrics_url: https://genius.com/The-lettermen-silly-boy-lyrics
 name: Silly Boy (She Doesn't Love You)
@@ -23,6 +26,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1962-09-08'
+release_year: 1962
+runtime: 163693
 ---
 Silly boy, silly boy, she doesn't care
 Silly boy, silly boy, she's not playing fair

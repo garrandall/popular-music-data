@@ -1,8 +1,11 @@
 ---
+album: Hey Leroy
 artists:
 - Jimmy Castor
+external_ids:
+  spotify: spotify:track:1o4emNAxfYGZU6vugcv0XP
 features: []
-genres: []
+first_released_as_single: false
 key: hey-leroy-your-mama-s-callin--you-jimmy-castor
 lyrics_url: https://genius.com/Jimmy-castor-hey-leroy-your-mamas-callin-you-lyrics
 name: Hey Leroy Your Mama's Callin' You
@@ -43,6 +46,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1967-02-25'
+release_year: 1966
+runtime: 150226
 ---
 Hey, Leroy
 What

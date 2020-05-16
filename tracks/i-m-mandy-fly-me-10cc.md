@@ -1,8 +1,11 @@
 ---
+album: How Dare You
 artists:
 - 10cc
+external_ids:
+  spotify: spotify:track:4mmWv18Tz155oy6x7PEe3q
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-mandy-fly-me-10cc
 lyrics_url: https://genius.com/10cc-im-mandy-fly-me-lyrics
 name: I'm Mandy Fly Me
@@ -23,6 +26,8 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '1976-05-01'
+release_year: 1976
+runtime: 323533
 ---
 Oh, no you'll never get me up in one of these again
 'Cos what goes up (What goes up)

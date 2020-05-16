@@ -1,8 +1,11 @@
 ---
+album: The First Time We Met
 artists:
 - The Independents
+external_ids:
+  spotify: spotify:track:4J5UnXjqaGtATt8zKqTGMZ
 features: []
-genres: []
+first_released_as_single: false
 key: leaving-me-the-independents
 lyrics_url: https://www.musixmatch.com/lyrics/The-Independents/Leaving-Me
 name: Leaving Me
@@ -59,6 +62,8 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1973-06-30'
+release_year: 1972
+runtime: 192544
 ---
 Oh, darling
 After all this time

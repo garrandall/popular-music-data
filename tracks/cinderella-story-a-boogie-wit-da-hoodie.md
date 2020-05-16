@@ -1,8 +1,11 @@
 ---
+album: Artist 2.0
 artists:
 - A Boogie Wit da Hoodie
+external_ids:
+  spotify: spotify:track:4z6KR2TykQNmYEIpLyq4J7
 features: []
-genres: []
+first_released_as_single: false
 key: cinderella-story-a-boogie-wit-da-hoodie
 lyrics_url: https://genius.com/A-boogie-wit-da-hoodie-cinderella-story-lyrics
 name: Cinderella Story
@@ -11,6 +14,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2020-02-29'
+release_year: 2020
+runtime: 185454
 ---
 It's a hood nigga story (It's a hood nigga story)
 But you like Cinderella stories, too (But you like Cinderella stories too)

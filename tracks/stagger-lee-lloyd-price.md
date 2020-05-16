@@ -1,8 +1,11 @@
 ---
+album: The Exciting Lloyd Price
 artists:
 - Lloyd Price
+external_ids:
+  spotify: spotify:track:7qoaMWT3eRCKG1RN6dVuOY
 features: []
-genres: []
+first_released_as_single: false
 key: stagger-lee-lloyd-price
 lyrics_url: https://genius.com/Lloyd-price-stagger-lee-lyrics
 name: Stagger Lee
@@ -91,6 +94,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1959-04-27'
+release_year: 1958
+runtime: 144626
 ---
 The night was clear
 And the moon was yellow

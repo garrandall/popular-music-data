@@ -1,8 +1,11 @@
 ---
+album: Mr. Bojangles
 artists:
 - Sammy Davis Jr.
+external_ids:
+  spotify: spotify:track:75MhfYCw5OOGut5hiU9rug
 features: []
-genres: []
+first_released_as_single: false
 key: the-people-tree-sammy-davis-jr--with-the-mike-curb-congregation
 lyrics_url: https://genius.com/Sammy-davis-jr-the-people-tree-lyrics
 name: The People Tree
@@ -27,6 +30,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1972-11-18'
+release_year: 1972
+runtime: 148506
 ---
 Hay
 Wouldn't it be nice to make a people tree

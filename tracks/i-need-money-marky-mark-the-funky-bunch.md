@@ -1,9 +1,12 @@
 ---
+album: Music For The People
 artists:
 - Marky Mark
 - The Funky Bunch
+external_ids:
+  spotify: spotify:track:0mmx6q9bGJfLHylvOlMtDZ
 features: []
-genres: []
+first_released_as_single: false
 key: i-need-money-marky-mark-the-funky-bunch
 lyrics_url: https://www.musixmatch.com/lyrics/Marky-Mark-and-the-Funky-Bunch/I-Need-Money
 name: I Need Money
@@ -36,6 +39,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1992-03-28'
+release_year: 1991
+runtime: 269000
 ---
 Gotta get it, got to, got to, get money
 Gotta get it, got to, got to, get paid

@@ -1,8 +1,11 @@
 ---
+album: N.E.W.S.
 artists:
 - Golden Earring
+external_ids:
+  spotify: spotify:track:6RGmi17H0xpHb7hpMxFwip
 features: []
-genres: []
+first_released_as_single: false
 key: when-the-lady-smiles-golden-earring
 lyrics_url: https://www.azlyrics.com/lyrics/goldenearring/whentheladysmiles.html
 name: When The Lady Smiles
@@ -23,8 +26,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1984-04-14'
+release_year: 1984
+runtime: 340026
 ---
-
 When the lady smiles,
 You know it drives me wild
 Her lips are warm and resourceful
@@ -82,6 +86,3 @@ I don't resist at all
 And she is leadin' the way
 
 Oh no, oh no, oh nooooo...
-
-
-

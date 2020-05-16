@@ -1,8 +1,11 @@
 ---
+album: The Essential Floyd Cramer
 artists:
 - Floyd Cramer
+external_ids:
+  spotify: spotify:track:2ZPFnNILBwHasTSHRDIy7W
 features: []
-genres: []
+first_released_as_single: false
 key: your-last-goodbye-floyd-cramer
 lyrics_url: https://genius.com/Floyd-cramer-your-last-goodbye-lyrics
 name: Your Last Goodbye
@@ -35,5 +38,7 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '1961-11-06'
+release_year: 1961
+runtime: 145600
 ---
 Instrumental

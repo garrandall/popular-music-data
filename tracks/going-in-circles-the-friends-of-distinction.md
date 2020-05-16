@@ -1,8 +1,11 @@
 ---
+album: Grazin'
 artists:
 - The Friends Of Distinction
+external_ids:
+  spotify: spotify:track:5gUk26spbkbYgXmDTMbW3C
 features: []
-genres: []
+first_released_as_single: false
 key: going-in-circles-the-friends-of-distinction
 lyrics_url: https://genius.com/The-friends-of-distinction-going-in-circles-lyrics
 name: Going In Circles
@@ -87,6 +90,8 @@ rankings:
   rank: 37
   ranking_list: Billboard Hot 100
   start_date: '1969-12-27'
+release_year: 1969
+runtime: 252280
 ---
 I'm an ever rollin' wheel, without a destination real
 I'm an ever spinning top, whirling around till I drop

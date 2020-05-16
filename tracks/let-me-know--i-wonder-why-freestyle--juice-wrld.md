@@ -1,8 +1,11 @@
 ---
+album: Let Me Know (I Wonder Why Freestyle)
 artists:
 - Juice WRLD
+external_ids:
+  spotify: spotify:track:3wwo0bJvDSorOpNfzEkfXx
 features: []
-genres: []
+first_released_as_single: true
 key: let-me-know--i-wonder-why-freestyle--juice-wrld
 lyrics_url: https://www.azlyrics.com/lyrics/juicewrld/letmeknowiwonderwhyfreestyle.html
 name: Let Me Know (I Wonder Why Freestyle)
@@ -19,8 +22,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2020-01-11'
+release_year: 2019
+runtime: 215380
 ---
-
 Let me know, let me know, let me know, let me know what's up with you, oh
 Let me know, let me know, let me know, let me know if you comfortable, oh
 Let me know, let me know, let me know, let me know what's up with you, oh
@@ -62,6 +66,3 @@ Just feel the vibes, just- just feel the vibes
 I wonder why, I- I wonder why, yeah
 Just feel the vibes, just- just feel the vibes
 Just feel the vibes, just- just feel the vibes
-
-
-

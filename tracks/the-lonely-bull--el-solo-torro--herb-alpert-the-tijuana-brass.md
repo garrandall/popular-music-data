@@ -1,9 +1,12 @@
 ---
+album: The Lonely Bull
 artists:
 - Herb Alpert
 - The Tijuana Brass
+external_ids:
+  spotify: spotify:track:5JO3QdPjhEtAnveah7wzar
 features: []
-genres: []
+first_released_as_single: false
 key: the-lonely-bull--el-solo-torro--herb-alpert-the-tijuana-brass
 lyrics_url: https://www.musixmatch.com/lyrics/Herb-Alpert-feat-The-Tijuana-Brass-2/The-Lonely-Bull-2
 name: The Lonely Bull (El Solo Torro)
@@ -64,6 +67,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1963-01-26'
+release_year: 1962
+runtime: 136373
 ---
 When you're standing on the edge of nowhere
 There's only one way up, so your heart's got to go there

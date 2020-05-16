@@ -1,8 +1,11 @@
 ---
+album: Rita Coolidge
 artists:
 - Rita Coolidge
+external_ids:
+  spotify: spotify:track:1EqIX3WHxuNWaS0xV0CrTG
 features: []
-genres: []
+first_released_as_single: false
 key: you-rita-coolidge
 lyrics_url: https://genius.com/Rita-coolidge-i-believe-in-you-lyrics
 name: You
@@ -55,6 +58,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1978-09-16'
+release_year: 1971
+runtime: 197866
 ---
 Now that you found yourself losing your mind
 Are you here again?

@@ -1,9 +1,12 @@
 ---
+album: At Their Best
 artists:
 - Peaches
 - Herb
+external_ids:
+  spotify: spotify:track:0JQxoQkifzI7P7UQUlQHcQ
 features: []
-genres: []
+first_released_as_single: false
 key: roller-skatin--mate--part-i--peaches-herb
 lyrics_url: https://genius.com/Peaches-and-herb-roller-skatin-mate-lyrics
 name: Roller-Skatin' Mate (Part I)
@@ -24,6 +27,8 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '1979-12-15'
+release_year: 1979
+runtime: 413133
 ---
 Oh, hey, hey, ha
 Oh, oh

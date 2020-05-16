@@ -1,8 +1,11 @@
 ---
+album: World Power
 artists:
 - Snap!
+external_ids:
+  spotify: spotify:track:0nQLxiNGbbUoSGrxksETLm
 features: []
-genres: []
+first_released_as_single: false
 key: the-power-snap-
 lyrics_url: https://www.musixmatch.com/lyrics/Snap-14/The-Power
 name: The Power
@@ -95,6 +98,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1990-10-06'
+release_year: 1990
+runtime: 228993
 ---
 Amerikanskaja firma Tranceptor Technology
 Pristupila k proizvodstvu computrov 'Personalny Sputnik'.

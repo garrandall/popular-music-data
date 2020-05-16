@@ -1,8 +1,11 @@
 ---
+album: In Heat
 artists:
 - The Romantics
+external_ids:
+  spotify: spotify:track:6Kzi4F77twuPRkNhxonUET
 features: []
-genres: []
+first_released_as_single: false
 key: one-in-a-million-the-romantics
 lyrics_url: https://www.azlyrics.com/lyrics/romantics/oneinamillion.html
 name: One In A Million
@@ -55,8 +58,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1984-05-12'
+release_year: 1983
+runtime: 220706
 ---
-
 Something about you 
 Makes me want to keep on loving you
 When I'm without you
@@ -106,6 +110,3 @@ You're one in a million
 One in a million and you're second to none
 One in a million, WOW! one in a million
 Baby you know you are one
-
-
-

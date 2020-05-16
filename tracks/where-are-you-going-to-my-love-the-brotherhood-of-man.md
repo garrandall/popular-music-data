@@ -1,8 +1,11 @@
 ---
+album: The Definitive Collection
 artists:
 - The Brotherhood Of Man
+external_ids:
+  spotify: spotify:track:5SRWm4OYdywepiOUXRgvfm
 features: []
-genres: []
+first_released_as_single: false
 key: where-are-you-going-to-my-love-the-brotherhood-of-man
 lyrics_url: https://genius.com/Brotherhood-of-man-where-are-you-going-to-my-love-lyrics
 name: Where Are You Going To My Love
@@ -35,6 +38,8 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '1970-10-03'
+release_year: 1970
+runtime: 198333
 ---
 I hold your hand and
 Gently touch your hair

@@ -1,8 +1,11 @@
 ---
+album: Moonshine in the Trunk
 artists:
 - Brad Paisley
+external_ids:
+  spotify: spotify:track:4yL5WpJZmoxAV4udhE55VY
 features: []
-genres: []
+first_released_as_single: false
 key: country-nation-brad-paisley
 lyrics_url: https://www.azlyrics.com/lyrics/bradpaisley/countrynation.html
 name: Country Nation
@@ -15,8 +18,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2016-02-20'
+release_year: 2014
+runtime: 225413
 ---
-
 We work in the factories and the fields
 Assembly lines, the coal mines
 And the steel mills
@@ -58,6 +62,3 @@ Cheer 24 and 88
 We crank up the same songs Friday night
 On two thousand country stations
 Yeah, we're one big country nation, that's right
-
-
-

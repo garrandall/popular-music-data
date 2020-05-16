@@ -1,8 +1,11 @@
 ---
+album: Aretha
 artists:
 - Aretha Franklin
+external_ids:
+  spotify: spotify:track:6S1nW26PI99DWPAQ8MvDnR
 features: []
-genres: []
+first_released_as_single: false
 key: rock-a-lott-aretha-franklin
 lyrics_url: https://www.azlyrics.com/lyrics/arethafranklin/rockalott.html
 name: Rock-A-Lott
@@ -23,8 +26,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1987-07-11'
+release_year: 1986
+runtime: 381120
 ---
-
 Rock, rock, rock...
 
 It's time to jam, y'all
@@ -117,6 +121,3 @@ Rock, rock, rock...
 
 I like it, I like it
 I like it, I like it...
-
-
-

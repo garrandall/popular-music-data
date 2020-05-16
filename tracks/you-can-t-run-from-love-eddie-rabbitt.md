@@ -1,8 +1,11 @@
 ---
+album: Radio Romance
 artists:
 - Eddie Rabbitt
+external_ids:
+  spotify: spotify:track:6KU5URgVCXtJbrTFGEOz7S
 features: []
-genres: []
+first_released_as_single: false
 key: you-can-t-run-from-love-eddie-rabbitt
 lyrics_url: https://www.musixmatch.com/lyrics/Eddie-Rabbitt/You-Can-t-Run-From-Love
 name: You Can't Run From Love
@@ -39,6 +42,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1983-06-11'
+release_year: 1982
+runtime: 224013
 ---
 I took a plane around the world,
 Trying to loose her memory

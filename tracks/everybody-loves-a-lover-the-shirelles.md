@@ -1,8 +1,11 @@
 ---
+album: Remember When
 artists:
 - The Shirelles
+external_ids:
+  spotify: spotify:track:43rnNLfix0p7xbwZz01hov
 features: []
-genres: []
+first_released_as_single: false
 key: everybody-loves-a-lover-the-shirelles
 lyrics_url: https://genius.com/The-shirelles-everybody-loves-a-lover-lyrics
 name: Everybody Loves A Lover
@@ -55,6 +58,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1963-02-16'
+release_year: 1962
+runtime: 160070
 ---
 Everybody loves a lover
 I'm a lover, everybody loves me

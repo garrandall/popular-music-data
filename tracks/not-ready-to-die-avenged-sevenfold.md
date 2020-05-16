@@ -1,8 +1,11 @@
 ---
+album: Not Ready to Die (From "Call of the Dead")
 artists:
 - Avenged Sevenfold
+external_ids:
+  spotify: spotify:track:6haHIyPMUnVCZn6pHpyzM8
 features: []
-genres: []
+first_released_as_single: true
 key: not-ready-to-die-avenged-sevenfold
 lyrics_url: https://www.azlyrics.com/lyrics/avengedsevenfold/notreadytodie.html
 name: Not Ready To Die
@@ -11,8 +14,9 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '2011-05-21'
+release_year: 2011
+runtime: 425264
 ---
-
 Gone, cast away in time
 Evil yours, now evil mine
 So I robbed you blind
@@ -82,6 +86,3 @@ Ready to die!
 Ready to die!
 Ready to die!
 Not ready to die!
-
-
-

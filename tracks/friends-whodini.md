@@ -1,8 +1,11 @@
 ---
+album: Escape
 artists:
 - Whodini
+external_ids:
+  spotify: spotify:track:3e8KC0EoBmKGuD5LwBvj4U
 features: []
-genres: []
+first_released_as_single: false
 key: friends-whodini
 lyrics_url: https://www.azlyrics.com/lyrics/whodini/friends.html
 name: Friends
@@ -19,8 +22,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1985-01-19'
+release_year: 1982
+runtime: 280106
 ---
-
 Friends 
 How many of us have them?
 Friends
@@ -119,6 +123,3 @@ How many of us have them?
 Friends
 Before we go any further, let's be
 Friends
-
-
-

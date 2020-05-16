@@ -1,8 +1,11 @@
 ---
+album: Spirits Having Flown
 artists:
 - Bee Gees
+external_ids:
+  spotify: spotify:track:1NYN7jw0Y1ANEleeveEcLs
 features: []
-genres: []
+first_released_as_single: false
 key: too-much-heaven-bee-gees
 lyrics_url: https://www.azlyrics.com/lyrics/beegees/toomuchheaven.html
 name: Too Much Heaven
@@ -91,8 +94,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1979-04-07'
+release_year: 1978
+runtime: 297546
 ---
-
 Nobody gets too much heaven no more
 It's much harder to come by
 I'm waiting in line
@@ -161,6 +165,3 @@ I'm waiting in line
 Nobody gets too much love anymore
 It's as high as a mountain
 And harder to climb
-
-
-

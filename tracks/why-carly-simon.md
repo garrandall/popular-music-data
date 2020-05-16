@@ -1,8 +1,11 @@
 ---
+album: Soup for One (Original Motion Picture Soundtrack)
 artists:
 - Carly Simon
+external_ids:
+  spotify: spotify:track:6Wux9SSXcUdgwG7TItGTJz
 features: []
-genres: []
+first_released_as_single: false
 key: why-carly-simon
 lyrics_url: https://genius.com/Carly-simon-why-lyrics
 name: Why
@@ -31,6 +34,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1982-08-21'
+release_year: 1982
+runtime: 248490
 ---
 Ladidadida
 Ladidadida

@@ -1,8 +1,11 @@
 ---
+album: Rokstarr
 artists:
 - Taio Cruz
+external_ids:
+  spotify: spotify:track:1DqdF42leyFIzqNDv9CjId
 features: []
-genres: []
+first_released_as_single: false
 key: dynamite-taio-cruz
 lyrics_url: https://www.azlyrics.com/lyrics/taiocruz/dynamite.html
 name: Dynamite
@@ -195,9 +198,9 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2011-05-07'
+release_year: 2010
+runtime: 203866
 ---
-
-
 I throw my hands up in the air sometimes
 Saying AYO! Gotta let go!
 I wanna celebrate and live my life
@@ -279,6 +282,3 @@ Like it's dynamite!
 Now I told you twice
 We gon' light it up
 Like it's dynamite!
-
-
-

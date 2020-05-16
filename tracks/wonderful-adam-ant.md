@@ -1,8 +1,11 @@
 ---
+album: Wonderful
 artists:
 - Adam Ant
+external_ids:
+  spotify: spotify:track:2oJuoAFzlEHDS0moF0VtuA
 features: []
-genres: []
+first_released_as_single: false
 key: wonderful-adam-ant
 lyrics_url: https://www.azlyrics.com/lyrics/adamant/wonderful.html
 name: Wonderful
@@ -83,8 +86,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1995-08-05'
+release_year: 1995
+runtime: 262533
 ---
-
 Did I tell you how much I miss
 Your sweet kiss?
 Did I tell you I didn't cry?
@@ -130,6 +134,3 @@ I miss you yes I do
 Did I tell you that I was wrong?
 I was wrong
 For so long long long
-
-
-

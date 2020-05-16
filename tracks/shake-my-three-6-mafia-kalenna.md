@@ -1,9 +1,12 @@
 ---
+album: Shake My
 artists:
 - Three 6 Mafia
+external_ids:
+  spotify: spotify:track:4qmUWu3rhuIR0Ox8hAjEIa
 features:
 - Kalenna
-genres: []
+first_released_as_single: true
 key: shake-my-three-6-mafia-kalenna
 lyrics_url: https://www.azlyrics.com/lyrics/three6mafia/shakemy.html
 name: Shake My
@@ -20,8 +23,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2009-09-26'
+release_year: 2009
+runtime: 199133
 ---
-
 I've come to shake my ass
 I've come to shake my ass
 (Three 6 Mafia)
@@ -130,6 +134,3 @@ With the bomb, with the bomb
 On the floor in the pocket with the bass, drum
 Over here, I do my business like I'm dumb, dumb
 I'm the boom with the bang, with the bomb, with the bomb
-
-
-

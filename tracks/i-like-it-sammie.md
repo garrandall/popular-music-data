@@ -1,8 +1,11 @@
 ---
+album: From The Bottom To The Top
 artists:
 - Sammie
+external_ids:
+  spotify: spotify:track:0IvTGWbNnCiUi9IOF7ye3F
 features: []
-genres: []
+first_released_as_single: false
 key: i-like-it-sammie
 lyrics_url: https://genius.com/Sammie-i-like-it-lyrics
 name: I Like It
@@ -87,6 +90,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2000-06-10'
+release_year: 2000
+runtime: 251040
 ---
 Yeah
 

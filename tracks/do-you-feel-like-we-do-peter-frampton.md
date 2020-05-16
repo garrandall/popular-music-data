@@ -1,8 +1,11 @@
 ---
+album: Frampton's Camel
 artists:
 - Peter Frampton
+external_ids:
+  spotify: spotify:track:1iZaCJeji5w8PehcSVFX5P
 features: []
-genres: []
+first_released_as_single: false
 key: do-you-feel-like-we-do-peter-frampton
 lyrics_url: https://genius.com/Peter-frampton-do-you-feel-like-we-do-lyrics
 name: Do You Feel Like We Do
@@ -79,6 +82,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1977-01-15'
+release_year: 1973
+runtime: 404706
 ---
 Woke up this morning with a wine glass in my hand
 Whose wine, what wine, where the hell did I dine?

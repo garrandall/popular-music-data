@@ -1,8 +1,11 @@
 ---
+album: All For You
 artists:
 - Janet
+external_ids:
+  spotify: spotify:track:5X8kkUaUlAyAUr9TYqDFTH
 features: []
-genres: []
+first_released_as_single: false
 key: all-for-you-janet
 lyrics_url: https://genius.com/Janet-jackson-all-for-you-lyrics
 name: All For You
@@ -95,6 +98,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2001-08-11'
+release_year: 2001
+runtime: 329933
 ---
 All my girls at the party
 Look at that body

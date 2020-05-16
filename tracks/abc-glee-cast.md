@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music, Volume 7'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:73o83gUyd4hdmGdYNYcTJp
 features: []
-genres: []
+first_released_as_single: false
 key: abc-glee-cast
 lyrics_url: https://www.azlyrics.com/lyrics/gleecast/abc.html
 name: ABC
@@ -11,9 +14,10 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2011-12-24'
+release_year: 2011
+runtime: 174000
 ---
-
- A buh-buh buh buh-buh
+A buh-buh buh buh-buh
  A buh-buh buh buh-buh
 
 
@@ -112,6 +116,3 @@ That's how easy love can be
 
 Now I'm gonna teach you how to
 Sing it out, sing it out, easy as one, two, three
-
-
-

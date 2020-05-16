@@ -1,9 +1,12 @@
 ---
+album: R. Kelly
 artists:
 - R. Kelly
+external_ids:
+  spotify: spotify:track:6zA2SEJJoiNByVMlQ4vgtH
 features:
 - Ronald Isley
-genres: []
+first_released_as_single: false
 key: down-low--nobody-has-to-know--r--kelly-ronald-isley
 lyrics_url: https://genius.com/R-kelly-down-low-nobody-has-to-know-lyrics
 name: Down Low (Nobody Has To Know)
@@ -88,6 +91,8 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '1996-07-13'
+release_year: 1995
+runtime: 288506
 ---
 Listen, girl, you want me but he needs you
 Yet you're telling me that everything is cool

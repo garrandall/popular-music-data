@@ -1,8 +1,11 @@
 ---
+album: The Complete Season 4 Collection (The Voice Performance)
 artists:
 - Danielle Bradbery
+external_ids:
+  spotify: spotify:track:5wOyNyVoLhGVEbRHf8W2pp
 features: []
-genres: []
+first_released_as_single: false
 key: maybe-it-was-memphis-danielle-bradbery
 lyrics_url: https://www.azlyrics.com/lyrics/daniellebradbery/maybeitwasmemphis.html
 name: Maybe It Was Memphis
@@ -15,8 +18,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2013-07-06'
+release_year: 2013
+runtime: 202600
 ---
-
 Lookin' at you through a misty moonlight
 Katydid sing like a symphony
 Porch swing swayin' like a Tennessee lullaby
@@ -68,6 +72,3 @@ But it sure felt right
 Maybe it was you maybe it was me
 But it sure felt right
 You know it sure felt right
-
-
-

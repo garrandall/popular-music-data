@@ -1,8 +1,11 @@
 ---
+album: Never, Never, Never
 artists:
 - Shirley Bassey
+external_ids:
+  spotify: spotify:track:4C4vwiOFwWFD4GW7oL2uOp
 features: []
-genres: []
+first_released_as_single: false
 key: never-never-never--grande-grande-grande--shirley-bassey
 lyrics_url: https://genius.com/Shirley-bassey-never-never-never-lyrics
 name: Never Never Never (Grande Grande Grande)
@@ -51,6 +54,8 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1973-08-11'
+release_year: 1973
+runtime: 218600
 ---
 I'd like to run away from you
 But if you never found me I would die

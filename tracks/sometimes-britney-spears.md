@@ -1,8 +1,11 @@
 ---
+album: '...Baby One More Time (Digital Deluxe Version)'
 artists:
 - Britney Spears
+external_ids:
+  spotify: spotify:track:1UI0l2L66HJ9AtoEOlHzv4
 features: []
-genres: []
+first_released_as_single: false
 key: sometimes-britney-spears
 lyrics_url: https://www.azlyrics.com/lyrics/britneyspears/sometimes.html
 name: Sometimes
@@ -87,8 +90,9 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1999-10-02'
+release_year: 1999
+runtime: 245066
 ---
-
 You tell me you're in love with me
 Like you can't take your pretty eyes away from me
 It's not that I don't want to stay
@@ -149,4 +153,3 @@ Sometimes I run (sometimes)
 Sometimes I hide
 Sometimes I'm scared of you
 But all I really want is to hold you tight
-

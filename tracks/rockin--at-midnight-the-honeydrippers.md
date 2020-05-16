@@ -1,8 +1,11 @@
 ---
+album: The Honeydrippers, Vol. 1 (Expanded)
 artists:
 - The Honeydrippers
+external_ids:
+  spotify: spotify:track:2KRL3DGRNhiKDQQA50MLS6
 features: []
-genres: []
+first_released_as_single: true
 key: rockin--at-midnight-the-honeydrippers
 lyrics_url: https://genius.com/The-honeydrippers-rockin-at-midnight-lyrics
 name: Rockin' At Midnight
@@ -51,6 +54,8 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '1985-03-16'
+release_year: 1984
+runtime: 359853
 ---
 Have you heard the news?
 There's good rockin' at midnight

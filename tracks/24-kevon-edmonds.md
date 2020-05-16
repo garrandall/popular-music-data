@@ -1,8 +1,11 @@
 ---
+album: 24/7
 artists:
 - Kevon Edmonds
+external_ids:
+  spotify: spotify:track:4rZB2G955dQMcjlb7e3VNB
 features: []
-genres: []
+first_released_as_single: false
 key: 24-kevon-edmonds
 lyrics_url: https://genius.com/Kevon-edmonds-24-7-lyrics
 name: '24'
@@ -87,6 +90,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '2000-03-18'
+release_year: 1999
+runtime: 274266
 ---
 Baby it's no mystery
 You're bringing out the best in me

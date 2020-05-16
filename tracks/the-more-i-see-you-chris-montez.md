@@ -1,8 +1,11 @@
 ---
+album: The More I See You
 artists:
 - Chris Montez
+external_ids:
+  spotify: spotify:track:2FqVUZc8DSxibYFtTiOI26
 features: []
-genres: []
+first_released_as_single: false
 key: the-more-i-see-you-chris-montez
 lyrics_url: https://genius.com/Chris-montez-the-more-i-see-you-lyrics
 name: The More I See You
@@ -63,6 +66,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1966-07-16'
+release_year: 1966
+runtime: 163920
 ---
 The more I see you, the more I want you
 Somehow this feeling just grows and grows

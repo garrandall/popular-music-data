@@ -1,8 +1,11 @@
 ---
+album: Ray of Light (U.S. Version)
 artists:
 - Madonna
+external_ids:
+  spotify: spotify:track:6bZPQHvekmIFBZZB7nMB5X
 features: []
-genres: []
+first_released_as_single: false
 key: nothing-really-matters-madonna
 lyrics_url: https://www.azlyrics.com/lyrics/madonna/nothingreallymatters.html
 name: Nothing Really Matters
@@ -15,8 +18,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1999-05-08'
+release_year: 1998
+runtime: 269093
 ---
-
 When I was very young
 Nothing really mattered to me
 But making myself happy
@@ -53,4 +57,3 @@ Like the light
 
 You're shelter from the storm
 Give me comfort in your arms
-

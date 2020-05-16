@@ -1,8 +1,11 @@
 ---
+album: Dance Into The Light
 artists:
 - Phil Collins
+external_ids:
+  spotify: spotify:track:0iDMQ5epdmPFsoEUfrTkoh
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-in-your-eyes-phil-collins
 lyrics_url: https://genius.com/Phil-collins-its-in-your-eyes-lyrics
 name: It's In Your Eyes
@@ -63,6 +66,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1997-05-17'
+release_year: 1996
+runtime: 182986
 ---
 It's in your eyes
 The love you hide away

@@ -1,9 +1,12 @@
 ---
+album: Passion
 artists:
 - Peabo Bryson
 - Regina Belle
+external_ids:
+  spotify: spotify:track:6x8l2BP4q7CTMmlVSTnlbU
 features: []
-genres: []
+first_released_as_single: false
 key: a-whole-new-world--aladdin-s-theme--peabo-bryson-regina-belle
 lyrics_url: https://www.azlyrics.com/lyrics/peabobryson/awholenewworld.html
 name: A Whole New World (Aladdin's Theme)
@@ -100,8 +103,9 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1993-05-22'
+release_year: 1991
+runtime: 245160
 ---
-
 Oh
 I can show you the world
 Shining, shimmering, splendid
@@ -168,6 +172,3 @@ That's where we'll be
 A thrilling chase
 A wondrous place
 For you and me
-
-
-

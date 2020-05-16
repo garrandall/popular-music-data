@@ -1,9 +1,12 @@
 ---
+album: Eenie Meenie EP
 artists:
 - Sean Kingston
 - Justin Bieber
+external_ids:
+  spotify: spotify:track:4Yaw2PmyOETOnEM3TCf98I
 features: []
-genres: []
+first_released_as_single: true
 key: eenie-meenie-sean-kingston-justin-bieber
 lyrics_url: https://www.azlyrics.com/lyrics/seankingston/eeniemeenie.html
 name: Eenie Meenie
@@ -80,9 +83,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2010-08-07'
+release_year: 2010
+runtime: 201973
 ---
-
-
 Eenie meenie miney mo
 Catch a bad chick by her toe
 If she holler (if, if, if she holler) let her go
@@ -164,6 +167,3 @@ Shorty is a eenie meenie miney mo lover
 Shorty is a eenie meenie miney mo lover
 Shorty is a eenie meenie miney mo lover
 Shorty is a eenie meenie miney mo lover
-
-
-

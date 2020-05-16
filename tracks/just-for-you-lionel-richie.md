@@ -1,8 +1,11 @@
 ---
+album: Just For You
 artists:
 - Lionel Richie
+external_ids:
+  spotify: spotify:track:7keEWw3AYJUuhTMo3Dw6PP
 features: []
-genres: []
+first_released_as_single: false
 key: just-for-you-lionel-richie
 lyrics_url: https://genius.com/Lionel-richie-just-for-you-lyrics
 name: Just For You
@@ -75,6 +78,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2004-08-28'
+release_year: 2004
+runtime: 273653
 ---
 Golden days
 Life was play

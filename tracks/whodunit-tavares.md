@@ -1,8 +1,11 @@
 ---
+album: Live Hits
 artists:
 - Tavares
+external_ids:
+  spotify: spotify:track:7hAolsQSr6qmjgUmYFVdqf
 features: []
-genres: []
+first_released_as_single: false
 key: whodunit-tavares
 lyrics_url: https://www.azlyrics.com/lyrics/tavares/whodunit.html
 name: Whodunit
@@ -67,8 +70,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1977-07-02'
+release_year: 1977
+runtime: 140760
 ---
-
 Whodunit
 Who stole my baby
 Whodunit
@@ -145,6 +149,3 @@ Everyone in the room looks shady
 Whodunit
 Who stole my girl from me
 (From me, from me
-
-
-

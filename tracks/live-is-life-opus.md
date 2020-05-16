@@ -1,8 +1,11 @@
 ---
+album: Back to Future
 artists:
 - Opus
+external_ids:
+  spotify: spotify:track:0IiznnptUDXGvc8uidDdq6
 features: []
-genres: []
+first_released_as_single: true
 key: live-is-life-opus
 lyrics_url: https://genius.com/Opus-live-is-life-lyrics
 name: Live Is Life
@@ -71,6 +74,8 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1986-05-10'
+release_year: 1986
+runtime: 218066
 ---
 (Na, na, na, na-na)
 (Na, na, na, na-na)

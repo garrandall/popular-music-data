@@ -1,9 +1,12 @@
 ---
+album: NB Ridaz.com
 artists:
 - NB Ridaz
+external_ids:
+  spotify: spotify:track:2BjIi07kN0yKSur0Fwrnss
 features:
 - Gemini
-genres: []
+first_released_as_single: false
 key: so-fly-nb-ridaz-gemini
 lyrics_url: https://genius.com/Nb-ridaz-so-fly-lyrics
 name: So Fly
@@ -48,6 +51,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2004-08-28'
+release_year: 2004
+runtime: 254533
 ---
 Oh-oh
 

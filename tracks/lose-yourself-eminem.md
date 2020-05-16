@@ -1,8 +1,11 @@
 ---
+album: 8 Mile
 artists:
 - Eminem
+external_ids:
+  spotify: spotify:track:3u0W3gJQNV5gegMmntzby8
 features: []
-genres: []
+first_released_as_single: false
 key: lose-yourself-eminem
 lyrics_url: https://genius.com/Eminem-lose-yourself-lyrics
 name: Lose Yourself
@@ -99,6 +102,8 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '2003-03-08'
+release_year: 2002
+runtime: 321960
 ---
 Look, if you had one shot or one opportunity
 To seize everything you ever wanted in one moment

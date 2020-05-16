@@ -1,8 +1,12 @@
 ---
+album: Pass the Jar - Zac Brown Band and Friends from the Fabulous Fox Theatre in
+  Atlanta (Live)
 artists:
 - Zac Brown Band
+external_ids:
+  spotify: spotify:track:6zshANE5F24ouL8THcKfxc
 features: []
-genres: []
+first_released_as_single: false
 key: colder-weather-zac-brown-band
 lyrics_url: https://genius.com/Zac-brown-band-colder-weather-lyrics
 name: Colder Weather
@@ -87,6 +91,8 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '2011-06-18'
+release_year: 2010
+runtime: 269533
 ---
 She'd trade Colorado if he'd take her with him
 Closes the door 'fore the winter lets the cold in

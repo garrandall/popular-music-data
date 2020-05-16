@@ -1,8 +1,11 @@
 ---
+album: Human
 artists:
 - Brandy
+external_ids:
+  spotify: spotify:track:06G1SCVVYRSDCFGMSnDvpv
 features: []
-genres: []
+first_released_as_single: false
 key: right-here--departed--brandy
 lyrics_url: https://www.azlyrics.com/lyrics/brandy/rightheredeparted.html
 name: Right Here (Departed)
@@ -79,8 +82,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2009-01-24'
+release_year: 2008
+runtime: 217946
 ---
-
 When you feel your heart's guarded
 And you see the break's started
 And when the clouds have all departed
@@ -172,6 +176,3 @@ I will be right here with you
 You'll be right here with me
 I will be right here with you
 You'll be right here with me
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Calumet
 artists:
 - Lobo
+external_ids:
+  spotify: spotify:track:7bxAHKHLd87IHLgeMhgg64
 features: []
-genres: []
+first_released_as_single: false
 key: how-can-i-tell-her-lobo
 lyrics_url: https://www.azlyrics.com/lyrics/lobo/howcanitellher.html
 name: How Can I Tell Her
@@ -55,8 +58,9 @@ rankings:
   rank: 33
   ranking_list: Billboard Hot 100
   start_date: '1973-09-08'
+release_year: 1973
+runtime: 260466
 ---
-
 She knows when I'm lonesome, she cries when I'm sad
 She's up in the good times, she's down in the bad
 Whenever I'm discouraged, she knows just what to do
@@ -76,6 +80,3 @@ How can I tell her I don't miss her whenever I'm away
 How can I say it's you I think of every single night and day
 But when is it easy telling someone we're through
 Ah girl help me tell her about you.
-
-
-

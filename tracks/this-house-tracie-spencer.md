@@ -1,8 +1,11 @@
 ---
+album: Make The Difference
 artists:
 - Tracie Spencer
+external_ids:
+  spotify: spotify:track:10JIQ4VbdRMlqvSJGvi7El
 features: []
-genres: []
+first_released_as_single: false
 key: this-house-tracie-spencer
 lyrics_url: https://genius.com/Tracie-spencer-this-house-lyrics
 name: This House
@@ -99,6 +102,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1991-05-25'
+release_year: 1990
+runtime: 306533
 ---
 Where do we go from here?
 What must we do to make that change?

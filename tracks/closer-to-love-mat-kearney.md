@@ -1,8 +1,11 @@
 ---
+album: Live 2009
 artists:
 - Mat Kearney
+external_ids:
+  spotify: spotify:track:7otG2nsXUjnQq0EgxuBpD3
 features: []
-genres: []
+first_released_as_single: false
 key: closer-to-love-mat-kearney
 lyrics_url: https://www.azlyrics.com/lyrics/matkearney/closertolove.html
 name: Closer To Love
@@ -35,8 +38,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2009-10-03'
+release_year: 2004
+runtime: 217613
 ---
-
 She got the call today
 One out of the gray
 And when the smoke cleared
@@ -100,6 +104,3 @@ Closer to love, oh no
 Closer to love
 Closer to love
 Pull me closer to love
-
-
-

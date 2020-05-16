@@ -1,9 +1,12 @@
 ---
+album: Crystal Illusions
 artists:
 - Sergio Mendes
 - Brasil '66
+external_ids:
+  spotify: spotify:track:0GbghRL8jBMIpui0TFp0gm
 features: []
-genres: []
+first_released_as_single: false
 key: -sittin--on--the-dock-of-the-bay-sergio-mendes-brasil--66
 lyrics_url: https://genius.com/Sergio-mendes-and-brasil-66-sittin-on-the-dock-of-the-bay-lyrics
 name: (Sittin' On) The Dock Of The Bay
@@ -28,6 +31,8 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '1969-07-26'
+release_year: 1969
+runtime: 190213
 ---
 Sittin' in the morning sun
 I'll be sittin' when the evening comes

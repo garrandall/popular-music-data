@@ -1,8 +1,11 @@
 ---
+album: Dusty In Memphis
 artists:
 - Dusty Springfield
+external_ids:
+  spotify: spotify:track:6MUHAvKGAmKXojn8wdFB71
 features: []
-genres: []
+first_released_as_single: false
 key: the-windmills-of-your-mind-dusty-springfield
 lyrics_url: https://www.musixmatch.com/lyrics/Dusty-Springfield/The-Windmills-of-Your-Mind
 name: The Windmills Of Your Mind
@@ -39,6 +42,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1969-06-21'
+release_year: 1969
+runtime: 231466
 ---
 Round
 Like a circle in a spiral

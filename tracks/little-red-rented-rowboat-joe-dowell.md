@@ -1,8 +1,11 @@
 ---
+album: The Best Of Joe Dowell
 artists:
 - Joe Dowell
+external_ids:
+  spotify: spotify:track:6ST7lA0LHEzG9OFqoEfdy5
 features: []
-genres: []
+first_released_as_single: false
 key: little-red-rented-rowboat-joe-dowell
 lyrics_url: https://genius.com/Joe-dowell-little-red-rented-rowboat-lyrics
 name: Little Red Rented Rowboat
@@ -43,6 +46,8 @@ rankings:
   rank: 36
   ranking_list: Billboard Hot 100
   start_date: '1962-08-18'
+release_year: 1962
+runtime: 150640
 ---
 Little red rented rowboat little red rented rowboat
 Not much better than no boat

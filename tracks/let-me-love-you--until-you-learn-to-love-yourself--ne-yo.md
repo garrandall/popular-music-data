@@ -1,8 +1,11 @@
 ---
+album: R.E.D.
 artists:
 - Ne-Yo
+external_ids:
+  spotify: spotify:track:4kte3OcW800TPvOVgrLLj8
 features: []
-genres: []
+first_released_as_single: false
 key: let-me-love-you--until-you-learn-to-love-yourself--ne-yo
 lyrics_url: https://www.azlyrics.com/lyrics/neyo/letmeloveyouuntilyoulearntoloveyourself.html
 name: Let Me Love You (Until You Learn To Love Yourself)
@@ -119,8 +122,9 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '2013-02-23'
+release_year: 2012
+runtime: 251626
 ---
-
 Much as you blame yourself, you can't be blamed for the way that you feel
 Had no example of a love that was even remotely real
 How can you understand something that you never had?
@@ -198,6 +202,3 @@ Girl let me love you
 Let me love you, baby, love you, baby
 Girl let me love you
 Let me love you babe, love you babe, oh-oh-ah
-
-
-

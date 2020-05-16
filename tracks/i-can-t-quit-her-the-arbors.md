@@ -1,8 +1,11 @@
 ---
+album: The Arbors
 artists:
 - The Arbors
+external_ids:
+  spotify: spotify:track:4LbfXBKo1Q2l1F2sEQqjs2
 features: []
-genres: []
+first_released_as_single: false
 key: i-can-t-quit-her-the-arbors
 lyrics_url: https://genius.com/The-arbors-i-cant-quit-her-for-emily-wherever-i-may-find-her-lyrics
 name: I Can't Quit Her
@@ -27,6 +30,8 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1969-06-28'
+release_year: 1969
+runtime: 198920
 ---
 I can't quit her
 She got a hold on me

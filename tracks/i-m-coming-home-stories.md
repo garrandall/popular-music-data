@@ -1,8 +1,11 @@
 ---
+album: Stories
 artists:
 - Stories
+external_ids:
+  spotify: spotify:track:0pjCwmaulE1glGMEFUT9P9
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-coming-home-stories
 lyrics_url: https://genius.com/Stories-im-coming-home-lyrics
 name: I'm Coming Home
@@ -55,6 +58,8 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '1972-09-02'
+release_year: 1972
+runtime: 160426
 ---
 I'm coming yes I'm coming home
 You know that'll I'll be there

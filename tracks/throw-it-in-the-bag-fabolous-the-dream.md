@@ -1,9 +1,12 @@
 ---
+album: Loso's Way
 artists:
 - Fabolous
+external_ids:
+  spotify: spotify:track:6c0GmyBsE7mQtrVvxJaWc3
 features:
 - The-Dream
-genres: []
+first_released_as_single: false
 key: throw-it-in-the-bag-fabolous-the-dream
 lyrics_url: https://www.azlyrics.com/lyrics/fabolous/throwitinthebag.html
 name: Throw It In The Bag
@@ -100,9 +103,9 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '2009-11-21'
+release_year: 2009
+runtime: 231573
 ---
-
-
 Now I know you aint over there starin at my girl
 Yea I know you aint over there starin at my girl
 Nigga I know you don't call yourself hollarin at my girl
@@ -208,6 +211,3 @@ Un-huh un-huh un-huh
 just throw it in the bag
 Un-huh un-huh un-huh
 Just throw it in the bag
-
-
-

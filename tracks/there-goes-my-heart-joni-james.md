@@ -1,8 +1,11 @@
 ---
+album: The Best of Joni James
 artists:
 - Joni James
+external_ids:
+  spotify: spotify:track:2VZpOXeqLRm7qXJXv95Wgs
 features: []
-genres: []
+first_released_as_single: false
 key: there-goes-my-heart-joni-james
 lyrics_url: https://www.musixmatch.com/lyrics/Joni-James/There-Goes-My-Heart
 name: There Goes My Heart
@@ -71,6 +74,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1958-12-29'
+release_year: 1958
+runtime: 153880
 ---
 There goes my heart, there goes the one I love
 There goes the girl I wasn't worthy of

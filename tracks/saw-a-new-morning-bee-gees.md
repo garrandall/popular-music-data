@@ -1,8 +1,11 @@
 ---
+album: Life In A Tin Can
 artists:
 - Bee Gees
+external_ids:
+  spotify: spotify:track:5JFT06fmzJa1eCYx4gszX0
 features: []
-genres: []
+first_released_as_single: false
 key: saw-a-new-morning-bee-gees
 lyrics_url: https://www.azlyrics.com/lyrics/beegees/sawanewmorning.html
 name: Saw A New Morning
@@ -19,8 +22,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1973-04-07'
+release_year: 1973
+runtime: 253466
 ---
-
 All of a sudden I saw a new morning
 I'm locked up I want to be free
 Out in the courtyard and over the wall then
@@ -51,6 +55,3 @@ All of a sudden I saw a new morning
 All of a sudden I saw a new morning
 
 I saw a new morning
-
-
-

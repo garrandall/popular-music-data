@@ -1,8 +1,11 @@
 ---
+album: Sweet Action
 artists:
 - Jack Harlow
+external_ids:
+  spotify: spotify:track:6EK6MRqtfGPjBXHHQGiVjQ
 features: []
-genres: []
+first_released_as_single: false
 key: whats-poppin-jack-harlow
 lyrics_url: https://www.azlyrics.com/lyrics/jackharlow/whatspoppin.html
 name: WHATS POPPIN
@@ -27,8 +30,9 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '2020-03-21'
+release_year: 2020
+runtime: 139741
 ---
-
 What's poppin'? (Pooh, you a fool for this one)
 Brand new whip just hopped in (Just hopped in)
 I got options (Oh Lord, Jetson made another one)
@@ -97,6 +101,3 @@ Just joshin'
 I'ma spend this holiday locked in (Oh
 My body got rid of them toxins (Mmh, mmh)
 SportsCenter, top ten
-
-
-

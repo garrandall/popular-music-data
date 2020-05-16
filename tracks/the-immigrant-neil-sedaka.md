@@ -1,8 +1,11 @@
 ---
+album: The Definitive Collection
 artists:
 - Neil Sedaka
+external_ids:
+  spotify: spotify:track:06W15T3K83Be35xUKoCVzo
 features: []
-genres: []
+first_released_as_single: false
 key: the-immigrant-neil-sedaka
 lyrics_url: https://www.azlyrics.com/lyrics/neilsedaka/theimmigrant.html
 name: The Immigrant
@@ -47,8 +50,9 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1975-05-31'
+release_year: 1975
+runtime: 226640
 ---
-
 Harbours open their arms to the young searching foreigner
 Come to live in the light of the beacon of liberty
 Plains and open skies billboards would advertise
@@ -77,6 +81,3 @@ There was a time when strangers were welcome here
 Music would play they tell me the days were sweet and clear
 It was a sweeter tune and there was so much room
 That people could come from everywhere
-
-
-

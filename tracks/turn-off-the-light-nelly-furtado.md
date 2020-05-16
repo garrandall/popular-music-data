@@ -1,8 +1,11 @@
 ---
+album: Whoa, Nelly!
 artists:
 - Nelly Furtado
+external_ids:
+  spotify: spotify:track:6P8pMrMxdkUtW7Ze6Zx2l1
 features: []
-genres: []
+first_released_as_single: false
 key: turn-off-the-light-nelly-furtado
 lyrics_url: https://www.azlyrics.com/lyrics/nellyfurtado/turnoffthelight.html
 name: Turn Off The Light
@@ -107,8 +110,9 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '2002-02-02'
+release_year: 2000
+runtime: 276106
 ---
-
 It's getting so lonely inside this bed
 Don't know if I should lick my wounds or say woe is me instead
 And there's an aching inside my head
@@ -152,6 +156,3 @@ I do not need I do not need nobody
 Where is your logic
 Who do you need
 Where can you turn in your delicate time of need
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: The Ultimate Petula Clark
 artists:
 - Petula Clark
+external_ids:
+  spotify: spotify:track:4AzN9nuystYVb69dRgzyZE
 features: []
-genres: []
+first_released_as_single: false
 key: the-cat-in-the-window--the-bird-in-the-sky--petula-clark
 lyrics_url: https://www.musixmatch.com/lyrics/Petula-Clark/The-Cat-in-the-Window-The-Bird-in-the-Sky
 name: The Cat In The Window (The Bird In The Sky)
@@ -35,6 +38,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1967-10-14'
+release_year: 1967
+runtime: 115960
 ---
 CAT IN THE WINDOW
 Petula Clark

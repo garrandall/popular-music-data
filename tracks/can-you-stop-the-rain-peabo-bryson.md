@@ -1,8 +1,11 @@
 ---
+album: Can You Stop The Rain
 artists:
 - Peabo Bryson
+external_ids:
+  spotify: spotify:track:1wdRUG6k5CmmMhcaD2fy4k
 features: []
-genres: []
+first_released_as_single: false
 key: can-you-stop-the-rain-peabo-bryson
 lyrics_url: https://www.azlyrics.com/lyrics/peabobryson/canyoustoptherain.html
 name: Can You Stop The Rain
@@ -67,8 +70,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1991-09-28'
+release_year: 1991
+runtime: 334773
 ---
-
 Ohohooh
 Girl
 
@@ -134,6 +138,3 @@ Oh oh oh
 How can I live without you, baby
 I've gotta let you go, yeah
 Chase my clouds away
-
-
-

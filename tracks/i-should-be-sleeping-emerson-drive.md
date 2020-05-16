@@ -1,8 +1,11 @@
 ---
+album: Emerson Drive
 artists:
 - Emerson Drive
+external_ids:
+  spotify: spotify:track:28CnmZkM5CFp0ObTRQJeCw
 features: []
-genres: []
+first_released_as_single: false
 key: i-should-be-sleeping-emerson-drive
 lyrics_url: https://www.azlyrics.com/lyrics/emersondrive/ishouldbesleeping.html
 name: I Should Be Sleeping
@@ -87,8 +90,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2002-07-27'
+release_year: 2002
+runtime: 177000
 ---
-
 I never knew there were such great movies 
 on TV at 3 AM 
 I'd never guessed that at midnight Tuesday 
@@ -131,6 +135,3 @@ dreaming about you
 
 Well, I'm dreaming about you 
 Yeah
-
-
-

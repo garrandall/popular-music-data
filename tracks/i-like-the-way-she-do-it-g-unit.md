@@ -1,8 +1,11 @@
 ---
+album: T.O.S. (Terminate On Sight)
 artists:
 - G Unit
+external_ids:
+  spotify: spotify:track:3c1fI9dVeR0nKFkOYh3Sj0
 features: []
-genres: []
+first_released_as_single: false
 key: i-like-the-way-she-do-it-g-unit
 lyrics_url: https://genius.com/G-unit-i-like-the-way-she-do-it-lyrics
 name: I Like The Way She Do It
@@ -11,6 +14,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2008-05-10'
+release_year: 2008
+runtime: 232600
 ---
 I like the way she do it
 I like the way she do it

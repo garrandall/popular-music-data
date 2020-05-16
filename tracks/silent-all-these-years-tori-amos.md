@@ -1,8 +1,11 @@
 ---
+album: Little Earthquakes (*)
 artists:
 - Tori Amos
+external_ids:
+  spotify: spotify:track:3IZXUxoL1Q7yUj5mh3Tmqp
 features: []
-genres: []
+first_released_as_single: false
 key: silent-all-these-years-tori-amos
 lyrics_url: https://www.azlyrics.com/lyrics/toriamos/silentalltheseyears.html
 name: Silent All These Years
@@ -87,8 +90,9 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1997-08-02'
+release_year: 1992
+runtime: 252759
 ---
-
 Excuse me but can I be you for a while
 My dog won't bite if you sit real still
 I got the anti-Christ in the kitchen yellin' at me again
@@ -174,6 +178,3 @@ And it's been here
 Silent all these years
 I've been here
 Silent all these years
-
-
-

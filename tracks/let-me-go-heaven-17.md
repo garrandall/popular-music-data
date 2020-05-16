@@ -1,8 +1,11 @@
 ---
+album: The Luxury Gap (Deluxe Version)
 artists:
 - Heaven 17
+external_ids:
+  spotify: spotify:track:2VpWQNy9Ywa6rIPX4l54A2
 features: []
-genres: []
+first_released_as_single: false
 key: let-me-go-heaven-17
 lyrics_url: https://genius.com/Heaven-17-let-me-go-lyrics
 name: Let Me Go
@@ -27,6 +30,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1983-04-09'
+release_year: 1982
+runtime: 262506
 ---
 Once there was a day
 We were together all the way

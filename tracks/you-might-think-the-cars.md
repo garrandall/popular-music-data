@@ -1,8 +1,11 @@
 ---
+album: Heartbeat City
 artists:
 - The Cars
+external_ids:
+  spotify: spotify:track:35wVRTJlUu2kDkqXFegOKt
 features: []
-genres: []
+first_released_as_single: false
 key: you-might-think-the-cars
 lyrics_url: https://genius.com/The-cars-you-might-think-lyrics
 name: You Might Think
@@ -75,6 +78,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1984-06-30'
+release_year: 1984
+runtime: 184717
 ---
 You might think I'm crazy to hang around with you
 Maybe you think I'm lucky to have something to do

@@ -1,8 +1,11 @@
 ---
+album: T.E.V.I.N.
 artists:
 - Tevin Campbell
+external_ids:
+  spotify: spotify:track:0VpBLNxp75dp6ykLQxU2Au
 features: []
-genres: []
+first_released_as_single: false
 key: goodbye-tevin-campbell
 lyrics_url: https://www.azlyrics.com/lyrics/tevincampbell/goodbye.html
 name: Goodbye
@@ -55,8 +58,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1992-06-27'
+release_year: 1991
+runtime: 254279
 ---
-
 Say, lady, can I ask you why
 You're treating me like a step child
 With a future not so bright
@@ -107,6 +111,3 @@ That's where it starts, here we go
 
 
 Goodbye, goodbye
-
-
-

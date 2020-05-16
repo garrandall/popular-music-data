@@ -1,9 +1,12 @@
 ---
+album: Skinny Jeanz And A Mic
 artists:
 - New Boyz
+external_ids:
+  spotify: spotify:track:4faiJXyBflUVVOOE9fxbeg
 features:
 - Ray J
-genres: []
+first_released_as_single: false
 key: tie-me-down-new-boyz-ray-j
 lyrics_url: https://www.azlyrics.com/lyrics/newboyz/tiemedown.html
 name: Tie Me Down
@@ -112,8 +115,9 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '2010-04-24'
+release_year: 2009
+runtime: 178807
 ---
-
 Hey, Hey (aye, aye)
 
 She aint gon tie me down
@@ -210,6 +214,3 @@ You aint gon tie me down
 You aint gon tie me down
 You aint gon tie me down
 You aint gon tie me down
-
-
-

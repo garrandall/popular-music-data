@@ -1,9 +1,12 @@
 ---
+album: Love Songs
 artists:
 - Donny
 - Marie Osmond
+external_ids:
+  spotify: spotify:track:0OPMdY8MpVkew5eTWuHfb4
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-leaving-it--all--up-to-you-donny-marie-osmond
 name: I'm Leaving It (All) Up To You
 rankings:
@@ -67,5 +70,7 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '1974-10-12'
+release_year: 1974
+runtime: 171653
 ---
 

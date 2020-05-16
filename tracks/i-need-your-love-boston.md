@@ -1,8 +1,11 @@
 ---
+album: Walk On
 artists:
 - Boston
+external_ids:
+  spotify: spotify:track:4pFSfimXi2W4U7tmQsKkam
 features: []
-genres: []
+first_released_as_single: false
 key: i-need-your-love-boston
 lyrics_url: https://genius.com/Boston-i-need-your-love-lyrics
 name: I Need Your Love
@@ -47,6 +50,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1994-08-13'
+release_year: 1994
+runtime: 333973
 ---
 Can't help this feeling
 Can't help this feeling

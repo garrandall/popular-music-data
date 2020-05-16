@@ -1,8 +1,11 @@
 ---
+album: Pop Megahits Of The 1950's Vol. 1
 artists:
 - Bobby Freeman
+external_ids:
+  spotify: spotify:track:4Ooa3XHB45iIgpwCeKCTNL
 features: []
-genres: []
+first_released_as_single: false
 key: do-you-want-to-dance-bobby-freeman
 lyrics_url: https://genius.com/Bobby-freeman-do-you-want-to-dance-lyrics
 name: Do You Want To Dance
@@ -27,6 +30,8 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1958-09-01'
+release_year: 1958
+runtime: 165693
 ---
 Do you want to dance and hold my hand?
 Tell me baby I'm your lover man

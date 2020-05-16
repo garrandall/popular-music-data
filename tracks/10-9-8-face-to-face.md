@@ -1,8 +1,11 @@
 ---
+album: Face To Face + bonus tracks
 artists:
 - Face To Face
+external_ids:
+  spotify: spotify:track:5aW1ejP8LcLS1MTW9IIhYU
 features: []
-genres: []
+first_released_as_single: false
 key: 10-9-8-face-to-face
 lyrics_url: https://genius.com/Face-to-face-10-9-8-lyrics
 name: 10-9-8
@@ -67,6 +70,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1984-09-08'
+release_year: 1979
+runtime: 342573
 ---
 I'll be your loaded dice
 You're holding all the cards

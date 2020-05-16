@@ -1,9 +1,12 @@
 ---
+album: Chixtape 5
 artists:
 - Tory Lanez
 - T-Pain
+external_ids:
+  spotify: spotify:track:6JsHgIkMYHcbNtKfsal2Mg
 features: []
-genres: []
+first_released_as_single: false
 key: jerry-sprunger-tory-lanez-t-pain
 lyrics_url: https://www.azlyrics.com/lyrics/torylanez/jerrysprunger.html
 name: Jerry Sprunger
@@ -48,8 +51,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2020-02-22'
+release_year: 2019
+runtime: 233546
 ---
-
 She used to work at King Of Diamonds on a Monday
 Only hit the club on Saturday and Sunday
 I used to pull up every weekend should've seen her
@@ -141,6 +145,3 @@ Make me wanna give it to you all day all night
 In the broad light give a damn who catch me
 You sexy, sprung girl you get me
 Got me doing things I'd never do, and it's true
-
-
-

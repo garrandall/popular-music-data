@@ -1,8 +1,11 @@
 ---
+album: Yentl
 artists:
 - Barbra Streisand
+external_ids:
+  spotify: spotify:track:6WpvSZEayPZvQSHEghFEp8
 features: []
-genres: []
+first_released_as_single: false
 key: the-way-he-makes-me-feel-barbra-streisand
 lyrics_url: https://www.azlyrics.com/lyrics/barbrastreisand/thewayhemakesmefeel.html
 name: The Way He Makes Me Feel
@@ -67,10 +70,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1984-01-28'
+release_year: 1983
+runtime: 225960
 ---
-
-
-
 There's no chill and yet I shiver
 There's no flame and yet I burn
 I'm not sure what I'm afraid of
@@ -100,6 +102,3 @@ Yet it has a strange appeal.
 Did it all begin with him,
 And the way he makes me feel
 I like the way he makes me feel...
-
-
-

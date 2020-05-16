@@ -1,8 +1,11 @@
 ---
+album: Indian Reservation
 artists:
 - The Raiders
+external_ids:
+  spotify: spotify:track:6DtLoG1l8Hvfks6s5sx0LM
 features: []
-genres: []
+first_released_as_single: false
 key: birds-of-a-feather-the-raiders
 lyrics_url: https://www.azlyrics.com/lyrics/paulreveretheraiders/birdsofafeather.html
 name: Birds Of A Feather
@@ -47,8 +50,9 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1971-11-13'
+release_year: 1971
+runtime: 169320
 ---
-
 I remember back a long time ago, in the days of my childhood 
 In the evenin' when the sun was sinkin' low, walkin' in the wildwood 
 Skippin' and flippin' through the flowers, we'd go hand-in-hand 
@@ -82,6 +86,3 @@ I got a feelin' way down in my heart, that's the way it's gonna be
 
 Birds of a feather, na na na na na na na na 
 We should be together like
-
-
-

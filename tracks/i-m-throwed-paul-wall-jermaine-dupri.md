@@ -1,9 +1,12 @@
 ---
+album: Get Money Stay True (Explicit U.S. Version)
 artists:
 - Paul Wall
+external_ids:
+  spotify: spotify:track:3n5rIcC04MiNx4T2GOS06g
 features:
 - Jermaine Dupri
-genres: []
+first_released_as_single: false
 key: i-m-throwed-paul-wall-jermaine-dupri
 lyrics_url: https://www.azlyrics.com/lyrics/paulwall/imthrowed.html
 name: I'm Throwed
@@ -24,9 +27,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2007-05-19'
+release_year: 2007
+runtime: 231306
 ---
-
-
 Ya'll know what this is
 
 
@@ -141,6 +144,3 @@ I'm throwed
 Show Cali why I'm bangin the screw
 Its the Ice Man baby and you know what it do
 I'm throwed
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Merle Haggard's Christmas Present
 artists:
 - Merle Haggard
+external_ids:
+  spotify: spotify:track:6LXrSVc68D9KKYb5fvxaK9
 features: []
-genres: []
+first_released_as_single: false
 key: if-we-make-it-through-december-merle-haggard
 lyrics_url: https://www.musixmatch.com/lyrics/Merle-Haggard-feat-The-Strangers-2/If-We-Make-It-Through-December
 name: If We Make It Through December
@@ -51,6 +54,8 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1974-02-02'
+release_year: 1973
+runtime: 172973
 ---
 If we make it through December
 Everything's going to be alright I know

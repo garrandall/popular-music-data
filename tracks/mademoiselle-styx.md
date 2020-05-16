@@ -1,8 +1,11 @@
 ---
+album: Crystal Ball
 artists:
 - Styx
+external_ids:
+  spotify: spotify:track:0zxaFukZdJNS413BD6mjG3
 features: []
-genres: []
+first_released_as_single: false
 key: mademoiselle-styx
 lyrics_url: https://www.azlyrics.com/lyrics/styx/mademoiselle.html
 name: Mademoiselle
@@ -51,8 +54,9 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '1977-01-22'
+release_year: 1976
+runtime: 240600
 ---
-
 Tell me where are you going
 Sweet mademoiselle
 To London or Paris
@@ -90,6 +94,3 @@ Sweet mademoiselle
 To London or Paris
 Ou Montreal
 Sweet Mademoiselle
-
-
-

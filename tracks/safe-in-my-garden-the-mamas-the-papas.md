@@ -1,9 +1,12 @@
 ---
+album: The Papas & The Mamas
 artists:
 - The Mamas
 - The Papas
+external_ids:
+  spotify: spotify:track:3hyijGbu3p2VWapIJY2xgT
 features: []
-genres: []
+first_released_as_single: false
 key: safe-in-my-garden-the-mamas-the-papas
 lyrics_url: https://www.azlyrics.com/lyrics/mamasandthepapas/safeinmygarden.html
 name: Safe In My Garden
@@ -32,8 +35,9 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '1968-07-13'
+release_year: 1968
+runtime: 192426
 ---
-
 Safe in my garden,
 An ancient flower blooms.
 And the scent from its nature
@@ -82,6 +86,3 @@ Man, the world's on fire.)
 Slowly squares my room.
 
 Take us away...take us away...
-
-
-

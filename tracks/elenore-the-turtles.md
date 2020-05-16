@@ -1,8 +1,11 @@
 ---
+album: The Battle of the Bands (Deluxe Version)
 artists:
 - The Turtles
+external_ids:
+  spotify: spotify:track:5sRPMmQV21r5FhNZSxzZ0O
 features: []
-genres: []
+first_released_as_single: false
 key: elenore-the-turtles
 lyrics_url: https://www.azlyrics.com/lyrics/turtles/elenore.html
 name: Elenore
@@ -55,8 +58,9 @@ rankings:
   rank: 32
   ranking_list: Billboard Hot 100
   start_date: '1968-12-07'
+release_year: 1968
+runtime: 149280
 ---
-
 You've got a thing about you
 I just can't live without you
 I really want you, Elenore, near me
@@ -91,6 +95,3 @@ Tell me that you love me better
 
 Elenore, gee, I think you're swell, ah-ha
 Elenore, gee, I think you're swell, ah-ha-ha
-
-
-

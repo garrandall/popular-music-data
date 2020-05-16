@@ -1,8 +1,11 @@
 ---
+album: Eve Of Destruction
 artists:
 - Barry McGuire
+external_ids:
+  spotify: spotify:track:1Zi2ezNOqt9y9irC11xYpN
 features: []
-genres: []
+first_released_as_single: false
 key: eve-of-destruction-barry-mcguire
 lyrics_url: https://genius.com/Barry-mcguire-eve-of-destruction-lyrics
 name: Eve Of Destruction
@@ -51,6 +54,8 @@ rankings:
   rank: 34
   ranking_list: Billboard Hot 100
   start_date: '1965-10-30'
+release_year: 1965
+runtime: 215826
 ---
 The eastern world it is explodin'
 Violence flarin', bullets loadin'

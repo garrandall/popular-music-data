@@ -1,8 +1,11 @@
 ---
+album: Blake Shelton
 artists:
 - Blake Shelton
+external_ids:
+  spotify: spotify:track:5jym9AK0j4z3lWjXUF8JdG
 features: []
-genres: []
+first_released_as_single: false
 key: over-blake-shelton
 lyrics_url: https://genius.com/Blake-shelton-over-lyrics
 name: Over
@@ -79,6 +82,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2012-10-27'
+release_year: 2001
+runtime: 195360
 ---
 If I could
 I would dare

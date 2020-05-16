@@ -1,8 +1,11 @@
 ---
+album: Dark Horse
 artists:
 - Nickelback
+external_ids:
+  spotify: spotify:track:7aySoZnwt7c6lA54qVVUOk
 features: []
-genres: []
+first_released_as_single: false
 key: never-gonna-be-alone-nickelback
 lyrics_url: https://www.azlyrics.com/lyrics/nickelback/nevergonnabealone.html
 name: Never Gonna Be Alone
@@ -75,8 +78,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2010-03-06'
+release_year: 2008
+runtime: 227026
 ---
-
 Time, is going by, so much faster than I
 And I'm starting to regret not spending all of it with you
 Now I'm, wondering why, I've kept this bottled inside
@@ -123,6 +127,3 @@ I'm gonna be there always
 I won't be missing one more day
 I'm gonna be there always
 I won't be missing one more day
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: You're The Reason I'm Living
 artists:
 - Bobby Darin
+external_ids:
+  spotify: spotify:track:2abbMU8rMqtxANb7kV5BmS
 features: []
-genres: []
+first_released_as_single: false
 key: you-re-the-reason-i-m-living-bobby-darin
 lyrics_url: https://genius.com/Bobby-darin-youre-the-reason-im-living-lyrics
 name: You're The Reason I'm Living
@@ -63,6 +66,8 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '1963-04-20'
+release_year: 1963
+runtime: 148933
 ---
 You're the reason I'm living
 You're the breath that I take

@@ -1,8 +1,11 @@
 ---
+album: Fanmail
 artists:
 - TLC
+external_ids:
+  spotify: spotify:track:08vjsE3N31ai3ARwj5uW2i
 features: []
-genres: []
+first_released_as_single: false
 key: dear-lie-tlc
 lyrics_url: https://www.azlyrics.com/lyrics/tlc/dearlie.html
 name: Dear Lie
@@ -35,8 +38,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2000-03-25'
+release_year: 1999
+runtime: 310760
 ---
-
 Dear lie
 You suck
 You said you could fix anything
@@ -97,6 +101,3 @@ Dear lie
 Lie Lie Lie Lie
 Lie Lie
 Dear lie
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: To The Sea
 artists:
 - Jack Johnson
+external_ids:
+  spotify: spotify:track:3daDd8yhWLgeWyCeZp9eIj
 features: []
-genres: []
+first_released_as_single: false
 key: you-and-your-heart-jack-johnson
 lyrics_url: https://genius.com/Jack-johnson-you-and-your-heart-lyrics
 name: You And Your Heart
@@ -23,6 +26,8 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '2010-06-19'
+release_year: 2010
+runtime: 192853
 ---
 Watch you when you say
 What you are and when you blame everyone

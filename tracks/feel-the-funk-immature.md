@@ -1,8 +1,11 @@
 ---
+album: We Got It
 artists:
 - Immature
+external_ids:
+  spotify: spotify:track:6eR3NnWeCKgdkuA63Lkzaq
 features: []
-genres: []
+first_released_as_single: false
 key: feel-the-funk-immature
 lyrics_url: https://www.azlyrics.com/lyrics/immature/feelthefunk.html
 name: Feel The Funk
@@ -59,8 +62,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1995-12-16'
+release_year: 1995
+runtime: 294760
 ---
-
 ...Let your body go
 put you in the mood
 let it sue
@@ -101,4 +105,3 @@ let your body go
 put you in the mood
 let it sue love will make you...
 feel the funk now
-

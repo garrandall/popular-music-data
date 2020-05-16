@@ -1,8 +1,11 @@
 ---
+album: Fearless
 artists:
 - Jazmine Sullivan
+external_ids:
+  spotify: spotify:track:7zqM7Wm2xJLZ50qAnTLoHD
 features: []
-genres: []
+first_released_as_single: false
 key: lions-tigers---bears-jazmine-sullivan
 lyrics_url: https://www.azlyrics.com/lyrics/jazminesullivan/lionstigersbears.html
 name: Lions Tigers & Bears
@@ -39,8 +42,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2009-04-11'
+release_year: 2008
+runtime: 251200
 ---
-
 I'm not scared of lions and tigers and bears
 No, I'm not
 But I'm scared of loving you
@@ -118,6 +122,3 @@ Am I the only one who thinks it's an impossible task?
 Why it don't last?
 Is that too much to ask?
 Why do we love Love, when Love seems to hate us?
-
-
-

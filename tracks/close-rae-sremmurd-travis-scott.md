@@ -1,9 +1,12 @@
 ---
+album: SR3MM
 artists:
 - Rae Sremmurd
 - Travis Scott
+external_ids:
+  spotify: spotify:track:1oUudyBYVGMIC8JXeIsFzq
 features: []
-genres: []
+first_released_as_single: false
 key: close-rae-sremmurd-travis-scott
 lyrics_url: https://www.azlyrics.com/lyrics/raesremmurd/close.html
 name: Close
@@ -12,9 +15,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2018-05-05'
+release_year: 2018
+runtime: 193510
 ---
-
-
 30, you a fool for this one
 Oh, C-L-O-S-E
 Ear Drummers
@@ -86,6 +89,3 @@ C-L-O-S-E (through it)
 You're so C-L-O-S-E to me (through it)
 You're too C-L-O-S-E to me (you're too close)
 You're so C-L-O-S-E to me (you're so close)
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Pepper Box
 artists:
 - The Peppers
+external_ids:
+  spotify: spotify:track:5ZKTIv9AFb4HAio1zHhIp7
 features: []
-genres: []
+first_released_as_single: false
 key: pepper-box-the-peppers
 name: Pepper Box
 rankings:
@@ -34,5 +37,7 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1974-04-20'
+release_year: 1973
+runtime: 147226
 ---
 

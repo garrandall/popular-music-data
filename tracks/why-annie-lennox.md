@@ -1,8 +1,11 @@
 ---
+album: Diva
 artists:
 - Annie Lennox
+external_ids:
+  spotify: spotify:track:2fYYmPNwDaNpw1KRSxpQ5H
 features: []
-genres: []
+first_released_as_single: false
 key: why-annie-lennox
 lyrics_url: https://genius.com/Annie-lennox-why-lyrics
 name: Why
@@ -87,6 +90,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1992-09-26'
+release_year: 1992
+runtime: 293838
 ---
 How many times do I have to try to tell you
 That I'm sorry for the things I've done

@@ -1,8 +1,11 @@
 ---
+album: 'Live: The Best Of Vanilla Fudge'
 artists:
 - The Vanilla Fudge
+external_ids:
+  spotify: spotify:track:6ZaE642TCVqEO4q5aSrTBk
 features: []
-genres: []
+first_released_as_single: false
 key: you-keep-me-hangin--on-the-vanilla-fudge
 lyrics_url: https://genius.com/Vanilla-fudge-you-keep-me-hangin-on-lyrics
 name: You Keep Me Hangin' On
@@ -75,6 +78,8 @@ rankings:
   rank: 23
   ranking_list: Billboard Hot 100
   start_date: '1968-09-28'
+release_year: 1967
+runtime: 407706
 ---
 Set me free, why don't you babe
 Get out my life, why don't you babe (Oh)

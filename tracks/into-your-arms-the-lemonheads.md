@@ -1,8 +1,11 @@
 ---
+album: Come On Feel The Lemonheads
 artists:
 - The Lemonheads
+external_ids:
+  spotify: spotify:track:2rD9tU2bws0PgOPsI6aIZo
 features: []
-genres: []
+first_released_as_single: false
 key: into-your-arms-the-lemonheads
 lyrics_url: https://www.azlyrics.com/lyrics/lemonheads/intoyourarms.html
 name: Into Your Arms
@@ -63,8 +66,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1994-02-12'
+release_year: 1993
+runtime: 164706
 ---
-
 I know a place where I can go when I'm alone
 Into your arms, whoa, into your arms I can go
 I know a place that's safe and warm from the crowd
@@ -86,6 +90,3 @@ Be alone anymore
 I know a place where I can go when I'm alone
 Into your arms, whoa, into your arms I can go
 I can go
-
-
-

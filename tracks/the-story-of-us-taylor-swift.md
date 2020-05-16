@@ -1,8 +1,11 @@
 ---
+album: Speak Now
 artists:
 - Taylor Swift
+external_ids:
+  spotify: spotify:track:3RBluWmSoG2pGA1OePzGJI
 features: []
-genres: []
+first_released_as_single: false
 key: the-story-of-us-taylor-swift
 lyrics_url: https://www.azlyrics.com/lyrics/taylorswift/thestoryofus.html
 name: The Story Of Us
@@ -55,8 +58,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2011-08-06'
+release_year: 2010
+runtime: 265666
 ---
-
 I used to think one day we'd tell the story of us,
 How we met and the sparks flew instantly,
 And people would say, "They're the lucky ones."
@@ -115,6 +119,3 @@ I don't know what to say, since the twist of fate 'cause we're going down,
 And the story of us looks a lot like a tragedy now.
 
 The end.
-
-
-

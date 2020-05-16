@@ -1,9 +1,12 @@
 ---
+album: "Ike & Tina Turner\u2019s Kings Of Rhythm Dance"
 artists:
 - Ike
 - Tina Turner
+external_ids:
+  spotify: spotify:track:7g0E6SVQUH9eJHsK35muYK
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-gonna-work-out-fine-ike-tina-turner
 lyrics_url: https://www.azlyrics.com/lyrics/iketinaturner/itsgonnaworkoutfine.html
 name: It's Gonna Work Out Fine
@@ -68,8 +71,9 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '1961-11-06'
+release_year: 1961
+runtime: 159293
 ---
-
 Darling (yes, Tina) it's time to get next to me
 (Honey, that was my plan from the very beginning)
 Darling (uh-huh) I never thought that this could be
@@ -116,6 +120,3 @@ I got to tell you it will work (know it's gonna work out)
 Got to work and work and work (know it's gonna work out fine)
 I know, I know it's gonna work out (know it's gonna work out)
 Oh, it's gonna work (know it's gonna work out fine)
-
-
-

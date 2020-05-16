@@ -1,8 +1,11 @@
 ---
+album: 'Atlantic Records 40th Anniversary: Hit Singles'
 artists:
 - Robert John
+external_ids:
+  spotify: spotify:track:79fwgYi0nxAn2Zda7sHlmC
 features: []
-genres: []
+first_released_as_single: false
 key: the-lion-sleeps-tonight-robert-john
 lyrics_url: https://genius.com/Robert-john-the-lion-sleeps-tonight-lyrics
 name: The Lion Sleeps Tonight
@@ -75,6 +78,8 @@ rankings:
   rank: 24
   ranking_list: Billboard Hot 100
   start_date: '1972-04-22'
+release_year: 1972
+runtime: 153706
 ---
 We-de-de-de, de-de-de-de-de de, we-um-um-a-way
 We-de-de-de, de-de-de-de-de de, we-um-um-a-way

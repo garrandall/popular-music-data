@@ -1,8 +1,11 @@
 ---
+album: Life Changes
 artists:
 - Thomas Rhett
+external_ids:
+  spotify: spotify:track:0OWZFobGSIW9GrSlQ9C5pc
 features: []
-genres: []
+first_released_as_single: false
 key: marry-me-thomas-rhett
 lyrics_url: https://www.azlyrics.com/lyrics/thomasrhett/marryme.html
 name: Marry Me
@@ -87,8 +90,9 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '2018-04-28'
+release_year: 2017
+runtime: 205453
 ---
-
 She wants to get married, she wants it perfect
 She wants her granddaddy preaching the service
 Yeah, she wants magnolias out in the country
@@ -128,6 +132,3 @@ Yes, she wanna get married
 Yes, she gonna get married
 But she ain't gonna marry me
 Whoa, but she ain't gonna marry me, no
-
-
-

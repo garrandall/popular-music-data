@@ -1,8 +1,11 @@
 ---
+album: Nothing Matters Without Love
 artists:
 - Seduction
+external_ids:
+  spotify: spotify:track:6GS6uE1vDmtzxO8GztAR2O
 features: []
-genres: []
+first_released_as_single: false
 key: two-to-make-it-right-seduction
 lyrics_url: https://genius.com/Seduction-two-to-make-it-right-lyrics
 name: Two To Make It Right
@@ -99,6 +102,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1990-04-14'
+release_year: 1989
+runtime: 282266
 ---
 It takes two, it takes two, me and you
 It takes two, it takes two, me and you

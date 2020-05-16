@@ -1,8 +1,11 @@
 ---
+album: Bobby Vee's Golden Greats (Vol. 2)
 artists:
 - Bobby Vee
+external_ids:
+  spotify: spotify:track:26mfTMUbynV99KpHmZlaHF
 features: []
-genres: []
+first_released_as_single: false
 key: never-love-a-robin-bobby-vee
 lyrics_url: https://www.musixmatch.com/lyrics/Bobby-Vee/Never-Love-a-Robin
 name: Never Love A Robin
@@ -11,6 +14,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1963-12-28'
+release_year: 1963
+runtime: 160666
 ---
 Her love was like a bird
 Up in the sky

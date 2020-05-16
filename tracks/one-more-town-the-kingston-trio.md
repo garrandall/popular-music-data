@@ -1,8 +1,11 @@
 ---
+album: Something Special
 artists:
 - The Kingston Trio
+external_ids:
+  spotify: spotify:track:7jcEIf9CA3qTzUdIjlL9UM
 features: []
-genres: []
+first_released_as_single: false
 key: one-more-town-the-kingston-trio
 lyrics_url: https://genius.com/Kingston-trio-one-more-town-lyrics
 name: One More Town
@@ -15,6 +18,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1962-11-17'
+release_year: 1962
+runtime: 177493
 ---
 If there's one more town, I'll be goin'. Fight for the winnin' and I'll be there
 If there's one more song, I'll be singin'. I'm always goin' but I don't know where

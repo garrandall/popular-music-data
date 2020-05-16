@@ -1,8 +1,11 @@
 ---
+album: Do You Wanna Go Party
 artists:
 - KC And The Sunshine Band
+external_ids:
+  spotify: spotify:track:31zsv1tXfdZpHGLyOZ5pxX
 features: []
-genres: []
+first_released_as_single: false
 key: do-you-wanna-go-party-kc-and-the-sunshine-band
 lyrics_url: https://www.azlyrics.com/lyrics/kcandthesunshineband/doyouwannagoparty.html
 name: Do You Wanna Go Party
@@ -47,8 +50,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1979-07-21'
+release_year: 1979
+runtime: 452746
 ---
-
 Oh, ah, party
 Oh, ah, party
 Oh, ah, party
@@ -94,6 +98,3 @@ Have a funky time, party
 Party
 Party
 Party
-
-
-

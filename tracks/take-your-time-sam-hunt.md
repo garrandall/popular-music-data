@@ -1,8 +1,11 @@
 ---
+album: Montevallo
 artists:
 - Sam Hunt
+external_ids:
+  spotify: spotify:track:6DEaND0SHv3sC11xobZLiy
 features: []
-genres: []
+first_released_as_single: false
 key: take-your-time-sam-hunt
 lyrics_url: https://www.azlyrics.com/lyrics/samhunt/takeyourtime.html
 name: Take Your Time
@@ -135,8 +138,9 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '2015-08-22'
+release_year: 2014
+runtime: 243706
 ---
-
 I don't know if you were looking at me or not
 You probably smile like that all the time
 And I don't mean to bother you but
@@ -212,6 +216,3 @@ No, I ain't gotta call you baby
 And I ain't gotta call you mine
 I don't have to take your heart
 I just wanna take your time
-
-
-

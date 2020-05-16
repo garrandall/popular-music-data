@@ -1,9 +1,12 @@
 ---
+album: The Texas Twist with Texas Radio
 artists:
 - Chubby Checker
+external_ids:
+  spotify: spotify:track:0icMqr8JYoosCFJZSsIXnc
 features:
 - Dee Dee Sharp
-genres: []
+first_released_as_single: false
 key: slow-twistin--chubby-checker-with-dee-dee-sharp
 name: Slow Twistin'
 rankings:
@@ -63,5 +66,7 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1962-06-02'
+release_year: 1962
+runtime: 150013
 ---
 

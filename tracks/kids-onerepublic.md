@@ -1,8 +1,11 @@
 ---
+album: Oh My My
 artists:
 - OneRepublic
+external_ids:
+  spotify: spotify:track:3N2VoT2e7CgIKSSAeZxih5
 features: []
-genres: []
+first_released_as_single: true
 key: kids-onerepublic
 lyrics_url: https://www.azlyrics.com/lyrics/onerepublic/kids.html
 name: Kids
@@ -11,8 +14,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2016-10-29'
+release_year: 2016
+runtime: 259106
 ---
-
 Days when we'd fight,
 We'd fight 'til I would give in
 Yeah, perfect disasters
@@ -79,6 +83,3 @@ You and me were kids
 I don't know what's 'round the corner
 Way I feel right now I swear we'll never change
 You and me were kids
-
-
-

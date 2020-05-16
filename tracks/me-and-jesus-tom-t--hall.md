@@ -1,8 +1,11 @@
 ---
+album: 'Country Classics: American Legends Tom T. Hall'
 artists:
 - Tom T. Hall
+external_ids:
+  spotify: spotify:track:1AzkJTyHg0PmMdPiUF7Gxz
 features: []
-genres: []
+first_released_as_single: false
 key: me-and-jesus-tom-t--hall
 lyrics_url: https://www.azlyrics.com/lyrics/tomthall/meandjesus.html
 name: Me And Jesus
@@ -15,8 +18,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1972-05-20'
+release_year: 1972
+runtime: 201240
 ---
-
 Well
 Me and Jesus got our own thing goin'
 Me and Jesus got it all worked out
@@ -56,6 +60,3 @@ We don't need anybody to tell us what it's all about
 Me and Jesus got our own thing goin'
 Me and Jesus got it all worked out
 Me and Jesus
-
-
-

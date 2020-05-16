@@ -1,9 +1,12 @@
 ---
+album: Brand New Man
 artists:
 - Brooks
 - Dunn
+external_ids:
+  spotify: spotify:track:6iKWr2XH1DyT7TQzDZlvzd
 features: []
-genres: []
+first_released_as_single: false
 key: boot-scootin--boogie-brooks-dunn
 lyrics_url: https://www.azlyrics.com/lyrics/brooksdunn/bootscootinboogie.html
 name: Boot Scootin' Boogie
@@ -68,8 +71,9 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1992-10-31'
+release_year: 1991
+runtime: 197640
 ---
-
 Out in the country past the city limits sign
 Well there's a honky tonk near the county line
 The joint starts jumpin everynight when the sun goes down
@@ -102,6 +106,3 @@ Yeah, get down, turn around go to town boot scootin' boogie
 
 I said get down, turn around go to town boot scootin' boogie
 Oh get down, turn around go to town boot scootin' boogie
-
-
-

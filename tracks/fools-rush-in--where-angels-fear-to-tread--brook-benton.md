@@ -1,8 +1,11 @@
 ---
+album: Songs I Love To Sing
 artists:
 - Brook Benton
+external_ids:
+  spotify: spotify:track:1u6w7ygf9kGpLiLCfxbGfp
 features: []
-genres: []
+first_released_as_single: false
 key: fools-rush-in--where-angels-fear-to-tread--brook-benton
 lyrics_url: https://genius.com/Brook-benton-fools-rush-in-where-angels-fear-to-tread-lyrics
 name: Fools Rush In (Where Angels Fear To Tread)
@@ -47,6 +50,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1961-01-16'
+release_year: 1960
+runtime: 145640
 ---
 Fools rush in where angels fear to tread
 And so I come to you, my love, my heart above my head

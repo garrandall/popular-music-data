@@ -1,8 +1,11 @@
 ---
+album: Deepa
 artists:
 - Troop
+external_ids:
+  spotify: spotify:track:7ypmnQBUevzJdnlUSmdndC
 features: []
-genres: []
+first_released_as_single: false
 key: whatever-it-takes--to-make-you-stay--troop
 lyrics_url: https://www.musixmatch.com/lyrics/Troop/Whatever-It-Takes-to-Make-You-Stay
 name: Whatever It Takes (To Make You Stay)
@@ -27,6 +30,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1992-07-18'
+release_year: 1992
+runtime: 319533
 ---
 Whatever it takes (to make you stay)
 Lyrictext

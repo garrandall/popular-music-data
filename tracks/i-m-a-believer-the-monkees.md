@@ -1,8 +1,11 @@
 ---
+album: More of The Monkees
 artists:
 - The Monkees
+external_ids:
+  spotify: spotify:track:3G7tRC24Uh09Hmp1KZ7LQ2
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-a-believer-the-monkees
 lyrics_url: https://genius.com/The-monkees-im-a-believer-lyrics
 name: I'm A Believer
@@ -67,6 +70,8 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '1967-03-18'
+release_year: 1966
+runtime: 167373
 ---
 I thought love was only true in fairy tales
 Meant for someone else but not for me

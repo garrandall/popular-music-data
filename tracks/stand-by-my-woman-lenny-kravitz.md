@@ -1,8 +1,11 @@
 ---
+album: Mama Said
 artists:
 - Lenny Kravitz
+external_ids:
+  spotify: spotify:track:2KT2tP853wbbERHxfSzmvd
 features: []
-genres: []
+first_released_as_single: false
 key: stand-by-my-woman-lenny-kravitz
 lyrics_url: https://www.azlyrics.com/lyrics/lennykravitz/standbymywoman.html
 name: Stand By My Woman
@@ -39,8 +42,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1991-12-07'
+release_year: 1991
+runtime: 260399
 ---
-
 There were times I wasn't kind 
 And there were times I wasn't even around 
 And there were times I made you cry 
@@ -78,7 +82,4 @@ Stand, yeah, by, yeah my woman now
 Yeah yeah yeah yeah yeah yeah ... 
 I'm gonna stand by my woman now 
 'Cause I can't live my life alone 
-Without a home 
-
-
-
+Without a home

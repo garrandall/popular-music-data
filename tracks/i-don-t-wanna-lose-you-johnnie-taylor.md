@@ -1,8 +1,11 @@
 ---
+album: One Step Beyond
 artists:
 - Johnnie Taylor
+external_ids:
+  spotify: spotify:track:0StYkrnerlzW2doQzjcAJN
 features: []
-genres: []
+first_released_as_single: false
 key: i-don-t-wanna-lose-you-johnnie-taylor
 lyrics_url: https://genius.com/Johnnie-taylor-i-dont-wanna-lose-you-lyrics
 name: I Don't Wanna Lose You
@@ -19,6 +22,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1971-06-05'
+release_year: 1970
+runtime: 326573
 ---
 Listen, listen to my heartbeat
 Listen, listen to my heartbeat

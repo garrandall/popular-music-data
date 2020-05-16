@@ -1,8 +1,11 @@
 ---
+album: Jeremih
 artists:
 - Jeremih
+external_ids:
+  spotify: spotify:track:4NpDZPwSXmL0cCTaJuVrCw
 features: []
-genres: []
+first_released_as_single: false
 key: birthday-sex-jeremih
 lyrics_url: https://www.musixmatch.com/lyrics/Jeremih/Birthday-Sex
 name: Birthday Sex
@@ -87,6 +90,8 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '2009-09-05'
+release_year: 2009
+runtime: 226506
 ---
 It's yo birthday, so I know you want to ride out
 Even if we only go to my house

@@ -1,8 +1,11 @@
 ---
+album: Heaven On Earth
 artists:
 - Belinda Carlisle
+external_ids:
+  spotify: spotify:track:2B1ylFlO2nBGJdPNb9vMnn
 features: []
-genres: []
+first_released_as_single: false
 key: i-get-weak-belinda-carlisle
 lyrics_url: https://www.azlyrics.com/lyrics/belindacarlisle/igetweak.html
 name: I Get Weak
@@ -71,8 +74,9 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1988-04-30'
+release_year: 1987
+runtime: 292293
 ---
-
 When I'm with you
 I shake inside
 My heart's all tangled up
@@ -122,6 +126,3 @@ I get weak when you're next to me
 Weak from this love
 I can't speak when I look in your eyes
 I get weak I get weak I get weak
-
-
-

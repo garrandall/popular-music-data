@@ -1,8 +1,11 @@
 ---
+album: Technique
 artists:
 - New Order
+external_ids:
+  spotify: spotify:track:6MhvA51DJ1gG5AZztMD9bP
 features: []
-genres: []
+first_released_as_single: false
 key: round---round-new-order
 lyrics_url: https://genius.com/New-order-round-and-round-lyrics
 name: Round & Round
@@ -43,6 +46,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1989-06-17'
+release_year: 1989
+runtime: 271906
 ---
 I just can't help thinking what you've done to me
 You built a wall of love and tore it right down in front of me

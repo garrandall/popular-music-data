@@ -1,8 +1,11 @@
 ---
+album: Third Album
 artists:
 - Jackson 5
+external_ids:
+  spotify: spotify:track:5RdhBLmB4DyFHLglRrfx63
 features: []
-genres: []
+first_released_as_single: false
 key: i-ll-be-there-jackson-5
 lyrics_url: https://genius.com/The-jackson-5-ill-be-there-lyrics
 name: I'll Be There
@@ -71,6 +74,8 @@ rankings:
   rank: 29
   ranking_list: Billboard Hot 100
   start_date: '1971-01-02'
+release_year: 1970
+runtime: 237760
 ---
 You and I must make a pact, we must bring salvation back
 Where there is love, I'll be there

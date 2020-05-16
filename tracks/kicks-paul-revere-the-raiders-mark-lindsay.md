@@ -1,10 +1,13 @@
 ---
+album: All-Time Greatest Hits
 artists:
 - Paul Revere
 - The Raiders
+external_ids:
+  spotify: spotify:track:1ROoFTh2HwUlHIg9LiY8gD
 features:
 - Mark Lindsay
-genres: []
+first_released_as_single: false
 key: kicks-paul-revere-the-raiders-mark-lindsay
 lyrics_url: https://www.musixmatch.com/lyrics/Paul-Revere-The-Raiders-feat-Mark-Lindsay/Kicks
 name: Kicks
@@ -65,6 +68,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1966-06-18'
+release_year: 1966
+runtime: 145960
 ---
 Kicks
 

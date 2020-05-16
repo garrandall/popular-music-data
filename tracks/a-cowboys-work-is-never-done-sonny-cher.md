@@ -1,9 +1,12 @@
 ---
+album: All I Ever Need Is You
 artists:
 - Sonny
 - Cher
+external_ids:
+  spotify: spotify:track:35NI9WDsjWlIMmrabnvn0Z
 features: []
-genres: []
+first_released_as_single: false
 key: a-cowboys-work-is-never-done-sonny-cher
 lyrics_url: https://www.azlyrics.com/lyrics/sonnycher/acowboysworkisneverdone.html
 name: A Cowboys Work Is Never Done
@@ -60,8 +63,9 @@ rankings:
   rank: 37
   ranking_list: Billboard Hot 100
   start_date: '1972-05-20'
+release_year: 1972
+runtime: 195626
 ---
-
 Ride, I used to jump my horse and ride
 I had a six gun at my side
 I was so handsome, women cried
@@ -85,6 +89,3 @@ Ride, I like to ride again some day
 I think I still know how to play
 I'd play games now but it's not fun
 A cowboy's work is never done
-
-
-

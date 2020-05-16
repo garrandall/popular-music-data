@@ -1,8 +1,11 @@
 ---
+album: 'Reggae Ambassadors: 20th Anniversary Collection'
 artists:
 - Third World
+external_ids:
+  spotify: spotify:track:3DakouX0AK62dbYE4FhEt2
 features: []
-genres: []
+first_released_as_single: false
 key: now-that-we-found-love-third-world
 lyrics_url: https://genius.com/Third-world-now-that-we-found-love-lyrics
 name: Now That We Found Love
@@ -39,6 +42,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1979-03-31'
+release_year: 1979
+runtime: 495466
 ---
 Now that we found love what are we gonna do with it?
 Now that we found love what are we gonna do with it?

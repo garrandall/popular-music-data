@@ -1,8 +1,11 @@
 ---
+album: Pyromania
 artists:
 - Def Leppard
+external_ids:
+  spotify: spotify:track:18URo35acNKRTHfEdjTcGn
 features: []
-genres: []
+first_released_as_single: false
 key: photograph-def-leppard
 lyrics_url: https://www.azlyrics.com/lyrics/defleppard/photograph.html
 name: Photograph
@@ -75,8 +78,9 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1983-07-02'
+release_year: 1983
+runtime: 247962
 ---
-
 I'm outta luck, outta love
 Got a photograph, picture of
 Passion killer, you're too much
@@ -145,6 +149,3 @@ Photograph
 You're the only one
 Photograph
 I wanna touch
-
-
-

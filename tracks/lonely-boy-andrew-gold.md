@@ -1,8 +1,11 @@
 ---
+album: What's Wrong with This Picture?
 artists:
 - Andrew Gold
+external_ids:
+  spotify: spotify:track:6wGMLoEqD2k3RBXFHD0yUp
 features: []
-genres: []
+first_released_as_single: false
 key: lonely-boy-andrew-gold
 lyrics_url: https://www.azlyrics.com/lyrics/andrewgold/lonelyboy.html
 name: Lonely Boy
@@ -91,8 +94,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1977-08-06'
+release_year: 1976
+runtime: 264893
 ---
-
 He was born on a summer day, 1951
 And with a slap of a hand, he had landed as an only son
 His mother and father said, "What a lovely boy
@@ -130,6 +134,3 @@ Oh, what a lonely boy
 Whoa-whoa-whoa, oh, what a lonely boy
 Oh, what a lonely boy
 Oh, what a lonely boy
-
-
-

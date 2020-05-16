@@ -1,8 +1,11 @@
 ---
+album: Nuclear Furniture
 artists:
 - Jefferson Starship
+external_ids:
+  spotify: spotify:track:01wn883KcvAKFrn8o0kDgi
 features: []
-genres: []
+first_released_as_single: false
 key: layin--it-on-the-line-jefferson-starship
 lyrics_url: https://www.azlyrics.com/lyrics/jeffersonstarship/layinitontheline.html
 name: Layin' It On The Line
@@ -31,8 +34,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1984-10-13'
+release_year: 1984
+runtime: 251853
 ---
-
 You see it every day in every way 
 We all hear the same routines 
 They all say that it's okay 
@@ -74,6 +78,3 @@ Layin' it on the line
 Just layin' it all 
 Layin' it on the line 
 Just layin' it all
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Four Winds
 artists:
 - Tangier
+external_ids:
+  spotify: spotify:track:1RTp8evtxWfHEo43pV3tUZ
 features: []
-genres: []
+first_released_as_single: false
 key: on-the-line-tangier
 lyrics_url: https://genius.com/Tangier-on-the-line-lyrics
 name: On The Line
@@ -35,13 +38,14 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1989-09-23'
+release_year: 1989
+runtime: 281843
 ---
 In the middle of the darkness
 Creepin' round your door
 In the shadows of a foggy night
 Can you hear 'em call
 Reachin' out for something
-Lyrics courtesy Top40db
 That's not really there
 Just another lonely night
 There's danger in the air

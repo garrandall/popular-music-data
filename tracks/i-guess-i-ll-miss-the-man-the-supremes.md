@@ -1,8 +1,11 @@
 ---
+album: Produced And Arranged By Jimmy Webb
 artists:
 - The Supremes
+external_ids:
+  spotify: spotify:track:5IgeTWZk5gQvbASEMYchvm
 features: []
-genres: []
+first_released_as_single: false
 key: i-guess-i-ll-miss-the-man-the-supremes
 lyrics_url: https://genius.com/The-supremes-i-guess-ill-miss-the-man-lyrics
 name: I Guess I'll Miss The Man
@@ -35,6 +38,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1972-12-02'
+release_year: 1972
+runtime: 158266
 ---
 I guess I'll miss the man
 Explain it, if you can

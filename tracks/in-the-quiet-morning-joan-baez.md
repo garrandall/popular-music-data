@@ -1,8 +1,11 @@
 ---
+album: Come From The Shadows
 artists:
 - Joan Baez
+external_ids:
+  spotify: spotify:track:4Kol6Ecm4yCgHvbLSP3XUG
 features: []
-genres: []
+first_released_as_single: false
 key: in-the-quiet-morning-joan-baez
 lyrics_url: https://www.azlyrics.com/lyrics/joanbaez/inthequietmorning.html
 name: In The Quiet Morning
@@ -39,8 +42,9 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '1972-09-16'
+release_year: 1972
+runtime: 175373
 ---
-
 In the quiet morning
 There was much despair
 And in the hours that followed
@@ -73,6 +77,3 @@ La La La La La La La
 La La La La La La La La La
 La La La La
 La La La
-
-
-

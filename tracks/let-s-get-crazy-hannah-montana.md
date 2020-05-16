@@ -1,8 +1,11 @@
 ---
+album: Hannah Montana 3
 artists:
 - Hannah Montana
+external_ids:
+  spotify: spotify:track:5J0d605KKCz4x8zbUKTaPe
 features: []
-genres: []
+first_released_as_single: false
 key: let-s-get-crazy-hannah-montana
 lyrics_url: https://www.azlyrics.com/lyrics/hannahmontana/letsgetcrazy.html
 name: Let's Get Crazy
@@ -19,8 +22,9 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '2009-05-02'
+release_year: 2009
+runtime: 155600
 ---
-
 You ready?
 Woo! Here we go
 
@@ -93,6 +97,3 @@ Yeah, just kick up your heels
 Don't miss out, time to shout
 Always keeping it real
 Let's get crazy!
-
-
-

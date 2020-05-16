@@ -1,8 +1,11 @@
 ---
+album: Beatles For Sale
 artists:
 - The Beatles
+external_ids:
+  spotify: spotify:track:1Dg4dFJr3HW7sbA7vPejre
 features: []
-genres: []
+first_released_as_single: false
 key: eight-days-a-week-the-beatles
 lyrics_url: https://genius.com/The-beatles-eight-days-a-week-lyrics
 name: Eight Days A Week
@@ -47,6 +50,8 @@ rankings:
   rank: 38
   ranking_list: Billboard Hot 100
   start_date: '1965-04-24'
+release_year: 1964
+runtime: 163600
 ---
 Oh, I need your love, babe
 Guess you know it's true

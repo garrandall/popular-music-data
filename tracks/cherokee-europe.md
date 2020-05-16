@@ -1,8 +1,11 @@
 ---
+album: The Final Countdown
 artists:
 - Europe
+external_ids:
+  spotify: spotify:track:3n981mGmJei21CclCsxwt3
 features: []
-genres: []
+first_released_as_single: false
 key: cherokee-europe
 lyrics_url: https://www.azlyrics.com/lyrics/europe/cherokee.html
 name: Cherokee
@@ -47,8 +50,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1988-01-30'
+release_year: 1965
+runtime: 250400
 ---
-
 They lived in peace, not long ago
 A mighty Indian tribe
 But the winds of change
@@ -83,6 +87,3 @@ Cherokee - marching on the trail of tears
 Cherokee - marching on the trail of tears
 Cherokee - marching on the trail of tears
 Cherokee - marching on the trail of tears
-
-
-

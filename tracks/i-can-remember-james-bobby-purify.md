@@ -1,9 +1,12 @@
 ---
+album: Shake A Tail Feather! The Best Of James And Bobby Purify
 artists:
 - James
 - Bobby Purify
+external_ids:
+  spotify: spotify:track:3iJZUoDWu3xtL5QceRsy7X
 features: []
-genres: []
+first_released_as_single: false
 key: i-can-remember-james-bobby-purify
 lyrics_url: https://genius.com/James-and-bobby-purify-i-can-remember-lyrics
 name: I Can Remember
@@ -32,6 +35,8 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1968-06-01'
+release_year: 1968
+runtime: 155266
 ---
 I can remember
 Not too long ago

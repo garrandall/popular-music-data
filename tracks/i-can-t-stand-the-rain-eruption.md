@@ -1,8 +1,11 @@
 ---
+album: Greatest Hits
 artists:
 - Eruption
+external_ids:
+  spotify: spotify:track:1kos39rubN2XWgKLmsT921
 features: []
-genres: []
+first_released_as_single: false
 key: i-can-t-stand-the-rain-eruption
 lyrics_url: https://genius.com/Eruption-i-cant-stand-the-rain-lyrics
 name: I Can't Stand The Rain
@@ -95,6 +98,8 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1978-08-05'
+release_year: 1978
+runtime: 174133
 ---
 I can't stand the rain against my window
 Bringing back sweet memories

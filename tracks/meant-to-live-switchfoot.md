@@ -1,8 +1,11 @@
 ---
+album: The Beautiful Letdown (Deluxe Version)
 artists:
 - Switchfoot
+external_ids:
+  spotify: spotify:track:2md2i5QvelRFnafpnd6LOg
 features: []
-genres: []
+first_released_as_single: false
 key: meant-to-live-switchfoot
 lyrics_url: https://genius.com/Switchfoot-meant-to-live-lyrics
 name: Meant To Live
@@ -119,6 +122,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2004-10-09'
+release_year: 2003
+runtime: 201373
 ---
 Fumbling his confidence
 And wondering why the world has passed him by

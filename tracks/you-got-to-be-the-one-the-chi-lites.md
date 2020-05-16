@@ -1,8 +1,11 @@
 ---
+album: Toby
 artists:
 - The Chi-lites
+external_ids:
+  spotify: spotify:track:4GNzW6l79SrWvXsHUI4qjf
 features: []
-genres: []
+first_released_as_single: false
 key: you-got-to-be-the-one-the-chi-lites
 lyrics_url: https://www.azlyrics.com/lyrics/chilites/yougottobetheone.html
 name: You Got To Be The One
@@ -19,8 +22,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1974-09-14'
+release_year: 1974
+runtime: 238213
 ---
-
 You got to be the one
 You got to be the one
 You got to be the one
@@ -103,6 +107,3 @@ Oh, you got to be the one
 The one and only one for me
 You got to be the one
 The one and only one
-
-
-

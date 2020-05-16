@@ -1,8 +1,11 @@
 ---
+album: This Old Heart Of Mine
 artists:
 - The Isley Brothers
+external_ids:
+  spotify: spotify:track:5c33j1xFVOL4G24zxYhssB
 features: []
-genres: []
+first_released_as_single: false
 key: this-old-heart-of-mine--is-weak-for-you--the-isley-brothers
 lyrics_url: https://genius.com/The-isley-brothers-this-old-heart-of-mine-is-weak-for-you-lyrics
 name: This Old Heart Of Mine (Is Weak For You)
@@ -55,6 +58,8 @@ rankings:
   rank: 30
   ranking_list: Billboard Hot 100
   start_date: '1966-05-07'
+release_year: 1966
+runtime: 172733
 ---
 This old heart of mine been broke a thousand times
 Each time you break away, I fear you've gone to stay

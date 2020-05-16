@@ -1,8 +1,11 @@
 ---
+album: Hot Together
 artists:
 - The Pointer Sisters
+external_ids:
+  spotify: spotify:track:4Pb3zR5uAsw8w0tVwslqJe
 features: []
-genres: []
+first_released_as_single: false
 key: goldmine-the-pointer-sisters
 lyrics_url: https://www.azlyrics.com/lyrics/pointersisters/goldmine.html
 name: Goldmine
@@ -59,8 +62,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1987-01-24'
+release_year: 1986
+runtime: 230853
 ---
-
 Girl's got a goldmine and he's so fine
 Girl's got a goldmine and he's all mine
 Baby's got a goldmine, treats me so kind
@@ -121,6 +125,3 @@ Oh yeah baby, baby, baby bay oh baby
 My baby he's a goldmine
 Your eyes, your hands, your lips, your nose
 Baby your tongue so
-
-
-

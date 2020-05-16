@@ -1,8 +1,11 @@
 ---
+album: I Love Them Ho's/F**k It EP
 artists:
 - Eamon
+external_ids:
+  spotify: spotify:track:07OZcJGDIIK1uEzhsYE9Pq
 features: []
-genres: []
+first_released_as_single: true
 key: f--k-it--i-don-t-want-you-back--eamon
 lyrics_url: https://www.musixmatch.com/lyrics/Eamon/F-k-It-I-Don-t-Want-You-Back
 name: F**k It (I Don't Want You Back)
@@ -91,6 +94,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '2004-04-24'
+release_year: 2003
+runtime: 365110
 ---
 Whoa oh oh
 Ohhooh

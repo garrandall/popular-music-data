@@ -1,8 +1,11 @@
 ---
+album: Today
 artists:
 - Elvis Presley
+external_ids:
+  spotify: spotify:track:32h5TIBiDv56zxf2HOIYjO
 features: []
-genres: []
+first_released_as_single: false
 key: t-r-o-u-b-l-e-elvis-presley
 lyrics_url: https://www.azlyrics.com/lyrics/elvispresley/trouble110974.html
 name: T-R-O-U-B-L-E
@@ -43,8 +46,9 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '1975-07-05'
+release_year: 1975
+runtime: 182946
 ---
-
 I play an old piano from nine till a half past one
 Tryin' to make a livin' watchin' everybody have fun
 Well, I don't miss much that ever happens on a dance hall floor
@@ -84,6 +88,3 @@ Well, I bet your mama must have been another something or the other too
 
 Say hey good L-double O-K-I-N-G
 I smell T-R-O-U-B-L-E
-
-
-

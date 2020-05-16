@@ -1,8 +1,11 @@
 ---
+album: "The Best of\u2026."
 artists:
 - The Newbeats
+external_ids:
+  spotify: spotify:track:0w0Czu1su41wyJ3PRIKjbz
 features: []
-genres: []
+first_released_as_single: false
 key: shake-hands--and-come-out-crying--the-newbeats
 lyrics_url: https://genius.com/The-newbeats-shake-hands-come-out-crying-lyrics
 name: Shake Hands (And Come Out Crying)
@@ -19,6 +22,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1966-03-12'
+release_year: 1965
+runtime: 131920
 ---
 Give me heartaches, scold me
 Give me cause to hurt again

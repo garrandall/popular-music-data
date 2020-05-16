@@ -1,8 +1,11 @@
 ---
+album: Album 1700
 artists:
 - Peter, Paul, and Mary
+external_ids:
+  spotify: spotify:track:6ZSTinOwx5dKFYc6iYyGDn
 features: []
-genres: []
+first_released_as_single: false
 key: leaving-on-a-jet-plane-peter-paul-and-mary
 lyrics_url: https://www.azlyrics.com/lyrics/peterpaulandmary/leavingonajetplane.html
 name: Leaving On A Jet Plane
@@ -75,8 +78,9 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '1970-02-14'
+release_year: 1967
+runtime: 207240
 ---
-
 All my bags are packed, I'm ready to go
 I'm standing here outside your door
 I hate to wake you up to say goodbye
@@ -128,6 +132,3 @@ I don't know when I'll be back again
 Leavin' on a jet plane
 I don't know when I'll be back again
 Oh babe, I hate to go
-
-
-

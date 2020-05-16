@@ -1,8 +1,11 @@
 ---
+album: Life in Cartoon Motion
 artists:
 - MIKA
+external_ids:
+  spotify: spotify:track:5IeoDPRhuPM8angUeWS47j
 features: []
-genres: []
+first_released_as_single: true
 key: grace-kelly-mika
 lyrics_url: https://www.azlyrics.com/lyrics/mika/gracekelly.html
 name: Grace Kelly
@@ -63,8 +66,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2007-05-19'
+release_year: 2006
+runtime: 195226
 ---
-
 "I wanna talk to you."
 "The last time we talked, Mr. Smith, you reduced me to tears. I promise you it won't happen again."
 
@@ -149,6 +153,3 @@ Walk out the door!
 
 "Humphry! We're leaving."
 "Cha-ching!"
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Enamorado
 artists:
 - Keith Colley
+external_ids:
+  spotify: spotify:track:2Q20X4fKdfYZxMbrqiO1S1
 features: []
-genres: []
+first_released_as_single: true
 key: enamorado-keith-colley
 name: Enamorado
 rankings:
@@ -38,5 +41,7 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1963-11-02'
+release_year: 1963
+runtime: 117160
 ---
 

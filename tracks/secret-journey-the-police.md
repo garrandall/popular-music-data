@@ -1,8 +1,11 @@
 ---
+album: Ghost In The Machine (Remastered 2003)
 artists:
 - The Police
+external_ids:
+  spotify: spotify:track:1klFQ3R5AN86f0moMUdSYS
 features: []
-genres: []
+first_released_as_single: false
 key: secret-journey-the-police
 lyrics_url: https://www.azlyrics.com/lyrics/police/secretjourney.html
 name: Secret Journey
@@ -39,8 +42,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1982-05-29'
+release_year: 1981
+runtime: 213693
 ---
-
 Upon a secret journey
 I met a holy man
 His blindness was his wisdom
@@ -73,4 +77,3 @@ You will find this love you miss
 
 And when you've made your secret journey
 You will be a holy man
-

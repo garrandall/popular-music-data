@@ -1,8 +1,11 @@
 ---
+album: Goldisc Records From The Vault Vol. 6
 artists:
 - Lenny Welch
+external_ids:
+  spotify: spotify:track:6IbJJnUdfLx8tIihXgnVUE
 features: []
-genres: []
+first_released_as_single: false
 key: breaking-up-is-hard-to-do-lenny-welch
 lyrics_url: https://genius.com/Lenny-welch-breaking-up-is-hard-to-do-lyrics
 name: Breaking Up Is Hard To Do
@@ -47,6 +50,8 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '1970-03-14'
+release_year: 1970
+runtime: 180106
 ---
 Don't take your love away from me
 Don't you leave my heart in misery

@@ -1,8 +1,11 @@
 ---
+album: 20/20
 artists:
 - George Benson
+external_ids:
+  spotify: spotify:track:1VFY4UhoFOkeXhUHi7KzGj
 features: []
-genres: []
+first_released_as_single: false
 key: 20-george-benson
 lyrics_url: https://www.azlyrics.com/lyrics/georgebenson/2020.html
 name: '20'
@@ -59,8 +62,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1985-03-09'
+release_year: 1984
+runtime: 247440
 ---
-
 When I think of all I put you through
 Always taking you for granted
 I never saw it from your point of view
@@ -96,6 +100,3 @@ And it doesn't really matter
 what's been before
 But I know there's no future
 with you walkin' out that door
-
-
-

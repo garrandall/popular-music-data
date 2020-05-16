@@ -1,10 +1,13 @@
 ---
+album: My Ghetto Report Card
 artists:
 - E-40
+external_ids:
+  spotify: spotify:track:7g7M96UGiA7OR79H86gV4m
 features:
 - T-Pain
 - Kandi Girl
-genres: []
+first_released_as_single: false
 key: u-and-dat-e-40-t-pain-kandi-girl
 lyrics_url: https://www.azlyrics.com/lyrics/e40/uanddat.html
 name: U And Dat
@@ -109,9 +112,9 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2006-11-11'
+release_year: 2006
+runtime: 202720
 ---
-
-
 Girl, I been shaking, sticking and moving tryna to get you and that booty
 Tryna get to you and that booty
 Tryna get to you and that booty
@@ -200,6 +203,3 @@ Tryna get to you and that booty
 Girl, I been shaking and acting a donkey tryna to get you and that monkey
 Tryna to get you and that monkey
 Tryna to get you and that monkey
-
-
-

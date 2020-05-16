@@ -1,8 +1,11 @@
 ---
+album: A Night To Remember
 artists:
 - Joe Diffie
+external_ids:
+  spotify: spotify:track:4u6U5nwYHok67BBymI9ldh
 features: []
-genres: []
+first_released_as_single: false
 key: the-quittin--kind-joe-diffie
 lyrics_url: https://www.azlyrics.com/lyrics/joediffie/thequittinkind.html
 name: The Quittin' Kind
@@ -31,8 +34,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2000-02-05'
+release_year: 1999
+runtime: 207466
 ---
-
 I know you're holding your breath 
 You're wondering what's coming next
 Can't be too careful this time
@@ -71,6 +75,3 @@ To the end of time
 It ain't the quittin kind
 Quittin' kind no no no 
 It ain't the quittin kind
-
-
-

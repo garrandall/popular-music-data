@@ -1,8 +1,11 @@
 ---
+album: Bigger And Deffer
 artists:
 - LL Cool J
+external_ids:
+  spotify: spotify:track:519xI1wfOAJvHeV9kFdXaV
 features: []
-genres: []
+first_released_as_single: false
 key: i-need-love-ll-cool-j
 lyrics_url: https://genius.com/Ll-cool-j-i-need-love-lyrics
 name: I Need Love
@@ -59,6 +62,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1987-10-24'
+release_year: 1987
+runtime: 322733
 ---
 When I'm alone in my room sometimes I stare at the wall
 And in the back of my mind I hear my conscience call

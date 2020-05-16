@@ -1,8 +1,11 @@
 ---
+album: Another Page
 artists:
 - Christopher Cross
+external_ids:
+  spotify: spotify:track:0HGqR8afdaKuEUUxECHCRD
 features: []
-genres: []
+first_released_as_single: false
 key: no-time-for-talk-christopher-cross
 lyrics_url: https://www.azlyrics.com/lyrics/christophercross/notimefortalk.html
 name: No Time For Talk
@@ -47,8 +50,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1983-07-09'
+release_year: 1983
+runtime: 264000
 ---
-
 Well, I read it in town in the melancholy news
 The front page story is our love is through
 The hand of time is cold, I can't stand to hear the truth
@@ -89,6 +93,3 @@ There's no reason to wonder after all of these years
 Sure we had some good times and so who's to blame
 It's so hard to tell when you both feel the pain
 ...
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Opus X
 artists:
 - Chilliwack
+external_ids:
+  spotify: spotify:track:3Wuuyv70sQWtdH31mfpnFS
 features: []
-genres: []
+first_released_as_single: false
 key: whatcha-gonna-do-chilliwack
 lyrics_url: https://www.azlyrics.com/lyrics/chilliwack/whatchagonnado.html
 name: Whatcha Gonna Do
@@ -59,8 +62,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1983-01-15'
+release_year: 1982
+runtime: 255093
 ---
-
 Whatcha gonna do when I'm gone?
 Whatcha gonna do?
 Whatcha gonna do when I'm gone?
@@ -134,6 +138,3 @@ Whatcha gonna do when I'm gone?
 Whatcha gonna do when I'm gone?
 Whatcha gonna do?
 Whatcha gonna do when I'm gone?
-
-
-

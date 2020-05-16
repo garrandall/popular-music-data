@@ -1,10 +1,13 @@
 ---
+album: The Beautiful & Damned
 artists:
 - G-Eazy
+external_ids:
+  spotify: spotify:track:2DQ1ITjI0YoLFzuADN1ZBW
 features:
 - A$AP Rocky
 - Cardi B
-genres: []
+first_released_as_single: false
 key: no-limit-g-eazy-a-ap-rocky-cardi-b
 lyrics_url: https://www.azlyrics.com/lyrics/geazy/nolimitremixmusicvideoversion.html
 name: No Limit
@@ -125,9 +128,9 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '2018-04-07'
+release_year: 2017
+runtime: 245386
 ---
-
-
 If I hit it one time, I'ma pipe her
 If I hit it two times, then I like her
 If I fuck three times, I'ma wife her
@@ -298,6 +301,3 @@ Ayy, yeah, fuck with me and get some money
 Yeah, ayy, fuck with me and get some money
 Ayy, yeah, fuck with me and get some money
 Ayy, yeah, fuck with G and get some money
-
-
-

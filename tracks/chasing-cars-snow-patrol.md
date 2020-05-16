@@ -1,8 +1,11 @@
 ---
+album: Eyes Open
 artists:
 - Snow Patrol
+external_ids:
+  spotify: spotify:track:11bD1JtSjlIgKgZG2134DZ
 features: []
-genres: []
+first_released_as_single: false
 key: chasing-cars-snow-patrol
 lyrics_url: https://www.azlyrics.com/lyrics/snowpatrol/chasingcars.html
 name: Chasing Cars
@@ -187,8 +190,9 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '2007-04-07'
+release_year: 2006
+runtime: 267933
 ---
-
 We'll do it all
 Everything
 On our own
@@ -244,6 +248,3 @@ Just know that these things will never change for us at all
 If I lay here
 If I just lay here
 Would you lie with me and just forget the world?
-
-
-

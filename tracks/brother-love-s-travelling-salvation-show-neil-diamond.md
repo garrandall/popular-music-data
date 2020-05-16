@@ -1,8 +1,11 @@
 ---
+album: Brother Love's Travelling Salvation Show
 artists:
 - Neil Diamond
+external_ids:
+  spotify: spotify:track:39S2xu12I1IwMVqSvoORSh
 features: []
-genres: []
+first_released_as_single: false
 key: brother-love-s-travelling-salvation-show-neil-diamond
 lyrics_url: https://genius.com/Neil-diamond-brother-loves-travelling-salvation-show-lyrics
 name: Brother Love's Travelling Salvation Show
@@ -59,6 +62,8 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1969-05-17'
+release_year: 1969
+runtime: 211862
 ---
 Hot August night
 And the leaves hanging down
@@ -73,7 +78,7 @@ And that gospel group tellin' you and me
 It's Love, Brother Love, say
 Brother Love's Traveling Salvation Show
 Pack up the babies and grab the old ladies
-And ev'ryone goes, 'cause everyone knows
+And everyone goes, 'cause everyone knows
 Brother Love's show
 
 
@@ -92,7 +97,7 @@ Half the valley shakes
 It's Love, Brother Love, say
 Brother Love's Traveling Salvation Show
 Pack up the babies and grab the old ladies
-And ev'ryone goes, 'cause everyone knows
+And everyone goes, 'cause everyone knows
 'Bout Brother Love's show
 
 
@@ -116,11 +121,11 @@ Halle, halle, halle, halle
 It's Love, Brother Love, say
 Brother Love's Traveling Salvation Show
 Pack up the babies
-And grab the old ladies and ev'ryone goes
+And grab the old ladies and everyone goes
 I say, Love, Brother Love, say
 Brother Love's Traveling Salvation Show
 Pack up the babies
-And grab the old ladies and ev'ryone goes...
+And grab the old ladies and everyone goes...
 
 
 Love, Brother Love, say

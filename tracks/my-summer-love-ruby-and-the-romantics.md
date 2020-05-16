@@ -1,8 +1,11 @@
 ---
+album: Greatest Hits Album
 artists:
 - Ruby And The Romantics
+external_ids:
+  spotify: spotify:track:6nPr5EzXH7dBqRmXFRA3CU
 features: []
-genres: []
+first_released_as_single: false
 key: my-summer-love-ruby-and-the-romantics
 lyrics_url: https://genius.com/Ruby-and-the-romantics-my-summer-love-lyrics
 name: My Summer Love
@@ -51,6 +54,8 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '1963-07-27'
+release_year: 1963
+runtime: 163093
 ---
 You're the one I've been waiting for
 Take me down to the sandy shore

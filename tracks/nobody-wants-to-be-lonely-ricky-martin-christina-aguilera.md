@@ -1,9 +1,12 @@
 ---
+album: '17'
 artists:
 - Ricky Martin
 - Christina Aguilera
+external_ids:
+  spotify: spotify:track:45cVyfWuMAg8RNxmkcpmy9
 features: []
-genres: []
+first_released_as_single: false
 key: nobody-wants-to-be-lonely-ricky-martin-christina-aguilera
 lyrics_url: https://genius.com/Ricky-martin-nobody-wants-to-be-lonely-lyrics
 name: Nobody Wants To Be Lonely
@@ -88,6 +91,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2001-06-09'
+release_year: 2001
+runtime: 252706
 ---
 Why? Why? Why?
 

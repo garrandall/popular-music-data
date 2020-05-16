@@ -1,10 +1,13 @@
 ---
+album: Nothing Was The Same
 artists:
 - Drake
+external_ids:
+  spotify: spotify:track:7y911sqgHGHcyU4ivapjwi
 features:
 - 2 Chainz
 - Big Sean
-genres: []
+first_released_as_single: false
 key: all-me-drake-2-chainz-big-sean
 lyrics_url: https://genius.com/Allame-all-me-tribute-to-drake-2-chainz-and-big-sean-lyrics
 name: All Me
@@ -89,6 +92,8 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '2014-02-22'
+release_year: 2013
+runtime: 270866
 ---
 Got everything, I got everything
 I cannot complain, I cannot

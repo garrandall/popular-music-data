@@ -1,9 +1,12 @@
 ---
+album: Rokstarr
 artists:
 - Taio Cruz
+external_ids:
+  spotify: spotify:track:7s4USejbr9Kqj7PpG8Yh6J
 features:
 - Kesha
-genres: []
+first_released_as_single: false
 key: dirty-picture-taio-cruz-ke-ha
 lyrics_url: https://genius.com/Taio-cruz-dirty-picture-lyrics
 name: Dirty Picture
@@ -12,6 +15,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2010-06-19'
+release_year: 2010
+runtime: 219520
 ---
 I could dream of ways to see you
 I could close my eyes to dream

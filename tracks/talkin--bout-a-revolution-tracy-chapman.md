@@ -1,8 +1,11 @@
 ---
+album: Tracy Chapman
 artists:
 - Tracy Chapman
+external_ids:
+  spotify: spotify:track:0YMFcrMtBowDdD5bPz0cgy
 features: []
-genres: []
+first_released_as_single: false
 key: talkin--bout-a-revolution-tracy-chapman
 lyrics_url: https://www.musixmatch.com/lyrics/Tracy-Chapman/Talkin-Bout-a-Revolution
 name: Talkin' Bout A Revolution
@@ -23,6 +26,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1988-10-22'
+release_year: 1988
+runtime: 161600
 ---
 Don't you know
 They're talkin' bout a revolution

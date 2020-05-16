@@ -1,8 +1,11 @@
 ---
+album: In Square Circle
 artists:
 - Stevie Wonder
+external_ids:
+  spotify: spotify:track:4SyPsgGCqmlDrXCsf2Rvmm
 features: []
-genres: []
+first_released_as_single: false
 key: land-of-la-la-stevie-wonder
 lyrics_url: https://www.azlyrics.com/lyrics/steviewonder/landoflala.html
 name: Land Of La La
@@ -19,8 +22,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1986-06-28'
+release_year: 1985
+runtime: 312093
 ---
-
 You were brought up in a small town
 Where everyone greeted with a morning smile
 I mean the place was so free from crime
@@ -85,6 +89,3 @@ In the land of la la
 He's a big boy now, she's a strong girl
 But only the strong can survive
 Living in the land of la la
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Halcyon
 artists:
 - Ellie Goulding
+external_ids:
+  spotify: spotify:track:2AMEPKeicePOewTaGLYqec
 features: []
-genres: []
+first_released_as_single: false
 key: explosions-ellie-goulding
 lyrics_url: https://www.azlyrics.com/lyrics/elliegoulding/explosions.html
 name: Explosions
@@ -11,8 +14,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2014-03-01'
+release_year: 2012
+runtime: 243886
 ---
-
 You trembled like you'd seen a ghost
 And I gave in
 I lacked the things you need the most,
@@ -64,6 +68,3 @@ Explosions...on the day you wake up
 Needing somebody and you've learned
 It's okay to be afraid
 But it will never be the same
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: True Stories (Deluxe Version)
 artists:
 - Talking Heads
+external_ids:
+  spotify: spotify:track:4yeaLecWINnWGpO5BOd4Mn
 features: []
-genres: []
+first_released_as_single: false
 key: wild-wild-life-talking-heads
 lyrics_url: https://genius.com/Talking-heads-wild-wild-life-lyrics
 name: Wild Wild Life
@@ -91,6 +94,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1987-01-24'
+release_year: 1986
+runtime: 219813
 ---
 I'm wearin'
 Fur pajamas

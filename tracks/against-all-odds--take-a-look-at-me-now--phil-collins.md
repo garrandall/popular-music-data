@@ -1,8 +1,11 @@
 ---
+album: Face Value (Deluxe Editon)
 artists:
 - Phil Collins
+external_ids:
+  spotify: spotify:track:0FyU9636Sot7nKTYH5JAKg
 features: []
-genres: []
+first_released_as_single: false
 key: against-all-odds--take-a-look-at-me-now--phil-collins
 lyrics_url: https://genius.com/Phil-collins-against-all-odds-take-a-look-lyrics
 name: Against All Odds (Take A Look At Me Now)
@@ -103,6 +106,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1984-08-04'
+release_year: 1981
+runtime: 178640
 ---
 How can I just let you walk away
 Just let you leave without a trace

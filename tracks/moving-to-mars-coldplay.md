@@ -1,8 +1,11 @@
 ---
+album: Every Teardrop Is a Waterfall
 artists:
 - Coldplay
+external_ids:
+  spotify: spotify:track:0kuv7BqWNDprDao3Tb5flN
 features: []
-genres: []
+first_released_as_single: true
 key: moving-to-mars-coldplay
 lyrics_url: https://www.azlyrics.com/lyrics/coldplay/movingtomars.html
 name: Moving To Mars
@@ -11,8 +14,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2011-07-16'
+release_year: 2011
+runtime: 258873
 ---
-
 Somewhere up above the stars
 The wreckage of a universe floats past
 Somewhere up above my heart
@@ -35,6 +39,3 @@ Singing this space symphony
 
 They'll be tearing us apart, maybe moving us to Mars,
 Past the satellites and stars, they're moving us to Mars
-
-
-

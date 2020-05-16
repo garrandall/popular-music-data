@@ -1,8 +1,11 @@
 ---
+album: Let's Hear It for the Boy
 artists:
 - Deniece Williams
+external_ids:
+  spotify: spotify:track:5kaF88lat4fWUiDXP6G48M
 features: []
-genres: []
+first_released_as_single: false
 key: let-s-hear-it-for-the-boy-deniece-williams
 lyrics_url: https://www.azlyrics.com/lyrics/deniecewilliams/letshearitfortheboy.html
 name: Let's Hear It For The Boy
@@ -83,8 +86,9 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1984-08-11'
+release_year: 1984
+runtime: 261893
 ---
-
 My baby, he don't talk sweet
 He ain't got much to say
 But he loves me, loves me, loves me
@@ -143,6 +147,3 @@ Oh, whoa, let's hear it for the boy
 (Let's hear it for my babe) Let's hear it for my man
 (Let's hear it for the boy)
 (Let's hear it for my babe) Let's hear it for my man
-
-
-

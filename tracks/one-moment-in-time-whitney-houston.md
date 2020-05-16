@@ -1,8 +1,11 @@
 ---
+album: Whitney The Greatest Hits
 artists:
 - Whitney Houston
+external_ids:
+  spotify: spotify:track:5IDUGTWbntYwO9SNmhuSWf
 features: []
-genres: []
+first_released_as_single: false
 key: one-moment-in-time-whitney-houston
 lyrics_url: https://genius.com/Whitney-houston-one-moment-in-time-lyrics
 name: One Moment In Time
@@ -75,6 +78,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1988-12-31'
+release_year: 1988
+runtime: 302906
 ---
 Each day I live
 I want to be

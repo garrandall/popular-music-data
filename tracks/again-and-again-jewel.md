@@ -1,8 +1,11 @@
 ---
+album: Goodbye Alice In Wonderland
 artists:
 - Jewel
+external_ids:
+  spotify: spotify:track:0eqegAaplGBvg5jFjosHgb
 features: []
-genres: []
+first_released_as_single: false
 key: again-and-again-jewel
 lyrics_url: https://genius.com/Jewel-again-and-again-lyrics
 name: Again And Again
@@ -15,6 +18,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2006-05-27'
+release_year: 2005
+runtime: 236173
 ---
 Listen, dear
 I need you to hear

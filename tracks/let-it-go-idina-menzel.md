@@ -1,8 +1,11 @@
 ---
+album: idina:live
 artists:
 - Idina Menzel
+external_ids:
+  spotify: spotify:track:0qcr5FMsEO85NAQjrlDRKo
 features: []
-genres: []
+first_released_as_single: false
 key: let-it-go-idina-menzel
 lyrics_url: https://genius.com/Idina-menzel-let-it-go-lyrics
 name: Let It Go
@@ -139,6 +142,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '2014-07-26'
+release_year: 2013
+runtime: 223840
 ---
 The snow glows white on the mountain tonight
 Not a footprint to be seen

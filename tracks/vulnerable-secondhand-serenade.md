@@ -1,8 +1,11 @@
 ---
+album: Awake
 artists:
 - Secondhand Serenade
+external_ids:
+  spotify: spotify:track:1JJOL5EhixrtlbXDWKS0yj
 features: []
-genres: []
+first_released_as_single: false
 key: vulnerable-secondhand-serenade
 lyrics_url: https://www.azlyrics.com/lyrics/secondhandserenade/vulnerable.html
 name: Vulnerable
@@ -11,8 +14,9 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '2007-05-26'
+release_year: 2007
+runtime: 200160
 ---
-
 Share with me the blankets that you're wrapped in
 Because it's cold outside, cold outside, it's cold outside
 Share with me the secrets that you kept in
@@ -63,6 +67,3 @@ What makes you think that you are invincible?
 I can see it in your eyes that you're so sure
 Please don't tell me that I'm the only one that's vulnerable
 Impossible
-
-
-

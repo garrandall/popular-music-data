@@ -1,8 +1,11 @@
 ---
+album: Vandenberg
 artists:
 - Vandenberg
+external_ids:
+  spotify: spotify:track:6mVJRgyXJ3eAy6EViECJyW
 features: []
-genres: []
+first_released_as_single: false
 key: burning-heart-vandenberg
 lyrics_url: https://www.azlyrics.com/lyrics/vandenberg/burningheart.html
 name: Burning Heart
@@ -63,8 +66,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1983-04-09'
+release_year: 1982
+runtime: 250693
 ---
-
 Does it feel the same
 When he calls your name
 And does it feel the same
@@ -115,6 +119,3 @@ This burning heart in me
 Won't let me be
 
 Oh, won't you let me be
-
-
-

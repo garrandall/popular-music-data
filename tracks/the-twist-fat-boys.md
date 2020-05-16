@@ -1,8 +1,11 @@
 ---
+album: Coming Back Hard Again
 artists:
 - Fat Boys
+external_ids:
+  spotify: spotify:track:2D5M9Izr3nbEM9N4ILiu4D
 features: []
-genres: []
+first_released_as_single: false
 key: the-twist-fat-boys
 lyrics_url: https://genius.com/Fat-boys-the-twist-lyrics
 name: The Twist
@@ -67,6 +70,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1988-09-24'
+release_year: 1988
+runtime: 239830
 ---
 Hee hee hee hee hee hee hee, Twist
 Ah, we're back

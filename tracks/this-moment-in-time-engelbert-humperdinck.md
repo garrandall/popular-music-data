@@ -1,8 +1,11 @@
 ---
+album: Live At The Royal Albert Hall
 artists:
 - Engelbert Humperdinck
+external_ids:
+  spotify: spotify:track:74vTR6baCKMwryiQHRn0bn
 features: []
-genres: []
+first_released_as_single: false
 key: this-moment-in-time-engelbert-humperdinck
 lyrics_url: https://www.azlyrics.com/lyrics/engelberthumperdinck/thismomentintime.html
 name: This Moment In Time
@@ -31,8 +34,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1979-01-27'
+release_year: 1978
+runtime: 76000
 ---
-
 More than a ripple, less than a splash
 The heir to a long line of glory
 Give me the morning and I'll give you a song
@@ -74,6 +78,3 @@ And no matter what comes
 I know the sun is gonna shine
 Because of you and me
 There'll be this moment in time
-
-
-

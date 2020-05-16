@@ -1,8 +1,11 @@
 ---
+album: Dangerous Dance, Vol. 1
 artists:
 - Kyper
+external_ids:
+  spotify: spotify:track:4WqIpnqW9EvBXlT4jJFa0M
 features: []
-genres: []
+first_released_as_single: false
 key: tic-tac-toe-kyper
 lyrics_url: https://genius.com/Kyper-tic-tac-toe-lyrics
 name: Tic-Tac-Toe
@@ -107,6 +110,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1990-12-15'
+release_year: 1990
+runtime: 383426
 ---
 Tic Tac Toe is a game I used to play
 When I was little I used to say

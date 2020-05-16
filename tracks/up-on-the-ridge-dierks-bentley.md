@@ -1,8 +1,11 @@
 ---
+album: Up On The Ridge
 artists:
 - Dierks Bentley
+external_ids:
+  spotify: spotify:track:6jHKCWp15grCREpx7arDix
 features: []
-genres: []
+first_released_as_single: false
 key: up-on-the-ridge-dierks-bentley
 lyrics_url: https://www.azlyrics.com/lyrics/dierksbentley/upontheridge.html
 name: Up On The Ridge
@@ -11,8 +14,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2010-07-24'
+release_year: 2010
+runtime: 214866
 ---
-
 Let's blow out these city lights 
 Let's just leave it all behind 
 Get up where the air is still 
@@ -63,6 +67,3 @@ When we get high up on the ridge
 
 I just want one little kiss 
 When we get high up on the ridge
-
-
-

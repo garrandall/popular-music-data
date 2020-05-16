@@ -1,8 +1,11 @@
 ---
+album: Ride Your Pony
 artists:
 - Lee Dorsey
+external_ids:
+  spotify: spotify:track:6DNgKv1sWH2505Z5SAqAXr
 features: []
-genres: []
+first_released_as_single: false
 key: get-out-of-my-life-woman-lee-dorsey
 lyrics_url: https://genius.com/Lee-dorsey-get-out-of-my-life-woman-lyrics
 name: Get Out Of My Life Woman
@@ -47,6 +50,8 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '1966-03-05'
+release_year: 1966
+runtime: 146266
 ---
 Get out my life, woman; you don't love me no more
 Get out my life, woman; you don't love me no more

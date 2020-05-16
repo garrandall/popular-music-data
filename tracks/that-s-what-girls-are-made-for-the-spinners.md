@@ -1,8 +1,11 @@
 ---
+album: The Original Spinners
 artists:
 - The Spinners
+external_ids:
+  spotify: spotify:track:4vEvKZGKjflCYTPLhGwrxz
 features: []
-genres: []
+first_released_as_single: false
 key: that-s-what-girls-are-made-for-the-spinners
 lyrics_url: https://www.musixmatch.com/lyrics/The-Spinners/That-s-What-Girls-Are-Made-For
 name: That's What Girls Are Made For
@@ -39,6 +42,8 @@ rankings:
   rank: 37
   ranking_list: Billboard Hot 100
   start_date: '1961-08-14'
+release_year: 1961
+runtime: 194480
 ---
 That's what girls are made for
 

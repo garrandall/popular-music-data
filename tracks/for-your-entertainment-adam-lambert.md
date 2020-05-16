@@ -1,8 +1,11 @@
 ---
+album: For Your Entertainment
 artists:
 - Adam Lambert
+external_ids:
+  spotify: spotify:track:1kVeffxCXu3HW9QDxEePlG
 features: []
-genres: []
+first_released_as_single: true
 key: for-your-entertainment-adam-lambert
 lyrics_url: https://www.azlyrics.com/lyrics/adamlambert/foryourentertainment.html
 name: For Your Entertainment
@@ -15,8 +18,9 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '2009-12-12'
+release_year: 2009
+runtime: 215016
 ---
-
 So hot
 Out the box
 Can you pick up the pace?
@@ -98,6 +102,3 @@ Oh, I bet you thought that I was soft and sweet (bet ya thought)
 'Ya thought an angel swept ya off your feet
 Well I'm about to turn up the heat (turn up the heat)
 I'm here for your entertainment
-
-
-

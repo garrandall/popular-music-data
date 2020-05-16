@@ -1,8 +1,11 @@
 ---
+album: Songs About Me
 artists:
 - Trace Adkins
+external_ids:
+  spotify: spotify:track:1hoBuYInLOISSH4yqEicyi
 features: []
-genres: []
+first_released_as_single: false
 key: songs-about-me-trace-adkins
 lyrics_url: https://www.azlyrics.com/lyrics/traceadkins/songsaboutme.html
 name: Songs About Me
@@ -67,8 +70,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2005-07-02'
+release_year: 2005
+runtime: 204533
 ---
-
 I met a guy on the red eye
 He spotted my guitar 
 And said what do you do?
@@ -121,6 +125,3 @@ And good hearted women and family and God
 Yeah they're all just 
 Songs about me
 Songs about me
-
-
-

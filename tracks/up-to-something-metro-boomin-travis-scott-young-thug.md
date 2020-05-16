@@ -1,10 +1,13 @@
 ---
+album: NOT ALL HEROES WEAR CAPES
 artists:
 - Metro Boomin
+external_ids:
+  spotify: spotify:track:4RGacGFT2ztXhGgzeaYzIR
 features:
 - Travis Scott
 - Young Thug
-genres: []
+first_released_as_single: false
 key: up-to-something-metro-boomin-travis-scott-young-thug
 lyrics_url: https://www.azlyrics.com/lyrics/metroboomin/uptosomething.html
 name: Up To Something
@@ -13,9 +16,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2018-11-17'
+release_year: 2018
+runtime: 184360
 ---
-
-
 Ayy
 
 Drank, takin' a sip of that Act (Blow it)
@@ -89,6 +92,3 @@ Pop a lil' perky, relax (Turn up, turn up)
 
 These niggas up to somethin' (Hm, Hell yeah, ayy)
 She need to suck or somethin'
-
-
-

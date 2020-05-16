@@ -1,8 +1,11 @@
 ---
+album: Like a Prayer
 artists:
 - Madonna
+external_ids:
+  spotify: spotify:track:5OKScc0MSa9Wl8g2zrulLn
 features: []
-genres: []
+first_released_as_single: false
 key: cherish-madonna
 lyrics_url: https://www.azlyrics.com/lyrics/madonna/cherish.html
 name: Cherish
@@ -67,8 +70,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1989-11-25'
+release_year: 1989
+runtime: 303493
 ---
-
 Cherish, cherish
 
 So tired of broken hearts and losing at this game 
@@ -181,6 +185,3 @@ Cherish the thought
 Cherish the joy 
 (Give me faith, give me joy, my boy I will always cherish you) 
 (Can't get away, can't get away)
-
-
-

@@ -1,10 +1,13 @@
 ---
+album: I Hope We Get To Love In Time
 artists:
 - Marilyn McCoo
 - Billy Davis
 - Jr.
+external_ids:
+  spotify: spotify:track:1rn2xCVnu5oIGFYUih6ubB
 features: []
-genres: []
+first_released_as_single: false
 key: your-love-marilyn-mccoo-billy-davis-jr-
 lyrics_url: https://www.musixmatch.com/lyrics/Marilyn-McCoo-Billy-Davis-Jr-2/Your-Love
 name: Your Love
@@ -53,6 +56,8 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '1977-05-28'
+release_year: 1976
+runtime: 231506
 ---
 YOUR LOVE
 Marilyn McCoo & Billy Davis

@@ -1,8 +1,11 @@
 ---
+album: 'New York Graffiti (1619-1750 Broadway: an Independent American Pop Story 1958-1968)'
 artists:
 - The Glencoves
+external_ids:
+  spotify: spotify:track:2rPcSFHVaiEkcFQzQZAO87
 features: []
-genres: []
+first_released_as_single: false
 key: hootenanny-the-glencoves
 lyrics_url: https://www.musixmatch.com/lyrics/The-Glencoves/Hootenanny
 name: Hootenanny
@@ -43,6 +46,8 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1963-08-10'
+release_year: 1963
+runtime: 129333
 ---
 There's gonna be a big
 Hootenanny, hootenanny

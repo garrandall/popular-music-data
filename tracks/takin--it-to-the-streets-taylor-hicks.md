@@ -1,8 +1,11 @@
 ---
+album: 10th Anniversary - The Hits - Volume 1
 artists:
 - Taylor Hicks
+external_ids:
+  spotify: spotify:track:2iDa1hBP4YvTB0lIOo4uDS
 features: []
-genres: []
+first_released_as_single: false
 key: takin--it-to-the-streets-taylor-hicks
 lyrics_url: https://www.azlyrics.com/lyrics/taylorhicks/takinittothestreets.html
 name: Takin' It To The Streets
@@ -23,8 +26,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2006-07-08'
+release_year: 2003
+runtime: 215026
 ---
-
 You don't know me, but I'm your brother,
 I was raised here in this living hell.
 You don't know my kind in your world,
@@ -52,4 +56,3 @@ Takin' it to the streets,
 Takin' it to the streets,
 Takin it to the streets,
 Takin it to the streets.
-

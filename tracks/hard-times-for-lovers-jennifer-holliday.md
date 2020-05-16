@@ -1,8 +1,11 @@
 ---
+album: '20th Century Masters: The Millennium Collection: Best Of Jennifer Holliday'
 artists:
 - Jennifer Holliday
+external_ids:
+  spotify: spotify:track:3pOQ0UppQmWwK286LzSty7
 features: []
-genres: []
+first_released_as_single: false
 key: hard-times-for-lovers-jennifer-holliday
 name: Hard Times For Lovers
 rankings:
@@ -34,5 +37,7 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1985-11-02'
+release_year: 1985
+runtime: 308200
 ---
 

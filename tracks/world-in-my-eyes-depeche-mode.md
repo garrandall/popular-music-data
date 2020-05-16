@@ -1,8 +1,11 @@
 ---
+album: Violator
 artists:
 - Depeche Mode
+external_ids:
+  spotify: spotify:track:2eeCKI2nq7c7h5Xm1HGDRe
 features: []
-genres: []
+first_released_as_single: true
 key: world-in-my-eyes-depeche-mode
 lyrics_url: https://www.azlyrics.com/lyrics/depechemode/worldinmyeyes.html
 name: World In My Eyes
@@ -47,8 +50,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1991-01-26'
+release_year: 1990
+runtime: 240333
 ---
-
 Let me take you on a trip
 Around the world and back
 And you won't have to move
@@ -84,6 +88,3 @@ Nothing more than you can touch now
 That's all there is
 
 Let me show you the world in my eyes
-
-
-

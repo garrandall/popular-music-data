@@ -1,8 +1,11 @@
 ---
+album: Luv Is Rage 2
 artists:
 - Lil Uzi Vert
+external_ids:
+  spotify: spotify:track:2bLOn2dOxUdemufJhLSoDK
 features: []
-genres: []
+first_released_as_single: false
 key: two-lil-uzi-vert
 lyrics_url: https://www.musixmatch.com/lyrics/Lil-Uzi-Vert/Two%C2%AE
 name: Two
@@ -11,6 +14,8 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '2017-09-16'
+release_year: 2017
+runtime: 185276
 ---
 Uzi... Uzi... not again!
 Uzi wake your ass up!

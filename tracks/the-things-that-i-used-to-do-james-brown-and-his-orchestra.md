@@ -1,8 +1,11 @@
 ---
+album: Showtime
 artists:
 - James Brown
+external_ids:
+  spotify: spotify:track:7wlDbkguLe4oOBfZuUzKNr
 features: []
-genres: []
+first_released_as_single: false
 key: the-things-that-i-used-to-do-james-brown-and-his-orchestra
 lyrics_url: https://www.musixmatch.com/lyrics/James-Brown/The-Things-That-I-Used-to-Do
 name: The Things That I Used To Do
@@ -11,6 +14,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1964-07-04'
+release_year: 1964
+runtime: 176266
 ---
 The things that I used to do
 Lord, I won't do no more

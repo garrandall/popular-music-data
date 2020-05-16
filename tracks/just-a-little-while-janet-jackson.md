@@ -1,8 +1,11 @@
 ---
+album: Damita Jo
 artists:
 - Janet Jackson
+external_ids:
+  spotify: spotify:track:5tpmCenLbM2lXo4Dxqrml4
 features: []
-genres: []
+first_released_as_single: false
 key: just-a-little-while-janet-jackson
 lyrics_url: https://www.azlyrics.com/lyrics/janetjackson/justalittlewhile.html
 name: Just A Little While
@@ -31,8 +34,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2004-03-27'
+release_year: 2004
+runtime: 253106
 ---
-
 Baby, I like it when it feels this good
 You always seem to make me smile
 Can't nobody do what you do
@@ -116,7 +120,3 @@ That you wanna go right now
 Just to love ya for a little while
 
 Just love me for a little while
-
-
-
-

@@ -1,9 +1,12 @@
 ---
+album: "The Best Of Sisq\xF3 20th Century Masters The Millennium Collection"
 artists:
 - DMX
+external_ids:
+  spotify: spotify:track:0xT3Fg571q1iFjLe897ZYX
 features:
 - Sisqo
-genres: []
+first_released_as_single: false
 key: what-you-want-dmx-sisqo
 lyrics_url: https://genius.com/Dmx-what-you-want-radio-edit-lyrics
 name: What You Want
@@ -88,6 +91,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2000-11-11'
+release_year: 2000
+runtime: 248653
 ---
 Uhh..
 DMX, Sisqo

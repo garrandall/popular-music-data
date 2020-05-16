@@ -1,8 +1,11 @@
 ---
+album: Grab It!
 artists:
 - L'Trimm
+external_ids:
+  spotify: spotify:track:7AOU7oaKRWHm5SG6IFVvtJ
 features: []
-genres: []
+first_released_as_single: false
 key: cars-with-the-boom-l-trimm
 lyrics_url: https://genius.com/Ltrimm-cars-with-the-boom-lyrics
 name: Cars With The Boom
@@ -67,6 +70,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1988-12-31'
+release_year: 1988
+runtime: 234373
 ---
 So many kinds where can we start
  we like them dumb and we like them smart

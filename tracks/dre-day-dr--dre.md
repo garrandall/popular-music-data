@@ -1,8 +1,11 @@
 ---
+album: The Chronic
 artists:
 - Dr. Dre
+external_ids:
+  spotify: spotify:track:04fX3oTJm5Zucg3Uf9aix0
 features: []
-genres: []
+first_released_as_single: false
 key: dre-day-dr--dre
 lyrics_url: https://genius.com/Dr-dre-fuck-wit-dre-day-remix-lyrics
 name: Dre Day
@@ -87,6 +90,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1993-09-25'
+release_year: 1992
+runtime: 292186
 ---
 Yeah, hell yeah, know what I'm sayin, yeah
 

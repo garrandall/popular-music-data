@@ -1,8 +1,11 @@
 ---
+album: Stay With Me Tonight
 artists:
 - Jeffrey Osborne
+external_ids:
+  spotify: spotify:track:0AXvsShBtCtMVx1kRPOu6T
 features: []
-genres: []
+first_released_as_single: false
 key: stay-with-me-tonight-jeffrey-osborne
 lyrics_url: https://www.azlyrics.com/lyrics/jeffreyosborne/staywithmetonight.html
 name: Stay With Me Tonight
@@ -91,8 +94,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1984-03-03'
+release_year: 1983
+runtime: 298533
 ---
-
 Another morning, you are on my mind,
 Takin' up my time through all the day.
 I try controllin' images I see
@@ -142,6 +146,3 @@ Oh, make me feel like a schoolboy, girl, oh
 Oh, the feeling is so right, please come hold me tight,
 Baby, stay with me tonight.
 Need you by my side, baby, stay with me tonight.
-
-
-

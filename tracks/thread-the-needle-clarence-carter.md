@@ -1,8 +1,11 @@
 ---
+album: This Is Clarence Carter
 artists:
 - Clarence Carter
+external_ids:
+  spotify: spotify:track:2vlXMXWgrqWgTmi0CtvZbS
 features: []
-genres: []
+first_released_as_single: false
 key: thread-the-needle-clarence-carter
 lyrics_url: https://genius.com/Clarence-carter-thread-the-needle-lyrics
 name: Thread The Needle
@@ -11,6 +14,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1967-06-24'
+release_year: 1967
+runtime: 157920
 ---
 Aww, you got to let
 Your hair hang down, mama

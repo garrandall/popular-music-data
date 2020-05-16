@@ -1,8 +1,11 @@
 ---
+album: Marv Johnson The Hits
 artists:
 - Marv Johnson
+external_ids:
+  spotify: spotify:track:38gnDo8rwH7VSZc8HcCMw6
 features: []
-genres: []
+first_released_as_single: false
 key: come-to-me-marv-johnson
 lyrics_url: https://genius.com/Marv-johnson-come-to-me-lyrics
 name: Come To Me
@@ -67,6 +70,8 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '1959-06-22'
+release_year: 1959
+runtime: 137680
 ---
 Yeah, Yeah uh-huh, oh yeah come on, little girl
 Yeah, Yeah

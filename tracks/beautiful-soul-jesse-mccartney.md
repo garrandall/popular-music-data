@@ -1,8 +1,11 @@
 ---
+album: Beautiful Soul
 artists:
 - Jesse McCartney
+external_ids:
+  spotify: spotify:track:1HwpWwa6bnqqRhK8agG4RS
 features: []
-genres: []
+first_released_as_single: false
 key: beautiful-soul-jesse-mccartney
 lyrics_url: https://genius.com/Jesse-mccartney-beautiful-soul-lyrics
 name: Beautiful Soul
@@ -87,6 +90,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '2005-04-23'
+release_year: 2004
+runtime: 214226
 ---
 I don't want another pretty face
 I don't want just anyone to hold

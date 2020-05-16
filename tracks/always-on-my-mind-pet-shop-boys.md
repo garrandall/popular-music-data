@@ -1,8 +1,11 @@
 ---
+album: 'Actually: Further Listening 1987 - 1988'
 artists:
 - Pet Shop Boys
+external_ids:
+  spotify: spotify:track:4Kr88522J5rlVaO9ZgCXGL
 features: []
-genres: []
+first_released_as_single: false
 key: always-on-my-mind-pet-shop-boys
 lyrics_url: https://www.azlyrics.com/lyrics/petshopboys/alwaysonmymind.html
 name: Always On My Mind
@@ -67,8 +70,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1988-07-02'
+release_year: 1987
+runtime: 493026
 ---
-
 Maybe I didn't treat you quite as good as I should
 Maybe I didn't love you quite as often as I could
 Little things I should've said and done, I never took the time
@@ -105,6 +109,3 @@ Maybe I didn't hold you all those lonely, lonely times
 And I guess I never told you, I'm so happy that you're mine
 
 (Maybe I didn't love you...)
-
-
-

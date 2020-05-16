@@ -1,8 +1,11 @@
 ---
+album: Pirates
 artists:
 - Rickie Lee Jones
+external_ids:
+  spotify: spotify:track:2ScFhA8p6gkIfLNjzK0fun
 features: []
-genres: []
+first_released_as_single: false
 key: a-lucky-guy-rickie-lee-jones
 lyrics_url: https://genius.com/Rickie-lee-jones-a-lucky-guy-lyrics
 name: A Lucky Guy
@@ -35,6 +38,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1981-11-14'
+release_year: 1981
+runtime: 249613
 ---
 Oh, he's a lucky guy
 Oh, he's a lucky guy

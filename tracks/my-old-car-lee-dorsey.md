@@ -1,8 +1,11 @@
 ---
+album: Ride Your Pony
 artists:
 - Lee Dorsey
+external_ids:
+  spotify: spotify:track:1VoXsGqFp6v1GYEgyabCnY
 features: []
-genres: []
+first_released_as_single: false
 key: my-old-car-lee-dorsey
 lyrics_url: https://genius.com/Lee-dorsey-my-old-car-lyrics
 name: My Old Car
@@ -11,6 +14,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1967-05-13'
+release_year: 1967
+runtime: 119426
 ---
 Twenty long miles from town
 My old car broke down

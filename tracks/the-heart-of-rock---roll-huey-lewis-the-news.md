@@ -1,8 +1,11 @@
 ---
+album: Sports
 artists:
 - Huey Lewis & The News
+external_ids:
+  spotify: spotify:track:0o4e5Tt4vorx2012FrGIjV
 features: []
-genres: []
+first_released_as_single: false
 key: the-heart-of-rock---roll-huey-lewis-the-news
 lyrics_url: https://www.azlyrics.com/lyrics/hueylewisthenews/theheartofrockroll.html
 name: The Heart Of Rock & Roll
@@ -87,8 +90,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1984-09-01'
+release_year: 1983
+runtime: 304920
 ---
-
 New York, New York, is everything they say
 And no place that I'd rather be
 Where else can you do a half a million things
@@ -133,6 +137,3 @@ But the heart of rock and roll, heart of rock and roll is still beating
 In Cleveland
 Detroit!
 Huh, heart of rock and roll
-
-
-

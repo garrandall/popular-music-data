@@ -1,8 +1,11 @@
 ---
+album: Chuck Berry In Memphis
 artists:
 - Chuck Berry
+external_ids:
+  spotify: spotify:track:3wrjnhpcQv9qRKEkeNgUND
 features: []
-genres: []
+first_released_as_single: false
 key: sweet-little-rock-and-roller-chuck-berry
 lyrics_url: https://genius.com/Chuck-berry-sweet-little-rock-and-roller-lyrics
 name: Sweet Little Rock And Roller
@@ -43,6 +46,8 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1959-01-05'
+release_year: 1958
+runtime: 134000
 ---
 At nine years old and sweet as she can be
 All dressed up like a downtown Christmas tree

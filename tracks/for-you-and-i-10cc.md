@@ -1,8 +1,11 @@
 ---
+album: Bloody Tourists
 artists:
 - 10cc
+external_ids:
+  spotify: spotify:track:5qCLWCkoX9EFpFmHZTSqsK
 features: []
-genres: []
+first_released_as_single: false
 key: for-you-and-i-10cc
 lyrics_url: https://genius.com/10cc-for-you-and-i-lyrics
 name: For You And I
@@ -19,6 +22,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1979-02-17'
+release_year: 1978
+runtime: 317026
 ---
 The world is full of other people (oh oh)
 Take a look around

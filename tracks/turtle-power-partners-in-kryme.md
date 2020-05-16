@@ -1,8 +1,11 @@
 ---
+album: 'Turtle Rhapsody: Orchestra On The Half Shell'
 artists:
 - Partners In Kryme
+external_ids:
+  spotify: spotify:track:25usUtSavyWTxx0UqPoxq7
 features: []
-genres: []
+first_released_as_single: true
 key: turtle-power-partners-in-kryme
 lyrics_url: https://www.musixmatch.com/lyrics/Partners-In-Kryme/Turtle-Power
 name: Turtle Power
@@ -71,6 +74,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1990-08-04'
+release_year: 1990
+runtime: 261600
 ---
 T-U-R-T-L-E power
 T-U-R-T-L-E power

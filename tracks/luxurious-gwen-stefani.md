@@ -1,8 +1,11 @@
 ---
+album: Love Angel Music Baby (Deluxe Version)
 artists:
 - Gwen Stefani
+external_ids:
+  spotify: spotify:track:3UQmoVQJqBYauTZLVPs3uo
 features: []
-genres: []
+first_released_as_single: false
 key: luxurious-gwen-stefani
 lyrics_url: https://www.azlyrics.com/lyrics/gwenstefani/luxurious.html
 name: Luxurious
@@ -87,8 +90,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2006-03-18'
+release_year: 2004
+runtime: 264920
 ---
-
 (c'est pas possible cet amour, c'est incroyable.
 Tu me fais transpirer, c'est parfait.)
 
@@ -149,6 +153,3 @@ Now we get to lay back
 (Tu est si jolie c'est pas possible. C'est jamais assez... c'est jamais assez.
 Tu me fais plein. Toutes les choses tu me fais sentir, c'est parfait.
 Je suis bien avec toi... je suis bien.)
-
-
-

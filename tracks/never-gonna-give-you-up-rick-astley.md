@@ -1,8 +1,11 @@
 ---
+album: Whenever You Need Somebody
 artists:
 - Rick Astley
+external_ids:
+  spotify: spotify:track:7GhIk7Il098yCjg4BQjzvb
 features: []
-genres: []
+first_released_as_single: false
 key: never-gonna-give-you-up-rick-astley
 lyrics_url: https://genius.com/Rick-astley-never-gonna-give-you-up-lyrics
 name: Never Gonna Give You Up
@@ -103,6 +106,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1988-05-28'
+release_year: 1987
+runtime: 212826
 ---
 We're no strangers to love
 You know the rules and so do I

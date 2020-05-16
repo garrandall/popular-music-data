@@ -1,8 +1,11 @@
 ---
+album: Dead Ringer
 artists:
 - Meat Loaf
+external_ids:
+  spotify: spotify:track:28M8ye4IcDAfw3sBFm7zC0
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-gonna-love-her-for-both-of-us-meat-loaf
 lyrics_url: https://genius.com/Meat-loaf-im-gonna-love-her-for-both-of-us-lyrics
 name: I'm Gonna Love Her For Both Of Us
@@ -19,6 +22,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1981-10-03'
+release_year: 1981
+runtime: 426733
 ---
 I can't stand to see it no more the way you're living with a
 Goddess

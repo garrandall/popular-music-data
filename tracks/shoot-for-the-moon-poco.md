@@ -1,8 +1,11 @@
 ---
+album: Ghost Town
 artists:
 - Poco
+external_ids:
+  spotify: spotify:track:4JuWSuPTxSWhxactc73T5X
 features: []
-genres: []
+first_released_as_single: false
 key: shoot-for-the-moon-poco
 lyrics_url: https://www.azlyrics.com/lyrics/poco/shootforthemoon.html
 name: Shoot For The Moon
@@ -59,8 +62,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1983-03-12'
+release_year: 1982
+runtime: 168773
 ---
-
 I hear tell it's far away
 And no one goes there now
 But if we set our sights you know
@@ -82,6 +86,3 @@ And seal it with a kiss
 There is no way we can miss...
 We'll shoot for the moon
 Shoot for the moon
-
-
-

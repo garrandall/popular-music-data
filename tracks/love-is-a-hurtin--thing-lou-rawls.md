@@ -1,8 +1,11 @@
 ---
+album: Legendary Lou Rawls
 artists:
 - Lou Rawls
+external_ids:
+  spotify: spotify:track:6vR08FrdLqK0hiC2Y75s4O
 features: []
-genres: []
+first_released_as_single: false
 key: love-is-a-hurtin--thing-lou-rawls
 lyrics_url: https://www.azlyrics.com/lyrics/lourawls/loveisahurtinthing.html
 name: Love Is A Hurtin' Thing
@@ -63,8 +66,9 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1966-12-10'
+release_year: 1966
+runtime: 134426
 ---
-
 For every little kiss there's a little teardrop
 For every single thrill there's another heartache
 The road is rough
@@ -88,6 +92,3 @@ I want you though I know that
 
 Love is a hurtin' thing
 Oh, love is a hurtin' thing
-
-
-

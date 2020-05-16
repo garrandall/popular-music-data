@@ -1,8 +1,11 @@
 ---
+album: Private Times... And The Whole 9!
 artists:
 - Al B. Sure!
+external_ids:
+  spotify: spotify:track:5nwBbnNL6D3o1aHAXtN7gA
 features: []
-genres: []
+first_released_as_single: false
 key: missunderstanding-al-b--sure-
 lyrics_url: https://genius.com/Al-b-sure-missunderstanding-lyrics
 name: Missunderstanding
@@ -63,6 +66,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1991-01-12'
+release_year: 1990
+runtime: 267240
 ---
 Yo, you Eddie check this out here
 Why is it every time I see your face

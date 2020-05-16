@@ -1,8 +1,11 @@
 ---
+album: Best Of The Fantastic Four
 artists:
 - The Fantastic Four
+external_ids:
+  spotify: spotify:track:3nTQYbmBGXgeZfgDVAcjAm
 features: []
-genres: []
+first_released_as_single: false
 key: the-whole-world-is-a-stage-the-fantastic-four
 lyrics_url: https://genius.com/Fantastic-four-the-whole-world-is-a-stage-lyrics
 name: The Whole World Is A Stage
@@ -43,6 +46,8 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '1967-05-20'
+release_year: 1967
+runtime: 175920
 ---
 Mmm hm
 

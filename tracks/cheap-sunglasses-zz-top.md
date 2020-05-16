@@ -1,8 +1,11 @@
 ---
+album: Live In Germany - Rockpalast 1980
 artists:
 - ZZ Top
+external_ids:
+  spotify: spotify:track:48SGPJYhQTdN7xztBqMgDc
 features: []
-genres: []
+first_released_as_single: false
 key: cheap-sunglasses-zz-top
 lyrics_url: https://www.azlyrics.com/lyrics/zztop/cheapsunglasses.html
 name: Cheap Sunglasses
@@ -15,8 +18,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1980-07-19'
+release_year: 1980
+runtime: 261120
 ---
-
 When you wake up in the morning and the light is hurt your head
 The first thing you do when you get up out of bed
 Is hit that streets a-runnin' and try to meet the masses
@@ -37,6 +41,3 @@ And the choice is up to you 'cause they come in two classes
 Rhinestone shades and cheap sunglasses
 
 Oh yeah, oh yeah, oh yeah
-
-
-

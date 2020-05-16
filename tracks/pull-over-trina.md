@@ -1,8 +1,11 @@
 ---
+album: Da Baddest B***h
 artists:
 - Trina
+external_ids:
+  spotify: spotify:track:6M33HiUHLC3R3gfXYNGMAy
 features: []
-genres: []
+first_released_as_single: false
 key: pull-over-trina
 lyrics_url: https://genius.com/Trina-pull-over-lyrics
 name: Pull Over
@@ -23,6 +26,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2000-09-30'
+release_year: 2000
+runtime: 194025
 ---
 Whoop!
 Huh?

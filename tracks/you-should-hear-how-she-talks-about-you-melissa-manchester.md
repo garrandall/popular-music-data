@@ -1,8 +1,11 @@
 ---
+album: Hey Ricky
 artists:
 - Melissa Manchester
+external_ids:
+  spotify: spotify:track:3mYh6egfMyl0Dek8r9ciK6
 features: []
-genres: []
+first_released_as_single: false
 key: you-should-hear-how-she-talks-about-you-melissa-manchester
 lyrics_url: https://www.azlyrics.com/lyrics/melissamanchester/youshouldhearhowshetalksaboutyou.html
 name: You Should Hear How She Talks About You
@@ -107,8 +110,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1982-11-06'
+release_year: 1982
+runtime: 256386
 ---
-
 She's so very nice you should break the ice
 Let her know that she's on your mind
 Whatcha tryin' to hide when you know inside
@@ -174,6 +178,3 @@ You should hear how she talks about you
 She just can't get enough
 She says she would be lost without you
 She is really in love
-
-
-

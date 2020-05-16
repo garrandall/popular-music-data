@@ -1,8 +1,11 @@
 ---
+album: Open Up And Say...Ahh!
 artists:
 - Poison
+external_ids:
+  spotify: spotify:track:2V8KvnD5LVeeDChMWEkSzC
 features: []
-genres: []
+first_released_as_single: false
 key: nothin--but-a-good-time-poison
 lyrics_url: https://genius.com/Poison-nothin-but-a-good-time-live-lyrics
 name: Nothin' But A Good Time
@@ -83,6 +86,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1988-08-27'
+release_year: 1988
+runtime: 224866
 ---
 Nothin' but a good fuckin' day, rock it
 Now listen

@@ -1,10 +1,13 @@
 ---
+album: Original Soundtrack from Season 1 of Empire
 artists:
 - Empire Cast
+external_ids:
+  spotify: spotify:track:4jPYWplZcF6kAfHZ885EUS
 features:
 - Jussie Smollett
 - Yazz
-genres: []
+first_released_as_single: false
 key: you-re-so-beautiful-empire-cast-jussie-smollett-yazz
 lyrics_url: https://genius.com/Empire-cast-youre-so-beautiful-remake-lyrics
 name: You're So Beautiful
@@ -25,6 +28,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2015-04-04'
+release_year: 2015
+runtime: 213906
 ---
 Sometimes you feel insecure
 Trust me babe I understand (straight up forreal)

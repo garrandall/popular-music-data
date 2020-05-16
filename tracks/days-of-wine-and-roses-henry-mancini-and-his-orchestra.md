@@ -1,8 +1,11 @@
 ---
+album: The Essential Henry Mancini
 artists:
 - Henry Mancini
+external_ids:
+  spotify: spotify:track:4pzh0gTcdwTaExRgU6uLgL
 features: []
-genres: []
+first_released_as_single: false
 key: days-of-wine-and-roses-henry-mancini-and-his-orchestra
 lyrics_url: https://genius.com/Henry-mancini-the-days-of-wine-and-roses-lyrics
 name: Days Of Wine And Roses
@@ -79,6 +82,8 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '1963-05-25'
+release_year: 1958
+runtime: 127093
 ---
 The days of wine and roses laugh and run away like a child at play
 Through a meadow land toward a closing door

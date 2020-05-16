@@ -1,8 +1,11 @@
 ---
+album: Philly Steps
 artists:
 - The People's Choice
+external_ids:
+  spotify: spotify:track:5OjwOwfDW50y0gaNbNEZn8
 features: []
-genres: []
+first_released_as_single: false
 key: i-likes-to-do-it-the-people-s-choice
 name: I Likes To Do It
 rankings:
@@ -46,5 +49,7 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '1971-09-25'
+release_year: 1971
+runtime: 428813
 ---
 

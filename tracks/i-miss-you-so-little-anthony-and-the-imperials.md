@@ -1,8 +1,11 @@
 ---
+album: Goin' Out Of My Head
 artists:
 - Little Anthony And The Imperials
+external_ids:
+  spotify: spotify:track:0w1WLpTV3jtC6GJcSRFUDU
 features: []
-genres: []
+first_released_as_single: false
 key: i-miss-you-so-little-anthony-and-the-imperials
 lyrics_url: https://genius.com/Little-anthony-and-the-imperials-i-miss-you-so-lyrics
 name: I Miss You So
@@ -35,6 +38,8 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '1965-11-13'
+release_year: 1964
+runtime: 157093
 ---
 Those happy hours I spend with you
 That lovely afterglow

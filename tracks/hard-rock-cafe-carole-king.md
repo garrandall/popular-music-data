@@ -1,8 +1,11 @@
 ---
+album: In Concert
 artists:
 - Carole King
+external_ids:
+  spotify: spotify:track:5DGZEUC1PZrOxRZc6YSshW
 features: []
-genres: []
+first_released_as_single: false
 key: hard-rock-cafe-carole-king
 lyrics_url: https://www.azlyrics.com/lyrics/caroleking/hardrockcafe.html
 name: Hard Rock Cafe
@@ -51,8 +54,9 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '1977-10-01'
+release_year: 1977
+runtime: 307400
 ---
-
 Downtown anywhere USA
 You can find yourself a Hard Rock Cafe
 Put your money on a number, anyone can play
@@ -77,6 +81,3 @@ You know the door is always open
 At the Hard Rock Cafe, come to the Hard Rock Cafe
 They will help keep your blues at bay
 At the Hard Rock Cafe
-
-
-

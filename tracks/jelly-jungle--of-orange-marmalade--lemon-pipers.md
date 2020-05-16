@@ -1,8 +1,11 @@
 ---
+album: Jungle Marmalade
 artists:
 - Lemon Pipers
+external_ids:
+  spotify: spotify:track:1FubJmhgn2HDDCAmJM80OO
 features: []
-genres: []
+first_released_as_single: false
 key: jelly-jungle--of-orange-marmalade--lemon-pipers
 lyrics_url: https://genius.com/The-lemon-pipers-jelly-jungle-of-orange-marmalade-lyrics-lyrics
 name: Jelly Jungle (Of Orange Marmalade)
@@ -27,6 +30,8 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '1968-06-15'
+release_year: 1968
+runtime: 143293
 ---
 If you're looking for a sunshine boy
 Come with me I can give you some

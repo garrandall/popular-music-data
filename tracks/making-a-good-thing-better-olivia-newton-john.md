@@ -1,8 +1,11 @@
 ---
+album: Making A Good Thing Better
 artists:
 - Olivia Newton-John
+external_ids:
+  spotify: spotify:track:3Z4rZQnJkYuLbM2INyo1P2
 features: []
-genres: []
+first_released_as_single: false
 key: making-a-good-thing-better-olivia-newton-john
 lyrics_url: https://www.azlyrics.com/lyrics/olivianewtonjohn/makingagoodthingbetter.html
 name: Making A Good Thing Better
@@ -23,8 +26,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1977-07-09'
+release_year: 1977
+runtime: 225853
 ---
-
 Although I know our love is going strong
 Little surprises kind of help it along
 We mustn't let our lives become routine
@@ -69,6 +73,3 @@ You'll see
 Making a good thing better
 That's the way we're gonna stay together
 You and me
-
-
-

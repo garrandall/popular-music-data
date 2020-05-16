@@ -1,9 +1,12 @@
 ---
+album: The Am-fm Blues (Their Very Best)
 artists:
 - Cashman
 - West
+external_ids:
+  spotify: spotify:track:10uFwm8Jk3vEgvQdF2iwEL
 features: []
-genres: []
+first_released_as_single: false
 key: american-city-suite-cashman-west
 lyrics_url: https://www.musixmatch.com/lyrics/Cashman-West/American-City-Suite
 name: American City Suite
@@ -52,6 +55,8 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '1972-12-02'
+release_year: 1972
+runtime: 649691
 ---
 People going, coming
 Traffic always humming

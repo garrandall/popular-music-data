@@ -1,8 +1,11 @@
 ---
+album: Blue Hawaii
 artists:
 - Billy Vaughn
+external_ids:
+  spotify: spotify:track:53LYRp9hLdpaffCkE08HE6
 features: []
-genres: []
+first_released_as_single: false
 key: blue-hawaii-billy-vaughn-and-his-orchestra
 lyrics_url: https://genius.com/Billy-vaughn-blue-hawaii-lyrics
 name: Blue Hawaii
@@ -47,6 +50,8 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1959-03-02'
+release_year: 1958
+runtime: 124373
 ---
 Night and you and Blue Hawaii
 The night is heavenly and you are heaven to me

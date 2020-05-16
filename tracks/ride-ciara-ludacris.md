@@ -1,9 +1,12 @@
 ---
+album: Basic Instinct
 artists:
 - Ciara
+external_ids:
+  spotify: spotify:track:74tQlvf38pBkIPeYEIIPCn
 features:
 - Ludacris
-genres: []
+first_released_as_single: true
 key: ride-ciara-ludacris
 lyrics_url: https://genius.com/Ciara-ride-lyrics
 name: Ride
@@ -88,6 +91,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '2010-09-18'
+release_year: 2010
+runtime: 326440
 ---
 Ciara, uh-huh
 Catch me in the mall, you know I buy it out

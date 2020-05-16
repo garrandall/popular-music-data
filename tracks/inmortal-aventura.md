@@ -1,8 +1,11 @@
 ---
+album: Utopia
 artists:
 - Aventura
+external_ids:
+  spotify: spotify:track:2swZ0X1njeU32SNJeBKIfW
 features: []
-genres: []
+first_released_as_single: false
 key: inmortal-aventura
 lyrics_url: https://genius.com/Aventura-inmortal-lyrics
 name: Inmortal
@@ -11,6 +14,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2019-04-20'
+release_year: 2019
+runtime: 256440
 ---
 Tu grupo favorito
 

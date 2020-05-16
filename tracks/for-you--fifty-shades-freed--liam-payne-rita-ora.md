@@ -1,9 +1,12 @@
 ---
+album: LP1
 artists:
 - Liam Payne
 - Rita Ora
+external_ids:
+  spotify: spotify:track:66xn6tB8s3l8uhj02OGneE
 features: []
-genres: []
+first_released_as_single: false
 key: for-you--fifty-shades-freed--liam-payne-rita-ora
 lyrics_url: https://www.azlyrics.com/lyrics/liampayne/foryou.html
 name: For You (Fifty Shades Freed)
@@ -20,9 +23,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2018-03-03'
+release_year: 2018
+runtime: 245453
 ---
-
-
 In your eyes I'm alive
 Inside you're beautiful
 Something so unusual
@@ -83,6 +86,3 @@ For love 'til I found you
 
 Wasn't lookin' for love 'til I found you (ohna, na, ay)
 For love 'til I found you
-
-
-

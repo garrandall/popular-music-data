@@ -1,8 +1,11 @@
 ---
+album: Always
 artists:
 - Patsy Cline
+external_ids:
+  spotify: spotify:track:079KGSkR9v94t2OE6pefSt
 features: []
-genres: []
+first_released_as_single: false
 key: faded-love-patsy-cline
 lyrics_url: https://www.azlyrics.com/lyrics/patsycline/fadedlove.html
 name: Faded Love
@@ -19,8 +22,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1963-09-21'
+release_year: 1963
+runtime: 224133
 ---
-
 As I look at the letters that you wrote to me
 It's you that I am thinking of
 As I read the lines, that to me were so dear
@@ -41,6 +45,3 @@ As Heaven would miss the stars above
 With every heartbeat, I still think of you
 And remember our faded love
 And remember our faded love
-
-
-

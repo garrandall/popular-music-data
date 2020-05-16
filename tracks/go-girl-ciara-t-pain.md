@@ -1,9 +1,12 @@
 ---
+album: Go Girl
 artists:
 - Ciara
+external_ids:
+  spotify: spotify:track:3VFR7lXtbxQvcYnTIc6sdB
 features:
 - T-Pain
-genres: []
+first_released_as_single: true
 key: go-girl-ciara-t-pain
 lyrics_url: https://www.azlyrics.com/lyrics/ciara/gogirl.html
 name: Go Girl
@@ -12,9 +15,9 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '2008-10-18'
+release_year: 2008
+runtime: 235666
 ---
-
-
 This is nappy boy radio, live back with ya boy T-Pain
 You already know what it is man
 I got something special for the ladies out here
@@ -117,6 +120,3 @@ Please let me know, if you really want mo'
 I can take it to the flo'
 Sit back, relax, enjoy the show,
 Call me baby I can be your Go-Girl
-
-
-

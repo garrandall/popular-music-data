@@ -1,8 +1,11 @@
 ---
+album: Oh My My
 artists:
 - OneRepublic
+external_ids:
+  spotify: spotify:track:4TN1ThsU5yuQe4bUhAsVcU
 features: []
-genres: []
+first_released_as_single: true
 key: wherever-i-go-onerepublic
 lyrics_url: https://genius.com/Onerepublic-wherever-i-go-lyrics
 name: Wherever I Go
@@ -55,6 +58,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2016-08-20'
+release_year: 2016
+runtime: 297520
 ---
 I know I could lie but I’m telling the truth
 Wherever I go there’s a shadow of you

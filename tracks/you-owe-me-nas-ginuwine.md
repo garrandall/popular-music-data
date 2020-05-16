@@ -1,9 +1,12 @@
 ---
+album: Nastradamus
 artists:
 - NAS
+external_ids:
+  spotify: spotify:track:2VqjCBJ4AxpDTrNRKhL0Pw
 features:
 - Ginuwine
-genres: []
+first_released_as_single: false
 key: you-owe-me-nas-ginuwine
 lyrics_url: https://www.azlyrics.com/lyrics/nas/youoweme.html
 name: You Owe Me
@@ -72,9 +75,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2000-07-08'
+release_year: 1999
+runtime: 287906
 ---
-
-
 Uh, it's real, it's real, it's real
 Uh, uh, owe me back, uh shorty
 Shorty, what up, huh?
@@ -182,6 +185,3 @@ You can hold my ice
 Now let's say you owe
 You owe us something, baby
 Oh, oh, oh
-
-
-

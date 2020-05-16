@@ -1,8 +1,11 @@
 ---
+album: Brown Sugar
 artists:
 - D'Angelo
+external_ids:
+  spotify: spotify:track:7AjfklMN4WpQYz5FkT4E66
 features: []
-genres: []
+first_released_as_single: false
 key: lady-d-angelo
 lyrics_url: https://genius.com/Dangelo-lady-lyrics
 name: Lady
@@ -87,6 +90,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1996-07-13'
+release_year: 1995
+runtime: 346266
 ---
 You're my lady
 You're my lady

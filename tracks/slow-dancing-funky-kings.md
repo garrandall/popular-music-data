@@ -1,8 +1,11 @@
 ---
+album: Funky Kings
 artists:
 - Funky Kings
+external_ids:
+  spotify: spotify:track:39mQRZBaeYd31Y9uTE1i5h
 features: []
-genres: []
+first_released_as_single: false
 key: slow-dancing-funky-kings
 name: Slow Dancing
 rankings:
@@ -50,5 +53,7 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '1977-01-15'
+release_year: 1976
+runtime: 228040
 ---
 

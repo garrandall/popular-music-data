@@ -1,8 +1,11 @@
 ---
+album: Fireflies (U.S. Release)
 artists:
 - Faith Hill
+external_ids:
+  spotify: spotify:track:2TmD4OyEl5WyhXR6wIia6m
 features: []
-genres: []
+first_released_as_single: false
 key: sunshine-and-summertime-faith-hill
 lyrics_url: https://www.azlyrics.com/lyrics/faithhill/sunshineandsummertime.html
 name: Sunshine And Summertime
@@ -47,8 +50,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2006-09-30'
+release_year: 2005
+runtime: 207173
 ---
-
 We've got barefoot ladies and tricked out mercedes
 And people getting crazy on the boulevard
 We've got classic colas and ice cold corona's
@@ -72,4 +76,3 @@ Hey everybody can't you feel the rhythm now
 Hey everybody don't you want to party
 Hey everybody can't you feel the rhythm now
 Hey everybody don't you wanna party
-

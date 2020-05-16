@@ -1,8 +1,11 @@
 ---
+album: The Girl From Chickasaw County - The Complete Capitol Masters
 artists:
 - Bobbie Gentry
+external_ids:
+  spotify: spotify:track:0XCCBf8JPyHT5dJyu9f0R2
 features: []
-genres: []
+first_released_as_single: false
 key: apartment-21-bobbie-gentry
 lyrics_url: https://www.azlyrics.com/lyrics/bobbiegentry/apartment21.html
 name: Apartment 21
@@ -31,8 +34,9 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1970-08-15'
+release_year: 1970
+runtime: 201306
 ---
-
 Rain on my Sunday shoes
 Pick up the daily news
 Looks like tomorrows blues
@@ -85,6 +89,3 @@ And wait fir the autumn wind
 To blow me away
 
 La la la
-
-
-

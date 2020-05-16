@@ -1,8 +1,11 @@
 ---
+album: A Love Story
 artists:
 - Vivian Green
+external_ids:
+  spotify: spotify:track:7IsSXaTgBu8ChPx9jLgx28
 features: []
-genres: []
+first_released_as_single: false
 key: emotional-rollercoaster-vivian-green
 lyrics_url: https://www.azlyrics.com/lyrics/viviangreen/emotionalrollercoaster.html
 name: Emotional Rollercoaster
@@ -83,9 +86,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2003-06-21'
+release_year: 2002
+runtime: 196373
 ---
-
-
 Last night I cried tossed and turned, woke up with dry eyes.
 My mind was racing, feet were pacing.
 Lord help me please tell me what I have gotten into.
@@ -137,6 +140,3 @@ It's emotional roller coaster,
 Loving you ain't nothing healthy,
 Loving you was never good for me,
 But I can't get off.
-
-
-

@@ -1,9 +1,12 @@
 ---
+album: My Thoughts
 artists:
 - Avant
+external_ids:
+  spotify: spotify:track:1y2wM4Qxn27EOsQnhHYA3Q
 features:
 - KeKe Wyatt
-genres: []
+first_released_as_single: false
 key: my-first-love-avant-keke-wyatt
 lyrics_url: https://www.azlyrics.com/lyrics/avant/myfirstlove.html
 name: My First Love
@@ -88,9 +91,9 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '2001-03-17'
+release_year: 2000
+runtime: 268515
 ---
-
-
 Silhouette of a perfect frame
 Shadows of your smile, will always remain (always remain)
 Beginners love, soon fades away ah baby
@@ -155,6 +158,3 @@ you will always be
 my, oh lady
 
 oh babe
-
-
-

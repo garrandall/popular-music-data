@@ -1,8 +1,11 @@
 ---
+album: Sweetener
 artists:
 - Ariana Grande
+external_ids:
+  spotify: spotify:track:0SQIUoCxtaKpEYK0C5jJSw
 features: []
-genres: []
+first_released_as_single: false
 key: no-tears-left-to-cry-ariana-grande
 lyrics_url: https://genius.com/Ariana-grande-no-tears-left-to-cry-lyrics
 name: No Tears Left To Cry
@@ -115,6 +118,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2018-11-03'
+release_year: 2018
+runtime: 205946
 ---
 Right now, I'm in a state of mind
 I wanna be in like all the time

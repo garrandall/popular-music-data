@@ -1,8 +1,11 @@
 ---
+album: Individually & Collectively
 artists:
 - The 5th Dimension
+external_ids:
+  spotify: spotify:track:00nCUS4wDMiWZqmpDj1b1S
 features: []
-genres: []
+first_released_as_single: false
 key: -last-night--i-didn-t-get-to-sleep-at-all-the-5th-dimension
 lyrics_url: https://genius.com/The-5th-dimension-last-night-i-didnt-get-to-sleep-at-all-lyrics
 name: (Last Night) I Didn't Get To Sleep At All
@@ -71,6 +74,8 @@ rankings:
   rank: 33
   ranking_list: Billboard Hot 100
   start_date: '1972-07-15'
+release_year: 1972
+runtime: 191466
 ---
 Last night, I didn't get to sleep at all, no, no
 I lay awake and watched until the morning light

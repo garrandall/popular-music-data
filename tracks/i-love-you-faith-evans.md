@@ -1,8 +1,11 @@
 ---
+album: Faithfully
 artists:
 - Faith Evans
+external_ids:
+  spotify: spotify:track:6gsmFgUiSTuinJlScwFODv
 features: []
-genres: []
+first_released_as_single: false
 key: i-love-you-faith-evans
 lyrics_url: https://genius.com/Faith-evans-i-love-you-lyrics
 name: I Love You
@@ -91,6 +94,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2002-06-15'
+release_year: 2001
+runtime: 267160
 ---
 My heart belongs to you
 So what could I do

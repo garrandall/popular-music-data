@@ -1,8 +1,11 @@
 ---
+album: The Duke Of Earl
 artists:
 - Gene Chandler
+external_ids:
+  spotify: spotify:track:6Hy22YDN9HJMRlJP1LwnJy
 features: []
-genres: []
+first_released_as_single: false
 key: duke-of-earl-gene-chandler
 lyrics_url: https://genius.com/Gene-chandler-duke-of-earl-lyrics
 name: Duke Of Earl
@@ -67,6 +70,8 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '1962-04-21'
+release_year: 1962
+runtime: 147841
 ---
 Duke, Duke, Duke, Duke of Earl
 Duke, Duke, Duke of Earl
@@ -118,7 +123,7 @@ Du-hoo-hoo-oo-uke
 Du-hoo-hoo-uke
 So, whoa, whoa, ho-whoa
 
-FADES-
+
 Woo-hoo-hoo-hoo
 
 Duke, Duke, Duke of Earl

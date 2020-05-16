@@ -1,8 +1,11 @@
 ---
+album: One-Trick Pony
 artists:
 - Paul Simon
+external_ids:
+  spotify: spotify:track:6daemhQH963YVeQYws6tMG
 features: []
-genres: []
+first_released_as_single: false
 key: one-trick-pony-paul-simon
 lyrics_url: https://www.azlyrics.com/lyrics/paulsimon/onetrickpony.html
 name: One-Trick Pony
@@ -51,8 +54,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1981-01-03'
+release_year: 1980
+runtime: 233680
 ---
-
 He's a one trick pony
 One trick is all that horse can do
 he does one trick only
@@ -100,6 +104,3 @@ One-trick pony, one trick pony
 One-trick pony, one trick pony
 One-trick pony (take me for a ride)
 One trick pony
-
-
-

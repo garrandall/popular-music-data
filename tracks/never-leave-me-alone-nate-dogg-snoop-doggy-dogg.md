@@ -1,9 +1,12 @@
 ---
+album: G Funk Classics, Vols. 1 & 2
 artists:
 - Nate Dogg
+external_ids:
+  spotify: spotify:track:6lah2pPQVdTsfoMSHkyYmn
 features:
 - Snoop Doggy Dogg
-genres: []
+first_released_as_single: false
 key: never-leave-me-alone-nate-dogg-snoop-doggy-dogg
 lyrics_url: https://www.azlyrics.com/lyrics/natedogg/neverleavemealone.html
 name: Never Leave Me Alone
@@ -84,10 +87,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1997-03-15'
+release_year: 1996
+runtime: 360506
 ---
-
-
-
 Never Leave me alone (never leave me alone)
 Leave me alone (never leave me alone)
 never leave me alone (Never leave me aloooone)
@@ -139,4 +141,3 @@ So keep away better yet stay away
 And hope I get out one day, OK
 But if I don't I guess this is home
 My girl is trippin she got a block on the phone
-

@@ -1,8 +1,11 @@
 ---
+album: Every 1's a Winner
 artists:
 - Hot Chocolate
+external_ids:
+  spotify: spotify:track:5MXXbGYNmRHR7ULMvZYo5R
 features: []
-genres: []
+first_released_as_single: false
 key: every-1-s-a-winner-hot-chocolate
 lyrics_url: https://www.musixmatch.com/lyrics/Hot-Chocolate/Every-1-s-a-Winner
 name: Every 1's A Winner
@@ -79,6 +82,8 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1979-03-10'
+release_year: 1978
+runtime: 289266
 ---
 Never could believe the things you do to me
 Never could believe the way you are

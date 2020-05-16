@@ -1,8 +1,11 @@
 ---
+album: Da Real World
 artists:
 - Missy Elliott
+external_ids:
+  spotify: spotify:track:6xbMd2P2B9Iey7iVyqsgtX
 features: []
-genres: []
+first_released_as_single: false
 key: she-s-a-bitch-missy--misdemeanor--elliott
 lyrics_url: https://www.musixmatch.com/lyrics/Missy-Misdemeanor-Elliott-2/She-s-A-Bitch
 name: She's A Bitch
@@ -31,6 +34,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1999-06-26'
+release_year: 1998
+runtime: 240880
 ---
 To The M-I Prrrrrrrr, Cat Like A Semi
 Nigga Stole My Car, Why'nt You Get My

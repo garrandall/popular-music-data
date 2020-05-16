@@ -1,8 +1,11 @@
 ---
+album: Live From Clear Channel Stripped 2008
 artists:
 - Taylor Swift
+external_ids:
+  spotify: spotify:track:69o9kr9UexjzeZDE8yD8dQ
 features: []
-genres: []
+first_released_as_single: false
 key: change-taylor-swift
 lyrics_url: https://genius.com/Taylor-swift-change-lyrics
 name: Change
@@ -19,6 +22,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2008-09-13'
+release_year: 2008
+runtime: 258487
 ---
 And it's a sad picture, the final blow hits you
 Somebody else gets what you wanted again and

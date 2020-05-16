@@ -1,8 +1,11 @@
 ---
+album: At Last!
 artists:
 - Etta James
+external_ids:
+  spotify: spotify:track:4Hhv2vrOTy89HFRcjU3QOx
 features: []
-genres: []
+first_released_as_single: false
 key: at-last-etta-james
 lyrics_url: https://genius.com/Etta-james-at-last-lyrics
 name: At Last
@@ -39,6 +42,8 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '1961-03-06'
+release_year: 1960
+runtime: 179693
 ---
 I was never spellbound by a starry sky
 What is there to moon glow, when love has passed you by

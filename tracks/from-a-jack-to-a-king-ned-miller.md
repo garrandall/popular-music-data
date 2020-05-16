@@ -1,8 +1,11 @@
 ---
+album: Listen To A Country Song
 artists:
 - Ned Miller
+external_ids:
+  spotify: spotify:track:6PXVBzMd43Wj4lHoPfVpHI
 features: []
-genres: []
+first_released_as_single: false
 key: from-a-jack-to-a-king-ned-miller
 lyrics_url: https://genius.com/Ned-miller-from-a-jack-to-a-king-lyrics
 name: From A Jack To A King
@@ -59,6 +62,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1963-03-23'
+release_year: 1962
+runtime: 127386
 ---
 From a Jack to a King
 From loneliness to a wedding ring

@@ -1,8 +1,11 @@
 ---
+album: No Holding Back
 artists:
 - Wayne Wonder
+external_ids:
+  spotify: spotify:track:2CXp6AwGLGZVkFNZabX8cC
 features: []
-genres: []
+first_released_as_single: false
 key: no-letting-go-wayne-wonder
 lyrics_url: https://genius.com/Wayne-wonder-no-letting-go-lyrics
 name: No Letting Go
@@ -131,6 +134,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2003-08-09'
+release_year: 2002
+runtime: 204693
 ---
 Got somebody, she's a beauty
 Very special, really and truly

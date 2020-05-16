@@ -1,8 +1,11 @@
 ---
+album: The Tarantino Connection
 artists:
 - George Baker Selection
+external_ids:
+  spotify: spotify:track:4DR5MStkWtDYf17jBUOo0V
 features: []
-genres: []
+first_released_as_single: false
 key: little-green-bag-george-baker-selection
 lyrics_url: https://genius.com/George-baker-selection-little-green-bag-lyrics
 name: Little Green Bag
@@ -59,6 +62,8 @@ rankings:
   rank: 36
   ranking_list: Billboard Hot 100
   start_date: '1970-06-13'
+release_year: 1970
+runtime: 195333
 ---
 {Intro}
 Yeah

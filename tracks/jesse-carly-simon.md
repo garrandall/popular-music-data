@@ -1,8 +1,11 @@
 ---
+album: Come Upstairs
 artists:
 - Carly Simon
+external_ids:
+  spotify: spotify:track:2ifpWVChV5iLsHozrX6IHQ
 features: []
-genres: []
+first_released_as_single: false
 key: jesse-carly-simon
 lyrics_url: https://www.azlyrics.com/lyrics/carlysimon/jesse.html
 name: Jesse
@@ -99,8 +102,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1981-01-03'
+release_year: 1980
+runtime: 259599
 ---
-
 Oh mother, say a prayer for me
 Jesse's back in town, it won't be easy
 Don't let him near me
@@ -147,6 +151,3 @@ Jesse, I'll always make the wine cold for you
 Jesse, I will change the sheets for you
 Put on cologne
 And I will wait by the phone for you - Oh Jesse!
-
-
-

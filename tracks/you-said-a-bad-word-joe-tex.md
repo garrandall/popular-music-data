@@ -1,8 +1,11 @@
 ---
+album: The Very Best of, Volume 2.
 artists:
 - Joe Tex
+external_ids:
+  spotify: spotify:track:0SRGvCCx8hnONo8Ktj7doL
 features: []
-genres: []
+first_released_as_single: false
 key: you-said-a-bad-word-joe-tex
 lyrics_url: https://genius.com/Joe-tex-you-said-a-bad-word-lyrics
 name: You Said A Bad Word
@@ -39,6 +42,8 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1972-07-08'
+release_year: 1969
+runtime: 152586
 ---
 Ah, you said a bad word
 I'm gonna tell your mama on you, huh

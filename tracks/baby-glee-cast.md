@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music, Volume 2'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:10wtO5a10JiUL5Ws7IvgKQ
 features: []
-genres: []
+first_released_as_single: false
 key: baby-glee-cast
 lyrics_url: https://genius.com/Glee-cast-baby-lyrics
 name: Baby
@@ -11,6 +14,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '2011-03-05'
+release_year: 2009
+runtime: 165306
 ---
 You know you love me, I know you care
 Just shout whenever, and I'll be there

@@ -1,9 +1,12 @@
 ---
+album: 'B.O.A.T.S. II #METIME'
 artists:
 - 2 Chainz
+external_ids:
+  spotify: spotify:track:07RXBKfyCYIYRMLCvlGWXU
 features:
 - Pharrell
-genres: []
+first_released_as_single: false
 key: feds-watching-2-chainz-pharrell
 lyrics_url: https://genius.com/2-chainz-feds-watching-lyrics
 name: Feds Watching
@@ -60,6 +63,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2013-10-12'
+release_year: 2013
+runtime: 247013
 ---
 Uh, oh, oh, oh
 Tomorrow, tomorrow

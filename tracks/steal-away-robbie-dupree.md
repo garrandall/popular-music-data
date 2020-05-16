@@ -1,8 +1,11 @@
 ---
+album: Robbie Dupree
 artists:
 - Robbie Dupree
+external_ids:
+  spotify: spotify:track:7v5rsCN3LhX9XaIlWyTdx3
 features: []
-genres: []
+first_released_as_single: false
 key: steal-away-robbie-dupree
 lyrics_url: https://genius.com/Robbie-dupree-steal-away-lyrics
 name: Steal Away
@@ -99,6 +102,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1980-09-13'
+release_year: 1980
+runtime: 213973
 ---
 Come on and hold me
 Just like you told me

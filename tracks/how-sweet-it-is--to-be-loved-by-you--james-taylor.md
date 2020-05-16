@@ -1,8 +1,11 @@
 ---
+album: Gorilla
 artists:
 - James Taylor
+external_ids:
+  spotify: spotify:track:75Nlnd9AJ4CYrLXgWGsuTF
 features: []
-genres: []
+first_released_as_single: false
 key: how-sweet-it-is--to-be-loved-by-you--james-taylor
 lyrics_url: https://www.azlyrics.com/lyrics/jamestaylor/howsweetitistobelovedbyyou.html
 name: How Sweet It Is (To Be Loved By You)
@@ -67,8 +70,9 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1975-09-27'
+release_year: 1975
+runtime: 216386
 ---
-
 How sweet it is to be loved by you. How sweet it is to be loved by you.
 
 I needed the shelter of someone's arms and there you were.
@@ -90,6 +94,3 @@ how sweet it is to be loved by you. How sweet it is to be loved by you.
 Feels so fine, how sweet it is to be loved by you.
 Just like jelly baby, oh yeah, how sweet it is to be loved by you.
 Just like honey to the bee, babe, how sweet it is to be loved by you.
-
-
-

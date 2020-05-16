@@ -1,8 +1,11 @@
 ---
+album: Third Stage
 artists:
 - Boston
+external_ids:
+  spotify: spotify:track:7bMo7aljgbqpiOMSkwgkEN
 features: []
-genres: []
+first_released_as_single: false
 key: can-tcha-say--you-believe-in-me--boston
 lyrics_url: https://genius.com/Boston-cantcha-say-you-believe-in-me-lyrics
 name: Can'tcha Say (You Believe In Me)
@@ -59,6 +62,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1987-05-30'
+release_year: 1986
+runtime: 312772
 ---
 Can't you say you believe in me?
 Can't you see what you mean to me?

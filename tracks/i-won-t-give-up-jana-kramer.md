@@ -1,8 +1,11 @@
 ---
+album: Jana Kramer
 artists:
 - Jana Kramer
+external_ids:
+  spotify: spotify:track:3ALUfg1ISMMi1c38tOKk9E
 features: []
-genres: []
+first_released_as_single: false
 key: i-won-t-give-up-jana-kramer
 lyrics_url: https://genius.com/Jana-kramer-i-wont-give-up-lyrics
 name: I Won't Give Up
@@ -11,6 +14,8 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '2011-02-26'
+release_year: 2011
+runtime: 198053
 ---
 Don’t tell me love is something you won’t try again
 That’s just not true

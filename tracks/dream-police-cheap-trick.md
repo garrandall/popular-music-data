@@ -1,8 +1,11 @@
 ---
+album: Dream Police
 artists:
 - Cheap Trick
+external_ids:
+  spotify: spotify:track:1ZLSPIwweUaH1aes3bJoyZ
 features: []
-genres: []
+first_released_as_single: false
 key: dream-police-cheap-trick
 lyrics_url: https://www.azlyrics.com/lyrics/cheaptrick/dreampolice.html
 name: Dream Police
@@ -47,8 +50,9 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1979-12-08'
+release_year: 1977
+runtime: 233333
 ---
-
 The dream police, they live inside of my head
 The dream police, they come to me in my bed
 The dream police, they're coming to arrest me, oh, no
@@ -99,6 +103,3 @@ The dream police (police, police)
 The dream police (police, police)
 The dream police (police, police)
 The dream police (police, police)
-
-
-

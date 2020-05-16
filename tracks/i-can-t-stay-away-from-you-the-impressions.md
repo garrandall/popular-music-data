@@ -1,8 +1,11 @@
 ---
+album: The Fabulous Impressions
 artists:
 - The Impressions
+external_ids:
+  spotify: spotify:track:7LDJyykhZ6K3V7ryhl1lhY
 features: []
-genres: []
+first_released_as_single: false
 key: i-can-t-stay-away-from-you-the-impressions
 lyrics_url: https://genius.com/The-impressions-i-cant-stay-away-from-you-lyrics
 name: I Can't Stay Away From You
@@ -23,6 +26,8 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '1967-09-23'
+release_year: 1967
+runtime: 166466
 ---
 I can't stay away from you
 No, I can't stay away from you

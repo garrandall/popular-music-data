@@ -1,8 +1,11 @@
 ---
+album: The Sisters
 artists:
 - Sister Sledge
+external_ids:
+  spotify: spotify:track:5VLIYi0Oxh4Gat2crMoDE1
 features: []
-genres: []
+first_released_as_single: false
 key: my-guy-sister-sledge
 lyrics_url: https://www.azlyrics.com/lyrics/sistersledge/myguy.html
 name: My Guy
@@ -67,8 +70,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1982-05-08'
+release_year: 1982
+runtime: 226026
 ---
-
 Nothing you could say could tear me away from my guy,
 (My guy)
 Nothing you could do 'cause I'm stuck like glue to my guy.
@@ -108,6 +112,3 @@ No muscle-bound man could take my hand from my guy.
 No handsome face could ever take the place of my guy.
 (My guy)
 He may not be a movie star, but when it comes to bein' happy we are.
-
-
-

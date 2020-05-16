@@ -1,8 +1,11 @@
 ---
+album: It's Magic
 artists:
 - Barbara Lewis
+external_ids:
+  spotify: spotify:track:5wp9Z8VwNN0USErAjkyBUh
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-forget-about-me-barbara-lewis
 lyrics_url: https://www.musixmatch.com/lyrics/Barbara-Lewis/Don-t-Forget-About-Me
 name: Don't Forget About Me
@@ -19,6 +22,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1966-02-12'
+release_year: 1966
+runtime: 153960
 ---
 Baby, I know you've got to go
 I have no right

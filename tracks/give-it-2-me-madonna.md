@@ -1,8 +1,11 @@
 ---
+album: Hard Candy
 artists:
 - Madonna
+external_ids:
+  spotify: spotify:track:6G7d2cbkZSaAOE0H6K1ohb
 features: []
-genres: []
+first_released_as_single: false
 key: give-it-2-me-madonna
 lyrics_url: https://genius.com/Madonna-give-it-2-me-lyrics
 name: Give It 2 Me
@@ -11,6 +14,8 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '2008-05-17'
+release_year: 2008
+runtime: 287906
 ---
 What are you waiting for?
 Nobody's gonna show you how

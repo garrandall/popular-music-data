@@ -1,8 +1,11 @@
 ---
+album: Herman's Hermits Retrospective
 artists:
 - Herman's Hermits
+external_ids:
+  spotify: spotify:track:3QzPRTZ6hocM2nTZYkdIq7
 features: []
-genres: []
+first_released_as_single: false
 key: there-s-a-kind-of-hush-herman-s-hermits
 lyrics_url: https://genius.com/Hermans-hermits-theres-a-kind-of-hush-lyrics
 name: There's A Kind Of Hush
@@ -55,6 +58,8 @@ rankings:
   rank: 26
   ranking_list: Billboard Hot 100
   start_date: '1967-04-29'
+release_year: 1966
+runtime: 153453
 ---
 There's a kind of hush
 All over the world tonight

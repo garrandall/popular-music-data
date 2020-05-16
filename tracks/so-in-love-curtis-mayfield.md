@@ -1,8 +1,11 @@
 ---
+album: There's No Place Like America Today
 artists:
 - Curtis Mayfield
+external_ids:
+  spotify: spotify:track:7gmB6hVMsv0XbjfiTgpATI
 features: []
-genres: []
+first_released_as_single: false
 key: so-in-love-curtis-mayfield
 lyrics_url: https://genius.com/Curtis-mayfield-so-in-love-lyrics
 name: So In Love
@@ -35,6 +38,8 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1975-11-08'
+release_year: 1975
+runtime: 314226
 ---
 So in love
 You do so many things with a smilin' face

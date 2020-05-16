@@ -1,8 +1,11 @@
 ---
+album: Ultimate Oldies & Goodies - One Hit Wonders of the 50s & 60s
 artists:
 - The Music Explosion
+external_ids:
+  spotify: spotify:track:5RvHBonRc1HfpOlf8jpA2L
 features: []
-genres: []
+first_released_as_single: false
 key: little-bit-o--soul-the-music-explosion
 lyrics_url: https://genius.com/The-music-explosion-little-bit-osoul-lyrics
 name: Little Bit O' Soul
@@ -71,6 +74,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1967-08-26'
+release_year: 1967
+runtime: 141840
 ---
 Now when you're feelin' low and the fish won't bite
 You need a little bit o' soul to put you right

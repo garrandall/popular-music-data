@@ -1,8 +1,11 @@
 ---
+album: The Best of Joni James
 artists:
 - Joni James
+external_ids:
+  spotify: spotify:track:6KlIVOvGff0w9TaC9NWCiQ
 features: []
-genres: []
+first_released_as_single: false
 key: there-must-be-a-way-joni-james
 lyrics_url: https://genius.com/Joni-james-there-must-be-a-way-lyrics
 name: There Must Be A Way
@@ -55,6 +58,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1959-04-06'
+release_year: 1959
+runtime: 156440
 ---
 There must be a way to help me forget that we're through
 There must be a way to stop me from dreamin' of you

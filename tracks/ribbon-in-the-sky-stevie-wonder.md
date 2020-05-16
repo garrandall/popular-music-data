@@ -1,8 +1,11 @@
 ---
+album: Original Musiquarium
 artists:
 - Stevie Wonder
+external_ids:
+  spotify: spotify:track:1Y5B1vvFDia8MtyM16UgnN
 features: []
-genres: []
+first_released_as_single: false
 key: ribbon-in-the-sky-stevie-wonder
 lyrics_url: https://genius.com/Stevie-wonder-ribbon-in-the-sky-lyrics
 name: Ribbon In The Sky
@@ -35,6 +38,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1982-11-06'
+release_year: 1982
+runtime: 337066
 ---
 Oh so long for this night I prayed
 That a star would guide you my way

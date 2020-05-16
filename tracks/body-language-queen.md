@@ -1,8 +1,11 @@
 ---
+album: Hot Space (Deluxe Remastered Version)
 artists:
 - Queen
+external_ids:
+  spotify: spotify:track:3vbJYObr73CV6nRtvk5cHf
 features: []
-genres: []
+first_released_as_single: false
 key: body-language-queen
 lyrics_url: https://genius.com/Queen-body-language-lyrics
 name: Body Language
@@ -63,6 +66,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1982-07-31'
+release_year: 1981
+runtime: 272640
 ---
 Give me, body
 Give me, body (body)

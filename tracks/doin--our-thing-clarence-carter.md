@@ -1,8 +1,11 @@
 ---
+album: Testifyin'
 artists:
 - Clarence Carter
+external_ids:
+  spotify: spotify:track:22t9iuxxXPGYuRZ0R0Mgej
 features: []
-genres: []
+first_released_as_single: false
 key: doin--our-thing-clarence-carter
 lyrics_url: https://genius.com/Clarence-carter-doin-our-thing-lyrics
 name: Doin' Our Thing
@@ -43,6 +46,8 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '1969-11-22'
+release_year: 1969
+runtime: 148320
 ---
 Aww, get down with it
 Baby, please don't quit it

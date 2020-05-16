@@ -1,8 +1,11 @@
 ---
+album: Brook Benton
 artists:
 - Brook Benton
+external_ids:
+  spotify: spotify:track:7mwEjKw40PG5ofGEQgHjED
 features: []
-genres: []
+first_released_as_single: false
 key: for-my-baby-brook-benton
 lyrics_url: https://genius.com/Brook-benton-for-my-baby-lyrics
 name: For My Baby
@@ -39,6 +42,8 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1961-03-27'
+release_year: 1961
+runtime: 184970
 ---
 When you see me smile
 I'm smilin' for my baby

@@ -1,10 +1,13 @@
 ---
+album: Climate Change
 artists:
 - Pitbull
+external_ids:
+  spotify: spotify:track:2q95XoeFGixx8b5LNF6Ey1
 features:
 - Flo Rida
 - LunchMoney Lewis
-genres: []
+first_released_as_single: true
 key: greenlight-pitbull-flo-rida-lunchmoney-lewis
 lyrics_url: https://www.azlyrics.com/lyrics/pitbull/greenlight.html
 name: Greenlight
@@ -25,9 +28,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2016-12-10'
+release_year: 2016
+runtime: 244173
 ---
-
-
 Red light, green light
 Everybody take a shot
 Red light, green light
@@ -143,6 +146,3 @@ Cause I'm ready to go, oh, oh, oh
 Wee-oh, wee-oh, wee-oh, wee-oh, oh, oh
 (Right now, right now)
 Give me the green light
-
-
-

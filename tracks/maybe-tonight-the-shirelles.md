@@ -1,8 +1,11 @@
 ---
+album: 28 Big Ones
 artists:
 - The Shirelles
+external_ids:
+  spotify: spotify:track:24alFTlojUXE1jincxplR6
 features: []
-genres: []
+first_released_as_single: false
 key: maybe-tonight-the-shirelles
 lyrics_url: https://www.musixmatch.com/lyrics/The-Shirelles/Maybe-Tonight
 name: Maybe Tonight
@@ -15,6 +18,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1964-11-07'
+release_year: 1964
+runtime: 186400
 ---
 (All through the lonely day, I pray with all my might
 And then once more I say, maybe, maybe tonight)

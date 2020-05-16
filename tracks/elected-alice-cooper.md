@@ -1,8 +1,11 @@
 ---
+album: Billion Dollar Babies (Deluxe Reissue)
 artists:
 - Alice Cooper
+external_ids:
+  spotify: spotify:track:6avV0X27a8FKFbX8JOdHbc
 features: []
-genres: []
+first_released_as_single: false
 key: elected-alice-cooper
 lyrics_url: https://www.azlyrics.com/lyrics/alicecooper/elected.html
 name: Elected
@@ -39,8 +42,9 @@ rankings:
   rank: 33
   ranking_list: Billboard Hot 100
   start_date: '1972-11-25'
+release_year: 1972
+runtime: 248040
 ---
-
 I'm your top prime cut of meat, I'm your choice
 I wanna be elected
 I'm your yankee doodle dandy in a gold Rolls Royce
@@ -61,6 +65,3 @@ You and me together, young and strong
 We're gonna be elected, elected, elected
 Respected, selected, call collected
 I wanna be elected, elected
-
-
-

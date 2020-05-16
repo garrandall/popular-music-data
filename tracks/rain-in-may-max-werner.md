@@ -1,8 +1,11 @@
 ---
+album: Not The Opera
 artists:
 - Max Werner
+external_ids:
+  spotify: spotify:track:3G9jX6EYnEODkDPB5Bv6A9
 features: []
-genres: []
+first_released_as_single: true
 key: rain-in-may-max-werner
 lyrics_url: https://genius.com/Max-werner-rain-in-may-lyrics
 name: Rain In May
@@ -31,6 +34,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1981-06-20'
+release_year: 1981
+runtime: 218279
 ---
 Feeling down when the Autumn has come
 Stormy days and the leaves keep on falling

@@ -1,8 +1,11 @@
 ---
+album: Keep On Dancing
 artists:
 - The Gentrys
+external_ids:
+  spotify: spotify:track:6Y93DEf2OkUgksFCGHr8Zx
 features: []
-genres: []
+first_released_as_single: false
 key: everyday-i-have-to-cry-the-gentrys
 lyrics_url: https://www.musixmatch.com/lyrics/The-Gentrys/Everyday-I-Have-to-Cry
 name: Everyday I Have To Cry
@@ -27,6 +30,8 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1966-06-11'
+release_year: 1965
+runtime: 132133
 ---
 (CHORUS)
 Every day I have to cry some

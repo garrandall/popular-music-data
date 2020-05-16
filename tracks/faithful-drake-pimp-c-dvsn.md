@@ -1,10 +1,13 @@
 ---
+album: Views
 artists:
 - Drake
+external_ids:
+  spotify: spotify:track:2qLcJOLrh6Djda4uLbldSA
 features:
 - Pimp C
 - dvsn
-genres: []
+first_released_as_single: false
 key: faithful-drake-pimp-c-dvsn
 lyrics_url: https://www.azlyrics.com/lyrics/drake/faithfulextendedversion.html
 name: Faithful
@@ -17,8 +20,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2016-06-04'
+release_year: 2016
+runtime: 290133
 ---
-
 Check, 1-2, 1-2, bitch
 You expensive, you know that?
 I'm high maintenance a little bit but not in a
@@ -150,6 +154,3 @@ Make sure, make sure (I need you to cum)
 Make sure, make sure (told you to leave)
 You know I gotta make sure, gotta make sure (need you to know)
 Make sure, make sure (cum before me)
-
-
-

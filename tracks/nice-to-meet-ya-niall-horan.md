@@ -1,8 +1,11 @@
 ---
+album: NOW That's What I Call Music! Vol. 73
 artists:
 - Niall Horan
+external_ids:
+  spotify: spotify:track:3cphb8kdsjElYR7r5icK3H
 features: []
-genres: []
+first_released_as_single: true
 key: nice-to-meet-ya-niall-horan
 lyrics_url: https://www.azlyrics.com/lyrics/niallhoran/nicetomeetya.html
 name: Nice To Meet Ya
@@ -63,8 +66,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2020-01-25'
+release_year: 2019
+runtime: 158805
 ---
-
 I like the way you talk
 I like the things you wear
 I want your number tattooed
@@ -123,6 +127,3 @@ Let me treat you to a drink
 (I got love for you, I got love for you)
 
 Nice to meet ya
-
-
-

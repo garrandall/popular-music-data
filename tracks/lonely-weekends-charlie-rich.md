@@ -1,8 +1,11 @@
 ---
+album: Lonely Weekends
 artists:
 - Charlie Rich
+external_ids:
+  spotify: spotify:track:5NTSEHKXOPJl8Jf1FIdAof
 features: []
-genres: []
+first_released_as_single: false
 key: lonely-weekends-charlie-rich
 lyrics_url: https://genius.com/Charlie-rich-lonely-weekends-lyrics
 name: Lonely Weekends
@@ -91,6 +94,8 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '1960-08-01'
+release_year: 1960
+runtime: 126109
 ---
 Well I'm making alright (Well I'm making alright)
 From Monday morning till Friday night

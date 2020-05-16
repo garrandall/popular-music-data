@@ -1,8 +1,11 @@
 ---
+album: Baby Workout
 artists:
 - Jackie Wilson
+external_ids:
+  spotify: spotify:track:2SnzwEu9uB9VGCx8Faj97j
 features: []
-genres: []
+first_released_as_single: false
 key: baby-workout-jackie-wilson
 lyrics_url: https://www.azlyrics.com/lyrics/jackiewilson/babyworkout.html
 name: Baby Workout
@@ -55,8 +58,9 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '1963-05-25'
+release_year: 1963
+runtime: 182413
 ---
-
 Hey, you!
 Come out here on the floor.
 Let's rock some more.
@@ -111,6 +115,3 @@ Work out, baby!
 Work out woman!
 Shout and turn the joint out!
 Work out, work out, baby, baby...
-
-
-

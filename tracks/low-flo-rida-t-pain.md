@@ -1,9 +1,12 @@
 ---
+album: Mail on Sunday
 artists:
 - Flo Rida
+external_ids:
+  spotify: spotify:track:0CAfXk7DXMnon4gLudAp7J
 features:
 - T-Pain
-genres: []
+first_released_as_single: false
 key: low-flo-rida-t-pain
 lyrics_url: https://www.azlyrics.com/lyrics/florida/low.html
 name: Low
@@ -168,9 +171,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2008-08-09'
+release_year: 2007
+runtime: 231400
 ---
-
-
 Mmm
 Let me talk to 'em
 Let me talk to 'em
@@ -271,7 +274,7 @@ I had to handle that
 I was on it, sexy woman
 Let me showing and made me want it
 Two in the morning I'm zoning
-And them RosÃ© bottles foaming
+And them Rosé bottles foaming
 She wouldn't stop
 Made it drop
 Shawty did that pop and lock
@@ -293,6 +296,3 @@ Next thing you know
 Shawty got low, low, low, low, low, low, low, low
 
 C'mon
-
-
-

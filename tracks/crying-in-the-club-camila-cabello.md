@@ -1,8 +1,11 @@
 ---
+album: Crying in the Club
 artists:
 - Camila Cabello
+external_ids:
+  spotify: spotify:track:1SJtlNRJDeYHioymcvsqev
 features: []
-genres: []
+first_released_as_single: true
 key: crying-in-the-club-camila-cabello
 lyrics_url: https://www.azlyrics.com/lyrics/camilacabello/cryingintheclub.html
 name: Crying In The Club
@@ -43,8 +46,9 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '2017-08-05'
+release_year: 2017
+runtime: 216391
 ---
-
 You think that you'll die without him
 You know that's a lie that you tell yourself
 You fear that you'll lay alone forever now
@@ -117,6 +121,3 @@ I won't, I won't, I
 Ain't no crying in the club (ain't no crying, no crying, no crying, no)
 I won't, I won't, I
 Ain't no crying in the club
-
-
-

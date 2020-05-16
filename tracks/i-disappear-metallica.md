@@ -1,8 +1,11 @@
 ---
+album: Mission Impossible 2
 artists:
 - Metallica
+external_ids:
+  spotify: spotify:track:5pm9KMOwgmvvCuuzdKB8c2
 features: []
-genres: []
+first_released_as_single: false
 key: i-disappear-metallica
 lyrics_url: https://www.azlyrics.com/lyrics/metallica/idisappear.html
 name: I Disappear
@@ -87,8 +90,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2000-09-23'
+release_year: 2000
+runtime: 266293
 ---
-
 Hey Hey Hey
 Here I go now
 Here I go into new days
@@ -146,6 +150,3 @@ Do you bury me when I'm gone
 Do you teach me while I'm here
 Just as soon as I belong
 Then it's time I disappear
-
-
-

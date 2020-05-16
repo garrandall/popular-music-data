@@ -1,8 +1,11 @@
 ---
+album: The Rose
 artists:
 - Bette Midler
+external_ids:
+  spotify: spotify:track:5VAb9PUHC2VgVtyjWAatsb
 features: []
-genres: []
+first_released_as_single: false
 key: when-a-man-loves-a-woman-bette-midler
 lyrics_url: https://www.azlyrics.com/lyrics/bettemidler/whenamanlovesawoman.html
 name: When A Man Loves A Woman
@@ -47,8 +50,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1980-03-22'
+release_year: 1979
+runtime: 299600
 ---
-
 When he held me in his arms,
 when he held me in his arms and said,
 "Baby, baby, baby, you are the only one for me."
@@ -98,6 +102,3 @@ Baby, baby, this is a man's world.
 No, no.
 Oh, baby, change has got to come
 in this man's world.
-
-
-

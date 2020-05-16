@@ -1,9 +1,12 @@
 ---
+album: '!!!Going Places!!!'
 artists:
 - Herb Alpert
 - The Tijuana Brass
+external_ids:
+  spotify: spotify:track:0fmNiN85g1XF1NemAGY7G2
 features: []
-genres: []
+first_released_as_single: false
 key: spanish-flea-herb-alpert-the-tijuana-brass
 name: Spanish Flea
 rankings:
@@ -35,5 +38,7 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '1966-04-30'
+release_year: 1965
+runtime: 126893
 ---
 

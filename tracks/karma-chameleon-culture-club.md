@@ -1,8 +1,11 @@
 ---
+album: Colour By Numbers
 artists:
 - Culture Club
+external_ids:
+  spotify: spotify:track:2wSAWEYUHkt92X4SBAPqZE
 features: []
-genres: []
+first_released_as_single: false
 key: karma-chameleon-culture-club
 lyrics_url: https://genius.com/Culture-club-karma-chameleon-lyrics
 name: Karma Chameleon
@@ -95,6 +98,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1984-04-28'
+release_year: 1983
+runtime: 252773
 ---
 There's a loving in your eyes all the way
 If I listened to your lies, would you say

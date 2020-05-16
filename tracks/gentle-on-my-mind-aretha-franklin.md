@@ -1,8 +1,11 @@
 ---
+album: Soul '69
 artists:
 - Aretha Franklin
+external_ids:
+  spotify: spotify:track:6hIdxA1AVsqCqyGrjK1iie
 features: []
-genres: []
+first_released_as_single: false
 key: gentle-on-my-mind-aretha-franklin
 lyrics_url: https://genius.com/Aretha-franklin-gentle-on-my-mind-lyrics
 name: Gentle On My Mind
@@ -19,6 +22,8 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1969-05-24'
+release_year: 1969
+runtime: 148906
 ---
 It’s knowing that your door is always open
 And your path is free to walk (free to walk, free to walk, free to walk, free to walk)

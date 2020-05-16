@@ -1,8 +1,11 @@
 ---
+album: Vinton
 artists:
 - Bobby Vinton
+external_ids:
+  spotify: spotify:track:1SZ3qtkpb6qWSGQLgDajNz
 features: []
-genres: []
+first_released_as_single: false
 key: to-know-you-is-to-love-you-bobby-vinton
 lyrics_url: https://genius.com/Bobby-vinton-to-know-you-is-to-love-you-lyrics
 name: To Know You Is To Love You
@@ -35,6 +38,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1969-05-17'
+release_year: 1969
+runtime: 138733
 ---
 Why can't you see?
 Oh, how blind can you be?

@@ -1,8 +1,11 @@
 ---
+album: Mind Of Mine
 artists:
 - Zayn
+external_ids:
+  spotify: spotify:track:3Tluzy27Qdbe8aRK2OCQf3
 features: []
-genres: []
+first_released_as_single: true
 key: pillowtalk-zayn
 lyrics_url: https://genius.com/Zayn-pillowtalk-lyrics
 name: Pillowtalk
@@ -103,6 +106,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2016-07-30'
+release_year: 2016
+runtime: 145250
 ---
 Climb on board
 We'll go slow and high tempo

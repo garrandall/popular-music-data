@@ -1,8 +1,11 @@
 ---
+album: Livingston Taylor
 artists:
 - Livingston Taylor
+external_ids:
+  spotify: spotify:track:5uggkxEBEH2X3sEMKponuF
 features: []
-genres: []
+first_released_as_single: false
 key: carolina-day-livingston-taylor
 lyrics_url: https://genius.com/Livingston-taylor-carolina-day-lyrics
 name: Carolina Day
@@ -15,6 +18,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1971-02-13'
+release_year: 1970
+runtime: 188093
 ---
 *Carolina Day gonna rise up sometime
 Give me good align said a reason and rhyme

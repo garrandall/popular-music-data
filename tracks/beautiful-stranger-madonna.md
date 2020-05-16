@@ -1,8 +1,11 @@
 ---
+album: Celebration (Bonus Track Version)
 artists:
 - Madonna
+external_ids:
+  spotify: spotify:track:4jRaFkR8dBYwbKXryAI29a
 features: []
-genres: []
+first_released_as_single: false
 key: beautiful-stranger-madonna
 lyrics_url: https://genius.com/Madonna-beautiful-stranger-lyrics
 name: Beautiful Stranger
@@ -83,6 +86,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1999-10-16'
+release_year: 1999
+runtime: 261866
 ---
 Haven't we met?
 You're some kind of beautiful stranger

@@ -1,10 +1,13 @@
 ---
+album: Funk Wav Bounces Vol.1
 artists:
 - Calvin Harris
+external_ids:
+  spotify: spotify:track:0pJPdSVti6cTM1Q6xYGmcf
 features:
 - Kehlani
 - Lil Yachty
-genres: []
+first_released_as_single: false
 key: faking-it-calvin-harris-kehlani-lil-yachty
 lyrics_url: https://www.azlyrics.com/lyrics/calvinharris/fakingit.html
 name: Faking It
@@ -25,9 +28,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2017-12-30'
+release_year: 2017
+runtime: 240093
 ---
-
-
 Pray to God, but I'm feeling like he's going deaf
 Now when I lean on you and I got nothing left
 Hey, I've been wanting to call you
@@ -110,6 +113,3 @@ I didn't know she could get that high
 But she killed that
 Go Lani
 Go Lani
-
-
-

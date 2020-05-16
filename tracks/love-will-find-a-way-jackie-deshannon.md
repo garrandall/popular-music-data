@@ -1,8 +1,11 @@
 ---
+album: Put A Little Love In Your Heart
 artists:
 - Jackie DeShannon
+external_ids:
+  spotify: spotify:track:2GoT7BpTTnJFgXnQI5cdIL
 features: []
-genres: []
+first_released_as_single: false
 key: love-will-find-a-way-jackie-deshannon
 lyrics_url: https://genius.com/Jackie-deshannon-love-will-find-a-way-lyrics
 name: Love Will Find A Way
@@ -39,6 +42,8 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '1969-12-20'
+release_year: 1969
+runtime: 158813
 ---
 There can be a new tomorrow
 There can be a brighter day

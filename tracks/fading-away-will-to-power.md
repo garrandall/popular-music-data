@@ -1,8 +1,11 @@
 ---
+album: Will To Power
 artists:
 - Will To Power
+external_ids:
+  spotify: spotify:track:1dThcjprzvo7LGEf4x7UB7
 features: []
-genres: []
+first_released_as_single: false
 key: fading-away-will-to-power
 lyrics_url: https://www.musixmatch.com/lyrics/Will-to-Power/Fading-Away
 name: Fading Away
@@ -47,6 +50,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1989-04-08'
+release_year: 1988
+runtime: 239933
 ---
 Oh, I want you near me
 Your touch is silver and your eyes are blue

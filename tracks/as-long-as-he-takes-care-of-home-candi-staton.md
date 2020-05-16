@@ -1,8 +1,11 @@
 ---
+album: Candi
 artists:
 - Candi Staton
+external_ids:
+  spotify: spotify:track:27fNasCrjuT7ZpBrZOhSg4
 features: []
-genres: []
+first_released_as_single: false
 key: as-long-as-he-takes-care-of-home-candi-staton
 lyrics_url: https://www.azlyrics.com/lyrics/candistaton/aslongashetakescareofhome.html
 name: As Long As He Takes Care Of Home
@@ -31,8 +34,9 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '1975-02-01'
+release_year: 1974
+runtime: 201000
 ---
-
 Just wait a minute, honey
 I've got some rap for you
 
@@ -116,6 +120,3 @@ He knows how to groove me
 Oh, baby (oh, yeah)
 He knows how to take care of home
 (Taking care of home)
-
-
-

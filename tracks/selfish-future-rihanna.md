@@ -1,9 +1,12 @@
 ---
+album: HNDRXX
 artists:
 - Future
+external_ids:
+  spotify: spotify:track:766xKGpJZ3dYwoUFgLyFJD
 features:
 - Rihanna
-genres: []
+first_released_as_single: false
 key: selfish-future-rihanna
 lyrics_url: https://www.azlyrics.com/lyrics/future/selfish.html
 name: Selfish
@@ -48,9 +51,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2017-05-20'
+release_year: 2017
+runtime: 251422
 ---
-
-
 Oh, yeah
 
 It was right
@@ -114,6 +117,3 @@ Let's be selfish
 Let's be
 Let's be selfish
 (Yeah, yeah)
-
-
-

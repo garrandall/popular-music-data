@@ -1,8 +1,11 @@
 ---
+album: The Great Lost Performance
 artists:
 - Johnny Cash
+external_ids:
+  spotify: spotify:track:1XCI4X1r6aTdCpBzCEQKWb
 features: []
-genres: []
+first_released_as_single: false
 key: tennessee-flat-top-box-johnny-cash
 lyrics_url: https://www.azlyrics.com/lyrics/johnnycash/tennesseeflattopbox.html
 name: Tennessee Flat-Top Box
@@ -31,8 +34,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1961-12-18'
+release_year: 1954
+runtime: 178333
 ---
-
 In a little cabaret in a South Texas border town,
 Sat a boy and his guitar, and the people came from all around. 
 And all the girls from there to Austin,
@@ -58,7 +62,4 @@ And hung around the cabaret until the doors were locked.
 And then one day on the Hit Parade,
 Was a little dark-haired boy who played the Tennessee flat top box.
 
-And he would play: 
-
-
-
+And he would play:

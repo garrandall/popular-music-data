@@ -1,8 +1,11 @@
 ---
+album: This Girl's in Love with You
 artists:
 - Aretha Franklin
+external_ids:
+  spotify: spotify:track:2wBf6PGWOMrrAykBmxIF9X
 features: []
-genres: []
+first_released_as_single: false
 key: share-your-love-with-me-aretha-franklin
 lyrics_url: https://www.azlyrics.com/lyrics/arethafranklin/shareyourlovewithme.html
 name: Share Your Love With Me
@@ -47,8 +50,9 @@ rankings:
   rank: 31
   ranking_list: Billboard Hot 100
   start_date: '1969-10-04'
+release_year: 1969
+runtime: 201906
 ---
-
 It's an evil wind
 That blows no good air
 It's a sad heart
@@ -114,6 +118,3 @@ If you don't share
 Share your love with me
 Share your love with me
 Come on bab - ay
-
-
-

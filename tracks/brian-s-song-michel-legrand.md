@@ -1,8 +1,11 @@
 ---
+album: Recorded Live at Jimmy's
 artists:
 - Michel Legrand
+external_ids:
+  spotify: spotify:track:1Y7H76CNkI5Gscbj240Cee
 features: []
-genres: []
+first_released_as_single: false
 key: brian-s-song-michel-legrand
 lyrics_url: https://genius.com/Michel-legrand-brians-song-lyrics
 name: Brian's Song
@@ -39,5 +42,7 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1972-03-18'
+release_year: 1972
+runtime: 381226
 ---
 Instrumental

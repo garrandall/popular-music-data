@@ -1,9 +1,12 @@
 ---
+album: Lupe Fiasco's The Cool
 artists:
 - Lupe Fiasco
+external_ids:
+  spotify: spotify:track:7dltD9eEX7X1zk8JJ9BS0e
 features:
 - Matthew Santos
-genres: []
+first_released_as_single: false
 key: superstar-lupe-fiasco-matthew-santos
 lyrics_url: https://www.azlyrics.com/lyrics/lupefiasco/superstar.html
 name: Superstar
@@ -88,9 +91,9 @@ rankings:
   rank: 36
   ranking_list: Billboard Hot 100
   start_date: '2008-05-10'
+release_year: 2007
+runtime: 289000
 ---
-
-
 If you are what you say you are, a superstar
 Then have no fear, the camera is here
 And the microphones
@@ -179,6 +182,3 @@ And they want a show, oh oh oh, yeah
 
 If you are, what you say you are
 Then have no fear
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Romance 1600
 artists:
 - Sheila E.
+external_ids:
+  spotify: spotify:track:5R6ol4f8WCUCWNrB7Ymf99
 features: []
-genres: []
+first_released_as_single: false
 key: a-love-bizarre-sheila-e-
 lyrics_url: https://www.azlyrics.com/lyrics/sheilae/alovebizarre.html
 name: A Love Bizarre
@@ -99,8 +102,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1986-04-19'
+release_year: 1985
+runtime: 736862
 ---
-
 A B, A B C D
 
 The moon up above, it shines down upon our skin
@@ -162,6 +166,3 @@ That's what we are, we all want a love bizarre
 That's what we are, we all want a love bizarre
 That's what we are, we all want a love bizarre
 That's what we are, we all want a love bizarre
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: My World
 artists:
 - Justin Bieber
+external_ids:
+  spotify: spotify:track:69ghzc538EQSVon2Gm3wrr
 features: []
-genres: []
+first_released_as_single: false
 key: one-less-lonely-girl-justin-bieber
 lyrics_url: https://www.azlyrics.com/lyrics/justinbieber/onelesslonelygirl.html
 name: One Less Lonely Girl
@@ -71,8 +74,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2010-02-13'
+release_year: 2009
+runtime: 229106
 ---
-
 Alright, let's go
 
 There's gonna be one less lonely girl
@@ -189,6 +193,3 @@ If you let me inside of your world
 There's gonna be one less lonely girl
 
 Only you, shawty
-
-
-

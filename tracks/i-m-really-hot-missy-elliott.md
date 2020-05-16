@@ -1,8 +1,11 @@
 ---
+album: This Is Not a Test!
 artists:
 - Missy Elliott
+external_ids:
+  spotify: spotify:track:3yei0S35YFOEBOiKN287MW
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-really-hot-missy-elliott
 lyrics_url: https://genius.com/Missy-elliott-im-really-hot-lyrics
 name: I'm Really Hot
@@ -47,6 +50,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2004-04-17'
+release_year: 2003
+runtime: 210706
 ---
 Let me holla at the DJ
 Come on DJ put that record on the replay

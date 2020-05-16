@@ -1,8 +1,11 @@
 ---
+album: '30 Years Of Funk: 1969-1999 The Anthology'
 artists:
 - Grand Funk Railroad
+external_ids:
+  spotify: spotify:track:3qSDlSYkcLH9igD7hZ6IBv
 features: []
-genres: []
+first_released_as_single: false
 key: feelin--alright-grand-funk-railroad
 lyrics_url: https://genius.com/Grand-funk-railroad-feelin-alright-lyrics
 name: Feelin' Alright
@@ -31,6 +34,8 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '1971-06-05'
+release_year: 1971
+runtime: 266533
 ---
 Seems I got to have a change in scene
 'Cause every night I have the strangest dreams

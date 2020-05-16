@@ -1,9 +1,12 @@
 ---
+album: 'Food & Liquor II: The Great American Rap Album Pt. 1'
 artists:
 - Lupe Fiasco
 - Guy Sebastian
+external_ids:
+  spotify: spotify:track:1hWYT0w2R0J19rlVkiez7X
 features: []
-genres: []
+first_released_as_single: false
 key: battle-scars-lupe-fiasco-guy-sebastian
 lyrics_url: https://genius.com/Genius-turkce-ceviri-lupe-fiasco-and-guy-sebastian-battle-scars-turkish-translation-turkce-ceviri-lyrics
 name: Battle Scars
@@ -88,6 +91,8 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '2013-05-25'
+release_year: 2012
+runtime: 250320
 ---
 Yara iyileşir derler -ki asla iyileşmez
 Bu sevgi ile savaşmana yol açıyor

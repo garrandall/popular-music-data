@@ -1,8 +1,11 @@
 ---
+album: Strong Heart
 artists:
 - Patty Loveless
+external_ids:
+  spotify: spotify:track:1UUhxXPp9pQl7u7GxJ28Nb
 features: []
-genres: []
+first_released_as_single: false
 key: that-s-the-kind-of-mood-i-m-in-patty-loveless
 lyrics_url: https://genius.com/Patty-loveless-thats-the-kind-of-mood-im-in-lyrics
 name: That's The Kind Of Mood I'm In
@@ -63,6 +66,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2000-12-16'
+release_year: 2000
+runtime: 211226
 ---
 I tell you what, we're in a rut, we're in a deep rut
 So habitual, predictable I tell you what we oughta do

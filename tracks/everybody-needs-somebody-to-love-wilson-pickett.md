@@ -1,8 +1,11 @@
 ---
+album: The Wicked Pickett
 artists:
 - Wilson Pickett
+external_ids:
+  spotify: spotify:track:6I8VfLS0Ef6XT0vbV7GxOl
 features: []
-genres: []
+first_released_as_single: false
 key: everybody-needs-somebody-to-love-wilson-pickett
 lyrics_url: https://www.azlyrics.com/lyrics/wilsonpickett/everybodyneedssomebodytolove.html
 name: Everybody Needs Somebody To Love
@@ -35,8 +38,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1967-03-18'
+release_year: 1967
+runtime: 137240
 ---
-
 Everybody needs somebody 
 Everybody needs somebody to love 
 Someone to love, sugar, to kiss, sweetheart, to miss 
@@ -55,6 +59,3 @@ Don't you know I need you
 Let me hear you say yeah! 
 Let me hear you say yeah! 
 (I need you)
-
-
-

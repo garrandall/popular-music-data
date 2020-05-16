@@ -1,8 +1,11 @@
 ---
+album: Ain't No 'Bout-A-Doubt It
 artists:
 - Graham Central Station
+external_ids:
+  spotify: spotify:track:1xXNrpcZ7UyKVWiI6GEc75
 features: []
-genres: []
+first_released_as_single: false
 key: the-jam-graham-central-station
 lyrics_url: https://genius.com/Graham-central-station-the-jam-lyrics
 name: The Jam
@@ -31,6 +34,8 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '1976-03-27'
+release_year: 1975
+runtime: 492013
 ---
 Three, four
 

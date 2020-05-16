@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music, The Complete Season Two'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:1Jwy2B4WLW2McewDu3ayci
 features: []
-genres: []
+first_released_as_single: false
 key: what-i-did-for-love-glee-cast
 lyrics_url: https://genius.com/Glee-cast-what-i-did-for-love-lyrics
 name: What I Did For Love
@@ -11,6 +14,8 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '2010-10-09'
+release_year: 2010
+runtime: 222373
 ---
 Kiss today goodbye
 The sweetness and the sorrow

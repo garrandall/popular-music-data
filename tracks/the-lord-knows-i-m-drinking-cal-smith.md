@@ -1,8 +1,11 @@
 ---
+album: Cal Smith
 artists:
 - Cal Smith
+external_ids:
+  spotify: spotify:track:7GnEclCTKejiDnrb487GE8
 features: []
-genres: []
+first_released_as_single: false
 key: the-lord-knows-i-m-drinking-cal-smith
 lyrics_url: https://genius.com/Cal-smith-the-lord-knows-im-drinking-lyrics
 name: The Lord Knows I'm Drinking
@@ -39,6 +42,8 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '1973-04-28'
+release_year: 1973
+runtime: 189283
 ---
 Hello Mrs. Johnson you self-righteous woman
 Sunday School teacher what brings you out slumming

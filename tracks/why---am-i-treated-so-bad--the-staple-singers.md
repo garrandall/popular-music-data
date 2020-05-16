@@ -1,8 +1,11 @@
 ---
+album: What the World Needs Now Is Love
 artists:
 - The Staple Singers
+external_ids:
+  spotify: spotify:track:7K8xWC0htoafjbiFaN4Z4b
 features: []
-genres: []
+first_released_as_single: false
 key: why---am-i-treated-so-bad--the-staple-singers
 lyrics_url: https://genius.com/The-staple-singers-why-am-i-treated-so-bad-lyrics
 name: Why? (Am I Treated So Bad)
@@ -11,6 +14,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1967-06-03'
+release_year: 1967
+runtime: 178800
 ---
 Why am I treated so bad
 Why am I treated so bad

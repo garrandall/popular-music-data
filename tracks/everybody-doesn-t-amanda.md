@@ -1,8 +1,11 @@
 ---
+album: Everybody Doesn't
 artists:
 - Amanda
+external_ids:
+  spotify: spotify:track:4IWCqcLq1AlO7hXDTQLZAe
 features: []
-genres: []
+first_released_as_single: false
 key: everybody-doesn-t-amanda
 lyrics_url: https://genius.com/Amanda-english-everybody-doesnt-lyrics
 name: Everybody Doesn't
@@ -31,6 +34,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2001-06-16'
+release_year: 2001
+runtime: 182560
 ---
 Everybody does it
 That's what you keep saying

@@ -1,8 +1,11 @@
 ---
+album: The Boy Is Mine
 artists:
 - Monica
+external_ids:
+  spotify: spotify:track:5rWzxloNXvbRPhlC1O2b6T
 features: []
-genres: []
+first_released_as_single: false
 key: the-first-night-monica
 lyrics_url: https://www.azlyrics.com/lyrics/monica/thefirstnight.html
 name: The First Night
@@ -99,9 +102,9 @@ rankings:
   rank: 35
   ranking_list: Billboard Hot 100
   start_date: '1999-01-16'
+release_year: 1998
+runtime: 235573
 ---
-
-
 Baby baby tell me whats up? Can you hear me?
 Or do I do I need to turn it up? (Huh huh)
 Baby baby tell me whats up? Can you hear me?
@@ -161,6 +164,3 @@ I should make a move, but I won't
 I know your probably thinkin' something is wrong
 Knowing if I do that it won't be right
 I wanna get down, but not the first night
-
-
-

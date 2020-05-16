@@ -1,8 +1,11 @@
 ---
+album: The Warmer Side Of Cool
 artists:
 - Wang Chung
+external_ids:
+  spotify: spotify:track:1JVqe1eyr9eJZSw1SP4PuU
 features: []
-genres: []
+first_released_as_single: false
 key: praying-to-a-new-god-wang-chung
 lyrics_url: https://www.azlyrics.com/lyrics/wangchung/prayingtoanewgod.html
 name: Praying To A New God
@@ -35,8 +38,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1989-07-08'
+release_year: 1989
+runtime: 237106
 ---
-
 What got into you got into me too
 What came over you is coming over me
 Feel like I've had enough of all the old stuff
@@ -98,6 +102,3 @@ Start praying, praying at the back door
 Start praying to a new, new God
 Start praying, praying on the dance floor
 Start praying to a new God
-
-
-

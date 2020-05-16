@@ -1,8 +1,11 @@
 ---
+album: Muthabanjo
 artists:
 - Eminem
+external_ids:
+  spotify: spotify:track:50JRIS94a8K36YWMrsUCsj
 features: []
-genres: []
+first_released_as_single: false
 key: fall-eminem
 lyrics_url: https://genius.com/Eminem-fall-lyrics
 name: Fall
@@ -23,6 +26,8 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '2018-10-06'
+release_year: 2006
+runtime: 192360
 ---
 You know, everybody's been tellin' me
 What they think about me for the last few months

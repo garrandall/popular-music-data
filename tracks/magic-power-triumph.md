@@ -1,8 +1,11 @@
 ---
+album: Allied Forces
 artists:
 - Triumph
+external_ids:
+  spotify: spotify:track:0NJLV3HTsOnfIyFsCQ5O3y
 features: []
-genres: []
+first_released_as_single: false
 key: magic-power-triumph
 lyrics_url: https://www.azlyrics.com/lyrics/triumph/magicpower.html
 name: Magic Power
@@ -51,8 +54,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1981-12-12'
+release_year: 1981
+runtime: 296917
 ---
-
 Something's at the edge of your mind
 You don't know what it is
 Something you were hoping to find 
@@ -119,6 +123,3 @@ She's got the power
 She's got the magic
 She's got the power
 She's got the magic
-
-
-

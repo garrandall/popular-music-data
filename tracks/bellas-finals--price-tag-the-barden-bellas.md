@@ -1,8 +1,11 @@
 ---
+album: Ultimate Pitch Perfect (Original Motion Picture Soundtrack)
 artists:
 - The Barden Bellas
+external_ids:
+  spotify: spotify:track:07o54snAilKYHsW8bGFe9x
 features: []
-genres: []
+first_released_as_single: false
 key: bellas-finals--price-tag-the-barden-bellas
 lyrics_url: https://www.azlyrics.com/lyrics/bardenbellas/bellasfinalspricetagdontyouforgetaboutmegivemeeverythingjustthewayyouarepartyintheusaturnthebeataround.html
 name: 'Bellas Finals: Price Tag'
@@ -31,8 +34,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2013-02-16'
+release_year: 2013
+runtime: 216413
 ---
-
 Seems like everybody's got a price,
 I wonder how they sleep at night,
 When the sale comes first and the truth comes second,
@@ -109,7 +113,7 @@ I got it locked up like Lindsay Lohan,
 Put it on my life, baby,
 I make you feel right, baby,
 Can't promise tomorrow,
-But I'll promise tonight, dalÃ©
+But I'll promise tonight, dalé
 
 Excuse me,
 But I might drink a little more than I should tonight,
@@ -132,6 +136,3 @@ Give me everything tonight,
 For all we know,
 We might not get tomorrow,
 Let's do it tonight
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music, Volume 4'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:5oxioZhKHdASa1PZM65kYT
 features: []
-genres: []
+first_released_as_single: false
 key: toxic-glee-cast
 lyrics_url: https://www.azlyrics.com/lyrics/gleecast/toxic.html
 name: Toxic
@@ -11,8 +14,9 @@ rankings:
   rank: 16
   ranking_list: Billboard Hot 100
   start_date: '2010-10-16'
+release_year: 2010
+runtime: 204413
 ---
-
 Baby, can't you see
 I'm calling
 A guy like you should wear a warning
@@ -79,6 +83,3 @@ Intoxicate me now
 With your lovin' now
 I think IÂ´m ready
 I think IÂ´m ready now
-
-
-

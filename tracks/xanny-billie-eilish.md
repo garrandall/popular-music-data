@@ -1,8 +1,11 @@
 ---
+album: WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?
 artists:
 - Billie Eilish
+external_ids:
+  spotify: spotify:track:4QIo4oxwzzafcBWkKjDpXY
 features: []
-genres: []
+first_released_as_single: false
 key: xanny-billie-eilish
 lyrics_url: https://www.azlyrics.com/lyrics/billieeilish/xanny.html
 name: Xanny
@@ -23,8 +26,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2019-05-04'
+release_year: 2019
+runtime: 243725
 ---
-
 What is it about them?
 I must be missing something
 They just keep doing nothing
@@ -75,6 +79,3 @@ Too intoxicated to be scared
 Come down
 Hurting
 Learning
-
-
-

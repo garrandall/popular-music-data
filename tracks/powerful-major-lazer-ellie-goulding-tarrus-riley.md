@@ -1,10 +1,13 @@
 ---
+album: Powerful (Remixes)
 artists:
 - Major Lazer
+external_ids:
+  spotify: spotify:track:37jalmkAdkohJQj98FGU7r
 features:
 - Ellie Goulding
 - Tarrus Riley
-genres: []
+first_released_as_single: true
 key: powerful-major-lazer-ellie-goulding-tarrus-riley
 lyrics_url: https://www.azlyrics.com/lyrics/majorlazer/powerful.html
 name: Powerful
@@ -33,9 +36,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2015-11-14'
+release_year: 2015
+runtime: 206920
 ---
-
-
 Oh my my my, what you do to me
 Like lightning when I'm swimming in the sea
 From the very first time we loved
@@ -118,6 +121,3 @@ When you hold me in your arms
 Burns like fire and electricity
 When you're close I feel the sparks
 Takes me higher to infinity
-
-
-

@@ -1,9 +1,12 @@
 ---
+album: This Is Country Music
 artists:
 - Brad Paisley
 - Carrie Underwood
+external_ids:
+  spotify: spotify:track:4ABua0yuWcpTotImEEJTaw
 features: []
-genres: []
+first_released_as_single: false
 key: remind-me-brad-paisley-carrie-underwood
 lyrics_url: https://www.azlyrics.com/lyrics/bradpaisley/remindme.html
 name: Remind Me
@@ -88,9 +91,9 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '2011-11-05'
+release_year: 2011
+runtime: 271906
 ---
-
-
 We didn't care if people stared
 We'd make out in a crowd somewhere
 Somebody'd tell us to get a room
@@ -147,6 +150,3 @@ Remind me
  Yeah, you'd wake up in my old t-shirt
  Remind me, yeah, oh
  Baby, remind me
-
-
-

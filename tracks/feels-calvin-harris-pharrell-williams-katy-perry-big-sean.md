@@ -1,11 +1,14 @@
 ---
+album: Funk Wav Bounces Vol.1
 artists:
 - Calvin Harris
+external_ids:
+  spotify: spotify:track:6BaCraQ9xeLYg4Sb9TBT2X
 features:
 - Pharrell Williams
 - Katy Perry
 - Big Sean
-genres: []
+first_released_as_single: true
 key: feels-calvin-harris-pharrell-williams-katy-perry-big-sean
 lyrics_url: https://www.azlyrics.com/lyrics/calvinharris/feels.html
 name: Feels
@@ -82,9 +85,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2017-11-04'
+release_year: 2017
+runtime: 223413
 ---
-
-
 Hey!
 No-nothing ever last forever, no
 One minute you're here and the next you're gone
@@ -157,6 +160,3 @@ I know you ain't afraid to pop pills
 I know, I know, I know
 Baby, I know you ain't scared to catch feels
 Feels with me
-
-
-

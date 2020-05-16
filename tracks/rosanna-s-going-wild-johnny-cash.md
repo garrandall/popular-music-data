@@ -1,8 +1,11 @@
 ---
+album: The Legend
 artists:
 - Johnny Cash
+external_ids:
+  spotify: spotify:track:05YQqgKIUvxOVqs9A2lHm0
 features: []
-genres: []
+first_released_as_single: false
 key: rosanna-s-going-wild-johnny-cash
 lyrics_url: https://www.azlyrics.com/lyrics/johnnycash/rosannasgoingwild.html
 name: Rosanna's Going Wild
@@ -15,8 +18,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1968-02-03'
+release_year: 1968
+runtime: 117893
 ---
-
 Rosanna you're not acting like a child
 My Rosanna's going wild
 Her skirt is short
@@ -39,6 +43,3 @@ She laughs and say why honey
 All I ever givin was a smile
 But my Rosanna's going wild
 My Rosanna's going wild
-
-
-

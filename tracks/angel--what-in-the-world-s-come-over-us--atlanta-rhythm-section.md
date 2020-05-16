@@ -1,8 +1,11 @@
 ---
+album: Third Annual Pipe Dream
 artists:
 - Atlanta Rhythm Section
+external_ids:
+  spotify: spotify:track:4XWz0bKpnivMY0ShmKextK
 features: []
-genres: []
+first_released_as_single: false
 key: angel--what-in-the-world-s-come-over-us--atlanta-rhythm-section
 lyrics_url: https://www.azlyrics.com/lyrics/atlantarhythmsection/angelwhatintheworldscomeoverus.html
 name: Angel (What In The World's Come Over Us)
@@ -27,8 +30,9 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1975-03-22'
+release_year: 1974
+runtime: 311000
 ---
-
 Way back once upon a time
 All our clouds were number nine
 Every day was heaven sent
@@ -54,6 +58,3 @@ What have we done
 What has come over us
 
 Yeah, yeah
-
-
-

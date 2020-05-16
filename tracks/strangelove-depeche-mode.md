@@ -1,8 +1,11 @@
 ---
+album: Music For The Masses
 artists:
 - Depeche Mode
+external_ids:
+  spotify: spotify:track:3ZJN5SUzABu3eWkxVbLeJb
 features: []
-genres: []
+first_released_as_single: true
 key: strangelove-depeche-mode
 lyrics_url: https://www.azlyrics.com/lyrics/depechemode/strangelove.html
 name: Strangelove
@@ -67,8 +70,9 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1988-11-05'
+release_year: 1983
+runtime: 392373
 ---
-
 There'll be times
 When my crimes
 Will seem almost unforgivable
@@ -124,6 +128,3 @@ That's how my love goes
 I give in
 I'll say it again
 I give in
-
-
-

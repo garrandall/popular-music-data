@@ -1,8 +1,11 @@
 ---
+album: For the Good Times
 artists:
 - Ray Price
+external_ids:
+  spotify: spotify:track:5J4e1T4aqU6aS8g5IjceIr
 features: []
-genres: []
+first_released_as_single: false
 key: for-the-good-times-ray-price
 lyrics_url: https://genius.com/Ray-price-for-the-good-times-lyrics
 name: For The Good Times
@@ -103,6 +106,8 @@ rankings:
   rank: 28
   ranking_list: Billboard Hot 100
   start_date: '1971-02-06'
+release_year: 1954
+runtime: 227893
 ---
 Don't look so sad
 I know it's over

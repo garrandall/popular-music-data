@@ -1,12 +1,15 @@
 ---
+album: My Beautiful Dark Twisted Fantasy
 artists:
 - Kanye West
+external_ids:
+  spotify: spotify:track:4ge5ZqmeLSYVMFKx6uBaLr
 features:
 - Jay-Z
 - Rick Ross
 - Bon Iver
 - Nicki Minaj
-genres: []
+first_released_as_single: false
 key: monster-kanye-west-jay-z-rick-ross-bon-iver-nicki-minaj
 lyrics_url: https://www.azlyrics.com/lyrics/kanyewest/monster.html
 name: Monster
@@ -51,9 +54,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2011-01-22'
+release_year: 2010
+runtime: 378853
 ---
-
-
 I shoot the lights out
 Hide 'til it's bright out
 Whoa, just another lonely night
@@ -177,7 +180,7 @@ She on a diet but my pockets eating cheese cake
 And I'll say Bride of Chucky is child's play
 Just killed another career it's a mild day
 Besides 'Ye they can't stand besides me
-I think me, you and Am should mÃ©nage Friday
+I think me, you and Am should ménage Friday
 Pink wig, thick ass, give em whiplash
 I think big get cash make em blink fast
 Now look at what you just saw, this is what you live for
@@ -196,6 +199,3 @@ I, I crossed the limelight
 And I'll, I'll let God decide
 And I, I wouldn't last these shows
 So I, I am headed home
-
-
-

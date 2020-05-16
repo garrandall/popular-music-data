@@ -1,8 +1,11 @@
 ---
+album: Changes
 artists:
 - Johnny Rivers
+external_ids:
+  spotify: spotify:track:60DmpUd1BnemzjASiUewnf
 features: []
-genres: []
+first_released_as_single: false
 key: poor-side-of-town-johnny-rivers
 lyrics_url: https://genius.com/Johnny-rivers-poor-side-of-town-lyrics
 name: Poor Side Of Town
@@ -67,6 +70,8 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '1966-12-24'
+release_year: 1966
+runtime: 218386
 ---
 Do-doo-doo-wah shoo-be-doo-be
 Do-doo-doo-wah shoo-be-doo-be

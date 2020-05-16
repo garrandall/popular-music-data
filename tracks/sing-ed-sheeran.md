@@ -1,8 +1,11 @@
 ---
+album: x
 artists:
 - Ed Sheeran
+external_ids:
+  spotify: spotify:track:6u0oHknFYrnUd42A6rvFly
 features: []
-genres: []
+first_released_as_single: false
 key: sing-ed-sheeran
 lyrics_url: https://genius.com/Ed-sheeran-sing-lyrics
 name: Sing
@@ -87,6 +90,8 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '2014-09-06'
+release_year: 2013
+runtime: 235382
 ---
 It's late in the evening
 Glass on the side

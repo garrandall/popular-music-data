@@ -1,8 +1,11 @@
 ---
+album: Doll Domination
 artists:
 - The Pussycat Dolls
+external_ids:
+  spotify: spotify:track:7J0HXyCAWprCf1AjwHIIne
 features: []
-genres: []
+first_released_as_single: false
 key: when-i-grow-up-the-pussycat-dolls
 lyrics_url: https://genius.com/The-pussycat-dolls-when-i-grow-up-lyrics
 name: When I Grow Up
@@ -87,6 +90,8 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '2008-10-25'
+release_year: 2008
+runtime: 233840
 ---
 Boys call you sexy (What's up, sexy?)
 And you don't care what they say (Ha, ha)

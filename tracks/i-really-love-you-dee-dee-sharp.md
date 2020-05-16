@@ -1,8 +1,11 @@
 ---
+album: The Best Of Dee Dee Sharp 1962-1966
 artists:
 - Dee Dee Sharp
+external_ids:
+  spotify: spotify:track:1iYrvHaZXNrLolzjR6ZCe5
 features: []
-genres: []
+first_released_as_single: false
 key: i-really-love-you-dee-dee-sharp
 lyrics_url: https://genius.com/Dee-dee-sharp-i-really-love-you-lyrics
 name: I Really Love You
@@ -35,6 +38,8 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1965-12-18'
+release_year: 1965
+runtime: 168773
 ---
 (I really love you)
 (Baby baby yes I do)

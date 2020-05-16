@@ -1,9 +1,12 @@
 ---
+album: How Do You Do?
 artists:
 - Mouth
 - MacNeal
+external_ids:
+  spotify: spotify:track:3DijXDOWwsrg43D0Se345d
 features: []
-genres: []
+first_released_as_single: false
 key: how-do-you-do--mouth-macneal
 lyrics_url: https://genius.com/Mouth-and-macneal-how-do-you-do-lyrics
 name: How Do You Do?
@@ -84,6 +87,8 @@ rankings:
   rank: 36
   ranking_list: Billboard Hot 100
   start_date: '1972-09-02'
+release_year: 1972
+runtime: 244133
 ---
 Once I said I wanted you
 I don't remember why

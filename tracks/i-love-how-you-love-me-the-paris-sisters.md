@@ -1,8 +1,11 @@
 ---
+album: Best Of The Paris Sisters
 artists:
 - The Paris Sisters
+external_ids:
+  spotify: spotify:track:5TK8wQhHheetBs9R66hLYC
 features: []
-genres: []
+first_released_as_single: false
 key: i-love-how-you-love-me-the-paris-sisters
 lyrics_url: https://genius.com/The-paris-sisters-i-love-how-you-love-me-lyrics
 name: I Love How You Love Me
@@ -67,6 +70,8 @@ rankings:
   rank: 35
   ranking_list: Billboard Hot 100
   start_date: '1961-12-11'
+release_year: 1961
+runtime: 110466
 ---
 I love how your eyes close
 Whenever you kiss me

@@ -1,8 +1,11 @@
 ---
+album: All Four One
 artists:
 - The Motels
+external_ids:
+  spotify: spotify:track:5rvqkpDQLApfyIprLaDtCO
 features: []
-genres: []
+first_released_as_single: false
 key: forever-mine-the-motels
 lyrics_url: https://genius.com/The-motels-forever-mine-lyrics
 name: Forever Mine
@@ -39,6 +42,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1983-01-01'
+release_year: 1982
+runtime: 212160
 ---
 They say, before we met
 How perfect we would be

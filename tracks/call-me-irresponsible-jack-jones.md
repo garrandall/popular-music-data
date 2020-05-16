@@ -1,8 +1,11 @@
 ---
+album: 'Greatest Hits: Jack Jones'
 artists:
 - Jack Jones
+external_ids:
+  spotify: spotify:track:1l90dM1PU5YvAoNxxTHlCB
 features: []
-genres: []
+first_released_as_single: false
 key: call-me-irresponsible-jack-jones
 lyrics_url: https://genius.com/Jack-jones-call-me-irresponsible-lyrics
 name: Call Me Irresponsible
@@ -23,6 +26,8 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1963-05-25'
+release_year: 1963
+runtime: 193800
 ---
 Call me irresponsible
 Call me unreliable

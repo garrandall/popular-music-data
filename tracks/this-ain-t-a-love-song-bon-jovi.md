@@ -1,8 +1,11 @@
 ---
+album: These Days
 artists:
 - Bon Jovi
+external_ids:
+  spotify: spotify:track:0ZLBD6hHGN9LYOtNlu2n8e
 features: []
-genres: []
+first_released_as_single: false
 key: this-ain-t-a-love-song-bon-jovi
 lyrics_url: https://genius.com/Bon-jovi-this-aint-a-love-song-lyrics
 name: This Ain't A Love Song
@@ -87,6 +90,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1995-10-21'
+release_year: 1995
+runtime: 306240
 ---
 I should have seen it coming when roses died
 Should have seen the end of summer in your eyes

@@ -1,9 +1,12 @@
 ---
+album: Today, Tomorrow and Forever
 artists:
 - Elvis Presley
 - The Jordanaires
+external_ids:
+  spotify: spotify:track:126MvlJjQXgM7IC0SC5qQz
 features: []
-genres: []
+first_released_as_single: false
 key: there-s-always-me-elvis-presley-with-the-jordanaires
 name: There's Always Me
 rankings:
@@ -31,5 +34,7 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '1967-09-30'
+release_year: 1967
+runtime: 152973
 ---
 

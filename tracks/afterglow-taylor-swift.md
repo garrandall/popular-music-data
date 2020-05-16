@@ -1,8 +1,11 @@
 ---
+album: Lover
 artists:
 - Taylor Swift
+external_ids:
+  spotify: spotify:track:1SymEzIT3H8UZfibCs3TYi
 features: []
-genres: []
+first_released_as_single: false
 key: afterglow-taylor-swift
 lyrics_url: https://www.azlyrics.com/lyrics/taylorswift/afterglow.html
 name: Afterglow
@@ -11,8 +14,9 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '2019-09-07'
+release_year: 2019
+runtime: 223293
 ---
-
 I blew things out of proportion, now you're blue
 Put you in jail for something you didn't do
 I pinned your hands behind your back, oh
@@ -68,6 +72,3 @@ I don't wanna do, I don't wanna do this to you (Oh)
 I don't wanna lose, I don't wanna lose this with you (Oh)
 I need to say, hey, it's all me, just don't go
 Meet me in the afterglow
-
-
-

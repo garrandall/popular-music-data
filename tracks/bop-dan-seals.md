@@ -1,8 +1,11 @@
 ---
+album: Won't Be Blue Anymore
 artists:
 - Dan Seals
+external_ids:
+  spotify: spotify:track:0VWPd2zYt1430jL6XtUjep
 features: []
-genres: []
+first_released_as_single: false
 key: bop-dan-seals
 lyrics_url: https://www.azlyrics.com/lyrics/danseals/bop.html
 name: Bop
@@ -67,8 +70,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1986-05-03'
+release_year: 1985
+runtime: 226266
 ---
-
 Put on your bobby socks baby
 Roll up your old blue jeans
 There's a band playing down at the armory 
@@ -125,6 +129,3 @@ I wanna bop with you baby all night long
 I wanna be-bop baby til the break of dawn 
 I wanna make it a night like it use to be 
 When our hearts were young and free
-
-
-

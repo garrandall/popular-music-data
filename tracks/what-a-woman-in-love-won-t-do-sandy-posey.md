@@ -1,8 +1,11 @@
 ---
+album: Dream Lover
 artists:
 - Sandy Posey
+external_ids:
+  spotify: spotify:track:6phgexl36yCRsg0XDDEzbq
 features: []
-genres: []
+first_released_as_single: false
 key: what-a-woman-in-love-won-t-do-sandy-posey
 lyrics_url: https://www.musixmatch.com/lyrics/Sandy-Posey/What-a-Woman-in-Love-Won-t-Do
 name: What A Woman In Love Won't Do
@@ -35,6 +38,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1967-04-22'
+release_year: 1967
+runtime: 135293
 ---
 When you drag in the sunrise
 All over your feet

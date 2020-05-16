@@ -1,9 +1,12 @@
 ---
+album: Body Kiss
 artists:
 - The Isley Brothers
+external_ids:
+  spotify: spotify:track:7tVibpFBMdBkbMoGj8Icmp
 features:
 - Ronald Isley
-genres: []
+first_released_as_single: false
 key: what-would-you-do--the-isley-brothers-ronald-isley
 name: What Would You Do?
 rankings:
@@ -87,5 +90,7 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2003-08-16'
+release_year: 2003
+runtime: 227933
 ---
 

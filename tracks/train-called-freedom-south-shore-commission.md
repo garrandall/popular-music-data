@@ -1,8 +1,11 @@
 ---
+album: South Shore Commission
 artists:
 - South Shore Commission
+external_ids:
+  spotify: spotify:track:5HfZ3JdxnQJp3r0gKH9ssc
 features: []
-genres: []
+first_released_as_single: false
 key: train-called-freedom-south-shore-commission
 name: Train Called Freedom
 rankings:
@@ -22,5 +25,7 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1976-03-20'
+release_year: 1975
+runtime: 317674
 ---
 

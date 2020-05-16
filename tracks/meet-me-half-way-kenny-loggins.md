@@ -1,8 +1,11 @@
 ---
+album: Back To Avalon
 artists:
 - Kenny Loggins
+external_ids:
+  spotify: spotify:track:5CdX4HXMRxyldTVxXDrzSA
 features: []
-genres: []
+first_released_as_single: false
 key: meet-me-half-way-kenny-loggins
 lyrics_url: https://www.azlyrics.com/lyrics/kennyloggins/meetmehalfway.html
 name: Meet Me Half Way
@@ -107,8 +110,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1987-08-22'
+release_year: 1987
+runtime: 219533
 ---
-
 In a lifetime
 Made of memories
 I believe
@@ -154,6 +158,3 @@ To only you and I
 Meet me halfway
 Across the sky
 Make this a new beginning of another life.
-
-
-

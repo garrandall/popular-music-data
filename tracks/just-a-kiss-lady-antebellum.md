@@ -1,8 +1,11 @@
 ---
+album: Own The Night Spotify Interview
 artists:
 - Lady Antebellum
+external_ids:
+  spotify: spotify:track:5zAVYy8eaZkAL8SU6MaYNl
 features: []
-genres: []
+first_released_as_single: false
 key: just-a-kiss-lady-antebellum
 lyrics_url: https://genius.com/Lady-antebellum-just-a-kiss-lyrics
 name: Just A Kiss
@@ -175,6 +178,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2012-03-03'
+release_year: 2011
+runtime: 50508
 ---
 Lyin' here with you so close to me
 It's hard to fight these feelings when it feels so hard to breathe

@@ -1,11 +1,14 @@
 ---
+album: Family Ties
 artists:
 - Fat Joe
 - Dre
+external_ids:
+  spotify: spotify:track:7q0VdsXafFQIYfk3eZpwTq
 features:
 - Eminem
 - Mary J. Blige
-genres: []
+first_released_as_single: false
 key: lord-above-fat-joe-dre-eminem-mary-j--blige
 lyrics_url: https://genius.com/Genius-translations-fat-joe-lord-above-ft-dre-mary-j-blige-eminem-chinese-translation-lyrics
 name: Lord Above
@@ -14,6 +17,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2019-12-21'
+release_year: 2019
+runtime: 294774
 ---
 翻译 葩葩葩趴 禁止转载
 

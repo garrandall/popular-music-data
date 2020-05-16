@@ -1,8 +1,11 @@
 ---
+album: Have You Never Been Mellow
 artists:
 - Olivia Newton-John
+external_ids:
+  spotify: spotify:track:5ehVOC0zSdwWqyZlhomJSi
 features: []
-genres: []
+first_released_as_single: false
 key: have-you-never-been-mellow-olivia-newton-john
 lyrics_url: https://genius.com/Olivia-newton-john-have-you-never-been-mellow-lyrics
 name: Have You Never Been Mellow
@@ -71,6 +74,8 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1975-05-10'
+release_year: 1975
+runtime: 213533
 ---
 There was a time
 When I was in a hurry as you are

@@ -1,9 +1,12 @@
 ---
+album: And In This Corner...
 artists:
 - D.J. Jazzy Jeff
 - The Fresh Prince
+external_ids:
+  spotify: spotify:track:0mJujmisDCVnOa3MJnjRD9
 features: []
-genres: []
+first_released_as_single: false
 key: i-think-i-can-beat-mike-tyson-d-j--jazzy-jeff-the-fresh-prince
 lyrics_url: https://www.azlyrics.com/lyrics/djjazzyjeffthefreshprince/ithinkicanbeatmiketyson.html
 name: I Think I Can Beat Mike Tyson
@@ -44,10 +47,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1989-12-30'
+release_year: 1987
+runtime: 296120
 ---
-
-
-
 Hey...hey Leroy...Leroy
 
 yeah
@@ -231,6 +233,3 @@ I said, god damn, I couldn't beleive it Leroy
 You shoulda been there...you definetly shoulda been there
 
 ...I was right next to you playin' checkers
-
-
-

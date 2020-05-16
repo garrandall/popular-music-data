@@ -1,8 +1,11 @@
 ---
+album: Eliminator
 artists:
 - ZZ Top
+external_ids:
+  spotify: spotify:track:1UBQ5GK8JaQjm5VbkBZY66
 features: []
-genres: []
+first_released_as_single: false
 key: sharp-dressed-man-zz-top
 lyrics_url: https://www.musixmatch.com/lyrics/ZZ-Top/Sharp-Dressed-Man-2008-Remaster
 name: Sharp Dressed Man
@@ -43,6 +46,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1983-09-17'
+release_year: 1983
+runtime: 258026
 ---
 Clean shirt, new shoes
 And I don't know where I am goin' to.

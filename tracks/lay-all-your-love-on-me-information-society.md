@@ -1,8 +1,11 @@
 ---
+album: Information Society
 artists:
 - Information Society
+external_ids:
+  spotify: spotify:track:2SyYypYYj8R1RysmnfxWxt
 features: []
-genres: []
+first_released_as_single: false
 key: lay-all-your-love-on-me-information-society
 lyrics_url: https://www.azlyrics.com/lyrics/informationsociety/layallyourloveonme.html
 name: Lay All Your Love On Me
@@ -39,8 +42,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1989-09-30'
+release_year: 1988
+runtime: 221440
 ---
-
 You weren't jealous before we met
 Now every woman you see is a potential threat
 Now you're possessive, it isn't nice
@@ -77,6 +81,3 @@ Don't go wasting your emotion
 Lay all your love on me
 Don't go sharing your devotion
 Lay all your love on me
-
-
-

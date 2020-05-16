@@ -1,9 +1,12 @@
 ---
+album: Nut Rocker / Bumble Boogie
 artists:
 - B. Bumble
 - The Stingers
+external_ids:
+  spotify: spotify:track:3wH1Y1MQ4CzxDvn8XSEjyW
 features: []
-genres: []
+first_released_as_single: true
 key: nut-rocker-b--bumble-the-stingers
 lyrics_url: https://genius.com/B-bumble-and-the-stingers-nut-rocker-lyrics
 name: Nut Rocker
@@ -52,6 +55,8 @@ rankings:
   rank: 38
   ranking_list: Billboard Hot 100
   start_date: '1962-05-12'
+release_year: 1962
+runtime: 117346
 ---
 My Name is Tim and I'm going Home
 My Name is Tim and I'm going Home

@@ -1,9 +1,12 @@
 ---
+album: Culture
 artists:
 - Migos
+external_ids:
+  spotify: spotify:track:204U3zjm9kkzX25Pr4Rdld
 features:
 - Travis Scott
-genres: []
+first_released_as_single: false
 key: kelly-price-migos-travis-scott
 lyrics_url: https://www.azlyrics.com/lyrics/migos/kellyprice.html
 name: Kelly Price
@@ -16,9 +19,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2017-02-25'
+release_year: 2017
+runtime: 363934
 ---
-
-
 Bentley truck, yeah that's my choice of ride (skrrt skrrt)
 Always keep some bitches on the side, yeah yeah
 Don't stand too close, my diamonds gonna bite (bling)
@@ -128,6 +131,3 @@ I'mma make her sing, sing like Kelly Price yeah (whooo)
 I just can't understand her)
 She drive, I drive hours, I always drive, I drive for you
 I black out, I black out too
-
-
-

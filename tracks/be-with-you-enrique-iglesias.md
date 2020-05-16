@@ -1,8 +1,11 @@
 ---
+album: Enrique
 artists:
 - Enrique Iglesias
+external_ids:
+  spotify: spotify:track:1lZ4j5WBURBwZ0M5TT46wP
 features: []
-genres: []
+first_released_as_single: false
 key: be-with-you-enrique-iglesias
 lyrics_url: https://genius.com/Enrique-iglesias-be-with-you-lyrics
 name: Be With You
@@ -87,6 +90,8 @@ rankings:
   rank: 28
   ranking_list: Billboard Hot 100
   start_date: '2000-08-12'
+release_year: 1999
+runtime: 220160
 ---
 Monday night and I feel so low
 I count the hours, but they go so slow

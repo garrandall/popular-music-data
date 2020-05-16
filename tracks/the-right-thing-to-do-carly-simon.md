@@ -1,8 +1,11 @@
 ---
+album: No Secrets
 artists:
 - Carly Simon
+external_ids:
+  spotify: spotify:track:6sKwPF9awJx0EwSs55G8BE
 features: []
-genres: []
+first_released_as_single: false
 key: the-right-thing-to-do-carly-simon
 lyrics_url: https://www.azlyrics.com/lyrics/carlysimon/therightthingtodo.html
 name: The Right Thing To Do
@@ -59,8 +62,9 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '1973-06-23'
+release_year: 1972
+runtime: 179800
 ---
-
 There's nothin' you can do to turn me away
 Nothin' anyone can say
 You're with me now and as long as you stay
@@ -92,6 +96,3 @@ Even though you're ten thousand miles away
 I'll love you tomorrow as I love you today
 I'm in love babe
 I'm in love with you babe.
-
-
-

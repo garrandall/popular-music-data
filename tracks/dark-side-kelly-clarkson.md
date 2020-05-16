@@ -1,8 +1,11 @@
 ---
+album: Stronger (Track by Track)
 artists:
 - Kelly Clarkson
+external_ids:
+  spotify: spotify:track:2L113vLHaE3U8R69V9Bt6b
 features: []
-genres: []
+first_released_as_single: false
 key: dark-side-kelly-clarkson
 lyrics_url: https://www.azlyrics.com/lyrics/kellyclarkson/darkside.html
 name: Dark Side
@@ -67,8 +70,9 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '2012-10-13'
+release_year: 2011
+runtime: 73946
 ---
-
 There's a place that I know
 It's not pretty there and few have ever gone
 If I show it to you now
@@ -134,6 +138,3 @@ Don't run away
 
 Don't run away
 Promise you'll stay
-
-
-

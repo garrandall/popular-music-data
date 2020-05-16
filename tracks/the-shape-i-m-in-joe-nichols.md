@@ -1,8 +1,11 @@
 ---
+album: Greatest Hits
 artists:
 - Joe Nichols
+external_ids:
+  spotify: spotify:track:4A7sLRJs1rvlV7aEy73PJF
 features: []
-genres: []
+first_released_as_single: false
 key: the-shape-i-m-in-joe-nichols
 lyrics_url: https://genius.com/Joe-nichols-the-shape-im-in-lyrics
 name: The Shape I'm In
@@ -15,6 +18,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2011-03-19'
+release_year: 2011
+runtime: 188973
 ---
 I've got a number on a napkin, a poundin' in my head
 Takes everything I've got to crawl out of bed

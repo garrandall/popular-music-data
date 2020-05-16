@@ -1,8 +1,11 @@
 ---
+album: 'Soul Masters: Don''t Be Cruel'
 artists:
 - Bill Black's Combo
+external_ids:
+  spotify: spotify:track:3DlOx6wRAhfsslTSyR1rw4
 features: []
-genres: []
+first_released_as_single: false
 key: movin--bill-black-s-combo
 name: Movin'
 rankings:
@@ -34,5 +37,7 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '1961-11-06'
+release_year: 1961
+runtime: 128880
 ---
 

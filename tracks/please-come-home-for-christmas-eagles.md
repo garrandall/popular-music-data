@@ -1,8 +1,11 @@
 ---
+album: Please Come Home For Christmas/Funky New Year
 artists:
 - Eagles
+external_ids:
+  spotify: spotify:track:3QIoEi8Enr9uHffwInGIsC
 features: []
-genres: []
+first_released_as_single: true
 key: please-come-home-for-christmas-eagles
 lyrics_url: https://www.azlyrics.com/lyrics/eagles/pleasecomehomeforchristmas.html
 name: Please Come Home For Christmas
@@ -39,8 +42,9 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '1979-01-27'
+release_year: 1978
+runtime: 177440
 ---
-
 Bells will be ringing this sad sad news
 Oh what a Christmas to have the blues 
 My baby's gone I have no friends 
@@ -64,6 +68,3 @@ There'll be no more sorrow no grief and pain
 And I'll be happy, happy once again 
 Oh there'll be no more sorrow, no grief and pain 
 And I'll be happy, Christmas once again
-
-
-

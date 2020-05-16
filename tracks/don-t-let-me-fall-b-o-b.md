@@ -1,8 +1,11 @@
 ---
+album: The Other One
 artists:
 - B.o.B
+external_ids:
+  spotify: spotify:track:6z8HYu7cMXBxCipgGJoxTL
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-let-me-fall-b-o-b
 lyrics_url: https://genius.com/Bob-dont-let-me-fall-lyrics
 name: Don't Let Me Fall
@@ -11,6 +14,8 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '2010-04-24'
+release_year: 1979
+runtime: 201333
 ---
 Well, it was just a dream, just a moment ago
 I was up so high, lookin' down at the sky, don't let me fall

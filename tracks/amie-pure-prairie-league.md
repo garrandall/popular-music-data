@@ -1,8 +1,11 @@
 ---
+album: Bustin Out
 artists:
 - Pure Prairie League
+external_ids:
+  spotify: spotify:track:34FWzxRaGdAZyGQz0krlHF
 features: []
-genres: []
+first_released_as_single: false
 key: amie-pure-prairie-league
 lyrics_url: https://www.azlyrics.com/lyrics/pureprairieleague/amie.html
 name: Amie
@@ -59,8 +62,9 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '1975-05-24'
+release_year: 1972
+runtime: 259426
 ---
-
 I can see why you think you belong to me
 I never tried to make you think or let you see one thing for yourself
 But now you're off with someone else and I'm alone
@@ -104,6 +108,3 @@ I keep falling in and out of love with you
 Falling in and out of love with you
 Don't know what I'm gonna do
 I keep falling in and out of love with you
-
-
-

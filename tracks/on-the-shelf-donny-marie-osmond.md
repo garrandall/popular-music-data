@@ -1,9 +1,12 @@
 ---
+album: Goin' Coconuts
 artists:
 - Donny
 - Marie Osmond
+external_ids:
+  spotify: spotify:track:6OhTpKDUnW9GO5ljZVvP6a
 features: []
-genres: []
+first_released_as_single: false
 key: on-the-shelf-donny-marie-osmond
 lyrics_url: https://www.musixmatch.com/lyrics/Donny-Marie-Osmond/On-the-Shelf
 name: On The Shelf
@@ -48,6 +51,8 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '1978-12-09'
+release_year: 1978
+runtime: 234893
 ---
 You took my love and you threw it away
 Gave you my heart and you took it that day

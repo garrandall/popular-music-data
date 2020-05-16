@@ -1,8 +1,11 @@
 ---
+album: Better Days & Happy Endings
 artists:
 - Melissa Manchester
+external_ids:
+  spotify: spotify:track:4xxPPgpaISmTRc0NyrXgDX
 features: []
-genres: []
+first_released_as_single: false
 key: better-days-melissa-manchester
 lyrics_url: https://www.azlyrics.com/lyrics/melissamanchester/betterdays.html
 name: Better Days
@@ -27,8 +30,9 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '1976-05-29'
+release_year: 1976
+runtime: 257733
 ---
-
 Well, another day has come
 After all is said and done
 You are here as you were before
@@ -57,6 +61,3 @@ We have made it through a long and lonely night
 Better days on our side
 Oh, it looks as though we're doing something right
 No more tears left to hide
-
-
-

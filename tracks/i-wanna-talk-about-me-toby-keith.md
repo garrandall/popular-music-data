@@ -1,8 +1,11 @@
 ---
+album: Pull My Chain
 artists:
 - Toby Keith
+external_ids:
+  spotify: spotify:track:3VHevS1BocAcrihLnl11DG
 features: []
-genres: []
+first_released_as_single: false
 key: i-wanna-talk-about-me-toby-keith
 lyrics_url: https://www.azlyrics.com/lyrics/tobykeith/iwannatalkaboutme.html
 name: I Wanna Talk About Me
@@ -87,8 +90,9 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '2002-02-23'
+release_year: 2001
+runtime: 183960
 ---
-
 We talk about your work how your boss is a jerk
 We talk about your church and your head when it hurts
 We talk about the troubles you've been having with your brother
@@ -140,6 +144,3 @@ What I think, what I like, what I know, what I want, what I see
 I like talking about you, you, you, usually, but occasionally
 I wanna talk about me
 I wanna talk about me
-
-
-

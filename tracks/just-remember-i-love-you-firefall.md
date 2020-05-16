@@ -1,8 +1,11 @@
 ---
+album: Luna Sea
 artists:
 - Firefall
+external_ids:
+  spotify: spotify:track:2u8DFrCzgVuviSHB6RCEIO
 features: []
-genres: []
+first_released_as_single: false
 key: just-remember-i-love-you-firefall
 lyrics_url: https://www.azlyrics.com/lyrics/firefall/justrememberiloveyou.html
 name: Just Remember I Love You
@@ -91,8 +94,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1977-12-31'
+release_year: 1977
+runtime: 196893
 ---
-
 When it all goes crazy and the thrill is gone
 The days get rainy and the nights get long
 When you get that feelin' you were born to lose
@@ -128,6 +132,3 @@ And it'll be alright
 It'll be alright
 It'll be alright
 It'll be alright
-
-
-

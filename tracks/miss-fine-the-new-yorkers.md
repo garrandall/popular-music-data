@@ -1,8 +1,11 @@
 ---
+album: Great Rare Songs, Vol. 6
 artists:
 - The New Yorkers
+external_ids:
+  spotify: spotify:track:2hQGSyxrGKGlvCNDCFhy9d
 features: []
-genres: []
+first_released_as_single: false
 key: miss-fine-the-new-yorkers
 name: Miss Fine
 rankings:
@@ -26,5 +29,7 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1961-06-12'
+release_year: 1961
+runtime: 148413
 ---
 

@@ -1,8 +1,11 @@
 ---
+album: Psychedelic Shack
 artists:
 - The Temptations
+external_ids:
+  spotify: spotify:track:3dn3Hrn3b6T7SOSqMBMkJM
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-summer-the-temptations
 lyrics_url: https://www.musixmatch.com/lyrics/The-Temptations/It-s-Summer
 name: It's Summer
@@ -31,6 +34,8 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1971-08-28'
+release_year: 1970
+runtime: 155133
 ---
 Outside my window a robin builds a nest
 At last winter's gone away to rest

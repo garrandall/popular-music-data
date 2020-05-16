@@ -1,8 +1,11 @@
 ---
+album: Shine On
 artists:
 - L.T.D.
+external_ids:
+  spotify: spotify:track:5v8irwdQBDgs4ti2krEvQE
 features: []
-genres: []
+first_released_as_single: false
 key: shine-on-l-t-d-
 lyrics_url: https://genius.com/Ltd-shine-on-lyrics
 name: Shine On
@@ -71,6 +74,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1981-02-28'
+release_year: 1980
+runtime: 238640
 ---
 Just yesterday
 I cast my eyes upon your lovely face, but that was yesterday

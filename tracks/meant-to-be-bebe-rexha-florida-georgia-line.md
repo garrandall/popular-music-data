@@ -1,9 +1,12 @@
 ---
+album: Expectations
 artists:
 - Bebe Rexha
 - Florida Georgia Line
+external_ids:
+  spotify: spotify:track:7iDa6hUg2VgEL1o1HjmfBn
 features: []
-genres: []
+first_released_as_single: true
 key: meant-to-be-bebe-rexha-florida-georgia-line
 lyrics_url: https://genius.com/Bebe-rexha-meant-to-be-lyrics
 name: Meant To Be
@@ -216,6 +219,8 @@ rankings:
   rank: 31
   ranking_list: Billboard Hot 100
   start_date: '2018-10-27'
+release_year: 2017
+runtime: 163870
 ---
 Baby, lay on back and relax
 Kick your pretty feet up on my dash

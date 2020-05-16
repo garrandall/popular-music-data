@@ -1,8 +1,11 @@
 ---
+album: Live
 artists:
 - Cock Robin
+external_ids:
+  spotify: spotify:track:7eaPCOybgKSjvX7ptXLZNO
 features: []
-genres: []
+first_released_as_single: false
 key: when-your-heart-is-weak-cock-robin
 lyrics_url: https://genius.com/Cock-robin-when-your-heart-is-weak-lyrics
 name: When Your Heart Is Weak
@@ -71,6 +74,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1985-09-28'
+release_year: 1985
+runtime: 346466
 ---
 What's the matter with the way we look?
 Surely it's not the end

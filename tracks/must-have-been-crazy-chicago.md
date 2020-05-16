@@ -1,8 +1,11 @@
 ---
+album: Chicago 13
 artists:
 - Chicago
+external_ids:
+  spotify: spotify:track:2sVoh3FipbOHLRoikvBSdh
 features: []
-genres: []
+first_released_as_single: false
 key: must-have-been-crazy-chicago
 lyrics_url: https://www.azlyrics.com/lyrics/chicago/musthavebeencrazy.html
 name: Must Have Been Crazy
@@ -27,8 +30,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1979-09-29'
+release_year: 1979
+runtime: 205600
 ---
-
 She's fine, so fine
 And I think I'm going to lose my mind
 So high, so high,
@@ -60,6 +64,3 @@ Must have been crazy
 Must have been crazy, yeah
 Must have been crazy
 To have done this so long
-
-
-

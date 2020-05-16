@@ -1,8 +1,11 @@
 ---
+album: Port Of Miami
 artists:
 - Rick Ross
+external_ids:
+  spotify: spotify:track:3hQCHzkE5oSA3F1xM8bpcM
 features: []
-genres: []
+first_released_as_single: false
 key: hustlin--rick-ross
 lyrics_url: https://genius.com/Rick-ross-hustlin-lyrics
 name: Hustlin'
@@ -75,6 +78,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2006-09-09'
+release_year: 2006
+runtime: 254093
 ---
 Every day I'm hustlin'
 Every day I'm hustlin'

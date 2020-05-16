@@ -1,8 +1,11 @@
 ---
+album: Love Deluxe
 artists:
 - Sade
+external_ids:
+  spotify: spotify:track:3TKVmg40BPzYRhFdooHukx
 features: []
-genres: []
+first_released_as_single: false
 key: no-ordinary-love-sade
 lyrics_url: https://genius.com/Sade-no-ordinary-love-lyrics
 name: No Ordinary Love
@@ -115,6 +118,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1993-06-19'
+release_year: 1983
+runtime: 239773
 ---
 I gave you all the love I got
 I gave you more than I could give

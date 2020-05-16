@@ -1,8 +1,11 @@
 ---
+album: "Walk Away Ren\xE9e/Pretty Ballerina"
 artists:
 - The Left Banke
+external_ids:
+  spotify: spotify:track:6utiXjyN4dWoMNEZa2skxn
 features: []
-genres: []
+first_released_as_single: false
 key: walk-away-renee-the-left-banke
 lyrics_url: https://genius.com/The-left-banke-walk-away-renee-lyrics
 name: Walk Away Renee
@@ -59,6 +62,8 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '1966-12-03'
+release_year: 1966
+runtime: 164813
 ---
 And when I see the sign that points one way
 The lot we used to pass by every day

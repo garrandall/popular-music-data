@@ -1,8 +1,11 @@
 ---
+album: Things We Did Last Summer
 artists:
 - Shelley Fabares
+external_ids:
+  spotify: spotify:track:0ZEwUcSo99i3knE2P324sO
 features: []
-genres: []
+first_released_as_single: false
 key: johnny-loves-me-shelley-fabares
 lyrics_url: https://genius.com/Shelley-fabares-johnny-loves-me-lyrics
 name: Johnny Loves Me
@@ -47,6 +50,8 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '1962-08-11'
+release_year: 1962
+runtime: 141906
 ---
 (Johnny loves her)
 (Johnny loves her)

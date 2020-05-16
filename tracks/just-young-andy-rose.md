@@ -1,8 +1,11 @@
 ---
+album: Lost Pop & Doo Wop, Vol. 4
 artists:
 - Andy Rose
+external_ids:
+  spotify: spotify:track:4IToGzGT3zcJWQN2c5J9cV
 features: []
-genres: []
+first_released_as_single: false
 key: just-young-andy-rose
 lyrics_url: https://genius.com/Andy-rose-just-young-lyrics
 name: Just Young
@@ -35,6 +38,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1958-11-17'
+release_year: 1958
+runtime: 138106
 ---
 Just young
 Just young

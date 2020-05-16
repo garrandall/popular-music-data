@@ -1,8 +1,11 @@
 ---
+album: The Night The Sun Came Up
 artists:
 - Dev
+external_ids:
+  spotify: spotify:track:1pbHy9VBpSyZh56xuujZz0
 features: []
-genres: []
+first_released_as_single: false
 key: in-the-dark-dev
 lyrics_url: https://genius.com/Dev-in-the-dark-lyrics
 name: In The Dark
@@ -87,6 +90,8 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '2011-12-31'
+release_year: 2011
+runtime: 226226
 ---
 On my waist, through my hair
 Think about it when you touch me there

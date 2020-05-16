@@ -1,8 +1,11 @@
 ---
+album: Corinne Bailey Rae
 artists:
 - Corinne Bailey Rae
+external_ids:
+  spotify: spotify:track:1ogmpEH7NVSQdzQsue735w
 features: []
-genres: []
+first_released_as_single: false
 key: like-a-star-corinne-bailey-rae
 lyrics_url: https://genius.com/Corinne-bailey-rae-like-a-star-lyrics
 name: Like A Star
@@ -15,6 +18,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2007-03-10'
+release_year: 2002
+runtime: 239852
 ---
 Just like a star across my sky
 Just like an angel off the page

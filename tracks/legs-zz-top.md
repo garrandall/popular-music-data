@@ -1,8 +1,11 @@
 ---
+album: Eliminator
 artists:
 - ZZ Top
+external_ids:
+  spotify: spotify:track:54bP8tFfGqwcZlSEgtICfd
 features: []
-genres: []
+first_released_as_single: true
 key: legs-zz-top
 lyrics_url: https://www.azlyrics.com/lyrics/zztop/legs.html
 name: Legs
@@ -83,8 +86,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1984-09-22'
+release_year: 1983
+runtime: 214738
 ---
-
 She got legs, she knows how to use them
 She never begs, she knows how to choose them
 She's holdin' leg wonderin' how to feel them
@@ -105,6 +109,3 @@ She got a dime all of the time
 Stays out at night movin' through time
 Oh, I want her, shit, I got to have her
 The girl is alright, she's alright
-
-
-

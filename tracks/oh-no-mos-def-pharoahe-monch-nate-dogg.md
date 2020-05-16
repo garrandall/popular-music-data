@@ -1,10 +1,13 @@
 ---
+album: Lyricist Lounge Volume 2
 artists:
 - Mos Def
 - Pharoahe Monch
+external_ids:
+  spotify: spotify:track:3tC8SJpOwJhDg8WGG1NKGR
 features:
 - Nate Dogg
-genres: []
+first_released_as_single: false
 key: oh-no-mos-def-pharoahe-monch-nate-dogg
 lyrics_url: https://www.azlyrics.com/lyrics/mosdef/ohno.html
 name: Oh No
@@ -57,9 +60,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2001-03-10'
+release_year: 2000
+runtime: 239933
 ---
-
-
 Yeah..
 One for the treble, two for the bass
 Welcome to the great incredible paper chase
@@ -164,6 +167,3 @@ We rock from the East to West coast
 Queens salute to Pharoahe (you know)
 Step away from the mic they too cold
 The funk might fracture your nose
-
-
-

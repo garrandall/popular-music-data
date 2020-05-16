@@ -1,8 +1,11 @@
 ---
+album: The 9 Volt Years
 artists:
 - Marshall Crenshaw
+external_ids:
+  spotify: spotify:track:26r62GgwTKxW71wMN6Mz0B
 features: []
-genres: []
+first_released_as_single: false
 key: someday-someway-marshall-crenshaw
 lyrics_url: https://genius.com/Marshall-crenshaw-someday-someway-lyrics
 name: Someday Someway
@@ -51,6 +54,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1982-09-18'
+release_year: 1982
+runtime: 152280
 ---
 I can't stand to see you sad
 I can't bear to hear you cry

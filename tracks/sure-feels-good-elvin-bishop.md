@@ -1,8 +1,11 @@
 ---
+album: Juke Joint Jump
 artists:
 - Elvin Bishop
+external_ids:
+  spotify: spotify:track:4dNJLLbjNCpwuveBHha2dF
 features: []
-genres: []
+first_released_as_single: false
 key: sure-feels-good-elvin-bishop
 lyrics_url: https://genius.com/Elvin-bishop-sure-feels-good-lyrics
 name: Sure Feels Good
@@ -27,6 +30,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1975-08-02'
+release_year: 1975
+runtime: 167800
 ---
 I never seen such a beautiful day
 Looked like everything is coming my way

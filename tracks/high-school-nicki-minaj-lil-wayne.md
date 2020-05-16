@@ -1,9 +1,12 @@
 ---
+album: 'Pink Friday: Roman Reloaded The Re-Up'
 artists:
 - Nicki Minaj
+external_ids:
+  spotify: spotify:track:6bzwoiUt0s1KDOedyy4OtQ
 features:
 - Lil Wayne
-genres: []
+first_released_as_single: false
 key: high-school-nicki-minaj-lil-wayne
 lyrics_url: https://www.azlyrics.com/lyrics/nickiminaj/highschool.html
 name: High School
@@ -64,9 +67,9 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '2013-07-20'
+release_year: 2012
+runtime: 218746
 ---
-
-
 He said he came from Jamaica
 He owned a couple acres
 A couple fake visas cause he never got his papers
@@ -157,6 +160,3 @@ Just close your eyes and
 This horizon
 It's ready, come get you some
 Yeah, yeah, yeah, yeah
-
-
-

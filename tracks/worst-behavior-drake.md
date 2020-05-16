@@ -1,8 +1,11 @@
 ---
+album: Nothing Was The Same
 artists:
 - Drake
+external_ids:
+  spotify: spotify:track:48RN2EOOyG2Gs5Pyla7ZJj
 features: []
-genres: []
+first_released_as_single: false
 key: worst-behavior-drake
 lyrics_url: https://www.azlyrics.com/lyrics/drake/worstbehavior.html
 name: Worst Behavior
@@ -51,8 +54,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2014-03-08'
+release_year: 2013
+runtime: 270186
 ---
-
 Worst motherfucker never loved us
 Fucker never loved us
 You ain't know, now you know now
@@ -152,6 +156,3 @@ Remember?
 Motherfucker
 Remember?
 Worst behavior
-
-
-

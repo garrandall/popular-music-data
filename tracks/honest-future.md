@@ -1,8 +1,11 @@
 ---
+album: Honest
 artists:
 - Future
+external_ids:
+  spotify: spotify:track:28XfiuVgUjkjfI1ZjbkVfV
 features: []
-genres: []
+first_released_as_single: false
 key: honest-future
 lyrics_url: https://genius.com/Future-honest-lyrics
 name: Honest
@@ -75,6 +78,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2014-01-18'
+release_year: 2013
+runtime: 200493
 ---
 Dark marks all on me, I'm just honest
 Rockstar my swag, I'm just honest

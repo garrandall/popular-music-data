@@ -1,8 +1,11 @@
 ---
+album: Wide Open
 artists:
 - Jason Aldean
+external_ids:
+  spotify: spotify:track:5eH1ktZDHgegpkYJOY7tme
 features: []
-genres: []
+first_released_as_single: false
 key: crazy-town-jason-aldean
 lyrics_url: https://www.azlyrics.com/lyrics/jasonaldean/crazytown.html
 name: Crazy Town
@@ -75,8 +78,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2010-08-21'
+release_year: 2009
+runtime: 183440
 ---
-
 Roll into town, step off the bus
 Shake off the where, you came from dust
 Grab you guitar, walk down the street
@@ -123,6 +127,3 @@ Make all the drunk girls scream and shout
 We love it, we hate it, we're all just trying to make it
 We love it, we hate it, we all came here to make it
 In this crazy town, it's a crazy town
-
-
-

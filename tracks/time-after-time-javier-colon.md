@@ -1,8 +1,11 @@
 ---
+album: Time After Time (The Voice Performance)
 artists:
 - Javier Colon
+external_ids:
+  spotify: spotify:track:03yihw8LFlfZ3EfaLk1A1A
 features: []
-genres: []
+first_released_as_single: true
 key: time-after-time-javier-colon
 lyrics_url: https://www.azlyrics.com/lyrics/javiercolon/timeaftertime.html
 name: Time After Time
@@ -11,8 +14,9 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '2011-05-14'
+release_year: 2011
+runtime: 203493
 ---
-
 Lying in bed, I hear the, clock tick I think of you
 Caught up in circles, confusion is nothing new
 Flashback to warm nights, almost left behind
@@ -45,6 +49,3 @@ suitcase of memories almost left behind
 time after time after time after...
 time after...
 time
-
-
-

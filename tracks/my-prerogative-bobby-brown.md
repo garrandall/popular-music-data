@@ -1,8 +1,11 @@
 ---
+album: Don't Be Cruel
 artists:
 - Bobby Brown
+external_ids:
+  spotify: spotify:track:0v9kGNjkKdQUdDoBIuiph4
 features: []
-genres: []
+first_released_as_single: false
 key: my-prerogative-bobby-brown
 lyrics_url: https://www.azlyrics.com/lyrics/bobbybrown/myprerogative.html
 name: My Prerogative
@@ -103,8 +106,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1989-04-01'
+release_year: 1988
+runtime: 291560
 ---
-
 It's love...
 It's love...
 Love... get busy
@@ -189,4 +193,3 @@ Why don't they just let me live
 I don't need permission (I don't need)
 Make my own decisions (My own decisions)
 That's my prerogative
-

@@ -1,9 +1,12 @@
 ---
+album: Joy
 artists:
 - Apollo
+external_ids:
+  spotify: spotify:track:5xwmLfRd5kLb6XohkIqNV2
 features:
 - Tom Parker
-genres: []
+first_released_as_single: false
 key: joy-apollo-tom-parker
 name: Joy
 rankings:
@@ -63,5 +66,7 @@ rankings:
   rank: 52
   ranking_list: Billboard Hot 100
   start_date: '1972-04-01'
+release_year: 1972
+runtime: 170282
 ---
 

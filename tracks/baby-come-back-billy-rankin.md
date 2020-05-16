@@ -65,7 +65,7 @@ Baby come back, baby come back I'm in the danger zone
 My heart ain't made of plastic
 I'm tellin? ya, I'm gonna do somethin? drastic, (drastic)
 I'm trying to bide my time
-Takin? my time_________________________
+Takin? my time
 Well I know I'm not original
 But listen here, I should be more than your provisional
 You keep runnin? around, all around town
@@ -84,11 +84,9 @@ Baby come back, back, back, back
 Baby come back, back, back, back
 Baby come back I'm in the danger zone
 I said, baby come back, baby come back cause I'm all alone
-Baby come back, (oh baby come back)baby come back I'm in the danger zone
+Baby come back, (oh baby come back) baby come back I'm in the danger zone
 I said, baby come back, baby come back
 Baby come back cause I'm all alone
-Baby come back, (oh baby come back)baby come back I'm in the danger zone
+Baby come back, (oh baby come back) baby come back I'm in the danger zone
 I said baby come back, baby come back, baby come back cause I'm all alone
 Baby come back, oh baby, baby come back I'm in the danger zone
-
-(written by:billy rankin)

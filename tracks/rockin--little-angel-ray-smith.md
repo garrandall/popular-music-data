@@ -1,8 +1,11 @@
 ---
+album: Travelin' With Ray
 artists:
 - Ray Smith
+external_ids:
+  spotify: spotify:track:14yLo0NDfdBVByqnGw1wU5
 features: []
-genres: []
+first_released_as_single: false
 key: rockin--little-angel-ray-smith
 lyrics_url: https://genius.com/Ray-smith-rockin-little-angel-lyrics
 name: Rockin' Little Angel
@@ -71,6 +74,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1960-04-18'
+release_year: 1960
+runtime: 134867
 ---
 Rockin' little angel
 Come down from the sky

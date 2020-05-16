@@ -1,8 +1,11 @@
 ---
+album: Jane in Spain
 artists:
 - Jane Morgan
+external_ids:
+  spotify: spotify:track:7LUA6ftkcoiyDqbqLNStPf
 features: []
-genres: []
+first_released_as_single: false
 key: with-open-arms-jane-morgan
 lyrics_url: https://genius.com/Jane-morgan-with-open-arms-lyrics
 name: With Open Arms
@@ -51,6 +54,8 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1959-10-05'
+release_year: 1959
+runtime: 139680
 ---
 A-plink a chunk, oh oh
 Oh, a-plink a chunk, oh oh

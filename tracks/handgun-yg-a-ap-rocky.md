@@ -1,9 +1,12 @@
 ---
+album: STAY DANGEROUS
 artists:
 - YG
+external_ids:
+  spotify: spotify:track:50wkDxcIfamIajKwmgp0iB
 features:
 - A$AP Rocky
-genres: []
+first_released_as_single: false
 key: handgun-yg-a-ap-rocky
 lyrics_url: https://www.azlyrics.com/lyrics/yg/handgun.html
 name: Handgun
@@ -16,6 +19,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2018-08-18'
+release_year: 2018
+runtime: 215533
 ---
 I mix the 400 with the designer, nigga
 Stay dangerous

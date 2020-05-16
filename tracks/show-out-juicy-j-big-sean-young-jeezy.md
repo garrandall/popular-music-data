@@ -1,10 +1,13 @@
 ---
+album: Stay Trippy
 artists:
 - Juicy J
+external_ids:
+  spotify: spotify:track:5ML9t3cfvJuDTeOLcOH2Bl
 features:
 - Big Sean
 - Young Jeezy
-genres: []
+first_released_as_single: false
 key: show-out-juicy-j-big-sean-young-jeezy
 lyrics_url: https://www.azlyrics.com/lyrics/juicyj/showout.html
 name: Show Out
@@ -41,9 +44,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2013-05-11'
+release_year: 2013
+runtime: 269160
 ---
-
-
 Everytime I go out, you know I gotta show out
 Everytime I go out, you know I bring the dough out
 Everytime they go out, you know they bring they ho out
@@ -106,4 +109,3 @@ Now we poppin bottles, they came with the sparkles
 Got my niggas with me, they came with them yoppers
 Got a few ratchets, even a couple models
 20 car caravan, I bet they gon follow, ugh
-

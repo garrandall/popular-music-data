@@ -1,8 +1,11 @@
 ---
+album: 'Time For...The Pozo-Sego Singers: The Complete 1966 Recordings'
 artists:
 - Pozo Seco Singers
+external_ids:
+  spotify: spotify:track:15mNqJkj7JNSzgYuae5pPZ
 features: []
-genres: []
+first_released_as_single: false
 key: look-what-you-ve-done-pozo-seco-singers
 lyrics_url: https://www.musixmatch.com/lyrics/Pozo-Seco-Singers/Look-What-You-ve-Done
 name: Look What You've Done
@@ -43,6 +46,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1967-02-11'
+release_year: 1965
+runtime: 166946
 ---
 Hey! Look what youve done
 Look what youve done.

@@ -1,8 +1,11 @@
 ---
+album: Girls Talk
 artists:
 - The Rebel Pebbles
+external_ids:
+  spotify: spotify:track:5XpfMyKakK5h6W2lAAQBqK
 features: []
-genres: []
+first_released_as_single: false
 key: dream-lover-the-rebel-pebbles
 lyrics_url: https://genius.com/The-rebel-pebbles-dream-lover-lyrics
 name: Dream Lover
@@ -47,6 +50,8 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '1991-06-22'
+release_year: 1991
+runtime: 237293
 ---
 Emily's poems and I spend winters in my room
 Words on the pages are set free

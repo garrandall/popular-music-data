@@ -1,8 +1,11 @@
 ---
+album: The Very Best Of
 artists:
 - The Doobie Brothers
+external_ids:
+  spotify: spotify:track:10MjmQ55taeJazium0BoL7
 features: []
-genres: []
+first_released_as_single: false
 key: wynken-blynken-and-nod-the-doobie-brothers
 lyrics_url: https://genius.com/The-doobie-brothers-wynken-blynken-and-nod-lyrics
 name: Wynken Blynken And Nod
@@ -23,6 +26,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1981-02-14'
+release_year: 1981
+runtime: 200320
 ---
 Wynken and Blynken and Nod
 One night sailed off in a wooden shoe

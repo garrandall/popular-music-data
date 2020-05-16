@@ -1,8 +1,11 @@
 ---
+album: Words Of Earnest
 artists:
 - Goose Creek Symphony
+external_ids:
+  spotify: spotify:track:2uHWLH7bnYPlWSWe6AfHiO
 features: []
-genres: []
+first_released_as_single: false
 key: -oh-lord-won-t-you-buy-me-a--mercedes-benz-goose-creek-symphony
 lyrics_url: https://genius.com/Goose-creek-symphony-oh-lord-wont-you-buy-me-a-mercedes-benz-lyrics
 name: (Oh Lord Won't You Buy Me A) Mercedes Benz
@@ -43,6 +46,8 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '1972-03-25'
+release_year: 1972
+runtime: 196333
 ---
 Oh Lord, won't you
 Buy me a Mercedes Benz

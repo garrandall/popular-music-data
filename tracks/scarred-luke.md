@@ -1,8 +1,11 @@
 ---
+album: Scandalous - The All Star Compilation
 artists:
 - Luke
+external_ids:
+  spotify: spotify:track:0NXA8wKGM6eRgLzpJXanGL
 features: []
-genres: []
+first_released_as_single: false
 key: scarred-luke
 lyrics_url: https://genius.com/Luke-scarred-lyrics
 name: Scarred
@@ -71,6 +74,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1996-08-10'
+release_year: 1996
+runtime: 206053
 ---
 Cap D coming beat that fine move
 Fuck niggas rock too

@@ -1,8 +1,11 @@
 ---
+album: Know.
 artists:
 - Jason Mraz
+external_ids:
+  spotify: spotify:track:1pIMxRddmCGalHnRbLFkWg
 features: []
-genres: []
+first_released_as_single: true
 key: have-it-all-jason-mraz
 lyrics_url: https://genius.com/Jason-mraz-have-it-all-lyrics
 name: Have It All
@@ -11,6 +14,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2018-08-25'
+release_year: 2018
+runtime: 226098
 ---
 May you have auspiciousness and causes of success
 May you have the confidence to always do your best

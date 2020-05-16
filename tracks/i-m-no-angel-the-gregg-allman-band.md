@@ -1,8 +1,11 @@
 ---
+album: I'm No Angel
 artists:
 - The Gregg Allman Band
+external_ids:
+  spotify: spotify:track:2j4TwsQfcxEk8uTKGaCjy0
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-no-angel-the-gregg-allman-band
 lyrics_url: https://genius.com/The-gregg-allman-band-im-no-angel-lyrics
 name: I'm No Angel
@@ -47,6 +50,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1987-06-06'
+release_year: 1970
+runtime: 223333
 ---
 No, I'm no angel
 No, I'm no stranger to the streets

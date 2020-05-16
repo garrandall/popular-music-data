@@ -1,8 +1,11 @@
 ---
+album: More Greatest Hits
 artists:
 - Marty Robbins
+external_ids:
+  spotify: spotify:track:5uWTiJ1Ce5z5TcQLGZ6Tec
 features: []
-genres: []
+first_released_as_single: false
 key: ballad-of-the-alamo-marty-robbins
 lyrics_url: https://www.azlyrics.com/lyrics/martyrobbins/balladofthealamo.html
 name: Ballad Of The Alamo
@@ -59,8 +62,9 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1961-01-09'
+release_year: 1960
+runtime: 220400
 ---
-
 In the southern part of Texas
 In the town of San Antone
 There's a fortress all in ruins that the weeds have overgrown
@@ -143,6 +147,3 @@ To the men of Alamo.
 
 To the thirteen days of glory
 At the siege of Alamo...
-
-
-

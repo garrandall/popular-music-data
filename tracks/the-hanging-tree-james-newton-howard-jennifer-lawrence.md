@@ -1,9 +1,12 @@
 ---
+album: 'The Hunger Games: Mockingjay Pt. 1 (Original Motion Picture Score)'
 artists:
 - James Newton Howard
+external_ids:
+  spotify: spotify:track:416MsJxvxSKY96DCmbJIRs
 features:
 - Jennifer Lawrence
-genres: []
+first_released_as_single: false
 key: the-hanging-tree-james-newton-howard-jennifer-lawrence
 lyrics_url: https://genius.com/James-newton-howard-and-jennifer-lawrence-the-hanging-tree-lyrics
 name: The Hanging Tree
@@ -76,6 +79,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2015-04-04'
+release_year: 2014
+runtime: 218506
 ---
 Are you, are you
 Coming to the tree?

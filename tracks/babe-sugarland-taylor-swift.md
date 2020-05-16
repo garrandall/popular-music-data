@@ -1,9 +1,12 @@
 ---
+album: reputation Stadium Tour Surprise Song Playlist
 artists:
 - Sugarland
+external_ids:
+  spotify: spotify:track:40PXEOFLJc7UIpLMrhSfW1
 features:
 - Taylor Swift
-genres: []
+first_released_as_single: false
 key: babe-sugarland-taylor-swift
 lyrics_url: https://www.azlyrics.com/lyrics/sugarland/babe.html
 name: Babe
@@ -16,8 +19,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2018-06-23'
+release_year: 2017
+runtime: 215106
 ---
-
 What a shame
 Didn't wanna be the one that got away, yeah
 Big mistake, broke the sweetest promise
@@ -67,6 +71,3 @@ We're a wreck, you're the wrecking ball
 This is the last time, this is the last time
 You said I'm no one else, this is the last time
 I'll ever call you babe
-
-
-

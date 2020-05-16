@@ -1,8 +1,11 @@
 ---
+album: Jerry Wallace's Greatest Hits
 artists:
 - Jerry Wallace
+external_ids:
+  spotify: spotify:track:1ZX3zJ342LVBcy9enMdUYa
 features: []
-genres: []
+first_released_as_single: true
 key: little-coco-palm-jerry-wallace
 lyrics_url: https://www.musixmatch.com/lyrics/Jerry-Wallace/Little-Coco-Palm
 name: Little Coco Palm
@@ -43,6 +46,8 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1960-02-29'
+release_year: 1960
+runtime: 141400
 ---
 Little coco palm
 Growing in the island sun

@@ -1,8 +1,11 @@
 ---
+album: There Is Only One Roy Orbison
 artists:
 - Roy Orbison
+external_ids:
+  spotify: spotify:track:1nxSCulSg5AtmExqgHPPC0
 features: []
-genres: []
+first_released_as_single: false
 key: ride-away-roy-orbison
 lyrics_url: https://www.azlyrics.com/lyrics/devendrabanhart/rideawaylikeroyorbison.html
 name: Ride Away
@@ -47,8 +50,9 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1965-10-23'
+release_year: 1965
+runtime: 207573
 ---
-
 There's always something going on
 and there's always something happening
 
@@ -85,6 +89,3 @@ Ride away to a heart that's true
 Ride away like Roy Orbison would
 Ride away to a heart that's true
 Ride away like Roy Orbison would
-
-
-

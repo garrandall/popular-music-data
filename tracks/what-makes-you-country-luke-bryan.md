@@ -1,8 +1,11 @@
 ---
+album: What Makes You Country
 artists:
 - Luke Bryan
+external_ids:
+  spotify: spotify:track:3bDXhWsPiFTHtrsMg5faL2
 features: []
-genres: []
+first_released_as_single: false
 key: what-makes-you-country-luke-bryan
 lyrics_url: https://www.azlyrics.com/lyrics/lukebryan/whatmakesyoucountry.html
 name: What Makes You Country
@@ -51,8 +54,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2019-03-23'
+release_year: 2017
+runtime: 235266
 ---
-
 People talkin' 'bout what is and what ain't country
 What gives 'em the right to wear a pair of beat-up boots?
 Is it the size of your tires and your fires, or your wild ass buddies?
@@ -107,6 +111,3 @@ You do your kinda country
 They doing their kind of country
 I do my kind of country
 Whatever makes us country
-
-
-

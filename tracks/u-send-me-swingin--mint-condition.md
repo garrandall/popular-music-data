@@ -1,8 +1,11 @@
 ---
+album: From The Mint Factory
 artists:
 - Mint Condition
+external_ids:
+  spotify: spotify:track:1mC7u32zemMLC1mVOU02Pm
 features: []
-genres: []
+first_released_as_single: false
 key: u-send-me-swingin--mint-condition
 lyrics_url: https://www.azlyrics.com/lyrics/mintcondition/usendmeswingin.html
 name: U Send Me Swingin'
@@ -71,8 +74,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1994-05-07'
+release_year: 1993
+runtime: 314537
 ---
-
 U send me swingin'
 Oh, u send me swingin'
 
@@ -121,6 +125,3 @@ U send me swingin', oh, u send me swingin'
 
 Oh, u send me swingin'
 U send me swingin', oh, u send me swingin'
-
-
-

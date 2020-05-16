@@ -1,8 +1,11 @@
 ---
+album: LaTour
 artists:
 - LaTour
+external_ids:
+  spotify: spotify:track:1xKW0Y1kSVnZzcAHOccLVl
 features: []
-genres: []
+first_released_as_single: false
 key: people-are-still-having-sex-latour
 lyrics_url: https://genius.com/Latour-people-are-still-having-sex-lyrics
 name: People Are Still Having Sex
@@ -51,6 +54,8 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1991-06-15'
+release_year: 1991
+runtime: 316466
 ---
 Have you noticed that people are still having sex?
 All the denouncement had absolutely no effect

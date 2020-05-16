@@ -1,8 +1,11 @@
 ---
+album: Reg Strikes Back
 artists:
 - Elton John
+external_ids:
+  spotify: spotify:track:1EsN2D481Q3E8vz68nkNoA
 features: []
-genres: []
+first_released_as_single: false
 key: a-word-in-spanish-elton-john
 lyrics_url: https://www.azlyrics.com/lyrics/eltonjohn/awordinspanish.html
 name: A Word In Spanish
@@ -59,8 +62,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1988-12-10'
+release_year: 1988
+runtime: 279106
 ---
-
 I don't know why
 I just know I do
 I just can't explain
@@ -94,6 +98,3 @@ When manners make no difference
 And my gifts all lay undone
 I trade my accent in on chance
 And fall back on a foreign tongue
-
-
-

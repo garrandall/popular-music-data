@@ -1,8 +1,11 @@
 ---
+album: The Fox
 artists:
 - Elton John
+external_ids:
+  spotify: spotify:track:231kvu5STQGcqzuRDX9S9C
 features: []
-genres: []
+first_released_as_single: false
 key: chloe-elton-john
 lyrics_url: https://www.azlyrics.com/lyrics/eltonjohn/chloe.html
 name: Chloe
@@ -59,8 +62,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1981-10-17'
+release_year: 1981
+runtime: 651480
 ---
-
 How come you're so understanding
 When I tell you all my lies
 And pretending to believe them
@@ -88,6 +92,3 @@ Start to wear a little thin
 Then I need you more than ever
 And I want you till the end
 Chloe, Chloe
-
-
-

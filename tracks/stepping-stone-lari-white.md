@@ -1,8 +1,11 @@
 ---
+album: Stepping Stone
 artists:
 - Lari White
+external_ids:
+  spotify: spotify:track:4fVqsTSHG6FAuFpRCRsLP1
 features: []
-genres: []
+first_released_as_single: false
 key: stepping-stone-lari-white
 lyrics_url: https://genius.com/Lari-white-stepping-stone-lyrics
 name: Stepping Stone
@@ -55,6 +58,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1998-09-26'
+release_year: 1998
+runtime: 209040
 ---
 Here I am at another dead end
 Stopped in my tracks again

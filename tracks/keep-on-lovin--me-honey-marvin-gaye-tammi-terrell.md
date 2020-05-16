@@ -1,9 +1,12 @@
 ---
+album: You're All I Need
 artists:
 - Marvin Gaye
 - Tammi Terrell
+external_ids:
+  spotify: spotify:track:10gGpPF6Z4GR4z98m5jYn3
 features: []
-genres: []
+first_released_as_single: false
 key: keep-on-lovin--me-honey-marvin-gaye-tammi-terrell
 lyrics_url: https://www.azlyrics.com/lyrics/marvingaye/keeponlovinmehoney.html
 name: Keep On Lovin' Me Honey
@@ -36,9 +39,10 @@ rankings:
   rank: 33
   ranking_list: Billboard Hot 100
   start_date: '1968-11-23'
+release_year: 1968
+runtime: 154366
 ---
-
- Keep on lovin' me honey, keep on lovin' me true
+Keep on lovin' me honey, keep on lovin' me true
  Baby, I'm gonna love you no matter what you do
  Just so long as I can have it all, nothin' but you
  So don't you take your love, don't take it away from me
@@ -76,4 +80,3 @@ If you leave you might as well take the air I breathe
 Don't you take your love, don't take it away from me
 'Cause I need your love, I need you so desperately
 Don't you take your love, don't take it away from me
-

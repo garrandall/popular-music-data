@@ -1,8 +1,11 @@
 ---
+album: Islah
 artists:
 - Kevin Gates
+external_ids:
+  spotify: spotify:track:10I3CmmwT0BkOVhduDy53o
 features: []
-genres: []
+first_released_as_single: false
 key: really-really-kevin-gates
 lyrics_url: https://genius.com/Kevin-gates-really-really-lyrics
 name: Really Really
@@ -111,6 +114,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2016-07-16'
+release_year: 2016
+runtime: 232093
 ---
 Diamonds really diamonds
 And I'm shining bright ‘cause I'm really grindin'

@@ -1,8 +1,11 @@
 ---
+album: Secrets
 artists:
 - Robert Palmer
+external_ids:
+  spotify: spotify:track:75zVpdjXwmy6SLr2hDnJYo
 features: []
-genres: []
+first_released_as_single: false
 key: bad-case-of-loving-you--doctor-doctor--robert-palmer
 lyrics_url: https://www.azlyrics.com/lyrics/robertpalmer/badcaseoflovingyoudoctordoctor.html
 name: Bad Case Of Loving You (Doctor Doctor)
@@ -67,8 +70,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1979-10-27'
+release_year: 1979
+runtime: 192440
 ---
-
 A hot summer night fell like a net
 I've gotta find my baby yet
 I need you to soothe my head
@@ -101,6 +105,3 @@ Doctor Doctor, gimme the news I've got a
 Bad case of lovin' you
 No pill's gonna cure my ill I got a
 Bad case of lovin' you
-
-
-

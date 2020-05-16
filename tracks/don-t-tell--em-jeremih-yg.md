@@ -1,9 +1,12 @@
 ---
+album: 'Late Nights: The Album'
 artists:
 - Jeremih
+external_ids:
+  spotify: spotify:track:5JHotiHpAuuBcCFbpjXpYR
 features:
 - YG
-genres: []
+first_released_as_single: true
 key: don-t-tell--em-jeremih-yg
 lyrics_url: https://genius.com/Jeremih-dont-tell-em-lyrics
 name: Don't Tell 'Em
@@ -132,6 +135,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '2015-02-07'
+release_year: 2014
+runtime: 245120
 ---
 Mustard on the beat, ho
 

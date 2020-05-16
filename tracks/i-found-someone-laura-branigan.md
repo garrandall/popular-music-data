@@ -1,8 +1,11 @@
 ---
+album: Hold Me
 artists:
 - Laura Branigan
+external_ids:
+  spotify: spotify:track:2xqYkaATHkjeT87FHyvowM
 features: []
-genres: []
+first_released_as_single: false
 key: i-found-someone-laura-branigan
 lyrics_url: https://www.azlyrics.com/lyrics/laurabranigan/ifoundsomeone.html
 name: I Found Someone
@@ -31,8 +34,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1986-04-05'
+release_year: 1985
+runtime: 240986
 ---
-
 Don't you know
 So many things they come and go 
 Like your words that once rang true
@@ -75,6 +79,3 @@ To take away the loneliness
 I've been livin' with since you've been gone
 Since you've been gone
 Since you've been gone
-
-
-

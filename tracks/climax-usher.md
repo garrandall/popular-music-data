@@ -1,8 +1,11 @@
 ---
+album: Looking 4 Myself
 artists:
 - Usher
+external_ids:
+  spotify: spotify:track:6bwvfH8bvUUax5GwOP493c
 features: []
-genres: []
+first_released_as_single: true
 key: climax-usher
 lyrics_url: https://genius.com/Usher-climax-lyrics
 name: Climax
@@ -87,6 +90,8 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '2012-07-21'
+release_year: 2012
+runtime: 398040
 ---
 Going nowhere fast
 We've reached the climax

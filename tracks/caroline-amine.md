@@ -125,7 +125,7 @@ Listen, man
 What's up?
 I heard you done got you a dime piece, man
 Hell naw, man
-One of them BeyoncÃ©, Meagan Good types
+One of them Beyoncé, Meagan Good types
 Nah, nah, nah
 Is that true, man?
 I just wanna know

@@ -1,8 +1,11 @@
 ---
+album: Stop And Smell The Roses
 artists:
 - Mac Davis
+external_ids:
+  spotify: spotify:track:3ROynoOj2SBe2q8et6z51g
 features: []
-genres: []
+first_released_as_single: false
 key: rock-n--roll--i-gave-you-the-best-years-of-my-life--mac-davis
 lyrics_url: https://www.azlyrics.com/lyrics/macdavis/rocknrolligaveyouthebestyearsofmylife.html
 name: Rock N' Roll (I Gave You The Best Years Of My Life)
@@ -51,8 +54,9 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1975-02-15'
+release_year: 1974
+runtime: 207400
 ---
-
 I can still remember when I bought my first guitar
 Remember just how good the feeling was, put it proudly in my car
 And my family listened fifty times to my two song repertoire
@@ -108,6 +112,3 @@ All the dreamy sunny Sundays, all the moon-lit summer nights
 I was so busy in the back room makin' love songs to you
 While you were changin' your direction, and you never even knew
 That I was always, just one step behind you
-
-
-

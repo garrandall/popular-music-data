@@ -1,8 +1,11 @@
 ---
+album: Caribou
 artists:
 - Elton John
+external_ids:
+  spotify: spotify:track:11FcfHd3SOmmrWJPGe7Y30
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-let-the-sun-go-down-on-me-elton-john
 lyrics_url: https://genius.com/Elton-john-dont-let-the-sun-go-down-on-me-lyrics
 name: Don't Let The Sun Go Down On Me
@@ -67,6 +70,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1974-09-28'
+release_year: 1974
+runtime: 336733
 ---
 I can't light no more of your darkness
 All my pictures seem to fade to black and white

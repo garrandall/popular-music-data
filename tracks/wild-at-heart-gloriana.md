@@ -1,8 +1,11 @@
 ---
+album: Gloriana
 artists:
 - Gloriana
+external_ids:
+  spotify: spotify:track:0As5NstLxpNgAowtusWsnb
 features: []
-genres: []
+first_released_as_single: false
 key: wild-at-heart-gloriana
 lyrics_url: https://www.azlyrics.com/lyrics/gloriana/wildatheart.html
 name: Wild At Heart
@@ -67,6 +70,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2009-09-19'
+release_year: 2009
+runtime: 223573
 ---
 Down a back road
 Long, hot summer

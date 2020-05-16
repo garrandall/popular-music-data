@@ -1,8 +1,11 @@
 ---
+album: The Cars
 artists:
 - The Cars
+external_ids:
+  spotify: spotify:track:1R7NCTuuiAHKYgyT1Vb0p8
 features: []
-genres: []
+first_released_as_single: true
 key: just-what-i-needed-the-cars
 lyrics_url: https://genius.com/The-cars-just-what-i-needed-lyrics
 name: Just What I Needed
@@ -75,6 +78,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1978-10-07'
+release_year: 1978
+runtime: 223893
 ---
 I don't mind you comin' here
 And wastin' all my time

@@ -1,8 +1,11 @@
 ---
+album: Juice Newton & Silver Spur
 artists:
 - Juice Newton
+external_ids:
+  spotify: spotify:track:6xNtuERES6H17yfcN5gvNA
 features: []
-genres: []
+first_released_as_single: false
 key: the-sweetest-thing--i-ve-ever-known--juice-newton
 lyrics_url: https://genius.com/Juice-newton-the-sweetest-thing-lyrics
 name: The Sweetest Thing (I've Ever Known)
@@ -103,6 +106,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1982-03-27'
+release_year: 1975
+runtime: 214440
 ---
 When I see you in the morning with the sleep still in your eyes
 I remember all the laughter and the tears we shared last night

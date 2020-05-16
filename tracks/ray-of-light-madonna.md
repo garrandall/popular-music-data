@@ -1,8 +1,11 @@
 ---
+album: Ray of Light (U.S. Version)
 artists:
 - Madonna
+external_ids:
+  spotify: spotify:track:4Fpsa3pYc3gozrxHRRPvR6
 features: []
-genres: []
+first_released_as_single: false
 key: ray-of-light-madonna
 lyrics_url: https://www.azlyrics.com/lyrics/madonna/rayoflight.html
 name: Ray Of Light
@@ -87,9 +90,9 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '1998-11-21'
+release_year: 1998
+runtime: 320693
 ---
-
-
 Zephyr in the sky at night I wonder
 Do my tears of mourning sink beneath the sun
 She's got herself a universe gone quickly
@@ -132,6 +135,3 @@ And I feel
 
 Quicker than a ray of light she's flying
 Quicker than a ray of light I'm flying
-
-
-

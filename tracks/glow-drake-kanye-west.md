@@ -1,9 +1,12 @@
 ---
+album: More Life
 artists:
 - Drake
+external_ids:
+  spotify: spotify:track:28irpKCCK9nn9DZSik2zEx
 features:
 - Kanye West
-genres: []
+first_released_as_single: false
 key: glow-drake-kanye-west
 lyrics_url: https://www.azlyrics.com/lyrics/drake/glow.html
 name: Glow
@@ -16,9 +19,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2017-04-15'
+release_year: 2017
+runtime: 206119
 ---
-
-
 Watch out for me, I'm bound to glow
 You better watch out for me, I'm bound to glow
 
@@ -93,6 +96,3 @@ Come on, y'all
 I said it's alright
 Clap your hands and see me
 Come on, y'all
-
-
-

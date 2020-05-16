@@ -1,8 +1,11 @@
 ---
+album: The Madman's Return
 artists:
 - Snap!
+external_ids:
+  spotify: spotify:track:6NLAzDPHSlV2bl7XbmivOq
 features: []
-genres: []
+first_released_as_single: true
 key: rhythm-is-a-dancer-snap-
 lyrics_url: https://genius.com/Snap-rhythm-is-a-dancer-lyrics
 name: Rhythm Is A Dancer
@@ -163,6 +166,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1993-05-08'
+release_year: 1991
+runtime: 316138
 ---
 Rhythm is a dancer
 It's a soul's companion

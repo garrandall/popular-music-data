@@ -1,8 +1,11 @@
 ---
+album: Break Of Dawn
 artists:
 - Firefall
+external_ids:
+  spotify: spotify:track:4ko4WxOdiaVEJexWRb53zZ
 features: []
-genres: []
+first_released_as_single: false
 key: always-firefall
 lyrics_url: https://www.azlyrics.com/lyrics/firefall/always.html
 name: Always
@@ -59,8 +62,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1983-04-09'
+release_year: 1982
+runtime: 227773
 ---
-
 How've you been, say it's me again
 It's been a long long time
 There's so much to say, where do I begin?
@@ -110,6 +114,3 @@ And when I'm thinking of you, always
 I want you more than life
 
 You've got me thinking of you, always
-
-
-

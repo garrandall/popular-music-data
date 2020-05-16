@@ -1,8 +1,11 @@
 ---
+album: The Kingston Trio
 artists:
 - The Kingston Trio
+external_ids:
+  spotify: spotify:track:49l9Y5FbkOwKFLFbc9ArD6
 features: []
-genres: []
+first_released_as_single: false
 key: scotch-and-soda-the-kingston-trio
 lyrics_url: https://genius.com/Kingston-trio-scotch-and-soda-lyrics
 name: Scotch And Soda
@@ -35,6 +38,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1962-06-23'
+release_year: 1958
+runtime: 153293
 ---
 Scotch and Soda
 Mud in yer eye

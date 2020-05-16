@@ -1,8 +1,11 @@
 ---
+album: Everything Playing
 artists:
 - The Lovin' Spoonful
+external_ids:
+  spotify: spotify:track:5o179PzNeHCNvveju5xa1Q
 features: []
-genres: []
+first_released_as_single: false
 key: money-the-lovin--spoonful
 lyrics_url: https://www.azlyrics.com/lyrics/lovinspoonful/money.html
 name: Money
@@ -31,8 +34,9 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '1968-02-10'
+release_year: 1967
+runtime: 113173
 ---
-
 I get money from you
 To tickle your whim or blow up your mind
 Then I give money to you
@@ -57,6 +61,3 @@ With the interest I show
 In the interest it gives me
 And now a piece of paper from me
 Won't seem half as flimsy
-
-
-

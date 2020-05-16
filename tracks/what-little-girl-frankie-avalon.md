@@ -1,8 +1,11 @@
 ---
+album: Collection 1954-62
 artists:
 - Frankie Avalon
+external_ids:
+  spotify: spotify:track:6Exit7pOYZDgfXQqvmcEiw
 features: []
-genres: []
+first_released_as_single: false
 key: what-little-girl-frankie-avalon
 lyrics_url: https://www.musixmatch.com/lyrics/Frankie-Avalon/What-Little-Girl
 name: What Little Girl
@@ -15,6 +18,8 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1958-10-20'
+release_year: 1958
+runtime: 120480
 ---
 What little girl's gonna hold me tight
 (I'll be the girl to hold you tight)

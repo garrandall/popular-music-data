@@ -1,8 +1,11 @@
 ---
+album: Burl Ives (8 Original Albums)
 artists:
 - Burl Ives
+external_ids:
+  spotify: spotify:track:7kPBXSztfUExKSKmf8uvmp
 features: []
-genres: []
+first_released_as_single: false
 key: the-same-old-hurt-burl-ives
 lyrics_url: https://www.azlyrics.com/lyrics/burlives/thesameoldhurt.html
 name: The Same Old Hurt
@@ -15,8 +18,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1963-02-02'
+release_year: 1963
+runtime: 133240
 ---
-
 Got a new house with new lumber
 Even got a new phone number
 Did it all since we broke apart
@@ -50,6 +54,3 @@ Got a new girl that calls me 'Honey'
 But I've got that same old hurt in my heart
 
 Got that same old hurt in my heart
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Let's Stay Together
 artists:
 - Al Green
+external_ids:
+  spotify: spotify:track:63xdwScd1Ai1GigAwQxE8y
 features: []
-genres: []
+first_released_as_single: false
 key: let-s-stay-together-al-green
 lyrics_url: https://genius.com/Al-green-lets-stay-together-lyrics
 name: Let's Stay Together
@@ -71,6 +74,8 @@ rankings:
   rank: 22
   ranking_list: Billboard Hot 100
   start_date: '1972-03-18'
+release_year: 1971
+runtime: 199396
 ---
 Let's stay together
 

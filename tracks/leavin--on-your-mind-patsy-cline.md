@@ -1,8 +1,11 @@
 ---
+album: Remembering
 artists:
 - Patsy Cline
+external_ids:
+  spotify: spotify:track:1D2mV1f9QkklP6vy0sdBI9
 features: []
-genres: []
+first_released_as_single: false
 key: leavin--on-your-mind-patsy-cline
 lyrics_url: https://www.azlyrics.com/lyrics/patsycline/leavinonyourmind.html
 name: Leavin' On Your Mind
@@ -27,8 +30,9 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1963-02-23'
+release_year: 1963
+runtime: 147026
 ---
-
 If you got leavin' on your mind
 Tell me now, get it over
 Hurt me now, get it over
@@ -51,6 +55,3 @@ If there's a new love in your heart
 
 Hurt me now, get it over
 If there's a new love in your heart
-
-
-

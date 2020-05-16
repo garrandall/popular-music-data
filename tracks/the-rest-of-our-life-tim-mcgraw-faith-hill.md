@@ -1,9 +1,12 @@
 ---
+album: The Rest of Our Life
 artists:
 - Tim McGraw
 - Faith Hill
+external_ids:
+  spotify: spotify:track:19P6cJstaoQJHtHW3HOGcg
 features: []
-genres: []
+first_released_as_single: false
 key: the-rest-of-our-life-tim-mcgraw-faith-hill
 lyrics_url: https://www.azlyrics.com/lyrics/timmcgraw/therestofourlife.html
 name: The Rest Of Our Life
@@ -12,9 +15,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2017-12-09'
+release_year: 2017
+runtime: 225360
 ---
-
-
 Sitting with you in a dark room
 Warmed by a fireplace
 You know there's just something about you
@@ -62,6 +65,3 @@ I'll stay young for the rest of my life
 With you, I'll stay young for the rest of my life
 With you
 We'll stay young for the rest of our life
-
-
-

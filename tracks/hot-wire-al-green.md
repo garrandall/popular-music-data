@@ -1,8 +1,11 @@
 ---
+album: Back Up Train
 artists:
 - Al Green
+external_ids:
+  spotify: spotify:track:6I56ppsvv3V32jvOpH9Znb
 features: []
-genres: []
+first_released_as_single: false
 key: hot-wire-al-green
 lyrics_url: https://www.azlyrics.com/lyrics/algreen/hotwire.html
 name: Hot Wire
@@ -27,8 +30,9 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '1973-02-17'
+release_year: 1967
+runtime: 175453
 ---
-
 I miss you
 How I long to kiss you, baby
 Without you, can't go on
@@ -105,6 +109,3 @@ Every, every day, y'all
 (Without you) yeah
 (Can't go on without you, baby)
 Just a little higher, y'all...
-
-
-

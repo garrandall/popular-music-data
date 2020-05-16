@@ -1,8 +1,11 @@
 ---
+album: Center Stage Music From The Motion Picture
 artists:
 - Michael Jackson
+external_ids:
+  spotify: spotify:track:3Mc2wTPR6atdR1IKgBNYQm
 features: []
-genres: []
+first_released_as_single: false
 key: the-way-you-make-me-feel-michael-jackson
 lyrics_url: https://genius.com/Michael-jackson-the-way-you-make-me-feel-lyrics
 name: The Way You Make Me Feel
@@ -79,6 +82,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1988-03-19'
+release_year: 1987
+runtime: 297040
 ---
 Hee-Hee!
 Oh!

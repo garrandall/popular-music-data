@@ -1,8 +1,11 @@
 ---
+album: Breakout
 artists:
 - Miley Cyrus
+external_ids:
+  spotify: spotify:track:131RmhQ2mHtY29K1xX3SHW
 features: []
-genres: []
+first_released_as_single: false
 key: breakout-miley-cyrus
 lyrics_url: https://www.azlyrics.com/lyrics/mileycyrus/breakout.html
 name: Breakout
@@ -23,8 +26,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2008-08-30'
+release_year: 2008
+runtime: 206160
 ---
-
 Every weeks the same
 Stuck in school's so lame
 My parents say that I'm lazy
@@ -62,4 +66,3 @@ Not a book full of things we'll never use
 I wish it would never end,
 Spending time with my friends.
 Oh with my friends!
-

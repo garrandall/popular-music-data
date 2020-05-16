@@ -1,8 +1,11 @@
 ---
+album: Platinum
 artists:
 - Miranda Lambert
+external_ids:
+  spotify: spotify:track:0B0y2FImat9j9MJTNRZWfW
 features: []
-genres: []
+first_released_as_single: false
 key: automatic-miranda-lambert
 lyrics_url: https://genius.com/Miranda-lambert-automatic-lyrics
 name: Automatic
@@ -83,6 +86,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2014-07-12'
+release_year: 2014
+runtime: 247826
 ---
 Quarter in a payphone
 Drying laundry on the line

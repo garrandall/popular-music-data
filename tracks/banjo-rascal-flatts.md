@@ -1,8 +1,11 @@
 ---
+album: Changed
 artists:
 - Rascal Flatts
+external_ids:
+  spotify: spotify:track:47aIa6zbUGsdNn55cyuOug
 features: []
-genres: []
+first_released_as_single: false
 key: banjo-rascal-flatts
 lyrics_url: https://genius.com/Rascal-flatts-banjo-lyrics
 name: Banjo
@@ -75,6 +78,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2012-06-23'
+release_year: 2012
+runtime: 256133
 ---
 When I lose my smile
 When my thoughts get jumbled

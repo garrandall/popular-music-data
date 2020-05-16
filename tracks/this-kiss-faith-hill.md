@@ -1,8 +1,11 @@
 ---
+album: Faith
 artists:
 - Faith Hill
+external_ids:
+  spotify: spotify:track:5EYWGM3Ns3iYew8ws0FatB
 features: []
-genres: []
+first_released_as_single: false
 key: this-kiss-faith-hill
 lyrics_url: https://www.azlyrics.com/lyrics/faithhill/thiskiss.html
 name: This Kiss
@@ -199,8 +202,9 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1999-02-13'
+release_year: 1998
+runtime: 193979
 ---
-
 I don't want another heartbreak
 I don't need another turn to cry, no
 I don't want to learn the hard way
@@ -269,6 +273,3 @@ This kiss, this kiss
 
 It's the way you love me baby
 It's the way you love me darlin'
-
-
-

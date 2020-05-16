@@ -1,8 +1,11 @@
 ---
+album: Live '81
 artists:
 - Humble Pie
+external_ids:
+  spotify: spotify:track:5gaHSyAJi4EB8GMdyOLLh9
 features: []
-genres: []
+first_released_as_single: false
 key: fool-for-a-pretty-face--hurt-by-love--humble-pie
 lyrics_url: https://www.azlyrics.com/lyrics/humblepie/foolforaprettyface.html
 name: Fool For A Pretty Face (Hurt By Love)
@@ -35,8 +38,9 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1980-06-07'
+release_year: 1980
+runtime: 346386
 ---
-
 Alright... 
 
 Well you tell me you want me
@@ -93,6 +97,3 @@ For a... pretty face
 Hurt by love
 Hurt by love
 I'm just a fool for a pretty face
-
-
-

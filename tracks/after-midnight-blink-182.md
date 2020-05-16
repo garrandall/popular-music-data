@@ -1,8 +1,11 @@
 ---
+album: Neighborhoods
 artists:
 - Blink-182
+external_ids:
+  spotify: spotify:track:27H8WsrkD5catdc3a2fCLV
 features: []
-genres: []
+first_released_as_single: false
 key: after-midnight-blink-182
 lyrics_url: https://www.azlyrics.com/lyrics/blink182/aftermidnight.html
 name: After Midnight
@@ -11,8 +14,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2011-10-15'
+release_year: 2011
+runtime: 206866
 ---
-
 I can't get my feet up off the edge
 I kind of like the little rush you get
 When you're standing close to death
@@ -70,6 +74,3 @@ We'll stagger home after midnight
 Sleep arm in arm in the stairwell
 We'll fall apart on the weekend
 These nights go on and on and on
-
-
-

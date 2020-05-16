@@ -1,8 +1,11 @@
 ---
+album: Tonight's The Night
 artists:
 - The Shirelles
+external_ids:
+  spotify: spotify:track:0bwy3sGHeYwng2Ioicq6wf
 features: []
-genres: []
+first_released_as_single: false
 key: will-you-love-me-tomorrow-the-shirelles
 lyrics_url: https://www.musixmatch.com/lyrics/The-Shirelles/Will-You-Love-Me-Tomorrow
 name: Will You Love Me Tomorrow
@@ -83,6 +86,8 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '1961-03-27'
+release_year: 1960
+runtime: 160693
 ---
 Tonight you're mine completely
 You give your love so sweetly

@@ -1,8 +1,11 @@
 ---
+album: The Assembled Multitude
 artists:
 - The Assembled Multitude
+external_ids:
+  spotify: spotify:track:6UJofbIrnFdBE6OE65ul6Q
 features: []
-genres: []
+first_released_as_single: false
 key: overture-from-tommy--a-rock-opera--the-assembled-multitude
 name: Overture From Tommy (A Rock Opera)
 rankings:
@@ -58,5 +61,7 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1970-09-19'
+release_year: 1970
+runtime: 149733
 ---
 

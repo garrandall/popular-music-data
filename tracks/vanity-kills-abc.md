@@ -1,8 +1,11 @@
 ---
+album: How To Be A Zillionaire
 artists:
 - ABC
+external_ids:
+  spotify: spotify:track:3rVMvWZ80QQUdZjbvJhNqy
 features: []
-genres: []
+first_released_as_single: false
 key: vanity-kills-abc
 lyrics_url: https://www.azlyrics.com/lyrics/abc/vanitykills.html
 name: Vanity Kills
@@ -23,8 +26,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1986-06-07'
+release_year: 1985
+runtime: 209333
 ---
-
 Have you heard the latest (You love you)
 Have you seen who just walked in (Vain vain vain vain)
 (Uh huh, you love you)
@@ -86,6 +90,3 @@ Vanity kills, you love you
 Vanity kills, if the blast don't get you
 Then the fallout will
 You love you
-
-
-

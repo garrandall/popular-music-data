@@ -1,8 +1,11 @@
 ---
+album: beerbongs & bentleys
 artists:
 - Post Malone
+external_ids:
+  spotify: spotify:track:4qWCFTuNnmGNdY4egtb4ZY
 features: []
-genres: []
+first_released_as_single: false
 key: otherside-post-malone
 lyrics_url: https://www.azlyrics.com/lyrics/postmalone/otherside.html
 name: Otherside
@@ -15,8 +18,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2018-05-19'
+release_year: 2018
+runtime: 228226
 ---
-
 I been waiting wide awake
 For the waves to come and take
 Take me right to you
@@ -90,6 +94,3 @@ Or will you run away?
 
 Are you on the other side? Will you save us?
 Or will you run away?
-
-
-

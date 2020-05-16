@@ -1,8 +1,11 @@
 ---
+album: Malice In Wonderland
 artists:
 - Nazareth
+external_ids:
+  spotify: spotify:track:4HoTskE5N0oEM4CKRfuzFI
 features: []
-genres: []
+first_released_as_single: false
 key: holiday-nazareth
 lyrics_url: https://www.azlyrics.com/lyrics/nazareth/holiday.html
 name: Holiday
@@ -19,8 +22,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1980-04-12'
+release_year: 1980
+runtime: 216253
 ---
-
 Drinkin' my wine, makes me feel fine,
 Gonna have me a holiday
 Poorman's party, rich man's daughter,
@@ -64,6 +68,3 @@ Mama, mama, please no more husbands
 I don't know who my daddy is.
 
 It's a holiday, it's a holiday
-
-
-

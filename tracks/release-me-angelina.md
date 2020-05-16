@@ -1,8 +1,11 @@
 ---
+album: The Album
 artists:
 - Angelina
+external_ids:
+  spotify: spotify:track:0Tat69llCHsMgBQlZ2u8ih
 features: []
-genres: []
+first_released_as_single: false
 key: release-me-angelina
 lyrics_url: https://genius.com/Angelina-release-me-lyrics
 name: Release Me
@@ -87,6 +90,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1996-08-03'
+release_year: 1996
+runtime: 258893
 ---
 I feel your touch
 I can hear you voice

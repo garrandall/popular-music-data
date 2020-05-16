@@ -1,8 +1,11 @@
 ---
+album: Calypso - Is Like So...!
 artists:
 - Robert Mitchum
+external_ids:
+  spotify: spotify:track:4CORfI5PJIhyMw8uWpDfKz
 features: []
-genres: []
+first_released_as_single: false
 key: the-ballad-of-thunder-road-robert-mitchum
 lyrics_url: https://www.musixmatch.com/lyrics/Robert-Mitchum/The-Ballad-of-Thunder-Road
 name: The Ballad Of Thunder Road
@@ -91,6 +94,8 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1962-04-28'
+release_year: 1957
+runtime: 151040
 ---
 Let me tell the story, I can tell it all
 About the mountain boy who ran illegal alcohol

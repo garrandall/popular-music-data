@@ -1,8 +1,11 @@
 ---
+album: A Life of Words & Music
 artists:
 - Oliver
+external_ids:
+  spotify: spotify:track:0qia7G8Sgx47bGLEWk4qVz
 features: []
-genres: []
+first_released_as_single: false
 key: sunday-mornin--oliver
 lyrics_url: https://www.musixmatch.com/lyrics/Oliver/Sunday-Mornin
 name: Sunday Mornin'
@@ -43,6 +46,8 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '1970-01-17'
+release_year: 1969
+runtime: 311200
 ---
 Sunday morning
 Sun shining from your eyes

@@ -1,9 +1,12 @@
 ---
+album: Teenage Emotions
 artists:
 - Lil Yachty
+external_ids:
+  spotify: spotify:track:4ut5GTELyIaTLJmkTPpRws
 features:
 - Migos
-genres: []
+first_released_as_single: true
 key: peek-a-boo-lil-yachty-migos
 lyrics_url: https://www.azlyrics.com/lyrics/lilyachty/peekaboo.html
 name: Peek A Boo
@@ -24,9 +27,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2017-06-24'
+release_year: 2017
+runtime: 247477
 ---
-
-
 Ricky Racks
 Peek-a-boo, woo!
 Peek-a-boo
@@ -163,6 +166,3 @@ Yellow bitch, Pikachu (bitch)
 Cameltoe peekin' at you
 Look at you, peek-a-boo
 Peek-a-boo, peek-a-boo
-
-
-

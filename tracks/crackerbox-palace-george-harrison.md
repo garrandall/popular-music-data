@@ -1,8 +1,11 @@
 ---
+album: Thirty Three & 1
 artists:
 - George Harrison
+external_ids:
+  spotify: spotify:track:3bygXv7MxNgL7zJFq7Cg9W
 features: []
-genres: []
+first_released_as_single: false
 key: crackerbox-palace-george-harrison
 lyrics_url: https://www.azlyrics.com/lyrics/georgeharrison/crackerboxpalace.html
 name: Crackerbox Palace
@@ -51,8 +54,9 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '1977-04-09'
+release_year: 1976
+runtime: 238213
 ---
-
 I was so young when I was born
 My eyes could not yet see
 And by the time of my first dawn
@@ -87,4 +91,3 @@ I welcome you to Crackerbox Palace
 Was not expecting you
 Let's rap and tap at Crackerbox Palace
 Know that the Lord is well and inside of you
-

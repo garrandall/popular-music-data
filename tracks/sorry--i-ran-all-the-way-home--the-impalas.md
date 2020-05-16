@@ -1,8 +1,11 @@
 ---
+album: Doo Wop Love
 artists:
 - The Impalas
+external_ids:
+  spotify: spotify:track:20EAquFzfEQClHcuXqRsrc
 features: []
-genres: []
+first_released_as_single: false
 key: sorry--i-ran-all-the-way-home--the-impalas
 lyrics_url: https://genius.com/Impalas-sorry-i-ran-all-the-way-home-lyrics
 name: Sorry (I Ran All The Way Home)
@@ -79,6 +82,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1959-07-13'
+release_year: 1959
+runtime: 147053
 ---
 Sorry, sorry, oh so sorry
 SPOKEN: Uh-oh!

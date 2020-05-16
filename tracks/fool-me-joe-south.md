@@ -1,8 +1,11 @@
 ---
+album: Joe South (Bonus Track Version)
 artists:
 - Joe South
+external_ids:
+  spotify: spotify:track:5Q9JyIhpRtOc3m5Nhd0awJ
 features: []
-genres: []
+first_released_as_single: false
 key: fool-me-joe-south
 lyrics_url: https://genius.com/Joe-south-fool-me-lyrics
 name: Fool Me
@@ -35,6 +38,8 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1971-12-18'
+release_year: 1968
+runtime: 181106
 ---
 Ain't it kinda funny now
 Sometimes a fool never learns

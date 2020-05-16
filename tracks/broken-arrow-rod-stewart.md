@@ -1,8 +1,11 @@
 ---
+album: Vagabond Heart
 artists:
 - Rod Stewart
+external_ids:
+  spotify: spotify:track:6wUXlWRg5rJgSVeLYZws8s
 features: []
-genres: []
+first_released_as_single: false
 key: broken-arrow-rod-stewart
 lyrics_url: https://www.azlyrics.com/lyrics/rodstewart/brokenarrow.html
 name: Broken Arrow
@@ -87,8 +90,9 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '1992-02-29'
+release_year: 1991
+runtime: 266506
 ---
-
 Who else is gonna bring you a broken arrow
 Who else is gonna bring you a bottle of rain
 There he goes moving across the water
@@ -128,6 +132,3 @@ There he goes turning my whole world around
 turning my whole world around
 turning my whole world around
 turning my whole world around
-
-
-

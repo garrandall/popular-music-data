@@ -77,7 +77,7 @@ No, we cannot turn away
 Right now they need a helping hand
 
 
-Nou sÃ© mond la
+Nou sé mond la
 We are the children
 
 We are the ones who make a brighter day
@@ -186,8 +186,8 @@ Everyday citizens
 Everybody pitching in
 
 
-Nou sÃ© mond la
-Nou sÃ© timoun yo
+Nou sé mond la
+Nou sé timoun yo
 
 
 You and I
@@ -210,7 +210,7 @@ We are the world
 We are the children
 We are the ones who make a brighter day
 So let's start giving
-Nou sÃ© mond la
+Nou sé mond la
 There's a choice we're making
 We're saving our own lives
 It's true we make a better day

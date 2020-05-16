@@ -1,8 +1,11 @@
 ---
+album: 'Good Girl Gone Bad: Reloaded'
 artists:
 - Rihanna
+external_ids:
+  spotify: spotify:track:4mhO8YlID3EMRSk11Nuhb8
 features: []
-genres: []
+first_released_as_single: true
 key: take-a-bow-rihanna
 lyrics_url: https://www.azlyrics.com/lyrics/rihanna/takeabow.html
 name: Take A Bow
@@ -115,8 +118,9 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '2008-10-25'
+release_year: 2008
+runtime: 514133
 ---
-
 Oh, how about a round of applause, yeah
 Standing ovation
 Oh, yeah
@@ -180,6 +184,3 @@ Very entertaining
 But it's over now (but it's over now)
 Go on and take a bow
 But it's over now
-
-
-

@@ -1,9 +1,12 @@
 ---
+album: The Essential Chad & Jeremy (The Columbia Years)
 artists:
 - Chad
 - Jeremy
+external_ids:
+  spotify: spotify:track:0QCQBP11w2QNel5LhkYskU
 features: []
-genres: []
+first_released_as_single: false
 key: i-don-t-wanna-lose-you-baby-chad-jeremy
 lyrics_url: https://genius.com/Chad-and-jeremy-i-dont-wanna-lose-you-baby-lyrics
 name: I Don't Wanna Lose You Baby
@@ -36,6 +39,8 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '1965-09-18'
+release_year: 1965
+runtime: 187253
 ---
 McCoy
 

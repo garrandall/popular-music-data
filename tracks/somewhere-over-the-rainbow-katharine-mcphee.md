@@ -1,8 +1,11 @@
 ---
+album: A Tribute To Katharine Mcphee
 artists:
 - Katharine McPhee
+external_ids:
+  spotify: spotify:track:2UORsaluUZXiMvkkkedDTJ
 features: []
-genres: []
+first_released_as_single: true
 key: somewhere-over-the-rainbow-katharine-mcphee
 lyrics_url: https://www.azlyrics.com/lyrics/katharinemcphee/somewhereovertherainbow.html
 name: Somewhere Over The Rainbow
@@ -23,8 +26,9 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '2006-08-05'
+release_year: 2006
+runtime: 210333
 ---
-
 When all the clouds darken up the skyway
 There's a rainbow highway to be found
 Leading from your window pane
@@ -50,6 +54,3 @@ Why then oh why can't I
 If happy little bluebirds fly
 Beyond the rainbow
 Why, oh, why can't I
-
-
-

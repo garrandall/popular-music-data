@@ -1,8 +1,11 @@
 ---
+album: Handwritten
 artists:
 - Shawn Mendes
+external_ids:
+  spotify: spotify:track:1wdEi908HBovateB6yyzTk
 features: []
-genres: []
+first_released_as_single: false
 key: life-of-the-party-shawn-mendes
 lyrics_url: https://www.azlyrics.com/lyrics/shawnmendes/lifeoftheparty.html
 name: Life Of The Party
@@ -15,8 +18,9 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '2014-07-19'
+release_year: 2014
+runtime: 212253
 ---
-
 I love it when you just don't care
 I love it when you dance like there's nobody there
 So when it gets hard, don't be afraid
@@ -70,6 +74,3 @@ So don't let them keep you down
 Oh you know you can't give up
 'Cause we don't have the time to be sorry
 So baby be the life of the party
-
-
-

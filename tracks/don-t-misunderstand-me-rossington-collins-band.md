@@ -1,8 +1,11 @@
 ---
+album: Solo Flytes
 artists:
 - Rossington Collins Band
+external_ids:
+  spotify: spotify:track:1E9ZHCrhTGsGk1yi3mnsi8
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-misunderstand-me-rossington-collins-band
 lyrics_url: https://genius.com/Rossington-collins-band-dont-misunderstand-me-lyrics
 name: Don't Misunderstand Me
@@ -43,6 +46,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1980-09-20'
+release_year: 1980
+runtime: 236400
 ---
 Well, I know where you're goin'
 I see where you've been

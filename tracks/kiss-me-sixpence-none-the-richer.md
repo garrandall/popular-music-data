@@ -1,8 +1,11 @@
 ---
+album: Sixpence None the Richer
 artists:
 - Sixpence None The Richer
+external_ids:
+  spotify: spotify:track:754kgU5rWscRTfvlsuEwFp
 features: []
-genres: []
+first_released_as_single: false
 key: kiss-me-sixpence-none-the-richer
 lyrics_url: https://genius.com/Sixpence-none-the-richer-kiss-me-lyrics
 name: Kiss Me
@@ -139,6 +142,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1999-09-18'
+release_year: 1997
+runtime: 208680
 ---
 Kiss me, out of the bearded barley
 Nightly, beside the green, green grass

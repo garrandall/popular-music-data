@@ -1,8 +1,11 @@
 ---
+album: Flash House, Vol. 01
 artists:
 - Dead Or Alive
+external_ids:
+  spotify: spotify:track:4cswTGqcBKU6t0JF3kxuTL
 features: []
-genres: []
+first_released_as_single: false
 key: come-home-with-me-baby-dead-or-alive
 lyrics_url: https://genius.com/Dead-or-alive-come-home-with-me-baby-lyrics
 name: Come Home With Me Baby
@@ -39,6 +42,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1989-08-19'
+release_year: 1989
+runtime: 230773
 ---
 Same place, after midnight
 Saw you looking so nice

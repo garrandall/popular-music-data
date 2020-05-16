@@ -1,8 +1,11 @@
 ---
+album: Horizon
 artists:
 - Carpenters
+external_ids:
+  spotify: spotify:track:6r1RBZtxQGZQVP9RSYS07J
 features: []
-genres: []
+first_released_as_single: false
 key: solitaire-carpenters
 lyrics_url: https://www.azlyrics.com/lyrics/carpenters/solitaire.html
 name: Solitaire
@@ -47,8 +50,9 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1975-10-04'
+release_year: 1975
+runtime: 279893
 ---
-
 There was a man
 A lonely man
 Who lost his love
@@ -99,6 +103,3 @@ And every road that takes him
 Takes him down
 While life goes on around him everywhere
 He's playing solitaire
-
-
-

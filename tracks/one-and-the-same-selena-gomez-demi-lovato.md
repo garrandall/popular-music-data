@@ -1,9 +1,12 @@
 ---
+album: Disney Channel Playlist
 artists:
 - Selena Gomez
 - Demi Lovato
+external_ids:
+  spotify: spotify:track:1QkJBQnCv81ef7gyWMDL3Q
 features: []
-genres: []
+first_released_as_single: false
 key: one-and-the-same-selena-gomez-demi-lovato
 lyrics_url: https://genius.com/Selena-gomez-and-demi-lovato-one-and-the-same-lyrics
 name: One And The Same
@@ -12,6 +15,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '2009-07-18'
+release_year: 2009
+runtime: 180960
 ---
 Hey, hey, hey!
 La, la, la, la, la

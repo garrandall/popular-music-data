@@ -1,8 +1,11 @@
 ---
+album: Eddie Kendricks
 artists:
 - Eddie Kendricks
+external_ids:
+  spotify: spotify:track:5CiOCxc3argOhj5qKNZGN0
 features: []
-genres: []
+first_released_as_single: false
 key: keep-on-truckin---part-1--eddie-kendricks
 lyrics_url: https://genius.com/Eddie-kendricks-keep-on-truckin-lyrics
 name: Keep On Truckin' (Part 1)
@@ -83,6 +86,8 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '1973-12-29'
+release_year: 1973
+runtime: 479413
 ---
 Oh...
 Oh...

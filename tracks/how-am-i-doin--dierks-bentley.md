@@ -1,8 +1,11 @@
 ---
+album: Dierks Bentley
 artists:
 - Dierks Bentley
+external_ids:
+  spotify: spotify:track:3bvr2R5FUjrC3orh47Qe5V
 features: []
-genres: []
+first_released_as_single: false
 key: how-am-i-doin--dierks-bentley
 lyrics_url: https://www.azlyrics.com/lyrics/dierksbentley/howamidoin.html
 name: How Am I Doin'
@@ -71,8 +74,9 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '2005-02-05'
+release_year: 2003
+runtime: 228437
 ---
-
 It's strange to hear your voice
 I did not expect for you to call
 You wonder how I'm doin
@@ -124,6 +128,3 @@ What you done to me
 Yeah how are you doin', now that you know
 How I'm doin since you did
 What you done to me
-
-
-

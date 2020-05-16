@@ -1,8 +1,11 @@
 ---
+album: To Love Again
 artists:
 - Diana Ross
+external_ids:
+  spotify: spotify:track:0Hb2lKzzpKK4VxwER1fF25
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-my-turn-diana-ross
 lyrics_url: https://genius.com/Diana-ross-its-my-turn-lyrics
 name: It's My Turn
@@ -91,6 +94,8 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1981-03-14'
+release_year: 1980
+runtime: 236026
 ---
 I can't cover up my feelings
 In the name of love

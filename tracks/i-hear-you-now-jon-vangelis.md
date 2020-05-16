@@ -1,9 +1,12 @@
 ---
+album: Short Stories
 artists:
 - Jon
 - Vangelis
+external_ids:
+  spotify: spotify:track:6IMgb9Y93Rtfgln0DHc3ao
 features: []
-genres: []
+first_released_as_single: false
 key: i-hear-you-now-jon-vangelis
 lyrics_url: https://genius.com/Jon-and-vangelis-i-hear-you-now-lyrics
 name: I Hear You Now
@@ -32,6 +35,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1980-09-20'
+release_year: 1980
+runtime: 310040
 ---
 After the first embrace from you
 My senses knew the look of love was in your eyes

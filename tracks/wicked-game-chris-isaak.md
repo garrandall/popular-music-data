@@ -1,8 +1,11 @@
 ---
+album: Heart Shaped World
 artists:
 - Chris Isaak
+external_ids:
+  spotify: spotify:track:34u3Bj1KVxKWfA07yDJ2vG
 features: []
-genres: []
+first_released_as_single: false
 key: wicked-game-chris-isaak
 lyrics_url: https://www.azlyrics.com/lyrics/chrisisaak/wickedgame.html
 name: Wicked Game
@@ -103,8 +106,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1991-05-11'
+release_year: 1989
+runtime: 289066
 ---
-
 The world was on fire and no one could save me but you
 It's strange what desire will make foolish people do
 I never dreamed that I'd meet somebody like you
@@ -136,6 +140,3 @@ No, I... (this girl is only gonna break your heart)
 (This girl is only gonna break your heart)
 
 Nobody loves no one
-
-
-

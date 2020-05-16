@@ -1,8 +1,11 @@
 ---
+album: The Sounds Of My Heart
 artists:
 - Johnny O
+external_ids:
+  spotify: spotify:track:2C7TFYH6duh8VNu8vid77S
 features: []
-genres: []
+first_released_as_single: false
 key: runaway-love-johnny-o
 lyrics_url: https://genius.com/Johnny-o-runaway-love-lyrics
 name: Runaway Love
@@ -27,6 +30,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1994-02-26'
+release_year: 1994
+runtime: 201000
 ---
 Mujer
 Te quiero mucho
@@ -59,4 +64,3 @@ I'll always care baby just for you
 I'll never let you down you know
 Sweetheart you make me strong for I'll be there for you
 Nuncha te dejo
-

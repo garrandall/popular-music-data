@@ -1,8 +1,11 @@
 ---
+album: Best Of 50 Cent
 artists:
 - 50 Cent
+external_ids:
+  spotify: spotify:track:2GGXna7FXpFGhFfeuCijZ0
 features: []
-genres: []
+first_released_as_single: false
 key: i-get-it-in-50-cent
 lyrics_url: https://genius.com/50-cent-i-get-it-in-lyrics
 name: I Get It In
@@ -15,6 +18,8 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '2009-03-07'
+release_year: 2009
+runtime: 200106
 ---
 Yeah, Na na na na
 Yeah, Na na na na

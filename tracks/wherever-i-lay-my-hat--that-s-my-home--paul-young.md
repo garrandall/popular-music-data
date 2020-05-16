@@ -1,8 +1,11 @@
 ---
+album: No Parlez
 artists:
 - Paul Young
+external_ids:
+  spotify: spotify:track:6CrGg8SivjMfo5h05IDhWc
 features: []
-genres: []
+first_released_as_single: false
 key: wherever-i-lay-my-hat--that-s-my-home--paul-young
 lyrics_url: https://www.azlyrics.com/lyrics/paulyoung/whereverilaymyhatthatsmyhome.html
 name: Wherever I Lay My Hat (That's My Home)
@@ -35,8 +38,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1983-11-12'
+release_year: 1983
+runtime: 317346
 ---
-
 By the look in your eye 
 I can tell you're gonna cry
 Is it over me?
@@ -73,6 +77,3 @@ Wherever I lay my hat that's my home
 
 That's my home
 And I like it that way
-
-
-

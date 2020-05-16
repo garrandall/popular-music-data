@@ -1,8 +1,11 @@
 ---
+album: Back When I Knew It All
 artists:
 - Montgomery Gentry
+external_ids:
+  spotify: spotify:track:2ARfNkHVIsWtKq1Oa7H66b
 features: []
-genres: []
+first_released_as_single: false
 key: one-in-every-crowd-montgomery-gentry
 lyrics_url: https://www.azlyrics.com/lyrics/montgomerygentry/oneineverycrowd.html
 name: One In Every Crowd
@@ -75,8 +78,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2009-07-18'
+release_year: 1999
+runtime: 211680
 ---
-
 Golden Tee, shuffleboard, pinball, he's got the score
 that everybody around here's tryin to beat,
 he's a six pack up when he walks in,
@@ -124,6 +128,3 @@ there's one in every crowd, and it's usually me,
 hey ya'll, hey ya'll, hey ya'll, there's one in every crowd
 
 It's usually me, hey ya'll, hey ya'll, hey ya'll, there's one in every crowd, that's right
-
-
-

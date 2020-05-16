@@ -1,8 +1,11 @@
 ---
+album: Waterfront
 artists:
 - Waterfront
+external_ids:
+  spotify: spotify:track:5ASBmhimeMuVY5T3CJrddg
 features: []
-genres: []
+first_released_as_single: false
 key: nature-of-love-waterfront
 lyrics_url: https://genius.com/Waterfront-nature-of-love-lyrics
 name: Nature Of Love
@@ -27,6 +30,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1989-08-26'
+release_year: 1989
+runtime: 294640
 ---
 Early morning when I leave your side
 Start my car and drive

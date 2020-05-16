@@ -1,8 +1,11 @@
 ---
+album: The Different Story (World Of Lust And Crime)
 artists:
 - Peter Schilling
+external_ids:
+  spotify: spotify:track:7r2E6L83OLlp9bwmrkqMo3
 features: []
-genres: []
+first_released_as_single: true
 key: major-tom--coming-home--peter-schilling
 lyrics_url: https://genius.com/Peter-schilling-major-tom-lyrics
 name: Major Tom (Coming Home)
@@ -95,6 +98,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1984-02-18'
+release_year: 1983
+runtime: 248414
 ---
 Standing there alone
 The ship is waiting

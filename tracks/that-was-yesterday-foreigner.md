@@ -1,8 +1,11 @@
 ---
+album: Agent Provocateur
 artists:
 - Foreigner
+external_ids:
+  spotify: spotify:track:4nwUQZbmWMkYzKrXgWRIEw
 features: []
-genres: []
+first_released_as_single: false
 key: that-was-yesterday-foreigner
 lyrics_url: https://www.azlyrics.com/lyrics/foreigner/thatwasyesterday.html
 name: That Was Yesterday
@@ -67,8 +70,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1985-06-22'
+release_year: 1984
+runtime: 229053
 ---
-
 I thought I knew you well
 But all this time I could never tell
 I let you get away
@@ -116,6 +120,3 @@ Goodbye yesterday
 Now it's over and done
 Still I hope somewhere deep in your heart
 Yesterday will live on
-
-
-

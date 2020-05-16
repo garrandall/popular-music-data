@@ -1,8 +1,11 @@
 ---
+album: Live In Paris And Toronto
 artists:
 - Loreena McKennitt
+external_ids:
+  spotify: spotify:track:5Oc0ZAyFlWXZ2yOhBABupE
 features: []
-genres: []
+first_released_as_single: false
 key: the-mummers--dance-loreena-mckennitt
 lyrics_url: https://www.azlyrics.com/lyrics/loreenamckennitt/themummersdance.html
 name: The Mummers' Dance
@@ -87,8 +90,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1998-07-18'
+release_year: 1998
+runtime: 241093
 ---
-
 When in the springtime of the year
 When the trees are crowned with leaves
 When the ash and oak, and the birch and yew
@@ -138,6 +142,3 @@ We've been rambling all the night
 And some time of this day
 Now returning back again
 We bring a garland gay
-
-
-

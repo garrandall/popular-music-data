@@ -1,8 +1,11 @@
 ---
+album: Don't Feed Da Animals
 artists:
 - Gorilla Zoe
+external_ids:
+  spotify: spotify:track:7ytLGF9Ua5g5MylbwtxzZC
 features: []
-genres: []
+first_released_as_single: false
 key: echo-gorilla-zoe
 lyrics_url: https://www.azlyrics.com/lyrics/gorillazoe/echoremix102450.html
 name: Echo
@@ -43,9 +46,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2009-07-11'
+release_year: 2009
+runtime: 237893
 ---
-
-
 You did it to yourself
 Now ur all by yourself
 Actin like u hate me
@@ -132,6 +135,3 @@ Don't call my phone
 Or did you forget
 You know your wrong
 I'm gone!
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Doctor's Advocate
 artists:
 - The Game
+external_ids:
+  spotify: spotify:track:4JKwW0A2OQeAUpYZd99Lfo
 features: []
-genres: []
+first_released_as_single: false
 key: let-s-ride-the-game
 lyrics_url: https://genius.com/The-game-lets-ride-lyrics
 name: Let's Ride
@@ -27,6 +30,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2006-12-30'
+release_year: 2006
+runtime: 237680
 ---
 Pull the rag off the six-fo'
 Hit the switch, show niggas how the shit go

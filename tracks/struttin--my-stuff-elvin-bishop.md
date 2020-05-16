@@ -1,8 +1,11 @@
 ---
+album: Struttin' My Stuff
 artists:
 - Elvin Bishop
+external_ids:
+  spotify: spotify:track:0Rfe5GeoCndpMJiniBiI8E
 features: []
-genres: []
+first_released_as_single: false
 key: struttin--my-stuff-elvin-bishop
 lyrics_url: https://www.azlyrics.com/lyrics/elvinbishop/struttinmystuff.html
 name: Struttin' My Stuff
@@ -23,8 +26,9 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '1976-08-14'
+release_year: 1975
+runtime: 249200
 ---
-
 I'm struttin' my stuff, ya'll
 I'm struttin' my stuff, ya'll
 I'm struttin' my stuff, ya'll
@@ -71,6 +75,3 @@ Can you get up and dance now?
 Can you get up and dance now?
 I like the way you get up
 I like the way you move)
-
-
-

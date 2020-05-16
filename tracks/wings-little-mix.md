@@ -1,8 +1,11 @@
 ---
+album: DNA
 artists:
 - Little Mix
+external_ids:
+  spotify: spotify:track:6rD9zHDbNW1zBBXvkQEDQk
 features: []
-genres: []
+first_released_as_single: true
 key: wings-little-mix
 lyrics_url: https://genius.com/Little-mix-wings-lyrics
 name: Wings
@@ -43,6 +46,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2013-06-15'
+release_year: 2012
+runtime: 220093
 ---
 Mama told me not to waste my life (Ah-oh
 She said "Spread your wings my little butterfly (Ah-oh

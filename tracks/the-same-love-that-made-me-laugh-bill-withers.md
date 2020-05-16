@@ -1,8 +1,11 @@
 ---
+album: '''Justments'
 artists:
 - Bill Withers
+external_ids:
+  spotify: spotify:track:6GETCaMrDCu3uFe2TMkyGA
 features: []
-genres: []
+first_released_as_single: false
 key: the-same-love-that-made-me-laugh-bill-withers
 lyrics_url: https://genius.com/Bill-withers-the-same-love-that-made-me-laugh-lyrics
 name: The Same Love That Made Me Laugh
@@ -59,6 +62,8 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '1974-07-06'
+release_year: 1974
+runtime: 204706
 ---
 Your love is like a a chunk of gold
 Hard to gain, and hard to hold

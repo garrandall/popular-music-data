@@ -1,8 +1,11 @@
 ---
+album: Float On
 artists:
 - The Floaters
+external_ids:
+  spotify: spotify:track:4YmKTCL86mpGHUS0sEWAUV
 features: []
-genres: []
+first_released_as_single: false
 key: float-on-the-floaters
 lyrics_url: https://genius.com/The-floaters-float-on-lyrics
 name: Float On
@@ -71,6 +74,8 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1977-10-22'
+release_year: 1977
+runtime: 708866
 ---
 Aquarius, Libra, Leo, Cancer
 Ralph, Charles, Paul, Larry

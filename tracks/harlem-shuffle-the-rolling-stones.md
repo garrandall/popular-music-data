@@ -1,8 +1,11 @@
 ---
+album: Dirty Work (Remastered 2009)
 artists:
 - The Rolling Stones
+external_ids:
+  spotify: spotify:track:2StkuotzPgX5FpSjMpTvlw
 features: []
-genres: []
+first_released_as_single: false
 key: harlem-shuffle-the-rolling-stones
 lyrics_url: https://www.azlyrics.com/lyrics/rollingstones/harlemshuffle.html
 name: Harlem Shuffle
@@ -59,9 +62,10 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1986-06-07'
+release_year: 1986
+runtime: 204426
 ---
-
-Huhuuuhuhuhuhuuuuuuh, hu!
+Huhuuuhuhuhuhuh, hu!
 You move it to the left, yeah, and you go for yourself.
 You move it to the right, yeah, if it takes all night.
 Now take it kinda slow,
@@ -94,6 +98,3 @@ Yeah, like your momma told you how.
 Yeah, yeah, yeah, huh, do the Harlem Shuffle.
 Do it, do it do your own, own shine.
 Yeah, yeah, yeah, do the Harlem Shuffle.
-
-
-

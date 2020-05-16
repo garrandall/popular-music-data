@@ -1,8 +1,11 @@
 ---
+album: Warm And Soulful
 artists:
 - Garnet Mimms
+external_ids:
+  spotify: spotify:track:3BbTyEWMFVna0xjb6vh0Tg
 features: []
-genres: []
+first_released_as_single: false
 key: look-away-garnet-mimms
 lyrics_url: https://genius.com/Garnet-mimms-look-away-lyrics
 name: Look Away
@@ -27,6 +30,8 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1964-11-14'
+release_year: 1964
+runtime: 153066
 ---
 All alone
 Standing here by myself

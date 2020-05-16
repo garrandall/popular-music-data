@@ -1,8 +1,11 @@
 ---
+album: 20 Greatest Hits
 artists:
 - Tommy Roe
+external_ids:
+  spotify: spotify:track:15ulxjWdwphu8pUulkrJdl
 features: []
-genres: []
+first_released_as_single: false
 key: dizzy-tommy-roe
 lyrics_url: https://www.azlyrics.com/lyrics/tommyroe/dizzy.html
 name: Dizzy
@@ -67,8 +70,9 @@ rankings:
   rank: 22
   ranking_list: Billboard Hot 100
   start_date: '1969-05-10'
+release_year: 1969
+runtime: 180133
 ---
-
 Dizzy
 I'm so dizzy my head is spinning
 Like a whirlpool, it never ends
@@ -111,6 +115,3 @@ You're making me dizzy
 You're making me dizzy
 I'm so dizzy
 You're making me dizzy
-
-
-

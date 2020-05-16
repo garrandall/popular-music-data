@@ -1,8 +1,11 @@
 ---
+album: Labcabincalifornia
 artists:
 - The Pharcyde
+external_ids:
+  spotify: spotify:track:7sT3O2PXs1o12XnCKlv204
 features: []
-genres: []
+first_released_as_single: false
 key: drop-the-pharcyde
 lyrics_url: https://genius.com/The-pharcyde-drop-lyrics
 name: Drop
@@ -19,6 +22,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1996-04-27'
+release_year: 1995
+runtime: 334466
 ---
 Drop!
 

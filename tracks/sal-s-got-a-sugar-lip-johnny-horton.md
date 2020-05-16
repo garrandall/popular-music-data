@@ -1,8 +1,11 @@
 ---
+album: The Essential Johnny Horton
 artists:
 - Johnny Horton
+external_ids:
+  spotify: spotify:track:4mjMiwox4AnRtY4mDBqSTy
 features: []
-genres: []
+first_released_as_single: false
 key: sal-s-got-a-sugar-lip-johnny-horton
 lyrics_url: https://www.azlyrics.com/lyrics/johnnyhorton/salsgotasugarlip.html
 name: Sal's Got A Sugar Lip
@@ -35,8 +38,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1959-09-28'
+release_year: 1959
+runtime: 106373
 ---
-
 'Lasses in the cane and sirup in the corn
 Sugar in the gorge and honey in the horn
 Cake on a plate and a pie in my pan
@@ -76,6 +80,3 @@ Sal's got a sugarlip, so they say
 Sal's got a sugarlip, so they say
 Sal's got a sugarlip, so they say
 To sweeten her fellar with every day
-
-
-

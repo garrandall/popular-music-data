@@ -1,8 +1,11 @@
 ---
+album: Believe
 artists:
 - Justin Bieber
+external_ids:
+  spotify: spotify:track:75lo8VozcCLRG9WGG674iD
 features: []
-genres: []
+first_released_as_single: false
 key: as-long-as-you-love-me--acoustic--justin-bieber
 lyrics_url: https://www.azlyrics.com/lyrics/justinbieber/aslongasyoulovemeacousticversion.html
 name: As Long As You Love Me (Acoustic)
@@ -11,8 +14,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2013-02-16'
+release_year: 2012
+runtime: 229466
 ---
-
 As long as you love me
 
 We're under pressure,
@@ -84,6 +88,3 @@ As long as you lo-lo-lo-lo-lo-lo-lo-lo-lo-lo-lo-lo-lo-lo-lo-love me
 As long as you love, you love me, you love me,
 As long as you love, you love me, you love me,
 As long as you love me
-
-
-

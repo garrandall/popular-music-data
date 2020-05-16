@@ -1,8 +1,11 @@
 ---
+album: Picture Perfect Morning
 artists:
 - Edie Brickell
+external_ids:
+  spotify: spotify:track:6UPfnVoOq3y3BvapBIKs8J
 features: []
-genres: []
+first_released_as_single: false
 key: good-times-edie-brickell
 lyrics_url: https://genius.com/Edie-brickell-good-times-lyrics
 name: Good Times
@@ -39,6 +42,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1994-10-08'
+release_year: 1994
+runtime: 189826
 ---
 You don't even have to try
 It comes easy for you

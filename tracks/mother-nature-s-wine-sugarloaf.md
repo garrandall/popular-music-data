@@ -1,8 +1,11 @@
 ---
+album: Spaceship Earth
 artists:
 - Sugarloaf
+external_ids:
+  spotify: spotify:track:3qgzzygbO63QfNwd1zlMlW
 features: []
-genres: []
+first_released_as_single: false
 key: mother-nature-s-wine-sugarloaf
 lyrics_url: https://genius.com/Sugarloaf-mother-natures-wine-lyrics
 name: Mother Nature's Wine
@@ -19,6 +22,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1971-07-10'
+release_year: 1971
+runtime: 179826
 ---
 Riding high down a mountain trail sunshine follows me
 Windy early morning mist tries to swallow me

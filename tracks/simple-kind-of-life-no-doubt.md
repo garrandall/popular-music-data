@@ -1,8 +1,11 @@
 ---
+album: Return Of Saturn
 artists:
 - No Doubt
+external_ids:
+  spotify: spotify:track:3CY7wjLc1CaAIrp9buEWhG
 features: []
-genres: []
+first_released_as_single: false
 key: simple-kind-of-life-no-doubt
 lyrics_url: https://www.azlyrics.com/lyrics/nodoubt/simplekindoflife.html
 name: Simple Kind Of Life
@@ -59,8 +62,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2000-09-23'
+release_year: 2000
+runtime: 256933
 ---
-
 For a long time I was in love
 Not only in love, I was obsessed
 With a friendship that no one else could touch
@@ -94,6 +98,3 @@ How'd I get so faithful to my freedom?
 A selfish kind of life
 When all I ever wanted was the simple things
 A simple kind of life
-
-
-

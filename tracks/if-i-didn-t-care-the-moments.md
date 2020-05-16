@@ -1,8 +1,11 @@
 ---
+album: A Moment With The Moments
 artists:
 - The Moments
+external_ids:
+  spotify: spotify:track:4x4EmW4PUqmgTQgvr5L6Qb
 features: []
-genres: []
+first_released_as_single: false
 key: if-i-didn-t-care-the-moments
 lyrics_url: https://genius.com/The-moments-if-i-didnt-care-lyrics
 name: If I Didn't Care
@@ -39,6 +42,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1970-10-10'
+release_year: 1970
+runtime: 190466
 ---
 If I didn't care
 More than words can say

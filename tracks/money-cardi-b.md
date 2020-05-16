@@ -1,8 +1,11 @@
 ---
+album: Invasion of Privacy
 artists:
 - Cardi B
+external_ids:
+  spotify: spotify:track:1pDbsP7PvHrZZ70NVFyEWX
 features: []
-genres: []
+first_released_as_single: false
 key: money-cardi-b
 lyrics_url: https://genius.com/Cardi-b-money-lyrics
 name: Money
@@ -111,6 +114,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2019-04-27'
+release_year: 2018
+runtime: 229004
 ---
 Look, my bitches all bad, my niggas all real
 I ride on his dick in some big tall heels

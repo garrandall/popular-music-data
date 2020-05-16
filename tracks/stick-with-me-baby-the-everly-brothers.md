@@ -1,8 +1,11 @@
 ---
+album: A Date With The Everly Brothers
 artists:
 - The Everly Brothers
+external_ids:
+  spotify: spotify:track:0bq0y219Yxio1hDSk1q7lk
 features: []
-genres: []
+first_released_as_single: false
 key: stick-with-me-baby-the-everly-brothers
 lyrics_url: https://www.azlyrics.com/lyrics/everlybrothers/stickwithmebaby.html
 name: Stick With Me Baby
@@ -23,8 +26,9 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '1961-06-26'
+release_year: 1960
+runtime: 116026
 ---
-
 Everybody's been a-talking
 They said our love wasn't real
 That it would soon be over
@@ -50,6 +54,3 @@ Yes, we'll find a way
 Come on and stick with me baby
 Come on and stick with me baby
 Come on and stick with me baby
-
-
-

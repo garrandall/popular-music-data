@@ -1,8 +1,11 @@
 ---
+album: The Impressions
 artists:
 - The Impressions
+external_ids:
+  spotify: spotify:track:4EWWjcHFZawTvcSRsfQxHh
 features: []
-genres: []
+first_released_as_single: false
 key: sad-sad-girl-and-boy-the-impressions
 lyrics_url: https://www.azlyrics.com/lyrics/impressions/sadsadgirlandboy.html
 name: Sad Sad Girl And Boy
@@ -23,8 +26,9 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1963-06-15'
+release_year: 1963
+runtime: 165173
 ---
-
 You must be a sad, sad girl
 (You must be a sad, sad girl)
 If you have no one to love
@@ -54,6 +58,3 @@ Maybe love will come my way
 To a sad, sad girl and boy
 To a sad, sad girl and boy
 To a sad, sad girl and boy
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: The Jacksons
 artists:
 - The Jacksons
+external_ids:
+  spotify: spotify:track:4lRGAx51xYaJioNmeZFXGT
 features: []
-genres: []
+first_released_as_single: false
 key: show-you-the-way-to-go-the-jacksons
 lyrics_url: https://genius.com/The-jacksons-show-you-the-way-to-go-lyrics
 name: Show You The Way To Go
@@ -47,6 +50,8 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1977-06-11'
+release_year: 1972
+runtime: 329466
 ---
 Ah let me show ya
 Let me show you the way to go

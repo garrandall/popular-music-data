@@ -1,8 +1,11 @@
 ---
+album: Barrio Fino (Bonus Track Version)
 artists:
 - Daddy Yankee
+external_ids:
+  spotify: spotify:track:3S2wsVP6VihPaMdxrRELmA
 features: []
-genres: []
+first_released_as_single: false
 key: like-you-daddy-yankee
 lyrics_url: https://genius.com/Daddy-yankee-like-you-lyrics
 name: Like You
@@ -35,6 +38,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2005-07-30'
+release_year: 2004
+runtime: 202933
 ---
 Yo! (Oh)
 It's your boy! (Oh)

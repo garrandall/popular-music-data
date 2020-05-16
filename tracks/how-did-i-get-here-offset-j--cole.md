@@ -1,9 +1,12 @@
 ---
+album: FATHER OF 4
 artists:
 - Offset
+external_ids:
+  spotify: spotify:track:32iPykTXUNZ9oGyACGUybq
 features:
 - J. Cole
-genres: []
+first_released_as_single: false
 key: how-did-i-get-here-offset-j--cole
 lyrics_url: https://www.azlyrics.com/lyrics/offset/howdidigethere.html
 name: How Did I Get Here
@@ -12,9 +15,9 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '2019-03-09'
+release_year: 2019
+runtime: 276794
 ---
-
-
 Uh, nobody, you know what I'm sayin', nobody, nobody thought a nigga would be right here, though, you know
 That shit make like, that shit make, that shit make a difference in me and you
 You was supposed to be here, nigga
@@ -150,6 +153,3 @@ How you feelin' when you face a dime? (Time)
 The truth be told (Told)
 I'm supposed to be locked up and dead, cold (Cold)
 In the mind of an old (He cold) white man, the black man soul
-
-
-

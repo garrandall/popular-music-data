@@ -1,8 +1,11 @@
 ---
+album: The Best Of New Riders Of The Purple Sage
 artists:
 - New Riders Of The Purple Sage
+external_ids:
+  spotify: spotify:track:3bCI7TsQp20NcRVvTwJWWv
 features: []
-genres: []
+first_released_as_single: false
 key: i-don-t-need-no-doctor-new-riders-of-the-purple-sage
 lyrics_url: https://www.musixmatch.com/lyrics/New-Riders-of-the-Purple-Sage/I-Don-t-Need-No-Doctor
 name: I Don't Need No Doctor
@@ -27,6 +30,8 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1972-07-08'
+release_year: 1971
+runtime: 186600
 ---
 I don't need no doctor, 'cause I know what's ailin' me,
 I don't need no doctor, 'cause I know what's ailin' me.

@@ -1,6 +1,6 @@
 ---
 artists:
-- Wings
+- Paul McCartney & Wings
 features: []
 genres: []
 key: mary-had-a-little-lamb-wings

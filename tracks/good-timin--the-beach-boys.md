@@ -1,8 +1,11 @@
 ---
+album: L.A. (Light Album)
 artists:
 - The Beach Boys
+external_ids:
+  spotify: spotify:track:1Lue3zoD75nsWDVdBOcWQq
 features: []
-genres: []
+first_released_as_single: false
 key: good-timin--the-beach-boys
 lyrics_url: https://www.azlyrics.com/lyrics/beachboys/goodtimin.html
 name: Good Timin'
@@ -47,8 +50,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1979-06-30'
+release_year: 1979
+runtime: 132800
 ---
-
 Good good timin'
 Good good timin'
 Ah Ah
@@ -93,6 +97,3 @@ It takes good timin'
 You need good timin'
 Yeah
 Good good timin'
-
-
-

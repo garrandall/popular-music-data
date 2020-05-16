@@ -1,8 +1,11 @@
 ---
+album: Refugees Of The Heart
 artists:
 - Steve Winwood
+external_ids:
+  spotify: spotify:track:3Mjn7q1ubHIhTGwciFMrB9
 features: []
-genres: []
+first_released_as_single: false
 key: one-and-only-man-steve-winwood
 lyrics_url: https://www.azlyrics.com/lyrics/stevewinwood/oneandonlyman.html
 name: One And Only Man
@@ -67,8 +70,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1991-02-09'
+release_year: 1990
+runtime: 302733
 ---
-
 Every time I see you, girl, it makes me feel so sad
 Knowing you've been seeing some other guy that treats you bad
 Did you know I'm burning deep inside for you?
@@ -94,6 +98,3 @@ If you'll be my woman, I'll be your man
 Know I'm gonna give you everything I can
 If you'll be my woman, I'll be your man,
 There'll be no more running, gonna make a stand
-
-
-

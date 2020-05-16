@@ -1,10 +1,13 @@
 ---
+album: Da Real World
 artists:
 - Missy Elliott
+external_ids:
+  spotify: spotify:track:4vO3U8AKIjwBEBCTbEFbD9
 features:
 - Big Boi
 - Nicole
-genres: []
+first_released_as_single: false
 key: all-n-my-grill-missy--misdemeanor--elliott-big-boi-nicole
 lyrics_url: https://www.azlyrics.com/lyrics/missymisdemeanorelliott/allnmygrill.html
 name: All N My Grill
@@ -65,8 +68,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1999-10-23'
+release_year: 1998
+runtime: 272000
 ---
-
 Uh, hit me
 
 
@@ -158,6 +162,3 @@ So you can go 'head wit' all that stabbin' me
 Cuz I will jab thee, and slam thee
 And Bobby Boochet yo' ass, G
 Yeah, yeah
-
-
-

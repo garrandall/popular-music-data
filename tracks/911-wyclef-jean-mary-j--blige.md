@@ -1,9 +1,12 @@
 ---
+album: The Ecleftic -2 Sides II A Book
 artists:
 - Wyclef Jean
+external_ids:
+  spotify: spotify:track:6PVOG18IfMizQqK1o031su
 features:
 - Mary J. Blige
-genres: []
+first_released_as_single: false
 key: 911-wyclef-jean-mary-j--blige
 lyrics_url: https://www.azlyrics.com/lyrics/wyclefjean/911.html
 name: '911'
@@ -84,9 +87,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2001-02-10'
+release_year: 1997
+runtime: 259240
 ---
-
-
 Yo, what up, this Wyclef with Mary J.
 I serenade the girls with my accoustic guitar
 You know what I'm sayin'?
@@ -163,6 +166,3 @@ I understand
 
 And you're doin, what you're doin, would you do it
 and do it and do it and do it for me..
-
-
-

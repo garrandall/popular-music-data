@@ -1,8 +1,11 @@
 ---
+album: Redemption
 artists:
 - Benzino
+external_ids:
+  spotify: spotify:track:0yORE7Aw2erLpuYlws1SJJ
 features: []
-genres: []
+first_released_as_single: false
 key: rock-the-party-benzino
 lyrics_url: https://genius.com/Benzino-rock-the-party-lyrics
 name: Rock The Party
@@ -79,6 +82,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2003-02-08'
+release_year: 2002
+runtime: 227933
 ---
 Yellowcity, Benzino
 Yellowman.. Young Heff

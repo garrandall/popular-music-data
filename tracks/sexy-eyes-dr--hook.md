@@ -1,8 +1,11 @@
 ---
+album: Greatest Hits
 artists:
 - Dr. Hook
+external_ids:
+  spotify: spotify:track:0QpZ69CTjRbJ3ZVsnTaGfa
 features: []
-genres: []
+first_released_as_single: false
 key: sexy-eyes-dr--hook
 lyrics_url: https://www.azlyrics.com/lyrics/drhook/sexyeyes.html
 name: Sexy Eyes
@@ -91,8 +94,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1980-07-05'
+release_year: 1980
+runtime: 209133
 ---
-
 I was sitting all alone, watching people getting off, with each other
 They were dancing 'cross the floor, turning movement back and forth, they were lovers
 One more lonely night for me, I looked up what did I see
@@ -114,6 +118,3 @@ Sexy eyes, getting down with you, I wanna move with you, sexy eyes
 
 Sexy eyes, getting down with you, I wanna move with you, sexy eyes
 Sexy eyes, getting down with you, I wanna move with you, sexy eyes
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Premonition (Live 1997)
 artists:
 - John Fogerty
+external_ids:
+  spotify: spotify:track:2hxwokZalG4y2h8GoGPQPz
 features: []
-genres: []
+first_released_as_single: false
 key: rockin--all-over-the-world-john-fogerty
 lyrics_url: https://genius.com/John-fogerty-rockin-all-over-the-world-lyrics
 name: Rockin' All Over The World
@@ -51,6 +54,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1975-11-15'
+release_year: 1969
+runtime: 178252
 ---
 Well, a-here-ee-yup, a-here-ee-yup, a-here we go
 All aboard, justa hittin' the road

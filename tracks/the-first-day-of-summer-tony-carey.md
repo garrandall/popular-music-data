@@ -1,8 +1,11 @@
 ---
+album: Some Tough City
 artists:
 - Tony Carey
+external_ids:
+  spotify: spotify:track:14Tirg664ZrAvRv8w3AmQ0
 features: []
-genres: []
+first_released_as_single: false
 key: the-first-day-of-summer-tony-carey
 lyrics_url: https://genius.com/Tony-carey-the-first-day-of-summer-lyrics
 name: The First Day Of Summer
@@ -51,6 +54,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1984-08-18'
+release_year: 1984
+runtime: 225000
 ---
 Well The Kid and me were the team to beat
 We could stand up to the big boys

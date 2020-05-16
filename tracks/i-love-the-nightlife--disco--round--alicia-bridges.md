@@ -1,8 +1,11 @@
 ---
+album: I Love The Nightlife
 artists:
 - Alicia Bridges
+external_ids:
+  spotify: spotify:track:6c0G8K6G2LlIfJTsRLJjfs
 features: []
-genres: []
+first_released_as_single: false
 key: i-love-the-nightlife--disco--round--alicia-bridges
 lyrics_url: https://genius.com/Alicia-bridges-i-love-the-night-life-disco-round-lyrics
 name: I Love The Nightlife (Disco 'round)
@@ -131,6 +134,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1979-02-03'
+release_year: 1978
+runtime: 187973
 ---
 Oh, I love the nightlife
 I've got to boogie

@@ -1,8 +1,11 @@
 ---
+album: In Black And White
 artists:
 - Jenny Burton
+external_ids:
+  spotify: spotify:track:3zOGILD2cGfg9RDID1EEsX
 features: []
-genres: []
+first_released_as_single: false
 key: remember-what-you-like-jenny-burton
 lyrics_url: https://genius.com/Jenny-burton-remember-what-you-like-lyrics
 name: Remember What You Like
@@ -31,6 +34,8 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1984-03-03'
+release_year: 1983
+runtime: 427106
 ---
 Yes, I do
 And I do

@@ -1,8 +1,11 @@
 ---
+album: Miss E... So Addictive
 artists:
 - Missy Elliott
+external_ids:
+  spotify: spotify:track:0jG92AlXau21qgCQRxGLic
 features: []
-genres: []
+first_released_as_single: false
 key: one-minute-man-missy--misdemeanor--elliott
 lyrics_url: https://www.azlyrics.com/lyrics/missymisdemeanorelliott/oneminuteman.html
 name: One Minute Man
@@ -91,9 +94,9 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '2001-12-01'
+release_year: 2001
+runtime: 252986
 ---
-
-
 Oh, I don't want I don't need I can't stand no minute man
 I don't want no minute man
 Oh, here's your chance be a man take my hand understand
@@ -168,6 +171,3 @@ Break me off, show me what you got..
 Break me off, show me what you got..
 Break me off, show me what you got..
 Break me off, break break me off
-
-
-

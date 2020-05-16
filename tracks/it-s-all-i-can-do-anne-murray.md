@@ -1,8 +1,11 @@
 ---
+album: Where Do You Go When You Dream
 artists:
 - Anne Murray
+external_ids:
+  spotify: spotify:track:2Ru0Z3SgN9EwvL3o1IGs5c
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-all-i-can-do-anne-murray
 lyrics_url: https://genius.com/Anne-murray-its-all-i-can-do-lyrics
 name: It's All I Can Do
@@ -43,6 +46,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1981-11-21'
+release_year: 1981
+runtime: 172960
 ---
 It's been a while, how have you been
 It's really good you know to see you again

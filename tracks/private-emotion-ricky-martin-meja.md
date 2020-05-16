@@ -1,9 +1,12 @@
 ---
+album: Ricky Martin
 artists:
 - Ricky Martin
+external_ids:
+  spotify: spotify:track:1rjHJSGgt10GAtgLrDtHTM
 features:
 - Meja
-genres: []
+first_released_as_single: false
 key: private-emotion-ricky-martin-meja
 lyrics_url: https://genius.com/Ricky-martin-private-emotion-ricky-martin-and-meja-lyrics
 name: Private Emotion
@@ -28,6 +31,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2000-04-08'
+release_year: 1999
+runtime: 241000
 ---
 Every endless night has a dawning day
 Every darkest sky has a shining ray

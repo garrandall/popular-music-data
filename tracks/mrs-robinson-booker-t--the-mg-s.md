@@ -1,9 +1,12 @@
 ---
+album: The Booker T. Set
 artists:
 - Booker T.
 - The MG's
+external_ids:
+  spotify: spotify:track:110sjHqXPX0EYneVl8t0F2
 features: []
-genres: []
+first_released_as_single: false
 key: mrs-robinson-booker-t--the-mg-s
 name: Mrs Robinson
 rankings:
@@ -39,5 +42,7 @@ rankings:
   rank: 52
   ranking_list: Billboard Hot 100
   start_date: '1969-07-26'
+release_year: 1969
+runtime: 221800
 ---
 

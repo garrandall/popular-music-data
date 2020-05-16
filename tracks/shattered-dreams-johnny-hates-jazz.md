@@ -1,8 +1,11 @@
 ---
+album: Turn Back The Clock
 artists:
 - Johnny Hates Jazz
+external_ids:
+  spotify: spotify:track:5KXKhCfPNS4342ly8tTf6w
 features: []
-genres: []
+first_released_as_single: false
 key: shattered-dreams-johnny-hates-jazz
 lyrics_url: https://www.azlyrics.com/lyrics/johnnyhatesjazz/shattereddreams.html
 name: Shattered Dreams
@@ -83,8 +86,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1988-07-23'
+release_year: 1988
+runtime: 207346
 ---
-
 So much for your promises
 They died the day you let me go
 Caught up in a web of lies
@@ -140,6 +144,3 @@ Die for me
 So much for your promises
 
 So much for your promises
-
-
-

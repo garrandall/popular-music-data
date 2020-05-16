@@ -1,8 +1,11 @@
 ---
+album: Playing for Keeps
 artists:
 - Eddie Money
+external_ids:
+  spotify: spotify:track:2VzJycSScsHA24Vp5iiT6L
 features: []
-genres: []
+first_released_as_single: false
 key: get-a-move-on-eddie-money
 lyrics_url: https://genius.com/Eddie-money-get-a-move-on-lyrics
 name: Get A Move On
@@ -39,6 +42,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1979-10-13'
+release_year: 1977
+runtime: 220493
 ---
 Ain't had enough
 How long has it been?

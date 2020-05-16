@@ -1,8 +1,11 @@
 ---
+album: Playboy
 artists:
 - The Marvelettes
+external_ids:
+  spotify: spotify:track:3s2inuLbQQZ7z1GJrdlQr6
 features: []
-genres: []
+first_released_as_single: false
 key: forever-the-marvelettes
 lyrics_url: https://www.azlyrics.com/lyrics/marvelettes/forever.html
 name: Forever
@@ -31,8 +34,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1963-06-08'
+release_year: 1962
+runtime: 141746
 ---
-
 Darlin' forever, forever you can break my heart forever
 If you want to I'll play the part of a fool, just to be with you forever
 Darlin' forever, forever you can taunt me names
@@ -49,6 +53,3 @@ If I, if I could be with you
 Darlin' forever, forever
 No matter what you say I do
 I'll always, I'll always love you
-
-
-

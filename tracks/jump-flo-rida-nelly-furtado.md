@@ -1,9 +1,12 @@
 ---
+album: R.O.O.T.S. (Route of Overcoming the Struggle)
 artists:
 - Flo Rida
+external_ids:
+  spotify: spotify:track:4uGucgzv0ydi35DgAlsTQ4
 features:
 - Nelly Furtado
-genres: []
+first_released_as_single: false
 key: jump-flo-rida-nelly-furtado
 lyrics_url: https://www.azlyrics.com/lyrics/florida/jump.html
 name: Jump
@@ -32,9 +35,9 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '2009-09-05'
+release_year: 2009
+runtime: 208920
 ---
-
-
 Na Na Na Na Na Na Na Na Na Na Na Na
 
 
@@ -93,6 +96,3 @@ Get down, get down, get down
 
 
 Na Na Na Na Na Na Na Na Na Na Na Na
-
-
-

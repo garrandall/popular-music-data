@@ -1,8 +1,11 @@
 ---
+album: Music From The Motion Picture Spring Breakers
 artists:
 - Skrillex
+external_ids:
+  spotify: spotify:track:4rwpZEcnalkuhPyGkEdhu0
 features: []
-genres: []
+first_released_as_single: true
 key: scary-monsters-and-nice-sprites-skrillex
 lyrics_url: https://www.azlyrics.com/lyrics/skrillex/scarymonstersandnicesprites.html
 name: Scary Monsters And Nice Sprites
@@ -63,9 +66,10 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2012-05-19'
+release_year: 2010
+runtime: 243353
 ---
-
- I'm just like you... you don't need to hide... For I am just like you
+I'm just like you... you don't need to hide... For I am just like you
 
 Yes, oh my God!
 
@@ -77,6 +81,3 @@ Yes, oh my God!
 
 Poltergeist... I'm a coward too..
 You don't need to hide, my friend, for I'm just like you
-
-
-

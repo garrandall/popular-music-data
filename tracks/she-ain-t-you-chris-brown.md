@@ -1,8 +1,11 @@
 ---
+album: F.A.M.E.
 artists:
 - Chris Brown
+external_ids:
+  spotify: spotify:track:3dhvQUA0NyrAea4vQ7X6Gn
 features: []
-genres: []
+first_released_as_single: false
 key: she-ain-t-you-chris-brown
 lyrics_url: https://genius.com/Chris-brown-she-aint-you-lyrics
 name: She Ain't You
@@ -87,6 +90,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '2011-09-10'
+release_year: 2011
+runtime: 248106
 ---
 She a-ain't, she ain't you
 No, she a-ain't, she ain't you

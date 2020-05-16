@@ -1,8 +1,11 @@
 ---
+album: Elastica
 artists:
 - Elastica
+external_ids:
+  spotify: spotify:track:53LZqMzQEnjBkFXPqOq0cD
 features: []
-genres: []
+first_released_as_single: false
 key: connection-elastica
 lyrics_url: https://www.azlyrics.com/lyrics/elastica/connection.html
 name: Connection
@@ -87,8 +90,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1995-08-12'
+release_year: 1995
+runtime: 140480
 ---
-
 Riding on any wave
 That is the luck you crave
 They don't believe it now
@@ -116,6 +120,3 @@ Another heart has made the grade
 Forget it, forget it, forget it
 I don't understand how the last card is played
 But somehow the vital connection is made
-
-
-

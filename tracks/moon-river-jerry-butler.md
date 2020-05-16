@@ -1,8 +1,11 @@
 ---
+album: 'The Vee-Jay Story: Celebrating 40 Years Of Classic Hits'
 artists:
 - Jerry Butler
+external_ids:
+  spotify: spotify:track:6OYiU93DhZtKuACZ18z8dj
 features: []
-genres: []
+first_released_as_single: false
 key: moon-river-jerry-butler
 lyrics_url: https://genius.com/Jerry-butler-moon-river-lyrics
 name: Moon River
@@ -75,6 +78,8 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1962-02-03'
+release_year: 1961
+runtime: 164800
 ---
 Moon River
 Wider than a mile

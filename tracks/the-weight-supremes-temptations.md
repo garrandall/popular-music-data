@@ -1,9 +1,12 @@
 ---
+album: Together
 artists:
 - Supremes
 - Temptations
+external_ids:
+  spotify: spotify:track:2g8OuYXyWjNbLyVjFRGWDg
 features: []
-genres: []
+first_released_as_single: false
 key: the-weight-supremes-temptations
 lyrics_url: https://www.musixmatch.com/lyrics/Diana-Ross-The-Supremes-and-The-Temptations/The-Weight
 name: The Weight
@@ -28,6 +31,8 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1969-10-11'
+release_year: 1969
+runtime: 182026
 ---
 (Jamie Robertson)
 

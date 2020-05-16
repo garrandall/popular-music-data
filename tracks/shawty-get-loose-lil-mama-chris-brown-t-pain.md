@@ -1,10 +1,13 @@
 ---
+album: VYP - Voice of the Young People
 artists:
 - Lil Mama
+external_ids:
+  spotify: spotify:track:0IpJnRaW6HylU6q0SjwDgl
 features:
 - Chris Brown
 - T-Pain
-genres: []
+first_released_as_single: true
 key: shawty-get-loose-lil-mama-chris-brown-t-pain
 lyrics_url: https://www.azlyrics.com/lyrics/lilmama/shawtygetloose.html
 name: Shawty Get Loose
@@ -57,8 +60,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2008-05-24'
+release_year: 2008
+runtime: 212546
 ---
-
 Hey
 
 
@@ -137,6 +141,3 @@ That Shawty Got Loose
 That Shawty Get Loose
 
 Beat...
-
-
-

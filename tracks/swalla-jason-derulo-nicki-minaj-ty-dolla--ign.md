@@ -1,10 +1,13 @@
 ---
+album: Swalla
 artists:
 - Jason Derulo
+external_ids:
+  spotify: spotify:track:6kex4EBAj0WHXDKZMEJaaF
 features:
 - Nicki Minaj
 - Ty Dolla $ign
-genres: []
+first_released_as_single: true
 key: swalla-jason-derulo-nicki-minaj-ty-dolla--ign
 lyrics_url: https://www.azlyrics.com/lyrics/jasonderulo/swalla.html
 name: Swalla
@@ -89,9 +92,9 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '2017-08-19'
+release_year: 2017
+runtime: 216408
 ---
-
-
 Drank
 Young Money
 
@@ -184,6 +187,3 @@ My freaky, freaky gyal
 Swalla-la-la
 My freaky, freaky gyal
 Derulo
-
-
-

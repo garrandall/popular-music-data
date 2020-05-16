@@ -1,8 +1,11 @@
 ---
+album: Classic Male Pop - Vol. 32 - Karaoke
 artists:
 - Bo Donaldson And The Heywoods
+external_ids:
+  spotify: spotify:track:6ZqgJAbxuEUjazBLN5V0U4
 features: []
-genres: []
+first_released_as_single: false
 key: billy-don-t-be-a-hero-bo-donaldson-and-the-heywoods
 lyrics_url: https://genius.com/Bo-donaldson-and-the-heywoods-billy-dont-be-a-hero-lyrics
 name: Billy Don't Be A Hero
@@ -83,6 +86,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1974-08-24'
+release_year: 1974
+runtime: 205866
 ---
 The marching band came down along Main Street
 The soldier blues fell in behind

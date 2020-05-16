@@ -1,8 +1,11 @@
 ---
+album: Foxy Lady
 artists:
 - Cher
+external_ids:
+  spotify: spotify:track:7kegNJK6Dd2ZQc663oPQ9y
 features: []
-genres: []
+first_released_as_single: false
 key: living-in-a-house-divided-cher
 lyrics_url: https://www.azlyrics.com/lyrics/sonnycher/livinginahousedivided.html
 name: Living In A House Divided
@@ -39,8 +42,9 @@ rankings:
   rank: 30
   ranking_list: Billboard Hot 100
   start_date: '1972-07-08'
+release_year: 1972
+runtime: 179560
 ---
-
 Look at us
 The picture of happiness
 Not so long ago
@@ -68,4 +72,3 @@ Unable to make amends
 Such perfect strangers are we
 Is this how it will end?
 Just a sad story
-

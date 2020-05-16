@@ -1,9 +1,12 @@
 ---
+album: Soul Limbo
 artists:
 - Booker T.
 - The MG's
+external_ids:
+  spotify: spotify:track:3OVaMHQ2bj8KHabuF8deFv
 features: []
-genres: []
+first_released_as_single: false
 key: hang--em-high-booker-t--the-mg-s
 lyrics_url: https://genius.com/Booker-t-and-the-mgs-hang-em-high-lyrics
 name: Hang 'Em High
@@ -80,5 +83,7 @@ rankings:
   rank: 27
   ranking_list: Billboard Hot 100
   start_date: '1969-03-08'
+release_year: 1968
+runtime: 236306
 ---
 Instrumental

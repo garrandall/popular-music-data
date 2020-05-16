@@ -1,8 +1,11 @@
 ---
+album: 'Take Me Home: Yearbook Edition'
 artists:
 - One Direction
+external_ids:
+  spotify: spotify:track:0AkQbXGN4KG34TS7xLrM68
 features: []
-genres: []
+first_released_as_single: false
 key: kiss-you-one-direction
 lyrics_url: https://genius.com/One-direction-kiss-you-lyrics
 name: Kiss You
@@ -71,6 +74,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2013-04-27'
+release_year: 2012
+runtime: 182960
 ---
 Oh, I just wanna take you anywhere that you like
 We could go out any day, any night

@@ -1,8 +1,11 @@
 ---
+album: Mo'Hogany
 artists:
 - Monifah
+external_ids:
+  spotify: spotify:track:3upCmUgdchN3u0vkedbC5S
 features: []
-genres: []
+first_released_as_single: false
 key: touch-it-monifah
 lyrics_url: https://genius.com/Monifah-touch-it-lyrics
 name: Touch It
@@ -111,6 +114,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1999-01-30'
+release_year: 1998
+runtime: 285826
 ---
 Yeah, yeah, yeah
 

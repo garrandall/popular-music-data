@@ -1,8 +1,11 @@
 ---
+album: Janet
 artists:
 - Janet Jackson
+external_ids:
+  spotify: spotify:track:0IaMMHVbpJ0LrRAeigWOXr
 features: []
-genres: []
+first_released_as_single: false
 key: again-janet-jackson
 lyrics_url: https://genius.com/Janet-jackson-together-again-lyrics
 name: Again
@@ -99,6 +102,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1994-03-26'
+release_year: 1993
+runtime: 227133
 ---
 There are times when I look above and beyond
 There are times when I feel your love around me, baby

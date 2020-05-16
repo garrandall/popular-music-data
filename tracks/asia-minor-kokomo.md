@@ -1,8 +1,11 @@
 ---
+album: 60's Super Hits (Rerecorded Version)
 artists:
 - Kokomo
+external_ids:
+  spotify: spotify:track:4uNAdFLTuiIhDtbZsq31Og
 features: []
-genres: []
+first_released_as_single: false
 key: asia-minor-kokomo
 lyrics_url: https://www.musixmatch.com/lyrics/Kokomo/Asia-Minor
 name: Asia Minor
@@ -63,6 +66,8 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '1961-05-22'
+release_year: 1961
+runtime: 118133
 ---
 They say I'm trouble
 They say I'm bad

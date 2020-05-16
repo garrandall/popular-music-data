@@ -1,10 +1,13 @@
 ---
+album: Jai Ho! (You Are My Destiny)
 artists:
 - A R Rahman
 - The Pussycat Dolls
+external_ids:
+  spotify: spotify:track:7Kpqjspw4Y7HrvItIRcBiW
 features:
 - Nicole Scherzinger
-genres: []
+first_released_as_single: true
 key: jai-ho---you-are-my-destiny--a-r-rahman-the-pussycat-dolls-nicole-scherzinger
 lyrics_url: https://genius.com/The-pussycat-dolls-and-ar-rahman-jai-ho-you-are-my-destiny-lyrics
 name: Jai Ho! (You Are My Destiny)
@@ -61,6 +64,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2009-05-30'
+release_year: 2009
+runtime: 222400
 ---
 Jai Ho! Jai Ho!
 

@@ -1,8 +1,11 @@
 ---
+album: Bread
 artists:
 - Bread
+external_ids:
+  spotify: spotify:track:5CXIWgBcyg4qpHIrcOF1da
 features: []
-genres: []
+first_released_as_single: false
 key: it-don-t-matter-to-me-bread
 lyrics_url: https://genius.com/Bread-it-dont-matter-to-me-lyrics
 name: It Don't Matter To Me
@@ -51,6 +54,8 @@ rankings:
   rank: 25
   ranking_list: Billboard Hot 100
   start_date: '1970-12-05'
+release_year: 1969
+runtime: 163346
 ---
 It don't matter to me
 If you really feel that

@@ -1,8 +1,11 @@
 ---
+album: The First Of A Million Kisses
 artists:
 - Fairground Attraction
+external_ids:
+  spotify: spotify:track:2X90tKH59XlulLjbT4vci1
 features: []
-genres: []
+first_released_as_single: false
 key: perfect-fairground-attraction
 lyrics_url: https://genius.com/Fairground-attraction-perfect-lyrics
 name: Perfect
@@ -31,6 +34,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1989-01-21'
+release_year: 1988
+runtime: 216573
 ---
 I don't want half-hearted love affairs
 I need someone who really cares

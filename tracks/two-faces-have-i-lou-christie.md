@@ -1,8 +1,11 @@
 ---
+album: Lou Christie
 artists:
 - Lou Christie
+external_ids:
+  spotify: spotify:track:1cpguRdD11njLNH2ZeWygE
 features: []
-genres: []
+first_released_as_single: false
 key: two-faces-have-i-lou-christie
 lyrics_url: https://genius.com/Lou-christie-two-faces-have-i-lyrics
 name: Two Faces Have I
@@ -67,6 +70,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1963-07-06'
+release_year: 1963
+runtime: 165066
 ---
 I don't want the world to know
 I don't want my heart to show

@@ -1,8 +1,11 @@
 ---
+album: Television Theme Songs
 artists:
 - Mike Post
+external_ids:
+  spotify: spotify:track:5ZX5pIdGQaeHxtHHe7v6ku
 features: []
-genres: []
+first_released_as_single: true
 key: the-rockford-files-mike-post
 lyrics_url: https://genius.com/Mike-post-the-rockford-files-theme-song-lyrics
 name: The Rockford Files
@@ -71,5 +74,7 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1975-08-30'
+release_year: 1975
+runtime: 186600
 ---
 Instrumental

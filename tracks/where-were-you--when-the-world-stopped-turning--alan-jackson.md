@@ -1,8 +1,11 @@
 ---
+album: Drive
 artists:
 - Alan Jackson
+external_ids:
+  spotify: spotify:track:4aOQG9TYcZOhT3sngkMI9K
 features: []
-genres: []
+first_released_as_single: false
 key: where-were-you--when-the-world-stopped-turning--alan-jackson
 lyrics_url: https://www.azlyrics.com/lyrics/alanjackson/wherewereyouwhentheworldstoppedturning.html
 name: Where Were You (When The World Stopped Turning)
@@ -87,8 +90,9 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '2002-04-06'
+release_year: 2001
+runtime: 305093
 ---
-
 Where were you when the world stopped turning on that September day?
 Were you in the yard with your wife and children
 Or working on some stage in L.A.?
@@ -173,6 +177,3 @@ And the greatest is love
 And the greatest is love
 
 Where were you when the world stopped turning on that September day?
-
-
-

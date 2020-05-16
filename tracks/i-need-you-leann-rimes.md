@@ -1,8 +1,11 @@
 ---
+album: I Need You
 artists:
 - LeAnn Rimes
+external_ids:
+  spotify: spotify:track:0SfnccfjwfbPFWW7Oi7yfe
 features: []
-genres: []
+first_released_as_single: false
 key: i-need-you-leann-rimes
 lyrics_url: https://genius.com/Leann-rimes-i-need-you-lyrics
 name: I Need You
@@ -107,6 +110,8 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '2000-11-11'
+release_year: 2000
+runtime: 210773
 ---
 I don't need a lot of things
 I can get by with nothing

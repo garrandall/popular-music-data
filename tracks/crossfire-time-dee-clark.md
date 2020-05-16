@@ -1,8 +1,11 @@
 ---
+album: Take Care of Business / Constellation Masters 1963-1966
 artists:
 - Dee Clark
+external_ids:
+  spotify: spotify:track:57KuV33kfulB4wQOyYXEV6
 features: []
-genres: []
+first_released_as_single: false
 key: crossfire-time-dee-clark
 name: Crossfire Time
 rankings:
@@ -26,5 +29,7 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1963-12-14'
+release_year: 1963
+runtime: 114266
 ---
 

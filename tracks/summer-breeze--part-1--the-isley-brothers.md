@@ -1,8 +1,11 @@
 ---
+album: 3+3
 artists:
 - The Isley Brothers
+external_ids:
+  spotify: spotify:track:7wcP2Aa2SliFhwi4SyfvfV
 features: []
-genres: []
+first_released_as_single: false
 key: summer-breeze--part-1--the-isley-brothers
 lyrics_url: https://genius.com/The-isley-brothers-summer-breeze-lyrics
 name: Summer Breeze (Part 1)
@@ -35,6 +38,8 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '1974-05-04'
+release_year: 1973
+runtime: 371706
 ---
 Ah-ha-ha, yeah
 Summer Breeze, all in my mind

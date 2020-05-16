@@ -1,9 +1,12 @@
 ---
+album: 'Glee: The Music, Volume 3 Showstoppers'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:3aiKybRCTBazAplseCewQc
 features:
 - Kristin Chenoweth
-genres: []
+first_released_as_single: false
 key: one-less-bell-to-answer-glee-cast-kristin-chenoweth
 lyrics_url: https://genius.com/Glee-cast-one-less-bell-to-answer-a-house-is-not-a-home-lyrics
 name: One Less Bell To Answer
@@ -12,6 +15,8 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '2010-05-15'
+release_year: 2010
+runtime: 282920
 ---
 One less bell to answer
 One less egg to fry

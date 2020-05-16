@@ -1,8 +1,11 @@
 ---
+album: Best Of Frank Ifield
 artists:
 - Frank Ifield
+external_ids:
+  spotify: spotify:track:49CWTBOMNVqZcHZdsV7hOG
 features: []
-genres: []
+first_released_as_single: false
 key: lovesick-blues-frank-ifield
 lyrics_url: https://genius.com/Frank-ifield-lovesick-blues-lyrics
 name: Lovesick Blues
@@ -35,6 +38,8 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '1963-02-02'
+release_year: 1962
+runtime: 139640
 ---
 I got a feeling called the blues lord
 Since my baby said goodbye

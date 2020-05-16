@@ -1,8 +1,11 @@
 ---
+album: True Colours (Expanded Version)
 artists:
 - Level 42
+external_ids:
+  spotify: spotify:track:6P8Koz2FQpJHte9tGHL4eb
 features: []
-genres: []
+first_released_as_single: false
 key: hot-water-level-42
 lyrics_url: https://www.azlyrics.com/lyrics/level42/hotwater.html
 name: Hot Water
@@ -23,8 +26,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1986-08-16'
+release_year: 1984
+runtime: 220263
 ---
-
 Tell me something
 Why do I always find it hard
 Just to get along
@@ -101,6 +105,3 @@ Your folks
 Have waited up for you
 Now they've locked the door
 And turned off the light
-
-
-

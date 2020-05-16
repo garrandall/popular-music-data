@@ -1,8 +1,11 @@
 ---
+album: Now!
 artists:
 - Gary Lewis And The Playboys
+external_ids:
+  spotify: spotify:track:2UEyoyePlrELhkOWO1iNFh
 features: []
-genres: []
+first_released_as_single: false
 key: sealed-with-a-kiss-gary-lewis-and-the-playboys
 lyrics_url: https://genius.com/Gary-lewis-and-the-playboys-sealed-with-a-kiss-lyrics
 name: Sealed With A Kiss
@@ -63,6 +66,8 @@ rankings:
   rank: 35
   ranking_list: Billboard Hot 100
   start_date: '1968-09-21'
+release_year: 1968
+runtime: 149320
 ---
 Though we gotta say goodbye for the summer
 Darling I promise you this

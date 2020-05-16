@@ -1,8 +1,11 @@
 ---
+album: Good Trouble
 artists:
 - REO Speedwagon
+external_ids:
+  spotify: spotify:track:07wMk0CZVZRMqhF66r40Z8
 features: []
-genres: []
+first_released_as_single: false
 key: keep-the-fire-burnin--reo-speedwagon
 lyrics_url: https://www.azlyrics.com/lyrics/reospeedwagon/keepthefireburnin.html
 name: Keep The Fire Burnin'
@@ -71,8 +74,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1982-09-25'
+release_year: 1982
+runtime: 234893
 ---
-
 Keep the fire burnin'
 Let it keep us warm
 The world will keep on turnin'
@@ -98,6 +102,3 @@ We are strong, we can never give up
 If we wanted to we could
 But we've always understood
 To keep lookin' for the good
-
-
-

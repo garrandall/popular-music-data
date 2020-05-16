@@ -1,8 +1,11 @@
 ---
+album: The Best of Dee Jay & the Runaways
 artists:
 - Dee Jay And The Runaways
+external_ids:
+  spotify: spotify:track:0Y0omNcsi2cfQEe0kbg9uJ
 features: []
-genres: []
+first_released_as_single: false
 key: peter-rabbit-dee-jay-and-the-runaways
 lyrics_url: https://genius.com/Dee-jay-and-the-runaways-peter-rabbit-lyrics
 name: Peter Rabbit
@@ -51,6 +54,8 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '1966-07-16'
+release_year: 1966
+runtime: 131840
 ---
 Peter Rabbit and Little Boy Blue
 Hidden in the brush with Mr. Magoo

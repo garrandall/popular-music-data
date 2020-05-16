@@ -1,9 +1,12 @@
 ---
+album: It's All Happening On The Inside
 artists:
 - Tommy Boyce
 - Bobby Hart
+external_ids:
+  spotify: spotify:track:4eM7bZnwoRQbVXktBxwlXa
 features: []
-genres: []
+first_released_as_single: false
 key: alice-long--you-re-still-my-favorite-girlfriend--tommy-boyce-bobby-hart
 lyrics_url: https://www.musixmatch.com/lyrics/Tommy-Boyce-feat-Bobby-Hart/Alice-Long-You-re-Still-My-Favorite-Girlfriend
 name: Alice Long (You're Still My Favorite Girlfriend)
@@ -48,9 +51,9 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '1968-09-07'
+release_year: 1968
+runtime: 171240
 ---
-Tommy Boyce
-Miscellaneous
 Alice Long
 You're still my favorite girlfriend
 Alicew Long
@@ -65,7 +68,7 @@ So if you think we don't see each other enough
 Then let's talk it over
 When we're together
 Nothing can keep us apart
-But if I ever forget to (?-unclear)
+But if I ever forget to
 But whatever
 You're still a part of my heart
 Can't you see
@@ -76,7 +79,7 @@ But you can't hold on to love by holding on
 When I am with you girl or when I'm gone
 Just remember
 You're still my favorite girlfriend
-Alice Alice Alice Alice Alice Alice (fading into instrumental interlude)
+Alice Alice Alice Alice Alice Alice
 You're still my favorite girlfriend
 Alice Long
 And I don't forget about you
@@ -86,4 +89,3 @@ You're still my favorite girlfriend
 You're still my favorite girlfriend
 You're still my favorite girlfriend
 Alice Long
-(Instrumental music fading out)

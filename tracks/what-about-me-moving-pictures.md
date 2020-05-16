@@ -1,8 +1,11 @@
 ---
+album: Picture This
 artists:
 - Moving Pictures
+external_ids:
+  spotify: spotify:track:6r0x7cyZFKWHykvuFzKwhu
 features: []
-genres: []
+first_released_as_single: false
 key: what-about-me-moving-pictures
 lyrics_url: https://genius.com/Moving-pictures-what-about-me-lyrics
 name: What About Me
@@ -179,6 +182,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1989-12-02'
+release_year: 1982
+runtime: 219431
 ---
 Well, there's a little boy waiting
 At the counter of the corner shop

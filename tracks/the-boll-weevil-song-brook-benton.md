@@ -1,8 +1,11 @@
 ---
+album: Hotel Happiness
 artists:
 - Brook Benton
+external_ids:
+  spotify: spotify:track:5HOixnm72KbU7bBSeviovm
 features: []
-genres: []
+first_released_as_single: false
 key: the-boll-weevil-song-brook-benton
 lyrics_url: https://genius.com/Brook-benton-the-boll-weevil-song-lyrics
 name: The Boll Weevil Song
@@ -71,6 +74,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1961-08-28'
+release_year: 1961
+runtime: 166150
 ---
 Let me tell ya a story about a boll weevil
 Now, some of you may not know, but a boll weevil is an insect

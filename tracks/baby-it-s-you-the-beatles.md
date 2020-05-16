@@ -1,8 +1,11 @@
 ---
+album: Please Please Me
 artists:
 - The Beatles
+external_ids:
+  spotify: spotify:track:2VmB1rF9FtfKUmFHDVnq8Q
 features: []
-genres: []
+first_released_as_single: false
 key: baby-it-s-you-the-beatles
 lyrics_url: https://genius.com/The-beatles-baby-its-you-lyrics
 name: Baby It's You
@@ -23,6 +26,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1995-05-13'
+release_year: 1963
+runtime: 160520
 ---
 Sha la la la la la la
 Sha la la la la la la

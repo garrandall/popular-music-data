@@ -1,10 +1,13 @@
 ---
+album: Original Soundtrack from Season 1 of Empire
 artists:
 - Empire Cast
+external_ids:
+  spotify: spotify:track:7uQztXdiRLRu4YSviPqfD9
 features:
 - Estelle
 - Jussie Smollett
-genres: []
+first_released_as_single: false
 key: conqueror-empire-cast-estelle-jussie-smollett
 lyrics_url: https://www.azlyrics.com/lyrics/empirecast/conqueror.html
 name: Conqueror
@@ -17,8 +20,9 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2015-03-28'
+release_year: 2015
+runtime: 268426
 ---
-
 Life is like a big merry-go-round,
 You're up and then down,
 Going in circles trying to get to where you are.
@@ -83,6 +87,3 @@ I am a conqueror!
 We all make mistakes,
 You might fall on your face,
 But I am a conqueror! (oh oh)
-
-
-

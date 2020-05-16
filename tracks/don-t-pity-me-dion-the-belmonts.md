@@ -1,9 +1,12 @@
 ---
+album: Presenting Dion And The Belmonts
 artists:
 - Dion
 - The Belmonts
+external_ids:
+  spotify: spotify:track:7HEfruasPLwcluVCmByCFD
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-pity-me-dion-the-belmonts
 lyrics_url: https://genius.com/Dion-and-the-belmonts-dont-pity-me-lyrics
 name: Don't Pity Me
@@ -56,6 +59,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1959-03-09'
+release_year: 1958
+runtime: 159880
 ---
 (Pity, pity, pity, ah, ah, oh
 

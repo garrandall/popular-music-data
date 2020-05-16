@@ -1,8 +1,11 @@
 ---
+album: "Country #1 Hits of the 80\u2019s"
 artists:
 - Restless Heart
+external_ids:
+  spotify: spotify:track:2Cr6EnTzsPVNo6smjq9kA6
 features: []
-genres: []
+first_released_as_single: false
 key: i-ll-still-be-loving-you-restless-heart
 lyrics_url: https://genius.com/Restless-heart-ill-still-be-loving-you-lyrics
 name: I'll Still Be Loving You
@@ -79,6 +82,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1987-08-08'
+release_year: 1987
+runtime: 258493
 ---
 Changin' my life with your love
 Has been so easy for you

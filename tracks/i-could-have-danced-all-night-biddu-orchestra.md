@@ -1,8 +1,11 @@
 ---
+album: Eastern Star In A Western Sky
 artists:
 - Biddu Orchestra
+external_ids:
+  spotify: spotify:track:0z4q5afEISjbs5bPRV8s8C
 features: []
-genres: []
+first_released_as_single: false
 key: i-could-have-danced-all-night-biddu-orchestra
 name: I Could Have Danced All Night
 rankings:
@@ -22,5 +25,7 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1976-01-31'
+release_year: 1975
+runtime: 184680
 ---
 

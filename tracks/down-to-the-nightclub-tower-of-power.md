@@ -1,8 +1,11 @@
 ---
+album: Bump City
 artists:
 - Tower Of Power
+external_ids:
+  spotify: spotify:track:0NxiySaZoHByLg3POwh9UQ
 features: []
-genres: []
+first_released_as_single: false
 key: down-to-the-nightclub-tower-of-power
 lyrics_url: https://www.azlyrics.com/lyrics/towerofpower/downtothenightclub.html
 name: Down To The Nightclub
@@ -39,8 +42,9 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '1972-12-09'
+release_year: 1972
+runtime: 163333
 ---
-
 It's Saturday night and I'm just hangin' out
 Lookin' for a place to party
 I jumps into my ride and I hits the road
@@ -95,6 +99,3 @@ Down to the nightclub, tied on a drunk, drunk, drunk
 
 Down to the nightclub
 Bump-ty, bump-ty, bump
-
-
-

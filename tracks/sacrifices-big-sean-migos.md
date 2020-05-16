@@ -1,9 +1,12 @@
 ---
+album: I Decided.
 artists:
 - Big Sean
+external_ids:
+  spotify: spotify:track:0VK3WYIvwtHj3VyiHN9gip
 features:
 - Migos
-genres: []
+first_released_as_single: false
 key: sacrifices-big-sean-migos
 lyrics_url: https://genius.com/Big-sean-sacrifices-lyrics
 name: Sacrifices
@@ -12,6 +15,8 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '2017-02-25'
+release_year: 2017
+runtime: 287320
 ---
 Brrrt!
 I look up, so many (on my don shit)

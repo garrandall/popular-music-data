@@ -1,8 +1,11 @@
 ---
+album: Just As I Am
 artists:
 - Bill Withers
+external_ids:
+  spotify: spotify:track:7M4oVTTFtUptZBD6jB9PLf
 features: []
-genres: []
+first_released_as_single: false
 key: ain-t-no-sunshine-bill-withers
 lyrics_url: https://genius.com/Bill-withers-aint-no-sunshine-lyrics
 name: Ain't No Sunshine
@@ -71,6 +74,8 @@ rankings:
   rank: 22
   ranking_list: Billboard Hot 100
   start_date: '1971-10-30'
+release_year: 1942
+runtime: 124120
 ---
 Ain't no sunshine when she's gone
 It's not warm when she's away

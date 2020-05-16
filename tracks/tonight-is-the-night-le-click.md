@@ -1,8 +1,11 @@
 ---
+album: Sweet Dreams
 artists:
 - Le Click
+external_ids:
+  spotify: spotify:track:0szxZG3QmQpMxrzmOjfDlm
 features: []
-genres: []
+first_released_as_single: false
 key: tonight-is-the-night-le-click
 lyrics_url: https://genius.com/Le-click-tonight-is-the-night-lyrics
 name: Tonight Is The Night
@@ -87,6 +90,8 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '1997-01-18'
+release_year: 1995
+runtime: 233466
 ---
 Tonight is the night it's the night of love
 Forever and ever it's never enough

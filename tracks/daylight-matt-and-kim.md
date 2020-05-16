@@ -1,8 +1,11 @@
 ---
+album: Grand
 artists:
 - Matt And Kim
+external_ids:
+  spotify: spotify:track:57i3M29DWoo7RDk0Tf0LZG
 features: []
-genres: []
+first_released_as_single: false
 key: daylight-matt-and-kim
 lyrics_url: https://genius.com/Matt-and-kim-daylight-lyrics
 name: Daylight
@@ -15,6 +18,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2009-08-29'
+release_year: 2009
+runtime: 171333
 ---
 We cut the legs off of our pants
 Threw our shoes into the ocean

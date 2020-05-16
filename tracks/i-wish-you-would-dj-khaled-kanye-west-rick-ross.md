@@ -1,10 +1,13 @@
 ---
+album: Kiss The Ring
 artists:
 - DJ Khaled
+external_ids:
+  spotify: spotify:track:0n0HybfiBU3YDQNVtWugtm
 features:
 - Kanye West
 - Rick Ross
-genres: []
+first_released_as_single: false
 key: i-wish-you-would-dj-khaled-kanye-west-rick-ross
 lyrics_url: https://genius.com/Dj-khaled-i-wish-you-would-lyrics
 name: I Wish You Would
@@ -17,6 +20,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2012-09-08'
+release_year: 2012
+runtime: 237346
 ---
 DJ Khaled!
 Hit-Boy!

@@ -1,8 +1,11 @@
 ---
+album: What Cha' Gonna Do For Me
 artists:
 - Chaka Khan
+external_ids:
+  spotify: spotify:track:7e176FKv7cq6SG9EXYMLoQ
 features: []
-genres: []
+first_released_as_single: false
 key: what-cha--gonna-do-for-me-chaka-khan
 lyrics_url: https://www.azlyrics.com/lyrics/chakakhan/whatchagonnadoforme.html
 name: What Cha' Gonna Do For Me
@@ -43,8 +46,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1981-07-11'
+release_year: 1981
+runtime: 234266
 ---
-
 All night and day
 Just chippin' away
 It's all in a day's work
@@ -81,6 +85,3 @@ You don't have to tell me
 I'm to blame for this
 'Cause what you hold against me
 Is what I miss
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Greatest Hits Volume II
 artists:
 - Andy Williams
+external_ids:
+  spotify: spotify:track:6elsVYsbdVvjOGL7aK4zqe
 features: []
-genres: []
+first_released_as_single: false
 key: a-song-for-you-andy-williams
 lyrics_url: https://www.azlyrics.com/lyrics/andywilliams/asongforyou.html
 name: A Song For You
@@ -23,8 +26,9 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1971-09-11'
+release_year: 1971
+runtime: 188066
 ---
-
 I've been so many places in my life and time
 I've sung a lot of songs, I've made some bad rhyme
 I've acted out my love in stages
@@ -48,6 +52,3 @@ And when my life is over, remember when we were together
 We were alone and I was singin' this song for you
 We were alone and I was singin' this song for you
 We were alone and I was singin' this song, singin' this song for you
-
-
-

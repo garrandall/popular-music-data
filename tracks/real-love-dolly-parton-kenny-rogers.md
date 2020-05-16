@@ -1,9 +1,12 @@
 ---
+album: Real Love
 artists:
 - Dolly Parton
 - Kenny Rogers
+external_ids:
+  spotify: spotify:track:6cmv1w0ezmtjT1V61PG3lk
 features: []
-genres: []
+first_released_as_single: false
 key: real-love-dolly-parton-kenny-rogers
 lyrics_url: https://www.azlyrics.com/lyrics/dollyparton/reallove.html
 name: Real Love
@@ -20,8 +23,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1985-06-22'
+release_year: 1985
+runtime: 233693
 ---
-
 They say that it's a matter of trusting
 Before love has a chance to begin
 And it's never simple
@@ -94,6 +98,3 @@ Real love
 You're my destination
 Baby, you and me
 We got everything we need
-
-
-

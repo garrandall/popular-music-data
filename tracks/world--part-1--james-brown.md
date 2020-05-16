@@ -1,8 +1,11 @@
 ---
+album: It's A Man's Man's Man's World
 artists:
 - James Brown
+external_ids:
+  spotify: spotify:track:3SQ9Hb9rfpJ02AWfaOPhpy
 features: []
-genres: []
+first_released_as_single: false
 key: world--part-1--james-brown
 lyrics_url: https://genius.com/James-brown-its-a-mans-world-lyrics
 name: World (Part 1)
@@ -35,6 +38,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1969-10-25'
+release_year: 1966
+runtime: 167373
 ---
 This is a man's world
 This is a man's world

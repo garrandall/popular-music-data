@@ -1,8 +1,11 @@
 ---
+album: Gold
 artists:
 - Connie Francis
+external_ids:
+  spotify: spotify:track:4WzaLFKdryqcVyN36RXRq0
 features: []
-genres: []
+first_released_as_single: false
 key: teddy-connie-francis
 lyrics_url: https://www.azlyrics.com/lyrics/conniefrancis/teddy.html
 name: Teddy
@@ -51,8 +54,9 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '1960-05-09'
+release_year: 1960
+runtime: 164640
 ---
-
 There's a guy I want you to know
 He's the guy I love so
 He's my Teddy, oh Teddy
@@ -83,6 +87,3 @@ We could get married
 I'd be your wife
 Wo-o-o Teddy, aw Teddy
 I, I love you so
-
-
-

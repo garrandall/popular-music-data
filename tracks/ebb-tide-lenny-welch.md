@@ -1,8 +1,11 @@
 ---
+album: Since I Fell for You
 artists:
 - Lenny Welch
+external_ids:
+  spotify: spotify:track:1UhdQLgwU4SqOavJ73OnKO
 features: []
-genres: []
+first_released_as_single: false
 key: ebb-tide-lenny-welch
 lyrics_url: https://www.musixmatch.com/lyrics/Lenny-Welch/Ebb-Tide
 name: Ebb Tide
@@ -43,6 +46,8 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '1964-05-16'
+release_year: 1964
+runtime: 157960
 ---
 First the tide rushes in, plants a kiss on the shore
 Then rolls out to sea and the sea is very still once more

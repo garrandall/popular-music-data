@@ -1,8 +1,11 @@
 ---
+album: Confessions of a Dangerous Mind
 artists:
 - Logic
+external_ids:
+  spotify: spotify:track:3PYx9Wte3jwb48V0wArMOy
 features: []
-genres: []
+first_released_as_single: false
 key: keanu-reeves-logic
 lyrics_url: https://www.musixmatch.com/lyrics/Logic-7/Keanu-Reeves
 name: Keanu Reeves
@@ -19,6 +22,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2019-02-16'
+release_year: 2019
+runtime: 225920
 ---
 Yeah
 

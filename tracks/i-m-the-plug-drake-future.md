@@ -1,9 +1,12 @@
 ---
+album: What A Time To Be Alive
 artists:
 - Drake
 - Future
+external_ids:
+  spotify: spotify:track:6bqtKURdSWkInAJHDkuaL0
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-the-plug-drake-future
 lyrics_url: https://genius.com/Drake-and-future-im-the-plug-lyrics
 name: I'm The Plug
@@ -28,6 +31,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2015-11-07'
+release_year: 2015
+runtime: 180000
 ---
 Draped in all designer, draped in all designer
 Draped in all designer, draped in all designer

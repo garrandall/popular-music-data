@@ -1,8 +1,11 @@
 ---
+album: Pop Christmas Songs
 artists:
 - Band Aid 30
+external_ids:
+  spotify: spotify:track:03Dpt8Z4Zww4NGJb8503zb
 features: []
-genres: []
+first_released_as_single: false
 key: do-they-know-it-s-christmas---2014--band-aid-30
 lyrics_url: https://genius.com/Band-aid-30-do-they-know-its-christmas-lyrics
 name: Do They Know It's Christmas? (2014)
@@ -11,6 +14,8 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '2014-12-06'
+release_year: 2014
+runtime: 228916
 ---
 It’s Christmas time and there’s no need to be afraid
 At Christmas time we let in light and we banish shade

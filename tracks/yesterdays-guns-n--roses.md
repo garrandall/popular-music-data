@@ -1,8 +1,11 @@
 ---
+album: Use Your Illusion II
 artists:
 - Guns N' Roses
+external_ids:
+  spotify: spotify:track:11VGhd5i7deLL0YB0ayicY
 features: []
-genres: []
+first_released_as_single: false
 key: yesterdays-guns-n--roses
 lyrics_url: https://www.azlyrics.com/lyrics/gunsnroses/yesterdays.html
 name: Yesterdays
@@ -47,8 +50,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1993-01-23'
+release_year: 1991
+runtime: 196226
 ---
-
 Yesterday there was so many things I was never told
 Now that I'm startin' to learn I feel I'm growing old
 
@@ -83,6 +87,3 @@ Yesterday's got nothin' for me
 Yesterday
 
 Yesterday
-
-
-

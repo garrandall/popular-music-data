@@ -1,8 +1,11 @@
 ---
+album: The Best of the Girl Groups, Vol. 1
 artists:
 - The Jelly Beans
+external_ids:
+  spotify: spotify:track:2ZSPtP4xf5z9dNFEdkdb5E
 features: []
-genres: []
+first_released_as_single: false
 key: i-wanna-love-him-so-bad-the-jelly-beans
 lyrics_url: https://genius.com/The-jelly-beans-i-wanna-love-him-so-bad-lyrics
 name: I Wanna Love Him So Bad
@@ -55,6 +58,8 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '1964-09-05'
+release_year: 1964
+runtime: 167573
 ---
 Down down down down be doo be doo
 Down down down down be doo be doo

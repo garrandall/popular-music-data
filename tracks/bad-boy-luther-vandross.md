@@ -1,8 +1,11 @@
 ---
+album: Forever, For Always, For Love
 artists:
 - Luther Vandross
+external_ids:
+  spotify: spotify:track:6d3ic1mkWMxf5DPIW798f0
 features: []
-genres: []
+first_released_as_single: false
 key: bad-boy-luther-vandross
 lyrics_url: https://www.azlyrics.com/lyrics/luthervandross/badboyhavingaparty.html
 name: Bad Boy
@@ -55,8 +58,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1983-01-15'
+release_year: 1982
+runtime: 316226
 ---
-
 Roll back the rug everybody
 Move all the tables and chairs
 We're gonna have us a good time tonight
@@ -100,4 +104,3 @@ Everybody's swingin'
 Dancin' to the music
 On the radio
 You can't go
-

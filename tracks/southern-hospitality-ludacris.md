@@ -1,8 +1,11 @@
 ---
+album: Back For The First Time
 artists:
 - Ludacris
+external_ids:
+  spotify: spotify:track:4cNhx6OO1XpvwT6xZnb83B
 features: []
-genres: []
+first_released_as_single: false
 key: southern-hospitality-ludacris
 lyrics_url: https://www.azlyrics.com/lyrics/ludacris/southernhospitality.html
 name: Southern Hospitality
@@ -87,9 +90,9 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '2001-06-02'
+release_year: 2000
+runtime: 300933
 ---
-
-
 Uhh..
 Cadillac grills, Cadillac mill's
 Check out the oil my Cadillac spills
@@ -162,6 +165,3 @@ DTP stay doing thugged out - thangs
 .. (nigga throw dem 'bows)
 .. (nigga throw dem 'bows)
 .. (nigga throw dem 'bows)
-
-
-

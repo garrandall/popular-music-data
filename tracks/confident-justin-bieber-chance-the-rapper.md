@@ -1,9 +1,12 @@
 ---
+album: Journals
 artists:
 - Justin Bieber
+external_ids:
+  spotify: spotify:track:5Isz0twJeFdduOQEFQLezv
 features:
 - Chance The Rapper
-genres: []
+first_released_as_single: false
 key: confident-justin-bieber-chance-the-rapper
 lyrics_url: https://www.azlyrics.com/lyrics/justinbieber/confident.html
 name: Confident
@@ -20,9 +23,9 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '2014-02-22'
+release_year: 2013
+runtime: 248133
 ---
-
-
 Don't do it to me 
 Oh, no, no, Oh, no, no
 Don't do it to me 
@@ -124,6 +127,3 @@ Got me twisted, but still I gotta have it
 Still I gotta have it 
 Oh, no, no, oh, no, no 
 But still I gotta have it
-
-
-

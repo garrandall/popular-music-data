@@ -1,8 +1,11 @@
 ---
+album: Bob Dylan's Greatest Hits Volume II
 artists:
 - Bob Dylan
+external_ids:
+  spotify: spotify:track:1U6hcON934PqSRdb56FdIc
 features: []
-genres: []
+first_released_as_single: false
 key: watching-the-river-flow-bob-dylan
 lyrics_url: https://genius.com/Bob-dylan-watching-the-river-flow-lyrics
 name: Watching The River Flow
@@ -39,6 +42,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1971-08-14'
+release_year: 1971
+runtime: 213893
 ---
 What’s the matter with me
 I don’t have much to say

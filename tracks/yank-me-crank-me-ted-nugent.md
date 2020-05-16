@@ -1,8 +1,11 @@
 ---
+album: Double Live Gonzo
 artists:
 - Ted Nugent
+external_ids:
+  spotify: spotify:track:15h1UK4EqXXCi4jxLdQtva
 features: []
-genres: []
+first_released_as_single: false
 key: yank-me-crank-me-ted-nugent
 lyrics_url: https://www.azlyrics.com/lyrics/tednugent/yankmecrankme.html
 name: Yank Me Crank Me
@@ -35,8 +38,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1978-05-13'
+release_year: 1975
+runtime: 273973
 ---
-
 I need you, baby
 Like a dog needs a bone
 I need you, baby
@@ -87,4 +91,3 @@ I said, crank me
 But don't you waste my time
 I don't want you woken up
 Just so you can thank me
-

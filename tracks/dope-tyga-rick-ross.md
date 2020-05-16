@@ -1,9 +1,12 @@
 ---
+album: Hotel California
 artists:
 - Tyga
+external_ids:
+  spotify: spotify:track:55DuTmvSGwNQR4cBgqYuYL
 features:
 - Rick Ross
-genres: []
+first_released_as_single: false
 key: dope-tyga-rick-ross
 lyrics_url: https://genius.com/Tyga-dope-lyrics
 name: Dope
@@ -48,6 +51,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2013-04-13'
+release_year: 2013
+runtime: 223080
 ---
 I can feel it
 

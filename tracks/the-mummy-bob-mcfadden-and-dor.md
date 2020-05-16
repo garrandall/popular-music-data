@@ -1,8 +1,11 @@
 ---
+album: Lost Halloween
 artists:
 - Bob McFadden And Dor
+external_ids:
+  spotify: spotify:track:4ue97xJYKLXqhvQCEaGKBc
 features: []
-genres: []
+first_released_as_single: false
 key: the-mummy-bob-mcfadden-and-dor
 lyrics_url: https://genius.com/Bob-mcfadden-and-dor-the-mummy-lyrics
 name: The Mummy
@@ -39,6 +42,8 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1959-10-12'
+release_year: 1959
+runtime: 119733
 ---
 I'm a mummy
 I scare people

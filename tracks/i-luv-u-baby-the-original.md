@@ -1,8 +1,11 @@
 ---
+album: I Luv U Baby
 artists:
 - The Original
+external_ids:
+  spotify: spotify:track:6J3LHclKrdg1zLArH3kmF4
 features: []
-genres: []
+first_released_as_single: false
 key: i-luv-u-baby-the-original
 lyrics_url: https://genius.com/Original-i-luv-u-baby-lyrics
 name: I Luv U Baby
@@ -71,6 +74,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1997-02-01'
+release_year: 1996
+runtime: 213000
 ---
 I love you baby
 I love you baby

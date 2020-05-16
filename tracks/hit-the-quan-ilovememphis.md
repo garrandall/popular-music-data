@@ -1,8 +1,11 @@
 ---
+album: Hit the Quan
 artists:
 - iLoveMemphis
+external_ids:
+  spotify: spotify:track:4OjuzM3rTWp3q60mEldNSF
 features: []
-genres: []
+first_released_as_single: true
 key: hit-the-quan-ilovememphis
 lyrics_url: https://genius.com/Ilovememphis-hit-the-quan-lyrics
 name: Hit The Quan
@@ -87,6 +90,8 @@ rankings:
   rank: 37
   ranking_list: Billboard Hot 100
   start_date: '2016-01-16'
+release_year: 2015
+runtime: 181080
 ---
 I finna, I finna, finna show you how to
 

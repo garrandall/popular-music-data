@@ -1,8 +1,11 @@
 ---
+album: Messages From The Boys
 artists:
 - The Boys
+external_ids:
+  spotify: spotify:track:35Iy0Neh1ewQapV6n0td6X
 features: []
-genres: []
+first_released_as_single: false
 key: dial-my-heart-the-boys
 lyrics_url: https://genius.com/The-boys-r-b-group-dial-my-heart-lyrics
 name: Dial My Heart
@@ -83,6 +86,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1989-04-15'
+release_year: 1988
+runtime: 264840
 ---
 When I think about you, baby
 I want you here

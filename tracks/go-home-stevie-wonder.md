@@ -1,8 +1,11 @@
 ---
+album: In Square Circle
 artists:
 - Stevie Wonder
+external_ids:
+  spotify: spotify:track:5zSwmohdHeH2xmrWDFZUZZ
 features: []
-genres: []
+first_released_as_single: false
 key: go-home-stevie-wonder
 lyrics_url: https://genius.com/Stevie-wonder-go-home-lyrics
 name: Go Home
@@ -75,6 +78,8 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1986-03-15'
+release_year: 1985
+runtime: 318040
 ---
 Her parents said, "Girl, don't leave home"
 But her heart kept cheering her on

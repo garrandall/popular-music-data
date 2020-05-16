@@ -1,8 +1,11 @@
 ---
+album: E. 1999 Eternal
 artists:
 - Bone Thugs-N-Harmony
+external_ids:
+  spotify: spotify:track:55RXcZ0Mpwt97vj2Angnn1
 features: []
-genres: []
+first_released_as_single: false
 key: east-1999-bone-thugs-n-harmony
 lyrics_url: https://genius.com/Bone-thugs-n-harmony-east-1999-lyrics
 name: East 1999
@@ -59,6 +62,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1996-03-02'
+release_year: 1995
+runtime: 261773
 ---
 East 1999 my niggas
 

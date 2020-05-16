@@ -1,9 +1,12 @@
 ---
+album: Code Red
 artists:
 - Jazzy Jeff
 - The Fresh Prince
+external_ids:
+  spotify: spotify:track:43lcJvStbsHhR10KLT6FXX
 features: []
-genres: []
+first_released_as_single: false
 key: boom--shake-the-room-jazzy-jeff-the-fresh-prince
 lyrics_url: https://www.azlyrics.com/lyrics/djjazzyjeffthefreshprince/boomshaketheroom.html
 name: Boom! Shake The Room
@@ -88,8 +91,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1993-12-18'
+release_year: 1987
+runtime: 228653
 ---
-
 Yo back up now and give a brother room
 The fuse is lit and I'm about to go boom
 Mercy mercy mercy me
@@ -167,4 +171,3 @@ Yeah that's right yall and I am in the flow
 So pump up the volume along with the tempo
 Many have died tryin' to stop my show
 I came here tonight to here the crowd go
-

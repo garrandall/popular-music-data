@@ -1,8 +1,11 @@
 ---
+album: A Lot Of Dominos
 artists:
 - Fats Domino
+external_ids:
+  spotify: spotify:track:5l8AvWEzLSiHajzkdQ6WYZ
 features: []
-genres: []
+first_released_as_single: false
 key: three-nights-a-week-fats-domino
 lyrics_url: https://genius.com/Fats-domino-three-nights-a-week-lyrics
 name: Three Nights A Week
@@ -51,6 +54,8 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '1960-11-14'
+release_year: 1960
+runtime: 105200
 ---
 Three nights a week, your'e gone
 Three nights a week, that's too long

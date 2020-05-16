@@ -1,8 +1,11 @@
 ---
+album: Finally
 artists:
 - CeCe Peniston
+external_ids:
+  spotify: spotify:track:0uqvSVhGgQTIdj9G51vhvv
 features: []
-genres: []
+first_released_as_single: false
 key: finally-cece-peniston
 lyrics_url: https://genius.com/Cece-peniston-finally-lyrics
 name: Finally
@@ -139,6 +142,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1992-05-09'
+release_year: 1991
+runtime: 245000
 ---
 Finally, finally, yeah yeah, ow
 

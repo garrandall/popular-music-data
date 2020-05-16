@@ -1,9 +1,12 @@
 ---
+album: M.I.A.M.I.
 artists:
 - Pitbull
+external_ids:
+  spotify: spotify:track:2mOrxVrZi9PAs1arR9ifnt
 features:
 - Lil Jon
-genres: []
+first_released_as_single: false
 key: culo-pitbull-lil-jon
 lyrics_url: https://genius.com/Pitbull-culo-miami-mix-lyrics
 name: Culo
@@ -88,6 +91,8 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '2004-09-04'
+release_year: 2004
+runtime: 249480
 ---
 (Intro - Lil' Jon (Pitbull))
 Yeah, Yeah, Yeah, Yeah, Yeah, Lets go (Let's go)

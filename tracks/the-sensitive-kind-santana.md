@@ -1,8 +1,11 @@
 ---
+album: Zebop!
 artists:
 - Santana
+external_ids:
+  spotify: spotify:track:3P18kKy3ynmFl4ePNtuG74
 features: []
-genres: []
+first_released_as_single: false
 key: the-sensitive-kind-santana
 lyrics_url: https://www.azlyrics.com/lyrics/santana/thesensitivekind.html
 name: The Sensitive Kind
@@ -39,8 +42,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1981-09-19'
+release_year: 1981
+runtime: 212826
 ---
-
 Don't take her for granted, she had
 a hard time
 Don't misunderstand her or play
@@ -67,6 +71,3 @@ You got to know she's the
 sensitive kind
 You got to know she's the
 sensitive kind
-
-
-

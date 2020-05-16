@@ -1,8 +1,11 @@
 ---
+album: Indian Giver
 artists:
 - 1910 Fruitgum Co.
+external_ids:
+  spotify: spotify:track:2eq1ZLy9Q1aaB8AjHAMb2m
 features: []
-genres: []
+first_released_as_single: false
 key: special-delivery-1910-fruitgum-co-
 lyrics_url: https://genius.com/1910-fruitgum-company-special-delivery-lyrics
 name: Special Delivery
@@ -43,6 +46,8 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '1969-07-05'
+release_year: 1969
+runtime: 158733
 ---
 What makes me feel so good
 I got your lovin every day

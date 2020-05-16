@@ -1,8 +1,11 @@
 ---
+album: A Group Called Smith
 artists:
 - Smith
+external_ids:
+  spotify: spotify:track:2KSwmLHkgjZCE49YFkgspo
 features: []
-genres: []
+first_released_as_single: false
 key: baby-it-s-you-smith
 lyrics_url: https://genius.com/Smith-baby-its-you-lyrics
 name: Baby It's You
@@ -67,6 +70,8 @@ rankings:
   rank: 26
   ranking_list: Billboard Hot 100
   start_date: '1969-12-13'
+release_year: 1969
+runtime: 207613
 ---
 It's not the way you smile that touched my heart
 It's not the way you kissed that tears me apart

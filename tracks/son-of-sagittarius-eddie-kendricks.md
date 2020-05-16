@@ -1,8 +1,11 @@
 ---
+album: Boogie Down
 artists:
 - Eddie Kendricks
+external_ids:
+  spotify: spotify:track:3Mb5KqmHlK2FusQVMm2mli
 features: []
-genres: []
+first_released_as_single: false
 key: son-of-sagittarius-eddie-kendricks
 lyrics_url: https://www.azlyrics.com/lyrics/eddiekendricks/sonofsagittarius.html
 name: Son Of Sagittarius
@@ -39,8 +42,9 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '1974-06-29'
+release_year: 1974
+runtime: 215973
 ---
-
 People, I am the fire number nine Zodiac sign
 Jupiter brings me the power, Saturn brings me a piece of mind
 I must be clear there's no use of trying to change me
@@ -70,6 +74,3 @@ Hey, people, I'm the fire
 Jupiter brings me the power
 
 Sagittarius, Sagittarius, Sagittarius
-
-
-

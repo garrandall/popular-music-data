@@ -1,8 +1,11 @@
 ---
+album: More
 artists:
 - Vitamin C
+external_ids:
+  spotify: spotify:track:21ZNz1t0iPlLVG1wfW7vc7
 features: []
-genres: []
+first_released_as_single: true
 key: the-itch-vitamin-c
 lyrics_url: https://www.azlyrics.com/lyrics/vitaminc/theitch.html
 name: The Itch
@@ -43,8 +46,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2001-01-27'
+release_year: 2000
+runtime: 208733
 ---
-
 Ha ha ha (ah)
 
 Don't wanna hurt you (hurt you baby)
@@ -106,6 +110,3 @@ I feel the itch again
 I feel the itch
 
 Yeah yeah, I feel the itch again
-
-
-

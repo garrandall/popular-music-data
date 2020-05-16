@@ -1,8 +1,11 @@
 ---
+album: Slave To The Grind
 artists:
 - Skid Row
+external_ids:
+  spotify: spotify:track:4BAhIRDG9GNeMvcigDKF7L
 features: []
-genres: []
+first_released_as_single: false
 key: wasted-time-skid-row
 lyrics_url: https://www.azlyrics.com/lyrics/skidrow/wastedtime.html
 name: Wasted Time
@@ -19,10 +22,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1992-01-18'
+release_year: 1991
+runtime: 348800
 ---
-
-
-
 You and I together in our lives
 Sacred ties would never fray
 Then why can't I let myself tell lies
@@ -94,6 +96,3 @@ And end a memory
 
 I never thought you'd let it get
 This far, boy
-
-
-

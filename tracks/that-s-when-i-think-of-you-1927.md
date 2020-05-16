@@ -1,8 +1,11 @@
 ---
+album: "\u2026ish"
 artists:
 - '1927'
+external_ids:
+  spotify: spotify:track:1xhBGbCBwgkK7CPTloHqFg
 features: []
-genres: []
+first_released_as_single: false
 key: that-s-when-i-think-of-you-1927
 lyrics_url: https://genius.com/1927-thats-when-i-think-of-you-lyrics
 name: That's When I Think Of You
@@ -11,6 +14,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1989-08-26'
+release_year: 1988
+runtime: 253226
 ---
 When I'm lost in a strange place
 Scared and alone

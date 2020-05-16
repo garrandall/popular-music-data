@@ -1,8 +1,11 @@
 ---
+album: One Mo' 'gen (with B
 artists:
 - 95 South
+external_ids:
+  spotify: spotify:track:3eMVOlY4PqhG4e9K4epxbn
 features: []
-genres: []
+first_released_as_single: false
 key: rodeo-95-south
 lyrics_url: https://www.musixmatch.com/lyrics/95-South/Rodeo
 name: Rodeo
@@ -79,6 +82,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1995-06-10'
+release_year: 1995
+runtime: 212733
 ---
 Howdy, howdy...
 

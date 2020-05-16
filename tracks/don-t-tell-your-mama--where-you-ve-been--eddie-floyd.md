@@ -1,8 +1,11 @@
 ---
+album: You've Got To Have Eddie
 artists:
 - Eddie Floyd
+external_ids:
+  spotify: spotify:track:2yXjSkBr3w5E5MBkhBFhVX
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-tell-your-mama--where-you-ve-been--eddie-floyd
 lyrics_url: https://genius.com/Eddie-floyd-dont-tell-your-mama-where-youve-been-lyrics
 name: Don't Tell Your Mama (Where You've Been)
@@ -35,6 +38,8 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '1969-08-09'
+release_year: 1969
+runtime: 233760
 ---
 Baby, oh, let me love you
 Let me, let me, let me, let me, let me

@@ -1,11 +1,14 @@
 ---
+album: Through The Fire
 artists:
 - Hagar
 - Schon
 - Aaronson
 - Shrieve
+external_ids:
+  spotify: spotify:track:7ESeFvtdL6Nj2Z9vcQ3X43
 features: []
-genres: []
+first_released_as_single: false
 key: whiter-shade-of-pale-hagar-schon-aaronson-shrieve
 lyrics_url: https://genius.com/Hagar-schon-aaronson-shrieve-whiter-shade-of-pale-lyrics
 name: Whiter Shade Of Pale
@@ -18,6 +21,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1984-05-26'
+release_year: 1984
+runtime: 288906
 ---
 We skipped the light fandango
 Turned cartwheels 'cross the floor

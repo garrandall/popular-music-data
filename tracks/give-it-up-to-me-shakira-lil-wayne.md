@@ -1,9 +1,12 @@
 ---
+album: She Wolf
 artists:
 - Shakira
+external_ids:
+  spotify: spotify:track:5lR4YDKdhJUkGUYMrMRx43
 features:
 - Lil Wayne
-genres: []
+first_released_as_single: false
 key: give-it-up-to-me-shakira-lil-wayne
 lyrics_url: https://www.azlyrics.com/lyrics/shakira/giveituptome.html
 name: Give It Up To Me
@@ -52,8 +55,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2010-02-06'
+release_year: 2009
+runtime: 183573
 ---
-
 How you doin'? I'm Mr. Mos I'm back
 Timb, are you on it?
 Timb, are you on it?
@@ -163,6 +167,3 @@ Anything you want you can make it yours
 Anything you want in the world
 Anything you want in the world
 Give it up to me
-
-
-

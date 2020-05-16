@@ -1,8 +1,11 @@
 ---
+album: Golden Hits
 artists:
 - Roger Miller
+external_ids:
+  spotify: spotify:track:5cqRxB6DnYFDWENV6dE09g
 features: []
-genres: []
+first_released_as_single: false
 key: dang-me-roger-miller
 lyrics_url: https://genius.com/Roger-miller-dang-me-lyrics
 name: Dang Me
@@ -51,6 +54,8 @@ rankings:
   rank: 34
   ranking_list: Billboard Hot 100
   start_date: '1964-08-22'
+release_year: 1964
+runtime: 109066
 ---
 Well, here I sit high, gettin' ideas
 Ain't nothin' but a fool would live like this

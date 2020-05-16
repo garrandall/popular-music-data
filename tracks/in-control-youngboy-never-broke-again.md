@@ -1,8 +1,11 @@
 ---
+album: AI YoungBoy 2
 artists:
 - YoungBoy Never Broke Again
+external_ids:
+  spotify: spotify:track:1mJEktlt9167EeJ6554kQ2
 features: []
-genres: []
+first_released_as_single: false
 key: in-control-youngboy-never-broke-again
 lyrics_url: https://genius.com/Youngboy-never-broke-again-in-control-lyrics
 name: In Control
@@ -15,6 +18,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2019-11-02'
+release_year: 2019
+runtime: 181436
 ---
 I need to talk to Mike Laury
 Hello? This is Mike Laury

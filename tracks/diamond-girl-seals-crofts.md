@@ -1,9 +1,12 @@
 ---
+album: Diamond Girl
 artists:
 - Seals
 - Crofts
+external_ids:
+  spotify: spotify:track:01U7AowXWVSzZ8K3LxAeED
 features: []
-genres: []
+first_released_as_single: false
 key: diamond-girl-seals-crofts
 lyrics_url: https://www.azlyrics.com/lyrics/sealscrofts/diamondgirl.html
 name: Diamond Girl
@@ -80,8 +83,9 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1973-09-08'
+release_year: 1972
+runtime: 247813
 ---
-
 Diamond Girl
 You sure do shine
 Glad I found you
@@ -131,6 +135,3 @@ You sure do shine
 Diamond Girl
 You sure do, you sure do
 You sure do shine
-
-
-

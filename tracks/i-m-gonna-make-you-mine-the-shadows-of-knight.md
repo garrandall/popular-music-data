@@ -1,8 +1,11 @@
 ---
+album: Back Door Men
 artists:
 - The Shadows Of Knight
+external_ids:
+  spotify: spotify:track:4leFR7V43QabSeyPMvbqYH
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-gonna-make-you-mine-the-shadows-of-knight
 lyrics_url: https://genius.com/The-shadows-of-knight-im-gonna-make-you-mine-lyrics
 name: I'm Gonna Make You Mine
@@ -11,6 +14,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1966-12-24'
+release_year: 1966
+runtime: 171000
 ---
 I give her measure
 I give her hurt

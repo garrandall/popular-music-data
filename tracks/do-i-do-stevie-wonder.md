@@ -1,8 +1,11 @@
 ---
+album: Original Musiquarium
 artists:
 - Stevie Wonder
+external_ids:
+  spotify: spotify:track:31yJDbHPpnl8w4dyo9p6J0
 features: []
-genres: []
+first_released_as_single: false
 key: do-i-do-stevie-wonder
 lyrics_url: https://genius.com/Stevie-wonder-do-i-do-lyrics
 name: Do I Do
@@ -63,6 +66,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1982-08-28'
+release_year: 1982
+runtime: 628106
 ---
 When I see you on the street
 My whole body gets weak

@@ -1,8 +1,11 @@
 ---
+album: Under The Boardwalk
 artists:
 - The Drifters
+external_ids:
+  spotify: spotify:track:3Wtlrgl7wlDUg2OLpG8UY0
 features: []
-genres: []
+first_released_as_single: false
 key: one-way-love-the-drifters
 lyrics_url: https://genius.com/The-drifters-one-way-love-lyrics
 name: One Way Love
@@ -35,6 +38,8 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '1964-06-13'
+release_year: 1964
+runtime: 152120
 ---
 Go and find the kind of girl
 Who thinks you're the

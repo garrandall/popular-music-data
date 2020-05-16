@@ -1,8 +1,11 @@
 ---
+album: Vital Idol
 artists:
 - Billy Idol
+external_ids:
+  spotify: spotify:track:7gIQrP5rRbb0BX8lFEnTwg
 features: []
-genres: []
+first_released_as_single: true
 key: mony-mony-billy-idol
 lyrics_url: https://www.azlyrics.com/lyrics/billyidol/monymony.html
 name: Mony Mony
@@ -95,8 +98,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1988-01-30'
+release_year: 1981
+runtime: 302626
 ---
-
 Here she comes now sayin' Mony Mony
 Shoot 'em down turn around come on Mony
 Hey she give me love and I feel all right now
@@ -158,6 +162,3 @@ Ride your pony, ride your pony
 Ride your pony come on, come on
 Mony Mony
 Feel all right, I said yeah, yeah, yeah, yeah, yeah
-
-
-

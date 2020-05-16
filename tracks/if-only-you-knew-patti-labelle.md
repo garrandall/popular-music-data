@@ -1,8 +1,11 @@
 ---
+album: Beautiful Ballads
 artists:
 - Patti LaBelle
+external_ids:
+  spotify: spotify:track:0e4YRkhLj4xtb6Ei4h4nSV
 features: []
-genres: []
+first_released_as_single: false
 key: if-only-you-knew-patti-labelle
 lyrics_url: https://genius.com/Patti-labelle-if-only-you-knew-lyrics
 name: If Only You Knew
@@ -59,6 +62,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1984-03-31'
+release_year: 1972
+runtime: 285480
 ---
 I must have rehearsed my lines
 A thousand times

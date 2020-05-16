@@ -1,8 +1,11 @@
 ---
+album: Collection 1959-62
 artists:
 - Adam Wade
+external_ids:
+  spotify: spotify:track:4ECyERuKQUKEhtQGpoKKwi
 features: []
-genres: []
+first_released_as_single: false
 key: the-writing-on-the-wall-adam-wade
 lyrics_url: https://genius.com/Adam-wade-the-writing-on-the-wall-lyrics
 name: The Writing On The Wall
@@ -51,6 +54,8 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '1961-07-24'
+release_year: 1961
+runtime: 150240
 ---
 The love light's gone from your eyes
 You're telling me little white lies

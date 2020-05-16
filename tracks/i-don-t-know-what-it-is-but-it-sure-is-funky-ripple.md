@@ -1,8 +1,11 @@
 ---
+album: Southern Goove
 artists:
 - Ripple
+external_ids:
+  spotify: spotify:track:0GyOARQdSDumCoxySPZFHb
 features: []
-genres: []
+first_released_as_single: false
 key: i-don-t-know-what-it-is-but-it-sure-is-funky-ripple
 lyrics_url: https://genius.com/Ripple-i-dont-know-what-it-is-but-it-sure-is-funky-lyrics
 name: I Don't Know What It Is But It Sure Is Funky
@@ -31,6 +34,8 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1973-12-08'
+release_year: 1973
+runtime: 188746
 ---
 Oh, oh
 Oh, oh

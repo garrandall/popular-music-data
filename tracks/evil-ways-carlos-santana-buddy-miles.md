@@ -1,9 +1,12 @@
 ---
+album: Carlos Santana & Buddy Miles! Live!
 artists:
 - Carlos Santana
 - Buddy Miles
+external_ids:
+  spotify: spotify:track:6zLdN89zApN2lsEtAQEsag
 features: []
-genres: []
+first_released_as_single: false
 key: evil-ways-carlos-santana-buddy-miles
 lyrics_url: https://genius.com/Carlos-santana-and-buddy-miles-evil-ways-lyrics
 name: Evil Ways
@@ -28,6 +31,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1972-10-07'
+release_year: 1972
+runtime: 396400
 ---
 You've got to change your evil ways, baby
 Before I stop lovin' you

@@ -1,8 +1,11 @@
 ---
+album: Timespace - The Best Of Stevie Nicks
 artists:
 - Stevie Nicks
+external_ids:
+  spotify: spotify:track:0BMD6HPm0gS1pSTi5ZpHrR
 features: []
-genres: []
+first_released_as_single: false
 key: sometimes--it-s-a-bitch--stevie-nicks
 lyrics_url: https://www.azlyrics.com/lyrics/stevienicks/sometimesitsabitch.html
 name: Sometimes (It's A Bitch)
@@ -39,8 +42,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1991-10-26'
+release_year: 1991
+runtime: 278373
 ---
-
 Well, I've run through rainbows
 And castles of candy 
 I've cried a river of tears
@@ -121,6 +125,3 @@ Sometimes it's a breeze
 
 Well it's a breeze
 It's a breeze, it's a breeze
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Fur
 artists:
 - Jane Wiedlin
+external_ids:
+  spotify: spotify:track:3zwxnzanbTdJhsrR8JvT3j
 features: []
-genres: []
+first_released_as_single: false
 key: rush-hour-jane-wiedlin
 lyrics_url: https://genius.com/Jane-wiedlin-rush-hour-lyrics
 name: Rush Hour
@@ -83,6 +86,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1988-09-10'
+release_year: 1988
+runtime: 244240
 ---
 Something's coming over me
 I'm so dizzy I can't see

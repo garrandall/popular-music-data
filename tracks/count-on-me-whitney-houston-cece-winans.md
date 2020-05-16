@@ -1,9 +1,12 @@
 ---
+album: Waiting To Exhale
 artists:
 - Whitney Houston
 - CeCe Winans
+external_ids:
+  spotify: spotify:track:7mVV7fepIMUAE4FDyihupV
 features: []
-genres: []
+first_released_as_single: false
 key: count-on-me-whitney-houston-cece-winans
 lyrics_url: https://genius.com/Whitney-houston-and-cece-winans-count-on-me-remastered-2000-lyrics
 name: Count On Me
@@ -88,6 +91,8 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '1996-08-03'
+release_year: 1995
+runtime: 266786
 ---
 Chorus:
 Count on me through thick and thin

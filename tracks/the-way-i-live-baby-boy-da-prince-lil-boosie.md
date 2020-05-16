@@ -1,9 +1,12 @@
 ---
+album: Across The Water
 artists:
 - Baby Boy Da Prince
+external_ids:
+  spotify: spotify:track:68Zq7PMcPIQE8ol1x3gAqw
 features:
 - Lil Boosie
-genres: []
+first_released_as_single: false
 key: the-way-i-live-baby-boy-da-prince-lil-boosie
 lyrics_url: https://www.musixmatch.com/lyrics/Baby-Boy-Da-Prince-feat-Boosie-Badazz/The-Way-I-Live-Main-Explicit-Feat-Lil-Boosie
 name: The Way I Live
@@ -112,6 +115,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '2007-06-23'
+release_year: 2006
+runtime: 324906
 ---
 This is the way I live
 Lil' Boy still pushin' big wheels

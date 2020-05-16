@@ -1,8 +1,11 @@
 ---
+album: SKINS
 artists:
 - XXXTENTACION
+external_ids:
+  spotify: spotify:track:5lar0mCUejpILVkAz50s2J
 features: []
-genres: []
+first_released_as_single: false
 key: train-food-xxxtentacion
 lyrics_url: https://www.azlyrics.com/lyrics/xxxtentacion/trainfood.html
 name: Train Food
@@ -11,8 +14,9 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '2018-12-22'
+release_year: 2018
+runtime: 164082
 ---
-
 I remember I had walked home that day
 Content with all my misery
 Told my self it'd get better, no clue what there was next to me
@@ -61,6 +65,3 @@ Now your time finally up
 Ask yourself this final question, is you going down or up?
 Recollectin' all the moments that you never gave a fuck
 Now it's here, death has now arrived, time is finally up
-
-
-

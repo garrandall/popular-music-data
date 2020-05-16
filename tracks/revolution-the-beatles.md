@@ -1,8 +1,11 @@
 ---
+album: The Beatles
 artists:
 - The Beatles
+external_ids:
+  spotify: spotify:track:1aOzDhi5a1RWWRy5dmYA8I
 features: []
-genres: []
+first_released_as_single: false
 key: revolution-the-beatles
 lyrics_url: https://www.musixmatch.com/lyrics/The-Beatles/Revolution
 name: Revolution
@@ -51,6 +54,8 @@ rankings:
   rank: 29
   ranking_list: Billboard Hot 100
   start_date: '1968-11-23'
+release_year: 1968
+runtime: 255706
 ---
 Ah
 

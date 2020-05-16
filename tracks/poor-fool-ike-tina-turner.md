@@ -1,9 +1,12 @@
 ---
+album: It's Gonna Work Out Fine
 artists:
 - Ike
 - Tina Turner
+external_ids:
+  spotify: spotify:track:3VFeXYHUs6NwbrHkNAEY4r
 features: []
-genres: []
+first_released_as_single: false
 key: poor-fool-ike-tina-turner
 lyrics_url: https://www.azlyrics.com/lyrics/iketinaturner/poorfool.html
 name: Poor Fool
@@ -52,8 +55,9 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1962-02-10'
+release_year: 1961
+runtime: 155893
 ---
-
 I want to tell all of you that ain't doin' nothin' for me
 And can't do nothing for me
 You should tend to your business and leave mine alone
@@ -101,6 +105,3 @@ The man is mine (you've been a fool too long)
 And oh he's a mine (you've been a fool too long)
 Now let me tell you he's mine (wake up and he's gone)
 Yeah yeah yeah yeah yeah yeah yeah yeah (we know how you feel)...
-
-
-

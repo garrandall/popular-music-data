@@ -1,8 +1,11 @@
 ---
+album: Greatest Hits
 artists:
 - Hi-Five
+external_ids:
+  spotify: spotify:track:1CeGBbkJeKPojRmlo2gIwq
 features: []
-genres: []
+first_released_as_single: false
 key: i-can-t-wait-another-minute-hi-five
 lyrics_url: https://genius.com/Hi-five-i-cant-wait-another-minute-lyrics
 name: I Can't Wait Another Minute
@@ -91,6 +94,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1991-11-09'
+release_year: 1990
+runtime: 301640
 ---
 You know
 I've been waiting so long or this chance

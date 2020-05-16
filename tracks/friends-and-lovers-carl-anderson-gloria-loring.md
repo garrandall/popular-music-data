@@ -1,9 +1,12 @@
 ---
+album: Carl Anderson
 artists:
 - Carl Anderson
 - Gloria Loring
+external_ids:
+  spotify: spotify:track:19u5G7pWq3Nj6lQiP4W4Hp
 features: []
-genres: []
+first_released_as_single: false
 key: friends-and-lovers-carl-anderson-gloria-loring
 lyrics_url: https://genius.com/Gloria-loring-and-carl-anderson-friends-and-lovers-lyrics
 name: Friends And Lovers
@@ -92,6 +95,8 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1986-11-22'
+release_year: 1982
+runtime: 226560
 ---
 What would you think if I told you
 I've always wanted to hold you?

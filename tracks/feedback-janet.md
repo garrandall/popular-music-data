@@ -1,8 +1,11 @@
 ---
+album: Discipline
 artists:
 - Janet
+external_ids:
+  spotify: spotify:track:2K1MhduqSRF4Q2agqEtnEh
 features: []
-genres: []
+first_released_as_single: false
 key: feedback-janet
 lyrics_url: https://www.azlyrics.com/lyrics/janetjackson/feedback.html
 name: Feedback
@@ -75,8 +78,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2008-05-03'
+release_year: 2008
+runtime: 218213
 ---
-
 Light Skin, Dark Skin, My Asian Persuasion,
 I Got them all that's why these girls out here hatin
 Cause I'm sexy
@@ -163,6 +167,3 @@ Crank it up give it to me come on
 Crank it up give it to me come on
 I'm gonna feedback feedback oh
 Feedback feedback oh
-
-
-

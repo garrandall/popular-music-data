@@ -1,8 +1,11 @@
 ---
+album: The Greatest Hits
 artists:
 - Five Star
+external_ids:
+  spotify: spotify:track:7ajCddd4v6rYvmixeVIklF
 features: []
-genres: []
+first_released_as_single: false
 key: if-i-say-yes-five-star
 lyrics_url: https://genius.com/Five-star-if-i-say-yes-lyrics
 name: If I Say Yes
@@ -51,6 +54,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1987-03-07'
+release_year: 1986
+runtime: 243400
 ---
 The way you look at me, you blow your secrecy
 I know what you've got on your mind

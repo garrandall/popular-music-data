@@ -1,8 +1,11 @@
 ---
+album: Wild Heart Of The Young
 artists:
 - Karla Bonoff
+external_ids:
+  spotify: spotify:track:3sgT82L2JLu7LUlwr9MfrK
 features: []
-genres: []
+first_released_as_single: false
 key: personally-karla-bonoff
 lyrics_url: https://www.azlyrics.com/lyrics/karlabonoff/personally.html
 name: Personally
@@ -79,8 +82,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1982-08-28'
+release_year: 1977
+runtime: 216200
 ---
-
 I've been writing letters everyday now
 Since you've been gone
 Talking to you on the telephone
@@ -117,6 +121,3 @@ Even by your closest kin
 
 I'm bringing it to you personally
 I'm bringing it to you personally
-
-
-

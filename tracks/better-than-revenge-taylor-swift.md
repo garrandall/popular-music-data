@@ -1,8 +1,11 @@
 ---
+album: Speak Now
 artists:
 - Taylor Swift
+external_ids:
+  spotify: spotify:track:1By2VQkUN0Frd8mKNV5NYC
 features: []
-genres: []
+first_released_as_single: false
 key: better-than-revenge-taylor-swift
 lyrics_url: https://www.azlyrics.com/lyrics/taylorswift/betterthanrevenge.html
 name: Better Than Revenge
@@ -11,8 +14,9 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '2010-11-13'
+release_year: 2010
+runtime: 217160
 ---
-
 "Now go stand in the corner and think about what you did."
 
 Time for a little revenge
@@ -95,6 +99,3 @@ Come on show me how much better you are
 So you deserve some applause 'cause you're so much better
 
 She took him faster than you could say "sabotage"
-
-
-

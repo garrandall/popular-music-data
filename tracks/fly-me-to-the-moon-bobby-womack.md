@@ -1,8 +1,11 @@
 ---
+album: Fly Me To The Moon
 artists:
 - Bobby Womack
+external_ids:
+  spotify: spotify:track:2qhR4aymUGDfacDT6pzWf7
 features: []
-genres: []
+first_released_as_single: false
 key: fly-me-to-the-moon-bobby-womack
 lyrics_url: https://www.azlyrics.com/lyrics/bobbywomack/flymetothemoon.html
 name: Fly Me To The Moon
@@ -59,8 +62,9 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1968-11-09'
+release_year: 1968
+runtime: 128360
 ---
-
 Fly me to the moon
 Let me play among the stars
 Let me see what spring is like
@@ -82,6 +86,3 @@ All I worship and adore
 In other words, please be true
 In other words, in other words
 I love you
-
-
-

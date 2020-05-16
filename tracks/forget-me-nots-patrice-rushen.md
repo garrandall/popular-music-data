@@ -1,8 +1,11 @@
 ---
+album: Straight From The Heart
 artists:
 - Patrice Rushen
+external_ids:
+  spotify: spotify:track:7vuSGejUXpD365Nl9tyehq
 features: []
-genres: []
+first_released_as_single: false
 key: forget-me-nots-patrice-rushen
 lyrics_url: https://www.azlyrics.com/lyrics/patricerushen/forgetmenots.html
 name: Forget Me Nots
@@ -71,8 +74,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1982-08-14'
+release_year: 1982
+runtime: 275813
 ---
-
 Sending you forget me nots
 To help me to remember
 Baby please forget me not
@@ -130,6 +134,3 @@ Good times we had...
 They weren't so bad...
 What a life we shared...
 Pretty baby I still care...
-
-
-

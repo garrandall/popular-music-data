@@ -1,9 +1,12 @@
 ---
+album: The Very Best Of Jerry Butler
 artists:
 - Jerry Butler
 - Brenda Lee Eager
+external_ids:
+  spotify: spotify:track:5ehrJB4xFea5kph6jVoWtS
 features: []
-genres: []
+first_released_as_single: false
 key: ain-t-understanding-mellow-jerry-butler-brenda-lee-eager
 lyrics_url: https://genius.com/Jerry-butler-and-brenda-lee-eager-aint-understanding-mellow-lyrics
 name: Ain't Understanding Mellow
@@ -80,6 +83,8 @@ rankings:
   rank: 37
   ranking_list: Billboard Hot 100
   start_date: '1972-04-08'
+release_year: 1971
+runtime: 260333
 ---
 Oh, oh, thank God for you
 (I thank God, I thank God)

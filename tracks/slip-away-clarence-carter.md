@@ -1,8 +1,11 @@
 ---
+album: This Is Clarence Carter
 artists:
 - Clarence Carter
+external_ids:
+  spotify: spotify:track:7r3Hwig1mvtlVq0ZbJ09Wb
 features: []
-genres: []
+first_released_as_single: false
 key: slip-away-clarence-carter
 lyrics_url: https://genius.com/Clarence-carter-slip-away-lyrics
 name: Slip Away
@@ -71,6 +74,8 @@ rankings:
   rank: 24
   ranking_list: Billboard Hot 100
   start_date: '1968-10-26'
+release_year: 1968
+runtime: 153680
 ---
 What would I give for just a few moments
 What would I give just to have you near

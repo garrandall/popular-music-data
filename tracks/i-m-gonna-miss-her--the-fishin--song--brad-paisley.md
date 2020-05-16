@@ -1,8 +1,11 @@
 ---
+album: Part II
 artists:
 - Brad Paisley
+external_ids:
+  spotify: spotify:track:4ipZsAA3YuqCDSXiPoEGIv
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-gonna-miss-her--the-fishin--song--brad-paisley
 lyrics_url: https://genius.com/Brad-paisley-im-gonna-miss-her-lyrics
 name: I'm Gonna Miss Her (The Fishin' Song)
@@ -87,6 +90,8 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '2002-09-14'
+release_year: 2001
+runtime: 194306
 ---
 Well I love her
 But I love to fish

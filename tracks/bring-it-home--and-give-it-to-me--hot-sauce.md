@@ -1,8 +1,11 @@
 ---
+album: 'Good Woman Turning Bad: The Complete Volt Recordings'
 artists:
 - Hot Sauce
+external_ids:
+  spotify: spotify:track:0xQcZGqjSacV76tBlimZlg
 features: []
-genres: []
+first_released_as_single: false
 key: bring-it-home--and-give-it-to-me--hot-sauce
 lyrics_url: https://genius.com/Hot-sauce-stax-bring-it-home-and-give-it-to-me-lyrics
 name: Bring It Home (And Give It To Me)
@@ -19,6 +22,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1972-06-03'
+release_year: 1972
+runtime: 200453
 ---
 I didn't mean to make you mad
 Tears me up to see you sad

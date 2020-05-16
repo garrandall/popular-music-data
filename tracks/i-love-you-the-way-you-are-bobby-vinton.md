@@ -1,8 +1,11 @@
 ---
+album: With Love
 artists:
 - Bobby Vinton
+external_ids:
+  spotify: spotify:track:39NrjF31xeQSYLWcKmX9oq
 features: []
-genres: []
+first_released_as_single: false
 key: i-love-you-the-way-you-are-bobby-vinton
 lyrics_url: https://www.azlyrics.com/lyrics/bobbyvinton/iloveyouthewayyouare.html
 name: I Love You The Way You Are
@@ -43,8 +46,9 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1962-10-06'
+release_year: 1962
+runtime: 174026
 ---
-
 (ah) Oh I love you the way-a-ay you are
 (ah) Oh I love you the way-ay you are
 
@@ -80,6 +84,3 @@ The way we kiss, I'm all aglow
 Love you the way you (are)
 Oh, I love you the wa-a-ay you are
 (Oh) Oh, I love you the wa-ay you are
-
-
-

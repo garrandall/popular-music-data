@@ -1,8 +1,11 @@
 ---
+album: Lookin' Through The Windows
 artists:
 - Jackson 5
+external_ids:
+  spotify: spotify:track:056YIuMW7ds4FhC7DcYmz5
 features: []
-genres: []
+first_released_as_single: false
 key: little-bitty-pretty-one-jackson-5
 lyrics_url: https://www.azlyrics.com/lyrics/jackson5/littlebittyprettyone.html
 name: Little Bitty Pretty One
@@ -43,8 +46,9 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '1972-06-17'
+release_year: 1972
+runtime: 169440
 ---
-
 Little bitty pretty one
 Come on and talk to me
 Lovey dovey lovely one
@@ -70,6 +74,3 @@ I can tell you a story
 That happened a long time ago
 Little bitty pretty one
 I've been watching you grow
-
-
-

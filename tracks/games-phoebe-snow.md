@@ -1,8 +1,11 @@
 ---
+album: Rock Away
 artists:
 - Phoebe Snow
+external_ids:
+  spotify: spotify:track:744wbwIqeCp75NRruMuMKT
 features: []
-genres: []
+first_released_as_single: false
 key: games-phoebe-snow
 name: Games
 rankings:
@@ -46,5 +49,7 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1981-04-25'
+release_year: 1981
+runtime: 226828
 ---
 

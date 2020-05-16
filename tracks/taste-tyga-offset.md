@@ -1,9 +1,12 @@
 ---
+album: Legendary
 artists:
 - Tyga
+external_ids:
+  spotify: spotify:track:5IaHrVsrferBYDm0bDyABy
 features:
 - Offset
-genres: []
+first_released_as_single: true
 key: taste-tyga-offset
 lyrics_url: https://www.azlyrics.com/lyrics/tyga/taste.html
 name: Taste
@@ -124,9 +127,9 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '2018-12-22'
+release_year: 2018
+runtime: 232959
 ---
-
-
 D.A.
 
 Slide on a pimp game with my pinky ring
@@ -217,6 +220,3 @@ Taste, taste, she can get a taste
 Taste, taste, she can get a taste
 Taste, taste, do you love the taste?
 Taste, taste, worldwide, they gon' get a taste
-
-
-

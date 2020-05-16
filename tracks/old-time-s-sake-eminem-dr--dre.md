@@ -1,9 +1,12 @@
 ---
+album: 'Relapse: Refill'
 artists:
 - Eminem
+external_ids:
+  spotify: spotify:track:5j6ODxGVhAWeCS49bBKuxz
 features:
 - Dr. Dre
-genres: []
+first_released_as_single: false
 key: old-time-s-sake-eminem-dr--dre
 lyrics_url: https://www.azlyrics.com/lyrics/eminem/oldtimessake.html
 name: Old Time's Sake
@@ -16,8 +19,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2009-05-30'
+release_year: 2009
+runtime: 278160
 ---
-
 Good evening! This is your fucking captain speaking
 We will soon be reaching an altitude of four million and a half feet
 That's eight million miles in the sky
@@ -109,6 +113,3 @@ I said one more time for old time's sake Dre, drop that beat and scratch that br
 Now just send a little bit of that smoke my way
 And let's go
 You are now smoking with the best (the best)
-
-
-

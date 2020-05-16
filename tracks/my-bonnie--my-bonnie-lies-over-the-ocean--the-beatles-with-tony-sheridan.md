@@ -1,8 +1,12 @@
 ---
+album: Anthology 1
 artists:
-- The Beatles With Tony Sheridan
-features: []
-genres: []
+- The Beatles
+external_ids:
+  spotify: spotify:track:2jlGyLNsfSRdcTynI1D08K
+features:
+- Tony Sheridan
+first_released_as_single: false
 key: my-bonnie--my-bonnie-lies-over-the-ocean--the-beatles-with-tony-sheridan
 lyrics_url: https://www.musixmatch.com/lyrics/The-Beatles-with-Tony-Sheridan/My-Bonnie-My-Bonnie-Lies-Over-The-Ocean
 name: My Bonnie (My Bonnie Lies Over The Ocean)
@@ -31,8 +35,10 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '1964-03-21'
+release_year: 1964
+runtime: 162026
 ---
-My bonnie traditionalbeatlesanthology 1my bonnie lies over the ocean, my bonnie lies over the sea.
+My bonnie lies over the ocean, my bonnie lies over the sea.
 My bonnie lies over the ocean.
 Oh bring back my bonnie to me.
 My bonnie lies over the ocean, my bonnie lies over the sea.
@@ -45,4 +51,3 @@ Yeah my bonnie lies over the ocean.
 Oh I said bring back my bonnie to me.
 Yeah bring back, ah bring back, oh bring back my bonnie to me to me.
 Oh bring back, ah bring back, oh bring back my bonnie to me.
-From: david cassells

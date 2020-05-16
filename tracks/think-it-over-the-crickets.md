@@ -1,8 +1,11 @@
 ---
+album: Buddy Holly
 artists:
 - The Crickets
+external_ids:
+  spotify: spotify:track:23R3NTnNUt1YktcDDTLcAd
 features: []
-genres: []
+first_released_as_single: false
 key: think-it-over-the-crickets
 lyrics_url: https://genius.com/The-crickets-think-it-over-lyrics
 name: Think It Over
@@ -35,6 +38,8 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '1958-09-15'
+release_year: 1958
+runtime: 105973
 ---
 Think it over, what you've just said
 Think it over in your pretty little head

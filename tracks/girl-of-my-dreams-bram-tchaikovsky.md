@@ -1,8 +1,11 @@
 ---
+album: Strange Man / Changed Man
 artists:
 - Bram Tchaikovsky
+external_ids:
+  spotify: spotify:track:2NyaZECpJZCAqFJFCWPDRz
 features: []
-genres: []
+first_released_as_single: false
 key: girl-of-my-dreams-bram-tchaikovsky
 lyrics_url: https://genius.com/Bram-tchaikovsky-girl-of-my-dreams-lyrics
 name: Girl Of My Dreams
@@ -55,6 +58,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1979-09-22'
+release_year: 1979
+runtime: 248906
 ---
 Judy was an American girl
 She came in the morning

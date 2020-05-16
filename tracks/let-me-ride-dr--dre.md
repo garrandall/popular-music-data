@@ -1,8 +1,11 @@
 ---
+album: The Chronic
 artists:
 - Dr. Dre
+external_ids:
+  spotify: spotify:track:1pjDKRg5WddCDSlG5PXcKy
 features: []
-genres: []
+first_released_as_single: false
 key: let-me-ride-dr--dre
 lyrics_url: https://genius.com/Dr-dre-let-me-ride-lyrics
 name: Let Me Ride
@@ -79,6 +82,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1994-01-22'
+release_year: 1992
+runtime: 261293
 ---
 Biatch!
 Eeeh, whappn no baby

@@ -1,8 +1,11 @@
 ---
+album: There's No Me Without You
 artists:
 - The Manhattans
+external_ids:
+  spotify: spotify:track:6lwRovc8iWQhFpzCVs8zQK
 features: []
-genres: []
+first_released_as_single: false
 key: there-s-no-me-without-you-the-manhattans
 lyrics_url: https://genius.com/The-manhattans-theres-no-me-without-you-lyrics
 name: There's No Me Without You
@@ -51,6 +54,8 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '1973-08-18'
+release_year: 1973
+runtime: 220973
 ---
 Baby, you are my life
 And without you I'm an empty shell

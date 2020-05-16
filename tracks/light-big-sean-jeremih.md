@@ -1,9 +1,12 @@
 ---
+album: I Decided.
 artists:
 - Big Sean
+external_ids:
+  spotify: spotify:track:0l7aTWNdqg13APhV5SnvxF
 features:
 - Jeremih
-genres: []
+first_released_as_single: false
 key: light-big-sean-jeremih
 lyrics_url: https://www.azlyrics.com/lyrics/bigsean/light.html
 name: Light
@@ -12,8 +15,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2017-02-25'
+release_year: 2017
+runtime: 210506
 ---
-
 Is it time?
 
 Look, I spent my whole life tryna improvise
@@ -73,6 +77,3 @@ No matter how much they gon' shade you
 Don't let them take away your soul
 No, no (No, no)
 Don't let them take away what makes you whole
-
-
-

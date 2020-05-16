@@ -1,8 +1,11 @@
 ---
+album: Shotgun Woman
 artists:
 - Travis Wammack
+external_ids:
+  spotify: spotify:track:1mLbYsdYafV56rjTuYgtzi
 features: []
-genres: []
+first_released_as_single: false
 key: -shu-doo-pa-poo-poop--love-being-your-fool-travis-wammack
 name: (Shu-Doo-Pa-Poo-Poop) Love Being Your Fool
 rankings:
@@ -46,5 +49,7 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '1975-08-23'
+release_year: 1975
+runtime: 196080
 ---
 

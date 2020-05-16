@@ -1,8 +1,11 @@
 ---
+album: The Very Best Of After 7
 artists:
 - After 7
+external_ids:
+  spotify: spotify:track:7HRgMVqZVtskCkVjjxI1sa
 features: []
-genres: []
+first_released_as_single: false
 key: gonna-love-you-right-after-7
 lyrics_url: https://genius.com/After-7-gonna-love-you-right-lyrics
 name: Gonna Love You Right
@@ -31,6 +34,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1994-05-21'
+release_year: 1994
+runtime: 313666
 ---
 Chorus:
 Gonna love you right

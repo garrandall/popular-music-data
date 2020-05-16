@@ -1,9 +1,12 @@
 ---
+album: The Irishman (Original Motion Picture Soundtrack)
 artists:
 - Santo
 - Johnny
+external_ids:
+  spotify: spotify:track:6JtPkFqjqw7blFxw2976SD
 features: []
-genres: []
+first_released_as_single: false
 key: sleep-walk-santo-johnny
 lyrics_url: https://genius.com/Santo-and-johnny-sleepwalk-lyrics
 name: Sleep Walk
@@ -80,5 +83,7 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1959-11-23'
+release_year: 1959
+runtime: 151066
 ---
 (Instrumental)

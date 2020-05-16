@@ -1,8 +1,11 @@
 ---
+album: Crowded House
 artists:
 - Crowded House
+external_ids:
+  spotify: spotify:track:7G7tgVYORlDuVprcYHuFJh
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-dream-it-s-over-crowded-house
 lyrics_url: https://genius.com/Crowded-house-dont-dream-its-over-lyrics
 name: Don't Dream It's Over
@@ -103,6 +106,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1987-06-27'
+release_year: 1986
+runtime: 236933
 ---
 There is freedom within, there is freedom without
 Try to catch a deluge in a paper cup

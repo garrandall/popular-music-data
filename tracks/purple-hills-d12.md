@@ -1,8 +1,11 @@
 ---
+album: Purple Hills
 artists:
 - D12
+external_ids:
+  spotify: spotify:track:3zUrHLn4Q2dSX2T9veMIIb
 features: []
-genres: []
+first_released_as_single: true
 key: purple-hills-d12
 lyrics_url: https://genius.com/D12-purple-hills-lyrics
 name: Purple Hills
@@ -67,6 +70,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2001-09-29'
+release_year: 2001
+runtime: 309293
 ---
 Uh
 Yo, yo, yo, yo

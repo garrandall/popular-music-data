@@ -1,8 +1,11 @@
 ---
+album: Beg, Borrow & Steal
 artists:
 - Ohio Express
+external_ids:
+  spotify: spotify:track:6dLKiUywNz1HYP6hk7n5IU
 features: []
-genres: []
+first_released_as_single: false
 key: try-it-ohio-express
 lyrics_url: https://genius.com/Ohio-express-try-it-lyrics
 name: Try It
@@ -15,6 +18,8 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1968-02-10'
+release_year: 1967
+runtime: 169773
 ---
 By the way you look I can tell that you want some action
 Action is my middle name

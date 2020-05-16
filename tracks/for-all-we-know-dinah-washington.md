@@ -1,8 +1,11 @@
 ---
+album: Drinking Again
 artists:
 - Dinah Washington
+external_ids:
+  spotify: spotify:track:72z3sfY14VOiwrhUc4BQgN
 features: []
-genres: []
+first_released_as_single: false
 key: for-all-we-know-dinah-washington
 lyrics_url: https://www.azlyrics.com/lyrics/dinahwashington/forallweknow.html
 name: For All We Know
@@ -15,8 +18,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1962-09-01'
+release_year: 1962
+runtime: 195893
 ---
-
 For all we know
 We may never meet again
 Before you go
@@ -41,6 +45,3 @@ So love me, love me tonight
 Tomorrow was made for some
 Tomorrow may never come
 For all we know, we know
-
-
-

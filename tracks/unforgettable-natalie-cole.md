@@ -1,8 +1,11 @@
 ---
+album: 'Unforgettable: With Love'
 artists:
 - Natalie Cole
+external_ids:
+  spotify: spotify:track:48D177fBErMz5p4zeAW1N5
 features: []
-genres: []
+first_released_as_single: false
 key: unforgettable-natalie-cole
 lyrics_url: https://www.azlyrics.com/lyrics/nataliecole/unforgettable.html
 name: Unforgettable
@@ -75,8 +78,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1991-11-02'
+release_year: 1991
+runtime: 210906
 ---
-
 Unforgettable, that's what you are
 Unforgettable, though near or far
 Like a song of love that clings to me
@@ -99,6 +103,3 @@ That's how you'll stay (that's how you'll stay)
 That's why darling it's incredible
 That someone so unforgettable
 Thinks that I am unforgettable too.
-
-
-

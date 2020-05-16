@@ -1,8 +1,11 @@
 ---
+album: The Arbors
 artists:
 - The Arbors
+external_ids:
+  spotify: spotify:track:6qXUtnNvcnAyukfo1Zs0pd
 features: []
-genres: []
+first_released_as_single: false
 key: the-letter-the-arbors
 lyrics_url: https://genius.com/The-arbors-the-letter-lyrics
 name: The Letter
@@ -47,6 +50,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1969-04-26'
+release_year: 1969
+runtime: 211480
 ---
 Gimme a ticket for an airplane
 Ain't got time to take a fast train

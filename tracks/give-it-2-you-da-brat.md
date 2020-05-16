@@ -1,8 +1,11 @@
 ---
+album: Funkdafied
 artists:
 - Da Brat
+external_ids:
+  spotify: spotify:track:7K1TyzMSR0s2iVlepOh75L
 features: []
-genres: []
+first_released_as_single: false
 key: give-it-2-you-da-brat
 lyrics_url: https://genius.com/Da-brat-give-it-2-you-lyrics
 name: Give It 2 You
@@ -79,6 +82,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1995-08-12'
+release_year: 1994
+runtime: 193160
 ---
 I'm gonna give it!
 1 for the money!

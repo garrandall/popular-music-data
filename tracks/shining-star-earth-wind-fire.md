@@ -1,8 +1,11 @@
 ---
+album: That's The Way Of The World
 artists:
 - Earth, Wind & Fire
+external_ids:
+  spotify: spotify:track:0RgcOUQg4qYAEt9RIdf3oB
 features: []
-genres: []
+first_released_as_single: false
 key: shining-star-earth-wind-fire
 lyrics_url: https://www.musixmatch.com/lyrics/Earth-feat-Wind-Fire/Shining-Star-From-The-Best-of-Earth-Wind-Fire-Vol-1
 name: Shining Star
@@ -87,6 +90,8 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '1975-06-28'
+release_year: 1975
+runtime: 170160
 ---
 When you wish upon a star
 Your dreams will take you very far

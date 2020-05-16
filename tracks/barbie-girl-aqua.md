@@ -1,8 +1,11 @@
 ---
+album: Aquarium
 artists:
 - Aqua
+external_ids:
+  spotify: spotify:track:2RSOzvKUnfDDrb2nQPfpQU
 features: []
-genres: []
+first_released_as_single: false
 key: barbie-girl-aqua
 lyrics_url: https://www.azlyrics.com/lyrics/aqua/barbiegirl.html
 name: Barbie Girl
@@ -71,8 +74,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1998-01-24'
+release_year: 1997
+runtime: 197773
 ---
-
 Hi, Barbie
 Hi, Ken!
 Do you wanna go for a ride?
@@ -150,6 +154,3 @@ Come on, Barbie, let's go party!
 Oh, I'm having so much fun!
 Well, Barbie, we're just getting started
 Oh, I love you, Ken!
-
-
-

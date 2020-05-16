@@ -1,8 +1,11 @@
 ---
+album: I'll Take You Where the Music's Playing
 artists:
 - The Drifters
+external_ids:
+  spotify: spotify:track:0XmgXPlx2pv2IkUYp8owUL
 features: []
-genres: []
+first_released_as_single: false
 key: at-the-club-the-drifters
 lyrics_url: https://www.azlyrics.com/lyrics/drifters/attheclub.html
 name: At The Club
@@ -31,8 +34,9 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '1965-03-06'
+release_year: 1965
+runtime: 173253
 ---
-
 Well, Friday night
 Has finally come around
 And me and my baby gonna
@@ -72,6 +76,3 @@ It's all right (it's all right)
 It's all right (it's all right)
 It's all right (it's all right)
 Let me tell you, it's all right
-
-
-

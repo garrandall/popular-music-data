@@ -1,9 +1,12 @@
 ---
+album: Southpaw (Music From And Inspired By The Motion Picture)
 artists:
 - Eminem
+external_ids:
+  spotify: spotify:track:4uX7M3U4I1nsZ7SFM4XNCn
 features:
 - Gwen Stefani
-genres: []
+first_released_as_single: false
 key: kings-never-die-eminem-gwen-stefani
 lyrics_url: https://www.azlyrics.com/lyrics/eminem/kingsneverdie.html
 name: Kings Never Die
@@ -16,9 +19,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2015-08-15'
+release_year: 2015
+runtime: 296133
 ---
-
-
 Here to stay
 Even when I'm gone
 When I close my eyes
@@ -144,6 +147,3 @@ Even when I'm gone
 When I close my eyes
 Through the passage of time
 Kings never die
-
-
-

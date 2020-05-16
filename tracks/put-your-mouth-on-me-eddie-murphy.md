@@ -1,8 +1,11 @@
 ---
+album: So Happy
 artists:
 - Eddie Murphy
+external_ids:
+  spotify: spotify:track:6eU4jtJIpOZpEnqQwfDutG
 features: []
-genres: []
+first_released_as_single: false
 key: put-your-mouth-on-me-eddie-murphy
 lyrics_url: https://genius.com/Eddie-murphy-put-your-mouth-on-me-lyrics
 name: Put Your Mouth On Me
@@ -59,6 +62,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1989-10-21'
+release_year: 1989
+runtime: 244333
 ---
 I said oh sweet baby lips are for kissing
 I'm going crazy thinking what I'm missing, oh babe

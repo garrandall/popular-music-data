@@ -1,8 +1,11 @@
 ---
+album: The Domino Story
 artists:
 - The Slades
+external_ids:
+  spotify: spotify:track:1JGqOFsHyFvQ4VoYLFteK5
 features: []
-genres: []
+first_released_as_single: false
 key: you-cheated-the-slades
 lyrics_url: https://genius.com/The-slades-doo-wop-group-you-cheated-you-lied-lyrics
 name: You Cheated
@@ -55,6 +58,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1958-11-03'
+release_year: 1958
+runtime: 150960
 ---
 You cheated, you lied
 You said that you love me

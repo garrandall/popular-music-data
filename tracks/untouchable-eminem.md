@@ -1,8 +1,11 @@
 ---
+album: Revival
 artists:
 - Eminem
+external_ids:
+  spotify: spotify:track:080JRRI1MQY0fn2xX2vnI4
 features: []
-genres: []
+first_released_as_single: false
 key: untouchable-eminem
 lyrics_url: https://www.azlyrics.com/lyrics/eminem/untouchable.html
 name: Untouchable
@@ -11,9 +14,9 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2017-12-30'
+release_year: 2017
+runtime: 370120
 ---
-
-
 Hands up, officer don't shoot
 Then pull your pants up, promise you won't loot
 We may never understand each other, it's no use
@@ -159,6 +162,3 @@ In a country that claims that its foundation was based on United States ideals
 That had its Natives killed
 Got you singin' this star-spangled spiel
 To a piece of cloth that represents the "Land of the Free" that made people slaves to build
-
-
-

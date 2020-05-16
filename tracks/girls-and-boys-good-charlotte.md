@@ -1,8 +1,11 @@
 ---
+album: The Young and The Hopeless
 artists:
 - Good Charlotte
+external_ids:
+  spotify: spotify:track:65mxB9IWpmVo4qUjdGSxRB
 features: []
-genres: []
+first_released_as_single: false
 key: girls-and-boys-good-charlotte
 lyrics_url: https://genius.com/Good-charlotte-girls-and-boys-lyrics
 name: Girls And Boys
@@ -59,6 +62,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2003-10-18'
+release_year: 2002
+runtime: 183493
 ---
 Educated, with money
 He's well dressed, not funny

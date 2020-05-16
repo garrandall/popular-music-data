@@ -1,8 +1,11 @@
 ---
+album: A Decade Of Hits
 artists:
 - The Charlie Daniels Band
+external_ids:
+  spotify: spotify:track:7HRqpMkcCVVhmKme8bScvl
 features: []
-genres: []
+first_released_as_single: false
 key: the-south-s-gonna-do-it-the-charlie-daniels-band
 lyrics_url: https://www.musixmatch.com/lyrics/The-Charlie-Daniels-Band/The-South-s-Gonna-Do-It
 name: The South's Gonna Do It
@@ -47,6 +50,8 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '1975-04-12'
+release_year: 1973
+runtime: 237426
 ---
 Well, the train to Grinderswitch is runnin' right on time
 And the Tucker boys are cookin' down in Carolin'

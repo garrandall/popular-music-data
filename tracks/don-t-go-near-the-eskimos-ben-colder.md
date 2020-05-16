@@ -1,8 +1,11 @@
 ---
+album: Listen To A Country Song
 artists:
 - Ben Colder
+external_ids:
+  spotify: spotify:track:4NWyFm6uDkcmGFy5ZS017o
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-go-near-the-eskimos-ben-colder
 lyrics_url: https://www.musixmatch.com/lyrics/Ben-Colder/Don-t-Go-Near-the-Eskimos
 name: Don't Go Near The Eskimos
@@ -31,6 +34,8 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '1962-12-29'
+release_year: 1962
+runtime: 212706
 ---
 Oop shoop moogi mushy doggy, oh
 Oop shoop moogi ay

@@ -1,8 +1,11 @@
 ---
+album: Showcase
 artists:
 - The Sylvers
+external_ids:
+  spotify: spotify:track:3FZB0xezeoc1ddx72eg7iF
 features: []
-genres: []
+first_released_as_single: false
 key: boogie-fever-the-sylvers
 lyrics_url: https://www.musixmatch.com/lyrics/The-Sylvers/Boogie-Fever
 name: Boogie Fever
@@ -91,6 +94,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1976-07-04'
+release_year: 1975
+runtime: 211413
 ---
 Boogie fever
 Got to boogie down

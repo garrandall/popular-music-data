@@ -1,8 +1,11 @@
 ---
+album: Blacks' Magic
 artists:
 - Salt-N-Pepa
+external_ids:
+  spotify: spotify:track:2iXqaccRqW6vqvqqBgOuug
 features: []
-genres: []
+first_released_as_single: false
 key: do-you-want-me-salt-n-pepa
 lyrics_url: https://genius.com/Salt-n-pepa-do-you-want-me-lyrics
 name: Do You Want Me
@@ -111,6 +114,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1991-09-14'
+release_year: 1990
+runtime: 232266
 ---
 You said it loud, and I heard you
 Never tried to hurt you

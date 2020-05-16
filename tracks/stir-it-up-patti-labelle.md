@@ -1,8 +1,11 @@
 ---
+album: 'Beverly Hills Cop: Music From The Motion Picture Soundtrack'
 artists:
 - Patti LaBelle
+external_ids:
+  spotify: spotify:track:6Ggp8nMQPzFt7YwtIM4i9c
 features: []
-genres: []
+first_released_as_single: false
 key: stir-it-up-patti-labelle
 lyrics_url: https://www.azlyrics.com/lyrics/pattilabelle/stiritup.html
 name: Stir It Up
@@ -63,8 +66,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1985-09-14'
+release_year: 1984
+runtime: 216533
 ---
-
 Stir it up
 Stir it up
 Stir it up
@@ -144,6 +148,3 @@ Stir it up, got to break it up now
 Stir it up, got to shake it up now
 (Stir it up, baby, I...I'm gettin' out of here)
 Stir it up, got to break it up no
-
-
-

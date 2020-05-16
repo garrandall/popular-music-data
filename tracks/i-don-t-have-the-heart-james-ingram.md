@@ -1,8 +1,11 @@
 ---
+album: It's Real
 artists:
 - James Ingram
+external_ids:
+  spotify: spotify:track:5In7xBveNACCRX2uWNoPuW
 features: []
-genres: []
+first_released_as_single: false
 key: i-don-t-have-the-heart-james-ingram
 lyrics_url: https://genius.com/James-ingram-i-dont-have-the-heart-lyrics
 name: I Don't Have The Heart
@@ -111,6 +114,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1991-01-26'
+release_year: 1989
+runtime: 253506
 ---
 Your face is beaming
 You say it's 'cause you're dreaming

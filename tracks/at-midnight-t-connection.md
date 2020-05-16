@@ -1,8 +1,11 @@
 ---
+album: T Connection
 artists:
 - T-Connection
+external_ids:
+  spotify: spotify:track:5wHegwRxc6WLjIfgSmlAhA
 features: []
-genres: []
+first_released_as_single: false
 key: at-midnight-t-connection
 lyrics_url: https://genius.com/T-connection-at-midnight-lyrics
 name: At Midnight
@@ -31,6 +34,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1979-04-14'
+release_year: 1978
+runtime: 295977
 ---
 (Midnight, midnight)
 (Midnight, midnight)

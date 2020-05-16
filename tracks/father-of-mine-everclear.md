@@ -1,8 +1,11 @@
 ---
+album: So Much For The Afterglow
 artists:
 - Everclear
+external_ids:
+  spotify: spotify:track:2hx4ptqsE8dboLH3NCLmaN
 features: []
-genres: []
+first_released_as_single: false
 key: father-of-mine-everclear
 lyrics_url: https://www.azlyrics.com/lyrics/everclear/fatherofmine.html
 name: Father Of Mine
@@ -75,8 +78,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1999-03-27'
+release_year: 1997
+runtime: 231400
 ---
-
 Father of mine
 Tell me where have you been
 You know I just closed my eyes
@@ -131,6 +135,3 @@ Daddy gave me a name
 Then he walked away
 My dad gave me a name
 Then he walked away
-
-
-

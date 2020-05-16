@@ -1,8 +1,11 @@
 ---
+album: Sex Packets
 artists:
 - Digital Underground
+external_ids:
+  spotify: spotify:track:3OcQkcvTcohs8vO8Rd3sKF
 features: []
-genres: []
+first_released_as_single: false
 key: the-humpty-dance-digital-underground
 lyrics_url: https://www.azlyrics.com/lyrics/digitalunderground/thehumptydance.html
 name: The Humpty Dance
@@ -99,9 +102,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1990-08-18'
+release_year: 1990
+runtime: 391693
 ---
-
-
 All right!
 Stop whatcha doin'
 'cause I'm about to ruin
@@ -213,4 +216,3 @@ I'd like to send a shout out to the whole world,
 keep on doin' the Humpty Dance,
 and to the ladies,
 peace and humptiness forever
-

@@ -1,8 +1,11 @@
 ---
+album: 3 Hearts In The Happy Ending Machine
 artists:
 - Daryl Hall
+external_ids:
+  spotify: spotify:track:34Bxm9x7qKogNbx4wi717e
 features: []
-genres: []
+first_released_as_single: false
 key: foolish-pride-daryl-hall
 lyrics_url: https://www.azlyrics.com/lyrics/darylhall/foolishpride.html
 name: Foolish Pride
@@ -59,8 +62,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1987-01-10'
+release_year: 1986
+runtime: 236733
 ---
-
 When I'm hurt then I come on strong
 I wanna break down
 But I just keep it in
@@ -107,6 +111,3 @@ Fool, foolish, foolish pride
 Fool, foolish pride
 Fool, foolish, foolish pride
 Fool, foolish pride
-
-
-

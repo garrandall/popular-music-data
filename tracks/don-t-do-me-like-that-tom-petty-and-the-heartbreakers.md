@@ -1,8 +1,11 @@
 ---
+album: Damn The Torpedoes
 artists:
 - Tom Petty And The Heartbreakers
+external_ids:
+  spotify: spotify:track:5AzpZ5ADn1AFPxcEBd2Ugf
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-do-me-like-that-tom-petty-and-the-heartbreakers
 lyrics_url: https://genius.com/Tom-petty-and-the-heartbreakers-dont-do-me-like-that-lyrics
 name: Don't Do Me Like That
@@ -79,6 +82,8 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1980-03-15'
+release_year: 1979
+runtime: 161786
 ---
 I was talking with a friend of mine
 Said a woman had hurt his pride

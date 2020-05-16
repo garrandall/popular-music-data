@@ -1,8 +1,11 @@
 ---
+album: Main Street People
 artists:
 - Four Tops
+external_ids:
+  spotify: spotify:track:6Uc1goF9ugfWQaYT9Uttw7
 features: []
-genres: []
+first_released_as_single: false
 key: sweet-understanding-love-four-tops
 lyrics_url: https://genius.com/The-four-tops-sweet-understanding-love-lyrics
 name: Sweet Understanding Love
@@ -43,6 +46,8 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '1973-12-08'
+release_year: 1973
+runtime: 182226
 ---
 Into my life you came
 Spreading a glow, you shared my name

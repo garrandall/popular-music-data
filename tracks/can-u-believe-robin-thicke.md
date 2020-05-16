@@ -1,8 +1,11 @@
 ---
+album: The Evolution of Robin Thicke
 artists:
 - Robin Thicke
+external_ids:
+  spotify: spotify:track:6bTORCskFVRlnHXbVgnKEe
 features: []
-genres: []
+first_released_as_single: false
 key: can-u-believe-robin-thicke
 lyrics_url: https://www.azlyrics.com/lyrics/robinthicke/canubelieve.html
 name: Can U Believe
@@ -15,8 +18,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2007-09-22'
+release_year: 2006
+runtime: 291960
 ---
-
 Nothing can make you high
 Or put fire in your eyes
 Or give you a chance to fly
@@ -65,6 +69,3 @@ If nobodys watchin
 You will never know
 If somebodys watchin
 You will never know
-
-
-

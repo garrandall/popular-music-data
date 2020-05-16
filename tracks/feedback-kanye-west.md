@@ -1,8 +1,11 @@
 ---
+album: The Life Of Pablo
 artists:
 - Kanye West
+external_ids:
+  spotify: spotify:track:49fT6owWuknekShh9utsjv
 features: []
-genres: []
+first_released_as_single: false
 key: feedback-kanye-west
 lyrics_url: https://genius.com/Kanye-west-feedback-lyrics
 name: Feedback
@@ -11,6 +14,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2016-04-23'
+release_year: 2016
+runtime: 147240
 ---
 Ayy, ya heard about the good news?
 Y'all sleeping on me, huh? Had a good snooze?

@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music, The Complete Season Two'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:31Fkk6lPQuCIlAeRJo6xTq
 features: []
-genres: []
+first_released_as_single: false
 key: bridge-over-troubled-water-glee-cast
 lyrics_url: https://www.azlyrics.com/lyrics/gleecast/bridgeovertroubledwater.html
 name: Bridge Over Troubled Water
@@ -11,8 +14,9 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '2010-10-23'
+release_year: 2010
+runtime: 254120
 ---
-
 I'm on your side
 When times get rough
 And friends just can't be found
@@ -46,6 +50,3 @@ Like a bridge over troubled water
 I will ease your mind
 Like a bridge over troubled water
 I will ease your mind
-
-
-

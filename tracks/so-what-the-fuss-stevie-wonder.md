@@ -1,8 +1,11 @@
 ---
+album: A Time To Love
 artists:
 - Stevie Wonder
+external_ids:
+  spotify: spotify:track:5WIQKXhEsRExBbKRBYHWOf
 features: []
-genres: []
+first_released_as_single: true
 key: so-what-the-fuss-stevie-wonder
 lyrics_url: https://www.azlyrics.com/lyrics/steviewonder/sowhatthefuss.html
 name: So What The Fuss
@@ -11,8 +14,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2005-04-09'
+release_year: 2005
+runtime: 263013
 ---
-
 If I'm caught at a dance party without my dancin shoes
 And everybody dances on my bare feet 
 Shame on me 
@@ -72,6 +76,3 @@ Shame on us
 Shame on me, Shame on you, Shame on them, Shame on us
 
 So what the fuss
-
-
-

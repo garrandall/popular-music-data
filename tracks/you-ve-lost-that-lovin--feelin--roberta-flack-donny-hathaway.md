@@ -1,9 +1,12 @@
 ---
+album: Roberta Flack & Donny Hathaway
 artists:
 - Roberta Flack
 - Donny Hathaway
+external_ids:
+  spotify: spotify:track:7ACfCLEx4LTXfxvefM1tqb
 features: []
-genres: []
+first_released_as_single: false
 key: you-ve-lost-that-lovin--feelin--roberta-flack-donny-hathaway
 lyrics_url: https://genius.com/Roberta-flack-and-donny-hathaway-youve-lost-that-lovin-feelin-lyrics
 name: You've Lost That Lovin' Feelin'
@@ -32,6 +35,8 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1971-11-27'
+release_year: 1971
+runtime: 398373
 ---
 You never close your eyes any more when I kiss your lips
 And there's no tenderness like before in your fingertips

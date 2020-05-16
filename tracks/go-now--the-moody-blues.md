@@ -1,8 +1,11 @@
 ---
+album: An Introduction to the Moody Blues
 artists:
 - The Moody Blues
+external_ids:
+  spotify: spotify:track:0LXCH2FepNHonEtz61tenS
 features: []
-genres: []
+first_released_as_single: false
 key: go-now--the-moody-blues
 lyrics_url: https://genius.com/The-moody-blues-go-now-lyrics
 name: Go Now!
@@ -63,6 +66,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1965-05-22'
+release_year: 1960
+runtime: 191013
 ---
 We've already said goodbye
 Since you've got to go

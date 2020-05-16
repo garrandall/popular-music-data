@@ -1,8 +1,11 @@
 ---
+album: Perfect - EP
 artists:
 - One Direction
+external_ids:
+  spotify: spotify:track:0uZzdkuzJEjFzaRR2HQ5mj
 features: []
-genres: []
+first_released_as_single: true
 key: home-one-direction
 lyrics_url: https://genius.com/One-direction-home-lyrics
 name: Home
@@ -15,6 +18,8 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '2015-11-14'
+release_year: 2015
+runtime: 194906
 ---
 Make a little conversation, so long I've been waiting
 To let go of myself and feel alive

@@ -1,8 +1,11 @@
 ---
+album: Times Squared (Live Version)
 artists:
 - Average White Band
+external_ids:
+  spotify: spotify:track:6sTDa4hgA601J13XllpNyY
 features: []
-genres: []
+first_released_as_single: false
 key: let-s-go--round-again-average-white-band
 lyrics_url: https://www.azlyrics.com/lyrics/averagewhiteband/letsgoroundagain.html
 name: Let's Go 'round Again
@@ -39,8 +42,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1980-08-09'
+release_year: 1980
+runtime: 361906
 ---
-
 Baby, I'm back
 And right away I have come to you
 To see if the love that we knew before
@@ -80,6 +84,3 @@ Maybe we'll turn back the hands of time
 Let's go round again
 One more time, one more time, one more time
 Let's go round again, one more time
-
-
-

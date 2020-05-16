@@ -1,8 +1,11 @@
 ---
+album: 'The Best of Buffalo Springfield: Retrospective'
 artists:
 - The Buffalo Springfield
+external_ids:
+  spotify: spotify:track:1fkFpepOCg88VMpvVPUiai
 features: []
-genres: []
+first_released_as_single: false
 key: expecting-to-fly-the-buffalo-springfield
 lyrics_url: https://www.azlyrics.com/lyrics/buffalospringfield/expectingtofly.html
 name: Expecting To Fly
@@ -15,8 +18,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1968-01-20'
+release_year: 1968
+runtime: 223893
 ---
-
 There you stood on the edge of your feather,
 Expecting to fly.
 While I laughed, I wondered whether
@@ -41,6 +45,3 @@ Now you know I'd try,
 Babe, now you know I'd try.
 Babe, now you know I'd try,
 Babe.
-
-
-

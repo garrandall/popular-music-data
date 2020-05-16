@@ -1,8 +1,11 @@
 ---
+album: Thoughts On Movin' On
 artists:
 - Lighthouse
+external_ids:
+  spotify: spotify:track:01XELYz10eYmxEJO5SdPLk
 features: []
-genres: []
+first_released_as_single: false
 key: take-it-slow--out-in-the-country--lighthouse
 lyrics_url: https://genius.com/Lighthouse-take-it-slow-lyrics
 name: Take It Slow (Out In The Country)
@@ -35,6 +38,8 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '1972-01-22'
+release_year: 1971
+runtime: 191986
 ---
 Tired of bein' pushed, bumped and turned around
 Listenin' to the people fightin' next floor down

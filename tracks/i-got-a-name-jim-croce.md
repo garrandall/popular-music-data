@@ -1,8 +1,11 @@
 ---
+album: I Got a Name
 artists:
 - Jim Croce
+external_ids:
+  spotify: spotify:track:38llcrfX1arUqrEe0DRRzW
 features: []
-genres: []
+first_released_as_single: false
 key: i-got-a-name-jim-croce
 lyrics_url: https://www.azlyrics.com/lyrics/jimcroce/igotaname.html
 name: I Got A Name
@@ -75,8 +78,9 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1974-01-26'
+release_year: 1973
+runtime: 194493
 ---
-
 Like the pine trees lining the winding road
 I got a name, I got a name
 Like the singing bird and the croaking toad
@@ -114,6 +118,3 @@ Moving ahead so life won't pass me by
 Moving me down the highway
 Rolling me down the highway
 Moving ahead so life won't pass me by
-
-
-

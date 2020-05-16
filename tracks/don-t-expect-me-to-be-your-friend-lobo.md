@@ -1,8 +1,11 @@
 ---
+album: Of A Simple Man
 artists:
 - Lobo
+external_ids:
+  spotify: spotify:track:5mXxGgaqcH9KNf5K0OKd5W
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-expect-me-to-be-your-friend-lobo
 lyrics_url: https://genius.com/Lobo-singer-dont-expect-me-to-be-your-friend-lyrics
 name: Don't Expect Me To Be Your Friend
@@ -59,6 +62,8 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1973-03-24'
+release_year: 1972
+runtime: 217906
 ---
 I stopped sending flowers to your apartment
 You said you aren't at home much anymore

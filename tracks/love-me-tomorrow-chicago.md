@@ -1,8 +1,11 @@
 ---
+album: Chicago 16
 artists:
 - Chicago
+external_ids:
+  spotify: spotify:track:20cxkM7p4UVyvolZGSPJ9b
 features: []
-genres: []
+first_released_as_single: false
 key: love-me-tomorrow-chicago
 lyrics_url: https://genius.com/Chicago-love-me-tomorrow-lyrics
 name: Love Me Tomorrow
@@ -67,6 +70,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1983-01-01'
+release_year: 1982
+runtime: 309533
 ---
 She said, "It's lonely here tonight"
 She's always sad when she's alone

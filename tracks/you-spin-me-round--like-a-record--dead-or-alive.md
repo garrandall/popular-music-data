@@ -1,8 +1,11 @@
 ---
+album: Youthquake
 artists:
 - Dead Or Alive
+external_ids:
+  spotify: spotify:track:4dCr9SRyEVCJm5kqCIlL2V
 features: []
-genres: []
+first_released_as_single: false
 key: you-spin-me-round--like-a-record--dead-or-alive
 lyrics_url: https://genius.com/Dead-or-alive-you-spin-me-round-vicious-mix-lyrics
 name: You Spin Me Round (Like A Record)
@@ -79,6 +82,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1985-09-28'
+release_year: 1981
+runtime: 193986
 ---
 If I, I get to know your name
 Well, if I could trace your private number, baby

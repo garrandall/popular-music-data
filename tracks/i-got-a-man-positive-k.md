@@ -1,8 +1,11 @@
 ---
+album: The Skills Dat Pay Da Bills
 artists:
 - Positive K
+external_ids:
+  spotify: spotify:track:4iAYo83eWlktjw97oebIal
 features: []
-genres: []
+first_released_as_single: false
 key: i-got-a-man-positive-k
 lyrics_url: https://genius.com/Positive-k-i-got-a-man-lyrics
 name: I Got A Man
@@ -95,6 +98,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1993-05-15'
+release_year: 1992
+runtime: 232773
 ---
 POSITIVE K'S LINES
 UNNAMED FEMALE'S LINES

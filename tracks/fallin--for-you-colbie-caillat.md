@@ -1,8 +1,11 @@
 ---
+album: Breakthrough
 artists:
 - Colbie Caillat
+external_ids:
+  spotify: spotify:track:1le5KVGTF1xWf2aUj7ruLy
 features: []
-genres: []
+first_released_as_single: false
 key: fallin--for-you-colbie-caillat
 lyrics_url: https://www.azlyrics.com/lyrics/colbiecaillat/fallinforyou.html
 name: Fallin' For You
@@ -131,8 +134,9 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '2010-02-13'
+release_year: 2009
+runtime: 215546
 ---
-
 I don't know but I think I may be
 Fallin' for you dropping so quickly
 Maybe I should keep this to myself
@@ -208,6 +212,3 @@ I'm fallin' for you
 Oh no no
 
 I'm falling for you
-
-
-

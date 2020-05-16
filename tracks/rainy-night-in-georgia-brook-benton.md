@@ -1,8 +1,11 @@
 ---
+album: Brook Benton Today
 artists:
 - Brook Benton
+external_ids:
+  spotify: spotify:track:2zbV4xRYLuElz4PWOXI5P7
 features: []
-genres: []
+first_released_as_single: false
 key: rainy-night-in-georgia-brook-benton
 lyrics_url: https://genius.com/Brook-benton-rainy-night-in-georgia-lyrics
 name: Rainy Night In Georgia
@@ -67,6 +70,8 @@ rankings:
   rank: 31
   ranking_list: Billboard Hot 100
   start_date: '1970-04-18'
+release_year: 1970
+runtime: 233573
 ---
 Hoverin' by my suitcase
 Tryin' to find a warm place

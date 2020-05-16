@@ -1,8 +1,11 @@
 ---
+album: Loud
 artists:
 - Rihanna
+external_ids:
+  spotify: spotify:track:2dPOobBArCJotBAs0ThXqL
 features: []
-genres: []
+first_released_as_single: false
 key: california-king-bed-rihanna
 lyrics_url: https://www.azlyrics.com/lyrics/rihanna/californiakingbed.html
 name: California King Bed
@@ -63,8 +66,9 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '2011-09-03'
+release_year: 2010
+runtime: 251600
 ---
-
 Chest to chest
 Nose to nose
 Palm to palm
@@ -121,6 +125,3 @@ We're ten thousand miles apart
 I've been California wishing on these stars
 For your heart for me
 My California king
-
-
-

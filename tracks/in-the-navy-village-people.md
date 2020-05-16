@@ -1,8 +1,11 @@
 ---
+album: Go West
 artists:
 - Village People
+external_ids:
+  spotify: spotify:track:3qUfFs8rW6FukRFnfRctTq
 features: []
-genres: []
+first_released_as_single: false
 key: in-the-navy-village-people
 lyrics_url: https://genius.com/Village-people-in-the-navy-lyrics
 name: In The Navy
@@ -79,6 +82,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1979-07-14'
+release_year: 1979
+runtime: 340493
 ---
 Where can you find pleasure
 Search the world for treasure

@@ -1,8 +1,11 @@
 ---
+album: A Little Bit Of Paul Davis
 artists:
 - Paul Davis
+external_ids:
+  spotify: spotify:track:4lgZJvM3yx4jdfRRUjDG3I
 features: []
-genres: []
+first_released_as_single: false
 key: a-little-bit-of-soap-paul-davis
 lyrics_url: https://www.azlyrics.com/lyrics/pauldavis/alittlebitofsoap.html
 name: A Little Bit Of Soap
@@ -55,8 +58,9 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '1970-07-25'
+release_year: 1970
+runtime: 152760
 ---
-
 A little bit of soap
 Will wash away your lipstick on my face
 But a little bit of soap
@@ -99,6 +103,3 @@ Will never wash away my tears
 ...
 Mmm, it's gonna never, never, never
 Uh-huh, wash away my tears
-
-
-

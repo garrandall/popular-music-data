@@ -1,8 +1,11 @@
 ---
+album: Airdream Believer
 artists:
 - John Stewart
+external_ids:
+  spotify: spotify:track:2D9UFcG7uXamynisTMIyuj
 features: []
-genres: []
+first_released_as_single: false
 key: lost-her-in-the-sun-john-stewart
 lyrics_url: https://www.azlyrics.com/lyrics/johnstewart/lostherinthesun.html
 name: Lost Her In The Sun
@@ -59,8 +62,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1980-03-01'
+release_year: 1979
+runtime: 230426
 ---
-
 Given any day there's a jet flyin' somewhere
 Ah, she bought a ticket and she vanished in the sky
 And how was I to know she was leavin' in the mornin'
@@ -99,6 +103,3 @@ Oh, lost her in the sun
 Oh, lost her in the sun
 Oh, lost her in the sun
 Oh, lost her in the sun
-
-
-

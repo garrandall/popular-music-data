@@ -1,8 +1,11 @@
 ---
+album: Natural High
 artists:
 - Bloodstone
+external_ids:
+  spotify: spotify:track:7aKrysuyZvDnU3JwnlO3dd
 features: []
-genres: []
+first_released_as_single: false
 key: natural-high-bloodstone
 lyrics_url: https://genius.com/Bloodstone-natural-high-lyrics
 name: Natural High
@@ -83,6 +86,8 @@ rankings:
   rank: 37
   ranking_list: Billboard Hot 100
   start_date: '1973-08-25'
+release_year: 1972
+runtime: 240466
 ---
 Why do I keep my mind on you all the time?
 And I don't even know you (I don't know you)

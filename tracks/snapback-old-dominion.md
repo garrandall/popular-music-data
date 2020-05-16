@@ -1,8 +1,11 @@
 ---
+album: Meat and Candy
 artists:
 - Old Dominion
+external_ids:
+  spotify: spotify:track:7I5fYc4qKJddht8Ozhqqdx
 features: []
-genres: []
+first_released_as_single: false
 key: snapback-old-dominion
 lyrics_url: https://www.azlyrics.com/lyrics/olddominion/snapback.html
 name: Snapback
@@ -87,8 +90,9 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '2016-06-25'
+release_year: 2015
+runtime: 206506
 ---
-
 Strictly outta curiosity,
 What would happen if you got with me?
 Kissin' you would hit the spot with me
@@ -139,7 +143,4 @@ Breakin' hearts like only you can in your snapback
 Woah oh oh oh
 Woah oh oh oh
 Woah oh oh oh
-In your snapback 
-
-
-
+In your snapback

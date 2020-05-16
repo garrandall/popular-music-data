@@ -1,8 +1,11 @@
 ---
+album: Do You Wanna Dance
 artists:
 - Bobby Freeman
+external_ids:
+  spotify: spotify:track:5CgRZxuJhkGzwG5kId0eZu
 features: []
-genres: []
+first_released_as_single: false
 key: mary-ann-thomas-bobby-freeman
 lyrics_url: https://www.musixmatch.com/lyrics/Bobby-Freeman/Mary-Ann-Thomas
 name: Mary Ann Thomas
@@ -15,6 +18,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1959-06-08'
+release_year: 1959
+runtime: 114773
 ---
 Mary Ann Thomas
 Remember your promise

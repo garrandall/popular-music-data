@@ -1,8 +1,11 @@
 ---
+album: Tha Second Coming
 artists:
 - Nastyboy Klick
+external_ids:
+  spotify: spotify:track:6P7YTkNb3C4ZWZI6FnmKMd
 features: []
-genres: []
+first_released_as_single: false
 key: lost-in-love-nastyboy-klick
 lyrics_url: https://genius.com/Nasty-boy-klick-lost-in-love-lyrics
 name: Lost In Love
@@ -43,6 +46,8 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '1998-11-28'
+release_year: 1998
+runtime: 247080
 ---
 How ya doin' sweetheart?
 Heya, you know these last few months we've been together

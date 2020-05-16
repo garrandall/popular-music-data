@@ -1,8 +1,11 @@
 ---
+album: Enter The Dru
 artists:
 - Dru Hill
+external_ids:
+  spotify: spotify:track:0OMmiWMwsCNtpQ5aP6fdp9
 features: []
-genres: []
+first_released_as_single: false
 key: these-are-the-times-dru-hill
 lyrics_url: https://www.azlyrics.com/lyrics/druhill/thesearethetimes.html
 name: These Are The Times
@@ -91,9 +94,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1999-05-08'
+release_year: 1998
+runtime: 248400
 ---
-
-
 God knows that you're a sexy thang 
 It's taking everything in me 
 Not to kiss you over under 
@@ -140,6 +143,3 @@ It makes them hard to keep
 Cuz you bring out the best 
 Make me the man 
 God knows I'm proud to be (Baby yeah)
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: JESUS IS KING
 artists:
 - Kanye West
+external_ids:
+  spotify: spotify:track:6xRWoYwfwIKnT8bQGzKbxR
 features: []
-genres: []
+first_released_as_single: false
 key: god-is-kanye-west
 lyrics_url: https://genius.com/Kanye-west-god-is-lyrics
 name: God Is
@@ -11,6 +14,8 @@ rankings:
   rank: 36
   ranking_list: Billboard Hot 100
   start_date: '2019-11-09'
+release_year: 2019
+runtime: 203141
 ---
 God is
 My light in darkness, oh

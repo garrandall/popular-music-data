@@ -1,8 +1,11 @@
 ---
+album: Raydiation
 artists:
 - Ray J
+external_ids:
+  spotify: spotify:track:5qrzhg9Fmu8Amg2uMhHfe5
 features: []
-genres: []
+first_released_as_single: false
 key: one-wish-ray-j
 lyrics_url: https://genius.com/Ray-j-one-wish-lyrics
 name: One Wish
@@ -107,6 +110,8 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '2006-03-25'
+release_year: 2005
+runtime: 337640
 ---
 Can I talk to you for a minute?
 

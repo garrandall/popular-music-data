@@ -1,8 +1,11 @@
 ---
+album: Start The Car
 artists:
 - Jude Cole
+external_ids:
+  spotify: spotify:track:62LY77Mh0BH0TDQSNBkxt4
 features: []
-genres: []
+first_released_as_single: false
 key: tell-the-truth-jude-cole
 lyrics_url: https://genius.com/Jude-cole-tell-the-truth-lyrics
 name: Tell The Truth
@@ -55,6 +58,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1993-04-10'
+release_year: 1993
+runtime: 327266
 ---
 Something about the way your eyes lately
 Look up and down and everywhere but me, yeah

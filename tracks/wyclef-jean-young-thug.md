@@ -1,8 +1,11 @@
 ---
+album: JEFFERY
 artists:
 - Young Thug
+external_ids:
+  spotify: spotify:track:55OdqrG8WLmsYyY1jijD9b
 features: []
-genres: []
+first_released_as_single: false
 key: wyclef-jean-young-thug
 lyrics_url: https://www.azlyrics.com/lyrics/youngthug/wyclefjean.html
 name: Wyclef Jean
@@ -11,8 +14,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '2016-09-17'
+release_year: 2016
+runtime: 236293
 ---
-
 Thugger
 TM
 This Actavis by the way I promise, on God
@@ -104,6 +108,3 @@ Boolin' rockin' nuder Frank Muller
 I know some hoes with good head, fuck a tutor
 So many hundreds I done added, I'mma lose 'em
 Put me in the Jaguar or the Wraith and now I'm coolin'
-
-
-

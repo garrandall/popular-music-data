@@ -1,8 +1,11 @@
 ---
+album: The Flying Machine
 artists:
 - The Flying Machine
+external_ids:
+  spotify: spotify:track:3SoLksUr3QzyMDLX0Cj5me
 features: []
-genres: []
+first_released_as_single: false
 key: smile-a-little-smile-for-me-the-flying-machine
 lyrics_url: https://genius.com/The-flying-machine-smile-a-little-smile-for-me-lyrics
 name: Smile A Little Smile For Me
@@ -63,6 +66,8 @@ rankings:
   rank: 26
   ranking_list: Billboard Hot 100
   start_date: '1970-01-03'
+release_year: 1969
+runtime: 175909
 ---
 You really should accept
 This time he's gone for good

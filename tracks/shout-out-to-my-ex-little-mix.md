@@ -1,8 +1,11 @@
 ---
+album: 'Glory Days: The Platinum Edition'
 artists:
 - Little Mix
+external_ids:
+  spotify: spotify:track:0XXnAhYqQuhrj4AOkft3Q5
 features: []
-genres: []
+first_released_as_single: true
 key: shout-out-to-my-ex-little-mix
 lyrics_url: https://www.azlyrics.com/lyrics/littlemix/shoutouttomyex.html
 name: Shout Out To My Ex
@@ -19,8 +22,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2016-12-03'
+release_year: 2016
+runtime: 163386
 ---
-
 This is a shout out to my ex
 Heard he in love with some other chick
 Yeah yeah, that hurt me, I'll admit
@@ -85,6 +89,3 @@ Here's to my ex, hey, look at me now, well, I (you just look at me now)
 I'm all the way up, I swear you'll never, you'll never bring me down
 
 You'll never bring me down
-
-
-

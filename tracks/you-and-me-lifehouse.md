@@ -1,8 +1,11 @@
 ---
+album: Lifehouse
 artists:
 - Lifehouse
+external_ids:
+  spotify: spotify:track:0815caqt2Lytro5EIzMufT
 features: []
-genres: []
+first_released_as_single: false
 key: you-and-me-lifehouse
 lyrics_url: https://genius.com/Lifehouse-you-and-me-lyrics
 name: You And Me
@@ -255,6 +258,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2006-04-22'
+release_year: 2005
+runtime: 195493
 ---
 What day is it? And in what month?
 This clock never seemed so alive

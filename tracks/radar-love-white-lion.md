@@ -1,8 +1,11 @@
 ---
+album: Big Game
 artists:
 - White Lion
+external_ids:
+  spotify: spotify:track:1ohwPUXwQlc10FzhCRMWrn
 features: []
-genres: []
+first_released_as_single: false
 key: radar-love-white-lion
 lyrics_url: https://www.azlyrics.com/lyrics/whitelion/radarlove.html
 name: Radar Love
@@ -59,8 +62,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1989-12-16'
+release_year: 1987
+runtime: 355040
 ---
-
 I've been driving all night, my hands 're wet on the wheel
 There's a voice in my head that drives my heel
 And my baby calls says she needs me here
@@ -105,6 +109,3 @@ We got a thing that's called radar love
 We got a line in the sky
 We got a thing that's called radar love
 We got a thing that's called radar love
-
-
-

@@ -1,9 +1,12 @@
 ---
+album: Look What You Made Me
 artists:
 - Yung Berg
+external_ids:
+  spotify: spotify:track:33PowGnnFPgWSGHcGIQX1U
 features:
 - Casha
-genres: []
+first_released_as_single: false
 key: the-business-yung-berg-casha
 lyrics_url: https://www.azlyrics.com/lyrics/yungberg/thebusiness.html
 name: The Business
@@ -64,6 +67,8 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '2008-10-25'
+release_year: 2008
+runtime: 253840
 ---
 If you know exactly what I wanna do
 Then I'm a give the business to you

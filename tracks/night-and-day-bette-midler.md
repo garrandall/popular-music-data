@@ -1,8 +1,11 @@
 ---
+album: Some People's Lives
 artists:
 - Bette Midler
+external_ids:
+  spotify: spotify:track:0Fj3R6fZk7OnAYVmAvPCYa
 features: []
-genres: []
+first_released_as_single: false
 key: night-and-day-bette-midler
 lyrics_url: https://www.azlyrics.com/lyrics/bettemidler/nightandday.html
 name: Night And Day
@@ -35,8 +38,9 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1991-03-09'
+release_year: 1990
+runtime: 330360
 ---
-
 Ohhhhhhh.
 Maybe you and I see life with two different visions,
 and neither one of us is wrong or right.
@@ -84,6 +88,3 @@ day and night, night and day.
 We're like, we're like, we're like
 day and night, night and day.
 Like black and white.
-
-
-

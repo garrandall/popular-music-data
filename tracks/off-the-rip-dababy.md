@@ -1,8 +1,11 @@
 ---
+album: KIRK
 artists:
 - DaBaby
+external_ids:
+  spotify: spotify:track:3e39X4Q74yJzsYUEeyf4ws
 features: []
-genres: []
+first_released_as_single: false
 key: off-the-rip-dababy
 lyrics_url: https://www.azlyrics.com/lyrics/dababy/offtherip.html
 name: OFF THE RIP
@@ -11,8 +14,9 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '2019-10-12'
+release_year: 2019
+runtime: 115609
 ---
-
 Straight off the rip, you know I don't wait for the drop
 I go out to eat with my kids and my mama, you know I ain't dating no thot
 Believe what you see, nigga
@@ -53,6 +57,3 @@ Straight off the rip, you know I don't wait for the drop
 I go out to eat with my kids and my mama, you know I ain't dating no thot
 Believe what you see, nigga
 I can't name a rapper that's out here and breathing that's fucking with me, nigga
-
-
-

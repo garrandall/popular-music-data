@@ -1,8 +1,11 @@
 ---
+album: Rabbitt
 artists:
 - Eddie Rabbitt
+external_ids:
+  spotify: spotify:track:3Def1E7Uxn5AcOgAjTlazG
 features: []
-genres: []
+first_released_as_single: false
 key: i-can-t-help-myself-eddie-rabbitt
 lyrics_url: https://genius.com/Eddie-rabbitt-i-cant-help-myself-lyrics
 name: I Can't Help Myself
@@ -43,6 +46,8 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1977-08-20'
+release_year: 1977
+runtime: 191706
 ---
 Thought I was over you thought I could start anew
 I got a new job, new friends on the other side of town

@@ -1,8 +1,11 @@
 ---
+album: This is Gene Pitney
 artists:
 - Gene Pitney
+external_ids:
+  spotify: spotify:track:2Aj3OSANAT98fYzxDWUKQg
 features: []
-genres: []
+first_released_as_single: false
 key: that-girl-belongs-to-yesterday-gene-pitney
 lyrics_url: https://www.azlyrics.com/lyrics/genepitney/thatgirlbelongstoyesterday.html
 name: That Girl Belongs To Yesterday
@@ -35,8 +38,9 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '1964-02-29'
+release_year: 1964
+runtime: 171000
 ---
-
 Last night I needed you so bad
 I was alone and feeling sad
 But now that I recall
@@ -65,6 +69,3 @@ I learned my lesson fast
 But now I know at last
 That girl belongs to yesterday
 That girl she belongs to yesterday
-
-
-

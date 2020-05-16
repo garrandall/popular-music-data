@@ -1,8 +1,11 @@
 ---
+album: No solo nostalgia
 artists:
 - Rita Pavone
+external_ids:
+  spotify: spotify:track:5A1e15pspWFfFx1xdiwBFb
 features: []
-genres: []
+first_released_as_single: false
 key: remember-me-rita-pavone
 lyrics_url: https://www.musixmatch.com/lyrics/Rita-Pavone/Remember-Me
 name: Remember Me
@@ -43,6 +46,8 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '1964-08-01'
+release_year: 1964
+runtime: 278066
 ---
 You walked right by me
 Like you never knew oh oh me

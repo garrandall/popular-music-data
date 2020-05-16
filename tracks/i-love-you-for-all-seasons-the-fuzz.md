@@ -1,8 +1,11 @@
 ---
+album: I Love You for All Seasons
 artists:
 - The Fuzz
+external_ids:
+  spotify: spotify:track:2WVfj2NTjpE3M4p0c75069
 features: []
-genres: []
+first_released_as_single: true
 key: i-love-you-for-all-seasons-the-fuzz
 lyrics_url: https://genius.com/The-fuzz-band-i-love-you-for-all-seasons-lyrics
 name: I Love You For All Seasons
@@ -87,6 +90,8 @@ rankings:
   rank: 33
   ranking_list: Billboard Hot 100
   start_date: '1971-06-05'
+release_year: 1971
+runtime: 188373
 ---
 I love you for so many reasons
 Which means I love you for all seasons

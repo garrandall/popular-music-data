@@ -1,8 +1,11 @@
 ---
+album: Steppin'
 artists:
 - The Pointer Sisters
+external_ids:
+  spotify: spotify:track:3tYadzVgDqad92AVugW8jh
 features: []
-genres: []
+first_released_as_single: false
 key: going-down-slowly-the-pointer-sisters
 lyrics_url: https://www.azlyrics.com/lyrics/pointersisters/goingdownslowly.html
 name: Going Down Slowly
@@ -35,8 +38,9 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '1976-01-03'
+release_year: 1975
+runtime: 470746
 ---
-
 Going down slowly
 Slowly going down
 Holy moly slowly going down
@@ -156,6 +160,3 @@ Holy moly slowly going down
 Going down slowly
 Slowly going down
 Holy moly slowly going down
-
-
-

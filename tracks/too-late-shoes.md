@@ -1,8 +1,11 @@
 ---
+album: Double Exposure
 artists:
 - Shoes
+external_ids:
+  spotify: spotify:track:2padhvGkpF8TmWpRjiQ9Hn
 features: []
-genres: []
+first_released_as_single: false
 key: too-late-shoes
 lyrics_url: https://genius.com/Shoes-too-late-lyrics
 name: Too Late
@@ -27,6 +30,8 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1979-12-01'
+release_year: 1979
+runtime: 158453
 ---
 Every time I see you
 I wish I could believe you

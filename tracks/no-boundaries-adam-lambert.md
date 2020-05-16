@@ -1,8 +1,11 @@
 ---
+album: No Boundaries
 artists:
 - Adam Lambert
+external_ids:
+  spotify: spotify:track:5gDe25hSVQ69TNmq0PQFag
 features: []
-genres: []
+first_released_as_single: true
 key: no-boundaries-adam-lambert
 lyrics_url: https://www.azlyrics.com/lyrics/adamlambert/noboundaries.html
 name: No Boundaries
@@ -15,8 +18,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2009-06-13'
+release_year: 2009
+runtime: 227800
 ---
-
 Ohhh hm
 Seconds, hours, so many days
 You know what you want, but how long can you wait
@@ -80,6 +84,3 @@ There are no boundaries... ehh eh
 There are no boundaries... Yeah eh
 
 There are no boundaries
-
-
-

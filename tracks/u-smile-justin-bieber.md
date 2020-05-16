@@ -1,8 +1,11 @@
 ---
+album: My World 2.0
 artists:
 - Justin Bieber
+external_ids:
+  spotify: spotify:track:6Xw2FLih8m5ItDbyP992HH
 features: []
-genres: []
+first_released_as_single: false
 key: u-smile-justin-bieber
 lyrics_url: https://www.azlyrics.com/lyrics/justinbieber/usmile.html
 name: U Smile
@@ -23,8 +26,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2011-03-12'
+release_year: 2010
+runtime: 196906
 ---
-
 Oh
 Yeah
 Mmm
@@ -84,6 +88,3 @@ Oh
 
 You smile, I smile
 You smile, I smile
-
-
-

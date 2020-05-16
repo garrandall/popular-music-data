@@ -1,9 +1,12 @@
 ---
+album: Live In New Orleans
 artists:
 - Maze
+external_ids:
+  spotify: spotify:track:7Jr07PGX40jJO3nvmiFwQD
 features:
 - Frankie Beverly
-genres: []
+first_released_as_single: false
 key: feel-that-you-re-feelin--maze-frankie-beverly
 lyrics_url: https://genius.com/Maze-featuring-frankie-beverly-feel-that-youre-feelin-lyrics
 name: Feel That You're Feelin'
@@ -28,6 +31,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1979-07-14'
+release_year: 1979
+runtime: 577226
 ---
 I'm in love with you darlene cause you so good to me
 And I feel that you need me it's so plain to see

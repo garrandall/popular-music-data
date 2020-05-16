@@ -1,8 +1,11 @@
 ---
+album: We're A Winner
 artists:
 - The Impressions
+external_ids:
+  spotify: spotify:track:5JrQKxv9LZevWZ0Fi4KQUC
 features: []
-genres: []
+first_released_as_single: false
 key: we-re-a-winner-the-impressions
 lyrics_url: https://www.azlyrics.com/lyrics/impressions/wereawinner.html
 name: We're A Winner
@@ -59,8 +62,9 @@ rankings:
   rank: 31
   ranking_list: Billboard Hot 100
   start_date: '1968-03-23'
+release_year: 1967
+runtime: 145306
 ---
-
 We're a winner
 And never let anybody say
 Boy, you can't make it
@@ -105,6 +109,3 @@ Lawd, baby
 Everybody
 Hey, you know we're movin' on up
 We're a winner
-
-
-

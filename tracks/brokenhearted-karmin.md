@@ -1,8 +1,11 @@
 ---
+album: Hello
 artists:
 - Karmin
+external_ids:
+  spotify: spotify:track:4urcG6Nfubqsuqy3juMjBi
 features: []
-genres: []
+first_released_as_single: false
 key: brokenhearted-karmin
 lyrics_url: https://www.azlyrics.com/lyrics/karmin/brokenhearted.html
 name: Brokenhearted
@@ -95,8 +98,9 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '2012-08-18'
+release_year: 2012
+runtime: 227146
 ---
-
 This is more than the typical kinda thing
 Felt the jones in my bones when you were touching me, uh oh
 Didn't wanna take it slow
@@ -166,6 +170,3 @@ I've been waiting up
 Let's finish what we started, oh oh
 I can't seem to let you go
 Come on, that's right, cheerio, uh!
-
-
-

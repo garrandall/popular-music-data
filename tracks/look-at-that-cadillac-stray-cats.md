@@ -1,8 +1,11 @@
 ---
+album: Rant N' Rave With The Stray Cats
 artists:
 - Stray Cats
+external_ids:
+  spotify: spotify:track:50PCumyqMXOvzuJSWrTAcj
 features: []
-genres: []
+first_released_as_single: false
 key: look-at-that-cadillac-stray-cats
 lyrics_url: https://www.azlyrics.com/lyrics/straycats/lookatthatcadillac.html
 name: Look At That Cadillac
@@ -27,8 +30,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1984-02-25'
+release_year: 1983
+runtime: 241160
 ---
-
 Well, wake up in the morning, brush my teeth and comb my hair
 Well, I wake up in the morning, I brush my teeth and comb my hair
 There's a big black cadillac parked on the street over there
@@ -72,6 +76,3 @@ Look at that cadillac, look at that
 Look at that cadillac, look at that
 Rock and rolling down the avenue, I'm gonna get me a cadillac too
 If it's the last thing I do
-
-
-

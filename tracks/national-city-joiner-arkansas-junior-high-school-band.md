@@ -1,9 +1,12 @@
 ---
+album: Lost Pop & Doo Wop, Vol. 4
 artists:
 - Joiner
 - Arkansas Junior High School Band
+external_ids:
+  spotify: spotify:track:4EdYYjkGMqsyNwC4rnQBfr
 features: []
-genres: []
+first_released_as_single: false
 key: national-city-joiner-arkansas-junior-high-school-band
 name: National City
 rankings:
@@ -39,5 +42,7 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1960-07-04'
+release_year: 1960
+runtime: 133826
 ---
 

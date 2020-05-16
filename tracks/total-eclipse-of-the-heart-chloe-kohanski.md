@@ -1,8 +1,11 @@
 ---
+album: The Complete Season 13 Collection (The Voice Performance)
 artists:
 - Chloe Kohanski
+external_ids:
+  spotify: spotify:track:1pFkLWesh2zpoFTs2g4SFt
 features: []
-genres: []
+first_released_as_single: false
 key: total-eclipse-of-the-heart-chloe-kohanski
 lyrics_url: https://www.musixmatch.com/lyrics/Chloe-Kohanski/Total-Eclipse-of-the-Heart-The-Voice-Performance
 name: Total Eclipse Of The Heart
@@ -11,6 +14,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2017-12-16'
+release_year: 2017
+runtime: 181794
 ---
 Turn around
 Every now and then I get a little bit lonely

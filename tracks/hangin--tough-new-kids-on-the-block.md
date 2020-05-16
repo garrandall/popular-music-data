@@ -1,8 +1,11 @@
 ---
+album: No More Games/The Remix Album
 artists:
 - New Kids On The Block
+external_ids:
+  spotify: spotify:track:7e4Y7M8rNvY4nn3bdKT0Uo
 features: []
-genres: []
+first_released_as_single: false
 key: hangin--tough-new-kids-on-the-block
 lyrics_url: https://genius.com/New-kids-on-the-block-hangin-tough-lyrics
 name: Hangin' Tough
@@ -75,6 +78,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1989-11-04'
+release_year: 1986
+runtime: 229426
 ---
 Oh, oh, oh, oh, oh
 Oh, oh, oh, oh, oh

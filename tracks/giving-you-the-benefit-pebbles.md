@@ -1,8 +1,11 @@
 ---
+album: Always
 artists:
 - Pebbles
+external_ids:
+  spotify: spotify:track:2nNKXDFRz6cog1kolC3efq
 features: []
-genres: []
+first_released_as_single: false
 key: giving-you-the-benefit-pebbles
 lyrics_url: https://www.azlyrics.com/lyrics/pebbles/givingyouthebenefit.html
 name: Giving You The Benefit
@@ -95,8 +98,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1991-01-12'
+release_year: 1990
+runtime: 341960
 ---
-
 Lately I've been trying to figure out your mind
 And why condition me poor little me
 And why you have a change of heart turn it all around and then
@@ -152,6 +156,3 @@ I wanna give it giving you the benefit
 I wanna give it giving you the benefit
 I'll be giving you a minute or two to try and work it out
 But don't you take too long baby
-
-
-

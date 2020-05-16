@@ -1,8 +1,11 @@
 ---
+album: California Sun - the Best of the Rivieras
 artists:
 - The Rivieras
+external_ids:
+  spotify: spotify:track:6aCw4ADUIyVQsa08UN6adY
 features: []
-genres: []
+first_released_as_single: false
 key: rockin--robin-the-rivieras
 lyrics_url: https://genius.com/The-rivieras-rockin-robin-lyrics
 name: Rockin' Robin
@@ -19,6 +22,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1964-09-19'
+release_year: 1963
+runtime: 153306
 ---
 Well, he rocks in the treetop all the day long
 Rocking and a-bopping and singing a song

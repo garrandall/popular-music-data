@@ -1,8 +1,11 @@
 ---
+album: Minutes to Midnight
 artists:
 - Linkin Park
+external_ids:
+  spotify: spotify:track:18lR4BzEs7e3qzc0KVkTpU
 features: []
-genres: []
+first_released_as_single: false
 key: what-i-ve-done-linkin-park
 lyrics_url: https://genius.com/Linkin-park-what-ive-done-lyrics
 name: What I've Done
@@ -99,6 +102,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2007-09-22'
+release_year: 2007
+runtime: 205613
 ---
 In this farewell
 There's no blood, there's no alibi

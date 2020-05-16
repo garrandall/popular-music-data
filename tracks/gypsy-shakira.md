@@ -1,8 +1,11 @@
 ---
+album: She Wolf
 artists:
 - Shakira
+external_ids:
+  spotify: spotify:track:3FESsHW8mAuiIsYpK6aJ6u
 features: []
-genres: []
+first_released_as_single: false
 key: gypsy-shakira
 lyrics_url: https://www.azlyrics.com/lyrics/shakira/gypsy.html
 name: Gypsy
@@ -19,8 +22,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2010-05-29'
+release_year: 2009
+runtime: 198826
 ---
-
 Broke my heart on the road
 Spent the weekend sewing the pieces back on
 Crayons and dolls pass me by
@@ -78,6 +82,3 @@ And I won't cry
 I'm too young to die
 If you're gonna quit me
 'Cause I'm a gypsy
-
-
-

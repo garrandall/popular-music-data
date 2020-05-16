@@ -1,8 +1,11 @@
 ---
+album: The Last Word in Lonesome
 artists:
 - Eddy Arnold
+external_ids:
+  spotify: spotify:track:6bJJY8W67CCjwzLWc36MKg
 features: []
-genres: []
+first_released_as_single: false
 key: misty-blue-eddy-arnold
 lyrics_url: https://www.azlyrics.com/lyrics/eddyarnold/mistyblue.html
 name: Misty Blue
@@ -39,8 +42,9 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '1967-06-24'
+release_year: 1966
+runtime: 127080
 ---
-
 Oh, it's been such a long, long time
 Looks like I get you off my mind
 Oh, but I can't, just the thought of you
@@ -63,6 +67,3 @@ Turns my world a misty blue
 
 Oh, but I can't, just the thought of you
 Turns my world a misty blue...
-
-
-

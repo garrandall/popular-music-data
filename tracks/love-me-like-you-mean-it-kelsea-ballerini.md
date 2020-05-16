@@ -1,8 +1,11 @@
 ---
+album: The First Time
 artists:
 - Kelsea Ballerini
+external_ids:
+  spotify: spotify:track:0knbW9EwgSLfNFMWys1mQm
 features: []
-genres: []
+first_released_as_single: false
 key: love-me-like-you-mean-it-kelsea-ballerini
 lyrics_url: https://www.azlyrics.com/lyrics/kelseaballerini/lovemelikeyoumeanit.html
 name: Love Me Like You Mean It
@@ -79,8 +82,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '2015-08-15'
+release_year: 2015
+runtime: 200026
 ---
-
 Love me, love me, love me, mmm
 
 Oh, hey
@@ -143,6 +147,3 @@ If you're gonna love me, boy, love me like you mean it
 Love me like you mean it
 If you're gonna love me, love me, love me
 Love me like you mean it
-
-
-

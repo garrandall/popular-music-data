@@ -1,8 +1,11 @@
 ---
+album: King Tut / Sally Goodin / Hoedown at Alice's (45 Version)
 artists:
 - Steve Martin And The Toot Uncommons
+external_ids:
+  spotify: spotify:track:0MOwFENfV5Q94mUU3F4Nk5
 features: []
-genres: []
+first_released_as_single: true
 key: king-tut-steve-martin-and-the-toot-uncommons
 lyrics_url: https://genius.com/Steve-martin-and-the-toot-uncommons-king-tut-v2-lyrics
 name: King Tut
@@ -67,6 +70,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1978-09-02'
+release_year: 1978
+runtime: 130253
 ---
 King Tut (King Tut)
 Now when he was a young man

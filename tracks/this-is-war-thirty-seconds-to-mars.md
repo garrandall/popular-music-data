@@ -1,8 +1,11 @@
 ---
+album: This Is War
 artists:
 - Thirty Seconds To Mars
+external_ids:
+  spotify: spotify:track:2D52zjCyqEIQa221lhw6uk
 features: []
-genres: []
+first_released_as_single: false
 key: this-is-war-thirty-seconds-to-mars
 lyrics_url: https://genius.com/Thirty-seconds-to-mars-this-is-war-lyrics
 name: This Is War
@@ -11,6 +14,8 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '2009-12-26'
+release_year: 2009
+runtime: 326983
 ---
 A warning to the people
 The good and the evil

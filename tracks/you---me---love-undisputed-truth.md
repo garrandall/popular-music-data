@@ -1,8 +1,11 @@
 ---
+album: Method To The Madness
 artists:
 - Undisputed Truth
+external_ids:
+  spotify: spotify:track:3YjyRX964KN1XtmRkJMev6
 features: []
-genres: []
+first_released_as_single: false
 key: you---me---love-undisputed-truth
 lyrics_url: https://genius.com/The-undisputed-truth-you-me-love-lyrics
 name: You + Me = Love
@@ -51,6 +54,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1977-05-28'
+release_year: 1976
+runtime: 674666
 ---
 Boy, the look of love
 Is in my eyes

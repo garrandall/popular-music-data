@@ -1,8 +1,11 @@
 ---
+album: Infinite Possibilities
 artists:
 - Amel Larrieux
+external_ids:
+  spotify: spotify:track:60TFQLaTIBoCkshuqqZIzD
 features: []
-genres: []
+first_released_as_single: false
 key: get-up-amel-larrieux
 lyrics_url: https://genius.com/Amel-larrieux-get-up-lyrics
 name: Get Up
@@ -19,6 +22,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2000-03-18'
+release_year: 1997
+runtime: 246160
 ---
 Mmm la dat dat, da dat dat
 Da da da dum dum dum dum
@@ -47,5 +52,3 @@ They want to profit from your demise
 They lie to cover up how weak they are inside
 Oh baby, baby don't you cry
 All you got's your pride, so I
-
-

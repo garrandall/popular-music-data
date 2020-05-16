@@ -1,9 +1,12 @@
 ---
+album: Changes
 artists:
 - Justin Bieber
+external_ids:
+  spotify: spotify:track:6zGPytJiZmFuyVq7RTNO9G
 features:
 - Kehlani
-genres: []
+first_released_as_single: true
 key: get-me-justin-bieber-kehlani
 lyrics_url: https://www.azlyrics.com/lyrics/justinbieber/getme.html
 name: Get Me
@@ -12,9 +15,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2020-02-15'
+release_year: 2020
+runtime: 185418
 ---
-
-
 Oh, you don't compare, don't fit in with 'em, do you get me?
 Judgin' by the way you open up, you get me
 Oh, out of this world, hands on, baby, now you send me
@@ -59,6 +62,3 @@ Oh, get me, yeah
 Get me, yeah
 Get me, yeah
 Get me, yeah
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Easy 60s
 artists:
 - Connie Stevens
+external_ids:
+  spotify: spotify:track:2ajr5SRpynlFAxG5e4UgVz
 features: []
-genres: []
+first_released_as_single: false
 key: mr-songwriter-connie-stevens
 lyrics_url: https://genius.com/Connie-stevens-mr-songwriter-lyrics
 name: Mr Songwriter
@@ -39,6 +42,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1962-09-22'
+release_year: 1962
+runtime: 140093
 ---
 I don't know any poetry
 How can I show

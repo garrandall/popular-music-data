@@ -1,8 +1,11 @@
 ---
+album: Wild. Wild West
 artists:
 - The Escape Club
+external_ids:
+  spotify: spotify:track:2VB382mOjbdsd3XDVuVmBz
 features: []
-genres: []
+first_released_as_single: false
 key: walking-through-walls-the-escape-club
 lyrics_url: https://genius.com/The-escape-club-walking-through-walls-lyrics
 name: Walking Through Walls
@@ -31,6 +34,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1989-04-29'
+release_year: 1988
+runtime: 200506
 ---
 Some Things Will Never Change
 Some Things We'll Never Know
@@ -70,4 +75,3 @@ And I Lost the Fight
 So I Turn Around
 And Head For the Light
 And Now I'm On My Way
-

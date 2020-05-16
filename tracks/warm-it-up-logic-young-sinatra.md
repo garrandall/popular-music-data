@@ -1,9 +1,12 @@
 ---
+album: Bobby Tarantino II
 artists:
 - Logic
+external_ids:
+  spotify: spotify:track:3W4JFzOQdo5J2Wgt9DFg24
 features:
 - Young Sinatra
-genres: []
+first_released_as_single: false
 key: warm-it-up-logic-young-sinatra
 lyrics_url: https://genius.com/Logic-warm-it-up-lyrics
 name: Warm It Up
@@ -12,6 +15,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2018-03-24'
+release_year: 2018
+runtime: 240093
 ---
 You—you, you
 You—you, you, you, you, you

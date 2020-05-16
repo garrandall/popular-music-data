@@ -1,8 +1,11 @@
 ---
+album: The Trinity
 artists:
 - Sean Paul
+external_ids:
+  spotify: spotify:track:4kOTDj4SiZPkW1p96WMDNv
 features: []
-genres: []
+first_released_as_single: false
 key: we-be-burnin--sean-paul
 lyrics_url: https://www.azlyrics.com/lyrics/seanpaul/webeburnin.html
 name: We Be Burnin'
@@ -119,10 +122,9 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2006-03-25'
+release_year: 2005
+runtime: 213066
 ---
-
-
-
 Just gimme the gees an we be clubbing yow.
 Gal a make we please and we be thuggin' now.
 Sippin' Hennesy an we'll be bubblin' yow.
@@ -178,4 +180,3 @@ Everyday...
 
 
 Again...
-

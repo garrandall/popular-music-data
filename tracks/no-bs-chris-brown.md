@@ -1,8 +1,11 @@
 ---
+album: F.A.M.E.
 artists:
 - Chris Brown
+external_ids:
+  spotify: spotify:track:6P3cUSAoT4EeMxVgWVdBra
 features: []
-genres: []
+first_released_as_single: false
 key: no-bs-chris-brown
 lyrics_url: https://www.musixmatch.com/lyrics/Chris-Brown-feat-Kevin-McCall/No-BS
 name: No BS
@@ -79,6 +82,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2011-04-23'
+release_year: 2010
+runtime: 247933
 ---
 3 in the morning
 You know I'm horny

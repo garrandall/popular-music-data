@@ -1,8 +1,11 @@
 ---
+album: Go West
 artists:
 - Go West
+external_ids:
+  spotify: spotify:track:5OtK7MJ1VE80m60X1OSR4h
 features: []
-genres: []
+first_released_as_single: false
 key: call-me-go-west
 lyrics_url: https://genius.com/Go-west-call-me-lyrics
 name: Call Me
@@ -63,6 +66,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1985-08-31'
+release_year: 1985
+runtime: 252973
 ---
 Face to face
 My reflection in your eyes

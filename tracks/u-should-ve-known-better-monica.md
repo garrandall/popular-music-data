@@ -1,8 +1,11 @@
 ---
+album: After The Storm
 artists:
 - Monica
+external_ids:
+  spotify: spotify:track:0EQuu6hyNACWI7LT7N5pRv
 features: []
-genres: []
+first_released_as_single: false
 key: u-should-ve-known-better-monica
 lyrics_url: https://genius.com/Monica-u-shouldve-known-better-lyrics
 name: U Should've Known Better
@@ -87,6 +90,8 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '2004-10-16'
+release_year: 2003
+runtime: 257786
 ---
 I didn't ask to go with you to Mexico
 I really didn't need the shopping spree in LA or Melrose

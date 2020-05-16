@@ -1,8 +1,11 @@
 ---
+album: "El Bimbo"
 artists:
 - Bimbo Jet
+external_ids:
+  spotify: spotify:track:12FJWnvLNIts6LtRuoklvQ
 features: []
-genres: []
+first_released_as_single: true
 key: el-bimbo-bimbo-jet
 name: El Bimbo
 rankings:
@@ -46,5 +49,7 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1975-07-26'
+release_year: 1975
+runtime: 142681
 ---
 

@@ -1,8 +1,11 @@
 ---
+album: Jim Stafford
 artists:
 - Jim Stafford
+external_ids:
+  spotify: spotify:track:74hM58NEw4o6SNKqBBI7IL
 features: []
-genres: []
+first_released_as_single: false
 key: swamp-witch-jim-stafford
 lyrics_url: https://genius.com/Jim-stafford-swamp-witch-lyrics
 name: Swamp Witch
@@ -55,6 +58,8 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '1973-07-28'
+release_year: 1973
+runtime: 227506
 ---
 Black water Hattie lived back in the swamp
 Where the strange green reptiles crawl

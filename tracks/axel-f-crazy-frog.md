@@ -1,8 +1,11 @@
 ---
+album: Crazy Hits
 artists:
 - Crazy Frog
+external_ids:
+  spotify: spotify:track:3TprZPqzs8IMedZVkZwsau
 features: []
-genres: []
+first_released_as_single: true
 key: axel-f-crazy-frog
 lyrics_url: https://genius.com/Crazy-frog-axel-f-lyrics
 name: Axel F
@@ -35,6 +38,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2005-10-01'
+release_year: 2005
+runtime: 174315
 ---
 Ring ding ding daa baa
 Baa aramba baa bom baa barooumba

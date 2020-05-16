@@ -1,8 +1,11 @@
 ---
+album: The Best Of Yvonne Elliman
 artists:
 - Yvonne Elliman
+external_ids:
+  spotify: spotify:track:0nbdfKpvDHAhVWxhY8ORmZ
 features: []
-genres: []
+first_released_as_single: false
 key: love-me-yvonne-elliman
 lyrics_url: https://genius.com/Yvonne-elliman-love-me-lyrics
 name: Love Me
@@ -83,6 +86,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1977-02-05'
+release_year: 1976
+runtime: 224533
 ---
 I remember times my love when we really had it all
 You were always there to make me smile, help me when I fall

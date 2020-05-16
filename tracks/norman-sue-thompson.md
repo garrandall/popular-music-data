@@ -1,8 +1,11 @@
 ---
+album: Essential Sue Thompson
 artists:
 - Sue Thompson
+external_ids:
+  spotify: spotify:track:51UVvW4d5vYr5YYnhGngjM
 features: []
-genres: []
+first_released_as_single: false
 key: norman-sue-thompson
 lyrics_url: https://genius.com/Sue-thompson-norman-lyrics
 name: Norman
@@ -71,6 +74,8 @@ rankings:
   rank: 38
   ranking_list: Billboard Hot 100
   start_date: '1962-03-24'
+release_year: 1961
+runtime: 140386
 ---
 Norman , oh oohohohh,oh, oh oohohohh,ohohoh
 Norman, hm, hm, hm, hm, hm, hm, hm, hm, hm

@@ -1,8 +1,11 @@
 ---
+album: Midnight To Midnight
 artists:
 - Psychedelic Furs
+external_ids:
+  spotify: spotify:track:2bbJvzFyLj8OPt5GRTj5Q5
 features: []
-genres: []
+first_released_as_single: false
 key: heartbreak-beat-psychedelic-furs
 lyrics_url: https://www.azlyrics.com/lyrics/psychedelicfurs/heartbreakbeat.html
 name: Heartbreak Beat
@@ -63,8 +66,9 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1987-06-13'
+release_year: 1981
+runtime: 312186
 ---
-
 I'm a heartbreak beat
 Yeah, all night long
 And nobody don't dance on the edge of the dark
@@ -123,6 +127,3 @@ There's a heartbreak beat
 I'm a heartbreak beat
 I'm a heartbreak beat
 I'm a heartbreak beat
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Perfect Angel
 artists:
 - Minnie Riperton
+external_ids:
+  spotify: spotify:track:3ebYtLVuV4HzEZUDcpZB9p
 features: []
-genres: []
+first_released_as_single: false
 key: lovin--you-minnie-riperton
 lyrics_url: https://www.azlyrics.com/lyrics/minnieriperton/lovinyou.html
 name: Lovin' You
@@ -79,8 +82,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1975-05-17'
+release_year: 1974
+runtime: 223143
 ---
-
 Lovin' you is easy 'cause you're beautiful
 Makin' love with you is all I wanna do
 Lovin' you is more than just a dream come true
@@ -123,6 +127,3 @@ Doo'n doo'n doo-doo, ah...
 
 Lov oh la-la la-la la la la la la
 Doo'n doo'n doo-doo, ah...
-
-
-

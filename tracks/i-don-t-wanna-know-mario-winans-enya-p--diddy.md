@@ -1,10 +1,13 @@
 ---
+album: Bad Boy 20th Anniversary Box Set Edition
 artists:
 - Mario Winans
+external_ids:
+  spotify: spotify:track:2yr2HnFYl7XvqJk4fXoQBt
 features:
 - Enya
 - P. Diddy
-genres: []
+first_released_as_single: false
 key: i-don-t-wanna-know-mario-winans-enya-p--diddy
 lyrics_url: https://genius.com/Mario-winans-i-dont-wanna-know-feat-enya-and-p-diddy-lyrics
 name: I Don't Wanna Know
@@ -129,6 +132,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2004-09-11'
+release_year: 2004
+runtime: 257333
 ---
 I just can't believe this man
 This is another night of these thoughts

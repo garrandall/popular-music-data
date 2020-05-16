@@ -1,8 +1,11 @@
 ---
+album: Invasion of Privacy
 artists:
 - Cardi B
+external_ids:
+  spotify: spotify:track:2SWuoDJEc9V1GFKRuYT192
 features: []
-genres: []
+first_released_as_single: false
 key: get-up-10-cardi-b
 lyrics_url: https://www.azlyrics.com/lyrics/cardi-b/getup10.html
 name: Get Up 10
@@ -15,8 +18,9 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '2018-04-28'
+release_year: 2018
+runtime: 231453
 ---
-
 Look, they gave a bitch two options: stripping or lose
 Used to dance in a club right across from my school
 I said "dance" not "fuck", don't get it confused
@@ -112,6 +116,3 @@ Yeah
 I said we gon' win
 Knock me down nine times, but I get up ten
 Bitch
-
-
-

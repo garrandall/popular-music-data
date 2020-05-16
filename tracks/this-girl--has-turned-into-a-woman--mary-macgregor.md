@@ -1,8 +1,11 @@
 ---
+album: Just Mary
 artists:
 - Mary Macgregor
+external_ids:
+  spotify: spotify:track:4NupyFIHhuiSZ9t5zWYzDt
 features: []
-genres: []
+first_released_as_single: false
 key: this-girl--has-turned-into-a-woman--mary-macgregor
 lyrics_url: https://genius.com/Mary-macgregor-this-girl-has-turned-into-a-woman-lyrics
 name: This Girl (Has Turned Into A Woman)
@@ -39,6 +42,8 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1977-06-11'
+release_year: 1977
+runtime: 206759
 ---
 Wake up
 The morning's over

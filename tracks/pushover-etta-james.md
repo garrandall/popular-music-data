@@ -1,8 +1,11 @@
 ---
+album: 'Heart & Soul: A Retrospective'
 artists:
 - Etta James
+external_ids:
+  spotify: spotify:track:25oQDQWlWmNzXwxoBex5Xu
 features: []
-genres: []
+first_released_as_single: false
 key: pushover-etta-james
 lyrics_url: https://www.azlyrics.com/lyrics/ettajames/pushover.html
 name: Pushover
@@ -47,8 +50,9 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1963-06-22'
+release_year: 1963
+runtime: 174733
 ---
-
 So you told all the boys that you were gonna take me out
 Ya even, ya even had the nerve to make a bet, oh yes you did
 That I would give in, all my love you would win
@@ -84,6 +88,3 @@ Oh you can't push me over
 Nobody's gonna push me over
 Oh you're not man enough to push me over
 Yeah everybody thought you was gonna push me over
-
-
-

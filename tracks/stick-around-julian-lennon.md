@@ -1,8 +1,11 @@
 ---
+album: The Secret Value Of Daydreaming
 artists:
 - Julian Lennon
+external_ids:
+  spotify: spotify:track:7FIqkrMFzbORpWI8vjWp9L
 features: []
-genres: []
+first_released_as_single: false
 key: stick-around-julian-lennon
 lyrics_url: https://genius.com/Julian-lennon-stick-around-lyrics
 name: Stick Around
@@ -59,6 +62,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1986-06-14'
+release_year: 1986
+runtime: 245560
 ---
 If you want to tell me something new
 I might stick around

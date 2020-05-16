@@ -1,8 +1,11 @@
 ---
+album: Christmas Tree Farm
 artists:
 - Taylor Swift
+external_ids:
+  spotify: spotify:track:2mvabkN1i2gLnGAPUVdwek
 features: []
-genres: []
+first_released_as_single: true
 key: christmas-tree-farm-taylor-swift
 lyrics_url: https://www.azlyrics.com/lyrics/taylorswift/christmastreefarm.html
 name: Christmas Tree Farm
@@ -11,8 +14,9 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '2019-12-21'
+release_year: 2019
+runtime: 228026
 ---
-
 My winter nights are taken up by static
 Stress, and holiday shopping traffic
 But I close my eyes, and I'm somewhere else
@@ -79,6 +83,3 @@ Oh baby, baby, Merry Christmas
 Oh baby, baby, Merry Christmas
 Oh baby, baby, Merry Christmas
 May your every wish come true
-
-
-

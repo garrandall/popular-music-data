@@ -1,8 +1,11 @@
 ---
+album: Falco III
 artists:
 - Falco
+external_ids:
+  spotify: spotify:track:0DfG1ltJnZyq4Tx3ZLL7ZU
 features: []
-genres: []
+first_released_as_single: false
 key: rock-me-amadeus-falco
 lyrics_url: https://genius.com/Falco-and-sun-diego-rock-me-amadeus-lyrics
 name: Rock Me Amadeus
@@ -75,6 +78,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1986-05-31'
+release_year: 1985
+runtime: 202236
 ---
 Yeah!
 

@@ -1,8 +1,11 @@
 ---
+album: Sparkle
 artists:
 - Aretha Franklin
+external_ids:
+  spotify: spotify:track:4FLjGxLu4f3M4v9gpCH96t
 features: []
-genres: []
+first_released_as_single: false
 key: something-he-can-feel-aretha-franklin
 lyrics_url: https://www.azlyrics.com/lyrics/arethafranklin/somethinghecanfeel.html
 name: Something He Can Feel
@@ -55,8 +58,9 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '1976-08-28'
+release_year: 1972
+runtime: 207733
 ---
-
 Shoo doo, shoo...
 
 Oh, many say that I'm too young
@@ -173,6 +177,3 @@ Do you know
 
 Giving him something he can feel
 Giving him something he can feel...
-
-
-

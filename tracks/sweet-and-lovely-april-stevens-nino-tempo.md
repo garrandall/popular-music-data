@@ -1,9 +1,12 @@
 ---
+album: Deep Purple
 artists:
 - April Stevens
 - Nino Tempo
+external_ids:
+  spotify: spotify:track:6UWS2yEQck1K7QynHWRuHR
 features: []
-genres: []
+first_released_as_single: false
 key: sweet-and-lovely-april-stevens-nino-tempo
 lyrics_url: https://www.musixmatch.com/lyrics/Nino-Tempo-April-Stevens-April-Stevens/Sweet-and-Lovely
 name: Sweet And Lovely
@@ -24,6 +27,8 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1962-07-28'
+release_year: 1962
+runtime: 175533
 ---
 Sweet and lovely
 Sweeter than the roses in May

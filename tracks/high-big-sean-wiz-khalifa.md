@@ -1,9 +1,12 @@
 ---
+album: Finally Famous
 artists:
 - Big Sean
+external_ids:
+  spotify: spotify:track:5VKsvhjnjQ3IAspPjGiNPf
 features:
 - Wiz Khalifa
-genres: []
+first_released_as_single: false
 key: high-big-sean-wiz-khalifa
 lyrics_url: https://www.azlyrics.com/lyrics/bigsean/high.html
 name: High
@@ -12,9 +15,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2011-07-16'
+release_year: 2011
+runtime: 260453
 ---
-
-
 I don't give a fuck about anything, that you're telling me
 Cause right now it's all, irrelevant
 I'm so high I won't, remember it
@@ -114,6 +117,3 @@ Errthang' high, high, high, high, high, high
 Errthang' high, high, high, high, high, high
 It's time to go, it's time to go, it's time to go, it's time to go
 It's time to go, go
-
-
-

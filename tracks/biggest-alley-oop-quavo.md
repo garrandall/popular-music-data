@@ -1,8 +1,11 @@
 ---
+album: QUAVO HUNCHO
 artists:
 - Quavo
+external_ids:
+  spotify: spotify:track:6Q36XucqrejMId3RydVhch
 features: []
-genres: []
+first_released_as_single: false
 key: biggest-alley-oop-quavo
 lyrics_url: https://www.azlyrics.com/lyrics/quavo/biggestalleyoop.html
 name: Biggest Alley Oop
@@ -11,9 +14,9 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2018-10-27'
+release_year: 2018
+runtime: 180960
 ---
-
-
 30, you a motherfucking fool, nigga
 
 
@@ -49,7 +52,7 @@ Who got the biggest bag in the room? (yeah, hey, hey)
 
 I lead the way (Yes, leader)
 Follow the wave (Follow the wave)
-I'm not BeyoncÃ© (No!)
+I'm not Beyoncé (No!)
 It's bigger than Jay (HOV)
 All in the studio cookin' up beats (Woo)
 But I'm not 'Ye (Yeezy)
@@ -79,6 +82,3 @@ Yeah, I go by the name of Huncho
 Quavo Huncho (30, you a motherfuckin' fool, nigga)
 The head man, woah
 Huncho, let's go, skrt, skrt-skrt
-
-
-

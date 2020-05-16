@@ -1,8 +1,11 @@
 ---
+album: Funky Melody
 artists:
 - Stevie B
+external_ids:
+  spotify: spotify:track:2fPKE94A80uHDX6wpxkpLC
 features: []
-genres: []
+first_released_as_single: false
 key: dream-about-you-stevie-b
 lyrics_url: https://www.azlyrics.com/lyrics/stevieb/dreamaboutyou.html
 name: Dream About You
@@ -99,8 +102,9 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1995-07-15'
+release_year: 1994
+runtime: 243809
 ---
-
 There was a time in my life 
 When I opened my eyes and there you were, 
 You were more than a dream, 
@@ -155,6 +159,3 @@ Girl you never go away,
 Just close my eyes 
 Wait for my dreams, 
 Cause I still love, loving you.
-
-
-

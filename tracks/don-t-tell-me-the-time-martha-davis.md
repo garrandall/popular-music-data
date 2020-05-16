@@ -1,8 +1,11 @@
 ---
+album: Policy
 artists:
 - Martha Davis
+external_ids:
+  spotify: spotify:track:7j45ne9Kghdv9iodCGmGj9
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-tell-me-the-time-martha-davis
 lyrics_url: https://genius.com/Martha-davis-dont-tell-me-the-time-lyrics
 name: Don't Tell Me The Time
@@ -39,6 +42,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1988-01-09'
+release_year: 1987
+runtime: 211880
 ---
 Uneasy eyes rest on a clock
 A nervous hand reveals a watch

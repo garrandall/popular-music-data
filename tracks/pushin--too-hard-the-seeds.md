@@ -1,8 +1,11 @@
 ---
+album: The Seeds
 artists:
 - The Seeds
+external_ids:
+  spotify: spotify:track:4yQRczx7diWEf7Yvps3kmC
 features: []
-genres: []
+first_released_as_single: false
 key: pushin--too-hard-the-seeds
 lyrics_url: https://genius.com/The-seeds-pushin-too-hard-lyrics
 name: Pushin' Too Hard
@@ -51,6 +54,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1967-03-04'
+release_year: 1966
+runtime: 158778
 ---
 You're pushin' too hard, uh-pushin' on me
 You're pushin' too hard, uh-what you want me to be

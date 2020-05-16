@@ -1,8 +1,11 @@
 ---
+album: And Then...
 artists:
 - Joe
+external_ids:
+  spotify: spotify:track:6NMmzszW3TPTFm4CbYHooU
 features: []
-genres: []
+first_released_as_single: true
 key: more---more-joe
 lyrics_url: https://genius.com/Joe-more-and-more-lyrics
 name: More & More
@@ -87,6 +90,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2004-04-03'
+release_year: 2003
+runtime: 226400
 ---
 Na Na Na (Baby)
 Na Na Na (you got that look on your face)

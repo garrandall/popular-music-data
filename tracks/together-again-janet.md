@@ -1,8 +1,11 @@
 ---
+album: The Velvet Rope
 artists:
 - Janet
+external_ids:
+  spotify: spotify:track:2nnU5UH4paoRkWCC7fSR2P
 features: []
-genres: []
+first_released_as_single: true
 key: together-again-janet
 lyrics_url: https://www.azlyrics.com/lyrics/janetjackson/togetheragain.html
 name: Together Again
@@ -191,8 +194,9 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1998-10-31'
+release_year: 1997
+runtime: 248666
 ---
-
 There are times
 When I look above
 And beyond
@@ -266,4 +270,3 @@ What I'd give just to hold you close
 As on earth
 In heaven we will be together baby
 Together again my baby
-

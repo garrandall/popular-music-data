@@ -1,8 +1,11 @@
 ---
+album: Up-Tight
 artists:
 - Stevie Wonder
+external_ids:
+  spotify: spotify:track:0Hw6SCrtU9pFCjgAONpnGZ
 features: []
-genres: []
+first_released_as_single: false
 key: uptight--everything-s-alright--stevie-wonder
 lyrics_url: https://genius.com/Stevie-wonder-uptight-everythings-alright-lyrics
 name: Uptight (Everything's Alright)
@@ -63,6 +66,8 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '1966-03-19'
+release_year: 1965
+runtime: 174400
 ---
 Baby, everything is all right, uptight, out of sight
 Baby, everything is all right, uptight, out of sight

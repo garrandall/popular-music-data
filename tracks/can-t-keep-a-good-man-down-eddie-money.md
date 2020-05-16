@@ -1,8 +1,11 @@
 ---
+album: Life For The Taking
 artists:
 - Eddie Money
+external_ids:
+  spotify: spotify:track:213O7IXCEbUl7uQsztRbRb
 features: []
-genres: []
+first_released_as_single: false
 key: can-t-keep-a-good-man-down-eddie-money
 lyrics_url: https://genius.com/Eddie-money-cant-keep-a-good-man-down-lyrics
 name: Can't Keep A Good Man Down
@@ -27,6 +30,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1979-06-09'
+release_year: 1978
+runtime: 217586
 ---
 I can see where I'm going
 Although the road's not clear

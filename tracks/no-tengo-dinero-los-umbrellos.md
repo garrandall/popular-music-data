@@ -1,8 +1,11 @@
 ---
+album: Flamenco Funk
 artists:
 - Los Umbrellos
+external_ids:
+  spotify: spotify:track:05yk3GBEoFhA8wJoSLuv3L
 features: []
-genres: []
+first_released_as_single: true
 key: no-tengo-dinero-los-umbrellos
 lyrics_url: https://genius.com/Los-umbrellos-no-tengo-dinero-lyrics
 name: No Tengo Dinero
@@ -115,6 +118,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1998-02-28'
+release_year: 1997
+runtime: 221893
 ---
 Vamos a tequila, senorita, Bonita
 I really need it now

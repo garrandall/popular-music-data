@@ -1,8 +1,11 @@
 ---
+album: The Essential Dionne Warwick
 artists:
 - Dionne Warwick
+external_ids:
+  spotify: spotify:track:0DTLwAomf9VRAlQtxbqD6p
 features: []
-genres: []
+first_released_as_single: false
 key: whisper-in-the-dark-dionne-warwick
 lyrics_url: https://www.azlyrics.com/lyrics/dionnewarwick/whisperinthedark.html
 name: Whisper In The Dark
@@ -43,8 +46,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1986-05-10'
+release_year: 1986
+runtime: 274053
 ---
-
 Come closer now
 So I can see you in the dark
 I wanna hold your body next to mine
@@ -98,6 +102,3 @@ Whisper in the dark
 Stuck there in the night, I know
 Touch me with a spark
 Stuck there in the night, I know
-
-
-

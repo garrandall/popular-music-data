@@ -1,8 +1,11 @@
 ---
+album: Clarity
 artists:
 - Jimmy Eat World
+external_ids:
+  spotify: spotify:track:6PRi9o40ogIWt340mS9CNV
 features: []
-genres: []
+first_released_as_single: false
 key: sweetness-jimmy-eat-world
 lyrics_url: https://www.azlyrics.com/lyrics/jimmyeatworld/sweetness.html
 name: Sweetness
@@ -63,8 +66,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2002-11-02'
+release_year: 1999
+runtime: 218800
 ---
-
 If you're listening
 Sing it back
 String from your tether unwinds
@@ -110,6 +114,3 @@ What a dizzy dance
 This sweetness will not be concerned with me
 No the sweetness will not be concerned with me
 No the sweetness will not be concerned with me
-
-
-

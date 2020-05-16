@@ -1,8 +1,11 @@
 ---
+album: You're the Reason
 artists:
 - Bobby Edwards
+external_ids:
+  spotify: spotify:track:0RtKtNBQWjgIIxsXmpSRyW
 features: []
-genres: []
+first_released_as_single: false
 key: you-re-the-reason-bobby-edwards
 lyrics_url: https://genius.com/Bobby-edwards-youre-the-reason-lyrics
 name: You're The Reason
@@ -75,6 +78,8 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '1961-12-18'
+release_year: 1961
+runtime: 166173
 ---
 (You're the reason I don't sleep at night)
 I just lay here at night

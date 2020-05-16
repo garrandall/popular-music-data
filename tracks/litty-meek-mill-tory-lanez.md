@@ -1,9 +1,12 @@
 ---
+album: DC4
 artists:
 - Meek Mill
+external_ids:
+  spotify: spotify:track:41ZWQ6xczwnzsav1nlDXrJ
 features:
 - Tory Lanez
-genres: []
+first_released_as_single: false
 key: litty-meek-mill-tory-lanez
 lyrics_url: https://www.azlyrics.com/lyrics/meekmill/litty.html
 name: Litty
@@ -24,9 +27,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2016-12-10'
+release_year: 2016
+runtime: 280961
 ---
-
-
 Woo! I'm on my way to an island
 And I'm popping shit at the pilot (fly shit only)
 Niggas be broke and be starving
@@ -147,6 +150,3 @@ Litty again, litty again
 I got it we litty again
 Litty again, litty again
 I got it, we did it, we litty again
-
-
-

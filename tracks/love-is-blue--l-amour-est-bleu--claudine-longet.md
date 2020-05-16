@@ -1,11 +1,14 @@
 ---
+album: Love Is Blue
 artists:
 - Claudine Longet
+external_ids:
+  spotify: spotify:track:5Mu3aWaQn96AGvLld0aNWt
 features: []
-genres: []
+first_released_as_single: false
 key: love-is-blue--l-amour-est-bleu--claudine-longet
-name: Love Is Blue (L'Amour Est Bleu)
 lyrics_url: https://genius.com/Claudine-longet-love-is-blue-lyrics
+name: Love Is Blue (L'Amour Est Bleu)
 rankings:
 - end_date: '1968-03-01'
   rank: 97
@@ -43,6 +46,8 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1968-04-20'
+release_year: 1968
+runtime: 166120
 ---
 Blue, blue, my world is blue
 Blue is my world now I'm without you

@@ -1,9 +1,12 @@
 ---
+album: Happy Now
 artists:
 - Zedd
 - Elley Duhe
+external_ids:
+  spotify: spotify:track:4keoy2fqgwGnbWlm3ZVZFa
 features: []
-genres: []
+first_released_as_single: true
 key: happy-now-zedd-elley-duhe
 lyrics_url: https://www.azlyrics.com/lyrics/zedd/happynow.html
 name: Happy Now
@@ -12,8 +15,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2018-09-08'
+release_year: 2018
+runtime: 207029
 ---
-
 You're a world away
 Somewhere in the crowd
 In a foreign place
@@ -77,6 +81,3 @@ There's nothing left to say
 So I shut my mouth
 So won't you tell me, babe
 Are you happy now?
-
-
-

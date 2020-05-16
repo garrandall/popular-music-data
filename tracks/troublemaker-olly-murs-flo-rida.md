@@ -1,9 +1,12 @@
 ---
+album: Right Place Right Time
 artists:
 - Olly Murs
+external_ids:
+  spotify: spotify:track:0gRczqVHrEQQDyizJUtgRc
 features:
 - Flo Rida
-genres: []
+first_released_as_single: false
 key: troublemaker-olly-murs-flo-rida
 lyrics_url: https://www.azlyrics.com/lyrics/ollymurs/troublemaker.html
 name: Troublemaker
@@ -88,8 +91,9 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '2013-06-15'
+release_year: 2011
+runtime: 185200
 ---
-
 You're a troublemaker
 You're a troublemaker
 You ain't nothing but a troublemaker, girl
@@ -168,6 +172,3 @@ Troublemaker
 I say, "I'm done," but then you pull me back
 I swear you're giving me a heart attack
 Troublemaker
-
-
-

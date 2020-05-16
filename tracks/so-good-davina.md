@@ -1,8 +1,11 @@
 ---
+album: Best of Both Worlds
 artists:
 - Davina
+external_ids:
+  spotify: spotify:track:5O0wmooPtCi3E9F1O8J7KR
 features: []
-genres: []
+first_released_as_single: false
 key: so-good-davina
 lyrics_url: https://www.musixmatch.com/lyrics/Davina-feat-Xzibit/So-Good
 name: So Good
@@ -83,6 +86,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1998-03-07'
+release_year: 1997
+runtime: 274179
 ---
 Tres, un tres tres, un tres
 Tres, un tres, tres, un tres

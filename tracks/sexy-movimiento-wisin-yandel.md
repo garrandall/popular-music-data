@@ -1,9 +1,12 @@
 ---
+album: Wisin Vs Yandel "Los Extraterrestres"
 artists:
 - Wisin
 - Yandel
+external_ids:
+  spotify: spotify:track:1Kgyx7NLtzsa3gWV1efGHu
 features: []
-genres: []
+first_released_as_single: false
 key: sexy-movimiento-wisin-yandel
 lyrics_url: https://genius.com/Wisin-and-yandel-sexy-movimiento-lyrics
 name: Sexy Movimiento
@@ -20,6 +23,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2007-12-15'
+release_year: 2007
+runtime: 209680
 ---
 ¡Los Extraterrestres!
 

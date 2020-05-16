@@ -1,8 +1,11 @@
 ---
+album: The Blueprint (Explicit Version)
 artists:
 - JAY-Z
+external_ids:
+  spotify: spotify:track:0vzb8Ii9B2fP9c0POFGPOZ
 features: []
-genres: []
+first_released_as_single: false
 key: girls-girls-girls-jay-z
 lyrics_url: https://genius.com/Jay-z-girls-girls-girls-lyrics
 name: Girls Girls Girls
@@ -75,6 +78,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2002-02-02'
+release_year: 2001
+runtime: 275373
 ---
 Je t'adore, JAY-Z, je t'adore
 Course I love you... I love all y'all

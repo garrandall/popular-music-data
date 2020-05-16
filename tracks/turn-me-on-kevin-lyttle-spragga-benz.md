@@ -1,9 +1,12 @@
 ---
+album: Kevin Lyttle (US Domestic release)
 artists:
 - Kevin Lyttle
+external_ids:
+  spotify: spotify:track:2TTH19zJIJHooAXtNAqkzb
 features:
 - Spragga Benz
-genres: []
+first_released_as_single: false
 key: turn-me-on-kevin-lyttle-spragga-benz
 lyrics_url: https://genius.com/Kevin-lyttle-turn-me-on-remix-lyrics
 name: Turn Me On
@@ -108,6 +111,8 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '2004-11-06'
+release_year: 2004
+runtime: 201640
 ---
 Oh yeah… Ah ah ah…
 Is ah big dancehall song in know

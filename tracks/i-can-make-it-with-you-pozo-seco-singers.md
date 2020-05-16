@@ -1,8 +1,11 @@
 ---
+album: 'Time For...The Pozo-Sego Singers: The Complete 1966 Recordings'
 artists:
 - Pozo Seco Singers
+external_ids:
+  spotify: spotify:track:7LWUt6WCJsTUBjVl2GhpOK
 features: []
-genres: []
+first_released_as_single: false
 key: i-can-make-it-with-you-pozo-seco-singers
 lyrics_url: https://genius.com/The-pozo-seco-singers-i-can-make-it-with-you-lyrics
 name: I Can Make It With You
@@ -51,6 +54,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1966-11-19'
+release_year: 1965
+runtime: 132453
 ---
 When the world was on my shoulders
 And all hope for tomorrow was gone

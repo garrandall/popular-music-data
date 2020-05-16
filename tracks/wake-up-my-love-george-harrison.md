@@ -1,8 +1,11 @@
 ---
+album: Gone Troppo
 artists:
 - George Harrison
+external_ids:
+  spotify: spotify:track:3dRafF3mJEGCxVaONlh4h2
 features: []
-genres: []
+first_released_as_single: false
 key: wake-up-my-love-george-harrison
 lyrics_url: https://www.azlyrics.com/lyrics/georgeharrison/wakeupmylove.html
 name: Wake Up My Love
@@ -27,8 +30,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1982-12-18'
+release_year: 1982
+runtime: 216066
 ---
-
 Here I go again
 Hear that knockin' won't you let me in
 Only want that same old thing
@@ -74,6 +78,3 @@ And let it in
 I want your love
 Wake up my love
 And let it in
-
-
-

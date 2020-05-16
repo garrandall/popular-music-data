@@ -1,8 +1,11 @@
 ---
+album: High Energy
 artists:
 - The Supremes
+external_ids:
+  spotify: spotify:track:3TwKW2Tx4HJ4yJFpo5MUjf
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-gonna-let-my-heart-do-the-walking-the-supremes
 lyrics_url: https://genius.com/The-supremes-im-gonna-let-my-heart-do-the-walking-lyrics
 name: I'm Gonna Let My Heart Do The Walking
@@ -63,6 +66,8 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1976-08-28'
+release_year: 1976
+runtime: 212800
 ---
 Goodbye my love
 Happy life my love

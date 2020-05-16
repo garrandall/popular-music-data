@@ -1,8 +1,11 @@
 ---
+album: Future History
 artists:
 - Jason Derulo
+external_ids:
+  spotify: spotify:track:4jx64GUcjOIKl6Rdc0gXRB
 features: []
-genres: []
+first_released_as_single: true
 key: don-t-wanna-go-home-jason-derulo
 lyrics_url: https://genius.com/Jason-derulo-dont-wanna-go-home-lyrics
 name: Don't Wanna Go Home
@@ -67,6 +70,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '2011-09-10'
+release_year: 2011
+runtime: 206080
 ---
 Jason Derulo
 

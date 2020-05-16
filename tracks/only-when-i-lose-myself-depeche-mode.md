@@ -1,8 +1,11 @@
 ---
+album: Ultra
 artists:
 - Depeche Mode
+external_ids:
+  spotify: spotify:track:3cyEsjm4yRObvdhXweZnbF
 features: []
-genres: []
+first_released_as_single: false
 key: only-when-i-lose-myself-depeche-mode
 lyrics_url: https://www.azlyrics.com/lyrics/depechemode/onlywhenilosemyself.html
 name: Only When I Lose Myself
@@ -43,8 +46,9 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1998-11-28'
+release_year: 1997
+runtime: 274000
 ---
-
 It's only when I lose myself with someone else
 That I find myself
 I find myself
@@ -94,6 +98,3 @@ I find myself
 It's only when I lose myself with someone else
 That I find myself
 I find myself
-
-
-

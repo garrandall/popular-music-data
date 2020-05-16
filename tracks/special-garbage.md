@@ -1,8 +1,11 @@
 ---
+album: Version 2.0 (The Official Remixes)
 artists:
 - Garbage
+external_ids:
+  spotify: spotify:track:59F2jiJLKL1FgLVuVkAN7T
 features: []
-genres: []
+first_released_as_single: false
 key: special-garbage
 lyrics_url: https://genius.com/Garbage-special-lyrics
 name: Special
@@ -59,6 +62,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1999-06-19'
+release_year: 1998
+runtime: 219451
 ---
 I've been living without you
 I know all about you

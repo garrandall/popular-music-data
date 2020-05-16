@@ -1,9 +1,12 @@
 ---
+album: Late Registration
 artists:
 - Kanye West
+external_ids:
+  spotify: spotify:track:6ZbqIybNIVv2KBZkbYbIRA
 features:
 - Lupe Fiasco
-genres: []
+first_released_as_single: false
 key: touch-the-sky-kanye-west-lupe-fiasco
 lyrics_url: https://www.azlyrics.com/lyrics/kanyewest/touchthesky.html
 name: Touch The Sky
@@ -44,8 +47,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '2006-04-22'
+release_year: 2005
+runtime: 236600
 ---
-
 I gotta testify
 Come up in the spot looking extra fly
 'Fore the day I die
@@ -133,7 +137,7 @@ But before you say another word
 I'm back on the block like I'm laying on the street
 I'm tryna stop Lion like I'm Mumm-Ra
 But I'm not lying when I'm laying on the beat
-En garde, touchÃ© Lupe cool as the unthawed
+En garde, touché Lupe cool as the unthawed
 But I still feel possessed as a gun charge
 I come as correct as a porn star
 In a fresh pair steps in my best foreign car
@@ -163,6 +167,3 @@ I'm, I'm sky-high
 Keep it rolling
 Feels good to be home, baby!
 Feels good to be home!
-
-
-

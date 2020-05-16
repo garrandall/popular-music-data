@@ -1,8 +1,11 @@
 ---
+album: Cliff In Japan
 artists:
 - Cliff Richard
+external_ids:
+  spotify: spotify:track:1RiQZFpCZpWOMh5YEVgHLW
 features: []
-genres: []
+first_released_as_single: false
 key: lucky-lips-cliff-richard
 lyrics_url: https://www.azlyrics.com/lyrics/cliffrichard/luckylips.html
 name: Lucky Lips
@@ -39,8 +42,9 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '1963-09-21'
+release_year: 1963
+runtime: 418000
 ---
-
 When I was just a little baby I didn't have many toys,
 But my mama used to say, son, you've got more than other boys.
 Now you may not be good looking,
@@ -79,6 +83,3 @@ Don't need a four-leaf clover,
 Rabbit's foot or a good look charm.
 With lucky lips you'll always have,
 A baby in your arms.
-
-
-

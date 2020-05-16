@@ -1,8 +1,11 @@
 ---
+album: Scratch
 artists:
 - The Crusaders
+external_ids:
+  spotify: spotify:track:0GdfeAKhxc3KmOu7chYQWj
 features: []
-genres: []
+first_released_as_single: false
 key: scratch-the-crusaders
 name: Scratch
 rankings:
@@ -30,5 +33,7 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1974-06-01'
+release_year: 1974
+runtime: 373426
 ---
 

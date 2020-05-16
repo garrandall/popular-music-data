@@ -1,8 +1,11 @@
 ---
+album: The Witch Queen of New Orleans (aka Message from a Drum)
 artists:
 - Redbone
+external_ids:
+  spotify: spotify:track:5M3lcfDNGB4S0iDoP9ItcV
 features: []
-genres: []
+first_released_as_single: false
 key: the-witch-queen-of-new-orleans-redbone
 lyrics_url: https://www.azlyrics.com/lyrics/redbone/thewitchqueenofneworleans.html
 name: The Witch Queen Of New Orleans
@@ -75,8 +78,9 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '1972-03-11'
+release_year: 1971
+runtime: 165093
 ---
-
 Marie, Marie 
 La voodoo, veau 
 She'll put a spell on you
@@ -140,6 +144,3 @@ Marie, Marie
 La voodoo, veau 
 She's the witch queen - oh 
 Of New Orleans
-
-
-

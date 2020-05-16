@@ -1,8 +1,11 @@
 ---
+album: Seasoned Veteran
 artists:
 - Richie Rich
+external_ids:
+  spotify: spotify:track:3poe663PviYQ1w9VybzNGj
 features: []
-genres: []
+first_released_as_single: false
 key: do-g-s-get-to-go-to-heaven--richie-rich
 lyrics_url: https://genius.com/Richie-rich-do-gs-get-to-go-to-heaven-lyrics
 name: Do G's Get To Go To Heaven?
@@ -67,6 +70,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1997-06-07'
+release_year: 1996
+runtime: 359493
 ---
 I dedicate this to my man 2Pac
 Rest in peace boy

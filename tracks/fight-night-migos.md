@@ -1,8 +1,11 @@
 ---
+album: No Label II
 artists:
 - Migos
+external_ids:
+  spotify: spotify:track:1O8qWS9w2wI3jvPX8hg56W
 features: []
-genres: []
+first_released_as_single: true
 key: fight-night-migos
 lyrics_url: https://www.musixmatch.com/lyrics/Migos/Fight-Night
 name: Fight Night
@@ -71,6 +74,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2014-11-08'
+release_year: 2014
+runtime: 215219
 ---
 If you know me, know this ain't my feng shui
 Certified everywhere, ain't gotta print my resume

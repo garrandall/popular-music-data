@@ -1,8 +1,11 @@
 ---
+album: Pure Heroine (Extended)
 artists:
 - Lorde
+external_ids:
+  spotify: spotify:track:15jRg8Ejs7X3JEHw38TSN3
 features: []
-genres: []
+first_released_as_single: false
 key: team-lorde
 lyrics_url: https://genius.com/Lorde-team-lyrics
 name: Team
@@ -159,6 +162,8 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '2014-06-28'
+release_year: 2013
+runtime: 193058
 ---
 Wait till you're announced
 We've not yet lost all our graces

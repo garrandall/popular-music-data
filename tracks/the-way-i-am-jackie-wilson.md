@@ -1,8 +1,11 @@
 ---
+album: At The Copa
 artists:
 - Jackie Wilson
+external_ids:
+  spotify: spotify:track:5RN6RUj3m6mhlU70Bblqkf
 features: []
-genres: []
+first_released_as_single: false
 key: the-way-i-am-jackie-wilson
 name: The Way I Am
 rankings:
@@ -30,5 +33,7 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1961-11-27'
+release_year: 1961
+runtime: 148466
 ---
 

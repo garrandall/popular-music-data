@@ -1,8 +1,11 @@
 ---
+album: The Great Otis Redding Sings Soul Ballads
 artists:
 - Otis Redding
+external_ids:
+  spotify: spotify:track:3p6keDkfLYYpuAdvv1Ktsh
 features: []
-genres: []
+first_released_as_single: false
 key: that-s-how-strong-my-love-is-otis-redding
 lyrics_url: https://www.azlyrics.com/lyrics/otisredding/thatshowstrongmyloveis.html
 name: That's How Strong My Love Is
@@ -23,8 +26,9 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '1965-02-20'
+release_year: 1965
+runtime: 144373
 ---
-
 If I was the Sun way up there
 I'd go with love most everywhere
 I'll be the moon when the sun goes down
@@ -61,6 +65,3 @@ So much to love, yes so much to love, woh
 there's so much love, there's so much love 
 Anything the sun can do I will do it for you
 Any kind of love you want, I'll be with you.
-
-
-

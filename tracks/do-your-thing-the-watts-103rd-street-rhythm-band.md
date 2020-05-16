@@ -1,8 +1,11 @@
 ---
+album: Together
 artists:
 - The Watts 103rd Street Rhythm Band
+external_ids:
+  spotify: spotify:track:5Rzxqve16s61lHAkSMFN8Y
 features: []
-genres: []
+first_released_as_single: false
 key: do-your-thing-the-watts-103rd-street-rhythm-band
 lyrics_url: https://genius.com/Charles-wright-and-the-watts-103rd-street-rhythm-band-do-your-thing-lyrics
 name: Do Your Thing
@@ -75,6 +78,8 @@ rankings:
   rank: 37
   ranking_list: Billboard Hot 100
   start_date: '1969-05-24'
+release_year: 1968
+runtime: 213400
 ---
 Express Yourself!
 

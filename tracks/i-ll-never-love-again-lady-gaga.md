@@ -1,8 +1,11 @@
 ---
+album: A Star Is Born Soundtrack
 artists:
 - Lady Gaga
+external_ids:
+  spotify: spotify:track:4A7EkKijzA4ryEoCRWJzdG
 features: []
-genres: []
+first_released_as_single: false
 key: i-ll-never-love-again-lady-gaga
 lyrics_url: https://genius.com/Lady-gaga-ill-never-love-again-extended-version-lyrics
 name: I'll Never Love Again
@@ -35,6 +38,8 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '2019-03-09'
+release_year: 2018
+runtime: 281066
 ---
 Wish I could, I could've said goodbye
 I would've said what I wanted to

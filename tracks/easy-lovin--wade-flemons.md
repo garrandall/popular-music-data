@@ -1,8 +1,11 @@
 ---
+album: Here I Stand (The Best Of)
 artists:
 - Wade Flemons
+external_ids:
+  spotify: spotify:track:4nvOMKH3EpGv64srvXI7lp
 features: []
-genres: []
+first_released_as_single: false
 key: easy-lovin--wade-flemons
 name: Easy Lovin'
 rankings:
@@ -22,5 +25,7 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1960-05-16'
+release_year: 1960
+runtime: 140733
 ---
 

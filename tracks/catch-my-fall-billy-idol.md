@@ -1,8 +1,11 @@
 ---
+album: Rebel Yell
 artists:
 - Billy Idol
+external_ids:
+  spotify: spotify:track:6vrQiNJDkGyKzxlNCQGwNo
 features: []
-genres: []
+first_released_as_single: false
 key: catch-my-fall-billy-idol
 lyrics_url: https://www.azlyrics.com/lyrics/billyidol/catchmyfall.html
 name: Catch My Fall
@@ -51,8 +54,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1985-01-12'
+release_year: 1983
+runtime: 224333
 ---
-
 I have the time so I will sing yeah
 I'm just a boy but I will win yeah
 Lost song of lovers fellow travelers yeah
@@ -88,6 +92,3 @@ If I should stumble won't yoc catch my fall yeah
 If I should stumble catch my fall yeah
 If I should stumble would you catch my fall
 If I should stumble catch my fall
-
-
-

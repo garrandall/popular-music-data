@@ -1,8 +1,11 @@
 ---
+album: Lawyers in Love
 artists:
 - Jackson Browne
+external_ids:
+  spotify: spotify:track:76Inmt7MZhUrPnDcoRcRjm
 features: []
-genres: []
+first_released_as_single: false
 key: for-a-rocker-jackson-browne
 lyrics_url: https://www.azlyrics.com/lyrics/jacksonbrowne/forarocker.html
 name: For A Rocker
@@ -43,8 +46,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1984-03-10'
+release_year: 1983
+runtime: 244866
 ---
-
 Open the door, baby turn on the light
 We're gonna have a party tonight
 For a rocker
@@ -98,6 +102,3 @@ There's a party tonight!
 There's a party tonight!
 There's a party tonight!
 There's a party tonight!
-
-
-

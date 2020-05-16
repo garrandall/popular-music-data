@@ -1,8 +1,11 @@
 ---
+album: Merry Christmas
 artists:
 - Mariah Carey
+external_ids:
+  spotify: spotify:track:0bYg9bo50gSsH3LtXe2SQn
 features: []
-genres: []
+first_released_as_single: false
 key: all-i-want-for-christmas-is-you-mariah-carey
 lyrics_url: https://genius.com/Mariah-carey-all-i-want-for-christmas-is-you-lyrics
 name: All I Want For Christmas Is You
@@ -155,6 +158,8 @@ rankings:
   rank: 1
   ranking_list: Billboard Hot 100
   start_date: '2020-01-04'
+release_year: 1994
+runtime: 241106
 ---
 I don't want a lot for Christmas
 There is just one thing I need

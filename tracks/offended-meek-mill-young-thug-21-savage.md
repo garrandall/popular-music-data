@@ -1,10 +1,13 @@
 ---
+album: DC4
 artists:
 - Meek Mill
+external_ids:
+  spotify: spotify:track:75as7OijlnyrGWEoYhhWbE
 features:
 - Young Thug
 - 21 Savage
-genres: []
+first_released_as_single: false
 key: offended-meek-mill-young-thug-21-savage
 lyrics_url: https://www.azlyrics.com/lyrics/meekmill/offended.html
 name: Offended
@@ -13,8 +16,9 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '2016-11-19'
+release_year: 2016
+runtime: 255483
 ---
-
 M-m-m-murda
 Meek Milly, Jeffery, woah
 
@@ -117,6 +121,3 @@ I heard the lil boy was plotting on killing me
 Fuck round and lift up they soul like lil Chino be wheelin'
 I usually don't bet but I don't want the ceiling please
 Oxycontin fucking up my kidneys
-
-
-

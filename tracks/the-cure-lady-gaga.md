@@ -1,8 +1,11 @@
 ---
+album: The Cure
 artists:
 - Lady Gaga
+external_ids:
+  spotify: spotify:track:34oB5r0lcN3fYWCs2uA1k5
 features: []
-genres: []
+first_released_as_single: true
 key: the-cure-lady-gaga
 lyrics_url: https://genius.com/Lady-gaga-the-cure-lyrics
 name: The Cure
@@ -63,6 +66,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '2017-08-05'
+release_year: 2017
+runtime: 211363
 ---
 I'll undress you 'cause you're tired
 Cover you as you desire

@@ -1,8 +1,11 @@
 ---
+album: Sam-I-Am
 artists:
 - Sam Harris
+external_ids:
+  spotify: spotify:track:2Kax0KNRaIk7Jg85dFSx4q
 features: []
-genres: []
+first_released_as_single: false
 key: i-d-do-it-all-again-sam-harris
 lyrics_url: https://genius.com/Sam-harris-80s-id-do-it-all-again-lyrics
 name: I'd Do It All Again
@@ -43,6 +46,8 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1986-03-29'
+release_year: 1986
+runtime: 229066
 ---
 Sometimes my heart seems to slip away
 To yesterday

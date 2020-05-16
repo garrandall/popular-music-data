@@ -1,8 +1,11 @@
 ---
+album: Soundtrack To Summer 2019
 artists:
 - Lady Antebellum
+external_ids:
+  spotify: spotify:track:3LyoySNTjsKrBAZYWneQUr
 features: []
-genres: []
+first_released_as_single: true
 key: what-if-i-never-get-over-you-lady-antebellum
 lyrics_url: https://genius.com/Lady-antebellum-what-if-i-never-get-over-you-lyrics
 name: What If I Never Get Over You
@@ -91,6 +94,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2020-01-25'
+release_year: 2019
+runtime: 204639
 ---
 It's supposed to hurt, it's a broken heart
 But to movin' on is the hardest part

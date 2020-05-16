@@ -1,8 +1,11 @@
 ---
+album: The High Road (2018)
 artists:
 - JoJo
+external_ids:
+  spotify: spotify:track:3hc7PLcmuZbJGPjhIore1i
 features: []
-genres: []
+first_released_as_single: false
 key: too-little-too-late-jojo
 lyrics_url: https://www.azlyrics.com/lyrics/jojo/toolittletoolate.html
 name: Too Little Too Late
@@ -95,8 +98,9 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '2007-01-27'
+release_year: 2006
+runtime: 223533
 ---
-
 Come with me
 Stay the night
 You say the words but boy it don't feel right
@@ -188,6 +192,3 @@ But you don't like me
 You just like the chase
 To be real it doesn't matter anyway
 (You know it's just too little too late)
-
-
-

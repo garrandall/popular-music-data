@@ -1,8 +1,11 @@
 ---
+album: Remember Me This Way (Live At The Rainbow)
 artists:
 - Gary Glitter
+external_ids:
+  spotify: spotify:track:3o2mgKlk5Cs5ttLjul7mIe
 features: []
-genres: []
+first_released_as_single: false
 key: i-didn-t-know-i-loved-you--till-i-saw-you-rock-and-roll--gary-glitter
 lyrics_url: https://genius.com/Gary-glitter-i-didnt-know-i-loved-you-till-i-saw-you-rock-and-roll-lyrics
 name: I Didn't Know I Loved You (Till I Saw You Rock And Roll)
@@ -43,6 +46,8 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '1972-12-30'
+release_year: 1972
+runtime: 280653
 ---
 Standing in the corner at the dance last night
 I was almost leaving when you came in sight

@@ -1,8 +1,11 @@
 ---
+album: Welcome To The Real World
 artists:
 - Mr. Mister
+external_ids:
+  spotify: spotify:track:1YPXe8H3ea1UNhA9kjy3PC
 features: []
-genres: []
+first_released_as_single: false
 key: is-it-love-mr--mister
 lyrics_url: https://genius.com/Mr-mister-is-it-love-lyrics
 name: Is It Love
@@ -75,6 +78,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1986-07-19'
+release_year: 1985
+runtime: 217333
 ---
 I say I love you, I hold you near me
 You say I scare you, well that's your fear

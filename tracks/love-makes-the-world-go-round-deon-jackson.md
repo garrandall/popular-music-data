@@ -1,8 +1,11 @@
 ---
+album: Once Upon a Time in the '60s
 artists:
 - Deon Jackson
+external_ids:
+  spotify: spotify:track:4Y7l1eia6itAEAdkxjOlox
 features: []
-genres: []
+first_released_as_single: false
 key: love-makes-the-world-go-round-deon-jackson
 lyrics_url: https://genius.com/Deon-jackson-love-makes-the-world-go-round-lyrics
 name: Love Makes The World Go Round
@@ -63,6 +66,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1966-04-23'
+release_year: 1966
+runtime: 148240
 ---
 You know love makes the world go round
 And love, baby makes the seesaws go up and down

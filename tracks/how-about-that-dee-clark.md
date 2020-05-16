@@ -1,8 +1,11 @@
 ---
+album: Rain Drops
 artists:
 - Dee Clark
+external_ids:
+  spotify: spotify:track:2kV7S1nOw4Jfo8rapygdmd
 features: []
-genres: []
+first_released_as_single: false
 key: how-about-that-dee-clark
 lyrics_url: https://genius.com/Dee-clark-how-about-that-lyrics
 name: How About That
@@ -51,6 +54,8 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '1960-02-15'
+release_year: 1959
+runtime: 161230
 ---
 I've got a feeling
 How about that?
@@ -108,12 +113,7 @@ Please won't you understand
 And take me by the hand
 'Cause I like it (I like it)
 Umm, like it
-How about that?
-
-FADES-
 
 How about that?
-
 How about that?
-
-~
+How about that?

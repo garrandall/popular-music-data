@@ -1,8 +1,11 @@
 ---
+album: What She Wants Tonight
 artists:
 - Luke Bryan
+external_ids:
+  spotify: spotify:track:5M3v6frAiTyqenNAeQVcxC
 features: []
-genres: []
+first_released_as_single: true
 key: what-she-wants-tonight-luke-bryan
 lyrics_url: https://www.azlyrics.com/lyrics/lukebryan/whatshewantstonight.html
 name: What She Wants Tonight
@@ -55,8 +58,9 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '2020-03-21'
+release_year: 2019
+runtime: 186988
 ---
-
 She walks up, velvet rope unhooks
 She snaps her fingers and a drink comes
 She locks you down with just one look
@@ -111,6 +115,3 @@ And I get to be what she wants tonight
 And I get to be what she wants tonight
 
 And I get to be what she wants tonight, tonight
-
-
-

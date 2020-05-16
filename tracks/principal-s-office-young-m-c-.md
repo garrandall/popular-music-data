@@ -1,8 +1,11 @@
 ---
+album: Stone Cold Rhymin'
 artists:
 - Young M.C.
+external_ids:
+  spotify: spotify:track:2t8tS2m4ay8trF9rh28oLg
 features: []
-genres: []
+first_released_as_single: false
 key: principal-s-office-young-m-c-
 lyrics_url: https://genius.com/Young-mc-principals-office-lyrics
 name: Principal's Office
@@ -63,6 +66,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1990-02-24'
+release_year: 1989
+runtime: 255946
 ---
 Now normally if I can help But I don't spend a lot of time in a principal's office
 (RING!)

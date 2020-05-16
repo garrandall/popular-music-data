@@ -1,8 +1,11 @@
 ---
+album: Avril Lavigne
 artists:
 - Avril Lavigne
+external_ids:
+  spotify: spotify:track:471JGLzHPrgM4lS9mNOEIt
 features: []
-genres: []
+first_released_as_single: false
 key: rock-n-roll-avril-lavigne
 lyrics_url: https://www.azlyrics.com/lyrics/avrillavigne/rocknroll.html
 name: Rock N Roll
@@ -11,8 +14,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2013-09-14'
+release_year: 2013
+runtime: 206680
 ---
-
 Let 'em know that we're still rock n roll
 
 I don't care about my make-up
@@ -105,6 +109,3 @@ Rock 'n roll
 Hey hey hey
 Rock 'n roll
 Hey hey hey
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Step II
 artists:
 - Sylvester
+external_ids:
+  spotify: spotify:track:69nzUjtJvdTpaPtsjfWv7h
 features: []
-genres: []
+first_released_as_single: false
 key: dance--disco-heat--sylvester
 lyrics_url: https://genius.com/Sylvester-staline-disco-vietnam-born-to-dance-lyrics
 name: Dance (Disco Heat)
@@ -79,6 +82,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1978-12-16'
+release_year: 1978
+runtime: 352106
 ---
 Sir, Yes sir
 Vietcongs are funky

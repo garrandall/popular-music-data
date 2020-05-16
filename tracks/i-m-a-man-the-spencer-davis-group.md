@@ -1,8 +1,11 @@
 ---
+album: Live Anthology 1965-1968
 artists:
 - The Spencer Davis Group
+external_ids:
+  spotify: spotify:track:1oXq63OUf43LDnNPVtfvX8
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-a-man-the-spencer-davis-group
 lyrics_url: https://genius.com/The-spencer-davis-group-im-a-man-lyrics
 name: I'm A Man
@@ -43,6 +46,8 @@ rankings:
   rank: 24
   ranking_list: Billboard Hot 100
   start_date: '1967-05-20'
+release_year: 1967
+runtime: 171826
 ---
 {Intro}
 

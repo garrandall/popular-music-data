@@ -1,8 +1,11 @@
 ---
+album: Every Home Should Have One
 artists:
 - Patti Austin
+external_ids:
+  spotify: spotify:track:7i5SqzGxw9ycbJIIOEVLXL
 features: []
-genres: []
+first_released_as_single: false
 key: every-home-should-have-one-patti-austin
 lyrics_url: https://www.musixmatch.com/lyrics/Patti-Austin/Every-Home-Should-Have-One
 name: Every Home Should Have One
@@ -67,6 +70,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1983-04-30'
+release_year: 1981
+runtime: 206960
 ---
 You're a young man, a sweet guy
 Handsome, kinda shy

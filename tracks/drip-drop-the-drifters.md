@@ -1,8 +1,11 @@
 ---
+album: Rockin' & Driftin'
 artists:
 - The Drifters
+external_ids:
+  spotify: spotify:track:1jaI8oxzBzLWj1zQ9zQ8CL
 features: []
-genres: []
+first_released_as_single: false
 key: drip-drop-the-drifters
 lyrics_url: https://www.azlyrics.com/lyrics/drifters/dripdrop.html
 name: Drip Drop
@@ -15,8 +18,9 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1958-08-25'
+release_year: 1958
+runtime: 151800
 ---
-
 Drip, drip, drippity drop
 Drip, drip, drippity drop
 
@@ -79,6 +83,3 @@ Woah, oh
 Drip, drip drippity drop
 Woah, oh
 Drip, drip
-
-
-

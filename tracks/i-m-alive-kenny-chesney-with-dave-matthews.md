@@ -1,8 +1,12 @@
 ---
+album: Lucky Old Sun
 artists:
-- Kenny Chesney With Dave Matthews
-features: []
-genres: []
+- Kenny Chesney
+external_ids:
+  spotify: spotify:track:12Nri9FR6o4Gpmrll3O2rW
+features:
+- Dave Matthews
+first_released_as_single: false
 key: i-m-alive-kenny-chesney-with-dave-matthews
 name: I'm Alive
 rankings:
@@ -70,5 +74,7 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '2009-12-19'
+release_year: 2008
+runtime: 197626
 ---
 

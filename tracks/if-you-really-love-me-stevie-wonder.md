@@ -1,8 +1,11 @@
 ---
+album: Where I'm Coming From
 artists:
 - Stevie Wonder
+external_ids:
+  spotify: spotify:track:6Axz5VSkc4Bs8eXWQxnynE
 features: []
-genres: []
+first_released_as_single: false
 key: if-you-really-love-me-stevie-wonder
 lyrics_url: https://genius.com/Stevie-wonder-if-you-really-love-me-lyrics
 name: If You Really Love Me
@@ -63,6 +66,8 @@ rankings:
   rank: 34
   ranking_list: Billboard Hot 100
   start_date: '1971-11-13'
+release_year: 1971
+runtime: 180533
 ---
 And if you really love me won't you tell me
 And if you really love me won't you tell me

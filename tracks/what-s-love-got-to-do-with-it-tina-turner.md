@@ -1,8 +1,11 @@
 ---
+album: Private Dancer (30th Anniversary Issue)
 artists:
 - Tina Turner
+external_ids:
+  spotify: spotify:track:3ErsOxqe2RmXkR65wkygDz
 features: []
-genres: []
+first_released_as_single: false
 key: what-s-love-got-to-do-with-it-tina-turner
 lyrics_url: https://genius.com/Tina-turner-whats-love-got-to-do-with-it-lyrics
 name: What's Love Got To Do With It
@@ -119,6 +122,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1984-11-24'
+release_year: 1984
+runtime: 230240
 ---
 You must understand though the touch of your hand
 Makes my pulse react

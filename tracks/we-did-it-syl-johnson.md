@@ -1,8 +1,11 @@
 ---
+album: Back for a Taste of Your Love
 artists:
 - Syl Johnson
+external_ids:
+  spotify: spotify:track:555CN5iFNZmYZ8xZhEOTTR
 features: []
-genres: []
+first_released_as_single: false
 key: we-did-it-syl-johnson
 lyrics_url: https://genius.com/Syl-johnson-we-did-it-lyrics
 name: We Did It
@@ -19,6 +22,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1973-03-10'
+release_year: 1973
+runtime: 153973
 ---
 It took a whole lot of doin
 But we did it

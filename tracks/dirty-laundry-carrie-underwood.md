@@ -1,8 +1,11 @@
 ---
+album: Storyteller
 artists:
 - Carrie Underwood
+external_ids:
+  spotify: spotify:track:5qRRiqndqXaq2QBudIrkYU
 features: []
-genres: []
+first_released_as_single: false
 key: dirty-laundry-carrie-underwood
 lyrics_url: https://www.azlyrics.com/lyrics/carrieunderwood/dirtylaundry.html
 name: Dirty Laundry
@@ -71,8 +74,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2017-02-18'
+release_year: 2015
+runtime: 204093
 ---
-
 That lipstick on your collar, well, it ain't my shade of pink
 And I can tell by the smell of that perfume, it's like forty dollars too cheap
 And there's a little wine stain on the pocket of your white cotton thread
@@ -120,6 +124,3 @@ All the Ajax in the world ain't gonna clean your dirty laundry
 (To the line)
 
 oh, oh
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Waylon Live
 artists:
 - Waylon Jennings
+external_ids:
+  spotify: spotify:track:16ZREwgB6UTGiK5RpoQ1vH
 features: []
-genres: []
+first_released_as_single: false
 key: the-taker-waylon-jennings
 lyrics_url: https://www.azlyrics.com/lyrics/waylonjennings/thetaker.html
 name: The Taker
@@ -11,8 +14,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1970-10-17'
+release_year: 1970
+runtime: 137200
 ---
-
 He's a giver, he'll give her the kind
 Of attention that she's never known
 He's a helper, he'll help her to open
@@ -47,6 +51,3 @@ He's a taker, he'll take her to places
 And make her fly higher than she's ever dared to
 He'll take his time before takin' advantage
 Takin' her easy and slow
-
-
-

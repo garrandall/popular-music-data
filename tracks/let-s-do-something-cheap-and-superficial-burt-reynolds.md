@@ -1,8 +1,11 @@
 ---
+album: Smokey And The Bandit 2 (Original Motion Picture Soundtrack)
 artists:
 - Burt Reynolds
+external_ids:
+  spotify: spotify:track:2MTM4uYopEbkbcmFib4nEI
 features: []
-genres: []
+first_released_as_single: false
 key: let-s-do-something-cheap-and-superficial-burt-reynolds
 lyrics_url: https://genius.com/Burt-reynolds-lets-do-something-cheap-and-superficial-lyrics
 name: Let's Do Something Cheap And Superficial
@@ -27,6 +30,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1980-11-15'
+release_year: 1980
+runtime: 143693
 ---
 Though your hair is all in tangles
 And your makeup is a mess

@@ -1,8 +1,8 @@
 ---
 artists:
-- Aretha Franklin With James Cleveland
-- The Southern California Community Choir
-features: []
+- Aretha Franklin
+features:
+- James Cleveland
 genres: []
 key: wholy-holy-aretha-franklin-with-james-cleveland-the-southern-california-community-choir
 name: Wholy Holy

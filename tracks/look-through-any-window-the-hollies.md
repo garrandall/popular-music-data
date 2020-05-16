@@ -1,8 +1,11 @@
 ---
+album: Greatest Hits
 artists:
 - The Hollies
+external_ids:
+  spotify: spotify:track:3IIDn9ADtYf1sC5Ov6mcRN
 features: []
-genres: []
+first_released_as_single: false
 key: look-through-any-window-the-hollies
 lyrics_url: https://www.azlyrics.com/lyrics/hollies/lookthroughanywindow.html
 name: Look Through Any Window
@@ -55,8 +58,9 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '1966-02-05'
+release_year: 1965
+runtime: 136333
 ---
-
 Look through any window yeah, what do you see?
 Smilin' faces all around rushin' through the busy town
 
@@ -86,6 +90,3 @@ Smiling faces all around rushin' through the busy town
 Movin' on their way
 Movin' on their way
 Movin' on their way
-
-
-

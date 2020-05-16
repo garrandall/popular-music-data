@@ -1,8 +1,11 @@
 ---
+album: Moving
 artists:
 - Peter, Paul, and Mary
+external_ids:
+  spotify: spotify:track:3hqsBLMAqJqrhr434Z7WlA
 features: []
-genres: []
+first_released_as_single: false
 key: puff--the-magic-dragon--peter-paul-and-mary
 lyrics_url: https://www.azlyrics.com/lyrics/peterpaulandmary/puffthemagicdragon.html
 name: Puff (The Magic Dragon)
@@ -63,8 +66,9 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1963-06-15'
+release_year: 1963
+runtime: 206866
 ---
-
 Puff the magic dragon lived by the sea
 And frolicked in the autumn mist in a land called Honali
 Little Jackie Paper loved that rascal Puff
@@ -99,6 +103,3 @@ Oh, Puff the magic dragon lived by the sea
 And frolicked in the autumn mist in a land called Honali
 Puff the magic dragon lived by the sea
 And frolicked in the autumn mist in a land called Honali
-
-
-

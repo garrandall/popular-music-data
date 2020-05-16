@@ -1,8 +1,11 @@
 ---
+album: Confident
 artists:
 - Demi Lovato
+external_ids:
+  spotify: spotify:track:3DXXKDbbZKyAZfNb96ST3q
 features: []
-genres: []
+first_released_as_single: false
 key: confident-demi-lovato
 lyrics_url: https://www.azlyrics.com/lyrics/demilovato/confident.html
 name: Confident
@@ -87,8 +90,9 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '2016-03-05'
+release_year: 2015
+runtime: 205745
 ---
-
 Are you ready, ha?
 
 It's time for me to take it
@@ -148,6 +152,3 @@ What's wrong with being, what's wrong with being
 What's wrong with being confident?
 What's wrong with being, what's wrong with being
 What's wrong with being confident?
-
-
-

@@ -1,9 +1,12 @@
 ---
+album: A Love Letter To You 3
 artists:
 - Trippie Redd
+external_ids:
+  spotify: spotify:track:0ZPCxNK4DIrF8KqrN3DxfA
 features:
 - Kodie Shane
-genres: []
+first_released_as_single: false
 key: negative-energy-trippie-redd-kodie-shane
 lyrics_url: https://www.azlyrics.com/lyrics/trippieredd/negativeenergy.html
 name: Negative Energy
@@ -12,9 +15,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2018-11-24'
+release_year: 2018
+runtime: 178285
 ---
-
-
 I love Trippie Redd
 Oh, these hoes
 I don't know about these hoes
@@ -112,6 +115,3 @@ Yeah, huh
 Yeah, huh
 Yeah, yeah, ah-ah-ah, yeah
 I had to end this screamin', bitch
-
-
-

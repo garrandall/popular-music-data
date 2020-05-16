@@ -1,9 +1,12 @@
 ---
+album: Loon
 artists:
 - Loon
+external_ids:
+  spotify: spotify:track:0EEYgsFx2xUQcFcQrwwEV3
 features:
 - Kelis
-genres: []
+first_released_as_single: false
 key: how-you-want-that-loon-kelis
 lyrics_url: https://www.azlyrics.com/lyrics/loon/howyouwantthat.html
 name: How You Want That
@@ -32,9 +35,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2003-06-21'
+release_year: 2003
+runtime: 265560
 ---
-
-
 Hah hah hah hahh - hah
 Hah hah hah hahh - hah
 
@@ -115,8 +118,3 @@ Yeah! Bad Boy baby
 The Legacy continues!
 We won't stop, yeah, and another one
 And another one, let's go
-
-
-
-
-

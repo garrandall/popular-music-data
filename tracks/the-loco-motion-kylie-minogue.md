@@ -1,8 +1,11 @@
 ---
+album: Kylie
 artists:
 - Kylie Minogue
+external_ids:
+  spotify: spotify:track:2pX5qSgxQFwlrkjxph8fxb
 features: []
-genres: []
+first_released_as_single: false
 key: the-loco-motion-kylie-minogue
 lyrics_url: https://www.azlyrics.com/lyrics/kylieminogue/thelocomotion.html
 name: The Loco-Motion
@@ -115,8 +118,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1989-02-25'
+release_year: 1988
+runtime: 193920
 ---
-
 The loco-motion, the loco-motion
 The loco-motion, the loco-motion
 The loco-motion, the loco-motion
@@ -151,6 +155,3 @@ Do it holding hands if you got the notion
 There's never been a dance that's so easy to do
 It even makes you happy when you're feeling blue
 So come on, come on
-
-
-

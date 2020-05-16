@@ -1,8 +1,11 @@
 ---
+album: Jealous One's Envy
 artists:
 - Fat Joe
+external_ids:
+  spotify: spotify:track:1mbBAgGpcqE13Zevc2NPah
 features: []
-genres: []
+first_released_as_single: false
 key: envy-fat-joe
 lyrics_url: https://www.azlyrics.com/lyrics/fatjoe/envy.html
 name: Envy
@@ -39,8 +42,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1996-05-04'
+release_year: 1995
+runtime: 251106
 ---
-
 Yo This is going out to all my peeps locked down
 Charlie Rock, LD
 All my peeps who passed away, yeah
@@ -122,6 +126,3 @@ Eat your heart out son, you never was a friend to me
 
 Big Joe, South Bronx
 Represeeeeeent
-
-
-

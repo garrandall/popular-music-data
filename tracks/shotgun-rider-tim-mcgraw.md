@@ -1,8 +1,11 @@
 ---
+album: Let It Go
 artists:
 - Tim McGraw
+external_ids:
+  spotify: spotify:track:28zGAyu24l5tUHXcd6V8YD
 features: []
-genres: []
+first_released_as_single: false
 key: shotgun-rider-tim-mcgraw
 lyrics_url: https://www.azlyrics.com/lyrics/timmcgraw/shotgunrider373587.html
 name: Shotgun Rider
@@ -87,8 +90,9 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '2015-02-28'
+release_year: 2007
+runtime: 263466
 ---
-
 Roll, won't you come roll with me slow, fast, full speed
 Girl wherever sweet time takes us
 Hang, with me down this old road
@@ -137,6 +141,3 @@ No other shotgun rider, Oh Oh
 Singin' to the radio, Oh Oh
 
 You're my shotgun rider.
-
-
-

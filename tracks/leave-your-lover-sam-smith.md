@@ -1,8 +1,11 @@
 ---
+album: In The Lonely Hour
 artists:
 - Sam Smith
+external_ids:
+  spotify: spotify:track:3b5LW3nS3WFQyS1e8ajGJN
 features: []
-genres: []
+first_released_as_single: false
 key: leave-your-lover-sam-smith
 lyrics_url: https://www.azlyrics.com/lyrics/samsmith/leaveyourlover.html
 name: Leave Your Lover
@@ -11,8 +14,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2014-06-07'
+release_year: 2014
+runtime: 188377
 ---
-
 I don't have much to give, but I don't care for gold
 What use is money, when you need someone to hold?
 Don't have direction, I'm just rolling down this road
@@ -45,6 +49,3 @@ I will give you all of me
 Just leave your lover, leave him for me
 Leave your lover, leave him for me.
 Leave your lover, leave him for me.
-
-
-

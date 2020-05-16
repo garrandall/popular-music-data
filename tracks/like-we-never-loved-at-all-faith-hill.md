@@ -1,8 +1,11 @@
 ---
+album: Fireflies (U.S. Release)
 artists:
 - Faith Hill
+external_ids:
+  spotify: spotify:track:5tdbsJQ86BVvjmpTikVP7q
 features: []
-genres: []
+first_released_as_single: false
 key: like-we-never-loved-at-all-faith-hill
 lyrics_url: https://genius.com/Faith-hill-like-we-never-loved-at-all-lyrics
 name: Like We Never Loved At All
@@ -91,6 +94,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2006-02-25'
+release_year: 2005
+runtime: 257693
 ---
 You never looked so good
 As you did last night

@@ -1,8 +1,11 @@
 ---
+album: '5150'
 artists:
 - Van Halen
+external_ids:
+  spotify: spotify:track:0TaT50ZZxT4ytZxuqkE3A9
 features: []
-genres: []
+first_released_as_single: false
 key: why-can-t-this-be-love-van-halen
 lyrics_url: https://genius.com/Van-halen-why-cant-this-be-love-lyrics
 name: Why Can't This Be Love
@@ -71,6 +74,8 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1986-06-28'
+release_year: 1986
+runtime: 227693
 ---
 Oh here it comes
 That funny feeling again

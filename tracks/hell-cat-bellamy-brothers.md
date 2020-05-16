@@ -1,8 +1,11 @@
 ---
+album: Bellamy Brothers
 artists:
 - Bellamy Brothers
+external_ids:
+  spotify: spotify:track:3HMMk3TavbTGLx8GpcpaI7
 features: []
-genres: []
+first_released_as_single: false
 key: hell-cat-bellamy-brothers
 lyrics_url: https://genius.com/The-bellamy-brothers-hell-cat-lyrics
 name: Hell Cat
@@ -19,6 +22,8 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1976-07-24'
+release_year: 1976
+runtime: 192146
 ---
 Hey there, lonely girl
 If you've been too long at home

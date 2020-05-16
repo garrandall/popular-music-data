@@ -1,8 +1,11 @@
 ---
+album: The Works (Deluxe Remastered Version)
 artists:
 - Queen
+external_ids:
+  spotify: spotify:track:1HmzAZUvhQLhLo2z3ocpZI
 features: []
-genres: []
+first_released_as_single: false
 key: radio-ga-ga-queen
 lyrics_url: https://www.azlyrics.com/lyrics/queen/radiogaga.html
 name: Radio Ga Ga
@@ -59,8 +62,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1984-05-12'
+release_year: 1984
+runtime: 348226
 ---
-
 Radio
 
 Radio
@@ -127,6 +131,3 @@ Radio ga ga
 You had your time, you had the power
 You've yet to have your finest hour
 Radio, radio
-
-
-

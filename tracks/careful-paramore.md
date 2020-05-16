@@ -1,8 +1,11 @@
 ---
+album: Brand New Eyes
 artists:
 - Paramore
+external_ids:
+  spotify: spotify:track:63L9AjBDN3SOMbJlBkFqiZ
 features: []
-genres: []
+first_released_as_single: false
 key: careful-paramore
 lyrics_url: https://www.azlyrics.com/lyrics/paramore/careful.html
 name: Careful
@@ -11,8 +14,9 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '2009-10-17'
+release_year: 2009
+runtime: 230440
 ---
-
 I settled down a twisted up frown
 Disguised as a smile, well
 You would have never known
@@ -79,6 +83,3 @@ More
 More
 More
 More, more
-
-
-

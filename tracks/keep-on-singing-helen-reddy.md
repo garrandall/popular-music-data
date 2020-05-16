@@ -1,8 +1,11 @@
 ---
+album: Love Song For Jeffrey
 artists:
 - Helen Reddy
+external_ids:
+  spotify: spotify:track:23nfHc5uqdmVpgH2KqUnaO
 features: []
-genres: []
+first_released_as_single: false
 key: keep-on-singing-helen-reddy
 lyrics_url: https://www.azlyrics.com/lyrics/helenreddy/keeponsinging.html
 name: Keep On Singing
@@ -59,8 +62,9 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '1974-06-01'
+release_year: 1974
+runtime: 184533
 ---
-
 (Keep on singing don't stop singing)
 (You're gonna be a star some day)
 (You're gonna make a lot of people happy)
@@ -107,4 +111,3 @@ Then one rainy April night
 Daddy called me to his side
 He held me with his tremblin hands
 Right before he died
-

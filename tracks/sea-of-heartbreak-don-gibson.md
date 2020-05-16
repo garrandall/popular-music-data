@@ -1,8 +1,11 @@
 ---
+album: 18 Greatest Hits
 artists:
 - Don Gibson
+external_ids:
+  spotify: spotify:track:42Ma28EpRlnJsolwhVxVdU
 features: []
-genres: []
+first_released_as_single: false
 key: sea-of-heartbreak-don-gibson
 lyrics_url: https://genius.com/Don-gibson-sea-of-heartbreak-lyrics
 name: Sea Of Heartbreak
@@ -63,6 +66,8 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '1961-09-18'
+release_year: 1961
+runtime: 139600
 ---
 The lights in the harbor
 Don't shine for me

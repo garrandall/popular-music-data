@@ -1,8 +1,11 @@
 ---
+album: Best Of Bar-Kays
 artists:
 - The Bar-Kays
+external_ids:
+  spotify: spotify:track:6GcbXBic7GsE85wofV3Sd9
 features: []
-genres: []
+first_released_as_single: false
 key: shake-your-rump-to-the-funk-the-bar-kays
 lyrics_url: https://www.musixmatch.com/lyrics/The-Bar-Kays/Shake-Your-Rump-to-the-Funk
 name: Shake Your Rump To The Funk
@@ -71,6 +74,8 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '1977-01-29'
+release_year: 1976
+runtime: 209000
 ---
 Don't stop dancing to the music
 Just let the music make you high

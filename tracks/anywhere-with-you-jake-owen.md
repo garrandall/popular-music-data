@@ -1,8 +1,11 @@
 ---
+album: Barefoot Blue Jean Night
 artists:
 - Jake Owen
+external_ids:
+  spotify: spotify:track:2yWtLaPCOUDyi7f1lOXCn5
 features: []
-genres: []
+first_released_as_single: false
 key: anywhere-with-you-jake-owen
 lyrics_url: https://www.azlyrics.com/lyrics/jakeowen/anywherewithyou.html
 name: Anywhere With You
@@ -87,8 +90,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '2013-08-17'
+release_year: 2011
+runtime: 209586
 ---
-
 If your dream house
 Is a double-wide trailer
 Sittin' back in the holler on a country road
@@ -139,6 +143,3 @@ Just say the word, I'll take you there
 Aww anywhere, anywhere with you
 
 Yeah, I'll go anywhere with you
-
-
-

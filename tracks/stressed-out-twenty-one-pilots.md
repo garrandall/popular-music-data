@@ -1,8 +1,11 @@
 ---
+album: Blurryface
 artists:
 - twenty one pilots
+external_ids:
+  spotify: spotify:track:3CRDbSIZ4r5MsZ0YwxuEkn
 features: []
-genres: []
+first_released_as_single: false
 key: stressed-out-twenty-one-pilots
 lyrics_url: https://www.azlyrics.com/lyrics/twentyonepilots/stressedout.html
 name: Stressed Out
@@ -215,8 +218,9 @@ rankings:
   rank: 38
   ranking_list: Billboard Hot 100
   start_date: '2016-10-01'
+release_year: 2015
+runtime: 202333
 ---
-
 I wish I found some better sounds no one's ever heard
 I wish I had a better voice that sang some better words
 I wish I found some chords in an order that is new
@@ -279,6 +283,3 @@ We would build a rocket ship and then we'd fly it far away
 Used to dream of outer space but now they're laughing at our face
 Saying, "Wake up, you need to make money."
 Yeah
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: 'Tears Of Fire: The 25th Anniversary Collection'
 artists:
 - Tammy Wynette
+external_ids:
+  spotify: spotify:track:6K2dNs7X8I5bLHD90MqqPR
 features: []
-genres: []
+first_released_as_single: false
 key: d-i-v-o-r-c-e-tammy-wynette
 lyrics_url: https://www.azlyrics.com/lyrics/tammywynette/divorce.html
 name: D-I-V-O-R-C-E
@@ -31,8 +34,9 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1968-07-27'
+release_year: 1964
+runtime: 176573
 ---
-
 Our little boy is four years old and quite a little man
 So we spell out the words we don't want him to understand
 Like T-O-Y or maybe S-U-R P-R-I-S-E
@@ -56,6 +60,3 @@ Our D-I-V-O-R-C-E; becomes final today
 Me and little J-O-E will be goin' away
 I love you both and this will be pure H-E double L for me
 Oh, I wish that we could stop this D-I-V-O-R-C-E.
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Dire Straits
 artists:
 - Dire Straits
+external_ids:
+  spotify: spotify:track:6cr6UDpkjEaMQ80OjWqEBQ
 features: []
-genres: []
+first_released_as_single: false
 key: sultans-of-swing-dire-straits
 lyrics_url: https://genius.com/Dire-straits-sultans-of-swing-lyrics
 name: Sultans Of Swing
@@ -67,6 +70,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1979-05-19'
+release_year: 1978
+runtime: 350400
 ---
 You get a shiver in the dark
 It's raining in the park, but meantime

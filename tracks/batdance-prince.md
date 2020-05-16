@@ -1,8 +1,11 @@
 ---
+album: Batman
 artists:
 - Prince
+external_ids:
+  spotify: spotify:track:4DbUk1qwcz9KKcUY4t8f8u
 features: []
-genres: []
+first_released_as_single: false
 key: batdance-prince
 lyrics_url: https://www.azlyrics.com/lyrics/prince/batdance.html
 name: Batdance
@@ -79,8 +82,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1989-10-14'
+release_year: 1989
+runtime: 373733
 ---
-
 "Oh, I got a live one here!"
 Get the funk up!
 BATMAN
@@ -190,6 +194,3 @@ Who's gonna stop 200 balloons?
 Nobody!
 Batman
 Stop!
-
-
-

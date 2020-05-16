@@ -1,8 +1,11 @@
 ---
+album: Millennium
 artists:
 - Bill Pursell
+external_ids:
+  spotify: spotify:track:66HiDLgn9SEfdfLPFHWxuZ
 features: []
-genres: []
+first_released_as_single: false
 key: our-winter-love-bill-pursell
 name: Our Winter Love
 rankings:
@@ -62,5 +65,7 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '1963-05-04'
+release_year: 1954
+runtime: 142693
 ---
 

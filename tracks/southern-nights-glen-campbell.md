@@ -1,8 +1,11 @@
 ---
+album: Southern Nights
 artists:
 - Glen Campbell
+external_ids:
+  spotify: spotify:track:7kv7zBjMtVf0eIJle2VZxn
 features: []
-genres: []
+first_released_as_single: false
 key: southern-nights-glen-campbell
 lyrics_url: https://www.azlyrics.com/lyrics/glencampbell/southernnights.html
 name: Southern Nights
@@ -91,8 +94,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1977-07-02'
+release_year: 1977
+runtime: 180026
 ---
-
 Southern nights
 Have you ever felt a southern night
 Free as a breeze
@@ -138,6 +142,3 @@ Wish I could
 Stop this world from fighting
 Da-da-da-da-da, da-da-da-da-da-da
 Da-da-da-da-da-da, la-da-da, da-da-da-da, da-da-da-da-da-da
-
-
-

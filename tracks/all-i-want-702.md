@@ -1,8 +1,11 @@
 ---
+album: No Doubt
 artists:
 - '702'
+external_ids:
+  spotify: spotify:track:5Jv0xtOTbjkJI9li5WC2fF
 features: []
-genres: []
+first_released_as_single: false
 key: all-i-want-702
 lyrics_url: https://genius.com/702-all-i-want-lyrics
 name: All I Want
@@ -55,6 +58,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1997-11-01'
+release_year: 1996
+runtime: 239266
 ---
 All I want is someone I can talk to
 Someone who will listen to what I have to say

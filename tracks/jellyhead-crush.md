@@ -1,8 +1,11 @@
 ---
+album: Crush
 artists:
 - Crush
+external_ids:
+  spotify: spotify:track:74KqNSCMt6F1Co0WUdH9wq
 features: []
-genres: []
+first_released_as_single: true
 key: jellyhead-crush
 lyrics_url: https://genius.com/Crush-uk-jellyhead-lyrics
 name: Jellyhead
@@ -91,6 +94,8 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1997-01-04'
+release_year: 1996
+runtime: 440173
 ---
 So what if your jeans are torn
 They've been torn since Bros were cool
@@ -126,4 +131,3 @@ I wanna be diving in the blue
 I gotta be out in the evening
 Jellyhead, without you
 Without you
-

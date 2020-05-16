@@ -1,8 +1,11 @@
 ---
+album: 2nd Time Around
 artists:
 - The Spinners
+external_ids:
+  spotify: spotify:track:1l1YTy9nJ0trwhsCGcimly
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-a-shame-the-spinners
 lyrics_url: https://www.azlyrics.com/lyrics/spinners/itsashame.html
 name: It's A Shame
@@ -67,8 +70,9 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1970-10-31'
+release_year: 1970
+runtime: 190058
 ---
-
 It's a shame, the way you mess around with your man
 It's a shame the way you hurt me
 It's a shame, the way you mess around with your man
@@ -106,6 +110,3 @@ You've got my heart in chains, and I must complain
 I just can't be content, oh look at (muttering)
 
 Got to, got to, be a shame
-
-
-

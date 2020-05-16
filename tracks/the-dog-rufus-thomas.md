@@ -1,8 +1,11 @@
 ---
+album: Walking the Dog (Mono)
 artists:
 - Rufus Thomas
+external_ids:
+  spotify: spotify:track:602rnDrA59nfIEcX5Qrlcx
 features: []
-genres: []
+first_released_as_single: false
 key: the-dog-rufus-thomas
 lyrics_url: https://genius.com/Rufus-thomas-walking-the-dog-lyrics
 name: The Dog
@@ -39,6 +42,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1963-06-01'
+release_year: 1963
+runtime: 158089
 ---
 Mary mac, dressed in black
 Silver buttons all down her back

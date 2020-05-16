@@ -1,8 +1,11 @@
 ---
+album: Totally Hot
 artists:
 - Olivia Newton-John
+external_ids:
+  spotify: spotify:track:0HJDrsHHuR55apZj51Ffrk
 features: []
-genres: []
+first_released_as_single: false
 key: totally-hot-olivia-newton-john
 lyrics_url: https://www.azlyrics.com/lyrics/olivianewtonjohn/totallyhot.html
 name: Totally Hot
@@ -31,8 +34,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1979-09-01'
+release_year: 1978
+runtime: 191946
 ---
-
 I want you
 But takin' it easy ain't an easy thing to do
 And I want you, want you
@@ -82,4 +86,3 @@ Gimme what you got, ready or not
 My love is totally hot
 Gimme what you got, ready or not
 My love is totally, totally, totally hot
-

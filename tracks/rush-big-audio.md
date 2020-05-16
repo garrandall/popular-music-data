@@ -1,8 +1,11 @@
 ---
+album: So I Married An Axe Murderer Original Motion Picture Soundtrack
 artists:
 - Big Audio
+external_ids:
+  spotify: spotify:track:4u8Rsnp8Pzvui3WaTWasyY
 features: []
-genres: []
+first_released_as_single: false
 key: rush-big-audio
 lyrics_url: https://genius.com/Big-audio-dynamite-rush-lyrics
 name: Rush
@@ -75,6 +78,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1992-01-11'
+release_year: 1985
+runtime: 188373
 ---
 If I had my time again
 I would do it all the same

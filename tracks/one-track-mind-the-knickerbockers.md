@@ -1,8 +1,11 @@
 ---
+album: Rockin'! with the Knickerbockers
 artists:
 - The Knickerbockers
+external_ids:
+  spotify: spotify:track:20pwNCxtIhD393UkhOpKq3
 features: []
-genres: []
+first_released_as_single: false
 key: one-track-mind-the-knickerbockers
 lyrics_url: https://genius.com/The-knickerbockers-one-track-mind-lyrics
 name: One Track Mind
@@ -35,6 +38,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1966-04-30'
+release_year: 1965
+runtime: 141560
 ---
 There's no denyin' I've been cryin', yeah, without her
 Somebody help me please, I can't forget about her

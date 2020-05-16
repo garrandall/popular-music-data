@@ -1,8 +1,11 @@
 ---
+album: '...Nothing Like The Sun'
 artists:
 - Sting
+external_ids:
+  spotify: spotify:track:4KFM3A5QF2IMcc6nHsu3Wp
 features: []
-genres: []
+first_released_as_single: false
 key: englishman-in-new-york-sting
 lyrics_url: https://www.azlyrics.com/lyrics/sting/englishmaninnewyork.html
 name: Englishman In New York
@@ -23,8 +26,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1988-05-07'
+release_year: 1987
+runtime: 267266
 ---
-
 I don't drink coffee I take tea my dear
 I like my toast done on one side
 And you can hear it in my accent when I talk
@@ -78,6 +82,3 @@ I'm an alien, I'm a legal alien
 I'm an Englishman in New York
 I'm an alien, I'm a legal alien
 I'm an Englishman in New York
-
-
-

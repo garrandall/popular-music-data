@@ -1,8 +1,11 @@
 ---
+album: 70's
 artists:
 - Paul Anka
+external_ids:
+  spotify: spotify:track:1hcM0BlN3klHb8frXelfgW
 features: []
-genres: []
+first_released_as_single: false
 key: midnight-paul-anka
 lyrics_url: https://www.azlyrics.com/lyrics/paulanka/midnight.html
 name: Midnight
@@ -23,8 +26,9 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1958-08-25'
+release_year: 1958
+runtime: 201946
 ---
-
 I'm so young and you're so old
 This my darling I've been told
 I don't care just what they say
@@ -59,6 +63,3 @@ Hold me darling, ho, ho hold me tight
 Squeeze me baby with all your mind
 Oh please stay by me Diana
 Oh Diana, oh please Diana
-
-
-

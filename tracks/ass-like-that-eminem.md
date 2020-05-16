@@ -1,8 +1,11 @@
 ---
+album: Encore (Deluxe Version)
 artists:
 - Eminem
+external_ids:
+  spotify: spotify:track:4gXdMZkBN1neE9nX6yRALa
 features: []
-genres: []
+first_released_as_single: false
 key: ass-like-that-eminem
 lyrics_url: https://genius.com/Eminem-ass-like-that-lyrics
 name: Ass Like That
@@ -35,6 +38,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2005-07-30'
+release_year: 2004
+runtime: 265480
 ---
 Wow, baby
 

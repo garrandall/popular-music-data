@@ -1,8 +1,11 @@
 ---
+album: The Great B.B. King
 artists:
 - B.B. King
+external_ids:
+  spotify: spotify:track:0uzkI8HZYlpfjv0KJFNmnP
 features: []
-genres: []
+first_released_as_single: false
 key: sweet-sixteen-b-b--king
 lyrics_url: https://www.azlyrics.com/lyrics/bbking/sweetsixteen.html
 name: Sweet Sixteen
@@ -19,8 +22,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1972-03-18'
+release_year: 1960
+runtime: 373986
 ---
-
 When I first met you, baby
 Baby, you were just sweet sixteen
 When I first met you, baby
@@ -73,6 +77,3 @@ Baby I wonder
 Yes I wonder
 Baby I wonder
 Oh, I wonder what in the world's gonna happen to me
-
-
-

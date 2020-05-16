@@ -1,8 +1,11 @@
 ---
+album: "Walk Away Ren\xE9e/Pretty Ballerina"
 artists:
 - The Left Banke
+external_ids:
+  spotify: spotify:track:2wvr1ITeMHg51JQXT0gltU
 features: []
-genres: []
+first_released_as_single: false
 key: pretty-ballerina-the-left-banke
 lyrics_url: https://www.azlyrics.com/lyrics/leftbanke/prettyballerina.html
 name: Pretty Ballerina
@@ -47,8 +50,9 @@ rankings:
   rank: 30
   ranking_list: Billboard Hot 100
   start_date: '1967-03-11'
+release_year: 1967
+runtime: 158746
 ---
-
 I had a date with a pretty ballerina
 Her hair so brilliant that it hurt my eyes
 I asked her for this dance and then she obliged me
@@ -78,6 +82,3 @@ Just close your eyes, yeah
 Just close your eyes, and she'll be there"
 She'll be there
 She'll be there
-
-
-

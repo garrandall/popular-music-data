@@ -1,9 +1,12 @@
 ---
+album: Lil Boat 2
 artists:
 - Lil Yachty
+external_ids:
+  spotify: spotify:track:6tarvNiKnEjYMj1VZhlDqR
 features:
 - Trippie Redd
-genres: []
+first_released_as_single: false
 key: 66-lil-yachty-trippie-redd
 lyrics_url: https://www.azlyrics.com/lyrics/lilyachty/66.html
 name: '66'
@@ -12,8 +15,9 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '2018-03-24'
+release_year: 2018
+runtime: 153474
 ---
-
 DY Krazy
 
 Racks up, racks up
@@ -82,6 +86,3 @@ Bad bitch, bubble butt
 High school sellin' beans
 Dropped out now I'm rich
 Flexin' 'til I'm 66
-
-
-

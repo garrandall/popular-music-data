@@ -1,8 +1,11 @@
 ---
+album: A Little Bitty Tear
 artists:
 - Burl Ives
+external_ids:
+  spotify: spotify:track:3XhTHMleuyoQCP8jxOeIhD
 features: []
-genres: []
+first_released_as_single: false
 key: a-little-bitty-tear-burl-ives
 lyrics_url: https://genius.com/Burl-ives-a-little-bitty-tear-lyrics
 name: A Little Bitty Tear
@@ -63,6 +66,8 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '1962-03-24'
+release_year: 1961
+runtime: 125400
 ---
 A little bitty tear let me down, spoiled my act as a clown
 I had it made up not make a frown, but a little bitty tear let me down

@@ -1,8 +1,11 @@
 ---
+album: Phoenix
 artists:
 - Dan Fogelberg
+external_ids:
+  spotify: spotify:track:56ilrbKJF2bph5W6eZaM5E
 features: []
-genres: []
+first_released_as_single: false
 key: longer-dan-fogelberg
 lyrics_url: https://genius.com/Dan-fogelberg-longer-lyrics
 name: Longer
@@ -95,6 +98,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1980-05-10'
+release_year: 1979
+runtime: 195066
 ---
 Longer than
 There've been fishes in the ocean

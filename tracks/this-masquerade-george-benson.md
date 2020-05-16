@@ -1,8 +1,11 @@
 ---
+album: Breezin'
 artists:
 - George Benson
+external_ids:
+  spotify: spotify:track:7uhOlFq30tYkUZ70JwbRre
 features: []
-genres: []
+first_released_as_single: false
 key: this-masquerade-george-benson
 lyrics_url: https://www.azlyrics.com/lyrics/georgebenson/thismasquerade.html
 name: This Masquerade
@@ -83,8 +86,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1976-10-16'
+release_year: 1976
+runtime: 483133
 ---
-
 Are we really happy here
 With this lonely game we play
 Looking for words to say
@@ -117,6 +121,3 @@ No matter how hard I try
 To understand the reasons
 Why we carry on this way
 We're lost in a masquerade
-
-
-

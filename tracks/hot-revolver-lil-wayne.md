@@ -1,8 +1,11 @@
 ---
+album: I Am Not A Human Being II
 artists:
 - Lil Wayne
+external_ids:
+  spotify: spotify:track:4LkhaqJ37e6pb1k8fB9VZI
 features: []
-genres: []
+first_released_as_single: true
 key: hot-revolver-lil-wayne
 lyrics_url: https://www.azlyrics.com/lyrics/lilwayne/hotrevolver.html
 name: Hot Revolver
@@ -19,9 +22,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2009-04-18'
+release_year: 2009
+runtime: 191853
 ---
-
-
 Young mullah, baby
 Umm, young mullah, baby
 
@@ -118,6 +121,3 @@ And so she's gone to party town
 On her own
 And you go by yourself
 So all alone
-
-
-

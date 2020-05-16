@@ -1,8 +1,12 @@
 ---
+album: Lucky Old Sun
 artists:
-- Kenny Chesney With The Wailers
-features: []
-genres: []
+- Kenny Chesney
+external_ids:
+  spotify: spotify:track:3u0iJcNE8fHupAO2OOqGlC
+features:
+- The Wailers
+first_released_as_single: false
 key: everybody-wants-to-go-to-heaven-kenny-chesney-with-the-wailers
 name: Everybody Wants To Go To Heaven
 rankings:
@@ -86,5 +90,7 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2009-01-17'
+release_year: 2008
+runtime: 252986
 ---
 

@@ -1,8 +1,11 @@
 ---
+album: Pyromania
 artists:
 - Def Leppard
+external_ids:
+  spotify: spotify:track:1wv8bYmoqY3TAKKQY3Qn7t
 features: []
-genres: []
+first_released_as_single: false
 key: foolin--def-leppard
 lyrics_url: https://www.azlyrics.com/lyrics/defleppard/foolin.html
 name: Foolin'
@@ -63,8 +66,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1983-12-03'
+release_year: 1983
+runtime: 274117
 ---
-
 Lady Luck never smiles
 So lend your love to me, awhile
 Do with me what you will
@@ -120,6 +124,3 @@ Ah no no
 No no no no
 (I'm not fooling myself)
 No
-
-
-

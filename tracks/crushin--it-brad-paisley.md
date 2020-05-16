@@ -1,8 +1,11 @@
 ---
+album: Moonshine in the Trunk
 artists:
 - Brad Paisley
+external_ids:
+  spotify: spotify:track:3yMVUGqVK5iTTkA8kGChH2
 features: []
-genres: []
+first_released_as_single: false
 key: crushin--it-brad-paisley
 lyrics_url: https://genius.com/Brad-paisley-crushin-it-lyrics
 name: Crushin' It
@@ -67,6 +70,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2015-08-22'
+release_year: 2014
+runtime: 220146
 ---
 I sure could use an attaboy or a big old high five
 I'd love to hear "You're killing it, dude", yeah, it's been a long time

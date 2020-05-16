@@ -1,8 +1,11 @@
 ---
+album: Hi Infidelity
 artists:
 - REO Speedwagon
+external_ids:
+  spotify: spotify:track:4LDvtMPL4joyhDYP2uaphW
 features: []
-genres: []
+first_released_as_single: false
 key: take-it-on-the-run-reo-speedwagon
 lyrics_url: https://genius.com/Reo-speedwagon-take-it-on-the-run-lyrics
 name: Take It On The Run
@@ -87,6 +90,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1981-08-01'
+release_year: 1975
+runtime: 239400
 ---
 Heard it from a friend who
 Heard it from a friend who

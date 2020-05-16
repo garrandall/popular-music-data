@@ -1,8 +1,11 @@
 ---
+album: Funkadelic
 artists:
 - Funkadelic
+external_ids:
+  spotify: spotify:track:1hVFVn2UNASDpcgvf7SpPH
 features: []
-genres: []
+first_released_as_single: false
 key: i-ll-bet-you-funkadelic
 lyrics_url: https://www.musixmatch.com/lyrics/Funkadelic/I-ll-Bet-You
 name: I'll Bet You
@@ -35,6 +38,8 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '1969-11-15'
+release_year: 1969
+runtime: 373240
 ---
 Ice cubes on a red hot stove will melt, and I'll bet ya,
 A drowning man bet his first words are help, and I'll bet ya,

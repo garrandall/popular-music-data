@@ -1,8 +1,11 @@
 ---
+album: Take A Dip
 artists:
 - A Few Good Men
+external_ids:
+  spotify: spotify:track:4qD8RygKB5VpKxwvjOyTDD
 features: []
-genres: []
+first_released_as_single: false
 key: have-i-never-a-few-good-men
 lyrics_url: https://genius.com/A-few-good-men-have-i-never-lyrics
 name: Have I Never
@@ -47,6 +50,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1996-05-25'
+release_year: 1995
+runtime: 336533
 ---
 Have I never told you I love you
 Have I never told you I care

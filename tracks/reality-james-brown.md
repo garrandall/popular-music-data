@@ -1,8 +1,11 @@
 ---
+album: Reality
 artists:
 - James Brown
+external_ids:
+  spotify: spotify:track:1FUXYWHI6XCCxMcTQIsSm1
 features: []
-genres: []
+first_released_as_single: false
 key: reality-james-brown
 lyrics_url: https://www.azlyrics.com/lyrics/jamesbrown/reality.html
 name: Reality
@@ -23,8 +26,9 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '1975-03-15'
+release_year: 1974
+runtime: 281560
 ---
-
 Salvation, inflation
 Depression and recession
 Facing you whether it's in
@@ -88,6 +92,3 @@ Not wanna hear what I tell you
 
 Reality is the thing for me
 Reality is the thing for me...
-
-
-

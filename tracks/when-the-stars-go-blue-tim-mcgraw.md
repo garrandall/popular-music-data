@@ -1,8 +1,11 @@
 ---
+album: Love Story
 artists:
 - Tim McGraw
+external_ids:
+  spotify: spotify:track:7A5uV4KrkkOO7ZipSPCAI6
 features: []
-genres: []
+first_released_as_single: false
 key: when-the-stars-go-blue-tim-mcgraw
 lyrics_url: https://www.azlyrics.com/lyrics/timmcgraw/whenthestarsgoblue.html
 name: When The Stars Go Blue
@@ -87,8 +90,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2006-08-26'
+release_year: 2006
+runtime: 235280
 ---
-
 Dancin' when the stars go blue
 Dancin' when the evening fell
 Dancin' in your wooden shoes
@@ -121,6 +125,3 @@ When the stars go blue
 stars go blue
 stars go blue
 stars go blue
-
-
-

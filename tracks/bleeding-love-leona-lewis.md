@@ -1,8 +1,11 @@
 ---
+album: Spirit
 artists:
 - Leona Lewis
+external_ids:
+  spotify: spotify:track:7wZUrN8oemZfsEd1CGkbXE
 features: []
-genres: []
+first_released_as_single: false
 key: bleeding-love-leona-lewis
 lyrics_url: https://www.azlyrics.com/lyrics/leonalewis/bleedinglove.html
 name: Bleeding Love
@@ -163,8 +166,9 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '2008-11-22'
+release_year: 2007
+runtime: 262466
 ---
-
 Closed off from love
 I didn't need the pain
 Once or twice was enough
@@ -254,6 +258,3 @@ Keep, keep bleeding love
 You cut me open and I
 Keep bleeding
 Keep, keep bleeding love
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: In A Special Way
 artists:
 - Debarge
+external_ids:
+  spotify: spotify:track:64Qr40PagVTJhUHQyHYbB4
 features: []
-genres: []
+first_released_as_single: false
 key: love-me-in-a-special-way-debarge
 lyrics_url: https://www.azlyrics.com/lyrics/debarge/lovemeinaspecialway.html
 name: Love Me In A Special Way
@@ -51,8 +54,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1984-05-26'
+release_year: 1983
+runtime: 255493
 ---
-
 You know you had me
 With your sinchues charm
 Yet you looked so alarmed
@@ -85,6 +89,3 @@ So reach into your chain of thoughts
 Try to find something new
 What works so well with you before
 For me it just won't do
-
-
-

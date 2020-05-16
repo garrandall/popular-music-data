@@ -1,8 +1,11 @@
 ---
+album: Rock 'N Soul
 artists:
 - Solomon Burke
+external_ids:
+  spotify: spotify:track:5l3KQsETL44ZCNtuMrGJkz
 features: []
-genres: []
+first_released_as_single: false
 key: he-ll-have-to-go-solomon-burke
 lyrics_url: https://genius.com/Solomon-burke-hell-have-to-go-lyrics
 name: He'll Have To Go
@@ -39,6 +42,8 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1964-03-28'
+release_year: 1964
+runtime: 199093
 ---
 Put your sweet lips
 A little closer to the phone

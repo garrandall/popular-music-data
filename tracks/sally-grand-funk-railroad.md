@@ -1,8 +1,11 @@
 ---
+album: '30 Years Of Funk: 1969-1999 The Anthology'
 artists:
 - Grand Funk Railroad
+external_ids:
+  spotify: spotify:track:3oUBkTJ6vKXKoEuFQzgUCt
 features: []
-genres: []
+first_released_as_single: false
 key: sally-grand-funk-railroad
 lyrics_url: https://www.azlyrics.com/lyrics/grandfunkrailroad/sally.html
 name: Sally
@@ -23,8 +26,9 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1976-04-10'
+release_year: 1976
+runtime: 196493
 ---
-
 Oh little Sally, you know I love you baby.
 Sally, I said I love you baby.
 Sally ... it's alright, it's alright.
@@ -59,6 +63,3 @@ Sally
 Sally ... it's alright, it's alright.
 It's alright.
 It's alright.
-
-
-

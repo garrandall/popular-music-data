@@ -1,8 +1,11 @@
 ---
+album: Greatest Hits
 artists:
 - Joe Tex
+external_ids:
+  spotify: spotify:track:1Ti8nW5kOkv33Swl3DZveQ
 features: []
-genres: []
+first_released_as_single: false
 key: a-woman-can-change-a-man-joe-tex
 lyrics_url: https://genius.com/Joe-tex-a-woman-can-change-a-man-lyrics
 name: A Woman Can Change A Man
@@ -35,6 +38,8 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '1965-05-22'
+release_year: 1965
+runtime: 164866
 ---
 A man can say what he won't do
 But if she really, really wants to

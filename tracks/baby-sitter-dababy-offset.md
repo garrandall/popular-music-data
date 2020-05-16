@@ -1,9 +1,12 @@
 ---
+album: Baby On Baby
 artists:
 - DaBaby
+external_ids:
+  spotify: spotify:track:7f1zjZG77S891Uv4O68yfk
 features:
 - Offset
-genres: []
+first_released_as_single: false
 key: baby-sitter-dababy-offset
 lyrics_url: https://www.azlyrics.com/lyrics/dababy/babysitter.html
 name: Baby Sitter
@@ -88,9 +91,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2020-01-04'
+release_year: 2019
+runtime: 157693
 ---
-
-
 You know I ain't come to play, let's get it (Turn me up)
 I'm snappin' off the rip
 Your ho say I'm her favorite nigga (Hah)
@@ -158,6 +161,3 @@ I just did a show and pulled off laughin' on a hatin' nigga (Hah)
 Them bitches aimin' at y'all fast, I'm on these rapper niggas' ass
 I pulled that .40 out, he better have an angel with him
 Fuck all them niggas and whoever they got hangin' with 'em, bitch
-
-
-

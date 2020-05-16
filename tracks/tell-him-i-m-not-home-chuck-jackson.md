@@ -1,8 +1,11 @@
 ---
+album: Super Hits
 artists:
 - Chuck Jackson
+external_ids:
+  spotify: spotify:track:2QcP1XPIx69G1UfYiBeuDu
 features: []
-genres: []
+first_released_as_single: false
 key: tell-him-i-m-not-home-chuck-jackson
 lyrics_url: https://genius.com/Chuck-jackson-tell-him-im-not-home-lyrics
 name: Tell Him I'm Not Home
@@ -47,6 +50,8 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '1963-04-06'
+release_year: 1963
+runtime: 157226
 ---
 Every time I call you on the phone
 They tell me that you're not at home

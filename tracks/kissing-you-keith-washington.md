@@ -1,8 +1,11 @@
 ---
+album: Make Time For Love
 artists:
 - Keith Washington
+external_ids:
+  spotify: spotify:track:6LqiE1yBBf9IuTxaTpTyiF
 features: []
-genres: []
+first_released_as_single: false
 key: kissing-you-keith-washington
 lyrics_url: https://genius.com/Keith-washington-kissing-you-lyrics
 name: Kissing You
@@ -59,6 +62,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1991-08-17'
+release_year: 1991
+runtime: 260013
 ---
 Thinking of you
 That's all I seem to do

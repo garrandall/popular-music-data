@@ -1,8 +1,11 @@
 ---
+album: Chase Bryant
 artists:
 - Chase Bryant
+external_ids:
+  spotify: spotify:track:4AumKAnMygP1baZGTZrRdp
 features: []
-genres: []
+first_released_as_single: true
 key: little-bit-of-you-chase-bryant
 lyrics_url: https://www.azlyrics.com/lyrics/chasebryant/littlebitofyou.html
 name: Little Bit Of You
@@ -51,8 +54,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2016-05-07'
+release_year: 2014
+runtime: 186240
 ---
-
 I hope that I ain't callin' too late baby
 Hope you ain't closed those pretty blue eyes
 Have you looked out of your window lately?
@@ -98,6 +102,3 @@ That thing you do that drives me wild
 Your kiss, your touch
 I could use a little, I could use a little bit of you right now
 I wanna put my arms around a little bit of you right now
-
-
-

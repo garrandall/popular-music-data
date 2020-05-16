@@ -1,8 +1,11 @@
 ---
+album: thank u, next
 artists:
 - Ariana Grande
+external_ids:
+  spotify: spotify:track:2QIcCx7MV914oIL2JmBoBV
 features: []
-genres: []
+first_released_as_single: false
 key: in-my-head-ariana-grande
 lyrics_url: https://genius.com/Ariana-grande-in-my-head-lyrics
 name: In My Head
@@ -15,6 +18,8 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '2019-03-02'
+release_year: 2018
+runtime: 222946
 ---
 Here's the thing: you’re in love with a version of a person that you've created in your head, that you are trying to but cannot fix. Uh, the only person you can fix is yourself. I love you, this has gone on way too long. Enough is enough. I'm two blocks away, I’m coming over.​
 

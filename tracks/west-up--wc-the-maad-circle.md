@@ -1,9 +1,12 @@
 ---
+album: Curb Servin'
 artists:
 - WC
 - The Maad Circle
+external_ids:
+  spotify: spotify:track:3nBeTAYJqOOp2pweHRrmhK
 features: []
-genres: []
+first_released_as_single: false
 key: west-up--wc-the-maad-circle
 lyrics_url: https://genius.com/Wc-and-the-maad-circle-west-up-lyrics
 name: West Up!
@@ -48,6 +51,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1995-12-02'
+release_year: 1995
+runtime: 284266
 ---
 Intro: WC
 

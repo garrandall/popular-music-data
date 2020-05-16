@@ -1,9 +1,12 @@
 ---
+album: 'The Ultimate Collection: Martha Reeves & The Vandellas'
 artists:
 - Martha
 - The Vandellas
+external_ids:
+  spotify: spotify:track:4Ig4vq3GJwqH6iME0OZnkM
 features: []
-genres: []
+first_released_as_single: false
 key: you-ve-been-in-love-too-long-martha-the-vandellas
 lyrics_url: https://genius.com/Martha-reeves-and-the-vandellas-youve-been-in-love-too-long-lyrics
 name: You've Been In Love Too Long
@@ -36,6 +39,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1965-09-25'
+release_year: 1965
+runtime: 176533
 ---
 Girls, you've been in love too long
 (You're a fool for your baby)

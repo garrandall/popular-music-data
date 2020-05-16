@@ -1,8 +1,11 @@
 ---
+album: Rain Rainbow
 artists:
 - Larry Gatlin
+external_ids:
+  spotify: spotify:track:25qglwxPAqbsoxEadu90Sb
 features: []
-genres: []
+first_released_as_single: false
 key: delta-dirt-larry-gatlin
 lyrics_url: https://www.musixmatch.com/lyrics/Larry-Gatlin-The-Gatlin-Brothers-Band/Delta-Dirt
 name: Delta Dirt
@@ -23,6 +26,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1974-10-05'
+release_year: 1974
+runtime: 132040
 ---
 I wandered far away from the place
 Where I was born and raised

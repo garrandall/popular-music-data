@@ -1,8 +1,11 @@
 ---
+album: Shot Through The Heart
 artists:
 - Jennifer Warnes
+external_ids:
+  spotify: spotify:track:0kKR1aI2hQjkEhPm5BOnzD
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-make-me-over-jennifer-warnes
 lyrics_url: https://genius.com/Jennifer-warnes-dont-make-me-over-lyrics
 name: Don't Make Me Over
@@ -35,6 +38,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1980-02-02'
+release_year: 1979
+runtime: 259640
 ---
 Don't make me over
 Now that I can't make it without you

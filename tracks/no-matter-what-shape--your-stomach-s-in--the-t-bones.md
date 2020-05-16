@@ -1,8 +1,11 @@
 ---
+album: Deep Into The Sixties - 20 Rare Grooves
 artists:
 - The T-Bones
+external_ids:
+  spotify: spotify:track:5Nqy1U3dBvZJJhqFmnCIet
 features: []
-genres: []
+first_released_as_single: false
 key: no-matter-what-shape--your-stomach-s-in--the-t-bones
 name: No Matter What Shape (Your Stomach's In)
 rankings:
@@ -58,5 +61,7 @@ rankings:
   rank: 35
   ranking_list: Billboard Hot 100
   start_date: '1966-03-05'
+release_year: 1965
+runtime: 143386
 ---
 

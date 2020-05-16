@@ -1,8 +1,11 @@
 ---
+album: You're So Beautiful
 artists:
 - Charles Wright And The Watts 103rd Street Rhythm Band
+external_ids:
+  spotify: spotify:track:66Sp0XpvwCTlOPASIQsdD5
 features: []
-genres: []
+first_released_as_single: false
 key: your-love--means-everything-to-me--charles-wright-and-the-watts-103rd-street-rhythm-band
 name: Your Love (Means Everything to Me)
 rankings:
@@ -22,5 +25,7 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '1971-06-05'
+release_year: 1970
+runtime: 183933
 ---
 

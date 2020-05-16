@@ -1,8 +1,11 @@
 ---
+album: Tea For The Tillerman
 artists:
 - Cat Stevens
+external_ids:
+  spotify: spotify:track:6Xz7FeyE8HTP90HecgHV57
 features: []
-genres: []
+first_released_as_single: false
 key: wild-world-cat-stevens
 lyrics_url: https://genius.com/Cat-stevens-wild-world-lyrics
 name: Wild World
@@ -59,6 +62,8 @@ rankings:
   rank: 23
   ranking_list: Billboard Hot 100
   start_date: '1971-05-08'
+release_year: 1970
+runtime: 200173
 ---
 La-la-la-la-la-la-la-la, la, la
 La-la-la-la-la-la-la-la, la, la

@@ -1,9 +1,12 @@
 ---
+album: Music To Be Murdered By
 artists:
 - Eminem
+external_ids:
+  spotify: spotify:track:0q2vG0UVuy6ajjcpkQHdZM
 features:
 - Young M.A
-genres: []
+first_released_as_single: false
 key: unaccommodating-eminem-young-m-a
 lyrics_url: https://www.azlyrics.com/lyrics/eminem/unaccommodating.html
 name: Unaccommodating
@@ -16,8 +19,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2020-02-08'
+release_year: 2020
+runtime: 216600
 ---
-
 Oh, this what we doin'? Alright
 M.A
 
@@ -121,6 +125,3 @@ Here comes Saddam Hussein, Ayatollah Khomeini
 Where's Osama been? I been laden lately
 Look at how I'm behaving, they want me gone away
 They wanna JonBenet me (Fuck you), I'm unaccommodating
-
-
-

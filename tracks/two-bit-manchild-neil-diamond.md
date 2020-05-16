@@ -1,8 +1,11 @@
 ---
+album: Velvet Gloves And Spit
 artists:
 - Neil Diamond
+external_ids:
+  spotify: spotify:track:6C6m2tqQliQ6wReSb30jKJ
 features: []
-genres: []
+first_released_as_single: false
 key: two-bit-manchild-neil-diamond
 lyrics_url: https://www.azlyrics.com/lyrics/neildiamond/twobitmanchild.html
 name: Two-Bit Manchild
@@ -31,8 +34,9 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '1968-08-17'
+release_year: 1968
+runtime: 187600
 ---
-
 I'm walkin'
 But I'm going nowhere at all
 I'm 'bout to head any place in the world
@@ -88,6 +92,3 @@ Good time lovin'
 Hear what I 'm saying, baby
 Two bit manchild
 Good for nothin'
-
-
-

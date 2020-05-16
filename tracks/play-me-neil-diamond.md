@@ -1,8 +1,11 @@
 ---
+album: Moods
 artists:
 - Neil Diamond
+external_ids:
+  spotify: spotify:track:2DjLbdQ9q2QBd4JJxM40Uf
 features: []
-genres: []
+first_released_as_single: false
 key: play-me-neil-diamond
 lyrics_url: https://genius.com/Neil-diamond-play-me-lyrics
 name: Play Me
@@ -51,6 +54,8 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1972-10-21'
+release_year: 1972
+runtime: 232066
 ---
 She was morning, and I was night time
 I one day woke up

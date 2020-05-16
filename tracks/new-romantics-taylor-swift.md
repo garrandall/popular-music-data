@@ -1,8 +1,11 @@
 ---
+album: '1989'
 artists:
 - Taylor Swift
+external_ids:
+  spotify: spotify:track:6rZVy6FIG7lSJQMFXHo12z
 features: []
-genres: []
+first_released_as_single: false
 key: new-romantics-taylor-swift
 lyrics_url: https://www.azlyrics.com/lyrics/taylorswift/newromantics.html
 name: New Romantics
@@ -39,9 +42,9 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '2016-05-07'
+release_year: 2014
+runtime: 230466
 ---
-
-
 "The fans are the best part of this tour
 They are the reason the shows are incredible
 And I know those fans out there, are just all in"
@@ -131,6 +134,3 @@ The best people in life are free
 That was everything
 We're all really sad that it's ending
 But we're really happy because of what it was"
-
-
-

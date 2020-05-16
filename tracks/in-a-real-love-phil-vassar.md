@@ -1,8 +1,11 @@
 ---
+album: Shaken Not Stirred
 artists:
 - Phil Vassar
+external_ids:
+  spotify: spotify:track:5vURcDdiLrn2dgylmGLvoG
 features: []
-genres: []
+first_released_as_single: false
 key: in-a-real-love-phil-vassar
 lyrics_url: https://www.azlyrics.com/lyrics/philvassar/inareallove.html
 name: In A Real Love
@@ -87,8 +90,9 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '2005-01-15'
+release_year: 2000
+runtime: 210893
 ---
-
 Well, I was 18, makin' minimum wage,
 With a Letterman jacket and a Chevrolet.
 I thought I was cool, yeah, I ruled the school.
@@ -135,6 +139,3 @@ Yeah, it's a real love, baby.
 Whoa, it's a real, real, real, real, real, real, real love.
 Yeah, that's right.
 Hey.
-
-
-

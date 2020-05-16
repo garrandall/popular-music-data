@@ -1,8 +1,11 @@
 ---
+album: Poems, Prayers and Promises
 artists:
 - John Denver
+external_ids:
+  spotify: spotify:track:08ZAVXwts5Ye1PFBNo3NGS
 features: []
-genres: []
+first_released_as_single: false
 key: my-sweet-lady-john-denver
 lyrics_url: https://www.azlyrics.com/lyrics/johndenver/mysweetlady.html
 name: My Sweet Lady
@@ -51,8 +54,9 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '1977-05-21'
+release_year: 1971
+runtime: 263760
 ---
-
 Lady, are you crying, do the tears belong to me
 Did you think our time together was all gone
 Lady, you've been dreaming. I'm as close as I can be
@@ -75,6 +79,3 @@ Did you think our time together was all gone
 Lady, my sweet lady
 I'm as close as I can be
 And I swear to you our time has just begun
-
-
-

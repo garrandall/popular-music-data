@@ -1,8 +1,11 @@
 ---
+album: In Concert (Live In Concert, US/1971)
 artists:
 - Rare Earth
+external_ids:
+  spotify: spotify:track:3mwtJqSIswletCvDNjeOGZ
 features: []
-genres: []
+first_released_as_single: false
 key: what-d-i-say-rare-earth
 lyrics_url: https://genius.com/Rare-earth-whatd-i-say-lyrics
 name: What'd I Say
@@ -27,6 +30,8 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '1972-05-06'
+release_year: 1971
+runtime: 389706
 ---
 Hey mama, don't you treat me wrong
 Come and love me all night long

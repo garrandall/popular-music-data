@@ -1,8 +1,11 @@
 ---
+album: Streets Of Gold
 artists:
 - 3OH!3
+external_ids:
+  spotify: spotify:track:5jyDUXlAVUh4XJEJIJgapB
 features: []
-genres: []
+first_released_as_single: false
 key: i-can-do-anything-3oh-3
 lyrics_url: https://www.azlyrics.com/lyrics/3oh3/icandoanything.html
 name: I Can Do Anything
@@ -11,8 +14,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2010-07-17'
+release_year: 2010
+runtime: 190880
 ---
-
 We can do an album,
 Or we can do a viral,
 Spread it like an STD you got back in high school,
@@ -97,6 +101,3 @@ Anything, anything, anything I want,
 Anything, anything, anything I want,
 It's golden now
 Why would I slow down?
-
-
-

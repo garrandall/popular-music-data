@@ -1,8 +1,11 @@
 ---
+album: So Good
 artists:
 - Zara Larsson
+external_ids:
+  spotify: spotify:track:3YPlsrk0Voe8AOa1jyN891
 features: []
-genres: []
+first_released_as_single: true
 key: ain-t-my-fault-zara-larsson
 lyrics_url: https://genius.com/Zara-larsson-aint-my-fault-lyrics
 name: Ain't My Fault
@@ -35,6 +38,8 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '2016-12-10'
+release_year: 2016
+runtime: 158772
 ---
 Oh my, oh my, oh my
 Oh my, oh my, oh my

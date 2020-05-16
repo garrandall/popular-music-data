@@ -1,8 +1,11 @@
 ---
+album: Some Days Are Diamonds
 artists:
 - John Denver
+external_ids:
+  spotify: spotify:track:0qDfEI0vWeKhJn1KfglaM7
 features: []
-genres: []
+first_released_as_single: false
 key: the-cowboy-and-the-lady-john-denver
 lyrics_url: https://www.azlyrics.com/lyrics/johndenver/thecowboyandthelady.html
 name: The Cowboy And The Lady
@@ -35,8 +38,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1981-12-12'
+release_year: 1981
+runtime: 277546
 ---
-
 In the airport lounge she sat, in a fancy feathered hat, the grandest lady I had ever seen.
 Outside the heavy rain had grounded all the planes, so I asked her if she'd like some company.
 In my rhinestone studded suit, my cowboy hat and boots, I must have been a sight for her to see.
@@ -59,6 +63,3 @@ And somewhere in between her Harvey's Bristol Cream
 and the beer I drank and the easy company,
 we somehow came together, for a night of stormy weather,
 now there's a little bit of class in this old cowboy, there's a little bit of cowboy in the lady.
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Alpha
 artists:
 - Asia
+external_ids:
+  spotify: spotify:track:7vVnb8HK2J3eiPOYsd7cG3
 features: []
-genres: []
+first_released_as_single: false
 key: go-asia
 lyrics_url: https://genius.com/Asia-go-lyrics
 name: Go
@@ -51,6 +54,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1986-02-15'
+release_year: 1983
+runtime: 296333
 ---
 Dig for victory, go for gold
 I don't wanna die before I get old

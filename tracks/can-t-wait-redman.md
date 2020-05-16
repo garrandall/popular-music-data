@@ -1,8 +1,11 @@
 ---
+album: Dare Iz A Darkside
 artists:
 - Redman
+external_ids:
+  spotify: spotify:track:0gr7MtWpDjyWK3E0xCbJCX
 features: []
-genres: []
+first_released_as_single: false
 key: can-t-wait-redman
 lyrics_url: https://genius.com/Redman-cant-wait-lyrics
 name: Can't Wait
@@ -23,6 +26,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1995-03-18'
+release_year: 1994
+runtime: 252613
 ---
 Possibly a lot of rain this afternoon, with thunderstorms, highs in the mid-80s and lows about 75 degrees
 It's 11:30 AM on WFDS—We're From the Darkside Radio

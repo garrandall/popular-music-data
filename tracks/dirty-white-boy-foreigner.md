@@ -1,8 +1,11 @@
 ---
+album: Head Games
 artists:
 - Foreigner
+external_ids:
+  spotify: spotify:track:2xpvmhp8j0UL9mCEqB1U0L
 features: []
-genres: []
+first_released_as_single: false
 key: dirty-white-boy-foreigner
 lyrics_url: https://www.azlyrics.com/lyrics/foreigner/dirtywhiteboy.html
 name: Dirty White Boy
@@ -63,8 +66,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1979-12-08'
+release_year: 1979
+runtime: 218866
 ---
-
 Hey, baby, if you're feelin' down
 I know what's good for you all day
 Are you worried what your friends see
@@ -107,6 +111,3 @@ Dirty white boy
 Hey, I'm a dirty white boy
 Dirty white boy, yeah, I'm a dirty white boy
 Dirty white boy, dirty white boy, yeah
-
-
-

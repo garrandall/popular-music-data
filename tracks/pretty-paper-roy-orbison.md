@@ -1,8 +1,11 @@
 ---
+album: Live From Queen's Theatre
 artists:
 - Roy Orbison
+external_ids:
+  spotify: spotify:track:5m9I1v9lHr8nmNoqaQXqgX
 features: []
-genres: []
+first_released_as_single: false
 key: pretty-paper-roy-orbison
 lyrics_url: https://genius.com/Roy-orbison-pretty-paper-lyrics
 name: Pretty Paper
@@ -35,6 +38,8 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '1964-01-25'
+release_year: 1947
+runtime: 165360
 ---
 (The pretty paper, pretty ribbons of blue)
 

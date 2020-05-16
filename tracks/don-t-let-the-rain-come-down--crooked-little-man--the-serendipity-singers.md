@@ -1,8 +1,11 @@
 ---
+album: 'Don''t Let The Rain Come Down: The Best Of The Serendipity Singers'
 artists:
 - The Serendipity Singers
+external_ids:
+  spotify: spotify:track:43tXphvUlXym54Z0cg1rjd
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-let-the-rain-come-down--crooked-little-man--the-serendipity-singers
 lyrics_url: https://genius.com/The-serendipity-singers-dont-let-the-rain-come-down-crooked-little-man-lyrics
 name: Don't Let The Rain Come Down (Crooked Little Man)
@@ -63,6 +66,8 @@ rankings:
   rank: 37
   ranking_list: Billboard Hot 100
   start_date: '1964-05-30'
+release_year: 1964
+runtime: 166360
 ---
 (Ah, ah)
 Oh, no, don't let the rain come down

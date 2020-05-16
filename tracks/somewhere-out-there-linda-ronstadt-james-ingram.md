@@ -1,9 +1,12 @@
 ---
+album: An American Tail
 artists:
 - Linda Ronstadt
 - James Ingram
+external_ids:
+  spotify: spotify:track:6Zd6gSMyyjSybIw4lK9Ecy
 features: []
-genres: []
+first_released_as_single: false
 key: somewhere-out-there-linda-ronstadt-james-ingram
 lyrics_url: https://genius.com/Linda-ronstadt-and-james-ingram-somewhere-out-there-lyrics
 name: Somewhere Out There
@@ -96,6 +99,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1987-05-16'
+release_year: 1986
+runtime: 238173
 ---
 Somewhere out there
 Beneath the pale moonlight

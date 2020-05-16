@@ -1,8 +1,11 @@
 ---
+album: Illinois
 artists:
 - Brett Eldredge
+external_ids:
+  spotify: spotify:track:1XazlqB4YAtvouCmJPWXlM
 features: []
-genres: []
+first_released_as_single: false
 key: wanna-be-that-song-brett-eldredge
 lyrics_url: https://www.azlyrics.com/lyrics/bretteldredge/wannabethatsong.html
 name: Wanna Be That Song
@@ -87,8 +90,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2017-03-04'
+release_year: 2015
+runtime: 236226
 ---
-
 The radio and a sundress
 Making my world all a mess
 Back corner of a cornfield
@@ -145,6 +149,3 @@ When the highway's calling
 When the bottle's dry
 When the sky is falling and you're asking yourself why
 Oh, Oh, I wanna be, yeah, oh.
-
-
-

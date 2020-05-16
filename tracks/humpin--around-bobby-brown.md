@@ -1,8 +1,11 @@
 ---
+album: Bobby
 artists:
 - Bobby Brown
+external_ids:
+  spotify: spotify:track:36tOpYpo1omPwIab8ebEkW
 features: []
-genres: []
+first_released_as_single: false
 key: humpin--around-bobby-brown
 lyrics_url: https://www.azlyrics.com/lyrics/bobbybrown/humpinaround.html
 name: Humpin' Around
@@ -87,8 +90,9 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1992-12-19'
+release_year: 1992
+runtime: 378493
 ---
-
 When you trust someone
 and you know you're on their back
 You ain't got no trusting about you
@@ -162,4 +166,3 @@ Why do you think I'm foolin' around
 I can't stand the pressure
 You know I'm yours forever
 Ain't nobody, nobody, nobody humpin' around
-

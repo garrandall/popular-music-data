@@ -1,9 +1,12 @@
 ---
+album: It's About Time
 artists:
 - Christina Milian
+external_ids:
+  spotify: spotify:track:3dWwcgXF8C4bguGHoWQkG3
 features:
 - Joe Budden
-genres: []
+first_released_as_single: false
 key: whatever-u-want-christina-milian-joe-budden
 lyrics_url: https://www.azlyrics.com/lyrics/christinamilian/whateveruwant.html
 name: Whatever U Want
@@ -12,9 +15,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2004-10-09'
+release_year: 2004
+runtime: 229333
 ---
-
-
 Once again it's on
 And we gonna ride out
 Once again till dawn
@@ -88,6 +91,3 @@ Whatever you need that's me
 
 Whatever you want I got it,
 Whatever you need that... that's me
-
-
-

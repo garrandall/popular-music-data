@@ -1,8 +1,11 @@
 ---
+album: Let's Get Ready
 artists:
 - Mystikal
+external_ids:
+  spotify: spotify:track:1jRzdY7oUBOhrylNtiMtBD
 features: []
-genres: []
+first_released_as_single: false
 key: shake-ya-ass-mystikal
 lyrics_url: https://genius.com/Mystikal-shake-ya-ass-lyrics
 name: Shake Ya Ass
@@ -87,6 +90,8 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '2000-12-23'
+release_year: 2000
+runtime: 256973
 ---
 Mmm! Mmm, mmm, mmm
 Oh-OOOH!

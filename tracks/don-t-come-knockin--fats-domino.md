@@ -1,8 +1,11 @@
 ---
+album: A Lot Of Dominos
 artists:
 - Fats Domino
+external_ids:
+  spotify: spotify:track:7rtkJqHIA5i5kcPnMzzBMp
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-come-knockin--fats-domino
 lyrics_url: https://www.musixmatch.com/lyrics/Fats-Domino/Don-t-Come-Knockin
 name: Don't Come Knockin'
@@ -51,6 +54,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1960-09-05'
+release_year: 1960
+runtime: 117493
 ---
 Don't come knockin' on my door
 I don't want you round no more, no more

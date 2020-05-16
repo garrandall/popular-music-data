@@ -1,8 +1,11 @@
 ---
+album: Fascination!
 artists:
 - The Human League
+external_ids:
+  spotify: spotify:track:4FZOj1X9ypXqxAm45kUkdP
 features: []
-genres: []
+first_released_as_single: false
 key: mirror-man-the-human-league
 lyrics_url: https://www.azlyrics.com/lyrics/humanleague/mirrorman.html
 name: Mirror Man
@@ -55,8 +58,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1983-12-17'
+release_year: 1981
+runtime: 230600
 ---
-
 The water shines
 A pebble skips across the face
 A dozen times
@@ -108,6 +112,3 @@ Here comes the mirror man
 The mirror man)
 Here comes the mirror man
 Says he's a people fan.
-
-
-

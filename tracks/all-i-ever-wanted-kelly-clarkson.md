@@ -1,8 +1,11 @@
 ---
+album: All I Ever Wanted
 artists:
 - Kelly Clarkson
+external_ids:
+  spotify: spotify:track:31wPF6zccO0cINHfUS7wWb
 features: []
-genres: []
+first_released_as_single: false
 key: all-i-ever-wanted-kelly-clarkson
 lyrics_url: https://www.azlyrics.com/lyrics/kellyclarkson/allieverwanted.html
 name: All I Ever Wanted
@@ -31,8 +34,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2010-05-29'
+release_year: 2009
+runtime: 238190
 ---
-
 Tear up the photographs
 But yesterday won't let go
 Every day ever day every minute
@@ -70,4 +74,3 @@ Tell me with so many out there why I always turn to you
 Your goodbyes tear me down every time
 And it's so easy to see
 That the blame is on me
-

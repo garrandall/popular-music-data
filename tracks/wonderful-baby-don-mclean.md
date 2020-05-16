@@ -1,8 +1,11 @@
 ---
+album: Homeless Brother
 artists:
 - Don McLean
+external_ids:
+  spotify: spotify:track:5LeHDlS5ly8bZP2nh1AT8M
 features: []
-genres: []
+first_released_as_single: false
 key: wonderful-baby-don-mclean
 lyrics_url: https://www.azlyrics.com/lyrics/donmclean/wonderfulbaby.html
 name: Wonderful Baby
@@ -19,8 +22,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1975-06-28'
+release_year: 1974
+runtime: 123093
 ---
-
 Wonderful baby livin' on love the
 sandman says maybe he'll take you above,
 up where the girls fly on ribbons and bows, where babies float by, just 
@@ -47,6 +51,3 @@ you can do. You're a wonderful baby livin' on love the sandman says maybe he'll
 take you above, up where the girls fly on ribbons and bows, where babies float 
 by, just counting their toes, where
 babies float by, just counting their toes...
-
-
-

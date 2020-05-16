@@ -1,8 +1,11 @@
 ---
+album: 80's Pop Classics
 artists:
 - Oxo
+external_ids:
+  spotify: spotify:track:1eHVOJZohsMwgo7cLL7sgn
 features: []
-genres: []
+first_released_as_single: false
 key: whirly-girl-oxo
 lyrics_url: https://genius.com/Oxo-whirly-girl-lyrics
 name: Whirly Girl
@@ -63,6 +66,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1983-05-21'
+release_year: 1983
+runtime: 174335
 ---
 Let me tell you 'bout the girl I know
 She's been to Paris, France

@@ -1,8 +1,11 @@
 ---
+album: '1999'
 artists:
 - Prince
+external_ids:
+  spotify: spotify:track:31ink8UgWSYUXz0hPasoif
 features: []
-genres: []
+first_released_as_single: false
 key: let-s-pretend-we-re-married-prince
 lyrics_url: https://www.azlyrics.com/lyrics/prince/letspretendweremarried.html
 name: LET's PRETEND WE'rE MARRIED
@@ -47,8 +50,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1984-02-18'
+release_year: 1982
+runtime: 441586
 ---
-
 Excuse me but I need a mouth like yours
 2 help me forget the girl that just walked out my door
 Funny but it seems that you're alone like me
@@ -129,6 +133,3 @@ If you think I'm crazy, you're probably right
 But I'm gonna have fun every motherfuckin' night
 If you like 2 fight, you're a double-drag fool
 I'm goin' 2 another life, how 'bout you?
-
-
-

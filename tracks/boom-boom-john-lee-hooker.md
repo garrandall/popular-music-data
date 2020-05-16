@@ -1,8 +1,11 @@
 ---
+album: Burnin'
 artists:
 - John Lee Hooker
+external_ids:
+  spotify: spotify:track:2Mr1bGI2E10K7Mt1UJZ6Mw
 features: []
-genres: []
+first_released_as_single: false
 key: boom-boom-john-lee-hooker
 lyrics_url: https://genius.com/John-lee-hooker-boom-boom-lyrics
 name: Boom Boom
@@ -47,6 +50,8 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '1962-07-28'
+release_year: 1962
+runtime: 152350
 ---
 Boom, boom, boom, boom
 I'm gonna shoot you right down

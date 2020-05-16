@@ -1,8 +1,11 @@
 ---
+album: Family Reunion
 artists:
 - The O'Jays
+external_ids:
+  spotify: spotify:track:6bc6Eip2VjxFwHVoGM8Ugt
 features: []
-genres: []
+first_released_as_single: false
 key: i-love-music--part-1--the-o-jays
 lyrics_url: https://genius.com/The-ojays-i-love-music-lyrics
 name: I Love Music (Part 1)
@@ -75,6 +78,8 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '1976-02-21'
+release_year: 1968
+runtime: 410266
 ---
 Ah, ah, ah, na, na, na, na, na, na, na, na
 Ohhh, oh, ohoh, oh, ohoh, oh, oh

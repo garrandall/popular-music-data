@@ -1,8 +1,11 @@
 ---
+album: Same As It Ever Was
 artists:
 - House Of Pain
+external_ids:
+  spotify: spotify:track:4AZWyXZm5g13fHLhZjFASc
 features: []
-genres: []
+first_released_as_single: false
 key: who-s-the-man--house-of-pain
 lyrics_url: https://genius.com/House-of-pain-whos-the-man-lyrics
 name: Who's The Man?
@@ -15,6 +18,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1993-06-05'
+release_year: 1992
+runtime: 243840
 ---
 I used to kick it with the thugs, pushin' drugs in the park
 Vic'n every mark that was out after dark

@@ -1,9 +1,12 @@
 ---
+album: Callaita
 artists:
 - Bad Bunny
 - Tainy
+external_ids:
+  spotify: spotify:track:2TH65lNHgvLxCKXM3apjxI
 features: []
-genres: []
+first_released_as_single: true
 key: callaita-bad-bunny-tainy
 lyrics_url: https://genius.com/Bad-bunny-and-tainy-callaita-lyrics
 name: Callaita
@@ -88,6 +91,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2019-11-02'
+release_year: 2019
+runtime: 250533
 ---
 Se acostó temprano, mañana hay que estudiar, eh
 Pero llamó a la amiga diciendo pa' janguear (Jeje), eh

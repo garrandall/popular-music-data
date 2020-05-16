@@ -1,8 +1,11 @@
 ---
+album: Tomorrow
 artists:
 - Sean Kingston
+external_ids:
+  spotify: spotify:track:21XsBxsHuD8Ijk1mvR9bIb
 features: []
-genres: []
+first_released_as_single: false
 key: face-drop-sean-kingston
 lyrics_url: https://www.azlyrics.com/lyrics/seankingston/facedrop.html
 name: Face Drop
@@ -43,8 +46,9 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2009-11-21'
+release_year: 2009
+runtime: 184573
 ---
-
 Kingston, hey, face drop, oh,
 Kingston, I see your face drop, drop, drop
 
@@ -129,6 +133,3 @@ Sayin' that I look better if I was thinner
 (Thank you beautiful)
 Don't you know you shoulda love me for my inner
 When I left you, yo, I came out a winner
-
-
-

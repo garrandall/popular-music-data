@@ -1,8 +1,11 @@
 ---
+album: Jan & Kjeld
 artists:
 - Jan And Kjeld
+external_ids:
+  spotify: spotify:track:2XQCKfsrPbBLYaYQbPUnFq
 features: []
-genres: []
+first_released_as_single: false
 key: banjo-boy-jan-and-kjeld
 lyrics_url: https://genius.com/Jan-and-kjeld-banjo-boy-lyrics
 name: Banjo Boy
@@ -35,6 +38,8 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1960-07-18'
+release_year: 1960
+runtime: 146139
 ---
 Jeden Abend geht er durch die Straßen
 In der kleinen Stadt in Tennessee

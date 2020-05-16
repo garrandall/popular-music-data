@@ -1,8 +1,11 @@
 ---
+album: Ain't No 'Bout-A-Doubt It
 artists:
 - Graham Central Station
+external_ids:
+  spotify: spotify:track:0GvmH0lqTuNVDm3oYfiXDq
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-alright-graham-central-station
 lyrics_url: https://www.musixmatch.com/lyrics/Graham-Central-Station/It-s-Alright
 name: It's Alright
@@ -15,6 +18,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1975-12-06'
+release_year: 1975
+runtime: 229266
 ---
 Your love Means so much to me girl
 And your kiss, oh baby Means so much to me

@@ -1,8 +1,11 @@
 ---
+album: Majikat Earth Tour 1976
 artists:
 - Cat Stevens
+external_ids:
+  spotify: spotify:track:6nbWsD9NuzBYxn52iRLRBL
 features: []
-genres: []
+first_released_as_single: false
 key: two-fine-people-cat-stevens
 lyrics_url: https://www.azlyrics.com/lyrics/catstevens/twofinepeople.html
 name: Two Fine People
@@ -43,8 +46,9 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1975-09-13'
+release_year: 1975
+runtime: 215840
 ---
-
 Now that I've passed your test
 How can I prove to you baby i'll never let you down
 If I led you around, I'm sorry
@@ -78,6 +82,3 @@ I love you and the song that I sing is the only way that
 i can explain
 Two fine people should love each other
 Two fine people should help each other
-
-
-

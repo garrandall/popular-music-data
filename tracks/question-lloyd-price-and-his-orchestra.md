@@ -1,8 +1,11 @@
 ---
+album: The Price Is Right
 artists:
 - Lloyd Price
+external_ids:
+  spotify: spotify:track:7yuSXXGInvV9gVvamnpdbX
 features: []
-genres: []
+first_released_as_single: false
 key: question-lloyd-price-and-his-orchestra
 lyrics_url: https://genius.com/Lloyd-price-question-lyrics
 name: Question
@@ -51,6 +54,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1960-09-05'
+release_year: 1960
+runtime: 152506
 ---
 What is the price of happiness?
 How can I find me love?

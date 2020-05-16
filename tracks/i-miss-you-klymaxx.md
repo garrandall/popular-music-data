@@ -1,8 +1,11 @@
 ---
+album: Meeting In The Ladies Room
 artists:
 - Klymaxx
+external_ids:
+  spotify: spotify:track:3d6UefBBvhqHxJLZdm8scF
 features: []
-genres: []
+first_released_as_single: false
 key: i-miss-you-klymaxx
 lyrics_url: https://genius.com/Klymaxx-i-miss-you-lyrics
 name: I Miss You
@@ -123,6 +126,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1986-03-29'
+release_year: 1984
+runtime: 333266
 ---
 Thought I heard your voice yesterday
 Then I turned around to say

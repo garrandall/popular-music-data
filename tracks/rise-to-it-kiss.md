@@ -1,8 +1,11 @@
 ---
+album: Hot In The Shade
 artists:
 - KISS
+external_ids:
+  spotify: spotify:track:7gAHDwN4iqkjFozSODtWBn
 features: []
-genres: []
+first_released_as_single: false
 key: rise-to-it-kiss
 lyrics_url: https://genius.com/Kiss-rise-to-it-lyrics
 name: Rise To It
@@ -31,6 +34,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1990-07-14'
+release_year: 1989
+runtime: 244226
 ---
 All that style, all gone to waste
 All that beauty

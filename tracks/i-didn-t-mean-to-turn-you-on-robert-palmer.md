@@ -1,8 +1,11 @@
 ---
+album: Riptide
 artists:
 - Robert Palmer
+external_ids:
+  spotify: spotify:track:4JF9MKFo5i85o5ap1JHKYE
 features: []
-genres: []
+first_released_as_single: false
 key: i-didn-t-mean-to-turn-you-on-robert-palmer
 lyrics_url: https://genius.com/Robert-palmer-i-didnt-mean-to-turn-you-on-lyrics
 name: I Didn't Mean To Turn You On
@@ -95,6 +98,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1987-01-10'
+release_year: 1985
+runtime: 224800
 ---
 When I took you out
 I knew what you were all about

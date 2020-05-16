@@ -1,8 +1,11 @@
 ---
+album: Forever
 artists:
 - Spice Girls
+external_ids:
+  spotify: spotify:track:6Yd9huEhaMsLWSWI2T77PI
 features: []
-genres: []
+first_released_as_single: true
 key: goodbye-spice-girls
 lyrics_url: https://www.azlyrics.com/lyrics/spicegirls/goodbye.html
 name: Goodbye
@@ -51,8 +54,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1999-03-06'
+release_year: 1998
+runtime: 287333
 ---
-
 No no no no, no no no no, no no no no
 
 Listen little child there will come a day
@@ -126,6 +130,3 @@ No no no no
 I will be with you everyday
 No no no no
 I will be with you everyday
-
-
-

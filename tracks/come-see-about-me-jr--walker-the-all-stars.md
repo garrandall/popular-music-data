@@ -1,9 +1,12 @@
 ---
+album: Live
 artists:
 - Jr. Walker
 - The All Stars
+external_ids:
+  spotify: spotify:track:5zKpzt7HEyWLhfLTQUmWpP
 features: []
-genres: []
+first_released_as_single: false
 key: come-see-about-me-jr--walker-the-all-stars
 lyrics_url: https://genius.com/Jr-walker-and-the-all-stars-come-see-about-me-lyrics
 name: Come See About Me
@@ -52,6 +55,8 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1968-02-03'
+release_year: 1967
+runtime: 262089
 ---
 I've been crying for you
 'Cause I'm lonely, so blue

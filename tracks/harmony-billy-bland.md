@@ -1,8 +1,11 @@
 ---
+album: 'Hy Weiss Presents: Old Town Records'
 artists:
 - Billy Bland
+external_ids:
+  spotify: spotify:track:6UXvWxLEiR3LJ5PtAAOpN6
 features: []
-genres: []
+first_released_as_single: false
 key: harmony-billy-bland
 lyrics_url: https://genius.com/Billy-bland-harmony-lyrics
 name: Harmony
@@ -15,6 +18,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1960-10-17'
+release_year: 1960
+runtime: 143640
 ---
 (Oh oh..)
 

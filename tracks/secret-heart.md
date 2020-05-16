@@ -1,8 +1,11 @@
 ---
+album: Brigade
 artists:
 - Heart
+external_ids:
+  spotify: spotify:track:7tQxhJ3Vl57OMuFW8PBGWS
 features: []
-genres: []
+first_released_as_single: false
 key: secret-heart
 lyrics_url: https://genius.com/Shane-and-shane-psalm-51-wisdom-in-the-secret-heart-lyrics
 name: Secret
@@ -39,6 +42,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1991-03-23'
+release_year: 1990
+runtime: 254373
 ---
 Behold I was brought forth in iniquity
 And in sin did my mother conceive me

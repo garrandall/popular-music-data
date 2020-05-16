@@ -1,10 +1,13 @@
 ---
+album: Brass Knuckles
 artists:
 - Nelly
+external_ids:
+  spotify: spotify:track:7c1WKUBABmJZtDThP0VYif
 features:
 - Ashanti
 - Akon
-genres: []
+first_released_as_single: true
 key: body-on-me-nelly-ashanti-akon
 lyrics_url: https://genius.com/Nelly-body-on-me-lyrics
 name: Body On Me
@@ -69,6 +72,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2008-11-08'
+release_year: 2008
+runtime: 212946
 ---
 The way that you're walkin, the way that you're talkin' - talkin
 You're the one I wanna spend this night with

@@ -1,8 +1,11 @@
 ---
+album: Feargal Sharkey
 artists:
 - Feargal Sharkey
+external_ids:
+  spotify: spotify:track:4umQbcdBF3YVsNBvvnFLiX
 features: []
-genres: []
+first_released_as_single: false
 key: a-good-heart-feargal-sharkey
 lyrics_url: https://genius.com/Feargal-sharkey-a-good-heart-lyrics
 name: A Good Heart
@@ -31,6 +34,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1986-04-19'
+release_year: 1985
+runtime: 281800
 ---
 I hear a lot of stories
 I suppose they could be true

@@ -1,8 +1,11 @@
 ---
+album: Make Yourself
 artists:
 - Incubus
+external_ids:
+  spotify: spotify:track:7nnWIPM5hwE3DaUBkvOIpy
 features: []
-genres: []
+first_released_as_single: false
 key: drive-incubus
 lyrics_url: https://www.azlyrics.com/lyrics/incubus/drive.html
 name: Drive
@@ -163,8 +166,9 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2001-11-10'
+release_year: 1999
+runtime: 232453
 ---
-
 Sometimes I feel the fear of the uncertainty stinging clear
 And I can't help but ask myself how much I'll let the fear take the wheel and steer
 
@@ -191,6 +195,3 @@ Would you choose water over wine, hold the wheel and drive?
 Whatever tomorrow brings, I'll be there
 With open arms and open eyes, yeah
 Whatever tomorrow brings, I'll be there, I'll be there
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: His Band and the Street Choir
 artists:
 - Van Morrison
+external_ids:
+  spotify: spotify:track:0eti3iRdEgUxwcIcN2N9DY
 features: []
-genres: []
+first_released_as_single: false
 key: domino-van-morrison
 lyrics_url: https://www.azlyrics.com/lyrics/vanmorrison/domino.html
 name: Domino
@@ -55,8 +58,9 @@ rankings:
   rank: 32
   ranking_list: Billboard Hot 100
   start_date: '1971-01-30'
+release_year: 1970
+runtime: 189426
 ---
-
 Don't wannna discuss it
 Think it's time for a change
 You may get disgusted
@@ -119,4 +123,3 @@ Hear the band
 
 
 One more time
-

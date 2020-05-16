@@ -1,8 +1,11 @@
 ---
+album: Dumb & Dumber
 artists:
 - Willi One Blood
+external_ids:
+  spotify: spotify:track:581sRkelbIjx55tcgOqCr2
 features: []
-genres: []
+first_released_as_single: false
 key: whiney-whiney-willi-one-blood
 lyrics_url: https://genius.com/Willi-one-blood-whiney-whiney-what-really-drives-me-crazy-annotated
 name: Whiney Whiney
@@ -51,6 +54,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1995-04-01'
+release_year: 1994
+runtime: 216906
 ---
 New dance, it's an old dance come back again
 Run, go tell your friend, it's a brand new design!

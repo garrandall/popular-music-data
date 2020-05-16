@@ -1,8 +1,11 @@
 ---
+album: Progressions of Power
 artists:
 - Triumph
+external_ids:
+  spotify: spotify:track:6gF8kIkyoT4yN0ogFE1mY2
 features: []
-genres: []
+first_released_as_single: false
 key: i-can-survive-triumph
 lyrics_url: https://www.azlyrics.com/lyrics/triumph/icansurvive.html
 name: I Can Survive
@@ -15,8 +18,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1980-06-14'
+release_year: 1980
+runtime: 238546
 ---
-
 My teacher told me, "Boy, you're no good
 Just because you don't do what you should
 You better shape up, or you're gonna fail."
@@ -48,4 +52,3 @@ Don't think twice, no don't hesitate
 Shoot for the top, you gotta deal with fate
 And I know that you'll understand
 You got the power, baby, in your hands, yeah
-

@@ -1,8 +1,11 @@
 ---
+album: The Essential Kenny G
 artists:
 - Michael Bolton
+external_ids:
+  spotify: spotify:track:7w9bn3Kb1oNdDqGKYveGh2
 features: []
-genres: []
+first_released_as_single: false
 key: missing-you-now-michael-bolton
 lyrics_url: https://www.azlyrics.com/lyrics/michaelbolton/missingyounow.html
 name: Missing You Now
@@ -87,8 +90,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1992-06-06'
+release_year: 1986
+runtime: 273573
 ---
-
 I talk to you but its not the same as touchin' you
 And every time you whisper my name, I wanna run to you
 We'll be together, it won't be long, it won't be long
@@ -118,6 +122,3 @@ Then and only then, will I be satisfied
 I'm missing you now
 We'll be together, it won't be long, it won't be long
 But it feels like forever, and its hard to be strong
-
-
-

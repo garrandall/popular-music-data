@@ -1,9 +1,12 @@
 ---
+album: Fetish
 artists:
 - Selena Gomez
+external_ids:
+  spotify: spotify:track:4lnAN2S1fcI0SjxEbksZVr
 features:
 - Gucci Mane
-genres: []
+first_released_as_single: true
 key: fetish-selena-gomez-gucci-mane
 lyrics_url: https://www.azlyrics.com/lyrics/selenagomez/fetish.html
 name: Fetish
@@ -56,9 +59,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2017-10-14'
+release_year: 2017
+runtime: 186112
 ---
-
-
 Take it or leave it
 Baby take it or leave it
 But I know you won't leave it
@@ -134,6 +137,3 @@ I push you out and you come right back
 Don't see a point in blaming you
 If I were you, I'd do me too
 You got a fetish for my love
-
-
-

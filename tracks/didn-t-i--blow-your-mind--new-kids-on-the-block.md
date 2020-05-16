@@ -1,8 +1,11 @@
 ---
+album: New Kids On The Block
 artists:
 - New Kids On The Block
+external_ids:
+  spotify: spotify:track:4nXIbEP8rtVbOfxtIBpmio
 features: []
-genres: []
+first_released_as_single: false
 key: didn-t-i--blow-your-mind--new-kids-on-the-block
 lyrics_url: https://genius.com/New-kids-on-the-block-didnt-i-blow-your-mind-lyrics
 name: Didn't I (Blow Your Mind)
@@ -83,6 +86,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1990-01-20'
+release_year: 1986
+runtime: 264640
 ---
 I gave my heart and soul to you, girl
 (Now didn't I do it, baby, didn't I do it, baby?)

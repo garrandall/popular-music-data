@@ -1,8 +1,11 @@
 ---
+album: Twelve Eighteen Part 1
 artists:
 - Lil Rob
+external_ids:
+  spotify: spotify:track:17rIVBaKmf2slzYyTqC2Zs
 features: []
-genres: []
+first_released_as_single: false
 key: bring-out-the-freak-in-you-lil-rob
 lyrics_url: https://www.azlyrics.com/lyrics/lilrob/bringoutthefreakinyou.html
 name: Bring Out The Freak In You
@@ -35,11 +38,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2006-04-08'
+release_year: 2005
+runtime: 227333
 ---
-
-
-
-
 Let's get N-A-S-T-Y
 Get ready for a nasty time
 All the nasty things we can do
@@ -103,4 +104,3 @@ Bring your body close to mine
 I think it's time that you blow my mind
 Even though this foreplay's fun
 The night isn't done until we both cum
-

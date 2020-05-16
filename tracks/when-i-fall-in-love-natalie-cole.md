@@ -1,8 +1,11 @@
 ---
+album: Everlasting
 artists:
 - Natalie Cole
+external_ids:
+  spotify: spotify:track:4HTzGnTBp0xrlleYjeuh50
 features: []
-genres: []
+first_released_as_single: false
 key: when-i-fall-in-love-natalie-cole
 lyrics_url: https://www.azlyrics.com/lyrics/nataliecole/whenifallinlove.html
 name: When I Fall In Love
@@ -11,8 +14,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1988-08-27'
+release_year: 1987
+runtime: 307666
 ---
-
 And the moment I can feel that you feel that way too
 Is when I fall in love with you.
 
@@ -42,6 +46,3 @@ Is when I fall in love
 Is when I fall in love with you
 Ohhhh
 I love you
-
-
-

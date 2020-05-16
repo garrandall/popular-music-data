@@ -1,8 +1,11 @@
 ---
+album: The Best Of Lloyd Price
 artists:
 - Lloyd Price
+external_ids:
+  spotify: spotify:track:5X2w0jQ9jHaYSkqKOKqtH3
 features: []
-genres: []
+first_released_as_single: false
 key: just-call-me--and-i-ll-understand--lloyd-price-and-his-orchestra
 lyrics_url: https://www.musixmatch.com/lyrics/Lloyd-Price/Just-Call-Me
 name: Just Call Me (And I'll Understand)
@@ -23,6 +26,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1960-10-03'
+release_year: 1960
+runtime: 130262
 ---
 Here I stand, before you
 With my heart in my hand

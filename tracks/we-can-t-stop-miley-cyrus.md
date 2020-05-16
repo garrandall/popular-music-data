@@ -1,8 +1,11 @@
 ---
+album: Bangerz (Deluxe Version)
 artists:
 - Miley Cyrus
+external_ids:
+  spotify: spotify:track:2y4lAQpi5VTNLu2ldeTdUH
 features: []
-genres: []
+first_released_as_single: false
 key: we-can-t-stop-miley-cyrus
 lyrics_url: https://genius.com/Miley-cyrus-we-cant-stop-lyrics
 name: We Can't Stop
@@ -111,6 +114,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '2013-12-14'
+release_year: 2013
+runtime: 231240
 ---
 It's our party, we can do what we want
 It's our party, we can say what we want

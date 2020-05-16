@@ -1,8 +1,11 @@
 ---
+album: Land Of Dreams
 artists:
 - Randy Newman
+external_ids:
+  spotify: spotify:track:5gUQPTljjDnEkpYPZ3ZvAP
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-money-that-matters-randy-newman
 lyrics_url: https://www.azlyrics.com/lyrics/randynewman/itsmoneythatmatters.html
 name: It's Money That Matters
@@ -55,8 +58,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1989-01-21'
+release_year: 1988
+runtime: 247800
 ---
-
 Of all of the people that I used to know
 Most never adjusted to the great big world
 I see them lurking in book stores
@@ -100,6 +104,3 @@ It's money that matters in the USA
 It's money that matters
 Now you know that it's true
 It's money that matters whatever you do"
-
-
-

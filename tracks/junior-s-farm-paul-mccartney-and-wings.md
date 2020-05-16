@@ -1,6 +1,6 @@
 ---
 artists:
-- Paul McCartney And Wings
+- Paul McCartney & Wings
 features: []
 genres: []
 key: junior-s-farm-paul-mccartney-and-wings

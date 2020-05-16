@@ -1,8 +1,11 @@
 ---
+album: My Name Is Barbra
 artists:
 - Barbra Streisand
+external_ids:
+  spotify: spotify:track:4E8vPLNMFwCwdvGMx3j9NG
 features: []
-genres: []
+first_released_as_single: false
 key: why-did-i-choose-you-barbra-streisand
 lyrics_url: https://www.azlyrics.com/lyrics/barbrastreisand/whydidichooseyou.html
 name: Why Did I Choose You
@@ -27,8 +30,9 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1965-05-01'
+release_year: 1965
+runtime: 224573
 ---
-
 Why did I choose you?
 What did I see in you?
 I saw the heart you hide so well
@@ -45,6 +49,3 @@ And when I lost my heart so many years ago,
 I lost it lovingly and willingly to you...
 If I had to choose again,
 I would still choose you...
-
-
-

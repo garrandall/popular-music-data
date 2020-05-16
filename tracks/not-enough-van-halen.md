@@ -1,8 +1,11 @@
 ---
+album: Balance
 artists:
 - Van Halen
+external_ids:
+  spotify: spotify:track:4zbJWmA6NqIPSyNsLddZnO
 features: []
-genres: []
+first_released_as_single: false
 key: not-enough-van-halen
 lyrics_url: https://www.azlyrics.com/lyrics/vanhalen/notenough.html
 name: Not Enough
@@ -19,8 +22,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1995-09-02'
+release_year: 1995
+runtime: 312066
 ---
-
 To love somebody naturally
 To love somebody faithfully
 To love somebody equally
@@ -72,6 +76,3 @@ Turn and swear
 It's everywhere
 Standin' there
 'cause it's always been there
-
-
-

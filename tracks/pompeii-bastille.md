@@ -1,8 +1,11 @@
 ---
+album: Bad Blood
 artists:
 - Bastille
+external_ids:
+  spotify: spotify:track:3gbBpTdY8lnQwqxNCcf795
 features: []
-genres: []
+first_released_as_single: false
 key: pompeii-bastille
 lyrics_url: https://www.azlyrics.com/lyrics/bastille/pompeii.html
 name: Pompeii
@@ -219,8 +222,9 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '2014-08-30'
+release_year: 2013
+runtime: 214147
 ---
-
 Eheu aul aul
 Eheu aul aul
 Eheu aul aul
@@ -298,6 +302,3 @@ Eheu aul aul
 Eheu aul aul
 Eheu aul aul
 Eheu aul aul
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Angel Of The Morning
 artists:
 - Merrilee Rush
+external_ids:
+  spotify: spotify:track:6GN0ssRcyJ4PkzfVJTwKSC
 features: []
-genres: []
+first_released_as_single: false
 key: reach-out-merrilee-rush
 lyrics_url: https://www.musixmatch.com/lyrics/Merrilee-Rush/Reach-Out
 name: Reach Out
@@ -23,6 +26,8 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1968-12-28'
+release_year: 1968
+runtime: 286293
 ---
 Now if you feel that you can't go on
 Because all of your hope is gone

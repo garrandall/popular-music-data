@@ -1,8 +1,11 @@
 ---
+album: Self Control
 artists:
 - Laura Branigan
+external_ids:
+  spotify: spotify:track:15ob9SMGLWrexuPuyuMjKl
 features: []
-genres: []
+first_released_as_single: false
 key: gloria-laura-branigan
 lyrics_url: https://www.azlyrics.com/lyrics/laurabranigan/gloria.html
 name: Gloria
@@ -151,8 +154,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1983-03-12'
+release_year: 1982
+runtime: 295066
 ---
-
 Gloria, you're always on the run now
 Running after somebody, you gotta get him somehow
 I think you've got to slow down before you start to blow it
@@ -193,6 +197,3 @@ Are the voices in your head calling, Gloria?
 
 (Gloria, Gloria, Gloria, Gloria, Gloria)
 (Gloria, Gloria, Gloria, Gloria, Gloria)
-
-
-

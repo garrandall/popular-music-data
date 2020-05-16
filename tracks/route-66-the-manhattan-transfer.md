@@ -1,8 +1,11 @@
 ---
+album: Bop Doo-Wopp
 artists:
 - The Manhattan Transfer
+external_ids:
+  spotify: spotify:track:0gzL664PaItwupu0xbSyEV
 features: []
-genres: []
+first_released_as_single: false
 key: route-66-the-manhattan-transfer
 lyrics_url: https://www.azlyrics.com/lyrics/manhattantransfer/route66.html
 name: Route 66
@@ -27,8 +30,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1982-06-26'
+release_year: 1982
+runtime: 177306
 ---
-
 If you ever
 Plan to motor west
 Travel my way, take the highway that's the best
@@ -67,6 +71,3 @@ Get your kicks on Route 66
 Get your kicks on Route six six
 Get your kicks on Route 66
 Get your kicks on Route six six
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: The Joshua Tree (Super Deluxe)
 artists:
 - U2
+external_ids:
+  spotify: spotify:track:4qgZs0RNjdzKAS22lP0QjY
 features: []
-genres: []
+first_released_as_single: false
 key: where-the-streets-have-no-name-u2
 lyrics_url: https://genius.com/U2-where-the-streets-have-no-name-lyrics
 name: Where The Streets Have No Name
@@ -63,6 +66,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1987-12-12'
+release_year: 1987
+runtime: 337505
 ---
 I wanna run, I want to hide
 I wanna tear down the walls

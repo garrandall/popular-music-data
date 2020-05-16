@@ -1,8 +1,11 @@
 ---
+album: Rolling Papers
 artists:
 - Wiz Khalifa
+external_ids:
+  spotify: spotify:track:0prF3F4FoKvxBObaeXLVHv
 features: []
-genres: []
+first_released_as_single: false
 key: when-i-m-gone-wiz-khalifa
 lyrics_url: https://genius.com/Wiz-khalifa-when-im-gone-lyrics
 name: When I'm Gone
@@ -23,6 +26,8 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '2012-03-17'
+release_year: 2011
+runtime: 248560
 ---
 And they say all I rap about is bitches and champagne
 You would too if every night you seen the same thing

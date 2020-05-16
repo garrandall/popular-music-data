@@ -1,8 +1,11 @@
 ---
+album: An Intro to Night Train New Orleans
 artists:
 - Ernie K-Doe
+external_ids:
+  spotify: spotify:track:6lHztn2CwfL0rj5dy5IsdL
 features: []
-genres: []
+first_released_as_single: false
 key: popeye-joe-ernie-k-doe
 lyrics_url: https://genius.com/Ernie-k-doe-popeye-joe-lyrics
 name: Popeye Joe
@@ -11,6 +14,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1962-02-24'
+release_year: 1962
+runtime: 153293
 ---
 I said, my head goes spinnin' like a spinnin' wheel
 When I get the music with the rock 'n' roll beat

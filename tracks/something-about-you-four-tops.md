@@ -1,8 +1,11 @@
 ---
+album: Four Tops Second Album
 artists:
 - Four Tops
+external_ids:
+  spotify: spotify:track:7G3hL1HvxZ3Iz8J8KkkeAN
 features: []
-genres: []
+first_released_as_single: false
 key: something-about-you-four-tops
 lyrics_url: https://genius.com/The-four-tops-something-about-you-lyrics
 name: Something About You
@@ -35,6 +38,8 @@ rankings:
   rank: 34
   ranking_list: Billboard Hot 100
   start_date: '1965-12-25'
+release_year: 1965
+runtime: 160960
 ---
 Darlin', darlin'
 If I could have you to call my very own

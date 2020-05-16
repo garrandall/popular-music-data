@@ -1,8 +1,11 @@
 ---
+album: Ready for the World
 artists:
 - Inoj
+external_ids:
+  spotify: spotify:track:5I0Pt0YFaShP1OoXPyUnX8
 features: []
-genres: []
+first_released_as_single: false
 key: time-after-time-inoj
 lyrics_url: https://www.musixmatch.com/lyrics/INOJ/Time-After-Time
 name: Time After Time
@@ -71,6 +74,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1998-12-05'
+release_year: 1998
+runtime: 249440
 ---
 I'm lying in my bed
 Hear the clock tick

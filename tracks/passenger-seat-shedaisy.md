@@ -1,8 +1,11 @@
 ---
+album: Sweet Right Here
 artists:
 - SHeDAISY
+external_ids:
+  spotify: spotify:track:5nYMRWEHPEhbZ3GbfuBZAV
 features: []
-genres: []
+first_released_as_single: false
 key: passenger-seat-shedaisy
 lyrics_url: https://www.azlyrics.com/lyrics/shedaisy/passengerseat.html
 name: Passenger Seat
@@ -39,8 +42,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2004-07-03'
+release_year: 2004
+runtime: 205160
 ---
-
 Passenger side, I slide on in
 Vinyl seats hot from the heat of the sun
 Chewin' on a Slim Jim, can't stop 
@@ -86,6 +90,3 @@ passenger seat
 Life's so, life's so
 Life's so sweet
 Sweet right here, right here
-
-
-

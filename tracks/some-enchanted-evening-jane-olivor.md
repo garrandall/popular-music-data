@@ -1,8 +1,11 @@
 ---
+album: First Night
 artists:
 - Jane Olivor
+external_ids:
+  spotify: spotify:track:6BKZSOWkwIXxPbN2tRFAu7
 features: []
-genres: []
+first_released_as_single: false
 key: some-enchanted-evening-jane-olivor
 lyrics_url: https://genius.com/Jane-olivor-some-enchanted-evening-lyrics
 name: Some Enchanted Evening
@@ -19,6 +22,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1977-09-24'
+release_year: 1976
+runtime: 208493
 ---
 Some enchanted evening
 You may see a stranger

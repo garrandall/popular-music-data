@@ -1,8 +1,11 @@
 ---
+album: Puzzle People
 artists:
 - The Temptations
+external_ids:
+  spotify: spotify:track:6aL6pPBaTMGgM558mplSnj
 features: []
-genres: []
+first_released_as_single: false
 key: i-can-t-get-next-to-you-the-temptations
 lyrics_url: https://genius.com/The-temptations-i-cant-get-next-to-you-lyrics
 name: I Can't Get Next To You
@@ -75,6 +78,8 @@ rankings:
   rank: 31
   ranking_list: Billboard Hot 100
   start_date: '1969-12-06'
+release_year: 1969
+runtime: 174933
 ---
 Hold it, everybody
 Hold it, hold it, listen

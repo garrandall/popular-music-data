@@ -1,8 +1,11 @@
 ---
+album: Straight Up Sewaside
 artists:
 - Das EFX
+external_ids:
+  spotify: spotify:track:1A4DjgWzJ839VdFCKE5hBD
 features: []
-genres: []
+first_released_as_single: false
 key: freakit-das-efx
 lyrics_url: https://www.azlyrics.com/lyrics/dasefx/freakit.html
 name: Freakit
@@ -55,8 +58,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1994-01-29'
+release_year: 1993
+runtime: 199493
 ---
-
 (Well I'mma freakit like that, and I'mma freak it like this)
 (Well I'mma freakit like that, and I'mma freak it like this)
 (Well I'mma freakit like that, and I'mma freak it like this)
@@ -125,6 +129,3 @@ Well I'mma freakit like this, and I'mma freakit like that
 Well I'mma freakit like this, and I'mma freakit like that
 Well I'mma freakit like this, and I'mma freakit like that
 Well I'mma freakit like this, and I'mma freakit like that
-
-
-

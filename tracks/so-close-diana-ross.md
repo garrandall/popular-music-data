@@ -1,8 +1,11 @@
 ---
+album: Silk Electric
 artists:
 - Diana Ross
+external_ids:
+  spotify: spotify:track:4zmc1CEMDAs7CNXEIyrtbp
 features: []
-genres: []
+first_released_as_single: false
 key: so-close-diana-ross
 lyrics_url: https://genius.com/Diana-ross-so-close-lyrics
 name: So Close
@@ -47,6 +50,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1983-04-09'
+release_year: 1982
+runtime: 253173
 ---
 So close
 When I look into your eyes

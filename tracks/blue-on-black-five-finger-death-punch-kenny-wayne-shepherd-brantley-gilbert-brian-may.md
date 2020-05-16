@@ -1,11 +1,14 @@
 ---
+album: Blue on Black
 artists:
 - Five Finger Death Punch
+external_ids:
+  spotify: spotify:track:7nioCrPVTkYopUB1rTvtK1
 features:
 - Kenny Wayne Shepherd
 - Brantley Gilbert
 - Brian May
-genres: []
+first_released_as_single: true
 key: blue-on-black-five-finger-death-punch-kenny-wayne-shepherd-brantley-gilbert-brian-may
 lyrics_url: https://genius.com/Five-finger-death-punch-blue-on-black-remix-lyrics
 name: Blue On Black
@@ -14,6 +17,8 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '2019-04-27'
+release_year: 2019
+runtime: 274615
 ---
 A Night... falls, and I'm alone
 

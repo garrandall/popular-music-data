@@ -1,8 +1,11 @@
 ---
+album: Stick It To Ya
 artists:
 - Slaughter
+external_ids:
+  spotify: spotify:track:4xTQdHvWyjASRfEBpaGJoI
 features: []
-genres: []
+first_released_as_single: false
 key: spend-my-life-slaughter
 lyrics_url: https://genius.com/Slaughter-spend-my-life-lyrics
 name: Spend My Life
@@ -59,6 +62,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1991-03-16'
+release_year: 1989
+runtime: 200640
 ---
 I've been livin' in this lonely world
 Wishin' I could find someone to love

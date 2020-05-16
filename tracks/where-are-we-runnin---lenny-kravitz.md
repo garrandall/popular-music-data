@@ -1,8 +1,11 @@
 ---
+album: Baptism
 artists:
 - Lenny Kravitz
+external_ids:
+  spotify: spotify:track:4ouIWkFspNZYFO87Gdufxb
 features: []
-genres: []
+first_released_as_single: false
 key: where-are-we-runnin---lenny-kravitz
 lyrics_url: https://www.azlyrics.com/lyrics/lennykravitz/wherearewerunnin.html
 name: Where Are We Runnin'?
@@ -31,8 +34,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2004-07-03'
+release_year: 2004
+runtime: 161293
 ---
-
 Fast lane
 High speed
 On the grind
@@ -97,6 +101,3 @@ Oo wee oo wee oo
 Where are we runnin' now
 Yeah yeah, waouh!
 Where are we runnin'...
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Finally
 artists:
 - CeCe Peniston
+external_ids:
+  spotify: spotify:track:36V3MeyjHoth9rc8x5o4ts
 features: []
-genres: []
+first_released_as_single: false
 key: crazy-love-cece-peniston
 lyrics_url: https://genius.com/Cece-peniston-crazy-love-lyrics
 name: Crazy Love
@@ -15,6 +18,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1993-01-02'
+release_year: 1992
+runtime: 288600
 ---
 Life is funny, the tricks it plays
 Can't help believing in the hands of fate

@@ -1,8 +1,11 @@
 ---
+album: Songs By Ricky
 artists:
 - Ricky Nelson
+external_ids:
+  spotify: spotify:track:2W4YmBtJn5bfj4bmULW8VJ
 features: []
-genres: []
+first_released_as_single: false
 key: sweeter-than-you-ricky-nelson
 lyrics_url: https://www.azlyrics.com/lyrics/rickynelson/sweeterthanyou.html
 name: Sweeter Than You
@@ -55,8 +58,9 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1959-09-21'
+release_year: 1959
+runtime: 132040
 ---
-
 I could never be loved by anyone sweeter than you
 And I could never belong to anyone sweeter than you
 With you to stand beside me I'll never be alone
@@ -69,6 +73,3 @@ And what more could I long for than to live my life
 
 I could never be loved by anyone sweeter than you
 And I could never belong to anyone
-
-
-

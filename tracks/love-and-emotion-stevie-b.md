@@ -1,8 +1,11 @@
 ---
+album: The Ultimate Stevie B
 artists:
 - Stevie B
+external_ids:
+  spotify: spotify:track:5KGqNFoNJzRAQzJy8gzKqz
 features: []
-genres: []
+first_released_as_single: false
 key: love-and-emotion-stevie-b
 lyrics_url: https://www.azlyrics.com/lyrics/stevieb/loveandemotion.html
 name: Love And Emotion
@@ -67,8 +70,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1990-10-06'
+release_year: 1990
+runtime: 222266
 ---
-
 You told me that you loved me so
 And then you said you've got to go
 Baby, what's it gonna be
@@ -121,6 +125,3 @@ All I need is some love and emotion
 It's the only thing that turns me on (All I really need)
 All I need is some love and emotion
 It's the only thing that turns me on (I need a little love in the morning time)
-
-
-

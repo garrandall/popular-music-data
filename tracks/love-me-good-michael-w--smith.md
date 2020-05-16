@@ -1,8 +1,11 @@
 ---
+album: The Second Decade 1993-2003
 artists:
 - Michael W. Smith
+external_ids:
+  spotify: spotify:track:0sWfw6egbabAIskPUHPEy2
 features: []
-genres: []
+first_released_as_single: false
 key: love-me-good-michael-w--smith
 lyrics_url: https://genius.com/Michael-w-smith-love-me-good-lyrics
 name: Love Me Good
@@ -27,6 +30,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1998-05-23'
+release_year: 1995
+runtime: 280666
 ---
 Sometimes I feel like this world is just one big gigantic merry-go-round
 You gotta hold on tight or you get hurled through the air

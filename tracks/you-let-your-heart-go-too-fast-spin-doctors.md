@@ -1,8 +1,11 @@
 ---
+album: Turn It Upside Down
 artists:
 - Spin Doctors
+external_ids:
+  spotify: spotify:track:2Xib57pHWXHRO1ErpJflwj
 features: []
-genres: []
+first_released_as_single: false
 key: you-let-your-heart-go-too-fast-spin-doctors
 lyrics_url: https://www.azlyrics.com/lyrics/spindoctors/youletyourheartgotoofast.html
 name: You Let Your Heart Go Too Fast
@@ -47,8 +50,9 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1994-09-17'
+release_year: 1994
+runtime: 228733
 ---
-
 Having been by that old bank tower,
 I'm inclined to wonder why you feel so strong.
 You can't have really seen the hour
@@ -89,6 +93,3 @@ I see the feathers that enfringe your heart.
 I see the blood ooze from around the dart.
 Cupid spites the sense that keeps two 
 Mismatched souls apart.
-
-
-

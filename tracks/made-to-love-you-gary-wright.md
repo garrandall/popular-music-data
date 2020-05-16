@@ -1,8 +1,11 @@
 ---
+album: The Dream Weaver
 artists:
 - Gary Wright
+external_ids:
+  spotify: spotify:track:0VKllTnl6NOjxm3e6A6JxS
 features: []
-genres: []
+first_released_as_single: false
 key: made-to-love-you-gary-wright
 lyrics_url: https://www.musixmatch.com/lyrics/Gary-Wright/Made-To-Love-You
 name: Made To Love You
@@ -27,6 +30,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1976-10-16'
+release_year: 1975
+runtime: 223800
 ---
 Now, I don't need to travel far
 And I don't need to be a star

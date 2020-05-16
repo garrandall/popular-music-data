@@ -1,8 +1,11 @@
 ---
+album: My Own Way To Rock
 artists:
 - Burton Cummings
+external_ids:
+  spotify: spotify:track:40ExxEf44HPz7yWKgZvEQo
 features: []
-genres: []
+first_released_as_single: false
 key: my-own-way-to-rock-burton-cummings
 lyrics_url: https://genius.com/Burton-cummings-my-own-way-to-rock-lyrics
 name: My Own Way To Rock
@@ -23,6 +26,8 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '1977-10-01'
+release_year: 1977
+runtime: 285906
 ---
 Revvin' up my engine
 I'm like a 747, baby

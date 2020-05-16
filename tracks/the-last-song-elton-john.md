@@ -1,8 +1,11 @@
 ---
+album: The One
 artists:
 - Elton John
+external_ids:
+  spotify: spotify:track:0pNXDQo75eOukoK8PejiRE
 features: []
-genres: []
+first_released_as_single: false
 key: the-last-song-elton-john
 lyrics_url: https://www.azlyrics.com/lyrics/eltonjohn/thelastsong.html
 name: The Last Song
@@ -87,8 +90,9 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '1993-03-13'
+release_year: 1992
+runtime: 213133
 ---
-
 Yesterday you came to lift me up
 As light as straw and brittle as a bird
 Today I weigh less than a shadow on the wall
@@ -112,6 +116,3 @@ Things we never said come together
 The hidden truth no longer haunting me
 Tonight we touched on the things that were never spoken
 That kind of understanding sets me free
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: No Doubt
 artists:
 - '702'
+external_ids:
+  spotify: spotify:track:4eDCsyIHTSu3cQZ5wDIyP7
 features: []
-genres: []
+first_released_as_single: false
 key: get-it-together-702
 lyrics_url: https://www.azlyrics.com/lyrics/702/getittogether.html
 name: Get It Together
@@ -87,9 +90,9 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '1997-06-28'
+release_year: 1996
+runtime: 291400
 ---
-
-
 I don't really wanna stay,
 I don't really wanna go,
 But I really need to know,
@@ -136,4 +139,3 @@ And I don't understand, no.
 You know I don't wanna stay,
 You know I don't wanna go,
 Baby, please listen to me.
-

@@ -1,8 +1,11 @@
 ---
+album: Live
 artists:
 - War
+external_ids:
+  spotify: spotify:track:5ZbiShPIyaG5MGxPHjDmBd
 features: []
-genres: []
+first_released_as_single: false
 key: ballero-war
 lyrics_url: https://genius.com/War-ballero-lyrics
 name: Ballero
@@ -47,6 +50,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1974-08-10'
+release_year: 1973
+runtime: 509866
 ---
 Ballero
 Paquita que ballero

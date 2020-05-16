@@ -1,9 +1,12 @@
 ---
+album: JESUS IS KING
 artists:
 - Kanye West
+external_ids:
+  spotify: spotify:track:1WnqWQcWcuQbVzgE7ecfCY
 features:
 - Sunday Service Choir
-genres: []
+first_released_as_single: false
 key: every-hour-kanye-west-sunday-service-choir
 lyrics_url: https://www.azlyrics.com/lyrics/kanyewest/everyhour.html
 name: Every Hour
@@ -12,8 +15,9 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '2019-11-09'
+release_year: 2019
+runtime: 112239
 ---
-
 Sing every hour (Every hour, 'til the power)
 Every minute (Every minute, of the Lord)
 Every second (Every second, comes)
@@ -54,6 +58,3 @@ We need you (We need you, sing 'til the power)
 We need you (We need you, of the Lord)
 We need you (Comes)
 Oh, we need you (Down)
-
-
-

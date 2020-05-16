@@ -1,8 +1,11 @@
 ---
+album: Come On Over
 artists:
 - Shania Twain
+external_ids:
+  spotify: spotify:track:1wb4P4F0sxAQ2KXrRvsx6n
 features: []
-genres: []
+first_released_as_single: false
 key: you-re-still-the-one-shania-twain
 lyrics_url: https://genius.com/Shania-twain-youre-still-the-one-lyrics
 name: You're Still The One
@@ -175,6 +178,8 @@ rankings:
   rank: 23
   ranking_list: Billboard Hot 100
   start_date: '1998-11-28'
+release_year: 1997
+runtime: 212200
 ---
 When I first saw you, I saw love
 And the first time you touched me, I felt love

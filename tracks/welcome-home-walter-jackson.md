@@ -1,8 +1,11 @@
 ---
+album: 'Welcome Home: The Many Moods of Walter Jackson'
 artists:
 - Walter Jackson
+external_ids:
+  spotify: spotify:track:0SaQ2Xir8SNWqmNlSJDGMK
 features: []
-genres: []
+first_released_as_single: false
 key: welcome-home-walter-jackson
 lyrics_url: https://genius.com/Walter-jackson-welcome-home-lyrics
 name: Welcome Home
@@ -15,6 +18,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1965-06-19'
+release_year: 1965
+runtime: 163480
 ---
 We acted like children
 Now don't tell me that you're sorry

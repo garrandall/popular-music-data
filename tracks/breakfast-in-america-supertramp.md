@@ -1,8 +1,11 @@
 ---
+album: Breakfast In America
 artists:
 - Supertramp
+external_ids:
+  spotify: spotify:track:4a5pNRjwmzYQuEY1E7O6pj
 features: []
-genres: []
+first_released_as_single: false
 key: breakfast-in-america-supertramp
 lyrics_url: https://www.azlyrics.com/lyrics/supertramp/breakfastinamerica.html
 name: Breakfast In America
@@ -39,8 +42,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1981-01-31'
+release_year: 1979
+runtime: 159346
 ---
-
 Take a look at my girlfriend
 She's the only one I got
 Not much of a girlfriend
@@ -73,6 +77,3 @@ Like to see America
 See the girls in California
 I'm hoping it's going to come true
 But there's not a lot I can do
-
-
-

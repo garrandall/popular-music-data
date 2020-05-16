@@ -1,8 +1,11 @@
 ---
+album: Today - My Way
 artists:
 - Nancy Wilson
+external_ids:
+  spotify: spotify:track:3F3pmUY2W7NDhXqv9biNTt
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-come-running-back-to-me-nancy-wilson
 lyrics_url: https://genius.com/Nancy-wilson-dont-come-running-back-to-me-lyrics
 name: Don't Come Running Back To Me
@@ -27,6 +30,8 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '1965-02-27'
+release_year: 1965
+runtime: 132813
 ---
 If she walks out on you
 Don't come running back to me

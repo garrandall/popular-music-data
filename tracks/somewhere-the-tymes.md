@@ -1,8 +1,11 @@
 ---
+album: Somewhere
 artists:
 - The Tymes
+external_ids:
+  spotify: spotify:track:6K8EH4jCNjadapChPeiGAW
 features: []
-genres: []
+first_released_as_single: false
 key: somewhere-the-tymes
 lyrics_url: https://www.musixmatch.com/lyrics/The-Tymes/Somewhere
 name: Somewhere
@@ -51,6 +54,8 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '1964-02-15'
+release_year: 1963
+runtime: 132133
 ---
 Somewhere my love waits for me.
 Somewhere beyond the sky and sea.

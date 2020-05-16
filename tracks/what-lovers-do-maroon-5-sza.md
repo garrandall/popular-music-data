@@ -1,9 +1,12 @@
 ---
+album: Red Pill Blues
 artists:
 - Maroon 5
+external_ids:
+  spotify: spotify:track:6YVpU5vVxezJCYeQUxIkRT
 features:
 - SZA
-genres: []
+first_released_as_single: true
 key: what-lovers-do-maroon-5-sza
 lyrics_url: https://www.azlyrics.com/lyrics/maroon5/whatloversdo.html
 name: What Lovers Do
@@ -96,9 +99,9 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '2018-02-03'
+release_year: 2017
+runtime: 199849
 ---
-
-
 Say say say, hey hey now baby
 Oh mama, don't play now baby
 Say say say, hey hey now baby
@@ -176,6 +179,3 @@ Oh, oh
 Been wishin' for you (tryna' do)
 Oh oh
 Tryna' do what lovers do (oh)
-
-
-

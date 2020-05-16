@@ -1,8 +1,11 @@
 ---
+album: 3D
 artists:
 - TLC
+external_ids:
+  spotify: spotify:track:7jxIiMcf07sFSMlziXLWNI
 features: []
-genres: []
+first_released_as_single: false
 key: girl-talk-tlc
 lyrics_url: https://genius.com/Tlc-girl-talk-lyrics
 name: Girl Talk
@@ -63,6 +66,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2003-01-25'
+release_year: 2002
+runtime: 214760
 ---
 You see, I had this brother who was mad at me
 Cause I told my home girl that he wasn't packin'

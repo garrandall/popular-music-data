@@ -1,8 +1,11 @@
 ---
+album: Only Everything
 artists:
 - Juliana Hatfield
+external_ids:
+  spotify: spotify:track:7Hj5QvOZvdZKtlBuq8nTXE
 features: []
-genres: []
+first_released_as_single: false
 key: universal-heart-beat-juliana-hatfield
 lyrics_url: https://www.musixmatch.com/lyrics/Juliana-Hatfield/Universal-Heart-Beat
 name: Universal Heart-Beat
@@ -31,6 +34,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1995-05-27'
+release_year: 1995
+runtime: 205906
 ---
 Beauty can be sad; you're proof of that
 When the damage is done, you're damaged goods

@@ -1,8 +1,11 @@
 ---
+album: Stoned Soul Picnic
 artists:
 - The 5th Dimension
+external_ids:
+  spotify: spotify:track:0V1U1p3wXn0AF3fdUD9lpP
 features: []
-genres: []
+first_released_as_single: false
 key: california-soul-the-5th-dimension
 lyrics_url: https://genius.com/The-5th-dimension-california-soul-lyrics
 name: California Soul
@@ -43,6 +46,8 @@ rankings:
   rank: 35
   ranking_list: Billboard Hot 100
   start_date: '1969-02-15'
+release_year: 1968
+runtime: 193893
 ---
 Like a sound you hear
 That lingers in your ear

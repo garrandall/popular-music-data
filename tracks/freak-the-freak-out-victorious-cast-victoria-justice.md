@@ -1,9 +1,12 @@
 ---
+album: 'Victorious: Music From The Hit TV Show'
 artists:
 - Victorious Cast
+external_ids:
+  spotify: spotify:track:2RddJqRIuOorIuAr8xwL67
 features:
 - Victoria Justice
-genres: []
+first_released_as_single: true
 key: freak-the-freak-out-victorious-cast-victoria-justice
 lyrics_url: https://genius.com/Victorious-cast-freak-the-freak-out-lyrics
 name: Freak The Freak Out
@@ -32,6 +35,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2011-02-05'
+release_year: 2010
+runtime: 233920
 ---
 Are you listening?
 Hear me talk, hear me sing

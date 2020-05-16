@@ -1,9 +1,12 @@
 ---
+album: Rolex
 artists:
 - Ayo
 - Teo
+external_ids:
+  spotify: spotify:track:0pSBuHjILhNEo55xK1zrRt
 features: []
-genres: []
+first_released_as_single: true
 key: rolex-ayo-teo
 lyrics_url: https://genius.com/Ayo-and-teo-rolex-lyrics
 name: Rolex
@@ -108,6 +111,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2017-08-19'
+release_year: 2017
+runtime: 238586
 ---
 BL$$D
 What's that, Backpack on the beat

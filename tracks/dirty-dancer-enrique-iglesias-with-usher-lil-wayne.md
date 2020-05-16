@@ -1,7 +1,8 @@
 ---
 artists:
-- Enrique Iglesias With Usher
+- Enrique Iglesias
 features:
+- Usher
 - Lil Wayne
 genres: []
 key: dirty-dancer-enrique-iglesias-with-usher-lil-wayne

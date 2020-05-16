@@ -1,8 +1,11 @@
 ---
+album: Promises, Promises
 artists:
 - Dionne Warwick
+external_ids:
+  spotify: spotify:track:2HqpKpJvMrckAP9CPZHF7U
 features: []
-genres: []
+first_released_as_single: false
 key: this-girl-s-in-love-with-you-dionne-warwick
 lyrics_url: https://genius.com/Dionne-warwick-this-girls-in-love-with-you-lyrics
 name: This Girl's In Love With You
@@ -55,6 +58,8 @@ rankings:
   rank: 22
   ranking_list: Billboard Hot 100
   start_date: '1969-04-19'
+release_year: 1968
+runtime: 323226
 ---
 You see this girl
 This girl's in love with you

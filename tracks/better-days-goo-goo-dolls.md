@@ -1,8 +1,11 @@
 ---
+album: Let Love In
 artists:
 - Goo Goo Dolls
+external_ids:
+  spotify: spotify:track:2hiB8QxWic092OablwpoVC
 features: []
-genres: []
+first_released_as_single: false
 key: better-days-goo-goo-dolls
 lyrics_url: https://www.azlyrics.com/lyrics/googoodolls/betterdays.html
 name: Better Days
@@ -87,8 +90,9 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '2006-02-18'
+release_year: 2005
+runtime: 213266
 ---
-
 And you ask me what I want this year
 And I try to make this kind and clear
 Just a chance that maybe we'll find better days
@@ -122,6 +126,3 @@ And sing out loud
 Cause everyone is forgiven now
 Cause tonight's the night the world begins again
 Cause tonight's the night the world begins again
-
-
-

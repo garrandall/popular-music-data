@@ -1,8 +1,11 @@
 ---
+album: Beautiful Loser
 artists:
 - Bob Seger
+external_ids:
+  spotify: spotify:track:6RM7EnZNWsEhdikBnNFeDf
 features: []
-genres: []
+first_released_as_single: false
 key: nutbush-city-limits-bob-seger
 lyrics_url: https://www.azlyrics.com/lyrics/bobseger/nutbushcitylimits.html
 name: Nutbush City Limits
@@ -23,8 +26,9 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1976-06-26'
+release_year: 1975
+runtime: 236586
 ---
-
 There's a churchhouse, gin house, schoolhouse, outhouse
 On the U.S. 19, hey the people keep the city clean
 They call it Nutbush, ah Nutbush
@@ -54,6 +58,3 @@ Better watch out for the police
 Keep an eye out for the police
 
 Nutbush city limit, Nutbush city limit
-
-
-

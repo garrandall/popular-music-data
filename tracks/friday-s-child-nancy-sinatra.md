@@ -1,8 +1,11 @@
 ---
+album: Movin' With Nancy
 artists:
 - Nancy Sinatra
+external_ids:
+  spotify: spotify:track:0RwQSjXr7kPSVuA5BmiTIO
 features: []
-genres: []
+first_released_as_single: false
 key: friday-s-child-nancy-sinatra
 lyrics_url: https://www.azlyrics.com/lyrics/nancysinatra/fridayschild.html
 name: Friday's Child
@@ -27,8 +30,9 @@ rankings:
   rank: 36
   ranking_list: Billboard Hot 100
   start_date: '1966-08-06'
+release_year: 1966
+runtime: 145840
 ---
-
 Friday's child...Hard luck is her brother
 Friday's child...Her sister's misery
 Friday's child...Her daddy they call hard times
@@ -45,6 +49,3 @@ Friday's child...Never climbed no mountain
 Friday's child...She ain't even gonna tray...oh
 Friday's child...Whom they'll forget to bury
 Friday's child...Am I
-
-
-

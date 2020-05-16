@@ -1,8 +1,11 @@
 ---
+album: Goodnight Vienna
 artists:
 - Ringo Starr
+external_ids:
+  spotify: spotify:track:42eZC1LaQ3qioZWVLisVT6
 features: []
-genres: []
+first_released_as_single: false
 key: only-you-ringo-starr
 lyrics_url: https://genius.com/Ringo-starr-only-you-lyrics
 name: Only You
@@ -59,6 +62,8 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '1975-02-08'
+release_year: 1974
+runtime: 207240
 ---
 Only you
 Can make this world seem right

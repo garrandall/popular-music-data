@@ -1,8 +1,11 @@
 ---
+album: Great Rare Songs, Vol. 6
 artists:
 - Louise Brown
+external_ids:
+  spotify: spotify:track:6xEDIRD5mQhn37I5pPE7GE
 features: []
-genres: []
+first_released_as_single: false
 key: son-in-law-louise-brown
 name: Son-In-Law
 rankings:
@@ -26,5 +29,7 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1961-06-05'
+release_year: 1961
+runtime: 124653
 ---
 

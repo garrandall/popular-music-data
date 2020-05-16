@@ -1,8 +1,11 @@
 ---
+album: The Dream Academy
 artists:
 - The Dream Academy
+external_ids:
+  spotify: spotify:track:4m3OS54KWywYhP7WD7z1cg
 features: []
-genres: []
+first_released_as_single: false
 key: life-in-a-northern-town-the-dream-academy
 lyrics_url: https://genius.com/The-dream-academy-life-in-a-northern-town-lyrics
 name: Life In A Northern Town
@@ -91,6 +94,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1986-04-19'
+release_year: 1985
+runtime: 259293
 ---
 The Salvation Army band played
 And the children drunk lemonade

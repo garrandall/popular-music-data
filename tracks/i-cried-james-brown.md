@@ -1,8 +1,11 @@
 ---
+album: Roots Of A Revolution
 artists:
 - James Brown
+external_ids:
+  spotify: spotify:track:2jH0hsKtB5SayYxPoqKric
 features: []
-genres: []
+first_released_as_single: false
 key: i-cried-james-brown
 lyrics_url: https://genius.com/James-brown-i-cried-lyrics
 name: I Cried
@@ -31,6 +34,8 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '1971-06-12'
+release_year: 1971
+runtime: 161600
 ---
 Keep me in pain
 Keep me in pain

@@ -1,8 +1,11 @@
 ---
+album: Candy Coated Goodees
 artists:
 - The Goodees
+external_ids:
+  spotify: spotify:track:1GiHu9xQ1yiPpFB5HpKwgm
 features: []
-genres: []
+first_released_as_single: false
 key: condition-red-the-goodees
 lyrics_url: https://genius.com/The-goodees-condition-red-lyrics
 name: Condition Red
@@ -51,6 +54,8 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '1969-03-01'
+release_year: 1968
+runtime: 171524
 ---
 Condition red
 Don't you come over tonight

@@ -1,8 +1,11 @@
 ---
+album: Love Spit Love
 artists:
 - Love Spit Love
+external_ids:
+  spotify: spotify:track:6OiR5hOu9WmALw6sjcUH5K
 features: []
-genres: []
+first_released_as_single: false
 key: am-i-wrong-love-spit-love
 lyrics_url: https://www.musixmatch.com/lyrics/Love-Spit-Love/Am-I-Wrong
 name: Am I Wrong
@@ -47,6 +50,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1994-11-12'
+release_year: 1994
+runtime: 214173
 ---
 There's too much that I keep to myself
 And I turn my back on my faith

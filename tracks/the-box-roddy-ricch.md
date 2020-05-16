@@ -1,8 +1,11 @@
 ---
+album: Please Excuse Me For Being Antisocial
 artists:
 - Roddy Ricch
+external_ids:
+  spotify: spotify:track:0nbXyq5TXYPCO7pr3N8S4I
 features: []
-genres: []
+first_released_as_single: false
 key: the-box-roddy-ricch
 lyrics_url: https://www.azlyrics.com/lyrics/roddyricch/thebox.html
 name: The Box
@@ -63,8 +66,9 @@ rankings:
   rank: 1
   ranking_list: Billboard Hot 100
   start_date: '2020-03-21'
+release_year: 2019
+runtime: 196652
 ---
-
 Pullin' out the coupe at the lot
 Told 'em fuck 12, fuck SWAT
 Bustin' all the bales out the box
@@ -131,6 +135,3 @@ She sucked a nigga soul, got the Cash App
 Told 'em wipe a nigga nose, say slatt, slatt
 I won't never sell my soul, and I can back that
 And I really wanna know where you at, at
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Hasten Down The Wind
 artists:
 - Linda Ronstadt
+external_ids:
+  spotify: spotify:track:65iBjEuahF9UMaovP6ouX1
 features: []
-genres: []
+first_released_as_single: false
 key: that-ll-be-the-day-linda-ronstadt
 lyrics_url: https://genius.com/Linda-ronstadt-thatll-be-the-day-lyrics
 name: That'll Be The Day
@@ -71,6 +74,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1976-12-04'
+release_year: 1976
+runtime: 151600
 ---
 Well, that'll be the day when you say goodbye
 That'll be the day when you make me cry

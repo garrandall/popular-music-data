@@ -1,8 +1,12 @@
 ---
+album: Bad 25th Anniversary
 artists:
-- Michael Jackson With Siedah Garrett
-features: []
-genres: []
+- Michael Jackson
+external_ids:
+  spotify: spotify:track:2fytePz8UsbUr8n33QBEcm
+features:
+- Siedah Garrett
+first_released_as_single: false
 key: i-just-can-t-stop-loving-you-michael-jackson-with-siedah-garrett
 lyrics_url: https://www.musixmatch.com/lyrics/Michael-Jackson-with-Siedah-Garrett/I-Just-Can-t-Stop-Loving-You-with-spoken-intro
 name: I Just Can't Stop Loving You
@@ -63,6 +67,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1987-11-07'
+release_year: 1987
+runtime: 251760
 ---
 I Just Want To Lay Next To You
 For Awhile

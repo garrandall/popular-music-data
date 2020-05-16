@@ -1,8 +1,11 @@
 ---
+album: Since I Fell for You
 artists:
 - Lenny Welch
+external_ids:
+  spotify: spotify:track:49TODnGb6Y2wup2Unp2JWC
 features: []
-genres: []
+first_released_as_single: false
 key: since-i-fell-for-you-lenny-welch
 lyrics_url: https://genius.com/Lenny-welch-since-i-fell-for-you-lyrics
 name: Since I Fell For You
@@ -71,6 +74,8 @@ rankings:
   rank: 32
   ranking_list: Billboard Hot 100
   start_date: '1964-02-08'
+release_year: 1963
+runtime: 173960
 ---
 When you just give love
 And never get love

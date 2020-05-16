@@ -1,8 +1,11 @@
 ---
+album: The Scepter Records Story - Volume 3
 artists:
 - The Joe Jeffrey Group
+external_ids:
+  spotify: spotify:track:342npkObScaWpFA66oU6ul
 features: []
-genres: []
+first_released_as_single: false
 key: my-pledge-of-love-the-joe-jeffrey-group
 lyrics_url: https://www.musixmatch.com/lyrics/The-Joe-Jeffrey-Group/My-Pledge-Of-Love
 name: My Pledge Of Love
@@ -55,6 +58,8 @@ rankings:
   rank: 33
   ranking_list: Billboard Hot 100
   start_date: '1969-08-23'
+release_year: 1969
+runtime: 161573
 ---
 I woke up this mornin', Baby
 I had you on my mind

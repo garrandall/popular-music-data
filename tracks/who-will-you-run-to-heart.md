@@ -1,8 +1,11 @@
 ---
+album: Bad Animals
 artists:
 - Heart
+external_ids:
+  spotify: spotify:track:2G7ttyDosjWmunOYsNRm0C
 features: []
-genres: []
+first_released_as_single: false
 key: who-will-you-run-to-heart
 lyrics_url: https://genius.com/Heart-who-will-you-run-to-lyrics
 name: Who Will You Run To
@@ -95,6 +98,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1988-01-09'
+release_year: 1987
+runtime: 246400
 ---
 You're not sure what you want to do
 With your life

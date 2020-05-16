@@ -1,8 +1,11 @@
 ---
+album: AI YoungBoy 2
 artists:
 - YoungBoy Never Broke Again
+external_ids:
+  spotify: spotify:track:7r3DovocYjHSpqCz7Xg9GG
 features: []
-genres: []
+first_released_as_single: false
 key: time-i-m-on-youngboy-never-broke-again
 lyrics_url: https://genius.com/Youngboy-never-broke-again-time-im-on-lyrics
 name: Time I'm On
@@ -11,6 +14,8 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '2019-10-26'
+release_year: 2019
+runtime: 192012
 ---
 Three, man
 Dubba-AA flexin'

@@ -1,9 +1,12 @@
 ---
+album: Bully (Music from the Larry Clark Film) - Clean Version
 artists:
 - JT Money
+external_ids:
+  spotify: spotify:track:4LlIngmWNjQj29LRZQiyjW
 features:
 - Sole
-genres: []
+first_released_as_single: false
 key: who-dat-jt-money-sole
 lyrics_url: https://genius.com/Jt-money-who-dat-feat-sole-lyrics
 name: Who Dat
@@ -88,6 +91,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1999-09-04'
+release_year: 1999
+runtime: 233773
 ---
 Jack jack... YEAH!
 Put em up! Put em up!

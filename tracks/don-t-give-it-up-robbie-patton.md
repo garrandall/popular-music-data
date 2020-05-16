@@ -1,8 +1,11 @@
 ---
+album: Lost Hits Of The 80's
 artists:
 - Robbie Patton
+external_ids:
+  spotify: spotify:track:1hCdCmzDGvUsmWuPQfcjDf
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-give-it-up-robbie-patton
 lyrics_url: https://www.musixmatch.com/lyrics/Robbie-Patton/Don-t-Give-It-Up
 name: Don't Give It Up
@@ -59,6 +62,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1981-10-03'
+release_year: 1981
+runtime: 229093
 ---
 You're tired of fighting
 You want some love

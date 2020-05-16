@@ -1,8 +1,11 @@
 ---
+album: Don't Be Cruel
 artists:
 - Bobby Brown
+external_ids:
+  spotify: spotify:track:5KG4OVGxSrFmNHGZBezJJn
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-be-cruel-bobby-brown
 lyrics_url: https://genius.com/Bobby-brown-dont-be-cruel-lyrics
 name: Don't Be Cruel
@@ -111,6 +114,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1989-01-14'
+release_year: 1988
+runtime: 408306
 ---
 Girl, the only thing that matters in my life
 Is that I'm down for you and treat you right

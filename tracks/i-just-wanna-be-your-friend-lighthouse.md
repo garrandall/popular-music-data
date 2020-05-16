@@ -1,8 +1,11 @@
 ---
+album: Thoughts On Movin' On
 artists:
 - Lighthouse
+external_ids:
+  spotify: spotify:track:3ZuGvHA3O7iKgtwqd99Zey
 features: []
-genres: []
+first_released_as_single: false
 key: i-just-wanna-be-your-friend-lighthouse
 lyrics_url: https://genius.com/Lighthouse-i-just-wanna-be-your-friend-lyrics
 name: I Just Wanna Be Your Friend
@@ -15,6 +18,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1972-05-06'
+release_year: 1971
+runtime: 190960
 ---
 You think that I'd like to make it with you, girl
 But it's against my better judgement to do it

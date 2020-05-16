@@ -1,8 +1,11 @@
 ---
+album: Red Opps
 artists:
 - 21 Savage
+external_ids:
+  spotify: spotify:track:3cqZH3cqvfbV8wVbvHyPbG
 features: []
-genres: []
+first_released_as_single: true
 key: red-opps-21-savage
 lyrics_url: https://genius.com/21-savage-red-opps-lyrics
 name: Red Opps
@@ -27,6 +30,8 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '2017-02-04'
+release_year: 2016
+runtime: 163340
 ---
 Yeah, yeah, yeah
 I pull up roll the window down and

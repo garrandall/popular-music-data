@@ -1,8 +1,11 @@
 ---
+album: This One's for You
 artists:
 - Luke Combs
+external_ids:
+  spotify: spotify:track:4gB7HrYHbJVJ5RFOjxmoq4
 features: []
-genres: []
+first_released_as_single: false
 key: one-number-away-luke-combs
 lyrics_url: https://www.azlyrics.com/lyrics/lukecombs/onenumberaway.html
 name: One Number Away
@@ -87,8 +90,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2018-08-11'
+release_year: 2017
+runtime: 221800
 ---
-
 Are you sitting at home all alone trying to fall asleep?
 Are you staring a hole through your phone praying that it rings?
 Are you watching a movie that you've seen a thousand times?
@@ -140,6 +144,3 @@ But I'm still one number away
 Away
 Away
 Yeah, I'm still one number away
-
-
-

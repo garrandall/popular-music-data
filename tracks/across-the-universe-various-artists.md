@@ -1,8 +1,11 @@
 ---
+album: Cape Cod Covers, Vol. 2
 artists:
 - Various Artists
+external_ids:
+  spotify: spotify:track:4lxreqqyX8FBYgwClz3TRa
 features: []
-genres: []
+first_released_as_single: false
 key: across-the-universe-various-artists
 lyrics_url: https://www.musixmatch.com/lyrics/Various-Artists/Across-the-Universe
 name: Across The Universe
@@ -11,6 +14,8 @@ rankings:
   rank: 22
   ranking_list: Billboard Hot 100
   start_date: '2005-03-05'
+release_year: 2005
+runtime: 343493
 ---
 Words are flowing out like endless rain into a paper cup,
 They slither while they pass they slip away across the universe

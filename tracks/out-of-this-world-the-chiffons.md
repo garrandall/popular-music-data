@@ -1,8 +1,11 @@
 ---
+album: The Best Of The Chiffons
 artists:
 - The Chiffons
+external_ids:
+  spotify: spotify:track:0UFIypTuAtPrmBVwjdA6VA
 features: []
-genres: []
+first_released_as_single: false
 key: out-of-this-world-the-chiffons
 lyrics_url: https://www.azlyrics.com/lyrics/chiffons/outofthisworld.html
 name: Out Of This World
@@ -23,8 +26,9 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1966-08-27'
+release_year: 1966
+runtime: 127186
 ---
-
 Out of this world
 That's where you take me
 Every time you hold me
@@ -63,6 +67,3 @@ Out of this, out of this world
 Out of this world
 Take me there, take me there
 Baby love
-
-
-

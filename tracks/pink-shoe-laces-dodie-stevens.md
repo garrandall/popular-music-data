@@ -1,8 +1,11 @@
 ---
+album: Pink Shoe Laces
 artists:
 - Dodie Stevens
+external_ids:
+  spotify: spotify:track:4sEHyfzX5ZyFKfO0KiMd5m
 features: []
-genres: []
+first_released_as_single: false
 key: pink-shoe-laces-dodie-stevens
 lyrics_url: https://genius.com/Dodie-stevens-pink-shoe-laces-lyrics
 name: Pink Shoe Laces
@@ -83,6 +86,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1959-06-22'
+release_year: 1959
+runtime: 145360
 ---
 Now I've got a guy and his name is Dooley
 He's my guy and I love him truly

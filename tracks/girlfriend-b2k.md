@@ -1,8 +1,11 @@
 ---
+album: The Remixes Vol. 2
 artists:
 - B2K
+external_ids:
+  spotify: spotify:track:3whFobcwxjtE5kV5Xg5O6I
 features: []
-genres: []
+first_released_as_single: false
 key: girlfriend-b2k
 lyrics_url: https://genius.com/B2k-girlfriend-lyrics
 name: Girlfriend
@@ -59,6 +62,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2003-05-31'
+release_year: 2003
+runtime: 177293
 ---
 I've got everything I want in my life except a girlfriend
 (B2K, Pied Piper)

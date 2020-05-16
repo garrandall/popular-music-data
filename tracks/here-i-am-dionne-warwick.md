@@ -1,8 +1,11 @@
 ---
+album: Here I Am
 artists:
 - Dionne Warwick
+external_ids:
+  spotify: spotify:track:53QdLR7B8sP1O4AUvHEjdF
 features: []
-genres: []
+first_released_as_single: false
 key: here-i-am-dionne-warwick
 lyrics_url: https://genius.com/Dionne-warwick-here-i-am-lyrics
 name: Here I Am
@@ -39,6 +42,8 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '1965-08-21'
+release_year: 1965
+runtime: 179533
 ---
 Here I am
 Here I'll stay

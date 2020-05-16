@@ -1,9 +1,12 @@
 ---
+album: The Best of Bruce & Terry
 artists:
 - Bruce
 - Terry
+external_ids:
+  spotify: spotify:track:4Z7iDFkWNxRfjd9jvLgbbI
 features: []
-genres: []
+first_released_as_single: false
 key: summer-means-fun-bruce-terry
 lyrics_url: https://www.musixmatch.com/lyrics/Bruce-Terry/Summer-Means-Fun
 name: Summer Means Fun
@@ -28,6 +31,8 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1964-08-22'
+release_year: 1964
+runtime: 139866
 ---
 Surfing every day down at Malibu
 Neath the warm California sun

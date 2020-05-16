@@ -1,8 +1,11 @@
 ---
+album: For Certain Because...
 artists:
 - The Hollies
+external_ids:
+  spotify: spotify:track:6ZDInLIIVehS4QptiEibOn
 features: []
-genres: []
+first_released_as_single: false
 key: stop-stop-stop-the-hollies
 lyrics_url: https://genius.com/The-hollies-stop-stop-stop-lyrics
 name: Stop Stop Stop
@@ -47,9 +50,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1966-12-31'
+release_year: 1966
+runtime: 178160
 ---
-
-
 See the girl with cymbals on her fingers
 Entering through the door
 Ruby glistening from her navel

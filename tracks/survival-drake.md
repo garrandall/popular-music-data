@@ -1,8 +1,11 @@
 ---
+album: Scorpion
 artists:
 - Drake
+external_ids:
+  spotify: spotify:track:2yg9UN4eo5eMVJ7OB4RWj3
 features: []
-genres: []
+first_released_as_single: false
 key: survival-drake
 lyrics_url: https://genius.com/Drake-survival-lyrics
 name: Survival
@@ -15,6 +18,8 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '2018-07-21'
+release_year: 2018
+runtime: 136186
 ---
 I been waitin' on this
 Yeah

@@ -1,10 +1,13 @@
 ---
+album: Double Vision
 artists:
 - Prince Royce
+external_ids:
+  spotify: spotify:track:20O2E1JUPkYzplbBccP231
 features:
 - Jennifer Lopez
 - Pitbull
-genres: []
+first_released_as_single: true
 key: back-it-up-prince-royce-jennifer-lopez-pitbull
 lyrics_url: https://www.azlyrics.com/lyrics/princeroyce/backitupspanishversion.html
 name: Back It Up
@@ -17,9 +20,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2015-08-15'
+release_year: 2015
+runtime: 200952
 ---
-
-
 What's up, baby?
 It's your new boyfriend
 Royce
@@ -122,6 +125,3 @@ You turn around and make it bounce
 Baby, back back back it up
 (DÃ¡melo papi chulo
 DÃ¡melo papi chulo)
-
-
-

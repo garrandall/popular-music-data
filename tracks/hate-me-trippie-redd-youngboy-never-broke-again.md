@@ -1,9 +1,12 @@
 ---
+album: A Love Letter To You 4
 artists:
 - Trippie Redd
+external_ids:
+  spotify: spotify:track:1FxTz4x5X7ewAICkKhB3kA
 features:
 - YoungBoy Never Broke Again
-genres: []
+first_released_as_single: false
 key: hate-me-trippie-redd-youngboy-never-broke-again
 lyrics_url: https://www.azlyrics.com/lyrics/trippieredd/hateme.html
 name: Hate Me
@@ -12,8 +15,9 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '2019-12-07'
+release_year: 2019
+runtime: 144770
 ---
-
 You acting like you hate me
 Where is your love?
 You do too much complaining
@@ -64,6 +68,3 @@ Just me and my bae, yeah
 One shot, get the racks out the safe, yeah
 We gon' party too late, yeah
 Do the dash in a whip on the trace, yeah
-
-
-

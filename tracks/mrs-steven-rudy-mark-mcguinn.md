@@ -1,8 +1,11 @@
 ---
+album: Mrs. Steven Rudy
 artists:
 - Mark McGuinn
+external_ids:
+  spotify: spotify:track:50JSuPksOs3K8IOL0Fqt5K
 features: []
-genres: []
+first_released_as_single: true
 key: mrs-steven-rudy-mark-mcguinn
 lyrics_url: https://genius.com/Mark-mcguinn-mrs-steven-rudy-lyrics
 name: Mrs Steven Rudy
@@ -67,6 +70,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2001-06-30'
+release_year: 2001
+runtime: 209520
 ---
 I get up on Sunday, about eight-fifteen
 Just to get the paper that I never read

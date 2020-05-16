@@ -1,8 +1,11 @@
 ---
+album: Jody Watley
 artists:
 - Jody Watley
+external_ids:
+  spotify: spotify:track:6qMrM4U5bf8n06PgX0qkB0
 features: []
-genres: []
+first_released_as_single: false
 key: still-a-thrill-jody-watley
 lyrics_url: https://www.azlyrics.com/lyrics/jodywatley/stillathrill.html
 name: Still A Thrill
@@ -35,8 +38,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1987-08-01'
+release_year: 1987
+runtime: 281826
 ---
-
 You know it's funny, funny how time flies
 As I watch days turn into years
 You never know if it will last forever
@@ -66,6 +70,3 @@ It's still a thrill
 When you hold me
 It's still a thrill
 When you're loving me
-
-
-

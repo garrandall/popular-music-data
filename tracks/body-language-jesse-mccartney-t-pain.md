@@ -1,9 +1,12 @@
 ---
+album: Body Language - featuring T-Pain
 artists:
 - Jesse McCartney
+external_ids:
+  spotify: spotify:track:66cQXuWUSM6vcfRxAPVTtf
 features:
 - T-Pain
-genres: []
+first_released_as_single: true
 key: body-language-jesse-mccartney-t-pain
 lyrics_url: https://genius.com/Jesse-mccartney-body-language-remix-lyrics
 name: Body Language
@@ -68,6 +71,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2010-01-23'
+release_year: 2009
+runtime: 221773
 ---
 Nappy Boy, Pretty Boy collaboration
 That thing you got behind you is amazing

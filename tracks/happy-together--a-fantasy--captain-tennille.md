@@ -1,9 +1,12 @@
 ---
+album: Make Your Move
 artists:
 - Captain
 - Tennille
+external_ids:
+  spotify: spotify:track:1KAzkCLEUua2wRYPMDkFdF
 features: []
-genres: []
+first_released_as_single: false
 key: happy-together--a-fantasy--captain-tennille
 lyrics_url: https://www.azlyrics.com/lyrics/captaintennille/happytogetherfantasy.html
 name: Happy Together (A Fantasy)
@@ -32,8 +35,9 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1980-06-14'
+release_year: 1979
+runtime: 326266
 ---
-
 Imagine me and you, I do
 I think about you day and night
 It's only right
@@ -99,6 +103,3 @@ Baby, the skies'll be blue
 For all my life
 
 All my life!
-
-
-

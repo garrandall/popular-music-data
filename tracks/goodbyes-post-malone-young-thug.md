@@ -1,9 +1,12 @@
 ---
+album: Hollywood's Bleeding
 artists:
 - Post Malone
+external_ids:
+  spotify: spotify:track:0t3ZvGKlmYmVsDzBJAXK8C
 features:
 - Young Thug
-genres: []
+first_released_as_single: false
 key: goodbyes-post-malone-young-thug
 lyrics_url: https://www.azlyrics.com/lyrics/postmalone/goodbyes.html
 name: Goodbyes
@@ -92,9 +95,9 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '2019-12-07'
+release_year: 2019
+runtime: 174853
 ---
-
-
 Me and Kurt feel the same
 Too much pleasure is pain
 My girl spites me in vain
@@ -167,6 +170,3 @@ Goodbye, goodbye, goodbye
 Goodbye, goodbye, goodbye
 Goodbye, goodbye, goodbye
 I'm no good at goodbyes
-
-
-

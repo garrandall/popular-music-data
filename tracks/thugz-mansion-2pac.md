@@ -1,8 +1,11 @@
 ---
+album: Better Dayz
 artists:
 - 2Pac
+external_ids:
+  spotify: spotify:track:3eBBbAEBQdr6tkUUd8gyuQ
 features: []
-genres: []
+first_released_as_single: false
 key: thugz-mansion-2pac
 lyrics_url: https://genius.com/2pac-thugz-mansion-lyrics
 name: Thugz Mansion
@@ -87,6 +90,8 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '2003-04-19'
+release_year: 2002
+runtime: 247600
 ---
 Shit, tired of gettin' shot at
 Tired of gettin' chased by the police and arrested

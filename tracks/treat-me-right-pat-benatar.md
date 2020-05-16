@@ -1,8 +1,11 @@
 ---
+album: Crimes Of Passion
 artists:
 - Pat Benatar
+external_ids:
+  spotify: spotify:track:1s0OQOEwJiCybX4adE63Tf
 features: []
-genres: []
+first_released_as_single: false
 key: treat-me-right-pat-benatar
 lyrics_url: https://www.azlyrics.com/lyrics/patbenatar/treatmeright.html
 name: Treat Me Right
@@ -79,8 +82,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1981-05-16'
+release_year: 1980
+runtime: 205600
 ---
-
 You want me to leave
 You want me to stay
 You ask me to come back
@@ -151,6 +155,3 @@ Treat me right, treat me right
 Treat me right, treat me right
 Treat me right, treat me right
 Treat me right
-
-
-

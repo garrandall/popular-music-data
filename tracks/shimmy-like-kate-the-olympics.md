@@ -1,8 +1,11 @@
 ---
+album: Golden Oldies
 artists:
 - The Olympics
+external_ids:
+  spotify: spotify:track:1JaYkLmVyZfIaIYWB7fDYY
 features: []
-genres: []
+first_released_as_single: false
 key: shimmy-like-kate-the-olympics
 lyrics_url: https://genius.com/The-olympics-shimmy-like-kate-lyrics
 name: Shimmy Like Kate
@@ -51,6 +54,8 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '1960-11-21'
+release_year: 1960
+runtime: 145013
 ---
 (Boy's hot, the boy's hot)
 Shimmy, shimmy

@@ -1,8 +1,11 @@
 ---
+album: Never Regret
 artists:
 - Craig Campbell
+external_ids:
+  spotify: spotify:track:1ugf7FcFQ0s95CTB0btuzz
 features: []
-genres: []
+first_released_as_single: false
 key: keep-them-kisses-comin--craig-campbell
 lyrics_url: https://genius.com/Craig-campbell-keep-them-kisses-comin-lyrics
 name: Keep Them Kisses Comin'
@@ -47,6 +50,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2014-07-19'
+release_year: 2013
+runtime: 159826
 ---
 You got your hair down
 You got that look in your eye

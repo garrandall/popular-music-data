@@ -1,8 +1,11 @@
 ---
+album: Apples, Peaches, Pumpkin Pie
 artists:
 - Jay And The Techniques
+external_ids:
+  spotify: spotify:track:6NPnloNwBbMtQ2STiF0uUC
 features: []
-genres: []
+first_released_as_single: false
 key: keep-the-ball-rollin--jay-and-the-techniques
 lyrics_url: https://genius.com/Jay-and-the-techniques-keep-the-ball-rollin-lyrics
 name: Keep The Ball Rollin'
@@ -55,6 +58,8 @@ rankings:
   rank: 34
   ranking_list: Billboard Hot 100
   start_date: '1968-01-06'
+release_year: 1967
+runtime: 187160
 ---
 Keep the ball rollin', Keep the ball rollin'
 Girl, the name of the game is love

@@ -1,9 +1,12 @@
 ---
+album: The Massacre
 artists:
 - 50 Cent
+external_ids:
+  spotify: spotify:track:3aJT4zg9wnVaoV88V4fJRd
 features:
 - Olivia
-genres: []
+first_released_as_single: true
 key: candy-shop-50-cent-olivia
 lyrics_url: https://www.azlyrics.com/lyrics/50cent/candyshop.html
 name: Candy Shop
@@ -100,9 +103,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2005-07-09'
+release_year: 2005
+runtime: 208906
 ---
-
-
 Yeah...
 Uh huh
 So seductive
@@ -162,4 +165,3 @@ As Long as she ain't stopping, homie I ain't stopping
 Dripping wet with sweat man its on and popping
 All my champagne campaign, bottle after bottle its on
 And we gon' sip 'til every bubble in every bottle is gone
-

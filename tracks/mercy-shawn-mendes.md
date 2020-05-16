@@ -1,8 +1,11 @@
 ---
+album: Live At Madison Square Garden
 artists:
 - Shawn Mendes
+external_ids:
+  spotify: spotify:track:4ArzifzZWzaknCV7HpTR8p
 features: []
-genres: []
+first_released_as_single: true
 key: mercy-shawn-mendes
 lyrics_url: https://www.musixmatch.com/lyrics/Shawn-Mendes/Mercy
 name: Mercy
@@ -135,6 +138,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2017-05-13'
+release_year: 2016
+runtime: 203895
 ---
 You've got a hold on me
 Don't even know your power

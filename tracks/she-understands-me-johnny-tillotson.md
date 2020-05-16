@@ -1,8 +1,11 @@
 ---
+album: Johnny Tillotson Sings the Golden Hits
 artists:
 - Johnny Tillotson
+external_ids:
+  spotify: spotify:track:0L7Uv78U87AqyMaD7J24bV
 features: []
-genres: []
+first_released_as_single: false
 key: she-understands-me-johnny-tillotson
 lyrics_url: https://genius.com/Johnny-tillotson-she-understands-me-lyrics
 name: She Understands Me
@@ -51,6 +54,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1965-01-09'
+release_year: 1964
+runtime: 113270
 ---
 You ask me why, why I love her --
 Woh-woh, dum-dee-dah-dee

@@ -1,8 +1,11 @@
 ---
+album: Curtis Stigers
 artists:
 - Curtis Stigers
+external_ids:
+  spotify: spotify:track:04jNbL6I5ZPLYKKlL08Z8Z
 features: []
-genres: []
+first_released_as_single: false
 key: i-wonder-why-curtis-stigers
 lyrics_url: https://genius.com/Curtis-stigers-i-wonder-why-lyrics
 name: I Wonder Why
@@ -87,6 +90,8 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '1992-01-18'
+release_year: 1991
+runtime: 267240
 ---
 Love is a hunger
 That burns in my soul

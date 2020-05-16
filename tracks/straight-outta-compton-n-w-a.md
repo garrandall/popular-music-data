@@ -1,8 +1,11 @@
 ---
+album: Straight Outta Compton
 artists:
 - N.W.A
+external_ids:
+  spotify: spotify:track:5QKM7U6l7bMdJItolkM4x4
 features: []
-genres: []
+first_released_as_single: false
 key: straight-outta-compton-n-w-a
 lyrics_url: https://www.azlyrics.com/lyrics/nwa/straightouttacompton.html
 name: Straight Outta Compton
@@ -15,8 +18,9 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '2015-09-12'
+release_year: 1988
+runtime: 243333
 ---
-
 You are now about to witness the strength of street knowledge
 
 
@@ -120,6 +124,3 @@ Word to the motherfucker, straight outta Compton
 
 (City of Compton, City of Compton)
 (Damn that shit was dope!)
-
-
-

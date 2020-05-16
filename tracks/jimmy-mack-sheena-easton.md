@@ -1,8 +1,11 @@
 ---
+album: Do You
 artists:
 - Sheena Easton
+external_ids:
+  spotify: spotify:track:27hcOURSPLOEPBaPeuDyn7
 features: []
-genres: []
+first_released_as_single: false
 key: jimmy-mack-sheena-easton
 lyrics_url: https://www.azlyrics.com/lyrics/sheenaeaston/jimmymack.html
 name: Jimmy Mack
@@ -31,8 +34,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1986-03-15'
+release_year: 1985
+runtime: 255440
 ---
-
 Jimmy Mack, Jimmy
 Oh, Jimmy Mack
 When are you comin' back?
@@ -86,6 +90,3 @@ Can't hold back very much longer (oh!)
 Jimmy Mack, when are you comin' back?
 Need your lovin' (oh, Jimmy Mack)
 Need your lovin' (oh, Jimmy Mack)
-
-
-

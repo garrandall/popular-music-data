@@ -1,8 +1,11 @@
 ---
+album: A Lot Of Dominos
 artists:
 - Fats Domino
+external_ids:
+  spotify: spotify:track:5TcEq6qNQJ7HXeTxwB3ZGB
 features: []
-genres: []
+first_released_as_single: false
 key: walking-to-new-orleans-fats-domino
 lyrics_url: https://genius.com/Fats-domino-walking-to-new-orleans-lyrics
 name: Walking To New Orleans
@@ -63,6 +66,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1960-09-19'
+release_year: 1960
+runtime: 118466
 ---
 It's time I'm walkin' to New Orleans
 I'm walkin' to New Orleans

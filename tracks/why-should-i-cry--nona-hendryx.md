@@ -1,8 +1,11 @@
 ---
+album: Female Trouble
 artists:
 - Nona Hendryx
+external_ids:
+  spotify: spotify:track:7HhPOs2zt5fq2h6HJtwSAL
 features: []
-genres: []
+first_released_as_single: false
 key: why-should-i-cry--nona-hendryx
 lyrics_url: https://genius.com/Nona-hendryx-why-should-i-cry-lyrics
 name: Why Should I Cry?
@@ -43,6 +46,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1987-07-18'
+release_year: 1987
+runtime: 346773
 ---
 Why should I cry
 Why should I cry, baby, for you

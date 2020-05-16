@@ -1,8 +1,11 @@
 ---
+album: Trigga Reloaded
 artists:
 - Trey Songz
+external_ids:
+  spotify: spotify:track:4NYwy0R3NdvORX2B6OZXBT
 features: []
-genres: []
+first_released_as_single: false
 key: slow-motion-trey-songz
 lyrics_url: https://genius.com/Trey-songz-slow-motion-lyrics
 name: Slow Motion
@@ -111,6 +114,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2015-08-22'
+release_year: 2015
+runtime: 197854
 ---
 I know you got all dressed up for the club
 Waiting on a nigga come pick you up

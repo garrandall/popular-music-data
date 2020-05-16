@@ -1,8 +1,11 @@
 ---
+album: The Essential Kenny G
 artists:
 - Kenny G
+external_ids:
+  spotify: spotify:track:0DxsBAsYTHHTe9wDniqF0q
 features: []
-genres: []
+first_released_as_single: false
 key: silhouette-kenny-g
 lyrics_url: https://www.azlyrics.com/lyrics/kennyg/silhouette.html
 name: Silhouette
@@ -75,9 +78,7 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1989-02-18'
+release_year: 1986
+runtime: 327373
 ---
-
 Instrumental
-
-
-

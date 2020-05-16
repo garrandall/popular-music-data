@@ -1,8 +1,11 @@
 ---
+album: James Taylor
 artists:
 - James Taylor
+external_ids:
+  spotify: spotify:track:6JOSJqqpAKoD4s3qbNDcPT
 features: []
-genres: []
+first_released_as_single: false
 key: carolina-in-my-mind-james-taylor
 lyrics_url: https://genius.com/James-taylor-carolina-in-my-mind-lyrics
 name: Carolina In My Mind
@@ -35,6 +38,8 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1970-12-26'
+release_year: 1968
+runtime: 218386
 ---
 In my mind, I'm going to Carolina
 Can't you see the sunshine?

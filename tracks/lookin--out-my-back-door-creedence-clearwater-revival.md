@@ -1,8 +1,11 @@
 ---
+album: Cosmo's Factory
 artists:
 - Creedence Clearwater Revival
+external_ids:
+  spotify: spotify:track:6EfoVg2jYjlTG1eGP574y8
 features: []
-genres: []
+first_released_as_single: false
 key: lookin--out-my-back-door-creedence-clearwater-revival
 lyrics_url: https://genius.com/Creedence-clearwater-revival-lookin-out-my-back-door-lyrics
 name: Lookin' Out My Back Door
@@ -59,6 +62,8 @@ rankings:
   rank: 36
   ranking_list: Billboard Hot 100
   start_date: '1970-10-31'
+release_year: 1969
+runtime: 152466
 ---
 Just got home from Illinois, lock the front door, oh boy
 Got to sit down, take a rest on the porch

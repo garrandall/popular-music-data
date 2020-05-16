@@ -1,8 +1,11 @@
 ---
+album: Fe Real
 artists:
 - Maxi Priest
+external_ids:
+  spotify: spotify:track:4X3RReLZBzmXfmE5G08HL2
 features: []
-genres: []
+first_released_as_single: false
 key: groovin--in-the-midnight-maxi-priest
 lyrics_url: https://www.azlyrics.com/lyrics/maxipriest/groovininthemidnight.html
 name: Groovin' In The Midnight
@@ -39,8 +42,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1992-12-19'
+release_year: 1992
+runtime: 297533
 ---
-
 I wanna do it with you
 I wanna do it with you
 Ah yeah, yeah I wanna do it with you
@@ -170,6 +174,3 @@ So let's just take it slow
 Groovin' in the midnight
 Sailing on a summer breeze
 Rocking with the passion ecstasy
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music presents Glease'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:5xSqUAlAwlnYU6sjxtKe4g
 features: []
-genres: []
+first_released_as_single: false
 key: summer-nights-glee-cast
 lyrics_url: https://www.azlyrics.com/lyrics/gleecast/summernights.html
 name: Summer Nights
@@ -11,9 +14,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2012-02-04'
+release_year: 2012
+runtime: 216053
 ---
-
-
 Summer lovin' had me a blast
 
 
@@ -165,6 +168,3 @@ Summer dreams ripped at the seams, bu-ut oh those su-ummer nights...
 
 
 Tell me more, tell me more!
-
-
-

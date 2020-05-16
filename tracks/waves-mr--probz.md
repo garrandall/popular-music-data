@@ -1,8 +1,11 @@
 ---
+album: Ultra Dance 16
 artists:
 - Mr. Probz
+external_ids:
+  spotify: spotify:track:2gGIhNmn8NaUr3LNofUIBZ
 features: []
-genres: []
+first_released_as_single: true
 key: waves-mr--probz
 lyrics_url: https://www.azlyrics.com/lyrics/mrprobz/waves.html
 name: Waves
@@ -107,8 +110,9 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '2015-02-21'
+release_year: 2013
+runtime: 174266
 ---
-
 My face above the water
 My feet can't touch the ground,
 Touch the ground, and it feels like
@@ -135,6 +139,3 @@ I'm slowly drifting (drifting away)
 And it feels like I'm drowning
 Pulling against the stream
 Pulling against the stream
-
-
-

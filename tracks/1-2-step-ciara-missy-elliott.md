@@ -1,9 +1,12 @@
 ---
+album: DVD Bonus Audio
 artists:
 - Ciara
+external_ids:
+  spotify: spotify:track:3x9LFpV6tzq0qWaBMvY2UT
 features:
 - Missy Elliott
-genres: []
+first_released_as_single: true
 key: 1-2-step-ciara-missy-elliott
 lyrics_url: https://www.azlyrics.com/lyrics/ciara/12step.html
 name: 1 2 Step
@@ -164,9 +167,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2005-07-23'
+release_year: 2004
+runtime: 231773
 ---
-
-
 Ladies and gentlemen (Ladies and gentlemen)
 This is a Jazze Phizal (Jazze Phizal) productshizzle,
 Missy (Missy),
@@ -255,6 +258,3 @@ A Jazze Pha production
 
 (oooohweee)
 (oooohweee)
-
-
-

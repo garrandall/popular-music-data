@@ -1,8 +1,11 @@
 ---
+album: My World 2.0
 artists:
 - Justin Bieber
+external_ids:
+  spotify: spotify:track:01BlGnXpLuC0BjgUxVYZFb
 features: []
-genres: []
+first_released_as_single: false
 key: never-let-you-go-justin-bieber
 lyrics_url: https://genius.com/Justin-bieber-never-let-you-go-lyrics
 name: Never Let You Go
@@ -15,6 +18,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2010-03-27'
+release_year: 2010
+runtime: 264400
 ---
 They say that hate has been sent
 So let loose the talk of love

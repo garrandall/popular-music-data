@@ -1,8 +1,11 @@
 ---
+album: BEASTMODE 2
 artists:
 - Future
+external_ids:
+  spotify: spotify:track:5UVNjOSh27encRBqTpBWup
 features: []
-genres: []
+first_released_as_single: false
 key: cuddle-my-wrist-future
 lyrics_url: https://www.azlyrics.com/lyrics/future/cuddlemywrist.html
 name: Cuddle My Wrist
@@ -11,8 +14,9 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '2018-07-21'
+release_year: 2018
+runtime: 181894
 ---
-
 Zaytoven
 Cuddle my wrist, cu-cu-cuddle my wrist
 Cuddle my bitch, cu-cu-cuddle my bit'
@@ -82,6 +86,3 @@ Fuck around, I had to call up Scratch
 
 Cuddle my wrist, cuddle my bitch, cuddle my wrist
 Cuddle my bitch, cuddle my wrist, cuddle my wrist
-
-
-

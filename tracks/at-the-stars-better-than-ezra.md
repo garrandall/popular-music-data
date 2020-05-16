@@ -1,8 +1,11 @@
 ---
+album: How Does Your Garden Grow
 artists:
 - Better Than Ezra
+external_ids:
+  spotify: spotify:track:761QxsXoUQQvxQvhp9uN3G
 features: []
-genres: []
+first_released_as_single: false
 key: at-the-stars-better-than-ezra
 lyrics_url: https://www.azlyrics.com/lyrics/betterthanezra/atthestars.html
 name: At The Stars
@@ -23,8 +26,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1999-04-03'
+release_year: 1998
+runtime: 223866
 ---
-
 MAYBE I SHOULD DROP YOU AT YOUR DOOR.
 OR LEAVE TONIGHT AND VANISH UP THE SHORE.
 ANYWHERE BUT HERE.
@@ -58,4 +62,3 @@ COULD IT BE WE'VE DONE SOMETHING WRONG
 WE'D MAKE IT BACK TO YOUR PLACE BEFORE DAWN
 "PLEASE, DON'T TAKE ME HOME."
 "PLEASE, DON'T TAKE ME HOME."
-

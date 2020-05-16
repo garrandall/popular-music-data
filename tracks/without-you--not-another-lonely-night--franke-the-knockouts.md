@@ -1,9 +1,12 @@
 ---
+album: Below the Belt
 artists:
 - Franke
 - The Knockouts
+external_ids:
+  spotify: spotify:track:3hzzv1JDlYAOBaT6eW2fSx
 features: []
-genres: []
+first_released_as_single: false
 key: without-you--not-another-lonely-night--franke-the-knockouts
 lyrics_url: https://genius.com/Franke-and-the-knockouts-without-you-lyrics
 name: Without You (Not Another Lonely Night)
@@ -68,6 +71,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1982-07-10'
+release_year: 1982
+runtime: 227040
 ---
 You know
 Not too long ago

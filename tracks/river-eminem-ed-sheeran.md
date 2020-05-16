@@ -1,9 +1,12 @@
 ---
+album: Revival
 artists:
 - Eminem
+external_ids:
+  spotify: spotify:track:6ZMbykUu07aL2Drx988zAq
 features:
 - Ed Sheeran
-genres: []
+first_released_as_single: false
 key: river-eminem-ed-sheeran
 lyrics_url: https://genius.com/Genius-deutsche-ubersetzungen-eminem-river-feat-ed-sheeran-deutsche-ubersetzung-lyrics
 name: River
@@ -60,6 +63,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '2018-03-24'
+release_year: 2017
+runtime: 221013
 ---
 Ich bin ein Lügner gewesen, ein Dieb gewesen
 Ein Liebhaber gewesen, ein Betrüger gewesen

@@ -1,8 +1,11 @@
 ---
+album: Passage
 artists:
 - Carpenters
+external_ids:
+  spotify: spotify:track:3CrFr7JnfUHJYX5I49e9TV
 features: []
-genres: []
+first_released_as_single: false
 key: calling-occupants-of-interplanetary-craft-carpenters
 lyrics_url: https://www.azlyrics.com/lyrics/carpenters/callingoccupantsofinterplanetarycraft.html
 name: Calling Occupants Of Interplanetary Craft
@@ -63,8 +66,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1978-01-07'
+release_year: 1977
+runtime: 425893
 ---
-
 In your mind you have capacities you know
 To telepath messages through the vast unknown
 Please close your eyes and concentrate
@@ -113,6 +117,3 @@ Calling occupants
 Calling occupants of interplanetary, anti-adversary craft
 
 We are your friends
-
-
-

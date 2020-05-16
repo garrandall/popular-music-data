@@ -1,8 +1,11 @@
 ---
+album: What Were Once Vices Are Now Habits
 artists:
 - The Doobie Brothers
+external_ids:
+  spotify: spotify:track:4p8QcNkaq2FQj8uGJ7HEDK
 features: []
-genres: []
+first_released_as_single: false
 key: black-water-the-doobie-brothers
 lyrics_url: https://genius.com/The-doobie-brothers-black-water-lyrics
 name: Black Water
@@ -75,6 +78,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1975-04-12'
+release_year: 1974
+runtime: 254722
 ---
 Well, I built me a raft and she's ready for floating
 Old Mississippi, she's calling my name

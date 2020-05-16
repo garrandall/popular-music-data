@@ -1,8 +1,11 @@
 ---
+album: Are You Gonna Go My Way
 artists:
 - Lenny Kravitz
+external_ids:
+  spotify: spotify:track:0uHbPoDjquncfYsLt00Aj2
 features: []
-genres: []
+first_released_as_single: false
 key: heaven-help-lenny-kravitz
 lyrics_url: https://www.azlyrics.com/lyrics/lennykravitz/heavenhelp.html
 name: Heaven Help
@@ -19,8 +22,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1994-03-19'
+release_year: 1993
+runtime: 191200
 ---
-
 There comes a time 
 To be free of the heart 
 I wanna be ready 
@@ -75,6 +79,3 @@ Ready for love
 Take a chance 
 Take the chance on love 
 The heart, the fool
-
-
-

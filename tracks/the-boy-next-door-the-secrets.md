@@ -1,8 +1,11 @@
 ---
+album: The Pixies Three Meet The Secrets
 artists:
 - The Secrets
+external_ids:
+  spotify: spotify:track:4DVSn9CXSXehYTkHXZl0Sy
 features: []
-genres: []
+first_released_as_single: false
 key: the-boy-next-door-the-secrets
 lyrics_url: https://genius.com/The-secrets-pop-group-the-boy-next-door-lyrics
 name: The Boy Next Door
@@ -47,6 +50,8 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '1964-01-11'
+release_year: 1963
+runtime: 123133
 ---
 The boy next door has really got me dreamin'
 (dum-dee-dum-dee-dum, the boy next door)

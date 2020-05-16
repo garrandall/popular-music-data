@@ -1,8 +1,11 @@
 ---
+album: LongTime Coming
 artists:
 - Sweeney Todd
+external_ids:
+  spotify: spotify:track:6z3JVDbqyg6jrhMT8c9cBn
 features: []
-genres: []
+first_released_as_single: false
 key: roxy-roller-sweeney-todd
 lyrics_url: https://genius.com/Sweeney-todd-roxy-roller-lyrics
 name: Roxy Roller
@@ -15,6 +18,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1976-08-28'
+release_year: 1976
+runtime: 257959
 ---
 Foxy from the Roxy
 Might turn some heads tonight

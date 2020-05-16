@@ -1,9 +1,12 @@
 ---
+album: 'Glee: The Music, The Complete Season Three'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:0I43ju6kU6lWOyElMDJEj9
 features:
 - Ricky Martin
-genres: []
+first_released_as_single: false
 key: la-isla-bonita-glee-cast-ricky-martin
 lyrics_url: https://genius.com/Glee-cast-la-isla-bonita-lyrics
 name: La Isla Bonita
@@ -12,6 +15,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2012-02-25'
+release_year: 2012
+runtime: 194586
 ---
 David:
 ¿Cómo puede ser verdad?

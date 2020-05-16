@@ -1,8 +1,11 @@
 ---
+album: Wizard of Love
 artists:
 - The Ly - Dells
+external_ids:
+  spotify: spotify:track:6Dh6D8ibRL2mvNUj48eRs3
 features: []
-genres: []
+first_released_as_single: true
 key: wizard-of-love-the-ly---dells
 lyrics_url: https://genius.com/Ly-dells-wizard-of-love-lyrics
 name: Wizard Of Love
@@ -31,6 +34,8 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '1961-09-25'
+release_year: 1961
+runtime: 134053
 ---
 We're off to see the wizard
 Yeah-yeah, the wonderful wizzard of love

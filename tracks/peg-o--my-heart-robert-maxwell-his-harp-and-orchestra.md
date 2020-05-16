@@ -1,8 +1,11 @@
 ---
+album: Peg O' My Heart
 artists:
 - Robert Maxwell
+external_ids:
+  spotify: spotify:track:2i0To7Kr3GbIcRbbPP3xQl
 features: []
-genres: []
+first_released_as_single: false
 key: peg-o--my-heart-robert-maxwell-his-harp-and-orchestra
 name: Peg O' My Heart
 rankings:
@@ -30,5 +33,7 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '1964-07-25'
+release_year: 1964
+runtime: 102741
 ---
 

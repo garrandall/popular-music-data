@@ -1,8 +1,11 @@
 ---
+album: Oral Fixation, Vol. 2
 artists:
 - Shakira
+external_ids:
+  spotify: spotify:track:433JymbpWnRMHXzp1oTRP7
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-bother-shakira
 lyrics_url: https://genius.com/Shakira-dont-bother-lyrics
 name: Don't Bother
@@ -43,6 +46,8 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '2006-01-14'
+release_year: 2005
+runtime: 257026
 ---
 She's got the kind of look that defies gravity
 She's the greatest cook

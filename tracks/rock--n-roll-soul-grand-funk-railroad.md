@@ -1,8 +1,11 @@
 ---
+album: Phoenix
 artists:
 - Grand Funk Railroad
+external_ids:
+  spotify: spotify:track:5JGZ4st8OB83opSKsUdL2p
 features: []
-genres: []
+first_released_as_single: false
 key: rock--n-roll-soul-grand-funk-railroad
 lyrics_url: https://www.azlyrics.com/lyrics/grandfunkrailroad/rocknrollsoul.html
 name: Rock 'N Roll Soul
@@ -59,8 +62,9 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '1972-12-16'
+release_year: 1972
+runtime: 220333
 ---
-
 We're having a party, yeah, yeah, everybody's invited,
 The new generation along with the old.
 If you could get with it just a little more, it don't take much tryin',
@@ -85,6 +89,3 @@ Tell everybody you know, you got some rock 'n roll soul.
 Tell everybody you know, you got some rock 'n roll soul.
 Tell everybody you know, you got some rock 'n roll soul.
 Tell everybody you know, you got some rock 'n roll soul.
-
-
-

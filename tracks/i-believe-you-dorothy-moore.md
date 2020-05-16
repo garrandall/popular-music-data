@@ -1,8 +1,11 @@
 ---
+album: Dorothy Moore
 artists:
 - Dorothy Moore
+external_ids:
+  spotify: spotify:track:3XcDvzZ0ruBkYplB15qkbA
 features: []
-genres: []
+first_released_as_single: false
 key: i-believe-you-dorothy-moore
 lyrics_url: https://genius.com/Dorothy-moore-i-believe-you-lyrics
 name: I Believe You
@@ -67,6 +70,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1977-11-12'
+release_year: 1970
+runtime: 222426
 ---
 I believe you
 

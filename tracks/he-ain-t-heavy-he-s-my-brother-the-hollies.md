@@ -1,8 +1,11 @@
 ---
+album: 'British Legends: 100 Hits'
 artists:
 - The Hollies
+external_ids:
+  spotify: spotify:track:41iPmvB2ogl3dzEHw9EZh0
 features: []
-genres: []
+first_released_as_single: false
 key: he-ain-t-heavy-he-s-my-brother-the-hollies
 lyrics_url: https://genius.com/The-hollies-he-aint-heavy-hes-my-brother-lyrics
 name: He Ain't Heavy He's My Brother
@@ -79,6 +82,8 @@ rankings:
   rank: 27
   ranking_list: Billboard Hot 100
   start_date: '1970-04-18'
+release_year: 1967
+runtime: 257839
 ---
 The road is long
 With many a winding turn

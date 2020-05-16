@@ -1,8 +1,11 @@
 ---
+album: Try to Remember
 artists:
 - The Brothers Four
+external_ids:
+  spotify: spotify:track:6O5bX4w28pi72vJOTlEBTJ
 features: []
-genres: []
+first_released_as_single: false
 key: try-to-remember-the-brothers-four
 lyrics_url: https://genius.com/The-brothers-four-try-to-remember-lyrics
 name: Try To Remember
@@ -19,6 +22,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1965-11-20'
+release_year: 1965
+runtime: 173986
 ---
 Try to remember the kind of September
 When life was slow and oh, so mellow

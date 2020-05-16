@@ -1,8 +1,11 @@
 ---
+album: A Hard Day's Night
 artists:
 - The Beatles
+external_ids:
+  spotify: spotify:track:5J2CHimS7dWYMImCHkEFaJ
 features: []
-genres: []
+first_released_as_single: false
 key: a-hard-day-s-night-the-beatles
 lyrics_url: https://genius.com/The-beatles-a-hard-days-night-lyrics
 name: A Hard Day's Night
@@ -59,6 +62,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1964-10-10'
+release_year: 1964
+runtime: 154200
 ---
 It's been a hard day's night
 And I've been working like a dog

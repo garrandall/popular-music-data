@@ -1,8 +1,11 @@
 ---
+album: Whatcha See Is Whatcha Get
 artists:
 - The Dramatics
+external_ids:
+  spotify: spotify:track:44MjocxmoGd3FB2v3xXZcj
 features: []
-genres: []
+first_released_as_single: false
 key: fell-for-you-the-dramatics
 lyrics_url: https://www.azlyrics.com/lyrics/dramatics/fellforyou.html
 name: Fell For You
@@ -47,8 +50,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1973-12-29'
+release_year: 1971
+runtime: 205746
 ---
-
 Like a star, slipping out of place
 Sliding from the sky, tumbling through space
 When you touch my hand
@@ -104,6 +108,3 @@ Uh-oh girl
 I think that I have fell for you
 Oh-oh girl
 I think that I have fell for you...
-
-
-

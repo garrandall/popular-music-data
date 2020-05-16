@@ -1,8 +1,11 @@
 ---
+album: Amos
 artists:
 - Michael Ray
+external_ids:
+  spotify: spotify:track:2TLDilmv1UmRTfyb7f2Hrx
 features: []
-genres: []
+first_released_as_single: false
 key: one-that-got-away-michael-ray
 lyrics_url: https://www.azlyrics.com/lyrics/michaelray/onethatgotaway.html
 name: One That Got Away
@@ -43,8 +46,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2019-05-04'
+release_year: 2018
+runtime: 218733
 ---
-
 Yeah, yeah, yeah
 Yeah, yeah, yeah
 
@@ -120,6 +124,3 @@ Yeah, yeah, yeah
 
 Hey (yeah) hey (yeah, yeah)
 Hey (yeah) hey (yeah, yeah)
-
-
-

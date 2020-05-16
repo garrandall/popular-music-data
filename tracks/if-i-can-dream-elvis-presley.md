@@ -1,8 +1,11 @@
 ---
+album: NBC-TV Special (Live)
 artists:
 - Elvis Presley
+external_ids:
+  spotify: spotify:track:1Uxk2dxmATlKH5quLX2iFG
 features: []
-genres: []
+first_released_as_single: false
 key: if-i-can-dream-elvis-presley
 lyrics_url: https://genius.com/Elvis-presley-if-i-can-dream-lyrics
 name: If I Can Dream
@@ -59,6 +62,8 @@ rankings:
   rank: 36
   ranking_list: Billboard Hot 100
   start_date: '1969-02-22'
+release_year: 1968
+runtime: 200057
 ---
 There must be lights burning brighter somewhere
 Got to be birds flying higher in a sky more blue

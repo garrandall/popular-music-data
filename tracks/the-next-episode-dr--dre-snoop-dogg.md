@@ -1,9 +1,12 @@
 ---
+album: '2001'
 artists:
 - Dr. Dre
+external_ids:
+  spotify: spotify:track:4LwU4Vp6od3Sb08CsP99GC
 features:
 - Snoop Dogg
-genres: []
+first_released_as_single: false
 key: the-next-episode-dr--dre-snoop-dogg
 lyrics_url: https://www.azlyrics.com/lyrics/drdre/thenextepisode.html
 name: The Next Episode
@@ -88,9 +91,9 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '2000-10-07'
+release_year: 1999
+runtime: 161506
 ---
-
-
 La-da-da-da-dahh
  It's the motherfucking D-O-double-G, Snoop Dogg!
  It's the one and only D-O-double-G, Snoop Dogg!
@@ -154,6 +157,3 @@ Take a, seat
 Hope you ready for the next episode
 HeyyyeyyyeEYEYyyyEYYYY...
 ... smoke weed everyday!
-
-
-

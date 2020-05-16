@@ -1,8 +1,11 @@
 ---
+album: '1'
 artists:
 - The Beatles
+external_ids:
+  spotify: spotify:track:5JCbyeGTxbxMRZICQ0OkZO
 features: []
-genres: []
+first_released_as_single: false
 key: from-me-to-you-the-beatles
 lyrics_url: https://genius.com/The-beatles-from-me-to-you-lyrics
 name: From Me To You
@@ -31,6 +34,8 @@ rankings:
   rank: 52
   ranking_list: Billboard Hot 100
   start_date: '1964-04-11'
+release_year: 1964
+runtime: 117906
 ---
 Da da da da da dum dum da
 Da da da da da dum dum da

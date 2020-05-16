@@ -1,8 +1,11 @@
 ---
+album: '''Bout It'
 artists:
 - Jesse Powell
+external_ids:
+  spotify: spotify:track:44QuZzg32iEcKSNlijFyP8
 features: []
-genres: []
+first_released_as_single: false
 key: i-wasn-t-with-it-jesse-powell
 lyrics_url: https://genius.com/Jesse-powell-i-wasnt-with-it-remix-lyrics
 name: I Wasn't With It
@@ -43,6 +46,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1998-10-17'
+release_year: 1998
+runtime: 261600
 ---
 Uh, uh, uh
 What? Check it out

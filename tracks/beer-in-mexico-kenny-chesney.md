@@ -1,8 +1,11 @@
 ---
+album: The Road And The Radio
 artists:
 - Kenny Chesney
+external_ids:
+  spotify: spotify:track:5pgmgHNxiq9w9XuthMKzJS
 features: []
-genres: []
+first_released_as_single: false
 key: beer-in-mexico-kenny-chesney
 lyrics_url: https://www.azlyrics.com/lyrics/kennychesney/beerinmexico.html
 name: Beer In Mexico
@@ -75,8 +78,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2007-06-02'
+release_year: 2005
+runtime: 271813
 ---
-
 Starin' out into the wild blue yonder
 So many thoughts to sit and ponder
 'Bout life and love and lack of
@@ -121,6 +125,3 @@ Sit right here and have another beer in Mexico
 Let the warm air melt these blues away
 
 Down in Mexico
-
-
-

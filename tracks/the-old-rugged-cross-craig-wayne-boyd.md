@@ -1,8 +1,11 @@
 ---
+album: The Complete Season 7 Collection (The Voice Performance)
 artists:
 - Craig Wayne Boyd
+external_ids:
+  spotify: spotify:track:7LvPr4Mchf8YC23O6PdWWY
 features: []
-genres: []
+first_released_as_single: false
 key: the-old-rugged-cross-craig-wayne-boyd
 lyrics_url: https://www.azlyrics.com/lyrics/craigwayneboyd/theoldruggedcross.html
 name: The Old Rugged Cross
@@ -11,8 +14,9 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '2014-12-27'
+release_year: 2014
+runtime: 178174
 ---
-
 On a hill far away stood an Old Rugged Cross
 The emblem of suffering and shame
 And I love that old cross where the dearest and best
@@ -35,6 +39,3 @@ And exchange it some day for a crown
 
 Yeah, I will cling to the Old Rugged Cross
 And exchange it some day for a crown
-
-
-

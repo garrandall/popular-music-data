@@ -1,9 +1,12 @@
 ---
+album: Dionne Warwick (Live)
 artists:
 - Dionne
 - Friends
+external_ids:
+  spotify: spotify:track:1cOj24fUMnBSXhtp7waHVW
 features: []
-genres: []
+first_released_as_single: false
 key: that-s-what-friends-are-for-dionne-friends
 lyrics_url: https://www.azlyrics.com/lyrics/dionnewarwick/thatswhatfriendsarefor.html
 name: That's What Friends Are For
@@ -100,8 +103,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1986-04-12'
+release_year: 1985
+runtime: 256466
 ---
-
 And I never thought I'd feel this way
 And as far as I'm concerned
 I'm glad I got the chance to say
@@ -149,6 +153,3 @@ Knowing you can always count on me, for sure
 Whoa, good times and the bad times
 I'll be on your side forever more
 That's what friends are for
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Finally Rich
 artists:
 - Chief Keef
+external_ids:
+  spotify: spotify:track:4IowQDUOzUvNtp72HMDcKO
 features: []
-genres: []
+first_released_as_single: false
 key: love-sosa-chief-keef
 lyrics_url: https://genius.com/Chief-keef-love-sosa-lyrics
 name: Love Sosa
@@ -63,6 +66,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2013-03-30'
+release_year: 2012
+runtime: 246213
 ---
 Fuckers in school telling me, always in the barber shop
 "Chief Keef ain't 'bout this, Chief Keef ain't 'bout that

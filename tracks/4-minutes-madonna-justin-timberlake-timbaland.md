@@ -1,10 +1,13 @@
 ---
+album: Hard Candy
 artists:
 - Madonna
+external_ids:
+  spotify: spotify:track:1dDNz8h95Gsu0W4QdxVVln
 features:
 - Justin Timberlake
 - Timbaland
-genres: []
+first_released_as_single: false
 key: 4-minutes-madonna-justin-timberlake-timbaland
 lyrics_url: https://genius.com/Madonna-4-minutes-timbalands-mobile-underground-remix-lyrics
 name: 4 Minutes
@@ -89,6 +92,8 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '2008-08-16'
+release_year: 2008
+runtime: 245080
 ---
 Yeah
 Yeah, uh-huh

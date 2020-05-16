@@ -1,8 +1,11 @@
 ---
+album: One-Trick Pony
 artists:
 - Paul Simon
+external_ids:
+  spotify: spotify:track:2h23bjG8B3bcD47HBu6bHG
 features: []
-genres: []
+first_released_as_single: false
 key: late-in-the-evening-paul-simon
 lyrics_url: https://www.azlyrics.com/lyrics/paulsimon/lateintheevening.html
 name: Late In The Evening
@@ -71,8 +74,9 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1980-11-22'
+release_year: 1980
+runtime: 242706
 ---
-
 The first thing I remember
 I was lying In my bed
 I couldn't of been no more
@@ -116,6 +120,3 @@ But I never loved no one
 The way that I loved you
 And it was late in the evening
 And all the music seeping through
-
-
-

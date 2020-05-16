@@ -1,8 +1,11 @@
 ---
+album: Not An Apology
 artists:
 - Bea Miller
+external_ids:
+  spotify: spotify:track:7xAdO0zdl7lGf0ecg4IGhQ
 features: []
-genres: []
+first_released_as_single: false
 key: fire-n-gold-bea-miller
 lyrics_url: https://www.azlyrics.com/lyrics/beamiller/firengold.html
 name: Fire N Gold
@@ -11,8 +14,9 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '2015-08-15'
+release_year: 2015
+runtime: 211573
 ---
-
 Like an astronaut that's scared of heights
 With a heart that's beating at the speed of light
 You've been waiting for this feeling all your life
@@ -64,6 +68,3 @@ Got lightning in a bottle
 Hands on the throttle
 Even in the dust we shine
 With fire and gold in our eyes
-
-
-

@@ -1,9 +1,12 @@
 ---
+album: 'Emmylou Harris Anthology: The Warner/Reprise Years'
 artists:
 - Roy Orbison
 - Emmylou Harris
+external_ids:
+  spotify: spotify:track:5dCkIiYjGHPji1lKYg2Swn
 features: []
-genres: []
+first_released_as_single: false
 key: that-lovin--you-feelin--again-roy-orbison-emmylou-harris
 lyrics_url: https://genius.com/Roy-orbison-that-lovin-you-feelin-again-harris-emmylou-lyrics
 name: That Lovin' You Feelin' Again
@@ -40,6 +43,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1980-08-16'
+release_year: 1980
+runtime: 252866
 ---
 When I saw you standing there on the street
 I found myself by your side

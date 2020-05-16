@@ -1,8 +1,11 @@
 ---
+album: fear
 artists:
 - Toad The Wet Sprocket
+external_ids:
+  spotify: spotify:track:3H4SGgjbzzNCr9dyYLqlKp
 features: []
-genres: []
+first_released_as_single: false
 key: walk-on-the-ocean-toad-the-wet-sprocket
 lyrics_url: https://www.azlyrics.com/lyrics/toadthewetsprocket/walkontheocean.html
 name: Walk On The Ocean
@@ -87,8 +90,9 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '1993-03-27'
+release_year: 1991
+runtime: 178760
 ---
-
 We spotted the ocean at the head of the trail
 Where are we going, so far away
 And somebody told me that this is the place
@@ -137,6 +141,3 @@ Walk on the ocean
 Step on the stones
 Flesh becomes water
 Wood becomes bone
-
-
-

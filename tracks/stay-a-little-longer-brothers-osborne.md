@@ -1,8 +1,11 @@
 ---
+album: Pawn Shop
 artists:
 - Brothers Osborne
+external_ids:
+  spotify: spotify:track:6WuDyzpi8uX8atZvIQGVbT
 features: []
-genres: []
+first_released_as_single: true
 key: stay-a-little-longer-brothers-osborne
 lyrics_url: https://www.azlyrics.com/lyrics/brothersosborne/stayalittlelonger.html
 name: Stay A Little Longer
@@ -87,8 +90,9 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '2016-03-05'
+release_year: 2014
+runtime: 255666
 ---
-
 Something like a strong wind is coming over me
 It's got a hold of me, yeah
 Thinking and doing things I shouldn't be
@@ -139,6 +143,3 @@ And I'm here wishing you could stay a little longer
 Stay a little longer
 
 Wishing you could stay a little longer...
-
-
-

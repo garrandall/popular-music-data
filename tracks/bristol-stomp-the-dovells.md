@@ -1,8 +1,11 @@
 ---
+album: Top Teen Dance Hits (1958-1964)
 artists:
 - The Dovells
+external_ids:
+  spotify: spotify:track:4sDpM0sCFb6LlcfCKdbz9D
 features: []
-genres: []
+first_released_as_single: false
 key: bristol-stomp-the-dovells
 lyrics_url: https://www.musixmatch.com/lyrics/The-Dovells/Bristol-Stomp-2
 name: Bristol Stomp
@@ -71,6 +74,8 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1961-12-25'
+release_year: 1961
+runtime: 139000
 ---
 The kids in Bristol are sharp as a pistol
 When they do the Bristol Stomp

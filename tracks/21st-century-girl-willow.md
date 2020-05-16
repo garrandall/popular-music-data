@@ -1,8 +1,11 @@
 ---
+album: 21st Century Girl (Willow Tribute) - Instrumental
 artists:
 - WILLOW
+external_ids:
+  spotify: spotify:track:3YeSBr4X8luRfhWwiHHnad
 features: []
-genres: []
+first_released_as_single: true
 key: 21st-century-girl-willow
 lyrics_url: https://genius.com/Willow-21st-century-girl-lyrics
 name: 21st Century Girl
@@ -11,6 +14,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2011-03-19'
+release_year: 2011
+runtime: 183144
 ---
 Give me an inch
 I promise I'll take a mile
@@ -22,12 +27,10 @@ With no restrictions
 Don't second guess myself
 I'm born to be wild
 
-
 I'm the type of chick
 That likes to rock the beat
 I like to rock the beat
 I like to rock, the rock the beat
-
 
 21st Century Girl
 I do what I like
@@ -90,7 +93,6 @@ Pull gold from my soul
 Pull diamonds from my heart
 It's that new girl thinking and this song is just the start!
 Owwwww!
-
 
 21st Century Girl
 I do what I like

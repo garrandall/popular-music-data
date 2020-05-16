@@ -1,9 +1,12 @@
 ---
+album: Cut It
 artists:
 - O.T. Genasis
+external_ids:
+  spotify: spotify:track:376KnY4TrgBITxjlnbnmIy
 features:
 - Young Dolph
-genres: []
+first_released_as_single: true
 key: cut-it-o-t--genasis-young-dolph
 lyrics_url: https://www.azlyrics.com/lyrics/otgenasis/cutit.html
 name: Cut It
@@ -88,9 +91,9 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '2016-07-23'
+release_year: 2015
+runtime: 222600
 ---
-
-
 Cut it, cut it, cut it, cut it
 Cut it, cut it, cut it, cut it
 Them bricks is way too hot, you need to cut it
@@ -164,6 +167,3 @@ Cut it, cut it, cut it, cut it
 Cut it, cut it, cut it, cut it
 Them bricks is way too hot, you need to cut it
 Your price is way too high, you need to cut it
-
-
-

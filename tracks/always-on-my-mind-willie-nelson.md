@@ -1,8 +1,11 @@
 ---
+album: Always On My Mind
 artists:
 - Willie Nelson
+external_ids:
+  spotify: spotify:track:3hRhAv7zWfAtGQkrlUYkXT
 features: []
-genres: []
+first_released_as_single: false
 key: always-on-my-mind-willie-nelson
 lyrics_url: https://www.azlyrics.com/lyrics/willienelson/alwaysonmymind.html
 name: Always On My Mind
@@ -99,8 +102,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1982-08-07'
+release_year: 1975
+runtime: 213106
 ---
-
 Maybe I didn't love you
 Quite as often as I could have
 And maybe I didn't treat you
@@ -137,6 +141,3 @@ But you were always on my mind
 You were always on my mind
 You were always on my mind
 You were always on my mind
-
-
-

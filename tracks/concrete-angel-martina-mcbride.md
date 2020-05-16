@@ -1,8 +1,11 @@
 ---
+album: 'Martina McBride: Live In Concert'
 artists:
 - Martina McBride
+external_ids:
+  spotify: spotify:track:2LLcI3oU4CedCQDV5tJ1SK
 features: []
-genres: []
+first_released_as_single: false
 key: concrete-angel-martina-mcbride
 lyrics_url: https://www.azlyrics.com/lyrics/martinamcbride/concreteangel.html
 name: Concrete Angel
@@ -83,8 +86,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2003-07-19'
+release_year: 2001
+runtime: 253000
 ---
-
 She walks to school with the lunch she packed
 Nobody knows what she's holdin' back
 Wearin' the same dress she wore yesterday
@@ -125,6 +129,3 @@ In a world that she can't rise above
 But her dreams give her wings
 And she flies to a place where she's loved
 Concrete angel
-
-
-

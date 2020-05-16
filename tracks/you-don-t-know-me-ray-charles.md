@@ -1,8 +1,11 @@
 ---
+album: Modern Sounds in Country and Western Music, Vols 1 & 2
 artists:
 - Ray Charles
+external_ids:
+  spotify: spotify:track:6LahUh0U4umx6hDFfVWlGi
 features: []
-genres: []
+first_released_as_single: false
 key: you-don-t-know-me-ray-charles
 lyrics_url: https://genius.com/Ray-charles-you-dont-know-me-lyrics
 name: You Don't Know Me
@@ -51,6 +54,8 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '1962-10-06'
+release_year: 1962
+runtime: 196920
 ---
 You give your hand to me
 And then you say, "Hello"

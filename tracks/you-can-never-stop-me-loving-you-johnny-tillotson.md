@@ -1,8 +1,11 @@
 ---
+album: You Can Never Stop Me Loving You
 artists:
 - Johnny Tillotson
+external_ids:
+  spotify: spotify:track:0W3oATzoAqEAkYLuKdAp03
 features: []
-genres: []
+first_released_as_single: false
 key: you-can-never-stop-me-loving-you-johnny-tillotson
 lyrics_url: https://genius.com/Johnny-tillotson-you-can-never-stop-me-loving-you-lyrics
 name: You Can Never Stop Me Loving You
@@ -47,6 +50,8 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '1963-10-12'
+release_year: 1963
+runtime: 163960
 ---
 You can take your picture off your shelf
 You can go around all by yourself

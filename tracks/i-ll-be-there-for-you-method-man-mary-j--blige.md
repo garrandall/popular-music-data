@@ -1,9 +1,12 @@
 ---
+album: Tical
 artists:
 - Method Man
+external_ids:
+  spotify: spotify:track:2k431Ect1b8BW0oTvHEU5R
 features:
 - Mary J. Blige
-genres: []
+first_released_as_single: true
 key: i-ll-be-there-for-you-method-man-mary-j--blige
 lyrics_url: https://genius.com/Method-man-ill-be-there-for-you-youre-all-i-need-to-get-by-razor-sharp-mix-lyrics
 name: I'll Be There For You
@@ -88,6 +91,8 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '1995-09-16'
+release_year: 1995
+runtime: 309773
 ---
 You're all, I need
 To get by, ah

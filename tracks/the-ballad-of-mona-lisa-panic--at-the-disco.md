@@ -1,8 +1,11 @@
 ---
+album: Vices & Virtues
 artists:
 - Panic! At The Disco
+external_ids:
+  spotify: spotify:track:5rLi8B8qgk6qThwRnKHW2P
 features: []
-genres: []
+first_released_as_single: false
 key: the-ballad-of-mona-lisa-panic--at-the-disco
 lyrics_url: https://genius.com/Panic-at-the-disco-the-ballad-of-mona-lisa-lyrics
 name: The Ballad Of Mona Lisa
@@ -11,6 +14,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2011-02-19'
+release_year: 2011
+runtime: 226680
 ---
 She paints her fingers with a close precision
 He starts to notice empty bottles of gin

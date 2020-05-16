@@ -1,8 +1,11 @@
 ---
+album: II
 artists:
 - Boyz II Men
+external_ids:
+  spotify: spotify:track:2ESAoDR0NAUMzm81TEBuJE
 features: []
-genres: []
+first_released_as_single: false
 key: thank-you-boyz-ii-men
 lyrics_url: https://genius.com/Boyz-ii-men-thank-you-lyrics
 name: Thank You
@@ -87,6 +90,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1995-07-08'
+release_year: 1994
+runtime: 275200
 ---
 I was young (BOP)
 And didn't have no where to run

@@ -1,9 +1,12 @@
 ---
+album: 9 Lives
 artists:
 - Kat DeLuna
+external_ids:
+  spotify: spotify:track:6Avndj1UPQLwR2qqzDwZBc
 features:
 - Elephant Man
-genres: []
+first_released_as_single: false
 key: whine-up-kat-deluna-elephant-man
 lyrics_url: https://genius.com/Kat-deluna-whine-up-lyrics
 name: Whine Up
@@ -88,6 +91,8 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '2007-10-27'
+release_year: 2007
+runtime: 205746
 ---
 It's summertime
 Ladies lookin' hot

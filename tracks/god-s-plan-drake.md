@@ -1,8 +1,11 @@
 ---
+album: Scorpion
 artists:
 - Drake
+external_ids:
+  spotify: spotify:track:6DCZcSspjsKoFjzjrWoCdn
 features: []
-genres: []
+first_released_as_single: false
 key: god-s-plan-drake
 lyrics_url: https://genius.com/Drake-gods-plan-lyrics
 name: God's Plan
@@ -151,6 +154,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '2018-10-06'
+release_year: 2018
+runtime: 198973
 ---
 And they wishin' and wishin' and wishin' and wishin'
 They wishin' on me, yeah

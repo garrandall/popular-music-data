@@ -1,9 +1,12 @@
 ---
+album: My Worlds Acoustic
 artists:
 - Justin Bieber
+external_ids:
+  spotify: spotify:track:7HD4c6Kxii0yB9VZVy9eLq
 features:
 - Jaden Smith
-genres: []
+first_released_as_single: false
 key: never-say-never-justin-bieber-jaden-smith
 lyrics_url: https://www.azlyrics.com/lyrics/justinbieber/neversaynever.html
 name: Never Say Never
@@ -84,8 +87,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2011-05-07'
+release_year: 2010
+runtime: 223000
 ---
-
 (Never say never)
 (Pick it up this, pick it up)
 Yeah, yeah
@@ -195,6 +199,3 @@ Ne-never say never
 Ne-never say never
 Ne-never say never
 And never say never
-
-
-

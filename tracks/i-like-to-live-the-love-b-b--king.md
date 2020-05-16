@@ -1,8 +1,11 @@
 ---
+album: To Know You Is To Love You
 artists:
 - B.B. King
+external_ids:
+  spotify: spotify:track:3tshHHkRIslLCXS1CYMkkO
 features: []
-genres: []
+first_released_as_single: false
 key: i-like-to-live-the-love-b-b--king
 lyrics_url: https://genius.com/Bb-king-i-like-to-live-the-love-annotated
 name: I Like To Live The Love
@@ -71,6 +74,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1974-03-23'
+release_year: 1973
+runtime: 211000
 ---
 My song is a serious matter
 It reflects what I feel

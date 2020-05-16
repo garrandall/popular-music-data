@@ -1,8 +1,11 @@
 ---
+album: Blackface
 artists:
 - Shai
+external_ids:
+  spotify: spotify:track:3GkutMXAvzRXF4alDnLfpm
 features: []
-genres: []
+first_released_as_single: false
 key: the-place-where-you-belong-shai
 lyrics_url: https://www.azlyrics.com/lyrics/shai/theplacewhereyoubelong.html
 name: The Place Where You Belong
@@ -79,8 +82,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1994-10-01'
+release_year: 1994
+runtime: 262733
 ---
-
 Dis Is The Place Where You Belong
 Right Here In My Arms
 Without You Something Is Wrong
@@ -120,4 +124,3 @@ Everybody Help Me Sing It
 
 
 You Belong You Belong In My Arms
-

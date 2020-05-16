@@ -1,8 +1,11 @@
 ---
+album: Ain't Nothin' Like Me
 artists:
 - Joe
+external_ids:
+  spotify: spotify:track:5Rmvi5PqUQegA8MPnzqRTh
 features: []
-genres: []
+first_released_as_single: true
 key: if-i-was-your-man-joe
 lyrics_url: https://genius.com/Joe-if-i-was-your-man-lyrics
 name: If I Was Your Man
@@ -15,6 +18,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2007-05-19'
+release_year: 2007
+runtime: 232040
 ---
 Mmm
 Yeah, yeah, yeah, yeah

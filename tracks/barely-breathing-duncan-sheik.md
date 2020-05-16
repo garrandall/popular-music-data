@@ -1,8 +1,11 @@
 ---
+album: Duncan Sheik
 artists:
 - Duncan Sheik
+external_ids:
+  spotify: spotify:track:75HZ6Wxnw8xbgz6HU9kKCS
 features: []
-genres: []
+first_released_as_single: false
 key: barely-breathing-duncan-sheik
 lyrics_url: https://www.azlyrics.com/lyrics/duncansheik/barelybreathing.html
 name: Barely Breathing
@@ -227,8 +230,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1997-12-13'
+release_year: 1996
+runtime: 254546
 ---
-
 I know what you're doing
 I see it all too clear
 I only taste the saline
@@ -310,6 +314,3 @@ I'm thinking it over anyway
 
 Well, I know what you're doing
 I see it all too clear
-
-
-

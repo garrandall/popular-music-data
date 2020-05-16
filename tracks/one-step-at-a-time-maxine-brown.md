@@ -1,8 +1,11 @@
 ---
+album: Super Hits
 artists:
 - Maxine Brown
+external_ids:
+  spotify: spotify:track:6MmZ6I0EuLiubrLQXChVxU
 features: []
-genres: []
+first_released_as_single: false
 key: one-step-at-a-time-maxine-brown
 lyrics_url: https://www.musixmatch.com/lyrics/Maxine-Brown/One-Step-at-a-Time
 name: One Step At A Time
@@ -39,6 +42,8 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1965-08-21'
+release_year: 1965
+runtime: 121707
 ---
 One step a time, boy
 You're moving too fast, boy

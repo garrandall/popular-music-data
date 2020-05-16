@@ -1,9 +1,12 @@
 ---
+album: Simi
 artists:
 - BlocBoy JB
+external_ids:
+  spotify: spotify:track:7JkupiSi1rgTwwtclR3FHc
 features:
 - Drake
-genres: []
+first_released_as_single: true
 key: look-alive-blocboy-jb-drake
 lyrics_url: https://genius.com/Greyhound-look-alive-blocboy-jb-and-drake-remix-lyrics
 name: Look Alive
@@ -108,6 +111,8 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '2018-08-11'
+release_year: 2018
+runtime: 181263
 ---
 Look
 I want all the smoke motherfucker

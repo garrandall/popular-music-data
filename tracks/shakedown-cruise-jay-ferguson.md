@@ -1,8 +1,11 @@
 ---
+album: Real Life Ain't This Way
 artists:
 - Jay Ferguson
+external_ids:
+  spotify: spotify:track:4pNJhFtUGs7UQL61NiPP31
 features: []
-genres: []
+first_released_as_single: false
 key: shakedown-cruise-jay-ferguson
 lyrics_url: https://www.musixmatch.com/lyrics/Jay-Ferguson/Shakedown-Cruise
 name: Shakedown Cruise
@@ -63,6 +66,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1979-08-04'
+release_year: 1979
+runtime: 252440
 ---
 It was thirty days around the horn
 The captain says it's a thirty-five more

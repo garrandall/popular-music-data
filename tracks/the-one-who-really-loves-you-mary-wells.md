@@ -1,8 +1,11 @@
 ---
+album: The One Who Really Loves You
 artists:
 - Mary Wells
+external_ids:
+  spotify: spotify:track:4M732X5J2BE6M8VIHHfxMx
 features: []
-genres: []
+first_released_as_single: false
 key: the-one-who-really-loves-you-mary-wells
 lyrics_url: https://genius.com/Mary-wells-the-one-who-really-loves-you-lyrics
 name: The One Who Really Loves You
@@ -75,6 +78,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1962-07-14'
+release_year: 1962
+runtime: 147466
 ---
 Some other girls are filling your head with jive
 So, now you're acting like you don't know I'm alive

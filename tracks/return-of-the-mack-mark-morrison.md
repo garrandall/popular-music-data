@@ -1,8 +1,11 @@
 ---
+album: Return Of The Mack
 artists:
 - Mark Morrison
+external_ids:
+  spotify: spotify:track:3jDdpx9PMlfMBS5tOBHFm9
 features: []
-genres: []
+first_released_as_single: false
 key: return-of-the-mack-mark-morrison
 lyrics_url: https://genius.com/Mark-morrison-return-of-the-mack-lyrics
 name: Return Of The Mack
@@ -167,6 +170,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1997-11-29'
+release_year: 1996
+runtime: 213093
 ---
 Oh-oh-oh-oh
 Come on

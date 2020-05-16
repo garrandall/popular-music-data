@@ -1,8 +1,11 @@
 ---
+album: The Innocents
 artists:
 - Erasure
+external_ids:
+  spotify: spotify:track:1I0qu4PsBjAHfJHy9wy5AA
 features: []
-genres: []
+first_released_as_single: false
 key: chains-of-love-erasure
 lyrics_url: https://www.azlyrics.com/lyrics/erasure/chainsoflove.html
 name: Chains Of Love
@@ -87,8 +90,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1988-12-10'
+release_year: 1988
+runtime: 215346
 ---
-
 How can I explain
 When there are few words I can choose
 How can I explain
@@ -148,6 +152,3 @@ Don't give up (Don't give up)
 Don't give up (Don't)
 Together with me and my baby break the chains of love
 Together we'll break these chains of love
-
-
-

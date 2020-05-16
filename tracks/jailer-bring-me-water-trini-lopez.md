@@ -1,8 +1,11 @@
 ---
+album: On The Move
 artists:
 - Trini Lopez
+external_ids:
+  spotify: spotify:track:3MQYPiGYdODeT6zweNBiU8
 features: []
-genres: []
+first_released_as_single: false
 key: jailer-bring-me-water-trini-lopez
 name: Jailer Bring Me Water
 rankings:
@@ -14,5 +17,7 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1964-03-28'
+release_year: 1964
+runtime: 135200
 ---
 

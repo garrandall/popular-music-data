@@ -1,8 +1,11 @@
 ---
+album: Don't Give Up Your Day Job
 artists:
 - Jack Wagner
+external_ids:
+  spotify: spotify:track:6rvurEAgXErYx4Itmbbvw8
 features: []
-genres: []
+first_released_as_single: false
 key: weatherman-says-jack-wagner
 lyrics_url: https://www.azlyrics.com/lyrics/jackwagner/weathermansays.html
 name: Weatherman Says
@@ -31,8 +34,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1987-06-13'
+release_year: 1987
+runtime: 270333
 ---
-
 Alone I'm going around in circles
 Moving aimlessly
 Giving so much time for the future
@@ -66,6 +70,3 @@ Heading for a fall
 Sweet shining summer angel came to my rescue
 Shook off all that old suspicion
 Found a dream come true
-
-
-

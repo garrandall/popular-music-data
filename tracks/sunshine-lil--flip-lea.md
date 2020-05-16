@@ -1,9 +1,12 @@
 ---
+album: U Gotta Feel Me
 artists:
 - Lil' Flip
+external_ids:
+  spotify: spotify:track:4s0o8TJHfX9LLHa0umnOzT
 features:
 - Lea
-genres: []
+first_released_as_single: false
 key: sunshine-lil--flip-lea
 lyrics_url: https://www.azlyrics.com/lyrics/lilflip/sunshine.html
 name: Sunshine
@@ -100,11 +103,10 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2004-11-20'
+release_year: 2004
+runtime: 225173
 ---
-
-
-
- Uhhhhhhh
+Uhhhhhhh
  Yeah
  Ohh, oh, oh, oh baby
  Lil' Flipper (Lil' Flipper)
@@ -170,6 +172,3 @@ Cause you my baby girl right?, right?
 
 We don't have to be in love (love)
 We don't have to be in love (love)
-
-
-

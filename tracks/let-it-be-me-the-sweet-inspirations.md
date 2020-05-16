@@ -1,8 +1,11 @@
 ---
+album: The Sweet Inspirations
 artists:
 - The Sweet Inspirations
+external_ids:
+  spotify: spotify:track:14ysBbruzodLe40AaoHrGn
 features: []
-genres: []
+first_released_as_single: false
 key: let-it-be-me-the-sweet-inspirations
 lyrics_url: https://genius.com/The-sweet-inspirations-let-it-be-me-lyrics
 name: Let It Be Me
@@ -15,6 +18,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1967-07-29'
+release_year: 1967
+runtime: 161306
 ---
 I bless the day I found you
 I want to stay around you

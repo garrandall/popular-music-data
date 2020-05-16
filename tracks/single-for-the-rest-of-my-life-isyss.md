@@ -1,8 +1,11 @@
 ---
+album: The Way We Do
 artists:
 - Isyss
+external_ids:
+  spotify: spotify:track:5ntkgBVRkW8BZ1cr0acKLD
 features: []
-genres: []
+first_released_as_single: false
 key: single-for-the-rest-of-my-life-isyss
 lyrics_url: https://genius.com/Isyss-single-for-the-rest-of-my-life-lyrics
 name: Single For The Rest Of My Life
@@ -55,6 +58,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2003-01-11'
+release_year: 2002
+runtime: 235733
 ---
 Ho...oh...
 Oh, yeah, yeah, oh, yeah

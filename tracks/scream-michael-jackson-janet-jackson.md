@@ -1,9 +1,12 @@
 ---
+album: HIStory - PAST, PRESENT AND FUTURE - BOOK I
 artists:
 - Michael Jackson
 - Janet Jackson
+external_ids:
+  spotify: spotify:track:4LD5dhQ3kqpqe14sGPDtBC
 features: []
-genres: []
+first_released_as_single: false
 key: scream-michael-jackson-janet-jackson
 lyrics_url: https://genius.com/Michael-jackson-scream-lyrics
 name: Scream
@@ -76,6 +79,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1995-10-07'
+release_year: 1995
+runtime: 278293
 ---
 I'm tired of injustice, I'm tired of the schemes
 The lies are disgusting, so what does it mean, damn it?

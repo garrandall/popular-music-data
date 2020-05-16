@@ -1,8 +1,11 @@
 ---
+album: Fully Loaded
 artists:
 - Oaktown's 3.5.7
+external_ids:
+  spotify: spotify:track:1r4CqEPeqvJYAhVHIuH7xb
 features: []
-genres: []
+first_released_as_single: false
 key: turn-it-up-oaktown-s-3-5-7
 lyrics_url: https://www.musixmatch.com/lyrics/Oaktown-s-357/Turn-It-Up
 name: Turn It Up
@@ -31,6 +34,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1991-09-07'
+release_year: 1991
+runtime: 223733
 ---
 If you think you can move, then turn it up
 And if you think you can groove, then turn it up

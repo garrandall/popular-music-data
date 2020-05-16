@@ -1,8 +1,11 @@
 ---
+album: Blue Slide Park
 artists:
 - Mac Miller
+external_ids:
+  spotify: spotify:track:2ZGBhrxA4ghKqoOMBdn966
 features: []
-genres: []
+first_released_as_single: false
 key: smile-back-mac-miller
 lyrics_url: https://genius.com/Mac-miller-smile-back-lyrics
 name: Smile Back
@@ -11,6 +14,8 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '2011-11-26'
+release_year: 2011
+runtime: 162008
 ---
 I just be like fuck you, what you need?
 You can't get nothin' from me

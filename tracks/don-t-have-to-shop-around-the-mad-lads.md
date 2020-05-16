@@ -1,8 +1,11 @@
 ---
+album: In Action
 artists:
 - The Mad Lads
+external_ids:
+  spotify: spotify:track:2uzchPY6uyXPEYFzWiT1rh
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-have-to-shop-around-the-mad-lads
 lyrics_url: https://genius.com/The-mad-lads-dont-have-to-shop-around-lyrics
 name: Don't Have To Shop Around
@@ -27,6 +30,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1965-11-27'
+release_year: 1965
+runtime: 170560
 ---
 I found a love that my heart
 Has been longing for

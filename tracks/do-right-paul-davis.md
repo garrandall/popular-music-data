@@ -1,8 +1,11 @@
 ---
+album: Paul Davis (1980)
 artists:
 - Paul Davis
+external_ids:
+  spotify: spotify:track:0VivY1u2gB4taoH1oJh2uE
 features: []
-genres: []
+first_released_as_single: false
 key: do-right-paul-davis
 lyrics_url: https://www.azlyrics.com/lyrics/pauldavis/doright.html
 name: Do Right
@@ -63,8 +66,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1980-06-07'
+release_year: 1980
+runtime: 241093
 ---
-
 I know that He
 Gave His life for me
 Set all our spirits free
@@ -130,6 +134,3 @@ Don't you know do right
 And to be you're guiding light, ohooh
 Yes you've got to do right
 And He'll be your guiding light
-
-
-

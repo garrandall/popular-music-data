@@ -1,8 +1,11 @@
 ---
+album: If I Give My Heart to You
 artists:
 - Kitty Kallen
+external_ids:
+  spotify: spotify:track:665T7lauhAw2ce2v3B78vu
 features: []
-genres: []
+first_released_as_single: false
 key: that-old-feeling-kitty-kallen
 name: That Old Feeling
 rankings:
@@ -26,5 +29,7 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1960-02-29'
+release_year: 1960
+runtime: 149706
 ---
 

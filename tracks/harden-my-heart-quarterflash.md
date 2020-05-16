@@ -1,8 +1,11 @@
 ---
+album: Quarterflash
 artists:
 - Quarterflash
+external_ids:
+  spotify: spotify:track:3CSLUIrI2KPMulHR5bh17O
 features: []
-genres: []
+first_released_as_single: false
 key: harden-my-heart-quarterflash
 lyrics_url: https://www.azlyrics.com/lyrics/quarterflash/hardenmyheart.html
 name: Harden My Heart
@@ -103,8 +106,9 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1982-03-27'
+release_year: 1981
+runtime: 232626
 ---
-
 Cryin' on the corner, waitin' in the rain
 I swear I'll never, ever wait again
 You gave me your word, but words for you are lies
@@ -145,6 +149,3 @@ Harden my heart
 I'm gonna harden my heart
 I'm gonna swallow my tears
 I'm a-gonna harden my heart
-
-
-

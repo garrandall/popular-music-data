@@ -1,8 +1,11 @@
 ---
+album: Whisper
 artists:
 - Chase Rice
+external_ids:
+  spotify: spotify:track:6EdSZmWCQJfO8T66x9VCID
 features: []
-genres: []
+first_released_as_single: true
 key: whisper-chase-rice
 lyrics_url: https://www.azlyrics.com/lyrics/chaserice/whisper.html
 name: Whisper
@@ -11,8 +14,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2016-02-27'
+release_year: 2016
+runtime: 191213
 ---
-
 What if I rolled the dial to the right
 And let that minor chord steer this night
 What if I slid a match and lit the wick
@@ -65,6 +69,3 @@ Hear what can start with a whisper
 With a whisper yeah
 With a whisper
 Yeah hear what can start with a whisper
-
-
-

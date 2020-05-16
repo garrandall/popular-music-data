@@ -1,8 +1,11 @@
 ---
+album: Heart Like A Wheel
 artists:
 - Linda Ronstadt
+external_ids:
+  spotify: spotify:track:3tWBLzt1QY9A9brUfWWEPO
 features: []
-genres: []
+first_released_as_single: false
 key: it-doesn-t-matter-anymore-linda-ronstadt
 lyrics_url: https://genius.com/Linda-ronstadt-it-doesnt-matter-anymore-lyrics
 name: It Doesn't Matter Anymore
@@ -23,6 +26,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1975-08-16'
+release_year: 1974
+runtime: 206600
 ---
 There you go baby, and here am I
 Well you left me here so I could sit and cry

@@ -1,8 +1,11 @@
 ---
+album: 'MAP OF THE SOUL : 7'
 artists:
 - BTS
+external_ids:
+  spotify: spotify:track:0ono6UCNVZ1XqOm6j78Blu
 features: []
-genres: []
+first_released_as_single: false
 key: filter-bts
 lyrics_url: https://genius.com/Bts-filter-lyrics
 name: Filter
@@ -11,6 +14,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '2020-03-07'
+release_year: 2020
+runtime: 180220
 ---
 너의 따분한 그 표정 지루한 발끝
 Please, look at me now

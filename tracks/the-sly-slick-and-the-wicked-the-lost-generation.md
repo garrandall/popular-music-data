@@ -1,8 +1,11 @@
 ---
+album: Brunswick Essentials
 artists:
 - The Lost Generation
+external_ids:
+  spotify: spotify:track:2IKI9AJSfHfarD3P5SJttC
 features: []
-genres: []
+first_released_as_single: false
 key: the-sly-slick-and-the-wicked-the-lost-generation
 lyrics_url: https://genius.com/The-lost-generation-the-sly-slick-and-the-wicked-lyrics
 name: The Sly Slick And The Wicked
@@ -63,6 +66,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1970-09-05'
+release_year: 1970
+runtime: 176720
 ---
 Young girl, be true now
 To the boy who rea'lly loves you

@@ -1,8 +1,11 @@
 ---
+album: The Real McCoy
 artists:
 - Van Mccoy
+external_ids:
+  spotify: spotify:track:11zycy4fB8oVHf1iV1wSAr
 features: []
-genres: []
+first_released_as_single: false
 key: party-van-mccoy
 lyrics_url: https://genius.com/Van-mccoy-party-lyrics
 name: Party
@@ -27,6 +30,8 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1976-09-11'
+release_year: 1976
+runtime: 255045
 ---
 Get on down and party
 Get on down and, uh, party

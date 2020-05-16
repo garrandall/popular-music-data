@@ -1,8 +1,11 @@
 ---
+album: Indian Summer
 artists:
 - Go West
+external_ids:
+  spotify: spotify:track:6lP1Tmf5VdZYviohSQoMiH
 features: []
-genres: []
+first_released_as_single: false
 key: faithful-go-west
 lyrics_url: https://www.musixmatch.com/lyrics/Go-West/Faithful
 name: Faithful
@@ -87,6 +90,8 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '1993-03-20'
+release_year: 1992
+runtime: 265560
 ---
 Oh, I will
 

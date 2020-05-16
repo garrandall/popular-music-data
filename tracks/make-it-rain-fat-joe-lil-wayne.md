@@ -1,9 +1,12 @@
 ---
+album: Me, Myself & I
 artists:
 - Fat Joe
+external_ids:
+  spotify: spotify:track:4JPCdSaqs9dJd7RatFSHww
 features:
 - Lil Wayne
-genres: []
+first_released_as_single: false
 key: make-it-rain-fat-joe-lil-wayne
 lyrics_url: https://genius.com/Fat-joe-make-it-rain-lyrics
 name: Make It Rain
@@ -104,6 +107,8 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '2007-04-28'
+release_year: 2006
+runtime: 247413
 ---
 Ooooooowwwwwwww! (Ha ha, chyeah)
 Scotty (chyeah)

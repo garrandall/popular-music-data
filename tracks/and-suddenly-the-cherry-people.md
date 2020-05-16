@@ -1,8 +1,11 @@
 ---
+album: The Heritage / Colossus Story
 artists:
 - The Cherry People
+external_ids:
+  spotify: spotify:track:5A7X68HGl6MzeBQdRQzUmo
 features: []
-genres: []
+first_released_as_single: false
 key: and-suddenly-the-cherry-people
 lyrics_url: https://genius.com/Cherry-people-and-suddenly-lyrics
 name: And Suddenly
@@ -39,6 +42,8 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '1968-09-07'
+release_year: 1968
+runtime: 124573
 ---
 And suddenly my world
 Is filled with sunshine

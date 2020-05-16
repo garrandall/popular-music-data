@@ -1,8 +1,11 @@
 ---
+album: Happiness Is Dean Martin
 artists:
 - Dean Martin
+external_ids:
+  spotify: spotify:track:3tC4DJaQPaa6DejQbE5eY2
 features: []
-genres: []
+first_released_as_single: false
 key: you-ve-still-got-a-place-in-my-heart-dean-martin
 lyrics_url: https://genius.com/Dean-martin-youve-still-got-a-place-in-my-heart-lyrics
 name: You've Still Got A Place In My Heart
@@ -35,6 +38,8 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '1968-05-04'
+release_year: 1967
+runtime: 168680
 ---
 If the one you think is true
 Ever turns his back on you

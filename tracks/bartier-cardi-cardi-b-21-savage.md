@@ -1,9 +1,12 @@
 ---
+album: Invasion of Privacy
 artists:
 - Cardi B
+external_ids:
+  spotify: spotify:track:6uxOZRm0ieBQM0Qf64sa6z
 features:
 - 21 Savage
-genres: []
+first_released_as_single: false
 key: bartier-cardi-cardi-b-21-savage
 lyrics_url: https://www.azlyrics.com/lyrics/cardi-b/bartiercardi.html
 name: Bartier Cardi
@@ -88,9 +91,9 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '2018-05-19'
+release_year: 2018
+runtime: 224284
 ---
-
-
 Bardi in a 'Rari, diamonds all over my body
 Shinin' all over my body
 Put that bitch on Molly
@@ -237,6 +240,3 @@ Cardi took your man, you upset, uh
 Cardi got rich, they upset, yeah
 Cardi put the pussy on Offset (Cardi)
 Cartier, Cardi B brain on Offset (Cardi)
-
-
-

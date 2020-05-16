@@ -1,8 +1,11 @@
 ---
+album: Kids From Foreign
 artists:
 - Born Jamericans
+external_ids:
+  spotify: spotify:track:6zBd7MNX7bgY414EG93f84
 features: []
-genres: []
+first_released_as_single: false
 key: boom-shak-a-tack-born-jamericans
 lyrics_url: https://genius.com/Born-jamericans-boom-shak-a-tack-lyrics
 name: Boom Shak A-Tack
@@ -23,6 +26,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1994-02-19'
+release_year: 1994
+runtime: 246160
 ---
 (Yeah, yeah)
 Warning! warning! warning!

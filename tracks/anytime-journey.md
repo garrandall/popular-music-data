@@ -1,8 +1,11 @@
 ---
+album: Infinity
 artists:
 - Journey
+external_ids:
+  spotify: spotify:track:5Sbev5rOk6Vax6KuR6B8jL
 features: []
-genres: []
+first_released_as_single: false
 key: anytime-journey
 lyrics_url: https://genius.com/Journey-anytime-lyrics
 name: Anytime
@@ -23,6 +26,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1978-07-22'
+release_year: 1975
+runtime: 206800
 ---
 Oh, oh, anytime that you want me
 Oh, oh, anytime that you need me

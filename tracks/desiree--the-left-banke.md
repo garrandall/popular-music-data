@@ -1,8 +1,11 @@
 ---
+album: There's Gonna Be A Storm - The Complete Recordings 1966-1969
 artists:
 - The Left Banke
+external_ids:
+  spotify: spotify:track:1N7R2f8HEZea5MvgBvQFqE
 features: []
-genres: []
+first_released_as_single: false
 key: desiree--the-left-banke
 lyrics_url: https://genius.com/The-left-banke-desiree-lyrics
 name: Desiree'
@@ -15,6 +18,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1967-11-04'
+release_year: 1967
+runtime: 164066
 ---
 Everything returns again
 Both the laughter and the rain

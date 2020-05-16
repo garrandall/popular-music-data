@@ -1,8 +1,11 @@
 ---
+album: Songs For The Tempted
 artists:
 - The 4 Of Us
+external_ids:
+  spotify: spotify:track:31JeVCLde4U4IxhPYh3VlH
 features: []
-genres: []
+first_released_as_single: false
 key: drag-my-bad-name-down-the-4-of-us
 lyrics_url: https://genius.com/The-4-of-us-drag-my-bad-name-down-lyrics
 name: Drag My Bad Name Down
@@ -27,6 +30,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1990-05-19'
+release_year: 1989
+runtime: 170093
 ---
 Corrine I want no opinion from you
 Was it fun or just a bad thing to do

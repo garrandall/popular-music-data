@@ -1,8 +1,11 @@
 ---
+album: The Impressions
 artists:
 - The Impressions
+external_ids:
+  spotify: spotify:track:0EsHd0TfI3cGD039nFRR0w
 features: []
-genres: []
+first_released_as_single: false
 key: i-need-you-the-impressions
 lyrics_url: https://genius.com/The-impressions-i-need-you-lyrics
 name: I Need You
@@ -35,6 +38,8 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '1965-09-25'
+release_year: 1963
+runtime: 145360
 ---
 I don't wanna be happy
 With somebody else

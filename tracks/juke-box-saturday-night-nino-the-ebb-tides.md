@@ -1,9 +1,12 @@
 ---
+album: Those Oldies but Goodies Were Our's
 artists:
 - Nino
 - The Ebb Tides
+external_ids:
+  spotify: spotify:track:2f4K2yeD2Vya8JJDngYP7H
 features: []
-genres: []
+first_released_as_single: false
 key: juke-box-saturday-night-nino-the-ebb-tides
 name: Juke Box Saturday Night
 rankings:
@@ -27,5 +30,7 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '1961-10-02'
+release_year: 1961
+runtime: 154517
 ---
 

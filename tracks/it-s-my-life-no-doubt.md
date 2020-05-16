@@ -1,8 +1,11 @@
 ---
+album: The Singles Collection
 artists:
 - No Doubt
+external_ids:
+  spotify: spotify:track:2fOxxLz9JVe53itq6pfBak
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-my-life-no-doubt
 lyrics_url: https://genius.com/No-doubt-its-my-life-lyrics
 name: It's My Life
@@ -119,6 +122,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '2004-05-08'
+release_year: 2003
+runtime: 225866
 ---
 It's funny how I find myself
 In love with you

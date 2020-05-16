@@ -1,8 +1,11 @@
 ---
+album: Flockaveli
 artists:
 - Waka Flocka Flame
+external_ids:
+  spotify: spotify:track:182GNGbX5ZJEnOHgatKBU0
 features: []
-genres: []
+first_released_as_single: true
 key: o-let-s-do-it-waka-flocka-flame
 lyrics_url: https://genius.com/Waka-flocka-flame-o-lets-do-it-lyrics
 name: O Let's Do It
@@ -51,6 +54,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2010-05-08'
+release_year: 2009
+runtime: 252281
 ---
 Yeah
 Flocka

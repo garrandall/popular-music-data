@@ -1,9 +1,12 @@
 ---
+album: Midnight Light
 artists:
 - LeBlanc
 - Carr
+external_ids:
+  spotify: spotify:track:2Q6NP9lwJFxQYzAr0XQ9B2
 features: []
-genres: []
+first_released_as_single: false
 key: midnight-light-leblanc-carr
 lyrics_url: https://genius.com/Leblanc-and-carr-midnight-light-lyrics
 name: Midnight Light
@@ -24,6 +27,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1978-06-24'
+release_year: 1977
+runtime: 214773
 ---
 She was lonely
 And no one really cared

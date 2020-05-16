@@ -1,8 +1,11 @@
 ---
+album: Put Your Hand in the Hand
 artists:
 - Ocean
+external_ids:
+  spotify: spotify:track:7fwa5I8SycGBpw2jOZ0L7m
 features: []
-genres: []
+first_released_as_single: false
 key: put-your-hand-in-the-hand-ocean
 lyrics_url: https://genius.com/Ocean-put-your-hand-in-the-hand-lyrics
 name: Put Your Hand In The Hand
@@ -63,6 +66,8 @@ rankings:
   rank: 24
   ranking_list: Billboard Hot 100
   start_date: '1971-06-12'
+release_year: 1971
+runtime: 176706
 ---
 Put your hand in the hand
 Of the man who stilled the water

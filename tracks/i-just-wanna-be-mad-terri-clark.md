@@ -1,8 +1,11 @@
 ---
+album: Pain To Kill
 artists:
 - Terri Clark
+external_ids:
+  spotify: spotify:track:3BcCqaxGznRqmB1BIerea2
 features: []
-genres: []
+first_released_as_single: false
 key: i-just-wanna-be-mad-terri-clark
 lyrics_url: https://www.azlyrics.com/lyrics/terriclark/ijustwannabemad.html
 name: I Just Wanna Be Mad
@@ -87,8 +90,9 @@ rankings:
   rank: 52
   ranking_list: Billboard Hot 100
   start_date: '2003-03-22'
+release_year: 2002
+runtime: 206400
 ---
-
 Last night we went to bed not talking
 Cause we already said to much
 I face the wall you faced the window
@@ -126,6 +130,3 @@ Just remember this
 I just want to be mad for awhile
 I just want to be mad for awhile
 I just want to be mad for awhile
-
-
-

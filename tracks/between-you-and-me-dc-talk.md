@@ -1,8 +1,11 @@
 ---
+album: Jesus Freak
 artists:
 - dc Talk
+external_ids:
+  spotify: spotify:track:3B6MzBBeXsTI4GURPavO1s
 features: []
-genres: []
+first_released_as_single: false
 key: between-you-and-me-dc-talk
 lyrics_url: https://www.azlyrics.com/lyrics/dctalk/betweenyouandme.html
 name: Between You And Me
@@ -83,8 +86,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1997-03-22'
+release_year: 1995
+runtime: 298760
 ---
-
 Sorrow is a lonely feeling
 Unsettled is a painful place
 I've lived with both
@@ -175,6 +179,3 @@ Confession needs to be made
 It's my way to freedom
 It's my way to freedom
 I've got something to say
-
-
-

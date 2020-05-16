@@ -1,8 +1,11 @@
 ---
+album: The Merry-Go-Round
 artists:
 - The Merry-Go-Round
+external_ids:
+  spotify: spotify:track:51hn2IWRbpSp80INMvD2wR
 features: []
-genres: []
+first_released_as_single: false
 key: you-re-a-very-lovely-woman-the-merry-go-round
 lyrics_url: https://genius.com/The-merry-go-round-youre-a-very-lovely-woman-lyrics
 name: You're A Very Lovely Woman
@@ -19,6 +22,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1967-09-23'
+release_year: 1967
+runtime: 172506
 ---
 Rhodes
 

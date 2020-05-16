@@ -1,8 +1,11 @@
 ---
+album: Get Close
 artists:
 - Pretenders
+external_ids:
+  spotify: spotify:track:6Wiamk8BAAP50gAAJopsy2
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-get-me-wrong-pretenders
 lyrics_url: https://genius.com/Pretenders-dont-get-me-wrong-lyrics
 name: Don't Get Me Wrong
@@ -79,6 +82,8 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1987-02-07'
+release_year: 1986
+runtime: 227626
 ---
 Don't get me wrong
 If I'm looking kind of dazzled

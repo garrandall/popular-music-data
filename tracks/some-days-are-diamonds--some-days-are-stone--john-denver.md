@@ -1,8 +1,11 @@
 ---
+album: Some Days Are Diamonds
 artists:
 - John Denver
+external_ids:
+  spotify: spotify:track:2egOALV9p8YIu1Lsu45SpQ
 features: []
-genres: []
+first_released_as_single: false
 key: some-days-are-diamonds--some-days-are-stone--john-denver
 lyrics_url: https://www.azlyrics.com/lyrics/johndenver/somedaysarediamonds.html
 name: Some Days Are Diamonds (Some Days Are Stone)
@@ -87,8 +90,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1981-10-24'
+release_year: 1981
+runtime: 239386
 ---
-
 When you ask how I've been here without you, I like to say I've been fine, and I do.
 But we both know the truth is hard to come by. And if I told the truth, that's not quite true.
 Some days are diamonds, some days are stone. Some times the hard times won't leave me alone.
@@ -104,6 +108,3 @@ Some days are diamonds, some days are stone.
 Some days are diamonds, some days are stone. Some times the hard times won't leave me alone.
 Some times the cold winds blow a chill in my bones.
 Some days are diamonds, some days are stone.
-
-
-

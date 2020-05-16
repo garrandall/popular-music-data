@@ -1,8 +1,11 @@
 ---
+album: Karyn White
 artists:
 - Karyn White
+external_ids:
+  spotify: spotify:track:1TtJkmAW9Rc55iVOPgZ33z
 features: []
-genres: []
+first_released_as_single: false
 key: the-way-you-love-me-karyn-white
 lyrics_url: https://www.azlyrics.com/lyrics/karynwhite/thewayyouloveme.html
 name: The Way You Love Me
@@ -107,8 +110,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1989-04-01'
+release_year: 1988
+runtime: 294720
 ---
-
 Hey baby
 You're driving me crazy
 With that special loving feeling
@@ -281,6 +285,3 @@ I love it
 (I place no one above
 I don't want true love
 And I love).
-
-
-

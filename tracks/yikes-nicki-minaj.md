@@ -1,8 +1,11 @@
 ---
+album: Yikes
 artists:
 - Nicki Minaj
+external_ids:
+  spotify: spotify:track:75dLEqanQTupF3dtP9exT5
 features: []
-genres: []
+first_released_as_single: true
 key: yikes-nicki-minaj
 lyrics_url: https://www.azlyrics.com/lyrics/nickiminaj/yikes.html
 name: Yikes
@@ -15,8 +18,9 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '2020-02-29'
+release_year: 2020
+runtime: 156881
 ---
-
 Don't ever fuckin' play with me
 Y'all niggas know, y'all bitches know I'm the fucking queen
 You ho bitches know, you dirty bum bitches know (Grrr)
@@ -68,6 +72,3 @@ Bag talk, but ain't got no mouth for money
 Bag talk, hm
 It's quiet, ain't no back talk (Grrr)
 Quiet, ain't no back talk
-
-
-

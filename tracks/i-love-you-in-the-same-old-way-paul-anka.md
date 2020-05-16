@@ -1,8 +1,11 @@
 ---
+album: 21 Golden Hits
 artists:
 - Paul Anka
+external_ids:
+  spotify: spotify:track:5bRYHH9wIBVorvJTXZxlNN
 features: []
-genres: []
+first_released_as_single: false
 key: i-love-you-in-the-same-old-way-paul-anka
 lyrics_url: https://www.azlyrics.com/lyrics/paulanka/iloveyouinthesameoldway.html
 name: I Love You In The Same Old Way
@@ -51,8 +54,9 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '1960-10-10'
+release_year: 1960
+runtime: 147760
 ---
-
 I remember when we used to be in our teens
 I wear bobby socks and old blue jeans
 That was long ago I'd like to say
@@ -88,6 +92,3 @@ That was long ago and I'd like to say
 I love you in the same old way, aha
 I love you in the same old way, aha
 I love you in the same old way, aha
-
-
-

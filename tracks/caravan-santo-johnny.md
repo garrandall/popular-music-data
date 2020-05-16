@@ -1,9 +1,12 @@
 ---
+album: "Nuestros Primeros 20 \xC9xitos"
 artists:
 - Santo
 - Johnny
+external_ids:
+  spotify: spotify:track:4ywZFpLcOvybhVeGasNY9C
 features: []
-genres: []
+first_released_as_single: false
 key: caravan-santo-johnny
 lyrics_url: https://genius.com/Santo-and-johnny-caravan-lyrics
 name: Caravan
@@ -40,5 +43,7 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1960-05-02'
+release_year: 1960
+runtime: 152640
 ---
 (Instrumental)

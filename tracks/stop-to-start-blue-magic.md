@@ -1,8 +1,11 @@
 ---
+album: Blue Magic
 artists:
 - Blue Magic
+external_ids:
+  spotify: spotify:track:1jxI4xo29IaC2gSBb3eQcZ
 features: []
-genres: []
+first_released_as_single: false
 key: stop-to-start-blue-magic
 lyrics_url: https://genius.com/Blue-magic-stop-to-start-lyrics
 name: Stop To Start
@@ -31,6 +34,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1974-03-09'
+release_year: 1974
+runtime: 202733
 ---
 Ba, ba, da, ba, ba, da, ba, ba, da, ba, ba, da, da
 I just don't want to be lonely

@@ -1,8 +1,11 @@
 ---
+album: Temple Of Low Men
 artists:
 - Crowded House
+external_ids:
+  spotify: spotify:track:4ZYCwq1EMPY5zZt195ARWg
 features: []
-genres: []
+first_released_as_single: false
 key: better-be-home-soon-crowded-house
 lyrics_url: https://genius.com/Crowded-house-better-be-home-soon-lyrics
 name: Better Be Home Soon
@@ -51,6 +54,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1988-09-17'
+release_year: 1988
+runtime: 187666
 ---
 Somewhere deep inside
 Something's got a hold on you

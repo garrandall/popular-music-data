@@ -1,8 +1,11 @@
 ---
+album: Funky Divas
 artists:
 - En Vogue
+external_ids:
+  spotify: spotify:track:3R97rNX7JnmshCWBwOSFet
 features: []
-genres: []
+first_released_as_single: false
 key: my-lovin---you-re-never-gonna-get-it--en-vogue
 lyrics_url: https://genius.com/En-vogue-my-lovin-youre-never-gonna-get-it-lyrics
 name: My Lovin' (You're Never Gonna Get It)
@@ -127,6 +130,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1992-10-10'
+release_year: 1992
+runtime: 281613
 ---
 Oh, bop...
 No, you're never gonna get it (ow!)

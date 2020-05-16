@@ -1,9 +1,12 @@
 ---
+album: This Is Acting (Deluxe Version)
 artists:
 - Sia
+external_ids:
+  spotify: spotify:track:6b3b7lILUJqXcp6w9wNQSm
 features:
 - Sean Paul
-genres: []
+first_released_as_single: true
 key: cheap-thrills-sia-sean-paul
 lyrics_url: https://genius.com/Genius-traductions-francaises-sia-cheap-thrills-remix-ft-sean-paul-traduction-francaise-lyrics
 name: Cheap Thrills
@@ -216,6 +219,8 @@ rankings:
   rank: 32
   ranking_list: Billboard Hot 100
   start_date: '2017-02-25'
+release_year: 2016
+runtime: 224813
 ---
 Enjaille-toi avec ça meuf
 Rock avec ça meuf

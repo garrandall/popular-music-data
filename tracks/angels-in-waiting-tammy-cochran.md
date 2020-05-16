@@ -1,8 +1,11 @@
 ---
+album: Tammy Cochran
 artists:
 - Tammy Cochran
+external_ids:
+  spotify: spotify:track:05ekxIMCFrNMCbcZh6Z6ii
 features: []
-genres: []
+first_released_as_single: true
 key: angels-in-waiting-tammy-cochran
 lyrics_url: https://genius.com/Tammy-cochran-angels-in-waiting-lyrics
 name: Angels In Waiting
@@ -51,6 +54,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2001-12-15'
+release_year: 2000
+runtime: 216533
 ---
 We camped out on the livin' room floor
 In our old sleepin' bags

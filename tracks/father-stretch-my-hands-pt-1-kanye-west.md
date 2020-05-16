@@ -1,8 +1,11 @@
 ---
+album: The Life Of Pablo
 artists:
 - Kanye West
+external_ids:
+  spotify: spotify:track:4KW1lqgSr8TKrvBII0Brf8
 features: []
-genres: []
+first_released_as_single: false
 key: father-stretch-my-hands-pt-1-kanye-west
 lyrics_url: https://www.musixmatch.com/lyrics/Kanye-West/Father-Stretch-My-Hands-Pt-1
 name: Father Stretch My Hands Pt 1
@@ -99,6 +102,8 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '2016-10-29'
+release_year: 2016
+runtime: 135920
 ---
 You're the only power (Power)
 You're the only power that can

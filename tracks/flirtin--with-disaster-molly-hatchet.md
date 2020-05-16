@@ -1,8 +1,11 @@
 ---
+album: Flirtin' With Disaster
 artists:
 - Molly Hatchet
+external_ids:
+  spotify: spotify:track:7rmhpWoksuqv3MyQ7COG0v
 features: []
-genres: []
+first_released_as_single: false
 key: flirtin--with-disaster-molly-hatchet
 lyrics_url: https://www.musixmatch.com/lyrics/Molly-Hatchet/Flirtin-With-Disaster
 name: Flirtin' With Disaster
@@ -47,6 +50,8 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1980-03-08'
+release_year: 1970
+runtime: 297826
 ---
 I'm travelin' down the road, and I'm flirtin' with disaster
 I got the pedal to the floor, and my life is runnin' faster

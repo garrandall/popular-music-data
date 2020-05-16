@@ -1,8 +1,11 @@
 ---
+album: My Life
 artists:
 - Mary J. Blige
+external_ids:
+  spotify: spotify:track:0I5mUa3CZPcsrWwlUmTWkV
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-goin--down-mary-j--blige
 lyrics_url: https://genius.com/Mary-j-blige-im-goin-down-lyrics
 name: I'm Goin' Down
@@ -63,6 +66,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1995-07-08'
+release_year: 1994
+runtime: 222333
 ---
 Time on my hands
 Since you've been away, boy

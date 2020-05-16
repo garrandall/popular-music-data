@@ -1,8 +1,11 @@
 ---
+album: All In The Name Of Love
 artists:
 - Atlantic Starr
+external_ids:
+  spotify: spotify:track:2TQaMcc3BEAF5Srn7FCipl
 features: []
-genres: []
+first_released_as_single: false
 key: always-atlantic-starr
 lyrics_url: https://genius.com/Atlantic-starr-always-lyrics
 name: Always
@@ -95,6 +98,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1987-08-22'
+release_year: 1987
+runtime: 288493
 ---
 Girl, you are to me
 All that a woman should be

@@ -1,9 +1,12 @@
 ---
+album: Wild And Peaceful
 artists:
 - Kool
 - The Gang
+external_ids:
+  spotify: spotify:track:6igsoAR6Co9u7Rq3U7mlOD
 features: []
-genres: []
+first_released_as_single: false
 key: hollywood-swinging-kool-the-gang
 lyrics_url: https://www.azlyrics.com/lyrics/koolthegang/hollywoodswinging.html
 name: Hollywood Swinging
@@ -84,8 +87,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1974-08-24'
+release_year: 1973
+runtime: 279933
 ---
-
 Hey, hey, hey
 What ya got to say?
 Hey, hey, hey
@@ -147,6 +151,3 @@ Hollywood, Hollywood, Hollywood, now swinging
 Hollywood is swinging down
 Hollywood is swinging down
 Hollywood is swinging down
-
-
-

@@ -1,8 +1,12 @@
 ---
+album: Prisoner Of Love
 artists:
-- James Brown And The Famous Flames
-features: []
-genres: []
+- James Brown
+external_ids:
+  spotify: spotify:track:4Kp31ydhTX1l4g84HiTWD5
+features:
+- The Famous Flames
+first_released_as_single: false
 key: try-me-james-brown-and-the-famous-flames
 lyrics_url: https://genius.com/James-brown-and-the-famous-flames-try-me-lyrics
 name: Try Me
@@ -59,6 +63,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1959-03-09'
+release_year: 1958
+runtime: 152373
 ---
 Try me (try me), Try me (try me)
 Darling tell me

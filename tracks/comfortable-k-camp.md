@@ -1,8 +1,11 @@
 ---
+album: Only Way Is Up
 artists:
 - K Camp
+external_ids:
+  spotify: spotify:track:2BqQQXuBOuhaWeUP7okEx0
 features: []
-genres: []
+first_released_as_single: false
 key: comfortable-k-camp
 lyrics_url: https://www.azlyrics.com/lyrics/kcamp/comfortable.html
 name: Comfortable
@@ -67,9 +70,9 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '2015-11-28'
+release_year: 2014
+runtime: 211573
 ---
-
-
 Tell me where you wanna go
 Tell me what you wanna do
 Baby, just be comfortable
@@ -147,6 +150,3 @@ Tell me where you wanna go
 Tell me what you wanna do
 Baby, just be comfortable
 I'll be right here next to you
-
-
-

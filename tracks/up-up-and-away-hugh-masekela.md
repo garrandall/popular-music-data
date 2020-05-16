@@ -1,8 +1,11 @@
 ---
+album: Still Grazing
 artists:
 - Hugh Masekela
+external_ids:
+  spotify: spotify:track:7DWhCd3kkltdrQNDSnuTcF
 features: []
-genres: []
+first_released_as_single: false
 key: up-up-and-away-hugh-masekela
 lyrics_url: https://www.musixmatch.com/lyrics/Hugh-Masekela/Up-Up-and-Away
 name: Up-Up And Away
@@ -39,6 +42,8 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1968-01-27'
+release_year: 1967
+runtime: 332773
 ---
 Would you like to ride in my beautiful balloon?
 Would you like to glide in my beautiful balloon?

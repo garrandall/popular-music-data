@@ -1,8 +1,11 @@
 ---
+album: Some Kind of Trouble
 artists:
 - James Blunt
+external_ids:
+  spotify: spotify:track:7FFl1IHSsPWsfUCladsCl9
 features: []
-genres: []
+first_released_as_single: false
 key: stay-the-night-james-blunt
 lyrics_url: https://www.azlyrics.com/lyrics/jamesblunt/staythenight.html
 name: Stay The Night
@@ -11,8 +14,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2011-02-05'
+release_year: 2010
+runtime: 216333
 ---
-
 Oh, Oh, Oh, hey
 
 It's seventy two degrees
@@ -87,6 +91,3 @@ The morning's on it's way
 Our friends all say goodbye
 There's nowhere else to go
 I hope that you'll stay the night
-
-
-

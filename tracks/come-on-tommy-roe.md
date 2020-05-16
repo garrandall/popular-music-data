@@ -1,8 +1,11 @@
 ---
+album: Tommy's 22 Big Ones
 artists:
 - Tommy Roe
+external_ids:
+  spotify: spotify:track:03xVR0KnRD4XyZyFVmNwrb
 features: []
-genres: []
+first_released_as_single: false
 key: come-on-tommy-roe
 lyrics_url: https://www.azlyrics.com/lyrics/tommyroe/comeon.html
 name: Come On
@@ -39,8 +42,9 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '1964-03-07'
+release_year: 1964
+runtime: 128866
 ---
-
 Come on, come on children now.
 Come on, sing to me
 Come on, come on children
@@ -73,6 +77,3 @@ Let's sing and shout our blues away
 
 Come on, come on children now.
 Come on...
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Are You Ready For This?
 artists:
 - Jackie DeShannon
+external_ids:
+  spotify: spotify:track:0CdSyRIqzfOirCgtRVcQQY
 features: []
-genres: []
+first_released_as_single: false
 key: come-and-get-me-jackie-deshannon
 lyrics_url: https://genius.com/Jackie-deshannon-come-and-get-me-lyrics
 name: Come And Get Me
@@ -19,6 +22,8 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1966-06-11'
+release_year: 1966
+runtime: 160653
 ---
 I know what life has done to you
 Things haven't been much fun for you

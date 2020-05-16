@@ -1,8 +1,11 @@
 ---
+album: Tell Me You Love Me
 artists:
 - Demi Lovato
+external_ids:
+  spotify: spotify:track:7kDH4UQkVLaW9743hiCR2Y
 features: []
-genres: []
+first_released_as_single: true
 key: sorry-not-sorry-demi-lovato
 lyrics_url: https://genius.com/Demi-lovato-sorry-not-sorry-lyrics
 name: Sorry Not Sorry
@@ -151,6 +154,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2018-03-24'
+release_year: 2017
+runtime: 224720
 ---
 Payback is a bad bitch
 And baby, I'm the baddest

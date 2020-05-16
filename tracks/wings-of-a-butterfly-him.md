@@ -1,8 +1,11 @@
 ---
+album: Dark Light
 artists:
 - HIM
+external_ids:
+  spotify: spotify:track:1vbRRkuTZBeiNiFtDwSIkL
 features: []
-genres: []
+first_released_as_single: true
 key: wings-of-a-butterfly-him
 lyrics_url: https://genius.com/Him-wings-of-a-butterfly-lyrics
 name: Wings Of A Butterfly
@@ -15,6 +18,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '2006-03-18'
+release_year: 2005
+runtime: 211679
 ---
 Heaven ablaze in our eyes
 We're standing still in time

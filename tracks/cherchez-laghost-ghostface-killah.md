@@ -1,8 +1,11 @@
 ---
+album: Ghostface Killah...Shaolin's Finest
 artists:
 - Ghostface Killah
+external_ids:
+  spotify: spotify:track:5vKPSbwck6yojUAZIHTsFj
 features: []
-genres: []
+first_released_as_single: false
 key: cherchez-laghost-ghostface-killah
 lyrics_url: https://genius.com/Ghostface-killah-cherchez-la-ghost-lyrics
 name: Cherchez LaGhost
@@ -11,6 +14,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2000-08-05'
+release_year: 1996
+runtime: 183160
 ---
 Tommy Mottola, lives on the road
 He lost his lady, two months ago

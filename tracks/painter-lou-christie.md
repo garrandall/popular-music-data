@@ -1,8 +1,11 @@
 ---
+album: "Lightnin\u2019 Strikes: The Very Best Of The MGM Recordings"
 artists:
 - Lou Christie
+external_ids:
+  spotify: spotify:track:6oP8Ps4asdwDGhQ59t6UFA
 features: []
-genres: []
+first_released_as_single: false
 key: painter-lou-christie
 lyrics_url: https://www.musixmatch.com/lyrics/Lou-Christie/Painter
 name: Painter
@@ -27,6 +30,8 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1966-07-23'
+release_year: 1966
+runtime: 183800
 ---
 Painter
 Put my hurt on paper

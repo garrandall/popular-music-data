@@ -1,8 +1,11 @@
 ---
+album: Legends
 artists:
 - Juice WRLD
+external_ids:
+  spotify: spotify:track:1Knctxx9vGZxpZfF66BIEa
 features: []
-genres: []
+first_released_as_single: true
 key: legends-juice-wrld
 lyrics_url: https://www.azlyrics.com/lyrics/juicewrld/legends.html
 name: Legends
@@ -19,8 +22,9 @@ rankings:
   rank: 29
   ranking_list: Billboard Hot 100
   start_date: '2019-12-21'
+release_year: 2018
+runtime: 191840
 ---
-
 I usually don't speak on shit like this, but
 Ain't nobody else saying shit
 Day trip took it to ten
@@ -73,6 +77,3 @@ This time, it was so unexpected
 Last time, it was the drugs he was lacing
 All legends fall in the making
 Sorry truth, dying young, demon youth
-
-
-

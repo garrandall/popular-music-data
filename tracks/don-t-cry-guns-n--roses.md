@@ -1,8 +1,11 @@
 ---
+album: Use Your Illusion I
 artists:
 - Guns N' Roses
+external_ids:
+  spotify: spotify:track:2N2yrmodOnVF10mKvItC9P
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-cry-guns-n--roses
 lyrics_url: https://genius.com/Guns-n-roses-dont-cry-lyrics
 name: Don't Cry
@@ -87,6 +90,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1992-02-01'
+release_year: 1991
+runtime: 283733
 ---
 Talk to me softly, there's something in your eyes
 Don't hang your head in sorrow and please don't cry

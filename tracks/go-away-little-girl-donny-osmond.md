@@ -1,8 +1,11 @@
 ---
+album: To You With Love, Donny
 artists:
 - Donny Osmond
+external_ids:
+  spotify: spotify:track:6SvOdNsEfi7EDB0oFtH3YG
 features: []
-genres: []
+first_released_as_single: false
 key: go-away-little-girl-donny-osmond
 lyrics_url: https://www.azlyrics.com/lyrics/donnyosmond/goawaylittlegirl.html
 name: Go Away Little Girl
@@ -67,8 +70,9 @@ rankings:
   rank: 23
   ranking_list: Billboard Hot 100
   start_date: '1971-11-13'
+release_year: 1971
+runtime: 150600
 ---
-
 Go away little girl
 Go away little girl
 I'm not supposed to be alone with you
@@ -102,6 +106,3 @@ Before I beg you to stay
 (Go away) Please, go away little girl
 (Go away) Go away little girl
 (Go away)
-
-
-

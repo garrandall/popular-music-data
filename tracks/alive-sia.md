@@ -1,8 +1,11 @@
 ---
+album: This Is Acting (Deluxe Version)
 artists:
 - Sia
+external_ids:
+  spotify: spotify:track:05cXQMJcrM9msUYu11mOrs
 features: []
-genres: []
+first_released_as_single: true
 key: alive-sia
 lyrics_url: https://www.azlyrics.com/lyrics/sia/alive.html
 name: Alive
@@ -19,8 +22,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2016-02-20'
+release_year: 2015
+runtime: 263893
 ---
-
 I was born in a thunderstorm
 I grew up overnight
 I played alone
@@ -81,7 +85,4 @@ I'm alive (You took it all, but I'm still breathing)
 (You took it all, but I'm still breathing)
 I'm alive
 
-I'm alive 
-
-
-
+I'm alive

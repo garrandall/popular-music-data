@@ -1,8 +1,11 @@
 ---
+album: The Motown Anthology
 artists:
 - Brenda Holloway
+external_ids:
+  spotify: spotify:track:3U7D5acgKtfzR75y5IN1SQ
 features: []
-genres: []
+first_released_as_single: false
 key: just-look-what-you-ve-done-brenda-holloway
 lyrics_url: https://genius.com/Brenda-holloway-just-look-what-youve-done-lyrics
 name: Just Look What You've Done
@@ -27,6 +30,8 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1967-05-20'
+release_year: 1967
+runtime: 175400
 ---
 With a tender love, you filled my lonely days
 You made me need you, darlin', in so many ways

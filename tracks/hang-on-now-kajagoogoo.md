@@ -1,8 +1,11 @@
 ---
+album: White Feathers
 artists:
 - Kajagoogoo
+external_ids:
+  spotify: spotify:track:6BCVKcZhk5M1mHBvfOrDUK
 features: []
-genres: []
+first_released_as_single: false
 key: hang-on-now-kajagoogoo
 lyrics_url: https://www.azlyrics.com/lyrics/kajagoogoo/hangonnow.html
 name: Hang On Now
@@ -23,8 +26,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1983-09-17'
+release_year: 1983
+runtime: 203160
 ---
-
 No sooner than I turn my back and then
 It's so hard to find
 I'm on the decline with you
@@ -62,4 +66,3 @@ Hang on girl, meet my heart
 It knows the best time for new love to start
 Hang on now, meet my heart
 It knows the best time for us to start
-

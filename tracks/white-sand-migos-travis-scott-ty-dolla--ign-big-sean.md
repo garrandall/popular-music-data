@@ -1,11 +1,14 @@
 ---
+album: Culture II
 artists:
 - Migos
+external_ids:
+  spotify: spotify:track:2KokOIKdw4zZutDil85Ugh
 features:
 - Travis Scott
 - Ty Dolla $ign
 - Big Sean
-genres: []
+first_released_as_single: false
 key: white-sand-migos-travis-scott-ty-dolla--ign-big-sean
 lyrics_url: https://www.azlyrics.com/lyrics/migos/whitesand.html
 name: White Sand
@@ -14,9 +17,9 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '2018-02-10'
+release_year: 2018
+runtime: 202834
 ---
-
-
 Yeah, white color sand (yeah), frost in my hand, yeah (yeah)
 Lost it again, yeah (it's lit), ghost, Danny Phantom (oh yeah)
 Dipped in a trance, yeah (alright), ten in the van, yeah
@@ -64,7 +67,7 @@ Pull out the coupe like Bruce Wayne (skrrt skrrt)
 
 
 Pull up the curtains to the Mulsane (hey)
-PavÃ© my set and clip Blu-ray (pavÃ©)
+Pavé my set and clip Blu-ray (pavé)
 Run to the bag like Hussein (bag)
 When I lay my head down, got two K's (baow)
 Ferrari in Miami Beach (Ferrrari)
@@ -110,6 +113,3 @@ On the top like toupee (on top)
 Play no games, no 2K (no 2K)
 Crap game in the booth flame (crap)
 Pull out the coupe like Bruce Wayne (skrrt skrrt)
-
-
-

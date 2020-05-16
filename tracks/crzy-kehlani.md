@@ -1,8 +1,11 @@
 ---
+album: SweetSexySavage
 artists:
 - Kehlani
+external_ids:
+  spotify: spotify:track:0NPC7wQ0sb6vPR8rWke1te
 features: []
-genres: []
+first_released_as_single: true
 key: crzy-kehlani
 lyrics_url: https://genius.com/Kehlani-crzy-lyrics
 name: CRZY
@@ -27,6 +30,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2016-11-12'
+release_year: 2016
+runtime: 191719
 ---
 Crazy—I go, I go, I go, I go
 

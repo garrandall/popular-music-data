@@ -1,8 +1,11 @@
 ---
+album: 'Society''s Child: The Verve Recordings'
 artists:
 - Janis Ian
+external_ids:
+  spotify: spotify:track:4ygQFe0kTwEQYUc0SjMr58
 features: []
-genres: []
+first_released_as_single: false
 key: society-s-child--baby-i-ve-been-thinking--janis-ian
 lyrics_url: https://genius.com/Janis-ian-societys-child-lyrics
 name: Society's Child (Baby I've Been Thinking)
@@ -55,6 +58,8 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1967-08-12'
+release_year: 1967
+runtime: 192133
 ---
 Come to my door, baby
 Face is clean and shining black as night

@@ -1,8 +1,11 @@
 ---
+album: Rudolph The Red Nosed Reindeer And Other Christmas Classics
 artists:
 - Gene Autry
+external_ids:
+  spotify: spotify:track:1dtIaSlyrLI04sqYa8nLyN
 features: []
-genres: []
+first_released_as_single: false
 key: rudolph-the-red-nosed-reindeer-gene-autry
 lyrics_url: https://genius.com/Gene-autry-rudolph-the-red-nosed-reindeer-lyrics
 name: Rudolph The Red-Nosed Reindeer
@@ -39,6 +42,8 @@ rankings:
   rank: 22
   ranking_list: Billboard Hot 100
   start_date: '2020-01-04'
+release_year: 1947
+runtime: 186733
 ---
 You know Dasher, and Dancer, and Prancer, and Vixen
 Comet, and Cupid, and Donner and Blitzen

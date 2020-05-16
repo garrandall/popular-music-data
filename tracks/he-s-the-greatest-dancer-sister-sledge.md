@@ -1,8 +1,11 @@
 ---
+album: The Chic Organization 1977-1979
 artists:
 - Sister Sledge
+external_ids:
+  spotify: spotify:track:2z8jCFnRHnUZAtktScAqUG
 features: []
-genres: []
+first_released_as_single: false
 key: he-s-the-greatest-dancer-sister-sledge
 lyrics_url: https://www.azlyrics.com/lyrics/sistersledge/hesthegreatestdancer.html
 name: He's The Greatest Dancer
@@ -83,8 +86,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1979-06-16'
+release_year: 1977
+runtime: 370546
 ---
-
 Oh what, wow
 He's the greatest dancer
 Oh what, wow
@@ -164,6 +168,3 @@ Oh what, wow
 He's the greatest dancer
 Oh what, wow
 That I've ever seen
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Greatest Hits And Rare Classics
 artists:
 - Jermaine Jackson
+external_ids:
+  spotify: spotify:track:38ykqcoFWBLbWIu8AgpPyo
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-just-too-shy-jermaine-jackson
 lyrics_url: https://genius.com/Jermaine-jackson-im-just-too-shy-lyrics
 name: I'm Just Too Shy
@@ -39,6 +42,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1981-12-19'
+release_year: 1981
+runtime: 225800
 ---
 It never fails when I'm with you
 I just freeze up inside

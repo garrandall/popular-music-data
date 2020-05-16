@@ -1,8 +1,11 @@
 ---
+album: Playboy
 artists:
 - Gene And Debbe
+external_ids:
+  spotify: spotify:track:6JBGFlHJJvNtKFAYpchJbk
 features: []
-genres: []
+first_released_as_single: false
 key: lovin--season-gene-and-debbe
 name: Lovin' Season
 rankings:
@@ -22,5 +25,7 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1968-07-20'
+release_year: 1968
+runtime: 155800
 ---
 

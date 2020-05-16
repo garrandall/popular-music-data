@@ -1,8 +1,11 @@
 ---
+album: Silver
 artists:
 - Silver
+external_ids:
+  spotify: spotify:track:3qrEG6rQ9Qm72MNWeUKKiU
 features: []
-genres: []
+first_released_as_single: false
 key: wham-bam--shang-a-lang--silver
 lyrics_url: https://www.azlyrics.com/lyrics/silver/whambamshangalang.html
 name: Wham Bam (Shang-A-Lang)
@@ -91,8 +94,9 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1976-11-06'
+release_year: 1976
+runtime: 212840
 ---
-
 Starry nights, sunny days
 I always thought that love should be that way
 Then comes a time that you're ridden with doubt
@@ -140,6 +144,3 @@ Wham bam shang-a-lang
 And a sha-la-la-la-la-la thing
 Wham bam shang-a-lang
 And a sha-la-la-la-la-la thing
-
-
-

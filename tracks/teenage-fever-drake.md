@@ -1,8 +1,11 @@
 ---
+album: More Life
 artists:
 - Drake
+external_ids:
+  spotify: spotify:track:6n3HGiq4v35D6eFOSwqYuo
 features: []
-genres: []
+first_released_as_single: false
 key: teenage-fever-drake
 lyrics_url: https://www.azlyrics.com/lyrics/drake/teenagefever.html
 name: Teenage Fever
@@ -23,9 +26,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2017-04-29'
+release_year: 2017
+runtime: 219692
 ---
-
-
 Your heart is hard to carry after dark
 You're to blame for what we could have been
 'Cause look at what we are
@@ -84,6 +87,3 @@ Slightly been awake for 24 hours, so please forgive me
 More ideas and stuff comin'
 Yeah, yeah, fam
 I'm wafflin', but man is tired, fam, Jesus Christ
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Congratulations I'm Sorry
 artists:
 - Gin Blossoms
+external_ids:
+  spotify: spotify:track:4LR75dqM5Y1SUVzxxvnnt1
 features: []
-genres: []
+first_released_as_single: false
 key: as-long-as-it-matters-gin-blossoms
 lyrics_url: https://www.azlyrics.com/lyrics/ginblossoms/aslongasitmatters.html
 name: As Long As It Matters
@@ -39,8 +42,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1996-10-05'
+release_year: 1996
+runtime: 271840
 ---
-
 How can I find something
 That two can take
 Without stumbling as we
@@ -64,6 +68,3 @@ I'll be all right
 As long as it matters
 As long as you're here with me now
 Forget that our time is almost up I'll be all right...
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: In The Blood
 artists:
 - Londonbeat
+external_ids:
+  spotify: spotify:track:02KLiEs31kxh1krQJezlTL
 features: []
-genres: []
+first_released_as_single: false
 key: i-ve-been-thinking-about-you-londonbeat
 lyrics_url: https://www.musixmatch.com/lyrics/Londonbeat/I-ve-Been-Thinking-About-You
 name: I've Been Thinking About You
@@ -83,6 +86,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1991-06-15'
+release_year: 1990
+runtime: 317933
 ---
 We must have been stone crazy
 When we thought we were just friends

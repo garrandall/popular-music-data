@@ -1,8 +1,11 @@
 ---
+album: Whatever
 artists:
 - Hot Chelle Rae
+external_ids:
+  spotify: spotify:track:2O9eBQhcBssCo9G6oEqrim
 features: []
-genres: []
+first_released_as_single: true
 key: tonight-tonight-hot-chelle-rae
 lyrics_url: https://genius.com/Hot-chelle-rae-tonight-tonight-lyrics
 name: Tonight Tonight
@@ -127,6 +130,8 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '2011-11-19'
+release_year: 2011
+runtime: 208506
 ---
 It's been a really, really messed up week
 Seven days of torture, seven days of bitter

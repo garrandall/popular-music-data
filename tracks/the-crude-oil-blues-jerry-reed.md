@@ -1,8 +1,11 @@
 ---
+album: A Good Woman's Love
 artists:
 - Jerry Reed
+external_ids:
+  spotify: spotify:track:7q4Z400hRKxQONkDbGQMoy
 features: []
-genres: []
+first_released_as_single: false
 key: the-crude-oil-blues-jerry-reed
 lyrics_url: https://www.musixmatch.com/lyrics/Jerry-Reed/The-Crude-Oil-Blues
 name: The Crude Oil Blues
@@ -27,6 +30,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1974-03-16'
+release_year: 1974
+runtime: 153200
 ---
 Well, now listen people let me tell you some news
 I'll sing a song called the crude oil blues

@@ -1,8 +1,11 @@
 ---
+album: South Sea Island Magic
 artists:
 - Frank Chacksfield And His Orch.
+external_ids:
+  spotify: spotify:track:3C1d2Sjd1LDqFaLVkzsLbW
 features: []
-genres: []
+first_released_as_single: false
 key: on-the-beach-frank-chacksfield-and-his-orch-
 name: On The Beach
 rankings:
@@ -38,5 +41,7 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1960-03-14'
+release_year: 1960
+runtime: 347621
 ---
 

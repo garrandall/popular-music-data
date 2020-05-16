@@ -1,8 +1,11 @@
 ---
+album: The Essential Collection
 artists:
 - Rod Bernard
+external_ids:
+  spotify: spotify:track:7bZ63iD6LaK3MIURJWwvAU
 features: []
-genres: []
+first_released_as_single: false
 key: this-should-go-on-forever-rod-bernard
 lyrics_url: https://genius.com/Rod-bernard-this-should-go-on-forever-lyrics
 name: This Should Go On Forever
@@ -55,6 +58,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1959-05-25'
+release_year: 1959
+runtime: 168993
 ---
 This should go on forever
 It should never, ever end

@@ -1,8 +1,11 @@
 ---
+album: The Best of Thompson Twins Greatest Mixes
 artists:
 - Thompson Twins
+external_ids:
+  spotify: spotify:track:6TqkMplIusQbtGghbGXDHn
 features: []
-genres: []
+first_released_as_single: false
 key: love-on-your-side-thompson-twins
 lyrics_url: https://www.azlyrics.com/lyrics/thompsontwins/loveonyourside.html
 name: Love On Your Side
@@ -43,8 +46,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1983-06-25'
+release_year: 1983
+runtime: 340066
 ---
-
 I hear you laughing in some other room
 And it makes me feel locked out
 You say my passion often stifles you
@@ -100,6 +104,3 @@ Cause you got love, love
 Love on your side
 Cause you got love, love
 Love on your side
-
-
-

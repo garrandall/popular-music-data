@@ -1,8 +1,11 @@
 ---
+album: String Along
 artists:
 - The Kingston Trio
+external_ids:
+  spotify: spotify:track:6ysmdoib0bbSXAV6QJP1Vx
 features: []
-genres: []
+first_released_as_single: false
 key: everglades-the-kingston-trio
 lyrics_url: https://genius.com/Kingston-trio-everglades-lyrics
 name: Everglades
@@ -27,6 +30,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1960-11-07'
+release_year: 1960
+runtime: 142560
 ---
 He was born and raised around Jacksonville
 A nice young man, not the kind to kill

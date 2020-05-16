@@ -1,8 +1,11 @@
 ---
+album: Jesus Was a Capricorn
 artists:
 - Kris Kristofferson
+external_ids:
+  spotify: spotify:track:0CbCkwsrhGO8a4dJj11s1M
 features: []
-genres: []
+first_released_as_single: false
 key: jesus-was-a-capricorn-kris-kristofferson
 lyrics_url: https://www.azlyrics.com/lyrics/kriskristofferson/jesuswasacapricorn.html
 name: Jesus Was A Capricorn
@@ -19,8 +22,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1973-01-13'
+release_year: 1972
+runtime: 149053
 ---
-
 Jesus was a Capricorn
 He ate organic food
 He believed in love and peace
@@ -46,4 +50,3 @@ Some folks hate the Whites
 Who hate the Blacks who hate the Klan
 Most of us hate anything that
 We don't understand
-

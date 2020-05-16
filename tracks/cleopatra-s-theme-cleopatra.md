@@ -1,8 +1,11 @@
 ---
+album: Comin' Atcha!
 artists:
 - Cleopatra
+external_ids:
+  spotify: spotify:track:19udLuHd7CD8XxrOmUaXPn
 features: []
-genres: []
+first_released_as_single: false
 key: cleopatra-s-theme-cleopatra
 lyrics_url: https://genius.com/Cleopatra-cleopatras-theme-lyrics
 name: Cleopatra's Theme
@@ -83,6 +86,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1998-11-07'
+release_year: 1998
+runtime: 249200
 ---
 Hey, ohohohoho
 Let me hear you say it

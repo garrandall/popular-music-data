@@ -1,8 +1,11 @@
 ---
+album: Spiceworld
 artists:
 - Spice Girls
+external_ids:
+  spotify: spotify:track:1RQnYh2xw2BPpnzQFbO5r5
 features: []
-genres: []
+first_released_as_single: false
 key: too-much-spice-girls
 lyrics_url: https://genius.com/Spice-girls-too-much-lyrics
 name: Too Much
@@ -87,6 +90,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1998-06-27'
+release_year: 1997
+runtime: 271933
 ---
 Love is blind, as far as the eye can see
 Deep but meaningless words to me

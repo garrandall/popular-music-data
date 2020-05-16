@@ -1,9 +1,12 @@
 ---
+album: us
 artists:
 - gnash
+external_ids:
+  spotify: spotify:track:4EvXQrA6TVAI56jTsC3373
 features:
 - Olivia O'Brien
-genres: []
+first_released_as_single: false
 key: i-hate-u-i-love-u-gnash-olivia-o-brien
 lyrics_url: https://genius.com/Gnash-i-hate-u-i-love-u-lyrics
 name: I Hate U I Love U
@@ -164,6 +167,8 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '2017-01-28'
+release_year: 2016
+runtime: 251012
 ---
 Feeling used, but I'm
 Still missing you and I can't

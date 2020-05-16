@@ -1,8 +1,11 @@
 ---
+album: Top Gun - Motion Picture Soundtrack
 artists:
 - Kenny Loggins
+external_ids:
+  spotify: spotify:track:5mQYBoGU3BOAqiFq54b51i
 features: []
-genres: []
+first_released_as_single: false
 key: playing-with-the-boys-kenny-loggins
 lyrics_url: https://www.azlyrics.com/lyrics/kennyloggins/playingwiththeboys.html
 name: Playing With The Boys
@@ -55,8 +58,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1986-11-01'
+release_year: 1986
+runtime: 239266
 ---
-
 I'd say it was the right time
 To walk away
 When dreaming takes you nowhere
@@ -117,6 +121,3 @@ After chasing sunsets
 One of life's simple joys
 Is playin' with the boys
 ...
-
-
-

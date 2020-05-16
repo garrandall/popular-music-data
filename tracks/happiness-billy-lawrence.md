@@ -1,8 +1,11 @@
 ---
+album: One Might Say
 artists:
 - Billy Lawrence
+external_ids:
+  spotify: spotify:track:6eD8dsEHSfe78KdwxJ9mbH
 features: []
-genres: []
+first_released_as_single: false
 key: happiness-billy-lawrence
 lyrics_url: https://genius.com/Billy-lawrence-happiness-lyrics
 name: Happiness
@@ -23,6 +26,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1994-08-20'
+release_year: 1994
+runtime: 238920
 ---
 Oh
 Happiness

@@ -1,9 +1,12 @@
 ---
+album: The Two Of Us
 artists:
 - Yarbrough
 - Peoples
+external_ids:
+  spotify: spotify:track:5qJToa1YuuzOWbIQYRFHA0
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-stop-the-music-yarbrough-peoples
 lyrics_url: https://genius.com/Yarbrough-and-peoples-dont-stop-the-music-lyrics
 name: Don't Stop The Music
@@ -72,6 +75,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1981-05-23'
+release_year: 1980
+runtime: 471613
 ---
 Don't you stop it, don't you stop
 Don't stop the music

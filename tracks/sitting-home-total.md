@@ -1,8 +1,11 @@
 ---
+album: Kima, Keisha & Pam
 artists:
 - Total
+external_ids:
+  spotify: spotify:track:6sSRhTPxBomvVYAyLpkLa1
 features: []
-genres: []
+first_released_as_single: false
 key: sitting-home-total
 lyrics_url: https://genius.com/Total-sitting-home-lyrics
 name: Sitting Home
@@ -63,6 +66,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1999-07-10'
+release_year: 1998
+runtime: 254858
 ---
 Sittin home waitin for you
 'Cause staring at these walls is all I do
@@ -95,4 +100,3 @@ By myself all day long
 These feeling that I feel for you feel so strong
 By myself all day long
 These feeling that I feel for you since you been gone
-

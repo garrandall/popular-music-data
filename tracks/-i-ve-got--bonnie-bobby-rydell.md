@@ -1,8 +1,11 @@
 ---
+album: The Best Of Bobby Rydell
 artists:
 - Bobby Rydell
+external_ids:
+  spotify: spotify:track:5XbZjYB4z9OIJhutiDJeSV
 features: []
-genres: []
+first_released_as_single: false
 key: -i-ve-got--bonnie-bobby-rydell
 lyrics_url: https://genius.com/Bobby-rydell-ive-got-bonnie-lyrics
 name: (I've Got) Bonnie
@@ -51,6 +54,8 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '1962-04-28'
+release_year: 1962
+runtime: 147000
 ---
 (Doop doop, doop doo doop doo doop)
 (Ah-ohah-oop)

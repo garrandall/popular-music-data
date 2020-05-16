@@ -1,10 +1,13 @@
 ---
+album: More Life
 artists:
 - Drake
+external_ids:
+  spotify: spotify:track:0xl1w2q4VLojeXp4JfazPL
 features:
 - 2 Chainz
 - Young Thug
-genres: []
+first_released_as_single: false
 key: sacrifices-drake-2-chainz-young-thug
 lyrics_url: https://www.azlyrics.com/lyrics/drake/sacrifices.html
 name: Sacrifices
@@ -21,9 +24,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2017-04-22'
+release_year: 2017
+runtime: 307593
 ---
-
-
 Wrote this shit, January 21
 Baby girl, I had to run, I'll be back a couple months
 Kendall turned 21, was up the street with 21
@@ -149,6 +152,3 @@ Yeah, I'm convinced
 I made sacrifices, I been ballin' ever since
 Yeah, I did some wrong, I had no choice in my defense
 Someone watchin' over us, so shout goes out to-
-
-
-

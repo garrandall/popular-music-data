@@ -1,8 +1,11 @@
 ---
+album: Total
 artists:
 - Total
+external_ids:
+  spotify: spotify:track:1XtH6EYaJSBYiyS8oeFNRQ
 features: []
-genres: []
+first_released_as_single: true
 key: no-one-else-total
 lyrics_url: https://genius.com/Total-no-one-else-lyrics
 name: No One Else
@@ -87,6 +90,8 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '1996-04-27'
+release_year: 1995
+runtime: 268400
 ---
 There you are, lookin' at me
 Tell me, what you want this to be

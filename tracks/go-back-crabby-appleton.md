@@ -1,8 +1,11 @@
 ---
+album: Crabby Appleton
 artists:
 - Crabby Appleton
+external_ids:
+  spotify: spotify:track:39vBxUcQ1tZqGJMBnV3Key
 features: []
-genres: []
+first_released_as_single: false
 key: go-back-crabby-appleton
 lyrics_url: https://genius.com/Crabby-appleton-go-back-lyrics
 name: Go Back
@@ -63,6 +66,8 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '1970-08-08'
+release_year: 1970
+runtime: 186706
 ---
 You don't hold me so well and it's not hard to tell
 When you know in your heart that it's wrong

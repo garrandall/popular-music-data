@@ -1,8 +1,11 @@
 ---
+album: '112'
 artists:
 - '112'
+external_ids:
+  spotify: spotify:track:0olPs8W1yKa5wmb8z5DSmn
 features: []
-genres: []
+first_released_as_single: true
 key: cupid-112
 lyrics_url: https://www.azlyrics.com/lyrics/112/cupid.html
 name: Cupid
@@ -119,8 +122,9 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1997-09-06'
+release_year: 1996
+runtime: 255760
 ---
-
 Everybody put your hands together
 Whooo, mmm, yeah
 Girl I love you so
@@ -157,4 +161,3 @@ Never wanna leave ya
 Ain't no life without you
 Never gonna leave, never gonna go, no
 No, no, no, no, no, no, no, oh
-

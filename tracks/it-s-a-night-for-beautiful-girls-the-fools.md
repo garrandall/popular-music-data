@@ -1,8 +1,11 @@
 ---
+album: Sold Out / Heavy Mental
 artists:
 - The Fools
+external_ids:
+  spotify: spotify:track:40OomHZdjj1zZLWusq3zln
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-a-night-for-beautiful-girls-the-fools
 lyrics_url: https://genius.com/The-fools-its-a-night-for-beautiful-girls-lyrics
 name: It's A Night For Beautiful Girls
@@ -23,6 +26,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1980-05-10'
+release_year: 1980
+runtime: 233600
 ---
 It's a night, oh yeah
 For beautiful girls

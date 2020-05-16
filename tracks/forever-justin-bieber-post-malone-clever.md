@@ -1,10 +1,13 @@
 ---
+album: Changes
 artists:
 - Justin Bieber
+external_ids:
+  spotify: spotify:track:2ZlCGeK30BLRNSPC832pNZ
 features:
 - Post Malone
 - Clever
-genres: []
+first_released_as_single: false
 key: forever-justin-bieber-post-malone-clever
 lyrics_url: https://www.azlyrics.com/lyrics/justinbieber/foreverchanges.html
 name: Forever
@@ -17,8 +20,9 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '2020-03-07'
+release_year: 2020
+runtime: 219933
 ---
-
 Could you be here with me forever, ever, ever?
 Would you be here with me forever, ever, ever?
 Waking up all alone ain't better, better, better
@@ -89,6 +93,3 @@ Won't you be here with me forever, ever, ever?
 Won't you be here with me forever, ever, ever?
 Waking up all alone ain't better, better, better
 Every time I go the wrong way you turn me back around
-
-
-

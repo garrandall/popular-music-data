@@ -1,10 +1,13 @@
 ---
+album: JACKBOYS
 artists:
 - JACKBOYS
 - Pop Smoke
 - Travis Scott
+external_ids:
+  spotify: spotify:track:40mjsnRjCpycdUw3xhS20g
 features: []
-genres: []
+first_released_as_single: false
 key: gatti-jackboys-pop-smoke-travis-scott
 lyrics_url: https://genius.com/Jackboys-pop-smoke-and-travis-scott-gatti-lyrics
 name: GATTI
@@ -13,6 +16,8 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '2020-01-11'
+release_year: 2019
+runtime: 181144
 ---
 AXL
 Hahaha, huh? Hahaha

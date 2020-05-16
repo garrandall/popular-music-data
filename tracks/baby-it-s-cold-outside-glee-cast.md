@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music, The Christmas Album'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:7irY7Ldcf6BFpycGl62vum
 features: []
-genres: []
+first_released_as_single: false
 key: baby-it-s-cold-outside-glee-cast
 lyrics_url: https://www.azlyrics.com/lyrics/gleecast/babyitscoldoutside.html
 name: Baby It's Cold Outside
@@ -15,8 +18,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2011-01-01'
+release_year: 2010
+runtime: 166546
 ---
-
 I really can't stay
 But, baby, it's cold outside
 I've got to go away
@@ -83,6 +87,3 @@ I really can't stay
 Get over that hold out
 
 Oh, (baby) but it's cold outside
-
-
-

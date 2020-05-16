@@ -1,9 +1,12 @@
 ---
+album: 'Man On The Moon II: The Legend Of Mr. Rager'
 artists:
 - Kid Cudi
+external_ids:
+  spotify: spotify:track:6XkuklKiHYVTlVvWlTgQYP
 features:
 - Kanye West
-genres: []
+first_released_as_single: false
 key: erase-me-kid-cudi-kanye-west
 lyrics_url: https://www.azlyrics.com/lyrics/kidcudi/eraseme.html
 name: Erase Me
@@ -28,9 +31,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2010-10-09'
+release_year: 2010
+runtime: 192253
 ---
-
-
 She said I don't spend time
 Like I really should
 She said she don't know me
@@ -132,6 +135,3 @@ No
 I keep on ducking, keep on ducking you
 Nothing helps
 I can't stop missing you
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: When The Sun Goes Down
 artists:
 - Kenny Chesney
+external_ids:
+  spotify: spotify:track:57I7CUbXo4XlWuTVB8pXW6
 features: []
-genres: []
+first_released_as_single: false
 key: i-go-back-kenny-chesney
 lyrics_url: https://genius.com/Kenny-chesney-i-go-back-lyrics
 name: I Go Back
@@ -87,6 +90,8 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '2004-10-23'
+release_year: 2004
+runtime: 243666
 ---
 "Jack and Diane" painted a picture of my life and my dreams
 Suddenly this crazy world made more sense to me

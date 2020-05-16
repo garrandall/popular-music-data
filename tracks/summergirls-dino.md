@@ -1,8 +1,11 @@
 ---
+album: 24/7
 artists:
 - Dino
+external_ids:
+  spotify: spotify:track:5byYO8JjkxV27yQYo2pDRx
 features: []
-genres: []
+first_released_as_single: false
 key: summergirls-dino
 lyrics_url: https://genius.com/Dino-dean-esposito-summergirls-lyrics
 name: Summergirls
@@ -55,6 +58,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1988-10-01'
+release_year: 1988
+runtime: 376573
 ---
 Summertime's in the air
 And summergirls are everywhere

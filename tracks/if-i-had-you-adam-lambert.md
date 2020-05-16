@@ -1,8 +1,11 @@
 ---
+album: For Your Entertainment
 artists:
 - Adam Lambert
+external_ids:
+  spotify: spotify:track:0H1OyEooZ5SzBYYdJEzxoy
 features: []
-genres: []
+first_released_as_single: false
 key: if-i-had-you-adam-lambert
 lyrics_url: https://www.musixmatch.com/lyrics/Adam-Lambert/If-I-Had-You
 name: If I Had You
@@ -87,6 +90,8 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '2010-11-20'
+release_year: 2009
+runtime: 228240
 ---
 So I got my boots on, got the right 'mount of leather
 And I'm doing me up with a black color liner

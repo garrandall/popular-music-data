@@ -1,9 +1,12 @@
 ---
+album: Unrestricted
 artists:
 - Da Brat
+external_ids:
+  spotify: spotify:track:5d8woPn6sHRA6yPnnHnqSt
 features:
 - Tyrese
-genres: []
+first_released_as_single: false
 key: what-chu-like-da-brat-tyrese
 lyrics_url: https://genius.com/Da-brat-whatchu-like-lyrics
 name: What'Chu Like
@@ -88,6 +91,8 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '2000-10-14'
+release_year: 2000
+runtime: 221160
 ---
 Oh, look out
 Oh uh, come on

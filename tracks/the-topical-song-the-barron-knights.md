@@ -1,8 +1,11 @@
 ---
+album: 40th Anniversary
 artists:
 - The Barron Knights
+external_ids:
+  spotify: spotify:track:7yjgEBB4ZTqtL0fvYgPXQI
 features: []
-genres: []
+first_released_as_single: false
 key: the-topical-song-the-barron-knights
 lyrics_url: https://www.musixmatch.com/lyrics/The-Barron-Knights/The-Topical-Song
 name: The Topical Song
@@ -19,6 +22,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1979-09-08'
+release_year: 1979
+runtime: 201226
 ---
 When I was young
 All the gas was so plentiful

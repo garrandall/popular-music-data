@@ -1,8 +1,11 @@
 ---
+album: Nick Jonas X2
 artists:
 - Nick Jonas
+external_ids:
+  spotify: spotify:track:2M5X041wMz2fXvePZHDtgm
 features: []
-genres: []
+first_released_as_single: true
 key: jealous-nick-jonas
 lyrics_url: https://www.azlyrics.com/lyrics/nickjonas/jealous.html
 name: Jealous
@@ -135,8 +138,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2015-05-02'
+release_year: 2014
+runtime: 256666
 ---
-
 I don't like the way he's looking at you
 I'm starting to think you want him too
 Am I crazy? Have I lost ya?
@@ -213,6 +217,3 @@ Oh (that's why)
 I still get jealous
 Oh (that's why)
 I still get jealous
-
-
-

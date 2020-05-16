@@ -1,8 +1,11 @@
 ---
+album: Don't Say No Tonight - Single
 artists:
 - Eugene Wilde
+external_ids:
+  spotify: spotify:track:4qMOV79GpJ9vkGm3rfTOWX
 features: []
-genres: []
+first_released_as_single: true
 key: don-t-say-no-tonight-eugene-wilde
 lyrics_url: https://genius.com/Eugene-wilde-dont-say-no-tonight-lyrics
 name: Don't Say No Tonight
@@ -47,6 +50,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1986-02-08'
+release_year: 1985
+runtime: 313825
 ---
 Verse I
 

@@ -1,8 +1,11 @@
 ---
+album: Spider
 artists:
 - Spider
+external_ids:
+  spotify: spotify:track:0iZxqe9HjWfZF3CTfyubaI
 features: []
-genres: []
+first_released_as_single: false
 key: everything-is-alright-spider
 name: Everything Is Alright
 rankings:
@@ -18,5 +21,7 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1980-08-16'
+release_year: 1980
+runtime: 209000
 ---
 

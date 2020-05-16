@@ -1,8 +1,11 @@
 ---
+album: The Sweet Inspirations
 artists:
 - The Sweet Inspirations
+external_ids:
+  spotify: spotify:track:2RwX6KYnLvfvgZ2gn8rhnc
 features: []
-genres: []
+first_released_as_single: false
 key: sweet-inspiration-the-sweet-inspirations
 lyrics_url: https://genius.com/The-sweet-inspirations-sweet-inspiration-lyrics
 name: Sweet Inspiration
@@ -63,6 +66,8 @@ rankings:
   rank: 33
   ranking_list: Billboard Hot 100
   start_date: '1968-06-01'
+release_year: 1967
+runtime: 175533
 ---
 I need your sweet inspiration
 I need you here on my mind every hour of the day

@@ -1,8 +1,11 @@
 ---
+album: Gold
 artists:
 - Connie Francis
+external_ids:
+  spotify: spotify:track:0zV82dxI3l2tvEiO32lrCW
 features: []
-genres: []
+first_released_as_single: false
 key: your-other-love-connie-francis
 lyrics_url: https://genius.com/Connie-francis-your-other-love-lyrics
 name: Your Other Love
@@ -35,6 +38,8 @@ rankings:
   rank: 37
   ranking_list: Billboard Hot 100
   start_date: '1963-11-30'
+release_year: 1963
+runtime: 129360
 ---
 Your other love
 Says she will be

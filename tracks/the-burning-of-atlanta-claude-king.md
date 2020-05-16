@@ -1,8 +1,11 @@
 ---
+album: Columbia Sessions (1961-1972)
 artists:
 - Claude King
+external_ids:
+  spotify: spotify:track:70VBpCcpjJTmtQfVV5Pm4B
 features: []
-genres: []
+first_released_as_single: false
 key: the-burning-of-atlanta-claude-king
 lyrics_url: https://genius.com/Claude-king-the-burning-of-atlanta-lyrics
 name: The Burning Of Atlanta
@@ -31,6 +34,8 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '1962-11-10'
+release_year: 1962
+runtime: 155800
 ---
 Back in 1864
 On a cold November's morn

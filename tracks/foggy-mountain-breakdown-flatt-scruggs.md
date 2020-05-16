@@ -1,9 +1,12 @@
 ---
+album: Lester Flatt & Earl Scruggs With The Foggy Mountain Boys
 artists:
 - Flatt
 - Scruggs
+external_ids:
+  spotify: spotify:track:5VyodTU4gTg8yXpceL3mz8
 features: []
-genres: []
+first_released_as_single: false
 key: foggy-mountain-breakdown-flatt-scruggs
 name: Foggy Mountain Breakdown
 rankings:
@@ -55,5 +58,7 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '1968-05-18'
+release_year: 1951
+runtime: 140109
 ---
 

@@ -1,9 +1,12 @@
 ---
+album: Stronger withEach Tear
 artists:
 - Mary J. Blige
+external_ids:
+  spotify: spotify:track:0z1wYL8FalelcThBPnwTps
 features:
 - Drake
-genres: []
+first_released_as_single: false
 key: the-one-mary-j--blige-drake
 lyrics_url: https://www.musixmatch.com/lyrics/Mary-J-Blige-feat-Drake/The-One-Main
 name: The One
@@ -48,6 +51,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2009-10-10'
+release_year: 2009
+runtime: 193893
 ---
 Uh huh... (one)
 Uh... it's another... (one)

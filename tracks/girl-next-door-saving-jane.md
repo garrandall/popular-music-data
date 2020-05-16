@@ -1,8 +1,11 @@
 ---
+album: Girl Next Door
 artists:
 - Saving Jane
+external_ids:
+  spotify: spotify:track:4TxdDwdVNpLTcXkCflfuHB
 features: []
-genres: []
+first_released_as_single: false
 key: girl-next-door-saving-jane
 lyrics_url: https://www.azlyrics.com/lyrics/savingjane/girlnextdoor.html
 name: Girl Next Door
@@ -87,8 +90,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2006-07-08'
+release_year: 2005
+runtime: 203253
 ---
-
 Small town homecoming queen
 She's the star in this scene
 There's no way to deny she's lovely
@@ -127,6 +131,3 @@ She is a cheerleader I'm sitting in the stands
 I get a little bit, she gets a little more
 She's Miss America and... she's Miss America
 I'm just the girl next door...
-
-
-

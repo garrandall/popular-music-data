@@ -1,8 +1,11 @@
 ---
+album: Down By the Station
 artists:
 - The Four Preps
+external_ids:
+  spotify: spotify:track:5b5MNPSbf8vHI2jThXLMyM
 features: []
-genres: []
+first_released_as_single: false
 key: i-ain-t-never-the-four-preps
 lyrics_url: https://genius.com/The-four-preps-i-aint-never-lyrics
 name: I Ain't Never
@@ -15,6 +18,8 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1959-09-28'
+release_year: 1959
+runtime: 117800
 ---
 Well, I ain't never
 I ain't never

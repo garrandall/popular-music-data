@@ -1,8 +1,11 @@
 ---
+album: Cheers
 artists:
 - Obie Trice
+external_ids:
+  spotify: spotify:track:7tszeVkfxO5ISkjZWpIG88
 features: []
-genres: []
+first_released_as_single: false
 key: got-some-teeth-obie-trice
 lyrics_url: https://www.azlyrics.com/lyrics/obietrice/gotsometeeth.html
 name: Got Some Teeth
@@ -51,11 +54,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2003-11-15'
+release_year: 2003
+runtime: 227026
 ---
-
-
-
-
 WOO!
 Damn ..
 There's a lot of bitches up in here tonight boy
@@ -143,6 +144,3 @@ I'm feelin good
 Shady Record man
 Obie Trice
 C'mon
-
-
-

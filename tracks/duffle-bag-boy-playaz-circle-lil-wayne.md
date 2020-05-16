@@ -1,9 +1,12 @@
 ---
+album: Supply & Demand
 artists:
 - Playaz Circle
+external_ids:
+  spotify: spotify:track:5l53XkYN5rTYmdJ0P2GKFT
 features:
 - Lil Wayne
-genres: []
+first_released_as_single: false
 key: duffle-bag-boy-playaz-circle-lil-wayne
 lyrics_url: https://genius.com/Playaz-circle-duffle-bag-boy-lyrics
 name: Duffle Bag Boy
@@ -88,6 +91,8 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '2008-02-16'
+release_year: 2007
+runtime: 258272
 ---
 (Yeah!) Weed and syrup 'til I die
 (Okay, new Playaz Circle)

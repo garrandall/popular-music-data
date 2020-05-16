@@ -1,8 +1,11 @@
 ---
+album: 'Rock N'' Roll Masters: BJ Thomas (Re-recorded)'
 artists:
 - B.J. Thomas
+external_ids:
+  spotify: spotify:track:0GDzdq4uxLyV1sL9ZEg5Q5
 features: []
-genres: []
+first_released_as_single: false
 key: hooked-on-a-feeling-b-j--thomas
 lyrics_url: https://genius.com/Bj-thomas-hooked-on-a-feeling-lyrics
 name: Hooked On A Feeling
@@ -71,6 +74,8 @@ rankings:
   rank: 36
   ranking_list: Billboard Hot 100
   start_date: '1969-03-01'
+release_year: 1968
+runtime: 191066
 ---
 I can't stop this feelin'
 Deep inside of me

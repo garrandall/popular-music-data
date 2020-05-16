@@ -1,8 +1,11 @@
 ---
+album: Love Grows (Where My Rosemary Goes) & Other Gems
 artists:
 - Edison Lighthouse
+external_ids:
+  spotify: spotify:track:5Ts1DYOuouQLgzTaisxWYh
 features: []
-genres: []
+first_released_as_single: false
 key: love-grows--where-my-rosemary-goes--edison-lighthouse
 lyrics_url: https://www.azlyrics.com/lyrics/edisonlighthouse/lovegrowswheremyrosemarygoes.html
 name: Love Grows (Where My Rosemary Goes)
@@ -59,8 +62,9 @@ rankings:
   rank: 24
   ranking_list: Billboard Hot 100
   start_date: '1970-05-16'
+release_year: 1970
+runtime: 174760
 ---
-
 She ain't got no money
 Her clothes are kinda funny
 Her hair is kinda wild and free
@@ -105,6 +109,3 @@ If you've met her, you'll never forget her
 And nobody knows like me
 La la la, believe it when you've seen it
 Nobody knows like me
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: It's Dark And Hell Is Hot
 artists:
 - DMX
+external_ids:
+  spotify: spotify:track:1BKT2I9x4RGKaKqW4up34s
 features: []
-genres: []
+first_released_as_single: false
 key: ruff-ryders--anthem-dmx
 lyrics_url: https://genius.com/Dmx-ruff-ryders-anthem-lyrics
 name: Ruff Ryders' Anthem
@@ -23,6 +26,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1999-05-08'
+release_year: 1998
+runtime: 214440
 ---
 Something new
 

@@ -1,8 +1,11 @@
 ---
+album: Suzi Quatro
 artists:
 - Suzi Quatro
+external_ids:
+  spotify: spotify:track:6K0kK40E7PA2i9LsGmVCfK
 features: []
-genres: []
+first_released_as_single: false
 key: can-the-can-suzi-quatro
 lyrics_url: https://genius.com/Suzi-quatro-can-the-can-lyrics
 name: Can The Can
@@ -23,6 +26,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1976-02-28'
+release_year: 1973
+runtime: 214400
 ---
 Well you call your mama tiger
 And we all know you are lying

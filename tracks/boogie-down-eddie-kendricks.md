@@ -1,8 +1,11 @@
 ---
+album: Boogie Down
 artists:
 - Eddie Kendricks
+external_ids:
+  spotify: spotify:track:7E2nKCE6srXUf09hQxwTqr
 features: []
-genres: []
+first_released_as_single: false
 key: boogie-down-eddie-kendricks
 lyrics_url: https://www.azlyrics.com/lyrics/eddiekendricks/boogiedown.html
 name: Boogie Down
@@ -79,8 +82,9 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '1974-05-04'
+release_year: 1974
+runtime: 419226
 ---
-
 Boogie, boogie down, baby
 Oh uh, boogie
 Baby, let's boogie down
@@ -143,6 +147,3 @@ Oh, have mercy
 Boogie oh huh, huh, huh, huh
 Boogie down, baby
 Boogie down
-
-
-

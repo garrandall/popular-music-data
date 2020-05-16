@@ -1,8 +1,11 @@
 ---
+album: Once Bitten
 artists:
 - Great White
+external_ids:
+  spotify: spotify:track:1X1TonvQws8wxagWJmnUNj
 features: []
-genres: []
+first_released_as_single: false
 key: save-your-love-great-white
 lyrics_url: https://genius.com/Great-white-save-your-love-lyrics
 name: Save Your Love
@@ -55,6 +58,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1988-04-09'
+release_year: 1987
+runtime: 346026
 ---
 I wake in the night
 To find you on my mind

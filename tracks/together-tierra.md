@@ -1,8 +1,11 @@
 ---
+album: City Nights
 artists:
 - Tierra
+external_ids:
+  spotify: spotify:track:6JxFHoyWzIOEjtbxrfAFWN
 features: []
-genres: []
+first_released_as_single: false
 key: together-tierra
 lyrics_url: https://genius.com/Tierra-together-lyrics
 name: Together
@@ -91,6 +94,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1981-03-28'
+release_year: 1980
+runtime: 264277
 ---
 Oh, we could be on a desert
 Lost without a place to go

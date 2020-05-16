@@ -1,8 +1,11 @@
 ---
+album: Invasion of Privacy
 artists:
 - Cardi B
+external_ids:
+  spotify: spotify:track:2wmvBJaQzO9oFsVlk8LxTF
 features: []
-genres: []
+first_released_as_single: false
 key: be-careful-cardi-b
 lyrics_url: https://www.azlyrics.com/lyrics/cardi-b/becareful.html
 name: Be Careful
@@ -87,8 +90,9 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '2018-08-25'
+release_year: 2018
+runtime: 210787
 ---
-
 Yeah
 Care for me, care for me, care for me, uh
 Yeah, look
@@ -164,6 +168,3 @@ Yeah, it's not a threat, it's a warnin'
 Be careful with me
 Yeah, my heart is like a package with a fragile label on it
 Be careful with me
-
-
-

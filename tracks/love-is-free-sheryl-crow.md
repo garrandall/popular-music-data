@@ -1,8 +1,11 @@
 ---
+album: Detours
 artists:
 - Sheryl Crow
+external_ids:
+  spotify: spotify:track:5vj8PYuTycbVstCKzg5HbL
 features: []
-genres: []
+first_released_as_single: false
 key: love-is-free-sheryl-crow
 lyrics_url: https://www.azlyrics.com/lyrics/sherylcrow/loveisfree.html
 name: Love Is Free
@@ -31,8 +34,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2008-04-05'
+release_year: 2008
+runtime: 202666
 ---
-
 One
 Two
 One, two, three!
@@ -106,6 +110,3 @@ cause love is free
 Love is free
 
 Love is free
-
-
-

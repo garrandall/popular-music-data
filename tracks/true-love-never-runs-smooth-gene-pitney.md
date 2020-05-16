@@ -1,8 +1,11 @@
 ---
+album: Love Grows
 artists:
 - Gene Pitney
+external_ids:
+  spotify: spotify:track:2iMLP2dZdMmC2L72d7iEX4
 features: []
-genres: []
+first_released_as_single: false
 key: true-love-never-runs-smooth-gene-pitney
 lyrics_url: https://www.azlyrics.com/lyrics/genepitney/trueloveneverrunssmooth.html
 name: True Love Never Runs Smooth
@@ -51,8 +54,9 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1963-09-14'
+release_year: 1963
+runtime: 144493
 ---
-
 Stand beside me all the while no matter what goes wrong
 Separately we're weak, together we'll be strong
 
@@ -73,6 +77,3 @@ For true love never runs smooth,
 That's what they say, but
 True love is worth all the pain,
 The heartaches and tears we have to face
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Voices Of Theory
 artists:
 - Voices Of Theory
+external_ids:
+  spotify: spotify:track:4G3HuXbtn7AwtW4aCIaMxx
 features: []
-genres: []
+first_released_as_single: false
 key: wherever-you-go-voices-of-theory
 lyrics_url: https://www.azlyrics.com/lyrics/voicesoftheory/whereveryougo.html
 name: Wherever You Go
@@ -71,8 +74,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1999-01-30'
+release_year: 1998
+runtime: 339760
 ---
-
 Since you left me
 My life ain't been the same
 I'm useless without your love
@@ -127,6 +131,3 @@ You know your love is something I can't do without
 So whatever it takes
 Or how much my heart aches
 You know I'll always be around
-
-
-

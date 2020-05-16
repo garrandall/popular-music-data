@@ -1,8 +1,11 @@
 ---
+album: Good News From The Next World
 artists:
 - Simple Minds
+external_ids:
+  spotify: spotify:track:4WhrINlPGuSiZjJdHoMTHE
 features: []
-genres: []
+first_released_as_single: false
 key: she-s-a-river-simple-minds
 lyrics_url: https://genius.com/Simple-minds-shes-a-river-lyrics
 name: She's A River
@@ -43,6 +46,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1995-04-15'
+release_year: 1995
+runtime: 332560
 ---
 Shadow let go
 There's something you should know

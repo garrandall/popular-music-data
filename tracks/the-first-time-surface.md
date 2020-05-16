@@ -1,8 +1,11 @@
 ---
+album: 'The First Time: The Best Of Surface'
 artists:
 - Surface
+external_ids:
+  spotify: spotify:track:4iqnWPNCt4hhZ96KhjlJKq
 features: []
-genres: []
+first_released_as_single: false
 key: the-first-time-surface
 lyrics_url: https://genius.com/Surface-the-first-time-lyrics
 name: The First Time
@@ -107,6 +110,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1991-04-20'
+release_year: 1986
+runtime: 256000
 ---
 You know I won't forget the times
 We shared together holding hands

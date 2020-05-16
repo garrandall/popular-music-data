@@ -1,9 +1,12 @@
 ---
+album: Keith Sweat
 artists:
 - Keith Sweat
+external_ids:
+  spotify: spotify:track:6q6I0flO9qBW5A3cGA01VQ
 features:
 - Ronald Isley
-genres: []
+first_released_as_single: false
 key: come-with-me-keith-sweat-ronald-isley
 lyrics_url: https://www.azlyrics.com/lyrics/keithsweat/comewithme.html
 name: Come With Me
@@ -52,8 +55,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1997-08-23'
+release_year: 1996
+runtime: 236666
 ---
-
 Yeah, what I want you to do tonight
 Is turn your the stereo up real loud
 
@@ -88,4 +92,3 @@ Come and go with me
 Girl then you will see
 I wanna love you now
 Make your body spin around and around and around and around
-

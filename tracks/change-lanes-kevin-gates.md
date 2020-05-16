@@ -1,8 +1,11 @@
 ---
+album: Chained To The City
 artists:
 - Kevin Gates
+external_ids:
+  spotify: spotify:track:4AVnVo4nfUiw4FZSckBa57
 features: []
-genres: []
+first_released_as_single: true
 key: change-lanes-kevin-gates
 lyrics_url: https://www.azlyrics.com/lyrics/kevingates/changelanes.html
 name: Change Lanes
@@ -11,8 +14,9 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '2018-06-02'
+release_year: 2018
+runtime: 205861
 ---
-
 Been through a lot of pain in my life, and I pray the Lord take it all away
 I got family doing life, never see the sunshine again and pray it all away
 We all the way!
@@ -89,6 +93,3 @@ Introverted, not tryna kick it, private life, please mind your business
 Introverted, these days, introverted, these days
 Plain Jane, I done changed lanes, Plain Jane, I done changed lanes
 Plain Jane, I done changed lanes, Plain Jane, I done changed lanes
-
-
-

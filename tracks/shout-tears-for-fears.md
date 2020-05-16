@@ -1,8 +1,11 @@
 ---
+album: Songs From The Big Chair
 artists:
 - Tears For Fears
+external_ids:
+  spotify: spotify:track:2gQaQUhDCNGfBVXTvxAmXQ
 features: []
-genres: []
+first_released_as_single: false
 key: shout-tears-for-fears
 lyrics_url: https://genius.com/Tears-for-fears-shout-lyrics
 name: Shout
@@ -83,6 +86,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1985-10-19'
+release_year: 1985
+runtime: 393666
 ---
 Shout, shout, let it all out
 These are the things I can do without

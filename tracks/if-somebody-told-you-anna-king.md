@@ -1,8 +1,11 @@
 ---
+album: James Brown's Original Funky Divas
 artists:
 - Anna King
+external_ids:
+  spotify: spotify:track:0K4019RRyJNxDgsbm0lUXe
 features: []
-genres: []
+first_released_as_single: false
 key: if-somebody-told-you-anna-king
 lyrics_url: https://genius.com/Anna-king-if-somebody-told-you-lyrics
 name: If Somebody Told You
@@ -31,6 +34,8 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '1964-02-08'
+release_year: 1964
+runtime: 177266
 ---
 If somebody told that they didn't love you
 And later they told you they think the whole world of you

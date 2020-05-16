@@ -1,9 +1,12 @@
 ---
+album: July
 artists:
 - Noah Cyrus
+external_ids:
+  spotify: spotify:track:3V0nnQhqvbE3JmiDdnzQFQ
 features:
 - Leon Bridges
-genres: []
+first_released_as_single: true
 key: july-noah-cyrus-leon-bridges
 lyrics_url: https://genius.com/Noah-cyrus-and-leon-bridges-july-lyrics
 name: July
@@ -24,6 +27,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2020-02-08'
+release_year: 2019
+runtime: 152280
 ---
 I've been holding my breath
 I've been counting to 10

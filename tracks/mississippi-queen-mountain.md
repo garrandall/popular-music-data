@@ -1,8 +1,11 @@
 ---
+album: Climbing!
 artists:
 - Mountain
+external_ids:
+  spotify: spotify:track:3Jhjmd9CIXYxzmY1Yg3bPn
 features: []
-genres: []
+first_released_as_single: false
 key: mississippi-queen-mountain
 lyrics_url: https://genius.com/Mountain-mississippi-queen-lyrics
 name: Mississippi Queen
@@ -75,6 +78,8 @@ rankings:
   rank: 34
   ranking_list: Billboard Hot 100
   start_date: '1970-08-08'
+release_year: 1969
+runtime: 150933
 ---
 Mississippi queen
 If you know what I mean

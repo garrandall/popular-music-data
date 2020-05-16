@@ -1,8 +1,11 @@
 ---
+album: The Hits
 artists:
 - Conway Twitty
+external_ids:
+  spotify: spotify:track:06PIPNmDa5yOJqqPtfM4Ro
 features: []
-genres: []
+first_released_as_single: false
 key: c-est-si-bon--it-s-so-good--conway-twitty
 lyrics_url: https://www.azlyrics.com/lyrics/conwaytwitty/cestsibon.html
 name: C'est Si Bon (It's So Good)
@@ -47,8 +50,9 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '1961-03-06'
+release_year: 1961
+runtime: 136226
 ---
-
 C'est si bon (C'est si bon!)
 Lovers say that in France (C'est si bon!)
 When they thrill to romance (C'est si bon!)
@@ -86,6 +90,3 @@ C'est si bon!
 (C'est si bon!) I'm speaking like this 
 (C'est si bon!) Yeah, one more time
 (C'est si bon!)...
-
-
-

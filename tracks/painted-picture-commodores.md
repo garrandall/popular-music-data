@@ -1,8 +1,11 @@
 ---
+album: All The Great Hits
 artists:
 - Commodores
+external_ids:
+  spotify: spotify:track:5zNRUWpBY1mhv5cHssvvd2
 features: []
-genres: []
+first_released_as_single: false
 key: painted-picture-commodores
 lyrics_url: https://genius.com/Commodores-painted-picture-lyrics
 name: Painted Picture
@@ -31,6 +34,8 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1983-01-08'
+release_year: 1982
+runtime: 296266
 ---
 You're my painted picture
 You fill my life with color

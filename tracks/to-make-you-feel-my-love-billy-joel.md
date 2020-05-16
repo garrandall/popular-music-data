@@ -1,8 +1,11 @@
 ---
+album: Songs From the Heart
 artists:
 - Billy Joel
+external_ids:
+  spotify: spotify:track:6KaNr5y4GAlHGp2dQiZNPs
 features: []
-genres: []
+first_released_as_single: false
 key: to-make-you-feel-my-love-billy-joel
 lyrics_url: https://www.azlyrics.com/lyrics/billyjoel/tomakeyoufeelmylove.html
 name: To Make You Feel My Love
@@ -43,8 +46,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1997-10-11'
+release_year: 1990
+runtime: 231266
 ---
-
 When the rain is blowing in your face
 And the whole world is on your case
 I could offer you a warm embrace
@@ -77,6 +81,3 @@ To make you feel my love
 
 There's nothing that I would not do
 To make you feel my love
-
-
-

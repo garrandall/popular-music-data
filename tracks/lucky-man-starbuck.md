@@ -1,8 +1,11 @@
 ---
+album: 20 Of Their Best
 artists:
 - Starbuck
+external_ids:
+  spotify: spotify:track:7jyDBdeSDsnVxKnudwDlBE
 features: []
-genres: []
+first_released_as_single: false
 key: lucky-man-starbuck
 lyrics_url: https://www.musixmatch.com/lyrics/Starbuck/Lucky-Man
 name: Lucky Man
@@ -27,6 +30,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1977-01-15'
+release_year: 1976
+runtime: 190013
 ---
 Rock and roll just keeps me crazy
 Southern living makes me lazy

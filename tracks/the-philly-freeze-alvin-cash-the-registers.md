@@ -1,9 +1,12 @@
 ---
+album: Windy City Workout
 artists:
 - Alvin Cash
 - The Registers
+external_ids:
+  spotify: spotify:track:0S5PZDZKc18cAbFf7LQaPa
 features: []
-genres: []
+first_released_as_single: false
 key: the-philly-freeze-alvin-cash-the-registers
 lyrics_url: https://www.musixmatch.com/lyrics/Alvin-Cash-The-Registers/The-Philly-Freeze
 name: The Philly Freeze
@@ -44,6 +47,8 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1966-09-24'
+release_year: 1966
+runtime: 155400
 ---
 Here I am, baby
 I'm back again

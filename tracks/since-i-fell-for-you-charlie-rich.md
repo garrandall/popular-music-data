@@ -1,8 +1,11 @@
 ---
+album: American Originals
 artists:
 - Charlie Rich
+external_ids:
+  spotify: spotify:track:3XgTCcJQOd5vHdJTFkcuXc
 features: []
-genres: []
+first_released_as_single: false
 key: since-i-fell-for-you-charlie-rich
 lyrics_url: https://www.azlyrics.com/lyrics/charlierich/sinceifellforyou.html
 name: Since I Fell For You
@@ -31,8 +34,9 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '1976-02-28'
+release_year: 1973
+runtime: 183386
 ---
-
 When you just give love
 And never get love
 You'd better let love depart
@@ -62,6 +66,3 @@ I get the blues most every night
 Since I fell for you
 
 Since I fell for you
-
-
-

@@ -1,9 +1,12 @@
 ---
+album: CrasH Talk
 artists:
 - ScHoolboy Q
+external_ids:
+  spotify: spotify:track:4NN6N5TxBO5k9uqu0W4gfQ
 features:
 - 21 Savage
-genres: []
+first_released_as_single: false
 key: floating-schoolboy-q-21-savage
 lyrics_url: https://www.azlyrics.com/lyrics/schoolboyq/floating.html
 name: Floating
@@ -12,9 +15,9 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '2019-05-11'
+release_year: 2019
+runtime: 186826
 ---
-
-
 Fall in this bitch, transfusion with the drip drop
 Sauce everywhere and got broccoli in my ziploc
 Tatted on my face, no role model that's for Kidz Bops
@@ -82,6 +85,3 @@ Floating, I'm floating, floating (Woo), floating, floating (Woo), floating, floa
 Floating, I'm floating, floating, floating, floating (Ayy), floating, floating
 Swag on max, got no legs bitch, I'm floating
 Might turn into a ghost, bum bitch, yes I'm floating (Woo)
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Stars And Stripes Forever
 artists:
 - Nitty Gritty Dirt Band
+external_ids:
+  spotify: spotify:track:4hv0ZOeP5Aj5QJFHROSmhG
 features: []
-genres: []
+first_released_as_single: false
 key: house-at-pooh-corner-nitty-gritty-dirt-band
 lyrics_url: https://genius.com/The-nitty-gritty-dirt-band-house-at-pooh-corner-lyrics
 name: House At Pooh Corner
@@ -59,6 +62,8 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '1971-07-17'
+release_year: 1971
+runtime: 174773
 ---
 Christopher Robin and I walked along
 Under branches lit up by the moon

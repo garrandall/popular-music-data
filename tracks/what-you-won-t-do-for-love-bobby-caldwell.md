@@ -1,8 +1,11 @@
 ---
+album: What You Won't Do for Love
 artists:
 - Bobby Caldwell
+external_ids:
+  spotify: spotify:track:7dL8FCLzEaWC2A3qWQuz1q
 features: []
-genres: []
+first_released_as_single: false
 key: what-you-won-t-do-for-love-bobby-caldwell
 lyrics_url: https://genius.com/Bobby-caldwell-what-you-wont-do-for-love-lyrics
 name: What You Won't Do For Love
@@ -87,6 +90,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1979-05-05'
+release_year: 1978
+runtime: 286493
 ---
 I guess you wonder where I've been
 I searched to find a love within

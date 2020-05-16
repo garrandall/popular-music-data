@@ -1,8 +1,11 @@
 ---
+album: Let The Road
 artists:
 - Rixton
+external_ids:
+  spotify: spotify:track:1oew3nFNY3vMacJAsvry0S
 features: []
-genres: []
+first_released_as_single: false
 key: me-and-my-broken-heart-rixton
 lyrics_url: https://www.azlyrics.com/lyrics/rixton/meandmybrokenheart.html
 name: Me And My Broken Heart
@@ -87,8 +90,9 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '2014-08-23'
+release_year: 2014
+runtime: 193733
 ---
-
 All I need's a little love in my life
 All I need's a little love in the dark
 A little but I'm hoping it might kick-start
@@ -172,6 +176,3 @@ I need a little loving tonight
 Hold me so I'm not falling apart
 A little but I'm hoping it might kick-start
 Me and my broken heart
-
-
-

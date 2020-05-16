@@ -1,8 +1,11 @@
 ---
+album: Martina
 artists:
 - Martina McBride
+external_ids:
+  spotify: spotify:track:1gnGpGoosJEKQRs5MNoQQw
 features: []
-genres: []
+first_released_as_single: false
 key: god-s-will-martina-mcbride
 lyrics_url: https://www.azlyrics.com/lyrics/martinamcbride/godswill.html
 name: God's Will
@@ -39,8 +42,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '2005-04-30'
+release_year: 2003
+runtime: 349333
 ---
-
 I met God's Will on a Halloween night
 He was dressed as a bag of leaves
 It hid the braces on his legs at first
@@ -92,6 +96,3 @@ I guess I would be still
 Yeah that was until...
 I met God's Will on a Halloween night
 He was dressed as a bag of leaves
-
-
-

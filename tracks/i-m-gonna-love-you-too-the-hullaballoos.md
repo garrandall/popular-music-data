@@ -1,8 +1,11 @@
 ---
+album: England's Newest Singing Sensation
 artists:
 - The Hullaballoos
+external_ids:
+  spotify: spotify:track:3ogLyZFlYqXC0ozBjBm6Nw
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-gonna-love-you-too-the-hullaballoos
 lyrics_url: https://www.musixmatch.com/lyrics/The-Hullaballoos/I-m-Gonna-Love-You-Too
 name: I'm Gonna Love You Too
@@ -43,6 +46,8 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '1965-01-23'
+release_year: 1964
+runtime: 123573
 ---
 Ah ah...
 You're gonna say you'll kiss me

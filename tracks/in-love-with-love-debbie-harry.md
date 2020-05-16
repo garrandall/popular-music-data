@@ -1,8 +1,11 @@
 ---
+album: Rockbird
 artists:
 - Debbie Harry
+external_ids:
+  spotify: spotify:track:3tLccQQjCQd6esMLItRyYB
 features: []
-genres: []
+first_released_as_single: false
 key: in-love-with-love-debbie-harry
 lyrics_url: https://genius.com/Debbie-harry-in-love-with-love-lyrics
 name: In Love With Love
@@ -35,6 +38,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1987-08-15'
+release_year: 1986
+runtime: 274360
 ---
 In love with love
 In love with a passionate heart

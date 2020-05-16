@@ -1,8 +1,11 @@
 ---
+album: The Best Of Clout
 artists:
 - Clout
+external_ids:
+  spotify: spotify:track:234wHBEt6UuaQwg5ugEUs0
 features: []
-genres: []
+first_released_as_single: false
 key: substitute-clout
 lyrics_url: https://genius.com/Clout-substitute-lyrics
 name: Substitute
@@ -47,6 +50,8 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '1978-11-18'
+release_year: 1978
+runtime: 206466
 ---
 Sam
 You've been waiting much too long now

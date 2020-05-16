@@ -1,8 +1,11 @@
 ---
+album: The Better Life
 artists:
 - 3 Doors Down
+external_ids:
+  spotify: spotify:track:4PwCeQGCYrJiUHjKad82gh
 features: []
-genres: []
+first_released_as_single: false
 key: away-from-the-sun-3-doors-down
 lyrics_url: https://www.musixmatch.com/lyrics/3-Doors-Down/Away-From-the-Sun
 name: Away From The Sun
@@ -67,6 +70,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2004-10-09'
+release_year: 2000
+runtime: 255960
 ---
 It's down to this
 I've got to make this life make sense

@@ -1,8 +1,11 @@
 ---
+album: J.Lo
 artists:
 - Jennifer Lopez
+external_ids:
+  spotify: spotify:track:1fgvJXlcZ7uIddMpqsqw0L
 features: []
-genres: []
+first_released_as_single: false
 key: love-don-t-cost-a-thing-jennifer-lopez
 lyrics_url: https://www.musixmatch.com/lyrics/Jennifer-Lopez/My-Love-Don-t-Cost-a-Thing
 name: Love Don't Cost A Thing
@@ -91,6 +94,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2001-04-28'
+release_year: 2000
+runtime: 221226
 ---
 You think you gotta keep me iced (You don't)
 You think I'm gonna spend your cash (I won't)

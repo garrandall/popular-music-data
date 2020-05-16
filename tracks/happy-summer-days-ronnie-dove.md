@@ -1,8 +1,11 @@
 ---
+album: The Best Of Ronnie Dove Volume 1
 artists:
 - Ronnie Dove
+external_ids:
+  spotify: spotify:track:5z6Gu1OoiDf5LHjkynEg7i
 features: []
-genres: []
+first_released_as_single: false
 key: happy-summer-days-ronnie-dove
 lyrics_url: https://genius.com/Ronnie-dove-happy-summer-days-lyrics
 name: Happy Summer Days
@@ -39,6 +42,8 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '1966-08-06'
+release_year: 1966
+runtime: 143053
 ---
 These are happy happy happy summer days - summer days
 

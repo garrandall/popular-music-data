@@ -1,9 +1,12 @@
 ---
+album: 'Global Underground: Tom Novy'
 artists:
 - Technotronic
+external_ids:
+  spotify: spotify:track:5v9PDIiZxkHfFft8tURsjW
 features:
 - Felly
-genres: []
+first_released_as_single: false
 key: pump-up-the-jam-technotronic-felly
 lyrics_url: https://www.musixmatch.com/lyrics/Technotronic/Pump-Up-the-Jam
 name: Pump Up The Jam
@@ -104,6 +107,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1990-03-24'
+release_year: 1989
+runtime: 415253
 ---
 Pump up the jam
 Pump it up

@@ -1,8 +1,11 @@
 ---
+album: Happy Together
 artists:
 - The Nylons
+external_ids:
+  spotify: spotify:track:6YPQ3cY0RppTK1IHLzVURX
 features: []
-genres: []
+first_released_as_single: false
 key: happy-together-the-nylons
 lyrics_url: https://genius.com/The-nylons-happy-together-lyrics
 name: Happy Together
@@ -35,6 +38,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1987-10-10'
+release_year: 1982
+runtime: 169760
 ---
 Imagine me and you, I do
 I think about you day and night, it's only right

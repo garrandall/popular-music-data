@@ -1,8 +1,11 @@
 ---
+album: Music To Be Murdered By
 artists:
 - Eminem
+external_ids:
+  spotify: spotify:track:3QVHSV8YKYq4L8tI5rnFgj
 features: []
-genres: []
+first_released_as_single: false
 key: stepdad-eminem
 lyrics_url: https://www.azlyrics.com/lyrics/eminem/stepdad.html
 name: Stepdad
@@ -11,8 +14,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2020-02-01'
+release_year: 2020
+runtime: 213413
 ---
-
 Hey, yo
 (This song's about)
 My, my stepdad
@@ -97,6 +101,3 @@ So tonight I'm sayin', "Bye-bye stepdad" (Stepdad)
 'Cause I, I, hate
 My, my stepdad (Stepdad)
 So tonight I'm sayin', "Bye-bye stepdad" (Stepdad)
-
-
-

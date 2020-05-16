@@ -1,10 +1,13 @@
 ---
+album: Loyalty
 artists:
 - Fat Joe
+external_ids:
+  spotify: spotify:track:2ohHVfGDGcawWjx2KwP8dF
 features:
 - Tony Sunshine
 - Armageddon
-genres: []
+first_released_as_single: false
 key: all-i-need-fat-joe-tony-sunshine-armageddon
 lyrics_url: https://www.azlyrics.com/lyrics/fatjoe/allineed.html
 name: All I Need
@@ -41,9 +44,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2003-04-05'
+release_year: 2002
+runtime: 278626
 ---
-
-
 Cool & Dre
 Who you gonna trust?
 Yea, you could trust me, haha
@@ -119,4 +122,3 @@ And you get what you feel you deserve from that man, and
 Cuz I need somebody who will stand by me
 Through the good times and bad times who will always...
 always be my girl
-

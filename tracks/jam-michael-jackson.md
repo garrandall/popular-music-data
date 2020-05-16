@@ -1,8 +1,11 @@
 ---
+album: Dangerous
 artists:
 - Michael Jackson
+external_ids:
+  spotify: spotify:track:2EI8uljBPaI23VUr2tv4eS
 features: []
-genres: []
+first_released_as_single: false
 key: jam-michael-jackson
 lyrics_url: https://genius.com/Michael-jackson-jam-lyrics
 name: Jam
@@ -63,6 +66,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1992-10-10'
+release_year: 1991
+runtime: 338173
 ---
 Nation to nation, all the world must come together
 Face the problems that we see then maybe somehow we can work it out

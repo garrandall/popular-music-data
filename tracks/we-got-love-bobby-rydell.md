@@ -1,8 +1,11 @@
 ---
+album: 25 Original Greatest Hits- Cameo Parkway
 artists:
 - Bobby Rydell
+external_ids:
+  spotify: spotify:track:29syxcbM45EnOm6Nzw52kP
 features: []
-genres: []
+first_released_as_single: false
 key: we-got-love-bobby-rydell
 lyrics_url: https://genius.com/Bobby-rydell-we-got-love-lyrics
 name: We Got Love
@@ -75,6 +78,8 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '1960-02-01'
+release_year: 1959
+runtime: 142200
 ---
 (We got love)
 

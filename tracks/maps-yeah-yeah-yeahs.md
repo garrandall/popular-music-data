@@ -1,8 +1,11 @@
 ---
+album: Fever To Tell
 artists:
 - Yeah Yeah Yeahs
+external_ids:
+  spotify: spotify:track:0hDQV9X1Da5JrwhK8gu86p
 features: []
-genres: []
+first_released_as_single: false
 key: maps-yeah-yeah-yeahs
 lyrics_url: https://genius.com/Yeah-yeah-yeahs-maps-lyrics
 name: Maps
@@ -59,6 +62,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2004-06-05'
+release_year: 2003
+runtime: 219986
 ---
 Pack up
 I'm straight

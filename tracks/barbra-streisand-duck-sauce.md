@@ -1,8 +1,11 @@
 ---
+album: Dance Mix USA In the Club (Mixed by Ted the Dillenger)
 artists:
 - Duck Sauce
+external_ids:
+  spotify: spotify:track:2fsG4uB60Yro4wrPAeKgOV
 features: []
-genres: []
+first_released_as_single: false
 key: barbra-streisand-duck-sauce
 lyrics_url: https://www.azlyrics.com/lyrics/ducksauce/barbrastreisand.html
 name: Barbra Streisand
@@ -11,8 +14,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2011-05-14'
+release_year: 2011
+runtime: 247680
 ---
-
 Barbra Streisand
 Oo-oo who-oo-oo whooo-oo oo-oo
 Oo-oo who-oo-oo whooo-oo oo-oo
@@ -55,6 +59,3 @@ Barbra Streisand
 Oo-oo who-oo-oo whooo-oo oo-oo
 Oo-oo who-oo-oo whooo-oo oo-oo
 Oo-oo who-oo-oo whooo-oo oo-oo
-
-
-

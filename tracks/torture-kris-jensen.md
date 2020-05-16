@@ -1,8 +1,11 @@
 ---
+album: Torture
 artists:
 - Kris Jensen
+external_ids:
+  spotify: spotify:track:6KDmyGTDSLSdCtKspNH6ln
 features: []
-genres: []
+first_released_as_single: false
 key: torture-kris-jensen
 lyrics_url: https://genius.com/Kris-jensen-torture-lyrics
 name: Torture
@@ -63,6 +66,8 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '1962-12-01'
+release_year: 1962
+runtime: 128546
 ---
 TORTURE
 Kris Jensen

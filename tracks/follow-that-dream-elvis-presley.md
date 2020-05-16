@@ -1,8 +1,11 @@
 ---
+album: C'mon Everybody
 artists:
 - Elvis Presley
+external_ids:
+  spotify: spotify:track:0EkwlBGDj4h1UkVuWpSLK2
 features: []
-genres: []
+first_released_as_single: false
 key: follow-that-dream-elvis-presley
 lyrics_url: https://www.azlyrics.com/lyrics/elvispresley/followthatdream.html
 name: Follow That Dream
@@ -47,8 +50,9 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '1962-07-14'
+release_year: 1962
+runtime: 98827
 ---
-
 Follow that dream, I gotta follow that dream
 Keep a-movin, move along, keep a moving
 I've got to follow that dream wherever that dream may lead
@@ -78,6 +82,3 @@ I've got to follow that dream to find the love I need
 Keep a-movin, move along
 Keep a-movin, move along
 Keep a-movin, move along
-
-
-

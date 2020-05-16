@@ -1,8 +1,11 @@
 ---
+album: Bill Withers Live At Carnegie Hall
 artists:
 - Bill Withers
+external_ids:
+  spotify: spotify:track:1Mnc4e18oDcELB8NkoMWbq
 features: []
-genres: []
+first_released_as_single: false
 key: friend-of-mine-bill-withers
 lyrics_url: https://www.azlyrics.com/lyrics/billwithers/friendofmine.html
 name: Friend Of Mine
@@ -27,8 +30,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1973-08-04'
+release_year: 1973
+runtime: 268133
 ---
-
 Might be that we have, different views sometimes
 But that's alright, you're still a friend of mine
 Sometimes you go your way
@@ -72,6 +76,3 @@ You're a friend of mine
 You're a friend of mine
 You're a friend of mine
 You're a friend of mine
-
-
-

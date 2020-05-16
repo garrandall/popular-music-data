@@ -1,8 +1,11 @@
 ---
+album: Blue Suede Shoes
 artists:
 - Johnny Rivers
+external_ids:
+  spotify: spotify:track:7COIP1uzeFiMl6oHWMLVQY
 features: []
-genres: []
+first_released_as_single: false
 key: blue-suede-shoes-johnny-rivers
 lyrics_url: https://www.azlyrics.com/lyrics/johnnyrivers/bluesuedeshoes.html
 name: Blue Suede Shoes
@@ -47,8 +50,9 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '1973-05-19'
+release_year: 1973
+runtime: 171120
 ---
-
 Well, it's one for the money, two for the show
 Three to get ready, now go, cat, go
 But don't you step on my blue suede shoes
@@ -77,6 +81,3 @@ Blue, blue, blue suede shoes, yeah
 Well, blue, blue, blue suede shoes
 Blue, blue, blue suede shoes
 Well, you can do anything, but lay off of my blue suede shoes
-
-
-

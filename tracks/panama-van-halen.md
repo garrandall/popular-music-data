@@ -1,8 +1,11 @@
 ---
+album: '1984'
 artists:
 - Van Halen
+external_ids:
+  spotify: spotify:track:7MdzGrZxQhbDRYM8og6kFm
 features: []
-genres: []
+first_released_as_single: true
 key: panama-van-halen
 lyrics_url: https://www.azlyrics.com/lyrics/vanhalen/panama.html
 name: Panama
@@ -67,8 +70,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1984-09-29'
+release_year: 1984
+runtime: 211906
 ---
-
 Jump back, what's that sound?
 Here she comes, full blast and top down
 Hot shoe, burnin' down the avenue
@@ -103,6 +107,3 @@ Panama, Panama
 Panama, Panama
 Panama, Panama
 Panama
-
-
-

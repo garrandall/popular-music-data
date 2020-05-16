@@ -1,8 +1,11 @@
 ---
+album: Red
 artists:
 - Taylor Swift
+external_ids:
+  spotify: spotify:track:5zyCYmiaVE5y26EZuwZbsw
 features: []
-genres: []
+first_released_as_single: false
 key: state-of-grace-taylor-swift
 lyrics_url: https://www.azlyrics.com/lyrics/taylorswift/stateofgrace.html
 name: State Of Grace
@@ -11,8 +14,9 @@ rankings:
   rank: 13
   ranking_list: Billboard Hot 100
   start_date: '2012-11-03'
+release_year: 2012
+runtime: 295186
 ---
-
 I'm walking fast through the traffic lights
 Busy streets and busy lives
 And all we know
@@ -68,6 +72,3 @@ This is a state of grace
 This is the worthwhile fight
 Love is a ruthless game
 Unless you play it good and right
-
-
-

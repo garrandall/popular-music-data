@@ -1,8 +1,12 @@
 ---
+album: 'Sea Of Love: The Collection'
 artists:
-- Phil Phillips With The Twilights
-features: []
-genres: []
+- Phil Phillips
+external_ids:
+  spotify: spotify:track:4gUDdUr5yK0JGlR49zSRVt
+features:
+- The Twilights
+first_released_as_single: false
 key: sea-of-love-phil-phillips-with-the-twilights
 name: Sea Of Love
 rankings:
@@ -78,5 +82,7 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '1959-11-02'
+release_year: 1959
+runtime: 141933
 ---
 

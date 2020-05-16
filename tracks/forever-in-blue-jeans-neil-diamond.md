@@ -1,8 +1,11 @@
 ---
+album: You Don't Bring Me Flowers
 artists:
 - Neil Diamond
+external_ids:
+  spotify: spotify:track:1K1nzhbKCNmrNXi9B07mPF
 features: []
-genres: []
+first_released_as_single: false
 key: forever-in-blue-jeans-neil-diamond
 lyrics_url: https://genius.com/Neil-diamond-forever-in-blue-jeans-lyrics
 name: Forever In Blue Jeans
@@ -51,6 +54,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1979-04-07'
+release_year: 1978
+runtime: 217533
 ---
 Money talks
 But it don't sing and dance

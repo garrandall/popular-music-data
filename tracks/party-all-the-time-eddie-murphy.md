@@ -1,8 +1,11 @@
 ---
+album: How Could It Be
 artists:
 - Eddie Murphy
+external_ids:
+  spotify: spotify:track:6N5DRCQUSXT1qQqmqsO92B
 features: []
-genres: []
+first_released_as_single: false
 key: party-all-the-time-eddie-murphy
 lyrics_url: https://genius.com/Eddie-murphy-party-all-the-time-lyrics
 name: Party All The Time
@@ -95,6 +98,8 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1986-03-01'
+release_year: 1985
+runtime: 253293
 ---
 Girl, I can't understand it why you want to hurt me
 After all the things I've done for you

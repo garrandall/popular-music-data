@@ -1,8 +1,11 @@
 ---
+album: Oldies - Pop
 artists:
 - Michael Sembello
+external_ids:
+  spotify: spotify:track:3CQJLlWMjSL2lprKYbtbqE
 features: []
-genres: []
+first_released_as_single: false
 key: automatic-man-michael-sembello
 lyrics_url: https://www.azlyrics.com/lyrics/michaelsembello/automaticman.html
 name: Automatic Man
@@ -47,8 +50,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1983-11-26'
+release_year: 1983
+runtime: 251453
 ---
-
 Stayed up endless nights
 Like some Frankenstein
 Cybernetic dream
@@ -97,6 +101,3 @@ One, two, three, four, five
 Six, seven, eight
 He's the Automatic Man
 ...
-
-
-

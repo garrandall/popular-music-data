@@ -1,8 +1,11 @@
 ---
+album: Deluxe
 artists:
 - Better Than Ezra
+external_ids:
+  spotify: spotify:track:0ttHpMs250dpFkCYAnuhnE
 features: []
-genres: []
+first_released_as_single: false
 key: good-better-than-ezra
 lyrics_url: https://genius.com/Better-than-ezra-good-lyrics
 name: Good
@@ -87,6 +90,8 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '1995-11-11'
+release_year: 1995
+runtime: 185093
 ---
 Looking around the house
 Hidden behind the window and the door

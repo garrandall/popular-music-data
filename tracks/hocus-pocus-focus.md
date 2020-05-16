@@ -1,8 +1,11 @@
 ---
+album: Moving Waves
 artists:
 - Focus
+external_ids:
+  spotify: spotify:track:1IuUe3A7EfJmvZH3EljtwR
 features: []
-genres: []
+first_released_as_single: true
 key: hocus-pocus-focus
 lyrics_url: https://genius.com/Focus-band-hocus-pocus-lyrics
 name: Hocus Pocus
@@ -83,6 +86,8 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1973-07-07'
+release_year: 1971
+runtime: 192261
 ---
 Ôi orôrôi rôrôrôi rôrôrôi rôrôrôi rôrôrôi ohrorô poPÔ
 Yôi orôrôi rôrôrôi rôrôrôi rôrôrôi rôrôrôi ohrorô

@@ -1,8 +1,11 @@
 ---
+album: Learning to Crawl
 artists:
 - Pretenders
+external_ids:
+  spotify: spotify:track:4cMHCRLPNoEbpnl2rz6GS9
 features: []
-genres: []
+first_released_as_single: false
 key: back-on-the-chain-gang-pretenders
 lyrics_url: https://genius.com/Pretenders-back-on-the-chain-gang-lyrics
 name: Back On The Chain Gang
@@ -103,6 +106,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1983-05-21'
+release_year: 1982
+runtime: 231120
 ---
 I found a picture of you, oh oh oh oh
 What hijacked my world that night

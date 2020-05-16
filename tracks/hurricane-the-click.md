@@ -1,8 +1,11 @@
 ---
+album: Game Related
 artists:
 - The Click
+external_ids:
+  spotify: spotify:track:0sZCE4TdyedaTC8ojZxzHN
 features: []
-genres: []
+first_released_as_single: false
 key: hurricane-the-click
 lyrics_url: https://genius.com/The-click-hurricane-lyrics
 name: Hurricane
@@ -59,6 +62,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1996-02-03'
+release_year: 1995
+runtime: 261800
 ---
 It's just like moonshine, have you on your face
 I mean, you'll be slutterin' and what not

@@ -1,9 +1,12 @@
 ---
+album: Khalifa
 artists:
 - Wiz Khalifa
+external_ids:
+  spotify: spotify:track:0tPShxf8VJUH6RBDEP3tVB
 features:
 - Travis Scott
-genres: []
+first_released_as_single: true
 key: bake-sale-wiz-khalifa-travi--scott
 lyrics_url: https://www.azlyrics.com/lyrics/wizkhalifa/bakesale.html
 name: Bake Sale
@@ -16,9 +19,9 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '2016-02-27'
+release_year: 2016
+runtime: 238533
 ---
-
-
 Mistercap
 You ready again bro?
 Yeah!
@@ -112,6 +115,3 @@ Got a J, make a plane, now we goin' up
 All day, every day, we ain't smoke enough
 I'm on the KK, stoned as fuck
 At my bake sale yeah
-
-
-

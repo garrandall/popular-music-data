@@ -1,8 +1,11 @@
 ---
+album: Ooooooohhh... On The TLC Tip
 artists:
 - TLC
+external_ids:
+  spotify: spotify:track:4IBzgsoWHLsP8AMlO23iOF
 features: []
-genres: []
+first_released_as_single: false
 key: hat-2-da-back-tlc
 lyrics_url: https://www.azlyrics.com/lyrics/tlc/hat2daback.html
 name: Hat 2 Da Back
@@ -67,9 +70,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1993-05-15'
+release_year: 1992
+runtime: 256426
 ---
-
-
 Being that I am the kinda girl that I am
 Nobody can make me do what I don't want to
 I can be myself a lot and I'm proud of what I got
@@ -145,4 +148,3 @@ And that is oh the TLC tip
 
 1-2-3-4 y'all
 Here we go again
-

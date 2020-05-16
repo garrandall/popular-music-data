@@ -1,8 +1,11 @@
 ---
+album: Let It Be
 artists:
 - The Beatles
+external_ids:
+  spotify: spotify:track:3mlMpmY8oZIBFc39D9zLbh
 features: []
-genres: []
+first_released_as_single: false
 key: the-long-and-winding-road-the-beatles
 lyrics_url: https://genius.com/The-beatles-the-long-and-winding-road-lyrics
 name: The Long And Winding Road
@@ -47,6 +50,8 @@ rankings:
   rank: 21
   ranking_list: Billboard Hot 100
   start_date: '1970-07-25'
+release_year: 1970
+runtime: 218186
 ---
 The long and winding road that leads to your door
 Will never disappear, I've seen that road before

@@ -1,8 +1,11 @@
 ---
+album: On the Way Up
 artists:
 - Ann-Margret
+external_ids:
+  spotify: spotify:track:2WDn3iq8xYWVEp8eCihT44
 features: []
-genres: []
+first_released_as_single: false
 key: i-just-don-t-understand-ann-margret
 lyrics_url: https://genius.com/Ann-margret-i-just-dont-understand-lyrics
 name: I Just Don't Understand
@@ -55,6 +58,8 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '1961-10-09'
+release_year: 1961
+runtime: 160813
 ---
 Well you call me your baby
 When you're holdin' my hand

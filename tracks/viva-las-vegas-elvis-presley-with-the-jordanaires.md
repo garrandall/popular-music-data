@@ -1,9 +1,12 @@
 ---
+album: Elvis At The Movies
 artists:
 - Elvis Presley
 - The Jordanaires
+external_ids:
+  spotify: spotify:track:2wE6BC8IMySLpbEablyWY5
 features: []
-genres: []
+first_released_as_single: false
 key: viva-las-vegas-elvis-presley-with-the-jordanaires
 lyrics_url: https://www.musixmatch.com/lyrics/Elvis-Presley-and-The-Jordanaires/Viva-Las-Vegas
 name: Viva Las Vegas
@@ -36,6 +39,8 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '1964-06-20'
+release_year: 1964
+runtime: 140253
 ---
 Bright light city gonna set my soul
 Gonna set my soul on fire

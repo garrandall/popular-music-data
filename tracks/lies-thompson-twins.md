@@ -1,8 +1,11 @@
 ---
+album: The Best of Thompson Twins Greatest Mixes
 artists:
 - Thompson Twins
+external_ids:
+  spotify: spotify:track:1yEgjk2fTXaUKYcz2CRsX3
 features: []
-genres: []
+first_released_as_single: false
 key: lies-thompson-twins
 lyrics_url: https://www.musixmatch.com/lyrics/Thompson-Twins/Lies
 name: Lies
@@ -71,6 +74,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1983-05-07'
+release_year: 1983
+runtime: 323666
 ---
 You told me you loved me
 So I don't understand

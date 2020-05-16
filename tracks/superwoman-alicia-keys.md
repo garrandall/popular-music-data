@@ -1,8 +1,11 @@
 ---
+album: As I Am
 artists:
 - Alicia Keys
+external_ids:
+  spotify: spotify:track:6iPTBGDwDqyzh25SYsvB53
 features: []
-genres: []
+first_released_as_single: true
 key: superwoman-alicia-keys
 lyrics_url: https://www.azlyrics.com/lyrics/aliciakeys/superwoman.html
 name: Superwoman
@@ -35,8 +38,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2008-11-08'
+release_year: 2007
+runtime: 269480
 ---
-
 Everywhere I'm turning
 Nothing seems complete
 I stand up and I'm searching
@@ -124,6 +128,3 @@ That's right
 Yes I am,
 That's right
 Yes you are
-
-
-

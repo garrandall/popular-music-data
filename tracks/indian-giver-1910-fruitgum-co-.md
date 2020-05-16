@@ -1,8 +1,11 @@
 ---
+album: Buddah's 360 Dial- A-Hit
 artists:
 - 1910 Fruitgum Co.
+external_ids:
+  spotify: spotify:track:1OTnbBVWC2ZqaOTPkLwPA0
 features: []
-genres: []
+first_released_as_single: false
 key: indian-giver-1910-fruitgum-co-
 lyrics_url: https://genius.com/1910-fruitgum-company-indian-giver-lyrics
 name: Indian Giver
@@ -59,6 +62,8 @@ rankings:
   rank: 28
   ranking_list: Billboard Hot 100
   start_date: '1969-04-19'
+release_year: 1969
+runtime: 166546
 ---
 Can still remember it wasn't long ago
 Things you used to tell me

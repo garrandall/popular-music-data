@@ -1,8 +1,11 @@
 ---
+album: Frame By Frame
 artists:
 - Cassadee Pope
+external_ids:
+  spotify: spotify:track:25zXRQGuwYZdIp88fVZOPC
 features: []
-genres: []
+first_released_as_single: false
 key: wasting-all-these-tears-cassadee-pope
 lyrics_url: https://www.azlyrics.com/lyrics/cassadeepope/wastingallthesetears.html
 name: Wasting All These Tears
@@ -87,8 +90,9 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '2014-02-01'
+release_year: 2013
+runtime: 215640
 ---
-
 I tried to find you at the bottom of a bottle
 Laying down on the bathroom floor
 My loneliness was rattling the windows
@@ -134,6 +138,3 @@ Oh, oh, these tears on you
 
 I tried to find you at the bottom of a bottle
 Laying down on the bathroom floor
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: New And Improved
 artists:
 - The Spinners
+external_ids:
+  spotify: spotify:track:5w8EGaqczE6Ddv0zC0lUIo
 features: []
-genres: []
+first_released_as_single: false
 key: living-a-little-laughing-a-little-the-spinners
 lyrics_url: https://genius.com/The-spinners-living-a-little-laughing-a-little-lyrics
 name: Living A Little Laughing A Little
@@ -35,6 +38,8 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1975-04-19'
+release_year: 1974
+runtime: 304042
 ---
 Laugh everyone at the clown
 He's the best one in town, ah ha

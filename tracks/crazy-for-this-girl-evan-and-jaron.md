@@ -1,8 +1,11 @@
 ---
+album: evan and jaron
 artists:
 - Evan And Jaron
+external_ids:
+  spotify: spotify:track:53z0hOqr2yeSj3ZqCdiYNg
 features: []
-genres: []
+first_released_as_single: false
 key: crazy-for-this-girl-evan-and-jaron
 lyrics_url: https://www.azlyrics.com/lyrics/evanandjaron/crazyforthisgirl.html
 name: Crazy For This Girl
@@ -99,8 +102,9 @@ rankings:
   rank: 30
   ranking_list: Billboard Hot 100
   start_date: '2001-04-07'
+release_year: 1999
+runtime: 202026
 ---
-
 She rolls the window down
 And she
 Talks over the sound
@@ -133,4 +137,3 @@ Pushed aside
 And right now
 I'm ready to spend the rest of my life
 With you
-

@@ -1,8 +1,11 @@
 ---
+album: The End Of The Innocence
 artists:
 - Don Henley
+external_ids:
+  spotify: spotify:track:6KIbBxMKqXxZeK8wOtRFiX
 features: []
-genres: []
+first_released_as_single: false
 key: how-bad-do-you-want-it--don-henley
 lyrics_url: https://www.azlyrics.com/lyrics/donhenley/howbaddoyouwantit.html
 name: How Bad Do You Want It?
@@ -55,8 +58,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1990-09-22'
+release_year: 1989
+runtime: 226306
 ---
-
 You're leavin' tongue marks on the carpet
 And I know what you're lookin' at
 You would walk on your lips through busted glass
@@ -98,6 +102,3 @@ How bad do you want it?
 How bad do you want it?
 How bad do you want it?
 Not bad enough
-
-
-

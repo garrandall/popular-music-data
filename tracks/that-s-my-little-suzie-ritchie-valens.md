@@ -1,8 +1,11 @@
 ---
+album: Ritchie Valens
 artists:
 - Ritchie Valens
+external_ids:
+  spotify: spotify:track:7AxreGYDIophORotoTRTX6
 features: []
-genres: []
+first_released_as_single: false
 key: that-s-my-little-suzie-ritchie-valens
 lyrics_url: https://www.azlyrics.com/lyrics/ritchievalens/thatsmylittlesuzie.html
 name: That's My Little Suzie
@@ -39,8 +42,9 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1959-05-25'
+release_year: 1959
+runtime: 112933
 ---
-
 Well now I've got a girl named Sue
 She knows what to do
 She's just through rockin' from here to my door
@@ -77,6 +81,3 @@ Come on baby, never set me again
 Come on baby, let me come rockin' again oh yeah oh yeah
 Come rockin' again oh yeah oh yeah
 Come rockin' again
-
-
-

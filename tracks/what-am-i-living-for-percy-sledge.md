@@ -1,8 +1,11 @@
 ---
+album: The Percy Sledge Way
 artists:
 - Percy Sledge
+external_ids:
+  spotify: spotify:track:3yjuIBV7rnHvoPlMRjgis1
 features: []
-genres: []
+first_released_as_single: false
 key: what-am-i-living-for-percy-sledge
 lyrics_url: https://www.azlyrics.com/lyrics/percysledge/whatamilivingfor.html
 name: What Am I Living For
@@ -15,8 +18,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1967-07-15'
+release_year: 1967
+runtime: 151173
 ---
-
 What am I living for 
 If not for you 
 What am I living for 
@@ -53,6 +57,3 @@ Nobody else will do
 
 Baby, nobody else 
 Nobody else will do
-
-
-

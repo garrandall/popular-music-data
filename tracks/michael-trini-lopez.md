@@ -1,8 +1,11 @@
 ---
+album: The Folk Album
 artists:
 - Trini Lopez
+external_ids:
+  spotify: spotify:track:17nWE0hz8DHBn4OjWm0BOU
 features: []
-genres: []
+first_released_as_single: false
 key: michael-trini-lopez
 lyrics_url: https://genius.com/Trini-lopez-michael-lyrics
 name: Michael
@@ -39,6 +42,8 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '1964-10-10'
+release_year: 1964
+runtime: 173778
 ---
 Michael, row the boat ashore
 Hallelujah

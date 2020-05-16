@@ -1,8 +1,11 @@
 ---
+album: Tell Me Why & Other Favorites
 artists:
 - The Belmonts
+external_ids:
+  spotify: spotify:track:3ggpRSvMZuLkP4bC2rNVmt
 features: []
-genres: []
+first_released_as_single: false
 key: tell-me-why-the-belmonts
 lyrics_url: https://genius.com/The-belmonts-tell-me-why-lyrics
 name: Tell Me Why
@@ -51,6 +54,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1961-07-31'
+release_year: 1961
+runtime: 156203
 ---
 Tell me why..
 Though I try to forget

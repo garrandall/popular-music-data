@@ -1,8 +1,11 @@
 ---
+album: Wins & Losses
 artists:
 - Meek Mill
+external_ids:
+  spotify: spotify:track:7sLDnUauivS2vN6Z9EfUJT
 features: []
-genres: []
+first_released_as_single: false
 key: 1942-flows-meek-mill
 lyrics_url: https://www.azlyrics.com/lyrics/meekmill/1942flows.html
 name: 1942 Flows
@@ -11,8 +14,9 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '2017-08-12'
+release_year: 2017
+runtime: 282666
 ---
-
 Started off poor with plans to earn more
 Now we own stores and fuck the baddest whores
 I was on tour with niggas that's so raw
@@ -120,6 +124,3 @@ I don't need these hoes
 I'm getting money, me and all my woes
 Play with me, you know it's all I want
 The young niggas going all out for us
-
-
-

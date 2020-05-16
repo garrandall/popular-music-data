@@ -1,8 +1,11 @@
 ---
+album: Lost Hits Of The 80's (All Original Artists & Versions)
 artists:
 - Gavin Christopher
+external_ids:
+  spotify: spotify:track:6nHtta2jcgtkh9KAfrNjzK
 features: []
-genres: []
+first_released_as_single: false
 key: one-step-closer-to-you-gavin-christopher
 lyrics_url: https://genius.com/Gavin-christopher-one-step-closer-to-you-lyrics
 name: One Step Closer To You
@@ -75,6 +78,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1986-09-13'
+release_year: 1986
+runtime: 311320
 ---
 Ain't it funny
 Destiny is pulling you back to me

@@ -1,8 +1,11 @@
 ---
+album: Take The Heat Off Me
 artists:
 - Boney M
+external_ids:
+  spotify: spotify:track:3WMbD1OyfKuwWDWMNbPQ4g
 features: []
-genres: []
+first_released_as_single: false
 key: daddy-cool-boney-m
 lyrics_url: https://genius.com/Boney-m-daddy-cool-lyrics
 name: Daddy Cool
@@ -27,6 +30,8 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '1977-02-19'
+release_year: 1976
+runtime: 208600
 ---
 She's crazy like a fool
 Wild about Daddy Cool

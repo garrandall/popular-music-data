@@ -1,8 +1,11 @@
 ---
+album: Genesis
 artists:
 - The Soul Children
+external_ids:
+  spotify: spotify:track:0fvh2glZQgqoECZJQEfE06
 features: []
-genres: []
+first_released_as_single: false
 key: hearsay-the-soul-children
 lyrics_url: https://genius.com/The-soul-children-hearsay-lyrics
 name: Hearsay
@@ -51,6 +54,8 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '1972-05-27'
+release_year: 1972
+runtime: 215480
 ---
 Ever since we've been together
 You've been buggin' me about

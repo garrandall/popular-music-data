@@ -1,8 +1,11 @@
 ---
+album: The Beach Boys Today!
 artists:
 - The Beach Boys
+external_ids:
+  spotify: spotify:track:1pGNIN1wr7rcsDONmHLNRd
 features: []
-genres: []
+first_released_as_single: false
 key: help-me-rhonda-the-beach-boys
 lyrics_url: https://www.azlyrics.com/lyrics/beachboys/helpmerhonda.html
 name: Help Me Rhonda
@@ -63,8 +66,9 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1965-07-17'
+release_year: 1965
+runtime: 190360
 ---
-
 Well since she put me down I 've been out doin' in my head
 Come in late at night and in the mornin' I just lay in bed
 
@@ -137,6 +141,3 @@ Help me Rhonda
 Help, help me Rhonda
 Help me Rhonda
 Help, help me Rhonda
-
-
-

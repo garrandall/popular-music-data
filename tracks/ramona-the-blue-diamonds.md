@@ -1,8 +1,11 @@
 ---
+album: Het Beste van The Blue Diamonds
 artists:
 - The Blue Diamonds
+external_ids:
+  spotify: spotify:track:2Xt3YSFvqe5AzRbVrETVbv
 features: []
-genres: []
+first_released_as_single: false
 key: ramona-the-blue-diamonds
 lyrics_url: https://genius.com/Blue-diamonds-ramona-lyrics
 name: Ramona
@@ -27,6 +30,8 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1960-12-26'
+release_year: 1960
+runtime: 147923
 ---
 Ramona, I hear the mission bells above
 Ramona, they ringing out a song of love

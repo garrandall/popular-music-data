@@ -1,8 +1,11 @@
 ---
+album: Ray of Light (U.S. Version)
 artists:
 - Madonna
+external_ids:
+  spotify: spotify:track:2II03llydk4YnkBBvoYB3B
 features: []
-genres: []
+first_released_as_single: false
 key: frozen-madonna
 lyrics_url: https://www.azlyrics.com/lyrics/madonna/frozen.html
 name: Frozen
@@ -87,8 +90,9 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '1998-08-01'
+release_year: 1998
+runtime: 367333
 ---
-
 You only see what your eyes want to see
 How can life be what you want it to be
 You're frozen
@@ -135,6 +139,3 @@ Mmm, give yourself to me
 Mmm, you hold the key
 
 If I could melt your heart
-
-
-

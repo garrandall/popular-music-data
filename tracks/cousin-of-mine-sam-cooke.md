@@ -1,8 +1,11 @@
 ---
+album: Keep Movin' On
 artists:
 - Sam Cooke
+external_ids:
+  spotify: spotify:track:0e1UkgZFTKEkqHlTG7SRkS
 features: []
-genres: []
+first_released_as_single: false
 key: cousin-of-mine-sam-cooke
 lyrics_url: https://genius.com/Sam-cooke-cousin-of-mine-lyrics
 name: Cousin Of Mine
@@ -55,6 +58,8 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '1965-02-06'
+release_year: 1960
+runtime: 147826
 ---
 There's a scandal
 In the neighborhood
@@ -66,8 +71,6 @@ Had lately arrived in town
 Now when Julie's fella
 Came to call
 And saw them kissing
-
-Lyrics courtesy Top40db
 
 He started home at once
 

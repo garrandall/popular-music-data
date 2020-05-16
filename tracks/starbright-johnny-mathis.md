@@ -1,8 +1,11 @@
 ---
+album: The Singles
 artists:
 - Johnny Mathis
+external_ids:
+  spotify: spotify:track:57SIMj9BOvVcPKuPT54Vpr
 features: []
-genres: []
+first_released_as_single: false
 key: starbright-johnny-mathis
 lyrics_url: https://www.azlyrics.com/lyrics/johnnymathis/starbright.html
 name: Starbright
@@ -51,8 +54,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1960-05-09'
+release_year: 1960
+runtime: 171973
 ---
-
 Starbright, I have made a wish upon you.
 Now my heart is counting on you.
 Wont you grant my wish tonight.
@@ -72,6 +76,3 @@ Oh, oh, oh, oh starbright. since you know how much I need her.
 Can't you spare some light to lead her to my empty arms tonight.
 
 Oh starbright.
-
-
-

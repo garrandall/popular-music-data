@@ -1,8 +1,11 @@
 ---
+album: I Decided.
 artists:
 - Big Sean
+external_ids:
+  spotify: spotify:track:0o9Oqb3NeHaTA3JscgH2uT
 features: []
-genres: []
+first_released_as_single: false
 key: bounce-back-big-sean
 lyrics_url: https://genius.com/Big-sean-bounce-back-lyrics
 name: Bounce Back
@@ -119,6 +122,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2017-06-03'
+release_year: 2016
+runtime: 222360
 ---
 Hitmaka
 If Young Metro don't trust you, I'm gon' shoot you

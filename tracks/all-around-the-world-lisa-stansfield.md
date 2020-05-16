@@ -1,8 +1,11 @@
 ---
+album: Affection
 artists:
 - Lisa Stansfield
+external_ids:
+  spotify: spotify:track:1DapqOfkDAQCiKnvfwKo0g
 features: []
-genres: []
+first_released_as_single: false
 key: all-around-the-world-lisa-stansfield
 lyrics_url: https://genius.com/Lisa-stansfield-all-around-the-world-lyrics
 name: All Around The World
@@ -95,6 +98,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1990-06-30'
+release_year: 1989
+runtime: 265760
 ---
 I don't know where my baby is
 But I'll find him, somewhere, somehow

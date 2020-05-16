@@ -1,8 +1,11 @@
 ---
+album: Bang
 artists:
 - Big Noise
+external_ids:
+  spotify: spotify:track:29WdDiB82pmhb9WooCXKn5
 features: []
-genres: []
+first_released_as_single: false
 key: name-and-number-big-noise
 lyrics_url: https://www.musixmatch.com/lyrics/Big-Noise/Name-and-Number-dance-mix
 name: Name And Number
@@ -19,6 +22,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1989-11-18'
+release_year: 1989
+runtime: 222373
 ---
 Tell me, tell me
 Tell me, tell me

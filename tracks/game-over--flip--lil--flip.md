@@ -1,8 +1,11 @@
 ---
+album: U Gotta Feel Me
 artists:
 - Lil' Flip
+external_ids:
+  spotify: spotify:track:4tNuZJbMukwqC4IG7lDEk3
 features: []
-genres: []
+first_released_as_single: true
 key: game-over--flip--lil--flip
 lyrics_url: https://genius.com/Lil-flip-game-over-lyrics
 name: Game Over (Flip)
@@ -87,6 +90,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '2004-07-24'
+release_year: 2004
+runtime: 235560
 ---
 Game over
 Flip, Flip, Flip, Flip

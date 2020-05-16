@@ -1,8 +1,11 @@
 ---
+album: All Summer Long
 artists:
 - Hit Masters
+external_ids:
+  spotify: spotify:track:1c6vqb5WxKxXrilpPDzWhb
 features: []
-genres: []
+first_released_as_single: true
 key: all-summer-long-hit-masters
 name: All Summer Long
 rankings:
@@ -26,5 +29,7 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2008-09-27'
+release_year: 2008
+runtime: 228640
 ---
 

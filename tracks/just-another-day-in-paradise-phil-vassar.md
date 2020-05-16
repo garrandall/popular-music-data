@@ -1,8 +1,11 @@
 ---
+album: Phil Vassar
 artists:
 - Phil Vassar
+external_ids:
+  spotify: spotify:track:3C9eaMeidcyMcAZrOGDqTE
 features: []
-genres: []
+first_released_as_single: false
 key: just-another-day-in-paradise-phil-vassar
 lyrics_url: https://www.azlyrics.com/lyrics/philvassar/justanotherdayinparadise.html
 name: Just Another Day In Paradise
@@ -87,8 +90,9 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '2001-02-10'
+release_year: 2000
+runtime: 233506
 ---
-
 The kids screaming, phone ringing
 Dog barking at the mailman bringing
 That stack of bills - overdue
@@ -150,6 +154,3 @@ Well, it's the kids screaming. The phone ringing
 Just another day
 Well, it's Friday. You're late
 Oh yeah, it's just another day in paradise
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: The Very Best of, Volume 1
 artists:
 - Joe Tex
+external_ids:
+  spotify: spotify:track:0x2PeHuAguW1SWRETzSddw
 features: []
-genres: []
+first_released_as_single: false
 key: you-need-me-baby-joe-tex
 name: You Need Me Baby
 rankings:
@@ -18,5 +21,7 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1968-10-26'
+release_year: 1965
+runtime: 203440
 ---
 

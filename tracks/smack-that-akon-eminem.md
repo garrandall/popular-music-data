@@ -1,9 +1,12 @@
 ---
+album: Konvicted
 artists:
 - Akon
+external_ids:
+  spotify: spotify:track:2kQuhkFX7uSVepCD3h29g5
 features:
 - Eminem
-genres: []
+first_released_as_single: false
 key: smack-that-akon-eminem
 lyrics_url: https://www.azlyrics.com/lyrics/akon/smackthat.html
 name: Smack That
@@ -128,9 +131,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2007-04-28'
+release_year: 2006
+runtime: 212360
 ---
-
-
 Shady
 Convict
 Upfront
@@ -206,4 +209,3 @@ I feel you creeping, I can see it from my shadow
 Wanna jump up in my Lamborghini Gallardo
 Maybe go to my place and just kick it like TaeBo
 And possibly bend you over look back and watch me
-

@@ -1,8 +1,11 @@
 ---
+album: An Innocent Man
 artists:
 - Billy Joel
+external_ids:
+  spotify: spotify:track:5zA8vzDGqPl2AzZkEYQGKh
 features: []
-genres: []
+first_released_as_single: false
 key: uptown-girl-billy-joel
 lyrics_url: https://genius.com/Billy-joel-uptown-girl-lyrics
 name: Uptown Girl
@@ -95,6 +98,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1984-02-18'
+release_year: 1983
+runtime: 197706
 ---
 Uptown girl
 She's been living in her uptown world

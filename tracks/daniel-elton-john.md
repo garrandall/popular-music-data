@@ -1,8 +1,11 @@
 ---
+album: Don't Shoot Me I'm Only The Piano Player
 artists:
 - Elton John
+external_ids:
+  spotify: spotify:track:1BvJmtaXsqtH438BcDPeBb
 features: []
-genres: []
+first_released_as_single: false
 key: daniel-elton-john
 lyrics_url: https://www.azlyrics.com/lyrics/eltonjohn/daniel.html
 name: Daniel
@@ -67,8 +70,9 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1973-07-14'
+release_year: 1973
+runtime: 234666
 ---
-
 Daniel is travelling tonight on a plane
 I can see the red tail lights heading for Spain
 Oh and I can see Daniel waving goodbye
@@ -89,6 +93,3 @@ I can see the red tail lights heading for Spain
 Oh and I can see Daniel waving goodbye
 God it looks like Daniel, must be the clouds in my eyes
 Oh God it looks like Daniel, must be the clouds in my eyes
-
-
-

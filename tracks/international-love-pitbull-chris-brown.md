@@ -1,9 +1,12 @@
 ---
+album: Planet Pit (Deluxe Version)
 artists:
 - Pitbull
+external_ids:
+  spotify: spotify:track:62zFEHfAYl5kdHYOivj4BC
 features:
 - Chris Brown
-genres: []
+first_released_as_single: false
 key: international-love-pitbull-chris-brown
 lyrics_url: https://genius.com/Pitbull-international-love-lyrics
 name: International Love
@@ -112,6 +115,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '2012-05-12'
+release_year: 2011
+runtime: 227280
 ---
 Went from Mr. 305, (Dade County), to Mr. Worldwide
 (All around the world)

@@ -1,8 +1,11 @@
 ---
+album: Non-Stop
 artists:
 - B.T. Express
+external_ids:
+  spotify: spotify:track:4dk6boaKpHvN4VyHc3Pegr
 features: []
-genres: []
+first_released_as_single: false
 key: give-it-what-you-got-b-t--express
 lyrics_url: https://genius.com/Bt-express-give-it-what-you-got-lyrics
 name: Give It What You Got
@@ -79,6 +82,8 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1975-12-06'
+release_year: 1970
+runtime: 249320
 ---
 Give it what you got
 Give it what you got

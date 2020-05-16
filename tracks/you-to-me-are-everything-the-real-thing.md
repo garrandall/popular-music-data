@@ -1,8 +1,11 @@
 ---
+album: Can You Feel the Force - All Their Biggest Hits!
 artists:
 - The Real Thing
+external_ids:
+  spotify: spotify:track:3iQCO7V5fPz9psiTszVcXF
 features: []
-genres: []
+first_released_as_single: false
 key: you-to-me-are-everything-the-real-thing
 lyrics_url: https://genius.com/The-real-thing-you-to-me-are-everything-lyrics
 name: You To Me Are Everything
@@ -39,6 +42,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1976-09-04'
+release_year: 1976
+runtime: 213174
 ---
 I would take the stars out of the sky for you
 Stop the rain from falling if you asked me to

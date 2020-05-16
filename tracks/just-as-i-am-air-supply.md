@@ -1,8 +1,11 @@
 ---
+album: Air Supply
 artists:
 - Air Supply
+external_ids:
+  spotify: spotify:track:20WC5ZN72x0552U3EwCalR
 features: []
-genres: []
+first_released_as_single: false
 key: just-as-i-am-air-supply
 lyrics_url: https://genius.com/Air-supply-just-as-i-am-lyrics
 name: Just As I Am
@@ -67,6 +70,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1985-08-31'
+release_year: 1985
+runtime: 284146
 ---
 I've had a lot of big dreams
 I've made a lot of bad moves

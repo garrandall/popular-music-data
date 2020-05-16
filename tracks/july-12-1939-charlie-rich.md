@@ -1,8 +1,11 @@
 ---
+album: The Fabulous Charlie Rich
 artists:
 - Charlie Rich
+external_ids:
+  spotify: spotify:track:0a32BQVIZxqDYiSHtvpAkb
 features: []
-genres: []
+first_released_as_single: false
 key: july-12-1939-charlie-rich
 lyrics_url: https://www.azlyrics.com/lyrics/charlierich/july121939.html
 name: July 12 1939
@@ -23,8 +26,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1970-04-18'
+release_year: 1969
+runtime: 270786
 ---
-
 July the 12th sure was a scorcher
 Mama, she fixed some lemonade
 Sister Beth was sunning in the sunshine
@@ -64,6 +68,3 @@ Hm mmm mmm
 July the 12th, 1939
 
 Hm mmm mmm
-
-
-

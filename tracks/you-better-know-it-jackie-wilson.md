@@ -1,8 +1,11 @@
 ---
+album: Lonely Teardrops
 artists:
 - Jackie Wilson
+external_ids:
+  spotify: spotify:track:6uwFpsws7Iz5eTJMU9JCfE
 features: []
-genres: []
+first_released_as_single: false
 key: you-better-know-it-jackie-wilson
 lyrics_url: https://www.azlyrics.com/lyrics/jackiewilson/youbetterknowit.html
 name: You Better Know It
@@ -47,8 +50,9 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '1959-11-09'
+release_year: 1959
+runtime: 124040
 ---
-
 Well I want you to run to me baby
 Run with all your might
 I want to love you pretty baby
@@ -92,6 +96,3 @@ Come, come on come a right along baby
 Just come on love me honey
 Love me long, love me right, love me strong
 Yes, come on, come on, come right along
-
-
-

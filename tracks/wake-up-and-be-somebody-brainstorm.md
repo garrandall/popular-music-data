@@ -1,8 +1,11 @@
 ---
+album: Stormin'
 artists:
 - Brainstorm
+external_ids:
+  spotify: spotify:track:0FYbAzaNnBTtgcmYGPdqS3
 features: []
-genres: []
+first_released_as_single: false
 key: wake-up-and-be-somebody-brainstorm
 lyrics_url: https://www.musixmatch.com/lyrics/Brainstorm/Wake-Up-and-Be-Somebody
 name: Wake Up And Be Somebody
@@ -19,6 +22,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1977-03-26'
+release_year: 1977
+runtime: 382426
 ---
 Wake up and be somebody
 (Wake up and be somebody)

@@ -1,8 +1,11 @@
 ---
+album: Mony Mony
 artists:
 - Tommy James And The Shondells
+external_ids:
+  spotify: spotify:track:55l8C6rfUm3joc4UdoPuxW
 features: []
-genres: []
+first_released_as_single: false
 key: get-out-now-tommy-james-and-the-shondells
 lyrics_url: https://genius.com/Tommy-james-and-the-shondells-get-out-now-lyrics
 name: Get Out Now
@@ -35,6 +38,8 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '1968-03-09'
+release_year: 1968
+runtime: 133000
 ---
 Heartbreak, baby. Heartbreak, baby
 

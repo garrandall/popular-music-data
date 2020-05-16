@@ -1,8 +1,11 @@
 ---
+album: Zip A Dee Doo Dah
 artists:
 - Bob B. Soxx And The Blue Jeans
+external_ids:
+  spotify: spotify:track:2Fpcr6ShKoIW8grE2nqdik
 features: []
-genres: []
+first_released_as_single: false
 key: zip-a-dee-doo-dah-bob-b--soxx-and-the-blue-jeans
 lyrics_url: https://genius.com/Bob-b-soxx-and-the-blue-jeans-zip-a-dee-doo-dah-lyrics
 name: Zip-A-Dee Doo-Dah
@@ -59,6 +62,8 @@ rankings:
   rank: 52
   ranking_list: Billboard Hot 100
   start_date: '1963-02-09'
+release_year: 1962
+runtime: 167160
 ---
 Zip a dee doo dah, zip a dee ay
 My, my, my, my, my, my what a wonderful day

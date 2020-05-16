@@ -1,8 +1,11 @@
 ---
+album: The Preacher's Wife
 artists:
 - Whitney Houston
+external_ids:
+  spotify: spotify:track:1kwNHkKXJ4c4MchgATAOBJ
 features: []
-genres: []
+first_released_as_single: false
 key: i-believe-in-you-and-me-whitney-houston
 lyrics_url: https://genius.com/Whitney-houston-i-believe-in-you-and-me-film-version-lyrics
 name: I Believe In You And Me
@@ -87,6 +90,8 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '1997-05-10'
+release_year: 1996
+runtime: 241960
 ---
 I believe In you and me
 I believe that we will be

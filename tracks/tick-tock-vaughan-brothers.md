@@ -1,8 +1,11 @@
 ---
+album: Family Style
 artists:
 - Vaughan Brothers
+external_ids:
+  spotify: spotify:track:1sMlUYVSp6PqjrYDOKBPrH
 features: []
-genres: []
+first_released_as_single: false
 key: tick-tock-vaughan-brothers
 lyrics_url: https://www.musixmatch.com/lyrics/The-Vaughan-Brothers/Tick-Tock
 name: Tick Tock
@@ -43,6 +46,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1990-12-15'
+release_year: 1990
+runtime: 297293
 ---
 One night while sleeping in my bed I had a beautiful dream
 That all the people of the world got together on the same wavelength

@@ -1,9 +1,12 @@
 ---
+album: Time Out For Smokey Robinson & The Miracles
 artists:
 - Smokey Robinson
 - The Miracles
+external_ids:
+  spotify: spotify:track:5kJpLI5axvOQbGt0x4Nsko
 features: []
-genres: []
+first_released_as_single: false
 key: baby-baby-don-t-cry-smokey-robinson-the-miracles
 lyrics_url: https://genius.com/Smokey-robinson-and-the-miracles-baby-baby-dont-cry-lyrics
 name: Baby Baby Don't Cry
@@ -64,6 +67,8 @@ rankings:
   rank: 23
   ranking_list: Billboard Hot 100
   start_date: '1969-04-05'
+release_year: 1969
+runtime: 242466
 ---
 Nothing so blue as a heart in pain
 Nothing so sad as a tear in vain

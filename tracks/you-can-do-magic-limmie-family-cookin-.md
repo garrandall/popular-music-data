@@ -1,9 +1,12 @@
 ---
+album: You Can Do Magic / Spider
 artists:
 - Limmie
 - Family Cookin'
+external_ids:
+  spotify: spotify:track:3mnWnhjv2xkINMC48bHWTx
 features: []
-genres: []
+first_released_as_single: true
 key: you-can-do-magic-limmie-family-cookin-
 lyrics_url: https://www.musixmatch.com/lyrics/Limmie-The-Family-Cookin/You-Can-Do-Magic
 name: You Can Do Magic
@@ -48,6 +51,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1973-01-20'
+release_year: 1972
+runtime: 177005
 ---
 Since you've been gone, since you've been unglued
 It's hard to figure out your next move

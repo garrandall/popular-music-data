@@ -1,8 +1,11 @@
 ---
+album: Harvest for the World
 artists:
 - The Isley Brothers
+external_ids:
+  spotify: spotify:track:0fl2MichhIDeOYQOCce7GW
 features: []
-genres: []
+first_released_as_single: false
 key: harvest-for-the-world-the-isley-brothers
 lyrics_url: https://genius.com/The-isley-brothers-harvest-for-the-world-lyrics
 name: Harvest For The World
@@ -51,6 +54,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1976-10-30'
+release_year: 1976
+runtime: 211733
 ---
 All babies together, everyone a seed
 Half of us are satisfied, half of us in need

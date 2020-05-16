@@ -1,8 +1,11 @@
 ---
+album: Anthology
 artists:
 - Musical Youth
+external_ids:
+  spotify: spotify:track:1BkY0N8ChFk2mdLbAUu8ZK
 features: []
-genres: []
+first_released_as_single: false
 key: pass-the-dutchie-musical-youth
 lyrics_url: https://www.azlyrics.com/lyrics/musicalyouth/passthedutchie.html
 name: Pass The Dutchie
@@ -79,8 +82,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1983-04-09'
+release_year: 1982
+runtime: 205426
 ---
-
 This generation
 Rules the nation
 With version
@@ -151,6 +155,3 @@ It a go dung, give me the music, make me rockin' at the dance
 
 I say east, say west, say north and south
 This is gonna really make us jump and shout
-
-
-

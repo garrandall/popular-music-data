@@ -1,8 +1,11 @@
 ---
+album: The Best Of Duane Eddy
 artists:
 - Duane Eddy
+external_ids:
+  spotify: spotify:track:1X594RXrF87lumS4DbvnJk
 features: []
-genres: []
+first_released_as_single: false
 key: the-ballad-of-paladin-duane-eddy
 name: The Ballad Of Paladin
 rankings:
@@ -42,5 +45,7 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1962-09-01'
+release_year: 1962
+runtime: 114906
 ---
 

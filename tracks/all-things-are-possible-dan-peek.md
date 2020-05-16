@@ -1,8 +1,11 @@
 ---
+album: YMC Christian Pop CCM Series:Dan Peek
 artists:
 - Dan Peek
+external_ids:
+  spotify: spotify:track:6a5i6H8hbF02dYC70wI5Pr
 features: []
-genres: []
+first_released_as_single: false
 key: all-things-are-possible-dan-peek
 lyrics_url: https://www.musixmatch.com/lyrics/Dan-Peek-2/All-Things-Are-Possible
 name: All Things Are Possible
@@ -27,6 +30,8 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1979-10-13'
+release_year: 1979
+runtime: 178493
 ---
 When you turn misty blue
 I have my eyes on you

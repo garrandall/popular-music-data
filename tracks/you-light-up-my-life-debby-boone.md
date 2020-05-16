@@ -1,8 +1,11 @@
 ---
+album: You Light Up My Life
 artists:
 - Debby Boone
+external_ids:
+  spotify: spotify:track:3dFR132gzO8jxD57R2gid3
 features: []
-genres: []
+first_released_as_single: false
 key: you-light-up-my-life-debby-boone
 lyrics_url: https://www.azlyrics.com/lyrics/debbyboone/youlightupmylife.html
 name: You Light Up My Life
@@ -107,8 +110,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1978-02-18'
+release_year: 1977
+runtime: 216286
 ---
-
 So many nights
 I'd sit by my window
 Waiting for someone
@@ -155,6 +159,3 @@ It can't be wrong
 When it feels so right
 'Cause you
 You light up my life
-
-
-

@@ -1,12 +1,15 @@
 ---
+album: 'Furious 7: Original Motion Picture Soundtrack'
 artists:
 - Kid Ink
 - Tyga
 - Wale
 - YG
 - Rich Homie Quan
+external_ids:
+  spotify: spotify:track:59PL9AwYjIrIpP04n9gmMR
 features: []
-genres: []
+first_released_as_single: false
 key: ride-out-kid-ink-tyga-wale-yg-rich-homie-quan
 lyrics_url: https://genius.com/Kid-ink-tyga-yg-wale-and-rich-homie-quan-ride-out-lyrics
 name: Ride Out
@@ -23,6 +26,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2015-05-09'
+release_year: 2015
+runtime: 211908
 ---
 Came in at first, had bad luck
 Got a whole lot, remember I ain't had nothin'

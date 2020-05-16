@@ -1,8 +1,11 @@
 ---
+album: Black & Blue
 artists:
 - Backstreet Boys
+external_ids:
+  spotify: spotify:track:35o9a4iAfLl5jRmqMX9c1D
 features: []
-genres: []
+first_released_as_single: false
 key: shape-of-my-heart-backstreet-boys
 lyrics_url: https://genius.com/Backstreet-boys-shape-of-my-heart-lyrics
 name: Shape Of My Heart
@@ -87,6 +90,8 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '2001-02-24'
+release_year: 2000
+runtime: 230093
 ---
 Mmmmh! Yeah, yeah
 Baby, please try to forgive me

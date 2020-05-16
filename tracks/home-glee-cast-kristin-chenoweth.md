@@ -1,9 +1,12 @@
 ---
+album: 'Glee: The Music, Volume 3 Showstoppers'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:1a7jQ2WGIpLJlHJD0hily2
 features:
 - Kristin Chenoweth
-genres: []
+first_released_as_single: false
 key: home-glee-cast-kristin-chenoweth
 lyrics_url: https://www.azlyrics.com/lyrics/gleecast/home.html
 name: Home
@@ -12,8 +15,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2010-05-15'
+release_year: 2010
+runtime: 211093
 ---
-
 When I think of home 
 I think of a place where there's love overflowing 
 I wish I was home 
@@ -54,6 +58,3 @@ That we must look, look inside our hearts
 To find a world full of love 
 Like yours, like mine 
 Like home... Home.
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Here Come The Classics, Christmas Classics
 artists:
 - Greg Lake
+external_ids:
+  spotify: spotify:track:1E6BBFm0xjFszd1vVoja6J
 features: []
-genres: []
+first_released_as_single: true
 key: i-believe-in-father-christmas-greg-lake
 lyrics_url: https://genius.com/Greg-lake-i-believe-in-father-christmas-lyrics
 name: I Believe In Father Christmas
@@ -19,6 +22,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1976-01-03'
+release_year: 1975
+runtime: 167333
 ---
 They said there'll be snow at Christmas
 They said there'll be peace on Earth

@@ -1,8 +1,11 @@
 ---
+album: Freedom Means
 artists:
 - The Dells
+external_ids:
+  spotify: spotify:track:1iCQzjbQ1kLgp5uuMHf431
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-all-up-to-you-the-dells
 lyrics_url: https://genius.com/The-dells-its-all-up-to-you-single-version-lyrics
 name: It's All Up To You
@@ -19,6 +22,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1972-03-11'
+release_year: 1971
+runtime: 242880
 ---
 If I knew the words to say
 I'd write you a letter

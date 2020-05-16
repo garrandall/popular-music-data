@@ -1,8 +1,11 @@
 ---
+album: Jon Secada
 artists:
 - Jon Secada
+external_ids:
+  spotify: spotify:track:543d68hZ4dzVePFfdVc0Ki
 features: []
-genres: []
+first_released_as_single: false
 key: angel-jon-secada
 lyrics_url: https://www.azlyrics.com/lyrics/jonsecada/angel.html
 name: Angel
@@ -95,8 +98,9 @@ rankings:
   rank: 37
   ranking_list: Billboard Hot 100
   start_date: '1993-06-26'
+release_year: 1992
+runtime: 275040
 ---
-
 Yo, no veo el futuro
 Pero quiere tenerte aqui
 Conmigo, lo necesito asi
@@ -124,6 +128,3 @@ Brilla, eres un angel
 Que alumbra mi corazon.
 
 Mi angel
-
-
-

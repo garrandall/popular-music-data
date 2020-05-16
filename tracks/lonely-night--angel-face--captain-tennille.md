@@ -1,9 +1,12 @@
 ---
+album: Song Of Joy
 artists:
 - Captain
 - Tennille
+external_ids:
+  spotify: spotify:track:0qgsctXeEVnUwgGESn3vW4
 features: []
-genres: []
+first_released_as_single: false
 key: lonely-night--angel-face--captain-tennille
 lyrics_url: https://www.azlyrics.com/lyrics/captaintennille/lonelynightangelface.html
 name: Lonely Night (angel Face)
@@ -84,8 +87,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1976-05-29'
+release_year: 1976
+runtime: 198200
 ---
-
 Lonely night, I cry myself to sleep
 Tell me, what am I gonna do
 
@@ -136,6 +140,3 @@ I can't get ya out of my mind
 I can't get ya out of my mind
 I can't get ya out of my mind
 I can't get ya out of my mind
-
-
-

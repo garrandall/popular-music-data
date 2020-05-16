@@ -1,8 +1,11 @@
 ---
+album: Enjoy The Ride
 artists:
 - Sugarland
+external_ids:
+  spotify: spotify:track:63fKCxwRWqvp2Z6HQ6MHXU
 features: []
-genres: []
+first_released_as_single: false
 key: settlin--sugarland
 lyrics_url: https://www.azlyrics.com/lyrics/sugarland/settlin.html
 name: Settlin'
@@ -79,8 +82,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2007-06-16'
+release_year: 2006
+runtime: 207066
 ---
-
 Fifteen minutes left to throw me together
 For mister right now, not mister forever
 Don't know why I even try when I know how it ends
@@ -118,6 +122,3 @@ Tired of shooting too low, so raise the bar high
 I ain't settling no, no, no, no, no, no
 
 So raise the bar high
-
-
-

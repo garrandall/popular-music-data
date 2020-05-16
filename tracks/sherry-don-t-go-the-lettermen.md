@@ -1,8 +1,11 @@
 ---
+album: Capitol Collectors Series
 artists:
 - The Lettermen
+external_ids:
+  spotify: spotify:track:3MKhV2pyf6PR4G6K7GsIUH
 features: []
-genres: []
+first_released_as_single: false
 key: sherry-don-t-go-the-lettermen
 lyrics_url: https://genius.com/The-lettermen-sherry-dont-go-lyrics
 name: Sherry Don't Go
@@ -39,6 +42,8 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1968-05-11'
+release_year: 1968
+runtime: 125026
 ---
 Sherry don't go, talk to me girl
 Give me a chance to say what's hiding only

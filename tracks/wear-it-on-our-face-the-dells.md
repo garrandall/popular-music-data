@@ -1,8 +1,11 @@
 ---
+album: There Is
 artists:
 - The Dells
+external_ids:
+  spotify: spotify:track:0ZCrdpAw69pX7XbO2JVMeF
 features: []
-genres: []
+first_released_as_single: false
 key: wear-it-on-our-face-the-dells
 lyrics_url: https://genius.com/The-dells-wear-it-on-our-face-single-version-lyrics
 name: Wear It On Our Face
@@ -39,6 +42,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1968-06-01'
+release_year: 1968
+runtime: 205640
 ---
 We're falling in love, my darling
 With all our heart and soul

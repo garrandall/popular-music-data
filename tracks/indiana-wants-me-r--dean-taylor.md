@@ -1,8 +1,11 @@
 ---
+album: 'The Complete Motown Singles Vol. 10: 1970'
 artists:
 - R. Dean Taylor
+external_ids:
+  spotify: spotify:track:1zgV5ZYh7uYJXbK7yjuyj8
 features: []
-genres: []
+first_released_as_single: false
 key: indiana-wants-me-r--dean-taylor
 lyrics_url: https://genius.com/R-dean-taylor-indiana-wants-me-lyrics
 name: Indiana Wants Me
@@ -67,6 +70,8 @@ rankings:
   rank: 24
   ranking_list: Billboard Hot 100
   start_date: '1970-12-12'
+release_year: 1970
+runtime: 215146
 ---
 Mmm,mmm
 

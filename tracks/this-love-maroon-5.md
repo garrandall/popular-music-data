@@ -1,8 +1,11 @@
 ---
+album: 'Songs About Jane: 10th Anniversary Edition'
 artists:
 - Maroon 5
+external_ids:
+  spotify: spotify:track:6ECp64rv50XVz93WvxXMGF
 features: []
-genres: []
+first_released_as_single: false
 key: this-love-maroon-5
 lyrics_url: https://genius.com/Maroon-5-this-love-lyrics
 name: This Love
@@ -179,6 +182,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2004-12-04'
+release_year: 2002
+runtime: 206200
 ---
 I was so high I did not recognize
 The fire burning in her eyes

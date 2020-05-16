@@ -1,8 +1,11 @@
 ---
+album: The Chronic
 artists:
 - Dr. Dre
+external_ids:
+  spotify: spotify:track:4YtoipFgf4k0AfD17ZfD5X
 features: []
-genres: []
+first_released_as_single: false
 key: nuthin--but-a--g--thang-dr--dre
 lyrics_url: https://genius.com/Dr-dre-nuthin-but-a-g-thang-lyrics
 name: Nuthin' But A "G" Thang
@@ -115,6 +118,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1993-07-31'
+release_year: 1992
+runtime: 238466
 ---
 One, two, three and to the four
 Snoop Doggy Dogg and Dr. Dre is at the door

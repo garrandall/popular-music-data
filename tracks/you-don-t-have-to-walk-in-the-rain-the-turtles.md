@@ -1,8 +1,11 @@
 ---
+album: Turtle Soup
 artists:
 - The Turtles
+external_ids:
+  spotify: spotify:track:3DjrRr5my3zww9cOI9ofSF
 features: []
-genres: []
+first_released_as_single: false
 key: you-don-t-have-to-walk-in-the-rain-the-turtles
 lyrics_url: https://genius.com/The-turtles-you-dont-have-to-walk-in-the-rain-lyrics
 name: You Don't Have To Walk In The Rain
@@ -35,6 +38,8 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '1969-07-19'
+release_year: 1969
+runtime: 164800
 ---
 I look at your face, is that the face I love?
 It's been a long time since I've seen you

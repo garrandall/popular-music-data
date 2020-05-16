@@ -1,9 +1,12 @@
 ---
+album: Chris Brown
 artists:
 - Chris Brown
+external_ids:
+  spotify: spotify:track:2bIrFpyw3AA2t7gNIkfmGb
 features:
 - Lil Wayne
-genres: []
+first_released_as_single: false
 key: gimme-that-chris-brown-lil-wayne
 lyrics_url: https://genius.com/Genius-traducciones-al-espanol-chris-brown-gimme-that-ft-lil-wayne-traduccion-al-espanol-lyrics
 name: Gimme That
@@ -88,6 +91,8 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '2006-09-02'
+release_year: 2005
+runtime: 237360
 ---
 El joven Carter, soy mejor que los otros
 No miento, me puedo tomar un verano libre

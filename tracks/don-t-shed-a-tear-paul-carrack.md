@@ -1,8 +1,11 @@
 ---
+album: One Good Reason
 artists:
 - Paul Carrack
+external_ids:
+  spotify: spotify:track:71Rr9TzqLF8NwsexpfyipC
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-shed-a-tear-paul-carrack
 lyrics_url: https://genius.com/Paul-carrack-dont-shed-a-tear-lyrics
 name: Don't Shed A Tear
@@ -103,6 +106,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1988-04-23'
+release_year: 1987
+runtime: 295426
 ---
 Cab fare to nowhere is what you are
 A white line to an exit sign is what you are

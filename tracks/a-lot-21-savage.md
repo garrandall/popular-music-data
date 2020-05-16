@@ -1,8 +1,11 @@
 ---
+album: i am > i was
 artists:
 - 21 Savage
+external_ids:
+  spotify: spotify:track:2t8yVaLvJ0RenpXUIAC52d
 features: []
-genres: []
+first_released_as_single: false
 key: a-lot-21-savage
 lyrics_url: https://genius.com/21-savage-a-lot-lyrics
 name: A Lot
@@ -99,6 +102,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2019-06-08'
+release_year: 2018
+runtime: 288624
 ---
 I love you
 Turn my headphone down a little bit, yeah

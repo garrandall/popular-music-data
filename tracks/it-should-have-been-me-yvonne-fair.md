@@ -1,8 +1,11 @@
 ---
+album: The Bitch Is Black
 artists:
 - Yvonne Fair
+external_ids:
+  spotify: spotify:track:3lQNVAMwqcxFCJj8mI1izh
 features: []
-genres: []
+first_released_as_single: false
 key: it-should-have-been-me-yvonne-fair
 lyrics_url: https://genius.com/Yvonne-fair-it-should-have-been-me-lyrics
 name: It Should Have Been Me
@@ -27,6 +30,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1976-05-22'
+release_year: 1976
+runtime: 213213
 ---
 I saw my love walking down the aisle
 And as he passed me by

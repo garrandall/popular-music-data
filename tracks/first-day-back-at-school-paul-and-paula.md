@@ -1,8 +1,11 @@
 ---
+album: Hey Paul - The Very Best Of
 artists:
 - Paul and Paula
+external_ids:
+  spotify: spotify:track:6hqzu0PhIeH0iNg1igvfVL
 features: []
-genres: []
+first_released_as_single: false
 key: first-day-back-at-school-paul-and-paula
 lyrics_url: https://genius.com/Paul-and-paula-first-day-back-at-school-lyrics
 name: First Day Back At School
@@ -23,6 +26,8 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '1963-10-26'
+release_year: 1963
+runtime: 146746
 ---
 Our first day back at school
 I saw you standing there

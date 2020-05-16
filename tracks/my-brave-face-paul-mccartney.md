@@ -1,8 +1,11 @@
 ---
+album: Flowers In The Dirt
 artists:
 - Paul McCartney
+external_ids:
+  spotify: spotify:track:5ZI6c6IMIZ5jIQY08dggXi
 features: []
-genres: []
+first_released_as_single: false
 key: my-brave-face-paul-mccartney
 lyrics_url: https://www.azlyrics.com/lyrics/paulmccartney/mybraveface.html
 name: My Brave Face
@@ -47,8 +50,9 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '1989-07-29'
+release_year: 1989
+runtime: 200693
 ---
-
 My Brave Face.
 I've Been Living In Style
 Unaccustomed As I Am To The Luxury Life.
@@ -91,6 +95,3 @@ Where I Can't Find My Brave Face,
 Where I Can't Find My Brave Face,
 My Brave, My Brave, My Brave Face.
 My Brave Face.
-
-
-

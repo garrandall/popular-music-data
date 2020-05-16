@@ -1,8 +1,11 @@
 ---
+album: 500 Miles
 artists:
 - Johnny Nash
+external_ids:
+  spotify: spotify:track:0CREfkhNdiKtE9McXCc2j9
 features: []
-genres: []
+first_released_as_single: false
 key: you-got-soul-johnny-nash
 lyrics_url: https://www.musixmatch.com/lyrics/Johnny-Nash/You-Got-Soul
 name: You Got Soul
@@ -35,6 +38,8 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1969-01-25'
+release_year: 1968
+runtime: 143626
 ---
 (You got soul)
 (You got soul)

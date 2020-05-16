@@ -1,8 +1,11 @@
 ---
+album: Me Against The World
 artists:
 - 2Pac
+external_ids:
+  spotify: spotify:track:0NzNKU2MJ9LCetT2uZMJH2
 features: []
-genres: []
+first_released_as_single: false
 key: so-many-tears-2pac
 lyrics_url: https://genius.com/2pac-so-many-tears-lyrics
 name: So Many Tears
@@ -67,6 +70,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1995-10-07'
+release_year: 1995
+runtime: 239226
 ---
 I shall not fear no man but God
 Though I walk through the valley of death

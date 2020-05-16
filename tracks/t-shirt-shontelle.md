@@ -1,8 +1,11 @@
 ---
+album: Shontelligence
 artists:
 - Shontelle
+external_ids:
+  spotify: spotify:track:0m0FYyIbSDiASOlQ64GDO5
 features: []
-genres: []
+first_released_as_single: false
 key: t-shirt-shontelle
 lyrics_url: https://www.azlyrics.com/lyrics/shontelle/tshirt.html
 name: T-Shirt
@@ -75,8 +78,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2009-01-17'
+release_year: 2008
+runtime: 234760
 ---
-
 Let me tell you no
 Oh, baby
 
@@ -171,6 +175,3 @@ With nothing but your T-shirt on
 Nothing but your T-shirt on
 Nothing feels right
 With nothing but your T-shirt on
-
-
-

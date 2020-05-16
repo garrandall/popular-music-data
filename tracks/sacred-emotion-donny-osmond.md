@@ -1,8 +1,11 @@
 ---
+album: The Definitive Collection
 artists:
 - Donny Osmond
+external_ids:
+  spotify: spotify:track:48ULSgg6uLk5a9XeOFSQEI
 features: []
-genres: []
+first_released_as_single: false
 key: sacred-emotion-donny-osmond
 lyrics_url: https://www.azlyrics.com/lyrics/donnyosmond/sacredemotion.html
 name: Sacred Emotion
@@ -71,8 +74,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1989-09-30'
+release_year: 1989
+runtime: 298160
 ---
-
 There's a candle I keep in my window
 And its burning brighter tonight
 Through the storm and the winds of change
@@ -110,6 +114,3 @@ Like a river flowing into the ocean
 I can feel you coming back to me
 Cause our love is like a sacred emotion
 And its burning bright for the whole world to see
-
-
-

@@ -1,8 +1,12 @@
 ---
+album: Viva La Vida
 artists:
-- Coldplay With Jay-Z
-features: []
-genres: []
+- Coldplay
+external_ids:
+  spotify: spotify:track:1GAsLXwdWOU0fOHY9rJVc8
+features:
+- Jay-Z
+first_released_as_single: true
 key: lost--coldplay-with-jay-z
 name: Lost!
 rankings:
@@ -26,5 +30,7 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '2009-03-07'
+release_year: 2008
+runtime: 256908
 ---
 

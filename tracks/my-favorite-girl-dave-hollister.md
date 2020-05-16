@@ -1,8 +1,11 @@
 ---
+album: Ghetto Hymns
 artists:
 - Dave Hollister
+external_ids:
+  spotify: spotify:track:7hWod2nZxzIewqWEw45iUR
 features: []
-genres: []
+first_released_as_single: false
 key: my-favorite-girl-dave-hollister
 lyrics_url: https://www.azlyrics.com/lyrics/davehollister/myfavoritegirl.html
 name: My Favorite Girl
@@ -75,9 +78,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1999-07-31'
+release_year: 1999
+runtime: 332973
 ---
-
-
 I'd like to dedicate this ring
 To my favorite girl
 I know I haven't been the most perfect man ever
@@ -165,4 +168,3 @@ Stevie j play it for me
 
 Ohhhhh
 You can't keep callin' me
-

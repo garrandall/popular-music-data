@@ -1,8 +1,11 @@
 ---
+album: White Shadows
 artists:
 - Tim Moore
+external_ids:
+  spotify: spotify:track:71ctwO45Yzk7TIjlO27ZW1
 features: []
-genres: []
+first_released_as_single: false
 key: in-the-middle-tim-moore
 lyrics_url: https://genius.com/Tim-moore-in-the-middle-lyrics
 name: In The Middle
@@ -19,6 +22,8 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1977-07-30'
+release_year: 1977
+runtime: 192480
 ---
 For so long it's been you and me
 But now there's someone else

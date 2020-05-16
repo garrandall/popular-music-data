@@ -1,8 +1,11 @@
 ---
+album: 'Johnny Tillotson: The Early Years'
 artists:
 - Johnny Tillotson
+external_ids:
+  spotify: spotify:track:4zGpmecQpp2jxchLmAEwrH
 features: []
-genres: []
+first_released_as_single: false
 key: well-i-m-your-man-johnny-tillotson
 lyrics_url: https://www.musixmatch.com/lyrics/Johnny-Tillotson/Well-I-m-Your-Man
 name: Well I'm Your Man
@@ -19,6 +22,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1958-10-20'
+release_year: 1958
+runtime: 148773
 ---
 Rocking queen with eyes of blue
 Looking for a love that's true

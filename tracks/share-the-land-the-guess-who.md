@@ -1,8 +1,11 @@
 ---
+album: Share The Land
 artists:
 - The Guess Who
+external_ids:
+  spotify: spotify:track:51krF0CyHT5AEuh81K0t0z
 features: []
-genres: []
+first_released_as_single: false
 key: share-the-land-the-guess-who
 lyrics_url: https://genius.com/The-guess-who-share-the-land-lyrics
 name: Share The Land
@@ -47,6 +50,8 @@ rankings:
   rank: 30
   ranking_list: Billboard Hot 100
   start_date: '1970-12-26'
+release_year: 1970
+runtime: 235600
 ---
 Have you been around?
 Have you done your share of comin' down

@@ -1,8 +1,11 @@
 ---
+album: Lover
 artists:
 - Taylor Swift
+external_ids:
+  spotify: spotify:track:2dgFqt3w9xIQRjhPtwNk3D
 features: []
-genres: []
+first_released_as_single: false
 key: death-by-a-thousand-cuts-taylor-swift
 lyrics_url: https://www.azlyrics.com/lyrics/taylorswift/deathbyathousandcuts.html
 name: Death By A Thousand Cuts
@@ -11,8 +14,9 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '2019-09-07'
+release_year: 2019
+runtime: 198533
 ---
-
 My, my, my, my
 My, my, my, my
 My, my, my, my
@@ -81,6 +85,3 @@ But it wasn't enough, it wasn't enough, no, no
 I take the long way home
 I ask the traffic lights if it'll be alright
 They say, "I don't know"
-
-
-

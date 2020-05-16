@@ -1,8 +1,11 @@
 ---
+album: Danny's Song
 artists:
 - Anne Murray
+external_ids:
+  spotify: spotify:track:5lQxMlCMTzCj3j4vyzdl8T
 features: []
-genres: []
+first_released_as_single: false
 key: danny-s-song-anne-murray
 lyrics_url: https://genius.com/Anne-murray-dannys-song-lyrics
 name: Danny's Song
@@ -79,6 +82,8 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '1973-05-05'
+release_year: 1973
+runtime: 188293
 ---
 People smile and tell me I'm the lucky one
 And we've just begun

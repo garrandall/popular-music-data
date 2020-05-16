@@ -1,8 +1,11 @@
 ---
+album: The Fame Monster
 artists:
 - Lady Gaga
+external_ids:
+  spotify: spotify:track:1pWZZfszgiDVIzbQLs50Cy
 features: []
-genres: []
+first_released_as_single: false
 key: speechless-lady-gaga
 lyrics_url: https://www.azlyrics.com/lyrics/ladygaga/speechless.html
 name: Speechless
@@ -11,8 +14,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2009-12-12'
+release_year: 2009
+runtime: 270826
 ---
-
 I can't believe what you said to me
 Last night we were alone
 You threw your hands up
@@ -93,6 +97,3 @@ You've left me speechless, so speechless
 Some men may follow me
 But you choose "death and company"
 Why you so speechless? Oh oh oh
-
-
-

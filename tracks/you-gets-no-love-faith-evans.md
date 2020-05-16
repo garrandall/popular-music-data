@@ -1,8 +1,11 @@
 ---
+album: Faithfully
 artists:
 - Faith Evans
+external_ids:
+  spotify: spotify:track:61kG6g3btiapbSVEj3D0Hb
 features: []
-genres: []
+first_released_as_single: false
 key: you-gets-no-love-faith-evans
 lyrics_url: https://genius.com/Faith-evans-you-gets-no-love-lyrics
 name: You Gets No Love
@@ -87,6 +90,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2002-02-16'
+release_year: 2001
+runtime: 241400
 ---
 I know it's not too ghetto
 I know it's not too ghetto

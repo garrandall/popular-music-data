@@ -1,8 +1,11 @@
 ---
+album: We've Got Tonight
 artists:
 - Kenny Rogers
+external_ids:
+  spotify: spotify:track:0PEhslheyHt2wuUiz7cYxW
 features: []
-genres: []
+first_released_as_single: false
 key: scarlet-fever-kenny-rogers
 lyrics_url: https://www.azlyrics.com/lyrics/kennyrogers/scarletfever.html
 name: Scarlet Fever
@@ -15,8 +18,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1983-08-27'
+release_year: 1983
+runtime: 240800
 ---
-
 I stood outside the Lucky Star
 Staring at the flashing sign
 It read: come on in and watch young
@@ -69,6 +73,3 @@ In my mind I still see her
 Out there dancing somewhere
 To another fool like me.
 Yes, I get...
-
-
-

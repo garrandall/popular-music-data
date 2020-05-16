@@ -1,8 +1,11 @@
 ---
+album: Overloaded
 artists:
 - Sugababes
+external_ids:
+  spotify: spotify:track:2icpXUdhbKPNXRJD7lPmXX
 features: []
-genres: []
+first_released_as_single: true
 key: hole-in-the-head-sugababes
 lyrics_url: https://www.azlyrics.com/lyrics/sugababes/holeinthehead.html
 name: Hole In The Head
@@ -15,8 +18,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2004-06-19'
+release_year: 2003
+runtime: 217760
 ---
-
 Seven hours since you went away
 Eleven coffees, Rickki Lake on play
 But late at night when I'm feeling blue
@@ -115,6 +119,3 @@ And it's cool boy (yeah it's cool)
 And oh, bet you never thought I'd get out of bed
 Because of you boy, (I do boy)
 Such a fool boy (such a fool)
-
-
-

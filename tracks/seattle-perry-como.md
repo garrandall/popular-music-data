@@ -1,8 +1,11 @@
 ---
+album: Seattle
 artists:
 - Perry Como
+external_ids:
+  spotify: spotify:track:2QE7qseQn51okNLz0lSfMW
 features: []
-genres: []
+first_released_as_single: false
 key: seattle-perry-como
 lyrics_url: https://genius.com/Perry-como-seattle-lyrics
 name: Seattle
@@ -47,6 +50,8 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1969-06-14'
+release_year: 1969
+runtime: 169693
 ---
 The bluest skies you've ever seen are in Seattle
 And the hills the greenest green in Seattle

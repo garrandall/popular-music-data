@@ -1,7 +1,8 @@
 ---
 artists:
-- El DeBarge With DeBarge
-features: []
+- El DeBarge
+features:
+- DeBarge
 genres: []
 key: the-heart-is-not-so-smart-el-debarge-with-debarge
 name: The Heart Is Not So Smart

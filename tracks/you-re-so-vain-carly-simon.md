@@ -1,8 +1,11 @@
 ---
+album: No Secrets
 artists:
 - Carly Simon
+external_ids:
+  spotify: spotify:track:2DnJjbjNTV9Nd5NOa1KGba
 features: []
-genres: []
+first_released_as_single: false
 key: you-re-so-vain-carly-simon
 lyrics_url: https://genius.com/Carly-simon-youre-so-vain-lyrics
 name: You're So Vain
@@ -75,6 +78,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1973-03-24'
+release_year: 1972
+runtime: 258411
 ---
 Son of a gun
 

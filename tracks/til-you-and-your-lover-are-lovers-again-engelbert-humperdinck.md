@@ -1,8 +1,11 @@
 ---
+album: Super Hits
 artists:
 - Engelbert Humperdinck
+external_ids:
+  spotify: spotify:track:79kSICGWZBR9LPf70HqN6N
 features: []
-genres: []
+first_released_as_single: false
 key: til-you-and-your-lover-are-lovers-again-engelbert-humperdinck
 lyrics_url: https://genius.com/Engelbert-humperdinck-til-you-and-your-lover-are-lovers-again-lyrics
 name: Til You And Your Lover Are Lovers Again
@@ -27,6 +30,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1983-08-13'
+release_year: 1980
+runtime: 217266
 ---
 I see your hand with no wedding band
 But I can still see where it's been

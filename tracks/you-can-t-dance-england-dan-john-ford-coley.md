@@ -1,9 +1,12 @@
 ---
+album: Some Things Don't Come Easy
 artists:
 - England Dan
 - John Ford Coley
+external_ids:
+  spotify: spotify:track:1t4V9Pxd34gYDMtkv3sBmA
 features: []
-genres: []
+first_released_as_single: false
 key: you-can-t-dance-england-dan-john-ford-coley
 lyrics_url: https://genius.com/England-dan-and-john-ford-coley-you-cant-dance-lyrics
 name: You Can't Dance
@@ -40,6 +43,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1978-07-22'
+release_year: 1978
+runtime: 179613
 ---
 We were playin' in a club uptown
 We were tryin' to get up, they kept pullin' us down

@@ -1,8 +1,11 @@
 ---
+album: Wild Cherry
 artists:
 - Wild Cherry
+external_ids:
+  spotify: spotify:track:4qE2MphVHtBglZY0LYqE1e
 features: []
-genres: []
+first_released_as_single: false
 key: hold-on-wild-cherry
 lyrics_url: https://genius.com/Wild-cherry-hold-on-lyrics
 name: Hold On
@@ -31,6 +34,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1977-10-08'
+release_year: 1976
+runtime: 249000
 ---
 Don't want no cloudy morning
 Won't you hear what I say?

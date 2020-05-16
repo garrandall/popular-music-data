@@ -1,8 +1,11 @@
 ---
+album: Indestructible
 artists:
 - Disturbed
+external_ids:
+  spotify: spotify:track:5cxp9kjCFyJwzv3lzeX7ku
 features: []
-genres: []
+first_released_as_single: false
 key: inside-the-fire-disturbed
 lyrics_url: https://genius.com/Disturbed-inside-the-fire-lyrics
 name: Inside The Fire
@@ -67,6 +70,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2008-07-26'
+release_year: 2008
+runtime: 231573
 ---
 Devon won't go to heaven
 She's just another lost soul about to be mine again

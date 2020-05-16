@@ -1,8 +1,11 @@
 ---
+album: KOD
 artists:
 - J. Cole
+external_ids:
+  spotify: spotify:track:7gUfvxe3RmJlaUztHqzJan
 features: []
-genres: []
+first_released_as_single: false
 key: brackets-j--cole
 lyrics_url: https://www.azlyrics.com/lyrics/jcole/brackets.html
 name: Brackets
@@ -11,8 +14,9 @@ rankings:
   rank: 30
   ranking_list: Billboard Hot 100
   start_date: '2018-05-05'
+release_year: 2018
+runtime: 315771
 ---
-
 Lotta shit happens, like, being in show business
 A lot of shit happens, like, like, I make a lot of money, you know
 And I'm really happy about it
@@ -95,6 +99,3 @@ She remember that she gotta file her taxes, damn
 (Whoa whoa whoa whoa, yeah, yeah, yeah, yeah)
 (Whoa whoa whoa whoa, yeah, yeah, yeah, yeah)
 (Whoa whoa whoa whoa, yeah, yeah, yeah, yeah)
-
-
-

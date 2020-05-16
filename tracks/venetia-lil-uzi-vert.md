@@ -1,8 +1,11 @@
 ---
+album: Eternal Atake
 artists:
 - Lil Uzi Vert
+external_ids:
+  spotify: spotify:track:3BYIzNZ3t9lRQCACXSMLrT
 features: []
-genres: []
+first_released_as_single: false
 key: venetia-lil-uzi-vert
 lyrics_url: https://www.azlyrics.com/lyrics/liluzivert/venetia.html
 name: Venetia
@@ -11,8 +14,9 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '2020-03-21'
+release_year: 2020
+runtime: 188800
 ---
-
 Lil Uzi Vert, to be exact (Oh)
 And I'm not from earth, I'm from outer space (Woah, let's go)
 And I'm different (Uh), I'm wavy
@@ -79,6 +83,3 @@ It's not for me, no, it's just for my mans, yeah, yeah (Just for my mans)
 And I'ma just play with her pussy, yeah, as fast as I can, yeah, yeah (As fast as I can)
 I'ma just count these racks, yeah, as fast as I can, yeah, yeah (As fast as I can)
 I ain't never trust no bitch, I ain't never trust no man, yeah, yeah (What?)
-
-
-

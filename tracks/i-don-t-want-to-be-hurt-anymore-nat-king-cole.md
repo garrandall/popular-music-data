@@ -1,8 +1,11 @@
 ---
+album: I Don't Want To Be Hurt Anymore
 artists:
 - Nat King Cole
+external_ids:
+  spotify: spotify:track:72plKUMMWddDvYDVMqk4Nl
 features: []
-genres: []
+first_released_as_single: false
 key: i-don-t-want-to-be-hurt-anymore-nat-king-cole
 lyrics_url: https://genius.com/Nat-king-cole-i-dont-want-to-be-hurt-anymore-lyrics
 name: I Don't Want To Be Hurt Anymore
@@ -43,6 +46,8 @@ rankings:
   rank: 36
   ranking_list: Billboard Hot 100
   start_date: '1964-06-20'
+release_year: 1964
+runtime: 149000
 ---
 I don't want to be hurt anymore
 By a part-time love affair

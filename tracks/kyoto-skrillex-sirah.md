@@ -1,9 +1,12 @@
 ---
+album: 'Big Beat Yearbook: 2012'
 artists:
 - Skrillex
+external_ids:
+  spotify: spotify:track:3FUZpoj9VV0sgc8RqbS3xQ
 features:
 - Sirah
-genres: []
+first_released_as_single: true
 key: kyoto-skrillex-sirah
 lyrics_url: https://www.azlyrics.com/lyrics/skrillex/kyoto.html
 name: Kyoto
@@ -24,8 +27,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2012-02-11'
+release_year: 2011
+runtime: 200786
 ---
-
 Big white girl, don't let her bite your dick off 
 
 Bass make that bitch cum
@@ -56,7 +60,4 @@ Big white girl, don't let her bite your dick off
 
 Bass makes that bitch cum!
 
-Big white girl, don't let her bite your dick off 
-
-
-
+Big white girl, don't let her bite your dick off

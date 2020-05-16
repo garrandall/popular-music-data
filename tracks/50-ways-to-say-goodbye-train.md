@@ -1,8 +1,11 @@
 ---
+album: California 37
 artists:
 - Train
+external_ids:
+  spotify: spotify:track:2NniAhAtkRACaMeYt48xlD
 features: []
-genres: []
+first_released_as_single: false
 key: 50-ways-to-say-goodbye-train
 lyrics_url: https://www.azlyrics.com/lyrics/train/50waystosaygoodbye.html
 name: 50 Ways To Say Goodbye
@@ -87,8 +90,9 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '2012-12-08'
+release_year: 2012
+runtime: 247946
 ---
-
 My heart is paralyzed
 My head was oversized
 I'll take the high road like I should
@@ -152,6 +156,3 @@ Drowned in a hot tub
 Danced to death at an east side night club
 Help me, help me, I'm all out of lies
 And ways to say you died
-
-
-

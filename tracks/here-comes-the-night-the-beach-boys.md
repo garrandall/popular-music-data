@@ -1,8 +1,11 @@
 ---
+album: Wild Honey
 artists:
 - The Beach Boys
+external_ids:
+  spotify: spotify:track:1mhEO0pQNj8OwBk7UULAY4
 features: []
-genres: []
+first_released_as_single: false
 key: here-comes-the-night-the-beach-boys
 lyrics_url: https://genius.com/The-beach-boys-here-comes-the-night-lyrics
 name: Here Comes The Night
@@ -39,6 +42,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1979-04-21'
+release_year: 1967
+runtime: 163826
 ---
 My heart was breaking
 Till you started making me

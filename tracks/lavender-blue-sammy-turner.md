@@ -1,8 +1,11 @@
 ---
+album: Paradise
 artists:
 - Sammy Turner
+external_ids:
+  spotify: spotify:track:2AUqxK9i6CdUIha7C7x9x1
 features: []
-genres: []
+first_released_as_single: false
 key: lavender-blue-sammy-turner
 lyrics_url: https://genius.com/Sammy-turner-lavender-blue-lyrics
 name: Lavender-Blue
@@ -79,6 +82,8 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1959-10-19'
+release_year: 1959
+runtime: 141000
 ---
 Lavender blue
 Dilly-dilly

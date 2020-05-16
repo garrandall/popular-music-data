@@ -1,8 +1,11 @@
 ---
+album: All The Hits By Joe Fagan
 artists:
 - Joe Fagin
+external_ids:
+  spotify: spotify:track:7Jtb2bUvQaT7exWSCAkm6X
 features: []
-genres: []
+first_released_as_single: false
 key: younger-days-joe-fagin
 lyrics_url: https://www.musixmatch.com/lyrics/Joe-Fagin/Younger-Days
 name: Younger Days
@@ -19,6 +22,8 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '1982-08-14'
+release_year: 1982
+runtime: 198639
 ---
 Some of the old gang
 We still keep in touch

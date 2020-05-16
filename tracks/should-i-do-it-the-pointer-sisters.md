@@ -1,8 +1,11 @@
 ---
+album: Black & White
 artists:
 - The Pointer Sisters
+external_ids:
+  spotify: spotify:track:4aloxog6eatkPa34BFmj8G
 features: []
-genres: []
+first_released_as_single: false
 key: should-i-do-it-the-pointer-sisters
 lyrics_url: https://www.azlyrics.com/lyrics/pointersisters/shouldidoit.html
 name: Should I Do It
@@ -71,8 +74,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1982-05-08'
+release_year: 1981
+runtime: 231600
 ---
-
 I swore when he hurt me so
 I wouldn't see him anymore
 But today he called my name
@@ -137,6 +141,3 @@ Should I do it? Should I do it?
 
 Should I do it? Should I do it?
 Should I do it? Should I do it?
-
-
-

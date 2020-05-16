@@ -1,8 +1,11 @@
 ---
+album: Damn Country Music
 artists:
 - Tim McGraw
+external_ids:
+  spotify: spotify:track:4Pn0JlCUusD2QHjADuOzuV
 features: []
-genres: []
+first_released_as_single: false
 key: humble-and-kind-tim-mcgraw
 lyrics_url: https://www.azlyrics.com/lyrics/timmcgraw/humbleandkind.html
 name: Humble And Kind
@@ -87,8 +90,9 @@ rankings:
   rank: 52
   ranking_list: Billboard Hot 100
   start_date: '2016-07-09'
+release_year: 2015
+runtime: 259266
 ---
-
 You know there's a light that glows by the front door
 Don't forget the key's under the mat
 When childhood stars shine
@@ -136,6 +140,3 @@ Don't take for granted the love this life gives you
 When you get where you're going don't forget turn back around
 And help the next one in line
 Always stay humble and kind
-
-
-

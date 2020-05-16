@@ -1,8 +1,11 @@
 ---
+album: Wednesday Morning, 3 A.M.
 artists:
 - Simon & Garfunkel
+external_ids:
+  spotify: spotify:track:0g4EqkvvfN78Qop0flCs8K
 features: []
-genres: []
+first_released_as_single: false
 key: the-sound-of-silence-simon-garfunkel
 lyrics_url: https://www.musixmatch.com/lyrics/Simon-Garfunkel/The-Sound-of-Silence
 name: The Sound Of Silence
@@ -63,6 +66,8 @@ rankings:
   rank: 33
   ranking_list: Billboard Hot 100
   start_date: '1966-02-19'
+release_year: 1959
+runtime: 185200
 ---
 Hello, darkness, my old friend
 I've come to talk with you again

@@ -1,9 +1,12 @@
 ---
+album: Out The Mud
 artists:
 - Lil Baby
+external_ids:
+  spotify: spotify:track:2wZjsbwmWfNVslgV5afl1L
 features:
 - Future
-genres: []
+first_released_as_single: true
 key: out-the-mud-lil-baby-future
 lyrics_url: https://www.azlyrics.com/lyrics/lilbaby/outthemud.html
 name: Out The Mud
@@ -20,8 +23,9 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '2019-07-20'
+release_year: 2019
+runtime: 157816
 ---
-
 (Cook that shit up Quay!)
 (Lil Baby)
 
@@ -72,6 +76,3 @@ I just bought a bust down, can't wait to hold it up
 All these Perks won't stay down, I keep on throwing up
 Gang ain't gonna play with him, he did it all for love
 I feel like it's different when you got it out the mud
-
-
-

@@ -1,9 +1,12 @@
 ---
+album: The Bigger Artist
 artists:
 - A Boogie Wit da Hoodie
+external_ids:
+  spotify: spotify:track:1f5cbQtDrykjarZVrShaDI
 features:
 - Kodak Black
-genres: []
+first_released_as_single: false
 key: drowning-a-boogie-wit-da-hoodie-kodak-black
 lyrics_url: https://genius.com/A-boogie-wit-da-hoodie-drowning-lyrics
 name: Drowning
@@ -92,6 +95,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '2017-09-09'
+release_year: 2017
+runtime: 209269
 ---
 I'm drownin'
 I'm drownin'

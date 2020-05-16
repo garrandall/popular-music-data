@@ -1,9 +1,12 @@
 ---
+album: Shawn Mendes
 artists:
 - Shawn Mendes
+external_ids:
+  spotify: spotify:track:732iQF09gPlc32IlBGoXvv
 features:
 - Khalid
-genres: []
+first_released_as_single: true
 key: youth-shawn-mendes-khalid
 lyrics_url: https://genius.com/Genius-traducciones-al-espanol-shawn-mendes-youth-ft-khalid-traduccion-al-espanol-lyrics
 name: Youth
@@ -16,6 +19,8 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '2018-06-09'
+release_year: 2018
+runtime: 189946
 ---
 Aquí estoy, atrapado en este sofá desplazándose a través de mis notas
 Corazón roto aún sin arreglarse, nah

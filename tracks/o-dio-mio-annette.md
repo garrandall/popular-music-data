@@ -1,8 +1,11 @@
 ---
+album: Italiannette
 artists:
 - Annette
+external_ids:
+  spotify: spotify:track:6kFmfcqpy1ok5wfls2yCtZ
 features: []
-genres: []
+first_released_as_single: false
 key: o-dio-mio-annette
 lyrics_url: https://www.musixmatch.com/lyrics/Annette-Funicello/O-Dio-Mio
 name: O Dio Mio
@@ -55,6 +58,8 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '1960-05-09'
+release_year: 1960
+runtime: 171426
 ---
 O Dio Mio, please let him know
 How much I need him

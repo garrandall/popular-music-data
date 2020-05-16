@@ -1,8 +1,11 @@
 ---
+album: Album
 artists:
 - Joan Jett & the Blackhearts
+external_ids:
+  spotify: spotify:track:5kvMLw3iuA2dHH7FLFDgsM
 features: []
-genres: []
+first_released_as_single: false
 key: fake-friends-joan-jett-the-blackhearts
 lyrics_url: https://www.azlyrics.com/lyrics/joanjettandtheblackhearts/fakefriends.html
 name: Fake Friends
@@ -47,8 +50,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1983-09-10'
+release_year: 1983
+runtime: 204413
 ---
-
 When you were down they were never there
 When you're all alone you really get to learn
 If you get back up they gonna come around
@@ -77,8 +81,3 @@ Ya notice ya been losin friends
 Losin friends, losin friends
 Ya got nothin to lose
 Ya don't lose when you lose fake friends
-
-
-
-
-

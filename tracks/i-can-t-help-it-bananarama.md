@@ -1,8 +1,11 @@
 ---
+album: Wow !
 artists:
 - Bananarama
+external_ids:
+  spotify: spotify:track:3rpjb7tVekteT7iBeRzI5W
 features: []
-genres: []
+first_released_as_single: false
 key: i-can-t-help-it-bananarama
 lyrics_url: https://www.musixmatch.com/lyrics/Bananarama/I-Can-t-Help-It
 name: I Can't Help It
@@ -59,6 +62,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1988-02-13'
+release_year: 1987
+runtime: 210732
 ---
 Sugar's sweet but your kisses can't be beat
 Whatever you got, it's good enough for me

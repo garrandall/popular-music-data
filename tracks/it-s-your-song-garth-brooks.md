@@ -1,8 +1,11 @@
 ---
+album: A Salute To Garth Brooks
 artists:
 - Garth Brooks
+external_ids:
+  spotify: spotify:track:6bN76nfG3y4W27wtS0Rm2y
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-your-song-garth-brooks
 lyrics_url: https://www.azlyrics.com/lyrics/garthbrooks/itsyoursong.html
 name: It's Your Song
@@ -27,10 +30,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1999-01-02'
+release_year: 1998
+runtime: 238960
 ---
-
-
-
 Standing in the spotlight
 On such a perfect night
 Knowing that your out there listening
@@ -77,6 +79,3 @@ This place where I belong
 It was your song
 It was your song
 It's always been your song
-
-
-

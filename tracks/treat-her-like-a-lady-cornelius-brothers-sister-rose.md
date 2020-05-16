@@ -1,9 +1,12 @@
 ---
+album: The Story Of Cornelius Brothers & Sister Rose
 artists:
 - Cornelius Brothers
 - Sister Rose
+external_ids:
+  spotify: spotify:track:75t6tcHkZDFKLKJwjXFMtq
 features: []
-genres: []
+first_released_as_single: false
 key: treat-her-like-a-lady-cornelius-brothers-sister-rose
 lyrics_url: https://genius.com/Cornelius-brothers-and-sister-rose-treat-her-like-a-lady-lyrics
 name: Treat Her Like A Lady
@@ -80,6 +83,8 @@ rankings:
   rank: 26
   ranking_list: Billboard Hot 100
   start_date: '1971-08-07'
+release_year: 1971
+runtime: 160360
 ---
 All my friends had to ask me
 Something they didn't understand

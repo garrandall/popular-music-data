@@ -1,8 +1,11 @@
 ---
+album: Face To Face With The Truth
 artists:
 - The Undisputed Truth
+external_ids:
+  spotify: spotify:track:5iwSn79TFeU8e8FhlMdAjt
 features: []
-genres: []
+first_released_as_single: false
 key: what-it-is-the-undisputed-truth
 lyrics_url: https://genius.com/The-undisputed-truth-what-it-is-lyrics
 name: What It Is
@@ -27,6 +30,8 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '1972-03-25'
+release_year: 1971
+runtime: 296666
 ---
 What it is, what it is, somebody tell me
 What it is, what it is, sure is funky

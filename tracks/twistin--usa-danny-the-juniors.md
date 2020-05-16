@@ -1,9 +1,12 @@
 ---
+album: For Cool Grandkids Everywhere
 artists:
 - Danny
 - The Juniors
+external_ids:
+  spotify: spotify:track:7HdpSJmQ0b2qIV1MfkaPpM
 features: []
-genres: []
+first_released_as_single: true
 key: twistin--usa-danny-the-juniors
 lyrics_url: https://genius.com/Danny-and-the-juniors-twistin-usa-lyrics
 name: Twistin' USA
@@ -44,6 +47,8 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '1960-11-14'
+release_year: 1960
+runtime: 148088
 ---
 CC Everybody Twist
 They're Twistin' In Cleveland in Kansas City too
@@ -69,7 +74,7 @@ Group From Boston to LA
 CC Don't cha know they're
 Group Twistin' U.S.A
 CC Yeah Yeah
-(Instrumental)
+
 CC Yeah The Shimmy in Charlotte
 They Shake in Baltimore
 In Detroit and Dallas

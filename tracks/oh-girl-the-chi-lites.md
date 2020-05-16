@@ -1,8 +1,11 @@
 ---
+album: Back to Back
 artists:
 - The Chi-lites
+external_ids:
+  spotify: spotify:track:1pvzYCNrkUZXnaCC7LH1e1
 features: []
-genres: []
+first_released_as_single: false
 key: oh-girl-the-chi-lites
 lyrics_url: https://genius.com/The-chi-lites-oh-girl-lyrics
 name: Oh Girl
@@ -67,6 +70,8 @@ rankings:
   rank: 36
   ranking_list: Billboard Hot 100
   start_date: '1972-07-15'
+release_year: 1972
+runtime: 290066
 ---
 Oh, girl
 I'd be in trouble if you left me now

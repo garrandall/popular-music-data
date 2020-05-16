@@ -1,8 +1,11 @@
 ---
+album: 'Greatest Hits: Jack Jones'
 artists:
 - Jack Jones
+external_ids:
+  spotify: spotify:track:41HVXlT0SYKg1kZU9znTBS
 features: []
-genres: []
+first_released_as_single: false
 key: love-with-the-proper-stranger-jack-jones
 lyrics_url: https://genius.com/Jack-jones-love-with-the-proper-stranger-lyrics
 name: Love With The Proper Stranger
@@ -39,6 +42,8 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '1964-04-04'
+release_year: 1964
+runtime: 146000
 ---
 I could fall in love with the proper stranger
 If I heard the bells and the banjos ring

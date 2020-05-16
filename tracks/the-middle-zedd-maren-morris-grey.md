@@ -1,10 +1,13 @@
 ---
+album: The Middle
 artists:
 - Zedd
 - Maren Morris
 - Grey
+external_ids:
+  spotify: spotify:track:09IStsImFySgyp0pIQdqAc
 features: []
-genres: []
+first_released_as_single: true
 key: the-middle-zedd-maren-morris-grey
 lyrics_url: https://www.azlyrics.com/lyrics/zedd/themiddle.html
 name: The Middle
@@ -169,8 +172,9 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '2018-11-10'
+release_year: 2018
+runtime: 184732
 ---
-
 Take a seat
 Right over there, sat on the stairs
 Stay or leave
@@ -237,6 +241,3 @@ Why don't you just meet me in the middle, baby
 I'm losing my mind just a little
 So why don't you just meet me in the middle, middle
 In the middle, middle
-
-
-

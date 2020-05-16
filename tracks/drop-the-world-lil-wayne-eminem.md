@@ -1,9 +1,12 @@
 ---
+album: Rebirth
 artists:
 - Lil Wayne
+external_ids:
+  spotify: spotify:track:3e21cX0CVwzkQXiHz7WUQZ
 features:
 - Eminem
-genres: []
+first_released_as_single: false
 key: drop-the-world-lil-wayne-eminem
 lyrics_url: https://www.azlyrics.com/lyrics/lilwayne/droptheworld.html
 name: Drop The World
@@ -88,9 +91,9 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '2010-05-29'
+release_year: 2009
+runtime: 229226
 ---
-
-
 I got ice in my veins, blood in my eyes
 Hate in my heart, love in my mind
 I seen nights full of pain, days are the same
@@ -155,4 +158,3 @@ I'm unstoppable, Incredible Hulk; you're trapped in my medicine ball
 I could run circles around you so fast
 Your fuckin' head'll spin, dogg
 I'll split your cabbage and your lettuce and olives, I'll fuckin'
-

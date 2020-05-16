@@ -1,8 +1,11 @@
 ---
+album: 'On The Air: Her Best TV Performances'
 artists:
 - Patsy Cline
+external_ids:
+  spotify: spotify:track:6pAC2CLNbVBZ10BlhqXw3y
 features: []
-genres: []
+first_released_as_single: false
 key: imagine-that-patsy-cline
 lyrics_url: https://www.azlyrics.com/lyrics/patsycline/imaginethat.html
 name: Imagine That
@@ -15,8 +18,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1962-05-19'
+release_year: 1962
+runtime: 175506
 ---
-
 Imagine me still lovin' you
 After all you've put me through
 Well I can't help it, I just do
@@ -45,6 +49,3 @@ It just don't matter what you might do
 'Cause I'll still be waitin' and lovin' you
 Imagine that
 Ha A... Ain't that a laugh...
-
-
-

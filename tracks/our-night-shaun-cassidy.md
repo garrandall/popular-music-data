@@ -1,8 +1,11 @@
 ---
+album: Under Wraps
 artists:
 - Shaun Cassidy
+external_ids:
+  spotify: spotify:track:3xXboHy3gnudd0trpcH3Vh
 features: []
-genres: []
+first_released_as_single: false
 key: our-night-shaun-cassidy
 lyrics_url: https://genius.com/Shaun-cassidy-our-night-lyrics
 name: Our Night
@@ -19,6 +22,8 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '1978-09-23'
+release_year: 1978
+runtime: 251797
 ---
 Bet you've got a lot of lovers
 Bet I'm not the only one

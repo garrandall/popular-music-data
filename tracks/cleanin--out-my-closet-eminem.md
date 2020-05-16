@@ -1,8 +1,11 @@
 ---
+album: The Eminem Show
 artists:
 - Eminem
+external_ids:
+  spotify: spotify:track:7BMO7O7ImjV8HNTH74Tshv
 features: []
-genres: []
+first_released_as_single: false
 key: cleanin--out-my-closet-eminem
 lyrics_url: https://www.azlyrics.com/lyrics/eminem/cleaninoutmycloset.html
 name: Cleanin' Out My Closet
@@ -87,8 +90,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2002-12-14'
+release_year: 2002
+runtime: 297840
 ---
-
 Where's my snare?
 I have no snare in my headphones. There you go
 Yeah... yo, yo
@@ -181,6 +185,3 @@ I said I'm sorry mama!
 I never meant to hurt you!
 I never meant to make you cry, but tonight
 I'm cleaning out my closet
-
-
-

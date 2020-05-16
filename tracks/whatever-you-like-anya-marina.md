@@ -1,8 +1,11 @@
 ---
+album: Mellow Drive
 artists:
 - Anya Marina
+external_ids:
+  spotify: spotify:track:5qX2ZJoLEyFCTAdaCqUo7s
 features: []
-genres: []
+first_released_as_single: true
 key: whatever-you-like-anya-marina
 lyrics_url: https://www.azlyrics.com/lyrics/anyamarina/whateveryoulike.html
 name: Whatever You Like
@@ -11,8 +14,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2009-11-28'
+release_year: 2009
+runtime: 228907
 ---
-
 Stacks on deck, PatrÃ³n on ice
 We can pop bottles all night
 Baby, you can have whatever you like
@@ -81,6 +85,3 @@ Wherever you like
 You can go wherever you like
 Wherever you like
 Wherever you like
-
-
-

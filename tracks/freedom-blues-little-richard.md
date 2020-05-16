@@ -1,8 +1,11 @@
 ---
+album: The Rill Thing
 artists:
 - Little Richard
+external_ids:
+  spotify: spotify:track:0SlZnW5GAkl19RiQ6rkkwb
 features: []
-genres: []
+first_released_as_single: false
 key: freedom-blues-little-richard
 lyrics_url: https://www.azlyrics.com/lyrics/littlerichard/freedomblues.html
 name: Freedom Blues
@@ -43,8 +46,9 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '1970-07-18'
+release_year: 1970
+runtime: 180960
 ---
-
 I hope that I should live to see,
 When every man can know he's free.
 Sufferin' from the past.
@@ -82,6 +86,3 @@ La-la, la-da-da-da.
 La-la, la-da da-da.
 La-la, la-da-da-da.
 La-la, la-da da-da.
-
-
-

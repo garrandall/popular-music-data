@@ -1,8 +1,11 @@
 ---
+album: Madonna (Reissue)
 artists:
 - Madonna
+external_ids:
+  spotify: spotify:track:49ul7T6QlHsbnwYYNXE87O
 features: []
-genres: []
+first_released_as_single: false
 key: holiday-madonna
 lyrics_url: https://www.azlyrics.com/lyrics/madonna/holiday.html
 name: Holiday
@@ -91,8 +94,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1984-03-17'
+release_year: 1979
+runtime: 231560
 ---
-
 Holiday Celebrate
 Holiday Celebrate
 
@@ -137,6 +141,3 @@ Holiday Celebrate
 
 Holiday, Celebration
 Come together in every nation
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: If You Need Me
 artists:
 - Solomon Burke
+external_ids:
+  spotify: spotify:track:0GKMdfHONzYlYEEBTKgvqa
 features: []
-genres: []
+first_released_as_single: false
 key: if-you-need-me-solomon-burke
 lyrics_url: https://www.azlyrics.com/lyrics/solomonburke/ifyouneedme.html
 name: If You Need Me
@@ -51,8 +54,9 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1963-06-29'
+release_year: 1963
+runtime: 154613
 ---
-
 If you need me, I wantcha to call me
 Said if you need me, all ya gotta do is call me
 Don't wait too long if things go wrong
@@ -77,6 +81,3 @@ And I still love, love, always thinkin' of you
 Don't wait too long, just a pick up your phone
 And I'll hurry home (I'll hurry home)
 Right there, where I belong
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: 'Shaq-Fu: Da Return'
 artists:
 - Shaquille O'Neal
+external_ids:
+  spotify: spotify:track:6W1i2dXt0HZvw03rv6j8Tg
 features: []
-genres: []
+first_released_as_single: false
 key: biological-didn-t-bother-shaquille-o-neal
 lyrics_url: https://genius.com/Shaquille-oneal-biological-didnt-bother-lyrics
 name: Biological Didn't Bother
@@ -51,6 +54,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1995-02-04'
+release_year: 1994
+runtime: 307826
 ---
 Yo, Yo
 I want to dedicate this song to Philip Arthur Harrison

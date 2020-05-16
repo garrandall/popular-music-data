@@ -28,8 +28,6 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1980-06-21'
 ---
-(HARP & GUITAR INTRO)
-
 No tell yo' mama
 
 No telephone
@@ -76,10 +74,6 @@ Make you
 
 Take you
 
-(GUITAR SOLO)
-
-(SLIDE SOLO)
-
 No tell yo' mama
 
 No telephone
@@ -101,7 +95,3 @@ No tellin' baby when I take you
 Make you
 
 Take you
-
-(SLIDE SOLO)
-
-Lyrics are copyright 1980, Steve Cash, John Dillon & Larry Lee

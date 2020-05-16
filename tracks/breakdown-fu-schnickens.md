@@ -1,8 +1,11 @@
 ---
+album: Nervous Breakdown
 artists:
 - Fu-Schnickens
+external_ids:
+  spotify: spotify:track:30ddL5qZgnFlIQnqIFe9ir
 features: []
-genres: []
+first_released_as_single: false
 key: breakdown-fu-schnickens
 lyrics_url: https://genius.com/Fu-schnickens-breakdown-lyrics
 name: Breakdown
@@ -87,6 +90,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1995-03-04'
+release_year: 1992
+runtime: 249466
 ---
 Breakdown!
 

@@ -1,8 +1,11 @@
 ---
+album: Fields Of Fire
 artists:
 - Corey Hart
+external_ids:
+  spotify: spotify:track:6lZfmYCrkpHf89XZQ3UWcH
 features: []
-genres: []
+first_released_as_single: false
 key: can-t-help-falling-in-love-corey-hart
 lyrics_url: https://genius.com/Corey-hart-cant-help-falling-in-love-lyrics
 name: Can't Help Falling In Love
@@ -63,6 +66,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1987-03-14'
+release_year: 1986
+runtime: 205306
 ---
 Wise men say
 Only fools rush in

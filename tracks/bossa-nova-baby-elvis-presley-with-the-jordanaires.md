@@ -1,9 +1,12 @@
 ---
+album: Elvis At The Movies
 artists:
 - Elvis Presley
 - The Jordanaires
+external_ids:
+  spotify: spotify:track:2jQZPaGEGr3xwrOAbfkv66
 features: []
-genres: []
+first_released_as_single: false
 key: bossa-nova-baby-elvis-presley-with-the-jordanaires
 lyrics_url: https://www.musixmatch.com/lyrics/Elvis-Presley-and-The-Jordanaires/Bossa-Nova-Baby-2003-Sony-Remaster
 name: Bossa Nova Baby
@@ -48,6 +51,8 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '1963-12-21'
+release_year: 1963
+runtime: 122013
 ---
 I said, "Take it easy, baby
 I worked all day and my feet feel just like lead

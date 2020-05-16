@@ -1,8 +1,11 @@
 ---
+album: The Eminem Show
 artists:
 - Eminem
+external_ids:
+  spotify: spotify:track:4woTEX1wYOTGDqNXuavlRC
 features: []
-genres: []
+first_released_as_single: false
 key: superman-eminem
 lyrics_url: https://genius.com/Eminem-superman-lyrics
 name: Superman
@@ -71,6 +74,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2003-05-17'
+release_year: 2002
+runtime: 350320
 ---
 Mhmmm *inhales*
 You high, baby?

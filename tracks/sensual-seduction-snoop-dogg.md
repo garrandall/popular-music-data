@@ -1,8 +1,11 @@
 ---
+album: Ego Trippin'
 artists:
 - Snoop Dogg
+external_ids:
+  spotify: spotify:track:1wva1IlWLDNLgwipUWcmjy
 features: []
-genres: []
+first_released_as_single: true
 key: sensual-seduction-snoop-dogg
 lyrics_url: https://www.azlyrics.com/lyrics/snoopdogg/sensualseduction.html
 name: Sensual Seduction
@@ -87,8 +90,9 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '2008-04-26'
+release_year: 2007
+runtime: 245520
 ---
-
 I'm gonna take my time mmime!
 She gonna get hers before I
 I'm gonna take it slow...ow...oo...ow,
@@ -143,6 +147,3 @@ Sensual seduction-duction
 Sensual seduction-duction ohwhoa! oohhoa!
 Sensual seduction-duction duction
 Sensual seduction-duction ohwhoa
-
-
-

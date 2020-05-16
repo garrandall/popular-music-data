@@ -1,8 +1,11 @@
 ---
+album: Rock On
 artists:
 - David Essex
+external_ids:
+  spotify: spotify:track:7q3ZKf8iXMqeSn6PImmxuQ
 features: []
-genres: []
+first_released_as_single: false
 key: lamplight-david-essex
 lyrics_url: https://www.azlyrics.com/lyrics/davidessex/lamplight.html
 name: Lamplight
@@ -27,8 +30,9 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1974-06-29'
+release_year: 1973
+runtime: 175124
 ---
-
 I, sat down
 She gonna get a lamplight
 eh eh eh eh eh eh, eh
@@ -85,6 +89,3 @@ Wooh on me
 Mmm gonna shine on, me
 cha cha cha, on, me
 cha cha ha ha ha
-
-
-

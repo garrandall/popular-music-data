@@ -1,8 +1,11 @@
 ---
+album: See
 artists:
 - The Rascals
+external_ids:
+  spotify: spotify:track:5HOA2Vu2Su13uijEv7krb0
 features: []
-genres: []
+first_released_as_single: false
 key: carry-me-back-the-rascals
 lyrics_url: https://www.azlyrics.com/lyrics/rascals/carrymeback.html
 name: Carry Me Back
@@ -39,8 +42,9 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1969-10-25'
+release_year: 1969
+runtime: 173040
 ---
-
 Carry me back
 Carry me back
 Carry me back, I been away too long
@@ -80,6 +84,3 @@ Carry me back
 Carry me back
 Carry me back, I wanna get back home
 Take me back where I come from
-
-
-

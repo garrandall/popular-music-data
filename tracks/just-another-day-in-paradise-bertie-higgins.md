@@ -1,8 +1,11 @@
 ---
+album: Just Another Day in Paradise
 artists:
 - Bertie Higgins
+external_ids:
+  spotify: spotify:track:1FerGrTyGsT1KufVFVuvA4
 features: []
-genres: []
+first_released_as_single: false
 key: just-another-day-in-paradise-bertie-higgins
 lyrics_url: https://genius.com/Bertie-higgins-just-another-day-in-paradise-lyrics
 name: Just Another Day In Paradise
@@ -47,6 +50,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1982-07-03'
+release_year: 1982
+runtime: 236160
 ---
 The big cold city was such a lonely place to be
 Hustle all day and dream of the islands and sea

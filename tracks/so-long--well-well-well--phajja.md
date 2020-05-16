@@ -1,8 +1,11 @@
 ---
+album: Seize The Moment
 artists:
 - Phajja
+external_ids:
+  spotify: spotify:track:2p9tUKtO4z88fVIll5OCwx
 features: []
-genres: []
+first_released_as_single: false
 key: so-long--well-well-well--phajja
 lyrics_url: https://genius.com/Phajja-so-long-well-well-well-lyrics
 name: So Long (Well Well Well)
@@ -27,8 +30,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1998-03-21'
+release_year: 1997
+runtime: 262333
 ---
-
 When did you decide that you were leaving, boy?
 Hey, when did you stop believing
 In what we had?

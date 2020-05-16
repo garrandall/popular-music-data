@@ -1,8 +1,11 @@
 ---
+album: Thinkin' Problem
 artists:
 - David Ball
+external_ids:
+  spotify: spotify:track:7zE9E6iBKPCwCW6orDoY4X
 features: []
-genres: []
+first_released_as_single: false
 key: thinkin--problem-david-ball
 lyrics_url: https://genius.com/David-ball-thinkin-problem-lyrics
 name: Thinkin' Problem
@@ -55,6 +58,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1994-09-17'
+release_year: 1994
+runtime: 181133
 ---
 Yes, I admit I've got a thinkin' problem
 She's always on my mind

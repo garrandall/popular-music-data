@@ -1,8 +1,11 @@
 ---
+album: Completely Well
 artists:
 - B.B. King
+external_ids:
+  spotify: spotify:track:3mrrWFfuesBi5fswdz1Xxf
 features: []
-genres: []
+first_released_as_single: false
 key: so-excited-b-b--king
 lyrics_url: https://www.azlyrics.com/lyrics/bbking/soexcited.html
 name: So Excited
@@ -31,8 +34,9 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '1970-05-16'
+release_year: 1969
+runtime: 334493
 ---
-
 Oh, I'm so excited, think about you all the time 
 Yes I can't wait to see you baby 
 You really best of my mind 
@@ -66,6 +70,3 @@ You're so nice and lovin', everything you do is right
 I just can't wait, I can't wait baby 
 Can't wait for you hold me tight 
 You're so fine, wanna hold you all the time
-
-
-

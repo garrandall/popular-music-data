@@ -1,8 +1,11 @@
 ---
+album: Down in the Boondocks
 artists:
 - Billy Joe Royal
+external_ids:
+  spotify: spotify:track:6YUYgnSHC9lFOzMg1hHKCq
 features: []
-genres: []
+first_released_as_single: false
 key: i-knew-you-when-billy-joe-royal
 lyrics_url: https://genius.com/Billy-joe-royal-i-knew-you-when-lyrics
 name: I Knew You When
@@ -51,6 +54,8 @@ rankings:
   rank: 35
   ranking_list: Billboard Hot 100
   start_date: '1965-11-27'
+release_year: 1965
+runtime: 152226
 ---
 Yeah, yeah, yeah, yeah
 Yeah, yeah, yeah, yeah, yeah

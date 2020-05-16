@@ -1,8 +1,11 @@
 ---
+album: Riot!
 artists:
 - Paramore
+external_ids:
+  spotify: spotify:track:3VA4sjTMSTTF02hFGmlpJh
 features: []
-genres: []
+first_released_as_single: false
 key: crushcrushcrush-paramore
 lyrics_url: https://www.azlyrics.com/lyrics/paramore/crushcrushcrush.html
 name: crushcrushcrush
@@ -75,8 +78,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2008-04-19'
+release_year: 2007
+runtime: 189373
 ---
-
 I got a lot to say to you, yeah, I got a lot to say
 I notice your eyes are always glued to me
 You're keeping them here and it makes no sense at all
@@ -137,6 +141,3 @@ Let's be more than, more than this
 
 Ohoh ohoh ohoh
 Oh...
-
-
-

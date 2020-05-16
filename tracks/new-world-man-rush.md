@@ -1,8 +1,11 @@
 ---
+album: Signals
 artists:
 - Rush
+external_ids:
+  spotify: spotify:track:2l1AraumK6y3VUwi8Bw7iJ
 features: []
-genres: []
+first_released_as_single: false
 key: new-world-man-rush
 lyrics_url: https://genius.com/Rush-new-world-man-lyrics
 name: New World Man
@@ -55,6 +58,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1982-12-04'
+release_year: 1982
+runtime: 222320
 ---
 He's a rebel and a runner
 He's a signal turning green

@@ -1,8 +1,11 @@
 ---
+album: Ain't Nobody Worryin'
 artists:
 - Anthony Hamilton
+external_ids:
+  spotify: spotify:track:5ZvHhVIb92E9xskEX9unVl
 features: []
-genres: []
+first_released_as_single: true
 key: can-t-let-go-anthony-hamilton
 lyrics_url: https://genius.com/Anthony-hamilton-cant-let-go-lyrics
 name: Can't Let Go
@@ -83,6 +86,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2006-07-29'
+release_year: 2005
+runtime: 229893
 ---
 No matter what the people say
 I can't, I can't let go

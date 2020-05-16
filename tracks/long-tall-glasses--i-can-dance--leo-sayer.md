@@ -1,8 +1,11 @@
 ---
+album: Just A Boy
 artists:
 - Leo Sayer
+external_ids:
+  spotify: spotify:track:3AA2SafseoJo431Pee120g
 features: []
-genres: []
+first_released_as_single: false
 key: long-tall-glasses--i-can-dance--leo-sayer
 lyrics_url: https://www.azlyrics.com/lyrics/leosayer/longtallglasses.html
 name: Long Tall Glasses (I Can Dance)
@@ -67,8 +70,9 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '1975-05-31'
+release_year: 1974
+runtime: 190000
 ---
-
 I was travellin' down the road
 Feelin' hungry and cold
 I saw a sign sayin'
@@ -129,6 +133,3 @@ I can dance
 I can dance
 I can dance
 I can dance
-
-
-

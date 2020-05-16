@@ -1,8 +1,11 @@
 ---
+album: The Platters
 artists:
 - The Platters
+external_ids:
+  spotify: spotify:track:3YFVQ258Ll0yh4oZJNExuR
 features: []
-genres: []
+first_released_as_single: false
 key: remember-when-the-platters
 lyrics_url: https://genius.com/The-platters-remember-when-lyrics
 name: Remember When
@@ -43,6 +46,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1959-08-17'
+release_year: 1956
+runtime: 152066
 ---
 Remember when (dah-doot-doo-doo) I first met you (dah-doot-doo-doo)
 My lips were so afraid to say "I love you"

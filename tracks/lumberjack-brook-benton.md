@@ -1,8 +1,11 @@
 ---
+album: This Bitter Earth
 artists:
 - Brook Benton
+external_ids:
+  spotify: spotify:track:7ijsGsXIs2N44m7EncIyVo
 features: []
-genres: []
+first_released_as_single: false
 key: lumberjack-brook-benton
 lyrics_url: https://www.musixmatch.com/lyrics/Brook-Benton/Lumberjack
 name: Lumberjack
@@ -35,6 +38,8 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '1964-11-14'
+release_year: 1964
+runtime: 140373
 ---
 For my woman
 I was a lumberjack

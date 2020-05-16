@@ -1,8 +1,11 @@
 ---
+album: The Band Perry
 artists:
 - The Band Perry
+external_ids:
+  spotify: spotify:track:2khs94jHAVzUm3Pu4mAMmv
 features: []
-genres: []
+first_released_as_single: false
 key: all-your-life-the-band-perry
 lyrics_url: https://www.azlyrics.com/lyrics/bandperry/allyourlife.html
 name: All Your Life
@@ -99,8 +102,9 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '2012-02-25'
+release_year: 2010
+runtime: 231933
 ---
-
 Would you walk to the edge of the ocean
 Just to fill my jar with sand?
 Just in case I get the notion
@@ -139,6 +143,3 @@ You love all your life
 You love all your life
 Life
 Yeah
-
-
-

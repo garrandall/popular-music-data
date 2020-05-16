@@ -1,8 +1,11 @@
 ---
+album: Hotel Happiness
 artists:
 - Brook Benton
+external_ids:
+  spotify: spotify:track:54GlEfAJggAn1ix4Gf0jGR
 features: []
-genres: []
+first_released_as_single: false
 key: hotel-happiness-brook-benton
 lyrics_url: https://genius.com/Brook-benton-hotel-happiness-lyrics
 name: Hotel Happiness
@@ -55,6 +58,8 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '1963-02-09'
+release_year: 1962
+runtime: 153739
 ---
 I'm checking out of Hotel Loneliness
 All my lonely days, they're all through

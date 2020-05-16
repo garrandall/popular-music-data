@@ -1,8 +1,11 @@
 ---
+album: Ten
 artists:
 - Pearl Jam
+external_ids:
+  spotify: spotify:track:2qsulmQ81aHTbDgAWvtc7N
 features: []
-genres: []
+first_released_as_single: true
 key: jeremy-pearl-jam
 lyrics_url: https://www.azlyrics.com/lyrics/pearljam/jeremy.html
 name: Jeremy
@@ -43,8 +46,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1995-10-07'
+release_year: 1991
+runtime: 289626
 ---
-
 At home
 Drawing pictures
 Of mountain tops
@@ -97,6 +101,3 @@ Jeremy spoke in class today
 (spoke in) (spoke in)
 (spoke in) (spoke in)
 (spoke in) (spoke in)
-
-
-

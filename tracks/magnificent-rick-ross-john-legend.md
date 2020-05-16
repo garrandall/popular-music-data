@@ -1,9 +1,12 @@
 ---
+album: Deeper Than Rap
 artists:
 - Rick Ross
+external_ids:
+  spotify: spotify:track:2rz6VejmNOpW1alXsDERp1
 features:
 - John Legend
-genres: []
+first_released_as_single: false
 key: magnificent-rick-ross-john-legend
 lyrics_url: https://www.azlyrics.com/lyrics/rickross/magnificent.html
 name: Magnificent
@@ -52,8 +55,9 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2009-05-30'
+release_year: 2009
+runtime: 257480
 ---
-
 J.U.S.T.I.C.E. League
 
 It's Da Boss.
@@ -97,4 +101,3 @@ wear red all the time but really I'm colour blind, wanna catch my attention nigg
 One time for tha Crips, young g's buyin cribs and I smoke wit Vice Lords when I visit Mississip.
 The game never change, money still a focal, but its time to rape tha game like Puffy did Total,
 like Rev Run in the tub still smokin', in memory of Shakir, Boss gotta shout Oakland!
-

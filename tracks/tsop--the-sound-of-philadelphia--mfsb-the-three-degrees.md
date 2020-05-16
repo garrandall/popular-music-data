@@ -1,9 +1,12 @@
 ---
+album: International (Expanded)
 artists:
 - MFSB
+external_ids:
+  spotify: spotify:track:4e5sefeUfIofCaJDY3lUiT
 features:
 - The Three Degrees
-genres: []
+first_released_as_single: false
 key: tsop--the-sound-of-philadelphia--mfsb-the-three-degrees
 name: TSOP (The Sound Of Philadelphia)
 rankings:
@@ -79,5 +82,7 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '1974-06-29'
+release_year: 1974
+runtime: 349200
 ---
 

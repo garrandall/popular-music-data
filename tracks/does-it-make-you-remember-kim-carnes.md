@@ -1,8 +1,11 @@
 ---
+album: Voyeur
 artists:
 - Kim Carnes
+external_ids:
+  spotify: spotify:track:6qA9kMQq2jnNOiMonN8Lax
 features: []
-genres: []
+first_released_as_single: false
 key: does-it-make-you-remember-kim-carnes
 lyrics_url: https://www.azlyrics.com/lyrics/kimcarnes/doesitmakeyouremember.html
 name: Does It Make You Remember
@@ -59,8 +62,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1983-01-29'
+release_year: 1982
+runtime: 309520
 ---
-
 I've heard talk goin' round about you
 They say you've taken up with somebody new
 And they say you're still crazy
@@ -112,6 +116,3 @@ Does it make you remember
 Someone is waiting
 Waiting for you
 Someone is waiting for you
-
-
-

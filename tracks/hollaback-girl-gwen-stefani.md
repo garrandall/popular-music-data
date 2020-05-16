@@ -1,8 +1,11 @@
 ---
+album: Love Angel Music Baby (Deluxe Version)
 artists:
 - Gwen Stefani
+external_ids:
+  spotify: spotify:track:0LzrhCZFXW94Y8nwtTuRlw
 features: []
-genres: []
+first_released_as_single: false
 key: hollaback-girl-gwen-stefani
 lyrics_url: https://genius.com/Gwen-stefani-hollaback-girl-lyrics
 name: Hollaback Girl
@@ -131,6 +134,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '2005-10-29'
+release_year: 2004
+runtime: 199853
 ---
 Uh-huh, this my shit
 All the girls stomp your feet like this

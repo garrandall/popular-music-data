@@ -1,8 +1,11 @@
 ---
+album: Golden Hits
 artists:
 - Roger Miller
+external_ids:
+  spotify: spotify:track:5ziTsuMsqSS5lbOfGboeCO
 features: []
-genres: []
+first_released_as_single: false
 key: do-wacka-do-roger-miller
 lyrics_url: https://www.azlyrics.com/lyrics/rogermiller/dowackado.html
 name: Do-Wacka-Do
@@ -39,8 +42,9 @@ rankings:
   rank: 35
   ranking_list: Billboard Hot 100
   start_date: '1965-01-16'
+release_year: 1964
+runtime: 105573
 ---
-
 I hear tell you're doin' well,
 Good thing have come to you.
 I wish I had your happiness
@@ -76,6 +80,3 @@ Good things have come to you.
 I wish I had your good-luck charm
 And you had a do-wacka-do,
 Wacka do, wacka-do, wacka-do.
-
-
-

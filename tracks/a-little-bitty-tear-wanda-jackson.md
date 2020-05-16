@@ -1,8 +1,11 @@
 ---
+album: Wonderful Wanda
 artists:
 - Wanda Jackson
+external_ids:
+  spotify: spotify:track:3Cf8XIKUrzWE5qWELiio3N
 features: []
-genres: []
+first_released_as_single: false
 key: a-little-bitty-tear-wanda-jackson
 lyrics_url: https://www.musixmatch.com/lyrics/Wanda-Jackson/A-Little-Bitty-Tear
 name: A Little Bitty Tear
@@ -19,6 +22,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1962-02-03'
+release_year: 1962
+runtime: 139320
 ---
 When you said you were leaving tomorrow
 That today was our last day

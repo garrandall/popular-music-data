@@ -1,8 +1,11 @@
 ---
+album: Cannibal
 artists:
 - Kesha
+external_ids:
+  spotify: spotify:track:1YcOjtjiwwiwlrzmeueQ45
 features: []
-genres: []
+first_released_as_single: false
 key: crazy-beautiful-life-ke-ha
 lyrics_url: https://www.azlyrics.com/lyrics/keha/crazybeautifullife.html
 name: Crazy Beautiful Life
@@ -11,8 +14,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2010-12-11'
+release_year: 2010
+runtime: 170213
 ---
-
 I'm in love, alright
 With my crazy, beautiful life
 With the parties, the disasters
@@ -85,6 +89,3 @@ Oh, oh, oh
 Oh, oh, oh
 Oh, oh, oh
 Oh, oh, oh
-
-
-

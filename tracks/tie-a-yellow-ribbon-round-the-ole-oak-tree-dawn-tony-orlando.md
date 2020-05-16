@@ -1,9 +1,12 @@
 ---
+album: The Definitive Collection
 artists:
 - Dawn
+external_ids:
+  spotify: spotify:track:3NXES1knSS2eUCgkr77QU6
 features:
 - Tony Orlando
-genres: []
+first_released_as_single: false
 key: tie-a-yellow-ribbon-round-the-ole-oak-tree-dawn-tony-orlando
 lyrics_url: https://genius.com/Tony-orlando-and-dawn-tie-a-yellow-ribbon-round-the-ole-oak-tree-lyrics
 name: Tie A Yellow Ribbon Round The Ole Oak Tree
@@ -100,6 +103,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1973-07-21'
+release_year: 1973
+runtime: 207440
 ---
 I'm coming home
 I've done my time

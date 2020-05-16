@@ -1,8 +1,11 @@
 ---
+album: With His Hot and Blue Guitar
 artists:
 - Johnny Cash
+external_ids:
+  spotify: spotify:track:3AHbmf5Jt282ebdkGWwozI
 features: []
-genres: []
+first_released_as_single: false
 key: rock-island-line-johnny-cash
 lyrics_url: https://www.azlyrics.com/lyrics/johnnycash/rockislandline.html
 name: Rock Island Line
@@ -11,8 +14,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1970-02-28'
+release_year: 1957
+runtime: 129585
 ---
-
 Now this here's a story about the Rock Island Line
 Well the Rock Island Line she runs down into New Orleans
 There's a big tollgate down there and you know
@@ -61,4 +65,3 @@ Well the engineer said before he died
 There were two more drinks that he'd like to try
 The conductor said what could they be
 A hot cup of coffee and a cold glass of tea
-

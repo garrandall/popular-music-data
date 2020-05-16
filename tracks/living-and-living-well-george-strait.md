@@ -1,8 +1,11 @@
 ---
+album: The Road Less Traveled
 artists:
 - George Strait
+external_ids:
+  spotify: spotify:track:3YxKqZFpcxBPvpUssL8FS2
 features: []
-genres: []
+first_released_as_single: false
 key: living-and-living-well-george-strait
 lyrics_url: https://www.azlyrics.com/lyrics/georgestrait/livingandlivingwell.html
 name: Living And Living Well
@@ -87,8 +90,9 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '2002-08-17'
+release_year: 2001
+runtime: 218306
 ---
-
 Had a nice little life
 A little boat a little beach
 A little routine I liked
@@ -129,6 +133,3 @@ You can't have it all all by yourself
 Something's always missing
 'Til you share it with someone else
 There's a difference in living and living well
-
-
-

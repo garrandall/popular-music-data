@@ -1,9 +1,12 @@
 ---
+album: TBA
 artists:
 - A Boogie Wit da Hoodie
+external_ids:
+  spotify: spotify:track:3LmkpSU5sb7Z4EipXOF6Xe
 features:
 - DJ SPINKING
-genres: []
+first_released_as_single: true
 key: timeless-a-boogie-wit-da-hoodie-dj-spinking
 lyrics_url: https://www.musixmatch.com/lyrics/A-Boogie-Wit-da-Hoodie-feat-DJ-SPINKING/Timeless
 name: Timeless
@@ -24,6 +27,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2017-02-04'
+release_year: 2016
+runtime: 184000
 ---
 I cannot waste no time, bitch, I'm really timeless
 I cannot leave my houses without diamonds

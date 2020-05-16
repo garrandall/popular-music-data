@@ -1,8 +1,11 @@
 ---
+album: Nashville Skyline
 artists:
 - Bob Dylan
+external_ids:
+  spotify: spotify:track:2HXnjMxrO4QccqE3Grwmd0
 features: []
-genres: []
+first_released_as_single: false
 key: i-threw-it-all-away-bob-dylan
 lyrics_url: https://genius.com/Bob-dylan-i-threw-it-all-away-lyrics
 name: I Threw It All Away
@@ -27,6 +30,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1969-06-14'
+release_year: 1969
+runtime: 143066
 ---
 I once held her
 In my arms

@@ -1,8 +1,11 @@
 ---
+album: Nothing Takes the Place of You
 artists:
 - Toussaint McCall
+external_ids:
+  spotify: spotify:track:2OZ4kzOZJ94ub5kaGbzlR7
 features: []
-genres: []
+first_released_as_single: false
 key: i-ll-do-it-for-you-toussaint-mccall
 lyrics_url: https://www.musixmatch.com/lyrics/Toussaint-McCall/I-ll-Do-It-for-You
 name: I'll Do It For You
@@ -23,6 +26,8 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1967-07-22'
+release_year: 1967
+runtime: 162092
 ---
 Say you want true love
 And true love

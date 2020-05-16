@@ -1,8 +1,11 @@
 ---
+album: Glass Houses
 artists:
 - Billy Joel
+external_ids:
+  spotify: spotify:track:7gMOe0gXYcELUoVugfMmHP
 features: []
-genres: []
+first_released_as_single: false
 key: you-may-be-right-billy-joel
 lyrics_url: https://www.azlyrics.com/lyrics/billyjoel/youmayberight.html
 name: You May Be Right
@@ -67,8 +70,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1980-06-21'
+release_year: 1980
+runtime: 253200
 ---
-
 Friday night I crashed your party
 Saturday I said I'm sorry
 Sunday came and trashed me out again
@@ -122,6 +126,3 @@ You may be wrong for all I know
 But you may be right
 You may be wrong but you may be right
 You may be wrong but you may be right
-
-
-

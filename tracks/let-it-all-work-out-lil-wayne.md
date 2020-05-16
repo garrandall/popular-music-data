@@ -1,8 +1,11 @@
 ---
+album: Tha Carter V
 artists:
 - Lil Wayne
+external_ids:
+  spotify: spotify:track:2PGspMqtaZGhs7nFaHolmJ
 features: []
-genres: []
+first_released_as_single: false
 key: let-it-all-work-out-lil-wayne
 lyrics_url: https://genius.com/Lil-wayne-let-it-all-work-out-lyrics
 name: Let It All Work Out
@@ -11,6 +14,8 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '2018-10-13'
+release_year: 2018
+runtime: 316192
 ---
 Let it all work out, let it all work out
 Let it all work out, let it all work out

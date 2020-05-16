@@ -1,10 +1,13 @@
 ---
+album: Fallin' in Love
 artists:
 - Hamilton
 - Joe Frank
 - Reynolds
+external_ids:
+  spotify: spotify:track:6s8Ds5rtQuOfddY8GxN8yO
 features: []
-genres: []
+first_released_as_single: false
 key: everyday-without-you-hamilton-joe-frank-reynolds
 name: Everyday Without You
 rankings:
@@ -36,5 +39,7 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1976-05-15'
+release_year: 1976
+runtime: 189493
 ---
 

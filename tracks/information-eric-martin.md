@@ -1,8 +1,11 @@
 ---
+album: Eric Martin
 artists:
 - Eric Martin
+external_ids:
+  spotify: spotify:track:4eAbPM05UqNYKhOuJZCxMV
 features: []
-genres: []
+first_released_as_single: false
 key: information-eric-martin
 lyrics_url: https://www.musixmatch.com/lyrics/Eric-Martin/Information
 name: Information
@@ -15,6 +18,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1985-08-31'
+release_year: 1985
+runtime: 231466
 ---
 I'm still tracing over lines that you used on me
 I should forget but I can't shake the memory

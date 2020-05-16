@@ -1,8 +1,11 @@
 ---
+album: R. Kelly
 artists:
 - R. Kelly
+external_ids:
+  spotify: spotify:track:01rYWOpu72uFQORnWN84C3
 features: []
-genres: []
+first_released_as_single: false
 key: you-remind-me-of-something-r--kelly
 lyrics_url: https://www.azlyrics.com/lyrics/rkelly/youremindmeofsomething.html
 name: You Remind Me Of Something
@@ -87,8 +90,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1996-03-30'
+release_year: 1995
+runtime: 249920
 ---
-
 You remind me of something
 I just can't think of what it is
 
@@ -127,4 +131,3 @@ Don't be alone, don't be alone
 I'm comin' through your door
 Turn off the lights, turn off the lights, baby
 It's something about this moment
-

@@ -1,8 +1,11 @@
 ---
+album: Discovery
 artists:
 - Electric Light Orchestra
+external_ids:
+  spotify: spotify:track:3CdMFlCh23NNApyUi3hf6B
 features: []
-genres: []
+first_released_as_single: false
 key: shine-a-little-love-electric-light-orchestra
 lyrics_url: https://www.azlyrics.com/lyrics/electriclightorchestra/shinealittlelove.html
 name: Shine A Little Love
@@ -67,8 +70,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1979-08-25'
+release_year: 1972
+runtime: 251360
 ---
-
 Although the things you've done I wouldn't criticize.
 I guess you had your way.
 You see I gotta make you understand.
@@ -105,4 +109,3 @@ I really can't believe.
 We're walkin' out into the world tonight.
 We'll do it all again until the break of light.
 And the feelin' in your heart will soon be shinin' in your eyes
-

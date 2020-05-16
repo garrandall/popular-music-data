@@ -1,9 +1,12 @@
 ---
+album: 2012 (It Ain't The End)
 artists:
 - Jay Sean
+external_ids:
+  spotify: spotify:track:1ERCOXHQcoLSTlgmNTlcrR
 features:
 - Nicki Minaj
-genres: []
+first_released_as_single: true
 key: 2012--it-ain-t-the-end--jay-sean-nicki-minaj
 lyrics_url: https://genius.com/Jay-sean-2012-it-aint-the-end-lyrics
 name: 2012 (It Ain't The End)
@@ -64,6 +67,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2010-11-20'
+release_year: 2010
+runtime: 222200
 ---
 Ohh
 Jay Sean (Jay Sean, Jay Sean)

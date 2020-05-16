@@ -1,8 +1,11 @@
 ---
+album: The Free Electric Band
 artists:
 - Albert Hammond
+external_ids:
+  spotify: spotify:track:7kccHecmTjPsUpLz9WsWjF
 features: []
-genres: []
+first_released_as_single: false
 key: the-peacemaker-albert-hammond
 lyrics_url: https://www.azlyrics.com/lyrics/alberthammond/thepeacemaker.html
 name: The Peacemaker
@@ -23,8 +26,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1973-09-22'
+release_year: 1973
+runtime: 162533
 ---
-
 Get out, damn it
 Close the door, don't slam it
 Let me be alone a while
@@ -74,6 +78,3 @@ You will take good care of me
 Then I'll be your caretaker
 You'll be the maker of the peace
 I'll be the peacemaker
-
-
-

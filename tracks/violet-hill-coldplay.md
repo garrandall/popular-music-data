@@ -1,8 +1,11 @@
 ---
+album: Viva La Vida or Death and All His Friends
 artists:
 - Coldplay
+external_ids:
+  spotify: spotify:track:51inJOifIQ6J8aAXbNFIGM
 features: []
-genres: []
+first_released_as_single: true
 key: violet-hill-coldplay
 lyrics_url: https://www.azlyrics.com/lyrics/coldplay/violethill.html
 name: Violet Hill
@@ -47,8 +50,9 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '2008-07-26'
+release_year: 2008
+runtime: 222653
 ---
-
 It was a long and dark December
 From the rooftops I remember
 There was snow, white snow
@@ -89,6 +93,3 @@ All that time she was silent still
 
 Said if you love me, won't you let me know?
 If you love me, won't you let me know?
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: A Kind Of Hush
 artists:
 - Carpenters
+external_ids:
+  spotify: spotify:track:5CMPmGVhRhNLZ1PIyYJG5O
 features: []
-genres: []
+first_released_as_single: false
 key: i-need-to-be-in-love-carpenters
 lyrics_url: https://www.azlyrics.com/lyrics/carpenters/ineedtobeinlove.html
 name: I Need To Be In Love
@@ -51,8 +54,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1976-08-21'
+release_year: 1976
+runtime: 225826
 ---
-
 The hardest thing I've ever done is keep believing
 There's someone in this crazy world for me
 The way that people come and go through temporary lives
@@ -73,4 +77,3 @@ And fool enough to think that's what I'll find
 But none of them will comfort me tonight
 I'm wide awake at 4 a.m. without a friend in sight
 I'm hanging on a hope but I'm all right
-

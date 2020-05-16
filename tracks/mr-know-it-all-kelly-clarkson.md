@@ -1,8 +1,11 @@
 ---
+album: Stronger (Track by Track)
 artists:
 - Kelly Clarkson
+external_ids:
+  spotify: spotify:track:3olOaDvOYG07x6b44gOMrd
 features: []
-genres: []
+first_released_as_single: false
 key: mr-know-it-all-kelly-clarkson
 lyrics_url: https://www.azlyrics.com/lyrics/kellyclarkson/mrknowitall.html
 name: Mr Know It All
@@ -99,8 +102,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2012-02-25'
+release_year: 2011
+runtime: 46026
 ---
-
 Mr. Know-It-All
 Well ya think you know it all
 But ya don't know a thing at all
@@ -168,6 +172,3 @@ Well ya think you know it all
 But ya don't know a thing at all
 Ain't it, yeah baby you don't know a thing about me
 You don't know a thing about me
-
-
-

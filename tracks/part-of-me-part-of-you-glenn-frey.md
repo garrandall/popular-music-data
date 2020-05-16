@@ -1,8 +1,11 @@
 ---
+album: Thelma & Louise
 artists:
 - Glenn Frey
+external_ids:
+  spotify: spotify:track:7DD2zrgpgtzAcEpLbEyZgB
 features: []
-genres: []
+first_released_as_single: false
 key: part-of-me-part-of-you-glenn-frey
 lyrics_url: https://www.azlyrics.com/lyrics/glennfrey/partofmepartofyou.html
 name: Part Of Me Part Of You
@@ -59,8 +62,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1991-08-03'
+release_year: 1991
+runtime: 359426
 ---
-
 I felt it when the sun came up this morning
 I knew that I could not wait another day
 Darling, there is something I must tell you
@@ -117,6 +121,3 @@ You're a part of me and I'm a part of you
 
 part of you, part of me, part of you
 part of me, part of you
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: I Get The Sweetest Feeling
 artists:
 - Jackie Wilson
+external_ids:
+  spotify: spotify:track:7F1eoVZd2ySSJ70iP3PN1m
 features: []
-genres: []
+first_released_as_single: false
 key: i-get-the-sweetest-feeling-jackie-wilson
 lyrics_url: https://www.azlyrics.com/lyrics/jackiewilson/igetthesweetestfeeling.html
 name: I Get The Sweetest Feeling
@@ -39,8 +42,9 @@ rankings:
   rank: 34
   ranking_list: Billboard Hot 100
   start_date: '1968-09-07'
+release_year: 1968
+runtime: 178373
 ---
-
 The closer you get
 The better you look
 baby
@@ -92,6 +96,3 @@ I get the - sweetest feeling
 Baby
 The sweetest - sweetest feeling -
 Honey't the sweetest - sweetest feeling - loving you.
-
-
-

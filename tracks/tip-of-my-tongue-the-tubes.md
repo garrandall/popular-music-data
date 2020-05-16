@@ -1,8 +1,11 @@
 ---
+album: Outside Inside
 artists:
 - The Tubes
+external_ids:
+  spotify: spotify:track:1KFtAflpmsLfdBMoI5Lc43
 features: []
-genres: []
+first_released_as_single: false
 key: tip-of-my-tongue-the-tubes
 lyrics_url: https://www.azlyrics.com/lyrics/tubes/tipofmytongue.html
 name: Tip Of My Tongue
@@ -35,8 +38,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1983-09-03'
+release_year: 1983
+runtime: 237573
 ---
-
 You somehow knew we'd meet again
 Now I understand
 If I look surprised, don't be alarmed
@@ -81,6 +85,3 @@ My heart speaks but the words play
 On the tip of my tongue
 And no matter what my lips say
 You are still the only one
-
-
-

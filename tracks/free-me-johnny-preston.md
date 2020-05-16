@@ -1,8 +1,11 @@
 ---
+album: Above The Clouds
 artists:
 - Johnny Preston
+external_ids:
+  spotify: spotify:track:0dKE7cv7MfbLbOc9baXrEX
 features: []
-genres: []
+first_released_as_single: false
 key: free-me-johnny-preston
 lyrics_url: https://www.musixmatch.com/lyrics/Johnny-Preston/Free-Me
 name: Free Me
@@ -11,6 +14,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1961-12-25'
+release_year: 1961
+runtime: 152520
 ---
 Since you've been gone
 I can't think right

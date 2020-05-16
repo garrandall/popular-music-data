@@ -1,8 +1,11 @@
 ---
+album: Verities & Balderdash
 artists:
 - Harry Chapin
+external_ids:
+  spotify: spotify:track:2obblQ6tcePeOEVJV6nEGD
 features: []
-genres: []
+first_released_as_single: false
 key: cat-s-in-the-cradle-harry-chapin
 lyrics_url: https://genius.com/Harry-chapin-cats-in-the-cradle-lyrics
 name: Cat's In The Cradle
@@ -83,6 +86,8 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1975-02-08'
+release_year: 1974
+runtime: 222951
 ---
 My child arrived just the other day
 He came to the world in the usual way

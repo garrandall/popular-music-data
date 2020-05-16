@@ -1,8 +1,11 @@
 ---
+album: GIRL
 artists:
 - Maren Morris
+external_ids:
+  spotify: spotify:track:3npzogdOEiVsieXmmhBepL
 features: []
-genres: []
+first_released_as_single: false
 key: the-bones-maren-morris
 lyrics_url: https://www.azlyrics.com/lyrics/maren-morris/thebones.html
 name: The Bones
@@ -107,8 +110,9 @@ rankings:
   rank: 23
   ranking_list: Billboard Hot 100
   start_date: '2020-03-21'
+release_year: 2019
+runtime: 197293
 ---
-
 We're in the homestretch of the hard times
 We took a hard left, but we're alright
 Yeah, life sure can try to put love through it, but
@@ -151,6 +155,3 @@ Will blow right over while we stay put
 The house don't fall when the bones are good
 
 Yeah, oh
-
-
-

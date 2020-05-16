@@ -1,6 +1,6 @@
 ---
 artists:
-- Paul McCartney And Wings
+- Paul McCartney & Wings
 features: []
 genres: []
 key: band-on-the-run-paul-mccartney-and-wings

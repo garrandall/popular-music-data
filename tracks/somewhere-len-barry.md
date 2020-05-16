@@ -1,8 +1,11 @@
 ---
+album: Len Barry
 artists:
 - Len Barry
+external_ids:
+  spotify: spotify:track:78Uaj0y41uJ0I8a79FIvcH
 features: []
-genres: []
+first_released_as_single: false
 key: somewhere-len-barry
 lyrics_url: https://www.musixmatch.com/lyrics/Len-Barry/Somewhere
 name: Somewhere
@@ -39,6 +42,8 @@ rankings:
   rank: 38
   ranking_list: Billboard Hot 100
   start_date: '1966-05-07'
+release_year: 1966
+runtime: 153266
 ---
 There's a place for us
 Somewhere a place for us

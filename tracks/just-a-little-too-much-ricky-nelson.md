@@ -1,8 +1,11 @@
 ---
+album: Songs By Ricky
 artists:
 - Ricky Nelson
+external_ids:
+  spotify: spotify:track:2OBi2t8GK7X0GQdu4v5y91
 features: []
-genres: []
+first_released_as_single: false
 key: just-a-little-too-much-ricky-nelson
 lyrics_url: https://www.azlyrics.com/lyrics/rickynelson/justalittletoomuch.html
 name: Just A Little Too Much
@@ -59,8 +62,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1959-09-21'
+release_year: 1959
+runtime: 132200
 ---
-
 Sometimes I think I love you, aw, just a little too much
 You know you thrill me, baby, with your magic touch
 That's why I want you, honey, and love you like I do
@@ -86,6 +90,3 @@ There ain't no doubt about it
 That's why I love you like I do
 
 Yeah, that's why I love you like I do
-
-
-

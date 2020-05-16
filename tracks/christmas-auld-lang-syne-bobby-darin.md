@@ -1,8 +1,11 @@
 ---
+album: Christmas Songs
 artists:
 - Bobby Darin
+external_ids:
+  spotify: spotify:track:5UHxEcSaG7vwVOSZlM16Dc
 features: []
-genres: []
+first_released_as_single: false
 key: christmas-auld-lang-syne-bobby-darin
 lyrics_url: https://www.azlyrics.com/lyrics/bobbydarin/christmasauldlangsyne.html
 name: Christmas Auld Lang Syne
@@ -19,8 +22,9 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '1961-01-02'
+release_year: 1960
+runtime: 163293
 ---
-
 When mistletoe and tinsel glow
 Paint a yuletide valentine
 Back home I go to those I know
@@ -45,6 +49,3 @@ Of a Christmas auld lang syne
 
 In sweet accord we thank the Lord
 For a Christmas auld lang syne
-
-
-

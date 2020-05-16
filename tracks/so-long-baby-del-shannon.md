@@ -1,8 +1,11 @@
 ---
+album: Hats off to Del Shannon
 artists:
 - Del Shannon
+external_ids:
+  spotify: spotify:track:4pNazrpRFun1NpN3XJEMSS
 features: []
-genres: []
+first_released_as_single: false
 key: so-long-baby-del-shannon
 lyrics_url: https://www.azlyrics.com/lyrics/delshannon/solongbaby.html
 name: So Long Baby
@@ -47,8 +50,9 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '1961-11-20'
+release_year: 1961
+runtime: 119666
 ---
-
 I see you're laughing and 
 A-telling everyone in town
 That you've made a fool of me
@@ -85,6 +89,3 @@ It's over now, be on your way
 So long, baby, be on your way
 So long, baby, be on your way
 So long, baby, be on your way
-
-
-

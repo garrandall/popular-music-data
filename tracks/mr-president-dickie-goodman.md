@@ -1,8 +1,11 @@
 ---
+album: Dickie Goodman Greatest Hits
 artists:
 - Dickie Goodman
+external_ids:
+  spotify: spotify:track:0I3yzTz4cQF3M7RxrbNzfw
 features: []
-genres: []
+first_released_as_single: false
 key: mr-president-dickie-goodman
 name: Mr President
 rankings:
@@ -22,5 +25,7 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '1974-07-06'
+release_year: 1974
+runtime: 128413
 ---
 

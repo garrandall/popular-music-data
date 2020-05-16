@@ -1,8 +1,11 @@
 ---
+album: Monster
 artists:
 - Paramore
+external_ids:
+  spotify: spotify:track:04BSvYghzdxjSJNpee36er
 features: []
-genres: []
+first_released_as_single: true
 key: monster-paramore
 lyrics_url: https://www.azlyrics.com/lyrics/paramore/monster.html
 name: Monster
@@ -15,8 +18,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2011-07-02'
+release_year: 2011
+runtime: 198762
 ---
-
 You were my conscience,
 So solid, now you're like water
 And we started drowning,
@@ -60,6 +64,3 @@ I'll stop the whole world,
 I'll stop the whole world from turning into a monster, eating us alive
 Don't you ever wonder how we survive?
 Now that you're gone, the world is ours.
-
-
-

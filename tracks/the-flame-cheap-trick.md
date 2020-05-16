@@ -1,8 +1,11 @@
 ---
+album: Lap Of Luxury
 artists:
 - Cheap Trick
+external_ids:
+  spotify: spotify:track:6bEQ1mtBmtDVv8qts8KYGz
 features: []
-genres: []
+first_released_as_single: false
 key: the-flame-cheap-trick
 lyrics_url: https://genius.com/Cheap-trick-the-flame-lyrics
 name: The Flame
@@ -115,6 +118,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1988-10-08'
+release_year: 1975
+runtime: 284360
 ---
 Another night slowly closes in
 And I feel so lonely

@@ -1,8 +1,11 @@
 ---
+album: Afterburner
 artists:
 - ZZ Top
+external_ids:
+  spotify: spotify:track:511XWfaUgmaVcms4OhQ9oz
 features: []
-genres: []
+first_released_as_single: false
 key: velcro-fly-zz-top
 lyrics_url: https://www.azlyrics.com/lyrics/zztop/velcrofly.html
 name: Velcro Fly
@@ -55,8 +58,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1986-10-11'
+release_year: 1985
+runtime: 209133
 ---
-
 Hey, look at the hooks
 on your pants makes you wanna dance.
 I say yeah yeah,
@@ -80,6 +84,3 @@ I say yeah yeah.
 There ain't never a catch, all you got to do is snatch,
 do the velcro fly,
 do the velcro fly.
-
-
-

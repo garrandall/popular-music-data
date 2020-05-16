@@ -1,8 +1,11 @@
 ---
+album: Goodbye Girl
 artists:
 - David Gates
+external_ids:
+  spotify: spotify:track:3c6vdiLeV9DUbTMWk5H3se
 features: []
-genres: []
+first_released_as_single: false
 key: goodbye-girl-david-gates
 lyrics_url: https://www.azlyrics.com/lyrics/davidgates/goodbyegirl.html
 name: Goodbye Girl
@@ -103,8 +106,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1978-05-27'
+release_year: 1977
+runtime: 168866
 ---
-
 All your life you've waited 
 For love to come and stay
 And now that I have found you
@@ -135,6 +139,3 @@ Let me tell you goodbye doesn't mean we'll never be together again
 Though we may be so far apart you still will have my heart
 So forget your past, my goodbye girl
 'Cause now you're home at last
-
-
-

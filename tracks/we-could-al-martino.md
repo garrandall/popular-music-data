@@ -1,8 +1,11 @@
 ---
+album: We Could
 artists:
 - Al Martino
+external_ids:
+  spotify: spotify:track:6KUZWxTDDTVTjZb3OS5zIn
 features: []
-genres: []
+first_released_as_single: false
 key: we-could-al-martino
 lyrics_url: https://genius.com/Al-martino-we-could-lyrics
 name: We Could
@@ -31,6 +34,8 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1964-12-12'
+release_year: 1964
+runtime: 170813
 ---
 If anyone could find the joy
 That true brings a girl and boy

@@ -1,8 +1,11 @@
 ---
+album: The Lost Years
 artists:
 - Michael Sembello
+external_ids:
+  spotify: spotify:track:0QKfiqpEU4h9ycPSzIFwYe
 features: []
-genres: []
+first_released_as_single: false
 key: maniac-michael-sembello
 lyrics_url: https://www.azlyrics.com/lyrics/michaelsembello/maniac.html
 name: Maniac
@@ -95,8 +98,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1983-10-29'
+release_year: 1983
+runtime: 244706
 ---
-
 Just a steel town girl on a Saturday night
 Lookin' for the fight of her life
 In the real time world no one sees her at all
@@ -145,6 +149,3 @@ She's a maniac, maniac, at your door
 And she's dancing like she's never danced before
 Maniac, maniac, at your door
 And she's dancing like she's never danced before
-
-
-

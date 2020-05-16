@@ -1,8 +1,11 @@
 ---
+album: 'Davy Jones: Bell Recordings'
 artists:
 - Davy Jones
+external_ids:
+  spotify: spotify:track:5ITEFa5Wo1zPYdhkIbLaWn
 features: []
-genres: []
+first_released_as_single: false
 key: rainy-jane-davy-jones
 lyrics_url: https://genius.com/Davy-jones-rainy-jane-lyrics
 name: Rainy Jane
@@ -43,6 +46,8 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '1971-08-14'
+release_year: 1971
+runtime: 163186
 ---
 With a cloud above her head
 Here comes rainy Jane

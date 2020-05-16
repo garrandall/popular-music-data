@@ -1,8 +1,11 @@
 ---
+album: Where Love Has Gone
 artists:
 - Jack Jones
+external_ids:
+  spotify: spotify:track:75uJA2T7X9DhFTOlwDUn4o
 features: []
-genres: []
+first_released_as_single: false
 key: where-love-has-gone-jack-jones
 name: Where Love Has Gone
 rankings:
@@ -30,5 +33,7 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '1964-09-19'
+release_year: 1964
+runtime: 148693
 ---
 

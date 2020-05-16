@@ -1,8 +1,11 @@
 ---
+album: Chuckii
 artists:
 - Chuckii Booker
+external_ids:
+  spotify: spotify:track:7Akh21WwTaO2rlyH9xxCFg
 features: []
-genres: []
+first_released_as_single: false
 key: turned-away-chuckii-booker
 lyrics_url: https://genius.com/Chuckii-booker-turned-away-lyrics
 name: Turned Away
@@ -63,6 +66,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1989-10-07'
+release_year: 1989
+runtime: 343933
 ---
 Turned away, turned away
 Turned away, turned away

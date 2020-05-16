@@ -1,9 +1,12 @@
 ---
+album: Nuttin' But Love
 artists:
 - Heavy D
 - The Boyz
+external_ids:
+  spotify: spotify:track:43JSZNyRzLa3nD9W0hfD48
 features: []
-genres: []
+first_released_as_single: false
 key: nuttin--but-love-heavy-d-the-boyz
 name: Nuttin' But Love
 rankings:
@@ -87,5 +90,7 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1994-11-12'
+release_year: 1994
+runtime: 213733
 ---
 

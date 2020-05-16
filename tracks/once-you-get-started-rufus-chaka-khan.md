@@ -1,9 +1,12 @@
 ---
+album: Rufusized
 artists:
 - Rufus
+external_ids:
+  spotify: spotify:track:500wW2RUTmBjDelZ7OhdDJ
 features:
 - Chaka Khan
-genres: []
+first_released_as_single: false
 key: once-you-get-started-rufus-chaka-khan
 lyrics_url: https://genius.com/Rufus-once-you-get-started-live-version-lyrics
 name: Once You Get Started
@@ -60,6 +63,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1975-05-10'
+release_year: 1974
+runtime: 268200
 ---
 Once you get started, oh it's hard to stop
 You can't stop you just can't stop

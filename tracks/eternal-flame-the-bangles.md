@@ -1,8 +1,11 @@
 ---
+album: Everything
 artists:
 - The Bangles
+external_ids:
+  spotify: spotify:track:4xiaE15ARCs5CVPA6J8gmC
 features: []
-genres: []
+first_released_as_single: false
 key: eternal-flame-the-bangles
 lyrics_url: https://genius.com/The-bangles-eternal-flame-lyrics
 name: Eternal Flame
@@ -83,6 +86,8 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1989-06-10'
+release_year: 1988
+runtime: 235666
 ---
 Close your eyes, give me your hand, darling
 Do you feel my heart beating

@@ -1,8 +1,11 @@
 ---
+album: Sandy Posey One
 artists:
 - Sandy Posey
+external_ids:
+  spotify: spotify:track:2FwpeqCg1ifW2p1SmQYQBV
 features: []
-genres: []
+first_released_as_single: false
 key: are-you-never-coming-home-sandy-posey
 lyrics_url: https://genius.com/Sandy-posey-are-you-never-coming-home-lyrics
 name: Are You Never Coming Home
@@ -27,6 +30,8 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '1967-11-18'
+release_year: 1967
+runtime: 181394
 ---
 Just sitting here
 Alone and downhearted

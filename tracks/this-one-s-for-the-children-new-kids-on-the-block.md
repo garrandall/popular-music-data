@@ -1,8 +1,11 @@
 ---
+album: Merry, Merry Christmas
 artists:
 - New Kids On The Block
+external_ids:
+  spotify: spotify:track:78bDGxqn2KF2VU1G3Kz6J0
 features: []
-genres: []
+first_released_as_single: false
 key: this-one-s-for-the-children-new-kids-on-the-block
 lyrics_url: https://genius.com/New-kids-on-the-block-this-ones-for-the-children-lyrics
 name: This One's For The Children
@@ -71,6 +74,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1990-02-24'
+release_year: 1989
+runtime: 238466
 ---
 This is a very serious message
 So all of you please listen

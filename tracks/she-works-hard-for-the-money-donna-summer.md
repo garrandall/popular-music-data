@@ -1,8 +1,11 @@
 ---
+album: She Works Hard For The Money
 artists:
 - Donna Summer
+external_ids:
+  spotify: spotify:track:3FlOciKDqFlTMPeC7t92Qy
 features: []
-genres: []
+first_released_as_single: false
 key: she-works-hard-for-the-money-donna-summer
 lyrics_url: https://www.azlyrics.com/lyrics/donnasummer/sheworkshardforthemoney.html
 name: She Works Hard For The Money
@@ -91,8 +94,9 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '1983-10-15'
+release_year: 1983
+runtime: 320840
 ---
-
 She works hard for the money
 So hard for it, honey
 She works hard for the money
@@ -154,6 +158,3 @@ So hard for it, honey
 She works hard for the money
 So you better treat her right
 Alright...
-
-
-

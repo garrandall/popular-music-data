@@ -1,8 +1,11 @@
 ---
+album: Gypsy - Original Motion Picture Soundtrack
 artists:
 - Paul Wall
+external_ids:
+  spotify: spotify:track:2FgqIXB2988iD50uwpElZt
 features: []
-genres: []
+first_released_as_single: false
 key: girl-paul-wall
 lyrics_url: https://genius.com/Paul-wall-girl-lyrics
 name: Girl
@@ -71,6 +74,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2006-07-01'
+release_year: 2003
+runtime: 286706
 ---
 Ohhh girl, I'd be in trouble if you left me now
 Cause I don't know where to look for love, I just don't know how

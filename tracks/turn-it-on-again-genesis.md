@@ -1,8 +1,11 @@
 ---
+album: Duke
 artists:
 - Genesis
+external_ids:
+  spotify: spotify:track:5KXTDunEgNVBnuSBDzsm6x
 features: []
-genres: []
+first_released_as_single: false
 key: turn-it-on-again-genesis
 lyrics_url: https://genius.com/Genesis-turn-it-on-again-lyrics
 name: Turn It On Again
@@ -39,6 +42,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1980-10-25'
+release_year: 1980
+runtime: 229333
 ---
 (One, two, three, four!)
 

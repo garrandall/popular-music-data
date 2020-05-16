@@ -1,8 +1,11 @@
 ---
+album: Come On Over
 artists:
 - Shania Twain
+external_ids:
+  spotify: spotify:track:0sWuCk3I32giCWbub1ySZC
 features: []
-genres: []
+first_released_as_single: false
 key: love-gets-me-every-time-shania-twain
 lyrics_url: https://www.azlyrics.com/lyrics/shaniatwain/lovegetsmeeverytime.html
 name: Love Gets Me Every Time
@@ -87,8 +90,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1998-02-21'
+release_year: 1997
+runtime: 213826
 ---
-
 Life was goin' great
 Love was gonna have to wait
 Was in no hurry-had no worries
@@ -140,6 +144,3 @@ I gol' darn gone and done it
 Thought I had it covered
 Life was going great
 Well I gol' darn gone and done it
-
-
-

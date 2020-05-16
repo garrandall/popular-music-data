@@ -1,9 +1,12 @@
 ---
+album: NB Ridaz.com
 artists:
 - NB Ridaz
+external_ids:
+  spotify: spotify:track:2AsUEN8UMGcGC65rhcop8k
 features:
 - Angelina
-genres: []
+first_released_as_single: false
 key: notice-me-nb-ridaz-angelina
 lyrics_url: https://www.musixmatch.com/lyrics/NB-Ridaz-feat-Angelina/Notice-Me
 name: Notice Me
@@ -16,6 +19,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '2005-07-30'
+release_year: 2004
+runtime: 231200
 ---
 Ohh I wanna let you know
 That I'll always love you baby

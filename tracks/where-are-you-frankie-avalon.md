@@ -1,8 +1,11 @@
 ---
+album: Frankie Avalon
 artists:
 - Frankie Avalon
+external_ids:
+  spotify: spotify:track:3moXW7IxJzjMMJDQt7Ja5i
 features: []
-genres: []
+first_released_as_single: false
 key: where-are-you-frankie-avalon
 lyrics_url: https://genius.com/Frankie-avalon-where-are-you-lyrics
 name: Where Are You
@@ -55,6 +58,8 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '1960-08-29'
+release_year: 1960
+runtime: 160977
 ---
 A starlit sky, a moon above
 The perfect night to share our love

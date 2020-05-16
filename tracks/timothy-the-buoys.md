@@ -1,8 +1,11 @@
 ---
+album: The Buoys
 artists:
 - The Buoys
+external_ids:
+  spotify: spotify:track:0oWaOtPDTqXlBMkOCCEt5E
 features: []
-genres: []
+first_released_as_single: false
 key: timothy-the-buoys
 lyrics_url: https://genius.com/The-buoys-timothy-lyrics
 name: Timothy
@@ -75,6 +78,8 @@ rankings:
   rank: 32
   ranking_list: Billboard Hot 100
   start_date: '1971-06-05'
+release_year: 1971
+runtime: 165575
 ---
 Trapped in a mine what had caved in
 And everyone knows the only ones left

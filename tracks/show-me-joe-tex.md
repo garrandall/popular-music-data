@@ -1,8 +1,11 @@
 ---
+album: The Very Best of, Volume 1
 artists:
 - Joe Tex
+external_ids:
+  spotify: spotify:track:7e7QZjFA3ghJ8SNiVOvryy
 features: []
-genres: []
+first_released_as_single: false
 key: show-me-joe-tex
 lyrics_url: https://genius.com/Joe-tex-show-me-lyrics
 name: Show Me
@@ -39,6 +42,8 @@ rankings:
   rank: 37
   ranking_list: Billboard Hot 100
   start_date: '1967-04-22'
+release_year: 1965
+runtime: 179280
 ---
 Show me a man that's got a good woman
 Show me

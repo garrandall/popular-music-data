@@ -1,8 +1,11 @@
 ---
+album: Dangerous Man
 artists:
 - Trace Adkins
+external_ids:
+  spotify: spotify:track:13Oda4GsHXzRAfquxWkrzA
 features: []
-genres: []
+first_released_as_single: false
 key: ladies-love-country-boys-trace-adkins
 lyrics_url: https://www.azlyrics.com/lyrics/traceadkins/ladieslovecountryboys.html
 name: Ladies Love Country Boys
@@ -87,8 +90,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2007-05-05'
+release_year: 2006
+runtime: 221413
 ---
-
 She grew up in the city in a little subdivision
 Her daddy wore a tie, mama never fried a chicken
 Ballet, straight-As, most likely to succeed
@@ -129,6 +133,3 @@ You can raise her up a lady but theres one thing
 You just can't avoid
 Ladies love country boys
 They love us country boys
-
-
-

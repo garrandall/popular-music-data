@@ -1,8 +1,11 @@
 ---
+album: Traveller
 artists:
 - Chris Stapleton
+external_ids:
+  spotify: spotify:track:4WRRCuJYRq7gUKiupxVH9W
 features: []
-genres: []
+first_released_as_single: false
 key: nobody-to-blame-chris-stapleton
 lyrics_url: https://genius.com/Chris-stapleton-nobody-to-blame-lyrics
 name: Nobody To Blame
@@ -67,6 +70,8 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '2016-04-30'
+release_year: 2015
+runtime: 244146
 ---
 She took down the photograph
 Of our wedding day

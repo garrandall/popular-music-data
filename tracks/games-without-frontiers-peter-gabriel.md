@@ -1,8 +1,11 @@
 ---
+album: 'Peter Gabriel 3: Melt (Remastered Version)'
 artists:
 - Peter Gabriel
+external_ids:
+  spotify: spotify:track:4TVnzZW8dIPjMjg5e8gKhH
 features: []
-genres: []
+first_released_as_single: false
 key: games-without-frontiers-peter-gabriel
 lyrics_url: https://www.azlyrics.com/lyrics/petergabriel/gameswithoutfrontiers.html
 name: Games Without Frontiers
@@ -51,8 +54,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1980-10-25'
+release_year: 1980
+runtime: 246973
 ---
-
 Jeux sans frontiÃ¨res 
 
 Hans plays with Lotte, Lotte plays with Jane
@@ -96,6 +100,3 @@ Games without frontiers
 War without tears
 
 Jeux sans frontiÃ¨res
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Harold Melvin & The Blue Notes
 artists:
 - Harold Melvin And The Blue Notes
+external_ids:
+  spotify: spotify:track:0ESwmqvB5v7GYHSbfl5P03
 features: []
-genres: []
+first_released_as_single: false
 key: yesterday-i-had-the-blues-harold-melvin-and-the-blue-notes
 lyrics_url: https://genius.com/Harold-melvin-and-the-blue-notes-yesterday-i-had-the-blues-lyrics
 name: Yesterday I Had The Blues
@@ -35,6 +38,8 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '1973-04-14'
+release_year: 1972
+runtime: 453133
 ---
 Yesterday, yeah, I had the blues
 I couldn't win

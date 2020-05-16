@@ -1,8 +1,11 @@
 ---
+album: '4:44'
 artists:
 - JAY-Z
+external_ids:
+  spotify: spotify:track:2kh78Yka2tkYOx3XF9DVpu
 features: []
-genres: []
+first_released_as_single: false
 key: kill-jay-z-jay-z
 lyrics_url: https://genius.com/Jay-z-kill-jay-z-lyrics
 name: Kill Jay Z
@@ -11,6 +14,8 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '2017-07-29'
+release_year: 2017
+runtime: 178066
 ---
 Kill JAY-Z, they'll never love you
 You'll never be enough, let's just keep it real, JAY-Z

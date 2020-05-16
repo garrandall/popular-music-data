@@ -1,8 +1,11 @@
 ---
+album: Collection
 artists:
 - Flash And The Pan
+external_ids:
+  spotify: spotify:track:7IG4vtuRDBrsVTXGn0a0zG
 features: []
-genres: []
+first_released_as_single: false
 key: hey-st-peter-flash-and-the-pan
 lyrics_url: https://genius.com/Flash-and-the-pan-hey-st-peter-lyrics
 name: Hey St Peter
@@ -23,6 +26,8 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1979-08-18'
+release_year: 1979
+runtime: 261586
 ---
 The morning was cold and lonely
 City lights old and gray

@@ -1,8 +1,11 @@
 ---
+album: Candy Rain
 artists:
 - Soul For Real
+external_ids:
+  spotify: spotify:track:5u3rsmRYRSKJpFHXPT4p07
 features: []
-genres: []
+first_released_as_single: false
 key: every-little-thing-i-do-soul-for-real
 lyrics_url: https://genius.com/Soul-for-real-every-little-thing-i-do-lyrics
 name: Every Little Thing I Do
@@ -111,6 +114,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1995-10-28'
+release_year: 1995
+runtime: 260066
 ---
 You are on my mind
 You are on my mind

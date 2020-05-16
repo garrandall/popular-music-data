@@ -1,8 +1,11 @@
 ---
+album: Indianola Mississippi Seeds
 artists:
 - B.B. King
+external_ids:
+  spotify: spotify:track:5x7Oxaa9EEIx9nw17CC5yW
 features: []
-genres: []
+first_released_as_single: false
 key: chains-and-things-b-b--king
 lyrics_url: https://genius.com/Bb-king-chains-and-things-lyrics
 name: Chains And Things
@@ -39,6 +42,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1970-12-19'
+release_year: 1970
+runtime: 293733
 ---
 Woke up this morning
 After another one of those crazy dreams

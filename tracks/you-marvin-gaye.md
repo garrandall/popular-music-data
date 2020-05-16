@@ -1,8 +1,11 @@
 ---
+album: How Sweet It Is To Be Loved By You
 artists:
 - Marvin Gaye
+external_ids:
+  spotify: spotify:track:1qZcepZC1sulgWKM1y9LYs
 features: []
-genres: []
+first_released_as_single: false
 key: you-marvin-gaye
 lyrics_url: https://genius.com/Marvin-gaye-when-did-you-stop-loving-me-when-did-i-stop-loving-you-lyrics
 name: You
@@ -35,6 +38,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1968-02-24'
+release_year: 1965
+runtime: 164960
 ---
 (Spoken)
 You know, when you say your marriage vows, they're supposed to be for real

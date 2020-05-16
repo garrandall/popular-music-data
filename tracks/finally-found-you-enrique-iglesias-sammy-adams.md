@@ -1,9 +1,12 @@
 ---
+album: Finally Found You
 artists:
 - Enrique Iglesias
+external_ids:
+  spotify: spotify:track:0F6RPDtMi519sr7sl2gOVv
 features:
 - Sammy Adams
-genres: []
+first_released_as_single: true
 key: finally-found-you-enrique-iglesias-sammy-adams
 lyrics_url: https://www.azlyrics.com/lyrics/enriqueiglesias/finallyfoundyou.html
 name: Finally Found You
@@ -64,9 +67,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2012-12-29'
+release_year: 2012
+runtime: 220813
 ---
-
-
 You know I'm go get you, yeah
 Whatever it takes to get there
 No I won't drop you
@@ -130,6 +133,3 @@ Finally, finally, finally found
 Finally found, I finally found you
 
 You know I'm go get you, yeah
-
-
-

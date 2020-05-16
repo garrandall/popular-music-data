@@ -1,8 +1,11 @@
 ---
+album: Do You Believe Me Now
 artists:
 - Jimmy Wayne
+external_ids:
+  spotify: spotify:track:0HbtLdjkFkY8doAZzjRDmj
 features: []
-genres: []
+first_released_as_single: false
 key: do-you-believe-me-now-jimmy-wayne
 lyrics_url: https://www.azlyrics.com/lyrics/jimmywayne/doyoubelievemenow.html
 name: Do You Believe Me Now
@@ -87,8 +90,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2008-12-13'
+release_year: 2008
+runtime: 204386
 ---
-
 Do you remember
 The day I turned to you and said I didn't like the way he was looking at you
 Yeah
@@ -138,6 +142,3 @@ Every time the sun goes down
 He's the one that's holding you baby
 Yeah me I'm missin you way across town
 So do you believe me now
-
-
-

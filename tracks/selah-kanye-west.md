@@ -1,8 +1,11 @@
 ---
+album: JESUS IS KING
 artists:
 - Kanye West
+external_ids:
+  spotify: spotify:track:39JRmdKFka1Oe09FoOCPI4
 features: []
-genres: []
+first_released_as_single: false
 key: selah-kanye-west
 lyrics_url: https://www.azlyrics.com/lyrics/kanyewest/selah.html
 name: Selah
@@ -15,8 +18,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2019-11-16'
+release_year: 2019
+runtime: 164619
 ---
-
 God is King, we the soldiers
 Ultrabeam out the solar
 When I get to Heaven's gates
@@ -66,6 +70,3 @@ Love God and our neighbor, as written in Luke
 The army of God and we are the truth
 
 Wah, woo, wah, woo, woo, woo, woo, woo...
-
-
-

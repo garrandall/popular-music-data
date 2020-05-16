@@ -1,8 +1,11 @@
 ---
+album: A Decade Of Hits
 artists:
 - The Charlie Daniels Band
+external_ids:
+  spotify: spotify:track:4HCiJerucxaMUFB6YIzsvV
 features: []
-genres: []
+first_released_as_single: false
 key: the-devil-went-down-to-georgia-the-charlie-daniels-band
 lyrics_url: https://www.musixmatch.com/lyrics/The-Charlie-Daniels-Band/The-Devil-Went-Down-to-Georgia-2
 name: The Devil Went Down To Georgia
@@ -79,6 +82,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1979-10-20'
+release_year: 1954
+runtime: 215360
 ---
 The Devil went down to Georgia. He was lookin' for a soul to steal
 He was in a bind 'cause he was way behind

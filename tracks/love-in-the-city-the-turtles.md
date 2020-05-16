@@ -1,8 +1,11 @@
 ---
+album: Turtle Soup
 artists:
 - The Turtles
+external_ids:
+  spotify: spotify:track:1IoPjd0yRTUChfEqWkCQ5S
 features: []
-genres: []
+first_released_as_single: false
 key: love-in-the-city-the-turtles
 lyrics_url: https://www.azlyrics.com/lyrics/turtles/loveinthecity.html
 name: Love In The City
@@ -15,8 +18,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1969-10-18'
+release_year: 1969
+runtime: 219560
 ---
-
 We walked hand in hand from the patch
 Playing in the middle of the city
 Down the street we walked westerly
@@ -37,6 +41,3 @@ When things around me slow down, slow down
 I think about my love in the city, in the city
 I think about my love in the city, in the city
 I think about my love in the city
-
-
-

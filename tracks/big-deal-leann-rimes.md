@@ -1,8 +1,11 @@
 ---
+album: LeAnn Rimes
 artists:
 - LeAnn Rimes
+external_ids:
+  spotify: spotify:track:0rzXtJ0DE4wTbSeOfBhp1F
 features: []
-genres: []
+first_released_as_single: false
 key: big-deal-leann-rimes
 lyrics_url: https://www.azlyrics.com/lyrics/leannrimes/bigdeal.html
 name: Big Deal
@@ -87,8 +90,9 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '2000-02-26'
+release_year: 1996
+runtime: 188266
 ---
-
 Well, he used to be mine
 Not so very long ago
 I was crazy
@@ -134,6 +138,3 @@ Big Deal,
 Big Deal,
 Oh, yeah!
 Big Deal.
-
-
-

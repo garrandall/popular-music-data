@@ -1,8 +1,11 @@
 ---
+album: All This and Heaven Too
 artists:
 - Andrew Gold
+external_ids:
+  spotify: spotify:track:5yNUgA66PbcPIJPOU2eBwR
 features: []
-genres: []
+first_released_as_single: false
 key: thank-you-for-being-a-friend-andrew-gold
 lyrics_url: https://www.azlyrics.com/lyrics/andrewgold/thankyouforbeingafriend.html
 name: Thank You For Being A Friend
@@ -67,8 +70,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1978-05-20'
+release_year: 1978
+runtime: 280760
 ---
-
 Thank you for being a friend
 Traveled down the road and back again
 Your heart is true you're a pal and a confidant
@@ -136,6 +140,3 @@ Thank you for being a friend
 Thank you for being a friend
 (I wanna thank you, thank you, for being a friend)
 Thank you for being a friend
-
-
-

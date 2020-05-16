@@ -1,8 +1,11 @@
 ---
+album: 'Thin Line Between Love & Hate: Golden Classics'
 artists:
 - The Persuaders
+external_ids:
+  spotify: spotify:track:49jcpKbEDEImClbtqdr1p5
 features: []
-genres: []
+first_released_as_single: false
 key: thin-line-between-love---hate-the-persuaders
 lyrics_url: https://genius.com/Rafael-lechowski-barbara-mason-a-good-man-is-gone-1975-david-porter-im-afraid-the-masquerade-is-over-1971-betty-lavette-let-me-down-easy-1965-1969-bobby-byrd-im-not-to-blame-1970-the-persuaders-thin-line-between-love-and-hate-1971-lyrics
 name: Thin Line Between Love & Hate
@@ -55,6 +58,8 @@ rankings:
   rank: 32
   ranking_list: Billboard Hot 100
   start_date: '1971-11-13'
+release_year: 1971
+runtime: 699693
 ---
 Letra de "Barbara Mason - A good man is gone (1975) - David Porter - I'm Afraid the Masquerade is Over (1971) - Betty Lavette - Let me down easy (1965/1969) - Bobby Byrd - I'm not to blame (1970) - The Persuaders - Thin line between love and hate (1971)"
 

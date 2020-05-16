@@ -1,8 +1,11 @@
 ---
+album: Invisible Touch
 artists:
 - Genesis
+external_ids:
+  spotify: spotify:track:6twIBPybEvGydyNzNz89FT
 features: []
-genres: []
+first_released_as_single: false
 key: land-of-confusion-genesis
 lyrics_url: https://genius.com/Genesis-land-of-confusion-lyrics
 name: Land Of Confusion
@@ -91,6 +94,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1987-03-21'
+release_year: 1986
+runtime: 286840
 ---
 I must've dreamed a thousand dreams
 Been haunted by a million screams

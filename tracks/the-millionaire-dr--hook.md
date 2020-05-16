@@ -1,8 +1,11 @@
 ---
+album: Bankrupt
 artists:
 - Dr. Hook
+external_ids:
+  spotify: spotify:track:2MxQHDCRQUF9k3zBvwzFSv
 features: []
-genres: []
+first_released_as_single: false
 key: the-millionaire-dr--hook
 lyrics_url: https://www.azlyrics.com/lyrics/drhook/themillionaire.html
 name: The Millionaire
@@ -27,8 +30,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1975-09-20'
+release_year: 1975
+runtime: 178533
 ---
-
 I'm not a bad person,
 I don't drink, and I don't kill.
 I got no evil habits, and I
@@ -81,6 +85,3 @@ If you ain't with me honey,
 To help me spread it around!
 
 Money, money, money, money
-
-
-

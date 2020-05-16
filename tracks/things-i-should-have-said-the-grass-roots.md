@@ -1,8 +1,11 @@
 ---
+album: Temptation Eyes
 artists:
 - The Grass Roots
+external_ids:
+  spotify: spotify:track:0EFkLh3VB4ZTYeaJlsxZeI
 features: []
-genres: []
+first_released_as_single: false
 key: things-i-should-have-said-the-grass-roots
 lyrics_url: https://www.azlyrics.com/lyrics/grassroots/thingsishouldhavesaid.html
 name: Things I Should Have Said
@@ -39,8 +42,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1967-09-30'
+release_year: 1967
+runtime: 151506
 ---
-
 I didn't cry
 I just stood and watched her say goodbye
 She closed the door
@@ -71,6 +75,3 @@ I just stood and watched her say goodbye
 She closed the door
 And said I don't want to see you anymore
 Things I should have said to her
-
-
-

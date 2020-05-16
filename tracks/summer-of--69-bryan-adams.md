@@ -1,8 +1,11 @@
 ---
+album: Reckless
 artists:
 - Bryan Adams
+external_ids:
+  spotify: spotify:track:0GONea6G2XdnHWjNZd6zt3
 features: []
-genres: []
+first_released_as_single: false
 key: summer-of--69-bryan-adams
 lyrics_url: https://genius.com/Bryan-adams-summer-of-69-lyrics
 name: Summer Of '69
@@ -75,6 +78,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1985-10-19'
+release_year: 1984
+runtime: 216053
 ---
 I got my first real six string
 Bought it at the five and dime

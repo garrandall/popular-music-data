@@ -1,8 +1,11 @@
 ---
+album: Hits & Rarities From The Dance Era
 artists:
 - Tommy Mara
+external_ids:
+  spotify: spotify:track:5e6FKIm1YQ8qYyRb9jCXiD
 features: []
-genres: []
+first_released_as_single: false
 key: where-the-blue-of-the-night-tommy-mara
 lyrics_url: https://www.musixmatch.com/lyrics/Tommy-Mara/Where-The-Blue-Of-The-Night
 name: Where The Blue Of The Night
@@ -23,6 +26,8 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1958-09-15'
+release_year: 1958
+runtime: 161106
 ---
 Where The Blue Of The Night
 Meets The Gold Of The Day

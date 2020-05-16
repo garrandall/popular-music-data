@@ -1,8 +1,11 @@
 ---
+album: A Beautiful Lie
 artists:
 - Thirty Seconds To Mars
+external_ids:
+  spotify: spotify:track:0lP4HYLmvowOKdsQ7CVkuq
 features: []
-genres: []
+first_released_as_single: false
 key: the-kill--bury-me--thirty-seconds-to-mars
 lyrics_url: https://genius.com/Thirty-seconds-to-mars-the-kill-bury-me-lyrics
 name: The Kill (Bury Me)
@@ -87,6 +90,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2006-12-16'
+release_year: 2005
+runtime: 231533
 ---
 What if I wanted to break?
 Laugh it all off in your face

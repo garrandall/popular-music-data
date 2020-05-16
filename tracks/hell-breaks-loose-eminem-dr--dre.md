@@ -1,9 +1,12 @@
 ---
+album: 'Relapse: Refill'
 artists:
 - Eminem
+external_ids:
+  spotify: spotify:track:0FXfAepEmqVCMnvOpb8Hoj
 features:
 - Dr. Dre
-genres: []
+first_released_as_single: false
 key: hell-breaks-loose-eminem-dr--dre
 lyrics_url: https://www.azlyrics.com/lyrics/eminem/hellbreaksloose.html
 name: Hell Breaks Loose
@@ -12,9 +15,9 @@ rankings:
   rank: 29
   ranking_list: Billboard Hot 100
   start_date: '2010-01-02'
+release_year: 2009
+runtime: 244160
 ---
-
-
 I want you to understand something
 That when I come up in this bitch, I want the fans jumping
 I want them fists pumping in the air, I don't look like a millionaire
@@ -92,6 +95,3 @@ Pass up on that little cute chick right there that'll be pretty damn stupid of m
 Born and raised in the C-P-T, yeah Los Angeles, rules of the streets
 Them haters hatin on me, but I refuse to lose any sleep
 Keep that deuce-deuce in the seat, Dre fall off that's news to me
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Hurricane
 artists:
 - Nick Fradiani
+external_ids:
+  spotify: spotify:track:6zy6JNfrc4ve2M6xmhadLV
 features: []
-genres: []
+first_released_as_single: true
 key: beautiful-life-nick-fradiani
 lyrics_url: https://www.azlyrics.com/lyrics/nickfradiani/beautifullife.html
 name: Beautiful Life
@@ -11,8 +14,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2015-05-30'
+release_year: 2015
+runtime: 209120
 ---
-
 These days
 Well, they're looking up
 We got so much to say
@@ -56,4 +60,3 @@ Reaches such great heights
 Gives us just one perfect night
 To say "oh, what a beautiful life"
 "Oh, what a beautiful life"
-

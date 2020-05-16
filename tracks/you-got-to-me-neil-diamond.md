@@ -1,8 +1,11 @@
 ---
+album: The Bang Years 1966-1968 (The 23 Original Mono Recordings)
 artists:
 - Neil Diamond
+external_ids:
+  spotify: spotify:track:09Cj2N35tNTURP9m4o5nAn
 features: []
-genres: []
+first_released_as_single: false
 key: you-got-to-me-neil-diamond
 lyrics_url: https://genius.com/Neil-diamond-you-got-to-me-lyrics
 name: You Got To Me
@@ -39,6 +42,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1967-03-18'
+release_year: 1967
+runtime: 169680
 ---
 Mama she always told me it would happen
 But she never said

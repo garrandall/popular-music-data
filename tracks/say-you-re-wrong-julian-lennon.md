@@ -1,8 +1,11 @@
 ---
+album: Valotte
 artists:
 - Julian Lennon
+external_ids:
+  spotify: spotify:track:4jty9ZxXwfTOmY6WkF8eK0
 features: []
-genres: []
+first_released_as_single: false
 key: say-you-re-wrong-julian-lennon
 lyrics_url: https://www.musixmatch.com/lyrics/Julian-Lennon/Say-You-re-Wrong
 name: Say You're Wrong
@@ -55,6 +58,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1985-07-06'
+release_year: 1984
+runtime: 209306
 ---
 You say you love me, but I think you're wrong
 We've had times in the past when we weren't so strong

@@ -1,8 +1,11 @@
 ---
+album: 18 All-Time Greatest Hits
 artists:
 - Gene Pitney
+external_ids:
+  spotify: spotify:track:554eZbFJX1IS8S5O2PKPzr
 features: []
-genres: []
+first_released_as_single: false
 key: mecca-gene-pitney
 lyrics_url: https://www.azlyrics.com/lyrics/genepitney/mecca.html
 name: Mecca
@@ -51,8 +54,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1963-06-01'
+release_year: 1963
+runtime: 139733
 ---
-
 I live on the West side, she lives on the East side of the stree-ee-eet 
 And though they say that East is East and West is West 
 And never the twain shall meet 
@@ -70,6 +74,3 @@ Is Mecca (Mecca, Mecca, Mecca) Mecca (Mecca, Mecca) to me-e-e-e-e-e.
 Each morning I face her window and pray that our love can be 
 'Cause that brownstone house where my baby lives 
 Is Mecca (Mecca, Mecca, Mecca) Mecca (Mecca, Mecca) to me-e-e-e-e-e.
-
-
-

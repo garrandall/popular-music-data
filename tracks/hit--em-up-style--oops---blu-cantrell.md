@@ -1,8 +1,11 @@
 ---
+album: Throwback Hip-Hop & RnB, Vol. 2
 artists:
 - Blu Cantrell
+external_ids:
+  spotify: spotify:track:2IFO6vTwcGyhfXRzlWKwW0
 features: []
-genres: []
+first_released_as_single: false
 key: hit--em-up-style--oops---blu-cantrell
 lyrics_url: https://www.azlyrics.com/lyrics/blucantrell/hitemupstyle.html
 name: Hit 'Em Up Style (Oops!)
@@ -143,8 +146,9 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '2001-12-22'
+release_year: 1999
+runtime: 250493
 ---
-
 While he was schemeing
 I was beamin in the Beamer just beamin
 Can't believe that I caught my man cheatin'
@@ -248,6 +252,3 @@ When you go then everything goes
 From the crib to the ride and the clothes
 So you better let him know that
 If he messed up you gotta hit em up
-
-
-

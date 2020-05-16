@@ -1,8 +1,11 @@
 ---
+album: It Keeps Right On A-Hurtin'
 artists:
 - Johnny Tillotson
+external_ids:
+  spotify: spotify:track:1rOAbZGQdPV85aiXquUPGD
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-so-lonesome-i-could-cry-johnny-tillotson
 lyrics_url: https://genius.com/Johnny-tillotson-im-so-lonesome-i-could-cry-lyrics
 name: I'm So Lonesome I Could Cry
@@ -11,6 +14,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1962-12-01'
+release_year: 1962
+runtime: 173466
 ---
 Hear that lonesome whippoorwill
 He sounds too blue to fly

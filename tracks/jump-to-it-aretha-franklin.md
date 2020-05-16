@@ -1,8 +1,11 @@
 ---
+album: Jump To It
 artists:
 - Aretha Franklin
+external_ids:
+  spotify: spotify:track:1wGqSAH3JAMNoxL72pOWO3
 features: []
-genres: []
+first_released_as_single: false
 key: jump-to-it-aretha-franklin
 lyrics_url: https://www.azlyrics.com/lyrics/arethafranklin/jumptoit.html
 name: Jump To It
@@ -55,8 +58,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1982-11-06'
+release_year: 1982
+runtime: 401266
 ---
-
 Jump, jump, jump to it
 Jump, jump, jump to it
 Jump, jump, jump to it
@@ -179,6 +183,3 @@ Jump, jump, jump to it
 (Oh...yeah...) Jump, jump, jump to it (Hey...)
 
 Jump, jump, jump to it
-
-
-

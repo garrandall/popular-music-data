@@ -1,8 +1,11 @@
 ---
+album: Enjoy with your friends (karaoke)
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:37XmzOUsOR5j1i4LXVoUcH
 features: []
-genres: []
+first_released_as_single: false
 key: hell-to-the-no-glee-cast
 lyrics_url: https://www.azlyrics.com/lyrics/gleecast/helltotheno.html
 name: Hell To The No
@@ -11,8 +14,9 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '2011-04-02'
+release_year: 2011
+runtime: 184057
 ---
-
 Mama said get your ass out of bed
 I said hell to the no
 Said wash your grandma's nasty head
@@ -83,6 +87,3 @@ Woah, oh, oh, oh, oh
 Hell to the no-no, no-no, no-no, no-no
 
 Awe, hell to the no...
-
-
-

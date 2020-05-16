@@ -1,8 +1,11 @@
 ---
+album: Take It To Heart
 artists:
 - Michael McDonald
+external_ids:
+  spotify: spotify:track:2mdNWsx6evoVi9IhD6P9uL
 features: []
-genres: []
+first_released_as_single: false
 key: take-it-to-heart-michael-mcdonald
 lyrics_url: https://genius.com/Michael-mcdonald-take-it-to-heart-lyrics
 name: Take It To Heart
@@ -15,6 +18,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1990-06-16'
+release_year: 1990
+runtime: 357960
 ---
 (Diane Warren And Michael McDonald)
 

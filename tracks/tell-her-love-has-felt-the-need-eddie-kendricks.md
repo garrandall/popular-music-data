@@ -1,8 +1,11 @@
 ---
+album: Boogie Down
 artists:
 - Eddie Kendricks
+external_ids:
+  spotify: spotify:track:2IoP69pwUhyOtCACHEbhko
 features: []
-genres: []
+first_released_as_single: false
 key: tell-her-love-has-felt-the-need-eddie-kendricks
 lyrics_url: https://www.azlyrics.com/lyrics/eddiekendricks/tellherlovehasfelttheneed.html
 name: Tell Her Love Has Felt The Need
@@ -47,8 +50,9 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '1974-10-12'
+release_year: 1974
+runtime: 265613
 ---
-
 Aw, in the morning when she wakes
 Light of dawn come touch her face
 Sunshine keep her warm and safe
@@ -94,6 +98,3 @@ Hey
 I could never be what she wants of me
 (Hey)
 Hey-ey
-
-
-

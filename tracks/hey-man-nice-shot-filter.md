@@ -1,8 +1,11 @@
 ---
+album: Short Bus
 artists:
 - Filter
+external_ids:
+  spotify: spotify:track:5pQEExRHWM9XnghO6bhdLJ
 features: []
-genres: []
+first_released_as_single: false
 key: hey-man-nice-shot-filter
 lyrics_url: https://www.azlyrics.com/lyrics/filter/heymanniceshot.html
 name: Hey Man Nice Shot
@@ -35,8 +38,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1995-09-16'
+release_year: 1995
+runtime: 314440
 ---
-
 I wish I would've met you
 Now it's a little late
 What you could've taught me
@@ -71,6 +75,3 @@ I wish I would've met you
 I wish I would've met you
 I'd say
 Nice shot
-
-
-

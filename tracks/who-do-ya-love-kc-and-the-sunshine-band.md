@@ -1,8 +1,11 @@
 ---
+album: Who Do Ya (Love)
 artists:
 - KC And The Sunshine Band
+external_ids:
+  spotify: spotify:track:0KMWN7wKaB8mGRDf5eaYsD
 features: []
-genres: []
+first_released_as_single: false
 key: who-do-ya-love-kc-and-the-sunshine-band
 lyrics_url: https://www.azlyrics.com/lyrics/kcandthesunshineband/whodoyalove.html
 name: Who Do Ya Love
@@ -39,8 +42,9 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '1979-02-03'
+release_year: 1978
+runtime: 218426
 ---
-
 I've got this feelin' all down inside
 And this feelin' I just can't hide
 I really love you, I really do
@@ -106,6 +110,3 @@ Who do you love, who do you love
 Who do you really, really, really love
 
 Who do you love
-
-
-

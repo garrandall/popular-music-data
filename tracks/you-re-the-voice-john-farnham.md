@@ -1,8 +1,11 @@
 ---
+album: Whispering Jack
 artists:
 - John Farnham
+external_ids:
+  spotify: spotify:track:5OFsOeYaF8C0AulNYbSobM
 features: []
-genres: []
+first_released_as_single: false
 key: you-re-the-voice-john-farnham
 lyrics_url: https://genius.com/John-farnham-youre-the-voice-lyrics
 name: You're The Voice
@@ -39,6 +42,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1990-03-31'
+release_year: 1965
+runtime: 303760
 ---
 We have the chance to turn the pages over
 We can write what we want to write

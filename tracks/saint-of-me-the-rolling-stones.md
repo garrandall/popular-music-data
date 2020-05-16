@@ -1,8 +1,11 @@
 ---
+album: Bridges To Babylon
 artists:
 - The Rolling Stones
+external_ids:
+  spotify: spotify:track:6OEpSYq8wdqnl01hsoQGQY
 features: []
-genres: []
+first_released_as_single: false
 key: saint-of-me-the-rolling-stones
 lyrics_url: https://genius.com/The-rolling-stones-saint-of-me-lyrics
 name: Saint Of Me
@@ -23,6 +26,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1998-03-28'
+release_year: 1997
+runtime: 314626
 ---
 Saint Paul the persecutor
 Was a cruel and sinful man

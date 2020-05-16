@@ -1,8 +1,11 @@
 ---
+album: Samantha Cole
 artists:
 - Samantha Cole
+external_ids:
+  spotify: spotify:track:14K8dcROLrBe0BE9Ak2Quc
 features: []
-genres: []
+first_released_as_single: false
 key: happy-with-you-samantha-cole
 lyrics_url: https://genius.com/Samantha-cole-happy-with-you-lyrics
 name: Happy With You
@@ -27,6 +30,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1997-09-27'
+release_year: 1997
+runtime: 231960
 ---
 Samantha cole, berry cosgrove, kevin clarke
 

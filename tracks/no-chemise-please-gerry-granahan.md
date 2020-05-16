@@ -20,11 +20,6 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1958-08-18'
 ---
-NO CHEMISE, PLEASE
-Artist: Gerry Granahan--(peak Billboard position #23 in 1958)
-Words and music by
-Jodi D'Amour, Arnold Goland, and Gerry Granahan
-(Granahan also formed Dickey Doo and the Don'ts and The Fireflies)
 I had a date for the hop last night
 Up to her door everything seemed right
 But to my surprise as I opened the door
@@ -44,8 +39,8 @@ I told her forty times and it really was a crime
 I was talkin' to the back of her head!
 No chemise, please, not for me, please
 Well you can take back the sack, leave it hangin' on the rack
-And bring a sweater back!---yeah
-(instrumental interlude)
+And bring a sweater back! yeah
+
 Sure would like to find the creator
 Who covered up my baby in this tent
 He musta been a woman-hater

@@ -1,8 +1,11 @@
 ---
+album: I Robot
 artists:
 - Alan Parsons
+external_ids:
+  spotify: spotify:track:5dbcQ5D5EnBK4mO3Oygzeu
 features: []
-genres: []
+first_released_as_single: false
 key: i-wouldn-t-want-to-be-like-you-alan-parsons
 lyrics_url: https://genius.com/The-alan-parsons-project-i-wouldnt-want-to-be-like-you-lyrics
 name: I Wouldn't Want To Be Like You
@@ -59,6 +62,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1977-11-12'
+release_year: 1977
+runtime: 201880
 ---
 If I had a mind to
 I wouldn't want to think like you

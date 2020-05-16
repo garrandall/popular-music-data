@@ -1,8 +1,11 @@
 ---
+album: Greetings From Imrie House (U.S. Version)
 artists:
 - The Click Five
+external_ids:
+  spotify: spotify:track:1JURww012QnWAw0zZXi6Aa
 features: []
-genres: []
+first_released_as_single: false
 key: just-the-girl-the-click-five
 lyrics_url: https://genius.com/The-click-five-just-the-girl-lyrics
 name: Just The Girl
@@ -87,6 +90,8 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '2005-12-10'
+release_year: 2005
+runtime: 234146
 ---
 She's cold and she's cruel
 But she knows what she's doing

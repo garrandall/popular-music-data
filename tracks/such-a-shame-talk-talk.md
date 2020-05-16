@@ -1,8 +1,11 @@
 ---
+album: It's My Life
 artists:
 - Talk Talk
+external_ids:
+  spotify: spotify:track:35JhxrwW2bBAiMcnrmuLEN
 features: []
-genres: []
+first_released_as_single: false
 key: such-a-shame-talk-talk
 lyrics_url: https://genius.com/Talk-talk-such-a-shame-lyrics
 name: Such A Shame
@@ -19,6 +22,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1984-07-14'
+release_year: 1984
+runtime: 335533
 ---
 Such a shame to believe in escape
 A life on every face

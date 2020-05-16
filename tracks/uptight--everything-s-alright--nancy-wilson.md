@@ -1,8 +1,11 @@
 ---
+album: A Touch Of Today
 artists:
 - Nancy Wilson
+external_ids:
+  spotify: spotify:track:7Djn4EfJGHXgJ8BLdbHbAh
 features: []
-genres: []
+first_released_as_single: false
 key: uptight--everything-s-alright--nancy-wilson
 lyrics_url: https://www.musixmatch.com/lyrics/Nancy-Wilson/Uptight-Everything-s-Alright
 name: Uptight (Everything's Alright)
@@ -23,6 +26,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1966-08-06'
+release_year: 1966
+runtime: 121360
 ---
 Baby, everything is all right, uptight, out of sight
 Baby, everything is all right, uptight, out of sight

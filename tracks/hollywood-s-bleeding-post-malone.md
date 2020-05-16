@@ -1,8 +1,11 @@
 ---
+album: Hollywood's Bleeding
 artists:
 - Post Malone
+external_ids:
+  spotify: spotify:track:7sWRlDoTDX8geTR8zzr2vt
 features: []
-genres: []
+first_released_as_single: false
 key: hollywood-s-bleeding-post-malone
 lyrics_url: https://www.azlyrics.com/lyrics/postmalone/hollywoodsbleeding.html
 name: Hollywood's Bleeding
@@ -31,8 +34,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2019-10-26'
+release_year: 2019
+runtime: 156266
 ---
-
 Hollywood's bleeding, vampires feeding, darkness turns to dust
 Everyone's gone but no one's leaving, nobody left but us
 Tryna chase a feeling but we never feel it, riding on our last train home
@@ -69,6 +73,3 @@ You never took the time to get to know me
 Was scared of losing something that we never found
 We're running out of reasons but we can't let go
 Yeah, Hollywood is bleeding but we call it home
-
-
-

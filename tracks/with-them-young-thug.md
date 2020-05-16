@@ -1,8 +1,11 @@
 ---
+album: Slime Season 3
 artists:
 - Young Thug
+external_ids:
+  spotify: spotify:track:0tISnxqgVmxqhVghsTi2Rr
 features: []
-genres: []
+first_released_as_single: false
 key: with-them-young-thug
 lyrics_url: https://genius.com/Young-thug-with-them-lyrics
 name: With Them
@@ -11,6 +14,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '2016-04-16'
+release_year: 2016
+runtime: 197746
 ---
 Thugger Thugger baby
 Fuck all that let's get to it

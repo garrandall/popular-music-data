@@ -1,8 +1,11 @@
 ---
+album: Old Rivers
 artists:
 - Walter Brennan
+external_ids:
+  spotify: spotify:track:3ta7p7X0YLR1nMwpFaD4qO
 features: []
-genres: []
+first_released_as_single: false
 key: old-rivers-walter-brennan
 lyrics_url: https://genius.com/Walter-brennan-old-rivers-lyrics
 name: Old Rivers
@@ -51,6 +54,8 @@ rankings:
   rank: 29
   ranking_list: Billboard Hot 100
   start_date: '1962-06-16'
+release_year: 1962
+runtime: 170800
 ---
 (Words and music by Crofford)
 

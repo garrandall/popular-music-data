@@ -1,8 +1,11 @@
 ---
+album: So
 artists:
 - Peter Gabriel
+external_ids:
+  spotify: spotify:track:4AUS8KNz7zX8XFu9L38GT0
 features: []
-genres: []
+first_released_as_single: false
 key: sledgehammer-peter-gabriel
 lyrics_url: https://www.azlyrics.com/lyrics/petergabriel/sledgehammer.html
 name: Sledgehammer
@@ -91,8 +94,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1986-09-27'
+release_year: 1986
+runtime: 311986
 ---
-
 You could have a steam train
 If you'd just lay down your tracks
 You could have an aeroplane flying
@@ -147,6 +151,3 @@ I've been feeding the rhythm
 I've been feeding the rhythm
 It's what we're doing, doing
 All day and night
-
-
-

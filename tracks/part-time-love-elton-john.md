@@ -1,8 +1,11 @@
 ---
+album: A Single Man
 artists:
 - Elton John
+external_ids:
+  spotify: spotify:track:7fOCk5J3V7rC914y1seAvs
 features: []
-genres: []
+first_released_as_single: false
 key: part-time-love-elton-john
 lyrics_url: https://www.azlyrics.com/lyrics/eltonjohn/parttimelove.html
 name: Part-Time Love
@@ -47,8 +50,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1979-01-13'
+release_year: 1978
+runtime: 196426
 ---
-
 Part time love is bringing me down
 'Cause I just can't get started with you my love
 Did I hear you saying that I'm too hard hearted
@@ -83,6 +87,3 @@ Because you, me and everybody needs a part time love
 And oh you, me and everybody's got a part time love
 And oh you, me and everybody needs a part time love
 You, me, everybody got a part time love
-
-
-

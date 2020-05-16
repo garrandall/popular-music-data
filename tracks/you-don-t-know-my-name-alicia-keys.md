@@ -1,8 +1,11 @@
 ---
+album: The Diary Of Alicia Keys
 artists:
 - Alicia Keys
+external_ids:
+  spotify: spotify:track:6LGwYMXXgURfaequXipzHx
 features: []
-genres: []
+first_released_as_single: false
 key: you-don-t-know-my-name-alicia-keys
 lyrics_url: https://genius.com/Alicia-keys-you-dont-know-my-name-lyrics
 name: You Don't Know My Name
@@ -87,6 +90,8 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '2004-03-27'
+release_year: 2003
+runtime: 366733
 ---
 Baby, baby, baby
 From the day I saw you

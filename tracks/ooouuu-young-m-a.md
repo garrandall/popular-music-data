@@ -1,8 +1,11 @@
 ---
+album: Herstory
 artists:
 - Young M.A
+external_ids:
+  spotify: spotify:track:0D21XvHcVsIvJM6FcGY2BT
 features: []
-genres: []
+first_released_as_single: true
 key: ooouuu-young-m-a
 lyrics_url: https://genius.com/Young-ma-ooouuu-lyrics
 name: OOOUUU
@@ -87,6 +90,8 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '2017-01-28'
+release_year: 2016
+runtime: 234525
 ---
 Yo, bro, I think I had too much Hennessy, man
 This Hennessy gettin' to me

@@ -1,8 +1,11 @@
 ---
+album: Breaking Curfew
 artists:
 - Red Rider
+external_ids:
+  spotify: spotify:track:529PsUjf4jXDWHk957tarb
 features: []
-genres: []
+first_released_as_single: false
 key: young-thing-wild-dreams--rock-me--red-rider
 lyrics_url: https://www.azlyrics.com/lyrics/redrider/youngthingwilddreamsrockme.html
 name: Young Thing Wild Dreams (Rock Me)
@@ -31,8 +34,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1984-07-21'
+release_year: 1984
+runtime: 212533
 ---
-
 Young thing, young thing
 Your blade is ripe
 Walk out with a fever
@@ -115,6 +119,3 @@ Young thing, wild dreams
 When they lock you inside
 Slip out the back (Rock me)
 Come on and move me
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Break Every Rule
 artists:
 - Tina Turner
+external_ids:
+  spotify: spotify:track:4Zu3egEh8DxX4Z8mSLjf8L
 features: []
-genres: []
+first_released_as_single: false
 key: two-people-tina-turner
 lyrics_url: https://www.azlyrics.com/lyrics/tinaturner/twopeople.html
 name: Two People
@@ -55,8 +58,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1987-02-07'
+release_year: 1986
+runtime: 249053
 ---
-
 TWO PEOPLE LIVING ON THE EDGE OF LIFE
 ARE PEOPLE RUNNING OUT OF DREAMS AND TIME
 I CAN HEAR IT WHEN YOU TELL ME SO
@@ -81,4 +85,3 @@ I`LL COME RUNNING TO YOUR RESCUE
 YOU GOTTA STAND BY ME
 THERE`S ALOT OF LOVE BETWEEN US
 WE SHOULD NEVER LET GO
-

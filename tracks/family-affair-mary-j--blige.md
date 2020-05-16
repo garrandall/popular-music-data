@@ -1,8 +1,11 @@
 ---
+album: No More Drama
 artists:
 - Mary J. Blige
+external_ids:
+  spotify: spotify:track:3aw9iWUQ3VrPQltgwvN9Xu
 features: []
-genres: []
+first_released_as_single: false
 key: family-affair-mary-j--blige
 lyrics_url: https://genius.com/Mary-j-blige-family-affair-lyrics
 name: Family Affair
@@ -171,6 +174,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '2002-05-04'
+release_year: 2001
+runtime: 265866
 ---
 Let's get it crunk upon
 Have fun upon up in this dancery

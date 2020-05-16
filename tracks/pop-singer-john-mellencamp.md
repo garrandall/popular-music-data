@@ -1,8 +1,11 @@
 ---
+album: Big Daddy
 artists:
 - John Mellencamp
+external_ids:
+  spotify: spotify:track:74DprDeArqMMsyBv8hU1Sj
 features: []
-genres: []
+first_released_as_single: false
 key: pop-singer-john-mellencamp
 lyrics_url: https://www.azlyrics.com/lyrics/johnmellencamp/popsinger.html
 name: Pop Singer
@@ -55,8 +58,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1989-07-15'
+release_year: 1989
+runtime: 168000
 ---
-
 Never wanted to be no pop singer,
 Never wanted to write no pop songs.
 Never had no weird hair to get my songs over.
@@ -80,6 +84,3 @@ Pop singer, writing pop songs.
 Never wanted to be no pop singer, of pop songs.
 A pop singer.
 Never wanted to write no pop songs.
-
-
-

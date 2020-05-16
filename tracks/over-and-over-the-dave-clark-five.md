@@ -1,8 +1,11 @@
 ---
+album: All the Hits
 artists:
 - The Dave Clark Five
+external_ids:
+  spotify: spotify:track:5pZmKhBISjmTWzjsp1uMR0
 features: []
-genres: []
+first_released_as_single: false
 key: over-and-over-the-dave-clark-five
 lyrics_url: https://www.musixmatch.com/lyrics/The-Dave-Clark-Five/Over-and-Over
 name: Over And Over
@@ -55,6 +58,8 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '1966-01-29'
+release_year: 1965
+runtime: 119800
 ---
 Ah-mmm, ah-mmm, ah-mmm, ah-mmm
 

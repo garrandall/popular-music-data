@@ -1,8 +1,11 @@
 ---
+album: Voicenotes
 artists:
 - Charlie Puth
+external_ids:
+  spotify: spotify:track:6qNALlmZa1ESnCxJmXE1K9
 features: []
-genres: []
+first_released_as_single: false
 key: the-way-i-am-charlie-puth
 lyrics_url: https://genius.com/Charlie-puth-the-way-i-am-lyrics
 name: The Way I Am
@@ -35,6 +38,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '2018-10-20'
+release_year: 2018
+runtime: 186080
 ---
 Yeah, maybe I'ma get a little anxious
 Maybe I'ma get a little shy

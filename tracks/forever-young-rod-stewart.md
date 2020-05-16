@@ -1,8 +1,11 @@
 ---
+album: Out of Order
 artists:
 - Rod Stewart
+external_ids:
+  spotify: spotify:track:6y4OjcEz7LMrdVGODrcAIv
 features: []
-genres: []
+first_released_as_single: false
 key: forever-young-rod-stewart
 lyrics_url: https://www.azlyrics.com/lyrics/rodstewart/foreveryoung.html
 name: Forever Young
@@ -103,8 +106,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1989-01-14'
+release_year: 1988
+runtime: 248000
 ---
-
 May the good Lord be with you
 Down every road you roam
 And may sunshine and happiness
@@ -141,6 +145,3 @@ Forever Young, Forever Young
 Forever Young ,Forever Young
 Forever Young, Forever Young
 For, Forever Young, Forever Young
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Pretty Little Angel Eyes
 artists:
 - Curtis Lee
+external_ids:
+  spotify: spotify:track:0IsgfnPMj5rbBQXOmuezO8
 features: []
-genres: []
+first_released_as_single: false
 key: pretty-little-angel-eyes-curtis-lee
 lyrics_url: https://genius.com/Curtis-lee-pretty-little-angel-eyes-lyrics
 name: Pretty Little Angel Eyes
@@ -51,6 +54,8 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '1961-09-11'
+release_year: 1961
+runtime: 157000
 ---
 Pretty little angel eyes
 Pretty little angel eyes

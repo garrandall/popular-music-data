@@ -1,9 +1,12 @@
 ---
+album: Hip Hug-Her
 artists:
 - Booker T.
 - The MG's
+external_ids:
+  spotify: spotify:track:2S4B8EwfbG4Uybj3czx6ph
 features: []
-genres: []
+first_released_as_single: false
 key: slim-jenkin-s-place-booker-t--the-mg-s
 lyrics_url: https://genius.com/Booker-t-and-the-mgs-slim-jenkins-place-lyrics
 name: Slim Jenkin's Place
@@ -28,5 +31,7 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1967-08-26'
+release_year: 1967
+runtime: 150626
 ---
 Instrumental

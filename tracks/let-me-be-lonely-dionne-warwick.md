@@ -1,8 +1,11 @@
 ---
+album: The Valley Of The Dolls
 artists:
 - Dionne Warwick
+external_ids:
+  spotify: spotify:track:2ofrKgfmvJk5qzgfyfCjkG
 features: []
-genres: []
+first_released_as_single: false
 key: let-me-be-lonely-dionne-warwick
 lyrics_url: https://www.azlyrics.com/lyrics/dionnewarwick/letmebelonely.html
 name: Let Me Be Lonely
@@ -27,8 +30,9 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '1968-07-06'
+release_year: 1968
+runtime: 218653
 ---
-
 Oh, let me be lonely
 I wanna be faithful and honest
 And true to the one I love
@@ -68,6 +72,3 @@ Oh, won't you let me be lonely
 Oh yeah, let me be lonely
 Oh, oh, yeah, let me be lonely, yeah
 I'll be, let me be lonely
-
-
-

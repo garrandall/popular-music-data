@@ -1,8 +1,11 @@
 ---
+album: Up To No Good
 artists:
 - Peter Wolf
+external_ids:
+  spotify: spotify:track:4YOzKJAdIzFryLFeF6VYXy
 features: []
-genres: []
+first_released_as_single: false
 key: 99-worlds-peter-wolf
 lyrics_url: https://genius.com/Peter-wolf-99-worlds-lyrics
 name: 99 Worlds
@@ -23,6 +26,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1990-04-07'
+release_year: 1990
+runtime: 216106
 ---
 The things that you want
 Baby I don't need

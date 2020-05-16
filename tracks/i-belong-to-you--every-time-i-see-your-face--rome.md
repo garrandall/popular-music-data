@@ -1,8 +1,11 @@
 ---
+album: Rome
 artists:
 - Rome
+external_ids:
+  spotify: spotify:track:1nP6feYWJVpbO41aezFtm2
 features: []
-genres: []
+first_released_as_single: false
 key: i-belong-to-you--every-time-i-see-your-face--rome
 lyrics_url: https://genius.com/Rome-r-b-i-belong-to-you-every-time-i-see-your-face-lyrics
 name: I Belong To You (Every Time I See Your Face)
@@ -111,6 +114,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1997-09-06'
+release_year: 1997
+runtime: 273266
 ---
 Every time I see your face
 It makes me want to sing

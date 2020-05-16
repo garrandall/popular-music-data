@@ -1,8 +1,11 @@
 ---
+album: Do You Wanna Dance
 artists:
 - Bobby Freeman
+external_ids:
+  spotify: spotify:track:4kJ78p6WhR9hBHB9V0ZAmm
 features: []
-genres: []
+first_released_as_single: false
 key: need-your-love-bobby-freeman
 lyrics_url: https://genius.com/Bobby-freeman-need-your-love-lyrics
 name: Need Your Love
@@ -27,6 +30,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1958-12-22'
+release_year: 1958
+runtime: 161866
 ---
 Oh, oh, oh...
 Won't you give your love to me

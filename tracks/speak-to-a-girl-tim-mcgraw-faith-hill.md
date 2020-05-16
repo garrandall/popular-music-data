@@ -1,9 +1,12 @@
 ---
+album: The Rest of Our Life
 artists:
 - Tim McGraw
 - Faith Hill
+external_ids:
+  spotify: spotify:track:421ebjYqaIXEG2KloTbXlH
 features: []
-genres: []
+first_released_as_single: false
 key: speak-to-a-girl-tim-mcgraw-faith-hill
 lyrics_url: https://www.azlyrics.com/lyrics/timmcgraw/speaktoagirl.html
 name: Speak To A Girl
@@ -16,9 +19,9 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '2017-04-22'
+release_year: 2017
+runtime: 232160
 ---
-
-
 She don't give a damn 'bout your Benjamin Franklin's, she wants Aretha
 She don't really care how you're spending your money, it's all how you treat her
 She just want a friend to be there when she opens her eyes in the morning
@@ -49,6 +52,3 @@ That's how you get with a lady who's worth more than anything in your whole worl
 You better respect your Mama, respect the hell out of her
 'Cause that's how you talk to a woman and that's how you speak to a girl
 That's how you talk to a woman, that's how you speak to a girl
-
-
-

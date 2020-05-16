@@ -1,8 +1,11 @@
 ---
+album: Two Lights
 artists:
 - Five For Fighting
+external_ids:
+  spotify: spotify:track:42IXcixHs7xsMmv5TKzoiG
 features: []
-genres: []
+first_released_as_single: false
 key: the-riddle-five-for-fighting
 lyrics_url: https://www.azlyrics.com/lyrics/fiveforfighting/theriddle.html
 name: The Riddle
@@ -79,8 +82,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2006-12-02'
+release_year: 1997
+runtime: 226480
 ---
-
 There was a man back in '95
 Whose heart ran out of summers
 But before he died, I asked him
@@ -149,6 +153,3 @@ Here's a riddle for you
 Find the Answer
 There's a reason for the world
 You and I
-
-
-

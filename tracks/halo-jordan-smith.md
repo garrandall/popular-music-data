@@ -1,8 +1,11 @@
 ---
+album: The Complete Season 9 Collection (The Voice Performance)
 artists:
 - Jordan Smith
+external_ids:
+  spotify: spotify:track:7DThz7qoNx3WWQJgEipP7W
 features: []
-genres: []
+first_released_as_single: false
 key: halo-jordan-smith
 lyrics_url: https://www.azlyrics.com/lyrics/jordansmith/halo.html
 name: Halo
@@ -11,8 +14,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2015-11-28'
+release_year: 2015
+runtime: 228240
 ---
-
 Remember those walls I built?
 Well, baby, they're tumbling down
 They didn't even put up a fight
@@ -89,6 +93,3 @@ Halo
 Halo
 (I can see your halo)
 Halo
-
-
-

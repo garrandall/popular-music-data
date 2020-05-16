@@ -1,9 +1,12 @@
 ---
+album: x
 artists:
 - Rudimental
+external_ids:
+  spotify: spotify:track:0vbbhcA6okLzvsy6WSTlLg
 features:
 - Ed Sheeran
-genres: []
+first_released_as_single: false
 key: lay-it-all-on-me-rudimental-ed-sheeran
 lyrics_url: https://www.azlyrics.com/lyrics/rudimental/layitallonmerudimentalvipmix.html
 name: Lay It All On Me
@@ -72,9 +75,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2016-02-06'
+release_year: 2013
+runtime: 242440
 ---
-
-
 Look
 Okay, I got it
 When that weight's on you, I'm gon' spot it
@@ -164,6 +167,3 @@ Lay it all, lay it all on me
 Lay it all on me
 Lay it all, lay it all on me
 Lay it all on me
-
-
-

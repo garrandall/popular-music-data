@@ -1,9 +1,12 @@
 ---
+album: Man of the Woods
 artists:
 - Justin Timberlake
+external_ids:
+  spotify: spotify:track:09ts3GnICqYEU5PkQCpJK3
 features:
 - Chris Stapleton
-genres: []
+first_released_as_single: true
 key: say-something-justin-timberlake-chris-stapleton
 lyrics_url: https://www.azlyrics.com/lyrics/justintimberlake/saysomething.html
 name: Say Something
@@ -72,9 +75,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2018-05-26'
+release_year: 2018
+runtime: 278893
 ---
-
-
 Oh
 Yeah, alright
 Oh
@@ -147,6 +150,3 @@ Maybe I'm looking for something I can't have
 Sometimes the greatest way to say something is to say nothing at all
 Sometimes the greatest way to say something is to say nothing at all
 Sometimes the greatest way to say something is to say nothing
-
-
-

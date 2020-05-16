@@ -1,8 +1,11 @@
 ---
+album: Playboi Carti
 artists:
 - Playboi Carti
+external_ids:
+  spotify: spotify:track:1e1JKLEDKP7hEQzJfNAgPl
 features: []
-genres: []
+first_released_as_single: false
 key: magnolia-playboi-carti
 lyrics_url: https://www.azlyrics.com/lyrics/playboi-carti/magnolia.html
 name: Magnolia
@@ -87,8 +90,9 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '2017-09-30'
+release_year: 2017
+runtime: 181812
 ---
-
 (Yo, Pierre You wanna come out here?)
 
 In New York I Milly Rock, hide it in my socks
@@ -156,6 +160,3 @@ Use to sell rerock, running from the cops
 Shooting at the opps
 Yo, Pierre You wanna come out here?
 Bitch ass nigga, fuck that nigga man!
-
-
-

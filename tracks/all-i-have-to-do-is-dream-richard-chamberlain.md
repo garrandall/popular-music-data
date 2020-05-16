@@ -1,8 +1,11 @@
 ---
+album: Richard Chamberlain Sings (TV's Dr. Kildare)
 artists:
 - Richard Chamberlain
+external_ids:
+  spotify: spotify:track:04uW2l7VrWeo3CJ9rQ5D6M
 features: []
-genres: []
+first_released_as_single: false
 key: all-i-have-to-do-is-dream-richard-chamberlain
 lyrics_url: https://genius.com/Richard-chamberlain-all-i-have-to-do-is-dream-lyrics
 name: All I Have To Do Is Dream
@@ -55,6 +58,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1963-04-27'
+release_year: 1962
+runtime: 151733
 ---
 Dream
 (Dream, dream, dream)

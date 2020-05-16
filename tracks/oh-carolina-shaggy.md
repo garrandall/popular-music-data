@@ -1,8 +1,11 @@
 ---
+album: Pure Pleasure
 artists:
 - Shaggy
+external_ids:
+  spotify: spotify:track:7MjTPvXSAYB1NyzXLQKsMn
 features: []
-genres: []
+first_released_as_single: false
 key: oh-carolina-shaggy
 lyrics_url: https://www.azlyrics.com/lyrics/shaggy/ohcarolinaradioedit.html
 name: Oh Carolina
@@ -75,8 +78,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1993-12-04'
+release_year: 1993
+runtime: 190893
 ---
-
 Carolina, wine your body gal
 Make dem know say you have it fi mad dem
 
@@ -139,6 +143,3 @@ All di Brooklyn gal dem
 Dem know fi jump an rock
 (I say) Di Flatbush Gal dem
 Know how fi get up and rock (Get up an rock)
-
-
-

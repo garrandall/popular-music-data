@@ -1,8 +1,11 @@
 ---
+album: With A Lot O' Soul
 artists:
 - The Temptations
+external_ids:
+  spotify: spotify:track:6mdLen2d7jtAzDig0GgKKA
 features: []
-genres: []
+first_released_as_single: false
 key: all-i-need-the-temptations
 lyrics_url: https://genius.com/The-temptations-all-i-need-lyrics
 name: All I Need
@@ -47,6 +50,8 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '1967-07-01'
+release_year: 1967
+runtime: 190040
 ---
 Forgive this fool, my darlin'
 

@@ -1,7 +1,8 @@
 ---
 artists:
-- Jerry Wallace With The Jewels
-features: []
+- Jerry Wallace
+features:
+- The Jewels
 genres: []
 key: primrose-lane-jerry-wallace-with-the-jewels
 lyrics_url: https://genius.com/Jerry-wallace-with-the-jewels-primrose-lane-lyrics

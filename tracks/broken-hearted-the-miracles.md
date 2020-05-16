@@ -1,8 +1,11 @@
 ---
+album: Cookin' With The Miracles
 artists:
 - The Miracles
+external_ids:
+  spotify: spotify:track:1pDuY4309XvcaYrTWKY0ka
 features: []
-genres: []
+first_released_as_single: false
 key: broken-hearted-the-miracles
 lyrics_url: https://genius.com/The-miracles-broken-hearted-lyrics
 name: Broken Hearted
@@ -11,6 +14,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1961-07-03'
+release_year: 1961
+runtime: 177946
 ---
 Broken hearted since we parted
 I don't go nowhere, but what do I care

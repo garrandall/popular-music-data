@@ -1,8 +1,11 @@
 ---
+album: Ready To Roll
 artists:
 - Thelma Houston
+external_ids:
+  spotify: spotify:track:5cJcdWSynjh80IAEiiYd6j
 features: []
-genres: []
+first_released_as_single: false
 key: saturday-night-sunday-morning-thelma-houston
 lyrics_url: https://www.azlyrics.com/lyrics/thelmahouston/saturdaynightsundaymorning.html
 name: Saturday Night Sunday Morning
@@ -59,8 +62,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1979-06-16'
+release_year: 1978
+runtime: 235293
 ---
-
 Were fooled by first impressions
 They're not always true
 You thought that I was made out of ice
@@ -91,6 +95,3 @@ This is the real thing
 Look at me beaming with love
 Saturday night is shining
 On my Sunday morning face
-
-
-

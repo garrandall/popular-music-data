@@ -1,8 +1,11 @@
 ---
+album: Diana
 artists:
 - Diana Ross
+external_ids:
+  spotify: spotify:track:3SnGymj6ijE2iuUfWxLo1q
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-coming-out-diana-ross
 lyrics_url: https://genius.com/Diana-ross-im-coming-out-lyrics
 name: I'm Coming Out
@@ -99,6 +102,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1981-02-07'
+release_year: 1980
+runtime: 323346
 ---
 I'm ... coming ... out
 I'm coming

@@ -1,8 +1,11 @@
 ---
+album: A Cowboy Afraid Of Horses
 artists:
 - Lobo
+external_ids:
+  spotify: spotify:track:5PTesaKTwx7W2DJ2MAqfBZ
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-tell-me-goodnight-lobo
 lyrics_url: https://genius.com/Lobo-singer-dont-tell-me-goodnight-lyrics
 name: Don't Tell Me Goodnight
@@ -43,6 +46,8 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '1975-05-24'
+release_year: 1975
+runtime: 187240
 ---
 Lying there beside me
 With your head resting on my arm

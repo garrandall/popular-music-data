@@ -1,8 +1,11 @@
 ---
+album: Hughes/Thrall
 artists:
 - Hughes/Thrall
+external_ids:
+  spotify: spotify:track:3DrVmGBiGzNlRyffjZuTK6
 features: []
-genres: []
+first_released_as_single: false
 key: beg-borrow-or-steal-hughes-thrall
 lyrics_url: https://genius.com/Hughes-thrall-beg-borrow-or-steal-lyrics
 name: Beg Borrow Or Steal
@@ -27,6 +30,8 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1983-01-15'
+release_year: 1982
+runtime: 226506
 ---
 I'm not always right
 It's up to you

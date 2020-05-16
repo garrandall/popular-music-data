@@ -1,8 +1,11 @@
 ---
+album: Best Of Love Songs
 artists:
 - Stevie B
+external_ids:
+  spotify: spotify:track:2Nw3ZpNLOhgpiY3XIKTDce
 features: []
-genres: []
+first_released_as_single: false
 key: love-me-for-life-stevie-b
 lyrics_url: https://genius.com/Stevie-b-love-me-for-life-lyrics
 name: Love Me For Life
@@ -63,6 +66,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1990-05-05'
+release_year: 1990
+runtime: 317200
 ---
 Oh...
 La de la de la

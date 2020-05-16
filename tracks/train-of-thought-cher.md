@@ -1,8 +1,11 @@
 ---
+album: Half Breed
 artists:
 - Cher
+external_ids:
+  spotify: spotify:track:5UhVjkC9wmKlWGy4OTPRc9
 features: []
-genres: []
+first_released_as_single: false
 key: train-of-thought-cher
 lyrics_url: https://genius.com/Cher-train-of-thought-lyrics
 name: Train Of Thought
@@ -51,6 +54,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1974-08-03'
+release_year: 1973
+runtime: 155800
 ---
 When you're talkin' in your sleep
 And the name that you whisper ain't mine

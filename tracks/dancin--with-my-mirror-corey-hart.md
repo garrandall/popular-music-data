@@ -1,8 +1,11 @@
 ---
+album: Fields Of Fire
 artists:
 - Corey Hart
+external_ids:
+  spotify: spotify:track:4R15NBoa2KgJtbDRx6OrQg
 features: []
-genres: []
+first_released_as_single: false
 key: dancin--with-my-mirror-corey-hart
 lyrics_url: https://www.azlyrics.com/lyrics/coreyhart/dancinwithmymirror.html
 name: Dancin' With My Mirror
@@ -19,8 +22,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1987-04-11'
+release_year: 1986
+runtime: 258933
 ---
-
 Oh, no, no, ah
 
 Whoa, oh, oh
@@ -107,6 +111,3 @@ No, no, no
 (Dancing with my mirror)
 
 (Dancing with my mirror)
-
-
-

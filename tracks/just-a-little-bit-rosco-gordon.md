@@ -1,8 +1,11 @@
 ---
+album: Just A Little Bit
 artists:
 - Rosco Gordon
+external_ids:
+  spotify: spotify:track:2uTP2SyKzocaFtCdcwf9GF
 features: []
-genres: []
+first_released_as_single: false
 key: just-a-little-bit-rosco-gordon
 lyrics_url: https://genius.com/Rosco-gordon-just-a-little-bit-lyrics
 name: Just A Little Bit
@@ -35,6 +38,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1960-03-28'
+release_year: 1960
+runtime: 129106
 ---
 I don't want much
 I just-a want a little bit

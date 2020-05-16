@@ -1,8 +1,11 @@
 ---
+album: Cry Pretty
 artists:
 - Carrie Underwood
+external_ids:
+  spotify: spotify:track:6VcXUV6nNDhFHDxJbtNSWx
 features: []
-genres: []
+first_released_as_single: true
 key: love-wins-carrie-underwood
 lyrics_url: https://www.azlyrics.com/lyrics/carrieunderwood/lovewins.html
 name: Love Wins
@@ -47,8 +50,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2019-04-06'
+release_year: 2018
+runtime: 228640
 ---
-
 A stray bullet and a momma cries
 Her baby won't be coming home tonight
 Sirens screaming down the avenue
@@ -90,6 +94,3 @@ Oh yeah, love wins
 
 Love will, love can, love still, love wins
 Love will, love can, love still, love wins
-
-
-

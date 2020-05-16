@@ -1,8 +1,11 @@
 ---
+album: Loveline
 artists:
 - Eddie Rabbitt
+external_ids:
+  spotify: spotify:track:54F9HUUqaVhkrDTAjZn0FA
 features: []
-genres: []
+first_released_as_single: false
 key: gone-too-far-eddie-rabbitt
 lyrics_url: https://www.azlyrics.com/lyrics/eddierabbitt/gonetoofar.html
 name: Gone Too Far
@@ -23,8 +26,9 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1980-05-24'
+release_year: 1979
+runtime: 207680
 ---
-
 I was heading home I hadn't planned on you
 I shouldn't be here now, but tell me, what can I do?
 The way you're looking in my eyes
@@ -55,6 +59,3 @@ Gone too far, but I can't help it, I'm fallin'
 
 Gone too far, feels too good to turn back now
 Gone too far, but I can't help it, I'm fallin'
-
-
-

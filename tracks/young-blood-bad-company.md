@@ -1,8 +1,11 @@
 ---
+album: Run With The Pack
 artists:
 - Bad Company
+external_ids:
+  spotify: spotify:track:10dMw2vH0tbo9Rzi5JRTKR
 features: []
-genres: []
+first_released_as_single: false
 key: young-blood-bad-company
 lyrics_url: https://www.azlyrics.com/lyrics/badcompany/youngblood.html
 name: Young Blood
@@ -59,8 +62,9 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '1976-06-12'
+release_year: 1976
+runtime: 163613
 ---
-
 I saw her standing on the corner
 A yellow ribbon in her hair
 I couldn't keep myself from callin'
@@ -90,6 +94,3 @@ Cause she's the one, she's the one, she's the one, she's the one
 
 Young blood, young blood, young blood
 I can't get you out of my mind
-
-
-

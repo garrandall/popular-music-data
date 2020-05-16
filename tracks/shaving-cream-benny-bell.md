@@ -1,8 +1,11 @@
 ---
+album: Holiday Shaving Cream
 artists:
 - Benny Bell
+external_ids:
+  spotify: spotify:track:03MBQiiyCqKLHi6I8F9cYu
 features: []
-genres: []
+first_released_as_single: true
 key: shaving-cream-benny-bell
 lyrics_url: https://genius.com/Benny-bell-shaving-cream-lyrics
 name: Shaving Cream
@@ -51,6 +54,8 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1975-05-17'
+release_year: 1975
+runtime: 179295
 ---
 I have a sad story to tell you
 It may hurt your feelings a bit

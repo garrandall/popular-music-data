@@ -1,9 +1,12 @@
 ---
+album: 'The First Family of Soul: The Best of The Five Stairsteps'
 artists:
 - Five Stairsteps
 - Cubie
+external_ids:
+  spotify: spotify:track:5KVKsVfutYirN4Hj0cfu4X
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-change-your-love-five-stairsteps-cubie
 lyrics_url: https://www.musixmatch.com/lyrics/The-Five-Stairsteps-Cubie-Burke/Don-t-Change-Your-Love
 name: Don't Change Your Love
@@ -44,6 +47,8 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '1968-10-19'
+release_year: 1968
+runtime: 168506
 ---
 With Cubie
 Baby, this year, I've been born again

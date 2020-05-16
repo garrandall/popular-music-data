@@ -1,8 +1,11 @@
 ---
+album: Rise
 artists:
 - Herb Alpert
+external_ids:
+  spotify: spotify:track:61l1IZVCE3gk6RHFRtH01c
 features: []
-genres: []
+first_released_as_single: false
 key: rotation-herb-alpert
 lyrics_url: https://genius.com/Herb-alpert-rotation-lyrics
 name: Rotation
@@ -59,5 +62,7 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1980-02-09'
+release_year: 1979
+runtime: 311413
 ---
 Instrumental

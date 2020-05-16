@@ -1,8 +1,11 @@
 ---
+album: '5'
 artists:
 - Lenny Kravitz
+external_ids:
+  spotify: spotify:track:1OxcIUqVmVYxT6427tbhDW
 features: []
-genres: []
+first_released_as_single: false
 key: fly-away-lenny-kravitz
 lyrics_url: https://www.azlyrics.com/lyrics/lennykravitz/flyaway.html
 name: Fly Away
@@ -135,8 +138,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1999-07-10'
+release_year: 1998
+runtime: 221332
 ---
-
 I wish that I could fly
 Into the sky
 So very high
@@ -200,6 +204,3 @@ I want to get away
 I want to fly away
 Yeah with you
 Yeah yeah yeah yeah yeah
-
-
-

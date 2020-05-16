@@ -1,8 +1,11 @@
 ---
+album: In Person!
 artists:
 - Tony Bennett
+external_ids:
+  spotify: spotify:track:1LdR8g2RNMijylY5kS69Iq
 features: []
-genres: []
+first_released_as_single: false
 key: firefly-tony-bennett
 lyrics_url: https://www.azlyrics.com/lyrics/tonybennett/firefly.html
 name: Firefly
@@ -59,8 +62,9 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1958-12-01'
+release_year: 1958
+runtime: 98426
 ---
-
 I call her Firefly
 Cause, oh, my
 She radiates moonglow
@@ -105,6 +109,3 @@ Firefly, shine a little light on
 Shine a little light on
 Shine a little light on me
 (in the mornin')
-
-
-

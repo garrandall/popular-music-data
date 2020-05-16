@@ -1,8 +1,11 @@
 ---
+album: Blessed Are...
 artists:
 - Joan Baez
+external_ids:
+  spotify: spotify:track:0uHYplBhwLYey7f9qAmnSM
 features: []
-genres: []
+first_released_as_single: false
 key: the-night-they-drove-old-dixie-down-joan-baez
 lyrics_url: https://www.azlyrics.com/lyrics/joanbaez/thenighttheydroveolddixiedown.html
 name: The Night They Drove Old Dixie Down
@@ -67,8 +70,9 @@ rankings:
   rank: 28
   ranking_list: Billboard Hot 100
   start_date: '1971-11-20'
+release_year: 1971
+runtime: 206066
 ---
-
 Virgil Caine is my name
 And I drove on the Danville train
 'Til so much cavalry came
@@ -124,6 +128,3 @@ They went
 Laaaaaa, la-la-la-laaaaaa
 La-la, la-la
 La-la-la-laaaaaa
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: The Chokin' Kind
 artists:
 - Joe Simon
+external_ids:
+  spotify: spotify:track:3ouh6oB7IGqP2HVFCVFpLj
 features: []
-genres: []
+first_released_as_single: false
 key: the-chokin--kind-joe-simon
 lyrics_url: https://genius.com/Joe-simon-the-chokin-kind-lyrics
 name: The Chokin' Kind
@@ -55,6 +58,8 @@ rankings:
   rank: 28
   ranking_list: Billboard Hot 100
   start_date: '1969-06-07'
+release_year: 1969
+runtime: 160280
 ---
 I only meant to love you
 Didn't you know it babe

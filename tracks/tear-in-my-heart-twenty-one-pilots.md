@@ -1,8 +1,11 @@
 ---
+album: Blurryface
 artists:
 - twenty one pilots
+external_ids:
+  spotify: spotify:track:3bnVBN67NBEzedqQuWrpP4
 features: []
-genres: []
+first_released_as_single: false
 key: tear-in-my-heart-twenty-one-pilots
 lyrics_url: https://www.azlyrics.com/lyrics/twentyonepilots/tearinmyheart.html
 name: Tear In My Heart
@@ -39,8 +42,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2015-08-08'
+release_year: 2015
+runtime: 188493
 ---
-
 ìëíì¸ì 
 
 Sometimes you've got to bleed to know,
@@ -97,6 +101,3 @@ My heart is my armor,
 She's the tear in my heart, she's a carver,
 She's a butcher with a smile, cut me farther,
 Than I've ever been.
-
-
-

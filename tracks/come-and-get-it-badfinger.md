@@ -1,8 +1,11 @@
 ---
+album: Magic Christian Music (Remastered 2010
 artists:
 - Badfinger
+external_ids:
+  spotify: spotify:track:0wb21I1NV5uVUolRXIqlJF
 features: []
-genres: []
+first_released_as_single: false
 key: come-and-get-it-badfinger
 lyrics_url: https://genius.com/Badfinger-come-and-get-it-lyrics
 name: Come And Get It
@@ -67,6 +70,8 @@ rankings:
   rank: 29
   ranking_list: Billboard Hot 100
   start_date: '1970-05-16'
+release_year: 1970
+runtime: 143213
 ---
 If you want it, here it is come and get it
 Mm-mm-mm-mm, make your mind up fast

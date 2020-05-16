@@ -1,8 +1,11 @@
 ---
+album: Nothing to Lose
 artists:
 - Eddie Money
+external_ids:
+  spotify: spotify:track:3MrWnFHZd9uZiVXwoZOxqd
 features: []
-genres: []
+first_released_as_single: false
 key: walk-on-water-eddie-money
 lyrics_url: https://www.azlyrics.com/lyrics/eddiemoney/walkonwater.html
 name: Walk On Water
@@ -91,8 +94,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1989-02-18'
+release_year: 1977
+runtime: 279026
 ---
-
 Well if I could walk on water 
 And if I could find some way to prove 
 If I could walk on water would you believe in me 
@@ -151,6 +155,3 @@ Do I have to walk on water, walk on water for you
 Do I have to walk on water 
 Do I have to find some way to prove 
 Yeah, yeah, walk on water, walk on water for you
-
-
-

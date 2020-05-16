@@ -1,8 +1,11 @@
 ---
+album: RMG's Lost Tracks
 artists:
 - Clarence Ashe
+external_ids:
+  spotify: spotify:track:7sxxIKWoRYY2sYZvIJLDGM
 features: []
-genres: []
+first_released_as_single: false
 key: trouble-i-ve-had-clarence-ashe
 lyrics_url: https://www.musixmatch.com/lyrics/Clarence-Ashe/Trouble-I-ve-Had
 name: Trouble I've Had
@@ -11,6 +14,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1964-06-06'
+release_year: 1964
+runtime: 217933
 ---
 Some of you all, I know
 I told this story to before

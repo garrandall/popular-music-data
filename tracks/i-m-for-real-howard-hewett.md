@@ -1,8 +1,11 @@
 ---
+album: I Commit To Love
 artists:
 - Howard Hewett
+external_ids:
+  spotify: spotify:track:5vNivpfJaXsTpYpxIHsjvm
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-for-real-howard-hewett
 lyrics_url: https://genius.com/Howard-hewett-im-for-real-lyrics
 name: I'm For Real
@@ -19,6 +22,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1986-11-22'
+release_year: 1986
+runtime: 285946
 ---
 Girl, I wanna sit you down
 And let you know just how I feel

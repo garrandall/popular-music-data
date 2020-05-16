@@ -1,8 +1,11 @@
 ---
+album: Sweatshirt
 artists:
 - Jacob Sartorius
+external_ids:
+  spotify: spotify:track:0B3LaidsxjnBTUlKgKQQe5
 features: []
-genres: []
+first_released_as_single: true
 key: sweatshirt-jacob-sartorius
 lyrics_url: https://www.azlyrics.com/lyrics/jacobsartorius/sweatshirt.html
 name: Sweatshirt
@@ -11,8 +14,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2016-07-02'
+release_year: 2016
+runtime: 171250
 ---
-
 Chillin' with a hair tie,
 No makeup, with some sweatpants on
 You know I can always be that guy
@@ -65,6 +69,3 @@ So, baby, wear my
 'Cause you're the only one I hold
 And I don't want you to be cold
 So, baby, wear my...
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: A Few Small Repairs
 artists:
 - Shawn Colvin
+external_ids:
+  spotify: spotify:track:4mOxpj82q6n3EO7HBZCelX
 features: []
-genres: []
+first_released_as_single: false
 key: sunny-came-home-shawn-colvin
 lyrics_url: https://www.azlyrics.com/lyrics/shawncolvin/sunnycamehome.html
 name: Sunny Came Home
@@ -135,8 +138,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1998-02-14'
+release_year: 1996
+runtime: 264200
 ---
-
 Sunny came home to her favorite room
 Sunny sat down in the kitchen
 She opened a book and a box of tools
@@ -175,6 +179,3 @@ Sunny came home
 Sunny came home
 Came home
 Home
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Just Dance Volume 2
 artists:
 - Jocelyn Brown
+external_ids:
+  spotify: spotify:track:3rlWiak1LEfCnFJWY8NEXB
 features: []
-genres: []
+first_released_as_single: true
 key: somebody-else-s-guy-jocelyn-brown
 lyrics_url: https://genius.com/Jocelyn-brown-somebody-elses-guy-lyrics
 name: Somebody Else's Guy
@@ -47,6 +50,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1984-08-18'
+release_year: 1984
+runtime: 378093
 ---
 I can´t get off my high horse
 And I can´t let you go

@@ -1,9 +1,12 @@
 ---
+album: Black Panther The Album Music From And Inspired By
 artists:
 - Khalid
 - Swae Lee
+external_ids:
+  spotify: spotify:track:49N3mDCgadkV3zFIkLWjlG
 features: []
-genres: []
+first_released_as_single: false
 key: the-ways-khalid-swae-lee
 lyrics_url: https://www.azlyrics.com/lyrics/khalid/theways.html
 name: The Ways
@@ -20,9 +23,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2018-03-10'
+release_year: 2018
+runtime: 238893
 ---
-
-
 Most of them gon' talk, I know, I know
 Most of them gon' fall, I know, I know
 We gon' bet it all, I know-ow-ow
@@ -100,6 +103,3 @@ Power girl, yeah, she's over the city
 Our girl, yeah she turned it over
 Power girl, yeah, she's over the city
 Our girl, yeah she turned it over
-
-
-

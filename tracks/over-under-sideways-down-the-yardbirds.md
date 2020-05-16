@@ -1,8 +1,11 @@
 ---
+album: Roger the Engineer
 artists:
 - The Yardbirds
+external_ids:
+  spotify: spotify:track:07KYQySlrmE94gaLbhvp4X
 features: []
-genres: []
+first_released_as_single: false
 key: over-under-sideways-down-the-yardbirds
 lyrics_url: https://www.azlyrics.com/lyrics/yardbirds/overundersidewaysdown.html
 name: Over Under Sideways Down
@@ -51,8 +54,9 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1966-09-03'
+release_year: 1966
+runtime: 142506
 ---
-
 Hey! Hey! Hey! Hey!
 Cars and girls are easy come by in this day and age,
 Laughing, joking, drinking, smoking,
@@ -93,6 +97,3 @@ When will it end, when will it end.
 
 Hey! Hey! Hey! Hey!
 Over under sideways down...
-
-
-

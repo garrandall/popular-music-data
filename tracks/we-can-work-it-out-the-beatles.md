@@ -1,8 +1,11 @@
 ---
+album: '1'
 artists:
 - The Beatles
+external_ids:
+  spotify: spotify:track:7LNiAjyg9P2GKINTtN6Yt8
 features: []
-genres: []
+first_released_as_single: false
 key: we-can-work-it-out-the-beatles
 lyrics_url: https://genius.com/The-beatles-we-can-work-it-out-lyrics
 name: We Can Work It Out
@@ -55,6 +58,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1966-03-05'
+release_year: 1965
+runtime: 136120
 ---
 Try to see it my way
 Do I have to keep on talking till I can't go on?

@@ -1,8 +1,11 @@
 ---
+album: Go Bo Diddley
 artists:
 - Bo Diddley
+external_ids:
+  spotify: spotify:track:7hajZgAZPUxRu6YwuyODI8
 features: []
-genres: []
+first_released_as_single: false
 key: crackin-up-bo-diddley
 lyrics_url: https://genius.com/Bo-diddley-crackin-up-lyrics
 name: Crackin Up
@@ -27,6 +30,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1959-08-03'
+release_year: 1959
+runtime: 123133
 ---
 You always holling about wherever I been
 You always screaming about the money I spend

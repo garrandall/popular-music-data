@@ -1,8 +1,11 @@
 ---
+album: St. Elsewhere
 artists:
 - Gnarls Barkley
+external_ids:
+  spotify: spotify:track:2N5zMZX7YeL1tico8oQxa9
 features: []
-genres: []
+first_released_as_single: false
 key: crazy-gnarls-barkley
 lyrics_url: https://www.azlyrics.com/lyrics/gnarlsbarkley/crazy.html
 name: Crazy
@@ -123,8 +126,9 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '2006-12-02'
+release_year: 2006
+runtime: 182066
 ---
-
 I remember when, I remember, I remember when I lost my mind
 There was something so pleasant about that place.
 Even your emotions had an echo
@@ -166,6 +170,3 @@ Maybe we're crazy
 Probably
 
 Uh, uh
-
-
-

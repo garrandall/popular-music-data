@@ -1,8 +1,11 @@
 ---
+album: Beverly Hills 90210-The Soundtrack
 artists:
 - Shanice
+external_ids:
+  spotify: spotify:track:6pVU9bk1Tvbqlq719vJooz
 features: []
-genres: []
+first_released_as_single: false
 key: saving-forever-for-you-shanice
 lyrics_url: https://genius.com/Shanice-saving-forever-for-you-lyrics
 name: Saving Forever For You
@@ -103,6 +106,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1993-04-03'
+release_year: 1992
+runtime: 268733
 ---
 I've never been so sure about anything before
 But this loving feeling

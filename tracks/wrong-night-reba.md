@@ -1,8 +1,11 @@
 ---
+album: If You See Him
 artists:
 - Reba
+external_ids:
+  spotify: spotify:track:3LYHh0VAiQhcw2rgqhtNf4
 features: []
-genres: []
+first_released_as_single: false
 key: wrong-night-reba
 lyrics_url: https://www.azlyrics.com/lyrics/rebamcentire/wrongnight.html
 name: Wrong Night
@@ -59,8 +62,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1999-03-06'
+release_year: 1998
+runtime: 171026
 ---
-
 I set my mind to it said I wasn't gonna do it no how so sir no way
 I wouldn't give my heart up gonna keep my guard up and save it for another
 Then you walked in with that crazy grin and everything I swore before
@@ -87,6 +91,3 @@ Is it gravity or destiny either way there's nothing I can do
 Looks like I picked the wrong night not to fall in love with you
 
 Looks like a wrong night not to fall in love with you
-
-
-

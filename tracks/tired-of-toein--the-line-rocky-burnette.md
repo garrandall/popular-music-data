@@ -1,8 +1,11 @@
 ---
+album: Rock Solid
 artists:
 - Rocky Burnette
+external_ids:
+  spotify: spotify:track:3E3K8IXR3o7XOBvaGE2e55
 features: []
-genres: []
+first_released_as_single: true
 key: tired-of-toein--the-line-rocky-burnette
 lyrics_url: https://genius.com/Rocky-burnette-tired-of-toein-the-line-lyrics
 name: Tired Of Toein' The Line
@@ -83,6 +86,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1980-09-13'
+release_year: 1979
+runtime: 223373
 ---
 Baby
 I'm tired of toein' the line

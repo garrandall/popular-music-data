@@ -1,9 +1,12 @@
 ---
+album: PRISM
 artists:
 - Katy Perry
+external_ids:
+  spotify: spotify:track:4jbmgIyjGoXjY01XxatOx6
 features:
 - Juicy J
-genres: []
+first_released_as_single: false
 key: dark-horse-katy-perry-juicy-j
 lyrics_url: https://www.azlyrics.com/lyrics/katyperry/darkhorse.html
 name: Dark Horse
@@ -236,8 +239,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2014-11-01'
+release_year: 2013
+runtime: 215672
 ---
-
 Oh, no
 
 
@@ -326,6 +330,3 @@ Are you ready for, ready for (ready for)
 A perfect storm, perfect storm (a perfect storm)
 Cause once you're mine, once you're mine (mine)
 There's no going back
-
-
-

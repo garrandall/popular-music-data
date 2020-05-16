@@ -1,8 +1,11 @@
 ---
+album: Promised Land
 artists:
 - Elvis Presley
+external_ids:
+  spotify: spotify:track:0SSKHTfyUmL8JUQtfpKcfB
 features: []
-genres: []
+first_released_as_single: false
 key: promised-land-elvis-presley
 lyrics_url: https://www.azlyrics.com/lyrics/elvispresley/promisedland.html
 name: Promised Land
@@ -59,8 +62,9 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '1975-01-18'
+release_year: 1974
+runtime: 173786
 ---
-
 I left my home in Norfolk Virginia
 California on my mind
 I straddled that Greyhound
@@ -116,6 +120,3 @@ Los Angeles give me Norfolk Virginia
 Tidewater four ten o nine
 Tell the folks back home this is the promised land calling
 And the poor boy is on the line
-
-
-

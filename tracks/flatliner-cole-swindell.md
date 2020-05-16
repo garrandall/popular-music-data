@@ -1,8 +1,11 @@
 ---
+album: You Should Be Here
 artists:
 - Cole Swindell
+external_ids:
+  spotify: spotify:track:0WyFpxYlBCgH1gMXd26OOr
 features: []
-genres: []
+first_released_as_single: false
 key: flatliner-cole-swindell
 lyrics_url: https://www.azlyrics.com/lyrics/coleswindell/flatliner.html
 name: Flatliner
@@ -79,9 +82,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2017-09-09'
+release_year: 2016
+runtime: 177066
 ---
-
-
 Dang, girl, look at you stoppin' me in my boots
 What's a country boy to do but say uh huh
 Smile beatin' my chest up, you're downright dangerous
@@ -141,6 +144,3 @@ She's a flatliner
 Yeah, man, she's gonna hurt somebody
 Dude, she's worth the whiskey, bro, go get her one
 Yeah, she's a flatliner
-
-
-

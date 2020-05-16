@@ -1,8 +1,11 @@
 ---
+album: Summer Days (And Summer Nights)
 artists:
 - The Beach Boys
+external_ids:
+  spotify: spotify:track:6bJuuCtXYiwOcKT9s8uRh8
 features: []
-genres: []
+first_released_as_single: false
 key: california-girls-the-beach-boys
 lyrics_url: https://genius.com/The-beach-boys-california-girls-lyrics
 name: California Girls
@@ -51,6 +54,8 @@ rankings:
   rank: 32
   ranking_list: Billboard Hot 100
   start_date: '1965-10-02'
+release_year: 1965
+runtime: 160360
 ---
 Well, East coast girls are hip
 I really dig those styles they wear

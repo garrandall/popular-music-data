@@ -1,8 +1,11 @@
 ---
+album: Moana
 artists:
 - Alessia Cara
+external_ids:
+  spotify: spotify:track:1ehPJRt49h6N0LoryqKZXq
 features: []
-genres: []
+first_released_as_single: false
 key: how-far-i-ll-go-alessia-cara
 lyrics_url: https://genius.com/Alessia-cara-how-far-ill-go-lyrics
 name: How Far I'll Go
@@ -83,6 +86,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2017-04-29'
+release_year: 2016
+runtime: 175506
 ---
 I've been staring at the edge of the water
 Long as I can remember, never really knowing why

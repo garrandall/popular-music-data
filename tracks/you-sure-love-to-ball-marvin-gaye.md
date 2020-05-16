@@ -1,8 +1,11 @@
 ---
+album: Let's Get It On
 artists:
 - Marvin Gaye
+external_ids:
+  spotify: spotify:track:4hP5QCyKWJqB9YfjE3T2Ug
 features: []
-genres: []
+first_released_as_single: false
 key: you-sure-love-to-ball-marvin-gaye
 lyrics_url: https://www.azlyrics.com/lyrics/marvingaye/yousurelovetoball.html
 name: You Sure Love To Ball
@@ -31,8 +34,9 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '1974-03-02'
+release_year: 1973
+runtime: 284280
 ---
-
 OhBaby please turn yourself around
 Ah baby so I can love you
 Ohh baby baby
@@ -62,6 +66,3 @@ Got to get ready, got ot get ready
 (oh)
 Ohh baby You sure do love to ball
 Ohh baby you sure do love to ball
-
-
-

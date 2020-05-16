@@ -1,8 +1,11 @@
 ---
+album: The Journey
 artists:
 - Immature
+external_ids:
+  spotify: spotify:track:3siVRBbdy62hgyTMQp38Jk
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-not-a-fool-immature
 lyrics_url: https://genius.com/Immature-im-not-a-fool-lyrics
 name: I'm Not A Fool
@@ -39,6 +42,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1997-11-01'
+release_year: 1997
+runtime: 269706
 ---
 I'm reminiscing on all the times we shared
 I can't seem to forget the times that we spent

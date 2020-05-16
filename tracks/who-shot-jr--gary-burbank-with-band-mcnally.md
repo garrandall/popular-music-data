@@ -1,7 +1,8 @@
 ---
 artists:
-- Gary Burbank With Band McNally
-features: []
+- Gary Burbank
+features:
+- Band McNally
 genres: []
 key: who-shot-jr--gary-burbank-with-band-mcnally
 name: Who Shot JR?

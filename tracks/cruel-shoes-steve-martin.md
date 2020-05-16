@@ -1,8 +1,11 @@
 ---
+album: Comedy Is Not Pretty
 artists:
 - Steve Martin
+external_ids:
+  spotify: spotify:track:2qD4zVWSL9xpgTDC7sHRzY
 features: []
-genres: []
+first_released_as_single: false
 key: cruel-shoes-steve-martin
 name: Cruel Shoes
 rankings:
@@ -22,5 +25,7 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1979-12-15'
+release_year: 1979
+runtime: 137373
 ---
 

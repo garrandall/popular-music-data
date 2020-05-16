@@ -1,10 +1,13 @@
 ---
+album: Priceless
 artists:
 - Frankie J
+external_ids:
+  spotify: spotify:track:0K46fg1qHY1Y5E7q23zSTG
 features:
 - Mannie Fresh
 - Chamillionaire
-genres: []
+first_released_as_single: false
 key: that-girl-frankie-j-mannie-fresh-chamillionaire
 lyrics_url: https://www.azlyrics.com/lyrics/frankiej/thatgirl.html
 name: That Girl
@@ -65,9 +68,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2006-11-25'
+release_year: 2003
+runtime: 239400
 ---
-
-
 Ladies and gentlemen (ah-ah-ah-ah-ah)
 The most beautiful girl in the world pageant (ah-ah-ah-ah-ah)
 Brought to you by (Yeah) (ah-ah-ah-ah-ah)
@@ -174,6 +177,3 @@ That girl
 
 That girl
 Shawty you're some exiting to look at
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Still the One
 artists:
 - Orleans
+external_ids:
+  spotify: spotify:track:7bYUnb1L7cMwapVnY3o3qe
 features: []
-genres: []
+first_released_as_single: false
 key: love-takes-time-orleans
 lyrics_url: https://genius.com/Orleans-love-takes-time-lyrics
 name: Love Takes Time
@@ -67,6 +70,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1979-06-30'
+release_year: 1979
+runtime: 301773
 ---
 I saw a twinkle in her eye
 It lit a fire deep inside

@@ -1,8 +1,11 @@
 ---
+album: Blonde On Blonde
 artists:
 - Bob Dylan
+external_ids:
+  spotify: spotify:track:45hovXwN16Mcn3tA8K4IKS
 features: []
-genres: []
+first_released_as_single: false
 key: i-want-you-bob-dylan
 lyrics_url: https://genius.com/Bob-dylan-i-want-you-lyrics
 name: I Want You
@@ -35,6 +38,8 @@ rankings:
   rank: 52
   ranking_list: Billboard Hot 100
   start_date: '1966-08-13'
+release_year: 1965
+runtime: 171133
 ---
 The guilty undertaker sighs
 The lonesome organ grinder cries

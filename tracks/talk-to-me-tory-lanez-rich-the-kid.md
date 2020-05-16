@@ -1,9 +1,12 @@
 ---
+album: LoVE me NOw (ReLoAdeD)
 artists:
 - Tory Lanez
 - Rich The Kid
+external_ids:
+  spotify: spotify:track:3rT5KmiHcoEKAEAYmdDLWx
 features: []
-genres: []
+first_released_as_single: false
 key: talk-to-me-tory-lanez-rich-the-kid
 lyrics_url: https://genius.com/Tory-lanez-and-rich-the-kid-talk-to-me-lyrics
 name: Talk To Me
@@ -72,6 +75,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2019-02-23'
+release_year: 2018
+runtime: 184493
 ---
 Alright, cool
 Got it on smash

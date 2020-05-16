@@ -1,10 +1,13 @@
 ---
+album: Spider-Man Turn Off The Dark
 artists:
 - Reeve Carney
+external_ids:
+  spotify: spotify:track:46uhQJt7GSn14w1b46rIvn
 features:
 - Bono
 - The Edge
-genres: []
+first_released_as_single: false
 key: rise-above-1-reeve-carney-bono-the-edge
 lyrics_url: https://www.musixmatch.com/lyrics/Reeve-Carney-feat-Bono-and-The-Edge/Rise-Above-1
 name: Rise Above 1
@@ -13,6 +16,8 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '2011-06-11'
+release_year: 2011
+runtime: 232320
 ---
 And you said rise above
 Open your eyes up

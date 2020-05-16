@@ -1,8 +1,11 @@
 ---
+album: 'Thin Line Between Love & Hate: Golden Classics'
 artists:
 - The Persuaders
+external_ids:
+  spotify: spotify:track:3q9e1qjPQAqZOQLR2BBqVK
 features: []
-genres: []
+first_released_as_single: false
 key: love-gonna-pack-up--and-walk-out--the-persuaders
 lyrics_url: https://genius.com/Persuaders-love-gonna-pack-up-and-walk-out-lyrics
 name: Love Gonna Pack Up (And Walk Out)
@@ -47,6 +50,8 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1972-02-26'
+release_year: 1971
+runtime: 200173
 ---
 We gotta get it together (now) before it's too late
 (What are we waiting for?)

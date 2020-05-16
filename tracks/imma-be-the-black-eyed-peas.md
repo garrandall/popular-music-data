@@ -1,8 +1,11 @@
 ---
+album: THE E.N.D. (THE ENERGY NEVER DIES)
 artists:
 - The Black Eyed Peas
+external_ids:
+  spotify: spotify:track:5OiLJ8tjUPFiPX2gVM8fxJ
 features: []
-genres: []
+first_released_as_single: false
 key: imma-be-the-black-eyed-peas
 lyrics_url: https://www.azlyrics.com/lyrics/blackeyedpeas/immabe.html
 name: Imma Be
@@ -115,8 +118,9 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '2010-06-19'
+release_year: 2009
+runtime: 257560
 ---
-
 I'mma be I'mma be I'mma I'mma I'mma be
 I'mma be I'mma be I'mma I'mma I'mma be
 I'mma be I'mma be I'mma I'mma I'mma be
@@ -228,6 +232,3 @@ Celebrate like I'mma be
 I'mma be I'mma be I'mma be I'mma be
 I'mma be I'mma be I'mma be I'mma be
 I'mma be I'mma be I'mma be I'mma be
-
-
-

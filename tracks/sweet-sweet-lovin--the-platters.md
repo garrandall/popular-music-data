@@ -1,8 +1,11 @@
 ---
+album: 16 Greatest Hits
 artists:
 - The Platters
+external_ids:
+  spotify: spotify:track:7FmJekHUTWjaAzATpJpZeG
 features: []
-genres: []
+first_released_as_single: false
 key: sweet-sweet-lovin--the-platters
 lyrics_url: https://www.azlyrics.com/lyrics/platters/sweetsweetlovin.html
 name: Sweet Sweet Lovin'
@@ -35,8 +38,9 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1967-12-02'
+release_year: 1967
+runtime: 117266
 ---
-
 Oh-oh, yes I'm the great pretender
 Pretending that I'm doing well
 My need is such I pretend too much
@@ -67,6 +71,3 @@ I'm wearing my heart like a crown
 Pretending that you're still around
 
 Still around
-
-
-

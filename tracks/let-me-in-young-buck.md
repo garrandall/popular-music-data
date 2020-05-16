@@ -1,8 +1,11 @@
 ---
+album: Straight Outta Cashville
 artists:
 - Young Buck
+external_ids:
+  spotify: spotify:track:6qkZ6D3ogNyW2YDWsz7e3z
 features: []
-genres: []
+first_released_as_single: false
 key: let-me-in-young-buck
 lyrics_url: https://genius.com/Young-buck-let-me-in-lyrics
 name: Let Me In
@@ -55,6 +58,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2004-10-09'
+release_year: 2004
+runtime: 224253
 ---
 Yeah, It's 50 Cent, Young Buck
 G-G-G-G-G-G-Unit!

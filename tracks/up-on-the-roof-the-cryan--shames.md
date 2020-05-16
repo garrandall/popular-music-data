@@ -1,8 +1,11 @@
 ---
+album: A Scratch in the Sky
 artists:
 - The Cryan' Shames
+external_ids:
+  spotify: spotify:track:7s5HhHeMmpA2QuaLTLDcQD
 features: []
-genres: []
+first_released_as_single: false
 key: up-on-the-roof-the-cryan--shames
 lyrics_url: https://genius.com/The-cryan-shames-up-on-the-roof-lyrics
 name: Up On The Roof
@@ -19,6 +22,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1968-04-20'
+release_year: 1967
+runtime: 203680
 ---
 Goffin-King
 

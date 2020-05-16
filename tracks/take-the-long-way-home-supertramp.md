@@ -1,8 +1,11 @@
 ---
+album: Breakfast In America
 artists:
 - Supertramp
+external_ids:
+  spotify: spotify:track:0v0XYK0pLgsPiq5u4FKHaw
 features: []
-genres: []
+first_released_as_single: false
 key: take-the-long-way-home-supertramp
 lyrics_url: https://www.azlyrics.com/lyrics/supertramp/takethelongwayhome.html
 name: Take The Long Way Home
@@ -67,8 +70,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1980-01-19'
+release_year: 1979
+runtime: 308853
 ---
-
 So you think you're a Romeo
 playing a part in a picture-show
 Take the long way home
@@ -109,6 +113,3 @@ So, when the day comes to settle down,
 Who's to blame if you're not around?
 You took the long way home
 You took the long way home...
-
-
-

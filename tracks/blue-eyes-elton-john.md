@@ -1,8 +1,11 @@
 ---
+album: Jump Up!
 artists:
 - Elton John
+external_ids:
+  spotify: spotify:track:4PFhHd7DsNg0ke9Nmlxms5
 features: []
-genres: []
+first_released_as_single: false
 key: blue-eyes-elton-john
 lyrics_url: https://genius.com/Elton-john-blue-eyes-lyrics
 name: Blue Eyes
@@ -79,6 +82,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1982-11-06'
+release_year: 1982
+runtime: 206266
 ---
 Blue eyes
 Baby's got blue eyes

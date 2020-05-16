@@ -1,8 +1,11 @@
 ---
+album: Ultimate Pitch Perfect (Original Motion Picture Soundtrack)
 artists:
 - Anna Kendrick
+external_ids:
+  spotify: spotify:track:6mH3qVIeOsnQIAho5eWwhH
 features: []
-genres: []
+first_released_as_single: false
 key: cups--pitch-perfect-s-when-i-m-gone--anna-kendrick
 lyrics_url: https://genius.com/Anna-kendrick-cups-pop-version-lyrics
 name: Cups (Pitch Perfect's When I'm Gone)
@@ -183,6 +186,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '2013-11-09'
+release_year: 2013
+runtime: 128013
 ---
 I've got my ticket for the long way 'round
 Two bottle'a whiskey for the way

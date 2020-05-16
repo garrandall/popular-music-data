@@ -1,8 +1,11 @@
 ---
+album: Appetite For Destruction
 artists:
 - Guns N' Roses
+external_ids:
+  spotify: spotify:track:7snQQk1zcKl8gZ92AnueZW
 features: []
-genres: []
+first_released_as_single: false
 key: sweet-child-o--mine-guns-n--roses
 lyrics_url: https://genius.com/Guns-n-roses-sweet-child-o-mine-lyrics
 name: Sweet Child O' Mine
@@ -103,6 +106,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1988-12-03'
+release_year: 1987
+runtime: 356066
 ---
 She's got a smile that it seems to me
 Reminds me of childhood memories

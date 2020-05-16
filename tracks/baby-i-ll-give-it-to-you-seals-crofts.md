@@ -1,9 +1,12 @@
 ---
+album: Sudan Village
 artists:
 - Seals
 - Crofts
+external_ids:
+  spotify: spotify:track:2NLa7NKElfMjctOtgYkDEw
 features: []
-genres: []
+first_released_as_single: false
 key: baby-i-ll-give-it-to-you-seals-crofts
 lyrics_url: https://genius.com/Seals-and-crofts-baby-ill-give-it-to-you-lyrics
 name: Baby I'll Give It To You
@@ -36,6 +39,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1977-01-01'
+release_year: 1976
+runtime: 194906
 ---
 Seals-Bogan
 

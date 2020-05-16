@@ -1,8 +1,11 @@
 ---
+album: Waking Hours
 artists:
 - Del Amitri
+external_ids:
+  spotify: spotify:track:7DXJcM8STp1D7YiF6uN1Jq
 features: []
-genres: []
+first_released_as_single: false
 key: kiss-this-thing-goodbye-del-amitri
 lyrics_url: https://www.azlyrics.com/lyrics/delamitri/kissthisthinggoodbye.html
 name: Kiss This Thing Goodbye
@@ -51,8 +54,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1990-07-28'
+release_year: 1989
+runtime: 274506
 ---
-
 It seems like weeks since you looked at me, baby, without that look of distaste 
 I don't know why your feelings are changing but I've seen it in your face 
 And all those times when our lips were kissing, our tongues were telling lies 
@@ -74,6 +78,3 @@ Come on babe, let's kiss this thing goodbye
 Better make it sooner than later 
 Before it all turns sour 
 Don't you know we'd better kiss this thing goodbye
-
-
-

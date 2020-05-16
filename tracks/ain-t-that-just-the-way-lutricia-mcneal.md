@@ -1,8 +1,11 @@
 ---
+album: Ain't that Just the Way
 artists:
 - Lutricia McNeal
+external_ids:
+  spotify: spotify:track:6OmIDgADWwbBCuGNnd9jDj
 features: []
-genres: []
+first_released_as_single: false
 key: ain-t-that-just-the-way-lutricia-mcneal
 lyrics_url: https://genius.com/Lutricia-mcneal-aint-that-just-the-way-lyrics
 name: Ain't That Just The Way
@@ -71,6 +74,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1998-04-18'
+release_year: 1997
+runtime: 215600
 ---
 (Ain't that just the way that life goes down down down down
 Movin' way too fast or much too slow)

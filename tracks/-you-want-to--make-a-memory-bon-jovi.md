@@ -1,8 +1,11 @@
 ---
+album: Lost Highway
 artists:
 - Bon Jovi
+external_ids:
+  spotify: spotify:track:09ln4QumFqjIkfCFiW9aRk
 features: []
-genres: []
+first_released_as_single: false
 key: -you-want-to--make-a-memory-bon-jovi
 lyrics_url: https://www.azlyrics.com/lyrics/bonjovi/youwanttomakeamemory.html
 name: (You Want To) Make A Memory
@@ -87,8 +90,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2007-09-29'
+release_year: 2007
+runtime: 276453
 ---
-
 Hello again, it's you and me
 Kinda always like it used to be
 Sippin' wine, killing time
@@ -125,6 +129,3 @@ You could sing a melody to me
 And I could write a couple lines
 You wanna make a memory
 You wanna make a memory
-
-
-

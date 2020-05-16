@@ -1,8 +1,11 @@
 ---
+album: '1989'
 artists:
 - Taylor Swift
+external_ids:
+  spotify: spotify:track:6qnM0XXPZOINWA778uNqQ9
 features: []
-genres: []
+first_released_as_single: false
 key: welcome-to-new-york-taylor-swift
 lyrics_url: https://genius.com/Taylor-swift-welcome-to-new-york-lyrics
 name: Welcome To New York
@@ -15,6 +18,8 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '2014-11-15'
+release_year: 2014
+runtime: 212600
 ---
 Walking through a crowd, the village is aglow
 Kaleidoscope of loud heartbeats under coats

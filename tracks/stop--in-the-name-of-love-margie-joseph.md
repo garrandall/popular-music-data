@@ -1,8 +1,11 @@
 ---
+album: Margie Joseph Makes A New Impression/Phase II
 artists:
 - Margie Joseph
+external_ids:
+  spotify: spotify:track:58K94S9M4wbyVmuJISw7SS
 features: []
-genres: []
+first_released_as_single: false
 key: stop--in-the-name-of-love-margie-joseph
 lyrics_url: https://genius.com/Margie-joseph-stop-in-the-name-of-love-lyrics
 name: Stop! In The Name Of Love
@@ -19,6 +22,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1971-04-17'
+release_year: 1971
+runtime: 292600
 ---
 Oh
 Hey, come on in

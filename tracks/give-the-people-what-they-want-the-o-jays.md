@@ -1,8 +1,11 @@
 ---
+album: Survival
 artists:
 - The O'Jays
+external_ids:
+  spotify: spotify:track:1PpqJwngLvPd0VotrqusQm
 features: []
-genres: []
+first_released_as_single: false
 key: give-the-people-what-they-want-the-o-jays
 lyrics_url: https://genius.com/The-ojays-give-the-people-what-they-want-lyrics
 name: Give The People What They Want
@@ -43,6 +46,8 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '1975-06-28'
+release_year: 1972
+runtime: 250666
 ---
 You got to give the people, now
 Give the people what they want

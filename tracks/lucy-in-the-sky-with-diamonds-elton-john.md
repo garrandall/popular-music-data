@@ -1,8 +1,11 @@
 ---
+album: Captain Fantastic And The Brown Dirt Cowboy
 artists:
 - Elton John
+external_ids:
+  spotify: spotify:track:13JsYnkF16pHKuOFG6uI1C
 features: []
-genres: []
+first_released_as_single: false
 key: lucy-in-the-sky-with-diamonds-elton-john
 lyrics_url: https://www.azlyrics.com/lyrics/eltonjohn/lucyintheskywithdiamonds.html
 name: Lucy In The Sky With Diamonds
@@ -63,8 +66,9 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '1975-03-01'
+release_year: 1974
+runtime: 377573
 ---
-
 Picture yourself in a boat on a river
 With tangerine trees and marmalade skies
 Somebody calls you, you answer quite slowly
@@ -111,6 +115,3 @@ Lucy in the sky with diamonds
 Lucy in the sky with diamonds
 Lucy in the sky with diamonds
 ...
-
-
-

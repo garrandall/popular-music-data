@@ -1,8 +1,11 @@
 ---
+album: The Cars
 artists:
 - The Cars
+external_ids:
+  spotify: spotify:track:7hVhRCDV100Jq26NGR7adw
 features: []
-genres: []
+first_released_as_single: false
 key: good-times-roll-the-cars
 lyrics_url: https://genius.com/The-cars-good-times-roll-lyrics
 name: Good Times Roll
@@ -47,6 +50,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1979-05-19'
+release_year: 1978
+runtime: 225853
 ---
 Let the good times roll
 Let them knock you around

@@ -1,8 +1,11 @@
 ---
+album: Jimmy Ray
 artists:
 - Jimmy Ray
+external_ids:
+  spotify: spotify:track:6VWFrHAnLDyNUEJbJvpkZA
 features: []
-genres: []
+first_released_as_single: false
 key: are-you-jimmy-ray--jimmy-ray
 lyrics_url: https://genius.com/Jimmy-ray-are-you-jimmy-ray-lyrics
 name: Are You Jimmy Ray?
@@ -79,6 +82,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1998-06-20'
+release_year: 1998
+runtime: 201200
 ---
 Well!
 

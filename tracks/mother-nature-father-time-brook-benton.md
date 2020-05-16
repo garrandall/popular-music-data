@@ -1,8 +1,11 @@
 ---
+album: Mother Nature, Father Time
 artists:
 - Brook Benton
+external_ids:
+  spotify: spotify:track:0IXsuUvkB7epjAaL5nFqZn
 features: []
-genres: []
+first_released_as_single: false
 key: mother-nature-father-time-brook-benton
 lyrics_url: https://genius.com/Brook-benton-mother-nature-father-time-lyrics
 name: Mother Nature Father Time
@@ -35,6 +38,8 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1965-12-25'
+release_year: 1965
+runtime: 173373
 ---
 You're way on top now
 And you're having a ball

@@ -1,8 +1,11 @@
 ---
+album: Moon River / Delicious Together
 artists:
 - Jerry Butler
+external_ids:
+  spotify: spotify:track:03cYkjvuyZ4jACwo9MYEZW
 features: []
-genres: []
+first_released_as_single: false
 key: good-times-jerry-butler
 lyrics_url: https://genius.com/Jerry-butler-good-times-lyrics
 name: Good Times
@@ -23,6 +26,8 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1965-03-27'
+release_year: 1965
+runtime: 132040
 ---
 Got no job and my pockets
 They don't jingle

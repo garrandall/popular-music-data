@@ -1,9 +1,12 @@
 ---
+album: From Nothin' To Somethin' (Bonus Track Version)
 artists:
 - Fabolous
+external_ids:
+  spotify: spotify:track:0BAUo3Y2wyxtcArALvI1NI
 features:
 - Young Jeezy
-genres: []
+first_released_as_single: false
 key: diamonds-fabolous-young-jeezy
 lyrics_url: https://www.azlyrics.com/lyrics/fabolous/diamonds.html
 name: Diamonds
@@ -12,9 +15,9 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '2007-04-21'
+release_year: 2007
+runtime: 256720
 ---
-
-
 Diamonds On My Damn Chain! It Ain't Hard To Tell!
 
 
@@ -81,6 +84,3 @@ She saw the chain, gave me brain, no strain ever since
 Now that's what the fuck I call a good "Chain of Events"! N****!
 
 Diamonds On My Damn Chain! It Ain't Hard To Tell!
-
-
-

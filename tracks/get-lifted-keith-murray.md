@@ -1,8 +1,11 @@
 ---
+album: The Most Beautifullest Thing In This World
 artists:
 - Keith Murray
+external_ids:
+  spotify: spotify:track:544gpqcu9htj6mnufI5pk7
 features: []
-genres: []
+first_released_as_single: false
 key: get-lifted-keith-murray
 lyrics_url: https://genius.com/Keith-murray-get-lifted-lyrics
 name: Get Lifted
@@ -47,6 +50,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1995-05-06'
+release_year: 1994
+runtime: 242102
 ---
 Uh huh, yeah
 One two, one two

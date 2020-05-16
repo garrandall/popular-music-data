@@ -1,8 +1,11 @@
 ---
+album: Southern Voice
 artists:
 - Tim McGraw
+external_ids:
+  spotify: spotify:track:3wUw2C8bngb3UBDNlcY0JI
 features: []
-genres: []
+first_released_as_single: false
 key: southern-voice-tim-mcgraw
 lyrics_url: https://www.azlyrics.com/lyrics/timmcgraw/southernvoice.html
 name: Southern Voice
@@ -79,8 +82,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2010-03-06'
+release_year: 2009
+runtime: 242426
 ---
-
 Hank Williams sang it 
 Number 3 drove it 
 Chuck Berry twanged it 
@@ -143,6 +147,3 @@ Yeah, yeah, yeah, yeah
 Southern Voice 
 I got a southern voice 
 A southern voice
-
-
-

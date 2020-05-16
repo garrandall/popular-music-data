@@ -1,8 +1,11 @@
 ---
+album: The Best Of Laurie Records
 artists:
 - Bobby Goldsboro
+external_ids:
+  spotify: spotify:track:4wa5shE2P80cziwF2lPDJi
 features: []
-genres: []
+first_released_as_single: false
 key: molly-bobby-goldsboro
 lyrics_url: https://genius.com/Bobby-goldsboro-molly-lyrics
 name: Molly
@@ -35,6 +38,8 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1963-02-02'
+release_year: 1962
+runtime: 174693
 ---
 The war began and Henry left his farm
 Left his darling Molly with a baby in her arms

@@ -1,8 +1,11 @@
 ---
+album: Kinda Don't Care
 artists:
 - Justin Moore
+external_ids:
+  spotify: spotify:track:3n2A6l4UayVe3GGKCvfQWV
 features: []
-genres: []
+first_released_as_single: false
 key: somebody-else-will-justin-moore
 lyrics_url: https://www.azlyrics.com/lyrics/justinmoore/somebodyelsewill.html
 name: Somebody Else Will
@@ -59,8 +62,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2017-09-23'
+release_year: 2016
+runtime: 165173
 ---
-
 Been sittin' here tippin' back Crown Straight
 Workin' up the nerve and the words to say
 To turn those eyes and that smile my way
@@ -112,6 +116,3 @@ Somebody else will baby
 Ohh somebody else will
 Yeah somebody else will
 Somebody else will
-
-
-

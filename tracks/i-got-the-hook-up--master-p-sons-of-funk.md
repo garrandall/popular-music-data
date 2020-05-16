@@ -1,9 +1,12 @@
 ---
+album: Best Of Master P
 artists:
 - Master P
+external_ids:
+  spotify: spotify:track:3qEEoMccf3U90pM47dbQtX
 features:
 - Sons Of Funk
-genres: []
+first_released_as_single: false
 key: i-got-the-hook-up--master-p-sons-of-funk
 lyrics_url: https://www.azlyrics.com/lyrics/masterp/igotthehookup.html
 name: I Got The Hook Up!
@@ -88,8 +91,9 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '1998-08-22'
+release_year: 1998
+runtime: 256013
 ---
-
 I got the hook up holla if you hear me (Ughhhhhh)
 
 
@@ -172,6 +176,3 @@ ya'll know how we do it no limit stlye baby told ya'll it was no limit
 was up with you shorty you're too cute to have them hittin' on you
 you heard me you need me here goes my cellular phone number
 just call me if you need the hook up girl we gone handle that
-
-
-

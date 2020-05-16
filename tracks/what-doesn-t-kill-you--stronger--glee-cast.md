@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music, The Complete Season Three'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:7iMyX6FTRrY4fO8dHQhAUs
 features: []
-genres: []
+first_released_as_single: false
 key: what-doesn-t-kill-you--stronger--glee-cast
 lyrics_url: https://genius.com/Glee-cast-what-doesnt-kill-you-stronger-lyrics
 name: What Doesn't Kill You (Stronger)
@@ -11,6 +14,8 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '2012-03-10'
+release_year: 2012
+runtime: 221026
 ---
 Santana:
 You know the bed feels warmer

@@ -1,8 +1,11 @@
 ---
+album: 'One World: Together At Home'
 artists:
 - Adam Lambert
+external_ids:
+  spotify: spotify:track:4n8Syhm2XQOvenU8SnVAhZ
 features: []
-genres: []
+first_released_as_single: true
 key: mad-world-adam-lambert
 lyrics_url: https://www.azlyrics.com/lyrics/adamlambert/madworld.html
 name: Mad World
@@ -19,8 +22,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2009-06-20'
+release_year: 2009
+runtime: 174373
 ---
-
 All around me are familiar faces
 Worn out places
 Worn out faces
@@ -66,6 +70,3 @@ When people run in circles
 It's a very, very... mad world... mad world...
 Mad World
 Mad World
-
-
-

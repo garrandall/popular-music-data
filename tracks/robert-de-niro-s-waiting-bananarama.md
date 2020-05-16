@@ -1,8 +1,11 @@
 ---
+album: Bananarama
 artists:
 - Bananarama
+external_ids:
+  spotify: spotify:track:0MXpsn1TiYioFpB0CJ7PDX
 features: []
-genres: []
+first_released_as_single: false
 key: robert-de-niro-s-waiting-bananarama
 lyrics_url: https://www.azlyrics.com/lyrics/bananarama/robertdeniroswaiting.html
 name: Robert de Niro's Waiting
@@ -15,8 +18,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1984-05-26'
+release_year: 1984
+runtime: 222189
 ---
-
 Hopes dashed to the floor
 Like shattered teenage dreams
 Boys living next door
@@ -68,6 +72,3 @@ Robert De Niro's waiting
 Talking Italian
 (Talking Italian)
 Robert De Niro's waiting
-
-
-

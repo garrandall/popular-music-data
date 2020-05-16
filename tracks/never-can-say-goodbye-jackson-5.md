@@ -1,8 +1,11 @@
 ---
+album: Maybe Tomorrow
 artists:
 - Jackson 5
+external_ids:
+  spotify: spotify:track:0lMhrJ8RTgsnevN9UHXRhb
 features: []
-genres: []
+first_released_as_single: false
 key: never-can-say-goodbye-jackson-5
 lyrics_url: https://genius.com/The-jackson-5-never-can-say-goodbye-lyrics
 name: Never Can Say Goodbye
@@ -55,6 +58,8 @@ rankings:
   rank: 30
   ranking_list: Billboard Hot 100
   start_date: '1971-06-19'
+release_year: 1971
+runtime: 179266
 ---
 Never can say goodbye
 No no no no

@@ -1,8 +1,11 @@
 ---
+album: Body And Soul
 artists:
 - Jackie Wilson
+external_ids:
+  spotify: spotify:track:2dDlDQVkmeQUuZJ4q0TUYH
 features: []
-genres: []
+first_released_as_single: false
 key: the-greatest-hurt-jackie-wilson
 lyrics_url: https://genius.com/Jackie-wilson-the-greatest-hurt-lyrics
 name: The Greatest Hurt
@@ -43,6 +46,8 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '1962-03-10'
+release_year: 1962
+runtime: 196080
 ---
 Oh the greatest hurt
 The heart will ever know

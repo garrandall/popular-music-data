@@ -1,8 +1,11 @@
 ---
+album: Changes
 artists:
 - Christopher Williams
+external_ids:
+  spotify: spotify:track:6g9wUkxTf1MkfURIFHNTSK
 features: []
-genres: []
+first_released_as_single: false
 key: every-little-thing-u-do-christopher-williams
 lyrics_url: https://genius.com/Christopher-williams-every-little-thing-u-do-lyrics
 name: Every Little Thing U Do
@@ -55,6 +58,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1993-07-10'
+release_year: 1992
+runtime: 285866
 ---
 Everything u do just turns me on
 

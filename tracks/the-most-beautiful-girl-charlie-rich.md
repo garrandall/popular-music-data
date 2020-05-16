@@ -1,8 +1,11 @@
 ---
+album: Behind Closed Doors
 artists:
 - Charlie Rich
+external_ids:
+  spotify: spotify:track:542C7PqR1oEfl63hlhQO4V
 features: []
-genres: []
+first_released_as_single: false
 key: the-most-beautiful-girl-charlie-rich
 lyrics_url: https://genius.com/Charlie-rich-the-most-beautiful-girl-lyrics
 name: The Most Beautiful Girl
@@ -95,6 +98,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1974-02-23'
+release_year: 1972
+runtime: 161906
 ---
 Hey
 Did you happen to see

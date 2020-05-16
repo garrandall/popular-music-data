@@ -1,8 +1,11 @@
 ---
+album: Ranking Karaoke Hits
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:32XCy35qC0xe8Cs0mbJpYu
 features: []
-genres: []
+first_released_as_single: true
 key: hey-soul-sister-glee-cast
 lyrics_url: https://www.azlyrics.com/lyrics/gleecast/heysoulsister.html
 name: Hey Soul Sister
@@ -11,8 +14,9 @@ rankings:
   rank: 29
   ranking_list: Billboard Hot 100
   start_date: '2010-12-18'
+release_year: 2010
+runtime: 135492
 ---
-
 Hey, hey, hey
 
 Your lipstick stains
@@ -90,6 +94,3 @@ Hey, hey, hey
 Tonight
 Hey, hey, hey
 Tonight
-
-
-

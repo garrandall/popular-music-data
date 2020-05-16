@@ -1,8 +1,11 @@
 ---
+album: The Complete Season 7 Collection (The Voice Performance)
 artists:
 - Matt McAndrew
+external_ids:
+  spotify: spotify:track:62OElEtQe1qyPIq21QwR0T
 features: []
-genres: []
+first_released_as_single: false
 key: make-it-rain-matt-mcandrew
 lyrics_url: https://www.azlyrics.com/lyrics/mattmcandrew/makeitrain.html
 name: Make It Rain
@@ -11,8 +14,9 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '2014-12-27'
+release_year: 2014
+runtime: 216452
 ---
-
 When the sins of my father
 Weigh down in my soul
 And the pain of my mother
@@ -50,6 +54,3 @@ Make it rain
 Make it rain
 Make it rain
 Make it rain
-
-
-

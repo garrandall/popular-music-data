@@ -1,9 +1,12 @@
 ---
+album: For Your Love
 artists:
 - Peaches
 - Herb
+external_ids:
+  spotify: spotify:track:3gc9gSVlBLyzacDErABC2j
 features: []
-genres: []
+first_released_as_single: false
 key: for-your-love-peaches-herb
 lyrics_url: https://genius.com/Peaches-and-herb-for-your-love-lyrics
 name: For Your Love
@@ -40,6 +43,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1967-08-12'
+release_year: 1966
+runtime: 153808
 ---
 For your love, I would do anything
 I would do anything, for your love, oh

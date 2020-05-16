@@ -1,8 +1,11 @@
 ---
+album: The Golden Hits Of The Everly Brothers
 artists:
 - The Everly Brothers
+external_ids:
+  spotify: spotify:track:2PRY7AjIkZpF1oskrkvU7Q
 features: []
-genres: []
+first_released_as_single: false
 key: how-can-i-meet-her--the-everly-brothers
 lyrics_url: https://www.azlyrics.com/lyrics/everlybrothers/howcanimeether.html
 name: How Can I Meet Her?
@@ -19,8 +22,9 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1962-06-16'
+release_year: 1962
+runtime: 110306
 ---
-
 She's the prettiest girl in town and she sure knows it
 The way she walks and the way she talks sure shows it
 I hate that stuck-up so-and-so
@@ -47,6 +51,3 @@ How can I meet her?
 
 How can I meet her?
 How can I meet her?
-
-
-

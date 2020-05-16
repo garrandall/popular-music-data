@@ -1,8 +1,11 @@
 ---
+album: Giving It All Away
 artists:
 - Roger Daltrey
+external_ids:
+  spotify: spotify:track:4oagIqqxeeT4ehp7YjsiYn
 features: []
-genres: []
+first_released_as_single: true
 key: giving-it-all-away-roger-daltrey
 lyrics_url: https://genius.com/Roger-daltrey-giving-it-all-away-lyrics
 name: Giving It All Away
@@ -35,6 +38,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1973-07-21'
+release_year: 1973
+runtime: 207813
 ---
 I paid all my dues so I picked up my shoes
 I got up and walked away

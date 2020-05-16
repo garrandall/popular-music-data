@@ -1,9 +1,12 @@
 ---
+album: Invasion of Privacy
 artists:
 - Cardi B
+external_ids:
+  spotify: spotify:track:5XOxNIlVAEuDiTcntR7N61
 features:
 - Migos
-genres: []
+first_released_as_single: false
 key: drip-cardi-b-migos
 lyrics_url: https://www.azlyrics.com/lyrics/cardi-b/drip.html
 name: Drip
@@ -48,9 +51,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2018-06-23'
+release_year: 2018
+runtime: 262308
 ---
-
-
 That boy Cass!
 Cardi!
 Non-stop
@@ -202,6 +205,3 @@ Came through drippin' (drip drip)
 Came through drippin' (drip drip)
 Came through drippin' (drip drip)
 Diamonds on my wrist, they drippin' (ice)
-
-
-

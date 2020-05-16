@@ -1,9 +1,12 @@
 ---
+album: Hot Mess
 artists:
 - Cobra Starship
+external_ids:
+  spotify: spotify:track:7kMfu3KUydmrFVGEAhjtyl
 features:
 - Leighton Meester
-genres: []
+first_released_as_single: false
 key: good-girls-go-bad-cobra-starship-leighton-meester
 lyrics_url: https://www.azlyrics.com/lyrics/cobrastarship/goodgirlsgobad.html
 name: Good Girls Go Bad
@@ -108,8 +111,9 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '2009-11-28'
+release_year: 2009
+runtime: 196413
 ---
-
 I make them good girls go bad
 I make them good girls go
 Good girls go bad
@@ -181,6 +185,3 @@ I make them good girls go
 Good girls go bad
 Good girls go bad
 Good girls go
-
-
-

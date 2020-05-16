@@ -1,9 +1,12 @@
 ---
+album: Classic Man
 artists:
 - Jidenna
+external_ids:
+  spotify: spotify:track:3G7XYAwtxtoGK7fAm4IlD9
 features:
 - Roman GianArthur
-genres: []
+first_released_as_single: true
 key: classic-man-jidenna-roman-gianarthur
 lyrics_url: https://www.azlyrics.com/lyrics/jidenna/classicman.html
 name: Classic Man
@@ -92,8 +95,9 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '2015-10-10'
+release_year: 2015
+runtime: 226000
 ---
-
 My name calling all night
 I can pull the wool while I'm being polite
 Like, darling calling all night
@@ -174,6 +178,3 @@ I'm a classic man
 I'm a classic man
 Old fashioned man
 I'm a classic man
-
-
-

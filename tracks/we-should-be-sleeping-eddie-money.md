@@ -1,8 +1,11 @@
 ---
+album: Can't Hold Back
 artists:
 - Eddie Money
+external_ids:
+  spotify: spotify:track:3udN1BYSpA5kqgE9kcfJ94
 features: []
-genres: []
+first_released_as_single: false
 key: we-should-be-sleeping-eddie-money
 lyrics_url: https://www.azlyrics.com/lyrics/eddiemoney/weshouldbesleeping.html
 name: We Should Be Sleeping
@@ -19,8 +22,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1987-10-03'
+release_year: 1977
+runtime: 241133
 ---
-
 We should be sleeping now
 We're wide awake, but we're dead on our feet
 We're never keeping, no
@@ -73,6 +77,3 @@ Don't say, "Bye-bye-bye-bye-bye-bye, baby"
 Why should we break down and cry?
 Don't let the world drive you crazy
 Don't say, "Bye, baby, bye-bye"
-
-
-

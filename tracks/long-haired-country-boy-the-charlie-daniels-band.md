@@ -1,8 +1,11 @@
 ---
+album: A Decade Of Hits
 artists:
 - The Charlie Daniels Band
+external_ids:
+  spotify: spotify:track:5pihM63Tj50g1XjLxq0iU8
 features: []
-genres: []
+first_released_as_single: false
 key: long-haired-country-boy-the-charlie-daniels-band
 lyrics_url: https://www.azlyrics.com/lyrics/charliedanielsband/longhairedcountryboy.html
 name: Long Haired Country Boy
@@ -39,8 +42,9 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '1975-06-28'
+release_year: 1973
+runtime: 240106
 ---
-
 People say I'm no good, and crazy as a loon
 'Cause I get stoned in the mornin', I get drunk in the afternoon
 Kinda like my old blue tick hound, I like to lay around in the shade
@@ -70,6 +74,3 @@ I don't want much of nothing at all, but I will take another toke
 If I can't get it on my own
 If you don't like the way I'm livin'
 You just leave this long haired country boy alone
-
-
-

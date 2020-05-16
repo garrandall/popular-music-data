@@ -1,8 +1,11 @@
 ---
+album: Party Rock
 artists:
 - LMFAO
+external_ids:
+  spotify: spotify:track:2vJVTVxLUZHjxan5UtBe1V
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-in-miami-trick-lmfao
 lyrics_url: https://genius.com/Lmfao-im-in-miami-trick-radio-edit-lyrics
 name: I'm In Miami Trick
@@ -87,6 +90,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2009-10-24'
+release_year: 2009
+runtime: 228200
 ---
 When I step on the scene
 Y'all know me
@@ -102,7 +107,7 @@ You look kind of cute
 In that polka dot bikini, guuurl
 Hey!
 This what I wanna do (what)
-Take off that polka dot bikini, guuuurl
+Take off that polka dot bikini, gurl
 Drink all day
 Play all night
 Let's get it poppin'
@@ -126,7 +131,7 @@ You look kind of cute
 In that polka dot bikini, guuurl
 Hey!
 This what I wanna do (what)
-Take off that polka dot bikini, guuuurl
+Take off that polka dot bikini, gurl
 Drink all day
 Play all night
 Let's get it poppin'
@@ -177,7 +182,7 @@ You look kind of cute
 In that polka dot bikini, guuurl
 Hey!
 This what I wanna do (what)
-Take off that polka dot bikini, guuuurl
+Take off that polka dot bikini, gurl
 Drink all day
 Play all night
 Let's get it poppin'

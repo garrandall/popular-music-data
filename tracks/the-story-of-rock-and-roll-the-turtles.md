@@ -1,8 +1,11 @@
 ---
+album: The Battle of the Bands (Deluxe Version)
 artists:
 - The Turtles
+external_ids:
+  spotify: spotify:track:6Ke88hYwTqwLzfCu120vCm
 features: []
-genres: []
+first_released_as_single: false
 key: the-story-of-rock-and-roll-the-turtles
 lyrics_url: https://www.azlyrics.com/lyrics/turtles/thestoryofrockandroll.html
 name: The Story Of Rock And Roll
@@ -31,8 +34,9 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '1968-07-27'
+release_year: 1968
+runtime: 156621
 ---
-
 Well, it started out way down south
 Took a left and headed on out
 It was movin' along very slowly
@@ -64,4 +68,3 @@ Rock and roll music
 Talkin' 'bout rock and roll, I like rock and roll, yeah
 Long live rock and roll, yeah, talkin' 'bout rock and roll
 Rock and roll, sweet groovy music
-

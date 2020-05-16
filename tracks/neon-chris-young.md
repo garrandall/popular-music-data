@@ -1,8 +1,11 @@
 ---
+album: Neon
 artists:
 - Chris Young
+external_ids:
+  spotify: spotify:track:575wNG8uXiF5jjaSdWqdxZ
 features: []
-genres: []
+first_released_as_single: false
 key: neon-chris-young
 lyrics_url: https://www.azlyrics.com/lyrics/chrisyoung/neon.html
 name: Neon
@@ -23,8 +26,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2012-09-01'
+release_year: 2011
+runtime: 224160
 ---
-
 The sky in Cheyenne, Wyoming 
 Is just about as blue as it gets
 And if you ain't seen a Santa Fe sunset, 
@@ -69,6 +73,3 @@ But my favorite color is
 Neon, the light they always leave on
 Put a double on your troubles
 The light at this end of the tunnel is Neon
-
-
-

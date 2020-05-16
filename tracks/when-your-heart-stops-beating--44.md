@@ -1,8 +1,11 @@
 ---
+album: When Your Heart Stops Beating
 artists:
 - '+44'
+external_ids:
+  spotify: spotify:track:1VpTwecl7EbQiGyVsvwFQE
 features: []
-genres: []
+first_released_as_single: false
 key: when-your-heart-stops-beating--44
 lyrics_url: https://www.azlyrics.com/lyrics/44/whenyourheartstopsbeating.html
 name: When Your Heart Stops Beating
@@ -11,8 +14,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2006-12-02'
+release_year: 2006
+runtime: 192786
 ---
-
 Turn it up I never wanna go home
 I only wanna be part of your breakdown
 She got caught by the four on the floor
@@ -51,6 +55,3 @@ When we both get carried away
 When we both get carried away
 (In the dark when there's no one listening)
 When we both get carried away
-
-
-

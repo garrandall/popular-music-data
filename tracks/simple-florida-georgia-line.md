@@ -1,8 +1,11 @@
 ---
+album: Soundtrack To Summer 2018
 artists:
 - Florida Georgia Line
+external_ids:
+  spotify: spotify:track:3vrT6wkPrDiR7u7S30ByxU
 features: []
-genres: []
+first_released_as_single: false
 key: simple-florida-georgia-line
 lyrics_url: https://www.azlyrics.com/lyrics/floridageorgialine/simple.html
 name: Simple
@@ -87,8 +90,9 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '2018-10-27'
+release_year: 2018
+runtime: 185200
 ---
-
 The way your fingers fit in mine
 It's five plus five, not rocket science
 This day in time, that's hard to find
@@ -147,6 +151,3 @@ Its just that simple, S-I-M-P-L-E
 Simple as can be
 Its just that simple, S-I-M-P-L-E
 Simple as can be
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Natalie
 artists:
 - Natalie Cole
+external_ids:
+  spotify: spotify:track:4TktoJxCnwbRfk90qOJzXq
 features: []
-genres: []
+first_released_as_single: false
 key: mr-melody-natalie-cole
 lyrics_url: https://www.azlyrics.com/lyrics/nataliecole/mrmelody.html
 name: Mr Melody
@@ -55,8 +58,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1976-11-27'
+release_year: 1976
+runtime: 186733
 ---
-
 Hey, Mr. Melody, you're on my mind constantly
 And I think of you the whole day long
 Hey, Mr. Melody, you mean the whole world to me
@@ -84,6 +88,3 @@ Mr. Melody, yeah (Mr. Melody), Mr. Melody- (Mr. Melody)
 Yeah, yeah, yeah (Melo, Mr. Melody) yeah, yeah, yeah, sweet thang, oh-
 (Mr. Melody, Mr. Melo, Melo, Mr. Melo, Melo, Mr. Melody, Mr. Melody)
 (Mr. Melo, Melo, Mr. Melo, Melo, Mr. Melody)
-
-
-

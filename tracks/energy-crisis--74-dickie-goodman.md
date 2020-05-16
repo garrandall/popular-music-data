@@ -1,8 +1,11 @@
 ---
+album: Dickie Goodman All Time Novelty Hits
 artists:
 - Dickie Goodman
+external_ids:
+  spotify: spotify:track:0V1tjXzJijnAVfcZFruzR6
 features: []
-genres: []
+first_released_as_single: false
 key: energy-crisis--74-dickie-goodman
 lyrics_url: https://www.musixmatch.com/lyrics/Dickie-Goodman/Energy-Crisis-74
 name: Energy Crisis '74
@@ -39,6 +42,8 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '1974-03-23'
+release_year: 1974
+runtime: 125200
 ---
 We're here at the White House for a special report
 On the Energy Crisis.

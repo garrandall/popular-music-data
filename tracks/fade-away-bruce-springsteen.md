@@ -1,8 +1,11 @@
 ---
+album: The River
 artists:
 - Bruce Springsteen
+external_ids:
+  spotify: spotify:track:1nnhJRPj841KPX46NapQy0
 features: []
-genres: []
+first_released_as_single: false
 key: fade-away-bruce-springsteen
 lyrics_url: https://www.azlyrics.com/lyrics/brucespringsteen/fadeaway.html
 name: Fade Away
@@ -55,8 +58,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1981-04-25'
+release_year: 1980
+runtime: 281360
 ---
-
 Well now you say you've found another man who does things to you that I can't
 And that no matter what I do it's all over now
 between me and you girl
@@ -91,4 +95,3 @@ Or just some other ghost out on the street to whom you stop and politely speak
 when you pass on by vanishing into the night
 left to vanish into the night
 No baby
-

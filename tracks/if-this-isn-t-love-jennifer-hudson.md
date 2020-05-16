@@ -1,8 +1,11 @@
 ---
+album: Jennifer Hudson
 artists:
 - Jennifer Hudson
+external_ids:
+  spotify: spotify:track:0o6IWuQ9Uxt69jKdVZ1eg2
 features: []
-genres: []
+first_released_as_single: false
 key: if-this-isn-t-love-jennifer-hudson
 lyrics_url: https://genius.com/Jennifer-hudson-if-this-isnt-love-lyrics
 name: If This Isn't Love
@@ -59,6 +62,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2009-06-13'
+release_year: 2008
+runtime: 216386
 ---
 I'm calling his phone up just to tell him how much
 I really love him cause he's everything I want

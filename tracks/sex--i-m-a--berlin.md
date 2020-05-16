@@ -1,8 +1,11 @@
 ---
+album: Pleasure Victim
 artists:
 - Berlin
+external_ids:
+  spotify: spotify:track:3IPIZVGAHl2BqKy0JJdbdf
 features: []
-genres: []
+first_released_as_single: false
 key: sex--i-m-a--berlin
 lyrics_url: https://genius.com/Berlin-sex-lyrics
 name: Sex (I'm A)
@@ -35,6 +38,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1983-04-16'
+release_year: 1982
+runtime: 308600
 ---
 Feel the fire, feel my love inside you it's so right
 There's the sound and the smell of love in my mind

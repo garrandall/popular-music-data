@@ -1,8 +1,11 @@
 ---
+album: Bobby Tarantino II
 artists:
 - Logic
+external_ids:
+  spotify: spotify:track:4fZxGiES1FKbNqJPrI4L3s
 features: []
-genres: []
+first_released_as_single: false
 key: boomtrap-protocol-logic
 lyrics_url: https://www.azlyrics.com/lyrics/logic/boomtrapprotocol.html
 name: BoomTrap Protocol
@@ -11,8 +14,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2018-03-24'
+release_year: 2018
+runtime: 221360
 ---
-
 Let me get up in this bitch like "What's good, ho?"
 Grippin' this grain, I spit to release the pain
 Pimpin' ain't a thang, what's good
@@ -87,6 +91,3 @@ This that right here do or die (Made this shit right here for any season)
 (Everybody know that it's the reason)
 It's do or die (Made this shit right here for any season)
 (Everybody know that it's the reason)
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: R.
 artists:
 - R. Kelly
+external_ids:
+  spotify: spotify:track:7tNU9Ax7hzHA4nzo57aZb3
 features: []
-genres: []
+first_released_as_single: false
 key: if-i-could-turn-back-the-hands-of-time-r--kelly
 lyrics_url: https://genius.com/R-kelly-if-i-could-turn-back-the-hands-of-time-lyrics
 name: If I Could Turn Back The Hands Of Time
@@ -75,6 +78,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1999-12-18'
+release_year: 1996
+runtime: 378573
 ---
 How did I ever let you slip away
 Never knowing I'd be singing this song some day

@@ -1,8 +1,11 @@
 ---
+album: Christmas With The Platters
 artists:
 - The Platters
+external_ids:
+  spotify: spotify:track:3M0zQnFBi3FTNGhkMGikGI
 features: []
-genres: []
+first_released_as_single: false
 key: i-ll-be-home-the-platters
 lyrics_url: https://www.musixmatch.com/lyrics/The-Platters/I-ll-Be-Home-for-Christmas
 name: I'll Be Home
@@ -15,6 +18,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1966-12-10'
+release_year: 1963
+runtime: 161240
 ---
 I'm dreaming tonight
 Of a place I love

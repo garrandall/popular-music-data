@@ -1,8 +1,11 @@
 ---
+album: Grazin'
 artists:
 - The Friends Of Distinction
+external_ids:
+  spotify: spotify:track:755QPhAgO1YSmbs8a9M9b9
 features: []
-genres: []
+first_released_as_single: false
 key: grazing-in-the-grass-the-friends-of-distinction
 lyrics_url: https://genius.com/The-friends-of-distinction-grazing-in-the-grass-lyrics
 name: Grazing In The Grass
@@ -71,6 +74,8 @@ rankings:
   rank: 29
   ranking_list: Billboard Hot 100
   start_date: '1969-07-19'
+release_year: 1969
+runtime: 174080
 ---
 It sure is mellow grazin' in the grass
 (Grazin' in the grass is a gas, baby, can you dig it)

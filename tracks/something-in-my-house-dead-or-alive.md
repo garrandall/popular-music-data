@@ -1,8 +1,11 @@
 ---
+album: Mad, Bad And Dangerous To Know
 artists:
 - Dead Or Alive
+external_ids:
+  spotify: spotify:track:6oHwfcxAPf2D9qOIRCJnbw
 features: []
-genres: []
+first_released_as_single: false
 key: something-in-my-house-dead-or-alive
 lyrics_url: https://genius.com/Dead-or-alive-something-in-my-house-lyrics
 name: Something In My House
@@ -31,6 +34,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1987-05-30'
+release_year: 1987
+runtime: 265160
 ---
 I,I,IIIII I,I,IIIII, I am being haunted
 

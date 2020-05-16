@@ -1,8 +1,11 @@
 ---
+album: Hello Stranger
 artists:
 - Barbara Lewis
+external_ids:
+  spotify: spotify:track:7v8YDCoM60xCPuSbXerImD
 features: []
-genres: []
+first_released_as_single: false
 key: hello-stranger-barbara-lewis
 lyrics_url: https://genius.com/Barbara-lewis-hello-stranger-lyrics
 name: Hello Stranger
@@ -63,6 +66,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1963-08-03'
+release_year: 1963
+runtime: 166960
 ---
 (Shoo-Bop Shoo-Bop, my baby)
 (Shoo-Bop Shoo-Bop)

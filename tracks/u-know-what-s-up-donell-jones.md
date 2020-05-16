@@ -1,8 +1,11 @@
 ---
+album: Where I Wanna Be
 artists:
 - Donell Jones
+external_ids:
+  spotify: spotify:track:5PMKzsUsTpZZGsCcJBuhP2
 features: []
-genres: []
+first_released_as_single: false
 key: u-know-what-s-up-donell-jones
 lyrics_url: https://www.azlyrics.com/lyrics/donelljones/uknowwhatsup56049.html
 name: U Know What's Up
@@ -103,9 +106,9 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '2000-03-04'
+release_year: 1999
+runtime: 243733
 ---
-
-
 Oh, say what, say what, say what
 Oh, girl u know what's up
 Oh, say what, say what, say what
@@ -177,4 +180,3 @@ don't let another one get near me if you wanna be true
 And show me that nobody else can do it better than you
 So if you serious, I'm curious to see what you got
 My love is furious, cuz I believe in blowin' up spots
-

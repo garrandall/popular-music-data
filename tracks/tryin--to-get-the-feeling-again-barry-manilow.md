@@ -1,8 +1,11 @@
 ---
+album: Tryin' To Get The Feeling
 artists:
 - Barry Manilow
+external_ids:
+  spotify: spotify:track:1aPvESfIvGHoZ3fGRbWb3i
 features: []
-genres: []
+first_released_as_single: false
 key: tryin--to-get-the-feeling-again-barry-manilow
 lyrics_url: https://genius.com/Barry-manilow-tryin-to-get-the-feeling-again-lyrics
 name: Tryin' To Get The Feeling Again
@@ -67,6 +70,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1976-06-26'
+release_year: 1974
+runtime: 230200
 ---
 Doctor, my woman is comin' back home late today
 Could ya' maybe give me something?

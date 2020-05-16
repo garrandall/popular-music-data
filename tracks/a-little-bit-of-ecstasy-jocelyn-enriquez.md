@@ -1,8 +1,11 @@
 ---
+album: Jocelyn
 artists:
 - Jocelyn Enriquez
+external_ids:
+  spotify: spotify:track:4gmcD7RZVO68JwIwtK0vpx
 features: []
-genres: []
+first_released_as_single: false
 key: a-little-bit-of-ecstasy-jocelyn-enriquez
 lyrics_url: https://genius.com/Jocelyn-enriquez-a-little-bit-of-ecstasy-lyrics
 name: A Little Bit Of Ecstasy
@@ -87,6 +90,8 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '1997-08-16'
+release_year: 1997
+runtime: 248000
 ---
 A little bit of ecstasy
 A little bit of you and me

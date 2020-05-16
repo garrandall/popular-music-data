@@ -1,8 +1,11 @@
 ---
+album: Honkytonk University
 artists:
 - Toby Keith
+external_ids:
+  spotify: spotify:track:0pCc4FyfMBheq3ZgXj3oz6
 features: []
-genres: []
+first_released_as_single: false
 key: honkytonk-u-toby-keith
 lyrics_url: https://www.azlyrics.com/lyrics/tobykeith/honkytonku.html
 name: Honkytonk U
@@ -55,8 +58,9 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '2005-05-14'
+release_year: 2005
+runtime: 214920
 ---
-
 My grandmother owned a nightclub on the Arkansas-Oklahoma line
 Momma put me on a greyhound, and I went
 To stay with her in the summertime
@@ -92,6 +96,3 @@ Too
 Son I'm a red, white, and blue blood graduate of honkytonk U
 That's right a red, white, and blue
 Blood graduate of honkytonk U
-
-
-

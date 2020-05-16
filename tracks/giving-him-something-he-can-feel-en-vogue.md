@@ -1,8 +1,11 @@
 ---
+album: Funky Divas
 artists:
 - En Vogue
+external_ids:
+  spotify: spotify:track:4htbAEZWr53J08x3dUv00W
 features: []
-genres: []
+first_released_as_single: false
 key: giving-him-something-he-can-feel-en-vogue
 lyrics_url: https://www.azlyrics.com/lyrics/envogue/givinghimsomethinghecanfeel.html
 name: Giving Him Something He Can Feel
@@ -103,8 +106,9 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1992-11-14'
+release_year: 1992
+runtime: 235706
 ---
-
 (shoo)
 
 
@@ -138,4 +142,3 @@ Are they only in my dreams?
 And that?s exactly why I?m singing this song to you
 To let you know that real dreams do come true.
 You tell me ?what does it mean?.
-

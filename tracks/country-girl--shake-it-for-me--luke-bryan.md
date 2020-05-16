@@ -1,8 +1,11 @@
 ---
+album: Tailgates & Tanlines
 artists:
 - Luke Bryan
+external_ids:
+  spotify: spotify:track:6aNy9Afzm7Fi6ysMskocBf
 features: []
-genres: []
+first_released_as_single: false
 key: country-girl--shake-it-for-me--luke-bryan
 lyrics_url: https://www.azlyrics.com/lyrics/lukebryan/countrygirlshakeitforme.html
 name: Country Girl (Shake It For Me)
@@ -87,8 +90,9 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '2011-09-17'
+release_year: 2011
+runtime: 225560
 ---
-
 Hey girl. Go on now
 You know you've got everybody looking
 
@@ -169,6 +173,3 @@ Country girl, shake it for me girl
 Shake it for me girl, shake it for me
 Country girl, shake it for me girl
 Shake it for me girl, shake it for me
-
-
-

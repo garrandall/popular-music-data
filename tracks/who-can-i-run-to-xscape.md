@@ -1,8 +1,11 @@
 ---
+album: Off The Hook
 artists:
 - Xscape
+external_ids:
+  spotify: spotify:track:0wdaPticLmmqJdhgLDJ9zI
 features: []
-genres: []
+first_released_as_single: false
 key: who-can-i-run-to-xscape
 lyrics_url: https://www.azlyrics.com/lyrics/xscape/whocanirunto.html
 name: Who Can I Run To
@@ -87,9 +90,9 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1996-02-24'
+release_year: 1995
+runtime: 216333
 ---
-
-
 As I stand here contemplating
 On the right thing to decide
 Will I take the wrong direction
@@ -126,4 +129,3 @@ And a message very clear
 All it takes is time and patience
 To bring you near
 But who got me, tell me
-

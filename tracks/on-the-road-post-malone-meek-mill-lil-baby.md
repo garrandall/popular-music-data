@@ -1,10 +1,13 @@
 ---
+album: Hollywood's Bleeding
 artists:
 - Post Malone
+external_ids:
+  spotify: spotify:track:12Fkyg9lpmaz2zmKOfw2Y2
 features:
 - Meek Mill
 - Lil Baby
-genres: []
+first_released_as_single: false
 key: on-the-road-post-malone-meek-mill-lil-baby
 lyrics_url: https://www.azlyrics.com/lyrics/postmalone/ontheroad.html
 name: On The Road
@@ -25,8 +28,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '2019-10-12'
+release_year: 2019
+runtime: 218320
 ---
-
 'Cause they ain't never seein' me fold under pressure
 They ain't ever, ever seen me fold, not never
 Always keep one up on 'em, 'cause I'm too clever
@@ -105,6 +109,3 @@ Quit actin' like you been with me this whole time
 On the road, oh
 On the road, oh
 On the road, oh
-
-
-

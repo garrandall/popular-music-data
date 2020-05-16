@@ -1,8 +1,11 @@
 ---
+album: Out Of The Box
 artists:
 - Dwight Twilley
+external_ids:
+  spotify: spotify:track:5o67Tg2iILWKrONHXW0Tx8
 features: []
-genres: []
+first_released_as_single: true
 key: girls-dwight-twilley
 lyrics_url: https://genius.com/Dwight-twilley-girls-lyrics
 name: Girls
@@ -71,6 +74,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1984-06-02'
+release_year: 1984
+runtime: 199773
 ---
 Well, I've seen so many things
 I've been all over the world

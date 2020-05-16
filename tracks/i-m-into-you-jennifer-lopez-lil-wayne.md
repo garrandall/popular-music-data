@@ -1,9 +1,12 @@
 ---
+album: LOVE?
 artists:
 - Jennifer Lopez
+external_ids:
+  spotify: spotify:track:1l9OdG3g9o3TYcU7xI8yWE
 features:
 - Lil Wayne
-genres: []
+first_released_as_single: false
 key: i-m-into-you-jennifer-lopez-lil-wayne
 lyrics_url: https://genius.com/Jennifer-lopez-im-into-you-lyrics
 name: I'm Into You
@@ -68,6 +71,8 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '2011-09-10'
+release_year: 2011
+runtime: 200133
 ---
 Na-na-na-na-na-na na-na-na-eh
 Na-na-na-na-na-na na-na-na-eh (Uh)

@@ -1,8 +1,11 @@
 ---
+album: The Fabulous Impressions
 artists:
 - The Impressions
+external_ids:
+  spotify: spotify:track:2DyiLNW9M6mn8GIZb1fOpX
 features: []
-genres: []
+first_released_as_single: false
 key: you-always-hurt-me-the-impressions
 lyrics_url: https://www.azlyrics.com/lyrics/impressions/youalwayshurtme.html
 name: You Always Hurt Me
@@ -15,8 +18,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1967-03-11'
+release_year: 1967
+runtime: 136293
 ---
-
 Hey girl
 You that I love so hard
 You and your cold cold heart
@@ -50,6 +54,3 @@ You always hurt me, little girl now
 You always hurt me
 You always hurt me
 You always hurt me
-
-
-

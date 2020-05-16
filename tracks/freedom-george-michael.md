@@ -1,8 +1,11 @@
 ---
+album: Listen Without Prejudice / MTV Unplugged
 artists:
 - George Michael
+external_ids:
+  spotify: spotify:track:1SKApv6ZfJ9bkUxeRObJEF
 features: []
-genres: []
+first_released_as_single: false
 key: freedom-george-michael
 lyrics_url: https://genius.com/George-michael-freedom-90-lyrics
 name: Freedom
@@ -71,6 +74,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1991-02-09'
+release_year: 1990
+runtime: 388400
 ---
 I won't let you down
 I will not give you up

@@ -1,8 +1,11 @@
 ---
+album: Still Flexin, Still Steppin
 artists:
 - YoungBoy Never Broke Again
+external_ids:
+  spotify: spotify:track:3qHgGyJY4GpXNOK4WL4NSo
 features: []
-genres: []
+first_released_as_single: false
 key: red-eye-youngboy-never-broke-again
 lyrics_url: https://genius.com/Youngboy-never-broke-again-red-eye-lyrics
 name: Red Eye
@@ -11,6 +14,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '2020-03-07'
+release_year: 2020
+runtime: 156076
 ---
 Yeah, yeah, yeah (Oh, oh)
 I'm a real, I'm a real

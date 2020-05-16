@@ -1,8 +1,11 @@
 ---
+album: Another Night
 artists:
 - Real McCoy
+external_ids:
+  spotify: spotify:track:3pEuO9J2MTEmec8kUfYYvl
 features: []
-genres: []
+first_released_as_single: false
 key: another-night-real-mccoy
 lyrics_url: https://genius.com/Real-mccoy-another-night-lyrics
 name: Another Night
@@ -187,6 +190,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1995-07-01'
+release_year: 1994
+runtime: 236933
 ---
 Another night, another dream, but always you
 It's like a vision of love that seems to be true

@@ -1,8 +1,11 @@
 ---
+album: Live
 artists:
 - Swing Out Sister
+external_ids:
+  spotify: spotify:track:2qHzerDfprIGTpgqyaNC1x
 features: []
-genres: []
+first_released_as_single: false
 key: am-i-the-same-girl-swing-out-sister
 lyrics_url: https://www.azlyrics.com/lyrics/swingoutsister/amithesamegirl.html
 name: Am I The Same Girl
@@ -55,8 +58,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1992-11-28'
+release_year: 1992
+runtime: 248000
 ---
-
 Why don't you stop (stop)
 And look me over (look me over)
 Am I the same girl you used to know?
@@ -116,6 +120,3 @@ Am I the same girl...
 (Yes I am, yes I am)
 Am I the same girl...
 Am I the same girl...
-
-
-

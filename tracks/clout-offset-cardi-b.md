@@ -1,9 +1,12 @@
 ---
+album: FATHER OF 4
 artists:
 - Offset
+external_ids:
+  spotify: spotify:track:59ywHNwwchG4nZJMLyxSzd
 features:
 - Cardi B
-genres: []
+first_released_as_single: false
 key: clout-offset-cardi-b
 lyrics_url: https://www.azlyrics.com/lyrics/offset/clout.html
 name: Clout
@@ -88,9 +91,9 @@ rankings:
   rank: 52
   ranking_list: Billboard Hot 100
   start_date: '2019-08-31'
+release_year: 2019
+runtime: 205803
 ---
-
-
 Diamonds on fleek
 Bitch, I ain't talking about the heat, oh
 Put it on, streets
@@ -201,6 +204,3 @@ They do anything for clout (Clout)
 Do anything for clout (Clout, do this, woo woo)
 They do anything for clout (Anything)
 Do anything for clout
-
-
-

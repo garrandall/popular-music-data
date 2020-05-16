@@ -1,8 +1,11 @@
 ---
+album: Frankie Avalon
 artists:
 - Frankie Avalon
+external_ids:
+  spotify: spotify:track:1EBqOzo1Us2mO4i36Ity5R
 features: []
-genres: []
+first_released_as_single: false
 key: a-perfect-love-frankie-avalon
 lyrics_url: https://genius.com/Frankie-avalon-a-perfect-love-lyrics
 name: A Perfect Love
@@ -31,6 +34,8 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '1961-01-16'
+release_year: 1960
+runtime: 140975
 ---
 Lover, take your heart out of cover
 Let me help you discover a perfect love

@@ -1,8 +1,11 @@
 ---
+album: Like A Rock
 artists:
 - Bob Seger
+external_ids:
+  spotify: spotify:track:5Jno63iv0mzu5OZ28asYbE
 features: []
-genres: []
+first_released_as_single: false
 key: like-a-rock-bob-seger
 lyrics_url: https://www.azlyrics.com/lyrics/bobseger/likearock.html
 name: Like A Rock
@@ -59,8 +62,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1986-08-16'
+release_year: 1986
+runtime: 355798
 ---
-
 Stood there boldly
 Sweatin' in the sun
 Felt like a million
@@ -129,6 +133,3 @@ Like a rock
 I see myself again
 Like a rock
 Oh, like a rock!
-
-
-

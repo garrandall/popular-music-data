@@ -1,8 +1,11 @@
 ---
+album: Big Thing
 artists:
 - Duran Duran
+external_ids:
+  spotify: spotify:track:4umuMi2giGbdbVbsVZ5ADf
 features: []
-genres: []
+first_released_as_single: false
 key: do-you-believe-in-shame--duran-duran
 lyrics_url: https://www.azlyrics.com/lyrics/duranduran/doyoubelieveinshame.html
 name: Do You Believe In Shame?
@@ -27,8 +30,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1989-04-15'
+release_year: 1988
+runtime: 264480
 ---
-
 Do you believe in love?
 Do you believe in shame?
 And if love can conquer all
@@ -72,6 +76,3 @@ Do you believe in love?
 Do you believe in life?
 'Cos I believe a little part of you inside of me
 Will never die...
-
-
-

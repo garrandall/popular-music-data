@@ -1,8 +1,11 @@
 ---
+album: Homemade
 artists:
 - The Osmonds
+external_ids:
+  spotify: spotify:track:4G61bn80dMu0sG2Iwlb3QW
 features: []
-genres: []
+first_released_as_single: false
 key: double-lovin--the-osmonds
 lyrics_url: https://genius.com/The-osmonds-double-lovin-lyrics
 name: Double Lovin'
@@ -43,6 +46,8 @@ rankings:
   rank: 23
   ranking_list: Billboard Hot 100
   start_date: '1971-07-10'
+release_year: 1971
+runtime: 155973
 ---
 I'm gonna double your lovin', double your fun
 You get two for the price of one

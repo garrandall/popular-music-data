@@ -1,8 +1,11 @@
 ---
+album: Old 'N Golden
 artists:
 - The James Boys
+external_ids:
+  spotify: spotify:track:6kbsoNhGLR9dgREZEQGjXC
 features: []
-genres: []
+first_released_as_single: false
 key: the-mule-the-james-boys
 name: The Mule
 rankings:
@@ -22,5 +25,7 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1968-09-21'
+release_year: 1967
+runtime: 136440
 ---
 

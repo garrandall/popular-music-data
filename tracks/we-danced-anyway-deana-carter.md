@@ -1,8 +1,11 @@
 ---
+album: Did I Shave My Legs For This?
 artists:
 - Deana Carter
+external_ids:
+  spotify: spotify:track:4fOFOwrAHA9PdhOL7lciok
 features: []
-genres: []
+first_released_as_single: false
 key: we-danced-anyway-deana-carter
 lyrics_url: https://www.azlyrics.com/lyrics/deanacarter/wedancedanyway.html
 name: We Danced Anyway
@@ -43,8 +46,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1997-04-05'
+release_year: 1996
+runtime: 202533
 ---
-
 The summer air was heavy and sweet
 You and I on a crowded street
 There was music everywhere, I can see us there
@@ -89,6 +93,3 @@ And we dance anyway (oh we were laughing oh)
 Ohhhh
 And we danced anyway
 (oh we were dancing oh)
-
-
-

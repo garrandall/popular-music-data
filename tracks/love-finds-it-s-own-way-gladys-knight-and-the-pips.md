@@ -1,8 +1,11 @@
 ---
+album: I Feel A Song
 artists:
 - Gladys Knight And The Pips
+external_ids:
+  spotify: spotify:track:751iqUFTzPOdYQZq9Apeel
 features: []
-genres: []
+first_released_as_single: false
 key: love-finds-it-s-own-way-gladys-knight-and-the-pips
 lyrics_url: https://genius.com/Gladys-knight-and-the-pips-love-finds-its-own-way-lyrics
 name: Love Finds It's Own Way
@@ -39,6 +42,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1975-04-12'
+release_year: 1974
+runtime: 234266
 ---
 We've come a long way from nowhere
 The road was often paved with tears and pain

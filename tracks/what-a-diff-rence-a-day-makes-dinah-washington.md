@@ -1,8 +1,11 @@
 ---
+album: Jazz Classics
 artists:
 - Dinah Washington
+external_ids:
+  spotify: spotify:track:6YNpsbbPcaXENUIkk5CW0l
 features: []
-genres: []
+first_released_as_single: false
 key: what-a-diff-rence-a-day-makes-dinah-washington
 lyrics_url: https://genius.com/Dinah-washington-what-a-diffrence-a-day-makes-lyrics
 name: What A Diff'rence A Day Makes
@@ -87,6 +90,8 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1959-10-05'
+release_year: 1959
+runtime: 147866
 ---
 What a difference a day made
 Twenty-four little hours

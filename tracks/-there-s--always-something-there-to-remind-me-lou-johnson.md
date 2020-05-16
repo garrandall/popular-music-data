@@ -1,8 +1,11 @@
 ---
+album: Soul Treasures of Amy, Mala, & Bell Records (1963-1969)
 artists:
 - Lou Johnson
+external_ids:
+  spotify: spotify:track:1zc9G4b4zbRptS59Lg8VZu
 features: []
-genres: []
+first_released_as_single: false
 key: -there-s--always-something-there-to-remind-me-lou-johnson
 lyrics_url: https://www.musixmatch.com/lyrics/Lou-Johnson/There-s-Always-Something-There-to-Remind-Me
 name: (There's) Always Something There To Remind Me
@@ -35,6 +38,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1964-10-03'
+release_year: 1964
+runtime: 193973
 ---
 I walk along those city streets
 You used to walk along with me

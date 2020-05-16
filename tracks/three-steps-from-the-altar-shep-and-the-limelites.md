@@ -1,8 +1,11 @@
 ---
+album: All the Hits and More
 artists:
 - Shep And The Limelites
+external_ids:
+  spotify: spotify:track:5WkOR0PQIE6ODgShdxbBwL
 features: []
-genres: []
+first_released_as_single: false
 key: three-steps-from-the-altar-shep-and-the-limelites
 lyrics_url: https://www.musixmatch.com/lyrics/Shep-and-the-Limelites/Three-Steps-from-the-Altar
 name: Three Steps From The Altar
@@ -47,6 +50,8 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1961-12-18'
+release_year: 1961
+runtime: 162000
 ---
 Three steps from the altar
 (Three steps, by step, by step)

@@ -1,8 +1,11 @@
 ---
+album: The Mob
 artists:
 - The Mob
+external_ids:
+  spotify: spotify:track:0BrwKB93ykVlA2lMVSlPmE
 features: []
-genres: []
+first_released_as_single: false
 key: i-dig-everything-about-you-the-mob
 lyrics_url: https://genius.com/The-mob-i-dig-everything-about-you-lyrics
 name: I Dig Everything About You
@@ -19,6 +22,8 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1971-02-06'
+release_year: 1971
+runtime: 154400
 ---
 Baby I need your sweet loving
 Baby, oh baby

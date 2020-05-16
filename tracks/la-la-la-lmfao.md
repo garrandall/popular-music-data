@@ -1,8 +1,11 @@
 ---
+album: Party Rock
 artists:
 - LMFAO
+external_ids:
+  spotify: spotify:track:2sPva3d85R7yKf60y7QZpD
 features: []
-genres: []
+first_released_as_single: false
 key: la-la-la-lmfao
 lyrics_url: https://www.azlyrics.com/lyrics/lmfao/lalala.html
 name: La La La
@@ -35,8 +38,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2009-11-14'
+release_year: 2009
+runtime: 210560
 ---
-
 I feel like I just seen the sun for the first time
 You make my life bright cause you shine
 It's me and you baby, it's our time
@@ -98,6 +102,3 @@ I feel on top of the world with you baby
 I want to dance and party tonight
 I feel on top of the world with my lady
 I'm gonna rock your body all night
-
-
-

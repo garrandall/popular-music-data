@@ -1,8 +1,11 @@
 ---
+album: Lonely Teardrops
 artists:
 - Jackie Wilson
+external_ids:
+  spotify: spotify:track:6TYR3IVgIwDK6ydc2EPEQq
 features: []
-genres: []
+first_released_as_single: false
 key: lonely-teardrops-jackie-wilson
 lyrics_url: https://genius.com/Jackie-wilson-lonely-teardrops-lyrics
 name: Lonely Teardrops
@@ -91,6 +94,8 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1959-04-13'
+release_year: 1958
+runtime: 166213
 ---
 Shooby Doo Wop ba baa (hey hey)
 Shooby Doo Wop ba baa (hey hey)

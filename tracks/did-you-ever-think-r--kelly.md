@@ -1,8 +1,11 @@
 ---
+album: R.
 artists:
 - R. Kelly
+external_ids:
+  spotify: spotify:track:19XWdM9zSb4IIiFCXO1SlE
 features: []
-genres: []
+first_released_as_single: false
 key: did-you-ever-think-r--kelly
 lyrics_url: https://genius.com/R-kelly-did-you-ever-think-lyrics
 name: Did You Ever Think
@@ -71,6 +74,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1999-09-11'
+release_year: 1996
+runtime: 272400
 ---
 Did you ever think that you would be this rich?
 Did you ever think that you would have these hits?

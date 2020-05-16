@@ -1,8 +1,11 @@
 ---
+album: Memories
 artists:
 - The Vogues
+external_ids:
+  spotify: spotify:track:6lqB974fYAOAx6JhAZjqlJ
 features: []
-genres: []
+first_released_as_single: false
 key: moments-to-remember-the-vogues
 lyrics_url: https://www.azlyrics.com/lyrics/vogues/momentstoremember.html
 name: Moments To Remember
@@ -27,8 +30,9 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '1969-07-19'
+release_year: 1969
+runtime: 226266
 ---
-
 January to December
 We'll have moments to remember
 
@@ -49,6 +53,3 @@ When other nights and other days
 May find us gone our separate ways
 We will have these moments to remember
 ...
-
-
-

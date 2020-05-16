@@ -1,9 +1,12 @@
 ---
+album: Our Family Portrait
 artists:
 - Five Stairsteps
 - Cubie
+external_ids:
+  spotify: spotify:track:3XQ6vzfo6YBa95XUhD6wdN
 features: []
-genres: []
+first_released_as_single: false
 key: a-million-to-one-five-stairsteps-cubie
 name: A Million To One
 rankings:
@@ -31,5 +34,7 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '1968-03-02'
+release_year: 1968
+runtime: 164093
 ---
 

@@ -1,8 +1,11 @@
 ---
+album: The Best Of ... Tom Jones
 artists:
 - Tom Jones
+external_ids:
+  spotify: spotify:track:5OQONjZd14iiZERbc4kHpP
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-coming-home-tom-jones
 lyrics_url: https://genius.com/Tom-jones-im-coming-home-lyrics
 name: I'm Coming Home
@@ -27,6 +30,8 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '1968-01-27'
+release_year: 1967
+runtime: 199466
 ---
 I'm coming home to your loving heart
 Till the one that I was

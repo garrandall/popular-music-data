@@ -1,8 +1,11 @@
 ---
+album: Candy Rain
 artists:
 - Soul For Real
+external_ids:
+  spotify: spotify:track:0JHwHqPlca9zCnGnQenAEW
 features: []
-genres: []
+first_released_as_single: true
 key: candy-rain-soul-for-real
 lyrics_url: https://genius.com/Soul-for-real-candy-rain-lyrics
 name: Candy Rain
@@ -107,6 +110,8 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '1995-06-24'
+release_year: 1994
+runtime: 261626
 ---
 My love, do you ever dream of
 Candy coated raindrops?

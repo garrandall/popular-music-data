@@ -1,8 +1,11 @@
 ---
+album: Instrumentally Yours
 artists:
 - Tank
+external_ids:
+  spotify: spotify:track:3VncYRlXenNQdrGiRhqcxX
 features: []
-genres: []
+first_released_as_single: false
 key: when-we-tank
 lyrics_url: https://genius.com/Tank-when-we-lyrics
 name: When We
@@ -87,13 +90,14 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2018-05-26'
+release_year: 1997
+runtime: 240693
 ---
 When we
 When we
 Mmm
 When we
 Go
-
 
 I like it when you lose it
 I like it when you go there
@@ -104,12 +108,10 @@ When I’m just try’na take my time
 Stroke is gettin deep and faster
 Screamin' like I’m outta line
 
-
 Who came to make sweet love? Not me
 Who came to kiss and hug? Not me
 Who came to beat it up? Rocky
 And don't use those hands to put up that gate and stop me
-
 
 When we fuck
 When we fuck
@@ -157,8 +159,7 @@ Lemme get both of them legs
 And put em both behind your head
 This shit is gettin deep, deep up in there
 Feel your legs gettin weak up in here
-Get a face full of that gushy, I’m close baby don’t push me, this is how it always should be when...
-
+Get a face full of that gushy, I’m close baby don’t push me, this is how it always should be when
 
 When we fuck
 When we fuck

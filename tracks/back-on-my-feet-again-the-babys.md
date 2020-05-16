@@ -1,8 +1,11 @@
 ---
+album: Union Jacks
 artists:
 - The Babys
+external_ids:
+  spotify: spotify:track:33DvzPiOBwiz6HAkz3bcFm
 features: []
-genres: []
+first_released_as_single: false
 key: back-on-my-feet-again-the-babys
 lyrics_url: https://www.azlyrics.com/lyrics/babys/backonmyfeetagain.html
 name: Back On My Feet Again
@@ -55,8 +58,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1980-04-05'
+release_year: 1980
+runtime: 198733
 ---
-
 I was so lonely until I met you
 Told myself I'd get by without love
 Drownin' my sorrows, avoiding tomorrows
@@ -111,6 +115,3 @@ Here I am, yeah
 I'm back on my feet again
 Here I am
 I'm back on my feet again
-
-
-

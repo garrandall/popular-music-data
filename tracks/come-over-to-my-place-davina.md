@@ -1,8 +1,11 @@
 ---
+album: Best of Both Worlds
 artists:
 - Davina
+external_ids:
+  spotify: spotify:track:6kA9jN3lLDheefzmW3UFbp
 features: []
-genres: []
+first_released_as_single: false
 key: come-over-to-my-place-davina
 lyrics_url: https://www.musixmatch.com/lyrics/Davina/Come-Over-to-My-Place
 name: Come Over To My Place
@@ -43,6 +46,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1998-06-13'
+release_year: 1998
+runtime: 236075
 ---
 Heyyyy... hu hu. hou... hou...
 Baby...

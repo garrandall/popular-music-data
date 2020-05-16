@@ -1,8 +1,11 @@
 ---
+album: Psycle
 artists:
 - The Happenings
+external_ids:
+  spotify: spotify:track:0McquIDG7V5E6biGOsal0T
 features: []
-genres: []
+first_released_as_single: false
 key: i-got-rhythm-the-happenings
 lyrics_url: https://genius.com/The-happenings-i-got-rhythm-lyrics
 name: I Got Rhythm
@@ -59,6 +62,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1967-07-01'
+release_year: 1966
+runtime: 178640
 ---
 In this vast and troubled world
 We sometimes lose our way

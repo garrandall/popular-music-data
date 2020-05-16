@@ -1,8 +1,11 @@
 ---
+album: Dangerous
 artists:
 - Michael Jackson
+external_ids:
+  spotify: spotify:track:5Fy40smNxk0j5OpFMtvfaU
 features: []
-genres: []
+first_released_as_single: false
 key: in-the-closet-michael-jackson
 lyrics_url: https://www.azlyrics.com/lyrics/michaeljackson/inthecloset.html
 name: In The Closet
@@ -87,9 +90,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1992-09-05'
+release_year: 1991
+runtime: 390573
 ---
-
-
 There's something I have to say to you if you promise you'll understand.
 I cannot contain myself when in your presence
 I'm so humble.
@@ -225,6 +228,3 @@ Keep it in the closet
 
 (she wants to give it)
 (ah, she wants to give it)
-
-
-

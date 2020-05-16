@@ -1,10 +1,13 @@
 ---
+album: Something Happening
 artists:
 - Paul Revere
 - The Raiders
+external_ids:
+  spotify: spotify:track:5tP3TltMOc2BbyVWyrKbYC
 features:
 - Mark Lindsay
-genres: []
+first_released_as_single: false
 key: don-t-take-it-so-hard-paul-revere-the-raiders-mark-lindsay
 name: Don't Take It So Hard
 rankings:
@@ -44,5 +47,7 @@ rankings:
   rank: 36
   ranking_list: Billboard Hot 100
   start_date: '1968-08-17'
+release_year: 1968
+runtime: 143133
 ---
 

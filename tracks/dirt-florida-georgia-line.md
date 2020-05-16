@@ -1,8 +1,11 @@
 ---
+album: Anything Goes
 artists:
 - Florida Georgia Line
+external_ids:
+  spotify: spotify:track:2tGeKBHF2LezykN5E6zQah
 features: []
-genres: []
+first_released_as_single: true
 key: dirt-florida-georgia-line
 lyrics_url: https://www.azlyrics.com/lyrics/floridageorgialine/dirt.html
 name: Dirt
@@ -87,8 +90,9 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '2014-12-06'
+release_year: 2014
+runtime: 228226
 ---
-
 You get your hands in it, plant your roots in it
 Dusty head lights dance with your boots in it
 (Dirt, dirt, dirt...)
@@ -138,6 +142,3 @@ Makes you wanna build a ten percent down white picket fence house on this dirt
 Makes you wanna build a ten percent down white picket fence house on this dirt
 
 You know you came from it and someday you'll return to it
-
-
-

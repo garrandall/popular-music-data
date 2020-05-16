@@ -1,8 +1,11 @@
 ---
+album: Aerie
 artists:
 - John Denver
+external_ids:
+  spotify: spotify:track:64QPZMjjgMDHIoM0LCc3mx
 features: []
-genres: []
+first_released_as_single: false
 key: friends-with-you-john-denver
 lyrics_url: https://www.azlyrics.com/lyrics/johndenver/friendswithyou.html
 name: Friends With You
@@ -51,8 +54,9 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '1972-01-15'
+release_year: 1971
+runtime: 204280
 ---
-
 What a friend we have in time. Gives us children, makes us wine.
 Tells us what to take or leave behind.
 And the gifts of growing old, all the stories to be told
@@ -70,6 +74,3 @@ Friends I will remember you, think of you, pray for you.
 And when another day is through, I'll still be friends with you.
 My friends, I will remember you, think of you, pray for you.
 And when another day is through, I'll still be friends with you.
-
-
-

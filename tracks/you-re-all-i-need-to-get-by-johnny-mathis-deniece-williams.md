@@ -1,9 +1,12 @@
 ---
+album: Better Together - The Duet Album
 artists:
 - Johnny Mathis
 - Deniece Williams
+external_ids:
+  spotify: spotify:track:6791CftomEGKCNbweNuwgb
 features: []
-genres: []
+first_released_as_single: false
 key: you-re-all-i-need-to-get-by-johnny-mathis-deniece-williams
 lyrics_url: https://genius.com/Johnny-mathis-and-deniece-williams-youre-all-i-need-to-get-by-lyrics
 name: You're All I Need To Get By
@@ -40,6 +43,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1978-09-16'
+release_year: 1978
+runtime: 160000
 ---
 With Deniece Williams
 

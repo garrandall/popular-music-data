@@ -1,8 +1,11 @@
 ---
+album: Essential Sue Thompson
 artists:
 - Sue Thompson
+external_ids:
+  spotify: spotify:track:1Ilt84Msfm5V7xkYqIZ77A
 features: []
-genres: []
+first_released_as_single: false
 key: sad-movies--make-me-cry--sue-thompson
 lyrics_url: https://genius.com/Sue-thompson-sad-movies-lyrics
 name: Sad Movies (Make Me Cry)
@@ -63,6 +66,8 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '1961-12-04'
+release_year: 1961
+runtime: 198466
 ---
 Sa-a-a-d movies always make me cry
 He said he had to work so I went to the show alone

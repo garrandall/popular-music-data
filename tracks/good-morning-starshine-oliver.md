@@ -1,8 +1,11 @@
 ---
+album: "Oliver en Espa\xF1ol - Single"
 artists:
 - Oliver
+external_ids:
+  spotify: spotify:track:4ijZTrAoGVcJYFznZeOoT3
 features: []
-genres: []
+first_released_as_single: true
 key: good-morning-starshine-oliver
 lyrics_url: https://genius.com/Oliver-good-morning-starshine-lyrics
 name: Good Morning Starshine
@@ -59,6 +62,8 @@ rankings:
   rank: 23
   ranking_list: Billboard Hot 100
   start_date: '1969-08-16'
+release_year: 1969
+runtime: 226355
 ---
 Good morning starshine
 The earth says "hello"

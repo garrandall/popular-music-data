@@ -1,8 +1,11 @@
 ---
+album: Redneck Crazy
 artists:
 - Tyler Farr
+external_ids:
+  spotify: spotify:track:4lcXNTm9JrQpJYXqsENmFI
 features: []
-genres: []
+first_released_as_single: false
 key: redneck-crazy-tyler-farr
 lyrics_url: https://www.azlyrics.com/lyrics/tylerfarr/redneckcrazy.html
 name: Redneck Crazy
@@ -87,8 +90,9 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '2013-10-26'
+release_year: 2013
+runtime: 216040
 ---
-
 Gonna drive like hell through your neighborhood
 Park this Silverado on your front lawn
 Crank up a little Hank,
@@ -125,6 +129,3 @@ But I'm up for anything tonight
 You've gone and broke the wrong heart, baby,
 And drove me redneck crazy
 You drove me redneck crazy, oh, yeah.
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Led Zeppelin III
 artists:
 - Led Zeppelin
+external_ids:
+  spotify: spotify:track:78lgmZwycJ3nzsdgmPPGNx
 features: []
-genres: []
+first_released_as_single: false
 key: immigrant-song-led-zeppelin
 lyrics_url: https://www.azlyrics.com/lyrics/ledzeppelin/immigrantsong.html
 name: Immigrant Song
@@ -59,8 +62,9 @@ rankings:
   rank: 34
   ranking_list: Billboard Hot 100
   start_date: '1971-02-13'
+release_year: 1970
+runtime: 146250
 ---
-
 Ah, ah
 
 We come from the land of the ice and snow
@@ -91,6 +95,3 @@ Oh OOhOhOhh.OhOh
 Oh Ah
 Oh OOhOhOhh.OhOh
 Oh OOhOhOhhOh
-
-
-

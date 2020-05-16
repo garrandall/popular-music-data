@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music, Volume 3 Showstoppers'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:2Ya2rGB2Bl4dJqJznK1XfD
 features: []
-genres: []
+first_released_as_single: false
 key: beth-glee-cast
 lyrics_url: https://www.azlyrics.com/lyrics/gleecast/beth.html
 name: Beth
@@ -11,8 +14,9 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '2010-06-12'
+release_year: 2010
+runtime: 157613
 ---
-
 Beth I hear you calling
 But I can't come home right now
 Me and the boys are playing
@@ -38,6 +42,3 @@ Beth what can I do
 Beth I know you're lonely
 And I hope you'll be alright
 'Cause me and the boys will be playing all night
-
-
-

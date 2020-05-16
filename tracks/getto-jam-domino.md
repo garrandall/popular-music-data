@@ -1,8 +1,11 @@
 ---
+album: Domino
 artists:
 - Domino
+external_ids:
+  spotify: spotify:track:2mGxDOaHdBWnJY7V0In8Vx
 features: []
-genres: []
+first_released_as_single: false
 key: getto-jam-domino
 lyrics_url: https://genius.com/Domino-getto-jam-lyrics
 name: Getto Jam
@@ -87,6 +90,8 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1994-04-09'
+release_year: 1993
+runtime: 259279
 ---
 Here we go here we go as the tune starts to bloom
 With a phat phat phat chorus

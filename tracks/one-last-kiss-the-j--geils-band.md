@@ -1,8 +1,11 @@
 ---
+album: Sanctuary.
 artists:
 - The J. Geils Band
+external_ids:
+  spotify: spotify:track:2d0jUGPI3AsvPvR0NA00Dl
 features: []
-genres: []
+first_released_as_single: false
 key: one-last-kiss-the-j--geils-band
 lyrics_url: https://www.azlyrics.com/lyrics/jgeilsband/onelastkiss.html
 name: One Last Kiss
@@ -59,8 +62,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1979-02-10'
+release_year: 1978
+runtime: 260266
 ---
-
 Just one last kiss
 Before I walk out the door
 I'm gonna hold you tighter
@@ -99,6 +103,3 @@ The good times are forever
 But now, baby, the last time is today
 
 One last kiss
-
-
-

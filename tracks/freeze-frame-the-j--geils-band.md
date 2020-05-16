@@ -1,8 +1,11 @@
 ---
+album: Freeze Frame
 artists:
 - The J. Geils Band
+external_ids:
+  spotify: spotify:track:6QqK6a1CmV4L504uMQaGDH
 features: []
-genres: []
+first_released_as_single: false
 key: freeze-frame-the-j--geils-band
 lyrics_url: https://www.azlyrics.com/lyrics/jgeilsband/freezeframe.html
 name: Freeze-frame
@@ -71,8 +74,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1982-06-05'
+release_year: 1981
+runtime: 237506
 ---
-
 Freeze frame
 
 I could see it was a rough-cut Tuesday
@@ -128,6 +132,3 @@ If I could freeze, she's real, whoo, freeze frame
 If I could freeze, she's ah, freeze frame
 If I could shoot, shoot - doo-dloo-dloo, freeze frame
 If I could shoot, shoot - doo-dloo-dloo, freeze frame
-
-
-

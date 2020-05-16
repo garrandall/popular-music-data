@@ -1,8 +1,11 @@
 ---
+album: The Global Masters
 artists:
 - Johnny Mathis
+external_ids:
+  spotify: spotify:track:67j5dFhlLv10REcTogd17o
 features: []
-genres: []
+first_released_as_single: false
 key: call-me-johnny-mathis
 lyrics_url: https://genius.com/Johnny-mathis-call-me-lyrics
 name: Call Me
@@ -67,6 +70,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1959-01-05'
+release_year: 1958
+runtime: 167026
 ---
 Call me
 If your arms are lonely

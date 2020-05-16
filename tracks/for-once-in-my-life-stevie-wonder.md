@@ -1,8 +1,11 @@
 ---
+album: For Once In My Life
 artists:
 - Stevie Wonder
+external_ids:
+  spotify: spotify:track:4kP69y3GKHi9tXckfgp4bK
 features: []
-genres: []
+first_released_as_single: false
 key: for-once-in-my-life-stevie-wonder
 lyrics_url: https://genius.com/Stevie-wonder-for-once-in-my-life-lyrics
 name: For Once In My Life
@@ -63,6 +66,8 @@ rankings:
   rank: 31
   ranking_list: Billboard Hot 100
   start_date: '1969-02-01'
+release_year: 1968
+runtime: 169800
 ---
 For once in my life I have someone who needs me
 Someone I've needed so long

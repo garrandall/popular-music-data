@@ -1,8 +1,11 @@
 ---
+album: Time
 artists:
 - Electric Light Orchestra
+external_ids:
+  spotify: spotify:track:7uRJjcQmPcSwfPSWO1Bc8d
 features: []
-genres: []
+first_released_as_single: false
 key: twilight-electric-light-orchestra
 lyrics_url: https://www.azlyrics.com/lyrics/electriclightorchestra/twilight.html
 name: Twilight
@@ -51,8 +54,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1982-01-02'
+release_year: 1972
+runtime: 223040
 ---
-
 The visions dancing in my mind
 The early dawn, the shades of time
 Twilight crawling through my windowpane
@@ -89,6 +93,3 @@ You came down to me from the open skies
 Twilight, I only meant to stay awhile
 Twilight, I only meant to stay awhile
 Twilight, Twilight, Twilight, Twilight.
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Thoroughbred
 artists:
 - Carole King
+external_ids:
+  spotify: spotify:track:6Ip6WlA4qQeu0B8khHGoFE
 features: []
-genres: []
+first_released_as_single: false
 key: only-love-is-real-carole-king
 lyrics_url: https://www.azlyrics.com/lyrics/caroleking/onlyloveisreal.html
 name: Only Love Is Real
@@ -51,8 +54,9 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1976-04-24'
+release_year: 1968
+runtime: 211333
 ---
-
 As I bask in the glow of a just-lit fire
 Feeling the warmth as the flame grows higher
 I think it's true that nothing is really new under the sun
@@ -82,6 +86,3 @@ To just stay alive
 Tracing a line till we can define
 The thing that allows us to feel
 Only love is real
-
-
-

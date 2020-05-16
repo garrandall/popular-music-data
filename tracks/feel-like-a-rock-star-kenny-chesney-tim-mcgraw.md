@@ -1,9 +1,12 @@
 ---
+album: Welcome To The Fishbowl
 artists:
 - Kenny Chesney
 - Tim McGraw
+external_ids:
+  spotify: spotify:track:6IwjYtPMOebrz61UEayrrS
 features: []
-genres: []
+first_released_as_single: false
 key: feel-like-a-rock-star-kenny-chesney-tim-mcgraw
 lyrics_url: https://www.azlyrics.com/lyrics/kennychesney/feellikearockstar.html
 name: Feel Like A Rock Star
@@ -36,8 +39,9 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '2012-06-02'
+release_year: 2012
+runtime: 208240
 ---
-
 Do you smoke, do you drink
 Do you yell out, "Hank"
 Do you fold it in your pocket
@@ -106,6 +110,3 @@ Yeah, yeah, yeah
 Yeah
 
 Whatever makes you feel like a rock star
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: All American Boy
 artists:
 - Rick Derringer
+external_ids:
+  spotify: spotify:track:4VDHlRakaVHzHE8PUdcU49
 features: []
-genres: []
+first_released_as_single: false
 key: rock-and-roll-hoochie-koo-rick-derringer
 lyrics_url: https://genius.com/Rick-derringer-rock-and-roll-hoochie-koo-lyrics
 name: Rock And Roll Hoochie Koo
@@ -63,6 +66,8 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '1974-04-20'
+release_year: 1973
+runtime: 225306
 ---
 All right!
 

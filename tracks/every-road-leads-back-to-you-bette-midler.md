@@ -1,8 +1,11 @@
 ---
+album: For The Boys
 artists:
 - Bette Midler
+external_ids:
+  spotify: spotify:track:2Rqjs2uSnjmbpAMG4T4G64
 features: []
-genres: []
+first_released_as_single: false
 key: every-road-leads-back-to-you-bette-midler
 lyrics_url: https://www.azlyrics.com/lyrics/bettemidler/everyroadleadsbacktoyou.html
 name: Every Road Leads Back To You
@@ -31,8 +34,9 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1992-01-25'
+release_year: 1991
+runtime: 227906
 ---
-
 Old friend, here we are,
 after all the years and tears
 and all that we've been through.
@@ -77,6 +81,3 @@ every road just seems to lead me back,
 every road leads back,
 every road just seems to lead me back to you.
 Every road just seems to lead me back to you.
-
-
-

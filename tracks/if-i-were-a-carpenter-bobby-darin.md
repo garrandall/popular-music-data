@@ -1,8 +1,11 @@
 ---
+album: Darin 1936-1973
 artists:
 - Bobby Darin
+external_ids:
+  spotify: spotify:track:3Eo4BatW3grFNmmOfSfjDv
 features: []
-genres: []
+first_released_as_single: false
 key: if-i-were-a-carpenter-bobby-darin
 lyrics_url: https://genius.com/Bobby-darin-if-i-were-a-carpenter-lyrics
 name: If I Were A Carpenter
@@ -51,6 +54,8 @@ rankings:
   rank: 33
   ranking_list: Billboard Hot 100
   start_date: '1966-12-03'
+release_year: 1966
+runtime: 204493
 ---
 If I were a carpenter
 And you were a lady

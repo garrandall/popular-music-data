@@ -1,8 +1,11 @@
 ---
+album: Naughty By Nature
 artists:
 - Naughty By Nature
+external_ids:
+  spotify: spotify:track:1KYzOVIcp7Oe6FTuIvHrpz
 features: []
-genres: []
+first_released_as_single: false
 key: everything-s-gonna-be-alright-naughty-by-nature
 lyrics_url: https://genius.com/Naughty-by-nature-everythings-gonna-be-alright-ghetto-bastard-lyrics
 name: Everything's Gonna Be Alright
@@ -87,6 +90,8 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1992-06-20'
+release_year: 1991
+runtime: 291866
 ---
 Doctor: Nurse Johnson, is the mother still in the recovery room?
 Nurse: Yes, Dr. Blair

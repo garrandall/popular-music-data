@@ -1,8 +1,11 @@
 ---
+album: Up
 artists:
 - Right Said Fred
+external_ids:
+  spotify: spotify:track:3JwfKC0I4skZtHidmBjrqK
 features: []
-genres: []
+first_released_as_single: true
 key: don-t-talk-just-kiss-right-said-fred
 lyrics_url: https://genius.com/Right-said-fred-dont-talk-just-kiss-lyrics
 name: Don't Talk Just Kiss
@@ -35,6 +38,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1992-05-30'
+release_year: 1991
+runtime: 435760
 ---
 Ah
 Surrender me a kiss

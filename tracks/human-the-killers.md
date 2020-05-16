@@ -1,8 +1,11 @@
 ---
+album: Day & Age (Bonus Tracks)
 artists:
 - The Killers
+external_ids:
+  spotify: spotify:track:2VDgToS6QJR32xo2gE65v2
 features: []
-genres: []
+first_released_as_single: true
 key: human-the-killers
 lyrics_url: https://genius.com/The-killers-human-lyrics
 name: Human
@@ -87,6 +90,8 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '2009-02-28'
+release_year: 2008
+runtime: 227066
 ---
 I did my best to notice
 When the call came down the line

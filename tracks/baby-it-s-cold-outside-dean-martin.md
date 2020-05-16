@@ -1,8 +1,11 @@
 ---
+album: A Winter Romance
 artists:
 - Dean Martin
+external_ids:
+  spotify: spotify:track:4MrfQL4TYQXJBlZYpAHTuE
 features: []
-genres: []
+first_released_as_single: false
 key: baby-it-s-cold-outside-dean-martin
 lyrics_url: https://www.azlyrics.com/lyrics/deanmartin/babyitscoldoutside.html
 name: Baby It's Cold Outside
@@ -11,8 +14,9 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '2020-01-04'
+release_year: 1959
+runtime: 143733
 ---
-
 (I really can't stay) But, baby, it's cold outside
 (I've got to go away) But, baby, it's cold outside
 (This evening has been) Been hoping that you'd drop in
@@ -53,6 +57,3 @@ rankings:
 (I really can't stay) Get over that old doubt
  Baby, it's cold
  Baby, it's cold outside
-
-
-

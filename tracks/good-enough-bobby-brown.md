@@ -1,8 +1,11 @@
 ---
+album: Bobby
 artists:
 - Bobby Brown
+external_ids:
+  spotify: spotify:track:3WFQ6pEp1BRXrDKQ825ze7
 features: []
-genres: []
+first_released_as_single: false
 key: good-enough-bobby-brown
 lyrics_url: https://genius.com/Bobby-brown-good-enough-lyrics
 name: Good Enough
@@ -99,6 +102,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1993-03-20'
+release_year: 1992
+runtime: 302093
 ---
 Yeah
 This is like the old times

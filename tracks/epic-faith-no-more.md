@@ -1,8 +1,11 @@
 ---
+album: The Real Thing
 artists:
 - Faith No More
+external_ids:
+  spotify: spotify:track:4ReyTz0y3TGkX48wO3Llot
 features: []
-genres: []
+first_released_as_single: false
 key: epic-faith-no-more
 lyrics_url: https://www.azlyrics.com/lyrics/faithnomore/epic.html
 name: Epic
@@ -91,8 +94,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1990-11-10'
+release_year: 1989
+runtime: 293653
 ---
-
 Can you feel it, see it, hear it today?
 If you can't, then it doesn't matter anyway
 You will never understand it cuz it happens too fast
@@ -117,6 +121,3 @@ It's in your face but you can't grab it
 What is it?
 It's it
 What is it?...
-
-
-

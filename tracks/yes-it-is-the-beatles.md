@@ -1,8 +1,11 @@
 ---
+album: Past Masters
 artists:
 - The Beatles
+external_ids:
+  spotify: spotify:track:2rQvZscmpb6a7ejDiKprcL
 features: []
-genres: []
+first_released_as_single: false
 key: yes-it-is-the-beatles
 lyrics_url: https://genius.com/The-beatles-yes-it-is-lyrics
 name: Yes It Is
@@ -23,6 +26,8 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '1965-05-22'
+release_year: 1965
+runtime: 162413
 ---
 If you wear red tonight
 Remember what I said tonight

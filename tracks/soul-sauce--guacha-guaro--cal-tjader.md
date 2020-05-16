@@ -1,8 +1,11 @@
 ---
+album: Verve Jazz Masters 39
 artists:
 - Cal Tjader
+external_ids:
+  spotify: spotify:track:78RajZHCigVOTsHlmo2jp8
 features: []
-genres: []
+first_released_as_single: false
 key: soul-sauce--guacha-guaro--cal-tjader
 name: Soul Sauce (Guacha Guaro)
 rankings:
@@ -26,5 +29,7 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1965-07-03'
+release_year: 1965
+runtime: 146706
 ---
 

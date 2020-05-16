@@ -1,8 +1,11 @@
 ---
+album: Floetic
 artists:
 - Floetry
+external_ids:
+  spotify: spotify:track:2fE4MbwX3QGMzNaMjGVhtw
 features: []
-genres: []
+first_released_as_single: false
 key: say-yes-floetry
 lyrics_url: https://www.azlyrics.com/lyrics/floetry/sayyes.html
 name: Say Yes
@@ -87,9 +90,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '2003-08-09'
+release_year: 2002
+runtime: 268373
 ---
-
-
 See I've been watching you for a while your smile and stuff
 and I don't know if I can be with you for tonight alright,
 is that alright baby, baby
@@ -118,4 +121,3 @@ But I always knew you could be mine
 I recognize the butterflies inside me
 Sense is gonna be made tonight, tonight
 All you gotta do is say yes
-

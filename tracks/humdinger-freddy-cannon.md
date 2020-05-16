@@ -1,8 +1,11 @@
 ---
+album: Boom Boom Rock 'N' Roll
 artists:
 - Freddy Cannon
+external_ids:
+  spotify: spotify:track:7Jn13lH9EcnG2lKjtWhbJ5
 features: []
-genres: []
+first_released_as_single: false
 key: humdinger-freddy-cannon
 lyrics_url: https://genius.com/Freddy-cannon-humdinger-lyrics
 name: Humdinger
@@ -23,6 +26,8 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1960-10-31'
+release_year: 1960
+runtime: 184293
 ---
 Well, she's a hum, hum, humdinger
 She's a hum, hum, humdinger

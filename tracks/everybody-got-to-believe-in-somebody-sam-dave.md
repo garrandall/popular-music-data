@@ -1,9 +1,12 @@
 ---
+album: I Thank You (Mono)
 artists:
 - Sam
 - Dave
+external_ids:
+  spotify: spotify:track:79v8qeBXuC8IDs7FKAxKo1
 features: []
-genres: []
+first_released_as_single: false
 key: everybody-got-to-believe-in-somebody-sam-dave
 lyrics_url: https://www.azlyrics.com/lyrics/samdave/everybodygottobelieveinsomebody.html
 name: Everybody Got To Believe In Somebody
@@ -20,8 +23,9 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '1968-11-16'
+release_year: 1968
+runtime: 194835
 ---
-
 If you walk away from me
 My whole world will crumble down
 I've been searching for someone like you
@@ -58,6 +62,3 @@ Believe in you, believe in me
 Believe in somebody baby
 Come on believe in me baby
 Everyday you got to believe, you got to believe
-
-
-

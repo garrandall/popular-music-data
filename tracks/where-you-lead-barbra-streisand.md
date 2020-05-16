@@ -1,8 +1,11 @@
 ---
+album: Barbra Joan Streisand
 artists:
 - Barbra Streisand
+external_ids:
+  spotify: spotify:track:6ztu9rFxCTZIoDteUc7Oa0
 features: []
-genres: []
+first_released_as_single: false
 key: where-you-lead-barbra-streisand
 lyrics_url: https://www.azlyrics.com/lyrics/barbrastreisand/whereyoulead.html
 name: Where You Lead
@@ -39,8 +42,9 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1971-09-11'
+release_year: 1971
+runtime: 174933
 ---
-
 Wanting you the way I do
 I only want to be with you
 And I would go to the ends of the earth
@@ -83,6 +87,3 @@ I'm gonna follow where you lead me
 I'm gonna follow where you lead me
 I'm gonna follow where you lead me
 I'm gonna follow where you lead me
-
-
-

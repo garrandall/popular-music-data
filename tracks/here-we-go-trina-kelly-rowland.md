@@ -1,9 +1,12 @@
 ---
+album: The Glamorest Life
 artists:
 - Trina
+external_ids:
+  spotify: spotify:track:6b3CWHNAKiJRqmgz6ZcWaB
 features:
 - Kelly Rowland
-genres: []
+first_released_as_single: false
 key: here-we-go-trina-kelly-rowland
 lyrics_url: https://genius.com/Trina-here-we-go-lyrics
 name: Here We Go
@@ -88,6 +91,8 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '2006-02-18'
+release_year: 2005
+runtime: 230973
 ---
 I ain't got nothin ta say to you
 I can't even believe you

@@ -1,8 +1,11 @@
 ---
+album: Back To Back
 artists:
 - The Jets
+external_ids:
+  spotify: spotify:track:6GS0cFpmyIJ37Wl0VyK47x
 features: []
-genres: []
+first_released_as_single: false
 key: sendin--all-my-love-the-jets
 lyrics_url: https://www.azlyrics.com/lyrics/jets/sendinallmylove.html
 name: Sendin' All My Love
@@ -23,8 +26,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1988-09-03'
+release_year: 1988
+runtime: 231106
 ---
-
 Sendin' all my love to you, baby
 Sendin' all my love to you
 Sendin' all my love to you, baby
@@ -84,6 +88,3 @@ Sendin' all my love
 Sendin' all my love
 Sendin' all my love
 Sendin' all my love
-
-
-

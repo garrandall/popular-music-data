@@ -1,8 +1,11 @@
 ---
+album: Helluva Night
 artists:
 - Ludacris
+external_ids:
+  spotify: spotify:track:0flKDWZq11997Fb2ptkQvu
 features: []
-genres: []
+first_released_as_single: true
 key: helluva-night-ludacris
 lyrics_url: https://genius.com/Ludacris-helluva-night-lyrics
 name: Helluva Night
@@ -11,6 +14,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2013-09-07'
+release_year: 2013
+runtime: 200386
 ---
 I feel fantastic!
 I wanna fuck something!
@@ -27,7 +32,7 @@ And quit yappin' if you never wanna do shit
 I'm all about it, get your mind right
 Been makin' money since before I was in the limelight
 Grind right... Bitch what's uuup?
-Top down, but I feel like gettin' fucked uuuu-u-u-u-up
+Top down, but I feel like gettin' fucked u-u-u-u-up
 I get high but the bass low
 A real nigga, what your woman wanna shake for
 When you shake it for a baller, better shake it right

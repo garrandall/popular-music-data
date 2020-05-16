@@ -1,9 +1,12 @@
 ---
+album: FUTURE
 artists:
 - Future
+external_ids:
+  spotify: spotify:track:3V8sM5OOG6YfDuDLa2IIYJ
 features:
 - Drake
-genres: []
+first_released_as_single: true
 key: used-to-this-future-drake
 lyrics_url: https://genius.com/Future-used-to-this-lyrics
 name: Used To This
@@ -80,6 +83,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2017-03-25'
+release_year: 2016
+runtime: 180520
 ---
 Zaytoven
 

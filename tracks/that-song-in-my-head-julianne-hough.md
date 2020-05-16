@@ -1,8 +1,11 @@
 ---
+album: Julianne Hough
 artists:
 - Julianne Hough
+external_ids:
+  spotify: spotify:track:28iutfEP6JEXbHHqub8GzB
 features: []
-genres: []
+first_released_as_single: false
 key: that-song-in-my-head-julianne-hough
 lyrics_url: https://www.azlyrics.com/lyrics/juliannehough/thatsonginmyhead.html
 name: That Song In My Head
@@ -31,8 +34,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2008-07-26'
+release_year: 2008
+runtime: 193493
 ---
-
 You were hanging your feet off
 The tailgate of Billy Don's Ford
 I grew up in this little bitty town
@@ -74,6 +78,3 @@ I've had that song in my head all day
 
 
 Playing in my head all day
-
-
-

@@ -1,9 +1,12 @@
 ---
+album: The Animals Retrospective
 artists:
 - Eric Burdon
 - The Animals
+external_ids:
+  spotify: spotify:track:44A7gnAeBznjwg2ovSYk06
 features: []
-genres: []
+first_released_as_single: false
 key: help-me-girl-eric-burdon-the-animals
 lyrics_url: https://genius.com/Eric-burdon-and-the-animals-help-me-girl-lyrics
 name: Help Me Girl
@@ -44,6 +47,8 @@ rankings:
   rank: 35
   ranking_list: Billboard Hot 100
   start_date: '1967-01-21'
+release_year: 1965
+runtime: 159453
 ---
 Girl have you ever been hungry
 So hungry that you had no pride?

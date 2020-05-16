@@ -1,9 +1,12 @@
 ---
+album: Pitbull Starring In Rebelution
 artists:
 - Pitbull
+external_ids:
+  spotify: spotify:track:65DWhA3IcOdExnQOwXtNwv
 features:
 - Akon
-genres: []
+first_released_as_single: false
 key: shut-it-down-pitbull-akon
 lyrics_url: https://genius.com/Pitbull-shut-it-down-lyrics
 name: Shut It Down
@@ -64,6 +67,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2010-03-20'
+release_year: 2009
+runtime: 226093
 ---
 Mr. 305
 I want everybody (Akon)

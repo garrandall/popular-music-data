@@ -1,8 +1,11 @@
 ---
+album: I Knew Jesus (Before He Was A Star)
 artists:
 - Glen Campbell
+external_ids:
+  spotify: spotify:track:16ewlETX7KJ4WUfWK6PqBU
 features: []
-genres: []
+first_released_as_single: false
 key: i-knew-jesus--before-he-was-a-star--glen-campbell
 lyrics_url: https://www.azlyrics.com/lyrics/glencampbell/iknewjesusbeforehewasastar.html
 name: I Knew Jesus (Before He Was A Star)
@@ -55,8 +58,9 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '1973-06-02'
+release_year: 1973
+runtime: 173333
 ---
-
 Well funny it seems as how everyone knows him now
 Suddenly they have found someone who's been around
 Back to the fold they come seeking his wisdom from a far
@@ -76,6 +80,3 @@ I knew Jesus before he was a superstar
 I've known his goodness...
 I knew Jesus before he was a superstar
 I knew Jesus before he was a superstar
-
-
-

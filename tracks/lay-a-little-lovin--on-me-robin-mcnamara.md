@@ -1,8 +1,11 @@
 ---
+album: Stuck In The 60's
 artists:
 - Robin McNamara
+external_ids:
+  spotify: spotify:track:5DXMxR6IUzrGGHqffjd9rW
 features: []
-genres: []
+first_released_as_single: false
 key: lay-a-little-lovin--on-me-robin-mcnamara
 lyrics_url: https://genius.com/Robin-mcnamara-lay-a-little-lovin-on-me-lyrics
 name: Lay A Little Lovin' On Me
@@ -67,6 +70,8 @@ rankings:
   rank: 30
   ranking_list: Billboard Hot 100
   start_date: '1970-09-05'
+release_year: 1970
+runtime: 196840
 ---
 Can't you see that I am all for your love
 Now, Now -

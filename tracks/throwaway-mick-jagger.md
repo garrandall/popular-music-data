@@ -1,8 +1,11 @@
 ---
+album: Primitive Cool
 artists:
 - Mick Jagger
+external_ids:
+  spotify: spotify:track:0QCj7ygKQB5LiMVqNvZuKM
 features: []
-genres: []
+first_released_as_single: false
 key: throwaway-mick-jagger
 lyrics_url: https://www.azlyrics.com/lyrics/mickjagger/throwaway.html
 name: Throwaway
@@ -43,8 +46,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1988-01-23'
+release_year: 1987
+runtime: 303800
 ---
-
 Used to play the Casanova
 Smoother than the Bossa Nova
 Love to play the Romeo
@@ -103,6 +107,3 @@ Don't let it slide away
 Cause a love like this
 Is much too good
 To ever throwaway
-
-
-

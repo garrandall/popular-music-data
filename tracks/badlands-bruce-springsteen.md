@@ -1,8 +1,11 @@
 ---
+album: Darkness On the Edge of Town
 artists:
 - Bruce Springsteen
+external_ids:
+  spotify: spotify:track:0M1YQiRGel1tTMjA3orfRd
 features: []
-genres: []
+first_released_as_single: false
 key: badlands-bruce-springsteen
 lyrics_url: https://www.azlyrics.com/lyrics/brucespringsteen/badlands.html
 name: Badlands
@@ -39,8 +42,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1978-10-07'
+release_year: 1978
+runtime: 242453
 ---
-
 Well, lights out tonight
 Trouble in the heartland
 Got a head on collision
@@ -114,6 +118,3 @@ Whoa whoa whoa whoa badlands!
 Whoa whoa whoa whoa badlands!
 Whoa whoa whoa whoa badlands!
 Whoa whoa whoa
-
-
-

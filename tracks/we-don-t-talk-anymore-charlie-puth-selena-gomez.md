@@ -1,9 +1,12 @@
 ---
+album: Nine Track Mind
 artists:
 - Charlie Puth
+external_ids:
+  spotify: spotify:track:37FXw5QGFN7uwwsLy8uAc0
 features:
 - Selena Gomez
-genres: []
+first_released_as_single: false
 key: we-don-t-talk-anymore-charlie-puth-selena-gomez
 lyrics_url: https://genius.com/Charlie-puth-we-dont-talk-anymore-lyrics
 name: We Don't Talk Anymore
@@ -104,6 +107,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2016-12-03'
+release_year: 2016
+runtime: 217706
 ---
 We don't talk anymore, we don't talk anymore
 We don't talk anymore, like we used to do

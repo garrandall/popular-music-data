@@ -1,8 +1,11 @@
 ---
+album: 1st
 artists:
 - Streets
+external_ids:
+  spotify: spotify:track:3kAiPXqapVgYwOiISlcexP
 features: []
-genres: []
+first_released_as_single: false
 key: if-love-should-go-streets
 lyrics_url: https://genius.com/Streets-band-if-love-should-go-lyrics
 name: If Love Should Go
@@ -27,6 +30,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1983-12-31'
+release_year: 1983
+runtime: 250840
 ---
 I used to keep a little distance
 Once bitten, twice shy

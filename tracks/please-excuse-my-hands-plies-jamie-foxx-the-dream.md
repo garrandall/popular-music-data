@@ -1,10 +1,13 @@
 ---
+album: Definition Of Real
 artists:
 - Plies
+external_ids:
+  spotify: spotify:track:4HF6gIWAAmdDjzU59Ohd1I
 features:
 - Jamie Foxx
 - The-Dream
-genres: []
+first_released_as_single: false
 key: please-excuse-my-hands-plies-jamie-foxx-the-dream
 lyrics_url: https://www.azlyrics.com/lyrics/plies/pleaseexcusemyhands.html
 name: Please Excuse My Hands
@@ -57,9 +60,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2008-10-25'
+release_year: 2008
+runtime: 264440
 ---
-
-
 What's happenin baby
 let ya lil whoa Plies tell you whats goin on wit a man
 my hands been gettin me in a lot of trouble lately so...
@@ -148,6 +151,3 @@ Keep doin it keep doin it keep doin it shawty shawty
 Woke up in the spot ah
 Yeah the boys on fire
 I'm wit my nigga Plies
-
-
-

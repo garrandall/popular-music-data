@@ -1,8 +1,11 @@
 ---
+album: Bobby's Girl - The Complete Seville Recordings
 artists:
 - Marcie Blane
+external_ids:
+  spotify: spotify:track:2wCw268q9PNpKGgM3nwXvS
 features: []
-genres: []
+first_released_as_single: true
 key: bobby-s-girl-marcie-blane
 lyrics_url: https://genius.com/Marcie-blane-bobbys-girl-lyrics
 name: Bobby's Girl
@@ -71,6 +74,8 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '1963-02-02'
+release_year: 1962
+runtime: 140514
 ---
 (You're not a kid anymore
 You're not a kid anymore.)

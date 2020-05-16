@@ -1,8 +1,11 @@
 ---
+album: Holiday Inn (Original Motion Picture Soundtrack)
 artists:
 - Bing Crosby
+external_ids:
+  spotify: spotify:track:4so0Wek9Ig1p6CRCHuINwW
 features: []
-genres: []
+first_released_as_single: false
 key: white-christmas-bing-crosby
 lyrics_url: https://www.musixmatch.com/lyrics/Bing-Crosby-feat-Ken-Darby-Singers-John-Scott-Trotter-His-Orchestra/White-Christmas
 name: White Christmas
@@ -71,6 +74,8 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '2020-01-04'
+release_year: 1942
+runtime: 177480
 ---
 I'm dreaming of a white Christmas
 Just like the ones I used to know

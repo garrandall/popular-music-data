@@ -1,8 +1,11 @@
 ---
+album: COOL RELAX
 artists:
 - Jon B
+external_ids:
+  spotify: spotify:track:6YdEfXtj0YI5IbiJqVyT1c
 features: []
-genres: []
+first_released_as_single: false
 key: they-don-t-know-jon-b
 lyrics_url: https://genius.com/Jon-b-they-dont-know-lyrics
 name: They Don't Know
@@ -131,6 +134,8 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '1998-08-29'
+release_year: 1995
+runtime: 273973
 ---
 Heard about my past, things I used to do
 The games I used to play, the girls that didn't last

@@ -1,8 +1,11 @@
 ---
+album: Volcano
 artists:
 - Jimmy Buffett
+external_ids:
+  spotify: spotify:track:6Jhcs3Tm8Tgg39ooFTXW0c
 features: []
-genres: []
+first_released_as_single: false
 key: survive-jimmy-buffett
 lyrics_url: https://www.azlyrics.com/lyrics/jimmybuffett/survive.html
 name: Survive
@@ -27,8 +30,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1980-04-05'
+release_year: 1979
+runtime: 291400
 ---
-
 I play the stereo loud
 When I'm away from the maddening crowd
 Smokin', jokin', clowns we all are
@@ -70,6 +74,3 @@ Survive stay alive
 When will it all end
 Survive stay alive
 Till I see you again
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Flag
 artists:
 - James Taylor
+external_ids:
+  spotify: spotify:track:6ampTyysdg6izZJAGRxR0q
 features: []
-genres: []
+first_released_as_single: false
 key: up-on-the-roof-james-taylor
 lyrics_url: https://www.azlyrics.com/lyrics/jamestaylor/upontheroof145680.html
 name: Up On The Roof
@@ -51,8 +54,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1979-08-11'
+release_year: 1977
+runtime: 259533
 ---
-
 When this old world starts a getting me down,
 and people are just too much for me to face.
 I'll climb way up to the top of the stairs and all my cares just drift right into space.
@@ -70,6 +74,3 @@ And if this old world starts a getting you down, there's room enough for two
 up on the roof, up on the roof, up on the roof.
 Everything is all right, every thing is all right.
 You got the stars above and the city lights below, let's go up on the roof.
-
-
-

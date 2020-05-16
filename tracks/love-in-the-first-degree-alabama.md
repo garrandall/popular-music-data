@@ -1,8 +1,11 @@
 ---
+album: Alabama Live
 artists:
 - Alabama
+external_ids:
+  spotify: spotify:track:2QGTqfBUGSog9yG6zSJG3t
 features: []
-genres: []
+first_released_as_single: false
 key: love-in-the-first-degree-alabama
 lyrics_url: https://www.azlyrics.com/lyrics/alabama/loveinthefirstdegree.html
 name: Love In The First Degree
@@ -91,8 +94,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1982-04-03'
+release_year: 1980
+runtime: 176506
 ---
-
 I once though of love as a prison
 A place I didn't want to be.
 So long ago, I made a decision
@@ -142,6 +146,3 @@ Love in the first degree.
 Love in the first degree.
 Love in the first degree.
 Love in the first degree...
-
-
-

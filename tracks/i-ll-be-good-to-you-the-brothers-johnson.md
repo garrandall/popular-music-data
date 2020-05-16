@@ -1,8 +1,11 @@
 ---
+album: 'Look Out For #1'
 artists:
 - The Brothers Johnson
+external_ids:
+  spotify: spotify:track:1mo1tQypPi59Unv8vWuNbL
 features: []
-genres: []
+first_released_as_single: false
 key: i-ll-be-good-to-you-the-brothers-johnson
 lyrics_url: https://genius.com/The-brothers-johnson-ill-be-good-to-you-lyrics
 name: I'll Be Good To You
@@ -75,6 +78,8 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '1976-08-21'
+release_year: 1976
+runtime: 288093
 ---
 I want to know
 Just how you feel

@@ -1,8 +1,11 @@
 ---
+album: 90s Eurodance
 artists:
 - Titiyo
+external_ids:
+  spotify: spotify:track:6HanwdfgdTpSAK4P7gWlIQ
 features: []
-genres: []
+first_released_as_single: false
 key: my-body-says-yes-titiyo
 lyrics_url: https://www.musixmatch.com/lyrics/Titiyo/My-Body-Says-Yes
 name: My Body Says Yes
@@ -51,6 +54,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1991-08-17'
+release_year: 1991
+runtime: 249866
 ---
 You-you got me...
 You-you got me...

@@ -1,9 +1,12 @@
 ---
+album: Dear Hate
 artists:
 - Maren Morris
+external_ids:
+  spotify: spotify:track:7zOoHxDt1duHL8czY7o7ab
 features:
 - Vince Gill
-genres: []
+first_released_as_single: true
 key: dear-hate-maren-morris-vince-gill
 lyrics_url: https://www.azlyrics.com/lyrics/maren-morris/dearhate.html
 name: Dear Hate
@@ -12,8 +15,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2017-10-28'
+release_year: 2017
+runtime: 220387
 ---
-
 Dear Hate
 I saw you on the news today
 Like a shock that takes my breath away
@@ -55,6 +59,3 @@ I hear you every morning through the chaos and the noise
 You still whisper down through history and echo through these halls
 And tell me love's gonna conquer all
 Gonna conquer all
-
-
-

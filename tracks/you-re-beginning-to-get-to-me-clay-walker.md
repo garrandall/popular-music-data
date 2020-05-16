@@ -1,8 +1,11 @@
 ---
+album: Top 10
 artists:
 - Clay Walker
+external_ids:
+  spotify: spotify:track:0cwJIOwflRPDTcmz2ApX0B
 features: []
-genres: []
+first_released_as_single: false
 key: you-re-beginning-to-get-to-me-clay-walker
 lyrics_url: https://genius.com/Clay-walker-youre-beginning-to-get-to-me-lyrics
 name: You're Beginning To Get To Me
@@ -59,6 +62,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1999-02-27'
+release_year: 1998
+runtime: 161533
 ---
 I can't sleep at all
 I'm making late night calls

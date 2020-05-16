@@ -1,8 +1,11 @@
 ---
+album: The Great Otis Redding Sings Soul Ballads
 artists:
 - Otis Redding
+external_ids:
+  spotify: spotify:track:238ZGKkO8JJZU59jrfaOvx
 features: []
-genres: []
+first_released_as_single: false
 key: chained-and-bound-otis-redding
 lyrics_url: https://www.azlyrics.com/lyrics/otisredding/chainedandbound.html
 name: Chained And Bound
@@ -35,8 +38,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1964-12-12'
+release_year: 1964
+runtime: 159506
 ---
-
 Darling now, you made me change my mind
 Can go no further, because you got me chained and bound, oh
 Taller than the tallest sky
@@ -69,6 +73,3 @@ I'm chained, I'm chained to your love
 I don't, I don't know darling I wanna to be taken away, now
 Ou, just a little bit of soul
 Just a little bit of soul, now
-
-
-

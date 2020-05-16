@@ -1,8 +1,11 @@
 ---
+album: Jerry Wallace's Greatest Hits
 artists:
 - Jerry Wallace
+external_ids:
+  spotify: spotify:track:3IrMBPCdWq5luadmICJqqs
 features: []
-genres: []
+first_released_as_single: false
 key: if-you-leave-me-tonight-i-ll-cry-jerry-wallace
 lyrics_url: https://genius.com/Jerry-wallace-if-you-leave-me-tonight-ill-cry-lyrics
 name: If You Leave Me Tonight I'll Cry
@@ -43,6 +46,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1972-10-14'
+release_year: 1972
+runtime: 154933
 ---
 (If you leave, take my heart, take my heart)
 If you leave me tonight I will cry

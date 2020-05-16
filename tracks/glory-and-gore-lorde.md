@@ -1,8 +1,11 @@
 ---
+album: Pure Heroine (Extended)
 artists:
 - Lorde
+external_ids:
+  spotify: spotify:track:0SK9wxN40P6jlcMfTSAe0V
 features: []
-genres: []
+first_released_as_single: false
 key: glory-and-gore-lorde
 lyrics_url: https://www.azlyrics.com/lyrics/lorde/gloryandgore.html
 name: Glory And Gore
@@ -19,9 +22,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2014-03-22'
+release_year: 2013
+runtime: 210737
 ---
-
-
 There's a humming in the restless summer air
 And we're slipping off the course that we prepared
 But in all chaos, there is calculation
@@ -95,6 +98,3 @@ Glory and gore go hand in hand
 That's why we're making headlines (Oh! Oh!)
 You could try and take us (oh-oh)
 But victory's contagious
-
-
-

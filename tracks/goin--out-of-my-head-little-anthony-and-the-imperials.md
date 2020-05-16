@@ -1,8 +1,11 @@
 ---
+album: Goin' Out Of My Head
 artists:
 - Little Anthony And The Imperials
+external_ids:
+  spotify: spotify:track:538IUnkjiDgU9Ndhf1wN2f
 features: []
-genres: []
+first_released_as_single: false
 key: goin--out-of-my-head-little-anthony-and-the-imperials
 lyrics_url: https://genius.com/Little-anthony-and-the-imperials-goin-out-of-my-head-lyrics
 name: Goin' Out Of My Head
@@ -63,6 +66,8 @@ rankings:
   rank: 31
   ranking_list: Billboard Hot 100
   start_date: '1965-02-06'
+release_year: 1964
+runtime: 149733
 ---
 Well, I think I'm going out of my head
 Yes, I think I'm going out of my head

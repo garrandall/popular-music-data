@@ -1,8 +1,11 @@
 ---
+album: Bluestars
 artists:
 - Pretty Ricky
+external_ids:
+  spotify: spotify:track:4zedvSTu18Xfj17Es9wsiK
 features: []
-genres: []
+first_released_as_single: true
 key: grind-with-me-pretty-ricky
 lyrics_url: https://genius.com/Pretty-ricky-grind-with-me-lyrics
 name: Grind With Me
@@ -95,6 +98,8 @@ rankings:
   rank: 37
   ranking_list: Billboard Hot 100
   start_date: '2005-09-10'
+release_year: 2005
+runtime: 242733
 ---
 Baby, grind on me, relax your mind, take your time on me
 Let me get deeper, shawty, ride on me

@@ -1,8 +1,11 @@
 ---
+album: Blind Baby
 artists:
 - New Birth
+external_ids:
+  spotify: spotify:track:6LDPThLVp6dodTxJpi4g9c
 features: []
-genres: []
+first_released_as_single: false
 key: granddaddy--part-1--new-birth
 lyrics_url: https://genius.com/New-birth-granddaddy-lyrics
 name: Granddaddy (Part 1)
@@ -19,6 +22,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1975-06-07'
+release_year: 1975
+runtime: 238893
 ---
 Oh, oh
 Yeah, yeah, yeah

@@ -1,8 +1,11 @@
 ---
+album: '...Baby One More Time (Digital Deluxe Version)'
 artists:
 - Britney Spears
+external_ids:
+  spotify: spotify:track:70XtWbcVZcpaOddJftMcVi
 features: []
-genres: []
+first_released_as_single: false
 key: from-the-bottom-of-my-broken-heart-britney-spears
 lyrics_url: https://www.azlyrics.com/lyrics/britneyspears/fromthebottomofmybrokenheart.html
 name: From The Bottom Of My Broken Heart
@@ -87,8 +90,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2000-06-10'
+release_year: 1999
+runtime: 312533
 ---
-
 "Never look back," we said
 How was I to know I'd miss you so?
 Loneliness up ahead, emptiness behind
@@ -131,6 +135,3 @@ Still I wish you were here
 
 "Never look back," we said
 How was I to know I'd miss you so?
-
-
-

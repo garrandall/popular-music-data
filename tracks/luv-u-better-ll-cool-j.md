@@ -1,8 +1,11 @@
 ---
+album: '10'
 artists:
 - LL Cool J
+external_ids:
+  spotify: spotify:track:0HJYzGavqzjiKMmm4F0UZv
 features: []
-genres: []
+first_released_as_single: false
 key: luv-u-better-ll-cool-j
 lyrics_url: https://genius.com/Ll-cool-j-luv-u-better-lyrics
 name: Luv U Better
@@ -95,6 +98,8 @@ rankings:
   rank: 35
   ranking_list: Billboard Hot 100
   start_date: '2003-01-18'
+release_year: 2002
+runtime: 287000
 ---
 This is for my number one
 This is for my number one

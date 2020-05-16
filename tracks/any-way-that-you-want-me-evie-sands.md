@@ -1,8 +1,11 @@
 ---
+album: Any Way That You Want Me
 artists:
 - Evie Sands
+external_ids:
+  spotify: spotify:track:0Hn2czXxRzvTHPshSNpXgT
 features: []
-genres: []
+first_released_as_single: false
 key: any-way-that-you-want-me-evie-sands
 name: Any Way That You Want Me
 rankings:
@@ -74,5 +77,7 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '1969-12-06'
+release_year: 1969
+runtime: 217973
 ---
 

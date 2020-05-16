@@ -1,8 +1,11 @@
 ---
+album: Escape
 artists:
 - Journey
+external_ids:
+  spotify: spotify:track:0IzVqcgtHh8NzWYxyPsUky
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-stop-believin--journey
 lyrics_url: https://genius.com/Journey-dont-stop-believin-lyrics
 name: Don't Stop Believin'
@@ -71,6 +74,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1982-02-13'
+release_year: 1975
+runtime: 250906
 ---
 Just a small-town girl
 Livin' in a lonely world

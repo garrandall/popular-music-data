@@ -1,8 +1,11 @@
 ---
+album: Hormonally Yours
 artists:
 - Shakespear's Sister
+external_ids:
+  spotify: spotify:track:6Mcoqi1iK28djC2EClVwDj
 features: []
-genres: []
+first_released_as_single: false
 key: stay-shakespear-s-sister
 lyrics_url: https://genius.com/Shakespears-sister-stay-lyrics
 name: Stay
@@ -87,6 +90,8 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '1992-11-14'
+release_year: 1992
+runtime: 227266
 ---
 If this world is wearing thin
 And you're thinking of escape

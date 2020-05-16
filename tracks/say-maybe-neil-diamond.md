@@ -1,8 +1,11 @@
 ---
+album: You Don't Bring Me Flowers
 artists:
 - Neil Diamond
+external_ids:
+  spotify: spotify:track:1LZjWATmwUzxnliXNJShss
 features: []
-genres: []
+first_released_as_single: false
 key: say-maybe-neil-diamond
 lyrics_url: https://genius.com/Neil-diamond-say-maybe-lyrics
 name: Say Maybe
@@ -35,6 +38,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1979-06-30'
+release_year: 1978
+runtime: 246626
 ---
 Why, make me plead
 For what I need

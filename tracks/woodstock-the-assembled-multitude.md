@@ -1,8 +1,11 @@
 ---
+album: The Assembled Multitude
 artists:
 - The Assembled Multitude
+external_ids:
+  spotify: spotify:track:0Y0xhQMCXq4x4f8J3FU78C
 features: []
-genres: []
+first_released_as_single: false
 key: woodstock-the-assembled-multitude
 name: Woodstock
 rankings:
@@ -22,5 +25,7 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1970-10-24'
+release_year: 1970
+runtime: 139440
 ---
 

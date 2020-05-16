@@ -1,9 +1,12 @@
 ---
+album: Come A Little Bit Closer
 artists:
 - Jay
 - The Americans
+external_ids:
+  spotify: spotify:track:48Ji4tkYnrCT44PYlkyQrk
 features: []
-genres: []
+first_released_as_single: false
 key: come-dance-with-me-jay-the-americans
 lyrics_url: https://www.azlyrics.com/lyrics/jaytheamericans/comedancewithme.html
 name: Come Dance With Me
@@ -40,8 +43,9 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1964-01-18'
+release_year: 1963
+runtime: 150933
 ---
-
 Don't turn away, put him down, turn around and dance with me
 Do like I say, don't you go, tell him no and dance with me
 He may have walked you through the door
@@ -68,6 +72,3 @@ But you're gonna leave with me tonight, come dance with me
 He may have brought you here, all right
 Thinking he'd get to hold you tight
 But you're gonna leave with me tonight, come dance with me
-
-
-

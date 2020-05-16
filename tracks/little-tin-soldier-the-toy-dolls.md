@@ -1,8 +1,11 @@
 ---
+album: Hidden Treasures From The West Coast
 artists:
 - The Toy Dolls
+external_ids:
+  spotify: spotify:track:0IxLULmLG5EOhAModzmXAh
 features: []
-genres: []
+first_released_as_single: true
 key: little-tin-soldier-the-toy-dolls
 name: Little Tin Soldier
 rankings:
@@ -22,5 +25,7 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1963-01-19'
+release_year: 1962
+runtime: 132746
 ---
 

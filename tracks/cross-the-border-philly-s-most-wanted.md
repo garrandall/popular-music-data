@@ -1,8 +1,11 @@
 ---
+album: Get Down Or Lay Down (U.S. Explicit)
 artists:
 - Philly's Most Wanted
+external_ids:
+  spotify: spotify:track:26jvFY5r6AN5kuJmih4GpF
 features: []
-genres: []
+first_released_as_single: false
 key: cross-the-border-philly-s-most-wanted
 lyrics_url: https://genius.com/Phillys-most-wanted-cross-the-border-lyrics
 name: Cross The Border
@@ -27,6 +30,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2001-03-31'
+release_year: 2001
+runtime: 255724
 ---
 Yo, once the Mo start drippin', hoes start trippin'
 Tell em my name Boo, you know we all hittin'

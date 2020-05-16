@@ -1,8 +1,11 @@
 ---
+album: Straight from the Heart
 artists:
 - Ann Peebles
+external_ids:
+  spotify: spotify:track:5DI6GY8hdRTFLlk0QFkc5g
 features: []
-genres: []
+first_released_as_single: false
 key: i-pity-the-fool-ann-peebles
 lyrics_url: https://genius.com/Ann-peebles-i-pity-the-fool-lyrics
 name: I Pity The Fool
@@ -23,6 +26,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1971-03-27'
+release_year: 1971
+runtime: 179386
 ---
 I pity the fool
 Whoa, I pity the fool

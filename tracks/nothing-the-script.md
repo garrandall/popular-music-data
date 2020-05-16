@@ -1,8 +1,11 @@
 ---
+album: Science & Faith
 artists:
 - The Script
+external_ids:
+  spotify: spotify:track:0c3yfC8zMRJGvmqphczhZb
 features: []
-genres: []
+first_released_as_single: false
 key: nothing-the-script
 lyrics_url: https://genius.com/The-script-nothing-lyrics
 name: Nothing
@@ -87,6 +90,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '2012-01-07'
+release_year: 2011
+runtime: 272213
 ---
 Am I better off dead? Am I better off a quitter?
 They say I'm better off now than I ever was with her

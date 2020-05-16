@@ -1,8 +1,11 @@
 ---
+album: If I Should Love Again
 artists:
 - Barry Manilow
+external_ids:
+  spotify: spotify:track:3VoctBpZb4XJOSY5amXzYv
 features: []
-genres: []
+first_released_as_single: false
 key: the-old-songs-barry-manilow
 lyrics_url: https://genius.com/Barry-manilow-the-old-songs-lyrics
 name: The Old Songs
@@ -71,6 +74,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1982-01-23'
+release_year: 1973
+runtime: 282373
 ---
 Candles burning, glasses are chilled and soon she'll be by
 Hope and pray she'll say that she's willing to give us another try

@@ -1,8 +1,11 @@
 ---
+album: Laundry Service
 artists:
 - Shakira
+external_ids:
+  spotify: spotify:track:36YNa8joLwu9yor2TkZbIY
 features: []
-genres: []
+first_released_as_single: false
 key: objection--tango--shakira
 lyrics_url: https://www.azlyrics.com/lyrics/shakira/objection.html
 name: Objection (Tango)
@@ -43,8 +46,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2002-11-02'
+release_year: 2001
+runtime: 222533
 ---
-
 It's not her fault that she's so irresistible
 But all the damage she's caused isn't fixable
 Every twenty seconds you repeat her name
@@ -90,4 +94,3 @@ Rehearse it
 Or train like a horse
 But don't you count on me
 Don't you count on me boy
-

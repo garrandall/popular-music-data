@@ -1,8 +1,11 @@
 ---
+album: 'Frank Sinatra: The Complete Capitol Singles Collection'
 artists:
 - Frank Sinatra
+external_ids:
+  spotify: spotify:track:4Oz9avF6jbz2emynwgSoCr
 features: []
-genres: []
+first_released_as_single: false
 key: french-foreign-legion-frank-sinatra
 lyrics_url: https://www.azlyrics.com/lyrics/franksinatra/frenchforeignlegion.html
 name: French Foreign Legion
@@ -35,8 +38,9 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1959-05-11'
+release_year: 1959
+runtime: 122333
 ---
-
 If you turn me down once more, I'll join the French Foreign Legion
 Bet you, they would welcome me, with open arms
 
@@ -49,6 +53,3 @@ If you think I won't find romance, in the French Foreign Legion
 Think about that uniform with all its charm
 Just one more time are you gonna be mine, or au revoir cheri
 It's the French Foreign Legion for me
-
-
-

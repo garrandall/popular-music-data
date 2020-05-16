@@ -1,8 +1,11 @@
 ---
+album: The International Jim Reeves
 artists:
 - Jim Reeves
+external_ids:
+  spotify: spotify:track:5pTKxcFqnwGAF75yC2wv7Q
 features: []
-genres: []
+first_released_as_single: false
 key: guilty-jim-reeves
 lyrics_url: https://www.azlyrics.com/lyrics/jimreeves/guilty.html
 name: Guilty
@@ -15,8 +18,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1963-07-13'
+release_year: 1963
+runtime: 189613
 ---
-
 I've been accused, convicted and condemned
 The trial's over, and now I face the end,
 Is this your way of telling me we're through
@@ -36,6 +40,3 @@ Don't punish me for things I didn't do
 When all I'm guilty of, is loving you.
 
 Yes, all I'm guilty of, is loving you...
-
-
-

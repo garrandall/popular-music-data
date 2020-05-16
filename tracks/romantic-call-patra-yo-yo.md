@@ -1,9 +1,12 @@
 ---
+album: Queen Of The Pack
 artists:
 - Patra
+external_ids:
+  spotify: spotify:track:1siSzxLE2nCUZ4VYTMbCQT
 features:
 - Yo-Yo
-genres: []
+first_released_as_single: false
 key: romantic-call-patra-yo-yo
 lyrics_url: https://genius.com/Patra-romantic-call-lyrics
 name: Romantic Call
@@ -72,6 +75,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1994-11-26'
+release_year: 1993
+runtime: 243093
 ---
 My property is my property
 Any lover come cross get tied fi life, watcha baby Bobby

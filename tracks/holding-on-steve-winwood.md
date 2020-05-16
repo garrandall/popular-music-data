@@ -1,8 +1,11 @@
 ---
+album: Roll With It
 artists:
 - Steve Winwood
+external_ids:
+  spotify: spotify:track:1F12mGFRXXwfgxspQ9vjjB
 features: []
-genres: []
+first_released_as_single: false
 key: holding-on-steve-winwood
 lyrics_url: https://genius.com/Steve-winwood-holding-on-lyrics
 name: Holding On
@@ -75,6 +78,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1989-03-18'
+release_year: 1988
+runtime: 376173
 ---
 Used to live in the danger zone, any day it could get too rough
 Now I'm glad I kept holding on, now I'm glad I had soul enough

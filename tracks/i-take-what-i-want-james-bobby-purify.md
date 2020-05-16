@@ -1,9 +1,12 @@
 ---
+album: The Pure Sound Of The Purifys
 artists:
 - James
 - Bobby Purify
+external_ids:
+  spotify: spotify:track:57zfY1l4nOa2dXW7GIKeb6
 features: []
-genres: []
+first_released_as_single: false
 key: i-take-what-i-want-james-bobby-purify
 lyrics_url: https://www.musixmatch.com/lyrics/James-Bobby-Purify/I-take-what-I-want
 name: I Take What I Want
@@ -32,6 +35,8 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1967-08-19'
+release_year: 1967
+runtime: 133440
 ---
 Huh!
 I take what I want

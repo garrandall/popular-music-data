@@ -1,8 +1,11 @@
 ---
+album: Never Boring
 artists:
 - Freddie Mercury
+external_ids:
+  spotify: spotify:track:4HeNuE5fHrBQFErXCdVU7s
 features: []
-genres: []
+first_released_as_single: false
 key: love-kills-freddie-mercury
 lyrics_url: https://www.azlyrics.com/lyrics/freddiemercury/lovekills.html
 name: Love Kills
@@ -31,8 +34,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1984-11-03'
+release_year: 1984
+runtime: 269586
 ---
-
 Love don't give no compensation, love don't pay no bills
 Love don't give no indication, love just won't stand still
 Love kills, drills you through your heart
@@ -66,6 +70,3 @@ Love kills, hey, drills you through your heart
 Love kills, tears you right apart
 It won't let go, it won't let go
 Love kills, yeah
-
-
-

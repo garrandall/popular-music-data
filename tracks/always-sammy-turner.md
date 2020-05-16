@@ -1,8 +1,11 @@
 ---
+album: Paradise
 artists:
 - Sammy Turner
+external_ids:
+  spotify: spotify:track:4BOp0Ddc2K357ok52GC4zn
 features: []
-genres: []
+first_released_as_single: false
 key: always-sammy-turner
 lyrics_url: https://genius.com/Sammy-turner-always-lyrics
 name: Always
@@ -55,6 +58,8 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1960-01-18'
+release_year: 1959
+runtime: 130240
 ---
 Always
 Sammy Turner

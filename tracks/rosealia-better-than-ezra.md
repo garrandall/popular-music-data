@@ -1,8 +1,11 @@
 ---
+album: Deluxe
 artists:
 - Better Than Ezra
+external_ids:
+  spotify: spotify:track:2NlX2HYLvnqpD8v1sBOUyK
 features: []
-genres: []
+first_released_as_single: false
 key: rosealia-better-than-ezra
 lyrics_url: https://www.azlyrics.com/lyrics/betterthanezra/rosealia.html
 name: Rosealia
@@ -55,8 +58,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1996-02-10'
+release_year: 1995
+runtime: 278973
 ---
-
 Where have you gone, my Rosealia?
 Into the crowd, he'll never find you.
 If you walk real fast, and you stay down low.
@@ -97,6 +101,3 @@ Put on your mask, wearing your cape.
 Put on your mask, my Rosealia.
 
 Rosealia
-
-
-

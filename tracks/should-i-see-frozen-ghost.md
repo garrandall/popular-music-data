@@ -1,8 +1,11 @@
 ---
+album: Frozen Ghost
 artists:
 - Frozen Ghost
+external_ids:
+  spotify: spotify:track:5I4wTwJdBJgTE2NA0ErL5y
 features: []
-genres: []
+first_released_as_single: false
 key: should-i-see-frozen-ghost
 lyrics_url: https://genius.com/Frozen-ghost-should-i-see-lyrics
 name: Should I See
@@ -47,6 +50,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1987-06-13'
+release_year: 1987
+runtime: 230985
 ---
 Cover my eyes and ears
 Til it all dissapears

@@ -1,8 +1,11 @@
 ---
+album: Destination Brooklyn
 artists:
 - Vicious
+external_ids:
+  spotify: spotify:track:0x8r7tVHilIuGFLl3f1qfQ
 features: []
-genres: []
+first_released_as_single: false
 key: nika-vicious
 lyrics_url: https://genius.com/Lil-vicious-nika-lyrics
 name: Nika
@@ -51,6 +54,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1995-03-25'
+release_year: 1994
+runtime: 258760
 ---
 Boooom!
 Yeah di world mash up!

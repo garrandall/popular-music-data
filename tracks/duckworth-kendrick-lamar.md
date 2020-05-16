@@ -1,8 +1,11 @@
 ---
+album: DAMN.
 artists:
 - Kendrick Lamar
+external_ids:
+  spotify: spotify:track:2bCJKjeHVf8WoE1lGMX9cO
 features: []
-genres: []
+first_released_as_single: false
 key: duckworth-kendrick-lamar
 lyrics_url: https://www.musixmatch.com/lyrics/Kendrick-Lamar/DUCKWORTH
 name: Duckworth
@@ -11,6 +14,8 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '2017-05-06'
+release_year: 2017
+runtime: 248613
 ---
 IIt was always me vs the world
 Until I found it's me vs me

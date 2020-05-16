@@ -1,8 +1,11 @@
 ---
+album: Ted Nugent
 artists:
 - Ted Nugent
+external_ids:
+  spotify: spotify:track:26arZyeKDvJc6pqjhayXNI
 features: []
-genres: []
+first_released_as_single: false
 key: hey-baby-ted-nugent
 lyrics_url: https://www.azlyrics.com/lyrics/tednugent/heybaby.html
 name: Hey Baby
@@ -27,8 +30,9 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1976-04-24'
+release_year: 1975
+runtime: 241000
 ---
-
 Hey baby, tell me why you hangin 'round
 Ain't got time for kissin I'm too busy messin in this town
 All you pretty women, you're so far and in between
@@ -74,6 +78,3 @@ I'll show you the real love game
 
 Love game
 Love game
-
-
-

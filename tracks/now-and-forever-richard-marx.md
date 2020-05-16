@@ -1,8 +1,11 @@
 ---
+album: Paid Vacation
 artists:
 - Richard Marx
+external_ids:
+  spotify: spotify:track:2V2pxcEfn5zs79sE7qcewA
 features: []
-genres: []
+first_released_as_single: false
 key: now-and-forever-richard-marx
 lyrics_url: https://www.azlyrics.com/lyrics/richardmarx/nowandforever.html
 name: Now And Forever
@@ -115,8 +118,9 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1994-07-23'
+release_year: 1994
+runtime: 214826
 ---
-
 Whenever I'm weary
 From the battles that raged in my head
 You made sense of madness
@@ -149,6 +153,3 @@ I will be your man
 
 Now & Forever,
 I will be your man
-
-
-

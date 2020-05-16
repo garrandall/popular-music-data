@@ -1,9 +1,12 @@
 ---
+album: El Dorado
 artists:
 - Shakira
+external_ids:
+  spotify: spotify:track:23bdFaePepmoGrsFY4h3S0
 features:
 - Maluma
-genres: []
+first_released_as_single: true
 key: chantaje-shakira-maluma
 lyrics_url: https://genius.com/Shakira-chantaje-lyrics
 name: Chantaje
@@ -80,6 +83,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2017-04-01'
+release_year: 2016
+runtime: 196000
 ---
 Rudeboyz
 

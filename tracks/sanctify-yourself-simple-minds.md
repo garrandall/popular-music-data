@@ -1,8 +1,11 @@
 ---
+album: Once Upon A Time (Super Deluxe)
 artists:
 - Simple Minds
+external_ids:
+  spotify: spotify:track:5YIh3K9eF6ymtagIIpprOU
 features: []
-genres: []
+first_released_as_single: false
 key: sanctify-yourself-simple-minds
 lyrics_url: https://www.azlyrics.com/lyrics/simpleminds/sanctifyyourself.html
 name: Sanctify Yourself
@@ -63,8 +66,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1986-04-26'
+release_year: 1985
+runtime: 297906
 ---
-
 Is this the age of the thunder and rage
 Can you feel the ground move 'round your feet
 If you take one step closer, it'll lead to another
@@ -103,6 +107,3 @@ Open up your heart
 Sanctify yourself, sanctify
 Sanctify yourself, sanctify
 Sanctify yourself, set yourself free
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Branigan 2
 artists:
 - Laura Branigan
+external_ids:
+  spotify: spotify:track:5GzyRXMbtyoN8A4lgYicTP
 features: []
-genres: []
+first_released_as_single: false
 key: how-am-i-supposed-to-live-without-you-laura-branigan
 lyrics_url: https://www.azlyrics.com/lyrics/laurabranigan/howamisupposedtolivewithoutyou.html
 name: How Am I Supposed To Live Without You
@@ -87,8 +90,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1983-11-12'
+release_year: 1983
+runtime: 263320
 ---
-
 I could hardly believe it
 When I heard the news today
 I had to come and get it straight from you
@@ -133,6 +137,3 @@ Now that I've been loving you so long
 How am I supposed to live without you
 and how am I supposed to carry on
 When all that I've been living for is gone
-
-
-

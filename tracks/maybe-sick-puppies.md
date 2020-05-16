@@ -1,8 +1,11 @@
 ---
+album: Tri-Polar
 artists:
 - Sick Puppies
+external_ids:
+  spotify: spotify:track:3K3qKMsD5P9PRCbBV4lvgd
 features: []
-genres: []
+first_released_as_single: false
 key: maybe-sick-puppies
 lyrics_url: https://www.azlyrics.com/lyrics/sickpuppies/maybe.html
 name: Maybe
@@ -67,8 +70,9 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '2011-03-19'
+release_year: 2009
+runtime: 206120
 ---
-
 Maybe I'm a dreamer
 Maybe I'm misunderstood
 Maybe you're not seeing the side of me you should
@@ -125,6 +129,3 @@ What am I waiting for?
 Maybe it's time to change
 'Cause nothing stays the same
 Maybe it's time to change
-
-
-

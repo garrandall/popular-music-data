@@ -1,8 +1,11 @@
 ---
+album: Eric Carmen
 artists:
 - Eric Carmen
+external_ids:
+  spotify: spotify:track:0AQqrtK1pULuwZUXhwaaDz
 features: []
-genres: []
+first_released_as_single: false
 key: all-by-myself-eric-carmen
 lyrics_url: https://genius.com/Eric-carmen-all-by-myself-lyrics
 name: All By Myself
@@ -83,6 +86,8 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '1976-04-24'
+release_year: 1975
+runtime: 430000
 ---
 When I was young
 I never needed anyone

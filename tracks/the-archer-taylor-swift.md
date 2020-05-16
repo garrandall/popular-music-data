@@ -1,8 +1,11 @@
 ---
+album: Lover
 artists:
 - Taylor Swift
+external_ids:
+  spotify: spotify:track:3pHkh7d0lzM2AldUtz2x37
 features: []
-genres: []
+first_released_as_single: false
 key: the-archer-taylor-swift
 lyrics_url: https://www.azlyrics.com/lyrics/taylorswift/thearcher.html
 name: The Archer
@@ -19,8 +22,9 @@ rankings:
   rank: 38
   ranking_list: Billboard Hot 100
   start_date: '2019-09-07'
+release_year: 2019
+runtime: 211240
 ---
-
 Combat
 I'm ready for combat
 I say I don't want that
@@ -100,6 +104,3 @@ You could stay
 
 Combat
 I'm ready for combat
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Never Let Me Down
 artists:
 - David Bowie
+external_ids:
+  spotify: spotify:track:4Isxh2Pb2UM6nodfWtCprx
 features: []
-genres: []
+first_released_as_single: false
 key: never-let-me-down-david-bowie
 lyrics_url: https://www.azlyrics.com/lyrics/davidbowie/neverletmedown.html
 name: Never Let Me Down
@@ -51,8 +54,9 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '1987-10-17'
+release_year: 1987
+runtime: 245360
 ---
-
 When I believed in nothing 
 I called her name
 Trapped in a high-dollar joint 
@@ -93,6 +97,3 @@ Shaking like this honey doing that
 Never let you down I'll never let you down
 I'll never let you down 
 I'll never let you down
-
-
-

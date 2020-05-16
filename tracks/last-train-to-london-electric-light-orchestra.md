@@ -1,8 +1,11 @@
 ---
+album: Discovery
 artists:
 - Electric Light Orchestra
+external_ids:
+  spotify: spotify:track:3kglRq6t6F0ZUs1SO5jKFf
 features: []
-genres: []
+first_released_as_single: false
 key: last-train-to-london-electric-light-orchestra
 lyrics_url: https://www.azlyrics.com/lyrics/electriclightorchestra/lasttraintolondon.html
 name: Last Train To London
@@ -51,8 +54,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1980-02-16'
+release_year: 1972
+runtime: 271573
 ---
-
 It was 9-29,9-29 back street big city.
 The sun was going' down,there was music all around
 It felt so right.
@@ -84,4 +88,3 @@ Underneath a starry sky,time was still but hours
 Must really have rushed by,I didn't realize
 But love was in your eyes I really should have
 Gone,but love went on and on...
-

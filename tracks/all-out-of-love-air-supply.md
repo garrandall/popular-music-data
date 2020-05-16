@@ -1,8 +1,11 @@
 ---
+album: Lost in Love
 artists:
 - Air Supply
+external_ids:
+  spotify: spotify:track:7dQC53NiYOY9gKg3Qsu2Bs
 features: []
-genres: []
+first_released_as_single: false
 key: all-out-of-love-air-supply
 lyrics_url: https://genius.com/Air-supply-all-out-of-love-lyrics
 name: All Out Of Love
@@ -115,6 +118,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1980-12-13'
+release_year: 1980
+runtime: 243000
 ---
 I'm lying alone with my head on the phone
 Thinking of you till it hurts

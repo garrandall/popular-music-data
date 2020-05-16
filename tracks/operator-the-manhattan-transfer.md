@@ -1,8 +1,11 @@
 ---
+album: The Manhattan Transfer
 artists:
 - The Manhattan Transfer
+external_ids:
+  spotify: spotify:track:4pKarKccbSe3BzJZFnIsxt
 features: []
-genres: []
+first_released_as_single: false
 key: operator-the-manhattan-transfer
 lyrics_url: https://www.azlyrics.com/lyrics/manhattantransfer/operator.html
 name: Operator
@@ -55,8 +58,9 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1975-12-06'
+release_year: 1970
+runtime: 192533
 ---
-
 Operator
 Give me information
 Information
@@ -116,6 +120,3 @@ Give me Jesus
 Give me Jesus on the line
 
 Yeah!
-
-
-

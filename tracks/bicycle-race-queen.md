@@ -1,8 +1,11 @@
 ---
+album: Jazz (Deluxe Remastered Version)
 artists:
 - Queen
+external_ids:
+  spotify: spotify:track:3lUx27TOwV2nAiKwnYYXxe
 features: []
-genres: []
+first_released_as_single: false
 key: bicycle-race-queen
 lyrics_url: https://www.azlyrics.com/lyrics/queen/bicyclerace.html
 name: Bicycle Race
@@ -55,8 +58,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1979-01-27'
+release_year: 1978
+runtime: 180813
 ---
-
 Bicycle bicycle bicycle
 I want to ride my bicycle bicycle bicycle
 I want to ride my bicycle
@@ -115,6 +119,3 @@ I want to ride my bicycle
 I want to ride my bike
 I want to ride my bicycle
 I want to ride it where I like
-
-
-

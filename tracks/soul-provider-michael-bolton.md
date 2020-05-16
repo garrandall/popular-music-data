@@ -1,8 +1,11 @@
 ---
+album: Soul Provider
 artists:
 - Michael Bolton
+external_ids:
+  spotify: spotify:track:61QNdh0k3ps3Cqljy1nF9V
 features: []
-genres: []
+first_released_as_single: false
 key: soul-provider-michael-bolton
 lyrics_url: https://www.azlyrics.com/lyrics/michaelbolton/soulprovider.html
 name: Soul Provider
@@ -75,8 +78,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1989-10-21'
+release_year: 1987
+runtime: 267693
 ---
-
 Talk about love, talk about trust
 Talkin' 'bout forever baby
 When I'm talkin' 'bout us
@@ -109,4 +113,3 @@ I've been waitin' for a long time for somebody like you
 To give my love, all my love day and night
 Just say you'll be mine for the rest of your life
 Baby I'll show you why
-

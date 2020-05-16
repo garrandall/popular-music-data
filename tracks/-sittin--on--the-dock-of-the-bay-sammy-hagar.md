@@ -1,8 +1,11 @@
 ---
+album: Best Of Sammy Hagar
 artists:
 - Sammy Hagar
+external_ids:
+  spotify: spotify:track:3LMelxlaociDgqIzLR1eAz
 features: []
-genres: []
+first_released_as_single: false
 key: -sittin--on--the-dock-of-the-bay-sammy-hagar
 lyrics_url: https://www.azlyrics.com/lyrics/sammyhagar/sittinonthedockofthebay.html
 name: (Sittin' On) The Dock Of The Bay
@@ -27,8 +30,9 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '1979-05-05'
+release_year: 1979
+runtime: 182466
 ---
-
 Sittin' in the mornin' sun
 I'll be sittin' when the evenin' comes
 Watching the ships come in
@@ -70,6 +74,3 @@ Nothin', no, no, nothin's gonna change, baby
 I ain't gonna change
 I'm just gonna sit here
 Sit, sit, sittin' on the dock of the bay
-
-
-

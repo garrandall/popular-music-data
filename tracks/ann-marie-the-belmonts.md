@@ -1,8 +1,11 @@
 ---
+album: Golden Oldies
 artists:
 - The Belmonts
+external_ids:
+  spotify: spotify:track:2QxFGEBDpJAvr9dEcGtBo8
 features: []
-genres: []
+first_released_as_single: true
 key: ann-marie-the-belmonts
 lyrics_url: https://genius.com/The-belmonts-ann-marie-lyrics
 name: Ann-Marie
@@ -19,6 +22,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1963-05-04'
+release_year: 1963
+runtime: 191266
 ---
 Ann, Ann-Marie, Ann-Marie, Ann-Marie
 

@@ -1,8 +1,11 @@
 ---
+album: Funky Divas
 artists:
 - En Vogue
+external_ids:
+  spotify: spotify:track:61vIGLnOsYaydUUKfJ9XC5
 features: []
-genres: []
+first_released_as_single: false
 key: give-it-up-turn-it-loose-en-vogue
 lyrics_url: https://www.azlyrics.com/lyrics/envogue/giveitupturnitloose.html
 name: Give It Up Turn It Loose
@@ -87,8 +90,9 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '1993-04-17'
+release_year: 1992
+runtime: 312040
 ---
-
 Give It Up, Turn It Loose
 I believe in yesterday
 I believe in yesterday
@@ -179,4 +183,3 @@ Give it up
 Give it up
 Give it up turn it loose
 Turnin' it loose, baby
-

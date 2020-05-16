@@ -1,8 +1,11 @@
 ---
+album: The Present
 artists:
 - The Moody Blues
+external_ids:
+  spotify: spotify:track:43raN5DVWdhYxSZ16aF5Ap
 features: []
-genres: []
+first_released_as_single: false
 key: sitting-at-the-wheel-the-moody-blues
 lyrics_url: https://www.azlyrics.com/lyrics/moodyblues/sittingatthewheel.html
 name: Sitting At The Wheel
@@ -47,8 +50,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1983-11-05'
+release_year: 1983
+runtime: 339440
 ---
-
 I can hear the music playing
 I can hear the word that you're saying
 I can see the lovelife in your eyes
@@ -111,6 +115,3 @@ I am just sitting
 Sitting at the wheel
 If you're sitting at the wheel
 Watch the rocker roll by
-
-
-

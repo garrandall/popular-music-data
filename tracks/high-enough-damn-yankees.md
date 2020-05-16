@@ -1,8 +1,11 @@
 ---
+album: Damn Yankees
 artists:
 - Damn Yankees
+external_ids:
+  spotify: spotify:track:5t5rCnsgRBtcKqTB7SbD1Q
 features: []
-genres: []
+first_released_as_single: false
 key: high-enough-damn-yankees
 lyrics_url: https://www.azlyrics.com/lyrics/damnyankees/highenough.html
 name: High Enough
@@ -123,8 +126,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1991-04-06'
+release_year: 1990
+runtime: 287320
 ---
-
 I don't wanna hear about it anymore
 It's a shame I've got to live without you anymore
 There's a fire in my heart
@@ -184,6 +188,3 @@ Can you take me high enough
 Won't you fly me over (won't you fly me over) yesterday
 Can you take me high enough
 It's never over, whoa, whoa, whoa
-
-
-

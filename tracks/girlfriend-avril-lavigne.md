@@ -1,8 +1,11 @@
 ---
+album: The Best Damn Thing
 artists:
 - Avril Lavigne
+external_ids:
+  spotify: spotify:track:5xv4ggemGPNpowZAMwEYHH
 features: []
-genres: []
+first_released_as_single: true
 key: girlfriend-avril-lavigne
 lyrics_url: https://genius.com/Avril-lavigne-girlfriend-lyrics
 name: Girlfriend
@@ -103,6 +106,8 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '2007-08-25'
+release_year: 2007
+runtime: 216560
 ---
 Hey, hey, you, you, I don't like your girlfriend (That's right)
 No way, no way, I think you need a new one

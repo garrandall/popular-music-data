@@ -1,8 +1,11 @@
 ---
+album: Danity Kane
 artists:
 - Danity Kane
+external_ids:
+  spotify: spotify:track:5FRIqUXfTazrtRmYEGO4G0
 features: []
-genres: []
+first_released_as_single: false
 key: show-stopper-danity-kane
 lyrics_url: https://www.azlyrics.com/lyrics/danitykane/showstopper.html
 name: Show Stopper
@@ -87,9 +90,9 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '2007-01-13'
+release_year: 2006
+runtime: 229240
 ---
-
-
 We in the car, we ride slow
 We doin' things that the girls don't do
 (Danity Kane)
@@ -170,4 +173,3 @@ One time (one time)
 Two time (two time)
 Three time (three time)
 Four time (four time)
-

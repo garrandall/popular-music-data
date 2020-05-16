@@ -1,8 +1,11 @@
 ---
+album: The Greatest Popular Pianist / The Artist's Choice
 artists:
 - Roger Williams
+external_ids:
+  spotify: spotify:track:2UD9dhePuobb5Me6NUx73o
 features: []
-genres: []
+first_released_as_single: false
 key: born-free-roger-williams
 lyrics_url: https://genius.com/Roger-williams-born-free-lyrics
 name: Born Free
@@ -91,6 +94,8 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '1967-01-14'
+release_year: 1966
+runtime: 137493
 ---
 Born free, as free as the wind blows
 As free as the grass grows

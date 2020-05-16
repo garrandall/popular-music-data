@@ -1,9 +1,12 @@
 ---
+album: Herb Alpert's Ninth
 artists:
 - Herb Alpert
 - The Tijuana Brass
+external_ids:
+  spotify: spotify:track:6ZP7J5XY2rVKf1y4l0HqNh
 features: []
-genres: []
+first_released_as_single: false
 key: the-happening-herb-alpert-the-tijuana-brass
 lyrics_url: https://www.musixmatch.com/lyrics/Herb-Alpert-feat-The-Tijuana-Brass-2/The-Happening
 name: The Happening
@@ -28,6 +31,8 @@ rankings:
   rank: 32
   ranking_list: Billboard Hot 100
   start_date: '1967-08-05'
+release_year: 1967
+runtime: 147040
 ---
 Hey! Life, look at me, I can see the reality,
 'Cause when you shook me, took me outta my world, I woke up.

@@ -1,8 +1,12 @@
 ---
+album: Sailing Down the Years (Kevin's Personal Tapes) - Featuring Andy Summers of
+  The Police
 artists:
 - Kevin Lamb
+external_ids:
+  spotify: spotify:track:0NV1dveqKwHyOQLBKJOduK
 features: []
-genres: []
+first_released_as_single: false
 key: on-the-wrong-track-kevin-lamb
 lyrics_url: https://genius.com/Kevin-lamb-on-the-wrong-track-lyrics
 name: On The Wrong Track
@@ -23,6 +27,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1978-07-15'
+release_year: 1978
+runtime: 225933
 ---
 The word came to me this morning
 They say that you're hot on my trail

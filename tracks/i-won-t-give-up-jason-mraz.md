@@ -1,8 +1,11 @@
 ---
+album: Love Is a Four Letter Word
 artists:
 - Jason Mraz
+external_ids:
+  spotify: spotify:track:05pKAafT85jeeNhZ6kq7HT
 features: []
-genres: []
+first_released_as_single: true
 key: i-won-t-give-up-jason-mraz
 lyrics_url: https://genius.com/Jason-mraz-i-wont-give-up-lyrics
 name: I Won't Give Up
@@ -183,6 +186,8 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '2012-11-17'
+release_year: 2012
+runtime: 240165
 ---
 When I look into your eyes
 It's like watching the night sky

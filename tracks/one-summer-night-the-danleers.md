@@ -1,8 +1,11 @@
 ---
+album: Forever Doo Wop
 artists:
 - The Danleers
+external_ids:
+  spotify: spotify:track:2YtUjgdFbADns1qWtBkHXN
 features: []
-genres: []
+first_released_as_single: false
 key: one-summer-night-the-danleers
 lyrics_url: https://genius.com/The-danleers-one-summer-night-lyrics
 name: One Summer Night
@@ -39,6 +42,8 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1958-09-22'
+release_year: 1958
+runtime: 133178
 ---
 One summer night, we fell in love
 One summer night, I held you tight

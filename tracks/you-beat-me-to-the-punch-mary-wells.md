@@ -1,8 +1,11 @@
 ---
+album: The One Who Really Loves You
 artists:
 - Mary Wells
+external_ids:
+  spotify: spotify:track:4Sz8zFchpHQVQVqVyGz5Jb
 features: []
-genres: []
+first_released_as_single: false
 key: you-beat-me-to-the-punch-mary-wells
 lyrics_url: https://www.azlyrics.com/lyrics/marywells/youbeatmetothepunch.html
 name: You Beat Me To The Punch
@@ -55,8 +58,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1962-10-27'
+release_year: 1962
+runtime: 165333
 ---
-
 That day, I first saw you, whoa whoa, passing by
 I wanted to know your name but I was just too shy
 But I was looking at you so hard
@@ -85,6 +89,3 @@ This time I'm gonna play my hunch
 And walk away this very day
 And beat you to the punch
 Yes I will and let you know how it feels, oh, oh, oh
-
-
-

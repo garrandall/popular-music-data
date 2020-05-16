@@ -1,11 +1,14 @@
 ---
+album: 'Triple F Life: Friends, Fans & Family (Deluxe Version)'
 artists:
 - Waka Flocka Flame
+external_ids:
+  spotify: spotify:track:119pE59HeIqBiaXHbw7B1M
 features:
 - Nicki Minaj
 - Tyga
 - Flo Rida
-genres: []
+first_released_as_single: false
 key: get-low-waka-flocka-flame-nicki-minaj-tyga-flo-rida
 lyrics_url: https://www.azlyrics.com/lyrics/wakaflockaflame/getlow.html
 name: Get Low
@@ -14,9 +17,9 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '2012-06-23'
+release_year: 2012
+runtime: 256120
 ---
-
-
 Lemme see you
 Get it low, to the floor
 Baby no, don't rush
@@ -109,6 +112,3 @@ Baby no.. don't rush!
 Get it on!
 Get ya home!
 Put it on ya!
-
-
-

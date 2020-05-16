@@ -1,8 +1,11 @@
 ---
+album: The Truth
 artists:
 - Aaron Hall
+external_ids:
+  spotify: spotify:track:1TWhpLaqdToKoHHpFnCxsd
 features: []
-genres: []
+first_released_as_single: false
 key: i-miss-you-aaron-hall
 lyrics_url: https://genius.com/Aaron-hall-i-miss-you-lyrics
 name: I Miss You
@@ -99,6 +102,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1994-10-15'
+release_year: 1993
+runtime: 381733
 ---
 I miss you
 I'm talking to you baby

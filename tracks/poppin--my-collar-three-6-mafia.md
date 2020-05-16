@@ -1,8 +1,11 @@
 ---
+album: Most Known Unknown (Explicit)
 artists:
 - Three 6 Mafia
+external_ids:
+  spotify: spotify:track:4uXmPyb5Lk6ETxnMTuvL1G
 features: []
-genres: []
+first_released_as_single: false
 key: poppin--my-collar-three-6-mafia
 lyrics_url: https://genius.com/Three-6-mafia-poppin-my-collar-lyrics
 name: Poppin' My Collar
@@ -71,6 +74,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2006-06-17'
+release_year: 2005
+runtime: 176240
 ---
 Now every since I can remember I been poppin' my collar
 Poppin', poppin' my collar, poppin', poppin' my collar

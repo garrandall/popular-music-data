@@ -1,8 +1,11 @@
 ---
+album: Good To Be Back
 artists:
 - Natalie Cole
+external_ids:
+  spotify: spotify:track:6WTD4ZZx3jit6MY3hDDXcc
 features: []
-genres: []
+first_released_as_single: false
 key: miss-you-like-crazy-natalie-cole
 lyrics_url: https://genius.com/Natalie-cole-i-miss-you-like-crazy-lyrics
 name: Miss You Like Crazy
@@ -83,6 +86,8 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1989-08-19'
+release_year: 1989
+runtime: 234280
 ---
 Even though it's been so long
 My love for you keeps going strong

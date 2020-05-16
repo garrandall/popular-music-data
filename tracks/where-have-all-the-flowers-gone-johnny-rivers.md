@@ -1,8 +1,11 @@
 ---
+album: Rocks The Folk
 artists:
 - Johnny Rivers
+external_ids:
+  spotify: spotify:track:582xktSWn1lwwZDBVyb6Yd
 features: []
-genres: []
+first_released_as_single: false
 key: where-have-all-the-flowers-gone-johnny-rivers
 lyrics_url: https://www.azlyrics.com/lyrics/johnnyrivers/wherehavealltheflowersgone.html
 name: Where Have All The Flowers Gone
@@ -43,8 +46,9 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1965-11-27'
+release_year: 1965
+runtime: 238666
 ---
-
 Where have all the flowers gone?
 Long time passing
 Where have all the flowers gone?
@@ -89,6 +93,3 @@ Where have all the graveyards gone?
 Covered with flowers, every one
 When will we ever learn?
 When will we ever learn?
-
-
-

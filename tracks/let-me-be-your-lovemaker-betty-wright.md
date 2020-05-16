@@ -1,8 +1,11 @@
 ---
+album: 'The Essentials: Betty Wright'
 artists:
 - Betty Wright
+external_ids:
+  spotify: spotify:track:5lWRWrkDnxWU2WXdXrCaJ4
 features: []
-genres: []
+first_released_as_single: false
 key: let-me-be-your-lovemaker-betty-wright
 lyrics_url: https://genius.com/Betty-wright-let-me-be-your-lovemaker-lyrics
 name: Let Me Be Your Lovemaker
@@ -31,6 +34,8 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1973-11-10'
+release_year: 1973
+runtime: 199333
 ---
 Let me be your lovemaker
 Let me be your soul shaker

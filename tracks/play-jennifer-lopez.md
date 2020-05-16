@@ -1,8 +1,11 @@
 ---
+album: J.Lo
 artists:
 - Jennifer Lopez
+external_ids:
+  spotify: spotify:track:7fFCnttacpotkyhTOxKv14
 features: []
-genres: []
+first_released_as_single: false
 key: play-jennifer-lopez
 lyrics_url: https://genius.com/Jennifer-lopez-play-lyrics
 name: Play
@@ -87,6 +90,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2001-08-18'
+release_year: 2001
+runtime: 211493
 ---
 Uh
 Yeah

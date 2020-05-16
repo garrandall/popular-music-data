@@ -1,8 +1,11 @@
 ---
+album: Enchantment
 artists:
 - Enchantment
+external_ids:
+  spotify: spotify:track:1RoD2kHPCNyfyCSjwk5ZVk
 features: []
-genres: []
+first_released_as_single: false
 key: sunshine-enchantment
 lyrics_url: https://genius.com/Enchantment-sunshine-lyrics
 name: Sunshine
@@ -47,6 +50,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1977-10-08'
+release_year: 1976
+runtime: 293040
 ---
 Hello, sunshine
 It's mighty good to see

@@ -1,8 +1,11 @@
 ---
+album: Glass Houses
 artists:
 - Billy Joel
+external_ids:
+  spotify: spotify:track:64UioB4Nmwgn2f4cbIpAkl
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-still-rock-and-roll-to-me-billy-joel
 lyrics_url: https://www.azlyrics.com/lyrics/billyjoel/itsstillrockandrolltome.html
 name: It's Still Rock And Roll To Me
@@ -91,8 +94,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1980-10-11'
+release_year: 1980
+runtime: 176440
 ---
-
 What's the matter with the clothes I'm wearing?
 "Can't you tell that your tie's too wide?"
 Maybe I should buy some old tab collars?
@@ -137,6 +141,3 @@ It's still rock and roll to me
 
 Everybody's talkin' 'bout the new sound
 Funny, but it's still rock and roll to me
-
-
-

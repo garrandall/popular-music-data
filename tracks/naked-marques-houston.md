@@ -1,8 +1,11 @@
 ---
+album: Naked
 artists:
 - Marques Houston
+external_ids:
+  spotify: spotify:track:6j5Swqhcc12eHvPQc6uaQS
 features: []
-genres: []
+first_released_as_single: false
 key: naked-marques-houston
 lyrics_url: https://genius.com/Marques-houston-naked-lyrics
 name: Naked
@@ -63,6 +66,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2005-11-26'
+release_year: 2005
+runtime: 266533
 ---
 Shh
 Don't say a word, just come over here

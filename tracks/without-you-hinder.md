@@ -1,8 +1,11 @@
 ---
+album: Take It To The Limit
 artists:
 - Hinder
+external_ids:
+  spotify: spotify:track:4xNfsvj9mOVnMTvHZZ8HNk
 features: []
-genres: []
+first_released_as_single: false
 key: without-you-hinder
 lyrics_url: https://genius.com/Hinder-without-you-lyrics
 name: Without You
@@ -43,6 +46,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2009-01-31'
+release_year: 2008
+runtime: 232266
 ---
 I just wanna be alone tonight
 I just wanna take a little breather

@@ -1,8 +1,11 @@
 ---
+album: You Can't Fight Fashion
 artists:
 - Michael Stanley Band
+external_ids:
+  spotify: spotify:track:3zh6c0CVMcBdIdXfN5wDLM
 features: []
-genres: []
+first_released_as_single: false
 key: my-town-michael-stanley-band
 lyrics_url: https://www.musixmatch.com/lyrics/Michael-Stanley-Band/My-Town
 name: My Town
@@ -47,6 +50,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1983-12-03'
+release_year: 1983
+runtime: 236400
 ---
 This old town's been home long as I remember
 This town's gonna be here long after I'm gone

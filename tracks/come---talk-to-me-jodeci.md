@@ -1,8 +1,11 @@
 ---
+album: Forever My Lady
 artists:
 - Jodeci
+external_ids:
+  spotify: spotify:track:63uR29DnkNPUiorL30cHnj
 features: []
-genres: []
+first_released_as_single: false
 key: come---talk-to-me-jodeci
 lyrics_url: https://genius.com/Jodeci-come-and-talk-to-me-lyrics
 name: Come & Talk To Me
@@ -119,6 +122,8 @@ rankings:
   rank: 37
   ranking_list: Billboard Hot 100
   start_date: '1992-10-10'
+release_year: 1991
+runtime: 276266
 ---
 Been watching you baby
 For a long time

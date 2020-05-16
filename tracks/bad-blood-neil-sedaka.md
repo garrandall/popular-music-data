@@ -1,8 +1,11 @@
 ---
+album: The Definitive Collection
 artists:
 - Neil Sedaka
+external_ids:
+  spotify: spotify:track:5ABrBYbzepxzcW9pLIWw1j
 features: []
-genres: []
+first_released_as_single: false
 key: bad-blood-neil-sedaka
 lyrics_url: https://www.azlyrics.com/lyrics/neilsedaka/badblood.html
 name: Bad Blood
@@ -63,8 +66,9 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '1975-12-13'
+release_year: 1975
+runtime: 189066
 ---
-
 It could've been me
 But it was you
 Who went and bit off
@@ -128,6 +132,3 @@ Is lettin' it slide
 
 The only good thing about bad blood
 Is lettin' it slide
-
-
-

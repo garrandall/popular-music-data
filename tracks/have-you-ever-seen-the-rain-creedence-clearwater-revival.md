@@ -1,8 +1,11 @@
 ---
+album: Pendulum
 artists:
 - Creedence Clearwater Revival
+external_ids:
+  spotify: spotify:track:5nys1FixDQDzLauDSwgta1
 features: []
-genres: []
+first_released_as_single: false
 key: have-you-ever-seen-the-rain-creedence-clearwater-revival
 lyrics_url: https://genius.com/Creedence-clearwater-revival-have-you-ever-seen-the-rain-lyrics
 name: Have You Ever Seen The Rain
@@ -47,6 +50,8 @@ rankings:
   rank: 24
   ranking_list: Billboard Hot 100
   start_date: '1971-04-03'
+release_year: 1969
+runtime: 158866
 ---
 Someone told me long ago
 There's a calm before the storm

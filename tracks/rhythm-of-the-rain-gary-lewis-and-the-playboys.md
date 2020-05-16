@@ -1,8 +1,11 @@
 ---
+album: Liberty Singles Collection
 artists:
 - Gary Lewis And The Playboys
+external_ids:
+  spotify: spotify:track:0WiANN63HtYB6OEBYt863R
 features: []
-genres: []
+first_released_as_single: false
 key: rhythm-of-the-rain-gary-lewis-and-the-playboys
 lyrics_url: https://genius.com/Gary-lewis-and-the-playboys-rhythm-of-the-rain-lyrics
 name: Rhythm Of The Rain
@@ -55,6 +58,8 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1969-06-21'
+release_year: 1969
+runtime: 134866
 ---
 Listen to the rhythm of the falling rain
 Telling me just what a fool I've been

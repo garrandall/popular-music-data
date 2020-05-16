@@ -1,10 +1,13 @@
 ---
+album: Idlewild
 artists:
 - OutKast
+external_ids:
+  spotify: spotify:track:18uAu5gCnoGGNYQu8LeAr1
 features:
 - Scar
 - Sleepy Brown
-genres: []
+first_released_as_single: false
 key: morris-brown-outkast-scar-sleepy-brown
 lyrics_url: https://genius.com/Outkast-morris-brown-lyrics
 name: Morris Brown
@@ -13,6 +16,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2006-09-09'
+release_year: 2006
+runtime: 264400
 ---
 Whether you like it or not, he's back
 D-A-double-D-Y Fat Sacks

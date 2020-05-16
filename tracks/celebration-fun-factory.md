@@ -1,8 +1,11 @@
 ---
+album: Back to the Factory
 artists:
 - Fun Factory
+external_ids:
+  spotify: spotify:track:1EdPpEwR37jBFQKtdzZVs0
 features: []
-genres: []
+first_released_as_single: true
 key: celebration-fun-factory
 lyrics_url: https://genius.com/Fun-factory-celebration-lyrics
 name: Celebration
@@ -55,6 +58,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1996-03-30'
+release_year: 1995
+runtime: 225240
 ---
 Let's have a celebration
 By the sea (by the sea)

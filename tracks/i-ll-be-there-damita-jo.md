@@ -1,8 +1,11 @@
 ---
+album: The Very Best Of
 artists:
 - Damita Jo
+external_ids:
+  spotify: spotify:track:5GPypf3Iy9VoguLGUiM0pn
 features: []
-genres: []
+first_released_as_single: false
 key: i-ll-be-there-damita-jo
 lyrics_url: https://genius.com/Damita-jo-ill-be-there-lyrics
 name: I'll Be There
@@ -43,6 +46,8 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '1961-08-28'
+release_year: 1961
+runtime: 168666
 ---
 You can reach the top
 Or suddenly drop

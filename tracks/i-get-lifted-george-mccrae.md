@@ -1,8 +1,11 @@
 ---
+album: Rock Your Baby
 artists:
 - George McCrae
+external_ids:
+  spotify: spotify:track:587Vwu9qc90AQx9rmTb2wg
 features: []
-genres: []
+first_released_as_single: false
 key: i-get-lifted-george-mccrae
 lyrics_url: https://www.azlyrics.com/lyrics/georgemccrae/igetlifted.html
 name: I Get Lifted
@@ -43,8 +46,9 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1975-03-22'
+release_year: 1974
+runtime: 167333
 ---
-
 Sitting here together, baby, we're all alone
 Now I can tell ya, girl, you turn me on
 I get lifted up hi-high, hi-high
@@ -64,6 +68,3 @@ Mama, mama, mama, mama
 Mama, mama, mama, mama
 
 Sitting on the corner, waiting for your love light...
-
-
-

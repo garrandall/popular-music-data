@@ -1,8 +1,11 @@
 ---
+album: Night Songs
 artists:
 - Cinderella
+external_ids:
+  spotify: spotify:track:01Q4wU19hamqnhNjtuvTyI
 features: []
-genres: []
+first_released_as_single: false
 key: nobody-s-fool-cinderella
 lyrics_url: https://genius.com/Cinderella-nobodys-fool-lyrics
 name: Nobody's Fool
@@ -91,6 +94,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1987-03-28'
+release_year: 1986
+runtime: 287400
 ---
 I count the falling tears
 They fall before my eyes

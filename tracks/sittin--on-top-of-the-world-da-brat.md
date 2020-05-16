@@ -1,8 +1,11 @@
 ---
+album: ANUTHAFUNKDAFIEDTANTRUM
 artists:
 - Da Brat
+external_ids:
+  spotify: spotify:track:6NWZkG7pv1raYZB1FVWMKA
 features: []
-genres: []
+first_released_as_single: false
 key: sittin--on-top-of-the-world-da-brat
 lyrics_url: https://www.azlyrics.com/lyrics/dabrat/sittinontopoftheworld.html
 name: Sittin' On Top Of The World
@@ -71,8 +74,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1997-01-25'
+release_year: 1996
+runtime: 238794
 ---
-
 You wanna know what the fuck I heard, bitch?
 
 I heard you wanna carbon copy me,
@@ -142,4 +146,3 @@ You see, niggas round town called this and that,
 Said I sound like the pound and my shit was wack.
 Dropped the album Funkdafied and they thought it was bold,
 30 days later, the LP went gold, and I'm
-

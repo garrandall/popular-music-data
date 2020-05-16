@@ -1,10 +1,13 @@
 ---
+album: The Spirit of '67
 artists:
 - Paul Revere
 - The Raiders
+external_ids:
+  spotify: spotify:track:2UOijRbR9Ym6gnegBqzpzu
 features:
 - Mark Lindsay
-genres: []
+first_released_as_single: false
 key: good-thing-paul-revere-the-raiders-mark-lindsay
 lyrics_url: https://www.musixmatch.com/lyrics/Paul-Revere-The-Raiders-feat-Mark-Lindsay-2/Good-Thing
 name: Good Thing
@@ -57,6 +60,8 @@ rankings:
   rank: 22
   ranking_list: Billboard Hot 100
   start_date: '1967-02-18'
+release_year: 1966
+runtime: 184626
 ---
 Seems this world has got you down
 You're feelin' bad vibrations 'round

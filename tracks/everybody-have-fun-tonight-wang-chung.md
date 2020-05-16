@@ -1,8 +1,11 @@
 ---
+album: Mosaic
 artists:
 - Wang Chung
+external_ids:
+  spotify: spotify:track:6qBSGvyUzqNQv8XtnzCr9n
 features: []
-genres: []
+first_released_as_single: false
 key: everybody-have-fun-tonight-wang-chung
 lyrics_url: https://www.azlyrics.com/lyrics/wangchung/everybodyhavefuntonight.html
 name: Everybody Have Fun Tonight
@@ -91,8 +94,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1987-02-21'
+release_year: 1986
+runtime: 287360
 ---
-
 I'll drive a million miles
 To be with you tonight
 So if you're feeling low
@@ -162,6 +166,3 @@ Everybody, everyone
 Everybody, everyone
 Everybody, everyone
 Everybody, everyone
-
-
-

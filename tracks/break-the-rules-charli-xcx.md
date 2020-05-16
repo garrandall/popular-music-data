@@ -1,8 +1,11 @@
 ---
+album: SUCKER
 artists:
 - Charli XCX
+external_ids:
+  spotify: spotify:track:38tKqQuqodiUYOsw6HWyeQ
 features: []
-genres: []
+first_released_as_single: true
 key: break-the-rules-charli-xcx
 lyrics_url: https://www.azlyrics.com/lyrics/charlixcx/breaktherules.html
 name: Break The Rules
@@ -19,8 +22,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2015-01-10'
+release_year: 2014
+runtime: 203907
 ---
-
 Electric lights
 Blow my mind
 But I feel alright
@@ -85,7 +89,4 @@ Getting high and getting wrecked
 I don't wanna go to school
 I just wanna break the rules
 
-Na na na na na na na na na na na na 
-
-
-
+Na na na na na na na na na na na na

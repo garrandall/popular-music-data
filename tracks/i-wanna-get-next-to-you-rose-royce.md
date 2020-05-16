@@ -1,8 +1,11 @@
 ---
+album: Car Wash
 artists:
 - Rose Royce
+external_ids:
+  spotify: spotify:track:1rff5WJrSljfCLYFoXkDiT
 features: []
-genres: []
+first_released_as_single: false
 key: i-wanna-get-next-to-you-rose-royce
 lyrics_url: https://www.azlyrics.com/lyrics/roseroyce/iwannagetnexttoyou.html
 name: I Wanna Get Next To You
@@ -75,8 +78,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1977-06-18'
+release_year: 1976
+runtime: 238200
 ---
-
 Sittin here in this chair
 Waitin on you
 ah baby to see things my way
@@ -122,6 +126,3 @@ So let love begin between me and you
 (I wanna get next to you)
 Girl I'm in love with you
 (I wanna get next to you)
-
-
-

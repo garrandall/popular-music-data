@@ -1,8 +1,11 @@
 ---
+album: Another Time Another Place
 artists:
 - Engelbert Humperdinck
+external_ids:
+  spotify: spotify:track:67UXWcsm9BpB2zegegHcsn
 features: []
-genres: []
+first_released_as_single: false
 key: another-time-another-place-engelbert-humperdinck
 lyrics_url: https://www.azlyrics.com/lyrics/engelberthumperdinck/anothertimeanotherplace.html
 name: Another Time Another Place
@@ -39,8 +42,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1971-10-09'
+release_year: 1971
+runtime: 185840
 ---
-
 Another time, another place
 Her candles flicker in the fading light
 I sit alone and watch that lonely night
@@ -69,6 +73,3 @@ Another night, another day, I'll see you standing in my way
 I'll stop and say "hello, my friend"
 Another place, another time, you'll tell me you've been doing fine
 And walk away from me once more.
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Ten Thousand Fists
 artists:
 - Disturbed
+external_ids:
+  spotify: spotify:track:6RJdYpFQwLyNfDc5FbjkgV
 features: []
-genres: []
+first_released_as_single: false
 key: stricken-disturbed
 lyrics_url: https://genius.com/Disturbed-stricken-lyrics
 name: Stricken
@@ -19,6 +22,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2006-01-14'
+release_year: 2005
+runtime: 245226
 ---
 You walk on like a woman in suffering
 Won't even bother now to tell me why

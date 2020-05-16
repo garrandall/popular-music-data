@@ -1,8 +1,11 @@
 ---
+album: In Heat
 artists:
 - The Romantics
+external_ids:
+  spotify: spotify:track:7fRvtXvJMpGfTLdF0M09a1
 features: []
-genres: []
+first_released_as_single: false
 key: talking-in-your-sleep-the-romantics
 lyrics_url: https://genius.com/The-romantics-talking-in-your-sleep-lyrics
 name: Talking In Your Sleep
@@ -111,6 +114,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1984-03-31'
+release_year: 1983
+runtime: 235093
 ---
 When you close your eyes and you go to sleep
 And it's down to the sound of a heartbeat

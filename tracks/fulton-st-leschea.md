@@ -1,8 +1,11 @@
 ---
+album: Rhythm & Beats
 artists:
 - Leschea
+external_ids:
+  spotify: spotify:track:3xIHePHJbOEtnzlwAOoCtz
 features: []
-genres: []
+first_released_as_single: false
 key: fulton-st-leschea
 lyrics_url: https://www.musixmatch.com/lyrics/Leschea/Fulton-St
 name: Fulton St
@@ -15,6 +18,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1997-06-21'
+release_year: 1997
+runtime: 305306
 ---
 He be rollin' in his jeep
 Cruisin' down on Fulton Street

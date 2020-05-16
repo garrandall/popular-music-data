@@ -1,8 +1,11 @@
 ---
+album: The Hunger
 artists:
 - Michael Bolton
+external_ids:
+  spotify: spotify:track:7FzWPiPB2A9Hhfb2hiuKsC
 features: []
-genres: []
+first_released_as_single: false
 key: that-s-what-love-is-all-about-michael-bolton
 lyrics_url: https://www.azlyrics.com/lyrics/michaelbolton/thatswhatloveisallabout.html
 name: That's What Love Is All About
@@ -107,8 +110,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1988-02-20'
+release_year: 1987
+runtime: 237773
 ---
-
 There was a time
 We thought our dream was over
 When you and I
@@ -154,6 +158,3 @@ If it takes forever
 We can work it out
 Beyond a shadow of a doubt
 Baby, that's what love is all about
-
-
-

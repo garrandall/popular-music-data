@@ -1,8 +1,11 @@
 ---
+album: Late Nights & Early Mornings
 artists:
 - Marsha Ambrosius
+external_ids:
+  spotify: spotify:track:6eyd3UdMl5wek5jG8nHOqm
 features: []
-genres: []
+first_released_as_single: true
 key: hope-she-cheats-on-you--with-a-basketball-player--marsha-ambrosius
 lyrics_url: https://www.azlyrics.com/lyrics/marshaambrosius/hopeshecheatsonyouwithabasketballplayer.html
 name: Hope She Cheats On You (With A Basketball Player)
@@ -11,8 +14,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2010-10-16'
+release_year: 2010
+runtime: 246120
 ---
-
 I hope she cheats on you with a basket ball playa
 Hope that she Kim Kardashianed her way up. 
 Don't know the difference between a touchdown and a lay-up got you on
@@ -61,6 +65,3 @@ Look at how it all turned out now (I hope she cheat on you with a basket ball pl
 Look at how it all turned out now (I hope you're feeling lonely baby now were not together)
 Look at how it all turned out now (I hope she cheat on you with a basket ball playa)
 Look at how it all turned out now (Now that I'm without you)
-
-
-

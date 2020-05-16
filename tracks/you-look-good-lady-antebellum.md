@@ -1,8 +1,11 @@
 ---
+album: Heart Break
 artists:
 - Lady Antebellum
+external_ids:
+  spotify: spotify:track:1dFLowBW25EaL2OC7eKEa2
 features: []
-genres: []
+first_released_as_single: false
 key: you-look-good-lady-antebellum
 lyrics_url: https://genius.com/Lady-antebellum-you-look-good-lyrics
 name: You Look Good
@@ -87,6 +90,8 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '2017-09-09'
+release_year: 2017
+runtime: 181000
 ---
 On a boat, on a beach
 In the water, in the sand, in the back of a bar

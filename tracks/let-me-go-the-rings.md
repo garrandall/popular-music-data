@@ -1,8 +1,11 @@
 ---
+album: The Rings
 artists:
 - The Rings
+external_ids:
+  spotify: spotify:track:1p03nqgqZIklvG4imMdZc2
 features: []
-genres: []
+first_released_as_single: false
 key: let-me-go-the-rings
 name: Let Me Go
 rankings:
@@ -26,5 +29,7 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1981-04-04'
+release_year: 1980
+runtime: 207916
 ---
 

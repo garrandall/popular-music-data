@@ -1,8 +1,11 @@
 ---
+album: Octave
 artists:
 - The Moody Blues
+external_ids:
+  spotify: spotify:track:4sU82NRidN6owQvfs6WILL
 features: []
-genres: []
+first_released_as_single: false
 key: driftwood-the-moody-blues
 lyrics_url: https://www.azlyrics.com/lyrics/moodyblues/driftwood.html
 name: Driftwood
@@ -35,8 +38,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1978-12-16'
+release_year: 1978
+runtime: 301640
 ---
-
 Just like the driftwood of a dream
 Left of the seashore of sleep
 Just like the words that wouldn't rhyme
@@ -76,6 +80,3 @@ Oh no... don't leave me driftwood
 On the shore
 Oh no... don't, don't leave me driftwood
 On the shore...
-
-
-

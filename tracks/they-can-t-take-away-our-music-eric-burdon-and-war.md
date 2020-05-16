@@ -1,8 +1,11 @@
 ---
+album: The Black-Man's Burdon
 artists:
 - Eric Burdon And War
+external_ids:
+  spotify: spotify:track:5iseUNDL3TXSBkmC456au7
 features: []
-genres: []
+first_released_as_single: false
 key: they-can-t-take-away-our-music-eric-burdon-and-war
 lyrics_url: https://genius.com/Eric-burdon-and-war-they-cant-take-away-our-music-lyrics
 name: They Can't Take Away Our Music
@@ -39,6 +42,8 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '1971-02-06'
+release_year: 1970
+runtime: 409693
 ---
 Oh, there?s one thing that I?m sure
 It?s so proud and it?s so pure

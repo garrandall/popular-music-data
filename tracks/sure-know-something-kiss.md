@@ -1,8 +1,11 @@
 ---
+album: Dynasty
 artists:
 - KISS
+external_ids:
+  spotify: spotify:track:1HBDWCrQVjrALiOA5rILnE
 features: []
-genres: []
+first_released_as_single: false
 key: sure-know-something-kiss
 lyrics_url: https://genius.com/Kiss-sure-know-something-lyrics
 name: Sure Know Something
@@ -51,6 +54,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1979-11-10'
+release_year: 1979
+runtime: 241506
 ---
 I've been up and down, I've been all around
 I was mystified, almost terrified

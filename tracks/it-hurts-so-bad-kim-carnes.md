@@ -1,8 +1,11 @@
 ---
+album: Gypsy Honeymoon
 artists:
 - Kim Carnes
+external_ids:
+  spotify: spotify:track:3m2pCaeZvcGEvryZQ1h9Q3
 features: []
-genres: []
+first_released_as_single: false
 key: it-hurts-so-bad-kim-carnes
 lyrics_url: https://www.azlyrics.com/lyrics/kimcarnes/ithurtssobad.html
 name: It Hurts So Bad
@@ -27,8 +30,9 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '1979-03-24'
+release_year: 1979
+runtime: 183600
 ---
-
 When it hurts too bad
 You got to let go
 Can't let him know that
@@ -87,6 +91,3 @@ Whoa, it hurts so bad
 It hurts so bad
 I know it hurts so bad
 It hurts so bad
-
-
-

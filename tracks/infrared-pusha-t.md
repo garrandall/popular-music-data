@@ -1,8 +1,11 @@
 ---
+album: DAYTONA
 artists:
 - Pusha T
+external_ids:
+  spotify: spotify:track:6cpsixIHI63L0hwh3CwZg3
 features: []
-genres: []
+first_released_as_single: false
 key: infrared-pusha-t
 lyrics_url: https://www.azlyrics.com/lyrics/pushat/infrared.html
 name: Infrared
@@ -11,8 +14,9 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '2018-06-09'
+release_year: 2018
+runtime: 170240
 ---
-
 The game's fucked up
 Niggas beats is bangin', nigga, ya hooks did it
 The lyric pennin' equal the Trumps winnin'
@@ -52,6 +56,3 @@ How could you ever right these wrongs
 When you don't even write your songs?
 But let us all play along
 We all know what niggas for real been waitin' on, Push
-
-
-

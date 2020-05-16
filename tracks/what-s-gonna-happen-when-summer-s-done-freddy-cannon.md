@@ -1,8 +1,11 @@
 ---
+album: Boom Boom Rock 'N' Roll
 artists:
 - Freddy Cannon
+external_ids:
+  spotify: spotify:track:6ADpATV1CEeBzOrHtklKdW
 features: []
-genres: []
+first_released_as_single: false
 key: what-s-gonna-happen-when-summer-s-done-freddy-cannon
 lyrics_url: https://www.musixmatch.com/lyrics/Freddy-Cannon/What-s-Gonna-Happen-When-Summer-s-Done
 name: What's Gonna Happen When Summer's Done
@@ -23,6 +26,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1962-09-29'
+release_year: 1962
+runtime: 126853
 ---
 What's gonna happen
 When the summer's done

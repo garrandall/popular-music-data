@@ -1,8 +1,11 @@
 ---
+album: Hitsville USA, The Motown Collection 1972-1992
 artists:
 - Valerie Simpson
+external_ids:
+  spotify: spotify:track:1r0IUucGcijDB48bXk4Z7p
 features: []
-genres: []
+first_released_as_single: false
 key: silly-wasn-t-i-valerie-simpson
 lyrics_url: https://www.musixmatch.com/lyrics/Valerie-Simpson/Silly-Wasn-t-I
 name: Silly Wasn't I
@@ -43,6 +46,8 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '1973-02-03'
+release_year: 1972
+runtime: 129626
 ---
 I believed in you
 Thought what you said was true

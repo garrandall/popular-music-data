@@ -1,8 +1,11 @@
 ---
+album: The Windmills of Your Mind
 artists:
 - Ed Ames
+external_ids:
+  spotify: spotify:track:0TXjDDQJ4iwuYHjfwNfKIt
 features: []
-genres: []
+first_released_as_single: false
 key: son-of-a-travelin--man-ed-ames
 lyrics_url: https://genius.com/Ed-ames-son-of-a-travelin-man-lyrics
 name: Son Of A Travelin' Man
@@ -23,6 +26,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1969-06-21'
+release_year: 1969
+runtime: 157280
 ---
 (Guitar riff)
 

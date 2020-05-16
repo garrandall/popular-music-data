@@ -1,8 +1,11 @@
 ---
+album: David Archuleta
 artists:
 - David Archuleta
+external_ids:
+  spotify: spotify:track:1EhfVJ9WfSr1JwjZ7peBHz
 features: []
-genres: []
+first_released_as_single: false
 key: angels-david-archuleta
 lyrics_url: https://www.azlyrics.com/lyrics/davidarchuleta/angels.html
 name: Angels
@@ -11,8 +14,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2008-11-15'
+release_year: 2008
+runtime: 248960
 ---
-
 I sit and wait, does an angel contemplate my fate
 And do they know, the places where we go
 When we're grey and old
@@ -66,6 +70,3 @@ I know that life won't break me
 When I come to call
 She won't forsake me
 I'm loving angels instead
-
-
-

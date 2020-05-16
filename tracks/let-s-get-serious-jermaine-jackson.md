@@ -1,8 +1,11 @@
 ---
+album: Jackson 5 - Dell Bundle (100 Track Dell Bundle)
 artists:
 - Jermaine Jackson
+external_ids:
+  spotify: spotify:track:3vIIAuHISijzVhoI1e0lM0
 features: []
-genres: []
+first_released_as_single: false
 key: let-s-get-serious-jermaine-jackson
 lyrics_url: https://www.azlyrics.com/lyrics/jermainejackson/letsgetserious.html
 name: Let's Get Serious
@@ -99,8 +102,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1980-08-30'
+release_year: 1980
+runtime: 477426
 ---
-
 Close my eyes, and I see your face at night
 Toss and turn, fall to sleep holding my pillow tight
 
@@ -155,6 +159,3 @@ Let's get serious and fall in love
 
 Serious, (oh) serious
 Let's get serious, and fall in love
-
-
-

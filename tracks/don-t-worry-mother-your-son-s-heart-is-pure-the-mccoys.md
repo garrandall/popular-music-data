@@ -1,8 +1,11 @@
 ---
+album: 'Hang On Sloopy: The Best Of The McCoys'
 artists:
 - The McCoys
+external_ids:
+  spotify: spotify:track:7zySrJDb2H7fn2kF3t9odr
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-worry-mother-your-son-s-heart-is-pure-the-mccoys
 lyrics_url: https://genius.com/The-mccoys-dont-worry-mother-your-sons-heart-is-pure-lyrics
 name: Don't Worry Mother Your Son's Heart Is Pure
@@ -27,6 +30,8 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '1966-10-29'
+release_year: 1966
+runtime: 206426
 ---
 My dear old mother told me
 "Oh, please beware of things

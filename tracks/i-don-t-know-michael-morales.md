@@ -1,8 +1,11 @@
 ---
+album: Michael Morales
 artists:
 - Michael Morales
+external_ids:
+  spotify: spotify:track:6wKfivQMFI74aq6rxxSqtu
 features: []
-genres: []
+first_released_as_single: false
 key: i-don-t-know-michael-morales
 lyrics_url: https://www.musixmatch.com/lyrics/Michael-Morales/I-Don-t-Know
 name: I Don't Know
@@ -31,6 +34,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1990-01-13'
+release_year: 1989
+runtime: 236840
 ---
 You don't know, what you've done to me, in the name of love
 Do I dare, make a mess of things, have I had enough?

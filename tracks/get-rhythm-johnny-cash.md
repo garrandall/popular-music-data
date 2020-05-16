@@ -1,8 +1,11 @@
 ---
+album: Greatest
 artists:
 - Johnny Cash
+external_ids:
+  spotify: spotify:track:4z8DVTfkFRlbR8mpuxca1b
 features: []
-genres: []
+first_released_as_single: true
 key: get-rhythm-johnny-cash
 lyrics_url: https://www.azlyrics.com/lyrics/johnnycash/getrhythm.html
 name: Get Rhythm
@@ -31,8 +34,9 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1969-12-20'
+release_year: 1956
+runtime: 132970
 ---
-
 Hey, get rhythm when you get the blues
 Come on, get rhythm when you get the blues
 Get a rock 'n' roll feelin' in your bones
@@ -74,6 +78,3 @@ Come on, get rhythm when you get the blues
 It only costs a dime, just a nickel a shoe
 Does a million dollars worth of good for you
 Get rhythm when you get the blues
-
-
-

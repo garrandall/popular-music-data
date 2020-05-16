@@ -1,8 +1,11 @@
 ---
+album: Every Face Tells A Story
 artists:
 - Cliff Richard
+external_ids:
+  spotify: spotify:track:7bqjhxGNQp1Qlg810568vX
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-turn-the-light-out-cliff-richard
 lyrics_url: https://genius.com/Cliff-richard-dont-turn-the-light-out-lyrics
 name: Don't Turn The Light Out
@@ -35,6 +38,8 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1977-07-16'
+release_year: 1977
+runtime: 200706
 ---
 On my way home I met an
 Old friend of mine

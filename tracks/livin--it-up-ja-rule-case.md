@@ -1,9 +1,12 @@
 ---
+album: Pain Is Love
 artists:
 - Ja Rule
+external_ids:
+  spotify: spotify:track:52gqeRlrBE7hqMlRxEsi6y
 features:
 - Case
-genres: []
+first_released_as_single: false
 key: livin--it-up-ja-rule-case
 lyrics_url: https://www.azlyrics.com/lyrics/jarule/livinitup.html
 name: Livin' It Up
@@ -108,9 +111,9 @@ rankings:
   rank: 32
   ranking_list: Billboard Hot 100
   start_date: '2002-02-16'
+release_year: 2001
+runtime: 257066
 ---
-
-
 Yeah, yeah, yeah
 We all my...
 Yeah
@@ -207,4 +210,3 @@ C'mon, we get high
 C'mon, we get ride
 C'mon, we get live
 C'mon, it's my time
-

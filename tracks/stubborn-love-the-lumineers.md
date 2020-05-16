@@ -1,8 +1,11 @@
 ---
+album: The Lumineers
 artists:
 - The Lumineers
+external_ids:
+  spotify: spotify:track:3ekNuTF3UpOvIZCfiejpnC
 features: []
-genres: []
+first_released_as_single: false
 key: stubborn-love-the-lumineers
 lyrics_url: https://www.azlyrics.com/lyrics/lumineers/stubbornlove.html
 name: Stubborn Love
@@ -67,8 +70,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2013-04-06'
+release_year: 2012
+runtime: 279000
 ---
-
 She'll lie and steal, and cheat, and beg you from her knees
 Make you think she means it this time
 She'll tear a hole in you, the one you can't repair
@@ -103,6 +107,3 @@ Head up, love
 Head up, love
 Head up, love
 Head up, love
-
-
-

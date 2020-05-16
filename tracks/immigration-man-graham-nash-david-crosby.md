@@ -1,9 +1,12 @@
 ---
+album: Graham Nash & David Crosby
 artists:
 - Graham Nash
 - David Crosby
+external_ids:
+  spotify: spotify:track:0h42VIet3DT9QNQzSnILTh
 features: []
-genres: []
+first_released_as_single: false
 key: immigration-man-graham-nash-david-crosby
 lyrics_url: https://genius.com/Graham-nash-immigration-man-lyrics
 name: Immigration Man
@@ -44,6 +47,8 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '1972-07-01'
+release_year: 1972
+runtime: 178906
 ---
 There I was at the immigration scene
 Shining and feeling clean, could it be a sin?

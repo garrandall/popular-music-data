@@ -1,8 +1,11 @@
 ---
+album: King Of Stage
 artists:
 - Bobby Brown
+external_ids:
+  spotify: spotify:track:17CdWjw8yiJrv9q5LOOCcv
 features: []
-genres: []
+first_released_as_single: false
 key: girlfriend-bobby-brown
 lyrics_url: https://www.azlyrics.com/lyrics/bobbybrown/girlfriend.html
 name: Girlfriend
@@ -43,8 +46,9 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1987-02-14'
+release_year: 1986
+runtime: 376360
 ---
-
 I remember the very first time
 You the picture of love in my heart
 You and me, girl, holding hands
@@ -130,6 +134,3 @@ But surely we should be together
 You gotta answer me some time today, baby
 'Cause I can't wait no more
 I love you
-
-
-

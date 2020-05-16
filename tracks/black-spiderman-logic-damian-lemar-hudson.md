@@ -1,9 +1,12 @@
 ---
+album: Everybody
 artists:
 - Logic
+external_ids:
+  spotify: spotify:track:7BKUWh5sdtdS17crohRe4L
 features:
 - Damian Lemar Hudson
-genres: []
+first_released_as_single: false
 key: black-spiderman-logic-damian-lemar-hudson
 lyrics_url: https://www.azlyrics.com/lyrics/logic/blackspiderman.html
 name: Black SpiderMan
@@ -12,9 +15,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '2017-05-06'
+release_year: 2017
+runtime: 331266
 ---
-
-
 Jesus, Black Jesus
 Jesus, Black Jesus
 
@@ -129,6 +132,3 @@ Shit, Black Seinfeld
 Nigga, that's Martin!)
 Damn, you're right...
 Shit, I'm fuckin' high
-
-
-

@@ -1,9 +1,12 @@
 ---
+album: Tha Carter V
 artists:
 - Lil Wayne
+external_ids:
+  spotify: spotify:track:0w3yFQnjHZRJWXdisNeNp4
 features:
 - Kendrick Lamar
-genres: []
+first_released_as_single: false
 key: mona-lisa-lil-wayne-kendrick-lamar
 lyrics_url: https://www.azlyrics.com/lyrics/lilwayne/monalisa.html
 name: Mona Lisa
@@ -40,9 +43,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2018-12-01'
+release_year: 2018
+runtime: 324189
 ---
-
-
 I got a story to tell
 You know that I cherish thee
 Hope it ain't too many feelings involved
@@ -202,6 +205,3 @@ She say, oh, Daddy, oh, Mona Lisa, Mona Lisa
 Oh, fake smile, Mona Lisa, Mona Lisa
 She say, oh, no emotion, Mona Lisa, Mona Lisa
 Now he get the picture, Mona Lisa, Mona Lisa, yeah
-
-
-

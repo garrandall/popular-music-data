@@ -1,8 +1,11 @@
 ---
+album: 199 Quad (w/ Bonus Dvd)
 artists:
 - 69 Boyz
+external_ids:
+  spotify: spotify:track:4n8d6mjEugRMTBI7mjiHIY
 features: []
-genres: []
+first_released_as_single: false
 key: kitty-kitty-69-boyz
 lyrics_url: https://www.azlyrics.com/lyrics/69boyz/kittykitty.html
 name: Kitty Kitty
@@ -87,10 +90,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1995-04-22'
+release_year: 1994
+runtime: 248133
 ---
-
-
-
 Aw, kitty kitty!
 
 I thought I saw a puddy tat!
@@ -162,4 +164,3 @@ She said no, he said "Oh! You gon' come on down and take a hike, baby!"
 
 Little Bo Peep lost her sheep, eyes were full of tears
 I think girl need her ; Whoot, there it is! Aaow!
-

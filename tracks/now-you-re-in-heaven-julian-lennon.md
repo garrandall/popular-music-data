@@ -1,8 +1,11 @@
 ---
+album: Mr. Jordan
 artists:
 - Julian Lennon
+external_ids:
+  spotify: spotify:track:7qIuUt5jevCoTBcUmUcfOe
 features: []
-genres: []
+first_released_as_single: false
 key: now-you-re-in-heaven-julian-lennon
 lyrics_url: https://www.musixmatch.com/lyrics/Julian-Lennon/Now-You-re-in-Heaven
 name: Now You're In Heaven
@@ -23,6 +26,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1989-06-03'
+release_year: 1989
+runtime: 219306
 ---
 Well you could be happy
 Happy in my arms

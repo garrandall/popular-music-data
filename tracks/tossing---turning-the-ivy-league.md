@@ -1,8 +1,11 @@
 ---
+album: Major League - The Pye/Piccadilly Anthology
 artists:
 - The Ivy League
+external_ids:
+  spotify: spotify:track:7tWAXtZi5NXiQoP9eN78Yk
 features: []
-genres: []
+first_released_as_single: true
 key: tossing---turning-the-ivy-league
 lyrics_url: https://genius.com/The-ivy-league-tossing-and-turning-lyrics
 name: Tossing & Turning
@@ -27,6 +30,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1965-10-16'
+release_year: 1965
+runtime: 141783
 ---
 I can't sleep at night, tossing and turning
 I turn on the light then while it's burning

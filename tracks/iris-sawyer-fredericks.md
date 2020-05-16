@@ -1,8 +1,11 @@
 ---
+album: The Complete Season 8 Collection (The Voice Performance)
 artists:
 - Sawyer Fredericks
+external_ids:
+  spotify: spotify:track:7hJgVpoFFU1gJDAbYPYF2l
 features: []
-genres: []
+first_released_as_single: false
 key: iris-sawyer-fredericks
 lyrics_url: https://www.azlyrics.com/lyrics/sawyerfredericks/iris.html
 name: Iris
@@ -11,8 +14,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2015-05-09'
+release_year: 2015
+runtime: 190930
 ---
-
 And I'd give up forever to touch you
 'Cause I know that you feel me somehow
 You're the closest to heaven that I'll ever be
@@ -50,6 +54,3 @@ When everything's made to be broken
 I just want you to know who I am
 I just want you to know who I am
 I just want you to know who I am
-
-
-

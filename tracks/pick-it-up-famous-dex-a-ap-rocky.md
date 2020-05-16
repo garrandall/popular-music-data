@@ -1,9 +1,12 @@
 ---
+album: Dex Meets Dexter
 artists:
 - Famous Dex
+external_ids:
+  spotify: spotify:track:3ncgNpxLoBQ65ABk4djDyd
 features:
 - A$AP Rocky
-genres: []
+first_released_as_single: true
 key: pick-it-up-famous-dex-a-ap-rocky
 lyrics_url: https://www.azlyrics.com/lyrics/famous-dex/pickitup.html
 name: Pick It Up
@@ -88,9 +91,9 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '2018-04-07'
+release_year: 2017
+runtime: 191251
 ---
-
-
 Ayo big bro, you fucking with that? Hah, okay cool
 That's my fucking brother right there, ya dig?
 Dexter, oh, wait
@@ -183,6 +186,3 @@ Hah, funny as shit
 Was missing a bit, I'm back in my bag
 Went back to the pad
 Watched Dexter's Lab on the 'Flix
-
-
-

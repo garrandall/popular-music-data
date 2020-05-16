@@ -1,8 +1,11 @@
 ---
+album: Picture This
 artists:
 - Huey Lewis & The News
+external_ids:
+  spotify: spotify:track:43LjRHyyetSWnPpW7CWThG
 features: []
-genres: []
+first_released_as_single: false
 key: do-you-believe-in-love-huey-lewis-the-news
 lyrics_url: https://www.azlyrics.com/lyrics/hueylewisthenews/doyoubelieveinlove.html
 name: Do You Believe In Love
@@ -75,8 +78,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1982-05-29'
+release_year: 1982
+runtime: 209000
 ---
-
 I was walking
 Down a one-way street
 Just a-looking
@@ -135,6 +139,3 @@ Do you believe in love
 Do you believe it's true
 Do you believe in love
 I believe in love, too
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: The Booty Tape
 artists:
 - Ugly God
+external_ids:
+  spotify: spotify:track:6HEIBHUirx1J0JkUD24szt
 features: []
-genres: []
+first_released_as_single: true
 key: water-ugly-god
 lyrics_url: https://genius.com/Ugly-god-water-lyrics
 name: Water
@@ -23,6 +26,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2017-02-11'
+release_year: 2016
+runtime: 139674
 ---
 Hoodrich
 Tr-Tr-Tr-Trust me Danny

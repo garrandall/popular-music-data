@@ -1,8 +1,11 @@
 ---
+album: CrasH Talk
 artists:
 - ScHoolboy Q
+external_ids:
+  spotify: spotify:track:6tByydPskASjm9jTPkNQq0
 features: []
-genres: []
+first_released_as_single: false
 key: numb-numb-juice-schoolboy-q
 lyrics_url: https://genius.com/Schoolboy-q-numb-numb-juice-lyrics
 name: Numb Numb Juice
@@ -15,6 +18,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2019-05-11'
+release_year: 2019
+runtime: 107146
 ---
 Two-door coupe, hoppin' out like Jack-in-the-Box, nigga
 I'm gon' shoot if this 30's all that I got, nigga

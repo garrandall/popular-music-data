@@ -1,10 +1,13 @@
 ---
+album: Baby Boy
 artists:
 - Snoop Dogg
+external_ids:
+  spotify: spotify:track:0YDYMz9BP602o75O9jgr6l
 features:
 - Tyrese
 - Mr. Tan
-genres: []
+first_released_as_single: false
 key: just-a-baby-boy-snoop-dogg-tyrese-mr--tan
 lyrics_url: https://genius.com/Snoop-dogg-just-a-baby-boy-lyrics
 name: Just A Baby Boy
@@ -25,6 +28,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2001-08-04'
+release_year: 2001
+runtime: 256440
 ---
 Snoop Dogg
 Miscellaneous

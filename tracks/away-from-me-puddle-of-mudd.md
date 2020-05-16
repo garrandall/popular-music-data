@@ -1,8 +1,11 @@
 ---
+album: Life On Display
 artists:
 - Puddle Of Mudd
+external_ids:
+  spotify: spotify:track:1FYE0UDGodOe3IP6HpB98x
 features: []
-genres: []
+first_released_as_single: true
 key: away-from-me-puddle-of-mudd
 lyrics_url: https://genius.com/Puddle-of-mudd-away-from-me-lyrics
 name: Away From Me
@@ -71,6 +74,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2004-03-06'
+release_year: 2003
+runtime: 242800
 ---
 YEAH!
 

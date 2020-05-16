@@ -1,8 +1,11 @@
 ---
+album: Cottonwood
 artists:
 - NLE Choppa
+external_ids:
+  spotify: spotify:track:4dAMdQ6g4kGmnc1MDHsg77
 features: []
-genres: []
+first_released_as_single: true
 key: shotta-flow-nle-choppa
 lyrics_url: https://genius.com/Nle-choppa-shotta-flow-lyrics
 name: Shotta Flow
@@ -87,6 +90,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '2019-09-14'
+release_year: 2019
+runtime: 160013
 ---
 I wish everything I touch would turn to gold
 NLE, you heard me?

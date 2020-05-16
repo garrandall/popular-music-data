@@ -1,8 +1,11 @@
 ---
+album: A Salute To Aaliyah
 artists:
 - Aaliyah
+external_ids:
+  spotify: spotify:track:23dX0GazZ8Ojts8X3awQ4G
 features: []
-genres: []
+first_released_as_single: false
 key: rock-the-boat-aaliyah
 lyrics_url: https://genius.com/Aaliyah-rock-the-boat-lyrics
 name: Rock The Boat
@@ -107,6 +110,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2002-02-23'
+release_year: 2001
+runtime: 276906
 ---
 Mhmm, yeah, mhmm
 Huh, uh, huh, uh

@@ -1,8 +1,11 @@
 ---
+album: '...But Seriously'
 artists:
 - Phil Collins
+external_ids:
+  spotify: spotify:track:1NCuYqMc8hKMb4cpNTcJbD
 features: []
-genres: []
+first_released_as_single: false
 key: another-day-in-paradise-phil-collins
 lyrics_url: https://genius.com/Phil-collins-another-day-in-paradise-lyrics
 name: Another Day In Paradise
@@ -79,6 +82,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1990-03-03'
+release_year: 1989
+runtime: 322133
 ---
 She calls out to the man on the street
 "Sir, can you help me?

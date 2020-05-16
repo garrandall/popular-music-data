@@ -1,8 +1,11 @@
 ---
+album: Peter, Paul And Mary
 artists:
 - Peter, Paul, and Mary
+external_ids:
+  spotify: spotify:track:6f4TUUHjfRjYkyrM5KSoJ4
 features: []
-genres: []
+first_released_as_single: false
 key: if-i-had-a-hammer--the-hammer-song--peter-paul-and-mary
 lyrics_url: https://www.azlyrics.com/lyrics/peterpaulandmary/ifihadahammer.html
 name: If I Had A Hammer (The Hammer Song)
@@ -55,8 +58,9 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '1962-11-03'
+release_year: 1962
+runtime: 130626
 ---
-
 If I had a hammer
 I'd hammer in the morning
 I'd hammer in the evening
@@ -101,6 +105,3 @@ It's the hammer of Justice
 It's the bell of Freedom
 It's the song about Love between my brothers and my sisters
 All over this land
-
-
-

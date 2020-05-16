@@ -1,8 +1,11 @@
 ---
+album: Marc Cohn
 artists:
 - Marc Cohn
+external_ids:
+  spotify: spotify:track:38Hfx2SfnlQxXWXWbGZXAq
 features: []
-genres: []
+first_released_as_single: false
 key: true-companion-marc-cohn
 lyrics_url: https://www.azlyrics.com/lyrics/marccohn/truecompanion.html
 name: True Companion
@@ -27,8 +30,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1991-11-30'
+release_year: 1991
+runtime: 249960
 ---
-
 Baby I've been searching like everybody else
 Can't say nothing different about myself
 Sometimes I'm an angel and sometimes I'm cruel
@@ -69,6 +73,3 @@ I'll be out there waiting for my true companion
 Just for my true companion
 True companion
 True companion
-
-
-

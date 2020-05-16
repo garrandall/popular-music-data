@@ -1,9 +1,12 @@
 ---
+album: Promises (with Sam Smith)
 artists:
 - Calvin Harris
 - Sam Smith
+external_ids:
+  spotify: spotify:track:5N5k9nd479b1xpDZ4usjrg
 features: []
-genres: []
+first_released_as_single: true
 key: promises-calvin-harris-sam-smith
 lyrics_url: https://www.azlyrics.com/lyrics/calvinharris/promises.html
 name: Promises
@@ -56,9 +59,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2018-11-17'
+release_year: 2018
+runtime: 213309
 ---
-
-
 Are you drunk enough
 Not to judge what I'm doin'?
 Are you high enough
@@ -135,6 +138,3 @@ So come get your everything (tonight)
 
 
 Tonight
-
-
-

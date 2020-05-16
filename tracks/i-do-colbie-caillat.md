@@ -1,8 +1,11 @@
 ---
+album: All Of You
 artists:
 - Colbie Caillat
+external_ids:
+  spotify: spotify:track:42loEE51UDcecom9K8K4ei
 features: []
-genres: []
+first_released_as_single: false
 key: i-do-colbie-caillat
 lyrics_url: https://genius.com/Colbie-caillat-i-do-lyrics
 name: I Do
@@ -43,6 +46,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2011-06-11'
+release_year: 2011
+runtime: 173360
 ---
 It's always been about me, myself, and I
 I thought relationships were nothing but a waste of time

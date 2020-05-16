@@ -1,8 +1,11 @@
 ---
+album: Erotica (PA Version)
 artists:
 - Madonna
+external_ids:
+  spotify: spotify:track:6KU8g98m1tcrUXRNjPQeOI
 features: []
-genres: []
+first_released_as_single: false
 key: deeper-and-deeper-madonna
 lyrics_url: https://genius.com/Madonna-deeper-and-deeper-lyrics
 name: Deeper And Deeper
@@ -75,6 +78,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1993-03-27'
+release_year: 1992
+runtime: 333466
 ---
 Deeper and deeper and deeper and deeper
 Sweeter and sweeter and sweeter and sweeter

@@ -1,8 +1,11 @@
 ---
+album: Hard Rain Don't Last
 artists:
 - Darryl Worley
+external_ids:
+  spotify: spotify:track:2MCzWzsfRDDmcQK79eWTtU
 features: []
-genres: []
+first_released_as_single: false
 key: when-you-need-my-love-darryl-worley
 lyrics_url: https://www.azlyrics.com/lyrics/darrylworley/whenyouneedmylove.html
 name: When You Need My Love
@@ -67,8 +70,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2000-09-16'
+release_year: 2000
+runtime: 219373
 ---
-
 Two in the morning telephone rings
 Somehow I knew who it was
 'Cause baby it's always the same old thing
@@ -104,6 +108,3 @@ When you need my love
 When you need my love
 When you need my love
 What are you gonna do
-
-
-

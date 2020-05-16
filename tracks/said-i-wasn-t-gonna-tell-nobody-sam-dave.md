@@ -1,9 +1,12 @@
 ---
+album: Double Dynamite
 artists:
 - Sam
 - Dave
+external_ids:
+  spotify: spotify:track:7zhir37whfEYhuBsfmnquM
 features: []
-genres: []
+first_released_as_single: false
 key: said-i-wasn-t-gonna-tell-nobody-sam-dave
 lyrics_url: https://genius.com/Sam-and-dave-said-i-wasnt-gonna-tell-nobody-lyrics
 name: Said I Wasn't Gonna Tell Nobody
@@ -32,6 +35,8 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1966-10-15'
+release_year: 1966
+runtime: 154013
 ---
 You are so much cool one, I don't worry about a thing
 You are pushin' full of lovin' that makes my heart sing

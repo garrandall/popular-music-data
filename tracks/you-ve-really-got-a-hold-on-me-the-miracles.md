@@ -1,8 +1,11 @@
 ---
+album: The Fabulous Miracles
 artists:
 - The Miracles
+external_ids:
+  spotify: spotify:track:7wLRmjiDYI6flIVzboUqSV
 features: []
-genres: []
+first_released_as_single: false
 key: you-ve-really-got-a-hold-on-me-the-miracles
 lyrics_url: https://genius.com/The-miracles-youve-really-got-a-hold-on-me-extended-mix-lyrics
 name: You've Really Got A Hold On Me
@@ -71,6 +74,8 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '1963-03-23'
+release_year: 1962
+runtime: 177706
 ---
 I don't like you
 But I love you

@@ -1,8 +1,11 @@
 ---
+album: Eric Carmen
 artists:
 - Eric Carmen
+external_ids:
+  spotify: spotify:track:0heydDe48z4u6n7KNKDHkr
 features: []
-genres: []
+first_released_as_single: false
 key: never-gonna-fall-in-love-again-eric-carmen
 lyrics_url: https://www.azlyrics.com/lyrics/ericcarmen/nevergonnafallinloveagain.html
 name: Never Gonna Fall In Love Again
@@ -67,8 +70,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1976-08-07'
+release_year: 1975
+runtime: 226160
 ---
-
 No use pretending things can still be right
 There's really nothing more to say
 I'll get along without your kiss goodnight
@@ -113,6 +117,3 @@ Never gonna fall in love again
 I don't want to start with someone new
 'Cause I couldn't bear to see it end
 Just like me and you
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Go West Young Man
 artists:
 - Michael W. Smith
+external_ids:
+  spotify: spotify:track:0PKTBeN87JYJ1mRzrq5Aog
 features: []
-genres: []
+first_released_as_single: false
 key: place-in-this-world-michael-w--smith
 lyrics_url: https://www.azlyrics.com/lyrics/michaelwsmith/placeinthisworld.html
 name: Place In This World
@@ -91,8 +94,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1991-09-21'
+release_year: 1990
+runtime: 240173
 ---
-
 The wind is moving
 But I am standing still
 A life of pages
@@ -146,6 +150,3 @@ Lookin' for a reason
 Roamin' through the night to find
 My place in this world
 My place in this world
-
-
-

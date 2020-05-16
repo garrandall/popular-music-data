@@ -1,8 +1,11 @@
 ---
+album: The Complete Season 5 Collection (The Voice Performance)
 artists:
 - Tessanne Chin
+external_ids:
+  spotify: spotify:track:4Ib4InLIR369amEBFcAjhb
 features: []
-genres: []
+first_released_as_single: false
 key: i-have-nothing-tessanne-chin
 lyrics_url: https://genius.com/Tessanne-chin-i-have-nothing-the-voice-performance-lyrics
 name: I Have Nothing
@@ -11,6 +14,8 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '2014-01-04'
+release_year: 2014
+runtime: 231141
 ---
 Share my life, take me for what I am
 'Cause I'll never change all my colors for you

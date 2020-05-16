@@ -1,8 +1,11 @@
 ---
+album: Femme Fatale (Deluxe Version)
 artists:
 - Britney Spears
+external_ids:
+  spotify: spotify:track:5Wg6hfhHZoNKQjlrGVmBdn
 features: []
-genres: []
+first_released_as_single: true
 key: hold-it-against-me-britney-spears
 lyrics_url: https://genius.com/Britney-spears-hold-it-against-me-lyrics
 name: Hold It Against Me
@@ -75,6 +78,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2011-05-21'
+release_year: 2011
+runtime: 185026
 ---
 Hey, over there
 Please forgive me if I’m coming on too strong

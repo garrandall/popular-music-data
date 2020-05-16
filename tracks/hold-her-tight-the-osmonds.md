@@ -1,8 +1,11 @@
 ---
+album: Crazy Horses
 artists:
 - The Osmonds
+external_ids:
+  spotify: spotify:track:5dMItYSW9NaJ1ebjdtQm8O
 features: []
-genres: []
+first_released_as_single: false
 key: hold-her-tight-the-osmonds
 lyrics_url: https://genius.com/The-osmonds-hold-her-tight-lyrics
 name: Hold Her Tight
@@ -43,6 +46,8 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '1972-08-26'
+release_year: 1972
+runtime: 196026
 ---
 What is the matter
 Now what did you do

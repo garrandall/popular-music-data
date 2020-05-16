@@ -1,8 +1,11 @@
 ---
+album: Love Lifted Me
 artists:
 - Kenny Rogers
+external_ids:
+  spotify: spotify:track:6U9QQlA8x0lLpsQJHhMfxl
 features: []
-genres: []
+first_released_as_single: false
 key: love-lifted-me-kenny-rogers
 lyrics_url: https://www.azlyrics.com/lyrics/kennyrogers/loveliftedme.html
 name: Love Lifted Me
@@ -19,8 +22,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1976-03-27'
+release_year: 1976
+runtime: 227986
 ---
-
 I'll write myself a simple song
 Get the whole world to sing along
 I'll call it a love song for you
@@ -59,6 +63,3 @@ You know love lifted me
 
 Everybody sing love lifted me
 Oh, love lifted me
-
-
-

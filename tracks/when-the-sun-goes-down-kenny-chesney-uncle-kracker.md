@@ -1,9 +1,12 @@
 ---
+album: When The Sun Goes Down
 artists:
 - Kenny Chesney
 - Uncle Kracker
+external_ids:
+  spotify: spotify:track:5vLonpxn4VN0A8GtQOBSG0
 features: []
-genres: []
+first_released_as_single: false
 key: when-the-sun-goes-down-kenny-chesney-uncle-kracker
 lyrics_url: https://www.azlyrics.com/lyrics/kennychesney/whenthesungoesdown.html
 name: When The Sun Goes Down
@@ -88,8 +91,9 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '2004-07-03'
+release_year: 2004
+runtime: 290560
 ---
-
 Sun tanned toes ticklin the sand
 Cold drink chillin in my right hand
 Watchin you sleep in the evening light
@@ -131,6 +135,3 @@ When the sun goes down, we'll be groovin
 When the sun goes down, hey Uncle Kenny
 When the sun goes down over the water,
 Everything is hotter when the sun goes down.
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Finding Beauty In Negative Spaces (Bonus Track Version)
 artists:
 - Seether
+external_ids:
+  spotify: spotify:track:4eAwB5pnKFTmsgc3zWoYO0
 features: []
-genres: []
+first_released_as_single: false
 key: fake-it-seether
 lyrics_url: https://www.azlyrics.com/lyrics/seether/fakeit.html
 name: Fake It
@@ -87,8 +90,9 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '2008-03-01'
+release_year: 2007
+runtime: 193893
 ---
-
 Who's to know if your soul will fade at all
 The one you sold to fool the world
 You lost your self-esteem along the way
@@ -131,6 +135,3 @@ Fake it if you're out of direction
 Fake it if you don't belong here
 Fake it if you feel like infection
 Woah you're such a fucking hypocrite
-
-
-

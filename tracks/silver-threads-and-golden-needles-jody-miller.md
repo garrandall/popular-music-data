@@ -1,8 +1,11 @@
 ---
+album: Queen Of The House
 artists:
 - Jody Miller
+external_ids:
+  spotify: spotify:track:0yAS1Yhyqu3pZVIEwSxRxn
 features: []
-genres: []
+first_released_as_single: false
 key: silver-threads-and-golden-needles-jody-miller
 lyrics_url: https://genius.com/Jody-miller-silver-threads-and-golden-needles-lyrics
 name: Silver Threads And Golden Needles
@@ -31,6 +34,8 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '1965-07-31'
+release_year: 1965
+runtime: 120099
 ---
 I don't want your lonely mansion
 With a tear in every room

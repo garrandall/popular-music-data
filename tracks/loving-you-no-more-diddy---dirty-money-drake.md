@@ -1,9 +1,12 @@
 ---
+album: Last Train To Paris
 artists:
 - Diddy - Dirty Money
+external_ids:
+  spotify: spotify:track:1A0qqpBZTPWO2H7tyOBqlE
 features:
 - Drake
-genres: []
+first_released_as_single: false
 key: loving-you-no-more-diddy---dirty-money-drake
 lyrics_url: https://genius.com/Diddy-dirty-money-loving-you-no-more-lyrics
 name: Loving You No More
@@ -16,6 +19,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2011-01-01'
+release_year: 2010
+runtime: 245000
 ---
 So hard to breathe this air that we call love (oh)
 Ain't nothin' worse than the hurt we receive from love (oh yeah)

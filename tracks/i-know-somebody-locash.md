@@ -1,8 +1,11 @@
 ---
+album: The Fighters
 artists:
 - LOCASH
+external_ids:
+  spotify: spotify:track:6pyshZbArprWRBXLbYVPO9
 features: []
-genres: []
+first_released_as_single: false
 key: i-know-somebody-locash
 lyrics_url: https://genius.com/Locash-i-know-somebody-lyrics
 name: I Know Somebody
@@ -51,6 +54,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2016-11-26'
+release_year: 2016
+runtime: 197829
 ---
 Girl I've never seen you in this town
 If you need somebody to show you around

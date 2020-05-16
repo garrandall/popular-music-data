@@ -1,8 +1,11 @@
 ---
+album: Zingalamaduni
 artists:
 - Arrested Development
+external_ids:
+  spotify: spotify:track:60qV6RaRjg9ggvWQwq7WIG
 features: []
-genres: []
+first_released_as_single: false
 key: ease-my-mind-arrested-development
 lyrics_url: https://genius.com/Arrested-development-ease-my-mind-lyrics
 name: Ease My Mind
@@ -55,6 +58,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1994-07-30'
+release_year: 1994
+runtime: 252440
 ---
 I need some time to ease my mind
 

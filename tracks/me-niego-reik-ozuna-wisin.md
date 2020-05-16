@@ -1,10 +1,13 @@
 ---
+album: Ahora
 artists:
 - Reik
+external_ids:
+  spotify: spotify:track:1UF1mEUnXlSznLSML0BKEm
 features:
 - Ozuna
 - Wisin
-genres: []
+first_released_as_single: true
 key: me-niego-reik-ozuna-wisin
 lyrics_url: https://genius.com/Reik-me-niego-lyrics
 name: Me Niego
@@ -21,6 +24,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2018-07-14'
+release_year: 2018
+runtime: 253986
 ---
 Es difícil abrir mis ojos y ya no verte
 Tu olor en la cama aún sigue intacto (oh-oh-oh)

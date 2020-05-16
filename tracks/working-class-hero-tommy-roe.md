@@ -1,8 +1,11 @@
 ---
+album: Hanky Panky
 artists:
 - Tommy Roe
+external_ids:
+  spotify: spotify:track:7EFppx0qHrhJSaJABdbIvR
 features: []
-genres: []
+first_released_as_single: false
 key: working-class-hero-tommy-roe
 lyrics_url: https://genius.com/Tommy-roe-working-class-hero-lyrics
 name: Working Class Hero
@@ -23,6 +26,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1973-05-26'
+release_year: 1973
+runtime: 205240
 ---
 As soon as your born they make you feel small
 By giving you no time instead of it all

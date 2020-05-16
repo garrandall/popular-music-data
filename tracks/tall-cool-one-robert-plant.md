@@ -1,8 +1,11 @@
 ---
+album: Now And Zen
 artists:
 - Robert Plant
+external_ids:
+  spotify: spotify:track:05lgqQJ6Xb1oPAwvIShDyN
 features: []
-genres: []
+first_released_as_single: false
 key: tall-cool-one-robert-plant
 lyrics_url: https://www.azlyrics.com/lyrics/robertplant/tallcoolone.html
 name: Tall Cool One
@@ -79,8 +82,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1988-08-13'
+release_year: 1988
+runtime: 319706
 ---
-
 I'm like a strange cat running in the heat of the night
 I've got a fire in my eyes, got a date with delight
 Some kinda moaning in in the heart of the storm
@@ -117,6 +121,3 @@ I'm so tall and you're so cute
 You stroll, you jump 
 
 (Lighten up baby, I'm in love with you --)
-
-
-

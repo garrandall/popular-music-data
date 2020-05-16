@@ -1,8 +1,11 @@
 ---
+album: Barefoot Blue Jean Night
 artists:
 - Jake Owen
+external_ids:
+  spotify: spotify:track:7oizkVPKiJYU5CyTjrcVp0
 features: []
-genres: []
+first_released_as_single: false
 key: the-one-that-got-away-jake-owen
 lyrics_url: https://www.azlyrics.com/lyrics/jakeowen/theonethatgotaway.html
 name: The One That Got Away
@@ -87,8 +90,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2013-01-05'
+release_year: 2011
+runtime: 194173
 ---
-
 She rolled in my little sandy town
 She spent the summer there a couple houses down
 Well, there was magic in the air
@@ -138,6 +142,3 @@ She was the one that got away
 
 She rolled in my little sandy town
 She spent the summer there a couple houses down
-
-
-

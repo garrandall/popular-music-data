@@ -1,8 +1,11 @@
 ---
+album: "7800\xBA Fahrenheit"
 artists:
 - Bon Jovi
+external_ids:
+  spotify: spotify:track:7KTQJIiqz94TGyvcfnsLlg
 features: []
-genres: []
+first_released_as_single: false
 key: always-bon-jovi
 lyrics_url: https://www.musixmatch.com/lyrics/Bon-Jovi/Always
 name: Always
@@ -135,6 +138,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1995-05-06'
+release_year: 1985
+runtime: 300747
 ---
 This Romeo is bleeding
 But you can't see his blood

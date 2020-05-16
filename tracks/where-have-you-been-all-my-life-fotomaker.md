@@ -1,8 +1,11 @@
 ---
+album: Fotomaker
 artists:
 - Fotomaker
+external_ids:
+  spotify: spotify:track:0O6hLhebUQGNFeCI8CpRyF
 features: []
-genres: []
+first_released_as_single: false
 key: where-have-you-been-all-my-life-fotomaker
 lyrics_url: https://genius.com/Fotomaker-where-have-you-been-all-my-life-lyrics
 name: Where Have You Been All My Life
@@ -31,6 +34,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1978-05-27'
+release_year: 1978
+runtime: 218128
 ---
 It used to be
 My life was like a puzzle in a million pieces

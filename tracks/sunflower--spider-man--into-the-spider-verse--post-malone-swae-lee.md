@@ -1,9 +1,12 @@
 ---
+album: Hollywood's Bleeding
 artists:
 - Post Malone
 - Swae Lee
+external_ids:
+  spotify: spotify:track:3KkXRkHbMCARz0aVfEt68P
 features: []
-genres: []
+first_released_as_single: false
 key: sunflower--spider-man--into-the-spider-verse--post-malone-swae-lee
 lyrics_url: https://www.azlyrics.com/lyrics/postmalone/sunflower.html
 name: 'Sunflower (Spider-Man: Into The Spider-Verse)'
@@ -220,6 +223,8 @@ rankings:
   rank: 21
   ranking_list: Billboard Hot 100
   start_date: '2019-11-02'
+release_year: 2018
+runtime: 158040
 ---
 Ayy, ayy, ayy, ayy (oh
 Oh, oh oohoh (ohoh

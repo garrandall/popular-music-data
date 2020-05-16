@@ -1,8 +1,11 @@
 ---
+album: Stones
 artists:
 - Neil Diamond
+external_ids:
+  spotify: spotify:track:6XuClyVHchX96u6KV10NkE
 features: []
-genres: []
+first_released_as_single: false
 key: stones-neil-diamond
 lyrics_url: https://www.azlyrics.com/lyrics/neildiamond/stones.html
 name: Stones
@@ -43,8 +46,9 @@ rankings:
   rank: 36
   ranking_list: Billboard Hot 100
   start_date: '1972-01-08'
+release_year: 1971
+runtime: 183693
 ---
-
 Stones would play inside her head
 And where she slept,
 They made her bed
@@ -68,6 +72,3 @@ For just two wild flowers that grow
 
 La la la la la la la la la on stones
 Mmm
-
-
-

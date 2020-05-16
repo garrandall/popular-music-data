@@ -1,8 +1,11 @@
 ---
+album: Twenty+
 artists:
 - All-4-One
+external_ids:
+  spotify: spotify:track:0LY1DGU1xAWJOFHTMLYBMS
 features: []
-genres: []
+first_released_as_single: false
 key: someday-all-4-one
 lyrics_url: https://genius.com/All-4-one-someday-lyrics
 name: Someday
@@ -67,6 +70,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1996-10-05'
+release_year: 1996
+runtime: 260493
 ---
 Someday
 When we are wiser

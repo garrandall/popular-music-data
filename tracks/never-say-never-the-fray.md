@@ -1,8 +1,11 @@
 ---
+album: The Fray
 artists:
 - The Fray
+external_ids:
+  spotify: spotify:track:57uX2vR9j9DNiANDYfXw1i
 features: []
-genres: []
+first_released_as_single: false
 key: never-say-never-the-fray
 lyrics_url: https://genius.com/The-fray-never-say-never-lyrics
 name: Never Say Never
@@ -87,6 +90,8 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '2009-11-07'
+release_year: 2009
+runtime: 256613
 ---
 Some things we don't talk about
 Rather do without and just hold the smile

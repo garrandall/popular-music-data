@@ -1,8 +1,11 @@
 ---
+album: Romance
 artists:
 - Camila Cabello
+external_ids:
+  spotify: spotify:track:7LzouaWGFCy4tkXDOOnEyM
 features: []
-genres: []
+first_released_as_single: true
 key: liar-camila-cabello
 lyrics_url: https://www.azlyrics.com/lyrics/camilacabello/liar.html
 name: Liar
@@ -51,8 +54,9 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '2019-11-30'
+release_year: 2019
+runtime: 207038
 ---
-
 I don't care if you're here
 Or if you're not alone
 I don't care, it's been too long
@@ -133,6 +137,3 @@ Oh no, no, no
 Oh no, you're making me a liar
 'Cause your clothes are on the floor
 Another fire
-
-
-

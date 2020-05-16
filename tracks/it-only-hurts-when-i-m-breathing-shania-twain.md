@@ -1,8 +1,11 @@
 ---
+album: Up!
 artists:
 - Shania Twain
+external_ids:
+  spotify: spotify:track:4vumsuBIb2nEFKLuNaOeGO
 features: []
-genres: []
+first_released_as_single: false
 key: it-only-hurts-when-i-m-breathing-shania-twain
 lyrics_url: https://genius.com/Shania-twain-it-only-hurts-when-im-breathing-lyrics
 name: It Only Hurts When I'm Breathing
@@ -35,6 +38,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2004-06-19'
+release_year: 2002
+runtime: 199466
 ---
 Oh, no, no, no
 

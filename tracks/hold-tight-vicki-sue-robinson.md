@@ -1,8 +1,11 @@
 ---
+album: Half and Half
 artists:
 - Vicki Sue Robinson
+external_ids:
+  spotify: spotify:track:1mzzCI79ll22yOpSfHtrnc
 features: []
-genres: []
+first_released_as_single: false
 key: hold-tight-vicki-sue-robinson
 lyrics_url: https://genius.com/Vicki-sue-robinson-hold-tight-12-edit-lyrics
 name: Hold Tight
@@ -43,6 +46,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1977-10-01'
+release_year: 1977
+runtime: 326626
 ---
 Hold tight
 I wanna dance with you this whole night

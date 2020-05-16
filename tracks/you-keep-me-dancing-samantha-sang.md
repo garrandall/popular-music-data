@@ -1,8 +1,11 @@
 ---
+album: Emotion
 artists:
 - Samantha Sang
+external_ids:
+  spotify: spotify:track:3bmRF84wgpjbLJTzxcUI69
 features: []
-genres: []
+first_released_as_single: false
 key: you-keep-me-dancing-samantha-sang
 lyrics_url: https://genius.com/Samantha-sang-you-keep-me-dancing-lyrics
 name: You Keep Me Dancing
@@ -35,6 +38,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1978-06-17'
+release_year: 1977
+runtime: 176720
 ---
 Joey was pretty
 Like the flowers he brought me

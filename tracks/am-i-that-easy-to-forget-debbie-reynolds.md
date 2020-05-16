@@ -1,8 +1,11 @@
 ---
+album: Am I That Easy To Forget?
 artists:
 - Debbie Reynolds
+external_ids:
+  spotify: spotify:track:0v05cmI3vQXZs8CHMCI2mn
 features: []
-genres: []
+first_released_as_single: false
 key: am-i-that-easy-to-forget-debbie-reynolds
 lyrics_url: https://genius.com/Debbie-reynolds-am-i-that-easy-to-forget-lyrics
 name: Am I That Easy To Forget
@@ -75,6 +78,8 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '1960-05-09'
+release_year: 1960
+runtime: 141840
 ---
 They say you've found somebody new
 But that won't stop my loving you

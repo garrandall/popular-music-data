@@ -1,8 +1,11 @@
 ---
+album: Come Softly To Me
 artists:
 - The Fleetwoods
+external_ids:
+  spotify: spotify:track:3Uw68N09eLlFFwlsVqupCM
 features: []
-genres: []
+first_released_as_single: false
 key: runaround-the-fleetwoods
 lyrics_url: https://genius.com/The-fleetwoods-runaround-lyrics
 name: Runaround
@@ -59,6 +62,8 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '1960-08-15'
+release_year: 1960
+runtime: 153600
 ---
 I'll never be the one to part
 You've found a place here in my heart

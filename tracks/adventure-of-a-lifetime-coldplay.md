@@ -1,8 +1,11 @@
 ---
+album: A Head Full of Dreams
 artists:
 - Coldplay
+external_ids:
+  spotify: spotify:track:2So9pYqQ0JWvFhasJfI871
 features: []
-genres: []
+first_released_as_single: true
 key: adventure-of-a-lifetime-coldplay
 lyrics_url: https://www.azlyrics.com/lyrics/coldplay/adventureofalifetime.html
 name: Adventure Of A Lifetime
@@ -87,8 +90,9 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '2016-04-09'
+release_year: 2015
+runtime: 250714
 ---
-
 Turn your magic on
 Umi she'd say
 Everything you want's a dream away
@@ -146,6 +150,3 @@ Yeah I do
 Woohoo
 Woohoo
 Woohoo
-
-
-

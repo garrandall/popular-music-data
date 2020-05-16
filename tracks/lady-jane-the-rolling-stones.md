@@ -1,8 +1,11 @@
 ---
+album: Aftermath
 artists:
 - The Rolling Stones
+external_ids:
+  spotify: spotify:track:5bAwBK24KvU93znDLR6GFn
 features: []
-genres: []
+first_released_as_single: false
 key: lady-jane-the-rolling-stones
 lyrics_url: https://www.azlyrics.com/lyrics/rollingstones/ladyjane.html
 name: Lady Jane
@@ -31,8 +34,9 @@ rankings:
   rank: 36
   ranking_list: Billboard Hot 100
   start_date: '1966-08-27'
+release_year: 1966
+runtime: 189533
 ---
-
 My sweet Lady Jane
 When I see you again
 Your servant am I
@@ -54,6 +58,3 @@ For your lady and me
 Wedlock is nigh my love
 Her station's right my love
 Life is secure with Lady Jane
-
-
-

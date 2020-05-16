@@ -1,8 +1,11 @@
 ---
+album: The UWF All-Stars (Live)
 artists:
 - The S.O.S. Band
+external_ids:
+  spotify: spotify:track:5ZxfwWQOd4rn6kOyWd4QZ6
 features: []
-genres: []
+first_released_as_single: false
 key: just-be-good-to-me-the-s-o-s--band
 lyrics_url: https://genius.com/The-sos-band-just-be-good-to-me-lyrics
 name: Just Be Good To Me
@@ -63,6 +66,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1983-11-26'
+release_year: 1983
+runtime: 519666
 ---
 Friends tell me I am crazy
 That I’m wasting time with you

@@ -1,9 +1,12 @@
 ---
+album: Wish Upon A Star
 artists:
 - Dion
 - The Belmonts
+external_ids:
+  spotify: spotify:track:6sgGFOoALi80nDekLKbPPQ
 features: []
-genres: []
+first_released_as_single: false
 key: in-the-still-of-the-night-dion-the-belmonts
 lyrics_url: https://genius.com/Dion-and-the-belmonts-in-the-still-of-the-night-lyrics
 name: In The Still Of The Night
@@ -36,6 +39,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1960-08-29'
+release_year: 1960
+runtime: 158000
 ---
 In the still of the night
 As I gaze from my window

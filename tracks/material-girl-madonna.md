@@ -1,8 +1,11 @@
 ---
+album: Like a Virgin (Reissue)
 artists:
 - Madonna
+external_ids:
+  spotify: spotify:track:7bkyXSi4GtVfD7itZRUR3e
 features: []
-genres: []
+first_released_as_single: false
 key: material-girl-madonna
 lyrics_url: https://www.azlyrics.com/lyrics/madonna/materialgirl.html
 name: Material Girl
@@ -75,8 +78,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1985-06-01'
+release_year: 1984
+runtime: 240706
 ---
-
 Some boys kiss me, some boys hug me
 I think they're O.K.
 If they don't give me proper credit
@@ -120,4 +124,3 @@ A material, a material, a material, a material world
 
 Living in a material world (material)
 Living in a material world
-

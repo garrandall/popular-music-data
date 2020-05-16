@@ -1,9 +1,12 @@
 ---
+album: New Season
 artists:
 - Donny
 - Marie Osmond
+external_ids:
+  spotify: spotify:track:3s0D8NiqXmaZdINIojlvJF
 features: []
-genres: []
+first_released_as_single: false
 key: ain-t-nothing-like-the-real-thing-donny-marie-osmond
 lyrics_url: https://www.musixmatch.com/lyrics/Donny-Marie-Osmond/Ain-t-Nothing-Like-the-Real-Thing
 name: Ain't Nothing Like The Real Thing
@@ -60,6 +63,8 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1977-02-19'
+release_year: 1976
+runtime: 142240
 ---
 Ain't nothing like the real thing baby
 Ain't nothing like the real thing

@@ -1,9 +1,12 @@
 ---
+album: Carnival
 artists:
 - Bryce Vine
+external_ids:
+  spotify: spotify:track:4kpDxPKLI9jb3KoYCZajaT
 features:
 - YG
-genres: []
+first_released_as_single: true
 key: la-la-land-bryce-vine-yg
 lyrics_url: https://www.azlyrics.com/lyrics/brycevine/lalaland.html
 name: La La Land
@@ -52,8 +55,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2019-08-24'
+release_year: 2019
+runtime: 177084
 ---
-
 Oh, shit, you live in the Canyon
 How big is your mansion?
 Fresh outta school now you workin'
@@ -138,6 +142,3 @@ Hey, baby, waste your time with me
 In California
 Hey, baby, waste your time with me
 In California
-
-
-

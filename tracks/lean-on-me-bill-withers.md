@@ -1,8 +1,11 @@
 ---
+album: Still Bill
 artists:
 - Bill Withers
+external_ids:
+  spotify: spotify:track:3M8FzayQWtkvOhqMn2V4T2
 features: []
-genres: []
+first_released_as_single: false
 key: lean-on-me-bill-withers
 lyrics_url: https://genius.com/Bill-withers-lean-on-me-lyrics
 name: Lean On Me
@@ -83,6 +86,8 @@ rankings:
   rank: 31
   ranking_list: Billboard Hot 100
   start_date: '1972-08-26'
+release_year: 1972
+runtime: 258834
 ---
 Hm
 Hm hm hm hm

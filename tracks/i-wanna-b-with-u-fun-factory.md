@@ -1,8 +1,11 @@
 ---
+album: Close To You
 artists:
 - Fun Factory
+external_ids:
+  spotify: spotify:track:60HyEw3WffPQ4zk8R597pa
 features: []
-genres: []
+first_released_as_single: false
 key: i-wanna-b-with-u-fun-factory
 lyrics_url: https://genius.com/Fun-factory-i-wanna-b-with-u-lyrics
 name: I Wanna B With U
@@ -87,6 +90,8 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '1995-12-02'
+release_year: 1995
+runtime: 212866
 ---
 I wanna b with you
 I wanna b with you baby

@@ -1,8 +1,11 @@
 ---
+album: The Ultimate Petula Clark
 artists:
 - Petula Clark
+external_ids:
+  spotify: spotify:track:1lbCppw0WziEUg1ioiFa7Q
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-sleep-in-the-subway-petula-clark
 lyrics_url: https://www.musixmatch.com/lyrics/Petula-Clark/Don-t-Sleep-in-the-Subway
 name: Don't Sleep In The Subway
@@ -47,6 +50,8 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '1967-08-05'
+release_year: 1967
+runtime: 176066
 ---
 You wander around
 On your own little cloud

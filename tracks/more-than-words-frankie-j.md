@@ -1,8 +1,11 @@
 ---
+album: Un Nuevo Dia
 artists:
 - Frankie J
+external_ids:
+  spotify: spotify:track:4RQFyVdJpn87nbz4pUGCRX
 features: []
-genres: []
+first_released_as_single: false
 key: more-than-words-frankie-j
 lyrics_url: https://www.azlyrics.com/lyrics/frankiej/morethanwords.html
 name: More Than Words
@@ -79,9 +82,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2006-01-14'
+release_year: 2003
+runtime: 242186
 ---
-
-
 Saying I love you
 Is not the words I want to hear from you
 Its not that I want you not to say
@@ -124,4 +127,3 @@ Cause I'd already know
 
 (just saying I love you, saying I love you)
 More than words
-

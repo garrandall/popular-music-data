@@ -1,8 +1,11 @@
 ---
+album: New Train Same Rider/Places I've Done Time
 artists:
 - Tom T. Hall
+external_ids:
+  spotify: spotify:track:2vhFsRat25P9D8rweQF1Jq
 features: []
-genres: []
+first_released_as_single: false
 key: i-love-tom-t--hall
 lyrics_url: https://genius.com/Tom-t-hall-i-love-lyrics
 name: I Love
@@ -71,6 +74,8 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '1974-03-23'
+release_year: 1973
+runtime: 129533
 ---
 I love little baby ducks, old pick-up trucks
 Slow movin' trains and rain

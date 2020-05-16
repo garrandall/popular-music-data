@@ -1,8 +1,11 @@
 ---
+album: The Wanted
 artists:
 - The Wanted
+external_ids:
+  spotify: spotify:track:4b4c0oH7PtrPsI86drzgFs
 features: []
-genres: []
+first_released_as_single: false
 key: chasing-the-sun-the-wanted
 lyrics_url: https://genius.com/The-wanted-chasing-the-sun-lyrics
 name: Chasing The Sun
@@ -67,6 +70,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2012-09-22'
+release_year: 2012
+runtime: 198800
 ---
 I'm better, so much better now
 I see the light, touch the light, we're together now

@@ -1,8 +1,11 @@
 ---
+album: Byrdland
 artists:
 - Charlie Byrd
+external_ids:
+  spotify: spotify:track:2rIwPZPEPLZwRBlq3GYYCq
 features: []
-genres: []
+first_released_as_single: false
 key: meditation--meditacao--charlie-byrd
 name: Meditation (Meditacao)
 rankings:
@@ -42,5 +45,7 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1963-04-13'
+release_year: 1963
+runtime: 198893
 ---
 

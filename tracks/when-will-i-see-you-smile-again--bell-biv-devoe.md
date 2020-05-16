@@ -1,8 +1,11 @@
 ---
+album: Poison
 artists:
 - Bell Biv DeVoe
+external_ids:
+  spotify: spotify:track:3q0QmvdwHBETS89ZvelClL
 features: []
-genres: []
+first_released_as_single: false
 key: when-will-i-see-you-smile-again--bell-biv-devoe
 lyrics_url: https://www.azlyrics.com/lyrics/bellbivdevoe/whenwilliseeyousmileagain.html
 name: When Will I See You Smile Again?
@@ -39,8 +42,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1991-03-09'
+release_year: 1990
+runtime: 307133
 ---
-
 La da da da da da da
 La da da da da da da da da oh ho
 
@@ -114,6 +118,3 @@ And I know you're fed up, sugar
 
 Tell me when will I see you smile again
 'Cause I know I messed up, baby
-
-
-

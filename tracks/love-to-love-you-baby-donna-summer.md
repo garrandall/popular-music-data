@@ -1,8 +1,11 @@
 ---
+album: Love To Love You Baby
 artists:
 - Donna Summer
+external_ids:
+  spotify: spotify:track:6Szw3sQC5Zssr15AJsUY9J
 features: []
-genres: []
+first_released_as_single: false
 key: love-to-love-you-baby-donna-summer
 lyrics_url: https://www.musixmatch.com/lyrics/Donna-Summer/Love-To-Love-You-Baby
 name: Love To Love You Baby
@@ -79,6 +82,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1976-04-03'
+release_year: 1975
+runtime: 1008533
 ---
 I love to love you baby
 I love to love you baby

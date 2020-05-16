@@ -1,8 +1,11 @@
 ---
+album: The Chic Organization 1977-1979
 artists:
 - Sister Sledge
+external_ids:
+  spotify: spotify:track:1sEMDxwKSjiREkVlokpcXp
 features: []
-genres: []
+first_released_as_single: false
 key: we-are-family-sister-sledge
 lyrics_url: https://www.musixmatch.com/lyrics/Sister-Sledge/We-Are-Family-Sister-Sledge
 name: We Are Family
@@ -83,6 +86,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1979-09-01'
+release_year: 1977
+runtime: 496840
 ---
 We are family
 I got all my sisters with me

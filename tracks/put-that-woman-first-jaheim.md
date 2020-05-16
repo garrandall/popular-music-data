@@ -1,8 +1,11 @@
 ---
+album: Still Ghetto
 artists:
 - Jaheim
+external_ids:
+  spotify: spotify:track:3OQu3z3okKVmWxSXTTHak5
 features: []
-genres: []
+first_released_as_single: false
 key: put-that-woman-first-jaheim
 lyrics_url: https://www.azlyrics.com/lyrics/jaheim/putthatwomanfirst.html
 name: Put That Woman First
@@ -87,8 +90,9 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '2003-08-02'
+release_year: 2002
+runtime: 245773
 ---
-
 Oh...oh...oh...oh... (Yeah)
 If they gleam in the sun
 while they spin and they fit on my truck then
@@ -181,6 +185,3 @@ And you know she ain't wearin' her ring (Yeah, yeah, yeah, yeah)
 When she starts playin' little games (Yeah, yeah)
 Comin' in late from work
 You better put that woman first
-
-
-

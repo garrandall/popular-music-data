@@ -1,8 +1,11 @@
 ---
+album: Sentimentally Yours
 artists:
 - Patsy Cline
+external_ids:
+  spotify: spotify:track:4H1POasJbrLNaQirsIH29e
 features: []
-genres: []
+first_released_as_single: false
 key: she-s-got-you-patsy-cline
 lyrics_url: https://www.musixmatch.com/lyrics/Jim-Reeves-Patsy-Cline/She-s-Got-You
 name: She's Got You
@@ -59,6 +62,8 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '1962-04-21'
+release_year: 1962
+runtime: 181800
 ---
 I've got your picture that you gave to me
 And it's signed with love, just like it used to be

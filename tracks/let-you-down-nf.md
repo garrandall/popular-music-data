@@ -1,8 +1,11 @@
 ---
+album: Perception
 artists:
 - NF
+external_ids:
+  spotify: spotify:track:3gWu8y0TKCIdy2mpTqVnTl
 features: []
-genres: []
+first_released_as_single: true
 key: let-you-down-nf
 lyrics_url: https://genius.com/Nf-let-you-down-lyrics
 name: Let You Down
@@ -119,6 +122,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2018-05-05'
+release_year: 2017
+runtime: 212120
 ---
 Feels like we're on the edge right now
 I wish that I could say I'm proud

@@ -1,8 +1,11 @@
 ---
+album: The Best Of 1990-2000
 artists:
 - U2
+external_ids:
+  spotify: spotify:track:5TsHqbDKaSs4ECZX0045YS
 features: []
-genres: []
+first_released_as_single: false
 key: hold-me-thrill-me-kiss-me-kill-me-u2
 lyrics_url: https://www.azlyrics.com/lyrics/u2band/holdmethrillmekissmekillme.html
 name: Hold Me Thrill Me Kiss Me Kill Me
@@ -75,8 +78,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1995-10-14'
+release_year: 1995
+runtime: 284600
 ---
-
 You don't know how you took it 
 You just know what you got 
 Oh Lordy you've been stealing 
@@ -122,6 +126,3 @@ You're a star
 Of course you're not shy 
 You don't have to deny love 
 Hold me, thrill me, kiss me, kill me
-
-
-

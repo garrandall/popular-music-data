@@ -1,8 +1,11 @@
 ---
+album: 'Clovis Classics: The Definitive Collection'
 artists:
 - Fireballs
+external_ids:
+  spotify: spotify:track:3SYCvuVGbRX1EeA1LxRRVu
 features: []
-genres: []
+first_released_as_single: false
 key: torquay-fireballs
 lyrics_url: https://genius.com/The-fireballs-torquay-lyrics
 name: Torquay
@@ -59,5 +62,7 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1959-12-21'
+release_year: 1959
+runtime: 116360
 ---
 (Instrumental)

@@ -1,8 +1,11 @@
 ---
+album: Beast (Explicit Version)
 artists:
 - V.I.C.
+external_ids:
+  spotify: spotify:track:6ewmZ7vUOjitwsg4yJ6xhX
 features: []
-genres: []
+first_released_as_single: true
 key: get-silly-v-i-c-
 lyrics_url: https://genius.com/Vic-get-silly-lyrics
 name: Get Silly
@@ -75,6 +78,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2008-08-30'
+release_year: 2007
+runtime: 227120
 ---
 (Soulja Boy tell 'em!)
 The dance floor silly, the ladies gon' feel me

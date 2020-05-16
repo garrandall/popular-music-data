@@ -1,9 +1,12 @@
 ---
+album: Life And Death (And Almost Everything Else).
 artists:
 - Jack Blanchard
 - Misty Morgan
+external_ids:
+  spotify: spotify:track:2N3RVxeKTXCcsbADAl4zce
 features: []
-genres: []
+first_released_as_single: false
 key: humphrey-the-camel-jack-blanchard-misty-morgan
 lyrics_url: https://genius.com/Jack-blanchard-and-misty-morgan-humphrey-the-camel-lyrics
 name: Humphrey The Camel
@@ -32,6 +35,8 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1970-08-01'
+release_year: 1970
+runtime: 178680
 ---
 Let me tell you bout Humphrey the Camel amblin' across the sands umm
 All the Nomads givin' him a great big hand

@@ -1,8 +1,11 @@
 ---
+album: Views
 artists:
 - Drake
+external_ids:
+  spotify: spotify:track:1C7KSXR2GVxknex6I4ANco
 features: []
-genres: []
+first_released_as_single: false
 key: 9-drake
 lyrics_url: https://genius.com/Drake-9-lyrics
 name: '9'
@@ -27,6 +30,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '2016-06-18'
+release_year: 2016
+runtime: 255786
 ---
 Yeah, for the dogs dem, you know
 Man when shit gets like this, man the whole city

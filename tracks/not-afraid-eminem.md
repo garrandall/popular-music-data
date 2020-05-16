@@ -1,8 +1,11 @@
 ---
+album: Recovery
 artists:
 - Eminem
+external_ids:
+  spotify: spotify:track:0WaaQTWL3OmWeuN4vKTHaF
 features: []
-genres: []
+first_released_as_single: true
 key: not-afraid-eminem
 lyrics_url: https://genius.com/Eminem-not-afraid-lyrics
 name: Not Afraid
@@ -107,6 +110,8 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '2010-11-06'
+release_year: 2010
+runtime: 251466
 ---
 I'm not afraid (I'm not afraid)
 To take a stand (To take a stand)

@@ -1,8 +1,11 @@
 ---
+album: Foreigner (Expanded)
 artists:
 - Foreigner
+external_ids:
+  spotify: spotify:track:7vidktgNZFQylTgH1GEnMs
 features: []
-genres: []
+first_released_as_single: false
 key: cold-as-ice-foreigner
 lyrics_url: https://www.azlyrics.com/lyrics/foreigner/coldasice.html
 name: Cold As Ice
@@ -91,8 +94,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1977-12-10'
+release_year: 1977
+runtime: 200573
 ---
-
 You're as cold as ice
 You're willing to sacrifice our love
 You never take advice
@@ -147,6 +151,3 @@ Cold as ice I know
 (You're as cold as icccce)
 Oh, yes I know
 (Cold as icccce)
-
-
-

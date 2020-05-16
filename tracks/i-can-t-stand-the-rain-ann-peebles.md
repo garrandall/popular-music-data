@@ -1,8 +1,11 @@
 ---
+album: Full Time Love
 artists:
 - Ann Peebles
+external_ids:
+  spotify: spotify:track:2vIMf356EBI1vnNZxpIJDU
 features: []
-genres: []
+first_released_as_single: false
 key: i-can-t-stand-the-rain-ann-peebles
 lyrics_url: https://genius.com/Ann-peebles-i-cant-stand-the-rain-lyrics
 name: I Can't Stand The Rain
@@ -91,6 +94,8 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1974-01-19'
+release_year: 1973
+runtime: 342400
 ---
 I can't stand the rain against my window
 Bringing back sweet memories

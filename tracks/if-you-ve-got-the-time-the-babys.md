@@ -1,8 +1,11 @@
 ---
+album: The Babys
 artists:
 - The Babys
+external_ids:
+  spotify: spotify:track:0cxB9QxD5y6O16ltbalcZM
 features: []
-genres: []
+first_released_as_single: false
 key: if-you-ve-got-the-time-the-babys
 lyrics_url: https://genius.com/The-babys-if-youve-got-the-time-lyrics
 name: If You've Got The Time
@@ -15,6 +18,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1977-03-26'
+release_year: 1976
+runtime: 155066
 ---
 If I say I love ya
 And lay it on the line

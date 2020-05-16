@@ -1,9 +1,12 @@
 ---
+album: Where Your Music Takes Me (JJ in the Seventies)
 artists:
 - Jimmy James
 - The Vagabonds
+external_ids:
+  spotify: spotify:track:2usj6EGRtG2fIo646SOG1h
 features: []
-genres: []
+first_released_as_single: false
 key: i-am-somebody-jimmy-james-the-vagabonds
 lyrics_url: https://www.musixmatch.com/lyrics/Jimmy-James-Jimmy-James-The-Vagabonds-The-Vagabonds/I-Am-Somebody
 name: I Am Somebody
@@ -20,6 +23,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1976-03-06'
+release_year: 1976
+runtime: 305800
 ---
 I remember, when I was small
 I saw the preacher man (ah!) he was walking tall

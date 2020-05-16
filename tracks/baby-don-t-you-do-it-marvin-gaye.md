@@ -1,8 +1,11 @@
 ---
+album: How Sweet It Is To Be Loved By You
 artists:
 - Marvin Gaye
+external_ids:
+  spotify: spotify:track:0zhbuGipWggtIVw2A1hrUT
 features: []
-genres: []
+first_released_as_single: false
 key: baby-don-t-you-do-it-marvin-gaye
 lyrics_url: https://genius.com/Marvin-gaye-baby-dont-you-do-it-lyrics
 name: Baby Don't You Do It
@@ -43,6 +46,8 @@ rankings:
   rank: 35
   ranking_list: Billboard Hot 100
   start_date: '1964-11-14'
+release_year: 1964
+runtime: 158493
 ---
 Baby don't you do it, don't do it babe
 Don't break my heart, don't do it babe

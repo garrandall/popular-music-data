@@ -1,8 +1,11 @@
 ---
+album: Meteora
 artists:
 - Linkin Park
+external_ids:
+  spotify: spotify:track:3agtg0x11wPvLIWkYR39nZ
 features: []
-genres: []
+first_released_as_single: false
 key: somewhere-i-belong-linkin-park
 lyrics_url: https://www.azlyrics.com/lyrics/linkinpark/somewhereibelong.html
 name: Somewhere I Belong
@@ -87,9 +90,9 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '2003-07-26'
+release_year: 2003
+runtime: 213933
 ---
-
-
 (When this began)
 I had nothing to say
 And I'd get lost in the nothingness inside of me
@@ -147,6 +150,3 @@ Somewhere I belong
 I wanna heal, I wanna feel like I'm somewhere I belong
 I wanna heal, I wanna feel like I'm somewhere I belong
 Somewhere I belong
-
-
-

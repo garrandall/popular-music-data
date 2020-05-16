@@ -1,8 +1,11 @@
 ---
+album: Closer
 artists:
 - Josh Groban
+external_ids:
+  spotify: spotify:track:4TbNLKRLKlxZDlS0pu7Lsy
 features: []
-genres: []
+first_released_as_single: false
 key: you-raise-me-up-josh-groban
 lyrics_url: https://genius.com/Josh-groban-you-raise-me-up-lyrics
 name: You Raise Me Up
@@ -75,6 +78,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2004-07-10'
+release_year: 2003
+runtime: 292333
 ---
 When I am down and, oh my soul, so weary
 When troubles come and my heart burdened me

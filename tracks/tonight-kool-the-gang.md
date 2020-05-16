@@ -1,9 +1,12 @@
 ---
+album: Ladies' Night
 artists:
 - Kool
 - The Gang
+external_ids:
+  spotify: spotify:track:5vzQ2Eju6KlvB2iGRH7iwi
 features: []
-genres: []
+first_released_as_single: false
 key: tonight-kool-the-gang
 lyrics_url: https://www.azlyrics.com/lyrics/koolthegang/tonight.html
 name: Tonight
@@ -80,8 +83,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1984-06-23'
+release_year: 1979
+runtime: 429440
 ---
-
 Tonight, oh
 This is the night you'll see the light
 Tonight, oh
@@ -133,6 +137,3 @@ Tonight you will finally see the light
 Oh, come on, I want to dance with you
 (Tonight, oh
 (This is the night you'll see the light)
-
-
-

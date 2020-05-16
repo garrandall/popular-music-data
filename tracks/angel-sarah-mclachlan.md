@@ -1,8 +1,11 @@
 ---
+album: Surfacing
 artists:
 - Sarah McLachlan
+external_ids:
+  spotify: spotify:track:3xZMPZQYETEn4hjor3TR1A
 features: []
-genres: []
+first_released_as_single: false
 key: angel-sarah-mclachlan
 lyrics_url: https://www.azlyrics.com/lyrics/sarahmclachlan/angel.html
 name: Angel
@@ -119,8 +122,9 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1999-06-12'
+release_year: 1997
+runtime: 270400
 ---
-
 Spend all your time waiting
 for that second chance
 for a break that would make it okay
@@ -164,6 +168,3 @@ you're in the arms of the angel
 may you find some comfort here
 you're in the arms of the angel
 may you find some comfort here
-
-
-

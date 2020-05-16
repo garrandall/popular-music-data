@@ -1,8 +1,11 @@
 ---
+album: Music To Be Murdered By
 artists:
 - Eminem
+external_ids:
+  spotify: spotify:track:5SiZJoLXp3WOl3J4C8IK0d
 features: []
-genres: []
+first_released_as_single: false
 key: darkness-eminem
 lyrics_url: https://www.azlyrics.com/lyrics/eminem/darkness.html
 name: Darkness
@@ -15,8 +18,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2020-02-08'
+release_year: 2020
+runtime: 337146
 ---
-
 I don't wanna be alone, I don't wanna be
 I don't wanna be alone in the darkness
 I don't wanna be alone in the darkness
@@ -110,6 +114,3 @@ Just tryin' to show ya the reason why we're so fucked
 I don't wanna be alone in the darkness
 I don't wanna be alone in the darkness
 I don't wanna be alone in the darkness anymore
-
-
-

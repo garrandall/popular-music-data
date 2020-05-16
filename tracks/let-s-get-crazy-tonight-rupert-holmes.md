@@ -1,8 +1,11 @@
 ---
+album: Pursuit of Happiness
 artists:
 - Rupert Holmes
+external_ids:
+  spotify: spotify:track:6IjkHGGVZVJT9J6RUNsmTM
 features: []
-genres: []
+first_released_as_single: false
 key: let-s-get-crazy-tonight-rupert-holmes
 lyrics_url: https://www.azlyrics.com/lyrics/rupertholmes/letsgetcrazytonight.html
 name: Let's Get Crazy Tonight
@@ -31,8 +34,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1978-10-07'
+release_year: 1978
+runtime: 212986
 ---
-
 Life can be too much you see
 We all need insanity
 You're off the hook when you're off the wall
@@ -78,6 +82,3 @@ No time to worry if we're wrong or we're right
 
 Let's get crazy tonight
 No time to worry if we're wrong or we're right
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Republica
 artists:
 - Republica
+external_ids:
+  spotify: spotify:track:5Qt8U8Suu7MFH1VcJr17Td
 features: []
-genres: []
+first_released_as_single: false
 key: ready-to-go-republica
 lyrics_url: https://www.azlyrics.com/lyrics/republica/readytogo.html
 name: Ready To Go
@@ -87,8 +90,9 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '1996-12-21'
+release_year: 1996
+runtime: 301066
 ---
-
 You're weird, in tears, too near and too far away
 He said, saw red, went home stayed in bed all day
 Your T-shirt, dish dirt
@@ -126,6 +130,3 @@ Hurt ya hurt ya hurt ya
 
 It's a crack, baby I'm ready to go
 Baby I'm ready to go
-
-
-

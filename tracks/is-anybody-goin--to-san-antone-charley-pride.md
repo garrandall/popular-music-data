@@ -1,8 +1,11 @@
 ---
+album: Charley Pride's 10th Album
 artists:
 - Charley Pride
+external_ids:
+  spotify: spotify:track:4YoKrIafwopFW5OfjaRwty
 features: []
-genres: []
+first_released_as_single: false
 key: is-anybody-goin--to-san-antone-charley-pride
 lyrics_url: https://genius.com/Charley-pride-is-anybody-goin-to-san-antone-lyrics
 name: Is Anybody Goin' To San Antone
@@ -35,6 +38,8 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '1970-04-25'
+release_year: 1970
+runtime: 133880
 ---
 Rain drippin' off the brim of my hat
 Sure is cold today

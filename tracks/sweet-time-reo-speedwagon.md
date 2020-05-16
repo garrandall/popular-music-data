@@ -1,8 +1,11 @@
 ---
+album: Good Trouble
 artists:
 - REO Speedwagon
+external_ids:
+  spotify: spotify:track:2yPwtdt2XRhkPn7t1EVfJB
 features: []
-genres: []
+first_released_as_single: false
 key: sweet-time-reo-speedwagon
 lyrics_url: https://www.azlyrics.com/lyrics/reospeedwagon/sweettime.html
 name: Sweet Time
@@ -63,8 +66,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1982-11-27'
+release_year: 1982
+runtime: 186706
 ---
-
 When I awaken, feelin' no pain
 Visibly shaken, waitin' to touch you again
 My temperature's risin, but I'm fallin' a bit behind
@@ -80,4 +84,3 @@ I know when I hold you, it's a feelin' I can't explain
 But I never told you, I couldn't take it again
 But now I'm ready, I am ready to make you mine
 So I'm holdin steady, and we're gonna take our own sweet time
-

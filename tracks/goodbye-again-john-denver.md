@@ -1,8 +1,11 @@
 ---
+album: Rocky Mountain High
 artists:
 - John Denver
+external_ids:
+  spotify: spotify:track:4bNE6KBB1ZOQ7uz9gx9uFT
 features: []
-genres: []
+first_released_as_single: false
 key: goodbye-again-john-denver
 lyrics_url: https://www.azlyrics.com/lyrics/johndenver/goodbyeagain.html
 name: Goodbye Again
@@ -31,8 +34,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1972-08-26'
+release_year: 1972
+runtime: 217226
 ---
-
 It's five o'clock this morning and the sun is on the rise.
 There's frosting on the windowpane and sorrow in your eyes.
 The stars are fading quietly, night is nearly gone.
@@ -58,6 +62,3 @@ As it is, the time we have is worth the time alone.
 And lying by your side's the greatest peace I've ever known, and it's goodbye again,
 Goodbye again, as if you didn't know, it's goodbye again,
 and I wish you could tell me, why do we always fight when I have to go?
-
-
-

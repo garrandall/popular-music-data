@@ -1,8 +1,11 @@
 ---
+album: Man With A Memory
 artists:
 - Joe Nichols
+external_ids:
+  spotify: spotify:track:5N2ybHaC9tqFvYxGj70haX
 features: []
-genres: []
+first_released_as_single: false
 key: she-only-smokes-when-she-drinks-joe-nichols
 lyrics_url: https://www.azlyrics.com/lyrics/joenichols/sheonlysmokeswhenshedrinks.html
 name: She Only Smokes When She Drinks
@@ -27,8 +30,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2003-09-13'
+release_year: 2002
+runtime: 202040
 ---
-
 So you lit her cigarette
 You're feelin' pretty good
 You think you've got a shot
@@ -79,6 +83,3 @@ She only drinks alone
 And she only smokes when she drinks
 
 Yeah, that's right
-
-
-

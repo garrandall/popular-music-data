@@ -1,8 +1,11 @@
 ---
+album: Bone Against Steel
 artists:
 - 38 Special
+external_ids:
+  spotify: spotify:track:6ZfTwIVeXIe5SmQPzLEhsW
 features: []
-genres: []
+first_released_as_single: false
 key: the-sound-of-your-voice-38-special
 lyrics_url: https://www.azlyrics.com/lyrics/38special/thesoundofyourvoice.html
 name: The Sound Of Your Voice
@@ -67,8 +70,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1991-10-19'
+release_year: 1991
+runtime: 299600
 ---
-
 Knock down the doors and break thru the walls
 Tear out the phone run from it all 
 I'm here to tell ya babe 
@@ -120,6 +124,3 @@ It's your voice I hear dangerous child
 You're sayin' what I wanna hear 
 It's your voice It's your voice 
 It's your voice
-
-
-

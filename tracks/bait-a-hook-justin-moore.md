@@ -1,8 +1,11 @@
 ---
+album: Outlaws Like Me
 artists:
 - Justin Moore
+external_ids:
+  spotify: spotify:track:6cAxSUPzHyywECgGSvoLyf
 features: []
-genres: []
+first_released_as_single: false
 key: bait-a-hook-justin-moore
 lyrics_url: https://www.azlyrics.com/lyrics/justinmoore/baitahook.html
 name: Bait A Hook
@@ -47,8 +50,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2012-02-18'
+release_year: 2011
+runtime: 208493
 ---
-
 I heard you had to drive him home after two umbrella drinks
 I heard he's got a Prius, 'cause he's into bein' green
 My buddies said he saw y'all, eatin' that sushi stuff
@@ -92,6 +96,3 @@ No darlin' I ain't even worried, cause you'll come runnin' back
 He can't even bait a hook
 No baby I ain't even worried
 He can't even bait a hook
-
-
-

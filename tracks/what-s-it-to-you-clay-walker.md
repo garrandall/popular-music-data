@@ -1,8 +1,11 @@
 ---
+album: Clay Walker
 artists:
 - Clay Walker
+external_ids:
+  spotify: spotify:track:346GCw2msr77HA5I5NFsKS
 features: []
-genres: []
+first_released_as_single: false
 key: what-s-it-to-you-clay-walker
 lyrics_url: https://genius.com/Clay-walker-whats-it-to-you-lyrics
 name: What's It To You
@@ -67,6 +70,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1994-01-15'
+release_year: 1993
+runtime: 166626
 ---
 What's that
 I hear angels singin'

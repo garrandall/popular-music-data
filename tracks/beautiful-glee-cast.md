@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music, Volume 3 Showstoppers'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:2b1f2Z5rpQUYKOyrOd770k
 features: []
-genres: []
+first_released_as_single: false
 key: beautiful-glee-cast
 lyrics_url: https://genius.com/Glee-cast-beautiful-lyrics
 name: Beautiful
@@ -11,6 +14,8 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '2010-05-15'
+release_year: 2010
+runtime: 239466
 ---
 Every day is so wonderful
 And suddenly it's hard to breathe

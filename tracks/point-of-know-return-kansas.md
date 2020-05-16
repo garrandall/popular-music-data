@@ -1,8 +1,11 @@
 ---
+album: Point Of Know Return
 artists:
 - Kansas
+external_ids:
+  spotify: spotify:track:0YoAVHXeEPPzZxK0xPQqYn
 features: []
-genres: []
+first_released_as_single: false
 key: point-of-know-return-kansas
 lyrics_url: https://www.azlyrics.com/lyrics/kansas/pointofknowreturn.html
 name: Point Of Know Return
@@ -63,8 +66,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1978-02-11'
+release_year: 1977
+runtime: 190760
 ---
-
 I heard the men saying something
 The captains tell they pay you well
 And they say they need sailing men to
@@ -90,6 +94,3 @@ It said that when you could see it
 You cried with fear, the Point was near
 Was it you that said, "How long, how long
 To the Point of Know Return?"
-
-
-

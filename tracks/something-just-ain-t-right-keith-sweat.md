@@ -1,8 +1,11 @@
 ---
+album: Make It Last Forever
 artists:
 - Keith Sweat
+external_ids:
+  spotify: spotify:track:4TxvzjFdknSCL9udR39Q3X
 features: []
-genres: []
+first_released_as_single: false
 key: something-just-ain-t-right-keith-sweat
 lyrics_url: https://genius.com/Keith-sweat-something-just-aint-right-lyrics
 name: Something Just Ain't Right
@@ -27,6 +30,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1988-06-11'
+release_year: 1987
+runtime: 315200
 ---
 Tossin', turnin', girl
 I just can't sleep at night

@@ -1,8 +1,11 @@
 ---
+album: Can't Be Tamed
 artists:
 - Miley Cyrus
+external_ids:
+  spotify: spotify:track:2r6DdaSbkbwoPzuK6NjLPn
 features: []
-genres: []
+first_released_as_single: false
 key: can-t-be-tamed-miley-cyrus
 lyrics_url: https://genius.com/Miley-cyrus-cant-be-tamed-lyrics
 name: Can't Be Tamed
@@ -47,6 +50,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2010-08-07'
+release_year: 2010
+runtime: 168213
 ---
 Rock Mafia
 

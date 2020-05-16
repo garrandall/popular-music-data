@@ -1,9 +1,12 @@
 ---
+album: 'Stax-Volt: The Complete Singles 1959-1968'
 artists:
 - Rufus
 - Carla
+external_ids:
+  spotify: spotify:track:47842etv4tqCpMXo3iQ9MQ
 features: []
-genres: []
+first_released_as_single: false
 key: that-s-really-some-good-rufus-carla
 lyrics_url: https://genius.com/Carla-thomas-and-rufus-thomas-thats-really-some-good-lyrics
 name: That's Really Some Good
@@ -16,6 +19,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1964-06-13'
+release_year: 1964
+runtime: 114146
 ---
 Told me that you loved me
 Said that your love was true

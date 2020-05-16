@@ -1,9 +1,12 @@
 ---
+album: The Complete Singles As & Bs 1952-62
 artists:
 - Shirley
 - Lee
+external_ids:
+  spotify: spotify:track:0zDoXPvQE60U7AiIjbqLlz
 features: []
-genres: []
+first_released_as_single: false
 key: well-a-well-a-shirley-lee
 name: Well-A Well-A
 rankings:
@@ -31,5 +34,7 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1961-09-11'
+release_year: 1961
+runtime: 109520
 ---
 

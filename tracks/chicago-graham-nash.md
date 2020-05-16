@@ -1,8 +1,11 @@
 ---
+album: Songs For Beginners
 artists:
 - Graham Nash
+external_ids:
+  spotify: spotify:track:4wBi9ogKThsbFUvVJxjhK2
 features: []
-genres: []
+first_released_as_single: false
 key: chicago-graham-nash
 lyrics_url: https://www.azlyrics.com/lyrics/grahamnash/chicago.html
 name: Chicago
@@ -51,8 +54,9 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1971-08-14'
+release_year: 1971
+runtime: 171440
 ---
-
 So your brother's bound and gagged
 And they've chained him to a chair
 Won't you please come to Chicago just to sing?
@@ -94,6 +98,3 @@ And if you believe in freedom (It's dying)
 Let a man live his own life, yeah (It's dying)
 Rules and regulations, who needs them?
 Open up the door
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: It Just Comes Natural
 artists:
 - George Strait
+external_ids:
+  spotify: spotify:track:7DJBy7gCXi2NkcgoIvPLcG
 features: []
-genres: []
+first_released_as_single: false
 key: how--bout-them-cowgirls-george-strait
 lyrics_url: https://www.azlyrics.com/lyrics/georgestrait/howboutthemcowgirls.html
 name: How 'Bout Them Cowgirls
@@ -87,8 +90,9 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '2008-02-02'
+release_year: 2006
+runtime: 235800
 ---
-
 I felt the rush of the Rio Grande into Yellowstone
 And I've seen first-hand Niagra Falls
 And the lights of Vegas
@@ -130,6 +134,3 @@ And I'll tell you right now girls
 May just be seven wonders of this big, old round world
 But how 'bout them cowgirls
 How 'bout them boys
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Angel Dust
 artists:
 - Faith No More
+external_ids:
+  spotify: spotify:track:4Y3WqmBWmG23thvU9xEhMv
 features: []
-genres: []
+first_released_as_single: false
 key: easy-faith-no-more
 lyrics_url: https://genius.com/Faith-no-more-easy-lyrics
 name: Easy
@@ -39,6 +42,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1993-05-08'
+release_year: 1992
+runtime: 186960
 ---
 Know it sounds funny, but I just can't stand the pain
 Girl, I'm leaving you tomorrow

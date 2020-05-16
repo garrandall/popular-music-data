@@ -1,8 +1,11 @@
 ---
+album: Crash! Boom! Bang! (Extended Version)
 artists:
 - Roxette
+external_ids:
+  spotify: spotify:track:5AKBbv9A9jfPce0KkH27Cd
 features: []
-genres: []
+first_released_as_single: false
 key: almost-unreal-roxette
 lyrics_url: https://www.azlyrics.com/lyrics/roxette/almostunreal.html
 name: Almost Unreal
@@ -15,8 +18,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1993-06-26'
+release_year: 1993
+runtime: 234813
 ---
-
 Babe, come in from the cold and put that coat to rest. 
 Step inside, take a deep breath, and do what you do best. 
 Yes, kick off them shoes and leave those city streets. 
@@ -47,6 +51,3 @@ The way that you touch, you've got the power to heal.
 You give me that look, it's almost unreal. It's almost unreal, yea. 
 
 It's almost unreal. Do the hocus pocus to me. Do the hocus pocus...
-
-
-

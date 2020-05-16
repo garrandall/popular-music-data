@@ -1,8 +1,11 @@
 ---
+album: This Is Darin
 artists:
 - Bobby Darin
+external_ids:
+  spotify: spotify:track:1KMmccrzgzvGbIAdKBQBjb
 features: []
-genres: []
+first_released_as_single: false
 key: clementine-bobby-darin
 lyrics_url: https://www.azlyrics.com/lyrics/bobbydarin/clementine.html
 name: Clementine
@@ -43,8 +46,9 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1960-05-16'
+release_year: 1960
+runtime: 193079
 ---
-
 In a cavern down by a canyon
 Excavatin' for a mine
 There lived a miner from North Carolina
@@ -85,6 +89,3 @@ You're not forgotten
 Fare thee well
 So long, Clementine
 (Bubble sound) Bye!
-
-
-

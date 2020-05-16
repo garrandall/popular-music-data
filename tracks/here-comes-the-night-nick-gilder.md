@@ -1,8 +1,11 @@
 ---
+album: Lost Hits Of The 70's
 artists:
 - Nick Gilder
+external_ids:
+  spotify: spotify:track:5AtDEJRIito6MNbSehBGZZ
 features: []
-genres: []
+first_released_as_single: false
 key: here-comes-the-night-nick-gilder
 lyrics_url: https://genius.com/Nick-gilder-here-comes-the-night-lyrics
 name: Here Comes The Night
@@ -39,6 +42,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1978-12-16'
+release_year: 1978
+runtime: 184826
 ---
 After dark the shadow people walk
 It's another world

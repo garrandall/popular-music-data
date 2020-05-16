@@ -1,8 +1,11 @@
 ---
+album: Life Is A Dance
 artists:
 - Chaka Khan
+external_ids:
+  spotify: spotify:track:3nO6YRA3bRBoYEY8LbsAJe
 features: []
-genres: []
+first_released_as_single: false
 key: ain-t-nobody-chaka-khan
 lyrics_url: https://genius.com/Chaka-khan-aint-nobody-45-version-lyrics
 name: Ain't Nobody
@@ -83,6 +86,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1984-02-04'
+release_year: 1983
+runtime: 263973
 ---
 Captured effortlessly
 That's the way it was

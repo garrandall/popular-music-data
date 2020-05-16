@@ -1,8 +1,11 @@
 ---
+album: 'Restless: The Columbia Recordings'
 artists:
 - Carl Perkins
+external_ids:
+  spotify: spotify:track:70UxQw6ogrdFyUSELQlRGD
 features: []
-genres: []
+first_released_as_single: false
 key: pointed-toe-shoes-carl-perkins
 lyrics_url: https://genius.com/Carl-perkins-pointed-toe-shoes-lyrics
 name: Pointed Toe Shoes
@@ -15,6 +18,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1959-06-08'
+release_year: 1956
+runtime: 119533
 ---
 Well there's a
 Brand new style going round

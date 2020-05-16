@@ -1,8 +1,11 @@
 ---
+album: Still Feels Good
 artists:
 - Rascal Flatts
+external_ids:
+  spotify: spotify:track:50MHFGCJITQy3LhZam6Mm6
 features: []
-genres: []
+first_released_as_single: false
 key: every-day-rascal-flatts
 lyrics_url: https://www.azlyrics.com/lyrics/rascalflatts/everyday.html
 name: Every Day
@@ -75,8 +78,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2008-07-19'
+release_year: 2007
+runtime: 254213
 ---
-
 You could've bowed out gracefully
 But you didn't
 You knew enough to know
@@ -119,6 +123,3 @@ Every day
 Every, every, every day-
 
 Every day you save my life
-
-
-

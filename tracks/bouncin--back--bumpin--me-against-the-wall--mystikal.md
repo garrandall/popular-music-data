@@ -1,8 +1,11 @@
 ---
+album: Tarantula
 artists:
 - Mystikal
+external_ids:
+  spotify: spotify:track:7LdaPYlRo4pq6CBt44To2H
 features: []
-genres: []
+first_released_as_single: false
 key: bouncin--back--bumpin--me-against-the-wall--mystikal
 lyrics_url: https://genius.com/Mystikal-bouncin-back-bumpin-me-against-the-wall-lyrics
 name: Bouncin' Back (Bumpin' Me Against The Wall)
@@ -87,6 +90,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2002-04-27'
+release_year: 2001
+runtime: 259546
 ---
 You keep bumping me against the wall
 Yeah I know I let you slide before

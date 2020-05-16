@@ -1,8 +1,11 @@
 ---
+album: You Were On My Mind
 artists:
 - We Five
+external_ids:
+  spotify: spotify:track:36ckFm0oicmvX8bWEErIHd
 features: []
-genres: []
+first_released_as_single: false
 key: you-were-on-my-mind-we-five
 lyrics_url: https://genius.com/We-five-you-were-on-my-mind-lyrics
 name: You Were On My Mind
@@ -67,6 +70,8 @@ rankings:
   rank: 31
   ranking_list: Billboard Hot 100
   start_date: '1965-10-30'
+release_year: 1965
+runtime: 155960
 ---
 When I woke up this morning
 You were on my mind

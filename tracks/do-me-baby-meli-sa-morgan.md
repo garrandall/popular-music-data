@@ -1,8 +1,11 @@
 ---
+album: Do Me Baby
 artists:
 - Meli'sa Morgan
+external_ids:
+  spotify: spotify:track:77Fs4XIB6489MG4cpNwBms
 features: []
-genres: []
+first_released_as_single: false
 key: do-me-baby-meli-sa-morgan
 lyrics_url: https://genius.com/Melisa-morgan-do-me-baby-lyrics
 name: Do Me Baby
@@ -63,6 +66,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1986-04-26'
+release_year: 1986
+runtime: 317400
 ---
 Here we are in this big old empty room
 Staring each other down

@@ -1,8 +1,11 @@
 ---
+album: Ripcord
 artists:
 - Keith Urban
+external_ids:
+  spotify: spotify:track:6wycnu8FWXsj68ig7BEot9
 features: []
-genres: []
+first_released_as_single: false
 key: blue-ain-t-your-color-keith-urban
 lyrics_url: https://genius.com/Keith-urban-blue-aint-your-color-lyrics
 name: Blue Ain't Your Color
@@ -91,6 +94,8 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '2017-02-18'
+release_year: 2016
+runtime: 230600
 ---
 I can...
 See you over there starin' at your drink

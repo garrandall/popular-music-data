@@ -1,9 +1,12 @@
 ---
+album: Looking for the Perfect Beat 1980 -1985
 artists:
 - Afrika Bambaataa
 - The Soul Sonic Force
+external_ids:
+  spotify: spotify:track:6hUUmluBMJ3JjKfDapUQPJ
 features: []
-genres: []
+first_released_as_single: false
 key: planet-rock-afrika-bambaataa-the-soul-sonic-force
 lyrics_url: https://genius.com/Afrika-bambaataa-and-soulsonic-force-planet-rock-lyrics
 name: Planet Rock
@@ -52,6 +55,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1982-09-25'
+release_year: 1982
+runtime: 382893
 ---
 Party people
 Party people

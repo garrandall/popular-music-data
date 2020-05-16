@@ -1,8 +1,11 @@
 ---
+album: The Impossible Dream
 artists:
 - Jerry Vale
+external_ids:
+  spotify: spotify:track:5rPsl4F1yGaQYqrJqyBK6S
 features: []
-genres: []
+first_released_as_single: false
 key: dommage-dommage--too-bad-too-bad--jerry-vale
 lyrics_url: https://www.musixmatch.com/lyrics/Jerry-Vale/Dommage-Dommage-Too-Bad-Too-Bad
 name: Dommage Dommage (Too Bad Too Bad)
@@ -15,6 +18,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1966-10-15'
+release_year: 1966
+runtime: 175693
 ---
 Dommage, Dommage
 Our love was once exciting

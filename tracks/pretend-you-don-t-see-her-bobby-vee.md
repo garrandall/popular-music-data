@@ -1,8 +1,11 @@
 ---
+album: Bobby Vee's Golden Greats (Vol. 2)
 artists:
 - Bobby Vee
+external_ids:
+  spotify: spotify:track:2LlLifYZDCgja2m1uuFZRi
 features: []
-genres: []
+first_released_as_single: false
 key: pretend-you-don-t-see-her-bobby-vee
 lyrics_url: https://www.musixmatch.com/lyrics/Bobby-Vee/Pretend-You-Don-t-See-Her
 name: Pretend You Don't See Her
@@ -11,6 +14,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1964-12-05'
+release_year: 1964
+runtime: 141600
 ---
 Look somewhere above her
 Pretend you don't love her

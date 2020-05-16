@@ -1,8 +1,11 @@
 ---
+album: BBC In Concert
 artists:
 - Culture Club
+external_ids:
+  spotify: spotify:track:4c3Xgk7dPAqce5zhwNhiFs
 features: []
-genres: []
+first_released_as_single: false
 key: do-you-really-want-to-hurt-me-culture-club
 lyrics_url: https://genius.com/Culture-club-do-you-really-want-to-hurt-me-lyrics
 name: Do You Really Want To Hurt Me
@@ -107,6 +110,8 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '1983-05-21'
+release_year: 1982
+runtime: 276853
 ---
 Give me time to realize my crime
 Let me love and steal

@@ -1,8 +1,11 @@
 ---
+album: Pastel Blues
 artists:
 - Nina Simone
+external_ids:
+  spotify: spotify:track:5yMRZqh2HCo5NFbLNt6sD1
 features: []
-genres: []
+first_released_as_single: false
 key: nobody-knows-you-when-you-re-down-and-out-nina-simone
 lyrics_url: https://genius.com/Nina-simone-nobody-knows-you-when-youre-down-and-out-lyrics
 name: Nobody Knows You When You're Down And Out
@@ -15,6 +18,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1960-09-12'
+release_year: 1960
+runtime: 158200
 ---
 Well once I lived the life of a millionaire
 Spending my money, I didn't care

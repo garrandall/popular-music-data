@@ -1,9 +1,12 @@
 ---
+album: GEMINI
 artists:
 - Macklemore
+external_ids:
+  spotify: spotify:track:0CokSRCu5hZgPxcZBaEzVE
 features:
 - Skylar Grey
-genres: []
+first_released_as_single: false
 key: glorious-macklemore-skylar-grey
 lyrics_url: https://www.azlyrics.com/lyrics/macklemore/glorious.html
 name: Glorious
@@ -84,9 +87,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2017-12-09'
+release_year: 2017
+runtime: 220454
 ---
-
-
 You know I'm back like I never left
 Another sprint, another step
 Another day, another breath
@@ -159,6 +162,3 @@ I made it through the darkest part of the night
 And now I see the sunrise
 Now I feel glorious, glorious
 I feel glorious, glorious
-
-
-

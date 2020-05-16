@@ -1,8 +1,11 @@
 ---
+album: A Hard Day's Night
 artists:
 - The Beatles
+external_ids:
+  spotify: spotify:track:3SdingSsFcZDZAyvcJbgAw
 features: []
-genres: []
+first_released_as_single: false
 key: can-t-buy-me-love-the-beatles
 lyrics_url: https://genius.com/The-beatles-cant-buy-me-love-lyrics
 name: Can't Buy Me Love
@@ -47,6 +50,8 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '1964-05-30'
+release_year: 1964
+runtime: 131866
 ---
 Can't buy me love, love
 Can't buy me love

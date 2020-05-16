@@ -1,8 +1,11 @@
 ---
+album: Dancing Machine
 artists:
 - Jackson 5
+external_ids:
+  spotify: spotify:track:5qX9m9p4ON9ca069Iuusmd
 features: []
-genres: []
+first_released_as_single: false
 key: i-am-love--parts-i---ii--jackson-5
 lyrics_url: https://genius.com/The-jackson-5-i-am-love-lyrics
 name: I Am Love (Parts I & II)
@@ -63,6 +66,8 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1975-04-19'
+release_year: 1974
+runtime: 447000
 ---
 The eyes of love will watch you
 As you go from day to day

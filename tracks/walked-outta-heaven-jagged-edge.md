@@ -1,8 +1,11 @@
 ---
+album: Hard
 artists:
 - Jagged Edge
+external_ids:
+  spotify: spotify:track:5rmpwYB5pi5AwCL6JJknBP
 features: []
-genres: []
+first_released_as_single: true
 key: walked-outta-heaven-jagged-edge
 lyrics_url: https://www.azlyrics.com/lyrics/jaggededge/walkedouttaheaven.html
 name: Walked Outta Heaven
@@ -115,9 +118,9 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '2004-03-06'
+release_year: 2003
+runtime: 271840
 ---
-
-
 I'm rolling down a lonely highway asking god to please forgive me for messing up the blessing he gave to me, I see,
 Everything clearer now the nights is black as, black as its ever been
 Without my girl, I'm gonna lose it, I pray that he would just shed his grace on me, I need just to be back with my baby
@@ -147,4 +150,3 @@ Walked outta heaven
 
 
 If u ever loved somebody, and if you ever had somebody, but you know that you hurt that somebody, let me here you say yea
-

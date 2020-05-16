@@ -1,8 +1,11 @@
 ---
+album: Double Vision (Expanded)
 artists:
 - Foreigner
+external_ids:
+  spotify: spotify:track:0fsj3HxzBHev6EJ7OLFE3r
 features: []
-genres: []
+first_released_as_single: false
 key: double-vision-foreigner
 lyrics_url: https://www.azlyrics.com/lyrics/foreigner/doublevision.html
 name: Double Vision
@@ -87,8 +90,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1979-02-03'
+release_year: 1978
+runtime: 224533
 ---
-
 Feelin' down and dirty, feelin' kind of mean
 I've been from one to another extreme
 It's time I had a good time, ain't got time to wait
@@ -114,6 +118,3 @@ It takes me out of my head, takin' me out of my head
 I get my double vision
 Oh, seeing double double
 Oh, I have double vision, yeah, I'm getting double vision
-
-
-

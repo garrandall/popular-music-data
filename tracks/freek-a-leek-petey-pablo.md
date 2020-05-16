@@ -1,8 +1,11 @@
 ---
+album: 'Still Writing In My Diary: 2nd Entry'
 artists:
 - Petey Pablo
+external_ids:
+  spotify: spotify:track:4jwxhMHEUQSNHeCb6UjlFo
 features: []
-genres: []
+first_released_as_single: true
 key: freek-a-leek-petey-pablo
 lyrics_url: https://genius.com/Petey-pablo-freek-a-leek-lyrics
 name: Freek-A-Leek
@@ -163,6 +166,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2004-09-25'
+release_year: 2003
+runtime: 235893
 ---
 Let's take some calls from the request line
 Caller number 1

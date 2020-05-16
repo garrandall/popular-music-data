@@ -1,8 +1,11 @@
 ---
+album: 51/50 Ratchet
 artists:
 - Hurricane Chris
+external_ids:
+  spotify: spotify:track:506bOFNFuPf2Pjajcy8BFc
 features: []
-genres: []
+first_released_as_single: false
 key: a-bay-bay-hurricane-chris
 lyrics_url: https://www.azlyrics.com/lyrics/hurricanechris/abaybay.html
 name: A Bay Bay
@@ -87,9 +90,9 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '2007-11-03'
+release_year: 2007
+runtime: 153013
 ---
-
-
 Dis baby doin' everybody say A Bay Bay
 
 
@@ -180,6 +183,3 @@ And put the keys in the wrong car
 
 
 A Bay Bay let it play that's my song turn it up hey
-
-
-

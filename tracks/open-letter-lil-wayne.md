@@ -1,8 +1,11 @@
 ---
+album: Tha Carter V
 artists:
 - Lil Wayne
+external_ids:
+  spotify: spotify:track:02H5FULgDjEaLpSuiiNHth
 features: []
-genres: []
+first_released_as_single: false
 key: open-letter-lil-wayne
 lyrics_url: https://genius.com/Lil-wayne-open-letter-lyrics
 name: Open Letter
@@ -11,6 +14,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '2018-10-13'
+release_year: 2018
+runtime: 269286
 ---
 Ah-em
 

@@ -1,8 +1,11 @@
 ---
+album: The Definitive Jackie Wilson
 artists:
 - Jackie Wilson
+external_ids:
+  spotify: spotify:track:1T1ASwPM4XeKXIkCzel9WW
 features: []
-genres: []
+first_released_as_single: false
 key: for-once-in-my-life-jackie-wilson
 lyrics_url: https://genius.com/Jackie-wilson-for-once-in-my-life-lyrics
 name: For Once In My Life
@@ -19,6 +22,8 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1968-11-16'
+release_year: 1968
+runtime: 191280
 ---
 For once in my life
 I have someone who needs me

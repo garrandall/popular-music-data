@@ -1,8 +1,11 @@
 ---
+album: Push And Shove
 artists:
 - No Doubt
+external_ids:
+  spotify: spotify:track:2l8GVqxJbVOBfYNSkwn5xA
 features: []
-genres: []
+first_released_as_single: false
 key: settle-down-no-doubt
 lyrics_url: https://genius.com/No-doubt-settle-down-lyrics
 name: Settle Down
@@ -39,6 +42,8 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '2012-09-22'
+release_year: 2012
+runtime: 360866
 ---
 Get get get in line, and settle down
 Get in line, and settle down

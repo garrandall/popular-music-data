@@ -1,8 +1,11 @@
 ---
+album: Baduizm
 artists:
 - Erykah Badu
+external_ids:
+  spotify: spotify:track:0tNuJpBgtE65diL6Q8Q7fI
 features: []
-genres: []
+first_released_as_single: false
 key: on---on-erykah-badu
 lyrics_url: https://www.musixmatch.com/lyrics/Erykah-Badu/On-and-On
 name: On & On
@@ -83,6 +86,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1997-05-31'
+release_year: 1997
+runtime: 226133
 ---
 Oh my my my
 I'm feeling high

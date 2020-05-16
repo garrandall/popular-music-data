@@ -1,8 +1,11 @@
 ---
+album: In the Pocket
 artists:
 - James Taylor
+external_ids:
+  spotify: spotify:track:0RJ6CvfsnjMK3v4KK4Y6fo
 features: []
-genres: []
+first_released_as_single: false
 key: shower-the-people-james-taylor
 lyrics_url: https://genius.com/James-taylor-shower-the-people-lyrics
 name: Shower The People
@@ -71,6 +74,8 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1976-10-16'
+release_year: 1976
+runtime: 271706
 ---
 You can play the game and you can act out the part
 Though you know it wasn't written for you

@@ -1,8 +1,11 @@
 ---
+album: Little Bit Of Life
 artists:
 - Craig Morgan
+external_ids:
+  spotify: spotify:track:6v7fitqxmK10n5bQS2AqpA
 features: []
-genres: []
+first_released_as_single: false
 key: tough-craig-morgan
 lyrics_url: https://www.azlyrics.com/lyrics/craigmorgan/tough.html
 name: Tough
@@ -39,8 +42,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2007-09-08'
+release_year: 2006
+runtime: 195906
 ---
-
 She's in the kitchen at the crack of dawn
 Bacon's on, coffee's strong
 Kids running wild, taking off their clothes
@@ -86,6 +90,3 @@ But in my eyes, she'll always be strong
 There was a time
 Back before she was mine
 When I thought I was tough
-
-
-

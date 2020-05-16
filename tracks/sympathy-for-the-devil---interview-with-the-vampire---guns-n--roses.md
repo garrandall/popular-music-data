@@ -1,8 +1,11 @@
 ---
+album: Greatest Hits
 artists:
 - Guns N' Roses
+external_ids:
+  spotify: spotify:track:02UGiF5MKosDZ1gp91oxgT
 features: []
-genres: []
+first_released_as_single: false
 key: sympathy-for-the-devil---interview-with-the-vampire---guns-n--roses
 lyrics_url: https://www.azlyrics.com/lyrics/gunsnroses/sympathyforthedevil.html
 name: Sympathy For The Devil ("Interview With The Vampire")
@@ -39,6 +42,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1995-02-18'
+release_year: 1994
+runtime: 455560
 ---
 Please allow me to introduce myself
 I'm a man of wealth and taste

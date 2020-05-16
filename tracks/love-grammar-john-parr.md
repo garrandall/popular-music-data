@@ -1,8 +1,11 @@
 ---
+album: John Parr
 artists:
 - John Parr
+external_ids:
+  spotify: spotify:track:3AMhyjMUzPW5IGDv467Vba
 features: []
-genres: []
+first_released_as_single: false
 key: love-grammar-john-parr
 lyrics_url: https://genius.com/John-parr-love-grammar-lyrics
 name: Love Grammar
@@ -15,6 +18,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1985-11-23'
+release_year: 1984
+runtime: 255346
 ---
 You wanna shake my hand, say there's no hard feelings
 But there's another lie between the lines I'm reading

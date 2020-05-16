@@ -1,8 +1,11 @@
 ---
+album: Christopher Cross
 artists:
 - Christopher Cross
+external_ids:
+  spotify: spotify:track:7ys2QcBgHEIO6tyaRF2nOt
 features: []
-genres: []
+first_released_as_single: false
 key: say-you-ll-be-mine-christopher-cross
 lyrics_url: https://genius.com/Christopher-cross-say-youll-be-mine-lyrics
 name: Say You'll Be Mine
@@ -63,6 +66,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1981-06-27'
+release_year: 1979
+runtime: 176493
 ---
 Say you'll be mine
 Say you'll be mine until the sun shines

@@ -1,8 +1,11 @@
 ---
+album: Goodnight My Love
 artists:
 - Paul Anka
+external_ids:
+  spotify: spotify:track:60POG8q3enwJXhMROCrrxm
 features: []
-genres: []
+first_released_as_single: false
 key: goodnight-my-love-paul-anka
 lyrics_url: https://www.azlyrics.com/lyrics/paulanka/goodnightmylove.html
 name: Goodnight My Love
@@ -47,8 +50,9 @@ rankings:
   rank: 33
   ranking_list: Billboard Hot 100
   start_date: '1969-03-08'
+release_year: 1969
+runtime: 198653
 ---
-
 Goodnight, my love (wah-oh)
 Pleasant dreams and sleep tight, my love
 May tomorrow be sunny and bright
@@ -83,8 +87,3 @@ Goodnight, my love
 Goodnight, my love
 (wah-oh, wah-oh)
 Sleep tight, my love
-
-
-
-
-

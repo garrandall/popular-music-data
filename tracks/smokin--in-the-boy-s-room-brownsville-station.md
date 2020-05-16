@@ -1,8 +1,11 @@
 ---
+album: Yeah! (US Internet Release)
 artists:
 - Brownsville Station
+external_ids:
+  spotify: spotify:track:1AIGp3gpj1NXJvh3engmUQ
 features: []
-genres: []
+first_released_as_single: false
 key: smokin--in-the-boy-s-room-brownsville-station
 lyrics_url: https://www.azlyrics.com/lyrics/brownsvillestation/smokinintheboysroom.html
 name: Smokin' In The Boy's Room
@@ -83,8 +86,9 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '1974-03-02'
+release_year: 1973
+runtime: 176453
 ---
-
 How you doin' out there? Ya ever seem to have one of those days
 Where it just seems like everybody's gettin' on your case?
 From your teacher all the way down to your best girlfriend?
@@ -131,6 +135,3 @@ Smokin' in the boys' room
 Smokin' in the boys' room
 Now, teacher, I am fully aware of the rules
 And everybody knows that smokin' ain't allowed in school!
-
-
-

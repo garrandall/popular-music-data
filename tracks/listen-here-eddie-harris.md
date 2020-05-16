@@ -1,8 +1,11 @@
 ---
+album: High Voltage
 artists:
 - Eddie Harris
+external_ids:
+  spotify: spotify:track:54cxEkH90CHuDMe3dfiWOl
 features: []
-genres: []
+first_released_as_single: false
 key: listen-here-eddie-harris
 lyrics_url: https://genius.com/Eddie-harris-listen-here-lyrics
 name: Listen Here
@@ -59,5 +62,7 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '1968-10-12'
+release_year: 1968
+runtime: 226800
 ---
 ♫ ♫ ♫

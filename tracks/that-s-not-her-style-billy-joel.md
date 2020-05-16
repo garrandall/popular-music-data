@@ -1,8 +1,11 @@
 ---
+album: Storm Front
 artists:
 - Billy Joel
+external_ids:
+  spotify: spotify:track:7EXagPENSPw79YAz500A6A
 features: []
-genres: []
+first_released_as_single: false
 key: that-s-not-her-style-billy-joel
 lyrics_url: https://www.azlyrics.com/lyrics/billyjoel/thatsnotherstyle.html
 name: That's Not Her Style
@@ -31,8 +34,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1990-09-08'
+release_year: 1989
+runtime: 308000
 ---
-
 Some people think that she's one of those mink-coated ladies
 They say she wakes up at one
 And she makes the paparazzi run till dawn
@@ -76,6 +80,3 @@ You know it's not her style I can tell you
 That ain't my woman
 It's just not her style I can tell you
 Because I'm her man
-
-
-

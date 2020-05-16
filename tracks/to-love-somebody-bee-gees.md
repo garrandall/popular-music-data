@@ -1,8 +1,11 @@
 ---
+album: Bee Gees' 1st
 artists:
 - Bee Gees
+external_ids:
+  spotify: spotify:track:0mbS3VwRbO6HVBMPXnzOGA
 features: []
-genres: []
+first_released_as_single: false
 key: to-love-somebody-bee-gees
 lyrics_url: https://genius.com/Bee-gees-to-love-somebody-lyrics
 name: To Love Somebody
@@ -43,6 +46,8 @@ rankings:
   rank: 37
   ranking_list: Billboard Hot 100
   start_date: '1967-09-09'
+release_year: 1967
+runtime: 182000
 ---
 There's a light
 A certain kind of light

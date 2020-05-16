@@ -1,8 +1,11 @@
 ---
+album: DS2
 artists:
 - Future
+external_ids:
+  spotify: spotify:track:0PVqJaGVQAHeKHbArbfETr
 features: []
-genres: []
+first_released_as_single: false
 key: rich--ex-future
 lyrics_url: https://www.azlyrics.com/lyrics/future/richex.html
 name: Rich $ex
@@ -11,6 +14,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2015-12-12'
+release_year: 2015
+runtime: 240459
 ---
 I got my diamonds on
 You got your diamonds on

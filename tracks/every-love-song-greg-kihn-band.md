@@ -1,8 +1,11 @@
 ---
+album: Kihntinued
 artists:
 - Greg Kihn Band
+external_ids:
+  spotify: spotify:track:1SxpnBQepO5PSD51EfoO3m
 features: []
-genres: []
+first_released_as_single: false
 key: every-love-song-greg-kihn-band
 lyrics_url: https://www.azlyrics.com/lyrics/gregkihnband/everylovesong.html
 name: Every Love Song
@@ -15,8 +18,9 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1982-07-24'
+release_year: 1982
+runtime: 260373
 ---
-
 Now we aren't strangers but we never met
 Once I got some I want all I can get
 What can I say now you already know
@@ -66,6 +70,3 @@ Every love song (Every love song)
 Is going to be for us tonight
 
 Comeon baby
-
-
-

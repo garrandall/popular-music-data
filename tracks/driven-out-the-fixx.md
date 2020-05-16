@@ -1,8 +1,11 @@
 ---
+album: Then and Now
 artists:
 - The Fixx
+external_ids:
+  spotify: spotify:track:0lT3Q3GFZQCzyiwFEam4TG
 features: []
-genres: []
+first_released_as_single: false
 key: driven-out-the-fixx
 lyrics_url: https://www.azlyrics.com/lyrics/fixx/drivenout.html
 name: Driven Out
@@ -47,8 +50,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1989-04-29'
+release_year: 1989
+runtime: 239400
 ---
-
 Driven out by thieves,
 I watch them pillage the planet
 Fueled by a fattening greed,
@@ -114,6 +118,3 @@ Holding out
 With the strength to rival you
 Rival you
 Rival...
-
-
-

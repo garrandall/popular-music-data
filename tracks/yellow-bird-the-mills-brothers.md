@@ -1,8 +1,11 @@
 ---
+album: 'The Anthology: 1931 - 1968'
 artists:
 - The Mills Brothers
+external_ids:
+  spotify: spotify:track:0OLGkKuCuMBu2pFGgsMllA
 features: []
-genres: []
+first_released_as_single: false
 key: yellow-bird-the-mills-brothers
 lyrics_url: https://genius.com/The-mills-brothers-yellow-bird-lyrics
 name: Yellow Bird
@@ -27,6 +30,8 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1959-02-02'
+release_year: 1959
+runtime: 155293
 ---
 Pd... Musik Haiti: Michel Mauleart Monton ℗1893
 Lyrik: Oswald Durand's Poem:"Choucoune" ℗1883...Pd

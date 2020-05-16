@@ -1,8 +1,11 @@
 ---
+album: Another Night
 artists:
 - The Hollies
+external_ids:
+  spotify: spotify:track:0UPFDzGkup4r8sAk0AwsAX
 features: []
-genres: []
+first_released_as_single: false
 key: another-night-the-hollies
 lyrics_url: https://www.azlyrics.com/lyrics/hollies/anothernight.html
 name: Another Night
@@ -19,8 +22,9 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '1975-07-12'
+release_year: 1967
+runtime: 226093
 ---
-
 Out on the town kicking around feeling bluesy
 It's getting late I can't afford to be choosy
 Should be home and dry by now
@@ -47,4 +51,3 @@ So leave me to catch my ride pay my fare on my way home
 The same thing every week on my own
 Next time around you might be there
 My luck might change but until then
-

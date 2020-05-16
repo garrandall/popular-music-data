@@ -1,8 +1,11 @@
 ---
+album: Between the Lines
 artists:
 - Janis Ian
+external_ids:
+  spotify: spotify:track:7wJpqjqk8QbHpCakY1ZacY
 features: []
-genres: []
+first_released_as_single: false
 key: at-seventeen-janis-ian
 lyrics_url: https://www.azlyrics.com/lyrics/janisian/atseventeen.html
 name: At Seventeen
@@ -87,8 +90,9 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1975-10-25'
+release_year: 1975
+runtime: 283880
 ---
-
 I learned the truth at seventeen
 That love was meant for beauty queens
 And high school girls with clear skinned smiles
@@ -142,6 +146,3 @@ That call and say, come dance with me
 And murmur vague obscenities
 At ugly girls like me
 At seventeen
-
-
-

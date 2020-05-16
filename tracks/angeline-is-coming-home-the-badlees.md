@@ -1,8 +1,11 @@
 ---
+album: River Songs
 artists:
 - The Badlees
+external_ids:
+  spotify: spotify:track:6hGOWkVXQeup4L3X52bSWg
 features: []
-genres: []
+first_released_as_single: false
 key: angeline-is-coming-home-the-badlees
 lyrics_url: https://genius.com/The-badlees-angeline-is-coming-home-lyrics
 name: Angeline Is Coming Home
@@ -51,6 +54,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1996-09-14'
+release_year: 1995
+runtime: 249226
 ---
 Her parents' house exudes a reborn air
 The bathtub virgins in the midnight air

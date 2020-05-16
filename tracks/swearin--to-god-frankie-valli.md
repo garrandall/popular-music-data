@@ -1,8 +1,11 @@
 ---
+album: Closeup
 artists:
 - Frankie Valli
+external_ids:
+  spotify: spotify:track:0acb2keXDYa5HA2n7pYhk6
 features: []
-genres: []
+first_released_as_single: false
 key: swearin--to-god-frankie-valli
 lyrics_url: https://www.azlyrics.com/lyrics/frankievalli/swearintogod.html
 name: Swearin' To God
@@ -63,8 +66,9 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '1975-08-16'
+release_year: 1975
+runtime: 631213
 ---
-
 (Oh) swearin' to God
 There's no one else on earth I'd rather be
 Mmm... swearin' to God
@@ -111,6 +115,3 @@ Look what he's givin' me (swearin' to God)
 More than the world can see (swearin' to God)
 He's givin' me you... oh
 (I love you)
-
-
-

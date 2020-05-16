@@ -1,8 +1,11 @@
 ---
+album: Barry
 artists:
 - Barry Manilow
+external_ids:
+  spotify: spotify:track:08SNOFwQ3eb2679JfVurZT
 features: []
-genres: []
+first_released_as_single: false
 key: i-made-it-through-the-rain-barry-manilow
 lyrics_url: https://www.azlyrics.com/lyrics/barrymanilow/imadeitthroughtherain.html
 name: I Made It Through The Rain
@@ -71,8 +74,9 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1981-03-07'
+release_year: 1973
+runtime: 266466
 ---
-
 We dreamers have our ways
 Of facing rainy days
 And somehow we survive
@@ -124,6 +128,3 @@ Got rained on too
 And made it through
 And made it through
 I made it through
-
-
-

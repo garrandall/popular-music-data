@@ -1,9 +1,12 @@
 ---
+album: Shooting Rubberbands At The Stars
 artists:
 - Edie Brickell
 - New Bohemians
+external_ids:
+  spotify: spotify:track:6hHUiDe461VUoTHnsplRYs
 features: []
-genres: []
+first_released_as_single: false
 key: what-i-am-edie-brickell-new-bohemians
 lyrics_url: https://genius.com/Edie-brickell-and-new-bohemians-what-i-am-lyrics
 name: What I Am
@@ -84,6 +87,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1989-04-01'
+release_year: 1988
+runtime: 296360
 ---
 I'm not aware of too many things
 I know what I know, if you know what I mean

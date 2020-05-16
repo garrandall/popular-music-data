@@ -1,10 +1,13 @@
 ---
+album: More Life
 artists:
 - Drake
+external_ids:
+  spotify: spotify:track:2bjwRfXMk4uRgOD9IBYl9h
 features:
 - Quavo
 - Travis Scott
-genres: []
+first_released_as_single: false
 key: portland-drake-quavo-travis-scott
 lyrics_url: https://www.azlyrics.com/lyrics/drake/portland.html
 name: Portland
@@ -73,9 +76,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2017-07-22'
+release_year: 2017
+runtime: 236614
 ---
-
-
 (Murda on the beat, so it's not nice)
 Yeah
 It's a Habibis ting, ya?
@@ -180,6 +183,3 @@ Skrrt skrrt, oh
 Michael Phelps with the swim moves
 Skrrt skrrt, oh
 Michael Jordan with the tennis shoes
-
-
-

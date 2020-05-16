@@ -1,8 +1,11 @@
 ---
+album: Picture Show
 artists:
 - Neon Trees
+external_ids:
+  spotify: spotify:track:2iUmqdfGZcHIhS3b9E9EWq
 features: []
-genres: []
+first_released_as_single: false
 key: everybody-talks-neon-trees
 lyrics_url: https://www.azlyrics.com/lyrics/neontrees/everybodytalks.html
 name: Everybody Talks
@@ -163,8 +166,9 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '2012-12-22'
+release_year: 2012
+runtime: 177280
 ---
-
 Hey, baby, won't you look my way?
 I can be your new addiction
 Hey, baby, what you gotta say?
@@ -226,6 +230,3 @@ And that was when I kissed her (everybody talks, everybody talks)
 
 Everybody talks
 Everybody talks... back
-
-
-

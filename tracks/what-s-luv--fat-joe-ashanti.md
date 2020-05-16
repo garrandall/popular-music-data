@@ -1,9 +1,12 @@
 ---
+album: Jealous Ones Still Envy (J.O.S.E)
 artists:
 - Fat Joe
+external_ids:
+  spotify: spotify:track:2mKouqwAIdQnMP43zxR89r
 features:
 - Ashanti
-genres: []
+first_released_as_single: false
 key: what-s-luv--fat-joe-ashanti
 lyrics_url: https://www.azlyrics.com/lyrics/fatjoe/whatsluv.html
 name: What's Luv?
@@ -120,9 +123,9 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '2002-08-24'
+release_year: 2001
+runtime: 267093
 ---
-
-
 Put the fuckin' mic on
 Mic is on
 Joe Crack the Don uh
@@ -218,4 +221,3 @@ Gonna cut you no slack (Whoo)
 Cause I'm on it like that (Uh, Come On)
 Come on (Yeah, Yeah, Y'All) & put it (Yeah, Yeah, Y'All)
 on me (Put it on ya Girl) on me (I'm put it on ya Girl)
-

@@ -1,8 +1,11 @@
 ---
+album: Going To A Go-Go
 artists:
 - The Miracles
+external_ids:
+  spotify: spotify:track:6QyQmdvQ1ywNccYa0pwLNQ
 features: []
-genres: []
+first_released_as_single: false
 key: the-tracks-of-my-tears-the-miracles
 lyrics_url: https://genius.com/The-miracles-the-tracks-of-my-tears-re-recorded-lyrics
 name: The Tracks Of My Tears
@@ -55,6 +58,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1965-10-02'
+release_year: 1965
+runtime: 174360
 ---
 People say I'm the life of the party
 Because I tell a joke or two

@@ -1,8 +1,11 @@
 ---
+album: You And You Alone
 artists:
 - Randy Travis
+external_ids:
+  spotify: spotify:track:1R1SbRYJsZzvjk5y22BsCV
 features: []
-genres: []
+first_released_as_single: false
 key: spirit-of-a-boy-wisdom-of-a-man-randy-travis
 lyrics_url: https://www.azlyrics.com/lyrics/randytravis/spiritofaboywisdomofaman.html
 name: Spirit Of A Boy Wisdom Of A Man
@@ -63,8 +66,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1999-03-06'
+release_year: 1998
+runtime: 230040
 ---
-
 He was 16, tender and tough.
 She was too, and he'd do anything to prove his love.
 With so much riding on the choice at hand,
@@ -90,6 +94,3 @@ With so much riding on the choice at hand,
 the spirit of a boy, or the wisdom of a man.
 With so much riding on the choice at hand,
 the spirit of a boy, or the wisdom of a man.
-
-
-

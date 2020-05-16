@@ -1,8 +1,11 @@
 ---
+album: Soy el Mismo
 artists:
 - Prince Royce
+external_ids:
+  spotify: spotify:track:0sXtNZgNu5HrxBjyWiBeRt
 features: []
-genres: []
+first_released_as_single: true
 key: darte-un-beso-prince-royce
 lyrics_url: https://genius.com/Prince-royce-darte-un-beso-lyrics
 name: Darte Un Beso
@@ -55,6 +58,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2013-11-30'
+release_year: 2013
+runtime: 252320
 ---
 Amarte como te amo es complicado
 Pensar como te pienso es un pecado

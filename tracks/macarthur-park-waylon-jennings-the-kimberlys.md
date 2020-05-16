@@ -1,9 +1,12 @@
 ---
+album: Country-Folk
 artists:
 - Waylon Jennings
 - The Kimberlys
+external_ids:
+  spotify: spotify:track:5shydVrrErCb4ehi8qLq3X
 features: []
-genres: []
+first_released_as_single: false
 key: macarthur-park-waylon-jennings-the-kimberlys
 lyrics_url: https://genius.com/Waylon-jennings-macarthur-park-lyrics
 name: MacArthur Park
@@ -16,6 +19,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1969-09-13'
+release_year: 1969
+runtime: 309373
 ---
 Spring was never waiting for us girl it ran one step ahead as we followed in the dance
 Between the parted pages and were pressed

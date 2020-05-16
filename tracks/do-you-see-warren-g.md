@@ -1,8 +1,11 @@
 ---
+album: "Regulate\u2026 G Funk Era"
 artists:
 - Warren G
+external_ids:
+  spotify: spotify:track:2e3YoddL43UkaSqhYGqfKz
 features: []
-genres: []
+first_released_as_single: false
 key: do-you-see-warren-g
 lyrics_url: https://genius.com/Warren-g-do-you-see-lyrics
 name: Do You See
@@ -59,6 +62,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1995-02-25'
+release_year: 1994
+runtime: 239066
 ---
 The blues has always been totally American
 As American as apple pie

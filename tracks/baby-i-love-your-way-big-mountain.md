@@ -1,8 +1,11 @@
 ---
+album: Unity
 artists:
 - Big Mountain
+external_ids:
+  spotify: spotify:track:1Rvl8qsKJurfFTyWLBI9ib
 features: []
-genres: []
+first_released_as_single: false
 key: baby-i-love-your-way-big-mountain
 lyrics_url: https://genius.com/Big-mountain-baby-i-love-your-way-lyrics
 name: Baby I Love Your Way
@@ -119,6 +122,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1994-09-03'
+release_year: 1994
+runtime: 249520
 ---
 Ooo, baby, I love your way, everyday
 Ooo, baby, I love your way, everyday

@@ -1,8 +1,11 @@
 ---
+album: Camp Rock
 artists:
 - Joe Jonas
+external_ids:
+  spotify: spotify:track:2oOCYaGkOpOB5HPo15cEGl
 features: []
-genres: []
+first_released_as_single: false
 key: gotta-find-you-joe-jonas
 lyrics_url: https://genius.com/Joe-jonas-gotta-find-you-lyrics
 name: Gotta Find You
@@ -19,6 +22,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '2008-07-19'
+release_year: 2008
+runtime: 241866
 ---
 Every time I think I'm closer to the heart
 Of what it means to know just who I am

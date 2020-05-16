@@ -1,8 +1,11 @@
 ---
+album: No Shoes, No Shirt, No Problems
 artists:
 - Kenny Chesney
+external_ids:
+  spotify: spotify:track:1Hy3tvcg6l5o4codLnOC8f
 features: []
-genres: []
+first_released_as_single: false
 key: a-lot-of-things-different-kenny-chesney
 lyrics_url: https://www.azlyrics.com/lyrics/kennychesney/alotofthingsdifferent.html
 name: A Lot Of Things Different
@@ -67,8 +70,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2003-03-08'
+release_year: 2002
+runtime: 283866
 ---
-
 I'd spend a lot more time in the pouring rain without an umbrella
 Covering my head
 And I'd stood up to that bully when he pushed and called me names
@@ -110,6 +114,3 @@ Oh but I would
 Oh whoa Oh I, I'd done a lot of things different
 Oh I, I'd done a lot of things 
 I think we've all do a lot of things different
-
-
-

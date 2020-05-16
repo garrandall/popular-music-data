@@ -1,8 +1,11 @@
 ---
+album: Here I Stand (The Best Of)
 artists:
 - Wade Flemons
+external_ids:
+  spotify: spotify:track:3KC4PSP9TGhz79XCPYTNoS
 features: []
-genres: []
+first_released_as_single: false
 key: what-s-happening-wade-flemons
 name: What's Happening
 rankings:
@@ -14,5 +17,7 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1960-02-22'
+release_year: 1960
+runtime: 146506
 ---
 

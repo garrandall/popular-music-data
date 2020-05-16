@@ -1,8 +1,11 @@
 ---
+album: Even Stevens
 artists:
 - Ray Stevens
+external_ids:
+  spotify: spotify:track:4oVEqUv3lZ9rdVKKYljGLZ
 features: []
-genres: []
+first_released_as_single: false
 key: unwind-ray-stevens
 lyrics_url: https://genius.com/Ray-stevens-unwind-lyrics
 name: Unwind
@@ -43,6 +46,8 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '1968-06-15'
+release_year: 1968
+runtime: 187613
 ---
 Get up
 Get up

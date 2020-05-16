@@ -1,8 +1,11 @@
 ---
+album: Richard Marx
 artists:
 - Richard Marx
+external_ids:
+  spotify: spotify:track:3F2YXxSOC9dPmxXdrh6mYl
 features: []
-genres: []
+first_released_as_single: false
 key: hold-on-to-the-nights-richard-marx
 lyrics_url: https://genius.com/Richard-marx-hold-on-to-the-nights-lyrics
 name: Hold On To The Nights
@@ -91,6 +94,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1988-10-08'
+release_year: 1987
+runtime: 316040
 ---
 Just when I believed
 I couldn't ever want for more

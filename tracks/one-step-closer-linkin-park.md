@@ -1,8 +1,11 @@
 ---
+album: Hybrid Theory
 artists:
 - Linkin Park
+external_ids:
+  spotify: spotify:track:3K4HG9evC7dg3N0R9cYqk4
 features: []
-genres: []
+first_released_as_single: false
 key: one-step-closer-linkin-park
 lyrics_url: https://www.azlyrics.com/lyrics/linkinpark/onestepcloser.html
 name: One Step Closer
@@ -75,9 +78,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2001-06-02'
+release_year: 2000
+runtime: 157333
 ---
-
-
 I cannot take this anymore
 Saying everything I've said before
 All these words: they make no sense
@@ -137,6 +140,3 @@ I need a little room to breathe
 'Cause I'm one step closer to the edge
 And I'm about to...
 Break!
-
-
-

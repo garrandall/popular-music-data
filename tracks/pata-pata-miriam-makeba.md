@@ -1,8 +1,11 @@
 ---
+album: Reflections
 artists:
 - Miriam Makeba
+external_ids:
+  spotify: spotify:track:6tR8N0wgzIoKaI7fmh0J0O
 features: []
-genres: []
+first_released_as_single: false
 key: pata-pata-miriam-makeba
 lyrics_url: https://genius.com/Miriam-makeba-pata-pata-lyrics
 name: Pata Pata
@@ -51,6 +54,8 @@ rankings:
   rank: 32
   ranking_list: Billboard Hot 100
   start_date: '1967-12-16'
+release_year: 1967
+runtime: 203866
 ---
 Saguquga sathi bega nantsi pata pa (sathi pata pata)
 Saguquga sathi bega nantsi pata pa (sathi pata pata)

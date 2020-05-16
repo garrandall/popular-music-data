@@ -1,8 +1,11 @@
 ---
+album: The Exciting Wilson Pickett
 artists:
 - Wilson Pickett
+external_ids:
+  spotify: spotify:track:5Ju2ZF0o78C89oFrAhvDIC
 features: []
-genres: []
+first_released_as_single: false
 key: 634-5789--soulsville-usa--wilson-pickett
 lyrics_url: https://genius.com/Wilson-pickett-634-5789-lyrics
 name: 634-5789 (Soulsville USA)
@@ -51,6 +54,8 @@ rankings:
   rank: 33
   ranking_list: Billboard Hot 100
   start_date: '1966-04-23'
+release_year: 1966
+runtime: 178586
 ---
 If you need a little lovin'
 Call on me, alright

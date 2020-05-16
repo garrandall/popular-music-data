@@ -1,8 +1,11 @@
 ---
+album: All 'N All
 artists:
 - Earth, Wind & Fire
+external_ids:
+  spotify: spotify:track:2GH5jo15wbTv1Ll7zXEzSg
 features: []
-genres: []
+first_released_as_single: false
 key: fantasy-earth-wind-fire
 lyrics_url: https://www.azlyrics.com/lyrics/earthwindandfire/fantasy.html
 name: Fantasy
@@ -67,8 +70,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1978-06-10'
+release_year: 1977
+runtime: 277413
 ---
-
 Every man has a place
 In his heart there's a space
 And the world can't erase his fantasies
@@ -126,6 +130,3 @@ You will find other kind
 That has been in search of you
 Many lives has brought you to
 Recognize, it's your life now in review
-
-
-

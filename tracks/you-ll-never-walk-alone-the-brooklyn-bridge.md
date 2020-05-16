@@ -1,8 +1,11 @@
 ---
+album: The Second Brooklyn Bridge
 artists:
 - The Brooklyn Bridge
+external_ids:
+  spotify: spotify:track:5qSB1mi5t7UojPB0mO39vr
 features: []
-genres: []
+first_released_as_single: false
 key: you-ll-never-walk-alone-the-brooklyn-bridge
 lyrics_url: https://www.musixmatch.com/lyrics/The-Brooklyn-Bridge/You-ll-Never-Walk-Alone
 name: You'll Never Walk Alone
@@ -31,6 +34,8 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '1969-11-08'
+release_year: 1969
+runtime: 294426
 ---
 When you walk through a storm
 Hold your head up high

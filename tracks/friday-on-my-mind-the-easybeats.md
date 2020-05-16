@@ -1,8 +1,11 @@
 ---
+album: Easy
 artists:
 - The Easybeats
+external_ids:
+  spotify: spotify:track:2CT08rpgdut8qQs7IAzMGi
 features: []
-genres: []
+first_released_as_single: false
 key: friday-on-my-mind-the-easybeats
 lyrics_url: https://genius.com/The-easybeats-friday-on-my-mind-lyrics
 name: Friday On My Mind
@@ -63,9 +66,9 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1967-06-17'
+release_year: 1965
+runtime: 163293
 ---
-
-
 Monday mornin' feels so bad
 Ev'rybody seems to nag me
 Comin' Tuesday I feel better

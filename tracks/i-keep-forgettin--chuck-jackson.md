@@ -1,8 +1,11 @@
 ---
+album: The Best Of/20th Century Masters
 artists:
 - Chuck Jackson
+external_ids:
+  spotify: spotify:track:093OJWDHPlIiyBYBr5lvFz
 features: []
-genres: []
+first_released_as_single: false
 key: i-keep-forgettin--chuck-jackson
 lyrics_url: https://genius.com/Chuck-jackson-i-keep-forgettin-every-time-youre-near-lyrics
 name: I Keep Forgettin'
@@ -35,6 +38,8 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '1962-10-13'
+release_year: 1962
+runtime: 160573
 ---
 I keep forgetting you don't love me no more
 I keep forgetting you don't want me no more

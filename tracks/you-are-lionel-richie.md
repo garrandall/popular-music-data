@@ -1,8 +1,11 @@
 ---
+album: Lionel Richie
 artists:
 - Lionel Richie
+external_ids:
+  spotify: spotify:track:2SQkCUj5rYrFCRKnaTbYYr
 features: []
-genres: []
+first_released_as_single: false
 key: you-are-lionel-richie
 lyrics_url: https://genius.com/Lionel-richie-you-are-lyrics
 name: You Are
@@ -79,6 +82,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1983-05-14'
+release_year: 1982
+runtime: 300880
 ---
 Baby you'll find
 There's only one love

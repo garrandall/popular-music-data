@@ -1,9 +1,12 @@
 ---
+album: Nine Track Mind
 artists:
 - Charlie Puth
+external_ids:
+  spotify: spotify:track:6ukMqDxnOPOgoHdak7Kyp3
 features:
 - Meghan Trainor
-genres: []
+first_released_as_single: true
 key: marvin-gaye-charlie-puth-meghan-trainor
 lyrics_url: https://www.azlyrics.com/lyrics/charlieputh/marvingaye.html
 name: Marvin Gaye
@@ -88,8 +91,9 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '2015-11-14'
+release_year: 2015
+runtime: 190453
 ---
-
 Let's Marvin Gaye and get it on
 You got the healing that I want
 Just like they say it in the song
@@ -150,6 +154,3 @@ Until the dawn, let's Marvin Gaye and get it on
 Just like they say it in a song
 Until the dawn, let's Marvin Gaye and get it on
 Oh
-
-
-

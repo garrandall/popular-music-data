@@ -1,8 +1,11 @@
 ---
+album: Wrap Around Joy
 artists:
 - Carole King
+external_ids:
+  spotify: spotify:track:6hBmvse9cuvN03asMuQxn4
 features: []
-genres: []
+first_released_as_single: false
 key: nightingale-carole-king
 lyrics_url: https://www.azlyrics.com/lyrics/caroleking/nightingale.html
 name: Nightingale
@@ -55,8 +58,9 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '1975-03-22'
+release_year: 1968
+runtime: 217800
 ---
-
 Like some night bird, homeward wingin'
 He seeks the sheltered nest
 Like the sailor's lost horizon
@@ -96,6 +100,3 @@ She makes a foolish dreamer listen
 To one last song
 Nightingale
 Nightingale
-
-
-

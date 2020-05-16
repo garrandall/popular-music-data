@@ -1,8 +1,11 @@
 ---
+album: A New World Record
 artists:
 - Electric Light Orchestra
+external_ids:
+  spotify: spotify:track:3m4IG0CrBEKWVE9NgUBgJz
 features: []
-genres: []
+first_released_as_single: false
 key: telephone-line-electric-light-orchestra
 lyrics_url: https://genius.com/Electric-light-orchestra-telephone-line-lyrics
 name: Telephone Line
@@ -99,6 +102,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1977-11-12'
+release_year: 1972
+runtime: 285173
 ---
 Hello! How are you?
 Have you been alright

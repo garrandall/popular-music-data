@@ -1,8 +1,11 @@
 ---
+album: HEARTBEAT
 artists:
 - Don Johnson
+external_ids:
+  spotify: spotify:track:01xc0Rvv19F2p2wno0KUF4
 features: []
-genres: []
+first_released_as_single: false
 key: heartbeat-don-johnson
 lyrics_url: https://genius.com/Don-johnson-heartbeat-lyrics
 name: Heartbeat
@@ -67,6 +70,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1986-11-29'
+release_year: 1986
+runtime: 260333
 ---
 I don´t care what you say
 You can give it away

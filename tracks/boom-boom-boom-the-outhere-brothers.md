@@ -1,8 +1,11 @@
 ---
+album: 1 Polish, 2 Biscuits and a Fish Sandwich
 artists:
 - The Outhere Brothers
+external_ids:
+  spotify: spotify:track:25KdyGYYNeMJ0oPwVYPKZQ
 features: []
-genres: []
+first_released_as_single: false
 key: boom-boom-boom-the-outhere-brothers
 lyrics_url: https://genius.com/The-outhere-brothers-boom-boom-boom-lyrics
 name: Boom Boom Boom
@@ -87,6 +90,8 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1996-02-10'
+release_year: 1994
+runtime: 255200
 ---
 I say boom boom boom let me hear u say wayo
 I say boom boom boom now everybody say wayo

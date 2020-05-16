@@ -1,8 +1,11 @@
 ---
+album: Heard It On the Radio, Vol. 7
 artists:
 - What Is This
+external_ids:
+  spotify: spotify:track:1KbxqCqUgrzY2gbkG4O2bA
 features: []
-genres: []
+first_released_as_single: false
 key: i-ll-be-around-what-is-this
 lyrics_url: https://www.musixmatch.com/lyrics/What-Is-This-2/I-ll-Be-Around
 name: I'll Be Around
@@ -31,6 +34,8 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1985-09-21'
+release_year: 1985
+runtime: 228493
 ---
 This is our fork in the road
 Love's last episode

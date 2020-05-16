@@ -1,8 +1,11 @@
 ---
+album: Nervous Night
 artists:
 - Hooters
+external_ids:
+  spotify: spotify:track:4WNimtMaE9ugd1oJpzDsvA
 features: []
-genres: []
+first_released_as_single: false
 key: where-do-the-children-go-hooters
 lyrics_url: https://www.azlyrics.com/lyrics/hooters/wheredothechildrengo.html
 name: Where Do The Children Go
@@ -55,8 +58,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1986-06-21'
+release_year: 1985
+runtime: 326626
 ---
-
 Surrender into the night 
 Silently take my hand 
 Nobody knows what's inside us 
@@ -85,6 +89,3 @@ Where do the children go
 Between the bright night and the darkest day 
 Where do the children go 
 And who's that deadly piper who leads them away
-
-
-

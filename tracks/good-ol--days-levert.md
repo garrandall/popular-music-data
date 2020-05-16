@@ -1,8 +1,11 @@
 ---
+album: For Real Tho'
 artists:
 - Levert
+external_ids:
+  spotify: spotify:track:1U5Y5BhGG0kO6gULUheEnY
 features: []
-genres: []
+first_released_as_single: false
 key: good-ol--days-levert
 name: Good Ol' Days
 rankings:
@@ -50,5 +53,7 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1993-05-29'
+release_year: 1993
+runtime: 245133
 ---
 

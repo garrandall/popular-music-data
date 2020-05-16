@@ -1,8 +1,11 @@
 ---
+album: Dean Martin Hits Again
 artists:
 - Dean Martin
+external_ids:
+  spotify: spotify:track:2Oabv85FCY9lUmyPPmcggX
 features: []
-genres: []
+first_released_as_single: false
 key: in-the-chapel-in-the-moonlight-dean-martin
 lyrics_url: https://www.azlyrics.com/lyrics/deanmartin/inthechapelinthemoonlight.html
 name: In The Chapel In The Moonlight
@@ -35,8 +38,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1967-08-19'
+release_year: 1965
+runtime: 152346
 ---
-
 How I love to hear the organ
 In the chapel in the moonlight
 While we're strolling down the aisle
@@ -67,6 +71,3 @@ In the chapel in the moonlight
 As they sing "Oh Promise Me"
 Forever be mine
 In the chapel in the moonlight
-
-
-

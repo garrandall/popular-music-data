@@ -1,8 +1,11 @@
 ---
+album: It Takes a Thief
 artists:
 - Coolio
+external_ids:
+  spotify: spotify:track:3QlTzofanSqDWywxEzGGE2
 features: []
-genres: []
+first_released_as_single: false
 key: fantastic-voyage-coolio
 lyrics_url: https://www.azlyrics.com/lyrics/coolio/fantasticvoyage.html
 name: Fantastic Voyage
@@ -107,8 +110,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1994-11-19'
+release_year: 1994
+runtime: 334440
 ---
-
 Come on y'all let's take a ride
 don't you say shit just get inside
 It's time to take your ass on another kind of trip
@@ -188,4 +192,3 @@ do you want to ride with me, do you want to ride with me
 do you want to ride with me, do you want to ride with me
 do you want to ride with me, do you want to ride with me
 do you want to ride with me, do you want to ride with me
-

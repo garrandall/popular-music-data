@@ -1,8 +1,11 @@
 ---
+album: Born Again
 artists:
 - Mica Paris
+external_ids:
+  spotify: spotify:track:4otkjTT0nQOYq3q1zsdcbS
 features: []
-genres: []
+first_released_as_single: false
 key: my-one-temptation-mica-paris
 lyrics_url: https://genius.com/Mica-paris-my-one-temptation-lyrics
 name: My One Temptation
@@ -23,6 +26,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1989-07-15'
+release_year: 1989
+runtime: 273893
 ---
 Life is tough if you find you got it all and you're not satisfied
 

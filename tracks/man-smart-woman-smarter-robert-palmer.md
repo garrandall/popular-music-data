@@ -1,8 +1,11 @@
 ---
+album: Some People Can Do What They Like
 artists:
 - Robert Palmer
+external_ids:
+  spotify: spotify:track:2TKNoRFYpwhMF5OHgKpxxe
 features: []
-genres: []
+first_released_as_single: false
 key: man-smart-woman-smarter-robert-palmer
 lyrics_url: https://www.azlyrics.com/lyrics/robertpalmer/mansmartwomansmarter.html
 name: Man Smart Woman Smarter
@@ -35,8 +38,9 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1977-01-15'
+release_year: 1976
+runtime: 156506
 ---
-
 Let us put man and woman together
 And see which one is smarter
 Some say men but I say no
@@ -94,6 +98,3 @@ The men are leading the women astray
 But I say, it's the women today
 Are smarter than the men in every way
 That's right they're smarter
-
-
-

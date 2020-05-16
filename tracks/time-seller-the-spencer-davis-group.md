@@ -1,8 +1,11 @@
 ---
+album: Mulberry Bush
 artists:
 - The Spencer Davis Group
+external_ids:
+  spotify: spotify:track:5QYA12rPCgWDwsyejJrffX
 features: []
-genres: []
+first_released_as_single: false
 key: time-seller-the-spencer-davis-group
 lyrics_url: https://www.azlyrics.com/lyrics/spencerdavisgroup/timeseller.html
 name: Time Seller
@@ -11,8 +14,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1967-09-16'
+release_year: 1967
+runtime: 171253
 ---
-
 I know there's a man who can sell time
 I can take it away and say that it's mine
 He smiles from a distance and lives in a tree
@@ -36,6 +40,3 @@ When you're lonely you can join me in his land
 
 So come with me and meet the man who's job it is selling all this time
 Before he spreads his wings and starts to flying 'round the sky
-
-
-

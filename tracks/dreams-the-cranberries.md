@@ -1,8 +1,11 @@
 ---
+album: Everybody Else Is Doing It, So Why Can't We?
 artists:
 - The Cranberries
+external_ids:
+  spotify: spotify:track:4JGKZS7h4Qa16gOU3oNETV
 features: []
-genres: []
+first_released_as_single: false
 key: dreams-the-cranberries
 lyrics_url: https://www.azlyrics.com/lyrics/cranberries/dreams.html
 name: Dreams
@@ -87,8 +90,9 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1994-08-13'
+release_year: 1993
+runtime: 271560
 ---
-
 Oh, my life
 Is changing everyday
 In every possible way
@@ -134,6 +138,3 @@ And oh, my dreams
 It's never quite as it seems
 'Cause you're a dream to me
 Dream to me
-
-
-

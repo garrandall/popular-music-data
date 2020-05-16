@@ -1,8 +1,11 @@
 ---
+album: South Shore Commission
 artists:
 - South Shore Commission
+external_ids:
+  spotify: spotify:track:7n2gV9BaWJHp110ZEwRSTv
 features: []
-genres: []
+first_released_as_single: false
 key: free-man-south-shore-commission
 name: Free Man
 rankings:
@@ -34,5 +37,7 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '1975-08-09'
+release_year: 1975
+runtime: 446506
 ---
 

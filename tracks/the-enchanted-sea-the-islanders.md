@@ -1,8 +1,11 @@
 ---
+album: The Enchanted Sound of the Islanders
 artists:
 - The Islanders
+external_ids:
+  spotify: spotify:track:3OFd6Akwic9VrIqiHHe6OO
 features: []
-genres: []
+first_released_as_single: false
 key: the-enchanted-sea-the-islanders
 name: The Enchanted Sea
 rankings:
@@ -58,5 +61,7 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1959-12-21'
+release_year: 1959
+runtime: 124081
 ---
 

@@ -1,8 +1,11 @@
 ---
+album: The Roaring Silence
 artists:
 - Manfred Mann's Earth Band
+external_ids:
+  spotify: spotify:track:7kNNylJ1kswWbHeRM6UDuE
 features: []
-genres: []
+first_released_as_single: false
 key: blinded-by-the-light-manfred-mann-s-earth-band
 lyrics_url: https://genius.com/Manfred-manns-earth-band-blinded-by-the-light-lyrics
 name: Blinded By The Light
@@ -87,6 +90,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1977-04-02'
+release_year: 1976
+runtime: 428133
 ---
 Blinded by the light
 Revved up like a deuce

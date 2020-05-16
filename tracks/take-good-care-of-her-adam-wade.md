@@ -1,8 +1,11 @@
 ---
+album: Collection 1959-62
 artists:
 - Adam Wade
+external_ids:
+  spotify: spotify:track:0XkuWDNnWDOZbGlZFGWMLO
 features: []
-genres: []
+first_released_as_single: true
 key: take-good-care-of-her-adam-wade
 lyrics_url: https://genius.com/Adam-wade-take-good-care-of-her-lyrics
 name: Take Good Care Of Her
@@ -63,6 +66,8 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '1961-06-12'
+release_year: 1961
+runtime: 146933
 ---
 I suppose I ought to say congratulations
 For you've won the only girl

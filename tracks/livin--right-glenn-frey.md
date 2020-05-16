@@ -1,8 +1,11 @@
 ---
+album: Soul Searchin'
 artists:
 - Glenn Frey
+external_ids:
+  spotify: spotify:track:0PAakGrsWLfMwZqGY2IHMB
 features: []
-genres: []
+first_released_as_single: false
 key: livin--right-glenn-frey
 lyrics_url: https://www.azlyrics.com/lyrics/glennfrey/livinright.html
 name: Livin' Right
@@ -23,8 +26,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1989-04-08'
+release_year: 1988
+runtime: 301400
 ---
-
 I'm outside, running in the morning sun 
 No matter what it takes, you know I'm gonna get it done 
 Pushing up the heel, fighting through the pain 
@@ -63,6 +67,3 @@ I look at the future, the future looks bright
 'Cause I'm livin' right, livin' right 
 Out of the darkness, and into the light 
 I'm livin' right, livin' right
-
-
-

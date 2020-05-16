@@ -1,8 +1,11 @@
 ---
+album: Dan + Shay
 artists:
 - Dan + Shay
+external_ids:
+  spotify: spotify:track:7Il2yWQmsqKgSkLQvHTPUI
 features: []
-genres: []
+first_released_as_single: true
 key: tequila-dan---shay
 lyrics_url: https://www.azlyrics.com/lyrics/danshay/tequila.html
 name: Tequila
@@ -207,8 +210,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2019-04-27'
+release_year: 2018
+runtime: 195986
 ---
-
 I can still shut down a party
 I can hang with anybody
 I can drink whiskey and red wine
@@ -249,6 +253,3 @@ I remember how bad I need ya, when I taste tequila
 When I taste tequila
 When I taste tequila
 When I taste tequila
-
-
-

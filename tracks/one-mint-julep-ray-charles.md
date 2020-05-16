@@ -1,8 +1,11 @@
 ---
+album: R&B Classics of the 60s
 artists:
 - Ray Charles
+external_ids:
+  spotify: spotify:track:7roxK4OkEgfAH8GamPp35m
 features: []
-genres: []
+first_released_as_single: false
 key: one-mint-julep-ray-charles
 lyrics_url: https://www.azlyrics.com/lyrics/raycharles/onemintjulep.html
 name: One Mint Julep
@@ -59,8 +62,9 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '1961-05-29'
+release_year: 1961
+runtime: 189226
 ---
-
 One early morning as I was walking
 I met a woman, we started talking
 I took her home to get a few nips
@@ -90,6 +94,3 @@ I got six extra children from a-getting frisky
 A mint julep, a mint julep
 A mint julep, a mint julep
 One mint julep was the cause of it all
-
-
-

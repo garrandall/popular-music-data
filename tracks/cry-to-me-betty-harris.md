@@ -1,8 +1,11 @@
 ---
+album: Soul from the South
 artists:
 - Betty Harris
+external_ids:
+  spotify: spotify:track:3EppYZZJ7yuyRZibNAYBed
 features: []
-genres: []
+first_released_as_single: true
 key: cry-to-me-betty-harris
 lyrics_url: https://www.musixmatch.com/lyrics/Betty-Harris/Cry-to-Me
 name: Cry To Me
@@ -51,6 +54,8 @@ rankings:
   rank: 36
   ranking_list: Billboard Hot 100
   start_date: '1963-11-30'
+release_year: 1963
+runtime: 196586
 ---
 When your babe leaves you all alone
 And nobody calls you on the phone

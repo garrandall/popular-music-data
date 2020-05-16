@@ -1,8 +1,11 @@
 ---
+album: The Very Best of, Volume 1
 artists:
 - Joe Tex
+external_ids:
+  spotify: spotify:track:6IJ3aMwPSPpP0F6RSiNm69
 features: []
-genres: []
+first_released_as_single: false
 key: keep-the-one-you-got-joe-tex
 lyrics_url: https://www.musixmatch.com/lyrics/Joe-Tex/Keep-the-One-You-Got
 name: Keep The One You Got
@@ -27,6 +30,8 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1968-09-07'
+release_year: 1965
+runtime: 165840
 ---
 Hey fellas look over there
 See that woman over there

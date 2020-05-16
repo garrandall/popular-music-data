@@ -1,8 +1,11 @@
 ---
+album: Tullahoma
 artists:
 - Dustin Lynch
+external_ids:
+  spotify: spotify:track:0AKXluN0l9qehXhegtRazb
 features: []
-genres: []
+first_released_as_single: true
 key: good-girl-dustin-lynch
 lyrics_url: https://www.azlyrics.com/lyrics/dustinlynch/goodgirl.html
 name: Good Girl
@@ -67,8 +70,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2019-03-02'
+release_year: 2018
+runtime: 190826
 ---
-
 I got it good girl 'cause I got myself a good girl
 Yeah you up and took my whole world and made it so good girl
 
@@ -109,6 +113,3 @@ Good Lord I'm a lucky man
 I could take you home to Mama, take you to the church right down the street
 Yeah you up and took my whole world and made it so good girl
 Aw so good baby
-
-
-

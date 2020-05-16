@@ -1,9 +1,12 @@
 ---
+album: LAX
 artists:
 - The Game
+external_ids:
+  spotify: spotify:track:0jJNh8Ru3n4xLs3ZqHoo5E
 features:
 - Keyshia Cole
-genres: []
+first_released_as_single: false
 key: game-s-pain-the-game-keyshia-cole
 lyrics_url: https://www.azlyrics.com/lyrics/game/gamespain.html
 name: Game's Pain
@@ -36,9 +39,9 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '2008-07-26'
+release_year: 2008
+runtime: 261773
 ---
-
-
 Eyyy-yeaa
 Yeah...
 Heeeey, yeah...
@@ -117,6 +120,3 @@ When it's all said and done, you niggas gon' quote me
 See, Mary J. I want you to understaaaaand..
 You paved the way (for me)
 I'm givin homage (to you)
-
-
-

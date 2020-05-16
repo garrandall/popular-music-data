@@ -1,8 +1,11 @@
 ---
+album: Juslisen
 artists:
 - Musiq
+external_ids:
+  spotify: spotify:track:3oXNIpoUMdk8qGkwCeXqGv
 features: []
-genres: []
+first_released_as_single: false
 key: halfcrazy-musiq
 lyrics_url: https://www.azlyrics.com/lyrics/musiqsoulchild/halfcrazy.html
 name: halfcrazy
@@ -107,8 +110,9 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '2002-09-07'
+release_year: 2002
+runtime: 254493
 ---
-
 La la la la la la la la la la la la la la la la la 
 La la la la la la la la la la la la la la la la la 
 La la la la la la la la la la la la la la la la la
@@ -154,6 +158,3 @@ yeah yeah yeah yeah
 oh oh
 yeah
 oh oh oh
-
-
-

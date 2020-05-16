@@ -1,8 +1,11 @@
 ---
+album: 8th Wonder
 artists:
 - Sugarhill Gang
+external_ids:
+  spotify: spotify:track:6m0wOLtrzaNwMofVVJTJqs
 features: []
-genres: []
+first_released_as_single: false
 key: 8th-wonder-sugarhill-gang
 lyrics_url: https://www.azlyrics.com/lyrics/sugarhillgang/8thwonder.html
 name: 8th Wonder
@@ -43,9 +46,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1981-04-04'
+release_year: 1981
+runtime: 446506
 ---
-
-
 Clap your hands everybody
 And everybody just clap your hands
 Ah fly girls, clap your hands
@@ -255,6 +258,3 @@ And you know that!
 Everywhere
 
 Shake it up, shake it up
-
-
-

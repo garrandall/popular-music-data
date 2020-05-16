@@ -1,9 +1,12 @@
 ---
+album: ALWAYS STRIVE AND PROSPER
 artists:
 - A$AP Ferg
+external_ids:
+  spotify: spotify:track:11BIoKDpTJHX5mZt6p566h
 features:
 - Future
-genres: []
+first_released_as_single: true
 key: new-level-a-ap-ferg-future
 lyrics_url: https://genius.com/A-ap-ferg-new-level-lyrics
 name: New Level
@@ -20,6 +23,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2016-05-14'
+release_year: 2015
+runtime: 267211
 ---
 I'm on a new level, I'm on a new level
 I'm on a new level, I'm on a new level

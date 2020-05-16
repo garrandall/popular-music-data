@@ -1,8 +1,11 @@
 ---
+album: The Legendary Masters Series
 artists:
 - Gary Lewis And The Playboys
+external_ids:
+  spotify: spotify:track:1QRtClYfZxjebMxZjn99qf
 features: []
-genres: []
+first_released_as_single: false
 key: jill-gary-lewis-and-the-playboys
 lyrics_url: https://genius.com/Gary-lewis-and-the-playboys-jill-lyrics
 name: Jill
@@ -35,6 +38,8 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '1967-09-23'
+release_year: 1967
+runtime: 142933
 ---
 Jill, between you and me
 I can see the gleam in your eyes

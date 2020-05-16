@@ -1,8 +1,11 @@
 ---
+album: Reckless
 artists:
 - Bryan Adams
+external_ids:
+  spotify: spotify:track:7Ewz6bJ97vUqk5HdkvguFQ
 features: []
-genres: []
+first_released_as_single: false
 key: heaven-bryan-adams
 lyrics_url: https://www.azlyrics.com/lyrics/bryanadams/heaven.html
 name: Heaven
@@ -83,8 +86,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1985-08-24'
+release_year: 1984
+runtime: 243360
 ---
-
 Oh, thinkin' about all our younger years
 There was only you and me
 We were young and wild and free
@@ -147,6 +151,3 @@ You're all that I need
 We're in heaven
 We're in heaven
 We're in heaven
-
-
-

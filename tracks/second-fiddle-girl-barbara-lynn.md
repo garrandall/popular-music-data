@@ -1,8 +1,11 @@
 ---
+album: You'll Lose A Good Thing
 artists:
 - Barbara Lynn
+external_ids:
+  spotify: spotify:track:3iVr0ys1UuBPkV9whnC2ER
 features: []
-genres: []
+first_released_as_single: false
 key: second-fiddle-girl-barbara-lynn
 lyrics_url: https://genius.com/Barbara-lynn-second-fiddle-girl-lyrics
 name: Second Fiddle Girl
@@ -39,6 +42,8 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1962-11-10'
+release_year: 1962
+runtime: 117173
 ---
 Hey, hey, hey
 You've seen the world

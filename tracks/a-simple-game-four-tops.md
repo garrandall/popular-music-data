@@ -1,8 +1,11 @@
 ---
+album: 50th Anniversary | The Singles Collection | 1964-1972
 artists:
 - Four Tops
+external_ids:
+  spotify: spotify:track:7dbJ4qYrov3mKs90W9eryo
 features: []
-genres: []
+first_released_as_single: false
 key: a-simple-game-four-tops
 lyrics_url: https://genius.com/The-four-tops-a-simple-game-lyrics
 name: A Simple Game
@@ -19,6 +22,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1972-02-19'
+release_year: 1972
+runtime: 177133
 ---
 As time goes by
 You will see

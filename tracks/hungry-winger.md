@@ -1,8 +1,11 @@
 ---
+album: Winger
 artists:
 - Winger
+external_ids:
+  spotify: spotify:track:3TWMiVaw8pN0SurElKlOXQ
 features: []
-genres: []
+first_released_as_single: false
 key: hungry-winger
 lyrics_url: https://www.azlyrics.com/lyrics/winger/hungry.html
 name: Hungry
@@ -31,8 +34,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1989-10-28'
+release_year: 1988
+runtime: 238533
 ---
-
 I hear the ticking on the clock
 Counting everyday I've been alone
 How long before you're coming back?
@@ -86,6 +90,3 @@ Hungry!
 I'm hungry, for your love
 Hungry... Oh no!
 Hungry!
-
-
-

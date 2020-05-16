@@ -1,8 +1,11 @@
 ---
+album: It Ain't Easy
 artists:
 - Three Dog Night
+external_ids:
+  spotify: spotify:track:1CAO7hiNOxJRPW4nFv2aRO
 features: []
-genres: []
+first_released_as_single: false
 key: mama-told-me--not-to-come--three-dog-night
 lyrics_url: https://genius.com/Three-dog-night-mama-told-me-lyrics
 name: Mama Told Me (Not To Come)
@@ -67,6 +70,8 @@ rankings:
   rank: 27
   ranking_list: Billboard Hot 100
   start_date: '1970-08-29'
+release_year: 1970
+runtime: 198933
 ---
 Jeremiah was a bullfrog
 Was a good friend of mine

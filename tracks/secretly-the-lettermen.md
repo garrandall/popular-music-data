@@ -1,8 +1,11 @@
 ---
+album: Capitol Collectors Series
 artists:
 - The Lettermen
+external_ids:
+  spotify: spotify:track:2jRAvJqykySWxGmdD5BCWS
 features: []
-genres: []
+first_released_as_single: false
 key: secretly-the-lettermen
 lyrics_url: https://genius.com/The-lettermen-secretly-lyrics
 name: Secretly
@@ -31,6 +34,8 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '1965-11-06'
+release_year: 1965
+runtime: 138133
 ---
 Why must I meet you in a secret rendezvous?
 Why must we steal away to steal a kiss or two?

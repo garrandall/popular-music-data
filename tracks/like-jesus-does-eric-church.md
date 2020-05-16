@@ -1,8 +1,11 @@
 ---
+album: Chief
 artists:
 - Eric Church
+external_ids:
+  spotify: spotify:track:3wxgj5N8ZKoZWHDw6FJUf2
 features: []
-genres: []
+first_released_as_single: false
 key: like-jesus-does-eric-church
 lyrics_url: https://www.azlyrics.com/lyrics/ericchurch/likejesusdoes.html
 name: Like Jesus Does
@@ -75,8 +78,9 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '2013-06-29'
+release_year: 2011
+runtime: 198733
 ---
-
 I'm a long-gone Waylon song on vinyl,
 I'm a back row sinner at a tent revival,
 But she believes in me like she believes her Bible,
@@ -114,6 +118,3 @@ That devil, man, he don't stand a chance
 She loves me like Jesus does.
 
 I'm a long-gone Waylon song on vinyl.
-
-
-

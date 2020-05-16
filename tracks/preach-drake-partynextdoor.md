@@ -1,9 +1,12 @@
 ---
+album: If You're Reading This It's Too Late
 artists:
 - Drake
+external_ids:
+  spotify: spotify:track:1OHoBC4icbuNhpSxP400sv
 features:
 - PARTYNEXTDOOR
-genres: []
+first_released_as_single: false
 key: preach-drake-partynextdoor
 lyrics_url: https://www.azlyrics.com/lyrics/drake/preach.html
 name: Preach
@@ -16,9 +19,9 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '2015-03-07'
+release_year: 2015
+runtime: 236973
 ---
-
-
 Young nigga preach
 Preach, preach, preach, preach, preach, preach
 Young nigga preach
@@ -74,4 +77,3 @@ Niggas is all in their feelings these days
 All in their feelings these days
 But hearing the scripture with that many sixes
 You should be afraid
-

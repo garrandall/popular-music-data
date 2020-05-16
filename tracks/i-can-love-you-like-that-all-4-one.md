@@ -1,8 +1,11 @@
 ---
+album: And The Music Speaks
 artists:
 - All-4-One
+external_ids:
+  spotify: spotify:track:70d8omRI2p7qesFOiy55Ro
 features: []
-genres: []
+first_released_as_single: false
 key: i-can-love-you-like-that-all-4-one
 lyrics_url: https://genius.com/All-4-one-i-can-love-you-like-that-lyrics
 name: I Can Love You Like That
@@ -123,6 +126,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1995-12-30'
+release_year: 1995
+runtime: 257959
 ---
 They read you Cinderella
 You hoped it would come true

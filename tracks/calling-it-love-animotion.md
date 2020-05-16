@@ -1,8 +1,11 @@
 ---
+album: 'Obsession: The Best Of Animotion'
 artists:
 - Animotion
+external_ids:
+  spotify: spotify:track:5F1WAoH2noz4YVEQTCsiHz
 features: []
-genres: []
+first_released_as_single: false
 key: calling-it-love-animotion
 lyrics_url: https://genius.com/Animotion-calling-it-love-lyrics
 name: Calling It Love
@@ -43,6 +46,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1989-08-05'
+release_year: 1989
+runtime: 290306
 ---
 I lay here beside you, just thinkin' all night
 I believe that tomorrow would make things all right

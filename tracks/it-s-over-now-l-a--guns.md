@@ -1,8 +1,11 @@
 ---
+album: Hollywood Vampires
 artists:
 - L.A. Guns
+external_ids:
+  spotify: spotify:track:3rluVnhSc8jYfRhIRxxr6h
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-over-now-l-a--guns
 lyrics_url: https://genius.com/La-guns-its-over-now-lyrics
 name: It's Over Now
@@ -51,6 +54,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1992-05-23'
+release_year: 1991
+runtime: 251066
 ---
 Just another night
 And I'm all alone

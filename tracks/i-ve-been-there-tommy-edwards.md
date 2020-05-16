@@ -1,8 +1,11 @@
 ---
+album: "It\u2019s All In The Game: The Best Of Tommy Edwards"
 artists:
 - Tommy Edwards
+external_ids:
+  spotify: spotify:track:3EPS1jCdlQAvbC8UI6cmVj
 features: []
-genres: []
+first_released_as_single: false
 key: i-ve-been-there-tommy-edwards
 lyrics_url: https://www.musixmatch.com/lyrics/Tommy-Edwards/I-ve-Been-There
 name: I've Been There
@@ -47,6 +50,8 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '1959-10-12'
+release_year: 1959
+runtime: 155346
 ---
 Don't tell about her arms
 I've been there

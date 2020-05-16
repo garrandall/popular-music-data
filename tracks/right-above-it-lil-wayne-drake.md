@@ -1,9 +1,12 @@
 ---
+album: I Am Not A Human Being
 artists:
 - Lil Wayne
+external_ids:
+  spotify: spotify:track:1kMuU3TNQvHbqvXCWBodmP
 features:
 - Drake
-genres: []
+first_released_as_single: false
 key: right-above-it-lil-wayne-drake
 lyrics_url: https://genius.com/Lil-wayne-right-above-it-lyrics
 name: Right Above It
@@ -104,6 +107,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '2011-02-12'
+release_year: 2010
+runtime: 271946
 ---
 Kane is in the building
 

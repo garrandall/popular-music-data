@@ -1,8 +1,11 @@
 ---
+album: Everything's Gonna Be Alright
 artists:
 - Deana Carter
+external_ids:
+  spotify: spotify:track:2Ti7u4aBvADBXuE7wklLuI
 features: []
-genres: []
+first_released_as_single: false
 key: absence-of-the-heart-deana-carter
 lyrics_url: https://www.azlyrics.com/lyrics/deanacarter/absenceoftheheart.html
 name: Absence Of The Heart
@@ -15,8 +18,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1998-12-12'
+release_year: 1998
+runtime: 210733
 ---
-
 I write you letters but I don't send them
 I just can't figure out how to end them
 I try to reach you you're right beside me
@@ -52,6 +56,3 @@ There's an emptiness
 An absence of the heart
 
 I write you letters but I don't send them
-
-
-

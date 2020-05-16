@@ -1,8 +1,11 @@
 ---
+album: Some Gave All
 artists:
 - Billy Ray Cyrus
+external_ids:
+  spotify: spotify:track:5dlXZv1VpEbDgKUQgsTWJV
 features: []
-genres: []
+first_released_as_single: false
 key: she-s-not-cryin--anymore-billy-ray-cyrus
 lyrics_url: https://genius.com/Billy-ray-cyrus-shes-not-cryin-anymore-lyrics
 name: She's Not Cryin' Anymore
@@ -43,6 +46,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1993-05-08'
+release_year: 1992
+runtime: 205773
 ---
 She used to cry when I'd come home late
 She couldn't buy the lies I told

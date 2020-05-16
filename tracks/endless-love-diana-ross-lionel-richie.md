@@ -1,9 +1,12 @@
 ---
+album: Endless Love (Soundtrack)
 artists:
 - Diana Ross
 - Lionel Richie
+external_ids:
+  spotify: spotify:track:7urn1qL9nFbdgXmo6KPXc7
 features: []
-genres: []
+first_released_as_single: false
 key: endless-love-diana-ross-lionel-richie
 lyrics_url: https://genius.com/Diana-ross-and-lionel-richie-endless-love-lyrics
 name: Endless Love
@@ -116,6 +119,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1982-01-09'
+release_year: 1981
+runtime: 268066
 ---
 My love
 There's only you in my life

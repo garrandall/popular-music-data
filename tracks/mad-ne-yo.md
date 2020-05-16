@@ -1,8 +1,11 @@
 ---
+album: In My Own Words
 artists:
 - Ne-Yo
+external_ids:
+  spotify: spotify:track:5FXOEdfNW7nYQrBWtW49Cl
 features: []
-genres: []
+first_released_as_single: false
 key: mad-ne-yo
 lyrics_url: https://genius.com/Ne-yo-mad-lyrics
 name: Mad
@@ -103,6 +106,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2009-05-30'
+release_year: 2006
+runtime: 222000
 ---
 Whoa whoa, no whoa
 Whoa whoa, whoa oh

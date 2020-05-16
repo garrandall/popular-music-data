@@ -1,8 +1,11 @@
 ---
+album: Dexter - Season 6 (Music From The Showtime Original Series)
 artists:
 - Eric Burdon And War
+external_ids:
+  spotify: spotify:track:0M8lkZowEkeFv3WiWAJp7e
 features: []
-genres: []
+first_released_as_single: false
 key: spill-the-wine-eric-burdon-and-war
 name: Spill The Wine
 rankings:
@@ -90,5 +93,7 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '1970-10-10'
+release_year: 1965
+runtime: 243640
 ---
 

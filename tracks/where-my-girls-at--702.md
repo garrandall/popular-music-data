@@ -1,8 +1,11 @@
 ---
+album: '702'
 artists:
 - '702'
+external_ids:
+  spotify: spotify:track:4VSyH8AkIt3kaR5xIPFVVi
 features: []
-genres: []
+first_released_as_single: false
 key: where-my-girls-at--702
 lyrics_url: https://www.azlyrics.com/lyrics/702/wheremygirlsat.html
 name: Where My Girls At?
@@ -175,9 +178,9 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2000-02-12'
+release_year: 1999
+runtime: 166693
 ---
-
-
 See, he's my property,
 And any girl that touches,
 I might just call your bluff,
@@ -223,4 +226,3 @@ Anything that belongs to me.
 He is mine,
 My property,
 So you must leave.
-

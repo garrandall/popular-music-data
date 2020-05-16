@@ -1,8 +1,11 @@
 ---
+album: Four The Record
 artists:
 - Miranda Lambert
+external_ids:
+  spotify: spotify:track:2mXsZsJBThTaJXbNcg5QD4
 features: []
-genres: []
+first_released_as_single: false
 key: mama-s-broken-heart-miranda-lambert
 lyrics_url: https://genius.com/Miranda-lambert-mamas-broken-heart-lyrics
 name: Mama's Broken Heart
@@ -87,6 +90,8 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '2013-06-22'
+release_year: 2011
+runtime: 177773
 ---
 I cut my bangs with some rusty kitchen scissors
 I screamed his name ‘til the neighbours called the cops

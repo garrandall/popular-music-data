@@ -1,8 +1,11 @@
 ---
+album: Vital Signs
 artists:
 - Survivor
+external_ids:
+  spotify: spotify:track:46NtQJH1eok28bucLlHqQT
 features: []
-genres: []
+first_released_as_single: false
 key: i-can-t-hold-back-survivor
 lyrics_url: https://genius.com/Survivor-i-cant-hold-back-lyrics
 name: I Can't Hold Back
@@ -99,6 +102,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1985-02-16'
+release_year: 1984
+runtime: 238800
 ---
 There's a story in my eyes
 Turn the pages of desire

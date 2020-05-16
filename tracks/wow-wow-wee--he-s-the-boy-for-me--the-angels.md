@@ -1,8 +1,11 @@
 ---
+album: My Boyfriend's Back
 artists:
 - The Angels
+external_ids:
+  spotify: spotify:track:3au2b80BEdztCcqk2wj0hG
 features: []
-genres: []
+first_released_as_single: false
 key: wow-wow-wee--he-s-the-boy-for-me--the-angels
 lyrics_url: https://genius.com/The-angels-usa-wow-wow-wee-lyrics
 name: Wow Wow Wee (He's The Boy For Me)
@@ -35,6 +38,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1964-02-29'
+release_year: 1964
+runtime: 120600
 ---
 It was love at first sight
 When I saw him on

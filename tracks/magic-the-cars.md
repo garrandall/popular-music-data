@@ -1,8 +1,11 @@
 ---
+album: Heartbeat City
 artists:
 - The Cars
+external_ids:
+  spotify: spotify:track:0SAbkr0dS7WK3yJSjaZSZl
 features: []
-genres: []
+first_released_as_single: false
 key: magic-the-cars
 lyrics_url: https://genius.com/The-cars-magic-lyrics
 name: Magic
@@ -75,6 +78,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1984-09-08'
+release_year: 1984
+runtime: 237232
 ---
 Summer, it turns me upside down
 Summer, summer, summer

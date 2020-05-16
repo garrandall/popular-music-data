@@ -1,8 +1,11 @@
 ---
+album: Love Trip
 artists:
 - Tamiko Jones
+external_ids:
+  spotify: spotify:track:1yYuNV70O6b1Dfq56e8fAs
 features: []
-genres: []
+first_released_as_single: false
 key: touch-me-baby--reaching-out-for-your-love--tamiko-jones
 lyrics_url: https://www.musixmatch.com/lyrics/Tamiko-Jones/Touch-Me-Baby-Reaching-Out-For-Your-Love
 name: Touch Me Baby (reaching Out For Your Love)
@@ -47,6 +50,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1975-06-07'
+release_year: 1975
+runtime: 185306
 ---
 And I am reaching out for your love
 Won't you touch me baby

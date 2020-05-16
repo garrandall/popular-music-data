@@ -1,8 +1,11 @@
 ---
+album: Enjoy Yourself
 artists:
 - Billy Currington
+external_ids:
+  spotify: spotify:track:6z6CGFbowofeJZCMmJ7Qnc
 features: []
-genres: []
+first_released_as_single: false
 key: love-done-gone-billy-currington
 lyrics_url: https://www.azlyrics.com/lyrics/billycurrington/lovedonegone.html
 name: Love Done Gone
@@ -67,8 +70,9 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2011-10-08'
+release_year: 2010
+runtime: 210746
 ---
-
 Don't worry, baby, sometimes things change
 Nothin' we can do about it now, no way
 This doesn't come easy, but that's just life
@@ -99,6 +103,3 @@ It ain't nothin' we ever said or ever did wrong
 It's just love done gone
 It's just love done gone
 It's just love done gone
-
-
-

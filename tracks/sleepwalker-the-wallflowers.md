@@ -1,8 +1,11 @@
 ---
+album: Breach
 artists:
 - The Wallflowers
+external_ids:
+  spotify: spotify:track:5szl1EdOw3CuvItkpGuDHk
 features: []
-genres: []
+first_released_as_single: false
 key: sleepwalker-the-wallflowers
 lyrics_url: https://www.azlyrics.com/lyrics/wallflowers/sleepwalker.html
 name: Sleepwalker
@@ -31,8 +34,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2000-12-02'
+release_year: 2000
+runtime: 211026
 ---
-
 Maybe I could be the one they adore
 That could be my reputation
 It's where I'm from that lets them think I'm a whore
@@ -84,6 +88,3 @@ The sleepwalker in me
 Now, the sleepwalker in me
 Now, the sleepwalker in me
 And God only know that I've tried
-
-
-

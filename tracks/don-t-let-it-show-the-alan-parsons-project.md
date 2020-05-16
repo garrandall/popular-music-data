@@ -1,8 +1,11 @@
 ---
+album: I Robot
 artists:
 - The Alan Parsons Project
+external_ids:
+  spotify: spotify:track:2Nqh6J0LebsZmk3Uhm1ehq
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-let-it-show-the-alan-parsons-project
 lyrics_url: https://www.musixmatch.com/lyrics/The-Alan-Parsons-Project/Don-t-Let-It-Show
 name: Don't Let It Show
@@ -23,6 +26,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1978-01-07'
+release_year: 1977
+runtime: 263666
 ---
 If it's getting harder to face every day
 Don't let it show, don't let it show

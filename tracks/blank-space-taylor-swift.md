@@ -1,8 +1,11 @@
 ---
+album: '1989'
 artists:
 - Taylor Swift
+external_ids:
+  spotify: spotify:track:1p80LdxRV74UKvL8gnD7ky
 features: []
-genres: []
+first_released_as_single: false
 key: blank-space-taylor-swift
 lyrics_url: https://www.azlyrics.com/lyrics/taylorswift/blankspace.html
 name: Blank Space
@@ -151,8 +154,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2015-07-18'
+release_year: 2014
+runtime: 231826
 ---
-
 Nice to meet you, where you been?
 I could show you incredible things
 Magic, madness, heaven, sin
@@ -245,6 +249,3 @@ Got a long list of ex-lovers
 They'll tell you I'm insane
 But I've got a blank space, baby
 And I'll write your name
-
-
-

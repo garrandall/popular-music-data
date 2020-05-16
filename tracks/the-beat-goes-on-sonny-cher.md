@@ -1,9 +1,12 @@
 ---
+album: In Case You're In Love
 artists:
 - Sonny
 - Cher
+external_ids:
+  spotify: spotify:track:6WIh0P8aupqSHeqUULThF0
 features: []
-genres: []
+first_released_as_single: false
 key: the-beat-goes-on-sonny-cher
 lyrics_url: https://www.azlyrics.com/lyrics/sonnycher/thebeatgoeson.html
 name: The Beat Goes On
@@ -52,9 +55,9 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '1967-03-25'
+release_year: 1967
+runtime: 208160
 ---
-
-
 The beat goes on, the beat goes on
 Drums keep pounding
 A rhythm to the brain
@@ -79,4 +82,3 @@ Boys keep chasing girls to get a kiss
 The cars keep going faster all the time
 Bums still cry, "Hey buddy,
 have you got a dime?"
-

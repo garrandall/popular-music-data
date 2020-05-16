@@ -1,8 +1,11 @@
 ---
+album: Barking At Airplanes (Bonus Tracks)
 artists:
 - Kim Carnes
+external_ids:
+  spotify: spotify:track:5UMWmHdI90c1w7Vx7Rorne
 features: []
-genres: []
+first_released_as_single: false
 key: crazy-in-the-night--barking-at-airplanes--kim-carnes
 lyrics_url: https://www.azlyrics.com/lyrics/kimcarnes/crazyinthenightbarkingatairplanes.html
 name: Crazy In The Night (Barking At Airplanes)
@@ -71,8 +74,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1985-08-24'
+release_year: 1985
+runtime: 213413
 ---
-
 Sometimes I really think
 I'm going crazy in the night
 When I hide down in the covers
@@ -143,6 +147,3 @@ Crazy in the night
 Doo, doo, doo, doo...
 Doo, doo, doo, doo...
 Crazy in the night
-
-
-

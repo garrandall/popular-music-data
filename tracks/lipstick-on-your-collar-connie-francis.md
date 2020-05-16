@@ -1,8 +1,11 @@
 ---
+album: Gold
 artists:
 - Connie Francis
+external_ids:
+  spotify: spotify:track:6psYpUSDyjlkSzFtgcGURp
 features: []
-genres: []
+first_released_as_single: false
 key: lipstick-on-your-collar-connie-francis
 lyrics_url: https://www.azlyrics.com/lyrics/conniefrancis/lipstickonyourcollar.html
 name: Lipstick On Your Collar
@@ -75,8 +78,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1959-09-07'
+release_year: 1959
+runtime: 136360
 ---
-
 (yeah, yeah, yeah, yeah, yeah, yeah)
 (yeah, yeah, yeah, yeah, yeah, yeah)
 
@@ -102,6 +106,3 @@ Cause, lipstick on you collar told a tale on you, boy
 
 Told a tale on you, man
 Told a tale on you, yeah
-
-
-

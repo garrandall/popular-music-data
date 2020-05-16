@@ -1,8 +1,11 @@
 ---
+album: Awakening
 artists:
 - Narada Michael Walden
+external_ids:
+  spotify: spotify:track:5m1yvpav4CeHUAt5qb1u2A
 features: []
-genres: []
+first_released_as_single: false
 key: i-don-t-want-nobody-else--to-dance-with-you--narada-michael-walden
 lyrics_url: https://genius.com/Narada-michael-walden-i-dont-want-nobody-else-to-dance-with-you-lyrics
 name: I Don't Want Nobody Else (To Dance With You)
@@ -51,6 +54,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1979-06-09'
+release_year: 1979
+runtime: 260600
 ---
 I don't want nobody else
 To mess with you

@@ -1,8 +1,11 @@
 ---
+album: The Soft Parade
 artists:
 - The Doors
+external_ids:
+  spotify: spotify:track:13ejmQX8lVzeKijqMWiNO7
 features: []
-genres: []
+first_released_as_single: false
 key: wishful-sinful-the-doors
 lyrics_url: https://www.azlyrics.com/lyrics/doors/wishfulsinful.html
 name: Wishful Sinful
@@ -31,8 +34,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1969-05-03'
+release_year: 1969
+runtime: 175826
 ---
-
 Wishful crystal 
 Water covers everything in blue 
 Coolin' water 
@@ -64,6 +68,3 @@ Can't escape the blue
 
 Love to hear the wind cry 
 Love to hear you cry, yeah, yeah
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Measure Of A Man
 artists:
 - Clay Aiken
+external_ids:
+  spotify: spotify:track:2o3FnwgTs2I8AsUTjCUF6D
 features: []
-genres: []
+first_released_as_single: false
 key: solitaire-clay-aiken
 lyrics_url: https://www.azlyrics.com/lyrics/clayaiken/solitaire.html
 name: Solitaire
@@ -39,8 +42,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2004-05-22'
+release_year: 2003
+runtime: 325133
 ---
-
 There was a man, a lonely man
 Who lost his love through his indifference
 A heart that cared, that went unshared
@@ -83,6 +87,3 @@ Without her love it always ends the same
 While life goes on around him everywhere
 He's playing Solitaire
 Solitaire, solitaire
-
-
-

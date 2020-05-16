@@ -1,8 +1,11 @@
 ---
+album: Boomania
 artists:
 - Betty Boo
+external_ids:
+  spotify: spotify:track:3h9mCACYWP4iDVFEBhyyYC
 features: []
-genres: []
+first_released_as_single: false
 key: doin--the-do-betty-boo
 lyrics_url: https://genius.com/Betty-boo-doin-the-do-lyrics
 name: Doin' The Do
@@ -23,6 +26,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1990-11-24'
+release_year: 1990
+runtime: 222253
 ---
 (Oh, ah, ohah
 Oh, ah, ohah)

@@ -1,8 +1,11 @@
 ---
+album: Plays More Golden Songs Of Love
 artists:
 - Roger Williams
+external_ids:
+  spotify: spotify:track:0sP0QJlcnoVLzwts3Cf9re
 features: []
-genres: []
+first_released_as_single: false
 key: maria-roger-williams
 name: Maria
 rankings:
@@ -38,5 +41,7 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '1962-02-03'
+release_year: 1961
+runtime: 170000
 ---
 

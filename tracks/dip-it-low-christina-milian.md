@@ -1,8 +1,11 @@
 ---
+album: It's About Time
 artists:
 - Christina Milian
+external_ids:
+  spotify: spotify:track:4L55p6txv9vuCWhpNnY6eY
 features: []
-genres: []
+first_released_as_single: true
 key: dip-it-low-christina-milian
 lyrics_url: https://www.azlyrics.com/lyrics/christinamilian/dipitlow.html
 name: Dip It Low
@@ -127,8 +130,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2004-11-13'
+release_year: 2004
+runtime: 201000
 ---
-
 Says he wants you
 He says he needs you
 It's real talk, then why not make him wait for you
@@ -223,6 +227,3 @@ Roll it all around
 Poke it out let your back roll
 Pop pop pop that thing
 Ima show you how to make your man say "Ooo"
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: All Blues, Mitty Collier
 artists:
 - Mitty Collier
+external_ids:
+  spotify: spotify:track:4CwZNf5xaxlkPW6Mx1mT5O
 features: []
-genres: []
+first_released_as_single: false
 key: i-had-a-talk-with-my-man-mitty-collier
 lyrics_url: https://genius.com/Mitty-collier-i-had-a-talk-with-my-man-last-night-lyrics
 name: I Had A Talk With My Man
@@ -47,6 +50,8 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '1964-11-28'
+release_year: 1964
+runtime: 223400
 ---
 I had a talk
 With my man last night

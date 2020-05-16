@@ -1,8 +1,11 @@
 ---
+album: It's Up To You
 artists:
 - Ricky Nelson
+external_ids:
+  spotify: spotify:track:21GQhKoEr9WvrRGUZxzAsv
 features: []
-genres: []
+first_released_as_single: false
 key: young-emotions-ricky-nelson
 lyrics_url: https://www.azlyrics.com/lyrics/rickynelson/youngemotions.html
 name: Young Emotions
@@ -59,8 +62,9 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '1960-07-18'
+release_year: 1960
+runtime: 155040
 ---
-
 Young emotions are mixed emotions
 For it's a world where love and confusion reign
 A world of hope and laughter and tears and pain
@@ -81,6 +85,3 @@ We'll face each new tomorrow, dear, undismayed
 For our love will keep us together
 And our love will help us to weather
 These young emotions
-
-
-

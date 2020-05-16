@@ -1,9 +1,12 @@
 ---
+album: Goodbye & Good Riddance
 artists:
 - Juice WRLD
+external_ids:
+  spotify: spotify:track:1a7WZZZH7LzyvorhpOJFTe
 features:
 - Lil Uzi Vert
-genres: []
+first_released_as_single: false
 key: wasted-juice-wrld-lil-uzi-vert
 lyrics_url: https://www.azlyrics.com/lyrics/juicewrld/wasted.html
 name: Wasted
@@ -32,9 +35,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2018-09-08'
+release_year: 2018
+runtime: 258475
 ---
-
-
 Fuck, Perc'
 CB on the beat
 Perc', bitch
@@ -143,6 +146,3 @@ Wasted
 
 
 Wasted, wasted, wasted, wasted
-
-
-

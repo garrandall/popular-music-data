@@ -1,8 +1,11 @@
 ---
+album: Out Of The Blue
 artists:
 - Debbie Gibson
+external_ids:
+  spotify: spotify:track:0KhiesN7gLBPEQhKsBmrI1
 features: []
-genres: []
+first_released_as_single: false
 key: foolish-beat-debbie-gibson
 lyrics_url: https://www.azlyrics.com/lyrics/debbiegibson/foolishbeat.html
 name: Foolish Beat
@@ -87,8 +90,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1988-09-03'
+release_year: 1987
+runtime: 262413
 ---
-
 There was a time when
 Broken hearts and broken dreams
 Were over.
@@ -134,6 +138,3 @@ Never meant to hurt you now you're gone
 I could never love again now that we're apart.
 (now that we're apart)
 I could never love again now that we're apart.
-
-
-

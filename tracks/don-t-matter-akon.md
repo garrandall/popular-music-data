@@ -1,8 +1,11 @@
 ---
+album: Konvicted
 artists:
 - Akon
+external_ids:
+  spotify: spotify:track:7I6DceMT3utDOHjcYCbrr4
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-matter-akon
 lyrics_url: https://genius.com/Akon-dont-matter-lyrics
 name: Don't Matter
@@ -99,6 +102,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2007-07-07'
+release_year: 2006
+runtime: 293053
 ---
 Konvict
 Oh, oh-whoa-oh-oh

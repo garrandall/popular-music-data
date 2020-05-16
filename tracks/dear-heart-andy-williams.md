@@ -1,8 +1,11 @@
 ---
+album: Dear Heart
 artists:
 - Andy Williams
+external_ids:
+  spotify: spotify:track:4QfQ60aBnE2MJFU9n7ZoTK
 features: []
-genres: []
+first_released_as_single: false
 key: dear-heart-andy-williams
 lyrics_url: https://genius.com/Andy-williams-dear-heart-lyrics
 name: Dear Heart
@@ -51,6 +54,8 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1965-02-06'
+release_year: 1962
+runtime: 173240
 ---
 Dear heart wish you were here to warm this night
 My dear heart, seems like a year since you've been out of my sight

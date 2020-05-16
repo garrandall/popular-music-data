@@ -1,8 +1,11 @@
 ---
+album: They Call Me The Fat Man (The Legendary Imperial Recordings)
 artists:
 - Fats Domino
+external_ids:
+  spotify: spotify:track:4OKXTJcGUrrBCnsozG4WxH
 features: []
-genres: []
+first_released_as_single: false
 key: what-a-party-fats-domino
 lyrics_url: https://genius.com/Fats-domino-what-a-party-lyrics
 name: What A Party
@@ -39,20 +42,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1961-11-20'
+release_year: 1961
+runtime: 119760
 ---
-Fats spoken: 'Ha-ha-ha, Let's go!'
-
-Unks:
-'Settle down, alright, alright'
-'Settle down there, slow down'
-'Can't wait'
-'Have to all wait for the party'
-'Then I want ya to slow down, ha-ha-ha)
-'Just wait'
-'Woo-woo!'
-
-Song begins vocal, Fats Domino
-
 Where was Jody, when the lights went out?
 Standin' in the corner
 Shout-shout sissy, shout
@@ -96,14 +88,10 @@ What a party
 Lordy, Lordy!
 (Big fat piano man, he sho' could play-ay-ay)
 
-(instrumental, sax and chatter)
-
 'Blow that thing, now! Hard!'
 
 'One more for man Hardesty'
 
 Take out
-
-FADES-
 
 Where was Jody when the lights went out?

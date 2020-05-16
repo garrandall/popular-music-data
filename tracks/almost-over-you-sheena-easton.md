@@ -1,8 +1,11 @@
 ---
+album: Best Kept Secret
 artists:
 - Sheena Easton
+external_ids:
+  spotify: spotify:track:5mKqa89zAVKXMRY92haT6p
 features: []
-genres: []
+first_released_as_single: false
 key: almost-over-you-sheena-easton
 lyrics_url: https://genius.com/Sheena-easton-almost-over-you-lyrics
 name: Almost Over You
@@ -87,6 +90,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1984-04-21'
+release_year: 1983
+runtime: 221493
 ---
 I saw an old friend of ours today
 She asked about you, I didn't quite know what to say

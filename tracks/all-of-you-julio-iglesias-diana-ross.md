@@ -1,9 +1,12 @@
 ---
+album: 1100 Bel Air Place
 artists:
 - Julio Iglesias
 - Diana Ross
+external_ids:
+  spotify: spotify:track:6D7sAmPy0VzY6eNkvoin0V
 features: []
-genres: []
+first_released_as_single: false
 key: all-of-you-julio-iglesias-diana-ross
 lyrics_url: https://genius.com/Julio-iglesias-all-of-you-lyrics
 name: All Of You
@@ -72,6 +75,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1984-10-20'
+release_year: 1984
+runtime: 238293
 ---
 I've never had this feeling before
 I've never wanted anyone more

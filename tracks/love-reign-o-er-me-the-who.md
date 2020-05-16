@@ -1,8 +1,11 @@
 ---
+album: Quadrophenia
 artists:
 - The Who
+external_ids:
+  spotify: spotify:track:4Mqs0h95KAeNiGp7u4udlt
 features: []
-genres: []
+first_released_as_single: false
 key: love-reign-o-er-me-the-who
 lyrics_url: https://genius.com/The-who-love-reign-oer-me-lyrics
 name: Love Reign O'er Me
@@ -27,6 +30,8 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1973-12-29'
+release_year: 1973
+runtime: 349600
 ---
 Only love can make it rain
 The way the beach is kissed by the sea

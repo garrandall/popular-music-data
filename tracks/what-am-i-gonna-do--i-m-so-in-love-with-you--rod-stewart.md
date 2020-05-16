@@ -1,8 +1,11 @@
 ---
+album: Body Wishes
 artists:
 - Rod Stewart
+external_ids:
+  spotify: spotify:track:5347YIN7eYqibxvq4HUztr
 features: []
-genres: []
+first_released_as_single: false
 key: what-am-i-gonna-do--i-m-so-in-love-with-you--rod-stewart
 lyrics_url: https://genius.com/Rod-stewart-what-am-i-gonna-do-im-so-in-love-with-you-lyrics
 name: What Am I Gonna Do (I'm So In Love With You)
@@ -55,6 +58,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1983-11-12'
+release_year: 1983
+runtime: 260360
 ---
 Can I tell you what you mean to me?
 You're as central as the air I breathe

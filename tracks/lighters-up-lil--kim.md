@@ -1,8 +1,11 @@
 ---
+album: Candy Land
 artists:
 - Lil' Kim
+external_ids:
+  spotify: spotify:track:4eihdGG3Tga3oFq4yqCDeL
 features: []
-genres: []
+first_released_as_single: true
 key: lighters-up-lil--kim
 lyrics_url: https://www.azlyrics.com/lyrics/lilkim/lightersup.html
 name: Lighters Up
@@ -59,9 +62,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2005-12-17'
+release_year: 2005
+runtime: 262640
 ---
-
-
 I come from Bed-Stuy, niggas either do or they gon' die
 Gotta keep the ratchet close by
 Someone murdered, nobody seen, nobody heard it
@@ -171,6 +174,3 @@ But fuck it, bartender you can gimmie one mo'
 (Lightin' the dutch like) I don't think I'm ever gon' smoke no mo'
 (Passin' the cup like) And I don't think I'm ever gon' drink no mo'
 (Back at the bar like) But fuck it baretender, you can gimmie one mo'
-
-
-

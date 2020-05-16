@@ -1,8 +1,11 @@
 ---
+album: StarStruck
 artists:
 - Christopher Wilde
+external_ids:
+  spotify: spotify:track:3q3pZHncNkvIWJebMeuQqQ
 features: []
-genres: []
+first_released_as_single: false
 key: hero-christopher-wilde
 lyrics_url: https://www.musixmatch.com/lyrics/Christopher-Wilde-Stubby/Hero
 name: Hero
@@ -11,6 +14,8 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '2010-03-06'
+release_year: 2010
+runtime: 196893
 ---
 I'm no superman
 I can't take your hand

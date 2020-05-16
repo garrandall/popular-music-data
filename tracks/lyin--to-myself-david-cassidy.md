@@ -1,8 +1,11 @@
 ---
+album: Then And Now
 artists:
 - David Cassidy
+external_ids:
+  spotify: spotify:track:3gdD2aleRK8NMD3sgDCaQO
 features: []
-genres: []
+first_released_as_single: false
 key: lyin--to-myself-david-cassidy
 lyrics_url: https://www.azlyrics.com/lyrics/davidcassidy/lyintomyself.html
 name: Lyin' To Myself
@@ -71,8 +74,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1991-01-05'
+release_year: 1990
+runtime: 227160
 ---
-
 So I'll never feel your touch again
 I'll get used to it
 Hearts don't break they just bend
@@ -127,6 +131,3 @@ I been lyin' to myself
 No matter what I say
 Can't make you go away
 I'm lyin' to myself
-
-
-

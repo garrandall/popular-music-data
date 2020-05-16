@@ -1,8 +1,11 @@
 ---
+album: More of The Monkees
 artists:
 - The Monkees
+external_ids:
+  spotify: spotify:track:2U1nVCTFKFdieTPTg3VrvY
 features: []
-genres: []
+first_released_as_single: false
 key: valleri-the-monkees
 lyrics_url: https://www.azlyrics.com/lyrics/monkees/valleri.html
 name: Valleri
@@ -47,8 +50,9 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1968-05-11'
+release_year: 1967
+runtime: 134213
 ---
-
 Valleri. I love my Valleri.
 
 There's a girl I know who makes me feel so good.
@@ -68,6 +72,3 @@ I love my Valleri.
 Valleri. I love my Valleri.
 I love my Valleri.
 I need ya, Valleri.
-
-
-

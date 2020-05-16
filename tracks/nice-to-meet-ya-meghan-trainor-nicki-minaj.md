@@ -1,9 +1,12 @@
 ---
+album: TREAT MYSELF
 artists:
 - Meghan Trainor
+external_ids:
+  spotify: spotify:track:3ajnLeKi68hYJ7BVOO4wPO
 features:
 - Nicki Minaj
-genres: []
+first_released_as_single: true
 key: nice-to-meet-ya-meghan-trainor-nicki-minaj
 lyrics_url: https://genius.com/Meghan-trainor-nice-to-meet-ya-lyrics
 name: Nice To Meet Ya
@@ -12,6 +15,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2020-02-15'
+release_year: 2020
+runtime: 197003
 ---
 Nice to meet ya (Mmm, oh)
 Nice to meet ya (Oh)

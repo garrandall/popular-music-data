@@ -1,8 +1,11 @@
 ---
+album: Ella Mai
 artists:
 - Ella Mai
+external_ids:
+  spotify: spotify:track:2GlATHCDbLW7xq5BE0Bz5g
 features: []
-genres: []
+first_released_as_single: false
 key: shot-clock-ella-mai
 lyrics_url: https://www.azlyrics.com/lyrics/ellamai/shotclock.html
 name: Shot Clock
@@ -71,8 +74,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2019-05-25'
+release_year: 2018
+runtime: 201609
 ---
-
 Twenty four seconds. yeah. you better not stop
 You got twenty four seconds. can you beat the shot clock?
 What you're waitin' on, little daddy. I ain't got that much time
@@ -160,6 +164,3 @@ Add "-rs", and that's surely what we are
 Flip it 'round, add "-ve", and let's see if this goes far
 Full of chuckles and cuddles and sometimes eye puddles
 Compose love like we're Mozart
-
-
-

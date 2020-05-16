@@ -1,8 +1,11 @@
 ---
+album: Greatest Hits Album
 artists:
 - Ruby And The Romantics
+external_ids:
+  spotify: spotify:track:3EyO59J9LIkMD9NgKu0Mhg
 features: []
-genres: []
+first_released_as_single: false
 key: hey-there-lonely-boy-ruby-and-the-romantics
 lyrics_url: https://genius.com/Ruby-and-the-romantics-hey-there-lonely-boy-lyrics
 name: Hey There Lonely Boy
@@ -43,6 +46,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1963-10-05'
+release_year: 1963
+runtime: 165106
 ---
 Hey there, lonely boy, lonely boy
 Let me make your broken heart like new

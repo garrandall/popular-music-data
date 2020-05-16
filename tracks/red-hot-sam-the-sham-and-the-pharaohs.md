@@ -1,8 +1,11 @@
 ---
+album: The MGM Singles
 artists:
 - Sam The Sham and the Pharaohs
+external_ids:
+  spotify: spotify:track:1LSiTHp5XUb59Yz7Eqj9yd
 features: []
-genres: []
+first_released_as_single: false
 key: red-hot-sam-the-sham-and-the-pharaohs
 lyrics_url: https://genius.com/Sam-the-sham-and-the-pharaohs-red-hot-lyrics
 name: Red Hot
@@ -27,6 +30,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1966-03-05'
+release_year: 1966
+runtime: 136786
 ---
 My gal is red hot - your gal ain't doodley squat
 My gal is red hot - your gal ain't doodley squat

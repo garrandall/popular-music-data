@@ -1,8 +1,11 @@
 ---
+album: Rockin' Robin
 artists:
 - Bobby Day
+external_ids:
+  spotify: spotify:track:3ixHQiAUk6F6ZU1tipromq
 features: []
-genres: []
+first_released_as_single: false
 key: over-and-over-bobby-day
 lyrics_url: https://genius.com/Bobby-day-over-and-over-lyrics
 name: Over And Over
@@ -51,6 +54,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1958-10-13'
+release_year: 1958
+runtime: 143320
 ---
 Ah-mmm, ah-mmm, ah-mmm, ah-mmm
 Well, I went to a dance just the other night

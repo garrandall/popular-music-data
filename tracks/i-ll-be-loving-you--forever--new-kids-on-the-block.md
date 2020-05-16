@@ -1,8 +1,11 @@
 ---
+album: Hangin' Tough
 artists:
 - New Kids On The Block
+external_ids:
+  spotify: spotify:track:6MOvLTjY7gORghlNsqbtob
 features: []
-genres: []
+first_released_as_single: false
 key: i-ll-be-loving-you--forever--new-kids-on-the-block
 lyrics_url: https://genius.com/New-kids-on-the-block-ill-be-loving-you-forever-lyrics
 name: I'll Be Loving You (Forever)
@@ -91,6 +94,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1989-08-19'
+release_year: 1986
+runtime: 263360
 ---
 Yeah
 

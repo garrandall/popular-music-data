@@ -1,8 +1,11 @@
 ---
+album: Best Kept Secret
 artists:
 - Sheena Easton
+external_ids:
+  spotify: spotify:track:1RYbxVnY5726RJwJbg9Z8Q
 features: []
-genres: []
+first_released_as_single: false
 key: telefone--long-distance-love-affair--sheena-easton
 lyrics_url: https://www.azlyrics.com/lyrics/sheenaeaston/telefonelongdistanceloveaffair.html
 name: Telefone (long Distance Love Affair)
@@ -95,8 +98,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1984-01-14'
+release_year: 1983
+runtime: 224453
 ---
-
 I've been away from you
 For far too long
 Too much absence
@@ -160,6 +164,3 @@ I call you on the telephone
 But you're never home
 
 Long, long distance love affair...
-
-
-

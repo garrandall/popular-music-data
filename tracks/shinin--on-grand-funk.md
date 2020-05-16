@@ -1,8 +1,11 @@
 ---
+album: Shinin' On
 artists:
 - Grand Funk
+external_ids:
+  spotify: spotify:track:7fOclWmW04VUpP8kPx0rwY
 features: []
-genres: []
+first_released_as_single: false
 key: shinin--on-grand-funk
 lyrics_url: https://www.azlyrics.com/lyrics/grandfunkrailroad/shininon.html
 name: Shinin' On
@@ -51,8 +54,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1974-09-21'
+release_year: 1974
+runtime: 358066
 ---
-
 We are winners and losers, bedfellow choosers
 Put here to pass by the time
 We are space-age sailors, all had our failures
@@ -89,6 +93,3 @@ Keep it shinin', keep it shinin', keep it shinin' on
 Keep it shinin', keep it shinin', keep it shinin' on
 Keep it shinin', keep it shinin', keep it shinin' on
 Keep it shinin', keep it shinin', keep it shinin' on
-
-
-

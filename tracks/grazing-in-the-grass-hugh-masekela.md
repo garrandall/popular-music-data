@@ -1,8 +1,11 @@
 ---
+album: The Promise Of A Future
 artists:
 - Hugh Masekela
+external_ids:
+  spotify: spotify:track:2P6Buc8kWRgShx7aHIadqu
 features: []
-genres: []
+first_released_as_single: false
 key: grazing-in-the-grass-hugh-masekela
 name: Grazing In The Grass
 rankings:
@@ -54,5 +57,7 @@ rankings:
   rank: 20
   ranking_list: Billboard Hot 100
   start_date: '1968-08-24'
+release_year: 1968
+runtime: 157773
 ---
 

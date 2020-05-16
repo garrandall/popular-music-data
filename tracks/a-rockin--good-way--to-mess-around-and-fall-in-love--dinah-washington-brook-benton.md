@@ -1,9 +1,12 @@
 ---
+album: The Two Of Us
 artists:
 - Dinah Washington
 - Brook Benton
+external_ids:
+  spotify: spotify:track:4ydSzWwxqtNdP4VPfQe8bf
 features: []
-genres: []
+first_released_as_single: false
 key: a-rockin--good-way--to-mess-around-and-fall-in-love--dinah-washington-brook-benton
 lyrics_url: https://genius.com/Dinah-washington-and-brook-benton-a-rockin-good-way-to-mess-around-and-fall-in-love-lyrics
 name: A Rockin' Good Way (To Mess Around And Fall In Love)
@@ -60,6 +63,8 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1960-08-15'
+release_year: 1960
+runtime: 148226
 ---
 If you're gonna give me
 Good kissin' like that

@@ -1,8 +1,11 @@
 ---
+album: Unlimited
 artists:
 - Love Unlimited
+external_ids:
+  spotify: spotify:track:2HgLWjlqIJWYDoRZyoeyCc
 features: []
-genres: []
+first_released_as_single: false
 key: under-the-influence-of-love-love-unlimited
 lyrics_url: https://genius.com/Love-unlimited-under-the-influence-of-love-lyrics
 name: Under The Influence Of Love
@@ -39,6 +42,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1974-05-18'
+release_year: 1974
+runtime: 260466
 ---
 Under the Influence of Love
 

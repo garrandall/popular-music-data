@@ -1,9 +1,12 @@
 ---
+album: Wow... That's Crazy
 artists:
 - Wale
+external_ids:
+  spotify: spotify:track:3dHyuTAwmdpYZ2x8SmPjsa
 features:
 - Jeremih
-genres: []
+first_released_as_single: true
 key: on-chill-wale-jeremih
 lyrics_url: https://www.azlyrics.com/lyrics/wale/onchill.html
 name: On Chill
@@ -100,9 +103,9 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '2020-01-25'
+release_year: 2019
+runtime: 214035
 ---
-
-
 We've been on a tragedy for months
 Why can't you agree with me for once?
 Maybe we can be on chill tonight
@@ -186,6 +189,3 @@ Maybe I can give you chills too
 
 Just give me all
 Just be there, yeah, yeah
-
-
-

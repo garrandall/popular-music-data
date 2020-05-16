@@ -1,8 +1,11 @@
 ---
+album: Topsy II
 artists:
 - Cozy Cole
+external_ids:
+  spotify: spotify:track:7wKOWJBWY9IVP04YB5L3Ms
 features: []
-genres: []
+first_released_as_single: true
 key: topsy-i-cozy-cole
 lyrics_url: https://en.wikipedia.org/wiki/Topsy_%28instrumental%29
 name: Topsy I
@@ -59,5 +62,7 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1958-12-08'
+release_year: 1958
+runtime: 216266
 ---
 (Instrumental)

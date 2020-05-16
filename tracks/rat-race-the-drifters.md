@@ -1,8 +1,11 @@
 ---
+album: Under The Boardwalk
 artists:
 - The Drifters
+external_ids:
+  spotify: spotify:track:5zYRLs7Zvmqu2riKoU0V0P
 features: []
-genres: []
+first_released_as_single: false
 key: rat-race-the-drifters
 lyrics_url: https://www.azlyrics.com/lyrics/drifters/ratrace.html
 name: Rat Race
@@ -31,8 +34,9 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1963-07-20'
+release_year: 1963
+runtime: 132466
 ---
-
 You know it's cruel
 Out here in this rat race
 There's just one rule
@@ -76,6 +80,3 @@ I ain't giving in, no, no, no, no
 Out here in this rat race
 I'm gonna win, yes, I will
 Oh, in this rat race
-
-
-

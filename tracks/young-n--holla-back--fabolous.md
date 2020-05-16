@@ -1,8 +1,11 @@
 ---
+album: Ghetto Fabolous
 artists:
 - Fabolous
+external_ids:
+  spotify: spotify:track:0jdkdbnRwNVHJQ6zL84pQs
 features: []
-genres: []
+first_released_as_single: false
 key: young-n--holla-back--fabolous
 lyrics_url: https://genius.com/Fabolous-youngn-lyrics
 name: Young'n (Holla Back)
@@ -87,6 +90,8 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '2002-04-13'
+release_year: 2001
+runtime: 206400
 ---
 Brooklyn, uh, uh, uh, uh
 Huh, huh, uh, huh, do it huh, yea

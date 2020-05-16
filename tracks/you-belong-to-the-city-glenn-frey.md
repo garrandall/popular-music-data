@@ -1,8 +1,11 @@
 ---
+album: Above The Clouds - The Collection
 artists:
 - Glenn Frey
+external_ids:
+  spotify: spotify:track:26bNrOZYAO8MISgmJ0aj11
 features: []
-genres: []
+first_released_as_single: false
 key: you-belong-to-the-city-glenn-frey
 lyrics_url: https://www.azlyrics.com/lyrics/glennfrey/youbelongtothecity.html
 name: You Belong To The City
@@ -91,8 +94,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1986-02-01'
+release_year: 1985
+runtime: 351906
 ---
-
 The sun goes down
 The night rolls in
 You can feel it starting
@@ -169,6 +173,3 @@ You belong to the night
 You belong
 You belong
 Oh...
-
-
-

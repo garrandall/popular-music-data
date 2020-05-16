@@ -1,8 +1,11 @@
 ---
+album: Back In Black
 artists:
 - AC/DC
+external_ids:
+  spotify: spotify:track:08mG3Y1vljYA6bvDt4Wqkj
 features: []
-genres: []
+first_released_as_single: false
 key: back-in-black-ac-dc
 lyrics_url: https://genius.com/Ac-dc-back-in-black-lyrics
 name: Back In Black
@@ -67,6 +70,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1981-03-28'
+release_year: 1980
+runtime: 255493
 ---
 Back in black, I hit the sack
 I've been too long, I'm glad to be back

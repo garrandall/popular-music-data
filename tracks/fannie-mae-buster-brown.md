@@ -1,8 +1,11 @@
 ---
+album: The Best of Buster Brown
 artists:
 - Buster Brown
+external_ids:
+  spotify: spotify:track:6pl9lXW9WCDDCVMrLlKGpD
 features: []
-genres: []
+first_released_as_single: false
 key: fannie-mae-buster-brown
 lyrics_url: https://genius.com/Buster-brown-fannie-mae-lyrics
 name: Fannie Mae
@@ -75,6 +78,8 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1960-05-23'
+release_year: 1960
+runtime: 178096
 ---
 Well, I want somebody
 Tell me what's wrong with me
@@ -100,13 +105,9 @@ Am or I j' wa'tin' my time?
 
 Yeah!
 
-(harmonica - hoo ha)
-
 Cryin', oh
 Oh, oh, oh, poor me!
 Cryin', oh
 Oh, whoa, oh, poor me!
 Well, I ain't in trouble
 So much a-misery
-
-~

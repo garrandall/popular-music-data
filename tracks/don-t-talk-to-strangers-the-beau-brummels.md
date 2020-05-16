@@ -1,8 +1,11 @@
 ---
+album: 'The Beau Brummels: Volume 2'
 artists:
 - The Beau Brummels
+external_ids:
+  spotify: spotify:track:1dkJULroPokBp77UKuIe4T
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-talk-to-strangers-the-beau-brummels
 lyrics_url: https://www.musixmatch.com/lyrics/The-Beau-Brummels/Don-t-Talk-to-Strangers
 name: Don't Talk To Strangers
@@ -39,6 +42,8 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '1965-11-27'
+release_year: 1965
+runtime: 141880
 ---
 Follow your lone beaten path
 Wander where you can't be grabbed

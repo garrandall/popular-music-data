@@ -1,8 +1,11 @@
 ---
+album: Non Stop
 artists:
 - The Box Tops
+external_ids:
+  spotify: spotify:track:3pQfi366amwU7IrWJbZPo6
 features: []
-genres: []
+first_released_as_single: false
 key: i-met-her-in-church-the-box-tops
 lyrics_url: https://www.azlyrics.com/lyrics/boxtops/imetherinchurch.html
 name: I Met Her In Church
@@ -31,8 +34,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1968-10-19'
+release_year: 1968
+runtime: 161760
 ---
-
 I met her in church!
 I met her in church, on a Sunday morning
 She looked at me with eyes of love, as the choir sang, "Hallelujah!"
@@ -62,6 +66,3 @@ Singing, Hallelujah!
 
 I met her in church; I met her in church
 Hallelujah!
-
-
-

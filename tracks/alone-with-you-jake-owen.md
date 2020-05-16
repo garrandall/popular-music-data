@@ -1,8 +1,11 @@
 ---
+album: Barefoot Blue Jean Night
 artists:
 - Jake Owen
+external_ids:
+  spotify: spotify:track:2Xdatbm43IXEVi0wmKeJve
 features: []
-genres: []
+first_released_as_single: false
 key: alone-with-you-jake-owen
 lyrics_url: https://genius.com/Jake-owen-alone-with-you-lyrics
 name: Alone With You
@@ -87,6 +90,8 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '2012-05-05'
+release_year: 2011
+runtime: 210973
 ---
 I don’t see you laugh
 You don’t call me back

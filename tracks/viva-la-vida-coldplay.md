@@ -1,8 +1,11 @@
 ---
+album: Viva La Vida or Death and All His Friends
 artists:
 - Coldplay
+external_ids:
+  spotify: spotify:track:1mea3bSkSGXuIRvnydlB5b
 features: []
-genres: []
+first_released_as_single: false
 key: viva-la-vida-coldplay
 lyrics_url: https://www.azlyrics.com/lyrics/coldplay/vivalavida.html
 name: Viva La Vida
@@ -211,8 +214,9 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2009-05-09'
+release_year: 2008
+runtime: 242373
 ---
-
 I used to rule the world
 Seas would rise when I gave the word
 Now in the morning I sleep alone
@@ -264,6 +268,3 @@ For some reason I can't explain
 I know St. Peter won't call my name
 Never an honest word
 But that was when I ruled the world
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Busted
 artists:
 - Cheap Trick
+external_ids:
+  spotify: spotify:track:1HSV3wfPeq8fp0uAJ2rZ4Q
 features: []
-genres: []
+first_released_as_single: false
 key: can-t-stop-falling-into-love-cheap-trick
 lyrics_url: https://www.musixmatch.com/lyrics/Cheap-Trick/Can-t-Stop-Falling-Into-Love
 name: Can't Stop Falling Into Love
@@ -63,6 +66,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1990-10-20'
+release_year: 1990
+runtime: 229680
 ---
 Yeah, oh oh, yeah yeah
 

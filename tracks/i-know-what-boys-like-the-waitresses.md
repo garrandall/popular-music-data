@@ -1,8 +1,11 @@
 ---
+album: Wasn't Tomorrow Wonderful?
 artists:
 - The Waitresses
+external_ids:
+  spotify: spotify:track:7DHURI0yVkwwupVn9lKBrL
 features: []
-genres: []
+first_released_as_single: false
 key: i-know-what-boys-like-the-waitresses
 lyrics_url: https://genius.com/The-waitresses-i-know-what-boys-like-lyrics
 name: I Know What Boys Like
@@ -31,6 +34,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1982-06-12'
+release_year: 1982
+runtime: 191213
 ---
 I know what boys like
 I know what guys want

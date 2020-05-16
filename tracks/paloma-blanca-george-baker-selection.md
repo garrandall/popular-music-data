@@ -1,8 +1,11 @@
 ---
+album: Paloma Blanca
 artists:
 - George Baker Selection
+external_ids:
+  spotify: spotify:track:7Eo7zJMxFp0CnzkZpWNitq
 features: []
-genres: []
+first_released_as_single: false
 key: paloma-blanca-george-baker-selection
 lyrics_url: https://genius.com/George-baker-selection-paloma-blanca-lyrics
 name: Paloma Blanca
@@ -67,6 +70,8 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '1976-03-06'
+release_year: 1975
+runtime: 233826
 ---
 When the sun shines on the mountains
 And the night is on the run

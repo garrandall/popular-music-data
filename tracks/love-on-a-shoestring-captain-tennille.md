@@ -1,9 +1,12 @@
 ---
+album: Make Your Move
 artists:
 - Captain
 - Tennille
+external_ids:
+  spotify: spotify:track:0PjUbzwtuZQDDLAt5ig7WO
 features: []
-genres: []
+first_released_as_single: false
 key: love-on-a-shoestring-captain-tennille
 lyrics_url: https://www.azlyrics.com/lyrics/captaintennille/loveonashoestring.html
 name: Love On A Shoestring
@@ -36,8 +39,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1980-04-19'
+release_year: 1979
+runtime: 221133
 ---
-
 We've been here before
 Like a book I read in the hall that leads to your door
 And my words hang in the air
@@ -80,6 +84,3 @@ With love on a shoestring
 
 There are no ties
 With love on a shoestring
-
-
-

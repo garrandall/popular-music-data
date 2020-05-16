@@ -1,9 +1,12 @@
 ---
+album: Babel (Deluxe Version)
 artists:
 - Mumford
 - Sons
+external_ids:
+  spotify: spotify:track:0hm8rgOY17z7kQJlqGKbu7
 features: []
-genres: []
+first_released_as_single: false
 key: i-will-wait-mumford-sons
 lyrics_url: https://genius.com/Mumford-and-sons-i-will-wait-lyrics
 name: I Will Wait
@@ -164,6 +167,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2013-05-18'
+release_year: 2012
+runtime: 276720
 ---
 Well I came home
 Like a stone

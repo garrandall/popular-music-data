@@ -1,8 +1,11 @@
 ---
+album: Faith
 artists:
 - Faith Hill
+external_ids:
+  spotify: spotify:track:6CkHxQ5cq9XXOGY33nuE4q
 features: []
-genres: []
+first_released_as_single: false
 key: love-ain-t-like-that-faith-hill
 lyrics_url: https://genius.com/Faith-hill-love-aint-like-that-lyrics
 name: Love Ain't Like That
@@ -39,6 +42,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1999-04-24'
+release_year: 1998
+runtime: 229366
 ---
 You can't buy it at the store, try it on for size
 Then bring it back if it don't feel right

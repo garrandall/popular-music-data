@@ -1,8 +1,11 @@
 ---
+album: Cliff In Japan
 artists:
 - Cliff Richard
+external_ids:
+  spotify: spotify:track:2mHxumAglMyKTCOIaRuANZ
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-all-in-the-game-cliff-richard
 lyrics_url: https://www.azlyrics.com/lyrics/cliffrichard/itsallinthegame.html
 name: It's All In The Game
@@ -59,8 +62,9 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '1964-02-29'
+release_year: 1963
+runtime: 203133
 ---
-
 Many a tear has to fall
 But it's all, in the game
 All in the wonderful game
@@ -87,6 +91,3 @@ And caress your waiting finger tips
 And your heart will fly away
 And your heart will fly fly away
 And your heart will fly away
-
-
-

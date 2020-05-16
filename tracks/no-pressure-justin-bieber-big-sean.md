@@ -1,9 +1,12 @@
 ---
+album: Purpose
 artists:
 - Justin Bieber
+external_ids:
+  spotify: spotify:track:23UV8pJEvRnAZd6ZAXBC0H
 features:
 - Big Sean
-genres: []
+first_released_as_single: false
 key: no-pressure-justin-bieber-big-sean
 lyrics_url: https://www.azlyrics.com/lyrics/justinbieber/nopressure.html
 name: No Pressure
@@ -24,8 +27,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2015-12-26'
+release_year: 2015
+runtime: 286853
 ---
-
 You ain't gotta answer none of my calls
 I'm believing you'll pick up one day
 I don't wanna add to your pain at all
@@ -127,6 +131,3 @@ You ain't gotta make your mind up right now
 Know I did you wrong
 Let your heart heal
 Don't rush, no pressure
-
-
-

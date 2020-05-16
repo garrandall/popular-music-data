@@ -1,8 +1,11 @@
 ---
+album: More Italian Favorites
 artists:
 - Connie Francis
+external_ids:
+  spotify: spotify:track:0CilgEUYPAWAl3FdoqIIit
 features: []
-genres: []
+first_released_as_single: false
 key: senza-mamma--with-no-one--connie-francis
 lyrics_url: https://www.musixmatch.com/lyrics/Connie-Francis/Senza-Mamma-E-Nnammurata
 name: Senza Mamma (With No One)
@@ -11,6 +14,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1960-11-07'
+release_year: 1960
+runtime: 245906
 ---
 Sperduto comm'a cane mmiez'в via
 Chiagne stu core mio addulurato

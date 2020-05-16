@@ -1,8 +1,11 @@
 ---
+album: Memory Almost Full
 artists:
 - Paul McCartney
+external_ids:
+  spotify: spotify:track:6VuK9CShxAcQn2I85wH0tU
 features: []
-genres: []
+first_released_as_single: false
 key: dance-tonight-paul-mccartney
 lyrics_url: https://www.azlyrics.com/lyrics/paulmccartney/dancetonight.html
 name: Dance Tonight
@@ -15,8 +18,9 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '2007-07-14'
+release_year: 2007
+runtime: 174933
 ---
-
 Everybody gonna dance tonight
 Everybody gonna feel alright
 Everybody gonna dance around tonight
@@ -59,6 +63,3 @@ Everybody gonna feel alright
 Everybody gonna dance around tonight
 Everybody gonna dance around tonight
 Everybody gonna feel alright tonight
-
-
-

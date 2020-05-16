@@ -1,9 +1,12 @@
 ---
+album: Angel Of The Morning
 artists:
 - Merrilee Rush
 - The Turnabouts
+external_ids:
+  spotify: spotify:track:5VRU4rEmimRYkT2CvOJo05
 features: []
-genres: []
+first_released_as_single: false
 key: angel-of-the-morning-merrilee-rush-the-turnabouts
 lyrics_url: https://genius.com/Merrilee-rush-and-the-turnabouts-angel-of-the-morning-lyrics
 name: Angel Of The Morning
@@ -72,6 +75,8 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '1968-08-17'
+release_year: 1962
+runtime: 187266
 ---
 There'll be no strings to bind your hands
 Not if my love can't bind your heart

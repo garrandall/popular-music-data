@@ -1,10 +1,13 @@
 ---
+album: Kanye West Presents Good Music Cruel Summer
 artists:
 - Kanye West
 - Jay-Z
 - Big Sean
+external_ids:
+  spotify: spotify:track:65rRB2mspD309xE6YimZTl
 features: []
-genres: []
+first_released_as_single: false
 key: clique-kanye-west-jay-z-big-sean
 lyrics_url: https://www.musixmatch.com/lyrics/Kanye-West-Jay-Z-Big-Sean/Clique
 name: Clique
@@ -97,6 +100,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '2013-02-16'
+release_year: 2012
+runtime: 293613
 ---
 What of the dollar you murdered for?
 Is that the one fighting for your soul?

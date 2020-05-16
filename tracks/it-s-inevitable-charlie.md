@@ -1,8 +1,11 @@
 ---
+album: Charlie
 artists:
 - Charlie
+external_ids:
+  spotify: spotify:track:4Tp9AtlLtV0aNagtUqTz4s
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-inevitable-charlie
 lyrics_url: https://www.musixmatch.com/lyrics/Charlie-2/It-s-Inevitable
 name: It's Inevitable
@@ -51,6 +54,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1983-09-03'
+release_year: 1983
+runtime: 234110
 ---
 Don't tell me you ain't
 Noticed I'm always around

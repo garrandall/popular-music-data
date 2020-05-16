@@ -1,8 +1,11 @@
 ---
+album: Three Cheers for Sweet Revenge
 artists:
 - My Chemical Romance
+external_ids:
+  spotify: spotify:track:1yKAqZoi8xWGLCf5vajroL
 features: []
-genres: []
+first_released_as_single: false
 key: the-ghost-of-you-my-chemical-romance
 lyrics_url: https://genius.com/My-chemical-romance-the-ghost-of-you-lyrics
 name: The Ghost Of You
@@ -11,6 +14,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '2006-01-14'
+release_year: 2004
+runtime: 194253
 ---
 I never said I'd lie and wait forever
 If I died, we'd be together

@@ -1,11 +1,14 @@
 ---
+album: If No-One Sang
 artists:
 - Dave Dee
 - Dozy
 - Beaky
 - Mick And Tich
+external_ids:
+  spotify: spotify:track:1FPmEIIIhzo6lSUXPoxVuS
 features: []
-genres: []
+first_released_as_single: false
 key: zabadak-dave-dee-dozy-beaky-mick-and-tich
 lyrics_url: https://genius.com/Dave-dee-dozy-beaky-mick-and-tich-zabadak-lyrics
 name: Zabadak
@@ -34,6 +37,8 @@ rankings:
   rank: 52
   ranking_list: Billboard Hot 100
   start_date: '1968-02-10'
+release_year: 1968
+runtime: 228666
 ---
 Zabadak, Zabadak
 Karakakora kakarakak

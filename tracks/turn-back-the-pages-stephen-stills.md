@@ -1,8 +1,11 @@
 ---
+album: Stills
 artists:
 - Stephen Stills
+external_ids:
+  spotify: spotify:track:4pVA399XGov2hhrrxSJip2
 features: []
-genres: []
+first_released_as_single: false
 key: turn-back-the-pages-stephen-stills
 lyrics_url: https://www.azlyrics.com/lyrics/stephenstills/turnbackthepages.html
 name: Turn Back The Pages
@@ -19,8 +22,9 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1975-08-23'
+release_year: 1975
+runtime: 243800
 ---
-
 I thought I knew you
 I guess I took myself
 Right down the wrong road
@@ -67,6 +71,3 @@ Who remembers faces
 Turn back don't drive yourself crazy
 Life's too short for ritualistic chases
 Turn back turn back turn back the pages
-
-
-

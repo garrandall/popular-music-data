@@ -1,8 +1,11 @@
 ---
+album: Music From Big Pink
 artists:
 - The Band
+external_ids:
+  spotify: spotify:track:0P7DoyGrr4Wp9w5TotEtUC
 features: []
-genres: []
+first_released_as_single: false
 key: the-weight-the-band
 lyrics_url: https://genius.com/The-band-the-weight-lyrics
 name: The Weight
@@ -35,6 +38,8 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '1968-10-12'
+release_year: 1968
+runtime: 274493
 ---
 I pulled in to Nazareth
 Was feeling 'bout half past dead

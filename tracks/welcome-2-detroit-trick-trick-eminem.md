@@ -1,9 +1,12 @@
 ---
+album: The People Vs.
 artists:
 - Trick-Trick
+external_ids:
+  spotify: spotify:track:79t5idiRhbDB1oLaVcTVsD
 features:
 - Eminem
-genres: []
+first_released_as_single: false
 key: welcome-2-detroit-trick-trick-eminem
 lyrics_url: https://www.azlyrics.com/lyrics/tricktrick/welcome2detroit.html
 name: Welcome 2 Detroit
@@ -12,9 +15,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2005-12-17'
+release_year: 2005
+runtime: 285453
 ---
-
-
 Yeah yeah
 Tricky
 Let's show 'em some love
@@ -103,6 +106,3 @@ Ayo Em, I got you back my nigga
 Damn right I said my nigga
 That's my nigga
 Tricky
-
-
-

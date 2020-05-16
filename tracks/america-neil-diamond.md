@@ -1,8 +1,11 @@
 ---
+album: You Don't Bring Me Flowers
 artists:
 - Neil Diamond
+external_ids:
+  spotify: spotify:track:7aQvmRcMwqeA7JcgMAdJWZ
 features: []
-genres: []
+first_released_as_single: false
 key: america-neil-diamond
 lyrics_url: https://www.azlyrics.com/lyrics/neildiamond/america.html
 name: America
@@ -75,8 +78,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1981-08-15'
+release_year: 1978
+runtime: 315160
 ---
-
 Far,
 We've been traveling far
 Without a home
@@ -127,6 +131,3 @@ Of thee I sing (today)
 Of thee I sing
 Today, Today, Today
 Today, today, today...
-
-
-

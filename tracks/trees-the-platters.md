@@ -1,8 +1,11 @@
 ---
+album: Life Is Just A Bowl Of Cherries!
 artists:
 - The Platters
+external_ids:
+  spotify: spotify:track:4xd5bNbIPVtOaQl81HifwS
 features: []
-genres: []
+first_released_as_single: false
 key: trees-the-platters
 lyrics_url: https://genius.com/The-platters-trees-lyrics
 name: Trees
@@ -23,6 +26,8 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1961-04-24'
+release_year: 1961
+runtime: 152093
 ---
 Trees, I think that I shall never see
 A poem lovely as a tree

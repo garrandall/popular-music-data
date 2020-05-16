@@ -1,8 +1,11 @@
 ---
+album: The Sign
 artists:
 - Ace Of Base
+external_ids:
+  spotify: spotify:track:3JXzEzQCYrblna7SCaegAm
 features: []
-genres: []
+first_released_as_single: true
 key: the-sign-ace-of-base
 lyrics_url: https://www.azlyrics.com/lyrics/aceofbase/thesign.html
 name: The Sign
@@ -171,8 +174,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1994-10-08'
+release_year: 1993
+runtime: 191240
 ---
-
 I, I got a new life
 You would hardly recognize me
 I'm so glad
@@ -230,6 +234,3 @@ I saw the sign
 I saw the sign
 And it opened up my eyes
 I saw the sign
-
-
-

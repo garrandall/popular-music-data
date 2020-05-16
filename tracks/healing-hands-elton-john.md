@@ -1,8 +1,11 @@
 ---
+album: Sleeping With The Past (Remastered with bonus tracks)
 artists:
 - Elton John
+external_ids:
+  spotify: spotify:track:4rxCQMELiiH0gk8nbTd2tR
 features: []
-genres: []
+first_released_as_single: false
 key: healing-hands-elton-john
 lyrics_url: https://genius.com/Elton-john-healing-hands-lyrics
 name: Healing Hands
@@ -67,6 +70,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1989-12-02'
+release_year: 1989
+runtime: 269960
 ---
 I never dreamed I could cry so hard
 That ain't like a man

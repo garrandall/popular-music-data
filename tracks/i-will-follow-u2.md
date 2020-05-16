@@ -1,8 +1,11 @@
 ---
+album: Boy
 artists:
 - U2
+external_ids:
+  spotify: spotify:track:0T702y9ndzZTnPq1bqiAM2
 features: []
-genres: []
+first_released_as_single: false
 key: i-will-follow-u2
 lyrics_url: https://www.azlyrics.com/lyrics/u2band/iwillfollow.html
 name: I Will Follow
@@ -27,8 +30,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1984-02-11'
+release_year: 1980
+runtime: 217386
 ---
-
 I will Follow
 
 I was on the outside when you said
@@ -70,6 +74,3 @@ I walkaway, walkaway...I will follow
 
 I will follow
 I will follow
-
-
-

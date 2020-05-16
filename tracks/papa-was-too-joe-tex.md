@@ -1,8 +1,11 @@
 ---
+album: The Very Best of, Volume 1
 artists:
 - Joe Tex
+external_ids:
+  spotify: spotify:track:73Ez9O5r0v2m3U1V2AY7Pn
 features: []
-genres: []
+first_released_as_single: false
 key: papa-was-too-joe-tex
 lyrics_url: https://genius.com/Joe-tex-papa-was-too-lyrics
 name: Papa Was Too
@@ -35,6 +38,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1967-01-28'
+release_year: 1965
+runtime: 181080
 ---
 Tramp!
 All right, baby, you can call me that

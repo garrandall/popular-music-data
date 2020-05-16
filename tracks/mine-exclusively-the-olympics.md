@@ -1,8 +1,11 @@
 ---
+album: Something Old, Something New
 artists:
 - The Olympics
+external_ids:
+  spotify: spotify:track:1akRi3C5ABbwtXNyVAeRYW
 features: []
-genres: []
+first_released_as_single: false
 key: mine-exclusively-the-olympics
 lyrics_url: https://genius.com/Olympics-mine-exclusively-lyrics
 name: Mine Exclusively
@@ -15,6 +18,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1966-05-07'
+release_year: 1960
+runtime: 145609
 ---
 Like a sweet thing
 You're on to my love

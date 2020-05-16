@@ -1,8 +1,11 @@
 ---
+album: Kamikaze
 artists:
 - Eminem
+external_ids:
+  spotify: spotify:track:2jt2WxXMCD4zjACthkJQVE
 features: []
-genres: []
+first_released_as_single: false
 key: the-ringer-eminem
 lyrics_url: https://genius.com/Eminem-the-ringer-lyrics
 name: The Ringer
@@ -23,6 +26,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2018-10-06'
+release_year: 2018
+runtime: 337941
 ---
 *Plane crash*
 Yeah (Illa, Illa, Illa)

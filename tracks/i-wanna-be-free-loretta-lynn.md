@@ -1,8 +1,11 @@
 ---
+album: 'Honky Tonk Girl: The Loretta Lynn Collection'
 artists:
 - Loretta Lynn
+external_ids:
+  spotify: spotify:track:3r95plWr8J7Q4icgadTa2b
 features: []
-genres: []
+first_released_as_single: false
 key: i-wanna-be-free-loretta-lynn
 lyrics_url: https://www.azlyrics.com/lyrics/lorettalynn/iwannabefree.html
 name: I Wanna Be Free
@@ -15,8 +18,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1971-05-01'
+release_year: 1971
+runtime: 137466
 ---
-
 Well I look out the window and what do I see
 The breeze is a blowin' the leaves from the trees everything is free everything but me
 I'm gonna take this chain from around my finger
@@ -31,6 +35,3 @@ Well look who's cryin' and it ain't me but I can't hardly hear and I can't have 
 Oh I wanna be free
 I released my heart my soul...
 Do I wanna be free yeah I wanna be free free
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Cuts Like A Knife
 artists:
 - Bryan Adams
+external_ids:
+  spotify: spotify:track:5oZ2YnJxTXl7CdJJKehPHR
 features: []
-genres: []
+first_released_as_single: false
 key: cuts-like-a-knife-bryan-adams
 lyrics_url: https://www.azlyrics.com/lyrics/bryanadams/cutslikeaknife.html
 name: Cuts Like A Knife
@@ -63,8 +66,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1983-09-10'
+release_year: 1983
+runtime: 319800
 ---
-
 Drivin' home this evening 
 I coulda sworn we had it all worked out 
 You had this boy believin' 
@@ -97,6 +101,3 @@ Now it cuts like a knife
 But It feels so right 
 It cuts like a knife 
 But it feels so right
-
-
-

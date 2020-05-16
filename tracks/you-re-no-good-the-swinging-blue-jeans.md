@@ -1,8 +1,11 @@
 ---
+album: In Concert
 artists:
 - The Swinging Blue Jeans
+external_ids:
+  spotify: spotify:track:0WiKz86jAqiP6ZnuAZv8nz
 features: []
-genres: []
+first_released_as_single: false
 key: you-re-no-good-the-swinging-blue-jeans
 lyrics_url: https://www.musixmatch.com/lyrics/The-Swinging-Blue-Jeans/You-re-No-Good-2
 name: You're No Good
@@ -15,6 +18,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1964-08-08'
+release_year: 1964
+runtime: 137080
 ---
 Feeling better now that we're through
 Feeling better, 'cause I'm over you

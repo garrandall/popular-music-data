@@ -1,8 +1,11 @@
 ---
+album: Self Control
 artists:
 - Laura Branigan
+external_ids:
+  spotify: spotify:track:6JNJERZGJwDVgkmbohBw7u
 features: []
-genres: []
+first_released_as_single: false
 key: self-control-laura-branigan
 lyrics_url: https://www.azlyrics.com/lyrics/laurabranigan/selfcontrol.html
 name: Self Control
@@ -107,8 +110,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1984-09-29'
+release_year: 1984
+runtime: 246440
 ---
-
 Oh, the night is my world
 City light painted girl
 In the day nothing matters
@@ -168,6 +172,3 @@ You take my self, you take my self control
 You take my self, you take my self control
 You take my self, you take my self control
 You take my self, you take my self control
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Pet Your Friends
 artists:
 - Dishwalla
+external_ids:
+  spotify: spotify:track:6B618H5CuCdEzcVs0NKTlt
 features: []
-genres: []
+first_released_as_single: false
 key: counting-blue-cars-dishwalla
 lyrics_url: https://www.azlyrics.com/lyrics/dishwalla/countingbluecars.html
 name: Counting Blue Cars
@@ -199,8 +202,9 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1997-03-01'
+release_year: 1995
+runtime: 291906
 ---
-
 Must have been mid afternoon
 I could tell by how far the child's shadow stretched out
 And he walked with a purpose in his sneakers, down the street
@@ -239,6 +243,3 @@ Am I very far now?
 Am I very far now?
 (Tell me all your thoughts on God)
 (Tell me all your thoughts on God)
-
-
-

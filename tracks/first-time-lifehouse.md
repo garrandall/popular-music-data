@@ -1,8 +1,11 @@
 ---
+album: Who We Are
 artists:
 - Lifehouse
+external_ids:
+  spotify: spotify:track:40Fp6pxcS9l08kL1R50mR4
 features: []
-genres: []
+first_released_as_single: false
 key: first-time-lifehouse
 lyrics_url: https://www.azlyrics.com/lyrics/lifehouse/firsttime.html
 name: First Time
@@ -111,8 +114,9 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '2007-11-17'
+release_year: 2007
+runtime: 203640
 ---
-
 We're both looking for something
 We've been afraid to find
 It's easier to be broken
@@ -162,6 +166,3 @@ Like being in love, she says, for the first time
 Maybe I'm wrong, I'm feeling right
 Where I belong with you tonight
 Like being in love to feel for the first time
-
-
-

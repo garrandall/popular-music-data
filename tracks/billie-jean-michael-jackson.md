@@ -1,8 +1,11 @@
 ---
+album: Thriller 25 Super Deluxe Edition
 artists:
 - Michael Jackson
+external_ids:
+  spotify: spotify:track:5ChkMS8OtdzJeqyybCc9R5
 features: []
-genres: []
+first_released_as_single: false
 key: billie-jean-michael-jackson
 lyrics_url: https://genius.com/Michael-jackson-billie-jean-lyrics
 name: Billie Jean
@@ -107,6 +110,8 @@ rankings:
   rank: 14
   ranking_list: Billboard Hot 100
   start_date: '2014-06-07'
+release_year: 1982
+runtime: 293826
 ---
 She was more like a beauty queen from a movie scene
 I said, "Don't mind, but what do you mean, I am the one

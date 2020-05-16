@@ -1,8 +1,11 @@
 ---
+album: Good Night, Dear Lord
 artists:
 - Johnny Mathis
+external_ids:
+  spotify: spotify:track:44EiDDsQ6XIHNqSCDnCF8n
 features: []
-genres: []
+first_released_as_single: false
 key: maria-johnny-mathis
 lyrics_url: https://www.azlyrics.com/lyrics/johnnymathis/maria.html
 name: Maria
@@ -35,8 +38,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1962-01-06'
+release_year: 1958
+runtime: 277546
 ---
-
 Maria
 The most beautiful sound I ever heard 
 Maria, Maria, Maria, Maria
@@ -66,6 +70,3 @@ I'll never stop saying
 Maria
 The most beautiful sound I ever heard
 Maria
-
-
-

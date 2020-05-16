@@ -1,8 +1,11 @@
 ---
+album: Runaround Sue
 artists:
 - Dion
+external_ids:
+  spotify: spotify:track:1DndHckdH9m5rp6gYP086b
 features: []
-genres: []
+first_released_as_single: false
 key: runaround-sue-dion
 lyrics_url: https://www.azlyrics.com/lyrics/dionband/runaroundsue.html
 name: Runaround Sue
@@ -63,8 +66,9 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '1961-12-25'
+release_year: 1961
+runtime: 171600
 ---
-
 Here's my story, it's sad but true
 It's about a girl that I once knew
 She took my love then ran around
@@ -107,6 +111,3 @@ A-keep away from-a Runaround Sue
 Stay away from that girl
 Don't you know what she'll do now
 Keep away from that girl
-
-
-

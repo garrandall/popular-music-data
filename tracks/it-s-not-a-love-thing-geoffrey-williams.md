@@ -1,8 +1,11 @@
 ---
+album: Bare
 artists:
 - Geoffrey Williams
+external_ids:
+  spotify: spotify:track:0w5f7ZNFxBfiN6fdN8ICrp
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-not-a-love-thing-geoffrey-williams
 name: It's Not A Love Thing
 rankings:
@@ -42,5 +45,7 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1992-05-16'
+release_year: 1992
+runtime: 305533
 ---
 

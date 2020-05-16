@@ -1,8 +1,11 @@
 ---
+album: Thirteenth Step
 artists:
 - A Perfect Circle
+external_ids:
+  spotify: spotify:track:7gDVjl5fEw2OPAtjbW4LzR
 features: []
-genres: []
+first_released_as_single: false
 key: weak-and-powerless-a-perfect-circle
 lyrics_url: https://genius.com/A-perfect-circle-weak-and-powerless-lyrics
 name: Weak And Powerless
@@ -79,6 +82,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2004-01-24'
+release_year: 2003
+runtime: 195133
 ---
 Tilling my own grave to keep me level
 Jam another dragon down the hole

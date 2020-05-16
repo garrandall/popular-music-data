@@ -1,9 +1,12 @@
 ---
+album: Wild West
 artists:
 - Dottie West
+external_ids:
+  spotify: spotify:track:6e0L79FUuff6OSzHO2Ixvb
 features:
 - Kenny Rogers
-genres: []
+first_released_as_single: false
 key: what-are-we-doin--in-love-dottie-west-with-kenny-rogers
 lyrics_url: https://genius.com/Dottie-west-what-are-we-doin-in-love-lyrics
 name: What Are We Doin' In Love
@@ -88,6 +91,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1981-08-08'
+release_year: 1981
+runtime: 184457
 ---
 We're like summer and winter
 We're not one bit alike

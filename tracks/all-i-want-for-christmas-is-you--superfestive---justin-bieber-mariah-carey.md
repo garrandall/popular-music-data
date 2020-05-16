@@ -1,9 +1,12 @@
 ---
+album: Under The Mistletoe
 artists:
 - Justin Bieber
 - Mariah Carey
+external_ids:
+  spotify: spotify:track:1IUtgwxLYzDVd41EgbKUjX
 features: []
-genres: []
+first_released_as_single: false
 key: all-i-want-for-christmas-is-you--superfestive---justin-bieber-mariah-carey
 lyrics_url: https://genius.com/Justin-bieber-all-i-want-for-christmas-is-you-superfestive-lyrics
 name: All I Want For Christmas Is You (SuperFestive!)
@@ -12,6 +15,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2011-11-19'
+release_year: 2011
+runtime: 240333
 ---
 I just can't wait, yeah
 

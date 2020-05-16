@@ -1,8 +1,11 @@
 ---
+album: Dreaming Of You
 artists:
 - Selena
+external_ids:
+  spotify: spotify:track:5EL8hqM8YQJHKKnzGdahly
 features: []
-genres: []
+first_released_as_single: false
 key: dreaming-of-you-selena
 lyrics_url: https://genius.com/Selena-dreaming-of-you-lyrics
 name: Dreaming Of You
@@ -87,6 +90,8 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '1996-03-09'
+release_year: 1995
+runtime: 314866
 ---
 Late at night when all the world is sleeping
 I stay up and think of you

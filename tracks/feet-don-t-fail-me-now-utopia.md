@@ -1,8 +1,11 @@
 ---
+album: Utopia
 artists:
 - Utopia
+external_ids:
+  spotify: spotify:track:1kfikr1EC2Hl2ahPotRoq9
 features: []
-genres: []
+first_released_as_single: false
 key: feet-don-t-fail-me-now-utopia
 lyrics_url: https://genius.com/Utopia-feet-dont-fail-me-now-lyrics
 name: Feet Don't Fail Me Now
@@ -31,6 +34,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1983-02-12'
+release_year: 1982
+runtime: 189600
 ---
 Can't you see
 She don't want you around no more

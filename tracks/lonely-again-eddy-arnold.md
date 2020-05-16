@@ -1,8 +1,11 @@
 ---
+album: Lonely Again
 artists:
 - Eddy Arnold
+external_ids:
+  spotify: spotify:track:56LN3IfZzxzYlqE2aeZYC9
 features: []
-genres: []
+first_released_as_single: false
 key: lonely-again-eddy-arnold
 lyrics_url: https://www.azlyrics.com/lyrics/eddyarnold/lonelyagain.html
 name: Lonely Again
@@ -15,8 +18,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1967-03-25'
+release_year: 1967
+runtime: 165200
 ---
-
 You told me that others before you
 Were foolish to cause me to cry
 And just when I learned to adore you
@@ -54,6 +58,3 @@ And this love of mine
 Till the end of the line
 That's always the time
 That I'm lonely again
-
-
-

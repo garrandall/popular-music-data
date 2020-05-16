@@ -1,8 +1,11 @@
 ---
+album: Graffiti U
 artists:
 - Keith Urban
+external_ids:
+  spotify: spotify:track:1t34UsQ634a233qysq6D6L
 features: []
-genres: []
+first_released_as_single: false
 key: female-keith-urban
 lyrics_url: https://www.azlyrics.com/lyrics/keithurban/female.html
 name: Female
@@ -31,8 +34,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2018-03-03'
+release_year: 2017
+runtime: 195316
 ---
-
 When you hear somebody say somebody hits like a girl
 How does that hit you?
 Is that such a bad thing?
@@ -83,6 +87,3 @@ Technicolor, river wild
 Baby girl, woman child
 Female
 Mhm, female
-
-
-

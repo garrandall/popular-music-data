@@ -1,8 +1,11 @@
 ---
+album: Trini Lopez At PJ's (Live)
 artists:
 - Trini Lopez
+external_ids:
+  spotify: spotify:track:1Sl8RmAVQXplFOo7rjxkAO
 features: []
-genres: []
+first_released_as_single: false
 key: if-i-had-a-hammer-trini-lopez
 lyrics_url: https://genius.com/Trini-lopez-if-i-had-a-hammer-lyrics
 name: If I Had A Hammer
@@ -63,6 +66,8 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '1963-10-26'
+release_year: 1963
+runtime: 179533
 ---
 Oh, oh oh
 Oh, oh oh

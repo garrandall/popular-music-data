@@ -1,8 +1,11 @@
 ---
+album: Fifty Shades Darker (Original Motion Picture Soundtrack)
 artists:
 - Halsey
+external_ids:
+  spotify: spotify:track:0wH7iJqYQnmUU09YGcQPHo
 features: []
-genres: []
+first_released_as_single: false
 key: not-afraid-anymore-halsey
 lyrics_url: https://www.azlyrics.com/lyrics/halsey/notafraidanymore.html
 name: Not Afraid Anymore
@@ -11,8 +14,9 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '2017-02-04'
+release_year: 2017
+runtime: 226786
 ---
-
 I am not afraid anymore
 Standing in the eye of the storm
 Ready to face this, dying to taste this, sick sweet warmth
@@ -53,6 +57,3 @@ And push me like you never
 And touch me like you never
 'Cause I am not afraid, I am not afraid anymore
 No no no
-
-
-

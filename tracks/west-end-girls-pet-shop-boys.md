@@ -1,8 +1,11 @@
 ---
+album: 'Please: Further Listening 1984-1986'
 artists:
 - Pet Shop Boys
+external_ids:
+  spotify: spotify:track:41wEoPm4kP78r0nQp2gmy7
 features: []
-genres: []
+first_released_as_single: true
 key: west-end-girls-pet-shop-boys
 lyrics_url: https://www.azlyrics.com/lyrics/petshopboys/westendgirlssheppettibonesdiscomix.html
 name: West End Girls
@@ -87,8 +90,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1986-07-12'
+release_year: 1984
+runtime: 203506
 ---
-
 West end girls!
 
 Sometimes you're better off dead
@@ -174,6 +178,3 @@ No one knows your name
 No one knows your name
 No one knows your name
 No one knows your name
-
-
-

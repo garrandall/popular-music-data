@@ -1,8 +1,11 @@
 ---
+album: With Love
 artists:
 - Bobby Vinton
+external_ids:
+  spotify: spotify:track:7Dtab9QxjMZYupetS5RBhF
 features: []
-genres: []
+first_released_as_single: false
 key: clinging-vine-bobby-vinton
 lyrics_url: https://genius.com/Bobby-vinton-clinging-vine-lyrics
 name: Clinging Vine
@@ -39,6 +42,8 @@ rankings:
   rank: 31
   ranking_list: Billboard Hot 100
   start_date: '1964-09-26'
+release_year: 1964
+runtime: 149173
 ---
 Cling to me, clinging vine
 Just to me, clinging vine

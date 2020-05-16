@@ -1,8 +1,11 @@
 ---
+album: Shock
 artists:
 - The Motels
+external_ids:
+  spotify: spotify:track:7J4AXE4JAV1Z1sOdMgotAS
 features: []
-genres: []
+first_released_as_single: false
 key: shock-the-motels
 lyrics_url: https://www.azlyrics.com/lyrics/motels/shock.html
 name: Shock
@@ -19,8 +22,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1985-11-09'
+release_year: 1985
+runtime: 270000
 ---
-
 Escaping the anger
 For one minute more
 This time it's gone way too far
@@ -98,6 +102,3 @@ I'm in shock
 Just can't take it
 I'm in shock
 Oh, stop the shock
-
-
-

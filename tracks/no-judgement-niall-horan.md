@@ -1,8 +1,11 @@
 ---
+album: Heartbreak Weather
 artists:
 - Niall Horan
+external_ids:
+  spotify: spotify:track:5IUOU5xkzGHsRFOYNu3GSK
 features: []
-genres: []
+first_released_as_single: true
 key: no-judgement-niall-horan
 lyrics_url: https://www.azlyrics.com/lyrics/niallhoran/nojudgement.html
 name: No Judgement
@@ -11,8 +14,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2020-02-22'
+release_year: 2020
+runtime: 176283
 ---
-
 Barefoot and a bottle of wine
 You can stay with me tonight
 You don't have to change when I'm around you
@@ -66,6 +70,3 @@ When you're with me, no judgement
 Mhm, when you're with me, no judgement)
 (Mhm, we don't have to prove nothing
 Mhm, when you're with me, no judgement)
-
-
-

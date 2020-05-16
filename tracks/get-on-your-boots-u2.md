@@ -1,8 +1,11 @@
 ---
+album: No Line On The Horizon
 artists:
 - U2
+external_ids:
+  spotify: spotify:track:2pcXHC2NXIByMRsgBKp66o
 features: []
-genres: []
+first_released_as_single: false
 key: get-on-your-boots-u2
 lyrics_url: https://www.azlyrics.com/lyrics/u2band/getonyourboots.html
 name: Get On Your Boots
@@ -19,8 +22,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2009-03-14'
+release_year: 2009
+runtime: 205146
 ---
-
 Future needs a big kiss 
 Winds blow with a twist 
 Never seen a move like this 
@@ -84,6 +88,3 @@ Let me in the sound
 Get on your Boots 
 Get on your Boots 
 Yeah...
-
-
-

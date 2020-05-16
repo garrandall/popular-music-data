@@ -1,8 +1,11 @@
 ---
+album: Wipe The Windows, Check The Oil, Dollar Gas
 artists:
 - The Allman Brothers Band
+external_ids:
+  spotify: spotify:track:1GGsDXdb56xmIHuq9oByQi
 features: []
-genres: []
+first_released_as_single: false
 key: ramblin-man-the-allman-brothers-band
 lyrics_url: https://www.azlyrics.com/lyrics/allmanbrothersband/ramblinman.html
 name: Ramblin Man
@@ -71,8 +74,9 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '1973-12-08'
+release_year: 1973
+runtime: 435957
 ---
-
 Lord, I was born a ramblin' man,
 Tryin' to make a livin' and doin' the best I can.
 And when it's time for leavin',
@@ -103,6 +107,3 @@ That I was born a ramblin' man.
 
 
 Lord, I was born a ramblin' man...
-
-
-

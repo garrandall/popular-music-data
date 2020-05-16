@@ -1,8 +1,11 @@
 ---
+album: Dickie Goodman Greatest Hits
 artists:
 - Dickie Goodman
+external_ids:
+  spotify: spotify:track:3PP2tuJ1pBbBu2N5YJHX6J
 features: []
-genres: []
+first_released_as_single: false
 key: the-touchables-dickie-goodman
 lyrics_url: https://genius.com/Dickie-goodman-santa-and-the-touchables-lyrics
 name: The Touchables
@@ -35,6 +38,8 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1961-04-03'
+release_year: 1961
+runtime: 122493
 ---
 Announcer: "We interrupt this record for an important
 New bulletin'! Santa Claus is missing from the North Pole!"

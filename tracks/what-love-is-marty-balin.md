@@ -1,8 +1,11 @@
 ---
+album: Marty Balin Greatest Hits
 artists:
 - Marty Balin
+external_ids:
+  spotify: spotify:track:1isGLtXBDB0hO7Us8F6mAA
 features: []
-genres: []
+first_released_as_single: false
 key: what-love-is-marty-balin
 lyrics_url: https://www.azlyrics.com/lyrics/martybalin/whatloveis.html
 name: What Love Is
@@ -31,8 +34,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1983-03-26'
+release_year: 1983
+runtime: 256705
 ---
-
 Love is not the thrill
 Of the first connection
 Love is not the shiver
@@ -113,6 +117,3 @@ Find out just what love is
 
 What love is? What love is?
 What love is?
-
-
-

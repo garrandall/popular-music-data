@@ -1,8 +1,11 @@
 ---
+album: Greatest Hits Album
 artists:
 - Ruby And The Romantics
+external_ids:
+  spotify: spotify:track:3PfdTUIPKYym6QAhb9JuZ0
 features: []
-genres: []
+first_released_as_single: false
 key: when-you-re-young-and-in-love-ruby-and-the-romantics
 lyrics_url: https://genius.com/Ruby-and-the-romantics-when-youre-young-and-in-love-lyrics
 name: When You're Young And In Love
@@ -39,6 +42,8 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '1964-11-21'
+release_year: 1964
+runtime: 149080
 ---
 Spring's in the air
 There's magic everywhere

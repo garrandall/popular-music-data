@@ -1,8 +1,11 @@
 ---
+album: Here Comes The Hotstepper
 artists:
 - Ini Kamoze
+external_ids:
+  spotify: spotify:track:3QRM0qZB7oMYavveH0iEqx
 features: []
-genres: []
+first_released_as_single: false
 key: here-comes-the-hotstepper-ini-kamoze
 lyrics_url: https://www.azlyrics.com/lyrics/inikamoze/herecomesthehotstepper.html
 name: Here Comes The Hotstepper
@@ -127,8 +130,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1995-04-08'
+release_year: 1994
+runtime: 250466
 ---
-
 Hit It!
 Nah, na na na nah
 Na na na nah, na na nah, na na nah
@@ -231,6 +235,3 @@ Hey
 Da da da da
 Da da da da
 Da da da da
-
-
-

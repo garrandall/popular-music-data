@@ -1,8 +1,11 @@
 ---
+album: Dex Meets Dexter
 artists:
 - Famous Dex
+external_ids:
+  spotify: spotify:track:2dGwvEGyEWvLRIr8hGM4vg
 features: []
-genres: []
+first_released_as_single: false
 key: japan-famous-dex
 lyrics_url: https://www.azlyrics.com/lyrics/famous-dex/japan.html
 name: Japan
@@ -67,8 +70,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2018-07-14'
+release_year: 2018
+runtime: 142000
 ---
-
 You know what I'm sayin'
 I just- that's just how a nigga do it, know what I'm sayin' (Dexter)
 My real name is Dexter, haha
@@ -127,6 +131,3 @@ Baby girl, what you doing, where your mans? (where your mans, baby)
 I just popped a xan, fifty thousand in Japan (fifty thousand in Japan)
 I ain't doin' no playin', these red bottoms are no Vans
 And she tellin' all her friends, I might put 'em on the Gram (yeah, Dexter)
-
-
-

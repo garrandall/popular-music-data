@@ -1,8 +1,11 @@
 ---
+album: Some Favorites of Mine
 artists:
 - Don Gibson
+external_ids:
+  spotify: spotify:track:4hIhggtb2MS6HikiC0KAip
 features: []
-genres: []
+first_released_as_single: false
 key: lonesome-number-one-don-gibson
 lyrics_url: https://genius.com/Don-gibson-lonesome-number-one-lyrics
 name: Lonesome Number One
@@ -23,6 +26,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1962-01-13'
+release_year: 1961
+runtime: 131253
 ---
 Lonesome number one just call me lonesome number one
 Although no titles have I won I surely must be lonesome number one

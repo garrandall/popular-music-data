@@ -1,9 +1,12 @@
 ---
+album: Pink Friday
 artists:
 - Nicki Minaj
+external_ids:
+  spotify: spotify:track:7eK3fdGXCmhGfE8dKtETQU
 features:
 - Eminem
-genres: []
+first_released_as_single: false
 key: roman-s-revenge-nicki-minaj-eminem
 lyrics_url: https://www.azlyrics.com/lyrics/nickiminaj/romansrevenge.html
 name: Roman's Revenge
@@ -28,9 +31,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2011-02-12'
+release_year: 2010
+runtime: 276173
 ---
-
-
 I am not Jasmine, I am Aladdin
 So far ahead, these bums is laggin'
 See me in that new thing, bums is gaggin'
@@ -164,6 +167,3 @@ Back to bed! Run along!
 Let's go! Come on!
 Wash your mouth out with soap, boys
 (Boys, boys, boys, boys, boys, boys...)
-
-
-

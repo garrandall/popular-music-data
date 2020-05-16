@@ -1,8 +1,11 @@
 ---
+album: Secret Agent
 artists:
 - Robin Gibb
+external_ids:
+  spotify: spotify:track:3kkWD4jESZLL9eXrzJypGH
 features: []
-genres: []
+first_released_as_single: false
 key: boys-do-fall-in-love-robin-gibb
 lyrics_url: https://www.azlyrics.com/lyrics/robingibb/boysdofallinlove.html
 name: Boys Do Fall In Love
@@ -55,8 +58,9 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1984-08-18'
+release_year: 1984
+runtime: 227281
 ---
-
 Baby said
 You got to be a lover one way or the other.
 Nobody wins without once givin' in
@@ -118,6 +122,3 @@ Makin' love on a saturday night..
 Boys do fall in love
 They make time
 Makin' love on a saturday night.
-
-
-

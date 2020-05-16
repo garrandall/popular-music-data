@@ -1,8 +1,11 @@
 ---
+album: Great Rare Songs, Vol. 2
 artists:
 - Rosie
+external_ids:
+  spotify: spotify:track:74oEwvr2my7wMYJYl5WiMo
 features: []
-genres: []
+first_released_as_single: false
 key: lonely-blue-nights-rosie
 lyrics_url: https://genius.com/Rosie-and-the-originals-lonely-blue-nights-lyrics
 name: Lonely Blue Nights
@@ -23,6 +26,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1961-04-03'
+release_year: 1961
+runtime: 151866
 ---
 Lonely blue nights, lonely, lonely blues
 I can't hold you tight

@@ -1,8 +1,11 @@
 ---
+album: The Best Of Bobby Rydell
 artists:
 - Bobby Rydell
+external_ids:
+  spotify: spotify:track:5fxChRcnmyk2en0r5YMF6E
 features: []
-genres: []
+first_released_as_single: false
 key: i-ll-never-dance-again-bobby-rydell
 lyrics_url: https://genius.com/Bobby-rydell-ill-never-dance-again-lyrics
 name: I'll Never Dance Again
@@ -55,6 +58,8 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '1962-08-18'
+release_year: 1962
+runtime: 149360
 ---
 My soul was a-swayin' to the beat of your heart
 And your lips were sayin' that we won't dance apart

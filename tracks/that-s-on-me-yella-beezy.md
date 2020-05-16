@@ -1,8 +1,11 @@
 ---
+album: Lite Work, Vol. 2
 artists:
 - Yella Beezy
+external_ids:
+  spotify: spotify:track:4jStgwIDR1Kd1NJwEgaLM8
 features: []
-genres: []
+first_released_as_single: true
 key: that-s-on-me-yella-beezy
 lyrics_url: https://genius.com/Yella-beezy-thats-on-me-lyrics
 name: That's On Me
@@ -87,6 +90,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2018-12-22'
+release_year: 2017
+runtime: 219552
 ---
 That's on me, baby
 Shun On Da Beat

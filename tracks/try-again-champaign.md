@@ -1,8 +1,11 @@
 ---
+album: Modern Heart
 artists:
 - Champaign
+external_ids:
+  spotify: spotify:track:0WbfjzHowY2PZAco1JEvis
 features: []
-genres: []
+first_released_as_single: false
 key: try-again-champaign
 lyrics_url: https://genius.com/Champaign-try-again-lyrics
 name: Try Again
@@ -87,6 +90,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1983-08-13'
+release_year: 1983
+runtime: 226626
 ---
 I been starin' at your photograph
 Wondering where you're at today

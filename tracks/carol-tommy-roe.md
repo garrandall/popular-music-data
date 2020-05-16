@@ -1,8 +1,11 @@
 ---
+album: Tommy's 22 Big Ones
 artists:
 - Tommy Roe
+external_ids:
+  spotify: spotify:track:0oJkptRc7sRzp6Fy3lSAib
 features: []
-genres: []
+first_released_as_single: false
 key: carol-tommy-roe
 lyrics_url: https://www.musixmatch.com/lyrics/Tommy-Roe/Carol
 name: Carol
@@ -31,6 +34,8 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1964-05-30'
+release_year: 1964
+runtime: 157680
 ---
 Oh, Carol, don't let him
 Steal your heart away

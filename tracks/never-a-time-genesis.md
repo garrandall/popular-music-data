@@ -1,8 +1,11 @@
 ---
+album: We Can't Dance
 artists:
 - Genesis
+external_ids:
+  spotify: spotify:track:39GQI777IY2AxHtx36x7qS
 features: []
-genres: []
+first_released_as_single: false
 key: never-a-time-genesis
 lyrics_url: https://genius.com/Genesis-never-a-time-lyrics
 name: Never A Time
@@ -87,6 +90,8 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1993-03-20'
+release_year: 1991
+runtime: 230160
 ---
 There is never a time to say
 'Cause it seems to me we've lost our way

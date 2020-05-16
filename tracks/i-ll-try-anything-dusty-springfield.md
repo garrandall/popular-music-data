@@ -1,8 +1,11 @@
 ---
+album: The Look Of Love
 artists:
 - Dusty Springfield
+external_ids:
+  spotify: spotify:track:03DmfO0mdYu56ycyLWTe4P
 features: []
-genres: []
+first_released_as_single: false
 key: i-ll-try-anything-dusty-springfield
 lyrics_url: https://genius.com/Dusty-springfield-ill-try-anything-lyrics
 name: I'll Try Anything
@@ -39,6 +42,8 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '1967-05-06'
+release_year: 1967
+runtime: 147000
 ---
 You belong
 To somebody else and not to me

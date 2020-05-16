@@ -1,9 +1,12 @@
 ---
+album: She
 artists:
 - Harry Connick
 - Jr.
+external_ids:
+  spotify: spotify:track:68EKUNtzGVapUS30PJDVKs
 features: []
-genres: []
+first_released_as_single: false
 key: -i-could-only--whisper-your-name-harry-connick-jr-
 lyrics_url: https://www.azlyrics.com/lyrics/harryconnickjr/icouldonlywhisperyourname.html
 name: (I Could Only) Whisper Your Name
@@ -88,8 +91,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1995-03-04'
+release_year: 1994
+runtime: 289970
 ---
-
 Somebody was spreading rumors
 'Bout better days a comin
 Why was I hummin
@@ -116,6 +120,3 @@ Ask me if I dare
 To answer who...
 Could carry that flame
 I'd just whisper your name
-
-
-

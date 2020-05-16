@@ -1,8 +1,11 @@
 ---
+album: The Sue Singles
 artists:
 - Baby Washington
+external_ids:
+  spotify: spotify:track:5EGrkw1itB7rzEZVVXprJ2
 features: []
-genres: []
+first_released_as_single: false
 key: the-clock-baby-washington
 lyrics_url: https://genius.com/Baby-washington-the-clock-lyrics
 name: The Clock
@@ -11,6 +14,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1964-09-19'
+release_year: 1964
+runtime: 174933
 ---
 Tick tock, tick tock
 Tick tock, tick tock

@@ -1,8 +1,11 @@
 ---
+album: Balance
 artists:
 - Balance
+external_ids:
+  spotify: spotify:track:3euRmUxGH4DCgARyBpijDj
 features: []
-genres: []
+first_released_as_single: false
 key: breaking-away-balance
 lyrics_url: https://genius.com/Balance-breaking-away-lyrics
 name: Breaking Away
@@ -75,6 +78,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1981-10-31'
+release_year: 1981
+runtime: 192706
 ---
 Breaking Away
 Balance

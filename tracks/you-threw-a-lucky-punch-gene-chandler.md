@@ -1,8 +1,11 @@
 ---
+album: The Duke Of Earl
 artists:
 - Gene Chandler
+external_ids:
+  spotify: spotify:track:07BGc9Dgxc5jxQPqJihH26
 features: []
-genres: []
+first_released_as_single: false
 key: you-threw-a-lucky-punch-gene-chandler
 lyrics_url: https://genius.com/Gene-chandler-you-threw-a-lucky-punch-lyrics
 name: You Threw A Lucky Punch
@@ -39,6 +42,8 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1963-01-12'
+release_year: 1962
+runtime: 155819
 ---
 That day, oh, yeah
 When you walked away

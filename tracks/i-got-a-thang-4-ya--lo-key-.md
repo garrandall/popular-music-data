@@ -1,8 +1,11 @@
 ---
+album: Where Dey At?
 artists:
 - Lo-Key?
+external_ids:
+  spotify: spotify:track:44tMr9ypzWXXFq0wjDqphF
 features: []
-genres: []
+first_released_as_single: false
 key: i-got-a-thang-4-ya--lo-key-
 lyrics_url: https://genius.com/Lo-key-band-i-got-a-thang-4-ya-lyrics
 name: I Got A Thang 4 Ya!
@@ -87,6 +90,8 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1993-03-27'
+release_year: 1992
+runtime: 340866
 ---
 I got a thang for you, baby
 I got a thang for you, baby

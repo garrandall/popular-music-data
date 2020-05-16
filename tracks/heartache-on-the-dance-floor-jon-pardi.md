@@ -1,8 +1,11 @@
 ---
+album: California Sunrise
 artists:
 - Jon Pardi
+external_ids:
+  spotify: spotify:track:0w3Q14i073jLoew1hgJkwD
 features: []
-genres: []
+first_released_as_single: false
 key: heartache-on-the-dance-floor-jon-pardi
 lyrics_url: https://www.azlyrics.com/lyrics/jonpardi/heartacheonthedancefloor.html
 name: Heartache On The Dance Floor
@@ -79,8 +82,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2017-11-18'
+release_year: 2016
+runtime: 205200
 ---
-
 Yeah, I was just hanging out
 Some little west coast town
 Found a bar out by the sand, so I made my way in
@@ -125,6 +129,3 @@ Where you at, where you at, where you at tonight?
 Girl, I'm hanging around this little town
 Where you at, where you at, where you at tonight?
 Where you at, where you at, where you at tonight?
-
-
-

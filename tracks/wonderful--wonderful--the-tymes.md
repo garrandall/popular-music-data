@@ -1,8 +1,11 @@
 ---
+album: So Much In Love
 artists:
 - The Tymes
+external_ids:
+  spotify: spotify:track:7MKw6Ymv5XMwCfOvCLyl77
 features: []
-genres: []
+first_released_as_single: false
 key: wonderful--wonderful--the-tymes
 lyrics_url: https://genius.com/The-tymes-wonderful-wonderful-lyrics
 name: Wonderful! Wonderful!
@@ -51,6 +54,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1963-10-26'
+release_year: 1963
+runtime: 182040
 ---
 Sometimes we walk hand in hand by the sea
 And we breathe in the cool salty air

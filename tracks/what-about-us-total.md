@@ -1,8 +1,11 @@
 ---
+album: Kima, Keisha & Pam
 artists:
 - Total
+external_ids:
+  spotify: spotify:track:6Ph7bndA7A5ExoHIZPX4TJ
 features: []
-genres: []
+first_released_as_single: false
 key: what-about-us-total
 lyrics_url: https://genius.com/Total-what-about-us-remix-lyrics
 name: What About Us
@@ -103,6 +106,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1998-02-07'
+release_year: 1997
+runtime: 243782
 ---
 Yeah, uh
 Yeah, uh

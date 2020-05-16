@@ -1,8 +1,11 @@
 ---
+album: Temptation Eyes
 artists:
 - The Grass Roots
+external_ids:
+  spotify: spotify:track:2hu53Ym3jZTCcwAeqzQgS3
 features: []
-genres: []
+first_released_as_single: false
 key: where-were-you-when-i-needed-you-the-grass-roots
 lyrics_url: https://genius.com/The-grass-roots-where-were-you-when-i-needed-you-lyrics
 name: Where Were You When I Needed You
@@ -43,6 +46,8 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '1966-08-13'
+release_year: 1966
+runtime: 181000
 ---
 Don't bother cryin', don't bother crawlin'
 It's all over now, no use in stallin'

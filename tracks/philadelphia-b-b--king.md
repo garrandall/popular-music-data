@@ -1,8 +1,11 @@
 ---
+album: Friends
 artists:
 - B.B. King
+external_ids:
+  spotify: spotify:track:6TIYyC6O3KjSGjM9PdcLiM
 features: []
-genres: []
+first_released_as_single: false
 key: philadelphia-b-b--king
 name: Philadelphia
 rankings:
@@ -34,5 +37,7 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '1975-01-11'
+release_year: 1974
+runtime: 359567
 ---
 

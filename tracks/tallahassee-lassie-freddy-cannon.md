@@ -1,8 +1,11 @@
 ---
+album: Boom Boom Rock 'N' Roll
 artists:
 - Freddy Cannon
+external_ids:
+  spotify: spotify:track:5dDs13F0oo7XngcEIgRb2m
 features: []
-genres: []
+first_released_as_single: false
 key: tallahassee-lassie-freddy-cannon
 lyrics_url: https://www.musixmatch.com/lyrics/Freddy-Cannon/Tallahassee-Lassie
 name: Tallahassee Lassie
@@ -67,6 +70,8 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1959-08-17'
+release_year: 1959
+runtime: 132893
 ---
 Well, she comes from Tallahassee, whoa
 She got a hi-fi chassis, whoa

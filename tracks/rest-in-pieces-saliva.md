@@ -1,8 +1,11 @@
 ---
+album: Back Into Your System
 artists:
 - Saliva
+external_ids:
+  spotify: spotify:track:6XYTdS3FRzfZh3Umid2ILx
 features: []
-genres: []
+first_released_as_single: false
 key: rest-in-pieces-saliva
 lyrics_url: https://www.azlyrics.com/lyrics/saliva/restinpieces.html
 name: Rest In Pieces
@@ -19,8 +22,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2003-10-11'
+release_year: 2002
+runtime: 226733
 ---
-
 Look at me, my depth perception must be off again
 Cause this hurts deeper than I thought it did
 It has not healed with time
@@ -46,6 +50,3 @@ And let me rest in pieces
 Would you find it in your heart?
 To make it go away
 And let me rest in pieces
-
-
-

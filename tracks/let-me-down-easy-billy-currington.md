@@ -1,8 +1,11 @@
 ---
+album: Enjoy Yourself
 artists:
 - Billy Currington
+external_ids:
+  spotify: spotify:track:1tZ5C8zI326sIB4kBErdmC
 features: []
-genres: []
+first_released_as_single: false
 key: let-me-down-easy-billy-currington
 lyrics_url: https://www.azlyrics.com/lyrics/billycurrington/letmedowneasy.html
 name: Let Me Down Easy
@@ -87,8 +90,9 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '2011-04-23'
+release_year: 2010
+runtime: 228493
 ---
-
 There's a little moonlight, dancin' on the sand
 There's a warm breeze blowin' by the ocean as you're takin' my hand
 You need to know where I'm standin' now
@@ -122,6 +126,3 @@ If I fall, can you let me down easy?
 
 Let me down easy babe
 Mmm
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Night And Day
 artists:
 - Joe Jackson
+external_ids:
+  spotify: spotify:track:5GNKNktRLp4UaGgQEp3G02
 features: []
-genres: []
+first_released_as_single: false
 key: memphis-joe-jackson
 lyrics_url: https://www.azlyrics.com/lyrics/joejackson/memphis.html
 name: Memphis
@@ -23,8 +26,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1983-12-17'
+release_year: 1982
+runtime: 284733
 ---
-
 Memphis - Where the hell is Memphis? 
 Memphis - Where the hell is Memphis?
 
@@ -76,6 +80,3 @@ And though I'm better now I know that no-one knows the facts
 I'm gonna start again, forget I ever heard about...
 
 Memphis - Where the hell is Memphis?
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: From Elvis in Memphis
 artists:
 - Elvis Presley
+external_ids:
+  spotify: spotify:track:2eSj0HHwB9aHJQ7zFOu90G
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-cry-daddy-elvis-presley
 lyrics_url: https://genius.com/Elvis-presley-dont-cry-daddy-lyrics
 name: Don't Cry Daddy
@@ -59,6 +62,8 @@ rankings:
   rank: 25
   ranking_list: Billboard Hot 100
   start_date: '1970-02-21'
+release_year: 1969
+runtime: 167746
 ---
 Today I stumbled from my bed
 With thunder crashing in my head

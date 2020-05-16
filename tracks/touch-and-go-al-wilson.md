@@ -1,8 +1,11 @@
 ---
+album: 'Show and Tell: The Best of Al Wilson'
 artists:
 - Al Wilson
+external_ids:
+  spotify: spotify:track:4qZeS9QjqvKdao5fuFGPAW
 features: []
-genres: []
+first_released_as_single: false
 key: touch-and-go-al-wilson
 lyrics_url: https://www.azlyrics.com/lyrics/alwilson/touchandgo.html
 name: Touch And Go
@@ -43,8 +46,9 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1974-05-04'
+release_year: 1973
+runtime: 186519
 ---
-
 We can make it, baby
 If we only try
 Don't let our love die
@@ -118,6 +122,3 @@ Oh, girl, I need you so
 It's been touch and go
 Off and on, we've been strong
 But then we didn't know
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Rubicon
 artists:
 - Rubicon
+external_ids:
+  spotify: spotify:track:2oQrbdXoqN1nXxWNpMkLA9
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-gonna-take-care-of-everything-rubicon
 lyrics_url: https://genius.com/Rubicon-im-gonna-take-care-of-everything-lyrics
 name: I'm Gonna Take Care Of Everything
@@ -51,6 +54,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1978-05-06'
+release_year: 1978
+runtime: 209784
 ---
 In the world so all alone
 You get to feeling that you're on your own

@@ -1,8 +1,11 @@
 ---
+album: Born with a Smile
 artists:
 - Bobby Rydell
+external_ids:
+  spotify: spotify:track:7GYJFWXAGO8wRMcteZMQCX
 features: []
-genres: []
+first_released_as_single: false
 key: wild-one-bobby-rydell
 lyrics_url: https://genius.com/Bobby-rydell-wild-one-lyrics
 name: Wild One
@@ -71,6 +74,8 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '1960-05-16'
+release_year: 1960
+runtime: 141080
 ---
 Oh wild one I'm-a gonna tame you down (tame you down)
 Ah, wild one I'll get you yet (yeah yeah) you bet (yeah yeah)

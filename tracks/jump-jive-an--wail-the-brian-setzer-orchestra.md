@@ -1,8 +1,11 @@
 ---
+album: The Dirty Boogie
 artists:
 - The Brian Setzer Orchestra
+external_ids:
+  spotify: spotify:track:7FuRjlwyTY9uTAUgGpZtJU
 features: []
-genres: []
+first_released_as_single: false
 key: jump-jive-an--wail-the-brian-setzer-orchestra
 lyrics_url: https://genius.com/The-brian-setzer-orchestra-jump-jive-an-wail-lyrics
 name: Jump Jive An' Wail
@@ -19,6 +22,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1998-12-19'
+release_year: 1998
+runtime: 172933
 ---
 Baby, baby it looks like it's gonna hail
 Baby, baby it looks like it's gonna hail

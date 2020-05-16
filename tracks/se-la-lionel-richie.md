@@ -1,8 +1,11 @@
 ---
+album: Dancing On The Ceiling
 artists:
 - Lionel Richie
+external_ids:
+  spotify: spotify:track:2UsHiSLRO9JlmGvfiNyHbY
 features: []
-genres: []
+first_released_as_single: false
 key: se-la-lionel-richie
 lyrics_url: https://www.musixmatch.com/lyrics/Lionel-Richie/Se-La
 name: Se La
@@ -59,6 +62,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1987-06-20'
+release_year: 1986
+runtime: 353653
 ---
 You know sometimes I sit and wonder
 Just how this world would be

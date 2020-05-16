@@ -1,8 +1,11 @@
 ---
+album: Everything Is Fine
 artists:
 - Josh Turner
+external_ids:
+  spotify: spotify:track:5JtRN8PCpxoL03vnIpZXc7
 features: []
-genres: []
+first_released_as_single: false
 key: firecracker-josh-turner
 lyrics_url: https://www.azlyrics.com/lyrics/joshturner/firecracker.html
 name: Firecracker
@@ -87,8 +90,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2008-02-09'
+release_year: 2007
+runtime: 208800
 ---
-
 Yeah
 
 When I look into her eyes
@@ -148,6 +152,3 @@ Bang
 
 Firecracker
 Firecracker
-
-
-

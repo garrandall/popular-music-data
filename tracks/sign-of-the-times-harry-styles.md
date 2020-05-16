@@ -1,8 +1,11 @@
 ---
+album: Harry Styles
 artists:
 - Harry Styles
+external_ids:
+  spotify: spotify:track:5ELRkzdzz0HvGpMDlfZHkV
 features: []
-genres: []
+first_released_as_single: true
 key: sign-of-the-times-harry-styles
 lyrics_url: https://genius.com/Harry-styles-sign-of-the-times-lyrics
 name: Sign Of The Times
@@ -59,6 +62,8 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '2017-07-22'
+release_year: 2017
+runtime: 340706
 ---
 Just stop your crying, it's a sign of the times
 Welcome to the final show

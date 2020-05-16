@@ -1,8 +1,11 @@
 ---
+album: i am > i was
 artists:
 - 21 Savage
+external_ids:
+  spotify: spotify:track:0ZKKJTv21zJpNrKiL0LYyV
 features: []
-genres: []
+first_released_as_single: false
 key: out-for-the-night-21-savage
 lyrics_url: https://genius.com/21-savage-out-for-the-night-lyrics
 name: Out For The Night
@@ -11,6 +14,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2019-01-05'
+release_year: 2018
+runtime: 137232
 ---
 Give her back shots 'til her back hurt (Back shots)
 Thumb through the money 'til my hands hurt (Cash out)

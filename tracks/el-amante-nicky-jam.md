@@ -1,8 +1,11 @@
 ---
+album: "F\xE9nix"
 artists:
 - Nicky Jam
+external_ids:
+  spotify: spotify:track:3umS4y3uQDkqekNjVpiRUs
 features: []
-genres: []
+first_released_as_single: false
 key: el-amante-nicky-jam
 lyrics_url: https://genius.com/Nicky-jam-el-amante-lyrics
 name: El Amante
@@ -67,6 +70,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2017-09-02'
+release_year: 2017
+runtime: 219506
 ---
 Ya yo me cansé, no quiero ser tu amante
 Te digo de mi parte, que no aguanto más

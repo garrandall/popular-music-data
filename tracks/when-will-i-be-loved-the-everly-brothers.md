@@ -1,8 +1,11 @@
 ---
+album: The Greatest Hits Album (The Best Of)
 artists:
 - The Everly Brothers
+external_ids:
+  spotify: spotify:track:6cfc1dOZU4Q6vM4LFe317S
 features: []
-genres: []
+first_released_as_single: false
 key: when-will-i-be-loved-the-everly-brothers
 lyrics_url: https://genius.com/The-everly-brothers-when-will-i-be-loved-lyrics
 name: When Will I Be Loved
@@ -59,6 +62,8 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '1960-08-22'
+release_year: 1957
+runtime: 126061
 ---
 I've been made blue
 I've been lied to

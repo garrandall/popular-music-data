@@ -1,8 +1,11 @@
 ---
+album: My Elusive Dreams
 artists:
 - Bobby Vinton
+external_ids:
+  spotify: spotify:track:0qxxN0dtn5GZ0wNEboFekI
 features: []
-genres: []
+first_released_as_single: false
 key: my-elusive-dreams-bobby-vinton
 lyrics_url: https://www.azlyrics.com/lyrics/bobbyvinton/myelusivedreams.html
 name: My Elusive Dreams
@@ -43,8 +46,9 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '1970-04-04'
+release_year: 1970
+runtime: 193493
 ---
-
 You followed me to Texas
 You followed me to Utah
 We didn't find it there
@@ -88,6 +92,3 @@ For there only fleeting things
 My elusive dreams
 For there only fleeting things
 My elusive dreams
-
-
-

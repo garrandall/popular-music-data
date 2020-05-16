@@ -1,8 +1,11 @@
 ---
+album: Classic Masters
 artists:
 - Quicksilver Messenger Service
+external_ids:
+  spotify: spotify:track:1RD1aLv53mgjA5MMNWhaNt
 features: []
-genres: []
+first_released_as_single: false
 key: what-about-me-quicksilver-messenger-service
 lyrics_url: https://www.azlyrics.com/lyrics/quicksilvermessengerservice/whataboutme.html
 name: What About Me
@@ -15,8 +18,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1971-03-13'
+release_year: 1971
+runtime: 401720
 ---
-
 You poisoned my sweet water
 You cut down my green trees
 The food you fed my children
@@ -74,6 +78,3 @@ And I feel like a stranger
 In the land where I was born
 And I live just like an outlaw
 An' I'm always on the run
-
-
-

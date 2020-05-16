@@ -1,8 +1,11 @@
 ---
+album: Blue Hawaii
 artists:
 - Billy Vaughn
+external_ids:
+  spotify: spotify:track:3WC3qbdLfTlghj1IWSUYz0
 features: []
-genres: []
+first_released_as_single: false
 key: hawaiian-war-chant-billy-vaughn-and-his-orchestra
 lyrics_url: https://www.musixmatch.com/lyrics/Billy-Vaughn-and-His-Orchestra/Hawaiian-War-Chant
 name: Hawaiian War Chant
@@ -11,6 +14,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1959-03-30'
+release_year: 1959
+runtime: 108946
 ---
 There's a sunny little funny little melody
 That was started by a native down in Waikiki

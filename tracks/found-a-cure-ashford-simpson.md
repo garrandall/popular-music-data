@@ -1,9 +1,12 @@
 ---
+album: Stay Free
 artists:
 - Ashford
 - Simpson
+external_ids:
+  spotify: spotify:track:1gND1zOlYtYgXdhRmpIOGJ
 features: []
-genres: []
+first_released_as_single: false
 key: found-a-cure-ashford-simpson
 lyrics_url: https://genius.com/Ashford-and-simpson-found-a-cure-lyrics
 name: Found A Cure
@@ -60,6 +63,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1979-11-10'
+release_year: 1979
+runtime: 421040
 ---
 Found a cure
 

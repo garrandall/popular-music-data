@@ -1,8 +1,11 @@
 ---
+album: I Can't Stand Still
 artists:
 - Don Henley
+external_ids:
+  spotify: spotify:track:7LFer4drCtWSyD8oxORZtC
 features: []
-genres: []
+first_released_as_single: false
 key: dirty-laundry-don-henley
 lyrics_url: https://genius.com/Don-henley-dirty-laundry-lyrics
 name: Dirty Laundry
@@ -83,6 +86,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1983-03-05'
+release_year: 1982
+runtime: 336800
 ---
 I make my living off the evening news
 Just give me something, something I can use

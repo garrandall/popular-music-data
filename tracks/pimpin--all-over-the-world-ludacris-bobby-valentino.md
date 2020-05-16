@@ -1,9 +1,12 @@
 ---
+album: The Red Light District
 artists:
 - Ludacris
+external_ids:
+  spotify: spotify:track:6VixoRqnikN4QqegoKUSbH
 features:
 - Bobby Valentino
-genres: []
+first_released_as_single: false
 key: pimpin--all-over-the-world-ludacris-bobby-valentino
 lyrics_url: https://genius.com/Ludacris-pimpin-all-over-the-world-lyrics
 name: Pimpin' All Over The World
@@ -88,6 +91,8 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '2005-10-22'
+release_year: 2004
+runtime: 329626
 ---
 (Oh yeah) The fancy cars
 The women and the caviar

@@ -1,8 +1,11 @@
 ---
+album: Toby
 artists:
 - The Chi-lites
+external_ids:
+  spotify: spotify:track:1dLAfmoZ6bJY7vu2Ql2S30
 features: []
-genres: []
+first_released_as_single: false
 key: toby-the-chi-lites
 lyrics_url: https://www.azlyrics.com/lyrics/chilites/toby.html
 name: Toby
@@ -35,8 +38,9 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1975-04-12'
+release_year: 1974
+runtime: 230613
 ---
-
 Oh, oh, oh
 I remember when we were kids
 We shared all the hurt and tears
@@ -94,6 +98,3 @@ Was a sad day
 When Toby went away
 Was a sad, sad day
 When Toby went away
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Only One Flo (Part 1)
 artists:
 - Flo Rida
+external_ids:
+  spotify: spotify:track:4KJZc3jQYlTwQrOd6DtHbC
 features: []
-genres: []
+first_released_as_single: true
 key: turn-around--5-4-3-2-1--flo-rida
 lyrics_url: https://www.azlyrics.com/lyrics/florida/turnaround54321.html
 name: Turn Around (5 4 3 2 1)
@@ -11,8 +14,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2010-12-04'
+release_year: 2010
+runtime: 201182
 ---
-
 Mmm-Da Da
 Mmm-Da Da
 Mmm-Da Da
@@ -130,6 +134,3 @@ Mmm-Da Da
 Oh Oh
 Mmm-Da Da
 Let's go... ML
-
-
-

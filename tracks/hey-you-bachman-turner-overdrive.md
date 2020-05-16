@@ -1,8 +1,11 @@
 ---
+album: Four Wheel Drive
 artists:
 - Bachman-Turner Overdrive
+external_ids:
+  spotify: spotify:track:2kE4qkaDNvNhXGLoArQDct
 features: []
-genres: []
+first_released_as_single: false
 key: hey-you-bachman-turner-overdrive
 lyrics_url: https://genius.com/Bachmanturner-overdrive-hey-you-lyrics
 name: Hey You
@@ -55,6 +58,8 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1975-08-02'
+release_year: 1975
+runtime: 216573
 ---
 Hey you, you say you wanna change the world
 It's alright, with me there's no regret

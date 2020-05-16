@@ -1,8 +1,11 @@
 ---
+album: Camouflage
 artists:
 - Rod Stewart
+external_ids:
+  spotify: spotify:track:53Eqyg5eFqyuUCaSwozq4f
 features: []
-genres: []
+first_released_as_single: false
 key: some-guys-have-all-the-luck-rod-stewart
 lyrics_url: https://www.azlyrics.com/lyrics/rodstewart/someguyshavealltheluck.html
 name: Some Guys Have All The Luck
@@ -75,8 +78,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1984-12-15'
+release_year: 1984
+runtime: 274306
 ---
-
 Chorus:
 Some guys have all the luck
 Some guys have all the pain
@@ -118,6 +122,3 @@ But if you were here with me
 I'd feel so happy I could cry
 You are so dear to me
 I just can't let you say goodbye
-
-
-

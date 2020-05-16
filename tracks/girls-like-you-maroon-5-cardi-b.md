@@ -1,9 +1,12 @@
 ---
+album: Red Pill Blues
 artists:
 - Maroon 5
+external_ids:
+  spotify: spotify:track:6FRLCMO5TUHTexlWo8ym1W
 features:
 - Cardi B
-genres: []
+first_released_as_single: true
 key: girls-like-you-maroon-5-cardi-b
 lyrics_url: https://genius.com/Shevv-girls-like-you-maroon-5-ft-cardi-b-shevv-remix-lyrics
 name: Girls Like You
@@ -216,6 +219,8 @@ rankings:
   rank: 35
   ranking_list: Billboard Hot 100
   start_date: '2019-06-01'
+release_year: 2018
+runtime: 235545
 ---
 Spent 24 hours
 I need more hours with you

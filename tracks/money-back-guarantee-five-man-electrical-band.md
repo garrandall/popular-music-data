@@ -1,8 +1,11 @@
 ---
+album: Absolutely Right - The Best Of Five Man Electrical Band
 artists:
 - Five Man Electrical Band
+external_ids:
+  spotify: spotify:track:5rryyflY4ccQG53xbBOGMB
 features: []
-genres: []
+first_released_as_single: false
 key: money-back-guarantee-five-man-electrical-band
 lyrics_url: https://www.musixmatch.com/lyrics/Five-Man-Electrical-Band/Money-Back-Guarantee
 name: Money Back Guarantee
@@ -27,6 +30,8 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1972-10-07'
+release_year: 1972
+runtime: 201533
 ---
 Well, I sat down in front of my TV set
 And some man said this is what you get

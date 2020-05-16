@@ -1,8 +1,11 @@
 ---
+album: Ten Summoner's Tales
 artists:
 - Sting
+external_ids:
+  spotify: spotify:track:05vL56xSoxthM0r7IfcQjo
 features: []
-genres: []
+first_released_as_single: false
 key: if-i-ever-lose-my-faith-in-you-sting
 lyrics_url: https://www.azlyrics.com/lyrics/sting/ifieverlosemyfaithinyou.html
 name: If I Ever Lose My Faith In You
@@ -87,8 +90,9 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1993-07-03'
+release_year: 1993
+runtime: 270533
 ---
-
 You could say I lost my faith in science and progress
 You could say I lost my belief in the holy church
 You could say I lost my sense of direction
@@ -116,6 +120,3 @@ Let me say this first
 
 If I ever lose my faith in you
 There'd be nothing left for me to do
-
-
-

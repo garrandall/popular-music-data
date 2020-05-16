@@ -1,8 +1,11 @@
 ---
+album: 25 (The Piano Versions)
 artists:
 - Adele
+external_ids:
+  spotify: spotify:track:05OBMLIk4TcbDgo0WZvNWj
 features: []
-genres: []
+first_released_as_single: false
 key: all-i-ask-adele
 lyrics_url: https://genius.com/Adele-all-i-ask-lyrics
 name: All I Ask
@@ -11,6 +14,8 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '2016-03-05'
+release_year: 2016
+runtime: 272429
 ---
 I will leave my heart at the door
 I won't say a word

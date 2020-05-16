@@ -1,8 +1,11 @@
 ---
+album: Lone Justice
 artists:
 - Lone Justice
+external_ids:
+  spotify: spotify:track:78KpKa4Z7GEDkbJ6hdKI1a
 features: []
-genres: []
+first_released_as_single: false
 key: sweet-sweet-baby-i-m-falling--lone-justice
 lyrics_url: https://genius.com/Lone-justice-sweet-sweet-baby-im-falling-lyrics
 name: Sweet Sweet Baby(I'm Falling)
@@ -27,6 +30,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1985-08-24'
+release_year: 1985
+runtime: 250426
 ---
 Sweet sweet baby mine
 I want you 'round me all the time

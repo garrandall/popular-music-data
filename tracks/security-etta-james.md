@@ -1,8 +1,11 @@
 ---
+album: Tell Mama
 artists:
 - Etta James
+external_ids:
+  spotify: spotify:track:19tqWReLPd4VXEetDVArLT
 features: []
-genres: []
+first_released_as_single: false
 key: security-etta-james
 lyrics_url: https://www.azlyrics.com/lyrics/ettajames/security.html
 name: Security
@@ -47,8 +50,9 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '1968-05-04'
+release_year: 1968
+runtime: 150933
 ---
-
 Security, yeah yeah
 I want some security
 
@@ -96,6 +100,3 @@ That you're the one for me
 Darling, how can I forget now?
 How can I forget? Yeah
 Security, yeah, security is what I want
-
-
-

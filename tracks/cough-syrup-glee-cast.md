@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music, The Complete Season Three'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:7LqfLfRDpJQkr5LHtPMLql
 features: []
-genres: []
+first_released_as_single: false
 key: cough-syrup-glee-cast
 lyrics_url: https://www.azlyrics.com/lyrics/gleecast/coughsyrup.html
 name: Cough Syrup
@@ -11,8 +14,9 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '2012-03-10'
+release_year: 2012
+runtime: 251280
 ---
-
 Life's too short to even care at all oh woah oh,
 I'm losin' my mind, losin' my mind, losin' control.
 These fishes in the sea, they're staring at me waoh oh,
@@ -52,6 +56,3 @@ I'm waiting for this cough syrup to come down
 
 One more spoon of cough syrup now oh
 One more spoon of cough syrup now oh
-
-
-

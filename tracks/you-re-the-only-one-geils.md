@@ -1,8 +1,11 @@
 ---
+album: Monkey Island
 artists:
 - Geils
+external_ids:
+  spotify: spotify:track:1NYmsoRQ3GczBA87GnutgG
 features: []
-genres: []
+first_released_as_single: false
 key: you-re-the-only-one-geils
 lyrics_url: https://genius.com/The-j-geils-band-youre-the-only-one-lyrics
 name: You're The Only One
@@ -19,6 +22,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1977-09-03'
+release_year: 1977
+runtime: 185133
 ---
 It's very hard to define it
 Just why I feel this way

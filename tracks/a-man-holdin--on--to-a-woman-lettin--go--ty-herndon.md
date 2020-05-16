@@ -1,8 +1,11 @@
 ---
+album: Big Hopes
 artists:
 - Ty Herndon
+external_ids:
+  spotify: spotify:track:2wavvCo7vDjTy9KHrwvSFI
 features: []
-genres: []
+first_released_as_single: false
 key: a-man-holdin--on--to-a-woman-lettin--go--ty-herndon
 lyrics_url: https://www.azlyrics.com/lyrics/tyherndon/amanholdinontoawomanlettingo.html
 name: A Man Holdin' On (To A Woman Lettin' Go)
@@ -47,8 +50,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1998-08-08'
+release_year: 1995
+runtime: 218133
 ---
-
 Two young lovers with their bodies on fire
 Aching to swim that river of desire
 Leaving innocence there on the bank by their clothes
@@ -81,6 +85,3 @@ Leaving innocence there on the bank by their clothes
 Oh, a man holding on to a woman letting go
 
 A man holding on to a woman, a woman letting go
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Before The Storm
 artists:
 - CROW
+external_ids:
+  spotify: spotify:track:0BeqKmoBSScUpE63eHkheN
 features: []
-genres: []
+first_released_as_single: false
 key: cottage-cheese-crow
 lyrics_url: https://genius.com/Crow-cottage-cheese-lyrics
 name: Cottage Cheese
@@ -63,6 +66,8 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '1970-08-15'
+release_year: 1970
+runtime: 194160
 ---
 Take some of this candy sweet
 From my little bag of tricks

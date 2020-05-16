@@ -1,8 +1,11 @@
 ---
+album: Menagerie
 artists:
 - Bill Withers
+external_ids:
+  spotify: spotify:track:7EGE39IHgfl8YYRJsYBXX4
 features: []
-genres: []
+first_released_as_single: true
 key: lovely-day-bill-withers
 lyrics_url: https://www.azlyrics.com/lyrics/billwithers/lovelyday.html
 name: Lovely Day
@@ -55,8 +58,9 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1978-02-25'
+release_year: 1977
+runtime: 253000
 ---
-
 When I wake up in the morning, love
 And the sunlight hurts my eyes
 And something without warning, love
@@ -90,6 +94,3 @@ And the world's alright with me
 Just one look at you
 And I know it's gonna be
 A lovely day...
-
-
-

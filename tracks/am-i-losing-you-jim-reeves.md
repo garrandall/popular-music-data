@@ -1,8 +1,11 @@
 ---
+album: Yours Sincerely
 artists:
 - Jim Reeves
+external_ids:
+  spotify: spotify:track:1xfaxVSpyQ76koR0S0c2mn
 features: []
-genres: []
+first_released_as_single: false
 key: am-i-losing-you-jim-reeves
 lyrics_url: https://genius.com/Jim-reeves-am-i-losing-you-lyrics
 name: Am I Losing You
@@ -51,6 +54,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1961-01-02'
+release_year: 1960
+runtime: 156186
 ---
 Am I losing you?
 Are my fears coming true?

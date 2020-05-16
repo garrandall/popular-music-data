@@ -1,8 +1,11 @@
 ---
+album: Toxicity
 artists:
 - System Of A Down
+external_ids:
+  spotify: spotify:track:4e9eGQYsOiBcftrWXwsVco
 features: []
-genres: []
+first_released_as_single: false
 key: aerials-system-of-a-down
 lyrics_url: https://www.azlyrics.com/lyrics/systemofadown/aerials.html
 name: Aerials
@@ -87,8 +90,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2002-12-28'
+release_year: 2001
+runtime: 235053
 ---
-
 Life is a waterfall
 We're one in the river
 And one again after the fall
@@ -138,6 +142,3 @@ You free your life
 
 Aerials so up high
 When you free your eyes eternal prize
-
-
-

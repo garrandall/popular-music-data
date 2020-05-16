@@ -1,8 +1,11 @@
 ---
+album: Sweetener
 artists:
 - Ariana Grande
+external_ids:
+  spotify: spotify:track:5OCJzvD7sykQEKHH7qAC3C
 features: []
-genres: []
+first_released_as_single: false
 key: god-is-a-woman-ariana-grande
 lyrics_url: https://genius.com/Ariana-grande-god-is-a-woman-lyrics
 name: God Is A Woman
@@ -95,6 +98,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2018-12-22'
+release_year: 2018
+runtime: 197546
 ---
 You, you love it how I move you
 You love it how I touch you, my one

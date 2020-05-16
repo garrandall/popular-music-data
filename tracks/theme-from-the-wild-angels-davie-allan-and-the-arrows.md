@@ -1,8 +1,11 @@
 ---
+album: Wild Angels And Other Themes
 artists:
 - Davie Allan And The Arrows
+external_ids:
+  spotify: spotify:track:1JwajhJa6UivIxkuGkWkR7
 features: []
-genres: []
+first_released_as_single: false
 key: theme-from-the-wild-angels-davie-allan-and-the-arrows
 lyrics_url: https://genius.com/Davie-allan-and-the-arrows-theme-from-the-wild-angels-lyrics
 name: Theme From The Wild Angels
@@ -15,6 +18,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1966-11-19'
+release_year: 1966
+runtime: 130946
 ---
 Between the perfect world and the bottom line
 Keeping love alive in these troubled times

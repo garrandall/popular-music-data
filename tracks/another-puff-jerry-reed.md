@@ -1,8 +1,11 @@
 ---
+album: The Essential Jerry Reed
 artists:
 - Jerry Reed
+external_ids:
+  spotify: spotify:track:4nSE6hEh0vxzjDVf8yvjjQ
 features: []
-genres: []
+first_released_as_single: false
 key: another-puff-jerry-reed
 lyrics_url: https://www.musixmatch.com/lyrics/Jerry-Reed/Another-Puff
 name: Another Puff
@@ -27,6 +30,8 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '1972-02-05'
+release_year: 1972
+runtime: 245240
 ---
 I know there's a lotta talk going around today
 About cigarette smoking whittling your life away

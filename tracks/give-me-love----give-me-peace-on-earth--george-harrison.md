@@ -1,8 +1,11 @@
 ---
+album: Living In The Material World
 artists:
 - George Harrison
+external_ids:
+  spotify: spotify:track:4XMRt4xFqLzGs4wDKkSSeu
 features: []
-genres: []
+first_released_as_single: false
 key: give-me-love----give-me-peace-on-earth--george-harrison
 lyrics_url: https://genius.com/George-harrison-give-me-love-lyrics
 name: Give Me Love - (Give Me Peace On Earth)
@@ -63,6 +66,8 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '1973-08-18'
+release_year: 1973
+runtime: 215693
 ---
 Give me love
 Give me love

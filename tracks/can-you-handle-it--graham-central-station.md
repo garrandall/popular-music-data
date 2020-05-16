@@ -1,8 +1,11 @@
 ---
+album: Graham Central Station
 artists:
 - Graham Central Station
+external_ids:
+  spotify: spotify:track:2d3OqQ1qTAzC2MRuxPAJlH
 features: []
-genres: []
+first_released_as_single: false
 key: can-you-handle-it--graham-central-station
 lyrics_url: https://genius.com/Graham-central-station-can-you-handle-it-lyrics
 name: Can You Handle It?
@@ -39,6 +42,8 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '1974-06-22'
+release_year: 1973
+runtime: 310466
 ---
 You made a fool out of me girl
 But that made me the man

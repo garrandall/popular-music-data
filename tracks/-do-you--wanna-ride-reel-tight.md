@@ -1,8 +1,11 @@
 ---
+album: I Still Know What You Did Last Summer Soundtrack
 artists:
 - Reel Tight
+external_ids:
+  spotify: spotify:track:7mtYwHLYETUEgA8Sc2Uuxr
 features: []
-genres: []
+first_released_as_single: false
 key: -do-you--wanna-ride-reel-tight
 lyrics_url: https://genius.com/Reel-tight-do-you-wanna-ride-lyrics
 name: (Do You) Wanna Ride
@@ -11,6 +14,8 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '1998-11-28'
+release_year: 1998
+runtime: 213213
 ---
 Reel Tight
 Miscellaneous

@@ -1,8 +1,11 @@
 ---
+album: Apprentice
 artists:
 - Dave Loggins
+external_ids:
+  spotify: spotify:track:4akN6PXls4Kros5cSD7uh1
 features: []
-genres: []
+first_released_as_single: false
 key: please-come-to-boston-dave-loggins
 lyrics_url: https://www.musixmatch.com/lyrics/Dave-Loggins/Please-Come-to-Boston
 name: Please Come To Boston
@@ -79,6 +82,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1974-09-28'
+release_year: 1972
+runtime: 247826
 ---
 Please come to Boston for the Springtime
 I'm stayin' here with some friends and they've got lotsa room

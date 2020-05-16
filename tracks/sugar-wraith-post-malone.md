@@ -1,8 +1,11 @@
 ---
+album: beerbongs & bentleys
 artists:
 - Post Malone
+external_ids:
+  spotify: spotify:track:0MrRAUcB8AZiB9ue2VOBYe
 features: []
-genres: []
+first_released_as_single: false
 key: sugar-wraith-post-malone
 lyrics_url: https://www.azlyrics.com/lyrics/postmalone/sugarwraith.html
 name: Sugar Wraith
@@ -11,8 +14,9 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '2018-05-12'
+release_year: 2018
+runtime: 228146
 ---
-
 I started with an eighth, alright (alright)
 And then I went and changed my life (my life)
 I might take out the Wraith tonight (tonight)
@@ -81,6 +85,3 @@ Put your arms around me baby
 I just want to fly, make it last before we die
 And I know you want a ride
 What's on your mind? What's on your mind?
-
-
-

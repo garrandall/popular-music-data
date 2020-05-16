@@ -1,8 +1,11 @@
 ---
+album: Young, Gifted and Black
 artists:
 - Aretha Franklin
+external_ids:
+  spotify: spotify:track:5aC4KLPc7SOEXVSFxBLPyT
 features: []
-genres: []
+first_released_as_single: false
 key: all-the-kings-horses-aretha-franklin
 lyrics_url: https://www.azlyrics.com/lyrics/arethafranklin/allthekingshorses.html
 name: All The Kings Horses
@@ -39,8 +42,9 @@ rankings:
   rank: 32
   ranking_list: Billboard Hot 100
   start_date: '1972-07-22'
+release_year: 1972
+runtime: 236000
 ---
-
 All the king's horse and all the king's men
 They couldn't put my broken heart back together again.
 I woke up this mornin' that this is what I found.
@@ -62,6 +66,3 @@ All the king's horse and all the king's men
 They couldn't put my broken heart back together again.
 All the king's horse and all the king's men
 They couldn't put my broken heart back together again.
-
-
-

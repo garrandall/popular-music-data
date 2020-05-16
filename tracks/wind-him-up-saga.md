@@ -1,8 +1,11 @@
 ---
+album: Worlds Apart Revisited
 artists:
 - Saga
+external_ids:
+  spotify: spotify:track:4RnzO9d30xQc3t09e9VCX9
 features: []
-genres: []
+first_released_as_single: false
 key: wind-him-up-saga
 lyrics_url: https://www.azlyrics.com/lyrics/saga/windhimup.html
 name: Wind Him Up
@@ -39,8 +42,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1983-05-21'
+release_year: 1981
+runtime: 359506
 ---
-
 Aldo's standing at his table
 He's wondering if he's able
 To pick the number right this time
@@ -87,6 +91,3 @@ That's winding its second hand down
 Wind him up, he can't stop
 He keeps on going 'round the clock
 He's winding his second hand
-
-
-

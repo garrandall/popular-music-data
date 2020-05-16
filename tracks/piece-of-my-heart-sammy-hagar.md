@@ -1,8 +1,11 @@
 ---
+album: Standing Hampton
 artists:
 - Sammy Hagar
+external_ids:
+  spotify: spotify:track:7lRVXzYDdXywXHMeoZZsXl
 features: []
-genres: []
+first_released_as_single: false
 key: piece-of-my-heart-sammy-hagar
 lyrics_url: https://www.azlyrics.com/lyrics/sammyhagar/pieceofmyheart.html
 name: Piece Of My Heart
@@ -23,8 +26,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1982-06-05'
+release_year: 1981
+runtime: 237693
 ---
-
 Didn't I make you feel
 Like you were the only one?
 And didn't I give you everything I could
@@ -90,6 +94,3 @@ Just take a piece and break it off and just throw it away
 I don't need it, I never needed it anyway
 (Oh, break a)
 Take it, break it
-
-
-

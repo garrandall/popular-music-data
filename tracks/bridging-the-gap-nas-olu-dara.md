@@ -1,9 +1,12 @@
 ---
+album: Street's Disciple
 artists:
 - Nas
+external_ids:
+  spotify: spotify:track:5h3xoQzVec6OCtzFuuafw7
 features:
 - Olu Dara
-genres: []
+first_released_as_single: false
 key: bridging-the-gap-nas-olu-dara
 lyrics_url: https://www.azlyrics.com/lyrics/nas/bridgingthegap.html
 name: Bridging The Gap
@@ -24,9 +27,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2004-12-11'
+release_year: 2004
+runtime: 236653
 ---
-
-
 "The light is there."
 
 
@@ -105,6 +108,3 @@ He'll be the greatest man alive (You the greatest, Pop)
 Greatest man alive (You the greatest, Pop)
 Gre-Gre-Gre-Gre-Greatest man alive!
 Rest In Peace Ray Charles
-
-
-

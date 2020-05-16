@@ -1,8 +1,11 @@
 ---
+album: For Collectors Only
 artists:
 - Johnny Maestro
+external_ids:
+  spotify: spotify:track:43cG3qOGaOCtRN58ez1Pgc
 features: []
-genres: []
+first_released_as_single: false
 key: model-girl-johnny-maestro
 name: Model Girl
 rankings:
@@ -54,5 +57,7 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1961-04-24'
+release_year: 1961
+runtime: 149066
 ---
 

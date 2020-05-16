@@ -1,8 +1,11 @@
 ---
+album: The Complete Hits Of Vic Dana
 artists:
 - Vic Dana
+external_ids:
+  spotify: spotify:track:75rN9Bn96K1hBCkjyfRqCh
 features: []
-genres: []
+first_released_as_single: false
 key: garden-in-the-rain-vic-dana
 lyrics_url: https://genius.com/Vic-dana-garden-in-the-rain-lyrics
 name: Garden In The Rain
@@ -19,6 +22,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1964-10-31'
+release_year: 1964
+runtime: 136346
 ---
 Twas just a garden in the rain
 Close to a little leafy lane

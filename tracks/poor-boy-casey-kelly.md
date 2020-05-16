@@ -1,8 +1,11 @@
 ---
+album: Casey Kelly
 artists:
 - Casey Kelly
+external_ids:
+  spotify: spotify:track:3k5xySdiqABTUs0OkPwyUV
 features: []
-genres: []
+first_released_as_single: false
 key: poor-boy-casey-kelly
 name: Poor Boy
 rankings:
@@ -42,5 +45,7 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '1972-11-18'
+release_year: 1972
+runtime: 209160
 ---
 

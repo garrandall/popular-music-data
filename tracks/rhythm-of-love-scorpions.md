@@ -1,8 +1,11 @@
 ---
+album: Savage Amusement
 artists:
 - Scorpions
+external_ids:
+  spotify: spotify:track:23rZ0vPDgEUhBfUvhdcCcW
 features: []
-genres: []
+first_released_as_single: false
 key: rhythm-of-love-scorpions
 lyrics_url: https://www.azlyrics.com/lyrics/scorpions/rhythmoflove.html
 name: Rhythm Of Love
@@ -31,8 +34,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1988-07-09'
+release_year: 1988
+runtime: 228373
 ---
-
 Let's spend the night together
 I know you want it too
 The magic of the moment
@@ -75,6 +79,3 @@ Is the heartbeat of my soul
 
 Let us find together
 The beat we're looking for
-
-
-

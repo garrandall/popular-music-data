@@ -1,8 +1,11 @@
 ---
+album: Ricky Martin... Live Black & White Tour
 artists:
 - Ricky Martin
+external_ids:
+  spotify: spotify:track:0MWOEz9rAiC0EclbKsVUJS
 features: []
-genres: []
+first_released_as_single: false
 key: the-cup-of-life--the-official-song-of-the-world-cup-france--98--ricky-martin
 lyrics_url: https://genius.com/Ricky-martin-the-cup-of-life-spanglish-radio-edit-lyrics
 name: The Cup Of Life (The Official Song Of The World Cup France '98)
@@ -143,6 +146,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1999-10-09'
+release_year: 1998
+runtime: 276733
 ---
 The cup of life
 This is the one

@@ -1,8 +1,11 @@
 ---
+album: Motown Year By Year - The Sound Of Young America 1987
 artists:
 - Georgio
+external_ids:
+  spotify: spotify:track:5sE6jAbcoRfThGIfPc1mMI
 features: []
-genres: []
+first_released_as_single: false
 key: tina-cherry-georgio
 lyrics_url: https://genius.com/Georgio-allentini-tina-cherry-lyrics
 name: Tina Cherry
@@ -15,6 +18,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1987-09-05'
+release_year: 1987
+runtime: 243813
 ---
 Is she here?
 When she gets here send her up to my room

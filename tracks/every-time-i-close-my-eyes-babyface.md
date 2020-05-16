@@ -1,8 +1,11 @@
 ---
+album: The Day
 artists:
 - Babyface
+external_ids:
+  spotify: spotify:track:2ezqQeBiC72gwMJoO4w1hA
 features: []
-genres: []
+first_released_as_single: false
 key: every-time-i-close-my-eyes-babyface
 lyrics_url: https://www.azlyrics.com/lyrics/babyface/everytimeiclosemyeyes.html
 name: Every Time I Close My Eyes
@@ -111,8 +114,9 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1997-07-26'
+release_year: 1996
+runtime: 296266
 ---
-
 Girl, it's been a long, long time comin'
 But I, I know that it's been worth the wait
 It feels like springtime in winter
@@ -142,4 +146,3 @@ You really oughtta know
 How much you mean to me
 It's only right that you be in my life right here with me
 Oh baby, baby
-

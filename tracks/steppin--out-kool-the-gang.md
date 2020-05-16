@@ -1,9 +1,12 @@
 ---
+album: Something Special
 artists:
 - Kool
 - The Gang
+external_ids:
+  spotify: spotify:track:05NdLBmUVkXlBpel2QR07Y
 features: []
-genres: []
+first_released_as_single: false
 key: steppin--out-kool-the-gang
 lyrics_url: https://genius.com/Kool-and-the-gang-steppin-out-lyrics
 name: Steppin' Out
@@ -16,6 +19,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1982-02-20'
+release_year: 1981
+runtime: 285373
 ---
 Steppin' out, with my baby
 Steppin' out

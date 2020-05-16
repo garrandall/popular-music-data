@@ -1,8 +1,11 @@
 ---
+album: Planet Waves
 artists:
 - Bob Dylan
+external_ids:
+  spotify: spotify:track:0oID5GDN1VxgvIbeejuG1U
 features: []
-genres: []
+first_released_as_single: false
 key: on-a-night-like-this-bob-dylan
 lyrics_url: https://genius.com/Bob-dylan-on-a-night-like-this-lyrics
 name: On A Night Like This
@@ -31,6 +34,8 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '1974-03-30'
+release_year: 1974
+runtime: 177693
 ---
 On a night like this
 So glad you came around

@@ -1,8 +1,11 @@
 ---
+album: The Best of Rock and Roll Hall of Fame + Museum Live
 artists:
 - U2
+external_ids:
+  spotify: spotify:track:5Eb0ExuOcQplCF53b5Q61D
 features: []
-genres: []
+first_released_as_single: false
 key: -pride--in-the-name-of-love-u2
 lyrics_url: https://genius.com/U2-pride-in-the-name-of-love-lyrics
 name: (Pride) In The Name Of Love
@@ -67,6 +70,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1985-02-02'
+release_year: 1984
+runtime: 232240
 ---
 One man come in the name of love
 One man come and go

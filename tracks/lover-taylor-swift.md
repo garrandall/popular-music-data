@@ -1,8 +1,11 @@
 ---
+album: Lover
 artists:
 - Taylor Swift
+external_ids:
+  spotify: spotify:track:1dGr1c8CrMLDpV6mPbImSI
 features: []
-genres: []
+first_released_as_single: false
 key: lover-taylor-swift
 lyrics_url: https://genius.com/Taylor-swift-lover-lyrics
 name: Lover
@@ -95,6 +98,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2020-01-25'
+release_year: 2019
+runtime: 221306
 ---
 We could leave the Christmas lights up 'til January
 And this is our place, we make the rules

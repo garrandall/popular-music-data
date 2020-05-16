@@ -1,8 +1,11 @@
 ---
+album: Michael Peterson
 artists:
 - Michael Peterson
+external_ids:
+  spotify: spotify:track:3ZdAwMX7Lku81KGiqsjDeA
 features: []
-genres: []
+first_released_as_single: false
 key: drink-swear-steal---lie-michael-peterson
 lyrics_url: https://genius.com/Michael-peterson-drink-swear-steal-and-lie-lyrics
 name: Drink Swear Steal & Lie
@@ -35,6 +38,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1997-09-20'
+release_year: 1997
+runtime: 182306
 ---
 I was 12 when daddy said to me
 Don't take to drinking boy that road don't lead no where

@@ -1,8 +1,11 @@
 ---
+album: Feels Like Carolina
 artists:
 - Parmalee
+external_ids:
+  spotify: spotify:track:3jSyE8r8vgg8fmwojoMzql
 features: []
-genres: []
+first_released_as_single: false
 key: already-callin--you-mine-parmalee
 lyrics_url: https://www.azlyrics.com/lyrics/parmalee/alreadycallinyoumine.html
 name: Already Callin' You Mine
@@ -19,8 +22,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2015-12-26'
+release_year: 2013
+runtime: 184386
 ---
-
 I barely know you, you barely know me
 We ain't but two slow dances into this thing
 Come on and sit down, I'll order us a round
@@ -49,6 +53,3 @@ Just slide a little closer, put your head on my shoulder like this ain't our fir
 Girl, don't worry bout holding on tight cause I'm already calling, I'm already calling you mine
 
 Whoa, whoa. I'm already calling you mine. Whoa, whoa
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Dangerous Music
 artists:
 - Robin George
+external_ids:
+  spotify: spotify:track:4Mr5LBJHsgvCkxMVzb8xk6
 features: []
-genres: []
+first_released_as_single: false
 key: heartline-robin-george
 lyrics_url: https://genius.com/Robin-george-heartline-lyrics
 name: Heartline
@@ -15,6 +18,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1985-04-20'
+release_year: 1985
+runtime: 190360
 ---
 Your crazy attitude is spoiling everyone's fun
 All you wanna do is take the money and run

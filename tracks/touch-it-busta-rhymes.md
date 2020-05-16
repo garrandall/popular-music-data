@@ -1,8 +1,11 @@
 ---
+album: The Big Bang
 artists:
 - Busta Rhymes
+external_ids:
+  spotify: spotify:track:7HiUa9Gkk3QddHWT4jKiXd
 features: []
-genres: []
+first_released_as_single: true
 key: touch-it-busta-rhymes
 lyrics_url: https://genius.com/Busta-rhymes-touch-it-lyrics
 name: Touch It
@@ -99,6 +102,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2006-05-27'
+release_year: 2005
+runtime: 240146
 ---
 "Touch it- bring it - pay it - watch it -
 Turn it - leave it - start - format it"

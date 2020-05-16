@@ -1,8 +1,11 @@
 ---
+album: Space Jam (Music From And Inspired By The Motion Picture)
 artists:
 - Quad City DJ's
+external_ids:
+  spotify: spotify:track:683hRieVmYdAhVA1DkjSAk
 features: []
-genres: []
+first_released_as_single: false
 key: space-jam-quad-city-dj-s
 lyrics_url: https://genius.com/Quad-city-djs-space-jam-lyrics
 name: Space Jam
@@ -87,6 +90,8 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1997-05-03'
+release_year: 1996
+runtime: 304960
 ---
 Everybody get up it's time to slam now
 We got a real jam goin' down

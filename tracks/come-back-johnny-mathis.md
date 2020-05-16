@@ -1,8 +1,11 @@
 ---
+album: The Shadow of Your Smile
 artists:
 - Johnny Mathis
+external_ids:
+  spotify: spotify:track:6DvysjdubGIMt2foqrrVlY
 features: []
-genres: []
+first_released_as_single: false
 key: come-back-johnny-mathis
 lyrics_url: https://genius.com/Johnny-mathis-come-back-to-me-lyrics
 name: Come Back
@@ -31,6 +34,8 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '1963-11-16'
+release_year: 1963
+runtime: 136760
 ---
 Come to me now that I have found you
 Come to me, wrap my love around you

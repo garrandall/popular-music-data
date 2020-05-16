@@ -1,9 +1,12 @@
 ---
+album: 'Glee: The Music, Volume 3 Showstoppers'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:6cNSOKvw5hYVrOCrLw8joJ
 features:
 - Neil Patrick Harris
-genres: []
+first_released_as_single: false
 key: dream-on-glee-cast-neil-patrick-harris
 lyrics_url: https://www.azlyrics.com/lyrics/gleecast/dreamon.html
 name: Dream On
@@ -16,8 +19,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2010-06-12'
+release_year: 2010
+runtime: 274133
 ---
-
 Every time that I look in the mirror
 All these lines on my face getting clearer
 The past is gone
@@ -63,6 +67,3 @@ Sing with me, sing for the year
 Sing for the laugh, sing for the tear
 Sing with me, if it's just for today
 Maybe tomorrow, the good Lord will take you away...
-
-
-

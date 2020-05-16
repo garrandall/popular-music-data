@@ -1,8 +1,11 @@
 ---
+album: Streets Of Gold
 artists:
 - 3OH!3
+external_ids:
+  spotify: spotify:track:1LjHre9uHSLMuUrKsl6ppX
 features: []
-genres: []
+first_released_as_single: false
 key: touchin-on-my-3oh-3
 lyrics_url: https://www.azlyrics.com/lyrics/3oh3/touchinonmy.html
 name: Touchin On My
@@ -15,8 +18,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2010-06-12'
+release_year: 2010
+runtime: 183106
 ---
-
 G-g-girl I gotta know
 How you dance like that
 D-d-dance like that
@@ -67,6 +71,3 @@ So baby let's get down
 (I don't give a ***)
 (I don't give a ***)
 (I don't give a ***)
-
-
-

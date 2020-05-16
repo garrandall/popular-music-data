@@ -1,8 +1,11 @@
 ---
+album: Bitter Sweet
 artists:
 - The Main Ingredient
+external_ids:
+  spotify: spotify:track:2R56O4Hl25VRA6CtMdlwV1
 features: []
-genres: []
+first_released_as_single: false
 key: everybody-plays-the-fool-the-main-ingredient
 lyrics_url: https://genius.com/The-main-ingredient-everybody-plays-the-fool-lyrics
 name: Everybody Plays The Fool
@@ -79,6 +82,8 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1972-11-11'
+release_year: 1972
+runtime: 202400
 ---
 Okay, so you're heartbroken
 You sit around mopin'

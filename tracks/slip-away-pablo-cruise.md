@@ -1,8 +1,11 @@
 ---
+album: Reflector
 artists:
 - Pablo Cruise
+external_ids:
+  spotify: spotify:track:0VZ2DD85BV74uRNjDR9Mid
 features: []
-genres: []
+first_released_as_single: false
 key: slip-away-pablo-cruise
 lyrics_url: https://www.azlyrics.com/lyrics/pablocruise/slipaway.html
 name: Slip Away
@@ -27,8 +30,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1981-11-14'
+release_year: 1981
+runtime: 226693
 ---
-
 I'm lookin' back, over my shoulder
 Thinking of days gone by
 One more fool takin' someone for granted
@@ -90,6 +94,3 @@ You got away from my love, girl
 Let you get away, yeah
 (I let you slip away, slip away from my love, baby)
 I let you get away, yeah
-
-
-

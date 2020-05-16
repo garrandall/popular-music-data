@@ -1,8 +1,12 @@
 ---
+album: Let's All Sing With The Chipmunks
 artists:
-- The Chipmunks With David Seville
-features: []
-genres: []
+- Alvin And The Chipmunks
+external_ids:
+  spotify: spotify:track:7mZwaEEaHSeTYC2hTAjUki
+features:
+- David Seville
+first_released_as_single: false
 key: the-chipmunk-song-the-chipmunks-with-david-seville
 name: The Chipmunk Song
 rankings:
@@ -58,5 +62,7 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '1959-02-23'
+release_year: 1958
+runtime: 141906
 ---
 

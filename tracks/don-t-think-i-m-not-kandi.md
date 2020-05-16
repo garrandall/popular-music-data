@@ -1,8 +1,11 @@
 ---
+album: Hey Kandi...
 artists:
 - Kandi
+external_ids:
+  spotify: spotify:track:7trGp6j9OOgeohTnUdrYVj
 features: []
-genres: []
+first_released_as_single: true
 key: don-t-think-i-m-not-kandi
 lyrics_url: https://genius.com/Kandi-dont-think-im-not-lyrics
 name: Don't Think I'm Not
@@ -103,6 +106,8 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '2001-01-13'
+release_year: 2000
+runtime: 243773
 ---
 Now I don't have to question
 Where you were last night

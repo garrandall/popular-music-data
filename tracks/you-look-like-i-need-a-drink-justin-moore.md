@@ -1,8 +1,11 @@
 ---
+album: Kinda Don't Care
 artists:
 - Justin Moore
+external_ids:
+  spotify: spotify:track:1TGJxtVHgPHKVt6K7sPn1T
 features: []
-genres: []
+first_released_as_single: false
 key: you-look-like-i-need-a-drink-justin-moore
 lyrics_url: https://genius.com/Justin-moore-you-look-like-i-need-a-drink-lyrics
 name: You Look Like I Need A Drink
@@ -39,6 +42,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2016-10-15'
+release_year: 2016
+runtime: 187480
 ---
 I could tell by the way you sounded when you called
 That I wasn't gonna like what you had to say

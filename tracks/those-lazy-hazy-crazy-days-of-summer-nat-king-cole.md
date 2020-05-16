@@ -1,8 +1,11 @@
 ---
+album: The Classic Singles
 artists:
 - Nat King Cole
+external_ids:
+  spotify: spotify:track:6A8BIlTkUtKe0l3XgN48qA
 features: []
-genres: []
+first_released_as_single: false
 key: those-lazy-hazy-crazy-days-of-summer-nat-king-cole
 lyrics_url: https://genius.com/Nat-king-cole-those-lazy-hazy-crazy-days-of-summer-lyrics
 name: Those Lazy-Hazy-Crazy Days Of Summer
@@ -55,6 +58,8 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '1963-07-27'
+release_year: 1963
+runtime: 145506
 ---
 Roll out those lazy, hazy, crazy days of summer
 Those days of soda and pretzels and beer

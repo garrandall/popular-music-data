@@ -1,8 +1,11 @@
 ---
+album: Feelin' Bluesy
 artists:
 - Gladys Knight And The Pips
+external_ids:
+  spotify: spotify:track:4iY1U3YRGoBEgaRNlvhZyJ
 features: []
-genres: []
+first_released_as_single: false
 key: it-should-have-been-me-gladys-knight-and-the-pips
 lyrics_url: https://genius.com/Gladys-knight-and-the-pips-it-should-have-been-me-lyrics
 name: It Should Have Been Me
@@ -39,6 +42,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1968-07-27'
+release_year: 1968
+runtime: 167506
 ---
 I saw my love walking down the aisle
 And as he passed me by

@@ -1,8 +1,11 @@
 ---
+album: Cahoots
 artists:
 - The Band
+external_ids:
+  spotify: spotify:track:6Ced3eEEk7JZyAx1uqjf5p
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-do-it-the-band
 lyrics_url: https://genius.com/The-band-dont-do-it-live-lyrics
 name: Don't Do It
@@ -51,6 +54,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1972-11-25'
+release_year: 1971
+runtime: 234093
 ---
 Baby don't you do it, don't do it
 Don't you break my heart

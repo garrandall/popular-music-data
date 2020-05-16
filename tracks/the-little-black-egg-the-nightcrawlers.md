@@ -1,8 +1,11 @@
 ---
+album: Than and Now
 artists:
 - The Nightcrawlers
+external_ids:
+  spotify: spotify:track:4bzOuT2byhy0Luy9tPVuNx
 features: []
-genres: []
+first_released_as_single: false
 key: the-little-black-egg-the-nightcrawlers
 lyrics_url: https://genius.com/The-nightcrawlers-rock-the-little-black-egg-lyrics
 name: The Little Black Egg
@@ -23,6 +26,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1967-02-11'
+release_year: 1967
+runtime: 208613
 ---
 I don't care what they say
 I'm gonna keep it anyway

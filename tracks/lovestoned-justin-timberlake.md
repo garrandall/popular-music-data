@@ -1,8 +1,11 @@
 ---
+album: FutureSex/LoveSounds
 artists:
 - Justin Timberlake
+external_ids:
+  spotify: spotify:track:5iyE2d4U3Vc5cqY9mPTlpy
 features: []
-genres: []
+first_released_as_single: false
 key: lovestoned-justin-timberlake
 lyrics_url: https://www.azlyrics.com/lyrics/justintimberlake/lovestonedithinksheknowsinterlude.html
 name: LoveStoned
@@ -87,8 +90,9 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '2007-12-01'
+release_year: 2006
+runtime: 444333
 ---
-
 She's freaky and she knows it
 She's freaky and I like it
 
@@ -165,6 +169,3 @@ I'm love stoned and I could swear
 That she knows
 Think that she knows, oh, oh
 She knows, she knows, oh, oh
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: 'Happy Days: A Retrospective'
 artists:
 - The Marcels
+external_ids:
+  spotify: spotify:track:0pnfT3OLqlnIvO0uMYgCfM
 features: []
-genres: []
+first_released_as_single: true
 key: blue-moon-the-marcels
 lyrics_url: https://genius.com/The-marcels-blue-moon-lyrics
 name: Blue Moon
@@ -63,6 +66,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1961-06-05'
+release_year: 1961
+runtime: 133453
 ---
 Blue Moon Moon Moon Moon
 Blue Moon Moon Moon Moon

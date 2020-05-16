@@ -1,8 +1,11 @@
 ---
+album: Modern Sounds in Country and Western Music, Vols 1 & 2
 artists:
 - Ray Charles
+external_ids:
+  spotify: spotify:track:1VCpk2RhA2ZYVnKEf6hMXg
 features: []
-genres: []
+first_released_as_single: false
 key: you-are-my-sunshine-ray-charles
 lyrics_url: https://www.azlyrics.com/lyrics/raycharles/youaremysunshine.html
 name: You Are My Sunshine
@@ -55,8 +58,9 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '1963-02-02'
+release_year: 1962
+runtime: 178840
 ---
-
 The other night
 As I lay sleeping
 Whoah, I dreamed I held you
@@ -123,6 +127,3 @@ I don't want you to take
 (don't take my sunshine)
 Whoah, my sunshine away
 (shine away)
-
-
-

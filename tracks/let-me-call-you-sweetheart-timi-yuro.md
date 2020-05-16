@@ -1,8 +1,11 @@
 ---
+album: Let Me Go Lover
 artists:
 - Timi Yuro
+external_ids:
+  spotify: spotify:track:2hzQdu0eixbO1LAyJG8m8x
 features: []
-genres: []
+first_released_as_single: false
 key: let-me-call-you-sweetheart-timi-yuro
 lyrics_url: https://genius.com/Timi-yuro-let-me-call-you-sweetheart-lyrics
 name: Let Me Call You Sweetheart
@@ -27,6 +30,8 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '1962-03-03'
+release_year: 1962
+runtime: 161693
 ---
 Let me call you sweetheart
 I'm in love, mmm, with you

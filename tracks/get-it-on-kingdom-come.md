@@ -1,8 +1,11 @@
 ---
+album: Kingdom Come
 artists:
 - Kingdom Come
+external_ids:
+  spotify: spotify:track:2RhBpEgfPbuxciijmxYNTp
 features: []
-genres: []
+first_released_as_single: false
 key: get-it-on-kingdom-come
 lyrics_url: https://genius.com/Kingdom-come-get-it-on-lyrics
 name: Get It On
@@ -31,6 +34,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1988-05-07'
+release_year: 1988
+runtime: 261596
 ---
 We've come a long, long way to be with you
 It's not that easy doing what we do

@@ -1,8 +1,11 @@
 ---
+album: Flying Funk
 artists:
 - The Nite-Liters
+external_ids:
+  spotify: spotify:track:7kT9WA3luyywe5cW2VEExS
 features: []
-genres: []
+first_released_as_single: false
 key: afro-strut-the-nite-liters
 name: Afro-Strut
 rankings:
@@ -38,5 +41,7 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '1972-04-15'
+release_year: 1972
+runtime: 171800
 ---
 

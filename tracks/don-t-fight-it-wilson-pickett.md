@@ -1,8 +1,11 @@
 ---
+album: In the Midnight Hour
 artists:
 - Wilson Pickett
+external_ids:
+  spotify: spotify:track:0YcbjM0ozNGqlGKfrI9Lkb
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-fight-it-wilson-pickett
 lyrics_url: https://genius.com/Wilson-pickett-dont-fight-it-lyrics
 name: Don't Fight It
@@ -47,6 +50,8 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '1966-01-08'
+release_year: 1965
+runtime: 153000
 ---
 There you sit
 All by yo'self
@@ -70,8 +75,6 @@ So don't fight it
 Whoa, baby, yeah, yeah
 (Feel it, feel it)
 
-(sax & instrumental)
-
 The way you Jerk
 The way you do The Twine
 You're too much, baby
@@ -89,10 +92,6 @@ Don't fight it, oh, no
 You got to feel
 (Feel it, feel it)
 
-Fades-
-
 You can't fight it
 (Feel it, feel it)
 No
-
-~

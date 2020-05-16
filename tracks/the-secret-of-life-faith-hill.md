@@ -1,8 +1,11 @@
 ---
+album: Faith
 artists:
 - Faith Hill
+external_ids:
+  spotify: spotify:track:5wYgJcEdKam1nYSybFuOIe
 features: []
-genres: []
+first_released_as_single: false
 key: the-secret-of-life-faith-hill
 lyrics_url: https://www.azlyrics.com/lyrics/faithhill/thesecretoflife.html
 name: The Secret Of Life
@@ -79,8 +82,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1999-10-23'
+release_year: 1998
+runtime: 254630
 ---
-
 Couple of guys sittin' around drinkin'
 Down at the Starlight Bar
 One of 'em says, "You know I've been thinking"
@@ -133,6 +137,3 @@ Down at the Starlight Bar
 One of 'em says, "You know I've been thinking"
 Other one says, "That won't get you too far"
 "That won't get you too far"
-
-
-

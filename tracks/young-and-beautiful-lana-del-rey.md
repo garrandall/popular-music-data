@@ -1,8 +1,11 @@
 ---
+album: Young And Beautiful
 artists:
 - Lana Del Rey
+external_ids:
+  spotify: spotify:track:2nMeu6UenVvwUktBCpLMK9
 features: []
-genres: []
+first_released_as_single: true
 key: young-and-beautiful-lana-del-rey
 lyrics_url: https://genius.com/Lana-del-rey-young-and-beautiful-lyrics
 name: Young And Beautiful
@@ -91,6 +94,8 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '2013-10-12'
+release_year: 2013
+runtime: 236053
 ---
 I've seen the world, done it all
 Had my cake now

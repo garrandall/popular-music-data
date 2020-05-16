@@ -1,8 +1,11 @@
 ---
+album: ANTI
 artists:
 - Rihanna
+external_ids:
+  spotify: spotify:track:0UHB9METy4VCXNgkcGqHqS
 features: []
-genres: []
+first_released_as_single: false
 key: kiss-it-better-rihanna
 lyrics_url: https://genius.com/Rihanna-kiss-it-better-lyrics
 name: Kiss It Better
@@ -55,6 +58,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2016-07-09'
+release_year: 2016
+runtime: 253080
 ---
 Kiss it, kiss it better, baby
 Kiss it, kiss it better, baby

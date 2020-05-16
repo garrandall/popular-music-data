@@ -1,8 +1,11 @@
 ---
+album: Million Sellers
 artists:
 - Ricky Nelson
+external_ids:
+  spotify: spotify:track:6bRZQ6MTrXdr3xIXKe6dgN
 features: []
-genres: []
+first_released_as_single: false
 key: i-wanna-be-loved-ricky-nelson
 lyrics_url: https://www.azlyrics.com/lyrics/rickynelson/iwannabeloved.html
 name: I Wanna Be Loved
@@ -51,8 +54,9 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1960-02-08'
+release_year: 1959
+runtime: 166120
 ---
-
 I wanna be loved with inspiration,
 I wanna be loved starting tonight.
 Instead of merely holding conversation
@@ -92,6 +96,3 @@ I wanna be thrilled to desperation,
 I wanna be thrilled starting tonight.
 With every kind of wonderful sensation,
 I wanna be loved!
-
-
-

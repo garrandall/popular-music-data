@@ -1,8 +1,11 @@
 ---
+album: The MGM Singles
 artists:
 - Sam The Sham and the Pharaohs
+external_ids:
+  spotify: spotify:track:0NxHOfxuXgyxPUsieiU27l
 features: []
-genres: []
+first_released_as_single: false
 key: oh-that-s-good-no-that-s-bad-sam-the-sham-and-the-pharaohs
 lyrics_url: https://genius.com/Sam-the-sham-and-the-pharaohs-oh-thats-good-no-thats-bad-lyrics
 name: Oh That's Good No That's Bad
@@ -31,6 +34,8 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '1967-04-22'
+release_year: 1967
+runtime: 139013
 ---
 (Oh, that's bad)
 No, that's good

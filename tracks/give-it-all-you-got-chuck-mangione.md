@@ -1,8 +1,11 @@
 ---
+album: Fun And Games
 artists:
 - Chuck Mangione
+external_ids:
+  spotify: spotify:track:3479939STf8aKddeiHtosd
 features: []
-genres: []
+first_released_as_single: false
 key: give-it-all-you-got-chuck-mangione
 lyrics_url: https://genius.com/Chuck-mangione-give-it-all-you-got-lyrics
 name: Give It All You Got
@@ -71,6 +74,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1980-05-03'
+release_year: 1979
+runtime: 370866
 ---
 ♫
 ♫ Instrumental ♫

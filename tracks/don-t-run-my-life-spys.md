@@ -1,8 +1,11 @@
 ---
+album: Spys
 artists:
 - Spys
+external_ids:
+  spotify: spotify:track:7mpEsuWBVBx0ZVnRLXpxvB
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-run-my-life-spys
 lyrics_url: https://genius.com/Spys-band-dont-run-my-life-lyrics
 name: Don't Run My Life
@@ -27,6 +30,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1982-09-11'
+release_year: 1982
+runtime: 231400
 ---
 You want to shoot me down again
 Why, did I steal your crowd?

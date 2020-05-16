@@ -1,8 +1,11 @@
 ---
+album: Spoiled Girl
 artists:
 - Carly Simon
+external_ids:
+  spotify: spotify:track:7e2v1ko5WXbK0GqP4dDaDG
 features: []
-genres: []
+first_released_as_single: false
 key: tired-of-being-blonde-carly-simon
 lyrics_url: https://www.azlyrics.com/lyrics/carlysimon/tiredofbeingblonde.html
 name: Tired Of Being Blonde
@@ -27,8 +30,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1985-07-27'
+release_year: 1985
+runtime: 287000
 ---
-
 She left the credit cards under her goodbye note
 "All of these are yours, goodbye" and that was all she wrote
 Keys to the Porsche she dropped on the floor in the den
@@ -70,6 +74,3 @@ Tired of being blonde
 Tired of fighting back the feeling inside that told her to run
 Tired of being blonde
 Tired of hiding her own inclinations
-
-
-

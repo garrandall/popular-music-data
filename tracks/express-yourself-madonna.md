@@ -1,8 +1,11 @@
 ---
+album: Like a Prayer
 artists:
 - Madonna
+external_ids:
+  spotify: spotify:track:3szW87j0gVLQmpulz4P8Rf
 features: []
-genres: []
+first_released_as_single: false
 key: express-yourself-madonna
 lyrics_url: https://genius.com/Madonna-express-yourself-lyrics
 name: Express Yourself
@@ -71,6 +74,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1989-09-16'
+release_year: 1989
+runtime: 279133
 ---
 Come on girls
 Do you believe in love?

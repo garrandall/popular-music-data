@@ -1,8 +1,11 @@
 ---
+album: Disciplined Breakdown
 artists:
 - Collective Soul
+external_ids:
+  spotify: spotify:track:44Razg2DEDwDwmOY6Rh58x
 features: []
-genres: []
+first_released_as_single: false
 key: listen-collective-soul
 lyrics_url: https://www.azlyrics.com/lyrics/collectivesoul/listen.html
 name: Listen
@@ -51,8 +54,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1997-09-06'
+release_year: 1997
+runtime: 252266
 ---
-
 Hey you're now thirsty 
 Walking in the desert all alone 
 Hey you're now searching 
@@ -87,6 +91,3 @@ Reviving just to crash and burn
 You're fighting till the bitter end 
 If only your heart could open up 
 And listen
-
-
-

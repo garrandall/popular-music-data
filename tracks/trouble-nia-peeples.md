@@ -1,8 +1,11 @@
 ---
+album: Nothin' But Trouble
 artists:
 - Nia Peeples
+external_ids:
+  spotify: spotify:track:3ef3MGIHAIwXAuAluLjOTJ
 features: []
-genres: []
+first_released_as_single: false
 key: trouble-nia-peeples
 lyrics_url: https://genius.com/Nia-peeples-trouble-lyrics
 name: Trouble
@@ -67,6 +70,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1988-08-20'
+release_year: 1988
+runtime: 388333
 ---
 I must be out of my head
 Or just plain crazy for you

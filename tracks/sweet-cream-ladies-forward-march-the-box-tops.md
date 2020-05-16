@@ -1,8 +1,11 @@
 ---
+album: Dimensions
 artists:
 - The Box Tops
+external_ids:
+  spotify: spotify:track:7es1J8nSPcPxjn1twvrcW2
 features: []
-genres: []
+first_released_as_single: false
 key: sweet-cream-ladies-forward-march-the-box-tops
 lyrics_url: https://www.azlyrics.com/lyrics/boxtops/sweetcreamladiesforwardmarch.html
 name: Sweet Cream Ladies Forward March
@@ -67,8 +70,9 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '1969-04-05'
+release_year: 1968
+runtime: 134066
 ---
-
 Sweet cream ladies, forward march
 The world owes you a living
 Sweet cream ladies, do your part
@@ -101,6 +105,3 @@ When there's really credit due them
 They might keep a simple fellow out of jail!
 Sweet cream ladies, forward march, oh
 Sweet cream ladies, forward march, oh
-
-
-

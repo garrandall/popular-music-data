@@ -1,8 +1,11 @@
 ---
+album: There's Really A Wolf
 artists:
 - Russ
+external_ids:
+  spotify: spotify:track:1jkIErXa3YNUX5QIyO6GGR
 features: []
-genres: []
+first_released_as_single: true
 key: losin-control-russ
 lyrics_url: https://www.azlyrics.com/lyrics/russ/losincontrol.html
 name: Losin Control
@@ -83,8 +86,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2017-07-22'
+release_year: 2016
+runtime: 237506
 ---
-
 She's fallin' in love now
 Losin' control now
 Fightin' the truth
@@ -149,6 +153,3 @@ Fightin' the truth
 Tryin' to hide
 But I think it's alright girl
 Yeah, I think it's alright girl
-
-
-

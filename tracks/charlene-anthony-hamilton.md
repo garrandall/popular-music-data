@@ -1,8 +1,11 @@
 ---
+album: Comin' From Where I'm From
 artists:
 - Anthony Hamilton
+external_ids:
+  spotify: spotify:track:0xiuSFBOEHWaJ6rSuUbJWc
 features: []
-genres: []
+first_released_as_single: false
 key: charlene-anthony-hamilton
 lyrics_url: https://www.azlyrics.com/lyrics/anthonyhamilton/charlene.html
 name: Charlene
@@ -95,8 +98,9 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '2005-01-29'
+release_year: 2003
+runtime: 246773
 ---
-
 Woke up this morning, found a letter that she wrote.
 She said she's tired that I'm always on the road.
 Too hard to swallow being alone.
@@ -154,6 +158,3 @@ Sometimes I cry.
 Charlene, if you're listening, would you call on me?
 Because my heart is aching without you.
 Call me. Say about me.
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Freestyle's Best Extended Versions Volumes 1 & 2
 artists:
 - Yvonne
+external_ids:
+  spotify: spotify:track:06ZJ2PnuA2aumouI5lOwZ5
 features: []
-genres: []
+first_released_as_single: false
 key: there-s-a-party-going-on-yvonne
 lyrics_url: https://genius.com/Yvonne-theres-a-party-going-on-lyrics
 name: There's A Party Going On
@@ -43,6 +46,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1990-03-24'
+release_year: 1990
+runtime: 383506
 ---
 Feelin'
 Feelin'

@@ -1,8 +1,11 @@
 ---
+album: Ben
 artists:
 - Michael Jackson
+external_ids:
+  spotify: spotify:track:0ZFqB9g2FujbmMSrjqsL3j
 features: []
-genres: []
+first_released_as_single: false
 key: ben-michael-jackson
 lyrics_url: https://genius.com/Michael-jackson-ben-lyrics
 name: Ben
@@ -71,6 +74,8 @@ rankings:
   rank: 35
   ranking_list: Billboard Hot 100
   start_date: '1972-11-18'
+release_year: 1972
+runtime: 167386
 ---
 Ben, the two of us need look no more
 We both found what we were looking for

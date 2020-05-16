@@ -1,8 +1,11 @@
 ---
+album: Stick It To Ya
 artists:
 - Slaughter
+external_ids:
+  spotify: spotify:track:0bTeFVCGTA9QaRXscYHTyz
 features: []
-genres: []
+first_released_as_single: false
 key: up-all-night-slaughter
 lyrics_url: https://genius.com/Slaughter-up-all-night-lyrics
 name: Up All Night
@@ -63,6 +66,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1990-07-28'
+release_year: 1989
+runtime: 257293
 ---
 And when morning comes...
 

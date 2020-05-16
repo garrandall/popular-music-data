@@ -1,8 +1,11 @@
 ---
+album: Happy Soul/Buying a Book
 artists:
 - Joe Tex
+external_ids:
+  spotify: spotify:track:5zq1Mib1pAJ5UoqvLR2L0E
 features: []
-genres: []
+first_released_as_single: false
 key: that-s-your-baby-joe-tex
 lyrics_url: https://genius.com/Joe-tex-thats-your-baby-lyrics
 name: That's Your Baby
@@ -19,6 +22,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1969-02-01'
+release_year: 1969
+runtime: 141960
 ---
 Man put your hand in your pocket and give that baby some money
 That  baby got to go to school and her got to buy his lunch at school

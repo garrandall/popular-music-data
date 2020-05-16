@@ -1,8 +1,11 @@
 ---
+album: Unbroken
 artists:
 - Demi Lovato
+external_ids:
+  spotify: spotify:track:3sP3c86WFjOzHHnbhhZcLA
 features: []
-genres: []
+first_released_as_single: false
 key: give-your-heart-a-break-demi-lovato
 lyrics_url: https://genius.com/Demi-lovato-give-your-heart-a-break-lyrics
 name: Give Your Heart A Break
@@ -135,6 +138,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2012-11-24'
+release_year: 2011
+runtime: 205346
 ---
 The day I first met you, you told me
 You'd never fall in love

@@ -1,8 +1,11 @@
 ---
+album: Malice 'N Wonderland
 artists:
 - Snoop Dogg
+external_ids:
+  spotify: spotify:track:3vNiHPIipR4a4bZKA288CD
 features: []
-genres: []
+first_released_as_single: false
 key: i-wanna-rock-snoop-dogg
 lyrics_url: https://genius.com/Snoop-dogg-i-wanna-rock-lyrics
 name: I Wanna Rock
@@ -67,6 +70,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2010-04-10'
+release_year: 2009
+runtime: 235986
 ---
 Right about now!
 

@@ -1,8 +1,11 @@
 ---
+album: Greatest Hits
 artists:
 - Vanessa Williams
+external_ids:
+  spotify: spotify:track:04c7gHwmtsa37ejt5o3Kdp
 features: []
-genres: []
+first_released_as_single: false
 key: the-right-stuff-vanessa-williams
 lyrics_url: https://www.azlyrics.com/lyrics/vanessawilliams/therightstuff.html
 name: The Right Stuff
@@ -47,8 +50,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1988-09-24'
+release_year: 1988
+runtime: 267760
 ---
-
 I was standing at 7:15 waiting for my baby's car
 Just then out stepped the driver of a limousine
 And asked if I was going far
@@ -88,6 +92,3 @@ Say it
 I need the right stuff
 I got to have the right stuff
 I don't wanna miss out on the right stuff
-
-
-

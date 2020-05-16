@@ -1,8 +1,11 @@
 ---
+album: What's The 411?
 artists:
 - Mary J. Blige
+external_ids:
+  spotify: spotify:track:3IuJXTVipz0DGz70MaCfgW
 features: []
-genres: []
+first_released_as_single: false
 key: you-remind-me-mary-j--blige
 lyrics_url: https://www.musixmatch.com/lyrics/Mary-J-Blige/You-Remind-Me
 name: You Remind Me
@@ -87,6 +90,8 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1992-10-31'
+release_year: 1992
+runtime: 258093
 ---
 Oh you remind me, yeah
 You remind me of such sweet memories

@@ -1,8 +1,11 @@
 ---
+album: 'The Sensational Seventies: 14 Fantastic Memories'
 artists:
 - Clint Holmes
+external_ids:
+  spotify: spotify:track:0ckaiscpV8eaZ9WWJLdFbs
 features: []
-genres: []
+first_released_as_single: false
 key: playground-in-my-mind-clint-holmes
 lyrics_url: https://genius.com/Clint-holmes-playground-in-my-mind-lyrics
 name: Playground In My Mind
@@ -99,6 +102,8 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '1973-08-25'
+release_year: 1972
+runtime: 172746
 ---
 When this old world is getting me down
 And there's no love to be found

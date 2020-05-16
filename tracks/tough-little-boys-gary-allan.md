@@ -1,8 +1,11 @@
 ---
+album: See If I Care
 artists:
 - Gary Allan
+external_ids:
+  spotify: spotify:track:6TZEPo10yErUtF5AtdfLY2
 features: []
-genres: []
+first_released_as_single: false
 key: tough-little-boys-gary-allan
 lyrics_url: https://www.azlyrics.com/lyrics/garyallan/toughlittleboys.html
 name: Tough Little Boys
@@ -87,8 +90,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2004-01-03'
+release_year: 2003
+runtime: 237333
 ---
-
 Well I never once
 Backed down from a punch
 Well I'd take it square on the chin
@@ -131,6 +135,3 @@ But when tough little boys grow up to be dads
 They turn into big babies again
 When tough little boys grow up to be dads
 They turn into big babies again.
-
-
-

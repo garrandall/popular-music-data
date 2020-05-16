@@ -1,8 +1,11 @@
 ---
+album: Remedy
 artists:
 - Remedy
+external_ids:
+  spotify: spotify:track:7DFSp7iiAvCROOZI4lDx5O
 features: []
-genres: []
+first_released_as_single: true
 key: closer-remedy
 lyrics_url: https://www.musixmatch.com/lyrics/Remedy-8/Closer-Fade
 name: Closer
@@ -31,6 +34,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1993-05-01'
+release_year: 1993
+runtime: 282320
 ---
 Closer...
 Closer to me.

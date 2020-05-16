@@ -1,8 +1,11 @@
 ---
+album: Live
 artists:
 - The Byrds
+external_ids:
+  spotify: spotify:track:5kRWy6ZEQZjff6phUPKR1d
 features: []
-genres: []
+first_released_as_single: false
 key: so-you-want-to-be-a-rock--n--roll-star-the-byrds
 lyrics_url: https://www.azlyrics.com/lyrics/byrds/soyouwanttobearocknrollstar.html
 name: So You Want To Be A Rock 'N' Roll Star
@@ -35,8 +38,9 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1967-03-11'
+release_year: 1965
+runtime: 126000
 ---
-
 So you want to be a rock'n'roll star
 Then listen now to what I say
 Just get an electric guitar
@@ -59,6 +63,3 @@ Don't forget what you are
 You're a rock'n'roll star
 
 Lalalalalalala
-
-
-

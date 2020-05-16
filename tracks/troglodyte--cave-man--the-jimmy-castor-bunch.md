@@ -1,8 +1,11 @@
 ---
+album: It's Just Begun
 artists:
 - The Jimmy Castor Bunch
+external_ids:
+  spotify: spotify:track:08L6jFH2p1NfDXX4suPvp2
 features: []
-genres: []
+first_released_as_single: false
 key: troglodyte--cave-man--the-jimmy-castor-bunch
 lyrics_url: https://genius.com/The-jimmy-castor-bunch-troglodyte-lyrics
 name: Troglodyte (Cave Man)
@@ -55,9 +58,9 @@ rankings:
   rank: 33
   ranking_list: Billboard Hot 100
   start_date: '1972-07-29'
+release_year: 1972
+runtime: 217933
 ---
-Note: While there is a pounding beat in the background, the
-Song is spoken rather than sung
 What we're gonna do right here is go back, way back, back into time
 When the only people that existed were troglodytes...cave men...
 Cave women...Neanderthal...troglodytes. Let's take the average
@@ -76,8 +79,7 @@ Of the Butt sisters. He didn't care. He looked up at her and said:
 "Sock it to me sock it to me sock it to me sock it to me sock it to me
 Sock it to me sock it to me sock it to me!". She looked down on him
 She was ready to crush him, but she began to like him. She said
-(falsetto):
-"I'll sock it to ya, Daddy". He said: "Wha?". She said (falsetto):
+"I'll sock it to ya, Daddy". He said: "Wha?". She said:
 "I'll sock it to ya, Daddy". You know what he said? He started it way
 Back then. I wouldn't lie to you. When she said (falsetto)
 "I'll sock it to ya, Daddy" he said "Right on! Right on! Hotpants!

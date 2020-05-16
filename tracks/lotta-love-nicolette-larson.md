@@ -1,8 +1,11 @@
 ---
+album: Nicolette
 artists:
 - Nicolette Larson
+external_ids:
+  spotify: spotify:track:2bS2tETCzUmjALnXEvhOGo
 features: []
-genres: []
+first_released_as_single: false
 key: lotta-love-nicolette-larson
 lyrics_url: https://genius.com/Nicolette-larson-lotta-love-lyrics
 name: Lotta Love
@@ -83,6 +86,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1979-03-31'
+release_year: 1978
+runtime: 191773
 ---
 It's gonna take a lotta love
 To change the way things are

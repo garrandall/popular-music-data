@@ -1,9 +1,12 @@
 ---
+album: Popsicle
 artists:
 - Jan
 - Dean
+external_ids:
+  spotify: spotify:track:3pQD6KlZPRM0unU42aPT2r
 features: []
-genres: []
+first_released_as_single: false
 key: popsicle-jan-dean
 lyrics_url: https://www.azlyrics.com/lyrics/jandean/popsicle.html
 name: Popsicle
@@ -44,8 +47,9 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1966-07-30'
+release_year: 1966
+runtime: 155733
 ---
-
 My phys ed teacher's got me working too hard
 Relax after school sitting out in the yard
 Just me and my baby, I'm holding her hand
@@ -80,6 +84,3 @@ Popsicle, bama, ma, ma, ma, bama, ma, ma, ma
 Popsicle, bama, ma, ma, ma
 If you want to keep cool it does the trick
 And it comes on a stick, uh, huh, huh, uh, huh, huh
-
-
-

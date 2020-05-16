@@ -1,8 +1,11 @@
 ---
+album: That's The Way Of The World
 artists:
 - Earth, Wind & Fire
+external_ids:
+  spotify: spotify:track:4BNhasx75KbS10jHq3VZTz
 features: []
-genres: []
+first_released_as_single: false
 key: that-s-the-way-of-the-world-earth-wind-fire
 lyrics_url: https://genius.com/Earth-wind-and-fire-thats-the-way-of-the-world-lyrics
 name: That's The Way Of The World
@@ -71,6 +74,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1975-10-18'
+release_year: 1975
+runtime: 345506
 ---
 Hearts afire
 Creates love desire

@@ -1,8 +1,11 @@
 ---
+album: Kill The Lights
 artists:
 - Luke Bryan
+external_ids:
+  spotify: spotify:track:6qoH2pKeEibNUG1pnJIjmZ
 features: []
-genres: []
+first_released_as_single: false
 key: move-luke-bryan
 lyrics_url: https://www.azlyrics.com/lyrics/lukebryan/move.html
 name: Move
@@ -63,8 +66,9 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '2016-12-10'
+release_year: 2015
+runtime: 227413
 ---
-
 Your mama packed y'all up and moved you to the south
 Backed a U-Haul cross a one-tree yard
 To a tin roof shotgun house
@@ -140,6 +144,3 @@ I wanna move when you
 But I can't move when you
 No, I can't move when you move
 No, I can't move when you move
-
-
-

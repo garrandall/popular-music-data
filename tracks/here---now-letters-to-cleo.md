@@ -1,8 +1,11 @@
 ---
+album: Aurora Gory Alice
 artists:
 - Letters To Cleo
+external_ids:
+  spotify: spotify:track:127amD6XCyrI15H3jVDSmC
 features: []
-genres: []
+first_released_as_single: false
 key: here---now-letters-to-cleo
 lyrics_url: https://genius.com/Letters-to-cleo-here-and-now-lyrics
 name: Here & Now
@@ -59,6 +62,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1995-06-17'
+release_year: 1994
+runtime: 218613
 ---
 Just living on a Sunday morning
 Got my toast and tea and I'm warm and

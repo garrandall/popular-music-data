@@ -1,8 +1,11 @@
 ---
+album: Baby Take Me in Your Arms
 artists:
 - Jefferson
+external_ids:
+  spotify: spotify:track:4FtNl9Y6iNY96jknEQ7sXu
 features: []
-genres: []
+first_released_as_single: true
 key: baby-take-me-in-your-arms-jefferson
 lyrics_url: https://genius.com/Jefferson-baby-take-me-in-your-arms-lyrics
 name: Baby Take Me In Your Arms
@@ -55,6 +58,8 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '1970-03-07'
+release_year: 1969
+runtime: 165753
 ---
 Come on and take me in your arms and make me love you
 Make me know how much I'm thinking of you

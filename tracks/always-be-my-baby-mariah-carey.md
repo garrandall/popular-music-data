@@ -1,8 +1,11 @@
 ---
+album: Daydream
 artists:
 - Mariah Carey
+external_ids:
+  spotify: spotify:track:2aBxt229cbLDOvtL7Xbb9x
 features: []
-genres: []
+first_released_as_single: false
 key: always-be-my-baby-mariah-carey
 lyrics_url: https://genius.com/Mariah-carey-always-be-my-baby-lyrics
 name: Always Be My Baby
@@ -135,6 +138,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1996-11-09'
+release_year: 1995
+runtime: 258133
 ---
 We were as one, babe
 For a moment in time

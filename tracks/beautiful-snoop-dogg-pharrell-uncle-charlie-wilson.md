@@ -1,10 +1,13 @@
 ---
+album: Paid Tha Cost To Be Da Bo$$
 artists:
 - Snoop Dogg
+external_ids:
+  spotify: spotify:track:7FrJV8tydWEv1Mxu2mIQrm
 features:
 - Pharrell
 - Uncle Charlie Wilson
-genres: []
+first_released_as_single: false
 key: beautiful-snoop-dogg-pharrell-uncle-charlie-wilson
 lyrics_url: https://www.azlyrics.com/lyrics/snoopdogg/beautiful.html
 name: Beautiful
@@ -89,10 +92,10 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '2003-06-21'
+release_year: 2002
+runtime: 298306
 ---
-
-
- Oi fala comigo
+Oi fala comigo
 Guy on phone: Yo let me talk to Snoop
 Snoop answers phone: E ai?
 Guy on phone: Yo dog we on the way to do the video
@@ -163,4 +166,3 @@ I smack up the world if they rude to you (Ehh...)
 'Cause baby girl you so beautiful...
 
  Ehh... oh yeah, there's something about you... Oh-hooo!
-

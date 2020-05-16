@@ -1,8 +1,11 @@
 ---
+album: Casablanca Records Greatest Hits
 artists:
 - Love And Kisses
+external_ids:
+  spotify: spotify:track:67AkfMbPzgui1Z9u7iCHjR
 features: []
-genres: []
+first_released_as_single: false
 key: thank-god-it-s-friday-love-and-kisses
 lyrics_url: https://genius.com/Love-and-kisses-thank-god-its-friday-lyrics
 name: Thank God It's Friday
@@ -71,6 +74,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1978-08-19'
+release_year: 1978
+runtime: 201866
 ---
 Friday
 Thank God it's Friday

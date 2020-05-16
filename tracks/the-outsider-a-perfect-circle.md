@@ -1,8 +1,11 @@
 ---
+album: Thirteenth Step
 artists:
 - A Perfect Circle
+external_ids:
+  spotify: spotify:track:6CqYhhUPJORx1vvdTNc8jv
 features: []
-genres: []
+first_released_as_single: false
 key: the-outsider-a-perfect-circle
 lyrics_url: https://genius.com/A-perfect-circle-the-outsider-lyrics
 name: The Outsider
@@ -27,6 +30,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2004-06-19'
+release_year: 2003
+runtime: 246000
 ---
 Help me, if you can
 It's just that this is not the way I'm wired

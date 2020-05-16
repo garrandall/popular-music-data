@@ -1,8 +1,11 @@
 ---
+album: EVERYBODY
 artists:
 - Chris Janson
+external_ids:
+  spotify: spotify:track:1kFBLqkTuNKlspkJ1EOGjN
 features: []
-genres: []
+first_released_as_single: false
 key: drunk-girl-chris-janson
 lyrics_url: https://www.azlyrics.com/lyrics/chrisjanson/drunkgirl.html
 name: Drunk Girl
@@ -47,8 +50,9 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '2018-11-10'
+release_year: 2017
+runtime: 207266
 ---
-
 Couple of cover charge stamps got her hand looking like a rainbow
 In and out of every bar on a whim just like the wind blows
 She's either a bachelorette or coming off a breakup
@@ -94,6 +98,3 @@ Take a drunk girl home
 
 You take a drunk girl home
 Take a drunk girl home
-
-
-

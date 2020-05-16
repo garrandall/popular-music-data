@@ -1,8 +1,11 @@
 ---
+album: By Request
 artists:
 - Brenda Lee
+external_ids:
+  spotify: spotify:track:3XqTmJFE8Tnm0hn5dNeUEG
 features: []
-genres: []
+first_released_as_single: false
 key: as-usual-brenda-lee
 lyrics_url: https://www.azlyrics.com/lyrics/brendalee/asusual.html
 name: As Usual
@@ -51,8 +54,9 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1964-02-22'
+release_year: 1963
+runtime: 156360
 ---
-
 The sun comes up and brings the dawn
 As usual
 When I awake I'll find you gone
@@ -84,6 +88,3 @@ And as I stood there telling lies
 The tears began to fill my eyes
 Cause I know I'm only fooling myself
 As usual
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Dirty Rotten Filthy Stinking Rich
 artists:
 - Warrant
+external_ids:
+  spotify: spotify:track:2dEgwtRjYl6TJkIwjRwn6z
 features: []
-genres: []
+first_released_as_single: false
 key: heaven-warrant
 lyrics_url: https://genius.com/Warrant-heaven-lyrics
 name: Heaven
@@ -83,6 +86,8 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '1989-11-25'
+release_year: 1989
+runtime: 236843
 ---
 I've got a picture of your house
 And you`re standing by the door

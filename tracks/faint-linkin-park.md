@@ -1,8 +1,11 @@
 ---
+album: Meteora
 artists:
 - Linkin Park
+external_ids:
+  spotify: spotify:track:4Yf5bqU3NK4kNOypcrLYwU
 features: []
-genres: []
+first_released_as_single: false
 key: faint-linkin-park
 lyrics_url: https://www.azlyrics.com/lyrics/linkinpark/faint.html
 name: Faint
@@ -87,9 +90,9 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '2003-12-06'
+release_year: 2003
+runtime: 162600
 ---
-
-
 I am a little bit of loneliness, a little bit of disregard
 Handful of complaints, but I can't help the fact that everyone can see these scars
 I am what I want you to want, what I want you to feel
@@ -150,6 +153,3 @@ I won't be ignored
 Time won't heal
 Don't turn your back on me
 I won't be ignored
-
-
-

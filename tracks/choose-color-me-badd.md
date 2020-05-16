@@ -1,8 +1,11 @@
 ---
+album: Time And Chance
 artists:
 - Color Me Badd
+external_ids:
+  spotify: spotify:track:0E0TlFKdsgjCVtKJqqw3GK
 features: []
-genres: []
+first_released_as_single: false
 key: choose-color-me-badd
 lyrics_url: https://www.azlyrics.com/lyrics/colormebadd/choose.html
 name: Choose
@@ -75,8 +78,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1994-05-07'
+release_year: 1993
+runtime: 262664
 ---
-
 You know I'm not much on words
 But I gotta tell you how I feel
 Open your eyes, don't try to hide my love
@@ -124,4 +128,3 @@ Past and present
 It's not easy
 But my love will me die
 Until your heart resurrects me
-

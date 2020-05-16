@@ -1,8 +1,11 @@
 ---
+album: The Essential Marty Robbins 1951-1982
 artists:
 - Marty Robbins
+external_ids:
+  spotify: spotify:track:2N72x5xEltxtnUVpnomRT0
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-worry-marty-robbins
 lyrics_url: https://genius.com/Marty-robbins-dont-worry-lyrics
 name: Don't Worry
@@ -67,6 +70,8 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '1961-05-08'
+release_year: 1952
+runtime: 189600
 ---
 Don't worry 'bout me, it's all over now
 Though I may be blue, I'll manage somehow

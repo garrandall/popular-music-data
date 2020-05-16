@@ -1,8 +1,11 @@
 ---
+album: reputation
 artists:
 - Taylor Swift
+external_ids:
+  spotify: spotify:track:6NFyWDv5CjfwuzoCkw47Xf
 features: []
-genres: []
+first_released_as_single: false
 key: delicate-taylor-swift
 lyrics_url: https://www.azlyrics.com/lyrics/taylorswift/delicate.html
 name: Delicate
@@ -147,8 +150,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2018-11-17'
+release_year: 2017
+runtime: 232253
 ---
-
 This ain't for the best
 My reputation's never been worse, so
 You must like me for me...
@@ -241,6 +245,3 @@ Is it too soon to do this yet?
 'Cause I know that it's delicate
 (Isn't it?)
 Delicate
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Come Over When You're Sober, Pt. 1
 artists:
 - Lil Peep
+external_ids:
+  spotify: spotify:track:7Hr2XoaGpIMKbNXCZDZ3le
 features: []
-genres: []
+first_released_as_single: false
 key: awful-things-lil-peep
 lyrics_url: https://www.azlyrics.com/lyrics/lilpeep/awfulthings.html
 name: Awful Things
@@ -11,9 +14,9 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '2017-12-09'
+release_year: 2017
+runtime: 214426
 ---
-
-
 Bother me, tell me awful things
 You know I love it when you do that
 Helps me get through this without you
@@ -64,6 +67,3 @@ Helps me get through this without you
 Bother me, tell me awful things
 You know I love it when you move that on me
 Love it when you do that on me
-
-
-

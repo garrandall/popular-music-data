@@ -1,8 +1,11 @@
 ---
+album: After Dark
 artists:
 - Ray Parker Jr.
+external_ids:
+  spotify: spotify:track:0l9efLkn7sbGgJ9J8TurgU
 features: []
-genres: []
+first_released_as_single: false
 key: i-don-t-think-that-man-should-sleep-alone-ray-parker-jr-
 lyrics_url: https://genius.com/Ray-parker-jr-i-dont-think-that-man-should-sleep-alone-lyrics
 name: I Don't Think That Man Should Sleep Alone
@@ -35,6 +38,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1987-10-10'
+release_year: 1987
+runtime: 254866
 ---
 I don't think that man should sleep alone
 I don't think it's fair

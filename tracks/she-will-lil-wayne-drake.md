@@ -1,9 +1,12 @@
 ---
+album: Tha Carter IV
 artists:
 - Lil Wayne
+external_ids:
+  spotify: spotify:track:3FFcZZq3Z3EJrhUecwcMdG
 features:
 - Drake
-genres: []
+first_released_as_single: false
 key: she-will-lil-wayne-drake
 lyrics_url: https://genius.com/Hotshotmoney-she-will-remix-ft-rick-ross-lil-wayne-hotshotmoney-and-drake-lyrics
 name: She Will
@@ -92,6 +95,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2012-01-21'
+release_year: 2011
+runtime: 305840
 ---
 All that bullshit's for the birds
 You ain't nothing but a vulture

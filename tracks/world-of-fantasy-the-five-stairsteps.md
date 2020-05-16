@@ -1,8 +1,11 @@
 ---
+album: 'The First Family of Soul: The Best of The Five Stairsteps'
 artists:
 - The Five Stairsteps
+external_ids:
+  spotify: spotify:track:5MzQw6nOYKXylsoA8vtI60
 features: []
-genres: []
+first_released_as_single: false
 key: world-of-fantasy-the-five-stairsteps
 lyrics_url: https://genius.com/Five-stairsteps-world-of-fantasy-lyrics
 name: World Of Fantasy
@@ -39,6 +42,8 @@ rankings:
   rank: 52
   ranking_list: Billboard Hot 100
   start_date: '1966-09-24'
+release_year: 1966
+runtime: 184133
 ---
 Doo doo doo doo doo
 It's a world of fantasy

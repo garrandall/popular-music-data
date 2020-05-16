@@ -1,8 +1,11 @@
 ---
+album: DECEMBERUNDERGROUND
 artists:
 - AFI
+external_ids:
+  spotify: spotify:track:3cDE9Yn4GrsxSrlMCLdmTT
 features: []
-genres: []
+first_released_as_single: false
 key: love-like-winter-afi
 lyrics_url: https://www.azlyrics.com/lyrics/afi/lovelikewinter.html
 name: Love Like Winter
@@ -27,8 +30,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2007-01-27'
+release_year: 2006
+runtime: 165653
 ---
-
 Warn your warmth to turn away,
 Here it's December,
 Everyday. I like that
@@ -78,6 +82,3 @@ I taste of blood.
 He bit my lip, and drank my warmth,
 From years before, from years before.
 From years before.
-
-
-

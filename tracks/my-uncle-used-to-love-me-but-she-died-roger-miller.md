@@ -1,8 +1,11 @@
 ---
+album: Roger Miller
 artists:
 - Roger Miller
+external_ids:
+  spotify: spotify:track:0lRDRBWUqOCbSixWibdkzj
 features: []
-genres: []
+first_released_as_single: false
 key: my-uncle-used-to-love-me-but-she-died-roger-miller
 lyrics_url: https://www.azlyrics.com/lyrics/rogermiller/myuncleusedtolovemebutshedied.html
 name: My Uncle Used To Love Me But She Died
@@ -27,8 +30,9 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '1966-10-15'
+release_year: 1966
+runtime: 111165
 ---
-
 My uncle used to love but she died 
 A chicken ain't chicken 'til he's licken good and fried 
 Keep on the sunny side 
@@ -68,6 +72,3 @@ Well my uncle used to love but she died
 A chicken ain't chicken 'til he's licken good and fried 
 Keep on the sunny side 
 My uncle used to live me but she died
-
-
-

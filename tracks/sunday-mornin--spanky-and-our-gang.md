@@ -1,8 +1,11 @@
 ---
+album: Like To Get To Know You
 artists:
 - Spanky And Our Gang
+external_ids:
+  spotify: spotify:track:6UAj2VDOeHyb8OQl17Dogy
 features: []
-genres: []
+first_released_as_single: false
 key: sunday-mornin--spanky-and-our-gang
 lyrics_url: https://genius.com/Spanky-and-our-gang-sunday-mornin-lyrics
 name: Sunday Mornin'
@@ -39,6 +42,8 @@ rankings:
   rank: 31
   ranking_list: Billboard Hot 100
   start_date: '1968-02-24'
+release_year: 1967
+runtime: 232800
 ---
 Sunday mornin' (Sunday mornin')
 Sun shinin' on your eyes, sleepy face

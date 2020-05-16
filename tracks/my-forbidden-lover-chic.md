@@ -1,8 +1,11 @@
 ---
+album: The Chic Organization 1977-1979
 artists:
 - Chic
+external_ids:
+  spotify: spotify:track:7zJGnlTHTM2B07xJ4I38ta
 features: []
-genres: []
+first_released_as_single: false
 key: my-forbidden-lover-chic
 lyrics_url: https://www.azlyrics.com/lyrics/chic/myforbiddenlover.html
 name: My Forbidden Lover
@@ -43,8 +46,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1979-12-01'
+release_year: 1977
+runtime: 274960
 ---
-
 My forbidden lover
 I don't want no other
 My forbidden lover
@@ -116,6 +120,3 @@ My forbidden lover
 I don't want no other
 
 My forbidden lover
-
-
-

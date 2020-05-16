@@ -1,8 +1,11 @@
 ---
+album: The Road And The Radio
 artists:
 - Kenny Chesney
+external_ids:
+  spotify: spotify:track:0cE0J96KeivafL6goJwpmq
 features: []
-genres: []
+first_released_as_single: false
 key: living-in-fast-forward-kenny-chesney
 lyrics_url: https://www.azlyrics.com/lyrics/kennychesney/livinginfastforward.html
 name: Living In Fast Forward
@@ -75,8 +78,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2006-05-20'
+release_year: 2005
+runtime: 211893
 ---
-
 The body's a temple, that's what we're told
 I've treated this one like an old honky-tonk
 Greasy cheeseburgers and cheap cigarettes
@@ -118,6 +122,3 @@ Now I need to rewind real slow
 
 Yeah I need to rewind real slow
 Yeah I still got some miles to go
-
-
-

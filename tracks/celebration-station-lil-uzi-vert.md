@@ -1,8 +1,11 @@
 ---
+album: Eternal Atake
 artists:
 - Lil Uzi Vert
+external_ids:
+  spotify: spotify:track:25B5fGr9K0VdZJiRFsnMO4
 features: []
-genres: []
+first_released_as_single: false
 key: celebration-station-lil-uzi-vert
 lyrics_url: https://www.azlyrics.com/lyrics/liluzivert/celebrationstation.html
 name: Celebration Station
@@ -11,8 +14,9 @@ rankings:
   rank: 34
   ranking_list: Billboard Hot 100
   start_date: '2020-03-21'
+release_year: 2020
+runtime: 195058
 ---
-
 And I can't do my dance 'cause my pants leather
 They from France
 I can't slow this
@@ -101,6 +105,3 @@ Headshot soak his mans (Lil Uzi)
 Hello? Hello? Where am I?
 I've never seen nothing like this, the fuck is all this?
 Hello? Yo?
-
-
-

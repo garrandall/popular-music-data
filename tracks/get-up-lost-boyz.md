@@ -1,8 +1,11 @@
 ---
+album: Legal Drug Money
 artists:
 - Lost Boyz
+external_ids:
+  spotify: spotify:track:3cVdgpyCPWOmJOFc3Zsp6b
 features: []
-genres: []
+first_released_as_single: false
 key: get-up-lost-boyz
 lyrics_url: https://genius.com/Lost-boyz-get-up-lyrics
 name: Get Up
@@ -75,6 +78,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1997-04-26'
+release_year: 1996
+runtime: 243760
 ---
 I see a whole team of chicks tryin to sit wit us
 Drinkin Dom, smokin charm, wanna get wit us

@@ -1,8 +1,12 @@
 ---
+album: Music From "A Fistful Of Dollars", "For A Few Dollars More", "The Good, The
+  Bad And The Ugly"
 artists:
 - Hugo Montenegro
+external_ids:
+  spotify: spotify:track:5c3SBfvWYFtf5FQiNkg6FV
 features: []
-genres: []
+first_released_as_single: false
 key: the-good-the-bad-and-the-ugly-hugo-montenegro-his-orchestra-and-chorus
 lyrics_url: https://genius.com/Hugo-montenegro-and-his-orchestra-the-good-the-bad-and-the-ugly-lyrics
 name: The Good The Bad And The Ugly
@@ -95,6 +99,8 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '1968-07-13'
+release_year: 1968
+runtime: 165400
 ---
 Here is the tale of the boy standing in front of you
 Not one word is exaggerated -- entirely true

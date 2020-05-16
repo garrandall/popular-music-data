@@ -1,8 +1,11 @@
 ---
+album: They Call Me The Fat Man (The Legendary Imperial Recordings)
 artists:
 - Fats Domino
+external_ids:
+  spotify: spotify:track:3GK5ETquucGLxWBrzBY9nY
 features: []
-genres: []
+first_released_as_single: false
 key: ain-t-that-just-like-a-woman-fats-domino
 lyrics_url: https://genius.com/Fats-domino-aint-that-just-like-a-woman-lyrics
 name: Ain't That Just Like A Woman
@@ -39,6 +42,8 @@ rankings:
   rank: 37
   ranking_list: Billboard Hot 100
   start_date: '1961-03-13'
+release_year: 1961
+runtime: 162533
 ---
 Yes, Adam was happy
 As a man could be

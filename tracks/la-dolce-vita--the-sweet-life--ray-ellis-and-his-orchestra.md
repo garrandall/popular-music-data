@@ -1,8 +1,11 @@
 ---
+album: Great Rare Songs, Vol. 6
 artists:
 - Ray Ellis
+external_ids:
+  spotify: spotify:track:5DWRSGiYqVTXSoOKRiRd23
 features: []
-genres: []
+first_released_as_single: false
 key: la-dolce-vita--the-sweet-life--ray-ellis-and-his-orchestra
 name: La Dolce Vita (The Sweet Life)
 rankings:
@@ -26,5 +29,7 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1961-07-31'
+release_year: 1961
+runtime: 160506
 ---
 

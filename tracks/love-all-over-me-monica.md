@@ -1,8 +1,11 @@
 ---
+album: Still Standing
 artists:
 - Monica
+external_ids:
+  spotify: spotify:track:3jmrIQTRL9ea0Xv4yCvJEJ
 features: []
-genres: []
+first_released_as_single: false
 key: love-all-over-me-monica
 lyrics_url: https://genius.com/Monica-love-all-over-me-lyrics
 name: Love All Over Me
@@ -75,6 +78,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2010-11-20'
+release_year: 2010
+runtime: 229946
 ---
 Must not have been paying attention
 I stepped right on it

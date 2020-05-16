@@ -1,8 +1,11 @@
 ---
+album: My Life's Been A Country Song
 artists:
 - Chris Cagle
+external_ids:
+  spotify: spotify:track:0ndChxTCFtPoYBHBo1inqV
 features: []
-genres: []
+first_released_as_single: true
 key: what-kinda-gone-chris-cagle
 lyrics_url: https://www.azlyrics.com/lyrics/chriscagle/whatkindagone.html
 name: What Kinda Gone
@@ -87,8 +90,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2008-06-14'
+release_year: 2007
+runtime: 183226
 ---
-
 I heard the door slam 
 And I couldn't tell 
 Was it just the wind 
@@ -137,6 +141,3 @@ Is it whiskey night or just a couple of beers
 I mean what kinda gone are we talkin' 'bout what kinda gone are we talkin' 'bout
 What kinda gone are we talkin' 'bout here
 What kinda gone
-
-
-

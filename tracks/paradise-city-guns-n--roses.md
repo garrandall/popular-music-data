@@ -1,8 +1,11 @@
 ---
+album: Appetite For Destruction
 artists:
 - Guns N' Roses
+external_ids:
+  spotify: spotify:track:6eN1f9KNmiWEhpE2RhQqB5
 features: []
-genres: []
+first_released_as_single: false
 key: paradise-city-guns-n--roses
 lyrics_url: https://genius.com/Guns-n-roses-paradise-city-lyrics
 name: Paradise City
@@ -75,6 +78,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1989-05-06'
+release_year: 1987
+runtime: 405600
 ---
 Take me down to the Paradise City
 Where the grass is green and the girls are pretty

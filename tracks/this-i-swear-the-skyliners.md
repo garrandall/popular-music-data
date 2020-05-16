@@ -1,8 +1,11 @@
 ---
+album: Since I Don't Have You
 artists:
 - The Skyliners
+external_ids:
+  spotify: spotify:track:65kSwni2IGhNIR3UwNb4Sz
 features: []
-genres: []
+first_released_as_single: false
 key: this-i-swear-the-skyliners
 lyrics_url: https://genius.com/The-skyliners-this-i-swear-lyrics
 name: This I Swear
@@ -55,6 +58,8 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '1959-08-17'
+release_year: 1959
+runtime: 159103
 ---
 This I swear is true
 

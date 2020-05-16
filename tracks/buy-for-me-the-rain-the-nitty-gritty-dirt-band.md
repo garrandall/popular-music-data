@@ -1,8 +1,11 @@
 ---
+album: The Nitty Gritty Dirt Band
 artists:
 - The Nitty Gritty Dirt Band
+external_ids:
+  spotify: spotify:track:4W9deMhGxO4JV9U2cV7m9r
 features: []
-genres: []
+first_released_as_single: false
 key: buy-for-me-the-rain-the-nitty-gritty-dirt-band
 lyrics_url: https://www.azlyrics.com/lyrics/nittygrittydirtband/buyformetherain.html
 name: Buy For Me The Rain
@@ -35,8 +38,9 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1967-05-20'
+release_year: 1967
+runtime: 147026
 ---
-
 Buy for me the rain, my darling, buy for me the rain;
 Buy for me the crystal pools that fall upon the plain.
 And I'll buy for you a rainbow and a million pots of gold.
@@ -56,6 +60,3 @@ I cannot buy you happiness, I cannot by you years;
 I cannot buy you happiness, in place of all the tears.
 But I can buy for you a gravestone, to lay behind your head.
 Gravestones cheer the living, dear, they're no use to the dead.
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Things Go Better with Love
 artists:
 - Jeannie C. Riley
+external_ids:
+  spotify: spotify:track:7AwzJlAp86uW1MfjVxxMf8
 features: []
-genres: []
+first_released_as_single: false
 key: there-never-was-a-time-jeannie-c--riley
 lyrics_url: https://genius.com/Jeannie-c-riley-there-never-was-a-time-lyrics
 name: There Never Was A Time
@@ -23,6 +26,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1969-04-19'
+release_year: 1969
+runtime: 159629
 ---
 There was a time
 We'd sit in the backyard 'cause the house would get so hot

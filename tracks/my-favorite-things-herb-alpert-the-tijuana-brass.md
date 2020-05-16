@@ -1,9 +1,12 @@
 ---
+album: Christmas Album
 artists:
 - Herb Alpert
 - The Tijuana Brass
+external_ids:
+  spotify: spotify:track:2AQj9yMeVJXdZ4bDHQgvEf
 features: []
-genres: []
+first_released_as_single: false
 key: my-favorite-things-herb-alpert-the-tijuana-brass
 name: My Favorite Things
 rankings:
@@ -31,5 +34,7 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '1969-01-18'
+release_year: 1968
+runtime: 183120
 ---
 

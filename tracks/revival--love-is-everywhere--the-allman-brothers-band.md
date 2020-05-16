@@ -1,8 +1,11 @@
 ---
+album: Idlewild South
 artists:
 - The Allman Brothers Band
+external_ids:
+  spotify: spotify:track:7CopJCaFaOsTrNpZanANip
 features: []
-genres: []
+first_released_as_single: false
 key: revival--love-is-everywhere--the-allman-brothers-band
 lyrics_url: https://www.azlyrics.com/lyrics/allmanbrothersband/revival.html
 name: Revival (Love Is Everywhere)
@@ -19,8 +22,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1971-01-23'
+release_year: 1970
+runtime: 246253
 ---
-
 People can you feel it? Love is everywhere.
 People can you hear it? Love is in the air.
 We're in a revolution. Don't you know we're right.
@@ -44,6 +48,3 @@ People can you feel it? Love is everywhere.
 People can you feel it? Love is everywhere.
 People can you feel it? Love is everywhere.
 People can you feel it? Love is everywhere.
-
-
-

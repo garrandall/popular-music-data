@@ -1,8 +1,11 @@
 ---
+album: Chris Brown
 artists:
 - Chris Brown
+external_ids:
+  spotify: spotify:track:7DFnq8FYhHMCylykf6ZCxA
 features: []
-genres: []
+first_released_as_single: false
 key: yo--excuse-me-miss--chris-brown
 lyrics_url: https://www.azlyrics.com/lyrics/chrisbrown/yoexcusememiss.html
 name: Yo (Excuse Me Miss)
@@ -91,8 +94,9 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '2006-05-20'
+release_year: 2005
+runtime: 229040
 ---
-
 Whoa Whoa
 Do do do do do
 Yeah
@@ -186,6 +190,3 @@ And you want to do everything she want to man.
 
 
 Woo!
-
-
-

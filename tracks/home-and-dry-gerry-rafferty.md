@@ -1,8 +1,11 @@
 ---
+album: City To City
 artists:
 - Gerry Rafferty
+external_ids:
+  spotify: spotify:track:2driker1cw5aV1KqgyPx1p
 features: []
-genres: []
+first_released_as_single: false
 key: home-and-dry-gerry-rafferty
 lyrics_url: https://genius.com/Gerry-rafferty-home-and-dry-lyrics
 name: Home And Dry
@@ -59,6 +62,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1979-02-24'
+release_year: 1978
+runtime: 297000
 ---
 This silver bird takes me 'cross the sky
 Just one more hour and I'll be home and dry

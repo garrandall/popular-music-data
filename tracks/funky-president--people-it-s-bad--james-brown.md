@@ -1,8 +1,11 @@
 ---
+album: Reality
 artists:
 - James Brown
+external_ids:
+  spotify: spotify:track:1lZN7GqnaZYrrCYqNiw9N5
 features: []
-genres: []
+first_released_as_single: false
 key: funky-president--people-it-s-bad--james-brown
 lyrics_url: https://www.azlyrics.com/lyrics/jamesbrown/funkypresidentpeopleitsbad.html
 name: Funky President (People It's Bad)
@@ -47,8 +50,9 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '1975-01-11'
+release_year: 1974
+runtime: 268400
 ---
-
 Funky town, nasty
 Hey, listen to the man
 Rap, Godfather
@@ -112,6 +116,3 @@ And hey, I need to be the mayor
 So I can change the things around here
 I need to be the governor, huh
 I need to be the governor, huh
-
-
-

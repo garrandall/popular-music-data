@@ -1,10 +1,13 @@
 ---
+album: Wish Me Well 2
 artists:
 - YFN Lucci
+external_ids:
+  spotify: spotify:track:5ZcgtIzjjlNiPflHkuodRv
 features:
 - Migos
 - Trouble
-genres: []
+first_released_as_single: true
 key: key-to-the-streets-yfn-lucci-migos-trouble
 lyrics_url: https://www.azlyrics.com/lyrics/yfnlucci/keytothestreets.html
 name: Key To The Streets
@@ -53,9 +56,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2017-01-21'
+release_year: 2016
+runtime: 281993
 ---
-
-
 I got money way before the deal
 Put my bitches in new pair of heels
 I might fuck your ho and pay her bills
@@ -174,6 +177,3 @@ We got the key to the streets
 Hey, we got the key to the streets
 We got the key to the streets
 Hey, we got the key to the streets
-
-
-

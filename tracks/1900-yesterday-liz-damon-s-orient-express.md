@@ -1,8 +1,11 @@
 ---
+album: Liz Damon's Orient Express
 artists:
 - Liz Damon's Orient Express
+external_ids:
+  spotify: spotify:track:5UsiMHzHpuoGnG7RpBZkfJ
 features: []
-genres: []
+first_released_as_single: false
 key: 1900-yesterday-liz-damon-s-orient-express
 lyrics_url: https://genius.com/Liz-damons-orient-express-1900-yesterday-lyrics
 name: 1900 Yesterday
@@ -55,6 +58,8 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '1971-03-13'
+release_year: 1970
+runtime: 177693
 ---
 Where's the love that we knew
 Is it gone or have you thrown it away

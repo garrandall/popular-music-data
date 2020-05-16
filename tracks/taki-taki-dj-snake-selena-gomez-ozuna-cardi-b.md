@@ -1,11 +1,14 @@
 ---
+album: Carte Blanche
 artists:
 - DJ Snake
+external_ids:
+  spotify: spotify:track:4w8niZpiMy6qz1mntFA5uM
 features:
 - Selena Gomez
 - Ozuna
 - Cardi B
-genres: []
+first_released_as_single: true
 key: taki-taki-dj-snake-selena-gomez-ozuna-cardi-b
 lyrics_url: https://www.azlyrics.com/lyrics/djsnake/takitaki.html
 name: Taki Taki
@@ -114,21 +117,21 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2019-04-06'
+release_year: 2018
+runtime: 212500
 ---
-
-
 Wo-oh, oh-oh
 
 Bailame como si fuera la Ãºltima vez
-Y ensÃ©Ã±ame ese pasito que no sÃ©
-Un besito bien suavecito bebÃ©
+Y enséÃ±ame ese pasito que no sé
+Un besito bien suavecito bebé
 Taki taki
 Taki taki, rumba
 Wo-oh, oh-oh
 Hi Music Hi Flows (Snake, ha, ha)
 Bailame como si fuera la Ãºltima vez
-Y ensÃ©Ã±ame ese pasito que no sÃ©
-Un besito bien suavecito bebÃ©
+Y enséÃ±ame ese pasito que no sé
+Un besito bien suavecito bebé
 Taki taki
 Taki taki
 
@@ -141,16 +144,16 @@ Y llegaron los Anunnakis
 No le bajes
 El booty sobresale de tu traje
 No trajo pantisito pa' que el nene no trabaje
-Es que yo me sÃ© lo que ella cree que ella se sabe
+Es que yo me sé lo que ella cree que ella se sabe
 Cuenta que no quiere pero me tiene espionaje, eh-eh
 El booty sobresale de tu traje
 No trajo pantisito pa' que el nene no trabaje
-Es que yo me sÃ© lo que ella cree que ella se sabe
+Es que yo me sé lo que ella cree que ella se sabe
 Cuenta que no quiere pero me tiene espionaje, eh-eh
 
 Bailame como si fuera la Ãºltima vez
-Y ensÃ©Ã±ame ese pasito que no sÃ©
-Un besito bien suavecito bebÃ©
+Y enséÃ±ame ese pasito que no sé
+Un besito bien suavecito bebé
 Taki taki
 Taki taki, rumba
 Wo-oh, oh-oh
@@ -173,13 +176,13 @@ I'm a whole rich bitch, and I work like I'm broke still (Cardi)
 But the love be so fake, but the hate be so real (uh)
 El booty sobresale de mi traje
 No traje pantisito pa' que el nene no trabaje
-Es que yo me sÃ© lo que tu crees que tu no sabe
+Es que yo me sé lo que tu crees que tu no sabe
 Dice que no quiere pero se quiere comer el equipaje
 
 
 Bailame como si fuera la Ãºltima vez
-Y ensÃ©Ã±ame ese pasito que no sÃ©
-Un besito bien suavecito bebÃ©
+Y enséÃ±ame ese pasito que no sé
+Un besito bien suavecito bebé
 Taki taki
 Taki taki, rumba
 Wo-oh, oh-oh
@@ -201,14 +204,11 @@ What my taki taki wants, ya my taki taki gets, uh
 
 
 Bailame como si fuera la Ãºltima vez
-Y ensÃ©Ã±ame ese pasito que no sÃ©
-Un besito bien suavecito bebÃ©
+Y enséÃ±ame ese pasito que no sé
+Un besito bien suavecito bebé
 Taki taki
 Taki taki, rumba
 Wo-oh, oh-oh
 Hi Music Hi Flows
 Taki taki
 Taki taki
-
-
-

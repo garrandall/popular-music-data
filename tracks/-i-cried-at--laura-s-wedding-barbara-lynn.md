@@ -1,8 +1,11 @@
 ---
+album: The Jamie Singles Collection 1962-1965
 artists:
 - Barbara Lynn
+external_ids:
+  spotify: spotify:track:1kWnbqS0pNBX9UNFIdBoXw
 features: []
-genres: []
+first_released_as_single: false
 key: -i-cried-at--laura-s-wedding-barbara-lynn
 lyrics_url: https://www.musixmatch.com/lyrics/Barbara-Lynn/Laura-s-Wedding
 name: (I Cried at) Laura's Wedding
@@ -39,6 +42,8 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1963-09-28'
+release_year: 1963
+runtime: 158213
 ---
 I cried at Laura's wedding
 I cried but I don't know why

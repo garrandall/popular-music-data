@@ -1,8 +1,11 @@
 ---
+album: The Essential
 artists:
 - Charlie Rich
+external_ids:
+  spotify: spotify:track:75RnPQCq8WEexvcsS3bRsS
 features: []
-genres: []
+first_released_as_single: false
 key: mohair-sam-charlie-rich
 lyrics_url: https://www.azlyrics.com/lyrics/charlierich/mohairsam.html
 name: Mohair Sam
@@ -51,8 +54,9 @@ rankings:
   rank: 33
   ranking_list: Billboard Hot 100
   start_date: '1965-11-06'
+release_year: 1965
+runtime: 127391
 ---
-
 Well - who is the hippie that's happenin' all over our town?
 Tearin' up chicks with the message that he lays down
 Who is the coolest guy, what is, what am?
@@ -67,6 +71,3 @@ Who is the hippie that's happenin' all over our town?
 Tearin' up chicks with the message that he lays down
 Who is the coolest guy, what is, what am?
 That's fast-talkin' - slow walkin' - good-lookin' Mohair Sam
-
-
-

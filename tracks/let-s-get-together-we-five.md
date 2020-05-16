@@ -1,8 +1,11 @@
 ---
+album: Make Someone Happy
 artists:
 - We Five
+external_ids:
+  spotify: spotify:track:2nqCncFzp4UKMLMxWCI1JL
 features: []
-genres: []
+first_released_as_single: false
 key: let-s-get-together-we-five
 lyrics_url: https://genius.com/We-five-lets-get-together-lyrics
 name: Let's Get Together
@@ -39,6 +42,8 @@ rankings:
   rank: 38
   ranking_list: Billboard Hot 100
   start_date: '1966-01-01'
+release_year: 1965
+runtime: 176840
 ---
 Love is but the song we sing
 For fear the way we die

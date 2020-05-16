@@ -1,8 +1,11 @@
 ---
+album: Born To Sing
 artists:
 - En Vogue
+external_ids:
+  spotify: spotify:track:5hyHsOQUnWQMBPWX8KZuID
 features: []
-genres: []
+first_released_as_single: false
 key: lies-en-vogue
 lyrics_url: https://genius.com/En-vogue-lies-lyrics
 name: Lies
@@ -51,6 +54,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1990-11-03'
+release_year: 1990
+runtime: 256333
 ---
 Lies, lies, using lies as alibis
 Lies, lies, just a devil in disguise

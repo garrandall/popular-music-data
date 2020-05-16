@@ -1,8 +1,11 @@
 ---
+album: At San Quentin
 artists:
 - Johnny Cash
+external_ids:
+  spotify: spotify:track:2K9HIbwDrjsOJ0dkKgZd1C
 features: []
-genres: []
+first_released_as_single: false
 key: a-boy-named-sue-johnny-cash
 lyrics_url: https://www.azlyrics.com/lyrics/johnnycash/aboynamedsue.html
 name: A Boy Named Sue
@@ -55,8 +58,9 @@ rankings:
   rank: 22
   ranking_list: Billboard Hot 100
   start_date: '1969-10-11'
+release_year: 1954
+runtime: 224400
 ---
-
 My daddy left home when I was three 
 And he didn't leave much to ma and me 
 Just this old guitar and an empty bottle of booze. 
@@ -128,6 +132,3 @@ And I think about him, now and then,
 Every time I try and every time I win, 
 And if I ever have a son, I think I'm gonna name him 
 Bill or George! Anything but Sue! I still hate that name!
-
-
-

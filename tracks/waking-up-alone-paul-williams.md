@@ -1,8 +1,11 @@
 ---
+album: Just An Old Fashioned Love Song
 artists:
 - Paul Williams
+external_ids:
+  spotify: spotify:track:21ndcN4sDXexokLMqbjqJm
 features: []
-genres: []
+first_released_as_single: false
 key: waking-up-alone-paul-williams
 lyrics_url: https://www.azlyrics.com/lyrics/paulwilliams/wakingupalone.html
 name: Waking Up Alone
@@ -43,8 +46,9 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '1972-04-15'
+release_year: 1971
+runtime: 220120
 ---
-
 I took my chances on a one-way ticket home
 Growing tired of strangers and the kind of life I've known
 Thought the time for settling down had come at last
@@ -75,6 +79,3 @@ You're an angel and a time that I don't know anymore
 And so goodnight
 I'll take my memories to bed
 And know that I'll be waking up alone
-
-
-

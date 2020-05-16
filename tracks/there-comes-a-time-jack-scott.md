@@ -1,8 +1,11 @@
 ---
+album: Jack Scott's Greatest Hits
 artists:
 - Jack Scott
+external_ids:
+  spotify: spotify:track:4qjL0JcViBZ3IhtdeA1JM5
 features: []
-genres: []
+first_released_as_single: false
 key: there-comes-a-time-jack-scott
 name: There Comes A Time
 rankings:
@@ -26,5 +29,7 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1959-11-09'
+release_year: 1959
+runtime: 144800
 ---
 

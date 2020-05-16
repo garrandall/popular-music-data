@@ -1,8 +1,11 @@
 ---
+album: The Search
 artists:
 - NF
+external_ids:
+  spotify: spotify:track:632RpFa3HtgGyvBfRdTKQf
 features: []
-genres: []
+first_released_as_single: true
 key: time-nf
 lyrics_url: https://genius.com/Nf-time-lyrics
 name: Time
@@ -87,6 +90,8 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '2019-12-14'
+release_year: 2018
+runtime: 147565
 ---
 Even if we both break down tonight
 And you say you hate me, and we go to bed angry

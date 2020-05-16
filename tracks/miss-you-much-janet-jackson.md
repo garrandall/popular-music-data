@@ -1,8 +1,11 @@
 ---
+album: Rhythm Nation 1814
 artists:
 - Janet Jackson
+external_ids:
+  spotify: spotify:track:4r5VaK6H1bq0cTGPMTN97Z
 features: []
-genres: []
+first_released_as_single: false
 key: miss-you-much-janet-jackson
 lyrics_url: https://genius.com/Janet-jackson-miss-you-much-lyrics
 name: Miss You Much
@@ -87,6 +90,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1990-01-13'
+release_year: 1989
+runtime: 252333
 ---
 Shot like an arrow going through my heart
 That's the pain I feel

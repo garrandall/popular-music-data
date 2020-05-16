@@ -1,8 +1,11 @@
 ---
+album: 20/20
 artists:
 - The Beach Boys
+external_ids:
+  spotify: spotify:track:1hcMfYTsRTC4hIKbfosxjz
 features: []
-genres: []
+first_released_as_single: false
 key: i-can-hear-music-the-beach-boys
 lyrics_url: https://genius.com/The-beach-boys-i-can-hear-music-lyrics
 name: I Can Hear Music
@@ -47,6 +50,8 @@ rankings:
   rank: 37
   ranking_list: Billboard Hot 100
   start_date: '1969-05-10'
+release_year: 1969
+runtime: 157293
 ---
 Ah oo
 

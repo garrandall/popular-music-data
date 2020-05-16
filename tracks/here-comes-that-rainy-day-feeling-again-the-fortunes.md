@@ -1,8 +1,11 @@
 ---
+album: Here Comes That Rainy Day Feeling Again
 artists:
 - The Fortunes
+external_ids:
+  spotify: spotify:track:1Nre9NRh8OCEAyHsdr5CZe
 features: []
-genres: []
+first_released_as_single: false
 key: here-comes-that-rainy-day-feeling-again-the-fortunes
 lyrics_url: https://genius.com/The-fortunes-uk-group-here-comes-that-rainy-day-feeling-again-lyrics
 name: Here Comes That Rainy Day Feeling Again
@@ -63,6 +66,8 @@ rankings:
   rank: 32
   ranking_list: Billboard Hot 100
   start_date: '1971-08-14'
+release_year: 1971
+runtime: 172160
 ---
 Here comes that rainy day feelin' again
 And soon my tears they will be fallin' like rain

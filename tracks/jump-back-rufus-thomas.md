@@ -1,8 +1,11 @@
 ---
+album: 'Stax Profiles: Rufus Thomas'
 artists:
 - Rufus Thomas
+external_ids:
+  spotify: spotify:track:2LzcpixYEhVKvoQq7wNbCs
 features: []
-genres: []
+first_released_as_single: false
 key: jump-back-rufus-thomas
 lyrics_url: https://genius.com/Rufus-thomas-jump-back-lyrics
 name: Jump Back
@@ -35,6 +38,8 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '1964-11-21'
+release_year: 1964
+runtime: 141239
 ---
 Last night, night before
 (Jump back, baby, jump back)

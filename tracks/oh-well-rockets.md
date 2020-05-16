@@ -1,8 +1,11 @@
 ---
+album: Twelve Best
 artists:
 - Rockets
+external_ids:
+  spotify: spotify:track:1nsH8EJpdLt2ZgzuFpiyw5
 features: []
-genres: []
+first_released_as_single: false
 key: oh-well-rockets
 lyrics_url: https://genius.com/Rockets-detroit-oh-well-lyrics
 name: Oh Well
@@ -59,6 +62,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1979-09-29'
+release_year: 1978
+runtime: 196268
 ---
 I can't help about the shape I'm in
 I can't sing, I ain't pretty and my legs are thin

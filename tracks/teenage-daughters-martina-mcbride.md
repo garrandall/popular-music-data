@@ -1,8 +1,11 @@
 ---
+album: Eleven
 artists:
 - Martina McBride
+external_ids:
+  spotify: spotify:track:6wxwluMol35MvBMIej6NNl
 features: []
-genres: []
+first_released_as_single: false
 key: teenage-daughters-martina-mcbride
 lyrics_url: https://www.azlyrics.com/lyrics/martinamcbride/teenagedaughters.html
 name: Teenage Daughters
@@ -11,8 +14,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2011-06-25'
+release_year: 2011
+runtime: 247773
 ---
-
 I ain't complainin'
 But I'm tired, so I'm just sayin'
 What I think
@@ -67,6 +71,3 @@ But I'm just tired, so I'm sayin'
 What I think
 If we're being honest
 Than honestly, I think I need a drink
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Brett Young
 artists:
 - Brett Young
+external_ids:
+  spotify: spotify:track:3T6MAweakkNrMYs8jZIWtg
 features: []
-genres: []
+first_released_as_single: false
 key: like-i-loved-you-brett-young
 lyrics_url: https://genius.com/Brett-young-like-i-loved-you-lyrics
 name: Like I Loved You
@@ -87,6 +90,8 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '2018-02-17'
+release_year: 2017
+runtime: 207186
 ---
 Would've thought you wrote down every word
 Goodbye spelled out like it had been rehearsed

@@ -1,8 +1,11 @@
 ---
+album: Whoa, Nelly!
 artists:
 - Nelly Furtado
+external_ids:
+  spotify: spotify:track:2tP7ZekzXfduShx8C6cbll
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-like-a-bird-nelly-furtado
 lyrics_url: https://genius.com/Nelly-furtado-im-like-a-bird-lyrics
 name: I'm Like A Bird
@@ -103,6 +106,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2001-08-11'
+release_year: 2000
+runtime: 243160
 ---
 You're beautiful, that's for sure
 You'll never ever fade

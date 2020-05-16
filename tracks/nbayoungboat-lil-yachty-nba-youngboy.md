@@ -1,9 +1,12 @@
 ---
+album: Lil Boat 2
 artists:
 - Lil Yachty
+external_ids:
+  spotify: spotify:track:6K2anECyrckidwf5wxS78Q
 features:
 - NBA YoungBoy
-genres: []
+first_released_as_single: false
 key: nbayoungboat-lil-yachty-nba-youngboy
 lyrics_url: https://www.azlyrics.com/lyrics/lilyachty/nbayoungboat.html
 name: NBAYoungboat
@@ -24,9 +27,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2018-04-14'
+release_year: 2018
+runtime: 139845
 ---
-
-
 Young nigga, rich nigga, I'm a bad bitch getter
 Fuck nigga, hoe nigga, I don't fuck with broke niggas
 Always held my own since I jumped up off the porch, nigga
@@ -93,6 +96,3 @@ Whip on the wrist, that's a brick on the fist, nigga
 No light needed for this chain, it's gon' glist nigga
 VS, one stone, that shit not far from flawless
 Fuck a pretty bitch, nigga, my money gorgeous, bitch (Lil Boat)
-
-
-

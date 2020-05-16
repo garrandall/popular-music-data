@@ -1,8 +1,11 @@
 ---
+album: Back Stabbers
 artists:
 - The O'Jays
+external_ids:
+  spotify: spotify:track:28285KFbyCq8sJofn58qlD
 features: []
-genres: []
+first_released_as_single: false
 key: love-train-the-o-jays
 lyrics_url: https://genius.com/The-ojays-love-train-lyrics
 name: Love Train
@@ -63,6 +66,8 @@ rankings:
   rank: 28
   ranking_list: Billboard Hot 100
   start_date: '1973-04-21'
+release_year: 1972
+runtime: 178400
 ---
 People all over the world
 Join hands

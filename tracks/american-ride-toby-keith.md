@@ -1,8 +1,11 @@
 ---
+album: American Ride
 artists:
 - Toby Keith
+external_ids:
+  spotify: spotify:track:0gjqyr5z7poniYymKRwsCN
 features: []
-genres: []
+first_released_as_single: false
 key: american-ride-toby-keith
 lyrics_url: https://www.azlyrics.com/lyrics/tobykeith/americanride.html
 name: American Ride
@@ -71,8 +74,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2009-11-28'
+release_year: 2009
+runtime: 165693
 ---
-
 Winters getting colder, Summer gettin warmer
 Tidal wave comin cross the Mexican border
 Why buy a gallon it's cheaper by the barrel
@@ -121,6 +125,3 @@ I love this American ride.
 Gotta love this American ride.
 Oh yeah,
 Na na na na na na na na
-
-
-

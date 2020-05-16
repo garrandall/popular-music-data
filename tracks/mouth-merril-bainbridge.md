@@ -1,8 +1,11 @@
 ---
+album: The Garden
 artists:
 - Merril Bainbridge
+external_ids:
+  spotify: spotify:track:11Ki2bHWXTEug0DAfKcDDD
 features: []
-genres: []
+first_released_as_single: false
 key: mouth-merril-bainbridge
 lyrics_url: https://genius.com/Merril-bainbridge-mouth-lyrics
 name: Mouth
@@ -127,6 +130,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1997-03-29'
+release_year: 1995
+runtime: 205733
 ---
 I feel like I've been blown apart, there are pieces here
 I don't know where they go, I don't know where they go

@@ -1,8 +1,11 @@
 ---
+album: Stoney
 artists:
 - Post Malone
+external_ids:
+  spotify: spotify:track:75ZvA4QfFiZvzhj2xkaWAh
 features: []
-genres: []
+first_released_as_single: false
 key: i-fall-apart-post-malone
 lyrics_url: https://genius.com/Post-malone-i-fall-apart-lyrics
 name: I Fall Apart
@@ -127,6 +130,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '2018-04-28'
+release_year: 2016
+runtime: 223346
 ---
 Oh I fall apart
 Oh yeah, mmm, yeah

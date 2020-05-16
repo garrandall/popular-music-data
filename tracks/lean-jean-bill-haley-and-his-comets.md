@@ -1,8 +1,11 @@
 ---
+album: Bill Haley's Chicks
 artists:
 - Bill Haley And His Comets
+external_ids:
+  spotify: spotify:track:39aMG47Bvx6PF268MYlmIF
 features: []
-genres: []
+first_released_as_single: false
 key: lean-jean-bill-haley-and-his-comets
 lyrics_url: https://genius.com/Bill-haley-and-his-comets-lean-jean-lyrics
 name: Lean Jean
@@ -11,6 +14,8 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1958-08-11'
+release_year: 1958
+runtime: 156893
 ---
 I got a gal and she's long and thin
 Real nice condition for the shape she's in

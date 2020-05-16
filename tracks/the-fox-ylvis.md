@@ -1,8 +1,11 @@
 ---
+album: The Fox (What Does The Fox Say?)
 artists:
 - Ylvis
+external_ids:
+  spotify: spotify:track:5HOpkTTVcmZHnthgyxrIL8
 features: []
-genres: []
+first_released_as_single: true
 key: the-fox-ylvis
 lyrics_url: https://www.azlyrics.com/lyrics/ylvis/thefox.html
 name: The Fox
@@ -79,8 +82,9 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '2014-01-18'
+release_year: 2013
+runtime: 213708
 ---
-
 Dog goes woof, cat goes meow
 Bird goes tweet, and mouse goes squeak
 Cow goes moo. Frog goes croak, and the elephant goes toot
@@ -142,6 +146,3 @@ A-bubu-duh-bubu-dwee-dum
 I want to, I want to, I want to know!
 A-bubu-duh-bubu-dwee-dum
 Bay-buh-day bum-bum bay-dum
-
-
-

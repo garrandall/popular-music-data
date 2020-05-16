@@ -1,9 +1,12 @@
 ---
+album: Infamy
 artists:
 - Mobb Deep
+external_ids:
+  spotify: spotify:track:4zKmKUes1vLQJqrC9l0Wbm
 features:
 - '112'
-genres: []
+first_released_as_single: false
 key: hey-luv--anything--mobb-deep-112
 lyrics_url: https://www.azlyrics.com/lyrics/mobbdeep/heyluvanything.html
 name: Hey Luv (Anything)
@@ -68,9 +71,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2002-05-04'
+release_year: 1993
+runtime: 236786
 ---
-
-
 Pss.ss...Shorty... come here (112)
 listen listen listen come on (oo)
 yo-yo (luv you ... need you...)
@@ -139,4 +142,3 @@ lets coop that ol real whil 112 sing
 lets make this tuff uff and come wit mee hee
 o0o anything anything you want and anything you need
 girl ill come running...
-

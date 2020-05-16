@@ -1,8 +1,11 @@
 ---
+album: Dedication
 artists:
 - Bay City Rollers
+external_ids:
+  spotify: spotify:track:2fht5TdFKz9FVLKg4UpCRu
 features: []
-genres: []
+first_released_as_single: false
 key: dedication-bay-city-rollers
 lyrics_url: https://www.azlyrics.com/lyrics/baycityrollers/dedication.html
 name: Dedication
@@ -35,8 +38,9 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '1977-03-26'
+release_year: 1974
+runtime: 234985
 ---
-
 I phoned the local station
 I kinda like the things they're playing
 So I settled down to listen nice and easy
@@ -80,6 +84,3 @@ As long as you're a part of me
 The song will play on endlessly
 I hope my dedication's gettin' through
 Dedication's playing just for you
-
-
-

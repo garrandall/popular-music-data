@@ -1,8 +1,11 @@
 ---
+album: I'm Your Man - The Anthology 1963-1972
 artists:
 - Brooks O'Dell
+external_ids:
+  spotify: spotify:track:54BnkUuJaiwdboFozwW6j2
 features: []
-genres: []
+first_released_as_single: false
 key: watch-your-step-brooks-o-dell
 name: Watch Your Step
 rankings:
@@ -42,5 +45,7 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '1964-02-08'
+release_year: 1963
+runtime: 152773
 ---
 

@@ -1,9 +1,12 @@
 ---
+album: BRINGING BACK THE SUNSHINE
 artists:
 - Blake Shelton
+external_ids:
+  spotify: spotify:track:1zbcFS5hS92oXNL3UZDfY0
 features:
 - Ashley Monroe
-genres: []
+first_released_as_single: false
 key: lonely-tonight-blake-shelton-ashley-monroe
 lyrics_url: https://www.azlyrics.com/lyrics/blakeshelton/lonelytonight.html
 name: Lonely Tonight
@@ -76,8 +79,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2015-04-11'
+release_year: 2014
+runtime: 218040
 ---
-
 I never thought you'd pick up the phone
 It's Friday night, you should be out on the town
 Didn't think you'd be
@@ -121,6 +125,3 @@ We don't have to be lonely tonight
 (Oh, I need you and I'm right here)
 We don't have to be lonely tonight... tonight... tonight
 Yeah... yeah
-
-
-

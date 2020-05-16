@@ -1,9 +1,12 @@
 ---
+album: 'The R. In R&B Collection: Volume 1'
 artists:
 - R. Kelly
+external_ids:
+  spotify: spotify:track:77S8pBH3ilaDIPmTJkRNQn
 features:
 - Jay-Z
-genres: []
+first_released_as_single: false
 key: fiesta-r--kelly-jay-z
 lyrics_url: https://genius.com/Jay-z-and-r-kelly-fiesta-remix-lyrics
 name: Fiesta
@@ -92,6 +95,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2001-08-18'
+release_year: 2001
+runtime: 241400
 ---
 After the show it's the after party
 Then after the party it's the hotel lobby

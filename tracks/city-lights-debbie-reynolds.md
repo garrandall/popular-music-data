@@ -1,8 +1,11 @@
 ---
+album: Am I That Easy To Forget?
 artists:
 - Debbie Reynolds
+external_ids:
+  spotify: spotify:track:2tKGUpiFebh8qv9HmXafLE
 features: []
-genres: []
+first_released_as_single: false
 key: city-lights-debbie-reynolds
 lyrics_url: https://www.musixmatch.com/lyrics/Debbie-Reynolds/City-Lights
 name: City Lights
@@ -23,6 +26,8 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '1960-05-30'
+release_year: 1960
+runtime: 146800
 ---
 The bright array of city lights
 As far as I can see

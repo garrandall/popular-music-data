@@ -1,8 +1,11 @@
 ---
+album: Before I Self-Destruct
 artists:
 - 50 Cent
+external_ids:
+  spotify: spotify:track:5eIDmPLBMXvayzvf2Bt45Z
 features: []
-genres: []
+first_released_as_single: false
 key: the-invitation-50-cent
 lyrics_url: https://www.azlyrics.com/lyrics/50cent/theinvitation.html
 name: The Invitation
@@ -11,9 +14,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2009-12-05'
+release_year: 2009
+runtime: 174466
 ---
-
-
 1!
 1-2!
 GRRR!
@@ -74,6 +77,3 @@ Huh, you want some?
 Come get it, I'm strapped now, I'm with it!
 Fuck that nigga!
 Huh, you want some?
-
-
-

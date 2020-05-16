@@ -1,8 +1,11 @@
 ---
+album: The Best Of Mac Davis
 artists:
 - Mac Davis
+external_ids:
+  spotify: spotify:track:5VxL3MMUpczFxbcrM1IpZe
 features: []
-genres: []
+first_released_as_single: false
 key: beginning-to-feel-the-pain-mac-davis
 lyrics_url: https://www.azlyrics.com/lyrics/macdavis/beginningtofeelthepain.html
 name: Beginning To Feel The Pain
@@ -15,8 +18,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1971-03-06'
+release_year: 1971
+runtime: 195760
 ---
-
 I took the bad news standing up
 Shrugged and poured myself
 Another cup of coffee
@@ -92,6 +96,3 @@ Beginning to feel
 (Beginning to feel)
 Beginning to feel the pain
 (Beginning to feel the pain)...
-
-
-

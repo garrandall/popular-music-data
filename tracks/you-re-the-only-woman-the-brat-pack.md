@@ -1,8 +1,11 @@
 ---
+album: The Brat Pack
 artists:
 - The Brat Pack
+external_ids:
+  spotify: spotify:track:13B5m122SGIzCOYHrxjMho
 features: []
-genres: []
+first_released_as_single: false
 key: you-re-the-only-woman-the-brat-pack
 name: You're The Only Woman
 rankings:
@@ -54,5 +57,7 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1990-04-21'
+release_year: 1990
+runtime: 296333
 ---
 

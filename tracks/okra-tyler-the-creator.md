@@ -1,8 +1,11 @@
 ---
+album: OKRA
 artists:
 - Tyler, The Creator
+external_ids:
+  spotify: spotify:track:74ZovzRxHBvCq5yIwe8boh
 features: []
-genres: []
+first_released_as_single: true
 key: okra-tyler-the-creator
 lyrics_url: https://www.azlyrics.com/lyrics/tylerthecreator/okra.html
 name: OKRA
@@ -11,8 +14,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2018-04-14'
+release_year: 2018
+runtime: 151026
 ---
-
 Ayo, did this shit in one take
 Ayo
 

@@ -1,8 +1,11 @@
 ---
+album: Cotton Candy
 artists:
 - Al Hirt
+external_ids:
+  spotify: spotify:track:6vOJGIYpiEgYh4Vjx47c4w
 features: []
-genres: []
+first_released_as_single: false
 key: cotton-candy-al-hirt
 lyrics_url: https://www.musixmatch.com/lyrics/Al-Hirt/Cotton-Candy
 name: Cotton Candy
@@ -55,6 +58,8 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '1964-06-27'
+release_year: 1964
+runtime: 134200
 ---
 Ttaseuhan jeo haessal gwa hamkke geudae soneul japanese goseo
 La la la, noraereul bureumyeo dalkomhan deiteu

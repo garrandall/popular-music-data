@@ -1,8 +1,11 @@
 ---
+album: Home
 artists:
 - Dierks Bentley
+external_ids:
+  spotify: spotify:track:59tUXZ9dL0qkaa18WCfUnZ
 features: []
-genres: []
+first_released_as_single: false
 key: am-i-the-only-one-dierks-bentley
 lyrics_url: https://www.azlyrics.com/lyrics/dierksbentley/amitheonlyone.html
 name: Am I The Only One
@@ -87,8 +90,9 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '2011-10-01'
+release_year: 2011
+runtime: 191253
 ---
-
 Well it was Friday in the p.m.
 And just like every weekend
 I was ready to throw down
@@ -123,6 +127,3 @@ Get your good time on
 Let's have a little fun tonight
 
 Let's have a little fun tonight
-
-
-

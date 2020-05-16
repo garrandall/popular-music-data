@@ -1,8 +1,11 @@
 ---
+album: September Morn
 artists:
 - Neil Diamond
+external_ids:
+  spotify: spotify:track:2PF58xsYmVCYgREg4CUXbg
 features: []
-genres: []
+first_released_as_single: false
 key: the-good-lord-loves-you-neil-diamond
 lyrics_url: https://www.azlyrics.com/lyrics/neildiamond/thegoodlordlovesyou.html
 name: The Good Lord Loves You
@@ -31,8 +34,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1980-05-10'
+release_year: 1979
+runtime: 282600
 ---
-
 I'm singing this song
 For the men in your prisons and jails
 The junkies and juicers
@@ -79,6 +83,3 @@ The Good Lord
 He loves you so
 
 Ain't it sad that we're doing so bad
-
-
-

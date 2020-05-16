@@ -1,9 +1,12 @@
 ---
+album: Hero
 artists:
 - Clarence Clemons
 - Jackson Browne
+external_ids:
+  spotify: spotify:track:4aqCPPCnEQCuI4bC18wm1W
 features: []
-genres: []
+first_released_as_single: false
 key: you-re-a-friend-of-mine-clarence-clemons-jackson-browne
 lyrics_url: https://genius.com/Clarence-clemons-and-jackson-browne-youre-a-friend-of-mine-lyrics
 name: You're A Friend Of Mine
@@ -84,6 +87,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1986-03-01'
+release_year: 1985
+runtime: 290933
 ---
 Striking out? Well, count me in
 I'm gonna stand right by your side through thick or thin

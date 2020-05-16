@@ -1,8 +1,11 @@
 ---
+album: Attention Shoppers!
 artists:
 - Starz
+external_ids:
+  spotify: spotify:track:7vK7gB70OJizvq10GwWnCP
 features: []
-genres: []
+first_released_as_single: false
 key: hold-on-to-the-night-starz
 lyrics_url: https://www.musixmatch.com/lyrics/Starz/Hold-On-To-The-Night
 name: Hold On To The Night
@@ -19,6 +22,8 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1978-06-03'
+release_year: 1978
+runtime: 198320
 ---
 Hold on to the night
 Hold me baby until the light slips softly through the curtains drawn, the sun comes up and the magics gone

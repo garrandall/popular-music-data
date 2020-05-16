@@ -1,8 +1,11 @@
 ---
+album: Bump Ahead
 artists:
 - Mr. Big
+external_ids:
+  spotify: spotify:track:0Np00vOtVvqZpHqEyYylAs
 features: []
-genres: []
+first_released_as_single: false
 key: ain-t-seen-love-like-that-mr--big
 lyrics_url: https://genius.com/Mr-big-aint-seen-love-like-that-lyrics
 name: Ain't Seen Love Like That
@@ -31,6 +34,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1994-04-02'
+release_year: 1993
+runtime: 211573
 ---
 I've been miles from nowhere crossed and doubled back
 Time is a healer and I've done my time

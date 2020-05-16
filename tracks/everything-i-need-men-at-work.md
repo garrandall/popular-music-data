@@ -1,8 +1,11 @@
 ---
+album: Two Hearts
 artists:
 - Men At Work
+external_ids:
+  spotify: spotify:track:5OzEDx8fixqMWkYcraV9U4
 features: []
-genres: []
+first_released_as_single: false
 key: everything-i-need-men-at-work
 lyrics_url: https://genius.com/Men-at-work-everything-i-need-lyrics
 name: Everything I Need
@@ -43,6 +46,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1985-07-20'
+release_year: 1981
+runtime: 216693
 ---
 Moving up and down and from side to side
 With so many things to do

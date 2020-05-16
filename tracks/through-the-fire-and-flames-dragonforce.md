@@ -1,8 +1,11 @@
 ---
+album: Inhuman Rampage
 artists:
 - DragonForce
+external_ids:
+  spotify: spotify:track:6nnacTL5on2aVsRhVDNUSo
 features: []
-genres: []
+first_released_as_single: false
 key: through-the-fire-and-flames-dragonforce
 lyrics_url: https://genius.com/Dragonforce-through-the-fire-and-flames-lyrics
 name: Through The Fire And Flames
@@ -27,6 +30,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2008-02-16'
+release_year: 2006
+runtime: 441560
 ---
 On a cold winter morning
 In the time before the light

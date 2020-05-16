@@ -1,8 +1,11 @@
 ---
+album: Ten Best Series - The Crests
 artists:
 - The Crests
+external_ids:
+  spotify: spotify:track:0aVMQFFqVPpbvoykIABQWO
 features: []
-genres: []
+first_released_as_single: false
 key: step-by-step-the-crests
 lyrics_url: https://genius.com/The-crests-step-by-step-lyrics
 name: Step By Step
@@ -67,6 +70,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1960-06-06'
+release_year: 1960
+runtime: 145293
 ---
 Step by step I fell in love with you
 And step by step it wasn't hard to do

@@ -1,8 +1,11 @@
 ---
+album: From Elvis in Memphis
 artists:
 - Elvis Presley
+external_ids:
+  spotify: spotify:track:1dIChAQ6MLzIsXWl6vWAqX
 features: []
-genres: []
+first_released_as_single: false
 key: kentucky-rain-elvis-presley
 lyrics_url: https://genius.com/Elvis-presley-kentucky-rain-lyrics
 name: Kentucky Rain
@@ -43,6 +46,8 @@ rankings:
   rank: 31
   ranking_list: Billboard Hot 100
   start_date: '1970-04-11'
+release_year: 1969
+runtime: 195720
 ---
 Seven lonely days
 And a dozen towns ago

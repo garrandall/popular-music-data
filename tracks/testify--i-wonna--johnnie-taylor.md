@@ -1,8 +1,11 @@
 ---
+album: The Johnnie Taylor Philosophy Continues
 artists:
 - Johnnie Taylor
+external_ids:
+  spotify: spotify:track:0ZTr7I93DO88V9dVlWgGfo
 features: []
-genres: []
+first_released_as_single: false
 key: testify--i-wonna--johnnie-taylor
 lyrics_url: https://genius.com/Johnnie-taylor-testify-i-wanna-lyrics
 name: Testify (I Wonna)
@@ -43,6 +46,8 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '1969-07-05'
+release_year: 1969
+runtime: 246933
 ---
 Let me tell you something about myself
 I'm not ashamed to stand up and testify

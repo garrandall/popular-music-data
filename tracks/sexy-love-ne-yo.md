@@ -1,8 +1,11 @@
 ---
+album: In My Own Words
 artists:
 - Ne-Yo
+external_ids:
+  spotify: spotify:track:10aWGOqSDBqvNzJ9NeKDbK
 features: []
-genres: []
+first_released_as_single: false
 key: sexy-love-ne-yo
 lyrics_url: https://genius.com/Ne-yo-sexy-love-lyrics
 name: Sexy Love
@@ -95,6 +98,8 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '2006-11-18'
+release_year: 2006
+runtime: 220853
 ---
 My sexy love
 So sexy

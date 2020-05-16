@@ -1,8 +1,11 @@
 ---
+album: Gypsy Heart
 artists:
 - Colbie Caillat
+external_ids:
+  spotify: spotify:track:6buXDkw3Gv4fQC1OZKUhnR
 features: []
-genres: []
+first_released_as_single: false
 key: try-colbie-caillat
 lyrics_url: https://genius.com/Colbie-caillat-try-lyrics
 name: Try
@@ -87,6 +90,8 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '2015-01-17'
+release_year: 2014
+runtime: 224573
 ---
 Put your make-up on
 Get your nails done

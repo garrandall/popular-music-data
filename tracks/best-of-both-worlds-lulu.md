@@ -1,8 +1,11 @@
 ---
+album: To Sir With Love
 artists:
 - Lulu
+external_ids:
+  spotify: spotify:track:5KiXgwrhSRlkkzaPpvPQKu
 features: []
-genres: []
+first_released_as_single: false
 key: best-of-both-worlds-lulu
 lyrics_url: https://www.azlyrics.com/lyrics/lulu/bestofbothworlds.html
 name: Best Of Both Worlds
@@ -47,8 +50,9 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '1968-02-17'
+release_year: 1967
+runtime: 181253
 ---
-
 Best of both worlds, that's what you want
 All your own way, that's not my way
 I won't share you, I couldn't bear to
@@ -82,6 +86,3 @@ Make your fickle mind up
 I won't stay while you enjoy
 Best of both worlds - best of both worlds
 Best of both worlds
-
-
-

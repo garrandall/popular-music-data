@@ -1,8 +1,11 @@
 ---
+album: Machine Gun
 artists:
 - Commodores
+external_ids:
+  spotify: spotify:track:2WXv5t8wG3V3zCxGrYJtuL
 features: []
-genres: []
+first_released_as_single: false
 key: i-feel-sanctified-commodores
 lyrics_url: https://www.azlyrics.com/lyrics/commodores/ifeelsanctified.html
 name: I Feel Sanctified
@@ -39,8 +42,9 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1975-01-04'
+release_year: 1974
+runtime: 224773
 ---
-
 Yeah, I feel sanctified
 Yeah, I feel sanctified
 Yeah, I feel sanctified
@@ -86,6 +90,3 @@ To rest it must explode
 Yeah, I feel sanctified
 Yeah, I feel sanctified
 Yeah, I feel sanctified
-
-
-

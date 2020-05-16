@@ -1,9 +1,12 @@
 ---
+album: Pink Friday
 artists:
 - will.i.am
 - Nicki Minaj
+external_ids:
+  spotify: spotify:track:5tMoj9U1ZAJ3pOMndaShr7
 features: []
-genres: []
+first_released_as_single: true
 key: check-it-out-will-i-am-nicki-minaj
 lyrics_url: https://genius.com/William-and-nicki-minaj-check-it-out-lyrics
 name: Check It Out
@@ -68,6 +71,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2011-01-15'
+release_year: 2010
+runtime: 252026
 ---
 Oh, oh
 Oh, oh

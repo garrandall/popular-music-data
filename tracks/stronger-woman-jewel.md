@@ -1,8 +1,11 @@
 ---
+album: Perfectly Clear
 artists:
 - Jewel
+external_ids:
+  spotify: spotify:track:4S0SN8LHWeNgFVb3GFV4lV
 features: []
-genres: []
+first_released_as_single: false
 key: stronger-woman-jewel
 lyrics_url: https://genius.com/Jewel-stronger-woman-lyrics
 name: Stronger Woman
@@ -47,6 +50,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2008-05-31'
+release_year: 2008
+runtime: 242693
 ---
 I guess you could say I'm one of those girls
 Who's always been with one of those guys

@@ -1,9 +1,12 @@
 ---
+album: Funkytown
 artists:
 - Lipps
 - Inc.
+external_ids:
+  spotify: spotify:track:05370ru5yCdoZ5uOMqfH0D
 features: []
-genres: []
+first_released_as_single: false
 key: rock-it-lipps-inc-
 lyrics_url: https://www.azlyrics.com/lyrics/lippsinc/rockit.html
 name: Rock It
@@ -36,8 +39,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1980-09-13'
+release_year: 1980
+runtime: 341426
 ---
-
 (Rock... rock, rock, rock it)
 
 Won't you rock with me, baby
@@ -49,6 +53,3 @@ That you wanna take off, take off with me
 Oh, yeah, we're rocking
 Into space
 To another place
-
-
-

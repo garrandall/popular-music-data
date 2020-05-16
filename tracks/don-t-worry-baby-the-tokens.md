@@ -1,8 +1,11 @@
 ---
+album: The Vintage Collection
 artists:
 - The Tokens
+external_ids:
+  spotify: spotify:track:6M0IYLB4dj13k0o6r4yMtV
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-worry-baby-the-tokens
 lyrics_url: https://genius.com/The-tokens-dont-worry-baby-lyrics
 name: Don't Worry Baby
@@ -15,6 +18,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1970-03-14'
+release_year: 1970
+runtime: 164493
 ---
 Well its been building up inside of me
 For oh I don't know how long

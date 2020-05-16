@@ -1,8 +1,11 @@
 ---
+album: Mad, Bad And Dangerous To Know
 artists:
 - Dead Or Alive
+external_ids:
+  spotify: spotify:track:1R4AF3zMMM6e7fFBAiXJ5G
 features: []
-genres: []
+first_released_as_single: false
 key: brand-new-lover-dead-or-alive
 lyrics_url: https://www.azlyrics.com/lyrics/deadoralive/brandnewlover.html
 name: Brand New Lover
@@ -95,8 +98,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1987-04-25'
+release_year: 1979
+runtime: 543800
 ---
-
 Your sweet nature, darling
 Was too hard to swallow
 I've got the solution
@@ -163,6 +167,3 @@ Somebody with eyes for me
 Who doesn't notice all the others
 What I really need to do
 Is find a brand new lover
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Have You Forgotten?
 artists:
 - Darryl Worley
+external_ids:
+  spotify: spotify:track:5JWuz7zukN8z9JLNm29U5K
 features: []
-genres: []
+first_released_as_single: false
 key: have-you-forgotten--darryl-worley
 lyrics_url: https://genius.com/Darryl-worley-have-you-forgotten-lyrics
 name: Have You Forgotten?
@@ -87,6 +90,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2003-07-26'
+release_year: 2003
+runtime: 242293
 ---
 I hear people sayin'. We Don't need this war
 But I say there's some things worth fightin' for

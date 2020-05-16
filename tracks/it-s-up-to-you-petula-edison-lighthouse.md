@@ -1,8 +1,11 @@
 ---
+album: Love Grows (Where My Rosemary Goes) & Other Gems
 artists:
 - Edison Lighthouse
+external_ids:
+  spotify: spotify:track:0aG1yieAtCn99A5oxuVnQv
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-up-to-you-petula-edison-lighthouse
 lyrics_url: https://genius.com/Edison-lighthouse-its-up-to-you-petula-lyrics
 name: It's Up To You Petula
@@ -31,6 +34,8 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1971-02-13'
+release_year: 1970
+runtime: 177800
 ---
 I don't have you to myself
 I know you've been seeing someone else

@@ -1,9 +1,12 @@
 ---
+album: '2001'
 artists:
 - Dr. Dre
+external_ids:
+  spotify: spotify:track:7iXF2W9vKmDoGAhlHdpyIa
 features:
 - Eminem
-genres: []
+first_released_as_single: false
 key: forgot-about-dre-dr--dre-eminem
 lyrics_url: https://genius.com/Genius-turkce-ceviri-forgot-about-dre-by-dr-dre-feat-eminem-lyrics
 name: Forgot About Dre
@@ -88,6 +91,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '2000-06-03'
+release_year: 1999
+runtime: 222293
 ---
 Hepiniz beni tanıyorsunuz, hala aynı G.G. ama arka planda kaldım
 Parası olmayan, kayıtları olmayan ve milyon dolarları olmayan, arabaları, tekneleri, kar arabaları ve kayakları olmayan zenciler tarafından nefret ediliyorum

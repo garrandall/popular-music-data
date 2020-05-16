@@ -1,8 +1,11 @@
 ---
+album: Motown Rarities 1965-1968
 artists:
 - The Contours
+external_ids:
+  spotify: spotify:track:0xhPcMF4LvHZn5BLhYfVdi
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-so-hard-being-a-loser-the-contours
 lyrics_url: https://www.azlyrics.com/lyrics/contours/itssohardbeingaloser.html
 name: It's So Hard Being A Loser
@@ -19,8 +22,9 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1967-04-29'
+release_year: 1967
+runtime: 157733
 ---
-
 Loser, loser
 
 It's so hard being a loser
@@ -66,6 +70,3 @@ Oh, someone see, I'm so alone
 
 It's so hard (it's so hard)
 Being a loser
-
-
-

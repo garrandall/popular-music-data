@@ -1,8 +1,11 @@
 ---
+album: Life on a Rock
 artists:
 - Kenny Chesney
+external_ids:
+  spotify: spotify:track:61w5i6NlAZXBa5FTTbDL0r
 features: []
-genres: []
+first_released_as_single: false
 key: when-i-see-this-bar-kenny-chesney
 lyrics_url: https://www.azlyrics.com/lyrics/kennychesney/wheniseethisbar.html
 name: When I See This Bar
@@ -35,8 +38,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2013-09-21'
+release_year: 2013
+runtime: 362813
 ---
-
 Well I see the souls of so many friends,
 And I see us all back here again.
 With sandy floors and ceiling fans,
@@ -92,6 +96,3 @@ Yeah we were living like pirates and wannabe stars
 That's what I see when I see this bar
 
 That's what I see when I see this bar
-
-
-

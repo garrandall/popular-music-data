@@ -1,8 +1,11 @@
 ---
+album: Winners
 artists:
 - Donna Fargo
+external_ids:
+  spotify: spotify:track:5owF5IGEDtby7X3aKvRTnU
 features: []
-genres: []
+first_released_as_single: false
 key: funny-face-donna-fargo
 lyrics_url: https://www.azlyrics.com/lyrics/donnafargo/funnyface.html
 name: Funny Face
@@ -87,8 +90,9 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '1973-02-10'
+release_year: 1972
+runtime: 177293
 ---
-
 Funny face, I love you
 Funny face, I need you
 My whole worlds wrapped up in you
@@ -125,6 +129,3 @@ These are the sweetest words I've ever heard
 Funny face, don't leave me
 Funny face, believe me
 My whole worlds wrapped up in you
-
-
-

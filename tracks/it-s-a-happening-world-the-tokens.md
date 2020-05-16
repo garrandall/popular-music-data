@@ -1,8 +1,11 @@
 ---
+album: It's A Happening World
 artists:
 - The Tokens
+external_ids:
+  spotify: spotify:track:0abnVktJLMXYOTBP3qHxIX
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-a-happening-world-the-tokens
 name: It's A Happening World
 rankings:
@@ -22,5 +25,7 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1967-08-12'
+release_year: 1967
+runtime: 158373
 ---
 

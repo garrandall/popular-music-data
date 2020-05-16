@@ -1,8 +1,11 @@
 ---
+album: Lookin' For Love Again
 artists:
 - Bobby Womack
+external_ids:
+  spotify: spotify:track:0M6W7eZ1FWKcFFFtzAxjzO
 features: []
-genres: []
+first_released_as_single: false
 key: lookin--for-a-love-bobby-womack
 lyrics_url: https://www.azlyrics.com/lyrics/bobbywomack/lookinforalove.html
 name: Lookin' For A Love
@@ -75,8 +78,9 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '1974-05-25'
+release_year: 1974
+runtime: 153653
 ---
-
 I'm lookin' for
 I'm lookin' for
 I'm lookin' for
@@ -157,6 +161,3 @@ I'm gonna find her oh yeah
 Gotta keep on lookin'
 I need someone to walk by my side
 I've gotta find someone
-
-
-

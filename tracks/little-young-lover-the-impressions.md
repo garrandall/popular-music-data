@@ -1,8 +1,11 @@
 ---
+album: The Impressions
 artists:
 - The Impressions
+external_ids:
+  spotify: spotify:track:0vwtzhCdHb5ZyXYeVJiStF
 features: []
-genres: []
+first_released_as_single: false
 key: little-young-lover-the-impressions
 lyrics_url: https://www.azlyrics.com/lyrics/impressions/littleyounglover.html
 name: Little Young Lover
@@ -11,8 +14,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1962-07-28'
+release_year: 1962
+runtime: 136533
 ---
-
 Little young lover
 Why don't you like me?
 Can't you see honey
@@ -51,6 +55,3 @@ If you would only let me walk a you home
 Ah-ah young lover
 Come to me young lover
 I love your brother
-
-
-

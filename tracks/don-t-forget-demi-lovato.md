@@ -1,8 +1,11 @@
 ---
+album: Don't Forget
 artists:
 - Demi Lovato
+external_ids:
+  spotify: spotify:track:4He7bzKBaiu7CRz4wGkZzx
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-forget-demi-lovato
 lyrics_url: https://genius.com/Demi-lovato-dont-forget-lyrics
 name: Don't Forget
@@ -43,6 +46,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2009-05-23'
+release_year: 2008
+runtime: 223160
 ---
 Did you forget that I was even alive?
 Did you forget everything we ever had?

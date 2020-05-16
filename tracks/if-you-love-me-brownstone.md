@@ -1,8 +1,11 @@
 ---
+album: From The Bottom Up
 artists:
 - Brownstone
+external_ids:
+  spotify: spotify:track:0BTGqPIW9acmhhUmENkq5r
 features: []
-genres: []
+first_released_as_single: false
 key: if-you-love-me-brownstone
 lyrics_url: https://genius.com/Brownstone-if-you-love-me-lyrics
 name: If You Love Me
@@ -115,6 +118,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1995-06-10'
+release_year: 1993
+runtime: 304160
 ---
 I don't wanna rain on this parade
 But I'm starting to question the love that was made

@@ -1,8 +1,11 @@
 ---
+album: Brown Sugar
 artists:
 - D'Angelo
+external_ids:
+  spotify: spotify:track:2voXNGgRrosxCJA6foTVau
 features: []
-genres: []
+first_released_as_single: false
 key: cruisin--d-angelo
 lyrics_url: https://genius.com/Dangelo-cruisin-lyrics
 name: Cruisin'
@@ -79,6 +82,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1996-03-02'
+release_year: 1995
+runtime: 384666
 ---
 Baby, let's cruise away from here
 Don't be confused, baby, the way is clear

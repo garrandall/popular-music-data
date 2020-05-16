@@ -1,8 +1,11 @@
 ---
+album: The Concert in Central Park (Live)
 artists:
 - Simon & Garfunkel
+external_ids:
+  spotify: spotify:track:3i10Co0CjEzd1UpamggnlT
 features: []
-genres: []
+first_released_as_single: false
 key: wake-up-little-susie-simon-garfunkel
 lyrics_url: https://www.azlyrics.com/lyrics/simongarfunkel/wakeuplittlesusie.html
 name: Wake Up Little Susie
@@ -51,8 +54,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1982-06-12'
+release_year: 1982
+runtime: 138386
 ---
-
 Wake up little Susie, wake up, wake up little Susie, wake up
 We both fell sound asleep, wake up little Susie and weep
 The movie's over, it's four o'clock and we're in trouble deep
@@ -75,6 +79,3 @@ We fell asleep, our goose is cooked, our reputation is shot
 
 
 Wake up little Susie
-
-
-

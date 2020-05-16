@@ -1,8 +1,11 @@
 ---
+album: Some Nights
 artists:
 - fun.
+external_ids:
+  spotify: spotify:track:6t6oULCRS6hnI7rm0h5gwl
 features: []
-genres: []
+first_released_as_single: false
 key: some-nights-fun-
 lyrics_url: https://genius.com/Fun-some-nights-lyrics
 name: Some Nights
@@ -231,6 +234,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2013-03-30'
+release_year: 2012
+runtime: 277040
 ---
 Some nights, I stay up cashing in my bad luck
 Some nights, I call it a draw

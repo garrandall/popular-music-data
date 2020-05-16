@@ -1,8 +1,11 @@
 ---
+album: Country Favorites
 artists:
 - Donna Fargo
+external_ids:
+  spotify: spotify:track:3zG0XhZwuOU9TxcWnvF5V7
 features: []
-genres: []
+first_released_as_single: false
 key: the-happiest-girl-in-the-whole-usa-donna-fargo
 lyrics_url: https://www.musixmatch.com/lyrics/Donna-Fargo/The-Happiest-Girl-in-the-Whole-U-S-A
 name: The Happiest Girl In The Whole USA
@@ -71,6 +74,8 @@ rankings:
   rank: 34
   ranking_list: Billboard Hot 100
   start_date: '1972-09-09'
+release_year: 1972
+runtime: 155826
 ---
 Shine on me sunshine
 Walk with me world, it's a skippidy doo da day

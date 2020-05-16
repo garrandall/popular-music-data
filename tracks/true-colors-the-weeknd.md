@@ -1,8 +1,11 @@
 ---
+album: Starboy
 artists:
 - The Weeknd
+external_ids:
+  spotify: spotify:track:6i759FCuKx713ZnYjtpQGU
 features: []
-genres: []
+first_released_as_single: false
 key: true-colors-the-weeknd
 lyrics_url: https://www.azlyrics.com/lyrics/weeknd/truecolors.html
 name: True Colors
@@ -15,8 +18,9 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '2016-12-24'
+release_year: 2016
+runtime: 206026
 ---
-
 Tell me the truth
 Baby girl, who else been with you
 It's gon' come to my attention either way, yeah
@@ -77,6 +81,3 @@ Girl, come show me your true colors
 Paint me a picture with your true colors
 These are confessions of a new lover
 True colors, true colors
-
-
-

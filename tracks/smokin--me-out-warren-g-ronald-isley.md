@@ -1,9 +1,12 @@
 ---
+album: Take A Look Over Your Shoulder (Reality)
 artists:
 - Warren G
+external_ids:
+  spotify: spotify:track:6QhQ3Vk6nppKKKNMP3PaBr
 features:
 - Ronald Isley
-genres: []
+first_released_as_single: false
 key: smokin--me-out-warren-g-ronald-isley
 lyrics_url: https://genius.com/Warren-g-smokin-me-out-lyrics
 name: Smokin' Me Out
@@ -64,6 +67,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1997-09-20'
+release_year: 1997
+runtime: 220933
 ---
 If you wanna be with me, yeah
 Let me hear you say Warren G, Warren G

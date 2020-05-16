@@ -1,9 +1,12 @@
 ---
+album: The New Classic
 artists:
 - Iggy Azalea
+external_ids:
+  spotify: spotify:track:7pNC5ZIKtwUK0ReSpM3P9f
 features:
 - Rita Ora
-genres: []
+first_released_as_single: false
 key: black-widow-iggy-azalea-rita-ora
 lyrics_url: https://www.azlyrics.com/lyrics/iggyazalea/blackwidow.html
 name: Black Widow
@@ -128,9 +131,9 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2015-02-07'
+release_year: 2014
+runtime: 209423
 ---
-
-
 I'm gonna love ya
 Until you hate me
 And I'm gonna show ya
@@ -216,6 +219,3 @@ Gonna love ya, gonna love ya
 Like a black widow, baby
 
 Bl-bl-bla-black widow, baby
-
-
-

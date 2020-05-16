@@ -1,8 +1,11 @@
 ---
+album: In The City
 artists:
 - Tavares
+external_ids:
+  spotify: spotify:track:7L24ueXfFCegIfpxmRLbmM
 features: []
-genres: []
+first_released_as_single: false
 key: it-only-takes-a-minute-tavares
 lyrics_url: https://www.azlyrics.com/lyrics/tavares/itonlytakesaminute.html
 name: It Only Takes A Minute
@@ -79,8 +82,9 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '1975-11-22'
+release_year: 1975
+runtime: 241386
 ---
-
 Ah, ha
 Yeah, yeah
 Ah, ha, yeah
@@ -135,6 +139,3 @@ It only takes a minute, girl
 Baby, to fall in love, to fall in love
 It only takes a minute, girl
 To fall in love, to fall in love
-
-
-

@@ -1,9 +1,12 @@
 ---
+album: How High
 artists:
 - Method Man
 - Redman
+external_ids:
+  spotify: spotify:track:2n7h09QrGitVul66b2D8Re
 features: []
-genres: []
+first_released_as_single: false
 key: part-ii-method-man-redman
 lyrics_url: https://www.azlyrics.com/lyrics/methodman/partii.html
 name: Part II
@@ -56,9 +59,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2002-03-09'
+release_year: 2001
+runtime: 244600
 ---
-
-
 I, I get so high
 
  Yo ladies and gentlemen...we got Toni Braxton up in the house
@@ -160,6 +163,3 @@ High (Let's Get)
 High (Let's Get)
 High (Let's Get)
 High (Let's Get)
-
-
-

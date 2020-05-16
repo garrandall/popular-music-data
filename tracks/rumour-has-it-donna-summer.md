@@ -1,8 +1,11 @@
 ---
+album: Once Upon A Time
 artists:
 - Donna Summer
+external_ids:
+  spotify: spotify:track:0VNF64BVpiv284gQZQz8N8
 features: []
-genres: []
+first_released_as_single: false
 key: rumour-has-it-donna-summer
 lyrics_url: https://www.azlyrics.com/lyrics/donnasummer/rumourhasit.html
 name: Rumour Has It
@@ -43,8 +46,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1978-04-29'
+release_year: 1977
+runtime: 294103
 ---
-
 There's a rumour, there's a rumour
 Rumour has it
 
@@ -99,6 +103,3 @@ Rumour has it
 There's a rumour, there's a rumour
 Rumour has it, rumour has it
 There's a rumour, there's a rumour
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: The More I See You
 artists:
 - Chris Montez
+external_ids:
+  spotify: spotify:track:6Jk6pyFWwJVyjPuisLVhWX
 features: []
-genres: []
+first_released_as_single: false
 key: call-me-chris-montez
 lyrics_url: https://genius.com/Chris-montez-call-me-lyrics
 name: Call Me
@@ -47,6 +50,8 @@ rankings:
   rank: 32
   ranking_list: Billboard Hot 100
   start_date: '1966-03-12'
+release_year: 1966
+runtime: 158613
 ---
 If you're feeling sad and lonely
 There's a service I can render

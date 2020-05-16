@@ -1,9 +1,12 @@
 ---
+album: Evergreen, Vol.2
 artists:
 - Stone Poneys
+external_ids:
+  spotify: spotify:track:3k63RLvRgkgPGx0keOH3P6
 features:
 - Linda Ronstadt
-genres: []
+first_released_as_single: false
 key: different-drum-stone-poneys-linda-ronstadt
 lyrics_url: https://www.musixmatch.com/lyrics/Stone-Poneys-feat-Linda-Ronstadt/Different-Drum
 name: Different Drum
@@ -76,6 +79,8 @@ rankings:
   rank: 32
   ranking_list: Billboard Hot 100
   start_date: '1968-03-02'
+release_year: 1967
+runtime: 159973
 ---
 You and I travel to the beat of a different drum
 Ah, can't you tell by the way I run

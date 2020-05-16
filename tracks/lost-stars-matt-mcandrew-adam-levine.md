@@ -1,9 +1,12 @@
 ---
+album: The Complete Season 7 Collection (The Voice Performance)
 artists:
 - Matt McAndrew
 - Adam Levine
+external_ids:
+  spotify: spotify:track:5AtswJe6AJ2uaqwHdVIsIT
 features: []
-genres: []
+first_released_as_single: false
 key: lost-stars-matt-mcandrew-adam-levine
 lyrics_url: https://www.azlyrics.com/lyrics/mattmcandrew/loststars.html
 name: Lost Stars
@@ -12,8 +15,9 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '2015-01-03'
+release_year: 2015
+runtime: 194895
 ---
-
 Please don't see
 Just a boy caught up in dreams and fantasies
 Please see me
@@ -51,6 +55,3 @@ It's hunting season and the lambs are on the run
 We're searching for meaning
 But are we all lost stars trying to light up the dark?
 But are we all lost stars trying to light up the dark?
-
-
-

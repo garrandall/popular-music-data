@@ -1,8 +1,11 @@
 ---
+album: Tell Me This Is a Dream (Expanded Version)
 artists:
 - The Delfonics
+external_ids:
+  spotify: spotify:track:0YkyLCW2dNHZFRjNbrrwkK
 features: []
-genres: []
+first_released_as_single: false
 key: walk-right-up-to-the-sun-the-delfonics
 lyrics_url: https://genius.com/The-delfonics-walk-right-up-to-the-sun-lyrics
 name: Walk Right Up To The Sun
@@ -31,6 +34,8 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1971-12-04'
+release_year: 1971
+runtime: 182280
 ---
 And then we'll
 Walk right up to the sun

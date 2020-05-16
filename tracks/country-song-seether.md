@@ -1,8 +1,11 @@
 ---
+album: Holding Onto Strings Better Left To Fray
 artists:
 - Seether
+external_ids:
+  spotify: spotify:track:2abHKI9Oox4NBEhOh3HMbq
 features: []
-genres: []
+first_released_as_single: false
 key: country-song-seether
 lyrics_url: https://www.azlyrics.com/lyrics/seether/countrysong.html
 name: Country Song
@@ -79,8 +82,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2011-07-30'
+release_year: 2011
+runtime: 229720
 ---
-
 Well I can't stand to look at you now
 This revelation's out of my hands
 Still I can't bear the thought of you now
@@ -147,6 +151,3 @@ Lay down because the party's all over
 Lay down
 Just stay down
 Lay down because I am trying to get through
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: The All-American Rejects
 artists:
 - The All-American Rejects
+external_ids:
+  spotify: spotify:track:003FTlCpBTM4eSqYSWPv4H
 features: []
-genres: []
+first_released_as_single: false
 key: swing-swing-the-all-american-rejects
 lyrics_url: https://www.azlyrics.com/lyrics/allamericanrejects/swingswing.html
 name: Swing Swing
@@ -51,8 +54,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2003-08-30'
+release_year: 2002
+runtime: 233266
 ---
-
 Days swiftly come and go.
 I'm dreaming of her
 She's seeing other guys
@@ -102,6 +106,3 @@ Carry me
 My heart is crushed by a former love
 Can you help me find a way
 To carry on again
-
-
-

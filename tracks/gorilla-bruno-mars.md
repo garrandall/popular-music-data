@@ -1,8 +1,11 @@
 ---
+album: Unorthodox Jukebox
 artists:
 - Bruno Mars
+external_ids:
+  spotify: spotify:track:2ih2U8ttFzCjnQ5njF3SrR
 features: []
-genres: []
+first_released_as_single: false
 key: gorilla-bruno-mars
 lyrics_url: https://www.azlyrics.com/lyrics/brunomars/gorillagmix.html
 name: Gorilla
@@ -71,9 +74,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2014-01-11'
+release_year: 2012
+runtime: 244493
 ---
-
-
 Yuh, it's 4am and you are up getting fucked up
 And what a world it is all girls, I'm in luck
 Say hello to your sisters and let's try some yoga
@@ -139,6 +142,3 @@ Baby, yeah, baby, yeah, aw yeah
 You and me, baby, making love like gorillas
 Yeah
 Making love like gorillas
-
-
-

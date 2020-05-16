@@ -1,8 +1,11 @@
 ---
+album: Love, Peace & Nappiness
 artists:
 - Lost Boyz
+external_ids:
+  spotify: spotify:track:5Sl4762Gx7mbUV9R8Mrbut
 features: []
-genres: []
+first_released_as_single: false
 key: me-and-my-crazy-world-lost-boyz
 lyrics_url: https://genius.com/Lost-boyz-me-and-my-crazy-world-lyrics
 name: Me And My Crazy World
@@ -47,6 +50,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1997-11-22'
+release_year: 1997
+runtime: 311826
 ---
 Now I'm in love with these two chicks
 I don't know which one to pick

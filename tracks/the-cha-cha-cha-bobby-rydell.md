@@ -1,8 +1,11 @@
 ---
+album: 25 Original Greatest Hits- Cameo Parkway
 artists:
 - Bobby Rydell
+external_ids:
+  spotify: spotify:track:0gkEFP7JBgwaRDHx4kA4UV
 features: []
-genres: []
+first_released_as_single: false
 key: the-cha-cha-cha-bobby-rydell
 lyrics_url: https://www.musixmatch.com/lyrics/Bobby-Rydell/The-Cha-Cha-Cha
 name: The Cha-Cha-Cha
@@ -51,6 +54,8 @@ rankings:
   rank: 52
   ranking_list: Billboard Hot 100
   start_date: '1962-12-22'
+release_year: 1962
+runtime: 150333
 ---
 La, la, la
 La, la, la

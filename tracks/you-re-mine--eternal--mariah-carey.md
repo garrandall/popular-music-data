@@ -1,8 +1,11 @@
 ---
+album: "Me. I Am Mariah\u2026The Elusive Chanteuse"
 artists:
 - Mariah Carey
+external_ids:
+  spotify: spotify:track:2V3EBbauVyLyc8nU2igZyJ
 features: []
-genres: []
+first_released_as_single: true
 key: you-re-mine--eternal--mariah-carey
 lyrics_url: https://genius.com/Mariah-carey-youre-mine-eternal-lyrics
 name: You're Mine (Eternal)
@@ -11,6 +14,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2014-03-01'
+release_year: 2014
+runtime: 255760
 ---
 (Eternal, eternal, eternal)
 Mine, mine, mine

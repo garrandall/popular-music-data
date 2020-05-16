@@ -1,8 +1,11 @@
 ---
+album: Kenny Lattimore
 artists:
 - Kenny Lattimore
+external_ids:
+  spotify: spotify:track:28epMjmK65sltA1vhQTGrX
 features: []
-genres: []
+first_released_as_single: false
 key: for-you-kenny-lattimore
 lyrics_url: https://genius.com/Kenny-lattimore-for-you-lyrics
 name: For You
@@ -87,6 +90,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1997-08-09'
+release_year: 1990
+runtime: 236693
 ---
 For you I give a lifetime of stablility
 Anything you want of me

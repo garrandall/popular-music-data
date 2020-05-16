@@ -1,8 +1,11 @@
 ---
+album: When It's Dark Out
 artists:
 - G-Eazy
+external_ids:
+  spotify: spotify:track:422lAAWQO9TqL1LxIPdhOn
 features: []
-genres: []
+first_released_as_single: false
 key: random-g-eazy
 lyrics_url: https://www.azlyrics.com/lyrics/geazy/random.html
 name: Random
@@ -11,8 +14,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2015-12-26'
+release_year: 2015
+runtime: 180333
 ---
-
 Young Gerald, uh
 
 This is the anthem
@@ -84,6 +88,3 @@ I got it all, yeah I'm young, rich, and handsome
 This shit is not random
 Everybody ain't got it, understand son
 This shit is not random
-
-
-

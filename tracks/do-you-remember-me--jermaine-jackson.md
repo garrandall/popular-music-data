@@ -1,8 +1,11 @@
 ---
+album: Precious Moments
 artists:
 - Jermaine Jackson
+external_ids:
+  spotify: spotify:track:3dmayZe9lLdDbhZrFs90rM
 features: []
-genres: []
+first_released_as_single: false
 key: do-you-remember-me--jermaine-jackson
 lyrics_url: https://www.azlyrics.com/lyrics/jermainejackson/doyourememberme.html
 name: Do You Remember Me?
@@ -27,8 +30,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1986-08-02'
+release_year: 1986
+runtime: 306333
 ---
-
 Don't judge by what you see
 There's a softer part of me
 Girl, my life has been so cold
@@ -67,6 +71,3 @@ Do you remember me
 I'm not a stranger, girl
 More than just a member
 Do you remember me
-
-
-

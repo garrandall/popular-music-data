@@ -1,8 +1,11 @@
 ---
+album: Black Reign
 artists:
 - Queen Latifah
+external_ids:
+  spotify: spotify:track:48FC4RXepyOHJFTyFuQkm0
 features: []
-genres: []
+first_released_as_single: false
 key: just-another-day-queen-latifah
 lyrics_url: https://www.azlyrics.com/lyrics/queenlatifah/justanotherday.html
 name: Just Another Day
@@ -51,9 +54,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1994-05-21'
+release_year: 1993
+runtime: 268066
 ---
-
-
 We gon take this one over to 275 Paulstand
 384 Steuyversant, we gon take it over to
 155 Morgan
@@ -116,4 +119,3 @@ I come with the real like respectin in rule
 Cause me and my peoples around the way remain cool
 So it's back to the block time to play
 It's just another day, around the wha, around the muthafuckin way
-

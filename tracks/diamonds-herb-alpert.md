@@ -1,8 +1,11 @@
 ---
+album: Keep Your Eye On Me
 artists:
 - Herb Alpert
+external_ids:
+  spotify: spotify:track:4sqqkZdSdFqcEtvO9KFJVX
 features: []
-genres: []
+first_released_as_single: false
 key: diamonds-herb-alpert
 lyrics_url: https://www.azlyrics.com/lyrics/herbalpert/diamonds.html
 name: Diamonds
@@ -83,8 +86,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1987-08-15'
+release_year: 1987
+runtime: 293866
 ---
-
 You told me you love me
 You told me you care
 
@@ -141,6 +145,3 @@ Don't want your money
 Don't want your key
 
 Diamonds - love don't come for free
-
-
-

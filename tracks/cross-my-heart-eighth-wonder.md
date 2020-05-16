@@ -1,8 +1,11 @@
 ---
+album: Fearless
 artists:
 - Eighth Wonder
+external_ids:
+  spotify: spotify:track:1R5VfmRxcvlPdMtTi3IOv0
 features: []
-genres: []
+first_released_as_single: false
 key: cross-my-heart-eighth-wonder
 lyrics_url: https://genius.com/Eighth-wonder-cross-my-heart-lyrics
 name: Cross My Heart
@@ -71,6 +74,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1989-03-04'
+release_year: 1988
+runtime: 208026
 ---
 Cross my heart
 Hypnotised, with just one look at you

@@ -1,8 +1,12 @@
 ---
+album: Ultimate Laughs
 artists:
-- Bill Engvall With Special Guest Travis Tritt
-features: []
-genres: []
+- Bill Engvall
+external_ids:
+  spotify: spotify:track:7BDQ7lfI6JBLDr7ucZcScv
+features:
+- Travis Tritt
+first_released_as_single: true
 key: here-s-your-sign--get-the-picture--bill-engvall-with-special-guest-travis-tritt
 name: Here's Your Sign (Get The Picture)
 rankings:
@@ -86,5 +90,7 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '1997-07-05'
+release_year: 1996
+runtime: 220173
 ---
 

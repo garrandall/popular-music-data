@@ -1,8 +1,11 @@
 ---
+album: More Than Physical
 artists:
 - Christopher Max
+external_ids:
+  spotify: spotify:track:2Y3299bX3dNCgtsXv2DZ67
 features: []
-genres: []
+first_released_as_single: false
 key: serious-kinda-girl-christopher-max
 lyrics_url: https://genius.com/Christopher-max-serious-kinda-girl-lyrics
 name: Serious Kinda Girl
@@ -39,6 +42,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1990-01-20'
+release_year: 1989
+runtime: 281800
 ---
 Oh, Chris
 Oh

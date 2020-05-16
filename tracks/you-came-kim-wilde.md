@@ -1,8 +1,11 @@
 ---
+album: Close
 artists:
 - Kim Wilde
+external_ids:
+  spotify: spotify:track:2mXvx5UORysNIFVnsuo3kc
 features: []
-genres: []
+first_released_as_single: false
 key: you-came-kim-wilde
 lyrics_url: https://genius.com/Kim-wilde-you-came-lyrics
 name: You Came
@@ -47,6 +50,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1988-11-19'
+release_year: 1988
+runtime: 208520
 ---
 Someone I know is staring at me
 And when I look into her eyes

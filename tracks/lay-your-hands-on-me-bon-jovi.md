@@ -1,8 +1,11 @@
 ---
+album: New Jersey
 artists:
 - Bon Jovi
+external_ids:
+  spotify: spotify:track:4oNktvBDV8PNZqZh6MgwZ3
 features: []
-genres: []
+first_released_as_single: false
 key: lay-your-hands-on-me-bon-jovi
 lyrics_url: https://www.azlyrics.com/lyrics/bonjovi/layyourhandsonme.html
 name: Lay Your Hands On Me
@@ -71,8 +74,9 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1989-09-16'
+release_year: 1988
+runtime: 358760
 ---
-
 They say that to really free your body
 You've gotta free your mind
 So come on
@@ -152,6 +156,3 @@ Lay your hands on me
 Lay your hands on me
 Lay your hands on me
 Lay your hands on me
-
-
-

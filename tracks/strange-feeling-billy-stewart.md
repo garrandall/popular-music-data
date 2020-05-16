@@ -1,8 +1,11 @@
 ---
+album: I Do Love You
 artists:
 - Billy Stewart
+external_ids:
+  spotify: spotify:track:5nEr8XUI4oWHD4VLZ8ec3c
 features: []
-genres: []
+first_released_as_single: false
 key: strange-feeling-billy-stewart
 lyrics_url: https://genius.com/Billy-stewart-strange-feeling-lyrics
 name: Strange Feeling
@@ -31,6 +34,8 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1963-11-02'
+release_year: 1963
+runtime: 133693
 ---
 I have lived my life
 My life, my, my life

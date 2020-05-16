@@ -1,8 +1,11 @@
 ---
+album: 3 Hearts In The Happy Ending Machine
 artists:
 - Daryl Hall
+external_ids:
+  spotify: spotify:track:5ViezGjtsBX64ba2d7KWvi
 features: []
-genres: []
+first_released_as_single: false
 key: someone-like-you-daryl-hall
 lyrics_url: https://www.azlyrics.com/lyrics/darylhall/someonelikeyou.html
 name: Someone Like You
@@ -39,8 +42,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1987-03-14'
+release_year: 1986
+runtime: 333040
 ---
-
 Only you could ever know
 How hard it was for me to let you go
 Hard to face all those nights
@@ -70,6 +74,3 @@ Somebody like you
 Someone to take your place
 Somebody like you
 Someone to fill this empty space
-
-
-

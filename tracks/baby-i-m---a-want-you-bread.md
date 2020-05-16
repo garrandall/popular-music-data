@@ -1,8 +1,11 @@
 ---
+album: Baby I'm-a Want You
 artists:
 - Bread
+external_ids:
+  spotify: spotify:track:7IX2e7pEShera9T1QIMvi7
 features: []
-genres: []
+first_released_as_single: false
 key: baby-i-m---a-want-you-bread
 lyrics_url: https://genius.com/Bread-baby-im-a-want-you-lyrics
 name: Baby I'm - A Want You
@@ -55,6 +58,8 @@ rankings:
   rank: 34
   ranking_list: Billboard Hot 100
   start_date: '1972-01-08'
+release_year: 1971
+runtime: 150706
 ---
 Baby, I'm-a want you
 Baby, I'm-a need you

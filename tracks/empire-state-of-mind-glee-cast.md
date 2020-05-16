@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music, Volume 4'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:7pYVIpuFrH2cDMseplG8Jn
 features: []
-genres: []
+first_released_as_single: false
 key: empire-state-of-mind-glee-cast
 lyrics_url: https://genius.com/Glee-cast-empire-state-of-mind-lyrics
 name: Empire State Of Mind
@@ -15,6 +18,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2010-10-16'
+release_year: 2010
+runtime: 277346
 ---
 Yeah
 Yeah, I'm out that Brooklyn, now I'm down in Tribeca

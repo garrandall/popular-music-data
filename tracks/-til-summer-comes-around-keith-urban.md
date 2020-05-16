@@ -1,8 +1,11 @@
 ---
+album: Defying Gravity
 artists:
 - Keith Urban
+external_ids:
+  spotify: spotify:track:1CKmI1IQjVEVB3F7VmJmM3
 features: []
-genres: []
+first_released_as_single: false
 key: -til-summer-comes-around-keith-urban
 lyrics_url: https://www.azlyrics.com/lyrics/keithurban/tilsummercomesaround.html
 name: '''Til Summer Comes Around'
@@ -71,8 +74,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2010-05-15'
+release_year: 2009
+runtime: 331466
 ---
-
 Another long summer's come and gone
 I don't know why it always ends this way
 The boardwalk's quiet and the carnival rides
@@ -109,6 +113,3 @@ And "Baby I'll be back again" you whispered in my ear
 But now the winter wind is the only sound
 And everything is closing down
 'Til summer comes around
-
-
-

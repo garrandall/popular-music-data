@@ -1,8 +1,11 @@
 ---
+album: THE E.N.D. (THE ENERGY NEVER DIES)
 artists:
 - The Black Eyed Peas
+external_ids:
+  spotify: spotify:track:793EkKfnsmJljhpxfMPmKG
 features: []
-genres: []
+first_released_as_single: false
 key: the-time--dirty-bit--the-black-eyed-peas
 lyrics_url: https://www.azlyrics.com/lyrics/blackeyedpeas/thetimethedirtybit.html
 name: The Time (Dirty Bit)
@@ -87,8 +90,9 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '2011-04-09'
+release_year: 2009
+runtime: 283586
 ---
-
 (This is international)
 (Big mega radio smasher)
 
@@ -206,6 +210,3 @@ And I swear-wear this is true-ue-ue-ue
 And I owe it all to you
 
 ... dirty bit
-
-
-

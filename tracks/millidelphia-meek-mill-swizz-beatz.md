@@ -1,9 +1,12 @@
 ---
+album: Legends of the Summer
 artists:
 - Meek Mill
+external_ids:
+  spotify: spotify:track:5fb2YEZCyeK9Q3mwKDfCsi
 features:
 - Swizz Beatz
-genres: []
+first_released_as_single: true
 key: millidelphia-meek-mill-swizz-beatz
 lyrics_url: https://www.azlyrics.com/lyrics/meekmill/millidelphia.html
 name: Millidelphia
@@ -12,9 +15,9 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '2018-07-21'
+release_year: 2018
+runtime: 215838
 ---
-
-
 Wooh
 Show time
 King's back, ah
@@ -125,6 +128,3 @@ I get gone, take a jet to Dubai
 You're not a hundred, nigga, 75
 You playing big, must be ready to die, nigga for f'ing with I
 Meek!
-
-
-

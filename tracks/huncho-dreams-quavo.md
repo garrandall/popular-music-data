@@ -1,8 +1,11 @@
 ---
+album: QUAVO HUNCHO
 artists:
 - Quavo
+external_ids:
+  spotify: spotify:track:7pVzUPjJ83QojsVcOthmxP
 features: []
-genres: []
+first_released_as_single: false
 key: huncho-dreams-quavo
 lyrics_url: https://www.azlyrics.com/lyrics/quavo/hunchodreams.html
 name: Huncho Dreams
@@ -11,8 +14,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2018-10-27'
+release_year: 2018
+runtime: 211963
 ---
-
 What's happenin', Uncle G?
 How you doin' this mornin'?
 Good mornin', brother
@@ -119,6 +123,3 @@ Get her that iced out chung-chung (Bling, bling, blaow)
 Put the tab on Huncho
 (Huncho, this that Huncho)
 Woo
-
-
-

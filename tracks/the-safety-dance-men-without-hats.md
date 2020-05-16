@@ -1,8 +1,11 @@
 ---
+album: Rhythm Of Youth
 artists:
 - Men Without Hats
+external_ids:
+  spotify: spotify:track:2IqPRjJAcLvPqAEbnB2VJz
 features: []
-genres: []
+first_released_as_single: false
 key: the-safety-dance-men-without-hats
 lyrics_url: https://genius.com/Men-without-hats-the-safety-dance-lyrics
 name: The Safety Dance
@@ -103,6 +106,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1983-12-03'
+release_year: 1983
+runtime: 278226
 ---
 We can dance if we want to
 We can leave your friends behind

@@ -1,8 +1,11 @@
 ---
+album: Cannonball
 artists:
 - Pat Green
+external_ids:
+  spotify: spotify:track:4jVipHalgvFVz3Smp4aQID
 features: []
-genres: []
+first_released_as_single: false
 key: feels-just-like-it-should-pat-green
 lyrics_url: https://www.azlyrics.com/lyrics/patgreen/feelsjustlikeitshould.html
 name: Feels Just Like It Should
@@ -19,8 +22,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2006-09-23'
+release_year: 2006
+runtime: 227026
 ---
-
 Let's jump in my El Camino - Uh huh
 Roll the windows down
 Thought we could see what kind of trouble 
@@ -68,6 +72,3 @@ Awww it's almost spiritual
 Tomorrow's nowhere in sight 
 Right now, right here tonight 
 It feels just like it should
-
-
-

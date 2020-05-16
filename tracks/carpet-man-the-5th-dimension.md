@@ -1,8 +1,11 @@
 ---
+album: Magic Garden
 artists:
 - The 5th Dimension
+external_ids:
+  spotify: spotify:track:0WPAI2TFUh3BtduMVqYbI8
 features: []
-genres: []
+first_released_as_single: false
 key: carpet-man-the-5th-dimension
 lyrics_url: https://www.azlyrics.com/lyrics/5thdimension/carpetman.html
 name: Carpet Man
@@ -43,8 +46,9 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1968-03-30'
+release_year: 1968
+runtime: 185560
 ---
-
 When you see some puddles on the ground
 You lay down, so she don't have to walk around
 You think that will protect her from the rain
@@ -81,6 +85,3 @@ Carpet man
 Carpet man
 Carpet man
 Carpet man
-
-
-

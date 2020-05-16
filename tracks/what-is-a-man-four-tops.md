@@ -1,8 +1,11 @@
 ---
+album: Four Tops Now
 artists:
 - Four Tops
+external_ids:
+  spotify: spotify:track:0vvrl5WVLIS02b55kcJutR
 features: []
-genres: []
+first_released_as_single: false
 key: what-is-a-man-four-tops
 lyrics_url: https://genius.com/The-four-tops-what-is-a-man-lyrics
 name: What Is A Man
@@ -35,6 +38,8 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '1969-06-21'
+release_year: 1969
+runtime: 158493
 ---
 A man can walk proudly
 Down in the street

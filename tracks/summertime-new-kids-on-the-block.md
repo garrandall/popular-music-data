@@ -1,8 +1,11 @@
 ---
+album: The Block
 artists:
 - New Kids On The Block
+external_ids:
+  spotify: spotify:track:6WZ7g8fpIXkf1ySWn3GA5O
 features: []
-genres: []
+first_released_as_single: false
 key: summertime-new-kids-on-the-block
 lyrics_url: https://genius.com/New-kids-on-the-block-summertime-lyrics
 name: Summertime
@@ -59,6 +62,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2008-08-23'
+release_year: 2008
+runtime: 202413
 ---
 Jones Beach, 1988
 Come on

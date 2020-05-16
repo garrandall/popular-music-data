@@ -1,8 +1,11 @@
 ---
+album: Somebody's Waiting
 artists:
 - Anne Murray
+external_ids:
+  spotify: spotify:track:13l7SWKwqZQSrLBycU1MWe
 features: []
-genres: []
+first_released_as_single: false
 key: lucky-me-anne-murray
 lyrics_url: https://www.azlyrics.com/lyrics/annemurray/luckyme.html
 name: Lucky Me
@@ -39,8 +42,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1980-05-24'
+release_year: 1980
+runtime: 190200
 ---
-
 There must be thousands of people out there
 Who search for love and find more than their share
 They seem to fall into it naturally
@@ -68,6 +72,3 @@ Oh my heart aches impatiently
 Oh when will it ever be lucky me?
 
 When will it ever be lucky me?
-
-
-

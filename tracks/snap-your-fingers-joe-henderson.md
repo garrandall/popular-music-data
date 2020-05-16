@@ -1,8 +1,11 @@
 ---
+album: Snap Your Fingers
 artists:
 - Joe Henderson
+external_ids:
+  spotify: spotify:track:6YN1ntSXbJVaLgjTrdCTmN
 features: []
-genres: []
+first_released_as_single: false
 key: snap-your-fingers-joe-henderson
 lyrics_url: https://genius.com/Joe-henderson-snap-your-fingers-lyrics
 name: Snap Your Fingers
@@ -55,6 +58,8 @@ rankings:
   rank: 36
   ranking_list: Billboard Hot 100
   start_date: '1962-08-04'
+release_year: 1962
+runtime: 181744
 ---
 Snap your fingers, I'll come runnin'
 Back to you-ou on bended knee

@@ -1,8 +1,11 @@
 ---
+album: 12 Play
 artists:
 - R. Kelly
+external_ids:
+  spotify: spotify:track:0zGKTpNjalQ14JPFB5PWMI
 features: []
-genres: []
+first_released_as_single: false
 key: summer-bunnies-r--kelly
 lyrics_url: https://www.azlyrics.com/lyrics/rkelly/summerbunnies.html
 name: Summer Bunnies
@@ -35,8 +38,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1994-10-01'
+release_year: 1993
+runtime: 254506
 ---
-
 Girl, you know you knock me out
 You're a real girl with your looks now baby
 Girl you know you knock me out
@@ -105,4 +109,3 @@ With the brothers yellin', summer bunnies
 
 Let's break it down -
 You're lookin' feel good with your boots on, baby
-

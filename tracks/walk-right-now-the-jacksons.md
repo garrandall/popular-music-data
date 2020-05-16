@@ -1,8 +1,11 @@
 ---
+album: Triumph
 artists:
 - The Jacksons
+external_ids:
+  spotify: spotify:track:636zOfAbRFPzeSImlRS3cm
 features: []
-genres: []
+first_released_as_single: false
 key: walk-right-now-the-jacksons
 lyrics_url: https://genius.com/The-jacksons-walk-right-now-lyrics
 name: Walk Right Now
@@ -23,6 +26,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1981-07-18'
+release_year: 1980
+runtime: 388586
 ---
 Here, when all my work is done
 She calls and she says, dear, can I come?

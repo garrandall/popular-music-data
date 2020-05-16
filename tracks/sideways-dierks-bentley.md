@@ -1,8 +1,11 @@
 ---
+album: Feel That Fire
 artists:
 - Dierks Bentley
+external_ids:
+  spotify: spotify:track:19DnL1HnJiijuEfaiS0Eus
 features: []
-genres: []
+first_released_as_single: false
 key: sideways-dierks-bentley
 lyrics_url: https://www.azlyrics.com/lyrics/dierksbentley/sideways.html
 name: Sideways
@@ -87,8 +90,9 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '2009-08-29'
+release_year: 2009
+runtime: 184160
 ---
-
 Hey girl, what's your name?
 It's so loud in here I can't hear a thing
 But I sure do like your style
@@ -144,6 +148,3 @@ Sideways... sideways... sideways
 
 Hey girl what's your name?
 It's so loud in here I can't hear a thing...
-
-
-

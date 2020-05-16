@@ -1,8 +1,11 @@
 ---
+album: Death Magnetic
 artists:
 - Metallica
+external_ids:
+  spotify: spotify:track:6qIleHbUTXcGfBfQ8h0R2n
 features: []
-genres: []
+first_released_as_single: false
 key: my-apocalypse-metallica
 lyrics_url: https://genius.com/Metallica-my-apocalypse-lyrics
 name: My Apocalypse
@@ -11,6 +14,8 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '2008-09-13'
+release_year: 2008
+runtime: 301013
 ---
 Claustrophobic
 Crawl out of this skin

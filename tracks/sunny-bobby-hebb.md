@@ -1,8 +1,11 @@
 ---
+album: Sunny
 artists:
 - Bobby Hebb
+external_ids:
+  spotify: spotify:track:4vju55Ag7apDL2CfotuE7Q
 features: []
-genres: []
+first_released_as_single: false
 key: sunny-bobby-hebb
 lyrics_url: https://genius.com/Bobby-hebb-sunny-lyrics
 name: Sunny
@@ -67,6 +70,8 @@ rankings:
   rank: 33
   ranking_list: Billboard Hot 100
   start_date: '1966-10-01'
+release_year: 1966
+runtime: 165066
 ---
 Sunny, yesterday my life was filled with rain
 Sunny, you smiled at me and really eased the pain

@@ -1,8 +1,11 @@
 ---
+album: Just Another Day in Paradise
 artists:
 - Bertie Higgins
+external_ids:
+  spotify: spotify:track:3tuXXVxJgEgDV02OE28i9u
 features: []
-genres: []
+first_released_as_single: false
 key: key-largo-bertie-higgins
 lyrics_url: https://genius.com/Bertie-higgins-key-largo-lyrics
 name: Key Largo
@@ -123,6 +126,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1982-05-29'
+release_year: 1981
+runtime: 200173
 ---
 Wrapped around each other
 Trying so hard to stay warm

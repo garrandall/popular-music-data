@@ -1,8 +1,11 @@
 ---
+album: Let's Hear It for the Boy
 artists:
 - Deniece Williams
+external_ids:
+  spotify: spotify:track:129uwhMOmk58dLfK7dti75
 features: []
-genres: []
+first_released_as_single: false
 key: next-love-deniece-williams
 lyrics_url: https://www.azlyrics.com/lyrics/deniecewilliams/nextlove.html
 name: Next Love
@@ -23,8 +26,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1984-09-01'
+release_year: 1984
+runtime: 275786
 ---
-
 Ohohooh.
 Ohohoohhoh,ohah
 
@@ -80,6 +84,3 @@ He'll break your, he'll break your
 He'll make you fall in love, oh-whoa, girl
 He'll break your, he'll break your
 He'll break your, break your heart...
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Johnny Winter And / Live
 artists:
 - Johnny Winter
+external_ids:
+  spotify: spotify:track:3mnMs8Newbbv5O1yoijeOQ
 features: []
-genres: []
+first_released_as_single: false
 key: jumpin--jack-flash-johnny-winter
 lyrics_url: https://genius.com/Johnny-winter-jumpin-jack-flash-lyrics
 name: Jumpin' Jack Flash
@@ -15,6 +18,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1971-05-08'
+release_year: 1971
+runtime: 265360
 ---
 I was born in a crossfire Hurricane
 In a house (mama) in the fallin rain

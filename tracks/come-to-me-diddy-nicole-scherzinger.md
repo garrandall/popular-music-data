@@ -1,9 +1,12 @@
 ---
+album: Press Play
 artists:
 - Diddy
+external_ids:
+  spotify: spotify:track:1unO85fSNONHm2zklxkolp
 features:
 - Nicole Scherzinger
-genres: []
+first_released_as_single: true
 key: come-to-me-diddy-nicole-scherzinger
 lyrics_url: https://www.azlyrics.com/lyrics/diddy/cometome.html
 name: Come To Me
@@ -88,9 +91,9 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '2007-01-27'
+release_year: 2006
+runtime: 241733
 ---
-
-
 It's Bad Boy bitch
 Do it do it do it do it
 Do it do it do it do it
@@ -180,6 +183,3 @@ Do it, do it
 You know what this is
 It's Bad Boy bitch
 Press Play!
-
-
-

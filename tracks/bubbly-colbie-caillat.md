@@ -1,8 +1,11 @@
 ---
+album: Coco
 artists:
 - Colbie Caillat
+external_ids:
+  spotify: spotify:track:0rFOs9paloAvEtzwDX1Kmc
 features: []
-genres: []
+first_released_as_single: false
 key: bubbly-colbie-caillat
 lyrics_url: https://www.azlyrics.com/lyrics/colbiecaillat/bubbly.html
 name: Bubbly
@@ -195,8 +198,9 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2008-05-31'
+release_year: 2007
+runtime: 196280
 ---
-
 Will you count me in?
 
 I've been awake for a while now
@@ -264,6 +268,3 @@ Wherever you go
 I always know
 'Cause you make me smile
 Even just for a while
-
-
-

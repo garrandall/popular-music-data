@@ -1,8 +1,11 @@
 ---
+album: I Can't Stand Still
 artists:
 - Don Henley
+external_ids:
+  spotify: spotify:track:5CF1tiBY1XB6vzDVSnxbyg
 features: []
-genres: []
+first_released_as_single: false
 key: i-can-t-stand-still-don-henley
 lyrics_url: https://www.azlyrics.com/lyrics/donhenley/icantstandstill.html
 name: I Can't Stand Still
@@ -51,8 +54,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1983-03-26'
+release_year: 1982
+runtime: 214174
 ---
-
 I know you love me
 You know I love you too
 You know I always will
@@ -98,6 +102,3 @@ Baby, I can't stand still (while he=s holding you)
 I can't stand still (while he's kissing you)
 And baby, I can't stand still (while he's holding you)
 I can't stand still (while he's touching you)
-
-
-

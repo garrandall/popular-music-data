@@ -1,8 +1,11 @@
 ---
+album: Sticky Fingers
 artists:
 - The Rolling Stones
+external_ids:
+  spotify: spotify:track:61UuPxxYUvacEH6SHIK3sU
 features: []
-genres: []
+first_released_as_single: false
 key: brown-sugar-the-rolling-stones
 lyrics_url: https://www.azlyrics.com/lyrics/rollingstones/brownsugar.html
 name: Brown Sugar
@@ -55,8 +58,9 @@ rankings:
   rank: 31
   ranking_list: Billboard Hot 100
   start_date: '1971-07-17'
+release_year: 1971
+runtime: 228666
 ---
-
 Gold coast slave ship bound for cotton fields
 Sold in a market down in New Orleans
 Skydog slaver knows he's doing alright
@@ -89,6 +93,3 @@ How come you... how come you taste so good?
 Yeah, yeah, yeah, woo
 Just like a... just like a black girl should
 Yeah, yeah, yeah, woo
-
-
-

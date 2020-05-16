@@ -1,8 +1,11 @@
 ---
+album: Blah Blah Blah
 artists:
 - Blahzay Blahzay
+external_ids:
+  spotify: spotify:track:5hHdrN23SMuJkAsoyUcN24
 features: []
-genres: []
+first_released_as_single: false
 key: danger-blahzay-blahzay
 lyrics_url: https://genius.com/Blahzay-blahzay-danger-lyrics
 name: Danger
@@ -87,6 +90,8 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1996-02-17'
+release_year: 1995
+runtime: 225266
 ---
 Put out the word Blahzay has emerged –
 Surged – most preferred from the verbs and words

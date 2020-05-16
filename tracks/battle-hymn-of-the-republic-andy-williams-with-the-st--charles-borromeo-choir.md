@@ -1,8 +1,11 @@
 ---
+album: SONGS OF FAITH
 artists:
 - Andy Williams
+external_ids:
+  spotify: spotify:track:3ydLHGi5mSeYWLyRzRueo1
 features: []
-genres: []
+first_released_as_single: false
 key: battle-hymn-of-the-republic-andy-williams-with-the-st--charles-borromeo-choir
 lyrics_url: https://genius.com/Andy-williams-battle-hymn-of-the-republic-lyrics
 name: Battle Hymn Of The Republic
@@ -59,6 +62,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1969-01-11'
+release_year: 1968
+runtime: 208440
 ---
 Mine eyes have seen the glory of the coming of the Lord
 He is trampling out the vintage where the grapes of wrath are stored

@@ -1,8 +1,11 @@
 ---
+album: The Essential Henry Mancini
 artists:
 - Henry Mancini
+external_ids:
+  spotify: spotify:track:0rcEA09uIGmaZJxSCY0ovD
 features: []
-genres: []
+first_released_as_single: false
 key: the-pink-panther-theme-henry-mancini-and-his-orchestra
 lyrics_url: https://www.musixmatch.com/lyrics/Henry-Mancini-and-His-Orchestra-Chorus/The-Pink-Panther-Theme
 name: The Pink Panther Theme
@@ -39,6 +42,8 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '1964-05-23'
+release_year: 1958
+runtime: 157533
 ---
 Think of all the animals you've ever heard about
 Like rhinoceroses and tigers, cats and mink

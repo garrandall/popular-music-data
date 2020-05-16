@@ -1,8 +1,11 @@
 ---
+album: ICY
 artists:
 - Saweetie
+external_ids:
+  spotify: spotify:track:5KBARWIxeMGkvUax9VtVC9
 features: []
-genres: []
+first_released_as_single: false
 key: my-type-saweetie
 lyrics_url: https://genius.com/Saweetie-my-type-lyrics
 name: My Type
@@ -87,6 +90,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2019-11-23'
+release_year: 2019
+runtime: 126446
 ---
 Hennessy on my lips, take a little sip
 Privacy on the door, I'ma make the shit grip

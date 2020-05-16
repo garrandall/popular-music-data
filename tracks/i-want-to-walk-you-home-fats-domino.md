@@ -1,8 +1,11 @@
 ---
+album: Fats Domino
 artists:
 - Fats Domino
+external_ids:
+  spotify: spotify:track:1bVwknrCjcorUNOto6YwRo
 features: []
-genres: []
+first_released_as_single: false
 key: i-want-to-walk-you-home-fats-domino
 lyrics_url: https://www.azlyrics.com/lyrics/fatsdomino/iwanttowalkyouhome.html
 name: I Want To Walk You Home
@@ -59,8 +62,9 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '1959-11-02'
+release_year: 1959
+runtime: 108122
 ---
-
 I want to walk you home
 please let me walk you home
 I want to walk you home
@@ -94,4 +98,3 @@ you look so good to me oowee
 
 That's why I want to walk you home...
 That's why I want to walk you home...
-

@@ -1,8 +1,11 @@
 ---
+album: Unconditional
 artists:
 - Clay Davidson
+external_ids:
+  spotify: spotify:track:2vmL6YN8FcqbcHQcmv0BVh
 features: []
-genres: []
+first_released_as_single: false
 key: unconditional-clay-davidson
 lyrics_url: https://genius.com/Clay-davidson-unconditional-lyrics
 name: Unconditional
@@ -87,6 +90,8 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '2000-08-05'
+release_year: 2000
+runtime: 240960
 ---
 Daddy waited up
 In the kitchen by himself

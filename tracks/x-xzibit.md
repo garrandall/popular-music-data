@@ -1,8 +1,11 @@
 ---
+album: Restless
 artists:
 - Xzibit
+external_ids:
+  spotify: spotify:track:6tV9gI3IGD8Dwavbfb4FZN
 features: []
-genres: []
+first_released_as_single: false
 key: x-xzibit
 lyrics_url: https://genius.com/Xzibit-x-lyrics
 name: X
@@ -47,6 +50,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2001-03-03'
+release_year: 1999
+runtime: 215866
 ---
 Yeah! Ladies and gentleman
 Broadcastin' live to you and yours

@@ -1,8 +1,11 @@
 ---
+album: Too Rye Ay
 artists:
 - Dexys Midnight Runners
+external_ids:
+  spotify: spotify:track:3MrWxJaD2AT0W9DjWF64Vm
 features: []
-genres: []
+first_released_as_single: false
 key: come-on-eileen-dexys-midnight-runners
 lyrics_url: https://www.azlyrics.com/lyrics/dexysmidnightrunners/comeoneileen.html
 name: Come On Eileen
@@ -99,8 +102,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1983-06-25'
+release_year: 1982
+runtime: 287306
 ---
-
 Come on Eileen
 Come on Eileen
 
@@ -186,6 +190,3 @@ Well, they're dirty
 Come on Eileen
 
 Come on Eileen
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Speak Her Name (Expanded)
 artists:
 - Walter Jackson
+external_ids:
+  spotify: spotify:track:6uW1WepoIJD03mTPSIGHgu
 features: []
-genres: []
+first_released_as_single: false
 key: speak-her-name-walter-jackson
 lyrics_url: https://www.musixmatch.com/lyrics/Walter-Jackson/Speak-Her-Name
 name: Speak Her Name
@@ -15,6 +18,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1967-04-22'
+release_year: 1967
+runtime: 162386
 ---
 Speak her name
 And I get misty eyed

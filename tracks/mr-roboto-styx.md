@@ -1,8 +1,11 @@
 ---
+album: Kilroy Was Here
 artists:
 - Styx
+external_ids:
+  spotify: spotify:track:7C0rG4oWO7VeZcffyW1sK9
 features: []
-genres: []
+first_released_as_single: false
 key: mr-roboto-styx
 lyrics_url: https://www.azlyrics.com/lyrics/styx/mrroboto.html
 name: Mr Roboto
@@ -79,8 +82,9 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1983-06-11'
+release_year: 1983
+runtime: 328706
 ---
-
 Domo arigato, Mr. Roboto ,
 Mata au hi made 
 Domo arigato, Mr. Roboto ,
@@ -137,6 +141,3 @@ Now everyone can see (secret secret I've got a secret)
 My true identity...
 
 I'm Kilroy! Kilroy! Kilroy! Kilroy!
-
-
-

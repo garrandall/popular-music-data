@@ -1,8 +1,11 @@
 ---
+album: Playboy
 artists:
 - The Marvelettes
+external_ids:
+  spotify: spotify:track:1vFNrZld2sLrmxwLIO1r1L
 features: []
-genres: []
+first_released_as_single: false
 key: beechwood-4-5789-the-marvelettes
 lyrics_url: https://www.azlyrics.com/lyrics/marvelettes/beechwood45789.html
 name: Beechwood 4-5789
@@ -51,8 +54,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1962-10-20'
+release_year: 1962
+runtime: 133613
 ---
-
 You can have this dance with me
 You can hold my hand and whisper in my ear
 Sweet words that I love to hear
@@ -75,6 +79,3 @@ I'd like to make you mine
 
 And my number is beechwood 4-5789
 You can call me up and have a date any old time
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Boogie Down U.S.A.
 artists:
 - People's Choice
+external_ids:
+  spotify: spotify:track:5lwBIwUdOBzVkRan4v5CmP
 features: []
-genres: []
+first_released_as_single: false
 key: do-it-any-way-you-wanna-people-s-choice
 lyrics_url: https://genius.com/Peoples-choice-do-it-any-way-you-wanna-lyrics
 name: Do It Any Way You Wanna
@@ -71,6 +74,8 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '1975-12-06'
+release_year: 1972
+runtime: 191960
 ---
 Do it any way you wanna do it
 Do it any way you wanna

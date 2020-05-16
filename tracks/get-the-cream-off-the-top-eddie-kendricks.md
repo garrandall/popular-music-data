@@ -1,8 +1,11 @@
 ---
+album: The Hit Man
 artists:
 - Eddie Kendricks
+external_ids:
+  spotify: spotify:track:1p8EoANWLLf24wrGnyzWOw
 features: []
-genres: []
+first_released_as_single: false
 key: get-the-cream-off-the-top-eddie-kendricks
 lyrics_url: https://www.azlyrics.com/lyrics/eddiekendricks/getthecreamoffthetop.html
 name: Get The Cream Off The Top
@@ -39,8 +42,9 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1975-08-30'
+release_year: 1975
+runtime: 187440
 ---
-
 Don't be afraid
 To pleasure yourself
 Can't you remember
@@ -109,6 +113,3 @@ And I'll belong to you
 Come get the cream off the top
 Come get the best that I got
 And your dreams'll come true...
-
-
-

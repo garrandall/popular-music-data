@@ -1,9 +1,12 @@
 ---
+album: Plain Jane REMIX
 artists:
 - A$AP Ferg
+external_ids:
+  spotify: spotify:track:2XNbZvHZOUaYKy7vjY60x2
 features:
 - Nicki Minaj
-genres: []
+first_released_as_single: true
 key: plain-jane-a-ap-ferg-nicki-minaj
 lyrics_url: https://genius.com/A-ap-ferg-plain-jane-remix-lyrics
 name: Plain Jane
@@ -108,6 +111,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '2018-03-24'
+release_year: 2017
+runtime: 202636
 ---
 Young Money
 Ayo, Ferg

@@ -1,8 +1,11 @@
 ---
+album: Commander Cody & His Lost Planet Airmen
 artists:
 - Commander Cody
+external_ids:
+  spotify: spotify:track:0Fu1KwXkWdYt4QVTxcE5vt
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-let-go-commander-cody
 lyrics_url: https://genius.com/Commander-cody-and-his-lost-planet-airmen-dont-let-go-lyrics
 name: Don't Let Go
@@ -31,6 +34,8 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '1975-03-29'
+release_year: 1975
+runtime: 160746
 ---
 Stone
 

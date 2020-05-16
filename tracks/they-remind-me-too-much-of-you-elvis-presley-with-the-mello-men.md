@@ -1,7 +1,8 @@
 ---
 artists:
-- Elvis Presley With The Mello Men
-features: []
+- Elvis Presley
+features:
+- The Mello Men
 genres: []
 key: they-remind-me-too-much-of-you-elvis-presley-with-the-mello-men
 name: They Remind Me Too Much Of You

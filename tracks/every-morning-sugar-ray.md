@@ -1,8 +1,11 @@
 ---
+album: '14:59'
 artists:
 - Sugar Ray
+external_ids:
+  spotify: spotify:track:2ouURa1AIXp3AvkS52Jry5
 features: []
-genres: []
+first_released_as_single: false
 key: every-morning-sugar-ray
 lyrics_url: https://www.azlyrics.com/lyrics/sugarray/everymorning.html
 name: Every Morning
@@ -131,8 +134,9 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1999-08-07'
+release_year: 1998
+runtime: 219866
 ---
-
 Every morning there's a halo hangin
 from the corner of my girlfriend's four post bed
 I know it's not mine but I'll see if I can use it for
@@ -192,6 +196,3 @@ Every Morning (Turn me around again)
 (Shut the door baby, don't say a word)
 Every Morning
 Every Morning
-
-
-

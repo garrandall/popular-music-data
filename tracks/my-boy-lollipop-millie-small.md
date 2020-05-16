@@ -1,8 +1,11 @@
 ---
+album: Ska's The Limit 1959-1964, Vol.1
 artists:
 - Millie Small
+external_ids:
+  spotify: spotify:track:4yb9nJL8YatoQbz6YPB3hl
 features: []
-genres: []
+first_released_as_single: false
 key: my-boy-lollipop-millie-small
 lyrics_url: https://genius.com/Millie-small-my-boy-lollipop-lyrics
 name: My Boy Lollipop
@@ -55,6 +58,8 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1964-08-08'
+release_year: 1964
+runtime: 120373
 ---
 My boy Lollipop
 You make my heart go giddyup

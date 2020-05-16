@@ -1,8 +1,11 @@
 ---
+album: Fever Freestyle Flashbacks
 artists:
 - D'zyre
+external_ids:
+  spotify: spotify:track:6Dy9ADyJYhwUT2wVqBRqBD
 features: []
-genres: []
+first_released_as_single: false
 key: forever-amo-r-d-zyre
 lyrics_url: https://genius.com/Dzyre-forever-amor-lyrics
 name: Forever Amo'r
@@ -43,6 +46,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1991-08-03'
+release_year: 1991
+runtime: 115093
 ---
 Hey girl, don't let this love just slip away
 The feelings that I feel for you

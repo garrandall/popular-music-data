@@ -1,8 +1,11 @@
 ---
+album: Takin' My Time
 artists:
 - After 7
+external_ids:
+  spotify: spotify:track:2QV1ZCi6q3QGp5PCqOqePg
 features: []
-genres: []
+first_released_as_single: false
 key: baby-i-m-for-real-after-7
 lyrics_url: https://genius.com/After-7-baby-im-for-real-natural-high-lyrics
 name: Baby I'm For Real
@@ -79,6 +82,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1993-03-06'
+release_year: 1992
+runtime: 308440
 ---
 Baby baby you don't understand
 How much I love you baby

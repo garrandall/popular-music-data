@@ -1,8 +1,11 @@
 ---
+album: Silk
 artists:
 - Silk
+external_ids:
+  spotify: spotify:track:7BihQhXm30m7nPFHVAeu7n
 features: []
-genres: []
+first_released_as_single: false
 key: hooked-on-you-silk
 lyrics_url: https://genius.com/Silk-hooked-on-you-lyrics
 name: Hooked On You
@@ -79,6 +82,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1996-03-02'
+release_year: 1995
+runtime: 289933
 ---
 (yeah)
 Mmm (come on)

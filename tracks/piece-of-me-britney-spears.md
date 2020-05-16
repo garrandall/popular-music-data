@@ -1,8 +1,11 @@
 ---
+album: Blackout
 artists:
 - Britney Spears
+external_ids:
+  spotify: spotify:track:2EvwLVrnYbCZEG6Kx5DCRy
 features: []
-genres: []
+first_released_as_single: false
 key: piece-of-me-britney-spears
 lyrics_url: https://www.azlyrics.com/lyrics/britneyspears/pieceofme.html
 name: Piece Of Me
@@ -87,8 +90,9 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '2008-03-29'
+release_year: 2007
+runtime: 212106
 ---
-
 I'm Miss American Dream since I was 17
 Don't matter if I step on the scene
 Or sneak away to the Philippines
@@ -165,6 +169,3 @@ I'm Mrs. She's Too Big Now She's Too Thin
 
 Piece of me
 You want a piece of me me
-
-
-

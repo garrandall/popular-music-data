@@ -1,8 +1,11 @@
 ---
+album: ATLiens
 artists:
 - OutKast
+external_ids:
+  spotify: spotify:track:2vfvGlqCB7oertO5VLE0sz
 features: []
-genres: []
+first_released_as_single: false
 key: atliens-outkast
 lyrics_url: https://www.azlyrics.com/lyrics/outkast/atliens.html
 name: ATLiens
@@ -75,9 +78,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1997-03-22'
+release_year: 1996
+runtime: 230693
 ---
-
-
 Well it's the M - I - crooked letter, ain't no one better
 And when I'm on the microphone you best to wear your sweater
 Cause I'm cooler than a polar bear's toenails
@@ -138,4 +141,3 @@ the job of speaking through us we be so sincere with this here
 No drugs or alcohol so I can get the signal clear as day
 Put my glock away I got a stronger weapon
 that never runs out of ammunition so I'm ready for war okay
-

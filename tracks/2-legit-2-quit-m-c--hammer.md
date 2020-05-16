@@ -1,8 +1,11 @@
 ---
+album: Too Legit To Quit
 artists:
 - M.C. Hammer
+external_ids:
+  spotify: spotify:track:4ZnKSrukEcPuMxGrcZEEh1
 features: []
-genres: []
+first_released_as_single: false
 key: 2-legit-2-quit-m-c--hammer
 lyrics_url: https://genius.com/Mc-hammer-2-legit-2-quit-lyrics
 name: 2 Legit 2 Quit
@@ -87,6 +90,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1992-03-21'
+release_year: 1991
+runtime: 333624
 ---
 Too legit... Too legit to quit
 Sweat running all over my chest

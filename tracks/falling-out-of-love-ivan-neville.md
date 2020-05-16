@@ -1,8 +1,11 @@
 ---
+album: If My Ancestors Could See Me Now
 artists:
 - Ivan Neville
+external_ids:
+  spotify: spotify:track:3w6Vyfw1iojw162SELI75Y
 features: []
-genres: []
+first_released_as_single: false
 key: falling-out-of-love-ivan-neville
 lyrics_url: https://www.musixmatch.com/lyrics/Ivan-Neville/Falling-Out-of-Love
 name: Falling Out Of Love
@@ -19,6 +22,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1989-03-11'
+release_year: 1988
+runtime: 225200
 ---
 Don't know why it seems like a long,
 Long time

@@ -1,8 +1,11 @@
 ---
+album: Best 80s Hits
 artists:
 - Huey Lewis & The News
+external_ids:
+  spotify: spotify:track:2olVm1lHicpveMAo4AUDRB
 features: []
-genres: []
+first_released_as_single: false
 key: the-power-of-love-huey-lewis-the-news
 lyrics_url: https://www.azlyrics.com/lyrics/hueylewisthenews/thepoweroflove.html
 name: The Power Of Love
@@ -83,8 +86,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1985-11-02'
+release_year: 1985
+runtime: 234333
 ---
-
 The power of love is a curious thing
 Make a one man weep, make another man sing
 Change a hawk to a little white dove
@@ -134,6 +138,3 @@ That's the power, that's the power of love
 You feel the power of love
 You feel the power of love
 Feel the power of love
-
-
-

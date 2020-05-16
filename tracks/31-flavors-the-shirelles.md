@@ -1,8 +1,11 @@
 ---
+album: It's A Mad, Mad, Mad, Mad World
 artists:
 - The Shirelles
+external_ids:
+  spotify: spotify:track:24mR7NmnxdNXxxYnZ4qOTf
 features: []
-genres: []
+first_released_as_single: false
 key: 31-flavors-the-shirelles
 lyrics_url: https://www.musixmatch.com/lyrics/The-Shirelles/31-Flavors
 name: 31 Flavors
@@ -11,6 +14,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1963-11-02'
+release_year: 1963
+runtime: 118333
 ---
 Got a baby who
 Can kiss in thirty-one flavors (and we like tutti-frutti best)

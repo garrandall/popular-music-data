@@ -1,9 +1,12 @@
 ---
+album: Winds Of Change (Mono Version)
 artists:
 - Eric Burdon
 - The Animals
+external_ids:
+  spotify: spotify:track:2IL8DHt6a6aoIakPqKA4Me
 features: []
-genres: []
+first_released_as_single: false
 key: anything-eric-burdon-the-animals
 lyrics_url: https://genius.com/Eric-burdon-and-the-animals-anything-lyrics
 name: Anything
@@ -24,6 +27,8 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '1968-05-04'
+release_year: 1965
+runtime: 201960
 ---
 For you, my friend, I'd do anything
 Shine your shoes, anything

@@ -1,8 +1,11 @@
 ---
+album: Greatest Hits
 artists:
 - The Hollies
+external_ids:
+  spotify: spotify:track:5DcB4bQNmczM5QXxvVoWtc
 features: []
-genres: []
+first_released_as_single: false
 key: on-a-carousel-the-hollies
 lyrics_url: https://www.azlyrics.com/lyrics/hollies/onacarousel.html
 name: On A Carousel
@@ -63,8 +66,9 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1967-06-17'
+release_year: 1967
+runtime: 192600
 ---
-
 Riding along on a carousel
 Trying to catch up to you
 Riding along on a carousel
@@ -110,6 +114,3 @@ No more chasing her
 On a carousel, on a carousel
 
 On a carousel, on a carousel
-
-
-

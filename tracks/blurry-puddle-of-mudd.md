@@ -1,8 +1,11 @@
 ---
+album: Come Clean
 artists:
 - Puddle Of Mudd
+external_ids:
+  spotify: spotify:track:6lSr3iZTC144PKhvbPFzMp
 features: []
-genres: []
+first_released_as_single: false
 key: blurry-puddle-of-mudd
 lyrics_url: https://www.azlyrics.com/lyrics/puddleofmudd/blurry.html
 name: Blurry
@@ -159,8 +162,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2002-09-07'
+release_year: 2001
+runtime: 304000
 ---
-
 Everything's so blurry
 And everyone's so fake
 And everybody's empty
@@ -242,6 +246,3 @@ You take it all away
 This pain you gave to me
 Take it all away
 This pain you gave to me
-
-
-

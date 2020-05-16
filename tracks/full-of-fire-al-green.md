@@ -1,8 +1,11 @@
 ---
+album: Full of Fire
 artists:
 - Al Green
+external_ids:
+  spotify: spotify:track:74hrm9x1vxIW7mSZgeyG7J
 features: []
-genres: []
+first_released_as_single: false
 key: full-of-fire-al-green
 lyrics_url: https://genius.com/Al-green-full-of-fire-lyrics
 name: Full Of Fire
@@ -51,6 +54,8 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '1976-01-17'
+release_year: 1975
+runtime: 315000
 ---
 I'm full of fire (Full of fire, full of fire)
 You're my one desire

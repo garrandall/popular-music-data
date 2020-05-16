@@ -1,8 +1,11 @@
 ---
+album: Temptation Eyes
 artists:
 - The Grass Roots
+external_ids:
+  spotify: spotify:track:2hyh1EDBxyUb0C6SOptiqP
 features: []
-genres: []
+first_released_as_single: false
 key: midnight-confessions-the-grass-roots
 lyrics_url: https://www.azlyrics.com/lyrics/grassroots/midnightconfessions.html
 name: Midnight Confessions
@@ -67,8 +70,9 @@ rankings:
   rank: 23
   ranking_list: Billboard Hot 100
   start_date: '1968-12-07'
+release_year: 1968
+runtime: 167400
 ---
-
 The sound of your footsteps
 Telling me that you're near
 Your soft gentle motion, baby
@@ -107,6 +111,3 @@ Na-na-na-na, na-na-na-na
 Na-na-na-na, na-na-na-na
 Na-na-na-na, na-na-na-na
 Na-na-na-na, na-na-na-na
-
-
-

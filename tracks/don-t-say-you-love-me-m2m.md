@@ -1,8 +1,11 @@
 ---
+album: Shades Of Purple
 artists:
 - M2M
+external_ids:
+  spotify: spotify:track:65i1UPsUtPlEVzewEZR6sY
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-say-you-love-me-m2m
 lyrics_url: https://genius.com/M2m-dont-say-you-love-me-lyrics
 name: Don't Say You Love Me
@@ -55,6 +58,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2000-02-05'
+release_year: 1999
+runtime: 225200
 ---
 Got introduced to you by a friend
 You were cute and all that

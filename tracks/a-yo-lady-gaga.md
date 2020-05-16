@@ -1,8 +1,11 @@
 ---
+album: Joanne
 artists:
 - Lady Gaga
+external_ids:
+  spotify: spotify:track:6Az2Ll2CPnWYQ2BgiHf4Di
 features: []
-genres: []
+first_released_as_single: false
 key: a-yo-lady-gaga
 lyrics_url: https://genius.com/Lady-gaga-a-yo-lyrics
 name: A-YO
@@ -11,6 +14,8 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '2016-11-12'
+release_year: 2016
+runtime: 207720
 ---
 Here we go!
 

@@ -1,8 +1,11 @@
 ---
+album: Broken Boy Soldiers
 artists:
 - The Raconteurs
+external_ids:
+  spotify: spotify:track:19iqWNzp5LwEdvntpEK8MP
 features: []
-genres: []
+first_released_as_single: false
 key: steady-as-she-goes-the-raconteurs
 lyrics_url: https://www.azlyrics.com/lyrics/raconteurs/steadyasshegoes.html
 name: Steady As She Goes
@@ -87,8 +90,9 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '2006-10-07'
+release_year: 2006
+runtime: 215266
 ---
-
 Find yourself a girl, and settle down
 Live a simple life in a quiet town
 
@@ -138,6 +142,3 @@ Are you steady now?
 Steady as she goes
 Are you steady now?
 Steady as she goes
-
-
-

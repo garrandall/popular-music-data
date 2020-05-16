@@ -1,8 +1,11 @@
 ---
+album: Hearsay
 artists:
 - Alexander O'Neal
+external_ids:
+  spotify: spotify:track:18ZRmY7kNZQQHpopsSVxwJ
 features: []
-genres: []
+first_released_as_single: false
 key: criticize-alexander-o-neal
 lyrics_url: https://www.musixmatch.com/lyrics/Alexander-O-Neal-2/Criticize
 name: Criticize
@@ -51,6 +54,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1988-01-23'
+release_year: 1987
+runtime: 247400
 ---
 Oh-oh
 (You don't realise)

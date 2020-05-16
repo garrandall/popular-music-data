@@ -1,9 +1,12 @@
 ---
+album: Black Panther The Album Music From And Inspired By
 artists:
 - Kendrick Lamar
 - SZA
+external_ids:
+  spotify: spotify:track:5RTVMR0OXWejMsK86IfR2l
 features: []
-genres: []
+first_released_as_single: true
 key: all-the-stars-kendrick-lamar-sza
 lyrics_url: https://www.azlyrics.com/lyrics/kendricklamar/allthestars.html
 name: All The Stars
@@ -92,9 +95,9 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '2018-06-09'
+release_year: 2018
+runtime: 235352
 ---
-
-
 Love, let's talk about love
 Is it anything and everything you hoped for?
 Or do the feeling haunt you?
@@ -163,6 +166,3 @@ This may be the night that my dreams might let me know
 All the stars are closer, all the stars are closer, all the stars are closer
 This may be the night that my dreams might let me know
 All the stars are closer, all the stars are closer, all the stars are closer
-
-
-

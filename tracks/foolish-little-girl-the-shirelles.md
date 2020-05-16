@@ -1,8 +1,11 @@
 ---
+album: Foolish Little Girl
 artists:
 - The Shirelles
+external_ids:
+  spotify: spotify:track:093adSf9ll30BEpggrfask
 features: []
-genres: []
+first_released_as_single: false
 key: foolish-little-girl-the-shirelles
 lyrics_url: https://www.azlyrics.com/lyrics/shirelles/foolishlittlegirl.html
 name: Foolish Little Girl
@@ -63,8 +66,9 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1963-06-22'
+release_year: 1963
+runtime: 137293
 ---
-
 "You broke his heart and made him cry and he's been blue since then"
 "Now he's found somebody new and you want him back again"
 
@@ -96,6 +100,3 @@ And there's not a single thing that you can do
 "Forget him cause he don't belong to you"
 "It's too late he's found somebody new"
 "There's not a single thing that you can do"
-
-
-

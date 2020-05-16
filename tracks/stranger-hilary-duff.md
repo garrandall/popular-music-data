@@ -1,8 +1,11 @@
 ---
+album: Dignity
 artists:
 - Hilary Duff
+external_ids:
+  spotify: spotify:track:6MF6ZR5nTWFWii3eBlkS8b
 features: []
-genres: []
+first_released_as_single: false
 key: stranger-hilary-duff
 lyrics_url: https://www.azlyrics.com/lyrics/hilaryduff/stranger.html
 name: Stranger
@@ -11,8 +14,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2007-08-04'
+release_year: 2007
+runtime: 250693
 ---
-
 Nobody believes me when I tell them that you're out of your mind.
 Nobody believes me when I tell them that there's so much you hide.
 You treat me like a queen when we go out,
@@ -65,6 +69,3 @@ You're not the person I once knew.
 Are you scared to let them know it's you?
 If they could only see you like I do,
 Then they would see a stranger too..
-
-
-

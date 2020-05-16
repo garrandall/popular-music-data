@@ -1,8 +1,11 @@
 ---
+album: Kenny
 artists:
 - Kenny Rogers
+external_ids:
+  spotify: spotify:track:6SFeCisbYSqaQwL9hucoF2
 features: []
-genres: []
+first_released_as_single: false
 key: you-decorated-my-life-kenny-rogers
 lyrics_url: https://www.azlyrics.com/lyrics/kennyrogers/youdecoratedmylife.html
 name: You Decorated My Life
@@ -79,8 +82,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1980-01-05'
+release_year: 1979
+runtime: 218133
 ---
-
 All my life was a paper
 Once plain, pure and white
 Till you moved with your pen
@@ -116,6 +120,3 @@ Created a world where dreams are a part
 And you decorated my life
 By painting your love all over my heart
 You decorated my life
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Pretty Little Angel Eyes
 artists:
 - Curtis Lee
+external_ids:
+  spotify: spotify:track:62lFSicSiyWtvep7wUj50X
 features: []
-genres: []
+first_released_as_single: false
 key: under-the-moon-of-love-curtis-lee
 lyrics_url: https://genius.com/Curtis-lee-under-the-moon-of-love-lyrics
 name: Under The Moon Of Love
@@ -35,6 +38,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1961-11-27'
+release_year: 1961
+runtime: 172853
 ---
 Let's go for a little walk
 Under the moon of love

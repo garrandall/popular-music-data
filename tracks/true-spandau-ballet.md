@@ -1,8 +1,11 @@
 ---
+album: True (2003 Remastered Version)
 artists:
 - Spandau Ballet
+external_ids:
+  spotify: spotify:track:71M7Q4WpWgEyJ70Cyn9SJC
 features: []
-genres: []
+first_released_as_single: false
 key: true-spandau-ballet
 lyrics_url: https://www.azlyrics.com/lyrics/spandauballet/true.html
 name: 'True'
@@ -79,8 +82,9 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1983-12-03'
+release_year: 1983
+runtime: 393386
 ---
-
 (Ha-ha-ha, ha-ah-hi)
 (Ha-ha-ha, ha-ah-hi)
 
@@ -149,6 +153,3 @@ Know this much is true
 (This much is a-true-oo-oo)
 (Know this much is true)
 I know, I know, I know this much is true
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Very Special
 artists:
 - Debra Laws
+external_ids:
+  spotify: spotify:track:6wKAZB2lwOWeqpwquNHThG
 features: []
-genres: []
+first_released_as_single: false
 key: very-special-debra-laws
 lyrics_url: https://genius.com/Debra-laws-very-special-lyrics
 name: Very Special
@@ -27,6 +30,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1981-09-12'
+release_year: 1981
+runtime: 268173
 ---
 All my love is all I have
 And my dreams are very special

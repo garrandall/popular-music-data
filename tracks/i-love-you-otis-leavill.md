@@ -1,8 +1,11 @@
 ---
+album: Brunswick Top 40 Singles 1966-1975
 artists:
 - Otis Leavill
+external_ids:
+  spotify: spotify:track:5FTEGiVTI0D4wburkn1FNR
 features: []
-genres: []
+first_released_as_single: false
 key: i-love-you-otis-leavill
 lyrics_url: https://genius.com/Otis-leavill-i-love-you-lyrics
 name: I Love You
@@ -43,6 +46,8 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1970-01-24'
+release_year: 1969
+runtime: 155040
 ---
 Oh, oo
 (Come and get your love)

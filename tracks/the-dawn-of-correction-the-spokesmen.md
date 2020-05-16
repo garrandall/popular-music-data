@@ -1,8 +1,11 @@
 ---
+album: The Dawn of Correction
 artists:
 - The Spokesmen
+external_ids:
+  spotify: spotify:track:5TzrUONJL0qkk8WDJqEGfj
 features: []
-genres: []
+first_released_as_single: false
 key: the-dawn-of-correction-the-spokesmen
 lyrics_url: https://www.musixmatch.com/lyrics/The-Spokesmen/The-Dawn-of-Correction
 name: The Dawn Of Correction
@@ -35,6 +38,8 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '1965-10-30'
+release_year: 1965
+runtime: 203000
 ---
 The western world has a common dedication
 To keep free people from Red domination

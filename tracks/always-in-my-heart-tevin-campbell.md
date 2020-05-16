@@ -1,8 +1,11 @@
 ---
+album: The Best Of Tevin Campbell
 artists:
 - Tevin Campbell
+external_ids:
+  spotify: spotify:track:2CD8UvBi01dwnriCM8TivL
 features: []
-genres: []
+first_released_as_single: false
 key: always-in-my-heart-tevin-campbell
 lyrics_url: https://www.azlyrics.com/lyrics/tevincampbell/alwaysinmyheart.html
 name: Always In My Heart
@@ -87,8 +90,9 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1994-11-05'
+release_year: 1994
+runtime: 338732
 ---
-
 Where do they get off telling you
 That I am not the least bit into you
 Just tell me how the hell they can tell you they know what's in my heart
@@ -135,4 +139,3 @@ Oh, please, baby, please
 I wish you could believe in me
 Right now, right now
 If only you could know
-

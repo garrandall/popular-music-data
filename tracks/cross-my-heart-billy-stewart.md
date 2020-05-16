@@ -1,8 +1,11 @@
 ---
+album: Cross My Heart
 artists:
 - Billy Stewart
+external_ids:
+  spotify: spotify:track:2tX1LD4EFEfk6rsJx5D8K4
 features: []
-genres: []
+first_released_as_single: false
 key: cross-my-heart-billy-stewart
 lyrics_url: https://genius.com/Billy-stewart-cross-my-heart-lyrics
 name: Cross My Heart
@@ -43,6 +46,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1968-01-27'
+release_year: 1967
+runtime: 181066
 ---
 Cross my heart that I love her
 Place no one up above her

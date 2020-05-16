@@ -1,8 +1,11 @@
 ---
+album: Lesley Gore Sings Of Mixed-Up Hearts
 artists:
 - Lesley Gore
+external_ids:
+  spotify: spotify:track:0AZb6ryK8LsFcvY1jWHO61
 features: []
-genres: []
+first_released_as_single: false
 key: sunshine-lollipops-and-rainbows-lesley-gore
 lyrics_url: https://genius.com/Lesley-gore-sunshine-lollipops-and-rainbows-lyrics
 name: Sunshine Lollipops And Rainbows
@@ -51,6 +54,8 @@ rankings:
   rank: 33
   ranking_list: Billboard Hot 100
   start_date: '1965-08-28'
+release_year: 1963
+runtime: 96000
 ---
 Sunshine, lollipops, and rainbows
 Everything that's wonderful is what I feel when we're together

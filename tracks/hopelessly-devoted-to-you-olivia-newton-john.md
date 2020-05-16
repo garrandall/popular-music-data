@@ -1,8 +1,11 @@
 ---
+album: Grease (The Original Motion Picture Soundtrack)
 artists:
 - Olivia Newton-John
+external_ids:
+  spotify: spotify:track:5BUq9bdtsm3LWw5laJeJ4R
 features: []
-genres: []
+first_released_as_single: false
 key: hopelessly-devoted-to-you-olivia-newton-john
 lyrics_url: https://genius.com/Olivia-newton-john-hopelessly-devoted-to-you-lyrics
 name: Hopelessly Devoted To You
@@ -83,6 +86,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1978-11-11'
+release_year: 1978
+runtime: 185360
 ---
 Guess mine is not the first heart broken
 My eyes are not the first to cry

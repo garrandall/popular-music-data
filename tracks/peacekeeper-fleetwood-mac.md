@@ -1,8 +1,11 @@
 ---
+album: Say You Will
 artists:
 - Fleetwood Mac
+external_ids:
+  spotify: spotify:track:47QCcoUKxDP1vuli0LwT8G
 features: []
-genres: []
+first_released_as_single: false
 key: peacekeeper-fleetwood-mac
 lyrics_url: https://www.azlyrics.com/lyrics/fleetwoodmac/peacekeeper.html
 name: Peacekeeper
@@ -51,8 +54,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2003-06-07'
+release_year: 2003
+runtime: 250760
 ---
-
 We make all of our sons the same
 Every one will suffer the fire we've made
 They all explode just the same
@@ -114,6 +118,3 @@ When the night is cold and still
 When you thought you'd had your fill
 This is not a test, it's not a drill
 Take no prisoners, only kill
-
-
-

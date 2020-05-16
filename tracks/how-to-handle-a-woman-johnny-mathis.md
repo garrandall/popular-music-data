@@ -1,8 +1,11 @@
 ---
+album: The Singles
 artists:
 - Johnny Mathis
+external_ids:
+  spotify: spotify:track:1ZUnmb11KsOyNHsx0AvZQT
 features: []
-genres: []
+first_released_as_single: false
 key: how-to-handle-a-woman-johnny-mathis
 lyrics_url: https://www.azlyrics.com/lyrics/johnnymathis/howtohandleawoman.html
 name: How To Handle A Woman
@@ -19,8 +22,9 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '1961-01-09'
+release_year: 1960
+runtime: 183280
 ---
-
 How to handle a woman
 There's a way said a wise old man
 A way known by every woman
@@ -36,6 +40,3 @@ Mark me well, I will tell you sir
 The way to handle a woman
 Is to love her, simply love her
 Merely love her, love her, love her"
-
-
-

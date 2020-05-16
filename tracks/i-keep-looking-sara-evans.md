@@ -1,8 +1,11 @@
 ---
+album: Born To Fly
 artists:
 - Sara Evans
+external_ids:
+  spotify: spotify:track:6ikl0jEGOPZUBcwGa7WHCY
 features: []
-genres: []
+first_released_as_single: false
 key: i-keep-looking-sara-evans
 lyrics_url: https://www.azlyrics.com/lyrics/saraevans/ikeeplooking.html
 name: I Keep Looking
@@ -83,8 +86,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2002-11-23'
+release_year: 2000
+runtime: 276693
 ---
-
 Back when I was young
 Couldn't wait to grow up
 Get away and get out on my own
@@ -139,6 +143,3 @@ Of the number two door
 I keep looking
 Looking for something more
 Oh, looking for something more
-
-
-

@@ -1,9 +1,12 @@
 ---
+album: Play
 artists:
 - Brad Paisley
 - Keith Urban
+external_ids:
+  spotify: spotify:track:0GneFCOVzvi6ok0oRC7Kfu
 features: []
-genres: []
+first_released_as_single: false
 key: start-a-band-brad-paisley-keith-urban
 lyrics_url: https://www.azlyrics.com/lyrics/bradpaisley/startaband.html
 name: Start A Band
@@ -72,8 +75,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2009-02-14'
+release_year: 2008
+runtime: 324586
 ---
-
 I never was a straight-lace, straight A student
 teacher's pet or child prodigy
 I wasn't gonna get rich throwin' a football
@@ -111,6 +115,3 @@ Find a few good buddies, start a band
 
 No need to study, start a band
 Call up some buddies man, start a band
-
-
-

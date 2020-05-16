@@ -1,8 +1,11 @@
 ---
+album: Shine
 artists:
 - Martina McBride
+external_ids:
+  spotify: spotify:track:0Vx5HrgZHaXz03iu6eQP4g
 features: []
-genres: []
+first_released_as_single: false
 key: i-just-call-you-mine-martina-mcbride
 lyrics_url: https://www.azlyrics.com/lyrics/martinamcbride/ijustcallyoumine.html
 name: I Just Call You Mine
@@ -11,8 +14,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2009-08-15'
+release_year: 2009
+runtime: 260386
 ---
-
 I pinch myself
 Sometimes to make sure I'm not in a dream
 That's how it seems
@@ -69,6 +73,3 @@ After years of waiting
 For a chance to finally shine
 Everyone calls you amazing
 I just call you mine
-
-
-

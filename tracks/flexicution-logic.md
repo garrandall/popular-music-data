@@ -1,8 +1,11 @@
 ---
+album: Bobby Tarantino
 artists:
 - Logic
+external_ids:
+  spotify: spotify:track:6EsLX3ZbZbAZUn3iaO5MuX
 features: []
-genres: []
+first_released_as_single: true
 key: flexicution-logic
 lyrics_url: https://www.azlyrics.com/lyrics/logic/flexicution.html
 name: Flexicution
@@ -11,9 +14,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2016-07-23'
+release_year: 2016
+runtime: 219066
 ---
-
-
 Yeah, I'm like, "Oh, God, oh- oh, my God"
 Bitch, I run the game, y'all just commentate from the side
 I'm like, "Oh, God, oh- oh, my God"
@@ -102,6 +105,3 @@ That I've been M.I.A, but I was tied up
 
 Till I heard you talking shit, now I'm fired up
 5-0 triple 0
-
-
-

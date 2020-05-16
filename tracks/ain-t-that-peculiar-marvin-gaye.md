@@ -1,8 +1,11 @@
 ---
+album: Moods Of Marvin Gaye
 artists:
 - Marvin Gaye
+external_ids:
+  spotify: spotify:track:1yyJNEU2gWG6QiJkhPwrde
 features: []
-genres: []
+first_released_as_single: false
 key: ain-t-that-peculiar-marvin-gaye
 lyrics_url: https://genius.com/Marvin-gaye-aint-that-peculiar-lyrics
 name: Ain't That Peculiar
@@ -55,6 +58,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1965-12-25'
+release_year: 1965
+runtime: 179693
 ---
 Honey you do me wrong but still I'm crazy about you
 Stay away too long and I can't do without you

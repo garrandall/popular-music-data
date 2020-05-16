@@ -1,8 +1,11 @@
 ---
+album: Death Race For Love
 artists:
 - Juice WRLD
+external_ids:
+  spotify: spotify:track:6Hj9jySrnFppAI0sEMCZpJ
 features: []
-genres: []
+first_released_as_single: false
 key: robbery-juice-wrld
 lyrics_url: https://www.azlyrics.com/lyrics/juicewrld/robbery.html
 name: Robbery
@@ -83,8 +86,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2019-12-21'
+release_year: 2019
+runtime: 240050
 ---
-
 Man, what? (Haha)
 This shit funny
 I was like-
@@ -150,6 +154,3 @@ Now I'm digging up a grave, from my past
 I'm a whole different person (I'm a whole different person)
 It's a gift and a curse (It's a gift and a curse)
 But I cannot reverse it
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Street Machine
 artists:
 - Sammy Hagar
+external_ids:
+  spotify: spotify:track:6px77nsx8HmckG9YuKmiP2
 features: []
-genres: []
+first_released_as_single: false
 key: plain-jane-sammy-hagar
 lyrics_url: https://www.azlyrics.com/lyrics/sammyhagar/plainjane.html
 name: Plain Jane
@@ -35,8 +38,9 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1979-10-27'
+release_year: 1979
+runtime: 229266
 ---
-
 She falls somewhere in between
 Levi's and Vogue Magazine
 She doesn't paint on her face
@@ -90,6 +94,3 @@ I'm gonna love you, love you, love you, love you, love you, love you
 (Plain Jane) Ow
 (Plain Jane) Yeah, yeah, yeah, yeah, yeah
 (Plain Jane)
-
-
-

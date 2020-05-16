@@ -1,8 +1,11 @@
 ---
+album: SremmLife
 artists:
 - Rae Sremmurd
+external_ids:
+  spotify: spotify:track:32a5eLrlrKiXrqb1D16CUY
 features: []
-genres: []
+first_released_as_single: true
 key: no-flex-zone-rae-sremmurd
 lyrics_url: https://genius.com/Rae-sremmurd-no-flex-zone-lyrics
 name: No Flex Zone
@@ -87,6 +90,8 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '2014-12-27'
+release_year: 2014
+runtime: 319723
 ---
 Mike WiLL Made-It
 EarDrummers

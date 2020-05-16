@@ -1,8 +1,11 @@
 ---
+album: Ghost In The Machine (Remastered 2003)
 artists:
 - The Police
+external_ids:
+  spotify: spotify:track:4frelkLhC4ATqJH9VGJztu
 features: []
-genres: []
+first_released_as_single: false
 key: spirits-in-the-material-world-the-police
 lyrics_url: https://www.azlyrics.com/lyrics/police/spiritsinthematerialworld.html
 name: Spirits In The Material World
@@ -59,8 +62,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1982-04-10'
+release_year: 1981
+runtime: 179066
 ---
-
 There is no political solution
 To our troubled evolution
 Have no faith in constitution
@@ -90,4 +94,3 @@ We are spirits in the material world
 Are spirits in the material world
 
 Are spirits in the material world...
-

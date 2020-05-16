@@ -1,8 +1,11 @@
 ---
+album: Rockin' in Outer Space, Vol 1
 artists:
 - The Ran-Dells
+external_ids:
+  spotify: spotify:track:2zEXeKw3V6tNJ0j2Xd19z2
 features: []
-genres: []
+first_released_as_single: false
 key: martian-hop-the-ran-dells
 lyrics_url: https://genius.com/The-ran-dells-martian-hop-lyrics
 name: Martian Hop
@@ -59,6 +62,8 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '1963-10-26'
+release_year: 1963
+runtime: 134066
 ---
 We have just discovered an important note from space
 The Martians plan to throw a dance for all the human race

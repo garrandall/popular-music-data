@@ -1,8 +1,11 @@
 ---
+album: Home Of The Brave
 artists:
 - Jody Miller
+external_ids:
+  spotify: spotify:track:1UJRy5cOZtsuTPKq5pr7XU
 features: []
-genres: []
+first_released_as_single: false
 key: home-of-the-brave-jody-miller
 lyrics_url: https://genius.com/Jody-miller-home-of-the-brave-lyrics
 name: Home Of The Brave
@@ -43,6 +46,8 @@ rankings:
   rank: 30
   ranking_list: Billboard Hot 100
   start_date: '1965-10-23'
+release_year: 1965
+runtime: 169616
 ---
 Home Of The Brave
 Jody Miller

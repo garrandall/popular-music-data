@@ -1,10 +1,13 @@
 ---
+album: Canal Street Confidential
 artists:
 - Curren$Y
+external_ids:
+  spotify: spotify:track:6AYwClZvzz3HTw4ghP4FgO
 features:
 - August Alsina
 - Lil Wayne
-genres: []
+first_released_as_single: true
 key: bottom-of-the-bottle-curren-y-august-alsina-lil-wayne
 lyrics_url: https://www.azlyrics.com/lyrics/curreny/bottomofthebottle.html
 name: Bottom Of The Bottle
@@ -13,9 +16,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2016-02-13'
+release_year: 2015
+runtime: 239453
 ---
-
-
 Da, na, na, na, na
 Yeah no shit, no shit
 
@@ -105,6 +108,3 @@ Drop it down low, bring it up slow, yo, yo
 
 Drop it, drop it, bring it up slow, bring it up slow
 (I'm pissed I had to be the last one to get heard)
-
-
-

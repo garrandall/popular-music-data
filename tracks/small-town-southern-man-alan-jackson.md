@@ -1,8 +1,11 @@
 ---
+album: Good Time
 artists:
 - Alan Jackson
+external_ids:
+  spotify: spotify:track:3Lr2tsnqMJfMublqotCC7h
 features: []
-genres: []
+first_released_as_single: true
 key: small-town-southern-man-alan-jackson
 lyrics_url: https://www.azlyrics.com/lyrics/alanjackson/smalltownsouthernman.html
 name: Small Town Southern Man
@@ -87,8 +90,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2008-05-31'
+release_year: 2007
+runtime: 280080
 ---
-
 Born the middle son of a farmer
 And a small town Southern man
 Like his daddy's daddy before him
@@ -139,4 +143,3 @@ Don't you cry, and don't you worry
 I'm blessed, and I know I am
 'Cause God has a place in Heaven
 For a small town Southern man
-

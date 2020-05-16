@@ -1,9 +1,12 @@
 ---
+album: Hot Pink
 artists:
 - Doja Cat
 - Tyga
+external_ids:
+  spotify: spotify:track:7qvsl2pYzrsYgPeFBN5jxp
 features: []
-genres: []
+first_released_as_single: true
 key: juicy-doja-cat-tyga
 lyrics_url: https://genius.com/Doja-cat-and-tyga-juicy-lyrics
 name: Juicy
@@ -88,6 +91,8 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '2020-03-21'
+release_year: 2019
+runtime: 202333
 ---
 I keep it juicy, juicy, I eat that lunch, uh (Yeah)
 She keep that booty, booty, she keep that plump, yeah (Yeah, yeah)

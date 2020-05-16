@@ -1,8 +1,11 @@
 ---
+album: Psychotic Reaction
 artists:
 - Count Five
+external_ids:
+  spotify: spotify:track:5JcaA4A9ZoXthwEnxOxWvP
 features: []
-genres: []
+first_released_as_single: false
 key: psychotic-reaction-count-five
 lyrics_url: https://genius.com/Count-five-psychotic-reaction-lyrics
 name: Psychotic Reaction
@@ -55,6 +58,8 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1966-11-26'
+release_year: 1966
+runtime: 185523
 ---
 I feel depressed, I feel so bad
 'Cause you're the best girl that I've ever had

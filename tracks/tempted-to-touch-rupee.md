@@ -1,8 +1,11 @@
 ---
+album: 1 On 1
 artists:
 - Rupee
+external_ids:
+  spotify: spotify:track:0ENQCg0FziqV4VB9U2xTf5
 features: []
-genres: []
+first_released_as_single: false
 key: tempted-to-touch-rupee
 lyrics_url: https://www.azlyrics.com/lyrics/rupee/temptedtotouch.html
 name: Tempted To Touch
@@ -87,8 +90,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2005-02-19'
+release_year: 2003
+runtime: 212586
 ---
-
 Yo
 To all the ladies in the dance
 (Each and every princess)
@@ -183,6 +187,3 @@ Tempted to touch, tempted to touch
 Little woman, man I need you so much
 Tempted to touch, tempted to touch
 Little woman, man I'm inside your clutch
-
-
-

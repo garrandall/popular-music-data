@@ -1,9 +1,12 @@
 ---
+album: I Don't
 artists:
 - Mariah Carey
+external_ids:
+  spotify: spotify:track:2Yia0Gh4n61fPAjrNE5i2t
 features:
 - YG
-genres: []
+first_released_as_single: true
 key: i-don-t-mariah-carey-yg
 lyrics_url: https://genius.com/Mariah-carey-i-dont-lyrics
 name: I Don't
@@ -12,6 +15,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2017-02-25'
+release_year: 2017
+runtime: 256214
 ---
 Ladies & Gentlemen!
 

@@ -1,8 +1,11 @@
 ---
+album: The Dream Of The Blue Turtles
 artists:
 - Sting
+external_ids:
+  spotify: spotify:track:06IsyJksK6vgJX66rU77Ij
 features: []
-genres: []
+first_released_as_single: false
 key: fortress-around-your-heart-sting
 lyrics_url: https://www.azlyrics.com/lyrics/sting/fortressaroundyourheart.html
 name: Fortress Around Your Heart
@@ -87,8 +90,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1986-01-04'
+release_year: 1985
+runtime: 279693
 ---
-
 Under the ruins of a walled city
 Crumbling towers in beams of yellow light
 No flags of truce, no cries of pity
@@ -134,6 +138,3 @@ Encircled you in trenches and barbed wire
 Then let me build a bridge
 For I cannot fill the chasm
 And let me set the battlements on fire
-
-
-

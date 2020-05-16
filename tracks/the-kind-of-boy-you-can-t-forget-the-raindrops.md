@@ -1,8 +1,11 @@
 ---
+album: The Raindrops
 artists:
 - The Raindrops
+external_ids:
+  spotify: spotify:track:26j1AFFgKumXtOdcmZX3YF
 features: []
-genres: []
+first_released_as_single: false
 key: the-kind-of-boy-you-can-t-forget-the-raindrops
 lyrics_url: https://genius.com/Raindrops-the-kind-of-boy-you-cant-forget-lyrics
 name: The Kind Of Boy You Can't Forget
@@ -51,6 +54,8 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '1963-10-19'
+release_year: 1963
+runtime: 128960
 ---
 I remember when I first saw him
 Something told me that I couldn't ignore him

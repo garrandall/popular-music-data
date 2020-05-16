@@ -1,8 +1,11 @@
 ---
+album: Mr. Smith
 artists:
 - LL Cool J
+external_ids:
+  spotify: spotify:track:7c2h4jzcyJsN1QzTb8ZpiZ
 features: []
-genres: []
+first_released_as_single: false
 key: ain-t-nobody-ll-cool-j
 lyrics_url: https://genius.com/Ll-cool-j-aint-nobody-lyrics
 name: Ain't Nobody
@@ -51,6 +54,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1997-03-08'
+release_year: 1995
+runtime: 277440
 ---
 Oh my God, you know
 

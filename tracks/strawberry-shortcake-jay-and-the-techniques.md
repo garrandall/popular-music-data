@@ -1,8 +1,11 @@
 ---
+album: Best Of Jay And The Techniques
 artists:
 - Jay And The Techniques
+external_ids:
+  spotify: spotify:track:3NB27dEoSKEOvD5YuEHQEd
 features: []
-genres: []
+first_released_as_single: false
 key: strawberry-shortcake-jay-and-the-techniques
 lyrics_url: https://www.musixmatch.com/lyrics/Jay-and-The-Techniques/Strawberry-Shortcake
 name: Strawberry Shortcake
@@ -31,6 +34,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1968-02-24'
+release_year: 1968
+runtime: 164440
 ---
 Get a head start
 It won't help none

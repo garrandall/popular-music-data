@@ -1,8 +1,11 @@
 ---
+album: 'Palms & Runes, Tarot & Tea: A Michael Penn Collection'
 artists:
 - Michael Penn
+external_ids:
+  spotify: spotify:track:4SZozsPsG0vJ2Ti8BGxKsR
 features: []
-genres: []
+first_released_as_single: false
 key: no-myth-michael-penn
 lyrics_url: https://genius.com/Michael-penn-no-myth-lyrics
 name: No Myth
@@ -71,6 +74,8 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1990-04-21'
+release_year: 1989
+runtime: 250813
 ---
 So
 She says it's time she goes

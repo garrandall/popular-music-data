@@ -1,8 +1,11 @@
 ---
+album: Black Sunday
 artists:
 - Cypress Hill
+external_ids:
+  spotify: spotify:track:4fHVgRzgvOW9nJUq6KDU6s
 features: []
-genres: []
+first_released_as_single: true
 key: insane-in-the-brain-cypress-hill
 lyrics_url: https://genius.com/Cypress-hill-insane-in-the-brain-lyrics
 name: Insane In The Brain
@@ -87,6 +90,8 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1993-11-20'
+release_year: 1993
+runtime: 207466
 ---
 Who you trying to get crazy with, ése?
 Don't you know I'm loco?

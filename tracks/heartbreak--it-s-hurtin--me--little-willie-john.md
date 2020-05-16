@@ -1,8 +1,11 @@
 ---
+album: 28 Big Ones
 artists:
 - Little Willie John
+external_ids:
+  spotify: spotify:track:1mVw4zs1czeQwo1MueFGr1
 features: []
-genres: []
+first_released_as_single: false
 key: heartbreak--it-s-hurtin--me--little-willie-john
 lyrics_url: https://genius.com/Little-willie-john-heartbreak-its-hurtin-me-lyrics
 name: Heartbreak (It's Hurtin' Me)
@@ -55,16 +58,9 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1960-08-22'
+release_year: 1960
+runtime: 171480
 ---
-Heartbreak (It's Hurtin' Me) 2:53
-Little Willie John
-(Thomas, Hoyles)
-Recorded May 1960 King Single #5356
-Pop Chart # 38 May 30, 1960
-Other personnel unk
-
-Intro: organ
-
 Heartbreak, it's hurtin' me
 Weak in the knees, loose in the head
 My baby has left me
@@ -86,8 +82,6 @@ Heartbreak, it's killing me
 
 Oh yeah, yeah, yeah
 
-(Instrumental, sax & organ)
-
 I know been a fool
 How taken I have been
 If I see my baby
@@ -105,9 +99,6 @@ Yea-eah
 Heartbreak
 It's hurtin' me
 
-Heartbrea-yoo-hoo-hoo, yea-eah
-
-FADES-
+Heartbreak, yeah
 
 It's what I'll do
-~

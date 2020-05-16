@@ -1,9 +1,12 @@
 ---
+album: Babel (Deluxe Version)
 artists:
 - Mumford
 - Sons
+external_ids:
+  spotify: spotify:track:7rME25EmgXGVPQqKtU4CIK
 features: []
-genres: []
+first_released_as_single: false
 key: hopeless-wanderer-mumford-sons
 lyrics_url: https://www.azlyrics.com/lyrics/mumfordsons/hopelesswanderer.html
 name: Hopeless Wanderer
@@ -12,8 +15,9 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '2013-08-24'
+release_year: 2012
+runtime: 307853
 ---
-
 You heard my voice I came out of the woods by choice
 Shelter also gave their shade
 But in the dark I have no name
@@ -59,6 +63,3 @@ And hold me fast, Hold me fast
 I will learn, I will learn to love the skies I'm under
 I will learn, I will learn to love the skies I'm under
 The skies I'm under
-
-
-

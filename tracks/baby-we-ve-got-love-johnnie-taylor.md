@@ -1,8 +1,11 @@
 ---
+album: SAR Records Story
 artists:
 - Johnnie Taylor
+external_ids:
+  spotify: spotify:track:23DIG2PAnTua8khno1RrUi
 features: []
-genres: []
+first_released_as_single: false
 key: baby-we-ve-got-love-johnnie-taylor
 lyrics_url: https://genius.com/Johnnie-taylor-baby-weve-got-love-lyrics
 name: Baby We've Got Love
@@ -11,6 +14,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1963-11-30'
+release_year: 1960
+runtime: 127106
 ---
 A crazy little smile
 Everybody's got a smile

@@ -1,8 +1,11 @@
 ---
+album: The Marshall Mathers LP2
 artists:
 - Eminem
+external_ids:
+  spotify: spotify:track:6Xk7PnitV9jCRorWt2LiVZ
 features: []
-genres: []
+first_released_as_single: false
 key: berzerk-eminem
 lyrics_url: https://www.azlyrics.com/lyrics/eminem/berzerk.html
 name: Berzerk
@@ -87,8 +90,9 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '2014-01-25'
+release_year: 2013
+runtime: 238746
 ---
-
 Now this shit's about to kick off, this party looks wack
 Let's take it back to straight hip-hop and start it from scratch
 I'm 'bout to bloody this track up, everybody get back
@@ -181,6 +185,3 @@ So crank the bass up like crazy and let yourself go, let yourself go
 Say "Fuck it!" before we kick the bucket
 Life's too short to not go for broke
 So everybody, everybody (go berzerk) shake your body
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Comfort Me
 artists:
 - Carla Thomas
+external_ids:
+  spotify: spotify:track:76xLSPljcUsZlZCuJ23I9K
 features: []
-genres: []
+first_released_as_single: false
 key: i-ve-got-no-time-to-lose-carla-thomas
 lyrics_url: https://genius.com/Carla-thomas-ive-got-no-time-to-lose-lyrics
 name: I've Got No Time To Lose
@@ -43,6 +46,8 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '1964-09-26'
+release_year: 1964
+runtime: 179093
 ---
 No time to lose (No time to lose)
 

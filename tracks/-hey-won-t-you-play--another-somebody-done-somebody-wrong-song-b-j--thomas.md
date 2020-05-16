@@ -1,8 +1,11 @@
 ---
+album: 'Rock N'' Roll Masters: BJ Thomas (Re-recorded)'
 artists:
 - B.J. Thomas
+external_ids:
+  spotify: spotify:track:4cGujlCrKqkpAMFetoFMSE
 features: []
-genres: []
+first_released_as_single: false
 key: -hey-won-t-you-play--another-somebody-done-somebody-wrong-song-b-j--thomas
 lyrics_url: https://www.azlyrics.com/lyrics/bjthomas/heywontyouplayanothersomebodydonesomebodywrongsong.html
 name: (Hey Won't You Play) Another Somebody Done Somebody Wrong Song
@@ -79,8 +82,9 @@ rankings:
   rank: 37
   ranking_list: Billboard Hot 100
   start_date: '1975-05-31'
+release_year: 1975
+runtime: 228240
 ---
-
 It's lonely out tonight
 And the feeling just got right for a brand new love song
 Somebody done somebody wrong song
@@ -119,6 +123,3 @@ Hey, won't you play another
 Somebody done somebody wrong song
 And make me feel at home
 While I miss my baby, while I miss my baby
-
-
-

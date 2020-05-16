@@ -1,8 +1,11 @@
 ---
+album: Black Panther The Album Music From And Inspired By
 artists:
 - Kendrick Lamar
+external_ids:
+  spotify: spotify:track:005FoVr63RI753jsNjfLax
 features: []
-genres: []
+first_released_as_single: false
 key: black-panther-kendrick-lamar
 lyrics_url: https://www.azlyrics.com/lyrics/kendricklamar/blackpanther.html
 name: Black Panther
@@ -11,8 +14,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2018-02-24'
+release_year: 2018
+runtime: 130613
 ---
-
 (Why I go easy?)
 (Know why I go easy)
 Wait
@@ -53,6 +57,3 @@ King don't lie, king give heart, king get by, king don't fall
 Kingdom come, when I come, you know why
 (King, king, king, king)
 I am T'Challa!
-
-
-

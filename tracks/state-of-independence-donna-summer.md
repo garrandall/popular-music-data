@@ -1,8 +1,11 @@
 ---
+album: Donna Summer
 artists:
 - Donna Summer
+external_ids:
+  spotify: spotify:track:1864O99twGgmk18fGY1Brs
 features: []
-genres: []
+first_released_as_single: false
 key: state-of-independence-donna-summer
 lyrics_url: https://www.azlyrics.com/lyrics/donnasummer/stateofindependence.html
 name: State Of Independence
@@ -47,8 +50,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1982-12-04'
+release_year: 1982
+runtime: 351493
 ---
-
 State of life, may I live, may I love
 Coming out the sky, I name me a name
 Coming out silver word for what it is
@@ -121,6 +125,3 @@ This state of independence shall be
 This state of independence shall be
 This state of independence shall be
 This state of independence shall be...
-
-
-

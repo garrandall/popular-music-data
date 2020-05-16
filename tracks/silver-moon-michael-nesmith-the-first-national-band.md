@@ -1,9 +1,12 @@
 ---
+album: Loose Salute
 artists:
 - Michael Nesmith
 - The First National Band
+external_ids:
+  spotify: spotify:track:0RStWairGUoJCZW54vYpqB
 features: []
-genres: []
+first_released_as_single: false
 key: silver-moon-michael-nesmith-the-first-national-band
 lyrics_url: https://genius.com/Michael-nesmith-silver-moon-lyrics
 name: Silver Moon
@@ -44,6 +47,8 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '1971-01-23'
+release_year: 1970
+runtime: 191360
 ---
 See the lazy windmill slowly turning
 Cutting up the marble canyons of the sky

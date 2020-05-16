@@ -1,8 +1,11 @@
 ---
+album: Tha Carter V
 artists:
 - Lil Wayne
+external_ids:
+  spotify: spotify:track:1S2HHyFBBGoc83U93k7UvR
 features: []
-genres: []
+first_released_as_single: false
 key: mess-lil-wayne
 lyrics_url: https://genius.com/Lil-wayne-mess-lyrics
 name: Mess
@@ -11,6 +14,8 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '2018-10-13'
+release_year: 2018
+runtime: 212427
 ---
 Because my days is a mess
 My nights is a mess, my life is a mess

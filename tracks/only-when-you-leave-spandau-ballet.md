@@ -1,8 +1,11 @@
 ---
+album: Parade (2010 Remastered Version)
 artists:
 - Spandau Ballet
+external_ids:
+  spotify: spotify:track:6QWH3VjUDLTwgy3iotnfvY
 features: []
-genres: []
+first_released_as_single: false
 key: only-when-you-leave-spandau-ballet
 lyrics_url: https://www.azlyrics.com/lyrics/spandauballet/onlywhenyouleave.html
 name: Only When You Leave
@@ -55,8 +58,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1984-10-13'
+release_year: 1984
+runtime: 311466
 ---
-
 Laying in the after glow,
 I only want to learn what you know,
 But now you're leaving...
@@ -98,6 +102,3 @@ Only when you leave, you'll leave in danger
 Oh, I'll make sure that you pay
 So give a little passion to a stranger
 And take this soul away
-
-
-

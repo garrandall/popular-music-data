@@ -1,8 +1,11 @@
 ---
+album: 'One Kiss Can Lead To Another: Girl Group Sounds, Lost & Found'
 artists:
 - The Girlfriends
+external_ids:
+  spotify: spotify:track:724k0eWcby90V6kIVbozGq
 features: []
-genres: []
+first_released_as_single: false
 key: my-one-and-only-jimmy-boy-the-girlfriends
 lyrics_url: https://genius.com/The-girlfriends-2-my-one-and-only-jimmy-boy-lyrics
 name: My One And Only Jimmy Boy
@@ -35,6 +38,8 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '1964-02-08'
+release_year: 1963
+runtime: 136880
 ---
 Here he comes
 The boy I'll always love

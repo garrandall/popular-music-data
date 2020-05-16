@@ -1,8 +1,11 @@
 ---
+album: Wrapped In Red
 artists:
 - Kelly Clarkson
+external_ids:
+  spotify: spotify:track:3YZE5qDV7u1ZD1gZc47ZeR
 features: []
-genres: []
+first_released_as_single: false
 key: underneath-the-tree-kelly-clarkson
 lyrics_url: https://www.azlyrics.com/lyrics/kellyclarkson/underneaththetree.html
 name: Underneath The Tree
@@ -27,8 +30,9 @@ rankings:
   rank: 31
   ranking_list: Billboard Hot 100
   start_date: '2020-01-04'
+release_year: 2013
+runtime: 229640
 ---
-
 You're here where you should be
 Snow is falling as the carolers sing
 It just wasn't the same
@@ -89,6 +93,3 @@ Don't mean a thing if you ain't holding me tight
 You're all that I need
 Underneath the tree
 Tonight
-
-
-

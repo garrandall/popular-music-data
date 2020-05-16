@@ -1,8 +1,11 @@
 ---
+album: Weezer (Red Album)
 artists:
 - Weezer
+external_ids:
+  spotify: spotify:track:7wclPheMJAUKn2njmO2s3A
 features: []
-genres: []
+first_released_as_single: false
 key: pork-and-beans-weezer
 lyrics_url: https://www.azlyrics.com/lyrics/weezer/porkandbeans.html
 name: Pork And Beans
@@ -67,8 +70,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2008-08-23'
+release_year: 2008
+runtime: 189400
 ---
-
 They say I need some Rogaine to put in my hair
 Work it out at the gym to fit my underwear
 Oakley makes the shades to transform a tool
@@ -112,6 +116,3 @@ I ain't gonna wear the clothes that you like
 I'm fine and dandy with the me inside
 One look in the mirror and I'm tickled pink
 I don't give a hoot about what you think
-
-
-

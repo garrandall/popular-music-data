@@ -1,8 +1,11 @@
 ---
+album: Edwin Starr Live In Concert
 artists:
 - Edwin Starr
+external_ids:
+  spotify: spotify:track:4yhqY0uTj98Tjm3NZrquTz
 features: []
-genres: []
+first_released_as_single: false
 key: contact-edwin-starr
 lyrics_url: https://www.azlyrics.com/lyrics/edwinstarr/contact.html
 name: Contact
@@ -35,8 +38,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1979-03-24'
+release_year: 1979
+runtime: 437600
 ---
-
 Contact!
 
 Across the crowded disco-room
@@ -88,6 +92,3 @@ I was looking at you
 You were looking at me
 I was looking at you
 You were looking at me
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Blonde
 artists:
 - Frank Ocean
+external_ids:
+  spotify: spotify:track:2ZWlPOoWh0626oTaHrnl2a
 features: []
-genres: []
+first_released_as_single: false
 key: ivy-frank-ocean
 lyrics_url: https://www.azlyrics.com/lyrics/frankocean/ivy.html
 name: Ivy
@@ -11,8 +14,9 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '2016-09-10'
+release_year: 2016
+runtime: 249191
 ---
-
 I thought that I was dreaming when you said you love me
 The start of nothing
 I had no chance to prepare
@@ -80,6 +84,3 @@ I've been dreaming of you
 Dreaming of you
 I've been dreaming
 Dreaming
-
-
-

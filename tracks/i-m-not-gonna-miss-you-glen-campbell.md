@@ -1,8 +1,11 @@
 ---
+album: Glen Campbell I'll Be Me Soundtrack
 artists:
 - Glen Campbell
+external_ids:
+  spotify: spotify:track:6G5NsbGQlLQx4xjZE69Lnt
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-not-gonna-miss-you-glen-campbell
 lyrics_url: https://genius.com/Glen-campbell-im-not-gonna-miss-you-lyrics
 name: I'm Not Gonna Miss You
@@ -11,6 +14,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2014-11-01'
+release_year: 2014
+runtime: 177346
 ---
 I'm still here, but yet I'm gone
 I don't play guitar or sing my songs

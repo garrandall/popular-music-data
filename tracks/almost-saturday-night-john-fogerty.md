@@ -1,8 +1,11 @@
 ---
+album: Premonition (Live 1997)
 artists:
 - John Fogerty
+external_ids:
+  spotify: spotify:track:4eNsAHBNLkbySkBExjO2I7
 features: []
-genres: []
+first_released_as_single: false
 key: almost-saturday-night-john-fogerty
 lyrics_url: https://genius.com/John-fogerty-almost-saturday-night-lyrics
 name: Almost Saturday Night
@@ -19,6 +22,8 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1975-12-27'
+release_year: 1969
+runtime: 146359
 ---
 Outside my window, I can hear the radio
 And I know that motor wagon is ready to fly

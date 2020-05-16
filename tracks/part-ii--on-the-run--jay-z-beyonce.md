@@ -1,9 +1,12 @@
 ---
+album: Magna Carta... Holy Grail
 artists:
 - Jay Z
+external_ids:
+  spotify: spotify:track:2gSh6B45bWv4gDOhawR8C2
 features:
 - Beyonce
-genres: []
+first_released_as_single: false
 key: part-ii--on-the-run--jay-z-beyonce
 lyrics_url: https://www.azlyrics.com/lyrics/jayz/partiiontherun.html
 name: Part II (On The Run)
@@ -72,18 +75,18 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2014-06-14'
+release_year: 2013
+runtime: 333746
 ---
-
-
 Who wants that perfect love story any way, anyway
-ClichÃ©, clichÃ©, clichÃ©, clichÃ©
+Cliché, cliché, cliché, cliché
 Who wants that hero love that saves the day, anyway
-ClichÃ©, clichÃ©, clichÃ©, clichÃ©
+Cliché, cliché, cliché, cliché
 What about the bad guy goes good, yeah
 An innocent love un-misunderstood, yeah
 Black hour glass, hour glass
-Toast to clichÃ© is in a dark past
-Toast to clichÃ© is in a dark past
+Toast to cliché is in a dark past
+Toast to cliché is in a dark past
 
 
 Boy meets girl, girl perfect woman
@@ -161,6 +164,3 @@ Give it up, give it up, give it all away
 No I swear I'll never give it up
 Give it up, give it up, give it all away
 Without you I got nothing to lose
-
-
-

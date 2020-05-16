@@ -1,8 +1,11 @@
 ---
+album: All the Right Reasons
 artists:
 - Nickelback
+external_ids:
+  spotify: spotify:track:44w63XqGr3sATAzOnOySgF
 features: []
-genres: []
+first_released_as_single: false
 key: if-everyone-cared-nickelback
 lyrics_url: https://www.azlyrics.com/lyrics/nickelback/ifeveryonecared.html
 name: If Everyone Cared
@@ -95,8 +98,9 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2007-06-30'
+release_year: 2005
+runtime: 215106
 ---
-
 From underneath the trees, we watch the sky
 Confusing stars for satellites
 I never dreamed that you'd be mine
@@ -147,6 +151,3 @@ When nobody died
 We'd see the day, we'd see the day
 When nobody died
 We'd see the day when nobody died
-
-
-

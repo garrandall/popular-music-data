@@ -1,8 +1,11 @@
 ---
+album: Ladies of the Canyon
 artists:
 - Joni Mitchell
+external_ids:
+  spotify: spotify:track:6UkMcAA19lTdjs22jtB7o2
 features: []
-genres: []
+first_released_as_single: false
 key: big-yellow-taxi-joni-mitchell
 lyrics_url: https://www.musixmatch.com/lyrics/Joni-Mitchell/Big-Yellow-Taxi-Radio-Edit
 name: Big Yellow Taxi
@@ -71,6 +74,8 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1975-03-01'
+release_year: 1970
+runtime: 134800
 ---
 They paved paradise
 And put up a parking lot

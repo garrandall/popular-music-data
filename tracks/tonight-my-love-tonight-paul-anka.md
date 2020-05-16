@@ -1,8 +1,11 @@
 ---
+album: 21 Golden Hits
 artists:
 - Paul Anka
+external_ids:
+  spotify: spotify:track:4NmRopcY1O7hWM4UfK6ymH
 features: []
-genres: []
+first_released_as_single: false
 key: tonight-my-love-tonight-paul-anka
 lyrics_url: https://www.azlyrics.com/lyrics/paulanka/tonightmylovetonight.html
 name: Tonight My Love Tonight
@@ -51,8 +54,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1961-05-22'
+release_year: 1961
+runtime: 126506
 ---
-
 La-la-la-la-la-la
 La-la-la-la-la-la
 Let me hold you in my arms
@@ -84,6 +88,3 @@ La-la-la-la-la-la
 La-la-la-la-la-la
 La-la-la-la-la-la
 La-la-la-la-la-la
-
-
-

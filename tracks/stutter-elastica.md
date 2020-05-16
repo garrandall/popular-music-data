@@ -1,8 +1,11 @@
 ---
+album: Elastica
 artists:
 - Elastica
+external_ids:
+  spotify: spotify:track:3ZGQMBLN5qpkR6R5qEuuUm
 features: []
-genres: []
+first_released_as_single: false
 key: stutter-elastica
 lyrics_url: https://www.azlyrics.com/lyrics/elastica/stutter.html
 name: Stutter
@@ -43,8 +46,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1995-09-16'
+release_year: 1995
+runtime: 142200
 ---
-
 No need to whine boy
 Like a wind up toy you stutter at my feet
 And it's never the time boy
@@ -85,6 +89,3 @@ Is it just that I'm much too much for you?
 
 I really want you to
 I really want you to
-
-
-

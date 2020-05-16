@@ -1,8 +1,11 @@
 ---
+album: Big Generator
 artists:
 - 'Yes'
+external_ids:
+  spotify: spotify:track:7Jgz1CgFVfBmtYJ1lc0UXa
 features: []
-genres: []
+first_released_as_single: false
 key: rhythm-of-love-yes
 lyrics_url: https://genius.com/Yes-rhythm-of-love-lyrics
 name: Rhythm Of Love
@@ -55,6 +58,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1988-03-05'
+release_year: 1987
+runtime: 292173
 ---
 Innocence, no answer to your breaking heart
 If the situation sometimes falls apart

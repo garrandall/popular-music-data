@@ -1,8 +1,11 @@
 ---
+album: More Songs From The Original Soundtrack Of The Big Chill 15th Anniversary
 artists:
 - The Spencer Davis Group
+external_ids:
+  spotify: spotify:track:3qCHUm73I3o5F1mDEfibzo
 features: []
-genres: []
+first_released_as_single: true
 key: gimme-some-lovin--the-spencer-davis-group
 lyrics_url: https://genius.com/The-spencer-davis-group-gimme-some-lovin-lyrics
 name: Gimme Some Lovin'
@@ -59,6 +62,8 @@ rankings:
   rank: 33
   ranking_list: Billboard Hot 100
   start_date: '1967-03-25'
+release_year: 1966
+runtime: 178840
 ---
 (Hey!)
 Well my temperature's rising and my feet on the floor

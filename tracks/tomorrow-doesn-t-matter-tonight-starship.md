@@ -1,8 +1,11 @@
 ---
+album: Knee Deep In The Hoopla
 artists:
 - Starship
+external_ids:
+  spotify: spotify:track:5P9h9gQlq8CFLRWI4e94ei
 features: []
-genres: []
+first_released_as_single: false
 key: tomorrow-doesn-t-matter-tonight-starship
 lyrics_url: https://genius.com/Starship-tomorrow-doesnt-matter-tonight-lyrics
 name: Tomorrow Doesn't Matter Tonight
@@ -59,6 +62,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1986-06-28'
+release_year: 1985
+runtime: 221840
 ---
 You already made up your mind
 Just who you're looking for

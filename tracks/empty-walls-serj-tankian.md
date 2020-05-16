@@ -1,8 +1,11 @@
 ---
+album: Elect the Dead
 artists:
 - Serj Tankian
+external_ids:
+  spotify: spotify:track:30oTRerssMom8B9sOjvNVZ
 features: []
-genres: []
+first_released_as_single: true
 key: empty-walls-serj-tankian
 lyrics_url: https://www.azlyrics.com/lyrics/serjtankian/emptywalls.html
 name: Empty Walls
@@ -11,8 +14,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2007-11-10'
+release_year: 2007
+runtime: 230026
 ---
-
 Your empty walls...
 Your empty walls...
 Pretentious attention
@@ -98,6 +102,3 @@ From behind those fucking walls
 From behind those goddamn walls
 Those walls...
 Those walls...
-
-
-

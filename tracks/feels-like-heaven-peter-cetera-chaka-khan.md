@@ -1,9 +1,12 @@
 ---
+album: World Falling Down
 artists:
 - Peter Cetera
 - Chaka Khan
+external_ids:
+  spotify: spotify:track:2IHO9dXnPui6yBrRF5WkbT
 features: []
-genres: []
+first_released_as_single: false
 key: feels-like-heaven-peter-cetera-chaka-khan
 lyrics_url: https://genius.com/Peter-cetera-feels-like-heaven-lyrics
 name: Feels Like Heaven
@@ -40,6 +43,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1993-03-13'
+release_year: 1992
+runtime: 290160
 ---
 All through my wandering years
 I always said

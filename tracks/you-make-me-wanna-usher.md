@@ -1,8 +1,11 @@
 ---
+album: My Way
 artists:
 - Usher
+external_ids:
+  spotify: spotify:track:07K2n5QQpln468bsd6IXGh
 features: []
-genres: []
+first_released_as_single: true
 key: you-make-me-wanna-usher
 lyrics_url: https://genius.com/Usher-you-make-me-wanna-lyrics
 name: You Make Me Wanna
@@ -195,6 +198,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1998-07-11'
+release_year: 1997
+runtime: 220093
 ---
 This is what you do, this is what you do
 This is what you do, this is what you do

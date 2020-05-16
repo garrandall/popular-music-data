@@ -1,8 +1,11 @@
 ---
+album: Blue
 artists:
 - Joni Mitchell
+external_ids:
+  spotify: spotify:track:11dUk8E2z8Oj1JURwl7GJd
 features: []
-genres: []
+first_released_as_single: false
 key: carey-joni-mitchell
 lyrics_url: https://www.azlyrics.com/lyrics/jonimitchell/carey.html
 name: Carey
@@ -11,8 +14,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1971-09-04'
+release_year: 1971
+runtime: 182906
 ---
-
 The wind is in from Africa
 Last night I couldn't sleep
 Oh, you know it sure is hard to leave here Carey
@@ -61,6 +65,3 @@ I'll put on my finest silver
 We'll go to the Mermaid Cafe
 Have fun tonight
 I said, Oh, you're a mean old Daddy, but you're out of sight
-
-
-

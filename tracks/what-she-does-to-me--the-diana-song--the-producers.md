@@ -1,8 +1,11 @@
 ---
+album: The Producers
 artists:
 - The Producers
+external_ids:
+  spotify: spotify:track:3wDp1wYGi6lTPdjUtVd4tj
 features: []
-genres: []
+first_released_as_single: false
 key: what-she-does-to-me--the-diana-song--the-producers
 lyrics_url: https://genius.com/The-producers-what-she-does-to-me-lyrics
 name: What She Does To Me (The Diana Song)
@@ -31,6 +34,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1981-07-18'
+release_year: 1981
+runtime: 222302
 ---
 He's looking over my shoulder
 Though I'm with you tonight

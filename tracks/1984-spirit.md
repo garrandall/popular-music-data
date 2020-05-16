@@ -1,8 +1,11 @@
 ---
+album: Clear
 artists:
 - Spirit
+external_ids:
+  spotify: spotify:track:3oJ6FDDFFaNI9hDr6MCxVU
 features: []
-genres: []
+first_released_as_single: false
 key: 1984-spirit
 lyrics_url: https://genius.com/Spirit-1984-lyrics
 name: '1984'
@@ -43,6 +46,8 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1970-04-04'
+release_year: 1969
+runtime: 216800
 ---
 California
 

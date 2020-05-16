@@ -1,8 +1,11 @@
 ---
+album: Hemingway's Whiskey
 artists:
 - Kenny Chesney
+external_ids:
+  spotify: spotify:track:3pkzJjJXfdDjhpXx639MIH
 features: []
-genres: []
+first_released_as_single: false
 key: somewhere-with-you-kenny-chesney
 lyrics_url: https://www.azlyrics.com/lyrics/kennychesney/somewherewithyou.html
 name: Somewhere With You
@@ -87,8 +90,9 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '2011-04-02'
+release_year: 2010
+runtime: 243520
 ---
-
 If you're going out with someone new
 I'm going out with someone too
 I won't feel sorry for me, I'm getting drunk
@@ -146,6 +150,3 @@ I'm somewhere with you
 I'm somewhere with you
 Somewhere with you
 Somewhere with you
-
-
-

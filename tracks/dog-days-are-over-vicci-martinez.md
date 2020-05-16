@@ -1,8 +1,11 @@
 ---
+album: Dog Days Are Over (The Voice Performance)
 artists:
 - Vicci Martinez
+external_ids:
+  spotify: spotify:track:461aKwfe43LKvJ1sm2BiHH
 features: []
-genres: []
+first_released_as_single: true
 key: dog-days-are-over-vicci-martinez
 lyrics_url: https://www.azlyrics.com/lyrics/viccimartinez/dogdaysareover.html
 name: Dog Days Are Over
@@ -11,8 +14,9 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '2011-07-09'
+release_year: 2011
+runtime: 213106
 ---
-
 Happiness hit her like a train on a track
 Coming towards her stuck still no turning back
 She hid around corners and she hid under beds
@@ -59,6 +63,3 @@ The dog days are over
 The dog days are done
 The horses are coming
 So you better run
-
-
-

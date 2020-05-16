@@ -1,8 +1,11 @@
 ---
+album: Thump's Hottest Party Hits
 artists:
 - Katalina
+external_ids:
+  spotify: spotify:track:1zrpMHPPawefWja8W8pg13
 features: []
-genres: []
+first_released_as_single: false
 key: dj-girl-katalina
 lyrics_url: https://genius.com/Katalina-dj-girl-lyrics
 name: DJ Girl
@@ -51,6 +54,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1996-11-23'
+release_year: 1996
+runtime: 217906
 ---
 All right, everybody
 I need one line

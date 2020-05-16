@@ -1,8 +1,11 @@
 ---
+album: BBC In Concert
 artists:
 - Culture Club
+external_ids:
+  spotify: spotify:track:5rrVYUTWVGmcVBoPmMKimT
 features: []
-genres: []
+first_released_as_single: false
 key: church-of-the-poison-mind-culture-club
 lyrics_url: https://www.azlyrics.com/lyrics/cultureclub/churchofthepoisonmind.html
 name: Church Of The Poison Mind
@@ -75,8 +78,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1984-02-11'
+release_year: 1982
+runtime: 221586
 ---
-
 Desolate loving in your eyes
 You used and made my life so sweet
 Step out like a God-found child
@@ -144,6 +148,3 @@ In the church of the poison mind
 In the church of the poison mind
 (In the church of the poison mind)
 In the church of the poison mind
-
-
-

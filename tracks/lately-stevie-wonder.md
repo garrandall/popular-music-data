@@ -1,8 +1,11 @@
 ---
+album: Hotter Than July
 artists:
 - Stevie Wonder
+external_ids:
+  spotify: spotify:track:5rlgpm7n5f9mWc5LQU42bI
 features: []
-genres: []
+first_released_as_single: false
 key: lately-stevie-wonder
 lyrics_url: https://www.azlyrics.com/lyrics/steviewonder/lately.html
 name: Lately
@@ -35,8 +38,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1981-05-23'
+release_year: 1980
+runtime: 245240
 ---
-
 Lately, I have had the strangest feeling
 With no vivid reason here to find
 Yet the thought of losing you's been hanging
@@ -74,6 +78,3 @@ I hope my premonition misses
 But what I really feel my eyes won't let me hide
 'Cause they always start to cry
 'Cause this time could mean goodbye
-
-
-

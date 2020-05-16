@@ -1,8 +1,11 @@
 ---
+album: Eye Of The Tiger
 artists:
 - Survivor
+external_ids:
+  spotify: spotify:track:2HHtWyy5CgaQbC7XSoOb0e
 features: []
-genres: []
+first_released_as_single: false
 key: eye-of-the-tiger-survivor
 lyrics_url: https://genius.com/Survivor-eye-of-the-tiger-lyrics
 name: Eye Of The Tiger
@@ -107,6 +110,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1982-11-20'
+release_year: 1982
+runtime: 243773
 ---
 Rising up, back on the street
 Did my time, took my chances

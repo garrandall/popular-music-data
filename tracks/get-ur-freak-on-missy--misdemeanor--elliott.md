@@ -1,8 +1,11 @@
 ---
+album: Miss E... So Addictive
 artists:
 - Missy Elliott
+external_ids:
+  spotify: spotify:track:6zsk6uF3MxfIeHPlubKBvR
 features: []
-genres: []
+first_released_as_single: false
 key: get-ur-freak-on-missy--misdemeanor--elliott
 lyrics_url: https://www.musixmatch.com/lyrics/Missy-Misdemeanor-Elliott-2/Get-Ur-Freak-On-Edit
 name: Get Ur Freak On
@@ -107,6 +110,8 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '2015-02-21'
+release_year: 2001
+runtime: 211120
 ---
 Hit me, hit me
 Gimme some new shit

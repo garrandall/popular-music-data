@@ -1,8 +1,11 @@
 ---
+album: Raise!
 artists:
 - Earth, Wind & Fire
+external_ids:
+  spotify: spotify:track:3koCCeSaVUyrRo3N2gHrd8
 features: []
-genres: []
+first_released_as_single: false
 key: let-s-groove-earth-wind-fire
 lyrics_url: https://www.azlyrics.com/lyrics/earthwindandfire/letsgroove.html
 name: Let's Groove
@@ -103,8 +106,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1982-03-13'
+release_year: 1981
+runtime: 339320
 ---
-
 Let's groove tonight
 Share the spice of life
 Baby slice it right
@@ -189,6 +193,3 @@ Let this groove, light up your fuse
 It's alright, alright
 Let this groove, set in your shoes
 So stand up alright, alright
-
-
-

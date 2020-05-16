@@ -1,8 +1,11 @@
 ---
+album: These Days
 artists:
 - Bon Jovi
+external_ids:
+  spotify: spotify:track:5Il5H0vNRqx0aQOXqAYsCT
 features: []
-genres: []
+first_released_as_single: false
 key: lie-to-me-bon-jovi
 lyrics_url: https://genius.com/Bon-jovi-lie-to-me-lyrics
 name: Lie To Me
@@ -43,6 +46,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1995-12-16'
+release_year: 1995
+runtime: 334240
 ---
 Rumour has it that your daddy's coming down
 He's gonna pay the rent

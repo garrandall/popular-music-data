@@ -1,8 +1,11 @@
 ---
+album: Hold An Old Friend's Hand
 artists:
 - Tiffany
+external_ids:
+  spotify: spotify:track:7tSHnwXxOk8BiRWzlLWfZ9
 features: []
-genres: []
+first_released_as_single: false
 key: radio-romance-tiffany
 lyrics_url: https://www.azlyrics.com/lyrics/tiffany/radioromance.html
 name: Radio Romance
@@ -43,8 +46,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1989-04-22'
+release_year: 1988
+runtime: 244826
 ---
-
 From who?
 Uh, just say from
 From the one who loves you, baby
@@ -95,6 +99,3 @@ Radio radio romance
 Radio radio romance
 Radio radio romance
 Radio romance
-
-
-

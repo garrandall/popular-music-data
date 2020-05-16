@@ -1,8 +1,11 @@
 ---
+album: Crimson & Clover
 artists:
 - Tommy James And The Shondells
+external_ids:
+  spotify: spotify:track:1qTfHUVPsZTnrmvwQrAQdW
 features: []
-genres: []
+first_released_as_single: true
 key: crimson-and-clover-tommy-james-and-the-shondells
 lyrics_url: https://www.azlyrics.com/lyrics/tommyjamesandtheshondells/crimsonandclover.html
 name: Crimson And Clover
@@ -71,8 +74,9 @@ rankings:
   rank: 18
   ranking_list: Billboard Hot 100
   start_date: '1969-03-29'
+release_year: 1968
+runtime: 208666
 ---
-
 Oh
 Now I don't hardly know her
 But I think I could love her
@@ -97,6 +101,3 @@ Crimson and clover, over and over
 Crimson and clover, over and over
 Crimson and clover, over and over
 Crimson and clover, over and over
-
-
-

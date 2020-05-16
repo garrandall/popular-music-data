@@ -1,8 +1,11 @@
 ---
+album: Primitive Love
 artists:
 - Miami Sound Machine
+external_ids:
+  spotify: spotify:track:5jwoygernfGvAuIxFSqxHp
 features: []
-genres: []
+first_released_as_single: false
 key: falling-in-love--uh-oh--miami-sound-machine
 lyrics_url: https://genius.com/Miami-sound-machine-falling-in-love-lyrics
 name: Falling In Love (Uh-Oh)
@@ -71,6 +74,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1987-02-14'
+release_year: 1985
+runtime: 233160
 ---
 Emergency - paging Dr. Beat - Emergency
 Doctor

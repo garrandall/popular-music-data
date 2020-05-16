@@ -1,8 +1,11 @@
 ---
+album: The Best Of The Shangri-Las
 artists:
 - The Shangri-Las
+external_ids:
+  spotify: spotify:track:1YyoprYT9Oz3QiOqhYHO8i
 features: []
-genres: []
+first_released_as_single: false
 key: right-now-and-not-later-the-shangri-las
 lyrics_url: https://www.azlyrics.com/lyrics/shangrilas/rightnowandnotlater.html
 name: Right Now And Not Later
@@ -15,8 +18,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1965-10-16'
+release_year: 1965
+runtime: 155960
 ---
-
 Listen to me, baby, and listen real good.
 You know you're not treating me as good as you should.
 Every time I call you here by my side,
@@ -56,6 +60,3 @@ Right now and not later, baby.
 Right now and not later, baby.
 Right now and not later, baby.
 Right now and not later...
-
-
-

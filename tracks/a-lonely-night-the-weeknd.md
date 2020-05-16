@@ -1,8 +1,11 @@
 ---
+album: Starboy
 artists:
 - The Weeknd
+external_ids:
+  spotify: spotify:track:4UknpXoLjlB7Mao4UWcJ2o
 features: []
-genres: []
+first_released_as_single: false
 key: a-lonely-night-the-weeknd
 lyrics_url: https://www.azlyrics.com/lyrics/weeknd/alonelynight.html
 name: A Lonely Night
@@ -11,8 +14,9 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '2016-12-17'
+release_year: 2016
+runtime: 220173
 ---
-
 Gangster, yeah, yeah
 Hey, na-na-na-na-na-na, hey
 
@@ -61,6 +65,3 @@ Baby girl I loved you
 Know I loved you
 Know I loved you
 Baby, na-na-na-na-na-na-na-na-na-na, ay
-
-
-

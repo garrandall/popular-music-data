@@ -1,9 +1,12 @@
 ---
+album: Loggins And Messina
 artists:
 - Loggins
 - Messina
+external_ids:
+  spotify: spotify:track:6aNNkAJPuE5dY3fcCalNMz
 features: []
-genres: []
+first_released_as_single: false
 key: thinking-of-you-loggins-messina
 lyrics_url: https://www.azlyrics.com/lyrics/logginsmessina/thinkingofyou.html
 name: Thinking Of You
@@ -60,8 +63,9 @@ rankings:
   rank: 52
   ranking_list: Billboard Hot 100
   start_date: '1973-06-23'
+release_year: 1972
+runtime: 138773
 ---
-
 Something inside of me is
 Taking it hard each day
 Something inside of me is
@@ -107,6 +111,3 @@ Whenever you're near me
 You've got me thinking of you
 Whenever you're near me
 You've got me thinking of you
-
-
-

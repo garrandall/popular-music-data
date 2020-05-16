@@ -1,8 +1,11 @@
 ---
+album: Lethal Injection
 artists:
 - Ice Cube
+external_ids:
+  spotify: spotify:track:1P1drZCIcMAqTMbO2DzImN
 features: []
-genres: []
+first_released_as_single: false
 key: really-doe-ice-cube
 lyrics_url: https://www.azlyrics.com/lyrics/icecube/reallydoe.html
 name: Really Doe
@@ -43,9 +46,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1994-02-05'
+release_year: 1993
+runtime: 268160
 ---
-
-
 "Ain't nobody talkin when I'm talkin fellas so shut the fuck up!"
 
 
@@ -169,7 +172,3 @@ North Side
 
 "You got to believe, somethin.."
 "I got to believe in me.."
-
-
-
-

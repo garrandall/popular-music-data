@@ -1,8 +1,11 @@
 ---
+album: Deep Sea Skiving
 artists:
 - Bananarama
+external_ids:
+  spotify: spotify:track:3YsjLfBqaMeX9vFIiQlnvk
 features: []
-genres: []
+first_released_as_single: false
 key: shy-boy--don-t-it-make-you-feel-good--bananarama
 lyrics_url: https://genius.com/Bananarama-shy-boy-lyrics
 name: Shy Boy (Don't It Make You Feel Good)
@@ -23,6 +26,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1983-07-23'
+release_year: 1983
+runtime: 193780
 ---
 He used to be a shy boy
 Until I made him my boy

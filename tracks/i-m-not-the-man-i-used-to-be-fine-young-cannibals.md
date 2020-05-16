@@ -1,8 +1,11 @@
 ---
+album: The Raw & The Cooked
 artists:
 - Fine Young Cannibals
+external_ids:
+  spotify: spotify:track:0ce4Ru8pHOZKijojglD4JS
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-not-the-man-i-used-to-be-fine-young-cannibals
 lyrics_url: https://genius.com/Fine-young-cannibals-im-not-the-man-i-used-to-be-lyrics
 name: I'm Not The Man I Used To Be
@@ -31,6 +34,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1989-12-16'
+release_year: 1988
+runtime: 258866
 ---
 When I'm in trouble or out of step
 If my balance has been upset

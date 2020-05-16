@@ -1,8 +1,11 @@
 ---
+album: See
 artists:
 - The Rascals
+external_ids:
+  spotify: spotify:track:1HFW6u4hlrVolSwwcXy5OZ
 features: []
-genres: []
+first_released_as_single: false
 key: see-the-rascals
 lyrics_url: https://genius.com/The-young-rascals-see-lyrics
 name: See
@@ -39,6 +42,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1969-07-12'
+release_year: 1969
+runtime: 303960
 ---
 Things ain't like they used to be, love's the only thing I see
 Wings of life are taking flight from the darkness to the light

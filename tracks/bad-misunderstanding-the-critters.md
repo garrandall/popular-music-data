@@ -1,8 +1,11 @@
 ---
+album: TRACKS
 artists:
 - The Critters
+external_ids:
+  spotify: spotify:track:4eQ7kb8hyNIYEPuPNZ9RoN
 features: []
-genres: []
+first_released_as_single: false
 key: bad-misunderstanding-the-critters
 lyrics_url: https://www.musixmatch.com/lyrics/The-Critters/Bad-Misunderstanding
 name: Bad Misunderstanding
@@ -31,6 +34,8 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '1967-01-07'
+release_year: 1966
+runtime: 122357
 ---
 It just flew right by your head
 Each move I made, each word I said

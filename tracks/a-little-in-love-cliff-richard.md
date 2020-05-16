@@ -1,8 +1,11 @@
 ---
+album: I'm No Hero
 artists:
 - Cliff Richard
+external_ids:
+  spotify: spotify:track:6l6hiVkntilDYCAWU954gV
 features: []
-genres: []
+first_released_as_single: false
 key: a-little-in-love-cliff-richard
 lyrics_url: https://genius.com/Cliff-richard-a-little-in-love-lyrics
 name: A Little In Love
@@ -95,6 +98,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1981-05-09'
+release_year: 1980
+runtime: 225040
 ---
 It's been so long, you say you've had fun
 And you've been happy with the things you've done

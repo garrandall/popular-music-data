@@ -1,9 +1,12 @@
 ---
+album: Letter To Nipsey
 artists:
 - Meek Mill
+external_ids:
+  spotify: spotify:track:2FTu9DN3BNOFxyLohdtcyQ
 features:
 - Roddy Ricch
-genres: []
+first_released_as_single: true
 key: letter-to-nipsey-meek-mill-roddy-ricch
 lyrics_url: https://www.azlyrics.com/lyrics/meekmill/lettertonipsey.html
 name: Letter To Nipsey
@@ -16,9 +19,9 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '2020-02-15'
+release_year: 2020
+runtime: 167395
 ---
-
-
 Yeah
 
 I just left your viewing at the Staples Center (I did)
@@ -74,6 +77,3 @@ We did this shit all for the gutter, woah, woah, woah, woah
 Did this shit for my lil' brother, woah (Brother), woah, woah, woah
 Had to stand through these tears 'cause I see you every time my eyes close
 Asking myself why you had to go, but only God knows (Only God knows, woah)
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Blue Neighbourhood (The Remixes)
 artists:
 - Troye Sivan
+external_ids:
+  spotify: spotify:track:4z8Ll8nU1jMqB8HvKTyLP1
 features: []
-genres: []
+first_released_as_single: true
 key: happy-little-pill-troye-sivan
 lyrics_url: https://genius.com/Troye-sivan-happy-little-pill-lyrics
 name: Happy Little Pill
@@ -11,6 +14,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2014-08-09'
+release_year: 2014
+runtime: 224874
 ---
 In the crowd, alone
 And every second passing

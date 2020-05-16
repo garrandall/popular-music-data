@@ -1,8 +1,11 @@
 ---
+album: Talking Dreams (Deluxe Version)
 artists:
 - Echosmith
+external_ids:
+  spotify: spotify:track:13P5rwmk2EsoFRIz9UCeh9
 features: []
-genres: []
+first_released_as_single: false
 key: cool-kids-echosmith
 lyrics_url: https://www.azlyrics.com/lyrics/echosmith/coolkids.html
 name: Cool Kids
@@ -99,6 +102,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '2014-12-27'
+release_year: 2013
+runtime: 237626
 ---
 She sees them walking in a straight line, that's not really her style
 And they all got the same heartbeat, but hers is falling behind

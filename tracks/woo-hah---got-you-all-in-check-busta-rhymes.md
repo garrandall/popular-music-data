@@ -1,8 +1,11 @@
 ---
+album: The Coming
 artists:
 - Busta Rhymes
+external_ids:
+  spotify: spotify:track:09WxJCWFMWAxTHBLLelpDS
 features: []
-genres: []
+first_released_as_single: false
 key: woo-hah---got-you-all-in-check-busta-rhymes
 lyrics_url: https://www.azlyrics.com/lyrics/bustarhymes/woohahgotyouallincheck.html
 name: Woo-Hah! Got You All In Check
@@ -87,8 +90,9 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1996-07-20'
+release_year: 1996
+runtime: 272813
 ---
-
 Yah Yah Yah, Yah Yah
 Yah Yah Yah, Yah Yah
 Yah Yah Yah, Yah Yah
@@ -184,6 +188,3 @@ Yo Yo Yay
 
 . .. Yay Yo Yay
 . .. Yay
-
-
-

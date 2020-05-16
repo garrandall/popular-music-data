@@ -1,8 +1,11 @@
 ---
+album: The Spectacular Johnny Horton
 artists:
 - Johnny Horton
+external_ids:
+  spotify: spotify:track:18lMbnzRr3ZuTktR9kWvGs
 features: []
-genres: []
+first_released_as_single: false
 key: the-battle-of-new-orleans-johnny-horton
 lyrics_url: https://genius.com/Johnny-horton-the-battle-of-new-orleans-lyrics
 name: The Battle Of New Orleans
@@ -91,6 +94,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1959-09-14'
+release_year: 1954
+runtime: 149440
 ---
 In 1814 we took a little trip
 Along with Colonel Jackson down the mighty Mississip

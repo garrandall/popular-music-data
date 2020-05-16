@@ -1,8 +1,11 @@
 ---
+album: Boom Boom Rock 'N' Roll
 artists:
 - Freddy Cannon
+external_ids:
+  spotify: spotify:track:3wn2aA8h5yl39BxhynNP70
 features: []
-genres: []
+first_released_as_single: false
 key: action-freddy-cannon
 lyrics_url: https://genius.com/Freddy-cannon-action-lyrics
 name: Action
@@ -43,6 +46,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1965-10-09'
+release_year: 1965
+runtime: 130853
 ---
 Oh, baby, come on, let me take you where the action is
 Oh, baby, come on, let me take you where the action is

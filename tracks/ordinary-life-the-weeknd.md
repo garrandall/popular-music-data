@@ -1,8 +1,11 @@
 ---
+album: Starboy
 artists:
 - The Weeknd
+external_ids:
+  spotify: spotify:track:7lsYGc5H5DHktxO7gbB8bN
 features: []
-genres: []
+first_released_as_single: false
 key: ordinary-life-the-weeknd
 lyrics_url: https://www.azlyrics.com/lyrics/weeknd/ordinarylife.html
 name: Ordinary Life
@@ -15,8 +18,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2016-12-24'
+release_year: 2016
+runtime: 221920
 ---
-
 Heaven in her mouth, got a hell of a tongue
 I can feel her teeth when I drive on a bump
 Fingers letting go of the wheel when I cum
@@ -80,6 +84,3 @@ This ain't ordinary life
 This ain't ordinary life
 No ordinary life
 Whoa-oh-oh, whoa-oh-oh
-
-
-

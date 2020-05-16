@@ -1,8 +1,11 @@
 ---
+album: Beg, Borrow & Steal
 artists:
 - Ohio Express
+external_ids:
+  spotify: spotify:track:6fXsuHWpbQJDU5i74BfwN7
 features: []
-genres: []
+first_released_as_single: false
 key: beg-borrow-and-steal-ohio-express
 lyrics_url: https://www.musixmatch.com/lyrics/Ohio-Express/Beg-Borrow-And-Steal
 name: Beg Borrow And Steal
@@ -55,6 +58,8 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '1967-12-23'
+release_year: 1967
+runtime: 177440
 ---
 You threw me out
 The night before last

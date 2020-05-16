@@ -1,8 +1,11 @@
 ---
+album: KBC Band
 artists:
 - KBC Band
+external_ids:
+  spotify: spotify:track:5imdDjc6TBgVFW9xOlqIYW
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-not-you-it-s-not-me-kbc-band
 name: It's Not You It's Not Me
 rankings:
@@ -22,5 +25,7 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1986-12-20'
+release_year: 1986
+runtime: 227173
 ---
 

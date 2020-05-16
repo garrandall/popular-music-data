@@ -1,8 +1,11 @@
 ---
+album: Minute By Minute
 artists:
 - The Doobie Brothers
+external_ids:
+  spotify: spotify:track:4atNyOEUSE830HcGp8MAMX
 features: []
-genres: []
+first_released_as_single: false
 key: here-to-love-you-the-doobie-brothers
 lyrics_url: https://genius.com/The-doobie-brothers-here-to-love-you-lyrics
 name: Here To Love You
@@ -27,6 +30,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1982-03-06'
+release_year: 1977
+runtime: 207533
 ---
 I've heard it said that the weight of the world's problems
 Is enough to make the ball fall right through space

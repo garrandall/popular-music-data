@@ -1,8 +1,11 @@
 ---
+album: Royalty (Deluxe Version)
 artists:
 - Chris Brown
+external_ids:
+  spotify: spotify:track:3FQdtOMXdfDcDDjY1OHAqz
 features: []
-genres: []
+first_released_as_single: true
 key: back-to-sleep-chris-brown
 lyrics_url: https://genius.com/Chris-brown-back-to-sleep-lyrics
 name: Back To Sleep
@@ -87,6 +90,8 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '2016-05-14'
+release_year: 2015
+runtime: 201647
 ---
 I know it's late, I know it's late
 And baby I can't focus, focus

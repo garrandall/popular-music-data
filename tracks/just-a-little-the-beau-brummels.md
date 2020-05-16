@@ -1,8 +1,11 @@
 ---
+album: Introducing The Beau Brummels
 artists:
 - The Beau Brummels
+external_ids:
+  spotify: spotify:track:4PXJjX7PQGzCh4G5WR4Pli
 features: []
-genres: []
+first_released_as_single: false
 key: just-a-little-the-beau-brummels
 lyrics_url: https://genius.com/The-beau-brummels-just-a-little-lyrics
 name: Just A Little
@@ -55,6 +58,8 @@ rankings:
   rank: 36
   ranking_list: Billboard Hot 100
   start_date: '1965-07-03'
+release_year: 1965
+runtime: 145506
 ---
 I can't stay, yes I know
 You know I hate to go

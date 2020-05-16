@@ -1,8 +1,11 @@
 ---
+album: "F\xE9nix"
 artists:
 - Nicky Jam
+external_ids:
+  spotify: spotify:track:2GICtNjlmq5w1XIQ9s0D9y
 features: []
-genres: []
+first_released_as_single: false
 key: with-you-tonight-nicky-jam
 lyrics_url: https://www.azlyrics.com/lyrics/nickyjam/withyoutonighthastaelamanecer.html
 name: With You Tonight
@@ -83,8 +86,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2016-10-15'
+release_year: 2016
+runtime: 208973
 ---
-
 Girl you know that I'll do anything
 To know a little more than just your name
 Only thing I know is you're too fine
@@ -155,6 +159,3 @@ N.I.C.K
 Nicky Nicky Nicky Jam
 Saga WhiteBlack
 La Industria Inc
-
-
-

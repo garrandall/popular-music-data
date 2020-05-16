@@ -1,8 +1,11 @@
 ---
+album: NOW That's What I Call Music, Vol. 71
 artists:
 - 5 Seconds Of Summer
+external_ids:
+  spotify: spotify:track:6GIRtKNXokeu25nn7U6Hu8
 features: []
-genres: []
+first_released_as_single: true
 key: easier-5-seconds-of-summer
 lyrics_url: https://www.azlyrics.com/lyrics/5secondsofsummer/easier.html
 name: Easier
@@ -71,8 +74,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2019-09-21'
+release_year: 2019
+runtime: 165767
 ---
-
 Is it easier to stay? Is it easier to go?
 I don't wanna know, oh
 But I know that I'm never, ever gonna change
@@ -137,6 +141,3 @@ And you know you don't want it any other way
 I love you so much that I hate you (Oh-oh-oh-oh-oh-oh-oh)
 Right now, it's so hard to blame you
 'Cause you're so damn beautiful
-
-
-

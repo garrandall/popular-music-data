@@ -1,8 +1,11 @@
 ---
+album: Izitso
 artists:
 - Cat Stevens
+external_ids:
+  spotify: spotify:track:6yIHh0CnpnjqC1F7nfpq2f
 features: []
-genres: []
+first_released_as_single: false
 key: was-dog-a-doughnut-cat-stevens
 lyrics_url: https://genius.com/Cat-stevens-was-dog-a-doughnut-lyrics
 name: Was Dog A Doughnut
@@ -43,8 +46,7 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1978-01-14'
+release_year: 1977
+runtime: 255333
 ---
-Cat Stevens
-Izitso
-Was Dog A Doughnut?
 (instrumental)

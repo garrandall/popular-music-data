@@ -1,8 +1,11 @@
 ---
+album: Beggars Banquet
 artists:
 - The Rolling Stones
+external_ids:
+  spotify: spotify:track:2kPhgv5gytx2Dj5OoHvkNi
 features: []
-genres: []
+first_released_as_single: false
 key: street-fighting-man-the-rolling-stones
 lyrics_url: https://genius.com/The-rolling-stones-street-fighting-man-lyrics
 name: Street Fighting Man
@@ -31,6 +34,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1968-10-12'
+release_year: 1966
+runtime: 195773
 ---
 Everywhere I hear the sound of marching, charging feet, boy
 Because summer's here and the time is right for fighting in the street boy

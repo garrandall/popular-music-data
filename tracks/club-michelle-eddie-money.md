@@ -1,8 +1,11 @@
 ---
+album: Where's the Party?
 artists:
 - Eddie Money
+external_ids:
+  spotify: spotify:track:2W8cfF08zbVmjdu1dZjkDQ
 features: []
-genres: []
+first_released_as_single: false
 key: club-michelle-eddie-money
 lyrics_url: https://www.azlyrics.com/lyrics/eddiemoney/clubmichelle.html
 name: Club Michelle
@@ -35,8 +38,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1984-04-07'
+release_year: 1983
+runtime: 244960
 ---
-
 Well you know I got to find it
 It's on a dark deserted street
 But you know I had a time there
@@ -100,6 +104,3 @@ Dancing at the Club Michelle
 Whoo-oo-oh-ohnd they played that song
 At the Club Michelle it went on and on
 Whoo-oo-oh-oh
-
-
-

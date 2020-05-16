@@ -1,8 +1,11 @@
 ---
+album: Twist Of Shadows
 artists:
 - Xymox
+external_ids:
+  spotify: spotify:track:6YVKkyrX3PkBcr5AaxrCWw
 features: []
-genres: []
+first_released_as_single: false
 key: imagination-xymox
 lyrics_url: https://genius.com/Xymox-imagination-lyrics
 name: Imagination
@@ -19,6 +22,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1990-03-17'
+release_year: 1989
+runtime: 305133
 ---
 I have come to indecision
 Someone is pushing me

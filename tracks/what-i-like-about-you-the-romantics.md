@@ -1,8 +1,11 @@
 ---
+album: The Romantics
 artists:
 - The Romantics
+external_ids:
+  spotify: spotify:track:6hPRvolobcjwJ14HLtCgTM
 features: []
-genres: []
+first_released_as_single: false
 key: what-i-like-about-you-the-romantics
 lyrics_url: https://genius.com/The-romantics-what-i-like-about-you-lyrics
 name: What I Like About You
@@ -39,6 +42,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1980-04-05'
+release_year: 1968
+runtime: 174933
 ---
 Hey
 Uh huh huh

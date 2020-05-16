@@ -1,8 +1,11 @@
 ---
+album: Please Please Me
 artists:
 - The Beatles
+external_ids:
+  spotify: spotify:track:6EHuOufBeL6vk3TvVJB5qo
 features: []
-genres: []
+first_released_as_single: false
 key: please-please-me-the-beatles
 lyrics_url: https://genius.com/The-beatles-please-please-me-lyrics
 name: Please Please Me
@@ -59,6 +62,8 @@ rankings:
   rank: 29
   ranking_list: Billboard Hot 100
   start_date: '1964-04-25'
+release_year: 1963
+runtime: 120853
 ---
 Last night, I said these words to my girl
 I know you never even try, girl

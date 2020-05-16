@@ -1,8 +1,11 @@
 ---
+album: Cheryl Ladd
 artists:
 - Cheryl Ladd
+external_ids:
+  spotify: spotify:track:1p4F1uAWVr8TPnEng01jk1
 features: []
-genres: []
+first_released_as_single: false
 key: think-it-over-cheryl-ladd
 lyrics_url: https://genius.com/Cheryl-ladd-think-it-over-lyrics
 name: Think It Over
@@ -51,6 +54,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1978-09-30'
+release_year: 1978
+runtime: 200893
 ---
 You said you needed time to think it over
 You said I was too young for you to care

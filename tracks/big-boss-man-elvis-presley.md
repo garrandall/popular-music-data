@@ -1,8 +1,11 @@
 ---
+album: Clambake
 artists:
 - Elvis Presley
+external_ids:
+  spotify: spotify:track:4MAl5GecO9aspyQglkaRRO
 features: []
-genres: []
+first_released_as_single: false
 key: big-boss-man-elvis-presley
 lyrics_url: https://www.azlyrics.com/lyrics/elvispresley/bigbossman.html
 name: Big Boss Man
@@ -31,8 +34,9 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1967-11-18'
+release_year: 1967
+runtime: 172146
 ---
-
 Big boss man, can't you hear me when I call?
 Big boss man, can't you hear me when I call?
 Can't you hear me when I call?
@@ -60,6 +64,3 @@ Big boss man, big boss man, can't you hear me when I call?
 I said you ain't so big, you're just tall that's all
 All right, big boss man
 It's all right
-
-
-

@@ -1,9 +1,12 @@
 ---
+album: 'Iceman: The Mercury Years'
 artists:
 - Jerry Butler
 - Brenda Lee Eager
+external_ids:
+  spotify: spotify:track:2vE5u8H9urlvYNqWV3ENyw
 features: []
-genres: []
+first_released_as_single: false
 key: -they-long-to-be--close-to-you-jerry-butler-brenda-lee-eager
 lyrics_url: https://www.musixmatch.com/lyrics/Jerry-Butler-feat-Brenda-Lee-Eager/They-Long-To-Be-Close-To-You
 name: (They Long To Be) Close To You
@@ -20,6 +23,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1972-09-23'
+release_year: 1972
+runtime: 251906
 ---
 Why do birds
 Suddenly appear?

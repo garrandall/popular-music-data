@@ -1,8 +1,11 @@
 ---
+album: Points On The Curve
 artists:
 - Wang Chung
+external_ids:
+  spotify: spotify:track:3OM0cHwmJv6ZpsCgrEzXPh
 features: []
-genres: []
+first_released_as_single: false
 key: dance-hall-days-wang-chung
 lyrics_url: https://www.azlyrics.com/lyrics/wangchung/dancehalldays.html
 name: Dance Hall Days
@@ -95,8 +98,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1984-09-15'
+release_year: 1983
+runtime: 240800
 ---
-
 Take your baby by the hand
 And make her do a high hand stand
 And take your baby by the heel
@@ -156,6 +160,3 @@ Dance hall days, love
 Dance hall days
 
 Dance hall days, love
-
-
-

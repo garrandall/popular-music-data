@@ -1,8 +1,11 @@
 ---
+album: The Many Moods Of Tony
 artists:
 - Tony Bennett
+external_ids:
+  spotify: spotify:track:0Q3GxUzrggJLs6p8bGyj94
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-wait-too-long-tony-bennett
 lyrics_url: https://genius.com/Tony-bennett-dont-wait-too-long-lyrics
 name: Don't Wait Too Long
@@ -35,6 +38,8 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '1963-11-23'
+release_year: 1963
+runtime: 155293
 ---
 You are the summer
 And I am the autumn

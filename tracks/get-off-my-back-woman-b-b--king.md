@@ -1,8 +1,11 @@
 ---
+album: Live And Well
 artists:
 - B.B. King
+external_ids:
+  spotify: spotify:track:4jbJsvzAgDQ6KwGjdVII13
 features: []
-genres: []
+first_released_as_single: false
 key: get-off-my-back-woman-b-b--king
 lyrics_url: https://genius.com/Bb-king-get-off-my-back-woman-lyrics
 name: Get Off My Back Woman
@@ -39,6 +42,8 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '1969-10-18'
+release_year: 1969
+runtime: 196333
 ---
 Yeah, you get off of my back, baby
 Can't you tell you're choking me

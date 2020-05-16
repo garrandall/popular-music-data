@@ -1,8 +1,11 @@
 ---
+album: 10,000 Towns
 artists:
 - Eli Young Band
+external_ids:
+  spotify: spotify:track:5J6IvCB3hhdBVFfKI75fjp
 features: []
-genres: []
+first_released_as_single: false
 key: dust-eli-young-band
 lyrics_url: https://genius.com/Eli-young-band-dust-lyrics
 name: Dust
@@ -43,6 +46,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2014-10-04'
+release_year: 2013
+runtime: 198933
 ---
 She's sick of this town, she's sick of that boy
 Yeah, she's sick of dreams that never take flight

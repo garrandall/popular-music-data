@@ -1,8 +1,11 @@
 ---
+album: 'Songs Of Faith and Devotion: Live'
 artists:
 - Depeche Mode
+external_ids:
+  spotify: spotify:track:4L2fiXQcHKki6w74FPksQb
 features: []
-genres: []
+first_released_as_single: true
 key: walking-in-my-shoes-depeche-mode
 lyrics_url: https://www.azlyrics.com/lyrics/depechemode/walkinginmyshoes.html
 name: Walking In My Shoes
@@ -39,8 +42,9 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1993-07-24'
+release_year: 1993
+runtime: 299840
 ---
-
 I would tell you about the things they put me through
 The pain I've been subjected to
 But the Lord himself would blush
@@ -93,6 +97,3 @@ If you try walking in my shoes
 Try walking in my shoes
 If you try walking in my shoes
 Try walking in my shoes
-
-
-

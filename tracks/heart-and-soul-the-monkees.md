@@ -1,8 +1,11 @@
 ---
+album: Pool It!
 artists:
 - The Monkees
+external_ids:
+  spotify: spotify:track:7wE2Zi0hpSnO9O9l5Yf6jF
 features: []
-genres: []
+first_released_as_single: false
 key: heart-and-soul-the-monkees
 lyrics_url: https://www.azlyrics.com/lyrics/monkees/heartandsoul.html
 name: Heart And Soul
@@ -23,8 +26,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1987-10-17'
+release_year: 1987
+runtime: 235413
 ---
-
 Love in a vacuum, love in space.
 Love without even a little hint of a trace.
 Love in confusion and love doesn't show on your face.
@@ -59,6 +63,3 @@ I wish you put your heart and soul
 Where I can see them shine.
 I wish you put your heart and soul
 Where I can think they're mine...
-
-
-

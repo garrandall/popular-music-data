@@ -1,8 +1,11 @@
 ---
+album: At The Golden Nugget
 artists:
 - Hank Thompson
+external_ids:
+  spotify: spotify:track:0VGqZ9AmcUuHQnLNPUIFre
 features: []
-genres: []
+first_released_as_single: false
 key: she-s-just-a-whole-lot-like-you-hank-thompson
 lyrics_url: https://genius.com/Hank-thompson-shes-just-a-whole-lot-like-you-lyrics
 name: She's Just A Whole Lot Like You
@@ -11,6 +14,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1960-07-25'
+release_year: 1960
+runtime: 160373
 ---
 I found you again in somebody new
 It's sorta like old time doing things we used to do

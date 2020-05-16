@@ -1,8 +1,11 @@
 ---
+album: Live
 artists:
 - Iron Butterfly
+external_ids:
+  spotify: spotify:track:3lHU3USv73hdC6kon7joAJ
 features: []
-genres: []
+first_released_as_single: false
 key: in-the-time-of-our-lives-iron-butterfly
 lyrics_url: https://www.azlyrics.com/lyrics/ironbutterfly/inthetimeofourlives.html
 name: In The Time Of Our Lives
@@ -15,8 +18,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1969-07-19'
+release_year: 1969
+runtime: 281573
 ---
-
 I listen to the clock beat as it ticks out time away
 And listen to the birds' laughter as they live for today
 And listen to the heart beat as it beats our lives away
@@ -44,6 +48,3 @@ Without a doubt they're real
 Without a doubt they're real
 
 Without a doubt they're real
-
-
-

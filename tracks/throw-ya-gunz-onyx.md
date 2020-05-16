@@ -1,8 +1,11 @@
 ---
+album: Bacdafucup
 artists:
 - Onyx
+external_ids:
+  spotify: spotify:track:2nCVH8UkoII2jWwx6SYVso
 features: []
-genres: []
+first_released_as_single: false
 key: throw-ya-gunz-onyx
 lyrics_url: https://www.azlyrics.com/lyrics/onyx/throwyagunz.html
 name: Throw Ya Gunz
@@ -19,9 +22,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1993-04-17'
+release_year: 1993
+runtime: 196373
 ---
-
-
 Take em out, take em out, bring em out dead
 Shine em up, shine em up, shine the bald head
 One gun, two gun, three gun, four
@@ -107,6 +110,3 @@ Fuck that, yo DS we comin man, we got the bail
 We got the bail, we gonna break you out man
 Fuck that, yeah!
 We the fuck up out of this piec
-
-
-

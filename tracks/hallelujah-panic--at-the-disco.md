@@ -1,8 +1,11 @@
 ---
+album: Death of a Bachelor
 artists:
 - Panic! At The Disco
+external_ids:
+  spotify: spotify:track:6TzJLISIitIzn1WtjDY0Op
 features: []
-genres: []
+first_released_as_single: false
 key: hallelujah-panic--at-the-disco
 lyrics_url: https://www.azlyrics.com/lyrics/panicatthedisco/hallelujah.html
 name: Hallelujah
@@ -11,8 +14,9 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '2015-05-09'
+release_year: 2015
+runtime: 180626
 ---
-
 Oh!
 A moment you'll never remember
 And a night you'll never forget!
@@ -83,6 +87,3 @@ Let it move right through ya (hallelujah!)
 Say your prayers
 Say your prayers
 Say your prayers
-
-
-

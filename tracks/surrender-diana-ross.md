@@ -1,8 +1,11 @@
 ---
+album: Surrender
 artists:
 - Diana Ross
+external_ids:
+  spotify: spotify:track:4BePraELb3itWU8kctalgP
 features: []
-genres: []
+first_released_as_single: false
 key: surrender-diana-ross
 lyrics_url: https://www.azlyrics.com/lyrics/dianaross/surrender.html
 name: Surrender
@@ -39,8 +42,9 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1971-10-02'
+release_year: 1971
+runtime: 174520
 ---
-
 I want the love that you deny me
 That I need so desperately
 The tenderness that you posses
@@ -87,6 +91,3 @@ Surrender your love baby
 Surrender your love
 Surrender your love baby
 Surrender your love
-
-
-

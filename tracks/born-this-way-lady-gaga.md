@@ -1,8 +1,11 @@
 ---
+album: Born This Way
 artists:
 - Lady Gaga
+external_ids:
+  spotify: spotify:track:6r2BECwMgEoRb5yLfp0Hca
 features: []
-genres: []
+first_released_as_single: false
 key: born-this-way-lady-gaga
 lyrics_url: https://genius.com/Lady-gaga-born-this-way-lyrics
 name: Born This Way
@@ -87,6 +90,8 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '2011-07-09'
+release_year: 2011
+runtime: 260253
 ---
 It doesn't matter if you love him, or capital "H-I-M" (M, M, M)
 Just put your paws up

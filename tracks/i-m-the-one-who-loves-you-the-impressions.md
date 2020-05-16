@@ -1,8 +1,11 @@
 ---
+album: The Impressions
 artists:
 - The Impressions
+external_ids:
+  spotify: spotify:track:0roAXbNLktLfjacnR7tesL
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-the-one-who-loves-you-the-impressions
 lyrics_url: https://genius.com/The-impressions-im-the-one-who-loves-you-lyrics
 name: I'm The One Who Loves You
@@ -31,6 +34,8 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '1963-03-16'
+release_year: 1963
+runtime: 149933
 ---
 I'm the one who loves you
 I'm the one who loves you

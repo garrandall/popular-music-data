@@ -1,8 +1,11 @@
 ---
+album: Chicago 18
 artists:
 - Chicago
+external_ids:
+  spotify: spotify:track:2dIUMoTXjETNEQ0z6ubBQw
 features: []
-genres: []
+first_released_as_single: false
 key: if-she-would-have-been-faithful-chicago
 lyrics_url: https://www.azlyrics.com/lyrics/chicago/ifshewouldhavebeenfaithful.html
 name: If She Would Have Been Faithful
@@ -83,8 +86,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1987-07-25'
+release_year: 1986
+runtime: 231493
 ---
-
 I was thinking about her
 Visiting the past
 Reconstructing details with old photographs
@@ -118,4 +122,3 @@ It's a paradox - full of contradiction
 How I got from there to here
 It defies a
 Logical explanation
-

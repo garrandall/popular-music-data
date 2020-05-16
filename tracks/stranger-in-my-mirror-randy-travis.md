@@ -1,8 +1,11 @@
 ---
+album: You And You Alone
 artists:
 - Randy Travis
+external_ids:
+  spotify: spotify:track:6T7Je3bIf8fU11OI4Yhf3C
 features: []
-genres: []
+first_released_as_single: false
 key: stranger-in-my-mirror-randy-travis
 lyrics_url: https://www.azlyrics.com/lyrics/randytravis/strangerinmymirror.html
 name: Stranger In My Mirror
@@ -23,8 +26,9 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1999-06-12'
+release_year: 1998
+runtime: 195466
 ---
-
 There's a stranger in my mirror
 Who don't know how to behave
 He keeps grinnin' 'bout you
@@ -79,6 +83,3 @@ He used to be my twin
 Now there's a stranger in my mirror
 Lord, I'm in love with you
 And there's a stranger in my mirror...
-
-
-

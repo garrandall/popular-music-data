@@ -1,8 +1,11 @@
 ---
+album: The Band Perry
 artists:
 - The Band Perry
+external_ids:
+  spotify: spotify:track:4u26EevCNXMhlvE1xFBJwX
 features: []
-genres: []
+first_released_as_single: false
 key: if-i-die-young-the-band-perry
 lyrics_url: https://genius.com/The-band-perry-if-i-die-young-lyrics
 name: If I Die Young
@@ -219,6 +222,8 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '2011-12-10'
+release_year: 2010
+runtime: 222773
 ---
 If I die young, bury me in satin
 Lay me down on a bed of roses

@@ -1,8 +1,11 @@
 ---
+album: Press To Play
 artists:
 - Paul McCartney
+external_ids:
+  spotify: spotify:track:6wvBLdQQHLCNds52FbZpZL
 features: []
-genres: []
+first_released_as_single: false
 key: press-paul-mccartney
 lyrics_url: https://www.azlyrics.com/lyrics/paulmccartney/press.html
 name: Press
@@ -51,8 +54,9 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1986-10-11'
+release_year: 1986
+runtime: 283093
 ---
-
 Darling, I Love You Very, Very, Very Much,
 And I Really Am Relying On Your Touch.
 But With All These People Listening In,
@@ -86,6 +90,3 @@ Right There, That's It. Yes.
 When You Feel The Stress,
 Don't Just Stand There.
 Won't You Tell Me To Press?
-
-
-

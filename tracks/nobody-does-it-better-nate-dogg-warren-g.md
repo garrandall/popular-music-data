@@ -1,9 +1,12 @@
 ---
+album: G-Funk Mix
 artists:
 - Nate Dogg
+external_ids:
+  spotify: spotify:track:6m1100i1kGPUeBvgynVDu3
 features:
 - Warren G
-genres: []
+first_released_as_single: true
 key: nobody-does-it-better-nate-dogg-warren-g
 lyrics_url: https://www.azlyrics.com/lyrics/natedogg/nobodydoesitbetter.html
 name: Nobody Does It Better
@@ -80,8 +83,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1998-11-07'
+release_year: 1998
+runtime: 270080
 ---
-
 Nobody... does it better
 Nobody... does it better
 Nobody... does it better
@@ -155,6 +159,3 @@ Nobody does it better than me
 
 
  Nobody... does it better
-
-
-

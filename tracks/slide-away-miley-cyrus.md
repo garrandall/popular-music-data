@@ -1,8 +1,11 @@
 ---
+album: Slide Away
 artists:
 - Miley Cyrus
+external_ids:
+  spotify: spotify:track:44ADyYoY5liaRa3EOAl4uf
 features: []
-genres: []
+first_released_as_single: true
 key: slide-away-miley-cyrus
 lyrics_url: https://genius.com/Miley-cyrus-slide-away-lyrics
 name: Slide Away
@@ -31,6 +34,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2019-10-05'
+release_year: 2019
+runtime: 233654
 ---
 Woo-oh woo-oohwoo-ohoh
 Woo-oh woo-oohwoo-ohoh

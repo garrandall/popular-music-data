@@ -1,8 +1,11 @@
 ---
+album: Sweet Right Here
 artists:
 - SHeDAISY
+external_ids:
+  spotify: spotify:track:3OBV3QV7wBp5KrAec8qibm
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-worry--bout-a-thing-shedaisy
 lyrics_url: https://genius.com/Shedaisy-dont-worry-bout-a-thing-lyrics
 name: Don't Worry 'Bout A Thing
@@ -47,6 +50,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2005-09-03'
+release_year: 2004
+runtime: 215026
 ---
 Ever been misunderstood, misused, or misled
 Ever knocked on the sky

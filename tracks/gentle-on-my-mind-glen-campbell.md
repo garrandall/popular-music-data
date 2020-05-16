@@ -1,8 +1,11 @@
 ---
+album: Gentle On My Mind
 artists:
 - Glen Campbell
+external_ids:
+  spotify: spotify:track:0mLoTgCB8oU0sJGojRtvDu
 features: []
-genres: []
+first_released_as_single: false
 key: gentle-on-my-mind-glen-campbell
 lyrics_url: https://www.musixmatch.com/lyrics/Glen-Campbell/Gentle-on-My-Mind
 name: Gentle On My Mind
@@ -71,6 +74,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1968-11-09'
+release_year: 1967
+runtime: 178626
 ---
 It's knowing that your door is always open
 And your path is free to walk

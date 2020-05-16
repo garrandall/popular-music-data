@@ -1,9 +1,12 @@
 ---
+album: God's Project
 artists:
 - Aventura
+external_ids:
+  spotify: spotify:track:6G4U9avyBNEfP0fAIduev3
 features:
 - Don Omar
-genres: []
+first_released_as_single: false
 key: ella-y-yo-aventura-don-omar
 lyrics_url: https://genius.com/Aventura-ella-y-yo-lyrics
 name: Ella Y Yo
@@ -12,6 +15,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2005-12-17'
+release_year: 2005
+runtime: 267786
 ---
 ¡Don!
 Another one, that's right

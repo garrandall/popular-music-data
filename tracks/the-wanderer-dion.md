@@ -1,8 +1,11 @@
 ---
+album: Runaround Sue
 artists:
 - Dion
+external_ids:
+  spotify: spotify:track:3v8d3ku3kiTZVPxEt7a2dE
 features: []
-genres: []
+first_released_as_single: false
 key: the-wanderer-dion
 lyrics_url: https://genius.com/Dion-the-wanderer-lyrics
 name: The Wanderer
@@ -79,6 +82,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1962-04-07'
+release_year: 1961
+runtime: 168640
 ---
 Oh well, I'm the type of guy who will never settle down
 Where pretty girls are, well you know that I'm around

@@ -1,8 +1,11 @@
 ---
+album: Van Halen II
 artists:
 - Van Halen
+external_ids:
+  spotify: spotify:track:7Ly4DzymgujObKg7wWVHZV
 features: []
-genres: []
+first_released_as_single: false
 key: beautiful-girls-van-halen
 lyrics_url: https://www.azlyrics.com/lyrics/vanhalen/beautifulgirls.html
 name: Beautiful Girls
@@ -23,8 +26,9 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1979-10-06'
+release_year: 1979
+runtime: 236240
 ---
-
 She was seaside sittin', just a smokin' and a drinkin' on ringside, on top of the world, oh, yeah.
 She had her drink in her hand; she had her toes in the sand and whoa, what a beautiful girl, ah, yeah.
 What a sweet talkin' honey with a little bit of money can turn your head around.
@@ -49,4 +53,3 @@ Here I am, ain't no man of the world, no.
 All I need is a beautiful girl.
 Ah, yeah! Beautiful girls.
 Ah, yeah! Beautiful girls.
-

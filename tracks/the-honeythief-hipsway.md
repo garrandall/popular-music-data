@@ -1,8 +1,11 @@
 ---
+album: Hipsway
 artists:
 - Hipsway
+external_ids:
+  spotify: spotify:track:1bkSzATaKPaDglvqKMw3QE
 features: []
-genres: []
+first_released_as_single: false
 key: the-honeythief-hipsway
 lyrics_url: https://genius.com/Hipsway-the-honeythief-lyrics
 name: The Honeythief
@@ -67,6 +70,8 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '1987-05-02'
+release_year: 1986
+runtime: 190973
 ---
 Sleek, big cat
 Bible black

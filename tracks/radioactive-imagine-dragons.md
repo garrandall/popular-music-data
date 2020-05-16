@@ -1,8 +1,11 @@
 ---
+album: Night Visions
 artists:
 - Imagine Dragons
+external_ids:
+  spotify: spotify:track:4G8gkOterJn0Ywt6uhqbhp
 features: []
-genres: []
+first_released_as_single: false
 key: radioactive-imagine-dragons
 lyrics_url: https://genius.com/Imagine-dragons-radioactive-lyrics
 name: Radioactive
@@ -355,6 +358,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2014-05-10'
+release_year: 2012
+runtime: 186813
 ---
 Whoah-oh
 Whoah-oh

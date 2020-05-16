@@ -1,8 +1,11 @@
 ---
+album: It's About Time
 artists:
 - SWV
+external_ids:
+  spotify: spotify:track:4zAxfkmJqsaHqFu1YPMS5a
 features: []
-genres: []
+first_released_as_single: false
 key: always-on-my-mind-swv
 lyrics_url: https://www.azlyrics.com/lyrics/swv/yourealwaysonmymind.html
 name: Always On My Mind
@@ -75,8 +78,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1994-04-30'
+release_year: 1992
+runtime: 317360
 ---
-
 You're always on my mind
 
 
@@ -114,4 +118,3 @@ I guess that's why you're always on my mind
 
 Thinking 'bout ya, thinking 'bout ya, I can't stop thinking 'bout ya
 (On my mind)
-

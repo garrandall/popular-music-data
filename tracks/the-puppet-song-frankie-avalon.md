@@ -1,8 +1,11 @@
 ---
+album: Collection 1954-62
 artists:
 - Frankie Avalon
+external_ids:
+  spotify: spotify:track:6NwV7axZUpQkiM0fNQSO8U
 features: []
-genres: []
+first_released_as_single: false
 key: the-puppet-song-frankie-avalon
 lyrics_url: https://genius.com/Frankie-avalon-the-puppet-song-lyrics
 name: The Puppet Song
@@ -35,6 +38,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1961-01-23'
+release_year: 1960
+runtime: 134946
 ---
 In a little town, many years ago
 Lived a puppet maker who would give a puppet show

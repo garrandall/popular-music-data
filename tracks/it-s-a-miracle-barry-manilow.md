@@ -1,8 +1,11 @@
 ---
+album: Barry Manilow II
 artists:
 - Barry Manilow
+external_ids:
+  spotify: spotify:track:0JNijCVL3ST5DjAQH9gWui
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-a-miracle-barry-manilow
 lyrics_url: https://genius.com/Barry-manilow-its-a-miracle-lyrics
 name: It's A Miracle
@@ -59,6 +62,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1975-05-24'
+release_year: 1974
+runtime: 239053
 ---
 You wouldn't believe where I've been
 The cities and towns I've been in

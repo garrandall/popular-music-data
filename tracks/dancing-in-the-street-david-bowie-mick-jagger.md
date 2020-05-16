@@ -1,9 +1,12 @@
 ---
+album: Dancing In The Street E.P.
 artists:
 - David Bowie
 - Mick Jagger
+external_ids:
+  spotify: spotify:track:6FnuMo55jNECTDdS1nD5H0
 features: []
-genres: []
+first_released_as_single: true
 key: dancing-in-the-street-david-bowie-mick-jagger
 lyrics_url: https://genius.com/David-bowie-dancing-in-the-street-lyrics
 name: Dancing In The Street
@@ -64,6 +67,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1985-11-30'
+release_year: 1985
+runtime: 204786
 ---
 Okay
 Tokyo, South America, Australia, France, Germany, UK, Africa

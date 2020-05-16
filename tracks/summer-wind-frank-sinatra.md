@@ -1,8 +1,11 @@
 ---
+album: Strangers In The Night
 artists:
 - Frank Sinatra
+external_ids:
+  spotify: spotify:track:2cI7j96n1rfv4RNKuri4or
 features: []
-genres: []
+first_released_as_single: false
 key: summer-wind-frank-sinatra
 lyrics_url: https://genius.com/Frank-sinatra-summer-wind-lyrics
 name: Summer Wind
@@ -35,6 +38,8 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '1966-10-15'
+release_year: 1966
+runtime: 178253
 ---
 The summer wind, came blowin' in from across the sea
 It lingered there, to touch your hair and walk with me

@@ -1,8 +1,11 @@
 ---
+album: For The Working Class Man
 artists:
 - Jimmy Barnes
+external_ids:
+  spotify: spotify:track:0BW1rru4a0cYFiu8KkBZVk
 features: []
-genres: []
+first_released_as_single: false
 key: working-class-man-jimmy-barnes
 lyrics_url: https://www.azlyrics.com/lyrics/jimmybarnes/workingclassman.html
 name: Working Class Man
@@ -39,8 +42,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1986-05-10'
+release_year: 1985
+runtime: 210480
 ---
-
 Working hard to make a living
 Bringing shelter from the rain
 A father's son left to carry on
@@ -106,6 +110,3 @@ Yeah he is
 
 (Working class)
 (Working class man)
-
-
-

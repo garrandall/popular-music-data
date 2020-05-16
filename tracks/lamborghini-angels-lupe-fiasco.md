@@ -1,8 +1,11 @@
 ---
+album: 'Food & Liquor II: The Great American Rap Album Pt. 1'
 artists:
 - Lupe Fiasco
+external_ids:
+  spotify: spotify:track:3n0Y5ZSF6FqzP2ZGW9Fh3D
 features: []
-genres: []
+first_released_as_single: false
 key: lamborghini-angels-lupe-fiasco
 lyrics_url: https://www.azlyrics.com/lyrics/lupefiasco/lamborghiniangels.html
 name: Lamborghini Angels
@@ -11,9 +14,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2012-09-01'
+release_year: 2012
+runtime: 196253
 ---
-
-
 It's a mad world out here, I tell you
 The world's gone stark, raving mad
 Everyone in the world is mad
@@ -71,4 +74,3 @@ He forgives them in advance says that he will do again
 
 
 My fellow Americans...
-

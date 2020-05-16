@@ -1,8 +1,11 @@
 ---
+album: The Definitive Collection
 artists:
 - David Cassidy
+external_ids:
+  spotify: spotify:track:3cmb7mFWij3I2hKfGSRE3z
 features: []
-genres: []
+first_released_as_single: false
 key: how-can-i-be-sure-david-cassidy
 lyrics_url: https://www.azlyrics.com/lyrics/davidcassidy/howcanibesure.html
 name: How Can I Be Sure
@@ -43,8 +46,9 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '1972-07-15'
+release_year: 1972
+runtime: 187360
 ---
-
 How can I be sure
 In a world that's constantly changin'?
 How can I be sure
@@ -83,6 +87,3 @@ How can I be sure
 In a world that's constantly changing?
 How can I be sure?
 I'll be sure with you
-
-
-

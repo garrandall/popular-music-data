@@ -1,8 +1,11 @@
 ---
+album: Too Hot to Stop It (Expanded Version)
 artists:
 - The Manhattans
+external_ids:
+  spotify: spotify:track:59zr1mTFeb5rlYDmQHD6Ee
 features: []
-genres: []
+first_released_as_single: false
 key: you-send-me-the-manhattans
 lyrics_url: https://genius.com/The-manhattans-you-send-me-lyrics
 name: You Send Me
@@ -27,6 +30,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1985-03-30'
+release_year: 1985
+runtime: 255026
 ---
 Darling, you send me
 Darling, you send me

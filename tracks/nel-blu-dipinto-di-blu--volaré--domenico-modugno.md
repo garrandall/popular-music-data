@@ -1,8 +1,11 @@
 ---
+album: Domenico Modugno
 artists:
 - Domenico Modugno
+external_ids:
+  spotify: spotify:track:5FtKXY98OSAU8ekSPbFubu
 features: []
-genres: []
+first_released_as_single: false
 key: "nel-blu-dipinto-di-blu--volar\xE9--domenico-modugno"
 lyrics_url: https://genius.com/Domenico-modugno-nel-blu-dipinto-di-blu-lyrics
 name: "Nel Blu Dipinto Di Blu (Volar\xE9)"
@@ -71,6 +74,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1958-11-17'
+release_year: 1958
+runtime: 122026
 ---
 Penso che un sogno così non ritorni mai più
 Mi dipingevo le mani e la faccia di blu

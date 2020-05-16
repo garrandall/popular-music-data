@@ -1,8 +1,11 @@
 ---
+album: Talking Back To The Night
 artists:
 - Steve Winwood
+external_ids:
+  spotify: spotify:track:3aAuIvgJGdp4wWd60riWfB
 features: []
-genres: []
+first_released_as_single: false
 key: valerie-steve-winwood
 lyrics_url: https://www.azlyrics.com/lyrics/stevewinwood/valerie.html
 name: Valerie
@@ -103,8 +106,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1988-02-20'
+release_year: 1982
+runtime: 246666
 ---
-
 So wild, standing there, with her hands in her hair
 I can't help remember just where she touched me
 There's still no face here in her place
@@ -125,6 +129,3 @@ No it can't be that warm with the wind in her arms
 So cool, she was like jazz on a summer's day
 Music, high and sweet, then she just blew away
 Don't tell me you're warm with the wind in your arms
-
-
-

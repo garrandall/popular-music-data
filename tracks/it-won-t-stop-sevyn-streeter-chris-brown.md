@@ -1,9 +1,12 @@
 ---
+album: Call Me Crazy, But...
 artists:
 - Sevyn Streeter
+external_ids:
+  spotify: spotify:track:5y1VXHqmlOKSi6O2rZaYwV
 features:
 - Chris Brown
-genres: []
+first_released_as_single: true
 key: it-won-t-stop-sevyn-streeter-chris-brown
 lyrics_url: https://genius.com/Sevyn-streeter-it-wont-stop-remix-lyrics
 name: It Won't Stop
@@ -88,6 +91,8 @@ rankings:
   rank: 52
   ranking_list: Billboard Hot 100
   start_date: '2014-03-01'
+release_year: 2013
+runtime: 281533
 ---
 I love when you pulling up in your Jeep, bumping all your beats
 J's on with your shades on, just to bring me something to eat

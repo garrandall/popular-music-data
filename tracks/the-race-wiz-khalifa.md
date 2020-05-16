@@ -1,8 +1,11 @@
 ---
+album: Rolling Papers
 artists:
 - Wiz Khalifa
+external_ids:
+  spotify: spotify:track:3F3N97ZRJJf42YPpwy4iJZ
 features: []
-genres: []
+first_released_as_single: false
 key: the-race-wiz-khalifa
 lyrics_url: https://genius.com/Wiz-khalifa-the-race-lyrics
 name: The Race
@@ -11,6 +14,8 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '2011-03-26'
+release_year: 2011
+runtime: 335613
 ---
 The world turning, the weed burning
 Them haters talking, I keep earning

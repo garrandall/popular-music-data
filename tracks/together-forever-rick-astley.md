@@ -1,8 +1,11 @@
 ---
+album: Whenever You Need Somebody
 artists:
 - Rick Astley
+external_ids:
+  spotify: spotify:track:1N9bMjIVVq2gLMbAecDnul
 features: []
-genres: []
+first_released_as_single: true
 key: together-forever-rick-astley
 lyrics_url: https://genius.com/Rick-astley-together-forever-lyrics
 name: Together Forever
@@ -79,6 +82,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1988-08-13'
+release_year: 1987
+runtime: 201502
 ---
 If there's anything you need
 All you have to do is say

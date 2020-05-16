@@ -1,8 +1,11 @@
 ---
+album: It's On Tonight
 artists:
 - Sam Salter
+external_ids:
+  spotify: spotify:track:4Sv6Wz0s7RGTVWvLUy0MC2
 features: []
-genres: []
+first_released_as_single: false
 key: after-12-before-6-sam-salter
 lyrics_url: https://www.musixmatch.com/lyrics/Sam-Salter-feat-Tamar-Braxton-Nicci-Gilbert-Scott-Galbraith/After-12-Before-6
 name: After 12 Before 6
@@ -71,6 +74,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1997-12-06'
+release_year: 1997
+runtime: 267160
 ---
 I heard the phone ring, it's you
 Telling me all I do is neglect you

@@ -1,8 +1,11 @@
 ---
+album: Can't Love, Can't Hurt
 artists:
 - Augustana
+external_ids:
+  spotify: spotify:track:6n0saBLgDhfe0K6EI1wuQu
 features: []
-genres: []
+first_released_as_single: true
 key: sweet-and-low-augustana
 lyrics_url: https://www.azlyrics.com/lyrics/augustana/sweetandlow.html
 name: Sweet And Low
@@ -11,8 +14,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2008-05-17'
+release_year: 2005
+runtime: 187746
 ---
-
 Anywhere you go, anyone you meet,
 Remember that your eyes can be your enemies,
 I said, hell is so close and heaven's out of reach
@@ -38,6 +42,3 @@ To make it last, to make it count
 I ain't gonna make the same mistakes
 That put my mama in her grave
 I don't wanna be alone
-
-
-

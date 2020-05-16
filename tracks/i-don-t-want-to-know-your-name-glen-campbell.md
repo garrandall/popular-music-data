@@ -1,8 +1,11 @@
 ---
+album: It's The World Gone Crazy
 artists:
 - Glen Campbell
+external_ids:
+  spotify: spotify:track:65CrZYxd0y9elcjnd7LthZ
 features: []
-genres: []
+first_released_as_single: false
 key: i-don-t-want-to-know-your-name-glen-campbell
 lyrics_url: https://genius.com/Glen-campbell-i-dont-want-to-know-your-name-lyrics
 name: I Don't Want To Know Your Name
@@ -27,6 +30,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1981-02-21'
+release_year: 1981
+runtime: 241706
 ---
 I see you just like the movies
 I see your face

@@ -1,8 +1,11 @@
 ---
+album: The Element Of Freedom
 artists:
 - Alicia Keys
+external_ids:
+  spotify: spotify:track:5sra5UY6sD658OabHL3QtI
 features: []
-genres: []
+first_released_as_single: false
 key: empire-state-of-mind--part-ii--broken-down-alicia-keys
 lyrics_url: https://www.musixmatch.com/lyrics/Alicia-Keys/Empire-State-of-Mind-Broken-Down-Pt-2
 name: Empire State Of Mind (Part II) Broken Down
@@ -11,6 +14,8 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '2010-01-02'
+release_year: 2009
+runtime: 216480
 ---
 Oh, New York!
 Oh, New York!

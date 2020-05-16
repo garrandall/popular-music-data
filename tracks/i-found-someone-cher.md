@@ -1,8 +1,11 @@
 ---
+album: Cher
 artists:
 - Cher
+external_ids:
+  spotify: spotify:track:7cm9QkrwSWH0scegcO8XZ2
 features: []
-genres: []
+first_released_as_single: false
 key: i-found-someone-cher
 lyrics_url: https://genius.com/Cher-i-found-someone-lyrics
 name: I Found Someone
@@ -111,6 +114,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1988-05-14'
+release_year: 1987
+runtime: 223160
 ---
 Don't you know
 So many things - they come and go?

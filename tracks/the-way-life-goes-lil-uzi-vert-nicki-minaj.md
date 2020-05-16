@@ -1,9 +1,12 @@
 ---
+album: The Way Life Goes
 artists:
 - Lil Uzi Vert
+external_ids:
+  spotify: spotify:track:0ZTC28rEefrHFgmRyadTe0
 features:
 - Nicki Minaj
-genres: []
+first_released_as_single: true
 key: the-way-life-goes-lil-uzi-vert-nicki-minaj
 lyrics_url: https://genius.com/Lil-uzi-vert-the-way-life-goes-remix-lyrics
 name: The Way Life Goes
@@ -100,6 +103,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2018-02-10'
+release_year: 2017
+runtime: 268794
 ---
 That's true (Uzi), that's right (That's right, that's right)
 She sippin' Moet, and yeah I swear it get her wetter (Her wetter)

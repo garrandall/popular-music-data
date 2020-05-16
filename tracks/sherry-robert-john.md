@@ -1,8 +1,11 @@
 ---
+album: Back On The Street
 artists:
 - Robert John
+external_ids:
+  spotify: spotify:track:4zxhUbjz0UQ3t0wqjHNoMw
 features: []
-genres: []
+first_released_as_single: false
 key: sherry-robert-john
 lyrics_url: https://www.musixmatch.com/lyrics/Robert-John/Sherry
 name: Sherry
@@ -27,6 +30,8 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1980-11-22'
+release_year: 1980
+runtime: 195173
 ---
 Sheeeeery baby
 Sherry, can you come out tonight

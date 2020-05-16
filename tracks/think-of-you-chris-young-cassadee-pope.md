@@ -1,9 +1,12 @@
 ---
+album: I'm Comin' Over
 artists:
 - Chris Young
 - Cassadee Pope
+external_ids:
+  spotify: spotify:track:6W9W8dSswA8KNegvl3W97V
 features: []
-genres: []
+first_released_as_single: false
 key: think-of-you-chris-young-cassadee-pope
 lyrics_url: https://www.azlyrics.com/lyrics/chrisyoung/thinkofyou.html
 name: Think Of You
@@ -88,9 +91,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '2016-07-16'
+release_year: 2015
+runtime: 218946
 ---
-
-
 I walk in on Friday nights
 Same old bar, same burned out lights
 Same people and all the same faces
@@ -152,6 +155,3 @@ When they think of me
 Baby, baby, oh, oh
 Oh
 When they think of me, they think of you
-
-
-

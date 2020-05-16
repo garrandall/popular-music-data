@@ -1,8 +1,11 @@
 ---
+album: Grits Ain't Groceries
 artists:
 - Little Milton
+external_ids:
+  spotify: spotify:track:3XIehPd5pZmHDpjJlAyxrG
 features: []
-genres: []
+first_released_as_single: false
 key: blind-man-little-milton
 lyrics_url: https://genius.com/Little-milton-blind-man-lyrics
 name: Blind Man
@@ -23,6 +26,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1965-01-23'
+release_year: 1965
+runtime: 531640
 ---
 Blind man standing on the corner
 Crying out the blues, said, "I don't need a dollar

@@ -1,8 +1,11 @@
 ---
+album: This Is Me...Then
 artists:
 - Jennifer Lopez
+external_ids:
+  spotify: spotify:track:7AUfOfYTfiHhgg2Pw1aTpw
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-glad-jennifer-lopez
 lyrics_url: https://genius.com/Jennifer-lopez-im-glad-lyrics
 name: I'm Glad
@@ -71,6 +74,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2003-08-16'
+release_year: 2002
+runtime: 222040
 ---
 Baby, when I think about
 The day that we first met (The day that we first met)

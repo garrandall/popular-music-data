@@ -1,8 +1,11 @@
 ---
+album: Meaning Of Life
 artists:
 - Kelly Clarkson
+external_ids:
+  spotify: spotify:track:5eCUrSCDVOQ9iGf5igDuOI
 features: []
-genres: []
+first_released_as_single: true
 key: love-so-soft-kelly-clarkson
 lyrics_url: https://www.azlyrics.com/lyrics/kellyclarkson/lovesosoft.html
 name: Love So Soft
@@ -59,8 +62,9 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '2017-12-23'
+release_year: 2017
+runtime: 256757
 ---
-
 Yeah
 
 Every kiss is a door
@@ -126,6 +130,3 @@ Love-love-love-love, love-love-love-love
 (Love so soft, so soft)
 If you want it, baby
 (Love so soft, so soft, yeah)
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Paul Hardcastle
 artists:
 - Paul Hardcastle
+external_ids:
+  spotify: spotify:track:55428gAARa9OwQAjkd30wZ
 features: []
-genres: []
+first_released_as_single: false
 key: rain-forest-paul-hardcastle
 name: Rain Forest
 rankings:
@@ -78,5 +81,7 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1985-05-11'
+release_year: 1985
+runtime: 448480
 ---
 

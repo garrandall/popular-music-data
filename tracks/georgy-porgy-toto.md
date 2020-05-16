@@ -1,8 +1,11 @@
 ---
+album: Toto
 artists:
 - Toto
+external_ids:
+  spotify: spotify:track:5jQcJ2st6yHWhUBjoDoZPH
 features: []
-genres: []
+first_released_as_single: false
 key: georgy-porgy-toto
 lyrics_url: https://www.azlyrics.com/lyrics/toto/georgyporgy.html
 name: Georgy Porgy
@@ -47,8 +50,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1979-06-30'
+release_year: 1978
+runtime: 247586
 ---
-
 It's not your situation
 I just need contemplation over you
 I'm not so systematic
@@ -125,6 +129,3 @@ Kissed the girls then made them high
 Georgy porgy
 Kissed the girls then made them cry
 Kissed the girls then made them cry
-
-
-

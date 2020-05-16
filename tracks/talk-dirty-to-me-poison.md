@@ -1,8 +1,11 @@
 ---
+album: Look What The Cat Dragged In - 20th Anniversary Edition
 artists:
 - Poison
+external_ids:
+  spotify: spotify:track:08QP0rwnQSbbpGRIuXfrAY
 features: []
-genres: []
+first_released_as_single: false
 key: talk-dirty-to-me-poison
 lyrics_url: https://genius.com/Poison-talk-dirty-to-me-lyrics
 name: Talk Dirty To Me
@@ -71,6 +74,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1987-06-27'
+release_year: 1986
+runtime: 223733
 ---
 You know I never
 I never seen you look so good

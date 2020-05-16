@@ -1,8 +1,11 @@
 ---
+album: American Music Collection
 artists:
 - Dickey Lee
+external_ids:
+  spotify: spotify:track:1KgyVoQMJcYbX07QC3aIQC
 features: []
-genres: []
+first_released_as_single: false
 key: laurie--strange-things-happen--dickey-lee
 lyrics_url: https://genius.com/Dickey-lee-laurie-strange-things-happen-lyrics
 name: Laurie (Strange Things Happen)
@@ -59,6 +62,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1965-08-07'
+release_year: 1965
+runtime: 186693
 ---
 Last night at the dance I met Laurie
 So lovely and warm, an angel of a girl

@@ -1,9 +1,12 @@
 ---
+album: Sun Goddess
 artists:
 - Ramsey Lewis
+external_ids:
+  spotify: spotify:track:0z8Og8ut8fhAY9bvwnwEcw
 features:
 - Earth, Wind & Fire
-genres: []
+first_released_as_single: false
 key: hot-dawgit-ramsey-lewis-and-earth-wind-fire
 name: Hot Dawgit
 rankings:
@@ -31,5 +34,7 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1975-02-22'
+release_year: 1974
+runtime: 182293
 ---
 

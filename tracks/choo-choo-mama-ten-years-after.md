@@ -1,8 +1,11 @@
 ---
+album: Rock & Roll Music to the World
 artists:
 - Ten Years After
+external_ids:
+  spotify: spotify:track:0YDdO5QknKAVPGIPMddWb7
 features: []
-genres: []
+first_released_as_single: false
 key: choo-choo-mama-ten-years-after
 lyrics_url: https://genius.com/Ten-years-after-choo-choo-mama-lyrics
 name: Choo Choo Mama
@@ -31,6 +34,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1973-01-20'
+release_year: 1972
+runtime: 241400
 ---
 Choo choo moma, won't you ride the train?
 My life without you is just misery and pain, come back to me

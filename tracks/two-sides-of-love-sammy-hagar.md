@@ -1,8 +1,11 @@
 ---
+album: Voa
 artists:
 - Sammy Hagar
+external_ids:
+  spotify: spotify:track:6YqohcsG2Q0xbepZY2QSz0
 features: []
-genres: []
+first_released_as_single: false
 key: two-sides-of-love-sammy-hagar
 lyrics_url: https://www.azlyrics.com/lyrics/sammyhagar/twosidesoflove.html
 name: Two Sides Of Love
@@ -55,8 +58,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1984-09-29'
+release_year: 1984
+runtime: 223173
 ---
-
 You never hear about it
 It's not the thing you talk over with friends
 You never see it coming until it begins
@@ -96,6 +100,3 @@ Two sides of love
 Two sides of love 
 Two sides of love 
 Two sides of love
-
-
-

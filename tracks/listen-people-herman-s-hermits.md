@@ -1,8 +1,11 @@
 ---
+album: Herman's Hermits Retrospective
 artists:
 - Herman's Hermits
+external_ids:
+  spotify: spotify:track:4S0W8LNfBur0HguAqspGXf
 features: []
-genres: []
+first_released_as_single: false
 key: listen-people-herman-s-hermits
 lyrics_url: https://www.azlyrics.com/lyrics/hermanshermits/listenpeople.html
 name: Listen People
@@ -43,8 +46,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1966-04-16'
+release_year: 1966
+runtime: 149733
 ---
-
 Listen people to what I say
 I say everybody's got to have their day
 
@@ -79,6 +83,3 @@ When you do, I hope you never part
 You never part
 Listen people
 Listen people
-
-
-

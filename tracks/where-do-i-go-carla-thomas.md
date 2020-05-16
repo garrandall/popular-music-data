@@ -1,8 +1,11 @@
 ---
+album: Memphis Queen
 artists:
 - Carla Thomas
+external_ids:
+  spotify: spotify:track:3UKU7U20OeQ991MwdpjUb8
 features: []
-genres: []
+first_released_as_single: false
 key: where-do-i-go-carla-thomas
 lyrics_url: https://genius.com/Carla-thomas-where-do-i-go-lyrics
 name: Where Do I Go
@@ -15,6 +18,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1968-10-26'
+release_year: 1968
+runtime: 144053
 ---
 Where do I go?
 Follow the river

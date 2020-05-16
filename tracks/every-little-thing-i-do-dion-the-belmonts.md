@@ -1,9 +1,12 @@
 ---
+album: The Best Of Dion & The Belmonts
 artists:
 - Dion
 - The Belmonts
+external_ids:
+  spotify: spotify:track:36cRY6DSxk16JMSYWe9d3n
 features: []
-genres: []
+first_released_as_single: false
 key: every-little-thing-i-do-dion-the-belmonts
 lyrics_url: https://www.azlyrics.com/lyrics/dionband/everylittlethingido.html
 name: Every Little Thing I Do
@@ -40,8 +43,9 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '1959-11-02'
+release_year: 1959
+runtime: 121840
 ---
-
 Lonely walks
 In the park
 Counting stars when it gets dark
@@ -70,6 +74,3 @@ One more chance
 And you'll be my one romance
 Darling let me share with you
 Every little thing I do
-
-
-

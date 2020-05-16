@@ -1,8 +1,11 @@
 ---
+album: The Carol Douglas Album
 artists:
 - Carol Douglas
+external_ids:
+  spotify: spotify:track:0FPZDwCZWqKHowIZmB4UEB
 features: []
-genres: []
+first_released_as_single: false
 key: a-hurricane-is-coming-tonite-carol-douglas
 lyrics_url: https://genius.com/Carol-douglas-a-hurricane-is-coming-tonite-lyrics
 name: A Hurricane Is Coming Tonite
@@ -15,6 +18,8 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1975-04-19'
+release_year: 1975
+runtime: 239666
 ---
 (Hurricane) I can feel it
 (Hurricane) feel it coming

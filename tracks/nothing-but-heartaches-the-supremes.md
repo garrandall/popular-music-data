@@ -1,8 +1,11 @@
 ---
+album: More Hits By The Supremes
 artists:
 - The Supremes
+external_ids:
+  spotify: spotify:track:3ZmUwVr5MlayCju9FzAgVL
 features: []
-genres: []
+first_released_as_single: false
 key: nothing-but-heartaches-the-supremes
 lyrics_url: https://www.azlyrics.com/lyrics/supremes/nothingbutheartaches.html
 name: Nothing But Heartaches
@@ -43,8 +46,9 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '1965-09-25'
+release_year: 1965
+runtime: 177866
 ---
-
 Nothing but heartaches
 Oh, nothing but heartaches
 He brings nothing but heartaches
@@ -93,6 +97,3 @@ Nothing but heartaches
 Oh, nothing but heartaches
 I can't break away, oh no
 Keep a loving him more each day
-
-
-

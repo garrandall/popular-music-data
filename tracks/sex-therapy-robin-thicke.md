@@ -1,8 +1,11 @@
 ---
+album: 'Sex Therapy: The Session'
 artists:
 - Robin Thicke
+external_ids:
+  spotify: spotify:track:6MmxDAqXSxFS9dLQs1l7DT
 features: []
-genres: []
+first_released_as_single: false
 key: sex-therapy-robin-thicke
 lyrics_url: https://genius.com/Robin-thicke-sex-therapy-lyrics
 name: Sex Therapy
@@ -83,6 +86,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2010-05-08'
+release_year: 2009
+runtime: 275146
 ---
 Stressed out, uptight, overworked, riled up
 Unleash what you got let's explore your naughty side

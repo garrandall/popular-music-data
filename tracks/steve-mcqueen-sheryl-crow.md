@@ -1,8 +1,11 @@
 ---
+album: C'Mon C'Mon
 artists:
 - Sheryl Crow
+external_ids:
+  spotify: spotify:track:3AvMXM7A4zMHNbjRI2zGan
 features: []
-genres: []
+first_released_as_single: false
 key: steve-mcqueen-sheryl-crow
 lyrics_url: https://www.azlyrics.com/lyrics/sherylcrow/stevemcqueen.html
 name: Steve McQueen
@@ -27,8 +30,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2002-10-12'
+release_year: 2002
+runtime: 205733
 ---
-
 Well I went to bed in Memphis
 And I woke up in Hollywood
 I got a quarter
@@ -71,4 +75,3 @@ I'll already be long gone
 Like Steve McQueen
 All we need's a fast machine
 And we're gonna make it all right
-

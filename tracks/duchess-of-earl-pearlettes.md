@@ -1,8 +1,11 @@
 ---
+album: 'The Vee-Jay Story: Celebrating 40 Years Of Classic Hits'
 artists:
 - Pearlettes
+external_ids:
+  spotify: spotify:track:7v4R67QJ3JHkEwvs7w3tg6
 features: []
-genres: []
+first_released_as_single: false
 key: duchess-of-earl-pearlettes
 lyrics_url: https://genius.com/Pearlettes-duchess-of-earl-lyrics
 name: Duchess Of Earl
@@ -15,6 +18,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1962-03-17'
+release_year: 1962
+runtime: 138106
 ---
 Oh yes I've lots in this world
 I've got the Duke, the Duke of Earl

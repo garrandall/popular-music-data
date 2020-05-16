@@ -1,8 +1,11 @@
 ---
+album: Is That All There Is?
 artists:
 - Peggy Lee
+external_ids:
+  spotify: spotify:track:0TLD1RLFqPmpVR5ATWdMz6
 features: []
-genres: []
+first_released_as_single: false
 key: is-that-all-there-is-peggy-lee
 lyrics_url: https://www.musixmatch.com/lyrics/Peggy-Lee/Is-That-All-There-Is-1
 name: Is That All There Is
@@ -47,6 +50,8 @@ rankings:
   rank: 28
   ranking_list: Billboard Hot 100
   start_date: '1969-11-29'
+release_year: 1969
+runtime: 262000
 ---
 I remember when I was a little girl, our house caught on fire.
 I'll never forget the look on my father's face as he gathered me up

@@ -1,8 +1,11 @@
 ---
+album: ASTROWORLD
 artists:
 - Travis Scott
+external_ids:
+  spotify: spotify:track:6BJbOXDlgVAXSaq6wYFYT2
 features: []
-genres: []
+first_released_as_single: false
 key: nc-17-travis-scott
 lyrics_url: https://genius.com/Travis-scott-nc-17-lyrics
 name: NC-17
@@ -11,6 +14,8 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '2018-08-18'
+release_year: 2018
+runtime: 156885
 ---
 Oh
 

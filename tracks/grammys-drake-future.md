@@ -1,9 +1,12 @@
 ---
+album: Views
 artists:
 - Drake
+external_ids:
+  spotify: spotify:track:5e574bhjycX1eH2l4Auage
 features:
 - Future
-genres: []
+first_released_as_single: false
 key: grammys-drake-future
 lyrics_url: https://www.azlyrics.com/lyrics/drake/grammys.html
 name: Grammys
@@ -44,9 +47,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2016-07-16'
+release_year: 2016
+runtime: 220426
 ---
-
-
 Yeah, yeah
 Yeah, yeah
 Jeez
@@ -157,6 +160,3 @@ They gon' think I won a Grammy
 They gon' think I won a Grammy
 They gon' think I won a Grammy
 They gon' think I won a Grammy
-
-
-

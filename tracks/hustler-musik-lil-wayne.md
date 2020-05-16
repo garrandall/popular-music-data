@@ -1,8 +1,11 @@
 ---
+album: Tha Carter II
 artists:
 - Lil Wayne
+external_ids:
+  spotify: spotify:track:2334WaCjswLcRIRgTTPWaZ
 features: []
-genres: []
+first_released_as_single: false
 key: hustler-musik-lil-wayne
 lyrics_url: https://www.azlyrics.com/lyrics/lilwayne/hustlermusik.html
 name: Hustler Musik
@@ -31,8 +34,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2006-06-17'
+release_year: 2005
+runtime: 303666
 ---
-
 Hit me
 Right in the sternum this time, T-baby
 Shit, you already know, you already know
@@ -200,6 +204,3 @@ Better guard your kids, guard your face
 Better guard your body, we warned the place
 We here, fuck bitches
 It's Young Money, nigga
-
-
-

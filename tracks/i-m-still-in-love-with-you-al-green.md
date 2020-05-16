@@ -1,8 +1,11 @@
 ---
+album: I'm Still in Love with You
 artists:
 - Al Green
+external_ids:
+  spotify: spotify:track:2GEDd9qtGXU7IvGgqTF6Uj
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-still-in-love-with-you-al-green
 lyrics_url: https://genius.com/Al-green-im-still-in-love-with-you-lyrics
 name: I'm Still In Love With You
@@ -55,6 +58,8 @@ rankings:
   rank: 31
   ranking_list: Billboard Hot 100
   start_date: '1972-09-23'
+release_year: 1972
+runtime: 191636
 ---
 Spending my day thinkin' 'bout you girl
 Being here with you, being near with you

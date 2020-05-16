@@ -1,8 +1,11 @@
 ---
+album: Electric Slide (Shall We Dance)
 artists:
 - Grandmaster Slice
+external_ids:
+  spotify: spotify:track:4ipMwje2IK7SI7VDHvv3Ku
 features: []
-genres: []
+first_released_as_single: false
 key: thinking-of-you-grandmaster-slice
 lyrics_url: https://genius.com/Grandmaster-slice-thinking-of-you-lyrics
 name: Thinking Of You
@@ -31,6 +34,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1991-11-30'
+release_year: 1991
+runtime: 240066
 ---
 "You know on a rainy day like this
 I spend a lot of time thinking

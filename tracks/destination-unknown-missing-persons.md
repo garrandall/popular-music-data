@@ -1,8 +1,11 @@
 ---
+album: Spring Session M.
 artists:
 - Missing Persons
+external_ids:
+  spotify: spotify:track:0QyMDyosGai50pjaFbC1NO
 features: []
-genres: []
+first_released_as_single: false
 key: destination-unknown-missing-persons
 lyrics_url: https://genius.com/Missing-persons-destination-unknown-lyrics
 name: Destination Unknown
@@ -63,6 +66,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1983-01-01'
+release_year: 1982
+runtime: 216840
 ---
 Life is so strange when you don't know
 How can you tell where you're going to

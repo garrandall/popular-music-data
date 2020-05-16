@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music, The Power Of Madonna'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:5aWlISJTMKHHThgoXIYUw8
 features: []
-genres: []
+first_released_as_single: false
 key: 4-minutes-glee-cast
 lyrics_url: https://www.azlyrics.com/lyrics/gleecast/4minutes.html
 name: 4 Minutes
@@ -11,8 +14,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2010-05-08'
+release_year: 2010
+runtime: 189400
 ---
-
 Come on girl
 I've been waiting for somebody
 To pick up my stroll
@@ -94,6 +98,3 @@ That's right, keep it up, keep it up, don't be a pri, hey
 Madonna, uh
 You gotta get `em all hot
 Tick tock tick tock tick tock
-
-
-

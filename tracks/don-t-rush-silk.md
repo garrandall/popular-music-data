@@ -1,8 +1,11 @@
 ---
+album: Silk
 artists:
 - Silk
+external_ids:
+  spotify: spotify:track:1jg62uYcaDoOwggO0mVo24
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-rush-silk
 lyrics_url: https://www.azlyrics.com/lyrics/silk/dontrush.html
 name: Don't Rush
@@ -19,10 +22,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1996-05-18'
+release_year: 1995
+runtime: 260573
 ---
-
-
-
 Do you like,
 Do you like,
 Do you like what you see.
@@ -73,4 +75,3 @@ Do you like what you see.
 Do you like,
 Do you like,
 Do you like what you see.
-

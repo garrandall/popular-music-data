@@ -1,8 +1,11 @@
 ---
+album: Stand Still, Look Pretty (U.S. Version)
 artists:
 - The Wreckers
+external_ids:
+  spotify: spotify:track:3BQTSFDT08yTFfkviD2CIr
 features: []
-genres: []
+first_released_as_single: false
 key: leave-the-pieces-the-wreckers
 lyrics_url: https://www.azlyrics.com/lyrics/wreckers/leavethepieces.html
 name: Leave The Pieces
@@ -87,8 +90,9 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '2006-10-21'
+release_year: 2005
+runtime: 211533
 ---
-
 You're not sure that you love me
 But you're not sure enough to let me go
 Baby it ain't fair you know
@@ -142,6 +146,3 @@ Yeah, yeah, yeah, yeah, yeah
 Yeah, yeah, yeah, yeah, yeah
 Yeah, yeah, yeah, yeah, yeah
 Leave the pieces when you go
-
-
-

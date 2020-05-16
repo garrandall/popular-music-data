@@ -1,8 +1,11 @@
 ---
+album: Strangers In The Night
 artists:
 - Frank Sinatra
+external_ids:
+  spotify: spotify:track:74VR3AkGPhbYXnxcOYa16x
 features: []
-genres: []
+first_released_as_single: false
 key: strangers-in-the-night-frank-sinatra
 lyrics_url: https://genius.com/Frank-sinatra-strangers-in-the-night-lyrics
 name: Strangers In The Night
@@ -67,6 +70,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1966-08-13'
+release_year: 1966
+runtime: 157866
 ---
 Strangers in the night exchanging glances
 Wondering in the night, what were the chances?

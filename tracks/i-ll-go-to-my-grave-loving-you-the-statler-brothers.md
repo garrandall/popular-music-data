@@ -1,8 +1,11 @@
 ---
+album: Live - Sold Out
 artists:
 - The Statler Brothers
+external_ids:
+  spotify: spotify:track:5dHm2RIrUncTtoeDaBo76F
 features: []
-genres: []
+first_released_as_single: false
 key: i-ll-go-to-my-grave-loving-you-the-statler-brothers
 lyrics_url: https://genius.com/The-statler-brothers-ill-go-to-my-grave-loving-you-lyrics
 name: I'll Go To My Grave Loving You
@@ -23,6 +26,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1975-11-22'
+release_year: 1975
+runtime: 172066
 ---
 I'll go, I'll go to my grave
 To my grave lovin' you (lovin' you) lovin' you

@@ -1,8 +1,11 @@
 ---
+album: The Best Of Ronnie Dove Volume 1
 artists:
 - Ronnie Dove
+external_ids:
+  spotify: spotify:track:2kTgJM2ECDj4FjwCbXkrA8
 features: []
-genres: []
+first_released_as_single: false
 key: my-babe-ronnie-dove
 lyrics_url: https://genius.com/Ronnie-dove-my-babe-lyrics
 name: My Babe
@@ -31,6 +34,8 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '1967-05-27'
+release_year: 1967
+runtime: 154813
 ---
 My babe, I got my babe
 And I won't lie babe

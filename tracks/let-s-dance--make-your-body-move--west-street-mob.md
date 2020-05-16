@@ -1,8 +1,11 @@
 ---
+album: The Sugar Hill Records Story
 artists:
 - West Street Mob
+external_ids:
+  spotify: spotify:track:3BuIjV42Tsc3o3n2jp4S0Y
 features: []
-genres: []
+first_released_as_single: false
 key: let-s-dance--make-your-body-move--west-street-mob
 lyrics_url: https://genius.com/West-street-mob-lets-dance-make-your-body-move-lyrics
 name: Let's Dance (Make Your Body Move)
@@ -19,6 +22,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1981-09-26'
+release_year: 1981
+runtime: 409133
 ---
 (Boom will make you)
 

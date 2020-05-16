@@ -1,8 +1,11 @@
 ---
+album: Happy Together
 artists:
 - The Turtles
+external_ids:
+  spotify: spotify:track:5BE7v9I2FUjUnObRAcopIs
 features: []
-genres: []
+first_released_as_single: false
 key: you-know-what-i-mean-the-turtles
 lyrics_url: https://genius.com/The-turtles-you-know-what-i-mean-lyrics
 name: You Know What I Mean
@@ -51,6 +54,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1967-10-14'
+release_year: 1967
+runtime: 122400
 ---
 Shouldn't we two be together?
 You know what I mean

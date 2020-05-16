@@ -1,8 +1,11 @@
 ---
+album: No Boys Allowed
 artists:
 - Keri Hilson
+external_ids:
+  spotify: spotify:track:2Adn2LNgkHMH5TelQVAu4n
 features: []
-genres: []
+first_released_as_single: false
 key: pretty-girl-rock-keri-hilson
 lyrics_url: https://www.azlyrics.com/lyrics/kerihilson/prettygirlrock.html
 name: Pretty Girl Rock
@@ -95,8 +98,9 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '2011-05-07'
+release_year: 2010
+runtime: 243920
 ---
-
 Now do the pretty girl rock, rock, rock
 Do the pretty girl rock, rock, rock
 Now what's your name?
@@ -188,6 +192,3 @@ My walk, my talk, the way I drip
 It's not my fault so please don't trip
 Don't hate me 'cause I'm beautiful
 Don't hate me 'cause I'm beautiful
-
-
-

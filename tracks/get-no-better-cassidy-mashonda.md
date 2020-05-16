@@ -1,9 +1,12 @@
 ---
+album: Split Personality
 artists:
 - Cassidy
+external_ids:
+  spotify: spotify:track:30KGtFjHhlT3JMX5s4IklU
 features:
 - Mashonda
-genres: []
+first_released_as_single: false
 key: get-no-better-cassidy-mashonda
 lyrics_url: https://www.azlyrics.com/lyrics/cassidy/getnobetter.html
 name: Get No Better
@@ -56,9 +59,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2004-07-24'
+release_year: 2004
+runtime: 234853
 ---
-
-
 Ladies and Gentlemen
 Swizz, swizz, swizz
 
@@ -114,4 +117,3 @@ Knowing, knowing baby it don't whoa oh whoa it don't get no better
 
 
 I go by the name of Cassidy "da problem", me and mashonda
-

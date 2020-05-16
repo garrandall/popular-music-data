@@ -1,8 +1,11 @@
 ---
+album: Karyn White
 artists:
 - Karyn White
+external_ids:
+  spotify: spotify:track:4aYOQDyN2wTOlt2mRQ6zef
 features: []
-genres: []
+first_released_as_single: false
 key: secret-rendezvous-karyn-white
 lyrics_url: https://www.azlyrics.com/lyrics/karynwhite/secretrendezvous.html
 name: Secret Rendezvous
@@ -91,8 +94,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1989-10-14'
+release_year: 1988
+runtime: 337400
 ---
-
 Happiness is when I, I think of you,
 And we'll be gettin' together for a rendez-vous,
 I'll be on time, you bring the wine,
@@ -134,6 +138,3 @@ I wanna hug and squeeze you through the night...
 So lock the door, throw away the key, ecstasy!
 I can't let no one disturb this groove, I couldn't stop it if I wanted to,
 It's you for me, and me for you in a secret rendez-vous!
-
-
-

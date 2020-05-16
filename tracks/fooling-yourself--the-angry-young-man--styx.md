@@ -1,8 +1,11 @@
 ---
+album: The Grand Illusion
 artists:
 - Styx
+external_ids:
+  spotify: spotify:track:7apWQJSE3gJB55Dp8bXTW9
 features: []
-genres: []
+first_released_as_single: false
 key: fooling-yourself--the-angry-young-man--styx
 lyrics_url: https://www.azlyrics.com/lyrics/styx/foolingyourselftheangryyoungman.html
 name: Fooling Yourself (The Angry Young Man)
@@ -63,8 +66,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1978-05-20'
+release_year: 1977
+runtime: 331866
 ---
-
 Relax...Take it easy...
 
 You see the world through your cynical eyes
@@ -92,6 +96,3 @@ Get up, get back on your feet
 You're the one they can't beat and you know it
 Come on, let's see what you've got
 Just take your best shot and don't blow it.
-
-
-

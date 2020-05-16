@@ -1,8 +1,11 @@
 ---
+album: Destiny
 artists:
 - The Jacksons
+external_ids:
+  spotify: spotify:track:7g4I3DeFlZLeqMjw0ONBqs
 features: []
-genres: []
+first_released_as_single: false
 key: shake-your-body--down-to-the-ground--the-jacksons
 lyrics_url: https://www.azlyrics.com/lyrics/michaeljackson/shakeyourbodydowntothegroundimmortalversion.html
 name: Shake Your Body (Down To The Ground)
@@ -95,8 +98,9 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1979-07-14'
+release_year: 1978
+runtime: 479440
 ---
-
 Let's dance, let's shout (Shout)
 Shake your body down to the ground
 Let's dance, let's shout (Shout)
@@ -150,6 +154,3 @@ Let's dance, let's shout (Shout)
 Shake your body down to the ground
 Let's dance, let's shout (Shout)
 Shake your body down to the ground
-
-
-

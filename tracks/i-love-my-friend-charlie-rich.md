@@ -1,8 +1,11 @@
 ---
+album: Charlie Rich - 16 Biggest Hits
 artists:
 - Charlie Rich
+external_ids:
+  spotify: spotify:track:3CbbaMj8BRNRGnqeOySSDk
 features: []
-genres: []
+first_released_as_single: false
 key: i-love-my-friend-charlie-rich
 lyrics_url: https://www.azlyrics.com/lyrics/charlierich/ilovemyfriend.html
 name: I Love My Friend
@@ -59,8 +62,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1974-10-26'
+release_year: 1973
+runtime: 145560
 ---
-
 She was crying
 And I was lonely
 And a band was playing
@@ -95,6 +99,3 @@ Still call her baby
 'Cause I love my friend
 And we'll make it
 Maybe
-
-
-

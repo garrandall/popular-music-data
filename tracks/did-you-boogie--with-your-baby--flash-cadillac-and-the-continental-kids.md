@@ -1,8 +1,11 @@
 ---
+album: Sons of the Beaches
 artists:
 - Flash Cadillac And The Continental Kids
+external_ids:
+  spotify: spotify:track:5C02qr4wbTqlAyj4Xmq12M
 features: []
-genres: []
+first_released_as_single: false
 key: did-you-boogie--with-your-baby--flash-cadillac-and-the-continental-kids
 lyrics_url: https://genius.com/Flash-cadillac-and-the-continental-kids-did-you-boogie-lyrics
 name: Did You Boogie (With Your Baby)
@@ -63,6 +66,8 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '1976-11-27'
+release_year: 1975
+runtime: 166933
 ---
 (Wolfman)
 Ah, do you remember the first time you started to date

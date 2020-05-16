@@ -1,8 +1,11 @@
 ---
+album: Once Upon A Time (Super Deluxe)
 artists:
 - Simple Minds
+external_ids:
+  spotify: spotify:track:24E70eoxQmhQBvoBUWRLtp
 features: []
-genres: []
+first_released_as_single: false
 key: all-the-things-she-said-simple-minds
 lyrics_url: https://genius.com/Simple-minds-all-the-things-she-said-lyrics
 name: All The Things She Said
@@ -59,6 +62,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1986-06-28'
+release_year: 1985
+runtime: 255853
 ---
 Don't you look back on a big lost world
 (Crying out tomorrow)

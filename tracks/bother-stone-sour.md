@@ -1,8 +1,11 @@
 ---
+album: Stone Sour
 artists:
 - Stone Sour
+external_ids:
+  spotify: spotify:track:0AfIsqZ4gTUg9CwwW2jLeK
 features: []
-genres: []
+first_released_as_single: false
 key: bother-stone-sour
 lyrics_url: https://www.azlyrics.com/lyrics/stonesour/bother.html
 name: Bother
@@ -87,8 +90,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2003-03-15'
+release_year: 2002
+runtime: 240400
 ---
-
 Wish I was too dead to cry
 My self-affliction fades
 Stones to throw at my creator
@@ -134,6 +138,3 @@ I don't need to be
 I'll keep slipping farther
 But once I hold on:
 I'll never live down my deceit
-
-
-

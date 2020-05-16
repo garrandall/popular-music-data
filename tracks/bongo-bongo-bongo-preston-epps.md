@@ -1,8 +1,11 @@
 ---
+album: Bongo Bongo Bongo
 artists:
 - Preston Epps
+external_ids:
+  spotify: spotify:track:22ZSGr9quz99zUMaVynmFR
 features: []
-genres: []
+first_released_as_single: false
 key: bongo-bongo-bongo-preston-epps
 name: Bongo Bongo Bongo
 rankings:
@@ -18,5 +21,7 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1960-08-29'
+release_year: 1960
+runtime: 129211
 ---
 

@@ -1,8 +1,11 @@
 ---
+album: Pronounced' Leh-'Nerd 'Skin-'Nerd
 artists:
 - Lynyrd Skynyrd
+external_ids:
+  spotify: spotify:track:5EWPGh7jbTNO2wakv8LjUI
 features: []
-genres: []
+first_released_as_single: false
 key: free-bird-lynyrd-skynyrd
 lyrics_url: https://genius.com/Lynyrd-skynyrd-free-bird-lyrics
 name: Free Bird
@@ -87,6 +90,8 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '1977-01-22'
+release_year: 1973
+runtime: 547106
 ---
 If I leave here tomorrow
 Would you still remember me?

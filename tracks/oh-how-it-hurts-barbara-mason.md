@@ -1,8 +1,11 @@
 ---
+album: Oh, How It Hurts
 artists:
 - Barbara Mason
+external_ids:
+  spotify: spotify:track:6DTPmQW7F4P4W2lL8ZLs3c
 features: []
-genres: []
+first_released_as_single: false
 key: oh-how-it-hurts-barbara-mason
 lyrics_url: https://genius.com/Barbara-mason-oh-how-it-hurts-lyrics
 name: Oh How It Hurts
@@ -43,6 +46,8 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '1968-02-17'
+release_year: 1967
+runtime: 164908
 ---
 Oh, how it hurts
 (Oh, how it hurts)

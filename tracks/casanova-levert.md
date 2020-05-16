@@ -1,8 +1,11 @@
 ---
+album: The 80s
 artists:
 - Levert
+external_ids:
+  spotify: spotify:track:3ac3lFWr03MpiqhLq7P1aQ
 features: []
-genres: []
+first_released_as_single: true
 key: casanova-levert
 lyrics_url: https://genius.com/Levert-casanova-lyrics
 name: Casanova
@@ -79,6 +82,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1987-12-12'
+release_year: 1987
+runtime: 370746
 ---
 I ain't much on Casanova
 Me and Romeo ain't never been friends

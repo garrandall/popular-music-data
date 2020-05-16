@@ -1,9 +1,12 @@
 ---
+album: Achy Breaky 2  - Single
 artists:
 - Buck 22
+external_ids:
+  spotify: spotify:track:37FK7UA8BqmCllCfFabkLE
 features:
 - Billy Ray Cyrus
-genres: []
+first_released_as_single: true
 key: achy-breaky-2-buck-22-billy-ray-cyrus
 lyrics_url: https://www.azlyrics.com/lyrics/buck22/achybreaky2.html
 name: Achy Breaky 2
@@ -12,10 +15,10 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '2014-03-01'
+release_year: 2014
+runtime: 152221
 ---
-
-
- How'd this shit happen?
+How'd this shit happen?
  Let me tell you BRC
 
 
@@ -43,4 +46,3 @@ I've been next to BRC, up on TMZ
 Got everybody wonderin' who I am
 Miley keeps twerkin', daddy's song is workin'
 Now Billy sing that crazy hook again
-

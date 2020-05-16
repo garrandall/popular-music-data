@@ -1,8 +1,11 @@
 ---
+album: Radio Fusion Radio
 artists:
 - The College Boyz
+external_ids:
+  spotify: spotify:track:1dLOtlRQ47IUuRr82D6EIG
 features: []
-genres: []
+first_released_as_single: false
 key: victim-of-the-ghetto-the-college-boyz
 lyrics_url: https://genius.com/College-boyz-victim-of-the-ghetto-lyrics
 name: Victim Of The Ghetto
@@ -67,6 +70,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1992-08-29'
+release_year: 1992
+runtime: 293440
 ---
 It doesn't seem like
 I'll be going nowhere

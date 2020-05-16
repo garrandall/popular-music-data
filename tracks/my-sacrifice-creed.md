@@ -1,8 +1,11 @@
 ---
+album: Weathered
 artists:
 - Creed
+external_ids:
+  spotify: spotify:track:2VSbEXqs6NbNiZSTcHlIDR
 features: []
-genres: []
+first_released_as_single: false
 key: my-sacrifice-creed
 lyrics_url: https://www.azlyrics.com/lyrics/creed/mysacrifice.html
 name: My Sacrifice
@@ -123,8 +126,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2002-05-11'
+release_year: 2001
+runtime: 294600
 ---
-
 Hello my friend, we meet again
 It's been awhile, where should we begin?
 Feels like forever
@@ -168,6 +172,3 @@ I just want to say hello again
 I just want to say hello again
 
 My sacrifice.
-
-
-

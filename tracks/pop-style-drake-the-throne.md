@@ -1,9 +1,12 @@
 ---
+album: Pop Style
 artists:
 - Drake
+external_ids:
+  spotify: spotify:track:23NWj2izXAJ4yL6Nah73wf
 features:
 - The Throne
-genres: []
+first_released_as_single: true
 key: pop-style-drake-the-throne
 lyrics_url: https://www.azlyrics.com/lyrics/drake/popstyle.html
 name: Pop Style
@@ -88,9 +91,9 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2016-09-03'
+release_year: 2016
+runtime: 209453
 ---
-
-
 Yeah, yeah
 
 
@@ -144,6 +147,3 @@ Dropped outta school now we dumb rich, dumb rich
 This sound like some forty-three-oh-one shit, one shit
 All my niggas wanna do is pop style, pop style
 Turn my birthday into a lifestyle, lifestyle
-
-
-

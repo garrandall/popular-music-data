@@ -1,8 +1,11 @@
 ---
+album: When She Was My Girl
 artists:
 - Four Tops
+external_ids:
+  spotify: spotify:track:6DsOxQ0cMttNLykpcs6wXb
 features: []
-genres: []
+first_released_as_single: false
 key: back-to-school-again-four-tops
 lyrics_url: https://www.musixmatch.com/lyrics/Four-Tops/Back-to-School-Again
 name: Back To School Again
@@ -35,6 +38,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1982-06-26'
+release_year: 1982
+runtime: 229400
 ---
 Spendin' my vacation in the summer sun
 Gettin' lots of action, havin' lots of fun

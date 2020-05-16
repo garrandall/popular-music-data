@@ -1,8 +1,11 @@
 ---
+album: Composite Truth
 artists:
 - Mandrill
+external_ids:
+  spotify: spotify:track:6p7KEJStN2J1EpsT3hZVqH
 features: []
-genres: []
+first_released_as_single: false
 key: hang-loose-mandrill
 lyrics_url: https://genius.com/Mandrill-hang-loose-lyrics
 name: Hang Loose
@@ -35,9 +38,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1973-09-22'
+release_year: 1972
+runtime: 288933
 ---
-Funky Instrumental intro
-
 People fighting for a dollar
 The proof in the street
 Sister, brother. Hustling other
@@ -48,10 +51,6 @@ Got to loose, better hang loose
 
 Yea!
 
-Funky Instrumental bridge
-
 Everybody trying to be somebody
 Ain't no doubt!
 Everybody trying to be somebody
-
-Funky Instrumental outro

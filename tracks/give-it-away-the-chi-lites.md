@@ -1,8 +1,11 @@
 ---
+album: Give It Away
 artists:
 - The Chi-lites
+external_ids:
+  spotify: spotify:track:6D2DBYVutF62lJfF7BzfWv
 features: []
-genres: []
+first_released_as_single: false
 key: give-it-away-the-chi-lites
 lyrics_url: https://www.azlyrics.com/lyrics/chilites/giveitaway.html
 name: Give It Away
@@ -31,8 +34,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1969-04-12'
+release_year: 1969
+runtime: 167053
 ---
-
 Oh, hoo, give it away
 Oh, hoo, give it away
 
@@ -109,6 +113,3 @@ Oh, baby, yeah, yeah
 
 What's the sense in giving you love
 What's the sense in giving you money
-
-
-

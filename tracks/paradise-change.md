@@ -1,8 +1,11 @@
 ---
+album: Miracles
 artists:
 - Change
+external_ids:
+  spotify: spotify:track:56nRvG4Te0dtmgxnhJBVm7
 features: []
-genres: []
+first_released_as_single: false
 key: paradise-change
 lyrics_url: https://genius.com/Change-paradise-lyrics
 name: Paradise
@@ -23,6 +26,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1981-06-27'
+release_year: 1981
+runtime: 312960
 ---
 If you touch me with your smile
 I'll get you to paradise

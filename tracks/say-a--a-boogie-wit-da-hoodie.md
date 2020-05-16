@@ -1,8 +1,11 @@
 ---
+album: The Bigger Artist
 artists:
 - A Boogie Wit da Hoodie
+external_ids:
+  spotify: spotify:track:3AMnOVxEHUgVrythGgqPhI
 features: []
-genres: []
+first_released_as_single: false
 key: say-a--a-boogie-wit-da-hoodie
 lyrics_url: https://genius.com/A-boogie-wit-da-hoodie-say-a-lyrics
 name: Say A'
@@ -15,6 +18,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2017-10-28'
+release_year: 2017
+runtime: 214853
 ---
 Ness on the beat
 What the fuck I'm supposed to say?

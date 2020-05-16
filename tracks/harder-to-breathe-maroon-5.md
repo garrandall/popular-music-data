@@ -1,8 +1,11 @@
 ---
+album: 'Songs About Jane: 10th Anniversary Edition'
 artists:
 - Maroon 5
+external_ids:
+  spotify: spotify:track:4V9JDRqKjN8F2HWdlEDxvI
 features: []
-genres: []
+first_released_as_single: false
 key: harder-to-breathe-maroon-5
 lyrics_url: https://www.azlyrics.com/lyrics/maroon5/hardertobreathe.html
 name: Harder To Breathe
@@ -95,8 +98,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2004-01-17'
+release_year: 2002
+runtime: 173693
 ---
-
 How dare you say that my behaviour's unacceptable
 So condescending unnecessarily critical
 I have the tendency of getting very physical
@@ -143,6 +147,3 @@ And like a little girl cries in the face of a monster that lives in her dreams
 Is there anyone out there 'cause it's getting harder and harder to breathe?
 Is there anyone out there 'cause it's getting harder and harder to breathe?
 Is there anyone out there 'cause it's getting harder and harder to breathe?
-
-
-

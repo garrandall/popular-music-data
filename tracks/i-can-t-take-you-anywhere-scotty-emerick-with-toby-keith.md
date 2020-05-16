@@ -1,8 +1,12 @@
 ---
+album: I Can't Take You Anywhere
 artists:
-- Scotty Emerick With Toby Keith
-features: []
-genres: []
+- Scotty Emerick
+external_ids:
+  spotify: spotify:track:7xeOspXk9qgSvorRl4LX5p
+features:
+- Toby Keith
+first_released_as_single: true
 key: i-can-t-take-you-anywhere-scotty-emerick-with-toby-keith
 name: I Can't Take You Anywhere
 rankings:
@@ -30,5 +34,7 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2003-12-27'
+release_year: 2003
+runtime: 196960
 ---
 

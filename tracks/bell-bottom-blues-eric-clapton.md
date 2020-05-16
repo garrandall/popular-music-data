@@ -1,8 +1,11 @@
 ---
+album: Eric Clapton's Rainbow Concert
 artists:
 - Eric Clapton
+external_ids:
+  spotify: spotify:track:33KvZHwY39R9rBF7RMYBtD
 features: []
-genres: []
+first_released_as_single: false
 key: bell-bottom-blues-eric-clapton
 lyrics_url: https://genius.com/Eric-clapton-bell-bottom-blues-lyrics
 name: Bell Bottom Blues
@@ -27,6 +30,8 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1973-03-17'
+release_year: 1973
+runtime: 385683
 ---
 Bell bottom blues, you made me cry
 I don't want to lose this feeling

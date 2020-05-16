@@ -1,9 +1,12 @@
 ---
+album: My Ghetto Report Card
 artists:
 - E-40
+external_ids:
+  spotify: spotify:track:7eJ5kRpMNPAk7ccCDKywjH
 features:
 - Keak Da Sneak
-genres: []
+first_released_as_single: false
 key: tell-me-when-to-go-e-40-keak-da-sneak
 lyrics_url: https://www.azlyrics.com/lyrics/e40/tellmewhentogo.html
 name: Tell Me When To Go
@@ -68,9 +71,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '2006-06-10'
+release_year: 2006
+runtime: 237666
 ---
-
-
 Tell me when to go... Tell me when to go...
 Tell me when to go... Tell me when to go...
 Go dumb, dumb, dumb, dumb, dumb, dumb, dumb, dumb
@@ -142,6 +145,3 @@ we're gonna do it like this right here...
 Tell me when to go... Tell me when to go...
 Tell me when to go... Tell me when to go...
 Go dumb, dumb, dumb, dumb, dumb, dumb, dumb, dumb
-
-
-

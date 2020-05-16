@@ -1,9 +1,12 @@
 ---
+album: Late Registration
 artists:
 - Kanye West
+external_ids:
+  spotify: spotify:track:43PBE5b3RJgwfi1i9xKtEs
 features:
 - Jamie Foxx
-genres: []
+first_released_as_single: false
 key: gold-digger-kanye-west-jamie-foxx
 lyrics_url: https://www.azlyrics.com/lyrics/kanyewest/golddigger.html
 name: Gold Digger
@@ -164,9 +167,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2006-04-22'
+release_year: 2005
+runtime: 207626
 ---
-
-
 She take my money when I'm in need
 Yeah she's a trifling friend indeed
 Oh she's a gold digger way over town
@@ -244,6 +247,3 @@ Get down girl go head get down
 Get down girl go head get down
 Get down girl go head
 (lemme hear that back)
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Tejas
 artists:
 - ZZ Top
+external_ids:
+  spotify: spotify:track:5NR2RuQ5rQplGLaKS7ZwAu
 features: []
-genres: []
+first_released_as_single: false
 key: arrested-for-driving-while-blind-zz-top
 lyrics_url: https://www.azlyrics.com/lyrics/zztop/arrestedfordrivingwhileblind.html
 name: Arrested For Driving While Blind
@@ -31,8 +34,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1977-04-30'
+release_year: 1976
+runtime: 186586
 ---
-
 When you're driving down the highway at night
 And you're feelin' that wild turkey's bite
 Don't give Johnny Walker a ride
@@ -53,6 +57,3 @@ And there ain't no cause for alarm
 We ain't out to do nobody no harm
 How could anyone be so unkind
 To arrest a man for drivin' while blind
-
-
-

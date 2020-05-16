@@ -1,8 +1,11 @@
 ---
+album: Moana (Original Motion Picture Soundtrack
 artists:
 - Dwayne Johnson
+external_ids:
+  spotify: spotify:track:6U4VqEHy4n5VeiH4pQPL24
 features: []
-genres: []
+first_released_as_single: false
 key: you-re-welcome-dwayne-johnson
 lyrics_url: https://www.musixmatch.com/lyrics/Dwayne-Johnson/You-re-Welcome
 name: You're Welcome
@@ -59,6 +62,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2017-05-20'
+release_year: 2016
+runtime: 163893
 ---
 Ok, ok, I see what's happening here
 You're face to face with greatness, and it's strange

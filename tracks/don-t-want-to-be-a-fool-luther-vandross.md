@@ -1,8 +1,11 @@
 ---
+album: Power Of Love
 artists:
 - Luther Vandross
+external_ids:
+  spotify: spotify:track:2rgMQNOF91LdmJClQAgqW9
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-want-to-be-a-fool-luther-vandross
 lyrics_url: https://genius.com/Luther-vandross-dont-want-to-be-a-fool-lyrics
 name: Don't Want To Be A Fool
@@ -87,6 +90,8 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1991-12-14'
+release_year: 1991
+runtime: 275133
 ---
 Love, what have you done, oh wow
 I was sure up 'til now

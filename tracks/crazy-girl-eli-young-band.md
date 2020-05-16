@@ -1,8 +1,11 @@
 ---
+album: Life At Best
 artists:
 - Eli Young Band
+external_ids:
+  spotify: spotify:track:1nVLAEzhBXMJLR5zAl90Nl
 features: []
-genres: []
+first_released_as_single: false
 key: crazy-girl-eli-young-band
 lyrics_url: https://genius.com/Eli-young-band-crazy-girl-lyrics
 name: Crazy Girl
@@ -151,6 +154,8 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '2011-12-03'
+release_year: 2011
+runtime: 200706
 ---
 Baby why you wanna cry?
 You really oughta know that I

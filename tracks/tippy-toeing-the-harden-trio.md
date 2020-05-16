@@ -1,8 +1,11 @@
 ---
+album: Tippy Toeing
 artists:
 - The Harden Trio
+external_ids:
+  spotify: spotify:track:54dLJWk0He1SHiNaBXUav1
 features: []
-genres: []
+first_released_as_single: false
 key: tippy-toeing-the-harden-trio
 lyrics_url: https://www.musixmatch.com/lyrics/The-Harden-Trio-2/Tippy-Toeing
 name: Tippy Toeing
@@ -47,6 +50,8 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '1966-05-14'
+release_year: 1966
+runtime: 121213
 ---
 Well mama go a tippy, tippy toein' through the house
 Gotta see what's the matter with the baby

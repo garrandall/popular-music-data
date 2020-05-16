@@ -1,8 +1,11 @@
 ---
+album: Off The Ground
 artists:
 - Paul McCartney
+external_ids:
+  spotify: spotify:track:3gcAVW0ZYaajy5PK9dAhut
 features: []
-genres: []
+first_released_as_single: false
 key: hope-of-deliverance-paul-mccartney
 lyrics_url: https://www.azlyrics.com/lyrics/paulmccartney/hopeofdeliverance.html
 name: Hope Of Deliverance
@@ -31,8 +34,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1993-03-27'
+release_year: 1993
+runtime: 202000
 ---
-
 I Will Always Be Hoping, Hoping.
 You Will Always Be Holding, Holding
 My Heart In Your Hand. I Will Understand.
@@ -66,6 +70,3 @@ Hope Of Deliverance From The Darkness That Surrounds Us.
 
 Hope Of Deliverance, Hope Of Deliverance.
 Hope Of Deliverance From The Darkness That Surrounds Us.
-
-
-

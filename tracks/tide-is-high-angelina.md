@@ -1,8 +1,11 @@
 ---
+album: The Album
 artists:
 - Angelina
+external_ids:
+  spotify: spotify:track:33IXsLbbIVoOSNIrouplPv
 features: []
-genres: []
+first_released_as_single: false
 key: tide-is-high-angelina
 lyrics_url: https://genius.com/Angelina-the-tide-is-high-lyrics
 name: Tide Is High
@@ -23,6 +26,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1997-09-06'
+release_year: 1997
+runtime: 291720
 ---
 The tide is high, but I'm holding on
 I'm gonna be your number one

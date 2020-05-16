@@ -1,8 +1,11 @@
 ---
+album: Everything Is Grey
 artists:
 - Ironhorse
+external_ids:
+  spotify: spotify:track:36QAn875aVkU7e6TmMUCuk
 features: []
-genres: []
+first_released_as_single: false
 key: what-s-your-hurry-darlin--ironhorse
 name: What's Your Hurry Darlin'
 rankings:
@@ -30,5 +33,7 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1980-05-31'
+release_year: 1980
+runtime: 273266
 ---
 

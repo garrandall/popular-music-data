@@ -1,8 +1,11 @@
 ---
+album: The Immaculate Collection
 artists:
 - Madonna
+external_ids:
+  spotify: spotify:track:0n8sO6vHx3SkVEn2pjaqV9
 features: []
-genres: []
+first_released_as_single: false
 key: rescue-me-madonna
 lyrics_url: https://www.azlyrics.com/lyrics/madonna/rescueme.html
 name: Rescue Me
@@ -39,8 +42,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1991-04-20'
+release_year: 1990
+runtime: 331733
 ---
-
 I'm talking, I'm talking
 I believe in the power of love
 I'm singing, I'm singing
@@ -131,6 +135,3 @@ Hey hey, hey...
 (I believe you can rescue me)
 (I believe in the power)
 (I believe you can rescue me)
-
-
-

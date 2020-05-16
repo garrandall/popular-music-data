@@ -1,8 +1,11 @@
 ---
+album: Identify Yourself
 artists:
 - The O'Jays
+external_ids:
+  spotify: spotify:track:2X4H5K1aT6d7UyPWVfJWmF
 features: []
-genres: []
+first_released_as_single: false
 key: forever-mine-the-o-jays
 lyrics_url: https://genius.com/The-ojays-forever-mine-lyrics
 name: Forever Mine
@@ -59,6 +62,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1980-02-16'
+release_year: 1979
+runtime: 366226
 ---
 Forever mine
 All because you're my kind, oh baby

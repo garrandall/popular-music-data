@@ -1,8 +1,11 @@
 ---
+album: Bills
 artists:
 - LunchMoney Lewis
+external_ids:
+  spotify: spotify:track:7rlCeTnjn0plPZkVAcctPZ
 features: []
-genres: []
+first_released_as_single: true
 key: bills-lunchmoney-lewis
 lyrics_url: https://www.azlyrics.com/lyrics/lunchmoneylewis/bills.html
 name: Bills
@@ -31,8 +34,9 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '2015-05-02'
+release_year: 2015
+runtime: 204600
 ---
-
 I got bills I gotta pay
 So I'm gon' work, work, work every day
 I got mouths I gotta feed,
@@ -97,6 +101,3 @@ I got bills.
 (Mama got bills! Yo' daddy got bills! Yo' sister got bills! Yo' auntie got bills!)
 I got bills.
 (Yo' Uncle got bills! Everybody got bills! Everybody got bills!)
-
-
-

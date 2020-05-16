@@ -1,8 +1,11 @@
 ---
+album: Tha G-Code
 artists:
 - Juvenile
+external_ids:
+  spotify: spotify:track:5V6r4UQ0z7gxkkREnza5Y0
 features: []
-genres: []
+first_released_as_single: false
 key: u-understand-juvenile
 lyrics_url: https://genius.com/Juvenile-u-understand-lyrics
 name: U Understand
@@ -31,6 +34,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2000-03-11'
+release_year: 1999
+runtime: 259293
 ---
 CMR bitch. G -Code nigga, G-code nigga, G-code nigga
 

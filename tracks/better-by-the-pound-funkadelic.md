@@ -1,8 +1,11 @@
 ---
+album: Let's Take It To The Stage
 artists:
 - Funkadelic
+external_ids:
+  spotify: spotify:track:3Wdrk8eOCEOM1OBK7y9MUZ
 features: []
-genres: []
+first_released_as_single: false
 key: better-by-the-pound-funkadelic
 lyrics_url: https://www.azlyrics.com/lyrics/funkadelic/betterbythepound.html
 name: Better By The Pound
@@ -19,8 +22,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1975-11-15'
+release_year: 1975
+runtime: 163346
 ---
-
 Pleasure's the motivation for the human race
 Everything starts and ends with sex and appeal
 Feeling good is the bait, Satan uses to fish for you and me
@@ -52,6 +56,3 @@ Say, free from the need to be free
 There's a tidal wave of mysticism
 Surging through our jet-aged generation
 It's all designed to take us to the sky
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Look At My Dab
 artists:
 - Migos
+external_ids:
+  spotify: spotify:track:20n5AhSbetBMt6Xbrm4fa7
 features: []
-genres: []
+first_released_as_single: true
 key: look-at-my-dab-migos
 lyrics_url: https://genius.com/Migos-look-at-my-dab-lyrics
 name: Look At My Dab
@@ -11,6 +14,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '2016-03-12'
+release_year: 2016
+runtime: 217226
 ---
 Bitch dab, bitch dab
 Bitch dab, bitch dab

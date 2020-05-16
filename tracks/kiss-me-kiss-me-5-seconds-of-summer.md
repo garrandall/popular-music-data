@@ -1,8 +1,11 @@
 ---
+album: 5 Seconds Of Summer
 artists:
 - 5 Seconds Of Summer
+external_ids:
+  spotify: spotify:track:4Ulq0gMDyMQuwKbM2ocx9x
 features: []
-genres: []
+first_released_as_single: false
 key: kiss-me-kiss-me-5-seconds-of-summer
 lyrics_url: https://www.azlyrics.com/lyrics/5secondsofsummer/kissmekissme.html
 name: Kiss Me Kiss Me
@@ -11,8 +14,9 @@ rankings:
   rank: 28
   ranking_list: Billboard Hot 100
   start_date: '2014-07-05'
+release_year: 2014
+runtime: 204620
 ---
-
 Here's to teenage memories
 Here's to teenage memories
 
@@ -71,6 +75,3 @@ Here's to teenage memories
 
 Here's to teenage memories
 Here's to teenage memories
-
-
-

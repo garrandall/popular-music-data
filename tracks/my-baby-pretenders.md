@@ -1,8 +1,11 @@
 ---
+album: Get Close
 artists:
 - Pretenders
+external_ids:
+  spotify: spotify:track:6kpDRDU50wYcRQPvFFeLXG
 features: []
-genres: []
+first_released_as_single: false
 key: my-baby-pretenders
 lyrics_url: https://genius.com/Pretenders-my-baby-lyrics
 name: My Baby
@@ -35,6 +38,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1987-03-21'
+release_year: 1986
+runtime: 247853
 ---
 I want you to love me
 That's all I want from you

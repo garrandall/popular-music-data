@@ -1,9 +1,12 @@
 ---
+album: So Amazin'
 artists:
 - Christina Milian
+external_ids:
+  spotify: spotify:track:4VLU5fhOXObWyc6LpZ7pJr
 features:
 - Young Jeezy
-genres: []
+first_released_as_single: true
 key: say-i-christina-milian-young-jeezy
 lyrics_url: https://www.azlyrics.com/lyrics/christinamilian/sayi.html
 name: Say I
@@ -60,8 +63,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2006-07-08'
+release_year: 2006
+runtime: 211666
 ---
-
 This is...this is...this is... hot
 You like this
 You are now witnessing
@@ -179,6 +183,3 @@ I'm going to keep it gangster
 Ima make it hot
 If you feel like I do, then people throw your hands up
 Say I...I
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Somethin' Else!!
 artists:
 - Jackie Wilson
+external_ids:
+  spotify: spotify:track:228WP2hQYq8IRuZrp6IqBd
 features: []
-genres: []
+first_released_as_single: false
 key: squeeze-her-tease-her--but-love-her--jackie-wilson
 lyrics_url: https://www.musixmatch.com/lyrics/Jackie-Wilson/Squeeze-Her-Tease-Her-But-Love-Her
 name: Squeeze Her-Tease Her (But Love Her)
@@ -15,6 +18,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1964-08-29'
+release_year: 1964
+runtime: 120600
 ---
 When you are in love
 And your love is true

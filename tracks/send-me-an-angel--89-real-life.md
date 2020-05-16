@@ -1,8 +1,11 @@
 ---
+album: Best Of Real Life - Send Me An Angel
 artists:
 - Real Life
+external_ids:
+  spotify: spotify:track:5lMRS9GFQYfxhflty2E1ad
 features: []
-genres: []
+first_released_as_single: false
 key: send-me-an-angel--89-real-life
 lyrics_url: https://genius.com/Real-life-send-me-an-angel-89-lyrics
 name: Send Me An Angel '89
@@ -71,6 +74,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1989-08-26'
+release_year: 1989
+runtime: 232586
 ---
 Do you believe in heaven above?
 Do you believe in love?

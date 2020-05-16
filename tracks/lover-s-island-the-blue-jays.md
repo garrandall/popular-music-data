@@ -1,8 +1,11 @@
 ---
+album: Green Book (Original Motion Picture Soundtrack)
 artists:
 - The Blue Jays
+external_ids:
+  spotify: spotify:track:4SD0Ls24aAF0fIuEmdkELb
 features: []
-genres: []
+first_released_as_single: true
 key: lover-s-island-the-blue-jays
 lyrics_url: https://www.musixmatch.com/lyrics/The-Blue-Jays/Lover-s-Island
 name: Lover's Island
@@ -43,6 +46,8 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1961-10-09'
+release_year: 1961
+runtime: 131893
 ---
 On Lover's Island
 Where the trees stand so tall

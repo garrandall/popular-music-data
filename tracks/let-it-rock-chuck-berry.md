@@ -1,8 +1,11 @@
 ---
+album: Rockin' At The Hops
 artists:
 - Chuck Berry
+external_ids:
+  spotify: spotify:track:2OCoH12t6olzx9bT1PEC8F
 features: []
-genres: []
+first_released_as_single: false
 key: let-it-rock-chuck-berry
 lyrics_url: https://genius.com/Chuck-berry-let-it-rock-lyrics
 name: Let It Rock
@@ -39,6 +42,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1960-03-21'
+release_year: 1960
+runtime: 102800
 ---
 In the heat of the day
 Down In mobile Alabama

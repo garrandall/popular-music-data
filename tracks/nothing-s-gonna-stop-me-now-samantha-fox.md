@@ -1,8 +1,11 @@
 ---
+album: Samantha Fox
 artists:
 - Samantha Fox
+external_ids:
+  spotify: spotify:track:63znppPuvmma2IcQNe9F7p
 features: []
-genres: []
+first_released_as_single: false
 key: nothing-s-gonna-stop-me-now-samantha-fox
 lyrics_url: https://genius.com/Samantha-fox-nothings-gonna-stop-me-now-lyrics
 name: Nothing's Gonna Stop Me Now
@@ -27,6 +30,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1987-11-07'
+release_year: 1987
+runtime: 225146
 ---
 Nothing`s gonna stop me now
 Nothing`s gonna stop me now

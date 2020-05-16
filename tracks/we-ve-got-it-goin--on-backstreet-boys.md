@@ -1,8 +1,11 @@
 ---
+album: Backstreet Boys
 artists:
 - Backstreet Boys
+external_ids:
+  spotify: spotify:track:2rtDTRFjBoqyj2rgi5mOAF
 features: []
-genres: []
+first_released_as_single: false
 key: we-ve-got-it-goin--on-backstreet-boys
 lyrics_url: https://genius.com/Backstreet-boys-weve-got-it-goin-on-lyrics
 name: We've Got It Goin' On
@@ -87,6 +90,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1996-03-09'
+release_year: 1995
+runtime: 219466
 ---
 Everybody groove to the music
 Everybody jam

@@ -1,8 +1,11 @@
 ---
+album: The Band
 artists:
 - The Band
+external_ids:
+  spotify: spotify:track:60VcYHxoyOdZyFb1EaKJdN
 features: []
-genres: []
+first_released_as_single: false
 key: up-on-cripple-creek-the-band
 lyrics_url: https://www.azlyrics.com/lyrics/band/uponcripplecreek.html
 name: Up On Cripple Creek
@@ -63,8 +66,9 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1970-01-31'
+release_year: 1969
+runtime: 274893
 ---
-
 When I get off of this mountain, you know where I want to go?
 Straight down the Mississippi river, to the Gulf of Mexico
 To Lake Charles, Louisiana, little Bessie, girl that I once knew
@@ -114,6 +118,3 @@ Up on Cripple Creek she sends me
 If I spring a leak she mends me
 I don't have to speak, she defends me
 A drunkard's dream if I ever did see one
-
-
-

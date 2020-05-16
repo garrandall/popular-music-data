@@ -1,8 +1,11 @@
 ---
+album: Fifi the Flea
 artists:
 - The Sidekicks
+external_ids:
+  spotify: spotify:track:2I5l8CQz7qdJGWzIiQAg1j
 features: []
-genres: []
+first_released_as_single: false
 key: suspicions-the-sidekicks
 name: Suspicions
 rankings:
@@ -42,5 +45,7 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '1966-10-01'
+release_year: 1966
+runtime: 154733
 ---
 

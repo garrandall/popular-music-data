@@ -1,9 +1,12 @@
 ---
+album: Shotgun
 artists:
 - Jr. Walker
 - The All Stars
+external_ids:
+  spotify: spotify:track:10EeysK2xPjkUT7DxPAKFG
 features: []
-genres: []
+first_released_as_single: false
 key: shake-and-fingerpop-jr--walker-the-all-stars
 lyrics_url: https://genius.com/Jr-walker-and-the-all-stars-shake-and-fingerpop-lyrics
 name: Shake And Fingerpop
@@ -40,6 +43,8 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '1965-09-18'
+release_year: 1965
+runtime: 163533
 ---
 Put on your wig, woman
 We goin' out to shake and fingerpop, hey baby

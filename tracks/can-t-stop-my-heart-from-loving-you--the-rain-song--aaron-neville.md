@@ -1,8 +1,11 @@
 ---
+album: The Tattooed Heart
 artists:
 - Aaron Neville
+external_ids:
+  spotify: spotify:track:1SdG61anvsCv8hffXPU8FD
 features: []
-genres: []
+first_released_as_single: false
 key: can-t-stop-my-heart-from-loving-you--the-rain-song--aaron-neville
 lyrics_url: https://genius.com/Aaron-neville-cant-stop-my-heart-from-loving-you-the-rain-song-lyrics
 name: Can't Stop My Heart From Loving You (The Rain Song)
@@ -11,6 +14,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1995-07-29'
+release_year: 1995
+runtime: 257560
 ---
 Hey...hey...hey...whoa...whoa
 Oh...

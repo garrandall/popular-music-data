@@ -1,8 +1,11 @@
 ---
+album: Unorthodox Jukebox
 artists:
 - Bruno Mars
+external_ids:
+  spotify: spotify:track:3G5iN5QBqMeXx3uZPy8tgB
 features: []
-genres: []
+first_released_as_single: false
 key: young-girls-bruno-mars
 lyrics_url: https://www.azlyrics.com/lyrics/brunomars/younggirls.html
 name: Young Girls
@@ -63,8 +66,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2014-04-19'
+release_year: 2012
+runtime: 228720
 ---
-
 I spent all my money, bought a big old fancy car
 For these bright-eyed honies
 Oh, yeah, you know who you are
@@ -120,6 +124,3 @@ All you young wild girls
 No matter what you do
 Yeah, you young wild girls
 I'll always come back to you, come back to you
-
-
-

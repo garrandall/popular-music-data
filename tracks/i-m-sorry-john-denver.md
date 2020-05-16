@@ -1,8 +1,11 @@
 ---
+album: Windsong
 artists:
 - John Denver
+external_ids:
+  spotify: spotify:track:5opuphTIXgUUClEs5mnIQN
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-sorry-john-denver
 lyrics_url: https://genius.com/John-denver-im-sorry-lyrics
 name: I'm Sorry
@@ -79,6 +82,8 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '1975-12-13'
+release_year: 1975
+runtime: 211773
 ---
 It's cold here in the city
 It always seems that way

@@ -1,8 +1,11 @@
 ---
+album: Above The Clouds
 artists:
 - Johnny Preston
+external_ids:
+  spotify: spotify:track:7aNTh3OpCBJ78GDs5j2987
 features: []
-genres: []
+first_released_as_single: false
 key: leave-my-kitten-alone-johnny-preston
 lyrics_url: https://www.musixmatch.com/lyrics/Johnny-Preston/Leave-My-Kitten-Alone
 name: Leave My Kitten Alone
@@ -27,6 +30,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1961-02-27'
+release_year: 1961
+runtime: 150653
 ---
 You better leave my kitten all alone
 You better leave my kitten all alone

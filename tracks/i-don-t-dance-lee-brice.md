@@ -1,8 +1,11 @@
 ---
+album: I Don't Dance
 artists:
 - Lee Brice
+external_ids:
+  spotify: spotify:track:5aj0xPGiEUN3aI2oOYu14S
 features: []
-genres: []
+first_released_as_single: false
 key: i-don-t-dance-lee-brice
 lyrics_url: https://genius.com/Lee-brice-i-dont-dance-lyrics
 name: I Don't Dance
@@ -87,6 +90,8 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '2014-09-13'
+release_year: 2014
+runtime: 221173
 ---
 I’ll never settle down
 That’s what I always thought

@@ -1,8 +1,11 @@
 ---
+album: Alive In America
 artists:
 - Crawler
+external_ids:
+  spotify: spotify:track:1hKDeKzaJaJ6D62sqjbMaW
 features: []
-genres: []
+first_released_as_single: false
 key: stone-cold-sober-crawler
 lyrics_url: https://www.musixmatch.com/lyrics/CRaWLeR/Stone-Cold-Sober
 name: Stone Cold Sober
@@ -35,6 +38,8 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1977-11-26'
+release_year: 1977
+runtime: 336840
 ---
 Must be something in this life
 Everybody in the world is criminal

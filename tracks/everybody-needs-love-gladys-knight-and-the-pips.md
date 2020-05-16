@@ -1,8 +1,11 @@
 ---
+album: Everybody Needs Love
 artists:
 - Gladys Knight And The Pips
+external_ids:
+  spotify: spotify:track:7jqrD6XG20EZ5QbMdyUpZd
 features: []
-genres: []
+first_released_as_single: false
 key: everybody-needs-love-gladys-knight-and-the-pips
 lyrics_url: https://genius.com/Gladys-knight-and-the-pips-everybody-needs-love-lyrics
 name: Everybody Needs Love
@@ -43,6 +46,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1967-09-02'
+release_year: 1967
+runtime: 184266
 ---
 Say you wanna be loved
 But you won't let me love you

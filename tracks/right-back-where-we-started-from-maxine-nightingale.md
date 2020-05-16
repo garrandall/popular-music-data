@@ -1,8 +1,11 @@
 ---
+album: 'Right Back Where We Started From: 70''s Dance'
 artists:
 - Maxine Nightingale
+external_ids:
+  spotify: spotify:track:1EfxtTBWDQGRaRVL6nHnfx
 features: []
-genres: []
+first_released_as_single: false
 key: right-back-where-we-started-from-maxine-nightingale
 lyrics_url: https://genius.com/Maxine-nightingale-right-back-where-we-started-from-lyrics
 name: Right Back Where We Started From
@@ -87,6 +90,8 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '1976-06-26'
+release_year: 1976
+runtime: 298493
 ---
 Oh and it's alright and it's coming on
 We gotta get right back to where we started from

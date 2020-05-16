@@ -1,8 +1,11 @@
 ---
+album: Showtime!
 artists:
 - The J. Geils Band
+external_ids:
+  spotify: spotify:track:2jdPMzHIQuzaCPkCs4GZGg
 features: []
-genres: []
+first_released_as_single: false
 key: land-of-a-thousand-dances-the-j--geils-band
 lyrics_url: https://genius.com/The-j-geils-band-land-of-a-thousand-dances-lyrics
 name: Land Of A Thousand Dances
@@ -31,6 +34,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1983-04-02'
+release_year: 1982
+runtime: 341213
 ---
 One, two, three
 One, two, three

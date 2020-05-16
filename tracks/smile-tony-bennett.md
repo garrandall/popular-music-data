@@ -1,8 +1,11 @@
 ---
+album: I Left My Heart In San Francisco
 artists:
 - Tony Bennett
+external_ids:
+  spotify: spotify:track:101tafLIzAvUvaZ1hRdeCR
 features: []
-genres: []
+first_released_as_single: false
 key: smile-tony-bennett
 lyrics_url: https://genius.com/Tony-bennett-the-shadow-of-your-smile-lyrics
 name: Smile
@@ -31,6 +34,8 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1959-09-21'
+release_year: 1959
+runtime: 168266
 ---
 One day we walked along the sand
 One day in early spring

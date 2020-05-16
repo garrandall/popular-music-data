@@ -1,9 +1,11 @@
 ---
+album: Wedding Album
 artists:
-- Cheech
-- Chong
+- Cheech & Chong
+external_ids:
+  spotify: spotify:track:6MJ4qzgxaTZQpzfIMkmlBP
 features: []
-genres: []
+first_released_as_single: false
 key: black-lassie--featuring-johnny-stash--cheech-chong
 lyrics_url: https://genius.com/Cheech-and-chong-black-lassie-a-great-american-dog-lyrics
 name: Black Lassie (Featuring Johnny Stash)
@@ -32,6 +34,8 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '1974-12-14'
+release_year: 1974
+runtime: 230000
 ---
 Hi, I'm Johnny Stash
 And I'm here to sing about

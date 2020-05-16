@@ -1,8 +1,11 @@
 ---
+album: The Top Hits Of 1963 Sung By Bobby Rydell
 artists:
 - Bobby Rydell
+external_ids:
+  spotify: spotify:track:2bnCTu0tOeQCUMGudRe56R
 features: []
-genres: []
+first_released_as_single: false
 key: let-s-make-love-tonight-bobby-rydell
 lyrics_url: https://www.musixmatch.com/lyrics/Bobby-Rydell/Let-s-Make-Love-Tonight
 name: Let's Make Love Tonight
@@ -15,6 +18,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1963-10-05'
+release_year: 1963
+runtime: 145213
 ---
 Would you like to be kissed
 In the moonlight

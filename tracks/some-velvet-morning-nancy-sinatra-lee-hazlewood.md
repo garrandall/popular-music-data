@@ -1,9 +1,12 @@
 ---
+album: Nancy & Lee
 artists:
 - Nancy Sinatra
 - Lee Hazlewood
+external_ids:
+  spotify: spotify:track:0NWDIJCR2vOYJN8ipD8Ktb
 features: []
-genres: []
+first_released_as_single: false
 key: some-velvet-morning-nancy-sinatra-lee-hazlewood
 lyrics_url: https://genius.com/Nancy-sinatra-and-lee-hazlewood-some-velvet-morning-lyrics
 name: Some Velvet Morning
@@ -40,6 +43,8 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '1968-02-24'
+release_year: 1968
+runtime: 221626
 ---
 Some velvet mornin' when I'm straight
 I'm gonna open up your gate

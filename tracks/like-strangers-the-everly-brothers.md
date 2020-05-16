@@ -1,8 +1,11 @@
 ---
+album: THE EVERLY BROTHERS
 artists:
 - The Everly Brothers
+external_ids:
+  spotify: spotify:track:5PW5bha8sWPGcvejOgwPiF
 features: []
-genres: []
+first_released_as_single: false
 key: like-strangers-the-everly-brothers
 lyrics_url: https://genius.com/The-everly-brothers-like-strangers-lyrics
 name: Like Strangers
@@ -47,6 +50,8 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '1961-01-02'
+release_year: 1960
+runtime: 125360
 ---
 Like strangers
 That's what we are

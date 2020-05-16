@@ -1,8 +1,11 @@
 ---
+album: Bobby Goldsboro
 artists:
 - Bobby Goldsboro
+external_ids:
+  spotify: spotify:track:5OuaVW3oX6BJQRFqGxbiwc
 features: []
-genres: []
+first_released_as_single: false
 key: little-things-bobby-goldsboro
 lyrics_url: https://www.azlyrics.com/lyrics/bobbygoldsboro/littlethings.html
 name: Little Things
@@ -55,8 +58,9 @@ rankings:
   rank: 33
   ranking_list: Billboard Hot 100
   start_date: '1965-04-10'
+release_year: 1965
+runtime: 149133
 ---
-
 Little things that you do make me glad I'm in love with you
 Little things that you say make me glad that I feel this way
 The way you smile, the way you hold my hand
@@ -82,6 +86,3 @@ You know I love those
 Little things that I hear, the little things you whisper in my ear
 I know there ain't nobody else like you
 No one could do the little things you do
-
-
-

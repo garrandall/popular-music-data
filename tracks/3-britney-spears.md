@@ -1,8 +1,11 @@
 ---
+album: The Singles Collection
 artists:
 - Britney Spears
+external_ids:
+  spotify: spotify:track:6pymOcrCnMuCWdgGVTvUgP
 features: []
-genres: []
+first_released_as_single: false
 key: 3-britney-spears
 lyrics_url: https://genius.com/Britney-spears-3-lyrics
 name: '3'
@@ -87,6 +90,8 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '2010-03-06'
+release_year: 2009
+runtime: 213173
 ---
 1, 2, 3
 Not only you and me

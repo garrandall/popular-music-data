@@ -1,8 +1,11 @@
 ---
+album: Let Go
 artists:
 - Avril Lavigne
+external_ids:
+  spotify: spotify:track:00Mb3DuaIH1kjrwOku9CGU
 features: []
-genres: []
+first_released_as_single: false
 key: sk8er-boi-avril-lavigne
 lyrics_url: https://www.azlyrics.com/lyrics/avrillavigne/sk8erboi.html
 name: Sk8er Boi
@@ -87,8 +90,9 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '2003-01-25'
+release_year: 2002
+runtime: 204000
 ---
-
 He was a boy.
 She was a girl.
 Can I make it anymore obvious?
@@ -157,6 +161,3 @@ I said, "See ya later, boy."
 I'll be backstage after the show.
 I'll be at the studio singing the song we wrote
 About a girl you used to know.
-
-
-

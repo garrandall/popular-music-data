@@ -1,8 +1,11 @@
 ---
+album: Chubby's Folk Album
 artists:
 - Chubby Checker
+external_ids:
+  spotify: spotify:track:02eUtTB1kayHwqXlbJtH2c
 features: []
-genres: []
+first_released_as_single: false
 key: hey-bobba-needle-chubby-checker
 lyrics_url: https://www.azlyrics.com/lyrics/chubbychecker/heybobbaneedle.html
 name: Hey Bobba Needle
@@ -43,9 +46,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1964-05-09'
+release_year: 1964
+runtime: 139053
 ---
-
-
 This is a sad story about a girl named Mary Mac and her wondering lover Bob Needle
 
 (Oh! Softly)
@@ -107,6 +110,3 @@ Hey Bob
 Hey Bob
 Oh Yeah
 Hey Bob
-
-
-

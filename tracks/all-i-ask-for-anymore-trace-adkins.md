@@ -1,8 +1,11 @@
 ---
+album: Trace Adkins "X"
 artists:
 - Trace Adkins
+external_ids:
+  spotify: spotify:track:5uTtp149zjSYnQqTITyDxB
 features: []
-genres: []
+first_released_as_single: false
 key: all-i-ask-for-anymore-trace-adkins
 lyrics_url: https://www.azlyrics.com/lyrics/traceadkins/alliaskforanymore.html
 name: All I Ask For Anymore
@@ -15,8 +18,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2009-12-19'
+release_year: 2008
+runtime: 237413
 ---
-
 It was a home run when the game was tied 
 A pick up truck when I could drive 
 One pink line when katie said I'm late 
@@ -50,6 +54,3 @@ Just watch my wife and kids please lord
 That's all I ask for any more 
 
 That's all that matters anymore
-
-
-

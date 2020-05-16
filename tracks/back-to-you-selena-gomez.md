@@ -1,8 +1,11 @@
 ---
+album: "Back To You (From 13 Reasons Why \u2013 Season 2 Soundtrack)"
 artists:
 - Selena Gomez
+external_ids:
+  spotify: spotify:track:4hQ6UGyWQIGJmHSo0J88JW
 features: []
-genres: []
+first_released_as_single: true
 key: back-to-you-selena-gomez
 lyrics_url: https://genius.com/Selena-gomez-back-to-you-lyrics
 name: Back To You
@@ -111,6 +114,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '2018-11-17'
+release_year: 2018
+runtime: 207904
 ---
 Took you like a shot
 Thought that I could chase you with a cold evenin'

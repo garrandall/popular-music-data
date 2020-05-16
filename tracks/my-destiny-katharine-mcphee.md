@@ -1,8 +1,11 @@
 ---
+album: A Tribute To Katharine Mcphee
 artists:
 - Katharine McPhee
+external_ids:
+  spotify: spotify:track:5pzOa6eAYbZ0TCmFhTRUzI
 features: []
-genres: []
+first_released_as_single: true
 key: my-destiny-katharine-mcphee
 lyrics_url: https://www.azlyrics.com/lyrics/katharinemcphee/mydestiny.html
 name: My Destiny
@@ -15,8 +18,9 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '2006-07-22'
+release_year: 2006
+runtime: 227400
 ---
-
 I have always dreamed of this
 I'll admit that there was something I missed
 Wonderin' if it is for real
@@ -59,6 +63,3 @@ Oh, cause of you, I saw a changing in my destiny
 Dream come true, it's so funny now that I see
 How different life turned out to be
 I've realized that it's my destiny
-
-
-

@@ -1,9 +1,12 @@
 ---
+album: Life Is You
 artists:
 - Batdorf
 - Rodney
+external_ids:
+  spotify: spotify:track:0tSpELFEDMqmMDK9QtUr4i
 features: []
-genres: []
+first_released_as_single: false
 key: you-are-a-song-batdorf-rodney
 name: You Are A Song
 rankings:
@@ -35,5 +38,7 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1975-09-20'
+release_year: 1975
+runtime: 187906
 ---
 

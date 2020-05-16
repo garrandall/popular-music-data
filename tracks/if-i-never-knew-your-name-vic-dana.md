@@ -1,8 +1,11 @@
 ---
+album: The Complete Hits Of Vic Dana
 artists:
 - Vic Dana
+external_ids:
+  spotify: spotify:track:6Udetniaf2njLUgs7Y03Iv
 features: []
-genres: []
+first_released_as_single: false
 key: if-i-never-knew-your-name-vic-dana
 lyrics_url: https://www.musixmatch.com/lyrics/Vic-Dana/If-I-Never-Knew-Your-Name
 name: If I Never Knew Your Name
@@ -55,6 +58,8 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '1970-03-28'
+release_year: 1970
+runtime: 204813
 ---
 You got me feeling crazy
 You're always on my mind

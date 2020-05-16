@@ -1,8 +1,11 @@
 ---
+album: Love Me Right
 artists:
 - Denise LaSalle
+external_ids:
+  spotify: spotify:track:33Bd5VF5zvaekFyTxut3Q6
 features: []
-genres: []
+first_released_as_single: false
 key: love-me-right-denise-lasalle
 lyrics_url: https://genius.com/Denise-lasalle-love-me-right-lyrics
 name: Love Me Right
@@ -47,6 +50,8 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '1978-03-18'
+release_year: 1978
+runtime: 228733
 ---
 Don't want to see no movie
 Don't turn on no tv

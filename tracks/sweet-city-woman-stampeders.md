@@ -1,8 +1,11 @@
 ---
+album: Against the Grain
 artists:
 - Stampeders
+external_ids:
+  spotify: spotify:track:52SCT6ImFklqEhH21lgErO
 features: []
-genres: []
+first_released_as_single: false
 key: sweet-city-woman-stampeders
 lyrics_url: https://genius.com/Stampeders-sweet-city-woman-lyrics
 name: Sweet City Woman
@@ -63,6 +66,8 @@ rankings:
   rank: 30
   ranking_list: Billboard Hot 100
   start_date: '1971-11-13'
+release_year: 1971
+runtime: 207426
 ---
 Well, I'm on my way, to the city life
 To a pretty face that shines her light on the city nights

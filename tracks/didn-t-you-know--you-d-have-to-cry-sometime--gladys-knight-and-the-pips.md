@@ -1,8 +1,11 @@
 ---
+album: Nitty Gritty
 artists:
 - Gladys Knight And The Pips
+external_ids:
+  spotify: spotify:track:6fRh1G2gtefqN2bDtK4P5T
 features: []
-genres: []
+first_released_as_single: false
 key: didn-t-you-know--you-d-have-to-cry-sometime--gladys-knight-and-the-pips
 lyrics_url: https://genius.com/Gladys-knight-and-the-pips-didnt-you-know-youd-have-to-cry-sometime-lyrics
 name: Didn't You Know (You'd Have To Cry Sometime)
@@ -35,6 +38,8 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '1969-04-19'
+release_year: 1969
+runtime: 215186
 ---
 Remember when you left
 Yeah, you had your rules

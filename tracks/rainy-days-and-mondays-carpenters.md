@@ -1,8 +1,11 @@
 ---
+album: Carpenters
 artists:
 - Carpenters
+external_ids:
+  spotify: spotify:track:5cbZDpFu1hTwaU7hDQpf13
 features: []
-genres: []
+first_released_as_single: false
 key: rainy-days-and-mondays-carpenters
 lyrics_url: https://genius.com/Carpenters-rainy-days-and-mondays-lyrics
 name: Rainy Days And Mondays
@@ -55,6 +58,8 @@ rankings:
   rank: 25
   ranking_list: Billboard Hot 100
   start_date: '1971-07-31'
+release_year: 1971
+runtime: 218893
 ---
 Talkin' to myself and feelin' old
 Sometimes I'd like to quit, nothin' ever seems to fit

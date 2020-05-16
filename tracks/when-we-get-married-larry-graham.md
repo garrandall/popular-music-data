@@ -1,8 +1,11 @@
 ---
+album: One In A Million You
 artists:
 - Larry Graham
+external_ids:
+  spotify: spotify:track:5wmI3VbYOrXrJdveuDQx0R
 features: []
-genres: []
+first_released_as_single: false
 key: when-we-get-married-larry-graham
 lyrics_url: https://genius.com/Larry-graham-when-we-get-married-lyrics
 name: When We Get Married
@@ -23,6 +26,8 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1980-11-15'
+release_year: 1978
+runtime: 215160
 ---
 Darling, oh...
 

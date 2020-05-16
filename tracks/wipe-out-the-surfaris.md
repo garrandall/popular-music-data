@@ -1,8 +1,11 @@
 ---
+album: Play
 artists:
 - The Surfaris
+external_ids:
+  spotify: spotify:track:2h83AMl3afIAWks8Z3Sn9C
 features: []
-genres: []
+first_released_as_single: false
 key: wipe-out-the-surfaris
 lyrics_url: https://genius.com/The-surfaris-wipe-out-lyrics
 name: Wipe Out
@@ -127,5 +130,7 @@ rankings:
   rank: 35
   ranking_list: Billboard Hot 100
   start_date: '1966-10-29'
+release_year: 1963
+runtime: 133933
 ---
 Ah ha ha ha ha ha ha ha ha ha ha ha, wipe out

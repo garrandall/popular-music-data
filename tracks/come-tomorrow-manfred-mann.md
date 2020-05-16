@@ -1,8 +1,11 @@
 ---
+album: Mann Made Hits
 artists:
 - Manfred Mann
+external_ids:
+  spotify: spotify:track:5cDjNgLCprm8AOyBeAGWfv
 features: []
-genres: []
+first_released_as_single: false
 key: come-tomorrow-manfred-mann
 lyrics_url: https://genius.com/Manfred-mann-come-tomorrow-lyrics
 name: Come Tomorrow
@@ -31,6 +34,8 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '1965-03-27'
+release_year: 1965
+runtime: 164160
 ---
 If the song of the songbird
 Could replace my wrong word

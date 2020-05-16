@@ -1,8 +1,11 @@
 ---
+album: Living Room
 artists:
 - AJR
+external_ids:
+  spotify: spotify:track:2dgFqylK6gyILa4HY65u0y
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-ready-ajr
 lyrics_url: https://genius.com/Ajr-im-ready-lyrics
 name: I'm Ready
@@ -51,6 +54,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2014-08-30'
+release_year: 2013
+runtime: 227311
 ---
 I'm ready...
 

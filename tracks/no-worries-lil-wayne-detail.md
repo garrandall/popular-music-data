@@ -1,9 +1,12 @@
 ---
+album: I Am Not A Human Being II
 artists:
 - Lil Wayne
+external_ids:
+  spotify: spotify:track:2DLsQuwxEdXt2yp54vw355
 features:
 - Detail
-genres: []
+first_released_as_single: false
 key: no-worries-lil-wayne-detail
 lyrics_url: https://genius.com/Genius-traductions-francaises-lil-wayne-no-worries-ft-detail-traduction-francaise-lyrics
 name: No Worries
@@ -96,6 +99,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2013-02-16'
+release_year: 2012
+runtime: 221000
 ---
 You can look me in my face
 I ain't got no worries

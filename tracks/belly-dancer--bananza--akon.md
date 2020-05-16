@@ -1,8 +1,11 @@
 ---
+album: Trouble Deluxe Edition
 artists:
 - Akon
+external_ids:
+  spotify: spotify:track:46PqPlhhW6MAk21IDFNLnx
 features: []
-genres: []
+first_released_as_single: false
 key: belly-dancer--bananza--akon
 lyrics_url: https://www.musixmatch.com/lyrics/Akon-2/Bananza-Belly-Dancer-1
 name: Belly Dancer (Bananza)
@@ -87,6 +90,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '2005-12-24'
+release_year: 2005
+runtime: 207840
 ---
 Hey ladies drop it down
 Just want to see you touch the ground

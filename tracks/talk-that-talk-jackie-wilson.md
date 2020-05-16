@@ -1,8 +1,11 @@
 ---
+album: So Much
 artists:
 - Jackie Wilson
+external_ids:
+  spotify: spotify:track:4EsBWlVwgNDotuGUuOKlTg
 features: []
-genres: []
+first_released_as_single: false
 key: talk-that-talk-jackie-wilson
 lyrics_url: https://www.azlyrics.com/lyrics/jackiewilson/talkthattalk.html
 name: Talk That Talk
@@ -55,8 +58,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1960-02-08'
+release_year: 1959
+runtime: 135720
 ---
-
 Shooby do do wop do
 Shooby do do wop do
 
@@ -101,6 +105,3 @@ Walks that walk, talks that talk for me
 
 Here she comes
 Don't you love It
-
-
-

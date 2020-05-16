@@ -1,8 +1,11 @@
 ---
+album: Battle Studies
 artists:
 - John Mayer
+external_ids:
+  spotify: spotify:track:4gs07VlJST4bdxGbBsXVue
 features: []
-genres: []
+first_released_as_single: false
 key: heartbreak-warfare-john-mayer
 lyrics_url: https://www.azlyrics.com/lyrics/johnmayer/heartbreakwarfare.html
 name: Heartbreak Warfare
@@ -87,8 +90,9 @@ rankings:
   rank: 52
   ranking_list: Billboard Hot 100
   start_date: '2010-05-08'
+release_year: 2009
+runtime: 269720
 ---
-
 Lightning strikes
 Inside my chest to keep me up at night
 Dream of ways
@@ -138,6 +142,3 @@ Disappointment has a name, it's heartbreak, heartbreak.
 It's heartbreak warfare
 It's heartbreak warfare
 It's heartbreak warfare
-
-
-

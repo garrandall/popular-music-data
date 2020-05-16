@@ -1,8 +1,11 @@
 ---
+album: Night Visions
 artists:
 - Imagine Dragons
+external_ids:
+  spotify: spotify:track:3LlAyCYU26dvFZBDUIMb7a
 features: []
-genres: []
+first_released_as_single: false
 key: demons-imagine-dragons
 lyrics_url: https://genius.com/Imagine-dragons-demons-lyrics
 name: Demons
@@ -251,6 +254,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '2014-07-05'
+release_year: 2012
+runtime: 175200
 ---
 When the days are cold and the cards all fold
 And the saints we see are all made of gold

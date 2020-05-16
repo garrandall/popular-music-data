@@ -1,8 +1,11 @@
 ---
+album: The Best Of Robbie Neville
 artists:
 - Robbie Nevil
+external_ids:
+  spotify: spotify:track:4zfAuDqZ9ndtLBaKdHIqtA
 features: []
-genres: []
+first_released_as_single: false
 key: just-like-you-robbie-nevil
 lyrics_url: https://genius.com/Robbie-nevil-just-like-you-lyrics
 name: Just Like You
@@ -63,6 +66,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1991-10-05'
+release_year: 1991
+runtime: 246600
 ---
 I want to be just like you
 I want to be just like you

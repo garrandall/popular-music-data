@@ -1,9 +1,12 @@
 ---
+album: The Distance
 artists:
 - Bob Seger
 - The Silver Bullet Band
+external_ids:
+  spotify: spotify:track:00XXUBsdOe8cLPo2p64Dd3
 features: []
-genres: []
+first_released_as_single: false
 key: even-now-bob-seger-the-silver-bullet-band
 lyrics_url: https://www.musixmatch.com/lyrics/Bob-Seger-feat-The-Silver-Bullet-Band/Even-Now
 name: Even Now
@@ -56,6 +59,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1983-05-28'
+release_year: 1982
+runtime: 273186
 ---
 There's a highway, a lonesome stretch of gray
 It runs between us, and takes me far away

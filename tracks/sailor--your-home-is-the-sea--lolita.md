@@ -1,8 +1,11 @@
 ---
+album: Famous One Hit Wonders - Back In Time Vol. 3
 artists:
 - Lolita
+external_ids:
+  spotify: spotify:track:3l477StNmG8dGEwGzFshxh
 features: []
-genres: []
+first_released_as_single: false
 key: sailor--your-home-is-the-sea--lolita
 lyrics_url: https://genius.com/Lolita-sailor-your-home-is-the-sea-lyrics
 name: Sailor (Your Home Is The Sea)
@@ -79,6 +82,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1961-02-20'
+release_year: 1960
+runtime: 170200
 ---
 Ueber Rio und Shanghai
 Ueber Bali und Hawaii

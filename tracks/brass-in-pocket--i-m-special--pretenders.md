@@ -1,8 +1,11 @@
 ---
+album: Pretenders
 artists:
 - Pretenders
+external_ids:
+  spotify: spotify:track:1QaJWSCk3UMKLotnPCIHh1
 features: []
-genres: []
+first_released_as_single: false
 key: brass-in-pocket--i-m-special--pretenders
 lyrics_url: https://genius.com/Pretenders-brass-in-pocket-lyrics
 name: Brass In Pocket (I'm Special)
@@ -95,6 +98,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1980-07-12'
+release_year: 1980
+runtime: 185960
 ---
 Got brass in pocket
 Got bottle I'm gonna use it

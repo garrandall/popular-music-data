@@ -1,8 +1,11 @@
 ---
+album: Long Hard Look
 artists:
 - Lou Gramm
+external_ids:
+  spotify: spotify:track:1fMvhGvNGrumP5MKKDf61e
 features: []
-genres: []
+first_released_as_single: false
 key: just-between-you-and-me-lou-gramm
 lyrics_url: https://www.azlyrics.com/lyrics/lougramm/justbetweenyouandme.html
 name: Just Between You And Me
@@ -91,8 +94,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1990-03-17'
+release_year: 1989
+runtime: 290760
 ---
-
 Staring at each other with accusing eyes
 Keep our voices low and don't act surprised
 If the word gets out, yeah, that's all right
@@ -158,6 +162,3 @@ Could lead to another
 Heaven and earth
 All alone, all alone
 Heaven and earth, oh
-
-
-

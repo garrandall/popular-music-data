@@ -1,8 +1,11 @@
 ---
+album: Soul My Way
 artists:
 - Jerry Lee Lewis
+external_ids:
+  spotify: spotify:track:6XqN8GasI0OfgMWtxQB7vx
 features: []
-genres: []
+first_released_as_single: false
 key: turn-on-your-love-light-jerry-lee-lewis
 lyrics_url: https://www.azlyrics.com/lyrics/jerryleelewis/turnonyourlovelight.html
 name: Turn On Your Love Light
@@ -19,8 +22,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1972-08-05'
+release_year: 1967
+runtime: 153640
 ---
-
 Without a warnin' you broke my heart you took it darlin' and you tore it apart
 You left me standin' in the dark cryin' you said your love for me was dyin'
 I'm begging you baby baby please I'm begging you baby baby please
@@ -40,6 +44,3 @@ I'm glad I've got you back baby
 Oh I'm feeling alright in the middle of the night
 Well I'm glad baby one I'm packed baby two I'm packed baby two I'm packed baby
 I'm packed baby woooo I'm stand up I'm feeling alright
-
-
-

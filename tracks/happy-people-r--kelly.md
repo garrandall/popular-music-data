@@ -1,8 +1,11 @@
 ---
+album: Happy People/U Saved Me
 artists:
 - R. Kelly
+external_ids:
+  spotify: spotify:track:266hoXlxTshUk4XsNQK5to
 features: []
-genres: []
+first_released_as_single: false
 key: happy-people-r--kelly
 lyrics_url: https://www.azlyrics.com/lyrics/rkelly/happypeople.html
 name: Happy People
@@ -87,8 +90,9 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2004-08-21'
+release_year: 2004
+runtime: 469200
 ---
-
 Ladies and gentlemen
 This here is another one for tha steppas
 DJ Wayne Williams
@@ -214,6 +218,3 @@ Step to the left, step to the right
 Spin around and bring it down tonight
 Bring it on up, move in close
 Let me see you and your partner stroke
-
-
-

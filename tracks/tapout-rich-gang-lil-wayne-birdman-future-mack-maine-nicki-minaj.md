@@ -1,13 +1,16 @@
 ---
+album: Rich Gang (Deluxe Version)
 artists:
 - Rich Gang
+external_ids:
+  spotify: spotify:track:2kEDuZRwYUoQLIYKpQfKWa
 features:
 - Lil Wayne
 - Birdman
 - Future
 - Mack Maine
 - Nicki Minaj
-genres: []
+first_released_as_single: true
 key: tapout-rich-gang-lil-wayne-birdman-future-mack-maine-nicki-minaj
 lyrics_url: https://www.azlyrics.com/lyrics/richgang/tapout.html
 name: Tapout
@@ -92,9 +95,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2013-10-05'
+release_year: 2013
+runtime: 284600
 ---
-
-
 (Rich Gang!) If you hatin', you just need some pussy
 (Rich Girl) She fucked up when she gave me some pussy
 I said, "I fuck you better than that other nigga"
@@ -190,6 +193,3 @@ I'm in love with your Egyptian skin
 And your talk about religion
 I'm in prison with the pussy
 And I'm ballin', no cushion
-
-
-

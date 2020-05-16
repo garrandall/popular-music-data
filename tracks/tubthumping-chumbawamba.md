@@ -1,8 +1,11 @@
 ---
+album: Tubthumper
 artists:
 - Chumbawamba
+external_ids:
+  spotify: spotify:track:5YScXJKtefsgdskIy60N7A
 features: []
-genres: []
+first_released_as_single: false
 key: tubthumping-chumbawamba
 lyrics_url: https://www.azlyrics.com/lyrics/chumbawamba/tubthumping.html
 name: Tubthumping
@@ -131,8 +134,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1998-04-11'
+release_year: 1997
+runtime: 278960
 ---
-
 Truth is I thought it mattered
 I thought that music mattered
 But does it? Bollocks
@@ -256,6 +260,3 @@ You're never gonna keep me down (Oh-oh-oh)
 I get knocked down
 But I get up again (We'll be singing) (Pissing the night away)
 You're never gonna keep me down
-
-
-

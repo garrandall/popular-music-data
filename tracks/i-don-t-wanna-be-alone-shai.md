@@ -1,8 +1,11 @@
 ---
+album: Blackface
 artists:
 - Shai
+external_ids:
+  spotify: spotify:track:3CfSvpuNeWbiM1vjZwWXRq
 features: []
-genres: []
+first_released_as_single: false
 key: i-don-t-wanna-be-alone-shai
 lyrics_url: https://genius.com/Shai-i-dont-wanna-be-alone-lyrics
 name: I Don't Wanna Be Alone
@@ -27,6 +30,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1996-06-01'
+release_year: 1995
+runtime: 295466
 ---
 Lady, I hope we can be together soon
 Lately, I'm waking up every day at noon

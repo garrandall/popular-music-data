@@ -1,8 +1,11 @@
 ---
+album: Streets Of Gold
 artists:
 - 3OH!3
+external_ids:
+  spotify: spotify:track:3o2ESAMet1zR1aASlzrIxO
 features: []
-genres: []
+first_released_as_single: false
 key: double-vision-3oh-3
 lyrics_url: https://genius.com/3oh-3-double-vision-lyrics
 name: Double Vision
@@ -23,6 +26,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '2010-11-20'
+release_year: 2010
+runtime: 190706
 ---
 The sun is so hot
 The drinks are so cold

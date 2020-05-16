@@ -1,8 +1,11 @@
 ---
+album: The Best Of Billy "Crash" Craddock
 artists:
 - Billy "Crash" Craddock
+external_ids:
+  spotify: spotify:track:0CrAuDMV4TZtbQ5z0ZPoCZ
 features: []
-genres: []
+first_released_as_single: false
 key: ruby-baby-billy--crash--craddock
 lyrics_url: https://genius.com/Billy-crash-craddock-ruby-baby-lyrics
 name: Ruby Baby
@@ -43,6 +46,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1975-01-18'
+release_year: 1974
+runtime: 142200
 ---
 Ah now said I love a girl and-a Ruby is her name
 This girl don't love me but I love her just the same

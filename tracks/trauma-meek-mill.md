@@ -1,8 +1,11 @@
 ---
+album: Dreams and Nightmares
 artists:
 - Meek Mill
+external_ids:
+  spotify: spotify:track:3MhauDni0SoCRSfv3eSrts
 features: []
-genres: []
+first_released_as_single: false
 key: trauma-meek-mill
 lyrics_url: https://www.azlyrics.com/lyrics/meekmill/trauma.html
 name: Trauma
@@ -11,8 +14,9 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '2018-12-15'
+release_year: 2012
+runtime: 250466
 ---
-
 (Used to be a dreamer)
 (But you know I've found...)
 
@@ -106,6 +110,3 @@ Huh, trauma
 When them drugs got a hold of your mamma
 And the drugs got a hold on your father
 Go to school, bullet holes in the walls
-
-
-

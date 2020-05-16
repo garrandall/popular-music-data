@@ -1,8 +1,11 @@
 ---
+album: Breakin' (Original Motion Picture Soundtrack)
 artists:
 - Carol Lynn Townes
+external_ids:
+  spotify: spotify:track:6evtCeDaCwOFSXNiCdm0R1
 features: []
-genres: []
+first_released_as_single: false
 key: 99-1-carol-lynn-townes
 lyrics_url: https://genius.com/Carol-lynn-townes-99-1-2-lyrics
 name: 99 1
@@ -43,6 +46,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1984-09-01'
+release_year: 1984
+runtime: 242000
 ---
 Minus just a bit
 Our love will never fit

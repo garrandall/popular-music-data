@@ -1,8 +1,11 @@
 ---
+album: MTV Unplugged
 artists:
 - 10,000 Maniacs
+external_ids:
+  spotify: spotify:track:5VzvK7YiwWbRePA2JOzhYq
 features: []
-genres: []
+first_released_as_single: false
 key: because-the-night-10-000-maniacs
 lyrics_url: https://genius.com/10000-maniacs-because-the-night-lyrics
 name: Because The Night
@@ -123,6 +126,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1994-05-21'
+release_year: 1993
+runtime: 223373
 ---
 Take me now, baby, here as I am
 Hold me close, and try and understand

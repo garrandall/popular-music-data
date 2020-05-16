@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music, The Complete Season Two'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:7hrWWPJZaKuldiXhfzjoMv
 features: []
-genres: []
+first_released_as_single: false
 key: le-jazz-hot-glee-cast
 lyrics_url: https://www.azlyrics.com/lyrics/gleecast/lejazzhot.html
 name: Le Jazz Hot
@@ -11,8 +14,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2010-10-30'
+release_year: 2010
+runtime: 262813
 ---
-
 'Bout twenty years ago
 Way down in New Orleans
 A group of fellers found
@@ -64,6 +68,3 @@ Le Jazz Hot
 Le Jazz Hot
 
 Le Jazz Hot
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Volume II
 artists:
 - Fats Domino
+external_ids:
+  spotify: spotify:track:2U5fiWNQsElI1tEa6Ef0Nz
 features: []
-genres: []
+first_released_as_single: false
 key: jambalaya--on-the-bayou--fats-domino
 lyrics_url: https://genius.com/Fats-domino-jambalaya-lyrics
 name: Jambalaya (On The Bayou)
@@ -35,6 +38,8 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '1962-01-27'
+release_year: 1961
+runtime: 177032
 ---
 Goodbye Joe, me gotta go, me oh my oh
 Me gotta go, pole the pirogue down the bayou

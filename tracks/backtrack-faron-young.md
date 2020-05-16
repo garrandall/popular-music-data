@@ -1,8 +1,11 @@
 ---
+album: The Complete Capitol Hits Of Faron Young
 artists:
 - Faron Young
+external_ids:
+  spotify: spotify:track:4qakUkXLcVaGGCrOO0pFBK
 features: []
-genres: []
+first_released_as_single: false
 key: backtrack-faron-young
 lyrics_url: https://www.azlyrics.com/lyrics/faronyoung/backtrack.html
 name: Backtrack
@@ -19,8 +22,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1961-10-30'
+release_year: 1961
+runtime: 125706
 ---
-
 Well, I've never been so lonely
 And I've never been so blue
 I'm leaving in the morning
@@ -49,6 +53,3 @@ If you do how little fool I've been
 Gonna backtrack to you
 Gonna backtrack to you
 Gonna backtrack to you...
-
-
-

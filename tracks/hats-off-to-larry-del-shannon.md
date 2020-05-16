@@ -1,8 +1,11 @@
 ---
+album: Hats off to Del Shannon
 artists:
 - Del Shannon
+external_ids:
+  spotify: spotify:track:0Eok7UwcfOhuNxBNnJzeHY
 features: []
-genres: []
+first_released_as_single: false
 key: hats-off-to-larry-del-shannon
 lyrics_url: https://genius.com/Del-shannon-hats-off-to-larry-lyrics
 name: Hats Off To Larry
@@ -59,6 +62,8 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '1961-08-28'
+release_year: 1961
+runtime: 122200
 ---
 Once I had a pretty girl
 Her name it doesn't matter

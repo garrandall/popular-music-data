@@ -1,8 +1,11 @@
 ---
+album: Here I Stand
 artists:
 - Usher
+external_ids:
+  spotify: spotify:track:5yC7WplXvhIHsp8NBYV5dT
 features: []
-genres: []
+first_released_as_single: false
 key: trading-places-usher
 lyrics_url: https://genius.com/Usher-trading-places-lyrics
 name: Trading Places
@@ -75,6 +78,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2009-03-07'
+release_year: 2008
+runtime: 268240
 ---
 Man, I know what you used to
 We gon' do something different tonight
@@ -155,13 +160,13 @@ Ohhh babyyy
 Give it to me, babyyy
 Ohhhh oh
 Ohhhh oh
-Ooo-uuuu babyy
+Ooo-u babyy
 Babyyy yeaaa
 Oooo-uuu
 Ohhhhhhh
 Ohhhhhh
 Ohhhhhhh
-Uuuuu-uuuu
+Uu-u
 
 
 You get on the top, tonight, I'm on the bottom

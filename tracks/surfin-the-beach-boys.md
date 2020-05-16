@@ -1,8 +1,11 @@
 ---
+album: Surfin' Safari
 artists:
 - The Beach Boys
+external_ids:
+  spotify: spotify:track:4kIYRtgbZyPzAWSFLdlajW
 features: []
-genres: []
+first_released_as_single: false
 key: surfin-the-beach-boys
 lyrics_url: https://genius.com/The-beach-boys-surfin-lyrics
 name: Surfin
@@ -31,6 +34,8 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1962-03-24'
+release_year: 1962
+runtime: 126640
 ---
 Surfing is the only life
 The only way for me

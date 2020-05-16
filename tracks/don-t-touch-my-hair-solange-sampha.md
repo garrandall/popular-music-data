@@ -1,9 +1,12 @@
 ---
+album: A Seat at the Table
 artists:
 - Solange
+external_ids:
+  spotify: spotify:track:2TyCAfhwu5tRqFW8VnGMIL
 features:
 - Sampha
-genres: []
+first_released_as_single: false
 key: don-t-touch-my-hair-solange-sampha
 lyrics_url: https://genius.com/Solange-dont-touch-my-hair-lyrics
 name: Don't Touch My Hair
@@ -12,6 +15,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2016-10-22'
+release_year: 2016
+runtime: 257546
 ---
 Don't touch my hair
 When it's the feelings I wear

@@ -1,8 +1,11 @@
 ---
+album: Death Race For Love
 artists:
 - Juice WRLD
+external_ids:
+  spotify: spotify:track:2BSbCCbaSCzkOEZa6N5901
 features: []
-genres: []
+first_released_as_single: false
 key: flaws-and-sins-juice-wrld
 lyrics_url: https://www.azlyrics.com/lyrics/juicewrld/flawsandsins.html
 name: Flaws And Sins
@@ -11,8 +14,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2019-03-23'
+release_year: 2019
+runtime: 218348
 ---
-
 You work numbers, work wonders
 You done woke me up from my eternal slumber
 I'm the lightening, you're the thunder
@@ -87,6 +91,3 @@ I'm all, I'm really all in
 I fell in love with all your flaws and sins
 Your scars are really gorgeous
 I see your light in all the darkness
-
-
-

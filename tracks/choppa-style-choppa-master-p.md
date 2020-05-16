@@ -1,9 +1,12 @@
 ---
+album: Straight From the N.O.
 artists:
 - Choppa
+external_ids:
+  spotify: spotify:track:73oaAjfHAtUJDtul0QFlfs
 features:
 - Master P
-genres: []
+first_released_as_single: false
 key: choppa-style-choppa-master-p
 lyrics_url: https://www.azlyrics.com/lyrics/choppa/choppastyle.html
 name: Choppa Style
@@ -32,8 +35,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2003-04-19'
+release_year: 2003
+runtime: 264106
 ---
-
 C'mon C'mon C'mon C'mon C'mon C'mon
 OOOOOWWWWW!
 what she want (ugh) what she want She want (repeat)
@@ -157,6 +161,3 @@ Now won't you wobbbble for me? (C'mon) Won't you back it up for me? (C'mon)
 Won't you wobbbble for me? (C'mon) Won't you back it up for me? (C'mon)
 
 Cause you know what Choppa want
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Rock 'N Soul
 artists:
 - Solomon Burke
+external_ids:
+  spotify: spotify:track:5dFD64eIgOd4qAp7p8sXOa
 features: []
-genres: []
+first_released_as_single: false
 key: you-re-good-for-me-solomon-burke
 lyrics_url: https://genius.com/Solomon-burke-youre-good-for-me-lyrics
 name: You're Good For Me
@@ -39,6 +42,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1963-12-21'
+release_year: 1963
+runtime: 184453
 ---
 Yeah, yeah, yeah
 Yeah, yeah, yeah, yeah

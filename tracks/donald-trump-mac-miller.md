@@ -1,8 +1,11 @@
 ---
+album: Best Day Ever
 artists:
 - Mac Miller
+external_ids:
+  spotify: spotify:track:3uulVrxiI7iLTjOBZsaiF8
 features: []
-genres: []
+first_released_as_single: true
 key: donald-trump-mac-miller
 lyrics_url: https://www.azlyrics.com/lyrics/macmiller/donaldtrump.html
 name: Donald Trump
@@ -35,8 +38,9 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '2012-01-14'
+release_year: 2011
+runtime: 165908
 ---
-
 Hey, hey yo wuss good bruh? This mans kinda high already
 
 Ay yo, the flyest motherfucker in the room
@@ -89,6 +93,3 @@ Take over the world, watch these haters get mad
 That's why all my bitches bad, they see this crazy life I have
 Hop into the car and then we take 'em to the pad
 It's a wrap
-
-
-

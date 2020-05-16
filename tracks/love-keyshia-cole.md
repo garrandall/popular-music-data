@@ -1,8 +1,11 @@
 ---
+album: The Way It Is
 artists:
 - Keyshia Cole
+external_ids:
+  spotify: spotify:track:0W4NhJhcqKCqEP2GIpDCDq
 features: []
-genres: []
+first_released_as_single: false
 key: love-keyshia-cole
 lyrics_url: https://genius.com/Keyshia-cole-love-lyrics
 name: Love
@@ -83,6 +86,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2006-06-10'
+release_year: 2005
+runtime: 255333
 ---
 I used to think that I wasn't fine enough
 And I used to think that I wasn't wild enough

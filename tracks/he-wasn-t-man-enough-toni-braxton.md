@@ -1,8 +1,11 @@
 ---
+album: 90's Groove, Vol.1
 artists:
 - Toni Braxton
+external_ids:
+  spotify: spotify:track:3MfHFEvccAUdZgGULt6lOC
 features: []
-genres: []
+first_released_as_single: false
 key: he-wasn-t-man-enough-toni-braxton
 lyrics_url: https://genius.com/Toni-braxton-he-wasnt-man-enough-lyrics
 name: He Wasn't Man Enough
@@ -155,6 +158,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2000-11-25'
+release_year: 1997
+runtime: 262600
 ---
 Darkchild
 Oh, yeah, yeah

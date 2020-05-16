@@ -1,8 +1,11 @@
 ---
+album: In Performance
 artists:
 - Donny Hathaway
+external_ids:
+  spotify: spotify:track:3x9tv5rdyPGR8WkoEIeI9D
 features: []
-genres: []
+first_released_as_single: false
 key: i-love-you-more-than-you-ll-ever-know-donny-hathaway
 lyrics_url: https://genius.com/Donny-hathaway-i-love-you-more-than-youll-ever-know-lyrics
 name: I Love You More Than You'll Ever Know
@@ -31,6 +34,8 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1972-11-25'
+release_year: 1972
+runtime: 356706
 ---
 If I ever leave you baby, you can say I told you so
 And if I ever hurt you... you know I hurt myself as well

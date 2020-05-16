@@ -1,8 +1,11 @@
 ---
+album: Givin' It Back
 artists:
 - The Isley Brothers
+external_ids:
+  spotify: spotify:track:0NnyYBnyStcNKDu7PejLPF
 features: []
-genres: []
+first_released_as_single: false
 key: love-the-one-you-re-with-the-isley-brothers
 lyrics_url: https://genius.com/The-isley-brothers-love-the-one-youre-with-lyrics
 name: Love The One You're With
@@ -51,6 +54,8 @@ rankings:
   rank: 37
   ranking_list: Billboard Hot 100
   start_date: '1971-08-28'
+release_year: 1971
+runtime: 223520
 ---
 If you're down and confused
 And you don't remember who you're talking to

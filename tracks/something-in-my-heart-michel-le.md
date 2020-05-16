@@ -1,8 +1,11 @@
 ---
+album: Michel'le
 artists:
 - Michel'le
+external_ids:
+  spotify: spotify:track:1CrWoWuxupYY1vi1XRdpBX
 features: []
-genres: []
+first_released_as_single: false
 key: something-in-my-heart-michel-le
 lyrics_url: https://genius.com/Michelle-something-in-my-heart-lyrics
 name: Something In My Heart
@@ -95,6 +98,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1991-06-08'
+release_year: 1989
+runtime: 353000
 ---
 You took my love and I'm willing
 But there's no limit to the love I'm giving

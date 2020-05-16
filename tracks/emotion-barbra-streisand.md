@@ -1,8 +1,11 @@
 ---
+album: Emotion
 artists:
 - Barbra Streisand
+external_ids:
+  spotify: spotify:track:1NlhlIhzRwORlIPw0PkwOg
 features: []
-genres: []
+first_released_as_single: false
 key: emotion-barbra-streisand
 lyrics_url: https://www.azlyrics.com/lyrics/barbrastreisand/emotion.html
 name: Emotion
@@ -15,8 +18,9 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1985-03-16'
+release_year: 1984
+runtime: 296093
 ---
-
 Face in the mirror looks the same every morning
 I keep looking for a change
 Sometimes I wonder am I standing still in time
@@ -90,6 +94,3 @@ I need the emotion
 Emotion
 Every hour
 I need emotion baby
-
-
-

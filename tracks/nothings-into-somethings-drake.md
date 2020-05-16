@@ -1,8 +1,11 @@
 ---
+album: More Life
 artists:
 - Drake
+external_ids:
+  spotify: spotify:track:6MbH1QiphMCPTqVEVC7UYi
 features: []
-genres: []
+first_released_as_single: false
 key: nothings-into-somethings-drake
 lyrics_url: https://www.azlyrics.com/lyrics/drake/nothingsintosomethings.html
 name: Nothings Into Somethings
@@ -15,8 +18,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2017-04-15'
+release_year: 2017
+runtime: 153724
 ---
-
 You ever hear some slow tracks, you know what I'm sayin'?
 With, like, some pimpin' to it, or somethin'
 That you can relax, pop a top to, or somethin'?
@@ -39,6 +43,3 @@ A statement or something?
 Ask about that, you would say it was nothing
 But here's another nothing that you made into something
 Can't just leave it off that way
-
-
-

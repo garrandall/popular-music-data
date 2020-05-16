@@ -1,8 +1,11 @@
 ---
+album: NOW That's What I Call Music! Vol. 72
 artists:
 - Sam Smith
+external_ids:
+  spotify: spotify:track:6b2RcmUt1g9N9mQ3CbjX2Y
 features: []
-genres: []
+first_released_as_single: true
 key: how-do-you-sleep--sam-smith
 lyrics_url: https://genius.com/Sam-smith-how-do-you-sleep-lyrics
 name: How Do You Sleep?
@@ -87,6 +90,8 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '2019-12-14'
+release_year: 2019
+runtime: 202204
 ---
 I'm done hatin' myself for feelin'
 I'm done cryin' myself awake

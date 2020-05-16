@@ -1,8 +1,11 @@
 ---
+album: Tango In the Night
 artists:
 - Fleetwood Mac
+external_ids:
+  spotify: spotify:track:254bXAqt3zP6P50BdQvEsq
 features: []
-genres: []
+first_released_as_single: false
 key: everywhere-fleetwood-mac
 lyrics_url: https://www.azlyrics.com/lyrics/fleetwoodmac/everywhere.html
 name: Everywhere
@@ -79,8 +82,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1988-03-26'
+release_year: 1987
+runtime: 226653
 ---
-
 Can you hear me calling
 Out your name?
 You know that I'm falling
@@ -131,6 +135,3 @@ I want to be with you everywhere
 Oh I
 I want to be with you everywhere
 (Wanna be with you everywhere)
-
-
-

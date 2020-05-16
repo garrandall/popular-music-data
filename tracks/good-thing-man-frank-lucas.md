@@ -1,8 +1,11 @@
 ---
+album: Dancing and Romancing
 artists:
 - Frank Lucas
+external_ids:
+  spotify: spotify:track:21XT1iozhrOH0ShpAOWcEa
 features: []
-genres: []
+first_released_as_single: false
 key: good-thing-man-frank-lucas
 lyrics_url: https://www.musixmatch.com/lyrics/Frank-Lucas-2/The-Original-Good-Thing-Man
 name: Good Thing Man
@@ -19,6 +22,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1977-07-09'
+release_year: 1977
+runtime: 297280
 ---
 Umm ah the good thang man
 Uumm ah the good thang man

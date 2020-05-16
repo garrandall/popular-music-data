@@ -1,8 +1,11 @@
 ---
+album: Uptown MTV Unplugged
 artists:
 - Jodeci
+external_ids:
+  spotify: spotify:track:5hIljtQ1fRvDRc1aHdhwWK
 features: []
-genres: []
+first_released_as_single: false
 key: lately-jodeci
 lyrics_url: https://www.azlyrics.com/lyrics/jodeci/lately.html
 name: Lately
@@ -103,8 +106,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1993-11-20'
+release_year: 1993
+runtime: 373626
 ---
-
 Lately I've had the strangest feeling
 With no vivid reason here to find
 But yet the thought of losing you been hanging
@@ -140,4 +144,3 @@ But what I really feel
 My eyes won't let me hide
 Cuz they always start to cry
 Cuz this time could mean goodbye
-

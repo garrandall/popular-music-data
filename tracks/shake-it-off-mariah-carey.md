@@ -1,8 +1,11 @@
 ---
+album: The Emancipation of Mimi
 artists:
 - Mariah Carey
+external_ids:
+  spotify: spotify:track:4VKnkoNNM6yTb4cXXX3wqD
 features: []
-genres: []
+first_released_as_single: false
 key: shake-it-off-mariah-carey
 lyrics_url: https://www.azlyrics.com/lyrics/mariahcarey/shakeitoff.html
 name: Shake It Off
@@ -111,9 +114,9 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '2006-01-21'
+release_year: 2005
+runtime: 232840
 ---
-
-
 I gotta shake it off
 Cause the loving ain't the same
 And you keep on playing games
@@ -203,4 +206,3 @@ Boy I gotta shake it off
 Gotta do what's best for me
 Baby and that means I gotta
 shake it off
-

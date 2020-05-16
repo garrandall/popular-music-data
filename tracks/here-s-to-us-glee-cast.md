@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music, The Complete Season Three'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:2L4ppJgbf6JxcRV1lUkaAg
 features: []
-genres: []
+first_released_as_single: false
 key: here-s-to-us-glee-cast
 lyrics_url: https://genius.com/Glee-cast-heres-to-us-lyrics
 name: Here's To Us
@@ -11,6 +14,8 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '2012-03-10'
+release_year: 2012
+runtime: 180880
 ---
 Rachel:
 We could just go home right now

@@ -1,8 +1,11 @@
 ---
+album: Lil' Romeo
 artists:
 - Lil' Romeo
+external_ids:
+  spotify: spotify:track:0s9A4pUBLw68E76vY8LU9K
 features: []
-genres: []
+first_released_as_single: false
 key: my-baby-lil--romeo
 lyrics_url: https://www.musixmatch.com/lyrics/Lil-Romeo/My-Baby
 name: My Baby
@@ -63,6 +66,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2001-08-18'
+release_year: 2001
+runtime: 221000
 ---
 (Hotline
 Can I request a song

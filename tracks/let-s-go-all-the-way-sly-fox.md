@@ -1,8 +1,11 @@
 ---
+album: Let's Go All The Way
 artists:
 - Sly Fox
+external_ids:
+  spotify: spotify:track:1B5qrP4nm0670NfhXZYFdW
 features: []
-genres: []
+first_released_as_single: false
 key: let-s-go-all-the-way-sly-fox
 lyrics_url: https://genius.com/Sly-fox-us-duo-lets-go-all-the-way-lyrics
 name: Let's Go All The Way
@@ -107,6 +110,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1986-06-14'
+release_year: 1985
+runtime: 309013
 ---
 Sitting with the thinker
 Just trying to work it out

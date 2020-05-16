@@ -1,8 +1,11 @@
 ---
+album: Jarreau
 artists:
 - Jarreau
+external_ids:
+  spotify: spotify:track:3b9SxtCRgPFPtIGpv1qQ1t
 features: []
-genres: []
+first_released_as_single: false
 key: trouble-in-paradise-jarreau
 lyrics_url: https://www.azlyrics.com/lyrics/aljarreau/troubleinparadise.html
 name: Trouble In Paradise
@@ -35,8 +38,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1983-10-22'
+release_year: 1983
+runtime: 229000
 ---
-
 When it appears your love is finally on the line,
 And you can't hold it back much longer
 And when it seems as though you're runnin' out of time,
@@ -62,4 +66,3 @@ She'll still be around.
 That it looks like trouble in paradise,
 And you're burnin' alone, that's cold as ice,
 Go out and find a flame - so you can warm it up again.
-

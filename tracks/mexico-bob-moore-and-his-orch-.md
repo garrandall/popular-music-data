@@ -1,8 +1,11 @@
 ---
+album: Deep Into The Sixties - 20 Rare Grooves
 artists:
 - Bob Moore
+external_ids:
+  spotify: spotify:track:0wOVdY0J1quJNSZMD2n2iK
 features: []
-genres: []
+first_released_as_single: false
 key: mexico-bob-moore-and-his-orch-
 name: Mexico
 rankings:
@@ -66,5 +69,7 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1961-11-20'
+release_year: 1961
+runtime: 152053
 ---
 

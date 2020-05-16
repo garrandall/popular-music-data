@@ -1,8 +1,11 @@
 ---
+album: It Goes Like This
 artists:
 - Thomas Rhett
+external_ids:
+  spotify: spotify:track:6dAmzFMCkPUqyed7488yY8
 features: []
-genres: []
+first_released_as_single: true
 key: something-to-do-with-my-hands-thomas-rhett
 lyrics_url: https://www.azlyrics.com/lyrics/thomasrhett/somethingtodowithmyhands.html
 name: Something To Do With My Hands
@@ -23,8 +26,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2012-08-18'
+release_year: 2012
+runtime: 200560
 ---
-
 Well I smoke and I fish
 But not near enough to satisfy an itch
 Of a girl, understand
@@ -70,6 +74,3 @@ And I need something to do with my hands
 I need something to do with my hands
 With my hands
 Something to do with my hands
-
-
-

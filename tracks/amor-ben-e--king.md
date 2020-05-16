@@ -1,8 +1,11 @@
 ---
+album: Spanish Harlem
 artists:
 - Ben E. King
+external_ids:
+  spotify: spotify:track:2U95mnxcqpr394uCZncG4R
 features: []
-genres: []
+first_released_as_single: false
 key: amor-ben-e--king
 lyrics_url: https://www.azlyrics.com/lyrics/beneking/amor.html
 name: Amor
@@ -47,8 +50,9 @@ rankings:
   rank: 52
   ranking_list: Billboard Hot 100
   start_date: '1961-10-02'
+release_year: 1961
+runtime: 187400
 ---
-
 Amor, Amor, Amor,
 This word so sweet
 That I repeat
@@ -99,6 +103,3 @@ Amor,
 Naci de Dios,
 Para los dos,
 Naci del alma.
-
-
-

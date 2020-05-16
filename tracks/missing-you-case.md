@@ -1,8 +1,11 @@
 ---
+album: The Nutty Professor II - The Klumps
 artists:
 - Case
+external_ids:
+  spotify: spotify:track:5tedrPRyd2NP87E0q3xTNZ
 features: []
-genres: []
+first_released_as_single: false
 key: missing-you-case
 lyrics_url: https://genius.com/Case-missing-you-lyrics
 name: Missing You
@@ -95,6 +98,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '2001-07-07'
+release_year: 2000
+runtime: 285640
 ---
 Standing here lookin' out my window
 My nights are long and my days are cold 'cause I don't have you

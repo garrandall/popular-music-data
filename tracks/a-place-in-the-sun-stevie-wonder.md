@@ -1,8 +1,11 @@
 ---
+album: Down To Earth
 artists:
 - Stevie Wonder
+external_ids:
+  spotify: spotify:track:0tURbnatc9qCxlYpXuPK8I
 features: []
-genres: []
+first_released_as_single: false
 key: a-place-in-the-sun-stevie-wonder
 lyrics_url: https://genius.com/Stevie-wonder-a-place-in-the-sun-lyrics
 name: A Place In The Sun
@@ -51,6 +54,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1967-01-21'
+release_year: 1966
+runtime: 172960
 ---
 Like a long lonely stream
 I keep running towards a dream

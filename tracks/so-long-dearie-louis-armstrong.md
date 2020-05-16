@@ -1,8 +1,11 @@
 ---
+album: Louis
 artists:
 - Louis Armstrong
+external_ids:
+  spotify: spotify:track:1rY2Bku0YzUXkOpI0UKEeO
 features: []
-genres: []
+first_released_as_single: false
 key: so-long-dearie-louis-armstrong
 lyrics_url: https://www.musixmatch.com/lyrics/Louis-Armstrong/So-Long-Dearie
 name: So Long Dearie
@@ -31,6 +34,8 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '1964-11-07'
+release_year: 1964
+runtime: 135013
 ---
 Dolly
 

@@ -1,8 +1,11 @@
 ---
+album: NO NAME
 artists:
 - NF
+external_ids:
+  spotify: spotify:track:7hdw5gAGMyyn9z0XgfTv1j
 features: []
-genres: []
+first_released_as_single: true
 key: no-name-nf
 lyrics_url: https://genius.com/Nf-no-name-lyrics
 name: No Name
@@ -11,6 +14,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '2018-02-03'
+release_year: 2018
+runtime: 183826
 ---
 Look, people ask me what the future is
 All I know is I'll be doin' this

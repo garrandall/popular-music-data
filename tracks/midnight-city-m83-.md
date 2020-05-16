@@ -1,8 +1,11 @@
 ---
+album: Hurry Up, We're Dreaming
 artists:
 - M83.
+external_ids:
+  spotify: spotify:track:1eyzqe2QqGZUmfcPZtrIyt
 features: []
-genres: []
+first_released_as_single: false
 key: midnight-city-m83-
 lyrics_url: https://www.azlyrics.com/lyrics/m83/midnightcity.html
 name: Midnight City
@@ -87,8 +90,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '2012-08-04'
+release_year: 2011
+runtime: 241440
 ---
-
 Waiting in the car
 Waiting for a ride in the dark
 At night the night city grows
@@ -118,6 +122,3 @@ Waiting in a car
 Waiting for the right time
 Waiting in a car
 Waiting for the right time
-
-
-

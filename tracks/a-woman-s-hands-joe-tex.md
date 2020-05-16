@@ -1,8 +1,11 @@
 ---
+album: The Very Best of, Volume 1
 artists:
 - Joe Tex
+external_ids:
+  spotify: spotify:track:5oPno5EuUJ3zFdx2IOyG2u
 features: []
-genres: []
+first_released_as_single: false
 key: a-woman-s-hands-joe-tex
 name: A Woman's Hands
 rankings:
@@ -26,5 +29,7 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1967-09-02'
+release_year: 1965
+runtime: 210213
 ---
 

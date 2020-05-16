@@ -1,8 +1,11 @@
 ---
+album: White Trash With Money
 artists:
 - Toby Keith
+external_ids:
+  spotify: spotify:track:408wKFP7qp6ALbjcex2t9k
 features: []
-genres: []
+first_released_as_single: false
 key: get-drunk-and-be-somebody-toby-keith
 lyrics_url: https://www.azlyrics.com/lyrics/tobykeith/getdrunkandbesomebody.html
 name: Get Drunk And Be Somebody
@@ -87,8 +90,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2006-06-03'
+release_year: 2006
+runtime: 178840
 ---
-
 Yeah the big boss man, he likes to crack that whip
 I ain't nothing but a number on his timecard slip,
 I give him 40 hours and a piece of my soul,
@@ -131,6 +135,3 @@ but we just punched out and its paycheck Friday,
 Weekends here, good God almighty,
 People lets get drunk and be somebody
 Yeah, yeah, yeah...
-
-
-

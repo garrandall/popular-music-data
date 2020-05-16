@@ -1,9 +1,12 @@
 ---
+album: Radio Waves Of The 80's - Urban Hits
 artists:
 - Ta Mara
 - The Seen
+external_ids:
+  spotify: spotify:track:2y7UQ4maAhvbOmFXzNLkEz
 features: []
-genres: []
+first_released_as_single: false
 key: everybody-dance-ta-mara-the-seen
 lyrics_url: https://genius.com/Ta-mara-and-the-seen-everybody-dance-lyrics
 name: Everybody Dance
@@ -92,6 +95,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1986-03-01'
+release_year: 1985
+runtime: 235200
 ---
 Everybody`s dancing
 With a new determination

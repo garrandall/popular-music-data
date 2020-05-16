@@ -1,8 +1,11 @@
 ---
+album: Bi-Coastal
 artists:
 - Peter Allen
+external_ids:
+  spotify: spotify:track:1m2I5lc8wJoenFLPeOBIFI
 features: []
-genres: []
+first_released_as_single: false
 key: fly-away-peter-allen
 lyrics_url: https://genius.com/Peter-allen-fly-away-lyrics
 name: Fly Away
@@ -39,6 +42,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1981-02-28'
+release_year: 1980
+runtime: 240706
 ---
 You're an anchor, I'm uptight
 You're what gets me through the night

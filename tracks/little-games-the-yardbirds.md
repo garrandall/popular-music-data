@@ -1,8 +1,11 @@
 ---
+album: Little Games (Original Stereo)
 artists:
 - The Yardbirds
+external_ids:
+  spotify: spotify:track:6Ft0NMGhsbPM4nGaV388Bc
 features: []
-genres: []
+first_released_as_single: false
 key: little-games-the-yardbirds
 lyrics_url: https://www.azlyrics.com/lyrics/yardbirds/littlegames.html
 name: Little Games
@@ -31,8 +34,9 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '1967-05-27'
+release_year: 1967
+runtime: 150893
 ---
-
 Little games are for little boys,
 I'm growing up and changing all my toys,
 Aeroplanes, motor cars, goldfish in old jam-jars,
@@ -69,6 +73,3 @@ My, my, my, my, my, my, my,
 Play my little games,
 My, my, my, my, my, my, my, my, my, my,
 Say I need you, I need you...
-
-
-

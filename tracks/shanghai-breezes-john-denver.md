@@ -1,8 +1,11 @@
 ---
+album: Seasons Of The Heart
 artists:
 - John Denver
+external_ids:
+  spotify: spotify:track:7M7Oj3pfJHFoOEbsGaiQVp
 features: []
-genres: []
+first_released_as_single: false
 key: shanghai-breezes-john-denver
 lyrics_url: https://www.azlyrics.com/lyrics/johndenver/shanghaibreezes.html
 name: Shanghai Breezes
@@ -63,8 +66,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1982-06-05'
+release_year: 1982
+runtime: 193013
 ---
-
 It's funny how you sound as if you're right next door when you're really half a world away.
 I just can't seem to find the words I'm looking for to say the things that I want to say.
 I can't remember when I felt so close to you, it's almost more than I can bear.
@@ -86,6 +90,3 @@ And your love in my life is like heaven to me, like the breezes here in old Shan
 And the moon and the stars are the same ones you see, it's the same old sun up in the sky.
 And your love in my life is like heaven to me, like the breezes here in old Shanghai.
 Just like the breezes here in old Shanghai
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: El DeBarge
 artists:
 - El DeBarge
+external_ids:
+  spotify: spotify:track:02RbmzVSbkxJVIqMNx47uY
 features: []
-genres: []
+first_released_as_single: false
 key: who-s-johnny---short-circuit--theme--el-debarge
 lyrics_url: https://genius.com/El-debarge-whos-johnny-lyrics
 name: Who's Johnny ("Short Circuit" Theme)
@@ -83,6 +86,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1986-08-30'
+release_year: 1986
+runtime: 248466
 ---
 There she goes and knows I'm dying
 When she says "Who is Johnny?"

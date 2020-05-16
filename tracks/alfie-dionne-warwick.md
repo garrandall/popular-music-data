@@ -1,8 +1,11 @@
 ---
+album: Here Where There Is Love
 artists:
 - Dionne Warwick
+external_ids:
+  spotify: spotify:track:6EJ0F4b1ZRm0auBsRYAO47
 features: []
-genres: []
+first_released_as_single: false
 key: alfie-dionne-warwick
 lyrics_url: https://www.azlyrics.com/lyrics/dionnewarwick/alfie.html
 name: Alfie
@@ -75,8 +78,9 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '1967-07-29'
+release_year: 1967
+runtime: 165306
 ---
-
 What's it all about Alfie
 Is it just for the moment we live
 
@@ -102,6 +106,3 @@ You're nothing, Alfie
 When you walk let your heart lead the way
 And you'll find love any day Alfie, oh Alfie
 What's it all about Alfie?
-
-
-

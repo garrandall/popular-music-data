@@ -1,8 +1,11 @@
 ---
+album: Woman Out of Control
 artists:
 - Ray Parker Jr.
+external_ids:
+  spotify: spotify:track:6gmp4cBAgsQOqqZQECbH4u
 features: []
-genres: []
+first_released_as_single: false
 key: i-still-can-t-get-over-loving-you-ray-parker-jr-
 lyrics_url: https://genius.com/Ray-parker-jr-i-still-cant-get-over-loving-you-lyrics
 name: I Still Can't Get Over Loving You
@@ -83,6 +86,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1984-03-17'
+release_year: 1983
+runtime: 247653
 ---
 I'm all confused and I don't know what to do
 'cause I still can't get over loving you

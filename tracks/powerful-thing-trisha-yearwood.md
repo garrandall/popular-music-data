@@ -1,8 +1,11 @@
 ---
+album: Where Your Road Leads
 artists:
 - Trisha Yearwood
+external_ids:
+  spotify: spotify:track:5IdfUMdi0dRzIRx6PuH1Zd
 features: []
-genres: []
+first_released_as_single: false
 key: powerful-thing-trisha-yearwood
 lyrics_url: https://www.azlyrics.com/lyrics/trishayearwood/powerfulthing.html
 name: Powerful Thing
@@ -55,8 +58,9 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '1999-04-10'
+release_year: 1998
+runtime: 178493
 ---
-
 I've never seen two people in my life
 More determined to ignore the obvious
 We better stop thinking
@@ -115,6 +119,3 @@ And a diamond ring
 It can open up the heavens
 Make the angels sing
 Our love, baby, is a powerful thing
-
-
-

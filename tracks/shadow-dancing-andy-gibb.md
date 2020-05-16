@@ -1,8 +1,11 @@
 ---
+album: Shadow Dancing
 artists:
 - Andy Gibb
+external_ids:
+  spotify: spotify:track:3unwRUV5qbjMmH3NJtaODy
 features: []
-genres: []
+first_released_as_single: false
 key: shadow-dancing-andy-gibb
 lyrics_url: https://www.musixmatch.com/lyrics/Andy-Gibb/Shadow-Dancing
 name: Shadow Dancing
@@ -107,6 +110,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1978-09-30'
+release_year: 1978
+runtime: 276000
 ---
 You got me looking at that heaven in your eyes
 I was chasing your direction

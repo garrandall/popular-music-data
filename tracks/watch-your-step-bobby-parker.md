@@ -1,8 +1,11 @@
 ---
+album: Dancing by Myself - Lost in Nothern Soul
 artists:
 - Bobby Parker
+external_ids:
+  spotify: spotify:track:2epCBF7krc6xsk5XGTFTlj
 features: []
-genres: []
+first_released_as_single: false
 key: watch-your-step-bobby-parker
 lyrics_url: https://genius.com/Bobby-parker-watch-your-step-lyrics
 name: Watch Your Step
@@ -31,6 +34,8 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1961-07-17'
+release_year: 1961
+runtime: 159746
 ---
 You better take it easy, baby
 Before you go away

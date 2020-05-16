@@ -1,8 +1,11 @@
 ---
+album: 'The Complete Motown Singles, Vol. 1: 1959-1961'
 artists:
 - Debbie Dean
+external_ids:
+  spotify: spotify:track:20BJYonZzlLzd0cbhIED97
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-let-him-shop-around-debbie-dean
 lyrics_url: https://genius.com/Debbie-dean-dont-let-him-shop-around-lyrics
 name: Don't Let Him Shop Around
@@ -15,6 +18,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1961-02-13'
+release_year: 1961
+runtime: 164573
 ---
 I cried all night long when I
 Found out what your mama told you

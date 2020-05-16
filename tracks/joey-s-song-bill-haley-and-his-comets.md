@@ -1,8 +1,11 @@
 ---
+album: Strictly Instrumental
 artists:
 - Bill Haley And His Comets
+external_ids:
+  spotify: spotify:track:3KNnYw0XzHiHZDqfd8Qpto
 features: []
-genres: []
+first_released_as_single: false
 key: joey-s-song-bill-haley-and-his-comets
 name: Joey's Song
 rankings:
@@ -54,5 +57,7 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1959-12-21'
+release_year: 1959
+runtime: 177453
 ---
 

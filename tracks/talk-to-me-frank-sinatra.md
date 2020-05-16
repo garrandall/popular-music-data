@@ -1,8 +1,11 @@
 ---
+album: Softly, As I Leave You
 artists:
 - Frank Sinatra
+external_ids:
+  spotify: spotify:track:5NdXFMC5YIQOrKPfg4cvOo
 features: []
-genres: []
+first_released_as_single: false
 key: talk-to-me-frank-sinatra
 lyrics_url: https://genius.com/Frank-sinatra-talk-to-me-lyrics
 name: Talk To Me
@@ -51,6 +54,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1959-12-28'
+release_year: 1959
+runtime: 178440
 ---
 You're always in a great big hurry, grab a kiss and off you scurry
 Off to there, and there to who knows where

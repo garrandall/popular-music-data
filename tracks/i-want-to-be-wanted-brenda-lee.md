@@ -1,8 +1,11 @@
 ---
+album: This Is...Brenda
 artists:
 - Brenda Lee
+external_ids:
+  spotify: spotify:track:03cB3gd91JsP3bCERC6Lmf
 features: []
-genres: []
+first_released_as_single: false
 key: i-want-to-be-wanted-brenda-lee
 lyrics_url: https://genius.com/Brenda-lee-i-want-to-be-wanted-lyrics
 name: I Want To Be Wanted
@@ -67,6 +70,8 @@ rankings:
   rank: 52
   ranking_list: Billboard Hot 100
   start_date: '1960-12-19'
+release_year: 1960
+runtime: 185960
 ---
 (Wanted wanted)
 Alone, so alone that I could cry

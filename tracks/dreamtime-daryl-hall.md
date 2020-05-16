@@ -1,8 +1,11 @@
 ---
+album: 3 Hearts In The Happy Ending Machine
 artists:
 - Daryl Hall
+external_ids:
+  spotify: spotify:track:7kZZ2Hmkg1zfwrQLsmypNE
 features: []
-genres: []
+first_released_as_single: false
 key: dreamtime-daryl-hall
 lyrics_url: https://www.azlyrics.com/lyrics/darylhall/dreamtime.html
 name: Dreamtime
@@ -67,8 +70,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1986-11-08'
+release_year: 1986
+runtime: 285093
 ---
-
 I saw you standing and I felt your rage
 Like a dark cloud on a crowded stage
 You were talking through the smoke in your fantasy
@@ -125,6 +129,3 @@ I never saw anybody fall apart so fast
 You're living in dreamtime you know it ain't gonna last
 Never saw anybody think she's so right and be so wrong
 Living in dreamtime, it's hard to carry on, girl
-
-
-

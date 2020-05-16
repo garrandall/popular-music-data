@@ -1,9 +1,12 @@
 ---
+album: Candida
 artists:
 - Tony Orlando
 - Dawn
+external_ids:
+  spotify: spotify:track:266HrBTiCIPm5RxFiE1El9
 features: []
-genres: []
+first_released_as_single: false
 key: sing-tony-orlando-dawn
 lyrics_url: https://www.azlyrics.com/lyrics/tonyorlandodawn/iplayandsing.html
 name: Sing
@@ -24,8 +27,9 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1977-04-23'
+release_year: 1970
+runtime: 141000
 ---
-
 I play and sing
 Dawn
 
@@ -53,6 +57,3 @@ Now darling, this one's for you
 
 Now watch me play
 Hear me sing la-la-la la-la-la-la
-
-
-

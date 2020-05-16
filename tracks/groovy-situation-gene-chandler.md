@@ -1,8 +1,11 @@
 ---
+album: Soul Master
 artists:
 - Gene Chandler
+external_ids:
+  spotify: spotify:track:7In9orap3Hmuo2i5ttu2OW
 features: []
-genres: []
+first_released_as_single: false
 key: groovy-situation-gene-chandler
 lyrics_url: https://www.musixmatch.com/lyrics/Gene-Chandler-Will-Ferrell/Groovy-Situation-Anchorman-Medley
 name: Groovy Situation
@@ -67,6 +70,8 @@ rankings:
   rank: 26
   ranking_list: Billboard Hot 100
   start_date: '1970-10-17'
+release_year: 1970
+runtime: 193466
 ---
 That girl I'm gonna make her mine
 If it takes all night

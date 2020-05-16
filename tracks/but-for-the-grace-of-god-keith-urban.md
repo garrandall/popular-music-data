@@ -1,8 +1,11 @@
 ---
+album: Keith Urban
 artists:
 - Keith Urban
+external_ids:
+  spotify: spotify:track:2E9bK4PDSezgn3mnSMOCdq
 features: []
-genres: []
+first_released_as_single: false
 key: but-for-the-grace-of-god-keith-urban
 lyrics_url: https://www.azlyrics.com/lyrics/keithurban/butforthegraceofgod.html
 name: But For The Grace Of God
@@ -87,8 +90,9 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '2001-05-05'
+release_year: 1999
+runtime: 273706
 ---
-
 I can hear the neighbors
 They're arguin' again
 And there hasn't been peace on our street
@@ -136,6 +140,3 @@ Oh Lord I'd be lost
 But for the grace of God
 Oh Lord I'd be lost
 But for the grace of God
-
-
-

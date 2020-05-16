@@ -1,8 +1,11 @@
 ---
+album: 'Ultra-Lounge: Jet Set Swingers!'
 artists:
 - Nat King Cole
+external_ids:
+  spotify: spotify:track:39xlQ1YlWHLkwKZ3E6pZYq
 features: []
-genres: []
+first_released_as_single: false
 key: madrid-nat-king-cole
 lyrics_url: https://www.musixmatch.com/lyrics/Nat-King-Cole/Madrid
 name: Madrid
@@ -19,6 +22,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1959-02-16'
+release_year: 1959
+runtime: 170813
 ---
 Madrid, Madrid
 Where is my love

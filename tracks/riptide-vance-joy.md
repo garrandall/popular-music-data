@@ -1,8 +1,11 @@
 ---
+album: Dream Your Life Away
 artists:
 - Vance Joy
+external_ids:
+  spotify: spotify:track:423RKXolCbgBbkF8WanOwA
 features: []
-genres: []
+first_released_as_single: true
 key: riptide-vance-joy
 lyrics_url: https://www.azlyrics.com/lyrics/vancejoy/riptide.html
 name: Riptide
@@ -183,8 +186,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2015-05-09'
+release_year: 2013
+runtime: 204280
 ---
-
 I was scared of dentists and the dark
 I was scared of pretty girls and starting conversations
 Oh, all my friends are turning green
@@ -242,6 +246,3 @@ I got a lump in my throat 'cause
 You're gonna sing the words wrong
 And I got a lump in my throat 'cause
 You're gonna sing the words wrong
-
-
-

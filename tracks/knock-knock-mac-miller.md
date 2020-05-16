@@ -1,8 +1,11 @@
 ---
+album: K.I.D.S.
 artists:
 - Mac Miller
+external_ids:
+  spotify: spotify:track:3uYm4MtU6jUQft2DtGqEoZ
 features: []
-genres: []
+first_released_as_single: true
 key: knock-knock-mac-miller
 lyrics_url: https://www.azlyrics.com/lyrics/macmiller/knockknock.html
 name: Knock Knock
@@ -11,8 +14,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2012-01-07'
+release_year: 2010
+runtime: 202806
 ---
-
 This is gonna feel real good, alright?
 Most Dope
 Everybody please put a thumb in the air
@@ -66,4 +70,3 @@ Not a day goes by when I ain't gettin' high
 They wonder why don't I go get myself a job
 So I can make them bucks but I don't give a fuck
 No, I feel great Bitch I feel great
-

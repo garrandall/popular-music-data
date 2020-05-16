@@ -1,8 +1,11 @@
 ---
+album: Here Come The Lords
 artists:
 - Lords Of The Underground
+external_ids:
+  spotify: spotify:track:5RK7cBkPvATJ9f7XMXoaBl
 features: []
-genres: []
+first_released_as_single: false
 key: here-come-the-lords-lords-of-the-underground
 lyrics_url: https://genius.com/Lords-of-the-underground-here-come-the-lords-lyrics
 name: Here Come The Lords
@@ -31,6 +34,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1994-01-22'
+release_year: 1993
+runtime: 258000
 ---
 Hey yo Funke wake up!
  Huh?

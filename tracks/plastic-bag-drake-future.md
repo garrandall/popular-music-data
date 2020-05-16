@@ -1,9 +1,12 @@
 ---
+album: What A Time To Be Alive
 artists:
 - Drake
 - Future
+external_ids:
+  spotify: spotify:track:76kyKtPLsFbQkdQ86QrkF4
 features: []
-genres: []
+first_released_as_single: false
 key: plastic-bag-drake-future
 lyrics_url: https://genius.com/Drake-and-future-plastic-bag-lyrics
 name: Plastic Bag
@@ -16,6 +19,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '2015-10-24'
+release_year: 2015
+runtime: 202084
 ---
 If anybody know, I know, yeah
 

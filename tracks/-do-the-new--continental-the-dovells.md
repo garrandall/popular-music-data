@@ -1,8 +1,11 @@
 ---
+album: For Your Hully Gully Party/You Can't Sit Down
 artists:
 - The Dovells
+external_ids:
+  spotify: spotify:track:0nkM2uL3tRNm49zKdThV4J
 features: []
-genres: []
+first_released_as_single: false
 key: -do-the-new--continental-the-dovells
 lyrics_url: https://www.musixmatch.com/lyrics/The-Dovells/Do-the-New-Continental
 name: (Do The New) Continental
@@ -47,6 +50,8 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '1962-03-31'
+release_year: 1962
+runtime: 157453
 ---
 Hey, diddily da
 Yeah, yeah, yeah

@@ -1,8 +1,11 @@
 ---
+album: Capitol Collectors Series
 artists:
 - Sonny James
+external_ids:
+  spotify: spotify:track:5S9LsNRLqqZFiDSBMskY72
 features: []
-genres: []
+first_released_as_single: false
 key: i-ll-never-find-another-you-sonny-james
 lyrics_url: https://genius.com/Sonny-james-ill-never-find-another-you-lyrics
 name: I'll Never Find Another You
@@ -19,6 +22,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1967-08-05'
+release_year: 1967
+runtime: 145960
 ---
 There's a new world somewhere they call the Promised Land
 And I'll be there someday if you will hold my hand

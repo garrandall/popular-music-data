@@ -1,8 +1,11 @@
 ---
+album: The Chokin' Kind
 artists:
 - Joe Simon
+external_ids:
+  spotify: spotify:track:4X8yPSO0mgVVoFOhHAUJT2
 features: []
-genres: []
+first_released_as_single: false
 key: baby-don-t-be-looking-in-my-mind-joe-simon
 lyrics_url: https://genius.com/Joe-simon-baby-dont-be-looking-in-my-mind-lyrics
 name: Baby Don't Be Looking In My Mind
@@ -27,6 +30,8 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1969-07-19'
+release_year: 1969
+runtime: 164586
 ---
 Baby don't you try to look in my mind, oh no
 You might not, might not like what you find, oh no

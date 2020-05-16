@@ -1,8 +1,11 @@
 ---
+album: Hard 2 Love
 artists:
 - Lee Brice
+external_ids:
+  spotify: spotify:track:6aPc6SSWgTsiXrrUpJCPlj
 features: []
-genres: []
+first_released_as_single: false
 key: i-drive-your-truck-lee-brice
 lyrics_url: https://www.azlyrics.com/lyrics/leebrice/idriveyourtruck.html
 name: I Drive Your Truck
@@ -87,8 +90,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2013-06-01'
+release_year: 2012
+runtime: 234840
 ---
-
 Eighty-nine cents in the ash tray
 Half empty bottle of Gatorade rolling in the floorboard
 That dirty Braves cap on the dash
@@ -146,6 +150,3 @@ I drive your truck
 I hope you don't mind
 I hope you don't mind
 I drive your truck
-
-
-

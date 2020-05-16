@@ -1,8 +1,11 @@
 ---
+album: Foolish Behaviour
 artists:
 - Rod Stewart
+external_ids:
+  spotify: spotify:track:7eXhPOa7pQKxeGhDC1uwYV
 features: []
-genres: []
+first_released_as_single: false
 key: somebody-special-rod-stewart
 lyrics_url: https://www.azlyrics.com/lyrics/rodstewart/somebodyspecial.html
 name: Somebody Special
@@ -27,8 +30,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1981-04-18'
+release_year: 1980
+runtime: 269400
 ---
-
 How can you say life's getting you down
 Get yourself out go along with the crowd
 You're all dressed up got nowhere to go
@@ -75,6 +79,3 @@ Somebody special, is dreaming of you
 Somebody special, is looking for you
 Somebody special, is waiting for you
 Somebody special, somebody special
-
-
-

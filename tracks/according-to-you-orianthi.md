@@ -1,8 +1,11 @@
 ---
+album: Believe
 artists:
 - Orianthi
+external_ids:
+  spotify: spotify:track:0M45YYpFECO0xvXlKgQ7sE
 features: []
-genres: []
+first_released_as_single: false
 key: according-to-you-orianthi
 lyrics_url: https://www.azlyrics.com/lyrics/orianthi/accordingtoyou.html
 name: According To You
@@ -91,8 +94,9 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2010-05-08'
+release_year: 2009
+runtime: 200253
 ---
-
 According to you
 I'm stupid,
 I'm useless,
@@ -172,6 +176,3 @@ According to you
 I'm stupid,
 I'm useless,
 I can't do anything right.
-
-
-

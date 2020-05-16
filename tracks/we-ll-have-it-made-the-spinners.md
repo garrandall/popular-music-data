@@ -1,8 +1,11 @@
 ---
+album: 'The Complete Motown Singles Vol. 10: 1970'
 artists:
 - The Spinners
+external_ids:
+  spotify: spotify:track:1oRIjSN5O2NgQpBEywYot6
 features: []
-genres: []
+first_released_as_single: false
 key: we-ll-have-it-made-the-spinners
 lyrics_url: https://genius.com/The-spinners-well-have-it-made-lyrics
 name: We'll Have It Made
@@ -19,6 +22,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1971-02-06'
+release_year: 1971
+runtime: 207800
 ---
 Get down, now
 

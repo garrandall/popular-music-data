@@ -1,8 +1,11 @@
 ---
+album: City Life
 artists:
 - The Blackbyrds
+external_ids:
+  spotify: spotify:track:72PD1gSWyWMWStx7eMCr6d
 features: []
-genres: []
+first_released_as_single: false
 key: happy-music-the-blackbyrds
 lyrics_url: https://genius.com/The-blackbyrds-happy-music-lyrics
 name: Happy Music
@@ -59,6 +62,8 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '1976-05-29'
+release_year: 1976
+runtime: 296026
 ---
 Happy music makes you
 Feel good all the time

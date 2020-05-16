@@ -1,8 +1,11 @@
 ---
+album: Favorites
 artists:
 - The Lettermen
+external_ids:
+  spotify: spotify:track:29tlRv6CSzkBj0DOyJjSsp
 features: []
-genres: []
+first_released_as_single: false
 key: traces-the-lettermen
 lyrics_url: https://genius.com/The-lettermen-traces-memories-lyrics
 name: Traces
@@ -39,6 +42,8 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '1970-02-14'
+release_year: 1969
+runtime: 176906
 ---
 Memories
 Pressed between the pages of my mind

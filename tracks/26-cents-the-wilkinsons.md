@@ -1,8 +1,11 @@
 ---
+album: Best Of The Wilkinsons
 artists:
 - The Wilkinsons
+external_ids:
+  spotify: spotify:track:4pfO92V74AX3FdZZthxzCF
 features: []
-genres: []
+first_released_as_single: false
 key: 26-cents-the-wilkinsons
 lyrics_url: https://www.musixmatch.com/lyrics/The-Wilkinsons/26-Cents
 name: 26 Cents
@@ -79,6 +82,8 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1998-11-28'
+release_year: 1998
+runtime: 233826
 ---
 She sat alone on a bus out of Beaumont
 The courage of just 18 years

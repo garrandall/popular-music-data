@@ -1,8 +1,12 @@
 ---
+album: 'Down To The Sea And Back: The Continuing Journey Of The Balearic Beat. Volume
+  1.'
 artists:
 - Sweet
+external_ids:
+  spotify: spotify:track:5D05x38fGH1rCrD8DodrHM
 features: []
-genres: []
+first_released_as_single: false
 key: funk-it-up--david-s-song--sweet
 lyrics_url: https://genius.com/Sweet-funk-it-up-lyrics
 name: Funk It Up (David's Song)
@@ -27,6 +31,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1977-09-10'
+release_year: 1977
+runtime: 324093
 ---
 David was dancin'
 With Charly standing in line in the wings

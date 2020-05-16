@@ -1,8 +1,11 @@
 ---
+album: Natural Wonder
 artists:
 - Stevie Wonder
+external_ids:
+  spotify: spotify:track:7vb55nPSg8PJeZnGThn9SD
 features: []
-genres: []
+first_released_as_single: false
 key: signed-sealed-delivered-i-m-yours-stevie-wonder
 lyrics_url: https://genius.com/Stevie-wonder-signed-sealed-delivered-im-yours-lyrics
 name: Signed Sealed Delivered I'm Yours
@@ -63,6 +66,8 @@ rankings:
   rank: 34
   ranking_list: Billboard Hot 100
   start_date: '1970-09-26'
+release_year: 1970
+runtime: 165666
 ---
 Like a fool I went and stayed too long
 Now I'm wondering if your love's still strong

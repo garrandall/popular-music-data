@@ -1,8 +1,11 @@
 ---
+album: Balin
 artists:
 - Marty Balin
+external_ids:
+  spotify: spotify:track:150LOyOS0ISsZ9IcwPf6iT
 features: []
-genres: []
+first_released_as_single: false
 key: hearts-marty-balin
 lyrics_url: https://www.azlyrics.com/lyrics/martybalin/hearts.html
 name: Hearts
@@ -91,8 +94,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1981-10-10'
+release_year: 1981
+runtime: 258773
 ---
-
 Is everything all right?
 I just called to say how lost I feel without you
 Miles away
@@ -132,6 +136,3 @@ Hearts can be that way
 Hearts can be
 
 Is everything all right?
-
-
-

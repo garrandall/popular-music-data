@@ -1,9 +1,12 @@
 ---
+album: Black Panther The Album Music From And Inspired By
 artists:
 - Kendrick Lamar
 - Travis Scott
+external_ids:
+  spotify: spotify:track:10UkFz0jL2bhlxYfCoumpH
 features: []
-genres: []
+first_released_as_single: false
 key: big-shot-kendrick-lamar-travis-scott
 lyrics_url: https://www.azlyrics.com/lyrics/kendricklamar/bigshot.html
 name: Big Shot
@@ -16,8 +19,9 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '2018-03-03'
+release_year: 2018
+runtime: 221826
 ---
-
 Wakanda
 Welcome
 
@@ -90,6 +94,3 @@ Outside, cocaine white, body look like Gentiles (Gentiles)
 Emotion, emotion, emotion, emotional
 Why you emotional? Why you emotional?
 Ah, bitch, you emotional, yeah
-
-
-

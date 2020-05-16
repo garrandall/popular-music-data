@@ -1,8 +1,11 @@
 ---
+album: The Dude
 artists:
 - Quincy Jones
+external_ids:
+  spotify: spotify:track:0SzAKZYTUvDLqlPgllEb3N
 features: []
-genres: []
+first_released_as_single: false
 key: ai-no-corrida--i-no-ko-ree-da--quincy-jones
 lyrics_url: https://www.musixmatch.com/lyrics/Quincy-Jones/Ai-No-Corrida
 name: Ai No Corrida (I-No-Ko-ree-da)
@@ -55,6 +58,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1981-06-27'
+release_year: 1981
+runtime: 386360
 ---
 I hold you, I touch you
 In a maze can't find my way

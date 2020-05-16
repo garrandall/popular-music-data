@@ -1,10 +1,13 @@
 ---
+album: Piece Of Mind
 artists:
 - Tela
+external_ids:
+  spotify: spotify:track:3R5G81gtoO5CcZlRCRKVLk
 features:
 - Eightball
 - MJG
-genres: []
+first_released_as_single: false
 key: sho-nuff-tela-eightball-mjg
 lyrics_url: https://genius.com/Tela-sho-nuff-lyrics
 name: Sho Nuff
@@ -41,6 +44,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1997-05-17'
+release_year: 1996
+runtime: 308026
 ---
 It was this bitch that I knew back from '86
 Graduated and made it from the college of dicks
@@ -124,4 +129,3 @@ Now she, killin my dick softly with her mouth and I
 Really just don't plan on takin it out cause I
 MJ fuckin G you needs to knows 'bout these hoes shakin
 They ass with no clothes like some pros, sho nuff
-

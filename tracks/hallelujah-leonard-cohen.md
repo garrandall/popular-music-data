@@ -1,8 +1,11 @@
 ---
+album: Various Positions
 artists:
 - Leonard Cohen
+external_ids:
+  spotify: spotify:track:7yzbimr8WVyAtBX3Eg6UL9
 features: []
-genres: []
+first_released_as_single: false
 key: hallelujah-leonard-cohen
 lyrics_url: https://genius.com/Leonard-cohen-hallelujah-lyrics
 name: Hallelujah
@@ -11,6 +14,8 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '2016-12-03'
+release_year: 1984
+runtime: 277160
 ---
 Now I've heard there was a secret chord
 That David played, and it pleased the Lord

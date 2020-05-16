@@ -1,8 +1,11 @@
 ---
+album: Live At The Regal
 artists:
 - B.B. King
+external_ids:
+  spotify: spotify:track:1luQwXgJMgF7rs0mYg5uXa
 features: []
-genres: []
+first_released_as_single: false
 key: how-blue-can-you-get-b-b--king-and-his-orchestra
 lyrics_url: https://genius.com/Bb-king-how-blue-can-you-get-lyrics
 name: How Blue Can You Get
@@ -15,6 +18,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1964-04-04'
+release_year: 1964
+runtime: 214960
 ---
 I've been down hearted baby
 Ever since the day we met

@@ -1,8 +1,12 @@
 ---
+album: It's A Man's Man's Man's World
 artists:
-- James Brown And The Famous Flames
-features: []
-genres: []
+- James Brown
+external_ids:
+  spotify: spotify:track:71PHf4hLbw4LnQ02N8Gx7h
+features:
+- The Famous Flames
+first_released_as_single: false
 key: ain-t-that-a-groove--part-1--james-brown-and-the-famous-flames
 lyrics_url: https://genius.com/James-brown-and-the-famous-flames-aint-that-a-groove-part-1-lyrics
 name: Ain't That A Groove (Part 1)
@@ -35,6 +39,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1966-04-16'
+release_year: 1966
+runtime: 213440
 ---
 OW! OW!
 

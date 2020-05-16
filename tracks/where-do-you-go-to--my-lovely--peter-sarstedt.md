@@ -1,8 +1,11 @@
 ---
+album: The Lost Album
 artists:
 - Peter Sarstedt
+external_ids:
+  spotify: spotify:track:2ExEChLCSorn4k3FUxs7td
 features: []
-genres: []
+first_released_as_single: false
 key: where-do-you-go-to--my-lovely--peter-sarstedt
 lyrics_url: https://genius.com/Peter-sarstedt-where-do-you-go-to-my-lovely-lyrics
 name: Where Do You Go To (My Lovely)
@@ -31,6 +34,8 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1969-05-10'
+release_year: 1969
+runtime: 278880
 ---
 You talk like Marlene Dietrich
 And you dance like Zizi Jeanmaire

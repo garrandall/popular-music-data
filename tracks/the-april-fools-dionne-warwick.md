@@ -1,8 +1,11 @@
 ---
+album: 'The Dionne Warwick Collection: Her All-Time Greatest Hits'
 artists:
 - Dionne Warwick
+external_ids:
+  spotify: spotify:track:767SZ6IM7yXRmiu3NruknZ
 features: []
-genres: []
+first_released_as_single: false
 key: the-april-fools-dionne-warwick
 lyrics_url: https://genius.com/Dionne-warwick-the-april-fools-lyrics
 name: The April Fools
@@ -35,6 +38,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1969-06-28'
+release_year: 1969
+runtime: 199826
 ---
 In an April dream
 Once you came to me

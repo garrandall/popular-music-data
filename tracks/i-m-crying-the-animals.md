@@ -1,8 +1,11 @@
 ---
+album: The Animals On Tour
 artists:
 - The Animals
+external_ids:
+  spotify: spotify:track:6blxz1Nvtv0u0EznvX0KEa
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-crying-the-animals
 lyrics_url: https://genius.com/The-animals-im-crying-lyrics
 name: I'm Crying
@@ -43,6 +46,8 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '1964-11-21'
+release_year: 1964
+runtime: 167760
 ---
 I don't hear your knock upon my door
 I don't have your lovin' anymore

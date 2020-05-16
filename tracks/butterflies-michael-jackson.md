@@ -1,8 +1,11 @@
 ---
+album: Invincible
 artists:
 - Michael Jackson
+external_ids:
+  spotify: spotify:track:0rT9f5BSZrZ6DvzfBEckG0
 features: []
-genres: []
+first_released_as_single: false
 key: butterflies-michael-jackson
 lyrics_url: https://genius.com/Michael-jackson-butterflies-lyrics
 name: Butterflies
@@ -87,6 +90,8 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '2002-03-30'
+release_year: 2001
+runtime: 279160
 ---
 Butterflies
 Da, de, da

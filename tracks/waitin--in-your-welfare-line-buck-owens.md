@@ -1,8 +1,11 @@
 ---
+album: All-Time Greatest Hits, Vol. 3
 artists:
 - Buck Owens
+external_ids:
+  spotify: spotify:track:5fXvs6m6aojB82fb7vkw5J
 features: []
-genres: []
+first_released_as_single: false
 key: waitin--in-your-welfare-line-buck-owens
 lyrics_url: https://www.azlyrics.com/lyrics/buckowens/waitininyourwelfareline.html
 name: Waitin' In Your Welfare Line
@@ -35,8 +38,9 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1966-03-12'
+release_year: 1966
+runtime: 141133
 ---
-
 I got the hungries for your love,
 And I'm waitin' in your welfare line.
 
@@ -88,6 +92,3 @@ And I'm waitin' in your welfare line
 Yeah, I'm waitin' in your welfare line
 (Gimme a handout)
 I'm waitin' in your welfare line...
-
-
-

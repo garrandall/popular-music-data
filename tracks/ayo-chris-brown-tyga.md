@@ -1,9 +1,12 @@
 ---
+album: Fan of A Fan The Album
 artists:
 - Chris Brown
 - Tyga
+external_ids:
+  spotify: spotify:track:3Zvx1C6GOjcDL1Xbe6qWzK
 features: []
-genres: []
+first_released_as_single: true
 key: ayo-chris-brown-tyga
 lyrics_url: https://genius.com/Chris-brown-and-tyga-ayo-lyrics
 name: Ayo
@@ -88,6 +91,8 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '2015-06-06'
+release_year: 2015
+runtime: 254960
 ---
 I need you, I need you
 I need you, I need you

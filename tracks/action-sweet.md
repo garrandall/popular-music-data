@@ -1,8 +1,11 @@
 ---
+album: Hits
 artists:
 - Sweet
+external_ids:
+  spotify: spotify:track:2rkwEerYv5dhmu3WONhJqo
 features: []
-genres: []
+first_released_as_single: false
 key: action-sweet
 lyrics_url: https://genius.com/Sweet-action-lyrics
 name: Action
@@ -63,6 +66,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1976-05-15'
+release_year: 1976
+runtime: 200360
 ---
 So you think you'll take another piece of me
 To satisfy your intellectual need

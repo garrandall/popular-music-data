@@ -1,8 +1,11 @@
 ---
+album: 'Teenage Dream: The Complete Confection'
 artists:
 - Katy Perry
+external_ids:
+  spotify: spotify:track:6yARPLK0PV4heEyh7pVMGz
 features: []
-genres: []
+first_released_as_single: false
 key: part-of-me-katy-perry
 lyrics_url: https://genius.com/Katy-perry-part-of-me-lyrics
 name: Part Of Me
@@ -95,6 +98,8 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '2012-07-28'
+release_year: 2012
+runtime: 216160
 ---
 Days like this, I want to drive away
 Pack my bags and watch your shadow fade

@@ -1,8 +1,11 @@
 ---
+album: For You
 artists:
 - Eddie Kendricks
+external_ids:
+  spotify: spotify:track:1vIsPpjkRBJyFBbYdQNopN
 features: []
-genres: []
+first_released_as_single: false
 key: shoeshine-boy-eddie-kendricks
 lyrics_url: https://www.azlyrics.com/lyrics/eddiekendricks/shoeshineboy.html
 name: Shoeshine Boy
@@ -79,8 +82,9 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '1975-06-14'
+release_year: 1974
+runtime: 195493
 ---
-
 Shoeshine boy how you do your work so well
 Shoeshine boy tryin' to make a livin', you go somewhere
 Shoeshine boy where are you gonna be ten years from now
@@ -113,6 +117,3 @@ You've been a workin' so hard
 Shoeshine boy
 Don't you know that you're a star
 That's the way that you are
-
-
-

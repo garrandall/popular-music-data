@@ -1,8 +1,11 @@
 ---
+album: 'Miami Vice: Special Edition'
 artists:
 - Jan Hammer
+external_ids:
+  spotify: spotify:track:2UoF4VlADu3IkPCR6LGkpS
 features: []
-genres: []
+first_released_as_single: false
 key: miami-vice-theme-jan-hammer
 lyrics_url: https://genius.com/Jan-hammer-the-original-miami-vice-theme-instrumental-lyrics
 name: Miami Vice Theme
@@ -95,5 +98,7 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1986-02-01'
+release_year: 1985
+runtime: 147680
 ---
-Instrumental
+(instrumental)

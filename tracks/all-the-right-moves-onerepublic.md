@@ -1,8 +1,11 @@
 ---
+album: Waking Up
 artists:
 - OneRepublic
+external_ids:
+  spotify: spotify:track:5XRHGXut00SrJUFmcn2lQF
 features: []
-genres: []
+first_released_as_single: false
 key: all-the-right-moves-onerepublic
 lyrics_url: https://www.azlyrics.com/lyrics/onerepublic/alltherightmoves.html
 name: All The Right Moves
@@ -143,8 +146,9 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '2010-06-12'
+release_year: 2009
+runtime: 238000
 ---
-
 All the right friends in all the right places
 So yeah, we're going down
 They've got
@@ -234,6 +238,3 @@ Yeah we're going down
 They say
 All the right moves... hey
 Yeah we're going down
-
-
-

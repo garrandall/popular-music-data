@@ -1,8 +1,11 @@
 ---
+album: 3 Years, 5 Months And 2 Days In The Life Of...
 artists:
 - Arrested Development
+external_ids:
+  spotify: spotify:track:6JvodgYcsthsORxPsEYUoe
 features: []
-genres: []
+first_released_as_single: false
 key: people-everyday-arrested-development
 lyrics_url: https://genius.com/Arrested-development-people-everyday-lyrics
 name: People Everyday
@@ -99,6 +102,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1993-01-16'
+release_year: 1992
+runtime: 206893
 ---
 See I was resting at the park minding my own
 Business as I kick up the treble tone

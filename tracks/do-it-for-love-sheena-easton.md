@@ -1,8 +1,11 @@
 ---
+album: Do You
 artists:
 - Sheena Easton
+external_ids:
+  spotify: spotify:track:18oqrmevZgiY87mBYjr0Wj
 features: []
-genres: []
+first_released_as_single: false
 key: do-it-for-love-sheena-easton
 lyrics_url: https://genius.com/Sheena-easton-do-it-for-love-lyrics
 name: Do It For Love
@@ -63,6 +66,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1986-01-25'
+release_year: 1985
+runtime: 305666
 ---
 Do you, do you, do you, do you
 Do you do it for love?

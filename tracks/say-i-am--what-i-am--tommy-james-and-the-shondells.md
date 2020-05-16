@@ -1,8 +1,11 @@
 ---
+album: Hanky Panky
 artists:
 - Tommy James And The Shondells
+external_ids:
+  spotify: spotify:track:0JJBWZhaqJqJUT7uVxExnv
 features: []
-genres: []
+first_released_as_single: false
 key: say-i-am--what-i-am--tommy-james-and-the-shondells
 lyrics_url: https://www.azlyrics.com/lyrics/tommyjamesandtheshondells/sayiamwhatiam.html
 name: Say I Am (What I Am)
@@ -39,8 +42,9 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1966-09-24'
+release_year: 1966
+runtime: 151933
 ---
-
 If you're looking for a loving man
 A loving man, say, say I am
 If you're looking for a hugging man
@@ -96,6 +100,3 @@ Shake, shake, shake, shake
 Shake, shake, shake, shake
 Shake, shake, shake, shake
 Shake, shake, shake
-
-
-

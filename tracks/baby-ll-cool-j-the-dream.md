@@ -1,9 +1,12 @@
 ---
+album: Exit 13
 artists:
 - LL Cool J
+external_ids:
+  spotify: spotify:track:7HG1O7uimRLS68gJUjjP1W
 features:
 - The-Dream
-genres: []
+first_released_as_single: false
 key: baby-ll-cool-j-the-dream
 lyrics_url: https://genius.com/Ll-cool-j-baby-feat-the-dream-lyrics
 name: Baby
@@ -52,6 +55,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2008-10-18'
+release_year: 2008
+runtime: 241880
 ---
 LL
 Radio killer

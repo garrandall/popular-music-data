@@ -1,8 +1,11 @@
 ---
+album: Slime Language
 artists:
 - Young Thug
+external_ids:
+  spotify: spotify:track:0kCBorRrKZkSztd9m0QI3r
 features: []
-genres: []
+first_released_as_single: false
 key: lil-baby-young-thug
 lyrics_url: https://genius.com/Young-thug-lil-baby-lyrics
 name: Lil Baby
@@ -11,6 +14,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '2019-08-31'
+release_year: 2018
+runtime: 201706
 ---
 Yeah, yeah, yeah (Slatt)
 Yeah, yeah, yeah (I'm surfin')

@@ -1,8 +1,11 @@
 ---
+album: Ocean Eyes (Deluxe Version)
 artists:
 - Owl City
+external_ids:
+  spotify: spotify:track:0vCTQcxSGAgjHaiAsIANKn
 features: []
-genres: []
+first_released_as_single: false
 key: vanilla-twilight-owl-city
 lyrics_url: https://www.azlyrics.com/lyrics/owlcity/vanillatwilight.html
 name: Vanilla Twilight
@@ -27,8 +30,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2010-03-27'
+release_year: 2009
+runtime: 231706
 ---
-
 The stars lean down to kiss you
 And I lie awake and miss you
 Pour me a heavy dose of atmosphere
@@ -73,6 +77,3 @@ But I swear I won't forget you
 Oh, if my voice could reach back through the past
 I'd whisper in your ear,
 "Oh, darling, I wish you were here."
-
-
-

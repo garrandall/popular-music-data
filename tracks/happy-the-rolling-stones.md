@@ -1,8 +1,11 @@
 ---
+album: Exile On Main Street (Deluxe Version)
 artists:
 - The Rolling Stones
+external_ids:
+  spotify: spotify:track:5fXRPS1tp70DbqsBZVyG4e
 features: []
-genres: []
+first_released_as_single: false
 key: happy-the-rolling-stones
 lyrics_url: https://genius.com/The-rolling-stones-happy-lyrics
 name: Happy
@@ -39,6 +42,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1972-09-02'
+release_year: 1972
+runtime: 184626
 ---
 Well, I never kept a dollar past sunset
 It always burned a hole in my pants

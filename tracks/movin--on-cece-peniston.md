@@ -1,8 +1,11 @@
 ---
+album: I'm Movin' On
 artists:
 - CeCe Peniston
+external_ids:
+  spotify: spotify:track:79yf0zbMB74hJT8xjzixuX
 features: []
-genres: []
+first_released_as_single: false
 key: movin--on-cece-peniston
 lyrics_url: https://genius.com/Cece-peniston-movin-on-lyrics
 name: Movin' On
@@ -35,6 +38,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1996-10-05'
+release_year: 1996
+runtime: 227240
 ---
 Why'd you think that I
 Would sit here and wait in vain?

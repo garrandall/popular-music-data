@@ -1,8 +1,11 @@
 ---
+album: Beach Party
 artists:
 - Chubby Checker
+external_ids:
+  spotify: spotify:track:3x4jEj5WpKYHZtfsdjT99S
 features: []
-genres: []
+first_released_as_single: false
 key: surf-party-chubby-checker
 lyrics_url: https://genius.com/Chubby-checker-surf-party-lyrics
 name: Surf Party
@@ -31,6 +34,8 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '1963-08-17'
+release_year: 1963
+runtime: 151400
 ---
 Hey
 There's a surfin' party at the shore tonight

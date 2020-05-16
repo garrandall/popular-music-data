@@ -1,8 +1,11 @@
 ---
+album: Blue-Eyed Soul Classics
 artists:
 - The Young Rascals
+external_ids:
+  spotify: spotify:track:4nGe6UWML7cjS5UyHgMfRg
 features: []
-genres: []
+first_released_as_single: false
 key: i-ve-been-lonely-too-long-the-young-rascals
 lyrics_url: https://genius.com/The-young-rascals-ive-been-lonely-too-long-lyrics
 name: I've Been Lonely Too Long
@@ -63,6 +66,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1967-04-29'
+release_year: 1967
+runtime: 181333
 ---
 I've been lonely too long, I've been lonely too long
 In the past it's come and gone, I feel like I can't go on without

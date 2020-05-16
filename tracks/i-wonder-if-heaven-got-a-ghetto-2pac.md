@@ -1,8 +1,11 @@
 ---
+album: R U Still Down?
 artists:
 - 2Pac
+external_ids:
+  spotify: spotify:track:5UJ0jCifH0eFU0YTtEbfs6
 features: []
-genres: []
+first_released_as_single: false
 key: i-wonder-if-heaven-got-a-ghetto-2pac
 lyrics_url: https://www.azlyrics.com/lyrics/2pac/iwonderifheavengotaghetto.html
 name: I Wonder If Heaven Got A Ghetto
@@ -51,8 +54,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1998-02-21'
+release_year: 1997
+runtime: 259720
 ---
-
 I wonder if Heaven got a ghetto
 I wonder if Heaven got a ghetto
 I wonder if Heaven got a ghetto
@@ -150,6 +154,3 @@ I wonder if Heaven got a ghetto
 I wonder if Heaven got a ghetto
 I wonder if Heaven got a ghetto
 I wonder if Heaven got a ghetto
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Guilty Pleasure
 artists:
 - Ashley Tisdale
+external_ids:
+  spotify: spotify:track:7kvkzyzHsHIssSQnYMH3BM
 features: []
-genres: []
+first_released_as_single: true
 key: it-s-alright-it-s-ok-ashley-tisdale
 lyrics_url: https://www.azlyrics.com/lyrics/ashleytisdale/itsalrightitsok.html
 name: It's Alright It's OK
@@ -11,8 +14,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2009-05-02'
+release_year: 2009
+runtime: 179000
 ---
-
 You told me
 there's no need
 To talk it out
@@ -89,6 +93,3 @@ It's alright, OK
 Alright, OK
 Without you
 I won't be sorry
-
-
-

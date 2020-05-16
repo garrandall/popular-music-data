@@ -1,8 +1,11 @@
 ---
+album: Little Queen
 artists:
 - Heart
+external_ids:
+  spotify: spotify:track:0Mo316Vw5VAKEy2maTlTNS
 features: []
-genres: []
+first_released_as_single: false
 key: little-queen-heart
 lyrics_url: https://genius.com/Heart-little-queen-lyrics
 name: Little Queen
@@ -31,6 +34,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1977-10-22'
+release_year: 1977
+runtime: 311560
 ---
 You'd rather have wine than gin
 And only the finest by your skin

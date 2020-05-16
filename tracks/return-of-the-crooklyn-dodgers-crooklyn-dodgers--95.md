@@ -1,8 +1,11 @@
 ---
+album: 90s Underground Hip Hop
 artists:
 - Crooklyn Dodgers '95
+external_ids:
+  spotify: spotify:track:7tojsPuAq9a1puP9ApOJnV
 features: []
-genres: []
+first_released_as_single: false
 key: return-of-the-crooklyn-dodgers-crooklyn-dodgers--95
 lyrics_url: https://www.musixmatch.com/lyrics/Crooklyn-Dodgers-95-2/Return-of-the-Crooklyn-Dodgers
 name: Return Of The Crooklyn Dodgers
@@ -15,6 +18,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1995-09-23'
+release_year: 1995
+runtime: 304800
 ---
 Straight from Crooklyn
 Better known as Brooklyn

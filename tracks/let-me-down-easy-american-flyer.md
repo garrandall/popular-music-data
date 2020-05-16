@@ -1,8 +1,11 @@
 ---
+album: American Flyer
 artists:
 - American Flyer
+external_ids:
+  spotify: spotify:track:5KA5FInbzpqZ0foY5WmDTR
 features: []
-genres: []
+first_released_as_single: false
 key: let-me-down-easy-american-flyer
 lyrics_url: https://www.musixmatch.com/lyrics/American-Flyer/Let-Me-Down-Easy
 name: Let Me Down Easy
@@ -23,6 +26,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1976-11-20'
+release_year: 1976
+runtime: 157400
 ---
 Woman, why must you leave me
 I don't wanna be lonely no more

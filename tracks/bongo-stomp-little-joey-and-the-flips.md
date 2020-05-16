@@ -1,8 +1,11 @@
 ---
+album: Goldisc Records From The Vault Volume 1
 artists:
 - Little Joey And The Flips
+external_ids:
+  spotify: spotify:track:31ip2wUAsK5IJP4wux6yXD
 features: []
-genres: []
+first_released_as_single: false
 key: bongo-stomp-little-joey-and-the-flips
 name: Bongo Stomp
 rankings:
@@ -46,5 +49,7 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1962-08-18'
+release_year: 1962
+runtime: 138986
 ---
 

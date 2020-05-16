@@ -1,9 +1,12 @@
 ---
+album: NOW That's What I Call Music, Vol. 71
 artists:
 - Lil Nas X
+external_ids:
+  spotify: spotify:track:3kgKVcBpBGuSeaEC0AZGlb
 features:
 - Billy Ray Cyrus
-genres: []
+first_released_as_single: true
 key: old-town-road-lil-nas-x-billy-ray-cyrus
 lyrics_url: https://genius.com/Lil-nas-x-billy-ray-cyrus-and-diplo-old-town-road-diplo-remix-lyrics
 name: Old Town Road
@@ -188,6 +191,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '2020-01-18'
+release_year: 2019
+runtime: 204026
 ---
 Oh, oh-oh
 Oh

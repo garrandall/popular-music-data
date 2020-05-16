@@ -1,8 +1,11 @@
 ---
+album: City To City
 artists:
 - Gerry Rafferty
+external_ids:
+  spotify: spotify:track:5gOd6zDC8vhlYjqbQdJVWP
 features: []
-genres: []
+first_released_as_single: false
 key: baker-street-gerry-rafferty
 lyrics_url: https://genius.com/Gerry-rafferty-baker-street-lyrics
 name: Baker Street
@@ -87,6 +90,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1978-09-02'
+release_year: 1978
+runtime: 365626
 ---
 Windin' your way down on Baker Street
 Light in your head and dead on your feet

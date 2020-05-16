@@ -1,8 +1,11 @@
 ---
+album: I've Got the Music in Me (Bonus Track Version)
 artists:
 - Kiki Dee
+external_ids:
+  spotify: spotify:track:4Pf6uEbI5Dp55aKFexXoSM
 features: []
-genres: []
+first_released_as_single: false
 key: how-glad-i-am-kiki-dee
 lyrics_url: https://genius.com/Kiki-dee-how-glad-i-am-lyrics
 name: How Glad I Am
@@ -19,6 +22,8 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '1975-06-07'
+release_year: 1974
+runtime: 240973
 ---
 My love has no beginning, my love has no end
 No front no back, my love won't bend

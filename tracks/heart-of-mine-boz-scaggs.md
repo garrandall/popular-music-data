@@ -1,8 +1,11 @@
 ---
+album: Other Roads (Expanded)
 artists:
 - Boz Scaggs
+external_ids:
+  spotify: spotify:track:3GGLM9N7B18Hww26bScGDq
 features: []
-genres: []
+first_released_as_single: false
 key: heart-of-mine-boz-scaggs
 lyrics_url: https://www.musixmatch.com/lyrics/Boz-Scaggs/Heart-of-Mine
 name: Heart Of Mine
@@ -63,6 +66,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1988-07-30'
+release_year: 1988
+runtime: 251520
 ---
 One day you may find true love that will last forever and ever
 'Till then you'll spend a lifetime wishing one together

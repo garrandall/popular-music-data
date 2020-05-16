@@ -1,8 +1,11 @@
 ---
+album: I Hear You Rockin'
 artists:
 - Dave Edmunds
+external_ids:
+  spotify: spotify:track:3UgUFxGEgGqXy1Ic4s9KZH
 features: []
-genres: []
+first_released_as_single: false
 key: girls-talk-dave-edmunds
 lyrics_url: https://genius.com/Dave-edmunds-girls-talk-lyrics
 name: Girls Talk
@@ -31,6 +34,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1979-10-06'
+release_year: 1970
+runtime: 202973
 ---
 There are some things you can't cover up with lipstick and powder
 Thought I heard you mention my name, can't you talk any louder?

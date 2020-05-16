@@ -1,8 +1,11 @@
 ---
+album: Scissors Cut
 artists:
 - Art Garfunkel
+external_ids:
+  spotify: spotify:track:05iPg44iQftuEjHXoXAlvT
 features: []
-genres: []
+first_released_as_single: false
 key: a-heart-in-new-york-art-garfunkel
 lyrics_url: https://www.azlyrics.com/lyrics/artgarfunkel/aheartinnewyork.html
 name: A Heart In New York
@@ -43,8 +46,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1981-10-03'
+release_year: 1981
+runtime: 191800
 ---
-
 New York
 To that tall skyline I come
 Flyin' in from London 
@@ -69,6 +73,3 @@ New York
 You've got money on your mind
 And my words don't make a dime's worth of difference
 So here's to you New York
-
-
-

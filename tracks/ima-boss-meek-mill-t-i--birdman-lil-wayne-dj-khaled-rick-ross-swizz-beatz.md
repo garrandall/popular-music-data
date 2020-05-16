@@ -1,6 +1,9 @@
 ---
+album: Ima Boss (Remix Version)
 artists:
 - Meek Mill
+external_ids:
+  spotify: spotify:track:17cEIUjCcycYnE9sT8l9TK
 features:
 - T.I.
 - Birdman
@@ -8,7 +11,7 @@ features:
 - DJ Khaled
 - Rick Ross
 - Swizz Beatz
-genres: []
+first_released_as_single: true
 key: ima-boss-meek-mill-t-i--birdman-lil-wayne-dj-khaled-rick-ross-swizz-beatz
 lyrics_url: https://genius.com/Meek-mill-ima-boss-remix-lyrics
 name: Ima Boss
@@ -21,6 +24,8 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '2012-03-03'
+release_year: 2012
+runtime: 313306
 ---
 Remix!
 (One two, one two)

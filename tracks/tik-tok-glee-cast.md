@@ -1,8 +1,11 @@
 ---
+album: Karaoke The Best Collection
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:5qa8zhuTDTYjHpJEMHrEw2
 features: []
-genres: []
+first_released_as_single: false
 key: tik-tok-glee-cast
 lyrics_url: https://www.azlyrics.com/lyrics/gleecast/tiktok.html
 name: Tik Tok
@@ -11,8 +14,9 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '2011-03-12'
+release_year: 2011
+runtime: 193816
 ---
-
 Wake up in the morning feeling like P. Diddy (Hey, what up girl?)
 Put my glasses on, I'm out the door - I'm gonna hit this city (Let's go)
 Before I leave, brush my teeth with a bottle of Jack
@@ -110,4 +114,3 @@ Tick tock, on the clock
 But the party don't stop, no
 Woah-oh oh oh
 Woah-oh oh oh
-

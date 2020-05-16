@@ -1,8 +1,11 @@
 ---
+album: Songs In The Key Of Life
 artists:
 - Stevie Wonder
+external_ids:
+  spotify: spotify:track:5owFj7EOftzR9x5zciL0Bm
 features: []
-genres: []
+first_released_as_single: false
 key: another-star-stevie-wonder
 lyrics_url: https://www.azlyrics.com/lyrics/steviewonder/anotherstar.html
 name: Another Star
@@ -47,8 +50,9 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1977-10-29'
+release_year: 1976
+runtime: 508226
 ---
-
 La la la la la la lala la
 La la la la la la lala la
 
@@ -90,6 +94,3 @@ But through my eyes the light of you is all I see
 For you
 There might be another song
 But in my heart your melody will stay with me
-
-
-

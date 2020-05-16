@@ -1,8 +1,11 @@
 ---
+album: Eye of the Hurricane
 artists:
 - The Alarm
+external_ids:
+  spotify: spotify:track:5v2VrRd0Da8Vkl4iiB2KUg
 features: []
-genres: []
+first_released_as_single: false
 key: presence-of-love-the-alarm
 lyrics_url: https://genius.com/The-alarm-presence-of-love-lyrics
 name: Presence Of Love
@@ -31,6 +34,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1988-04-30'
+release_year: 1987
+runtime: 252693
 ---
 The first heaven is silver
 And you are silver, you shine white light

@@ -1,8 +1,11 @@
 ---
+album: Me And My Gang
 artists:
 - Rascal Flatts
+external_ids:
+  spotify: spotify:track:435sp9O64WY2P9DLMuBDCU
 features: []
-genres: []
+first_released_as_single: false
 key: me-and-my-gang-rascal-flatts
 lyrics_url: https://genius.com/Rascal-flatts-me-and-my-gang-lyrics
 name: Me And My Gang
@@ -71,6 +74,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2006-09-09'
+release_year: 2006
+runtime: 217986
 ---
 Way on down to southern Alabama
 With the guitars jammin' that's where we're headed

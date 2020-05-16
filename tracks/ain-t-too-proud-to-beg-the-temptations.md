@@ -1,8 +1,11 @@
 ---
+album: Gettin' Ready
 artists:
 - The Temptations
+external_ids:
+  spotify: spotify:track:4CoGNqLap7UGU5Q3VdKug0
 features: []
-genres: []
+first_released_as_single: false
 key: ain-t-too-proud-to-beg-the-temptations
 lyrics_url: https://genius.com/The-temptations-aint-too-proud-to-beg-lyrics
 name: Ain't Too Proud To Beg
@@ -59,6 +62,8 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '1966-08-20'
+release_year: 1966
+runtime: 156173
 ---
 I know you wanna leave me
 But I refuse to let you go

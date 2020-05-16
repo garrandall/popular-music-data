@@ -1,8 +1,11 @@
 ---
+album: A Woman, A Lover, A Friend
 artists:
 - Jackie Wilson
+external_ids:
+  spotify: spotify:track:0QJEYxwztwNsHha0LIHAOU
 features: []
-genres: []
+first_released_as_single: false
 key: a-woman-a-lover-a-friend-jackie-wilson
 lyrics_url: https://www.azlyrics.com/lyrics/jackiewilson/awomanaloverafriend.html
 name: A Woman A Lover A Friend
@@ -55,8 +58,9 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '1960-09-26'
+release_year: 1960
+runtime: 160560
 ---
-
 I want somebody to hold my hand
 Somebody to love me and understand
 I want a woman (woman)
@@ -88,6 +92,3 @@ Yeah I want her right now
 I want my little girl anyway, I want her anyhow
 Please come on, baby
 Just be my little woman, be my lover
-
-
-

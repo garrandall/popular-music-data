@@ -1,8 +1,11 @@
 ---
+album: Sings Top Ten
 artists:
 - Jimmy Ruffin
+external_ids:
+  spotify: spotify:track:5daUbkYyh5dOhnd8dJKtp5
 features: []
-genres: []
+first_released_as_single: false
 key: gonna-give-her-all-the-love-i-ve-got-jimmy-ruffin
 lyrics_url: https://genius.com/Jimmy-ruffin-gonna-give-her-all-the-love-ive-got-lyrics
 name: Gonna Give Her All The Love I've Got
@@ -35,6 +38,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1967-04-29'
+release_year: 1967
+runtime: 162493
 ---
 There's a train leaving here tomorrow, yeah
 And I'll be a free, free man once again, yes I will now

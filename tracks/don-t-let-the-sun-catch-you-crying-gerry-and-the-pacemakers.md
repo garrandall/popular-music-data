@@ -1,8 +1,11 @@
 ---
+album: At Abbey Road
 artists:
 - Gerry And The Pacemakers
+external_ids:
+  spotify: spotify:track:5WK2srLxBE7aCxg1Zt8GIe
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-let-the-sun-catch-you-crying-gerry-and-the-pacemakers
 lyrics_url: https://genius.com/Gerry-and-the-pacemakers-dont-let-the-sun-catch-you-crying-lyrics
 name: Don't Let The Sun Catch You Crying
@@ -55,6 +58,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1964-08-08'
+release_year: 1964
+runtime: 157093
 ---
 (Marsden - Marsden - Chadwick - Maguire)
 

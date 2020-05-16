@@ -1,8 +1,11 @@
 ---
+album: Swoon
 artists:
 - Silversun Pickups
+external_ids:
+  spotify: spotify:track:597i9UhHbW8hHgBUp8Tm54
 features: []
-genres: []
+first_released_as_single: false
 key: panic-switch-silversun-pickups
 lyrics_url: https://www.azlyrics.com/lyrics/silversunpickups/panicswitch.html
 name: Panic Switch
@@ -11,8 +14,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2009-05-02'
+release_year: 2009
+runtime: 343906
 ---
-
 Time
 It's never worth my time
 Blue shine bleeds into my eyes
@@ -75,6 +79,3 @@ When you see yourself in a crowded room,
 Do your fingers itch? Are you pistol-whipped?
 Will you step in line or release the glitch?
 Do you think she'll sleep with a panic?
-
-
-

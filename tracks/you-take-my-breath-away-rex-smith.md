@@ -1,8 +1,11 @@
 ---
+album: Sooner or Later
 artists:
 - Rex Smith
+external_ids:
+  spotify: spotify:track:3BCMsz55asr7Yr6DqB9N8D
 features: []
-genres: []
+first_released_as_single: false
 key: you-take-my-breath-away-rex-smith
 lyrics_url: https://genius.com/Rex-smith-you-take-my-breath-away-lyrics
 name: You Take My Breath Away
@@ -71,6 +74,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1979-08-04'
+release_year: 1979
+runtime: 197453
 ---
 You, I don't know what to say
 You take my breath away

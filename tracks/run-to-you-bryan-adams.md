@@ -1,8 +1,11 @@
 ---
+album: Reckless
 artists:
 - Bryan Adams
+external_ids:
+  spotify: spotify:track:2RWFncSWZEhSRRifqiDNVV
 features: []
-genres: []
+first_released_as_single: false
 key: run-to-you-bryan-adams
 lyrics_url: https://genius.com/Bryan-adams-run-to-you-lyrics
 name: Run To You
@@ -83,6 +86,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1985-03-09'
+release_year: 1984
+runtime: 233270
 ---
 She says her love for me could never die
 But that'd change if she ever found out about you and I

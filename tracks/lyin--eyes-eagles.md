@@ -1,8 +1,11 @@
 ---
+album: One of These Nights
 artists:
 - Eagles
+external_ids:
+  spotify: spotify:track:5lQKRR3MdJLtAwNBiT8Cq0
 features: []
-genres: []
+first_released_as_single: false
 key: lyin--eyes-eagles
 lyrics_url: https://www.azlyrics.com/lyrics/eagles/lyineyes.html
 name: Lyin' Eyes
@@ -63,8 +66,9 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '1975-12-13'
+release_year: 1975
+runtime: 381998
 ---
-
 City girls just seem to find out early
 How to open doors with just a smile
 A rich old man and she won't have to worry
@@ -121,6 +125,3 @@ I thought by now you'd realize
 There ain't no way to hide your lyin' eyes
 There ain't no way to hide your lyin' eyes
 Honey, you can't hide your lyin' eyes
-
-
-

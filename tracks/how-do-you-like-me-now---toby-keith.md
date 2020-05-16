@@ -1,8 +1,11 @@
 ---
+album: How Do You Like Me Now?!
 artists:
 - Toby Keith
+external_ids:
+  spotify: spotify:track:7rDcULv8vV16vetBjPJhuE
 features: []
-genres: []
+first_released_as_single: false
 key: how-do-you-like-me-now---toby-keith
 lyrics_url: https://www.azlyrics.com/lyrics/tobykeith/howdoyoulikemenow.html
 name: How Do You Like Me Now?!
@@ -87,8 +90,9 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '2000-06-10'
+release_year: 1999
+runtime: 209066
 ---
-
 I was always the crazy one
 I broke into the stadium
 And I wrote your number on the 50 yard line
@@ -135,6 +139,3 @@ How do you like me now?
 
 Tell me baby...
 I will preach on...
-
-
-

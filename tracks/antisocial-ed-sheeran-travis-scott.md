@@ -1,9 +1,12 @@
 ---
+album: No.6 Collaborations Project
 artists:
 - Ed Sheeran
 - Travis Scott
+external_ids:
+  spotify: spotify:track:7mb1IkA4MKjjh8KHSzOEB2
 features: []
-genres: []
+first_released_as_single: true
 key: antisocial-ed-sheeran-travis-scott
 lyrics_url: https://www.azlyrics.com/lyrics/edsheeran/antisocial.html
 name: Antisocial
@@ -24,8 +27,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2019-08-17'
+release_year: 2019
+runtime: 161746
 ---
-
 All you cool people, you better leave now 'cause it's about to happen
 
 Friday night and I'm riding solo (Yeah)
@@ -78,6 +82,3 @@ Don't touch me, don't touch me, don't touch me, I came to vibe, yeah
 Won't let nothing come in between me and the night
 
 (Don't touch me, yeah)
-
-
-

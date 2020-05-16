@@ -1,8 +1,11 @@
 ---
+album: 'One for the Road: Canadian Tour 1984'
 artists:
 - April Wine
+external_ids:
+  spotify: spotify:track:6FK4qvDHaFxbCl5zRRWX2O
 features: []
-genres: []
+first_released_as_single: false
 key: enough-is-enough-april-wine
 lyrics_url: https://www.azlyrics.com/lyrics/aprilwine/enoughisenough.html
 name: Enough Is Enough
@@ -39,8 +42,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1982-08-21'
+release_year: 1982
+runtime: 245600
 ---
-
 Always so keen in a big black fleur-de-lis
 Had too much competition in a limousine
 Everybody got to him and he finally had to make a show
@@ -80,6 +84,3 @@ You're my girl, and enough is enough
 Baby, you're my girl, and enough is enough
 You're my girl, enough is enough
 Baby, you're my girl, and enough is enough
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Autobahn
 artists:
 - Kraftwerk
+external_ids:
+  spotify: spotify:track:31uidLEHAcF8Cw1cX1VCS8
 features: []
-genres: []
+first_released_as_single: false
 key: autobahn-kraftwerk
 lyrics_url: https://www.azlyrics.com/lyrics/kraftwerk/autobahn.html
 name: Autobahn
@@ -47,8 +50,9 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1975-05-17'
+release_year: 1974
+runtime: 1367093
 ---
-
 Autobahn
 Autobahn
 Autobahn
@@ -137,6 +141,3 @@ Autobahn
 Fahr'n auf der Autobahn
 Fahr'n auf der Autobahn
 Fahr'n auf der Autobahn
-
-
-

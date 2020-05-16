@@ -1,9 +1,12 @@
 ---
+album: Come Morning
 artists:
 - Grover Washington
 - Jr.
+external_ids:
+  spotify: spotify:track:7cG8QaYuf80Aqk3RDi5evK
 features: []
-genres: []
+first_released_as_single: false
 key: be-mine--tonight--grover-washington-jr-
 lyrics_url: https://genius.com/Grover-washington-jr-be-mine-tonight-lyrics
 name: Be Mine (Tonight)
@@ -24,6 +27,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1982-02-27'
+release_year: 1979
+runtime: 384226
 ---
 Be mine tonight
 The time is right

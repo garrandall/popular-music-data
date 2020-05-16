@@ -1,8 +1,11 @@
 ---
+album: Funhouse
 artists:
 - P!nk
+external_ids:
+  spotify: spotify:track:0NO5dy7nf2fldwQwdTWNja
 features: []
-genres: []
+first_released_as_single: true
 key: so-what-p-nk
 lyrics_url: https://genius.com/P-nk-so-what-lyrics
 name: So What
@@ -131,6 +134,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2009-04-04'
+release_year: 2008
+runtime: 216320
 ---
 Na na na na na na na, na na na na na na
 Na na na na na na na, na na na na na na

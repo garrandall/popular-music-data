@@ -1,8 +1,11 @@
 ---
+album: '...But Seriously'
 artists:
 - Phil Collins
+external_ids:
+  spotify: spotify:track:3TLtCHUaiMHcQcJVGVW2p2
 features: []
-genres: []
+first_released_as_single: false
 key: do-you-remember--phil-collins
 lyrics_url: https://genius.com/Phil-collins-do-you-remember-lyrics
 name: Do You Remember?
@@ -83,6 +86,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1990-09-01'
+release_year: 1989
+runtime: 275986
 ---
 We never talked about it
 But I hear the blame was mine

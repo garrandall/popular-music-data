@@ -1,8 +1,11 @@
 ---
+album: NOW That's What I Call Music!, Vol. 70
 artists:
 - FLETCHER
+external_ids:
+  spotify: spotify:track:1SDzRifeTalpelvlzst0yk
 features: []
-genres: []
+first_released_as_single: false
 key: undrunk-fletcher
 lyrics_url: https://www.azlyrics.com/lyrics/fletcher/undrunk.html
 name: Undrunk
@@ -31,8 +34,9 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '2019-04-27'
+release_year: 2019
+runtime: 181146
 ---
-
 Wish I could get a little un-drunk so I could un-call you
 At five in the morning, I would un-fuck you
 
@@ -94,6 +98,3 @@ You, you, wish I could un-love you
 You, you, you, wish I could un-call you, yeah
 You, you, you, wish I could un-fuck you, you
 Wish I could un-love you
-
-
-

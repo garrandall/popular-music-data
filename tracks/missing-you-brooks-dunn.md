@@ -1,9 +1,12 @@
 ---
+album: Tight Rope
 artists:
 - Brooks
 - Dunn
+external_ids:
+  spotify: spotify:track:0gGvOWau1bH5r5UH2PsyWj
 features: []
-genres: []
+first_released_as_single: false
 key: missing-you-brooks-dunn
 lyrics_url: https://www.azlyrics.com/lyrics/brooksdunn/missingyou.html
 name: Missing You
@@ -20,8 +23,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1999-10-30'
+release_year: 1999
+runtime: 226853
 ---
-
 Everytime I think of you
 I always catch my breath
 And I'm still standing here and your miles away
@@ -65,6 +69,3 @@ I ain't missing you
 No mater what my friends say
 I ain't missing you
 I ain't missing you
-
-
-

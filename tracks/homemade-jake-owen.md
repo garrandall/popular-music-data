@@ -1,8 +1,11 @@
 ---
+album: Greetings From...Jake
 artists:
 - Jake Owen
+external_ids:
+  spotify: spotify:track:31JID2STTlLuFqXFWHyM8e
 features: []
-genres: []
+first_released_as_single: false
 key: homemade-jake-owen
 lyrics_url: https://www.azlyrics.com/lyrics/jakeowen/homemade.html
 name: Homemade
@@ -35,8 +38,9 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '2020-03-21'
+release_year: 2019
+runtime: 192653
 ---
-
 Where I grew up, gettin' dressed up means
 Buttoned down shirt and a good pair of jeans
 Wasn't Sunday supper without collard greens
@@ -88,6 +92,3 @@ Homemade
 Yeah, it's homemade
 (Homemade, homemade)
 Homemade
-
-
-

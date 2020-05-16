@@ -1,8 +1,11 @@
 ---
+album: Tear Down These Walls
 artists:
 - Billy Ocean
+external_ids:
+  spotify: spotify:track:66CeyvG5k0pUTZGwuVQCWF
 features: []
-genres: []
+first_released_as_single: false
 key: the-colour-of-love-billy-ocean
 lyrics_url: https://www.azlyrics.com/lyrics/billyocean/thecolouroflove.html
 name: The Colour Of Love
@@ -71,8 +74,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1988-09-10'
+release_year: 1988
+runtime: 261586
 ---
-
 If I had to paint a picture
 To show the world how true love can really be
 I would use the brightest colours
@@ -117,6 +121,3 @@ What is the colour of love, oh tell me, tell me
 Oh I wanna know, I wanna know
 I see the colour of love when I'm thinking of you
 As a picture perfect paining of a love forever true
-
-
-

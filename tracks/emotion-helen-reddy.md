@@ -1,8 +1,11 @@
 ---
+album: Free And Easy
 artists:
 - Helen Reddy
+external_ids:
+  spotify: spotify:track:2AiyU0TBMBuxHAXMCG008X
 features: []
-genres: []
+first_released_as_single: false
 key: emotion-helen-reddy
 lyrics_url: https://www.azlyrics.com/lyrics/helenreddy/emotion.html
 name: Emotion
@@ -43,8 +46,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1975-04-05'
+release_year: 1974
+runtime: 254400
 ---
-
 Lonely women are the desperate kind
 And I am hanging at the end of a line
 Losing hope when the call doesn't come
@@ -85,6 +89,3 @@ And flood a million streams with emotion
 And you can fill my nights
 Oh, and blow out all my lights
 'Til I see nothing right by emotion
-
-
-

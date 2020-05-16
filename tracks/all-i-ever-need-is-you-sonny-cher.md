@@ -1,9 +1,12 @@
 ---
+album: All I Ever Need Is You
 artists:
 - Sonny
 - Cher
+external_ids:
+  spotify: spotify:track:359IJq43c4SVrf5ZeUDiFl
 features: []
-genres: []
+first_released_as_single: false
 key: all-i-ever-need-is-you-sonny-cher
 lyrics_url: https://www.azlyrics.com/lyrics/sonnycher/allieverneedisyou.html
 name: All I Ever Need Is You
@@ -68,8 +71,9 @@ rankings:
   rank: 33
   ranking_list: Billboard Hot 100
   start_date: '1972-01-22'
+release_year: 1971
+runtime: 155293
 ---
-
 Sometimes when I'm down and all alone
 Just like a child without a home
 The love you give me keeps me hangin' on
@@ -96,6 +100,3 @@ Without our love, I'd never find the way
 Through ups and downs of every single day
 I won't sleep at night until you say, my honey
 All I ever need is you
-
-
-

@@ -1,9 +1,12 @@
 ---
+album: Bred 2 Die Born 2 Live (Explicit Version)
 artists:
 - Lil Scrappy
+external_ids:
+  spotify: spotify:track:6YTp4sUEi3oWNToQvOjke6
 features:
 - Young Buck
-genres: []
+first_released_as_single: false
 key: money-in-the-bank-lil-scrappy-young-buck
 lyrics_url: https://genius.com/Young-buck-money-in-the-bank-feat-lil-scrappy-lyrics
 name: Money In The Bank
@@ -88,6 +91,8 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '2007-02-10'
+release_year: 2006
+runtime: 233706
 ---
 Okay-kay-kay-kayyy, G's up, Lil Scrappy
 I got money

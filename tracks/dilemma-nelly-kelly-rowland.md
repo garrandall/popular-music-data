@@ -1,9 +1,12 @@
 ---
+album: Nellyville
 artists:
 - Nelly
+external_ids:
+  spotify: spotify:track:0ARK753YaiJbpLUk7z5yIM
 features:
 - Kelly Rowland
-genres: []
+first_released_as_single: false
 key: dilemma-nelly-kelly-rowland
 lyrics_url: https://genius.com/Nelly-dilemma-lyrics
 name: Dilemma
@@ -124,6 +127,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2003-01-25'
+release_year: 2002
+runtime: 289160
 ---
 I love you
 And I need you

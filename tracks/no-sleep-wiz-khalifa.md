@@ -1,8 +1,11 @@
 ---
+album: Rolling Papers
 artists:
 - Wiz Khalifa
+external_ids:
+  spotify: spotify:track:2kzRSiyignH8yzPTrWvyPo
 features: []
-genres: []
+first_released_as_single: false
 key: no-sleep-wiz-khalifa
 lyrics_url: https://www.musixmatch.com/lyrics/Wiz-Khalifa/No-Sleep
 name: No Sleep
@@ -67,6 +70,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2011-10-22'
+release_year: 2011
+runtime: 191320
 ---
 Last night I let the party get the best of me
 Waking up in the morning

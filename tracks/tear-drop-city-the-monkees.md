@@ -1,8 +1,11 @@
 ---
+album: More of The Monkees
 artists:
 - The Monkees
+external_ids:
+  spotify: spotify:track:6lYjzJ7uXRGKqDHGa6qxyh
 features: []
-genres: []
+first_released_as_single: false
 key: tear-drop-city-the-monkees
 lyrics_url: https://www.azlyrics.com/lyrics/monkees/teardropcity.html
 name: Tear Drop City
@@ -35,8 +38,9 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '1969-04-05'
+release_year: 1967
+runtime: 138493
 ---
-
 About as low as I felt in a long time
 And I know that I did a wrong at the wrong time
 It's plain to see, she's down on me
@@ -65,6 +69,3 @@ How'd I ever end up in this bind
 What a drag
 
 About as low as I felt in a long time...
-
-
-

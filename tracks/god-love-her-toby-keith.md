@@ -1,8 +1,11 @@
 ---
+album: That Don't Make Me a Bad Guy
 artists:
 - Toby Keith
+external_ids:
+  spotify: spotify:track:2VwBhM5L7wGE4lLavyJy0L
 features: []
-genres: []
+first_released_as_single: false
 key: god-love-her-toby-keith
 lyrics_url: https://www.azlyrics.com/lyrics/tobykeith/godloveher.html
 name: God Love Her
@@ -87,8 +90,9 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '2009-04-18'
+release_year: 2008
+runtime: 216626
 ---
-
 Just a girl born in Dixie
 Washed in the blood
 And raised on the banks
@@ -154,6 +158,3 @@ You see...God love her
 Oh me and God love her
 God love her
 Me and God love her
-
-
-

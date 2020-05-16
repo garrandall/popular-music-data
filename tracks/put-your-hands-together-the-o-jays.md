@@ -1,8 +1,11 @@
 ---
+album: Ship Ahoy
 artists:
 - The O'Jays
+external_ids:
+  spotify: spotify:track:6LhXQZ3tyooLASS2yJa5oe
 features: []
-genres: []
+first_released_as_single: false
 key: put-your-hands-together-the-o-jays
 lyrics_url: https://genius.com/The-ojays-put-your-hands-together-lyrics
 name: Put Your Hands Together
@@ -71,6 +74,8 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '1974-04-06'
+release_year: 1972
+runtime: 246426
 ---
 Come on, come on
 Come on, y'all now

@@ -1,8 +1,11 @@
 ---
+album: Pop Masters
 artists:
 - Tony Orlando
+external_ids:
+  spotify: spotify:track:2Ngtyk7Hyb0NeIgQwQZTtf
 features: []
-genres: []
+first_released_as_single: false
 key: bless-you-tony-orlando
 lyrics_url: https://www.azlyrics.com/lyrics/tonyorlandodawn/blessyou.html
 name: Bless You
@@ -55,8 +58,9 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '1961-10-30'
+release_year: 1961
+runtime: 132266
 ---
-
 Every time I faced the world
 I just had to cry
 I stood alone with no love of my own
@@ -87,6 +91,3 @@ Baby, bless you
 Bless every breath that you take
 Yeah, bless every move that you make so perfectly
 And bless your little heart for loving me
-
-
-

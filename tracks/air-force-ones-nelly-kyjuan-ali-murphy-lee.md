@@ -1,11 +1,14 @@
 ---
+album: Nellyville
 artists:
 - Nelly
+external_ids:
+  spotify: spotify:track:7kAFSrTIOiVZ0gnHBuAH3l
 features:
 - Kyjuan
 - Ali
 - Murphy Lee
-genres: []
+first_released_as_single: false
 key: air-force-ones-nelly-kyjuan-ali-murphy-lee
 lyrics_url: https://www.azlyrics.com/lyrics/nelly/airforceones.html
 name: Air Force Ones
@@ -90,9 +93,9 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '2003-03-22'
+release_year: 2002
+runtime: 304000
 ---
-
-
 Big boy.. Big boy.. Big boy
 
 
@@ -207,6 +210,3 @@ I love pumas and shell toes
 
 
 Big boy.. Big boy.. Big boy
-
-
-

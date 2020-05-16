@@ -1,8 +1,11 @@
 ---
+album: LIVING THINGS
 artists:
 - Linkin Park
+external_ids:
+  spotify: spotify:track:7oVEtyuv9NBmnytsCIsY5I
 features: []
-genres: []
+first_released_as_single: false
 key: burn-it-down-linkin-park
 lyrics_url: https://www.azlyrics.com/lyrics/linkinpark/burnitdown.html
 name: Burn It Down
@@ -99,8 +102,9 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '2012-10-06'
+release_year: 2012
+runtime: 230253
 ---
-
 The cycle repeated
 As explosions broke in the sky
 All that I needed
@@ -167,6 +171,3 @@ As your blazes burn
 
 We can't wait
 To burn it to the ground
-
-
-

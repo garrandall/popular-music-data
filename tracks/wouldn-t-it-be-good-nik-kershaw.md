@@ -1,8 +1,11 @@
 ---
+album: No Frills - Solo Acoustic
 artists:
 - Nik Kershaw
+external_ids:
+  spotify: spotify:track:34yZYzGEslpYGKU3VlGRDn
 features: []
-genres: []
+first_released_as_single: true
 key: wouldn-t-it-be-good-nik-kershaw
 lyrics_url: https://genius.com/Nik-kershaw-wouldnt-it-be-good-lyrics
 name: Wouldn't It Be Good
@@ -59,6 +62,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1984-06-23'
+release_year: 1984
+runtime: 290591
 ---
 I got it bad
 You don't know how bad I got it

@@ -1,8 +1,11 @@
 ---
+album: Little Deuce Coupe
 artists:
 - The Boys
+external_ids:
+  spotify: spotify:track:0dV9yGCK0sTyI5nbUyyH3c
 features: []
-genres: []
+first_released_as_single: false
 key: crazy-the-boys
 lyrics_url: https://genius.com/The-boys-r-b-group-crazy-lyrics
 name: Crazy
@@ -67,6 +70,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1990-12-01'
+release_year: 1963
+runtime: 169200
 ---
 1-900-909-BOYS (Yeah!)
 Girl, when you gon' dial my heart?

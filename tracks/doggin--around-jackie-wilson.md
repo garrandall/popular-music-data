@@ -1,8 +1,11 @@
 ---
+album: Jackie Sings The Blues
 artists:
 - Jackie Wilson
+external_ids:
+  spotify: spotify:track:1uXopyJyRjXsjFtlAXhMd4
 features: []
-genres: []
+first_released_as_single: false
 key: doggin--around-jackie-wilson
 lyrics_url: https://www.azlyrics.com/lyrics/jackiewilson/dogginaround.html
 name: Doggin' Around
@@ -71,8 +74,9 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '1960-07-18'
+release_year: 1960
+runtime: 171840
 ---
-
 You better stop, yeah, doggin' me around
 If don't you stop, yeah, I'm gonna put you down
 
@@ -98,6 +102,3 @@ If you don't stop, I'm gonna put you down
 Yes, put you down
 I don't want to do it, but I'll have to put you down
 I love you baby, but still, I'll put you down...
-
-
-

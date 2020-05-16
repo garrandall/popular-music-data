@@ -1,9 +1,12 @@
 ---
+album: And Then...
 artists:
 - Joe
+external_ids:
+  spotify: spotify:track:6EhWEvgOrOfqMcnuwIkbiL
 features:
 - G-Unit
-genres: []
+first_released_as_single: false
 key: ride-wit-u-joe-g-unit
 lyrics_url: https://www.azlyrics.com/lyrics/joe/ridewitu.html
 name: Ride Wit U
@@ -64,8 +67,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2004-06-12'
+release_year: 2003
+runtime: 251800
 ---
-
 Everybody say ride wit u, ride wit u, yea its 50 cent, yea and lloyd banks, yea, and young
 Buck, yea, and joe. G-Unit!
 
@@ -106,4 +110,3 @@ Nothings impossible the places where we can go (we can go anywhere baby)
 
 I just want to let you know that, that oo your so beautiful (your so beautiful) and that
 Nothings impossible the places where we can go (we can go anywhere baby)
-

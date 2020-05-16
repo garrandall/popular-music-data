@@ -1,8 +1,11 @@
 ---
+album: Open Our Eyes
 artists:
 - Earth, Wind & Fire
+external_ids:
+  spotify: spotify:track:1s52byVjQbhfNgnQSviZVa
 features: []
-genres: []
+first_released_as_single: false
 key: kalimba-story-earth-wind-fire
 lyrics_url: https://www.azlyrics.com/lyrics/earthwindandfire/kalimbastory.html
 name: Kalimba Story
@@ -43,8 +46,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1974-09-07'
+release_year: 1974
+runtime: 242200
 ---
-
 Saw it in a store, one day.
 Thought it might, make me play
 Future music all for you-

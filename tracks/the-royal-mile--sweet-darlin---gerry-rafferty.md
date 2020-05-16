@@ -1,8 +1,11 @@
 ---
+album: Snakes And Ladders
 artists:
 - Gerry Rafferty
+external_ids:
+  spotify: spotify:track:6nBtDiGziM7AxAKQza6h3a
 features: []
-genres: []
+first_released_as_single: false
 key: the-royal-mile--sweet-darlin---gerry-rafferty
 lyrics_url: https://www.azlyrics.com/lyrics/gerryrafferty/theroyalmile.html
 name: The Royal Mile (Sweet Darlin')
@@ -39,8 +42,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1980-09-06'
+release_year: 1980
+runtime: 228600
 ---
-
 I remember the sound of the passing train
 As it rolled through the night in the pouring rain
 And the touch of a hand and the way she said: 'Goodbye'.
@@ -72,6 +76,3 @@ And the touch of a hand and the way she said: 'Goodbye'.
 What can I do, sweet darlin'? I don't want to go away
 Looking at you, sweet darlin', I know I want to stay
 What can I do, sweet darlin'?
-
-
-

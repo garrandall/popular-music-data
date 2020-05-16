@@ -1,8 +1,11 @@
 ---
+album: The Pointer Sisters
 artists:
 - The Pointer Sisters
+external_ids:
+  spotify: spotify:track:5cfCiy2vEqsInb0m2SCJd9
 features: []
-genres: []
+first_released_as_single: false
 key: yes-we-can-can-the-pointer-sisters
 lyrics_url: https://www.azlyrics.com/lyrics/pointersisters/yeswecancan.html
 name: Yes We Can Can
@@ -71,8 +74,9 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1973-12-01'
+release_year: 1973
+runtime: 361600
 ---
-
 Now's the time for all good men
 To get together with one another
 We got to iron out our problems
@@ -220,6 +224,3 @@ If we want it, yes, we can, can
 
 I know we can make it
 I know darn well, we can work it out
-
-
-

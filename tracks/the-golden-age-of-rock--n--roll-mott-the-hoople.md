@@ -1,8 +1,11 @@
 ---
+album: The Hoople
 artists:
 - Mott The Hoople
+external_ids:
+  spotify: spotify:track:7Aqbar4xmRyD5CnKLgnVZs
 features: []
-genres: []
+first_released_as_single: false
 key: the-golden-age-of-rock--n--roll-mott-the-hoople
 lyrics_url: https://genius.com/Mott-the-hoople-the-golden-age-of-rock-n-roll-lyrics
 name: The Golden Age Of Rock 'n' Roll
@@ -15,6 +18,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1974-06-15'
+release_year: 1972
+runtime: 204040
 ---
 Ladies and Gentlemen, the golden age of rock and roll...
 

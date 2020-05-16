@@ -1,8 +1,11 @@
 ---
+album: The Age Of Aquarius
 artists:
 - The 5th Dimension
+external_ids:
+  spotify: spotify:track:56hMbwYaOxLF7PcOPGimbI
 features: []
-genres: []
+first_released_as_single: false
 key: workin--on-a-groovy-thing-the-5th-dimension
 lyrics_url: https://www.azlyrics.com/lyrics/5thdimension/workinonagroovything.html
 name: Workin' On A Groovy Thing
@@ -47,8 +50,9 @@ rankings:
   rank: 29
   ranking_list: Billboard Hot 100
   start_date: '1969-09-20'
+release_year: 1969
+runtime: 190240
 ---
-
 When I saw you I knew that
 I was gonna love you
 And everyday I thought
@@ -91,6 +95,3 @@ Let's not rush in, we'll take it slow
 
 Workin' on a groovy thing, baby
 Workin' on a groovy thing
-
-
-

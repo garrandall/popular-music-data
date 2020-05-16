@@ -1,8 +1,11 @@
 ---
+album: Say Wonderful Things / Ring-A-Ding Girl
 artists:
 - Ronnie Carroll
+external_ids:
+  spotify: spotify:track:4q0zgBnf0eVPFCodVvDeFh
 features: []
-genres: []
+first_released_as_single: true
 key: say-wonderful-things-ronnie-carroll
 lyrics_url: https://www.musixmatch.com/lyrics/Ronnie-Carroll/Say-Wonderful-Things
 name: Say Wonderful Things
@@ -23,6 +26,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1963-06-29'
+release_year: 1963
+runtime: 154240
 ---
 Say wonderful things to me
 I think you're wonderful too

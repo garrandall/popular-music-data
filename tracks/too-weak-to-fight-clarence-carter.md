@@ -1,8 +1,11 @@
 ---
+album: The Dynamic Clarence Carter
 artists:
 - Clarence Carter
+external_ids:
+  spotify: spotify:track:2cGOGVV115VFgJrF3QTO20
 features: []
-genres: []
+first_released_as_single: false
 key: too-weak-to-fight-clarence-carter
 lyrics_url: https://genius.com/Clarence-carter-too-weak-to-fight-lyrics
 name: Too Weak To Fight
@@ -67,6 +70,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1969-02-15'
+release_year: 1968
+runtime: 138560
 ---
 There is something, baby, about you
 That's really attracting me, yeah

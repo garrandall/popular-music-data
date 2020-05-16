@@ -1,8 +1,11 @@
 ---
+album: Bandas Sonoras
 artists:
 - Joe Cocker And Jennifer Warnes
+external_ids:
+  spotify: spotify:track:503q1CmmV9YJDjfvbtcWx9
 features: []
-genres: []
+first_released_as_single: false
 key: up-where-we-belong-joe-cocker-and-jennifer-warnes
 lyrics_url: https://genius.com/Joe-cocker-and-jennifer-warnes-up-where-we-belong-lyrics
 name: Up Where We Belong
@@ -99,6 +102,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1983-01-22'
+release_year: 1982
+runtime: 238866
 ---
 Who knows what tomorrow brings
 In a world few hearts survive

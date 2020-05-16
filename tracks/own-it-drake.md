@@ -1,8 +1,11 @@
 ---
+album: Nothing Was The Same
 artists:
 - Drake
+external_ids:
+  spotify: spotify:track:7pjJBo6DULg6YK66PA8v7r
 features: []
-genres: []
+first_released_as_single: false
 key: own-it-drake
 lyrics_url: https://genius.com/Drake-own-it-lyrics
 name: Own It
@@ -11,6 +14,8 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '2013-10-12'
+release_year: 2013
+runtime: 251973
 ---
 Own it
 It's yours

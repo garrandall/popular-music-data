@@ -1,8 +1,11 @@
 ---
+album: "The Best of M\xFAsica Disco, Vol. 2"
 artists:
 - John Travolta
+external_ids:
+  spotify: spotify:track:1h3M5bdBAxORssb0IC3EPc
 features: []
-genres: []
+first_released_as_single: false
 key: greased-lightnin--john-travolta
 lyrics_url: https://genius.com/John-travolta-greased-lightnin-lyrics
 name: Greased Lightnin'
@@ -39,6 +42,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1978-11-18'
+release_year: 1978
+runtime: 192760
 ---
 Why, this car could be systematic
 Hydromatic, ultramatic

@@ -1,8 +1,11 @@
 ---
+album: The Best of the Drifters - 23 Super Hits
 artists:
 - The Drifters
+external_ids:
+  spotify: spotify:track:3oAsQfehRlHejETXMOdgkY
 features: []
-genres: []
+first_released_as_single: false
 key: some-kind-of-wonderful-the-drifters
 lyrics_url: https://genius.com/The-drifters-some-kind-of-wonderful-lyrics
 name: Some Kind Of Wonderful
@@ -51,6 +54,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1961-05-29'
+release_year: 1961
+runtime: 138226
 ---
 Wonderful wonderful
 

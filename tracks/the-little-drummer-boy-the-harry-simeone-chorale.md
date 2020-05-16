@@ -1,8 +1,11 @@
 ---
+album: The Little Drummer Boy
 artists:
 - The Harry Simeone Chorale
+external_ids:
+  spotify: spotify:track:0chxAqlZXGnUd691QrIkIR
 features: []
-genres: []
+first_released_as_single: false
 key: the-little-drummer-boy-the-harry-simeone-chorale
 lyrics_url: https://www.musixmatch.com/lyrics/Harry-Simeone-Chorale/The-Little-Drummer-Boy
 name: The Little Drummer Boy
@@ -119,6 +122,8 @@ rankings:
   rank: 28
   ranking_list: Billboard Hot 100
   start_date: '1962-12-29'
+release_year: 1958
+runtime: 203453
 ---
 Come, they told me
 (Pa-rum-pa-pa-pum)

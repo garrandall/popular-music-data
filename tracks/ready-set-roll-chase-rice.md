@@ -1,8 +1,11 @@
 ---
+album: Ignite the Night
 artists:
 - Chase Rice
+external_ids:
+  spotify: spotify:track:3rh2f6nqswpfDN3Ef6Bi5J
 features: []
-genres: []
+first_released_as_single: false
 key: ready-set-roll-chase-rice
 lyrics_url: https://genius.com/Chase-rice-ready-set-roll-lyrics
 name: Ready Set Roll
@@ -91,6 +94,8 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '2014-11-01'
+release_year: 2013
+runtime: 190587
 ---
 Damn, pretty girl you went and done it again
 You've gone and turned your sexy all the way up to 10

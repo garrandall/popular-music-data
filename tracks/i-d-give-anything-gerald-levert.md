@@ -1,8 +1,11 @@
 ---
+album: Groove On
 artists:
 - Gerald Levert
+external_ids:
+  spotify: spotify:track:0tsiwZw2VZOVQNB6AU7rUl
 features: []
-genres: []
+first_released_as_single: false
 key: i-d-give-anything-gerald-levert
 lyrics_url: https://genius.com/Gerald-levert-id-give-anything-lyrics
 name: I'd Give Anything
@@ -87,6 +90,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1994-12-17'
+release_year: 1994
+runtime: 248000
 ---
 I'm waiting
 For someone who could turn my life

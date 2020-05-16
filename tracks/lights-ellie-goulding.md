@@ -1,8 +1,11 @@
 ---
+album: Lights
 artists:
 - Ellie Goulding
+external_ids:
+  spotify: spotify:track:7gUpO6td4OOnu0Lf9vhcIV
 features: []
-genres: []
+first_released_as_single: false
 key: lights-ellie-goulding
 lyrics_url: https://genius.com/Ellie-goulding-lights-lyrics
 name: Lights
@@ -235,6 +238,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2013-02-02'
+release_year: 2010
+runtime: 211800
 ---
 I had a way then
 Losing it all on my own

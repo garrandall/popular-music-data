@@ -1,8 +1,11 @@
 ---
+album: Rock 'N Roll
 artists:
 - Frankie Lymon
+external_ids:
+  spotify: spotify:track:6VdJa3dGUSw7Ju141CYTJv
 features: []
-genres: []
+first_released_as_single: false
 key: little-bitty-pretty-one-frankie-lymon
 lyrics_url: https://genius.com/Frankie-lymon-little-bitty-pretty-one-lyrics
 name: Little Bitty Pretty One
@@ -23,6 +26,8 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '1960-08-29'
+release_year: 1958
+runtime: 160280
 ---
 Wa-wa-wa-wa-woah
 Woah oh oh woah woah woah 

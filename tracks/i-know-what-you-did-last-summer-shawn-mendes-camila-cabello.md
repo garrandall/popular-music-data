@@ -1,9 +1,12 @@
 ---
+album: Handwritten
 artists:
 - Shawn Mendes
 - Camila Cabello
+external_ids:
+  spotify: spotify:track:2GyA33q5rti5IxkMQemRDH
 features: []
-genres: []
+first_released_as_single: false
 key: i-know-what-you-did-last-summer-shawn-mendes-camila-cabello
 lyrics_url: https://www.azlyrics.com/lyrics/shawnmendes/iknowwhatyoudidlastsummer.html
 name: I Know What You Did Last Summer
@@ -88,9 +91,9 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2016-04-16'
+release_year: 2015
+runtime: 223853
 ---
-
-
 Ah
 Hey-ey
 Ah, ah
@@ -228,6 +231,3 @@ I know, I know, I know, I know, I know, I know, I know (ah-ah, ah-ah)
 I know, I know, I know, I know, I know, I know, I know (ah-ah, he-ey)
 I know, I know, I know, I know, I know, I know, I know (ah-ah, ah-ah)
 I know
-
-
-

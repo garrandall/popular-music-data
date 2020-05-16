@@ -1,8 +1,11 @@
 ---
+album: SweetSexySavage
 artists:
 - Kehlani
+external_ids:
+  spotify: spotify:track:3mfn2O8KHI7IW2lHemMSmA
 features: []
-genres: []
+first_released_as_single: false
 key: gangsta-kehlani
 lyrics_url: https://www.azlyrics.com/lyrics/kehlani/gangsta.html
 name: Gangsta
@@ -55,8 +58,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2016-11-26'
+release_year: 2016
+runtime: 169791
 ---
-
 I need a gangsta
 To love me better
 Than all the others do
@@ -92,6 +96,3 @@ Than all the others do (they do, they do, they do, oh, oh, oh)
 To always forgive me (always forgive me)
 Ride or die with me (ride or die with me)
 That's just what gangsters do (do, oh)
-
-
-

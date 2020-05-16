@@ -1,8 +1,11 @@
 ---
+album: Dancing On The Ceiling
 artists:
 - Lionel Richie
+external_ids:
+  spotify: spotify:track:17CPezzLWzvGfpZW6X8XT0
 features: []
-genres: []
+first_released_as_single: false
 key: say-you-say-me-lionel-richie
 lyrics_url: https://genius.com/Lionel-richie-say-you-say-me-lyrics
 name: Say You Say Me
@@ -87,6 +90,8 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '1986-03-22'
+release_year: 1985
+runtime: 241066
 ---
 Say you, say me
 Say it for always, that's the way it should be

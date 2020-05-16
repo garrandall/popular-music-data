@@ -1,8 +1,11 @@
 ---
+album: Just Once In My Life
 artists:
 - The Righteous Brothers
+external_ids:
+  spotify: spotify:track:3Qg7WE98qRezh4Jq9fCKr8
 features: []
-genres: []
+first_released_as_single: false
 key: just-once-in-my-life-the-righteous-brothers
 lyrics_url: https://www.azlyrics.com/lyrics/righteousbrothers/justonceinmylife.html
 name: Just Once In My Life
@@ -51,8 +54,9 @@ rankings:
   rank: 33
   ranking_list: Billboard Hot 100
   start_date: '1965-06-19'
+release_year: 1965
+runtime: 227013
 ---
-
 There's a lot of things I want
 A lot of things that I'd like to be
 But girl I don't forsee a rags to riches story for me
@@ -100,6 +104,3 @@ Just once in my life let me get what I want,
 Girl don't let me down;
 Just once in my life let me hold onto
 A good thing I've found, don't let me down...
-
-
-

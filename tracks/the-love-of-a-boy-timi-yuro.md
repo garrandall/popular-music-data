@@ -1,8 +1,11 @@
 ---
+album: What's A Matter Baby
 artists:
 - Timi Yuro
+external_ids:
+  spotify: spotify:track:4TYGRmJKJFJrxDubfzsBf0
 features: []
-genres: []
+first_released_as_single: false
 key: the-love-of-a-boy-timi-yuro
 lyrics_url: https://www.musixmatch.com/lyrics/Timi-Yuro/The-Love-of-a-Boy
 name: The Love Of A Boy
@@ -39,6 +42,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1963-01-19'
+release_year: 1962
+runtime: 153333
 ---
 The love of a boy
 Can change a girl

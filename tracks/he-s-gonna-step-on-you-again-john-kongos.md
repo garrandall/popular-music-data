@@ -1,8 +1,11 @@
 ---
+album: Kongos
 artists:
 - John Kongos
+external_ids:
+  spotify: spotify:track:6oNjDtBcSSTC2Zuaa6pTXY
 features: []
-genres: []
+first_released_as_single: false
 key: he-s-gonna-step-on-you-again-john-kongos
 lyrics_url: https://genius.com/John-kongos-hes-gonna-step-on-you-again-lyrics
 name: He's Gonna Step On You Again
@@ -35,6 +38,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1971-08-21'
+release_year: 1971
+runtime: 264266
 ---
 (He's gonna step on you again)
 (He's gonna step on you again)

@@ -1,8 +1,11 @@
 ---
+album: Rhyme & Reason
 artists:
 - Missing Persons
+external_ids:
+  spotify: spotify:track:33AhBdC2eSMwsrtlTM38Nj
 features: []
-genres: []
+first_released_as_single: false
 key: give-missing-persons
 lyrics_url: https://genius.com/Missing-persons-give-lyrics
 name: Give
@@ -31,6 +34,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1984-04-21'
+release_year: 1984
+runtime: 293466
 ---
 When's the last time you really touched someone
 How did it feel

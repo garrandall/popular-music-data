@@ -1,8 +1,11 @@
 ---
+album: Hell Freezes Over (Remaster 2018)
 artists:
 - Eagles
+external_ids:
+  spotify: spotify:track:3KSFUTxxJ2XqyrQkNwY7y8
 features: []
-genres: []
+first_released_as_single: false
 key: get-over-it-eagles
 lyrics_url: https://genius.com/Eagles-get-over-it-lyrics
 name: Get Over It
@@ -63,6 +66,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1995-01-28'
+release_year: 1994
+runtime: 211720
 ---
 I turn on the tube and what do I see?
 A whole lot of people crying, "Don't blame me"

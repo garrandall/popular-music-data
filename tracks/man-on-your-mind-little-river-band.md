@@ -1,8 +1,11 @@
 ---
+album: Time Exposure
 artists:
 - Little River Band
+external_ids:
+  spotify: spotify:track:4LzdgN6x9EHyE8MDjrq4lq
 features: []
-genres: []
+first_released_as_single: false
 key: man-on-your-mind-little-river-band
 lyrics_url: https://www.azlyrics.com/lyrics/littleriverband/manonyourmind.html
 name: Man On Your Mind
@@ -71,8 +74,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1982-07-17'
+release_year: 1981
+runtime: 256839
 ---
-
 I can feel it floating away
 Inch by inch
 Day by day
@@ -146,6 +150,3 @@ You've got a man on your mind
 You've got a weight on your shoulders
 How you ever gonna find the words to say
 Goodbye
-
-
-

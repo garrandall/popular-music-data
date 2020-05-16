@@ -1,8 +1,11 @@
 ---
+album: Blue Marble
 artists:
 - Sagittarius
+external_ids:
+  spotify: spotify:track:7xxHlrlNMFC6ApQCUzGAhS
 features: []
-genres: []
+first_released_as_single: false
 key: in-my-room-sagittarius
 lyrics_url: https://www.musixmatch.com/lyrics/Sagittarius/In-My-Room
 name: In My Room
@@ -15,6 +18,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1969-08-09'
+release_year: 1969
+runtime: 130826
 ---
 There's a world where I can go
 And tell my secrets to

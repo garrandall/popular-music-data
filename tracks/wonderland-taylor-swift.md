@@ -1,8 +1,11 @@
 ---
+album: '1989'
 artists:
 - Taylor Swift
+external_ids:
+  spotify: spotify:track:6iWMI5oOhWrDbLbjmwTWFq
 features: []
-genres: []
+first_released_as_single: false
 key: wonderland-taylor-swift
 lyrics_url: https://www.azlyrics.com/lyrics/taylorswift/wonderland.html
 name: Wonderland
@@ -11,8 +14,9 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '2015-03-07'
+release_year: 2014
+runtime: 245560
 ---
-
 Flashing lights and we
 Took a wrong turn and we
 Fell down a rabbit hole.
@@ -111,6 +115,3 @@ We found wonderland
 You and I got lost in it (wonderland)
 And life was never worse but never better
 In wonderland
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Who's Making Love...
 artists:
 - Johnnie Taylor
+external_ids:
+  spotify: spotify:track:2DxX9x7Cmywikp14l1YUdk
 features: []
-genres: []
+first_released_as_single: false
 key: who-s-making-love-johnnie-taylor
 lyrics_url: https://genius.com/Johnnie-taylor-whos-making-love-lyrics
 name: Who's Making Love
@@ -63,6 +66,8 @@ rankings:
   rank: 27
   ranking_list: Billboard Hot 100
   start_date: '1969-01-25'
+release_year: 1968
+runtime: 166066
 ---
 All you fellows, gather round me
 And let me give you some good advice

@@ -1,8 +1,11 @@
 ---
+album: Cowboy's Back In Town
 artists:
 - Trace Adkins
+external_ids:
+  spotify: spotify:track:07A3gDZJo7rKavXtgEXZY9
 features: []
-genres: []
+first_released_as_single: false
 key: this-ain-t-no-love-song-trace-adkins
 lyrics_url: https://www.azlyrics.com/lyrics/traceadkins/thisaintnolovesong.html
 name: This Ain't No Love Song
@@ -31,8 +34,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2010-12-04'
+release_year: 2010
+runtime: 200680
 ---
-
 Well my heart didn't skip a beat 
 When I saw you standing there 
 Looking like some kind a angel 
@@ -76,6 +80,3 @@ So baby if you want you can sing along
 But this ain't no love song, love song, love song 
 
 This ain't no love song
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: The Gap Band IV
 artists:
 - The Gap Band
+external_ids:
+  spotify: spotify:track:1VKPiQJnV15flF5B3zeocD
 features: []
-genres: []
+first_released_as_single: false
 key: you-dropped-a-bomb-on-me-the-gap-band
 lyrics_url: https://www.azlyrics.com/lyrics/gapband/youdroppedabombonme.html
 name: You Dropped A Bomb On Me
@@ -59,8 +62,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1982-11-06'
+release_year: 1982
+runtime: 312906
 ---
-
 You were the girl that changed my world
 You were the girl for me
 You lit the fuse, I stand accused
@@ -160,6 +164,3 @@ You turned me out, then you turned me on
 You dropped a bomb on me
 You turned me out, then you turned me on
 You dropped a bomb on me
-
-
-

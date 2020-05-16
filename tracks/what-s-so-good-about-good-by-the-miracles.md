@@ -1,8 +1,11 @@
 ---
+album: Recorded Live On Stage
 artists:
 - The Miracles
+external_ids:
+  spotify: spotify:track:3vv0gCQFG1QP899LFV8F1t
 features: []
-genres: []
+first_released_as_single: false
 key: what-s-so-good-about-good-by-the-miracles
 lyrics_url: https://genius.com/The-miracles-whats-so-good-about-goodbye-lyrics
 name: What's So Good About Good-by
@@ -47,6 +50,8 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1962-03-17'
+release_year: 1962
+runtime: 141586
 ---
 What's so good about goodbye?
 All it does is make-a you cry

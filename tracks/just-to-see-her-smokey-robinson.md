@@ -1,8 +1,11 @@
 ---
+album: One Heartbeat
 artists:
 - Smokey Robinson
+external_ids:
+  spotify: spotify:track:7LOYcC6phKAVOckgmVZJJT
 features: []
-genres: []
+first_released_as_single: false
 key: just-to-see-her-smokey-robinson
 lyrics_url: https://www.azlyrics.com/lyrics/smokeyrobinson/justtoseeher.html
 name: Just To See Her
@@ -91,8 +94,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1987-08-15'
+release_year: 1987
+runtime: 244026
 ---
-
 Just to see her
 Just to touch her
 Just to hold her in my arms again
@@ -166,6 +170,3 @@ There's nothin' I wouldn't do
 Oh, don't you know it's true?
 (Just to see her)
 If I could only see her again
-
-
-

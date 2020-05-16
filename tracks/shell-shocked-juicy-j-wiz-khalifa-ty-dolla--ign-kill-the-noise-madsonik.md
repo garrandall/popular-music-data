@@ -1,12 +1,15 @@
 ---
+album: Shell Shocked
 artists:
 - Juicy J
 - Wiz Khalifa
 - Ty Dolla $ign
+external_ids:
+  spotify: spotify:track:7zBQRGpYImAdIZc97FNj3V
 features:
 - Kill The Noise
 - Madsonik
-genres: []
+first_released_as_single: true
 key: shell-shocked-juicy-j-wiz-khalifa-ty-dolla--ign-kill-the-noise-madsonik
 lyrics_url: https://genius.com/Juicy-j-shell-shocked-lyrics
 name: Shell Shocked
@@ -23,6 +26,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2015-01-10'
+release_year: 2014
+runtime: 206566
 ---
 Knock, knock, you about to get shell shocked
 Knock, knock, you about to get shell shocked

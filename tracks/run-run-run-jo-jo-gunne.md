@@ -1,8 +1,11 @@
 ---
+album: Jo Jo Gunne
 artists:
 - Jo Jo Gunne
+external_ids:
+  spotify: spotify:track:3pHx8jI1ZBVYcMG2QCZaKG
 features: []
-genres: []
+first_released_as_single: false
 key: run-run-run-jo-jo-gunne
 lyrics_url: https://genius.com/Jo-jo-gunne-run-run-run-lyrics
 name: Run Run Run
@@ -51,6 +54,8 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '1972-05-27'
+release_year: 1972
+runtime: 155266
 ---
 Oh-ohooh
 Oh-ohoohhoh

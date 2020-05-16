@@ -1,8 +1,11 @@
 ---
+album: 'Gwp: NYC: TLC Vol 2'
 artists:
 - Debbie Taylor
+external_ids:
+  spotify: spotify:track:7AObRM71h6rs2EXRWm8qHu
 features: []
-genres: []
+first_released_as_single: false
 key: never-gonna-let-him-know-debbie-taylor
 lyrics_url: https://www.musixmatch.com/lyrics/Debbie-Taylor/Never-Gonna-Let-Him-Know
 name: Never Gonna Let Him Know
@@ -31,6 +34,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1969-05-31'
+release_year: 1969
+runtime: 176180
 ---
 Never gonna let him know,never gonna let him,
 Never gonna let him, never gonna let him

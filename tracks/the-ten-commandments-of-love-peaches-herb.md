@@ -1,9 +1,12 @@
 ---
+album: 'The Best Of Peaches & Herb: Love Is Strange'
 artists:
 - Peaches
 - Herb
+external_ids:
+  spotify: spotify:track:2fIcSAsr05K5z2LeaMhE9g
 features: []
-genres: []
+first_released_as_single: false
 key: the-ten-commandments-of-love-peaches-herb
 lyrics_url: https://www.musixmatch.com/lyrics/Peaches-feat-Herb/The-Ten-Commandments-of-Love
 name: The Ten Commandments Of Love
@@ -28,6 +31,8 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '1968-03-23'
+release_year: 1966
+runtime: 214733
 ---
 Thou shalt never love another
 And stand by me all the while

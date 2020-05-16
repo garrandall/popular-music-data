@@ -1,8 +1,11 @@
 ---
+album: Dedicated To You
 artists:
 - The "5" Royales
+external_ids:
+  spotify: spotify:track:0p7mtSBkoZY14zR7QqUtid
 features: []
-genres: []
+first_released_as_single: false
 key: dedicated-to-the-one-i-love-the--5--royales
 lyrics_url: https://genius.com/The-5-royales-dedicated-to-the-one-i-love-lyrics
 name: Dedicated To The One I Love
@@ -23,6 +26,8 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1961-02-13'
+release_year: 1961
+runtime: 165173
 ---
 This is dedicated to the one I love
 

@@ -1,9 +1,12 @@
 ---
+album: R.O.O.T.S. (Route of Overcoming the Struggle)
 artists:
 - Flo Rida
+external_ids:
+  spotify: spotify:track:20kw3W8x10stw2Nwx3LicE
 features:
 - Wynter
-genres: []
+first_released_as_single: false
 key: sugar-flo-rida-wynter
 lyrics_url: https://www.azlyrics.com/lyrics/florida/sugar.html
 name: Sugar
@@ -80,8 +83,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2009-08-01'
+release_year: 2009
+runtime: 223333
 ---
-
 Da double dee double di
 My lips like sugar
 This candy got you sprung
@@ -172,6 +176,3 @@ Da double dee double di
 I'm sweet like
 Da double dee double di
 Sugar
-
-
-

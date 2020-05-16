@@ -1,8 +1,11 @@
 ---
+album: Blood Sugar Sex Magik
 artists:
 - Red Hot Chili Peppers
+external_ids:
+  spotify: spotify:track:3d9DChrdc6BOeFsbrZ3Is0
 features: []
-genres: []
+first_released_as_single: false
 key: under-the-bridge-red-hot-chili-peppers
 lyrics_url: https://www.azlyrics.com/lyrics/redhotchilipeppers/underthebridge.html
 name: Under The Bridge
@@ -111,8 +114,9 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1992-09-26'
+release_year: 1991
+runtime: 264306
 ---
-
 Sometimes I feel
 Like I don't have a partner
 Sometimes I feel
@@ -166,6 +170,3 @@ Under the bridge downtown
 Forgot about my love
 Under the bridge downtown
 I gave my life away
-
-
-

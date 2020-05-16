@@ -1,8 +1,11 @@
 ---
+album: The Best Of Jack Jones
 artists:
 - Jack Jones
+external_ids:
+  spotify: spotify:track:0SbZEfOvogkUI7AmZHbR6s
 features: []
-genres: []
+first_released_as_single: false
 key: our-song-jack-jones
 lyrics_url: https://www.musixmatch.com/lyrics/Jack-Jones/Our-Song
 name: Our Song
@@ -15,6 +18,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1967-09-16'
+release_year: 1967
+runtime: 174226
 ---
 Our song - we used to call it our song
 It helped us say hello once

@@ -1,9 +1,12 @@
 ---
+album: There's A Riot Goin' On
 artists:
 - Sly
 - The Family Stone
+external_ids:
+  spotify: spotify:track:5XTiyBLVLjqhAGRcJBUC5F
 features: []
-genres: []
+first_released_as_single: false
 key: smilin--sly-the-family-stone
 lyrics_url: https://www.azlyrics.com/lyrics/slythefamilystone/youcaughtmesmilin.html
 name: Smilin'
@@ -36,8 +39,9 @@ rankings:
   rank: 52
   ranking_list: Billboard Hot 100
   start_date: '1972-06-03'
+release_year: 1971
+runtime: 174493
 ---
-
 You caught me smilin' again.
 You caught me smilin' again.
 Hangin' loose
@@ -56,6 +60,3 @@ I'll be around to carry on!
 Hey, you caught me smilin' again.
 You caught me smilin' again.
 In my pain I'll be sane to take your hand.
-
-
-

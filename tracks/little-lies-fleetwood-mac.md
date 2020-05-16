@@ -1,8 +1,11 @@
 ---
+album: Tango In the Night
 artists:
 - Fleetwood Mac
+external_ids:
+  spotify: spotify:track:4CoSCPlKNrWli7E5kFtbcl
 features: []
-genres: []
+first_released_as_single: false
 key: little-lies-fleetwood-mac
 lyrics_url: https://genius.com/Fleetwood-mac-little-lies-lyrics
 name: Little Lies
@@ -91,6 +94,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1988-01-16'
+release_year: 1987
+runtime: 221053
 ---
 ​
 

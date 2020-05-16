@@ -1,8 +1,11 @@
 ---
+album: 'Photograph: Double Exposure'
 artists:
 - Melanie
+external_ids:
+  spotify: spotify:track:5ygs8d9dvkeD8Gk16ziYze
 features: []
-genres: []
+first_released_as_single: false
 key: ruby-tuesday-melanie
 lyrics_url: https://www.azlyrics.com/lyrics/melanie/rubytuesday.html
 name: Ruby Tuesday
@@ -35,8 +38,9 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1971-01-16'
+release_year: 1970
+runtime: 229760
 ---
-
 She would never say where she came from
 Yesterday don't matter 'cause it's gone
 While the sun is bright or in the darkest night
@@ -81,6 +85,3 @@ Goodbye, Ruby Tuesday
 Goodbye, Ruby Tuesday
 Goodbye, Ruby Tuesday
 Goodbye, Ruby Tuesday
-
-
-

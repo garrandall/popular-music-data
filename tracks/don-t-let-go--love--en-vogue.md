@@ -1,8 +1,11 @@
 ---
+album: Set It Off (Music From The New Line Cinema Motion Picture)
 artists:
 - En Vogue
+external_ids:
+  spotify: spotify:track:2DuXk4Erpj3C9JpwwWrytE
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-let-go--love--en-vogue
 lyrics_url: https://genius.com/En-vogue-dont-let-go-love-lyrics
 name: Don't Let Go (Love)
@@ -147,6 +150,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1997-07-05'
+release_year: 1996
+runtime: 291906
 ---
 Huhhh uhh yeah yeahh yeahh
 Oh oh oh oh oh

@@ -1,8 +1,11 @@
 ---
+album: Based On A True Story
 artists:
 - Mack 10
+external_ids:
+  spotify: spotify:track:0Bbd5inN2znpGQkxZbqmmU
 features: []
-genres: []
+first_released_as_single: false
 key: backyard-boogie-mack-10
 lyrics_url: https://www.azlyrics.com/lyrics/mack10/backyardboogie.html
 name: Backyard Boogie
@@ -87,8 +90,9 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1998-01-10'
+release_year: 1997
+runtime: 259181
 ---
-
 Yeah, yeah, yeah
 
 
@@ -172,6 +176,3 @@ Niggas run out and get yo' cookies
 Gangstas don't dance we boogie
 Mack 10 ain't no motherfucker rookie
 Backyard boogie oogie oofie
-
-
-

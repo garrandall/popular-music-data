@@ -1,8 +1,11 @@
 ---
+album: Ya! Ya!
 artists:
 - Lee Dorsey
+external_ids:
+  spotify: spotify:track:5svTh60KUtYG9Ti49pSsve
 features: []
-genres: []
+first_released_as_single: false
 key: do-re-mi-lee-dorsey
 lyrics_url: https://genius.com/Lee-dorsey-do-re-mi-lyrics
 name: Do-Re-Mi
@@ -43,6 +46,8 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '1962-02-17'
+release_year: 1961
+runtime: 115805
 ---
 Do-re-mi-fa-so-la-ti
 My over there was passing me
@@ -64,8 +69,6 @@ I may sound crazy, but it's so fine
 Tell me pretty baby you're goin' high
 Do-re-mi-fa-so-la-ti
 Forget about the do-re & think about me
-
-(instrumental)
 
 Do-re-mi-fa-so-la-ti
 Let's get together & make whoopee

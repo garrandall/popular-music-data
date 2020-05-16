@@ -1,8 +1,11 @@
 ---
+album: Chris Cagle
 artists:
 - Chris Cagle
+external_ids:
+  spotify: spotify:track:2I4wcoJP7bT7PceIag67rn
 features: []
-genres: []
+first_released_as_single: false
 key: what-a-beautiful-day-chris-cagle
 lyrics_url: https://www.azlyrics.com/lyrics/chriscagle/whatabeautifulday.html
 name: What A Beautiful Day
@@ -87,8 +90,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2003-08-09'
+release_year: 2003
+runtime: 224786
 ---
-
 Day one
 I stumbled through hello on 5th avenue
 Day two
@@ -123,6 +127,3 @@ Yeah, here's to you and me
 
 Day one
 I thank god I said hello on 5th avenue
-
-
-

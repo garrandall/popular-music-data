@@ -1,8 +1,11 @@
 ---
+album: Hello Nasty (Deluxe Version/Remastered 2009)
 artists:
 - Beastie Boys
+external_ids:
+  spotify: spotify:track:2deLU6K2PfKKe6lzbffTiZ
 features: []
-genres: []
+first_released_as_single: true
 key: intergalactic-beastie-boys
 lyrics_url: https://genius.com/Beastie-boys-intergalactic-lyrics
 name: Intergalactic
@@ -79,6 +82,8 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '1998-11-28'
+release_year: 1998
+runtime: 227600
 ---
 Intergalactic planetary, planetary intergalactic
 Intergalactic planetary, planetary intergalactic

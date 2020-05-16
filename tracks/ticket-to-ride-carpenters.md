@@ -1,8 +1,11 @@
 ---
+album: Ticket To Ride
 artists:
 - Carpenters
+external_ids:
+  spotify: spotify:track:6znamKG8zGBhc8IjocQ5zY
 features: []
-genres: []
+first_released_as_single: false
 key: ticket-to-ride-carpenters
 lyrics_url: https://www.azlyrics.com/lyrics/carpenters/tickettoride.html
 name: Ticket To Ride
@@ -55,8 +58,9 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1970-05-16'
+release_year: 1969
+runtime: 252773
 ---
-
 I think I'm gonna be sad
 I think it's today
 Yeh
@@ -98,6 +102,3 @@ He's got a ticket to ride
 He's got a ticket to ride
 and he don't care
 he don't care.
-
-
-

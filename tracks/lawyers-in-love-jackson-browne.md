@@ -1,8 +1,11 @@
 ---
+album: Lawyers in Love
 artists:
 - Jackson Browne
+external_ids:
+  spotify: spotify:track:26lCNg8WekUoDbLhEbUyXZ
 features: []
-genres: []
+first_released_as_single: false
 key: lawyers-in-love-jackson-browne
 lyrics_url: https://www.azlyrics.com/lyrics/jacksonbrowne/lawyersinlove.html
 name: Lawyers In Love
@@ -67,8 +70,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1983-10-15'
+release_year: 1983
+runtime: 259746
 ---
-
 I can't keep up with what's been going on
 I think my heart must just be slowing down
 Among the human beings in their designer jeans
@@ -86,6 +90,3 @@ The Russians escaped while we weren't watching them, like Russians will
 Now we've got all this room, we've even got the moon
 And I hear the U.S.S.R. will be open soon
 As vacation land for lawyers in love
-
-
-

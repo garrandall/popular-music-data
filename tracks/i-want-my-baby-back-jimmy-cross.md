@@ -1,8 +1,11 @@
 ---
+album: "U.S. Smash Hit Records The \u201860s"
 artists:
 - Jimmy Cross
+external_ids:
+  spotify: spotify:track:5eB92pGxhuDFZGtfD6tWvj
 features: []
-genres: []
+first_released_as_single: false
 key: i-want-my-baby-back-jimmy-cross
 lyrics_url: https://genius.com/Jimmy-cross-i-want-my-baby-back-lyrics
 name: I Want My Baby Back
@@ -19,6 +22,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1965-02-13'
+release_year: 1965
+runtime: 202560
 ---
 I want my Baby back
 Got to have my Baby back

@@ -1,8 +1,11 @@
 ---
+album: Welcome Back
 artists:
 - John Sebastian
+external_ids:
+  spotify: spotify:track:2pS6zWWQCpO0IVEBIbzJh8
 features: []
-genres: []
+first_released_as_single: false
 key: welcome-back-john-sebastian
 lyrics_url: https://genius.com/John-sebastian-welcome-back-lyrics
 name: Welcome Back
@@ -63,6 +66,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1976-06-26'
+release_year: 1976
+runtime: 170893
 ---
 Welcome back
 Your dreams were your ticket out

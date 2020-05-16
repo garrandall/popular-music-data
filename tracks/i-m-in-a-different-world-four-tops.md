@@ -1,8 +1,11 @@
 ---
+album: Yesterday's Dreams
 artists:
 - Four Tops
+external_ids:
+  spotify: spotify:track:5fAXKjU9zMW60crqtXKFPz
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-in-a-different-world-four-tops
 lyrics_url: https://genius.com/The-four-tops-im-in-a-different-world-lyrics
 name: I'm In A Different World
@@ -31,6 +34,8 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '1968-11-09'
+release_year: 1968
+runtime: 182400
 ---
 In this world of ups and downs
 My dreams all fall through

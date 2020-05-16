@@ -1,9 +1,12 @@
 ---
+album: Happy Popcorn
 artists:
 - Teddy
 - The Twilights
+external_ids:
+  spotify: spotify:track:3uJj1t0OWMxbgFHLY5Zg5Y
 features: []
-genres: []
+first_released_as_single: false
 key: woman-is-a-man-s-best-friend-teddy-the-twilights
 lyrics_url: https://www.musixmatch.com/lyrics/Teddy-The-Twilights/Woman-Is-a-Man-s-Best-Friend
 name: Woman Is A Man's Best Friend
@@ -40,6 +43,8 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '1962-07-07'
+release_year: 1962
+runtime: 138560
 ---
 (A woman is a man's best friend)
 (A woman is a man's best friend)

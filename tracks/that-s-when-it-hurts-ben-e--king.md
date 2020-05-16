@@ -1,8 +1,11 @@
 ---
+album: The Ultimate Collection
 artists:
 - Ben E. King
+external_ids:
+  spotify: spotify:track:2hpumOs1fXt7nGj1OkG7TR
 features: []
-genres: []
+first_released_as_single: false
 key: that-s-when-it-hurts-ben-e--king
 lyrics_url: https://genius.com/Ben-e-king-thats-when-it-hurts-lyrics
 name: That's When It Hurts
@@ -35,6 +38,8 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '1964-05-16'
+release_year: 1964
+runtime: 187626
 ---
 That's when it hurts
 Oh, oh, yeah

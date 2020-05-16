@@ -1,9 +1,12 @@
 ---
+album: Aquarius
 artists:
 - Tinashe
+external_ids:
+  spotify: spotify:track:3jVtllWS5CFFWLQng8sKsr
 features:
 - ScHoolboy Q
-genres: []
+first_released_as_single: false
 key: 2-on-tinashe-schoolboy-q
 lyrics_url: https://genius.com/Tinashe-2-on-lyrics
 name: 2 On
@@ -104,6 +107,8 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '2014-11-01'
+release_year: 2014
+runtime: 227000
 ---
 Give me all that you got now
 Make you want me cause I'm hot now

@@ -1,8 +1,11 @@
 ---
+album: Stadium Arcadium
 artists:
 - Red Hot Chili Peppers
+external_ids:
+  spotify: spotify:track:0itNMuBHye9fu392b4e9oa
 features: []
-genres: []
+first_released_as_single: false
 key: tell-me-baby-red-hot-chili-peppers
 lyrics_url: https://genius.com/Red-hot-chili-peppers-tell-me-baby-lyrics
 name: Tell Me Baby
@@ -83,6 +86,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2007-01-20'
+release_year: 2006
+runtime: 247666
 ---
 They come from every state to find
 Some dreams were meant to be declined

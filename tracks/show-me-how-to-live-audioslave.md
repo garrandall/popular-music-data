@@ -1,8 +1,11 @@
 ---
+album: Audioslave
 artists:
 - Audioslave
+external_ids:
+  spotify: spotify:track:1Qdnvn4XlmZANCVy3XjrQo
 features: []
-genres: []
+first_released_as_single: false
 key: show-me-how-to-live-audioslave
 lyrics_url: https://www.azlyrics.com/lyrics/audioslave/showmehowtolive.html
 name: Show Me How To Live
@@ -87,8 +90,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2003-12-27'
+release_year: 2002
+runtime: 277840
 ---
-
 And with the early dawn
 Moving right along, I couldn't buy an eye-full of sleep
 And in the aching night under satellites, I was not received
@@ -117,6 +121,3 @@ Nail in my head, from my creator
 You gave me life, now show me how to live
 Show me how to live, show me how to live
 Show me how to live, show me how to live
-
-
-

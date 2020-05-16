@@ -1,8 +1,11 @@
 ---
+album: Culture
 artists:
 - Migos
+external_ids:
+  spotify: spotify:track:2eAlYgiFpUaAkU1xoCC9NI
 features: []
-genres: []
+first_released_as_single: true
 key: t-shirt-migos
 lyrics_url: https://genius.com/Migos-t-shirt-lyrics
 name: T-Shirt
@@ -107,6 +110,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2017-07-22'
+release_year: 2017
+runtime: 241510
 ---
 Nard & B
 TrenchWerk

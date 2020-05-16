@@ -1,8 +1,11 @@
 ---
+album: '30 Years Of Funk: 1969-1999 The Anthology'
 artists:
 - Grand Funk Railroad
+external_ids:
+  spotify: spotify:track:4qoNxXtVtNdRQWL2HNRE7K
 features: []
-genres: []
+first_released_as_single: false
 key: upsetter-grand-funk-railroad
 lyrics_url: https://www.azlyrics.com/lyrics/grandfunkrailroad/upsetter.html
 name: Upsetter
@@ -27,8 +30,9 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1972-05-27'
+release_year: 1972
+runtime: 269573
 ---
-
 She's a real upsetter
 Least she's tryin' to all of the time, yeah
 You know I just won't let her
@@ -60,6 +64,3 @@ Upsetter, I'd be better to die
 Upsetter
 Upsetter
 Upsetter
-
-
-

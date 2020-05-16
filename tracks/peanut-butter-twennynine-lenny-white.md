@@ -1,9 +1,12 @@
 ---
+album: Best Of Friends
 artists:
 - Twennynine
+external_ids:
+  spotify: spotify:track:1avLYHHR0AEDmZVbicpWpu
 features:
 - Lenny White
-genres: []
+first_released_as_single: false
 key: peanut-butter-twennynine-lenny-white
 lyrics_url: https://www.musixmatch.com/lyrics/Twennynine-Lenny-White/Peanut-Butter
 name: Peanut Butter
@@ -24,6 +27,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1980-02-23'
+release_year: 1979
+runtime: 217453
 ---
 If you're feeling hungry, Ain't got nothing to eat.
 Show me to the kitchen Peanut butter can't be beat.

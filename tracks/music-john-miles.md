@@ -1,8 +1,11 @@
 ---
+album: Live In Concert
 artists:
 - John Miles
+external_ids:
+  spotify: spotify:track:711BHJ4nErw7nPt3O5cP0z
 features: []
-genres: []
+first_released_as_single: false
 key: music-john-miles
 lyrics_url: https://genius.com/John-miles-music-lyrics
 name: Music
@@ -19,6 +22,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1976-05-29'
+release_year: 1976
+runtime: 366493
 ---
 Music was my first love
 And it will be my last

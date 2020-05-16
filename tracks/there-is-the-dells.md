@@ -1,8 +1,11 @@
 ---
+album: There Is
 artists:
 - The Dells
+external_ids:
+  spotify: spotify:track:3BlKmOLN4e6DP4fG9pGt48
 features: []
-genres: []
+first_released_as_single: false
 key: there-is-the-dells
 lyrics_url: https://genius.com/The-dells-there-is-lyrics
 name: There Is
@@ -51,6 +54,8 @@ rankings:
   rank: 36
   ranking_list: Billboard Hot 100
   start_date: '1968-03-30'
+release_year: 1968
+runtime: 215306
 ---
 (There is)
 (There is)

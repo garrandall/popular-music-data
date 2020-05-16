@@ -1,8 +1,11 @@
 ---
+album: Fly Like An Eagle
 artists:
 - Steve Miller
+external_ids:
+  spotify: spotify:track:4tHYQS17vHbcBZZNjMOEIR
 features: []
-genres: []
+first_released_as_single: false
 key: rock-n-me-steve-miller
 lyrics_url: https://genius.com/Steve-miller-band-rockn-me-lyrics
 name: Rock'n Me
@@ -79,6 +82,8 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1976-12-11'
+release_year: 1973
+runtime: 185400
 ---
 Well, I've been lookin' real hard
 And I'm tryin' to find a job

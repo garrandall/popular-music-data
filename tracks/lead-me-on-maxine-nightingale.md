@@ -1,8 +1,11 @@
 ---
+album: Lead Me On
 artists:
 - Maxine Nightingale
+external_ids:
+  spotify: spotify:track:6RXlKsUmQgykm0Qt9DANwF
 features: []
-genres: []
+first_released_as_single: false
 key: lead-me-on-maxine-nightingale
 lyrics_url: https://genius.com/Maxine-nightingale-lead-me-on-lyrics
 name: Lead Me On
@@ -99,6 +102,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1979-10-27'
+release_year: 1979
+runtime: 165706
 ---
 I have often heard you say
 You love me as a friend

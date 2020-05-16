@@ -1,8 +1,11 @@
 ---
+album: Martina
 artists:
 - Martina McBride
+external_ids:
+  spotify: spotify:track:01jlZ4UvMwJ0hPOZLsD1VO
 features: []
-genres: []
+first_released_as_single: false
 key: how-far-martina-mcbride
 lyrics_url: https://www.azlyrics.com/lyrics/martinamcbride/howfar.html
 name: How Far
@@ -39,8 +42,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2004-08-28'
+release_year: 2003
+runtime: 235266
 ---
-
 There's a boat, I could sail away
 There's the sky, I could catch a plane
 There's a train, there's the tracks
@@ -78,6 +82,3 @@ So I'm gonna walk away
 And it's up to you to say
 YeahI'm gonna walk away
 And it's up to you to say how far
-
-
-

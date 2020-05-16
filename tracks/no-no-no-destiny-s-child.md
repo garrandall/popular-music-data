@@ -1,8 +1,11 @@
 ---
+album: Destiny's Child
 artists:
 - Destiny's Child
+external_ids:
+  spotify: spotify:track:5kHgrRO3hMDPehtH9VhYQc
 features: []
-genres: []
+first_released_as_single: false
 key: no-no-no-destiny-s-child
 lyrics_url: https://genius.com/Destinys-child-no-no-no-part-2-lyrics
 name: No No No
@@ -147,6 +150,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1998-07-25'
+release_year: 1997
+runtime: 207466
 ---
 This is the remix
 The jeeps pump this new remix (Uh-huh)

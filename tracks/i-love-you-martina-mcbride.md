@@ -1,8 +1,11 @@
 ---
+album: Emotion
 artists:
 - Martina McBride
+external_ids:
+  spotify: spotify:track:6hvREHiu0i7PJv7XUHeo5w
 features: []
-genres: []
+first_released_as_single: false
 key: i-love-you-martina-mcbride
 lyrics_url: https://genius.com/Martina-mcbride-i-love-you-lyrics
 name: I Love You
@@ -87,6 +90,8 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '2000-01-08'
+release_year: 1999
+runtime: 172186
 ---
 Yeah
 

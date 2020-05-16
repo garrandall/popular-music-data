@@ -1,8 +1,11 @@
 ---
+album: Vicki Sue Robinson
 artists:
 - Vicki Sue Robinson
+external_ids:
+  spotify: spotify:track:4doXgewLPFbx3W5WAcDITC
 features: []
-genres: []
+first_released_as_single: false
 key: daylight-vicki-sue-robinson
 lyrics_url: https://www.musixmatch.com/lyrics/Vicki-Sue-Robinson/Daylight
 name: Daylight
@@ -35,6 +38,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1976-11-13'
+release_year: 1976
+runtime: 447680
 ---
 Okay everybody, are you ready for this?
 Watch out, cause here we go again!

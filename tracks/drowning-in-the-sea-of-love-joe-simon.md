@@ -1,8 +1,11 @@
 ---
+album: Drowning In the Sea of Love
 artists:
 - Joe Simon
+external_ids:
+  spotify: spotify:track:2cFCrtNuNmtNuq2tq656ns
 features: []
-genres: []
+first_released_as_single: false
 key: drowning-in-the-sea-of-love-joe-simon
 lyrics_url: https://www.musixmatch.com/lyrics/Joe-Simon/Drowning-in-the-Sea-of-Love
 name: Drowning In The Sea Of Love
@@ -59,6 +62,8 @@ rankings:
   rank: 26
   ranking_list: Billboard Hot 100
   start_date: '1972-02-19'
+release_year: 1971
+runtime: 203106
 ---
 I've been down one time
 And I've been down two times

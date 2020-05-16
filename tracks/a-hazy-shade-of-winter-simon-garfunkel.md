@@ -1,8 +1,11 @@
 ---
+album: Bookends
 artists:
 - Simon & Garfunkel
+external_ids:
+  spotify: spotify:track:2GB8OypbvrvCee61FKx5dp
 features: []
-genres: []
+first_released_as_single: false
 key: a-hazy-shade-of-winter-simon-garfunkel
 lyrics_url: https://www.musixmatch.com/lyrics/Simon-Garfunkel/A-Hazy-Shade-of-Winter
 name: A Hazy Shade Of Winter
@@ -43,6 +46,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1966-12-31'
+release_year: 1966
+runtime: 137480
 ---
 Time, time, time, see what's become of me
 While I looked around for my possibilities

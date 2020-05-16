@@ -1,8 +1,11 @@
 ---
+album: The Best Of The Tymes 1963-1964
 artists:
 - The Tymes
+external_ids:
+  spotify: spotify:track:3U4fKeMEBEPTdDOjAymS40
 features: []
-genres: []
+first_released_as_single: false
 key: here-she-comes-the-tymes
 lyrics_url: https://www.musixmatch.com/lyrics/The-Tymes/Here-She-Comes
 name: Here She Comes
@@ -19,6 +22,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1964-12-05'
+release_year: 1964
+runtime: 141333
 ---
 Watch out boys look who's comin' down the street
 Oh yeah she's a trouble maker, oh yeah she's a trouble maker

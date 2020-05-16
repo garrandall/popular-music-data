@@ -1,8 +1,11 @@
 ---
+album: Anything Goes
 artists:
 - Florida Georgia Line
+external_ids:
+  spotify: spotify:track:6IFPfV8PNSYOmufzQ95hmm
 features: []
-genres: []
+first_released_as_single: false
 key: confession-florida-georgia-line
 lyrics_url: https://www.azlyrics.com/lyrics/floridageorgialine/confession.html
 name: Confession
@@ -87,8 +90,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2016-05-28'
+release_year: 2014
+runtime: 190640
 ---
-
 Rusty barbed wire lines these fields
 Gravel dust behind the wheels
 Drifting like my mind into the rearview
@@ -137,6 +141,3 @@ But there's a crack in the reflection
 Hope he's moving in the right direction
 This is just a moonlight soaked, ring of smoke
 Right hand on a cold one confession
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Clancy's Tavern
 artists:
 - Toby Keith
+external_ids:
+  spotify: spotify:track:5MiRgE7Yta2jiOkVGHbiQC
 features: []
-genres: []
+first_released_as_single: false
 key: beers-ago-toby-keith
 lyrics_url: https://genius.com/Toby-keith-beers-ago-lyrics
 name: Beers Ago
@@ -67,6 +70,8 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '2012-08-11'
+release_year: 2011
+runtime: 206640
 ---
 I had a hand-me-down ride painted rattle-can red
 Second hand tires with poor boy tread

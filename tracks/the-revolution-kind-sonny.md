@@ -1,8 +1,11 @@
 ---
+album: The Wonderous World Of Sonny & Cher
 artists:
 - Sonny
+external_ids:
+  spotify: spotify:track:1r5q5bXNbleXMz2ogKtkqv
 features: []
-genres: []
+first_released_as_single: false
 key: the-revolution-kind-sonny
 lyrics_url: https://www.azlyrics.com/lyrics/sonnycher/therevolutionkind.html
 name: The Revolution Kind
@@ -23,8 +26,9 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1965-12-18'
+release_year: 1965
+runtime: 204826
 ---
-
 I'm glad I'm here just like you
 And if I say a thing or two
 That doesn't mean I'm all that mad
@@ -60,6 +64,3 @@ Oh no
 Oh no
 Oh no
 Oh no
-
-
-

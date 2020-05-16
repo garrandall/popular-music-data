@@ -1,8 +1,11 @@
 ---
+album: Anthology
 artists:
 - Musical Youth
+external_ids:
+  spotify: spotify:track:0QzmoqQRlmjxyLXGKYoeU8
 features: []
-genres: []
+first_released_as_single: false
 key: she-s-trouble-musical-youth
 lyrics_url: https://genius.com/Musical-youth-shes-trouble-lyrics
 name: She's Trouble
@@ -35,6 +38,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1984-02-25'
+release_year: 1984
+runtime: 188200
 ---
 I don't wanna move when I'm in her hands
 There's nothin' I can do or say

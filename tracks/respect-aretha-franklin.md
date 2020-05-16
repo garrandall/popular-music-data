@@ -1,8 +1,11 @@
 ---
+album: I Never Loved a Man the Way I Love You
 artists:
 - Aretha Franklin
+external_ids:
+  spotify: spotify:track:7s25THrKz86DM225dOYwnr
 features: []
-genres: []
+first_released_as_single: false
 key: respect-aretha-franklin
 lyrics_url: https://genius.com/Aretha-franklin-respect-lyrics
 name: Respect
@@ -55,6 +58,8 @@ rankings:
   rank: 36
   ranking_list: Billboard Hot 100
   start_date: '1967-07-15'
+release_year: 1967
+runtime: 147600
 ---
 What you want, baby, I got it
 What you need, do you know I got it?

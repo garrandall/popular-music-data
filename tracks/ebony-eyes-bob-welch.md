@@ -1,8 +1,11 @@
 ---
+album: French Kiss
 artists:
 - Bob Welch
+external_ids:
+  spotify: spotify:track:4OLRw2NSxCyNkfCs8Uwvwg
 features: []
-genres: []
+first_released_as_single: false
 key: ebony-eyes-bob-welch
 lyrics_url: https://genius.com/Bob-welch-ebony-eyes-lyrics
 name: Ebony Eyes
@@ -75,6 +78,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1978-05-20'
+release_year: 1977
+runtime: 212760
 ---
 Well, have you seen that girl in the corner
 I'd like to take her out of her chains

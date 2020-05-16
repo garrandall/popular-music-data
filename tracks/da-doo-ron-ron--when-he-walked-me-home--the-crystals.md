@@ -1,8 +1,11 @@
 ---
+album: Quadrophenia (Original Motion Picture Soundtrack)
 artists:
 - The Crystals
+external_ids:
+  spotify: spotify:track:4ULEoFaIuo3siSvfpnmPNQ
 features: []
-genres: []
+first_released_as_single: false
 key: da-doo-ron-ron--when-he-walked-me-home--the-crystals
 lyrics_url: https://www.azlyrics.com/lyrics/crystals/dadooronronwhenhewalkedmehome.html
 name: Da Doo Ron Ron (When He Walked Me Home)
@@ -59,8 +62,9 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '1963-07-20'
+release_year: 1963
+runtime: 129438
 ---
-
 I met him on a Monday and my heart stood still
 Da doo ron ron ron, da doo ron ron
 Somebody told me that his name was Bill
@@ -99,6 +103,3 @@ Da doo ron ron ron, da doo ron ron
 Da doo ron ron ron, da doo ron ron
 Da doo ron ron ron, da doo ron ron
 ...
-
-
-

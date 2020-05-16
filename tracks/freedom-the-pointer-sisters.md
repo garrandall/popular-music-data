@@ -1,8 +1,11 @@
 ---
+album: Contact
 artists:
 - The Pointer Sisters
+external_ids:
+  spotify: spotify:track:028ULw79ZJsrYJQrIuRW44
 features: []
-genres: []
+first_released_as_single: false
 key: freedom-the-pointer-sisters
 lyrics_url: https://www.azlyrics.com/lyrics/pointersisters/freedom.html
 name: Freedom
@@ -51,8 +54,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1986-01-11'
+release_year: 1985
+runtime: 378893
 ---
-
 Freedom, freedom let me go
 
 Do you want to know me?
@@ -95,6 +99,3 @@ Oh talking about freedom, talk about it
 Just love talking about freedom again
 Freedom, let me go
 Don't let it hold you back
-
-
-

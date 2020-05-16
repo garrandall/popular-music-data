@@ -1,8 +1,11 @@
 ---
+album: 5 Seconds Of Summer
 artists:
 - 5 Seconds Of Summer
+external_ids:
+  spotify: spotify:track:2Hs84CD0H4tuKSuih5jj2p
 features: []
-genres: []
+first_released_as_single: true
 key: don-t-stop-5-seconds-of-summer
 lyrics_url: https://genius.com/5-seconds-of-summer-dont-stop-lyrics
 name: Don't Stop
@@ -19,6 +22,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2014-06-14'
+release_year: 2014
+runtime: 170782
 ---
 You're like perfection, some kind of holiday
 You got me thinking that we could run away

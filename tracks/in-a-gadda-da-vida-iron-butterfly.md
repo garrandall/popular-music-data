@@ -1,8 +1,11 @@
 ---
+album: In-A-Gadda-Da-Vida
 artists:
 - Iron Butterfly
+external_ids:
+  spotify: spotify:track:1exUq8aG2OMbSeZeTwz06k
 features: []
-genres: []
+first_released_as_single: false
 key: in-a-gadda-da-vida-iron-butterfly
 lyrics_url: https://genius.com/Iron-butterfly-in-a-gadda-da-vida-lyrics
 name: In-A-Gadda-Da-Vida
@@ -75,6 +78,8 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '1969-06-14'
+release_year: 1968
+runtime: 1024133
 ---
 Good God!
 Three, four, huh!

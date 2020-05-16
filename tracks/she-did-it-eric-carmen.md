@@ -1,8 +1,11 @@
 ---
+album: Boats Against the Current
 artists:
 - Eric Carmen
+external_ids:
+  spotify: spotify:track:4HtYBaGWf53BLfjfBSchnd
 features: []
-genres: []
+first_released_as_single: false
 key: she-did-it-eric-carmen
 lyrics_url: https://www.azlyrics.com/lyrics/ericcarmen/shedidit.html
 name: She Did It
@@ -71,8 +74,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1977-12-10'
+release_year: 1977
+runtime: 227360
 ---
-
 I set to sea on a ship called Emptiness
 Cast away on the Island of Loneliness
 Looking for love
@@ -120,6 +124,3 @@ Oh, she did it
 Woh mama, she did it, yeah
 Oh, she did it
 Woh mama, she did it, yeah
-
-
-

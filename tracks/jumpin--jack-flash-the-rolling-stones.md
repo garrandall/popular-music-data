@@ -1,8 +1,11 @@
 ---
+album: Get Yer Ya-Ya's Out!
 artists:
 - The Rolling Stones
+external_ids:
+  spotify: spotify:track:55LRDFmsuazr533WrtHHW9
 features: []
-genres: []
+first_released_as_single: false
 key: jumpin--jack-flash-the-rolling-stones
 lyrics_url: https://genius.com/The-rolling-stones-jumpin-jack-flash-lyrics
 name: Jumpin' Jack Flash
@@ -55,6 +58,8 @@ rankings:
   rank: 30
   ranking_list: Billboard Hot 100
   start_date: '1968-08-24'
+release_year: 1966
+runtime: 219466
 ---
 One two!
 

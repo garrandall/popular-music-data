@@ -1,8 +1,11 @@
 ---
+album: Dreamland
 artists:
 - Black Box
+external_ids:
+  spotify: spotify:track:4u6KlyDfML0FndHhL3Pjfn
 features: []
-genres: []
+first_released_as_single: true
 key: i-don-t-know-anybody-else-black-box
 lyrics_url: https://genius.com/Black-box-i-dont-know-anybody-else-lyrics
 name: I Don't Know Anybody Else
@@ -63,6 +66,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1991-03-09'
+release_year: 1990
+runtime: 409321
 ---
 Tell me what you want and nothing more...
 

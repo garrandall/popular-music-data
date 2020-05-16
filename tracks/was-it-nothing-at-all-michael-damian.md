@@ -1,8 +1,11 @@
 ---
+album: Rock On
 artists:
 - Michael Damian
+external_ids:
+  spotify: spotify:track:3SCeWq0qHsc8i2JxtJPSkd
 features: []
-genres: []
+first_released_as_single: false
 key: was-it-nothing-at-all-michael-damian
 lyrics_url: https://genius.com/Michael-damian-was-it-nothing-at-all-lyrics
 name: Was It Nothing At All
@@ -91,6 +94,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1990-03-17'
+release_year: 1989
+runtime: 282664
 ---
 Driving in the car
 With the wind run through your hair

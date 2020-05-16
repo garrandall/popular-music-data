@@ -1,8 +1,11 @@
 ---
+album: Darryl Worley
 artists:
 - Darryl Worley
+external_ids:
+  spotify: spotify:track:28ZUoSyOdNswEdokyJs07B
 features: []
-genres: []
+first_released_as_single: false
 key: if-something-should-happen-darryl-worley
 lyrics_url: https://www.azlyrics.com/lyrics/darrylworley/ifsomethingshouldhappen.html
 name: If Something Should Happen
@@ -43,8 +46,9 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '2005-07-23'
+release_year: 2004
+runtime: 279560
 ---
-
 Buddy you and I go way back 
 Camp Lejeune, all through high school, and before that.
 So I don't mind tellin you I'm scared to death. 
@@ -90,7 +94,4 @@ Yeah buddy I pray alright
 But if it's my time to leave 
 Could you watch over them for me? 
 
-If something should happen 
-
-
-
+If something should happen

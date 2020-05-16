@@ -1,8 +1,11 @@
 ---
+album: Broadcast
 artists:
 - Cutting Crew
+external_ids:
+  spotify: spotify:track:7yQNqjXp9BAGAppPGkTbYf
 features: []
-genres: []
+first_released_as_single: false
 key: i-ve-been-in-love-before-cutting-crew
 lyrics_url: https://genius.com/Cutting-crew-ive-been-in-love-before-lyrics
 name: I've Been In Love Before
@@ -91,6 +94,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1988-01-23'
+release_year: 1986
+runtime: 308133
 ---
 Oh, oo ohcha
 Catch my breath, close my eyes

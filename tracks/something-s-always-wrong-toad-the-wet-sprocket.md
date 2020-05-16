@@ -1,8 +1,11 @@
 ---
+album: Dulcinea
 artists:
 - Toad The Wet Sprocket
+external_ids:
+  spotify: spotify:track:0BSQyPibTxgGXo1NwNe22C
 features: []
-genres: []
+first_released_as_single: false
 key: something-s-always-wrong-toad-the-wet-sprocket
 lyrics_url: https://genius.com/Toad-the-wet-sprocket-somethings-always-wrong-lyrics
 name: Something's Always Wrong
@@ -87,6 +90,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1995-02-11'
+release_year: 1991
+runtime: 296866
 ---
 Another day, I call and never speak
 And you would say nothing's changed at all

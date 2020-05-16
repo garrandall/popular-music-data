@@ -1,8 +1,11 @@
 ---
+album: Tom Jones Sings She's A Lady
 artists:
 - Tom Jones
+external_ids:
+  spotify: spotify:track:1YMTGNLzK7FBGqGF4zNtpd
 features: []
-genres: []
+first_released_as_single: false
 key: puppet-man-tom-jones
 lyrics_url: https://www.azlyrics.com/lyrics/tomjones/puppetman.html
 name: Puppet Man
@@ -51,9 +54,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1971-07-31'
+release_year: 1971
+runtime: 203306
 ---
-
-
 Puppet man
 Puppet ma-an
 Puppet man
@@ -133,4 +136,3 @@ Down deep in your soul
 Do anything, I might even love you
 
 Wow-oh
-

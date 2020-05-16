@@ -1,8 +1,11 @@
 ---
+album: The Element Of Freedom
 artists:
 - Alicia Keys
+external_ids:
+  spotify: spotify:track:4JOP8ELK6AaeySe7sKe996
 features: []
-genres: []
+first_released_as_single: false
 key: un-thinkable--i-m-ready--alicia-keys
 lyrics_url: https://genius.com/Alicia-keys-unthinkable-remix-lyrics
 name: Un-Thinkable (I'm Ready)
@@ -87,6 +90,8 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '2010-09-04'
+release_year: 2009
+runtime: 249240
 ---
 If you ask me, I'm ready...
 

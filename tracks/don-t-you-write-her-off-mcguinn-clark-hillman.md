@@ -1,10 +1,13 @@
 ---
+album: McGuinn, Clark & Hillman
 artists:
 - McGuinn
 - Clark
 - Hillman
+external_ids:
+  spotify: spotify:track:4MxYZ8fFw2c29RtZOnwT8E
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-you-write-her-off-mcguinn-clark-hillman
 lyrics_url: https://genius.com/Mcguinn-clark-and-hillman-dont-you-write-her-off-lyrics
 name: Don't You Write Her Off
@@ -53,6 +56,8 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1979-05-26'
+release_year: 1979
+runtime: 197600
 ---
 Been atop the New York skyline
 Sailed across the ocean blue

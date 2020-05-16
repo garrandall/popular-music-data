@@ -1,8 +1,11 @@
 ---
+album: At His Best - Today and Yesterday
 artists:
 - Bobby Rydell
+external_ids:
+  spotify: spotify:track:1UIFj44fGY5ISggYjzHP21
 features: []
-genres: []
+first_released_as_single: false
 key: volare-bobby-rydell
 lyrics_url: https://genius.com/Bobby-rydell-volare-lyrics
 name: Volare
@@ -67,6 +70,8 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '1960-10-24'
+release_year: 1960
+runtime: 145986
 ---
 Volare, oh oh
 Cantare, oh oh oh oh

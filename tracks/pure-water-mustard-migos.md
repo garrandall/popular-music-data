@@ -1,9 +1,12 @@
 ---
+album: Perfect Ten
 artists:
 - Mustard
 - Migos
+external_ids:
+  spotify: spotify:track:3j84U36KvLeXNDPv4t5pI8
 features: []
-genres: []
+first_released_as_single: false
 key: pure-water-mustard-migos
 lyrics_url: https://www.azlyrics.com/lyrics/djmustard/purewater.html
 name: Pure Water
@@ -108,8 +111,9 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '2019-07-27'
+release_year: 2019
+runtime: 192470
 ---
-
 Woo!
 Y'all already know huh? Right?
 Mustard on the beat, ho
@@ -200,6 +204,3 @@ Two-step (Oh, yeah, uh, oh, yeah)
 Two-step (Oh, yeah, uh, oh, yeah)
 Two-step (Oh, yeah, uh, oh, yeah)
 Goodnight
-
-
-

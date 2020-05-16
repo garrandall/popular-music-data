@@ -1,8 +1,11 @@
 ---
+album: Change Of Heart
 artists:
 - Eric Carmen
+external_ids:
+  spotify: spotify:track:3STjByGTUmCTxfmWShd7p6
 features: []
-genres: []
+first_released_as_single: false
 key: change-of-heart-eric-carmen
 lyrics_url: https://www.azlyrics.com/lyrics/ericcarmen/changeofheart.html
 name: Change Of Heart
@@ -71,8 +74,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1978-12-30'
+release_year: 1978
+runtime: 221893
 ---
-
 I can still recall when we said that our love was forever
 All those plans we made for tomorrow that looked so bright
 Ah, and I understand all the reasons you gave me for leaving
@@ -108,6 +112,3 @@ If you still believe in what love can do
 So if you ever have a change of heart
 Just remember it's not too late to start
 If you still believe in what love can do
-
-
-

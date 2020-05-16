@@ -1,8 +1,11 @@
 ---
+album: Sex Machine
 artists:
 - James Brown
+external_ids:
+  spotify: spotify:track:4ZuODMZPjTLAExyuRSmAs6
 features: []
-genres: []
+first_released_as_single: false
 key: lowdown-popcorn-james-brown
 name: Lowdown Popcorn
 rankings:
@@ -30,5 +33,7 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1969-09-27'
+release_year: 1969
+runtime: 205760
 ---
 

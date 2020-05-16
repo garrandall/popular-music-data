@@ -1,8 +1,11 @@
 ---
+album: Young, Rich & Dangerous
 artists:
 - Kris Kross
+external_ids:
+  spotify: spotify:track:7aBXy94NFebgGIiwi5SYve
 features: []
-genres: []
+first_released_as_single: false
 key: live-and-die-for-hip-hop-kris-kross
 lyrics_url: https://www.azlyrics.com/lyrics/kriskross/liveanddieforhiphop.html
 name: Live And Die For Hip Hop
@@ -47,8 +50,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1996-06-29'
+release_year: 1992
+runtime: 226973
 ---
-
 Well nigga roll me a mic and let me smoke it til' I'm high if you ever seen me rock than you know that I- live and die for the things I do slang I use breakin' down mics and destroyin' crews.
 Well nigga roll me a mic and let me smoke it til' I'm high if you ever seen me rock than you know that I- live and die for the things I do slang I use breakin' down mics and destroyin' crews.
 
@@ -81,6 +85,3 @@ Oh... Someone tell me... we got it goin' on... I'm tellin' y'all (it's that SoSo
 I want you to feel me, my whole thang is to get inside your body, I run game like my name was John Gaddy, hittin' hookshots like Vlade and niggas around my way call me little Liberace.
 A lady lover like no other and I be lethal with my weapon so they call me Danny Glover now who keep it hot? (We Do.)
 See So So def ain't nothin' but a fool ass crew
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Pentatonix (Deluxe Version)
 artists:
 - Pentatonix
+external_ids:
+  spotify: spotify:track:1klGbW5a9qTBFUjFfddbmU
 features: []
-genres: []
+first_released_as_single: false
 key: can-t-sleep-love-pentatonix
 lyrics_url: https://genius.com/Pentatonix-cant-sleep-love-lyrics
 name: Can't Sleep Love
@@ -11,6 +14,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2015-11-07'
+release_year: 2015
+runtime: 173053
 ---
 Uh huh
 Yeah

@@ -1,8 +1,11 @@
 ---
+album: Live At The London Palladium
 artists:
 - Marvin Gaye
+external_ids:
+  spotify: spotify:track:12sRJfGKwQ3mWWECnZK0GE
 features: []
-genres: []
+first_released_as_single: false
 key: got-to-give-it-up--pt-i--marvin-gaye
 lyrics_url: https://genius.com/Marvin-gaye-got-to-give-it-up-lyrics
 name: Got To Give It Up (Pt I)
@@ -79,6 +82,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1977-08-13'
+release_year: 1977
+runtime: 712666
 ---
 I used to go out to parties
 And stand around

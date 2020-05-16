@@ -1,8 +1,11 @@
 ---
+album: Wish
 artists:
 - The Cure
+external_ids:
+  spotify: spotify:track:263aNAQCeFSWipk896byo6
 features: []
-genres: []
+first_released_as_single: false
 key: friday-i-m-in-love-the-cure
 lyrics_url: https://genius.com/The-cure-friday-im-in-love-lyrics
 name: Friday I'm In Love
@@ -87,6 +90,8 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1992-10-24'
+release_year: 1992
+runtime: 214400
 ---
 I don't care if Monday's blue
 Tuesday's grey and Wednesday too

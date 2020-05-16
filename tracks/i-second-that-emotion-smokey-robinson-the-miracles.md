@@ -1,9 +1,12 @@
 ---
+album: Live!
 artists:
 - Smokey Robinson
 - The Miracles
+external_ids:
+  spotify: spotify:track:5j0ALeNcSWAJ1K0FI5RVUN
 features: []
-genres: []
+first_released_as_single: false
 key: i-second-that-emotion-smokey-robinson-the-miracles
 lyrics_url: https://genius.com/Smokey-robinson-and-the-miracles-i-second-that-emotion-lyrics
 name: I Second That Emotion
@@ -68,6 +71,8 @@ rankings:
   rank: 34
   ranking_list: Billboard Hot 100
   start_date: '1968-02-10'
+release_year: 1967
+runtime: 308520
 ---
 Maybe you want to give me kisses sweet
 But only for one night with no repeat

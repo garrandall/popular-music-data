@@ -1,8 +1,11 @@
 ---
+album: To Die For
 artists:
 - Sam Smith
+external_ids:
+  spotify: spotify:track:2ZTYlnhhV1UAReg7wIGolx
 features: []
-genres: []
+first_released_as_single: true
 key: to-die-for-sam-smith
 lyrics_url: https://www.azlyrics.com/lyrics/samsmith/todiefor.html
 name: To Die For
@@ -23,8 +26,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2020-03-21'
+release_year: 2020
+runtime: 193795
 ---
-
 (It is as everyone dies alone.)
 (Does that scare you?)
 (I don't wanna be alone.)
@@ -78,6 +82,3 @@ Just want somebody to die for
 Sunshine living on a perfect day while my world's crashing down
 I just want somebody to die for
 I just want somebody to die for
-
-
-

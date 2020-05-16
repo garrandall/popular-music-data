@@ -1,8 +1,11 @@
 ---
+album: Tell It to My Heart
 artists:
 - Taylor Dayne
+external_ids:
+  spotify: spotify:track:4xnucvIktqiQowLjbUj9q5
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-rush-me-taylor-dayne
 lyrics_url: https://genius.com/Taylor-dayne-dont-rush-me-lyrics
 name: Don't Rush Me
@@ -87,6 +90,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1989-03-18'
+release_year: 1988
+runtime: 228000
 ---
 Red roses, temptation
 You make the most of a ify situation

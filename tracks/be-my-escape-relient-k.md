@@ -1,8 +1,11 @@
 ---
+album: Mmhmm
 artists:
 - Relient K
+external_ids:
+  spotify: spotify:track:3Vi93V7o1tT28Cut4gSWi3
 features: []
-genres: []
+first_released_as_single: false
 key: be-my-escape-relient-k
 lyrics_url: https://www.azlyrics.com/lyrics/relientk/bemyescape.html
 name: Be My Escape
@@ -23,8 +26,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2005-08-20'
+release_year: 2004
+runtime: 240453
 ---
-
 I've given up on giving up slowly,
 I'm blending in so you won't even know me
 Apart from this whole world that shares my fate
@@ -95,6 +99,3 @@ Was save my own skin
 But so were you
 
 So were you
-
-
-

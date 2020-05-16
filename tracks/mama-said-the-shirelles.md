@@ -1,8 +1,11 @@
 ---
+album: Sing To Trumpets And Strings
 artists:
 - The Shirelles
+external_ids:
+  spotify: spotify:track:2Qs5tJfqwvz3rEqzfORrVP
 features: []
-genres: []
+first_released_as_single: false
 key: mama-said-the-shirelles
 lyrics_url: https://genius.com/The-shirelles-mama-said-lyrics
 name: Mama Said
@@ -51,6 +54,8 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '1961-06-26'
+release_year: 1961
+runtime: 126586
 ---
 Mama said there'll be days like this
 There'll be days like this mama said

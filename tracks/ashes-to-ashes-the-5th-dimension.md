@@ -1,8 +1,11 @@
 ---
+album: Living Together, Growing Together
 artists:
 - The 5th Dimension
+external_ids:
+  spotify: spotify:track:5KUBlQqwSFQSKa3nOkpQaR
 features: []
-genres: []
+first_released_as_single: false
 key: ashes-to-ashes-the-5th-dimension
 lyrics_url: https://www.azlyrics.com/lyrics/5thdimension/ashestoashes.html
 name: Ashes To Ashes
@@ -47,8 +50,9 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '1973-10-27'
+release_year: 1972
+runtime: 210066
 ---
-
 They're tearing down the street
 Where I grew up
 Like pouring brandy
@@ -120,6 +124,3 @@ Have seen their dying day
 
 Ashes to ashes, dust to dust
 It'll never be the same
-
-
-

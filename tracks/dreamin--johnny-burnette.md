@@ -1,8 +1,11 @@
 ---
+album: Dreamin'
 artists:
 - Johnny Burnette
+external_ids:
+  spotify: spotify:track:3e6DgJHco44VZekE9wz8Wh
 features: []
-genres: []
+first_released_as_single: false
 key: dreamin--johnny-burnette
 lyrics_url: https://www.musixmatch.com/lyrics/Johnny-Burnette/Dreamin
 name: Dreamin'
@@ -67,6 +70,8 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '1960-10-31'
+release_year: 1960
+runtime: 141493
 ---
 Dreamin', I'm always dreamin'
 Dreamin', love will be mine

@@ -1,8 +1,11 @@
 ---
+album: One Man Dog
 artists:
 - James Taylor
+external_ids:
+  spotify: spotify:track:0SHFf1goWCyv8UKZdpHIcS
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-let-me-be-lonely-tonight-james-taylor
 lyrics_url: https://genius.com/James-taylor-dont-let-me-be-lonely-tonight-lyrics
 name: Don't Let Me Be Lonely Tonight
@@ -51,6 +54,8 @@ rankings:
   rank: 35
   ranking_list: Billboard Hot 100
   start_date: '1973-02-10'
+release_year: 1972
+runtime: 155343
 ---
 Do me wrong, do me right
 Tell me lies but hold me tight

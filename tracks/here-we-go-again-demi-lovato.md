@@ -1,8 +1,11 @@
 ---
+album: Here We Go Again
 artists:
 - Demi Lovato
+external_ids:
+  spotify: spotify:track:33RJ3P6wc0B0FIyDalhNTv
 features: []
-genres: []
+first_released_as_single: false
 key: here-we-go-again-demi-lovato
 lyrics_url: https://www.azlyrics.com/lyrics/demilovato/herewegoagain.html
 name: Here We Go Again
@@ -43,8 +46,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2009-09-05'
+release_year: 2009
+runtime: 226253
 ---
-
 I throw all of your stuff away
 Then I clear you out of my head
 I tear you out of my heart
@@ -117,6 +121,3 @@ Than trying to let you go
 'Cause here we go go go again
 
 Again and again and again and again
-
-
-

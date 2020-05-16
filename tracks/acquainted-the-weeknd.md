@@ -1,8 +1,11 @@
 ---
+album: Beauty Behind The Madness
 artists:
 - The Weeknd
+external_ids:
+  spotify: spotify:track:7uJH0YdSZL6psjxI6Xy08b
 features: []
-genres: []
+first_released_as_single: false
 key: acquainted-the-weeknd
 lyrics_url: https://genius.com/The-weeknd-acquainted-lyrics
 name: Acquainted
@@ -79,6 +82,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2016-05-14'
+release_year: 2015
+runtime: 348853
 ---
 Baby you're no good
 Cause they warned me 'bout your type girl, I've been ducking left and right

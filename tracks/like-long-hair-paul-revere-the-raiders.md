@@ -1,9 +1,12 @@
 ---
+album: The Legend Of Paul Revere
 artists:
 - Paul Revere
 - The Raiders
+external_ids:
+  spotify: spotify:track:1IIpglMfoS0Rge2ZpBTmRm
 features: []
-genres: []
+first_released_as_single: false
 key: like-long-hair-paul-revere-the-raiders
 name: Like Long Hair
 rankings:
@@ -31,5 +34,7 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '1961-05-01'
+release_year: 1961
+runtime: 115360
 ---
 

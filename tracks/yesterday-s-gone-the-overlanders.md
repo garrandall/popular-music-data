@@ -1,8 +1,11 @@
 ---
+album: 'Fab Gear! Beat Beat Beat, Vol. 2: More Mop Top Rarities'
 artists:
 - The Overlanders
+external_ids:
+  spotify: spotify:track:7uJB5WRcQS5QgLrSRQpp4A
 features: []
-genres: []
+first_released_as_single: false
 key: yesterday-s-gone-the-overlanders
 lyrics_url: https://www.musixmatch.com/lyrics/The-Overlanders/Yesterday-s-Gone
 name: Yesterday's Gone
@@ -35,6 +38,8 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1964-07-04'
+release_year: 1964
+runtime: 131666
 ---
 I loved you all the summer through
 I thought I'd found my dream in you

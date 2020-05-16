@@ -1,8 +1,11 @@
 ---
+album: Contradiction
 artists:
 - Ohio Players
+external_ids:
+  spotify: spotify:track:3mEuHKihITO7c8hbwMA8Et
 features: []
-genres: []
+first_released_as_single: false
 key: who-d-she-coo--ohio-players
 lyrics_url: https://genius.com/Ohio-players-whod-she-coo-lyrics
 name: Who'd She Coo?
@@ -75,6 +78,8 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '1976-10-16'
+release_year: 1976
+runtime: 271226
 ---
 Are you ready
 Do what you wanna do

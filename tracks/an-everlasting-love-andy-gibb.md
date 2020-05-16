@@ -1,8 +1,11 @@
 ---
+album: Shadow Dancing
 artists:
 - Andy Gibb
+external_ids:
+  spotify: spotify:track:30IpEYZRHYmS8yZyMM5aYK
 features: []
-genres: []
+first_released_as_single: false
 key: an-everlasting-love-andy-gibb
 lyrics_url: https://www.azlyrics.com/lyrics/andygibb/aneverlastinglove.html
 name: An Everlasting Love
@@ -71,8 +74,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1978-10-28'
+release_year: 1978
+runtime: 250360
 ---
-
 I've been here all your life
 Watching your crying game
 You were the heaven in my lonely world
@@ -136,6 +140,3 @@ Can take us anywhere are the tears
 Of yesterday, we killed the pain, we blew away
 The memories of the tears we cried
 And an everlasting love will never die
-
-
-

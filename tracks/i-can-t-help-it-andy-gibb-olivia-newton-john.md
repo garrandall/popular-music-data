@@ -1,9 +1,12 @@
 ---
+album: After Dark
 artists:
 - Andy Gibb
 - Olivia Newton-John
+external_ids:
+  spotify: spotify:track:3IEs5UmjbMmCMHE7LjXRPT
 features: []
-genres: []
+first_released_as_single: false
 key: i-can-t-help-it-andy-gibb-olivia-newton-john
 lyrics_url: https://genius.com/Andy-gibb-and-olivia-newton-john-i-cant-help-it-lyrics
 name: I Can't Help It
@@ -60,6 +63,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1980-06-21'
+release_year: 1980
+runtime: 247493
 ---
 I Can't Help It
 Andy Gibb and Olivia Newton-John

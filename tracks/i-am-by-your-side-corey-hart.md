@@ -1,8 +1,11 @@
 ---
+album: Fields Of Fire
 artists:
 - Corey Hart
+external_ids:
+  spotify: spotify:track:5YAiYrUflKyHN2Rm5RZt9G
 features: []
-genres: []
+first_released_as_single: false
 key: i-am-by-your-side-corey-hart
 lyrics_url: https://www.azlyrics.com/lyrics/coreyhart/iambyyourside.html
 name: I Am By Your Side
@@ -59,8 +62,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1986-12-13'
+release_year: 1986
+runtime: 278200
 ---
-
 I am by your side
 Give you strength
 When you're lost inside
@@ -125,6 +129,3 @@ Oh, oh, oh
 I am by your side
 I am by your side
 I am by your side...
-
-
-

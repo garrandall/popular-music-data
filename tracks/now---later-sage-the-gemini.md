@@ -1,8 +1,11 @@
 ---
+album: Morse Code
 artists:
 - Sage The Gemini
+external_ids:
+  spotify: spotify:track:3B9LXHiN4j9YFbTcFhe7HE
 features: []
-genres: []
+first_released_as_single: true
 key: now---later-sage-the-gemini
 lyrics_url: https://www.azlyrics.com/lyrics/sagethegemini/nowandlater.html
 name: Now & Later
@@ -11,8 +14,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2017-02-25'
+release_year: 2017
+runtime: 147000
 ---
-
 I can be your life saver
 Treat me like a jaw breaker
 You got 31 flavors, baby
@@ -85,6 +89,3 @@ You got 31 flavors, baby
 You can get this now and later, now and later
 You can get this now and later, now and later
 It's your choice
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: 'Hushabye: The Complete Laurie Singles'
 artists:
 - The Mystics
+external_ids:
+  spotify: spotify:track:7IFspYf2QuHFojmjbakjqv
 features: []
-genres: []
+first_released_as_single: false
 key: hushabye-the-mystics
 lyrics_url: https://genius.com/The-mystics-hushabye-lyrics
 name: Hushabye
@@ -67,6 +70,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1959-08-31'
+release_year: 1959
+runtime: 153040
 ---
 Oh oh oh oh oh oh oh
 Hushabye hushabye

@@ -1,9 +1,12 @@
 ---
+album: Love Will Keep Us Together
 artists:
 - Captain
 - Tennille
+external_ids:
+  spotify: spotify:track:4pCNJwixy2ImFncaPY2yE2
 features: []
-genres: []
+first_released_as_single: false
 key: love-will-keep-us-together-captain-tennille
 lyrics_url: https://www.azlyrics.com/lyrics/captaintennille/lovewillkeepustogether.html
 name: Love Will Keep Us Together
@@ -100,8 +103,9 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '1975-09-20'
+release_year: 1975
+runtime: 205493
 ---
-
 Love, love will keep us together
 Think of me babe whenever
 Some sweet talking girl comes along, singing a song
@@ -142,6 +146,3 @@ Stop, I've been thinking of you
 Look in my heart and let love keep us together, whatever
 I will, I will, I will, I will
 (Da da da da...)
-
-
-

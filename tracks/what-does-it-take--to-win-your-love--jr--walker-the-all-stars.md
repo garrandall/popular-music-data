@@ -1,9 +1,12 @@
 ---
+album: Live
 artists:
 - Jr. Walker
 - The All Stars
+external_ids:
+  spotify: spotify:track:2kfFPFQmTCc8wns2sya2FW
 features: []
-genres: []
+first_released_as_single: false
 key: what-does-it-take--to-win-your-love--jr--walker-the-all-stars
 lyrics_url: https://genius.com/Jr-walker-and-the-all-stars-what-does-it-take-to-win-your-love-lyrics
 name: What Does It Take (To Win Your Love)
@@ -72,6 +75,8 @@ rankings:
   rank: 26
   ranking_list: Billboard Hot 100
   start_date: '1969-08-30'
+release_year: 1969
+runtime: 298419
 ---
 What does it take
 (What does it take)

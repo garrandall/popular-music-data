@@ -1,8 +1,11 @@
 ---
+album: The Rise and Fall of Ziggy Stardust and the Spiders from Mars
 artists:
 - David Bowie
+external_ids:
+  spotify: spotify:track:0pQskrTITgmCMyr85tb9qq
 features: []
-genres: []
+first_released_as_single: false
 key: starman-david-bowie
 lyrics_url: https://www.azlyrics.com/lyrics/davidbowie/starman.html
 name: Starman
@@ -43,8 +46,9 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1972-08-26'
+release_year: 1972
+runtime: 254293
 ---
-
 Didn't know what time it was the lights were low
 I leaned back on my radio
 Some cat was layin' down some rock 'n' roll, "lotta soul"
@@ -97,6 +101,3 @@ Let the children use it
 Let all the children boogie
 
 La, La, la, la, la
-
-
-

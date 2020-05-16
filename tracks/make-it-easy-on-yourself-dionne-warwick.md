@@ -1,8 +1,11 @@
 ---
+album: Presenting Dionne Warwick
 artists:
 - Dionne Warwick
+external_ids:
+  spotify: spotify:track:2VxT8g3XP0AGiEW3paf9wP
 features: []
-genres: []
+first_released_as_single: false
 key: make-it-easy-on-yourself-dionne-warwick
 lyrics_url: https://www.azlyrics.com/lyrics/dionnewarwick/makeiteasyonyourself.html
 name: Make It Easy On Yourself
@@ -39,8 +42,9 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1970-11-21'
+release_year: 1963
+runtime: 160266
 ---
-
 Make it easy on yourself
 Oh, breaking up is so very hard to do
 
@@ -68,6 +72,3 @@ Make it easy on yourself
 'Cause breaking up is so very hard to do
 
 Oh, baby, it's so hard to do
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Together
 artists:
 - Anne Murray
+external_ids:
+  spotify: spotify:track:2BHyz0VKLfxpTAqKjNBGSN
 features: []
-genres: []
+first_released_as_single: false
 key: sunday-sunrise-anne-murray
 lyrics_url: https://www.azlyrics.com/lyrics/annemurray/sundaysunrise.html
 name: Sunday Sunrise
@@ -15,8 +18,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1975-12-06'
+release_year: 1975
+runtime: 196400
 ---
-
 It's such a beautiful day that
 The sky seems to say, "Good Morning"
 Missed the dust off your shoes
@@ -76,6 +80,3 @@ Sunday sunrise
 Unfolding like a smile
 Making me feel just like
 A newborn baby child
-
-
-

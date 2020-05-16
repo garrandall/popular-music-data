@@ -1,8 +1,11 @@
 ---
+album: One More Try For Love
 artists:
 - Ronnie Milsap
+external_ids:
+  spotify: spotify:track:6xRvKADwRqGUUD5R2LhefZ
 features: []
-genres: []
+first_released_as_single: false
 key: she-loves-my-car-ronnie-milsap
 lyrics_url: https://www.azlyrics.com/lyrics/ronniemilsap/shelovesmycar.html
 name: She Loves My Car
@@ -23,8 +26,9 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1984-08-25'
+release_year: 1984
+runtime: 239786
 ---
-
 Drive all night up and down the highway
 It may be a Monday but it feels like Friday
 Pushing faster, pulling her close
@@ -60,6 +64,3 @@ She loves my car, she loves my car
 I wish she loved me the way she loves my car.
 
 Oh, my car...
-
-
-

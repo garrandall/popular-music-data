@@ -1,8 +1,11 @@
 ---
+album: Up-Tight
 artists:
 - Stevie Wonder
+external_ids:
+  spotify: spotify:track:5DzShaqmkRLHZbMtm1oY4C
 features: []
-genres: []
+first_released_as_single: false
 key: blowin-in-the-wind-stevie-wonder
 lyrics_url: https://www.azlyrics.com/lyrics/steviewonder/blowininthewind.html
 name: Blowin In The Wind
@@ -47,8 +50,9 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1966-09-24'
+release_year: 1966
+runtime: 224773
 ---
-
 How many roads must a man walk down before they call him a man?
 How many seas must a white dove sail before she sleeps in the sand?
 How many times must the canon balls fly before they're forever banned?
@@ -67,6 +71,3 @@ How many deaths will it take till he knows that too many people have died?
 The answer, my friend, is blowin' in the wind
 The answer is blowin' in the wind. 
 The answer is blowin' in the wind.
-
-
-

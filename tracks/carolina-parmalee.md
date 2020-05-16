@@ -1,8 +1,11 @@
 ---
+album: Feels Like Carolina
 artists:
 - Parmalee
+external_ids:
+  spotify: spotify:track:7JKUEuxOW5NNieEjoW59sH
 features: []
-genres: []
+first_released_as_single: false
 key: carolina-parmalee
 lyrics_url: https://www.azlyrics.com/lyrics/parmalee/carolina.html
 name: Carolina
@@ -83,8 +86,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2014-02-08'
+release_year: 2013
+runtime: 201346
 ---
-
 Home is where my heart is still beating
 And I don't know when I'll see her again
 I hate to see her cry when I'm leaving
@@ -132,6 +136,3 @@ She feels like Carolina (Carolina)
 Looks like California (California)
 She makes me feel like home's not so far away
 She makes me feel like home's not so far away
-
-
-

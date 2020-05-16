@@ -1,8 +1,11 @@
 ---
+album: 'One for the Road: Canadian Tour 1984'
 artists:
 - April Wine
+external_ids:
+  spotify: spotify:track:0bT9zH62RHMtpQm38XNwPJ
 features: []
-genres: []
+first_released_as_single: false
 key: roller-april-wine
 lyrics_url: https://www.azlyrics.com/lyrics/aprilwine/roller.html
 name: Roller
@@ -51,8 +54,9 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1979-05-12'
+release_year: 1979
+runtime: 217026
 ---
-
 Alright
 
 Gonna catch a flight to Nevada
@@ -95,6 +99,3 @@ Bye bye bye bye bye bye bye
 Bye bye bye bye bye bye bye
 Bye bye bye bye bye bye bye
 Ow!
-
-
-

@@ -1,9 +1,12 @@
 ---
+album: Take Two
 artists:
 - Marvin Gaye
 - Kim Weston
+external_ids:
+  spotify: spotify:track:0UERoCKd24PKovd4BwRzBQ
 features: []
-genres: []
+first_released_as_single: false
 key: it-takes-two-marvin-gaye-kim-weston
 lyrics_url: https://genius.com/Marvin-gaye-and-kim-weston-it-takes-two-lyrics
 name: It Takes Two
@@ -56,6 +59,8 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1967-03-25'
+release_year: 1966
+runtime: 177666
 ---
 One can have a dream, baby
  Two can make that dream so real

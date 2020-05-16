@@ -1,9 +1,12 @@
 ---
+album: Shock Value II
 artists:
 - Timbaland
+external_ids:
+  spotify: spotify:track:2DHc2e5bBn4UzY0ENVFrUl
 features:
 - Justin Timberlake
-genres: []
+first_released_as_single: false
 key: carry-out-timbaland-justin-timberlake
 lyrics_url: https://www.azlyrics.com/lyrics/timbaland/carryout.html
 name: Carry Out
@@ -112,9 +115,9 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2010-06-12'
+release_year: 2009
+runtime: 232466
 ---
-
-
 Ha hah! Eh-eh-eh, ha hah!
 Ah baby oh my baby down to (carry out)
 Ah baby oh my baby down to (carry out)
@@ -216,6 +219,3 @@ Cut me out
 
 
 Don't you cut me out
-
-
-

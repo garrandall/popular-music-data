@@ -1,8 +1,11 @@
 ---
+album: Dusty In Memphis
 artists:
 - Dusty Springfield
+external_ids:
+  spotify: spotify:track:7IGpCCRB7MO3z4xUgKAjOn
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-forget-about-me-dusty-springfield
 lyrics_url: https://genius.com/Dusty-springfield-dont-forget-about-me-lyrics
 name: Don't Forget About Me
@@ -31,6 +34,8 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1969-04-05'
+release_year: 1969
+runtime: 172973
 ---
 Baby, I know you've got to go
 And I have no right to tell you not to go

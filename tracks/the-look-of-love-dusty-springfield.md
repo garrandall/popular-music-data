@@ -1,8 +1,11 @@
 ---
+album: The Look Of Love
 artists:
 - Dusty Springfield
+external_ids:
+  spotify: spotify:track:1Kx5LdJPpqRXKUUHBu9CTe
 features: []
-genres: []
+first_released_as_single: false
 key: the-look-of-love-dusty-springfield
 lyrics_url: https://www.musixmatch.com/lyrics/Dusty-Springfield/The-Look-of-Love
 name: The Look Of Love
@@ -67,6 +70,8 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1967-11-18'
+release_year: 1967
+runtime: 216266
 ---
 The Look of Love
 Is in your eyes

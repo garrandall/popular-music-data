@@ -1,8 +1,11 @@
 ---
+album: Rolling Papers
 artists:
 - Wiz Khalifa
+external_ids:
+  spotify: spotify:track:5A6OHHy73AR5tLxgTc98zz
 features: []
-genres: []
+first_released_as_single: false
 key: black-and-yellow-wiz-khalifa
 lyrics_url: https://genius.com/Wiz-khalifa-black-and-yellow-lyrics
 name: Black And Yellow
@@ -107,6 +110,8 @@ rankings:
   rank: 38
   ranking_list: Billboard Hot 100
   start_date: '2011-04-09'
+release_year: 2010
+runtime: 217666
 ---
 Yeah, uh-huh, you know what it is
 Black and yellow, black and yellow

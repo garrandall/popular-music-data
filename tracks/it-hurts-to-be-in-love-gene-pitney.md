@@ -1,8 +1,11 @@
 ---
+album: This is Gene Pitney
 artists:
 - Gene Pitney
+external_ids:
+  spotify: spotify:track:0Sr9pmp8QMts6l3kAunRrP
 features: []
-genres: []
+first_released_as_single: false
 key: it-hurts-to-be-in-love-gene-pitney
 lyrics_url: https://www.azlyrics.com/lyrics/genepitney/ithurtstobeinlove.html
 name: It Hurts To Be In Love
@@ -71,8 +74,9 @@ rankings:
   rank: 22
   ranking_list: Billboard Hot 100
   start_date: '1964-10-31'
+release_year: 1964
+runtime: 152760
 ---
-
 It hurts to be in love, when the only one you love
 Turns out to be someone who's not in love with you.
 It hurts to love her so, when deep down inside you know,
@@ -103,6 +107,3 @@ It hurts to be in love this way.
 It hurts to be in love, day and night, night and day
 It hurts to be in love. night and day, day and night
 It hurts to be in love, day and night, night and day...
-
-
-

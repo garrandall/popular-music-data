@@ -1,8 +1,11 @@
 ---
+album: See the Light
 artists:
 - The Jeff Healey Band
+external_ids:
+  spotify: spotify:track:5TdObYbAfMpkmlRmd9UsFj
 features: []
-genres: []
+first_released_as_single: false
 key: angel-eyes-the-jeff-healey-band
 lyrics_url: https://genius.com/The-jeff-healey-band-angel-eyes-lyrics
 name: Angel Eyes
@@ -95,6 +98,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1989-11-11'
+release_year: 1988
+runtime: 321093
 ---
 Girl, you're looking fine tonight
 And every guy has got you in his sight

@@ -1,8 +1,11 @@
 ---
+album: The Best Of Ray Stevens
 artists:
 - Ray Stevens
+external_ids:
+  spotify: spotify:track:5yAf0G19kses3jEyJuFozV
 features: []
-genres: []
+first_released_as_single: false
 key: harry-the-hairy-ape-ray-stevens
 lyrics_url: https://www.azlyrics.com/lyrics/raystevens/harrythehairyape.html
 name: Harry The Hairy Ape
@@ -43,8 +46,9 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1963-08-10'
+release_year: 1899
+runtime: 187194
 ---
-
 Well, a strange thing happened the other night
 You won't believe it, but I swear it's true
 Harry the hairy ape made his escape from the city zoo
@@ -115,6 +119,3 @@ Hoo hoo hoo
 Hoo hoo hoo
 Hoo hoo hoo
 ...
-
-
-

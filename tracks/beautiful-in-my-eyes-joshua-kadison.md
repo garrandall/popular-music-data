@@ -1,8 +1,11 @@
 ---
+album: Painted Desert Serenade
 artists:
 - Joshua Kadison
+external_ids:
+  spotify: spotify:track:5o8gWPZxr4GZFslU85YMmu
 features: []
-genres: []
+first_released_as_single: false
 key: beautiful-in-my-eyes-joshua-kadison
 lyrics_url: https://genius.com/Joshua-kadison-beautiful-in-my-eyes-lyrics
 name: Beautiful In My Eyes
@@ -91,6 +94,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1994-09-03'
+release_year: 1993
+runtime: 249493
 ---
 You're my peace of mind
 In this crazy world

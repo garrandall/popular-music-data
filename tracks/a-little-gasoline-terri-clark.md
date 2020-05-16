@@ -1,8 +1,11 @@
 ---
+album: Fearless
 artists:
 - Terri Clark
+external_ids:
+  spotify: spotify:track:3YAYui2FXhYxjK88359km2
 features: []
-genres: []
+first_released_as_single: false
 key: a-little-gasoline-terri-clark
 lyrics_url: https://www.azlyrics.com/lyrics/terriclark/alittlegasoline.html
 name: A Little Gasoline
@@ -31,8 +34,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2001-01-20'
+release_year: 2000
+runtime: 188640
 ---
-
 Throwing pictures out the window
 Scattered by the way the wind blows
 Bye Bye Baby , that's the last I'll see of you
@@ -66,6 +70,3 @@ Let 'em go cause I don't need no strings
 Just give me a road and a Little Gasoline
 
 Just give me a road and a Little Gasoline.
-
-
-

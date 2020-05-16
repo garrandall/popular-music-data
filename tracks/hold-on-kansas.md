@@ -1,8 +1,11 @@
 ---
+album: Audio-Visions
 artists:
 - Kansas
+external_ids:
+  spotify: spotify:track:40TWh42KM4oy6NK6bByNFH
 features: []
-genres: []
+first_released_as_single: false
 key: hold-on-kansas
 lyrics_url: https://genius.com/Kansas-hold-on-lyrics
 name: Hold On
@@ -51,6 +54,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1980-11-29'
+release_year: 1980
+runtime: 231906
 ---
 Look in the mirror and tell me
 Just what you see

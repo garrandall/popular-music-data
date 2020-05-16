@@ -1,8 +1,11 @@
 ---
+album: Rhythm Romance
 artists:
 - The Romantics
+external_ids:
+  spotify: spotify:track:3X6J7jkrImccc8VR1H0La0
 features: []
-genres: []
+first_released_as_single: false
 key: test-of-time-the-romantics
 lyrics_url: https://www.azlyrics.com/lyrics/romantics/testoftime.html
 name: Test Of Time
@@ -31,8 +34,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1985-10-05'
+release_year: 1985
+runtime: 203266
 ---
-
 You're the one, now, I know it
 In time, I'm gonna show you
 Day by day, I pick myself up
@@ -78,6 +82,3 @@ I don't mind, oh
 Yes, it's true this heart'll keep on waitin'
 Now I know it, say it over and over
 Just a test of time
-
-
-

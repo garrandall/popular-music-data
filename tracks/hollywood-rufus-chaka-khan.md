@@ -1,9 +1,12 @@
 ---
+album: Ask Rufus
 artists:
 - Rufus
+external_ids:
+  spotify: spotify:track:0pAl5djH0oEexbTFHRl2Wk
 features:
 - Chaka Khan
-genres: []
+first_released_as_single: false
 key: hollywood-rufus-chaka-khan
 lyrics_url: https://genius.com/Rufus-hollywood-lyrics
 name: Hollywood
@@ -40,6 +43,8 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '1977-06-25'
+release_year: 1977
+runtime: 249400
 ---
 He's on his way
 He's goin' to Hollywood

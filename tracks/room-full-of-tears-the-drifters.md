@@ -1,8 +1,11 @@
 ---
+album: Save the Last Dance for Me
 artists:
 - The Drifters
+external_ids:
+  spotify: spotify:track:480GBOuqwXuYtWF3wuiWQ0
 features: []
-genres: []
+first_released_as_single: false
 key: room-full-of-tears-the-drifters
 lyrics_url: https://www.azlyrics.com/lyrics/drifters/roomfulloftears.html
 name: Room Full Of Tears
@@ -27,8 +30,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1962-01-20'
+release_year: 1961
+runtime: 164600
 ---
-
 A room full of tears
 A room full of tears
 
@@ -86,6 +90,3 @@ A room full of tears
 (A room full of tears)
 A room full of tears
 (A room full of tears)
-
-
-

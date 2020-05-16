@@ -1,8 +1,11 @@
 ---
+album: Goldisc Records From The Vault Vol. 6
 artists:
 - Jimmy Barnes
+external_ids:
+  spotify: spotify:track:7qYdeUXDt80ZXc4YRBC73u
 features: []
-genres: []
+first_released_as_single: false
 key: no-regrets-jimmy-barnes
 lyrics_url: https://www.musixmatch.com/lyrics/Jimmy-Barnes/No-Regrets
 name: No Regrets
@@ -15,6 +18,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1959-03-16'
+release_year: 1959
+runtime: 199733
 ---
 (I've no regrets)
 No regrets, no regrets

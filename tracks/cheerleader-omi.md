@@ -1,8 +1,11 @@
 ---
+album: Ultra Dance 16
 artists:
 - OMI
+external_ids:
+  spotify: spotify:track:1na4IEqrDSjrWbKxIKaGSo
 features: []
-genres: []
+first_released_as_single: true
 key: cheerleader-omi
 lyrics_url: https://www.azlyrics.com/lyrics/omi/cheerleader.html
 name: Cheerleader
@@ -147,8 +150,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2016-01-02'
+release_year: 2015
+runtime: 181280
 ---
-
 Dis ah no mystery check the history
 From you hear my voice it's no secret
 Cheerleader song make the world sing along
@@ -205,6 +209,3 @@ Oh I think that I found myself a cheerleader
 She is always right there when I need her
 Oh I think that I found myself a cheerleader
 She is always right there when I need her
-
-
-

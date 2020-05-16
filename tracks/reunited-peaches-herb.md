@@ -1,9 +1,12 @@
 ---
+album: 2 Hot!
 artists:
 - Peaches
 - Herb
+external_ids:
+  spotify: spotify:track:7wbPfd2mXbStoZZSnHNd2V
 features: []
-genres: []
+first_released_as_single: false
 key: reunited-peaches-herb
 lyrics_url: https://www.azlyrics.com/lyrics/peachesherb/reunited.html
 name: Reunited
@@ -100,9 +103,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1979-08-18'
+release_year: 1978
+runtime: 345240
 ---
-
-
 I was a fool to ever leave your side
 Me minus you is such a lonely ride
 The breakup we had has made me lonesome and sad
@@ -154,6 +157,3 @@ Reunited 'cause we understood
 There's one perfect fit
 And, sugar, this one is it
 We both are so excited...
-
-
-

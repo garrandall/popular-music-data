@@ -1,8 +1,11 @@
 ---
+album: Crazysexycool
 artists:
 - TLC
+external_ids:
+  spotify: spotify:track:6dW75XbJ1WAMljOXWjTK46
 features: []
-genres: []
+first_released_as_single: false
 key: red-light-special-tlc
 lyrics_url: https://www.azlyrics.com/lyrics/tlc/redlightspecial.html
 name: Red Light Special
@@ -95,8 +98,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1995-07-29'
+release_year: 1994
+runtime: 303960
 ---
-
 Take a good look at it
 Look at it now
 Might be the last time you'll
@@ -152,4 +156,3 @@ I need someone who understands
 I'm a woman a real woman
 I know just what I want
 I know just who I am
-

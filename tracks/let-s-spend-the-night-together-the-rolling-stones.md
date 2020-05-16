@@ -1,8 +1,11 @@
 ---
+album: Between The Buttons
 artists:
 - The Rolling Stones
+external_ids:
+  spotify: spotify:track:6kvQgu9PRR9X2HC9n4feFY
 features: []
-genres: []
+first_released_as_single: false
 key: let-s-spend-the-night-together-the-rolling-stones
 lyrics_url: https://genius.com/The-rolling-stones-lets-spend-the-night-together-lyrics
 name: Let's Spend The Night Together
@@ -39,6 +42,8 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '1967-03-11'
+release_year: 1966
+runtime: 207000
 ---
 My-My-My-My
 

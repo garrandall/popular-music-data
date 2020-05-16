@@ -1,8 +1,11 @@
 ---
+album: Blown Away
 artists:
 - Carrie Underwood
+external_ids:
+  spotify: spotify:track:0vFMQi8ZnOM2y8cuReZTZ2
 features: []
-genres: []
+first_released_as_single: false
 key: blown-away-carrie-underwood
 lyrics_url: https://genius.com/Carrie-underwood-blown-away-lyrics
 name: Blown Away
@@ -95,6 +98,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2012-12-15'
+release_year: 2012
+runtime: 240133
 ---
 Dry lightning cracks across the skies
 Those storm clouds gather in her eyes

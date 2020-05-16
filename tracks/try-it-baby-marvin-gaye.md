@@ -1,8 +1,11 @@
 ---
+album: How Sweet It Is To Be Loved By You
 artists:
 - Marvin Gaye
+external_ids:
+  spotify: spotify:track:34Ibs5Fkbs4QF3uqkzm2oo
 features: []
-genres: []
+first_released_as_single: false
 key: try-it-baby-marvin-gaye
 lyrics_url: https://genius.com/Marvin-gaye-try-it-baby-lyrics
 name: Try It Baby
@@ -51,6 +54,8 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '1964-08-15'
+release_year: 1964
+runtime: 170533
 ---
 Now you're moving on up, pretty baby
 You're leaving me behind

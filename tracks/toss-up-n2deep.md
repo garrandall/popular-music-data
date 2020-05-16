@@ -1,8 +1,11 @@
 ---
+album: Back To The Hotel
 artists:
 - N2Deep
+external_ids:
+  spotify: spotify:track:4FRBQNNpCuXVSETt241CD2
 features: []
-genres: []
+first_released_as_single: false
 key: toss-up-n2deep
 lyrics_url: https://genius.com/N2deep-toss-up-lyrics
 name: Toss-Up
@@ -19,6 +22,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1993-02-27'
+release_year: 1992
+runtime: 240346
 ---
 Late one night when I was creepin
 And the rest of the world was sleepin

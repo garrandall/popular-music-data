@@ -1,8 +1,11 @@
 ---
+album: Draw The Line
 artists:
 - Aerosmith
+external_ids:
+  spotify: spotify:track:33fNAtcL4IKU5kei0P4psq
 features: []
-genres: []
+first_released_as_single: false
 key: kings-and-queens-aerosmith
 lyrics_url: https://www.azlyrics.com/lyrics/aerosmith/kingsandqueens.html
 name: Kings And Queens
@@ -27,8 +30,9 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1978-04-08'
+release_year: 1977
+runtime: 295133
 ---
-
 Long ago in days I'm told
 Were ruled by Lords of greed
 Maidens fared with gold
@@ -65,6 +69,3 @@ Kings and queens and guillotines...
 Live and no reply they died
 Long ago were days I told...
 Kings and queens and guillotines...
-
-
-

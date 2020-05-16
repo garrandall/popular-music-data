@@ -1,9 +1,12 @@
 ---
+album: Graffiti U
 artists:
 - Keith Urban
+external_ids:
+  spotify: spotify:track:4pWb8UZ6IPVJA3CPjCNgzq
 features:
 - Julia Michaels
-genres: []
+first_released_as_single: false
 key: coming-home-keith-urban-julia-michaels
 lyrics_url: https://www.azlyrics.com/lyrics/keithurban/cominghome.html
 name: Coming Home
@@ -36,8 +39,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2018-08-18'
+release_year: 2018
+runtime: 213938
 ---
-
 I wake up feeling
 In my soul I'm
 Living someone else's life
@@ -109,6 +113,3 @@ Coming home
 The sidewalks filled with different faces
 So many place but there's none like mine
 Coming home
-
-
-

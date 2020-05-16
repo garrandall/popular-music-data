@@ -1,8 +1,11 @@
 ---
+album: When You're No. 1
 artists:
 - Gene Chandler
+external_ids:
+  spotify: spotify:track:77BjZ9ZiH5dgtumQ1QRawN
 features: []
-genres: []
+first_released_as_single: false
 key: when-you-re--1-gene-chandler
 lyrics_url: https://genius.com/Gene-chandler-when-youre-1-lyrics
 name: 'When You''re #1'
@@ -15,6 +18,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1979-10-13'
+release_year: 1977
+runtime: 555146
 ---
 On the Southside of Chicago
 Bobby boogie as the people

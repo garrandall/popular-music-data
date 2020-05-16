@@ -1,8 +1,11 @@
 ---
+album: Time Well Wasted
 artists:
 - Brad Paisley
+external_ids:
+  spotify: spotify:track:5JTCdbn2KE4vx1vt8HJ3pZ
 features: []
-genres: []
+first_released_as_single: false
 key: the-world-brad-paisley
 lyrics_url: https://genius.com/Brad-paisley-the-world-lyrics
 name: The World
@@ -87,6 +90,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2006-09-16'
+release_year: 2005
+runtime: 241653
 ---
 To the teller down at the bank
 You're just another checking account

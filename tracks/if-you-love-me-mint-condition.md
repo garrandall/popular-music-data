@@ -1,8 +1,11 @@
 ---
+album: Life's Aquarium
 artists:
 - Mint Condition
+external_ids:
+  spotify: spotify:track:3VZMAx8GdrO73kvTZDD8rU
 features: []
-genres: []
+first_released_as_single: false
 key: if-you-love-me-mint-condition
 lyrics_url: https://genius.com/Mint-condition-if-you-love-me-lyrics
 name: If You Love Me
@@ -87,6 +90,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2000-03-18'
+release_year: 1999
+runtime: 385719
 ---
 If you love me
 Like you say you do

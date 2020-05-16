@@ -1,8 +1,11 @@
 ---
+album: Kihnspiracy
 artists:
 - Greg Kihn Band
+external_ids:
+  spotify: spotify:track:3iw9cUcnKKboLyUEsBlRwP
 features: []
-genres: []
+first_released_as_single: false
 key: love-never-fails-greg-kihn-band
 lyrics_url: https://www.azlyrics.com/lyrics/gregkihnband/loveneverfails.html
 name: Love Never Fails
@@ -31,8 +34,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1983-07-09'
+release_year: 1983
+runtime: 206360
 ---
-
 Have you ever been as lonely as a man upon a hill
 He got no one's affection and I guess he never will
 He just sits there in his overcoat, looks down at his shoes
@@ -57,6 +61,3 @@ There are good times, there are bad times
 There are times that can't be found
 You can get 'em, don't forget 'em
 And don't let 'em bring me down
-
-
-

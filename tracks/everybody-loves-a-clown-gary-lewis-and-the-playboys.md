@@ -1,8 +1,11 @@
 ---
+album: Everybody Loves A Clown
 artists:
 - Gary Lewis And The Playboys
+external_ids:
+  spotify: spotify:track:7oyWv82I9J915DAspliyq7
 features: []
-genres: []
+first_released_as_single: false
 key: everybody-loves-a-clown-gary-lewis-and-the-playboys
 lyrics_url: https://genius.com/Gary-lewis-and-the-playboys-everybody-loves-a-clown-lyrics
 name: Everybody Loves A Clown
@@ -51,6 +54,8 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '1965-12-04'
+release_year: 1965
+runtime: 145866
 ---
 Everybody loves a clown, so why don't you?
 Everybody laughs at the things that I say and do

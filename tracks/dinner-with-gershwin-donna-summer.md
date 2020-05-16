@@ -1,8 +1,11 @@
 ---
+album: All Systems Go
 artists:
 - Donna Summer
+external_ids:
+  spotify: spotify:track:6rXTPwAPz9IvH4Qc5tIq2H
 features: []
-genres: []
+first_released_as_single: false
 key: dinner-with-gershwin-donna-summer
 lyrics_url: https://www.azlyrics.com/lyrics/donnasummer/dinnerwithgershwin.html
 name: Dinner With Gershwin
@@ -51,8 +54,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1987-10-31'
+release_year: 1987
+runtime: 280160
 ---
-
 I want to have dinner with Gershwin
 I want to watch Rembrandt sketch
 I want to talk theory with Curie
@@ -107,6 +111,3 @@ I want to have dinner with Gershwin
 I want to watch Rembrandt sketch
 I want to talk theory with Curie
 Impossible I guess...
-
-
-

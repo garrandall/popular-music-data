@@ -1,8 +1,11 @@
 ---
+album: In God We Trust
 artists:
 - Stryper
+external_ids:
+  spotify: spotify:track:6GjZx56DlDIX75KoM4hRf9
 features: []
-genres: []
+first_released_as_single: false
 key: i-believe-in-you-stryper
 lyrics_url: https://www.azlyrics.com/lyrics/stryper/ibelieveinyou.html
 name: I Believe In You
@@ -27,8 +30,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1988-12-03'
+release_year: 1988
+runtime: 197333
 ---
-
 Time seemed to pass me by
 I found myself alone, wondering why
 You came into my life
@@ -54,6 +58,3 @@ Whoa-oh through and through
 Always and forever it will be you and me
 I will sing to you and all you do
 Always and forever it will be you and me together
-
-
-

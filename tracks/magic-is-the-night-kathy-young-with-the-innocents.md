@@ -1,8 +1,12 @@
 ---
+album: Great Rare Songs, Vol. 2
 artists:
-- Kathy Young With The Innocents
-features: []
-genres: []
+- Kathy Young
+external_ids:
+  spotify: spotify:track:4bgZaavtTfbdFN0Utz81th
+features:
+- The Innocents
+first_released_as_single: false
 key: magic-is-the-night-kathy-young-with-the-innocents
 name: Magic Is The Night
 rankings:
@@ -18,5 +22,7 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1961-10-02'
+release_year: 1961
+runtime: 150773
 ---
 

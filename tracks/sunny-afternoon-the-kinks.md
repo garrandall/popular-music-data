@@ -1,8 +1,11 @@
 ---
+album: Face to Face
 artists:
 - The Kinks
+external_ids:
+  spotify: spotify:track:0DQqzCHlPyKQXfF8uL01SI
 features: []
-genres: []
+first_released_as_single: false
 key: sunny-afternoon-the-kinks
 lyrics_url: https://genius.com/The-kinks-sunny-afternoon-lyrics
 name: Sunny Afternoon
@@ -51,6 +54,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1966-10-15'
+release_year: 1966
+runtime: 210525
 ---
 The tax man's taken all my dough
 And left me in my stately home

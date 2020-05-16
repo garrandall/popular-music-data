@@ -1,8 +1,11 @@
 ---
+album: Them Vs. You Vs. Me
 artists:
 - Finger Eleven
+external_ids:
+  spotify: spotify:track:28IEbk5a7twNTbUEvWslUb
 features: []
-genres: []
+first_released_as_single: false
 key: paralyzer-finger-eleven
 lyrics_url: https://genius.com/Finger-eleven-paralyzer-lyrics
 name: Paralyzer
@@ -207,6 +210,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2008-05-31'
+release_year: 2007
+runtime: 208106
 ---
 I hold on so nervously to me and my drink
 I wish it was cooling me

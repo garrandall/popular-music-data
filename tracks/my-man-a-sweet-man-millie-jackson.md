@@ -1,8 +1,11 @@
 ---
+album: 21 of the Best 1971-83
 artists:
 - Millie Jackson
+external_ids:
+  spotify: spotify:track:3paCE1wymMBdZebSwJT5kP
 features: []
-genres: []
+first_released_as_single: false
 key: my-man-a-sweet-man-millie-jackson
 lyrics_url: https://genius.com/Millie-jackson-my-man-a-sweet-man-lyrics
 name: My Man A Sweet Man
@@ -47,6 +50,8 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '1972-10-07'
+release_year: 1972
+runtime: 151899
 ---
 My man is a sweet man
 My man is a kind man

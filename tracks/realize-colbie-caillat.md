@@ -1,8 +1,11 @@
 ---
+album: Coco
 artists:
 - Colbie Caillat
+external_ids:
+  spotify: spotify:track:5OGkKx8jP0A5KSULEc6XYZ
 features: []
-genres: []
+first_released_as_single: false
 key: realize-colbie-caillat
 lyrics_url: https://www.azlyrics.com/lyrics/colbiecaillat/realize.html
 name: Realize
@@ -111,8 +114,9 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '2008-08-16'
+release_year: 2007
+runtime: 244106
 ---
-
 Take time to realize,
 That your warmth is crashing down on in.
 Take time to realize,
@@ -175,6 +179,3 @@ Realize.
 Realize.
 Realize.
 Realize.
-
-
-

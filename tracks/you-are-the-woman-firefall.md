@@ -1,8 +1,11 @@
 ---
+album: Firefall
 artists:
 - Firefall
+external_ids:
+  spotify: spotify:track:4iiLzvbh0bXMnomiB6DIuk
 features: []
-genres: []
+first_released_as_single: false
 key: you-are-the-woman-firefall
 lyrics_url: https://www.azlyrics.com/lyrics/firefall/youarethewoman.html
 name: You Are The Woman
@@ -95,8 +98,9 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1977-01-15'
+release_year: 1976
+runtime: 164440
 ---
-
 You are the woman that I've always dreamed of
 I knew it from the start
 I saw your face and that's the last I've seen of my heart
@@ -131,6 +135,3 @@ I saw your face and that's the last I've seen of my heart
 
 Of my heart
 Oh oh of my heart
-
-
-

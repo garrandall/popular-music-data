@@ -1,8 +1,11 @@
 ---
+album: Ultraviolence
 artists:
 - Lana Del Rey
+external_ids:
+  spotify: spotify:track:5Y6nVaayzitvsD5F7nr3DV
 features: []
-genres: []
+first_released_as_single: false
 key: west-coast-lana-del-rey
 lyrics_url: https://www.azlyrics.com/lyrics/lanadelrey/westcoast.html
 name: West Coast
@@ -15,8 +18,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2014-07-05'
+release_year: 2014
+runtime: 256760
 ---
-
 Down on the West Coast they got a saying
 "If you're not drinking then you're not playing"
 But you've got the music, you've got the music in you, don't you?
@@ -77,6 +81,3 @@ On the balcony and I'm saying
 Move baby, move baby, I'm in love
 I'm in love
 I'm in love
-
-
-

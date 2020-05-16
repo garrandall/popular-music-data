@@ -1,8 +1,11 @@
 ---
+album: She's So Unusual
 artists:
 - Cyndi Lauper
+external_ids:
+  spotify: spotify:track:7rKTKisa4fU5tKqK9Qmag8
 features: []
-genres: []
+first_released_as_single: false
 key: she-bop-cyndi-lauper
 lyrics_url: https://www.azlyrics.com/lyrics/cyndilauper/shebop.html
 name: She Bop
@@ -79,8 +82,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1984-11-17'
+release_year: 1979
+runtime: 384426
 ---
-
 We-hell-I see them every night in tight blue jeans -
 In the pages of a blue boy magazine
 Hey I've been thinking of a new sensation
@@ -111,6 +115,3 @@ Ain't no law against it yet
 Oop - she bop - she bop
 
 She bop - he bop - we bop...
-
-
-

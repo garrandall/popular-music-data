@@ -1,8 +1,11 @@
 ---
+album: Care Package
 artists:
 - Drake
+external_ids:
+  spotify: spotify:track:4Wjhj0WjkyECccfHVIgaTq
 features: []
-genres: []
+first_released_as_single: false
 key: trust-issues-drake
 lyrics_url: https://www.musixmatch.com/lyrics/Drake/Trust-Issues
 name: Trust Issues
@@ -11,6 +14,8 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '2019-08-17'
+release_year: 2019
+runtime: 281518
 ---
 Oh yeah, oh yeah
 Call up I'm drinking, let's

@@ -1,9 +1,12 @@
 ---
+album: Greatest Hits 1979-1990
 artists:
 - Dionne Warwick
 - Jeffrey Osborne
+external_ids:
+  spotify: spotify:track:22zsrrUQWR7G6LVtszuKam
 features: []
-genres: []
+first_released_as_single: false
 key: love-power-dionne-warwick-jeffrey-osborne
 lyrics_url: https://www.azlyrics.com/lyrics/dionnewarwick/lovepower.html
 name: Love Power
@@ -64,8 +67,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1987-10-10'
+release_year: 1987
+runtime: 273706
 ---
-
 Saw a psychic in LA
 Was just the other day
 And she told me what I knew was true
@@ -127,6 +131,3 @@ To make it, it takes
 Love power, it rules us
 
 You see that I have never gotten over you
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Chicago VII
 artists:
 - Chicago
+external_ids:
+  spotify: spotify:track:3apndFiT1MCYS9qSy4NJCP
 features: []
-genres: []
+first_released_as_single: false
 key: wishing-you-were-here-chicago
 lyrics_url: https://www.azlyrics.com/lyrics/chicago/wishingyouwerehere.html
 name: Wishing You Were Here
@@ -67,6 +70,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1975-01-25'
+release_year: 1974
+runtime: 275253
 ---
 Sleepless hours and dreamless nights and far aways
 Ooo oo oo, wishing you were here

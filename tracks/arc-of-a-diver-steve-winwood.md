@@ -1,8 +1,11 @@
 ---
+album: Arc Of A Diver
 artists:
 - Steve Winwood
+external_ids:
+  spotify: spotify:track:4kOKnL62lB0g5Zt3fOveT3
 features: []
-genres: []
+first_released_as_single: false
 key: arc-of-a-diver-steve-winwood
 lyrics_url: https://www.azlyrics.com/lyrics/stevewinwood/arcofadiver.html
 name: Arc Of A Diver
@@ -43,8 +46,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1981-07-04'
+release_year: 1980
+runtime: 325960
 ---
-
 She bathes me in sweetness I cannot reveal
 For sharing dreams I need my woman
 This humble expression meagerly dressed
@@ -74,6 +78,3 @@ Warm water breathing she helps me here
 With you my love we're going to raid the future
 With you my love we're going to stick up the past
 We'll hold today to ransom 'til our quartz clock stop until yesterday
-
-
-

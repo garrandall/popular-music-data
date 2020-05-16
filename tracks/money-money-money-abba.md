@@ -1,8 +1,11 @@
 ---
+album: Arrival
 artists:
 - ABBA
+external_ids:
+  spotify: spotify:track:4sNG5v6T3N8nrfAfNIHE9v
 features: []
-genres: []
+first_released_as_single: false
 key: money-money-money-abba
 lyrics_url: https://www.azlyrics.com/lyrics/abba/moneymoneymoney.html
 name: Money Money Money
@@ -35,8 +38,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1977-12-03'
+release_year: 1976
+runtime: 186506
 ---
-
 I work all night, I work all day
 To pay the bills I have to pay
 Ain't it sad?
@@ -99,6 +103,3 @@ If I had a little money
 It's a rich man's world
 
 It's a rich man's world
-
-
-

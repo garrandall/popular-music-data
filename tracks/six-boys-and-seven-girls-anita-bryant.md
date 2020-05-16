@@ -1,8 +1,11 @@
 ---
+album: The Anita Bryant Collection 1958-62
 artists:
 - Anita Bryant
+external_ids:
+  spotify: spotify:track:0EvtiiZV14kwGELGlw9vyw
 features: []
-genres: []
+first_released_as_single: false
 key: six-boys-and-seven-girls-anita-bryant
 lyrics_url: https://genius.com/Anita-bryant-six-boys-and-seven-girls-lyrics
 name: Six Boys And Seven Girls
@@ -31,6 +34,8 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '1959-10-26'
+release_year: 1959
+runtime: 153386
 ---
 There were six boys and seven girls
 Only six boys and seven girls

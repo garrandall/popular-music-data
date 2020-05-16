@@ -1,8 +1,11 @@
 ---
+album: 20 Greatest Hits
 artists:
 - Tyrone Davis
+external_ids:
+  spotify: spotify:track:0cUqL3CuQR2QsXKlzmCJVe
 features: []
-genres: []
+first_released_as_single: false
 key: without-you-in-my-life-tyrone-davis
 lyrics_url: https://www.musixmatch.com/lyrics/Tyrone-Davis/Without-You-in-My-Life
 name: Without You In My Life
@@ -43,6 +46,8 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '1973-06-16'
+release_year: 1973
+runtime: 203200
 ---
 Oh, baby
 

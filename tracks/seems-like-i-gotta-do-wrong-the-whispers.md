@@ -1,8 +1,11 @@
 ---
+album: Whispers Gettin' Louder
 artists:
 - The Whispers
+external_ids:
+  spotify: spotify:track:2TikzBb2EHwzzgZ5JHeigw
 features: []
-genres: []
+first_released_as_single: false
 key: seems-like-i-gotta-do-wrong-the-whispers
 lyrics_url: https://genius.com/The-whispers-seems-like-i-gotta-do-wrong-lyrics
 name: Seems Like I Gotta Do Wrong
@@ -43,6 +46,8 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '1970-11-14'
+release_year: 1970
+runtime: 169130
 ---
 Another day has come and gone
 In a world where I don't belong

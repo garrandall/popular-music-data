@@ -1,8 +1,11 @@
 ---
+album: thirty one
 artists:
 - Jana Kramer
+external_ids:
+  spotify: spotify:track:6VZCuvHwk3xmjwgKga0bNi
 features: []
-genres: []
+first_released_as_single: true
 key: i-got-the-boy-jana-kramer
 lyrics_url: https://genius.com/Jana-kramer-i-got-the-boy-lyrics
 name: I Got The Boy
@@ -71,6 +74,8 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '2016-02-13'
+release_year: 2015
+runtime: 201013
 ---
 I saw your picture in a paper
 Honeymoon in Jamaica, she's a lucky girl

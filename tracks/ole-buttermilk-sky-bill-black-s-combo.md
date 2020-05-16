@@ -1,8 +1,11 @@
 ---
+album: 'Soul Masters: Don''t Be Cruel'
 artists:
 - Bill Black's Combo
+external_ids:
+  spotify: spotify:track:5We82Iz4w5b59njQQUiKEw
 features: []
-genres: []
+first_released_as_single: false
 key: ole-buttermilk-sky-bill-black-s-combo
 name: Ole Buttermilk Sky
 rankings:
@@ -38,5 +41,7 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1961-07-24'
+release_year: 1961
+runtime: 134040
 ---
 

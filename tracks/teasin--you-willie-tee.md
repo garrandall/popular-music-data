@@ -1,8 +1,11 @@
 ---
+album: 'Beg, Scream & Shout!: Vol. 1'
 artists:
 - Willie Tee
+external_ids:
+  spotify: spotify:track:1C0bLI7y7UuhHhVRfgzcYc
 features: []
-genres: []
+first_released_as_single: false
 key: teasin--you-willie-tee
 lyrics_url: https://genius.com/Willie-tee-teasin-you-lyrics
 name: Teasin' You
@@ -15,6 +18,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1965-03-27'
+release_year: 1965
+runtime: 165333
 ---
 She's just teasin' you, though she's pleasin' you
 With those smiles she's putting down, you're the jivest cat

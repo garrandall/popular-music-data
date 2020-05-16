@@ -1,10 +1,13 @@
 ---
+album: NOT ALL HEROES WEAR CAPES
 artists:
 - Metro Boomin
+external_ids:
+  spotify: spotify:track:4XTzbFwfWScbuiuaZxcNkL
 features:
 - Offset
 - Drake
-genres: []
+first_released_as_single: false
 key: no-complaints-metro-boomin-offset-drake
 lyrics_url: https://www.azlyrics.com/lyrics/metroboomin/nocomplaints.html
 name: No Complaints
@@ -29,9 +32,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2017-10-07'
+release_year: 2017
+runtime: 261733
 ---
-
-
 Know what I'm sayin'?
 Fuck what y'all niggas doin'
 What you got goin' on, what's happenin'?
@@ -146,6 +149,3 @@ She fuckin' for some (smash)
 At 23 I bought it all, just to make sure, yeah, yeah!
 
 Metro Boomin want some more, nigga
-
-
-

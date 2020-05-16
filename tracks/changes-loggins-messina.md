@@ -1,9 +1,12 @@
 ---
+album: 'The Best: Loggins & Messina Sittin'' In Again'
 artists:
 - Loggins
 - Messina
+external_ids:
+  spotify: spotify:track:7nUoI3yZmghdrSyjfqI4qn
 features: []
-genres: []
+first_released_as_single: false
 key: changes-loggins-messina
 lyrics_url: https://www.azlyrics.com/lyrics/logginsmessina/changes.html
 name: Changes
@@ -16,8 +19,9 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1975-02-15'
+release_year: 1971
+runtime: 228226
 ---
-
 You are a young man and you're eager to seek
 A way to let the world know what you think
 The lesson learned is not taught in a school
@@ -57,6 +61,3 @@ Change is coming to help us succeed
 Change happens every day
 Change happens every day
 Change happens every day
-
-
-

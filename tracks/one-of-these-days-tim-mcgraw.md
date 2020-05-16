@@ -1,8 +1,11 @@
 ---
+album: Everywhere
 artists:
 - Tim McGraw
+external_ids:
+  spotify: spotify:track:2f50O9eDE3770AlLlYvrDq
 features: []
-genres: []
+first_released_as_single: false
 key: one-of-these-days-tim-mcgraw
 lyrics_url: https://www.azlyrics.com/lyrics/timmcgraw/oneofthesedays.html
 name: One Of These Days
@@ -47,8 +50,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1998-07-04'
+release_year: 1997
+runtime: 281960
 ---
-
 We used to chase that boy home from school
 We called him freckle faced red headed fool
 He was different, he wasn't cool like me
@@ -102,6 +106,3 @@ And then I'm gonna smile a little
 And maybe even laugh a little
 But one of these days...
 I'm gonna love me
-
-
-

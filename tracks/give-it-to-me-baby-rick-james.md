@@ -1,8 +1,11 @@
 ---
+album: Street Songs
 artists:
 - Rick James
+external_ids:
+  spotify: spotify:track:13v3siPyvy5TTEZYmGPPse
 features: []
-genres: []
+first_released_as_single: false
 key: give-it-to-me-baby-rick-james
 lyrics_url: https://genius.com/Rick-james-give-it-to-me-baby-lyrics
 name: Give It To Me Baby
@@ -63,6 +66,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1981-08-29'
+release_year: 1981
+runtime: 248133
 ---
 When I came home last night
 You wouldn't make love to me

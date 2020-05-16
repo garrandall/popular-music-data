@@ -1,9 +1,12 @@
 ---
+album: Imagine
 artists:
 - John Lennon
 - Plastic Ono Band
+external_ids:
+  spotify: spotify:track:3D9iV6cYkYJRAPFO6DRKIE
 features: []
-genres: []
+first_released_as_single: false
 key: jealous-guy-john-lennon-the-plastic-ono-band
 lyrics_url: https://www.musixmatch.com/lyrics/John-Lennon-The-Plastic-Ono-Band-The-Flux-Fiddlers-3/Jealous-Guy-Ultimate-Mix
 name: Jealous Guy
@@ -24,6 +27,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1988-11-05'
+release_year: 1971
+runtime: 257786
 ---
 I was dreaming of the past
 And my heart was beating fast

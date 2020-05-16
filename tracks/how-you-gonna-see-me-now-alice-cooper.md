@@ -1,8 +1,11 @@
 ---
+album: From The Inside
 artists:
 - Alice Cooper
+external_ids:
+  spotify: spotify:track:0spN4UlSI0X6YSYCWpSzgz
 features: []
-genres: []
+first_released_as_single: false
 key: how-you-gonna-see-me-now-alice-cooper
 lyrics_url: https://genius.com/Alice-cooper-how-you-gonna-see-me-now-lyrics
 name: How You Gonna See Me Now
@@ -71,6 +74,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1979-02-03'
+release_year: 1978
+runtime: 235973
 ---
 Dear darlin', surprised to hear from me?
 Bet you're sittin' drinkin' coffee, yawnin' sleepily

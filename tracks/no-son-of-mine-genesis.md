@@ -1,8 +1,11 @@
 ---
+album: We Can't Dance
 artists:
 - Genesis
+external_ids:
+  spotify: spotify:track:6YsCavQbx3YITYsnIKvF3j
 features: []
-genres: []
+first_released_as_single: false
 key: no-son-of-mine-genesis
 lyrics_url: https://genius.com/Genesis-no-son-of-mine-lyrics
 name: No Son Of Mine
@@ -87,6 +90,8 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '1992-03-14'
+release_year: 1991
+runtime: 399106
 ---
 The key to my survival
 Was never in much doubt

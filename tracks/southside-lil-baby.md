@@ -1,8 +1,11 @@
 ---
+album: Harder Than Ever
 artists:
 - Lil Baby
+external_ids:
+  spotify: spotify:track:2UklguqGfmTK6YHbwxY9xP
 features: []
-genres: []
+first_released_as_single: true
 key: southside-lil-baby
 lyrics_url: https://genius.com/Lil-baby-southside-lyrics
 name: Southside
@@ -11,6 +14,8 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '2018-06-02'
+release_year: 2018
+runtime: 173408
 ---
 Southside on the track, yeah
 Southside

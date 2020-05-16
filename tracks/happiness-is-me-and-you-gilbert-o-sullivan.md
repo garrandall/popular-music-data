@@ -1,8 +1,11 @@
 ---
+album: The Berry Vest of Gilbert O'Sullivan
 artists:
 - Gilbert O'Sullivan
+external_ids:
+  spotify: spotify:track:6mMWjjf6a8Hd3LQjecicZn
 features: []
-genres: []
+first_released_as_single: false
 key: happiness-is-me-and-you-gilbert-o-sullivan
 lyrics_url: https://genius.com/Gilbert-osullivan-happiness-is-me-and-you-lyrics
 name: Happiness Is Me And You
@@ -35,6 +38,8 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1974-05-04'
+release_year: 1974
+runtime: 188026
 ---
 When the evening is over
 Put your head upon my shoulder

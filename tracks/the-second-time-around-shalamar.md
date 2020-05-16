@@ -1,8 +1,11 @@
 ---
+album: Big Fun
 artists:
 - Shalamar
+external_ids:
+  spotify: spotify:track:6yh8yf1jpPrTMA5cezYpbi
 features: []
-genres: []
+first_released_as_single: false
 key: the-second-time-around-shalamar
 lyrics_url: https://www.azlyrics.com/lyrics/shalamar/thesecondtimearound.html
 name: The Second Time Around
@@ -99,8 +102,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1980-05-10'
+release_year: 1979
+runtime: 223293
 ---
-
 I know you come a long way, baby
 But you don't need that heart of stone, no
 You proved that you could do it, do it, baby
@@ -166,6 +170,3 @@ Not like the first time (Not like the first time)
 Not like the first time (Not like the first time)
 Not like the first time
 Talking 'bout the second time
-
-
-

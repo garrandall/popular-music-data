@@ -1,8 +1,11 @@
 ---
+album: Misfits
 artists:
 - The Kinks
+external_ids:
+  spotify: spotify:track:05RqsEr4euppjIJ8bcvvrR
 features: []
-genres: []
+first_released_as_single: false
 key: a-rock--n--roll-fantasy-the-kinks
 lyrics_url: https://www.azlyrics.com/lyrics/kinks/arocknrollfantasy.html
 name: A Rock 'N' Roll Fantasy
@@ -51,8 +54,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1978-09-30'
+release_year: 1978
+runtime: 298746
 ---
-
 Hello you, hello me, hello people we used to be
 Isn't it strange, we never changed
 We've been through it all yet we're still the same
@@ -98,6 +102,3 @@ Don't want to spend my life living in a rock 'n' roll fantasy
 Don't want to spend my life living on the edge of reality
 Don't want to waste my life hiding away anymore
 Don't want to spend my life living in a rock 'n' roll fantasy
-
-
-

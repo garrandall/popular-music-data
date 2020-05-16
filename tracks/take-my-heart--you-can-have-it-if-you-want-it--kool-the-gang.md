@@ -1,9 +1,12 @@
 ---
+album: Something Special
 artists:
 - Kool
 - The Gang
+external_ids:
+  spotify: spotify:track:7jHOi7ls5RjJaOtmMSxY8w
 features: []
-genres: []
+first_released_as_single: false
 key: take-my-heart--you-can-have-it-if-you-want-it--kool-the-gang
 lyrics_url: https://www.azlyrics.com/lyrics/koolthegang/takemyheart.html
 name: Take My Heart (You Can Have It If You Want It)
@@ -76,8 +79,9 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1982-02-06'
+release_year: 1981
+runtime: 246426
 ---
-
 Has there ever come a time when you fell real nice
 And you want to let someone know
 That you really appreciate them?
@@ -170,6 +174,3 @@ Oh you're such a pretty little girl baby
 (Take my heart)
 (You can have it)
 (If you want it)
-
-
-

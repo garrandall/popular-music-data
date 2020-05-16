@@ -1,9 +1,12 @@
 ---
+album: Eternal Atake
 artists:
 - Lil Uzi Vert
+external_ids:
+  spotify: spotify:track:5KlPy74NOEAt8jC3FYURnQ
 features:
 - Syd
-genres: []
+first_released_as_single: false
 key: urgency-lil-uzi-vert-syd
 lyrics_url: https://www.azlyrics.com/lyrics/liluzivert/urgency.html
 name: Urgency
@@ -12,8 +15,9 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '2020-03-21'
+release_year: 2020
+runtime: 181161
 ---
-
 Treat my darkskin like my redbone, yeah
 Tell my redbone call my real phone, go
 Yeah
@@ -76,6 +80,3 @@ I hit you up just with that urgency
 Know I need your love like you ain't never heard of me
 And I know I was dead wrong, yeah
 I wanna turn up, just another sad song, yeah
-
-
-

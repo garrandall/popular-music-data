@@ -1,9 +1,12 @@
 ---
+album: Friendship
 artists:
 - Billy Joel
+external_ids:
+  spotify: spotify:track:1pePWZl4OlUDTZoOGwQg31
 features:
 - Ray Charles
-genres: []
+first_released_as_single: false
 key: baby-grand-billy-joel-ray-charles
 lyrics_url: https://genius.com/Billy-joel-baby-grand-lyrics
 name: Baby Grand
@@ -36,6 +39,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1987-05-16'
+release_year: 1984
+runtime: 243666
 ---
 Late at night
 When it's dark and cold

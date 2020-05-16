@@ -1,8 +1,11 @@
 ---
+album: 60s and 70s Rock Psychedelia
 artists:
 - The Mojo Men
+external_ids:
+  spotify: spotify:track:300qXG6Be7OeOIVCFuk2rR
 features: []
-genres: []
+first_released_as_single: false
 key: sit-down-i-think-i-love-you-the-mojo-men
 lyrics_url: https://genius.com/The-mojo-men-sit-down-i-think-i-love-you-lyrics
 name: Sit Down I Think I Love You
@@ -51,6 +54,8 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1967-04-15'
+release_year: 1967
+runtime: 142333
 ---
 Sit down, I think I love you
 Anyway, I'd like to try

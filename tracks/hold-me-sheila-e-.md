@@ -1,8 +1,11 @@
 ---
+album: Sheila E.
 artists:
 - Sheila E.
+external_ids:
+  spotify: spotify:track:2k0pIiJsprVCvgnJITbUjr
 features: []
-genres: []
+first_released_as_single: false
 key: hold-me-sheila-e-
 lyrics_url: https://www.azlyrics.com/lyrics/sheilae/holdme.html
 name: Hold Me
@@ -47,8 +50,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1987-04-11'
+release_year: 1978
+runtime: 253360
 ---
-
 I've tried so many times
 To erase your memory from my mind
 Yet it doesn't ever last for long
@@ -112,6 +116,3 @@ Every time I see your eyes
 (Touch me)
 Kiss me, baby
 (Hold me)
-
-
-

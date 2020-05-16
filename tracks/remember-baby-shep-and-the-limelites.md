@@ -1,8 +1,11 @@
 ---
+album: All the Hits and More
 artists:
 - Shep And The Limelites
+external_ids:
+  spotify: spotify:track:5nU6C8jg6f12N6lYNbSgkJ
 features: []
-genres: []
+first_released_as_single: false
 key: remember-baby-shep-and-the-limelites
 lyrics_url: https://www.musixmatch.com/lyrics/Shep-and-the-Limelites/Remember-Baby
 name: Remember Baby
@@ -11,6 +14,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1963-02-09'
+release_year: 1963
+runtime: 159386
 ---
 Once on a warm and magic night
 We danced as stars shown bright

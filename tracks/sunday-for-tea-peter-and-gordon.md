@@ -1,8 +1,11 @@
 ---
+album: In London For Tea (2011 Remastered Version)
 artists:
 - Peter And Gordon
+external_ids:
+  spotify: spotify:track:0rGpTr0VnfnWBEgJGE0Ahq
 features: []
-genres: []
+first_released_as_single: false
 key: sunday-for-tea-peter-and-gordon
 lyrics_url: https://genius.com/Peter-and-gordon-sunday-for-tea-lyrics
 name: Sunday For Tea
@@ -31,6 +34,8 @@ rankings:
   rank: 38
   ranking_list: Billboard Hot 100
   start_date: '1967-04-29'
+release_year: 1967
+runtime: 142320
 ---
 Sunday for tea
 I'll see you Sunday for tea

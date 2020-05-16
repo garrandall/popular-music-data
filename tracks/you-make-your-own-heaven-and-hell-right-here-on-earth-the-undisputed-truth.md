@@ -1,8 +1,11 @@
 ---
+album: Face To Face With The Truth
 artists:
 - The Undisputed Truth
+external_ids:
+  spotify: spotify:track:0SVmx7KbYpP9igA7UIMSU8
 features: []
-genres: []
+first_released_as_single: false
 key: you-make-your-own-heaven-and-hell-right-here-on-earth-the-undisputed-truth
 lyrics_url: https://genius.com/The-undisputed-truth-you-make-your-own-heaven-and-hell-right-here-on-earth-lyrics
 name: You Make Your Own Heaven And Hell Right Here On Earth
@@ -31,6 +34,8 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1972-01-22'
+release_year: 1971
+runtime: 418052
 ---
 Born into this world a baby
 You're mind is clear as the air

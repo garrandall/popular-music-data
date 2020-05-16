@@ -1,8 +1,11 @@
 ---
+album: Skinny Jeanz And A Mic
 artists:
 - New Boyz
+external_ids:
+  spotify: spotify:track:1YNC4CuWPLfmJ7V0xgSObY
 features: []
-genres: []
+first_released_as_single: true
 key: you-re-a-jerk-new-boyz
 lyrics_url: https://genius.com/New-boyz-youre-a-jerk-lyrics
 name: You're A Jerk
@@ -87,6 +90,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2009-11-14'
+release_year: 2009
+runtime: 189053
 ---
 "You're a jerk!" I know
 "You're a jerk!" I know

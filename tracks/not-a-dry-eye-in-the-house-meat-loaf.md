@@ -1,8 +1,11 @@
 ---
+album: Welcome To The Neighborhood
 artists:
 - Meat Loaf
+external_ids:
+  spotify: spotify:track:1t4DCqjSKQpCtO0CAW72XY
 features: []
-genres: []
+first_released_as_single: false
 key: not-a-dry-eye-in-the-house-meat-loaf
 lyrics_url: https://www.azlyrics.com/lyrics/meatloaf/notadryeyeinthehouse.html
 name: Not A Dry Eye In The House
@@ -23,8 +26,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1996-03-09'
+release_year: 1995
+runtime: 354333
 ---
-
 Not a dry eye in the house
 After love's curtain comes down
 Listen and you'll hear the sound
@@ -93,6 +97,3 @@ Hear the sound of a heart breaking, breaking...
 Not a dry eye in the house
 Not a dry eye in the house
 Not a dry eye in the house
-
-
-

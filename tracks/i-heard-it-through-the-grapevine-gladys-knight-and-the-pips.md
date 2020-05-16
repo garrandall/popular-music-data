@@ -1,8 +1,11 @@
 ---
+album: Everybody Needs Love
 artists:
 - Gladys Knight And The Pips
+external_ids:
+  spotify: spotify:track:1aRrJewQmqU3wMUf86VVc6
 features: []
-genres: []
+first_released_as_single: false
 key: i-heard-it-through-the-grapevine-gladys-knight-and-the-pips
 lyrics_url: https://genius.com/Gladys-knight-and-the-pips-i-heard-it-through-the-grapevine-lyrics
 name: I Heard It Through The Grapevine
@@ -75,6 +78,8 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '1968-02-10'
+release_year: 1967
+runtime: 165893
 ---
 Oh, I bet you're wond'rin' how I knew
 Baby, baby, baby, 'bout your plans to make me blue

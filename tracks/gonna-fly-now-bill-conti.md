@@ -1,8 +1,11 @@
 ---
+album: Salute to the Cory
 artists:
 - Bill Conti
+external_ids:
+  spotify: spotify:track:0YCr2re6b24JyfvixdLwwN
 features: []
-genres: []
+first_released_as_single: false
 key: gonna-fly-now-bill-conti
 lyrics_url: https://genius.com/Bill-conti-gonna-fly-now-lyrics
 name: Gonna Fly Now
@@ -87,6 +90,8 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1977-09-03'
+release_year: 1977
+runtime: 155800
 ---
 Trying hard now
 It's so hard now

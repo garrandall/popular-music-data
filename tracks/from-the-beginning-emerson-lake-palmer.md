@@ -1,10 +1,13 @@
 ---
+album: Trilogy
 artists:
 - Emerson
 - Lake
 - Palmer
+external_ids:
+  spotify: spotify:track:0Ll60pqkEBHqzdeclRHdnl
 features: []
-genres: []
+first_released_as_single: false
 key: from-the-beginning-emerson-lake-palmer
 lyrics_url: https://www.azlyrics.com/lyrics/emersonlakepalmer/fromthebeginning.html
 name: From The Beginning
@@ -53,8 +56,9 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '1972-11-04'
+release_year: 1972
+runtime: 253466
 ---
-
 There might have been things I missed 
 But don't be unkind 
 It don't mean I'm blind 
@@ -78,6 +82,3 @@ It doesn't matter at all
 You see it's all clear 
 You were meant to be here 
 From the beginning
-
-
-

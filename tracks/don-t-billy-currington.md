@@ -1,8 +1,11 @@
 ---
+album: Little Bit Of Everything
 artists:
 - Billy Currington
+external_ids:
+  spotify: spotify:track:0Q45S96loRZtRPZYFaNqB0
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-billy-currington
 lyrics_url: https://genius.com/Billy-currington-dont-lyrics
 name: Don't
@@ -87,6 +90,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2009-03-21'
+release_year: 2008
+runtime: 236466
 ---
 Don't ya hate hearing that clock on the wall chiming
 Saying it's time

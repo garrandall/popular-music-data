@@ -1,8 +1,11 @@
 ---
+album: Classic Masters
 artists:
 - Robert John
+external_ids:
+  spotify: spotify:track:3w3rLh6wmne91BS2rwgcog
 features: []
-genres: []
+first_released_as_single: false
 key: sad-eyes-robert-john
 lyrics_url: https://www.azlyrics.com/lyrics/robertjohn/sadeyes.html
 name: Sad Eyes
@@ -115,8 +118,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1979-11-17'
+release_year: 1979
+runtime: 253213
 ---
-
 Looks like it's over, you knew I couldn't stay
 She's coming home today
 We had a good thing, I'll miss your sweet love
@@ -148,6 +152,3 @@ Sad eyes, you knew there'd come a day
 When we would have to say goodbye
 
 Sad eyes, turn the other way
-
-
-

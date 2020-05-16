@@ -1,8 +1,11 @@
 ---
+album: Timeless (The Classics)
 artists:
 - Michael Bolton
+external_ids:
+  spotify: spotify:track:4ye6YRG07XMpZZ9Y9tNTt6
 features: []
-genres: []
+first_released_as_single: false
 key: to-love-somebody-michael-bolton
 lyrics_url: https://www.azlyrics.com/lyrics/michaelbolton/tolovesomebody.html
 name: To Love Somebody
@@ -87,8 +90,9 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '1993-02-27'
+release_year: 1992
+runtime: 247973
 ---
-
 There's a light
 A certain kind of light
 That never shone on me
@@ -132,6 +136,3 @@ To love somebody, to love somebody
 You don't know, oh
 To love somebody, to love somebody
 The way I love you
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: I Decided.
 artists:
 - Big Sean
+external_ids:
+  spotify: spotify:track:3LlRinZJfHtCaVadsuTfZU
 features: []
-genres: []
+first_released_as_single: false
 key: owe-me-big-sean
 lyrics_url: https://genius.com/Big-sean-owe-me-lyrics
 name: Owe Me
@@ -11,6 +14,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2017-02-25'
+release_year: 2017
+runtime: 271693
 ---
 All that shit you told me, I believed
 The smile on your face the only thing I can't read

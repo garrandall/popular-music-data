@@ -1,9 +1,12 @@
 ---
+album: Listen
 artists:
 - David Guetta
+external_ids:
+  spotify: spotify:track:0n9JpBsyJgq4OPcl4vzsPd
 features:
 - Sam Martin
-genres: []
+first_released_as_single: true
 key: dangerous-david-guetta-sam-martin
 lyrics_url: https://www.azlyrics.com/lyrics/davidguetta/dangerous.html
 name: Dangerous
@@ -68,8 +71,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '2015-02-14'
+release_year: 2014
+runtime: 306418
 ---
-
 You take me down
 Spin me around
 You got me running all the lights
@@ -131,6 +135,3 @@ Oh, oh, oh, oh, oh
 Detain the dangerous
 Oh, oh, oh, oh, oh
 Detain the dangerous
-
-
-

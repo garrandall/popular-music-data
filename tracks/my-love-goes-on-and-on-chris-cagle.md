@@ -1,8 +1,11 @@
 ---
+album: Play It Loud
 artists:
 - Chris Cagle
+external_ids:
+  spotify: spotify:track:76gLq1wvQSFxR0tP4rgVKS
 features: []
-genres: []
+first_released_as_single: false
 key: my-love-goes-on-and-on-chris-cagle
 lyrics_url: https://www.azlyrics.com/lyrics/chriscagle/mylovegoesonandon.html
 name: My Love Goes On And On
@@ -51,8 +54,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2000-12-30'
+release_year: 2000
+runtime: 185333
 ---
-
 My love goes on and on and on and on and on and on and on and on and on and on
 There's only so many stars in the night
 That can make up a milky way
@@ -89,6 +93,3 @@ And oceans'll turn to dust
 But there ain't a single force in the world that'll have an effect on us
 It may be that the rugged Rocky Mountains don't last long
 But my love goes on and on and on and on and on and on and on and on and on and on.
-
-
-

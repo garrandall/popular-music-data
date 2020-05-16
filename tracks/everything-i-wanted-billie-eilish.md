@@ -1,8 +1,11 @@
 ---
+album: NOW That's What I Call Music! Vol. 74
 artists:
 - Billie Eilish
+external_ids:
+  spotify: spotify:track:3ZCTVFBt2Brf31RLEnCkWJ
 features: []
-genres: []
+first_released_as_single: true
 key: everything-i-wanted-billie-eilish
 lyrics_url: https://genius.com/Billie-eilish-everything-i-wanted-lyrics
 name: everything I wanted
@@ -79,6 +82,8 @@ rankings:
   rank: 14
   ranking_list: Billboard Hot 100
   start_date: '2020-03-21'
+release_year: 2019
+runtime: 245425
 ---
 I had a dream
 I got everything I wanted

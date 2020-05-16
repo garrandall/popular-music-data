@@ -1,8 +1,11 @@
 ---
+album: Rick Is 21
 artists:
 - Ricky Nelson
+external_ids:
+  spotify: spotify:track:6ImmlZj8ysK2jDnqqbKp60
 features: []
-genres: []
+first_released_as_single: false
 key: hello-mary-lou-ricky-nelson
 lyrics_url: https://www.azlyrics.com/lyrics/rickynelson/hellomarylou.html
 name: Hello Mary Lou
@@ -67,8 +70,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1961-08-07'
+release_year: 1961
+runtime: 138546
 ---
-
 Hello Mary Lou, goodbye heart
 Sweet Mary Lou, I'm so in love with you
 I knew Mary Lou, we'd never part
@@ -99,6 +103,3 @@ I knew Mary Lou, we'd never part
 So hello Mary Lou, goodbye heart
 So hello Mary Lou, goodbye heart
 Yes hello Mary Lou, goodbye heart
-
-
-

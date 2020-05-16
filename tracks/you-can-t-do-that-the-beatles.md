@@ -1,8 +1,11 @@
 ---
+album: A Hard Day's Night
 artists:
 - The Beatles
+external_ids:
+  spotify: spotify:track:5b9G4dtK3Tdguuy9BO3Nwo
 features: []
-genres: []
+first_released_as_single: false
 key: you-can-t-do-that-the-beatles
 lyrics_url: https://genius.com/The-beatles-you-cant-do-that-lyrics
 name: You Can't Do That
@@ -23,6 +26,8 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '1964-04-25'
+release_year: 1964
+runtime: 154893
 ---
 I’ve got something to say that might cause you pain
 If I catch you talking to that boy again

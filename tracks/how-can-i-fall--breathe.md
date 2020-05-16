@@ -1,8 +1,11 @@
 ---
+album: All That Jazz
 artists:
 - Breathe
+external_ids:
+  spotify: spotify:track:62oGUBJQGPa3emMGMejBhm
 features: []
-genres: []
+first_released_as_single: false
 key: how-can-i-fall--breathe
 lyrics_url: https://genius.com/Breathe-uk-how-can-i-fall-lyrics
 name: How Can I Fall?
@@ -95,6 +98,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1989-02-04'
+release_year: 1988
+runtime: 284360
 ---
 Give me time to care
 The moment's here for us to share

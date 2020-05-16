@@ -1,8 +1,11 @@
 ---
+album: 14 Shades of Grey
 artists:
 - Staind
+external_ids:
+  spotify: spotify:track:5OhzQPHnTuy9eo6JZrjUye
 features: []
-genres: []
+first_released_as_single: true
 key: price-to-play-staind
 lyrics_url: https://www.azlyrics.com/lyrics/staind/pricetoplay.html
 name: Price To Play
@@ -47,8 +50,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2003-06-28'
+release_year: 2003
+runtime: 215266
 ---
-
 Failed to see,
 How destructive we can be.
 Taking without giving back,
@@ -110,6 +114,3 @@ What you pay to play the game,
 What you pay to play the game,
 What you pay to play the game,
 What you pay to play the game.
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Spies Of Life
 artists:
 - Player
+external_ids:
+  spotify: spotify:track:3XH7pYnfLRYoA1h3na3MZg
 features: []
-genres: []
+first_released_as_single: false
 key: if-looks-could-kill-player
 lyrics_url: https://genius.com/Player-if-looks-could-kill-lyrics
 name: If Looks Could Kill
@@ -43,6 +46,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1982-03-20'
+release_year: 1982
+runtime: 214256
 ---
 One look and I knew it was her, even from across the street
 Took forever for the light to change in that New York heat

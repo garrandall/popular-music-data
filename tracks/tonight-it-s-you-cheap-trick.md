@@ -1,8 +1,11 @@
 ---
+album: Standing On The Edge
 artists:
 - Cheap Trick
+external_ids:
+  spotify: spotify:track:4nOidYiNpR2bkku67NXkqL
 features: []
-genres: []
+first_released_as_single: false
 key: tonight-it-s-you-cheap-trick
 lyrics_url: https://genius.com/Cheap-trick-tonight-its-you-lyrics
 name: Tonight It's You
@@ -75,6 +78,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1985-11-16'
+release_year: 1977
+runtime: 287933
 ---
 Time's not sleeping and time won't lose
 You can't win 'cause time can't lose

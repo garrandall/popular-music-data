@@ -1,8 +1,11 @@
 ---
+album: Ice On Fire
 artists:
 - Elton John
+external_ids:
+  spotify: spotify:track:0sIiAyckK90a6KOKhIeGwM
 features: []
-genres: []
+first_released_as_single: false
 key: wrap-her-up-elton-john
 lyrics_url: https://www.azlyrics.com/lyrics/eltonjohn/wrapherup.html
 name: Wrap Her Up
@@ -63,8 +66,9 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1986-01-25'
+release_year: 1985
+runtime: 381493
 ---
-
 There are ladies, illegal X's
 Mona Lisa's, well connected
 They may be shady, English roses
@@ -89,6 +93,3 @@ Is she foreign, legs eleven
 Italian girls, take me to heaven
 You pretty babies, from Paris, France
 Crazy horses, love to dance
-
-
-

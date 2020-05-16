@@ -1,8 +1,11 @@
 ---
+album: Roger the Engineer
 artists:
 - The Yardbirds
+external_ids:
+  spotify: spotify:track:3WJtN4tfE2aUoPAU8Vq5N9
 features: []
-genres: []
+first_released_as_single: false
 key: happenings-ten-years-time-ago-the-yardbirds
 lyrics_url: https://www.azlyrics.com/lyrics/yardbirds/happeningstenyearstimeago.html
 name: Happenings Ten Years Time Ago
@@ -43,8 +46,9 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1967-01-21'
+release_year: 1966
+runtime: 177160
 ---
-
 Meeting people on my way
 Seemingly I've known one day
 Familiarity of things
@@ -72,6 +76,3 @@ Situations we really know
 But the knowing is in the mind
 Sinking deep into the well of time
 Sinking deep into the well of time
-
-
-

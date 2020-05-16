@@ -1,8 +1,11 @@
 ---
+album: The Bodyguard - Original Soundtrack Album
 artists:
 - Whitney Houston
+external_ids:
+  spotify: spotify:track:6M1M6cRtVkm5d0qTzkSEuK
 features: []
-genres: []
+first_released_as_single: false
 key: run-to-you-whitney-houston
 lyrics_url: https://genius.com/Whitney-houston-run-to-you-lyrics
 name: Run To You
@@ -87,6 +90,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1993-11-06'
+release_year: 1992
+runtime: 264333
 ---
 I know that when you look at me
 There's so much that you just don't see

@@ -1,8 +1,11 @@
 ---
+album: 'An Evening Of Magic: Live At The Hollywood Bowl'
 artists:
 - Chuck Mangione
+external_ids:
+  spotify: spotify:track:1hawu1dn0nU3K4sMI15KdM
 features: []
-genres: []
+first_released_as_single: false
 key: hill-where-the-lord-hides-chuck-mangione
 name: Hill Where The Lord Hides
 rankings:
@@ -30,5 +33,7 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1971-08-07'
+release_year: 1971
+runtime: 326800
 ---
 

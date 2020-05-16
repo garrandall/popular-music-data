@@ -1,8 +1,11 @@
 ---
+album: Raspberries
 artists:
 - Raspberries
+external_ids:
+  spotify: spotify:track:75GQIYnRaBg7ndHxhfYuQy
 features: []
-genres: []
+first_released_as_single: false
 key: go-all-the-way-raspberries
 lyrics_url: https://genius.com/Raspberries-go-all-the-way-lyrics
 name: Go All The Way
@@ -79,6 +82,8 @@ rankings:
   rank: 33
   ranking_list: Billboard Hot 100
   start_date: '1972-10-28'
+release_year: 1972
+runtime: 205346
 ---
 Mama yeah! Woo!
 Mama!

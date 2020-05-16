@@ -1,8 +1,11 @@
 ---
+album: Emotions
 artists:
 - Brenda Lee
+external_ids:
+  spotify: spotify:track:5mUzm6MlECSOKosUHf42cj
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-learning-about-love-brenda-lee
 lyrics_url: https://genius.com/Brenda-lee-im-learning-about-love-lyrics
 name: I'm Learning About Love
@@ -23,6 +26,8 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '1961-02-20'
+release_year: 1961
+runtime: 161493
 ---
 I'm learning 'bout love
 Got the book by my side

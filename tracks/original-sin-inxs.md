@@ -1,8 +1,11 @@
 ---
+album: The Greatest Hits
 artists:
 - INXS
+external_ids:
+  spotify: spotify:track:3XZO7iJoQ9y9nSBUhK1XgI
 features: []
-genres: []
+first_released_as_single: false
 key: original-sin-inxs
 lyrics_url: https://www.azlyrics.com/lyrics/inxs/originalsin.html
 name: Original Sin
@@ -35,8 +38,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1984-06-09'
+release_year: 1984
+runtime: 241333
 ---
-
 You might know of the original sin
 And you might know how to play with fire
 But did you know of the murder committed
@@ -90,6 +94,3 @@ Black boy, white girl
 Dream on, the name of love - yeah
 You thought what a pity
 Original Sin
-
-
-

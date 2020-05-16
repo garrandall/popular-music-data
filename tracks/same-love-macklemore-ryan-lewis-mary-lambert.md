@@ -1,10 +1,13 @@
 ---
+album: The Heist
 artists:
 - Macklemore
 - Ryan Lewis
+external_ids:
+  spotify: spotify:track:01uqI4H13Gsd8Lyl1EYd8H
 features:
 - Mary Lambert
-genres: []
+first_released_as_single: false
 key: same-love-macklemore-ryan-lewis-mary-lambert
 lyrics_url: https://genius.com/Macklemore-and-ryan-lewis-same-love-lyrics
 name: Same Love
@@ -129,6 +132,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '2013-10-19'
+release_year: 2012
+runtime: 318525
 ---
 When I was in the third grade, I thought that I was gay
 ‘Cause I could draw, my uncle was, and I kept my room straight

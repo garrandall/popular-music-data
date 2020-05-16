@@ -1,9 +1,12 @@
 ---
+album: Trina & Tamara
 artists:
 - Trina
 - Tamara
+external_ids:
+  spotify: spotify:track:1Mg13VMaQj4fhPtQT41vUZ
 features: []
-genres: []
+first_released_as_single: false
 key: what-d-you-come-here-for--trina-tamara
 lyrics_url: https://genius.com/Trina-and-tamara-whatd-you-come-here-for-lyrics
 name: What'd You Come Here For?
@@ -56,6 +59,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1999-06-19'
+release_year: 1999
+runtime: 246000
 ---
 * this version features a Trina and Tamara rap
 Ya say cats dancing up in here

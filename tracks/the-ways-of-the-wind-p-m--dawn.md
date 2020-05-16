@@ -1,8 +1,11 @@
 ---
+album: The Bliss Album...?
 artists:
 - P.M. Dawn
+external_ids:
+  spotify: spotify:track:2n6G1C83EJgZdUwEcd4PHP
 features: []
-genres: []
+first_released_as_single: false
 key: the-ways-of-the-wind-p-m--dawn
 lyrics_url: https://www.azlyrics.com/lyrics/pmdawn/thewaysofthewind.html
 name: The Ways Of The Wind
@@ -51,8 +54,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1993-10-02'
+release_year: 1993
+runtime: 271293
 ---
-
 Holding on is like the ways of the wind,
 Holding on is like the ways of the wind
 
@@ -124,6 +128,3 @@ Holding on is like the ways of the wind
 Like holding on a Nova Star
 Holding on is like the ways of the wind
 Finding a place to stand
-
-
-

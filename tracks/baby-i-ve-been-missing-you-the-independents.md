@@ -1,8 +1,11 @@
 ---
+album: The First Time We Met
 artists:
 - The Independents
+external_ids:
+  spotify: spotify:track:49ZO4qEwLvE9Yc3JyzLZqx
 features: []
-genres: []
+first_released_as_single: false
 key: baby-i-ve-been-missing-you-the-independents
 lyrics_url: https://genius.com/The-independents-baby-ive-been-missing-you-lyrics
 name: Baby I've Been Missing You
@@ -39,6 +42,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1973-09-08'
+release_year: 1972
+runtime: 258496
 ---
 Darling, these last few days
 Have been almost unbearable

@@ -1,8 +1,11 @@
 ---
+album: In The Heat Of The Night
 artists:
 - Pat Benatar
+external_ids:
+  spotify: spotify:track:22ML0MuFKfw16WejbxsLOy
 features: []
-genres: []
+first_released_as_single: false
 key: heartbreaker-pat-benatar
 lyrics_url: https://www.azlyrics.com/lyrics/patbenatar/heartbreaker.html
 name: Heartbreaker
@@ -79,8 +82,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1980-04-19'
+release_year: 1979
+runtime: 209360
 ---
-
 Your love is like a tidal wave, spinning over my head
 Drownin' me in your promises, better left unsaid
 You're the right kind of sinner to release my inner fantasy
@@ -113,6 +117,3 @@ You're a heartbreaker, dream maker, love taker
 Don't you mess around with me
 You're a heartbreaker, dream maker, love taker
 Heartbreaker
-
-
-

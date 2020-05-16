@@ -1,8 +1,11 @@
 ---
+album: Views
 artists:
 - Drake
+external_ids:
+  spotify: spotify:track:7sBwAWyXfiIgrYQ8BaJESH
 features: []
-genres: []
+first_released_as_single: false
 key: keep-the-family-close-drake
 lyrics_url: https://www.azlyrics.com/lyrics/drake/keepthefamilyclose.html
 name: Keep The Family Close
@@ -15,8 +18,9 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '2016-06-04'
+release_year: 2016
+runtime: 328906
 ---
-
 It's a little chilly out there
 How you can stand there is beyond me
 
@@ -85,6 +89,3 @@ And I'm not afraid of no cyattie
 And I'm not afraid of no waste yute neither
 So anybody who want it can get it
 Seh feh
-
-
-

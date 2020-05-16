@@ -1,8 +1,11 @@
 ---
+album: The World Is Yours
 artists:
 - Scarface
+external_ids:
+  spotify: spotify:track:2o5DLqfanAFBcsj0Pdr8di
 features: []
-genres: []
+first_released_as_single: false
 key: let-me-roll-scarface
 lyrics_url: https://genius.com/Scarface-let-me-roll-lyrics
 name: Let Me Roll
@@ -23,6 +26,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1993-08-28'
+release_year: 1993
+runtime: 293133
 ---
 Ah -
 It's jumpin off in H-Town, baby

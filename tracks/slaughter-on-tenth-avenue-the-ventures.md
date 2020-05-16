@@ -1,8 +1,11 @@
 ---
+album: Knock Me Out!
 artists:
 - The Ventures
+external_ids:
+  spotify: spotify:track:3VxUtFxGSazOdEMriRMoXv
 features: []
-genres: []
+first_released_as_single: false
 key: slaughter-on-tenth-avenue-the-ventures
 name: Slaughter On Tenth Avenue
 rankings:
@@ -34,5 +37,7 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '1964-12-05'
+release_year: 1964
+runtime: 134613
 ---
 

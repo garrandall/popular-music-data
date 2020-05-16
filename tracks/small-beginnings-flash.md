@@ -1,8 +1,11 @@
 ---
+album: Flash
 artists:
 - Flash
+external_ids:
+  spotify: spotify:track:6ShiLhaZTnTJOd8M6f4NdF
 features: []
-genres: []
+first_released_as_single: false
 key: small-beginnings-flash
 lyrics_url: https://genius.com/Flash-1-small-beginnings-lyrics
 name: Small Beginnings
@@ -55,6 +58,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1972-09-09'
+release_year: 1972
+runtime: 562226
 ---
 In the morning when you start your day, do you feel yourself quite lost?
 In a world of countless millions, on the tide of your life you're tossed

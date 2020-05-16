@@ -1,8 +1,11 @@
 ---
+album: Haywire
 artists:
 - Josh Turner
+external_ids:
+  spotify: spotify:track:1s8DkdE3uOWrGU7vonKrbK
 features: []
-genres: []
+first_released_as_single: false
 key: all-over-me-josh-turner
 lyrics_url: https://www.azlyrics.com/lyrics/joshturner/alloverme.html
 name: All Over Me
@@ -79,8 +82,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2010-11-13'
+release_year: 2010
+runtime: 199493
 ---
-
 Well the weather man says it's gonna be a hot one, heard it on the radio, 
 Load up the boat, grab your girl if you got one, nice little breeze gonna blow, 
 Baby I'm on my way to come and getcha, meet me at the end of your drive, 
@@ -116,6 +120,3 @@ Come on,
 
 Pour it all over me, 
 All over me.
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Into The Gap
 artists:
 - Thompson Twins
+external_ids:
+  spotify: spotify:track:7Kvr4zY7aNcHzhXHmLxVN1
 features: []
-genres: []
+first_released_as_single: false
 key: you-take-me-up-thompson-twins
 lyrics_url: https://www.azlyrics.com/lyrics/thompsontwins/youtakemeup.html
 name: You Take Me Up
@@ -43,8 +46,9 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1984-10-20'
+release_year: 1984
+runtime: 266160
 ---
-
 I work on the front line
 I work to survive
 I sleep in a fever
@@ -103,6 +107,3 @@ You take me up to the higher ground
 You take me up
 So high
 Now I never want to come back down
-
-
-

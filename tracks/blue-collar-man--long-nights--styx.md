@@ -1,8 +1,11 @@
 ---
+album: Pieces Of Eight
 artists:
 - Styx
+external_ids:
+  spotify: spotify:track:60F6ntlU0uSzgChmyQyVJP
 features: []
-genres: []
+first_released_as_single: false
 key: blue-collar-man--long-nights--styx
 lyrics_url: https://www.azlyrics.com/lyrics/styx/bluecollarmanlongnights.html
 name: Blue Collar Man (Long Nights)
@@ -63,8 +66,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1978-12-16'
+release_year: 1978
+runtime: 247373
 ---
-
 Give me a job, give me security
 Give me a chance to survive
 I'm just a poor soul in the unemployment line
@@ -93,6 +97,3 @@ Keeping my mind on a better life
 When happiness is only a heartbeat away
 Paradise, can it be all I heard it was
 I close my eyes and maybe I'm already there
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Coming Back Hard Again
 artists:
 - Fat Boys
+external_ids:
+  spotify: spotify:track:7Fdk3h816Xp0K81AmFXStm
 features: []
-genres: []
+first_released_as_single: false
 key: louie-louie-fat-boys
 lyrics_url: https://www.musixmatch.com/lyrics/Fat-Boys/Louie-Louie
 name: Louie Louie
@@ -19,6 +22,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1988-10-29'
+release_year: 1988
+runtime: 243879
 ---
 This song is going out to
 The whole wide world out there

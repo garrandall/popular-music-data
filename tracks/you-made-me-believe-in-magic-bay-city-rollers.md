@@ -1,8 +1,11 @@
 ---
+album: It's A Game
 artists:
 - Bay City Rollers
+external_ids:
+  spotify: spotify:track:7yeBJkPnqcHCk1P08Z8K9d
 features: []
-genres: []
+first_released_as_single: false
 key: you-made-me-believe-in-magic-bay-city-rollers
 lyrics_url: https://www.azlyrics.com/lyrics/baycityrollers/youmademebelieveinmagic.html
 name: You Made Me Believe In Magic
@@ -75,8 +78,9 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1977-09-24'
+release_year: 1974
+runtime: 164165
 ---
-
 I believed all love has gone
 I've no strength to carry on
 Thought my world was upside down
@@ -98,6 +102,3 @@ You made me believe in magic
 You know that I can be true to your love
 You made me believe in magic
 Your love's put magic into my life
-
-
-

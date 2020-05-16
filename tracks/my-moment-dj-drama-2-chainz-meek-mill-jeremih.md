@@ -1,11 +1,14 @@
 ---
+album: My Moment
 artists:
 - DJ Drama
+external_ids:
+  spotify: spotify:track:6bRH6EV6SH4nH0UGafJECC
 features:
 - 2 Chainz
 - Meek Mill
 - Jeremih
-genres: []
+first_released_as_single: true
 key: my-moment-dj-drama-2-chainz-meek-mill-jeremih
 lyrics_url: https://genius.com/Dj-drama-my-moment-lyrics
 name: My Moment
@@ -38,6 +41,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2013-01-12'
+release_year: 2012
+runtime: 198920
 ---
 You see I been waiting, waiting on that time
 Feel me if you been waiting on yours

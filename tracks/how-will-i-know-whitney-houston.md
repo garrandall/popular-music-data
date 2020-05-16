@@ -1,8 +1,11 @@
 ---
+album: Whitney Houston
 artists:
 - Whitney Houston
+external_ids:
+  spotify: spotify:track:5tdKaKLnC4SgtDZ6RlWeal
 features: []
-genres: []
+first_released_as_single: false
 key: how-will-i-know-whitney-houston
 lyrics_url: https://genius.com/Whitney-houston-how-will-i-know-lyrics
 name: How Will I Know
@@ -103,6 +106,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2012-03-03'
+release_year: 1985
+runtime: 275533
 ---
 There's a boy I know, he's the one I dream of
 Looks into my eyes, takes me to the clouds above

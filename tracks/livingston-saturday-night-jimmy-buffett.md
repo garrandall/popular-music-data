@@ -1,8 +1,11 @@
 ---
+album: Son Of A Son Of A Sailor
 artists:
 - Jimmy Buffett
+external_ids:
+  spotify: spotify:track:5pxI50SA8WciKebbTFfAAA
 features: []
-genres: []
+first_released_as_single: false
 key: livingston-saturday-night-jimmy-buffett
 lyrics_url: https://www.azlyrics.com/lyrics/jimmybuffett/livingstonsaturdaynight.html
 name: Livingston Saturday Night
@@ -31,8 +34,9 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '1978-09-16'
+release_year: 1978
+runtime: 192866
 ---
-
 You got your Tony Lama's on your jeans pressed tight,
 You take a few tokes, make you feel all right,
 Rockin' and rollin' on a Livingston Saturday Night.
@@ -59,6 +63,3 @@ Temperature is rising, better pop another keg.
 Fifteen may get you twenty, but that's all right,
 'Cause they'll be rockin' and a rollin' on a
 Livingston Saturday Night.
-
-
-

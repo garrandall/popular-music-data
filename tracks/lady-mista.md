@@ -1,8 +1,11 @@
 ---
+album: Mista
 artists:
 - Mista
+external_ids:
+  spotify: spotify:track:1UxKOK2zzLz4yi8GCFxM1P
 features: []
-genres: []
+first_released_as_single: false
 key: lady-mista
 lyrics_url: https://genius.com/Mista-lady-lyrics
 name: Lady
@@ -19,6 +22,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1997-01-18'
+release_year: 1996
+runtime: 221866
 ---
 Lady, would you mind if I politely kiss your hand?
 I've been watchin' you all night and I can't stand

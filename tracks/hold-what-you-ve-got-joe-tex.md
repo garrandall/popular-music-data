@@ -1,8 +1,11 @@
 ---
+album: The Very Best of, Volume 1
 artists:
 - Joe Tex
+external_ids:
+  spotify: spotify:track:1WGAn0768Mf7yyVpwZJryG
 features: []
-genres: []
+first_released_as_single: false
 key: hold-what-you-ve-got-joe-tex
 lyrics_url: https://genius.com/Joe-tex-hold-what-youve-got-lyrics
 name: Hold What You've Got
@@ -51,6 +54,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1965-02-27'
+release_year: 1964
+runtime: 189853
 ---
 That a man can have a good woman
 That he can call his very own

@@ -1,8 +1,11 @@
 ---
+album: Kane Brown
 artists:
 - Kane Brown
+external_ids:
+  spotify: spotify:track:1HXy5I3HTWq8OvxCn0z7G7
 features: []
-genres: []
+first_released_as_single: false
 key: heaven-kane-brown
 lyrics_url: https://genius.com/Kane-brown-heaven-lyrics
 name: Heaven
@@ -115,6 +118,8 @@ rankings:
   rank: 38
   ranking_list: Billboard Hot 100
   start_date: '2018-07-07'
+release_year: 2017
+runtime: 179506
 ---
 This is perfect
 Come kiss me one more time

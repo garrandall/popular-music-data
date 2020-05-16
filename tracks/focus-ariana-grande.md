@@ -1,8 +1,11 @@
 ---
+album: Focus
 artists:
 - Ariana Grande
+external_ids:
+  spotify: spotify:track:1cdzfFjEbUbgTm5nv3FgXR
 features: []
-genres: []
+first_released_as_single: true
 key: focus-ariana-grande
 lyrics_url: https://www.azlyrics.com/lyrics/arianagrande/focus.html
 name: Focus
@@ -59,8 +62,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2016-02-13'
+release_year: 2015
+runtime: 211360
 ---
-
 Hey
 
 I know what I came to do
@@ -126,6 +130,3 @@ Focus on me (Focus), fuh, fuh, focus on me (Focus on me) (wooooo)
 Focus on me (Focus), fuh, fuh, focus on me (Focus on me) (wooooo)
 Focus on me
 Bae
-
-
-

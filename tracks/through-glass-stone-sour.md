@@ -1,8 +1,11 @@
 ---
+album: Come What(ever) May
 artists:
 - Stone Sour
+external_ids:
+  spotify: spotify:track:5NeIONQWJ25uPylJBJiO4c
 features: []
-genres: []
+first_released_as_single: false
 key: through-glass-stone-sour
 lyrics_url: https://www.azlyrics.com/lyrics/stonesour/throughglass.html
 name: Through Glass
@@ -111,8 +114,9 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '2007-02-10'
+release_year: 2006
+runtime: 282946
 ---
-
 I'm looking at you through the glass
 Don't know how much time has passed
 Oh, god it feels like forever
@@ -203,6 +207,3 @@ That lie to you, yeah-ah, yeah
 
 Oh, and the stars
 Oh, and the stars, they lie
-
-
-

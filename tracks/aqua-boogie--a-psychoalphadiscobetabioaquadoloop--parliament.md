@@ -1,8 +1,11 @@
 ---
+album: The 12" Collection And More
 artists:
 - Parliament
+external_ids:
+  spotify: spotify:track:1Joux3Bp1cmwDHVum51kLn
 features: []
-genres: []
+first_released_as_single: false
 key: aqua-boogie--a-psychoalphadiscobetabioaquadoloop--parliament
 lyrics_url: https://www.azlyrics.com/lyrics/parliament/aquaboogieapsychoalphadiscobetabioaquadoloop.html
 name: Aqua Boogie (A Psychoalphadiscobetabioaquadoloop)
@@ -15,8 +18,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1979-03-03'
+release_year: 1979
+runtime: 565826
 ---
-
 Ha-ah, ha-ah, ha-ah!
 I am sir Nose d'Voidoffunk
 I can't swim
@@ -116,6 +120,3 @@ Psychoalphadiscobetabioaquadooloops
 A motion picture underwater starring most of you-loops
 
 Ha-ah ha-ah ha-ah!...
-
-
-

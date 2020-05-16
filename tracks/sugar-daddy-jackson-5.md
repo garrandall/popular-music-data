@@ -1,8 +1,11 @@
 ---
+album: Third Album / Maybe Tomorrow
 artists:
 - Jackson 5
+external_ids:
+  spotify: spotify:track:5cnQK5zPBw2qCZVNmLRZx7
 features: []
-genres: []
+first_released_as_single: false
 key: sugar-daddy-jackson-5
 lyrics_url: https://www.azlyrics.com/lyrics/jackson5/sugardaddy.html
 name: Sugar Daddy
@@ -47,8 +50,9 @@ rankings:
   rank: 32
   ranking_list: Billboard Hot 100
   start_date: '1972-02-12'
+release_year: 1971
+runtime: 151666
 ---
-
 Doo-doo, ba doo-doo-dood oo
 Doo-doo, ba doo-doo-dood oo
 Doo-doo, ba doo-doo-dood oo
@@ -113,6 +117,3 @@ I'll even let you drive my caddy, when I get one
 Now listen, oh, oh, oh
 I'm gonna be your Sugar Daddy
 Give you honey, all my money
-
-
-

@@ -1,9 +1,12 @@
 ---
+album: Only Hits
 artists:
 - Sean Paul
+external_ids:
+  spotify: spotify:track:6k8uthjEbttfWXcGaNTQGD
 features:
 - Keyshia Cole
-genres: []
+first_released_as_single: false
 key: -when-you-gonna--give-it-up-to-me-sean-paul-keyshia-cole
 lyrics_url: https://genius.com/Sean-paul-when-you-gonna-give-it-up-to-me-lyrics
 name: (When You Gonna) Give It Up To Me
@@ -96,6 +99,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '2006-11-04'
+release_year: 2006
+runtime: 243880
 ---
 Get out my head and into the bed girl
 Cau ya dun know plottin' out the fantasy

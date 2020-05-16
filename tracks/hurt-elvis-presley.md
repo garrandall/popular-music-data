@@ -1,8 +1,11 @@
 ---
+album: Elvis' Gold Records, Vol. 4
 artists:
 - Elvis Presley
+external_ids:
+  spotify: spotify:track:2QNGJoBP60oMlUMcPvIxF3
 features: []
-genres: []
+first_released_as_single: false
 key: hurt-elvis-presley
 lyrics_url: https://genius.com/Elvis-presley-hurt-lyrics
 name: Hurt
@@ -51,6 +54,8 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '1976-06-05'
+release_year: 1968
+runtime: 149306
 ---
 I'm so hurt to think that you lied to me
 I'm hurt way down deep inside of me

@@ -1,8 +1,11 @@
 ---
+album: Collection 1956-62
 artists:
 - George Hamilton IV
+external_ids:
+  spotify: spotify:track:5CuLxZGZKETQfTy6TXMPj3
 features: []
-genres: []
+first_released_as_single: false
 key: when-will-i-know-george-hamilton-iv
 lyrics_url: https://genius.com/George-hamilton-iv-when-will-i-know-lyrics
 name: When Will I Know
@@ -23,6 +26,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1958-09-22'
+release_year: 1958
+runtime: 161373
 ---
 Ladedadeda, Ladedadeda
 When will I know

@@ -1,8 +1,11 @@
 ---
+album: 20 Greatest Hits
 artists:
 - Brook Benton
+external_ids:
+  spotify: spotify:track:1myaoy45obyN6dC4LPpVik
 features: []
-genres: []
+first_released_as_single: false
 key: shadrack-brook-benton
 lyrics_url: https://genius.com/Brook-benton-shadrack-lyrics
 name: Shadrack
@@ -43,6 +46,8 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1962-03-10'
+release_year: 1962
+runtime: 121451
 ---
 (Shadrack, Meshach, Abednego!)
 (Shadrack, Meshach, Abednego!)

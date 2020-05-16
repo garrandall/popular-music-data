@@ -1,8 +1,11 @@
 ---
+album: Here Comes Trouble
 artists:
 - Bad Company
+external_ids:
+  spotify: spotify:track:0cpI4jYr4D2W7knJg4nvKn
 features: []
-genres: []
+first_released_as_single: false
 key: how-about-that-bad-company
 lyrics_url: https://genius.com/Bad-company-how-about-that-lyrics
 name: How About That
@@ -59,6 +62,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1992-12-05'
+release_year: 1992
+runtime: 326706
 ---
 Last night, when the moon was new, I couldn't sleep, I was thinkin' of you
 And how much I need ya, how about that

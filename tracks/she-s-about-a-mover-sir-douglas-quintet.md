@@ -1,8 +1,11 @@
 ---
+album: The Great Sir Douglas Quintet Live
 artists:
 - Sir Douglas Quintet
+external_ids:
+  spotify: spotify:track:6gK3jRHDhtVfeA0t0yFvqC
 features: []
-genres: []
+first_released_as_single: false
 key: she-s-about-a-mover-sir-douglas-quintet
 lyrics_url: https://genius.com/The-sir-douglas-quintet-shes-about-a-mover-lyrics
 name: She's About A Mover
@@ -55,6 +58,8 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '1965-06-19'
+release_year: 1965
+runtime: 216200
 ---
 Well, she was walking down the street
 Looking fine as she could be, hey, hey

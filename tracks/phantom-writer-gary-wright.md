@@ -1,8 +1,11 @@
 ---
+album: The Light Of Smiles
 artists:
 - Gary Wright
+external_ids:
+  spotify: spotify:track:7smZ1fdUjFYNHCOhV7aoAs
 features: []
-genres: []
+first_released_as_single: false
 key: phantom-writer-gary-wright
 lyrics_url: https://www.azlyrics.com/lyrics/garywright/phantomwriter.html
 name: Phantom Writer
@@ -35,8 +38,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1977-04-16'
+release_year: 1977
+runtime: 214920
 ---
-
 I opened my eyes this morning, looked through my window outside
 Suddenly something took me away by surprise
 Veil on the skyline, written in broad daylight
@@ -67,6 +71,3 @@ Yeah, yeah, phantom writer
 My name's in the sky
 Yeah, yeah, phantom writer
 Why? Why, oh, why?
-
-
-

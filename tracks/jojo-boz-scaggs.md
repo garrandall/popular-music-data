@@ -1,8 +1,11 @@
 ---
+album: Middle Man
 artists:
 - Boz Scaggs
+external_ids:
+  spotify: spotify:track:3tPmepOCcFRoxuFmmRe0Kn
 features: []
-genres: []
+first_released_as_single: false
 key: jojo-boz-scaggs
 lyrics_url: https://www.azlyrics.com/lyrics/bozscaggs/jojo.html
 name: JoJo
@@ -75,8 +78,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1980-10-04'
+release_year: 1980
+runtime: 353493
 ---
-
 Look out behind you
 Jo Jo's got his gun
 He wouldn't mean to
@@ -141,6 +145,3 @@ Yeah yeah
 Jo Jo
 How low can you go
 Jo Jo Oh Oh
-
-
-

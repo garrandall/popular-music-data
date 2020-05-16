@@ -1,8 +1,11 @@
 ---
+album: Ghetto Love
 artists:
 - Jaheim
+external_ids:
+  spotify: spotify:track:0YHBvFhfCJHyP5qfgtiX1o
 features: []
-genres: []
+first_released_as_single: false
 key: just-in-case-jaheim
 lyrics_url: https://genius.com/Jaheim-just-in-case-lyrics
 name: Just In Case
@@ -87,6 +90,8 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '2001-11-10'
+release_year: 2001
+runtime: 263866
 ---
 Just in case I don't make it home tonight
 Let me make love to you for the last time, baby

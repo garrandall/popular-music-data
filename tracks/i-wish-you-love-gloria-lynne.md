@@ -1,8 +1,11 @@
 ---
+album: Gloria, Marty & Strings
 artists:
 - Gloria Lynne
+external_ids:
+  spotify: spotify:track:0ROCEoQwudIdgkuU2Yfbgz
 features: []
-genres: []
+first_released_as_single: false
 key: i-wish-you-love-gloria-lynne
 lyrics_url: https://genius.com/Gloria-lynne-i-wish-you-love-lyrics
 name: I Wish You Love
@@ -55,6 +58,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1964-03-28'
+release_year: 1958
+runtime: 223053
 ---
 Goodbye, no use leading with our chins
 This is where our story ends

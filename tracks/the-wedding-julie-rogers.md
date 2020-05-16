@@ -1,8 +1,11 @@
 ---
+album: Sing Another Song
 artists:
 - Julie Rogers
+external_ids:
+  spotify: spotify:track:1tuivE7XrJtvLu7qkMl6Zx
 features: []
-genres: []
+first_released_as_single: false
 key: the-wedding-julie-rogers
 lyrics_url: https://genius.com/Julie-rogers-the-wedding-la-novia-lyrics
 name: The Wedding
@@ -51,6 +54,8 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '1965-01-30'
+release_year: 1964
+runtime: 222400
 ---
 You by my side
 That's how I see us

@@ -1,8 +1,11 @@
 ---
+album: Big Ones
 artists:
 - Loverboy
+external_ids:
+  spotify: spotify:track:5Q1Q2GdMdVdXbo4WgJs3Cc
 features: []
-genres: []
+first_released_as_single: false
 key: too-hot-loverboy
 lyrics_url: https://genius.com/Loverboy-too-hot-lyrics
 name: Too Hot
@@ -27,6 +30,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1990-01-20'
+release_year: 1989
+runtime: 263866
 ---
 At seventeen we fell in love
 Highschool sweethearts, love was so brand new

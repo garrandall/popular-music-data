@@ -1,8 +1,11 @@
 ---
+album: Rascal Flatts
 artists:
 - Rascal Flatts
+external_ids:
+  spotify: spotify:track:7gpuC3rLKkI7PoJcEnSIO6
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-movin--on-rascal-flatts
 lyrics_url: https://genius.com/Rascal-flatts-im-movin-on-lyrics
 name: I'm Movin' On
@@ -83,6 +86,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2002-06-08'
+release_year: 2000
+runtime: 242866
 ---
 I've dealt with my ghosts and I've faced all my demons
 Finally content with a past I regret

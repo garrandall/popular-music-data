@@ -1,8 +1,11 @@
 ---
+album: Twenty 1
 artists:
 - Chicago
+external_ids:
+  spotify: spotify:track:1HkwWmPgucFhkf3znwiKHE
 features: []
-genres: []
+first_released_as_single: false
 key: chasin--the-wind-chicago
 lyrics_url: https://www.azlyrics.com/lyrics/chicago/chasinthewind.html
 name: Chasin' The Wind
@@ -51,8 +54,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1991-04-06'
+release_year: 1991
+runtime: 259040
 ---
-
 Did the best I could
 To make you mine
 If you ever felt anything for me
@@ -90,4 +94,3 @@ If you can't get past the sand
 Can't touch the sky
 If you can't reach up your hand
 Can't give if you give nothing back
-

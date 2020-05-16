@@ -1,8 +1,11 @@
 ---
+album: SUPER SLIMEY
 artists:
 - Future
+external_ids:
+  spotify: spotify:track:3IJ6BBFLD2I2CH3hHFQj3O
 features: []
-genres: []
+first_released_as_single: false
 key: 4-da-gang-future
 lyrics_url: https://www.azlyrics.com/lyrics/future/4dagang.html
 name: 4 Da Gang
@@ -11,9 +14,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2017-11-11'
+release_year: 2017
+runtime: 187748
 ---
-
-
 I get big high
 This a big guy, yeah
 Yeah, Firk, got you
@@ -76,6 +79,3 @@ It's like a funeral when they see me, 'cause these hoes faint (yeah)
 I done got used to dead homies, I stay in the bank (yeah)
 Ain't got one more tear to shed on me, all my son's straight (yeah)
 I put Casino in my will, nigga, I'm a die with this cake (Freebandz)
-
-
-

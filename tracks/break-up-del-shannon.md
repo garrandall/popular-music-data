@@ -1,8 +1,11 @@
 ---
+album: Lost Sides
 artists:
 - Del Shannon
+external_ids:
+  spotify: spotify:track:2JZbhUQLyXdBtsJxGU339u
 features: []
-genres: []
+first_released_as_single: false
 key: break-up-del-shannon
 lyrics_url: https://www.azlyrics.com/lyrics/delshannon/breakup.html
 name: Break Up
@@ -19,8 +22,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1965-06-05'
+release_year: 1965
+runtime: 139786
 ---
-
 Don't try to fool me with tears in your eyes
 I know it won't be long
 I can feel it when we kiss
@@ -52,6 +56,3 @@ I'm losing you
 
 Break up, break up, break up
 Break up, break up
-
-
-

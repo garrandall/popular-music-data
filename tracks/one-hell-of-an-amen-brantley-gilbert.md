@@ -1,8 +1,11 @@
 ---
+album: Just As I Am
 artists:
 - Brantley Gilbert
+external_ids:
+  spotify: spotify:track:0n96wSHG9FXAuLVoaG9Jjd
 features: []
-genres: []
+first_released_as_single: false
 key: one-hell-of-an-amen-brantley-gilbert
 lyrics_url: https://www.azlyrics.com/lyrics/brantleygilbert/onehellofanamen.html
 name: One Hell Of An Amen
@@ -79,8 +82,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2015-09-12'
+release_year: 2014
+runtime: 221466
 ---
-
 The preacher said he died too young
 Over there totin' that gun
 For Uncle Sam and our freedom
@@ -125,6 +129,3 @@ This is our last goodbye
 It's a hell of an amen
 Amen
 That's a hell of an amen
-
-
-

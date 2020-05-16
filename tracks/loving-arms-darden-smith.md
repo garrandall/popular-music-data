@@ -1,8 +1,11 @@
 ---
+album: Little Victories
 artists:
 - Darden Smith
+external_ids:
+  spotify: spotify:track:1PMzmsahtiJzWi64lSM6mu
 features: []
-genres: []
+first_released_as_single: false
 key: loving-arms-darden-smith
 lyrics_url: https://genius.com/Darden-smith-loving-arms-lyrics
 name: Loving Arms
@@ -15,6 +18,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1993-10-09'
+release_year: 1993
+runtime: 247600
 ---
 Half of this morning and most of last night
 I've been taking tally on the last years of my life

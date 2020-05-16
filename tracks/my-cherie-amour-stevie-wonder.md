@@ -1,8 +1,11 @@
 ---
+album: My Cherie Amour
 artists:
 - Stevie Wonder
+external_ids:
+  spotify: spotify:track:5ZoDwIP1ntHwciLjydJ8X2
 features: []
-genres: []
+first_released_as_single: false
 key: my-cherie-amour-stevie-wonder
 lyrics_url: https://genius.com/Stevie-wonder-my-cherie-amour-lyrics
 name: My Cherie Amour
@@ -63,6 +66,8 @@ rankings:
   rank: 21
   ranking_list: Billboard Hot 100
   start_date: '1969-08-30'
+release_year: 1969
+runtime: 173306
 ---
 La la la la la la
 La la la la la la

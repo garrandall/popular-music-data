@@ -1,9 +1,12 @@
 ---
+album: Love Is All We Have To Give
 artists:
 - Sonny Charles And The Checkmates
 - Ltd.
+external_ids:
+  spotify: spotify:track:0I1M0ETI5gHAHe2dwrdrlm
 features: []
-genres: []
+first_released_as_single: false
 key: black-pearl-sonny-charles-and-the-checkmates-ltd-
 lyrics_url: https://genius.com/Sonny-charles-and-the-checkmates-ltd-black-pearl-lyrics
 name: Black Pearl
@@ -60,6 +63,8 @@ rankings:
   rank: 34
   ranking_list: Billboard Hot 100
   start_date: '1969-08-02'
+release_year: 1969
+runtime: 207226
 ---
 Oh, hoo
 Yeah, yeah, yeah

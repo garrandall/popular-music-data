@@ -1,8 +1,11 @@
 ---
+album: Affirmation
 artists:
 - Savage Garden
+external_ids:
+  spotify: spotify:track:5DPHFR4RnZfNdrxkqvvPtb
 features: []
-genres: []
+first_released_as_single: true
 key: i-knew-i-loved-you-savage-garden
 lyrics_url: https://www.azlyrics.com/lyrics/savagegarden/iknewilovedyou.html
 name: I Knew I Loved You
@@ -139,8 +142,9 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '2000-06-03'
+release_year: 1999
+runtime: 495360
 ---
-
 Maybe it's intuition
 But some things you just don't question
 Like in your eyes
@@ -170,4 +174,3 @@ a little crazy but I believe
 
 A thousand angels dance around you
 I am complete now that I found you
-

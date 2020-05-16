@@ -1,8 +1,11 @@
 ---
+album: Temptin' Temptations
 artists:
 - The Temptations
+external_ids:
+  spotify: spotify:track:51bcLxmqO6C4bCHQOKecpM
 features: []
-genres: []
+first_released_as_single: false
 key: girl--why-you-wanna-make-me-blue--the-temptations
 lyrics_url: https://genius.com/The-temptations-my-girl-lyrics
 name: Girl (Why You Wanna Make Me Blue)
@@ -39,6 +42,8 @@ rankings:
   rank: 38
   ranking_list: Billboard Hot 100
   start_date: '1964-10-31'
+release_year: 1964
+runtime: 142560
 ---
 I've got sunshine on a cloudy day
 When it's cold outside, I've got the month of May

@@ -1,8 +1,11 @@
 ---
+album: Under the Volcano
 artists:
 - Rock And Hyde
+external_ids:
+  spotify: spotify:track:06fuh2rGOaoelcmpPTmFfD
 features: []
-genres: []
+first_released_as_single: false
 key: dirty-water-rock-and-hyde
 name: Dirty Water
 rankings:
@@ -46,5 +49,7 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1987-06-27'
+release_year: 1987
+runtime: 260000
 ---
 

@@ -1,8 +1,11 @@
 ---
+album: Live From Clear Channel Stripped 2008
 artists:
 - Taylor Swift
+external_ids:
+  spotify: spotify:track:5g7RMU3cV7zXWH244BLe7G
 features: []
-genres: []
+first_released_as_single: false
 key: fearless-taylor-swift
 lyrics_url: https://www.azlyrics.com/lyrics/taylorswift/fearless.html
 name: Fearless
@@ -67,8 +70,9 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '2010-05-01'
+release_year: 2008
+runtime: 198247
 ---
-
 There's somethin' 'bout the way
 The street looks when it's just rained
 There's a glow off the pavement
@@ -128,6 +132,3 @@ Fearless
 
 Oh-oh
 Oh yeah
-
-
-

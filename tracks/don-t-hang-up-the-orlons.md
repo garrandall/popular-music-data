@@ -1,8 +1,11 @@
 ---
+album: Back to Back - The Happenings & The Orlons
 artists:
 - The Orlons
+external_ids:
+  spotify: spotify:track:1PqseFv0jSvoJI8UyQaLiM
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-hang-up-the-orlons
 lyrics_url: https://genius.com/The-orlons-dont-hang-up-lyrics
 name: Don't Hang Up
@@ -67,6 +70,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1963-01-19'
+release_year: 1962
+runtime: 137080
 ---
 Don't hang up (no no)
 Oh don't you do it now,don't hang up (No No)

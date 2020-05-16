@@ -1,8 +1,11 @@
 ---
+album: Move Along
 artists:
 - The All-American Rejects
+external_ids:
+  spotify: spotify:track:2l57cfmCnOkwNX1tky02n1
 features: []
-genres: []
+first_released_as_single: false
 key: move-along-the-all-american-rejects
 lyrics_url: https://www.azlyrics.com/lyrics/allamericanrejects/movealong.html
 name: Move Along
@@ -163,8 +166,9 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '2006-11-04'
+release_year: 2005
+runtime: 238880
 ---
-
 Go ahead as you waste your days with thinking
 When you fall everyone stands
 Another day and you've had your fill of sinking
@@ -207,4 +211,3 @@ Move along, move along just to make it through
 (Go on, go on, go on, go on)
 Right back what is wrong
 We move along
-

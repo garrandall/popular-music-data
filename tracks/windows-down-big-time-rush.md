@@ -1,8 +1,11 @@
 ---
+album: Elevate
 artists:
 - Big Time Rush
+external_ids:
+  spotify: spotify:track:3oLXQgbcC34Oo4gFHCeTmi
 features: []
-genres: []
+first_released_as_single: false
 key: windows-down-big-time-rush
 lyrics_url: https://genius.com/Big-time-rush-windows-down-lyrics
 name: Windows Down
@@ -11,6 +14,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2012-07-14'
+release_year: 2011
+runtime: 192933
 ---
 Throw it up!
 

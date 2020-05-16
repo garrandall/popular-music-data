@@ -1,8 +1,11 @@
 ---
+album: Tasteful Soul
 artists:
 - The Main Ingredient
+external_ids:
+  spotify: spotify:track:0ii6S4twL1SXnmrZXt47XL
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-so-proud-the-main-ingredient
 lyrics_url: https://genius.com/The-main-ingredient-im-so-proud-lyrics
 name: I'm So Proud
@@ -59,6 +62,8 @@ rankings:
   rank: 52
   ranking_list: Billboard Hot 100
   start_date: '1971-03-06'
+release_year: 1970
+runtime: 213840
 ---
 You're prettier than all the world
 And I'm so proud (I'm so proud)

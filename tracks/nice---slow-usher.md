@@ -1,8 +1,11 @@
 ---
+album: My Way
 artists:
 - Usher
+external_ids:
+  spotify: spotify:track:5L0KDoZklMgs9GPoonneEl
 features: []
-genres: []
+first_released_as_single: false
 key: nice---slow-usher
 lyrics_url: https://www.musixmatch.com/lyrics/Usher/Nice-Slow
 name: Nice & Slow
@@ -99,6 +102,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1998-06-27'
+release_year: 1997
+runtime: 227906
 ---
 Ah, what cha doing?
 Really

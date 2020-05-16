@@ -1,8 +1,11 @@
 ---
+album: Where I Wanna Be
 artists:
 - Donell Jones
+external_ids:
+  spotify: spotify:track:2uZwyxrg6VPvlVsvclIfel
 features: []
-genres: []
+first_released_as_single: false
 key: where-i-wanna-be-donell-jones
 lyrics_url: https://www.azlyrics.com/lyrics/donelljones/whereyouareiswhereiwannabepart2.html
 name: Where I Wanna Be
@@ -87,8 +90,9 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '2000-09-02'
+release_year: 1999
+runtime: 253626
 ---
-
 I'm saying I'm sorry for leaving you 
 But I wanted to start my life brand new
 I was going through changes and could not see 
@@ -148,6 +152,3 @@ Anywhere you are, it don't matter how far
 Where you are
 
 I just wanna be where you are baby
-
-
-

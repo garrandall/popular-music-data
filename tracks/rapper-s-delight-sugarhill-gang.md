@@ -1,8 +1,11 @@
 ---
+album: The Sugarhill Gang
 artists:
 - Sugarhill Gang
+external_ids:
+  spotify: spotify:track:1qb27ZTsi0gVxHteAjPOyD
 features: []
-genres: []
+first_released_as_single: true
 key: rapper-s-delight-sugarhill-gang
 lyrics_url: https://www.azlyrics.com/lyrics/sugarhillgang/rappersdelight.html
 name: Rapper's Delight
@@ -55,9 +58,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1980-01-26'
+release_year: 1979
+runtime: 877040
 ---
-
-
 Now, what you hear is not a test, I'm rapping to the beat
 And me, the groove, and my friends are gonna try to move your feet
 You see I am Wonder Mike and I'd like to say "hello"
@@ -198,6 +201,3 @@ With a hip hop the hippie the hippie
 To the hip hip hop and you don't stop
 The rock it to the bang bang boogie
 Say up jump the boogie to the rhythm of the boogie, the beat...
-
-
-

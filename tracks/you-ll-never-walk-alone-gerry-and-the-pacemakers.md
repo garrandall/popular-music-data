@@ -1,8 +1,11 @@
 ---
+album: How Do You Like It?
 artists:
 - Gerry And The Pacemakers
+external_ids:
+  spotify: spotify:track:2VfvfFSVD1Ki0PH0Xd0jcv
 features: []
-genres: []
+first_released_as_single: false
 key: you-ll-never-walk-alone-gerry-and-the-pacemakers
 lyrics_url: https://genius.com/Gerry-and-the-pacemakers-youll-never-walk-alone-lyrics
 name: You'll Never Walk Alone
@@ -31,6 +34,8 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '1965-07-10'
+release_year: 1963
+runtime: 164173
 ---
 When you walk through a storm
 Hold your head up high

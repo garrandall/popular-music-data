@@ -1,8 +1,11 @@
 ---
+album: The Natural Four
 artists:
 - Natural Four
+external_ids:
+  spotify: spotify:track:18FBVLTfreprD3Lz9YF6V0
 features: []
-genres: []
+first_released_as_single: false
 key: love-that-really-counts-natural-four
 lyrics_url: https://www.musixmatch.com/lyrics/The-Natural-Four/Love-That-Really-Counts
 name: Love That Really Counts
@@ -15,6 +18,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1974-06-01'
+release_year: 1974
+runtime: 263160
 ---
 I used to think that
 The best things in life

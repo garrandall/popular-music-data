@@ -1,8 +1,11 @@
 ---
+album: ATLiens
 artists:
 - OutKast
+external_ids:
+  spotify: spotify:track:2oLwDI8tZUOh6SmTMRRfKs
 features: []
-genres: []
+first_released_as_single: false
 key: elevators--me---you--outkast
 lyrics_url: https://www.azlyrics.com/lyrics/outkast/elevatorsmeyou.html
 name: Elevators (Me & You)
@@ -87,10 +90,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1996-12-07'
+release_year: 1996
+runtime: 265200
 ---
-
-
-
 One for the money yes uhh two for the show
 A couple of years ago on Headland and Delowe
 Was the start of somethin good
@@ -104,7 +106,7 @@ Writing rhymes tryin ta find our spot off in that light
 Light off in that spot, known that we could rock
 Doin the hole in the wall clubs, this shit here must stop
 Like freeze, we makin the crowd move but we not makin no G's
-And that's a nono
+And that's a no-no
 
 
 
@@ -162,4 +164,3 @@ to the end of the week, I live by the beat like you live check to check
 If you don't move yo' foot then I don't eat, so we like neck to neck
 Yes we done come a long way like them Slim ass cigarettes
 from Virginia, this ain't gon stop so we just gonna continue
-

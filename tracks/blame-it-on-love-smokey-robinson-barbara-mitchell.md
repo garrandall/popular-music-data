@@ -1,9 +1,12 @@
 ---
+album: Touch The Sky
 artists:
 - Smokey Robinson
 - Barbara Mitchell
+external_ids:
+  spotify: spotify:track:6rDHv55bgVt78p0gXEr36r
 features: []
-genres: []
+first_released_as_single: false
 key: blame-it-on-love-smokey-robinson-barbara-mitchell
 lyrics_url: https://www.azlyrics.com/lyrics/smokeyrobinson/blameitonlove.html
 name: Blame It On Love
@@ -56,8 +59,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1983-09-17'
+release_year: 1983
+runtime: 215906
 ---
-
 We had our chance
 Lord knows how we tried
 To keep our love alive
@@ -103,6 +107,3 @@ So baby, (so baby) let's blame it on love tonight
 We can blame it on love
 On the dreams we shared that won't come true
 On the feeling that our love would always see us through
-
-
-

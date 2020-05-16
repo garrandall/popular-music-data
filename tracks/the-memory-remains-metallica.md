@@ -1,8 +1,11 @@
 ---
+album: Reload
 artists:
 - Metallica
+external_ids:
+  spotify: spotify:track:0vhOJ8a3M2LWnBNrDXJKDl
 features: []
-genres: []
+first_released_as_single: false
 key: the-memory-remains-metallica
 lyrics_url: https://www.azlyrics.com/lyrics/metallica/thememoryremains.html
 name: The Memory Remains
@@ -83,8 +86,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1998-04-04'
+release_year: 1997
+runtime: 279240
 ---
-
 Fortune, fame
 Mirror vain
 Gone insane
@@ -160,6 +164,3 @@ Say yes
 At least say hello
 Say yes
 At least say hello
-
-
-

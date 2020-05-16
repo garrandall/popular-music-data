@@ -1,8 +1,11 @@
 ---
+album: An Innocent Man
 artists:
 - Billy Joel
+external_ids:
+  spotify: spotify:track:5DH7nDryMhpixm4G4B7RP9
 features: []
-genres: []
+first_released_as_single: false
 key: the-longest-time-billy-joel
 lyrics_url: https://genius.com/Billy-joel-the-longest-time-lyrics
 name: The Longest Time
@@ -79,6 +82,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1984-07-21'
+release_year: 1983
+runtime: 217906
 ---
 Whoa, oh, oh, oh (for the longest)
 For the longest time

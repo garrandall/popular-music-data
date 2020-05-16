@@ -1,8 +1,11 @@
 ---
+album: Rewind
 artists:
 - Johnny Rivers
+external_ids:
+  spotify: spotify:track:6Sfz7OhN8Hh9plicJoIvDw
 features: []
-genres: []
+first_released_as_single: false
 key: baby-i-need-your-lovin--johnny-rivers
 lyrics_url: https://www.azlyrics.com/lyrics/johnnyrivers/babyineedyourloving.html
 name: Baby I Need Your Lovin'
@@ -51,8 +54,9 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1967-04-15'
+release_year: 1967
+runtime: 190200
 ---
-
 Baby, I need your lovin'
 Baby, I need your lovin'
 
@@ -103,6 +107,3 @@ Baby, I need your lovin'
 I got to have all your lovin'
 Baby, I need your lovin'
 Got to have all your lovin'
-
-
-

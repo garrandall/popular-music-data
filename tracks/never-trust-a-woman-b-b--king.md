@@ -1,8 +1,11 @@
 ---
+album: The Anthology
 artists:
 - B.B. King
+external_ids:
+  spotify: spotify:track:4IISGbUpoUAXqDdZews1ve
 features: []
-genres: []
+first_released_as_single: false
 key: never-trust-a-woman-b-b--king
 lyrics_url: https://www.azlyrics.com/lyrics/bbking/nevertrustawoman.html
 name: Never Trust A Woman
@@ -19,8 +22,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1964-11-21'
+release_year: 1964
+runtime: 156306
 ---
-
 Don't ever trust a woman
 Until she's dead and buried
 Yes don't ever trust a woman
@@ -59,6 +63,3 @@ Man don't ever trust a woman
 Until she's dead and buried
 One day she'll say that she loves you
 And the next day she'll throw you in the street
-
-
-

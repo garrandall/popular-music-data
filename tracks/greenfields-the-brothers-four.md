@@ -1,8 +1,11 @@
 ---
+album: The Brothers Four
 artists:
 - The Brothers Four
+external_ids:
+  spotify: spotify:track:7LAsDdinXejDwodvelVVTa
 features: []
-genres: []
+first_released_as_single: false
 key: greenfields-the-brothers-four
 lyrics_url: https://genius.com/The-brothers-four-greenfields-lyrics
 name: Greenfields
@@ -87,6 +90,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1960-07-04'
+release_year: 1959
+runtime: 182026
 ---
 Once there were greenfields
 Kissed by the sun

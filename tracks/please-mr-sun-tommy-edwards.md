@@ -1,8 +1,11 @@
 ---
+album: Karaoke - Male Oldies - Vol. 20
 artists:
 - Tommy Edwards
+external_ids:
+  spotify: spotify:track:5FtczIMM0wilBq6sNjGgdW
 features: []
-genres: []
+first_released_as_single: false
 key: please-mr-sun-tommy-edwards
 lyrics_url: https://genius.com/Tommy-edwards-please-mr-sun-lyrics
 name: Please Mr Sun
@@ -59,6 +62,8 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '1959-05-11'
+release_year: 1959
+runtime: 142680
 ---
 Talk to her please, Mr. Sun
 Speak to her, Mr. Rainbow

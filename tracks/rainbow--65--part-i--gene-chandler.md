@@ -1,8 +1,11 @@
 ---
+album: Soul Master
 artists:
 - Gene Chandler
+external_ids:
+  spotify: spotify:track:3xIHOyVdwyb8Vdh7Pu45Qm
 features: []
-genres: []
+first_released_as_single: false
 key: rainbow--65--part-i--gene-chandler
 lyrics_url: https://genius.com/Gene-chandler-rainbow-65-part-1-and-2-lyrics
 name: Rainbow '65 (Part I)
@@ -39,14 +42,9 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '1966-01-29'
+release_year: 1965
+runtime: 165200
 ---
-Rainbow '65 Part 1 & 2
-(Curtis Mayfield)
-Gene Chandler
-Album: Live at the Regal
-Recorded at the Regal Theatre, Chicago
-Collectables COL-CD-5516
-
 There's a rainbow, yeah
 In my heart
 That reminds me
@@ -78,8 +76,6 @@ C'mon stop this rainbow
 
 A-ha-ha, yeah!
 
-PART 2 (continuation of Part 1 Live in Co)
-
 A c'mon now baby
 An' stop this rainbow
 An' I know the things
@@ -105,7 +101,7 @@ An' I'm askin' ya, baby
 An' I'm askin' ya, baby
 I'm askin' ya
 
-Please, pleaeeeeeeeeeeeeeeese, please
+Please, please, please
 Please, please, please, please
 Please, please baby
 Baby-baby, baby-baby, baby-baby
@@ -126,18 +122,15 @@ Bite! your neck
 
 An' I just wanna ask you one thing, baby
 An' I just wanna ask you one thing, baby
-I just wanna ask you one thiiiiiiing
-I just wanna ask you one thiiiiiiing
+I just wanna ask you one thing
+I just wanna ask you one thing
 I just wanna ask you one thing
 One thing, baby
 
 I want you to stop
 Stop this rainbow in my heart
 
-Spoken:
 'Thank you!
 'Thank you so very
 
 Abrupt end of track
-
-~

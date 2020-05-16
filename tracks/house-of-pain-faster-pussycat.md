@@ -1,8 +1,11 @@
 ---
+album: Wake Me When It's Over
 artists:
 - Faster Pussycat
+external_ids:
+  spotify: spotify:track:46Qy1xAr2K7rylRYwdQ6Gw
 features: []
-genres: []
+first_released_as_single: false
 key: house-of-pain-faster-pussycat
 lyrics_url: https://genius.com/Faster-pussycat-house-of-pain-lyrics
 name: House Of Pain
@@ -91,6 +94,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1990-07-14'
+release_year: 1989
+runtime: 346626
 ---
 A little past suppertime
 I'm still out on the porch step sitting on my behind

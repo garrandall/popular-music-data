@@ -1,8 +1,11 @@
 ---
+album: ITALO Club Lounge
 artists:
 - Club House
+external_ids:
+  spotify: spotify:track:0ajOVrTsuBM0O8epg683ot
 features: []
-genres: []
+first_released_as_single: false
 key: do-it-again-club-house
 lyrics_url: https://genius.com/Club-house-do-it-again-meets-billy-jean-lyrics
 name: Do It Again
@@ -27,6 +30,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1983-09-17'
+release_year: 1983
+runtime: 320906
 ---
 In the morning you go gunning
 For the man who stole your water

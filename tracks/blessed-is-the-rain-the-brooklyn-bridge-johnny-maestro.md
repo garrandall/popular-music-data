@@ -1,9 +1,12 @@
 ---
+album: Greatest Hits Live
 artists:
 - The Brooklyn Bridge
+external_ids:
+  spotify: spotify:track:6GkPPyqRHtmVEN9PGzWe6D
 features:
 - Johnny Maestro
-genres: []
+first_released_as_single: false
 key: blessed-is-the-rain-the-brooklyn-bridge-johnny-maestro
 lyrics_url: https://genius.com/Johnny-maestro-and-the-brooklyn-bridge-blessed-is-the-rain-lyrics
 name: Blessed Is The Rain
@@ -32,6 +35,8 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '1969-04-12'
+release_year: 1969
+runtime: 208933
 ---
 Blessed is the rain that falls on me
 As far as that girl can see

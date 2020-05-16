@@ -1,9 +1,12 @@
 ---
+album: The Fame Monster
 artists:
 - Lady Gaga
+external_ids:
+  spotify: spotify:track:7rl7ao5pb9BhvAzPdWStxi
 features:
 - Beyonce
-genres: []
+first_released_as_single: false
 key: telephone-lady-gaga-beyonce
 lyrics_url: https://www.azlyrics.com/lyrics/ladygaga/telephone.html
 name: Telephone
@@ -140,9 +143,9 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '2010-07-24'
+release_year: 2009
+runtime: 220626
 ---
-
-
 Hello, hello, baby, you called?
 I can't hear a thing
 I have got no service
@@ -267,6 +270,3 @@ And you're not gonna reach my telephone
 We're sorry, we're sorry
 The number you have reached is not in service at this time
 Please check the number or try your call again
-
-
-

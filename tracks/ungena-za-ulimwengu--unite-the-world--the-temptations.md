@@ -1,8 +1,11 @@
 ---
+album: Sky's The Limit
 artists:
 - The Temptations
+external_ids:
+  spotify: spotify:track:4RZDkiQIOa6D4EY5QfRCfY
 features: []
-genres: []
+first_released_as_single: false
 key: ungena-za-ulimwengu--unite-the-world--the-temptations
 lyrics_url: https://www.azlyrics.com/lyrics/temptations/ungenazaulimwenguunitetheworld.html
 name: Ungena Za Ulimwengu (Unite The World)
@@ -35,8 +38,9 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '1970-11-14'
+release_year: 1970
+runtime: 268973
 ---
-
 Sick minds, sad sights,
 Never ending sleepless nights have been accepted as an everyday thing.
 Wire tapping, kidnapping...
@@ -106,6 +110,3 @@ Aw, come on, come on, come on, come on.
 (Walk this land, day and night, hand in hand, black and white.)
 (Walk this land, day and night, hand in hand, black and white.)
 (Walk this land, day and night, hand in hand, black and white.)
-
-
-

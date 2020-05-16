@@ -1,8 +1,11 @@
 ---
+album: I'm So Lonely I Could Cry
 artists:
 - Johnny Tillotson
+external_ids:
+  spotify: spotify:track:6nnZlbP1DD0K8VKXIseXfP
 features: []
-genres: []
+first_released_as_single: false
 key: i-rise-i-fall-johnny-tillotson
 lyrics_url: https://genius.com/Johnny-tillotson-i-rise-i-fall-lyrics
 name: I Rise I Fall
@@ -39,6 +42,8 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '1964-06-20'
+release_year: 1964
+runtime: 138200
 ---
 I rise I fall with each lettle thing you do
 You hurt I hurt I'm that much a part of you

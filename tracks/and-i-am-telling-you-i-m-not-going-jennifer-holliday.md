@@ -1,8 +1,11 @@
 ---
+album: 'Dreamgirls: Original Broadway Cast Album'
 artists:
 - Jennifer Holliday
+external_ids:
+  spotify: spotify:track:1gu82KCw8Y51Fwc1pg4BXb
 features: []
-genres: []
+first_released_as_single: false
 key: and-i-am-telling-you-i-m-not-going-jennifer-holliday
 lyrics_url: https://genius.com/Jennifer-holliday-and-i-am-telling-you-im-not-going-lyrics
 name: And I Am Telling You I'm Not Going
@@ -63,6 +66,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1982-10-02'
+release_year: 1982
+runtime: 245600
 ---
 And I am telling you I'm not going
 You're best man I've ever known

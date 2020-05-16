@@ -1,8 +1,11 @@
 ---
+album: Hello Big Man
 artists:
 - Carly Simon
+external_ids:
+  spotify: spotify:track:6bHJK5foTbt9sWHYWSqG3x
 features: []
-genres: []
+first_released_as_single: false
 key: you-know-what-to-do-carly-simon
 lyrics_url: https://genius.com/Carly-simon-you-know-what-to-do-lyrics
 name: You Know What To Do
@@ -23,6 +26,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1983-10-15'
+release_year: 1983
+runtime: 252120
 ---
 (Carly Simon/Jacob Brackman)
 
@@ -62,4 +67,3 @@ Somethings I'll just never understand
 Pounding out my heart
 Trembling of my hands
 Somethings I'lll just never understand
-

@@ -1,8 +1,11 @@
 ---
+album: I Love You Because
 artists:
 - Al Martino
+external_ids:
+  spotify: spotify:track:5ggafYsNyKhTR9bISS3OPj
 features: []
-genres: []
+first_released_as_single: false
 key: i-love-you-because-al-martino
 lyrics_url: https://genius.com/Al-martino-i-love-you-because-lyrics
 name: I Love You Because
@@ -71,6 +74,8 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '1963-07-20'
+release_year: 1963
+runtime: 163400
 ---
 I love you because you understand, dear
 Every single thing I try to do

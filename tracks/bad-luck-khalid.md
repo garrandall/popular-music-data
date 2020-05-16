@@ -1,8 +1,11 @@
 ---
+album: Free Spirit
 artists:
 - Khalid
+external_ids:
+  spotify: spotify:track:2vsuel3g4zaLYSOY0mOMbi
 features: []
-genres: []
+first_released_as_single: false
 key: bad-luck-khalid
 lyrics_url: https://www.azlyrics.com/lyrics/khalid/badluck.html
 name: Bad Luck
@@ -11,8 +14,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '2019-04-20'
+release_year: 2019
+runtime: 231653
 ---
-
 Mmm, mmm
 Oh yeah, oh yeah, yeah
 Alright
@@ -83,6 +87,3 @@ I'm in love with bad luck
 
 Yeah (I'm in love with bad luck)
 Bad, bad luck
-
-
-

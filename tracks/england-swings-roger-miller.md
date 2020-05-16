@@ -1,8 +1,11 @@
 ---
+album: Golden Hits
 artists:
 - Roger Miller
+external_ids:
+  spotify: spotify:track:7nzbKYtkpujp2GYuAlTiZe
 features: []
-genres: []
+first_released_as_single: false
 key: england-swings-roger-miller
 lyrics_url: https://www.azlyrics.com/lyrics/rogermiller/englandswings.html
 name: England Swings
@@ -51,8 +54,9 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '1966-01-15'
+release_year: 1965
+runtime: 112466
 ---
-
 England swings like a pendulum do,
 Bobbies on bicycles, two by two,
 Westminster Abbey the tower of Big Ben,
@@ -67,6 +71,3 @@ Mama's old pajamas and your papa's mustache,
 Falling out the window sill, frolic in the grass,
 Tryin' to mock the way they talk fun but all in vain,
 Gaping at the dapper men with derby hats and canes
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Rock 'n' Roll Moon
 artists:
 - Billy Swan
+external_ids:
+  spotify: spotify:track:69mXEWkKtj1RxtI1ZtcCrR
 features: []
-genres: []
+first_released_as_single: false
 key: everything-s-the-same--ain-t-nothing-changed--billy-swan
 lyrics_url: https://www.musixmatch.com/lyrics/Billy-Swan/Everything-s-the-Same-Ain-t-Nothing-Changed
 name: Everything's The Same (Ain't Nothing Changed)
@@ -27,6 +30,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1975-11-29'
+release_year: 1974
+runtime: 153640
 ---
 You went away and left me
 'Cause you thought

@@ -1,8 +1,11 @@
 ---
+album: Up! (Green Version)
 artists:
 - Shania Twain
+external_ids:
+  spotify: spotify:track:3wimPgsJv0hEgP5A3sQ7Ag
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-gonna-getcha-good--shania-twain
 lyrics_url: https://genius.com/Shania-twain-im-gonna-getcha-good-lyrics
 name: I'm Gonna Getcha Good!
@@ -87,6 +90,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2003-03-01'
+release_year: 2002
+runtime: 269400
 ---
 Ah
 Let's go

@@ -1,8 +1,11 @@
 ---
+album: 60's Rock
 artists:
 - Bob And Earl
+external_ids:
+  spotify: spotify:track:2wu8vkJHGbjMYvYwsfJLyQ
 features: []
-genres: []
+first_released_as_single: false
 key: harlem-shuffle-bob-and-earl
 lyrics_url: https://genius.com/Bob-and-earl-harlem-shuffle-lyrics
 name: Harlem Shuffle
@@ -51,6 +54,8 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '1964-02-29'
+release_year: 1963
+runtime: 168288
 ---
 You move it to the left
 Yeah, then you go for yourself

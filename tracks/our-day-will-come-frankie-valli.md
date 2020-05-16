@@ -1,8 +1,11 @@
 ---
+album: Our Day Will Come
 artists:
 - Frankie Valli
+external_ids:
+  spotify: spotify:track:2EOUtaIm5jz5fQuzvTQvJZ
 features: []
-genres: []
+first_released_as_single: false
 key: our-day-will-come-frankie-valli
 lyrics_url: https://www.azlyrics.com/lyrics/frankievalli/ourdaywillcome.html
 name: Our Day Will Come
@@ -55,8 +58,9 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '1976-01-03'
+release_year: 1975
+runtime: 346946
 ---
-
 Our day will come
 And we'll have everything
 We'll share the joy
@@ -83,6 +87,3 @@ We'll always stay
 In love this way
 Our day will come
 Our day will come
-
-
-

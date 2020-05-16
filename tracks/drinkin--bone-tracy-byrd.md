@@ -1,8 +1,11 @@
 ---
+album: The Truth About Men
 artists:
 - Tracy Byrd
+external_ids:
+  spotify: spotify:track:7BB3emVX0QaFVddCHiO9wt
 features: []
-genres: []
+first_released_as_single: false
 key: drinkin--bone-tracy-byrd
 lyrics_url: https://www.azlyrics.com/lyrics/tracybyrd/drinkinbone.html
 name: Drinkin' Bone
@@ -71,8 +74,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2004-03-13'
+release_year: 2003
+runtime: 131866
 ---
-
 Well it's Friday evening, six o'clock
 And all my friends are twisting off
 I'm at the house just turning on TV
@@ -108,6 +112,3 @@ Drinkin' bone's connected to the party bone
 The party bone's connected to the staying out all night long
 And she won't think it's funny and I'll wind up all alone 
 And the lonely bone's connected to the drinkin' bone
-
-
-

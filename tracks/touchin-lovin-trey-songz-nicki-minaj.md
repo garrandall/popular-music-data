@@ -1,9 +1,12 @@
 ---
+album: Trigga
 artists:
 - Trey Songz
+external_ids:
+  spotify: spotify:track:799rStkChWWYGLOIVFGFiW
 features:
 - Nicki Minaj
-genres: []
+first_released_as_single: false
 key: touchin-lovin-trey-songz-nicki-minaj
 lyrics_url: https://www.azlyrics.com/lyrics/treysongz/touchinlovin.html
 name: Touchin Lovin
@@ -88,9 +91,9 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '2015-01-31'
+release_year: 2014
+runtime: 221986
 ---
-
-
 Woo
 Yeah, Young Money
 Trigga Trey
@@ -160,6 +163,3 @@ And I really wanna touch ya, I'm fucking you tonight
  What you mean, "wait, no", like... what?!
 You better act like you know nigga, it's Nicki Minaj!
 Uh huh.
-
-
-

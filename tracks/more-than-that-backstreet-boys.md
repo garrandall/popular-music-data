@@ -1,8 +1,11 @@
 ---
+album: Black & Blue
 artists:
 - Backstreet Boys
+external_ids:
+  spotify: spotify:track:4XRUKxDIn28c7uHEzbGFgj
 features: []
-genres: []
+first_released_as_single: false
 key: more-than-that-backstreet-boys
 lyrics_url: https://genius.com/Backstreet-boys-more-than-that-lyrics
 name: More Than That
@@ -87,6 +90,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2001-10-06'
+release_year: 2000
+runtime: 224933
 ---
 I can see that you've been crying
 You can't hide it with a lie

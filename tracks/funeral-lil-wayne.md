@@ -1,8 +1,11 @@
 ---
+album: Funeral
 artists:
 - Lil Wayne
+external_ids:
+  spotify: spotify:track:4y1GxT1XnufGddKkrFkbtC
 features: []
-genres: []
+first_released_as_single: false
 key: funeral-lil-wayne
 lyrics_url: https://genius.com/Lil-wayne-funeral-lyrics
 name: Funeral
@@ -11,6 +14,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2020-02-15'
+release_year: 2020
+runtime: 194640
 ---
 Welcome to the funeral, yeah
 Closed casket as usual

@@ -1,8 +1,11 @@
 ---
+album: Stop And Smell The Roses
 artists:
 - Mac Davis
+external_ids:
+  spotify: spotify:track:40tpHDy6itu2GVUEatgUcc
 features: []
-genres: []
+first_released_as_single: false
 key: stop-and-smell-the-roses-mac-davis
 lyrics_url: https://www.azlyrics.com/lyrics/macdavis/stopandsmelltheroses.html
 name: Stop And Smell The Roses
@@ -63,8 +66,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1974-11-23'
+release_year: 1972
+runtime: 174799
 ---
-
 Hey mister
 Where you going in such a hurry
 Don't you think it's time you realized
@@ -102,6 +106,3 @@ You got to stop and smell the roses
 You've got to count your many blessings everyday
 You're gonna find your way to heaven is a rough and rocky road
 If you don't stop and smell the roses along the way
-
-
-

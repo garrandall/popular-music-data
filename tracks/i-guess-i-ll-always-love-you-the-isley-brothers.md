@@ -1,8 +1,11 @@
 ---
+album: This Old Heart Of Mine
 artists:
 - The Isley Brothers
+external_ids:
+  spotify: spotify:track:0hEpwU2pp7X1IYc4aIHATE
 features: []
-genres: []
+first_released_as_single: false
 key: i-guess-i-ll-always-love-you-the-isley-brothers
 lyrics_url: https://genius.com/The-isley-brothers-i-guess-ill-always-love-you-lyrics
 name: I Guess I'll Always Love You
@@ -35,6 +38,8 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1966-08-27'
+release_year: 1966
+runtime: 167933
 ---
 I guess I'll always love you
 You've got the love I need

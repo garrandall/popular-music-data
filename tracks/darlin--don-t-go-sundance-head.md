@@ -1,8 +1,11 @@
 ---
+album: Soul Country
 artists:
 - Sundance Head
+external_ids:
+  spotify: spotify:track:7lOkmIpzOEOufmOQbLlaHW
 features: []
-genres: []
+first_released_as_single: false
 key: darlin--don-t-go-sundance-head
 lyrics_url: https://www.musixmatch.com/lyrics/Sundance-Head/Darlin-Don-t-Go-The-Voice-Performance
 name: Darlin' Don't Go
@@ -11,6 +14,8 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '2016-12-31'
+release_year: 2015
+runtime: 263013
 ---
 Darlin' don't go
 And leave me all by myself

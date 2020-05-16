@@ -1,8 +1,11 @@
 ---
+album: The Young Mods' Forgotten Story
 artists:
 - The Impressions
+external_ids:
+  spotify: spotify:track:4CizK36Hxq8tYxi5qYypfN
 features: []
-genres: []
+first_released_as_single: false
 key: seven-years-the-impressions
 lyrics_url: https://www.azlyrics.com/lyrics/impressions/sevenyears.html
 name: Seven Years
@@ -23,8 +26,9 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1969-05-17'
+release_year: 1969
+runtime: 144600
 ---
-
 Seven years remember when
 You became my loving friend
 Never forget that wonderful day
@@ -62,6 +66,3 @@ Woo oh oh oh oh
 Seven years, seven years
 I cried a lotta tears
 Having hard time, hard time
-
-
-

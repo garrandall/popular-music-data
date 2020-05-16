@@ -1,8 +1,11 @@
 ---
+album: Most Girls
 artists:
 - Hailee Steinfeld
+external_ids:
+  spotify: spotify:track:10GJQkjRJcZhGTLagFOC62
 features: []
-genres: []
+first_released_as_single: true
 key: most-girls-hailee-steinfeld
 lyrics_url: https://www.azlyrics.com/lyrics/haileesteinfeld/mostgirls.html
 name: Most Girls
@@ -71,8 +74,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2017-09-23'
+release_year: 2017
+runtime: 204400
 ---
-
 Some girls, feel best in their tiny dresses
 Some girls, nothin' but sweatpants, looking like a princess
 Some girls, kiss new lips every single night
@@ -128,6 +132,3 @@ I wanna be like, I wanna be like
 (They're stayin' out late cause they just celebratin')
 I wanna be like
 (They're stayin' out late cause they just celebratin' life)
-
-
-

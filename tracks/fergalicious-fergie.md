@@ -1,8 +1,11 @@
 ---
+album: The Dutchess
 artists:
 - Fergie
+external_ids:
+  spotify: spotify:track:1D066zixBwqFYqBhKgdPzp
 features: []
-genres: []
+first_released_as_single: false
 key: fergalicious-fergie
 lyrics_url: https://genius.com/Fergie-fergalicious-lyrics
 name: Fergalicious
@@ -115,6 +118,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '2007-04-07'
+release_year: 2006
+runtime: 292373
 ---
 (Four, tres, two, uno)
 Listen up y'all, 'cause this is it

@@ -1,8 +1,11 @@
 ---
+album: I Want You, I Need You
 artists:
 - Chris Christian
+external_ids:
+  spotify: spotify:track:1fNqt552Rd4KiHK0fraglz
 features: []
-genres: []
+first_released_as_single: false
 key: i-want-you-i-need-you-chris-christian
 name: I Want You I Need You
 rankings:
@@ -62,5 +65,7 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1982-01-02'
+release_year: 1981
+runtime: 220186
 ---
 

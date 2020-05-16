@@ -1,8 +1,11 @@
 ---
+album: The MGM Singles
 artists:
 - Sam The Sham and the Pharaohs
+external_ids:
+  spotify: spotify:track:4CS89Pya26v88bL5IlCFyW
 features: []
-genres: []
+first_released_as_single: false
 key: ju-ju-hand-sam-the-sham-and-the-pharaohs
 lyrics_url: https://genius.com/Sam-the-sham-and-the-pharaohs-ju-ju-hand-lyrics
 name: Ju Ju Hand
@@ -35,6 +38,8 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '1965-09-11'
+release_year: 1965
+runtime: 127746
 ---
 Yoka mata huba bakwa Juju Hand
 Oooowwww! We got it now!

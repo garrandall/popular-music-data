@@ -1,8 +1,11 @@
 ---
+album: Begin To Hope
 artists:
 - Regina Spektor
+external_ids:
+  spotify: spotify:track:6GskIhdM6TN6EkPgeSjVfW
 features: []
-genres: []
+first_released_as_single: false
 key: fidelity-regina-spektor
 lyrics_url: https://www.azlyrics.com/lyrics/reginaspektor/fidelity.html
 name: Fidelity
@@ -59,8 +62,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2007-04-07'
+release_year: 2006
+runtime: 226487
 ---
-
 (Shake it up)
 
 I never loved nobody fully
@@ -114,6 +118,3 @@ I hear in my mind all of this music
 Breaks my
 Heart
 Breaks my heart
-
-
-

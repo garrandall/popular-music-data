@@ -1,8 +1,11 @@
 ---
+album: Natalie
 artists:
 - Natalie
+external_ids:
+  spotify: spotify:track:48JAAdtKgOQ4u4QRER6bJX
 features: []
-genres: []
+first_released_as_single: false
 key: goin--crazy-natalie
 lyrics_url: https://www.azlyrics.com/lyrics/natalie/mefaltastugoincrazyspanishversion.html
 name: Goin' Crazy
@@ -87,33 +90,33 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '2005-06-25'
+release_year: 2005
+runtime: 294093
 ---
-
-
-Desde el primero dia que te fuistÃ© me faltÃ³ tu amor.
+Desde el primero dia que te fuisté me faltÃ³ tu amor.
 Fue un gran golpe en mi corazÃ³n
 Fue un gran dolor.
-ArrÃ©pentida por dejartÃ© y tengo que admitir,Me faltas tu
+Arrépentida por dejarté y tengo que admitir,Me faltas tu
 
 
-Baby ahora si me puedes dar otra oportunidad sacrificarÃ©,
+Baby ahora si me puedes dar otra oportunidad sacrificaré,
 Todo por mi parte
 Porque se que un dia te falle,
-PrometerÃ©, darte toda mi atencion,
+Prometeré, darte toda mi atencion,
 Porque se lo que es vivir sentir
 Estar sin ti ya no aguanto este dolor
 
 
-Te extraÃ±o y quiÃ©ro decirte que me faltas tu
+Te extraÃ±o y quiéro decirte que me faltas tu
 Nunca pense que encontraria alguien como tu
 Fue el destino que te puso mi camino amor
 Por ti llorare un rio
 Y te regalo mi corazon
 
 
-EscuchamÃ©, tu me vuelves loca,
+Escuchamé, tu me vuelves loca,
 Y necesito ser solamente tuya,
-EscuchamÃ©, y no me dudes baby,
+Escuchamé, y no me dudes baby,
 Entiendeme y quiere me,
 Pero quiero a ti baby
 
@@ -123,10 +126,10 @@ Que quizas lo que te dije
 No te entendi.
 Pero yo te tengo que admitir
 Que mi ?? me haces muy feliz.
-No mas dimÃ© que me quiÃ©re, y que me ama, que me entiendÃ©, y me extraÃ±as, y soy tu baby
-Yo aqui estarÃ© para ti
+No mas dimé que me quiére, y que me ama, que me entiendé, y me extraÃ±as, y soy tu baby
+Yo aqui estaré para ti
 Cuando siempre quieres de mi.
-Te quiÃ©ro, y me faltas tu,
+Te quiéro, y me faltas tu,
 Loca por tu amor, Te amo.
 Si no estas aqui,
 Que voy a hacer sin ti
@@ -136,6 +139,3 @@ Que sin ti es dificil
 Y me pierdo, me faltas tu
 
 Oh oh oh oh oh oh oh oh oh
-
-
-

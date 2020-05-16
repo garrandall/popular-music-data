@@ -1,8 +1,11 @@
 ---
+album: My Cherie Amour
 artists:
 - Stevie Wonder
+external_ids:
+  spotify: spotify:track:0l9RGwc48deJ6j61KXAAvs
 features: []
-genres: []
+first_released_as_single: false
 key: yester-me-yester-you-yesterday-stevie-wonder
 lyrics_url: https://www.azlyrics.com/lyrics/steviewonder/yestermeyesteryouyesterday.html
 name: Yester-Me Yester-You Yesterday
@@ -63,8 +66,9 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '1970-01-17'
+release_year: 1969
+runtime: 185293
 ---
-
 What happened to the world we knew
 When we would dream and scheme
 And while the time away
@@ -97,6 +101,3 @@ Yesterme yesteryou yesterday
 Sing with me
 Yesterme yesteryou yesterday
 One more time...
-
-
-

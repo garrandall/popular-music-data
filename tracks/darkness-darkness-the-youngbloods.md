@@ -1,8 +1,11 @@
 ---
+album: Elephant Mountain
 artists:
 - The Youngbloods
+external_ids:
+  spotify: spotify:track:5DfEk8Zn8JkTdYmirq1Blh
 features: []
-genres: []
+first_released_as_single: false
 key: darkness-darkness-the-youngbloods
 lyrics_url: https://genius.com/The-youngbloods-darkness-darkness-lyrics
 name: Darkness Darkness
@@ -23,6 +26,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1970-05-23'
+release_year: 1969
+runtime: 228626
 ---
 Darkness, Darkness
 Be my pillow

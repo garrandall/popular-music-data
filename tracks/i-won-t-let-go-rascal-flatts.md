@@ -1,8 +1,11 @@
 ---
+album: Nothing Like This
 artists:
 - Rascal Flatts
+external_ids:
+  spotify: spotify:track:1T1C9VVQ1lb60WxWZx7KoG
 features: []
-genres: []
+first_released_as_single: false
 key: i-won-t-let-go-rascal-flatts
 lyrics_url: https://genius.com/Rascal-flatts-i-wont-let-go-lyrics
 name: I Won't Let Go
@@ -87,6 +90,8 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '2011-06-25'
+release_year: 2010
+runtime: 227760
 ---
 It's like a storm
 That cuts a path

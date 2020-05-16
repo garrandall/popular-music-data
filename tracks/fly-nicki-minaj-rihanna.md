@@ -1,9 +1,12 @@
 ---
+album: Pink Friday
 artists:
 - Nicki Minaj
+external_ids:
+  spotify: spotify:track:5Fx2DfzfEm5KruaIsOC6xD
 features:
 - Rihanna
-genres: []
+first_released_as_single: false
 key: fly-nicki-minaj-rihanna
 lyrics_url: https://www.azlyrics.com/lyrics/nickiminaj/fly.html
 name: Fly
@@ -88,9 +91,9 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '2012-01-21'
+release_year: 2010
+runtime: 212920
 ---
-
-
 I came to win, to fight, to conquer, to thrive
 I came to win, to survive, to prosper, to rise
 To fly
@@ -164,6 +167,3 @@ I came to win, to fight, to conquer, to thrive
 I came to win, to survive, to prosper, to rise
 To fly
 To fly
-
-
-

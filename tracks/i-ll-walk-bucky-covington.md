@@ -1,8 +1,11 @@
 ---
+album: Bucky Covington
 artists:
 - Bucky Covington
+external_ids:
+  spotify: spotify:track:3WsAMhyOHxYPrL1pyMAVZm
 features: []
-genres: []
+first_released_as_single: false
 key: i-ll-walk-bucky-covington
 lyrics_url: https://genius.com/Bucky-covington-ill-walk-lyrics
 name: I'll Walk
@@ -39,6 +42,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2008-12-06'
+release_year: 2007
+runtime: 210213
 ---
 We were 18, it was prom night
 We had our first big fight

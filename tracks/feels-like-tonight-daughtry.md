@@ -1,8 +1,11 @@
 ---
+album: It's Not Over....The Hits So Far
 artists:
 - Daughtry
+external_ids:
+  spotify: spotify:track:4GUfRtg9xrn8ihyPARNmS7
 features: []
-genres: []
+first_released_as_single: false
 key: feels-like-tonight-daughtry
 lyrics_url: https://www.azlyrics.com/lyrics/daughtry/feelsliketonight.html
 name: Feels Like Tonight
@@ -87,8 +90,9 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '2008-06-21'
+release_year: 2006
+runtime: 240626
 ---
-
 You, you got me
 Thinking it'll be alright.
 You, you told me,
@@ -135,6 +139,3 @@ Tonight.
 But try to make it up to you.
 And it feels like tonight.
 Tonight.
-
-
-

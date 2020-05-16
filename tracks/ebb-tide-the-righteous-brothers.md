@@ -1,8 +1,11 @@
 ---
+album: Back To Back
 artists:
 - The Righteous Brothers
+external_ids:
+  spotify: spotify:track:1zbo64lsdu5s67XpqMdbiz
 features: []
-genres: []
+first_released_as_single: false
 key: ebb-tide-the-righteous-brothers
 lyrics_url: https://www.azlyrics.com/lyrics/righteousbrothers/ebbtide.html
 name: Ebb Tide
@@ -43,8 +46,9 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '1966-01-29'
+release_year: 1965
+runtime: 169813
 ---
-
 First the tide rushes in
 Plants a kiss on the shore
 Then rolls out to sea and the sea is very still once more
@@ -59,6 +63,3 @@ Really mine in the rain, in the dark, in the sun
 Like the tide at its ebb
 I'm at peace in the web of your arms
 Ebb tide
-
-
-

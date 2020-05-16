@@ -1,9 +1,12 @@
 ---
+album: The Ferrante & Teicher Collection
 artists:
 - Ferrante
 - Teicher
+external_ids:
+  spotify: spotify:track:7MIzIo0Z9S8zmBiXdGwOeS
 features: []
-genres: []
+first_released_as_single: false
 key: exodus-ferrante-teicher
 lyrics_url: https://genius.com/Ferrante-and-teicher-exodus-lyrics
 name: Exodus
@@ -92,6 +95,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1961-04-03'
+release_year: 1960
+runtime: 190359
 ---
 This land is mine, God gave this land to me
 This brave and ancient land to me

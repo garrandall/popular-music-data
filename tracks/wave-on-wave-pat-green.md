@@ -1,8 +1,11 @@
 ---
+album: Wave On Wave
 artists:
 - Pat Green
+external_ids:
+  spotify: spotify:track:7rS87NoPWbAkVURdVFbGH9
 features: []
-genres: []
+first_released_as_single: false
 key: wave-on-wave-pat-green
 lyrics_url: https://www.azlyrics.com/lyrics/patgreen/waveonwave.html
 name: Wave On Wave
@@ -87,8 +90,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2004-01-10'
+release_year: 2003
+runtime: 244373
 ---
-
 Mile upon mile I got no direction
 We're all playing the same game
 We're all looking for redemption
@@ -140,6 +144,3 @@ You're the reason I'm still here, yeah
 Am I the one you were sent to save
 And it came upon me wave on wave
 Wave on!
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Wild Ones
 artists:
 - Flo Rida
+external_ids:
+  spotify: spotify:track:4bZd0nRuX8HyjeXAUBczvm
 features: []
-genres: []
+first_released_as_single: false
 key: i-cry-flo-rida
 lyrics_url: https://www.azlyrics.com/lyrics/florida/icry.html
 name: I Cry
@@ -91,8 +94,9 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2013-03-02'
+release_year: 2012
+runtime: 223800
 ---
-
 I know
 Caught up in the middle
 I cry just a little
@@ -198,6 +202,3 @@ Oh no
 Gave up on the riddle
 I cry just a little
 When I think of letting go
-
-
-

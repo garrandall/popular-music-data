@@ -1,8 +1,11 @@
 ---
+album: La La Means I Love You (Expanded Version)
 artists:
 - The Delfonics
+external_ids:
+  spotify: spotify:track:3xblc2MD1G8navPQ3DETfM
 features: []
-genres: []
+first_released_as_single: false
 key: funny-feeling-the-delfonics
 lyrics_url: https://genius.com/The-delfonics-funny-feeling-remastered-lyrics
 name: Funny Feeling
@@ -15,6 +18,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1969-06-21'
+release_year: 1968
+runtime: 153800
 ---
 The world that you live in is grooving
 (Grooving, grooving, grooving)

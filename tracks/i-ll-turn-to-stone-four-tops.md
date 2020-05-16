@@ -1,8 +1,11 @@
 ---
+album: Four Tops Live
 artists:
 - Four Tops
+external_ids:
+  spotify: spotify:track:4JUxuFWkm4QLlYknjmZLwR
 features: []
-genres: []
+first_released_as_single: false
 key: i-ll-turn-to-stone-four-tops
 lyrics_url: https://genius.com/The-four-tops-ill-turn-to-stone-lyrics
 name: I'll Turn To Stone
@@ -27,6 +30,8 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1967-08-12'
+release_year: 1966
+runtime: 141866
 ---
 If you take your love from me
 I'll turn to stone, turn to stone

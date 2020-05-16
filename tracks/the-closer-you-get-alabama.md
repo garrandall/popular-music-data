@@ -1,8 +1,11 @@
 ---
+album: Closer You Get
 artists:
 - Alabama
+external_ids:
+  spotify: spotify:track:1QkMvg5b9IwVJnYb171ie4
 features: []
-genres: []
+first_released_as_single: false
 key: the-closer-you-get-alabama
 lyrics_url: https://genius.com/Alabama-the-closer-you-get-lyrics
 name: The Closer You Get
@@ -51,6 +54,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1983-07-16'
+release_year: 1980
+runtime: 214880
 ---
 The closer you get, the further I fall
 I'll be over the edge now in no time at all

@@ -1,8 +1,11 @@
 ---
+album: The Sound of Madness
 artists:
 - Shinedown
+external_ids:
+  spotify: spotify:track:0W9Xvd4Qx1aZPxEi94vgRY
 features: []
-genres: []
+first_released_as_single: false
 key: sound-of-madness-shinedown
 lyrics_url: https://www.azlyrics.com/lyrics/shinedown/soundofmadness.html
 name: Sound Of Madness
@@ -43,8 +46,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2009-09-05'
+release_year: 2008
+runtime: 233986
 ---
-
 Yeah, I get it
 You're an outcast
 Always under attack
@@ -118,6 +122,3 @@ For yourself
 When you gonna wake up and fight for yourself?
 When you gonna wake up and fight for yourself?
 When you gonna wake up and fight for yourself?
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Hell
 artists:
 - James Brown
+external_ids:
+  spotify: spotify:track:6t7vtuzOeRiU7IFzzFwynr
 features: []
-genres: []
+first_released_as_single: false
 key: papa-don-t-take-no-mess--part-i--james-brown
 lyrics_url: https://genius.com/James-brown-papa-dont-take-no-mess-lyrics
 name: Papa Don't Take No Mess (Part I)
@@ -51,6 +54,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1974-11-02'
+release_year: 1974
+runtime: 831706
 ---
 Papa don't take no mess
 Papa is the man who can understand

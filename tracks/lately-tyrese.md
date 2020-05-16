@@ -1,8 +1,11 @@
 ---
+album: Tyrese
 artists:
 - Tyrese
+external_ids:
+  spotify: spotify:track:4xXpuMj1agXiicS5jZovFE
 features: []
-genres: []
+first_released_as_single: false
 key: lately-tyrese
 lyrics_url: https://www.azlyrics.com/lyrics/tyrese/lately.html
 name: Lately
@@ -59,8 +62,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1999-09-11'
+release_year: 1998
+runtime: 266240
 ---
-
 I can't imagine life
 without you by my side
 This is love baby that I'm feeling
@@ -104,4 +108,3 @@ yes I forgot but you know how I feel
 things slip my mind baby that's a fact
 tell me you love me
 and I'll tell you back
-

@@ -1,8 +1,11 @@
 ---
+album: '25'
 artists:
 - Adele
+external_ids:
+  spotify: spotify:track:78e4lVA2PU0N3nBtgrLl8Z
 features: []
-genres: []
+first_released_as_single: false
 key: hello-adele
 lyrics_url: https://genius.com/Adele-hello-lyrics
 name: Hello
@@ -111,6 +114,8 @@ rankings:
   rank: 36
   ranking_list: Billboard Hot 100
   start_date: '2016-05-07'
+release_year: 2012
+runtime: 228085
 ---
 Hello, it's me
 I was wondering if after all these years you'd like to meet

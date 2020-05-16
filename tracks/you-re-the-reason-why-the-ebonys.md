@@ -1,8 +1,11 @@
 ---
+album: The Ebonys
 artists:
 - The Ebonys
+external_ids:
+  spotify: spotify:track:47eWc2BWcUbnFt3pENh3nc
 features: []
-genres: []
+first_released_as_single: false
 key: you-re-the-reason-why-the-ebonys
 lyrics_url: https://genius.com/The-ebonys-youre-the-reason-why-lyrics
 name: You're The Reason Why
@@ -35,6 +38,8 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '1971-07-24'
+release_year: 1971
+runtime: 183066
 ---
 Ba ba ba ba... yeah
 

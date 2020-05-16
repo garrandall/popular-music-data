@@ -1,8 +1,11 @@
 ---
+album: Voodoo
 artists:
 - D'Angelo
+external_ids:
+  spotify: spotify:track:4oPNN7syJYSjzDhRerF966
 features: []
-genres: []
+first_released_as_single: false
 key: untitled--how-does-it-feel--d-angelo
 lyrics_url: https://genius.com/Dangelo-untitled-how-does-it-feel-lyrics
 name: Untitled (How Does It Feel)
@@ -75,6 +78,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2000-05-13'
+release_year: 2000
+runtime: 430800
 ---
 Girl it's only you
 Have it your way

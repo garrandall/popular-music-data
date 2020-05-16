@@ -1,8 +1,11 @@
 ---
+album: Never Say Never - The Remixes
 artists:
 - Justin Bieber
+external_ids:
+  spotify: spotify:track:1gWnUzwTMhOv4cWyj1CDxB
 features: []
-genres: []
+first_released_as_single: false
 key: born-to-be-somebody-justin-bieber
 lyrics_url: https://www.azlyrics.com/lyrics/justinbieber/borntobesomebody.html
 name: Born To Be Somebody
@@ -11,8 +14,9 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '2011-03-05'
+release_year: 2011
+runtime: 181026
 ---
-
 There's a dream in my soul
 A fire that's deep inside me
 There's a me no one knows
@@ -67,6 +71,3 @@ Oh, oh
 And this world will belong to me
 Yeah, yeah, oh
 This world will belong to me
-
-
-

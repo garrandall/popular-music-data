@@ -1,8 +1,11 @@
 ---
+album: Here Is Barbara Lynn
 artists:
 - Barbara Lynn
+external_ids:
+  spotify: spotify:track:3xHOt6O0vNBX1U3wYsc14y
 features: []
-genres: []
+first_released_as_single: false
 key: this-is-the-thanks-i-get-barbara-lynn
 lyrics_url: https://genius.com/Barbara-lynn-this-is-the-thanks-i-get-lyrics
 name: This Is The Thanks I Get
@@ -15,6 +18,8 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '1968-02-24'
+release_year: 1968
+runtime: 144186
 ---
 I heard that you're gonna leave me
 And there are rumours, baby, yeah

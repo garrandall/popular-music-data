@@ -1,8 +1,11 @@
 ---
+album: The Works
 artists:
 - The KLF
+external_ids:
+  spotify: spotify:track:413adkV8KrZQUPvU0iD9Dj
 features: []
-genres: []
+first_released_as_single: false
 key: 3-am-eternal-the-klf
 lyrics_url: https://genius.com/The-klf-3-am-eternal-lyrics
 name: 3 AM Eternal
@@ -83,6 +86,8 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1991-10-26'
+release_year: 1991
+runtime: 347218
 ---
 This is Radio Freedom
 KLF! aha aha aha aha

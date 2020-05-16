@@ -1,8 +1,11 @@
 ---
+album: Sara Ramirez - EP
 artists:
 - Sara Ramirez
+external_ids:
+  spotify: spotify:track:3rDfh2uI7DaBUAaBgaUkqH
 features: []
-genres: []
+first_released_as_single: true
 key: the-story-sara-ramirez
 lyrics_url: https://www.azlyrics.com/lyrics/sararamirez/thestory.html
 name: The Story
@@ -11,8 +14,9 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '2011-04-16'
+release_year: 2011
+runtime: 225346
 ---
-
 All of these lines across my face
 Tell you the story of who I am
 So many stories of where I've been
@@ -49,6 +53,3 @@ Oh, but these stories don't mean anything
 When you've got no one to tell them to
 It's true that I was made for you
 Oh, yeah, well, it's true that I was made for you
-
-
-

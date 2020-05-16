@@ -1,8 +1,11 @@
 ---
+album: Another Night Time Flight (The Elton John Years)
 artists:
 - Blue
+external_ids:
+  spotify: spotify:track:4IrkSoLxOPjYsvAYPpAJ4A
 features: []
-genres: []
+first_released_as_single: false
 key: capture-your-heart-blue
 lyrics_url: https://www.musixmatch.com/lyrics/Blue/Capture-Your-Heart
 name: Capture Your Heart
@@ -27,6 +30,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1977-06-04'
+release_year: 1977
+runtime: 201413
 ---
 Gonna take my soul to town
 Gonna set my spirit free

@@ -1,8 +1,11 @@
 ---
+album: 'Eragon: Music From The Motion Picture'
 artists:
 - Avril Lavigne
+external_ids:
+  spotify: spotify:track:7gZBkYkhvk2fUEG2y4xzpg
 features: []
-genres: []
+first_released_as_single: false
 key: keep-holding-on-avril-lavigne
 lyrics_url: https://www.azlyrics.com/lyrics/avrillavigne/keepholdingon.html
 name: Keep Holding On
@@ -91,8 +94,9 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '2007-05-05'
+release_year: 2006
+runtime: 239400
 ---
-
 You're not alone
 Together we stand
 I'll be by your side, you know I'll take your hand
@@ -158,6 +162,3 @@ Nothing you could do
 There's no other way when it comes to the truth
 So keep holding on
 'Cause you know we'll make it through, we'll make it through
-
-
-

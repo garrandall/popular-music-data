@@ -1,8 +1,11 @@
 ---
+album: Return To Zero
 artists:
 - RTZ
+external_ids:
+  spotify: spotify:track:5gfy2vyy0SmXEwOgSfMjec
 features: []
-genres: []
+first_released_as_single: false
 key: until-your-love-comes-back-around-rtz
 lyrics_url: https://www.musixmatch.com/lyrics/RTZ/Until-Your-Love-Comes-Back-Around
 name: Until Your Love Comes Back Around
@@ -79,6 +82,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1992-05-16'
+release_year: 1991
+runtime: 360400
 ---
 I thought I spoke to you last evening
 I woke up cryin' in my sleep

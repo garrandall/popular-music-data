@@ -1,8 +1,11 @@
 ---
+album: I Can See Clearly Now
 artists:
 - Nas
+external_ids:
+  spotify: spotify:track:0DcrhZ12WcCqruCs8ibXSf
 features: []
-genres: []
+first_released_as_single: false
 key: i-can-nas
 lyrics_url: https://genius.com/Nas-i-can-lyrics
 name: I Can
@@ -87,6 +90,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2003-07-12'
+release_year: 1972
+runtime: 164733
 ---
 I know I can
 Be what I wanna be

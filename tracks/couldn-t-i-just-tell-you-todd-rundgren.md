@@ -1,8 +1,11 @@
 ---
+album: Something/Anything?
 artists:
 - Todd Rundgren
+external_ids:
+  spotify: spotify:track:02jZSvPG0SNsBwj6g9yRCo
 features: []
-genres: []
+first_released_as_single: false
 key: couldn-t-i-just-tell-you-todd-rundgren
 lyrics_url: https://genius.com/Todd-rundgren-couldnt-i-just-tell-you-lyrics
 name: Couldn't I Just Tell You
@@ -15,6 +18,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1972-08-05'
+release_year: 1972
+runtime: 202506
 ---
 Keep your head and everything will be cool
 You didn't have to make me feel like a fool

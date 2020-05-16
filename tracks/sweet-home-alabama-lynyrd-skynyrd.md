@@ -1,8 +1,11 @@
 ---
+album: Second Helping
 artists:
 - Lynyrd Skynyrd
+external_ids:
+  spotify: spotify:track:7e89621JPkKaeDSTQ3avtg
 features: []
-genres: []
+first_released_as_single: false
 key: sweet-home-alabama-lynyrd-skynyrd
 lyrics_url: https://www.azlyrics.com/lyrics/lynyrdskynyrd/sweethomealabama.html
 name: Sweet Home Alabama
@@ -75,8 +78,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1974-11-16'
+release_year: 1974
+runtime: 283800
 ---
-
 Big wheels keep on turning
 Carry me home to see my kin
 Singing songs about the Southland
@@ -124,6 +128,3 @@ Sweet Home Alabama
 Lordy
 Lord, I'm coming home to you
 Yea, yea Montgomery's got the answer
-
-
-

@@ -1,9 +1,12 @@
 ---
+album: Loose
 artists:
 - Nelly Furtado
+external_ids:
+  spotify: spotify:track:47aQT2aV12TyilaoYi1NiD
 features:
 - Timbaland
-genres: []
+first_released_as_single: false
 key: promiscuous-nelly-furtado-timbaland
 lyrics_url: https://www.azlyrics.com/lyrics/nellyfurtado/promiscuous.html
 name: Promiscuous
@@ -112,8 +115,9 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '2006-11-11'
+release_year: 2006
+runtime: 242200
 ---
-
 Am I throwing you off?
 Nope
 Didn't think so
@@ -221,6 +225,3 @@ Promiscuous girl you're teasing me
 You know what I want and I got what you need
 Promiscuous boy we're one and the same
 So we don't gotta play games no more
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Condition Critical
 artists:
 - Quiet Riot
+external_ids:
+  spotify: spotify:track:5YXqBOp39DfYFEVv9jE38B
 features: []
-genres: []
+first_released_as_single: false
 key: mama-weer-all-crazee-now-quiet-riot
 lyrics_url: https://www.azlyrics.com/lyrics/quietriot/mamaweerallcrazeenow.html
 name: Mama Weer All Crazee Now
@@ -55,8 +58,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1984-09-22'
+release_year: 1983
+runtime: 213240
 ---
-
 Ma mama weer all crazee now
 Ma ma mama weer all crazee now
 
@@ -118,6 +122,3 @@ I said
 Ma ma ma ma mama weer all crazee now
 Yeah
 Oh-oh
-
-
-

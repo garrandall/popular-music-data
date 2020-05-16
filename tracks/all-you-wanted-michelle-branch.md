@@ -1,8 +1,11 @@
 ---
+album: The Spirit Room (U.S. Version)
 artists:
 - Michelle Branch
+external_ids:
+  spotify: spotify:track:0kr6d8wHDQPlzuET33NVn6
 features: []
-genres: []
+first_released_as_single: false
 key: all-you-wanted-michelle-branch
 lyrics_url: https://genius.com/Michelle-branch-all-you-wanted-lyrics
 name: All You Wanted
@@ -119,6 +122,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '2002-08-31'
+release_year: 2001
+runtime: 217680
 ---
 I wanted to be like you
 I wanted everything

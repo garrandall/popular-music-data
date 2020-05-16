@@ -1,8 +1,11 @@
 ---
+album: Struttin' My Stuff
 artists:
 - Elvin Bishop
+external_ids:
+  spotify: spotify:track:2hE5Lm5XOHR4t3xlhIFauP
 features: []
-genres: []
+first_released_as_single: false
 key: fooled-around-and-fell-in-love-elvin-bishop
 lyrics_url: https://genius.com/Elvin-bishop-fooled-around-and-fell-in-love-lyrics
 name: Fooled Around And Fell In Love
@@ -75,6 +78,8 @@ rankings:
   rank: 52
   ranking_list: Billboard Hot 100
   start_date: '1976-06-26'
+release_year: 1975
+runtime: 276000
 ---
 I must have been through about a million girls
 I'd love 'em then I'd leave 'em alone

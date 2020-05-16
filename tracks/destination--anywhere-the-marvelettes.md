@@ -1,8 +1,11 @@
 ---
+album: Sophisticated Soul
 artists:
 - The Marvelettes
+external_ids:
+  spotify: spotify:track:7bL5KxVFnA95ROQcmqPZAJ
 features: []
-genres: []
+first_released_as_single: false
 key: destination--anywhere-the-marvelettes
 lyrics_url: https://www.azlyrics.com/lyrics/marvelettes/destinationanywhere.html
 name: 'Destination: Anywhere'
@@ -27,8 +30,9 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '1968-11-02'
+release_year: 1968
+runtime: 158680
 ---
-
 Said to the man at the railroad station
 I want a ticket, just for one
 He said
@@ -73,6 +77,3 @@ Destination anywhere
 East or west, I don't care
 Destination anywhere
 East or west, I don't care
-
-
-

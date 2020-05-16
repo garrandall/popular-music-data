@@ -1,8 +1,11 @@
 ---
+album: Hunter Hayes (Encore)
 artists:
 - Hunter Hayes
+external_ids:
+  spotify: spotify:track:4FkgULes13bk2eHrsJg4q9
 features: []
-genres: []
+first_released_as_single: false
 key: i-want-crazy-hunter-hayes
 lyrics_url: https://www.azlyrics.com/lyrics/hunterhayes/iwantcrazy.html
 name: I Want Crazy
@@ -87,8 +90,9 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '2013-09-07'
+release_year: 2011
+runtime: 236865
 ---
-
 I'm booking myself a one-way flight
 I gotta see the color in your eyes
 Yeah, tellin' myself I'm gonna be alright
@@ -164,6 +168,3 @@ Let's be crazy!
 
 Who cares if we're crazy? We gotta be crazy!
 I know that we're crazy. so let's be crazy!
-
-
-

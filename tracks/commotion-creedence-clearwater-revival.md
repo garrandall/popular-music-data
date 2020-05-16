@@ -1,8 +1,11 @@
 ---
+album: Green River
 artists:
 - Creedence Clearwater Revival
+external_ids:
+  spotify: spotify:track:01PnRJeFSeOgIpBuv1kQKd
 features: []
-genres: []
+first_released_as_single: false
 key: commotion-creedence-clearwater-revival
 lyrics_url: https://www.azlyrics.com/lyrics/creedenceclearwaterrevival/commotion.html
 name: Commotion
@@ -39,8 +42,9 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '1969-09-20'
+release_year: 1969
+runtime: 164293
 ---
-
 Traffic in the city turns my head around.
 No, no, no, no, no.
 Backed up on the freeway, backed up in the church,
@@ -63,4 +67,3 @@ Hurryin' to get there so you save some time.
 Run, run, run, run, run.
 Rushin' to the treadmill, rushin' to get home,
 Worry 'bout the time you save, save.
-

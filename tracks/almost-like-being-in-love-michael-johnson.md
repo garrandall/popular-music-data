@@ -1,8 +1,11 @@
 ---
+album: The Michael Johnson Album
 artists:
 - Michael Johnson
+external_ids:
+  spotify: spotify:track:44fWBsWA0NalKPjZUVaKBY
 features: []
-genres: []
+first_released_as_single: false
 key: almost-like-being-in-love-michael-johnson
 lyrics_url: https://genius.com/Michael-johnson-almost-like-being-in-love-lyrics
 name: Almost Like Being In Love
@@ -55,6 +58,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1978-10-28'
+release_year: 1978
+runtime: 210400
 ---
 What a night this has been
 What a rare mood I'm in

@@ -1,8 +1,11 @@
 ---
+album: Fore!
 artists:
 - Huey Lewis & The News
+external_ids:
+  spotify: spotify:track:1eLd9qSFOGoHkmypQFVgw5
 features: []
-genres: []
+first_released_as_single: false
 key: i-know-what-i-like-huey-lewis-the-news
 lyrics_url: https://www.azlyrics.com/lyrics/hueylewisthenews/iknowwhatilike.html
 name: I Know What I Like
@@ -63,6 +66,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1987-07-04'
+release_year: 1986
+runtime: 239600
 ---
 I like things
 That go fast 

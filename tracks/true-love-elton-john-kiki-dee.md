@@ -1,9 +1,12 @@
 ---
+album: Duets
 artists:
 - Elton John
 - Kiki Dee
+external_ids:
+  spotify: spotify:track:01qYEGYCRYzMSNOj8idCmk
 features: []
-genres: []
+first_released_as_single: false
 key: true-love-elton-john-kiki-dee
 lyrics_url: https://genius.com/Elton-john-true-love-808061-lyrics
 name: True Love
@@ -56,6 +59,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1994-02-12'
+release_year: 1993
+runtime: 213066
 ---
 Suntanned, windblown
 Honeymooners at last alone

@@ -1,8 +1,11 @@
 ---
+album: Everything You Want
 artists:
 - Ray J
+external_ids:
+  spotify: spotify:track:7t2v02FIGUludGUEugiRrS
 features: []
-genres: []
+first_released_as_single: false
 key: everything-you-want-ray-j
 lyrics_url: https://genius.com/Ray-j-everything-you-want-lyrics
 name: Everything You Want
@@ -31,6 +34,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1997-08-16'
+release_year: 1997
+runtime: 311866
 ---
 Hey, who is that 
 Better calm down around here

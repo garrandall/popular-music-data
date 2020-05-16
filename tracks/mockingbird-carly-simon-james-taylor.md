@@ -1,9 +1,12 @@
 ---
+album: Hotcakes
 artists:
 - Carly Simon
 - James Taylor
+external_ids:
+  spotify: spotify:track:74UWXHeikO5C3ScEREk42E
 features: []
-genres: []
+first_released_as_single: false
 key: mockingbird-carly-simon-james-taylor
 lyrics_url: https://www.azlyrics.com/lyrics/carlysimon/mockingbird.html
 name: Mockingbird
@@ -72,8 +75,9 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '1974-05-18'
+release_year: 1974
+runtime: 254240
 ---
-
 Everybody have you heard
 He's gonna buy me a mockingbird
 And if that mockingbird don't sing
@@ -105,6 +109,3 @@ I'm gonna get myself a better way
 I might rise above, I might go below
 Ride with the tide and go with the flow
 And that's the reason why I keep on shouting in your ear...
-
-
-

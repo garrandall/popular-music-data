@@ -1,8 +1,11 @@
 ---
+album: Collection 1945-62
 artists:
 - Gordon MacRae
+external_ids:
+  spotify: spotify:track:5glLHiY1fdmJKhz1UkSAI4
 features: []
-genres: []
+first_released_as_single: false
 key: the-secret-gordon-macrae
 lyrics_url: https://genius.com/Gordon-macrae-the-secret-lyrics
 name: The Secret
@@ -59,6 +62,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1958-12-08'
+release_year: 1958
+runtime: 159266
 ---
 Secret, I know a secret
 A story I'll never tell

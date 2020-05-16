@@ -1,8 +1,11 @@
 ---
+album: All Mitch Ryder Hits
 artists:
 - Mitch Ryder
+external_ids:
+  spotify: spotify:track:5mGUVta08LnMoQ7NUNI3f7
 features: []
-genres: []
+first_released_as_single: false
 key: joy-mitch-ryder
 lyrics_url: https://www.musixmatch.com/lyrics/Mitch-Ryder/Joy
 name: Joy
@@ -31,6 +34,8 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '1967-08-05'
+release_year: 1967
+runtime: 193733
 ---
 (Ft. Mike Jones)
 

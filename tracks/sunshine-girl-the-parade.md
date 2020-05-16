@@ -1,8 +1,11 @@
 ---
+album: 'Sunshine Girl: The Complete Recordings'
 artists:
 - The Parade
+external_ids:
+  spotify: spotify:track:4E6yRmGk4v1bcMhQbUuv2s
 features: []
-genres: []
+first_released_as_single: false
 key: sunshine-girl-the-parade
 lyrics_url: https://genius.com/The-parade-ca-usa-sunshine-girl-lyrics
 name: Sunshine Girl
@@ -39,6 +42,8 @@ rankings:
   rank: 31
   ranking_list: Billboard Hot 100
   start_date: '1967-06-03'
+release_year: 1967
+runtime: 166213
 ---
 Finally made contact
 She touched my soul and I

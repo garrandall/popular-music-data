@@ -1,8 +1,11 @@
 ---
+album: Some Favorites of Mine
 artists:
 - Don Gibson
+external_ids:
+  spotify: spotify:track:33xFPFNhdBxThm7YqOD94z
 features: []
-genres: []
+first_released_as_single: false
 key: lonesome-old-house-don-gibson
 lyrics_url: https://genius.com/Don-gibson-lonesome-old-house-lyrics
 name: Lonesome Old House
@@ -19,6 +22,8 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1959-05-18'
+release_year: 1959
+runtime: 129173
 ---
 In this lonesome old house
 In this lonesome old house

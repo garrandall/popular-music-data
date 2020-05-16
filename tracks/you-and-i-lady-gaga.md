@@ -1,8 +1,11 @@
 ---
+album: Born This Way
 artists:
 - Lady Gaga
+external_ids:
+  spotify: spotify:track:6rkAY9rk1NTFB94QxG3LJR
 features: []
-genres: []
+first_released_as_single: false
 key: you-and-i-lady-gaga
 lyrics_url: https://genius.com/Lady-gaga-you-and-i-lyrics
 name: You And I
@@ -87,6 +90,8 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '2011-12-31'
+release_year: 2011
+runtime: 307346
 ---
 It’s been a long time since I came around
 Been a long time, but I’m back in town

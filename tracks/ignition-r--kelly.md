@@ -1,8 +1,11 @@
 ---
+album: Chocolate Factory
 artists:
 - R. Kelly
+external_ids:
+  spotify: spotify:track:5dNfHmqgr128gMY2tc5CeJ
 features: []
-genres: []
+first_released_as_single: false
 key: ignition-r--kelly
 lyrics_url: https://genius.com/R-kelly-ignition-lyrics
 name: Ignition
@@ -175,6 +178,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2003-08-23'
+release_year: 2002
+runtime: 186066
 ---
 You remind me of something
 I just can't think of what it is

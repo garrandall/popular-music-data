@@ -1,8 +1,11 @@
 ---
+album: Bed Of Roses
 artists:
 - The Statler Brothers
+external_ids:
+  spotify: spotify:track:7GJHKjgG9MZEAbTc0xCN7K
 features: []
-genres: []
+first_released_as_single: false
 key: bed-of-rose-s-the-statler-brothers
 lyrics_url: https://www.azlyrics.com/lyrics/statlerbrothers/bedofroses.html
 name: Bed Of Rose's
@@ -43,8 +46,9 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '1971-03-13'
+release_year: 1970
+runtime: 148400
 ---
-
 She was called a scarlet woman by the people
 Who would go to church but left me in the street
 With no parents of my own, I never had a home
@@ -79,6 +83,3 @@ This bed of Rose's that I lay on
 Where I was taught to be a man
 This bed of Rose's where I'm livin'
 Is the only kind of life I understand
-
-
-

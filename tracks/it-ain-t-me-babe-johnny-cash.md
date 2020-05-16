@@ -1,8 +1,11 @@
 ---
+album: Orange Blossom Special
 artists:
 - Johnny Cash
+external_ids:
+  spotify: spotify:track:44Pcg6x09ipUmsQTHZOzxu
 features: []
-genres: []
+first_released_as_single: false
 key: it-ain-t-me-babe-johnny-cash
 lyrics_url: https://genius.com/Johnny-cash-it-aint-me-babe-lyrics
 name: It Ain't Me Babe
@@ -39,6 +42,8 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '1964-12-19'
+release_year: 1964
+runtime: 183800
 ---
 Go away from my window
 Leave at your own chosen speed

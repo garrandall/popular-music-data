@@ -1,8 +1,11 @@
 ---
+album: Silk N' Soul
 artists:
 - Gladys Knight And The Pips
+external_ids:
+  spotify: spotify:track:6saTHS2XY1hdNiHRLtB32j
 features: []
-genres: []
+first_released_as_single: false
 key: i-wish-it-would-rain-gladys-knight-and-the-pips
 lyrics_url: https://genius.com/Gladys-knight-and-the-pips-i-wish-it-would-rain-lyrics
 name: I Wish It Would Rain
@@ -47,6 +50,8 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1968-10-26'
+release_year: 1968
+runtime: 170320
 ---
 Oh-ohoohhah
 Sunshine, blue skies

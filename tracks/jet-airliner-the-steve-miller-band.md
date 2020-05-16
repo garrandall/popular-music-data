@@ -1,8 +1,11 @@
 ---
+album: Welcome To The Vault
 artists:
 - The Steve Miller Band
+external_ids:
+  spotify: spotify:track:0Xj6Fmu8jQDnc2iKhEx6iz
 features: []
-genres: []
+first_released_as_single: false
 key: jet-airliner-the-steve-miller-band
 lyrics_url: https://www.azlyrics.com/lyrics/stevemillerband/jetairliner.html
 name: Jet Airliner
@@ -79,8 +82,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1977-08-27'
+release_year: 1977
+runtime: 261013
 ---
-
 Leavin' home, out on the road
 I've been down before
 Ridin' along in this big ol' jet plane
@@ -139,6 +143,3 @@ Oh, Oh big ol' jet airliner
 Carry me to my home
 Oh, Oh big ol' jet airliner
 Cause it's there that I belong
-
-
-

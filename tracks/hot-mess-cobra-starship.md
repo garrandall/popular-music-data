@@ -1,8 +1,11 @@
 ---
+album: Hot Mess
 artists:
 - Cobra Starship
+external_ids:
+  spotify: spotify:track:18eoNBn1L1li2TvPa2DupB
 features: []
-genres: []
+first_released_as_single: false
 key: hot-mess-cobra-starship
 lyrics_url: https://www.azlyrics.com/lyrics/cobrastarship/hotmess.html
 name: Hot Mess
@@ -27,8 +30,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2010-01-30'
+release_year: 2009
+runtime: 172293
 ---
-
 You were a problem child
 Been grounded your whole life
 So now you running wild
@@ -98,6 +102,3 @@ I'm loving it, hell yes!
 Hot mess, I'm lovin' it, hell yes
 (Hell yes)
 Hot mess, I'm lovin' it, hell yes, oh
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Toni Braxton
 artists:
 - Toni Braxton
+external_ids:
+  spotify: spotify:track:70iDnqYvxCPl3mPd3ddxgD
 features: []
-genres: []
+first_released_as_single: false
 key: another-sad-love-song-toni-braxton
 lyrics_url: https://www.azlyrics.com/lyrics/tonibraxton/anothersadlovesong.html
 name: Another Sad Love Song
@@ -111,8 +114,9 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1993-12-25'
+release_year: 1993
+runtime: 301560
 ---
-
 Since you been gone
 I been hangin' around here lately
 With my mind messed up
@@ -161,6 +165,3 @@ It's just
 Another
 Lonely
 Love song
-
-
-

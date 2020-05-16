@@ -1,8 +1,11 @@
 ---
+album: The Outsiders
 artists:
 - Eric Church
+external_ids:
+  spotify: spotify:track:1TKlBK9cSrM5u4CiL4SETS
 features: []
-genres: []
+first_released_as_single: false
 key: talladega-eric-church
 lyrics_url: https://www.azlyrics.com/lyrics/ericchurch/talladega.html
 name: Talladega
@@ -87,8 +90,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2015-03-21'
+release_year: 2014
+runtime: 262280
 ---
-
 It was the summer before the real world started and,
 The deal was we would get to go, if we
 Cleaned it up, and got it running,
@@ -136,6 +140,3 @@ Slowing down and cars that go real fast,
 We were laughing and living, drinking and wishing,
 And thinking as that checkered flag was waving,
 Sure would like to stay in, Talladega.
-
-
-

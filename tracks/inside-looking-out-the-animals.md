@@ -1,8 +1,11 @@
 ---
+album: Animalisms
 artists:
 - The Animals
+external_ids:
+  spotify: spotify:track:6tVm3tlwNtbndmZQNbjtve
 features: []
-genres: []
+first_released_as_single: false
 key: inside-looking-out-the-animals
 lyrics_url: https://www.musixmatch.com/lyrics/The-Animals/Inside-Looking-Out
 name: Inside-Looking Out
@@ -35,6 +38,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1966-04-09'
+release_year: 1965
+runtime: 227053
 ---
 Sittin' here lonely like a broken man
 Sell my time and doin' the best I can

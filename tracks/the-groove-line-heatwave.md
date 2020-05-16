@@ -1,8 +1,11 @@
 ---
+album: Central Heating
 artists:
 - Heatwave
+external_ids:
+  spotify: spotify:track:44xlKC4CL4154w1unjqqSK
 features: []
-genres: []
+first_released_as_single: false
 key: the-groove-line-heatwave
 lyrics_url: https://www.azlyrics.com/lyrics/heatwave/thegrooveline.html
 name: The Groove Line
@@ -75,8 +78,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1978-08-26'
+release_year: 1972
+runtime: 445706
 ---
-
 Pack your grip
 Takin you on a trip
 Ain't no seats
@@ -130,6 +134,3 @@ We're ridin' on the groove line tonight
 
 Rain, shine don't mind
 We're ridin' on the groove line tonight
-
-
-

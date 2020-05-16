@@ -1,8 +1,11 @@
 ---
+album: Tanya Tucker / Super Hits
 artists:
 - Tanya Tucker
+external_ids:
+  spotify: spotify:track:4I656cKOfK65lsl850hSLI
 features: []
-genres: []
+first_released_as_single: false
 key: would-you-lay-with-me--in-a-field-of-stone--tanya-tucker
 lyrics_url: https://genius.com/Tanya-tucker-would-you-lay-with-me-lyrics
 name: Would You Lay With Me (in A Field Of Stone)
@@ -47,6 +50,8 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1974-04-20'
+release_year: 1972
+runtime: 142760
 ---
 Would you lay-ay wi-ith me in a fie-ield o-of sto-one
 If my needs were strong, would you lay-ay wi-ith me

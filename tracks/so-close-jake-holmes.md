@@ -1,8 +1,11 @@
 ---
+album: So Close, So Very Far to Go
 artists:
 - Jake Holmes
+external_ids:
+  spotify: spotify:track:7GlVNEQRWeVFqbuSBlc9zB
 features: []
-genres: []
+first_released_as_single: false
 key: so-close-jake-holmes
 name: So Close
 rankings:
@@ -50,5 +53,7 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '1970-12-12'
+release_year: 1970
+runtime: 216480
 ---
 

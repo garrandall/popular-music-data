@@ -1,8 +1,11 @@
 ---
+album: You Got Me Walking
 artists:
 - Jackie Wilson
+external_ids:
+  spotify: spotify:track:4lVTdtJVlXSe8n0ZNNyxLd
 features: []
-genres: []
+first_released_as_single: false
 key: love-is-funny-that-way-jackie-wilson
 lyrics_url: https://www.azlyrics.com/lyrics/jackiewilson/loveisfunnythatway.html
 name: Love Is Funny That Way
@@ -19,8 +22,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1971-12-11'
+release_year: 1971
+runtime: 193000
 ---
-
 Oh love is funny that way, yeah, baby
 Oh love is funny that way, yeah, baby
 
@@ -63,6 +67,3 @@ Oh love is funny that way, yeah, yeah, yeah
 
 Oh love is funny that way, yeah, baby
 Oh love is funny that way, yeah, yeah, yeah
-
-
-

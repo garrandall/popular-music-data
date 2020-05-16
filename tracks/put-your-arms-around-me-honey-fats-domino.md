@@ -1,8 +1,11 @@
 ---
+album: A Lot Of Dominos
 artists:
 - Fats Domino
+external_ids:
+  spotify: spotify:track:5y5Hbumds0xwLEp1Xahne2
 features: []
-genres: []
+first_released_as_single: false
 key: put-your-arms-around-me-honey-fats-domino
 lyrics_url: https://genius.com/Fats-domino-put-your-arms-around-me-honey-lyrics
 name: Put Your Arms Around Me Honey
@@ -31,6 +34,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1960-10-10'
+release_year: 1960
+runtime: 118266
 ---
 Put your arms around me, honey
 And hold me tight

@@ -1,8 +1,11 @@
 ---
+album: Shake off the Demon
 artists:
 - Brewer And Shipley
+external_ids:
+  spotify: spotify:track:5iJyHg8EpJwQlZfHo5suKb
 features: []
-genres: []
+first_released_as_single: false
 key: shake-off-the-demon-brewer-and-shipley
 lyrics_url: https://genius.com/Brewer-and-shipley-shake-off-the-demon-lyrics
 name: Shake Off The Demon
@@ -19,6 +22,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1972-02-19'
+release_year: 1971
+runtime: 195346
 ---
 Shake off the demon see how the angel run
 Pull out the powder shoot with the empty gun

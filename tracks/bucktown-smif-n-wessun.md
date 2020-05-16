@@ -1,8 +1,11 @@
 ---
+album: Dah Shinin'
 artists:
 - Smif-N-Wessun
+external_ids:
+  spotify: spotify:track:5fyRqeycMofUoGmDis5Gu6
 features: []
-genres: []
+first_released_as_single: false
 key: bucktown-smif-n-wessun
 lyrics_url: https://genius.com/Smif-n-wessun-bucktown-lyrics
 name: Bucktown
@@ -27,6 +30,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1994-06-25'
+release_year: 1994
+runtime: 236936
 ---
 I walk around town with the pound strapped down to my side
 No fronting just in case I gotta smoke something

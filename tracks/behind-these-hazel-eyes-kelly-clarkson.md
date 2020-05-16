@@ -1,8 +1,11 @@
 ---
+album: Breakaway
 artists:
 - Kelly Clarkson
+external_ids:
+  spotify: spotify:track:0AKAxdNkwq9ZxRdW1DN9zW
 features: []
-genres: []
+first_released_as_single: false
 key: behind-these-hazel-eyes-kelly-clarkson
 lyrics_url: https://www.azlyrics.com/lyrics/kellyclarkson/behindthesehazeleyes.html
 name: Behind These Hazel Eyes
@@ -143,8 +146,9 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '2005-12-10'
+release_year: 2004
+runtime: 198973
 ---
-
 Seems like just yesterday
 You were a part of me
 I used to stand so tall
@@ -205,6 +209,3 @@ Just thought you were the one
 Broken up, deep inside
 But you won't get to see the tears I cry
 Behind these hazel eyes
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: The Best Of Atlantic Starr
 artists:
 - Atlantic Starr
+external_ids:
+  spotify: spotify:track:4aVzx5DlmdIhTrE3VTosOs
 features: []
-genres: []
+first_released_as_single: false
 key: touch-a-four-leaf-clover-atlantic-starr
 lyrics_url: https://genius.com/Atlantic-starr-touch-a-four-leaf-clover-lyrics
 name: Touch A Four Leaf Clover
@@ -35,6 +38,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1984-01-21'
+release_year: 1983
+runtime: 280693
 ---
 Touch a four leaf clover
 Maybe you'll get over

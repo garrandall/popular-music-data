@@ -1,8 +1,11 @@
 ---
+album: Rock Essentials
 artists:
 - The Starlets
+external_ids:
+  spotify: spotify:track:5tscs7pvEkhPtZS2Bi1Q0p
 features: []
-genres: []
+first_released_as_single: false
 key: better-tell-him-no-the-starlets
 lyrics_url: https://genius.com/The-starlets-better-tell-him-no-lyrics
 name: Better Tell Him No
@@ -71,6 +74,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1961-08-07'
+release_year: 1961
+runtime: 153306
 ---
 Mama. (what?) I want to ask you something
 Yeah?

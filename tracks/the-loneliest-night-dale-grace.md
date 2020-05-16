@@ -1,9 +1,12 @@
 ---
+album: The Best Of
 artists:
 - Dale
 - Grace
+external_ids:
+  spotify: spotify:track:0IenVuQhHGEXycoBh1TQZz
 features: []
-genres: []
+first_released_as_single: false
 key: the-loneliest-night-dale-grace
 lyrics_url: https://www.musixmatch.com/lyrics/Dale-Grace/The-Loneliest-Night
 name: The Loneliest Night
@@ -28,6 +31,8 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '1964-05-30'
+release_year: 1964
+runtime: 141080
 ---
 The loneliest night of the week
 Twenty-four hours of misery

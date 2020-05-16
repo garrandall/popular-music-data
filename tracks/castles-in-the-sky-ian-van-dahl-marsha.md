@@ -1,9 +1,12 @@
 ---
+album: Castles In The Sky
 artists:
 - Ian Van Dahl
+external_ids:
+  spotify: spotify:track:3KhoIbIPMmoGthbBAPxgOK
 features:
 - Marsha
-genres: []
+first_released_as_single: true
 key: castles-in-the-sky-ian-van-dahl-marsha
 lyrics_url: https://genius.com/Ian-van-dahl-castles-in-the-sky-feat-marsha-lyrics
 name: Castles In The Sky
@@ -48,6 +51,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2001-11-24'
+release_year: 2001
+runtime: 227133
 ---
 Do you ever question your life?
 Do you ever wonder why?

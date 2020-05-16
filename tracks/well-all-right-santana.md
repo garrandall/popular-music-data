@@ -1,8 +1,11 @@
 ---
+album: Inner Secrets
 artists:
 - Santana
+external_ids:
+  spotify: spotify:track:18bH4uo8CFY2yVwHbjal6l
 features: []
-genres: []
+first_released_as_single: false
 key: well-all-right-santana
 lyrics_url: https://genius.com/Santana-well-all-right-lyrics
 name: Well All Right
@@ -39,6 +42,8 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1978-12-30'
+release_year: 1978
+runtime: 249800
 ---
 Well, all right so I'm being foolish
 Well, all right let people know

@@ -1,8 +1,11 @@
 ---
+album: Let It Go
 artists:
 - Tim McGraw
+external_ids:
+  spotify: spotify:track:1piLu6VDrRyYvSaZH8wLoh
 features: []
-genres: []
+first_released_as_single: false
 key: let-it-go-tim-mcgraw
 lyrics_url: https://genius.com/Tim-mcgraw-let-it-go-lyrics
 name: Let It Go
@@ -67,6 +70,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '2009-01-03'
+release_year: 2007
+runtime: 225026
 ---
 I've been caught sideways out here on the crossroads
 Trying to buy back the pieces I lost of my soul

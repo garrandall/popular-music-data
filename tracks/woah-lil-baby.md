@@ -1,8 +1,11 @@
 ---
+album: My Turn
 artists:
 - Lil Baby
+external_ids:
+  spotify: spotify:track:598yNsG1JFrGd4n2kMoz7F
 features: []
-genres: []
+first_released_as_single: true
 key: woah-lil-baby
 lyrics_url: https://genius.com/Lil-baby-woah-lyrics
 name: Woah
@@ -79,6 +82,8 @@ rankings:
   rank: 31
   ranking_list: Billboard Hot 100
   start_date: '2020-03-21'
+release_year: 2019
+runtime: 183011
 ---
 New car very noisy
 Come through and it's roarin'

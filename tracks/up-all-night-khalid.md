@@ -1,8 +1,11 @@
 ---
+album: Up All Night
 artists:
 - Khalid
+external_ids:
+  spotify: spotify:track:1mpD5Q8IM32I4bF6eCpU74
 features: []
-genres: []
+first_released_as_single: true
 key: up-all-night-khalid
 lyrics_url: https://genius.com/Khalid-up-all-night-lyrics
 name: Up All Night
@@ -11,6 +14,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2019-11-30'
+release_year: 2019
+runtime: 157220
 ---
 Take me 'round the world and back again
 As I'm searching for my soul out there

@@ -1,8 +1,11 @@
 ---
+album: 12 Play
 artists:
 - R. Kelly
+external_ids:
+  spotify: spotify:track:2cTOlcHulTsu9i0JjLgI42
 features: []
-genres: []
+first_released_as_single: false
 key: sex-me--parts-i---ii--r--kelly
 lyrics_url: https://genius.com/R-kelly-sex-me-lyrics
 name: Sex Me (Parts I & II)
@@ -83,6 +86,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1994-03-05'
+release_year: 1993
+runtime: 687493
 ---
 Baby, take off your clothes and come on
 Turn off the lights 'cause girl it's on

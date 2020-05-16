@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music, The Rocky Horror Glee Show'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:1onMcvjW2nZ2dHtbJn2cN7
 features: []
-genres: []
+first_released_as_single: false
 key: time-warp-glee-cast
 lyrics_url: https://www.azlyrics.com/lyrics/gleecast/timewarp.html
 name: Time Warp
@@ -11,8 +14,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2010-11-13'
+release_year: 2010
+runtime: 193560
 ---
-
 It's astounding, time is fleeting
 Madness takes its toll
 But listen closely, not for very much longer
@@ -59,6 +63,3 @@ You bring your knees in tight
 But it's the pelvic thrust that really drives you insane
 Let's do the Time Warp again!
 Let's do the Time Warp again!
-
-
-

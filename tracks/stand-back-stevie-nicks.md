@@ -1,8 +1,11 @@
 ---
+album: The Wild Heart
 artists:
 - Stevie Nicks
+external_ids:
+  spotify: spotify:track:48RJAYTcIXuBPg55EzbaEq
 features: []
-genres: []
+first_released_as_single: false
 key: stand-back-stevie-nicks
 lyrics_url: https://www.azlyrics.com/lyrics/stevienicks/standback.html
 name: Stand Back
@@ -83,8 +86,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1983-10-08'
+release_year: 1983
+runtime: 291093
 ---
-
 No one looked
 I walked by
 Just an invitation would have been just fine
@@ -170,6 +174,3 @@ Take me home
 Don't you take me home
 Well, I need a little sympathy
 (Stand back)...
-
-
-

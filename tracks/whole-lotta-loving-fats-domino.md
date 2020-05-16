@@ -1,8 +1,11 @@
 ---
+album: Fats Domino Swings
 artists:
 - Fats Domino
+external_ids:
+  spotify: spotify:track:6pS2nLsZBUOrMaFMPvFVwM
 features: []
-genres: []
+first_released_as_single: false
 key: whole-lotta-loving-fats-domino
 lyrics_url: https://www.azlyrics.com/lyrics/fatsdomino/wholelottaloving.html
 name: Whole Lotta Loving
@@ -67,8 +70,9 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '1959-02-23'
+release_year: 1958
+runtime: 100480
 ---
-
 I got a whole lot of lovin'
 Baby just waiting for you
 I got a whole lot of lovin'
@@ -90,6 +94,3 @@ Said you're just my type baby
 You're just my height and size
 And the reason I love you
 Because you've got those little dreamy eyes
-
-
-

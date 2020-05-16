@@ -1,8 +1,11 @@
 ---
+album: LOVE FOR GUALA
 artists:
 - Flipp Dinero
+external_ids:
+  spotify: spotify:track:70HaKFSHt2oOwUYy6STg7G
 features: []
-genres: []
+first_released_as_single: true
 key: leave-me-alone-flipp-dinero
 lyrics_url: https://genius.com/Flipp-dinero-leave-me-alone-lyrics
 name: Leave Me Alone
@@ -107,6 +110,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '2019-03-16'
+release_year: 2018
+runtime: 195637
 ---
 Yeah, yeah
 Yeah, I miss you but I got no time for that (Damn, yeah)

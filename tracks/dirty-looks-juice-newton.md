@@ -1,8 +1,11 @@
 ---
+album: Dirty Looks
 artists:
 - Juice Newton
+external_ids:
+  spotify: spotify:track:2hYn9PsWiE3KoQqOoj2Bh3
 features: []
-genres: []
+first_released_as_single: false
 key: dirty-looks-juice-newton
 lyrics_url: https://www.azlyrics.com/lyrics/juicenewton/dirtylooks.html
 name: Dirty Looks
@@ -19,8 +22,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1983-11-19'
+release_year: 1983
+runtime: 230040
 ---
-
 If I don't go now, I never will
 Lord, I'd be dead if looks could kill
 Those slings and arrows thrown my way
@@ -55,6 +59,3 @@ Give me those dirty looks
 I love those dirty looks
 Get right down to the naked truth
 With those dirty looks
-
-
-

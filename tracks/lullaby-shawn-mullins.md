@@ -1,8 +1,11 @@
 ---
+album: Soul's Core
 artists:
 - Shawn Mullins
+external_ids:
+  spotify: spotify:track:5sMUwUR3JI2woCOrNbizUt
 features: []
-genres: []
+first_released_as_single: false
 key: lullaby-shawn-mullins
 lyrics_url: https://www.azlyrics.com/lyrics/shawnmullins/lullaby.html
 name: Lullaby
@@ -79,8 +82,9 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1999-04-03'
+release_year: 1992
+runtime: 330666
 ---
-
 She grew up with the children of the stars
 In the Hollywood hills and the boulevards
 Her parents threw big parties
@@ -121,6 +125,3 @@ Everything's gonna be all right
 Rock-a-bye, rock-a-bye
 Everything's gonna be all right
 Rock-a-bye, rock-a-bye, rock-a-bye
-
-
-

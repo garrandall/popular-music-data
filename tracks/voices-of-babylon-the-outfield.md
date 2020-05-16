@@ -1,8 +1,11 @@
 ---
+album: Voices Of Babylon
 artists:
 - The Outfield
+external_ids:
+  spotify: spotify:track:0qZ0m8Gq4Ug5kBxKe9BVvj
 features: []
-genres: []
+first_released_as_single: false
 key: voices-of-babylon-the-outfield
 lyrics_url: https://www.azlyrics.com/lyrics/outfield/voicesofbabylon.html
 name: Voices Of Babylon
@@ -63,8 +66,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1989-06-24'
+release_year: 1985
+runtime: 211133
 ---
-
 Hit the message I can hear you calling 
 No one's going anywhere tonight 
 We conceived a modern generation 
@@ -92,6 +96,3 @@ A space in time removed too soon to tell
 
 Back to the rhythm that we all came from 
 Voices of Babylon streets of London town
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Heaven On Earth
 artists:
 - Belinda Carlisle
+external_ids:
+  spotify: spotify:track:0a2EF52d2GLApRywpSe1EP
 features: []
-genres: []
+first_released_as_single: false
 key: circle-in-the-sand-belinda-carlisle
 lyrics_url: https://www.azlyrics.com/lyrics/belindacarlisle/circleinthesand.html
 name: Circle In The Sand
@@ -75,8 +78,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1988-08-06'
+release_year: 1987
+runtime: 266306
 ---
-
 Sundown, all around
 Walking through the summer's end
 Waves crash baby, don't look back
@@ -130,6 +134,3 @@ Circle in the sand
 Circle in the sand
 Circle in the sand
 Circle in the sand
-
-
-

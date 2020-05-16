@@ -1,9 +1,12 @@
 ---
+album: 808s & Heartbreak
 artists:
 - Kanye West
+external_ids:
+  spotify: spotify:track:0m3Ze0cy8qBHSsV2exAfCw
 features:
 - Young Jeezy
-genres: []
+first_released_as_single: false
 key: amazing-kanye-west-young-jeezy
 lyrics_url: https://www.azlyrics.com/lyrics/kanyewest/amazing.html
 name: Amazing
@@ -28,8 +31,9 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2009-06-13'
+release_year: 2008
+runtime: 238333
 ---
-
 It's amazing, I'm the reason
 Everybody fired up this evening
 I'm exhausted, barely breathing
@@ -81,6 +85,3 @@ Look what he's been through, he deserves an applause"
 So amazing, so amazing, so amazing
 It's amazing, so amazing, so amazing, so amazing 
 It's amazing
-
-
-

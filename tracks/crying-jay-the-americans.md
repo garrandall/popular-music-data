@@ -1,9 +1,12 @@
 ---
+album: Sunday And Me
 artists:
 - Jay
 - The Americans
+external_ids:
+  spotify: spotify:track:2H3RYr8qMDAPACiHMRS4mH
 features: []
-genres: []
+first_released_as_single: false
 key: crying-jay-the-americans
 lyrics_url: https://www.azlyrics.com/lyrics/jaytheamericans/crying.html
 name: Crying
@@ -32,8 +35,9 @@ rankings:
   rank: 27
   ranking_list: Billboard Hot 100
   start_date: '1966-07-02'
+release_year: 1964
+runtime: 189733
 ---
-
 I was all right for a while
 I could smile for a while
 But I saw you last night
@@ -64,6 +68,3 @@ And from this moment on
 I'll be cryin' (cryin')
 Cryin' (cryin'), cryin' (cryin'), cryin'
 I'm cryin', cryin' over you
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Tiffany
 artists:
 - Tiffany
+external_ids:
+  spotify: spotify:track:1xvGuRbLxTkpb5UdUG7HME
 features: []
-genres: []
+first_released_as_single: false
 key: could-ve-been-tiffany
 lyrics_url: https://genius.com/Tiffany-couldve-been-lyrics
 name: Could've Been
@@ -87,6 +90,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1988-04-09'
+release_year: 1987
+runtime: 212693
 ---
 The flowers you gave me are just about to die
 When I think about

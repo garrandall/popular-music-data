@@ -1,8 +1,11 @@
 ---
+album: Introducing The Hardline According To Terence Trent D'Arby
 artists:
 - Terence Trent D'Arby
+external_ids:
+  spotify: spotify:track:3lIpkjFnRxJ6Uvm8DgtgfV
 features: []
-genres: []
+first_released_as_single: false
 key: sign-your-name-terence-trent-d-arby
 lyrics_url: https://genius.com/Terence-trent-darby-sign-your-name-lyrics
 name: Sign Your Name
@@ -91,6 +94,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1988-10-15'
+release_year: 1987
+runtime: 276533
 ---
 Fortunately you have got
 Someone who relies on you

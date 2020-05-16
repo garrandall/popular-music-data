@@ -1,8 +1,11 @@
 ---
+album: Not Fragile
 artists:
 - Bachman-Turner Overdrive
+external_ids:
+  spotify: spotify:track:05mzctclS0ZqqTLEiDIGkt
 features: []
-genres: []
+first_released_as_single: false
 key: roll-on-down-the-highway-bachman-turner-overdrive
 lyrics_url: https://www.azlyrics.com/lyrics/btobachmanturneroverdrive/rollondownthehighway.html
 name: Roll On Down The Highway
@@ -51,8 +54,9 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1975-03-29'
+release_year: 1974
+runtime: 237800
 ---
-
 We rented a truck and a semi to go
 Travel down the long and the winding road
 Look on the map, I think we've been there before
@@ -97,6 +101,3 @@ Roll, roll, roll
 Let it roll down the highway
 Let it roll down the highway
 Roll, roll, roll
-
-
-

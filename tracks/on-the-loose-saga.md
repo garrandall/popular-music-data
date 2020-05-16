@@ -1,8 +1,11 @@
 ---
+album: Worlds Apart Revisited
 artists:
 - Saga
+external_ids:
+  spotify: spotify:track:50KcsIpcCjzcEuQFCpdd4Z
 features: []
-genres: []
+first_released_as_single: false
 key: on-the-loose-saga
 lyrics_url: https://www.azlyrics.com/lyrics/saga/ontheloose.html
 name: On The Loose
@@ -79,8 +82,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1983-04-02'
+release_year: 1981
+runtime: 279066
 ---
-
 One day you feel quite stable
 The next you're coming off the wall
 But I think that you should warn me
@@ -145,6 +149,3 @@ No one can stop us now
 Tonight we're on the loose
 No one to tell us how
 Tonight we're on the loose
-
-
-

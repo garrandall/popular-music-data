@@ -1,8 +1,11 @@
 ---
+album: Emotion
 artists:
 - Martina McBride
+external_ids:
+  spotify: spotify:track:2wfAy6IqwvpsuXXjPRso30
 features: []
-genres: []
+first_released_as_single: false
 key: there-you-are-martina-mcbride
 lyrics_url: https://genius.com/Martina-mcbride-there-you-are-lyrics
 name: There You Are
@@ -59,6 +62,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2000-12-02'
+release_year: 1999
+runtime: 206573
 ---
 There you are in the early light of day
 There you are in the quiet words I pray

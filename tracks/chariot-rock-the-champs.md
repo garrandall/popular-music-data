@@ -1,8 +1,11 @@
 ---
+album: Greatest Hits / Tequila
 artists:
 - The Champs
+external_ids:
+  spotify: spotify:track:0OpRgDkICE2yoR5Mv1Vs6b
 features: []
-genres: []
+first_released_as_single: false
 key: chariot-rock-the-champs
 name: Chariot Rock
 rankings:
@@ -34,5 +37,7 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '1958-09-22'
+release_year: 1958
+runtime: 139866
 ---
 

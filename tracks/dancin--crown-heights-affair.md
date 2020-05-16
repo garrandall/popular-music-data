@@ -1,8 +1,11 @@
 ---
+album: Dreaming a Dream
 artists:
 - Crown Heights Affair
+external_ids:
+  spotify: spotify:track:6JyXQagD6KonHr8DrIBWcA
 features: []
-genres: []
+first_released_as_single: false
 key: dancin--crown-heights-affair
 lyrics_url: https://www.musixmatch.com/lyrics/Crown-Heights-Affair/Dancin
 name: Dancin'
@@ -59,6 +62,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1977-05-14'
+release_year: 1975
+runtime: 426493
 ---
 Dancing to the rhythm
 Of the funky sound

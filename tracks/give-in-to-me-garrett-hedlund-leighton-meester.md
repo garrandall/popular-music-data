@@ -1,9 +1,12 @@
 ---
+album: Country Strong (More Music from the Motion Picture)
 artists:
 - Garrett Hedlund
 - Leighton Meester
+external_ids:
+  spotify: spotify:track:5rwxsHLK1q9fPJFyyqJmP1
 features: []
-genres: []
+first_released_as_single: false
 key: give-in-to-me-garrett-hedlund-leighton-meester
 lyrics_url: https://www.musixmatch.com/lyrics/Garrett-Hedlund-feat-Leighton-Meester/Give-in-to-Me
 name: Give In To Me
@@ -16,6 +19,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2011-02-05'
+release_year: 2010
+runtime: 209920
 ---
 I'm gonna wear you down
 I'm gonna make you see

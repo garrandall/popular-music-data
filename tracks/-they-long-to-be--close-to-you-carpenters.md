@@ -1,8 +1,11 @@
 ---
+album: Close To You
 artists:
 - Carpenters
+external_ids:
+  spotify: spotify:track:50q2aUjWoTn6CJIfSPRJQA
 features: []
-genres: []
+first_released_as_single: false
 key: -they-long-to-be--close-to-you-carpenters
 lyrics_url: https://www.azlyrics.com/lyrics/carpenters/theylongtobeclosetoyou.html
 name: (They Long To Be) Close To You
@@ -75,8 +78,9 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '1970-10-10'
+release_year: 1970
+runtime: 276000
 ---
-
 Why do birds suddenly appear
 Every time you are near?
 Just like me,
@@ -119,6 +123,3 @@ Why? Close to you
 Why? Close to you
 Ha, close to you
 Why? Close to you
-
-
-

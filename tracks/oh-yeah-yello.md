@@ -1,8 +1,11 @@
 ---
+album: Stella (Remastered 2005)
 artists:
 - Yello
+external_ids:
+  spotify: spotify:track:1iOHLlEsMbgJfYBFWy4TjG
 features: []
-genres: []
+first_released_as_single: false
 key: oh-yeah-yello
 lyrics_url: https://www.azlyrics.com/lyrics/yello/ohyeah.html
 name: Oh Yeah
@@ -51,8 +54,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1987-10-17'
+release_year: 1985
+runtime: 185043
 ---
-
 Oh yeah... oh yeah... oh yeah
 The moon... beautiful
 The sun... even more beautiful
@@ -62,6 +66,3 @@ Beautiful
 Oh yeah... oh yeah...
 
 Good time
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Music Of My Mind
 artists:
 - Stevie Wonder
+external_ids:
+  spotify: spotify:track:4sSxm8wAj0qdftPCi2hmg3
 features: []
-genres: []
+first_released_as_single: false
 key: keep-on-running-stevie-wonder
 lyrics_url: https://genius.com/Stevie-wonder-keep-on-running-lyrics
 name: Keep On Running
@@ -19,6 +22,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1972-09-30'
+release_year: 1972
+runtime: 400093
 ---
 Something gon' get you
 Something gon' grab you

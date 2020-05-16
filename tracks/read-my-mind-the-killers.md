@@ -1,8 +1,11 @@
 ---
+album: Sam's Town
 artists:
 - The Killers
+external_ids:
+  spotify: spotify:track:7cX4PJz1old9fyFI8RlfgW
 features: []
-genres: []
+first_released_as_single: false
 key: read-my-mind-the-killers
 lyrics_url: https://genius.com/The-killers-read-my-mind-lyrics
 name: Read My Mind
@@ -63,6 +66,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2007-06-02'
+release_year: 2006
+runtime: 246840
 ---
 On the corner of Main Street
 Just trying to keep it in line

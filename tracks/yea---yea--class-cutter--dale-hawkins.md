@@ -1,8 +1,11 @@
 ---
+album: Unforgettable
 artists:
 - Dale Hawkins
+external_ids:
+  spotify: spotify:track:0bDpTfAF9Du1kTUk5vweqm
 features: []
-genres: []
+first_released_as_single: false
 key: yea---yea--class-cutter--dale-hawkins
 lyrics_url: https://www.musixmatch.com/lyrics/Dale-Hawkins/Yea-Yea-Class-Cutter
 name: Yea - Yea (Class Cutter)
@@ -31,6 +34,8 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '1959-04-20'
+release_year: 1959
+runtime: 154226
 ---
 High school board
 They said he was bad

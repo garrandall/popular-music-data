@@ -1,8 +1,11 @@
 ---
+album: Walking Wounded
 artists:
 - Everything But The Girl
+external_ids:
+  spotify: spotify:track:14sTWPWAzDuWAbTBqq51jD
 features: []
-genres: []
+first_released_as_single: false
 key: wrong-everything-but-the-girl
 lyrics_url: https://genius.com/Everything-but-the-girl-wrong-lyrics
 name: Wrong
@@ -47,6 +50,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1996-08-03'
+release_year: 1996
+runtime: 276693
 ---
 I wanted everything for a little while
 Why shouldn't I

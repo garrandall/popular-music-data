@@ -1,8 +1,11 @@
 ---
+album: Tailgates & Tanlines
 artists:
 - Luke Bryan
+external_ids:
+  spotify: spotify:track:3loYYWdPlLiUCq1jiSPfT6
 features: []
-genres: []
+first_released_as_single: false
 key: kiss-tomorrow-goodbye-luke-bryan
 lyrics_url: https://genius.com/Luke-bryan-kiss-tomorrow-goodbye-lyrics
 name: Kiss Tomorrow Goodbye
@@ -87,6 +90,8 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '2013-01-19'
+release_year: 2011
+runtime: 203133
 ---
 All we do right is make love
 And we both know now that ain’t enough

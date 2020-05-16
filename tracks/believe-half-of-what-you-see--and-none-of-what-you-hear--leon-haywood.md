@@ -1,8 +1,11 @@
 ---
+album: Come And Get Yourself Some
 artists:
 - Leon Haywood
+external_ids:
+  spotify: spotify:track:0dN9Fz76SvVGbHROcNeJzG
 features: []
-genres: []
+first_released_as_single: false
 key: believe-half-of-what-you-see--and-none-of-what-you-hear--leon-haywood
 lyrics_url: https://genius.com/Leon-haywood-believe-half-of-what-you-see-and-none-of-what-you-hear-lyrics
 name: Believe Half Of What You See (And None Of What You Hear)
@@ -15,6 +18,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1975-02-15'
+release_year: 1974
+runtime: 162280
 ---
 I'm ready
 I'm ready now

@@ -1,8 +1,11 @@
 ---
+album: Keepers of the Funk
 artists:
 - Lords Of The Underground
+external_ids:
+  spotify: spotify:track:6qypXMiHUKVYbMrlyCNwV5
 features: []
-genres: []
+first_released_as_single: false
 key: tic-toc-lords-of-the-underground
 lyrics_url: https://www.azlyrics.com/lyrics/lordsoftheunderground/tictoc.html
 name: Tic Toc
@@ -67,8 +70,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1995-02-04'
+release_year: 1994
+runtime: 233693
 ---
-
 Tic toc, this is how we rock
 Throw your hands in the air and do it for your block (um)
 Tic toc, this is how we rock
@@ -204,6 +208,3 @@ Tic toc, this is how we rock
 Throw your hands in the air and represent your block (um)
 Tic toc, this is how we rock
 (Tic toc, you don't stop...)
-
-
-

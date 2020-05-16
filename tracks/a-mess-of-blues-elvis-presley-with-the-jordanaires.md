@@ -1,9 +1,12 @@
 ---
+album: Elvis 2nd To None
 artists:
 - Elvis Presley
 - The Jordanaires
+external_ids:
+  spotify: spotify:track:5f6LaqlRIgDWy2Da2Y3sxc
 features: []
-genres: []
+first_released_as_single: false
 key: a-mess-of-blues-elvis-presley-with-the-jordanaires
 name: A Mess Of Blues
 rankings:
@@ -51,5 +54,7 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '1960-10-03'
+release_year: 1960
+runtime: 160733
 ---
 

@@ -1,8 +1,11 @@
 ---
+album: Mariah Carey
 artists:
 - Mariah Carey
+external_ids:
+  spotify: spotify:track:0gLQ6jhJsyYfl7PrD1RZ7X
 features: []
-genres: []
+first_released_as_single: false
 key: vision-of-love-mariah-carey
 lyrics_url: https://www.azlyrics.com/lyrics/mariahcarey/visionoflove.html
 name: Vision Of Love
@@ -95,8 +98,9 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1990-10-27'
+release_year: 1990
+runtime: 209293
 ---
-
 Treated me kind
 Sweet destiny
 Carried me through desperation
@@ -145,6 +149,3 @@ And it was all that you've given to me
 I had a vision of love
 And it was all that you
 Turned out to be
-
-
-

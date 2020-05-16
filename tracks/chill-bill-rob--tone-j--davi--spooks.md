@@ -1,10 +1,13 @@
 ---
+album: Chill Bill
 artists:
 - Rob $tone
+external_ids:
+  spotify: spotify:track:5uDASfU19gDxSjW8cnCaBp
 features:
 - J. Davi$
 - Spooks
-genres: []
+first_released_as_single: true
 key: chill-bill-rob--tone-j--davi--spooks
 name: Chill Bill
 rankings:
@@ -112,5 +115,7 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '2017-02-11'
+release_year: 2016
+runtime: 177184
 ---
 

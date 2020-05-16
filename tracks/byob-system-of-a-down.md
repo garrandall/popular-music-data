@@ -1,8 +1,11 @@
 ---
+album: Mezmerize
 artists:
 - System Of A Down
+external_ids:
+  spotify: spotify:track:0EYOdF5FCkgOJJla8DI2Md
 features: []
-genres: []
+first_released_as_single: false
 key: byob-system-of-a-down
 lyrics_url: https://genius.com/System-of-a-down-byob-lyrics
 name: BYOB
@@ -87,6 +90,8 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '2005-08-27'
+release_year: 2005
+runtime: 255466
 ---
 You!
 Why do they always send the poor?

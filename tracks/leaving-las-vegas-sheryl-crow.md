@@ -1,8 +1,11 @@
 ---
+album: Tuesday Night Music Club
 artists:
 - Sheryl Crow
+external_ids:
+  spotify: spotify:track:6MWJy3DXI0Je49FW3gDpLp
 features: []
-genres: []
+first_released_as_single: false
 key: leaving-las-vegas-sheryl-crow
 lyrics_url: https://www.azlyrics.com/lyrics/sherylcrow/leavinglasvegas.html
 name: Leaving Las Vegas
@@ -47,8 +50,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1994-06-25'
+release_year: 1993
+runtime: 309200
 ---
-
 Life springs eternal
 On a gaudy neon street
 Not that I care at all
@@ -103,6 +107,3 @@ I'm leaving Las Vegas
 And I won't be back
 No I won't be back
 Not this time
-
-
-

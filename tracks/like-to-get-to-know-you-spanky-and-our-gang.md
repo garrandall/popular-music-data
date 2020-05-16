@@ -1,8 +1,11 @@
 ---
+album: Like To Get To Know You
 artists:
 - Spanky And Our Gang
+external_ids:
+  spotify: spotify:track:677qNqFWc7iRTYBqZDjp9K
 features: []
-genres: []
+first_released_as_single: false
 key: like-to-get-to-know-you-spanky-and-our-gang
 lyrics_url: https://genius.com/Spanky-and-our-gang-like-to-get-to-know-you-lyrics
 name: Like To Get To Know You
@@ -51,6 +54,8 @@ rankings:
   rank: 35
   ranking_list: Billboard Hot 100
   start_date: '1968-06-29'
+release_year: 1967
+runtime: 134760
 ---
 But I'd like to get to know you (Yes I would)
 But I'd like to get to know you (If I could)

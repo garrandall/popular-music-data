@@ -1,8 +1,11 @@
 ---
+album: Gravity Kills
 artists:
 - Gravity Kills
+external_ids:
+  spotify: spotify:track:4nqQdp1m4nBvPx1Gnncr4L
 features: []
-genres: []
+first_released_as_single: true
 key: guilty-gravity-kills
 lyrics_url: https://genius.com/Gravity-kills-guilty-lyrics
 name: Guilty
@@ -87,6 +90,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1996-08-24'
+release_year: 1996
+runtime: 244960
 ---
 Behind closed doors, your words ring hollow
 What you said they'd be

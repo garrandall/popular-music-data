@@ -1,8 +1,11 @@
 ---
+album: Bleed Like Me
 artists:
 - Garbage
+external_ids:
+  spotify: spotify:track:7LsE1p64PUoRlEteq46Q4A
 features: []
-genres: []
+first_released_as_single: true
 key: why-do-you-love-me-garbage
 lyrics_url: https://genius.com/Garbage-why-do-you-love-me-lyrics
 name: Why Do You Love Me
@@ -11,6 +14,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2005-03-26'
+release_year: 2005
+runtime: 232400
 ---
 I'm no Barbie doll
 I'm not your baby girl

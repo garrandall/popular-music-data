@@ -1,8 +1,11 @@
 ---
+album: Hello Fear
 artists:
 - Kirk Franklin
+external_ids:
+  spotify: spotify:track:5giBXe0GYr69b6LCaWOJ1G
 features: []
-genres: []
+first_released_as_single: true
 key: i-smile-kirk-franklin
 lyrics_url: https://genius.com/Kirk-franklin-i-smile-lyrics
 name: I Smile
@@ -79,6 +82,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2011-08-13'
+release_year: 2011
+runtime: 300146
 ---
 I dedicate this song to recession
 Depression and unemployment

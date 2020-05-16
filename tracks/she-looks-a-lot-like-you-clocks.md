@@ -1,8 +1,11 @@
 ---
+album: The Black Box
 artists:
 - Clocks
+external_ids:
+  spotify: spotify:track:2Nf1oAaIWNsVNEygDSN5oR
 features: []
-genres: []
+first_released_as_single: false
 key: she-looks-a-lot-like-you-clocks
 lyrics_url: https://www.musixmatch.com/lyrics/The-Clocks/She-Looks-a-Lot-Like-You
 name: She Looks A Lot Like You
@@ -27,6 +30,8 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1982-09-25'
+release_year: 1982
+runtime: 151900
 ---
 I saw her picture on the cover
 Somebody's photogenic lover

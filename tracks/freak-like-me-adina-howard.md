@@ -1,8 +1,11 @@
 ---
+album: Do You Wanna Ride?
 artists:
 - Adina Howard
+external_ids:
+  spotify: spotify:track:6Vas6h9lB5mmeVDXdFqlQA
 features: []
-genres: []
+first_released_as_single: false
 key: freak-like-me-adina-howard
 lyrics_url: https://www.azlyrics.com/lyrics/adinahoward/freaklikeme.html
 name: Freak Like Me
@@ -127,8 +130,9 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1995-09-02'
+release_year: 1995
+runtime: 253613
 ---
-
 Let me lay it on the line
 I got a little freakiness inside
 And you know that the man
@@ -213,4 +217,3 @@ any time of day it's all good for me
 
 One to the two, to the two, to the three
 Adina, do you want to get freaky with me?..
-

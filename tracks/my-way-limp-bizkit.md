@@ -1,8 +1,11 @@
 ---
+album: Chocolate Starfish And The Hot Dog Flavored Water
 artists:
 - Limp Bizkit
+external_ids:
+  spotify: spotify:track:2gSVKxPDww9Eep5rdvtdem
 features: []
-genres: []
+first_released_as_single: false
 key: my-way-limp-bizkit
 lyrics_url: https://genius.com/Limp-bizkit-my-way-lyrics
 name: My Way
@@ -63,6 +66,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2001-07-28'
+release_year: 2000
+runtime: 272973
 ---
 Check, check, check, check, check, che-eck, check, check
 Check, check, check out my melody

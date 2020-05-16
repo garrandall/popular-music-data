@@ -1,8 +1,11 @@
 ---
+album: Baby Now That I've Found You
 artists:
 - The Foundations
+external_ids:
+  spotify: spotify:track:6DrxJPsEAyEBVJqOeeWyAI
 features: []
-genres: []
+first_released_as_single: false
 key: baby-now-that-i-ve-found-you-the-foundations
 lyrics_url: https://genius.com/The-foundations-baby-now-that-ive-found-you-lyrics
 name: Baby Now That I've Found You
@@ -59,6 +62,8 @@ rankings:
   rank: 26
   ranking_list: Billboard Hot 100
   start_date: '1968-03-16'
+release_year: 1967
+runtime: 186800
 ---
 Baby, now that I've found you, I can't let you go
 I'll build my world around you, I need you so

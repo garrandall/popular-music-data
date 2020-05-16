@@ -1,8 +1,11 @@
 ---
+album: Simon Pure Soul
 artists:
 - Joe Simon
+external_ids:
+  spotify: spotify:track:7ke0VYVxlwtbBJbJgcNbNr
 features: []
-genres: []
+first_released_as_single: false
 key: river-joe-simon
 name: River
 rankings:
@@ -34,5 +37,7 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '1973-12-29'
+release_year: 1966
+runtime: 139786
 ---
 

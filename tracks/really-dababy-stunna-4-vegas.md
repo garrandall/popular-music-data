@@ -1,9 +1,12 @@
 ---
+album: KIRK
 artists:
 - DaBaby
+external_ids:
+  spotify: spotify:track:7vxGCUPJhe0fXfBkwVPFcP
 features:
 - Stunna 4 Vegas
-genres: []
+first_released_as_single: false
 key: really-dababy-stunna-4-vegas
 lyrics_url: https://genius.com/Dababy-really-lyrics
 name: REALLY
@@ -12,6 +15,8 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '2019-10-12'
+release_year: 2019
+runtime: 139500
 ---
 SethInTheKitchen
 Let's go

@@ -1,8 +1,11 @@
 ---
+album: Move Along
 artists:
 - The All-American Rejects
+external_ids:
+  spotify: spotify:track:1FMHNVeJ9s1x1l1WlaRs2I
 features: []
-genres: []
+first_released_as_single: false
 key: it-ends-tonight-the-all-american-rejects
 lyrics_url: https://www.azlyrics.com/lyrics/allamericanrejects/itendstonight.html
 name: It Ends Tonight
@@ -99,8 +102,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2007-03-17'
+release_year: 2005
+runtime: 244826
 ---
-
 Your subtleties
 They strangle me
 I can't explain myself at all.
@@ -168,6 +172,3 @@ Tonight
 Insight
 When darkness turns to light,
 It ends tonight.
-
-
-

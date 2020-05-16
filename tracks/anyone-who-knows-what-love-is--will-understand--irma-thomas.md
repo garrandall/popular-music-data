@@ -1,8 +1,11 @@
 ---
+album: Take A Look
 artists:
 - Irma Thomas
+external_ids:
+  spotify: spotify:track:5GWCndQ8ykzf6rYRvwrFcj
 features: []
-genres: []
+first_released_as_single: false
 key: anyone-who-knows-what-love-is--will-understand--irma-thomas
 lyrics_url: https://genius.com/Irma-thomas-anyone-who-knows-what-love-is-will-understand-lyrics
 name: Anyone Who Knows What Love Is (will understand)
@@ -31,6 +34,8 @@ rankings:
   rank: 52
   ranking_list: Billboard Hot 100
   start_date: '1964-08-08'
+release_year: 1964
+runtime: 176080
 ---
 Anyone
 Anyone

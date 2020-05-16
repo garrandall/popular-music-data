@@ -1,8 +1,11 @@
 ---
+album: Mellow
 artists:
 - Maria Mena
+external_ids:
+  spotify: spotify:track:5GdUQQ8WYOSwpgMad7k7Gy
 features: []
-genres: []
+first_released_as_single: false
 key: you-re-the-only-one-maria-mena
 lyrics_url: https://genius.com/Maria-mena-youre-the-only-one-lyrics
 name: You're The Only One
@@ -23,6 +26,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2004-07-03'
+release_year: 2004
+runtime: 165000
 ---
 Well I saw you with your hands above your head
 Spinning around, trying not to look down

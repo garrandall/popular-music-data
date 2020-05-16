@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music, The Complete Season Three'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:1sKzGL7tetwiqLMENoJgLr
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-not-right-but-it-s-okay-glee-cast
 lyrics_url: https://www.azlyrics.com/lyrics/gleecast/itsnotrightbutitsokay.html
 name: It's Not Right But It's Okay
@@ -11,9 +14,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2012-05-12'
+release_year: 2012
+runtime: 258160
 ---
-
-
 Friday night you and your boys went out to eat
 Then they hung out
 But you came home around three, yes you did
@@ -116,6 +119,3 @@ I'd rather be alone
 (Oh, oh)
 Than unhappy
 (Woah Ohhh)
-
-
-

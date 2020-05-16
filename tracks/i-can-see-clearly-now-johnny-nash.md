@@ -1,8 +1,11 @@
 ---
+album: I Can See Clearly Now
 artists:
 - Johnny Nash
+external_ids:
+  spotify: spotify:track:0DcrhZ12WcCqruCs8ibXSf
 features: []
-genres: []
+first_released_as_single: false
 key: i-can-see-clearly-now-johnny-nash
 lyrics_url: https://genius.com/Johnny-nash-i-can-see-clearly-now-lyrics
 name: I Can See Clearly Now
@@ -87,6 +90,8 @@ rankings:
   rank: 52
   ranking_list: Billboard Hot 100
   start_date: '1973-01-20'
+release_year: 1972
+runtime: 164733
 ---
 I can see clearly now the rain is gone
 I can see all obstacles in my way

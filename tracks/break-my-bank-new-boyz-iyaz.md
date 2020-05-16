@@ -1,9 +1,12 @@
 ---
+album: Too Cool To Care
 artists:
 - New Boyz
+external_ids:
+  spotify: spotify:track:05Q8DT8pyXJrxI6kCLzjdh
 features:
 - Iyaz
-genres: []
+first_released_as_single: false
 key: break-my-bank-new-boyz-iyaz
 lyrics_url: https://www.azlyrics.com/lyrics/newboyz/breakmybank.html
 name: Break My Bank
@@ -52,8 +55,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '2010-10-09'
+release_year: 2010
+runtime: 177253
 ---
-
 She make me wanna
 (break my bank)
 Give everything I got
@@ -179,6 +183,3 @@ Throw it in the bag
 
 Shawty wanna break my
 Shawty wanna break my bank
-
-
-

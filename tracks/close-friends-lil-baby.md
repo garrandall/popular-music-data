@@ -1,8 +1,11 @@
 ---
+album: Drip Harder
 artists:
 - Lil Baby
+external_ids:
+  spotify: spotify:track:5nzhL67GpF9szXWg5y509A
 features: []
-genres: []
+first_released_as_single: false
 key: close-friends-lil-baby
 lyrics_url: https://genius.com/Lil-baby-close-friends-lyrics
 name: Close Friends
@@ -139,6 +142,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2019-06-22'
+release_year: 2018
+runtime: 203881
 ---
 Oh, this the one right here, Wicked?
 Okay

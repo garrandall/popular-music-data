@@ -1,9 +1,12 @@
 ---
+album: Randy Jackson's Music Club, Volume One
 artists:
 - Paula Abdul
 - Randy Jackson
+external_ids:
+  spotify: spotify:track:7v2Jv1X3D3q2uZuENKMhYh
 features: []
-genres: []
+first_released_as_single: false
 key: dance-like-there-s-no-tomorrow-paula-abdul-randy-jackson
 lyrics_url: https://www.musixmatch.com/lyrics/Paula-Abdul-Randy-Jackson/Dance-Like-There-s-No-Tomorrow
 name: Dance Like There's No Tomorrow
@@ -32,6 +35,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2008-04-12'
+release_year: 2008
+runtime: 180800
 ---
 All I wanna do is stay right here on the floor
 Get lost in the night 'n' dance like there's no tomorrow

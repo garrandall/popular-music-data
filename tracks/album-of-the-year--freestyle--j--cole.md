@@ -1,8 +1,11 @@
 ---
+album: Album of the Year (Freestyle)
 artists:
 - J. Cole
+external_ids:
+  spotify: spotify:track:6rDaCGqcQB1urhpCrrD599
 features: []
-genres: []
+first_released_as_single: true
 key: album-of-the-year--freestyle--j--cole
 lyrics_url: https://genius.com/J-cole-album-of-the-year-freestyle-lyrics
 name: Album Of The Year (Freestyle)
@@ -11,6 +14,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '2018-08-25'
+release_year: 2018
+runtime: 138872
 ---
 Yeah
 My mind state feel like the crime in the summertime

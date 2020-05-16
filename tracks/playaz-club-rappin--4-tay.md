@@ -1,8 +1,11 @@
 ---
+album: Don't Fight The Feelin'
 artists:
 - Rappin' 4-Tay
+external_ids:
+  spotify: spotify:track:4ZYM6R5nOZywxACY90Bsla
 features: []
-genres: []
+first_released_as_single: false
 key: playaz-club-rappin--4-tay
 lyrics_url: https://genius.com/Rappin-4-tay-playaz-club-lyrics
 name: Playaz Club
@@ -91,6 +94,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1995-02-11'
+release_year: 1994
+runtime: 266333
 ---
 Me and my homies, we're tighter than a glove
 We chop a lot of game, that's how we do it at the Playaz Club

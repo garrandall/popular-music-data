@@ -1,8 +1,11 @@
 ---
+album: Disclaimer
 artists:
 - Seether
+external_ids:
+  spotify: spotify:track:4eTIe5eqds88bA9ua6p5p6
 features: []
-genres: []
+first_released_as_single: false
 key: fine-again-seether
 lyrics_url: https://genius.com/Seether-fine-again-lyrics
 name: Fine Again
@@ -87,6 +90,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2003-05-10'
+release_year: 2002
+runtime: 243640
 ---
 It seems like every day's the same
 And I'm left to discover on my own

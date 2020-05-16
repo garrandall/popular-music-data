@@ -1,8 +1,11 @@
 ---
+album: The Outsiders
 artists:
 - Eric Church
+external_ids:
+  spotify: spotify:track:1VN6TvmHTIWvLzBAOmre6P
 features: []
-genres: []
+first_released_as_single: false
 key: the-outsiders-eric-church
 lyrics_url: https://genius.com/Eric-church-the-outsiders-lyrics
 name: The Outsiders
@@ -35,6 +38,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2013-12-21'
+release_year: 2013
+runtime: 252893
 ---
 They’re the in crowd, we’re the other ones
 It’s a different kind of cloth that we’re cut from

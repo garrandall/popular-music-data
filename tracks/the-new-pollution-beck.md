@@ -1,8 +1,11 @@
 ---
+album: Odelay
 artists:
 - Beck
+external_ids:
+  spotify: spotify:track:4t5tAOTFUfb2FhHnnapWlB
 features: []
-genres: []
+first_released_as_single: false
 key: the-new-pollution-beck
 lyrics_url: https://www.azlyrics.com/lyrics/beck/thenewpollution.html
 name: The New Pollution
@@ -35,8 +38,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1997-07-12'
+release_year: 1996
+runtime: 219600
 ---
-
 She's got cigarette on each arm
 She's got the lily-white cavity crazes
 She's got a carburetor tied to the moon
@@ -62,6 +66,3 @@ Riding low on the drunken rivers
 
 She's alone in the new pollution
 She's alone in the new pollution
-
-
-

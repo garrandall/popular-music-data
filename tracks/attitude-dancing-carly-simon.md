@@ -1,8 +1,11 @@
 ---
+album: Playing Possum
 artists:
 - Carly Simon
+external_ids:
+  spotify: spotify:track:1Qak07fOmk2OnuXTDgW2FL
 features: []
-genres: []
+first_released_as_single: false
 key: attitude-dancing-carly-simon
 lyrics_url: https://www.azlyrics.com/lyrics/carlysimon/attitudedancing.html
 name: Attitude Dancing
@@ -39,8 +42,9 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '1975-06-28'
+release_year: 1975
+runtime: 233626
 ---
-
 There's a new kind of dancing
 that's gonna be the rage
 You just leave yourself behind
@@ -100,6 +104,3 @@ Observe some natural dude
 And turn into a mirror of his attitude
 Attitude, attitude, attitude
 Dancing
-
-
-

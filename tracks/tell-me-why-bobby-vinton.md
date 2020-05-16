@@ -1,8 +1,11 @@
 ---
+album: Tell Me Why
 artists:
 - Bobby Vinton
+external_ids:
+  spotify: spotify:track:1rkF1Cy7NlV8D8Uaa1AmeO
 features: []
-genres: []
+first_released_as_single: false
 key: tell-me-why-bobby-vinton
 lyrics_url: https://www.azlyrics.com/lyrics/bobbyvinton/tellmewhy.html
 name: Tell Me Why
@@ -39,8 +42,9 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1964-07-11'
+release_year: 1962
+runtime: 156666
 ---
-
 Tell me why, though I try to forget
 Tell me why, why I think of you yet
 I know I'll never be free
@@ -66,6 +70,3 @@ When I know it was love from the start
 Why don't we give it a try?
 If you know, tell me why
 Tell me, tell me why
-
-
-

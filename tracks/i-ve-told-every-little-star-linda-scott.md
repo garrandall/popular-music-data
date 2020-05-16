@@ -1,8 +1,11 @@
 ---
+album: Karaoke - Female Oldies - Vol.1
 artists:
 - Linda Scott
+external_ids:
+  spotify: spotify:track:3WYhkNYK5opOjN6i9cxKDt
 features: []
-genres: []
+first_released_as_single: false
 key: i-ve-told-every-little-star-linda-scott
 lyrics_url: https://genius.com/Linda-scott-ive-told-every-little-star-lyrics
 name: I've Told Every Little Star
@@ -63,6 +66,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1961-06-12'
+release_year: 1961
+runtime: 169227
 ---
 Why haven't I told you?
 

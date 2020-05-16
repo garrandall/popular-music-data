@@ -1,8 +1,11 @@
 ---
+album: Brand New Eyes
 artists:
 - Paramore
+external_ids:
+  spotify: spotify:track:7JIuqL4ZqkpfGKQhYlrirs
 features: []
-genres: []
+first_released_as_single: false
 key: the-only-exception-paramore
 lyrics_url: https://www.azlyrics.com/lyrics/paramore/theonlyexception.html
 name: The Only Exception
@@ -87,8 +90,9 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '2010-10-23'
+release_year: 2009
+runtime: 267653
 ---
-
 When I was younger I saw my daddy cry
 And curse at the wind.
 He broke his own heart and I watched
@@ -134,6 +138,3 @@ You are the only exception.
 
 And I'm on my way to believing.
 Oh, and I'm on my way to believing.
-
-
-

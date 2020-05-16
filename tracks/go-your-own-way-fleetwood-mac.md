@@ -1,8 +1,11 @@
 ---
+album: Rumours (Super Deluxe)
 artists:
 - Fleetwood Mac
+external_ids:
+  spotify: spotify:track:4xh7W7tlNMIczFhupCPniY
 features: []
-genres: []
+first_released_as_single: false
 key: go-your-own-way-fleetwood-mac
 lyrics_url: https://genius.com/Fleetwood-mac-go-your-own-way-lyrics
 name: Go Your Own Way
@@ -67,6 +70,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1977-04-16'
+release_year: 1977
+runtime: 223613
 ---
 Loving you isn't the right thing to do
 How can I ever change things that I feel?

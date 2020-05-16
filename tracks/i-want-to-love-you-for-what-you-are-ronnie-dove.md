@@ -1,8 +1,11 @@
 ---
+album: The Best of Ronnie Dove Volume 2
 artists:
 - Ronnie Dove
+external_ids:
+  spotify: spotify:track:5LeaWHxLrcNYkaGEHRHAml
 features: []
-genres: []
+first_released_as_single: false
 key: i-want-to-love-you-for-what-you-are-ronnie-dove
 lyrics_url: https://genius.com/Ronnie-dove-i-want-to-love-you-for-what-you-are-lyrics
 name: I Want To Love You For What You Are
@@ -27,6 +30,8 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '1967-09-02'
+release_year: 1967
+runtime: 190013
 ---
 (I want to love you
 For what you are)

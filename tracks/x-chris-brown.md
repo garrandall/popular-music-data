@@ -1,8 +1,11 @@
 ---
+album: X
 artists:
 - Chris Brown
+external_ids:
+  spotify: spotify:track:5pwcZWC7XdfoPo8FDwPaui
 features: []
-genres: []
+first_released_as_single: false
 key: x-chris-brown
 lyrics_url: https://genius.com/Chris-brown-x-lyrics
 name: X
@@ -11,6 +14,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2014-10-04'
+release_year: 2014
+runtime: 260573
 ---
 If you're only as good as the company you keep
 Then I'ma blame you for what they say about me

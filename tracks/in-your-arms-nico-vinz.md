@@ -1,9 +1,12 @@
 ---
+album: Black Star Elephant
 artists:
 - Nico
 - Vinz
+external_ids:
+  spotify: spotify:track:0LH5xRQz5D36FpIkYUFv2e
 features: []
-genres: []
+first_released_as_single: false
 key: in-your-arms-nico-vinz
 lyrics_url: https://www.musixmatch.com/lyrics/Nico-feat-Vinz-2/In-Your-Arms
 name: In Your Arms
@@ -56,6 +59,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '2015-01-17'
+release_year: 2014
+runtime: 205800
 ---
 I feel like Superman, they gon' remember me
 I think I know I can, who says it's hard to reach

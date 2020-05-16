@@ -1,9 +1,12 @@
 ---
+album: Rated R
 artists:
 - Rihanna
+external_ids:
+  spotify: spotify:track:5rXDTihGQ3TkYE3pmraAmH
 features:
 - Slash
-genres: []
+first_released_as_single: false
 key: rockstar-101-rihanna-slash
 lyrics_url: https://www.azlyrics.com/lyrics/rihanna/rockstar101.html
 name: Rockstar 101
@@ -28,8 +31,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2010-09-25'
+release_year: 2009
+runtime: 238893
 ---
-
 I told ya
 I told ya
 I told ya
@@ -192,6 +196,3 @@ Oh, baby I'm a
 Oh, baby I'm a
 Oh, baby I'm a
 Hey, hey, hey
-
-
-

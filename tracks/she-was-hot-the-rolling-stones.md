@@ -1,8 +1,11 @@
 ---
+album: Undercover (2009 Re-Mastered)
 artists:
 - The Rolling Stones
+external_ids:
+  spotify: spotify:track:7hUlZfirjFpQwzoE5GFwyL
 features: []
-genres: []
+first_released_as_single: false
 key: she-was-hot-the-rolling-stones
 lyrics_url: https://genius.com/The-rolling-stones-she-was-hot-lyrics
 name: She Was Hot
@@ -43,6 +46,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1984-03-31'
+release_year: 1983
+runtime: 281173
 ---
 New York was cold and damp
 TV is just a blank

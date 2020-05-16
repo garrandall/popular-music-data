@@ -1,8 +1,11 @@
 ---
+album: 'True'
 artists:
 - Avicii
+external_ids:
+  spotify: spotify:track:3sFgAwiMkRcAQjDR2cZqgg
 features: []
-genres: []
+first_released_as_single: true
 key: you-make-me-avicii
 lyrics_url: https://genius.com/Avicii-you-make-me-lyrics
 name: You Make Me
@@ -11,6 +14,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '2013-10-05'
+release_year: 2013
+runtime: 220952
 ---
 We are one, one for sure
 All united

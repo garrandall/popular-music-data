@@ -1,8 +1,11 @@
 ---
+album: Discovery
 artists:
 - Electric Light Orchestra
+external_ids:
+  spotify: spotify:track:4PntxCjeBFpPOJTnHzhF90
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-bring-me-down-electric-light-orchestra
 lyrics_url: https://genius.com/Electric-light-orchestra-dont-bring-me-down-lyrics
 name: Don't Bring Me Down
@@ -67,6 +70,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1979-11-10'
+release_year: 1972
+runtime: 243306
 ---
 You got me running, going out of my mind
 You got me thinking that I'm wasting my time

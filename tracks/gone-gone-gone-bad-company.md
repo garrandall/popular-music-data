@@ -1,8 +1,11 @@
 ---
+album: Desolation Angels
 artists:
 - Bad Company
+external_ids:
+  spotify: spotify:track:1G9k3c1P9PKnmsqeuUtGxc
 features: []
-genres: []
+first_released_as_single: false
 key: gone-gone-gone-bad-company
 lyrics_url: https://genius.com/Bad-company-gone-gone-gone-lyrics
 name: Gone Gone Gone
@@ -31,6 +34,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1979-09-08'
+release_year: 1979
+runtime: 228066
 ---
 Well, I been havin a little trouble lord
 But I'm keepin it together yeah

@@ -1,9 +1,12 @@
 ---
+album: In The Zone
 artists:
 - Britney Spears
+external_ids:
+  spotify: spotify:track:7mS8RbJji2UZAaguRGsOCH
 features:
 - Madonna
-genres: []
+first_released_as_single: false
 key: me-against-the-music-britney-spears-madonna
 lyrics_url: https://genius.com/Britney-spears-me-against-the-music-lyrics
 name: Me Against The Music
@@ -60,6 +63,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2004-01-17'
+release_year: 2003
+runtime: 223773
 ---
 All my people in the crowd
 Grab a partner take it down

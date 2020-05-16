@@ -1,9 +1,12 @@
 ---
+album: Rappa Ternt Sanga
 artists:
 - T-Pain
+external_ids:
+  spotify: spotify:track:1lih9AUGlOI2qbAkptdBsr
 features:
 - Mike Jones
-genres: []
+first_released_as_single: false
 key: i-m-n-luv--wit-a-stripper--t-pain-mike-jones
 lyrics_url: https://genius.com/T-pain-im-n-luv-lyrics
 name: I'm N Luv (Wit A Stripper)
@@ -88,6 +91,8 @@ rankings:
   rank: 37
   ranking_list: Billboard Hot 100
   start_date: '2006-05-13'
+release_year: 2005
+runtime: 265333
 ---
 Goddamn Lil Mama
 You know you thick as hell you know what I'm sayin'

@@ -1,8 +1,11 @@
 ---
+album: Ralph Tresvant
 artists:
 - Ralph Tresvant
+external_ids:
+  spotify: spotify:track:3lRgzwd3g1TewI4zjgbh9V
 features: []
-genres: []
+first_released_as_single: false
 key: sensitivity-ralph-tresvant
 lyrics_url: https://www.azlyrics.com/lyrics/ralphtresvant/sensitivityralphsrap.html
 name: Sensitivity
@@ -87,8 +90,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1991-03-16'
+release_year: 1990
+runtime: 281333
 ---
-
 Hello?
 Hey baby what's wrong?
 What you need me to come over?
@@ -175,6 +179,3 @@ No matter how long
 No matter how far
 No matter how hard it gets
 I'm here for you
-
-
-

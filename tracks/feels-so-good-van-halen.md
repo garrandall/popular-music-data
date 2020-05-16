@@ -1,8 +1,11 @@
 ---
+album: OU812
 artists:
 - Van Halen
+external_ids:
+  spotify: spotify:track:2zkZcJD7k5IEAiXop6BUkg
 features: []
-genres: []
+first_released_as_single: false
 key: feels-so-good-van-halen
 lyrics_url: https://www.azlyrics.com/lyrics/vanhalen/feelssogood.html
 name: Feels So Good
@@ -63,8 +66,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1989-04-29'
+release_year: 1988
+runtime: 271666
 ---
-
 Yesterday I saw my love light shine 
 Straight ahead in front of me 
 You never really know 
@@ -100,6 +104,3 @@ I feel good
 So good, so good, so good 
 Come on, baby 
 Make me feel good
-
-
-

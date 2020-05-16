@@ -1,8 +1,11 @@
 ---
+album: The One
 artists:
 - Chubb Rock
+external_ids:
+  spotify: spotify:track:2QHmGfplU3ypWOGgJM46in
 features: []
-genres: []
+first_released_as_single: false
 key: treat--em-right-chubb-rock
 lyrics_url: https://genius.com/Chubb-rock-treat-em-right-lyrics
 name: Treat 'Em Right
@@ -15,6 +18,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1991-05-25'
+release_year: 1991
+runtime: 283306
 ---
 Nineteen ninety, Chubb Rock jumps up on the scene
 With a lean and a pocket full of green

@@ -1,9 +1,12 @@
 ---
+album: Instructions (Explicit Version)
 artists:
 - Jermaine Dupri
 - Ludacris
+external_ids:
+  spotify: spotify:track:19VTqucnxJuH6kilNdweTh
 features: []
-genres: []
+first_released_as_single: false
 key: welcome-to-atlanta-jermaine-dupri-ludacris
 lyrics_url: https://genius.com/Jermaine-dupri-and-ludacris-welcome-to-atlanta-falcons-remix-lyrics
 name: Welcome To Atlanta
@@ -88,6 +91,8 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '2002-05-11'
+release_year: 2001
+runtime: 200840
 ---
 Yeah
 

@@ -1,8 +1,11 @@
 ---
+album: Gold
 artists:
 - Connie Francis
+external_ids:
+  spotify: spotify:track:60gQGAY5Wn3QxyurszhIc5
 features: []
-genres: []
+first_released_as_single: false
 key: i-was-such-a-fool--to-fall-in-love-with-you--connie-francis
 lyrics_url: https://www.azlyrics.com/lyrics/conniefrancis/iwassuchafooltofallinlovewithyou.html
 name: I Was Such A Fool (To Fall In Love With You)
@@ -43,8 +46,9 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1962-12-01'
+release_year: 1962
+runtime: 168693
 ---
-
 I was such a fool to fall in love with you
 I was such a fool to think you loved me, too
 "Cause suddenly something happened
@@ -64,6 +68,3 @@ Oh ho you know
 You taught me a lesson, it's true
 But wait till it happens to you
 I was such a fool to fall in love with you
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: 'Bat Out Of Hell II: Back Into Hell'
 artists:
 - Meat Loaf
+external_ids:
+  spotify: spotify:track:6Vfiskl8VZSui0ggqd5Mfg
 features: []
-genres: []
+first_released_as_single: false
 key: objects-in-the-rear-view-mirror-may-appear-closer-than-meat-loaf
 lyrics_url: https://www.azlyrics.com/lyrics/meatloaf/objectsintherearviewmirrormayappearcloserthantheyare.html
 name: Objects In The Rear View Mirror May Appear Closer Than
@@ -51,8 +54,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1994-07-23'
+release_year: 1993
+runtime: 615093
 ---
-
 The skies were pure and the fields were green,
 And the sun was brighter than it's ever been
 When I grew up with my best friend, Kenny,
@@ -151,6 +155,3 @@ She used her body just like a bandage
 She used my body just like a wound
 I'll never know where she disappeared
 But I can see her rising up out of the back seat now
-
-
-

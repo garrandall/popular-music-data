@@ -1,8 +1,11 @@
 ---
+album: Animal Magic
 artists:
 - The Blow Monkeys
+external_ids:
+  spotify: spotify:track:4gZfY1TCkT8hEEud3je3fV
 features: []
-genres: []
+first_released_as_single: false
 key: digging-your-scene-the-blow-monkeys
 lyrics_url: https://genius.com/The-blow-monkeys-digging-your-scene-lyrics
 name: Digging Your Scene
@@ -83,6 +86,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1986-09-06'
+release_year: 1986
+runtime: 254493
 ---
 I just got your message, baby
 So sad to see you fade away

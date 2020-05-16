@@ -1,8 +1,11 @@
 ---
+album: Bad Of The Heart
 artists:
 - George LaMond
+external_ids:
+  spotify: spotify:track:4XZxZXXdpclvC2BkbKtENJ
 features: []
-genres: []
+first_released_as_single: false
 key: bad-of-the-heart-george-lamond
 lyrics_url: https://genius.com/George-lamond-bad-of-the-heart-lyrics
 name: Bad Of The Heart
@@ -75,6 +78,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1990-09-01'
+release_year: 1990
+runtime: 257560
 ---
 Because you're bad of the heart
 

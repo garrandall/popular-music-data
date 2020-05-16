@@ -1,8 +1,11 @@
 ---
+album: Foxy Lady
 artists:
 - Cher
+external_ids:
+  spotify: spotify:track:2qQO3K14lLv53m7Z7Fpmch
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-hide-your-love-cher
 lyrics_url: https://genius.com/Cher-dont-hide-your-love-lyrics
 name: Don't Hide Your Love
@@ -39,6 +42,8 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '1972-10-28'
+release_year: 1972
+runtime: 170493
 ---
 You never give yourself completely
 It's just that you've been hurt before

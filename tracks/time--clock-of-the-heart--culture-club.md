@@ -1,8 +1,11 @@
 ---
+album: Waking Up With The House On Fire
 artists:
 - Culture Club
+external_ids:
+  spotify: spotify:track:4fxEQrHW6PsaxpxrdJNKG1
 features: []
-genres: []
+first_released_as_single: false
 key: time--clock-of-the-heart--culture-club
 lyrics_url: https://www.azlyrics.com/lyrics/cultureclub/timeclockoftheheart.html
 name: Time (Clock Of The Heart)
@@ -79,8 +82,9 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '1983-08-13'
+release_year: 1983
+runtime: 179133
 ---
-
 Don't put your head on my shoulder
 Sink me in a river of tears
 This could be the best place yet
@@ -113,6 +117,3 @@ But you and me we know
 We've got nothing but time
 And time won't give me time
 Won't give me time
-
-
-

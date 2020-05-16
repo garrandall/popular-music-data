@@ -1,8 +1,11 @@
 ---
+album: Helta Skelta
 artists:
 - Mad Cobra
+external_ids:
+  spotify: spotify:track:2TajSezbrdFdex9g5L6wo9
 features: []
-genres: []
+first_released_as_single: false
 key: flex-mad-cobra
 lyrics_url: https://genius.com/Mad-cobra-flex-lyrics
 name: Flex
@@ -83,6 +86,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1993-02-20'
+release_year: 1992
+runtime: 230693
 ---
 Crying, moaning, just can't wait til morning
 Waiting too long

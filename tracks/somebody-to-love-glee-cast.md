@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music, Volume 1'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:43wOnyLJcwYfKVNxXZWPDz
 features: []
-genres: []
+first_released_as_single: false
 key: somebody-to-love-glee-cast
 lyrics_url: https://www.azlyrics.com/lyrics/gleecast/somebodytolove.html
 name: Somebody To Love
@@ -23,8 +26,9 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '2011-03-05'
+release_year: 2009
+runtime: 283666
 ---
-
 Can anybody find me?
 Somebody to love
 
@@ -116,6 +120,3 @@ Somebody to love
 Somebody to love
 Find me, somebody to
 Love
-
-
-

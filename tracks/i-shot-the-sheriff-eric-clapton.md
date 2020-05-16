@@ -1,8 +1,11 @@
 ---
+album: 461 Ocean Blvd.
 artists:
 - Eric Clapton
+external_ids:
+  spotify: spotify:track:0UOxp1BpnD8uPQMKU4wKjz
 features: []
-genres: []
+first_released_as_single: false
 key: i-shot-the-sheriff-eric-clapton
 lyrics_url: https://www.azlyrics.com/lyrics/ericclapton/ishotthesheriff108875.html
 name: I Shot The Sheriff
@@ -63,8 +66,9 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1974-10-12'
+release_year: 1974
+runtime: 263746
 ---
-
 I shot the sheriff, but I did not shoot the deputy.
 I shot the sheriff, but I did not shoot the deputy.
 
@@ -107,6 +111,3 @@ But I say:
 
 I shot the sheriff, but I did not shoot the deputy, oh no.
 I shot the sheriff, but I did not shoot the deputy, oh no.
-
-
-

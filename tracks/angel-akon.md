@@ -1,8 +1,11 @@
 ---
+album: Angel
 artists:
 - Akon
+external_ids:
+  spotify: spotify:track:6LBcHFbzmKSgGjZapRE2B5
 features: []
-genres: []
+first_released_as_single: true
 key: angel-akon
 lyrics_url: https://www.azlyrics.com/lyrics/akon/angel.html
 name: Angel
@@ -47,8 +50,9 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '2011-05-14'
+release_year: 2010
+runtime: 215226
 ---
-
 I'm looking at an angel
 And believe me when I say
 She got that whole place blowing 
@@ -90,6 +94,3 @@ I'm looking at an angel
 And believe me when I say
 She got that whole place glowing 
 And she's high in the sky singing
-
-
-

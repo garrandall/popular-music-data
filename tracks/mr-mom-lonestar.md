@@ -1,8 +1,11 @@
 ---
+album: Let's Be Us Again
 artists:
 - Lonestar
+external_ids:
+  spotify: spotify:track:43IG5QqRujEX2pT422SWXn
 features: []
-genres: []
+first_released_as_single: false
 key: mr-mom-lonestar
 lyrics_url: https://www.azlyrics.com/lyrics/lonestar/mrmom.html
 name: Mr Mom
@@ -87,8 +90,9 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '2005-01-29'
+release_year: 1995
+runtime: 208680
 ---
-
 Lost my job, came home mad
 Got a hug and kiss and that's too bad
 She said I can go to work until you find another job
@@ -146,6 +150,3 @@ Baby, now I know how you feel
 What I don't know is how you do it
 
 Honey, you're my hero
-
-
-

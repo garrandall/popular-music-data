@@ -1,8 +1,11 @@
 ---
+album: The ABC's Of Soul, Vol. 2 (Classics From The ABC Records Catalog 1969-1974)
 artists:
 - Carl Carlton
+external_ids:
+  spotify: spotify:track:37zXkJxqdHutUPEfCsJTQ2
 features: []
-genres: []
+first_released_as_single: false
 key: everlasting-love-carl-carlton
 lyrics_url: https://www.musixmatch.com/lyrics/Carl-Carlton/Everlasting-Love
 name: Everlasting Love
@@ -67,6 +70,8 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '1974-12-28'
+release_year: 1974
+runtime: 156840
 ---
 Hearts go astray, leaving hurt when they go
 I went away just when you needed me so

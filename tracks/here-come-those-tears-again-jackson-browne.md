@@ -1,8 +1,11 @@
 ---
+album: The Pretender
 artists:
 - Jackson Browne
+external_ids:
+  spotify: spotify:track:0TEFPhz79iiutJXI0pNiur
 features: []
-genres: []
+first_released_as_single: false
 key: here-come-those-tears-again-jackson-browne
 lyrics_url: https://www.azlyrics.com/lyrics/jacksonbrowne/herecomethosetearsagain.html
 name: Here Come Those Tears Again
@@ -43,8 +46,9 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '1977-04-02'
+release_year: 1977
+runtime: 212600
 ---
-
 Here come those tears again
 Just when I was getting over you
 Just when I was going to make it through
@@ -86,6 +90,3 @@ Here come those tears again
 Just walk away
 I'm going back inside and turning out those light
 And I'll be in the dark but you'll be out of sight
-
-
-

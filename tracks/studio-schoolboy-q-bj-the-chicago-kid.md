@@ -1,9 +1,12 @@
 ---
+album: Oxymoron
 artists:
 - ScHoolboy Q
+external_ids:
+  spotify: spotify:track:29gsi1zZrZxdStACmTQB0Z
 features:
 - BJ The Chicago Kid
-genres: []
+first_released_as_single: false
 key: studio-schoolboy-q-bj-the-chicago-kid
 lyrics_url: https://www.azlyrics.com/lyrics/schoolboyq/studio.html
 name: Studio
@@ -88,9 +91,9 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '2014-11-01'
+release_year: 2014
+runtime: 278066
 ---
-
-
 I'm just sitting in the studio just tryna get to you, baby
 But this song so fucking dope, girl, it's hard not for me to blaze it
 To tell the truth, wish it was you in this booth that I was blazing
@@ -153,6 +156,3 @@ I'm just sitting in the studio just tryna get to you, baby
 But this song so fucking dope, girl, it's hard not for me to blaze it
 To tell the truth, wish it was you in this booth that I was blazing
 So, I'm just sitting in the studio just tryna get to you, baby
-
-
-

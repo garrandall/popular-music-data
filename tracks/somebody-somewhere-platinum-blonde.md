@@ -1,8 +1,11 @@
 ---
+album: 'Seven Year Itch: 1982-1989'
 artists:
 - Platinum Blonde
+external_ids:
+  spotify: spotify:track:75wNddLVuZivhs5aqIAVdA
 features: []
-genres: []
+first_released_as_single: false
 key: somebody-somewhere-platinum-blonde
 lyrics_url: https://genius.com/Platinum-blonde-somebody-somewhere-lyrics
 name: Somebody Somewhere
@@ -27,6 +30,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1986-05-10'
+release_year: 1986
+runtime: 245333
 ---
 She lives inside a glass house across the lane
 The walls are full of photographs she saved

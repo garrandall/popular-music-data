@@ -1,9 +1,12 @@
 ---
+album: This Is Country Music
 artists:
 - Brad Paisley
+external_ids:
+  spotify: spotify:track:3OMpIoONQH8rSscaZLozFQ
 features:
 - Alabama
-genres: []
+first_released_as_single: false
 key: old-alabama-brad-paisley-alabama
 lyrics_url: https://genius.com/Brad-paisley-old-alabama-lyrics
 name: Old Alabama
@@ -88,6 +91,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2011-09-03'
+release_year: 2011
+runtime: 301800
 ---
 She’d rather wear a pair of cutoff jeans
 Than a fancy evening dress

@@ -1,8 +1,11 @@
 ---
+album: Struttin'
 artists:
 - The Meters
+external_ids:
+  spotify: spotify:track:5uKJvTRphvrXIIFgxgMWNI
 features: []
-genres: []
+first_released_as_single: false
 key: chicken-strut-the-meters
 lyrics_url: https://www.azlyrics.com/lyrics/meters/chickenstrut.html
 name: Chicken Strut
@@ -39,13 +42,11 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1970-05-23'
+release_year: 1970
+runtime: 194560
 ---
-
 Just keep on strut...
 
 Fell on you
 
 Just keep on strut...
-
-
-

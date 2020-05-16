@@ -1,8 +1,11 @@
 ---
+album: Back To Back
 artists:
 - The Righteous Brothers
+external_ids:
+  spotify: spotify:track:3oYepgGG0ApD63D6nOYLEI
 features: []
-genres: []
+first_released_as_single: false
 key: he-the-righteous-brothers
 lyrics_url: https://genius.com/The-righteous-brothers-he-lyrics
 name: He
@@ -39,6 +42,8 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '1966-07-23'
+release_year: 1965
+runtime: 177160
 ---
 He can turn the tides and calm the angry sea
 He alone decides who writes a symphony

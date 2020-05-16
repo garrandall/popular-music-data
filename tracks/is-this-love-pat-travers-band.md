@@ -1,8 +1,11 @@
 ---
+album: Crash And Burn
 artists:
 - Pat Travers Band
+external_ids:
+  spotify: spotify:track:6bpImvIKBxcNT8eAslInnN
 features: []
-genres: []
+first_released_as_single: false
 key: is-this-love-pat-travers-band
 name: Is This Love
 rankings:
@@ -34,5 +37,7 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1980-06-28'
+release_year: 1980
+runtime: 328466
 ---
 

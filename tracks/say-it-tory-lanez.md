@@ -1,8 +1,11 @@
 ---
+album: I Told You
 artists:
 - Tory Lanez
+external_ids:
+  spotify: spotify:track:2Gyc6e2cLxA5hoX1NOvYnU
 features: []
-genres: []
+first_released_as_single: false
 key: say-it-tory-lanez
 lyrics_url: https://www.musixmatch.com/lyrics/Tory-Lanez/Say-It
 name: Say It
@@ -103,6 +106,8 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '2016-04-16'
+release_year: 2015
+runtime: 237786
 ---
 Just keepin' it honest
 You wouldn't want a young nigga if I wasn't whippin' this foreign

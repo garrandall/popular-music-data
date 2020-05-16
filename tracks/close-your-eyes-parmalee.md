@@ -1,8 +1,11 @@
 ---
+album: Feels Like Carolina
 artists:
 - Parmalee
+external_ids:
+  spotify: spotify:track:3Bdqlr7jQLNhITAgcBGQBG
 features: []
-genres: []
+first_released_as_single: false
 key: close-your-eyes-parmalee
 lyrics_url: https://www.azlyrics.com/lyrics/parmalee/closeyoureyesforthis.html
 name: Close Your Eyes
@@ -71,8 +74,9 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2015-01-24'
+release_year: 2013
+runtime: 214933
 ---
-
 Well take a look at what's left in that sunset,
 Fireflies popping like the Fourth of July, yeah.
 You're gonna wanna see every single thing I'm gonna show you tonight.
@@ -120,6 +124,3 @@ Might wanna close your eyes for this.
 Might wanna close your eyes for this.
 Hey pretty girl might wanna close your eyes for this.
 Close your eyes for this.
-
-
-

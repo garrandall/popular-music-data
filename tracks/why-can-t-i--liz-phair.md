@@ -1,8 +1,11 @@
 ---
+album: Liz Phair
 artists:
 - Liz Phair
+external_ids:
+  spotify: spotify:track:4z4PB23xYTg1oANmyZovsw
 features: []
-genres: []
+first_released_as_single: false
 key: why-can-t-i--liz-phair
 lyrics_url: https://genius.com/Liz-phair-why-cant-i-lyrics
 name: Why Can't I?
@@ -87,6 +90,8 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '2004-01-31'
+release_year: 2003
+runtime: 208360
 ---
 Get a load of me, get a load of you
 Walking down the street and I hardly know you

@@ -1,8 +1,11 @@
 ---
+album: Don't Knock My Love
 artists:
 - Wilson Pickett
+external_ids:
+  spotify: spotify:track:75rADUMnGzqDIltLoM6EYx
 features: []
-genres: []
+first_released_as_single: false
 key: fire-and-water-wilson-pickett
 lyrics_url: https://www.azlyrics.com/lyrics/wilsonpickett/fireandwater.html
 name: Fire And Water
@@ -51,8 +54,9 @@ rankings:
   rank: 32
   ranking_list: Billboard Hot 100
   start_date: '1972-03-04'
+release_year: 1971
+runtime: 218560
 ---
-
 Every single day, I got a heartache comin' my way
 I don't wanna say goodbye
 Baby but look at the tears in my eye
@@ -97,6 +101,3 @@ Heart break
 Baby and my heart is breakin'
 Ohh my heart is breakin'
 Ohh listen
-
-
-

@@ -1,9 +1,12 @@
 ---
+album: YHLQMDLG
 artists:
 - Bad Bunny
 - Sech
+external_ids:
+  spotify: spotify:track:3wYRLYuO1M88d8woWUIxct
 features: []
-genres: []
+first_released_as_single: true
 key: ignorantes-bad-bunny-sech
 lyrics_url: https://genius.com/Bad-bunny-and-sech-ignorantes-lyrics
 name: Ignorantes
@@ -20,6 +23,8 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '2020-03-21'
+release_year: 2020
+runtime: 210606
 ---
 Baby, este es Sech
 Bad Bunny, baby (Yeah)

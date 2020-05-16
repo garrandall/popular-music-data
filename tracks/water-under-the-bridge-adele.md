@@ -1,8 +1,11 @@
 ---
+album: 25 (The Piano Versions)
 artists:
 - Adele
+external_ids:
+  spotify: spotify:track:2Z0DJ4SdaEZtuCxfG7eSw6
 features: []
-genres: []
+first_released_as_single: false
 key: water-under-the-bridge-adele
 lyrics_url: https://www.azlyrics.com/lyrics/adele/waterunderthebridge.html
 name: Water Under The Bridge
@@ -95,8 +98,9 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '2017-04-22'
+release_year: 2015
+runtime: 233605
 ---
-
 If you're not the one for me
 Then how come I can bring you to your knees?
 If you're not the one for me
@@ -155,6 +159,3 @@ Say it ain't so, say it ain't so
 Say it ain't so, say it ain't so
 Say that our love ain't water under the bridge
 Say that our love ain't water under the bridge
-
-
-

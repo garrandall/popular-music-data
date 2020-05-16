@@ -1,8 +1,11 @@
 ---
+album: Mama Said Knock You Out
 artists:
 - LL Cool J
+external_ids:
+  spotify: spotify:track:0rDGGor6D1IHggV8UiUfEp
 features: []
-genres: []
+first_released_as_single: false
 key: 6-minutes-of-pleasure-ll-cool-j
 lyrics_url: https://www.azlyrics.com/lyrics/llcoolj/6minutesofpleasure.html
 name: 6 Minutes Of Pleasure
@@ -15,8 +18,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1991-09-21'
+release_year: 1990
+runtime: 274053
 ---
-
 Six minutes, six minutes
 Six minutes, six minutes
 
@@ -164,6 +168,3 @@ I know you don't love me
 But I ain't sayin nothin
 (I know why you're here)
 I ain't sayin
-
-
-

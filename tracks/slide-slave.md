@@ -1,8 +1,11 @@
 ---
+album: Slave
 artists:
 - Slave
+external_ids:
+  spotify: spotify:track:2du5UEJ0j38dZsbh9uSz7S
 features: []
-genres: []
+first_released_as_single: false
 key: slide-slave
 lyrics_url: https://genius.com/Slave-slide-lyrics
 name: Slide
@@ -59,6 +62,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1977-09-10'
+release_year: 1977
+runtime: 410466
 ---
 Yeah, slide to me
 Won't you come away?

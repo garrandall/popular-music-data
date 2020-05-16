@@ -1,8 +1,11 @@
 ---
+album: Just As I Am
 artists:
 - Brantley Gilbert
+external_ids:
+  spotify: spotify:track:0HZUp8fm9fh1Mitqx4CIOr
 features: []
-genres: []
+first_released_as_single: false
 key: bottoms-up-brantley-gilbert
 lyrics_url: https://www.azlyrics.com/lyrics/brantleygilbert/bottomsup.html
 name: Bottoms Up
@@ -107,8 +110,9 @@ rankings:
   rank: 38
   ranking_list: Billboard Hot 100
   start_date: '2014-06-21'
+release_year: 2014
+runtime: 220200
 ---
-
 I see you and me riding like Bonnie and Clyde
 Going ninety five burning down one twenty nine yeah
 Looking for the law, while I push my luck
@@ -185,6 +189,3 @@ Yeah tonight is bottoms up
 Get em up
 Tonight is bottoms up
 Get em up
-
-
-

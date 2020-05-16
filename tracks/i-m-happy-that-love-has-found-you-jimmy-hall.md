@@ -1,8 +1,11 @@
 ---
+album: Endless Beach
 artists:
 - Jimmy Hall
+external_ids:
+  spotify: spotify:track:6qu11Zs2tThpb68AMoTlKi
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-happy-that-love-has-found-you-jimmy-hall
 lyrics_url: https://genius.com/Jimmy-hall-im-happy-that-love-has-found-you-lyrics
 name: I'm Happy That Love Has Found You
@@ -75,6 +78,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1981-01-17'
+release_year: 1980
+runtime: 237266
 ---
 We could make it happen
 If we try a little harder

@@ -1,8 +1,11 @@
 ---
+album: Midnight Marauders
 artists:
 - A Tribe Called Quest
+external_ids:
+  spotify: spotify:track:5YTM7OgQDt9EJAYcfHLniJ
 features: []
-genres: []
+first_released_as_single: false
 key: award-tour-a-tribe-called-quest
 lyrics_url: https://genius.com/A-tribe-called-quest-award-tour-lyrics
 name: Award Tour
@@ -79,6 +82,8 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1994-03-05'
+release_year: 1993
+runtime: 226440
 ---
 We on Award Tour with Muhammad my man
 Going each and every place with the mic in their hand

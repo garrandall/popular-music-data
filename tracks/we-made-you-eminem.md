@@ -1,8 +1,11 @@
 ---
+album: 'Relapse: Refill'
 artists:
 - Eminem
+external_ids:
+  spotify: spotify:track:4UMTp91LHhvW33ol9ZQH0Q
 features: []
-genres: []
+first_released_as_single: false
 key: we-made-you-eminem
 lyrics_url: https://genius.com/Eminem-we-made-you-lyrics
 name: We Made You
@@ -47,6 +50,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '2009-07-04'
+release_year: 2009
+runtime: 269613
 ---
 Guess who? D'you miss me?
 Jessica Simpson, sing the chorus!

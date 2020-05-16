@@ -1,8 +1,11 @@
 ---
+album: Swimming
 artists:
 - Mac Miller
+external_ids:
+  spotify: spotify:track:4c00fD972rl8ubRxZnyI2B
 features: []
-genres: []
+first_released_as_single: true
 key: self-care-mac-miller
 lyrics_url: https://genius.com/Mac-miller-self-care-lyrics
 name: Self Care
@@ -19,6 +22,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2018-10-06'
+release_year: 2018
+runtime: 345133
 ---
 Mhm, mhm
 Yeah, yeah, yeah, yeah

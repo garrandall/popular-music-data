@@ -1,8 +1,11 @@
 ---
+album: 'Evidence: The Complete Fame Records Masters'
 artists:
 - Candi Staton
+external_ids:
+  spotify: spotify:track:5e83mRS8s0diKKryeNY0P9
 features: []
-genres: []
+first_released_as_single: false
 key: do-it-in-the-name-of-love-candi-staton
 lyrics_url: https://www.azlyrics.com/lyrics/candistaton/doitinthenameoflove.html
 name: Do It In The Name Of Love
@@ -43,8 +46,9 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '1973-03-31'
+release_year: 1973
+runtime: 181666
 ---
-
 You can make me talk so easy
 Boy, you sure know how
 To please me (oh yeah)
@@ -81,6 +85,3 @@ That's reason enough
 
 Do it in the name of love
 Oh, do it in the name of love
-
-
-

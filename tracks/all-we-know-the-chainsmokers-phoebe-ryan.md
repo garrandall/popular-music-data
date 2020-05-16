@@ -1,9 +1,12 @@
 ---
+album: All We Know
 artists:
 - The Chainsmokers
+external_ids:
+  spotify: spotify:track:2rizacJSyD9S1IQUxUxnsK
 features:
 - Phoebe Ryan
-genres: []
+first_released_as_single: true
 key: all-we-know-the-chainsmokers-phoebe-ryan
 lyrics_url: https://genius.com/The-chainsmokers-all-we-know-lyrics
 name: All We Know
@@ -72,6 +75,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2017-02-04'
+release_year: 2016
+runtime: 194080
 ---
 Fighting flames with fire
 Hang onto burning wires

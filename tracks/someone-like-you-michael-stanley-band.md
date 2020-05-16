@@ -1,8 +1,11 @@
 ---
+album: You Can't Fight Fashion
 artists:
 - Michael Stanley Band
+external_ids:
+  spotify: spotify:track:4rRqXbneAUDmXTWDh9WKAe
 features: []
-genres: []
+first_released_as_single: false
 key: someone-like-you-michael-stanley-band
 lyrics_url: https://www.musixmatch.com/lyrics/Michael-Stanley-Band/Someone-Like-You
 name: Someone Like You
@@ -27,6 +30,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1984-01-21'
+release_year: 1983
+runtime: 346000
 ---
 Vanished before your eyes
 And he took all your dreams alive

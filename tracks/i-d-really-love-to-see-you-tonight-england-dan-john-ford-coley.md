@@ -1,9 +1,12 @@
 ---
+album: Nights Are Forever
 artists:
 - England Dan
 - John Ford Coley
+external_ids:
+  spotify: spotify:track:2r008pcfVYc0zgQvSRqUJE
 features: []
-genres: []
+first_released_as_single: false
 key: i-d-really-love-to-see-you-tonight-england-dan-john-ford-coley
 lyrics_url: https://genius.com/England-dan-and-john-ford-coley-id-really-love-to-see-you-tonight-lyrics
 name: I'd Really Love To See You Tonight
@@ -104,6 +107,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1976-11-20'
+release_year: 1976
+runtime: 159106
 ---
 Hello, yeah, it's been a while
 Not much, how about you?

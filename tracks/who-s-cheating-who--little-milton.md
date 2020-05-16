@@ -1,8 +1,11 @@
 ---
+album: 'Little Milton: Chess 50th Anniversary Collection'
 artists:
 - Little Milton
+external_ids:
+  spotify: spotify:track:1IsaW2BvYIs0iN0VjeB3j1
 features: []
-genres: []
+first_released_as_single: false
 key: who-s-cheating-who--little-milton
 lyrics_url: https://www.musixmatch.com/lyrics/Little-Milton/Who-s-Cheating-Who
 name: Who's Cheating Who?
@@ -35,6 +38,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1965-07-24'
+release_year: 1965
+runtime: 177106
 ---
 You kiss me off
 To work in the morning

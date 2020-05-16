@@ -1,9 +1,12 @@
 ---
+album: Untrapped
 artists:
 - Yo Gotti
+external_ids:
+  spotify: spotify:track:6PRh0ilIMEP1xlUHqalnkD
 features:
 - Lil Baby
-genres: []
+first_released_as_single: true
 key: put-a-date-on-it-yo-gotti-lil-baby
 lyrics_url: https://www.azlyrics.com/lyrics/yogotti/putadateonit.html
 name: Put A Date On It
@@ -88,8 +91,9 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '2019-06-22'
+release_year: 2019
+runtime: 195257
 ---
-
 June, you're a genius
 Yeah (RamyOnTheBeat)
 
@@ -192,6 +196,3 @@ Rolls Royce truck on the way, cashed out for it (Cash)
 Still had to wait on it (Wait on it)
 Plug fucked around, sent the wrong damn kind (Bullshit)
 Nigga still had to pay for it (Hah)
-
-
-

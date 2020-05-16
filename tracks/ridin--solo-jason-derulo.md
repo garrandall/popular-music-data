@@ -1,8 +1,11 @@
 ---
+album: Jason Derulo
 artists:
 - Jason Derulo
+external_ids:
+  spotify: spotify:track:6BaxqcoEM9r3LXisTyJjST
 features: []
-genres: []
+first_released_as_single: false
 key: ridin--solo-jason-derulo
 lyrics_url: https://www.azlyrics.com/lyrics/jasonderulo/ridinsolo.html
 name: Ridin' Solo
@@ -119,8 +122,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2010-10-23'
+release_year: 2010
+runtime: 215746
 ---
-
 I'm feeling like a star
 You can't stop my shine
 I'm loving cloud nine
@@ -209,6 +213,3 @@ I'm solo, I'm riding solo, I'm riding solo, I'm riding solo, solo
 I'm riding solo, I'm riding solo, solo
 
 I'm riding solo, solo, I'm riding solo, solo
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: 24K Magic
 artists:
 - Bruno Mars
+external_ids:
+  spotify: spotify:track:0kN8xEmgMW9mh7UmDYHlJP
 features: []
-genres: []
+first_released_as_single: false
 key: versace-on-the-floor-bruno-mars
 lyrics_url: https://genius.com/Bruno-mars-versace-on-the-floor-lyrics
 name: Versace On The Floor
@@ -63,6 +66,8 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '2017-09-30'
+release_year: 2016
+runtime: 261240
 ---
 Let's take our time tonight, girl
 Above us all the stars are watchin'

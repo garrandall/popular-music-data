@@ -1,8 +1,11 @@
 ---
+album: A Star Is Born Soundtrack
 artists:
 - Bradley Cooper
+external_ids:
+  spotify: spotify:track:6jMbPsH6lTOLs5n8Af26AG
 features: []
-genres: []
+first_released_as_single: false
 key: maybe-it-s-time-bradley-cooper
 lyrics_url: https://genius.com/Bradley-cooper-maybe-its-time-lyrics
 name: Maybe It's Time
@@ -11,6 +14,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2018-10-20'
+release_year: 2018
+runtime: 159293
 ---
 Maybe it's time to let the old ways die
 Maybe it's time to let the old ways die

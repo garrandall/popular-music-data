@@ -1,8 +1,11 @@
 ---
+album: The Christmas Song
 artists:
 - Nat King Cole
+external_ids:
+  spotify: spotify:track:4PS1e8f2LvuTFgUs1Cn3ON
 features: []
-genres: []
+first_released_as_single: false
 key: the-christmas-song--merry-christmas-to-you--nat-king-cole
 lyrics_url: https://www.azlyrics.com/lyrics/natkingcole/thechristmassongmerrychristmastoyou.html
 name: The Christmas Song (Merry Christmas To You)
@@ -91,8 +94,9 @@ rankings:
   rank: 16
   ranking_list: Billboard Hot 100
   start_date: '2020-01-04'
+release_year: 1960
+runtime: 192160
 ---
-
 Chestnuts roasting on an open fire
 Jack Frost nipping at your nose
 Yuletide carols being sung by a choir
@@ -117,6 +121,3 @@ And so I'm offering this simple phrase
 To kids from one to ninety-two
 Although it's been said many times, many ways
 Merry Christmas to you
-
-
-

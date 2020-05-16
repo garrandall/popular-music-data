@@ -1,8 +1,11 @@
 ---
+album: Electric Comic Book
 artists:
 - Blues Magoos
+external_ids:
+  spotify: spotify:track:6yMy557ei2JnMR7boHTlX2
 features: []
-genres: []
+first_released_as_single: false
 key: there-s-a-chance-we-can-make-it-blues-magoos
 lyrics_url: https://genius.com/Blues-magoos-theres-a-chance-we-can-make-it-lyrics
 name: There's A Chance We Can Make It
@@ -15,6 +18,8 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1967-04-15'
+release_year: 1967
+runtime: 133440
 ---
 Other girls are never quite like you
 Do you know I'm lonely

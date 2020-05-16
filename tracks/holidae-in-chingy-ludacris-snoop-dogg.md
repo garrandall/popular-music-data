@@ -1,10 +1,13 @@
 ---
+album: Jackpot
 artists:
 - Chingy
+external_ids:
+  spotify: spotify:track:0FmCLEHfINGqwlyzvklNqy
 features:
 - Ludacris
 - Snoop Dogg
-genres: []
+first_released_as_single: false
 key: holidae-in-chingy-ludacris-snoop-dogg
 lyrics_url: https://www.azlyrics.com/lyrics/chingy/holidaein.html
 name: Holidae In
@@ -93,9 +96,9 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '2004-02-07'
+release_year: 2003
+runtime: 314400
 ---
-
-
 Bomb ass pussy
 Ma oh you got that bomb, know you got it
 Ma oh, you got some bomb ass pussy
@@ -185,6 +188,3 @@ Know what I'm talking bout, so push the button
 You know what's happenin', fa shizzle, uh huh
 Yeah bitch, trying to run from this pimpin'
 You can't out run the pimpin' bitch, I done told you
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Gap Band 3
 artists:
 - The Gap Band
+external_ids:
+  spotify: spotify:track:7HSPg09lgr8VySgmQXNfE9
 features: []
-genres: []
+first_released_as_single: false
 key: burn-rubber--why-you-wanna-hurt-me--the-gap-band
 lyrics_url: https://www.azlyrics.com/lyrics/gapband/burnrubberonmewhyyouwannahurtme.html
 name: Burn Rubber (Why You Wanna Hurt Me)
@@ -39,8 +42,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1981-04-18'
+release_year: 1980
+runtime: 333226
 ---
-
 Woo, I gave you my money, I gave you my time
 Why you wanna hurt me, girl
 Are you serious, I'm just curious
@@ -122,7 +126,4 @@ NO, no, no, no
 I never, ever had a lover
 Who put the pedal to the metal 
 And burned rubber on me, Charlie
-NO, no, no, no, no, no 
-
-
-
+NO, no, no, no, no, no

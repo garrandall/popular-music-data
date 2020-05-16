@@ -1,8 +1,11 @@
 ---
+album: No More Games/The Remix Album
 artists:
 - New Kids On The Block
+external_ids:
+  spotify: spotify:track:5MEqpdcWOsBt6GrLzaQvdT
 features: []
-genres: []
+first_released_as_single: false
 key: step-by-step-new-kids-on-the-block
 lyrics_url: https://genius.com/New-kids-on-the-block-step-by-step-lyrics
 name: Step By Step
@@ -67,6 +70,8 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1990-09-01'
+release_year: 1986
+runtime: 266693
 ---
 Step by step, oh baby
 Gonna get to you, girl

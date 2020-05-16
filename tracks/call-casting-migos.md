@@ -1,8 +1,11 @@
 ---
+album: Culture
 artists:
 - Migos
+external_ids:
+  spotify: spotify:track:0cDmmHP8wDLNhAg9AMdxjL
 features: []
-genres: []
+first_released_as_single: false
 key: call-casting-migos
 lyrics_url: https://genius.com/Migos-call-casting-lyrics
 name: Call Casting
@@ -11,6 +14,8 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '2017-02-18'
+release_year: 2017
+runtime: 232532
 ---
 Buddah bless this beat
 That's a fool, nah

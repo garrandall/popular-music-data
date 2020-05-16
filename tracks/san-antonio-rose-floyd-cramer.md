@@ -1,8 +1,11 @@
 ---
+album: On the Rebound
 artists:
 - Floyd Cramer
+external_ids:
+  spotify: spotify:track:0WnESCgrJ4XBxlsnHMECtl
 features: []
-genres: []
+first_released_as_single: false
 key: san-antonio-rose-floyd-cramer
 lyrics_url: https://genius.com/Floyd-cramer-san-antonio-rose-lyrics
 name: San Antonio Rose
@@ -55,6 +58,8 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '1961-08-21'
+release_year: 1961
+runtime: 139586
 ---
 Deep within my heart lies a melody
 A song of old San Antone

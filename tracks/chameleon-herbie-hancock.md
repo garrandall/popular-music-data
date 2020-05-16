@@ -1,8 +1,11 @@
 ---
+album: Head Hunters
 artists:
 - Herbie Hancock
+external_ids:
+  spotify: spotify:track:0sMhsWf2Ye6DqlfZF06nAF
 features: []
-genres: []
+first_released_as_single: false
 key: chameleon-herbie-hancock
 name: Chameleon
 rankings:
@@ -50,5 +53,7 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '1974-06-01'
+release_year: 1973
+runtime: 459266
 ---
 

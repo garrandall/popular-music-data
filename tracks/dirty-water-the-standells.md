@@ -1,8 +1,11 @@
 ---
+album: Dirty Water
 artists:
 - The Standells
+external_ids:
+  spotify: spotify:track:7ejC8kgj8YviaDpq1xr3DC
 features: []
-genres: []
+first_released_as_single: true
 key: dirty-water-the-standells
 lyrics_url: https://genius.com/The-standells-dirty-water-lyrics
 name: Dirty Water
@@ -71,6 +74,8 @@ rankings:
   rank: 31
   ranking_list: Billboard Hot 100
   start_date: '1966-08-06'
+release_year: 1966
+runtime: 169280
 ---
 I'm gonna tell you a story
 I'm gonna tell you about my town

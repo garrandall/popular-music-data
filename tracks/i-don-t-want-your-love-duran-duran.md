@@ -1,8 +1,11 @@
 ---
+album: Big Thing
 artists:
 - Duran Duran
+external_ids:
+  spotify: spotify:track:0AUys3I9ow0KSaqew5esK7
 features: []
-genres: []
+first_released_as_single: false
 key: i-don-t-want-your-love-duran-duran
 lyrics_url: https://genius.com/Duran-duran-i-dont-want-your-love-lyrics
 name: I Don't Want Your Love
@@ -71,6 +74,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1989-01-28'
+release_year: 1988
+runtime: 246386
 ---
 I don't mind if you're keeping someone else behind
 I don't care cause you've got something I can share

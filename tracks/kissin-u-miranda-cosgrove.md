@@ -1,8 +1,11 @@
 ---
+album: Sparks Fly (Deluxe Version)
 artists:
 - Miranda Cosgrove
+external_ids:
+  spotify: spotify:track:3pt4BDnaMo2vznoVSv7b2y
 features: []
-genres: []
+first_released_as_single: false
 key: kissin-u-miranda-cosgrove
 lyrics_url: https://www.azlyrics.com/lyrics/mirandacosgrove/kissinu.html
 name: Kissin U
@@ -67,8 +70,9 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2010-09-18'
+release_year: 2010
+runtime: 199693
 ---
-
 Sparks fly,
 It's like electricity
 I might die
@@ -137,6 +141,3 @@ When I'm kissing you it all starts making sense
 And all the questions I've been asking in my head
 Like, "Are you the one? Should I really trust?"
 Crystal clear it becomes when I'm kissing you
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Jeannie
 artists:
 - Jeannie C. Riley
+external_ids:
+  spotify: spotify:track:2f7hYdosPuCyM6fThwMZLM
 features: []
-genres: []
+first_released_as_single: false
 key: good-enough-to-be-your-wife-jeannie-c--riley
 lyrics_url: https://genius.com/Jeannie-c-riley-good-enough-to-be-your-wife-lyrics
 name: Good Enough To Be Your Wife
@@ -23,6 +26,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1971-08-21'
+release_year: 1971
+runtime: 167333
 ---
 You ask me if we con live together
 Marriage doesn't fit your way of life

@@ -1,8 +1,11 @@
 ---
+album: To Be True
 artists:
 - Harold Melvin And The Blue Notes
+external_ids:
+  spotify: spotify:track:5dvDOfh95xQ7MtqeC0J5cc
 features: []
-genres: []
+first_released_as_single: false
 key: where-are-all-my-friends-harold-melvin-and-the-blue-notes
 lyrics_url: https://genius.com/Harold-melvin-and-the-blue-notes-where-are-all-my-friends-lyrics
 name: Where Are All My Friends
@@ -31,6 +34,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1974-12-14'
+release_year: 1972
+runtime: 200266
 ---
 Where are all my friends
 Oh Lord, oh Lord

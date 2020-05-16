@@ -1,8 +1,11 @@
 ---
+album: Stay Hungry
 artists:
 - Twisted Sister
+external_ids:
+  spotify: spotify:track:70Z9t1qhytWtG4cCmmi7mU
 features: []
-genres: []
+first_released_as_single: false
 key: i-wanna-rock-twisted-sister
 lyrics_url: https://genius.com/Twisted-sister-i-wanna-rock-lyrics
 name: I Wanna Rock
@@ -35,6 +38,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1984-12-01'
+release_year: 1984
+runtime: 179760
 ---
 I wanna rock! (Rock)
 I wanna rock! (Rock)

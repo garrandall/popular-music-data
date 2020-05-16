@@ -1,8 +1,11 @@
 ---
+album: Chronicles
 artists:
 - Tom Jones
+external_ids:
+  spotify: spotify:track:0VJxLuWZw4D4vHM7ZQJNbh
 features: []
-genres: []
+first_released_as_single: false
 key: promise-her-anything-tom-jones
 lyrics_url: https://www.azlyrics.com/lyrics/tomjones/promiseheranything.html
 name: Promise Her Anything
@@ -23,8 +26,9 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '1966-03-12'
+release_year: 1966
+runtime: 154146
 ---
-
 She doesn't really want things 
 That you can never get
 Still every now and then
@@ -55,6 +59,3 @@ Just love will do
 Promise her anything 
 But don't you ever
 Let her get away from you
-
-
-

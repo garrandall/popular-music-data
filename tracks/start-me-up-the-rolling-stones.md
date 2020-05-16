@@ -1,8 +1,11 @@
 ---
+album: Tattoo You (2009 Re-Mastered)
 artists:
 - The Rolling Stones
+external_ids:
+  spotify: spotify:track:7HKez549fwJQDzx3zLjHKC
 features: []
-genres: []
+first_released_as_single: false
 key: start-me-up-the-rolling-stones
 lyrics_url: https://genius.com/The-rolling-stones-start-me-up-lyrics
 name: Start Me Up
@@ -103,6 +106,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1982-01-30'
+release_year: 1981
+runtime: 213066
 ---
 If you start me up
 If you start me up, I'll never stop

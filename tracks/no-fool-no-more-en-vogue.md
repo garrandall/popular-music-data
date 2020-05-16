@@ -1,8 +1,11 @@
 ---
+album: Hits From the Movies
 artists:
 - En Vogue
+external_ids:
+  spotify: spotify:track:6rznBy0Ox2G7O8VTFGCn3o
 features: []
-genres: []
+first_released_as_single: false
 key: no-fool-no-more-en-vogue
 lyrics_url: https://www.azlyrics.com/lyrics/envogue/nofoolnomore.html
 name: No Fool No More
@@ -39,8 +42,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1998-11-28'
+release_year: 1998
+runtime: 257573
 ---
-
 Packed up all the pain
 Left the tears outside my door
 And I'm not gonna be the one
@@ -136,6 +140,3 @@ And I'm not gonna be no fool no more
 No fool no more (no fool no more)
 Not like before (not like before)
 Not the way it used to be
-
-
-

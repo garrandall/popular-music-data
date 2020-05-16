@@ -1,8 +1,11 @@
 ---
+album: Good Music
 artists:
 - Joan Jett & the Blackhearts
+external_ids:
+  spotify: spotify:track:1uizH33y71PDnU3vjTwWjL
 features: []
-genres: []
+first_released_as_single: false
 key: good-music-joan-jett-the-blackhearts
 lyrics_url: https://www.azlyrics.com/lyrics/joanjettandtheblackhearts/goodmusic.html
 name: Good Music
@@ -31,8 +34,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1986-11-15'
+release_year: 1986
+runtime: 345000
 ---
-
 Everyone that I can see is gettin' right in tow
 Changin' songs to be on the radio
 Now there are things that I believe in
@@ -65,6 +69,3 @@ Oh, oh, oh, oh, oh, oh
 I need good music--Good good music
 It always feels so good to hear good music
 It always feels so good to hear good music
-
-
-

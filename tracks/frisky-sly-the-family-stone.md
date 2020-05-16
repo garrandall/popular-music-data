@@ -1,9 +1,12 @@
 ---
+album: Fresh
 artists:
 - Sly
 - The Family Stone
+external_ids:
+  spotify: spotify:track:3CG5a5vgvGdsoTlEHNMMc2
 features: []
-genres: []
+first_released_as_single: false
 key: frisky-sly-the-family-stone
 lyrics_url: https://www.azlyrics.com/lyrics/slythefamilystone/frisky.html
 name: Frisky
@@ -16,8 +19,9 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1973-12-01'
+release_year: 1973
+runtime: 191626
 ---
-
 I'll be down, when you're gone
 Call me back on the telephone
 Lil ole, lil ole, lil ole name and a title
@@ -56,6 +60,3 @@ Didn't wait too long
 I long for sunday
 When I don't feel strong
 Get down somethin' Frisky
-
-
-

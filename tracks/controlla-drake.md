@@ -1,8 +1,11 @@
 ---
+album: Views
 artists:
 - Drake
+external_ids:
+  spotify: spotify:track:3O8NlPh2LByMU9lSRSHedm
 features: []
-genres: []
+first_released_as_single: false
 key: controlla-drake
 lyrics_url: https://genius.com/Drake-controlla-lyrics
 name: Controlla
@@ -111,6 +114,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2016-11-12'
+release_year: 2016
+runtime: 245226
 ---
 Right, my yiy just changed
 You just buzzed the front gate

@@ -1,8 +1,11 @@
 ---
+album: COOL RELAX
 artists:
 - Jon B
+external_ids:
+  spotify: spotify:track:3ixP8zvULiFbqVYpIgu334
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-say-jon-b
 lyrics_url: https://genius.com/Jon-b-dont-say-lyrics
 name: Don't Say
@@ -67,6 +70,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1997-12-06'
+release_year: 1995
+runtime: 288240
 ---
 Don't say what you won't do
 You know you'll be the first one

@@ -1,8 +1,11 @@
 ---
+album: Down 4 Whateva
 artists:
 - Nuttin' Nyce
+external_ids:
+  spotify: spotify:track:4OhfEUz7d5si8CFLHx9WIR
 features: []
-genres: []
+first_released_as_single: false
 key: froggy-style-nuttin--nyce
 lyrics_url: https://genius.com/Nuttin-nyce-froggystyle-lyrics
 name: Froggy Style
@@ -59,6 +62,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1995-08-19'
+release_year: 1993
+runtime: 253600
 ---
 This is the story about a dog
 A female dog

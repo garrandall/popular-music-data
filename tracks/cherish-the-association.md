@@ -1,8 +1,11 @@
 ---
+album: And Then...Along Comes
 artists:
 - The Association
+external_ids:
+  spotify: spotify:track:7uGeDI6nJEdUYMsMd7mQyl
 features: []
-genres: []
+first_released_as_single: false
 key: cherish-the-association
 lyrics_url: https://www.azlyrics.com/lyrics/association/cherish.html
 name: Cherish
@@ -63,8 +66,9 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1966-11-26'
+release_year: 1966
+runtime: 207133
 ---
-
 Cherish is the word I use to describe
 All the feeling that I have
 Hiding here for you inside
@@ -122,6 +126,3 @@ And I do
 Cherish you
 
 Cherish is the word
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: 7 Wishes
 artists:
 - Night Ranger
+external_ids:
+  spotify: spotify:track:2wJKOumHoIOJGLM93oufqE
 features: []
-genres: []
+first_released_as_single: false
 key: four-in-the-morning--i-can-t-take-anymore--night-ranger
 lyrics_url: https://genius.com/Night-ranger-four-in-the-morning-lyrics
 name: Four In The Morning (I Can't Take Anymore)
@@ -59,6 +62,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1985-11-16'
+release_year: 1985
+runtime: 234733
 ---
 Four in the morning
 Came without a warning

@@ -1,11 +1,14 @@
 ---
+album: CARNIVAL VOL. II...Memoirs of an Immigrant
 artists:
 - Wyclef Jean
+external_ids:
+  spotify: spotify:track:4liGjmhCupa7RP9JaQELYx
 features:
 - Akon
 - Lil Wayne
 - Niia
-genres: []
+first_released_as_single: true
 key: sweetest-girl--dollar-bill--wyclef-jean-akon-lil-wayne-niia
 lyrics_url: https://www.azlyrics.com/lyrics/wyclefjean/sweetestgirldollarbill.html
 name: Sweetest Girl (Dollar Bill)
@@ -122,10 +125,9 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '2008-04-05'
+release_year: 2007
+runtime: 241133
 ---
-
-
-
 Ah ah ah ah
 
 
@@ -224,6 +226,3 @@ Some steal for the bill,
 If they got to pay the bill (oh where my money at?)
 Tonight Wyclef, Akon, Weezy on the bill
 (oh) were my money at?
-
-
-

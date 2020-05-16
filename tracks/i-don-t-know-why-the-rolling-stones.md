@@ -1,8 +1,11 @@
 ---
+album: Metamorphosis
 artists:
 - The Rolling Stones
+external_ids:
+  spotify: spotify:track:4Fo647WpC9gj1BadFxCgKI
 features: []
-genres: []
+first_released_as_single: false
 key: i-don-t-know-why-the-rolling-stones
 lyrics_url: https://genius.com/The-rolling-stones-i-dont-know-why-lyrics
 name: I Don't Know Why
@@ -31,6 +34,8 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '1975-07-19'
+release_year: 1975
+runtime: 180600
 ---
 I don't know why I love you, babe
 I don't know why I love you

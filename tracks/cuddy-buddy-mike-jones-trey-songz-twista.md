@@ -1,10 +1,13 @@
 ---
+album: Cuddy Buddy
 artists:
 - Mike Jones
+external_ids:
+  spotify: spotify:track:2AtD3bKq0VGdmBGNeOxNoi
 features:
 - Trey Songz
 - Twista
-genres: []
+first_released_as_single: true
 key: cuddy-buddy-mike-jones-trey-songz-twista
 lyrics_url: https://genius.com/Mike-jones-cuddy-buddy-amended-lyrics
 name: Cuddy Buddy
@@ -21,6 +24,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2008-11-15'
+release_year: 2008
+runtime: 285930
 ---
 (feat. Trey Songz, Lil Wayne, Twista)
 

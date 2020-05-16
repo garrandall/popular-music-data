@@ -1,9 +1,12 @@
 ---
+album: Booty Wurk (One Cheek At a Time)
 artists:
 - T-Pain
+external_ids:
+  spotify: spotify:track:4gdx3sBwgfZTZAqxKzQVTA
 features:
 - Joey Galaxy
-genres: []
+first_released_as_single: true
 key: booty-wurk--one-cheek-at-a-time--t-pain-joey-galaxy
 lyrics_url: https://genius.com/T-pain-booty-wurk-one-cheek-at-a-time-lyrics
 name: Booty Wurk (One Cheek At A Time)
@@ -36,6 +39,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2011-09-10'
+release_year: 2011
+runtime: 235733
 ---
 Gotta be cool baby, ya know what I'm saying
 

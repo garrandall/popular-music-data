@@ -1,8 +1,11 @@
 ---
+album: I Still Know What You Did Last Summer Soundtrack
 artists:
 - Jennifer Love Hewitt
+external_ids:
+  spotify: spotify:track:3LtwPeiF7qpP6YFLn9D6K9
 features: []
-genres: []
+first_released_as_single: false
 key: how-do-i-deal-jennifer-love-hewitt
 lyrics_url: https://www.azlyrics.com/lyrics/jenniferlovehewitt/howdoideal.html
 name: How Do I Deal
@@ -39,8 +42,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1999-03-27'
+release_year: 1998
+runtime: 203826
 ---
-
 Every day I wake up to another day gone by 
 Nothing but the open road and the never-ending why 
 Anything can happen, yeah, but nothin ever does 
@@ -101,6 +105,3 @@ How do I deal
 How do I 
 How do I 
 How do I deal with you (How do I deal)
-
-
-

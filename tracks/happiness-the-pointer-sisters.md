@@ -1,8 +1,11 @@
 ---
+album: Energy
 artists:
 - The Pointer Sisters
+external_ids:
+  spotify: spotify:track:1tif2Eky57NXDN4rHJz9i7
 features: []
-genres: []
+first_released_as_single: false
 key: happiness-the-pointer-sisters
 lyrics_url: https://www.azlyrics.com/lyrics/pointersisters/happiness.html
 name: Happiness
@@ -47,8 +50,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1979-05-19'
+release_year: 1978
+runtime: 239933
 ---
-
 I love the way you love to live
 You got life, you're inspiration
 I love the way that you do
@@ -84,6 +88,3 @@ Keep it coming, keep it coming
 Keep it coming, coming
 Keep it coming, keep it coming
 Keep it, keep it coming
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Super Hits
 artists:
 - Chuck Jackson
+external_ids:
+  spotify: spotify:track:4qpH2D4VQfOCdV7zYkt8Hr
 features: []
-genres: []
+first_released_as_single: false
 key: -it-never-happens--in-real-life-chuck-jackson
 lyrics_url: https://genius.com/Chuck-jackson-in-real-life-lyrics
 name: (It Never Happens) In Real Life
@@ -35,6 +38,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1961-05-22'
+release_year: 1961
+runtime: 165440
 ---
 (It never happens)
 (It never happens)

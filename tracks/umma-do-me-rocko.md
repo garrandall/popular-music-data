@@ -1,8 +1,11 @@
 ---
+album: Self-Made
 artists:
 - Rocko
+external_ids:
+  spotify: spotify:track:7mkxulZYVThqxy4qhe0P6N
 features: []
-genres: []
+first_released_as_single: true
 key: umma-do-me-rocko
 lyrics_url: https://www.azlyrics.com/lyrics/rocko/ummadome.html
 name: Umma Do Me
@@ -51,8 +54,9 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '2008-05-03'
+release_year: 2007
+runtime: 231666
 ---
-
 Umma do me, umma do me, umma do me
 You just do you, umma do me, umma do me, umma do me
 Umma do me, umma do me, umma do me
@@ -121,6 +125,3 @@ Wanna see how it's done? Then watch me do me,
 Watch me do me, watch me do me
 Wanna see how it's done? Then watch me do me,
 Watch me do me, watch me do me
-
-
-

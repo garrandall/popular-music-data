@@ -1,9 +1,12 @@
 ---
+album: You Smile - The Song Begins
 artists:
 - Herb Alpert
 - The Tijuana Brass
+external_ids:
+  spotify: spotify:track:0OW3wyT4U5wVXrclGNktXR
 features: []
-genres: []
+first_released_as_single: false
 key: fox-hunt-herb-alpert-the-tijuana-brass
 name: Fox Hunt
 rankings:
@@ -31,5 +34,7 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1974-06-22'
+release_year: 1974
+runtime: 159346
 ---
 

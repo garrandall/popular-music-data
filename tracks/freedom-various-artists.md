@@ -1,8 +1,11 @@
 ---
+album: 'Hal Willner Presents Weird Nightmare: Meditations On Mingus'
 artists:
 - Various Artists
+external_ids:
+  spotify: spotify:track:799Y7lqTB9BOep5RFOyqbv
 features: []
-genres: []
+first_released_as_single: false
 key: freedom-various-artists
 name: Freedom
 rankings:
@@ -58,5 +61,7 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1995-07-15'
+release_year: 1992
+runtime: 171840
 ---
 

@@ -1,8 +1,11 @@
 ---
+album: Fairytale
 artists:
 - Donovan
+external_ids:
+  spotify: spotify:track:0iu1gNzTarKKEPHldjoEd8
 features: []
-genres: []
+first_released_as_single: false
 key: universal-soldier-donovan
 lyrics_url: https://www.azlyrics.com/lyrics/donovan/universalsoldier.html
 name: Universal Soldier
@@ -35,8 +38,9 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '1965-11-06'
+release_year: 1965
+runtime: 131800
 ---
-
 He's five foot-two, and he's six feet-four,
 He fights with missiles and with spears.
 He's all of thirty-one, and he's only seventeen,
@@ -74,6 +78,3 @@ His orders come from far away no more,
 They come from here and there and you and me,
 And brothers can't you see,
 This is not the way we put the end to war?
-
-
-

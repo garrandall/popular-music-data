@@ -1,8 +1,11 @@
 ---
+album: Ludacris Presents...Disturbing Tha Peace
 artists:
 - Shawnna
+external_ids:
+  spotify: spotify:track:0OV2bt36Ol5aRVcybGGbjF
 features: []
-genres: []
+first_released_as_single: false
 key: gettin--some-shawnna
 lyrics_url: https://genius.com/Shawnna-gettin-some-lyrics
 name: Gettin' Some
@@ -83,6 +86,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2006-08-05'
+release_year: 2005
+runtime: 203760
 ---
 I was gettin some head
 Gettin, gettin some head

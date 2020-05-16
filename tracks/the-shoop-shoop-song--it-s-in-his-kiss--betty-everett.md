@@ -1,8 +1,11 @@
 ---
+album: 'The Vee-Jay Story: Celebrating 40 Years Of Classic Hits'
 artists:
 - Betty Everett
+external_ids:
+  spotify: spotify:track:1gr8gZxyEnh4sElscfXKGF
 features: []
-genres: []
+first_released_as_single: false
 key: the-shoop-shoop-song--it-s-in-his-kiss--betty-everett
 lyrics_url: https://genius.com/Betty-everett-the-shoop-shoop-song-its-in-his-kiss-lyrics
 name: The Shoop Shoop Song (It's In His Kiss)
@@ -59,6 +62,8 @@ rankings:
   rank: 38
   ranking_list: Billboard Hot 100
   start_date: '1964-05-23'
+release_year: 1964
+runtime: 143327
 ---
 Does he love me? I wanna know
 How can I tell if he loves me so?

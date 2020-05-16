@@ -1,8 +1,11 @@
 ---
+album: King Solomon
 artists:
 - Solomon Burke
+external_ids:
+  spotify: spotify:track:3eHXM0MTGfOcDMQ7rHJmPy
 features: []
-genres: []
+first_released_as_single: false
 key: take-me--just-as-i-am--solomon-burke
 lyrics_url: https://www.azlyrics.com/lyrics/solomonburke/takemejustasiam.html
 name: Take Me (Just As I Am)
@@ -27,8 +30,9 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '1967-07-29'
+release_year: 1967
+runtime: 183293
 ---
-
 Some folks think I'm a millionaire
 But they don't really know
 All the bills, the burdens
@@ -85,6 +89,3 @@ Everybody, clap your hands one time
 
 Oh my, my, my, my, my
 Makes you wanna moan a little bit
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: KC & The Sunshine Band - Part 3...And More
 artists:
 - KC And The Sunshine Band
+external_ids:
+  spotify: spotify:track:1q1pDAxWCQHvsEVZb1IPpP
 features: []
-genres: []
+first_released_as_single: true
 key: -shake-shake-shake--shake-your-booty-kc-and-the-sunshine-band
 lyrics_url: https://www.azlyrics.com/lyrics/kcandthesunshineband/shakeshakeshakeshakeyourbooty.html
 name: (Shake Shake Shake) Shake Your Booty
@@ -91,8 +94,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1976-11-27'
+release_year: 1976
+runtime: 186266
 ---
-
 Ah, everybody, get on the floor
 Let's dance
 Don't fight the feeling
@@ -140,6 +144,3 @@ Ah, run down to sister
 Shake shake (come on), shake shake (come on) on your booty
 Ah! do your duty. Ah haa
 Shake shake (come on), shake shake (come on)
-
-
-

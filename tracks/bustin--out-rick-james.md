@@ -1,8 +1,11 @@
 ---
+album: Bustin' Out of L Seven
 artists:
 - Rick James
+external_ids:
+  spotify: spotify:track:2QPY57zbUXnQ6zNNpEdZyX
 features: []
-genres: []
+first_released_as_single: false
 key: bustin--out-rick-james
 lyrics_url: https://www.azlyrics.com/lyrics/rickjames/bustinoutonfunk.html
 name: Bustin' Out
@@ -31,8 +34,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1979-06-16'
+release_year: 1979
+runtime: 318533
 ---
-
 Well all right you squares it's time you smoked
 Fire up this funk and let's have a toke
 It'll make you dance and some of everything
@@ -98,6 +102,3 @@ We're bustin' out on some serious funk
 We're bustin' out on the funk
 We're bustin' out on some serious funk
 Bustin' out
-
-
-

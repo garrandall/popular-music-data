@@ -1,8 +1,11 @@
 ---
+album: Man of the Woods
 artists:
 - Justin Timberlake
+external_ids:
+  spotify: spotify:track:4KTU5aa5s547f1JF5DImhF
 features: []
-genres: []
+first_released_as_single: false
 key: man-of-the-woods-justin-timberlake
 lyrics_url: https://www.azlyrics.com/lyrics/justintimberlake/manofthewoods.html
 name: Man Of The Woods
@@ -11,8 +14,9 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '2018-02-17'
+release_year: 2018
+runtime: 243986
 ---
-
 I brag about you to anyone outside
 But I'm a man of the woods, it's my pride
 I'm sorry baby, you know I try
@@ -84,6 +88,3 @@ A man of the woods and you're my pride
 Ohh, hey, hey
 A man of the woods, it's my pride
 Now let the beat ride like...
-
-
-

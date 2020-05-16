@@ -1,8 +1,11 @@
 ---
+album: Science & Faith
 artists:
 - The Script
+external_ids:
+  spotify: spotify:track:09ZcYBGFX16X8GMDrvqQwt
 features: []
-genres: []
+first_released_as_single: false
 key: for-the-first-time-the-script
 lyrics_url: https://genius.com/The-script-for-the-first-time-lyrics
 name: For The First Time
@@ -123,6 +126,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '2011-07-30'
+release_year: 2011
+runtime: 252853
 ---
 She's all laid up in bed with a broken heart
 While I'm drinking Jack all alone in my local bar

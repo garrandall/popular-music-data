@@ -1,8 +1,11 @@
 ---
+album: Greatest Hits Volume One - The Singles
 artists:
 - Goo Goo Dolls
+external_ids:
+  spotify: spotify:track:4kmGRW1BgoKendL6V7cz29
 features: []
-genres: []
+first_released_as_single: false
 key: before-it-s-too-late--sam-and-mikaela-s-theme--goo-goo-dolls
 lyrics_url: https://genius.com/Goo-goo-dolls-before-its-too-late-lyrics
 name: Before It's Too Late (Sam And Mikaela's Theme)
@@ -19,6 +22,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2007-08-04'
+release_year: 2007
+runtime: 187760
 ---
 I wander through fiction to look for the truth
 Buried beneath all the lies

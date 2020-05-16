@@ -1,8 +1,11 @@
 ---
+album: ASTROWORLD
 artists:
 - Travis Scott
+external_ids:
+  spotify: spotify:track:11kDth1aKUEUMq9r1pqyds
 features: []
-genres: []
+first_released_as_single: false
 key: 5--tint-travis-scott
 lyrics_url: https://www.azlyrics.com/lyrics/travisscott/5tint.html
 name: 5% Tint
@@ -15,8 +18,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2018-08-25'
+release_year: 2018
+runtime: 196138
 ---
-
 Who's that creeping through my window?
 Before you come outside I got the info
 Took her to the endzone from the Enzo
@@ -70,6 +74,3 @@ Took her to the end zone from the Enzo (yeah)
 Know I love to smoke, you love to lick more (lick)
 Wanna hit the Jack then what you call for? (Jack)
 All that out your new shit that ain't called for
-
-
-

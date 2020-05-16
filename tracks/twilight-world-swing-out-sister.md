@@ -1,8 +1,11 @@
 ---
+album: It's Better To Travel
 artists:
 - Swing Out Sister
+external_ids:
+  spotify: spotify:track:52LRCeDADRBJmxqoT562yK
 features: []
-genres: []
+first_released_as_single: false
 key: twilight-world-swing-out-sister
 lyrics_url: https://www.azlyrics.com/lyrics/swingoutsister/twilightworld.html
 name: Twilight World
@@ -67,8 +70,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1988-03-26'
+release_year: 1987
+runtime: 389386
 ---
-
 It's twilight world 
 
 It's twilight world 
@@ -119,6 +123,3 @@ Don't be fooled by love songs and lonely hearts
 You're living in a twilight world
 Don't be fooled by love songs and lonely hearts
 Don't give in to the twilight world
-
-
-

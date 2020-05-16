@@ -1,8 +1,11 @@
 ---
+album: No Frills
 artists:
 - Bette Midler
+external_ids:
+  spotify: spotify:track:6TgqY8Vfm4StBe8hsxi3Ti
 features: []
-genres: []
+first_released_as_single: false
 key: beast-of-burden-bette-midler
 lyrics_url: https://www.azlyrics.com/lyrics/bettemidler/beastofburden.html
 name: Beast Of Burden
@@ -31,8 +34,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1984-03-17'
+release_year: 1983
+runtime: 225866
 ---
-
 Now write this down!
 
 I'll never be your beast of burden.
@@ -82,6 +86,3 @@ too blind to see? Too blind, too blind, oh!
 I'll never be your beast of burden.
 I walk for miles, honey, my feet are hurtin'.
 And all I want . . .
-
-
-

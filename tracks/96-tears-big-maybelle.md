@@ -1,8 +1,11 @@
 ---
+album: '"America''s Queen Mother Of Soul" Got A Brand New Bag'
 artists:
 - Big Maybelle
+external_ids:
+  spotify: spotify:track:7eotSbuPkqE4DkvsSZLUM6
 features: []
-genres: []
+first_released_as_single: false
 key: 96-tears-big-maybelle
 lyrics_url: https://genius.com/Big-maybelle-96-tears-lyrics
 name: 96 Tears
@@ -19,6 +22,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1967-01-28'
+release_year: 1967
+runtime: 143280
 ---
 Too many teardrops
 For one heart to be crying

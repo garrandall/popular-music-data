@@ -1,8 +1,11 @@
 ---
+album: Sweet Soul
 artists:
 - Anita Baker
+external_ids:
+  spotify: spotify:track:7mTx44Hkkffs6yTlZxFq34
 features: []
-genres: []
+first_released_as_single: false
 key: just-because-anita-baker
 lyrics_url: https://www.azlyrics.com/lyrics/anitabaker/justbecause.html
 name: Just Because
@@ -71,8 +74,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1989-05-06'
+release_year: 1989
+runtime: 311240
 ---
-
 When I think about how much I'm loving you
 No limitations, no set of regimented rules
 I'm amazed how much this love has touched my life
@@ -124,4 +128,3 @@ I love you just because
 Just because I do, my darlin'
 Emotions more than words can help me say
 I love you, baby, just because you're you
-

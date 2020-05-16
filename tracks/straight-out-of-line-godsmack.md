@@ -1,8 +1,11 @@
 ---
+album: Faceless
 artists:
 - Godsmack
+external_ids:
+  spotify: spotify:track:0bKZa2zldftYPRrSRscmG2
 features: []
-genres: []
+first_released_as_single: false
 key: straight-out-of-line-godsmack
 lyrics_url: https://www.azlyrics.com/lyrics/godsmack/straightoutofline.html
 name: Straight Out Of Line
@@ -39,8 +42,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2003-06-07'
+release_year: 2003
+runtime: 259133
 ---
-
 There's no reason
 There's no compromise
 Change in seasons
@@ -81,7 +85,4 @@ Straight out of line
 I don't need a reason
 You don't need to lie to me
 
-Lie to me 
-
-
-
+Lie to me

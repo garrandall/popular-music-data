@@ -1,8 +1,11 @@
 ---
+album: Music Inspired by The Godfather
 artists:
 - Al Martino
+external_ids:
+  spotify: spotify:track:5f4LwMkyw5ldc4TCrvDoy6
 features: []
-genres: []
+first_released_as_single: false
 key: painted-tainted-rose-al-martino
 lyrics_url: https://genius.com/Al-martino-painted-tainted-rose-lyrics
 name: Painted Tainted Rose
@@ -55,6 +58,8 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1963-10-12'
+release_year: 1963
+runtime: 167866
 ---
 Peaked at number 15 in 1963
 She was a wild and lovely rose

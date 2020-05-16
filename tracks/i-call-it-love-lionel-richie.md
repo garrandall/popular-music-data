@@ -1,8 +1,11 @@
 ---
+album: Coming Home
 artists:
 - Lionel Richie
+external_ids:
+  spotify: spotify:track:5BsJy4UDoQXqdgcyWqWQw2
 features: []
-genres: []
+first_released_as_single: false
 key: i-call-it-love-lionel-richie
 lyrics_url: https://genius.com/Lionel-richie-i-call-it-love-lyrics
 name: I Call It Love
@@ -87,6 +90,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2006-12-16'
+release_year: 2006
+runtime: 198426
 ---
 I look at you
 You look at me

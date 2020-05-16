@@ -1,8 +1,11 @@
 ---
+album: Sweet Dreams
 artists:
 - La Bouche
+external_ids:
+  spotify: spotify:track:2xU1sCRaEBJujPuwMb2EyQ
 features: []
-genres: []
+first_released_as_single: false
 key: sweet-dreams-la-bouche
 lyrics_url: https://genius.com/La-bouche-sweet-dreams-lyrics
 name: Sweet Dreams
@@ -135,6 +138,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1996-11-02'
+release_year: 1996
+runtime: 205840
 ---
 Sweet dreams of rhythm and dancing
 Sweet dreams of passion through the night

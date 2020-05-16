@@ -1,8 +1,11 @@
 ---
+album: Touch
 artists:
 - Eurythmics
+external_ids:
+  spotify: spotify:track:78RIER8V6EhrqVPOBi2GYa
 features: []
-genres: []
+first_released_as_single: false
 key: here-comes-the-rain-again-eurythmics
 lyrics_url: https://genius.com/Eurythmics-here-comes-the-rain-again-lyrics
 name: Here Comes The Rain Again
@@ -87,6 +90,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1984-06-09'
+release_year: 1983
+runtime: 294586
 ---
 Here comes the rain again
 Falling on my head like a memory

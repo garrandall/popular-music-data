@@ -1,8 +1,11 @@
 ---
+album: Living And Dying In 3 / 4 Time
 artists:
 - Jimmy Buffett
+external_ids:
+  spotify: spotify:track:0yje3JVMgJNZENayymCTHA
 features: []
-genres: []
+first_released_as_single: false
 key: come-monday-jimmy-buffett
 lyrics_url: https://genius.com/Jimmy-buffett-come-monday-lyrics
 name: Come Monday
@@ -63,6 +66,8 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '1974-08-17'
+release_year: 1974
+runtime: 191733
 ---
 Headin' up to San Francisco
 For the Labor Day weekend show

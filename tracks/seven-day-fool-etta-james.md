@@ -1,8 +1,11 @@
 ---
+album: The Second Time Around
 artists:
 - Etta James
+external_ids:
+  spotify: spotify:track:0zGpnpZkyhz4hBjrjfmFvQ
 features: []
-genres: []
+first_released_as_single: false
 key: seven-day-fool-etta-james
 lyrics_url: https://genius.com/Etta-james-seven-day-fool-lyrics
 name: Seven Day Fool
@@ -11,6 +14,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1961-12-18'
+release_year: 1961
+runtime: 179760
 ---
 And on a Monday, I'm gonna love ya
 And on a Tuesday, I'm gonna hug ya

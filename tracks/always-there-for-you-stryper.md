@@ -1,8 +1,11 @@
 ---
+album: In God We Trust
 artists:
 - Stryper
+external_ids:
+  spotify: spotify:track:59hnyuDKrI9e1F4GimuDQ9
 features: []
-genres: []
+first_released_as_single: false
 key: always-there-for-you-stryper
 lyrics_url: https://www.azlyrics.com/lyrics/stryper/alwaysthereforyou.html
 name: Always There For You
@@ -39,9 +42,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1988-09-10'
+release_year: 1988
+runtime: 250040
 ---
-
-
 Love can be so cold
 And loneliness gets old
 More than words or broken promises
@@ -59,4 +62,3 @@ You've been hurt before
 And you don't want anymore
 There's a better way for you
 Believe in me, I'll see you through
-

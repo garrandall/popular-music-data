@@ -1,9 +1,12 @@
 ---
+album: Hoodie SZN
 artists:
 - A Boogie Wit da Hoodie
+external_ids:
+  spotify: spotify:track:3L19besdNQzd342qL78xqm
 features:
 - Juice WRLD
-genres: []
+first_released_as_single: false
 key: demons-and-angels-a-boogie-wit-da-hoodie-juice-wrld
 lyrics_url: https://genius.com/A-boogie-wit-da-hoodie-demons-and-angels-lyrics
 name: Demons And Angels
@@ -20,6 +23,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2019-01-19'
+release_year: 2018
+runtime: 214592
 ---
 Huh, woke up in a new car
 Chopper on my hip, it shoot a movie like a porn star, uh

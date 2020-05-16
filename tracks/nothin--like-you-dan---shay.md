@@ -1,8 +1,11 @@
 ---
+album: Where It All Began (Commentary)
 artists:
 - Dan + Shay
+external_ids:
+  spotify: spotify:track:76GRNX66LDHi0U4SAny9QT
 features: []
-genres: []
+first_released_as_single: false
 key: nothin--like-you-dan---shay
 lyrics_url: https://www.azlyrics.com/lyrics/danshay/nothinlikeyou.html
 name: Nothin' Like You
@@ -83,8 +86,9 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '2016-01-02'
+release_year: 2014
+runtime: 91253
 ---
-
 Mmm
 I remember when I first met you
 Sipping coffee in a corner booth
@@ -144,6 +148,3 @@ Never seen, never seen nothin' like you
 Ain't never seen anything like you
 Mmm
 Never seen nothin' like you
-
-
-

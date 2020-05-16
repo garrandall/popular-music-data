@@ -1,8 +1,11 @@
 ---
+album: Standards
 artists:
 - The Alarm
+external_ids:
+  spotify: spotify:track:6jQWsLWbohIOK83MotZ9y7
 features: []
-genres: []
+first_released_as_single: false
 key: sold-me-down-the-river-the-alarm
 lyrics_url: https://genius.com/The-alarm-sold-me-down-the-river-lyrics
 name: Sold Me Down The River
@@ -59,6 +62,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1989-12-30'
+release_year: 1989
+runtime: 250729
 ---
 There's a fire beneath my skin
 There's a fever that makes me ill

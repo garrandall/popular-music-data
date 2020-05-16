@@ -1,8 +1,11 @@
 ---
+album: Adrenalize
 artists:
 - Def Leppard
+external_ids:
+  spotify: spotify:track:0nf9RjoFTcOzTIXtmzhRuH
 features: []
-genres: []
+first_released_as_single: false
 key: have-you-ever-needed-someone-so-bad-def-leppard
 lyrics_url: https://www.azlyrics.com/lyrics/defleppard/haveyoueverneededsomeonesobad.html
 name: Have You Ever Needed Someone So Bad
@@ -87,8 +90,9 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '1993-01-02'
+release_year: 1992
+runtime: 324026
 ---
-
 Here I am, I'm in the wrong bed again
 It's a game I just can't win
 There you are breathin' soft on my skin
@@ -161,6 +165,3 @@ Have you ever wanted someone
 (have you ever wanted someone)
 You just can't have
 Did you ever try so hard
-
-
-

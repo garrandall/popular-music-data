@@ -1,8 +1,11 @@
 ---
+album: The River
 artists:
 - Bruce Springsteen
+external_ids:
+  spotify: spotify:track:1KsI8NEeAna8ZIdojI3FiT
 features: []
-genres: []
+first_released_as_single: false
 key: hungry-heart-bruce-springsteen
 lyrics_url: https://www.azlyrics.com/lyrics/brucespringsteen/hungryheart.html
 name: Hungry Heart
@@ -79,8 +82,9 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1981-03-07'
+release_year: 1980
+runtime: 199453
 ---
-
 Got a wife and kids in Baltimore, Jack
 I went out for a ride and I never went back
 Like a river that don't know where it's flowing
@@ -103,4 +107,3 @@ Everybody needs a place to rest
 Everybody wants to have a home
 Don't make no difference what nobody says
 Ain't nobody like to be alone
-

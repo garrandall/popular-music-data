@@ -1,8 +1,11 @@
 ---
+album: Appetite For Destruction
 artists:
 - Guns N' Roses
+external_ids:
+  spotify: spotify:track:1OEoNpiyqBghuEUaT6Je6U
 features: []
-genres: []
+first_released_as_single: false
 key: patience-guns-n--roses
 lyrics_url: https://www.azlyrics.com/lyrics/gunsnroses/patience.html
 name: Patience
@@ -79,8 +82,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1989-08-05'
+release_year: 1987
+runtime: 354880
 ---
-
 1, 2, 1, 2, 3, 4
 
 Shed a tear 'cause I'm missin' you
@@ -142,6 +146,3 @@ Yeah, yeah, but I need you
 Oh, I need you
 Whoa, I need you
 All this time
-
-
-

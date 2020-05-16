@@ -1,8 +1,11 @@
 ---
+album: Life Starts Now
 artists:
 - Three Days Grace
+external_ids:
+  spotify: spotify:track:4urxRqBRiaH0i20OKBsgxc
 features: []
-genres: []
+first_released_as_single: false
 key: break-three-days-grace
 lyrics_url: https://genius.com/Three-days-grace-break-lyrics
 name: Break
@@ -87,6 +90,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2010-02-06'
+release_year: 2009
+runtime: 193106
 ---
 Tonight, my head is spinning
 I need something to pick me up

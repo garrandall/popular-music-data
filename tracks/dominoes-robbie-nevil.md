@@ -1,8 +1,11 @@
 ---
+album: Robbie Nevil
 artists:
 - Robbie Nevil
+external_ids:
+  spotify: spotify:track:6BkC46O15r8lWHasADnZ3F
 features: []
-genres: []
+first_released_as_single: false
 key: dominoes-robbie-nevil
 lyrics_url: https://genius.com/Robbie-nevil-dominoes-lyrics
 name: Dominoes
@@ -71,6 +74,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1987-05-30'
+release_year: 1986
+runtime: 286200
 ---
 Steam was rising in the Asian quarter
 When she stepped out in the street

@@ -1,9 +1,12 @@
 ---
+album: The Documentary
 artists:
 - The Game
+external_ids:
+  spotify: spotify:track:5zpRUOb6J84IPBtshq2RO0
 features:
 - 50 Cent
-genres: []
+first_released_as_single: false
 key: how-we-do-the-game-50-cent
 lyrics_url: https://genius.com/Kenny-huskins-on-the-road-003-how-we-do-the-game-50-cent-freestyle-lyrics
 name: How We Do
@@ -120,6 +123,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2005-06-04'
+release_year: 2004
+runtime: 235613
 ---
 Nakai bullshit erh them no dey take b3nk3 mi
 I be the mister if you need it then boerts3 mi

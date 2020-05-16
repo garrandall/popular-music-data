@@ -1,8 +1,11 @@
 ---
+album: Hard At Play
 artists:
 - Huey Lewis & The News
+external_ids:
+  spotify: spotify:track:2uuMsmRyRs1ey3aXRX01jP
 features: []
-genres: []
+first_released_as_single: false
 key: it-hit-me-like-a-hammer-huey-lewis-the-news
 lyrics_url: https://www.azlyrics.com/lyrics/hueylewisthenews/ithitmelikeahammer.html
 name: It Hit Me Like A Hammer
@@ -59,8 +62,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1991-10-12'
+release_year: 1991
+runtime: 241893
 ---
-
 I don't like to worry
 About no one else
 I like to be, you know alone and free
@@ -113,6 +117,3 @@ You know you hit me like a hammer
 Hit me like a five pound sledge
 You know it hit me, baby
 You know you hit me like a hammer
-
-
-

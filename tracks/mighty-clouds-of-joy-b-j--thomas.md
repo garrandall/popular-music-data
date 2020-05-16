@@ -1,8 +1,11 @@
 ---
+album: The Best Of BJ Thomas - Gospel Live
 artists:
 - B.J. Thomas
+external_ids:
+  spotify: spotify:track:6jifh3MeRNviJeS65cuUB5
 features: []
-genres: []
+first_released_as_single: false
 key: mighty-clouds-of-joy-b-j--thomas
 lyrics_url: https://www.azlyrics.com/lyrics/bjthomas/mightycloudsofjoy.html
 name: Mighty Clouds Of Joy
@@ -47,8 +50,9 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1971-09-04'
+release_year: 1971
+runtime: 193120
 ---
-
 Those old bad dreams
 Been sleeping in your head
 Those old dark clouds
@@ -86,6 +90,3 @@ Hallelujah!
 Happiness begins,
 When the mighty clouds of joy 
 Come rolling in
-
-
-

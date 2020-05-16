@@ -1,8 +1,11 @@
 ---
+album: Greatest Hits
 artists:
 - Barry Ryan
+external_ids:
+  spotify: spotify:track:1svB1gR5yFsNgoBxRevt3n
 features: []
-genres: []
+first_released_as_single: false
 key: eloise-barry-ryan
 lyrics_url: https://genius.com/Barry-ryan-eloise-lyrics
 name: Eloise
@@ -23,6 +26,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1969-01-18'
+release_year: 1968
+runtime: 345200
 ---
 Every night I'm there
 I'm always there, she knows I'm there

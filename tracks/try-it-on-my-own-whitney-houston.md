@@ -1,8 +1,11 @@
 ---
+album: Just Whitney
 artists:
 - Whitney Houston
+external_ids:
+  spotify: spotify:track:4a4iLzInYdvbZTXzOw04Vq
 features: []
-genres: []
+first_released_as_single: true
 key: try-it-on-my-own-whitney-houston
 lyrics_url: https://genius.com/Whitney-houston-try-it-on-my-own-lyrics
 name: Try It On My Own
@@ -55,6 +58,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2003-07-19'
+release_year: 2002
+runtime: 610400
 ---
 I'm wiser now
 I'm not the foolish girl you used to know

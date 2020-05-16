@@ -1,8 +1,11 @@
 ---
+album: I Got a Name
 artists:
 - Jim Croce
+external_ids:
+  spotify: spotify:track:2ZKwTrwuVWTkQ9FE1ib7gD
 features: []
-genres: []
+first_released_as_single: false
 key: workin--at-the-car-wash-blues-jim-croce
 lyrics_url: https://www.azlyrics.com/lyrics/jimcroce/workinatthecarwashblues.html
 name: Workin' At The Car Wash Blues
@@ -51,8 +54,9 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1974-08-17'
+release_year: 1973
+runtime: 154026
 ---
-
 Well, I had just got out from the county prison
 Doin ninety days for non-support
 Tried to find me an executive position
@@ -89,6 +93,3 @@ Cause I got them steadily depressin, low down mind messin
 Workin at the car wash blues
 Yeah I got them steadily depressin, low down mind messin
 Workin at the car wash blues
-
-
-

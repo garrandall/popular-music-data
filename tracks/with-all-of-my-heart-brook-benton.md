@@ -1,8 +1,11 @@
 ---
+album: 'Greatest Hits: The Mercury Years'
 artists:
 - Brook Benton
+external_ids:
+  spotify: spotify:track:1Q4JmD6vxJnPWONF5zqupv
 features: []
-genres: []
+first_released_as_single: false
 key: with-all-of-my-heart-brook-benton
 lyrics_url: https://www.musixmatch.com/lyrics/Brook-Benton/With-All-Of-My-Heart
 name: With All Of My Heart
@@ -11,6 +14,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1959-07-20'
+release_year: 1959
+runtime: 156800
 ---
 I always knew
 Someday I'd find

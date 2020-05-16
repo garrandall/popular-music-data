@@ -1,8 +1,11 @@
 ---
+album: '4:44'
 artists:
 - JAY-Z
+external_ids:
+  spotify: spotify:track:5oynsOy80DnodTslgaj3cr
 features: []
-genres: []
+first_released_as_single: false
 key: marcy-me-jay-z
 lyrics_url: https://genius.com/Jay-z-marcy-me-lyrics
 name: Marcy Me
@@ -11,6 +14,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2017-07-29'
+release_year: 2017
+runtime: 174426
 ---
 Live from Bedford-Stuyvesant
 The livest one representin' BK to the fullest

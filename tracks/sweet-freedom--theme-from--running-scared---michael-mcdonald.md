@@ -1,8 +1,11 @@
 ---
+album: Live on Soundstage
 artists:
 - Michael McDonald
+external_ids:
+  spotify: spotify:track:0x5T32khKAbro9bHapjoRL
 features: []
-genres: []
+first_released_as_single: false
 key: sweet-freedom--theme-from--running-scared---michael-mcdonald
 lyrics_url: https://genius.com/Michael-mcdonald-sweet-freedom-lyrics
 name: Sweet Freedom (Theme From "Running Scared")
@@ -87,6 +90,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1986-10-25'
+release_year: 1986
+runtime: 323760
 ---
 No more running down the wrong road
 Dancing to a different drum

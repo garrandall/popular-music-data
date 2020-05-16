@@ -1,8 +1,11 @@
 ---
+album: Kaleidoscope World
 artists:
 - Swing Out Sister
+external_ids:
+  spotify: spotify:track:2YWiD7mVNd2tPqDND0FczP
 features: []
-genres: []
+first_released_as_single: false
 key: waiting-game-swing-out-sister
 lyrics_url: https://www.azlyrics.com/lyrics/swingoutsister/waitinggame.html
 name: Waiting Game
@@ -23,8 +26,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1989-06-24'
+release_year: 1989
+runtime: 255560
 ---
-
 I've spent too much time
 Waiting for you in vain
 I can't hear your voice
@@ -81,6 +85,3 @@ Until then I'll be playing the waiting game
 All you left me was emptiness
 Now every day seems the same
 You've gone but I'm still playing the waiting game
-
-
-

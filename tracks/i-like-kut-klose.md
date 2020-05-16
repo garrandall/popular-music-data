@@ -1,8 +1,11 @@
 ---
+album: Surrender
 artists:
 - Kut Klose
+external_ids:
+  spotify: spotify:track:0ymLvEYKBKRlJbGwAZhOqg
 features: []
-genres: []
+first_released_as_single: false
 key: i-like-kut-klose
 lyrics_url: https://genius.com/Kut-klose-i-like-lyrics
 name: I Like
@@ -87,6 +90,8 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '1995-08-26'
+release_year: 1995
+runtime: 258893
 ---
 Tender loving
 It's one on one

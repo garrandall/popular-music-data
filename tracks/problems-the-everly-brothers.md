@@ -1,8 +1,11 @@
 ---
+album: The Greatest Hits Album (The Best Of)
 artists:
 - The Everly Brothers
+external_ids:
+  spotify: spotify:track:4CG2oiO7Ycqb6irabQTIKP
 features: []
-genres: []
+first_released_as_single: false
 key: problems-the-everly-brothers
 lyrics_url: https://www.azlyrics.com/lyrics/everlybrothers/problems.html
 name: Problems
@@ -67,8 +70,9 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1959-02-16'
+release_year: 1957
+runtime: 119164
 ---
-
 Problems, problems, problems all day long
 Will my problems work out right or wrong
 My baby don't like anything I do
@@ -87,6 +91,3 @@ You can solve my problems with a love that's true
 
 Problems, problems, problems all day long
 Problems, problems, problems all day long
-
-
-

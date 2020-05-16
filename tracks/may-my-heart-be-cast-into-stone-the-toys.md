@@ -1,8 +1,11 @@
 ---
+album: 'One Kiss Can Lead To Another: Girl Group Sounds, Lost & Found'
 artists:
 - The Toys
+external_ids:
+  spotify: spotify:track:6xzt3DjBQHIIrPIFGnZDEx
 features: []
-genres: []
+first_released_as_single: false
 key: may-my-heart-be-cast-into-stone-the-toys
 lyrics_url: https://genius.com/The-toys-may-my-heart-be-cast-into-stone-lyrics
 name: May My Heart Be Cast Into Stone
@@ -19,6 +22,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1966-04-16'
+release_year: 1966
+runtime: 161960
 ---
 Boy of my life, love of my own
 Trust in me and you'll not be alone

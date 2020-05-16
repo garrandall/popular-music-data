@@ -1,8 +1,11 @@
 ---
+album: Toys In The Attic
 artists:
 - Aerosmith
+external_ids:
+  spotify: spotify:track:2aviXDjt6uZgYk6NkytZW9
 features: []
-genres: []
+first_released_as_single: false
 key: cryin--aerosmith
 lyrics_url: https://www.azlyrics.com/lyrics/aerosmith/cryin.html
 name: Cryin'
@@ -111,8 +114,9 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1994-01-22'
+release_year: 1975
+runtime: 311666
 ---
-
 There was a time
 When I was so broken-hearted
 Love wasn't much of a friend of mine
@@ -181,4 +185,3 @@ I was cryin' when I met you
 Now I'm dyin' to forget you
 Your love is sweet
 I was cryin' when I met you
-

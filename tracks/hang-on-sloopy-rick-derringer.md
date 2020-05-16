@@ -1,8 +1,11 @@
 ---
+album: Spring Fever
 artists:
 - Rick Derringer
+external_ids:
+  spotify: spotify:track:1CdJ1rZKeo4cWyB28I6qCT
 features: []
-genres: []
+first_released_as_single: false
 key: hang-on-sloopy-rick-derringer
 lyrics_url: https://genius.com/Rick-derringer-hang-on-sloopy-lyrics
 name: Hang On Sloopy
@@ -23,6 +26,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1975-04-26'
+release_year: 1975
+runtime: 186173
 ---
 Hang on Sloopy, Sloopy hang on!
 Hang on Sloopy, Sloopy hang on!

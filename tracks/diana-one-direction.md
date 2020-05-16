@@ -1,8 +1,11 @@
 ---
+album: Midnight Memories
 artists:
 - One Direction
+external_ids:
+  spotify: spotify:track:6twW4ma6w0mOeejejPK0nY
 features: []
-genres: []
+first_released_as_single: false
 key: diana-one-direction
 lyrics_url: https://www.azlyrics.com/lyrics/onedirection/diana.html
 name: Diana
@@ -11,8 +14,9 @@ rankings:
   rank: 11
   ranking_list: Billboard Hot 100
   start_date: '2013-12-07'
+release_year: 2013
+runtime: 184666
 ---
-
 (Yeah, yeah, yeah)
 Diana
 (Yeah, yeah, yeah)
@@ -92,6 +96,3 @@ Diana,
 (Oh-ah-oh-oh-oh-oh-oh-oh)
 Diana,
 Baby, you'd be saving mine.
-
-
-

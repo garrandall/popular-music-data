@@ -1,8 +1,11 @@
 ---
+album: Nightshift
 artists:
 - Commodores
+external_ids:
+  spotify: spotify:track:2ogF71NvoPUwJmqyKzEHqP
 features: []
-genres: []
+first_released_as_single: false
 key: animal-instinct-commodores
 lyrics_url: https://www.azlyrics.com/lyrics/commodores/animalinstinct.html
 name: Animal Instinct
@@ -43,8 +46,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1985-07-20'
+release_year: 1985
+runtime: 289600
 ---
-
 On my back
 You're on my track
 
@@ -125,6 +129,3 @@ Instinct
 Instinct
 Instinct. instinct
 Instinct.
-
-
-

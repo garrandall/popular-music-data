@@ -1,8 +1,11 @@
 ---
+album: So Red The Rose
 artists:
 - Arcadia
+external_ids:
+  spotify: spotify:track:638poNnWFgzt7UJBQ5SWtM
 features: []
-genres: []
+first_released_as_single: false
 key: election-day-arcadia
 lyrics_url: https://www.musixmatch.com/lyrics/Arcadia-8/Election-Day
 name: Election Day
@@ -71,6 +74,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1986-02-08'
+release_year: 1985
+runtime: 329106
 ---
 Wild kind of look to the day
 Opening eyes impale neon flickers

@@ -1,8 +1,11 @@
 ---
+album: Sober
 artists:
 - Demi Lovato
+external_ids:
+  spotify: spotify:track:0STK94RxUulYqWzwFlyAb5
 features: []
-genres: []
+first_released_as_single: true
 key: sober-demi-lovato
 lyrics_url: https://genius.com/Demi-lovato-sober-lyrics
 name: Sober
@@ -19,6 +22,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '2018-08-11'
+release_year: 2018
+runtime: 197893
 ---
 I got no excuses for all of these goodbyes
 Call me when it's over 'cause I'm dying inside

@@ -1,9 +1,12 @@
 ---
+album: Diana & Marvin
 artists:
 - Diana Ross
 - Marvin Gaye
+external_ids:
+  spotify: spotify:track:4ESNSk1yvpJO3UmANTcVeI
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-knock-my-love-diana-ross-marvin-gaye
 lyrics_url: https://genius.com/Diana-ross-and-marvin-gaye-dont-knock-my-love-lyrics
 name: Don't Knock My Love
@@ -44,6 +47,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1974-09-07'
+release_year: 1973
+runtime: 143440
 ---
 Don't knock my love
 Don't hold you up

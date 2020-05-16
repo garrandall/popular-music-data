@@ -1,8 +1,11 @@
 ---
+album: The Chi-Lites
 artists:
 - The Chi-lites
+external_ids:
+  spotify: spotify:track:3fcoCYbJiqzSNSsNRfnLea
 features: []
-genres: []
+first_released_as_single: false
 key: stoned-out-of-my-mind-the-chi-lites
 lyrics_url: https://www.azlyrics.com/lyrics/chilites/stonedoutofmymind.html
 name: Stoned Out Of My Mind
@@ -59,8 +62,9 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '1973-10-27'
+release_year: 1973
+runtime: 184533
 ---
-
 Baby, when I found out you were lyin'
 Playin' around and connivin'
 Undesired tears I was cryin'
@@ -98,6 +102,3 @@ Funny but I just can't put you down (stoned out of my mind)
 
 You got me goin' (stoned out of my mind)
 You got me goin' (stoned out of my mind)
-
-
-

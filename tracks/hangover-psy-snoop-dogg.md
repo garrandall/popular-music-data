@@ -1,9 +1,12 @@
 ---
+album: Hangover
 artists:
 - PSY
+external_ids:
+  spotify: spotify:track:4ngypPwfcqpHBxQjJIOgvr
 features:
 - Snoop Dogg
-genres: []
+first_released_as_single: true
 key: hangover-psy-snoop-dogg
 lyrics_url: https://www.azlyrics.com/lyrics/psy/hangover.html
 name: Hangover
@@ -12,9 +15,9 @@ rankings:
   rank: 26
   ranking_list: Billboard Hot 100
   start_date: '2014-06-28'
+release_year: 2014
+runtime: 236773
 ---
-
-
 Hangover, hangover, hangover, hangover-over-over (bend over)
 Hangover, hangover, hangover, hangover-over-over (bend over)
 Party's over, it ain't over
@@ -29,7 +32,6 @@ Hangover, hangover, hangover, hangover-over-over
 Hangover, hangover, hangover, hangover-over-over (bend over)
 Hangover, hangover, hangover, hangover-over-over
 Can not find a single piece of me, game over
-
 
 Drink 'till you're drunk
 Smoke like a broke stove
@@ -45,22 +47,21 @@ Really for sure that
 I'm throw back intoxicated
 Change over, game over, hangover, faded
 
-
 Body Shit Miss
-ëì²´ ì´ë ìì¼
-ê¾ê¼¬ë¦¬ ëª» ì°¾ê² ì´
+대체 어디 있으
+꾀꼬리 못 찾겠어
 Eeny, meeny, miny, moe catch a lady by the toe
-ì ììë©´ ìë» ë³´ì¼ ëê¹ì§ ë¹ ë¼ìë¦¬ë½
+안 예쁘면 예뻐 보일 때까지 빠라삐리뽀
 
 Drink it up and get sick
 Bottom's up, get wasted
 Pour it up, drink it up, live it up, give it up
 Oh my God, dammit, there's the fucking limit
 Pour it up, drink it up, live it up, give it up
-(ë°ì¼ìì¤)
+(받으시오)
 But I can't stop
 Making bottles pop until the wheels fall off
-(ë°ì¼ìì¤)
+(받으시오)
 And I can't quit
 I wake up in the morning do the same shit
 Wake up in the morning do the same shit
@@ -79,7 +80,6 @@ Hangover, hangover, hangover, hangover-over-over
 Hangover, hangover, hangover, hangover-over-over (bend over)
 Hangover, hangover, hangover, hangover-over-over
 Can not find a single piece of me, game over
-
 
 Waking and baking, shaking the fleas
 Caking and baking, raking the cheese
@@ -92,22 +92,21 @@ Never would there ever be another like he-a
 G-A-N-G-S-T-A, nothing left to say
 I done smoked my whole day
 
-
-ë² ì´ë¹ ëë¥¼ ìíí´, ì´ì ëë¥¼ ìíí´
-ê±°ìê¸°ê° ê±°ìê¸°íë ê±°ìê¸°íê³  ê±°ìê¸°í´
-ë´ì¼ì ìë¤ ìë¼ (ìë¼)
-ëª¨ë¥´ê² ë¤ ë´ ë°°ë¥¼ ì§¸ë¼ (ì§¸ë¼)
-ë´ì¼ì ëë ì¤ëì ëë¥¼ ë°±íë¡ ëª°ë¼ (ëª°ë¼) ì
+베이비 나를 시험해, 어서 나를 시험해
+거시기가 거시기하니 거시기하고 거시기해
+내일은 없다 에라 (에라)
+모르겠다 내 배를 째라 (째라)
+내일의 나는 오늘의 너를 백프로 몰라 (몰라) 에
 
 Drink it up and get sick
 Bottom's up, get wasted
 Pour it up, drink it up, live it up, give it up
 Oh my God, dammit, there's the fucking limit
 Pour it up, drink it up, live it up, give it up
-(ë°ì¼ìì¤)
+(받으시오)
 But I can't stop
 Making bottles pop until the wheels fall off
-(ë°ì¼ìì¤)
+(받으시오)
 And I can't quit
 I wake up in the morning do the same shit
 Wake up in the morning do the same shit
@@ -126,7 +125,6 @@ Hangover, hangover, hangover, hangover-over-over
 Hangover, hangover, hangover, hangover-over-over (bend over)
 Hangover, hangover, hangover, hangover-over-over
 Can not find a single piece of me, game over
-
 
 Waking and baking, shaking the fleas
 Caking and baking, raking the cheese
@@ -139,7 +137,6 @@ Never would there ever be another like he-a
 G-A-N-G-S-T-A, nothing left to say
 I done smoked my whole day
 
-
 Hangover, hangover, hangover, hangover-over-over (bend over)
 Hangover, hangover, hangover, hangover-over-over (bend over)
 Party's over, it ain't over
@@ -160,10 +157,10 @@ Bottom's up, get wasted
 Pour it up, drink it up, live it up, give it up
 Oh my God, dammit, there's the fucking limit
 Pour it up, drink it up, live it up, give it up
-(ë°ì¼ìì¤)
+(받으시오)
 But I can't stop
 Making bottles pop until the wheels fall off
-(ë°ì¼ìì¤)
+(받으시오)
 And I can't quit
 I wake up in the morning do the same shit
 Wake up in the morning do the same shit
@@ -182,6 +179,3 @@ Hangover, hangover, hangover, hangover-over-over
 Hangover, hangover, hangover, hangover-over-over (bend over)
 Hangover, hangover, hangover, hangover-over-over
 Can not find a single piece of me, game over
-
-
-

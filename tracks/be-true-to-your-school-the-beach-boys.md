@@ -1,8 +1,11 @@
 ---
+album: Little Deuce Coupe
 artists:
 - The Beach Boys
+external_ids:
+  spotify: spotify:track:37o6qDvBt3WBejQdFKNSui
 features: []
-genres: []
+first_released_as_single: false
 key: be-true-to-your-school-the-beach-boys
 lyrics_url: https://genius.com/The-beach-boys-be-true-to-your-school-lyrics
 name: Be True To Your School
@@ -55,6 +58,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1964-01-18'
+release_year: 1963
+runtime: 128693
 ---
 When some loud braggart tries to put me down
 And says his school is great

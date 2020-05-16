@@ -1,8 +1,11 @@
 ---
+album: 'Crystal Gayle: The Hits'
 artists:
 - Crystal Gayle
+external_ids:
+  spotify: spotify:track:5Cq5jkGEUuwCge5YqLMEiT
 features: []
-genres: []
+first_released_as_single: false
 key: the-sound-of-goodbye-crystal-gayle
 lyrics_url: https://www.azlyrics.com/lyrics/crystalgayle/thesoundofgoodbye.html
 name: The Sound Of Goodbye
@@ -27,8 +30,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1984-01-07'
+release_year: 1983
+runtime: 192826
 ---
-
 We kissed goodnight
 And we turn out the light
 And we lay side by side in the dark
@@ -75,6 +79,3 @@ Sound of goodbye
 I can't even tell you just why
 It may be the truth or it may be a lie
 But it sounds like the sound of goodbye
-
-
-

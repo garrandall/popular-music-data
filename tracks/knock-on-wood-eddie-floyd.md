@@ -1,8 +1,11 @@
 ---
+album: Knock On Wood
 artists:
 - Eddie Floyd
+external_ids:
+  spotify: spotify:track:3YJx77Xx8JSwEoxqrkQO5c
 features: []
-genres: []
+first_released_as_single: false
 key: knock-on-wood-eddie-floyd
 lyrics_url: https://genius.com/Eddie-floyd-knock-on-wood-lyrics
 name: Knock On Wood
@@ -75,6 +78,8 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '1966-12-31'
+release_year: 1966
+runtime: 189840
 ---
 I don't want to lose this good thing that I've got
 'Cause if I do, I would surely, surely loose a lot

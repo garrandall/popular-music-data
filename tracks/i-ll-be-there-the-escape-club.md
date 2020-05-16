@@ -1,8 +1,11 @@
 ---
+album: Dollars & Sex
 artists:
 - The Escape Club
+external_ids:
+  spotify: spotify:track:3zX2ZUPo0M8EULGmYJ87C6
 features: []
-genres: []
+first_released_as_single: false
 key: i-ll-be-there-the-escape-club
 lyrics_url: https://genius.com/The-escape-club-ill-be-there-lyrics
 name: I'll Be There
@@ -107,6 +110,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1991-11-09'
+release_year: 1991
+runtime: 347866
 ---
 Over Mountains
 Over Trees

@@ -1,8 +1,11 @@
 ---
+album: Tejas
 artists:
 - ZZ Top
+external_ids:
+  spotify: spotify:track:4gY07XF01nlzHuPNlMFnBe
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-only-love-zz-top
 lyrics_url: https://genius.com/Zz-top-its-only-love-lyrics
 name: It's Only Love
@@ -51,6 +54,8 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '1976-11-20'
+release_year: 1976
+runtime: 263626
 ---
 Sweet thing's trying to put me out
 She gone and found herself another man

@@ -1,10 +1,13 @@
 ---
+album: Barbershop - Music From The Motion Picture
 artists:
 - Fabolous
+external_ids:
+  spotify: spotify:track:7Ab9BFVAgS4waaYB5tFQzy
 features:
 - P. Diddy
 - Jagged Edge
-genres: []
+first_released_as_single: false
 key: trade-it-all-fabolous-p--diddy-jagged-edge
 lyrics_url: https://genius.com/Fabolous-trade-it-all-part-2-lyrics
 name: Trade It All
@@ -81,6 +84,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2002-12-14'
+release_year: 2002
+runtime: 281466
 ---
 Take ya dusty ass next door wit' them bootlegs, man, ain't nobody want that around here
 

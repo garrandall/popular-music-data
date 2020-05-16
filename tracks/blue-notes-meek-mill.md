@@ -1,8 +1,11 @@
 ---
+album: DC4
 artists:
 - Meek Mill
+external_ids:
+  spotify: spotify:track:2ccfMyN66u7PDQKDRTEiCl
 features: []
-genres: []
+first_released_as_single: false
 key: blue-notes-meek-mill
 lyrics_url: https://www.azlyrics.com/lyrics/meekmill/bluenotes.html
 name: Blue Notes
@@ -11,9 +14,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2016-11-19'
+release_year: 2016
+runtime: 225373
 ---
-
-
 This is my blues
 'Cause I'm back down on my own again
 This is the blues I'm playing
@@ -92,6 +95,3 @@ This is the blues I'm playing
 Yes it's the final thing
 When the nights is cold and lonely
 This is the midnight blues
-
-
-

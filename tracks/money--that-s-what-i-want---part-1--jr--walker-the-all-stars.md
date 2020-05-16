@@ -1,9 +1,12 @@
 ---
+album: Road Runner
 artists:
 - Jr. Walker
 - The All Stars
+external_ids:
+  spotify: spotify:track:5kpNG59m5zqKucqWFTPiMD
 features: []
-genres: []
+first_released_as_single: false
 key: money--that-s-what-i-want---part-1--jr--walker-the-all-stars
 lyrics_url: https://genius.com/Jr-walker-and-the-all-stars-money-thats-what-i-want-part-2-lyrics
 name: Money (That's What I Want) (Part 1)
@@ -32,6 +35,8 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1966-12-24'
+release_year: 1966
+runtime: 273186
 ---
 Got a shape and a pretty face
 But there ain't nothin'

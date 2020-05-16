@@ -1,8 +1,11 @@
 ---
+album: Live!
 artists:
 - Commodores
+external_ids:
+  spotify: spotify:track:7sP4EhJqFnud6mrG6VbjQx
 features: []
-genres: []
+first_released_as_single: false
 key: too-hot-ta-trot-commodores
 lyrics_url: https://www.azlyrics.com/lyrics/commodores/toohottatrot.html
 name: Too Hot Ta Trot
@@ -55,8 +58,9 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '1978-03-04'
+release_year: 1977
+runtime: 337680
 ---
-
 Well you're too hot ta trot now baby
 Well you're too hot ta stop whoo baby
 Well you're too hot ta trot now baby
@@ -99,6 +103,3 @@ Too hot ta trot baby
 Too hot ta stop sweet thing
 Too hot ta trot baby
 Too hot ta stop
-
-
-

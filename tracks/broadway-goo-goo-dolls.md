@@ -1,8 +1,11 @@
 ---
+album: Dizzy up the Girl
 artists:
 - Goo Goo Dolls
+external_ids:
+  spotify: spotify:track:0RZuCBV900eNA2FXCQ3uUM
 features: []
-genres: []
+first_released_as_single: false
 key: broadway-goo-goo-dolls
 lyrics_url: https://www.azlyrics.com/lyrics/googoodolls/broadway.html
 name: Broadway
@@ -87,8 +90,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '2000-09-02'
+release_year: 1998
+runtime: 238533
 ---
-
 Broadway's dark tonight
 A little bit weaker than you used to be
 Broadway's dark tonight
@@ -142,6 +146,3 @@ A little bit weaker than you used to be
 Broadway's dark tonight
 See the young man sittin' in the old man's bar
 Waitin' for his turn to die
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Mary, Scherrie & Susaye
 artists:
 - The Supremes
+external_ids:
+  spotify: spotify:track:6pztTQcofMIFVkkwVDg4zh
 features: []
-genres: []
+first_released_as_single: false
 key: you-re-my-driving-wheel-the-supremes
 lyrics_url: https://www.musixmatch.com/lyrics/The-Supremes/You-re-My-Driving-Wheel
 name: You're My Driving Wheel
@@ -27,6 +30,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1977-01-01'
+release_year: 1976
+runtime: 259640
 ---
 You're my driving wheel
 Feels good, baby

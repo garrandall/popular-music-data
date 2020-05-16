@@ -1,8 +1,11 @@
 ---
+album: Tonight I'm Yours
 artists:
 - Rod Stewart
+external_ids:
+  spotify: spotify:track:5sgVguJJlA7thC8ybAFOo5
 features: []
-genres: []
+first_released_as_single: false
 key: tonight-i-m-yours--don-t-hurt-me--rod-stewart
 lyrics_url: https://genius.com/Rod-stewart-tonight-im-yours-dont-hurt-me-lyrics
 name: Tonight I'm Yours (Don't Hurt Me)
@@ -63,6 +66,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1982-04-24'
+release_year: 1981
+runtime: 251866
 ---
 Yeah
 

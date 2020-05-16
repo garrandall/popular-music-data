@@ -1,8 +1,11 @@
 ---
+album: TRACKS
 artists:
 - The Critters
+external_ids:
+  spotify: spotify:track:3CPNbSbr5N0p32ACDKq30h
 features: []
-genres: []
+first_released_as_single: false
 key: younger-girl-the-critters
 lyrics_url: https://genius.com/The-critters-younger-girl-lyrics
 name: Younger Girl
@@ -43,6 +46,8 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '1966-07-23'
+release_year: 1966
+runtime: 149054
 ---
 She's one of those girls who seems to come in the spring
 One look in her eyes and you'll forget everything

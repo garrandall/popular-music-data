@@ -1,8 +1,11 @@
 ---
+album: Scorpion
 artists:
 - Drake
+external_ids:
+  spotify: spotify:track:09lmraDvzBT3pUQ2rUtJzK
 features: []
-genres: []
+first_released_as_single: false
 key: march-14-drake
 lyrics_url: https://www.azlyrics.com/lyrics/drake/march14.html
 name: March 14
@@ -11,8 +14,9 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '2018-07-14'
+release_year: 2018
+runtime: 309560
 ---
-
 Here we go
 Yeah
 
@@ -42,7 +46,7 @@ I promise if I'm not dead then I'm dedicated
 This the first positive DNA we ever celebrated
 I can't forget the looks on they faces
 Got the news in Miami that we all now got ones that we raisin'
-Tell Gelo bring some, uh, RosÃ© and Baccarat out for our cheers to the next generation
+Tell Gelo bring some, uh, Rosé and Baccarat out for our cheers to the next generation
 But this champagne toast is short-lived
 I got an empty crib in my empty crib
 I only met you one time, introduced you to Saint Nick
@@ -82,6 +86,3 @@ No one to cry on
 I need shelter from the rain
 To ease the pain
 I'm changing from boy to a man
-
-
-

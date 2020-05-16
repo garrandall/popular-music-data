@@ -1,9 +1,12 @@
 ---
+album: Till I Loved You
 artists:
 - Barbra Streisand
 - Don Johnson
+external_ids:
+  spotify: spotify:track:3h9f4Y6ZQJMUfWPBGlmJs6
 features: []
-genres: []
+first_released_as_single: false
 key: till-i-loved-you-barbra-streisand-don-johnson
 lyrics_url: https://www.azlyrics.com/lyrics/barbrastreisand/tillilovedyou.html
 name: Till I Loved You
@@ -56,8 +59,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1989-01-07'
+release_year: 1988
+runtime: 309053
 ---
-
 Nothing lived, nothing grew
 Till I loved you
 Every sky ever gray, never blue
@@ -93,6 +97,3 @@ Oh I was lost, I was blind till I found you
 Couldn't see, couldn't find someone new
 You came along, stole my heart completely
 And I thought, could the one to save me possibly be you?
-
-
-

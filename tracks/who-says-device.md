@@ -1,8 +1,11 @@
 ---
+album: 22B3
 artists:
 - Device
+external_ids:
+  spotify: spotify:track:5j54JVrEvm01pis0PF3XJ6
 features: []
-genres: []
+first_released_as_single: false
 key: who-says-device
 lyrics_url: https://genius.com/Device-who-says-lyrics
 name: Who Says
@@ -31,6 +34,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1986-11-01'
+release_year: 1986
+runtime: 292066
 ---
 The Night is warm and my Body wrecked
 And the Hair stands up on the back of my neck

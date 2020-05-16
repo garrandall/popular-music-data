@@ -1,8 +1,11 @@
 ---
+album: The Very Best of, Volume 2.
 artists:
 - Joe Tex
+external_ids:
+  spotify: spotify:track:1V9jRNK8t5Y7k9zQ1H1Mw4
 features: []
-genres: []
+first_released_as_single: false
 key: buying-a-book-joe-tex
 lyrics_url: https://www.musixmatch.com/lyrics/Joe-Tex/Buying-a-Book
 name: Buying A Book
@@ -39,6 +42,8 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1969-05-31'
+release_year: 1969
+runtime: 213240
 ---
 I saw this old man with this young girl the other night.
 I walked over to him and pulled him off on the side,

@@ -1,8 +1,11 @@
 ---
+album: The Best Of The Honeycombs
 artists:
 - The Honeycombs
+external_ids:
+  spotify: spotify:track:1sb7AGizHorLbZA2mpNP1E
 features: []
-genres: []
+first_released_as_single: false
 key: i-can-t-stop-the-honeycombs
 lyrics_url: https://www.musixmatch.com/lyrics/The-Honeycombs/I-Can-t-Stop
 name: I Can't Stop
@@ -35,6 +38,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1965-01-30'
+release_year: 1964
+runtime: 195400
 ---
 I know it's crazy, but I can't stop
 Yeah I should, but I can't stop

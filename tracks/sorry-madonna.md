@@ -1,8 +1,11 @@
 ---
+album: Confessions on a Dance Floor
 artists:
 - Madonna
+external_ids:
+  spotify: spotify:track:55whbebR4olz2HHcRQa2kx
 features: []
-genres: []
+first_released_as_single: false
 key: sorry-madonna
 lyrics_url: https://genius.com/Madonna-sorry-lyrics
 name: Sorry
@@ -31,6 +34,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2006-04-15'
+release_year: 2005
+runtime: 281880
 ---
 Je suis désolé
 Lo siento

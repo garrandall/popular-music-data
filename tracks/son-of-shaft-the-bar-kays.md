@@ -1,8 +1,11 @@
 ---
+album: 'The Bar-Kays: All-Time Greatest Hits'
 artists:
 - The Bar-Kays
+external_ids:
+  spotify: spotify:track:7dFHfBwd00nJaxfPHHZPsu
 features: []
-genres: []
+first_released_as_single: false
 key: son-of-shaft-the-bar-kays
 lyrics_url: https://genius.com/The-bar-kays-son-of-shaft-lyrics
 name: Son Of Shaft
@@ -47,6 +50,8 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '1972-02-26'
+release_year: 1971
+runtime: 660293
 ---
 I'm the son of a—(Shut your mouth!)
 

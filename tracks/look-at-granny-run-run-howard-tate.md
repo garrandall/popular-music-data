@@ -1,8 +1,11 @@
 ---
+album: Get It While You Can - The Complete Legendary Verve Sessions
 artists:
 - Howard Tate
+external_ids:
+  spotify: spotify:track:0W7QzopfYsOv7YpScrDwAY
 features: []
-genres: []
+first_released_as_single: false
 key: look-at-granny-run-run-howard-tate
 lyrics_url: https://genius.com/Howard-tate-look-at-granny-run-run-lyrics
 name: Look At Granny Run Run
@@ -35,6 +38,8 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1967-02-04'
+release_year: 1966
+runtime: 132666
 ---
 Look at Granny run, run
 Grandpa runnin' close behind

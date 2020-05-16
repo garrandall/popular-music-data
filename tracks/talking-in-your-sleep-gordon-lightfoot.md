@@ -1,8 +1,11 @@
 ---
+album: Summer Side Of Life
 artists:
 - Gordon Lightfoot
+external_ids:
+  spotify: spotify:track:59xyIKfu223UBBNyxkq9v5
 features: []
-genres: []
+first_released_as_single: false
 key: talking-in-your-sleep-gordon-lightfoot
 lyrics_url: https://www.azlyrics.com/lyrics/gordonlightfoot/talkinginyoursleep.html
 name: Talking In Your Sleep
@@ -35,8 +38,9 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '1971-07-31'
+release_year: 1971
+runtime: 181306
 ---
-
 I heard you talking in your sleep
 Is there anything that I can do
 I don't believe we've had a word all day
@@ -63,6 +67,3 @@ I heard you talking in your sleep
 Is there anything that I can do
 I don't believe we've had a word all day
 'Bout anything at all
-
-
-

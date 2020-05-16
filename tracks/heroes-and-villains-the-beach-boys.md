@@ -1,8 +1,11 @@
 ---
+album: Smiley Smile
 artists:
 - The Beach Boys
+external_ids:
+  spotify: spotify:track:7BO7ZbaEmgCSSp3znPMxN4
 features: []
-genres: []
+first_released_as_single: false
 key: heroes-and-villains-the-beach-boys
 lyrics_url: https://www.azlyrics.com/lyrics/beachboys/heroesandvillains.html
 name: Heroes And Villains
@@ -35,8 +38,9 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '1967-09-16'
+release_year: 1967
+runtime: 219306
 ---
-
 I've been in this town so long that back in the city
 I've been taken for lost and gone
 And unknown for a long long time
@@ -79,6 +83,3 @@ Just see what you've done
 
 Heroes and villains
 Just see what you've done
-
-
-

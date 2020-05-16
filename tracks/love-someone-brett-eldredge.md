@@ -1,8 +1,11 @@
 ---
+album: Brett Eldredge
 artists:
 - Brett Eldredge
+external_ids:
+  spotify: spotify:track:43CFDpciGFDm226POTLEXU
 features: []
-genres: []
+first_released_as_single: false
 key: love-someone-brett-eldredge
 lyrics_url: https://www.azlyrics.com/lyrics/bretteldredge/lovesomeone.html
 name: Love Someone
@@ -47,8 +50,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2019-07-06'
+release_year: 2017
+runtime: 211720
 ---
-
 Oh baby, would you look right there
 The way the sun is hitting your hair
 The way the world just stopped right here
@@ -99,6 +103,3 @@ When you smile when you hold my hand
 I look at you and I understand
 Sure feels good to love someone
 Sure feels good
-
-
-

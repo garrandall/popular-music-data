@@ -1,9 +1,12 @@
 ---
+album: TESTING
 artists:
 - A$AP Rocky
+external_ids:
+  spotify: spotify:track:7ycWLEP1GsNjVvcjawXz3z
 features:
 - Skepta
-genres: []
+first_released_as_single: false
 key: praise-the-lord--da-shine--a-ap-rocky-skepta
 lyrics_url: https://genius.com/A-ap-rocky-praise-the-lord-da-shine-lyrics
 name: Praise The Lord (Da Shine)
@@ -40,6 +43,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '2018-08-11'
+release_year: 2018
+runtime: 205040
 ---
 Get it
 Text a message, I don't know the number

@@ -1,8 +1,11 @@
 ---
+album: Soul '69
 artists:
 - Aretha Franklin
+external_ids:
+  spotify: spotify:track:2GOo60jS0bHCelK39RJWaC
 features: []
-genres: []
+first_released_as_single: false
 key: tracks-of-my-tears-aretha-franklin
 lyrics_url: https://www.azlyrics.com/lyrics/arethafranklin/tracksofmytears.html
 name: Tracks Of My Tears
@@ -31,8 +34,9 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1969-04-19'
+release_year: 1969
+runtime: 176906
 ---
-
 People say I'm the life of the party
 Because I tell a joke or two
 Well, although I may be laughing loud and hearty
@@ -71,6 +75,3 @@ The tracks of my tears, oh
 Oh, look at my face
 You'll see that my smile seems out of place
 And if you look closer
-
-
-

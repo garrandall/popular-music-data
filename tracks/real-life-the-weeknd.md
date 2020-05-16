@@ -1,8 +1,11 @@
 ---
+album: Beauty Behind The Madness
 artists:
 - The Weeknd
+external_ids:
+  spotify: spotify:track:03j354P848KtNU2FVSwkDG
 features: []
-genres: []
+first_released_as_single: false
 key: real-life-the-weeknd
 lyrics_url: https://genius.com/The-weeknd-real-life-lyrics
 name: Real Life
@@ -15,6 +18,8 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '2015-09-26'
+release_year: 2015
+runtime: 223373
 ---
 Tell 'em this boy wasn't meant for lovin'
 Tell 'em this heart doesn't stay to one

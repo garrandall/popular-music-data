@@ -1,8 +1,11 @@
 ---
+album: Do You Wanna Ride?
 artists:
 - Adina Howard
+external_ids:
+  spotify: spotify:track:3XmaNnRquEYkDjw2ODrjjz
 features: []
-genres: []
+first_released_as_single: false
 key: my-up-and-down-adina-howard
 lyrics_url: https://www.azlyrics.com/lyrics/adinahoward/myupanddown.html
 name: My Up And Down
@@ -47,8 +50,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1995-09-16'
+release_year: 1995
+runtime: 221093
 ---
-
 Turn the lights down baby
 And come to me baby
 Let me put something on your your (mmmmhhhm)
@@ -88,6 +92,3 @@ You should've known by now about my merri-go-round.
 Haven't your heard
 about the upand down and round and round
 You should've known by now about my merri-go-round.
-
-
-

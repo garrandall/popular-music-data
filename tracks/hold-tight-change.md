@@ -1,8 +1,11 @@
 ---
+album: Miracles
 artists:
 - Change
+external_ids:
+  spotify: spotify:track:4bh0r5EmhGg8bPmoy4KjUK
 features: []
-genres: []
+first_released_as_single: false
 key: hold-tight-change
 lyrics_url: https://genius.com/Change-hold-tight-lyrics
 name: Hold Tight
@@ -15,6 +18,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1981-08-15'
+release_year: 1981
+runtime: 267706
 ---
 Hold tight, hold tight
 If you wanna make this feeling stay

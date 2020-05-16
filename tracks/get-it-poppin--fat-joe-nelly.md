@@ -1,9 +1,12 @@
 ---
+album: All Or Nothing
 artists:
 - Fat Joe
+external_ids:
+  spotify: spotify:track:3zdDxhDo5SycC7XSAPfdjv
 features:
 - Nelly
-genres: []
+first_released_as_single: true
 key: get-it-poppin--fat-joe-nelly
 lyrics_url: https://www.azlyrics.com/lyrics/fatjoe/getitpoppin.html
 name: Get It Poppin'
@@ -88,9 +91,9 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '2005-10-15'
+release_year: 2005
+runtime: 211320
 ---
-
-
 Crack! Yeah, Scott Storch y'all
 Dirty, Crack! C'mon
 
@@ -187,6 +190,3 @@ Cafe Martorano, all my people in there partyin
 All the party people across the world
 Ladies, "Things of that Nature"
 Aowwww!
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Hidden Treasures From The West Coast
 artists:
 - The Blossoms
+external_ids:
+  spotify: spotify:track:3NLlqYIXCzgigXy4c3eH8s
 features: []
-genres: []
+first_released_as_single: false
 key: son-in-law-the-blossoms
 lyrics_url: https://www.musixmatch.com/lyrics/The-Blossoms/Son-In-Law
 name: Son-In-Law
@@ -23,6 +26,8 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1961-05-29'
+release_year: 1961
+runtime: 125933
 ---
 I'm the mother-in-law
 I sure am mad

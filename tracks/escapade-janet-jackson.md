@@ -1,8 +1,11 @@
 ---
+album: Rhythm Nation 1814
 artists:
 - Janet Jackson
+external_ids:
+  spotify: spotify:track:5HAv1Ckfe50DUjv8ghwTrz
 features: []
-genres: []
+first_released_as_single: false
 key: escapade-janet-jackson
 lyrics_url: https://www.azlyrics.com/lyrics/janetjackson/escapade.html
 name: Escapade
@@ -75,8 +78,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1990-05-12'
+release_year: 1989
+runtime: 283933
 ---
-
 As I was walkin by
 Saw you standin there
 With a smile
@@ -131,6 +135,3 @@ Come on baby let's get away
 Let's save your troubles for another day
 Come go with me we've got it made
 Let me take you on an escapade (let's go)
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Heartlight
 artists:
 - Neil Diamond
+external_ids:
+  spotify: spotify:track:0S1mANejJHapixjypLcvFM
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-alive-neil-diamond
 lyrics_url: https://genius.com/Neil-diamond-im-alive-lyrics
 name: I'm Alive
@@ -55,6 +58,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1983-04-02'
+release_year: 1982
+runtime: 227533
 ---
 Take a walk
 You can hardly breathe the air

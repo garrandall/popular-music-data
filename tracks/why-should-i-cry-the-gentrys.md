@@ -1,8 +1,11 @@
 ---
+album: The Gentrys
 artists:
 - The Gentrys
+external_ids:
+  spotify: spotify:track:63DZKZIbIxSf8XUfqIB6wC
 features: []
-genres: []
+first_released_as_single: false
 key: why-should-i-cry-the-gentrys
 name: Why Should I Cry
 rankings:
@@ -30,4 +33,7 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1970-03-14'
+release_year: 1970
+runtime: 132002
 ---
+

@@ -1,8 +1,11 @@
 ---
+album: Man of the Woods
 artists:
 - Justin Timberlake
+external_ids:
+  spotify: spotify:track:4Z6YruMINNspGet1gQyYlK
 features: []
-genres: []
+first_released_as_single: true
 key: supplies-justin-timberlake
 lyrics_url: https://www.azlyrics.com/lyrics/justintimberlake/supplies.html
 name: Supplies
@@ -15,8 +18,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2018-02-17'
+release_year: 2018
+runtime: 225600
 ---
-
 Ain't no need of stopping, girl
 There ain't no need of stopping, girl
 Yeah, okay
@@ -97,6 +101,3 @@ Yeah, okay
 Supplie-ie-ies
 I got you, I got supplie-ie-ies
 Supplie-ie-ies
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Significant Other
 artists:
 - Limp Bizkit
+external_ids:
+  spotify: spotify:track:6IPJ7LeWIOhxPW8Sq3nIGc
 features: []
-genres: []
+first_released_as_single: false
 key: re-arranged-limp-bizkit
 lyrics_url: https://www.azlyrics.com/lyrics/limpbizkit/rearranged.html
 name: Re-arranged
@@ -79,8 +82,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2000-04-01'
+release_year: 1999
+runtime: 354733
 ---
-
 Just think about it
 Just think about it
 
@@ -132,6 +136,3 @@ You ruin everything and you kept fuckin' with me until it's over and I won't be 
 
 Just think about it
 You get it
-
-
-

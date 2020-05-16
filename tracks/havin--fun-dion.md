@@ -1,8 +1,11 @@
 ---
+album: Alone With Dion
 artists:
 - Dion
+external_ids:
+  spotify: spotify:track:4pNxHKhUaAgdmj5RA0ULC5
 features: []
-genres: []
+first_released_as_single: false
 key: havin--fun-dion
 lyrics_url: https://genius.com/Dion-havin-fun-lyrics
 name: Havin' Fun
@@ -31,6 +34,8 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1961-03-13'
+release_year: 1961
+runtime: 141120
 ---
 Life is so strange
 With it's up and downs

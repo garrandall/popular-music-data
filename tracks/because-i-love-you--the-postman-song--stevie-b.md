@@ -1,8 +1,11 @@
 ---
+album: Best Of Love Songs
 artists:
 - Stevie B
+external_ids:
+  spotify: spotify:track:5133Vr9T5jaSNBlqSQRJDx
 features: []
-genres: []
+first_released_as_single: false
 key: because-i-love-you--the-postman-song--stevie-b
 lyrics_url: https://www.azlyrics.com/lyrics/stevieb/becauseiloveyouthepostmansong.html
 name: Because I Love You (The Postman Song)
@@ -99,8 +102,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1991-03-09'
+release_year: 1990
+runtime: 300106
 ---
-
 I got your letter from the postman just the other day
 So I decided to write you this song
 And just to let you know exactly the way I feel
@@ -130,6 +134,3 @@ Because I love you, my heart's an open door
 Girl, won't you please come on in
 Because I love you, I'll be right by your side
 To be your light, to be your guide
-
-
-

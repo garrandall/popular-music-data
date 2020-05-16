@@ -1,8 +1,11 @@
 ---
+album: M.P.G.
 artists:
 - Marvin Gaye
+external_ids:
+  spotify: spotify:track:0EQCaQzKJVCXkwSiQZUVHP
 features: []
-genres: []
+first_released_as_single: false
 key: too-busy-thinking-about-my-baby-marvin-gaye
 lyrics_url: https://www.azlyrics.com/lyrics/marvingaye/toobusythinkingaboutmybaby.html
 name: Too Busy Thinking About My Baby
@@ -67,8 +70,9 @@ rankings:
   rank: 31
   ranking_list: Billboard Hot 100
   start_date: '1969-08-02'
+release_year: 1969
+runtime: 176133
 ---
-
 Ah-ah-ah, oh yeah... Oh listen to me people
 
 I ain't got time to think about money
@@ -109,6 +113,3 @@ I just don't have any time
 
 (yeah, she's never hard to find
 'cause she's always on my mind)
-
-
-

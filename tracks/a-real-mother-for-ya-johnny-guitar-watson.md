@@ -1,8 +1,11 @@
 ---
+album: A Real Mother For Ya
 artists:
 - Johnny Guitar Watson
+external_ids:
+  spotify: spotify:track:27QTVCKEfq41PjPKQVa7vW
 features: []
-genres: []
+first_released_as_single: false
 key: a-real-mother-for-ya-johnny-guitar-watson
 lyrics_url: https://genius.com/Johnny-guitar-watson-a-real-mother-for-ya-lyrics
 name: A Real Mother For Ya
@@ -55,6 +58,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1977-09-24'
+release_year: 1977
+runtime: 304533
 ---
 Wanna buy a new car
 But the price ain't right

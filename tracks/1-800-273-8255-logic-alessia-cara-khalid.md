@@ -1,10 +1,13 @@
 ---
+album: Everybody
 artists:
 - Logic
+external_ids:
+  spotify: spotify:track:5tz69p7tJuGPeMGwNTxYuV
 features:
 - Alessia Cara
 - Khalid
-genres: []
+first_released_as_single: false
 key: 1-800-273-8255-logic-alessia-cara-khalid
 lyrics_url: https://www.azlyrics.com/lyrics/logic/18002738255.html
 name: 1-800-273-8255
@@ -177,9 +180,9 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '2018-02-24'
+release_year: 2017
+runtime: 250173
 ---
-
-
 I been on the low
 I been taking my time
 I feel like I'm out of my mind
@@ -287,6 +290,3 @@ I don't even wanna die anymore
 Oh I don't wanna
 I don't wanna
 I don't even wanna die anymore
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Fearless
 artists:
 - Taylor Swift
+external_ids:
+  spotify: spotify:track:0HmCuN0Z3OX1Qrz43FLOPL
 features: []
-genres: []
+first_released_as_single: false
 key: you-re-not-sorry-taylor-swift
 lyrics_url: https://genius.com/Taylor-swift-youre-not-sorry-lyrics
 name: You're Not Sorry
@@ -27,6 +30,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2009-04-04'
+release_year: 2008
+runtime: 261786
 ---
 All this time I was wasting hoping you would come around
 I've been giving out chances every time and all you do is let me down

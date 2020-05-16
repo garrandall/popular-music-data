@@ -1,8 +1,11 @@
 ---
+album: Comin' Atcha!
 artists:
 - Cleopatra
+external_ids:
+  spotify: spotify:track:73NMoIdOqIfg5Dma68Gi4R
 features: []
-genres: []
+first_released_as_single: false
 key: life-ain-t-easy-cleopatra
 lyrics_url: https://genius.com/Cleopatra-life-aint-easy-lyrics
 name: Life Ain't Easy
@@ -27,6 +30,8 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1998-11-28'
+release_year: 1998
+runtime: 200226
 ---
 (Life ain't easy
 Gonna change

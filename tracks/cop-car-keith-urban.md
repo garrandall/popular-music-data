@@ -1,8 +1,11 @@
 ---
+album: Fuse
 artists:
 - Keith Urban
+external_ids:
+  spotify: spotify:track:5vCgOg9VqRaAUbnflCO6P3
 features: []
-genres: []
+first_released_as_single: false
 key: cop-car-keith-urban
 lyrics_url: https://www.azlyrics.com/lyrics/keithurban/copcar.html
 name: Cop Car
@@ -79,8 +82,9 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2014-06-14'
+release_year: 2013
+runtime: 256746
 ---
-
 We drove right past
 That no trespassing sign
 
@@ -140,4 +144,3 @@ We sat real close
 By the time they let us go
 
 I was already gone
-

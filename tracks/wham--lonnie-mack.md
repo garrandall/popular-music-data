@@ -1,8 +1,11 @@
 ---
+album: Strike Like Lightning
 artists:
 - Lonnie Mack
+external_ids:
+  spotify: spotify:track:2jBdYUScUrdS8H1RERmvUR
 features: []
-genres: []
+first_released_as_single: false
 key: wham--lonnie-mack
 lyrics_url: https://genius.com/Lonnie-mack-wham-lyrics
 name: Wham!
@@ -43,5 +46,7 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '1963-10-19'
+release_year: 1963
+runtime: 218640
 ---
-*~* instrumental *~*
+(instrumental)

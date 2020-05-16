@@ -1,8 +1,11 @@
 ---
+album: Wild Ones
 artists:
 - Kip Moore
+external_ids:
+  spotify: spotify:track:15bIuGUsLwF0gxI48HKoEd
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-to-blame-kip-moore
 lyrics_url: https://genius.com/Kip-moore-im-to-blame-lyrics
 name: I'm To Blame
@@ -11,6 +14,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2015-09-12'
+release_year: 2015
+runtime: 136013
 ---
 If it ain’t broke, you can bet that I’m gonna break it
 If there’s a wrong road, I’m damn sure gonna take it

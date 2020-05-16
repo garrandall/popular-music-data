@@ -1,8 +1,11 @@
 ---
+album: One Fine Morning
 artists:
 - Lighthouse
+external_ids:
+  spotify: spotify:track:5pT1UzzwpzFpRJGJI4z0qi
 features: []
-genres: []
+first_released_as_single: false
 key: one-fine-morning-lighthouse
 lyrics_url: https://genius.com/Lighthouse-one-fine-morning-lyrics
 name: One Fine Morning
@@ -55,6 +58,8 @@ rankings:
   rank: 36
   ranking_list: Billboard Hot 100
   start_date: '1971-11-27'
+release_year: 1971
+runtime: 319320
 ---
 One fine morning, girl, I'll wake up
 Wipe the sleep from my eyes

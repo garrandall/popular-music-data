@@ -1,8 +1,11 @@
 ---
+album: Keeper Of The Castle
 artists:
 - Four Tops
+external_ids:
+  spotify: spotify:track:14TgffNQPJhXzbTe6LUsaB
 features: []
-genres: []
+first_released_as_single: false
 key: keeper-of-the-castle-four-tops
 lyrics_url: https://www.azlyrics.com/lyrics/fourtops/keeperofthecastle.html
 name: Keeper Of The Castle
@@ -55,8 +58,9 @@ rankings:
   rank: 31
   ranking_list: Billboard Hot 100
   start_date: '1973-01-27'
+release_year: 1972
+runtime: 176360
 ---
-
 Live it down, there's a lot of us been pushed around
 Red, yellow, black, white and brown with a tear of their own
 Oh, can't you see while you're pickin' on society
@@ -85,6 +89,3 @@ That the leaves on your family tree are beggin' you to come on home
 Live it down, there's a lot of us been pushed around
 Red, yellow, black, white and brown with a tear of their own
 In your head, you don't believe what the good book said
-
-
-

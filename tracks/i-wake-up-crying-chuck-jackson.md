@@ -1,8 +1,11 @@
 ---
+album: Super Hits
 artists:
 - Chuck Jackson
+external_ids:
+  spotify: spotify:track:2dM9eWZq6RDqLiOWPOQpvX
 features: []
-genres: []
+first_released_as_single: true
 key: i-wake-up-crying-chuck-jackson
 lyrics_url: https://genius.com/Chuck-jackson-i-wake-up-crying-lyrics
 name: I Wake Up Crying
@@ -39,6 +42,8 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '1961-10-09'
+release_year: 1961
+runtime: 137386
 ---
 I wake up crying
 After tossing and turning

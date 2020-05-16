@@ -1,8 +1,11 @@
 ---
+album: Hummin' Comin' At 'Cha
 artists:
 - Xscape
+external_ids:
+  spotify: spotify:track:5hzdcPTFKEuRVuN8cTkcvl
 features: []
-genres: []
+first_released_as_single: false
 key: love-on-my-mind-xscape
 lyrics_url: https://www.azlyrics.com/lyrics/xscape/loveonmymind.html
 name: Love On My Mind
@@ -67,9 +70,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1994-07-30'
+release_year: 1993
+runtime: 229040
 ---
-
-
 Boy, I can't wait to get you alone,
 Inside my house.
 'Cause baby it's you and only you,
@@ -102,4 +105,3 @@ And I'm feeling so sexy.
 You know I never felt this way before,
 I really can't help myself,
 'Cause I'm thinking of nothing else.
-

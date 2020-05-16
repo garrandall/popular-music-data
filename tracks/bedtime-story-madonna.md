@@ -1,8 +1,11 @@
 ---
+album: Bedtime Stories
 artists:
 - Madonna
+external_ids:
+  spotify: spotify:track:1dOXmR1VsGmkM9c72ka0je
 features: []
-genres: []
+first_released_as_single: false
 key: bedtime-story-madonna
 lyrics_url: https://www.azlyrics.com/lyrics/madonna/bedtimestory.html
 name: Bedtime Story
@@ -35,8 +38,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1995-06-03'
+release_year: 1994
+runtime: 292906
 ---
-
 Today is the last day that I'm using words
 They've gone out, lost their meaning
 Don't function anymore
@@ -83,6 +87,3 @@ Traveling, traveling, in the arms of unconsciousness
 And all that you've ever learned
 Try to forget
 I'll never explain again
-
-
-

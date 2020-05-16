@@ -1,8 +1,12 @@
 ---
+album: 'The Singles Vol. 5: 1967-1969'
 artists:
-- James Brown And The Famous Flames
-features: []
-genres: []
+- James Brown
+external_ids:
+  spotify: spotify:track:0lF4vTTszEImpNoqM75bnV
+features:
+- The Famous Flames
+first_released_as_single: false
 key: i-guess-i-ll-have-to-cry-cry-cry-james-brown-and-the-famous-flames
 lyrics_url: https://genius.com/James-brown-and-the-famous-flames-i-guess-ill-have-to-cry-cry-cry-lyrics
 name: I Guess I'll Have To Cry Cry Cry
@@ -31,6 +35,8 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '1968-08-31'
+release_year: 1968
+runtime: 232626
 ---
 My cup is running over
 Don't know what to do

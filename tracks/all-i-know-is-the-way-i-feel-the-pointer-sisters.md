@@ -1,8 +1,11 @@
 ---
+album: Hot Together
 artists:
 - The Pointer Sisters
+external_ids:
+  spotify: spotify:track:5wa6RYje89KbruKNFdsIy0
 features: []
-genres: []
+first_released_as_single: false
 key: all-i-know-is-the-way-i-feel-the-pointer-sisters
 lyrics_url: https://www.azlyrics.com/lyrics/pointersisters/alliknowisthewayifeel.html
 name: All I Know Is The Way I Feel
@@ -15,8 +18,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1987-02-28'
+release_year: 1986
+runtime: 282000
 ---
-
 All I know is the way I feel
 Anything that makes me feel so good
 Just got to be
@@ -51,6 +55,3 @@ It's scarin' me to death to think
 What you could do to me
 All I know is the way I feel
 Nothin' in my life ever was so real
-
-
-

@@ -1,9 +1,12 @@
 ---
+album: Money Sucks, Friends Rule
 artists:
 - Dillon Francis
 - DJ Snake
+external_ids:
+  spotify: spotify:track:0rbbxIeycN5WGoYWryIlWx
 features: []
-genres: []
+first_released_as_single: true
 key: get-low-dillon-francis-dj-snake
 lyrics_url: https://genius.com/Dillon-francis-and-dj-snake-get-low-lyrics
 name: Get Low
@@ -44,6 +47,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2015-06-20'
+release_year: 2014
+runtime: 214933
 ---
 Get low, get-get-get low
 Get low, get-get-get low

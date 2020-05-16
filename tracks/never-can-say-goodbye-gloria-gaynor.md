@@ -1,8 +1,11 @@
 ---
+album: Never Can Say Goodbye
 artists:
 - Gloria Gaynor
+external_ids:
+  spotify: spotify:track:3b9Cpi8jW9jNoyx72QbfRO
 features: []
-genres: []
+first_released_as_single: false
 key: never-can-say-goodbye-gloria-gaynor
 lyrics_url: https://genius.com/Gloria-gaynor-never-can-say-goodbye-lyrics
 name: Never Can Say Goodbye
@@ -75,6 +78,8 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1975-02-22'
+release_year: 1974
+runtime: 179466
 ---
 I never can say goodbye, no, no, no, I
 I never can say goodbye

@@ -1,8 +1,11 @@
 ---
+album: Heartbreaker
 artists:
 - Dolly Parton
+external_ids:
+  spotify: spotify:track:2Asiem9O0YGuvvoAkz8aSq
 features: []
-genres: []
+first_released_as_single: false
 key: baby-i-m-burnin--dolly-parton
 lyrics_url: https://genius.com/Dolly-parton-baby-im-burning-lyrics
 name: Baby I'm Burnin'
@@ -63,6 +66,8 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1979-03-10'
+release_year: 1978
+runtime: 156960
 ---
 You look at me that way
 I know what your eyes say

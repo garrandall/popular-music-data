@@ -1,8 +1,11 @@
 ---
+album: I Wish We All Could Win
 artists:
 - The Afters
+external_ids:
+  spotify: spotify:track:2Sx2TE4Lm977qfXcBF3KU3
 features: []
-genres: []
+first_released_as_single: false
 key: beautiful-love-the-afters
 lyrics_url: https://genius.com/The-afters-beautiful-love-lyrics
 name: Beautiful Love
@@ -35,6 +38,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2006-05-27'
+release_year: 2005
+runtime: 238320
 ---
 Far away, I feel your beating heart
 All alone, beneath the crystal stars

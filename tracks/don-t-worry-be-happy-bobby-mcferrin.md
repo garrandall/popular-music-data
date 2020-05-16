@@ -1,8 +1,11 @@
 ---
+album: Simple Pleasures
 artists:
 - Bobby McFerrin
+external_ids:
+  spotify: spotify:track:4hObp5bmIJ3PP3cKA9K9GY
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-worry-be-happy-bobby-mcferrin
 lyrics_url: https://genius.com/Bobby-mcferrin-dont-worry-be-happy-lyrics
 name: Don't Worry Be Happy
@@ -111,6 +114,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1989-01-21'
+release_year: 1988
+runtime: 294400
 ---
 Here's a little song I wrote
 You might want to sing it note for note

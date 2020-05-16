@@ -1,8 +1,11 @@
 ---
+album: Bachman Turner Overdrive
 artists:
 - Bachman-Turner Overdrive
+external_ids:
+  spotify: spotify:track:5cW22ruJYy9k7IlawMCe6P
 features: []
-genres: []
+first_released_as_single: false
 key: blue-collar-bachman-turner-overdrive
 lyrics_url: https://www.azlyrics.com/lyrics/btobachmanturneroverdrive/bluecollar.html
 name: Blue Collar
@@ -31,8 +34,9 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1974-01-05'
+release_year: 1973
+runtime: 372906
 ---
-
 Walk your street
 And I'll walk mine
 And should we meet
@@ -60,6 +64,3 @@ Your restless face
 Is no longer mine
 I rest my feet while this world's in heat and I wish that you could do the same
 Blue collar
-
-
-

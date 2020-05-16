@@ -1,8 +1,11 @@
 ---
+album: T.P.E. featuring Adam Marano
 artists:
 - T.P.E.
+external_ids:
+  spotify: spotify:track:62P5C3fXhFl3PkNMWzGcoK
 features: []
-genres: []
+first_released_as_single: false
 key: then-came-you-t-p-e-
 lyrics_url: https://genius.com/Tpe-then-came-you-lyrics
 name: Then Came You
@@ -15,6 +18,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1991-12-07'
+release_year: 1991
+runtime: 277026
 ---
 All my dreams became reality
 From the first day

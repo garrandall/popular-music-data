@@ -1,8 +1,11 @@
 ---
+album: On the Edge
 artists:
 - The Babys
+external_ids:
+  spotify: spotify:track:6IX0183zI4Jz6LxcGYiNzS
 features: []
-genres: []
+first_released_as_single: false
 key: turn-and-walk-away-the-babys
 lyrics_url: https://www.azlyrics.com/lyrics/babys/turnandwalkaway.html
 name: Turn And Walk Away
@@ -55,8 +58,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1981-01-31'
+release_year: 1980
+runtime: 191573
 ---
-
 You still believe you love him
 I still believe I'm right
 You're lost and I can't find you
@@ -111,6 +115,3 @@ Walk away
 Turn around
 Turn and walk away
 We're gonna turn our backs on love
-
-
-

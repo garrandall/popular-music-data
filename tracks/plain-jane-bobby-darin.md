@@ -1,8 +1,11 @@
 ---
+album: Sing & Swing With Bobby Darin
 artists:
 - Bobby Darin
+external_ids:
+  spotify: spotify:track:1YtB7FthtFt2f0rKvqJZP6
 features: []
-genres: []
+first_released_as_single: false
 key: plain-jane-bobby-darin
 lyrics_url: https://www.azlyrics.com/lyrics/bobbydarin/plainjane.html
 name: Plain Jane
@@ -43,8 +46,9 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '1959-03-23'
+release_year: 1959
+runtime: 115266
 ---
-
 My plain Jane never wear
 A-no lipstick or paint
 You know she'll never try
@@ -101,6 +105,3 @@ I said... spend the time with me
 Woo... plain Jane
 I love her just the same
 Oh... plain Jane
-
-
-

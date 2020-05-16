@@ -1,8 +1,11 @@
 ---
+album: Roger Miller
 artists:
 - Roger Miller
+external_ids:
+  spotify: spotify:track:6PgTphQh0ZVH5PUq5mg0ml
 features: []
-genres: []
+first_released_as_single: false
 key: walkin--in-the-sunshine-roger-miller
 lyrics_url: https://www.azlyrics.com/lyrics/rogermiller/walkininthesunshine.html
 name: Walkin' In The Sunshine
@@ -35,8 +38,9 @@ rankings:
   rank: 37
   ranking_list: Billboard Hot 100
   start_date: '1967-05-06'
+release_year: 1967
+runtime: 153552
 ---
-
 Walking In the Sunshine, sing a little sunshine song 
 Put a smile upon your face as if there's nothing wrong 
 Think about a good time had a long time ago 
@@ -67,6 +71,3 @@ Walking In The Sunshine, sing a little sunshine song
 
 Walking In the Sunshine, singing a little sunshine song 
 Put a smile upon your face as if there's nothing wrong
-
-
-

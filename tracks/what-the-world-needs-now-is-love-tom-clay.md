@@ -1,8 +1,11 @@
 ---
+album: 'The Complete Motown Singles Vol. 11A: 1971'
 artists:
 - Tom Clay
+external_ids:
+  spotify: spotify:track:706CvlhWdQi3hmCEas3iBN
 features: []
-genres: []
+first_released_as_single: false
 key: what-the-world-needs-now-is-love-tom-clay
 lyrics_url: https://genius.com/Tom-clay-what-the-world-needs-now-is-love-lyrics
 name: What The World Needs Now Is Love
@@ -43,6 +46,8 @@ rankings:
   rank: 28
   ranking_list: Billboard Hot 100
   start_date: '1971-09-04'
+release_year: 1971
+runtime: 379293
 ---
 Man: What is segration?
 Kid: I don't know what segration is

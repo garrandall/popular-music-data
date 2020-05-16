@@ -1,8 +1,11 @@
 ---
+album: Stereotomy
 artists:
 - The Alan Parsons Project
+external_ids:
+  spotify: spotify:track:2gQQO24clZLm0ipgHlZuwE
 features: []
-genres: []
+first_released_as_single: false
 key: stereotomy-the-alan-parsons-project
 lyrics_url: https://www.azlyrics.com/lyrics/alanparsonsproject/stereotomy.html
 name: Stereotomy
@@ -23,8 +26,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1986-03-08'
+release_year: 1977
+runtime: 422773
 ---
-
 Diamond eyes
 That burn me and turn me to stone
 Crystalise
@@ -76,6 +80,3 @@ Make me a rock
 And not what I appear to be
 Turn me to stone
 Turn me to stone
-
-
-

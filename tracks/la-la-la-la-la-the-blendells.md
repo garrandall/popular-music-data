@@ -1,8 +1,11 @@
 ---
+album: Baby Don't Go
 artists:
 - The Blendells
+external_ids:
+  spotify: spotify:track:7tpKhVU4RzCK8R6Ry0exhb
 features: []
-genres: []
+first_released_as_single: false
 key: la-la-la-la-la-the-blendells
 lyrics_url: https://www.musixmatch.com/lyrics/The-Blendells/La-La-La-La-La
 name: La La La La La
@@ -39,6 +42,8 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1964-10-31'
+release_year: 1964
+runtime: 176506
 ---
 La la la la la, la la la la la
 La la la la la la, la la la la la

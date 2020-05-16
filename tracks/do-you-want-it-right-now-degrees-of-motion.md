@@ -1,8 +1,11 @@
 ---
+album: Degrees of Motion
 artists:
 - Degrees Of Motion
+external_ids:
+  spotify: spotify:track:0JnTvHfPhROn64O0YJjUy4
 features: []
-genres: []
+first_released_as_single: false
 key: do-you-want-it-right-now-degrees-of-motion
 lyrics_url: https://genius.com/Degrees-of-motion-do-you-want-it-right-now-lyrics
 name: Do You Want It Right Now
@@ -15,6 +18,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1992-03-14'
+release_year: 1991
+runtime: 554133
 ---
 Do you want it right now
 

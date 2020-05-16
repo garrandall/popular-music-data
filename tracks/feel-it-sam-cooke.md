@@ -1,8 +1,11 @@
 ---
+album: One Night Stand - Sam Cooke Live At The Harlem Square Club, 1963
 artists:
 - Sam Cooke
+external_ids:
+  spotify: spotify:track:2j5AMkbTet4BvTWhKrPOta
 features: []
-genres: []
+first_released_as_single: false
 key: feel-it-sam-cooke
 lyrics_url: https://genius.com/Sam-cooke-feel-it-lyrics
 name: Feel It
@@ -43,6 +46,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1966-02-26'
+release_year: 1961
+runtime: 174733
 ---
 Feel it, feel it
 

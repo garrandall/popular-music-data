@@ -1,8 +1,11 @@
 ---
+album: Encouraging Words
 artists:
 - Billy Preston
+external_ids:
+  spotify: spotify:track:1E7QpnEGPmb4fvIVbl14zn
 features: []
-genres: []
+first_released_as_single: false
 key: my-sweet-lord-billy-preston
 lyrics_url: https://www.azlyrics.com/lyrics/billypreston/mysweetlord.html
 name: My Sweet Lord
@@ -19,8 +22,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1971-02-27'
+release_year: 1971
+runtime: 203426
 ---
-
 My sweet Lord
 Hm, my Lord
 Hm, my Lord
@@ -105,6 +109,3 @@ My sweet Lord
 (Hare Krishna)
 Sweet, sweet Lord
 (Hare Krishna)
-
-
-

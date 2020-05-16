@@ -1,8 +1,11 @@
 ---
+album: Down Every Road 1962-1994
 artists:
 - Merle Haggard And The Strangers
+external_ids:
+  spotify: spotify:track:6d2OuN0MzSEn7LB9BHnekK
 features: []
-genres: []
+first_released_as_single: false
 key: carolyn-merle-haggard-and-the-strangers
 name: Carolyn
 rankings:
@@ -34,5 +37,7 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1972-01-15'
+release_year: 1971
+runtime: 153400
 ---
 

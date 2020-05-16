@@ -1,8 +1,11 @@
 ---
+album: Camp Rock
 artists:
 - Jonas Brothers
+external_ids:
+  spotify: spotify:track:5MTQbjkMmE6WsDQ8JlyEVo
 features: []
-genres: []
+first_released_as_single: false
 key: play-my-music-jonas-brothers
 lyrics_url: https://www.azlyrics.com/lyrics/jonasbrothers/playmymusic.html
 name: Play My Music
@@ -27,8 +30,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '2008-08-02'
+release_year: 2008
+runtime: 197506
 ---
-
 Turn on that radio
 As loud as it can go
 Wanna dance until my feet can't feel the ground
@@ -105,6 +109,3 @@ and I'm never letting go
 No, no
 I just want to play my music
 All night long
-
-
-

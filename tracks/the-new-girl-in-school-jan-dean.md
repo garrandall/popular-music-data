@@ -1,9 +1,12 @@
 ---
+album: 'All The Hits: From Surf City To Drag City'
 artists:
 - Jan
 - Dean
+external_ids:
+  spotify: spotify:track:09hzAyNfNaJyNL17YtCp1Q
 features: []
-genres: []
+first_released_as_single: false
 key: the-new-girl-in-school-jan-dean
 lyrics_url: https://www.azlyrics.com/lyrics/jandean/thenewgirlinschool.html
 name: The New Girl In School
@@ -40,8 +43,9 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '1964-05-09'
+release_year: 1964
+runtime: 185093
 ---
-
 Papa do ron-de ron-de, do ron-de ron-de, do ron-de ron-de, oh
 I got it bad for the new girl in school
 The guys are flipping, but I'm playing it cool
@@ -73,6 +77,3 @@ Little girl if you want me to...
 I got a lot going
 Little girl if you want me to...
 I got it bad, pappa, do ron-de ron-de
-
-
-

@@ -1,9 +1,12 @@
 ---
+album: Some Cut - From King Of Crunk/Chopped & Screwed
 artists:
 - Trillville
+external_ids:
+  spotify: spotify:track:14sDzq0rM97u4wcWsD9ox7
 features:
 - Cutty
-genres: []
+first_released_as_single: true
 key: some-cut-trillville-cutty
 lyrics_url: https://genius.com/Trillville-some-cut-lyrics
 name: Some Cut
@@ -108,6 +111,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2005-06-11'
+release_year: 2004
+runtime: 331213
 ---
 What it is ho, what's up
 Can a nigga get in them guts

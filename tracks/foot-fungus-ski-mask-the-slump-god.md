@@ -1,8 +1,11 @@
 ---
+album: STOKELEY
 artists:
 - Ski Mask The Slump God
+external_ids:
+  spotify: spotify:track:3EikYy40GMSp8l5mDV6IQo
 features: []
-genres: []
+first_released_as_single: false
 key: foot-fungus-ski-mask-the-slump-god
 lyrics_url: https://www.azlyrics.com/lyrics/skimasktheslumpgod/footfungus.html
 name: Foot Fungus
@@ -11,8 +14,9 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '2018-12-15'
+release_year: 2018
+runtime: 129546
 ---
-
 Okay, okay, alright, huh
 Oh, mmm, okay, haha
 Nigga drop this one
@@ -57,6 +61,3 @@ Watchin' me, what you see? Diamonds HD
 Shinin' brighter than the smile on my auntie
 Hawaiian punch a nigga that be tryna play me
 Hol' up I just pull up in a new Mercedes
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Pop rock en stock
 artists:
 - Michel Polnareff
+external_ids:
+  spotify: spotify:track:3tO1mwUmm72p3R9j5rlQSz
 features: []
-genres: []
+first_released_as_single: false
 key: lipstick-michel-polnareff
 name: Lipstick
 rankings:
@@ -34,5 +37,7 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1976-07-10'
+release_year: 1976
+runtime: 215186
 ---
 

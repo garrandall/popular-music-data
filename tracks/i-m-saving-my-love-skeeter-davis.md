@@ -1,8 +1,11 @@
 ---
+album: The Essential Skeeter Davis
 artists:
 - Skeeter Davis
+external_ids:
+  spotify: spotify:track:38SpiDNzvOW86mGLHAdFFe
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-saving-my-love-skeeter-davis
 lyrics_url: https://genius.com/Skeeter-davis-im-saving-my-love-lyrics
 name: I'm Saving My Love
@@ -35,6 +38,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1963-06-22'
+release_year: 1963
+runtime: 119973
 ---
 I'm saving my love for someone who loves me
 For someone who loves me the way I loved you

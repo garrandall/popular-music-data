@@ -1,8 +1,11 @@
 ---
+album: Fix Me Up
 artists:
 - Zach Sobiech
+external_ids:
+  spotify: spotify:track:1ad6CbExeZneBGswe5YuSD
 features: []
-genres: []
+first_released_as_single: true
 key: clouds-zach-sobiech
 lyrics_url: https://www.azlyrics.com/lyrics/zachsobiech/clouds.html
 name: Clouds
@@ -15,8 +18,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2013-06-15'
+release_year: 2012
+runtime: 179626
 ---
-
 I fell down, down, down
 Into this dark and lonely hole
 There was no one there to care about me anymore
@@ -56,6 +60,3 @@ But I'll fly a little higher
 Go up in the clouds because the view's a little nicer
 Up here my dear
 It won't be long now, it won't be long now
-
-
-

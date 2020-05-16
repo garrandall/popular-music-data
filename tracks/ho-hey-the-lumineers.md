@@ -1,8 +1,11 @@
 ---
+album: The Lumineers
 artists:
 - The Lumineers
+external_ids:
+  spotify: spotify:track:0W4Kpfp1w2xkY3PrV714B7
 features: []
-genres: []
+first_released_as_single: false
 key: ho-hey-the-lumineers
 lyrics_url: https://www.azlyrics.com/lyrics/lumineers/hohey.html
 name: Ho Hey
@@ -255,8 +258,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2013-08-24'
+release_year: 2012
+runtime: 163133
 ---
-
 (Ho!)
 (Hey!)
 (Ho!)
@@ -312,6 +316,3 @@ I belong with you, you belong with me, you're my sweet
 (Ho!)
 (The last one)
 (Hey!)
-
-
-

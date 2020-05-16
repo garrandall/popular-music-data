@@ -1,8 +1,11 @@
 ---
+album: Yes I Am
 artists:
 - Melissa Etheridge
+external_ids:
+  spotify: spotify:track:4veE1jrMbVSy9FRCiYDGkD
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-the-only-one-melissa-etheridge
 lyrics_url: https://genius.com/Melissa-etheridge-im-the-only-one-lyrics
 name: I'm The Only One
@@ -167,6 +170,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1995-05-06'
+release_year: 1993
+runtime: 295000
 ---
 Please, baby, can't you see
 My mind's a burnin' hell

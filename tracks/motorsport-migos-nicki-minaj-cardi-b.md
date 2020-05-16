@@ -1,10 +1,13 @@
 ---
+album: Culture II
 artists:
 - Migos
 - Nicki Minaj
 - Cardi B
+external_ids:
+  spotify: spotify:track:5raxHz5pB08qa7Ge3LwrMr
 features: []
-genres: []
+first_released_as_single: false
 key: motorsport-migos-nicki-minaj-cardi-b
 lyrics_url: https://www.azlyrics.com/lyrics/migos/motorsport.html
 name: MotorSport
@@ -97,9 +100,9 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '2018-04-07'
+release_year: 2017
+runtime: 306360
 ---
-
-
 Yeah, woo, yeah, skrrt
 M-M-M-Murda
 
@@ -234,6 +237,3 @@ Girl, yeah, yeah, I wish my grandma could see me (grandma)
 Take away pain, ain't easy (pain)
 That's why I fire up a bleezy (fire)
 Niggas not cappin' this season
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Keep On Jumpin'
 artists:
 - Musique
+external_ids:
+  spotify: spotify:track:5d91gYhpa5j11JKx2fgWHx
 features: []
-genres: []
+first_released_as_single: false
 key: in-the-bush-musique
 lyrics_url: https://genius.com/Musique-in-the-bush-lyrics
 name: In The Bush
@@ -59,6 +62,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1979-01-13'
+release_year: 1978
+runtime: 485800
 ---
 Push, push in the bush
 Push, push in the bush

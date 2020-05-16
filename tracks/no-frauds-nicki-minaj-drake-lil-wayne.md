@@ -1,10 +1,13 @@
 ---
+album: No Frauds
 artists:
 - Nicki Minaj
 - Drake
 - Lil Wayne
+external_ids:
+  spotify: spotify:track:7KcGEssn7BnJdTgildK5y0
 features: []
-genres: []
+first_released_as_single: true
 key: no-frauds-nicki-minaj-drake-lil-wayne
 lyrics_url: https://www.azlyrics.com/lyrics/nickiminaj/nofrauds.html
 name: No Frauds
@@ -37,8 +40,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2017-05-13'
+release_year: 2017
+runtime: 272453
 ---
-
 M-m-murda
 
 
@@ -136,6 +140,3 @@ I don't need no drama, I just need some nana
 Just told my little mama, "Babe, I think I love you, kinda"
 Feelin' like Tune-y Montana, Weezy, he get honored
 Drake a headliner, and Nicki, she get finer, word
-
-
-

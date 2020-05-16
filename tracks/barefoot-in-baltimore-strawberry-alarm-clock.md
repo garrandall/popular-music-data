@@ -1,8 +1,11 @@
 ---
+album: The World In A Sea Shell
 artists:
 - Strawberry Alarm Clock
+external_ids:
+  spotify: spotify:track:7gxeDaqGLT33dkWSTAEOue
 features: []
-genres: []
+first_released_as_single: false
 key: barefoot-in-baltimore-strawberry-alarm-clock
 lyrics_url: https://www.azlyrics.com/lyrics/strawberryalarmclock/barefootinbaltimore.html
 name: Barefoot In Baltimore
@@ -23,8 +26,9 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1968-09-21'
+release_year: 1968
+runtime: 142293
 ---
-
 Barefoot in Baltimore
 Heel and toe with you
 
@@ -59,6 +63,3 @@ And a love with so much to say
 
 Barefoot in Baltimore
 Heel and toe with you
-
-
-

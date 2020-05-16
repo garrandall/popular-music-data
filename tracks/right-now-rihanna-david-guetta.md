@@ -1,9 +1,12 @@
 ---
+album: Unapologetic (Edited Version)
 artists:
 - Rihanna
+external_ids:
+  spotify: spotify:track:5ddyv4YSisOEdncyHXXNDs
 features:
 - David Guetta
-genres: []
+first_released_as_single: false
 key: right-now-rihanna-david-guetta
 lyrics_url: https://www.azlyrics.com/lyrics/rihanna/rightnow.html
 name: Right Now
@@ -44,8 +47,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2013-08-31'
+release_year: 2012
+runtime: 181626
 ---
-
 Tomorrow way too far away
 And we can't get back yesterday
 But we young right now
@@ -107,6 +111,3 @@ So get up right now
 'Cause all we got is right now
 
 'Cause all we got is right now
-
-
-

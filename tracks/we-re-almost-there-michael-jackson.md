@@ -1,8 +1,11 @@
 ---
+album: Forever, Michael
 artists:
 - Michael Jackson
+external_ids:
+  spotify: spotify:track:5kazs4V71SpcTVUTcorIyJ
 features: []
-genres: []
+first_released_as_single: false
 key: we-re-almost-there-michael-jackson
 lyrics_url: https://www.azlyrics.com/lyrics/michaeljackson/werealmostthere.html
 name: We're Almost There
@@ -39,8 +42,9 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '1975-04-19'
+release_year: 1975
+runtime: 227146
 ---
-
 No matter how hard
 The task may seem
 Don't give up our plans
@@ -140,6 +144,3 @@ We're almost there
 We're almost there
 
 Ah we're almost there
-
-
-

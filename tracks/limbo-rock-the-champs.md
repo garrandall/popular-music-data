@@ -1,8 +1,11 @@
 ---
+album: Greatest Hits / Tequila
 artists:
 - The Champs
+external_ids:
+  spotify: spotify:track:5Z3yaDdcBIiYT7g8DgtYlX
 features: []
-genres: []
+first_released_as_single: false
 key: limbo-rock-the-champs
 lyrics_url: https://www.musixmatch.com/lyrics/The-Champs/Limbo-Rock
 name: Limbo Rock
@@ -59,6 +62,8 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '1962-08-18'
+release_year: 1958
+runtime: 125266
 ---
 Every limbo boy and girl
 All around the limbo world

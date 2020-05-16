@@ -1,8 +1,11 @@
 ---
+album: White Ladder
 artists:
 - David Gray
+external_ids:
+  spotify: spotify:track:5jLqVCGlKNYrLqCA1Qy4FV
 features: []
-genres: []
+first_released_as_single: false
 key: babylon-david-gray
 lyrics_url: https://www.azlyrics.com/lyrics/davidgray/babylon.html
 name: Babylon
@@ -79,8 +82,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2001-03-31'
+release_year: 1998
+runtime: 265666
 ---
-
 Friday night I'm going nowhere
 All the lights are changing green to red
 Turning over TV stations
@@ -150,7 +154,4 @@ Let go of your heart
 Let go of your head
 And feel it now
 
-Babylon 
-
-
-
+Babylon

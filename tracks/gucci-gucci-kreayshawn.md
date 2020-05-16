@@ -1,8 +1,11 @@
 ---
+album: Music From The Motion Picture The Sitter
 artists:
 - Kreayshawn
+external_ids:
+  spotify: spotify:track:4PoDU8p0vc2sxtxIN3IkhP
 features: []
-genres: []
+first_released_as_single: true
 key: gucci-gucci-kreayshawn
 lyrics_url: https://www.azlyrics.com/lyrics/kreayshawn/guccigucci.html
 name: Gucci Gucci
@@ -47,8 +50,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2011-10-15'
+release_year: 2011
+runtime: 187173
 ---
-
 One big room full of bad bitches
 
 And we stunting like
@@ -111,6 +115,3 @@ Oh, all you basic-ass hoes out there
 Man, I got rooms full of bad bitches
 They don't need Gucci, they don't need Louis
 We swagging, ehh, meow
-
-
-

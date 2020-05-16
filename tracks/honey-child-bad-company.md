@@ -1,8 +1,11 @@
 ---
+album: Run With The Pack
 artists:
 - Bad Company
+external_ids:
+  spotify: spotify:track:2qsBXEsoTRDGChjUPyFT6h
 features: []
-genres: []
+first_released_as_single: false
 key: honey-child-bad-company
 lyrics_url: https://www.azlyrics.com/lyrics/badcompany/honeychild.html
 name: Honey Child
@@ -31,8 +34,9 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1976-08-14'
+release_year: 1976
+runtime: 197346
 ---
-
 Well, the first time that I met you, You were only seventeen,
 But I had to put you down, 'Cause I didn't know where you'd been.
 You had a long black dress, Your hair in a mess,
@@ -56,6 +60,3 @@ Don't you know you drive me wild. Oh, oh, honey child,
 Don't you know you drive me wild. Honey child, now,
 Don't you know you drive me wild, Yeah, yeah.
 Honey, honey, honey, honey child, Don't you know you drive me wild.
-
-
-

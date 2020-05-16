@@ -1,8 +1,11 @@
 ---
+album: The Age Of Aquarius
 artists:
 - The 5th Dimension
+external_ids:
+  spotify: spotify:track:5cQ27m0eLGG3wOcMQovj2e
 features: []
-genres: []
+first_released_as_single: false
 key: wedding-bell-blues-the-5th-dimension
 lyrics_url: https://genius.com/The-5th-dimension-wedding-bell-blues-lyrics
 name: Wedding Bell Blues
@@ -67,6 +70,8 @@ rankings:
   rank: 32
   ranking_list: Billboard Hot 100
   start_date: '1970-01-03'
+release_year: 1969
+runtime: 163933
 ---
 Bill, I love you so, I always will
 I look at you and see the passion eyes of May (eyes of May)

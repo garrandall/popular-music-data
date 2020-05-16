@@ -1,8 +1,11 @@
 ---
+album: First Love
 artists:
 - Buffy
+external_ids:
+  spotify: spotify:track:4KazaC4HTYKJarG7jfaLYY
 features: []
-genres: []
+first_released_as_single: false
 key: give-mea-reason-buffy
 lyrics_url: https://genius.com/Buffy-give-me-a-reason-lyrics
 name: Give MeA Reason
@@ -43,6 +46,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1996-05-11'
+release_year: 1996
+runtime: 304160
 ---
 Four o'clock, I still can't find you
 Scared of what our love has come to

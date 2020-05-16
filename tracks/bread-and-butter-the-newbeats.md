@@ -1,8 +1,11 @@
 ---
+album: "The Best of\u2026."
 artists:
 - The Newbeats
+external_ids:
+  spotify: spotify:track:1VrFr3YhQ4rwQ7HEis83Rg
 features: []
-genres: []
+first_released_as_single: false
 key: bread-and-butter-the-newbeats
 lyrics_url: https://genius.com/The-newbeats-bread-and-butter-lyrics
 name: Bread And Butter
@@ -55,6 +58,8 @@ rankings:
   rank: 28
   ranking_list: Billboard Hot 100
   start_date: '1964-10-31'
+release_year: 1964
+runtime: 124720
 ---
 I like bread and butter
 I like toast and jam

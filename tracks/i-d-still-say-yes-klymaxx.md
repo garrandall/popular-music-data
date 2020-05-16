@@ -1,8 +1,11 @@
 ---
+album: Klymaxx
 artists:
 - Klymaxx
+external_ids:
+  spotify: spotify:track:1wbM7WXEKWPxqwFg3iR6BU
 features: []
-genres: []
+first_released_as_single: false
 key: i-d-still-say-yes-klymaxx
 lyrics_url: https://genius.com/Klymaxx-id-still-say-yes-lyrics
 name: I'd Still Say Yes
@@ -87,6 +90,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1987-09-12'
+release_year: 1986
+runtime: 281573
 ---
 I love you most when we share a place
 Those special good times together

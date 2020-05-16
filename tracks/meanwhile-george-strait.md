@@ -1,8 +1,11 @@
 ---
+album: Always Never The Same
 artists:
 - George Strait
+external_ids:
+  spotify: spotify:track:64ND3HoRaQcgbU4s76kxoY
 features: []
-genres: []
+first_released_as_single: false
 key: meanwhile-george-strait
 lyrics_url: https://www.azlyrics.com/lyrics/georgestrait/meanwhile.html
 name: Meanwhile
@@ -55,8 +58,9 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '1999-04-10'
+release_year: 1999
+runtime: 211626
 ---
-
 She sparkles, she dazzles, she lights up the room
 We walk together to a table for two
 Every man stares but her eyes are only for me
@@ -85,6 +89,3 @@ I'll find a way somehow
 Oh but meanwhile back in the back of my memory
 You'll always be with me but I'll never hold you again
 Meanwhile
-
-
-

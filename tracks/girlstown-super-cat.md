@@ -1,8 +1,11 @@
 ---
+album: The Struggle Continues
 artists:
 - Super Cat
+external_ids:
+  spotify: spotify:track:5kO0QdeWWoc1c0pH10OBPC
 features: []
-genres: []
+first_released_as_single: false
 key: girlstown-super-cat
 lyrics_url: https://genius.com/Super-cat-girlstown-lyrics
 name: Girlstown
@@ -11,6 +14,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1995-10-07'
+release_year: 1995
+runtime: 242600
 ---
 GirlsTown!
 And girls man all around

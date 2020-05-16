@@ -1,8 +1,11 @@
 ---
+album: Classic Masters
 artists:
 - Michael Johnson
+external_ids:
+  spotify: spotify:track:32LPhKXdbVhINXKAEBFcHY
 features: []
-genres: []
+first_released_as_single: false
 key: you-can-call-me-blue-michael-johnson
 lyrics_url: https://genius.com/Michael-johnson-you-can-call-me-blue-lyrics
 name: You Can Call Me Blue
@@ -19,6 +22,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1980-09-06'
+release_year: 1980
+runtime: 202306
 ---
 Well I'm not a foolish man but I'm half out of my head
 Sitting here remembering the foolish things I said

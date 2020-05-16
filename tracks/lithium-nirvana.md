@@ -1,8 +1,11 @@
 ---
+album: Nevermind
 artists:
 - Nirvana
+external_ids:
+  spotify: spotify:track:2YodwKJnbPyNKe8XXSE9V7
 features: []
-genres: []
+first_released_as_single: false
 key: lithium-nirvana
 lyrics_url: https://www.azlyrics.com/lyrics/nirvana/lithium.html
 name: Lithium
@@ -43,8 +46,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1992-10-03'
+release_year: 1991
+runtime: 257053
 ---
-
 I'm so happy, 'cause today I've found my friends
 They're in my head
 I'm so ugly, that's okay, 'cause so are you
@@ -110,6 +114,3 @@ I like it, I'm not gonna crack
 I miss you, I'm not gonna crack
 I love you, I'm not gonna crack
 I killed you, I'm not gonna crack
-
-
-

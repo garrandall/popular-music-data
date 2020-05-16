@@ -1,8 +1,11 @@
 ---
+album: That Warm and Tender Glow
 artists:
 - John Gary
+external_ids:
+  spotify: spotify:track:5CuDTzGY0Aik9gsFfdNSAY
 features: []
-genres: []
+first_released_as_single: false
 key: soon-i-ll-wed-my-love-john-gary
 name: Soon I'll Wed My Love
 rankings:
@@ -22,5 +25,7 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1964-10-03'
+release_year: 1964
+runtime: 139893
 ---
 

@@ -1,8 +1,11 @@
 ---
+album: California Sun - the Best of the Rivieras
 artists:
 - The Rivieras
+external_ids:
+  spotify: spotify:track:6qpTh8eRZ4wPycoRZvbWnd
 features: []
-genres: []
+first_released_as_single: false
 key: california-sun-the-rivieras
 lyrics_url: https://genius.com/The-rivieras-california-sun-lyrics
 name: California Sun
@@ -47,6 +50,8 @@ rankings:
   rank: 21
   ranking_list: Billboard Hot 100
   start_date: '1964-03-28'
+release_year: 1963
+runtime: 146133
 ---
 Well, I'm goin' out west where I belong
 Where the days are short and the nights are long

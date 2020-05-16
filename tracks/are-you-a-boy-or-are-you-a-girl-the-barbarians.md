@@ -1,8 +1,11 @@
 ---
+album: Are You A Boy Or Are You A Girl?
 artists:
 - The Barbarians
+external_ids:
+  spotify: spotify:track:4Lw73SYab8PsWNtElKLzCP
 features: []
-genres: []
+first_released_as_single: false
 key: are-you-a-boy-or-are-you-a-girl-the-barbarians
 lyrics_url: https://genius.com/The-barbarians-are-you-a-boy-or-are-you-a-girl-lyrics
 name: Are You A Boy Or Are You A Girl
@@ -31,6 +34,8 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '1965-10-30'
+release_year: 1965
+runtime: 137866
 ---
 Are you a boy? Or are you a girl?
 With your long blond hair you look like a girl

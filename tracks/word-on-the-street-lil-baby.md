@@ -1,8 +1,11 @@
 ---
+album: Street Gossip
 artists:
 - Lil Baby
+external_ids:
+  spotify: spotify:track:52i143Ph5c3RQaQFBXWix1
 features: []
-genres: []
+first_released_as_single: false
 key: word-on-the-street-lil-baby
 lyrics_url: https://genius.com/Lil-baby-word-on-the-street-lyrics
 name: Word On The Street
@@ -11,6 +14,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2018-12-15'
+release_year: 2018
+runtime: 172985
 ---
 We Global now
 

@@ -1,8 +1,11 @@
 ---
+album: Billy Currington
 artists:
 - Billy Currington
+external_ids:
+  spotify: spotify:track:5caW5J7nrK4Mtu6cZiBxUk
 features: []
-genres: []
+first_released_as_single: false
 key: i-got-a-feelin--billy-currington
 lyrics_url: https://www.azlyrics.com/lyrics/billycurrington/igotafeelin.html
 name: I Got A Feelin'
@@ -71,8 +74,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2004-10-09'
+release_year: 2003
+runtime: 193333
 ---
-
 I don't wanna rush this thing
 I don't wanna jump the gun
 I really wanna say those three little words
@@ -126,6 +130,3 @@ You're feelin' it too
 Yeah, you're feelin' it too
 Feelin' it too
 Oh, Yeah
-
-
-

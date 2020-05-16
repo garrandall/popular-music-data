@@ -1,9 +1,12 @@
 ---
+album: Pop Masters
 artists:
 - Tony Orlando
 - Dawn
+external_ids:
+  spotify: spotify:track:22JWCJT5GVda3RKzGCCaKQ
 features: []
-genres: []
+first_released_as_single: false
 key: you-re-all-i-need-to-get-by-tony-orlando-dawn
 lyrics_url: https://genius.com/Tony-orlando-and-dawn-youre-all-i-need-to-get-by-lyrics
 name: You're All I Need To Get By
@@ -36,6 +39,8 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1975-10-11'
+release_year: 1975
+runtime: 235760
 ---
 You're all I need to get by, oh, yeah
 I said you're all I need to get by

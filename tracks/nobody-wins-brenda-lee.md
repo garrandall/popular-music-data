@@ -1,8 +1,11 @@
 ---
+album: Greatest Country Songs
 artists:
 - Brenda Lee
+external_ids:
+  spotify: spotify:track:77NL13rFOTW7lhGWIzaVGm
 features: []
-genres: []
+first_released_as_single: false
 key: nobody-wins-brenda-lee
 lyrics_url: https://genius.com/Brenda-lee-nobody-wins-lyrics
 name: Nobody Wins
@@ -27,6 +30,8 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1973-04-28'
+release_year: 1973
+runtime: 179933
 ---
 Well it's over, and nobody wins
 Well it really doesn't matter

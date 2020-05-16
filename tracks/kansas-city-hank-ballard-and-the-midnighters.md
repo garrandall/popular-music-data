@@ -1,8 +1,11 @@
 ---
+album: All 20 Of Their Chart Hits 1953-1962
 artists:
 - Hank Ballard And The Midnighters
+external_ids:
+  spotify: spotify:track:6t5o0WlqIJgjhtoCgW6UQ4
 features: []
-genres: []
+first_released_as_single: false
 key: kansas-city-hank-ballard-and-the-midnighters
 lyrics_url: https://genius.com/Hank-ballard-and-the-midnighters-kansas-city-lyrics
 name: Kansas City
@@ -35,6 +38,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1959-06-22'
+release_year: 1959
+runtime: 151693
 ---
 I'm going to Kansas City
 Kansas City, here I come

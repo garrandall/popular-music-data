@@ -1,8 +1,11 @@
 ---
+album: Baby Don't Get Hooked On Me
 artists:
 - Mac Davis
+external_ids:
+  spotify: spotify:track:18to16FkhRtkz0AOjreJzJ
 features: []
-genres: []
+first_released_as_single: false
 key: baby-don-t-get-hooked-on-me-mac-davis
 lyrics_url: https://www.azlyrics.com/lyrics/macdavis/babydontgethookedonme.html
 name: Baby Don't Get Hooked On Me
@@ -79,8 +82,9 @@ rankings:
   rank: 21
   ranking_list: Billboard Hot 100
   start_date: '1972-10-28'
+release_year: 1972
+runtime: 182369
 ---
-
 Girl you're gettin' that look in your eyes
 And it's startin' to worry me
 I ain't ready for no family ties
@@ -117,6 +121,3 @@ Baby baby, don't get hooked on me
 Baby baby, don't get hooked on me
 
 Baby baby don't get hooked on me
-
-
-

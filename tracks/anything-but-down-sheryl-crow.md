@@ -1,8 +1,11 @@
 ---
+album: The Globe Sessions
 artists:
 - Sheryl Crow
+external_ids:
+  spotify: spotify:track:0nXvEWlc2YvVNztYOM3Y1w
 features: []
-genres: []
+first_released_as_single: false
 key: anything-but-down-sheryl-crow
 lyrics_url: https://www.azlyrics.com/lyrics/sherylcrow/anythingbutdown.html
 name: Anything But Down
@@ -59,8 +62,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1999-07-03'
+release_year: 1998
+runtime: 258040
 ---
-
 I light your cigarettes
 I bring you apples from the vine
 How quickly you forget
@@ -105,6 +109,3 @@ Can't you make it easy on yourself
 I know you wish you were strong
 You wish you were never wrong
 Well, I got some wishes of my own
-
-
-

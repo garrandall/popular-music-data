@@ -1,9 +1,12 @@
 ---
+album: NOT ALL HEROES WEAR CAPES
 artists:
 - Metro Boomin
+external_ids:
+  spotify: spotify:track:0AluA5RNsa4Cx6XRhf2hWZ
 features:
 - 21 Savage
-genres: []
+first_released_as_single: false
 key: 10-freaky-girls-metro-boomin-21-savage
 lyrics_url: https://www.azlyrics.com/lyrics/metroboomin/10freakygirls.html
 name: 10 Freaky Girls
@@ -24,8 +27,9 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '2018-12-08'
+release_year: 2018
+runtime: 208293
 ---
-
 Oh
 No, no, no
 No, no
@@ -96,6 +100,3 @@ I got 10 freaky girls on a yacht
 You know, I was racin' down the highway earlier today, ridin' down 20
 I happened to see a nigga I robbed back in the day
 You know what? He was happy to see me
-
-
-

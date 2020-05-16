@@ -1,8 +1,11 @@
 ---
+album: Magical Mystery Tour
 artists:
 - The Beatles
+external_ids:
+  spotify: spotify:track:0JBvtprXP2Z0LP3jmzA7Xp
 features: []
-genres: []
+first_released_as_single: false
 key: baby-you-re-a-rich-man-the-beatles
 lyrics_url: https://genius.com/The-beatles-baby-youre-a-rich-man-lyrics
 name: Baby You're A Rich Man
@@ -27,6 +30,8 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1967-08-26'
+release_year: 1967
+runtime: 181306
 ---
 How does it feel to be one of the beautiful people?
 Now that you know who you are

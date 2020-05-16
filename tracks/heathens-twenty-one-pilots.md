@@ -1,8 +1,11 @@
 ---
+album: 100 Super Running Workout! Music
 artists:
 - twenty one pilots
+external_ids:
+  spotify: spotify:track:6i0V12jOa3mr6uu4WYhUBr
 features: []
-genres: []
+first_released_as_single: true
 key: heathens-twenty-one-pilots
 lyrics_url: https://www.azlyrics.com/lyrics/twentyonepilots/heathens.html
 name: Heathens
@@ -163,8 +166,9 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '2017-04-01'
+release_year: 2016
+runtime: 195920
 ---
-
 All my friends are heathens, take it slow
 Wait for them to ask you who you know
 Please don't make any sudden moves
@@ -219,6 +223,3 @@ I tried to warn you just to stay away
 And now they're outside ready to bust
 (To bust)
 It looks like you might be one of us
-
-
-

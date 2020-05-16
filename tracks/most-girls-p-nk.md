@@ -1,8 +1,11 @@
 ---
+album: Can't Take Me Home
 artists:
 - P!nk
+external_ids:
+  spotify: spotify:track:635PqgECfFbL0MNLogX7Yv
 features: []
-genres: []
+first_released_as_single: false
 key: most-girls-p-nk
 lyrics_url: https://genius.com/P-nk-most-girls-lyrics
 name: Most Girls
@@ -115,6 +118,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '2001-02-10'
+release_year: 2000
+runtime: 298960
 ---
 I never cared too much for love
 It was all a bunch of mush, that I just did not want

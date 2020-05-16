@@ -1,8 +1,11 @@
 ---
+album: The Best Of Rick Nelson (Vol. 2)
 artists:
 - Ricky Nelson
+external_ids:
+  spotify: spotify:track:3VBvrFtAU0cLikjrseZLv0
 features: []
-genres: []
+first_released_as_single: false
 key: you-are-the-only-one-ricky-nelson
 lyrics_url: https://genius.com/Ricky-nelson-you-are-the-only-one-mono-lyrics
 name: You Are The Only One
@@ -39,6 +42,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1961-02-13'
+release_year: 1960
+runtime: 161826
 ---
 You are the only one
 My one and only one

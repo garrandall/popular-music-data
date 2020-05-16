@@ -1,8 +1,11 @@
 ---
+album: Clyde
 artists:
 - Clyde McPhatter
+external_ids:
+  spotify: spotify:track:0ij1MSDmOO5dx76YuRQYoL
 features: []
-genres: []
+first_released_as_single: false
 key: lovey-dovey-clyde-mcphatter
 lyrics_url: https://genius.com/Clyde-mcphatter-lovey-dovey-lyrics
 name: Lovey Dovey
@@ -39,6 +42,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1959-05-25'
+release_year: 1959
+runtime: 153186
 ---
 Well, you're the cutest thing
 That I did ever see

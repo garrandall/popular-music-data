@@ -1,8 +1,11 @@
 ---
+album: Mosaic
 artists:
 - Wang Chung
+external_ids:
+  spotify: spotify:track:77Ffjo5brigkCg1sEZbKq5
 features: []
-genres: []
+first_released_as_single: false
 key: let-s-go--wang-chung
 lyrics_url: https://genius.com/Wang-chung-lets-go-lyrics
 name: Let's Go!
@@ -79,6 +82,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1987-05-23'
+release_year: 1986
+runtime: 270426
 ---
 Meet me in a restaurant
 Meet me on the top of the world

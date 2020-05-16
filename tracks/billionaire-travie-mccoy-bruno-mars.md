@@ -1,9 +1,12 @@
 ---
+album: Lazarus
 artists:
 - Travie McCoy
+external_ids:
+  spotify: spotify:track:2M9ULmQwTaTGmAdXaXpfz5
 features:
 - Bruno Mars
-genres: []
+first_released_as_single: true
 key: billionaire-travie-mccoy-bruno-mars
 lyrics_url: https://www.azlyrics.com/lyrics/traviemccoy/billionaire.html
 name: Billionaire
@@ -116,9 +119,9 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '2010-10-16'
+release_year: 2010
+runtime: 211160
 ---
-
-
 I wanna be a billionaire so fucking bad
 Buy all of the things I never had
 Uh, I wanna be on the cover of Forbes magazine
@@ -184,6 +187,3 @@ Oh oh oh oh when I'm a billionaire
 Oh oh oh oh
 
 I wanna be a billionaire so fucking bad!
-
-
-

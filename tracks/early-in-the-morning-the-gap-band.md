@@ -1,8 +1,11 @@
 ---
+album: The Gap Band IV
 artists:
 - The Gap Band
+external_ids:
+  spotify: spotify:track:0sLqiSi6TdS9PNrGbGumw7
 features: []
-genres: []
+first_released_as_single: false
 key: early-in-the-morning-the-gap-band
 lyrics_url: https://www.azlyrics.com/lyrics/gapband/earlyinthemorning.html
 name: Early In The Morning
@@ -63,8 +66,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1982-08-21'
+release_year: 1982
+runtime: 390000
 ---
-
 Oh, I never, you know I loved you till you left me
 Oh, I never, you know I cared till you were gone
 I was young and foolish, I didn't know what I was doin'
@@ -149,6 +153,3 @@ Early in the mornin', baby
 In the middle of the day, baby
 Late at night, mama
 Everything will gonna be all right
-
-
-

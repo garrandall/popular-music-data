@@ -1,8 +1,11 @@
 ---
+album: Caprice! The Story Behind Gerry Granahan's Caprice Label 1960 - 1963
 artists:
 - James Ray
+external_ids:
+  spotify: spotify:track:4IM9fsiXjM877LYrIgPfYD
 features: []
-genres: []
+first_released_as_single: false
 key: if-you-gotta-make-a-fool-of-somebody-james-ray
 lyrics_url: https://genius.com/James-ray-if-you-gotta-make-a-fool-of-somebody-lyrics
 name: If You Gotta Make A Fool Of Somebody
@@ -63,6 +66,8 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '1962-02-24'
+release_year: 1961
+runtime: 120946
 ---
 If you gotta make a fool of somebody
 If you gotta make a fool of someone

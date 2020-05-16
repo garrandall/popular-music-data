@@ -1,8 +1,11 @@
 ---
+album: Sixties a Go-Go!
 artists:
 - Little Eva
+external_ids:
+  spotify: spotify:track:5x2ZxTwhEsxC6KIrT1E0N7
 features: []
-genres: []
+first_released_as_single: false
 key: let-s-turkey-trot-little-eva
 lyrics_url: https://genius.com/Little-eva-lets-turkey-trot-lyrics
 name: Let's Turkey Trot
@@ -47,6 +50,8 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '1963-04-06'
+release_year: 1963
+runtime: 149133
 ---
 Come on let's turkey trot
 Let's get it while its hot

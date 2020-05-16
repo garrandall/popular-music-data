@@ -1,8 +1,11 @@
 ---
+album: Walkabout
 artists:
 - The Fixx
+external_ids:
+  spotify: spotify:track:6Q7zSvNTtSWQsbXUh4jJOc
 features: []
-genres: []
+first_released_as_single: false
 key: secret-separation-the-fixx
 lyrics_url: https://www.azlyrics.com/lyrics/fixx/secretseparation.html
 name: Secret Separation
@@ -63,8 +66,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1986-08-23'
+release_year: 1986
+runtime: 231706
 ---
-
 We are passengers in time
 Lost in motion, locked together
 Day and night, by trick of light
@@ -110,4 +114,3 @@ Now free me
 
 I'll bear one precious scar that only you will know
 Passengers in time, free me
-

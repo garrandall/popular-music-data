@@ -1,8 +1,11 @@
 ---
+album: Touch
 artists:
 - Laura Branigan
+external_ids:
+  spotify: spotify:track:2gloq2eJAV28piOxTVUaoC
 features: []
-genres: []
+first_released_as_single: false
 key: shattered-glass-laura-branigan
 lyrics_url: https://www.azlyrics.com/lyrics/laurabranigan/shatteredglass.html
 name: Shattered Glass
@@ -47,8 +50,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1987-09-05'
+release_year: 1987
+runtime: 221706
 ---
-
 I gave you everything I had 
 You took my heart and broke it bad 
 I'm not the kind who can take it alone 
@@ -98,6 +102,3 @@ But you won't get far on your own
 You keep running hot and blowing cold 
 And everything you hold
 Just falls apart like shattered glass
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: 'University Bands: To the Summit'
 artists:
 - Chris Kenner
+external_ids:
+  spotify: spotify:track:5uydHeAg7MsIKSvS7GLw3a
 features: []
-genres: []
+first_released_as_single: false
 key: land-of-1000-dances-chris-kenner
 lyrics_url: https://genius.com/Chris-kenner-land-of-1000-dances-lyrics
 name: Land Of 1000 Dances
@@ -35,6 +38,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1963-08-17'
+release_year: 1963
+runtime: 81466
 ---
 Children, go where I send you
 (How will you send me)

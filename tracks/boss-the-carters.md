@@ -1,8 +1,11 @@
 ---
+album: EVERYTHING IS LOVE (Clean)
 artists:
 - The Carters
+external_ids:
+  spotify: spotify:track:3eC4QEzAZ1EMyoWvhz5KII
 features: []
-genres: []
+first_released_as_single: false
 key: boss-the-carters
 lyrics_url: https://genius.com/The-carters-boss-lyrics
 name: Boss
@@ -15,6 +18,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2018-07-07'
+release_year: 2018
+runtime: 244133
 ---
 Mm, mm
 

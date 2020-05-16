@@ -1,8 +1,11 @@
 ---
+album: Echoes Down the Hall - 16 Original Doo Wop Classics
 artists:
 - Pips
+external_ids:
+  spotify: spotify:track:7mRhKvSuAN0QF9Fpv1OMr4
 features: []
-genres: []
+first_released_as_single: false
 key: every-beat-of-my-heart-pips
 lyrics_url: https://genius.com/Gladys-knight-and-the-pips-every-beat-of-my-heart-lyrics
 name: Every Beat Of My Heart
@@ -59,6 +62,8 @@ rankings:
   rank: 37
   ranking_list: Billboard Hot 100
   start_date: '1961-08-07'
+release_year: 1961
+runtime: 123493
 ---
 Through these misty eyes I see lonely skies
 Lonely road to Babylon

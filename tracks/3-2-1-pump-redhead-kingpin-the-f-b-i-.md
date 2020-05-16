@@ -1,9 +1,12 @@
 ---
+album: The Album With No Name
 artists:
 - Redhead Kingpin
 - The F.B.I.
+external_ids:
+  spotify: spotify:track:66N6IyYpM2kD2G6RXdSfAr
 features: []
-genres: []
+first_released_as_single: false
 key: 3-2-1-pump-redhead-kingpin-the-f-b-i-
 name: 3-2-1 Pump
 rankings:
@@ -67,5 +70,7 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1992-07-04'
+release_year: 1991
+runtime: 265400
 ---
 

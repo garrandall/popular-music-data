@@ -1,8 +1,11 @@
 ---
+album: Gloria
 artists:
 - Shadows Of Knight
+external_ids:
+  spotify: spotify:track:5WNcnqDpO5asMaDIthIcu1
 features: []
-genres: []
+first_released_as_single: false
 key: gloria-shadows-of-knight
 lyrics_url: https://genius.com/The-shadows-of-knight-gloria-lyrics
 name: Gloria
@@ -55,6 +58,8 @@ rankings:
   rank: 31
   ranking_list: Billboard Hot 100
   start_date: '1966-06-04'
+release_year: 1966
+runtime: 157333
 ---
 Like to tell you 'bout my baby
 You know she comes around

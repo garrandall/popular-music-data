@@ -1,8 +1,11 @@
 ---
+album: Revolution Of The Mind (Live)
 artists:
 - James Brown
+external_ids:
+  spotify: spotify:track:3ymUkcgSHXtdWnbI2Uz96V
 features: []
-genres: []
+first_released_as_single: false
 key: soul-power--pt-1--james-brown
 lyrics_url: https://genius.com/James-brown-soul-power-lyrics
 name: Soul Power (Pt 1)
@@ -43,6 +46,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1971-04-24'
+release_year: 1971
+runtime: 396573
 ---
 Know we need it, soul power
 We got to have it, soul power

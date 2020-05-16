@@ -1,8 +1,11 @@
 ---
+album: Kinda Kinks
 artists:
 - The Kinks
+external_ids:
+  spotify: spotify:track:4crnyaZ12tALWTrshdIGFZ
 features: []
-genres: []
+first_released_as_single: false
 key: who-ll-be-the-next-in-line-the-kinks
 lyrics_url: https://www.musixmatch.com/lyrics/The-Kinks/Who-ll-Be-the-Next-in-Line
 name: Who'll Be The Next In Line
@@ -35,6 +38,8 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1965-09-25'
+release_year: 1965
+runtime: 122626
 ---
 Who'll be the next in line?
 Who'll be the next in line for heartaches?

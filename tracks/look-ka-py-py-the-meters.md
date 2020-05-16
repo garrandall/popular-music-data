@@ -1,8 +1,11 @@
 ---
+album: Look-Ka Py Py
 artists:
 - The Meters
+external_ids:
+  spotify: spotify:track:5x9239aGsatbpoPHSbDXBv
 features: []
-genres: []
+first_released_as_single: false
 key: look-ka-py-py-the-meters
 lyrics_url: https://www.musixmatch.com/lyrics/The-Meters/Look-Ka-Py-Py
 name: Look-Ka Py Py
@@ -47,6 +50,8 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '1970-02-07'
+release_year: 1969
+runtime: 198133
 ---
 'Cause Downtown Brooklyn Is Where I Was Born =
 But When The Snow Is Falling, Then I'm Gone

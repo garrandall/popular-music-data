@@ -1,8 +1,11 @@
 ---
+album: In God We Trust
 artists:
 - Brand Nubian
+external_ids:
+  spotify: spotify:track:1RcS2X26yGTowcttwIgkv4
 features: []
-genres: []
+first_released_as_single: false
 key: punks-jump-up-to-get-beat-down-brand-nubian
 lyrics_url: https://genius.com/Brand-nubian-punks-jump-up-to-get-beat-down-lyrics
 name: Punks Jump Up To Get Beat Down
@@ -47,6 +50,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1993-03-06'
+release_year: 1993
+runtime: 265800
 ---
 ("Get nothin' but abuse!")
 Refrain 4x

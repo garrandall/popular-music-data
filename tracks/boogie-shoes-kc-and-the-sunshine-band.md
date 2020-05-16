@@ -1,8 +1,11 @@
 ---
+album: KC and the Sunshine Band
 artists:
 - KC And The Sunshine Band
+external_ids:
+  spotify: spotify:track:37d8O4cIq36tssCoJnhJxg
 features: []
-genres: []
+first_released_as_single: false
 key: boogie-shoes-kc-and-the-sunshine-band
 lyrics_url: https://www.azlyrics.com/lyrics/kcandthesunshineband/boogieshoes.html
 name: Boogie Shoes
@@ -47,8 +50,9 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '1978-04-15'
+release_year: 1975
+runtime: 132040
 ---
-
 Girl, to be with you is my favorite thing
 Yeah, uh huh, yeah
 I can't wait till I see you again
@@ -80,6 +84,3 @@ I want to put on my my my my my boogie shoes
 Just to boogie with you, yeah
 I want to put on my my my my my boogie shoes
 Just to boogie with you, yeah
-
-
-

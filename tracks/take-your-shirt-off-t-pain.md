@@ -1,8 +1,11 @@
 ---
+album: Take Your Shirt Off
 artists:
 - T-Pain
+external_ids:
+  spotify: spotify:track:6BKtGdvO4IooVZdbF8bDyP
 features: []
-genres: []
+first_released_as_single: true
 key: take-your-shirt-off-t-pain
 lyrics_url: https://genius.com/T-pain-take-your-shirt-off-lyrics
 name: Take Your Shirt Off
@@ -11,6 +14,8 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '2009-11-07'
+release_year: 2009
+runtime: 228893
 ---
 T is the shit! (T is!) YEAH~!
 Brush 'em off, brush 'em off - HEY!

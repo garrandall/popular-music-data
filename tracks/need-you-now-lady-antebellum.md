@@ -1,8 +1,11 @@
 ---
+album: Need You Now
 artists:
 - Lady Antebellum
+external_ids:
+  spotify: spotify:track:11EX5yhxr9Ihl3IN1asrfK
 features: []
-genres: []
+first_released_as_single: false
 key: need-you-now-lady-antebellum
 lyrics_url: https://genius.com/Lady-antebellum-need-you-now-lyrics
 name: Need You Now
@@ -247,6 +250,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2010-10-16'
+release_year: 2009
+runtime: 277573
 ---
 "Hey, sorry I missed your call, just leave a message after the beep"
 "Hey, yeah, it's me, just been thinking about everything that night

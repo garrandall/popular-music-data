@@ -1,8 +1,11 @@
 ---
+album: The "Killer" Rocks On
 artists:
 - Jerry Lee Lewis
+external_ids:
+  spotify: spotify:track:0o218zC3mFf0zqyiCR19We
 features: []
-genres: []
+first_released_as_single: false
 key: chantilly-lace-jerry-lee-lewis
 lyrics_url: https://www.azlyrics.com/lyrics/jerryleelewis/chantillylace.html
 name: Chantilly Lace
@@ -47,8 +50,9 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '1972-05-06'
+release_year: 1972
+runtime: 170026
 ---
-
 Hello baby yeah this is the Big Bopper speaking ha ha you sweet thing
 Do I what will I what oh baby you know what I like
 Chaintily lace and a pretty face and a pony tail hangin' down
@@ -98,6 +102,3 @@ It gonna make that world go around (chantilly lace)
 Ain't nothing in the world like a big eyed girl
 Make me act so funny spend my doggone money
 I feel real loose like a long neck goose like a whoa baby that's what I like
-
-
-

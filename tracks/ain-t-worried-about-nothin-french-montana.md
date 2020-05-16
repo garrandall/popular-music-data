@@ -1,8 +1,11 @@
 ---
+album: Excuse My French
 artists:
 - French Montana
+external_ids:
+  spotify: spotify:track:0UAmPUdpTRq8w54B3H8TzY
 features: []
-genres: []
+first_released_as_single: false
 key: ain-t-worried-about-nothin-french-montana
 lyrics_url: https://genius.com/French-montana-aint-worried-about-nothin-lyrics
 name: Ain't Worried About Nothin
@@ -59,6 +62,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2013-09-28'
+release_year: 2013
+runtime: 212426
 ---
 I ain't worried 'bout nothin' (nothin')
 Nigga, I ain't worried 'bout nothin' (nothin')

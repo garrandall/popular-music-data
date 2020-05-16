@@ -1,9 +1,12 @@
 ---
+album: The Dionn Singles Collection 1966-1969
 artists:
 - Brenda
 - The Tabulations
+external_ids:
+  spotify: spotify:track:1fNGwzjBYbL6UnJh1mcbAN
 features: []
-genres: []
+first_released_as_single: false
 key: baby-you-re-so-right-for-me-brenda-the-tabulations
 name: Baby You're So Right For Me
 rankings:
@@ -23,5 +26,7 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1968-04-13'
+release_year: 1968
+runtime: 161466
 ---
 

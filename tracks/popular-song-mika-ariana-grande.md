@@ -1,9 +1,12 @@
 ---
+album: Yours Truly
 artists:
 - MIKA
+external_ids:
+  spotify: spotify:track:0xFomAiFsu5qCnLM0hu0UR
 features:
 - Ariana Grande
-genres: []
+first_released_as_single: true
 key: popular-song-mika-ariana-grande
 lyrics_url: https://genius.com/Mika-popular-song-lyrics
 name: Popular Song
@@ -16,6 +19,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2013-09-28'
+release_year: 2012
+runtime: 200613
 ---
 You were the popular one, the popular chick
 It is what it is, now I'm popular-ish

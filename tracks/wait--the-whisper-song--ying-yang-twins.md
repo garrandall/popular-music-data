@@ -1,8 +1,11 @@
 ---
+album: United States Of Atlanta
 artists:
 - Ying Yang Twins
+external_ids:
+  spotify: spotify:track:5Y78yINSOCW6xbOfGWNBg4
 features: []
-genres: []
+first_released_as_single: false
 key: wait--the-whisper-song--ying-yang-twins
 lyrics_url: https://genius.com/Ying-yang-twins-wait-the-whisper-song-lyrics
 name: Wait (The Whisper Song)
@@ -95,6 +98,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '2005-07-23'
+release_year: 2005
+runtime: 179160
 ---
 Hey how you doin' lil' mama let me whisper in ya ear
 Tell ya somethin' that ya might like to hear

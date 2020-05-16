@@ -1,8 +1,11 @@
 ---
+album: Goddess
 artists:
 - Soho
+external_ids:
+  spotify: spotify:track:6KnNSH6Os9TgxmOeRuSsme
 features: []
-genres: []
+first_released_as_single: false
 key: hippychick-soho
 lyrics_url: https://genius.com/Soho-hippychick-lyrics
 name: Hippychick
@@ -83,6 +86,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1991-01-12'
+release_year: 1990
+runtime: 192360
 ---
 It's hard to tell you how I feel without hurting you
 So try to think about yourself the way that I see you

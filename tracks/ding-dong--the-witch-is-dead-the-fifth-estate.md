@@ -1,8 +1,11 @@
 ---
+album: The Best of the Fifth Estate
 artists:
 - The Fifth Estate
+external_ids:
+  spotify: spotify:track:1aJqvwsyVAPi4BpMpO40bT
 features: []
-genres: []
+first_released_as_single: false
 key: ding-dong--the-witch-is-dead-the-fifth-estate
 lyrics_url: https://www.musixmatch.com/lyrics/The-Fifth-Estate/Ding-Dong-The-Witch-Is-Dead
 name: Ding Dong! The Witch Is Dead
@@ -47,6 +50,8 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '1967-07-22'
+release_year: 1967
+runtime: 122920
 ---
 Ding dong, the witch is dead
 Which old witch?

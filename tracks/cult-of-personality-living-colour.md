@@ -1,8 +1,11 @@
 ---
+album: Vivid
 artists:
 - Living Colour
+external_ids:
+  spotify: spotify:track:5e3YOg6fIkP0wD5TyxcHOH
 features: []
-genres: []
+first_released_as_single: false
 key: cult-of-personality-living-colour
 lyrics_url: https://www.azlyrics.com/lyrics/livingcolour/cultofpersonality.html
 name: Cult Of Personality
@@ -67,8 +70,9 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1989-06-17'
+release_year: 1988
+runtime: 294826
 ---
-
 And during the few moments that we have left we wanna talk right down to earth in a language, that everybody here can easily understand
 
 Look in my eyes, what do you see?
@@ -117,6 +121,3 @@ I'm the cult of
 I'm the cult of
 I'm the cult of
 I'm the cult of personality
-
-
-

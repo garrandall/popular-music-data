@@ -1,8 +1,11 @@
 ---
+album: Busy Body
 artists:
 - Luther Vandross
+external_ids:
+  spotify: spotify:track:6ykYnj6kpUsaUur53jMnhN
 features: []
-genres: []
+first_released_as_single: false
 key: superstar-luther-vandross
 lyrics_url: https://www.azlyrics.com/lyrics/luthervandross/superstaruntilyoucomebacktomethatswhatimgonnado.html
 name: Superstar
@@ -23,8 +26,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1984-05-19'
+release_year: 1983
+runtime: 558773
 ---
-
 I wanna tell you, baby
 The changes I've been goin' through
 Missin' you, missin' you, oh...oh...
@@ -113,6 +117,3 @@ I wonder, I wonder
 Where are you again tonight
 Are you holdin' someone else real tight
 I wonder, I wonder, I wonder
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Main Street People
 artists:
 - Four Tops
+external_ids:
+  spotify: spotify:track:5u559Gmwn1p5ApKZ5KUaOD
 features: []
-genres: []
+first_released_as_single: false
 key: i-just-can-t-get-you-out-of-my-mind-four-tops
 lyrics_url: https://genius.com/The-four-tops-i-just-cant-get-you-out-of-my-mind-lyrics
 name: I Just Can't Get You Out Of My Mind
@@ -39,6 +42,8 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1974-03-16'
+release_year: 1973
+runtime: 239706
 ---
 Call me, were the last words I remember
 Then the spring became December

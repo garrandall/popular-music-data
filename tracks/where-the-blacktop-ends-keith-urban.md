@@ -1,8 +1,11 @@
 ---
+album: Keith Urban
 artists:
 - Keith Urban
+external_ids:
+  spotify: spotify:track:17Gl3Bf0uPhhCkNyRwAXDd
 features: []
-genres: []
+first_released_as_single: false
 key: where-the-blacktop-ends-keith-urban
 lyrics_url: https://www.azlyrics.com/lyrics/keithurban/wheretheblacktopends.html
 name: Where The Blacktop Ends
@@ -87,8 +90,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2001-10-27'
+release_year: 1999
+runtime: 180120
 ---
-
 Gonna kick off my shoes
 And run in bare feet
 Where the grass and the dirt and the gravel all meet
@@ -136,6 +140,3 @@ And feed my soul where the blacktop ends
 Where the blacktop ends
 Where the blacktop ends
 Where the blacktop ends
-
-
-

@@ -1,9 +1,12 @@
 ---
+album: Nothing Was The Same
 artists:
 - Drake
+external_ids:
+  spotify: spotify:track:4NVNapccSX7E5JLiW0uQEy
 features:
 - JAY-Z
-genres: []
+first_released_as_single: false
 key: pound-cake-drake-jay-z
 lyrics_url: https://genius.com/Drake-pound-cake-paris-morton-music-2-lyrics
 name: Pound Cake
@@ -48,6 +51,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2013-12-28'
+release_year: 2013
+runtime: 432853
 ---
 Good God Almighty—like back in the old days...
 You know, years ago they had the A&R men to tell you what to play, how to play it and you know whether it's disco and rock but we just went in the studio and we did it. We had the champagne in the studio, of course—compliments of the company—and we just laid back and did it. So we hope you enjoy listening to this album half as much as we enjoyed playing it for you. Because we had a ball. Only real music is gonna last—all the other bullshit is here today and gone tomorrow

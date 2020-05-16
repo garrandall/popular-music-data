@@ -1,9 +1,12 @@
 ---
+album: Livin' Above Your Head
 artists:
 - Jay
 - The Americans
+external_ids:
+  spotify: spotify:track:36bdQ20bomVkGt6FGD96lu
 features: []
-genres: []
+first_released_as_single: false
 key: livin--above-your-head-jay-the-americans
 lyrics_url: https://www.azlyrics.com/lyrics/jaytheamericans/livinaboveyourhead.html
 name: Livin' Above Your Head
@@ -28,8 +31,9 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1966-08-27'
+release_year: 1964
+runtime: 174640
 ---
-
 Seems so strange
 You're putting me through changes
 
@@ -71,6 +75,3 @@ And something has got to go wrong
 With our love, with our love
 
 Livin' above your head...
-
-
-

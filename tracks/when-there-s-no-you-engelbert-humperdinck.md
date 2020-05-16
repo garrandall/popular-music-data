@@ -1,8 +1,11 @@
 ---
+album: Sweetheart
 artists:
 - Engelbert Humperdinck
+external_ids:
+  spotify: spotify:track:7xvjAQCcaXzqSw9mX6yP3n
 features: []
-genres: []
+first_released_as_single: false
 key: when-there-s-no-you-engelbert-humperdinck
 lyrics_url: https://www.azlyrics.com/lyrics/engelberthumperdinck/whentheresnoyou.html
 name: When There's No You
@@ -35,8 +38,9 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1971-04-17'
+release_year: 1971
+runtime: 178000
 ---
-
 I walk along empty streets,
 And night becomes another dawn.
 It's only heartaches that I meet.
@@ -62,6 +66,3 @@ It was yours for the taking.
 You said we're through,
 What can I do,
 When there's no you?
-
-
-

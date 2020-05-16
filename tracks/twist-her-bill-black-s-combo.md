@@ -1,8 +1,11 @@
 ---
+album: Let's Twist Her
 artists:
 - Bill Black's Combo
+external_ids:
+  spotify: spotify:track:2Y36rzSdxtV66a7P1685SS
 features: []
-genres: []
+first_released_as_single: false
 key: twist-her-bill-black-s-combo
 name: Twist-Her
 rankings:
@@ -42,5 +45,7 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1962-02-17'
+release_year: 1961
+runtime: 126293
 ---
 

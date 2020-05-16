@@ -1,9 +1,12 @@
 ---
+album: Scorpion
 artists:
 - Eve
+external_ids:
+  spotify: spotify:track:3RmKpob8xzv1pzHEQrMJah
 features:
 - Gwen Stefani
-genres: []
+first_released_as_single: false
 key: let-me-blow-ya-mind-eve-gwen-stefani
 lyrics_url: https://www.azlyrics.com/lyrics/eve/letmeblowyamind.html
 name: Let Me Blow Ya Mind
@@ -140,9 +143,9 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '2001-12-08'
+release_year: 2001
+runtime: 230133
 ---
-
-
 Uh, uh, uh, huh
 Yo, yo
 Drop your glasses, shake your asses
@@ -211,4 +214,3 @@ Still stallion, brick house, pile it on
 Ryde or Die, bitch, double R, can't crawl
 Beware, cuz I crush anything I land on
 Me here, aint no mistake nigga it was planned on
-

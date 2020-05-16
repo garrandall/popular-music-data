@@ -1,8 +1,11 @@
 ---
+album: The Best Of Yvonne Elliman
 artists:
 - Yvonne Elliman
+external_ids:
+  spotify: spotify:track:754kHcqH0mxjQGFaaNFtr1
 features: []
-genres: []
+first_released_as_single: false
 key: moment-by-moment-yvonne-elliman
 lyrics_url: https://www.azlyrics.com/lyrics/yvonneelliman/momentbymoment.html
 name: Moment By Moment
@@ -31,8 +34,9 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '1979-01-27'
+release_year: 1978
+runtime: 198600
 ---
-
 Though our love
 Is like a whinding road
 Of uncertainty
@@ -65,6 +69,3 @@ Moment by moment
 Our life time goes on
 Till one day
 Oh, some days are gone
-
-
-

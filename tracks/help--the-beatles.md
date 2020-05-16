@@ -1,8 +1,11 @@
 ---
+album: Help!
 artists:
 - The Beatles
+external_ids:
+  spotify: spotify:track:7DD7eSuYSC5xk2ArU62esN
 features: []
-genres: []
+first_released_as_single: false
 key: help--the-beatles
 lyrics_url: https://genius.com/The-beatles-help-lyrics
 name: Help!
@@ -59,6 +62,8 @@ rankings:
   rank: 32
   ranking_list: Billboard Hot 100
   start_date: '1965-10-30'
+release_year: 1965
+runtime: 139560
 ---
 (Help!) I need somebody
 (Help!) Not just anybody

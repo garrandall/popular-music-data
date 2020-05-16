@@ -1,9 +1,12 @@
 ---
+album: I Don't Mind
 artists:
 - Usher
+external_ids:
+  spotify: spotify:track:7aXuop4Qambx5Oi3ynsKQr
 features:
 - Juicy J
-genres: []
+first_released_as_single: true
 key: i-don-t-mind-usher-juicy-j
 lyrics_url: https://genius.com/Usher-i-dont-mind-lyrics
 name: I Don't Mind
@@ -100,6 +103,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2015-05-09'
+release_year: 2014
+runtime: 251989
 ---
 Yeah
 Ursher, baby

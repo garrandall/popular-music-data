@@ -1,9 +1,12 @@
 ---
+album: Take Care
 artists:
 - Drake
+external_ids:
+  spotify: spotify:track:3psB8LAWdw813k9ZmLvjmZ
 features:
 - Nicki Minaj
-genres: []
+first_released_as_single: true
 key: make-me-proud-drake-nicki-minaj
 lyrics_url: https://www.azlyrics.com/lyrics/drake/makemeproud.html
 name: Make Me Proud
@@ -88,9 +91,9 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '2012-03-10'
+release_year: 2011
+runtime: 220053
 ---
-
-
 I like a woman with a future and a past
 A little attitude problem all good it'll make the shit last
 Don't make it too easy girl, don't take it too fast
@@ -187,6 +190,3 @@ I'm so, I'm so, I'm so, I'm so,
 I'm so proud of you
 Everything's adding up, you've been through hell and back
 That's why you're bad as fuck and you know you are
-
-
-

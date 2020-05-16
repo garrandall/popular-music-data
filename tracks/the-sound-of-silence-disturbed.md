@@ -1,8 +1,11 @@
 ---
+album: Immortalized
 artists:
 - Disturbed
+external_ids:
+  spotify: spotify:track:0eZBeB2xFIS65jQHerispi
 features: []
-genres: []
+first_released_as_single: false
 key: the-sound-of-silence-disturbed
 lyrics_url: https://genius.com/Disturbed-the-sound-of-silence-lyrics
 name: The Sound Of Silence
@@ -87,6 +90,8 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '2016-07-23'
+release_year: 2015
+runtime: 248466
 ---
 Hello darkness, my old friend
 I've come to talk with you again

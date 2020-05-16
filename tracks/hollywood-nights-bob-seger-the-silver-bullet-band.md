@@ -1,9 +1,12 @@
 ---
+album: Stranger In Town
 artists:
 - Bob Seger
 - The Silver Bullet Band
+external_ids:
+  spotify: spotify:track:5VbePtZp1at8gH990zVyTI
 features: []
-genres: []
+first_released_as_single: false
 key: hollywood-nights-bob-seger-the-silver-bullet-band
 lyrics_url: https://www.musixmatch.com/lyrics/Bob-Seger-feat-The-Silver-Bullet-Band/Hollywood-Nights
 name: Hollywood Nights
@@ -60,6 +63,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1978-11-04'
+release_year: 1978
+runtime: 302626
 ---
 She stood there bright as the sun on that California coast
 He was a midwestern boy on his own

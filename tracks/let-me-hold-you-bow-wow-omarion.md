@@ -1,9 +1,12 @@
 ---
+album: Wanted
 artists:
 - Bow Wow
+external_ids:
+  spotify: spotify:track:666NLsbWOUP3Lo0Ji5U0FS
 features:
 - Omarion
-genres: []
+first_released_as_single: false
 key: let-me-hold-you-bow-wow-omarion
 lyrics_url: https://genius.com/Bow-wow-let-me-hold-you-lyrics
 name: Let Me Hold You
@@ -104,6 +107,8 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '2005-11-05'
+release_year: 2000
+runtime: 247453
 ---
 Y'all know what this is
 This what you need to do girl...

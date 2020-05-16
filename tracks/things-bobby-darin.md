@@ -1,8 +1,11 @@
 ---
+album: Things & Other Things
 artists:
 - Bobby Darin
+external_ids:
+  spotify: spotify:track:5hgei65n0pGJ9uUHo8v2en
 features: []
-genres: []
+first_released_as_single: false
 key: things-bobby-darin
 lyrics_url: https://genius.com/Bobby-darin-things-lyrics
 name: Things
@@ -55,6 +58,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1962-09-22'
+release_year: 1962
+runtime: 151413
 ---
 Every night
 I sit here by my window (Window)

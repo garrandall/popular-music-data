@@ -1,8 +1,11 @@
 ---
+album: The Essential Mary Chapin Carpenter
 artists:
 - Mary Chapin Carpenter
+external_ids:
+  spotify: spotify:track:2b3N8Hr0VqxfcOyjSIGUHk
 features: []
-genres: []
+first_released_as_single: false
 key: almost-home-mary-chapin-carpenter
 lyrics_url: https://genius.com/Mary-chapin-carpenter-almost-home-lyrics
 name: Almost Home
@@ -35,6 +38,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1999-08-28'
+release_year: 1989
+runtime: 277066
 ---
 I saw my life this morning
 Lying at the bottom of a drawer

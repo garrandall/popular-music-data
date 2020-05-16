@@ -1,8 +1,11 @@
 ---
+album: Lightning Bolt
 artists:
 - Pearl Jam
+external_ids:
+  spotify: spotify:track:1cAMXz9mnvrqyQLSG4KeeE
 features: []
-genres: []
+first_released_as_single: false
 key: sirens-pearl-jam
 lyrics_url: https://www.azlyrics.com/lyrics/pearljam/sirens.html
 name: Sirens
@@ -11,8 +14,9 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '2013-10-26'
+release_year: 2013
+runtime: 340320
 ---
-
 Hear the sirens.
 Hear the sirens.
 
@@ -68,6 +72,3 @@ The fear goes away.
 
 Ah-ah, oh-oh
 Ah-ah, oh-oh
-
-
-

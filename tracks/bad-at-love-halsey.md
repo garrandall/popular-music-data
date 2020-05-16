@@ -1,8 +1,11 @@
 ---
+album: hopeless fountain kingdom
 artists:
 - Halsey
+external_ids:
+  spotify: spotify:track:7y9iMe8SOB6z3NoHE2OfXl
 features: []
-genres: []
+first_released_as_single: false
 key: bad-at-love-halsey
 lyrics_url: https://www.azlyrics.com/lyrics/halsey/badatlove.html
 name: Bad At Love
@@ -139,8 +142,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2018-04-28'
+release_year: 2017
+runtime: 181279
 ---
-
 Got a boy back home in Michigan
 And he tastes like Jack when I'm kissing him
 So I told him that I never really liked his friends
@@ -212,6 +216,3 @@ Lookin' at my history
 I'm bad at love
 Oh, you know, you know, you know, you know
 I'm bad at love
-
-
-

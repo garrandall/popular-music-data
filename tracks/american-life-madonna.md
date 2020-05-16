@@ -1,8 +1,11 @@
 ---
+album: American Life
 artists:
 - Madonna
+external_ids:
+  spotify: spotify:track:1YhiWWFrbdd3kAVhSYDhZ7
 features: []
-genres: []
+first_released_as_single: false
 key: american-life-madonna
 lyrics_url: https://genius.com/Madonna-american-life-lyrics
 name: American Life
@@ -39,6 +42,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2003-05-24'
+release_year: 2003
+runtime: 297840
 ---
 Do I have to change my name?
 Will it get me far?

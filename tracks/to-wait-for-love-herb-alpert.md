@@ -1,8 +1,11 @@
 ---
+album: Warm
 artists:
 - Herb Alpert
+external_ids:
+  spotify: spotify:track:754XY7JxniEoCAyGyKjiVe
 features: []
-genres: []
+first_released_as_single: false
 key: to-wait-for-love-herb-alpert
 lyrics_url: https://www.musixmatch.com/lyrics/Herb-Alpert-feat-The-Tijuana-Brass-2/To-Wait-for-Love
 name: To Wait For Love
@@ -31,6 +34,8 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '1968-10-05'
+release_year: 1968
+runtime: 179346
 ---
 Every day without love
 Is a day of sorrow

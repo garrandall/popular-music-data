@@ -1,8 +1,11 @@
 ---
+album: Ten Summoner's Tales
 artists:
 - Sting
+external_ids:
+  spotify: spotify:track:0I1DJdLt9BKOb7GWmWxCjo
 features: []
-genres: []
+first_released_as_single: false
 key: fields-of-gold-sting
 lyrics_url: https://www.azlyrics.com/lyrics/sting/fieldsofgold.html
 name: Fields Of Gold
@@ -87,8 +90,9 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '1993-10-16'
+release_year: 1993
+runtime: 222120
 ---
-
 You'll remember me when the west wind moves
 Upon the fields of barley
 You'll forget the sun in his jealous sky
@@ -126,6 +130,3 @@ You can tell the sun in his jealous sky
 When we walked in fields of gold
 When we walked in fields of gold
 When we walked in fields of gold
-
-
-

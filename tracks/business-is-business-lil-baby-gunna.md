@@ -1,9 +1,12 @@
 ---
+album: Drip Harder
 artists:
 - Lil Baby
 - Gunna
+external_ids:
+  spotify: spotify:track:7roKDmJDOzkpfGpUQJ5EnL
 features: []
-genres: []
+first_released_as_single: false
 key: business-is-business-lil-baby-gunna
 lyrics_url: https://www.azlyrics.com/lyrics/lilbaby/businessisbusiness.html
 name: Business Is Business
@@ -12,9 +15,9 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '2018-10-20'
+release_year: 2018
+runtime: 162268
 ---
-
-
 Yeah, yah
 Uh
 Run that back, Turbo
@@ -97,6 +100,3 @@ Puttin' Ms in all the Mercedes
 Spend a whole M in the mall, boy you crazy
 Clinch to that shit, bet' not trust your old lady (Bitches ain't shit)
 Business is business, so you gotta pay me (Business is business)
-
-
-

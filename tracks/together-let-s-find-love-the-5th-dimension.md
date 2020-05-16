@@ -1,8 +1,11 @@
 ---
+album: The Essential Fifth Dimension
 artists:
 - The 5th Dimension
+external_ids:
+  spotify: spotify:track:0Bj3A7hOy9N26t0eHYuNdZ
 features: []
-genres: []
+first_released_as_single: false
 key: together-let-s-find-love-the-5th-dimension
 lyrics_url: https://genius.com/The-5th-dimension-together-lets-find-love-lyrics
 name: Together Let's Find Love
@@ -47,6 +50,8 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '1972-03-04'
+release_year: 1972
+runtime: 217600
 ---
 I don't know much about
 This thing called love

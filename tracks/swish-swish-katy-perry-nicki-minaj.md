@@ -1,9 +1,12 @@
 ---
+album: Witness
 artists:
 - Katy Perry
+external_ids:
+  spotify: spotify:track:3OtMnyUaiipcAT23A8liyi
 features:
 - Nicki Minaj
-genres: []
+first_released_as_single: false
 key: swish-swish-katy-perry-nicki-minaj
 lyrics_url: https://www.azlyrics.com/lyrics/katyperry/swishswish.html
 name: Swish Swish
@@ -48,8 +51,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2017-09-30'
+release_year: 2017
+runtime: 242520
 ---
-
 They know what is what
 But they don't know what is what
 They just strut
@@ -157,6 +161,3 @@ They just know what is what
 But they don't know what is what
 They just strut
 What the...
-
-
-

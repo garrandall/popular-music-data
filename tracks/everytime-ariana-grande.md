@@ -1,8 +1,11 @@
 ---
+album: Sweetener
 artists:
 - Ariana Grande
+external_ids:
+  spotify: spotify:track:0WdR2AyLW1Drd3OUdwezM0
 features: []
-genres: []
+first_released_as_single: false
 key: everytime-ariana-grande
 lyrics_url: https://www.azlyrics.com/lyrics/arianagrande/everytime.html
 name: Everytime
@@ -11,8 +14,9 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '2018-09-01'
+release_year: 2018
+runtime: 172106
 ---
-
 Back to you, back to you, back to you
 Back to you, back to you, back to you
 I go back to you, back to you, back to you everytime
@@ -61,6 +65,3 @@ I go back to you, back to you, back to you everytime
 I go back to you, back to you, back to you
 Back to you, back to you, back to you
 I go back to you, back to you, back to you everytime
-
-
-

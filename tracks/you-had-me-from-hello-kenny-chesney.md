@@ -1,8 +1,11 @@
 ---
+album: Everywhere We Go
 artists:
 - Kenny Chesney
+external_ids:
+  spotify: spotify:track:3NJn7p1nrI3R8alivEMPwB
 features: []
-genres: []
+first_released_as_single: false
 key: you-had-me-from-hello-kenny-chesney
 lyrics_url: https://www.azlyrics.com/lyrics/kennychesney/youhadmefromhello.html
 name: You Had Me From Hello
@@ -87,8 +90,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1999-11-20'
+release_year: 1999
+runtime: 230826
 ---
-
 One word, that's all you said
 Something in your voice called me, turned my head
 Your smile, just captured me
@@ -124,6 +128,3 @@ Something in your voice calls me, turns my head
 You had me from hello
 You had me from hello
 Girl, I've loved you from hello
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: 20 Greatest Hits
 artists:
 - Tyrone Davis
+external_ids:
+  spotify: spotify:track:0f3yZAbWEjo1bRe7UEiF6W
 features: []
-genres: []
+first_released_as_single: false
 key: one-way-ticket-tyrone-davis
 lyrics_url: https://www.musixmatch.com/lyrics/Tyrone-Davis/One-Way-Ticket
 name: One-Way Ticket
@@ -35,6 +38,8 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1971-08-14'
+release_year: 1971
+runtime: 157600
 ---
 It took a one-way ticket to nowhere
 To make me know that I still care

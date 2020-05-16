@@ -1,8 +1,11 @@
 ---
+album: The Essential Johnny Mathis
 artists:
 - Johnny Mathis
+external_ids:
+  spotify: spotify:track:3GA3PeOsy9cXqj4tRbPRS0
 features: []
-genres: []
+first_released_as_single: false
 key: gina-johnny-mathis
 lyrics_url: https://www.azlyrics.com/lyrics/johnnymathis/gina.html
 name: Gina
@@ -55,8 +58,9 @@ rankings:
   rank: 32
   ranking_list: Billboard Hot 100
   start_date: '1962-12-08'
+release_year: 1962
+runtime: 165960
 ---
-
 Gina, Gina, I kissed you once and then
 I felt so wonderful, so very wonderful
 Let's do it over again
@@ -78,6 +82,3 @@ To have Gina (Gina), Gina (Gina) all for my very own
 It's much too wonderful, so very wonderful
 To know that Gina is mine (Gina is mine)
 Gina is mine alone
-
-
-

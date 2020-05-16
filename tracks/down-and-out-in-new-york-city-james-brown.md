@@ -1,8 +1,11 @@
 ---
+album: Black Caesar
 artists:
 - James Brown
+external_ids:
+  spotify: spotify:track:0jOnm3CL79MflZQSZiimpg
 features: []
-genres: []
+first_released_as_single: false
 key: down-and-out-in-new-york-city-james-brown
 lyrics_url: https://genius.com/James-brown-down-and-out-in-new-york-city-lyrics
 name: Down And Out In New York City
@@ -35,6 +38,8 @@ rankings:
   rank: 52
   ranking_list: Billboard Hot 100
   start_date: '1973-04-21'
+release_year: 1973
+runtime: 283493
 ---
 Say brother, can I borrow a thin, brother
 You know, a dime?

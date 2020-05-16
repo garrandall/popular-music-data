@@ -1,8 +1,11 @@
 ---
+album: Showtime
 artists:
 - James Brown
+external_ids:
+  spotify: spotify:track:0yYZeTPb097fzGUUEnHMAh
 features: []
-genres: []
+first_released_as_single: false
 key: caldonia-james-brown-and-his-orchestra
 lyrics_url: https://genius.com/James-brown-caldonia-lyrics
 name: Caldonia
@@ -15,6 +18,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1964-05-09'
+release_year: 1964
+runtime: 164440
 ---
 Walking with my baby
 She got great big feet

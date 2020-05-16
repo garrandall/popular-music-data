@@ -1,8 +1,11 @@
 ---
+album: Meet The Searchers
 artists:
 - The Searchers
+external_ids:
+  spotify: spotify:track:5u6gmrJaLVWj1wjhdT2REm
 features: []
-genres: []
+first_released_as_single: false
 key: love-potion-number-nine-the-searchers
 lyrics_url: https://genius.com/The-searchers-love-potion-number-nine-lyrics
 name: Love Potion Number Nine
@@ -63,6 +66,8 @@ rankings:
   rank: 36
   ranking_list: Billboard Hot 100
   start_date: '1965-02-27'
+release_year: 1963
+runtime: 125813
 ---
 I took my troubles down to Madame Ruth
 You know that gypsy with the gold-capped tooth

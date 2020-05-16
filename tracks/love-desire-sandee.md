@@ -1,8 +1,11 @@
 ---
+album: Freestyle Classics-Volume 2
 artists:
 - Sandee
+external_ids:
+  spotify: spotify:track:64xtbpPovuAlNheWuCtOww
 features: []
-genres: []
+first_released_as_single: false
 key: love-desire-sandee
 lyrics_url: https://genius.com/Sandee-love-desire-lyrics
 name: Love Desire
@@ -51,6 +54,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1991-08-10'
+release_year: 1991
+runtime: 332493
 ---
 Sometimes when
 A woman's with a man

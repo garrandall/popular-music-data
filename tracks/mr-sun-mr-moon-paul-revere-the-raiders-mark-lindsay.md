@@ -1,10 +1,13 @@
 ---
+album: Hard 'N' Heavy (With Marshmallow)
 artists:
 - Paul Revere
 - The Raiders
+external_ids:
+  spotify: spotify:track:0ZwYJy7tXNTmEwbUtnZwM7
 features:
 - Mark Lindsay
-genres: []
+first_released_as_single: false
 key: mr-sun-mr-moon-paul-revere-the-raiders-mark-lindsay
 lyrics_url: https://www.musixmatch.com/lyrics/Paul-Revere-The-Raiders-feat-Mark-Lindsay-2/Mr-Sun-Mr-Moon
 name: Mr Sun Mr Moon
@@ -57,6 +60,8 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '1969-05-03'
+release_year: 1969
+runtime: 168000
 ---
 Life is bringing you so down
 You don't think you can make it

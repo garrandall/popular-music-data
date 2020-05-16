@@ -1,8 +1,11 @@
 ---
+album: Right By You
 artists:
 - Stephen Stills
+external_ids:
+  spotify: spotify:track:6Yn8CbO3mPdWSe6EGixsfw
 features: []
-genres: []
+first_released_as_single: false
 key: can-t-let-go-stephen-stills
 lyrics_url: https://www.musixmatch.com/lyrics/Stephen-Stills/Can-t-Let-Go
 name: Can't Let Go
@@ -31,6 +34,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1984-11-10'
+release_year: 1984
+runtime: 251493
 ---
 By Joe Esposito and Ali Willis
 From the Stephen Stills album "Right By You"

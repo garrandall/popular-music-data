@@ -1,8 +1,11 @@
 ---
+album: Back To Back
 artists:
 - The Jets
+external_ids:
+  spotify: spotify:track:3tMYaJZblakeZZUoDVnHJC
 features: []
-genres: []
+first_released_as_single: false
 key: you-better-dance-the-jets
 lyrics_url: https://genius.com/The-jets-group-you-better-dance-lyrics
 name: You Better Dance
@@ -35,6 +38,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1989-09-09'
+release_year: 1989
+runtime: 231066
 ---
 Hey
 Heartache, no cure

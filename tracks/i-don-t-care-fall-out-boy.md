@@ -1,8 +1,11 @@
 ---
+album: "Folie \xE0 Deux"
 artists:
 - Fall Out Boy
+external_ids:
+  spotify: spotify:track:7ewT0nLFkMD8ONbRibePr9
 features: []
-genres: []
+first_released_as_single: false
 key: i-don-t-care-fall-out-boy
 lyrics_url: https://genius.com/Fall-out-boy-i-dont-care-lyrics
 name: I Don't Care
@@ -87,6 +90,8 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '2009-02-07'
+release_year: 2008
+runtime: 214493
 ---
 Oh, oh, say my name, and his in the same breath
 I dare you to say they taste the same

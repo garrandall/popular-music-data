@@ -1,8 +1,11 @@
 ---
+album: Do You Know
 artists:
 - Jessica Simpson
+external_ids:
+  spotify: spotify:track:02pJRGxaKgHFtA4g99Yqzb
 features: []
-genres: []
+first_released_as_single: false
 key: come-on-over-jessica-simpson
 lyrics_url: https://www.azlyrics.com/lyrics/jessicasimpson/comeonover.html
 name: Come On Over
@@ -35,8 +38,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2008-08-23'
+release_year: 1999
+runtime: 170653
 ---
-
 Leave your dishes in the sink,
 Leave the ice cubes in your drink,
 Just come on over.
@@ -81,6 +85,3 @@ I need you just the way you are,
 So come on over.
 
 So come on over
-
-
-

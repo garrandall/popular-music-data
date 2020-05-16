@@ -1,8 +1,11 @@
 ---
+album: Share My World
 artists:
 - Mary J. Blige
+external_ids:
+  spotify: spotify:track:78wi1g772j8eJPEnD8rr9z
 features: []
-genres: []
+first_released_as_single: false
 key: not-gon--cry-mary-j--blige
 lyrics_url: https://www.azlyrics.com/lyrics/maryjblige/notgoncry.html
 name: Not Gon' Cry
@@ -87,9 +90,9 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '1996-06-08'
+release_year: 1995
+runtime: 298173
 ---
-
-
 While all the time that I was loving you
 You were busy loving yourself
 I would stop breathing if you told me to
@@ -133,4 +136,3 @@ Through sickness and health 'till death do us part
 Those were the words that we said from our hearts
 So now when you say that you're leaving me
 I don't get that part
-

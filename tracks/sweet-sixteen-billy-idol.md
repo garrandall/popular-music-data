@@ -1,8 +1,11 @@
 ---
+album: Whiplash Smile
 artists:
 - Billy Idol
+external_ids:
+  spotify: spotify:track:4XxMVIDKRAYKlZ6pLt9zJ2
 features: []
-genres: []
+first_released_as_single: false
 key: sweet-sixteen-billy-idol
 lyrics_url: https://www.azlyrics.com/lyrics/billyidol/sweetsixteen.html
 name: Sweet Sixteen
@@ -63,8 +66,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1987-07-25'
+release_year: 1986
+runtime: 257813
 ---
-
 I'll do anything
 For my sweet sixteen,
 And I'll do anything
@@ -160,6 +164,3 @@ Little runaway girl
 Oh sweet sixteen
 Oh sweet sixteen
 Oh.
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: New Jersey
 artists:
 - Bon Jovi
+external_ids:
+  spotify: spotify:track:50ZpPgU81payZxI2H7QXNM
 features: []
-genres: []
+first_released_as_single: false
 key: born-to-be-my-baby-bon-jovi
 lyrics_url: https://www.azlyrics.com/lyrics/bonjovi/borntobemybaby.html
 name: Born To Be My Baby
@@ -87,8 +90,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1989-04-08'
+release_year: 1988
+runtime: 280106
 ---
-
 Rainy night and we worked all day 
 We both got jobs 'cause there's bills to pay 
 We got something they can't take away 
@@ -159,6 +163,3 @@ And baby, I was made to be your man
 
 You were born to be my baby 
 And baby, I was made to be your man
-
-
-

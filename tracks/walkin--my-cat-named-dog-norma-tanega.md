@@ -1,8 +1,11 @@
 ---
+album: Walkin' My Cat Named Dog
 artists:
 - Norma Tanega
+external_ids:
+  spotify: spotify:track:6S89ZitemdRnIshumKqpyt
 features: []
-genres: []
+first_released_as_single: false
 key: walkin--my-cat-named-dog-norma-tanega
 lyrics_url: https://www.musixmatch.com/lyrics/Norma-Tanega/Walkin-My-Cat-Named-Dog
 name: Walkin' My Cat Named Dog
@@ -43,6 +46,8 @@ rankings:
   rank: 36
   ranking_list: Billboard Hot 100
   start_date: '1966-04-23'
+release_year: 1966
+runtime: 138600
 ---
 I'm walkin all around the town
 Singin all the people down

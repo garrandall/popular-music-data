@@ -1,8 +1,11 @@
 ---
+album: Would You Take Another Chance On Me?
 artists:
 - Jerry Lee Lewis
+external_ids:
+  spotify: spotify:track:39XiLaHZ8AOdYKbt0v3HqS
 features: []
-genres: []
+first_released_as_single: false
 key: me-and-bobby-mcgee-jerry-lee-lewis
 lyrics_url: https://www.azlyrics.com/lyrics/jerryleelewis/meandbobbymcgee.html
 name: Me And Bobby McGee
@@ -47,8 +50,9 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '1972-01-29'
+release_year: 1971
+runtime: 192320
 ---
-
 (One two one two three four)
 Well busted flat in Baton Rouge a headin' for the trains
 Feelin' nearly faded as my jeans
@@ -79,6 +83,3 @@ Feeling good was easy Lord when Bobby sang the blues
 Lord that was good enough for me yeah good enough for me and Bobby McGee
 
 Yeah (la la la la...)
-
-
-

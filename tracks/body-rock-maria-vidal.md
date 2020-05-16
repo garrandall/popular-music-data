@@ -1,8 +1,11 @@
 ---
+album: Lost Hits Of The 80's
 artists:
 - Maria Vidal
+external_ids:
+  spotify: spotify:track:0Vw9dU92bdHAZlmwzrdmQ2
 features: []
-genres: []
+first_released_as_single: false
 key: body-rock-maria-vidal
 lyrics_url: https://genius.com/Maria-vidal-body-rock-lyrics
 name: Body Rock
@@ -55,6 +58,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1984-11-24'
+release_year: 1984
+runtime: 222173
 ---
 Born on a hungry street
 Children of darkness grew upon the beat

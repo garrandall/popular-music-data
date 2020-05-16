@@ -1,8 +1,11 @@
 ---
+album: Deep
 artists:
 - Peter Murphy
+external_ids:
+  spotify: spotify:track:4ijNab1GM0JSZoe0I2KCOd
 features: []
-genres: []
+first_released_as_single: false
 key: cuts-you-up-peter-murphy
 lyrics_url: https://www.azlyrics.com/lyrics/petermurphy/cutsyouup.html
 name: Cuts You Up
@@ -43,8 +46,9 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1990-05-19'
+release_year: 1989
+runtime: 327133
 ---
-
 I find you in the morning
 After dreams of distant signs
 You pour yourself over me
@@ -100,6 +104,3 @@ It's okay, it goes this way
 A line it twists, it twists away
 Cuts you up and spits you out
 Keeps you walking but never shout
-
-
-

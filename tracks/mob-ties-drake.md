@@ -1,8 +1,11 @@
 ---
+album: Scorpion
 artists:
 - Drake
+external_ids:
+  spotify: spotify:track:7rC5Pl8rQSX4myONQHYPBK
 features: []
-genres: []
+first_released_as_single: false
 key: mob-ties-drake
 lyrics_url: https://www.azlyrics.com/lyrics/drake/mobties.html
 name: Mob Ties
@@ -39,8 +42,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2018-09-08'
+release_year: 2018
+runtime: 205146
 ---
-
 Ayy, sick of these niggas (sick)
 Sick of these niggas (sick, sick)
 Hire some help, get rid of these niggas
@@ -112,6 +116,3 @@ It's too late for all that lovey-dovey shit
 I'm your brother shit, all that other shit
 It's too late for all that, ayy
 It's too late for all that
-
-
-

@@ -1,9 +1,12 @@
 ---
+album: Something Special
 artists:
 - Kool
 - The Gang
+external_ids:
+  spotify: spotify:track:4Cv6ongCvJy9JfSkWVnb5D
 features: []
-genres: []
+first_released_as_single: false
 key: get-down-on-it-kool-the-gang
 lyrics_url: https://genius.com/Kool-and-the-gang-get-down-on-it-lyrics
 name: Get Down On It
@@ -76,6 +79,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1982-06-19'
+release_year: 1981
+runtime: 293666
 ---
 What you gonna do?
 You wanna get down? Tell me

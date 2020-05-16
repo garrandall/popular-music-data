@@ -1,8 +1,11 @@
 ---
+album: Who Needs Pictures
 artists:
 - Brad Paisley
+external_ids:
+  spotify: spotify:track:79DjV1vsU6yVoCbrQNNDdI
 features: []
-genres: []
+first_released_as_single: false
 key: we-danced-brad-paisley
 lyrics_url: https://www.azlyrics.com/lyrics/bradpaisley/wedanced.html
 name: We Danced
@@ -87,8 +90,9 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2001-02-24'
+release_year: 1999
+runtime: 226226
 ---
-
 The bar was empty
 I was sweeping up the floor
 That's when she walked in
@@ -129,6 +133,3 @@ But the music played
 We held each other close
 And we danced
 Yeah, we danced
-
-
-

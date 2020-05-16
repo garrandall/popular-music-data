@@ -1,8 +1,11 @@
 ---
+album: Where Were You On Our Wedding Day
 artists:
 - Lloyd Price
+external_ids:
+  spotify: spotify:track:13bg3LR3M9kUzNfSqxSCzK
 features: []
-genres: []
+first_released_as_single: false
 key: misty-lloyd-price
 lyrics_url: https://genius.com/Lloyd-price-misty-lyrics
 name: Misty
@@ -43,6 +46,8 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '1963-11-30'
+release_year: 1963
+runtime: 170333
 ---
 Look at me
 I'm as helpless as a kitten up a tree

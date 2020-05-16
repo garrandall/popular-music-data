@@ -1,8 +1,11 @@
 ---
+album: Sunny Side
 artists:
 - The Kingston Trio
+external_ids:
+  spotify: spotify:track:5lNr9K4K75gxB655d9Ndcy
 features: []
-genres: []
+first_released_as_single: false
 key: desert-pete-the-kingston-trio
 lyrics_url: https://genius.com/Kingston-trio-desert-pete-lyrics
 name: Desert Pete
@@ -39,6 +42,8 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '1963-09-21'
+release_year: 1963
+runtime: 166933
 ---
 I was travelin' West of Buckskin on my way to a cattle run, 'cross a little cactus desert under a hard bargaining sun. Thirsty down to my toenails, I stopped to rest me on a stump, but I tell you I just couldn't believe it when I saw that water pump. I took it to be a mirage at first. It'll fool a thirsty man. Then I saw a note stuck in a bakin' powder can. "This pump is old," the note began, "but she works. So give'er a try. I put a new sucker washer in 'er. You may find the leather dry
 

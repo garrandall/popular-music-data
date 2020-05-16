@@ -1,8 +1,11 @@
 ---
+album: Break Out
 artists:
 - The Pointer Sisters
+external_ids:
+  spotify: spotify:track:0FCyuLdiv6YXC8YvbYkDM3
 features: []
-genres: []
+first_released_as_single: false
 key: automatic-the-pointer-sisters
 lyrics_url: https://www.azlyrics.com/lyrics/pointersisters/automatic.html
 name: Automatic
@@ -87,8 +90,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1984-06-09'
+release_year: 1983
+runtime: 366360
 ---
-
 Look what you're doing to me
 I'm utterly at your whim
 All of my defenses down
@@ -181,6 +185,3 @@ All of my systems are down
 Down, down, down
 Automatic (automatic)
 Automatic (automatic)
-
-
-

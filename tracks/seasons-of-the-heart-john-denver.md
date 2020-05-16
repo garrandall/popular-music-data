@@ -1,8 +1,11 @@
 ---
+album: Seasons Of The Heart
 artists:
 - John Denver
+external_ids:
+  spotify: spotify:track:1p5QFSyzEJoy0uFyn2SAVy
 features: []
-genres: []
+first_released_as_single: false
 key: seasons-of-the-heart-john-denver
 lyrics_url: https://www.azlyrics.com/lyrics/johndenver/seasonsoftheheart.html
 name: Seasons Of The Heart
@@ -27,8 +30,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1982-08-28'
+release_year: 1982
+runtime: 228826
 ---
-
 Of course we have our differences, you shouldn't be surprised.
 It's as natural as changes in the seasons and the skies.
 Sometimes we grow together, sometimes we drift apart,
@@ -53,6 +57,3 @@ It's just some things that mean so much and we just don't feel the same.
 Love is why I came here in the first place, love is now the reason I must go.
 Love is all I ever hoped to find here, love is still the only dream I know.
 True love is still the only dream I know.
-
-
-

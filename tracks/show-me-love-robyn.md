@@ -1,8 +1,11 @@
 ---
+album: Robyn Is Here
 artists:
 - Robyn
+external_ids:
+  spotify: spotify:track:6SluaPiV04KOaRTOIScoff
 features: []
-genres: []
+first_released_as_single: false
 key: show-me-love-robyn
 lyrics_url: https://genius.com/Robyn-show-me-love-lyrics
 name: Show Me Love
@@ -103,6 +106,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1998-04-25'
+release_year: 1995
+runtime: 229226
 ---
 Yeah, yeah, yeah...
 

@@ -1,8 +1,11 @@
 ---
+album: Anthology
 artists:
 - Jigsaw
+external_ids:
+  spotify: spotify:track:0vkcukEmpapRf52fTovIVj
 features: []
-genres: []
+first_released_as_single: false
 key: love-fire-jigsaw
 lyrics_url: https://www.azlyrics.com/lyrics/jigsaw/lovefire.html
 name: Love Fire
@@ -51,8 +54,9 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '1976-04-17'
+release_year: 1975
+runtime: 159293
 ---
-
 Love fire
 Hold me close and breathe my name, start a
 Love fire
@@ -92,6 +96,3 @@ Love fire, higher and higher
 Love fire, higher and higher
 We won't try to fight the flame
 'Cause inside we feel the same
-
-
-

@@ -1,9 +1,12 @@
 ---
+album: Kool And The Gang
 artists:
 - Kool
 - The Gang
+external_ids:
+  spotify: spotify:track:43W0g4M4thuWwqvAuoaLID
 features: []
-genres: []
+first_released_as_single: false
 key: let-the-music-take-your-mind-kool-the-gang
 lyrics_url: https://www.azlyrics.com/lyrics/koolthegang/letthemusictakeyourmind.html
 name: Let The Music Take Your Mind
@@ -32,8 +35,9 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1970-08-08'
+release_year: 1970
+runtime: 179493
 ---
-
 Come on y'all
 
 Let the music take your mind
@@ -59,6 +63,3 @@ Let the music take your mind
 I wanna feel it deep inside
 
 Let the music take your mind
-
-
-

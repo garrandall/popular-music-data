@@ -1,8 +1,11 @@
 ---
+album: Idea
 artists:
 - Bee Gees
+external_ids:
+  spotify: spotify:track:4xCVHlmzEyIn1t4gXYsMaf
 features: []
-genres: []
+first_released_as_single: false
 key: i-ve-gotta-get-a-message-to-you-bee-gees
 lyrics_url: https://genius.com/Bee-gees-ive-gotta-get-a-message-to-you-lyrics
 name: I've Gotta Get A Message To You
@@ -59,6 +62,8 @@ rankings:
   rank: 28
   ranking_list: Billboard Hot 100
   start_date: '1968-11-09'
+release_year: 1968
+runtime: 177440
 ---
 The preacher talked with me and he smiled
 Said "Come and walk with me, come and walk one more mile

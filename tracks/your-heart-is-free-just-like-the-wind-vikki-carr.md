@@ -1,8 +1,11 @@
 ---
+album: 'The Best Of Vikki Carr: It Must Be Him'
 artists:
 - Vikki Carr
+external_ids:
+  spotify: spotify:track:7bP5O5IYUIycego3IHsvra
 features: []
-genres: []
+first_released_as_single: false
 key: your-heart-is-free-just-like-the-wind-vikki-carr
 lyrics_url: https://www.musixmatch.com/lyrics/Vikki-Carr/Your-Heart-Is-Free-Just-Like-the-Wind
 name: Your Heart Is Free Just Like The Wind
@@ -27,6 +30,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1968-04-27'
+release_year: 1968
+runtime: 173440
 ---
 Your heart is free
 Just like the wind

@@ -1,8 +1,11 @@
 ---
+album: For What It's Worth
 artists:
 - The Staple Singers
+external_ids:
+  spotify: spotify:track:4la9jiqXYHQlEwbRhqYsd7
 features: []
-genres: []
+first_released_as_single: false
 key: for-what-it-s-worth-the-staple-singers
 lyrics_url: https://www.azlyrics.com/lyrics/staplesingers/forwhatitsworth.html
 name: For What It's Worth
@@ -23,8 +26,9 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '1967-10-14'
+release_year: 1967
+runtime: 144320
 ---
-
 Something happen in here
 What it is ain't exactly clear
 There's a man with a gun over there
@@ -61,6 +65,3 @@ Stop, children, what's that sound?
 Everybody look what's going down
 Stop, children, what's that sound?
 Everybody look what's going down
-
-
-

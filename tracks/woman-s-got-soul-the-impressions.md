@@ -1,8 +1,11 @@
 ---
+album: People Get Ready
 artists:
 - The Impressions
+external_ids:
+  spotify: spotify:track:3CABiRWxL4z7btvaKIMGLd
 features: []
-genres: []
+first_released_as_single: false
 key: woman-s-got-soul-the-impressions
 lyrics_url: https://www.azlyrics.com/lyrics/impressions/womansgotsoul.html
 name: Woman's Got Soul
@@ -35,8 +38,9 @@ rankings:
   rank: 34
   ranking_list: Billboard Hot 100
   start_date: '1965-05-15'
+release_year: 1965
+runtime: 147466
 ---
-
 She may not be the best lookin' woman
 I ever did see
 Nor have the charms of the ladies
@@ -74,6 +78,3 @@ If the woman's got soul
 If the woman's got soul
 If the woman's got soul
 If the woman's got soul
-
-
-

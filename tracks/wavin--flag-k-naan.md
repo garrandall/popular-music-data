@@ -1,8 +1,11 @@
 ---
+album: Troubadour
 artists:
 - K'Naan
+external_ids:
+  spotify: spotify:track:02WDuAXXKumemrvsmrVBvH
 features: []
-genres: []
+first_released_as_single: false
 key: wavin--flag-k-naan
 lyrics_url: https://genius.com/Knaan-wavin-flag-lyrics
 name: Wavin' Flag
@@ -35,6 +38,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2010-07-31'
+release_year: 2009
+runtime: 212866
 ---
 When I get older I will be stronger
 They'll call me freedom, just like a wavin' flag

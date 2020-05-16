@@ -1,8 +1,11 @@
 ---
+album: All The Lost Souls
 artists:
 - James Blunt
+external_ids:
+  spotify: spotify:track:1BV0m40U0M4t1SLIsDnwZl
 features: []
-genres: []
+first_released_as_single: false
 key: 1973-james-blunt
 lyrics_url: https://www.azlyrics.com/lyrics/jamesblunt/1973.html
 name: '1973'
@@ -19,8 +22,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2007-10-20'
+release_year: 2007
+runtime: 280026
 ---
-
 Simona
 You're getting older
 Your journey's been
@@ -73,6 +77,3 @@ And though time goes by
 I will always be
 In a club with you
 In 1973
-
-
-

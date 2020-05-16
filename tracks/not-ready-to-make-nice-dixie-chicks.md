@@ -1,8 +1,11 @@
 ---
+album: Taking The Long Way
 artists:
 - Dixie Chicks
+external_ids:
+  spotify: spotify:track:6LCEyZZHFF4ebF1Mike1s5
 features: []
-genres: []
+first_released_as_single: false
 key: not-ready-to-make-nice-dixie-chicks
 lyrics_url: https://genius.com/Dixie-chicks-not-ready-to-make-nice-lyrics
 name: Not Ready To Make Nice
@@ -103,6 +106,8 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '2007-03-24'
+release_year: 2006
+runtime: 237296
 ---
 Forgive, sounds good
 Forget, I'm not sure I could

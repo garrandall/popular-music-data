@@ -1,8 +1,11 @@
 ---
+album: Burnin' (Live)
 artists:
 - Esther Phillips
+external_ids:
+  spotify: spotify:track:395BoAPLUuoP38K6Pc3U8o
 features: []
-genres: []
+first_released_as_single: false
 key: and-i-love-him-esther-phillips
 lyrics_url: https://genius.com/Esther-phillips-and-i-love-him-lyrics
 name: And I Love Him
@@ -43,6 +46,8 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1965-07-03'
+release_year: 1965
+runtime: 388840
 ---
 I give him all my love
 That's all I do

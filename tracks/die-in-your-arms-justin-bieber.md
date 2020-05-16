@@ -1,8 +1,11 @@
 ---
+album: Believe
 artists:
 - Justin Bieber
+external_ids:
+  spotify: spotify:track:2eHs8Swb16qSKatrLKnWKP
 features: []
-genres: []
+first_released_as_single: false
 key: die-in-your-arms-justin-bieber
 lyrics_url: https://www.musixmatch.com/lyrics/Justin-Bieber/Die-In-Your-Arms
 name: Die In Your Arms
@@ -15,6 +18,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2012-06-23'
+release_year: 2012
+runtime: 237293
 ---
 Mhmm, uh-huh, yeah, yeah, alright
 Mhmm, uh-huh, yeah, yeah, alright

@@ -1,8 +1,11 @@
 ---
+album: Here I Am
 artists:
 - Dionne Warwick
+external_ids:
+  spotify: spotify:track:2xVYTZJzjizqZhlP7qw2wI
 features: []
-genres: []
+first_released_as_single: false
 key: are-you-there--with-another-girl--dionne-warwick
 lyrics_url: https://genius.com/Dionne-warwick-are-you-there-with-another-girl-lyrics
 name: Are You There (With Another Girl)
@@ -47,6 +50,8 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '1966-02-12'
+release_year: 1965
+runtime: 172333
 ---
 I hear the music coming out of your radio
 Are you there with another girl instead of me?

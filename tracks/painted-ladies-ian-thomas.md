@@ -1,8 +1,11 @@
 ---
+album: A Life In Song
 artists:
 - Ian Thomas
+external_ids:
+  spotify: spotify:track:2k6hVKk4mERCEYscYWE6PO
 features: []
-genres: []
+first_released_as_single: false
 key: painted-ladies-ian-thomas
 lyrics_url: https://genius.com/Ian-thomas-ca-painted-ladies-lyrics
 name: Painted Ladies
@@ -63,6 +66,8 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '1974-01-26'
+release_year: 1973
+runtime: 253473
 ---
 I remember setting out just to see what I could see
 Streetcars rolling by and airplanes flying high they all meant nothing to me

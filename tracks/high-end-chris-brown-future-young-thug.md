@@ -1,10 +1,13 @@
 ---
+album: Heartbreak on a Full Moon
 artists:
 - Chris Brown
+external_ids:
+  spotify: spotify:track:2XdgSB4TtzUHQYCMfSHbFI
 features:
 - Future
 - Young Thug
-genres: []
+first_released_as_single: true
 key: high-end-chris-brown-future-young-thug
 lyrics_url: https://www.azlyrics.com/lyrics/chrisbrown/highend.html
 name: High End
@@ -17,9 +20,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2017-11-18'
+release_year: 2017
+runtime: 202213
 ---
-
-
 High end, yeah
 You know, what we doin' (what)
 I'm set, slatt, set, gang, set
@@ -122,6 +125,3 @@ I like it, I bought it (it's mine)
 I'm wet up like faucets
 Catch up to not get
 We don't let bygones be bygones
-
-
-

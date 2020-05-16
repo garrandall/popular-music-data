@@ -1,8 +1,11 @@
 ---
+album: The Divine Miss M
 artists:
 - Bette Midler
+external_ids:
+  spotify: spotify:track:2Hyis7pyTBDyR3zq4GNZCu
 features: []
-genres: []
+first_released_as_single: false
 key: do-you-want-to-dance--bette-midler
 lyrics_url: https://www.azlyrics.com/lyrics/bettemidler/doyouwanttodance.html
 name: Do You Want To Dance?
@@ -71,8 +74,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1973-04-07'
+release_year: 1972
+runtime: 162866
 ---
-
 Do you wanna dance, and hold my hand?
 Tell me you're my lover man.
 Oh baby, do you wanna dance?
@@ -103,6 +107,3 @@ dance with me baby.
 Please, please, please, please
 dance with me baby.
 Please, you got to . . .
-
-
-

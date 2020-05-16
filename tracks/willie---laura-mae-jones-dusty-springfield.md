@@ -1,8 +1,11 @@
 ---
+album: Dusty In Memphis
 artists:
 - Dusty Springfield
+external_ids:
+  spotify: spotify:track:4AE3dRLSuWT4t1cWy5RkHc
 features: []
-genres: []
+first_released_as_single: false
 key: willie---laura-mae-jones-dusty-springfield
 lyrics_url: https://genius.com/Dusty-springfield-willie-and-laura-mae-jones-lyrics
 name: Willie & Laura Mae Jones
@@ -19,6 +22,8 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1969-07-26'
+release_year: 1969
+runtime: 169840
 ---
 Willie and Laura Mae Jones
 Were our neighbours a long time back

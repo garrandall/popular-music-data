@@ -1,8 +1,11 @@
 ---
+album: Capitol Collectors Series
 artists:
 - Wayne Newton
+external_ids:
+  spotify: spotify:track:7hPIEh41LPasckJFXOznmW
 features: []
-genres: []
+first_released_as_single: false
 key: summer-wind-wayne-newton
 lyrics_url: https://genius.com/Wayne-newton-summer-wind-lyrics
 name: Summer Wind
@@ -23,6 +26,8 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1965-08-28'
+release_year: 1965
+runtime: 157760
 ---
 The summer wind, came blowin' in from across the sea
 It lingered there, to touch you hair and walk with me

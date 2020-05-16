@@ -1,8 +1,11 @@
 ---
+album: Strange Weather
 artists:
 - Glenn Frey
+external_ids:
+  spotify: spotify:track:3wEEbdzItMD8VgTOfPbzTF
 features: []
-genres: []
+first_released_as_single: false
 key: i-ve-got-mine-glenn-frey
 lyrics_url: https://genius.com/Glenn-frey-ive-got-mine-lyrics
 name: I've Got Mine
@@ -19,6 +22,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1992-08-08'
+release_year: 1992
+runtime: 335893
 ---
 Someone's sleeping on the sidewalk
 As the winter sun goes down

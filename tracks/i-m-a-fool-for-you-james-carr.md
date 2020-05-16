@@ -1,8 +1,11 @@
 ---
+album: A Man Needs a Woman
 artists:
 - James Carr
+external_ids:
+  spotify: spotify:track:00JRruCr5M0bscbDVt886Y
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-a-fool-for-you-james-carr
 lyrics_url: https://genius.com/James-carr-im-a-fool-for-you-lyrics
 name: I'm A Fool For You
@@ -19,6 +22,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1967-10-07'
+release_year: 1967
+runtime: 120586
 ---
 Oh, I'm a fool for you
 I'm a fool for you

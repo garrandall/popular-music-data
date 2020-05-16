@@ -1,8 +1,11 @@
 ---
+album: Take A Little Rhythm
 artists:
 - Ali Thomson
+external_ids:
+  spotify: spotify:track:2PuRULKn9m7CLW3pyH9Df7
 features: []
-genres: []
+first_released_as_single: false
 key: live-every-minute-ali-thomson
 lyrics_url: https://genius.com/Ali-thomson-live-every-minute-lyrics
 name: Live Every Minute
@@ -51,6 +54,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1980-11-22'
+release_year: 1980
+runtime: 209429
 ---
 Live, live every minute
 Don't leave till tomorrow

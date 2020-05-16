@@ -1,8 +1,11 @@
 ---
+album: Parsley, Sage, Rosemary And Thyme
 artists:
 - Simon & Garfunkel
+external_ids:
+  spotify: spotify:track:76Fcbx3T7fUgA7phUkmsn7
 features: []
-genres: []
+first_released_as_single: false
 key: for-emily-whenever-i-may-find-her-simon-garfunkel
 lyrics_url: https://genius.com/Simon-and-garfunkel-for-emily-whenever-i-may-find-her-lyrics
 name: For Emily Whenever I May Find Her
@@ -35,6 +38,8 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '1972-10-14'
+release_year: 1966
+runtime: 125413
 ---
 What a dream I had
 Pressed in organdy

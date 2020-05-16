@@ -1,8 +1,11 @@
 ---
+album: I've Made It
 artists:
 - The Bell Notes
+external_ids:
+  spotify: spotify:track:5apwLmnzpwqnFffc2RSZhC
 features: []
-genres: []
+first_released_as_single: false
 key: shortnin--bread-the-bell-notes
 name: Shortnin' Bread
 rankings:
@@ -14,5 +17,7 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1960-09-05'
+release_year: 1899
+runtime: 117086
 ---
 

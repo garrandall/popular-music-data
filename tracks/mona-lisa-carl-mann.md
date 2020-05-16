@@ -1,8 +1,11 @@
 ---
+album: Like Mann
 artists:
 - Carl Mann
+external_ids:
+  spotify: spotify:track:3iUS5pEe8CinR7KiQn8LNm
 features: []
-genres: []
+first_released_as_single: false
 key: mona-lisa-carl-mann
 lyrics_url: https://genius.com/Carl-mann-mona-lisa-lyrics
 name: Mona Lisa
@@ -71,6 +74,8 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1959-09-14'
+release_year: 1959
+runtime: 146728
 ---
 Mona lisa, mona lisa, men have named you
 You're so like the lady with the mystic smile

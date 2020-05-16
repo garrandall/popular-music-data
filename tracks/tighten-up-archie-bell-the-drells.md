@@ -1,9 +1,12 @@
 ---
+album: Tighten Up
 artists:
 - Archie Bell
 - The Drells
+external_ids:
+  spotify: spotify:track:6IIcvtmuGpWIasqOpyGlyY
 features: []
-genres: []
+first_released_as_single: false
 key: tighten-up-archie-bell-the-drells
 lyrics_url: https://www.azlyrics.com/lyrics/archiebellthedrells/tightenup.html
 name: Tighten Up
@@ -68,8 +71,9 @@ rankings:
   rank: 33
   ranking_list: Billboard Hot 100
   start_date: '1968-07-06'
+release_year: 1968
+runtime: 196000
 ---
-
 Hi everybody
 I'm Archie Bell of the Drells
 From Houston, Texas
@@ -146,6 +150,3 @@ Everything will be outta sight
 Come on and tighten it up
 Tighten it up now
 You can do it...
-
-
-

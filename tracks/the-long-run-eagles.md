@@ -1,8 +1,11 @@
 ---
+album: The Long Run
 artists:
 - Eagles
+external_ids:
+  spotify: spotify:track:2YOwVfcUTRjNpcLny4UC4r
 features: []
-genres: []
+first_released_as_single: false
 key: the-long-run-eagles
 lyrics_url: https://genius.com/Eagles-the-long-run-lyrics
 name: The Long Run
@@ -67,6 +70,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1980-03-15'
+release_year: 1979
+runtime: 221234
 ---
 I used to hurry a lot, I used to worry a lot
 I used to stay out till the break of day

@@ -1,8 +1,11 @@
 ---
+album: Nights Like These
 artists:
 - Outasight
+external_ids:
+  spotify: spotify:track:0tr0D36L1RwPdUTFfyNq37
 features: []
-genres: []
+first_released_as_single: true
 key: tonight-is-the-night-outasight
 lyrics_url: https://www.azlyrics.com/lyrics/outasight/tonightisthenight.html
 name: Tonight Is The Night
@@ -87,8 +90,9 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '2012-04-21'
+release_year: 2011
+runtime: 190000
 ---
-
 I've been feeling real good,
 Came a long way from misunderstood.
 Far away from the days where I wouldn't wanna go home,
@@ -160,6 +164,3 @@ Tonight is the night is the night that were losing control
 Tonight is the night is the night we set it off
 Tonight is the night is the night that were losing control
 Tonight is the night is the night we set it off
-
-
-

@@ -1,9 +1,12 @@
 ---
+album: Tha Carter IV
 artists:
 - Lil Wayne
+external_ids:
+  spotify: spotify:track:5DjLed65sri5juDG6kdPPK
 features:
 - T-Pain
-genres: []
+first_released_as_single: false
 key: how-to-hate-lil-wayne-t-pain
 lyrics_url: https://genius.com/Lil-wayne-how-to-hate-lyrics
 name: How To Hate
@@ -12,6 +15,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '2011-09-17'
+release_year: 2011
+runtime: 278520
 ---
 She owes me everything and she knows it
 I've seen all the scenes in this movie, and she blows it at the end

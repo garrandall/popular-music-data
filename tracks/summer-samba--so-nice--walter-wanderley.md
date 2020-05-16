@@ -1,8 +1,11 @@
 ---
+album: Rain Forest
 artists:
 - Walter Wanderley
+external_ids:
+  spotify: spotify:track:3EpJ36yrwkPvlUXKeQa7ca
 features: []
-genres: []
+first_released_as_single: false
 key: summer-samba--so-nice--walter-wanderley
 lyrics_url: https://genius.com/Walter-wanderley-summer-samba-lyrics
 name: Summer Samba (So Nice)
@@ -43,6 +46,8 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '1966-10-22'
+release_year: 1966
+runtime: 186960
 ---
 Someone to hold me tight
 That would be very nice

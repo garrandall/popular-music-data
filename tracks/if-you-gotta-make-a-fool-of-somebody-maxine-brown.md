@@ -1,8 +1,11 @@
 ---
+album: Super Hits
 artists:
 - Maxine Brown
+external_ids:
+  spotify: spotify:track:1PvhnVsA3cev8o1YuUFRin
 features: []
-genres: []
+first_released_as_single: true
 key: if-you-gotta-make-a-fool-of-somebody-maxine-brown
 lyrics_url: https://www.musixmatch.com/lyrics/Maxine-Brown/If-You-Gotta-Make-a-Fool-of-Somebody
 name: If You Gotta Make A Fool Of Somebody
@@ -43,6 +46,8 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1966-02-05'
+release_year: 1965
+runtime: 128613
 ---
 If you gotta make a fool of somebody
 If you gotta make a fool of someone

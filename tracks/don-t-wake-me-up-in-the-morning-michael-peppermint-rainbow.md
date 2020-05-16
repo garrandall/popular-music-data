@@ -1,8 +1,11 @@
 ---
+album: Will You Be Staying After Sunday
 artists:
 - Peppermint Rainbow
+external_ids:
+  spotify: spotify:track:6RzqD964t0xz5yHHdvpEtO
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-wake-me-up-in-the-morning-michael-peppermint-rainbow
 lyrics_url: https://genius.com/The-peppermint-rainbow-dont-wake-me-up-in-the-morning-michael-lyrics
 name: Don't Wake Me Up In The Morning Michael
@@ -43,6 +46,8 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '1969-08-09'
+release_year: 1969
+runtime: 154733
 ---
 Don't wake me up in the morning, Michael
 Not if you're planning to say goodbye

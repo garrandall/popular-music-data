@@ -1,8 +1,11 @@
 ---
+album: Instant Replay
 artists:
 - Dan Hartman
+external_ids:
+  spotify: spotify:track:0E1PR66A94yVPiYJxGHimf
 features: []
-genres: []
+first_released_as_single: false
 key: instant-replay-dan-hartman
 lyrics_url: https://www.azlyrics.com/lyrics/danhartman/instantreplay.html
 name: Instant Replay
@@ -75,8 +78,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1979-02-03'
+release_year: 1978
+runtime: 320480
 ---
-
 (Ten nine eight seven six five four three two one)
 (Ah-ah-ah-ah)
 (Oh)
@@ -127,6 +131,3 @@ I need your love love love
 (Instant replay) I need your love
 (Instant replay instant replay)
 Oh and I'm feeling overcome (instant replay)
-
-
-

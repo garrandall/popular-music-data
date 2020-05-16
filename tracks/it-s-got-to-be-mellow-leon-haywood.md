@@ -1,8 +1,11 @@
 ---
+album: Intimate (Expanded)
 artists:
 - Leon Haywood
+external_ids:
+  spotify: spotify:track:1XTzERcWA8JFv7q1jHdFI8
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-got-to-be-mellow-leon-haywood
 lyrics_url: https://www.musixmatch.com/lyrics/Leon-Haywood/It-s-Got-to-Be-Mellow
 name: It's Got To Be Mellow
@@ -51,6 +54,8 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1967-10-28'
+release_year: 1967
+runtime: 143640
 ---
 Yeah, yeah,
 It's got to be mellow,

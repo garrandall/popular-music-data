@@ -1,8 +1,11 @@
 ---
+album: The Rolling Stones, Now!
 artists:
 - The Rolling Stones
+external_ids:
+  spotify: spotify:track:7oLIJvY8IUSmjfXdUvn3ru
 features: []
-genres: []
+first_released_as_single: false
 key: heart-of-stone-the-rolling-stones
 lyrics_url: https://genius.com/The-rolling-stones-heart-of-stone-lyrics
 name: Heart Of Stone
@@ -43,6 +46,8 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '1965-03-06'
+release_year: 1965
+runtime: 169093
 ---
 There've been so many girls that I've known
 I've made so many cry and still I wonder why

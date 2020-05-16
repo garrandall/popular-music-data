@@ -1,8 +1,11 @@
 ---
+album: Haven't Stopped
 artists:
 - Gonzalez
+external_ids:
+  spotify: spotify:track:7j0v9ukznsjO0uqHM9V7xK
 features: []
-genres: []
+first_released_as_single: false
 key: haven-t-stopped-dancing-yet-gonzalez
 lyrics_url: https://genius.com/Gonzalez-havent-stopped-dancing-yet-lyrics
 name: Haven't Stopped Dancing Yet
@@ -55,6 +58,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1979-03-24'
+release_year: 1979
+runtime: 479893
 ---
 Haven't stopped dancing yet
 Since we met on our first date

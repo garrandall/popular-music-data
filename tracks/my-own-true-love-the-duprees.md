@@ -1,8 +1,11 @@
 ---
+album: 'Hits Singles: Collectors Series'
 artists:
 - The Duprees
+external_ids:
+  spotify: spotify:track:4qTOPi19iQieYQ5q3j3Ho3
 features: []
-genres: []
+first_released_as_single: false
 key: my-own-true-love-the-duprees
 lyrics_url: https://genius.com/The-duprees-my-own-true-love-lyrics
 name: My Own True Love
@@ -47,6 +50,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1962-12-22'
+release_year: 1962
+runtime: 154475
 ---
 My own true love
 My own true love

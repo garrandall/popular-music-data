@@ -1,8 +1,11 @@
 ---
+album: Switch
 artists:
 - INXS
+external_ids:
+  spotify: spotify:track:37oEm1l0NL6Ud2ccgsdgND
 features: []
-genres: []
+first_released_as_single: false
 key: pretty-vegas-inxs
 lyrics_url: https://www.azlyrics.com/lyrics/inxs/prettyvegas.html
 name: Pretty Vegas
@@ -31,8 +34,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2006-01-14'
+release_year: 2005
+runtime: 205413
 ---
-
 Falling asleep at the wheel again baby 
 You're drifting over the line (the line) yeah 
 Your hands are tight but you're losing grip quickly 
@@ -95,6 +99,3 @@ With no place to go
 So if you think you want it 
 Just come in and get it 
 It ain't pretty
-
-
-

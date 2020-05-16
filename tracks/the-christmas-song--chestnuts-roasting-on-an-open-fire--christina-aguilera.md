@@ -1,8 +1,11 @@
 ---
+album: My Kind Of Christmas
 artists:
 - Christina Aguilera
+external_ids:
+  spotify: spotify:track:2BNV1D5X4ioefyOE0uDFOL
 features: []
-genres: []
+first_released_as_single: false
 key: the-christmas-song--chestnuts-roasting-on-an-open-fire--christina-aguilera
 lyrics_url: https://www.azlyrics.com/lyrics/christinaaguilera/thechristmassong.html
 name: The Christmas Song (Chestnuts Roasting On An Open Fire)
@@ -23,8 +26,9 @@ rankings:
   rank: 18
   ranking_list: Billboard Hot 100
   start_date: '2000-01-08'
+release_year: 1999
+runtime: 264960
 ---
-
 Oh, hm, oh yeah
 Chestnuts roasting on an open fire
 Jack Frost nipping at your nose
@@ -63,6 +67,3 @@ Oh yeah to you
 Merry Christmas...
 
 MERRY CHRISTMAS!
-
-
-

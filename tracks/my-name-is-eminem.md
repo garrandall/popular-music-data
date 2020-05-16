@@ -1,8 +1,11 @@
 ---
+album: The Slim Shady LP
 artists:
 - Eminem
+external_ids:
+  spotify: spotify:track:75IN3CtuZwTHTnZvYM4qnJ
 features: []
-genres: []
+first_released_as_single: false
 key: my-name-is-eminem
 lyrics_url: https://genius.com/Eminem-my-name-is-lyrics
 name: My Name Is
@@ -47,6 +50,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1999-05-01'
+release_year: 1999
+runtime: 268400
 ---
 Hi, my name is, what? My name is, who?
 My name is, chka-chka, Slim Shady

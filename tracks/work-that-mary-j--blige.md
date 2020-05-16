@@ -1,8 +1,11 @@
 ---
+album: Growing Pains
 artists:
 - Mary J. Blige
+external_ids:
+  spotify: spotify:track:3j59mQGu5USFF16v8nPNmw
 features: []
-genres: []
+first_released_as_single: false
 key: work-that-mary-j--blige
 lyrics_url: https://genius.com/Mary-j-blige-work-that-lyrics
 name: Work That
@@ -43,6 +46,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2008-02-09'
+release_year: 2007
+runtime: 210586
 ---
 Work your thing out
 Work your thing out

@@ -1,8 +1,11 @@
 ---
+album: Lovely
 artists:
 - Jocelyn Enriquez
+external_ids:
+  spotify: spotify:track:6nr3vLiyiMpNMvjj8FPfaa
 features: []
-genres: []
+first_released_as_single: false
 key: i-ve-been-thinking-about-you-jocelyn-enriquez
 lyrics_url: https://genius.com/Jocelyn-enriquez-ive-been-thinking-about-you-lyrics
 name: I've Been Thinking About You
@@ -51,6 +54,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1994-06-11'
+release_year: 1994
+runtime: 226665
 ---
 Alone again, I'm waiting for your love
 To come into my life

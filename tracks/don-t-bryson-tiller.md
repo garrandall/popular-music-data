@@ -1,8 +1,11 @@
 ---
+album: T R A P S O U L
 artists:
 - Bryson Tiller
+external_ids:
+  spotify: spotify:track:7lxWzjZCSkXndL8eYKfFWU
 features: []
-genres: []
+first_released_as_single: true
 key: don-t-bryson-tiller
 lyrics_url: https://genius.com/Bryson-tiller-dont-lyrics
 name: Don't
@@ -143,6 +146,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2016-06-04'
+release_year: 2015
+runtime: 200213
 ---
 Don't, don't play with her, don't be dishonest (Ayy)
 Still not understandin' this logic (Ayy)

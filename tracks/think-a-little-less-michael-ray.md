@@ -1,8 +1,11 @@
 ---
+album: Michael Ray
 artists:
 - Michael Ray
+external_ids:
+  spotify: spotify:track:6FvMnqZ47ehllgMsaqYwOs
 features: []
-genres: []
+first_released_as_single: true
 key: think-a-little-less-michael-ray
 lyrics_url: https://www.musixmatch.com/lyrics/Michael-Ray-3/Think-a-Little-Less
 name: Think A Little Less
@@ -71,6 +74,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2017-04-29'
+release_year: 2014
+runtime: 176986
 ---
 Midnight's creepin' in, we know better
 Than leavin' here together

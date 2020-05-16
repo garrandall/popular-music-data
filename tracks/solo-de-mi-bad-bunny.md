@@ -1,8 +1,11 @@
 ---
+album: X 100PRE
 artists:
 - Bad Bunny
+external_ids:
+  spotify: spotify:track:5YOkA7qd2983FtBQnP8sYx
 features: []
-genres: []
+first_released_as_single: true
 key: solo-de-mi-bad-bunny
 lyrics_url: https://genius.com/Bad-bunny-solo-de-mi-lyrics
 name: Solo de Mi
@@ -11,6 +14,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2019-01-12'
+release_year: 2018
+runtime: 197967
 ---
 No me vuelvas a decir "Bebé" (¡No!)
 Yo no soy tuyo ni de nadie, yo soy sólo de mí

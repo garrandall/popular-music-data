@@ -1,8 +1,11 @@
 ---
+album: Little Caesar
 artists:
 - Little Caesar
+external_ids:
+  spotify: spotify:track:5EimBXIpSxuVaGXz6m5Tif
 features: []
-genres: []
+first_released_as_single: false
 key: chain-of-fools-little-caesar
 lyrics_url: https://genius.com/Little-caesar-chain-of-fools-lyrics
 name: Chain Of Fools
@@ -23,6 +26,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1990-07-07'
+release_year: 1990
+runtime: 328160
 ---
 Okay, let's go
 

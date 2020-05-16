@@ -1,8 +1,11 @@
 ---
+album: '5'
 artists:
 - Lenny Kravitz
+external_ids:
+  spotify: spotify:track:3X6iIrFuQoCshIWBseEKPl
 features: []
-genres: []
+first_released_as_single: false
 key: american-woman-lenny-kravitz
 lyrics_url: https://www.azlyrics.com/lyrics/lennykravitz/americanwoman.html
 name: American Woman
@@ -91,8 +94,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1999-12-04'
+release_year: 1998
+runtime: 264560
 ---
-
 Huh, American woman, stay away from me
 American woman, mama let me be
 
@@ -155,6 +159,3 @@ I'm gonna leave you woman, I gotta go
 
 (American woman)
 I gotta go, I gotta go American woman, yeah
-
-
-

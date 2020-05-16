@@ -1,8 +1,11 @@
 ---
+album: Cash Me Outside (#CashMeOutside)
 artists:
 - DJ Suede The Remix God
+external_ids:
+  spotify: spotify:track:1r6cyaW7yMykwSyxTuwcuM
 features: []
-genres: []
+first_released_as_single: true
 key: cash-me-outside---cashmeoutside--dj-suede-the-remix-god
 lyrics_url: https://genius.com/Dj-suede-the-remix-god-cash-me-outside-lyrics
 name: Cash Me Outside (#CashMeOutside)
@@ -19,6 +22,8 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '2017-03-18'
+release_year: 2017
+runtime: 129384
 ---
 Dr. Phil:
 Did, did you say the, the hoes are laughin'?

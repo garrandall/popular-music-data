@@ -1,8 +1,11 @@
 ---
+album: Hemingway's Whiskey
 artists:
 - Kenny Chesney
+external_ids:
+  spotify: spotify:track:2Y48Q7HryWdPJZypJotjlJ
 features: []
-genres: []
+first_released_as_single: false
 key: the-boys-of-fall-kenny-chesney
 lyrics_url: https://www.azlyrics.com/lyrics/kennychesney/theboysoffall.html
 name: The Boys of Fall
@@ -79,8 +82,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2010-12-11'
+release_year: 2010
+runtime: 391853
 ---
-
 When I feel that chill, smell that fresh cut grass
 I'm back in my helmet, cleats, and shoulder pads
 Standin' in the huddle listenin' to the call
@@ -128,6 +132,3 @@ The boys of fall
 
 We're the boys of fall
 We're the boys of fall
-
-
-

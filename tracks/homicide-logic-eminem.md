@@ -1,9 +1,12 @@
 ---
+album: Confessions of a Dangerous Mind
 artists:
 - Logic
+external_ids:
+  spotify: spotify:track:0Lw6aQcBFWTQ9m4MSwwwes
 features:
 - Eminem
-genres: []
+first_released_as_single: true
 key: homicide-logic-eminem
 lyrics_url: https://www.azlyrics.com/lyrics/logic/homicide.html
 name: Homicide
@@ -32,9 +35,9 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '2019-07-13'
+release_year: 2019
+runtime: 245413
 ---
-
-
 Son, you know why you the greatest alive?
 Why dad?
 Because you came out of my balls, nigga!
@@ -181,6 +184,3 @@ You using ChapStick and napkins while I'm bapkin'
 Flappin' around like a bapkin'
 Flamminababbitapannitajampkin
 Dammit my can of p-
-
-
-

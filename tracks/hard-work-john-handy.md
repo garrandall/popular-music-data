@@ -1,8 +1,11 @@
 ---
+album: Hard Work
 artists:
 - John Handy
+external_ids:
+  spotify: spotify:track:4URLJkB6D5QxvOB7H3kmGI
 features: []
-genres: []
+first_released_as_single: false
 key: hard-work-john-handy
 name: Hard Work
 rankings:
@@ -54,5 +57,7 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1976-10-02'
+release_year: 1976
+runtime: 417960
 ---
 

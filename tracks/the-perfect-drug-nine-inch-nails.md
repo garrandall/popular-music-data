@@ -1,8 +1,11 @@
 ---
+album: The "Perfect Drug" Versions
 artists:
 - Nine Inch Nails
+external_ids:
+  spotify: spotify:track:7LdFtL5P3cmcZSG2UaZbsq
 features: []
-genres: []
+first_released_as_single: true
 key: the-perfect-drug-nine-inch-nails
 lyrics_url: https://www.azlyrics.com/lyrics/nineinchnails/theperfectdrug.html
 name: The Perfect Drug
@@ -43,8 +46,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1997-07-26'
+release_year: 1997
+runtime: 444760
 ---
-
 I got my head but my head is unraveling
 Can't keep control can't keep track of where it's traveling
 I got my heart but my heart's no good
@@ -142,6 +146,3 @@ Without you
 Without you everything falls apart
 Without you
 It's not as much fun to pick up the pieces
-
-
-

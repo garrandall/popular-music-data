@@ -1,8 +1,11 @@
 ---
+album: Cookin' With The Miracles
 artists:
 - The Miracles
+external_ids:
+  spotify: spotify:track:2NKnwFa0x0JkW2pz4fN1vI
 features: []
-genres: []
+first_released_as_single: false
 key: everybody-s-gotta-pay-some-dues-the-miracles
 lyrics_url: https://genius.com/The-miracles-everybodys-gotta-pay-some-dues-lyrics
 name: Everybody's Gotta Pay Some Dues
@@ -39,6 +42,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1961-12-18'
+release_year: 1961
+runtime: 177040
 ---
 If ever I have a son in life, I'll call him in one day
 Sit him down upon my knee and here is what I'll say

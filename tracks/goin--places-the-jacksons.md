@@ -1,8 +1,11 @@
 ---
+album: Goin' Places
 artists:
 - The Jacksons
+external_ids:
+  spotify: spotify:track:2CCv0tPO1sCZjS7d1KL48A
 features: []
-genres: []
+first_released_as_single: false
 key: goin--places-the-jacksons
 lyrics_url: https://genius.com/The-jacksons-goin-places-lyrics
 name: Goin' Places
@@ -35,6 +38,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1977-11-19'
+release_year: 1977
+runtime: 270226
 ---
 I like the feelin' I get
 When I'm ridin' in a jet

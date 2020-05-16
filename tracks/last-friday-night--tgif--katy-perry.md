@@ -1,8 +1,11 @@
 ---
+album: Teenage Dream
 artists:
 - Katy Perry
+external_ids:
+  spotify: spotify:track:3avYqdwHKEq8beXbeWCKqJ
 features: []
-genres: []
+first_released_as_single: false
 key: last-friday-night--tgif--katy-perry
 lyrics_url: https://genius.com/Katy-perry-last-friday-night-tgif-lyrics
 name: Last Friday Night (TGIF)
@@ -103,6 +106,8 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '2011-11-19'
+release_year: 2010
+runtime: 230733
 ---
 There's a stranger in my bed
 There's a pounding in my head

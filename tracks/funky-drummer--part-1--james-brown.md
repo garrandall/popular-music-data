@@ -1,8 +1,11 @@
 ---
+album: In the Jungle Groove
 artists:
 - James Brown
+external_ids:
+  spotify: spotify:track:16YXfPrJmS4hdWlSIpTCID
 features: []
-genres: []
+first_released_as_single: false
 key: funky-drummer--part-1--james-brown
 lyrics_url: https://genius.com/James-brown-funky-drummer-lyrics
 name: Funky Drummer (Part 1)
@@ -27,6 +30,8 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '1970-04-18'
+release_year: 1970
+runtime: 176533
 ---
 Pull back the cover
 Shades, good God

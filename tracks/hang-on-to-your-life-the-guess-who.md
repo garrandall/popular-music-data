@@ -1,8 +1,11 @@
 ---
+album: Share The Land
 artists:
 - The Guess Who
+external_ids:
+  spotify: spotify:track:6f3IsJfLU11eHvtbQQQ6eJ
 features: []
-genres: []
+first_released_as_single: false
 key: hang-on-to-your-life-the-guess-who
 lyrics_url: https://genius.com/The-guess-who-hang-on-to-your-life-lyrics
 name: Hang On To Your Life
@@ -35,6 +38,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1971-03-13'
+release_year: 1970
+runtime: 251400
 ---
 Thinking about the people gone by
 Screaming that I don't want to die

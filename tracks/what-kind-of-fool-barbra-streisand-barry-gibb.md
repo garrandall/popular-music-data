@@ -1,9 +1,12 @@
 ---
+album: Guilty
 artists:
 - Barbra Streisand
 - Barry Gibb
+external_ids:
+  spotify: spotify:track:6qLfdfOdfrpD1B0V67eJpy
 features: []
-genres: []
+first_released_as_single: false
 key: what-kind-of-fool-barbra-streisand-barry-gibb
 lyrics_url: https://www.azlyrics.com/lyrics/barbrastreisand/whatkindoffool.html
 name: What Kind Of Fool
@@ -72,9 +75,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1981-05-16'
+release_year: 1980
+runtime: 245640
 ---
-
-
 There was a time when we were down and out
 There was a place when we were starting over
 We let the bough break
@@ -157,6 +160,3 @@ Leaving me pain and sorrow
 Losing you now
 How can I win
 Where will I be tomorrow
-
-
-

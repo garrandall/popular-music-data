@@ -1,8 +1,11 @@
 ---
+album: Honey
 artists:
 - Ohio Players
+external_ids:
+  spotify: spotify:track:1Isj0ik0ssSq8OUJc5AbDT
 features: []
-genres: []
+first_released_as_single: false
 key: fopp-ohio-players
 lyrics_url: https://www.azlyrics.com/lyrics/ohioplayers/fopp.html
 name: Fopp
@@ -51,8 +54,9 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '1976-05-01'
+release_year: 1975
+runtime: 234506
 ---
-
 Fopped last night and the night before
 I had to fopp outside and then I went indoors
 Fopped so hard I made the people warm
@@ -86,6 +90,3 @@ But when we're foppin' that don't mean a thing at all
 Foppin', the way it makes you go, everybody was
 Foppin', everywhere you go, do all your
 Shoppin', wiggle to the floor, everybody was foppin'
-
-
-

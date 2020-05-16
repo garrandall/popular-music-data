@@ -1,8 +1,11 @@
 ---
+album: Frozen in the Night
 artists:
 - Dan Hill
+external_ids:
+  spotify: spotify:track:6ok00hbQWf16uYxFv87Uez
 features: []
-genres: []
+first_released_as_single: false
 key: let-the-song-last-forever-dan-hill
 lyrics_url: https://www.azlyrics.com/lyrics/danhill/letthesonglastforever.html
 name: Let The Song Last Forever
@@ -19,8 +22,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1978-12-09'
+release_year: 1978
+runtime: 199027
 ---
-
 I could spend my whole life writing love songs
 If they'd help bring me closer to you
 Trying to find the right words
@@ -61,6 +65,3 @@ Let the song last forever, let the song last a day
 Let our love last a lifetime, let our love fade away
 No matter what happens if we go our own ways
 We'll be both walking wiser if walking away
-
-
-

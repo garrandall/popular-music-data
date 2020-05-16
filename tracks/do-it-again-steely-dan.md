@@ -1,8 +1,11 @@
 ---
+album: Can't Buy A Thrill
 artists:
 - Steely Dan
+external_ids:
+  spotify: spotify:track:2BstRQGodshjGpeDGQiNgo
 features: []
-genres: []
+first_released_as_single: false
 key: do-it-again-steely-dan
 lyrics_url: https://genius.com/Steely-dan-do-it-again-lyrics
 name: Do It Again
@@ -75,6 +78,8 @@ rankings:
   rank: 24
   ranking_list: Billboard Hot 100
   start_date: '1973-03-10'
+release_year: 1972
+runtime: 356733
 ---
 In the mornin you go gunnin'
 For the man who stole your water

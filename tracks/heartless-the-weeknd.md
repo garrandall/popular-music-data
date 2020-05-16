@@ -1,8 +1,11 @@
 ---
+album: After Hours
 artists:
 - The Weeknd
+external_ids:
+  spotify: spotify:track:6bnF93Rx87YqUBLSgjiMU8
 features: []
-genres: []
+first_released_as_single: false
 key: heartless-the-weeknd
 lyrics_url: https://www.azlyrics.com/lyrics/weeknd/heartlessrem.html
 name: Heartless
@@ -71,9 +74,9 @@ rankings:
   rank: 21
   ranking_list: Billboard Hot 100
   start_date: '2020-03-21'
+release_year: 2019
+runtime: 198266
 ---
-
-
 Heartless
 I lost my heart and my mind
 I try to always do right
@@ -115,6 +118,3 @@ I heard she got that water, I'm tryna be waist-deep
 I make her beg for it, make that girl wan' say please
 Yes, I'm heartless, I get chilly in this Chrome fleece
 I put emeralds in my Rollie, they don't even make these (Woah)
-
-
-

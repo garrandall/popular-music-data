@@ -1,8 +1,11 @@
 ---
+album: She Wolf
 artists:
 - Shakira
+external_ids:
+  spotify: spotify:track:4cS2HQ6jK80vqdY9ofpztx
 features: []
-genres: []
+first_released_as_single: false
 key: she-wolf-shakira
 lyrics_url: https://www.azlyrics.com/lyrics/shakira/shewolf.html
 name: She Wolf
@@ -87,8 +90,9 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '2009-12-12'
+release_year: 2009
+runtime: 188866
 ---
-
 S.O.S. she's in disguise
 S.O.S. she's in disguise
 There's a she wolf in disguise
@@ -135,7 +139,4 @@ There's a she wolf in disguise
 Coming out, coming out, coming out
 
 There's a she wolf in the closet,
-Let it out so it can breathe 
-
-
-
+Let it out so it can breathe

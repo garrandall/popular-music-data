@@ -1,10 +1,13 @@
 ---
+album: Championships
 artists:
 - Meek Mill
+external_ids:
+  spotify: spotify:track:0uKa2bnbTVLhFF65wKGu5W
 features:
 - Rick Ross
 - JAY-Z
-genres: []
+first_released_as_single: false
 key: what-s-free-meek-mill-rick-ross-jay-z
 lyrics_url: https://genius.com/Meek-mill-whats-free-lyrics
 name: What's Free
@@ -17,6 +20,8 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '2018-12-22'
+release_year: 2018
+runtime: 362839
 ---
 You know what free is, nigga?
 

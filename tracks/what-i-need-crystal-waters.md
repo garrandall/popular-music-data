@@ -1,8 +1,11 @@
 ---
+album: Ghetto Day / What I Need
 artists:
 - Crystal Waters
+external_ids:
+  spotify: spotify:track:0ECYPqB8vWvYzNcf7TrP0Z
 features: []
-genres: []
+first_released_as_single: true
 key: what-i-need-crystal-waters
 lyrics_url: https://genius.com/Crystal-waters-what-i-need-lyrics
 name: What I Need
@@ -23,6 +26,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1995-03-25'
+release_year: 1994
+runtime: 525342
 ---
 I said I'm tired and I must complain
 I said I'm sick and tired

@@ -1,8 +1,11 @@
 ---
+album: The Pretender
 artists:
 - Jackson Browne
+external_ids:
+  spotify: spotify:track:7Gr61S9VTm8fcYfAo4Fd9g
 features: []
-genres: []
+first_released_as_single: false
 key: the-pretender-jackson-browne
 lyrics_url: https://www.azlyrics.com/lyrics/jacksonbrowne/thepretender.html
 name: The Pretender
@@ -27,8 +30,9 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1977-06-18'
+release_year: 1977
+runtime: 351000
 ---
-
 I'm going to rent myself a house
 In the shade of the freeway
 I'm going to pack my lunch in the morning
@@ -93,6 +97,3 @@ Are you there?
 Say a prayer for the Pretender
 Who started out so young and strong
 Only to surrender
-
-
-

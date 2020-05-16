@@ -1,8 +1,11 @@
 ---
+album: (If Loving You Is Wrong) I Don't Want to Be Right
 artists:
 - Luther Ingram
+external_ids:
+  spotify: spotify:track:3JMs4Z63YNSK5RnHUhpeOe
 features: []
-genres: []
+first_released_as_single: false
 key: always-luther-ingram
 lyrics_url: https://www.musixmatch.com/lyrics/Luther-Ingram/Always
 name: Always
@@ -27,6 +30,8 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '1973-05-05'
+release_year: 1973
+runtime: 269426
 ---
 Honey, I will always
 Be in love with you

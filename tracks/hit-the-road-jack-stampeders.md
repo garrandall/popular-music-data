@@ -1,8 +1,11 @@
 ---
+album: Steamin
 artists:
 - Stampeders
+external_ids:
+  spotify: spotify:track:21EszlvwsfCmeftltV4CM5
 features: []
-genres: []
+first_released_as_single: false
 key: hit-the-road-jack-stampeders
 lyrics_url: https://genius.com/Stampeders-hit-the-road-jack-lyrics
 name: Hit The Road Jack
@@ -39,6 +42,8 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1976-04-17'
+release_year: 1975
+runtime: 172160
 ---
 Hit the Road Jack and don't cha come back
 No more no more no more no more

@@ -1,8 +1,11 @@
 ---
+album: Lost Hits Of The 80's (All Original Artists & Versions)
 artists:
 - Amy Holland
+external_ids:
+  spotify: spotify:track:18ELywiVACeSIhIa2EqJ47
 features: []
-genres: []
+first_released_as_single: false
 key: how-do-i-survive-amy-holland
 lyrics_url: https://genius.com/Amy-holland-how-do-i-survive-lyrics
 name: How Do I Survive
@@ -71,6 +74,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1980-11-22'
+release_year: 1980
+runtime: 238866
 ---
 I'm not strong enough
 Just to smile and make things easy

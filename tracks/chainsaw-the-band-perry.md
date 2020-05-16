@@ -1,8 +1,11 @@
 ---
+album: Pioneer
 artists:
 - The Band Perry
+external_ids:
+  spotify: spotify:track:6BstspHAG1DuMebrQJWPJY
 features: []
-genres: []
+first_released_as_single: false
 key: chainsaw-the-band-perry
 lyrics_url: https://www.azlyrics.com/lyrics/bandperry/chainsaw.html
 name: Chainsaw
@@ -43,8 +46,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2014-07-26'
+release_year: 2013
+runtime: 227840
 ---
-
 We scratched our names
 In that oak tree
 'Cause I loved you
@@ -99,6 +103,3 @@ Love is tragic
 It's hard to bury the hatchet
 
 Holdin' a chainsaw
-
-
-

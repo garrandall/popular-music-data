@@ -1,8 +1,11 @@
 ---
+album: Growing, Pains
 artists:
 - Billie Myers
+external_ids:
+  spotify: spotify:track:4wtHbIS26FOtpjMkaQQ8Zk
 features: []
-genres: []
+first_released_as_single: false
 key: kiss-the-rain-billie-myers
 lyrics_url: https://genius.com/Billie-myers-kiss-the-rain-lyrics
 name: Kiss The Rain
@@ -131,6 +134,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1998-06-06'
+release_year: 1997
+runtime: 270160
 ---
 Hello, can you hear me?
 Am I getting through to you?

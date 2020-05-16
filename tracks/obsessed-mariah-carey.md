@@ -1,8 +1,11 @@
 ---
+album: Memoirs of an imperfect Angel
 artists:
 - Mariah Carey
+external_ids:
+  spotify: spotify:track:3IcIIZMMS7UArJJPtEHXG8
 features: []
-genres: []
+first_released_as_single: false
 key: obsessed-mariah-carey
 lyrics_url: https://genius.com/Mariah-carey-obsessed-lyrics
 name: Obsessed
@@ -91,6 +94,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2009-12-12'
+release_year: 2009
+runtime: 242200
 ---
 I was like, "Why are you so obsessed with me?"
 So oh, oh, oh, oh...

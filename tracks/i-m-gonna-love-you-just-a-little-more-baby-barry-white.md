@@ -1,8 +1,11 @@
 ---
+album: I've Got So Much To Give
 artists:
 - Barry White
+external_ids:
+  spotify: spotify:track:1QR3Wcba5NBidmxEE8DW3w
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-gonna-love-you-just-a-little-more-baby-barry-white
 lyrics_url: https://genius.com/Barry-white-im-gonna-love-you-just-a-little-more-baby-lyrics
 name: I'm Gonna Love You Just A Little More Baby
@@ -79,6 +82,8 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1973-08-11'
+release_year: 1973
+runtime: 431506
 ---
 It feels so good
 You lying here next to me

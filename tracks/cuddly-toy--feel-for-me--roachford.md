@@ -1,8 +1,11 @@
 ---
+album: Roachford
 artists:
 - Roachford
+external_ids:
+  spotify: spotify:track:7D88UPDgOxn32w8gqBcCWv
 features: []
-genres: []
+first_released_as_single: false
 key: cuddly-toy--feel-for-me--roachford
 lyrics_url: https://www.azlyrics.com/lyrics/roachford/cuddlytoy.html
 name: Cuddly Toy (Feel For Me)
@@ -63,8 +66,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1989-07-15'
+release_year: 1988
+runtime: 228466
 ---
-
 I know you've heard so many people say
 I've got a different girl in every town
 But there must be somebody telling lies
@@ -104,6 +108,3 @@ So you've got to feel for me baby
 So you've got to feel for me baby
 So you've got to feel for me baby
 And give me some love
-
-
-

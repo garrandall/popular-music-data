@@ -1,8 +1,11 @@
 ---
+album: Elvis' Christmas Album
 artists:
 - Elvis Presley
+external_ids:
+  spotify: spotify:track:3QiAAp20rPC3dcAtKtMaqQ
 features: []
-genres: []
+first_released_as_single: false
 key: blue-christmas-elvis-presley
 lyrics_url: https://genius.com/Elvis-presley-blue-christmas-lyrics
 name: Blue Christmas
@@ -15,6 +18,8 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '2020-01-04'
+release_year: 1957
+runtime: 129173
 ---
 I'll have a Blue Christmas without you
 (Oh, oh, oh, oh)

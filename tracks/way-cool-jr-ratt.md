@@ -1,8 +1,11 @@
 ---
+album: Reach For The Sky
 artists:
 - Ratt
+external_ids:
+  spotify: spotify:track:5ezpnSlzlQaZfyZc8Wn2dV
 features: []
-genres: []
+first_released_as_single: false
 key: way-cool-jr-ratt
 lyrics_url: https://www.azlyrics.com/lyrics/ratt/waycooljr.html
 name: Way Cool Jr
@@ -35,8 +38,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1989-02-18'
+release_year: 1988
+runtime: 267040
 ---
-
 Oh
 Oh
 
@@ -94,6 +98,3 @@ He's gonna live it up or never live it down
 Way Cool Jr.
 
 Way Cool Jr.
-
-
-

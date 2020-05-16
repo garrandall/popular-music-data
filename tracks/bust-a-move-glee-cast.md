@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music, Volume 1'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:6kYcZUgNZGf9q6V3qfhoDX
 features: []
-genres: []
+first_released_as_single: false
 key: bust-a-move-glee-cast
 lyrics_url: https://www.azlyrics.com/lyrics/gleecast/bustamove.html
 name: Bust A Move
@@ -11,8 +14,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2009-11-07'
+release_year: 2009
+runtime: 264333
 ---
-
 Bust it
 
 This here's a tale for all the fellas
@@ -124,6 +128,3 @@ If you want it, baby, you got it
 Move it, boy
 Uh, uh, uh, hey, uh, uh, ya, uh
 Huh, hey, huh, hey, uh, uh, hey, ya, ya
-
-
-

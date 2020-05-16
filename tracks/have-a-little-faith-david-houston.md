@@ -1,8 +1,11 @@
 ---
+album: Already It's Heaven
 artists:
 - David Houston
+external_ids:
+  spotify: spotify:track:4natAPzoIza3HbVSi4uSGs
 features: []
-genres: []
+first_released_as_single: false
 key: have-a-little-faith-david-houston
 lyrics_url: https://genius.com/David-houston-have-a-little-faith-lyrics
 name: Have A Little Faith
@@ -15,6 +18,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1968-03-16'
+release_year: 1968
+runtime: 135346
 ---
 Your best friend your best girl just made a big messy world
 Cause arm in arm they left you feelin' blue

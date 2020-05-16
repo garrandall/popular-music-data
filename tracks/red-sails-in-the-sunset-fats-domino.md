@@ -1,8 +1,11 @@
 ---
+album: King of New Orleans
 artists:
 - Fats Domino
+external_ids:
+  spotify: spotify:track:2DIFF5tKUriTnkApDsMeTK
 features: []
-genres: []
+first_released_as_single: false
 key: red-sails-in-the-sunset-fats-domino
 lyrics_url: https://genius.com/Fats-domino-red-sails-in-the-sunset-lyrics
 name: Red Sails In The Sunset
@@ -39,6 +42,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1963-11-09'
+release_year: 1963
+runtime: 112960
 ---
 Red sails in the sunset, way out on the sea
 Oh, carry my loved one, home safely to me

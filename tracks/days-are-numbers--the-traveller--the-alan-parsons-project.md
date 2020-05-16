@@ -1,8 +1,11 @@
 ---
+album: Vulture Culture
 artists:
 - The Alan Parsons Project
+external_ids:
+  spotify: spotify:track:21PwsCK5MUXGS1CHd1kULp
 features: []
-genres: []
+first_released_as_single: false
 key: days-are-numbers--the-traveller--the-alan-parsons-project
 lyrics_url: https://www.azlyrics.com/lyrics/alanparsonsproject/daysarenumbersthetraveller.html
 name: Days Are Numbers (The Traveller)
@@ -27,8 +30,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1985-05-25'
+release_year: 1977
+runtime: 266840
 ---
-
 The traveller is always leaving town
 He never has the time to turn around
 And if the road he's taken isn't leading anywhere
@@ -70,6 +74,3 @@ Days are numbers
 Count the stars
 We can only go so far
 One day, you'll know where you are
-
-
-

@@ -1,10 +1,13 @@
 ---
+album: Headz Or Tailz
 artists:
 - Do Or Die
+external_ids:
+  spotify: spotify:track:4MP7Ql7f0sbqzrnOFkkWwR
 features:
 - Johnny P
 - Twista
-genres: []
+first_released_as_single: false
 key: still-po--pimpin--do-or-die-johnny-p-twista
 lyrics_url: https://www.azlyrics.com/lyrics/doordie/stillpopimpin.html
 name: Still Po' Pimpin'
@@ -65,9 +68,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1998-06-27'
+release_year: 1998
+runtime: 240000
 ---
-
-
 Do you wanna ride with me (yeah, oh
 Do you wanna smoke my B (oh
 Never can't you take my G's
@@ -164,8 +167,5 @@ Do you wanna ride, slip-slide in your thighs
 Oh-oh, oh, ohoh
 
 Wooooh-ooahahhhohhhh!
-Do you wanna riiiiiiiiide with JP
+Do you wanna ride with JP
 Do or Die, whoahhhh-oahhhh..
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Raise Your Expectations
 artists:
 - Animotion
+external_ids:
+  spotify: spotify:track:59p7eFF87B2vy8lcJV9HRF
 features: []
-genres: []
+first_released_as_single: false
 key: let-him-go-animotion
 lyrics_url: https://genius.com/Animotion-let-him-go-lyrics
 name: Let Him Go
@@ -59,6 +62,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1985-08-24'
+release_year: 1985
+runtime: 267933
 ---
 You're holding him so tight
 That he can't move

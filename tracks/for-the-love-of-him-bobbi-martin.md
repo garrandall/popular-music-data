@@ -1,8 +1,11 @@
 ---
+album: 'The Girl Can Sing: 70''s'
 artists:
 - Bobbi Martin
+external_ids:
+  spotify: spotify:track:0bPvzekP28TMYBEsG73lmy
 features: []
-genres: []
+first_released_as_single: false
 key: for-the-love-of-him-bobbi-martin
 lyrics_url: https://genius.com/Bobbi-martin-for-the-love-of-him-lyrics
 name: For The Love Of Him
@@ -63,6 +66,8 @@ rankings:
   rank: 29
   ranking_list: Billboard Hot 100
   start_date: '1970-06-13'
+release_year: 1970
+runtime: 152000
 ---
 When he opens the door says "I'm home"
 Be aware of the look in his eyes

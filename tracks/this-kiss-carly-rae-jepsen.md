@@ -1,8 +1,11 @@
 ---
+album: Kiss
 artists:
 - Carly Rae Jepsen
+external_ids:
+  spotify: spotify:track:7cWLl1E5iMvqIVhpmtUp6k
 features: []
-genres: []
+first_released_as_single: false
 key: this-kiss-carly-rae-jepsen
 lyrics_url: https://genius.com/Carly-rae-jepsen-this-kiss-lyrics
 name: This Kiss
@@ -11,6 +14,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2012-09-29'
+release_year: 2012
+runtime: 228866
 ---
 I went out last night
 I'm going out tonight again

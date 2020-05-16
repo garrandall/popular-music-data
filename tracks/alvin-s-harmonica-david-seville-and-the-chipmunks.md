@@ -1,8 +1,12 @@
 ---
+album: Let's All Sing With The Chipmunks
 artists:
-- David Seville And The Chipmunks
-features: []
-genres: []
+- Alvin And The Chipmunks
+external_ids:
+  spotify: spotify:track:4aqEPeDRi8EXbOxFwIoaJ8
+features:
+- David Seville
+first_released_as_single: false
 key: alvin-s-harmonica-david-seville-and-the-chipmunks
 lyrics_url: https://www.musixmatch.com/lyrics/David-Seville-And-The-Chipmunks/Alvin-s-Harmonica
 name: Alvin's Harmonica
@@ -67,6 +71,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1962-12-22'
+release_year: 1959
+runtime: 162973
 ---
 Alvin, put that harmonica down
 

@@ -1,8 +1,11 @@
 ---
+album: Raised On Radio
 artists:
 - Journey
+external_ids:
+  spotify: spotify:track:1W3Z3p2O6hPJZPJf79odVD
 features: []
-genres: []
+first_released_as_single: false
 key: girl-can-t-help-it-journey
 lyrics_url: https://genius.com/Journey-girl-cant-help-it-lyrics
 name: Girl Can't Help It
@@ -63,6 +66,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1986-11-29'
+release_year: 1975
+runtime: 256106
 ---
 If he could hold her, so close in his arms...again
 If she could show him

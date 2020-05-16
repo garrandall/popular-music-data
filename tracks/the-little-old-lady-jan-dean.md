@@ -1,9 +1,12 @@
 ---
+album: The Little Old Lady From Pasadena
 artists:
 - Jan
 - Dean
+external_ids:
+  spotify: spotify:track:4F2w3xgfaVJdCSAqDtJULv
 features: []
-genres: []
+first_released_as_single: false
 key: the-little-old-lady-jan-dean
 lyrics_url: https://genius.com/The-beach-boys-the-little-old-lady-from-pasadena-jan-and-dean-lyrics
 name: The Little Old Lady
@@ -52,6 +55,8 @@ rankings:
   rank: 38
   ranking_list: Billboard Hot 100
   start_date: '1964-09-05'
+release_year: 1964
+runtime: 166040
 ---
 It's the little old lady from Pasadena
 

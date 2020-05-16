@@ -1,8 +1,11 @@
 ---
+album: Memphis Underground
 artists:
 - Herbie Mann
+external_ids:
+  spotify: spotify:track:0lJ3iwfMWh8xDXWuGhbMv7
 features: []
-genres: []
+first_released_as_single: false
 key: memphis-underground-herbie-mann
 name: Memphis Underground
 rankings:
@@ -46,5 +49,7 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1969-07-26'
+release_year: 1969
+runtime: 429000
 ---
 

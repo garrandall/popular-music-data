@@ -1,8 +1,11 @@
 ---
+album: Ruff 'N Ready
 artists:
 - Jimmy Ruffin
+external_ids:
+  spotify: spotify:track:00U45bMLJ8QM1kwT9i6cIL
 features: []
-genres: []
+first_released_as_single: false
 key: i-ll-say-forever-my-love-jimmy-ruffin
 lyrics_url: https://genius.com/Jimmy-ruffin-ill-say-forever-my-love-lyrics
 name: I'll Say Forever My Love
@@ -27,6 +30,8 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1968-04-06'
+release_year: 1968
+runtime: 181040
 ---
 Forever
 Forever

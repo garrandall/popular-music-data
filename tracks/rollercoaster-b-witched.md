@@ -1,8 +1,11 @@
 ---
+album: 'C''est la Vie: The Collection'
 artists:
 - B*Witched
+external_ids:
+  spotify: spotify:track:4XQgdczvOapXHBiMc5ovlo
 features: []
-genres: []
+first_released_as_single: false
 key: rollercoaster-b-witched
 lyrics_url: https://www.azlyrics.com/lyrics/bwitched/rollercoaster.html
 name: Rollercoaster
@@ -39,8 +42,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1999-08-21'
+release_year: 1998
+runtime: 204920
 ---
-
 Today's the day, we're out to play 
 And lost our way, it's always the same - oh baby now 
 Climbed the trees, swan the seven seas 
@@ -71,6 +75,3 @@ Go round and round
 But don't look down 
 We won't be found 
 You'd better believe it
-
-
-

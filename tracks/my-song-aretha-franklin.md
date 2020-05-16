@@ -1,8 +1,11 @@
 ---
+album: Chain of Fools
 artists:
 - Aretha Franklin
+external_ids:
+  spotify: spotify:track:3ugkNsO3PtWC8g8pdj1uYe
 features: []
-genres: []
+first_released_as_single: false
 key: my-song-aretha-franklin
 lyrics_url: https://genius.com/Aretha-franklin-my-song-lyrics
 name: My Song
@@ -35,6 +38,8 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1969-01-11'
+release_year: 1968
+runtime: 211066
 ---
 You told me that you would leave me here in tears
 Now you're gone and hours seem like years

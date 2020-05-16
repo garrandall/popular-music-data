@@ -1,8 +1,11 @@
 ---
+album: The Pains Of Growing
 artists:
 - Alessia Cara
+external_ids:
+  spotify: spotify:track:003eoIwxETJujVWmNFMoZy
 features: []
-genres: []
+first_released_as_single: true
 key: growing-pains-alessia-cara
 lyrics_url: https://www.azlyrics.com/lyrics/alessiacara/growingpains.html
 name: Growing Pains
@@ -39,8 +42,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2018-09-01'
+release_year: 2018
+runtime: 193680
 ---
-
 Make my way through the motions
 I try to ignore it
 But home's looking farther
@@ -112,6 +116,3 @@ No band-aids for the growing pains
 
 Eh eh, hey yeah, yeah, yeah...
 No band-aids for the growing pains
-
-
-

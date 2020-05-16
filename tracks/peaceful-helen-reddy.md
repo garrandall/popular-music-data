@@ -1,8 +1,11 @@
 ---
+album: I Am Woman
 artists:
 - Helen Reddy
+external_ids:
+  spotify: spotify:track:1YNCi9tPJffDJHNc6at129
 features: []
-genres: []
+first_released_as_single: false
 key: peaceful-helen-reddy
 lyrics_url: https://www.azlyrics.com/lyrics/helenreddy/peaceful.html
 name: Peaceful
@@ -75,8 +78,9 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1973-05-26'
+release_year: 1972
+runtime: 173986
 ---
-
 In the morning fun when no one will be drinking any more wine
 I'll wake the sun up by givin' him a fresh air full of the wind cup
 And I won't be found in the shadows hiding sorrow
@@ -96,6 +100,3 @@ And maybe some day he'll up and say "We had a pretty nice time", oh, oh, oh, my
 There's no one bending over my shoulder
 Nobody breathing in my ear
 Oh, so peaceful here
-
-
-

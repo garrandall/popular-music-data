@@ -1,8 +1,11 @@
 ---
+album: 16 Most Requested Songs
 artists:
 - Teresa Brewer
+external_ids:
+  spotify: spotify:track:2C69yvwxsoQEti1GFx9MHj
 features: []
-genres: []
+first_released_as_single: false
 key: peace-of-mind-teresa-brewer
 lyrics_url: https://www.musixmatch.com/lyrics/Teresa-Brewer/Peace-of-Mind
 name: Peace Of Mind
@@ -23,6 +26,8 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '1960-02-22'
+release_year: 1960
+runtime: 225826
 ---
 It comes from
 Within your heart and soul

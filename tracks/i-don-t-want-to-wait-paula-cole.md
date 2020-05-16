@@ -1,8 +1,11 @@
 ---
+album: This Fire
 artists:
 - Paula Cole
+external_ids:
+  spotify: spotify:track:5MDQNJ7SZTytJwCbWKqJDL
 features: []
-genres: []
+first_released_as_single: false
 key: i-don-t-want-to-wait-paula-cole
 lyrics_url: https://genius.com/Paula-cole-i-dont-want-to-wait-lyrics
 name: I Don't Want To Wait
@@ -231,6 +234,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1998-11-21'
+release_year: 1996
+runtime: 320026
 ---
 So open up your morning light
 And say a little prayer for I

@@ -1,8 +1,11 @@
 ---
+album: The Chi-Lites (Live)
 artists:
 - The Chi-lites
+external_ids:
+  spotify: spotify:track:2szswQ73qCz0YhqbSPJmyU
 features: []
-genres: []
+first_released_as_single: false
 key: we-are-neighbors-the-chi-lites
 lyrics_url: https://www.azlyrics.com/lyrics/chilites/weareneighbors.html
 name: We Are Neighbors
@@ -27,8 +30,9 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1971-08-21'
+release_year: 1971
+runtime: 219813
 ---
-
 We are neighbors
 (Yeah, yeah, yeah)
 We are neighbors
@@ -107,6 +111,3 @@ We are neighbors
 (Bom-bom-bom-bom, I told you so)
 (Bom-bom-bom-bom, didn't you know?)
 ...
-
-
-

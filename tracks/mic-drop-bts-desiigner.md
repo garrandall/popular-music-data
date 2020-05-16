@@ -1,9 +1,12 @@
 ---
+album: MIC Drop
 artists:
 - BTS
+external_ids:
+  spotify: spotify:track:7Ed6BkggCS2KaKY5YlINaF
 features:
 - Desiigner
-genres: []
+first_released_as_single: true
 key: mic-drop-bts-desiigner
 lyrics_url: https://genius.com/Bts-mic-drop-steve-aoki-remix-desiigner-remix-lyrics
 name: MIC Drop
@@ -48,6 +51,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2018-02-10'
+release_year: 2017
+runtime: 238726
 ---
 Git, git, brrra, git, git
 (Damn, son, where'd you get that from?)

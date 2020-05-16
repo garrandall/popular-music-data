@@ -1,8 +1,11 @@
 ---
+album: Cowboys to Girls
 artists:
 - The Intruders
+external_ids:
+  spotify: spotify:track:74SAqhBQvwCumJCiEV1dPT
 features: []
-genres: []
+first_released_as_single: false
 key: -love-is-like-a--baseball-game-the-intruders
 lyrics_url: https://www.azlyrics.com/lyrics/intruders/loveislikeabaseballgame.html
 name: (Love Is Like A) Baseball Game
@@ -43,8 +46,9 @@ rankings:
   rank: 38
   ranking_list: Billboard Hot 100
   start_date: '1968-08-31'
+release_year: 1964
+runtime: 164773
 ---
-
 Love is just like a baseball game
 Three strikes you're out
 
@@ -104,6 +108,3 @@ Got to say it again
 Love is just like a baseball game
 Three strikes you're out
 Three strikes you're out whether you win or lose
-
-
-

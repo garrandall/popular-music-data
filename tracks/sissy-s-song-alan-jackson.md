@@ -1,8 +1,11 @@
 ---
+album: Good Time
 artists:
 - Alan Jackson
+external_ids:
+  spotify: spotify:track:68qJGt0E1gB4MaQOZcGGK5
 features: []
-genres: []
+first_released_as_single: false
 key: sissy-s-song-alan-jackson
 lyrics_url: https://genius.com/Alan-jackson-sissys-song-lyrics
 name: Sissy's Song
@@ -59,6 +62,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2009-07-18'
+release_year: 2008
+runtime: 182973
 ---
 Why did she have to go
 So young I just don't know why

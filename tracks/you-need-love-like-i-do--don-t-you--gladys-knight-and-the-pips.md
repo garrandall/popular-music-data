@@ -1,8 +1,11 @@
 ---
+album: 'The Complete Motown Singles Vol. 10: 1970'
 artists:
 - Gladys Knight And The Pips
+external_ids:
+  spotify: spotify:track:4Dxm37KSWN6xXTn98ddrGp
 features: []
-genres: []
+first_released_as_single: false
 key: you-need-love-like-i-do--don-t-you--gladys-knight-and-the-pips
 lyrics_url: https://genius.com/Gladys-knight-and-the-pips-you-need-love-like-i-do-dont-you-lyrics
 name: You Need Love Like I Do (Don't You)
@@ -39,6 +42,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1970-05-09'
+release_year: 1970
+runtime: 219400
 ---
 Well, well, well, well
 Seems like it was only yesterday

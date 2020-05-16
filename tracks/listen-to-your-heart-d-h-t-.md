@@ -1,8 +1,11 @@
 ---
+album: Listen to Your Heart
 artists:
 - D.H.T.
+external_ids:
+  spotify: spotify:track:0ceI4w0e2Syq1sNxCe6lLm
 features: []
-genres: []
+first_released_as_single: true
 key: listen-to-your-heart-d-h-t-
 lyrics_url: https://genius.com/Dht-listen-to-your-heart-extended-hardstyle-mix-lyrics
 name: Listen To Your Heart
@@ -115,6 +118,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2005-12-03'
+release_year: 2004
+runtime: 212173
 ---
 I know there's something in the wake of your smile
 I get a notion from the look in your eyes, yeah

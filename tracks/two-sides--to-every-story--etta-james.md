@@ -1,8 +1,11 @@
 ---
+album: 'Heart & Soul: A Retrospective'
 artists:
 - Etta James
+external_ids:
+  spotify: spotify:track:6QK6cw0eWQq0KqESFHuhOB
 features: []
-genres: []
+first_released_as_single: false
 key: two-sides--to-every-story--etta-james
 lyrics_url: https://www.azlyrics.com/lyrics/ettajames/twosidestoeverystory.html
 name: Two Sides (To Every Story)
@@ -23,8 +26,9 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '1963-10-26'
+release_year: 1963
+runtime: 183866
 ---
-
 There's always two sides to every story
 Ah, he told me
 I treated him good
@@ -76,6 +80,3 @@ There's always my side
 There's always your side
 There's always his side
 And always my side
-
-
-

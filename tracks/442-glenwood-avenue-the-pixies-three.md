@@ -1,8 +1,11 @@
 ---
+album: The Pixies Three Meet The Secrets
 artists:
 - The Pixies Three
+external_ids:
+  spotify: spotify:track:6U760jf1bo0toem4F9WF2S
 features: []
-genres: []
+first_released_as_single: false
 key: 442-glenwood-avenue-the-pixies-three
 lyrics_url: https://genius.com/The-pixies-three-442-glenwood-avenue-lyrics
 name: 442 Glenwood Avenue
@@ -35,6 +38,8 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '1964-02-29'
+release_year: 1964
+runtime: 134640
 ---
 After school is over, we can have some fun
 Bring the boys, and baby, I want you to come

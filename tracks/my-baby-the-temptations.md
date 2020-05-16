@@ -1,8 +1,11 @@
 ---
+album: Temptin' Temptations
 artists:
 - The Temptations
+external_ids:
+  spotify: spotify:track:5hMiw5HRmIKgtI6lTC9JSA
 features: []
-genres: []
+first_released_as_single: false
 key: my-baby-the-temptations
 lyrics_url: https://genius.com/The-temptations-since-i-lost-my-baby-lyrics
 name: My Baby
@@ -39,6 +42,8 @@ rankings:
   rank: 35
   ranking_list: Billboard Hot 100
   start_date: '1965-12-11'
+release_year: 1965
+runtime: 185960
 ---
 The sun is shining
 There's plenty of light

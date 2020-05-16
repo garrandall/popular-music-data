@@ -1,9 +1,12 @@
 ---
+album: Comin' to Your City
 artists:
 - Big
 - Rich
+external_ids:
+  spotify: spotify:track:56EYmR9IrFKKYdygcKXrvH
 features: []
-genres: []
+first_released_as_single: false
 key: comin--to-your-city-big-rich
 lyrics_url: https://genius.com/Big-and-rich-comin-to-your-city-lyrics
 name: Comin' To Your City
@@ -32,6 +35,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2006-01-14'
+release_year: 2005
+runtime: 207133
 ---
 Well we're comin to your city
 Gonna play our guitars and sing you a country song

@@ -1,9 +1,12 @@
 ---
+album: Bona Fide
 artists:
 - Willie Max
+external_ids:
+  spotify: spotify:track:4jVPSMp2lwJBZ7vFsfERX8
 features:
 - Raphael Saadiq
-genres: []
+first_released_as_single: false
 key: can-t-get-enough-willie-max-raphael-saadiq
 lyrics_url: https://genius.com/Willie-max-cant-get-enough-lyrics
 name: Can't Get Enough
@@ -48,6 +51,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1999-01-09'
+release_year: 1998
+runtime: 279466
 ---
 Hey sexy
 There's something that I want from you

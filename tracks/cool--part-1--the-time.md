@@ -1,8 +1,11 @@
 ---
+album: The Time
 artists:
 - The Time
+external_ids:
+  spotify: spotify:track:27zykIUXE2L4yaHGSoFucF
 features: []
-genres: []
+first_released_as_single: false
 key: cool--part-1--the-time
 lyrics_url: https://genius.com/The-time-cool-lyrics
 name: Cool (Part 1)
@@ -35,6 +38,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1982-03-13'
+release_year: 1981
+runtime: 606266
 ---
 I got a penthouse in Manhattan
 Two more in Malibu

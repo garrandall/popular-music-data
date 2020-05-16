@@ -1,8 +1,11 @@
 ---
+album: Reunion Jam Vol II
 artists:
 - The Yardbirds
+external_ids:
+  spotify: spotify:track:2Bi0JWdxDMaKPanNofJSdL
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-a-man-the-yardbirds
 lyrics_url: https://genius.com/The-yardbirds-im-a-man-lyrics
 name: I'm A Man
@@ -47,6 +50,8 @@ rankings:
   rank: 35
   ranking_list: Billboard Hot 100
   start_date: '1966-01-01'
+release_year: 1965
+runtime: 159866
 ---
 Now when I was a little boy
 At the age of five

@@ -1,8 +1,11 @@
 ---
+album: Catch Bull At Four
 artists:
 - Cat Stevens
+external_ids:
+  spotify: spotify:track:1yoXEeNOGWfI4AJoYLEPpb
 features: []
-genres: []
+first_released_as_single: false
 key: sitting-cat-stevens
 lyrics_url: https://genius.com/Cat-stevens-sitting-lyrics
 name: Sitting
@@ -51,6 +54,8 @@ rankings:
   rank: 38
   ranking_list: Billboard Hot 100
   start_date: '1973-01-27'
+release_year: 1972
+runtime: 194933
 ---
 Oh I'm on my way, I know I am
 Somewhere not so far from here

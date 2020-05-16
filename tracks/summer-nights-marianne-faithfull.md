@@ -1,8 +1,11 @@
 ---
+album: Live At The BBC
 artists:
 - Marianne Faithfull
+external_ids:
+  spotify: spotify:track:4g6BbL6wLsTD1iQZXGc5fX
 features: []
-genres: []
+first_released_as_single: false
 key: summer-nights-marianne-faithfull
 lyrics_url: https://www.azlyrics.com/lyrics/mariannefaithfull/summernights.html
 name: Summer Nights
@@ -43,8 +46,9 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '1965-10-09'
+release_year: 1965
+runtime: 106160
 ---
-
 Winter's almost gone
 Oh how I've waited so long
 For summer nights
@@ -54,7 +58,7 @@ All that matters to me
 Is that you are here
 On summer nights
 
-There's a little cafÃ©
+There's a little café
 Where we can hear music play
 They keep the lights turned down low
 It's a place where lovers go
@@ -68,7 +72,7 @@ And together hand in hand
 We will walk along the sand
 On summer nights
 
-In our little cafÃ©
+In our little café
 We'll dance the night away
 And we know our love will be
 Always true eternally
@@ -79,6 +83,3 @@ On summer nights
 
 On summer nights
 On summer nights
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Signs Of Life
 artists:
 - Billy Squier
+external_ids:
+  spotify: spotify:track:5eqTvP4fooKYTc9LdmrpdT
 features: []
-genres: []
+first_released_as_single: false
 key: all-night-long-billy-squier
 lyrics_url: https://www.azlyrics.com/lyrics/billysquier/allnightlong.html
 name: All Night Long
@@ -19,8 +22,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1984-11-10'
+release_year: 1984
+runtime: 288893
 ---
-
 I get up--I run through the world like a fire
 Heat it up--I swim in the flames of desire
 Chase it if you care--take it if you dare--it's there in the air...
@@ -38,6 +42,3 @@ Fight for your life--turn it all around
 The art of survival isn't gettin' me down
 
 And I'll be chasin' it all night long (don'tcha wanna live)
-
-
-

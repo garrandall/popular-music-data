@@ -1,8 +1,11 @@
 ---
+album: Iii (Temples Of Boom)
 artists:
 - Cypress Hill
+external_ids:
+  spotify: spotify:track:7EfQikdqGd7HwI6tUXfHom
 features: []
-genres: []
+first_released_as_single: true
 key: throw-your-set-in-the-air-cypress-hill
 lyrics_url: https://www.azlyrics.com/lyrics/cypresshill/throwyoursetintheair.html
 name: Throw Your Set In The Air
@@ -79,8 +82,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1996-02-10'
+release_year: 1995
+runtime: 205666
 ---
-
 Every nigga out there wanna be down with the crew
 Some ain't got enough heart, let me ask you this
 Would ya be down like a soldier
@@ -145,6 +149,3 @@ Throw your set in the air
 Wave it around like you just don't care
 Throw your set in the air
 Wave it around like you just don't care
-
-
-

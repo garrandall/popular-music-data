@@ -1,9 +1,12 @@
 ---
+album: Duets
 artists:
 - Elton John
 - RuPaul
+external_ids:
+  spotify: spotify:track:5knatk8Xid2nNvr4D6Tdjg
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-go-breaking-my-heart-elton-john-rupaul
 lyrics_url: https://genius.com/Elton-john-dont-go-breaking-my-heart-ft-rupaul-lyrics
 name: Don't Go Breaking My Heart
@@ -16,6 +19,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1994-04-02'
+release_year: 1993
+runtime: 299600
 ---
 Don't go breaking my heart
 I couldn't if I tried

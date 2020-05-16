@@ -1,8 +1,11 @@
 ---
+album: This Diamond Ring
 artists:
 - Gary Lewis And The Playboys
+external_ids:
+  spotify: spotify:track:44zDLad2CZrhWg2lg9nfuy
 features: []
-genres: []
+first_released_as_single: false
 key: this-diamond-ring-gary-lewis-and-the-playboys
 lyrics_url: https://genius.com/Gary-lewis-and-the-playboys-this-diamond-ring-lyrics
 name: This Diamond Ring
@@ -55,6 +58,8 @@ rankings:
   rank: 23
   ranking_list: Billboard Hot 100
   start_date: '1965-04-03'
+release_year: 1965
+runtime: 132400
 ---
 Who wants to buy
 This diamond ring?

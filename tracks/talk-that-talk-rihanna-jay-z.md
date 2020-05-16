@@ -1,9 +1,12 @@
 ---
+album: Talk That Talk
 artists:
 - Rihanna
+external_ids:
+  spotify: spotify:track:7fHXacE8GZEvBTCWxwQUyL
 features:
 - Jay-Z
-genres: []
+first_released_as_single: false
 key: talk-that-talk-rihanna-jay-z
 lyrics_url: https://genius.com/Rihanna-talk-that-talk-lyrics
 name: Talk That Talk
@@ -88,6 +91,8 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '2012-05-26'
+release_year: 2011
+runtime: 209600
 ---
 Talk that talk to me, yeah
 Talk that talk to me, yeah

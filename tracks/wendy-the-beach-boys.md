@@ -1,8 +1,11 @@
 ---
+album: All Summer Long
 artists:
 - The Beach Boys
+external_ids:
+  spotify: spotify:track:1HHd5NePty1c0acLZdJLz0
 features: []
-genres: []
+first_released_as_single: false
 key: wendy-the-beach-boys
 lyrics_url: https://www.azlyrics.com/lyrics/beachboys/wendy.html
 name: Wendy
@@ -31,8 +34,9 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '1964-11-21'
+release_year: 1964
+runtime: 141813
 ---
-
 Wendy, Wendy what went wrong
 Oh so wrong
 We went together for so long
@@ -68,6 +72,3 @@ Hurts so bad
 Wendy, Wendy left me alone
 Hurts so bad
 Wendy, Wendy...
-
-
-

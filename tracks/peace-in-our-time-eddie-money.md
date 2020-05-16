@@ -1,8 +1,11 @@
 ---
+album: The Best Of Eddie Money
 artists:
 - Eddie Money
+external_ids:
+  spotify: spotify:track:4DINaOcmczOIrUwKsNqmew
 features: []
-genres: []
+first_released_as_single: false
 key: peace-in-our-time-eddie-money
 lyrics_url: https://www.azlyrics.com/lyrics/eddiemoney/peaceinourtime.html
 name: Peace In Our Time
@@ -67,8 +70,9 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1990-03-10'
+release_year: 1977
+runtime: 301840
 ---
-
 Oh, darling, how strong is
 Love supposed to be
 Surrounded by fire and magic
@@ -175,6 +179,3 @@ With the wheels of fortune
 Turning water, water into wine
 Making love the bottom line
 Finding peace, peace in our time
-
-
-

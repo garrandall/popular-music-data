@@ -1,8 +1,11 @@
 ---
+album: The Happenings
 artists:
 - The Happenings
+external_ids:
+  spotify: spotify:track:4IY7Fc1GuYtqXqIT46vrzK
 features: []
-genres: []
+first_released_as_single: false
 key: go-away-little-girl-the-happenings
 lyrics_url: https://genius.com/The-happenings-go-away-little-girl-lyrics
 name: Go Away Little Girl
@@ -43,6 +46,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1966-11-26'
+release_year: 1966
+runtime: 137706
 ---
 Won't you go away (little girl)
 Wish you wouldn't stay (little girl)

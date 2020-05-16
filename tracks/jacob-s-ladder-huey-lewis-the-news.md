@@ -1,8 +1,11 @@
 ---
+album: Fore!
 artists:
 - Huey Lewis & The News
+external_ids:
+  spotify: spotify:track:0huRoriGPIi0vSHFV2f3C9
 features: []
-genres: []
+first_released_as_single: false
 key: jacob-s-ladder-huey-lewis-the-news
 lyrics_url: https://www.azlyrics.com/lyrics/hueylewisthenews/jacobsladder.html
 name: Jacob's Ladder
@@ -67,8 +70,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1987-04-25'
+release_year: 1986
+runtime: 213760
 ---
-
 I met a fan dancer
 Down in Southside Birmingham
 She was running from a fat man
@@ -114,6 +118,3 @@ Step by step, rung by rung
 Step by step
 And step by step
 Step by step
-
-
-

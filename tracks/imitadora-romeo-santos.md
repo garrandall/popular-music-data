@@ -1,8 +1,11 @@
 ---
+album: Golden
 artists:
 - Romeo Santos
+external_ids:
+  spotify: spotify:track:6r46lnXFbE9fr2d3KNaGbe
 features: []
-genres: []
+first_released_as_single: false
 key: imitadora-romeo-santos
 lyrics_url: https://genius.com/Romeo-santos-imitadora-lyrics
 name: Imitadora
@@ -11,6 +14,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2017-08-12'
+release_year: 2017
+runtime: 234828
 ---
 Hey
 Who are you?

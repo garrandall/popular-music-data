@@ -1,8 +1,11 @@
 ---
+album: The Singles
 artists:
 - Johnny Mathis
+external_ids:
+  spotify: spotify:track:0NOD4RrF3qjgNPCzozePct
 features: []
-genres: []
+first_released_as_single: false
 key: the-best-of-everything-johnny-mathis
 lyrics_url: https://www.azlyrics.com/lyrics/johnnymathis/thebestofeverything.html
 name: The Best Of Everything
@@ -27,8 +30,9 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1959-12-14'
+release_year: 1959
+runtime: 165746
 ---
-
 We've proven romance is still
 The best of everything
 That sudden thrill
@@ -53,6 +57,3 @@ It's still the best
 The best of everything
 We've proven romance is still
 The best of everything
-
-
-

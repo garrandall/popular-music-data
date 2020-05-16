@@ -1,8 +1,11 @@
 ---
+album: Going Solo with Steve Lawrence
 artists:
 - Steve Lawrence
+external_ids:
+  spotify: spotify:track:6csU5EvfcRi2NNoOwNVg8A
 features: []
-genres: []
+first_released_as_single: false
 key: portrait-of-my-love-steve-lawrence
 lyrics_url: https://genius.com/Steve-lawrence-portrait-of-my-love-lyrics
 name: Portrait Of My Love
@@ -71,6 +74,8 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '1961-06-19'
+release_year: 1961
+runtime: 170691
 ---
 There could never be a portrait of my love
 For nobody can paint a dream

@@ -1,8 +1,11 @@
 ---
+album: Feel This
 artists:
 - The Jeff Healey Band
+external_ids:
+  spotify: spotify:track:62lWQnbI9649rxYeP6n4L7
 features: []
-genres: []
+first_released_as_single: false
 key: lost-in-your-eyes-the-jeff-healey-band
 lyrics_url: https://www.azlyrics.com/lyrics/jeffhealeyband/lostinyoureyes.html
 name: Lost In Your Eyes
@@ -19,8 +22,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1993-05-22'
+release_year: 1992
+runtime: 308293
 ---
-
 Light from a window
 Cold dark and black
 Sound from a dream
@@ -95,4 +99,3 @@ Lost in your eyes
 Lost in your eyes
 Lost in your eyes
 Lost in your eyes
-

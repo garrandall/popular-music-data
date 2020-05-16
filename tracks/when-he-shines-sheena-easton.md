@@ -1,8 +1,11 @@
 ---
+album: Take My Time
 artists:
 - Sheena Easton
+external_ids:
+  spotify: spotify:track:53Oaj0BvQRBzkPf8OZXhJG
 features: []
-genres: []
+first_released_as_single: false
 key: when-he-shines-sheena-easton
 lyrics_url: https://www.azlyrics.com/lyrics/sheenaeaston/whenheshines.html
 name: When He Shines
@@ -67,8 +70,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1982-07-10'
+release_year: 1981
+runtime: 236346
 ---
-
 This man's a child, this man is old
 Sometimes he's mild, sometimes he's bold
 This man I love, sometimes in spite
@@ -92,6 +96,3 @@ Yes when he shines, when he shines, oh when he shines, he shines so bright
 
 But when he shines, oh when he shines
 Yes when he shines, he shines so bright
-
-
-

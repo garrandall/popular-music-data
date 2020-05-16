@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music, 2009'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:5XFuLM95OKDDVScEtaaHSn
 features: []
-genres: []
+first_released_as_single: true
 key: i-kissed-a-girl-glee-cast
 lyrics_url: https://www.azlyrics.com/lyrics/gleecast/ikissedagirl.html
 name: I Kissed A Girl
@@ -11,8 +14,9 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '2011-12-17'
+release_year: 2009
+runtime: 180720
 ---
-
 This was never the way I planned
 Not my intention
 I got some brave, drink in hand
@@ -71,6 +75,3 @@ It felt so right
 Don't mean I'm in love tonight
 I kissed a girl and I like it
 I liked it
-
-
-

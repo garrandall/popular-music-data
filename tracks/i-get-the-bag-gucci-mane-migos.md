@@ -1,9 +1,12 @@
 ---
+album: Mr. Davis
 artists:
 - Gucci Mane
+external_ids:
+  spotify: spotify:track:4XHJPs6KnsRvd9e37mgSa2
 features:
 - Migos
-genres: []
+first_released_as_single: false
 key: i-get-the-bag-gucci-mane-migos
 lyrics_url: https://www.azlyrics.com/lyrics/guccimane/igetthebag.html
 name: I Get The Bag
@@ -116,9 +119,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2018-03-03'
+release_year: 2017
+runtime: 229866
 ---
-
-
 Hah
 It's Gucci
 Drop Top
@@ -248,6 +251,3 @@ Be real with me, keep it one hundred (Whoa)
 Just be real with me (Ayy)
 Eat it up like it's a feast (Eat it up)
 They say the dope on fleek (Yep)
-
-
-

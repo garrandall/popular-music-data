@@ -1,8 +1,11 @@
 ---
+album: Cosmic Thing
 artists:
 - The B-52s
+external_ids:
+  spotify: spotify:track:5fqcIHU6DhQtFKVO5XSdQs
 features: []
-genres: []
+first_released_as_single: false
 key: roam-the-b-52s
 lyrics_url: https://www.azlyrics.com/lyrics/b52s/roam.html
 name: Roam
@@ -87,8 +90,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1990-05-05'
+release_year: 1989
+runtime: 295133
 ---
-
 I hear a wind
 Whistling air
 Whispering in my ear
@@ -130,6 +134,3 @@ Take it hip to hip rock it through the wilderness
 Take it hip to hip rock it through the wilderness
 Take it hip to hip rock it through the wilderness
 Take it hip to hip rock it through the wilderness
-
-
-

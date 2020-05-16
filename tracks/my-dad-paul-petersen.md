@@ -1,8 +1,11 @@
 ---
+album: My Dad
 artists:
 - Paul Petersen
+external_ids:
+  spotify: spotify:track:796Jqu9c6MQcJIG40jCmNd
 features: []
-genres: []
+first_released_as_single: false
 key: my-dad-paul-petersen
 lyrics_url: https://genius.com/Paul-petersen-my-dad-lyrics
 name: My Dad
@@ -71,6 +74,8 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '1963-03-02'
+release_year: 1962
+runtime: 144493
 ---
 He isn't much in the eyes of the world; He'll never make history
 No, he isn't much in the eyes of the world, But he is the world to me

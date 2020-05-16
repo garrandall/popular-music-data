@@ -1,8 +1,11 @@
 ---
+album: Coming Around Again
 artists:
 - Carly Simon
+external_ids:
+  spotify: spotify:track:1U3KVZbVXDqHt8ZRLrZSh0
 features: []
-genres: []
+first_released_as_single: false
 key: give-me-all-night-carly-simon
 lyrics_url: https://www.azlyrics.com/lyrics/carlysimon/givemeallnight.html
 name: Give Me All Night
@@ -55,8 +58,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1987-08-08'
+release_year: 1987
+runtime: 261200
 ---
-
 I have no need of half of anything
 No half time, no half of a man's attention
 Give me all the earth and sky
@@ -88,6 +92,3 @@ Don't leave me guessing alone
 Don't walk me half the way home
 You can do that tomorrow
 Just give me give me all night.
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music, Volume 3 Showstoppers'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:5IEjk9xrbtTlnoRznXTIMz
 features: []
-genres: []
+first_released_as_single: false
 key: rose-s-turn-glee-cast
 lyrics_url: https://www.azlyrics.com/lyrics/gleecast/rosesturn.html
 name: Rose's Turn
@@ -11,8 +14,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2010-05-29'
+release_year: 2010
+runtime: 120160
 ---
-
 All that work and what did it get me?
 Why did I do it?
 Scrapbooks full of me in the background.
@@ -44,6 +48,3 @@ This time for me!
 Hahahahahahaha!
 
 For me! For me! For me! For me! For me! For me! Ya!
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: 'Lloyd Price Greatest Hits: The Original ABC-Paramount Recordings'
 artists:
 - Lloyd Price
+external_ids:
+  spotify: spotify:track:0vrS4oA5PHHsVEjVa1pqo8
 features: []
-genres: []
+first_released_as_single: false
 key: no-if-s---no-and-s-lloyd-price-and-his-orchestra
 name: No If's - No And's
 rankings:
@@ -34,5 +37,7 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '1960-06-06'
+release_year: 1960
+runtime: 142493
 ---
 

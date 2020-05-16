@@ -1,8 +1,11 @@
 ---
+album: Nancy In London
 artists:
 - Nancy Sinatra
+external_ids:
+  spotify: spotify:track:7e3RGqZ2FkFmcInDdgfJze
 features: []
-genres: []
+first_released_as_single: false
 key: you-only-live-twice-nancy-sinatra
 lyrics_url: https://genius.com/Nancy-sinatra-you-only-live-twice-lyrics
 name: You Only Live Twice
@@ -43,6 +46,8 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '1967-08-19'
+release_year: 1967
+runtime: 178840
 ---
 You only live twice
 Or so it seems

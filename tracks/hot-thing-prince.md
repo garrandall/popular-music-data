@@ -1,8 +1,11 @@
 ---
+album: Sign "O" the Times
 artists:
 - Prince
+external_ids:
+  spotify: spotify:track:6HpPsCidc2enTdicqEmu7t
 features: []
-genres: []
+first_released_as_single: false
 key: hot-thing-prince
 lyrics_url: https://genius.com/Prince-hot-thing-lyrics
 name: Hot Thing
@@ -43,6 +46,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1988-04-02'
+release_year: 1987
+runtime: 340706
 ---
 Hot thing!
 

@@ -1,8 +1,11 @@
 ---
+album: Raised On Rock
 artists:
 - Elvis Presley
+external_ids:
+  spotify: spotify:track:2UpAYqqoyCnsc9ijvDG5XA
 features: []
-genres: []
+first_released_as_single: false
 key: raised-on-rock-elvis-presley
 lyrics_url: https://www.azlyrics.com/lyrics/elvispresley/raisedonrock.html
 name: Raised On Rock
@@ -43,8 +46,9 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '1973-11-17'
+release_year: 1973
+runtime: 159346
 ---
-
 I remember as a child I used to hear
 Music that they played Lord with a feel
 Some call it folk, some call it soul
@@ -80,6 +84,3 @@ I was born to love the beat, I was made for rock and roll
 I was raised on rock, I got rhythm in my soul
 I was born to love the beat, I was made for rock and roll
 I was raised on rock, I got rhythm in my soul
-
-
-

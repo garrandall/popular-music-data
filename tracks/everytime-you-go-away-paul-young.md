@@ -1,8 +1,11 @@
 ---
+album: 'Paul Young & The Royal Family: Live at Rockpalast (Live, Essen, 1985)'
 artists:
 - Paul Young
+external_ids:
+  spotify: spotify:track:14GuxNEyUx3kNHb0z5JKZl
 features: []
-genres: []
+first_released_as_single: false
 key: everytime-you-go-away-paul-young
 lyrics_url: https://genius.com/Paul-young-every-time-you-go-away-lyrics
 name: Everytime You Go Away
@@ -99,6 +102,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1985-10-12'
+release_year: 1985
+runtime: 398986
 ---
 Don't leave me all alone
 Picking up the pieces (picking up the pieces)

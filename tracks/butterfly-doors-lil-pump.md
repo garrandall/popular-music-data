@@ -1,8 +1,11 @@
 ---
+album: Harverd Dropout
 artists:
 - Lil Pump
+external_ids:
+  spotify: spotify:track:4NdXQlDTzxbOMkzJGWFtz3
 features: []
-genres: []
+first_released_as_single: true
 key: butterfly-doors-lil-pump
 lyrics_url: https://www.azlyrics.com/lyrics/lilpump/butterflydoors.html
 name: Butterfly Doors
@@ -15,8 +18,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2019-01-26'
+release_year: 2019
+runtime: 132923
 ---
-
 CB on the beat, ho
 Butterfly doors (Brr)
 Jetski, Jetski
@@ -70,6 +74,3 @@ Pourin' up fours (Whoa)
 Baby mama whip a pot on the stove (Mama)
 Ain't no joke (Brr)
 You the type of nigga go cry to a ho (Ho)
-
-
-

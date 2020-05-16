@@ -1,8 +1,11 @@
 ---
+album: Certified Hitmaker
 artists:
 - Lil Mosey
+external_ids:
+  spotify: spotify:track:22LAwLoDA5b4AaGSkg6bKW
 features: []
-genres: []
+first_released_as_single: false
 key: blueberry-faygo-lil-mosey
 lyrics_url: https://www.azlyrics.com/lyrics/lilmosey/blueberryfaygo.html
 name: Blueberry Faygo
@@ -27,8 +30,9 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '2020-03-21'
+release_year: 2020
+runtime: 162546
 ---
-
 Damn, Callan
 Damn, Callan
 
@@ -95,6 +99,3 @@ One false move and we straight to shooting shit
 Two small bands just to take you out real quick (Bands)
 Three more hoes pull up, I'm fucking shit (Three, yeah)
 That's how it go, big bands, I'm thumbin' shit (Gang)
-
-
-

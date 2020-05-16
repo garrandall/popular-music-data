@@ -1,8 +1,11 @@
 ---
+album: Pandemonium
 artists:
 - The Time
+external_ids:
+  spotify: spotify:track:2QzLYgjE7zTj1lb6Wi1aPx
 features: []
-genres: []
+first_released_as_single: false
 key: jerk-out-the-time
 lyrics_url: https://genius.com/The-time-jerk-out-lyrics
 name: Jerk Out
@@ -67,6 +70,8 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1990-10-06'
+release_year: 1990
+runtime: 409333
 ---
 Band
 Uh, I don't know it's... It's just a thing with me you know

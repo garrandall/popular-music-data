@@ -1,8 +1,11 @@
 ---
+album: Manorisms
 artists:
 - Wet Willie
+external_ids:
+  spotify: spotify:track:4Bibcea08odOKSW6gauwC0
 features: []
-genres: []
+first_released_as_single: false
 key: make-you-feel-love-again-wet-willie
 lyrics_url: https://genius.com/Wet-willie-make-you-feel-love-again-lyrics
 name: Make You Feel Love Again
@@ -35,6 +38,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1978-05-20'
+release_year: 1977
+runtime: 208306
 ---
 You need to give love
 Another try

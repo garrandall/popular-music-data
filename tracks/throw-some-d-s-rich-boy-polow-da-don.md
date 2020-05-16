@@ -1,9 +1,12 @@
 ---
+album: Rich Boy
 artists:
 - Rich Boy
+external_ids:
+  spotify: spotify:track:1PYmq66nrfirfgLHhaFyrH
 features:
 - Polow Da Don
-genres: []
+first_released_as_single: true
 key: throw-some-d-s-rich-boy-polow-da-don
 lyrics_url: https://genius.com/Rich-boy-throw-some-ds-lyrics
 name: Throw Some D's
@@ -92,6 +95,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '2007-05-12'
+release_year: 2006
+runtime: 223853
 ---
 Zone 4
 Get money

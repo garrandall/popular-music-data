@@ -1,8 +1,11 @@
 ---
+album: Craig Campbell
 artists:
 - Craig Campbell
+external_ids:
+  spotify: spotify:track:3vkieK8FFhFnPtNRGAqVu1
 features: []
-genres: []
+first_released_as_single: false
 key: fish-craig-campbell
 lyrics_url: https://genius.com/Craig-campbell-fish-lyrics
 name: Fish
@@ -47,6 +50,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2011-10-15'
+release_year: 2011
+runtime: 167680
 ---
 The first time we did it I was scared to death
 She snuck out in that cotton dress

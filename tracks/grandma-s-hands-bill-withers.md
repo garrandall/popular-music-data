@@ -1,8 +1,11 @@
 ---
+album: Just As I Am
 artists:
 - Bill Withers
+external_ids:
+  spotify: spotify:track:1qfDfZAvrkSAFrAR2FTQDv
 features: []
-genres: []
+first_released_as_single: false
 key: grandma-s-hands-bill-withers
 lyrics_url: https://www.musixmatch.com/lyrics/Bill-Withers/Grandma-s-Hands
 name: Grandma's Hands
@@ -39,6 +42,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1971-12-18'
+release_year: 1971
+runtime: 121080
 ---
 Grandma's hands
 Clapped in church on Sunday morning

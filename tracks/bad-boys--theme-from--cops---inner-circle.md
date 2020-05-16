@@ -1,8 +1,11 @@
 ---
+album: Blazzin' Fire
 artists:
 - Inner Circle
+external_ids:
+  spotify: spotify:track:0qeKzbUsW0V4ZWRJrHNiD3
 features: []
-genres: []
+first_released_as_single: false
 key: bad-boys--theme-from--cops---inner-circle
 lyrics_url: https://genius.com/Inner-circle-bad-boys-lyrics
 name: Bad Boys (Theme From "Cops")
@@ -87,6 +90,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1993-09-11'
+release_year: 1993
+runtime: 229374
 ---
 Bad boys
 Whatcha want, whatcha want

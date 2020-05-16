@@ -1,8 +1,11 @@
 ---
+album: Inside Story
 artists:
 - Grace Jones
+external_ids:
+  spotify: spotify:track:1NN9UaLVAKq4ADId81JgUK
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-not-perfect--but-i-m-perfect-for-you--grace-jones
 lyrics_url: https://genius.com/Grace-jones-im-not-perfect-but-im-perfect-for-you-lyrics
 name: I'm Not Perfect (But I'm Perfect For You)
@@ -43,6 +46,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1987-01-24'
+release_year: 1986
+runtime: 238373
 ---
 I'm
 Had we met at a different time we'd be perfect for each other

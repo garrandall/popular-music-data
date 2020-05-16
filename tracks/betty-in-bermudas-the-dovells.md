@@ -1,8 +1,11 @@
 ---
+album: Everybody's Goin' Surfin'
 artists:
 - The Dovells
+external_ids:
+  spotify: spotify:track:3mg9ZQqBTzgPxrQ46nrrAc
 features: []
-genres: []
+first_released_as_single: false
 key: betty-in-bermudas-the-dovells
 lyrics_url: https://www.musixmatch.com/lyrics/The-Dovells/Betty-in-Bermudas
 name: Betty In Bermudas
@@ -35,6 +38,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1963-10-12'
+release_year: 1963
+runtime: 148160
 ---
 Betty in Bermudas
 Goes walking by

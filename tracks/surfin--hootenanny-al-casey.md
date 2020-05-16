@@ -1,8 +1,11 @@
 ---
+album: Al Casey's Rockabilly Sessions
 artists:
 - Al Casey
+external_ids:
+  spotify: spotify:track:1bR9kvOV0ZUwy43fqFIuXd
 features: []
-genres: []
+first_released_as_single: false
 key: surfin--hootenanny-al-casey
 lyrics_url: https://genius.com/Al-casey-surfin-hootenanny-lyrics
 name: Surfin' Hootenanny
@@ -39,6 +42,8 @@ rankings:
   rank: 52
   ranking_list: Billboard Hot 100
   start_date: '1963-08-31'
+release_year: 1963
+runtime: 131560
 ---
 We're gonna have
 A surfing hootenanny

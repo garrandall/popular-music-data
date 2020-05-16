@@ -1,8 +1,11 @@
 ---
+album: State Property Presents The Chain Gang Vol II
 artists:
 - Young Gunz
+external_ids:
+  spotify: spotify:track:4la6X8yDVwX0C6CrLLNnZz
 features: []
-genres: []
+first_released_as_single: false
 key: can-t-stop-won-t-stop-young-gunz
 lyrics_url: https://genius.com/Young-gunz-cant-stop-wont-stop-lyrics
 name: Can't Stop Won't Stop
@@ -87,6 +90,8 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '2003-12-20'
+release_year: 2003
+runtime: 223666
 ---
 + (Neef)
 Six figure, woo

@@ -1,8 +1,11 @@
 ---
+album: Walking the Dog (Mono)
 artists:
 - Rufus Thomas
+external_ids:
+  spotify: spotify:track:0EC0glHieyMFm5sOWXAkST
 features: []
-genres: []
+first_released_as_single: false
 key: can-your-monkey-do-the-dog-rufus-thomas
 lyrics_url: https://genius.com/Rufus-thomas-can-your-monkey-do-the-dog-lyrics
 name: Can Your Monkey Do The Dog
@@ -43,6 +46,8 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '1964-03-28'
+release_year: 1963
+runtime: 116395
 ---
 E-I-E-I-O
 Can your monkey do the dog

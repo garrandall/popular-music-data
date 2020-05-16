@@ -1,8 +1,11 @@
 ---
+album: The 35th Anniversary Collection
 artists:
 - The Miracles
+external_ids:
+  spotify: spotify:track:2Mef3MskMSCGKx7tF8HQ1V
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-cha-love-it-the-miracles
 lyrics_url: https://genius.com/The-miracles-dont-cha-love-it-lyrics
 name: Don't Cha Love It
@@ -23,6 +26,8 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1975-01-11'
+release_year: 1974
+runtime: 201560
 ---
 Like a honeycomb is made for honey
 Like an empty pocket is made for money

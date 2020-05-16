@@ -1,8 +1,11 @@
 ---
+album: 'Hey Girl Don''t Bother Me: The Best Of The Tams'
 artists:
 - The Tams
+external_ids:
+  spotify: spotify:track:6ElbEXlLbjWiRgzS1HpM2J
 features: []
-genres: []
+first_released_as_single: false
 key: hey-girl-don-t-bother-me-the-tams
 lyrics_url: https://genius.com/The-tams-hey-girl-dont-bother-me-lyrics
 name: Hey Girl Don't Bother Me
@@ -39,6 +42,8 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1964-09-05'
+release_year: 1964
+runtime: 151093
 ---
 Hey girl, don't bother me, hey girl, don't bother me
 Hey girl, don't bother me, hey girl, don't bother me

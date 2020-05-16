@@ -1,9 +1,12 @@
 ---
+album: Celi Bee & The Buzzy Bunch
 artists:
 - Celi Bee
 - The Buzzy Bunch
+external_ids:
+  spotify: spotify:track:127Kb1znoBzeQgTCMsSPXO
 features: []
-genres: []
+first_released_as_single: true
 key: superman-celi-bee-the-buzzy-bunch
 lyrics_url: https://www.musixmatch.com/lyrics/Celi-Bee-The-Buzzy-Bunch/Superman
 name: Superman
@@ -60,6 +63,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1977-09-03'
+release_year: 1977
+runtime: 307800
 ---
 Oh
 You high baby?

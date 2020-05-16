@@ -1,8 +1,11 @@
 ---
+album: '17'
 artists:
 - XXXTENTACION
+external_ids:
+  spotify: spotify:track:3GVkPk8mqxz0itaAriG1L7
 features: []
-genres: []
+first_released_as_single: false
 key: everybody-dies-in-their-nightmares-xxxtentacion
 lyrics_url: https://www.azlyrics.com/lyrics/xxxtentacion/everybodydiesintheirnightmares.html
 name: Everybody Dies In Their Nightmares
@@ -35,9 +38,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2018-07-14'
+release_year: 2017
+runtime: 95466
 ---
-
-
 Don't go, don't go to sleep
 Don't go, stay up and don't go
 
@@ -86,6 +89,3 @@ Don't go to sleep
 Don't go, stay up and don't go
 Don't go, don't go to sleep
 Don't go, stay up and don't...
-
-
-

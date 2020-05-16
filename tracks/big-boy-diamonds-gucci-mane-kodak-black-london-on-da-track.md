@@ -1,10 +1,13 @@
 ---
+album: Woptober II
 artists:
 - Gucci Mane
+external_ids:
+  spotify: spotify:track:3lBtKDVeOnPylAhbqFaZgN
 features:
 - Kodak Black
 - London On Da Track
-genres: []
+first_released_as_single: false
 key: big-boy-diamonds-gucci-mane-kodak-black-london-on-da-track
 lyrics_url: https://www.azlyrics.com/lyrics/guccimane/bigboydiamonds.html
 name: Big Boy Diamonds
@@ -13,8 +16,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2019-11-16'
+release_year: 2019
+runtime: 151481
 ---
-
 Big boy diamonds
 Ice on me changin' the climate
 She like the way I be vibin'
@@ -94,6 +98,3 @@ Big boy diamonds
 Ice on me changin' the climate
 She like the way I be vibin'
 Big boy diamonds
-
-
-

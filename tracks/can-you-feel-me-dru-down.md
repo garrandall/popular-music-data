@@ -1,8 +1,11 @@
 ---
+album: Can You Feel Me
 artists:
 - Dru Down
+external_ids:
+  spotify: spotify:track:2NxgsA7eJXj8sBSsoKP3OT
 features: []
-genres: []
+first_released_as_single: false
 key: can-you-feel-me-dru-down
 lyrics_url: https://genius.com/Dru-down-can-you-feel-me-lyrics
 name: Can You Feel Me
@@ -27,6 +30,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1996-09-28'
+release_year: 1996
+runtime: 252493
 ---
 Hm huh huh...
 Woooooo...

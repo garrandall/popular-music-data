@@ -1,8 +1,11 @@
 ---
+album: Revolution
 artists:
 - Miranda Lambert
+external_ids:
+  spotify: spotify:track:08NPIspzvBNj88lHalgA4V
 features: []
-genres: []
+first_released_as_single: false
 key: white-liar-miranda-lambert
 lyrics_url: https://genius.com/Miranda-lambert-white-liar-lyrics
 name: White Liar
@@ -87,6 +90,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '2010-03-13'
+release_year: 2009
+runtime: 287760
 ---
 Hey, white liar
 The truth comes out a little at a time

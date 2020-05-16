@@ -1,8 +1,11 @@
 ---
+album: Best Of Bee Gees
 artists:
 - Bee Gees
+external_ids:
+  spotify: spotify:track:2fFUtEAjAQ9TIWTx6wbTp6
 features: []
-genres: []
+first_released_as_single: false
 key: tomorrow-tomorrow-bee-gees
 lyrics_url: https://genius.com/Bee-gees-tomorrow-tomorrow-lyrics
 name: Tomorrow Tomorrow
@@ -31,6 +34,8 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '1969-07-05'
+release_year: 1969
+runtime: 238026
 ---
 Oh, every day you make me cry, girl
 I cry too much

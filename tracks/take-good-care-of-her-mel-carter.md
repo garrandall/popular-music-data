@@ -1,8 +1,11 @@
 ---
+album: The Best Of Mel Carter
 artists:
 - Mel Carter
+external_ids:
+  spotify: spotify:track:5ldK6ZO1TCLm3hfB2WApxV
 features: []
-genres: []
+first_released_as_single: false
 key: take-good-care-of-her-mel-carter
 lyrics_url: https://www.musixmatch.com/lyrics/Mel-Carter/Take-Good-Care-of-Her
 name: Take Good Care Of Her
@@ -27,6 +30,8 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1966-10-29'
+release_year: 1966
+runtime: 168906
 ---
 Take care good care of her
 Take care good care of her

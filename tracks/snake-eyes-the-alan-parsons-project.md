@@ -1,8 +1,11 @@
 ---
+album: The Turn Of A Friendly Card
 artists:
 - The Alan Parsons Project
+external_ids:
+  spotify: spotify:track:0QzN3Ce9fMBojzb5bawLkQ
 features: []
-genres: []
+first_released_as_single: false
 key: snake-eyes-the-alan-parsons-project
 lyrics_url: https://genius.com/The-alan-parsons-project-snake-eyes-lyrics
 name: Snake Eyes
@@ -27,6 +30,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1981-11-14'
+release_year: 1977
+runtime: 197760
 ---
 Snake eyes
 Seven eleven

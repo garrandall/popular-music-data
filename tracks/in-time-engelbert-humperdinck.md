@@ -1,8 +1,11 @@
 ---
+album: In Time
 artists:
 - Engelbert Humperdinck
+external_ids:
+  spotify: spotify:track:4iWcVWPXHfUUePqjPEXmZt
 features: []
-genres: []
+first_released_as_single: false
 key: in-time-engelbert-humperdinck
 lyrics_url: https://genius.com/Engelbert-humperdinck-in-time-lyrics
 name: In Time
@@ -39,6 +42,8 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1972-09-23'
+release_year: 1972
+runtime: 196360
 ---
 I was a fool
 And like a fool, I cannot hide my sorrow

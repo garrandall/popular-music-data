@@ -1,9 +1,12 @@
 ---
+album: All I Ever Need Is You
 artists:
 - Sonny
 - Cher
+external_ids:
+  spotify: spotify:track:2pRQeTrtd34PmX2vESvQUl
 features: []
-genres: []
+first_released_as_single: false
 key: when-you-say-love-sonny-cher
 lyrics_url: https://genius.com/Sonny-and-cher-when-you-say-love-lyrics
 name: When You Say Love
@@ -48,6 +51,8 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '1972-09-09'
+release_year: 1972
+runtime: 148946
 ---
 When you say love
 You're telling every one your moment's come

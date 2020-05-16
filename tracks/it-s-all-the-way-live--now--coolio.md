@@ -1,8 +1,11 @@
 ---
+album: The Greatest Hits And Remixes (Re-Recorded Version)
 artists:
 - Coolio
+external_ids:
+  spotify: spotify:track:3Ly0Pr8NmcIygvxHpDN4YS
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-all-the-way-live--now--coolio
 lyrics_url: https://genius.com/Coolio-its-all-the-way-live-lyrics
 name: It's All The Way Live (Now)
@@ -79,6 +82,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1996-09-28'
+release_year: 1996
+runtime: 179573
 ---
 It's all the way live
 It's all the way live

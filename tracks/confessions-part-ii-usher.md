@@ -1,8 +1,11 @@
 ---
+album: Confessions
 artists:
 - Usher
+external_ids:
+  spotify: spotify:track:7wBThXx7BGZHJJ3aN3OPvv
 features: []
-genres: []
+first_released_as_single: false
 key: confessions-part-ii-usher
 lyrics_url: https://www.azlyrics.com/lyrics/usher/confessionspartii.html
 name: Confessions Part II
@@ -107,8 +110,9 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2004-10-16'
+release_year: 2004
+runtime: 211200
 ---
-
 Watch this
 
 These are my confessions
@@ -183,6 +187,3 @@ If I'm gonna tell it, then I gotta tell it all
 Damn near cried when I got that phone call
 I'm so throwed, I don't know what to do
 But to give you part two of my confessions
-
-
-

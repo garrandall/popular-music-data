@@ -1,8 +1,11 @@
 ---
+album: Learn To Live
 artists:
 - Darius Rucker
+external_ids:
+  spotify: spotify:track:4gzeYkzuzxuzAUTsGcdjqA
 features: []
-genres: []
+first_released_as_single: false
 key: it-won-t-be-like-this-for-long-darius-rucker
 lyrics_url: https://genius.com/Darius-rucker-it-wont-be-like-this-for-long-lyrics
 name: It Won't Be Like This For Long
@@ -87,6 +90,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2009-05-30'
+release_year: 2008
+runtime: 219000
 ---
 He didn't have to wake up
 He'd been up all night

@@ -1,9 +1,12 @@
 ---
+album: 7/27
 artists:
 - Fifth Harmony
+external_ids:
+  spotify: spotify:track:7nD9nN3jord9wWcfW3Gkcm
 features:
 - Fetty Wap
-genres: []
+first_released_as_single: false
 key: all-in-my-head--flex--fifth-harmony-fetty-wap
 lyrics_url: https://genius.com/Fifth-harmony-all-in-my-head-flex-lyrics
 name: All In My Head (Flex)
@@ -80,6 +83,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2016-11-05'
+release_year: 2016
+runtime: 210573
 ---
 Flex, time to impress
 Come and climb in my bed

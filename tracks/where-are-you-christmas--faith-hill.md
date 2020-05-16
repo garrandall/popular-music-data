@@ -1,8 +1,11 @@
 ---
+album: Dr. Seuss' How The Grinch Stole Christmas
 artists:
 - Faith Hill
+external_ids:
+  spotify: spotify:track:1msuiw6pnXYfxZ7Edyit9U
 features: []
-genres: []
+first_released_as_single: false
 key: where-are-you-christmas--faith-hill
 lyrics_url: https://genius.com/Faith-hill-where-are-you-christmas-lyrics
 name: Where Are You Christmas?
@@ -11,6 +14,8 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '2001-01-06'
+release_year: 2000
+runtime: 247040
 ---
 Where are you Christmas
 Why can't I find you

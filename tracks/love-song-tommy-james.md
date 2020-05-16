@@ -1,8 +1,11 @@
 ---
+album: The Solo Years
 artists:
 - Tommy James
+external_ids:
+  spotify: spotify:track:0EMgvvNROQvwc3ap3b41pH
 features: []
-genres: []
+first_released_as_single: false
 key: love-song-tommy-james
 lyrics_url: https://www.azlyrics.com/lyrics/tommyjames/lovesong.html
 name: Love Song
@@ -31,8 +34,9 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1972-09-23'
+release_year: 1972
+runtime: 209466
 ---
-
 Love has many colors,
 Happy, good, bad, and blue.
 But I've seen all of the others
@@ -66,6 +70,3 @@ Baby, I'm gonna sing you a love song,
 Especially for you;
 And I hope I can say in a simple way
 Just-a how much I love you.
-
-
-

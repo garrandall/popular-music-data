@@ -1,8 +1,11 @@
 ---
+album: Sean Kingston
 artists:
 - Sean Kingston
+external_ids:
+  spotify: spotify:track:4QzaQXEVjocysQP08iWJOW
 features: []
-genres: []
+first_released_as_single: false
 key: take-you-there-sean-kingston
 lyrics_url: https://www.azlyrics.com/lyrics/seankingston/takeyouthere.html
 name: Take You There
@@ -107,8 +110,9 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '2008-05-03'
+release_year: 2007
+runtime: 207706
 ---
-
 YO!
 WAT A GWAAN!
 HO!
@@ -174,8 +178,3 @@ I know you're gonna like (oh oh oh)
 The beach (the beach)
 The breeze (the breeze)
 West Indies, I call it paradise
-
-
-
-
-

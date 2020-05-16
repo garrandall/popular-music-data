@@ -1,8 +1,11 @@
 ---
+album: Happy Together
 artists:
 - The Nylons
+external_ids:
+  spotify: spotify:track:7kYsrgC9bs1O9T59IPzxU8
 features: []
-genres: []
+first_released_as_single: false
 key: kiss-him-goodbye-the-nylons
 lyrics_url: https://genius.com/The-nylons-kiss-him-goodbye-lyrics
 name: Kiss Him Goodbye
@@ -75,6 +78,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1987-09-05'
+release_year: 1982
+runtime: 214000
 ---
 You know I love you
 I'll always love you

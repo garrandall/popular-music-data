@@ -1,9 +1,12 @@
 ---
+album: GEMINI
 artists:
 - Macklemore
+external_ids:
+  spotify: spotify:track:2Za1AlJNvksouPPWbXpR2X
 features:
 - Kesha
-genres: []
+first_released_as_single: false
 key: good-old-days-macklemore-kesha
 lyrics_url: https://www.azlyrics.com/lyrics/macklemore/goodolddays.html
 name: Good Old Days
@@ -88,9 +91,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2018-03-17'
+release_year: 2017
+runtime: 240506
 ---
-
-
 I wish somebody would have told me, babe
 Someday, these will be the good old days
 All the love you won't forget
@@ -169,6 +172,3 @@ All the love you won't forget
 And all these reckless nights you won't regret
 Someday soon, your whole life's gonna change
 You'll miss the magic of these good old days
-
-
-

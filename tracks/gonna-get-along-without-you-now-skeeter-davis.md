@@ -1,8 +1,11 @@
 ---
+album: Let Me Get Close To You (With Bonus Tracks)
 artists:
 - Skeeter Davis
+external_ids:
+  spotify: spotify:track:6j13wUu2T40hhs4ihv17H5
 features: []
-genres: []
+first_released_as_single: false
 key: gonna-get-along-without-you-now-skeeter-davis
 lyrics_url: https://www.azlyrics.com/lyrics/skeeterdavis/gonnagetalongwithoutyounow.html
 name: Gonna Get Along Without You Now
@@ -35,8 +38,9 @@ rankings:
   rank: 52
   ranking_list: Billboard Hot 100
   start_date: '1964-06-13'
+release_year: 1964
+runtime: 141400
 ---
-
 Uh huh, hm hm
 Gonna get along without you now
 Uh huh, hm hm
@@ -77,6 +81,3 @@ Gonna get along without you now
 
 So long my honey, goodbye my dear
 Gonna get along without you now
-
-
-

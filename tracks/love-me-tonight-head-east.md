@@ -1,8 +1,11 @@
 ---
+album: Flat As A Pancake
 artists:
 - Head East
+external_ids:
+  spotify: spotify:track:4QTRA2WSXCahYOeRuOcY8J
 features: []
-genres: []
+first_released_as_single: false
 key: love-me-tonight-head-east
 lyrics_url: https://genius.com/Head-east-love-me-tonight-lyrics
 name: Love Me Tonight
@@ -31,6 +34,8 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '1976-03-13'
+release_year: 1975
+runtime: 267360
 ---
 Drive two hundred miles
 To place I've never seen

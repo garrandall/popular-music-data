@@ -1,8 +1,11 @@
 ---
+album: Suspicion
 artists:
 - Terry Stafford
+external_ids:
+  spotify: spotify:track:17YtDVU9bUluyihdOKWfxu
 features: []
-genres: []
+first_released_as_single: false
 key: suspicion-terry-stafford
 lyrics_url: https://genius.com/Terry-stafford-suspicion-lyrics
 name: Suspicion
@@ -67,6 +70,8 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1964-05-30'
+release_year: 1964
+runtime: 154906
 ---
 Every time you kiss me
 I'm still not certain that you love me

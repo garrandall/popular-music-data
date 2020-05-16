@@ -1,8 +1,11 @@
 ---
+album: Greatest Hits Live
 artists:
 - Pat Boone
+external_ids:
+  spotify: spotify:track:3O2vxtmgOXvetZeSvvn1Je
 features: []
-genres: []
+first_released_as_single: false
 key: with-the-wind-and-the-rain-in-your-hair-pat-boone
 lyrics_url: https://genius.com/Pat-boone-with-the-wind-and-the-rain-in-your-hair-lyrics
 name: With The Wind And The Rain In Your Hair
@@ -63,6 +66,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1959-04-13'
+release_year: 1959
+runtime: 144277
 ---
 Last night we met
 And I dream of you yet

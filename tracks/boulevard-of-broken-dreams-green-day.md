@@ -1,8 +1,11 @@
 ---
+album: American Idiot
 artists:
 - Green Day
+external_ids:
+  spotify: spotify:track:0MsrWnxQZxPAcov7c74sSo
 features: []
-genres: []
+first_released_as_single: false
 key: boulevard-of-broken-dreams-green-day
 lyrics_url: https://www.azlyrics.com/lyrics/greenday/boulevardofbrokendreams.html
 name: Boulevard Of Broken Dreams
@@ -151,8 +154,9 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '2005-07-30'
+release_year: 2004
+runtime: 493400
 ---
-
 I walk a lonely road
 The only one that I have ever known
 Don't know where it goes
@@ -211,6 +215,3 @@ My shadow's the only one that walks beside me
 My shallow heart's the only thing that's beating
 Sometimes I wish someone out there will find me
 'Til then I walk alone...
-
-
-

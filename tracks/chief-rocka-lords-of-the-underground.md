@@ -1,8 +1,11 @@
 ---
+album: Here Come The Lords
 artists:
 - Lords Of The Underground
+external_ids:
+  spotify: spotify:track:34MRi5GRWHFUa731JBxFEl
 features: []
-genres: []
+first_released_as_single: false
 key: chief-rocka-lords-of-the-underground
 lyrics_url: https://genius.com/Lords-of-the-underground-chief-rocka-lyrics
 name: Chief Rocka
@@ -87,6 +90,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1993-11-20'
+release_year: 1993
+runtime: 247400
 ---
 Chief Rocka, Chief Rocka
 Chief Rocka, Chief Rocka
@@ -106,7 +111,7 @@ Cause girlies, they clock, they stand around and jock
 So I say boom shaka lak, grab the microphone then rock
 To tell you the truth, when on the mic
 I'll say anything that sounds good
-Like "drum pan, a drum pan sound over some uuuuh"
+Like "drum pan, a drum pan sound over some uh"
 The Cat in the Hat and the mouse ran up the stairs
 "That doesn't make no sense!"
 C'mon who cares?

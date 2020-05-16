@@ -1,8 +1,11 @@
 ---
+album: Pat Garrett & Billy The Kid
 artists:
 - Bob Dylan
+external_ids:
+  spotify: spotify:track:6HSXNV0b4M4cLJ7ljgVVeh
 features: []
-genres: []
+first_released_as_single: false
 key: knockin--on-heaven-s-door-bob-dylan
 lyrics_url: https://genius.com/Bob-dylan-knockin-on-heavens-door-lyrics
 name: Knockin' On Heaven's Door
@@ -71,6 +74,8 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '1973-12-15'
+release_year: 1973
+runtime: 149880
 ---
 Oh, oh
 Oh, oh

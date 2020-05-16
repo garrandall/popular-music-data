@@ -1,8 +1,11 @@
 ---
+album: A Place In The Sun
 artists:
 - Tim McGraw
+external_ids:
+  spotify: spotify:track:7AHw9SfOITU9Q7sj3V5vxV
 features: []
-genres: []
+first_released_as_single: false
 key: my-next-thirty-years-tim-mcgraw
 lyrics_url: https://genius.com/Tim-mcgraw-my-next-thirty-years-lyrics
 name: My Next Thirty Years
@@ -87,6 +90,8 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '2001-03-03'
+release_year: 1999
+runtime: 217733
 ---
 I think I’ll take a moment, celebrate my age
 The ending of an era and the turning of a page

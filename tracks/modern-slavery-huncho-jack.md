@@ -1,8 +1,11 @@
 ---
+album: Huncho Jack, Jack Huncho
 artists:
 - Huncho Jack
+external_ids:
+  spotify: spotify:track:7J6bnDDitOwfelaJNixHhL
 features: []
-genres: []
+first_released_as_single: false
 key: modern-slavery-huncho-jack
 lyrics_url: https://genius.com/Huncho-jack-modern-slavery-lyrics
 name: Modern Slavery
@@ -11,6 +14,8 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '2018-01-06'
+release_year: 2017
+runtime: 148559
 ---
 Yeah
 It's earlier in the morning

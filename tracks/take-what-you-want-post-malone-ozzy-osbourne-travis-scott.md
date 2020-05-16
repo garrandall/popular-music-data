@@ -1,10 +1,13 @@
 ---
+album: Hollywood's Bleeding
 artists:
 - Post Malone
+external_ids:
+  spotify: spotify:track:7CZyCXKG6d5ALeq41sLzbw
 features:
 - Ozzy Osbourne
 - Travis Scott
-genres: []
+first_released_as_single: false
 key: take-what-you-want-post-malone-ozzy-osbourne-travis-scott
 lyrics_url: https://www.azlyrics.com/lyrics/postmalone/takewhatyouwant.html
 name: Take What You Want
@@ -89,8 +92,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2020-02-01'
+release_year: 2019
+runtime: 229573
 ---
-
 I feel you crumble in my arms down to your heart of stone
 You bled me dry just like the tears you never show
 Why don't you take what you want from me?
@@ -159,6 +163,3 @@ Take what you need from me
 (Take what you want, take what you need)
 Why don't you
 Whatever you need
-
-
-

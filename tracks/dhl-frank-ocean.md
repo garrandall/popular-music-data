@@ -1,8 +1,11 @@
 ---
+album: DHL
 artists:
 - Frank Ocean
+external_ids:
+  spotify: spotify:track:2INhKpUdzh7v0j041gZNsz
 features: []
-genres: []
+first_released_as_single: true
 key: dhl-frank-ocean
 lyrics_url: https://www.azlyrics.com/lyrics/frankocean/dhl.html
 name: DHL
@@ -11,8 +14,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2019-11-02'
+release_year: 2019
+runtime: 268893
 ---
-
 Love that I, love that I give
 That is not all that I give up
 Uh, uh-huh
@@ -111,6 +115,3 @@ Independent jug, sellin' records out the trunk
 I'm already rich as fuck so the products in the front
 Got my partner in the front, been my BF for a month
 But we been fuckin' from the jump
-
-
-

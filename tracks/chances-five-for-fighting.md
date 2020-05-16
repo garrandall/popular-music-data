@@ -1,8 +1,11 @@
 ---
+album: The Blind Side (Original Motion Picture Soundtrack)
 artists:
 - Five For Fighting
+external_ids:
+  spotify: spotify:track:7x5Bl9iy748mPg3EfsplNQ
 features: []
-genres: []
+first_released_as_single: false
 key: chances-five-for-fighting
 lyrics_url: https://genius.com/Five-for-fighting-chances-lyrics
 name: Chances
@@ -11,6 +14,8 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '2009-10-31'
+release_year: 2009
+runtime: 213606
 ---
 Chances are when said and done
 Who'll be the lucky ones

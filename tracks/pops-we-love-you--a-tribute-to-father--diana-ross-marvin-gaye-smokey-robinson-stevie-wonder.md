@@ -1,11 +1,14 @@
 ---
+album: Remixes
 artists:
 - Diana Ross
 - Marvin Gaye
 - Smokey Robinson
 - Stevie Wonder
+external_ids:
+  spotify: spotify:track:7xlP68xpQ3IuwvkBVsChH9
 features: []
-genres: []
+first_released_as_single: false
 key: pops-we-love-you--a-tribute-to-father--diana-ross-marvin-gaye-smokey-robinson-stevie-wonder
 lyrics_url: https://www.musixmatch.com/lyrics/Diana-Ross-Marvin-Gaye-Stevie-Wonder-Smokey-Robinson/Pops-We-Love-You-disco
 name: Pops We Love You (A Tribute To Father)
@@ -42,6 +45,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1979-03-10'
+release_year: 1979
+runtime: 210973
 ---
 Anyone who's had the pleasure
 Of meeting you in this lifetime

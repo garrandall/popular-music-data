@@ -1,8 +1,11 @@
 ---
+album: Gold
 artists:
 - Connie Francis
+external_ids:
+  spotify: spotify:track:2pbQop5DYNxRyMnMBUdpFz
 features: []
-genres: []
+first_released_as_single: false
 key: blue-winter-connie-francis
 lyrics_url: https://genius.com/Connie-francis-blue-winter-lyrics
 name: Blue Winter
@@ -43,6 +46,8 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '1964-04-11'
+release_year: 1964
+runtime: 148533
 ---
 It's gonna be a blue winter without you
 It's gonna be a blue winter for me

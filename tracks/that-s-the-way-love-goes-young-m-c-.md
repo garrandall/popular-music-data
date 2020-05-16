@@ -1,8 +1,11 @@
 ---
+album: Brainstorm
 artists:
 - Young M.C.
+external_ids:
+  spotify: spotify:track:1oDr5m0MVbIPTB13WFDMzj
 features: []
-genres: []
+first_released_as_single: true
 key: that-s-the-way-love-goes-young-m-c-
 lyrics_url: https://genius.com/Young-mc-thats-the-way-love-goes-lyrics
 name: That's The Way Love Goes
@@ -35,6 +38,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1991-09-14'
+release_year: 1991
+runtime: 334733
 ---
 (Yuh huh)
 (Hey hey)

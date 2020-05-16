@@ -1,9 +1,12 @@
 ---
+album: 'Sly & The Family Stone: The Woodstock Experience'
 artists:
 - Sly
 - The Family Stone
+external_ids:
+  spotify: spotify:track:3IilTrLtKkHLUpZNhNRD4V
 features: []
-genres: []
+first_released_as_single: false
 key: i-want-to-take-you-higher-sly-the-family-stone
 lyrics_url: https://genius.com/Sly-and-the-family-stone-i-want-to-take-you-higher-lyrics
 name: I Want To Take You Higher
@@ -72,6 +75,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1970-07-18'
+release_year: 1969
+runtime: 403026
 ---
 Hey, hey, hey, hey
 

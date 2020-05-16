@@ -1,8 +1,11 @@
 ---
+album: Nothing Was The Same
 artists:
 - Drake
+external_ids:
+  spotify: spotify:track:3IQgeOgdHIag6mu0mgKRgQ
 features: []
-genres: []
+first_released_as_single: false
 key: the-language-drake
 lyrics_url: https://www.azlyrics.com/lyrics/drake/thelanguage.html
 name: The Language
@@ -87,9 +90,9 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '2014-03-22'
+release_year: 2013
+runtime: 224013
 ---
-
-
 Yeah. (Young Money)
 Yeah yeah.
 Yeah yeah.
@@ -173,6 +176,3 @@ Stunt nigga
 I might just bring in some girls from Miami
 To heat up the city and that's word to Stunna
 You know it
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Jerry Wallace's Greatest Hits
 artists:
 - Jerry Wallace
+external_ids:
+  spotify: spotify:track:18M5psptw7UT5QtbV3kOZ9
 features: []
-genres: []
+first_released_as_single: false
 key: to-get-to-you-jerry-wallace
 lyrics_url: https://genius.com/Jerry-wallace-to-get-to-you-lyrics
 name: To Get To You
@@ -55,6 +58,8 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '1972-06-03'
+release_year: 1972
+runtime: 161933
 ---
 I would walk out on my friends to get to you
 If I lose them all for your love I'll do that to

@@ -1,8 +1,11 @@
 ---
+album: Classic R&B
 artists:
 - Ben E. King
+external_ids:
+  spotify: spotify:track:3n36OdwK6RDq1VeqGf2f7O
 features: []
-genres: []
+first_released_as_single: false
 key: i-could-have-danced-all-night-ben-e--king
 lyrics_url: https://www.musixmatch.com/lyrics/Ben-E-King/I-Could-Have-Danced-All-Night
 name: I Could Have Danced All Night
@@ -23,6 +26,8 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1963-11-23'
+release_year: 1963
+runtime: 154973
 ---
 I could have danced all night
 I could have danced all night

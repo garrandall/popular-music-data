@@ -1,8 +1,11 @@
 ---
+album: Birdland
 artists:
 - The Yardbirds
+external_ids:
+  spotify: spotify:track:4wUEyxnu0u0r5Ht2zLI79b
 features: []
-genres: []
+first_released_as_single: false
 key: shapes-of-things-the-yardbirds
 lyrics_url: https://genius.com/The-yardbirds-shapes-of-things-lyrics
 name: Shapes Of Things
@@ -51,6 +54,8 @@ rankings:
   rank: 36
   ranking_list: Billboard Hot 100
   start_date: '1966-05-28'
+release_year: 1966
+runtime: 145960
 ---
 Shapes of things before my eyes
 Just teach me to despise

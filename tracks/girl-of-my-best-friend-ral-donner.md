@@ -1,8 +1,11 @@
 ---
+album: Bells Of Love
 artists:
 - Ral Donner
+external_ids:
+  spotify: spotify:track:1WYn7Ez9NW1R9lYyZMW3XT
 features: []
-genres: []
+first_released_as_single: false
 key: girl-of-my-best-friend-ral-donner
 lyrics_url: https://genius.com/Ral-donner-girl-of-my-best-friend-lyrics
 name: Girl Of My Best Friend
@@ -51,16 +54,9 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '1961-06-26'
+release_year: 1961
+runtime: 137466
 ---
-Ral Donner
-Miscellaneous
-Girl Of My Best Friend
-Girl Of My Best Friend
-Ral Donner
-(Written by Beverly Ross and Sam Bobrick)
-Peaked at # 19 in 1961
-Ral's voice sounded so much like Elvis's, he was used as a narrator of the 1981
-Docudrama "This Is Elvis."
 (bah dooby doo) The way she walks
 (bah dooby doo) The way she talks
 (bah dooby doo) How long can I pretend?
@@ -81,5 +77,3 @@ Or will I always be in love with the girl of my best friend?
 (bah dooby oh Please make it end
 (bah dooby oh Oh, let it end
 (bah dooby oh Why won't it end?
-FADE
-From: "Roy T. O'Conner"

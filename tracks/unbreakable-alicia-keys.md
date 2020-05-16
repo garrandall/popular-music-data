@@ -1,8 +1,11 @@
 ---
+album: Unplugged
 artists:
 - Alicia Keys
+external_ids:
+  spotify: spotify:track:2DRcaAO76feWOoWCWP1cPp
 features: []
-genres: []
+first_released_as_single: false
 key: unbreakable-alicia-keys
 lyrics_url: https://www.azlyrics.com/lyrics/aliciakeys/unbreakable.html
 name: Unbreakable
@@ -83,8 +86,9 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '2006-02-04'
+release_year: 2005
+runtime: 274000
 ---
-
 Clap your hands everybody
 Clap your hands
 Come on, keep it going
@@ -166,6 +170,3 @@ Yeah, yeah,yeah,yeah,yeah,yeah,yeah,yeah,yeah
 We just might be breaking up
 But ya'll know we'll be back next week
 I'm singing this love is unbreakable
-
-
-

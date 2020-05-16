@@ -1,8 +1,11 @@
 ---
+album: Skip a Rope
 artists:
 - Henson Cargill
+external_ids:
+  spotify: spotify:track:3FR0USzqovd2pdPfXukEoT
 features: []
-genres: []
+first_released_as_single: false
 key: skip-a-rope-henson-cargill
 lyrics_url: https://genius.com/Henson-cargill-skip-a-rope-lyrics
 name: Skip A Rope
@@ -55,6 +58,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1968-03-09'
+release_year: 1967
+runtime: 155920
 ---
 Skip a rope, skip a rope
 Oh, listen to the children while they play

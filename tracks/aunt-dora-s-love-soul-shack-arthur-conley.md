@@ -1,8 +1,11 @@
 ---
+album: More Sweet Soul
 artists:
 - Arthur Conley
+external_ids:
+  spotify: spotify:track:6VK216lTibFY6xEZzBpBy4
 features: []
-genres: []
+first_released_as_single: false
 key: aunt-dora-s-love-soul-shack-arthur-conley
 lyrics_url: https://genius.com/Arthur-conley-aunt-doras-love-soul-shack-lyrics
 name: Aunt Dora's Love Soul Shack
@@ -23,6 +26,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1968-11-16'
+release_year: 1968
+runtime: 168533
 ---
 Hardwood floors is a-breaking
 The mini dresses really shaking

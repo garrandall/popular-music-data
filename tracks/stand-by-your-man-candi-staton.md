@@ -1,8 +1,11 @@
 ---
+album: Stand By Your Man
 artists:
 - Candi Staton
+external_ids:
+  spotify: spotify:track:1uF89mP85UOIKlzYt1Tq49
 features: []
-genres: []
+first_released_as_single: false
 key: stand-by-your-man-candi-staton
 lyrics_url: https://www.azlyrics.com/lyrics/candistaton/standbyyourman.html
 name: Stand By Your Man
@@ -63,8 +66,9 @@ rankings:
   rank: 37
   ranking_list: Billboard Hot 100
   start_date: '1970-11-28'
+release_year: 1970
+runtime: 178280
 ---
-
 Sometimes it's hard to be a woman
 Giving all your love to just one man
 Oh, yeah, you'll have bad times
@@ -101,6 +105,3 @@ Stand by your man and show
 Show the world you love him
 He's giving you
 All the love you can, yeah
-
-
-

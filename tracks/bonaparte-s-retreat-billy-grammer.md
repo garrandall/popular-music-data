@@ -1,8 +1,11 @@
 ---
+album: 'Gotta Travel On: The Very Best Of Billy Grammar'
 artists:
 - Billy Grammer
+external_ids:
+  spotify: spotify:track:1tVdfp2kNy5z7Asut0g1uP
 features: []
-genres: []
+first_released_as_single: false
 key: bonaparte-s-retreat-billy-grammer
 name: Bonaparte's Retreat
 rankings:
@@ -42,5 +45,7 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1959-06-08'
+release_year: 1959
+runtime: 126413
 ---
 

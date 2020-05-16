@@ -1,10 +1,13 @@
 ---
+album: SremmLife
 artists:
 - Rae Sremmurd
+external_ids:
+  spotify: spotify:track:5uqphUYsR45kPYplrYSAQh
 features:
 - Nicki Minaj
 - Young Thug
-genres: []
+first_released_as_single: false
 key: throw-sum-mo-rae-sremmurd-nicki-minaj-young-thug
 lyrics_url: https://www.azlyrics.com/lyrics/raesremmurd/throwsummo.html
 name: Throw Sum Mo
@@ -89,9 +92,9 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '2015-05-30'
+release_year: 2015
+runtime: 260453
 ---
-
- 
 Ass fat, yea I know
 You just got cash, blow some mo'
 Blow some mo', blow some mo'
@@ -176,6 +179,3 @@ Bad bitches, on the floor, its rainin hunnids
 Throw some mo', throw some mo'
 Throw some mo', throw some mo'
 Throw some mo'
-
-
-

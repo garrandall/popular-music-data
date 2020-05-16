@@ -1,8 +1,11 @@
 ---
+album: Juice Newton's Greatest Hits
 artists:
 - Juice Newton
+external_ids:
+  spotify: spotify:track:3slY9zt6oUOPDaUwRfgqzH
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-a-heartache-juice-newton
 lyrics_url: https://www.azlyrics.com/lyrics/juicenewton/itsaheartache.html
 name: It's A Heartache
@@ -19,8 +22,9 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1978-04-22'
+release_year: 1978
+runtime: 210640
 ---
-
 It's a heartache
 Nothin' but a heartache
 Hit you when its too late
@@ -53,6 +57,3 @@ It's a fool's game
 Nothin' but a fool's game
 Standing in the cold rain
 Feelin' like a clown
-
-
-

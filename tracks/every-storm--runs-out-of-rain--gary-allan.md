@@ -1,8 +1,11 @@
 ---
+album: Set You Free
 artists:
 - Gary Allan
+external_ids:
+  spotify: spotify:track:6hIS1u7nuJmFE12rXAPMxm
 features: []
-genres: []
+first_released_as_single: true
 key: every-storm--runs-out-of-rain--gary-allan
 lyrics_url: https://www.azlyrics.com/lyrics/garyallan/everystormrunsoutofrain.html
 name: Every Storm (Runs Out Of Rain)
@@ -87,8 +90,9 @@ rankings:
   rank: 52
   ranking_list: Billboard Hot 100
   start_date: '2013-03-02'
+release_year: 2012
+runtime: 226080
 ---
-
 Oh so you're standing in the middle of the thunder and lightning
 I know you're feeling like you just can't win, but you're trying
 It's hard to keep on keepin' on, when you're being pushed around
@@ -130,6 +134,3 @@ Just like every storm runs, runs out of rain
 It's gonna set you free
 It's gonna run out of pain
 And set you free
-
-
-

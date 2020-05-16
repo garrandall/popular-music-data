@@ -1,8 +1,11 @@
 ---
+album: The MGM Singles
 artists:
 - Sam The Sham and the Pharaohs
+external_ids:
+  spotify: spotify:track:3vgrUgkFdvrdbwmlCVpcAc
 features: []
-genres: []
+first_released_as_single: false
 key: the-hair-on-my-chinny-chin-chin-sam-the-sham-and-the-pharaohs
 lyrics_url: https://genius.com/Sam-the-sham-and-the-pharaohs-the-hair-on-my-chinny-chin-chin-lyrics
 name: The Hair On My Chinny Chin Chin
@@ -39,6 +42,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1966-11-19'
+release_year: 1966
+runtime: 156666
 ---
 Who's there? Howl, it's me again
 I'll huff and puff and blow your little house down

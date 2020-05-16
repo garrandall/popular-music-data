@@ -1,8 +1,11 @@
 ---
+album: Injoy
 artists:
 - Bar-Kays
+external_ids:
+  spotify: spotify:track:1ib74Y6PJY5heGJJKq2tvd
 features: []
-genres: []
+first_released_as_single: false
 key: today-is-the-day-bar-kays
 lyrics_url: https://genius.com/The-bar-kays-today-is-the-day-lyrics
 name: Today Is The Day
@@ -27,6 +30,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1980-04-19'
+release_year: 1979
+runtime: 192106
 ---
 Today is the day
 We'll both be walking away

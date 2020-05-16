@@ -1,8 +1,11 @@
 ---
+album: Little Bit Of Life
 artists:
 - Craig Morgan
+external_ids:
+  spotify: spotify:track:0Ta3jOf8m9yCSWMVwd8Qlf
 features: []
-genres: []
+first_released_as_single: false
 key: international-harvester-craig-morgan
 lyrics_url: https://www.azlyrics.com/lyrics/craigmorgan/internationalharvester.html
 name: International Harvester
@@ -79,8 +82,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2008-04-12'
+release_year: 2006
+runtime: 228653
 ---
-
 I'm the son of a third generation farmer
 I've been married 10 years to the farmer's daughter
 I'm a God fearing hardworking combine driver
@@ -136,6 +140,3 @@ I'm a God fearing hardworking combine driver
 Hogging up the road on my p-p-p-p-plower
 Chug-a-lug-a-lugin 5 miles an hour
 On my International Harvester.
-
-
-

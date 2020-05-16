@@ -1,8 +1,11 @@
 ---
+album: Sweetheart
 artists:
 - Engelbert Humperdinck
+external_ids:
+  spotify: spotify:track:6zm0XoxnzzdFeXeYGE8gFh
 features: []
-genres: []
+first_released_as_single: false
 key: sweetheart-engelbert-humperdinck
 lyrics_url: https://www.azlyrics.com/lyrics/engelberthumperdinck/sweetheart.html
 name: Sweetheart
@@ -51,8 +54,9 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '1970-12-05'
+release_year: 1970
+runtime: 183613
 ---
-
 If your heart tells you so, that you should leave me
 Don't try to forget, you and I never met
 And before you fly, why can't you tell me why
@@ -79,6 +83,3 @@ Long as I've got this life I'm living
 Long as it's you, the love I'm with then
 I'll keep on callin' you sweetheart
 And I'll keep on callin' you sweetheart
-
-
-

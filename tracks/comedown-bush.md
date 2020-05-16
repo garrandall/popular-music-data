@@ -1,8 +1,11 @@
 ---
+album: Zen X Four
 artists:
 - Bush
+external_ids:
+  spotify: spotify:track:7oFWuwklVmgXC3dXDE7Y8x
 features: []
-genres: []
+first_released_as_single: false
 key: comedown-bush
 lyrics_url: https://www.azlyrics.com/lyrics/bush/comedown.html
 name: Comedown
@@ -87,8 +90,9 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1996-01-13'
+release_year: 1995
+runtime: 309160
 ---
-
 Love and hate get it wrong
 She cut me right back down to size
 Sleep the day
@@ -156,6 +160,3 @@ Why did you
 Why did you come down
 I don't wanna come back down from this cloud
 This cloud, this cloud, this cloud, this cloud, this cloud, this cloud, this cloud, this cloud, this cloud
-
-
-

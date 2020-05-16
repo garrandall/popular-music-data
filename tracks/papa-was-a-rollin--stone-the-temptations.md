@@ -1,8 +1,11 @@
 ---
+album: All Directions
 artists:
 - The Temptations
+external_ids:
+  spotify: spotify:track:31NAADgOqGlBU70Xg1bdwQ
 features: []
-genres: []
+first_released_as_single: false
 key: papa-was-a-rollin--stone-the-temptations
 lyrics_url: https://www.azlyrics.com/lyrics/temptations/papawasarollinstone.html
 name: Papa Was A Rollin' Stone
@@ -71,8 +74,9 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '1973-01-27'
+release_year: 1972
+runtime: 704826
 ---
-
 It was the third of September
 That day I'll always remember,
 Yes, I will
@@ -135,6 +139,3 @@ And when he died, all he left us was alone
 My daddy was (papa was a rolling stone), yes, he was
 Wherever he laid his hat was his home
 And when he died, all he left us was alone."
-
-
-

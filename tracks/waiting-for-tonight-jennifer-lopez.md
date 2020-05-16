@@ -1,8 +1,11 @@
 ---
+album: On The 6
 artists:
 - Jennifer Lopez
+external_ids:
+  spotify: spotify:track:7o9eERfhnxR7d0THSbTW4t
 features: []
-genres: []
+first_released_as_single: false
 key: waiting-for-tonight-jennifer-lopez
 lyrics_url: https://www.azlyrics.com/lyrics/jenniferlopez/waitingfortonight.html
 name: Waiting For Tonight
@@ -87,8 +90,9 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '2000-02-26'
+release_year: 1998
+runtime: 245973
 ---
-
 Like a movie scene
 In the sweetest dreams
 I have pictured us together
@@ -127,4 +131,3 @@ On my empty heart all alone in my bed
 Tossing and turning
 Emotions were strong
 I knew I had to hold on
-

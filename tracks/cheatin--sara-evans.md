@@ -1,8 +1,11 @@
 ---
+album: Real Fine Place
 artists:
 - Sara Evans
+external_ids:
+  spotify: spotify:track:4xNEF6tGOHGcsvJ5r8hOJ0
 features: []
-genres: []
+first_released_as_single: false
 key: cheatin--sara-evans
 lyrics_url: https://www.azlyrics.com/lyrics/saraevans/cheatin.html
 name: Cheatin'
@@ -55,8 +58,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2006-04-15'
+release_year: 2005
+runtime: 205720
 ---
-
 You say your every day
 Is a bad dream that keeps repeatin'
 Maybe you should've thought about that
@@ -88,6 +92,3 @@ Oh, maybe you should've thought about that
 Maybe you should've thought about that
 When you were cheatin'
 When you were cheatin'
-
-
-

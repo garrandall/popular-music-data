@@ -1,8 +1,11 @@
 ---
+album: You Won' t Ever Be Lonely
 artists:
 - Andy Griggs
+external_ids:
+  spotify: spotify:track:0wfr8FjpLXIO1YjqEyVCg5
 features: []
-genres: []
+first_released_as_single: false
 key: you-won-t-ever-be-lonely-andy-griggs
 lyrics_url: https://genius.com/Andy-griggs-you-wont-ever-be-lonely-lyrics
 name: You Won't Ever Be Lonely
@@ -87,6 +90,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1999-08-07'
+release_year: 1999
+runtime: 210306
 ---
 Life may not always go your way
 And every once in a while you might have a bad day

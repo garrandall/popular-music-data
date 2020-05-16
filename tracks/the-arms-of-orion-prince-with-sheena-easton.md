@@ -1,7 +1,8 @@
 ---
 artists:
-- Prince With Sheena Easton
-features: []
+- Prince
+features:
+- Sheena Easton
 genres: []
 key: the-arms-of-orion-prince-with-sheena-easton
 name: The Arms Of Orion

@@ -1,8 +1,11 @@
 ---
+album: The West Coast Pop Art Experimental Band Companion
 artists:
 - Sonny Knight
+external_ids:
+  spotify: spotify:track:4ZUoxQRuDxESt8m6bSNDlp
 features: []
-genres: []
+first_released_as_single: false
 key: if-you-want-this-love-sonny-knight
 lyrics_url: https://www.musixmatch.com/lyrics/Sonny-Knight/If-You-Want-This-Love
 name: If You Want This Love
@@ -43,6 +46,8 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '1964-12-12'
+release_year: 1964
+runtime: 124413
 ---
 If you want this love of mine
 Treat me gentle, treat me kind

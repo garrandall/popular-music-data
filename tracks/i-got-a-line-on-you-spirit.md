@@ -1,8 +1,11 @@
 ---
+album: KSIW F.M. Live Broadcast
 artists:
 - Spirit
+external_ids:
+  spotify: spotify:track:1C8AGOR86YRBJOrf3DrFdC
 features: []
-genres: []
+first_released_as_single: false
 key: i-got-a-line-on-you-spirit
 lyrics_url: https://genius.com/Spirit-i-got-a-line-on-you-lyrics
 name: I Got A Line On You
@@ -55,6 +58,8 @@ rankings:
   rank: 35
   ranking_list: Billboard Hot 100
   start_date: '1969-04-05'
+release_year: 1969
+runtime: 254013
 ---
 Let me take you baby, down to the river bed
 Got to tell you somethin', go right to your head

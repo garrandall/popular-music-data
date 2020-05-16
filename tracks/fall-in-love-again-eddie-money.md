@@ -1,8 +1,11 @@
 ---
+album: Right Here
 artists:
 - Eddie Money
+external_ids:
+  spotify: spotify:track:64IH4PLNJJAEJLDv2L9mIK
 features: []
-genres: []
+first_released_as_single: false
 key: fall-in-love-again-eddie-money
 lyrics_url: https://www.azlyrics.com/lyrics/eddiemoney/fallinloveagain.html
 name: Fall In Love Again
@@ -51,8 +54,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1992-07-25'
+release_year: 1991
+runtime: 266626
 ---
-
 Lookin' for a brighter tomorrow
 Hopin' that the wind and rain is clear
 Layin' down by the river
@@ -96,6 +100,3 @@ I wanna fall in love again with you, with you
 I wanna fall in love again
 I just wanna fall in love again
 Yeah, yeah, yeah, ah, with you
-
-
-

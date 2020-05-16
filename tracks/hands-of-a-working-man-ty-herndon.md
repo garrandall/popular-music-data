@@ -1,8 +1,11 @@
 ---
+album: Big Hopes
 artists:
 - Ty Herndon
+external_ids:
+  spotify: spotify:track:4c1OG1SB1DHUx7nVtC50Wm
 features: []
-genres: []
+first_released_as_single: false
 key: hands-of-a-working-man-ty-herndon
 lyrics_url: https://www.azlyrics.com/lyrics/tyherndon/handsofaworkingman.html
 name: Hands Of A Working Man
@@ -63,8 +66,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1999-06-19'
+release_year: 1995
+runtime: 227666
 ---
-
 At the local diner just outside of town 
 He comes in an hour early just to beat the morning crowd 
 He stares out the window and stirs his coffee cup 
@@ -103,6 +107,3 @@ They don't have much, but he gets what they need
 With the hands of a working man 
 
 With the hands of a working man
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Good As Gold
 artists:
 - Red Rockers
+external_ids:
+  spotify: spotify:track:2ws33FRyUcuvDnNgz5VfwZ
 features: []
-genres: []
+first_released_as_single: false
 key: china-red-rockers
 lyrics_url: https://genius.com/Red-rockers-china-lyrics
 name: China
@@ -47,6 +50,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1983-08-06'
+release_year: 1983
+runtime: 241573
 ---
 Danced with wind and danced with fire
 Killed the truth and called the liar

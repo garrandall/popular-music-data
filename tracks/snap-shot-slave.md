@@ -1,8 +1,11 @@
 ---
+album: From The Archives
 artists:
 - Slave
+external_ids:
+  spotify: spotify:track:0zlLIQ5SgA65NBnEz5aUqU
 features: []
-genres: []
+first_released_as_single: false
 key: snap-shot-slave
 lyrics_url: https://genius.com/Slave-snap-shot-lyrics
 name: Snap Shot
@@ -35,6 +38,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1981-12-05'
+release_year: 1979
+runtime: 203546
 ---
 Ow, mmm, mmm, mmm
 Click-click-click-click

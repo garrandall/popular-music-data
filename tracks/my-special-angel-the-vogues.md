@@ -1,8 +1,11 @@
 ---
+album: Five O'clock World
 artists:
 - The Vogues
+external_ids:
+  spotify: spotify:track:6Le7D9hy65lguV7ct55LmZ
 features: []
-genres: []
+first_released_as_single: false
 key: my-special-angel-the-vogues
 lyrics_url: https://www.azlyrics.com/lyrics/vogues/myspecialangel.html
 name: My Special Angel
@@ -47,8 +50,9 @@ rankings:
   rank: 31
   ranking_list: Billboard Hot 100
   start_date: '1968-11-09'
+release_year: 1965
+runtime: 170716
 ---
-
 You are my special angel
 Sent from up above
 The lord smiled down on me
@@ -79,6 +83,3 @@ Here to watch over me
 Here to watch over me
 
 Angel, angel, angel
-
-
-

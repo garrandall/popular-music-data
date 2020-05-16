@@ -1,8 +1,11 @@
 ---
+album: You Can Tune a Piano, But You Can't Tuna Fish
 artists:
 - REO Speedwagon
+external_ids:
+  spotify: spotify:track:0cO7JEo8deKuQMWpDyjenY
 features: []
-genres: []
+first_released_as_single: false
 key: time-for-me-to-fly-reo-speedwagon
 lyrics_url: https://www.azlyrics.com/lyrics/reospeedwagon/timeformetofly.html
 name: Time For Me To Fly
@@ -59,8 +62,9 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1980-07-05'
+release_year: 1978
+runtime: 221386
 ---
-
 I've been around for you
 I've been up and down for you
 But I just can't get any relief
@@ -102,4 +106,3 @@ Oh, don't you know it's...
 
 
 It's time for me to fly
-

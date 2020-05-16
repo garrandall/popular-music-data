@@ -1,8 +1,11 @@
 ---
+album: Even Worse
 artists:
 - '"Weird Al" Yankovic'
+external_ids:
+  spotify: spotify:track:4is3oF4FlWmedh3TK6Ke7z
 features: []
-genres: []
+first_released_as_single: false
 key: fat--weird-al--yankovic
 lyrics_url: https://genius.com/Weird-al-yankovic-fat-lyrics
 name: Fat
@@ -15,6 +18,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1988-05-28'
+release_year: 1988
+runtime: 216066
 ---
 Your butt is wide, well mine is too
 Just watch your mouth or I'll sit on you

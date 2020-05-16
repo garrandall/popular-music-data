@@ -1,8 +1,11 @@
 ---
+album: What I Do Best
 artists:
 - John Michael Montgomery
+external_ids:
+  spotify: spotify:track:6Uip2hoUza0y5TkwQgDav2
 features: []
-genres: []
+first_released_as_single: false
 key: friends-john-michael-montgomery
 lyrics_url: https://www.azlyrics.com/lyrics/johnmichaelmontgomery/friends.html
 name: Friends
@@ -55,8 +58,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1997-03-15'
+release_year: 1996
+runtime: 234000
 ---
-
 You say you want to be friends
 That's a newly sharpened blade
 That's a dagger to the heart
@@ -108,6 +112,3 @@ Darling can't you see
 This is killing me
 We could never be 
 Just Friends
-
-
-

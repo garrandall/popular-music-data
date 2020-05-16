@@ -1,8 +1,11 @@
 ---
+album: Jagged Little Pill
 artists:
 - Alanis Morissette
+external_ids:
+  spotify: spotify:track:1d6KS9GH06JAd19uiBy9IE
 features: []
-genres: []
+first_released_as_single: false
 key: ironic-alanis-morissette
 lyrics_url: https://www.azlyrics.com/lyrics/alanismorissette/ironic.html
 name: Ironic
@@ -135,8 +138,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1996-10-19'
+release_year: 1995
+runtime: 230000
 ---
-
 An old man turned ninety-eight
 He won the lottery and died the next day
 It's a black fly in your Chardonnay
@@ -182,6 +186,3 @@ Who would've thought... it figures
 Life has a funny way of sneaking up on you
 Life has a funny, funny way of helping you out
 Helping you out
-
-
-

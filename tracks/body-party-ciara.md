@@ -1,8 +1,11 @@
 ---
+album: Ciara
 artists:
 - Ciara
+external_ids:
+  spotify: spotify:track:3S5DuSUFE78uNL2eu7scQX
 features: []
-genres: []
+first_released_as_single: true
 key: body-party-ciara
 lyrics_url: https://genius.com/Ciara-body-party-lyrics
 name: Body Party
@@ -87,6 +90,8 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '2013-09-21'
+release_year: 2013
+runtime: 438213
 ---
 Ohh, oh
 Ohh, oh

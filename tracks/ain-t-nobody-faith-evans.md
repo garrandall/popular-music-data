@@ -1,8 +1,11 @@
 ---
+album: Faith
 artists:
 - Faith Evans
+external_ids:
+  spotify: spotify:track:5NjCrQt8tkRGH42yONf3OQ
 features: []
-genres: []
+first_released_as_single: false
 key: ain-t-nobody-faith-evans
 lyrics_url: https://genius.com/Faith-evans-aint-nobody-lyrics
 name: Ain't Nobody
@@ -71,6 +74,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1996-07-27'
+release_year: 1995
+runtime: 312173
 ---
 Ain't nobody who can love me like you do
 Ain't no reason that I'll ever be untrue

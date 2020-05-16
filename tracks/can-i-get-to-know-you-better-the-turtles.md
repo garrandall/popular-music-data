@@ -1,8 +1,11 @@
 ---
+album: Wooden Head (Deluxe Version)
 artists:
 - The Turtles
+external_ids:
+  spotify: spotify:track:43HmgUbGfoPAFuvMggvfoC
 features: []
-genres: []
+first_released_as_single: false
 key: can-i-get-to-know-you-better-the-turtles
 lyrics_url: https://genius.com/The-turtles-can-i-get-to-know-you-better-lyrics
 name: Can I Get To Know You Better
@@ -27,6 +30,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1966-11-26'
+release_year: 1966
+runtime: 157952
 ---
 Everybody says "Be strong" but I just can't take it
 Every time I look at you, I feel funny inside, yeah

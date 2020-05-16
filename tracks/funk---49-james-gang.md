@@ -1,8 +1,11 @@
 ---
+album: Rides Again
 artists:
 - James Gang
+external_ids:
+  spotify: spotify:track:5h6SovHOYpIMlAkafxcbq3
 features: []
-genres: []
+first_released_as_single: false
 key: funk---49-james-gang
 lyrics_url: https://genius.com/James-gang-band-funk-49-lyrics
 name: 'Funk # 49'
@@ -47,6 +50,8 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1970-10-31'
+release_year: 1970
+runtime: 246293
 ---
 I sleep all day, out all night
 I know where you're goin'

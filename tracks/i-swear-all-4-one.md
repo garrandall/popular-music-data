@@ -1,8 +1,11 @@
 ---
+album: All-4-One
 artists:
 - All-4-One
+external_ids:
+  spotify: spotify:track:4WUnM4KNZ0kjp0CUeoyOnS
 features: []
-genres: []
+first_released_as_single: false
 key: i-swear-all-4-one
 lyrics_url: https://genius.com/All-4-one-i-swear-lyrics
 name: I Swear
@@ -127,6 +130,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1994-11-12'
+release_year: 1994
+runtime: 259853
 ---
 I swear by the moon
 And the stars in the sky

@@ -1,8 +1,11 @@
 ---
+album: Barrio Fino En Directo
 artists:
 - Daddy Yankee
+external_ids:
+  spotify: spotify:track:4Xtlw8oXkIOvzV7crUBKeZ
 features: []
-genres: []
+first_released_as_single: false
 key: rompe-daddy-yankee
 lyrics_url: https://genius.com/Daddy-yankee-rompe-lyrics
 name: Rompe
@@ -119,6 +122,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '2006-06-10'
+release_year: 2005
+runtime: 188626
 ---
 You know
 Los capos están ready

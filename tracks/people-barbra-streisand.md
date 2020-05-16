@@ -1,8 +1,11 @@
 ---
+album: People
 artists:
 - Barbra Streisand
+external_ids:
+  spotify: spotify:track:5utYYyUPnf3ayrh9JeM7Y2
 features: []
-genres: []
+first_released_as_single: false
 key: people-barbra-streisand
 lyrics_url: https://genius.com/Barbra-streisand-two-people-lyrics
 name: People
@@ -83,6 +86,8 @@ rankings:
   rank: 36
   ranking_list: Billboard Hot 100
   start_date: '1964-08-08'
+release_year: 1964
+runtime: 220133
 ---
 Two people
 Like two children

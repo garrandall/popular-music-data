@@ -1,8 +1,11 @@
 ---
+album: By The Time I Get To Phoenix
 artists:
 - Glen Campbell
+external_ids:
+  spotify: spotify:track:1tZKsxgKebVQX9s6oiojG9
 features: []
-genres: []
+first_released_as_single: false
 key: by-the-time-i-get-to-phoenix-glen-campbell
 lyrics_url: https://www.azlyrics.com/lyrics/glencampbell/bythetimeigettophoenix.html
 name: By The Time I Get To Phoenix
@@ -51,8 +54,9 @@ rankings:
   rank: 36
   ranking_list: Billboard Hot 100
   start_date: '1968-01-06'
+release_year: 1967
+runtime: 164200
 ---
-
 By the time I get to Phoenix
 She'll be rising
 She'll find the note I left hanging on her door
@@ -73,6 +77,3 @@ And she'll cry, just to think, I'd really leave her
 Though time and time I've tried to tell her so
 She just didn't know,
 I would really go
-
-
-

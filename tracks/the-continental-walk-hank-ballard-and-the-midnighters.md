@@ -1,8 +1,11 @@
 ---
+album: All 20 Of Their Chart Hits 1953-1962
 artists:
 - Hank Ballard And The Midnighters
+external_ids:
+  spotify: spotify:track:12va5dqzKOAO7kBLXD4m9g
 features: []
-genres: []
+first_released_as_single: false
 key: the-continental-walk-hank-ballard-and-the-midnighters
 lyrics_url: https://genius.com/Hank-ballard-and-the-midnighters-the-continental-walk-lyrics
 name: The Continental Walk
@@ -39,6 +42,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1961-05-22'
+release_year: 1961
+runtime: 222733
 ---
 You've seen the new look
 And you've heard the new sound

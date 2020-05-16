@@ -1,8 +1,11 @@
 ---
+album: BRINGING BACK THE SUNSHINE
 artists:
 - Blake Shelton
+external_ids:
+  spotify: spotify:track:0p1HtkrNYxv0iDfEKwXSTp
 features: []
-genres: []
+first_released_as_single: false
 key: sangria-blake-shelton
 lyrics_url: https://www.azlyrics.com/lyrics/blakeshelton/sangria.html
 name: Sangria
@@ -87,8 +90,9 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '2015-09-12'
+release_year: 2014
+runtime: 233480
 ---
-
 You're crashing into me like waves on the coast
 Every time we talk, you move in close
 I don't want you to stop, I don't want you to stop tonight
@@ -123,6 +127,3 @@ Oh
 
 Only thing I wanna do tonight is drink you like a Spanish wine
 Let you let this head of mine keep spinning, spinning around
-
-
-

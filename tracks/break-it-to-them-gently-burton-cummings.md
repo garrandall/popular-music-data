@@ -1,8 +1,11 @@
 ---
+album: Dream Of A Child
 artists:
 - Burton Cummings
+external_ids:
+  spotify: spotify:track:4KxzOViQQbZpPa7WukYiIx
 features: []
-genres: []
+first_released_as_single: false
 key: break-it-to-them-gently-burton-cummings
 lyrics_url: https://genius.com/Burton-cummings-break-it-to-them-gently-lyrics
 name: Break It To Them Gently
@@ -27,6 +30,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1978-08-12'
+release_year: 1978
+runtime: 274666
 ---
 Break it to them gently when you tell my mom and dad
 When you see my baby sister, be as kind as you can

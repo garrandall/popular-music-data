@@ -1,8 +1,11 @@
 ---
+album: Tha Carter V
 artists:
 - Lil Wayne
+external_ids:
+  spotify: spotify:track:4Y8fsoUU6zoLdXm2Y45fCM
 features: []
-genres: []
+first_released_as_single: false
 key: hittas-lil-wayne
 lyrics_url: https://www.azlyrics.com/lyrics/lilwayne/hittas.html
 name: Hittas
@@ -11,9 +14,9 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '2018-10-13'
+release_year: 2018
+runtime: 223617
 ---
-
-
 Is it true you performed with Willie Nelson at the Country Music Awards?
 
 I don't know, but I know I did perform at this bad ass bitch birthday party recently. She's crazy stupid thick
@@ -101,6 +104,3 @@ Don't get hit up, woadie
 
 
 He's a very small child. And I just said he was a genius, you know what I'm sayin'? Which I used to pray, and ask the Lord to send me one. You know, he did. He's so smart, I can't teach him nothin'. He's done been here before
-
-
-

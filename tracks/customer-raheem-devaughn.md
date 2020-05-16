@@ -1,8 +1,11 @@
 ---
+album: Love Behind The Melody
 artists:
 - Raheem DeVaughn
+external_ids:
+  spotify: spotify:track:53jRsWKTzlzOvnhsPrcs8m
 features: []
-genres: []
+first_released_as_single: false
 key: customer-raheem-devaughn
 lyrics_url: https://www.azlyrics.com/lyrics/raheemdevaughn/customer.html
 name: Customer
@@ -43,9 +46,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2008-06-21'
+release_year: 2004
+runtime: 244920
 ---
-
-
 Good morning, Good afternoon, Good evening, Welcome to Love's can I take your order?
 You can have it your way
 
@@ -124,4 +127,3 @@ See you can have it your way
 You're the costumer
 You can have me supersized with some lovin on the side
 Just ask for what you want cause you're the one, you're the costumer
-

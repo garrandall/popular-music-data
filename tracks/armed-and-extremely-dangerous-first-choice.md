@@ -1,8 +1,11 @@
 ---
+album: Philly Golden Classics
 artists:
 - First Choice
+external_ids:
+  spotify: spotify:track:0F9KxClUuGBVObV1CCITdJ
 features: []
-genres: []
+first_released_as_single: true
 key: armed-and-extremely-dangerous-first-choice
 lyrics_url: https://www.musixmatch.com/lyrics/First-Choice/Armed-and-Extremely-Dangerous
 name: Armed And Extremely Dangerous
@@ -63,6 +66,8 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1973-06-09'
+release_year: 1973
+runtime: 371029
 ---
 Calling all cars... calling all cars
 Be on the lookout for Dangerous Dan...

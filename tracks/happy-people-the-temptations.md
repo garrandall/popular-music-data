@@ -1,8 +1,11 @@
 ---
+album: A Song For You
 artists:
 - The Temptations
+external_ids:
+  spotify: spotify:track:6dokyiv4HEy6WWxQCQcOkA
 features: []
-genres: []
+first_released_as_single: false
 key: happy-people-the-temptations
 lyrics_url: https://www.azlyrics.com/lyrics/temptations/happypeople.html
 name: Happy People
@@ -47,8 +50,9 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '1975-02-22'
+release_year: 1974
+runtime: 216466
 ---
-
 Get up
 Everybody
 Happy people (I'm feeling good) are we (Well)
@@ -116,6 +120,3 @@ Happy
 Get on up, get on up, let's hear it
 Happy
 Well, well, well, well
-
-
-

@@ -1,9 +1,12 @@
 ---
+album: Crunk Rock
 artists:
 - Lil Jon
+external_ids:
+  spotify: spotify:track:1Oenqmtbzt331Pgv0ODfS2
 features:
 - LMFAO
-genres: []
+first_released_as_single: false
 key: outta-your-mind-lil-jon-lmfao
 lyrics_url: https://www.azlyrics.com/lyrics/liljon/outtayourmind.html
 name: Outta Your Mind
@@ -12,9 +15,9 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '2010-07-17'
+release_year: 2010
+runtime: 250746
 ---
-
-
 YEAAAHHHH!
 Everybody in the club right now (wassup)
 If you're standing around (what) you need to get the fuck up outta here (get out!)
@@ -91,6 +94,3 @@ Get outta your mind, get outta your mind (what), get outta your mind (what)
 Bump that shit, get outta your mind (what)
 Get outta your mind (what), get outta your mind (what), get outta your mind (what)
 Bump that shit, get outta your mind (what)
-
-
-

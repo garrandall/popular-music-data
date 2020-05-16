@@ -1,8 +1,11 @@
 ---
+album: Boombastic
 artists:
 - Shaggy
+external_ids:
+  spotify: spotify:track:03cbNCaqNZIp6ciNMIDVVN
 features: []
-genres: []
+first_released_as_single: false
 key: boombastic-shaggy
 lyrics_url: https://www.azlyrics.com/lyrics/shaggy/boombastic.html
 name: Boombastic
@@ -123,8 +126,9 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1995-12-02'
+release_year: 1995
+runtime: 246826
 ---
-
 Mr. Boombastic
 What you want is some boombastic romantic fantastic lover
 Shaggy
@@ -243,6 +247,3 @@ She says I'm Mr. Boom
 
 What you say, girl?
 Smooth
-
-
-

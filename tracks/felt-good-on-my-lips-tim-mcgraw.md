@@ -1,8 +1,11 @@
 ---
+album: Karaoke Sing with your friends
 artists:
 - Tim McGraw
+external_ids:
+  spotify: spotify:track:2D2tn77f5ZrADmf8h4zR3t
 features: []
-genres: []
+first_released_as_single: false
 key: felt-good-on-my-lips-tim-mcgraw
 lyrics_url: https://genius.com/Tim-mcgraw-felt-good-on-my-lips-lyrics
 name: Felt Good On My Lips
@@ -87,6 +90,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '2011-04-02'
+release_year: 2010
+runtime: 277400
 ---
 Said her name was a hand me down name
 From the side of a family that long ago came

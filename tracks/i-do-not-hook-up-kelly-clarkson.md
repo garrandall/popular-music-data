@@ -1,8 +1,11 @@
 ---
+album: All I Ever Wanted
 artists:
 - Kelly Clarkson
+external_ids:
+  spotify: spotify:track:2I5CPUnMIKjEXeg61OI9uV
 features: []
-genres: []
+first_released_as_single: false
 key: i-do-not-hook-up-kelly-clarkson
 lyrics_url: https://www.azlyrics.com/lyrics/kellyclarkson/idonothookup.html
 name: I Do Not Hook Up
@@ -79,9 +82,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2009-08-29'
+release_year: 2009
+runtime: 199273
 ---
-
-
 Oh sweetheart, put the bottle down
 You've got too much talent
 I see you through those bloodshot eyes
@@ -146,6 +149,3 @@ To say... Goodnight
 
 Oh sweetheart put the bottle down
 'Cause you don't wanna miss out
-
-
-

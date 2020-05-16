@@ -1,8 +1,11 @@
 ---
+album: 'Legacy: The Greatest Hits Collection'
 artists:
 - Shawn Stockman
+external_ids:
+  spotify: spotify:track:6lQREztig1UKUHeyQhw7As
 features: []
-genres: []
+first_released_as_single: false
 key: visions-of-a-sunset-shawn-stockman
 lyrics_url: https://genius.com/Shawn-stockman-visions-of-a-sunset-lyrics
 name: Visions Of A Sunset
@@ -67,6 +70,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1996-04-20'
+release_year: 1996
+runtime: 271600
 ---
 Oh, yeah
 

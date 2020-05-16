@@ -1,8 +1,11 @@
 ---
+album: Cocker
 artists:
 - Joe Cocker
+external_ids:
+  spotify: spotify:track:04EzT8BXdqdgQjwsIA8kTt
 features: []
-genres: []
+first_released_as_single: false
 key: shelter-me-joe-cocker
 lyrics_url: https://www.azlyrics.com/lyrics/joecocker/shelterme.html
 name: Shelter Me
@@ -23,8 +26,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1986-03-29'
+release_year: 1986
+runtime: 340906
 ---
-
 This ain't no place for losers
 Or the innocent of mind
 It's a full time job for anyone
@@ -65,6 +69,3 @@ I think of you, I think of you
 Shelter me, baby shelter me
 When I lose control or my way home
 Shelter me
-
-
-

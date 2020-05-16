@@ -1,8 +1,11 @@
 ---
+album: Sold Out at Carnegie Hall.
 artists:
 - Rod McKuen
+external_ids:
+  spotify: spotify:track:7lCWgsUtyWfkxFqyFijbOe
 features: []
-genres: []
+first_released_as_single: false
 key: oliver-twist-rod-mckuen
 lyrics_url: https://www.musixmatch.com/lyrics/Rod-McKuen/Oliver-Twist
 name: Oliver Twist
@@ -31,6 +34,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1962-03-03'
+release_year: 1962
+runtime: 122546
 ---
 O-L-I-V-E-R
 Oliver twist yeah

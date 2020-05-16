@@ -1,8 +1,11 @@
 ---
+album: Go West
 artists:
 - Village People
+external_ids:
+  spotify: spotify:track:5v67uga7IFT3FQhDDBgaY8
 features: []
-genres: []
+first_released_as_single: false
 key: go-west-village-people
 lyrics_url: https://www.azlyrics.com/lyrics/villagepeople/gowest.html
 name: Go West
@@ -43,8 +46,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1979-07-21'
+release_year: 1979
+runtime: 251466
 ---
-
 Heyhey
 well well well well
 yeah
@@ -121,6 +125,3 @@ yeah
 (Go west) you begin life new
 (Go west) this is what will do
 (Go west) life is peaceful there
-
-
-

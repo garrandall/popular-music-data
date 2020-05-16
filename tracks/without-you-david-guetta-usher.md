@@ -1,9 +1,12 @@
 ---
+album: Nothing but the Beat 2.0
 artists:
 - David Guetta
+external_ids:
+  spotify: spotify:track:1tAutlhI9FwnKn7fVgmd5P
 features:
 - Usher
-genres: []
+first_released_as_single: false
 key: without-you-david-guetta-usher
 lyrics_url: https://www.azlyrics.com/lyrics/davidguetta/withoutyou.html
 name: Without You
@@ -128,8 +131,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2012-04-07'
+release_year: 2011
+runtime: 208133
 ---
-
 I can't win, I can't reign
 I will never win this game
 Without you, without you
@@ -174,6 +178,3 @@ I am lost, I am vain
 I will never be the same
 Without you, without you
 Without... you
-
-
-

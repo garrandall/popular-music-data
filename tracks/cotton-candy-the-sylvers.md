@@ -1,8 +1,11 @@
 ---
+album: Showcase
 artists:
 - The Sylvers
+external_ids:
+  spotify: spotify:track:56GFKdXSeQBvX0Mv6wWTdc
 features: []
-genres: []
+first_released_as_single: false
 key: cotton-candy-the-sylvers
 lyrics_url: https://genius.com/The-sylvers-cotton-candy-lyrics
 name: Cotton Candy
@@ -35,6 +38,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1976-08-07'
+release_year: 1975
+runtime: 181986
 ---
 Hoo...hoo...
 
@@ -60,7 +65,6 @@ You came straight from Mother Nature's oven
 Bringin' me that red hot lovin'
 
 Shooby doo wop
-Lyrics courtesy Top40db
 Shooby doo wop
 Shooby doo wop
 Shooby doo wop shoo bop bop shoo bop

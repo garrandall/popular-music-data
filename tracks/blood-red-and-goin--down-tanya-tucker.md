@@ -1,8 +1,11 @@
 ---
+album: Tanya Tucker / Super Hits
 artists:
 - Tanya Tucker
+external_ids:
+  spotify: spotify:track:28OATvjdTNgR27ww14APCL
 features: []
-genres: []
+first_released_as_single: false
 key: blood-red-and-goin--down-tanya-tucker
 lyrics_url: https://www.azlyrics.com/lyrics/tanyatucker/bloodredandgoindown.html
 name: Blood Red And Goin' Down
@@ -43,8 +46,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1973-10-20'
+release_year: 1972
+runtime: 181693
 ---
-
 That Georgia sun was blood red and goin' down
 That Georgia sun was blood red and goin' down
 
@@ -88,6 +92,3 @@ That Georgia sun was blood red and goin' down
 That Georgia sun was blood red and goin' down
 That Georgia sun was blood red and goin' down
 That Georgia sun was blood red and goin' down
-
-
-

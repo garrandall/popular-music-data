@@ -1,8 +1,11 @@
 ---
+album: Dumb Love EP
 artists:
 - Sean Kingston
+external_ids:
+  spotify: spotify:track:7BGkpHiIqGGA8B9rRPf5VL
 features: []
-genres: []
+first_released_as_single: true
 key: dumb-love-sean-kingston
 lyrics_url: https://www.azlyrics.com/lyrics/seankingston/dumblove.html
 name: Dumb Love
@@ -11,8 +14,9 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '2010-09-25'
+release_year: 2010
+runtime: 186773
 ---
-
 Girl you make me
 Dumb, dumb, dumb, dumb
 Dumb, dum bee dum, dumb
@@ -108,6 +112,3 @@ I love you so
 Dumb, dumb, dumb, dumb
 Dumb, dum bee dum, dumb
 Wha, wha, why
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: A Place Like This
 artists:
 - Robbie Nevil
+external_ids:
+  spotify: spotify:track:2UFxJ5dvehNLPv8GEBu9lK
 features: []
-genres: []
+first_released_as_single: false
 key: back-on-holiday-robbie-nevil
 lyrics_url: https://genius.com/Robbie-nevil-back-on-holiday-lyrics
 name: Back On Holiday
@@ -63,6 +66,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1989-02-11'
+release_year: 1988
+runtime: 239626
 ---
 It's quarter to nine
 So tired I can barely move

@@ -1,8 +1,11 @@
 ---
+album: Ol' Blue Eyes Is Back
 artists:
 - Frank Sinatra
+external_ids:
+  spotify: spotify:track:3unwkk28BubxXKFNzVGHMY
 features: []
-genres: []
+first_released_as_single: false
 key: let-me-try-again--laisse-moi-le-temps--frank-sinatra
 lyrics_url: https://genius.com/Frank-sinatra-let-me-try-again-lyrics
 name: Let Me Try Again (Laisse Moi Le Temps)
@@ -47,6 +50,8 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '1974-01-12'
+release_year: 1973
+runtime: 211066
 ---
 I know I said that I was leaving
 But I just, couldn't say goodbye

@@ -1,8 +1,11 @@
 ---
+album: Crazy World
 artists:
 - Scorpions
+external_ids:
+  spotify: spotify:track:1bKQ48M9onID2kbSpRy8kK
 features: []
-genres: []
+first_released_as_single: false
 key: send-me-an-angel-scorpions
 lyrics_url: https://www.azlyrics.com/lyrics/scorpions/sendmeanangel.html
 name: Send Me An Angel
@@ -79,8 +82,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1992-03-07'
+release_year: 1990
+runtime: 273333
 ---
-
 The wise man said just walk this way
 To the dawn of the light
 The wind will blow into your face
@@ -121,6 +125,3 @@ Here I am
 Will you send me an angel?
 Here I am
 In the land of the morning star
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: My World 2.0
 artists:
 - Justin Bieber
+external_ids:
+  spotify: spotify:track:0aPZbnkMoWJaJ5CNVLCj8S
 features: []
-genres: []
+first_released_as_single: false
 key: that-should-be-me-justin-bieber
 lyrics_url: https://genius.com/Justin-bieber-that-should-be-me-lyrics
 name: That Should Be Me
@@ -11,6 +14,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2010-04-10'
+release_year: 2010
+runtime: 232720
 ---
 Everybody's laughing in my mind
 Rumours spreading 'bout this other guy

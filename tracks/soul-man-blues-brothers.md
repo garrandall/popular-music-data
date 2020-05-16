@@ -1,8 +1,11 @@
 ---
+album: Briefcase Full Of Blues
 artists:
 - Blues Brothers
+external_ids:
+  spotify: spotify:track:5z2F9FkKdhd9HOSTI1GxRq
 features: []
-genres: []
+first_released_as_single: false
 key: soul-man-blues-brothers
 lyrics_url: https://genius.com/The-blues-brothers-soul-man-lyrics
 name: Soul Man
@@ -67,6 +70,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1979-03-17'
+release_year: 1978
+runtime: 180973
 ---
 Comin' to ya on a dusty road
 Good lovin' I got a truck load

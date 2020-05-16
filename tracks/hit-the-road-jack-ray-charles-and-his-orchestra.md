@@ -1,8 +1,11 @@
 ---
+album: Zou bisou bisou
 artists:
 - Ray Charles
+external_ids:
+  spotify: spotify:track:5yQFVCQkupKqTJecbXA7qT
 features: []
-genres: []
+first_released_as_single: false
 key: hit-the-road-jack-ray-charles-and-his-orchestra
 lyrics_url: https://genius.com/Ray-charles-hit-the-road-jack-lyrics
 name: Hit The Road Jack
@@ -59,6 +62,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1961-12-04'
+release_year: 1961
+runtime: 119986
 ---
 Hit the road Jack and don't cha come back
 No more no more no more no more

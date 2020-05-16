@@ -1,8 +1,11 @@
 ---
+album: The Hunter
 artists:
 - Blondie
+external_ids:
+  spotify: spotify:track:6zpOOolgl41YcyyQfbykpR
 features: []
-genres: []
+first_released_as_single: true
 key: island-of-lost-souls-blondie
 lyrics_url: https://www.azlyrics.com/lyrics/blondie/islandoflostsouls.html
 name: Island Of Lost Souls
@@ -47,8 +50,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1982-07-31'
+release_year: 1982
+runtime: 230120
 ---
-
 In Babylon
 On the boulevard of broken dreams
 My will power at the lowest ebb
@@ -99,6 +103,3 @@ Hey hey really get away
 Island of Lost Souls
 
 Ayya ayya ayya Island of Lost Souls
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: After The Rain
 artists:
 - Nelson
+external_ids:
+  spotify: spotify:track:3VWGHiQO7fArciqoKB2DSx
 features: []
-genres: []
+first_released_as_single: false
 key: after-the-rain-nelson
 lyrics_url: https://genius.com/Nelson-after-the-rain-lyrics
 name: After The Rain
@@ -95,6 +98,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1991-03-30'
+release_year: 1990
+runtime: 245862
 ---
 Look in the mirror, girl
 By now you should know

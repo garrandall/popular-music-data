@@ -1,8 +1,11 @@
 ---
+album: Heartbreak on a Full Moon
 artists:
 - Chris Brown
+external_ids:
+  spotify: spotify:track:2aqhLQPpS7XsCVmP4iSpyE
 features: []
-genres: []
+first_released_as_single: true
 key: tempo-chris-brown
 lyrics_url: https://www.azlyrics.com/lyrics/chrisbrown/tempo.html
 name: Tempo
@@ -23,8 +26,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2018-04-14'
+release_year: 2017
+runtime: 218744
 ---
-
 Baby, I'ma switch this shit up
 Fuck that older shit, yeah
 
@@ -103,6 +107,3 @@ Switch it up, switch it up, switch it up
 Switch it up, switch it up, switch it up
 Feel it, feel it
 Switch it up, hold up
-
-
-

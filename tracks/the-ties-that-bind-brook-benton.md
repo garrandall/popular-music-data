@@ -1,8 +1,11 @@
 ---
+album: 20 Greatest Hits
 artists:
 - Brook Benton
+external_ids:
+  spotify: spotify:track:4dyR6mXSLLtJ2WdHNlhwUS
 features: []
-genres: []
+first_released_as_single: false
 key: the-ties-that-bind-brook-benton
 lyrics_url: https://genius.com/Brook-benton-the-ties-that-bind-lyrics
 name: The Ties That Bind
@@ -43,6 +46,8 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '1960-06-06'
+release_year: 1960
+runtime: 145216
 ---
 Knowing you stand by me through good and bad
 Makes all the difference in my life

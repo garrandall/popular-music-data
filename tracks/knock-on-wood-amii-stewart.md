@@ -1,8 +1,11 @@
 ---
+album: 'Amii Stewart : Great Classics Revisited'
 artists:
 - Amii Stewart
+external_ids:
+  spotify: spotify:track:5a4mAjGoQDjVq6P0WdeUYi
 features: []
-genres: []
+first_released_as_single: true
 key: knock-on-wood-amii-stewart
 lyrics_url: https://www.musixmatch.com/lyrics/Amii-Stewart/Knock-on-Wood
 name: Knock On Wood
@@ -87,6 +90,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1979-06-09'
+release_year: 1979
+runtime: 225013
 ---
 I don't want to lose you
 This good thing, that I got

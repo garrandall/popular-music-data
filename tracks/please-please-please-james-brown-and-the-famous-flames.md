@@ -1,8 +1,12 @@
 ---
+album: '''Live'' At The Apollo (Vol. II)'
 artists:
-- James Brown And The Famous Flames
-features: []
-genres: []
+- James Brown
+external_ids:
+  spotify: spotify:track:2q5Y9D0LoO7MMqNQFd5Xye
+features:
+- The Famous Flames
+first_released_as_single: false
 key: please-please-please-james-brown-and-the-famous-flames
 lyrics_url: https://genius.com/James-brown-and-the-famous-flames-please-please-please-lyrics
 name: Please Please Please
@@ -15,6 +19,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1964-02-22'
+release_year: 1964
+runtime: 161466
 ---
 Please, please, please, please (Please, please don't go)
 Please, please, please (Please, please don't go)

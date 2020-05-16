@@ -1,8 +1,11 @@
 ---
+album: All the Hits and More
 artists:
 - Shep And The Limelites
+external_ids:
+  spotify: spotify:track:6I8nJjLHtnL2VunrxUUyDE
 features: []
-genres: []
+first_released_as_single: false
 key: ready-for-your-love-shep-and-the-limelites
 lyrics_url: https://www.musixmatch.com/lyrics/Shep-and-the-Limelites/Ready-for-Your-Love
 name: Ready For Your Love
@@ -27,6 +30,8 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '1961-08-07'
+release_year: 1961
+runtime: 167333
 ---
 All I do is think about you baby
 Every mornin', every night

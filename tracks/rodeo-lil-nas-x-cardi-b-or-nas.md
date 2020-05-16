@@ -1,8 +1,13 @@
 ---
+album: 7 EP
 artists:
 - Lil Nas X
-- Cardi B Or Nas
+- Cardi B
+- Nas
+external_ids:
+  spotify: spotify:track:4ak7xjvBeBOcJGWFDX9w5n
 features: []
+first_released_as_single: true
 genres: []
 key: rodeo-lil-nas-x-cardi-b-or-nas
 lyrics_url: https://www.azlyrics.com/lyrics/lilnasx/rodeo.html
@@ -44,8 +49,9 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '2020-02-22'
+release_year: 2019
+runtime: 158706
 ---
-
 (Day trip took it to 10 (Hey))
 
 Oh, here we go
@@ -125,6 +131,3 @@ I thought you would stay with me
 I'm yours and you're mine I envy
 So what I'm gonna do?
 I don't have a clue about me without you
-
-
-

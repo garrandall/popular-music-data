@@ -1,8 +1,11 @@
 ---
+album: I Know
 artists:
 - Barbara George
+external_ids:
+  spotify: spotify:track:4IZBzpxPNFmKP7I6D3qVH6
 features: []
-genres: []
+first_released_as_single: false
 key: i-know--you-don-t-love-me-no-more--barbara-george
 lyrics_url: https://genius.com/Barbara-george-i-know-lyrics
 name: I Know (You Don't Love Me No More)
@@ -83,6 +86,8 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '1962-03-24'
+release_year: 1961
+runtime: 144933
 ---
 I know, you don't love me no more
 (I know)

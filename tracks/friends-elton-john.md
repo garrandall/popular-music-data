@@ -1,8 +1,11 @@
 ---
+album: Rare Masters
 artists:
 - Elton John
+external_ids:
+  spotify: spotify:track:0v76A4FVc6OYkhwJXA3xVc
 features: []
-genres: []
+first_released_as_single: false
 key: friends-elton-john
 lyrics_url: https://genius.com/Elton-john-friends-lyrics
 name: Friends
@@ -43,6 +46,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1971-05-15'
+release_year: 1971
+runtime: 144333
 ---
 I hope the day will be a lighter highway
 For friends are found on every road

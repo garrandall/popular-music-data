@@ -1,8 +1,11 @@
 ---
+album: Baby Call On Me
 artists:
 - Wilson Pickett
+external_ids:
+  spotify: spotify:track:0eWa22YmeI7G8crySg2E7D
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-down-to-my-last-heartbreak-wilson-pickett
 name: I'm Down To My Last Heartbreak
 rankings:
@@ -22,5 +25,7 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1963-12-07'
+release_year: 1963
+runtime: 155536
 ---
 

@@ -1,8 +1,11 @@
 ---
+album: Essential
 artists:
 - Kim Carnes
+external_ids:
+  spotify: spotify:track:69giSyXuflQcEoR8OpWQ36
 features: []
-genres: []
+first_released_as_single: false
 key: invitation-to-dance-kim-carnes
 lyrics_url: https://www.azlyrics.com/lyrics/kimcarnes/invitationtodance.html
 name: Invitation To Dance
@@ -31,8 +34,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1985-02-23'
+release_year: 1985
+runtime: 219346
 ---
-
 Invitation to dance
 Invitation to romance
 Invitation to dance
@@ -170,6 +174,3 @@ Give in to the beat
 Go with the motion again
 
 Hot on the rhythm
-
-
-

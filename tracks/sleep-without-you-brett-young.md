@@ -1,8 +1,11 @@
 ---
+album: Brett Young (Big Machine Radio Release Special)
 artists:
 - Brett Young
+external_ids:
+  spotify: spotify:track:7Ad0OLsUn63FoD4gnguZz5
 features: []
-genres: []
+first_released_as_single: false
 key: sleep-without-you-brett-young
 lyrics_url: https://www.azlyrics.com/lyrics/brettyoung/sleepwithoutyou.html
 name: Sleep Without You
@@ -79,8 +82,9 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '2017-01-28'
+release_year: 2016
+runtime: 188466
 ---
-
 Oh babe
 Never thought I would be like this
 Wide awake waitin' on a goodnight kiss
@@ -131,6 +135,3 @@ I can't sleep without you
 
 Never thought I would be like this
 Just wide awake waitin' on a goodnight kiss
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: The Miseducation of Lauryn Hill
 artists:
 - Lauryn Hill
+external_ids:
+  spotify: spotify:track:5hchPe05atCRhAYTNJfxER
 features: []
-genres: []
+first_released_as_single: false
 key: doo-wop--that-thing--lauryn-hill
 lyrics_url: https://www.azlyrics.com/lyrics/laurynhill/doowopthatthing.html
 name: Doo Wop (That Thing)
@@ -91,8 +94,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1999-04-03'
+release_year: 1995
+runtime: 240933
 ---
-
 Yo, remember back on the boogie when cats used to harmonize like, you know?
 Yo, my men and my women don't forget about the deen
 Sirat Al-Mustaqim
@@ -164,7 +168,4 @@ That thing, that thing, that thing
 
 Guys you know you better watch out
 Some girls, some girls are only all about
-That thing, that thing,that thing 
-
-
-
+That thing, that thing,that thing

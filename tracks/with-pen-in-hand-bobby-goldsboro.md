@@ -1,8 +1,11 @@
 ---
+album: Honey
 artists:
 - Bobby Goldsboro
+external_ids:
+  spotify: spotify:track:4XIHao3TqWAI0ukYHmZICh
 features: []
-genres: []
+first_released_as_single: false
 key: with-pen-in-hand-bobby-goldsboro
 lyrics_url: https://www.azlyrics.com/lyrics/bobbygoldsboro/withpeninhand.html
 name: With Pen In Hand
@@ -27,8 +30,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1972-10-14'
+release_year: 1968
+runtime: 220666
 ---
-
 With pen in hand
 You sign your name
 Today at five
@@ -73,6 +77,3 @@ Sign your name
 And I'll be
 On my way
 I'll be on my way
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Exclusive
 artists:
 - Chris Brown
+external_ids:
+  spotify: spotify:track:7bFKjUnvlHcqSfxiVjwz2y
 features: []
-genres: []
+first_released_as_single: true
 key: wall-to-wall-chris-brown
 lyrics_url: https://genius.com/Chris-brown-wall-to-wall-lyrics
 name: Wall To Wall
@@ -43,6 +46,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2007-08-25'
+release_year: 2007
+runtime: 228040
 ---
 Great Scott, woo!
 Ladies, I'm gon' need you all to back away from the door (Woo!)

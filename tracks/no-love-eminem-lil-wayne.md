@@ -1,9 +1,12 @@
 ---
+album: Recovery
 artists:
 - Eminem
+external_ids:
+  spotify: spotify:track:7bHT9osSq1rwT2yaImzqCi
 features:
 - Lil Wayne
-genres: []
+first_released_as_single: false
 key: no-love-eminem-lil-wayne
 lyrics_url: https://www.azlyrics.com/lyrics/eminem/nolove.html
 name: No Love
@@ -88,8 +91,9 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '2011-01-29'
+release_year: 2010
+runtime: 299506
 ---
-
 Love.
 Don't hurt me.
 Don't hurt me
@@ -215,6 +219,3 @@ Ha, bitch you get (no love, no, no love, no, no love, no, no love)
 Ha, bitch you get (no love, no, no love, no, no love)
 And I don't need you (no more)
 Bitch, you get (no love)
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Birth Day
 artists:
 - The New Birth
+external_ids:
+  spotify: spotify:track:1MJJLpb8SaFRXsM4v0lf1P
 features: []
-genres: []
+first_released_as_single: false
 key: until-it-s-time-for-you-to-go-the-new-birth
 lyrics_url: https://genius.com/New-birth-until-its-time-for-you-to-go-lyrics
 name: Until It's Time For You To Go
@@ -19,6 +22,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1973-09-08'
+release_year: 1972
+runtime: 338413
 ---
 Honey? Honey?
 Yeah?

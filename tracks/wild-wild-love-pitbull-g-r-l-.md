@@ -1,9 +1,12 @@
 ---
+album: Globalization
 artists:
 - Pitbull
+external_ids:
+  spotify: spotify:track:6DcDdDevI94Dh4vc5anXBE
 features:
 - G.R.L.
-genres: []
+first_released_as_single: true
 key: wild-wild-love-pitbull-g-r-l-
 lyrics_url: https://www.azlyrics.com/lyrics/pitbull/wildwildlove.html
 name: Wild Wild Love
@@ -80,9 +83,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2014-07-12'
+release_year: 2014
+runtime: 202197
 ---
-
-
 Oh-oh, this wild wild love of ours
 It can't be tamed, no
 This wild wild love of ours
@@ -179,6 +182,3 @@ What better than five beautiful women
 
 Yeah, yeah
 Long live this wild wild love of ours
-
-
-

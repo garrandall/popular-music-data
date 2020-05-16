@@ -1,8 +1,11 @@
 ---
+album: 'Super Hits: 1971'
 artists:
 - Austin Roberts
+external_ids:
+  spotify: spotify:track:0SRTizb4RyFqkGfmgqH8Vk
 features: []
-genres: []
+first_released_as_single: false
 key: something-s-wrong-with-me-austin-roberts
 lyrics_url: https://genius.com/Austin-roberts-somethings-wrong-with-me-lyrics
 name: Something's Wrong With Me
@@ -67,6 +70,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1973-01-20'
+release_year: 1972
+runtime: 209586
 ---
 Something's wrong with me can't get you out of my mind
 I see your face in everything I do

@@ -1,9 +1,12 @@
 ---
+album: Capture The Moment
 artists:
 - Jay
 - The Americans
+external_ids:
+  spotify: spotify:track:4K0PEpyhPdemgNj1CRPGOj
 features: []
-genres: []
+first_released_as_single: false
 key: capture-the-moment-jay-the-americans
 lyrics_url: https://www.azlyrics.com/lyrics/jaytheamericans/capturethemoment.html
 name: Capture The Moment
@@ -32,8 +35,9 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1970-05-02'
+release_year: 1970
+runtime: 142880
 ---
-
 If you're the kind who grooves behind
 The special feelin' that love can bring
 That type of thing
@@ -59,6 +63,3 @@ Keep it livin' inside, so, it's always there
 
 Capture the moment, the joyful explosion
 That we just shared, don't let it die
-
-
-

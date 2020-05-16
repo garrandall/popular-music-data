@@ -1,8 +1,11 @@
 ---
+album: Living By The Days
 artists:
 - Don Nix
+external_ids:
+  spotify: spotify:track:5fXSPTcN1PYNnUIsa8xA1O
 features: []
-genres: []
+first_released_as_single: false
 key: olena-don-nix
 lyrics_url: https://genius.com/Don-nix-olena-lyrics
 name: Olena
@@ -19,6 +22,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1971-10-23'
+release_year: 1971
+runtime: 258813
 ---
 Twenty miles out of Memphis
 I  been gone three months or more

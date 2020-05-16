@@ -1,8 +1,11 @@
 ---
+album: Hollies/Would You Believe?
 artists:
 - The Hollies
+external_ids:
+  spotify: spotify:track:4SOiKSuTOnp3FAFdN5ElYb
 features: []
-genres: []
+first_released_as_single: false
 key: i-can-t-let-go-the-hollies
 lyrics_url: https://genius.com/The-hollies-i-cant-let-go-lyrics
 name: I Can't Let Go
@@ -47,6 +50,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1966-05-21'
+release_year: 1965
+runtime: 147040
 ---
 Oh I try and I try but I can't say goodbye
 

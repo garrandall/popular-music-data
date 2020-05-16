@@ -1,8 +1,11 @@
 ---
+album: The Merry-Go-Round
 artists:
 - The Merry-Go-Round
+external_ids:
+  spotify: spotify:track:3LQZ52GYA5V0QjDZyUFlXj
 features: []
-genres: []
+first_released_as_single: false
 key: live-the-merry-go-round
 lyrics_url: https://genius.com/The-merry-go-round-live-lyrics
 name: Live
@@ -23,6 +26,8 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '1967-05-20'
+release_year: 1967
+runtime: 153920
 ---
 Oh you're the kind of girl who's got theirself wound up in a ball
 Oh - you think you live - but how can ya

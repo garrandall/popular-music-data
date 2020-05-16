@@ -1,8 +1,11 @@
 ---
+album: Radio Hits Of the '70s
 artists:
 - Terry Jacks
+external_ids:
+  spotify: spotify:track:0X3d9gx7UDYgcwwkgTeNLR
 features: []
-genres: []
+first_released_as_single: false
 key: seasons-in-the-sun-terry-jacks
 lyrics_url: https://genius.com/Terry-jacks-seasons-in-the-sun-lyrics
 name: Seasons In The Sun
@@ -91,6 +94,8 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1974-06-01'
+release_year: 1972
+runtime: 209346
 ---
 Goodbye to you, my trusted friend
 We've known each other since we were nine or ten

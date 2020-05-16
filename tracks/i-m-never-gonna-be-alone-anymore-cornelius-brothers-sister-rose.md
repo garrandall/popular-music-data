@@ -1,9 +1,12 @@
 ---
+album: The Story Of Cornelius Brothers & Sister Rose
 artists:
 - Cornelius Brothers
 - Sister Rose
+external_ids:
+  spotify: spotify:track:0d62GFZpi2wIABXCi2C21M
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-never-gonna-be-alone-anymore-cornelius-brothers-sister-rose
 lyrics_url: https://www.musixmatch.com/lyrics/Cornelius-Brothers-feat-Sister-Rose/I-m-Never-Gonna-Be-Alone-Anymore
 name: I'm Never Gonna Be Alone Anymore
@@ -44,6 +47,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1973-02-17'
+release_year: 1972
+runtime: 153706
 ---
 Oh, love
 So glad I found you

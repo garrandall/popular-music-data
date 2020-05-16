@@ -1,8 +1,11 @@
 ---
+album: Street Gospel
 artists:
 - Suga Free
+external_ids:
+  spotify: spotify:track:4PELGGXS8Qhih8OEuTXY48
 features: []
-genres: []
+first_released_as_single: false
 key: if-u-stay-ready-suga-free
 lyrics_url: https://genius.com/Suga-free-if-u-stay-ready-lyrics
 name: If U Stay Ready
@@ -59,6 +62,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1997-08-16'
+release_year: 1997
+runtime: 287026
 ---
 If I could get a dollar, for everytime you look at me sideways
 I'll pay the Westside on Friday's to build y'all playa haters y'all own highways

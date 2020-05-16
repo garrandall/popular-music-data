@@ -1,8 +1,11 @@
 ---
+album: Dixie Rock
 artists:
 - Wet Willie
+external_ids:
+  spotify: spotify:track:0GFI2nBSM3q1U08LnG6GVV
 features: []
-genres: []
+first_released_as_single: false
 key: leona-wet-willie
 name: Leona
 rankings:
@@ -26,5 +29,7 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1975-03-29'
+release_year: 1975
+runtime: 278666
 ---
 

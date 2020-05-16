@@ -1,8 +1,11 @@
 ---
+album: Sunshine On Leith
 artists:
 - The Proclaimers
+external_ids:
+  spotify: spotify:track:67iAlVNDDdddxqSD2EZhFs
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-gonna-be--500-miles--the-proclaimers
 lyrics_url: https://genius.com/The-proclaimers-im-gonna-be-500-miles-lyrics
 name: I'm Gonna Be (500 Miles)
@@ -87,6 +90,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1993-10-23'
+release_year: 1988
+runtime: 219466
 ---
 When I wake up, well, I know I'm gonna be
 I'm gonna be the man who wakes up next to you

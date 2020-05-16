@@ -1,9 +1,12 @@
 ---
+album: Play The Guitar
 artists:
 - B.o.B
+external_ids:
+  spotify: spotify:track:4QTbvU8LSI5p43PEcpP3fe
 features:
 - Andre 3000
-genres: []
+first_released_as_single: true
 key: play-the-guitar-b-o-b-andre-3000
 lyrics_url: https://www.azlyrics.com/lyrics/bob/playtheguitar.html
 name: Play The Guitar
@@ -16,8 +19,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2012-01-21'
+release_year: 2011
+runtime: 204064
 ---
-
 B.o.B play the guitar!
 B.o.B, B.o.B, B.o.B, play the guitar
 B.o.B. play the guitar
@@ -100,6 +104,3 @@ B.o.B, B.o.B, B.o.B, play the guitar
 B.o.B Play the guitar (3000) play the guitar
 B.o.B Play the guitar
 B.o.B, B.o.B, B.o.B, play the guitar
-
-
-

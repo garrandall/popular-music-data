@@ -1,8 +1,11 @@
 ---
+album: Tane Cain
 artists:
 - Tane Cain
+external_ids:
+  spotify: spotify:track:1MKEJxiCXyVgKEukpzuKnV
 features: []
-genres: []
+first_released_as_single: false
 key: holdin--on-tane-cain
 lyrics_url: https://genius.com/Tane-cain-holdin-on-lyrics
 name: Holdin' On
@@ -51,6 +54,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1982-10-23'
+release_year: 1982
+runtime: 191564
 ---
 I couldn't believe the
 Night you walked away

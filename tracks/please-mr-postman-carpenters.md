@@ -1,8 +1,11 @@
 ---
+album: Horizon
 artists:
 - Carpenters
+external_ids:
+  spotify: spotify:track:74jZhGv0fdLaf9q8AZZ15k
 features: []
-genres: []
+first_released_as_single: false
 key: please-mr-postman-carpenters
 lyrics_url: https://www.azlyrics.com/lyrics/carpenters/pleasemrpostman.html
 name: Please Mr Postman
@@ -75,8 +78,9 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1975-03-15'
+release_year: 1974
+runtime: 172733
 ---
-
 (Stop)
 Oh yes, wait a minute Mister Postman
 (Wait)
@@ -133,6 +137,3 @@ Mister Postman, look and see
 
 (C'mon deliver the letter, the sooner the better)
 Mister Postman
-
-
-

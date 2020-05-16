@@ -1,8 +1,11 @@
 ---
+album: The Very Best of, Volume 1
 artists:
 - Joe Tex
+external_ids:
+  spotify: spotify:track:6lT0HzLHdZ7TBluxy1qney
 features: []
-genres: []
+first_released_as_single: false
 key: i-ve-got-to-do-a-little-bit-better-joe-tex
 lyrics_url: https://www.musixmatch.com/lyrics/Joe-Tex/I-ve-Got-to-Do-a-Little-Bit-Better
 name: I've Got To Do A Little Bit Better
@@ -27,6 +30,8 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1966-11-05'
+release_year: 1965
+runtime: 184613
 ---
 Baby did I ever make you a promise
 And I've got so busy that is slipped my mind

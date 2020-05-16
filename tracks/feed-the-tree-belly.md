@@ -1,8 +1,11 @@
 ---
+album: Star
 artists:
 - Belly
+external_ids:
+  spotify: spotify:track:3L19vBWH4jTHNXbuBaHbUN
 features: []
-genres: []
+first_released_as_single: false
 key: feed-the-tree-belly
 lyrics_url: https://genius.com/Belly-band-feed-the-tree-lyrics
 name: Feed The Tree
@@ -23,6 +26,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1993-06-05'
+release_year: 1993
+runtime: 209000
 ---
 This old man I've talked about
 Broke his own heart

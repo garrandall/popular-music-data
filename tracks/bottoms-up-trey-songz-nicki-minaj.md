@@ -1,9 +1,12 @@
 ---
+album: Passion, Pain & Pleasure
 artists:
 - Trey Songz
+external_ids:
+  spotify: spotify:track:2IpGdrWvIZipmaxo1YRxw5
 features:
 - Nicki Minaj
-genres: []
+first_released_as_single: false
 key: bottoms-up-trey-songz-nicki-minaj
 lyrics_url: https://genius.com/Trey-songz-bottoms-up-lyrics
 name: Bottoms Up
@@ -112,6 +115,8 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '2011-02-19'
+release_year: 2010
+runtime: 242013
 ---
 Kane is in the building, nigga
 It's Mr. Steal Yo Girl

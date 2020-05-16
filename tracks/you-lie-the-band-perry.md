@@ -1,8 +1,11 @@
 ---
+album: The Band Perry
 artists:
 - The Band Perry
+external_ids:
+  spotify: spotify:track:462tT5pBVstoLcOSJsBBKw
 features: []
-genres: []
+first_released_as_single: false
 key: you-lie-the-band-perry
 lyrics_url: https://genius.com/The-band-perry-you-lie-lyrics
 name: You Lie
@@ -87,6 +90,8 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '2011-07-30'
+release_year: 2010
+runtime: 214733
 ---
 It ain't complicated
 Well, I've grown to hate it

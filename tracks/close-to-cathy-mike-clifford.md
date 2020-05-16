@@ -1,8 +1,11 @@
 ---
+album: Lost Hits Of The 60's (All Original Artists & Versions)
 artists:
 - Mike Clifford
+external_ids:
+  spotify: spotify:track:4EKhJzaAkrlpamL0SDrSw7
 features: []
-genres: []
+first_released_as_single: false
 key: close-to-cathy-mike-clifford
 lyrics_url: https://genius.com/Mike-clifford-close-to-cathy-lyrics
 name: Close To Cathy
@@ -59,6 +62,8 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1962-12-08'
+release_year: 1962
+runtime: 174760
 ---
 Close To Cathy
 Mike Clifford

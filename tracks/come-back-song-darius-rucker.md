@@ -1,8 +1,11 @@
 ---
+album: Charleston, SC 1966
 artists:
 - Darius Rucker
+external_ids:
+  spotify: spotify:track:4sHOAALFZiNa4wukjPSBpq
 features: []
-genres: []
+first_released_as_single: false
 key: come-back-song-darius-rucker
 lyrics_url: https://www.azlyrics.com/lyrics/dariusrucker/comebacksong.html
 name: Come Back Song
@@ -87,8 +90,9 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '2010-12-11'
+release_year: 2010
+runtime: 235146
 ---
-
 I woke up again this morning
 And wouldn't you know it... pouring rain
 I went and burned a pot of coffee
@@ -140,6 +144,3 @@ Na na na na na na na, yeah
 Come on now
 
 This is my my bad, come back song
-
-
-

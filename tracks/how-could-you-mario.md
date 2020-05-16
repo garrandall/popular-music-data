@@ -1,8 +1,11 @@
 ---
+album: Turning Point
 artists:
 - Mario
+external_ids:
+  spotify: spotify:track:3SjS9Y86t8BiecD1Wq7r4o
 features: []
-genres: []
+first_released_as_single: false
 key: how-could-you-mario
 lyrics_url: https://genius.com/Mario-how-could-you-lyrics
 name: How Could You
@@ -75,6 +78,8 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '2005-07-09'
+release_year: 2004
+runtime: 236000
 ---
 It's kinda crazy babe
 How I remember things, (like where you came from and how you had nothin)

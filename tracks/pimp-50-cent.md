@@ -1,8 +1,11 @@
 ---
+album: 'G-Unit Radio 10: 2050 Before The Massacre'
 artists:
 - 50 Cent
+external_ids:
+  spotify: spotify:track:3XMt1uj10E9L6vOYl5Pqmq
 features: []
-genres: []
+first_released_as_single: false
 key: pimp-50-cent
 lyrics_url: https://genius.com/50-cent-pimp-lyrics
 name: PIMP
@@ -107,6 +110,8 @@ rankings:
   rank: 37
   ranking_list: Billboard Hot 100
   start_date: '2003-11-15'
+release_year: 2003
+runtime: 74960
 ---
 I don't know what you heard about me
 But a bitch can't get a dollar out of me

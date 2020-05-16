@@ -1,8 +1,11 @@
 ---
+album: Led Zeppelin IV
 artists:
 - Led Zeppelin
+external_ids:
+  spotify: spotify:track:3qT4bUD1MaWpGrTwcvguhb
 features: []
-genres: []
+first_released_as_single: false
 key: black-dog-led-zeppelin
 lyrics_url: https://genius.com/Led-zeppelin-black-dog-lyrics
 name: Black Dog
@@ -55,6 +58,8 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '1972-03-11'
+release_year: 1971
+runtime: 295386
 ---
 Hey, hey, mama, said the way you move
 Gonna make you sweat, gonna make you groove

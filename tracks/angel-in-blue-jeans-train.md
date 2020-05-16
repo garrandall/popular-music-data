@@ -1,8 +1,11 @@
 ---
+album: Bulletproof Picasso
 artists:
 - Train
+external_ids:
+  spotify: spotify:track:2GxGYGrixbXPFojONbzdo9
 features: []
-genres: []
+first_released_as_single: false
 key: angel-in-blue-jeans-train
 lyrics_url: https://www.azlyrics.com/lyrics/train/angelinbluejeans.html
 name: Angel In Blue Jeans
@@ -19,8 +22,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2014-10-11'
+release_year: 2014
+runtime: 205973
 ---
-
 And though I never got her name
 Or time to find out anything
 I loved her just the same
@@ -69,6 +73,3 @@ Whoa oh oh oh oh oh
 Whoa oh oh oh oh oh
 Ah ah ah ah ah ah ah
 Ah ah ah ah ah ah ah
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Truly For You
 artists:
 - The Temptations
+external_ids:
+  spotify: spotify:track:7iMDtQVTT4gxlX12SHkzdq
 features: []
-genres: []
+first_released_as_single: false
 key: treat-her-like-a-lady-the-temptations
 lyrics_url: https://www.azlyrics.com/lyrics/temptations/treatherlikealady.html
 name: Treat Her Like A Lady
@@ -63,8 +66,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1985-03-16'
+release_year: 1984
+runtime: 281893
 ---
-
 Treat her like a lady
 
 Now I'm the kinda guy who don't believe that chivalry is dead, no
@@ -128,6 +132,3 @@ Treat her like a lady (treat her like a lady)
 Treat her like, treat her like (oh
 Treat her like a lady
 (Oh, my, my, treat her like a lady)
-
-
-

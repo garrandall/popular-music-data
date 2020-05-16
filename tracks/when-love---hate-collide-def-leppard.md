@@ -1,8 +1,11 @@
 ---
+album: When Love & Hate Collide - Single
 artists:
 - Def Leppard
+external_ids:
+  spotify: spotify:track:1bCMeYi91d4TH2Z5tJMW0c
 features: []
-genres: []
+first_released_as_single: true
 key: when-love---hate-collide-def-leppard
 lyrics_url: https://www.azlyrics.com/lyrics/defleppard/whenloveandhatecollide.html
 name: When Love & Hate Collide
@@ -63,8 +66,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1996-03-02'
+release_year: 1995
+runtime: 259160
 ---
-
 You could have a change of heart, if you would only change your mind
 Instead of slamming down the phone girl, for the hundredth time
 I got your number on my wall, but I ain't gonna make that call
@@ -107,6 +111,3 @@ If you have a heart at all
 Without you
 Can't stop the hurt inside
 When love and hate collide
-
-
-

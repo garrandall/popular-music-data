@@ -1,9 +1,12 @@
 ---
+album: Born Into The 90's
 artists:
 - R. Kelly
 - Public Announcement
+external_ids:
+  spotify: spotify:track:2ogJZJJuHXLsFl67JkkZ1g
 features: []
-genres: []
+first_released_as_single: false
 key: slow-dance--hey-mr-dj--r--kelly-public-announcement
 lyrics_url: https://genius.com/R-kelly-and-public-announcement-slow-dance-hey-mr-dj-lyrics
 name: Slow Dance (Hey Mr DJ)
@@ -84,6 +87,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1992-12-26'
+release_year: 1992
+runtime: 304600
 ---
 Slow dance, slow
 Slow dance, slow dance

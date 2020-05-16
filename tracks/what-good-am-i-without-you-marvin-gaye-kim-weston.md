@@ -1,9 +1,12 @@
 ---
+album: Take Two
 artists:
 - Marvin Gaye
 - Kim Weston
+external_ids:
+  spotify: spotify:track:5HIRJ8vKywRGSczSLYNyQR
 features: []
-genres: []
+first_released_as_single: false
 key: what-good-am-i-without-you-marvin-gaye-kim-weston
 lyrics_url: https://www.azlyrics.com/lyrics/marvingaye/whatgoodamiwithoutyou.html
 name: What Good Am I Without You
@@ -32,9 +35,9 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '1964-11-28'
+release_year: 1964
+runtime: 170733
 ---
-
-
 Wo oh wo oh, wo oh wo oh
 
 
@@ -58,6 +61,3 @@ What good, baby, am I without you?
  And what good is the heavens without the stars above?
  What good is a true heart that proves to be broken in two?
  What good, baby, am I without you?
-
-
-

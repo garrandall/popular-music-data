@@ -1,12 +1,15 @@
 ---
+album: The Day
 artists:
 - Babyface
+external_ids:
+  spotify: spotify:track:1blZP5x1XQSqQFpTy12rFh
 features:
 - LL Cool J
 - Howard Hewett
 - Jody Watley
 - Jeffrey Daniels
-genres: []
+first_released_as_single: false
 key: this-is-for-the-lover-in-you-babyface-ll-cool-j-howard-hewett-jody-watley-jeffrey-daniels
 lyrics_url: https://www.musixmatch.com/lyrics/Babyface-feat-LL-Cool-J-Howard-Hewett-Jody-Watley-Jeffrey-Daniels/This-Is-for-the-Lover-in-You
 name: This Is For The Lover In You
@@ -91,6 +94,8 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1997-03-08'
+release_year: 1996
+runtime: 239733
 ---
 Check it
 Word is bond

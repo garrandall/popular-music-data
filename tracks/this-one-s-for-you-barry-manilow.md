@@ -1,8 +1,11 @@
 ---
+album: This One's For You
 artists:
 - Barry Manilow
+external_ids:
+  spotify: spotify:track:2PrdCTvc5Xqu4c93aEcobj
 features: []
-genres: []
+first_released_as_single: false
 key: this-one-s-for-you-barry-manilow
 lyrics_url: https://genius.com/Barry-manilow-this-ones-for-you-lyrics
 name: This One's For You
@@ -47,6 +50,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1976-11-20'
+release_year: 1973
+runtime: 208160
 ---
 This one will never sell
 They'll never understand

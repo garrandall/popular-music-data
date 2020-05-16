@@ -1,8 +1,11 @@
 ---
+album: Getting Away With Murder
 artists:
 - Papa Roach
+external_ids:
+  spotify: spotify:track:1x0AirtLjfVquI0A9iBVep
 features: []
-genres: []
+first_released_as_single: false
 key: getting-away-with-murder-papa-roach
 lyrics_url: https://www.azlyrics.com/lyrics/paparoach/gettingawaywithmurder.html
 name: Getting Away With Murder
@@ -71,8 +74,9 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '2005-02-05'
+release_year: 2004
+runtime: 191372
 ---
-
 Somewhere beyond happiness and sadness
 I need to calculate
 What creates my own madness
@@ -109,4 +113,3 @@ What creates my own madness
 And I'm addicted to your punishment
 And you're the master
 And I am craving this disaster
-

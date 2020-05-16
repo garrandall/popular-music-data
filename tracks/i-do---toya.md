@@ -1,8 +1,11 @@
 ---
+album: La Toya Jackson
 artists:
 - Toya
+external_ids:
+  spotify: spotify:track:52nwtw1JdLpFBDSMXPE32h
 features: []
-genres: []
+first_released_as_single: false
 key: i-do---toya
 lyrics_url: https://genius.com/Toya-i-do-lyrics
 name: I Do!
@@ -163,6 +166,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '2002-02-23'
+release_year: 1981
+runtime: 262266
 ---
 He was a six foot stallion
 Said a storybook thug

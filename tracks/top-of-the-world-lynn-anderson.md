@@ -1,8 +1,11 @@
 ---
+album: Top of the World
 artists:
 - Lynn Anderson
+external_ids:
+  spotify: spotify:track:1gR8pfZBJuZQRW7TLmrgYi
 features: []
-genres: []
+first_released_as_single: false
 key: top-of-the-world-lynn-anderson
 lyrics_url: https://www.azlyrics.com/lyrics/lynnanderson/topoftheworld.html
 name: Top Of The World
@@ -47,8 +50,9 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1973-09-01'
+release_year: 1966
+runtime: 175933
 ---
-
 Such a feelin's coming over me there is wonder in most everything I see
 Not a cloud in the sky got the sun in my eyes and I won't be surprised if it's a dream
 Everything I want the world to be is now coming true especially for me
@@ -73,6 +77,3 @@ And the only explanation I can find
 Is the love that I've found ever since you've been around
 Your love's put me at the top of the world
 ...
-
-
-

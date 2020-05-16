@@ -1,8 +1,11 @@
 ---
+album: Emotions In Motion
 artists:
 - Billy Squier
+external_ids:
+  spotify: spotify:track:1BUTAQyk9QsdvRDghyMTC9
 features: []
-genres: []
+first_released_as_single: false
 key: everybody-wants-you-billy-squier
 lyrics_url: https://genius.com/Billy-squier-everybody-wants-you-lyrics
 name: Everybody Wants You
@@ -75,6 +78,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1983-01-22'
+release_year: 1982
+runtime: 226733
 ---
 You see 'em coming at you every night
 Strung on pretension, they fall for you at first sight

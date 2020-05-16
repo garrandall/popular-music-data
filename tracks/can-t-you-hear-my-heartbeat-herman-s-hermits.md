@@ -1,8 +1,11 @@
 ---
+album: Herman's Hermits Retrospective
 artists:
 - Herman's Hermits
+external_ids:
+  spotify: spotify:track:2tUP1fuo8EdOVz3Bw9r7yu
 features: []
-genres: []
+first_released_as_single: false
 key: can-t-you-hear-my-heartbeat-herman-s-hermits
 lyrics_url: https://genius.com/Hermans-hermits-cant-you-hear-my-heart-beat-lyrics
 name: Can't You Hear My Heartbeat
@@ -67,6 +70,8 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '1965-05-08'
+release_year: 1965
+runtime: 134840
 ---
 (Carter/Lewis)
 

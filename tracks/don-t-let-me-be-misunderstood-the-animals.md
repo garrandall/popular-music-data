@@ -1,8 +1,11 @@
 ---
+album: Animal Tracks
 artists:
 - The Animals
+external_ids:
+  spotify: spotify:track:3b1umnRuNVEu5XI7RT1OAp
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-let-me-be-misunderstood-the-animals
 lyrics_url: https://genius.com/The-animals-dont-let-me-be-misunderstood-lyrics
 name: Don't Let Me Be Misunderstood
@@ -47,6 +50,8 @@ rankings:
   rank: 26
   ranking_list: Billboard Hot 100
   start_date: '1965-04-10'
+release_year: 1965
+runtime: 148346
 ---
 Instrumental Intro
 

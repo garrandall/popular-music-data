@@ -1,8 +1,11 @@
 ---
+album: Liquid Gold
 artists:
 - Liquid Gold
+external_ids:
+  spotify: spotify:track:6fylMhfB3KSnYuLHqywuqk
 features: []
-genres: []
+first_released_as_single: false
 key: my-baby-s-baby-liquid-gold
 lyrics_url: https://www.musixmatch.com/lyrics/Liquid-Gold/My-Baby-s-Baby-12-Inch
 name: My Baby's Baby
@@ -43,6 +46,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1979-06-23'
+release_year: 1979
+runtime: 371640
 ---
 Woah, oh-oh,
 I had a one-way love.

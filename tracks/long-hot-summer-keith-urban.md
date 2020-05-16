@@ -1,8 +1,11 @@
 ---
+album: Get Closer (Deluxe Version)
 artists:
 - Keith Urban
+external_ids:
+  spotify: spotify:track:3PY88239tYBnAv5LQoU2oY
 features: []
-genres: []
+first_released_as_single: false
 key: long-hot-summer-keith-urban
 lyrics_url: https://genius.com/Keith-urban-long-hot-summer-lyrics
 name: Long Hot Summer
@@ -79,6 +82,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2011-11-26'
+release_year: 2010
+runtime: 273586
 ---
 I can’t sleep
 There is no sleep coming

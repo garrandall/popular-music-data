@@ -1,8 +1,11 @@
 ---
+album: Babylon And On
 artists:
 - Squeeze
+external_ids:
+  spotify: spotify:track:5Y6HTd7VB0O8Aki4EvmB4x
 features: []
-genres: []
+first_released_as_single: false
 key: hourglass-squeeze
 lyrics_url: https://www.azlyrics.com/lyrics/squeeze/hourglass.html
 name: Hourglass
@@ -83,8 +86,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1988-01-23'
+release_year: 1987
+runtime: 197106
 ---
-
 I feel like I'm pounding on a big door
 No one can hear me knocking
 I feel like I'm falling flat to the floor
@@ -154,6 +158,3 @@ Feel like I'm calling back to the shore
 No one can hear me calling
 Feel like I'm falling back to the floor
 No one can catch me from falling
-
-
-

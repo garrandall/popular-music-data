@@ -1,8 +1,11 @@
 ---
+album: Super Trouper
 artists:
 - ABBA
+external_ids:
+  spotify: spotify:track:2nMghZvtLx6DDgTEHEsb4w
 features: []
-genres: []
+first_released_as_single: false
 key: super-trouper-abba
 lyrics_url: https://www.azlyrics.com/lyrics/abba/supertrouper.html
 name: Super Trouper
@@ -51,8 +54,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1981-06-13'
+release_year: 1980
+runtime: 254600
 ---
-
 Super Trouper beams are gonna blind me
 But I won't feel blue
 Like I always do
@@ -143,6 +147,3 @@ But I won't feel blue
 (Sup-p-per Troup-p-per)
 Like I always do
 (Sup-p-per Troup-p-per)
-
-
-

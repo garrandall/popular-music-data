@@ -1,8 +1,11 @@
 ---
+album: 'RCA Country Legends: Don Gibson'
 artists:
 - Don Gibson
+external_ids:
+  spotify: spotify:track:5c6wm4gmI1bENw6H8PwODq
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-tell-me-your-troubles-don-gibson
 lyrics_url: https://genius.com/Don-gibson-dont-tell-me-your-troubles-lyrics
 name: Don't Tell Me Your Troubles
@@ -19,6 +22,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1959-09-14'
+release_year: 1959
+runtime: 138306
 ---
 Don't tell me your troubles I got troubles of my own
 Don't tell me your troubles just leave me alone

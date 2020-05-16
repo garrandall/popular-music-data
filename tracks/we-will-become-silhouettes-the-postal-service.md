@@ -1,8 +1,11 @@
 ---
+album: Give Up
 artists:
 - The Postal Service
+external_ids:
+  spotify: spotify:track:73PZEtzDf4KVI2s2s2bDh2
 features: []
-genres: []
+first_released_as_single: false
 key: we-will-become-silhouettes-the-postal-service
 lyrics_url: https://www.azlyrics.com/lyrics/postalservice/wewillbecomesilhouettes.html
 name: We Will Become Silhouettes
@@ -11,8 +14,9 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '2005-02-26'
+release_year: 2003
+runtime: 300546
 ---
-
 I've got a cupboard with cans of food, filtered water,
 And pictures of you and I'm not coming out
 Until this is all over
@@ -46,6 +50,3 @@ Ba ba ba
 
 And we'll become
 And we'll become
-
-
-

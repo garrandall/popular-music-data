@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music, Volume 5'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:6GG7MYpn7BtrcXiI16yCsr
 features: []
-genres: []
+first_released_as_single: false
 key: sing--glee-cast
 lyrics_url: https://genius.com/Glee-cast-sing-lyrics
 name: Sing!
@@ -11,6 +14,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '2010-10-30'
+release_year: 2010
+runtime: 243786
 ---
 Sing it out
 Boy, you've got to see what tomorrow brings

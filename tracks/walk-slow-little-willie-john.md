@@ -1,8 +1,11 @@
 ---
+album: Sings All Originals
 artists:
 - Little Willie John
+external_ids:
+  spotify: spotify:track:7EJKLh2RHCB7DDyjYWxIAv
 features: []
-genres: []
+first_released_as_single: false
 key: walk-slow-little-willie-john
 lyrics_url: https://www.musixmatch.com/lyrics/Little-Willie-John/Walk-Slow
 name: Walk Slow
@@ -39,6 +42,8 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '1961-01-16'
+release_year: 1960
+runtime: 111383
 ---
 Walk slow, don't run
 Our love is slow but

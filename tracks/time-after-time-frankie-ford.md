@@ -1,8 +1,11 @@
 ---
+album: Sea Cruise / Time After Time
 artists:
 - Frankie Ford
+external_ids:
+  spotify: spotify:track:16ISbTwCNmzJkwuzoTEcaW
 features: []
-genres: []
+first_released_as_single: true
 key: time-after-time-frankie-ford
 name: Time After Time
 rankings:
@@ -30,5 +33,7 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1960-02-29'
+release_year: 1960
+runtime: 132711
 ---
 

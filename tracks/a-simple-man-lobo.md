@@ -1,8 +1,11 @@
 ---
+album: Calumet
 artists:
 - Lobo
+external_ids:
+  spotify: spotify:track:5MU3ECkJBmqf1I4ABQVCt4
 features: []
-genres: []
+first_released_as_single: false
 key: a-simple-man-lobo
 lyrics_url: https://www.azlyrics.com/lyrics/lobo/asimpleman.html
 name: A Simple Man
@@ -43,8 +46,9 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '1972-09-02'
+release_year: 1972
+runtime: 180546
 ---
-
 Where do butterflies go when it rains?
 Who goes around & tucks in the trains?
 What makes a teddy bear like to sleep?
@@ -64,6 +68,3 @@ Where do robins sleep on the road?
 And how can a little ant carry that load?
 Why write words that we have to erase?
 Why does everyone have more than one face?
-
-
-

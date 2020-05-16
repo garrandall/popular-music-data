@@ -1,8 +1,11 @@
 ---
+album: Blondes Have More Fun
 artists:
 - Rod Stewart
+external_ids:
+  spotify: spotify:track:12myqPkW3bmux5bPISk9GC
 features: []
-genres: []
+first_released_as_single: false
 key: ain-t-love-a-bitch-rod-stewart
 lyrics_url: https://genius.com/Rod-stewart-aint-love-a-bitch-lyrics
 name: Ain't Love A Bitch
@@ -55,6 +58,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1979-07-07'
+release_year: 1978
+runtime: 279706
 ---
 Been in pain and I've been in shame
 But ain't love a bitch

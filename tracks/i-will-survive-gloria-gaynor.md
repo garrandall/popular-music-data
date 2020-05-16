@@ -1,8 +1,11 @@
 ---
+album: Love Tracks
 artists:
 - Gloria Gaynor
+external_ids:
+  spotify: spotify:track:7rIovIsXE6kMn629b7kDig
 features: []
-genres: []
+first_released_as_single: false
 key: i-will-survive-gloria-gaynor
 lyrics_url: https://www.musixmatch.com/lyrics/Gloria-Gaynor-2/I-Will-Survive-2
 name: I Will Survive
@@ -115,6 +118,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1979-06-16'
+release_year: 1978
+runtime: 296106
 ---
 At first I was afraid, I was petrified
 Kept thinking I could never live without you by my side

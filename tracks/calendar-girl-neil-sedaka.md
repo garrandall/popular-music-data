@@ -1,8 +1,11 @@
 ---
+album: Rock with Sedaka
 artists:
 - Neil Sedaka
+external_ids:
+  spotify: spotify:track:7Gpx2fNJiilvrf9Ss8qbit
 features: []
-genres: []
+first_released_as_single: false
 key: calendar-girl-neil-sedaka
 lyrics_url: https://www.azlyrics.com/lyrics/neilsedaka/calendargirl.html
 name: Calendar Girl
@@ -67,8 +70,9 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1961-03-27'
+release_year: 1959
+runtime: 159693
 ---
-
 I love, I love, I love my calendar girl
 Yeah, sweet calendar girl
 I love, I love, I love my calendar girl
@@ -137,6 +141,3 @@ I love, I love, I love my calendar girl
 Yeah, sweet calendar girl
 I love, I love, I love my calendar girl
 Yeah, sweet calendar girl
-
-
-

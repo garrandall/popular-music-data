@@ -1,9 +1,12 @@
 ---
+album: If Tomorrow Comes...
 artists:
 - Maino
+external_ids:
+  spotify: spotify:track:3LOLihGm2Y97gJjmWBSFrd
 features:
 - T-Pain
-genres: []
+first_released_as_single: false
 key: all-the-above-maino-t-pain
 lyrics_url: https://www.azlyrics.com/lyrics/maino/alltheabove.html
 name: All The Above
@@ -88,9 +91,9 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '2009-07-25'
+release_year: 2009
+runtime: 210546
 ---
-
-
 Tell me what do you see
 When you're looking at me
 (Woooahhhh)
@@ -194,7 +197,4 @@ No more pain, no more suffering
 My ladies and my shorties and my thugs
 Keep on dancing and shining for love
 
-All the above 
-
-
-
+All the above

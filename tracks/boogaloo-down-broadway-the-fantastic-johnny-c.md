@@ -1,8 +1,11 @@
 ---
+album: Old 'N Golden
 artists:
 - The Fantastic Johnny C
+external_ids:
+  spotify: spotify:track:2Bk60jCRijs78fJ24u7j3z
 features: []
-genres: []
+first_released_as_single: false
 key: boogaloo-down-broadway-the-fantastic-johnny-c
 lyrics_url: https://genius.com/Fantastic-johnny-c-boogaloo-down-broadway-lyrics
 name: Boogaloo Down Broadway
@@ -79,6 +82,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1968-02-03'
+release_year: 1967
+runtime: 155066
 ---
 Baby, oh baby
 Boogaloo down Broadway

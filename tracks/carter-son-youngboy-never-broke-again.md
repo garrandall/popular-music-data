@@ -1,8 +1,11 @@
 ---
+album: AI YoungBoy 2
 artists:
 - YoungBoy Never Broke Again
+external_ids:
+  spotify: spotify:track:3LHNZbN81quqBNZmjmnxaX
 features: []
-genres: []
+first_released_as_single: false
 key: carter-son-youngboy-never-broke-again
 lyrics_url: https://genius.com/Youngboy-never-broke-again-carter-son-lyrics
 name: Carter Son
@@ -15,6 +18,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2019-11-02'
+release_year: 2019
+runtime: 163930
 ---
 You're a Genius, McFly
 AI

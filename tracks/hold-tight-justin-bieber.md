@@ -1,8 +1,11 @@
 ---
+album: Journals
 artists:
 - Justin Bieber
+external_ids:
+  spotify: spotify:track:0na8x6EOqjHsGABdB90TIC
 features: []
-genres: []
+first_released_as_single: false
 key: hold-tight-justin-bieber
 lyrics_url: https://genius.com/Justin-bieber-hold-tight-lyrics
 name: Hold Tight
@@ -11,6 +14,8 @@ rankings:
   rank: 29
   ranking_list: Billboard Hot 100
   start_date: '2013-11-09'
+release_year: 2013
+runtime: 254213
 ---
 Yeah, yeah, yeah
 Happy birthday

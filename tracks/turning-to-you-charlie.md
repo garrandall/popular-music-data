@@ -1,8 +1,11 @@
 ---
+album: No Second Chance
 artists:
 - Charlie
+external_ids:
+  spotify: spotify:track:6W6KKkZkpRAQn2UwUGxU2g
 features: []
-genres: []
+first_released_as_single: false
 key: turning-to-you-charlie
 lyrics_url: https://genius.com/Charlie-turning-to-you-lyrics
 name: Turning To You
@@ -15,6 +18,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1977-08-27'
+release_year: 1977
+runtime: 189600
 ---
 Thomas
 

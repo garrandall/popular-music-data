@@ -1,8 +1,11 @@
 ---
+album: 70s Stuff
 artists:
 - Cozy Powell
+external_ids:
+  spotify: spotify:track:68EijoNE4aueamKvTu1QwD
 features: []
-genres: []
+first_released_as_single: false
 key: dance-with-the-devil-cozy-powell
 name: Dance With The Devil
 rankings:
@@ -42,5 +45,7 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '1974-05-11'
+release_year: 1974
+runtime: 213520
 ---
 

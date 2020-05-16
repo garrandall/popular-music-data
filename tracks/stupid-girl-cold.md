@@ -1,8 +1,11 @@
 ---
+album: Year Of The Spider
 artists:
 - Cold
+external_ids:
+  spotify: spotify:track:40u9RFyKQfXwpPjFzK1bGO
 features: []
-genres: []
+first_released_as_single: false
 key: stupid-girl-cold
 lyrics_url: https://www.musixmatch.com/lyrics/COLD/Stupid-Girl
 name: Stupid Girl
@@ -87,6 +90,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2003-08-30'
+release_year: 2003
+runtime: 189853
 ---
 Wanna love ya
 Wanna bug ya

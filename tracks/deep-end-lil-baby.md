@@ -1,8 +1,11 @@
 ---
+album: Drip Harder
 artists:
 - Lil Baby
+external_ids:
+  spotify: spotify:track:16QjPRt5HYK0dnLGmGRCvf
 features: []
-genres: []
+first_released_as_single: false
 key: deep-end-lil-baby
 lyrics_url: https://genius.com/Lil-baby-deep-end-lyrics
 name: Deep End
@@ -11,6 +14,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2018-10-20'
+release_year: 2018
+runtime: 174661
 ---
 Cook that shit up, Quay
 I know they ain't feelin' my pain

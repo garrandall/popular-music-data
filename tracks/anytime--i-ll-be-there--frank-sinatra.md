@@ -1,8 +1,11 @@
 ---
+album: 'Frank Sinatra: The Complete Capitol Singles Collection'
 artists:
 - Frank Sinatra
+external_ids:
+  spotify: spotify:track:57eAAfXC7upYjrAkEQacRD
 features: []
-genres: []
+first_released_as_single: false
 key: anytime--i-ll-be-there--frank-sinatra
 lyrics_url: https://genius.com/Frank-sinatra-anytime-anywhere-lyrics
 name: Anytime (I'll Be There)
@@ -31,6 +34,8 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1975-05-24'
+release_year: 1975
+runtime: 166133
 ---
 You could leave tomorrow, fly to Mandalay, darling I would love you anyway
 I just couldn't help but care, anytime, anywhere

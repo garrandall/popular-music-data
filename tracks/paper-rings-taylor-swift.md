@@ -1,8 +1,11 @@
 ---
+album: Lover
 artists:
 - Taylor Swift
+external_ids:
+  spotify: spotify:track:4y5bvROuBDPr5fuwXbIBZR
 features: []
-genres: []
+first_released_as_single: false
 key: paper-rings-taylor-swift
 lyrics_url: https://www.azlyrics.com/lyrics/taylorswift/paperrings.html
 name: Paper Rings
@@ -11,8 +14,9 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '2019-09-07'
+release_year: 2019
+runtime: 222400
 ---
-
 The moon is high
 Like your friends were the night that we first met
 Went home and tried to stalk you on the internet
@@ -86,6 +90,3 @@ Oh, you're the one I want
 
 You're the one I want, one I want
 You're the one I want, one I want
-
-
-

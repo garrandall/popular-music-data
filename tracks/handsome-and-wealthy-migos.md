@@ -1,8 +1,11 @@
 ---
+album: No Label II
 artists:
 - Migos
+external_ids:
+  spotify: spotify:track:61zTSexBvC42Db8jxMHuKx
 features: []
-genres: []
+first_released_as_single: false
 key: handsome-and-wealthy-migos
 lyrics_url: https://www.azlyrics.com/lyrics/migos/handsomeandwealthy.html
 name: Handsome And Wealthy
@@ -39,8 +42,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2014-11-29'
+release_year: 2014
+runtime: 210556
 ---
-
 I don't know why I came
 
 I don't know why I came in this club with you, girl
@@ -138,6 +142,3 @@ Is it 'cause a nigga cook like a professor? Professor?
 I don't know how you feel. Can you tell me? Can you tell me?
 I won't know how you feel 'til you tell me. Can you tell me?
 Is it 'cause a nigga handsome and wealthy?
-
-
-

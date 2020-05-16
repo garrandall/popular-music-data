@@ -1,8 +1,11 @@
 ---
+album: I Remember Yesterday
 artists:
 - Donna Summer
+external_ids:
+  spotify: spotify:track:1vCBk33l9HaWp5FOnhSGxk
 features: []
-genres: []
+first_released_as_single: false
 key: i-feel-love-donna-summer
 lyrics_url: https://genius.com/Donna-summer-i-feel-love-lyrics
 name: I Feel Love
@@ -99,6 +102,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1978-01-07'
+release_year: 1977
+runtime: 355173
 ---
 Oh
 It's so good, it's so good

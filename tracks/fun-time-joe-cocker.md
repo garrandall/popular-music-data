@@ -1,8 +1,11 @@
 ---
+album: Luxury You Can Afford
 artists:
 - Joe Cocker
+external_ids:
+  spotify: spotify:track:5GUot4AEzxcfs0is6l4rWZ
 features: []
-genres: []
+first_released_as_single: false
 key: fun-time-joe-cocker
 lyrics_url: https://www.azlyrics.com/lyrics/joecocker/funtime.html
 name: Fun Time
@@ -39,8 +42,9 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '1978-12-09'
+release_year: 1978
+runtime: 160400
 ---
-
 Got a few jingles jangle in my pocket
 And I got a couple that don't make no noise
 See, I'm all fired up just like a rocket
@@ -70,6 +74,3 @@ Fun time, fun time
 Let yourself be happy, it's fun time
 Shake time, you deserve a break time
 It's fun time for U S all
-
-
-

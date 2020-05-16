@@ -1,8 +1,11 @@
 ---
+album: What If It's You
 artists:
 - Reba McEntire
+external_ids:
+  spotify: spotify:track:0dKL0q4NUawslZXdSYgKXS
 features: []
-genres: []
+first_released_as_single: false
 key: what-if-reba-mcentire
 lyrics_url: https://genius.com/Reba-mcentire-what-if-lyrics
 name: What If
@@ -67,6 +70,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1998-03-21'
+release_year: 1996
+runtime: 246333
 ---
 Sometimes I don't understand
 Feels like I'm living in a world gone mad

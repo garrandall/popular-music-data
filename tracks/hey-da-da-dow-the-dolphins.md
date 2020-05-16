@@ -1,8 +1,11 @@
 ---
+album: Ace's Golden Age of American Hits Vol 1
 artists:
 - The Dolphins
+external_ids:
+  spotify: spotify:track:1VV3bGtDOniEKmgyqfEAfS
 features: []
-genres: []
+first_released_as_single: false
 key: hey-da-da-dow-the-dolphins
 lyrics_url: https://www.musixmatch.com/lyrics/The-Dolphins-2/Hey-Da-Da-Dow
 name: Hey-Da-Da-Dow
@@ -35,6 +38,8 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1965-01-30'
+release_year: 1964
+runtime: 136253
 ---
 Bom bom bom
 

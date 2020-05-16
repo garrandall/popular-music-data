@@ -1,8 +1,11 @@
 ---
+album: Laurel Canyon
 artists:
 - Jackie DeShannon
+external_ids:
+  spotify: spotify:track:7GYCzHGDUlpe0mH3mWSyNZ
 features: []
-genres: []
+first_released_as_single: false
 key: the-weight-jackie-deshannon
 lyrics_url: https://genius.com/Jackie-deshannon-the-weight-lyrics
 name: The Weight
@@ -39,6 +42,8 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '1968-10-12'
+release_year: 1968
+runtime: 183853
 ---
 I pulled in to Nazareth
 I was feelin' 'bout half-past dead

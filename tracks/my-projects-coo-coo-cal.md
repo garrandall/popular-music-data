@@ -1,8 +1,11 @@
 ---
+album: Disturbed
 artists:
 - Coo Coo Cal
+external_ids:
+  spotify: spotify:track:441GE9dbg9H0RIzGiF01dM
 features: []
-genres: []
+first_released_as_single: false
 key: my-projects-coo-coo-cal
 lyrics_url: https://www.azlyrics.com/lyrics/coocoocal/myprojects.html
 name: My Projects
@@ -43,9 +46,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2001-09-29'
+release_year: 2001
+runtime: 225026
 ---
-
-
 In my project
 
 
@@ -139,6 +142,3 @@ In my projects, my projects thick
 Don't come to my projects if you ain't wit dis clique
 
 In my projects
-
-
-

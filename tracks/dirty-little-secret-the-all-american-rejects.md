@@ -1,8 +1,11 @@
 ---
+album: Move Along
 artists:
 - The All-American Rejects
+external_ids:
+  spotify: spotify:track:5lDriBxJd22IhOH9zTcFrV
 features: []
-genres: []
+first_released_as_single: false
 key: dirty-little-secret-the-all-american-rejects
 lyrics_url: https://genius.com/The-all-american-rejects-dirty-little-secret-lyrics
 name: Dirty Little Secret
@@ -163,6 +166,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '2006-05-06'
+release_year: 2005
+runtime: 193653
 ---
 Let me know that I've done wrong
 When I've known this all along

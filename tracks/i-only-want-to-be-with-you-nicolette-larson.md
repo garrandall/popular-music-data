@@ -1,8 +1,11 @@
 ---
+album: All Dressed Up & No Place To Go
 artists:
 - Nicolette Larson
+external_ids:
+  spotify: spotify:track:7id2eUanqPKnZlnJ6ehsz4
 features: []
-genres: []
+first_released_as_single: false
 key: i-only-want-to-be-with-you-nicolette-larson
 lyrics_url: https://genius.com/Nicolette-larson-i-only-want-to-be-with-you-lyrics
 name: I Only Want To Be With You
@@ -43,6 +46,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1982-10-02'
+release_year: 1982
+runtime: 198133
 ---
 I don't know what it is that makes me love you so
 I only know I never wanna let you go

@@ -1,8 +1,11 @@
 ---
+album: The Pye Anthology
 artists:
 - Petula Clark
+external_ids:
+  spotify: spotify:track:5azu75l6zBBna2JHBLseCg
 features: []
-genres: []
+first_released_as_single: false
 key: american-boys-petula-clark
 lyrics_url: https://genius.com/Petula-clark-american-boys-lyrics
 name: American Boys
@@ -39,6 +42,8 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '1969-01-11'
+release_year: 1968
+runtime: 174066
 ---
 Once those American boys get near you
 Take good care of your heart

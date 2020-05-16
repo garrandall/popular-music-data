@@ -1,8 +1,11 @@
 ---
+album: Release Some Tension
 artists:
 - SWV
+external_ids:
+  spotify: spotify:track:4G1qRhOk1YY0kewtMaCrMC
 features: []
-genres: []
+first_released_as_single: false
 key: rain-swv
 lyrics_url: https://www.musixmatch.com/lyrics/SWV/Rain
 name: Rain
@@ -63,6 +66,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1998-06-27'
+release_year: 1997
+runtime: 264506
 ---
 Sometimes it's soft as a misty rain
 That gently touches my soul

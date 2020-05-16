@@ -1,8 +1,11 @@
 ---
+album: Speak Now
 artists:
 - Taylor Swift
+external_ids:
+  spotify: spotify:track:1nYWTzy5zu3zEPNgB1sItW
 features: []
-genres: []
+first_released_as_single: false
 key: speak-now-taylor-swift
 lyrics_url: https://genius.com/Taylor-swift-speak-now-lyrics
 name: Speak Now
@@ -19,6 +22,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2010-11-06'
+release_year: 2010
+runtime: 240760
 ---
 I am not the kind of girl
 Who should be rudely barging in

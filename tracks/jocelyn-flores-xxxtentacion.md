@@ -1,8 +1,11 @@
 ---
+album: '17'
 artists:
 - XXXTENTACION
+external_ids:
+  spotify: spotify:track:7m9OqQk4RVRkw9JJdeAw96
 features: []
-genres: []
+first_released_as_single: false
 key: jocelyn-flores-xxxtentacion
 lyrics_url: https://www.azlyrics.com/lyrics/xxxtentacion/jocelynflores.html
 name: Jocelyn Flores
@@ -87,9 +90,9 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '2018-07-21'
+release_year: 2017
+runtime: 119133
 ---
-
-
 I know you so well, so well
 I mean, I can do anything that he can
 I've been pretty...
@@ -127,6 +130,3 @@ I know you so well (I know you, girl)
 I mean, I can do better than he can
 I've been pretty...
 I know you so well
-
-
-

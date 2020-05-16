@@ -1,8 +1,11 @@
 ---
+album: To Sir With Love
 artists:
 - Lulu
+external_ids:
+  spotify: spotify:track:0gBFr7N2D1GfhkXIIepIGG
 features: []
-genres: []
+first_released_as_single: false
 key: to-sir-with-love-lulu
 lyrics_url: https://genius.com/Lulu-to-sir-with-love-lyrics
 name: To Sir With Love
@@ -75,6 +78,8 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '1967-12-30'
+release_year: 1967
+runtime: 166693
 ---
 Those schoolgirl days
 Of telling tales and biting nails are gone

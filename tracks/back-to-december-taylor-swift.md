@@ -1,8 +1,11 @@
 ---
+album: Speak Now
 artists:
 - Taylor Swift
+external_ids:
+  spotify: spotify:track:3DrjZArsPsoqbLzUZZV1Id
 features: []
-genres: []
+first_released_as_single: false
 key: back-to-december-taylor-swift
 lyrics_url: https://www.azlyrics.com/lyrics/taylorswift/backtodecember.html
 name: Back To December
@@ -87,8 +90,9 @@ rankings:
   rank: 37
   ranking_list: Billboard Hot 100
   start_date: '2011-03-26'
+release_year: 2010
+runtime: 293026
 ---
-
 I'm so glad you made time to see me.
 How's life? Tell me how's your family?
 I haven't seen them in a while.
@@ -152,6 +156,3 @@ I'd go back to December, turn around and change my own mind
 
 I go back to December all the time.
 All the time.
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Let's Do It Again Original Sound Track
 artists:
 - The Staple Singers
+external_ids:
+  spotify: spotify:track:7tjv5E2nQoP7tM69FLMJpu
 features: []
-genres: []
+first_released_as_single: false
 key: new-orleans-the-staple-singers
 lyrics_url: https://www.azlyrics.com/lyrics/staplesingers/neworleans.html
 name: New Orleans
@@ -31,8 +34,9 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1976-04-03'
+release_year: 1975
+runtime: 266306
 ---
-
 Down in New Orleans...
 New Orleans...
 
@@ -68,6 +72,3 @@ Down home in New Orleans
 
 Sweet Louisiana
 New Orleans...
-
-
-

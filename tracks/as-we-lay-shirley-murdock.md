@@ -1,8 +1,11 @@
 ---
+album: Shirley Murdock
 artists:
 - Shirley Murdock
+external_ids:
+  spotify: spotify:track:3HNjLJb6VfoP0VC30TdxyE
 features: []
-genres: []
+first_released_as_single: false
 key: as-we-lay-shirley-murdock
 lyrics_url: https://genius.com/Shirley-murdock-as-we-lay-lyrics
 name: As We Lay
@@ -79,6 +82,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1987-05-16'
+release_year: 1986
+runtime: 359000
 ---
 It's morning
 And we slept the night away

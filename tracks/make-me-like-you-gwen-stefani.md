@@ -1,8 +1,11 @@
 ---
+album: This Is What The Truth Feels Like
 artists:
 - Gwen Stefani
+external_ids:
+  spotify: spotify:track:3AIOGUttDrVfuAvP1kotP9
 features: []
-genres: []
+first_released_as_single: false
 key: make-me-like-you-gwen-stefani
 lyrics_url: https://genius.com/Gwen-stefani-make-me-like-you-lyrics
 name: Make Me Like You
@@ -27,6 +30,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2016-04-16'
+release_year: 2016
+runtime: 216946
 ---
 I was fine 'fore I met you
 I was broken but fine

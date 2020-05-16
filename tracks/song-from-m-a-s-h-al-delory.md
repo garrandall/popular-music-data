@@ -1,8 +1,11 @@
 ---
+album: Floreando/Salsa Jazz
 artists:
 - Al DeLory
+external_ids:
+  spotify: spotify:track:2gWKnxjLsVlaeGvkNJ7JSg
 features: []
-genres: []
+first_released_as_single: false
 key: song-from-m-a-s-h-al-delory
 name: Song From M*A*S*H
 rankings:
@@ -54,5 +57,7 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1970-09-05'
+release_year: 1970
+runtime: 222226
 ---
 

@@ -1,8 +1,11 @@
 ---
+album: Aijuswanaseing
 artists:
 - Musiq Soulchild
+external_ids:
+  spotify: spotify:track:6uSa5iCMwPr10Ftpz8w09b
 features: []
-genres: []
+first_released_as_single: false
 key: love-musiq-soulchild
 lyrics_url: https://genius.com/Musiq-soulchild-love-lyrics
 name: Love
@@ -91,6 +94,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2001-07-07'
+release_year: 2000
+runtime: 304666
 ---
 Love
 So many things I've got to tell you

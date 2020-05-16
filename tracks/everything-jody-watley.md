@@ -1,8 +1,11 @@
 ---
+album: Larger Than Life
 artists:
 - Jody Watley
+external_ids:
+  spotify: spotify:track:5p4xF15jnsw1rfi55Gv1lU
 features: []
-genres: []
+first_released_as_single: false
 key: everything-jody-watley
 lyrics_url: https://www.azlyrics.com/lyrics/jodywatley/everythingyoudo.html
 name: Everything
@@ -99,8 +102,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1990-03-17'
+release_year: 1989
+runtime: 255413
 ---
-
 Lucky, lucky me
 I've got my hands on you
 I had to wait around
@@ -208,6 +212,3 @@ If I can't deal with you
 Don't change a thing
 I'll try and hang
 With everything you do, boy
-
-
-

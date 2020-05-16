@@ -1,8 +1,11 @@
 ---
+album: Hotel California
 artists:
 - Eagles
+external_ids:
+  spotify: spotify:track:40riOy7x9W7GXjyGp4pjAv
 features: []
-genres: []
+first_released_as_single: false
 key: hotel-california-eagles
 lyrics_url: https://www.azlyrics.com/lyrics/eagles/hotelcalifornia.html
 name: Hotel California
@@ -83,8 +86,9 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1977-07-02'
+release_year: 1976
+runtime: 391376
 ---
-
 On a dark desert highway, cool wind in my hair
 Warm smell of colitas, rising up through the air
 Up ahead in the distance, I saw a shimmering light
@@ -139,6 +143,3 @@ I had to find the passage back to the place I was before
 "We are programmed to receive
 You can check-out any time you like
 But you can never leave!"
-
-
-

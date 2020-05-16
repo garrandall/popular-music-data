@@ -1,9 +1,12 @@
 ---
+album: Hey Daddy (Daddy's Home)
 artists:
 - Usher
+external_ids:
+  spotify: spotify:track:1kLYMOFEzQX9PgdKB7VkSL
 features:
 - Plies
-genres: []
+first_released_as_single: true
 key: hey-daddy--daddy-s-home--usher-plies
 lyrics_url: https://www.musixmatch.com/lyrics/Usher-feat-Plies/Hey-Daddy-Daddy-s-Home
 name: Hey Daddy (Daddy's Home)
@@ -92,6 +95,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2010-06-19'
+release_year: 2009
+runtime: 256293
 ---
 Usher, baby I just wanna get your attention
 I really wanna be all up in your head

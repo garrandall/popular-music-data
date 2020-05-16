@@ -1,8 +1,11 @@
 ---
+album: Free-For-All
 artists:
 - Ted Nugent
+external_ids:
+  spotify: spotify:track:2Aj3IUFmYls1SzCtxDOpTO
 features: []
-genres: []
+first_released_as_single: false
 key: dog-eat-dog-ted-nugent
 lyrics_url: https://www.azlyrics.com/lyrics/tednugent/dogeatdog.html
 name: Dog Eat Dog
@@ -15,8 +18,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1976-12-04'
+release_year: 1975
+runtime: 243693
 ---
-
 Sabotage on a downtown street
 Police cars overturned
 You can't do nothing to beat the heat
@@ -48,6 +52,3 @@ Dog, dog, dog eat dog
 Dog, dog, dog eat dog
 Dog, dog, dog eat dog
 Dog, dog, dog eat dog...
-
-
-

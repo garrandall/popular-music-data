@@ -1,8 +1,11 @@
 ---
+album: Dancing On The Ceiling
 artists:
 - Lionel Richie
+external_ids:
+  spotify: spotify:track:6nbi2AJ9hAi2SE8jH6mRKV
 features: []
-genres: []
+first_released_as_single: false
 key: love-will-conquer-all-lionel-richie
 lyrics_url: https://www.azlyrics.com/lyrics/lionelrichie/lovewillconquerall.html
 name: Love Will Conquer All
@@ -79,8 +82,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1987-01-31'
+release_year: 1986
+runtime: 340986
 ---
-
 Here we are out hear, me and you
 Reaching out to each other
 Is all that we can do
@@ -113,6 +117,3 @@ Sometimes when life seems to unravel
 That's the time oh to say
 We're gonna make it anyway
 Can't you see that?
-
-
-

@@ -1,9 +1,12 @@
 ---
+album: True Colors
 artists:
 - Zedd
+external_ids:
+  spotify: spotify:track:1JDIArrcepzWDTAWXdGYmP
 features:
 - Selena Gomez
-genres: []
+first_released_as_single: false
 key: i-want-you-to-know-zedd-selena-gomez
 lyrics_url: https://www.azlyrics.com/lyrics/zedd/iwantyoutoknow.html
 name: I Want You To Know
@@ -72,9 +75,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2015-06-27'
+release_year: 2015
+runtime: 240000
 ---
-
-
 I want you to know that it's our time
 You and me bleed the same light
 I want you to know that I'm all yours
@@ -113,6 +116,3 @@ That's anybody else that's met ya
 It's all the same, all the same, all the same glow
 
 You and me run the same course
-
-
-

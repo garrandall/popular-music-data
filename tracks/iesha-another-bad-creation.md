@@ -1,8 +1,11 @@
 ---
+album: Coolin' at the Playground Ya Know!
 artists:
 - Another Bad Creation
+external_ids:
+  spotify: spotify:track:18qgd61768n3awNU4cnr9R
 features: []
-genres: []
+first_released_as_single: false
 key: iesha-another-bad-creation
 lyrics_url: https://genius.com/Another-bad-creation-iesha-lyrics
 name: Iesha
@@ -99,6 +102,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1991-06-15'
+release_year: 1991
+runtime: 261956
 ---
 RoRo:
 Iesha, Iesha so glad to meetcha

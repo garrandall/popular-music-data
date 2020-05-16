@@ -1,8 +1,11 @@
 ---
+album: Living In The USA
 artists:
 - Linda Ronstadt
+external_ids:
+  spotify: spotify:track:6MoqVH4xRCjOu3B2dKu31l
 features: []
-genres: []
+first_released_as_single: false
 key: back-in-the-usa-linda-ronstadt
 lyrics_url: https://www.azlyrics.com/lyrics/lindaronstadt/backintheusa.html
 name: Back In The Usa
@@ -59,8 +62,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1978-11-11'
+release_year: 1978
+runtime: 213106
 ---
-
 Oh well oh well I feel so good today
 We just touched ground on an international runway
 Jet-propelled back home from overseas to the USA
@@ -94,6 +98,3 @@ Ah we're so glad
 We're so glad
 Ah we're so glad
 We're so glad
-
-
-

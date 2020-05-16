@@ -1,10 +1,13 @@
 ---
+album: A Love Letter To You 4
 artists:
 - Trippie Redd
+external_ids:
+  spotify: spotify:track:7tgjDlQsMR8RvkdlNCJA58
 features:
 - Juice WRLD
 - YNW Melly
-genres: []
+first_released_as_single: false
 key: 6-kiss-trippie-redd-juice-wrld-ynw-melly
 lyrics_url: https://www.azlyrics.com/lyrics/trippieredd/6kiss.html
 name: 6 Kiss
@@ -25,8 +28,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2019-12-28'
+release_year: 2019
+runtime: 199436
 ---
-
 (I love Trippie Redd)
 
 Ohh, oh
@@ -81,6 +85,3 @@ Like close the burtains in this bitch, uh, yeah
 Uh, it's a living hell and we live in hell
 I'm from there, living hell, I'm from there, I live in hell, I'm from there, yeah, gang
 La-la-la-la, Gang, La-la-la-la
-
-
-

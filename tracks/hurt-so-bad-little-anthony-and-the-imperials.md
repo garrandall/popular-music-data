@@ -1,8 +1,11 @@
 ---
+album: Goin' Out Of My Head
 artists:
 - Little Anthony And The Imperials
+external_ids:
+  spotify: spotify:track:2mws4tIE5QT2b345hoCe0x
 features: []
-genres: []
+first_released_as_single: false
 key: hurt-so-bad-little-anthony-and-the-imperials
 lyrics_url: https://genius.com/Little-anthony-and-the-imperials-hurt-so-bad-lyrics
 name: Hurt So Bad
@@ -43,6 +46,8 @@ rankings:
   rank: 38
   ranking_list: Billboard Hot 100
   start_date: '1965-04-03'
+release_year: 1964
+runtime: 139840
 ---
 I know you
 Don't know what I'm goin' through

@@ -1,8 +1,11 @@
 ---
+album: Back To The World
 artists:
 - Curtis Mayfield
+external_ids:
+  spotify: spotify:track:0w3FFyoLff7Z39YhOxBz0J
 features: []
-genres: []
+first_released_as_single: false
 key: can-t-say-nothin--curtis-mayfield
 lyrics_url: https://genius.com/Curtis-mayfield-cant-say-nothin-lyrics
 name: Can't Say Nothin'
@@ -27,6 +30,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1974-01-26'
+release_year: 1973
+runtime: 317426
 ---
 Oh, yeah, one time for me
 Do it

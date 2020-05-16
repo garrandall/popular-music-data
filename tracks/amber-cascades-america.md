@@ -1,8 +1,11 @@
 ---
+album: Hideaway
 artists:
 - America
+external_ids:
+  spotify: spotify:track:6Od3MYcQwJDSIbOfyxGLCx
 features: []
-genres: []
+first_released_as_single: false
 key: amber-cascades-america
 lyrics_url: https://www.azlyrics.com/lyrics/america/ambercascades.html
 name: Amber Cascades
@@ -23,8 +26,9 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1976-09-11'
+release_year: 1976
+runtime: 171866
 ---
-
 Amber cascades all over today
 Then we walk on a crooked catwalk
 Only to be delayed
@@ -49,6 +53,3 @@ We talk of a plan to stop all the slaughter in view
 Then we call to the man who walks on the water
 We talk of a plan to stop all the slaughter in view
 It's in view
-
-
-

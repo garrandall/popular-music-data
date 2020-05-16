@@ -1,9 +1,12 @@
 ---
+album: The Definitive Collection
 artists:
 - Dawn
+external_ids:
+  spotify: spotify:track:1hoOlXhJPYfNeBBz7Zdqrk
 features:
 - Tony Orlando
-genres: []
+first_released_as_single: false
 key: it-only-hurts-when-i-try-to-smile-dawn-tony-orlando
 name: It Only Hurts When I Try To Smile
 rankings:
@@ -27,5 +30,7 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1974-04-27'
+release_year: 1973
+runtime: 213360
 ---
 

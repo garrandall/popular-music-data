@@ -1,8 +1,11 @@
 ---
+album: Concert In The Sky
 artists:
 - Sheryl Crow
+external_ids:
+  spotify: spotify:track:7gN24J8E0pR3G2nsbhkcjw
 features: []
-genres: []
+first_released_as_single: false
 key: the-first-cut-is-the-deepest-sheryl-crow
 lyrics_url: https://www.azlyrics.com/lyrics/sherylcrow/thefirstcutisthedeepest.html
 name: The First Cut Is The Deepest
@@ -151,8 +154,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2004-06-26'
+release_year: 2003
+runtime: 227400
 ---
-
 I would have given you all of my heart
 But there's someone who's torn it apart
 And he's taken just all that I had
@@ -197,6 +201,3 @@ The first cut is the deepest
 Baby I know (baby I know)
 The first cut is the deepest
 Try to love again...
-
-
-

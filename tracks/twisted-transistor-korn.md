@@ -1,8 +1,11 @@
 ---
+album: See You On the Other Side
 artists:
 - Korn
+external_ids:
+  spotify: spotify:track:77VW8u6inET54YAKN1RSnd
 features: []
-genres: []
+first_released_as_single: false
 key: twisted-transistor-korn
 lyrics_url: https://www.azlyrics.com/lyrics/korn/twistedtransistor.html
 name: Twisted Transistor
@@ -51,8 +54,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2006-02-04'
+release_year: 2005
+runtime: 188933
 ---
-
 Hey you, hey you, Devil's little sister
 Listening to your Twisted Transistor
 Hold it between your legs
@@ -107,6 +111,3 @@ Fuck you too
 Your scream's a whisper
 Hang on you
 Twisted Transistor
-
-
-

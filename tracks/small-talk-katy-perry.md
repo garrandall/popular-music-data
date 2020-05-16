@@ -1,8 +1,11 @@
 ---
+album: Small Talk
 artists:
 - Katy Perry
+external_ids:
+  spotify: spotify:track:4NmE2ytXI8S2svTRSmEdpO
 features: []
-genres: []
+first_released_as_single: true
 key: small-talk-katy-perry
 lyrics_url: https://www.azlyrics.com/lyrics/katyperry/smalltalk.html
 name: Small Talk
@@ -11,8 +14,9 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '2019-08-24'
+release_year: 2019
+runtime: 161962
 ---
-
 Isn't it strange, that you used to know me
 All the highs and lows and in betweens
 And now you see me and just say, "Hey"
@@ -87,6 +91,3 @@ Blah blah blah blah
 Blah blah blah blah
 Blah blah blah blah
 Now there's nothing left but small talk
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: In 3-D
 artists:
 - '"Weird Al" Yankovic'
+external_ids:
+  spotify: spotify:track:0uTSpsec5kXkNQQjzt6dIB
 features: []
-genres: []
+first_released_as_single: false
 key: king-of-suede--weird-al--yankovic
 lyrics_url: https://www.azlyrics.com/lyrics/weirdalyankovic/kingofsuede.html
 name: King Of Suede
@@ -31,8 +34,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1984-06-09'
+release_year: 1984
+runtime: 255373
 ---
-
 There's a sale on our gabardine suits today
 They're all thirty percent off from yesterday
 There's Fortrel polyester, leather, wool, and tweed
@@ -94,6 +98,3 @@ King of Suede
 King of Suede
 I'll always be King of Suede
 I'll always be King of Suede
-
-
-

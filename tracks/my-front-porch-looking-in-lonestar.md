@@ -1,8 +1,11 @@
 ---
+album: 'Playlist: The Very Best Of Lonestar'
 artists:
 - Lonestar
+external_ids:
+  spotify: spotify:track:2CVJECHIdpe8otFH0XFI4F
 features: []
-genres: []
+first_released_as_single: false
 key: my-front-porch-looking-in-lonestar
 lyrics_url: https://genius.com/Lonestar-my-front-porch-looking-in-lyrics
 name: My Front Porch Looking In
@@ -95,6 +98,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2003-09-13'
+release_year: 1995
+runtime: 223573
 ---
 Oh yeah
 Woo, yeah

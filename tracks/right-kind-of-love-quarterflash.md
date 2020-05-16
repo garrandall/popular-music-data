@@ -1,8 +1,11 @@
 ---
+album: Quarterflash
 artists:
 - Quarterflash
+external_ids:
+  spotify: spotify:track:0WeBhzM2MFPfA1E2GliJy6
 features: []
-genres: []
+first_released_as_single: false
 key: right-kind-of-love-quarterflash
 lyrics_url: https://genius.com/Quarterflash-right-kind-of-love-lyrics
 name: Right Kind Of Love
@@ -39,6 +42,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1982-07-17'
+release_year: 1981
+runtime: 232426
 ---
 Babe, your love surrounds me but never gives me half a chance
 I need a little heart and affection ‘cause love needs a little romance

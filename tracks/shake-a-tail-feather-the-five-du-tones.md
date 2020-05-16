@@ -1,8 +1,11 @@
 ---
+album: Move With the Groove - Hardcore Chicago Soul 1962-1970
 artists:
 - The Five Du-Tones
+external_ids:
+  spotify: spotify:track:4E3H8bouRbrRoEC5nDbMCI
 features: []
-genres: []
+first_released_as_single: false
 key: shake-a-tail-feather-the-five-du-tones
 lyrics_url: https://genius.com/The-five-du-tones-shake-a-tail-feather-lyrics
 name: Shake A Tail Feather
@@ -55,6 +58,8 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '1963-08-03'
+release_year: 1963
+runtime: 141800
 ---
 I heard about the fella you been dancin' with
 All over the neighborhood

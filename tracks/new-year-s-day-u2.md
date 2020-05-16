@@ -1,8 +1,11 @@
 ---
+album: War
 artists:
 - U2
+external_ids:
+  spotify: spotify:track:7ErWGndDTgKlSkVKe9XDNJ
 features: []
-genres: []
+first_released_as_single: false
 key: new-year-s-day-u2
 lyrics_url: https://www.azlyrics.com/lyrics/u2band/newyearsday.html
 name: New Year's Day
@@ -55,8 +58,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1983-06-18'
+release_year: 1983
+runtime: 235773
 ---
-
 Yeah...
 
 All is quiet on New Year's Day
@@ -95,6 +99,3 @@ Be with you night and day
 Nothing changes 
 On New Year's Day
 On New Year's Day
-
-
-

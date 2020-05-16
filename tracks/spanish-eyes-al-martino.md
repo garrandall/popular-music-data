@@ -1,8 +1,11 @@
 ---
+album: My Cherie
 artists:
 - Al Martino
+external_ids:
+  spotify: spotify:track:55Z0KHofKqhOMIOygAVXxm
 features: []
-genres: []
+first_released_as_single: false
 key: spanish-eyes-al-martino
 lyrics_url: https://genius.com/Al-martino-spanish-eyes-lyrics
 name: Spanish Eyes
@@ -55,6 +58,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1966-02-19'
+release_year: 1965
+runtime: 166906
 ---
 Blue Spanish eyes
 Teardrops are falling from your Spanish eyes

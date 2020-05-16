@@ -1,8 +1,11 @@
 ---
+album: Rock America
 artists:
 - Nick Gilder
+external_ids:
+  spotify: spotify:track:4F1DV1FrB68LNpmlvQs01N
 features: []
-genres: []
+first_released_as_single: false
 key: hot-child-in-the-city-nick-gilder
 lyrics_url: https://www.azlyrics.com/lyrics/nickgilder/hotchildinthecity.html
 name: Hot Child In The City
@@ -131,8 +134,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1979-01-06'
+release_year: 1978
+runtime: 215092
 ---
-
 Danger in the shape of somethin' wild
 Stranger dressed in black, she's a hungry child
 No one knows who she is or what her name is
@@ -178,6 +182,3 @@ Hot child in the city
 Oh
 
 Hot child
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Home Again
 artists:
 - New Edition
+external_ids:
+  spotify: spotify:track:46LEQkbfPT5x2ZanS3STg5
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-still-in-love-with-you-new-edition
 lyrics_url: https://genius.com/New-edition-im-still-in-love-with-you-lyrics
 name: I'm Still In Love With You
@@ -87,6 +90,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1997-03-22'
+release_year: 1996
+runtime: 279666
 ---
 Still in love...
 Mmm

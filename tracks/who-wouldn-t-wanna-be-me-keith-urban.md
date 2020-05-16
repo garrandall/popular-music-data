@@ -1,8 +1,11 @@
 ---
+album: Golden Road
 artists:
 - Keith Urban
+external_ids:
+  spotify: spotify:track:3fFSBcjVJn6POSCOdm20H0
 features: []
-genres: []
+first_released_as_single: false
 key: who-wouldn-t-wanna-be-me-keith-urban
 lyrics_url: https://genius.com/Keith-urban-who-wouldnt-wanna-be-me-lyrics
 name: Who Wouldn't Wanna Be Me
@@ -87,6 +90,8 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '2003-12-27'
+release_year: 2002
+runtime: 255746
 ---
 I got no money in my pockets
 I got a hole in my jeans

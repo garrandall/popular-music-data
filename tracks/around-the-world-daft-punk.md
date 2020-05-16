@@ -1,8 +1,11 @@
 ---
+album: Homework
 artists:
 - Daft Punk
+external_ids:
+  spotify: spotify:track:1pKYYY0dkg23sQQXi0Q5zN
 features: []
-genres: []
+first_released_as_single: false
 key: around-the-world-daft-punk
 lyrics_url: https://genius.com/Daft-punk-around-the-world-lyrics
 name: Around The World
@@ -87,6 +90,8 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1998-01-10'
+release_year: 1997
+runtime: 429533
 ---
 Around the world, around the world
 Around the world, around the world

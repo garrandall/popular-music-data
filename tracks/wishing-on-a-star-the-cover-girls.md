@@ -1,8 +1,11 @@
 ---
+album: The Cover Girls Greatest Hits
 artists:
 - The Cover Girls
+external_ids:
+  spotify: spotify:track:2PeP9g0AZq7KoLoeN9n9QY
 features: []
-genres: []
+first_released_as_single: false
 key: wishing-on-a-star-the-cover-girls
 lyrics_url: https://genius.com/The-cover-girls-wishing-on-a-star-lyrics
 name: Wishing On A Star
@@ -87,6 +90,8 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1992-10-10'
+release_year: 1992
+runtime: 240706
 ---
 I'm wishing on a star
 To follow where you are

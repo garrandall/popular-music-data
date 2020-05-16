@@ -1,8 +1,11 @@
 ---
+album: Go Insane
 artists:
 - Lindsey Buckingham
+external_ids:
+  spotify: spotify:track:143sH2crBs4fUQyRr8pjUm
 features: []
-genres: []
+first_released_as_single: false
 key: go-insane-lindsey-buckingham
 lyrics_url: https://genius.com/Lindsey-buckingham-go-insane-lyrics
 name: Go Insane
@@ -71,6 +74,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1984-11-10'
+release_year: 1984
+runtime: 185333
 ---
 Two kinds of people in this world
 Winners, losers

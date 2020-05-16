@@ -1,8 +1,11 @@
 ---
+album: Red River Blue
 artists:
 - Blake Shelton
+external_ids:
+  spotify: spotify:track:7haN4XreV4WkoBQmkYM709
 features: []
-genres: []
+first_released_as_single: false
 key: drink-on-it-blake-shelton
 lyrics_url: https://www.musixmatch.com/lyrics/Blake-Shelton/Drink-On-It
 name: Drink On It
@@ -83,6 +86,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2012-06-16'
+release_year: 2011
+runtime: 211066
 ---
 O-oh
 Hey girl, hey where ya goin'?

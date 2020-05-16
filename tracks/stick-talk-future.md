@@ -1,8 +1,11 @@
 ---
+album: DS2
 artists:
 - Future
+external_ids:
+  spotify: spotify:track:78QYknG6pQNfq0ORmiO77L
 features: []
-genres: []
+first_released_as_single: false
 key: stick-talk-future
 lyrics_url: https://genius.com/Future-stick-talk-lyrics
 name: Stick Talk
@@ -15,6 +18,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2016-01-16'
+release_year: 2015
+runtime: 171543
 ---
 Took a shot of Henny, I've been going brazy, brazy
 They say my whole hood got it under investigation

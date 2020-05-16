@@ -1,8 +1,11 @@
 ---
+album: Tanya Tucker / Super Hits
 artists:
 - Tanya Tucker
+external_ids:
+  spotify: spotify:track:0J6dezPhTa0ePaN87kphCs
 features: []
-genres: []
+first_released_as_single: false
 key: what-s-your-mama-s-name-tanya-tucker
 lyrics_url: https://www.azlyrics.com/lyrics/tanyatucker/whatsyourmamasname.html
 name: What's Your Mama's Name
@@ -23,8 +26,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1973-06-16'
+release_year: 1972
+runtime: 182493
 ---
-
 Thirty some odd years ago
 A young man came to Memphis
 Askin' 'bout a rose that used to blossom
@@ -59,4 +63,3 @@ Inside the old man's ragged coat
 They found a faded letter
 It said you have a daughter
 And her eyes are Wilson green
-

@@ -1,8 +1,11 @@
 ---
+album: Spirit Of America
 artists:
 - The Beach Boys
+external_ids:
+  spotify: spotify:track:4TTuKE6aime5LXUBh96wYc
 features: []
-genres: []
+first_released_as_single: false
 key: the-little-girl-i-once-knew-the-beach-boys
 lyrics_url: https://genius.com/The-beach-boys-the-little-girl-i-once-knew-lyrics
 name: The Little Girl I Once Knew
@@ -39,6 +42,8 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1966-01-15'
+release_year: 1965
+runtime: 156360
 ---
 We met when she was younger
 Then I had no eyes for her

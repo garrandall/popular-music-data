@@ -1,8 +1,11 @@
 ---
+album: In The Mood For Love-Classic Ballads
 artists:
 - Brenda Lee
+external_ids:
+  spotify: spotify:track:72BDusX5digwIbCTDd8QXH
 features: []
-genres: []
+first_released_as_single: false
 key: the-crying-game-brenda-lee
 lyrics_url: https://genius.com/Brenda-lee-the-crying-game-lyrics
 name: The Crying Game
@@ -23,6 +26,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1965-01-30'
+release_year: 1965
+runtime: 161400
 ---
 I know all there is to know about the crying game
 I've had my share of the crying game

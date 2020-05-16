@@ -1,8 +1,11 @@
 ---
+album: Gold
 artists:
 - Connie Francis
+external_ids:
+  spotify: spotify:track:1H4pImseseS6GMEhYgET24
 features: []
-genres: []
+first_released_as_single: false
 key: in-the-summer-of-his-years-connie-francis
 lyrics_url: https://www.azlyrics.com/lyrics/conniefrancis/inthesummerofhisyears.html
 name: In The Summer Of His Years
@@ -31,8 +34,9 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '1964-02-01'
+release_year: 1963
+runtime: 155333
 ---
-
 A young man rode with his head held high
 Under the Texas sun
 And no one guessed that a man so blessed
@@ -56,6 +60,3 @@ The victories that he won
 For wherever man look to freedom 
 His soul goes riding on
 Lord, his soul goes riding on
-
-
-

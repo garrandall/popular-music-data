@@ -1,8 +1,11 @@
 ---
+album: Reach For It
 artists:
 - George Duke
+external_ids:
+  spotify: spotify:track:3j8xsPnIX77j4VhgYlroOA
 features: []
-genres: []
+first_released_as_single: false
 key: reach-for-it-george-duke
 lyrics_url: https://genius.com/George-duke-reach-for-it-lyrics
 name: Reach For It
@@ -31,6 +34,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1978-02-11'
+release_year: 1977
+runtime: 293973
 ---
 Dance
 Dance

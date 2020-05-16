@@ -1,9 +1,12 @@
 ---
+album: Cry Pretty
 artists:
 - Carrie Underwood
+external_ids:
+  spotify: spotify:track:0stPNUkU1LZnvxIcfrKnEZ
 features:
 - Ludacris
-genres: []
+first_released_as_single: true
 key: the-champion-carrie-underwood-ludacris
 lyrics_url: https://www.azlyrics.com/lyrics/carrieunderwood/thechampion.html
 name: The Champion
@@ -20,9 +23,9 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '2018-03-17'
+release_year: 2018
+runtime: 223998
 ---
-
-
 I'll be the last one standing
 Two hands in the air, I'm a champion
 You'll be looking up at me when it's over
@@ -108,6 +111,3 @@ That's what champions are made of
 
 
 I am the champion
-
-
-

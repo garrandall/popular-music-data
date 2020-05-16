@@ -1,8 +1,11 @@
 ---
+album: After Midnight (Expanded Version)
 artists:
 - The Manhattans
+external_ids:
+  spotify: spotify:track:3rbuoed2rDFJdG3SoKhdxN
 features: []
-genres: []
+first_released_as_single: false
 key: shining-star-the-manhattans
 lyrics_url: https://genius.com/The-manhattans-shining-star-lyrics
 name: Shining Star
@@ -107,6 +110,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1980-10-11'
+release_year: 1973
+runtime: 280866
 ---
 Oh yeahhhh
 

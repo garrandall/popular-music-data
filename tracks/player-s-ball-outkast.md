@@ -1,8 +1,11 @@
 ---
+album: Southernplayalisticadillacmuzik
 artists:
 - OutKast
+external_ids:
+  spotify: spotify:track:7LZDnTeLZK2OXnLsr8t8Tx
 features: []
-genres: []
+first_released_as_single: false
 key: player-s-ball-outkast
 lyrics_url: https://www.azlyrics.com/lyrics/outkast/playersballoriginalversion.html
 name: Player's Ball
@@ -87,8 +90,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1994-07-09'
+release_year: 1993
+runtime: 262400
 ---
-
 Man, let me hear that, man
 You gon' pay at that?
 
@@ -224,6 +228,3 @@ All the players came from far and wide
 Wearing afros and braids kicking them gangster ride
 Now I'm here to tell you there's a better day
 When the player ball is happening all day every day
-
-
-

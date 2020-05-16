@@ -1,8 +1,11 @@
 ---
+album: Lost tapes
 artists:
 - King Harvest
+external_ids:
+  spotify: spotify:track:3atXF2eAOpkbcxLN1nGlW1
 features: []
-genres: []
+first_released_as_single: false
 key: a-little-bit-like-magic-king-harvest
 lyrics_url: https://www.azlyrics.com/lyrics/kingharvest/alittlebitlikemagic.html
 name: A Little Bit Like Magic
@@ -23,8 +26,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1973-05-26'
+release_year: 1973
+runtime: 139560
 ---
-
 I looked around my town this morning
 I took a walk through my neighborhood
 Well it, it came without a warning
@@ -68,6 +72,3 @@ It's a little bit like magic
 It's just a little bit like magic
 Mmm, a little bit like magic
 It's a little bit like magic
-
-
-

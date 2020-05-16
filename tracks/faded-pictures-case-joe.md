@@ -1,9 +1,12 @@
 ---
+album: Personal Conversation
 artists:
 - Case
 - Joe
+external_ids:
+  spotify: spotify:track:51YwhosVVOwTuI8EJt1bA5
 features: []
-genres: []
+first_released_as_single: false
 key: faded-pictures-case-joe
 lyrics_url: https://www.azlyrics.com/lyrics/case/fadedpictures.html
 name: Faded Pictures
@@ -88,8 +91,9 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1999-05-08'
+release_year: 1998
+runtime: 232533
 ---
-
 That's right
 Life is funny, ain't it?
 Sometimes you can end up with
@@ -128,4 +132,3 @@ To smell the scent of an old rose, from her lover I suppose oh
 As she stares into the glass, I'll be waiting
 (Oh na, na, na, na, na, na)
 Cuz she's lost inside the past
-

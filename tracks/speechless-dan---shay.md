@@ -1,8 +1,11 @@
 ---
+album: Dan + Shay
 artists:
 - Dan + Shay
+external_ids:
+  spotify: spotify:track:7q7jyVU0f0hnod8tsaUmxg
 features: []
-genres: []
+first_released_as_single: true
 key: speechless-dan---shay
 lyrics_url: https://www.azlyrics.com/lyrics/danshay/speechless.html
 name: Speechless
@@ -167,8 +170,9 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '2019-10-05'
+release_year: 2018
+runtime: 212745
 ---
-
 You say you'll be down in five
 The smell of your perfume
 Is floating down the stairs
@@ -234,6 +238,3 @@ Every time you walk into the room
 I'm speechless
 
 Oh, you know it, baby
-
-
-

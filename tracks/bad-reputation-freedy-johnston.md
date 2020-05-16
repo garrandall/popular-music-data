@@ -1,8 +1,11 @@
 ---
+album: This Perfect World
 artists:
 - Freedy Johnston
+external_ids:
+  spotify: spotify:track:5aNAOwr2QoRbvyRG7ZVrhf
 features: []
-genres: []
+first_released_as_single: false
 key: bad-reputation-freedy-johnston
 lyrics_url: https://genius.com/Freedy-johnston-bad-reputation-lyrics
 name: Bad Reputation
@@ -55,6 +58,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1995-03-11'
+release_year: 1994
+runtime: 248560
 ---
 I know I got a bad reputation
 And it isn't just talk, talk, talk

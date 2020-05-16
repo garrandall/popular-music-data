@@ -1,8 +1,11 @@
 ---
+album: Mary Wells Sings My Guy
 artists:
 - Mary Wells
+external_ids:
+  spotify: spotify:track:4591VqUIXysNlmI5NcAIUd
 features: []
-genres: []
+first_released_as_single: false
 key: my-guy-mary-wells
 lyrics_url: https://genius.com/Mary-wells-my-guy-lyrics
 name: My Guy
@@ -67,6 +70,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1964-07-11'
+release_year: 1964
+runtime: 174440
 ---
 Nothing you can say can tear me away
 From my guy

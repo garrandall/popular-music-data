@@ -1,8 +1,11 @@
 ---
+album: Are You Lonely for Me?
 artists:
 - Freddie Scott
+external_ids:
+  spotify: spotify:track:1EXKgXQNrETEGqRjcFRbPZ
 features: []
-genres: []
+first_released_as_single: false
 key: cry-to-me-freddie-scott
 lyrics_url: https://genius.com/Freddie-scott-cry-to-me-lyrics
 name: Cry To Me
@@ -27,6 +30,8 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1967-04-22'
+release_year: 1967
+runtime: 198440
 ---
 When your baby leaves you all alone
 And nobody calls you on the phone

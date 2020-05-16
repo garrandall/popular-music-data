@@ -1,8 +1,11 @@
 ---
+album: Since I Fell For You
 artists:
 - The Dells
+external_ids:
+  spotify: spotify:track:7JYhFaoq0MWJ9OeDsD9wNV
 features: []
-genres: []
+first_released_as_single: false
 key: open-up-my-heart-the-dells
 lyrics_url: https://www.musixmatch.com/lyrics/The-Dells/Open-Up-My-Heart
 name: Open Up My Heart
@@ -39,6 +42,8 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '1970-06-06'
+release_year: 1970
+runtime: 394840
 ---
 I'm gonna open up my heart
 To the world this morning

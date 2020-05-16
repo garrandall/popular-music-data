@@ -1,8 +1,11 @@
 ---
+album: Heart Like A Wheel
 artists:
 - Linda Ronstadt
+external_ids:
+  spotify: spotify:track:5jPPjNMIi1rD6BvQqxhJh5
 features: []
-genres: []
+first_released_as_single: false
 key: when-will-i-be-loved-linda-ronstadt
 lyrics_url: https://genius.com/Linda-ronstadt-when-will-i-be-loved-lyrics
 name: When Will I Be Loved
@@ -67,6 +70,8 @@ rankings:
   rank: 23
   ranking_list: Billboard Hot 100
   start_date: '1975-07-19'
+release_year: 1974
+runtime: 124866
 ---
 I've been cheated
 Been mistreated

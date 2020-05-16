@@ -1,9 +1,12 @@
 ---
+album: Dig Your Roots
 artists:
 - Florida Georgia Line
+external_ids:
+  spotify: spotify:track:4VFE6ZNqa8jHAmbYICoAFg
 features:
 - Backstreet Boys
-genres: []
+first_released_as_single: false
 key: god-your-mama-and-me-florida-georgia-line-backstreet-boys
 lyrics_url: https://www.azlyrics.com/lyrics/floridageorgialine/godyourmamaandme.html
 name: God Your Mama And Me
@@ -84,8 +87,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2017-08-19'
+release_year: 2016
+runtime: 183413
 ---
-
 That Sunday morning choir calling, church doors open wide
 That hallelujah shoot right through ya, make you feel alive
 That key under the mat, you know right where it's at
@@ -136,6 +140,3 @@ God, your mama, and me
 God, your mama, and me
 Unconditionally
 God, your mama, and me
-
-
-

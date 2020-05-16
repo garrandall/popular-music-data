@@ -1,8 +1,11 @@
 ---
+album: Emotional
 artists:
 - Carl Thomas
+external_ids:
+  spotify: spotify:track:2qYIdNaktgtpaPHxDVMXbE
 features: []
-genres: []
+first_released_as_single: false
 key: emotional-carl-thomas
 lyrics_url: https://genius.com/Carl-thomas-emotional-lyrics
 name: Emotional
@@ -87,6 +90,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2001-04-07'
+release_year: 2000
+runtime: 271867
 ---
 I knew you when
 I had a friend

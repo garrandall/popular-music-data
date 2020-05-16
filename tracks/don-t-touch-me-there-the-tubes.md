@@ -1,8 +1,11 @@
 ---
+album: Young And Rich
 artists:
 - The Tubes
+external_ids:
+  spotify: spotify:track:47khefI5yEHStaBNhu4GUb
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-touch-me-there-the-tubes
 lyrics_url: https://genius.com/The-tubes-dont-touch-me-there-lyrics
 name: Don't Touch Me There
@@ -35,6 +38,8 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '1976-08-14'
+release_year: 1976
+runtime: 207226
 ---
 Oh, baby
 Move closer to me

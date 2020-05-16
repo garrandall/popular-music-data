@@ -1,8 +1,11 @@
 ---
+album: Brown Sugar
 artists:
 - D'Angelo
+external_ids:
+  spotify: spotify:track:7rt0kEDWRg3pgTZJKuszoE
 features: []
-genres: []
+first_released_as_single: false
 key: brown-sugar-d-angelo
 lyrics_url: https://www.musixmatch.com/lyrics/D-Angelo-2/Brown-Sugar
 name: Brown Sugar
@@ -87,6 +90,8 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '1995-11-11'
+release_year: 1995
+runtime: 262893
 ---
 Let me tell you 'bout this girl, maybe I shouldn't
 I met her in Philly and her name was Brown Sugar

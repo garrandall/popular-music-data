@@ -1,8 +1,11 @@
 ---
+album: Billy Idol
 artists:
 - Billy Idol
+external_ids:
+  spotify: spotify:track:5LeDMHIZ5YDZ2b1VOcYVcG
 features: []
-genres: []
+first_released_as_single: false
 key: hot-in-the-city-billy-idol
 lyrics_url: https://www.azlyrics.com/lyrics/billyidol/hotinthecity.html
 name: Hot In The City
@@ -115,8 +118,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1988-02-13'
+release_year: 1982
+runtime: 219133
 ---
-
 Stranger, stranger, stranger, stranger
 
 It's hot here at night, lonely, black and quiet
@@ -155,4 +159,3 @@ I will move with the beat now
 I'm a chain 'round an A-bomb
 I'm a ribbon in the heat now
 New York!
-

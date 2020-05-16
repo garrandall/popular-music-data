@@ -1,8 +1,11 @@
 ---
+album: Rock with Sedaka
 artists:
 - Neil Sedaka
+external_ids:
+  spotify: spotify:track:5zvOXJrzzUlvXwyuwZ0toZ
 features: []
-genres: []
+first_released_as_single: false
 key: oh--carol-neil-sedaka
 lyrics_url: https://www.azlyrics.com/lyrics/neilsedaka/ohcarol.html
 name: Oh! Carol
@@ -79,8 +82,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1960-02-08'
+release_year: 1959
+runtime: 135466
 ---
-
 Oh! Carol
 I am but a fool
 Darling, I love you
@@ -118,6 +122,3 @@ I will always want you for my sweet heart
 No matter what you do
 Oh! Carol
 I'm so in love with you
-
-
-

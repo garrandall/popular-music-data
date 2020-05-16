@@ -1,10 +1,13 @@
 ---
+album: Trilla
 artists:
 - Rick Ross
+external_ids:
+  spotify: spotify:track:67yGTWcR72BZvsrSS2dHST
 features:
 - Nelly
 - Avery Storm
-genres: []
+first_released_as_single: false
 key: here-i-am-rick-ross-nelly-avery-storm
 lyrics_url: https://www.azlyrics.com/lyrics/rickross/hereiam.html
 name: Here I Am
@@ -65,9 +68,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2008-10-11'
+release_year: 2008
+runtime: 209546
 ---
-
-
 I got a bunch of dollars
 I can spend them on her
 Cause she can be my lady,
@@ -169,6 +172,3 @@ Call me on the late night,
 Get right he ain't acting right
 Every super woman needs a super man
 Here I am
-
-
-

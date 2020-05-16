@@ -1,8 +1,11 @@
 ---
+album: Smithereens 11
 artists:
 - The Smithereens
+external_ids:
+  spotify: spotify:track:3DQ8ApiouUOkUbzCmyXwgW
 features: []
-genres: []
+first_released_as_single: false
 key: blues-before-and-after-the-smithereens
 lyrics_url: https://www.azlyrics.com/lyrics/smithereens/bluesbeforeandafter.html
 name: Blues Before And After
@@ -15,8 +18,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1990-05-12'
+release_year: 1989
+runtime: 195893
 ---
-
 You know I really wanna see you when you know I might not
 (And you make me want you more when you hurt me a lot)
 I say I really love you and you say that you don't
@@ -53,6 +57,3 @@ The blues before and after
 I get the blues before and after I'm with you
 The blues before and after
 I get the blues before and after loving you
-
-
-

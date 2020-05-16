@@ -1,8 +1,11 @@
 ---
+album: Distant Light  (1999 Remastered Version)
 artists:
 - The Hollies
+external_ids:
+  spotify: spotify:track:3qbEvcGhAxnBsyU8wNZLza
 features: []
-genres: []
+first_released_as_single: false
 key: long-dark-road-the-hollies
 lyrics_url: https://www.azlyrics.com/lyrics/hollies/longdarkroad.html
 name: Long Dark Road
@@ -51,8 +54,9 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '1973-01-13'
+release_year: 1971
+runtime: 256666
 ---
-
 It's over, well over
 In my mind and in my heart
 It's over, well over
@@ -77,4 +81,3 @@ And we can't revive what's past
 It's gone now, moved on now
 But then again it didn't have a chance to last
 No, no, no, a chance to last
-

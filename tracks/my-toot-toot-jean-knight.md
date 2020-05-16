@@ -1,8 +1,11 @@
 ---
+album: My Toot Toot
 artists:
 - Jean Knight
+external_ids:
+  spotify: spotify:track:4FVL0dB14SzXnPiH3ZCNbm
 features: []
-genres: []
+first_released_as_single: false
 key: my-toot-toot-jean-knight
 lyrics_url: https://www.musixmatch.com/lyrics/Jean-Knight/My-Toot-Toot
 name: My Toot Toot
@@ -67,6 +70,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1985-08-10'
+release_year: 1985
+runtime: 262270
 ---
 Don't mess with my toot toot, don't mess with my toot toot, Well you can have the other woman, but don't mess with my toot toot.
 She was born in her birth suit, the doctor slap her behind, (SLAP!) Say you're gonna to be special, you sweet little toot toot.

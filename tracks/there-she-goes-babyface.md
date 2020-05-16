@@ -1,8 +1,11 @@
 ---
+album: Face 2 Face
 artists:
 - Babyface
+external_ids:
+  spotify: spotify:track:7dO7S7cAUqTUiVRqQ2v9zh
 features: []
-genres: []
+first_released_as_single: false
 key: there-she-goes-babyface
 lyrics_url: https://genius.com/Babyface-there-she-goes-lyrics
 name: There She Goes
@@ -67,6 +70,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2001-08-18'
+release_year: 2001
+runtime: 271040
 ---
 It's something about her you know that
 The way she cares of herself, she's just so bad

@@ -1,8 +1,11 @@
 ---
+album: Kamikaze
 artists:
 - Eminem
+external_ids:
+  spotify: spotify:track:0evt4UZbdhnHtcAnxkm6A1
 features: []
-genres: []
+first_released_as_single: false
 key: normal-eminem
 lyrics_url: https://genius.com/Eminem-normal-lyrics
 name: Normal
@@ -11,6 +14,8 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '2018-09-15'
+release_year: 2018
+runtime: 222477
 ---
 (Illa, Illa, Illa)
 Yo, how do I keep

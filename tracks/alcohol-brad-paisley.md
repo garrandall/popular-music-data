@@ -1,8 +1,11 @@
 ---
+album: Time Well Wasted
 artists:
 - Brad Paisley
+external_ids:
+  spotify: spotify:track:5wKaxpvqXq95IaoAVPLgoi
 features: []
-genres: []
+first_released_as_single: false
 key: alcohol-brad-paisley
 lyrics_url: https://www.azlyrics.com/lyrics/bradpaisley/alcohol.html
 name: Alcohol
@@ -79,8 +82,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2005-10-29'
+release_year: 2005
+runtime: 290933
 ---
-
 I can make anybody pretty
 I can make you believe any lie
 I can make you pick a fight
@@ -124,4 +128,3 @@ You had some of the best times
 You'll never remember with me
 Alcohol
 Alcohol
-

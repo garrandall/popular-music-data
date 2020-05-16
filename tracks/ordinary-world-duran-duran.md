@@ -1,8 +1,11 @@
 ---
+album: Duran Duran
 artists:
 - Duran Duran
+external_ids:
+  spotify: spotify:track:0wokCRaKD0zPNhMRXAgVsr
 features: []
-genres: []
+first_released_as_single: false
 key: ordinary-world-duran-duran
 lyrics_url: https://www.azlyrics.com/lyrics/duranduran/ordinaryworld.html
 name: Ordinary World
@@ -95,8 +98,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1993-06-05'
+release_year: 1993
+runtime: 340200
 ---
-
 Came in from a rainy Thursday
 On the avenue
 Thought I heard you talking softly
@@ -159,6 +163,3 @@ Any one
 Is my world
 Every one
 Is my world
-
-
-

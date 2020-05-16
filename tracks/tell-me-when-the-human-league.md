@@ -1,8 +1,11 @@
 ---
+album: Octopus
 artists:
 - The Human League
+external_ids:
+  spotify: spotify:track:3Rmj5bpH6nSI9pNEWP3wBQ
 features: []
-genres: []
+first_released_as_single: false
 key: tell-me-when-the-human-league
 lyrics_url: https://genius.com/The-human-league-tell-me-when-lyrics
 name: Tell Me When
@@ -55,6 +58,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1995-06-10'
+release_year: 1995
+runtime: 291026
 ---
 Tell me when
 Will I?

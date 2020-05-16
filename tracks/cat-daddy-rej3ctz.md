@@ -1,8 +1,11 @@
 ---
+album: Cat Daddy - Single
 artists:
 - Rej3ctz
+external_ids:
+  spotify: spotify:track:1N4jhCFeE0hrZGYfpJsSAF
 features: []
-genres: []
+first_released_as_single: true
 key: cat-daddy-rej3ctz
 lyrics_url: https://www.azlyrics.com/lyrics/rej3ctz/catdaddy.html
 name: Cat Daddy
@@ -11,8 +14,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2011-06-18'
+release_year: 2011
+runtime: 200803
 ---
-
 Check this out baby girl, I want you to check out a nigga,
 Cattttt Dadddyyyyy!
 
@@ -111,6 +115,3 @@ Do my Cat Daddy
 
 Cat Daddy, Cat Daddy, Cat Daddy, Cat Daddy (bitch I go to work)
 Cat Daddy, Cat Daddy, Cat Daddy, Cat Daddy (bitch I go to work)
-
-
-

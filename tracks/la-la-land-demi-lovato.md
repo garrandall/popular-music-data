@@ -1,8 +1,11 @@
 ---
+album: Don't Forget
 artists:
 - Demi Lovato
+external_ids:
+  spotify: spotify:track:0M9VqYG0wVun054JIdwFO8
 features: []
-genres: []
+first_released_as_single: false
 key: la-la-land-demi-lovato
 lyrics_url: https://www.azlyrics.com/lyrics/demilovato/lalaland.html
 name: La La Land
@@ -39,8 +42,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2009-02-28'
+release_year: 2008
+runtime: 196466
 ---
-
 I am confident but
 I still have my moments.
 Baby, that's just me.
@@ -99,6 +103,3 @@ I'm staying myself tonight
 (I'm staying myself tonight)
 
 La la la la la
-
-
-

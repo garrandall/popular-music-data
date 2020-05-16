@@ -1,8 +1,11 @@
 ---
+album: Chicago 17
 artists:
 - Chicago
+external_ids:
+  spotify: spotify:track:0siySPc0ooo4rNTdwaoXM1
 features: []
-genres: []
+first_released_as_single: false
 key: stay-the-night-chicago
 lyrics_url: https://genius.com/Chicago-stay-the-night-lyrics
 name: Stay The Night
@@ -75,6 +78,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1984-08-25'
+release_year: 1984
+runtime: 229693
 ---
 I don't want you to misunderstand me
 I just wan to say what's on my mind

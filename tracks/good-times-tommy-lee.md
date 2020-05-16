@@ -1,8 +1,11 @@
 ---
+album: 'Tommyland: The Ride'
 artists:
 - Tommy Lee
+external_ids:
+  spotify: spotify:track:4TivbqZf2RFik3HA1NjM2t
 features: []
-genres: []
+first_released_as_single: false
 key: good-times-tommy-lee
 lyrics_url: https://genius.com/Tommy-lee-good-times-lyrics
 name: Good Times
@@ -11,6 +14,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2005-10-01'
+release_year: 2005
+runtime: 186874
 ---
 Put down the magazine and get off the phone
 Theres a place I wanna show u and it won't take long

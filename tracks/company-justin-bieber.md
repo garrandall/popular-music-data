@@ -1,8 +1,11 @@
 ---
+album: Purpose
 artists:
 - Justin Bieber
+external_ids:
+  spotify: spotify:track:61uyGDPJ06MkxJtHgPmuyO
 features: []
-genres: []
+first_released_as_single: false
 key: company-justin-bieber
 lyrics_url: https://www.azlyrics.com/lyrics/justinbieber/company.html
 name: Company
@@ -55,8 +58,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2016-05-14'
+release_year: 2015
+runtime: 208120
 ---
-
 Can we, we keep, keep each other company?
 Maybe we can be, be each other's company
 Oh, company
@@ -101,6 +105,3 @@ Be each other's company?
 Can we, we keep, keep each other company?
 Maybe we can be, be each other's company
 Oh, company
-
-
-

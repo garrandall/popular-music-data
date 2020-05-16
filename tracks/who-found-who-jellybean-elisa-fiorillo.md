@@ -1,9 +1,12 @@
 ---
+album: Lost Hits Of The 80's
 artists:
 - Jellybean
+external_ids:
+  spotify: spotify:track:4Wq8XNUOZ0CylZEP2gXy3E
 features:
 - Elisa Fiorillo
-genres: []
+first_released_as_single: false
 key: who-found-who-jellybean-elisa-fiorillo
 lyrics_url: https://genius.com/Jellybean-who-found-who-lyrics
 name: Who Found Who
@@ -68,6 +71,8 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1987-10-17'
+release_year: 1987
+runtime: 289600
 ---
 How come you can't explain it
 The way you're acting recently

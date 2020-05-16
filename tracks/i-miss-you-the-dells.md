@@ -1,8 +1,11 @@
 ---
+album: Oh, What A Night! / The Great Ballads
 artists:
 - The Dells
+external_ids:
+  spotify: spotify:track:6lUDzuq8qqL6S1nnsQU6NA
 features: []
-genres: []
+first_released_as_single: false
 key: i-miss-you-the-dells
 lyrics_url: https://genius.com/The-dells-i-miss-you-lyrics
 name: I Miss You
@@ -35,6 +38,8 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '1974-03-02'
+release_year: 1974
+runtime: 266333
 ---
 Woke up this mornin'
 Sunlight shinin' in my eyes

@@ -1,8 +1,11 @@
 ---
+album: American Pie
 artists:
 - Don McLean
+external_ids:
+  spotify: spotify:track:0VNzEY1G4GLqcNx5qaaTl6
 features: []
-genres: []
+first_released_as_single: false
 key: vincent--starry-starry-night--don-mclean
 lyrics_url: https://www.azlyrics.com/lyrics/donmclean/vincentstarrystarrynight.html
 name: Vincent (Starry Starry Night)
@@ -55,8 +58,9 @@ rankings:
   rank: 38
   ranking_list: Billboard Hot 100
   start_date: '1972-06-03'
+release_year: 1971
+runtime: 243493
 ---
-
 Starry, starry night
 Paint your palette blue and gray
 Look out on a summer's day
@@ -120,6 +124,3 @@ And how you tried to set them free
 
 They would not listen, they're not listening still
 Perhaps they never will
-
-
-

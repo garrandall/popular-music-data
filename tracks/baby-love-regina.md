@@ -1,8 +1,11 @@
 ---
+album: Believe In Me
 artists:
 - Regina
+external_ids:
+  spotify: spotify:track:49XFzK6rmS6qahfX73tzkY
 features: []
-genres: []
+first_released_as_single: false
 key: baby-love-regina
 lyrics_url: https://genius.com/Regina-baby-love-lyrics
 name: Baby Love
@@ -87,6 +90,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1986-11-01'
+release_year: 1986
+runtime: 217586
 ---
 Boy
 There's no one home tonight

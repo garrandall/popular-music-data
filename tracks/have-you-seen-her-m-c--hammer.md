@@ -1,8 +1,11 @@
 ---
+album: Please Hammer Don't Hurt 'Em
 artists:
 - M.C. Hammer
+external_ids:
+  spotify: spotify:track:2lvk6CUSHz4j8huQ25gH54
 features: []
-genres: []
+first_released_as_single: false
 key: have-you-seen-her-m-c--hammer
 lyrics_url: https://genius.com/Mc-hammer-have-you-seen-her-lyrics
 name: Have You Seen Her
@@ -87,6 +90,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1990-11-10'
+release_year: 1990
+runtime: 282800
 ---
 Ah yeah, I'm glad I put this tape in
 I'm just gon' cruise down the road

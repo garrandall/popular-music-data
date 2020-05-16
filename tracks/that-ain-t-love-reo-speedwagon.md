@@ -1,8 +1,11 @@
 ---
+album: Life As We Know It
 artists:
 - REO Speedwagon
+external_ids:
+  spotify: spotify:track:5mb29MIr2lXxmYe4WPlOsW
 features: []
-genres: []
+first_released_as_single: false
 key: that-ain-t-love-reo-speedwagon
 lyrics_url: https://genius.com/Reo-speedwagon-that-aint-love-lyrics
 name: That Ain't Love
@@ -63,6 +66,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1987-05-02'
+release_year: 1987
+runtime: 240706
 ---
 You tell me what you think I'm feelin'
 You know why I do what I do

@@ -1,8 +1,11 @@
 ---
+album: '1'
 artists:
 - The Beatles
+external_ids:
+  spotify: spotify:track:1fSHw7Gt4ha9kJew9a0a55
 features: []
-genres: []
+first_released_as_single: false
 key: lady-madonna-the-beatles
 lyrics_url: https://genius.com/The-beatles-lady-madonna-lyrics
 name: Lady Madonna
@@ -51,6 +54,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1968-06-01'
+release_year: 1968
+runtime: 138986
 ---
 Lady Madonna, children at your feet
 Wonder how you manage to make ends meet

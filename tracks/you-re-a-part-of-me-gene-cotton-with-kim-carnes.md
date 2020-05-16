@@ -1,8 +1,12 @@
 ---
+album: Save the Dancer
 artists:
-- Gene Cotton With Kim Carnes
-features: []
-genres: []
+- Gene Cotton
+external_ids:
+  spotify: spotify:track:3pfzgXLPDbcBQawjPLe9o4
+features:
+- Kim Carnes
+first_released_as_single: false
 key: you-re-a-part-of-me-gene-cotton-with-kim-carnes
 name: You're A Part Of Me
 rankings:
@@ -54,5 +58,7 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '1978-09-02'
+release_year: 1978
+runtime: 232493
 ---
 

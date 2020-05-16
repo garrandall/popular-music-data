@@ -1,8 +1,11 @@
 ---
+album: KC & The Sunshine Band - Part 3...And More
 artists:
 - KC And The Sunshine Band
+external_ids:
+  spotify: spotify:track:6mjlbRIgMTf2nqY0kq1rOJ
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-your-boogie-man-kc-and-the-sunshine-band
 lyrics_url: https://genius.com/Kc-and-the-sunshine-band-im-your-boogie-man-lyrics
 name: I'm Your Boogie Man
@@ -99,6 +102,8 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '1977-07-30'
+release_year: 1977
+runtime: 242133
 ---
 I'm your boogie man, that's what I am
 I'm here to do whatever I can

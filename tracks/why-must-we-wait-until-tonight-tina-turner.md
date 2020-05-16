@@ -1,8 +1,11 @@
 ---
+album: What's Love Got to Do with It?
 artists:
 - Tina Turner
+external_ids:
+  spotify: spotify:track:06zhAbI8721iEjfdXMbxK7
 features: []
-genres: []
+first_released_as_single: false
 key: why-must-we-wait-until-tonight-tina-turner
 lyrics_url: https://genius.com/Tina-turner-why-must-we-wait-until-tonight-lyrics
 name: Why Must We Wait Until Tonight
@@ -15,6 +18,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1993-10-30'
+release_year: 1993
+runtime: 355160
 ---
 Tell me why? Why must we wait until tonight?
 Tell me why? Why must we wait until tonight?

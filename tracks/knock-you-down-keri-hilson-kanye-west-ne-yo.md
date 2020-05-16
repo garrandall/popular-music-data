@@ -1,10 +1,13 @@
 ---
+album: In A Perfect World...
 artists:
 - Keri Hilson
+external_ids:
+  spotify: spotify:track:58FUwmyGUqkt53YPUcm7cJ
 features:
 - Kanye West
 - Ne-Yo
-genres: []
+first_released_as_single: false
 key: knock-you-down-keri-hilson-kanye-west-ne-yo
 lyrics_url: https://www.azlyrics.com/lyrics/kerihilson/knockyoudown.html
 name: Knock You Down
@@ -133,9 +136,9 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '2009-11-07'
+release_year: 2009
+runtime: 326186
 ---
-
-
 Not again
 This ain't supposed to happen to me
 
@@ -259,6 +262,3 @@ You see when love comes and knocks you down
 Won't see it coming when it happens
 But when it happens you're gonna feel it, let me tell you now
 You see when love comes and knocks you down
-
-
-

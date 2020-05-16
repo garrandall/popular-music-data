@@ -1,8 +1,11 @@
 ---
+album: Inner Child
 artists:
 - Shanice
+external_ids:
+  spotify: spotify:track:7moUtUptuZGzvoyIY9twif
 features: []
-genres: []
+first_released_as_single: false
 key: silent-prayer-shanice
 lyrics_url: https://www.azlyrics.com/lyrics/shanice/silentprayer.html
 name: Silent Prayer
@@ -75,8 +78,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1992-08-15'
+release_year: 1991
+runtime: 303866
 ---
-
 I send to you, my silent prayer
 before I sleep at night
 I send to you, my silent prayer
@@ -118,4 +122,3 @@ I send to you my silent prayer
 I send to you my silent prayer
 I send to you my silent (baby) prayer (every hour)
 my silent prayer
-

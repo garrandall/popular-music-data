@@ -1,8 +1,11 @@
 ---
+album: Akimbo Alogo
 artists:
 - Kim Mitchell
+external_ids:
+  spotify: spotify:track:36iHMTOAr9S4y0WvuWQtvm
 features: []
-genres: []
+first_released_as_single: false
 key: go-for-soda-kim-mitchell
 lyrics_url: https://www.azlyrics.com/lyrics/kimmitchell/goforsoda.html
 name: Go For Soda
@@ -43,8 +46,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1985-07-13'
+release_year: 1984
+runtime: 205600
 ---
-
 Might as well go for a soda
 Nobody hurts and nobody cries
 Might as well go for a soda
@@ -93,6 +97,3 @@ Might as well go for a soda
 Might as well go for a soda
 (It's better than slander, it's better than lies)
 Might as well go for a soda
-
-
-

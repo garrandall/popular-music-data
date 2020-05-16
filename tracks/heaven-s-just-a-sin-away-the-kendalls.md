@@ -1,8 +1,11 @@
 ---
+album: The Kendalls - 42 Massive Hits
 artists:
 - The Kendalls
+external_ids:
+  spotify: spotify:track:4CYoaV7HOaCnY3CZUHxwmj
 features: []
-genres: []
+first_released_as_single: false
 key: heaven-s-just-a-sin-away-the-kendalls
 lyrics_url: https://genius.com/The-kendalls-heavens-just-a-sin-away-lyrics
 name: Heaven's Just A Sin Away
@@ -35,6 +38,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1977-12-17'
+release_year: 1972
+runtime: 145253
 ---
 Heaven's just a sin away oh, whoa
 Just a sin away

@@ -1,8 +1,11 @@
 ---
+album: Louder Than Love
 artists:
 - TKA
+external_ids:
+  spotify: spotify:track:1YjT8Oigrk3zl2FfxzL0qF
 features: []
-genres: []
+first_released_as_single: false
 key: you-are-the-one-tka
 name: You Are The One
 rankings:
@@ -34,5 +37,7 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1989-07-15'
+release_year: 1989
+runtime: 291600
 ---
 

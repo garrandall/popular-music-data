@@ -1,8 +1,11 @@
 ---
+album: No Doubt About It
 artists:
 - Neal McCoy
+external_ids:
+  spotify: spotify:track:2iehL6Q3m5NUDanDT2IKwT
 features: []
-genres: []
+first_released_as_single: false
 key: no-doubt-about-it-neal-mccoy
 lyrics_url: https://www.azlyrics.com/lyrics/nealmccoy/nodoubtaboutit.html
 name: No Doubt About It
@@ -27,8 +30,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1994-04-30'
+release_year: 1994
+runtime: 227640
 ---
-
 Just like every lock's got to have a key
 Every river flows looking for the sea
 And when you plant a seed, it reaches for the sky
@@ -60,6 +64,3 @@ What good is a man who hasn't got a dream
 'Bout as good as a car with no gasoline
 You're the one I'm dreaming of got to have your love can't live without it
 We were meant to be together, no doubt about it
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Driving Wheel
 artists:
 - Junior Parker
+external_ids:
+  spotify: spotify:track:2gLUnXzjCuGnbXJ0OUGOuA
 features: []
-genres: []
+first_released_as_single: false
 key: someone-somewhere-junior-parker
 lyrics_url: https://genius.com/Junior-parker-someone-somewhere-lyrics
 name: Someone Somewhere
@@ -11,6 +14,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1963-01-12'
+release_year: 1963
+runtime: 166733
 ---
 I know there's someone somewhere who loves me
 I know there's someone somewhere who cares

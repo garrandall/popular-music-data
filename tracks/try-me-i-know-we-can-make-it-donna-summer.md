@@ -1,8 +1,11 @@
 ---
+album: A Love Trilogy
 artists:
 - Donna Summer
+external_ids:
+  spotify: spotify:track:1bHq4U7NKCgeIuX0o9geEC
 features: []
-genres: []
+first_released_as_single: false
 key: try-me-i-know-we-can-make-it-donna-summer
 lyrics_url: https://www.azlyrics.com/lyrics/donnasummer/trymeiknowwecanmakeit.html
 name: Try Me I Know We Can Make It
@@ -23,8 +26,9 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '1976-07-31'
+release_year: 1976
+runtime: 1077133
 ---
-
 Try me, try me, try me, try me
 Just one time
 Try me, try me, try me, try me
@@ -103,6 +107,3 @@ Try me I know we can make it
 I know if we try
 Try me I know we can make it
 I know if we try...
-
-
-

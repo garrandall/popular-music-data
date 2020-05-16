@@ -1,8 +1,11 @@
 ---
+album: And Then...Along Comes
 artists:
 - The Association
+external_ids:
+  spotify: spotify:track:3Zje70mXjYyMuzge8j24L9
 features: []
-genres: []
+first_released_as_single: false
 key: along-comes-mary-the-association
 lyrics_url: https://genius.com/The-association-along-comes-mary-lyrics
 name: Along Comes Mary
@@ -51,6 +54,8 @@ rankings:
   rank: 38
   ranking_list: Billboard Hot 100
   start_date: '1966-08-13'
+release_year: 1966
+runtime: 171000
 ---
 Every time I think that I'm the only one who's lonely
 Someone calls on me

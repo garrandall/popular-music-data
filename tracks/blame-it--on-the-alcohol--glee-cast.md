@@ -1,8 +1,11 @@
 ---
+album: Karaoke The Best Collection
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:5wXYLLcm303sgO6yzN3XsS
 features: []
-genres: []
+first_released_as_single: false
 key: blame-it--on-the-alcohol--glee-cast
 lyrics_url: https://genius.com/Glee-cast-blame-it-on-the-alcohol-lyrics
 name: Blame It (On The Alcohol)
@@ -11,6 +14,8 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '2011-03-12'
+release_year: 2011
+runtime: 197243
 ---
 Blame it on the goose, got you feeling loose
 Blame it on the 'tron, got you in the zone

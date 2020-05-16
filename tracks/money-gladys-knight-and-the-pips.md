@@ -1,8 +1,11 @@
 ---
+album: 2nd Anniversary
 artists:
 - Gladys Knight And The Pips
+external_ids:
+  spotify: spotify:track:1AKXASHmar9CBnaANBlHuY
 features: []
-genres: []
+first_released_as_single: false
 key: money-gladys-knight-and-the-pips
 name: Money
 rankings:
@@ -34,5 +37,7 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1975-10-11'
+release_year: 1975
+runtime: 232173
 ---
 

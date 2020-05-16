@@ -1,8 +1,11 @@
 ---
+album: We Sing. We Dance. We Steal Things.
 artists:
 - Jason Mraz
+external_ids:
+  spotify: spotify:track:1EzrEOXmMH3G43AXT1y7pA
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-yours-jason-mraz
 lyrics_url: https://genius.com/Jason-mraz-im-yours-lyrics
 name: I'm Yours
@@ -311,6 +314,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2009-10-10'
+release_year: 2008
+runtime: 242186
 ---
 Well, you done done me, and you bet I felt it
 I tried to be chill, but you're so hot that I melted

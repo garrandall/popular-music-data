@@ -1,8 +1,11 @@
 ---
+album: 'Booty 101: the Forbidden Dances'
 artists:
 - The 2 Live Crew
+external_ids:
+  spotify: spotify:track:1vuSK1q9FYTxdPixLylXHJ
 features: []
-genres: []
+first_released_as_single: false
 key: shake-a-lil--somethin--the-2-live-crew
 lyrics_url: https://www.azlyrics.com/lyrics/2livecrew/shakealilsomethin.html
 name: Shake A Lil' Somethin'
@@ -67,9 +70,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1996-11-16'
+release_year: 1996
+runtime: 241053
 ---
-
-
 "OK man, are you ready to go?"
 "I'm ready to go, now c'mon now, crank this motherfucker up"
 
@@ -158,4 +161,3 @@ To the back y'all!
 Make time!
 
 Pump, pump, pump, get it, get it!
-

@@ -1,8 +1,11 @@
 ---
+album: Upstairs At Eric's
 artists:
 - Yaz
+external_ids:
+  spotify: spotify:track:3mGwufkovVPrzsJaXWg8PU
 features: []
-genres: []
+first_released_as_single: false
 key: only-you-yaz
 lyrics_url: https://genius.com/Yazoo-only-you-lyrics
 name: Only You
@@ -39,6 +42,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1983-04-16'
+release_year: 1982
+runtime: 195506
 ---
 Looking from a window above
 It's like a story of love

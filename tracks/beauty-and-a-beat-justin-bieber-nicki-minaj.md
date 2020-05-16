@@ -1,9 +1,12 @@
 ---
+album: Believe
 artists:
 - Justin Bieber
+external_ids:
+  spotify: spotify:track:6QFCMUUq1T2Vf5sFUXcuQ7
 features:
 - Nicki Minaj
-genres: []
+first_released_as_single: false
 key: beauty-and-a-beat-justin-bieber-nicki-minaj
 lyrics_url: https://www.azlyrics.com/lyrics/justinbieber/beautyandabeat.html
 name: Beauty And A Beat
@@ -104,8 +107,9 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '2013-04-06'
+release_year: 2012
+runtime: 227986
 ---
-
 Yeah, Young Money, Nicki Minaj, Justin
 
 Show you off, tonight I wanna show you off (eh, eh, eh)
@@ -161,4 +165,3 @@ It's all... (all I need is you) about you,
 When the music makes you move
 Baby, do it like you do
 Cause...
-

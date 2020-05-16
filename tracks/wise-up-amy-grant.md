@@ -1,8 +1,11 @@
 ---
+album: Unguarded
 artists:
 - Amy Grant
+external_ids:
+  spotify: spotify:track:5sOTZX5LqMQ0Y1U4631cY5
 features: []
-genres: []
+first_released_as_single: false
 key: wise-up-amy-grant
 lyrics_url: https://www.azlyrics.com/lyrics/amygrant/wiseup.html
 name: Wise Up
@@ -43,8 +46,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1985-10-12'
+release_year: 1985
+runtime: 232106
 ---
-
 Got myself in this situation
 I'm not sure about
 Climbing in where there's temptation
@@ -87,6 +91,3 @@ Before they come undone
 
 
 Better wise up...
-
-
-

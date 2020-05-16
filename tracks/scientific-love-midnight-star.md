@@ -1,8 +1,11 @@
 ---
+album: Planetary Invasion
 artists:
 - Midnight Star
+external_ids:
+  spotify: spotify:track:0LbCRmrO23yK5ppFcTbEvx
 features: []
-genres: []
+first_released_as_single: false
 key: scientific-love-midnight-star
 lyrics_url: https://genius.com/Midnight-star-scientific-love-lyrics
 name: Scientific Love
@@ -35,6 +38,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1985-04-13'
+release_year: 1984
+runtime: 380226
 ---
 Are you out to speculate
 Come here to date and to find a mate

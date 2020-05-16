@@ -1,9 +1,12 @@
 ---
+album: When The Sun Goes Down
 artists:
 - Selena Gomez
 - The Scene
+external_ids:
+  spotify: spotify:track:3TcL0dyCMyr0kyTTc4NLgI
 features: []
-genres: []
+first_released_as_single: false
 key: who-says-selena-gomez-the-scene
 lyrics_url: https://www.musixmatch.com/lyrics/Selena-Gomez-The-Scene/Who-Says
 name: Who Says
@@ -88,6 +91,8 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '2011-08-13'
+release_year: 2011
+runtime: 195613
 ---
 I wouldn't wanna be anybody else, hey
 

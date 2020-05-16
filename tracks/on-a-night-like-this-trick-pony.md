@@ -1,8 +1,11 @@
 ---
+album: Trick Pony
 artists:
 - Trick Pony
+external_ids:
+  spotify: spotify:track:4ukCThz76ZkKJzTlmDlKpa
 features: []
-genres: []
+first_released_as_single: false
 key: on-a-night-like-this-trick-pony
 lyrics_url: https://www.azlyrics.com/lyrics/trickpony/onanightlikethis.html
 name: On A Night Like This
@@ -87,8 +90,9 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '2001-12-08'
+release_year: 2001
+runtime: 210426
 ---
-
 Now when I was a young girl
 My dad warned me about the opposite sex
 He'd say, yeah, that's just what you need
@@ -129,6 +133,3 @@ When I look at you I think that's just what I need
 Just what I need
 Just what I need
 Oh yeah
-
-
-

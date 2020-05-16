@@ -1,8 +1,11 @@
 ---
+album: Wilson Phillips
 artists:
 - Wilson Phillips
+external_ids:
+  spotify: spotify:track:5KNbCF0FpIWuPE8x6bhGgw
 features: []
-genres: []
+first_released_as_single: false
 key: you-re-in-love-wilson-phillips
 lyrics_url: https://genius.com/Wilson-phillips-youre-in-love-lyrics
 name: You're In Love
@@ -83,6 +86,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1991-06-15'
+release_year: 1990
+runtime: 291866
 ---
 Open the door and come in
 I'm so glad to see you my friend

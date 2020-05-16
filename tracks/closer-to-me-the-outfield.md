@@ -1,8 +1,11 @@
 ---
+album: Rockeye
 artists:
 - The Outfield
+external_ids:
+  spotify: spotify:track:7aoVXo6QZxoDM4fyXJpCDz
 features: []
-genres: []
+first_released_as_single: false
 key: closer-to-me-the-outfield
 lyrics_url: https://genius.com/The-outfield-closer-to-me-lyrics
 name: Closer To Me
@@ -51,6 +54,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1992-07-25'
+release_year: 1992
+runtime: 197333
 ---
 One look - one touch - no chance
 I know what you're thinking

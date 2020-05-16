@@ -1,9 +1,12 @@
 ---
+album: Blue Jays
 artists:
 - Justin Hayward
 - John Lodge
+external_ids:
+  spotify: spotify:track:2IkRcuAplXp6al27ifjIPF
 features: []
-genres: []
+first_released_as_single: false
 key: i-dreamed-last-night-justin-hayward-john-lodge
 lyrics_url: https://genius.com/Justin-hayward-and-john-lodge-i-dreamed-last-night-lyrics
 name: I Dreamed Last Night
@@ -36,6 +39,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1975-06-28'
+release_year: 1975
+runtime: 267826
 ---
 Oh I dreamed last night I was hearing
 Hearing your voice

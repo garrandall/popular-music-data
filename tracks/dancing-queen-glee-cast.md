@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music, Volume 6'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:0WbeozTUWSSRhtghJL8J1B
 features: []
-genres: []
+first_released_as_single: false
 key: dancing-queen-glee-cast
 lyrics_url: https://www.azlyrics.com/lyrics/gleecast/dancingqueen.html
 name: Dancing Queen
@@ -11,8 +14,9 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '2011-05-28'
+release_year: 2011
+runtime: 219480
 ---
-
 You can dance, you can jive
 Having the time of your life
 Oh see that girl, watch that scene
@@ -55,6 +59,3 @@ Having the time of your life
 Oh see that girl, watch that scene
 Dig in the dancing queen
 Dig in the dancing queen
-
-
-

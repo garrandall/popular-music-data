@@ -1,8 +1,11 @@
 ---
+album: Ritchie Valens
 artists:
 - Ritchie Valens
+external_ids:
+  spotify: spotify:track:4cRfSR0QxDlXRHTKyEOu93
 features: []
-genres: []
+first_released_as_single: false
 key: come-on-let-s-go-ritchie-valens
 lyrics_url: https://genius.com/Ritchie-valens-come-on-lets-go-lyrics
 name: Come On Let's Go
@@ -59,6 +62,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1958-12-15'
+release_year: 1958
+runtime: 124586
 ---
 Well, come on, let's go, let's go, little darlin'
 Tell me that you'll never leave me

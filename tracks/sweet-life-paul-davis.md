@@ -1,8 +1,11 @@
 ---
+album: Singer of Songs, Teller of Tales
 artists:
 - Paul Davis
+external_ids:
+  spotify: spotify:track:75qeBs6qCqv05JXKL0FYw8
 features: []
-genres: []
+first_released_as_single: false
 key: sweet-life-paul-davis
 lyrics_url: https://genius.com/Paul-davis-sweet-life-lyrics
 name: Sweet Life
@@ -91,6 +94,8 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1979-01-13'
+release_year: 1977
+runtime: 211400
 ---
 She's got your eyes
 She's got my nose

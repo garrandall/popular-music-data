@@ -1,8 +1,11 @@
 ---
+album: 'Recorded Live: Marvin Gaye On Stage'
 artists:
 - Marvin Gaye
+external_ids:
+  spotify: spotify:track:38G2vI4fnaLDlIdbwdtZ9i
 features: []
-genres: []
+first_released_as_single: false
 key: pride-and-joy-marvin-gaye
 lyrics_url: https://www.azlyrics.com/lyrics/marvingaye/prideandjoy.html
 name: Pride And Joy
@@ -63,8 +66,9 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '1963-08-17'
+release_year: 1963
+runtime: 195240
 ---
-
 You are my pride and joy
 And I just love you, little darlin'
 Like a baby boy loves his toy
@@ -92,6 +96,3 @@ I believe you're my (you're my) pride and joy (pride and joy)
 (Pride and joy)
 (Pride and joy) My pride and joy (pride and joy)
 And I love you like a baby loves his toy (pride and joy)
-
-
-

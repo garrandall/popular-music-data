@@ -1,8 +1,11 @@
 ---
+album: Stacey Q's Greatest Hits
 artists:
 - Stacey Q
+external_ids:
+  spotify: spotify:track:20VjgF0Oyy4Yog1JqHu5KQ
 features: []
-genres: []
+first_released_as_single: false
 key: shy-girl-stacey-q
 lyrics_url: https://genius.com/Stacey-q-shy-girl-lyrics
 name: Shy Girl
@@ -51,6 +54,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1987-06-20'
+release_year: 1987
+runtime: 291933
 ---
 I’m just a shy girl -- shy girl
 I’m just a shy girl -- shy girl

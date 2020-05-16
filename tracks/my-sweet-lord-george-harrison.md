@@ -1,8 +1,11 @@
 ---
+album: All Things Must Pass
 artists:
 - George Harrison
+external_ids:
+  spotify: spotify:track:0qdQUeKVyevrbKhAo0ibxS
 features: []
-genres: []
+first_released_as_single: false
 key: my-sweet-lord-george-harrison
 lyrics_url: https://genius.com/George-harrison-my-sweet-lord-lyrics
 name: My Sweet Lord
@@ -67,6 +70,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2002-02-02'
+release_year: 1970
+runtime: 281226
 ---
 My sweet Lord
 Mmm, my Lord

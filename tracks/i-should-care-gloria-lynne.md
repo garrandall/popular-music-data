@@ -1,8 +1,11 @@
 ---
+album: Gloria, Marty & Strings
 artists:
 - Gloria Lynne
+external_ids:
+  spotify: spotify:track:0zL0O7FtCIX9r5JzKRLTWV
 features: []
-genres: []
+first_released_as_single: false
 key: i-should-care-gloria-lynne
 lyrics_url: https://genius.com/Gloria-lynne-i-should-care-lyrics
 name: I Should Care
@@ -27,6 +30,8 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1964-05-02'
+release_year: 1958
+runtime: 181053
 ---
 I know I should pity me
 But I don't because, you see

@@ -1,8 +1,11 @@
 ---
+album: Franz Ferdinand
 artists:
 - Franz Ferdinand
+external_ids:
+  spotify: spotify:track:6ooluO7DiEhI1zmK94nRCM
 features: []
-genres: []
+first_released_as_single: false
 key: take-me-out-franz-ferdinand
 lyrics_url: https://genius.com/Franz-ferdinand-take-me-out-lyrics
 name: Take Me Out
@@ -83,6 +86,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2004-11-06'
+release_year: 2004
+runtime: 237026
 ---
 So if you're lonely, you know I'm here waiting for you
 I'm just a crosshair, I'm just a shot away from you

@@ -1,8 +1,11 @@
 ---
+album: The Best Of Gogi Grant
 artists:
 - Gogi Grant
+external_ids:
+  spotify: spotify:track:7btFxUA7bHHHlPZmeNCapN
 features: []
-genres: []
+first_released_as_single: false
 key: the-wayward-wind-gogi-grant
 lyrics_url: https://genius.com/Gogi-grant-the-wayward-wind-lyrics
 name: The Wayward Wind
@@ -43,6 +46,8 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '1961-06-19'
+release_year: 1961
+runtime: 175386
 ---
 The wayward wind is a restless wind
 A restless wind that yearns to wander

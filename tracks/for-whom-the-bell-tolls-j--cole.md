@@ -1,8 +1,11 @@
 ---
+album: 4 Your Eyez Only
 artists:
 - J. Cole
+external_ids:
+  spotify: spotify:track:3Fg8yA21vAajJnqtsHtbE9
 features: []
-genres: []
+first_released_as_single: false
 key: for-whom-the-bell-tolls-j--cole
 lyrics_url: https://www.azlyrics.com/lyrics/jcole/forwhomthebelltolls.html
 name: For Whom The Bell Tolls
@@ -15,8 +18,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2017-01-07'
+release_year: 2016
+runtime: 127880
 ---
-
 I see the, I see the..
 I see the, I see the..
 I see the rain pouring down
@@ -47,6 +51,3 @@ I don't know, I don't know
 Bells gettin' louder, louder
 
 I see the rain pouring down
-
-
-

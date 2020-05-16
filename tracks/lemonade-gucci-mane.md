@@ -1,8 +1,11 @@
 ---
+album: The State vs. Radric Davis
 artists:
 - Gucci Mane
+external_ids:
+  spotify: spotify:track:6rUcS9i07F6okIe8wujs5J
 features: []
-genres: []
+first_released_as_single: false
 key: lemonade-gucci-mane
 lyrics_url: https://www.azlyrics.com/lyrics/guccimane/lemonade.html
 name: Lemonade
@@ -55,8 +58,9 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2010-05-08'
+release_year: 2009
+runtime: 246013
 ---
-
 Yeah
 Its Gucci,
 whats up baby,
@@ -129,4 +133,3 @@ no sleep for two days, so my pupils lookin yellow
 five flights, six shows, quarter-million on my schedule
 Bangledesh and Gucci Mane, niggas know they in trouble
 green ice, red light, caution Gucci rock yellow
-

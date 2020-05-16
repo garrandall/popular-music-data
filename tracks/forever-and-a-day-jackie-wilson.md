@@ -1,8 +1,11 @@
 ---
+album: You Got Me Walking
 artists:
 - Jackie Wilson
+external_ids:
+  spotify: spotify:track:4NW9pE6koSYQ65AfqaQZof
 features: []
-genres: []
+first_released_as_single: false
 key: forever-and-a-day-jackie-wilson
 name: Forever And A Day
 rankings:
@@ -22,5 +25,7 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1962-10-13'
+release_year: 1962
+runtime: 195666
 ---
 

@@ -1,8 +1,11 @@
 ---
+album: Learn To Live
 artists:
 - Darius Rucker
+external_ids:
+  spotify: spotify:track:0XfFxeXzMkIy5SWAVpOQin
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-think-i-don-t-think-about-it-darius-rucker
 lyrics_url: https://genius.com/Darius-rucker-dont-think-i-dont-think-about-it-lyrics
 name: Don't Think I Don't Think About It
@@ -87,6 +90,8 @@ rankings:
   rank: 52
   ranking_list: Billboard Hot 100
   start_date: '2008-12-06'
+release_year: 2008
+runtime: 183306
 ---
 I left out in a cloud of taillights and dust
 Swore I was not coming back

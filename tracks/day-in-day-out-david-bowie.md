@@ -1,8 +1,11 @@
 ---
+album: Never Let Me Down
 artists:
 - David Bowie
+external_ids:
+  spotify: spotify:track:6eTh52FlnBMgvFngqy7wvD
 features: []
-genres: []
+first_released_as_single: true
 key: day-in-day-out-david-bowie
 lyrics_url: https://genius.com/David-bowie-day-in-day-out-lyrics
 name: Day-In Day-Out
@@ -55,6 +58,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1987-06-20'
+release_year: 1987
+runtime: 252466
 ---
 (Day in) Day in
 (Day out) Day out

@@ -1,9 +1,12 @@
 ---
+album: The Very Best of Suzi Quatro
 artists:
 - Suzi Quatro
 - Chris Norman
+external_ids:
+  spotify: spotify:track:2NKZe36oAGEpBx26OoBFLj
 features: []
-genres: []
+first_released_as_single: false
 key: stumblin--in-suzi-quatro-chris-norman
 lyrics_url: https://www.azlyrics.com/lyrics/suziquatro/stumblinin.html
 name: Stumblin' In
@@ -96,8 +99,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1979-06-23'
+release_year: 1979
+runtime: 239240
 ---
-
 Our love is alive, and so we begin
 Foolishly laying our hearts on the table
 Stumblin' in
@@ -148,6 +152,3 @@ I'm stumblin' in
 Keep on stumblin' in
 Now and then firelight will catch us
 Stumblin' in
-
-
-

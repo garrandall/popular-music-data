@@ -1,8 +1,11 @@
 ---
+album: The Pixies Three Meet The Secrets
 artists:
 - The Pixies Three
+external_ids:
+  spotify: spotify:track:79UEgHE04gFuv6S6Vqi07N
 features: []
-genres: []
+first_released_as_single: false
 key: cold-cold-winter-the-pixies-three
 lyrics_url: https://genius.com/The-pixies-three-cold-cold-winter-lyrics
 name: Cold Cold Winter
@@ -27,6 +30,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1964-01-11'
+release_year: 1963
+runtime: 164413
 ---
 When we had to part
 That's when I knew

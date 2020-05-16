@@ -1,8 +1,11 @@
 ---
+album: Greatest Hits
 artists:
 - Frankie Avalon
+external_ids:
+  spotify: spotify:track:2dPsbJJSo55ZKmXLxr77Zd
 features: []
-genres: []
+first_released_as_single: false
 key: just-ask-your-heart-frankie-avalon
 lyrics_url: https://genius.com/Frankie-avalon-just-ask-your-heart-lyrics
 name: Just Ask Your Heart
@@ -71,6 +74,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1959-12-14'
+release_year: 1959
+runtime: 150933
 ---
 Just ask your heart who dreams about you
 Just ask your heart who's faithful and true

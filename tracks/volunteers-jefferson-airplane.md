@@ -1,8 +1,11 @@
 ---
+album: 'Jefferson Airplane: The Woodstock Experience'
 artists:
 - Jefferson Airplane
+external_ids:
+  spotify: spotify:track:04lTbtPmiRzwsxZRs2sdk9
 features: []
-genres: []
+first_released_as_single: false
 key: volunteers-jefferson-airplane
 lyrics_url: https://www.azlyrics.com/lyrics/jeffersonairplane/volunteers.html
 name: Volunteers
@@ -47,8 +50,9 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1970-01-10'
+release_year: 1969
+runtime: 123386
 ---
-
 Look what's happening out in the streets
 Got a revolution
 Got to revolution
@@ -71,6 +75,3 @@ Got to revolution
 Who will take it from you
 We will and who are we
 We are volunteers of America
-
-
-

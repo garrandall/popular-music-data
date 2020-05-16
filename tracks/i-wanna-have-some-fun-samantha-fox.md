@@ -1,8 +1,11 @@
 ---
+album: I Wanna Have Some Fun
 artists:
 - Samantha Fox
+external_ids:
+  spotify: spotify:track:2MLtib2ulZ6eeu4zTToYr7
 features: []
-genres: []
+first_released_as_single: false
 key: i-wanna-have-some-fun-samantha-fox
 lyrics_url: https://genius.com/Samantha-fox-i-wanna-have-some-fun-lyrics
 name: I Wanna Have Some Fun
@@ -99,6 +102,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1989-04-15'
+release_year: 1988
+runtime: 235933
 ---
 Hello, it's me again
 Don't you know

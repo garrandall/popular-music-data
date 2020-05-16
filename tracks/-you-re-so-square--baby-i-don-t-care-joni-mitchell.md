@@ -1,8 +1,11 @@
 ---
+album: Wild Things Run Fast
 artists:
 - Joni Mitchell
+external_ids:
+  spotify: spotify:track:7aQQEpqjYvWCpFmFfMytDg
 features: []
-genres: []
+first_released_as_single: false
 key: -you-re-so-square--baby-i-don-t-care-joni-mitchell
 lyrics_url: https://genius.com/Joni-mitchell-youre-so-square-baby-i-dont-care-lyrics
 name: (you're So Square) Baby I Don't Care
@@ -43,6 +46,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1983-01-15'
+release_year: 1982
+runtime: 158000
 ---
 You're so square--baby
 You're so square . .

@@ -1,8 +1,11 @@
 ---
+album: Seal
 artists:
 - Seal
+external_ids:
+  spotify: spotify:track:3YKptz29AsOlm7WAVnztBh
 features: []
-genres: []
+first_released_as_single: false
 key: kiss-from-a-rose-seal
 lyrics_url: https://genius.com/Seal-kiss-from-a-rose-lyrics
 name: Kiss From A Rose
@@ -151,6 +154,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1996-02-24'
+release_year: 1994
+runtime: 288426
 ---
 Ba-ya-ya, ba-da-da-da-da-da, ba-ya-ya
 Ba-ya-ya, ba-da-da-da-da-da, ba-ya-ya

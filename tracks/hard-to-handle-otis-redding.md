@@ -1,8 +1,11 @@
 ---
+album: Dock of the Bay Sessions
 artists:
 - Otis Redding
+external_ids:
+  spotify: spotify:track:2K8zvANZvPuUl3mdAQcqga
 features: []
-genres: []
+first_released_as_single: false
 key: hard-to-handle-otis-redding
 lyrics_url: https://genius.com/Otis-redding-hard-to-handle-lyrics
 name: Hard To Handle
@@ -35,6 +38,8 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '1968-08-24'
+release_year: 1968
+runtime: 141000
 ---
 Baby, here I am, I'm a man on the scene
 I can give you what you want but you got to go home with me

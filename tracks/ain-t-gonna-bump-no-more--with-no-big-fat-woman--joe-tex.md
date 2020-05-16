@@ -1,8 +1,11 @@
 ---
+album: The Very Best of, Volume 2.
 artists:
 - Joe Tex
+external_ids:
+  spotify: spotify:track:0XXjBRi5sNWojqxmYJGiA2
 features: []
-genres: []
+first_released_as_single: false
 key: ain-t-gonna-bump-no-more--with-no-big-fat-woman--joe-tex
 lyrics_url: https://genius.com/Joe-tex-aint-gonna-bump-no-more-lyrics
 name: Ain't Gonna Bump No More (with No Big Fat Woman)
@@ -79,6 +82,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1977-07-30'
+release_year: 1969
+runtime: 403640
 ---
 Three nights ago I was at a disco
 Man, I wanted to bump, I was rarin' to go

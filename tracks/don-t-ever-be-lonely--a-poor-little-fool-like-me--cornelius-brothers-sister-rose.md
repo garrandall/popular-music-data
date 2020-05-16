@@ -1,9 +1,12 @@
 ---
+album: The Story Of Cornelius Brothers & Sister Rose
 artists:
 - Cornelius Brothers
 - Sister Rose
+external_ids:
+  spotify: spotify:track:37dySg2hhRKxIcbTdmSDdO
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-ever-be-lonely--a-poor-little-fool-like-me--cornelius-brothers-sister-rose
 lyrics_url: https://genius.com/Cornelius-brothers-and-sister-rose-dont-ever-be-lonely-poor-little-fool-like-me-lyrics
 name: Don't Ever Be Lonely (A Poor Little Fool Like Me)
@@ -52,6 +55,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1972-11-11'
+release_year: 1972
+runtime: 179000
 ---
 Don't ever be lonely
 A poor little fool like me
@@ -103,8 +108,6 @@ To avoid this pain and misery
 
 For those that's happy
 (For those that's happy)
-
-Lyrics courtesy Top40db
 
 Take a tip from a man in miser
 

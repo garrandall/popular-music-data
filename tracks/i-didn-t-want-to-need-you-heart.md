@@ -1,8 +1,11 @@
 ---
+album: Brigade
 artists:
 - Heart
+external_ids:
+  spotify: spotify:track:1YkQGGaaE5Qqes82meBdOi
 features: []
-genres: []
+first_released_as_single: false
 key: i-didn-t-want-to-need-you-heart
 lyrics_url: https://genius.com/Heart-i-didnt-want-to-need-you-lyrics
 name: I Didn't Want To Need You
@@ -63,6 +66,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1990-09-22'
+release_year: 1990
+runtime: 249533
 ---
 Baby, I never gave my heart to anyone, oh no
 Used to think that love was a game

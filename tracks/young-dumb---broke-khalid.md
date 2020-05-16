@@ -1,8 +1,11 @@
 ---
+album: American Teen
 artists:
 - Khalid
+external_ids:
+  spotify: spotify:track:5Z3GHaZ6ec9bsiI5BenrbY
 features: []
-genres: []
+first_released_as_single: false
 key: young-dumb---broke-khalid
 lyrics_url: https://www.azlyrics.com/lyrics/khalid/youngdumbbroke.html
 name: Young Dumb & Broke
@@ -151,8 +154,9 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '2018-03-31'
+release_year: 2017
+runtime: 202546
 ---
-
 So you're still thinking of me
 Just like I know you should
 I can not give you everything, you know I wish I could
@@ -217,6 +221,3 @@ Yadadadadadadada
 Yadadadadadada
 Yadadadadadadada
 Young dumb broke high school kids
-
-
-

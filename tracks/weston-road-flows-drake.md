@@ -1,8 +1,11 @@
 ---
+album: Views
 artists:
 - Drake
+external_ids:
+  spotify: spotify:track:4PA16FAl8LPmFmOhARawdV
 features: []
-genres: []
+first_released_as_single: false
 key: weston-road-flows-drake
 lyrics_url: https://www.azlyrics.com/lyrics/drake/westonroadflows.html
 name: Weston Road Flows
@@ -15,8 +18,9 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '2016-06-04'
+release_year: 2016
+runtime: 253533
 ---
-
 One of them ones
 Right
 Weston Road Flows, I did this shit for my nigga Renny
@@ -92,6 +96,3 @@ But I'm happiest when I can buy what I want
 Get high when I want
 Yeah, that's right
 Yeah
-
-
-

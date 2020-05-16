@@ -1,8 +1,11 @@
 ---
+album: Mo' Ritmo
 artists:
 - Gerardo
+external_ids:
+  spotify: spotify:track:6FfdQJ9HJcJAvsPVIyoGZ5
 features: []
-genres: []
+first_released_as_single: false
 key: rico-suave-gerardo
 lyrics_url: https://genius.com/Gerardo-rico-suave-lyrics
 name: Rico Suave
@@ -79,6 +82,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1991-06-01'
+release_year: 1991
+runtime: 291666
 ---
 Rico...
 Suave...

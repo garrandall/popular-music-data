@@ -1,8 +1,11 @@
 ---
+album: I Am
 artists:
 - Earth, Wind & Fire
+external_ids:
+  spotify: spotify:track:3qZHUZTQiTMfJXcUYzY5mT
 features: []
-genres: []
+first_released_as_single: false
 key: in-the-stone-earth-wind-fire
 lyrics_url: https://genius.com/Earth-wind-and-fire-in-the-stone-lyrics
 name: In The Stone
@@ -35,6 +38,8 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '1979-12-01'
+release_year: 1979
+runtime: 288480
 ---
 I found that love provides the key
 Unlocks the heart and souls of you and me

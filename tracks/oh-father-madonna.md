@@ -1,8 +1,11 @@
 ---
+album: Like a Prayer
 artists:
 - Madonna
+external_ids:
+  spotify: spotify:track:5vk7txLRuAjNatZD8OCrf4
 features: []
-genres: []
+first_released_as_single: false
 key: oh-father-madonna
 lyrics_url: https://www.azlyrics.com/lyrics/madonna/ohfather.html
 name: Oh Father
@@ -59,8 +62,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1990-02-03'
+release_year: 1989
+runtime: 298760
 ---
-
 It's funny that way, you can get used
 To the tears and the pain
 What a child will believe
@@ -89,4 +93,3 @@ Maybe someday
 When I look back I'll be able to say
 You didn't mean to be cruel
 Somebody hurt you too
-

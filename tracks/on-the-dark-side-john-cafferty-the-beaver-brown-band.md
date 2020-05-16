@@ -1,9 +1,12 @@
 ---
+album: Eddie And The Cruisers - Original Motion Picture Soundtrack
 artists:
 - John Cafferty
 - The Beaver Brown Band
+external_ids:
+  spotify: spotify:track:4tLECVYTcc5lvSw7LHVwKV
 features: []
-genres: []
+first_released_as_single: false
 key: on-the-dark-side-john-cafferty-the-beaver-brown-band
 lyrics_url: https://genius.com/John-cafferty-and-the-beaver-brown-band-on-the-dark-side-lyrics
 name: On The Dark Side
@@ -116,6 +119,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1984-12-15'
+release_year: 1981
+runtime: 161746
 ---
 The dark side's callin' now
 Nothin' is real

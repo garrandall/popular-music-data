@@ -1,8 +1,11 @@
 ---
+album: Beatin' The Odds
 artists:
 - Eddie Rabbitt
+external_ids:
+  spotify: spotify:track:0zvNHIL7ci0ZzIoWU6RO2u
 features: []
-genres: []
+first_released_as_single: false
 key: i-love-a-rainy-night-eddie-rabbitt
 lyrics_url: https://www.azlyrics.com/lyrics/eddierabbitt/ilovearainynight.html
 name: I Love A Rainy Night
@@ -119,8 +122,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1981-05-16'
+release_year: 1980
+runtime: 191066
 ---
-
 Well, I love a rainy night
 I love a rainy night
 I love to hear the thunder
@@ -190,6 +194,3 @@ Yeah, I love a rainy night
 Well, I love a rainy night
 Well, I love a rainy night
 I love a rainy night
-
-
-

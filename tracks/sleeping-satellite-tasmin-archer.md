@@ -1,8 +1,11 @@
 ---
+album: Great Expectations
 artists:
 - Tasmin Archer
+external_ids:
+  spotify: spotify:track:3WSyYBhLZRLbQo2tJgFvSR
 features: []
-genres: []
+first_released_as_single: false
 key: sleeping-satellite-tasmin-archer
 lyrics_url: https://genius.com/Tasmin-archer-sleeping-satellite-lyrics
 name: Sleeping Satellite
@@ -67,6 +70,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1993-07-24'
+release_year: 1992
+runtime: 258933
 ---
 I blame you for the moonlit sky
 And the dream that died

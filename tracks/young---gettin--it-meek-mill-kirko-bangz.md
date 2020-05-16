@@ -1,9 +1,12 @@
 ---
+album: Dreams and Nightmares
 artists:
 - Meek Mill
+external_ids:
+  spotify: spotify:track:6MVdz8I7oYm86MRzZiOZa8
 features:
 - Kirko Bangz
-genres: []
+first_released_as_single: false
 key: young---gettin--it-meek-mill-kirko-bangz
 lyrics_url: https://genius.com/Meek-mill-young-and-gettin-it-lyrics
 name: Young & Gettin' It
@@ -48,6 +51,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2013-01-19'
+release_year: 2012
+runtime: 205973
 ---
 Young and I’m getting it, young and I’m getting it
 Young and I’m getting it, young and I’m getting it

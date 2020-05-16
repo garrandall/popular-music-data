@@ -1,8 +1,11 @@
 ---
+album: X&Y
 artists:
 - Coldplay
+external_ids:
+  spotify: spotify:track:4IGUhtEPrvDVQfpHp9QFPj
 features: []
-genres: []
+first_released_as_single: true
 key: speed-of-sound-coldplay
 lyrics_url: https://genius.com/Coldplay-speed-of-sound-lyrics
 name: Speed Of Sound
@@ -87,6 +90,8 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '2005-09-17'
+release_year: 2005
+runtime: 284998
 ---
 How long before I get in?
 Before it starts, before I begin?

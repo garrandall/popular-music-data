@@ -1,8 +1,11 @@
 ---
+album: 'MAP OF THE SOUL : 7'
 artists:
 - BTS
+external_ids:
+  spotify: spotify:track:4vTgx6h4seHvkuFh84JXYP
 features: []
-genres: []
+first_released_as_single: false
 key: my-time-bts
 lyrics_url: https://genius.com/Bts-my-time-lyrics
 name: My Time
@@ -11,6 +14,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '2020-03-07'
+release_year: 2020
+runtime: 234457
 ---
 Oh yeah
 

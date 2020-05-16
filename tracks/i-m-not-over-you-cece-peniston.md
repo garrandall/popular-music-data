@@ -1,8 +1,11 @@
 ---
+album: Thought Ya Knew
 artists:
 - CeCe Peniston
+external_ids:
+  spotify: spotify:track:4OWrM0QhSxtHCaccotCW0Y
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-not-over-you-cece-peniston
 lyrics_url: https://genius.com/Cece-peniston-im-not-over-you-lyrics
 name: I'm Not Over You
@@ -63,6 +66,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1994-09-17'
+release_year: 1994
+runtime: 258600
 ---
 I tried to let it go
 I'm not, not over you

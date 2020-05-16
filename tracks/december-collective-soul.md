@@ -1,8 +1,11 @@
 ---
+album: Collective Soul
 artists:
 - Collective Soul
+external_ids:
+  spotify: spotify:track:3yi27cGUFPTQUdWZV9nV67
 features: []
-genres: []
+first_released_as_single: false
 key: december-collective-soul
 lyrics_url: https://www.azlyrics.com/lyrics/collectivesoul/december.html
 name: December
@@ -163,8 +166,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1996-02-03'
+release_year: 1995
+runtime: 285000
 ---
-
 Why drink the water from my hand?
 Contagious as you think I am
 
@@ -228,6 +232,3 @@ December promise you gave unto me
 December whispers of treachery
 December clouds are now covering me
 December songs no longer I sing
-
-
-

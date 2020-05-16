@@ -1,8 +1,11 @@
 ---
+album: ARTPOP
 artists:
 - Lady Gaga
+external_ids:
+  spotify: spotify:track:3n3S5cH3IyaOswY2XSUGTS
 features: []
-genres: []
+first_released_as_single: false
 key: venus-lady-gaga
 lyrics_url: https://www.musixmatch.com/lyrics/Lady-Gaga/Venus
 name: Venus
@@ -11,6 +14,8 @@ rankings:
   rank: 32
   ranking_list: Billboard Hot 100
   start_date: '2013-11-16'
+release_year: 2013
+runtime: 233720
 ---
 Rocket number nine, take off to the planet, to the planet Venus
 Aphrodite lady, seashell bikini, garden panty, Venus

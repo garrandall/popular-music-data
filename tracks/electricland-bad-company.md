@@ -1,8 +1,11 @@
 ---
+album: Rough Diamonds
 artists:
 - Bad Company
+external_ids:
+  spotify: spotify:track:7gpKIQOcbGsSVfJUWhYUvm
 features: []
-genres: []
+first_released_as_single: false
 key: electricland-bad-company
 lyrics_url: https://genius.com/Bad-company-electricland-lyrics
 name: Electricland
@@ -23,6 +26,8 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '1982-10-23'
+release_year: 1982
+runtime: 326933
 ---
 The neon lights go flashing by
 Electric Land is in my eyes

@@ -1,8 +1,11 @@
 ---
+album: Count Three & Pray
 artists:
 - Berlin
+external_ids:
+  spotify: spotify:track:7jWeiuBqn3xUoqzyT1Ht7J
 features: []
-genres: []
+first_released_as_single: false
 key: like-flames-berlin
 lyrics_url: https://www.azlyrics.com/lyrics/berlin/likeflames.html
 name: Like Flames
@@ -27,8 +30,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1986-11-22'
+release_year: 1986
+runtime: 307106
 ---
-
 Like Flames!
 
 Something you've heard, somewhere you've seen
@@ -78,6 +82,3 @@ We just can't escape it
 Like flames reaching out from the sun
 We can't defeat it
 Like flames reaching out from the sun
-
-
-

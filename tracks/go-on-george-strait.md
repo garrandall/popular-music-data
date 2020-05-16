@@ -1,8 +1,11 @@
 ---
+album: Strait Out Of The Box
 artists:
 - George Strait
+external_ids:
+  spotify: spotify:track:7ryhftnusX23xrRbW1w3AN
 features: []
-genres: []
+first_released_as_single: false
 key: go-on-george-strait
 lyrics_url: https://www.musixmatch.com/lyrics/George-Strait/Go-On
 name: Go On
@@ -87,6 +90,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2001-01-13'
+release_year: 1995
+runtime: 166000
 ---
 I'm so sorry, I keep interrupting, what were you gonna say?
 You caught him cheatin', I don't blame you for walkin' away.

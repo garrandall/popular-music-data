@@ -1,8 +1,11 @@
 ---
+album: Carnival Ride
 artists:
 - Carrie Underwood
+external_ids:
+  spotify: spotify:track:2dRPQFwPqAmc42mDRnsDQu
 features: []
-genres: []
+first_released_as_single: false
 key: all-american-girl-carrie-underwood
 lyrics_url: https://www.azlyrics.com/lyrics/carrieunderwood/allamericangirl.html
 name: All-American Girl
@@ -87,8 +90,9 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '2008-05-31'
+release_year: 2007
+runtime: 212173
 ---
-
 Since the day they got married
 He'd been praying for a little baby boy
 Someone he could take fishing
@@ -132,6 +136,3 @@ And his heart belongs to that sweet, little, beautiful, wonderful, perfect
 All-American girl
 
 All-American girl
-
-
-

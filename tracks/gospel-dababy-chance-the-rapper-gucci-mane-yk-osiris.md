@@ -1,11 +1,14 @@
 ---
+album: KIRK
 artists:
 - DaBaby
+external_ids:
+  spotify: spotify:track:0WoAkdHmgPmEXfiBox1flk
 features:
 - Chance The Rapper
 - Gucci Mane
 - YK Osiris
-genres: []
+first_released_as_single: false
 key: gospel-dababy-chance-the-rapper-gucci-mane-yk-osiris
 lyrics_url: https://www.azlyrics.com/lyrics/dababy/gospel.html
 name: GOSPEL
@@ -14,8 +17,9 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '2019-10-12'
+release_year: 2019
+runtime: 214893
 ---
-
 This shit right here sound like some gospel
 I lost my daddy the same week that they lost Nipsey
 Ain't got no love left in my heart, my shit be empty
@@ -112,6 +116,3 @@ And the day I die, I bet Lil Jon going down in history
 (No hoe, it's a no go, I don't want you)
 And everybody wondering why he come around and don't say nothing
 ('Cause' he be so alone, it's been so long, I can't feel nothing)
-
-
-

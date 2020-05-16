@@ -1,8 +1,11 @@
 ---
+album: His Greatest Tracks
 artists:
 - Freddy Cannon
+external_ids:
+  spotify: spotify:track:5X1QfZcAkxP56UkqSqcFT3
 features: []
-genres: []
+first_released_as_single: false
 key: for-me-and-my-gal-freddy-cannon
 lyrics_url: https://genius.com/Freddy-cannon-for-me-and-my-gal-lyrics
 name: For Me And My Gal
@@ -31,6 +34,8 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '1961-11-20'
+release_year: 1961
+runtime: 145826
 ---
 Ah, the bells are ringin'
 For me and my gal

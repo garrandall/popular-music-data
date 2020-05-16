@@ -1,9 +1,12 @@
 ---
+album: 'All The Hits: From Surf City To Drag City'
 artists:
 - Jan
 - Dean
+external_ids:
+  spotify: spotify:track:5OtJxpKGhfZMPi6T2vEhjo
 features: []
-genres: []
+first_released_as_single: false
 key: heart-and-soul-jan-dean
 lyrics_url: https://www.azlyrics.com/lyrics/jandean/heartandsoul.html
 name: Heart And Soul
@@ -36,8 +39,9 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '1961-08-07'
+release_year: 1961
+runtime: 128800
 ---
-
 Heart and soul
 I fell in love with you, heart and soul
 The way a fool would do madly
@@ -72,6 +76,3 @@ What one embrace can do, look at me
 It's got me loving you madly
 That little kiss you stole
 Held all my heart and soul
-
-
-

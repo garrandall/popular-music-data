@@ -1,8 +1,11 @@
 ---
+album: In My Defense
 artists:
 - Iggy Azalea
+external_ids:
+  spotify: spotify:track:7dsEsd0rlVs6PddRJj64ho
 features: []
-genres: []
+first_released_as_single: true
 key: sally-walker-iggy-azalea
 lyrics_url: https://www.azlyrics.com/lyrics/iggyazalea/sallywalker.html
 name: Sally Walker
@@ -11,8 +14,9 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '2019-03-30'
+release_year: 2019
+runtime: 178993
 ---
-
 J. White, I need a beat, I can't go off, off (Oh)
 
 Lil Sally Walker walkin' down the street
@@ -81,6 +85,3 @@ Go, go, go
 Go, go, go (Do your thang, stop)
 Go, go, go
 Go, go, go (Do your thang, drop)
-
-
-

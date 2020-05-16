@@ -1,8 +1,11 @@
 ---
+album: Look Up Child
 artists:
 - Lauren Daigle
+external_ids:
+  spotify: spotify:track:6Up545NUflOiXo8cEraH49
 features: []
-genres: []
+first_released_as_single: false
 key: you-say-lauren-daigle
 lyrics_url: https://www.azlyrics.com/lyrics/laurendaigle/yousay.html
 name: You Say
@@ -179,8 +182,9 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '2019-05-18'
+release_year: 2018
+runtime: 274693
 ---
-
 I keep fighting voices in my mind that say I'm not enough
 Every single lie that tells me I will never measure up
 Am I more than just the sum of every high and every low?
@@ -226,6 +230,3 @@ Oh I believe, ah
 Yes I believe, ah
 What You say of me
 Oh I believe
-
-
-

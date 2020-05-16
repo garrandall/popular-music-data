@@ -1,8 +1,11 @@
 ---
+album: Rumours (Super Deluxe)
 artists:
 - Fleetwood Mac
+external_ids:
+  spotify: spotify:track:3CPeWqqaHR0hmyfsWhMJQs
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-stop-fleetwood-mac
 lyrics_url: https://genius.com/Fleetwood-mac-dont-stop-lyrics
 name: Don't Stop
@@ -79,6 +82,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1977-11-05'
+release_year: 1977
+runtime: 193346
 ---
 If you wake up and don't wanna smile
 If it takes just a little while

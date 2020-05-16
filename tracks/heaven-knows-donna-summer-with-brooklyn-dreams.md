@@ -1,8 +1,12 @@
 ---
+album: Sleepless Nights
 artists:
-- Donna Summer With Brooklyn Dreams
-features: []
-genres: []
+- Donna Summer
+external_ids:
+  spotify: spotify:track:6xjVOTIwk2ECgfRhkUH3xM
+features:
+- Brooklyn Dreams
+first_released_as_single: false
 key: heaven-knows-donna-summer-with-brooklyn-dreams
 name: Heaven Knows
 rankings:
@@ -82,5 +86,7 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1979-05-19'
+release_year: 1979
+runtime: 404146
 ---
 

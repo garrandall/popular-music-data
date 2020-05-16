@@ -1,8 +1,11 @@
 ---
+album: Albert Hammond
 artists:
 - Albert Hammond
+external_ids:
+  spotify: spotify:track:37qYPX8I4CveMOmGYVXuYm
 features: []
-genres: []
+first_released_as_single: false
 key: half-a-million-miles-from-home-albert-hammond
 lyrics_url: https://www.azlyrics.com/lyrics/alberthammond/halfamillionmilesfromhome.html
 name: Half A Million Miles From Home
@@ -27,8 +30,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1973-12-29'
+release_year: 1973
+runtime: 171360
 ---
-
 Sitting by a lonely Kansas road
 A car goes rushing by
 At the rate of one an hour
@@ -57,6 +61,3 @@ But there's no communication."
 I'm a half a million miles from home
 I'm a half a million miles from home
 I'm a half a million miles from home...
-
-
-

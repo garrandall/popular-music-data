@@ -1,8 +1,11 @@
 ---
+album: Alive In America
 artists:
 - Prism
+external_ids:
+  spotify: spotify:track:6sRJSTw7fmRzlFGcykUqeI
 features: []
-genres: []
+first_released_as_single: false
 key: flyin--prism
 lyrics_url: https://genius.com/Prism-flyin-lyrics
 name: Flyin'
@@ -39,6 +42,8 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '1978-09-09'
+release_year: 1978
+runtime: 355213
 ---
 You're on the inside
 I'm on the outside

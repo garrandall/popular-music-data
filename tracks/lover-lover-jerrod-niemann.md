@@ -1,8 +1,11 @@
 ---
+album: Judge Jerrod & The Hung Jury
 artists:
 - Jerrod Niemann
+external_ids:
+  spotify: spotify:track:5UzU0qw21okODBNUnxptVo
 features: []
-genres: []
+first_released_as_single: false
 key: lover-lover-jerrod-niemann
 lyrics_url: https://www.azlyrics.com/lyrics/jerrodniemann/loverlover.html
 name: Lover Lover
@@ -87,8 +90,9 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '2010-09-25'
+release_year: 2010
+runtime: 193733
 ---
-
 Well the truth
 Well it hurts to say
 I'm gonna pack up my bags
@@ -152,6 +156,3 @@ Lover, lover, lover
 You don't treat me no good no more
 Lover, lover, lover
 You don't treat me no good no more
-
-
-

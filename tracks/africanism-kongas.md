@@ -1,8 +1,11 @@
 ---
+album: The Best Of Cerrone Productions
 artists:
 - Kongas
+external_ids:
+  spotify: spotify:track:3c8k5ahDMr0n19FbD7l4yM
 features: []
-genres: []
+first_released_as_single: false
 key: africanism-kongas
 name: Africanism
 rankings:
@@ -34,5 +37,7 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1978-05-20'
+release_year: 1978
+runtime: 280374
 ---
 

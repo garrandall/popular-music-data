@@ -1,9 +1,12 @@
 ---
+album: DUMMY BOY
 artists:
 - 6ix9ine
+external_ids:
+  spotify: spotify:track:6mKs2kkBgvf090H566n1pd
 features:
 - Anuel AA
-genres: []
+first_released_as_single: false
 key: bebe-6ix9ine-anuel-aa
 lyrics_url: https://genius.com/Genius-english-translations-6ix9ine-bebe-ft-anuel-aa-english-translation-lyrics
 name: BEBE
@@ -28,6 +31,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2018-12-08'
+release_year: 2018
+runtime: 217822
 ---
 Making love at the same time that you touch yourself (you get)
 Baby, nothing will happen, go crazy (cra-crazy, crazy)

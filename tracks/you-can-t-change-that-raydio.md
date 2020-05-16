@@ -1,8 +1,11 @@
 ---
+album: Rock On
 artists:
 - Raydio
+external_ids:
+  spotify: spotify:track:5vIvHVCP0n6EXTMH0fOpAp
 features: []
-genres: []
+first_released_as_single: false
 key: you-can-t-change-that-raydio
 lyrics_url: https://genius.com/Raydio-you-cant-change-that-lyrics
 name: You Can't Change That
@@ -95,6 +98,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1979-09-22'
+release_year: 1979
+runtime: 203080
 ---
 Honey, I'll always love you
 I promise to always love you

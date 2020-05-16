@@ -1,8 +1,11 @@
 ---
+album: For Teenagers Only
 artists:
 - Bobby Darin
+external_ids:
+  spotify: spotify:track:4BfaJqPYJ1d3k4bLLD60XL
 features: []
-genres: []
+first_released_as_single: false
 key: somebody-to-love-bobby-darin
 lyrics_url: https://www.azlyrics.com/lyrics/bobbydarin/somebodytolove.html
 name: Somebody To Love
@@ -43,8 +46,9 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '1960-11-21'
+release_year: 1960
+runtime: 132453
 ---
-
 I've been all over this country
 Been half way 'round the world
 I've been traveling so dog gone much
@@ -100,6 +104,3 @@ Somebody to love (Somebody to love)
 Somebody to love (Somebody to love)
 Somebody to call me turtledove
 Somebody to love...
-
-
-

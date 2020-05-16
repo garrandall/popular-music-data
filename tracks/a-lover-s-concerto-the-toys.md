@@ -1,8 +1,11 @@
 ---
+album: The Toys Sing "A Lover's Concerto" and "Attack!"
 artists:
 - The Toys
+external_ids:
+  spotify: spotify:track:1gcY3t8AODYm42HsxVPo8R
 features: []
-genres: []
+first_released_as_single: false
 key: a-lover-s-concerto-the-toys
 lyrics_url: https://genius.com/The-toys-a-lovers-concerto-lyrics
 name: A Lover's Concerto
@@ -67,6 +70,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1965-12-18'
+release_year: 1965
+runtime: 158000
 ---
 How gentle is the rain
 That falls softly on the meadow?

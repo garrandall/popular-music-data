@@ -1,9 +1,12 @@
 ---
+album: So Much Fun
 artists:
 - Young Thug
+external_ids:
+  spotify: spotify:track:45psteAtfoH6lMVpNmaGTJ
 features:
 - Gunna
-genres: []
+first_released_as_single: false
 key: surf-young-thug-gunna
 lyrics_url: https://www.musixmatch.com/lyrics/Young-Thug-Gunna/Surf-Gunna
 name: Surf
@@ -12,6 +15,8 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '2019-08-31'
+release_year: 2019
+runtime: 184093
 ---
 Woah
 You guys wan' go to the beach with few freaks, huh? (Yeah, yeah, yeah)

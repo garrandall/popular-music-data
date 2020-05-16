@@ -1,8 +1,11 @@
 ---
+album: Hustler's P.o.m.e.
 artists:
 - Jim Jones
+external_ids:
+  spotify: spotify:track:5rXkgeY6rpcHcsolCpXZHR
 features: []
-genres: []
+first_released_as_single: false
 key: we-fly-high-jim-jones
 lyrics_url: https://genius.com/Jim-jones-we-fly-high-lyrics
 name: We Fly High
@@ -115,6 +118,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2007-04-21'
+release_year: 2006
+runtime: 236080
 ---
 I wear a mean dark pair of shades
 And you can't see my eyes

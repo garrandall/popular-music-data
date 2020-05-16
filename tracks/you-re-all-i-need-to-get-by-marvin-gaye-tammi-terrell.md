@@ -1,9 +1,12 @@
 ---
+album: You're All I Need
 artists:
 - Marvin Gaye
 - Tammi Terrell
+external_ids:
+  spotify: spotify:track:6Ndauo9gCxNjTfklsFYS7b
 features: []
-genres: []
+first_released_as_single: false
 key: you-re-all-i-need-to-get-by-marvin-gaye-tammi-terrell
 lyrics_url: https://genius.com/Marvin-gaye-and-tammi-terrell-youre-all-i-need-to-get-by-lyrics
 name: You're All I Need To Get By
@@ -56,6 +59,8 @@ rankings:
   rank: 33
   ranking_list: Billboard Hot 100
   start_date: '1968-10-12'
+release_year: 1968
+runtime: 173866
 ---
 Like sweet morning dew
 I took one look at you

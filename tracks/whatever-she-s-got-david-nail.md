@@ -1,8 +1,11 @@
 ---
+album: I'm A Fire
 artists:
 - David Nail
+external_ids:
+  spotify: spotify:track:4PJXT82AZtlDW4Q71b43oz
 features: []
-genres: []
+first_released_as_single: false
 key: whatever-she-s-got-david-nail
 lyrics_url: https://www.azlyrics.com/lyrics/davidnail/whatevershesgot.html
 name: Whatever She's Got
@@ -91,8 +94,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2014-03-08'
+release_year: 2013
+runtime: 236800
 ---
-
 She's a little complicated
 She'll make her mind up just to change it
 The kind of girl that keeps you waitin', waitin' around
@@ -154,6 +158,3 @@ That's alright
 Doesn't matter I'll keep on waiting
 For whatever she's got
 For whatever she's got
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Ruth Brown
 artists:
 - Ruth Brown
+external_ids:
+  spotify: spotify:track:2yShRZBSQ7Pa7GPrdQBjhy
 features: []
-genres: []
+first_released_as_single: false
 key: mama--he-treats-your-daughter-mean--ruth-brown
 lyrics_url: https://genius.com/Ruth-brown-mama-he-treats-your-daughter-mean-lyrics
 name: Mama (He Treats Your Daughter Mean)
@@ -11,6 +14,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1962-09-08'
+release_year: 1957
+runtime: 176386
 ---
 Mama, he treats your daughter mean
 Mama, he treats your daughter mean

@@ -1,8 +1,11 @@
 ---
+album: Heartland
 artists:
 - Real Life
+external_ids:
+  spotify: spotify:track:3Guz2ytmxqThnnJGHwXviA
 features: []
-genres: []
+first_released_as_single: false
 key: catch-me-i-m-falling-real-life
 lyrics_url: https://genius.com/Real-life-catch-me-im-falling-lyrics
 name: Catch Me I'm Falling
@@ -51,6 +54,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1984-06-02'
+release_year: 1983
+runtime: 245466
 ---
 I lay down to rest my head
 My soul to keep the night ahead

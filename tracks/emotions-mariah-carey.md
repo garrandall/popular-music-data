@@ -1,8 +1,11 @@
 ---
+album: Emotions
 artists:
 - Mariah Carey
+external_ids:
+  spotify: spotify:track:0cELvuwJW1acISUHYB6suj
 features: []
-genres: []
+first_released_as_single: false
 key: emotions-mariah-carey
 lyrics_url: https://www.azlyrics.com/lyrics/mariahcarey/emotions.html
 name: Emotions
@@ -87,9 +90,9 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '1992-01-11'
+release_year: 1991
+runtime: 248093
 ---
-
-
 You've got me feeling emotions
 Deeper than I've ever dreamed of
 You've got me feeling emotions
@@ -131,4 +134,3 @@ You know the way to make me lose control
 When you're looking into my eyes
 You make me feel so
 High
-

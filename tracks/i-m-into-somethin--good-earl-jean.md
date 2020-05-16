@@ -1,8 +1,11 @@
 ---
+album: 'One Kiss Can Lead To Another: Girl Group Sounds, Lost & Found'
 artists:
 - Earl-Jean
+external_ids:
+  spotify: spotify:track:3EfVzkwQkJm26BM6rywtMj
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-into-somethin--good-earl-jean
 name: I'm Into Somethin' Good
 rankings:
@@ -38,5 +41,7 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1964-08-15'
+release_year: 1964
+runtime: 173720
 ---
 

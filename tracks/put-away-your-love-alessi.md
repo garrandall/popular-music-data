@@ -1,8 +1,11 @@
 ---
+album: Long Time Friends
 artists:
 - Alessi
+external_ids:
+  spotify: spotify:track:3OfHkVTD7efikqeBQJBYyM
 features: []
-genres: []
+first_released_as_single: false
 key: put-away-your-love-alessi
 lyrics_url: https://www.musixmatch.com/lyrics/Alessi-Brothers/Put-Away-Your-Love
 name: Put Away Your Love
@@ -23,6 +26,8 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '1982-05-22'
+release_year: 1982
+runtime: 215666
 ---
 It's nice you
 Call me up long distance

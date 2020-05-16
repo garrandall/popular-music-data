@@ -1,8 +1,11 @@
 ---
+album: Overly Dedicated
 artists:
 - Kendrick Lamar
+external_ids:
+  spotify: spotify:track:53mCo1wDJ12iZNq9LgIeg2
 features: []
-genres: []
+first_released_as_single: false
 key: i-kendrick-lamar
 lyrics_url: https://genius.com/Connor-runstedler-interpretation-of-the-song-i-by-kendrick-lamar-lyrics
 name: i
@@ -51,6 +54,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2014-12-20'
+release_year: 2010
+runtime: 210494
 ---
 My interpretation of the Song "i" by Kendrick Lamar
 

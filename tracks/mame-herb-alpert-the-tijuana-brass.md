@@ -1,9 +1,12 @@
 ---
+album: S.R.O.
 artists:
 - Herb Alpert
 - The Tijuana Brass
+external_ids:
+  spotify: spotify:track:2xPtKy64Fu3T87e5AWtVI9
 features: []
-genres: []
+first_released_as_single: false
 key: mame-herb-alpert-the-tijuana-brass
 lyrics_url: https://genius.com/Herb-alpert-and-the-tijuana-brass-mame-lyrics
 name: Mame
@@ -40,6 +43,8 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '1967-01-07'
+release_year: 1966
+runtime: 127293
 ---
 You coax the blues right out of the horn, Mame
 You charm the husk right off of the corn, Mame

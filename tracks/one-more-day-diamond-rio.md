@@ -1,8 +1,11 @@
 ---
+album: One More Day
 artists:
 - Diamond Rio
+external_ids:
+  spotify: spotify:track:1uMi5mWtY2HHiUwHl7S9p7
 features: []
-genres: []
+first_released_as_single: false
 key: one-more-day-diamond-rio
 lyrics_url: https://www.azlyrics.com/lyrics/diamondrio/onemoreday.html
 name: One More Day
@@ -87,8 +90,9 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '2001-06-02'
+release_year: 1991
+runtime: 215626
 ---
-
 Last night I had a crazy dream
 A wish was granted just for me
 It could be for anything
@@ -131,6 +135,3 @@ With you...
 
 One more day
 (One more day)
-
-
-

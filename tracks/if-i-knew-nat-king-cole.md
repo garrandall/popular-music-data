@@ -1,8 +1,11 @@
 ---
+album: The Beautiful Ballads
 artists:
 - Nat King Cole
+external_ids:
+  spotify: spotify:track:00Vwp9jQUs52JOnbbLaz5e
 features: []
-genres: []
+first_released_as_single: false
 key: if-i-knew-nat-king-cole
 lyrics_url: https://genius.com/Nat-king-cole-if-i-knew-lyrics
 name: If I Knew
@@ -15,6 +18,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1961-01-09'
+release_year: 1961
+runtime: 167693
 ---
 If I knew what the
 Nightingale sings in her song

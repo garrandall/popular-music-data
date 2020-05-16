@@ -1,8 +1,11 @@
 ---
+album: Back To Black
 artists:
 - Amy Winehouse
+external_ids:
+  spotify: spotify:track:4JNGKvjZwGJpTXODiu82DO
 features: []
-genres: []
+first_released_as_single: true
 key: rehab-amy-winehouse
 lyrics_url: https://www.musixmatch.com/lyrics/Amy-Winehouse/Rehab
 name: Rehab
@@ -87,6 +90,8 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '2007-09-15'
+release_year: 2006
+runtime: 232453
 ---
 They tried to make me go to Rehab
 But I said no, no, no

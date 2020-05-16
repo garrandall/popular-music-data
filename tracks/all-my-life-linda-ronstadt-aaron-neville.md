@@ -1,9 +1,12 @@
 ---
+album: Cry Like a Rainstorm Howl Like the Wind
 artists:
 - Linda Ronstadt
+external_ids:
+  spotify: spotify:track:6mHrQvPTT3i4ZwwcR4gZR2
 features:
 - Aaron Neville
-genres: []
+first_released_as_single: false
 key: all-my-life-linda-ronstadt-aaron-neville
 lyrics_url: https://www.musixmatch.com/lyrics/Linda-Ronstadt-featuring-Aaron-Neville-feat-Aaron-Neville/All-My-Life
 name: All My Life
@@ -68,6 +71,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1990-05-19'
+release_year: 1989
+runtime: 210960
 ---
 Am I really here in your arms?
 This is just like I dreamed it would be

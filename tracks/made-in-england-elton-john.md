@@ -1,8 +1,11 @@
 ---
+album: Made In England
 artists:
 - Elton John
+external_ids:
+  spotify: spotify:track:5mZHT7OH6mz0vpqDQeHBbd
 features: []
-genres: []
+first_released_as_single: false
 key: made-in-england-elton-john
 lyrics_url: https://www.azlyrics.com/lyrics/eltonjohn/madeinengland.html
 name: Made In England
@@ -47,8 +50,9 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1995-09-16'
+release_year: 1995
+runtime: 308106
 ---
-
 I was made in England out of Cadillac muscle
 I had a quit-me father, had a love-me mother
 I had Little Richard and that black piano
@@ -71,6 +75,3 @@ If you're made in England, you're built to last
 You can still say 'homo' and everybody laughs
 But the joke's on you, you never read the song
 They all think they know but they all got it wrong
-
-
-

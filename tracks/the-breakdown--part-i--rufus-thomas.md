@@ -1,8 +1,11 @@
 ---
+album: Did You Heard Me?
 artists:
 - Rufus Thomas
+external_ids:
+  spotify: spotify:track:7hmG7vpWEmGwMBzv2iIxxQ
 features: []
-genres: []
+first_released_as_single: false
 key: the-breakdown--part-i--rufus-thomas
 lyrics_url: https://genius.com/Rufus-thomas-the-breakdown-lyrics
 name: The Breakdown (Part I)
@@ -47,6 +50,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1971-10-16'
+release_year: 1971
+runtime: 197813
 ---
 Honey, baby, I been told
 You know how, shake the butter bowl

@@ -1,8 +1,11 @@
 ---
+album: When You Tell Me That You Love Me
 artists:
 - American Idol Finalists Season 4
+external_ids:
+  spotify: spotify:track:56aPHHyolL6Q6uvl6S4Vrj
 features: []
-genres: []
+first_released_as_single: true
 key: when-you-tell-me-that-you-love-me-american-idol-finalists-season-4
 lyrics_url: https://www.musixmatch.com/lyrics/American-Idol-Finalists-Season-4/When-You-Tell-Me-That-You-Love-Me
 name: When You Tell Me That You Love Me
@@ -23,6 +26,8 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '2005-05-28'
+release_year: 2005
+runtime: 224733
 ---
 I wanna call the stars
 Down from the sky

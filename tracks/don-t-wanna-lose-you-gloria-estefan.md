@@ -1,8 +1,11 @@
 ---
+album: Cuts Both Ways
 artists:
 - Gloria Estefan
+external_ids:
+  spotify: spotify:track:0AHePznQsgBpkBJEOd5Q07
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-wanna-lose-you-gloria-estefan
 lyrics_url: https://genius.com/Gloria-estefan-dont-wanna-lose-you-lyrics
 name: Don't Wanna Lose You
@@ -79,6 +82,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1989-11-04'
+release_year: 1984
+runtime: 249133
 ---
 Sometimes it's hard to make things clear
 I know when to face the truth

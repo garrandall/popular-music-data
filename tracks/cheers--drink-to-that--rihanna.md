@@ -1,8 +1,11 @@
 ---
+album: Loud
 artists:
 - Rihanna
+external_ids:
+  spotify: spotify:track:3UhPDEuztObrsz7KOgkWi0
 features: []
-genres: []
+first_released_as_single: false
 key: cheers--drink-to-that--rihanna
 lyrics_url: https://genius.com/Rihanna-cheers-drink-to-that-lyrics
 name: Cheers (Drink To That)
@@ -79,6 +82,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2011-12-10'
+release_year: 2010
+runtime: 261746
 ---
 Takin' shots in here, you want one?
 (Yeah, yeah, yeah, yeah...)

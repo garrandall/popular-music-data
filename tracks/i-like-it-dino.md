@@ -1,8 +1,11 @@
 ---
+album: 24/7
 artists:
 - Dino
+external_ids:
+  spotify: spotify:track:1UHXwhhhyyikWEa3h79sNF
 features: []
-genres: []
+first_released_as_single: false
 key: i-like-it-dino
 lyrics_url: https://genius.com/Dino-dean-esposito-i-like-it-lyrics
 name: I Like It
@@ -107,6 +110,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1989-10-28'
+release_year: 1989
+runtime: 307200
 ---
 Get up on it
 

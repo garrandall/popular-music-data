@@ -1,9 +1,12 @@
 ---
+album: Traces
 artists:
 - Classics IV
+external_ids:
+  spotify: spotify:track:3czHmqzvrWBvKiZo6vUs0x
 features:
 - Dennis Yost
-genres: []
+first_released_as_single: false
 key: traces-classics-iv-dennis-yost
 lyrics_url: https://genius.com/Classics-iv-traces-feat-denis-yost-lyrics
 name: Traces
@@ -56,6 +59,8 @@ rankings:
   rank: 20
   ranking_list: Billboard Hot 100
   start_date: '1969-04-26'
+release_year: 1969
+runtime: 168546
 ---
 Faded photograph
 Covered now with lines and creases

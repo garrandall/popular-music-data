@@ -1,8 +1,11 @@
 ---
+album: Eat A Peach
 artists:
 - The Allman Brothers Band
+external_ids:
+  spotify: spotify:track:4euYSSvpQZSAQ4gThyL2QD
 features: []
-genres: []
+first_released_as_single: false
 key: ain-t-wastin--time-no-more-the-allman-brothers-band
 lyrics_url: https://genius.com/The-allman-brothers-band-aint-wastin-time-no-more-lyrics
 name: Ain't Wastin' Time No More
@@ -23,6 +26,8 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '1972-05-20'
+release_year: 1972
+runtime: 221890
 ---
 Last Sunday morning, the sunshine felt like rain
 Week before, they all seemed the same

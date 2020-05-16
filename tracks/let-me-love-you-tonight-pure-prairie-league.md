@@ -1,8 +1,11 @@
 ---
+album: Firin' Up
 artists:
 - Pure Prairie League
+external_ids:
+  spotify: spotify:track:6vOMU2u38Z9Wru3CqPxcKs
 features: []
-genres: []
+first_released_as_single: false
 key: let-me-love-you-tonight-pure-prairie-league
 lyrics_url: https://www.azlyrics.com/lyrics/pureprairieleague/letmeloveyoutonight.html
 name: Let Me Love You Tonight
@@ -75,8 +78,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1980-08-30'
+release_year: 1980
+runtime: 167106
 ---
-
 Dark clouds are blowing in the wind
 He's crossing your mind again
 You got that sad sad feeling from a broken heart
@@ -112,6 +116,3 @@ Let me love you tonight
 There's a million stars in the sky
 Let me love you tonight
 I'll make everything all right
-
-
-

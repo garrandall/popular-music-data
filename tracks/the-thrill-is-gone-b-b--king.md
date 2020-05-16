@@ -1,8 +1,11 @@
 ---
+album: Completely Well
 artists:
 - B.B. King
+external_ids:
+  spotify: spotify:track:4NQfrmGs9iQXVQI9IpRhjM
 features: []
-genres: []
+first_released_as_single: false
 key: the-thrill-is-gone-b-b--king
 lyrics_url: https://genius.com/Bb-king-the-thrill-is-gone-lyrics
 name: The Thrill Is Gone
@@ -63,6 +66,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1970-03-28'
+release_year: 1969
+runtime: 324733
 ---
 The thrill is gone
 The thrill is gone away

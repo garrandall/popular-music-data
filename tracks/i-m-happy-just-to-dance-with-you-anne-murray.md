@@ -1,8 +1,11 @@
 ---
+album: Somebody's Waiting
 artists:
 - Anne Murray
+external_ids:
+  spotify: spotify:track:37VVC5u7gZNE8QF15bF9Hi
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-happy-just-to-dance-with-you-anne-murray
 lyrics_url: https://genius.com/Anne-murray-im-happy-just-to-dance-with-you-lyrics
 name: I'm Happy Just To Dance With You
@@ -31,6 +34,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1980-07-19'
+release_year: 1980
+runtime: 227306
 ---
 I don't wanna kiss or hold your hand
 If it's funny, try and understand

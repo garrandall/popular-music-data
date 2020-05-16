@@ -1,9 +1,12 @@
 ---
+album: Today, Tomorrow and Forever
 artists:
 - Elvis Presley
 - The Jordanaires
+external_ids:
+  spotify: spotify:track:4SmJEtEHJbk5GlYxVxXb8H
 features: []
-genres: []
+first_released_as_single: false
 key: witchcraft-elvis-presley-with-the-jordanaires
 name: Witchcraft
 rankings:
@@ -35,5 +38,7 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '1963-11-30'
+release_year: 1963
+runtime: 140933
 ---
 

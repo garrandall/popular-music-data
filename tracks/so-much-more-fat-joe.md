@@ -1,8 +1,11 @@
 ---
+album: All Or Nothing
 artists:
 - Fat Joe
+external_ids:
+  spotify: spotify:track:2TNYcJrUf8W0Hc5h3jtfKD
 features: []
-genres: []
+first_released_as_single: true
 key: so-much-more-fat-joe
 lyrics_url: https://genius.com/Fat-joe-so-much-more-lyrics
 name: So Much More
@@ -27,6 +30,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2005-05-14'
+release_year: 2005
+runtime: 240186
 ---
 This should be played at high volume
 

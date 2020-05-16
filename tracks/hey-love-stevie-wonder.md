@@ -1,8 +1,11 @@
 ---
+album: Down To Earth
 artists:
 - Stevie Wonder
+external_ids:
+  spotify: spotify:track:2hABo8vu1yWazJhJ8pfW6I
 features: []
-genres: []
+first_released_as_single: false
 key: hey-love-stevie-wonder
 lyrics_url: https://genius.com/Stevie-wonder-hey-love-lyrics
 name: Hey Love
@@ -31,6 +34,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1967-05-27'
+release_year: 1966
+runtime: 161280
 ---
 (Hey love...hey love)
 

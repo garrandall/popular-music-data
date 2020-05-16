@@ -1,8 +1,11 @@
 ---
+album: Ritchie Valens
 artists:
 - Ritchie Valens
+external_ids:
+  spotify: spotify:track:2aEeghgUcnu75tzcolFMfs
 features: []
-genres: []
+first_released_as_single: false
 key: la-bamba-ritchie-valens
 lyrics_url: https://www.azlyrics.com/lyrics/ritchievalens/labamba.html
 name: La Bamba
@@ -67,8 +70,9 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '1959-04-06'
+release_year: 1958
+runtime: 126960
 ---
-
 Para bailar la bamba
 Para bailar la bamba
 Se necesita una poca de gracia
@@ -110,6 +114,3 @@ Por ti sere
 Ba-ba-bamba
 Ba-ba-bamba
 Ba-ba-bamba
-
-
-

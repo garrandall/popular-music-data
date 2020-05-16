@@ -1,8 +1,11 @@
 ---
+album: VYP - Voice of the Young People
 artists:
 - Lil Mama
+external_ids:
+  spotify: spotify:track:1Y4ZdPOOgCUhBcKZOrUFiS
 features: []
-genres: []
+first_released_as_single: true
 key: lip-gloss-lil-mama
 lyrics_url: https://www.azlyrics.com/lyrics/lilmama/lipgloss.html
 name: Lip Gloss
@@ -51,8 +54,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2007-08-25'
+release_year: 2007
+runtime: 219773
 ---
-
 Hello
 It's popping, it's popping,
 Ok
@@ -197,6 +201,3 @@ They say my lip gloss is popping
 My lip gloss is cool
 All the boys keep jocking
 They chase me after school
-
-
-

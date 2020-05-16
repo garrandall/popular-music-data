@@ -1,9 +1,12 @@
 ---
+album: Honest
 artists:
 - Future
+external_ids:
+  spotify: spotify:track:1FA20IpaYZvOFKYQwB0NYg
 features:
 - Lil Wayne
-genres: []
+first_released_as_single: false
 key: karate-chop--remix--future-lil-wayne
 lyrics_url: https://genius.com/Genius-traductions-francaises-future-karate-chop-remix-ft-lil-wayne-traduction-francaise-lyrics
 name: Karate Chop (Remix)
@@ -56,6 +59,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2013-06-08'
+release_year: 2013
+runtime: 277306
 ---
 You know, this just some real nigga shit, a real nigga story
 You know what I'm saying?

@@ -1,8 +1,11 @@
 ---
+album: 'Tommy James And The Shondells: Anthology'
 artists:
 - Tommy James And The Shondells
+external_ids:
+  spotify: spotify:track:33DxOpewGqAFr4QzvjRMdH
 features: []
-genres: []
+first_released_as_single: false
 key: ball-of-fire-tommy-james-and-the-shondells
 lyrics_url: https://www.azlyrics.com/lyrics/tommyjamesandtheshondells/balloffire.html
 name: Ball Of Fire
@@ -39,8 +42,9 @@ rankings:
   rank: 31
   ranking_list: Billboard Hot 100
   start_date: '1969-11-22'
+release_year: 1969
+runtime: 187666
 ---
-
 Scarlet hovering my head
 Pretty and red
 Pretty and red
@@ -82,6 +86,3 @@ And the ball of fire in the sky, yeah
 It keeps watching over you and I, way up high, ho
 And the ball of fire in the sky, come on
 It keeps watching over you and I, way up high
-
-
-

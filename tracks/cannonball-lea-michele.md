@@ -1,8 +1,11 @@
 ---
+album: Louder
 artists:
 - Lea Michele
+external_ids:
+  spotify: spotify:track:0PkxXCMpK6IGEhDqPss6zm
 features: []
-genres: []
+first_released_as_single: true
 key: cannonball-lea-michele
 lyrics_url: https://genius.com/Lea-michele-cannonball-lyrics
 name: Cannonball
@@ -11,6 +14,8 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '2013-12-28'
+release_year: 2013
+runtime: 215426
 ---
 Break down
 Break down

@@ -1,9 +1,12 @@
 ---
+album: Nothing Was The Same
 artists:
 - Drake
+external_ids:
+  spotify: spotify:track:2aSC2xhRxOLiiZZVjhbylH
 features:
 - Majid Jordan
-genres: []
+first_released_as_single: false
 key: hold-on-we-re-going-home-drake-majid-jordan
 lyrics_url: https://genius.com/Drake-hold-on-were-going-home-lyrics
 name: Hold On We're Going Home
@@ -140,6 +143,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '2014-04-05'
+release_year: 2013
+runtime: 227880
 ---
 I got my eyes on you
 You're everything that I see

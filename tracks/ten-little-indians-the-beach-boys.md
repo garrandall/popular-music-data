@@ -1,8 +1,11 @@
 ---
+album: Surfin' Safari
 artists:
 - The Beach Boys
+external_ids:
+  spotify: spotify:track:4zUNGG8ifOz8Oark53cwpZ
 features: []
-genres: []
+first_released_as_single: false
 key: ten-little-indians-the-beach-boys
 lyrics_url: https://www.azlyrics.com/lyrics/beachboys/tenlittleindians.html
 name: Ten Little Indians
@@ -39,8 +42,9 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '1963-01-19'
+release_year: 1962
+runtime: 89066
 ---
-
 The first little Indian gave squaw pretty feather
 (Little Indian boy)
 The second little Indian made her an Indian dollar
@@ -84,6 +88,3 @@ Cause she loved the tenth Indian boy
 Loved the tenth Indian boy
 Loved the tenth Indian boy
 Loved the tenth Indian boy
-
-
-

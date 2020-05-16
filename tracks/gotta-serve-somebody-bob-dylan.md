@@ -1,8 +1,11 @@
 ---
+album: Slow Train Coming
 artists:
 - Bob Dylan
+external_ids:
+  spotify: spotify:track:760420tYNmNjFgi8bWvbop
 features: []
-genres: []
+first_released_as_single: false
 key: gotta-serve-somebody-bob-dylan
 lyrics_url: https://genius.com/Bob-dylan-gotta-serve-somebody-lyrics
 name: Gotta Serve Somebody
@@ -55,6 +58,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1979-11-24'
+release_year: 1979
+runtime: 324800
 ---
 You may be an ambassador to England or France
 You may like to gamble, you might like to dance

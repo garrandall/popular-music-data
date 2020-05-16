@@ -1,8 +1,11 @@
 ---
+album: Philly Doo-Wop Classics
 artists:
 - Maureen Gray
+external_ids:
+  spotify: spotify:track:1SKlsmoCYFdUSB9L5elxFj
 features: []
-genres: []
+first_released_as_single: false
 key: dancin--the-strand-maureen-gray
 lyrics_url: https://genius.com/Maureen-gray-dancin-the-strand-lyrics
 name: Dancin' The Strand
@@ -19,6 +22,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1962-07-07'
+release_year: 1905
+runtime: 189600
 ---
 The night we were dancin' the Strand
 We fell in love as if it were planned

@@ -1,8 +1,11 @@
 ---
+album: Breakin' Away
 artists:
 - Al Jarreau
+external_ids:
+  spotify: spotify:track:55shJy826YxyMjwqbOTDtJ
 features: []
-genres: []
+first_released_as_single: false
 key: teach-me-tonight-al-jarreau
 lyrics_url: https://www.azlyrics.com/lyrics/aljarreau/teachmetonight.html
 name: Teach Me Tonight
@@ -35,8 +38,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1982-05-15'
+release_year: 1981
+runtime: 253133
 ---
-
 Did you say, "I've got a lot to learn?"
 Well, don't think I'm trying not to learn.
 Since this is the perfect spot to learn
@@ -69,6 +73,3 @@ Teach me tonight.
 
 I've lost all fear my love,
 Teach me tonight.
-
-
-

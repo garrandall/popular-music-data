@@ -1,9 +1,12 @@
 ---
+album: Hard Travelin' (with The Foggy Mountain Boys)
 artists:
 - Flatt
 - Scruggs
+external_ids:
+  spotify: spotify:track:0txfcNqfEvdOxk9Ue35220
 features: []
-genres: []
+first_released_as_single: false
 key: the-ballad-of-jed-clampett-flatt-scruggs
 lyrics_url: https://www.musixmatch.com/lyrics/Flatt-feat-Scruggs/The-Ballad-of-Jed-Clampett
 name: The Ballad Of Jed Clampett
@@ -52,6 +55,8 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '1963-02-16'
+release_year: 1951
+runtime: 123666
 ---
 Come and listen to a story about a man named Jed
 A poor mountaineer, barely kept his family fed,

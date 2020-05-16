@@ -1,8 +1,11 @@
 ---
+album: Out Of Time
 artists:
 - R.E.M.
+external_ids:
+  spotify: spotify:track:1v2zyAJrChw5JnfafSkwkJ
 features: []
-genres: []
+first_released_as_single: false
 key: shiny-happy-people-r-e-m-
 lyrics_url: https://www.azlyrics.com/lyrics/rem/shinyhappypeople.html
 name: Shiny Happy People
@@ -67,8 +70,9 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1991-11-02'
+release_year: 1991
+runtime: 225786
 ---
-
 Shiny happy people laughing
 
 Meet me in the crowd, people, people
@@ -108,6 +112,3 @@ Shiny happy people laughing
 Shiny happy people holding hands
 People, happy people
 People
-
-
-

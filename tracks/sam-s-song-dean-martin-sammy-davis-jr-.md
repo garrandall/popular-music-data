@@ -1,9 +1,12 @@
 ---
+album: The Sammy Davis Jr. Show with Special Guests Stars Frank Sinatra and Dean Martin
 artists:
 - Dean Martin
 - Sammy Davis Jr.
+external_ids:
+  spotify: spotify:track:3Lj6rIJeRhQoiZp765IYUM
 features: []
-genres: []
+first_released_as_single: false
 key: sam-s-song-dean-martin-sammy-davis-jr-
 lyrics_url: https://genius.com/Sammy-davis-jr-dean-martin-sams-song-lyrics
 name: Sam's Song
@@ -20,6 +23,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1963-01-05'
+release_year: 1962
+runtime: 165120
 ---
 (Here's a happy tune)
 A happy tune

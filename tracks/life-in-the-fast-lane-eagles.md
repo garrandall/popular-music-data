@@ -1,8 +1,11 @@
 ---
+album: Hotel California
 artists:
 - Eagles
+external_ids:
+  spotify: spotify:track:6gXrEUzibufX9xYPk3HD5p
 features: []
-genres: []
+first_released_as_single: false
 key: life-in-the-fast-lane-eagles
 lyrics_url: https://www.azlyrics.com/lyrics/eagles/lifeinthefastlane-1976.html
 name: Life In The Fast Lane
@@ -63,8 +66,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1977-08-13'
+release_year: 1976
+runtime: 286219
 ---
-
 He was a hard-headed man,
 He was brutally handsome,
 And she was terminally pretty
@@ -134,6 +138,3 @@ Life in the fast lane,
 
 Life in the fast lane
 Life in the fast lane
-
-
-

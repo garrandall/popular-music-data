@@ -1,11 +1,13 @@
 ---
+album: Kay
 artists:
 - John Wesley Ryles
-- I
+external_ids:
+  spotify: spotify:track:0kirMU1GK9LM4PF3OhJT9p
 features: []
-genres: []
+first_released_as_single: false
 key: kay-john-wesley-ryles-i
-lyrics_url: https://www.musixmatch.com/lyrics/John-Wesley-Ryles-I/Kay
+lyrics_url: https://www.lyricsmode.com/lyrics/j/john_wesley_ryles/kay.html
 name: Kay
 rankings:
 - end_date: '1969-01-03'
@@ -28,73 +30,41 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1969-01-25'
+release_year: 1968
+runtime: 221480
 ---
-From: Jerry Ann
-Lyrics added by: Rick Apple
+Kay with all your singing talent back in Houston
+Nashville's all you talked about
+I sold everything I owned to bring you here now you'll be famous
+There's no doubt
 
-"KAY"
+Last week you knocked 'em out in New York
+Tonight Chicago's going wild
+Kay your new record on the jukebox don't sound bad
+Kay I'm livin' yet I'm dyin' starin' out at music city from my cab
 
-Writer: Hank Mills
+Caution lights blink out their warning some old Big Ben clock chimes 3 A.M.
+Starvin' hound dogs search the trash cans my gas tank could stand a dollars worth of gas
+All those chunk holes here on main street jar my rib cage I could cuss
+Kay the crowd of night life people look so sad
+Kay I'm livin', yet I'm dyin' starin' out at music city from my cab
 
-(Note: The chord chart I have is in E flat. I am using the small letter "b" to denote
-Flats with the capital letters as chords. The small "m" means minor, and the "M" is
-Major. Hope this is not confusing. Enjoy! JAM)
-(Verse 1)
-KAY WITH ALL YOUR SINGING TALENT BACK IN HOUSTON
-NASHVILLE'S ALL YOU TALKED ABOUT
-I SOLD EVERYTHING I OWNED TO BRING YOU HERE
-NOW YOU'LL BE FAMOUS, THERE'S NO DOUBT
-LAST NIGHT YOU KNOCKED EM' OUT IN NEW YORK
-TONIGHT CHICAGO'S GOING WILD
-G7Cm
-KAY YOUR NEW RECORD ON THE JUKEBOX DON'T SOUND BAD
-KAY I'M LIVING YET I'M DYING STARING OUT
-AT MUSIC CITY FROM MY CAB
+Two young soldiers from Fort Campbell told me how they hate that war in Vietnam
+Sirens echoed through an alley and some woman said some fellow stabbed a man
+I rushed miss teenage to a doctor she begged to give the child my name
+I've lost count of cups of coffee that I've had
+Kay I'm livin', yet I'm dyin' starin 'out at music city from my cab
 
-(Verse 2)
-CAUTION LIGHTS BLINK OUT THEIR WARNING
-SOME OLD BIG BEN CLOCK CHIMES 3 A. M.
-STARVIN HOUND DOGS SEARCH THE TRASH CANS
-MY GAS TANK COULD STAND A DOLLER'S WORTH AGAIN
-ALL THOSE CHUCK-HOLES HERE ON MAIN ST
-JAR MY RIB CAGE I COULD CUSS
-KAY THE CROWD OF NIGHT LIFE PEOPLE LOOK SO SAD
-KAY I'M LIVING YET IM DYING STARING OUT
-AT MUSIC CITY FROM MY CAB.
+The rose petals on my front seat fallen from the bouquet Jimmy took to June
+Jim kept mumbling through his tear drops God she'll leave this world with flowers in her room
+Kay, I showed some drunk your picture and he made some smart remark
+So I hit him in the mouth boy was I mad oh
+Kay I'm livin', yet I'm dyin' starin'out at music city from my cab
 
-(Verse 3)
-TWO YOUNG SOLDIERS FROM FT. CAMPBELL
-TOLD ME HOW THEY HATE THAT WAR IN VIET NAM
-SIRENS ECHOED THRU AN ALLEY AND SOME WOMAN
-SAID SOME FELLOW STABBED A MAN.
-I RUSHED MISS TEENAGE TO A DR.
-SHE BEGGED TO GIVE THE CHILD MY NAME
-I'VE LOST COUNT OF CUPS OF COFFEE THAT I'VE HAD
-KAY I'M LIVING YET I'M DYING
-STARING OUT AT MUSIC CITY FROM MY CAB.
+Guitars, organs, horns, violins and pianos, how they play
+Grinding out the latest sounds from music city, USA
+Kay, although I know I lost you to the swinging music world
+I kiss pictures of those happy times we had
+Kay I'm livin', yet I'm dyin' starin' out at music city from my cab
 
-(BRIDGE)
-GUITARS, ORGANS, HORNS, VIOLINS, AND PIANOS
-HOW THEY PLAY
-BbEb
-GRINDING OUT THE LATEST SOUNDS FROM MUSIC CITY U.S.A.
-KAY ALTHO' I KNOW I'VE LOST YOU
-TO THE SWINGING MUSIC WORLD
-I KISS THE PICTURES OF THE HAPPY TIMES WE'VE HAD
-AbM EbAb
-KAY I'M LIVING, YET I'M DYING STARING OUT
-AT MUSIC CITY FROM MY CAB
-
-(Verse 4)
-THREE ROSE PETALS ON MY FRONT SEAT
-FALLEN FROM THE BOUQUET JIMMY TOOK TO JUNE
-JIM KEPT MUMBLING THROUGH HIS TEARDROPS
-GOD SHE'LL LEAVE THIS WORLD WITH FLOWERS IN HER ROOM
-KAY I SHOWED SOME DRUNK YOUR PICTURE
-AND HE MADE SOME SMART REMARK
-SO I HIT HIM IN THE MOUTH
-BOY WAS I MAD
-KAY I'M LIVING YET I'M DYING STARING OUT
-AT MUSIC FROM MY CAB
-
-(Repeat BRIDGE)
+Kay I'm livin', yet I'm dyin' starin' out at music city from my cab

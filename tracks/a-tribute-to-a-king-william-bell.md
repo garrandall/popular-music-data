@@ -1,8 +1,11 @@
 ---
+album: 'Stax-Volt: The Complete Singles 1959-1968'
 artists:
 - William Bell
+external_ids:
+  spotify: spotify:track:4Dpl5x91SIAMu27uV4hNZW
 features: []
-genres: []
+first_released_as_single: false
 key: a-tribute-to-a-king-william-bell
 lyrics_url: https://genius.com/William-bell-a-tribute-to-a-king-lyrics
 name: A Tribute To A King
@@ -31,6 +34,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1968-06-01'
+release_year: 1968
+runtime: 172373
 ---
 Listen, people, listen
 I'm gonna sing you a song

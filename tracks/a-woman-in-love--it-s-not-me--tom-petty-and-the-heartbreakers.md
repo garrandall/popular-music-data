@@ -1,8 +1,11 @@
 ---
+album: Hard Promises
 artists:
 - Tom Petty And The Heartbreakers
+external_ids:
+  spotify: spotify:track:5nesJC2dk7hEJjXAyY6LKm
 features: []
-genres: []
+first_released_as_single: false
 key: a-woman-in-love--it-s-not-me--tom-petty-and-the-heartbreakers
 lyrics_url: https://www.azlyrics.com/lyrics/tompettyandtheheartbreakers/awomaninloveitsnotme.html
 name: A Woman In Love (It's Not Me)
@@ -31,8 +34,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1981-09-05'
+release_year: 1975
+runtime: 11517
 ---
-
 She laughed in my face, told me goodbye
 Said "Don't think about it, you can go crazy
 Anything can happen, anything can end
@@ -63,6 +67,3 @@ I don't understand the world today
 I don't understand what she needed
 I gave her everything she threw it all away on nothin'
 She's a woman in love
-
-
-

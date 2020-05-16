@@ -1,8 +1,11 @@
 ---
+album: Sincerely
 artists:
 - Nat King Cole
+external_ids:
+  spotify: spotify:track:77nSOTGJoNEfRMtfRMybI6
 features: []
-genres: []
+first_released_as_single: false
 key: let-me-tell-you-babe-nat-king-cole
 lyrics_url: https://www.azlyrics.com/lyrics/natkingcole/letmetellyoubabe.html
 name: Let Me Tell You Babe
@@ -23,8 +26,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1966-08-27'
+release_year: 1966
+runtime: 155160
 ---
-
 Let me tell you, babe
 You got me crazy
 You got your head in
@@ -74,6 +78,3 @@ I won't let you down
 If you stay, girl
 (Let me tell you, babe)
 I won't let you down
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Da Bomb
 artists:
 - Inner Circle
+external_ids:
+  spotify: spotify:track:6in9jcfDEJyvN7jhawZ14o
 features: []
-genres: []
+first_released_as_single: false
 key: not-about-romance-inner-circle
 lyrics_url: https://www.azlyrics.com/lyrics/innercircle/itsnotaboutromance.html
 name: Not About Romance
@@ -31,8 +34,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1998-09-05'
+release_year: 1997
+runtime: 215533
 ---
-
 Boom chaka la ka boom boom boom
 Gal you cause confusion when you walk ina the room
 Boom chaka la ka boom boom boom
@@ -127,6 +131,3 @@ She just loves to dance
 She don't love you
 It's not about romance
 She don't love you
-
-
-

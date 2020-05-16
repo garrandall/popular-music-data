@@ -1,9 +1,12 @@
 ---
+album: Please Excuse Me For Being Antisocial
 artists:
 - Roddy Ricch
+external_ids:
+  spotify: spotify:track:5j1yOqWONR9T6l43AzJ6Es
 features:
 - A Boogie Wit da Hoodie
-genres: []
+first_released_as_single: true
 key: tip-toe-roddy-ricch-a-boogie-wit-da-hoodie
 lyrics_url: https://www.azlyrics.com/lyrics/roddyricch/tiptoe.html
 name: Tip Toe
@@ -36,8 +39,9 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '2020-01-25'
+release_year: 2019
+runtime: 185806
 ---
-
 Rose gold Rollie, I'm the nigga
 Put the whole damn hood on
 Patron of the new, I help put the drip on
@@ -122,6 +126,3 @@ Why you wifin' on the flip hoe?
 Serving junkies out the window
 Tried to rob us, got Extendo
 We ain't playing no pretend though
-
-
-

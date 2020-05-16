@@ -1,8 +1,11 @@
 ---
+album: Katharine McPhee
 artists:
 - Katharine McPhee
+external_ids:
+  spotify: spotify:track:6RB4Z9DwTWaVgyNg3dR9p9
 features: []
-genres: []
+first_released_as_single: false
 key: over-it-katharine-mcphee
 lyrics_url: https://www.azlyrics.com/lyrics/katharinemcphee/overit.html
 name: Over It
@@ -71,8 +74,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2007-06-02'
+release_year: 2007
+runtime: 215200
 ---
-
 I'm over your lies,
 and I'm over your games.
 I'm over you asking me,
@@ -162,6 +166,3 @@ you never were a friend of mine.
 Hurt at first, a little bit,
 but now I'm so over.
 I'm so over it..
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Down To Earth
 artists:
 - Rainbow
+external_ids:
+  spotify: spotify:track:6xq5DxZWGgdStAxGAil0yw
 features: []
-genres: []
+first_released_as_single: false
 key: since-you-been-gone-rainbow
 lyrics_url: https://genius.com/Rainbow-since-you-been-gone-lyrics
 name: Since You Been Gone
@@ -39,6 +42,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1980-01-05'
+release_year: 1979
+runtime: 197160
 ---
 I get the same old dreams, same time every night
 Fall to the ground and I wake up

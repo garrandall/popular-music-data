@@ -1,8 +1,11 @@
 ---
+album: Soul Provider
 artists:
 - Michael Bolton
+external_ids:
+  spotify: spotify:track:71LQeNIJcnZeOSYgz4reoF
 features: []
-genres: []
+first_released_as_single: false
 key: how-am-i-supposed-to-live-without-you-michael-bolton
 lyrics_url: https://www.azlyrics.com/lyrics/michaelbolton/howamisupposedtolivewithoutyou.html
 name: How Am I Supposed To Live Without You
@@ -99,8 +102,9 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1990-03-31'
+release_year: 1987
+runtime: 254373
 ---
-
 I could hardly believe it
 When I heard the news today
 I had to come and get it straight from you
@@ -135,4 +139,3 @@ When even now it's more than I can take
 And I don't wanna know the price I'm
 gonna pay for dreaming
 Now that your dream has come true
-

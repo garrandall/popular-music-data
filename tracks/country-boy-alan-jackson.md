@@ -1,8 +1,11 @@
 ---
+album: Who I Am
 artists:
 - Alan Jackson
+external_ids:
+  spotify: spotify:track:2kNrmBf2io20L8ifZepPhB
 features: []
-genres: []
+first_released_as_single: false
 key: country-boy-alan-jackson
 lyrics_url: https://www.azlyrics.com/lyrics/alanjackson/allamericancountryboy.html
 name: Country Boy
@@ -83,8 +86,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2009-03-21'
+release_year: 1994
+runtime: 199533
 ---
-
 I work a forty hour week and I earn my keep
 And I try to walk proud and tall
 I keep my nose to the ground, I don't get behind
@@ -121,6 +125,3 @@ There ain't nothing down home that I really don't enjoy
 
 I'm just a country boy
 A good ol' country boy
-
-
-

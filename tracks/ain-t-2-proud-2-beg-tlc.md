@@ -1,8 +1,11 @@
 ---
+album: Ooooooohhh... On The TLC Tip
 artists:
 - TLC
+external_ids:
+  spotify: spotify:track:5kVSEpbyuLIVuPM1i2KivC
 features: []
-genres: []
+first_released_as_single: false
 key: ain-t-2-proud-2-beg-tlc
 lyrics_url: https://genius.com/Tlc-aint-2-proud-2-beg-lyrics
 name: Ain't 2 Proud 2 Beg
@@ -95,6 +98,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1992-07-18'
+release_year: 1992
+runtime: 336560
 ---
 Yo, mic check, 1-2, 1-2
 We in the house

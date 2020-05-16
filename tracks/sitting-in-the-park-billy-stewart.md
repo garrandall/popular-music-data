@@ -1,8 +1,11 @@
 ---
+album: I Do Love You
 artists:
 - Billy Stewart
+external_ids:
+  spotify: spotify:track:0Iwbts8iqaJJh2kPiXbtgV
 features: []
-genres: []
+first_released_as_single: false
 key: sitting-in-the-park-billy-stewart
 lyrics_url: https://genius.com/Billy-stewart-sitting-in-the-park-lyrics
 name: Sitting In The Park
@@ -39,6 +42,8 @@ rankings:
   rank: 32
   ranking_list: Billboard Hot 100
   start_date: '1965-08-07'
+release_year: 1965
+runtime: 194226
 ---
 (Woo-hoo-hoo-oo)
 (Sittin' in the park, waiting for you-hoo-hoo)

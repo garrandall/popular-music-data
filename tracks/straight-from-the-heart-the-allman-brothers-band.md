@@ -1,8 +1,11 @@
 ---
+album: Brothers Of The Road
 artists:
 - The Allman Brothers Band
+external_ids:
+  spotify: spotify:track:2CTXzkxa6KnziErTeFnXa6
 features: []
-genres: []
+first_released_as_single: false
 key: straight-from-the-heart-the-allman-brothers-band
 lyrics_url: https://www.azlyrics.com/lyrics/allmanbrothersband/straightfromtheheart.html
 name: Straight From The Heart
@@ -51,8 +54,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1981-10-17'
+release_year: 1981
+runtime: 225853
 ---
-
 You've heard every line before
 My life's a revolving door
 With no way out and no way in
@@ -87,6 +91,3 @@ But I didn't know at all
 Didn't take the time to see
 Until I started to fall
 Straight from the heart
-
-
-

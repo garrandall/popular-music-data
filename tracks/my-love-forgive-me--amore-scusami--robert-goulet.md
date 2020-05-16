@@ -1,8 +1,11 @@
 ---
+album: My Love Forgive Me
 artists:
 - Robert Goulet
+external_ids:
+  spotify: spotify:track:1YO52Z4LHvZABiSFpLccHm
 features: []
-genres: []
+first_released_as_single: false
 key: my-love-forgive-me--amore-scusami--robert-goulet
 lyrics_url: https://genius.com/Robert-goulet-my-love-forgive-me-amore-scusami-lyrics
 name: My Love Forgive Me (Amore Scusami)
@@ -67,6 +70,8 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1965-01-30'
+release_year: 1964
+runtime: 167960
 ---
 My love, forgive me
 I didn't mean to have it end like this

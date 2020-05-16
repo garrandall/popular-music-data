@@ -1,8 +1,11 @@
 ---
+album: Dark Horse
 artists:
 - Nickelback
+external_ids:
+  spotify: spotify:track:06T10fEzN8ZCcqzQZYA184
 features: []
-genres: []
+first_released_as_single: false
 key: gotta-be-somebody-nickelback
 lyrics_url: https://www.azlyrics.com/lyrics/nickelback/gottabesomebody.html
 name: Gotta Be Somebody
@@ -115,8 +118,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2009-04-18'
+release_year: 2008
+runtime: 252653
 ---
-
 This time, I wonder what it feels like
 To find the one in this life, the one we all dream of
 But dreams just aren't enough
@@ -136,7 +140,7 @@ There's somebody else that feels the same somewhere
 There's gotta be somebody for me out there
 
 Tonight, out on the street, out in the moonlight
-And dammit this feels too right, it's just like dÃ©ja vu
+And dammit this feels too right, it's just like déja vu
 Me standing here with you
 So I'll be holding my breath, could this be the end?
 Is it that moment when, I find the one that I'll spend forever with
@@ -167,6 +171,3 @@ Nobody wants to be the last one there
 Cause everyone wants to feel like someone cares
 There's somebody else that feels the same somewhere
 There's gotta be somebody for me out there
-
-
-

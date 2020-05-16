@@ -1,8 +1,11 @@
 ---
+album: Lovers Who Wander
 artists:
 - Dion
+external_ids:
+  spotify: spotify:track:7rr8ZP1Ezup3DKpqLY20bl
 features: []
-genres: []
+first_released_as_single: false
 key: come-go-with-me-dion
 lyrics_url: https://genius.com/Dion-come-go-with-me-lyrics
 name: Come Go With Me
@@ -31,6 +34,8 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '1963-07-20'
+release_year: 1962
+runtime: 172106
 ---
 Dom dom dom dom
 Domby dooby dom

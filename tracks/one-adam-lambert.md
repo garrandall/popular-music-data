@@ -1,8 +1,11 @@
 ---
+album: 'One World: Together At Home'
 artists:
 - Adam Lambert
+external_ids:
+  spotify: spotify:track:3KDWbHnYLv9W0sORPHPWcT
 features: []
-genres: []
+first_released_as_single: false
 key: one-adam-lambert
 lyrics_url: https://genius.com/Adam-lambert-one-american-idol-performance-lyrics
 name: One
@@ -11,6 +14,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '2009-06-06'
+release_year: 2009
+runtime: 177577
 ---
 Is it getting better
 Or do you feel the same?

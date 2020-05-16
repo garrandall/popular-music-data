@@ -1,8 +1,11 @@
 ---
+album: Jesse Powell
 artists:
 - Jesse Powell
+external_ids:
+  spotify: spotify:track:0hcW7qPqWWJc8189OaqQvX
 features: []
-genres: []
+first_released_as_single: false
 key: you-jesse-powell
 lyrics_url: https://genius.com/Jesse-powell-you-lyrics
 name: You
@@ -87,6 +90,8 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1999-07-03'
+release_year: 1996
+runtime: 318466
 ---
 You
 

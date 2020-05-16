@@ -1,8 +1,11 @@
 ---
+album: French Kiss
 artists:
 - Bob Welch
+external_ids:
+  spotify: spotify:track:478thMMvYGris8eJPcDRoq
 features: []
-genres: []
+first_released_as_single: false
 key: sentimental-lady-bob-welch
 lyrics_url: https://genius.com/Bob-welch-sentimental-lady-lyrics
 name: Sentimental Lady
@@ -79,6 +82,8 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1978-02-11'
+release_year: 1977
+runtime: 178693
 ---
 You are here and warm
 But I could look away and you'd be gone

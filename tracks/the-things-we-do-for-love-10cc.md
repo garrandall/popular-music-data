@@ -1,8 +1,11 @@
 ---
+album: Deceptive Bends
 artists:
 - 10cc
+external_ids:
+  spotify: spotify:track:6KEWtSOGKpIXGw6l1uJgsR
 features: []
-genres: []
+first_released_as_single: false
 key: the-things-we-do-for-love-10cc
 lyrics_url: https://www.musixmatch.com/lyrics/10cc/The-Things-We-Do-For-Love-1
 name: The Things We Do For Love
@@ -83,6 +86,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1977-05-14'
+release_year: 1977
+runtime: 207573
 ---
 Too many broken hearts have fallen in the river
 Too many lonely souls have drifted out to sea

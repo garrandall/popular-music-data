@@ -1,8 +1,11 @@
 ---
+album: Hooked On Swing Collection
 artists:
 - Larry Elgart
+external_ids:
+  spotify: spotify:track:4ZRVwUSquB0HzS6YztEgTD
 features: []
-genres: []
+first_released_as_single: false
 key: hooked-on-swing-larry-elgart-and-his-manhattan-swing-orchestra
 name: Hooked On Swing
 rankings:
@@ -54,5 +57,7 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1982-08-21'
+release_year: 1982
+runtime: 395666
 ---
 

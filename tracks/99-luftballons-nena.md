@@ -1,8 +1,11 @@
 ---
+album: Nena
 artists:
 - Nena
+external_ids:
+  spotify: spotify:track:4ZhPLoMzZwewHLLjV1J15c
 features: []
-genres: []
+first_released_as_single: false
 key: 99-luftballons-nena
 lyrics_url: https://www.azlyrics.com/lyrics/nena/99luftballonsnewversion.html
 name: 99 Luftballons
@@ -99,8 +102,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1984-05-12'
+release_year: 1983
+runtime: 232466
 ---
-
 Hast du etwas Zeit fÃ¼r mich
 Dann singe ich ein Lied fÃ¼r dich
 Von 99 Luftballons
@@ -146,6 +150,3 @@ Denk an euch und lass ihn fliegen
 Yeah yeah... oh yeah...
 
 Na nanananana
-
-
-

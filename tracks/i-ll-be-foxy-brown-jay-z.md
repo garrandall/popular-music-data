@@ -1,9 +1,12 @@
 ---
+album: Ill Na Na
 artists:
 - Foxy Brown
+external_ids:
+  spotify: spotify:track:6Ag4SYLUGFdnJrCwUIb4mT
 features:
 - Jay-Z
-genres: []
+first_released_as_single: false
 key: i-ll-be-foxy-brown-jay-z
 lyrics_url: https://www.azlyrics.com/lyrics/foxybrown/illbe.html
 name: I'll Be
@@ -88,9 +91,9 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1997-06-28'
+release_year: 1996
+runtime: 178600
 ---
-
-
 That's right, papa, that's right
 How we do, yeah, Ill Na Na
 Uh huh, uh, come on...
@@ -160,4 +163,3 @@ I'm sayin, what's the sense in delayin
 I'm tryin to run G from the P to the A.M.
 I saw your little thing now I'm swayin, OK'in
 (ah, shit... uh, uh)
-

@@ -1,9 +1,12 @@
 ---
+album: The Definitive Collection
 artists:
 - Dawn
+external_ids:
+  spotify: spotify:track:14KiXUcR7IDpvAhkTmqCuK
 features:
 - Tony Orlando
-genres: []
+first_released_as_single: false
 key: vaya-con-dios-dawn-tony-orlando
 lyrics_url: https://www.azlyrics.com/lyrics/tonyorlandodawn/vayacondios.html
 name: Vaya Con Dios
@@ -20,8 +23,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1972-07-08'
+release_year: 1972
+runtime: 187973
 ---
-
 Now the hacienda's dark, the town is sleeping
 Now the time has come to part, the time for weeping
 (Vaya con dios, my darlin', vaya con dios, my love)
@@ -40,6 +44,3 @@ Oh-Oh, (Vaya con dios, my darlin', my darlin', my darlin', may God be with you, 
 May God go with you my love, vaya con dios
 May God go with you my love, vaya con dios
 I'll say a prayer, I'll a prayer to guide you my love
-
-
-

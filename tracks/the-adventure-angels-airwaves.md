@@ -1,9 +1,12 @@
 ---
+album: We Don't Need To Whisper
 artists:
 - Angels
 - Airwaves
+external_ids:
+  spotify: spotify:track:2uuTo18bRgXj3RvlbZKMvU
 features: []
-genres: []
+first_released_as_single: false
 key: the-adventure-angels-airwaves
 lyrics_url: https://www.azlyrics.com/lyrics/angelsairwaves/theadventure.html
 name: The Adventure
@@ -64,8 +67,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2006-07-29'
+release_year: 2006
+runtime: 312533
 ---
-
 I wanna have the same last dream again,
 The one where I wake up and I'm alive.
 Just as the four walls close me within,
@@ -120,6 +124,3 @@ And here we go, life's waiting to begin (do this with me).
 Hello, here I am (do this with me).
 And here we go, life's waiting to begin,
 Life's waiting to begin.
-
-
-

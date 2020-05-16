@@ -1,8 +1,11 @@
 ---
+album: The Amazing James Brown
 artists:
 - James Brown
+external_ids:
+  spotify: spotify:track:3x4fGKJ2z4uSxMtzsWtRcN
 features: []
-genres: []
+first_released_as_single: false
 key: the-bells-james-brown
 lyrics_url: https://www.azlyrics.com/lyrics/jamesbrown/thebells.html
 name: The Bells
@@ -31,8 +34,9 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '1960-12-19'
+release_year: 1960
+runtime: 174506
 ---
-
 There are four black horses 
 With eyes of flaming red 
 Their rovers are tied with ribbing 
@@ -57,6 +61,3 @@ Just to see your face again
 Ashes into ashes 
 Dust to dust 
 Ashes into ashes
-
-
-

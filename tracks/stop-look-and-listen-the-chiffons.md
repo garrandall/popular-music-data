@@ -1,8 +1,11 @@
 ---
+album: 'The Best Of Laurie Records Vol. 3: Girls & Girls Groups'
 artists:
 - The Chiffons
+external_ids:
+  spotify: spotify:track:20tygCAGMBdhvmruUoQJWH
 features: []
-genres: []
+first_released_as_single: false
 key: stop-look-and-listen-the-chiffons
 lyrics_url: https://www.azlyrics.com/lyrics/chiffons/stoplookandlisten.html
 name: Stop Look And Listen
@@ -15,8 +18,9 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1966-10-08'
+release_year: 1966
+runtime: 166546
 ---
-
 Stop, look and listen
 Stop, look and listen
 Stop, look and listen
@@ -92,6 +96,3 @@ You'll never find
 As good as mine
 (Love)
 If desire's what you?
-
-
-

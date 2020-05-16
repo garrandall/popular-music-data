@@ -1,8 +1,11 @@
 ---
+album: SweetSexySavage
 artists:
 - Kehlani
+external_ids:
+  spotify: spotify:track:14aiFCtdiDrKeURdoSL5I4
 features: []
-genres: []
+first_released_as_single: true
 key: distraction-kehlani
 lyrics_url: https://www.azlyrics.com/lyrics/kehlani/distraction.html
 name: Distraction
@@ -11,8 +14,9 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '2016-12-17'
+release_year: 2016
+runtime: 235685
 ---
-
 Do you, do you, do you, do you wanna be...
 
 Do me a favor, pick me up, take me out later
@@ -75,6 +79,3 @@ But don't distract me, let me ask you, baby
 Do you, do you, do you, do you wanna be
 A distraction, baby?
 Do you, do you, do you, do you wanna be
-
-
-

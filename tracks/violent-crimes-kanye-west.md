@@ -1,8 +1,11 @@
 ---
+album: ye
 artists:
 - Kanye West
+external_ids:
+  spotify: spotify:track:3s7MCdXyWmwjdcWh7GWXas
 features: []
-genres: []
+first_released_as_single: false
 key: violent-crimes-kanye-west
 lyrics_url: https://genius.com/Kanye-west-violent-crimes-lyrics
 name: Violent Crimes
@@ -15,6 +18,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '2018-06-23'
+release_year: 2018
+runtime: 215320
 ---
 Fallin', dreamin', talkin' in your sleep
 I know you want to cry all night, all night

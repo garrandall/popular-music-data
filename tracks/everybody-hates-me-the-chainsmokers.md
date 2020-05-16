@@ -1,8 +1,11 @@
 ---
+album: Sick Boy
 artists:
 - The Chainsmokers
+external_ids:
+  spotify: spotify:track:6dVCu2GnnseLcNyT9sPhZU
 features: []
-genres: []
+first_released_as_single: true
 key: everybody-hates-me-the-chainsmokers
 lyrics_url: https://www.azlyrics.com/lyrics/chainsmokers/everybodyhatesme.html
 name: Everybody Hates Me
@@ -11,8 +14,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2018-03-31'
+release_year: 2018
+runtime: 235760
 ---
-
 Yeah, let's do it again but, uh, this time, uh, let's go full psycho
 
 Yeah, I just want to drink tequila with my friends
@@ -61,6 +65,3 @@ Everybody (everybody)
 I walk into the club like, everybody hates me
 
 Everybody, yeah, everybody
-
-
-

@@ -1,9 +1,12 @@
 ---
+album: Double Dynamite
 artists:
 - Sam
 - Dave
+external_ids:
+  spotify: spotify:track:3e6voG7nvSdgJcIW9MwqOT
 features: []
-genres: []
+first_released_as_single: false
 key: soothe-me-sam-dave
 lyrics_url: https://www.azlyrics.com/lyrics/samdave/sootheme.html
 name: Soothe Me
@@ -36,8 +39,9 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '1967-07-29'
+release_year: 1966
+runtime: 156680
 ---
-
 Soothe me, soothe me, soothe me, soothe me, soothe me
 Everybody come on and clap your hands will you
 Just a minute, I like it like that
@@ -81,6 +85,3 @@ Everybody come on now
 Soothe me, soothe me, soothe me, soothe me, baby
 You got to soothe me, you got to pull, yeah
 You gotta soothe me, soothe me
-
-
-

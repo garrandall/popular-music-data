@@ -1,8 +1,11 @@
 ---
+album: Too Hot to Sleep
 artists:
 - Survivor
+external_ids:
+  spotify: spotify:track:5XfIOUX34DGMJlZzPv9zHB
 features: []
-genres: []
+first_released_as_single: false
 key: across-the-miles-survivor
 lyrics_url: https://www.azlyrics.com/lyrics/survivor/acrossthemiles.html
 name: Across The Miles
@@ -31,8 +34,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1989-02-25'
+release_year: 1988
+runtime: 351533
 ---
-
 When I'm all alone on a distant path
 And my ticket home has been torn in half
 Oh, I can hear your voice, girl I can feel your touch
@@ -54,6 +58,3 @@ Just close your eyes and hold on tight
 And here I am, concentrating girl with all my might
 Now the sound of your laughter trails off
 Across the miles
-
-
-

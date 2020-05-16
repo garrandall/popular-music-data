@@ -1,8 +1,11 @@
 ---
+album: 'The Classic Years: 1956-1962'
 artists:
 - Bobby Helms
+external_ids:
+  spotify: spotify:track:32nnT2rB4yu7hm6BznJbfK
 features: []
-genres: []
+first_released_as_single: false
 key: borrowed-dreams-bobby-helms
 lyrics_url: https://www.musixmatch.com/lyrics/Bobby-Helms/Borrowed-Dreams
 name: Borrowed Dreams
@@ -15,6 +18,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1958-08-25'
+release_year: 1958
+runtime: 167293
 ---
 You said you loved me
 It all seemed so true

@@ -1,8 +1,11 @@
 ---
+album: 'The Best Of Major Lance: Everybody Loves A Good Time!'
 artists:
 - Major Lance
+external_ids:
+  spotify: spotify:track:7680T5XoVcIAgX0uCaqr1H
 features: []
-genres: []
+first_released_as_single: false
 key: um-um-um-um-um-um-major-lance
 lyrics_url: https://genius.com/Major-lance-um-um-um-um-um-um-lyrics
 name: Um Um Um Um Um Um
@@ -51,6 +54,8 @@ rankings:
   rank: 31
   ranking_list: Billboard Hot 100
   start_date: '1964-03-14'
+release_year: 1964
+runtime: 139173
 ---
 Walking through the park, it wasn't quite dark
 There was a man sitting on a bench

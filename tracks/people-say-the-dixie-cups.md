@@ -1,8 +1,11 @@
 ---
+album: Chapel of Love
 artists:
 - The Dixie Cups
+external_ids:
+  spotify: spotify:track:27M1TykdEo1TQc00E6gi0f
 features: []
-genres: []
+first_released_as_single: false
 key: people-say-the-dixie-cups
 lyrics_url: https://genius.com/The-dixie-cups-people-say-lyrics
 name: People Say
@@ -43,6 +46,8 @@ rankings:
   rank: 32
   ranking_list: Billboard Hot 100
   start_date: '1964-09-12'
+release_year: 1964
+runtime: 156965
 ---
 Don't you ever leave me sad and blue
 Don't you ever tell me we are though

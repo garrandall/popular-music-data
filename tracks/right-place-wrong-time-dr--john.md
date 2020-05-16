@@ -1,8 +1,11 @@
 ---
+album: In The Right Place
 artists:
 - Dr. John
+external_ids:
+  spotify: spotify:track:0I2ELF6uHlL4ABu9aFiou7
 features: []
-genres: []
+first_released_as_single: false
 key: right-place-wrong-time-dr--john
 lyrics_url: https://www.azlyrics.com/lyrics/drjohn/rightplacewrongtime.html
 name: Right Place Wrong Time
@@ -87,8 +90,9 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1973-08-25'
+release_year: 1973
+runtime: 175240
 ---
-
 I been in the right place
 But it must have been the wrong time
 I'd of said the right thing
@@ -134,6 +138,3 @@ I been on the right road
 But I must have used the wrong car
 My head was in a good place
 And I wonder what it's bad for
-
-
-

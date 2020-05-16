@@ -1,8 +1,11 @@
 ---
+album: Into The Skyline
 artists:
 - Cathy Dennis
+external_ids:
+  spotify: spotify:track:7zUXJzKqVdUKaMcgSB21nL
 features: []
-genres: []
+first_released_as_single: false
 key: you-lied-to-me-cathy-dennis
 lyrics_url: https://genius.com/Cathy-dennis-you-lied-to-me-lyrics
 name: You Lied To Me
@@ -59,6 +62,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1992-11-28'
+release_year: 1992
+runtime: 327040
 ---
 Lies
 

@@ -1,8 +1,11 @@
 ---
+album: Jennifer Hanson
 artists:
 - Jennifer Hanson
+external_ids:
+  spotify: spotify:track:5RUDbG8eDCHatEOo8Cu3t8
 features: []
-genres: []
+first_released_as_single: false
 key: beautiful-goodbye-jennifer-hanson
 lyrics_url: https://genius.com/Jennifer-hanson-beautiful-goodbye-lyrics
 name: Beautiful Goodbye
@@ -47,6 +50,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2003-03-22'
+release_year: 2003
+runtime: 258360
 ---
 It's like the most amazing sunset
 You've ever seen

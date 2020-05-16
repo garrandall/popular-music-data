@@ -1,8 +1,11 @@
 ---
+album: Tha Carter IV
 artists:
 - Lil Wayne
+external_ids:
+  spotify: spotify:track:00NUqFMIpCsrYPbM9YpVHQ
 features: []
-genres: []
+first_released_as_single: false
 key: megaman-lil-wayne
 lyrics_url: https://www.azlyrics.com/lyrics/lilwayne/megaman.html
 name: MegaMan
@@ -11,9 +14,9 @@ rankings:
   rank: 52
   ranking_list: Billboard Hot 100
   start_date: '2011-09-17'
+release_year: 2011
+runtime: 198280
 ---
-
-
 Faded off the kush I'm gone
 Only 2 years old when daddy used to bring them hookers home
 Looking like my grandmaw, my niggas got that ammo
@@ -63,4 +66,3 @@ And them pistols popping like they sitting in a skillet
 I go so hard, I go so mean, I'm so New Orleans
 Told the judge I couldn't budge, it was him or me
 Forget the bullshit and remember me
-

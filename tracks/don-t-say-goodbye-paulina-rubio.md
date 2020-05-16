@@ -1,8 +1,11 @@
 ---
+album: Border Girl
 artists:
 - Paulina Rubio
+external_ids:
+  spotify: spotify:track:1yTLDUvJW37nMNucGZfBoA
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-say-goodbye-paulina-rubio
 lyrics_url: https://genius.com/Paulina-rubio-dont-say-goodbye-lyrics
 name: Don't Say Goodbye
@@ -71,6 +74,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2002-08-17'
+release_year: 2002
+runtime: 289360
 ---
 The circle of the moon
 The rising of the sun

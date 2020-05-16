@@ -1,8 +1,11 @@
 ---
+album: Check Your Head
 artists:
 - Beastie Boys
+external_ids:
+  spotify: spotify:track:0gmGBCJ5XhOmoNR37MmxEE
 features: []
-genres: []
+first_released_as_single: false
 key: so-what-cha-want-beastie-boys
 lyrics_url: https://genius.com/Beastie-boys-so-whatcha-want-lyrics
 name: So What'cha Want
@@ -27,6 +30,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1992-08-01'
+release_year: 1992
+runtime: 216940
 ---
 To Mario C—you can't front on that
 

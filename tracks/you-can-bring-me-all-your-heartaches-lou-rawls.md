@@ -1,8 +1,11 @@
 ---
+album: Anthology-Lou Rawls
 artists:
 - Lou Rawls
+external_ids:
+  spotify: spotify:track:3JBFfG915JxanyJSEDP51k
 features: []
-genres: []
+first_released_as_single: false
 key: you-can-bring-me-all-your-heartaches-lou-rawls
 lyrics_url: https://www.musixmatch.com/lyrics/Lou-Rawls/You-Can-Bring-Me-All-Your-Heartaches
 name: You Can Bring Me All Your Heartaches
@@ -39,6 +42,8 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '1967-01-14'
+release_year: 1966
+runtime: 154666
 ---
 When the world becomes too much for you
 When the road ahead is hard to see

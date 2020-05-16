@@ -1,8 +1,11 @@
 ---
+album: Stunt
 artists:
 - Barenaked Ladies
+external_ids:
+  spotify: spotify:track:29hBRadFZf9QTGRHZmxm65
 features: []
-genres: []
+first_released_as_single: false
 key: one-week-barenaked-ladies
 lyrics_url: https://www.azlyrics.com/lyrics/barenakedladies/oneweek.html
 name: One Week
@@ -87,8 +90,9 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1999-02-13'
+release_year: 1998
+runtime: 169760
 ---
-
 It's been one week since you looked at me
 Cocked your head to the side and said, "I'm angry"
 Five days since you laughed at me saying
@@ -177,6 +181,3 @@ Cause it'll still be two days 'til we say we're sorry
 It'll still be two days 'til we say we're sorry
 It'll still be two days 'til we say "Wasabi"
 Birchmount Stadium, home of the Robbie
-
-
-

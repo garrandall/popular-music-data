@@ -1,8 +1,11 @@
 ---
+album: Tabloid Truth
 artists:
 - J. Dash
+external_ids:
+  spotify: spotify:track:3zbnvxvqV5lL4Vq0FznWsX
 features: []
-genres: []
+first_released_as_single: true
 key: wop-j--dash
 lyrics_url: https://www.azlyrics.com/lyrics/jdash/wop.html
 name: Wop
@@ -67,8 +70,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2013-09-28'
+release_year: 2010
+runtime: 230626
 ---
-
 Uh-oh
 
 J.Dash...
@@ -176,6 +180,3 @@ AY
 This is another J.Dash Production
 
 Keep woppin'
-
-
-

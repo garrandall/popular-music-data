@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music, Volume 3 Showstoppers'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:0LpE5tfNe15QLvQL4YDi7T
 features: []
-genres: []
+first_released_as_single: false
 key: bad-romance-glee-cast
 lyrics_url: https://www.azlyrics.com/lyrics/gleecast/badromance.html
 name: Bad Romance
@@ -15,8 +18,9 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '2010-06-12'
+release_year: 2010
+runtime: 294226
 ---
-
 Caught in a bad romance
 Caught in a bad romance
 
@@ -135,6 +139,3 @@ Rah-rah-ah-ah-ah
 Roma, Roma-ma
 GaGa, oh la la
 Want your bad romance
-
-
-

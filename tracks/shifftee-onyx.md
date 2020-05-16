@@ -1,8 +1,11 @@
 ---
+album: Shifftee
 artists:
 - Onyx
+external_ids:
+  spotify: spotify:track:5UFVE5WExZrKwRCMtK1CRv
 features: []
-genres: []
+first_released_as_single: true
 key: shifftee-onyx
 lyrics_url: https://genius.com/Onyx-shifftee-lyrics
 name: Shifftee
@@ -19,6 +22,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1993-10-30'
+release_year: 1993
+runtime: 205026
 ---
 I-i-i-i-i got struck by lightning and the thunder
 Wilder than the shit from the tundra, no wonder

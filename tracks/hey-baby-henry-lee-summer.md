@@ -1,8 +1,11 @@
 ---
+album: Henry Lee Summer Live
 artists:
 - Henry Lee Summer
+external_ids:
+  spotify: spotify:track:5l1uGQ9RhGipgoWjbS5EvS
 features: []
-genres: []
+first_released_as_single: false
 key: hey-baby-henry-lee-summer
 lyrics_url: https://www.musixmatch.com/lyrics/Henry-Lee-Summer/Hey-Baby
 name: Hey Baby
@@ -79,6 +82,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1989-09-16'
+release_year: 1989
+runtime: 246120
 ---
 So how was I to know
 I didnt even have a clue

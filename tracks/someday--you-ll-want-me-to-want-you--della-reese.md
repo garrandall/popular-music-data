@@ -1,8 +1,11 @@
 ---
+album: On Stage (Live)
 artists:
 - Della Reese
+external_ids:
+  spotify: spotify:track:56BJQn5hKq9NcdstyJDf0m
 features: []
-genres: []
+first_released_as_single: false
 key: someday--you-ll-want-me-to-want-you--della-reese
 lyrics_url: https://genius.com/Della-reese-someday-youll-want-me-to-want-you-lyrics
 name: Someday (You'll Want Me to Want You)
@@ -35,6 +38,8 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1960-05-02'
+release_year: 1960
+runtime: 278600
 ---
 I know that someday you'll want me to want you
 When I'm in love with somebody else

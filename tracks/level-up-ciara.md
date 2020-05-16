@@ -1,8 +1,11 @@
 ---
+album: Beauty Marks
 artists:
 - Ciara
+external_ids:
+  spotify: spotify:track:5ubwXXOsH9bUhZsQ0Cybha
 features: []
-genres: []
+first_released_as_single: true
 key: level-up-ciara
 lyrics_url: https://genius.com/Ciara-level-up-lyrics
 name: Level Up
@@ -31,6 +34,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2018-09-08'
+release_year: 2018
+runtime: 204150
 ---
 Five, four, three, two, one, watch me (Leggo)
 Level up, level up, level up, level up, level up

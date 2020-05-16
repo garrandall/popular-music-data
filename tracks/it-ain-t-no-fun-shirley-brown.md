@@ -1,8 +1,11 @@
 ---
+album: Woman to Woman
 artists:
 - Shirley Brown
+external_ids:
+  spotify: spotify:track:1aMJpA14sqoLd3c3h0q01d
 features: []
-genres: []
+first_released_as_single: false
 key: it-ain-t-no-fun-shirley-brown
 lyrics_url: https://www.musixmatch.com/lyrics/Shirley-Brown/It-Ain-t-No-Fun
 name: It Ain't No Fun
@@ -15,6 +18,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1975-05-17'
+release_year: 1974
+runtime: 358693
 ---
 When it's getting late
 I guess you'll soon be coming home, yeah

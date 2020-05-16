@@ -1,9 +1,12 @@
 ---
+album: Departure - Recharged
 artists:
 - Jesse McCartney
+external_ids:
+  spotify: spotify:track:3jkdQNkDTxxXtjSO4l0o1H
 features:
 - Ludacris
-genres: []
+first_released_as_single: false
 key: how-do-you-sleep--jesse-mccartney-ludacris
 lyrics_url: https://genius.com/Jesse-mccartney-how-do-you-sleep-feat-ludacris-v2-lyrics
 name: How Do You Sleep?
@@ -88,6 +91,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2009-07-04'
+release_year: 2008
+runtime: 208333
 ---
 Oh oh, oh oh
 Oh oh, oh oh

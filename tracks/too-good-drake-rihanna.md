@@ -1,9 +1,12 @@
 ---
+album: Views
 artists:
 - Drake
+external_ids:
+  spotify: spotify:track:3BtuIIrQlkujKPuWF2B85z
 features:
 - Rihanna
-genres: []
+first_released_as_single: false
 key: too-good-drake-rihanna
 lyrics_url: https://www.azlyrics.com/lyrics/drake/toogood.html
 name: Too Good
@@ -124,9 +127,9 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2016-12-03'
+release_year: 2016
+runtime: 263373
 ---
-
-
 Oh yeah yeah yeah
 Oh yeah yeah yeah
 Yeah, look
@@ -218,6 +221,3 @@ Cock up yuh bumper, sit down 'pon it
 Gyal yo pum pum good and yuh fit
 Give you everything weh deh in my wallet
 And in my pocket
-
-
-

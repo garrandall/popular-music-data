@@ -1,8 +1,11 @@
 ---
+album: Uncle Charlie
 artists:
 - Charlie Wilson
+external_ids:
+  spotify: spotify:track:6rZsGpXDr0WsUSFitx3v8N
 features: []
-genres: []
+first_released_as_single: false
 key: there-goes-my-baby-charlie-wilson
 lyrics_url: https://genius.com/Charlie-wilson-there-goes-my-baby-lyrics
 name: There Goes My Baby
@@ -15,6 +18,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2009-05-23'
+release_year: 2008
+runtime: 207626
 ---
 I was rolling in my car when I pulled up at the mall
 Couldn't find a place to park, threw my keys to the valet

@@ -1,8 +1,11 @@
 ---
+album: 'Introspective: Further Listening 1988-1989'
 artists:
 - Pet Shop Boys
+external_ids:
+  spotify: spotify:track:58nnHo2vaWBX7LKU0kMxFv
 features: []
-genres: []
+first_released_as_single: false
 key: domino-dancing-pet-shop-boys
 lyrics_url: https://genius.com/Pet-shop-boys-domino-dancing-lyrics
 name: Domino Dancing
@@ -63,6 +66,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1989-01-07'
+release_year: 1988
+runtime: 460800
 ---
 (All day, all day)
 

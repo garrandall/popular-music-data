@@ -1,8 +1,11 @@
 ---
+album: Dizzy up the Girl
 artists:
 - Goo Goo Dolls
+external_ids:
+  spotify: spotify:track:2mtVxf50BYsKNtQoz8sfzm
 features: []
-genres: []
+first_released_as_single: false
 key: iris-goo-goo-dolls
 lyrics_url: https://www.azlyrics.com/lyrics/googoodolls/iris.html
 name: Iris
@@ -63,8 +66,9 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1999-03-06'
+release_year: 1998
+runtime: 289533
 ---
-
 And I'd give up forever to touch you
 'Cause I know that you feel me somehow
 You're the closest to heaven that I'll ever be
@@ -103,6 +107,3 @@ I just want you to know who I am
 I just want you to know who I am
 I just want you to know who I am
 I just want you to know who I am
-
-
-

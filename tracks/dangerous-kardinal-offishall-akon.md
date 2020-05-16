@@ -1,9 +1,12 @@
 ---
+album: Not 4 Sale
 artists:
 - Kardinal Offishall
+external_ids:
+  spotify: spotify:track:4NOZ35Dhucr6UlVyLOtktd
 features:
 - Akon
-genres: []
+first_released_as_single: false
 key: dangerous-kardinal-offishall-akon
 lyrics_url: https://www.azlyrics.com/lyrics/kardinaloffishall/dangerousremix114395.html
 name: Dangerous
@@ -116,9 +119,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2008-11-22'
+release_year: 2008
+runtime: 246053
 ---
-
-
 Never heard none like this before
 This remix is (Dangerous!) This remix is (Dangerous!)
 This remix is (Bad girl!) Never heard none like this
@@ -228,6 +231,3 @@ Just gotta remember she's dangerous, she's dangerous, she's dangerous
 Cause she's a bad, bad girl!
 She's dangerous, she's dangerous, she's dangerous
 Cause she's a bad, bad girl!
-
-
-

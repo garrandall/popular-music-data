@@ -1,8 +1,11 @@
 ---
+album: Doo Wop Battle
 artists:
 - The Eternals
+external_ids:
+  spotify: spotify:track:4joSwqp5RP3DybeJn5n4vi
 features: []
-genres: []
+first_released_as_single: false
 key: rockin--in-the-jungle-the-eternals
 lyrics_url: https://www.musixmatch.com/lyrics/The-Eternals-2/Rockin-in-the-Jungle
 name: Rockin' In The Jungle
@@ -19,6 +22,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1959-07-27'
+release_year: 1959
+runtime: 150413
 ---
 Dancing everywhere
 All over the world

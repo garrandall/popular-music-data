@@ -1,8 +1,11 @@
 ---
+album: "F\xF3rmula, Vol. 2"
 artists:
 - Romeo Santos
+external_ids:
+  spotify: spotify:track:5PycBIeabfvX3n9ILG7Vrv
 features: []
-genres: []
+first_released_as_single: false
 key: propuesta-indecente-romeo-santos
 lyrics_url: https://genius.com/Romeo-santos-propuesta-indecente-lyrics
 name: Propuesta Indecente
@@ -35,6 +38,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2013-11-30'
+release_year: 2013
+runtime: 235133
 ---
 Hola, me llaman Romeo
 Es un placer conocerla

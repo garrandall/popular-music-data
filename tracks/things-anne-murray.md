@@ -1,8 +1,11 @@
 ---
+album: Keeping In Touch
 artists:
 - Anne Murray
+external_ids:
+  spotify: spotify:track:3x98txCasQ6MhjsbFhFM6m
 features: []
-genres: []
+first_released_as_single: false
 key: things-anne-murray
 lyrics_url: https://genius.com/Anne-murray-things-lyrics
 name: Things
@@ -19,6 +22,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1976-11-13'
+release_year: 1976
+runtime: 168866
 ---
 Every night I sit here by my window
 Staring at the lonely avenue

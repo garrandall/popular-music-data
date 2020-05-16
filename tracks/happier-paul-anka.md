@@ -1,8 +1,11 @@
 ---
+album: Feelings
 artists:
 - Paul Anka
+external_ids:
+  spotify: spotify:track:7szHm9RrVvzZeJ5Tc4iHQ2
 features: []
-genres: []
+first_released_as_single: false
 key: happier-paul-anka
 lyrics_url: https://genius.com/Paul-anka-happier-lyrics
 name: Happier
@@ -35,6 +38,8 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1977-01-29'
+release_year: 1975
+runtime: 195533
 ---
 I felt the closing walls
 Trouble on the rise

@@ -1,8 +1,11 @@
 ---
+album: The Very Best Of Cream
 artists:
 - Cream
+external_ids:
+  spotify: spotify:track:6vJ7Eh9EnJ8i4RXUV1usRz
 features: []
-genres: []
+first_released_as_single: false
 key: anyone-for-tennis-cream
 lyrics_url: https://www.azlyrics.com/lyrics/cream/anyonefortennis.html
 name: Anyone For Tennis
@@ -27,8 +30,9 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1968-06-08'
+release_year: 1968
+runtime: 158253
 ---
-
 Twice upon a time in the valley of the tears
 The auctioneer is bidding for a box of fading years
 And the elephants are dancing on the graves of squealing mice.
@@ -48,6 +52,3 @@ The yellow Buddhist monk is burning brightly at the zoo
 You can bring a bowl of rice and then a glass of water too
 And fate is setting up the chessboard while death rolls out the dice.
 Anyone for tennis, wouldn't that be nice?
-
-
-

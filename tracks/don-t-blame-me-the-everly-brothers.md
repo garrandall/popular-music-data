@@ -1,8 +1,11 @@
 ---
+album: The Greatest Hits Album (The Best Of)
 artists:
 - The Everly Brothers
+external_ids:
+  spotify: spotify:track:6G00OmGBbTVdW52awssKnY
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-blame-me-the-everly-brothers
 lyrics_url: https://genius.com/The-everly-brothers-dont-blame-me-lyrics
 name: Don't Blame Me
@@ -39,6 +42,8 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '1961-11-13'
+release_year: 1957
+runtime: 207852
 ---
 Don't blame me, for falling in love with you
 I'm under your spell, but how can I help - it

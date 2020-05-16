@@ -1,8 +1,11 @@
 ---
+album: Chantilly Lace
 artists:
 - Big Bopper
+external_ids:
+  spotify: spotify:track:5ZbmyXPF6h1JCCQiFQaTie
 features: []
-genres: []
+first_released_as_single: false
 key: little-red-riding-hood-big-bopper
 lyrics_url: https://genius.com/The-big-bopper-little-red-riding-hood-lyrics
 name: Little Red Riding Hood
@@ -23,6 +26,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1958-12-29'
+release_year: 1958
+runtime: 132066
 ---
 Who's that I see walkin' in these woods?
 Why it's Little Red Ridin' Hood

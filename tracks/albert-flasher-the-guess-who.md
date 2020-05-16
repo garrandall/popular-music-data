@@ -1,8 +1,11 @@
 ---
+album: Live At The Paramount
 artists:
 - The Guess Who
+external_ids:
+  spotify: spotify:track:1d9qv7YDGIO8XZPYtrC8B3
 features: []
-genres: []
+first_released_as_single: false
 key: albert-flasher-the-guess-who
 lyrics_url: https://www.azlyrics.com/lyrics/guesswho/albertflasher.html
 name: Albert Flasher
@@ -59,8 +62,9 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '1971-07-10'
+release_year: 1971
+runtime: 147333
 ---
-
 I was a workshop owner in the gulch for the people
 And I offered myself to the world
 I was a workshop owner
@@ -92,6 +96,3 @@ And I offered myself to the world
 I was a workshop owner
 I was a workshop owner
 I was a workshop owner
-
-
-

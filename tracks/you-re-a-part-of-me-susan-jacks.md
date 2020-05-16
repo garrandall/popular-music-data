@@ -1,8 +1,11 @@
 ---
+album: Dream
 artists:
 - Susan Jacks
+external_ids:
+  spotify: spotify:track:5dW1wM8vAGnfCA3Tz9c8u8
 features: []
-genres: []
+first_released_as_single: false
 key: you-re-a-part-of-me-susan-jacks
 lyrics_url: https://genius.com/Susan-jacks-youre-a-part-of-me-lyrics
 name: You're A Part Of Me
@@ -27,6 +30,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1975-04-05'
+release_year: 1975
+runtime: 204600
 ---
 I'd like to live out all my dreams
 And if I could

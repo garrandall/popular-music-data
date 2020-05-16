@@ -1,8 +1,11 @@
 ---
+album: 'Greatest Hits: The Mercury Years'
 artists:
 - Brook Benton
+external_ids:
+  spotify: spotify:track:2Bj8nFSe3yy6myhOonbHCw
 features: []
-genres: []
+first_released_as_single: false
 key: hither-and-thither-and-yon-brook-benton
 lyrics_url: https://genius.com/Brook-benton-hither-and-thither-and-yon-lyrics
 name: Hither And Thither And Yon
@@ -31,6 +34,8 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '1960-05-23'
+release_year: 1960
+runtime: 156333
 ---
 (Hither, thither, and yon)
 Oh, hither and thither and yon

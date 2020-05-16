@@ -1,8 +1,11 @@
 ---
+album: Beach Party
 artists:
 - Chubby Checker
+external_ids:
+  spotify: spotify:track:4V9WukPJV3VmOuTXMdYzuc
 features: []
-genres: []
+first_released_as_single: false
 key: twist-it-up-chubby-checker
 lyrics_url: https://www.azlyrics.com/lyrics/chubbychecker/twistitup.html
 name: Twist It Up
@@ -39,8 +42,9 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1963-09-07'
+release_year: 1962
+runtime: 228013
 ---
-
 Oh Yeah everybody
 Oh oh oh oh
 Aye Aye Aye Aye
@@ -81,6 +85,3 @@ Hey miss let's twist
 Are you ready
 Hey miss, hey sis, let's twist
 Are you ready
-
-
-

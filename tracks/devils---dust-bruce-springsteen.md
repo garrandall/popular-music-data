@@ -1,8 +1,11 @@
 ---
+album: Devils & Dust
 artists:
 - Bruce Springsteen
+external_ids:
+  spotify: spotify:track:4YUSC63LMMUbaeLjcfT4Go
 features: []
-genres: []
+first_released_as_single: false
 key: devils---dust-bruce-springsteen
 lyrics_url: https://www.azlyrics.com/lyrics/brucespringsteen/devilsdust.html
 name: Devils & Dust
@@ -11,8 +14,9 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '2005-04-16'
+release_year: 2005
+runtime: 298626
 ---
-
 I got my finger on the trigger
 But I don't know who to trust
 When I look into your eyes
@@ -72,4 +76,3 @@ It'll take your God filled soul
 Fill it with devils and dust
 Yeah it'll take your God filled soul
 Fill it with devils and dust
-

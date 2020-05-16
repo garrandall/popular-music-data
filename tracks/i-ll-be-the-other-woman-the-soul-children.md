@@ -1,8 +1,11 @@
 ---
+album: Chronicle
 artists:
 - The Soul Children
+external_ids:
+  spotify: spotify:track:7y1esZGKT43GYtf0mY3Qoy
 features: []
-genres: []
+first_released_as_single: false
 key: i-ll-be-the-other-woman-the-soul-children
 lyrics_url: https://genius.com/The-soul-children-ill-be-the-other-woman-lyrics
 name: I'll Be The Other Woman
@@ -43,6 +46,8 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '1974-04-13'
+release_year: 1974
+runtime: 212733
 ---
 I'll be the other woman
 All your life

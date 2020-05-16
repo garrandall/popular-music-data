@@ -1,8 +1,11 @@
 ---
+album: Look to Your Heart
 artists:
 - Perry Como
+external_ids:
+  spotify: spotify:track:36CHqAbb9X5R6b7qkS999h
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-impossible-perry-como
 lyrics_url: https://www.azlyrics.com/lyrics/perrycomo/itsimpossible.html
 name: It's Impossible
@@ -75,8 +78,9 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '1971-03-06'
+release_year: 1968
+runtime: 194600
 ---
-
 It's impossible, tell the sun to leave the sky
 It's just impossible
 It's impossible, ask a baby not to cry
@@ -110,6 +114,3 @@ For to live without your love
 It's just impossible
 Impossible, mmm
 Impossible
-
-
-

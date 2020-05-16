@@ -1,8 +1,11 @@
 ---
+album: Emotional
 artists:
 - Carl Thomas
+external_ids:
+  spotify: spotify:track:0NBHHa8wwwmBnn3aAzX5wJ
 features: []
-genres: []
+first_released_as_single: false
 key: summer-rain-carl-thomas
 lyrics_url: https://www.azlyrics.com/lyrics/carlthomas/summerrain.html
 name: Summer Rain
@@ -51,8 +54,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2000-12-02'
+release_year: 2000
+runtime: 232560
 ---
-
 Storming outside, rain
 She keeps me home
 Quiet conversation makes me warm
@@ -116,6 +120,3 @@ And wakes me up again
 Sometimes I swear I hear her call my name
 To wash away the pain
 My summer rain
-
-
-

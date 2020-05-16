@@ -1,8 +1,11 @@
 ---
+album: Manilow
 artists:
 - Barry Manilow
+external_ids:
+  spotify: spotify:track:1853SLwVHeQEagfZzmjxUI
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-your-man-barry-manilow
 lyrics_url: https://genius.com/Barry-manilow-im-your-man-lyrics
 name: I'm Your Man
@@ -27,6 +30,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1986-08-09'
+release_year: 1985
+runtime: 295853
 ---
 I'm your man
 Yes, I am

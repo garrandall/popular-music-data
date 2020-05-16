@@ -1,9 +1,12 @@
 ---
+album: "E=MC\xB2"
 artists:
 - Mariah Carey
+external_ids:
+  spotify: spotify:track:4Q1tw1EPVYPIFOGZ62gTat
 features:
 - T-Pain
-genres: []
+first_released_as_single: false
 key: migrate-mariah-carey-t-pain
 lyrics_url: https://www.azlyrics.com/lyrics/mariahcarey/migrate.html
 name: Migrate
@@ -12,8 +15,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2008-05-03'
+release_year: 2008
+runtime: 257893
 ---
-
 Bounce, bounce, bounce, bounce
 Keep it movin... Bounce
 Keep it movin... Bounce
@@ -141,6 +145,3 @@ Keep it movin... Bounce
 Keep it movin... Bounce
 Keep it movin... Bounce
 Keep it movin... Bounce
-
-
-

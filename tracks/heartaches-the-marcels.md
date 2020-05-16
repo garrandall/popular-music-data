@@ -1,8 +1,11 @@
 ---
+album: Blue Moon
 artists:
 - The Marcels
+external_ids:
+  spotify: spotify:track:09J8OABH1geVnq8WWGJPD8
 features: []
-genres: []
+first_released_as_single: true
 key: heartaches-the-marcels
 lyrics_url: https://genius.com/The-marcels-heartaches-lyrics
 name: Heartaches
@@ -55,6 +58,8 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1961-12-25'
+release_year: 1960
+runtime: 140422
 ---
 Watch out!
 

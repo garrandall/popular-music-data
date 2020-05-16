@@ -1,9 +1,12 @@
 ---
+album: The Definitive Collection
 artists:
 - Tony Orlando
 - Dawn
+external_ids:
+  spotify: spotify:track:7bgtE0OW1SWdiBUCjCWKFR
 features: []
-genres: []
+first_released_as_single: false
 key: who-s-in-the-strawberry-patch-with-sally-tony-orlando-dawn
 lyrics_url: https://www.azlyrics.com/lyrics/tonyorlandodawn/whosinthestrawberrypatchwithsally.html
 name: Who's In The Strawberry Patch With Sally
@@ -56,8 +59,9 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '1974-01-26'
+release_year: 1973
+runtime: 145706
 ---
-
 One day happy, one day sad
 Feeling good, then feeling bad
 In anger words are spoken
@@ -91,6 +95,3 @@ Had I been true to her
 I'd be there now
 In the strawberry patch with Sally tonight, oh yeah
 In the strawberry patch with my Sally tonight
-
-
-

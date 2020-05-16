@@ -1,8 +1,11 @@
 ---
+album: From Under The Cork Tree
 artists:
 - Fall Out Boy
+external_ids:
+  spotify: spotify:track:2TfSHkHiFO4gRztVIkggkE
 features: []
-genres: []
+first_released_as_single: false
 key: sugar-we-re-goin--down-fall-out-boy
 lyrics_url: https://www.musixmatch.com/lyrics/Fall-Out-Boy/Sugar-We-re-Goin-Down-1
 name: Sugar We're Goin' Down
@@ -175,6 +178,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2006-04-15'
+release_year: 2005
+runtime: 229093
 ---
 Am I more than you bargained for yet?
 I've been dying to tell you anything you want to hear

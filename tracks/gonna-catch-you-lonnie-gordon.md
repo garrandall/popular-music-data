@@ -1,8 +1,11 @@
 ---
+album: Bad Mood
 artists:
 - Lonnie Gordon
+external_ids:
+  spotify: spotify:track:227rjyNRWbipxz1bMnZ4ZE
 features: []
-genres: []
+first_released_as_single: false
 key: gonna-catch-you-lonnie-gordon
 lyrics_url: https://genius.com/Lonnie-gordon-gonna-catch-you-lyrics
 name: Gonna Catch You
@@ -31,6 +34,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1991-10-05'
+release_year: 1991
+runtime: 231040
 ---
 You know I'm leavin' this time anyway
 So please don't stand in my way

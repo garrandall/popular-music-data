@@ -1,8 +1,11 @@
 ---
+album: Tha Last Meal
 artists:
 - Snoop Dogg
+external_ids:
+  spotify: spotify:track:5rLnRYky5ktJYGUMAmqeWx
 features: []
-genres: []
+first_released_as_single: false
 key: snoop-dogg-snoop-dogg
 lyrics_url: https://genius.com/Snoop-dogg-snoop-dogg-whats-my-name-part-2-lyrics
 name: Snoop Dogg
@@ -27,6 +30,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2001-03-03'
+release_year: 2000
+runtime: 243160
 ---
 S-N-double-O-P D-O-double-gi-zee
 D-O-double-gi-zee, D-O-double-gi-zee!

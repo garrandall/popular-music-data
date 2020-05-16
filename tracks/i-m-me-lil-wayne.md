@@ -1,8 +1,11 @@
 ---
+album: The Leak
 artists:
 - Lil Wayne
+external_ids:
+  spotify: spotify:track:63MtsInu01ReWF9M4rl7dq
 features: []
-genres: []
+first_released_as_single: true
 key: i-m-me-lil-wayne
 lyrics_url: https://genius.com/Lil-wayne-im-me-lyrics
 name: I'm Me
@@ -11,6 +14,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2008-02-16'
+release_year: 2007
+runtime: 295360
 ---
 The hottest under the sun (who dat?)
 Ain't nobody fuckin' with me, man

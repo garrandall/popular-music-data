@@ -1,8 +1,11 @@
 ---
+album: Bop Doo-Wopp
 artists:
 - The Manhattan Transfer
+external_ids:
+  spotify: spotify:track:7udV34p4epT8rmsRCdsXMW
 features: []
-genres: []
+first_released_as_single: false
 key: baby-come-back-to-me-the-manhattan-transfer
 lyrics_url: https://www.azlyrics.com/lyrics/manhattantransfer/babycomebacktomethemorsecodeoflove.html
 name: Baby Come Back To Me
@@ -19,8 +22,9 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1985-02-16'
+release_year: 1984
+runtime: 176093
 ---
-
 Dit dot ditty dit dot a ditty ditty
 Dit dot ditty dit dot a ditty ditty
 Dit dot ditty dit dot a ditty ditty
@@ -72,6 +76,3 @@ Come back baby come back to me
 Come back come back to me
 Come back come back to me
 Come back baby come back to me
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Hot In The Shade
 artists:
 - KISS
+external_ids:
+  spotify: spotify:track:47o525G86mLspoGnUCaMd9
 features: []
-genres: []
+first_released_as_single: false
 key: hide-your-heart-kiss
 lyrics_url: https://genius.com/Kiss-hide-your-heart-lyrics
 name: Hide Your Heart
@@ -47,6 +50,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1990-01-27'
+release_year: 1989
+runtime: 264133
 ---
 Johnny saw her riding on a street car named Desire
 His fate was sealed

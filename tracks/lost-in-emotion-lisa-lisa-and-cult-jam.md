@@ -1,8 +1,11 @@
 ---
+album: Spanish Fly
 artists:
 - Lisa Lisa And Cult Jam
+external_ids:
+  spotify: spotify:track:0p2lB3tOc2DJGTUltBxjkv
 features: []
-genres: []
+first_released_as_single: false
 key: lost-in-emotion-lisa-lisa-and-cult-jam
 lyrics_url: https://genius.com/Lisa-lisa-and-cult-jam-lost-in-emotion-lyrics
 name: Lost In Emotion
@@ -87,6 +90,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1987-12-12'
+release_year: 1985
+runtime: 306493
 ---
 Hit the beat now
 Lost in emotion

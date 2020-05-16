@@ -1,8 +1,11 @@
 ---
+album: Tender Lover
 artists:
 - Babyface
+external_ids:
+  spotify: spotify:track:00GfGwzlSB8DoA0cDP2Eit
 features: []
-genres: []
+first_released_as_single: false
 key: tender-lover-babyface
 lyrics_url: https://www.azlyrics.com/lyrics/babyface/tenderlover.html
 name: Tender Lover
@@ -75,8 +78,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1990-03-10'
+release_year: 1989
+runtime: 259266
 ---
-
 Feels good, everybody
 Tender lover, tender love
 
@@ -145,4 +149,3 @@ But love'll get you by
 If you only try
 Just don't give up on love
 'Cause it didn't work out this time
-

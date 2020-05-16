@@ -1,8 +1,11 @@
 ---
+album: Turning Around
 artists:
 - Dee Dee Warwick
+external_ids:
+  spotify: spotify:track:7D9CQqFMTZZVJf5dTCP4yL
 features: []
-genres: []
+first_released_as_single: false
 key: she-didn-t-know--she-kept-on-talking--dee-dee-warwick
 name: She Didn't Know (She Kept On Talking)
 rankings:
@@ -38,5 +41,7 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '1970-06-27'
+release_year: 1970
+runtime: 231933
 ---
 

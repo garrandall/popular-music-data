@@ -1,8 +1,11 @@
 ---
+album: Fearless
 artists:
 - Taylor Swift
+external_ids:
+  spotify: spotify:track:3GCL1PydwsLodcpv0Ll1ch
 features: []
-genres: []
+first_released_as_single: false
 key: you-belong-with-me-taylor-swift
 lyrics_url: https://genius.com/Taylor-swift-you-belong-with-me-lyrics
 name: You Belong With Me
@@ -207,6 +210,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2010-04-17'
+release_year: 2008
+runtime: 231133
 ---
 You're on the phone with your girlfriend, she's upset
 She's going off about something that you said

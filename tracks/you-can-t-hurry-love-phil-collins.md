@@ -1,8 +1,11 @@
 ---
+album: Hello, I Must Be Going!
 artists:
 - Phil Collins
+external_ids:
+  spotify: spotify:track:4YwbSZaYeYja8Umyt222Qf
 features: []
-genres: []
+first_released_as_single: false
 key: you-can-t-hurry-love-phil-collins
 lyrics_url: https://www.azlyrics.com/lyrics/philcollins/youcanthurrylove.html
 name: You Can't Hurry Love
@@ -91,8 +94,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1983-03-26'
+release_year: 1982
+runtime: 175746
 ---
-
 I need love, love
 oh, ease my mind
 And I need to find time
@@ -154,6 +158,3 @@ You can't hurry love
 No, you'll just have to wait
 She said love don't come easy
 It's a game of give and take...
-
-
-

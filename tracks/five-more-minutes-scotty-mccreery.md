@@ -1,8 +1,11 @@
 ---
+album: Seasons Change
 artists:
 - Scotty McCreery
+external_ids:
+  spotify: spotify:track:66IULVOTImQG2u0cJ3Ls04
 features: []
-genres: []
+first_released_as_single: true
 key: five-more-minutes-scotty-mccreery
 lyrics_url: https://www.azlyrics.com/lyrics/scottymccreery/fivemoreminutes.html
 name: Five More Minutes
@@ -87,8 +90,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2018-04-28'
+release_year: 2017
+runtime: 238954
 ---
-
 Eight years old a couple cane poles sitting down by the creek
 Our lines in the water watching those bobbers seeing that red sun sink
 Mama's on the porch yelling supper's hot, y'all come and get it
@@ -138,6 +142,3 @@ Yeah sometimes this old life will leave you wishing
 That you had five more minutes
 
 Five more minutes
-
-
-

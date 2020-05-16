@@ -1,8 +1,11 @@
 ---
+album: Pop Art
 artists:
 - Transvision Vamp
+external_ids:
+  spotify: spotify:track:1ah2bSMILKdJf16rBKKibI
 features: []
-genres: []
+first_released_as_single: false
 key: tell-that-girl-to-shut-up-transvision-vamp
 lyrics_url: https://www.musixmatch.com/lyrics/Transvision-Vamp/Tell-That-Girl-to-Shut-Up
 name: Tell That Girl To Shut Up
@@ -19,6 +22,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1988-10-15'
+release_year: 1988
+runtime: 185200
 ---
 Well you got that girl and she lives with you
 And she does just want you want her to

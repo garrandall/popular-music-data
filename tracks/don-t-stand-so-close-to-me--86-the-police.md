@@ -1,8 +1,11 @@
 ---
+album: Every Breath You Take The Classics
 artists:
 - The Police
+external_ids:
+  spotify: spotify:track:09Tz6qgwM7iNFjfk30aJhe
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-stand-so-close-to-me--86-the-police
 lyrics_url: https://genius.com/The-police-dont-stand-so-close-to-me-86-lyrics
 name: Don't Stand So Close To Me '86
@@ -43,6 +46,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1986-12-20'
+release_year: 1986
+runtime: 291400
 ---
 Young teacher, the subject
 Of schoolgirl fantasy

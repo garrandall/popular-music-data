@@ -1,8 +1,11 @@
 ---
+album: Circus
 artists:
 - Lenny Kravitz
+external_ids:
+  spotify: spotify:track:7bk6iZ5dsrMySXB0aVFYXO
 features: []
-genres: []
+first_released_as_single: false
 key: can-t-get-you-off-my-mind-lenny-kravitz
 lyrics_url: https://genius.com/Lenny-kravitz-cant-get-you-off-my-mind-lyrics
 name: Can't Get You Off My Mind
@@ -87,6 +90,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1996-08-03'
+release_year: 1995
+runtime: 274000
 ---
 Life is just a lonely highway
 I'm out here on the open road

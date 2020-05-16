@@ -1,8 +1,11 @@
 ---
+album: Common Bond
 artists:
 - The Ides Of March
+external_ids:
+  spotify: spotify:track:2X3qJdcMelUhNE6ahF0VtK
 features: []
-genres: []
+first_released_as_single: false
 key: superman-the-ides-of-march
 lyrics_url: https://www.musixmatch.com/lyrics/The-Ides-of-March/Superman
 name: Superman
@@ -27,6 +30,8 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '1970-08-01'
+release_year: 1970
+runtime: 182000
 ---
 Faster than a speeding bullet
 You're able to leap the tallest building in a single bound

@@ -1,8 +1,11 @@
 ---
+album: Coal Miner's Daughter
 artists:
 - Loretta Lynn
+external_ids:
+  spotify: spotify:track:3mM14WXoPaLRjjkmxHe99L
 features: []
-genres: []
+first_released_as_single: false
 key: coal-miner-s-daughter-loretta-lynn
 lyrics_url: https://www.azlyrics.com/lyrics/lorettalynn/coalminersdaughter.html
 name: Coal Miner's Daughter
@@ -23,8 +26,9 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1970-12-26'
+release_year: 1970
+runtime: 180960
 ---
-
 Well, I was born a coal miner's daughter
 In a cabin, on a hill in Butcher Holler
 We were poor but we had love,
@@ -59,6 +63,3 @@ Well a lot of things have changed since a way back then
 And it's so good to be back home again
 Not much left but the floor, nothing lives here anymore
 Except the memory of a coal miner's daughter
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Turn Your Radio On
 artists:
 - Ray Stevens
+external_ids:
+  spotify: spotify:track:6g670LXFec9SAzQ4BuXGaA
 features: []
-genres: []
+first_released_as_single: false
 key: a-mama-and-a-papa-ray-stevens
 lyrics_url: https://www.azlyrics.com/lyrics/raystevens/amamaandapapa.html
 name: A Mama And A Papa
@@ -19,8 +22,9 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1971-05-15'
+release_year: 1971
+runtime: 171640
 ---
-
 Where would I be, what would I be
 If I hadn't had the good book taught to me
 I don't know, but I can guess
@@ -56,6 +60,3 @@ Teach us how to work, teach us how to pray
 Not to treat our brother just any way
 Teach us how to work, teach us how to pray
 Not to treat our brother just any way
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: ASTROWORLD
 artists:
 - Travis Scott
+external_ids:
+  spotify: spotify:track:27a1mYSG5tYg7dmEjWBcmL
 features: []
-genres: []
+first_released_as_single: false
 key: can-t-say-travis-scott
 lyrics_url: https://genius.com/Travis-scott-cant-say-lyrics
 name: Can't Say
@@ -15,6 +18,8 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '2018-08-25'
+release_year: 2018
+runtime: 198408
 ---
 No, you can't say if I'm mad or not
 Smokin' hella weed, I'm on that alcohol

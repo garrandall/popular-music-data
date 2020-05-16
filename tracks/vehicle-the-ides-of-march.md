@@ -1,8 +1,11 @@
 ---
+album: Vehicle
 artists:
 - The Ides Of March
+external_ids:
+  spotify: spotify:track:6hnyQ0YpiO35rutiLLHLmr
 features: []
-genres: []
+first_released_as_single: false
 key: vehicle-the-ides-of-march
 lyrics_url: https://genius.com/The-ides-of-march-vehicle-lyrics
 name: Vehicle
@@ -55,10 +58,9 @@ rankings:
   rank: 24
   ranking_list: Billboard Hot 100
   start_date: '1970-06-13'
+release_year: 1970
+runtime: 178066
 ---
-
-
-
 Hey, well, I'm the friendly stranger in the black sedan
 Woncha hop inside my car
 I got pictures, I got candy, I'm a lovable man

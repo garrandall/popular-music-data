@@ -1,8 +1,11 @@
 ---
+album: Manic
 artists:
 - Halsey
+external_ids:
+  spotify: spotify:track:5p7ujcrUXASCNwRaWNHR1C
 features: []
-genres: []
+first_released_as_single: true
 key: without-me-halsey
 lyrics_url: https://www.azlyrics.com/lyrics/halsey/withoutme.html
 name: Without Me
@@ -215,8 +218,9 @@ rankings:
   rank: 33
   ranking_list: Billboard Hot 100
   start_date: '2019-10-12'
+release_year: 2018
+runtime: 201660
 ---
-
 Found you when your heart was broke
 I filled your cup until it overflowed
 Took it so far to keep you close (keep you close)
@@ -278,6 +282,3 @@ Thinking you could live without me
 Thinking you could live without me
 Baby, I'm the one who put you up there
 I don't know why (yeah, I don't know why)
-
-
-

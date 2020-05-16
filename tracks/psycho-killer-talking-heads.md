@@ -1,8 +1,11 @@
 ---
+album: Talking Heads '77 (Deluxe Version)
 artists:
 - Talking Heads
+external_ids:
+  spotify: spotify:track:1i6N76fftMZhijOzFQ5ZtL
 features: []
-genres: []
+first_released_as_single: false
 key: psycho-killer-talking-heads
 lyrics_url: https://www.azlyrics.com/lyrics/talkingheads/psychokiller.html
 name: Psycho Killer
@@ -27,8 +30,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1978-03-18'
+release_year: 1977
+runtime: 261413
 ---
-
 I can't seem to face up to the facts
 I'm tense and nervous and I
 Can't relax
@@ -60,7 +64,7 @@ Run run run run run run run away
 
 Ce que j'ai fait, ce soir-lÃ 
 Ce qu'elle a dit, ce soir-lÃ 
-RÃ©alisant mon espoir
+Réalisant mon espoir
 Je me lance, vers la gloire ... OK
 We are vain and we are blind
 I hate people when they're not polite
@@ -74,6 +78,3 @@ Qu'est-ce que c'est ?
 fa fa fa fa fa fa fa fa fa far better
 Run run run run run run run away
 oh oh oh oh oh oh oh oh...
-
-
-

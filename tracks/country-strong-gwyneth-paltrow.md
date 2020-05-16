@@ -1,8 +1,11 @@
 ---
+album: Country Strong (Original Motion Picture Soundtrack)
 artists:
 - Gwyneth Paltrow
+external_ids:
+  spotify: spotify:track:5TNdPSPGGanyHK2MBQpU1G
 features: []
-genres: []
+first_released_as_single: false
 key: country-strong-gwyneth-paltrow
 lyrics_url: https://genius.com/Gwyneth-paltrow-country-strong-lyrics
 name: Country Strong
@@ -15,6 +18,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '2011-01-29'
+release_year: 2010
+runtime: 255200
 ---
 I know you see me
 Like some wide eyed dreamer

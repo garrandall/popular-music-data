@@ -1,8 +1,11 @@
 ---
+album: Union
 artists:
 - 'Yes'
+external_ids:
+  spotify: spotify:track:0KpvMmpUFIMVpY14ypSdBB
 features: []
-genres: []
+first_released_as_single: false
 key: lift-me-up-yes
 lyrics_url: https://genius.com/Yes-featuring-jon-anderson-trevor-rabin-rick-wakeman-lift-me-up-lyrics
 name: Lift Me Up
@@ -27,6 +30,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1991-06-29'
+release_year: 1991
+runtime: 390306
 ---
 Look around, got no place to stay
 God I hate this town, depending on the day

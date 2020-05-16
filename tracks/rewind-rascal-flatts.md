@@ -1,8 +1,11 @@
 ---
+album: Rewind
 artists:
 - Rascal Flatts
+external_ids:
+  spotify: spotify:track:6eZP01jERQt27Ggq7kpEf9
 features: []
-genres: []
+first_released_as_single: false
 key: rewind-rascal-flatts
 lyrics_url: https://www.azlyrics.com/lyrics/rascalflatts/rewind.html
 name: Rewind
@@ -87,8 +90,9 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '2014-06-14'
+release_year: 2014
+runtime: 203506
 ---
-
 Wish I could reach up and reset that sun
 Reverse these wheels go back and re-pick you up
 Went by so fast, oh, so sweet
@@ -137,6 +141,3 @@ I'm wishing I could rewind
 (put a cork back into that sweet red wine)
 I wanna re-live this night
 So good, so right
-
-
-

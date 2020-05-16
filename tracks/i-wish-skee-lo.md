@@ -1,8 +1,11 @@
 ---
+album: I Wish
 artists:
 - Skee-Lo
+external_ids:
+  spotify: spotify:track:3l99EJbtxEGlcLWL24Fcvr
 features: []
-genres: []
+first_released_as_single: true
 key: i-wish-skee-lo
 lyrics_url: https://genius.com/Skee-lo-i-wish-lyrics
 name: I Wish
@@ -115,6 +118,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1995-10-28'
+release_year: 1995
+runtime: 296800
 ---
 Hey, this is radio station WSKEE
 We're taking calls on the wish line

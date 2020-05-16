@@ -1,8 +1,11 @@
 ---
+album: Gold
 artists:
 - Smokey Robinson
+external_ids:
+  spotify: spotify:track:1uq8arfhHsANLrkJJcAjSO
 features: []
-genres: []
+first_released_as_single: false
 key: double-good-everything-smokey-robinson
 lyrics_url: https://www.azlyrics.com/lyrics/smokeyrobinson/doublegoodeverything.html
 name: Double Good Everything
@@ -19,8 +22,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1991-11-23'
+release_year: 1991
+runtime: 227546
 ---
-
 It's paradise, paradise
 It's ecstasy, ecstasy
 It's awful nice, awful nice
@@ -80,6 +84,3 @@ Being loved by you
 Ah, it's wonderful, wonderful
 (Being loved by you)
 Oh, ecstasy, ecstasy...
-
-
-

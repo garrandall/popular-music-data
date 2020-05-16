@@ -1,10 +1,13 @@
 ---
+album: World War Joy
 artists:
 - The Chainsmokers
 - Illenium
+external_ids:
+  spotify: spotify:track:3DVc4VCjFaBAZF9OFquQqV
 features:
 - Lennon Stella
-genres: []
+first_released_as_single: true
 key: takeaway-the-chainsmokers-illenium-lennon-stella
 lyrics_url: https://www.azlyrics.com/lyrics/chainsmokers/takeaway.html
 name: Takeaway
@@ -17,8 +20,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2019-08-31'
+release_year: 2019
+runtime: 214546
 ---
-
 Your heart for takeaway
 Yeah yeah yeah yeah yeah
 Your heart for takeaway
@@ -94,6 +98,3 @@ Before I love you na na na
 I'm gonna leave you na na na
 Even if I'm not here to stay
 I still want your heart
-
-
-

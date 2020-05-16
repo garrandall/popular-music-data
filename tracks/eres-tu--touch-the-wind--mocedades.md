@@ -1,8 +1,11 @@
 ---
+album: 20 Exitos
 artists:
 - Mocedades
+external_ids:
+  spotify: spotify:track:0sPfYvsKVNrWsc6DS2N09r
 features: []
-genres: []
+first_released_as_single: false
 key: eres-tu--touch-the-wind--mocedades
 lyrics_url: https://genius.com/Mocedades-eres-tu-lyrics
 name: Eres Tu (Touch The Wind)
@@ -75,6 +78,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1974-05-04'
+release_year: 1974
+runtime: 211853
 ---
 Como una promesa, eres tú, eres tú
 Como una mañana de verano

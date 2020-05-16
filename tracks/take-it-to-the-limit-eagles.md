@@ -1,8 +1,11 @@
 ---
+album: One of These Nights
 artists:
 - Eagles
+external_ids:
+  spotify: spotify:track:2cWHN0WK52RGAWHgaDamUA
 features: []
-genres: []
+first_released_as_single: false
 key: take-it-to-the-limit-eagles
 lyrics_url: https://www.azlyrics.com/lyrics/eagles/takeittothelimit.html
 name: Take It To The Limit
@@ -99,8 +102,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1976-05-22'
+release_year: 1975
+runtime: 287090
 ---
-
 All alone at the end of the evening
 When the bright lights have faded to blue
 I was thinking 'bout a woman who might have
@@ -175,6 +179,3 @@ Take it to the limit
 Take it to the limit
 Take it to the limit
 One more time
-
-
-

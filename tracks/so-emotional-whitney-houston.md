@@ -1,8 +1,11 @@
 ---
+album: Whitney
 artists:
 - Whitney Houston
+external_ids:
+  spotify: spotify:track:4l2Edgdj4vla02GCh7YyAv
 features: []
-genres: []
+first_released_as_single: false
 key: so-emotional-whitney-houston
 lyrics_url: https://genius.com/Whitney-houston-so-emotional-lyrics
 name: So Emotional
@@ -83,6 +86,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1988-03-05'
+release_year: 1987
+runtime: 276666
 ---
 I don't know why I like it
 I just do

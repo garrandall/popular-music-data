@@ -1,8 +1,11 @@
 ---
+album: Sounds Like The Flirtations
 artists:
 - The Flirtations
+external_ids:
+  spotify: spotify:track:1b63ryTONnLSP14Oytqp6p
 features: []
-genres: []
+first_released_as_single: false
 key: nothing-but-a-heartache-the-flirtations
 lyrics_url: https://genius.com/The-flirtations-nothing-but-a-heartache-lyrics
 name: Nothing But A Heartache
@@ -63,6 +66,8 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '1969-06-07'
+release_year: 1969
+runtime: 164240
 ---
 Nothing but a heartache every day
 (Nothing but a heartache)

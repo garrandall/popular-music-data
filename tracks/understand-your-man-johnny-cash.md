@@ -1,8 +1,11 @@
 ---
+album: I Walk the Line (Stereo Version)
 artists:
 - Johnny Cash
+external_ids:
+  spotify: spotify:track:1oM4t0qaBbG3IabKOgns4B
 features: []
-genres: []
+first_released_as_single: false
 key: understand-your-man-johnny-cash
 lyrics_url: https://genius.com/Johnny-cash-understand-your-man-lyrics
 name: Understand Your Man
@@ -39,6 +42,8 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '1964-04-04'
+release_year: 1964
+runtime: 162493
 ---
 Don’t call my name out your window, I’m leaving
 I won’t even turn my head

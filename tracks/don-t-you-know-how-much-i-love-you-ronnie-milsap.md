@@ -1,8 +1,11 @@
 ---
+album: Keyed Up
 artists:
 - Ronnie Milsap
+external_ids:
+  spotify: spotify:track:1nje7FA6seZs08D3Co9iL2
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-you-know-how-much-i-love-you-ronnie-milsap
 lyrics_url: https://genius.com/Ronnie-milsap-dont-you-know-how-much-i-love-you-lyrics
 name: Don't You Know How Much I Love You
@@ -35,6 +38,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1983-09-24'
+release_year: 1983
+runtime: 213933
 ---
 Why must you disappear
 Why must you go when I need you here with me

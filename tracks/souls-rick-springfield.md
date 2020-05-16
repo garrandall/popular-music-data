@@ -1,8 +1,11 @@
 ---
+album: Living In Oz
 artists:
 - Rick Springfield
+external_ids:
+  spotify: spotify:track:1baE1N2qCdnVfN3MzUZFQG
 features: []
-genres: []
+first_released_as_single: false
 key: souls-rick-springfield
 lyrics_url: https://genius.com/Rick-springfield-souls-lyrics
 name: Souls
@@ -67,6 +70,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1984-01-21'
+release_year: 1983
+runtime: 255066
 ---
 It all started here, she was a girl form the midwest
 He was a stranger in a strange land

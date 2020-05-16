@@ -1,9 +1,12 @@
 ---
+album: Doe Boy Fresh (Explicit)
 artists:
 - Three 6 Mafia
+external_ids:
+  spotify: spotify:track:4ioTeLwRRJeWsz8535nrjD
 features:
 - Chamillionaire
-genres: []
+first_released_as_single: true
 key: doe-boy-fresh-three-6-mafia-chamillionaire
 lyrics_url: https://www.azlyrics.com/lyrics/three6mafia/doeboyfresh.html
 name: Doe Boy Fresh
@@ -48,8 +51,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2007-05-26'
+release_year: 2007
+runtime: 258733
 ---
-
 Yeah, Hypnotize Minds, Three 6 Mafia
 Academy Award winners, what?
 Chamillionaire, we stronger then ever, for real
@@ -148,6 +152,3 @@ I stay fresh, fresh, fresh
 I stay fresh, fresh, fresh, fresh
 I stay fresh, fresh, fresh
 I stay fresh, fresh, fresh, fresh
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Press
 artists:
 - Cardi B
+external_ids:
+  spotify: spotify:track:61qVApvKjw3uZMofatndGo
 features: []
-genres: []
+first_released_as_single: true
 key: press-cardi-b
 lyrics_url: https://www.azlyrics.com/lyrics/cardi-b/press.html
 name: Press
@@ -71,8 +74,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2019-09-28'
+release_year: 2019
+runtime: 143791
 ---
-
 (Monsta's gon' tear it up) Bardi!
 Woo, yeah
 Bitches be pressed (Woo)
@@ -148,6 +152,3 @@ Press, press, press, press, press
 Press, press, press, press, press
 Pop up, guess who bitch?
 Pop up, guess who bitch? (Cardi)
-
-
-

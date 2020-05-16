@@ -1,9 +1,12 @@
 ---
+album: "Sergio Mendes & Brasil \u201966-86: Classics Volume 18"
 artists:
 - Sergio Mendes
 - Brasil '66
+external_ids:
+  spotify: spotify:track:6clrt5x5viq13LZwEnHcur
 features: []
-genres: []
+first_released_as_single: false
 key: mas-que-nada-sergio-mendes-brasil--66
 lyrics_url: https://genius.com/Sergio-mendes-and-brasil-66-mas-que-nada-lyrics
 name: Mas Que Nada
@@ -40,6 +43,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1966-11-12'
+release_year: 1966
+runtime: 161306
 ---
 Oooo, aria raio, obá, obá, obá
 O o-o-o-o arya ayo, obá, obá, obá

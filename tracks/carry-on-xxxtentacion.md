@@ -1,8 +1,11 @@
 ---
+album: '17'
 artists:
 - XXXTENTACION
+external_ids:
+  spotify: spotify:track:2yZax79pOrYuyIFVW2cZY2
 features: []
-genres: []
+first_released_as_single: false
 key: carry-on-xxxtentacion
 lyrics_url: https://www.azlyrics.com/lyrics/xxxtentacion/carryon.html
 name: Carry On
@@ -11,9 +14,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2017-09-16'
+release_year: 2017
+runtime: 129720
 ---
-
-
 How did you get here?
 I'm drunk and confused
 I tried to be patient with you
@@ -51,6 +54,3 @@ How did you get here?
 I'm drunk and confused
 I tried to be patient with you, yeah
 High up, you fucked up bad
-
-
-

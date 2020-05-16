@@ -1,8 +1,11 @@
 ---
+album: Pearl Jam
 artists:
 - Pearl Jam
+external_ids:
+  spotify: spotify:track:4mWYx9wadNBVrgcTRzHSkB
 features: []
-genres: []
+first_released_as_single: false
 key: world-wide-suicide-pearl-jam
 lyrics_url: https://www.azlyrics.com/lyrics/pearljam/worldwidesuicide.html
 name: World Wide Suicide
@@ -35,8 +38,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2006-05-27'
+release_year: 2006
+runtime: 207346
 ---
-
 I felt the earth on Monday. It moved beneath my feet. 
 In the form of a morning paper. Laid out for me to see. 
 
@@ -86,6 +90,3 @@ It's a worldwide suicide.
 
 The whole world,... World over. 
 It's a worldwide suicide.
-
-
-

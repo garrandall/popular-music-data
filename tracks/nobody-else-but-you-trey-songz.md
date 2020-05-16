@@ -1,8 +1,11 @@
 ---
+album: Tremaine the Album
 artists:
 - Trey Songz
+external_ids:
+  spotify: spotify:track:1HOUzEsetdIPSpAgRPhZQt
 features: []
-genres: []
+first_released_as_single: false
 key: nobody-else-but-you-trey-songz
 lyrics_url: https://genius.com/Trey-songz-nobody-else-but-you-lyrics
 name: Nobody Else But You
@@ -19,6 +22,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2017-07-08'
+release_year: 2017
+runtime: 229013
 ---
 I don't want nobody else but you
 I don't want nobody else but you, ohah ah

@@ -1,8 +1,11 @@
 ---
+album: Sing & Swing With Bobby Darin
 artists:
 - Bobby Darin
+external_ids:
+  spotify: spotify:track:1GiwOMG9LsWAQPV5OziLeL
 features: []
-genres: []
+first_released_as_single: false
 key: baby-face-bobby-darin
 lyrics_url: https://www.azlyrics.com/lyrics/bobbydarin/babyface.html
 name: Baby Face
@@ -35,8 +38,9 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '1962-11-10'
+release_year: 1962
+runtime: 127653
 ---
-
 Baby face
 
 You've got the cutest little baby face
@@ -73,6 +77,3 @@ Cuz I just fell in love
 With your pretty, pretty, pretty baby face
 
 Ah...
-
-
-

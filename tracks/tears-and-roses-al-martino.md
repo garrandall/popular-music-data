@@ -1,8 +1,11 @@
 ---
+album: Crooner
 artists:
 - Al Martino
+external_ids:
+  spotify: spotify:track:40yJppEKT0Yud2RUsXb9tk
 features: []
-genres: []
+first_released_as_single: false
 key: tears-and-roses-al-martino
 lyrics_url: https://genius.com/Al-martino-tears-and-roses-lyrics
 name: Tears And Roses
@@ -39,6 +42,8 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '1964-07-04'
+release_year: 1964
+runtime: 139600
 ---
 Tears and roses, tears and roses
 Remind me that we're through but I'm still in love with you

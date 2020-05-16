@@ -1,8 +1,11 @@
 ---
+album: Coconut Telegraph
 artists:
 - Jimmy Buffett
+external_ids:
+  spotify: spotify:track:4knKfxkzTjKGQ2CrkyDr1N
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-my-job-jimmy-buffett
 lyrics_url: https://www.azlyrics.com/lyrics/jimmybuffett/itsmyjob.html
 name: It's My Job
@@ -39,8 +42,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1981-04-11'
+release_year: 1981
+runtime: 192906
 ---
-
 In the middle of late last night I was sittin' on a curb
 I didn't know what about but I was feeling quite disturbed
 A street sweeper came whistlin' by
@@ -82,6 +86,3 @@ It's my job to be cleaning up this mess
 and that's enough reason to go for me
 It's my job to be better than the best
 and that makes the day for me
-
-
-

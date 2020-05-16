@@ -1,8 +1,11 @@
 ---
+album: Different Light
 artists:
 - The Bangles
+external_ids:
+  spotify: spotify:track:3VoYuG5L9dSDZLNHArVq7b
 features: []
-genres: []
+first_released_as_single: false
 key: walking-down-your-street-the-bangles
 lyrics_url: https://www.azlyrics.com/lyrics/bangles/walkingdownyourstreet.html
 name: Walking Down Your Street
@@ -71,8 +74,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1987-05-30'
+release_year: 1986
+runtime: 182813
 ---
-
 Da da da da
 Oh, I've had sleepless nights
 Toss and turn
@@ -119,6 +123,3 @@ Walking down your street
 With a love that I can't hide
 I've got one thing on my mind, yeah
 I'll even sacrifice my pride
-
-
-

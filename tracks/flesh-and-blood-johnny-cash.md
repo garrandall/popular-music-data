@@ -1,8 +1,11 @@
 ---
+album: I Walk the Line (Original Soundtrack Recording)
 artists:
 - Johnny Cash
+external_ids:
+  spotify: spotify:track:3cmS0fJIpGyUipk3iVg5vM
 features: []
-genres: []
+first_released_as_single: false
 key: flesh-and-blood-johnny-cash
 lyrics_url: https://www.azlyrics.com/lyrics/johnnycash/fleshandblood.html
 name: Flesh And Blood
@@ -35,8 +38,9 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1971-01-23'
+release_year: 1970
+runtime: 158013
 ---
-
 Beside a Singin' Mountain Stream 
 Where the Willow grew
 
@@ -87,6 +91,3 @@ Mother Nature's quite a Lady
 But you're the one I need
 Flesh And Blood need Flesh And Blood
 And you're the one I need.
-
-
-

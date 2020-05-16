@@ -1,8 +1,11 @@
 ---
+album: V
 artists:
 - Vanessa Hudgens
+external_ids:
+  spotify: spotify:track:73qbBlEAcm2HfnAaSnP1II
 features: []
-genres: []
+first_released_as_single: false
 key: say-ok-vanessa-hudgens
 lyrics_url: https://www.azlyrics.com/lyrics/vanessahudgens/sayok.html
 name: Say OK
@@ -31,8 +34,9 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2007-04-21'
+release_year: 2006
+runtime: 221866
 ---
-
 You are fine
 You are sweet
 But I'm still a bit naive with my heart
@@ -94,6 +98,3 @@ Say OK
 Will you say OK
 (Say that it's gonna be alright. That it's gonna be OK, don't run away)
 Will you say OK...
-
-
-

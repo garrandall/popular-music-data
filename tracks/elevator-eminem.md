@@ -1,8 +1,11 @@
 ---
+album: 'Relapse: Refill'
 artists:
 - Eminem
+external_ids:
+  spotify: spotify:track:26rUU3JZ9JB9OkEuG9mb3e
 features: []
-genres: []
+first_released_as_single: false
 key: elevator-eminem
 lyrics_url: https://genius.com/Eminem-elevator-lyrics
 name: Elevator
@@ -11,6 +14,8 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '2010-01-02'
+release_year: 2009
+runtime: 292933
 ---
 All aboard!
 Okay, next stop, my basement (Ha-ha)

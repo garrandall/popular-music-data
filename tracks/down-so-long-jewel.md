@@ -1,8 +1,11 @@
 ---
+album: Spirit
 artists:
 - Jewel
+external_ids:
+  spotify: spotify:track:5WmOYQAMavY2nk7tktsPbZ
 features: []
-genres: []
+first_released_as_single: false
 key: down-so-long-jewel
 lyrics_url: https://genius.com/Jewel-down-so-long-lyrics
 name: Down So Long
@@ -31,6 +34,8 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1999-05-22'
+release_year: 1998
+runtime: 255146
 ---
 Sun sets 'cross the ocean
 I'm a thousand miles from anywhere

@@ -1,10 +1,13 @@
 ---
+album: Blacc Hollywood
 artists:
 - Wiz Khalifa
+external_ids:
+  spotify: spotify:track:0YZn9bdLfX7NW1S7t2TCqs
 features:
 - Snoop Dogg
 - Ty Dolla $ign
-genres: []
+first_released_as_single: true
 key: you-and-your-friends-wiz-khalifa-snoop-dogg-ty-dolla--ign
 lyrics_url: https://genius.com/Wiz-khalifa-you-and-your-friends-lyrics
 name: You And Your Friends
@@ -49,6 +52,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2014-12-06'
+release_year: 2014
+runtime: 186653
 ---
 I got all these J’s rolled up
 And I got all these drinks poured up

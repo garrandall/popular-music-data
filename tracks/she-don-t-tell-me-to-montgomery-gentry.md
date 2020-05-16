@@ -1,8 +1,11 @@
 ---
+album: 'Something To Be Proud Of: Best Of 1999-2005'
 artists:
 - Montgomery Gentry
+external_ids:
+  spotify: spotify:track:4SO0nnqRKg2sNfvEaEBs4w
 features: []
-genres: []
+first_released_as_single: false
 key: she-don-t-tell-me-to-montgomery-gentry
 lyrics_url: https://www.musixmatch.com/lyrics/Montgomery-Gentry/She-Don-t-Tell-Me-To
 name: She Don't Tell Me To
@@ -71,6 +74,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2006-04-29'
+release_year: 1999
+runtime: 187213
 ---
 Every now and then on my way home
 I stop at a spot where the wild flowers grow

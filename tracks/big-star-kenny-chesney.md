@@ -1,8 +1,11 @@
 ---
+album: No Shoes, No Shirt, No Problems
 artists:
 - Kenny Chesney
+external_ids:
+  spotify: spotify:track:6BJOQ94yeGXYwuR6X9QO1N
 features: []
-genres: []
+first_released_as_single: false
 key: big-star-kenny-chesney
 lyrics_url: https://www.azlyrics.com/lyrics/kennychesney/bigstar.html
 name: Big Star
@@ -87,8 +90,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2003-07-05'
+release_year: 2002
+runtime: 239560
 ---
-
 She was aware of her insecurities as she took the stage
 She was convinced if she got up there that she'd be discovered someday
 
@@ -123,6 +127,3 @@ She's a big star as she eats caviar just before she performs every night
 She says if you work hard to get where you are it feels good in the hot spot light
 She's a big star
 She's a big star
-
-
-

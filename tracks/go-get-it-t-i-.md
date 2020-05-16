@@ -1,8 +1,11 @@
 ---
+album: 'Trouble Man: Heavy is the Head'
 artists:
 - T.I.
+external_ids:
+  spotify: spotify:track:2gPl93XdGnfKUykwxVHUYt
 features: []
-genres: []
+first_released_as_single: false
 key: go-get-it-t-i-
 lyrics_url: https://genius.com/Ti-go-get-it-lyrics
 name: Go Get It
@@ -11,6 +14,8 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '2012-08-04'
+release_year: 2012
+runtime: 217520
 ---
 I gotta grind, won't stop, hustle won't quit
 Shine like no other, I be on some other shit

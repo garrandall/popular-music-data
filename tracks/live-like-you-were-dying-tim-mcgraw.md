@@ -1,8 +1,11 @@
 ---
+album: Live Like You Were Dying
 artists:
 - Tim McGraw
+external_ids:
+  spotify: spotify:track:7B1QliUMZv7gSTUGAfMRRD
 features: []
-genres: []
+first_released_as_single: false
 key: live-like-you-were-dying-tim-mcgraw
 lyrics_url: https://genius.com/Tim-mcgraw-live-like-you-were-dying-lyrics
 name: Live Like You Were Dying
@@ -99,6 +102,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '2005-07-09'
+release_year: 2004
+runtime: 300333
 ---
 Said I was in my early 40's
 With a lot of life before me

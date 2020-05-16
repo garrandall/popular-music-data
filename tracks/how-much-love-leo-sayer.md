@@ -1,8 +1,11 @@
 ---
+album: Endless Flight
 artists:
 - Leo Sayer
+external_ids:
+  spotify: spotify:track:1TsekOo0xMKvIgKK7U6zaQ
 features: []
-genres: []
+first_released_as_single: false
 key: how-much-love-leo-sayer
 lyrics_url: https://www.azlyrics.com/lyrics/leosayer/howmuchlove.html
 name: How Much Love
@@ -67,8 +70,9 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1977-10-15'
+release_year: 1976
+runtime: 219066
 ---
-
 How much love do you need
 Before you give your love to me
 How much time before it grows
@@ -120,6 +124,3 @@ How much love, how much love
 How much love
 How much love
 How much love
-
-
-

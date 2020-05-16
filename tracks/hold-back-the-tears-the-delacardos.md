@@ -1,8 +1,11 @@
 ---
+album: 60s Soul Revue
 artists:
 - The Delacardos
+external_ids:
+  spotify: spotify:track:3U3oKfe9x7LZf2ofN8ifgJ
 features: []
-genres: []
+first_released_as_single: false
 key: hold-back-the-tears-the-delacardos
 name: Hold Back The Tears
 rankings:
@@ -26,5 +29,7 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1961-07-03'
+release_year: 1961
+runtime: 123026
 ---
 

@@ -1,8 +1,11 @@
 ---
+album: California 37
 artists:
 - Train
+external_ids:
+  spotify: spotify:track:0KAiuUOrLTIkzkpfpn9jb9
 features: []
-genres: []
+first_released_as_single: false
 key: drive-by-train
 lyrics_url: https://www.musixmatch.com/lyrics/Train/Drive-By
 name: Drive By
@@ -151,6 +154,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '2012-09-29'
+release_year: 2012
+runtime: 195973
 ---
 On the other side of a street I knew
 Stood a girl that looked like you,

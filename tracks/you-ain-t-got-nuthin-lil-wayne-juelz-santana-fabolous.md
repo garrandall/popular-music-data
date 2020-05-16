@@ -1,10 +1,13 @@
 ---
+album: Tha Carter III (MTV Bonus Version)
 artists:
 - Lil Wayne
+external_ids:
+  spotify: spotify:track:4HtvvsIwOIY6yY76SEoHDP
 features:
 - Juelz Santana
 - Fabolous
-genres: []
+first_released_as_single: false
 key: you-ain-t-got-nuthin-lil-wayne-juelz-santana-fabolous
 lyrics_url: https://genius.com/Lil-wayne-you-aint-got-nuthin-lyrics
 name: You Ain't Got Nuthin
@@ -13,6 +16,8 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '2008-06-21'
+release_year: 2008
+runtime: 327266
 ---
 Yes, what it look like Alc'?
 I'm tryin' to show the niggas man

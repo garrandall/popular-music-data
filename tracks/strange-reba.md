@@ -1,8 +1,11 @@
 ---
+album: Keep On Loving You
 artists:
 - Reba
+external_ids:
+  spotify: spotify:track:3lZ2BjqnF3MhSIqRnEnahr
 features: []
-genres: []
+first_released_as_single: false
 key: strange-reba
 lyrics_url: https://www.azlyrics.com/lyrics/rebamcentire/strange.html
 name: Strange
@@ -43,8 +46,9 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '2009-08-08'
+release_year: 2009
+runtime: 180146
 ---
-
 I laid there feeling sorry for myself
 In a bed of Kleenex
 Stuffing chocolates in my mouth
@@ -92,6 +96,3 @@ Strange
 Strange, talk about luck
 I woke up and the sun was shining
 Strange, strange
-
-
-

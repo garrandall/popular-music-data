@@ -1,8 +1,11 @@
 ---
+album: Hear The Words, Feel The Feeling
 artists:
 - Margie Joseph
+external_ids:
+  spotify: spotify:track:1m7UgXm16Zv7kfzjkAWtV5
 features: []
-genres: []
+first_released_as_single: false
 key: words--are-impossible--margie-joseph
 lyrics_url: https://genius.com/Margie-joseph-words-are-impossible-lyrics
 name: Words (are Impossible)
@@ -23,6 +26,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1975-01-11'
+release_year: 1974
+runtime: 271146
 ---
 Words (Are Impossible)
 

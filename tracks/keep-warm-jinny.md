@@ -1,8 +1,11 @@
 ---
+album: Keep Warm (Remix)
 artists:
 - Jinny
+external_ids:
+  spotify: spotify:track:1MVufNx8ICRBgBGzNqu4m4
 features: []
-genres: []
+first_released_as_single: true
 key: keep-warm-jinny
 lyrics_url: https://genius.com/Jinny-keep-warm-lyrics
 name: Keep Warm
@@ -15,6 +18,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1991-09-21'
+release_year: 1991
+runtime: 345071
 ---
 Step left around and together with the rest
 Now, here comes the music

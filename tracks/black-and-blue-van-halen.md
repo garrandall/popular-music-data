@@ -1,8 +1,11 @@
 ---
+album: OU812
 artists:
 - Van Halen
+external_ids:
+  spotify: spotify:track:3sqhPpGhcz4PPQCG14Swjg
 features: []
-genres: []
+first_released_as_single: false
 key: black-and-blue-van-halen
 lyrics_url: https://www.azlyrics.com/lyrics/vanhalen/blackandblue.html
 name: Black And Blue
@@ -47,8 +50,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1988-07-23'
+release_year: 1988
+runtime: 325640
 ---
-
 Slip n' slide, push it in 
 Bitch sure got the rhythm 
 I'm holding back, yeah, I got control 
@@ -84,6 +88,3 @@ Let's do it 'til we're black and blue
 Do it 'til we're black and blue 
 The wetter the better 
 Let's do it 'til we're black and blue
-
-
-

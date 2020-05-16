@@ -1,8 +1,11 @@
 ---
+album: Vox Humana
 artists:
 - Kenny Loggins
+external_ids:
+  spotify: spotify:track:23KhPfX1omMxmfw4TjvfAq
 features: []
-genres: []
+first_released_as_single: false
 key: forever-kenny-loggins
 lyrics_url: https://www.azlyrics.com/lyrics/kennyloggins/forever.html
 name: Forever
@@ -95,8 +98,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1985-10-19'
+release_year: 1985
+runtime: 264600
 ---
-
 Now, while we're here alone
 And all is said and done
 Now I can let you know
@@ -132,6 +136,3 @@ Forever in my heart
 You always thought I'd be
 I'd be yours
 Forever...
-
-
-

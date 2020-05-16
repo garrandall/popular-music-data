@@ -1,8 +1,11 @@
 ---
+album: Heard It On the Radio, Vol. 2
 artists:
 - Ironhorse
+external_ids:
+  spotify: spotify:track:0H3lXUnGBGuDsiBU2NUSfL
 features: []
-genres: []
+first_released_as_single: false
 key: sweet-lui-louise-ironhorse
 lyrics_url: https://www.musixmatch.com/lyrics/IronHorse/Sweet-Lui-Louise
 name: Sweet Lui-Louise
@@ -47,6 +50,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1979-05-19'
+release_year: 1979
+runtime: 194973
 ---
 I know youve been out runnin
 When you're done with all your runnin
@@ -89,4 +94,3 @@ Sweet, sweet Lui-Lui-Louise
 My sweet Louise, my sweet Lou-ee-ise
 Sweet Louise, my sweet Louise
 Lui-Lui-Louise, my sweet Louise
-

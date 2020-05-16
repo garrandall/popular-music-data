@@ -1,9 +1,12 @@
 ---
+album: Emergency (Reissue)
 artists:
 - Kool
 - The Gang
+external_ids:
+  spotify: spotify:track:2OY17ER3xSmNXjGsqWzgn7
 features: []
-genres: []
+first_released_as_single: false
 key: cherish-kool-the-gang
 lyrics_url: https://www.azlyrics.com/lyrics/koolthegang/cherish.html
 name: Cherish
@@ -108,8 +111,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1985-12-21'
+release_year: 1984
+runtime: 290600
 ---
-
 Let's take a walk together near the ocean shore
 Hand in hand you and I
 Let's cherish every moment we have been given
@@ -152,6 +156,3 @@ Cherish the love we have, we should cherish the life we live
 Cherish the love, cherish the life, cherish the love
 Cherish the love we have, for as long as we both shall live
 Cherish the love, cherish the life, cherish the love
-
-
-

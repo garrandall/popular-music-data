@@ -1,10 +1,13 @@
 ---
+album: Major Key
 artists:
 - DJ Khaled
+external_ids:
+  spotify: spotify:track:51Nwg5wCDDiqcTntgJUlLo
 features:
 - Jay Z
 - Future
-genres: []
+first_released_as_single: true
 key: i-got-the-keys-dj-khaled-jay-z-future
 lyrics_url: https://www.azlyrics.com/lyrics/djkhaled/igotthekeys.html
 name: I Got The Keys
@@ -77,10 +80,10 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2016-11-05'
+release_year: 2016
+runtime: 219758
 ---
-
-
- We The Best music!
+We The Best music!
  Oh, this what we doin' here
  Another one!
  I'ma have to put my jewelry on for this one
@@ -152,7 +155,7 @@ Real life I'm life goals
 In real life they're like me?
 In real life I'm like, "No."
 My swag different, that bag different
-My wife BeyoncÃ©, I brag different
+My wife Beyoncé, I brag different
 My baby Blue, I dream in color
 That's too much flavor, I don't rap to suckas (Ha!)
 God bless you all, I only talk special talk
@@ -194,6 +197,3 @@ We go to court, we gon' plead the fifth
 I know the judge, I'ma shoot him some chips
 I got them keys, keys, keys
 I got them keys, keys, keys
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Want You Tonight
 artists:
 - Pablo Cruise
+external_ids:
+  spotify: spotify:track:7JdmJOT3TcDnKNKDdzwJbr
 features: []
-genres: []
+first_released_as_single: false
 key: i-want-you-tonight-pablo-cruise
 lyrics_url: https://www.azlyrics.com/lyrics/pablocruise/iwantyoutonight.html
 name: I Want You Tonight
@@ -71,8 +74,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1980-01-26'
+release_year: 1979
+runtime: 330933
 ---
-
 Yesterday I swore
 I was gonna switch you
 But today I'm back for more, oh
@@ -122,6 +126,3 @@ Oh-oh I know it's not right
 But who is gonna save me?
 I want you, I want you tonight
 Won'tcha baby, won'tcha baby
-
-
-

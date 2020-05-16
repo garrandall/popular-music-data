@@ -1,8 +1,11 @@
 ---
+album: Right On Time
 artists:
 - The Brothers Johnson
+external_ids:
+  spotify: spotify:track:00kvKlIvfzQLSi6T2zwXuS
 features: []
-genres: []
+first_released_as_single: false
 key: strawberry-letter-23-the-brothers-johnson
 lyrics_url: https://www.azlyrics.com/lyrics/brothersjohnson/strawberryletter23.html
 name: Strawberry Letter 23
@@ -83,8 +86,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1977-11-05'
+release_year: 1977
+runtime: 299066
 ---
-
 Hello, my love, I heard a kiss from you
 Red magic satin playing near too
 All through the morning rain I gaze, the sun doesn't shine
@@ -119,6 +123,3 @@ The music plays, I sit in for a few
 A present from you
 Strawberry letter 22
 The music plays, I sit in for a few
-
-
-

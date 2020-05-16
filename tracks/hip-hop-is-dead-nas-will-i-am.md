@@ -1,9 +1,12 @@
 ---
+album: Hip Hop Is Dead (Bonus Tracks)
 artists:
 - Nas
+external_ids:
+  spotify: spotify:track:7iF9B5dbSOfEeznArGFHhn
 features:
 - will.i.am
-genres: []
+first_released_as_single: false
 key: hip-hop-is-dead-nas-will-i-am
 lyrics_url: https://genius.com/Nas-hip-hop-is-dead-lyrics
 name: Hip Hop Is Dead
@@ -28,6 +31,8 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '2007-01-20'
+release_year: 2006
+runtime: 225560
 ---
 Hip hop, hip hop (Ugh!) is dead
 (Had to flip this track again, y'all!)

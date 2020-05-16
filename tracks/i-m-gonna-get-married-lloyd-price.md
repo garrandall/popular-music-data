@@ -1,8 +1,11 @@
 ---
+album: Where Were You On Our Wedding Day
 artists:
 - Lloyd Price
+external_ids:
+  spotify: spotify:track:1jKcwPfDloLOMxC1wMV0ux
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-gonna-get-married-lloyd-price
 lyrics_url: https://genius.com/Lloyd-price-im-gonna-get-married-lyrics
 name: I'm Gonna Get Married
@@ -63,6 +66,8 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '1959-11-09'
+release_year: 1959
+runtime: 143000
 ---
 (Johnny, Johnny, Johnny)
 (Johnny, you're too young)

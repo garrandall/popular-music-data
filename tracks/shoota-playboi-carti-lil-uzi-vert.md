@@ -1,9 +1,12 @@
 ---
+album: Die Lit
 artists:
 - Playboi Carti
+external_ids:
+  spotify: spotify:track:2BJSMvOGABRxokHKB0OI8i
 features:
 - Lil Uzi Vert
-genres: []
+first_released_as_single: false
 key: shoota-playboi-carti-lil-uzi-vert
 lyrics_url: https://www.azlyrics.com/lyrics/playboi-carti/shootarocket.html
 name: Shoota
@@ -24,9 +27,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2018-06-16'
+release_year: 2018
+runtime: 153800
 ---
-
-
 Yeah
 That be Maaly Raw
 Now, now is my time
@@ -89,6 +92,3 @@ Bentley or a Rari, ho, lets choose
 We gon the rob the bank, bring the loot
 We gon take the boy back to school
 Money on the floor just like some shoes
-
-
-

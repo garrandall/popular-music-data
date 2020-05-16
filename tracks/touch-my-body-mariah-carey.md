@@ -1,8 +1,11 @@
 ---
+album: "E=MC\xB2"
 artists:
 - Mariah Carey
+external_ids:
+  spotify: spotify:track:2H1l4JczUDbiWfQtQElB05
 features: []
-genres: []
+first_released_as_single: false
 key: touch-my-body-mariah-carey
 lyrics_url: https://www.azlyrics.com/lyrics/mariahcarey/touchmybody.html
 name: Touch My Body
@@ -87,8 +90,9 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '2008-07-12'
+release_year: 2008
+runtime: 204733
 ---
-
 MC, you're the place to be
 
 I know that you've been waiting for it
@@ -227,6 +231,3 @@ Come on and give me what I deserve!
 Touch my body
 Oh! Oh oh ooh
 Touch my body
-
-
-

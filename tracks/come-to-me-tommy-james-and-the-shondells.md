@@ -1,8 +1,11 @@
 ---
+album: The Solo Years
 artists:
 - Tommy James And The Shondells
+external_ids:
+  spotify: spotify:track:12Wn3wOE8MTeFJiL23F3Mi
 features: []
-genres: []
+first_released_as_single: false
 key: come-to-me-tommy-james-and-the-shondells
 lyrics_url: https://genius.com/Tommy-james-and-the-shondells-come-to-me-lyrics
 name: Come To Me
@@ -39,6 +42,8 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '1970-07-04'
+release_year: 1970
+runtime: 195026
 ---
 I love the way that you touch me
 Come to me, my love, come to me

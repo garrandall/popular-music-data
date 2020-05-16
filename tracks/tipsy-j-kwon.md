@@ -1,8 +1,11 @@
 ---
+album: Hood Hop
 artists:
 - J-Kwon
+external_ids:
+  spotify: spotify:track:0jSMveIWvnhDIvzqN74Uc7
 features: []
-genres: []
+first_released_as_single: false
 key: tipsy-j-kwon
 lyrics_url: https://genius.com/J-kwon-tipsy-lyrics
 name: Tipsy
@@ -127,6 +130,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2004-08-07'
+release_year: 2004
+runtime: 243226
 ---
 Teen drinking is very bad
 Yo, I got a fake ID though

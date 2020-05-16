@@ -1,8 +1,11 @@
 ---
+album: Burnin' Sky
 artists:
 - Bad Company
+external_ids:
+  spotify: spotify:track:7rNo0ijkYkSkVbi1LL4aO5
 features: []
-genres: []
+first_released_as_single: false
 key: burnin--sky-bad-company
 lyrics_url: https://www.azlyrics.com/lyrics/badcompany/burninsky.html
 name: Burnin' Sky
@@ -23,8 +26,9 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1977-06-11'
+release_year: 1977
+runtime: 310866
 ---
-
 The sky is burnin' I believe my soul's on fire,
 You are, I'm learning, the key to my desire.
 
@@ -69,6 +73,3 @@ It's burnin', yeah, it's burnin'.
 I believe my souls on fire,
 Keep on burnin',
 Ah, yeah, yeah, ah, oh, oho. Keep on burnin'
-
-
-

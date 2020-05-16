@@ -1,8 +1,11 @@
 ---
+album: The Sun Rises In The East
 artists:
 - Jeru The Damaja
+external_ids:
+  spotify: spotify:track:6wbBrsE2H2pupmnfoVSY6w
 features: []
-genres: []
+first_released_as_single: false
 key: come-clean-jeru-the-damaja
 lyrics_url: https://genius.com/Jeru-the-damaja-come-clean-lyrics
 name: Come Clean
@@ -23,6 +26,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1994-02-19'
+release_year: 1994
+runtime: 297040
 ---
 You wanna front—what? Jump up and get bucked
 If you're feeling lucky duck then press your luck

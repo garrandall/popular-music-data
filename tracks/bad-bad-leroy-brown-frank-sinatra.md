@@ -1,8 +1,11 @@
 ---
+album: Some Nice Things I've Missed
 artists:
 - Frank Sinatra
+external_ids:
+  spotify: spotify:track:7jI7n0B2SvrzTcsJVuceCw
 features: []
-genres: []
+first_released_as_single: false
 key: bad-bad-leroy-brown-frank-sinatra
 lyrics_url: https://www.azlyrics.com/lyrics/franksinatra/badbadleroybrown.html
 name: Bad Bad Leroy Brown
@@ -35,8 +38,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1974-05-18'
+release_year: 1974
+runtime: 169933
 ---
-
 Now the south side of Chicago is (it's) the baddest part of town
 And if you (you're gonna) go down there, you better (just) beware
 Of a man (cat) named Leroy Brown
@@ -60,6 +64,3 @@ That's when the big scene (trouble soon) began
 And Leroy Brown he learned a lesson 'bout messin' with the wife of a jealous man
 (Yeah) He's bad, bad Leroy Brown, meanest (baddest) man (cat) in the whole damn town
 Badder that old King Kong, (and) (he's) meaner that a junkyard dog
-
-
-

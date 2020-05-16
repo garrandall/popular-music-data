@@ -1,8 +1,11 @@
 ---
+album: Midstream
 artists:
 - Debby Boone
+external_ids:
+  spotify: spotify:track:51sbMJMVqZQJYwkYOl6jzY
 features: []
-genres: []
+first_released_as_single: false
 key: god-knows-debby-boone
 lyrics_url: https://www.azlyrics.com/lyrics/debbyboone/godknows.html
 name: God Knows
@@ -35,8 +38,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1978-07-08'
+release_year: 1978
+runtime: 204273
 ---
-
 Out of the pages of books that I've read
 I can recall that somewhere someone said
 If you don't succeed, try again
@@ -74,6 +78,3 @@ God knows how much I love you
 God knows how much I love you
 God knows how much I love you
 God knows how much I love you
-
-
-

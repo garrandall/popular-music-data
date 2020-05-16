@@ -1,8 +1,11 @@
 ---
+album: Hollywood's Bleeding
 artists:
 - Post Malone
+external_ids:
+  spotify: spotify:track:3mrE0pFzyIQqFs3cMUimY4
 features: []
-genres: []
+first_released_as_single: true
 key: circles-post-malone
 lyrics_url: https://www.azlyrics.com/lyrics/postmalone/circles.html
 name: Circles
@@ -119,8 +122,9 @@ rankings:
   rank: 5
   ranking_list: Billboard Hot 100
   start_date: '2020-03-21'
+release_year: 2019
+runtime: 214693
 ---
-
 Oh, oh, oh-oh
 Oh, oh, oh-oh
 Oh, oh, oh-oh, oh-oh, oh-oh
@@ -168,6 +172,3 @@ I dare you to do something
 I'm waiting on you again, so I don't take the blame
 Run away, but we're running in circles
 Run away, run away, run away
-
-
-

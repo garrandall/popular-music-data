@@ -1,8 +1,11 @@
 ---
+album: Love Songs
 artists:
 - Elton John
+external_ids:
+  spotify: spotify:track:3ca91BX2k7GSzEUsx1mPgI
 features: []
-genres: []
+first_released_as_single: false
 key: you-can-make-history--young-again--elton-john
 lyrics_url: https://www.azlyrics.com/lyrics/eltonjohn/youcanmakehistoryyoungagain.html
 name: You Can Make History (Young Again)
@@ -75,8 +78,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1997-02-15'
+release_year: 1995
+runtime: 293973
 ---
-
 I can feel the time closing in
 I can feel the years crawling through my skin
 And if I doubt myself I can count on the rain
@@ -107,6 +111,3 @@ Ancient minds, ancient lives
 Got a way of coming around
 If I knew then what I know now
 I'd make it back to you somehow
-
-
-

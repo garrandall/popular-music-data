@@ -1,8 +1,11 @@
 ---
+album: Sweet Dreams (Are Made Of This)
 artists:
 - Eurythmics
+external_ids:
+  spotify: spotify:track:2jItmTTkIL6SkvABXsTaYT
 features: []
-genres: []
+first_released_as_single: false
 key: love-is-a-stranger-eurythmics
 lyrics_url: https://www.azlyrics.com/lyrics/eurythmics/loveisastranger.html
 name: Love Is A Stranger
@@ -59,8 +62,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1983-12-10'
+release_year: 1983
+runtime: 224773
 ---
-
 Love is a stranger
 In an open car
 To tempt you in
@@ -108,6 +112,3 @@ And I want you
 And I want you
 And I want you so
 It's an obsession
-
-
-

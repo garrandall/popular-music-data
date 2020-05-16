@@ -1,8 +1,11 @@
 ---
+album: Into The Light
 artists:
 - Chris de Burgh
+external_ids:
+  spotify: spotify:track:1GeNWyZtCHbcp3ZWp8GTOO
 features: []
-genres: []
+first_released_as_single: false
 key: the-lady-in-red-chris-de-burgh
 lyrics_url: https://genius.com/Chris-de-burgh-the-lady-in-red-lyrics
 name: The Lady In Red
@@ -111,6 +114,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1987-08-08'
+release_year: 1986
+runtime: 256173
 ---
 I've never seen you looking so lovely as you did tonight
 I've never seen you shine so bright

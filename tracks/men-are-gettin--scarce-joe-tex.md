@@ -1,8 +1,11 @@
 ---
+album: Greatest Hits
 artists:
 - Joe Tex
+external_ids:
+  spotify: spotify:track:5MrmMiU440CvGVgegeZx9g
 features: []
-genres: []
+first_released_as_single: false
 key: men-are-gettin--scarce-joe-tex
 lyrics_url: https://genius.com/Joe-tex-men-are-gettin-scarce-lyrics
 name: Men Are Gettin' Scarce
@@ -35,6 +38,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1968-03-23'
+release_year: 1968
+runtime: 192838
 ---
 Girls listen, I'm gonna cool you cooks to something
 Listen to this

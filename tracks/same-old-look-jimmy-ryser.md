@@ -1,8 +1,11 @@
 ---
+album: Let It Go
 artists:
 - Jimmy Ryser
+external_ids:
+  spotify: spotify:track:7Kr1yAXJKg7uYp95R92GVf
 features: []
-genres: []
+first_released_as_single: false
 key: same-old-look-jimmy-ryser
 lyrics_url: https://genius.com/Jimmy-ryser-same-old-look-lyrics
 name: Same Old Look
@@ -35,6 +38,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1990-08-25'
+release_year: 1990
+runtime: 252813
 ---
 The years in our lives go by
 Looking back, I still wonder how you are

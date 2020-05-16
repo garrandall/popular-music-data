@@ -1,8 +1,11 @@
 ---
+album: Revolution Of The Mind (Live)
 artists:
 - James Brown
+external_ids:
+  spotify: spotify:track:43PN1cFOrzhtlRCrkoIC2E
 features: []
-genres: []
+first_released_as_single: false
 key: make-it-funky--part-1--james-brown
 lyrics_url: https://genius.com/James-brown-make-it-funky-lyrics
 name: Make It Funky (Part 1)
@@ -43,6 +46,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1971-10-23'
+release_year: 1971
+runtime: 772933
 ---
 What you going to play now?
 Bobby, I don't know but what's it ever I play

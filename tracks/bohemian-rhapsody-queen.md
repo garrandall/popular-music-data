@@ -1,8 +1,11 @@
 ---
+album: A Night At The Opera (Deluxe Remastered Version)
 artists:
 - Queen
+external_ids:
+  spotify: spotify:track:7tFiyTwD0nx5a1eklYtX2J
 features: []
-genres: []
+first_released_as_single: false
 key: bohemian-rhapsody-queen
 lyrics_url: https://www.azlyrics.com/lyrics/queen/bohemianrhapsody.html
 name: Bohemian Rhapsody
@@ -183,8 +186,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2018-12-01'
+release_year: 1975
+runtime: 354320
 ---
-
 Is this the real life?
 Is this just fantasy?
 Caught in a landslide,
@@ -255,6 +259,3 @@ Nothing really matters,
 Nothing really matters to me.
 
 Any way the wind blows.
-
-
-

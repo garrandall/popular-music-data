@@ -1,8 +1,11 @@
 ---
+album: One Wish
 artists:
 - Deborah Cox
+external_ids:
+  spotify: spotify:track:1MynWKXd4d6Kal6xJ8wrdo
 features: []
-genres: []
+first_released_as_single: false
 key: things-just-ain-t-the-same-deborah-cox
 lyrics_url: https://genius.com/Deborah-cox-things-just-aint-the-same-lyrics
 name: Things Just Ain't The Same
@@ -75,6 +78,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1997-10-25'
+release_year: 1997
+runtime: 217960
 ---
 Things just ain't the same
 He could never be you

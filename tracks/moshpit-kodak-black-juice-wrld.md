@@ -1,9 +1,12 @@
 ---
+album: Dying to Live
 artists:
 - Kodak Black
+external_ids:
+  spotify: spotify:track:4i3D46Dx4AVzjswka2OZws
 features:
 - Juice WRLD
-genres: []
+first_released_as_single: true
 key: moshpit-kodak-black-juice-wrld
 lyrics_url: https://www.azlyrics.com/lyrics/kodakblack/moshpit.html
 name: MoshPit
@@ -12,9 +15,9 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '2018-12-29'
+release_year: 2018
+runtime: 164038
 ---
-
-
 I'm stompin'
 Let's start a moshpit
 Fuck a protest let's start a moshpit
@@ -76,6 +79,3 @@ Red bottom kicks I feel like stomping in here
 No oatmeal and grits I'm eating cod fish in here (Ayy)
 New space coupe feel like a martian in here
 Fuck a protest lets start a moshpit
-
-
-

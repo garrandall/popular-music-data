@@ -1,8 +1,11 @@
 ---
+album: For You
 artists:
 - Prince
+external_ids:
+  spotify: spotify:track:6Q8s3YuAWkx0Qui0Jgkr5m
 features: []
-genres: []
+first_released_as_single: false
 key: soft-and-wet-prince
 lyrics_url: https://www.azlyrics.com/lyrics/prince/softandwet.html
 name: Soft And Wet
@@ -23,8 +26,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1978-11-25'
+release_year: 1978
+runtime: 185173
 ---
-
 Hey, lover, I got a sugarcane
 That I wanna lose in you,
 Baby can you stand the pain
@@ -64,6 +68,3 @@ Soft and wet (U know)
 You are soft and wet (Oh, sugar)
 Your love is soft and wet
 Soft and wet
-
-
-

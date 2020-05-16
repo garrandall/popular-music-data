@@ -1,8 +1,11 @@
 ---
+album: Infinity On High
 artists:
 - Fall Out Boy
+external_ids:
+  spotify: spotify:track:1oagRT7LfpVlNJN6FSZDGp
 features: []
-genres: []
+first_released_as_single: false
 key: this-ain-t-a-scene-it-s-an-arms-race-fall-out-boy
 lyrics_url: https://genius.com/Fall-out-boy-this-aint-a-scene-its-an-arms-race-lyrics
 name: This Ain't A Scene It's An Arms Race
@@ -87,6 +90,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2007-06-16'
+release_year: 2007
+runtime: 212040
 ---
 I am an arms dealer fitting you with
 Weapons in the form of words

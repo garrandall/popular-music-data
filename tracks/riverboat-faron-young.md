@@ -1,8 +1,11 @@
 ---
+album: The Complete Capitol Hits Of Faron Young
 artists:
 - Faron Young
+external_ids:
+  spotify: spotify:track:1LXTz7SxX7C7SCoFpz0Tc2
 features: []
-genres: []
+first_released_as_single: false
 key: riverboat-faron-young
 lyrics_url: https://www.azlyrics.com/lyrics/faronyoung/riverboat.html
 name: Riverboat
@@ -19,8 +22,9 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1960-01-18'
+release_year: 1960
+runtime: 139200
 ---
-
 Well, I spent the better part of my life
 On a Mississippi riverboat
 I used to be known from coast to coast
@@ -67,6 +71,3 @@ I wish I was back on the riverboart
 'Stead of in the Memphis jail
 
 'Stead of in the Memphis jail...
-
-
-

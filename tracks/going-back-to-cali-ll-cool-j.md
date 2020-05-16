@@ -1,8 +1,11 @@
 ---
+album: Walking With A Panther
 artists:
 - LL Cool J
+external_ids:
+  spotify: spotify:track:4Fkr6zTAxsXbG9kG8ISqos
 features: []
-genres: []
+first_released_as_single: false
 key: going-back-to-cali-ll-cool-j
 lyrics_url: https://www.musixmatch.com/lyrics/LL-Cool-J/Going-Back-To-Cali
 name: Going Back To Cali
@@ -63,6 +66,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1988-05-21'
+release_year: 1988
+runtime: 249266
 ---
 I'm going back to cali, cali, cali
 I'm going back to cali. hm, I don't think so
@@ -116,5 +121,3 @@ I'm going back to cali, cali, cali
 I'm going back to cali. I don't think so
 I'm going back to cali, cali, cali
 I'm going back to cali. I don't think so
-
-

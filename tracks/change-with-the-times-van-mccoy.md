@@ -1,8 +1,11 @@
 ---
+album: Disco Kid
 artists:
 - Van Mccoy
+external_ids:
+  spotify: spotify:track:2Ve5bQ7Dr7vQ5B6RVTmopb
 features: []
-genres: []
+first_released_as_single: false
 key: change-with-the-times-van-mccoy
 lyrics_url: https://genius.com/Van-mccoy-change-with-the-times-lyrics
 name: Change With The Times
@@ -39,6 +42,8 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '1975-11-29'
+release_year: 1975
+runtime: 197781
 ---
 Change with the times
 Change with the times

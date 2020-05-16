@@ -1,8 +1,11 @@
 ---
+album: Come Away With Me
 artists:
 - Norah Jones
+external_ids:
+  spotify: spotify:track:5HUXKP6uCT4f6Y1vSnwZhv
 features: []
-genres: []
+first_released_as_single: true
 key: don-t-know-why-norah-jones
 lyrics_url: https://genius.com/Norah-jones-dont-know-why-lyrics
 name: Don't Know Why
@@ -131,6 +134,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '2003-04-26'
+release_year: 2002
+runtime: 187600
 ---
 I waited 'til I saw the sun
 I don't know why I didn't come

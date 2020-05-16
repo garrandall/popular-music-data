@@ -1,8 +1,11 @@
 ---
+album: Celebrity Skin
 artists:
 - Hole
+external_ids:
+  spotify: spotify:track:5bVOX6eyHsML2sB4aMlZEi
 features: []
-genres: []
+first_released_as_single: false
 key: malibu-hole
 lyrics_url: https://www.azlyrics.com/lyrics/hole/malibu.html
 name: Malibu
@@ -19,8 +22,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1999-03-13'
+release_year: 1998
+runtime: 230040
 ---
-
 Crash and burn
 All the stars explode tonight
 How'd you get so desperate?
@@ -77,6 +81,3 @@ I can't be near you
 The light just radiates
 I can't be near you
 The light just radiates
-
-
-

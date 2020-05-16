@@ -1,9 +1,12 @@
 ---
+album: On Tour With Eric Clapton
 artists:
 - Delaney
 - Bonnie
+external_ids:
+  spotify: spotify:track:24x3C7lOq2XSw4FNefAOnI
 features: []
-genres: []
+first_released_as_single: false
 key: where-there-s-a-will-there-s-a-way-delaney-bonnie
 lyrics_url: https://www.musixmatch.com/lyrics/Delaney-Bonnie/Where-There-s-a-Will-There-s-a-Way
 name: Where There's A Will There's A Way
@@ -16,6 +19,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1972-05-06'
+release_year: 1970
+runtime: 320200
 ---
 Honey, when we're together
 It seems like we both got

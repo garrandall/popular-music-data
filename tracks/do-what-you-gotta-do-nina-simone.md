@@ -1,8 +1,11 @@
 ---
+album: '''Nuff Said'
 artists:
 - Nina Simone
+external_ids:
+  spotify: spotify:track:1OzqCZabn8vRI4otj89ZQQ
 features: []
-genres: []
+first_released_as_single: false
 key: do-what-you-gotta-do-nina-simone
 lyrics_url: https://www.azlyrics.com/lyrics/ninasimone/dowhatyougottado.html
 name: Do What You Gotta Do
@@ -27,8 +30,9 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1968-11-16'
+release_year: 1968
+runtime: 179373
 ---
-
 Do what you gotta do
 Come on back see me when you can
 Man I can understand how it might be
@@ -65,6 +69,3 @@ Those sweet lips again
 Pay that no mind
 Find that dappled dream of yours
 Come on back and see me when you can
-
-
-

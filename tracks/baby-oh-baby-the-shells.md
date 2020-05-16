@@ -1,8 +1,11 @@
 ---
+album: The Dubs Meet The Shells
 artists:
 - The Shells
+external_ids:
+  spotify: spotify:track:7ydnbSJgu700d3ab1jpDBg
 features: []
-genres: []
+first_released_as_single: false
 key: baby-oh-baby-the-shells
 lyrics_url: https://www.musixmatch.com/lyrics/The-Shells/Baby-Oh-Baby
 name: Baby Oh Baby
@@ -39,6 +42,8 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '1961-02-06'
+release_year: 1960
+runtime: 148560
 ---
 Baby oh baby, I love you, love you so madly
 Baby oh baby, I need you, need you so badly

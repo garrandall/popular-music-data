@@ -1,8 +1,11 @@
 ---
+album: The Very Best of Peter, Paul and Mary
 artists:
 - Peter, Paul, and Mary
+external_ids:
+  spotify: spotify:track:2dZjrzmulQbM5AQjS0J6ms
 features: []
-genres: []
+first_released_as_single: false
 key: too-much-of-nothing-peter-paul-and-mary
 lyrics_url: https://www.azlyrics.com/lyrics/peterpaulandmary/toomuchofnothing.html
 name: Too Much Of Nothing
@@ -35,8 +38,9 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '1968-01-06'
+release_year: 1967
+runtime: 149346
 ---
-
 Too much of nothin' can make a man feel ill at ease
 One man's temper might rise, while the other man's temper might freeze.
 In the days of long confessions, we can not mock a soul
@@ -60,6 +64,3 @@ But when it's too much of nothin', it just makes a fella mean.
 
 Say hello to Valerie, say hello to Marion,
 Send them all my salary, on the waters of oblivion.
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Rocks The House
 artists:
 - Etta James
+external_ids:
+  spotify: spotify:track:6SoZkdugPfXghVpEEqSHCn
 features: []
-genres: []
+first_released_as_single: false
 key: baby-what-you-want-me-to-do-etta-james
 lyrics_url: https://www.azlyrics.com/lyrics/ettajames/babywhatyouwantmetodo.html
 name: Baby What You Want Me To Do
@@ -19,8 +22,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1964-02-15'
+release_year: 1963
+runtime: 254165
 ---
-
 You got me runnin', got me hidin'
 Run round hidin' runnin' anyway you want it.
 Let it roll.
@@ -43,6 +47,3 @@ Oh baby, honey what's wrong with you?
 Whoa!
 Oh baby, baby, honey, honey, honey what's wrong with you?
 You don't treat your momma like you used to do.
-
-
-

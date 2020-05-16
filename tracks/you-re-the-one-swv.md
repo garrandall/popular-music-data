@@ -1,8 +1,11 @@
 ---
+album: New Beginning
 artists:
 - SWV
+external_ids:
+  spotify: spotify:track:67ZorjDM25q7bETfLbHdfS
 features: []
-genres: []
+first_released_as_single: false
 key: you-re-the-one-swv
 lyrics_url: https://genius.com/Swv-youre-the-one-lyrics
 name: You're The One
@@ -87,6 +90,8 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1996-08-31'
+release_year: 1996
+runtime: 282600
 ---
 You're-the one-for-me
 

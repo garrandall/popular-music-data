@@ -1,8 +1,11 @@
 ---
+album: So I Can Love You / Untouched
 artists:
 - The Emotions
+external_ids:
+  spotify: spotify:track:0pKhawRu6D5RYTaINzrozu
 features: []
-genres: []
+first_released_as_single: false
 key: so-i-can-love-you-the-emotions
 lyrics_url: https://genius.com/The-emotions-so-i-can-love-you-lyrics
 name: So I Can Love You
@@ -47,6 +50,8 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '1969-07-26'
+release_year: 1969
+runtime: 169733
 ---
 Uh huh, yeah
 Uh huh, yeah

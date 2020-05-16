@@ -1,8 +1,11 @@
 ---
+album: Voulez-Vous
 artists:
 - ABBA
+external_ids:
+  spotify: spotify:track:6jJYlWqSUHXoX15nGk3Yfe
 features: []
-genres: []
+first_released_as_single: false
 key: voulez-vous-abba
 lyrics_url: https://www.azlyrics.com/lyrics/abba/voulezvous.html
 name: Voulez-Vous
@@ -19,8 +22,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1979-09-15'
+release_year: 1979
+runtime: 309160
 ---
-
 People everywhere
 A sense of expectation hanging in the air
 Giving out a spark
@@ -95,4 +99,3 @@ Voulez-vous (ah-ha)
 Ain't no big decision (ah-ha)
 You know what to do (ah-ha)
 I can still say voulez-vous
-

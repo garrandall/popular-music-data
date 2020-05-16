@@ -1,8 +1,11 @@
 ---
+album: Up All Night
 artists:
 - Kip Moore
+external_ids:
+  spotify: spotify:track:61voPX1C71rhwynuLQyajo
 features: []
-genres: []
+first_released_as_single: false
 key: beer-money-kip-moore
 lyrics_url: https://www.azlyrics.com/lyrics/kipmoore/beermoney.html
 name: Beer Money
@@ -87,8 +90,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2013-02-16'
+release_year: 2012
+runtime: 218146
 ---
-
 When the lights go down
 When you're stuck here in this town
 With nowhere to go
@@ -145,6 +149,3 @@ And I got a little beer money
 
 So come on, come on
 Yeah, come on, come on
-
-
-

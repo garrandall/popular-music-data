@@ -1,10 +1,13 @@
 ---
+album: Detroit Deli (A Taste Of Detroit)
 artists:
 - Slum Village
+external_ids:
+  spotify: spotify:track:7sZCAHP2duHwr5M5K7lHsb
 features:
 - Kanye West
 - John Legend
-genres: []
+first_released_as_single: false
 key: selfish-slum-village-kanye-west-john-legend
 lyrics_url: https://genius.com/Slum-village-selfish-lyrics
 name: Selfish
@@ -77,6 +80,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2004-09-11'
+release_year: 2004
+runtime: 225400
 ---
 I'm calling (yeah, maybe I'm selfish)
 Out to (I want you to myself, I can't help it)

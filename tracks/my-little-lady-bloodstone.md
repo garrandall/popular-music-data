@@ -1,8 +1,11 @@
 ---
+album: Riddle Of The Sphinx
 artists:
 - Bloodstone
+external_ids:
+  spotify: spotify:track:5Kyu0pQt8TbHCWbD1QLE2W
 features: []
-genres: []
+first_released_as_single: false
 key: my-little-lady-bloodstone
 lyrics_url: https://genius.com/Bloodstone-my-little-lady-lyrics
 name: My Little Lady
@@ -35,6 +38,8 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '1975-05-10'
+release_year: 1975
+runtime: 204493
 ---
 She's my little lady
 She keeps me together

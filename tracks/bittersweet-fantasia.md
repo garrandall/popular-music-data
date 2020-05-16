@@ -1,8 +1,11 @@
 ---
+album: Back To Me
 artists:
 - Fantasia
+external_ids:
+  spotify: spotify:track:6g2SOI0TxY8nfXzvwUQDhL
 features: []
-genres: []
+first_released_as_single: true
 key: bittersweet-fantasia
 lyrics_url: https://www.azlyrics.com/lyrics/fantasiabarrino/bittersweet.html
 name: Bittersweet
@@ -55,8 +58,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2010-10-09'
+release_year: 2010
+runtime: 242573
 ---
-
 Every now and then
 I still get a flashback
 Of the time I spent
@@ -140,6 +144,3 @@ I ain't gonna lie
 When I think about you, it's bittersweet
 
 It's bittersweet...
-
-
-

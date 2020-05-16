@@ -1,8 +1,11 @@
 ---
+album: The Many Faces Of The Detergents
 artists:
 - The Detergents
+external_ids:
+  spotify: spotify:track:5jEsZaQqkEwJW0yovgo1h5
 features: []
-genres: []
+first_released_as_single: false
 key: leader-of-the-laundromat-the-detergents
 lyrics_url: https://genius.com/The-detergents-leader-of-the-laundromat-lyrics
 name: Leader Of The Laundromat
@@ -39,6 +42,8 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '1965-01-23'
+release_year: 1964
+runtime: 192293
 ---
 Is he really goin' out with 'er? I don't know. Look, here he comes now. Let's ask
 'im. Hey, Murray, is it true Betty's wearin' your ring? Uh-huh

@@ -1,8 +1,11 @@
 ---
+album: The Original Washington Square
 artists:
 - The Village Stompers
+external_ids:
+  spotify: spotify:track:23WqQ6c807uuwih8RWCcbP
 features: []
-genres: []
+first_released_as_single: false
 key: washington-square-the-village-stompers
 lyrics_url: https://genius.com/The-village-stompers-washington-square-lyrics
 name: Washington Square
@@ -63,6 +66,8 @@ rankings:
   rank: 32
   ranking_list: Billboard Hot 100
   start_date: '1963-12-21'
+release_year: 1962
+runtime: 161186
 ---
 From Cape Cod Light to the Mississip', to San Francisco Bay
 They're talkin' 'bout this famous place, down Greenwich Village way

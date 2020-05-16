@@ -1,8 +1,11 @@
 ---
+album: ''
 artists:
 - Ronnie Dyson
+external_ids:
+  spotify: spotify:track:5QQOXL6qvhobRG7zfjQCXW
 features: []
-genres: []
+first_released_as_single: false
 key: -if-you-let-me-make-love-to-you-then--why-can-t-i-touch-you--ronnie-dyson
 lyrics_url: https://genius.com/Ronnie-dyson-if-you-let-me-make-love-to-you-then-why-cant-i-touch-you-lyrics
 name: (If You Let Me Make Love To You Then) Why Can't I Touch You?
@@ -63,6 +66,8 @@ rankings:
   rank: 24
   ranking_list: Billboard Hot 100
   start_date: '1970-09-19'
+release_year: 1970
+runtime: 203746
 ---
 If you let me make love to you
 Then why can't I touch you?

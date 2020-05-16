@@ -1,8 +1,11 @@
 ---
+album: All That Matters
 artists:
 - Michael Bolton
+external_ids:
+  spotify: spotify:track:6NEzgZRfoHWIyAaJMxUlXl
 features: []
-genres: []
+first_released_as_single: false
 key: go-the-distance-michael-bolton
 lyrics_url: https://genius.com/Michael-bolton-go-the-distance-single-version-lyrics
 name: Go The Distance
@@ -87,6 +90,8 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '1997-10-18'
+release_year: 1991
+runtime: 280800
 ---
 I have often dreamed, of a far-off place
 Where a hero's welcome, would be waiting for me

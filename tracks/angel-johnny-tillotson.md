@@ -1,8 +1,11 @@
 ---
+album: Johnny Tillotson's Best
 artists:
 - Johnny Tillotson
+external_ids:
+  spotify: spotify:track:6Zw5rJ5Elsu9turTswfiru
 features: []
-genres: []
+first_released_as_single: false
 key: angel-johnny-tillotson
 lyrics_url: https://genius.com/Johnny-tillotson-earth-angel-lyrics
 name: Angel
@@ -35,6 +38,8 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '1965-03-27'
+release_year: 1962
+runtime: 176666
 ---
 Earth angel earth angel will you be mine
 My darling dear love you all the time

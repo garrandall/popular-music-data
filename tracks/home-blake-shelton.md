@@ -1,8 +1,11 @@
 ---
+album: Blake Shelton
 artists:
 - Blake Shelton
+external_ids:
+  spotify: spotify:track:25ZqQokIirbPOaNhxwHd45
 features: []
-genres: []
+first_released_as_single: false
 key: home-blake-shelton
 lyrics_url: https://genius.com/Blake-shelton-home-lyrics
 name: Home
@@ -87,6 +90,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2008-09-06'
+release_year: 2001
+runtime: 240466
 ---
 Another summer day has come and gone away in Paris and Rome
 But I want to go home

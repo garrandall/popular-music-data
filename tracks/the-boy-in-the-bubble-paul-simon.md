@@ -1,8 +1,11 @@
 ---
+album: Graceland
 artists:
 - Paul Simon
+external_ids:
+  spotify: spotify:track:00IrSynHsun7DpDrLkRIjM
 features: []
-genres: []
+first_released_as_single: false
 key: the-boy-in-the-bubble-paul-simon
 lyrics_url: https://genius.com/Paul-simon-the-boy-in-the-bubble-lyrics
 name: The Boy In The Bubble
@@ -23,6 +26,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1987-03-28'
+release_year: 1986
+runtime: 239693
 ---
 It was a slow day
 And the sun was beating

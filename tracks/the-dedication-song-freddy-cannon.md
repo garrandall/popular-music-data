@@ -1,8 +1,11 @@
 ---
+album: Boom Boom Rock 'N' Roll
 artists:
 - Freddy Cannon
+external_ids:
+  spotify: spotify:track:2d1Qvf7lYynPE0UpZhz2ke
 features: []
-genres: []
+first_released_as_single: false
 key: the-dedication-song-freddy-cannon
 lyrics_url: https://genius.com/Freddy-cannon-the-dedication-song-lyrics
 name: The Dedication Song
@@ -31,6 +34,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1966-03-26'
+release_year: 1966
+runtime: 178093
 ---
 Uh-uh-uh-uh
 Don't touch that dial

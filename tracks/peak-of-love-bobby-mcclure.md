@@ -1,8 +1,11 @@
 ---
+album: 'Chess Radio Hits: 1962 - ''67'
 artists:
 - Bobby McClure
+external_ids:
+  spotify: spotify:track:58Dw9M6QasqMd3mDZFZHZ6
 features: []
-genres: []
+first_released_as_single: false
 key: peak-of-love-bobby-mcclure
 lyrics_url: https://genius.com/Bobby-mcclure-peak-of-love-lyrics
 name: Peak Of Love
@@ -15,6 +18,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1966-12-17'
+release_year: 1966
+runtime: 173200
 ---
 I've heard of love
 That makes you shiver

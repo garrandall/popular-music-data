@@ -1,9 +1,12 @@
 ---
+album: Danger (with Migos & Marshmello)
 artists:
 - Migos
 - Marshmello
+external_ids:
+  spotify: spotify:track:0nhVrTiCGiGRCoZOJiWzm1
 features: []
-genres: []
+first_released_as_single: true
 key: danger-migos-marshmello
 lyrics_url: https://www.azlyrics.com/lyrics/migos/danger.html
 name: Danger
@@ -12,9 +15,9 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '2017-12-30'
+release_year: 2017
+runtime: 214586
 ---
-
-
 Tryna get demons up outta me (demons)
 Turn to a beast, eat your arteries (beast)
 Deceasing opponents so properly (opponent)
@@ -106,6 +109,3 @@ Empowerment to all my people
 I can prove to you I'm a leader
 Run through the money, no Visa
 Forgive me 'cause my life illegal
-
-
-

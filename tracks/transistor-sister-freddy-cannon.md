@@ -1,8 +1,11 @@
 ---
+album: Boom Boom Rock 'N' Roll
 artists:
 - Freddy Cannon
+external_ids:
+  spotify: spotify:track:2BLq596hGgX7cr0QNii1jA
 features: []
-genres: []
+first_released_as_single: false
 key: transistor-sister-freddy-cannon
 lyrics_url: https://genius.com/Freddy-cannon-transistor-sister-lyrics
 name: Transistor Sister
@@ -39,6 +42,8 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1961-09-18'
+release_year: 1961
+runtime: 145173
 ---
 She's my transistor sister
 Ah, with a radio on her arm

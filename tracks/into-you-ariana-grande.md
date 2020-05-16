@@ -1,8 +1,11 @@
 ---
+album: Dangerous Woman
 artists:
 - Ariana Grande
+external_ids:
+  spotify: spotify:track:2meEiZKWkiN28gITzFwQo5
 features: []
-genres: []
+first_released_as_single: false
 key: into-you-ariana-grande
 lyrics_url: https://genius.com/Ariana-grande-into-you-lyrics
 name: Into You
@@ -103,6 +106,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '2016-11-12'
+release_year: 2016
+runtime: 244453
 ---
 I'm so into you, I can barely breathe
 And all I wanna do is to fall in deep

@@ -1,8 +1,11 @@
 ---
+album: Dangerous Man
 artists:
 - Trace Adkins
+external_ids:
+  spotify: spotify:track:3xtvbmRrXAb5m5ng0KPMSk
 features: []
-genres: []
+first_released_as_single: false
 key: swing-trace-adkins
 lyrics_url: https://www.azlyrics.com/lyrics/traceadkins/swing.html
 name: Swing
@@ -47,9 +50,10 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '2006-09-09'
+release_year: 2006
+runtime: 216706
 ---
-
- take me out to the ball game 
+take me out to the ball game 
 
 
 
@@ -95,7 +99,4 @@ Said could I take you home
 Hey boys I'll see you later 
 (It could be, it...it is!) 
 Goin' goin' goin' gone 
-(Swing batter batter swing batter batter swing batter batter swing) 
-
-
-
+(Swing batter batter swing batter batter swing batter batter swing)

@@ -1,9 +1,12 @@
 ---
+album: 'Stax-Volt: The Complete Singles 1959-1968'
 artists:
 - Rufus
 - Carla
+external_ids:
+  spotify: spotify:track:5tt4gWT4Y3Vwwjqa7VNeIJ
 features: []
-genres: []
+first_released_as_single: false
 key: night-time-is-the-right-time-rufus-carla
 lyrics_url: https://genius.com/Carla-thomas-and-rufus-thomas-night-time-is-the-right-time-lyrics
 name: Night Time Is The Right Time
@@ -12,6 +15,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1964-06-20'
+release_year: 1964
+runtime: 160400
 ---
 I've got someone to take...
 

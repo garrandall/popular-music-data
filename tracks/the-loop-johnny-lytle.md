@@ -1,8 +1,11 @@
 ---
+album: Essential Masters
 artists:
 - Johnny Lytle
+external_ids:
+  spotify: spotify:track:6g5NZg2VXJobSX3TmXq9nQ
 features: []
-genres: []
+first_released_as_single: false
 key: the-loop-johnny-lytle
 name: The Loop
 rankings:
@@ -26,5 +29,7 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '1966-02-19'
+release_year: 1966
+runtime: 138493
 ---
 

@@ -1,9 +1,12 @@
 ---
+album: Culture
 artists:
 - Migos
+external_ids:
+  spotify: spotify:track:2jTxollrIoPpqpGe4naUsv
 features:
 - Lil Uzi Vert
-genres: []
+first_released_as_single: false
 key: bad-and-boujee-migos-lil-uzi-vert
 lyrics_url: https://www.azlyrics.com/lyrics/migos/badandboujee.html
 name: Bad And Boujee
@@ -152,9 +155,9 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '2017-08-05'
+release_year: 2016
+runtime: 332690
 ---
-
-
 You know young rich niggas
 You know so we never really had no old money
 We got a whole lot of new money though, hah
@@ -315,6 +318,3 @@ My bitch is bad and boujee (bad)
 Cookin' up dope with a Uzi (dope)
 My niggas is savage, ruthless (hey)
 We got 30's and 100 rounds too (glah)
-
-
-

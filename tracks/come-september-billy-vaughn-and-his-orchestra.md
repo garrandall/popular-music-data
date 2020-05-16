@@ -1,8 +1,11 @@
 ---
+album: Sail Along Silv'ry Moon
 artists:
 - Billy Vaughn
+external_ids:
+  spotify: spotify:track:0a07A6CBRC2tMGxIJFlx7U
 features: []
-genres: []
+first_released_as_single: false
 key: come-september-billy-vaughn-and-his-orchestra
 name: Come September
 rankings:
@@ -30,5 +33,7 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1961-11-13'
+release_year: 1961
+runtime: 147800
 ---
 

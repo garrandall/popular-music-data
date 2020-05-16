@@ -1,8 +1,11 @@
 ---
+album: Foolish Behaviour
 artists:
 - Rod Stewart
+external_ids:
+  spotify: spotify:track:0vZCwj0Mq5uS8GwSIYo6Y7
 features: []
-genres: []
+first_released_as_single: false
 key: passion-rod-stewart
 lyrics_url: https://www.azlyrics.com/lyrics/rodstewart/passion.html
 name: Passion
@@ -87,8 +90,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1981-04-04'
+release_year: 1980
+runtime: 333200
 ---
-
 Somebody somewhere
 In the heat of the night
 Looking pretty dangerous
@@ -144,6 +148,3 @@ Some people die and kill for passion
 Nobody admits they need passion
 Some people are scared of passion
 Yeah passion
-
-
-

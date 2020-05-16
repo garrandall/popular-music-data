@@ -1,8 +1,11 @@
 ---
+album: Show Me
 artists:
 - The Cover Girls
+external_ids:
+  spotify: spotify:track:6r7Xmzlj0QQ0iqQiTV0yhW
 features: []
-genres: []
+first_released_as_single: true
 key: show-me-the-cover-girls
 lyrics_url: https://genius.com/The-cover-girls-show-me-lyrics
 name: Show Me
@@ -79,6 +82,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1987-06-27'
+release_year: 1986
+runtime: 456899
 ---
 You say that you really love me
 I'm always on your mind

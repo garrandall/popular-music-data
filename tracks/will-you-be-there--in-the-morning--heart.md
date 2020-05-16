@@ -1,8 +1,11 @@
 ---
+album: By Heart
 artists:
 - Heart
+external_ids:
+  spotify: spotify:track:7clH54ebQgJSdNEgiRJe5Z
 features: []
-genres: []
+first_released_as_single: false
 key: will-you-be-there--in-the-morning--heart
 lyrics_url: https://genius.com/Heart-will-you-be-there-in-the-morning-lyrics
 name: Will You Be There (In The Morning)
@@ -79,6 +82,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1994-04-23'
+release_year: 1989
+runtime: 180293
 ---
 I'm lying beside you, just thinking about us
 To tired to go to sleep, I'm too much in love

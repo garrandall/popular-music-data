@@ -1,8 +1,11 @@
 ---
+album: Hotel Happiness
 artists:
 - Brook Benton
+external_ids:
+  spotify: spotify:track:25d6YGtQZVu7ekkUrkVafS
 features: []
-genres: []
+first_released_as_single: false
 key: my-true-confession-brook-benton
 lyrics_url: https://www.musixmatch.com/lyrics/Brook-Benton/My-True-Confession
 name: My True Confession
@@ -43,6 +46,8 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1963-08-10'
+release_year: 1963
+runtime: 151051
 ---
 Dear Mr. Editor, won't you please
 Print my story in your magazine?

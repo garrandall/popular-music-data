@@ -1,8 +1,11 @@
 ---
+album: Rough Harvest
 artists:
 - John Mellencamp
+external_ids:
+  spotify: spotify:track:6gzExIUQ7TPszJ0AOTkSbY
 features: []
-genres: []
+first_released_as_single: false
 key: human-wheels-john-mellencamp
 lyrics_url: https://www.azlyrics.com/lyrics/johnmellencamp/humanwheels.html
 name: Human Wheels
@@ -63,8 +66,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1993-12-18'
+release_year: 1993
+runtime: 315066
 ---
-
 This land today, shall draw its last breath
 And take into its ancient depths
 This frail reminder of its giant, dreaming self.
@@ -105,6 +109,3 @@ Human wheels spin round and round
 While the clock keeps the pace.
 Human wheels spin round and round
 Help the light to my face.
-
-
-

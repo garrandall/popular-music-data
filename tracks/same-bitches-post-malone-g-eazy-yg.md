@@ -1,10 +1,13 @@
 ---
+album: beerbongs & bentleys
 artists:
 - Post Malone
+external_ids:
+  spotify: spotify:track:688QpQAwqsLdBR6lr13wK1
 features:
 - G-Eazy
 - YG
-genres: []
+first_released_as_single: false
 key: same-bitches-post-malone-g-eazy-yg
 lyrics_url: https://www.azlyrics.com/lyrics/postmalone/samebitches.html
 name: Same Bitches
@@ -21,9 +24,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2018-05-26'
+release_year: 2018
+runtime: 212466
 ---
-
-
 I been in L.A. too long
 I see the same bitches everywhere I go
 It don't really matter where they from
@@ -112,6 +115,3 @@ Population four million, how I see the same bitch?
 Population four million, how I see the same bitch? (I see the same bitch)
 Yeah, yeah, yeah
 Population four million, how I see the same bitch? (I see the same bitch)
-
-
-

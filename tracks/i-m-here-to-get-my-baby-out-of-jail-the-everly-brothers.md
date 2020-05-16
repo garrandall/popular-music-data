@@ -1,8 +1,11 @@
 ---
+album: The Greatest Hits Album (The Best Of)
 artists:
 - The Everly Brothers
+external_ids:
+  spotify: spotify:track:7pbQ6PXztctN8gEAPNBFbd
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-here-to-get-my-baby-out-of-jail-the-everly-brothers
 lyrics_url: https://genius.com/The-everly-brothers-im-here-to-get-my-baby-out-of-jail-lyrics
 name: I'm Here To Get My Baby Out Of Jail
@@ -31,6 +34,8 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '1962-11-17'
+release_year: 1957
+runtime: 217988
 ---
 "I'm not in your town to stay,"
 Said a lady old and gray

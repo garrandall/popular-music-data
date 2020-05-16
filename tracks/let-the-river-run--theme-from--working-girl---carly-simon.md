@@ -1,8 +1,11 @@
 ---
+album: A Company of Voices - Conspirare in Concert
 artists:
 - Carly Simon
+external_ids:
+  spotify: spotify:track:0ubzTDRfqwMcmbbpK15sQX
 features: []
-genres: []
+first_released_as_single: false
 key: let-the-river-run--theme-from--working-girl---carly-simon
 lyrics_url: https://genius.com/Carly-simon-let-the-river-run-lyrics
 name: Let The River Run (Theme From "Working Girl")
@@ -47,6 +50,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1989-05-06'
+release_year: 1989
+runtime: 140786
 ---
 We're coming to the edge
 Running on the water

@@ -1,8 +1,11 @@
 ---
+album: X
 artists:
 - Chris Brown
+external_ids:
+  spotify: spotify:track:0yz2J4wsXFCjMjpJ6A74yV
 features: []
-genres: []
+first_released_as_single: false
 key: fine-china-chris-brown
 lyrics_url: https://www.azlyrics.com/lyrics/chrisbrown/finechina.html
 name: Fine China
@@ -71,8 +74,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2013-08-03'
+release_year: 2013
+runtime: 213200
 ---
-
 Baby, does he do it for ya?
 When he's finished, does he step back and adore ya?
 I just gotta know
@@ -140,6 +144,3 @@ I'll be generous
 You're irreplaceable
 Collectible
 Just like fine China
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Mardi Gras
 artists:
 - Creedence Clearwater Revival
+external_ids:
+  spotify: spotify:track:1J8cfPxgGYYl3V76Gvii90
 features: []
-genres: []
+first_released_as_single: false
 key: sweet-hitch-hiker-creedence-clearwater-revival
 lyrics_url: https://www.azlyrics.com/lyrics/creedenceclearwaterrevival/sweethitchhiker.html
 name: Sweet Hitch-Hiker
@@ -43,8 +46,9 @@ rankings:
   rank: 22
   ranking_list: Billboard Hot 100
   start_date: '1971-09-11'
+release_year: 1969
+runtime: 176266
 ---
-
 Was Ridin' along side the highway, rollin' up the country side.
 Thinkin' I'm the devil's heatwave, what you burn in your crazy mind?
 Saw a slight distraction standin' by the road;
@@ -70,4 +74,3 @@ Wond'ring if you're goin' in my way, won't you give a poor boy a ride?
 Here she comes a ridin', Lord, She's flyin' high.
 But she was rollin' down, movin' too fast;
 Do you wanna, She was thinkin' can I last.
-

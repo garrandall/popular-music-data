@@ -1,8 +1,11 @@
 ---
+album: Eat To The Beat
 artists:
 - Blondie
+external_ids:
+  spotify: spotify:track:2nqUFHREsi4olsi7knIcxJ
 features: []
-genres: []
+first_released_as_single: true
 key: dreaming-blondie
 lyrics_url: https://genius.com/Blondie-dreaming-lyrics
 name: Dreaming
@@ -63,6 +66,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1979-12-29'
+release_year: 1979
+runtime: 188920
 ---
 When I met you in the restaurant
 You could tell I was no debutante

@@ -1,8 +1,11 @@
 ---
+album: I've Got So Much To Give
 artists:
 - Barry White
+external_ids:
+  spotify: spotify:track:1p5jtupWpNUuHB9iUenTrx
 features: []
-genres: []
+first_released_as_single: false
 key: i-ve-got-so-much-to-give-barry-white
 lyrics_url: https://genius.com/Barry-white-ive-got-so-much-to-give-lyrics
 name: I've Got So Much To Give
@@ -51,6 +54,8 @@ rankings:
   rank: 52
   ranking_list: Billboard Hot 100
   start_date: '1973-10-13'
+release_year: 1973
+runtime: 497426
 ---
 Don’t do that
 Baby, please don’t do that

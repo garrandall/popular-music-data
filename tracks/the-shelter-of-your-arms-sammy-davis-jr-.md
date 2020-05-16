@@ -1,8 +1,11 @@
 ---
+album: The Shelter Of Your Arms
 artists:
 - Sammy Davis Jr.
+external_ids:
+  spotify: spotify:track:1959PESdlKUTrT3Tx8wXkq
 features: []
-genres: []
+first_released_as_single: false
 key: the-shelter-of-your-arms-sammy-davis-jr-
 lyrics_url: https://www.azlyrics.com/lyrics/sammydavisjr/theshelterofyourarms.html
 name: The Shelter Of Your Arms
@@ -75,8 +78,9 @@ rankings:
   rank: 38
   ranking_list: Billboard Hot 100
   start_date: '1964-03-28'
+release_year: 1963
+runtime: 172133
 ---
-
 In this cold world
 No matter where I go
 The clouds are all the same
@@ -120,6 +124,3 @@ You'll never say goodbye
 And I will know the shelter of your arms
 And your love for all of my life
 Until the day I die
-
-
-

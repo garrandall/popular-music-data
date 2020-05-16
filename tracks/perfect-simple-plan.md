@@ -1,8 +1,11 @@
 ---
+album: Still Not Getting Any
 artists:
 - Simple Plan
+external_ids:
+  spotify: spotify:track:4x5xIB7C8bU0YdVZvrtsbx
 features: []
-genres: []
+first_released_as_single: true
 key: perfect-simple-plan
 lyrics_url: https://genius.com/Simple-plan-perfect-lyrics
 name: Perfect
@@ -87,6 +90,8 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '2004-03-13'
+release_year: 2003
+runtime: 277026
 ---
 Hey, dad, look at me
 Think back and talk to me

@@ -1,8 +1,11 @@
 ---
+album: Excitable Boy
 artists:
 - Warren Zevon
+external_ids:
+  spotify: spotify:track:6kotXaSQaGYxE62hVpdHWu
 features: []
-genres: []
+first_released_as_single: false
 key: werewolves-of-london-warren-zevon
 lyrics_url: https://genius.com/Warren-zevon-werewolves-of-london-lyrics
 name: Werewolves Of London
@@ -55,6 +58,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1978-06-10'
+release_year: 1978
+runtime: 209466
 ---
 I saw a werewolf with a Chinese menu in his hand
 Walking through the streets of Soho in the rain

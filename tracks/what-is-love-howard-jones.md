@@ -1,8 +1,11 @@
 ---
+album: The 12" Album
 artists:
 - Howard Jones
+external_ids:
+  spotify: spotify:track:37Q1Ql8jgueqnmN0D4sFEb
 features: []
-genres: []
+first_released_as_single: false
 key: what-is-love-howard-jones
 lyrics_url: https://genius.com/Howard-jones-what-is-love-lyrics
 name: What Is Love
@@ -59,6 +62,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1984-07-14'
+release_year: 1984
+runtime: 396093
 ---
 I love you whether or not you love me
 I love you even if you think that I don't

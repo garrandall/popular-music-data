@@ -1,8 +1,11 @@
 ---
+album: Boston
 artists:
 - Boston
+external_ids:
+  spotify: spotify:track:1FiApSwH6vBpvlZoX6dC6v
 features: []
-genres: []
+first_released_as_single: false
 key: more-than-a-feeling-boston
 lyrics_url: https://genius.com/Boston-more-than-a-feeling-lyrics
 name: More Than A Feeling
@@ -83,6 +86,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1977-01-22'
+release_year: 1975
+runtime: 284866
 ---
 I looked out this morning and the sun was gone
 Turned on some music to start my day

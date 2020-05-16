@@ -1,8 +1,11 @@
 ---
+album: WHITE TRASH ROADWORK
 artists:
 - Edgar Winter's White Trash
+external_ids:
+  spotify: spotify:track:5Np8Xbu2cMRReBOeT53fpX
 features: []
-genres: []
+first_released_as_single: false
 key: i-can-t-turn-you-loose-edgar-winter-s-white-trash
 lyrics_url: https://genius.com/Edgar-winters-white-trash-i-cant-turn-you-loose-lyrics
 name: I Can't Turn You Loose
@@ -23,6 +26,8 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1972-05-27'
+release_year: 1972
+runtime: 235466
 ---
 Do it, do it, hey
 

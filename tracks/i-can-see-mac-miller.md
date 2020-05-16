@@ -1,8 +1,11 @@
 ---
+album: Circles
 artists:
 - Mac Miller
+external_ids:
+  spotify: spotify:track:3R8CyhJfVjvgIROd5RSGhQ
 features: []
-genres: []
+first_released_as_single: false
 key: i-can-see-mac-miller
 lyrics_url: https://genius.com/Mac-miller-i-can-see-lyrics
 name: I Can See
@@ -11,6 +14,8 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '2020-02-01'
+release_year: 2020
+runtime: 220853
 ---
 I'm so close I can taste it
 The man on the moon keep playing

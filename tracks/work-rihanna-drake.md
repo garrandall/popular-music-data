@@ -1,9 +1,12 @@
 ---
+album: ANTI
 artists:
 - Rihanna
+external_ids:
+  spotify: spotify:track:72TFWvU3wUYdUuxejTTIzt
 features:
 - Drake
-genres: []
+first_released_as_single: false
 key: work-rihanna-drake
 lyrics_url: https://genius.com/Genius-deutsche-ubersetzungen-rihanna-work-ft-drake-deutsche-ubersetzung-lyrics
 name: Work
@@ -152,6 +155,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '2016-10-15'
+release_year: 2016
+runtime: 219320
 ---
 Arbeiten, arbeiten, arbeiten, arbeiten, arbeiten, arbeiten
 Er sagte, ich muss

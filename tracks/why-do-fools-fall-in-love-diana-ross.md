@@ -1,8 +1,11 @@
 ---
+album: Why Do Fools Fall in Love
 artists:
 - Diana Ross
+external_ids:
+  spotify: spotify:track:618K2eozL0nM4nf0d8Q5r6
 features: []
-genres: []
+first_released_as_single: false
 key: why-do-fools-fall-in-love-diana-ross
 lyrics_url: https://www.azlyrics.com/lyrics/dianaross/whydofoolsfallinlove.html
 name: Why Do Fools Fall In Love
@@ -87,8 +90,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1982-02-27'
+release_year: 1981
+runtime: 173413
 ---
-
 Ohwah, ohwah
 Ohwah, ohwah
 Ohwah, ohwah
@@ -123,6 +127,3 @@ It will reach defeat
 Tell me why
 Tell my why
 Why do fools fall in love
-
-
-

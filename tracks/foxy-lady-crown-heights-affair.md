@@ -1,8 +1,11 @@
 ---
+album: Dreaming a Dream
 artists:
 - Crown Heights Affair
+external_ids:
+  spotify: spotify:track:08CoHHW94tqa1CKVXGb28Z
 features: []
-genres: []
+first_released_as_single: false
 key: foxy-lady-crown-heights-affair
 lyrics_url: https://www.musixmatch.com/lyrics/Crown-Heights-Affair/Foxy-Lady
 name: Foxy Lady
@@ -55,6 +58,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1976-08-07'
+release_year: 1975
+runtime: 310800
 ---
 Mmm, foxy
 Oh you're foxy, foxy lady

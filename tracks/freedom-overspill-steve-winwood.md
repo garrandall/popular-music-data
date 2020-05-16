@@ -1,8 +1,11 @@
 ---
+album: Back In The High Life
 artists:
 - Steve Winwood
+external_ids:
+  spotify: spotify:track:7b4L2Hx4gAnpZvhhTBpJ9g
 features: []
-genres: []
+first_released_as_single: false
 key: freedom-overspill-steve-winwood
 lyrics_url: https://www.azlyrics.com/lyrics/stevewinwood/freedomoverspill.html
 name: Freedom Overspill
@@ -67,8 +70,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1987-01-03'
+release_year: 1986
+runtime: 337333
 ---
-
 Keep on talking all you want
 Well you don't waste a minute of time
 Who cares, who knows what's true
@@ -122,6 +126,3 @@ And it's come right back on you
 
 Freedom Overspill
 Freedom Overspill
-
-
-

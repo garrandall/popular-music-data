@@ -1,8 +1,11 @@
 ---
+album: Notorious
 artists:
 - Duran Duran
+external_ids:
+  spotify: spotify:track:1stJclD9IGUbxtUnl8CzG3
 features: []
-genres: []
+first_released_as_single: false
 key: notorious-duran-duran
 lyrics_url: https://www.azlyrics.com/lyrics/duranduran/notorious.html
 name: Notorious
@@ -75,8 +78,9 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1987-02-21'
+release_year: 1986
+runtime: 258000
 ---
-
 No-no-Notorious. Notorious. Ah. No-no-Notorious.
 
 I can't read about it.
@@ -121,6 +125,3 @@ That's why I've done it again. No-no-Notorious.
 No-no-Notorious. Yeah.
 That's why I've done it again. No-no-Notorious.
 No-no-Notorious.
-
-
-

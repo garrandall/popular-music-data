@@ -1,8 +1,11 @@
 ---
+album: Love Angel Music Baby (Deluxe Version)
 artists:
 - Gwen Stefani
+external_ids:
+  spotify: spotify:track:6HJxf2Vnveoo5Hm7sZ7qOp
 features: []
-genres: []
+first_released_as_single: false
 key: crash-gwen-stefani
 lyrics_url: https://www.azlyrics.com/lyrics/gwenstefani/crash.html
 name: Crash
@@ -39,8 +42,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2006-04-01'
+release_year: 2004
+runtime: 246613
 ---
-
 Back it up, back it up
 You got it, you got it
 Put your hands up, put your hands up
@@ -96,6 +100,3 @@ Drive back baby to me fast in your car
 (For me and you boo)
 I'm here waiting, crash into me real hard
 Come on baby, please hurry up, you know I'm waiting for you
-
-
-

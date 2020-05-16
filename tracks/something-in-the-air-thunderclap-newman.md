@@ -1,8 +1,11 @@
 ---
+album: Hollywood Dream
 artists:
 - Thunderclap Newman
+external_ids:
+  spotify: spotify:track:0emd9tHSVP4dK6UG4pcOFD
 features: []
-genres: []
+first_released_as_single: false
 key: something-in-the-air-thunderclap-newman
 lyrics_url: https://genius.com/Thunderclap-newman-something-in-the-air-lyrics
 name: Something In The Air
@@ -47,6 +50,8 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '1969-11-08'
+release_year: 1969
+runtime: 234360
 ---
 Call out the instigators
 Because there's something in the air

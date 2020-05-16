@@ -1,8 +1,11 @@
 ---
+album: The Complete Recordings (1964-1968)
 artists:
 - Ronny And The Daytonas
+external_ids:
+  spotify: spotify:track:5XgUHbrBYYsbUFXn6Zsywv
 features: []
-genres: []
+first_released_as_single: false
 key: dianne-dianne-ronny-and-the-daytonas
 name: Dianne Dianne
 rankings:
@@ -26,5 +29,7 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '1966-10-01'
+release_year: 1966
+runtime: 124880
 ---
 

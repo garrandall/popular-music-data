@@ -1,8 +1,11 @@
 ---
+album: "Performance: Rockin\u2019 The Filmore"
 artists:
 - Humble Pie
+external_ids:
+  spotify: spotify:track:5OCe1atAJIQ40FRPYsLEKf
 features: []
-genres: []
+first_released_as_single: false
 key: i-don-t-need-no-doctor-humble-pie
 lyrics_url: https://genius.com/Humble-pie-i-dont-need-no-doctor-live-lyrics
 name: I Don't Need No Doctor
@@ -39,6 +42,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1971-12-18'
+release_year: 1971
+runtime: 555226
 ---
 I don't need no doctor 'cause I know what's ailing me
 I don't need no doctor 'cause I know what's ailing me

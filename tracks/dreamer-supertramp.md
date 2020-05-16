@@ -1,8 +1,11 @@
 ---
+album: Crime Of The Century
 artists:
 - Supertramp
+external_ids:
+  spotify: spotify:track:5z4ljpMLi1LTF8UG9P53fH
 features: []
-genres: []
+first_released_as_single: false
 key: dreamer-supertramp
 lyrics_url: https://www.azlyrics.com/lyrics/supertramp/dreamer.html
 name: Dreamer
@@ -63,8 +66,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1980-12-20'
+release_year: 1974
+runtime: 213236
 ---
-
 Dreamer, you know you are a dreamer
 Well can you put your hands in your head, oh no!
 I said dreamer, you're nothing but a dreamer
@@ -103,6 +107,3 @@ I said dreamer, you're nothing but a dreamer
 Well, can you put your hands in your head, oh no!
 Oh no!
 Dreamer...
-
-
-

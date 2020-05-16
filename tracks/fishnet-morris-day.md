@@ -1,8 +1,11 @@
 ---
+album: Daydreaming
 artists:
 - Morris Day
+external_ids:
+  spotify: spotify:track:7wBfVgLHlr3GvCO6hqgRyu
 features: []
-genres: []
+first_released_as_single: false
 key: fishnet-morris-day
 lyrics_url: https://genius.com/Morris-day-fishnet-lyrics
 name: Fishnet
@@ -59,6 +62,8 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1988-05-14'
+release_year: 1987
+runtime: 366066
 ---
 Trapped at first glance
 I did a double take

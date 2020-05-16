@@ -1,8 +1,11 @@
 ---
+album: 'Welcome Home: The Many Moods of Walter Jackson'
 artists:
 - Walter Jackson
+external_ids:
+  spotify: spotify:track:598FfWukJrohuMHEzdnn2L
 features: []
-genres: []
+first_released_as_single: false
 key: suddenly-i-m-all-alone-walter-jackson
 lyrics_url: https://genius.com/Walter-jackson-suddenly-im-all-alone-lyrics
 name: Suddenly I'm All Alone
@@ -11,6 +14,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1965-02-13'
+release_year: 1965
+runtime: 178133
 ---
 Suddenly, I'm all alone
 Out of a clear blue sunny sky

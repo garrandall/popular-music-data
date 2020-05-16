@@ -1,8 +1,11 @@
 ---
+album: Home Style
 artists:
 - Brook Benton
+external_ids:
+  spotify: spotify:track:7udDurbLqcmXEGCyE0b8SX
 features: []
-genres: []
+first_released_as_single: false
 key: laura--tell-me-what-he-s-got-that-i-ain-t-got--brook-benton
 lyrics_url: https://www.musixmatch.com/lyrics/Brook-Benton/Willie-and-Laura-Mae-Jones
 name: Laura (Tell Me What He's Got That I Ain't Got)
@@ -23,6 +26,8 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1967-09-09'
+release_year: 1967
+runtime: 238560
 ---
 Willie and Laura Mae Jones were our neighbors a long time back
 They lived right down the road from us in a shack, just like our shack

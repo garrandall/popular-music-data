@@ -1,8 +1,11 @@
 ---
+album: Home with Donald Shirley
 artists:
 - Morris Albert
+external_ids:
+  spotify: spotify:track:2WcAQ6Bm5oMMXTPAHS24nw
 features: []
-genres: []
+first_released_as_single: false
 key: feelings-morris-albert
 lyrics_url: https://genius.com/Morris-albert-feelings-lyrics
 name: Feelings
@@ -135,6 +138,8 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '1976-01-24'
+release_year: 1975
+runtime: 329306
 ---
 Feelings, nothing more than feelings
 Trying to forget my feelings of love

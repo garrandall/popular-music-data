@@ -1,8 +1,11 @@
 ---
+album: Keep It Live
 artists:
 - Dazz Band
+external_ids:
+  spotify: spotify:track:2UCgWpa2r4ytWueNItYbWE
 features: []
-genres: []
+first_released_as_single: false
 key: let-it-whip-dazz-band
 lyrics_url: https://genius.com/Dazz-band-let-it-whip-lyrics
 name: Let It Whip
@@ -99,6 +102,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1982-09-25'
+release_year: 1982
+runtime: 281280
 ---
 Wanna see you with it
 Sho' could treat you right

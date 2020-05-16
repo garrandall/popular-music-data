@@ -1,9 +1,11 @@
 ---
+album: 'Just for Laughs: The Archives, Vol. 29'
 artists:
-- Cheech
-- Chong
+- Cheech & Chong
+external_ids:
+  spotify: spotify:track:5c4ae6HZez4gKb8YSEEAnI
 features: []
-genres: []
+first_released_as_single: false
 key: born-in-east-la-cheech-chong
 lyrics_url: https://www.musixmatch.com/lyrics/Cheech-Chong/Born-in-East-L-A
 name: Born In East LA
@@ -52,6 +54,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1985-11-30'
+release_year: 1985
+runtime: 170995
 ---
 Took a walk to the corner store
 Just to buy a loaf of bread and a box of s'mores

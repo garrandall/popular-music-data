@@ -1,8 +1,11 @@
 ---
+album: beerbongs & bentleys
 artists:
 - Post Malone
+external_ids:
+  spotify: spotify:track:5lZZmityu9TAjNvSY6GLhR
 features: []
-genres: []
+first_released_as_single: false
 key: zack-and-codeine-post-malone
 lyrics_url: https://www.azlyrics.com/lyrics/postmalone/zackandcodeine.html
 name: Zack And Codeine
@@ -19,8 +22,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2018-05-26'
+release_year: 2018
+runtime: 204360
 ---
-
 Man, my life so sweet, I feel like Cody (Cody)
 I wake up, I rinse my mouth up with fuckin' codeine (codeine)
 Thirty bottles, yeah the bill is on me (on me)
@@ -85,6 +89,3 @@ We ain't sleepin', we ain't sleepin', we ain't
 We ain't sleepin', we ain't sleepin' tonight
 We ain't sleepin', we ain't sleepin', no way
 Pour that drink 'cause we ain't sleepin' tonight
-
-
-

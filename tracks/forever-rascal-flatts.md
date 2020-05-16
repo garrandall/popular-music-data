@@ -1,8 +1,11 @@
 ---
+album: Unstoppable
 artists:
 - Rascal Flatts
+external_ids:
+  spotify: spotify:track:70RcoZEtPZjMpY1yLb13kK
 features: []
-genres: []
+first_released_as_single: false
 key: forever-rascal-flatts
 lyrics_url: https://www.azlyrics.com/lyrics/rascalflatts/forever.html
 name: Forever
@@ -11,8 +14,9 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '2009-04-04'
+release_year: 2009
+runtime: 256853
 ---
-
 Oh. Hiya.
 I miss you so much
 Your light, your smile, your way
@@ -53,6 +57,3 @@ No
 
 
 It wasn't long enough
-
-
-

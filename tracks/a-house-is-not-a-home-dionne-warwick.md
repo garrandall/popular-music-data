@@ -1,8 +1,11 @@
 ---
+album: Make Way For Dionne Warwick
 artists:
 - Dionne Warwick
+external_ids:
+  spotify: spotify:track:0p1U59WIkgZAhoASWGKOIs
 features: []
-genres: []
+first_released_as_single: false
 key: a-house-is-not-a-home-dionne-warwick
 lyrics_url: https://www.musixmatch.com/lyrics/Dionne-Warwick-feat-Ne-Yo/A-House-Is-Not-a-Home
 name: A House Is Not A Home
@@ -31,6 +34,8 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '1964-09-05'
+release_year: 1964
+runtime: 188693
 ---
 Whooa. whoooa. oh oh oh
 A chair is still a chair

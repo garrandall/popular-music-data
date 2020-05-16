@@ -1,8 +1,11 @@
 ---
+album: I've Never Been To Me
 artists:
 - Charlene
+external_ids:
+  spotify: spotify:track:7lBiaYRWhr1LpT0L1KS3bc
 features: []
-genres: []
+first_released_as_single: false
 key: it-ain-t-easy-comin--down-charlene
 lyrics_url: https://www.musixmatch.com/lyrics/Charlene/It-Ain-t-Easy-Comin-Down
 name: It Ain't Easy Comin' Down
@@ -23,6 +26,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1977-03-26'
+release_year: 1977
+runtime: 208880
 ---
 You were sun, I was sky
 And you gently moved into me

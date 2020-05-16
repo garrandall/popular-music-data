@@ -1,8 +1,11 @@
 ---
+album: Away From The World
 artists:
 - Dave Matthews Band
+external_ids:
+  spotify: spotify:track:5rG2QR9q2D2csdKsyaJTdh
 features: []
-genres: []
+first_released_as_single: false
 key: mercy-dave-matthews-band
 lyrics_url: https://www.musixmatch.com/lyrics/Dave-Matthews-Band/Mercy
 name: Mercy
@@ -11,6 +14,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2012-08-04'
+release_year: 2012
+runtime: 268720
 ---
 Don't give up
 I know you can see

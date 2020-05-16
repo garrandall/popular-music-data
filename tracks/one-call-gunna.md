@@ -1,8 +1,11 @@
 ---
+album: Drip or Drown 2
 artists:
 - Gunna
+external_ids:
+  spotify: spotify:track:2IoZOYOZDrWCOLoZoYedxQ
 features: []
-genres: []
+first_released_as_single: true
 key: one-call-gunna
 lyrics_url: https://www.musixmatch.com/lyrics/Gunna-3/One-Call
 name: One Call
@@ -15,6 +18,8 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '2019-03-09'
+release_year: 2019
+runtime: 195736
 ---
 Makers
 Run that back, Turbo

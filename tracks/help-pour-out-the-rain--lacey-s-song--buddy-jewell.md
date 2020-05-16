@@ -1,8 +1,11 @@
 ---
+album: Buddy Jewell
 artists:
 - Buddy Jewell
+external_ids:
+  spotify: spotify:track:2okFv8N7iYbwVyDei1OIb7
 features: []
-genres: []
+first_released_as_single: true
 key: help-pour-out-the-rain--lacey-s-song--buddy-jewell
 lyrics_url: https://genius.com/Buddy-jewell-help-pour-out-the-rain-laceys-song-lyrics
 name: Help Pour Out The Rain (Lacey's Song)
@@ -87,6 +90,8 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '2003-11-01'
+release_year: 2003
+runtime: 230109
 ---
 La, da, da, da
 De de de de de

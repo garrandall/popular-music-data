@@ -1,8 +1,11 @@
 ---
+album: MTV Unplugged
 artists:
 - Tony Bennett
+external_ids:
+  spotify: spotify:track:1v9WpFGH7kzN6sJnj8cqy6
 features: []
-genres: []
+first_released_as_single: false
 key: i-left-my-heart-in-san-francisco-tony-bennett
 lyrics_url: https://genius.com/Tony-bennett-i-left-my-heart-in-san-francisco-lyrics
 name: I Left My Heart In San Francisco
@@ -91,6 +94,8 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '1962-12-29'
+release_year: 1962
+runtime: 170266
 ---
 The loveliness of Paris seems somehow sadly gay
 The glory that was Rome is of another day

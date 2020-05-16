@@ -1,8 +1,11 @@
 ---
+album: Hey Jude
 artists:
 - Wilson Pickett
+external_ids:
+  spotify: spotify:track:1MMp1H2Kib2BCDtdL5nL63
 features: []
-genres: []
+first_released_as_single: false
 key: hey-jude-wilson-pickett
 lyrics_url: https://www.azlyrics.com/lyrics/wilsonpickett/heyjude.html
 name: Hey Jude
@@ -43,8 +46,9 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1969-02-15'
+release_year: 1968
+runtime: 247733
 ---
-
 Hey Jude, don't make it bad
 Take a sad song and make it better
 Remember to let her into your heart

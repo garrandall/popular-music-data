@@ -1,9 +1,12 @@
 ---
+album: Unleashed
 artists:
 - Toby Keith
 - Willie Nelson
+external_ids:
+  spotify: spotify:track:7E2DqvnVtbIrFrL5X6YH9Q
 features: []
-genres: []
+first_released_as_single: false
 key: beer-for-my-horses-toby-keith-willie-nelson
 lyrics_url: https://www.azlyrics.com/lyrics/tobykeith/beerformyhorses.html
 name: Beer For My Horses
@@ -88,9 +91,9 @@ rankings:
   rank: 52
   ranking_list: Billboard Hot 100
   start_date: '2003-09-13'
+release_year: 2002
+runtime: 204000
 ---
-
-
 Willie man, come on, six o'clock news
 Said somebody's been shot, somebody's been abused
 Somebody blew up a building
@@ -141,6 +144,3 @@ And we'll all meet back at the local saloon
 And we'll raise up our glasses against evil forces
 Singing, "Whiskey for my men, beer for my horses."
 Singing, "Whiskey for my men, beer for my horses."
-
-
-

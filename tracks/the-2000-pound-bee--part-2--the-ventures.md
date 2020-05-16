@@ -1,8 +1,11 @@
 ---
+album: 'Walk - Don''t Run: The Best Of The Ventures'
 artists:
 - The Ventures
+external_ids:
+  spotify: spotify:track:1onhlj358e7aUA2eszSnQl
 features: []
-genres: []
+first_released_as_single: false
 key: the-2000-pound-bee--part-2--the-ventures
 name: The 2000 Pound Bee (Part 2)
 rankings:
@@ -22,5 +25,7 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1963-03-09'
+release_year: 1962
+runtime: 248666
 ---
 

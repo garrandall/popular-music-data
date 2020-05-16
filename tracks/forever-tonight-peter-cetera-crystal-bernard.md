@@ -1,9 +1,12 @@
 ---
+album: Faithfully
 artists:
 - Peter Cetera
 - Crystal Bernard
+external_ids:
+  spotify: spotify:track:1XMg1GAPqGUGd8XUrzWa86
 features: []
-genres: []
+first_released_as_single: false
 key: forever-tonight-peter-cetera-crystal-bernard
 lyrics_url: https://www.azlyrics.com/lyrics/petercetera/iwannatakeforevertonight.html
 name: Forever Tonight
@@ -40,8 +43,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1995-12-09'
+release_year: 1995
+runtime: 277826
 ---
-
 Feel your breath on my shoulder
 And I know we couldn't get any closer
 I don't wanna act tough, I just wanna fall in love
@@ -91,6 +95,3 @@ I wanna take forever tonight
 Wanna stay in this moment forever (moment forever)
 I'm gonna give you all the love that I've got
 'Cause I can't live without you
-
-
-

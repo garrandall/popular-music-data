@@ -1,8 +1,11 @@
 ---
+album: Dutty Rock
 artists:
 - Sean Paul
+external_ids:
+  spotify: spotify:track:1K1vxhcrtlYR7PSYIBzPTF
 features: []
-genres: []
+first_released_as_single: false
 key: gimme-the-light-sean-paul
 lyrics_url: https://genius.com/Sean-paul-gimme-the-light-lyrics
 name: Gimme The Light
@@ -163,6 +166,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '2003-01-25'
+release_year: 2002
+runtime: 226400
 ---
 Jus gimme the light, yeah yeah
 Jus gimme the light, yo yo

@@ -1,8 +1,11 @@
 ---
+album: Waitin' In The Country
 artists:
 - Jason Michael Carroll
+external_ids:
+  spotify: spotify:track:1CUvTQETn9ORFXtXUtB0sI
 features: []
-genres: []
+first_released_as_single: true
 key: alyssa-lies-jason-michael-carroll
 lyrics_url: https://www.azlyrics.com/lyrics/jasonmichaelcarroll/alyssalies.html
 name: Alyssa Lies
@@ -55,8 +58,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2007-03-31'
+release_year: 2006
+runtime: 260653
 ---
-
 My little girl met a new friend
 Just the other day
 On the playground at school
@@ -113,6 +117,3 @@ When my little girl asked me why Alyssa lies
 
 Daddy tell me why
 Alyssa lies
-
-
-

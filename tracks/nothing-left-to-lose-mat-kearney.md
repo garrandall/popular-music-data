@@ -1,8 +1,11 @@
 ---
+album: Nothing Left To Lose
 artists:
 - Mat Kearney
+external_ids:
+  spotify: spotify:track:7F2irUt5wiN3cPK6YgkILk
 features: []
-genres: []
+first_released_as_single: false
 key: nothing-left-to-lose-mat-kearney
 lyrics_url: https://www.azlyrics.com/lyrics/matkearney/nothinglefttolose.html
 name: Nothing Left To Lose
@@ -87,8 +90,9 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '2007-03-24'
+release_year: 2004
+runtime: 263520
 ---
-
 Something's in the air tonight
 The sky's alive with a burning light
 You can mark my words something's about to break
@@ -125,4 +129,3 @@ From Hobart Street to here in Nashville
 I can still smell the pomegranates grow
 And I don't know how hard this wind will blow
 Or where we'll go
-

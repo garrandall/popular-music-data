@@ -1,8 +1,11 @@
 ---
+album: Rock with Sedaka
 artists:
 - Neil Sedaka
+external_ids:
+  spotify: spotify:track:18YPNs20cBfgqkY8YCJlOH
 features: []
-genres: []
+first_released_as_single: false
 key: you-mean-everything-to-me-neil-sedaka
 lyrics_url: https://www.azlyrics.com/lyrics/neilsedaka/youmeaneverythingtome.html
 name: You Mean Everything To Me
@@ -59,8 +62,9 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '1960-10-31'
+release_year: 1959
+runtime: 157866
 ---
-
 You are the answer to my lonely prayer
 You are an angel from above
 I was so lonely till you came to me
@@ -89,6 +93,3 @@ And say our love will always be
 Oh, my darling
 I love you so
 You mean everything to me
-
-
-

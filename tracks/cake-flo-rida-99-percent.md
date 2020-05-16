@@ -1,9 +1,12 @@
 ---
+album: This Is A Challenge
 artists:
 - Flo Rida
 - 99 Percent
+external_ids:
+  spotify: spotify:track:6t2ubAB4iSYOuIpRAOGd4t
 features: []
-genres: []
+first_released_as_single: false
 key: cake-flo-rida-99-percent
 lyrics_url: https://www.azlyrics.com/lyrics/florida/cake.html
 name: Cake
@@ -32,9 +35,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2017-06-03'
+release_year: 2016
+runtime: 157164
 ---
-
-
 You know when I come by, you know what it look like
 Everything lit, all the girls in free
 Anybody inside sipping on a good time
@@ -83,6 +86,3 @@ I came to leave with somebody
 I only came for the cake
 I only came for the cake
 I only came for the cake
-
-
-

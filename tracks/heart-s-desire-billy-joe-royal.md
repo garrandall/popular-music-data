@@ -1,8 +1,11 @@
 ---
+album: Billy Joe Royal Featuring "Hush"
 artists:
 - Billy Joe Royal
+external_ids:
+  spotify: spotify:track:65yHgYmPVDHwUW0tGPYKcM
 features: []
-genres: []
+first_released_as_single: false
 key: heart-s-desire-billy-joe-royal
 lyrics_url: https://genius.com/Billy-joe-royal-hearts-desire-lyrics
 name: Heart's Desire
@@ -19,6 +22,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1966-06-04'
+release_year: 1966
+runtime: 157520
 ---
 Baby, you're my heart's desire
 Your love sets my soul on fire

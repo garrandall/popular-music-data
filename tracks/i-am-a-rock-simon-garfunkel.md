@@ -1,8 +1,11 @@
 ---
+album: Sounds Of Silence
 artists:
 - Simon & Garfunkel
+external_ids:
+  spotify: spotify:track:0byOqNZN9ailhoORv5Ps0Z
 features: []
-genres: []
+first_released_as_single: false
 key: i-am-a-rock-simon-garfunkel
 lyrics_url: https://www.musixmatch.com/lyrics/Simon-Garfunkel/I-Am-a-Rock
 name: I Am A Rock
@@ -51,6 +54,8 @@ rankings:
   rank: 33
   ranking_list: Billboard Hot 100
   start_date: '1966-07-16'
+release_year: 1966
+runtime: 169520
 ---
 A winter's day
 In a deep and dark December

@@ -1,9 +1,12 @@
 ---
+album: A Summer Song
 artists:
 - Chad
 - Jeremy
+external_ids:
+  spotify: spotify:track:64XGEsoQZEUB3wuOipZjb1
 features: []
-genres: []
+first_released_as_single: false
 key: if-i-loved-you-chad-jeremy
 lyrics_url: https://genius.com/Chad-jeremy-if-i-loved-you-lyrics
 name: If I Loved You
@@ -44,6 +47,8 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '1965-04-17'
+release_year: 1965
+runtime: 137693
 ---
 Trees swayin' in the summer breeze
 Showin' off their silver leaves

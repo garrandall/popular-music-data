@@ -1,8 +1,11 @@
 ---
+album: Storyline - Commentary
 artists:
 - Hunter Hayes
+external_ids:
+  spotify: spotify:track:5lm3L2yNWgodUobSw7tqyT
 features: []
-genres: []
+first_released_as_single: false
 key: invisible-hunter-hayes
 lyrics_url: https://www.azlyrics.com/lyrics/hunterhayes/invisible.html
 name: Invisible
@@ -55,8 +58,9 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '2014-05-24'
+release_year: 2014
+runtime: 256399
 ---
-
 Crowded hallways are the loneliest places
 For outcasts and rebels
 Or anyone who just dares to be different
@@ -118,6 +122,3 @@ There's so much more to life than what you're feeling now
 And someday you'll look back on all these days
 And all this pain is gonna be invisible
 It'll be invisible
-
-
-

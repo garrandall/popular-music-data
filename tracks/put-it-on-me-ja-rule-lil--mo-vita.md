@@ -1,10 +1,13 @@
 ---
+album: The Fast and The Furious
 artists:
 - Ja Rule
+external_ids:
+  spotify: spotify:track:0mu59f9C3CwjFdtmf0j80v
 features:
 - Lil' Mo
 - Vita
-genres: []
+first_released_as_single: false
 key: put-it-on-me-ja-rule-lil--mo-vita
 lyrics_url: https://genius.com/Ja-rule-put-it-on-me-lyrics
 name: Put It On Me
@@ -117,6 +120,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2001-06-23'
+release_year: 2000
+runtime: 282826
 ---
 Where would I be without you?
 

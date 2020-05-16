@@ -1,8 +1,11 @@
 ---
+album: Minus Plus
 artists:
 - Smith
+external_ids:
+  spotify: spotify:track:0AwueygDcqp2lMYcr1mGNh
 features: []
-genres: []
+first_released_as_single: false
 key: what-am-i-gonna-do-smith
 name: What Am I Gonna Do
 rankings:
@@ -22,5 +25,7 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '1970-06-27'
+release_year: 1970
+runtime: 171800
 ---
 

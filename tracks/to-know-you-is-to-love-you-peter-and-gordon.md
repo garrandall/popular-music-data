@@ -1,8 +1,11 @@
 ---
+album: The Ultimate Peter And Gordon
 artists:
 - Peter And Gordon
+external_ids:
+  spotify: spotify:track:0s7JK7h4rlpAYG0pEJC9Ow
 features: []
-genres: []
+first_released_as_single: false
 key: to-know-you-is-to-love-you-peter-and-gordon
 lyrics_url: https://genius.com/Peter-and-gordon-to-know-you-is-to-love-you-lyrics
 name: To Know You Is To Love You
@@ -35,6 +38,8 @@ rankings:
   rank: 36
   ranking_list: Billboard Hot 100
   start_date: '1965-08-21'
+release_year: 1965
+runtime: 157826
 ---
 Why can't you see?
 Oh, how blind can you be?

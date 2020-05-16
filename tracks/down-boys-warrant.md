@@ -1,8 +1,11 @@
 ---
+album: Dirty Rotten Filthy Stinking Rich
 artists:
 - Warrant
+external_ids:
+  spotify: spotify:track:0dw3dXWx6dgp7Ri3HeDBUq
 features: []
-genres: []
+first_released_as_single: false
 key: down-boys-warrant
 lyrics_url: https://genius.com/Warrant-down-boys-lyrics
 name: Down Boys
@@ -71,6 +74,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1989-08-12'
+release_year: 1989
+runtime: 242927
 ---
 Certain things ya do really make me mad I must confess
 The way the street light sihlouettes your thighs inside your dress

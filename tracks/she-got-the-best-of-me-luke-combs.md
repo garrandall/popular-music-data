@@ -1,8 +1,11 @@
 ---
+album: This One's for You Too
 artists:
 - Luke Combs
+external_ids:
+  spotify: spotify:track:698eQRku24PIYPQPHItKlA
 features: []
-genres: []
+first_released_as_single: false
 key: she-got-the-best-of-me-luke-combs
 lyrics_url: https://www.azlyrics.com/lyrics/lukecombs/shegotthebestofme.html
 name: She Got The Best Of Me
@@ -99,8 +102,9 @@ rankings:
   rank: 38
   ranking_list: Billboard Hot 100
   start_date: '2019-01-26'
+release_year: 2018
+runtime: 183160
 ---
-
 Seventeen, you don't think that much about life
 You just live it
 Like Kerosene dancing around a fire
@@ -151,6 +155,3 @@ Yeah, you get what's left of me
 Cause she got the best of me
 Cause she got the best of me
 She got the best of me
-
-
-

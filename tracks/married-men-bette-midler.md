@@ -1,8 +1,11 @@
 ---
+album: Thighs And Whispers
 artists:
 - Bette Midler
+external_ids:
+  spotify: spotify:track:5aG9EKsuhdhjGVOimhMtLH
 features: []
-genres: []
+first_released_as_single: false
 key: married-men-bette-midler
 lyrics_url: https://www.azlyrics.com/lyrics/bettemidler/marriedmen.html
 name: Married Men
@@ -43,8 +46,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1979-07-28'
+release_year: 1979
+runtime: 226840
 ---
-
 The world is full of married men
 with wives who never understand.
 They're looking for someone to share
@@ -148,6 +152,3 @@ Again and again and again!
 They do it, I don't care what you do!
 Take off that mask, old boy!
 You did not listen to me, baby! . . .
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Showcase
 artists:
 - Patsy Cline
+external_ids:
+  spotify: spotify:track:6zFsz86nAj5gcvzyVqNL3k
 features: []
-genres: []
+first_released_as_single: false
 key: i-fall-to-pieces-patsy-cline
 lyrics_url: https://genius.com/Patsy-cline-i-fall-to-pieces-lyrics
 name: I Fall To Pieces
@@ -87,6 +90,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1961-10-02'
+release_year: 1961
+runtime: 171333
 ---
 I fall to pieces
 Each time I see you again

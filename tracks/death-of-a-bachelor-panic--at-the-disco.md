@@ -1,8 +1,11 @@
 ---
+album: Death of a Bachelor
 artists:
 - Panic! At The Disco
+external_ids:
+  spotify: spotify:track:1BECwm5qkaBwlbfo4kpYx8
 features: []
-genres: []
+first_released_as_single: false
 key: death-of-a-bachelor-panic--at-the-disco
 lyrics_url: https://genius.com/Panic-at-the-disco-death-of-a-bachelor-lyrics
 name: Death Of A Bachelor
@@ -11,6 +14,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2016-02-06'
+release_year: 2016
+runtime: 203506
 ---
 Do I look lonely? I see the shadows on my face
 People have told me I don't look the same

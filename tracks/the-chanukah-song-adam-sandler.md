@@ -1,8 +1,11 @@
 ---
+album: Eight Crazy Nights
 artists:
 - Adam Sandler
+external_ids:
+  spotify: spotify:track:1iw4mEFF05Kbk0pQtGIzeP
 features: []
-genres: []
+first_released_as_single: false
 key: the-chanukah-song-adam-sandler
 lyrics_url: https://www.azlyrics.com/lyrics/adamsandler/thechanukahsongpart3radioversion.html
 name: The Chanukah Song
@@ -15,9 +18,10 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1999-01-09'
+release_year: 1999
+runtime: 258000
 ---
-
- Put on your yarmulke, it's time for Chanukah...
+Put on your yarmulke, it's time for Chanukah...
 
  Sounds good, guys!
 
@@ -102,6 +106,3 @@ Have a happy, happy, happy, happy,
 happy, happy, happy, happy Chanukah!
 
 Buckle up for safety, everybody!
-
-
-

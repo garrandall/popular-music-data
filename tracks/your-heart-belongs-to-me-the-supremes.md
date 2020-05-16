@@ -1,8 +1,11 @@
 ---
+album: Meet The Supremes - Expanded Edition
 artists:
 - The Supremes
+external_ids:
+  spotify: spotify:track:20HpRfGcg3neSqboaQHvLC
 features: []
-genres: []
+first_released_as_single: false
 key: your-heart-belongs-to-me-the-supremes
 lyrics_url: https://www.azlyrics.com/lyrics/supremes/yourheartbelongstome.html
 name: Your Heart Belongs To Me
@@ -19,8 +22,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1962-09-15'
+release_year: 1962
+runtime: 156240
 ---
-
 Lover of mine
 Gone to a faraway land
 Serving your country
@@ -53,6 +57,3 @@ From far across the sea
 So remember that your heart belongs to me
 Remember your heart belongs to me
 Far across the sea
-
-
-

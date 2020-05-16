@@ -1,8 +1,11 @@
 ---
+album: Emotion
 artists:
 - Martina McBride
+external_ids:
+  spotify: spotify:track:5iCNGJRHGUC19dl0JdXZNl
 features: []
-genres: []
+first_released_as_single: false
 key: love-s-the-only-house-martina-mcbride
 lyrics_url: https://www.azlyrics.com/lyrics/martinamcbride/lovestheonlyhouse.html
 name: Love's The Only House
@@ -87,8 +90,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2000-06-17'
+release_year: 1999
+runtime: 313866
 ---
-
 I was standing in the grocery store line
 The one they marked express
 When this woman came through with about 25 things
@@ -146,6 +150,3 @@ Love's the only house big enough for all the pain
 Don't you know that
 Love's the only house big enough for all the pain in the world
 Love's the only house big enough for all the pain
-
-
-

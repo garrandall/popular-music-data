@@ -1,8 +1,11 @@
 ---
+album: The Black Parade
 artists:
 - My Chemical Romance
+external_ids:
+  spotify: spotify:track:7j31rVgGX9Q2blT92VBEA0
 features: []
-genres: []
+first_released_as_single: false
 key: teenagers-my-chemical-romance
 lyrics_url: https://www.azlyrics.com/lyrics/mychemicalromance/teenagers.html
 name: Teenagers
@@ -87,8 +90,9 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2007-11-10'
+release_year: 2006
+runtime: 161920
 ---
-
 They're gonna clean up your looks
 With all the lies in the books
 To make a citizen out of you
@@ -138,6 +142,3 @@ Teenagers scare the living shit out of me
 They could care less as long as someone'll bleed
 So darken your clothes or strike a violent pose
 Maybe they'll leave you alone, but not me
-
-
-

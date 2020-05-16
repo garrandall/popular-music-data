@@ -1,8 +1,11 @@
 ---
+album: Ultimate Up-Beat Gym Playlist, Vol. 2
 artists:
 - Tank
+external_ids:
+  spotify: spotify:track:3eQTF2mOBlgMmmSzXC466a
 features: []
-genres: []
+first_released_as_single: false
 key: maybe-i-deserve-tank
 lyrics_url: https://www.azlyrics.com/lyrics/tank/maybeideserve.html
 name: Maybe I Deserve
@@ -87,8 +90,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2001-07-28'
+release_year: 2001
+runtime: 273026
 ---
-
 Oh hey hey well well well
 Do you mind if I tell the truth for a second ya'll
 
@@ -150,6 +154,3 @@ and I deserve
 see a man can't take another man taking our woman
 we can't even stand waiting by the phone
 But we do the same shit
-
-
-

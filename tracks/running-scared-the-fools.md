@@ -1,8 +1,11 @@
 ---
+album: Sold Out / Heavy Mental
 artists:
 - The Fools
+external_ids:
+  spotify: spotify:track:6Eh3AeywAyfaYbsDgt5Zsn
 features: []
-genres: []
+first_released_as_single: false
 key: running-scared-the-fools
 lyrics_url: https://www.musixmatch.com/lyrics/The-Fools/Running-Scared
 name: Running Scared
@@ -35,6 +38,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1981-04-18'
+release_year: 1981
+runtime: 146400
 ---
 Just running scared
 Each place we go

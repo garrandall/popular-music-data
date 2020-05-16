@@ -1,8 +1,11 @@
 ---
+album: The One
 artists:
 - Elton John
+external_ids:
+  spotify: spotify:track:1KkPY76tgPzEnL8hdqTiIu
 features: []
-genres: []
+first_released_as_single: false
 key: simple-life-elton-john
 lyrics_url: https://genius.com/Elton-john-simple-life-lyrics
 name: Simple Life
@@ -71,6 +74,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1993-06-12'
+release_year: 1992
+runtime: 386000
 ---
 There's a breakdown on the runway
 And the timeless flights are gone

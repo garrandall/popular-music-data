@@ -1,9 +1,12 @@
 ---
+album: Paper Trail
 artists:
 - T.I.
+external_ids:
+  spotify: spotify:track:3jlbL2OTD5YmIunYzgQTAN
 features:
 - Rihanna
-genres: []
+first_released_as_single: false
 key: live-your-life-t-i--rihanna
 lyrics_url: https://genius.com/Ti-live-your-life-lyrics
 name: Live Your Life
@@ -120,6 +123,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2009-04-18'
+release_year: 2008
+runtime: 338853
 ---
 Miya hee, miya ho, miya hu, miya ha-ha
 Miya hee, miya ho, miya hu, miya ha-ha

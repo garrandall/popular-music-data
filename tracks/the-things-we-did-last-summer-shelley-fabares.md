@@ -1,8 +1,11 @@
 ---
+album: Things We Did Last Summer
 artists:
 - Shelley Fabares
+external_ids:
+  spotify: spotify:track:6oSL1V6KD4NXHyLxCntJLn
 features: []
-genres: []
+first_released_as_single: false
 key: the-things-we-did-last-summer-shelley-fabares
 lyrics_url: https://genius.com/Shelley-fabares-the-things-we-did-last-summer-lyrics
 name: The Things We Did Last Summer
@@ -31,6 +34,8 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '1962-10-20'
+release_year: 1962
+runtime: 147720
 ---
 (Da dee dum dum)
 (Da da da da da)

@@ -1,9 +1,12 @@
 ---
+album: B2K Presents "You Got Served" Soundtrack
 artists:
 - B2K
+external_ids:
+  spotify: spotify:track:2ZSp1BC7agz2TkgSATdi9U
 features:
 - Fabolous
-genres: []
+first_released_as_single: false
 key: badaboom-b2k-fabolous
 lyrics_url: https://www.azlyrics.com/lyrics/b2k/badaboom.html
 name: Badaboom
@@ -40,8 +43,9 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2004-02-07'
+release_year: 2000
+runtime: 221066
 ---
-
 Yea, yea, yea
 (It's B2K ya'll) It's B2K ya'll
 Welcome ladies... and gentlemen
@@ -136,8 +140,3 @@ Yea
 TUG
 (Hums)
 Mmm Badaboom
-
-
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Aldo Nova
 artists:
 - Aldo Nova
+external_ids:
+  spotify: spotify:track:6DaPh4AVnxfx8sRXMvzR5w
 features: []
-genres: []
+first_released_as_single: false
 key: foolin--yourself-aldo-nova
 lyrics_url: https://www.azlyrics.com/lyrics/aldonova/foolinyourself20.html
 name: Foolin' Yourself
@@ -31,8 +34,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1982-08-21'
+release_year: 1981
+runtime: 214826
 ---
-
 So long well it's sad to say
 But you're only foolin' yourself
 So long I'm glad you're happy that way
@@ -90,7 +94,4 @@ But you're only foolin' yourself
 So long I'm glad you're happy that way
 But you're only foolin' yourself
 So just go foolin' yourself
-You're foolin' yourself 
-
-
-
+You're foolin' yourself

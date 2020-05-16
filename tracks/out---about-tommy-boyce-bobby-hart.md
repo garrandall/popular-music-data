@@ -1,9 +1,12 @@
 ---
+album: Test Patterns
 artists:
 - Tommy Boyce
 - Bobby Hart
+external_ids:
+  spotify: spotify:track:2n1NPWcvShZKTDT1aZNoYu
 features: []
-genres: []
+first_released_as_single: false
 key: out---about-tommy-boyce-bobby-hart
 lyrics_url: https://www.musixmatch.com/lyrics/Tommy-Boyce-feat-Bobby-Hart/Out-and-About
 name: Out & About
@@ -36,6 +39,8 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '1967-08-26'
+release_year: 1967
+runtime: 150440
 ---
 Out and About
 Tommy Boyce and Bobby Hart

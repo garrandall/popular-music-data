@@ -1,8 +1,11 @@
 ---
+album: Hot Fuss
 artists:
 - The Killers
+external_ids:
+  spotify: spotify:track:0kYUrLVQOfx21xuXu7OGrT
 features: []
-genres: []
+first_released_as_single: false
 key: all-these-things-that-i-ve-done-the-killers
 lyrics_url: https://genius.com/The-killers-all-these-things-that-ive-done-lyrics
 name: All These Things That I've Done
@@ -63,6 +66,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2005-11-26'
+release_year: 2004
+runtime: 301573
 ---
 When there's nowhere else to run
 Is there room for one more son? One more son

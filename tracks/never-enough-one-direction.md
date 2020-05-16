@@ -1,8 +1,11 @@
 ---
+album: Made In The A.M.
 artists:
 - One Direction
+external_ids:
+  spotify: spotify:track:7rdP71W8x4UbJ0KAKBACbo
 features: []
-genres: []
+first_released_as_single: false
 key: never-enough-one-direction
 lyrics_url: https://genius.com/One-direction-never-enough-lyrics
 name: Never Enough
@@ -11,6 +14,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2015-12-05'
+release_year: 2015
+runtime: 213440
 ---
 Wanna pull an all nighter and get into something we'll never forget
 Wanna stay up and party the weekend away and not know when to quit

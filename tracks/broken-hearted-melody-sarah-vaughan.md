@@ -1,8 +1,11 @@
 ---
+album: Sarah Vaughan's Golden Hits
 artists:
 - Sarah Vaughan
+external_ids:
+  spotify: spotify:track:5X4lsUAYrT5m0IyL6Xm8T5
 features: []
-genres: []
+first_released_as_single: false
 key: broken-hearted-melody-sarah-vaughan
 lyrics_url: https://genius.com/Sarah-vaughan-broken-hearted-melody-lyrics
 name: Broken-Hearted Melody
@@ -83,11 +86,13 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1959-11-23'
+release_year: 1958
+runtime: 143360
 ---
 Br-oo-ken hearted me-ee-lo-dy
 Ooooonce you were our song of love
 Nooooow you just keep taunting me
-Wiiiiith the memory of (ba-da-da)
+With the memory of (ba-da-da)
 His tender love. Oh
 Broken hearted melody
 Must you keep reminding me
@@ -103,7 +108,7 @@ Suddenly I found, I was heaven bound
 Brooooken hearted melody
 Ooooonce you were our song of love
 Nooooow you just keep taunting me
-Wiiiiiith the memory of (ba-da-da)
+With the memory of (ba-da-da)
 His tender love, Oh
 Broken hearted melody
 Won't you bring him back to me

@@ -1,8 +1,11 @@
 ---
+album: The Album
 artists:
 - ABBA
+external_ids:
+  spotify: spotify:track:4CGoNahcgmwPdesr6f5Tng
 features: []
-genres: []
+first_released_as_single: false
 key: the-name-of-the-game-abba
 lyrics_url: https://www.azlyrics.com/lyrics/abba/thenameofthegame.html
 name: The Name Of The Game
@@ -71,8 +74,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1978-04-08'
+release_year: 1977
+runtime: 293933
 ---
-
 I've seen you twice, in a short time
 Only a week since we started
 It seems to me, for every time
@@ -147,4 +151,3 @@ But it means a lot, what's the name of the game?
 Does it mean anything to you?
 (But I think I can see in your face)
 That it means a lot
-

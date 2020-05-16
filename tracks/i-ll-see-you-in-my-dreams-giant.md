@@ -1,8 +1,11 @@
 ---
+album: Last Of The Runaways
 artists:
 - Giant
+external_ids:
+  spotify: spotify:track:5Pr7EYxfxsduely39MZBvF
 features: []
-genres: []
+first_released_as_single: false
 key: i-ll-see-you-in-my-dreams-giant
 lyrics_url: https://genius.com/Giant-ill-see-you-in-my-dreams-lyrics
 name: I'll See You In My Dreams
@@ -87,6 +90,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1990-08-04'
+release_year: 1989
+runtime: 286706
 ---
 Gone, the voice that used to fill the room is all but gone
 An echo of a perfect love that ended wrong

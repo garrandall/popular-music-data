@@ -1,8 +1,11 @@
 ---
+album: The Hit Sound of Dean Martin
 artists:
 - Dean Martin
+external_ids:
+  spotify: spotify:track:503134H69WUCaFfepslho0
 features: []
-genres: []
+first_released_as_single: false
 key: a-million-and-one-dean-martin
 lyrics_url: https://www.azlyrics.com/lyrics/deanmartin/amillionandone.html
 name: A Million And One
@@ -35,8 +38,9 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1966-09-03'
+release_year: 1966
+runtime: 175386
 ---
-
 (How many teardrops)
 Have I cried over you
 A million and one tears
@@ -67,6 +71,3 @@ A million and one dreams
 A million and two
 A million and one dreams
 A million and two
-
-
-

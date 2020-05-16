@@ -1,8 +1,11 @@
 ---
+album: Doin' My Thing
 artists:
 - Luke Bryan
+external_ids:
+  spotify: spotify:track:1YhFtqwcN138S6ng3MT1nN
 features: []
-genres: []
+first_released_as_single: false
 key: rain-is-a-good-thing-luke-bryan
 lyrics_url: https://www.azlyrics.com/lyrics/lukebryan/rainisagoodthing.html
 name: Rain Is A Good Thing
@@ -87,8 +90,9 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '2010-08-21'
+release_year: 2009
+runtime: 176160
 ---
-
 My daddy spent his life lookin' up at the sky
 He'd cuss kick the dust, sayin' son it's way too dry
 It clouds up in the city, the weather man complains
@@ -126,6 +130,3 @@ Start washin' all our worries down the drain
 Rain is a good thing
 
 Rain is a good thing, rain is a good thing, rain is a good thing
-
-
-

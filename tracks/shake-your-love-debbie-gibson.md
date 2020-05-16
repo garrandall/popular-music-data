@@ -1,8 +1,11 @@
 ---
+album: Out Of The Blue
 artists:
 - Debbie Gibson
+external_ids:
+  spotify: spotify:track:6gM3uxq9TPkms83bTSlK10
 features: []
-genres: []
+first_released_as_single: false
 key: shake-your-love-debbie-gibson
 lyrics_url: https://www.azlyrics.com/lyrics/debbiegibson/shakeyourlove.html
 name: Shake Your Love
@@ -95,9 +98,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1988-02-27'
+release_year: 1987
+runtime: 222933
 ---
-
-
 Shake your love
 I just can't shake your love
 Shake your love
@@ -195,6 +198,3 @@ Shake your love
 I just can't shake...
 Shake your love
 I just can't shake your love
-
-
-

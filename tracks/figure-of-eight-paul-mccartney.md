@@ -1,8 +1,11 @@
 ---
+album: Flowers In The Dirt
 artists:
 - Paul McCartney
+external_ids:
+  spotify: spotify:track:4o89rVjs2NpDQbhQmURsRs
 features: []
-genres: []
+first_released_as_single: false
 key: figure-of-eight-paul-mccartney
 lyrics_url: https://www.azlyrics.com/lyrics/paulmccartney/figureofeight.html
 name: Figure Of Eight
@@ -27,8 +30,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1990-02-10'
+release_year: 1989
+runtime: 207200
 ---
-
 (Well) You've Got Me Dancing In A Figure Of Eight,
 Don't Know If I'm Coming Or Going, I'm Early Or Late.
 Round And Round The Ring I Go,
@@ -51,6 +55,3 @@ It's Nothing More Than A Tape Loop In A Big Dance Hall.
 You've Got Me Running
 
 You've Got Me Running
-
-
-

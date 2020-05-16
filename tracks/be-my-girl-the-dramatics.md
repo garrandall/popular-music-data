@@ -1,8 +1,11 @@
 ---
+album: Joy Ride
 artists:
 - The Dramatics
+external_ids:
+  spotify: spotify:track:34nT7RkrF1bimYlQUFEpkq
 features: []
-genres: []
+first_released_as_single: false
 key: be-my-girl-the-dramatics
 lyrics_url: https://genius.com/The-dramatics-be-my-girl-lyrics
 name: Be My Girl
@@ -67,6 +70,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1977-04-16'
+release_year: 1976
+runtime: 271466
 ---
 Baby you know sometimes you make me want to scream
 Woo,uhhhhhhhh

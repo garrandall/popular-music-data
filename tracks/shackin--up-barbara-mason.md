@@ -1,8 +1,11 @@
 ---
+album: Soulful Truth
 artists:
 - Barbara Mason
+external_ids:
+  spotify: spotify:track:6CnO6iyIT90wYRBVdpz45D
 features: []
-genres: []
+first_released_as_single: false
 key: shackin--up-barbara-mason
 lyrics_url: https://genius.com/Barbara-mason-shackin-up-lyrics
 name: Shackin' Up
@@ -23,6 +26,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1975-05-10'
+release_year: 1975
+runtime: 259973
 ---
 Baby, they're at it again
 I can't even go outside

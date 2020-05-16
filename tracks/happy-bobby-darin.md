@@ -1,8 +1,11 @@
 ---
+album: Darin 1936-1973
 artists:
 - Bobby Darin
+external_ids:
+  spotify: spotify:track:4SgnMCUjOK7ZGi8TYBr9n2
 features: []
-genres: []
+first_released_as_single: false
 key: happy-bobby-darin
 lyrics_url: https://genius.com/Bobby-darin-make-someone-happy-lyrics
 name: Happy
@@ -39,6 +42,8 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1973-02-24'
+release_year: 1973
+runtime: 334440
 ---
 Make someone happy
 Make just one, someone happy

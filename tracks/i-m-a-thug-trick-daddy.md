@@ -1,8 +1,11 @@
 ---
+album: THUGS ARE US
 artists:
 - Trick Daddy
+external_ids:
+  spotify: spotify:track:6j2aNuhJJUnRj6UHcvn5PI
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-a-thug-trick-daddy
 lyrics_url: https://genius.com/Trick-daddy-im-a-thug-lyrics
 name: I'm A Thug
@@ -87,6 +90,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2001-12-01'
+release_year: 2001
+runtime: 254400
 ---
 Funk, hit me up with some of that thug
 Yup, just like that, hit 'em in the chest with it

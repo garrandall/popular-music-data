@@ -1,8 +1,11 @@
 ---
+album: A Session With Gary Lewis And The Playboys
 artists:
 - Gary Lewis And The Playboys
+external_ids:
+  spotify: spotify:track:6AxrqcdIE5lSjXxKUyBAU0
 features: []
-genres: []
+first_released_as_single: false
 key: count-me-in-gary-lewis-and-the-playboys
 lyrics_url: https://genius.com/Gary-lewis-and-the-playboys-count-me-in-lyrics
 name: Count Me In
@@ -51,6 +54,8 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '1965-06-12'
+release_year: 1965
+runtime: 142066
 ---
 If you need someone to count on
 Count me in

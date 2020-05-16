@@ -1,8 +1,11 @@
 ---
+album: In Holland
 artists:
 - Mr. Acker Bilk
+external_ids:
+  spotify: spotify:track:39e0LjVC05qRY15TMmWGMN
 features: []
-genres: []
+first_released_as_single: false
 key: stranger-on-the-shore-mr--acker-bilk
 name: Stranger On The Shore
 rankings:
@@ -90,5 +93,7 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '1962-08-04'
+release_year: 1962
+runtime: 188973
 ---
 

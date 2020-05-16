@@ -1,8 +1,11 @@
 ---
+album: When The Sun Goes Down
 artists:
 - Kenny Chesney
+external_ids:
+  spotify: spotify:track:1CjQCQsl9FDb3WhjGcFOzG
 features: []
-genres: []
+first_released_as_single: false
 key: there-goes-my-life-kenny-chesney
 lyrics_url: https://genius.com/Kenny-chesney-there-goes-my-life-lyrics
 name: There Goes My Life
@@ -87,6 +90,8 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '2004-03-20'
+release_year: 2003
+runtime: 302666
 ---
 All he could think about was I'm too young for this
 Got my whole life ahead

@@ -1,8 +1,11 @@
 ---
+album: Scorpion
 artists:
 - Drake
+external_ids:
+  spotify: spotify:track:3qN5qMTKyEEmiTZD38BNTT
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-upset-drake
 lyrics_url: https://genius.com/Drake-im-upset-lyrics
 name: I'm Upset
@@ -71,6 +74,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2018-09-22'
+release_year: 2018
+runtime: 214466
 ---
 Yeah
 I'm working on dying

@@ -1,8 +1,11 @@
 ---
+album: 'The Complete Capitol Singles: 1957-1966'
 artists:
 - Buck Owens and The Buckaroos
+external_ids:
+  spotify: spotify:track:3zmEZPUxIrT8au2P0G6A6i
 features: []
-genres: []
+first_released_as_single: false
 key: buckaroo-buck-owens-and-the-buckaroos
 name: Buckaroo
 rankings:
@@ -42,5 +45,7 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '1966-01-08'
+release_year: 1965
+runtime: 122240
 ---
 

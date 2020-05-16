@@ -1,8 +1,11 @@
 ---
+album: New Harvest...First Gathering
 artists:
 - Dolly Parton
+external_ids:
+  spotify: spotify:track:5A9scs52hDGefDOTRNio5o
 features: []
-genres: []
+first_released_as_single: false
 key: light-of-a-clear-blue-morning-dolly-parton
 lyrics_url: https://genius.com/Dolly-parton-light-of-a-clear-blue-morning-lyrics
 name: Light Of A Clear Blue Morning
@@ -27,6 +30,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1977-07-16'
+release_year: 1977
+runtime: 296253
 ---
 It's been a long dark night
 And I've been a-waiting for the morning

@@ -1,8 +1,11 @@
 ---
+album: Wildflower
 artists:
 - Lauren Alaina
+external_ids:
+  spotify: spotify:track:7t8oQycrEftd8NuWdCcfQb
 features: []
-genres: []
+first_released_as_single: false
 key: like-my-mother-does-lauren-alaina
 lyrics_url: https://www.azlyrics.com/lyrics/laurenalaina/likemymotherdoes.html
 name: Like My Mother Does
@@ -15,9 +18,9 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '2011-06-18'
+release_year: 2011
+runtime: 247813
 ---
-
-
 People always say
 I have a laugh
 Like my mother does
@@ -85,6 +88,3 @@ Like my mother does
 
 I hear people saying
 I'm starting to look like my mother does
-
-
-

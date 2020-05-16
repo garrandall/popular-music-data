@@ -1,8 +1,11 @@
 ---
+album: Let Your Dim Light Shine
 artists:
 - Soul Asylum
+external_ids:
+  spotify: spotify:track:5kKaNe8f5rR8cA3WE7Ol5N
 features: []
-genres: []
+first_released_as_single: false
 key: misery-soul-asylum
 lyrics_url: https://www.azlyrics.com/lyrics/soulasylum/misery.html
 name: Misery
@@ -63,8 +66,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1995-09-30'
+release_year: 1986
+runtime: 264506
 ---
-
 They say misery loves company
 We could start a company and make misery
 Frustrated Incorporated
@@ -101,6 +105,3 @@ Frustrated Incorporated
 (Forever after happily)
 (I know just what you need)
 Frustrated Incorporated
-
-
-

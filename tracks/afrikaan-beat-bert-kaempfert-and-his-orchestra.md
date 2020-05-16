@@ -1,8 +1,11 @@
 ---
+album: A Swingin' Safari
 artists:
 - Bert Kaempfert
+external_ids:
+  spotify: spotify:track:6nRodO257vUKvXrdgERzeq
 features: []
-genres: []
+first_released_as_single: false
 key: afrikaan-beat-bert-kaempfert-and-his-orchestra
 lyrics_url: https://genius.com/Bert-kaempfert-afrikaan-beat-lyrics
 name: Afrikaan Beat
@@ -47,6 +50,8 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1962-03-24'
+release_year: 1962
+runtime: 146133
 ---
 Afrikaan Beat, We're dancing to the Afrikaan Beat
 I'm burning like the tropical heat

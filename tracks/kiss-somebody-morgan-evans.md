@@ -1,8 +1,11 @@
 ---
+album: Things That We Drink To
 artists:
 - Morgan Evans
+external_ids:
+  spotify: spotify:track:2echQm1RPdCJjUWWJONcCq
 features: []
-genres: []
+first_released_as_single: true
 key: kiss-somebody-morgan-evans
 lyrics_url: https://www.azlyrics.com/lyrics/morganevans/kisssomebody.html
 name: Kiss Somebody
@@ -39,8 +42,9 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2018-09-01'
+release_year: 2017
+runtime: 205333
 ---
-
 Sometimes you gotta drink about somebody
 But that ain't goin' bring 'em back
 Sometimes you gotta cry and miss somebody
@@ -106,6 +110,3 @@ I know just what you're goin' through
 'Cause I wanna kiss somebody too
 Kiss somebody like you, I wanna kiss somebody like you
 I wanna kiss somebody
-
-
-

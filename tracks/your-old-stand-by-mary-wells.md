@@ -1,8 +1,11 @@
 ---
+album: Bye Bye Baby & More Mary Wells Classics
 artists:
 - Mary Wells
+external_ids:
+  spotify: spotify:track:3HRxEdvX2nvtfITYjiOTjF
 features: []
-genres: []
+first_released_as_single: false
 key: your-old-stand-by-mary-wells
 lyrics_url: https://genius.com/Mary-wells-your-old-stand-by-lyrics
 name: Your Old Stand By
@@ -39,6 +42,8 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '1963-07-13'
+release_year: 1963
+runtime: 166200
 ---
 She left you last night
 And today you called me on the phone

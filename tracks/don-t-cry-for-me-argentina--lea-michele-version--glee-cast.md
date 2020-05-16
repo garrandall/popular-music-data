@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music, The Complete Season Two'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:0T6Bs49TkEFPvxl3tZOkkF
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-cry-for-me-argentina--lea-michele-version--glee-cast
 lyrics_url: https://genius.com/Glee-cast-dont-cry-for-me-argentina-lyrics
 name: Don't Cry For Me Argentina (Lea Michele Version)
@@ -11,6 +14,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2010-12-18'
+release_year: 2010
+runtime: 310453
 ---
 Rachel:
 It won't be easy

@@ -1,9 +1,12 @@
 ---
+album: Climate Change
 artists:
 - Pitbull
+external_ids:
+  spotify: spotify:track:2moTY9zKAZkRsODU4TUXY6
 features:
 - Enrique Iglesias
-genres: []
+first_released_as_single: true
 key: messin--around-pitbull-enrique-iglesias
 lyrics_url: https://www.azlyrics.com/lyrics/pitbull/messinaround.html
 name: Messin' Around
@@ -40,9 +43,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2016-07-23'
+release_year: 2016
+runtime: 223265
 ---
-
-
 She's got me like na, na na, na na
 Na na na na, na na, na na
 (Mr. Worldwide)
@@ -151,6 +154,3 @@ I'm ready, girl, are you ready?
 I'm ready, girl, are you ready?
 I'm ready, girl, are you ready?
 Let's mess around
-
-
-

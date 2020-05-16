@@ -1,8 +1,11 @@
 ---
+album: Circulate
 artists:
 - Neil Sedaka
+external_ids:
+  spotify: spotify:track:7cceh0YGz9cbRPZ3haIgLZ
 features: []
-genres: []
+first_released_as_single: false
 key: next-door-to-an-angel-neil-sedaka
 lyrics_url: https://www.azlyrics.com/lyrics/neilsedaka/nextdoortoanangel281600.html
 name: Next Door To An Angel
@@ -51,8 +54,9 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '1962-12-15'
+release_year: 1960
+runtime: 146293
 ---
-
 I'm living right next door to an angel
 And I just found out today
 I'm living right next door to an angel
@@ -90,6 +94,3 @@ I'm feeling so good
 I'm the luckiest devil in the neighborhood
 I'm living right next door to an angel
 And I'm gonna make that angel mine
-
-
-

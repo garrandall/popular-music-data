@@ -1,8 +1,11 @@
 ---
+album: Shawn Mendes
 artists:
 - Shawn Mendes
+external_ids:
+  spotify: spotify:track:3nmOkWEPeiuSv3u6YXmpZg
 features: []
-genres: []
+first_released_as_single: false
 key: in-my-blood-shawn-mendes
 lyrics_url: https://genius.com/Shawn-mendes-in-my-blood-lyrics
 name: In My Blood
@@ -99,6 +102,8 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '2018-09-01'
+release_year: 2018
+runtime: 211838
 ---
 Help me, it's like the walls are caving in
 Sometimes I feel like giving up

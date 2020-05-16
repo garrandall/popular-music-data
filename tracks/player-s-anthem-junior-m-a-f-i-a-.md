@@ -1,8 +1,11 @@
 ---
+album: The Best of JUNIOR M.A.F.I.A.
 artists:
 - Junior M.A.F.I.A.
+external_ids:
+  spotify: spotify:track:5Zoswf6SbX8vm7Pam8eqlb
 features: []
-genres: []
+first_released_as_single: false
 key: player-s-anthem-junior-m-a-f-i-a-
 lyrics_url: https://www.azlyrics.com/lyrics/juniormafia/playersanthem.html
 name: Player's Anthem
@@ -87,9 +90,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1995-12-02'
+release_year: 1995
+runtime: 308720
 ---
-
-
 Junior M.A.F.I.A.
 Niggas... bitches...
 Uhh
@@ -164,6 +167,3 @@ Bitches love the way I bust a rhyme
 Cause they all in line screamin one more time
 Niggas, grab your dicks if you love hip-hop
 Bitches rub-a-dub in the back of the club, straight up
-
-
-

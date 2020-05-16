@@ -1,8 +1,11 @@
 ---
+album: Katrina & The Waves
 artists:
 - Katrina And The Waves
+external_ids:
+  spotify: spotify:track:05wIrZSwuaVWhcv5FfqeH0
 features: []
-genres: []
+first_released_as_single: false
 key: walking-on-sunshine-katrina-and-the-waves
 lyrics_url: https://www.azlyrics.com/lyrics/katrinaandthewaves/walkingonsunshine.html
 name: Walking On Sunshine
@@ -91,8 +94,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1985-08-10'
+release_year: 1985
+runtime: 238733
 ---
-
 Ow
 
 Mm, yeah
@@ -157,6 +161,3 @@ Oh, yeah, oh, yeah, oh, yeah
 And don't it feel good
 Oh, yeah, yeah, yeah, oh, yeah, oh, yeah
 And don't it feel good
-
-
-

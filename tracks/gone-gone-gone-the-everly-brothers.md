@@ -1,8 +1,11 @@
 ---
+album: Gone Gone Gone
 artists:
 - The Everly Brothers
+external_ids:
+  spotify: spotify:track:0Suvt6p6nR713tBFWXaGtr
 features: []
-genres: []
+first_released_as_single: false
 key: gone-gone-gone-the-everly-brothers
 lyrics_url: https://genius.com/The-everly-brothers-gone-gone-gone-lyrics
 name: Gone Gone Gone
@@ -47,6 +50,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1964-12-19'
+release_year: 1964
+runtime: 123920
 ---
 Some sunny day, baby
 When everything seems OK, baby

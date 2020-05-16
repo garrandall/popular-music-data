@@ -1,8 +1,11 @@
 ---
+album: California
 artists:
 - Blink-182
+external_ids:
+  spotify: spotify:track:7xddswKFyyesNjV8wpCGLo
 features: []
-genres: []
+first_released_as_single: true
 key: bored-to-death-blink-182
 lyrics_url: https://www.azlyrics.com/lyrics/blink182/boredtodeath.html
 name: Bored To Death
@@ -15,8 +18,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2016-07-30'
+release_year: 2016
+runtime: 238500
 ---
-
 There's an echo pulling out the meaning
 Rescuing a nightmare from a dream
 The voices in my head are always screaming
@@ -88,6 +92,3 @@ Oh oh, oh oh, oh oh, oh oh
 Oh oh, oh oh, oh oh, oh oh
 Oh oh, oh oh, oh oh, oh oh
 Oh oh
-
-
-

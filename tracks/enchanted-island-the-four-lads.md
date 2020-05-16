@@ -1,8 +1,11 @@
 ---
+album: The Singles Collection 1952-62
 artists:
 - The Four Lads
+external_ids:
+  spotify: spotify:track:57B3mnikM2T46LWm8Y9e8P
 features: []
-genres: []
+first_released_as_single: false
 key: enchanted-island-the-four-lads
 lyrics_url: https://genius.com/The-four-lads-enchanted-island-lyrics
 name: Enchanted Island
@@ -35,6 +38,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1958-09-15'
+release_year: 1958
+runtime: 181653
 ---
 True love
 Is an enchanted island

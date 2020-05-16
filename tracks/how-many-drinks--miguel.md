@@ -1,8 +1,11 @@
 ---
+album: Kaleidoscope Dream
 artists:
 - Miguel
+external_ids:
+  spotify: spotify:track:5ctk3VJoHoURSiwkCJn2bf
 features: []
-genres: []
+first_released_as_single: false
 key: how-many-drinks--miguel
 lyrics_url: https://genius.com/Miguel-how-many-drinks-lyrics
 name: How Many Drinks?
@@ -87,6 +90,8 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '2013-09-14'
+release_year: 2012
+runtime: 272986
 ---
 Frustration (watching you dance)
 Hesitation (to get in them pants)

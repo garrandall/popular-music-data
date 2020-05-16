@@ -1,8 +1,11 @@
 ---
+album: Monolith
 artists:
 - Kansas
+external_ids:
+  spotify: spotify:track:7cd7O1112Y5OQlvDQDz9Ws
 features: []
-genres: []
+first_released_as_single: false
 key: people-of-the-south-wind-kansas
 lyrics_url: https://www.azlyrics.com/lyrics/kansas/peopleofthesouthwind.html
 name: People Of The South Wind
@@ -55,8 +58,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1979-08-18'
+release_year: 1979
+runtime: 218693
 ---
-
 There are some who can still remember
 All the things that we used to do
 But the days of our youth were numbered
@@ -96,6 +100,3 @@ It's where we used to be free
 And that's the place for me
 It's just a state of my mind
 A thing that's so hard to find
-
-
-

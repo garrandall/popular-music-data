@@ -1,8 +1,11 @@
 ---
+album: Quiet Lies
 artists:
 - Juice Newton
+external_ids:
+  spotify: spotify:track:1j1HuywKoGVB6vhvPhpv3r
 features: []
-genres: []
+first_released_as_single: false
 key: break-it-to-me-gently-juice-newton
 lyrics_url: https://www.azlyrics.com/lyrics/juicenewton/breakittomegently.html
 name: Break It To Me Gently
@@ -75,8 +78,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1982-12-11'
+release_year: 1981
+runtime: 244040
 ---
-
 Break it to me gently
 Let me down the easy way
 Make me feel you still love me
@@ -105,6 +109,3 @@ Oh, give me a little time to ease the pain
 Love me just a little longer
 'Cause I'll never, never love again
 'Cause I'll never, no, never love again, oh
-
-
-

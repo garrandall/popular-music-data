@@ -1,8 +1,11 @@
 ---
+album: Spice Of Life
 artists:
 - Al Wilson
+external_ids:
+  spotify: spotify:track:00GEeAFrF8J0vnXrUYgxz5
 features: []
-genres: []
+first_released_as_single: false
 key: the-snake-al-wilson
 lyrics_url: https://www.azlyrics.com/lyrics/alwilson/thesnake.html
 name: The Snake
@@ -47,8 +50,9 @@ rankings:
   rank: 30
   ranking_list: Billboard Hot 100
   start_date: '1968-10-19'
+release_year: 1968
+runtime: 208960
 ---
-
 On her way to work one morning
 Down the path along side the lake
 A tender hearted woman saw a poor half frozen snake
@@ -88,6 +92,3 @@ Sighed the snake
 Sighed the snake, sighed the snake
 "Take me in, tender woman"
 Sighed the snake
-
-
-

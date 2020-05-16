@@ -1,8 +1,11 @@
 ---
+album: Loleatta
 artists:
 - Loleatta Holloway
+external_ids:
+  spotify: spotify:track:1LTUimZETHwjguw2f4GzVC
 features: []
-genres: []
+first_released_as_single: false
 key: dreamin-loleatta-holloway
 lyrics_url: https://genius.com/Loleatta-holloway-dreamin-lyrics
 name: Dreamin
@@ -43,6 +46,8 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1977-04-02'
+release_year: 1975
+runtime: 379626
 ---
 Who knows where your love goes
 When he closed the door

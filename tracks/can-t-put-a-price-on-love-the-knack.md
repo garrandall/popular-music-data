@@ -1,8 +1,11 @@
 ---
+album: But The Little Girls Understand
 artists:
 - The Knack
+external_ids:
+  spotify: spotify:track:59sjoZaoVRYCJVBQjrctm6
 features: []
-genres: []
+first_released_as_single: false
 key: can-t-put-a-price-on-love-the-knack
 lyrics_url: https://genius.com/The-knack-cant-put-a-price-on-love-lyrics
 name: Can't Put A Price On Love
@@ -31,6 +34,8 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1980-05-10'
+release_year: 1979
+runtime: 282533
 ---
 You smoked me like a cigarette
 I was burned I was cast aside

@@ -1,8 +1,11 @@
 ---
+album: The Seekers
 artists:
 - The Seekers
+external_ids:
+  spotify: spotify:track:28XkPUMCSPJq6C9ZB1lGcX
 features: []
-genres: []
+first_released_as_single: false
 key: morningtown-ride-the-seekers
 lyrics_url: https://www.azlyrics.com/lyrics/seekers/morningtownride.html
 name: Morningtown Ride
@@ -35,8 +38,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1967-04-01'
+release_year: 1967
+runtime: 161400
 ---
-
 Train whistle blowing makes a sleepy noise
 Underneath their blankets go all the girls and boys
 
@@ -62,6 +66,3 @@ Somewhere there is Morningtown many miles away
 Rocking rolling riding out along the bay
 All bound for Morningtown many miles away
 All bound for Morningtown many miles away
-
-
-

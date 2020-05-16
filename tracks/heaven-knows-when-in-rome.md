@@ -1,8 +1,11 @@
 ---
+album: When In Rome
 artists:
 - When In Rome
+external_ids:
+  spotify: spotify:track:1CS1uStCJCkWuAdDuauAxA
 features: []
-genres: []
+first_released_as_single: false
 key: heaven-knows-when-in-rome
 lyrics_url: https://genius.com/When-in-rome-heaven-knows-lyrics
 name: Heaven Knows
@@ -15,6 +18,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1989-02-25'
+release_year: 1988
+runtime: 236733
 ---
 Heaven knows I've tried, but nothing will give way at all
 I always see your face at the start of every day

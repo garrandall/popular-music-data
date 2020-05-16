@@ -1,8 +1,11 @@
 ---
+album: Sweet Talker (Deluxe Version)
 artists:
 - Jessie J
+external_ids:
+  spotify: spotify:track:4PYiIgzcp4o5pEYji1xY9q
 features: []
-genres: []
+first_released_as_single: false
 key: masterpiece-jessie-j
 lyrics_url: https://www.azlyrics.com/lyrics/jessiej/masterpiece.html
 name: Masterpiece
@@ -19,8 +22,9 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '2015-03-28'
+release_year: 2014
+runtime: 220653
 ---
-
 So much pressure
 Why so loud?
 If you don't like my sound
@@ -102,6 +106,3 @@ Oh, oh (yeah)
 Oh, ah (hey)
 Oh, oh (still working on, still working on)
 Oh, ah (still working on my masterpiece)
-
-
-

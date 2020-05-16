@@ -1,8 +1,11 @@
 ---
+album: Red River Blue
 artists:
 - Blake Shelton
+external_ids:
+  spotify: spotify:track:0w9LJae3sVlZlH2CnxTInF
 features: []
-genres: []
+first_released_as_single: false
 key: god-gave-me-you-blake-shelton
 lyrics_url: https://genius.com/Blake-shelton-god-gave-me-you-lyrics
 name: God Gave Me You
@@ -107,6 +110,8 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '2012-01-14'
+release_year: 2011
+runtime: 229533
 ---
 I've been a walking heartache
 I've made a mess of me

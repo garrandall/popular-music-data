@@ -1,8 +1,11 @@
 ---
+album: Maxwell's Urban Hang Suite
 artists:
 - Maxwell
+external_ids:
+  spotify: spotify:track:5Z5iZHSuXCQ24q616QclDq
 features: []
-genres: []
+first_released_as_single: false
 key: ascension--don-t-ever-wonder--maxwell
 lyrics_url: https://genius.com/Maxwell-ascension-dont-ever-wonder-lyrics
 name: Ascension (Don't Ever Wonder)
@@ -79,6 +82,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1996-12-14'
+release_year: 1983
+runtime: 226333
 ---
 It happened the moment, when you were revealed
 Cause you were a dream that you should not have been

@@ -1,8 +1,11 @@
 ---
+album: Self Portrait
 artists:
 - Bob Dylan
+external_ids:
+  spotify: spotify:track:00cs7mlkTcIIoWnm8G0U0l
 features: []
-genres: []
+first_released_as_single: false
 key: wigwam-bob-dylan
 lyrics_url: https://genius.com/Bob-dylan-wigwam-lyrics
 name: Wigwam
@@ -35,6 +38,8 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '1970-09-05'
+release_year: 1970
+runtime: 188253
 ---
 Da da dah da da
 Dada da-da dah de dum

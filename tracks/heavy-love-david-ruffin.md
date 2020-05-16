@@ -1,8 +1,11 @@
 ---
+album: Who I Am
 artists:
 - David Ruffin
+external_ids:
+  spotify: spotify:track:32TVpiLS85SVN3lvE6pN96
 features: []
-genres: []
+first_released_as_single: false
 key: heavy-love-david-ruffin
 lyrics_url: https://www.musixmatch.com/lyrics/David-Ruffin/Heavy-Love
 name: Heavy Love
@@ -35,6 +38,8 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '1976-05-01'
+release_year: 1975
+runtime: 292706
 ---
 You left a yearning, in my heart
 And I can't soothe it, naw, naw, baby

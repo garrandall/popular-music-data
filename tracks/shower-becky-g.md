@@ -1,8 +1,11 @@
 ---
+album: Shower
 artists:
 - Becky G
+external_ids:
+  spotify: spotify:track:3DmW6y7wTEYHJZlLo1r6XJ
 features: []
-genres: []
+first_released_as_single: true
 key: shower-becky-g
 lyrics_url: https://genius.com/Becky-g-shower-lyrics
 name: Shower
@@ -87,6 +90,8 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '2014-11-01'
+release_year: 2014
+runtime: 206166
 ---
 I don't know, it's just something about ya (Woo)
 Got me feelin' like I can't be without ya (Woo)

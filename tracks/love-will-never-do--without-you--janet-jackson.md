@@ -1,8 +1,11 @@
 ---
+album: Rhythm Nation 1814
 artists:
 - Janet Jackson
+external_ids:
+  spotify: spotify:track:1SkJ8HjZUZRPYT3R2rh5sA
 features: []
-genres: []
+first_released_as_single: false
 key: love-will-never-do--without-you--janet-jackson
 lyrics_url: https://www.azlyrics.com/lyrics/janetjackson/lovewillneverdowithoutyou.html
 name: Love Will Never Do (Without You)
@@ -95,8 +98,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1991-04-13'
+release_year: 1989
+runtime: 350000
 ---
-
 Our friends think we're opposites
 Falling in and out of love
 They all said we'd never last
@@ -124,6 +128,3 @@ They said it wouldn't last
 We had to prove them wrong
 Cause I've learned in the past
 That love will never do without you
-
-
-

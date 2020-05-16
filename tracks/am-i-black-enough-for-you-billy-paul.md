@@ -1,8 +1,11 @@
 ---
+album: 360 Degrees of Billy Paul
 artists:
 - Billy Paul
+external_ids:
+  spotify: spotify:track:4xtSzRYtnU4IUqz3gksO9n
 features: []
-genres: []
+first_released_as_single: false
 key: am-i-black-enough-for-you-billy-paul
 lyrics_url: https://www.azlyrics.com/lyrics/billypaul/amiblackenoughforyou.html
 name: Am I Black Enough For You
@@ -27,8 +30,9 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1973-05-05'
+release_year: 1972
+runtime: 317093
 ---
-
 Am I black enough for you
 Am I black enough for you
 Am I black enough for you
@@ -132,6 +136,3 @@ We got to stay
 Black enough for you
 I gotta, gotta black
 Black enough for you...
-
-
-

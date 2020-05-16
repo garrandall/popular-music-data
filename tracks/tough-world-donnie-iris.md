@@ -1,8 +1,11 @@
 ---
+album: '20th Century Masters: The Millennium Collection: Best of Donnie Iris'
 artists:
 - Donnie Iris
+external_ids:
+  spotify: spotify:track:1sIyPQOBFFkqUOKXg5qjiI
 features: []
-genres: []
+first_released_as_single: false
 key: tough-world-donnie-iris
 lyrics_url: https://www.azlyrics.com/lyrics/donnieiris/toughworld.html
 name: Tough World
@@ -31,8 +34,9 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1982-11-27'
+release_year: 1982
+runtime: 227666
 ---
-
 Baby whatcha gonna do
 Go ahead and make your move
 First you say ya love me
@@ -64,6 +68,3 @@ I'm gonna walk right out the door
 And I'm gonna make it
 Yeah I'm gonna make it
 'Cause I don't need you anymore
-
-
-

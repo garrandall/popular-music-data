@@ -1,8 +1,11 @@
 ---
+album: Christmas Pop
 artists:
 - Los Del Rio
+external_ids:
+  spotify: spotify:track:5gC7cwZNKqaNLlvHlLjjqE
 features: []
-genres: []
+first_released_as_single: false
 key: macarena-christmas-los-del-rio
 lyrics_url: https://genius.com/Los-del-rio-macarena-christmas-lyrics
 name: Macarena Christmas
@@ -23,6 +26,8 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '1997-01-11'
+release_year: 1996
+runtime: 253266
 ---
 Joy to the world, Joy to the world
 Joy to the world, Joy to the world

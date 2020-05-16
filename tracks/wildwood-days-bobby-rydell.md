@@ -1,8 +1,11 @@
 ---
+album: Bobby Rydell Sings Wild (wood) Days
 artists:
 - Bobby Rydell
+external_ids:
+  spotify: spotify:track:2RWuJ6vBEFqB2xfrAI5Aal
 features: []
-genres: []
+first_released_as_single: false
 key: wildwood-days-bobby-rydell
 lyrics_url: https://genius.com/Bobby-rydell-wildwood-days-lyrics
 name: Wildwood Days
@@ -43,6 +46,8 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1963-07-06'
+release_year: 1963
+runtime: 149933
 ---
 Spring'll soon be gone (Wildwood days)
 Summer's comin' on (Wildwood days)

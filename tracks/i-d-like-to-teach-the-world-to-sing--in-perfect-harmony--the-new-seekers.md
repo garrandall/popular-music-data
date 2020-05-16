@@ -1,8 +1,11 @@
 ---
+album: We'd Like To Teach The World To Sing
 artists:
 - The New Seekers
+external_ids:
+  spotify: spotify:track:0SHvjVmHnLRFbdiHFWDes7
 features: []
-genres: []
+first_released_as_single: false
 key: i-d-like-to-teach-the-world-to-sing--in-perfect-harmony--the-new-seekers
 lyrics_url: https://genius.com/The-new-seekers-id-like-to-teach-the-world-to-sing-in-perfect-harmony-lyrics
 name: I'd Like To Teach The World To Sing (In Perfect Harmony)
@@ -51,6 +54,8 @@ rankings:
   rank: 31
   ranking_list: Billboard Hot 100
   start_date: '1972-02-12'
+release_year: 1971
+runtime: 148906
 ---
 I'd like to build the world a home
 And furnish it with love

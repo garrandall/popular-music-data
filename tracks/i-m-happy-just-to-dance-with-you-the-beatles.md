@@ -1,8 +1,11 @@
 ---
+album: A Hard Day's Night
 artists:
 - The Beatles
+external_ids:
+  spotify: spotify:track:0gd50I2gKioJ59C827EdAY
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-happy-just-to-dance-with-you-the-beatles
 lyrics_url: https://genius.com/The-beatles-im-happy-just-to-dance-with-you-lyrics
 name: I'm Happy Just To Dance With You
@@ -11,6 +14,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1964-08-01'
+release_year: 1964
+runtime: 116373
 ---
 Before this dance is through
 I think I'll love you too

@@ -1,8 +1,11 @@
 ---
+album: Moonlight Cocktails
 artists:
 - The Rivieras
+external_ids:
+  spotify: spotify:track:1Up1sUeAAL1LzvjpPYFyIP
 features: []
-genres: []
+first_released_as_single: false
 key: moonlight-serenade-the-rivieras
 lyrics_url: https://www.musixmatch.com/lyrics/The-Rivieras/Moonlight-Serenade
 name: Moonlight Serenade
@@ -51,6 +54,8 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '1959-04-20'
+release_year: 1959
+runtime: 173466
 ---
 I stand at your gate
 And the song that I sing in the moonlight

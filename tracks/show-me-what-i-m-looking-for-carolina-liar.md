@@ -1,8 +1,11 @@
 ---
+album: Coming To Terms
 artists:
 - Carolina Liar
+external_ids:
+  spotify: spotify:track:2h8iXIwEdEnQywhFC4q5e5
 features: []
-genres: []
+first_released_as_single: false
 key: show-me-what-i-m-looking-for-carolina-liar
 lyrics_url: https://genius.com/Carolina-liar-show-me-what-im-looking-for-lyrics
 name: Show Me What I'm Looking For
@@ -79,6 +82,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2009-08-29'
+release_year: 2008
+runtime: 240466
 ---
 Wait, I'm wrong
 Should have done better than this

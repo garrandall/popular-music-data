@@ -1,8 +1,11 @@
 ---
+album: Need You Now
 artists:
 - Lady Antebellum
+external_ids:
+  spotify: spotify:track:2zdltIgwTAWGXHHJGTPKqv
 features: []
-genres: []
+first_released_as_single: false
 key: hello-world-lady-antebellum
 lyrics_url: https://www.azlyrics.com/lyrics/ladyantebellum/helloworld.html
 name: Hello World
@@ -87,8 +90,9 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '2011-04-09'
+release_year: 2010
+runtime: 326106
 ---
-
 Traffic crawls, cell phone calls
 Talk radio screams at me
 Through my tinted window I see
@@ -141,6 +145,3 @@ I fall down on my knees
 Oh hello world
 Hello world
 Hello world
-
-
-

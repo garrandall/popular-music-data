@@ -1,8 +1,11 @@
 ---
+album: Living In Oz
 artists:
 - Rick Springfield
+external_ids:
+  spotify: spotify:track:3xzG8qpVEEm80Y4UWMzUPy
 features: []
-genres: []
+first_released_as_single: false
 key: human-touch-rick-springfield
 lyrics_url: https://www.azlyrics.com/lyrics/rickspringfield/humantouch.html
 name: Human Touch
@@ -67,8 +70,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1983-10-15'
+release_year: 1981
+runtime: 235093
 ---
-
 Everybody's talking to computers,
 they're all dancing to a drum machine
 I know I'm living on the outside 
@@ -121,6 +125,3 @@ Human touch
 Human touch
 Human touch
 Human touch
-
-
-

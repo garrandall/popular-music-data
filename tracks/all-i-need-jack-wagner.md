@@ -1,8 +1,11 @@
 ---
+album: All I Need
 artists:
 - Jack Wagner
+external_ids:
+  spotify: spotify:track:7LLBFAlUOE6rUHDePQL57a
 features: []
-genres: []
+first_released_as_single: false
 key: all-i-need-jack-wagner
 lyrics_url: https://www.azlyrics.com/lyrics/jackwagner/allineed.html
 name: All I Need
@@ -95,8 +98,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1985-03-16'
+release_year: 1984
+runtime: 209493
 ---
-
 Kissing you was not what I had planned
 And now I'm not so sure just where I stand
 I wasn't looking for true love
@@ -139,6 +143,3 @@ It's easy to believe
 That you're all I need
 
 You're all I need...
-
-
-

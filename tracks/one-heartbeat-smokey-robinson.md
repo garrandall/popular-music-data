@@ -1,8 +1,11 @@
 ---
+album: One Heartbeat
 artists:
 - Smokey Robinson
+external_ids:
+  spotify: spotify:track:74mogflQPJsYtZWZQ9mFmM
 features: []
-genres: []
+first_released_as_single: false
 key: one-heartbeat-smokey-robinson
 lyrics_url: https://www.azlyrics.com/lyrics/smokeyrobinson/oneheartbeat.html
 name: One Heartbeat
@@ -83,8 +86,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1987-11-21'
+release_year: 1987
+runtime: 247000
 ---
-
 Oh, baby
 
 Two hearts, two of a kind
@@ -132,6 +136,3 @@ One heartbeat
 Sooner or later it'll all fall in line
 If we take it one heartbeat
 If we take it at a time
-
-
-

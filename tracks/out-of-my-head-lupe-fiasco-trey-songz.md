@@ -1,9 +1,12 @@
 ---
+album: Lasers
 artists:
 - Lupe Fiasco
+external_ids:
+  spotify: spotify:track:4Nomj38R7Ds0P8I8orW2Tv
 features:
 - Trey Songz
-genres: []
+first_released_as_single: false
 key: out-of-my-head-lupe-fiasco-trey-songz
 lyrics_url: https://www.azlyrics.com/lyrics/lupefiasco/outofmyhead.html
 name: Out Of My Head
@@ -76,9 +79,9 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '2011-10-01'
+release_year: 2011
+runtime: 204013
 ---
-
-
 Girl I want you to know (whoo)
 I can't get you out of my head
 My head my head (naawww)
@@ -168,6 +171,3 @@ You did you did (i don't even know)
 But I love it
 I can't get you out of my head (lupe, trey)
 My head
-
-
-

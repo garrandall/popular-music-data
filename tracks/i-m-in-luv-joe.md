@@ -1,8 +1,11 @@
 ---
+album: Everything
 artists:
 - Joe
+external_ids:
+  spotify: spotify:track:2uIEOMwrqcZDJG55UHXxTP
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-in-luv-joe
 lyrics_url: https://genius.com/Joe-im-in-luv-lyrics
 name: I'm In Luv
@@ -59,6 +62,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1993-11-20'
+release_year: 1993
+runtime: 228026
 ---
 I'm in luv
 Round and round I go

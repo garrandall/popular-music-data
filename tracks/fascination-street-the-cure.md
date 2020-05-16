@@ -1,8 +1,11 @@
 ---
+album: Disintegration
 artists:
 - The Cure
+external_ids:
+  spotify: spotify:track:23j7dlNIalftynH6fNllR9
 features: []
-genres: []
+first_released_as_single: false
 key: fascination-street-the-cure
 lyrics_url: https://genius.com/The-cure-fascination-street-lyrics
 name: Fascination Street
@@ -51,6 +54,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1989-07-22'
+release_year: 1989
+runtime: 316173
 ---
 Oh, it's opening time down on Fascination Street
 So let's cut the conversation and get out for a bit

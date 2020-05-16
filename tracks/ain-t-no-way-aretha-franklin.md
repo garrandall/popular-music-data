@@ -1,8 +1,11 @@
 ---
+album: Lady Soul (With Bonus Selections)
 artists:
 - Aretha Franklin
+external_ids:
+  spotify: spotify:track:0qgYfRBF5mSCPOdHdgus66
 features: []
-genres: []
+first_released_as_single: false
 key: ain-t-no-way-aretha-franklin
 lyrics_url: https://genius.com/Aretha-franklin-aint-no-way-lyrics
 name: Ain't No Way
@@ -39,6 +42,8 @@ rankings:
   rank: 37
   ranking_list: Billboard Hot 100
   start_date: '1968-05-25'
+release_year: 1968
+runtime: 253933
 ---
 Ain't no way for me to love you
 If you won't let me

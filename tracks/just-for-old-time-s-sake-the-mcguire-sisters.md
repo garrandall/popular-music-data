@@ -1,8 +1,11 @@
 ---
+album: The Anthology
 artists:
 - The McGuire Sisters
+external_ids:
+  spotify: spotify:track:2Oy8RjlzGSZuNtmnqTHQq2
 features: []
-genres: []
+first_released_as_single: false
 key: just-for-old-time-s-sake-the-mcguire-sisters
 lyrics_url: https://genius.com/The-mcguire-sisters-just-for-old-times-sake-lyrics
 name: Just For Old Time's Sake
@@ -63,6 +66,8 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '1961-06-12'
+release_year: 1961
+runtime: 169333
 ---
 Oh darling, just for old times sake
 Turn back the hands of time

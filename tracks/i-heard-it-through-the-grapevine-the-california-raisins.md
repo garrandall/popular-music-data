@@ -1,8 +1,11 @@
 ---
+album: Sing The Hit Songs
 artists:
 - The California Raisins
+external_ids:
+  spotify: spotify:track:52brWprjBmxF4fzdikzIpI
 features: []
-genres: []
+first_released_as_single: false
 key: i-heard-it-through-the-grapevine-the-california-raisins
 lyrics_url: https://www.musixmatch.com/lyrics/The-California-Raisins/I-Heard-It-Through-the-Grapevine
 name: I Heard It Through The Grapevine
@@ -23,6 +26,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1988-02-13'
+release_year: 1987
+runtime: 224266
 ---
 Vocal By Buddy Miles
 

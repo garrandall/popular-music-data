@@ -1,8 +1,11 @@
 ---
+album: Toto IV
 artists:
 - Toto
+external_ids:
+  spotify: spotify:track:1CP967dCzbdR2RMejYyPFz
 features: []
-genres: []
+first_released_as_single: false
 key: waiting-for-your-love-toto
 lyrics_url: https://www.azlyrics.com/lyrics/toto/waitingforyourlove.html
 name: Waiting For Your Love
@@ -31,8 +34,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1983-08-06'
+release_year: 1982
+runtime: 252666
 ---
-
 Hands, don't let her go, 'cause then the midnight icy winds will blow
 Eyes, give every drop, this ain't the way that should have made her stop
 Arms, just let her know, no one fills the place she used to go
@@ -67,6 +71,3 @@ Just separated by ten thousand miles, you're not alone, girl you got me
 Guess I needn't tell you that I'm not around, I'm inside, you got me
 I've been waitin' for your love
 it's been here all the time right in front of me
-
-
-

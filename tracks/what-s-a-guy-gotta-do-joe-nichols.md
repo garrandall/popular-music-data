@@ -1,8 +1,11 @@
 ---
+album: Revelation
 artists:
 - Joe Nichols
+external_ids:
+  spotify: spotify:track:1KYbPtyWhH2d4x0I8n1NRg
 features: []
-genres: []
+first_released_as_single: false
 key: what-s-a-guy-gotta-do-joe-nichols
 lyrics_url: https://www.azlyrics.com/lyrics/joenichols/whatsaguygottado.html
 name: What's A Guy Gotta Do
@@ -67,8 +70,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2005-06-11'
+release_year: 2004
+runtime: 140933
 ---
-
 What's...a...guy gotta do to get a girl in this town
 Don't wanna be alone when the sun goes down
 Just a sweet little something to put my arms around
@@ -105,6 +109,3 @@ Just a sweet little somethin to put my arms around
 What's a guy gotta do to get a girl in this town
 
 What's a guy gotta do to get a girl in this town
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Points On The Curve
 artists:
 - Wang Chung
+external_ids:
+  spotify: spotify:track:2WXalrPkS0hkCm32xf1uQp
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-let-go-wang-chung
 lyrics_url: https://genius.com/Wang-chung-dont-let-go-lyrics
 name: Don't Let Go
@@ -51,6 +54,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1984-04-14'
+release_year: 1983
+runtime: 261800
 ---
 I got your letter
 I felt so scared to

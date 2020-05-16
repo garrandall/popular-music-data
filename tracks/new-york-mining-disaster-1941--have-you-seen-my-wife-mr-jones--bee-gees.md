@@ -1,8 +1,11 @@
 ---
+album: Bee Gees' 1st
 artists:
 - Bee Gees
+external_ids:
+  spotify: spotify:track:1WvEr42lxz4P06DlIuYdmr
 features: []
-genres: []
+first_released_as_single: false
 key: new-york-mining-disaster-1941--have-you-seen-my-wife-mr-jones--bee-gees
 lyrics_url: https://www.azlyrics.com/lyrics/beegees/newyorkminingdisaster1941.html
 name: New York Mining Disaster 1941 (Have You Seen My Wife Mr Jones)
@@ -35,8 +38,9 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '1967-07-08'
+release_year: 1967
+runtime: 132360
 ---
-
 In the event of something happening to me
 there is something I would like you all to see
 It's just a photograph of someone that I knew
@@ -61,6 +65,3 @@ It's just a photograph of someone that I knew
 Have you seen my wife, Mr. Jones?
 Do you know what it's like on the outside?
 Don't go talking too loud, you'll cause a landslide, Mr. Jones
-
-
-

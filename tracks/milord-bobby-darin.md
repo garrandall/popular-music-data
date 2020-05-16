@@ -1,8 +1,11 @@
 ---
+album: Winners
 artists:
 - Bobby Darin
+external_ids:
+  spotify: spotify:track:0vCopZrJJZLek3macLoqB0
 features: []
-genres: []
+first_released_as_single: false
 key: milord-bobby-darin
 lyrics_url: https://genius.com/Bobby-darin-milord-lyrics
 name: Milord
@@ -43,6 +46,8 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '1964-07-11'
+release_year: 1964
+runtime: 121946
 ---
 Allez, venez, Milord
 Vous asseoir а ma table

@@ -1,8 +1,11 @@
 ---
+album: The Hit Man
 artists:
 - Eddie Kendricks
+external_ids:
+  spotify: spotify:track:1q5AG0nLtURiq6HAG3rvuS
 features: []
-genres: []
+first_released_as_single: false
 key: happy-eddie-kendricks
 lyrics_url: https://www.azlyrics.com/lyrics/eddiekendricks/happy.html
 name: Happy
@@ -59,8 +62,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1976-01-03'
+release_year: 1975
+runtime: 313306
 ---
-
 Happy, make you happy, baby
 
 I just wanna make you happy
@@ -106,6 +110,3 @@ I'm so close I feel your sorrow too
 When I'm see you cry, my eyes won't stay dry, oh...
 Baby can't you see, I just wanna be
 I wanna be your happy...
-
-
-

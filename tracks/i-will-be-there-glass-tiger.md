@@ -1,8 +1,11 @@
 ---
+album: The Thin Red Line
 artists:
 - Glass Tiger
+external_ids:
+  spotify: spotify:track:3A2oK3K75xAtvSmm9Tsli2
 features: []
-genres: []
+first_released_as_single: false
 key: i-will-be-there-glass-tiger
 lyrics_url: https://genius.com/Glass-tiger-i-will-be-there-lyrics
 name: I Will Be There
@@ -51,6 +54,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1987-05-09'
+release_year: 1987
+runtime: 209000
 ---
 A fight for king or country
 Can liven any heart

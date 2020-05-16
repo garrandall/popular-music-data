@@ -1,8 +1,11 @@
 ---
+album: Flamingo Serenade
 artists:
 - The Flamingos
+external_ids:
+  spotify: spotify:track:3YdKJzcoMZMacISlpY4QoP
 features: []
-genres: []
+first_released_as_single: false
 key: i-only-have-eyes-for-you-the-flamingos
 lyrics_url: https://www.azlyrics.com/lyrics/flamingos/ionlyhaveeyesforyou.html
 name: I Only Have Eyes For You
@@ -59,8 +62,9 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '1959-08-24'
+release_year: 1959
+runtime: 202773
 ---
-
 My love must be a kind of blind love
 I can't see anyone but you
 
@@ -79,6 +83,3 @@ You are here and so am I
 Maybe millions of people go by
 But they all disappear from view
 And I only have eyes for you
-
-
-

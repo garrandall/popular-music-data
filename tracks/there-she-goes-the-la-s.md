@@ -1,8 +1,11 @@
 ---
+album: The La's
 artists:
 - The La's
+external_ids:
+  spotify: spotify:track:0SMkzFGJOBFDI9KfYD55L0
 features: []
-genres: []
+first_released_as_single: false
 key: there-she-goes-the-la-s
 lyrics_url: https://genius.com/The-las-there-she-goes-lyrics
 name: There She Goes
@@ -47,6 +50,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1991-09-21'
+release_year: 1990
+runtime: 162160
 ---
 There she goes
 There she goes again

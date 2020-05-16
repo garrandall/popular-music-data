@@ -1,10 +1,13 @@
 ---
+album: The Charm
 artists:
 - Bubba Sparxxx
+external_ids:
+  spotify: spotify:track:0k6HUzaRHpQ3eEWr1C7Esh
 features:
 - Ying Yang Twins
 - Mr. ColliPark
-genres: []
+first_released_as_single: true
 key: ms-new-booty-bubba-sparxxx-ying-yang-twins-mr--collipark
 lyrics_url: https://www.musixmatch.com/lyrics/Bubba-Sparxxx-feat-Ying-Yang-Twins-and-Mr-Collipark/Ms-New-Booty-clean
 name: Ms New Booty
@@ -105,6 +108,8 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '2006-07-15'
+release_year: 2005
+runtime: 252653
 ---
 Booty, booty, booty, booty, rockin' everywhere
 Rockin' everywhere

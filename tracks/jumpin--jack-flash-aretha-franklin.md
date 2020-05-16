@@ -1,8 +1,11 @@
 ---
+album: Aretha
 artists:
 - Aretha Franklin
+external_ids:
+  spotify: spotify:track:6PimXyeHdWR59RSO0O5Ae0
 features: []
-genres: []
+first_released_as_single: false
 key: jumpin--jack-flash-aretha-franklin
 lyrics_url: https://www.azlyrics.com/lyrics/arethafranklin/jumpinjackflash.html
 name: Jumpin' Jack Flash
@@ -51,8 +54,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1986-12-06'
+release_year: 1986
+runtime: 303240
 ---
-
 I was born in a cross-fire hurricane
 And I howled at my ma in the driving rain,
 But it's all right now, in fact, it's a gas!
@@ -79,6 +83,3 @@ Jumping jack flash, it's a gas
 Jumping jack flash, it's a gas
 Jumping jack flash, it's a gas
 Jumping jack flash
-
-
-

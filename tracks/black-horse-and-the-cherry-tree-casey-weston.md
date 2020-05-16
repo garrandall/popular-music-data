@@ -1,8 +1,11 @@
 ---
+album: Black Horse And The Cherry Tree (The Voice Performance)
 artists:
 - Casey Weston
+external_ids:
+  spotify: spotify:track:1uF9gqGNdvwTRi0tvlDgEQ
 features: []
-genres: []
+first_released_as_single: true
 key: black-horse-and-the-cherry-tree-casey-weston
 lyrics_url: https://www.musixmatch.com/lyrics/Casey-Weston/Black-Horse-and-the-Cherry-Tree
 name: Black Horse And The Cherry Tree
@@ -11,6 +14,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2011-07-02'
+release_year: 2011
+runtime: 168280
 ---
 Well my heart knows me better than I know myself
 So I'm gonna let it do all the talking. (woo-hoo, woo-hoo)

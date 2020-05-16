@@ -1,8 +1,11 @@
 ---
+album: The Best Of Bobby Rydell
 artists:
 - Bobby Rydell
+external_ids:
+  spotify: spotify:track:7LF99Uloz5baOiirOPthcM
 features: []
-genres: []
+first_released_as_single: false
 key: i-dig-girls-bobby-rydell
 lyrics_url: https://www.musixmatch.com/lyrics/Bobby-Rydell/I-Dig-Girls
 name: I Dig Girls
@@ -31,6 +34,8 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1959-11-30'
+release_year: 1959
+runtime: 150000
 ---
 Man, I sure dig girls
 

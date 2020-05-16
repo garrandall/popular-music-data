@@ -1,9 +1,12 @@
 ---
+album: KIRK
 artists:
 - DaBaby
+external_ids:
+  spotify: spotify:track:2TsD9kSbgYx5fSNRsoNURE
 features:
 - Kevin Gates
-genres: []
+first_released_as_single: false
 key: pop-star-dababy-kevin-gates
 lyrics_url: https://www.azlyrics.com/lyrics/dababy/popstar.html
 name: POP STAR
@@ -16,8 +19,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2019-10-19'
+release_year: 2019
+runtime: 183144
 ---
-
 They gon' tell you I went
 They gon' tell you I went
 They gon' tell you I went
@@ -89,6 +93,3 @@ She ready to eat a nigga up until he lock
 She hit the brakes and speed it up like she a car
 Now she got her hands behind her head like I'm a cop, huh
 I told her fuck the police, yeah
-
-
-

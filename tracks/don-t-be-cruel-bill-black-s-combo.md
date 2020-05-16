@@ -1,8 +1,11 @@
 ---
+album: Solid And Raunchy
 artists:
 - Bill Black's Combo
+external_ids:
+  spotify: spotify:track:3PbNHoDSQanEaBxx8RXxEC
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-be-cruel-bill-black-s-combo
 lyrics_url: https://genius.com/Bill-blacks-combo-dont-be-cruel-lyrics
 name: Don't Be Cruel
@@ -59,6 +62,8 @@ rankings:
   rank: 52
   ranking_list: Billboard Hot 100
   start_date: '1960-12-05'
+release_year: 1900
+runtime: 139622
 ---
 You know I can be found
 Sitting home all alone

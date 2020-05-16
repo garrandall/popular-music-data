@@ -1,8 +1,11 @@
 ---
+album: Easton Corbin
 artists:
 - Easton Corbin
+external_ids:
+  spotify: spotify:track:2C5AkNS48Y5bcBuYCRfTPV
 features: []
-genres: []
+first_released_as_single: true
 key: a-little-more-country-than-that-easton-corbin
 lyrics_url: https://www.azlyrics.com/lyrics/eastoncorbin/alittlemorecountrythanthat.html
 name: A Little More Country Than That
@@ -87,8 +90,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2010-06-05'
+release_year: 2009
+runtime: 171853
 ---
-
 Imagine a dirt road
 Full of potholes
 With a creek bank and some cane poles
@@ -127,6 +131,3 @@ I'm a little more country than that
 
 I'm a little more country than that
 I'm a little more country than that
-
-
-

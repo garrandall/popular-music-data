@@ -1,8 +1,11 @@
 ---
+album: Everything Playing
 artists:
 - The Lovin' Spoonful
+external_ids:
+  spotify: spotify:track:4Ce3lmp95P93YFNgaVgUNX
 features: []
-genres: []
+first_released_as_single: false
 key: six-o-clock-the-lovin--spoonful
 lyrics_url: https://genius.com/The-lovin-spoonful-six-oclock-lyrics
 name: Six O'Clock
@@ -39,6 +42,8 @@ rankings:
   rank: 25
   ranking_list: Billboard Hot 100
   start_date: '1967-06-17'
+release_year: 1965
+runtime: 161213
 ---
 There's something special about six o'clock
 In the morning when it's still too early to knock

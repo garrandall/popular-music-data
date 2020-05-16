@@ -1,8 +1,11 @@
 ---
+album: His Band and the Street Choir
 artists:
 - Van Morrison
+external_ids:
+  spotify: spotify:track:2HEuKwtgWSM9G8cQwAGDvy
 features: []
-genres: []
+first_released_as_single: false
 key: call-me-up-in-dreamland-van-morrison
 lyrics_url: https://www.azlyrics.com/lyrics/vanmorrison/callmeupindreamland.html
 name: Call Me Up In Dreamland
@@ -15,8 +18,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1971-06-12'
+release_year: 1970
+runtime: 235040
 ---
-
 Well I tried and I tried
 But the river seems so wide
 And my head hurts and my hands are tied
@@ -86,6 +90,3 @@ Never to grow old
 On that-a saxophone
 
 Lord have mercy!
-
-
-

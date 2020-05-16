@@ -1,8 +1,11 @@
 ---
+album: Hits
 artists:
 - UTFO
+external_ids:
+  spotify: spotify:track:2j1mCe3bCFx6wzMh6T90i9
 features: []
-genres: []
+first_released_as_single: false
 key: roxanne-roxanne-utfo
 lyrics_url: https://genius.com/Utfo-roxanne-roxanne-lyrics
 name: Roxanne Roxanne
@@ -27,6 +30,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1985-04-06'
+release_year: 1985
+runtime: 311360
 ---
 Yo EMD
 Yeah, what's up man?

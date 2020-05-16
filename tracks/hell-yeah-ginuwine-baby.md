@@ -1,9 +1,12 @@
 ---
+album: The Senior
 artists:
 - Ginuwine
+external_ids:
+  spotify: spotify:track:5DLkPmyenHS2uJclC8nPCA
 features:
 - Baby
-genres: []
+first_released_as_single: false
 key: hell-yeah-ginuwine-baby
 lyrics_url: https://genius.com/Ginuwine-hell-yeah-lyrics
 name: Hell Yeah
@@ -88,6 +91,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2003-07-05'
+release_year: 2003
+runtime: 268333
 ---
 Woo, we gon' do it like MJ used to do it
 You know what I'm sayin', I'm like that kind

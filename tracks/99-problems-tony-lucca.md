@@ -1,8 +1,11 @@
 ---
+album: 99 Problems (The Voice Performance)
 artists:
 - Tony Lucca
+external_ids:
+  spotify: spotify:track:3FPJJ38O4Vqp5d00grSwCd
 features: []
-genres: []
+first_released_as_single: true
 key: 99-problems-tony-lucca
 lyrics_url: https://genius.com/Tony-lucca-99-problems-the-voice-performance-lyrics
 name: 99 Problems
@@ -11,6 +14,8 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '2012-05-26'
+release_year: 2012
+runtime: 143760
 ---
 Tip my hat to the sun in the west
 Feel the beat right in my chest

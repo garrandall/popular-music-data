@@ -1,8 +1,11 @@
 ---
+album: Real Things
 artists:
 - Joe Nichols
+external_ids:
+  spotify: spotify:track:6KHCir9R5lfLGXdmy7AGBw
 features: []
-genres: []
+first_released_as_single: false
 key: another-side-of-you-joe-nichols
 lyrics_url: https://www.azlyrics.com/lyrics/joenichols/anothersideofyou.html
 name: Another Side Of You
@@ -15,8 +18,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2007-11-17'
+release_year: 2007
+runtime: 178266
 ---
-
 Well you rolled out of bed and stubbed your toe
 And I heard you almost cuss
 And I fought back the urge to laugh
@@ -61,6 +65,3 @@ Well that's another side of you
 That I'm in love with too
 Well that's another side of you
 That I'm in love with too
-
-
-

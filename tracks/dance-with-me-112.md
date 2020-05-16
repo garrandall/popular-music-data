@@ -1,8 +1,11 @@
 ---
+album: Part III
 artists:
 - '112'
+external_ids:
+  spotify: spotify:track:6uRH1qMz30ZBwwUG0IYE5s
 features: []
-genres: []
+first_released_as_single: false
 key: dance-with-me-112
 lyrics_url: https://www.azlyrics.com/lyrics/112/dancewithme.html
 name: Dance With Me
@@ -87,9 +90,9 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2002-01-26'
+release_year: 2001
+runtime: 231800
 ---
-
-
 I see you looking at me
 I can tell by your eyes that your feeling me
 and I really want you to get close to me.
@@ -173,6 +176,3 @@ My drop tops in the parking lot
 and I wanna take you back to my spot.
 We can snuggle a little, more time to us.
 So won't you dance with me...dance with me!
-
-
-

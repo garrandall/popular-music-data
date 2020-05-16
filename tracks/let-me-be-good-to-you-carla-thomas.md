@@ -1,8 +1,11 @@
 ---
+album: Carla
 artists:
 - Carla Thomas
+external_ids:
+  spotify: spotify:track:1LYHlAYMXfCxgMcuI38kfc
 features: []
-genres: []
+first_released_as_single: false
 key: let-me-be-good-to-you-carla-thomas
 lyrics_url: https://www.musixmatch.com/lyrics/Otis-Redding-feat-Carla-Thomas/Let-Me-Be-Good-to-You-2
 name: Let Me Be Good To You
@@ -31,6 +34,8 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '1966-06-04'
+release_year: 1966
+runtime: 162480
 ---
 Baby, let me be good to you
 I'll do anything you want me to

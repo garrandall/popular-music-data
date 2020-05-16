@@ -1,8 +1,11 @@
 ---
+album: Between The Buttons
 artists:
 - The Rolling Stones
+external_ids:
+  spotify: spotify:track:6Dp0jbYnuWCrCXf43vhjVO
 features: []
-genres: []
+first_released_as_single: false
 key: ruby-tuesday-the-rolling-stones
 lyrics_url: https://www.azlyrics.com/lyrics/rollingstones/rubytuesday.html
 name: Ruby Tuesday
@@ -55,8 +58,9 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1967-04-08'
+release_year: 1966
+runtime: 193626
 ---
-
 She would never say where she came from
 Yesterday don't matter if it's gone
 While the sun is bright
@@ -87,6 +91,3 @@ Goodbye, Ruby Tuesday
 Who could hang a name on you?
 When you change with every new day
 Still I'm gonna miss you
-
-
-

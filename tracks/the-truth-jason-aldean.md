@@ -1,8 +1,11 @@
 ---
+album: Wide Open
 artists:
 - Jason Aldean
+external_ids:
+  spotify: spotify:track:25rV6ArwFMht49oONoqSLQ
 features: []
-genres: []
+first_released_as_single: false
 key: the-truth-jason-aldean
 lyrics_url: https://www.azlyrics.com/lyrics/jasonaldean/thetruth.html
 name: The Truth
@@ -87,8 +90,9 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '2010-04-03'
+release_year: 2009
+runtime: 238413
 ---
-
 Tell 'em all I'm on vacation
 Say I went to visit friends
 That you ain't heard or seen from me in quite a while
@@ -133,6 +137,3 @@ I still need you
 Yeah, that's the truth
 I still love you
 Baby, that's the truth
-
-
-

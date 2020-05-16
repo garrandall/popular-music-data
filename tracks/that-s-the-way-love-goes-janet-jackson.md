@@ -1,8 +1,11 @@
 ---
+album: Janet
 artists:
 - Janet Jackson
+external_ids:
+  spotify: spotify:track:4Q0Xyp5tA0wBMXG6tSK8bY
 features: []
-genres: []
+first_released_as_single: true
 key: that-s-the-way-love-goes-janet-jackson
 lyrics_url: https://genius.com/Janet-jackson-thats-the-way-love-goes-lyrics
 name: That's The Way Love Goes
@@ -99,6 +102,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1993-10-02'
+release_year: 1993
+runtime: 250960
 ---
 Like a moth to a flame burned by the fire
 My love is blind, can't you see my desire?

@@ -1,8 +1,11 @@
 ---
+album: Back In The Saddle
 artists:
 - Chris Cagle
+external_ids:
+  spotify: spotify:track:6EZgdjK4buOwWrmkTVbv7c
 features: []
-genres: []
+first_released_as_single: false
 key: got-my-country-on-chris-cagle
 lyrics_url: https://genius.com/Chris-cagle-got-my-country-on-lyrics
 name: Got My Country On
@@ -43,6 +46,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2012-06-09'
+release_year: 2012
+runtime: 233786
 ---
 I worked all week to make me some money
 Bring it back to Mama, best give me some honey yeah

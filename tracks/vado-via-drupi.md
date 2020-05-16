@@ -1,8 +1,11 @@
 ---
+album: Amore Mio
 artists:
 - Drupi
+external_ids:
+  spotify: spotify:track:26XocePcLP3nctx1yJghA2
 features: []
-genres: []
+first_released_as_single: false
 key: vado-via-drupi
 lyrics_url: https://genius.com/Drupi-vado-via-lyrics
 name: Vado Via
@@ -23,6 +26,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1973-11-24'
+release_year: 1973
+runtime: 189160
 ---
 Vado, questa volta ho deciso che vado
 Ma perché non me l'hai detto tu

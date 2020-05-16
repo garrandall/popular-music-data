@@ -1,8 +1,11 @@
 ---
+album: Clambake
 artists:
 - Elvis Presley
+external_ids:
+  spotify: spotify:track:7momNWKOObWP1nBE1BNirA
 features: []
-genres: []
+first_released_as_single: false
 key: guitar-man-elvis-presley
 lyrics_url: https://www.azlyrics.com/lyrics/elvispresley/guitarman.html
 name: Guitar Man
@@ -87,8 +90,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1981-04-25'
+release_year: 1967
+runtime: 139160
 ---
-
 Well, I quit my job down at the car wash,
 Left my mama a goodbye note,
 By sundown I'd left Kingston,
@@ -145,6 +149,3 @@ I'll never, never ever look back
 I'll never be more than what I am
 Wouldn't you know
 I' m a swinging little Guitar man
-
-
-

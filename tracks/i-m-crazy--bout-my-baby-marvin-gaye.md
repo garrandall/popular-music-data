@@ -1,8 +1,11 @@
 ---
+album: 'The Complete Motown Singles, Vol. 3: 1963'
 artists:
 - Marvin Gaye
+external_ids:
+  spotify: spotify:track:29sjfQL32GkhLWdAHfH0vj
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-crazy--bout-my-baby-marvin-gaye
 lyrics_url: https://genius.com/Marvin-gaye-im-crazy-bout-my-baby-lyrics
 name: I'm Crazy 'Bout My Baby
@@ -19,6 +22,8 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1963-11-02'
+release_year: 1963
+runtime: 162600
 ---
 It takes a real good woman to know how to love a good man
 It takes some hugging and kissing, but most of all some understanding

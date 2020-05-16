@@ -1,8 +1,11 @@
 ---
+album: The Complete Atco Singles
 artists:
 - The Vanilla Fudge
+external_ids:
+  spotify: spotify:track:0NfbXtfWu6YO3Af6A099fH
 features: []
-genres: []
+first_released_as_single: false
 key: where-is-my-mind-the-vanilla-fudge
 lyrics_url: https://www.azlyrics.com/lyrics/vanillafudge/whereismymind.html
 name: Where Is My Mind
@@ -31,8 +34,9 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1968-03-16'
+release_year: 1968
+runtime: 163880
 ---
-
 Where is my mind
 
 Where is my mind
@@ -57,6 +61,3 @@ Come on
 Oh, where is my mind?
 Where is my mind?
 ...
-
-
-

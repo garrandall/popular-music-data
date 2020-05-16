@@ -1,9 +1,12 @@
 ---
+album: Lady Love
 artists:
 - LeToya
+external_ids:
+  spotify: spotify:track:0n6Rakh2ND1JR03sXEviS2
 features:
 - Ludacris
-genres: []
+first_released_as_single: false
 key: regret-letoya-ludacris
 lyrics_url: https://www.azlyrics.com/lyrics/letoya/regret.html
 name: Regret
@@ -40,8 +43,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2009-12-19'
+release_year: 2009
+runtime: 245293
 ---
-
 You must regret the day that you loved me
 (oh yeah)
 You must regret the day that you left me.
@@ -111,6 +115,3 @@ You still tryin to get back (get back)
 Still tryin to get back (Get back with me oh)
 Still tryin to get back (get back)
 Still tryin to get back (back with me oh)
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: The Evolution of Robin Thicke
 artists:
 - Robin Thicke
+external_ids:
+  spotify: spotify:track:4V2F0DZrAXOWq9hkwMMG3x
 features: []
-genres: []
+first_released_as_single: false
 key: lost-without-u-robin-thicke
 lyrics_url: https://www.azlyrics.com/lyrics/robinthicke/lostwithoutu.html
 name: Lost Without U
@@ -99,9 +102,9 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '2007-06-02'
+release_year: 2006
+runtime: 254146
 ---
-
-
 I'm lost without you
 Can't help myself
 How does it feel to know that I love you baby?
@@ -171,6 +174,3 @@ Oh baby
 Oh darlin'
 Oh oh baby
 All right right... yeah.
-
-
-

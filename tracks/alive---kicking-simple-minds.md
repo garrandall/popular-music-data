@@ -1,8 +1,11 @@
 ---
+album: Once Upon A Time (Super Deluxe)
 artists:
 - Simple Minds
+external_ids:
+  spotify: spotify:track:2x5IXUFOcvvBUtEpnCBNlp
 features: []
-genres: []
+first_released_as_single: false
 key: alive---kicking-simple-minds
 lyrics_url: https://www.musixmatch.com/lyrics/Simple-Minds/Alive-and-Kicking
 name: Alive & Kicking
@@ -87,6 +90,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1986-03-01'
+release_year: 1985
+runtime: 289453
 ---
 You turn me on
 You lift me up

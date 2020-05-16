@@ -1,8 +1,11 @@
 ---
+album: Sweet Dreams (Are Made Of This)
 artists:
 - Eurythmics
+external_ids:
+  spotify: spotify:track:1TfqLAPs4K3s2rJMoCokcS
 features: []
-genres: []
+first_released_as_single: false
 key: sweet-dreams--are-made-of-this--eurythmics
 lyrics_url: https://www.azlyrics.com/lyrics/eurythmics/sweetdreamsaremadeofthis.html
 name: Sweet Dreams (Are Made Of This)
@@ -111,8 +114,9 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1983-11-05'
+release_year: 1983
+runtime: 216933
 ---
-
 Sweet dreams are made of this
 Who am I to disagree?
 I travel the world and the seven seas
@@ -162,6 +166,3 @@ Sweet dreams are made of this
 Who am I to disagree?
 I travel the world and the seven seas
 Everybody's looking for something...
-
-
-

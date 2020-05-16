@@ -1,8 +1,11 @@
 ---
+album: Totally Live At The Whisky A Go Go
 artists:
 - Johnny Rivers
+external_ids:
+  spotify: spotify:track:2iDpIoF0rpYibi8QKLM8f7
 features: []
-genres: []
+first_released_as_single: false
 key: maybelline-johnny-rivers
 lyrics_url: https://www.azlyrics.com/lyrics/johnnyrivers/maybelline.html
 name: Maybelline
@@ -43,8 +46,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1964-10-10'
+release_year: 1964
+runtime: 138640
 ---
-
 As I was motivatin' over the hill
 I saw Mabellene in a Coup de Ville
 A Cadillac a-rollin' on the open road
@@ -77,6 +81,3 @@ I caught Mabellene at the top of the hill
 Maybellene, why can't you be true
 Oh, Maybellene, why can't you be true
 You've started back doin' the things you used to do
-
-
-

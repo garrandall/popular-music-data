@@ -1,8 +1,11 @@
 ---
+album: Camp Rock
 artists:
 - Cast Of Camp Rock
+external_ids:
+  spotify: spotify:track:7r6ubHsaieaig4kORmmsDy
 features: []
-genres: []
+first_released_as_single: false
 key: we-rock-cast-of-camp-rock
 lyrics_url: https://genius.com/Cast-of-camp-rock-we-rock-lyrics
 name: We Rock
@@ -19,6 +22,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2008-07-19'
+release_year: 2008
+runtime: 190933
 ---
 'Cause we rock
 We rock, we rock on

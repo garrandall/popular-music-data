@@ -1,8 +1,11 @@
 ---
+album: Get Closer (Deluxe Version)
 artists:
 - Keith Urban
+external_ids:
+  spotify: spotify:track:2aGIVlnXtZT0GTxfXLipV4
 features: []
-genres: []
+first_released_as_single: false
 key: for-you-keith-urban
 lyrics_url: https://genius.com/Keith-urban-for-you-lyrics
 name: For You
@@ -79,6 +82,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2012-10-13'
+release_year: 2010
+runtime: 217942
 ---
 All I saw was smoke and fire
 I didn’t feel a thing

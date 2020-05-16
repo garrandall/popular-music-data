@@ -1,8 +1,11 @@
 ---
+album: Hit The Road Jack
 artists:
 - MAGIC!
+external_ids:
+  spotify: spotify:track:3tCwjWLicbjsMCvXhN0WOE
 features: []
-genres: []
+first_released_as_single: true
 key: rude-magic-
 lyrics_url: https://genius.com/Magic-rude-lyrics
 name: Rude
@@ -171,6 +174,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '2015-02-14'
+release_year: 2013
+runtime: 224773
 ---
 Saturday mornin', jumped outta bed and put on my best suit
 Got in my car and raced like a jet all the way to you

@@ -1,8 +1,11 @@
 ---
+album: Girl Talk
 artists:
 - Lesley Gore
+external_ids:
+  spotify: spotify:track:7JRwGDYjKn4aIcQo0ZqEaA
 features: []
-genres: []
+first_released_as_single: false
 key: sometimes-i-wish-i-were-a-boy-lesley-gore
 lyrics_url: https://www.azlyrics.com/lyrics/lesleygore/sometimesiwishiwereaboy.html
 name: Sometimes I Wish I Were A Boy
@@ -23,8 +26,9 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1964-11-21'
+release_year: 1964
+runtime: 124000
 ---
-
 Sometimes, yes sometimes
 I wish I were a boy
 
@@ -60,6 +64,3 @@ But sometimes, yes sometimes
 I wish I were a boy
 Sometimes, yes sometimes
 I wish I were a boy
-
-
-

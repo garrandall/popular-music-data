@@ -1,8 +1,11 @@
 ---
+album: The Joker
 artists:
 - The Steve Miller Band
+external_ids:
+  spotify: spotify:track:6jJyjAmjzzKHA2pwaH8UWU
 features: []
-genres: []
+first_released_as_single: false
 key: your-cash-ain-t-nothin--but-trash-the-steve-miller-band
 lyrics_url: https://genius.com/Steve-miller-band-your-cash-aint-nothin-but-trash-lyrics
 name: Your Cash Ain't Nothin' But Trash
@@ -35,6 +38,8 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '1974-04-13'
+release_year: 1973
+runtime: 202200
 ---
 Your cash ain't nothing but trash (Take 1)
 Here we go

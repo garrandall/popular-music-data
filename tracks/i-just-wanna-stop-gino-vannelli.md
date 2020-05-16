@@ -1,8 +1,11 @@
 ---
+album: Brother To Brother
 artists:
 - Gino Vannelli
+external_ids:
+  spotify: spotify:track:5ljGmNLjvQZm2hw8cDJXNJ
 features: []
-genres: []
+first_released_as_single: false
 key: i-just-wanna-stop-gino-vannelli
 lyrics_url: https://www.azlyrics.com/lyrics/ginovannelli/ijustwannastop.html
 name: I Just Wanna Stop
@@ -91,8 +94,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1979-01-27'
+release_year: 1978
+runtime: 218306
 ---
-
 For your love
 When I think about those nights in Montreal
 I get the sweetest thoughts of you and me
@@ -129,6 +133,3 @@ I just wanna stop
 The world ain't right without you babe
 I just wanna stop
 For your love
-
-
-

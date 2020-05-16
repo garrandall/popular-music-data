@@ -1,8 +1,11 @@
 ---
+album: Remember When?
 artists:
 - The Platters
+external_ids:
+  spotify: spotify:track:2vSxjnyrWrtxyfzO47EX6q
 features: []
-genres: []
+first_released_as_single: false
 key: smoke-gets-in-your-eyes-the-platters
 lyrics_url: https://genius.com/The-platters-smoke-gets-in-your-eyes-lyrics
 name: Smoke Gets In Your Eyes
@@ -83,6 +86,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1959-03-23'
+release_year: 1958
+runtime: 160933
 ---
 They asked me how I knew
 My true love was true

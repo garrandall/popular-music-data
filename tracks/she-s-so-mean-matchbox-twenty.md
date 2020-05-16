@@ -1,8 +1,11 @@
 ---
+album: North
 artists:
 - matchbox twenty
+external_ids:
+  spotify: spotify:track:4a5cwZZc57KyccBxFS2yjV
 features: []
-genres: []
+first_released_as_single: true
 key: she-s-so-mean-matchbox-twenty
 lyrics_url: https://genius.com/Matchbox-twenty-shes-so-mean-lyrics
 name: She's So Mean
@@ -75,6 +78,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2012-11-03'
+release_year: 2012
+runtime: 230607
 ---
 I kn-kn-know a girl, she gets what she wants all the time
 Cause she's fine

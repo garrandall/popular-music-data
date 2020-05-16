@@ -1,8 +1,12 @@
 ---
+album: Blue Lights in the Basement
 artists:
-- Roberta Flack With Donny Hathaway
-features: []
-genres: []
+- Roberta Flack
+external_ids:
+  spotify: spotify:track:1UdoFJDUHWu4oWH5JlwmDP
+features:
+- Donny Hathaway
+first_released_as_single: false
 key: the-closer-i-get-to-you-roberta-flack-with-donny-hathaway
 name: The Closer I Get To You
 rankings:
@@ -86,5 +90,7 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1978-07-01'
+release_year: 1977
+runtime: 280800
 ---
 

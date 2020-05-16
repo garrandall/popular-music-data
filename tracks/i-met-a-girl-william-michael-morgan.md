@@ -1,8 +1,11 @@
 ---
+album: Vinyl
 artists:
 - William Michael Morgan
+external_ids:
+  spotify: spotify:track:4WtkYdCG4n80h08Ep5SmDI
 features: []
-genres: []
+first_released_as_single: false
 key: i-met-a-girl-william-michael-morgan
 lyrics_url: https://www.azlyrics.com/lyrics/williammichaelmorgan/imetagirl.html
 name: I Met A Girl
@@ -43,8 +46,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2016-11-05'
+release_year: 2016
+runtime: 201533
 ---
-
 She don't laugh at everything
 But when she does the planets swing
 Around her
@@ -118,6 +122,3 @@ The way she moves
 Is changing my whole world
 I met a girl
 I met a girl
-
-
-

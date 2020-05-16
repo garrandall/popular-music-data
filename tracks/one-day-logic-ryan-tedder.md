@@ -1,9 +1,12 @@
 ---
+album: YSIV
 artists:
 - Logic
+external_ids:
+  spotify: spotify:track:6e2PtJYcltVk76nLwxBzRn
 features:
 - Ryan Tedder
-genres: []
+first_released_as_single: true
 key: one-day-logic-ryan-tedder
 lyrics_url: https://genius.com/Genius-brasil-traducoes-logic-one-day-ft-ryan-tedder-traducao-lyrics
 name: One Day
@@ -12,6 +15,8 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '2018-08-11'
+release_year: 2018
+runtime: 199866
 ---
 E talvez um dia eu seja mais sábio
 Porque talvez um dia eu vou estar mais longe daqui

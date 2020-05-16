@@ -1,8 +1,11 @@
 ---
+album: J.E. Heartbreak
 artists:
 - Jagged Edge
+external_ids:
+  spotify: spotify:track:3VEZvzr84WVnoorZ4tlBSw
 features: []
-genres: []
+first_released_as_single: false
 key: he-can-t-love-u-jagged-edge
 lyrics_url: https://genius.com/Jagged-edge-he-cant-love-u-lyrics
 name: He Can't Love U
@@ -87,6 +90,8 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '2000-04-22'
+release_year: 1999
+runtime: 244053
 ---
 I ain't no hater or nothing
 But he can't love you like I can

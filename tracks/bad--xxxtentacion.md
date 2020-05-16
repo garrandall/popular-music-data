@@ -1,8 +1,11 @@
 ---
+album: '?'
 artists:
 - XXXTENTACION
+external_ids:
+  spotify: spotify:track:7J2gyNghNTzl4EsLhXp01Q
 features: []
-genres: []
+first_released_as_single: false
 key: bad--xxxtentacion
 lyrics_url: https://genius.com/Xxxtentacion-bad-lyrics
 name: BAD!
@@ -51,6 +54,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2019-02-09'
+release_year: 2018
+runtime: 176590
 ---
 Yeah
 

@@ -1,8 +1,11 @@
 ---
+album: PARTYNEXTDOOR 3 (P3)
 artists:
 - PARTYNEXTDOOR
+external_ids:
+  spotify: spotify:track:4STaHtfguDMkWbPEo6Fwcx
 features: []
-genres: []
+first_released_as_single: false
 key: not-nice-partynextdoor
 lyrics_url: https://www.azlyrics.com/lyrics/partynextdoor/notnice.html
 name: Not Nice
@@ -35,9 +38,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2017-03-18'
+release_year: 2016
+runtime: 202661
 ---
-
-
 Oh-oh-oh-oh-oh-oh
 Oh-oh-oh-oh-oh
 
@@ -108,6 +111,3 @@ Oh-oh-oh-oh
 Oh-oh-oh-oh
 You look so nice
 But you're not nice, not nice, not nice...
-
-
-

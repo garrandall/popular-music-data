@@ -1,8 +1,9 @@
 ---
 artists:
-- Kenny Rogers With Kim Carnes
+- Kenny Rogers
+features:
+- Kim Carnes
 - James Ingram
-features: []
 genres: []
 key: what-about-me--kenny-rogers-with-kim-carnes-james-ingram
 name: What About Me?

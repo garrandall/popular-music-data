@@ -1,8 +1,11 @@
 ---
+album: 'The New York Shuffle: Radio Broadcast (Live)'
 artists:
 - Tom Petty
+external_ids:
+  spotify: spotify:track:2zg7j7WuE7iSiGOyCJAp5o
 features: []
-genres: []
+first_released_as_single: false
 key: listen-to-her-heart-tom-petty
 lyrics_url: https://www.azlyrics.com/lyrics/tompettyandtheheartbreakers/listentoherheart.html
 name: Listen To Her Heart
@@ -31,8 +34,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1978-10-28'
+release_year: 1977
+runtime: 229880
 ---
-
 You think you're gonna take her away
 With your money and your cocaine
 Keep thinkin' that her mind is gonna change
@@ -54,4 +58,3 @@ Buddy you don't even know her
 And you just can't creep up behind her
 And you can't understand that she's my girl
 She's my girl
-

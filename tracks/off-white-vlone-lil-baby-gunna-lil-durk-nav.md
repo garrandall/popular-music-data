@@ -1,11 +1,14 @@
 ---
+album: Drip Harder
 artists:
 - Lil Baby
 - Gunna
+external_ids:
+  spotify: spotify:track:6PoKfDY78ih5OveWirggRX
 features:
 - Lil Durk
 - NAV
-genres: []
+first_released_as_single: false
 key: off-white-vlone-lil-baby-gunna-lil-durk-nav
 lyrics_url: https://www.azlyrics.com/lyrics/lilbaby/offwhitevlone.html
 name: Off White VLONE
@@ -14,9 +17,9 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '2018-10-20'
+release_year: 2018
+runtime: 187464
 ---
-
-
 Run that back Turbo
 
 
@@ -140,6 +143,3 @@ Nah, hoe we can't raw dog
 Off Percs and X, can't nod off
 If I call you the plug, can't fall off
 Turn up
-
-
-

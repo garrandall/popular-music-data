@@ -1,8 +1,11 @@
 ---
+album: Spontaneous Combustion
 artists:
 - The Shirelles
+external_ids:
+  spotify: spotify:track:6B2AjXyd0LmeNJ27iuciFy
 features: []
-genres: []
+first_released_as_single: false
 key: last-minute-miracle-the-shirelles
 lyrics_url: https://genius.com/The-shirelles-a-last-minute-miracle-lyrics
 name: Last Minute Miracle
@@ -15,6 +18,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1967-08-26'
+release_year: 1967
+runtime: 188505
 ---
 I thought I'd found the right guy, but another girl caught his eye
 When he turned his back on me, oh I thought I'd die

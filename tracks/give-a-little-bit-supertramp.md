@@ -1,8 +1,11 @@
 ---
+album: Even In The Quietest Moments
 artists:
 - Supertramp
+external_ids:
+  spotify: spotify:track:6XUHsYE38CEbYunT983O9G
 features: []
-genres: []
+first_released_as_single: false
 key: give-a-little-bit-supertramp
 lyrics_url: https://genius.com/Supertramp-give-a-little-bit-lyrics
 name: Give A Little Bit
@@ -79,6 +82,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1977-10-01'
+release_year: 1977
+runtime: 248173
 ---
 Oh yeah
 Alright

@@ -1,8 +1,11 @@
 ---
+album: Get Right With The Man
 artists:
 - Van Zant
+external_ids:
+  spotify: spotify:track:7H1neD8w7RzEXegtE7483M
 features: []
-genres: []
+first_released_as_single: true
 key: help-somebody-van-zant
 lyrics_url: https://www.azlyrics.com/lyrics/vanzant/helpsomebody.html
 name: Help Somebody
@@ -51,8 +54,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2005-09-24'
+release_year: 2005
+runtime: 239493
 ---
-
 Well, Grandaddy was a hillbilly scholar, blue collar of a man
 He came from the school where you didn't need nothin'
 If you couldn't make it with your own two hands
@@ -105,6 +109,3 @@ And get right with the Man"
 Yeah
 (Get too high)
 (Help somebody if you can)
-
-
-

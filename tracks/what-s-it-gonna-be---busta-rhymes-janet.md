@@ -1,9 +1,12 @@
 ---
+album: 'Extinction Level Event: The Final World Front'
 artists:
 - Busta Rhymes
+external_ids:
+  spotify: spotify:track:0FpLfrOyHblbDlHUsrPN1N
 features:
 - Janet
-genres: []
+first_released_as_single: false
 key: what-s-it-gonna-be---busta-rhymes-janet
 lyrics_url: https://genius.com/Busta-rhymes-whats-it-gonna-be-lyrics
 name: What's It Gonna Be?!
@@ -88,6 +91,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1999-07-24'
+release_year: 1998
+runtime: 324400
 ---
 Busta Rhymes, Janet Jackson
 Here we go, one time

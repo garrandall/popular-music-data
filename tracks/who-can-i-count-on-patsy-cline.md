@@ -1,8 +1,11 @@
 ---
+album: 'Sweet Dreams: Her Complete Decca Masters (1960-1963)'
 artists:
 - Patsy Cline
+external_ids:
+  spotify: spotify:track:6R5Hl2c1fcHLqvWtdZr3wm
 features: []
-genres: []
+first_released_as_single: false
 key: who-can-i-count-on-patsy-cline
 lyrics_url: https://www.azlyrics.com/lyrics/patsycline/whocanicounton.html
 name: Who Can I Count On
@@ -11,8 +14,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1961-10-23'
+release_year: 1961
+runtime: 134906
 ---
-
 Who can I count on 
 If I can't count on you?
 I never counted on 
@@ -54,6 +58,3 @@ Who can I count on?
 Who can I count on?
 Who can I count on
 If I can't count on you?...
-
-
-

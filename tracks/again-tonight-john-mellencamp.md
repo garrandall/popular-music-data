@@ -1,8 +1,11 @@
 ---
+album: Whenever We Wanted
 artists:
 - John Mellencamp
+external_ids:
+  spotify: spotify:track:1UyrQJQQ4yynQugmLAbjoT
 features: []
-genres: []
+first_released_as_single: false
 key: again-tonight-john-mellencamp
 lyrics_url: https://www.azlyrics.com/lyrics/johnmellencamp/againtonight.html
 name: Again Tonight
@@ -59,8 +62,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1992-04-25'
+release_year: 1991
+runtime: 197693
 ---
-
 Run in circles again tonight
 Hump the moon again tonight
 Gonna wear my dancin' shoes out tonight
@@ -98,4 +102,3 @@ Go ego trip'n again tonight
 Tell the same lies they work all right
 Gonna wear my dancin' shoes out tonight
 Probably make a fool of myself again tonight
-

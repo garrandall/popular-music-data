@@ -1,8 +1,11 @@
 ---
+album: 'Don''t Let The Rain Come Down: The Best Of The Serendipity Singers'
 artists:
 - The Serendipity Singers
+external_ids:
+  spotify: spotify:track:1ko9hCONG4gae7DQnsUiZV
 features: []
-genres: []
+first_released_as_single: false
 key: beans-in-my-ears-the-serendipity-singers
 lyrics_url: https://genius.com/The-serendipity-singers-beans-in-my-ears-lyrics
 name: Beans In My Ears
@@ -39,6 +42,8 @@ rankings:
   rank: 33
   ranking_list: Billboard Hot 100
   start_date: '1964-07-11'
+release_year: 1964
+runtime: 131133
 ---
 My mommy said not to put beans in my ears
 Beans in my ears, beans in my ears

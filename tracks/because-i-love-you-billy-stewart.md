@@ -1,8 +1,11 @@
 ---
+album: 'One More Time : The Chess Years'
 artists:
 - Billy Stewart
+external_ids:
+  spotify: spotify:track:7CHZdfFTezbYR1MOlCbWmV
 features: []
-genres: []
+first_released_as_single: false
 key: because-i-love-you-billy-stewart
 lyrics_url: https://www.musixmatch.com/lyrics/Billy-Stewart/Because-I-Love-You
 name: Because I Love You
@@ -15,6 +18,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1966-01-29'
+release_year: 1966
+runtime: 128493
 ---
 Oh, oh, I love you
 Oh, oh, I love you

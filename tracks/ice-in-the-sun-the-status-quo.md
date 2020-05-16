@@ -1,8 +1,11 @@
 ---
+album: Picturesque Matchstickable Messages from the Status Quo
 artists:
 - The Status Quo
+external_ids:
+  spotify: spotify:track:4QjdrAVfANLivRHUpzcCzd
 features: []
-genres: []
+first_released_as_single: false
 key: ice-in-the-sun-the-status-quo
 lyrics_url: https://www.azlyrics.com/lyrics/statusquo/iceinthesun.html
 name: Ice In The Sun
@@ -19,8 +22,9 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1968-10-12'
+release_year: 1968
+runtime: 133226
 ---
-
 I'm not a little boy, I've lived alone and never loved so more
 But when she touches me I'm on the way, I'm underneath the floor
 
@@ -47,6 +51,3 @@ Like in in the sun I melt away
 Like ice in the sun I melt away
 Whenever she comes I melt away
 Like ice in the sun I melt away
-
-
-

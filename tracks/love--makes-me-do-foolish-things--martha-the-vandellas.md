@@ -1,9 +1,12 @@
 ---
+album: Come And Get These Memories
 artists:
 - Martha
 - The Vandellas
+external_ids:
+  spotify: spotify:track:06A3LftPuFRjKBq0HId5VK
 features: []
-genres: []
+first_released_as_single: false
 key: love--makes-me-do-foolish-things--martha-the-vandellas
 lyrics_url: https://www.azlyrics.com/lyrics/marthaandthevandellas/lovemakesmedofoolishthings.html
 name: Love (Makes Me Do Foolish Things)
@@ -36,8 +39,9 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1966-01-22'
+release_year: 1963
+runtime: 149533
 ---
-
 Love, love, love makes me do foolish things
 Sit alone by the phone, a phone that never rings
 Hoping to hear you say, you love me still
@@ -67,6 +71,3 @@ But I keep holding on, oh, why do I?
 All because love, love, love makes me do these things
 Speak your name softly each night
 While holding your picture tight
-
-
-

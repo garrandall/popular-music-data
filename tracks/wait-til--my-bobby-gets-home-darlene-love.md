@@ -1,8 +1,11 @@
 ---
+album: The Concert of Love
 artists:
 - Darlene Love
+external_ids:
+  spotify: spotify:track:2Zv5oTnV8a6bP9n9Mfvyra
 features: []
-genres: []
+first_released_as_single: true
 key: wait-til--my-bobby-gets-home-darlene-love
 lyrics_url: https://www.azlyrics.com/lyrics/darlenelove/waittilmybobbygetshome.html
 name: Wait Til' My Bobby Gets Home
@@ -47,8 +50,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1963-09-21'
+release_year: 1963
+runtime: 144600
 ---
-
 You've been calling on me every day
 Ever since my Bobby went away
 You've been knocking on my front door
@@ -83,4 +87,3 @@ Gonna wait until my Bobby gets home
 
 Whuh, oh - wait until my Bobby gets home
 Whuh, oh - wait until my Bobby gets home
-

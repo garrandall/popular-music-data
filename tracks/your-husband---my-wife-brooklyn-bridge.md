@@ -1,8 +1,11 @@
 ---
+album: The Second Brooklyn Bridge
 artists:
 - Brooklyn Bridge
+external_ids:
+  spotify: spotify:track:67z7rQtM64W9r7LqTg7amW
 features: []
-genres: []
+first_released_as_single: false
 key: your-husband---my-wife-brooklyn-bridge
 lyrics_url: https://genius.com/Brooklyn-bridge-your-husband-my-wife-lyrics
 name: Your Husband - My Wife
@@ -39,6 +42,8 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1969-09-06'
+release_year: 1969
+runtime: 181653
 ---
 She knows I'm true
 But what she don't know

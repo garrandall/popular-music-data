@@ -1,8 +1,11 @@
 ---
+album: 'The Singles: Vol. 9 1973-1975'
 artists:
 - James Brown
+external_ids:
+  spotify: spotify:track:5uFVKspbTKxjIbkd6dR9Oj
 features: []
-genres: []
+first_released_as_single: false
 key: the-payback---part-i-james-brown
 lyrics_url: https://www.musixmatch.com/lyrics/James-Brown/The-Payback-Part-I
 name: The Payback - Part I
@@ -59,6 +62,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1974-06-15'
+release_year: 1974
+runtime: 212746
 ---
 Hey, gotta, gotta pay back
 (The big payback)

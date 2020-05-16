@@ -1,10 +1,13 @@
 ---
+album: Grateful
 artists:
 - DJ Khaled
+external_ids:
+  spotify: spotify:track:6w3LzM9kufJ4C3B9zJ5e33
 features:
 - Beyonce
 - JAY Z
-genres: []
+first_released_as_single: false
 key: shining-dj-khaled-beyonce-jay-z
 lyrics_url: https://www.azlyrics.com/lyrics/djkhaled/shining.html
 name: Shining
@@ -65,10 +68,10 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2017-07-15'
+release_year: 2017
+runtime: 284000
 ---
-
-
- (Yeah)
+(Yeah)
 
  (Yeah)
 
@@ -125,7 +128,7 @@ Yeah, yeah, yeah
 Say yeah, yeah, yeah, uh
 Said everything I do, yeah, yeah, yeah
 Petty, petty, petty, I've been winnin' steady
-YoncÃ©, YoncÃ© all up on your grill, lil' boy
+Yoncé, Yoncé all up on your grill, lil' boy
 Poppin' off at the mouth, all year, boy
 Came out '97, winnin' 20 years, boy, oh
 All of this good, I don't feel bad for it, yeah
@@ -213,6 +216,3 @@ Isn't good enough, isn't good enough
 Isn't good enough, isn't good enough
 Isn't good enough, isn't good enough
 Isn't good enough, isn't good enough
-
-
-

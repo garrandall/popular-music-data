@@ -1,8 +1,11 @@
 ---
+album: The Crystals
 artists:
 - The Crystals
+external_ids:
+  spotify: spotify:track:3nInMdJkoBVvLCGOJoDlu9
 features: []
-genres: []
+first_released_as_single: false
 key: he-s-a-rebel-the-crystals
 lyrics_url: https://genius.com/The-crystals-hes-a-rebel-lyrics
 name: He's A Rebel
@@ -79,6 +82,8 @@ rankings:
   rank: 52
   ranking_list: Billboard Hot 100
   start_date: '1963-01-05'
+release_year: 1962
+runtime: 135274
 ---
 See the way he walks down the street
 Watch the way he shuffles his feet

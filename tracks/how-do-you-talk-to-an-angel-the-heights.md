@@ -1,8 +1,11 @@
 ---
+album: The Heights
 artists:
 - The Heights
+external_ids:
+  spotify: spotify:track:2QVHmiFTjFsHyxONRdbkcq
 features: []
-genres: []
+first_released_as_single: false
 key: how-do-you-talk-to-an-angel-the-heights
 lyrics_url: https://genius.com/The-heights-musical-how-do-you-talk-to-an-angel-lyrics
 name: How Do You Talk To An Angel
@@ -87,6 +90,8 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1993-02-13'
+release_year: 1992
+runtime: 227266
 ---
 I hear her voice
 In my mind

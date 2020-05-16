@@ -1,8 +1,11 @@
 ---
+album: Escape
 artists:
 - Enrique Iglesias
+external_ids:
+  spotify: spotify:track:24Gxm7Eh7tO83E26LG0CsY
 features: []
-genres: []
+first_released_as_single: false
 key: hero-enrique-iglesias
 lyrics_url: https://www.azlyrics.com/lyrics/enriqueiglesias/hero.html
 name: Hero
@@ -143,8 +146,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2002-05-18'
+release_year: 2001
+runtime: 264600
 ---
-
 Let me be your hero
 
 Would you dance if I asked you to dance?
@@ -191,6 +195,3 @@ You can take my breath away.
 You can take my breath away.
 
 I can be your hero.
-
-
-

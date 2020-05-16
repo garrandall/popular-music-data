@@ -1,8 +1,11 @@
 ---
+album: Tom Petty & The Heartbreakers
 artists:
 - Tom Petty And The Heartbreakers
+external_ids:
+  spotify: spotify:track:5x53pbGk6sbl1BGom19QQ5
 features: []
-genres: []
+first_released_as_single: false
 key: breakdown-tom-petty-and-the-heartbreakers
 lyrics_url: https://www.azlyrics.com/lyrics/tompettyandtheheartbreakers/breakdown.html
 name: Breakdown
@@ -75,8 +78,9 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '1978-02-25'
+release_year: 1976
+runtime: 163893
 ---
-
 It's alright if you love me
 It's alright if you don't
 I'm not afraid of you running away
@@ -102,6 +106,3 @@ Breakdown now I'm standing here can't you see
 Breakdown, it's alright
 It's alright
 It's alright
-
-
-

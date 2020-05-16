@@ -1,8 +1,11 @@
 ---
+album: Those Rockabilly Years
 artists:
 - Narvel Felts
+external_ids:
+  spotify: spotify:track:2F4Th5TUzfOIGH3AgJprbj
 features: []
-genres: []
+first_released_as_single: false
 key: honey-love-narvel-felts
 lyrics_url: https://genius.com/Narvel-felts-honey-love-lyrics
 name: Honey Love
@@ -15,6 +18,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1960-02-15'
+release_year: 1960
+runtime: 126773
 ---
 Hey, I need it in the morning sun
 I need it when the day is done

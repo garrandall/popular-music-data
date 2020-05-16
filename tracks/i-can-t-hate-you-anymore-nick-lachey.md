@@ -1,8 +1,11 @@
 ---
+album: What's Left Of Me
 artists:
 - Nick Lachey
+external_ids:
+  spotify: spotify:track:6Gj3oHBAFYHlcLBHOXZ3oz
 features: []
-genres: []
+first_released_as_single: false
 key: i-can-t-hate-you-anymore-nick-lachey
 lyrics_url: https://genius.com/Nick-lachey-i-cant-hate-you-anymore-lyrics
 name: I Can't Hate You Anymore
@@ -31,6 +34,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2006-10-28'
+release_year: 2006
+runtime: 232640
 ---
 Oh, oh
 

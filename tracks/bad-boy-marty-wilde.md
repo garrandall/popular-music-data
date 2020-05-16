@@ -1,8 +1,11 @@
 ---
+album: 'Marty: A Lifetime In Music 1957-2019'
 artists:
 - Marty Wilde
+external_ids:
+  spotify: spotify:track:4CKX5MSRIgPHIbvNKfyxr0
 features: []
-genres: []
+first_released_as_single: false
 key: bad-boy-marty-wilde
 lyrics_url: https://genius.com/Marty-wilde-bad-boy-lyrics
 name: Bad Boy
@@ -39,6 +42,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1960-03-28'
+release_year: 1960
+runtime: 144880
 ---
 All the people down the street, whoever you meet
 Say I'm a bad boy, say I'm a bad boy

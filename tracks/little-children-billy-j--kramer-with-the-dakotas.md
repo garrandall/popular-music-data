@@ -1,8 +1,12 @@
 ---
+album: EMI Legends Rock 'n' Roll Seris - The Definitive Collection
 artists:
-- Billy J. Kramer With The Dakotas
-features: []
-genres: []
+- Billy J. Kramer
+external_ids:
+  spotify: spotify:track:6FuAvR3iQR0cMT7PZATehh
+features:
+- The Dakotas
+first_released_as_single: false
 key: little-children-billy-j--kramer-with-the-dakotas
 lyrics_url: https://genius.com/Billy-j-kramer-with-the-dakotas-little-children-lyrics
 name: Little Children
@@ -67,6 +71,8 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1964-07-25'
+release_year: 1964
+runtime: 167506
 ---
 Little children, you better not tell on me
 I'm tellin' you little children, you better not tell what you see

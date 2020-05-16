@@ -1,8 +1,11 @@
 ---
+album: When The World Comes Down
 artists:
 - The All-American Rejects
+external_ids:
+  spotify: spotify:track:1aWYAQICESeHj2Xauv1Zfd
 features: []
-genres: []
+first_released_as_single: false
 key: i-wanna-the-all-american-rejects
 lyrics_url: https://genius.com/The-all-american-rejects-i-wanna-lyrics
 name: I Wanna
@@ -15,6 +18,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2009-10-10'
+release_year: 2008
+runtime: 208600
 ---
 I never thought that I was so blind
 I can finally see the truth

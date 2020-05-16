@@ -1,8 +1,11 @@
 ---
+album: Saturday Night Special
 artists:
 - Norman Connors
+external_ids:
+  spotify: spotify:track:1ZipqVhXAsddqVolbrArMS
 features: []
-genres: []
+first_released_as_single: false
 key: valentine-love-norman-connors
 lyrics_url: https://genius.com/Norman-connors-valentine-love-lyrics
 name: Valentine Love
@@ -19,6 +22,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1976-01-17'
+release_year: 1976
+runtime: 227160
 ---
 I'm sending you a Valentine
 In hopes that you're still mine

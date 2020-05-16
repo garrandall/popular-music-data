@@ -1,8 +1,11 @@
 ---
+album: Play On
 artists:
 - Carrie Underwood
+external_ids:
+  spotify: spotify:track:0m8Ta268d1kBBG7lxMyWqa
 features: []
-genres: []
+first_released_as_single: false
 key: mama-s-song-carrie-underwood
 lyrics_url: https://www.azlyrics.com/lyrics/carrieunderwood/mamassong.html
 name: Mama's Song
@@ -83,8 +86,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2011-02-12'
+release_year: 2009
+runtime: 240240
 ---
-
 Mama, you taught me to do the right things
 So, now you have to let your baby fly
 You've given me everything that I will need
@@ -133,6 +137,3 @@ Don't you worry about me
 
 Mama, don't you worry about me
 Don't you worry about me
-
-
-

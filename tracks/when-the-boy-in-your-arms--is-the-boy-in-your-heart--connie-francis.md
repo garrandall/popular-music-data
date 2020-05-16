@@ -1,8 +1,11 @@
 ---
+album: Gold
 artists:
 - Connie Francis
+external_ids:
+  spotify: spotify:track:5Xjp4mUrMG8uTCHnxOP1Yy
 features: []
-genres: []
+first_released_as_single: false
 key: when-the-boy-in-your-arms--is-the-boy-in-your-heart--connie-francis
 lyrics_url: https://www.azlyrics.com/lyrics/conniefrancis/whentheboyinyourarmsistheboyinyourheart.html
 name: When The Boy In Your Arms (Is The Boy In Your Heart)
@@ -55,8 +58,9 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '1962-02-10'
+release_year: 1961
+runtime: 166666
 ---
-
 When the boy in your arms
 Is the boy in your heart
 Then you've got everything
@@ -84,6 +88,3 @@ Spend a life time of love
 Make him yours for ever more
 
 Make him yours for ever more
-
-
-

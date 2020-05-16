@@ -1,8 +1,11 @@
 ---
+album: Little Criminals
 artists:
 - Randy Newman
+external_ids:
+  spotify: spotify:track:53yBKCc5S7u8zzutqepkiT
 features: []
-genres: []
+first_released_as_single: false
 key: short-people-randy-newman
 lyrics_url: https://www.azlyrics.com/lyrics/randynewman/shortpeople.html
 name: Short People
@@ -87,8 +90,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1978-03-25'
+release_year: 1977
+runtime: 176933
 ---
-
 Short People got no reason
 Short People got no reason
 Short People got no reason
@@ -136,6 +140,3 @@ Well, I don't want no Short People
 Don't want no Short People
 Don't want no Short People
 'Round here
-
-
-

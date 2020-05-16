@@ -1,8 +1,11 @@
 ---
+album: Juice
 artists:
 - Oran 'Juice' Jones
+external_ids:
+  spotify: spotify:track:7FesdPPnPPE70f4Xyjv71H
 features: []
-genres: []
+first_released_as_single: false
 key: the-rain-oran--juice--jones
 lyrics_url: https://genius.com/Oran-juice-jones-the-rain-lyrics
 name: The Rain
@@ -83,6 +86,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1987-01-17'
+release_year: 1986
+runtime: 309400
 ---
 I saw you (and him, and him) walking in the rain
 You were holding hands and I'll never be the same

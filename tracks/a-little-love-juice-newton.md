@@ -1,8 +1,11 @@
 ---
+album: Can't Wait All Night
 artists:
 - Juice Newton
+external_ids:
+  spotify: spotify:track:615LWWuBfo9kpjEloFDFtv
 features: []
-genres: []
+first_released_as_single: false
 key: a-little-love-juice-newton
 lyrics_url: https://www.azlyrics.com/lyrics/juicenewton/alittlelove.html
 name: A Little Love
@@ -47,8 +50,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1984-08-04'
+release_year: 1984
+runtime: 237333
 ---
-
 You say a little love just isn't
 Enough for you
 Sometimes I feel lucky just to get a little
@@ -109,6 +113,3 @@ I get a little love, a little love there
 Give a little, get a little, just a little love
 A little love here, a little love there
 Give a little, get a little, just a little love
-
-
-

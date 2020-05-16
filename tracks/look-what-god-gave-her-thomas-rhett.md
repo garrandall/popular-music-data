@@ -1,8 +1,11 @@
 ---
+album: Center Point Road
 artists:
 - Thomas Rhett
+external_ids:
+  spotify: spotify:track:0VkU90SfSNYgjf739FxzfZ
 features: []
-genres: []
+first_released_as_single: false
 key: look-what-god-gave-her-thomas-rhett
 lyrics_url: https://www.azlyrics.com/lyrics/thomasrhett/lookwhatgodgaveher.html
 name: Look What God Gave Her
@@ -87,8 +90,9 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '2019-07-27'
+release_year: 2019
+runtime: 168214
 ---
-
 Don't even want the attention
 But yeah, that's all that she's getting
 Her song is on and she's spinning around, yeah
@@ -137,6 +141,3 @@ Look what God gave her
 Oh, look what God
 Look what God gave her
 Oh, look what God gave her
-
-
-

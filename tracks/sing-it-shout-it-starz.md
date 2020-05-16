@@ -1,8 +1,11 @@
 ---
+album: Violation
 artists:
 - Starz
+external_ids:
+  spotify: spotify:track:6SdveBDFBgKRRtgpWwee1W
 features: []
-genres: []
+first_released_as_single: false
 key: sing-it-shout-it-starz
 lyrics_url: https://www.musixmatch.com/lyrics/Starz/Sing-It-Shout-It
 name: Sing It Shout It
@@ -39,6 +42,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1977-08-13'
+release_year: 1977
+runtime: 313506
 ---
 Ohlook at her standing there
 Tight dress and long dark hair

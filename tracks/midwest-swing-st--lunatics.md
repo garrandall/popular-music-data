@@ -1,8 +1,11 @@
 ---
+album: Free City
 artists:
 - St. Lunatics
+external_ids:
+  spotify: spotify:track:6lyBHIw67qZXrsdm4rKQFg
 features: []
-genres: []
+first_released_as_single: false
 key: midwest-swing-st--lunatics
 lyrics_url: https://www.azlyrics.com/lyrics/stlunatics/midwestswing.html
 name: Midwest Swing
@@ -27,10 +30,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2001-07-28'
+release_year: 2001
+runtime: 275533
 ---
-
-
-
 It's a Midwest thang y'all
 And ain't got a clue (Ain't got a clue)
 Why my Cutlass blue
@@ -122,4 +124,3 @@ And leave the D-tects with a leak in the skreet (street)
 And that - pussy ass nigga that set me up my peeps
 Gon' give it to this nigga like NYPD
 Beat the K, fuck coke, now I'm back on my granny poche (porch) hustlin'
-

@@ -1,8 +1,11 @@
 ---
+album: Broadcast
 artists:
 - Cutting Crew
+external_ids:
+  spotify: spotify:track:6UORIC3F1w2Va3npZlEjY6
 features: []
-genres: []
+first_released_as_single: false
 key: one-for-the-mockingbird-cutting-crew
 lyrics_url: https://www.azlyrics.com/lyrics/cuttingcrew/oneforthemockingbird.html
 name: One For The Mockingbird
@@ -51,8 +54,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1987-08-15'
+release_year: 1986
+runtime: 271226
 ---
-
 I have learnt through all my past mistakes
 Not to let the hurdles sap my energy
 Time will tell and time is all it takes
@@ -82,6 +86,3 @@ And the band, they played...
 I have learnt, time will tell, years will pass, tears will fall,
 Don't be fooled, fed by words, their sweet songs,
 Mocking-birds!
-
-
-

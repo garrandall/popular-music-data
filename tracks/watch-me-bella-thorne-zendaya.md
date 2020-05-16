@@ -1,9 +1,12 @@
 ---
+album: Watch Me
 artists:
 - Bella Thorne
 - Zendaya
+external_ids:
+  spotify: spotify:track:5qgAvjSTbjkTfICvUMH9WS
 features: []
-genres: []
+first_released_as_single: true
 key: watch-me-bella-thorne-zendaya
 lyrics_url: https://genius.com/Bella-thorne-and-zendaya-watch-me-lyrics
 name: Watch Me
@@ -20,6 +23,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2011-07-30'
+release_year: 2011
+runtime: 175346
 ---
 I don't need no one to tell me how to feel the beat
 And I don't need no beat to tell me how to move my feet

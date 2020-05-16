@@ -1,9 +1,12 @@
 ---
+album: Plastic Ono Band
 artists:
 - John Lennon
 - Plastic Ono Band
+external_ids:
+  spotify: spotify:track:43Ud1IajwtBvw6ONj6aK2Q
 features: []
-genres: []
+first_released_as_single: false
 key: mother-john-lennon-plastic-ono-band-yoko-ono-plastic-ono-band
 lyrics_url: https://www.musixmatch.com/lyrics/John-Lennon-Plastic-Ono-Band-2/Mother
 name: Mother
@@ -32,6 +35,8 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '1971-02-13'
+release_year: 1970
+runtime: 336306
 ---
 Mother, you had me
 But I never had you

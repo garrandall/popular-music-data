@@ -1,8 +1,11 @@
 ---
+album: What's Going On - 40th Anniversary (Super Deluxe)
 artists:
 - Marvin Gaye
+external_ids:
+  spotify: spotify:track:4Oamk0nKFcyq6vgjsf8xZY
 features: []
-genres: []
+first_released_as_single: false
 key: distant-lover-marvin-gaye
 lyrics_url: https://genius.com/Marvin-gaye-distant-lover-lyrics
 name: Distant Lover
@@ -43,6 +46,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1974-11-23'
+release_year: 1971
+runtime: 285400
 ---
 Distant lover, lover (lover, lover, lover)
 Oh, so many miles away

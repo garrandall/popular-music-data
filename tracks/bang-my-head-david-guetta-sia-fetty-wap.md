@@ -1,10 +1,13 @@
 ---
+album: Listen Again
 artists:
 - David Guetta
+external_ids:
+  spotify: spotify:track:53Y0kdCa1CZ9gRqEuknfwy
 features:
 - Sia
 - Fetty Wap
-genres: []
+first_released_as_single: false
 key: bang-my-head-david-guetta-sia-fetty-wap
 lyrics_url: https://genius.com/David-guetta-bang-my-head-remix-lyrics
 name: Bang My Head
@@ -33,6 +36,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2016-03-05'
+release_year: 2015
+runtime: 193333
 ---
 I was bound, was tied
 Hadn’t seen the light so long

@@ -1,12 +1,15 @@
 ---
+album: Kiss The Ring
 artists:
 - DJ Khaled
+external_ids:
+  spotify: spotify:track:2lD4LsB3iQVnddkVM2RFAl
 features:
 - Chris Brown
 - Rick Ross
 - Nicki Minaj
 - Lil Wayne
-genres: []
+first_released_as_single: false
 key: take-it-to-the-head-dj-khaled-chris-brown-rick-ross-nicki-minaj-lil-wayne
 lyrics_url: https://genius.com/Dj-khaled-take-it-to-the-head-lyrics
 name: Take It To The Head
@@ -91,6 +94,8 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '2012-09-01'
+release_year: 2012
+runtime: 267173
 ---
 Another one
 DJ Khaled

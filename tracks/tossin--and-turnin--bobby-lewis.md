@@ -1,8 +1,11 @@
 ---
+album: Tossin' and Turnin'
 artists:
 - Bobby Lewis
+external_ids:
+  spotify: spotify:track:0ZfkRyUUYS9Hvl6N5PXPot
 features: []
-genres: []
+first_released_as_single: false
 key: tossin--and-turnin--bobby-lewis
 lyrics_url: https://genius.com/Bobby-lewis-tossin-and-turnin-lyrics
 name: Tossin' And Turnin'
@@ -99,6 +102,8 @@ rankings:
   rank: 52
   ranking_list: Billboard Hot 100
   start_date: '1961-09-25'
+release_year: 1961
+runtime: 156923
 ---
 Baby!
 Baby

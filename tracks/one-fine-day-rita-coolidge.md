@@ -1,8 +1,11 @@
 ---
+album: Satisfied
 artists:
 - Rita Coolidge
+external_ids:
+  spotify: spotify:track:6SRcKaurkTPrxnEHDVmh0n
 features: []
-genres: []
+first_released_as_single: false
 key: one-fine-day-rita-coolidge
 lyrics_url: https://www.azlyrics.com/lyrics/ritacoolidge/onefineday.html
 name: One Fine Day
@@ -35,8 +38,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1979-10-13'
+release_year: 1979
+runtime: 243040
 ---
-
 One fine day, you'll look at me
 And you will know our love was really meant to be
 One fine day, you're gonna want me for your girl
@@ -54,6 +58,3 @@ One fine day, we'll meet once more
 And then you'll want the love you threw away before
 One fine day, you're gonna want me for your girl
 ...
-
-
-

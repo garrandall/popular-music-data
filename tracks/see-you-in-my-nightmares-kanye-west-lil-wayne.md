@@ -1,9 +1,12 @@
 ---
+album: 808s & Heartbreak
 artists:
 - Kanye West
+external_ids:
+  spotify: spotify:track:5zuoz1NBnpoHK6g5sbEH8F
 features:
 - Lil Wayne
-genres: []
+first_released_as_single: false
 key: see-you-in-my-nightmares-kanye-west-lil-wayne
 lyrics_url: https://www.azlyrics.com/lyrics/kanyewest/seeyouinmynightmares.html
 name: See You In My Nightmares
@@ -24,9 +27,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2009-01-10'
+release_year: 2008
+runtime: 258120
 ---
-
-
 I'm cold! (Yeah)
 I'm cold! (Yeah)
 I'm cold! (Yeah)
@@ -125,6 +128,3 @@ Tell everybody that you know
 That I don't love you no more
 And that's one thing THAT YOU KNOW
 THAT YOU KNOW
-
-
-

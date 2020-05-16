@@ -1,8 +1,11 @@
 ---
+album: Journeyman
 artists:
 - Eric Clapton
+external_ids:
+  spotify: spotify:track:0MSBMSfQzkfG5jq8e4vTE1
 features: []
-genres: []
+first_released_as_single: false
 key: bad-love-eric-clapton
 lyrics_url: https://genius.com/Eric-clapton-bad-love-lyrics
 name: Bad Love
@@ -27,6 +30,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1990-04-07'
+release_year: 1989
+runtime: 308746
 ---
 Oh, what a feeling I get when I'm with you
 You take my heart into everything you do

@@ -1,8 +1,11 @@
 ---
+album: Live! At The Talk Of The Town
 artists:
 - Tom Jones
+external_ids:
+  spotify: spotify:track:0ULTaxK0FTKc8GxmZbpFM0
 features: []
-genres: []
+first_released_as_single: false
 key: not-responsible-tom-jones
 lyrics_url: https://genius.com/Tom-jones-not-responsible-lyrics
 name: Not Responsible
@@ -31,6 +34,8 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1966-07-23'
+release_year: 1966
+runtime: 156980
 ---
 Now let me ask you something:
 Have you ever felt that you weren't responsible for the things that you do?

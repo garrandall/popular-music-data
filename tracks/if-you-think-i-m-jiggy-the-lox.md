@@ -1,8 +1,11 @@
 ---
+album: Money, Power & Respect
 artists:
 - The Lox
+external_ids:
+  spotify: spotify:track:4rfn7E8P7oCCDRQDw2Iabt
 features: []
-genres: []
+first_released_as_single: true
 key: if-you-think-i-m-jiggy-the-lox
 lyrics_url: https://genius.com/The-lox-if-you-think-im-jiggy-lyrics
 name: If You Think I'm Jiggy
@@ -59,6 +62,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1998-05-02'
+release_year: 1998
+runtime: 278906
 ---
 If you really dig me, and you think I'm jiggy
 Come on shorty let me know

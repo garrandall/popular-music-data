@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music, Volume 1'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:6w4JkiZU2ver1h2K0oUlfA
 features: []
-genres: []
+first_released_as_single: true
 key: don-t-stop-glee-cast
 lyrics_url: https://genius.com/Glee-cast-dont-stop-lyrics
 name: Don't Stop
@@ -11,6 +14,8 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '2011-05-21'
+release_year: 2009
+runtime: 230546
 ---
 Don't (don't) stop (stop)!
 Don't (don't) stop (stop)!

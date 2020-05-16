@@ -1,8 +1,11 @@
 ---
+album: BINGE
 artists:
 - Machine Gun Kelly
+external_ids:
+  spotify: spotify:track:63TyoT9Ee03rQxv8xmdJ2l
 features: []
-genres: []
+first_released_as_single: true
 key: rap-devil-machine-gun-kelly
 lyrics_url: https://genius.com/Machine-gun-kelly-rap-devil-lyrics
 name: Rap Devil
@@ -23,6 +26,8 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '2018-10-13'
+release_year: 2018
+runtime: 286117
 ---
 Oh my God, Ronny
 

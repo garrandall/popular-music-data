@@ -1,8 +1,11 @@
 ---
+album: Home Style
 artists:
 - Brook Benton
+external_ids:
+  spotify: spotify:track:4eLVf9XRDtMOe3X5KmQlpI
 features: []
-genres: []
+first_released_as_single: false
 key: think-twice-brook-benton
 lyrics_url: https://genius.com/Brook-benton-think-twice-lyrics
 name: Think Twice
@@ -55,6 +58,8 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '1961-05-01'
+release_year: 1961
+runtime: 217000
 ---
 You don't know how much you hurt me
 When you broke our precious vows

@@ -1,8 +1,11 @@
 ---
+album: It's Not Over....The Hits So Far
 artists:
 - Daughtry
+external_ids:
+  spotify: spotify:track:01mWFDRL40UlnbOXya5gqm
 features: []
-genres: []
+first_released_as_single: false
 key: waiting-for-superman-daughtry
 lyrics_url: https://genius.com/Daughtry-waiting-for-superman-lyrics
 name: Waiting For Superman
@@ -75,6 +78,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2014-03-22'
+release_year: 2006
+runtime: 267333
 ---
 She's watching the taxi driver, he pulls away
 She's been locked up inside her apartment 100 days

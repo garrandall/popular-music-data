@@ -1,10 +1,13 @@
 ---
+album: Rodeo
 artists:
 - Travis Scott
+external_ids:
+  spotify: spotify:track:1SGt65i9AnXYdDQt1AtDRH
 features:
 - Future
 - 2 Chainz
-genres: []
+first_released_as_single: false
 key: 3500-travi--scott-future-2-chainz
 lyrics_url: https://www.musixmatch.com/lyrics/Travi-Scott-feat-2-Chainz-Future/3500
 name: '3500'
@@ -13,6 +16,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '2015-06-27'
+release_year: 2015
+runtime: 461840
 ---
 Bandana wrapped-wrapped 'round your head
 

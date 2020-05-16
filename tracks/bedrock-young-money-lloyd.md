@@ -1,9 +1,12 @@
 ---
+album: We Are Young Money
 artists:
 - Young Money
+external_ids:
+  spotify: spotify:track:3iL2l5gUqyPS6vDwJFgJTR
 features:
 - Lloyd
-genres: []
+first_released_as_single: false
 key: bedrock-young-money-lloyd
 lyrics_url: https://genius.com/Young-money-bedrock-lyrics
 name: BedRock
@@ -108,6 +111,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '2010-05-29'
+release_year: 2009
+runtime: 288133
 ---
 I-I-I-I can make your bed rock (Young Money)
 I-I-I-I can make your bed rock, girl (Kane is in the building, nigga)

@@ -1,8 +1,11 @@
 ---
+album: This Time
 artists:
 - Dwight Yoakam
+external_ids:
+  spotify: spotify:track:6FevJcaJvt5EvsHnuJHBnb
 features: []
-genres: []
+first_released_as_single: false
 key: fast-as-you-dwight-yoakam
 lyrics_url: https://www.azlyrics.com/lyrics/dwightyoakam/fastasyou.html
 name: Fast As You
@@ -47,8 +50,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1994-02-12'
+release_year: 1993
+runtime: 285200
 ---
-
 Maybe someday I'll be strong
 Maybe it won't be long
 I'll be the one who's tough, yeah
@@ -102,6 +106,3 @@ I'll be the one who's strong
 You'll be the one who's got it rough
 
 You'll be the one who's got it rough
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Warm and Willing
 artists:
 - Andy Williams
+external_ids:
+  spotify: spotify:track:78BAKvK76DdqKo1Fm0vQjc
 features: []
-genres: []
+first_released_as_single: false
 key: stranger-on-the-shore-andy-williams
 lyrics_url: https://www.azlyrics.com/lyrics/andywilliams/strangerontheshore.html
 name: Stranger On The Shore
@@ -35,8 +38,9 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '1962-07-21'
+release_year: 1962
+runtime: 170040
 ---
-
 Here I stand, watching the tide go out
 So all alone and blue
 Just dreaming dreams of you
@@ -60,6 +64,3 @@ Pleading, "My love, return"
 
 Why, oh, why must I go on like this?
 Shall I just be a lonely stranger on the shore?
-
-
-

@@ -1,9 +1,12 @@
 ---
+album: Steers & Stripes
 artists:
 - Brooks
 - Dunn
+external_ids:
+  spotify: spotify:track:3vCIPzmo80cG5DqEDXJnpk
 features: []
-genres: []
+first_released_as_single: false
 key: my-heart-is-lost-to-you-brooks-dunn
 lyrics_url: https://www.azlyrics.com/lyrics/brooksdunn/myheartislosttoyou.html
 name: My Heart Is Lost To You
@@ -60,8 +63,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2002-08-17'
+release_year: 2001
+runtime: 179373
 ---
-
 Maybe it was the moonlight
 The scent of you on the breeze
 Maybe it was your shadow that fell over me
@@ -84,4 +88,3 @@ But when I saw you there dancing
 Mesmerized by the gaze
 There was some kind of magic
 That led me away
-

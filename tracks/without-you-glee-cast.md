@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music, Volume 2'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:0UrheRSNBXBiZgudI7tVQ2
 features: []
-genres: []
+first_released_as_single: false
 key: without-you-glee-cast
 lyrics_url: https://genius.com/Glee-cast-without-you-lyrics
 name: Without You
@@ -11,6 +14,8 @@ rankings:
   rank: 28
   ranking_list: Billboard Hot 100
   start_date: '2012-02-04'
+release_year: 2009
+runtime: 211800
 ---
 Rachel
 I can't win, I can't reign

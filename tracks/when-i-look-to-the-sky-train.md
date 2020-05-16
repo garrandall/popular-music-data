@@ -1,8 +1,11 @@
 ---
+album: My Private Nation
 artists:
 - Train
+external_ids:
+  spotify: spotify:track:3h0NvxPV2wiENW2ieih9DL
 features: []
-genres: []
+first_released_as_single: false
 key: when-i-look-to-the-sky-train
 lyrics_url: https://genius.com/Train-when-i-look-to-the-sky-lyrics
 name: When I Look To The Sky
@@ -63,6 +66,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2004-05-08'
+release_year: 2003
+runtime: 244640
 ---
 When it rains it pours and opens doors
 And floods the floors we thought would always keep us safe and dry

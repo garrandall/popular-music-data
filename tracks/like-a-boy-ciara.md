@@ -1,8 +1,11 @@
 ---
+album: The Evolution
 artists:
 - Ciara
+external_ids:
+  spotify: spotify:track:358bOvBiZCS9fRzNYosw6c
 features: []
-genres: []
+first_released_as_single: false
 key: like-a-boy-ciara
 lyrics_url: https://genius.com/Ciara-like-a-boy-lyrics
 name: Like A Boy
@@ -87,6 +90,8 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '2007-07-28'
+release_year: 2006
+runtime: 237053
 ---
 C-I-A-R-A
 

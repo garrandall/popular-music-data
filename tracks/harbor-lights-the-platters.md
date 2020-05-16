@@ -1,8 +1,11 @@
 ---
+album: Reflections
 artists:
 - The Platters
+external_ids:
+  spotify: spotify:track:3bZGw3sNQ1rQoosJzr7G2e
 features: []
-genres: []
+first_released_as_single: false
 key: harbor-lights-the-platters
 lyrics_url: https://genius.com/The-platters-harbor-lights-lyrics
 name: Harbor Lights
@@ -71,6 +74,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1960-05-09'
+release_year: 1960
+runtime: 194866
 ---
 I saw the harbor lights
 They only told me we were parting

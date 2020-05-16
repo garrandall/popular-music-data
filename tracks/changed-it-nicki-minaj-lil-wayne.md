@@ -1,9 +1,12 @@
 ---
+album: Changed It
 artists:
 - Nicki Minaj
 - Lil Wayne
+external_ids:
+  spotify: spotify:track:4thAIXLkPWEcv7CrPwcQAE
 features: []
-genres: []
+first_released_as_single: true
 key: changed-it-nicki-minaj-lil-wayne
 lyrics_url: https://www.azlyrics.com/lyrics/nickiminaj/changedit.html
 name: Changed It
@@ -12,9 +15,9 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '2017-04-01'
+release_year: 2017
+runtime: 295653
 ---
-
-
 I did it for everybody out here on their own
 I did it for the ones who walk a mile in them cages
 And never tell me no
@@ -117,6 +120,3 @@ Mula, Mula Gang
 Mula, Mula Gang
 Mula Gang, Gang, Gang
 That your boyfriend? That shit disgusts me
-
-
-

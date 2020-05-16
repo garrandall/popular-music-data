@@ -1,8 +1,11 @@
 ---
+album: Toby Keith 35 Biggest Hits
 artists:
 - Toby Keith
+external_ids:
+  spotify: spotify:track:5SD2dutv5rJM4Q8hlnC2QK
 features: []
-genres: []
+first_released_as_single: false
 key: she-s-a-hottie-toby-keith
 lyrics_url: https://genius.com/Toby-keith-shes-a-hottie-lyrics
 name: She's A Hottie
@@ -51,6 +54,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '2008-06-28'
+release_year: 2008
+runtime: 188920
 ---
 She's sitting by the water where the river gets wide
 Think about swimming to the other side

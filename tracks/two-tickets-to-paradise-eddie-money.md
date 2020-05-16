@@ -1,8 +1,11 @@
 ---
+album: Eddie Money
 artists:
 - Eddie Money
+external_ids:
+  spotify: spotify:track:22CIOfLZB9z8He7WgHYAgH
 features: []
-genres: []
+first_released_as_single: false
 key: two-tickets-to-paradise-eddie-money
 lyrics_url: https://genius.com/Eddie-money-two-tickets-to-paradise-lyrics
 name: Two Tickets To Paradise
@@ -63,6 +66,8 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1978-09-23'
+release_year: 1977
+runtime: 237093
 ---
 Got a surprise especially for you
 Something that both of us have always wanted to do

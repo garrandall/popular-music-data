@@ -1,8 +1,11 @@
 ---
+album: Some Girls
 artists:
 - The Rolling Stones
+external_ids:
+  spotify: spotify:track:0FfZBWDv7p63yj6oh2I2PS
 features: []
-genres: []
+first_released_as_single: false
 key: shattered-the-rolling-stones
 lyrics_url: https://genius.com/The-rolling-stones-shattered-lyrics
 name: Shattered
@@ -47,6 +50,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1979-02-17'
+release_year: 1978
+runtime: 226800
 ---
 Uh huh shattered, uh huh shattered
 Love and hope and sex and dreams

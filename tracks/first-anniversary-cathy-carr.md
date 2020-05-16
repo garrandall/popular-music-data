@@ -1,8 +1,11 @@
 ---
+album: Teenage Girls! Old Enough To Rock
 artists:
 - Cathy Carr
+external_ids:
+  spotify: spotify:track:1FA5uWmemgXka3AR6CjLeX
 features: []
-genres: []
+first_released_as_single: false
 key: first-anniversary-cathy-carr
 lyrics_url: https://www.musixmatch.com/lyrics/Cathy-Carr/First-Anniversary
 name: First Anniversary
@@ -55,6 +58,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1959-04-13'
+release_year: 1959
+runtime: 144718
 ---
 Look at you, look at me
 See the way we glow

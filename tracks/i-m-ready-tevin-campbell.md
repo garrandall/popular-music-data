@@ -1,8 +1,11 @@
 ---
+album: The Best Of Tevin Campbell
 artists:
 - Tevin Campbell
+external_ids:
+  spotify: spotify:track:1eGY6roK1W2vFIhDXu2lXq
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-ready-tevin-campbell
 lyrics_url: https://genius.com/Tevin-campbell-im-ready-lyrics
 name: I'm Ready
@@ -95,6 +98,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1994-08-06'
+release_year: 1994
+runtime: 286720
 ---
 Baby, it was uncool to love me
 And then leave me standing here now without a goodbye

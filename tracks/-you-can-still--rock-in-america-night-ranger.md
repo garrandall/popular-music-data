@@ -1,8 +1,11 @@
 ---
+album: Midnight Madness
 artists:
 - Night Ranger
+external_ids:
+  spotify: spotify:track:1anccAjNKZNKlTbHGheeCA
 features: []
-genres: []
+first_released_as_single: false
 key: -you-can-still--rock-in-america-night-ranger
 lyrics_url: https://genius.com/Night-ranger-you-can-still-rock-in-america-lyrics
 name: (You Can Still) Rock In America
@@ -55,6 +58,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1984-02-18'
+release_year: 1983
+runtime: 255160
 ---
 Little Sister by the record machine
 A tiny dancer such a sweet sixteen

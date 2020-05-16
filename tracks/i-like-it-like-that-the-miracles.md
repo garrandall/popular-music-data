@@ -1,8 +1,11 @@
 ---
+album: The 35th Anniversary Collection
 artists:
 - The Miracles
+external_ids:
+  spotify: spotify:track:5ZudR2CjIw5A001tZNbYYz
 features: []
-genres: []
+first_released_as_single: false
 key: i-like-it-like-that-the-miracles
 lyrics_url: https://genius.com/The-miracles-i-like-it-like-that-lyrics
 name: I Like It Like That
@@ -43,6 +46,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1964-08-22'
+release_year: 1964
+runtime: 165666
 ---
 Clap your hands now everybody
 We're gonna have some fun tonight

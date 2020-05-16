@@ -1,9 +1,12 @@
 ---
+album: Black Panties (Deluxe Version)
 artists:
 - R. Kelly
+external_ids:
+  spotify: spotify:track:38iNH9I1fzlJ0x8tLQbsc7
 features:
 - 2 Chainz
-genres: []
+first_released_as_single: true
 key: my-story-r--kelly-2-chainz
 lyrics_url: https://www.azlyrics.com/lyrics/rkelly/mystory.html
 name: My Story
@@ -12,9 +15,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2013-12-28'
+release_year: 2013
+runtime: 266493
 ---
-
-
 This is my story. Yeah, I'm from that Chi-town dirt.
 I went from being broke to sleeping in Versace shirts.
 This is my story. Money, cars, bad hoes.
@@ -114,7 +117,4 @@ I went from being broke to sleeping in Versace shirts.
 This is my story. Money, cars, bad hoes.
 This is my story.
 
-And I'm stickin' to it. 
-
-
-
+And I'm stickin' to it.

@@ -1,8 +1,11 @@
 ---
+album: Caprice! The Story Behind Gerry Granahan's Caprice Label 1960 - 1963
 artists:
 - Janie Grant
+external_ids:
+  spotify: spotify:track:03X56OrDOejgWEz5bVX1gJ
 features: []
-genres: []
+first_released_as_single: false
 key: triangle-janie-grant
 lyrics_url: https://genius.com/Janie-grant-triangle-lyrics
 name: Triangle
@@ -59,6 +62,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1961-06-19'
+release_year: 1961
+runtime: 145093
 ---
 Our love, our love is like a triangle
 Which one will have a broken heart

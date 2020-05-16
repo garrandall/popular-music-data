@@ -1,8 +1,11 @@
 ---
+album: Fight With Tools
 artists:
 - Flobots
+external_ids:
+  spotify: spotify:track:6JH9yWhgbm0y9iAJhCslNc
 features: []
-genres: []
+first_released_as_single: false
 key: handlebars-flobots
 lyrics_url: https://www.azlyrics.com/lyrics/flobots/handlebars.html
 name: Handlebars
@@ -87,8 +90,9 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '2008-09-06'
+release_year: 2008
+runtime: 206813
 ---
-
 I can ride my bike with no handlebars
 No handlebars
 No handlebars
@@ -180,6 +184,3 @@ No handlebars
 I can ride my bike with no handlebars
 No handlebars
 No handlebars
-
-
-

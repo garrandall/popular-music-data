@@ -1,8 +1,11 @@
 ---
+album: Fuse 30 Reblown
 artists:
 - KIX
+external_ids:
+  spotify: spotify:track:0mMjYK4ChEUIDLBmVWzXEO
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-close-your-eyes-kix
 lyrics_url: https://genius.com/Kix-dont-close-your-eyes-lyrics
 name: Don't Close Your Eyes
@@ -99,6 +102,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1990-02-10'
+release_year: 1988
+runtime: 270453
 ---
 Whatcha doing out in the night time
 Why'd ya' call me on the phone

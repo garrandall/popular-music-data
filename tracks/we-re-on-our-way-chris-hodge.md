@@ -1,8 +1,11 @@
 ---
+album: 18 Songs
 artists:
 - Chris Hodge
+external_ids:
+  spotify: spotify:track:7pifpsxzh7gZFqAOksTsIP
 features: []
-genres: []
+first_released_as_single: false
 key: we-re-on-our-way-chris-hodge
 lyrics_url: https://genius.com/Chris-hodge-were-on-our-way-lyrics
 name: We're On Our Way
@@ -39,6 +42,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1972-07-22'
+release_year: 1972
+runtime: 175032
 ---
 Saucers are a-flyin'
 Flyin' in the sky

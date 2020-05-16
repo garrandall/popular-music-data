@@ -1,9 +1,12 @@
 ---
+album: Modern Love
 artists:
 - Matt Nathanson
+external_ids:
+  spotify: spotify:track:7BNxbhK3BwhHRoF2EvYNss
 features:
 - Sugarland
-genres: []
+first_released_as_single: false
 key: run-matt-nathanson-sugarland
 lyrics_url: https://genius.com/Matt-nathanson-run-lyrics
 name: Run
@@ -12,6 +15,8 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '2011-11-26'
+release_year: 2011
+runtime: 249146
 ---
 I wanna watch you undress
 I wanna watch you glow

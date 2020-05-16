@@ -1,8 +1,11 @@
 ---
+album: Red
 artists:
 - Taylor Swift
+external_ids:
+  spotify: spotify:track:3bIxTsfeNMO7Nt2J3EUKrA
 features: []
-genres: []
+first_released_as_single: false
 key: 22-taylor-swift
 lyrics_url: https://genius.com/Taylor-swift-22-lyrics
 name: '22'
@@ -87,6 +90,8 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '2013-07-27'
+release_year: 2012
+runtime: 230133
 ---
 It feels like a perfect night
 To dress up like hipsters

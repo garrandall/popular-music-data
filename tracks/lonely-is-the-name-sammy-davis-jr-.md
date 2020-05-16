@@ -1,8 +1,11 @@
 ---
+album: Lonely Is The Name
 artists:
 - Sammy Davis Jr.
+external_ids:
+  spotify: spotify:track:6v8Sybh5HSLy6l8360GPdR
 features: []
-genres: []
+first_released_as_single: false
 key: lonely-is-the-name-sammy-davis-jr-
 lyrics_url: https://www.azlyrics.com/lyrics/sammydavisjr/lonelyisthename.html
 name: Lonely Is The Name
@@ -19,8 +22,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1968-06-08'
+release_year: 1968
+runtime: 195173
 ---
-
 Lonely is the name
 That I answer to
 And crying is the game
@@ -54,6 +58,3 @@ And crying is the game
 Till you're back with me
 I'll never be the same
 Without your love
-
-
-

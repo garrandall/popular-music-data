@@ -1,8 +1,11 @@
 ---
+album: Permanent Waves
 artists:
 - Rush
+external_ids:
+  spotify: spotify:track:4e9hUiLsN4mx61ARosFi7p
 features: []
-genres: []
+first_released_as_single: false
 key: the-spirit-of-radio-rush
 lyrics_url: https://genius.com/Rush-the-spirit-of-radio-lyrics
 name: The Spirit Of Radio
@@ -39,6 +42,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1980-04-12'
+release_year: 1980
+runtime: 296466
 ---
 Begin the day with a friendly voice
 A companion unobtrusive

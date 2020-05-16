@@ -1,8 +1,11 @@
 ---
+album: Sammy Johns
 artists:
 - Sammy Johns
+external_ids:
+  spotify: spotify:track:7iT0jz0krjcn4LG1nzjPef
 features: []
-genres: []
+first_released_as_single: false
 key: early-morning-love-sammy-johns
 name: Early Morning Love
 rankings:
@@ -38,5 +41,7 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1974-11-30'
+release_year: 1973
+runtime: 169066
 ---
 

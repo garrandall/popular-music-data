@@ -1,8 +1,11 @@
 ---
+album: JEKYLL + HYDE
 artists:
 - Zac Brown Band
+external_ids:
+  spotify: spotify:track:69XcvSymPaTke2Qb6f3W6P
 features: []
-genres: []
+first_released_as_single: false
 key: loving-you-easy-zac-brown-band
 lyrics_url: https://www.azlyrics.com/lyrics/zacbrownband/lovingyoueasy.html
 name: Loving You Easy
@@ -75,8 +78,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2015-10-03'
+release_year: 2015
+runtime: 155653
 ---
-
 Every morning when you come downstairs
 Hair's a mess but I don't care
 No make-up on, shining so bright
@@ -111,6 +115,3 @@ Reminds me just how much it all makes
 Loving you easy
 Easy
 Easy
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Sadnecessary
 artists:
 - Milky Chance
+external_ids:
+  spotify: spotify:track:6vECYJHxYmm3Ydt3fF01pE
 features: []
-genres: []
+first_released_as_single: false
 key: stolen-dance-milky-chance
 lyrics_url: https://genius.com/Milky-chance-stolen-dance-lyrics
 name: Stolen Dance
@@ -107,6 +110,8 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '2015-01-24'
+release_year: 2014
+runtime: 313684
 ---
 I want you by my side
 So that I never feel alone again

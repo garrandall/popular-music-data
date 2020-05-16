@@ -1,8 +1,11 @@
 ---
+album: Super Hits
 artists:
 - Chuck Jackson
+external_ids:
+  spotify: spotify:track:0zpgTi6oebwADr9jFgPcCk
 features: []
-genres: []
+first_released_as_single: false
 key: beg-me-chuck-jackson
 lyrics_url: https://genius.com/Chuck-jackson-beg-me-lyrics
 name: Beg Me
@@ -47,6 +50,8 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '1964-07-25'
+release_year: 1964
+runtime: 160026
 ---
 Baby, you walked out on me
 Leaving me in misery

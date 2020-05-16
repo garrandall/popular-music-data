@@ -1,8 +1,11 @@
 ---
+album: Rio
 artists:
 - Duran Duran
+external_ids:
+  spotify: spotify:track:39lSeqnyjZJejRuaREfyLL
 features: []
-genres: []
+first_released_as_single: false
 key: hungry-like-the-wolf-duran-duran
 lyrics_url: https://genius.com/Duran-duran-hungry-like-the-wolf-lyrics
 name: Hungry Like The Wolf
@@ -99,6 +102,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1983-05-28'
+release_year: 1982
+runtime: 220626
 ---
 Dark in the city night is a wire
 Steam in the subway earth is afire

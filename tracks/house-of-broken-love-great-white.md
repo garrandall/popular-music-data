@@ -1,8 +1,11 @@
 ---
+album: Twice Shy
 artists:
 - Great White
+external_ids:
+  spotify: spotify:track:0tFscEe2fMwsHflVPsyaAD
 features: []
-genres: []
+first_released_as_single: false
 key: house-of-broken-love-great-white
 lyrics_url: https://genius.com/Great-white-house-of-broken-love-lyrics
 name: House Of Broken Love
@@ -27,6 +30,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1990-04-14'
+release_year: 1989
+runtime: 358426
 ---
 Come the morning don't you wake me
 I'll be dreaming that I'm free

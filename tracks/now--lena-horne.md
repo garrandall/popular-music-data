@@ -1,8 +1,11 @@
 ---
+album: Porgy and Bess
 artists:
 - Lena Horne
+external_ids:
+  spotify: spotify:track:2BA3mpsyoHMJQhlpdVkVDJ
 features: []
-genres: []
+first_released_as_single: false
 key: now--lena-horne
 lyrics_url: https://www.musixmatch.com/lyrics/Harry-Belafonte-feat-Lena-Horne/My-Man-s-Gone-Now
 name: Now!
@@ -15,6 +18,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1963-11-30'
+release_year: 1959
+runtime: 251066
 ---
 My man's gone now
 Ain't no use a listenin'

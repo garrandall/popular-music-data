@@ -1,8 +1,11 @@
 ---
+album: Smash Hits Of '62
 artists:
 - The Marvelettes
+external_ids:
+  spotify: spotify:track:3TIUNsWeie7t4ldd1fzzvs
 features: []
-genres: []
+first_released_as_single: false
 key: twistin--postman-the-marvelettes
 lyrics_url: https://www.azlyrics.com/lyrics/marvelettes/twistinpostman.html
 name: Twistin' Postman
@@ -43,8 +46,9 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '1962-03-24'
+release_year: 1962
+runtime: 148133
 ---
-
 Sitting by the window, feeling sad and blue
 All because I haven't heard from you
 And then my mama said "Look! Look!
@@ -78,6 +82,3 @@ I'm so glad he came in time to ease this achin' heart of mine
 
 Look! Look! Here comes the mailman twistin' down the avenue
 He's got a letter in his hand and I know it has to be for you
-
-
-

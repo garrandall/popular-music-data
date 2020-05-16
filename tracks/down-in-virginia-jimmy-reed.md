@@ -1,8 +1,11 @@
 ---
+album: Rockin' With Reed
 artists:
 - Jimmy Reed
+external_ids:
+  spotify: spotify:track:6mw3mUQYyU0li2ZgWLqj4S
 features: []
-genres: []
+first_released_as_single: false
 key: down-in-virginia-jimmy-reed
 lyrics_url: https://genius.com/Jimmy-reed-down-in-virginia-lyrics
 name: Down In Virginia
@@ -15,6 +18,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1958-08-18'
+release_year: 1958
+runtime: 144441
 ---
 I went down in Virginia, honey, where the green grass grows
 I tried to tell myself, you didn't want me no more

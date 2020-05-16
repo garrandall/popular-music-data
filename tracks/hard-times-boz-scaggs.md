@@ -1,8 +1,11 @@
 ---
+album: Down Two Then Left
 artists:
 - Boz Scaggs
+external_ids:
+  spotify: spotify:track:00r22Madn3XaLXpsc9PvhC
 features: []
-genres: []
+first_released_as_single: false
 key: hard-times-boz-scaggs
 lyrics_url: https://www.azlyrics.com/lyrics/bozscaggs/hardtimes.html
 name: Hard Times
@@ -31,8 +34,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1977-11-19'
+release_year: 1977
+runtime: 269800
 ---
-
 I am down in the sea of confusion
 Neath the waves of no recovery
 Swept away by a distant voice calling
@@ -67,6 +71,3 @@ No way to rescue me
 Back into your spell
 Back into your cell of no return
 No way to rescue me
-
-
-

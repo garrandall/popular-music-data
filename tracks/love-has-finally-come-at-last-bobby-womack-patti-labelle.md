@@ -1,9 +1,12 @@
 ---
+album: The Poet II
 artists:
 - Bobby Womack
 - Patti LaBelle
+external_ids:
+  spotify: spotify:track:0gVpcSmlnbExtKBDpxlcPF
 features: []
-genres: []
+first_released_as_single: false
 key: love-has-finally-come-at-last-bobby-womack-patti-labelle
 lyrics_url: https://genius.com/Bobby-womack-love-has-finally-come-at-last-feat-patti-labelle-lyrics
 name: Love Has Finally Come At Last
@@ -28,6 +31,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1984-04-21'
+release_year: 1984
+runtime: 333920
 ---
 Love has finally come at last
 And I'm never gonna give it back

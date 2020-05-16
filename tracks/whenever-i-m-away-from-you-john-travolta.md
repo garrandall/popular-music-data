@@ -1,8 +1,11 @@
 ---
+album: Can't Let You Go
 artists:
 - John Travolta
+external_ids:
+  spotify: spotify:track:5wOP0O8O040uY7u107ai7Z
 features: []
-genres: []
+first_released_as_single: false
 key: whenever-i-m-away-from-you-john-travolta
 lyrics_url: https://genius.com/John-travolta-whenever-im-away-from-you-lyrics
 name: Whenever I'm Away From You
@@ -31,6 +34,8 @@ rankings:
   rank: 38
   ranking_list: Billboard Hot 100
   start_date: '1976-12-04'
+release_year: 1976
+runtime: 186177
 ---
 Whenever I'm away from you, baby
 There's nothin' much I wanna do, oh baby

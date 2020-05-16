@@ -1,8 +1,11 @@
 ---
+album: Ready For The World
 artists:
 - Ready For The World
+external_ids:
+  spotify: spotify:track:5PM96PMKMfD1lLX2lryUsG
 features: []
-genres: []
+first_released_as_single: false
 key: oh-sheila-ready-for-the-world
 lyrics_url: https://genius.com/Ready-for-the-world-oh-sheila-lyrics
 name: Oh Sheila
@@ -91,6 +94,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1985-12-21'
+release_year: 1985
+runtime: 240093
 ---
 Like they always say, what's good for the goose
 Is always good for the gander

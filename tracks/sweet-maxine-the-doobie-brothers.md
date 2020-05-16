@@ -1,8 +1,11 @@
 ---
+album: Stampede
 artists:
 - The Doobie Brothers
+external_ids:
+  spotify: spotify:track:6apI1dPdq94Sf0LWPdTnUz
 features: []
-genres: []
+first_released_as_single: false
 key: sweet-maxine-the-doobie-brothers
 lyrics_url: https://www.azlyrics.com/lyrics/doobiebrothers/sweetmaxine.html
 name: Sweet Maxine
@@ -35,8 +38,9 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '1975-09-13'
+release_year: 1975
+runtime: 263866
 ---
-
 She can capture your heart, when they start the music playin'
 Sparkle in her eyes, you better be wise or you will end up losin' your mind
 I said baby, pretty baby, got to get my hands on you
@@ -62,6 +66,3 @@ Somethin's got a hold on me
 
 She's got the power, power in her soul
 She's got the power, power, rock and roll
-
-
-

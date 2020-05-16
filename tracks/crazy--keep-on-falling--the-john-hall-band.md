@@ -1,8 +1,11 @@
 ---
+album: All Of The Above
 artists:
 - The John Hall Band
+external_ids:
+  spotify: spotify:track:6iLzfMb6os3GI2md2Mpy4b
 features: []
-genres: []
+first_released_as_single: false
 key: crazy--keep-on-falling--the-john-hall-band
 name: Crazy (Keep On Falling)
 rankings:
@@ -50,5 +53,7 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1982-03-06'
+release_year: 1981
+runtime: 272133
 ---
 

@@ -1,8 +1,11 @@
 ---
+album: Heart
 artists:
 - Heart
+external_ids:
+  spotify: spotify:track:4yEMyaB6PGBpQvac2yD9wZ
 features: []
-genres: []
+first_released_as_single: false
 key: never-heart
 lyrics_url: https://genius.com/Heart-never-lyrics
 name: Never
@@ -103,6 +106,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1986-02-22'
+release_year: 1985
+runtime: 246611
 ---
 Oh, whoa, whoa, whoa
 Oh, whoa, whoa, whoa

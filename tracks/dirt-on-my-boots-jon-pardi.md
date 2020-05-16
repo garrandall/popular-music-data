@@ -1,8 +1,11 @@
 ---
+album: California Sunrise
 artists:
 - Jon Pardi
+external_ids:
+  spotify: spotify:track:7f08qp3HROTkfrtNpiYGGo
 features: []
-genres: []
+first_released_as_single: false
 key: dirt-on-my-boots-jon-pardi
 lyrics_url: https://www.azlyrics.com/lyrics/jonpardi/dirtonmyboots.html
 name: Dirt On My Boots
@@ -87,8 +90,9 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '2017-05-06'
+release_year: 2016
+runtime: 201893
 ---
-
 Been up since the crack of dawn
 Just trying to get paid
 Been hotter than a hundred suns
@@ -144,6 +148,3 @@ But we're gonna dance the dust right off them tonight
 Got a little dirt on my boots
 Got a little dirt on my boots
 Got a little dirt on my boots
-
-
-

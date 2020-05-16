@@ -1,8 +1,11 @@
 ---
+album: Riptide
 artists:
 - Robert Palmer
+external_ids:
+  spotify: spotify:track:5izGeTxueiFX1UPFGohY9w
 features: []
-genres: []
+first_released_as_single: false
 key: addicted-to-love-robert-palmer
 lyrics_url: https://genius.com/Robert-palmer-addicted-to-love-lyrics
 name: Addicted To Love
@@ -95,6 +98,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1986-07-05'
+release_year: 1985
+runtime: 363640
 ---
 The lights are on, but you're not home
 Your mind is not your own

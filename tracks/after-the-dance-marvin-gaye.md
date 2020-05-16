@@ -1,8 +1,11 @@
 ---
+album: I Want You
 artists:
 - Marvin Gaye
+external_ids:
+  spotify: spotify:track:0m6i2lZNgIV4OOyEkFlKFz
 features: []
-genres: []
+first_released_as_single: false
 key: after-the-dance-marvin-gaye
 lyrics_url: https://genius.com/Marvin-gaye-after-the-dance-vocal-lyrics
 name: After The Dance
@@ -27,6 +30,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1976-09-11'
+release_year: 1976
+runtime: 279760
 ---
 Dance with me
 Come on, dance with me. Baby

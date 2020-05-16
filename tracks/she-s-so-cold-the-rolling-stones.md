@@ -1,8 +1,11 @@
 ---
+album: Emotional Rescue (2009 Re-Mastered)
 artists:
 - The Rolling Stones
+external_ids:
+  spotify: spotify:track:6l9gVPHFaUfigHEiWqSh45
 features: []
-genres: []
+first_released_as_single: false
 key: she-s-so-cold-the-rolling-stones
 lyrics_url: https://genius.com/The-rolling-stones-shes-so-cold-lyrics
 name: She's So Cold
@@ -59,9 +62,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1980-12-20'
+release_year: 1980
+runtime: 253506
 ---
-
-
 I'm so hot for her, I'm so hot for her
 I'm so hot for her and she's so cold
 I'm so hot for her, I'm on fire for her
@@ -120,5 +123,3 @@ I'm so hot for you, I'm so hot for you
 I'm so hot for you and you're so cold
 I'm the burning bush, I'm the burning fire
 I'm the bleeding volcano
-
-

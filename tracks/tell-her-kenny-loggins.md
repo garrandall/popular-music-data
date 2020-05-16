@@ -1,8 +1,11 @@
 ---
+album: Back To Avalon
 artists:
 - Kenny Loggins
+external_ids:
+  spotify: spotify:track:6Mhu6K1SnJdCtn63Y98Pg5
 features: []
-genres: []
+first_released_as_single: false
 key: tell-her-kenny-loggins
 lyrics_url: https://www.azlyrics.com/lyrics/kennyloggins/tellher.html
 name: Tell Her
@@ -39,8 +42,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1989-03-25'
+release_year: 1988
+runtime: 215333
 ---
-
 I know something about love
 You've gotta want it bad
 If that girl's got into your blood
@@ -85,6 +89,3 @@ Don't you let him go, now
 (Tell her, tell her, tell her, tell her right now)
 
 Just take her hand in yours and tell her
-
-
-

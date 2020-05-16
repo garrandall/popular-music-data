@@ -1,10 +1,13 @@
 ---
+album: United States Of Atlanta (Chopped And Screwed)
 artists:
 - Ying Yang Twins
+external_ids:
+  spotify: spotify:track:3g2TXpWbzYMTJJbffXo8AK
 features:
 - Mike Jones
 - Mr. ColliPark
-genres: []
+first_released_as_single: false
 key: badd-ying-yang-twins-mike-jones-mr--collipark
 lyrics_url: https://www.musixmatch.com/lyrics/Mike-Jones-feat-Ying-Yang-Twins-Mr-Collipark/Badd-2
 name: Badd
@@ -85,6 +88,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '2005-11-19'
+release_year: 2005
+runtime: 265706
 ---
 Colipark - sheah
 Mike jones - who

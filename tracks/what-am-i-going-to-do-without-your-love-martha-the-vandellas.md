@@ -1,9 +1,12 @@
 ---
+album: Watchout!
 artists:
 - Martha
 - The Vandellas
+external_ids:
+  spotify: spotify:track:6ZarwCcXk7Kn9ZoE3CJWF1
 features: []
-genres: []
+first_released_as_single: false
 key: what-am-i-going-to-do-without-your-love-martha-the-vandellas
 lyrics_url: https://www.musixmatch.com/lyrics/Martha-Reeves-and-The-Vandellas/What-Am-I-Going-to-Do-Without-Your-Love
 name: What Am I Going To Do Without Your Love
@@ -28,6 +31,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1966-07-09'
+release_year: 1966
+runtime: 169826
 ---
 (Since you've been gone I've been cryin' all night long, I've been sad)
 

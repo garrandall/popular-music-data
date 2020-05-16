@@ -1,8 +1,11 @@
 ---
+album: Spyro Gyra
 artists:
 - Spyro Gyra
+external_ids:
+  spotify: spotify:track:6DX1rny2WXGTifJbC1f7mU
 features: []
-genres: []
+first_released_as_single: false
 key: shaker-song-spyro-gyra
 name: Shaker Song
 rankings:
@@ -26,5 +29,7 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1978-07-15'
+release_year: 1978
+runtime: 286946
 ---
 

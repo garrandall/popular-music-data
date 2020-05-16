@@ -1,8 +1,11 @@
 ---
+album: Heart Break
 artists:
 - New Edition
+external_ids:
+  spotify: spotify:track:1vbe9sh7U9vdMceAhitWr2
 features: []
-genres: []
+first_released_as_single: false
 key: can-you-stand-the-rain-new-edition
 lyrics_url: https://www.azlyrics.com/lyrics/newedition/canyoustandtherain.html
 name: Can You Stand The Rain
@@ -59,9 +62,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1989-05-06'
+release_year: 1988
+runtime: 297706
 ---
-
-
 On a perfect day,
 I know that I can count on you.
 When that's not possible,
@@ -143,6 +146,3 @@ Can you stand the rain?
 Yeah. It's hard, but I'll know I'll be right there. Yeah, yeah, yeah.
 
 Can you stand the rain?
-
-
-

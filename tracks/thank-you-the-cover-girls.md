@@ -1,8 +1,11 @@
 ---
+album: The Cover Girls Greatest Hits
 artists:
 - The Cover Girls
+external_ids:
+  spotify: spotify:track:0BiVJzcTFe6HMxIder3xCm
 features: []
-genres: []
+first_released_as_single: false
 key: thank-you-the-cover-girls
 lyrics_url: https://genius.com/The-cover-girls-thank-you-lyrics
 name: Thank You
@@ -39,6 +42,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1992-10-17'
+release_year: 1992
+runtime: 300960
 ---
 Oh... oh... oh... oh... oh...
 

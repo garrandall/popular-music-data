@@ -1,8 +1,11 @@
 ---
+album: The Singles & Albums Collection 1958-62
 artists:
 - Annette With The Afterbeats
+external_ids:
+  spotify: spotify:track:23W4JOSLXc4y5JmchLVpWL
 features: []
-genres: []
+first_released_as_single: false
 key: pineapple-princess-annette-with-the-afterbeats
 name: Pineapple Princess
 rankings:
@@ -62,5 +65,7 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1960-11-14'
+release_year: 1960
+runtime: 145586
 ---
 

@@ -1,8 +1,11 @@
 ---
+album: Veni Vidi Vicious
 artists:
 - The Hives
+external_ids:
+  spotify: spotify:track:6xxXrNJnnsQNLdgNk8S4y8
 features: []
-genres: []
+first_released_as_single: false
 key: hate-to-say-i-told-you-so-the-hives
 lyrics_url: https://www.azlyrics.com/lyrics/hives/hatetosayitoldyouso.html
 name: Hate To Say I Told You So
@@ -51,8 +54,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2002-09-28'
+release_year: 2000
+runtime: 199759
 ---
-
 Do what I want cause I can and if I don't
 because I wanna be ignored by the stiff and the bored
 because I'm gonna.
@@ -74,6 +78,3 @@ Ask me once I'll answer twice cause what I know I'll tell
 because I wanna.
 Sound device and lots of ice I'll spell my name out loud
 because I wanna, oh yeah?
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Love Letters / But Not For Me
 artists:
 - Ketty Lester
+external_ids:
+  spotify: spotify:track:0JxQCmVhndnWtvNoPWgFLu
 features: []
-genres: []
+first_released_as_single: true
 key: but-not-for-me-ketty-lester
 lyrics_url: https://genius.com/Ketty-lester-but-not-for-me-lyrics
 name: But Not For Me
@@ -35,6 +38,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1962-08-04'
+release_year: 1962
+runtime: 178786
 ---
 But Not For Me
 Ketty Lester

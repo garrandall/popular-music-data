@@ -1,8 +1,11 @@
 ---
+album: Yours Sincerely
 artists:
 - Jim Reeves
+external_ids:
+  spotify: spotify:track:2Y4MFoHT6YsQtd7b7B42io
 features: []
-genres: []
+first_released_as_single: false
 key: billy-bayou-jim-reeves
 lyrics_url: https://genius.com/Jim-reeves-billy-bayou-lyrics
 name: Billy Bayou
@@ -11,6 +14,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1958-12-08'
+release_year: 1958
+runtime: 140320
 ---
 Back about eighteen hundred some
 A Louisiana couple had a redheaded son

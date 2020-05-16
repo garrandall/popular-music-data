@@ -1,8 +1,11 @@
 ---
+album: Pretty Hate Machine
 artists:
 - Nine Inch Nails
+external_ids:
+  spotify: spotify:track:6JympPamIP9zZWwKtANjfM
 features: []
-genres: []
+first_released_as_single: false
 key: only-nine-inch-nails
 lyrics_url: https://genius.com/Nine-inch-nails-only-lyrics
 name: Only
@@ -39,6 +42,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2005-12-24'
+release_year: 1989
+runtime: 287760
 ---
 I'm becoming less defined
 As days go by

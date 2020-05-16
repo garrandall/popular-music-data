@@ -1,8 +1,11 @@
 ---
+album: Illinois
 artists:
 - Brett Eldredge
+external_ids:
+  spotify: spotify:track:0dwudL6pM7zLO7MSUxMUYd
 features: []
-genres: []
+first_released_as_single: true
 key: lose-my-mind-brett-eldredge
 lyrics_url: https://genius.com/Brett-eldredge-lose-my-mind-lyrics
 name: Lose My Mind
@@ -87,6 +90,8 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '2015-11-07'
+release_year: 2015
+runtime: 155440
 ---
 You put me on a roller coaster, fly me on a plane
 You send me to another planet, get inside my brain

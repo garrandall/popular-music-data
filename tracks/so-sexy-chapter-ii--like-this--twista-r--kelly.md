@@ -1,9 +1,12 @@
 ---
+album: Kamikaze
 artists:
 - Twista
+external_ids:
+  spotify: spotify:track:7f4j4OC7X6D916BDnwXzPZ
 features:
 - R. Kelly
-genres: []
+first_released_as_single: false
 key: so-sexy-chapter-ii--like-this--twista-r--kelly
 lyrics_url: https://www.azlyrics.com/lyrics/twista/sosexychapterii.html
 name: So Sexy Chapter II (Like This)
@@ -16,9 +19,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2004-11-20'
+release_year: 2004
+runtime: 244160
 ---
-
-
 Do you want me to slow it down (Kelz)
 Do you want me to speed it up (Twista)
 Do you want me to slow it down (Kelz)
@@ -40,7 +43,7 @@ First I was on top of you now u sayin lets ride
 Freakin yo body so good I give you wet thighs
 When we get together you know we make the sex live
 Take you to paradise while massaging u down
-Feeling betta with twins mÃ©nagin u down
+Feeling betta with twins ménagin u down
 Make u explode and now I'm calming u down
 So good that u don't want me to bother u now
 Now listen here
@@ -123,6 +126,3 @@ Do you want me to slow it down (Kelz)
 Do you want me to speed it up (Twista)
 Do you want me to slow it down (Kelz)
 Do you want me to speed it up (Twista)
-
-
-

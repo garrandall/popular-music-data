@@ -1,8 +1,11 @@
 ---
+album: Sail Along Silv'ry Moon
 artists:
 - Billy Vaughn
+external_ids:
+  spotify: spotify:track:6zozQwSE31leg131wqnIwi
 features: []
-genres: []
+first_released_as_single: false
 key: berlin-melody-billy-vaughn-and-his-orchestra
 name: Berlin Melody
 rankings:
@@ -34,5 +37,7 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '1961-11-06'
+release_year: 1961
+runtime: 147666
 ---
 

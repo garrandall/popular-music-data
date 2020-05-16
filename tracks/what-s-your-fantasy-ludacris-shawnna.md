@@ -1,9 +1,12 @@
 ---
+album: Back For The First Time
 artists:
 - Ludacris
+external_ids:
+  spotify: spotify:track:4LwOrnuxJwR7C5Sw4liY4Z
 features:
 - Shawnna
-genres: []
+first_released_as_single: false
 key: what-s-your-fantasy-ludacris-shawnna
 lyrics_url: https://genius.com/Ludacris-whats-your-fantasy-lyrics
 name: What's Your Fantasy
@@ -96,6 +99,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '2001-02-24'
+release_year: 2000
+runtime: 275906
 ---
 Yeah, yeah, yeah, yeah
 Give it to me now, give it to me now

@@ -1,9 +1,12 @@
 ---
+album: Unexpected Arrival
 artists:
 - Diggy
+external_ids:
+  spotify: spotify:track:7aqpPVvXOBdChXju0loeya
 features:
 - Jeremih
-genres: []
+first_released_as_single: true
 key: do-it-like-you-diggy-jeremih
 lyrics_url: https://www.musixmatch.com/lyrics/Diggy-feat-Jeremih/Do-It-Like-You
 name: Do It Like You
@@ -40,6 +43,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '2012-04-14'
+release_year: 2011
+runtime: 233493
 ---
 Oh!
 

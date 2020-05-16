@@ -1,9 +1,12 @@
 ---
+album: Nothing Like This
 artists:
 - Rascal Flatts
+external_ids:
+  spotify: spotify:track:7jkWXm5j2er2KfsCRPwWfy
 features:
 - Natasha Bedingfield
-genres: []
+first_released_as_single: false
 key: easy-rascal-flatts-natasha-bedingfield
 lyrics_url: https://www.azlyrics.com/lyrics/rascalflatts/easy.html
 name: Easy
@@ -100,8 +103,9 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2012-01-14'
+release_year: 2010
+runtime: 218480
 ---
-
 We broke up
 Yeah, it's tough
 Most guys would've been crushed
@@ -147,6 +151,3 @@ Look so easy
 
 Oh, and it's so easy
 So easy
-
-
-

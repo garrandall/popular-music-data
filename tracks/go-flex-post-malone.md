@@ -1,8 +1,11 @@
 ---
+album: Stoney
 artists:
 - Post Malone
+external_ids:
+  spotify: spotify:track:5yuShbu70mtHXY0yLzCQLQ
 features: []
-genres: []
+first_released_as_single: false
 key: go-flex-post-malone
 lyrics_url: https://www.azlyrics.com/lyrics/postmalone/goflex.html
 name: Go Flex
@@ -51,8 +54,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2017-12-16'
+release_year: 2016
+runtime: 179613
 ---
-
 Lighting stog after stog, choke on the smoke
 They tell me to quit, don't listen to what I'm told
 Help me forget that this world is so cold
@@ -115,6 +119,3 @@ Man I just wanna go flex
 Gold on my teeth and on my neck
 And I'm stone cold with the flex
 Cold with the flex
-
-
-

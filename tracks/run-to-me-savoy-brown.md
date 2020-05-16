@@ -1,8 +1,11 @@
 ---
+album: Savoy Brown Live
 artists:
 - Savoy Brown
+external_ids:
+  spotify: spotify:track:7G9aAUW0AWBN8U10cuCP5o
 features: []
-genres: []
+first_released_as_single: false
 key: run-to-me-savoy-brown
 name: Run To Me
 rankings:
@@ -26,5 +29,7 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '1981-11-07'
+release_year: 1981
+runtime: 225400
 ---
 

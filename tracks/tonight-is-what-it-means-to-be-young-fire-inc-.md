@@ -1,8 +1,11 @@
 ---
+album: Streets Of Fire
 artists:
 - Fire Inc.
+external_ids:
+  spotify: spotify:track:5kipcj9XzSz7DD13xqF9sy
 features: []
-genres: []
+first_released_as_single: false
 key: tonight-is-what-it-means-to-be-young-fire-inc-
 lyrics_url: https://genius.com/Fire-inc-tonight-is-what-it-means-to-be-young-lyrics
 name: Tonight Is What It Means To Be Young
@@ -27,6 +30,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1984-06-30'
+release_year: 1984
+runtime: 414733
 ---
 I've got a dream 'bout an angel on the beach
 And the perfect waves are starting to come

@@ -1,8 +1,11 @@
 ---
+album: Berry Is On Top
 artists:
 - Chuck Berry
+external_ids:
+  spotify: spotify:track:0OA0lBeSRzpXyAbv8iTXw6
 features: []
-genres: []
+first_released_as_single: false
 key: little-queenie-chuck-berry
 lyrics_url: https://genius.com/Chuck-berry-little-queenie-lyrics
 name: Little Queenie
@@ -23,6 +26,8 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '1959-05-11'
+release_year: 1959
+runtime: 163800
 ---
 I got lumps in my throat
 When I saw her comin' down the aisle

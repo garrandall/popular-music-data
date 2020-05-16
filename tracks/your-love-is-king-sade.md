@@ -1,8 +1,11 @@
 ---
+album: Diamond Life
 artists:
 - Sade
+external_ids:
+  spotify: spotify:track:2DcSehEocZhDogCJKCnXb3
 features: []
-genres: []
+first_released_as_single: false
 key: your-love-is-king-sade
 lyrics_url: https://www.azlyrics.com/lyrics/sade/yourloveisking.html
 name: Your Love Is King
@@ -51,8 +54,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1985-08-31'
+release_year: 1984
+runtime: 219426
 ---
-
 Your love is king
 Crown you with my heart
 Your love is king
@@ -120,6 +124,3 @@ never gonna give it up
 I'm comming
 (your love is king)
 making me dance
-
-
-

@@ -1,9 +1,12 @@
 ---
+album: The Hits Of Johnny Maestro And The Brooklyn Bridge
 artists:
 - The Brooklyn Bridge
+external_ids:
+  spotify: spotify:track:6dHW2nNLB5GU5EUwVEe1e9
 features:
 - Johnny Maestro
-genres: []
+first_released_as_single: false
 key: welcome-me-love-the-brooklyn-bridge-johnny-maestro
 lyrics_url: https://www.musixmatch.com/lyrics/Johnny-Maestro-The-Brooklyn-Bridge/Welcome-Me-Love
 name: Welcome Me Love
@@ -44,6 +47,8 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '1969-07-05'
+release_year: 1969
+runtime: 155333
 ---
 The hours before the morning
 Walking home I pass her door

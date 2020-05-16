@@ -1,8 +1,11 @@
 ---
+album: Trustmaker
 artists:
 - The Tymes
+external_ids:
+  spotify: spotify:track:1LPCESFhMbgMaQjRG5dm9P
 features: []
-genres: []
+first_released_as_single: false
 key: ms-grace-the-tymes
 lyrics_url: https://genius.com/The-tymes-ms-grace-lyrics
 name: Ms Grace
@@ -23,6 +26,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1975-01-11'
+release_year: 1974
+runtime: 206360
 ---
 Oh oh oh Miss Grace
 Satin and perfume and lace

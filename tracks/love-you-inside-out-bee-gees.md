@@ -1,8 +1,11 @@
 ---
+album: Spirits Having Flown
 artists:
 - Bee Gees
+external_ids:
+  spotify: spotify:track:4ZxtmVTaCtmC4pTn0nkUJ5
 features: []
-genres: []
+first_released_as_single: false
 key: love-you-inside-out-bee-gees
 lyrics_url: https://www.azlyrics.com/lyrics/beegees/loveyouinsideout.html
 name: Love You Inside Out
@@ -83,8 +86,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1979-08-25'
+release_year: 1979
+runtime: 250640
 ---
-
 Baby, I can't figure it out
 Your kisses taste like honey
 Sweet lies don't gimme no rise
@@ -146,6 +150,3 @@ Backwards and forwards with
 My heart hanging out
 I love no other way
 What am I gonna do if we lose that fire?
-
-
-

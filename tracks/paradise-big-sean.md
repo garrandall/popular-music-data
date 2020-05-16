@@ -1,8 +1,11 @@
 ---
+album: Dark Sky Paradise
 artists:
 - Big Sean
+external_ids:
+  spotify: spotify:track:5se6K8sonaVJGu1mjj6ItC
 features: []
-genres: []
+first_released_as_single: true
 key: paradise-big-sean
 lyrics_url: https://www.azlyrics.com/lyrics/bigsean/paradiseextended.html
 name: Paradise
@@ -11,9 +14,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2015-03-14'
+release_year: 2014
+runtime: 148133
 ---
-
-
 I always wanted to stunt so hard
 I always wanted to ride that whip
 I always wanted to fuck that bitch
@@ -91,6 +94,3 @@ Life's a fucking paradox, a pair of dice
 If they not rolling with you, then they parasites
 Nigga I had that vision, it was ClearSight nigga
 Sean Don
-
-
-

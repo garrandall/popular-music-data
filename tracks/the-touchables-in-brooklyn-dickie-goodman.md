@@ -1,8 +1,11 @@
 ---
+album: Dickie Goodman Greatest Hits
 artists:
 - Dickie Goodman
+external_ids:
+  spotify: spotify:track:5caNL6XsOO3rkPtmnqFE0w
 features: []
-genres: []
+first_released_as_single: false
 key: the-touchables-in-brooklyn-dickie-goodman
 lyrics_url: https://genius.com/Dickie-goodman-the-touchables-in-brooklyn-lyrics
 name: The Touchables In Brooklyn
@@ -31,6 +34,8 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1961-05-29'
+release_year: 1961
+runtime: 113053
 ---
 Brooklyn, New York, July 4th, 1939 - A day for fireworks
 Murder Incorporated received a contract to rub out Elliott Fress

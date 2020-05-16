@@ -1,8 +1,11 @@
 ---
+album: Chapter V
 artists:
 - Trey Songz
+external_ids:
+  spotify: spotify:track:1J36RjF8Mx8Yp2QWvFSPmv
 features: []
-genres: []
+first_released_as_single: true
 key: heart-attack-trey-songz
 lyrics_url: https://www.azlyrics.com/lyrics/treysongz/heartattack.html
 name: Heart Attack
@@ -111,8 +114,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2012-10-13'
+release_year: 2012
+runtime: 235158
 ---
-
 Turn the lights on!
 
 Oh wo-oh, oh wo-oh
@@ -176,6 +180,3 @@ The worst pain that I ever had
 If I knew I'd feel like this man
 Oh wo-oh, never never never knew love (oh wo-oh) would hurt this fuckin' bad
 The worst pain that I ever had
-
-
-

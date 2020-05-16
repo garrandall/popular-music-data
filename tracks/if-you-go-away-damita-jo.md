@@ -1,8 +1,11 @@
 ---
+album: If You Go Away
 artists:
 - Damita Jo
+external_ids:
+  spotify: spotify:track:1CfeKBehU6z7lZ9zO0kf5g
 features: []
-genres: []
+first_released_as_single: false
 key: if-you-go-away-damita-jo
 lyrics_url: https://genius.com/Damita-jo-if-you-go-away-lyrics
 name: If You Go Away
@@ -47,6 +50,8 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '1967-02-11'
+release_year: 1966
+runtime: 238613
 ---
 If you go away
 On this summer day

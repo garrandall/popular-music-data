@@ -1,8 +1,11 @@
 ---
+album: Sports
 artists:
 - Huey Lewis & The News
+external_ids:
+  spotify: spotify:track:2yWf3FJLwB0ytfOpgqLoa2
 features: []
-genres: []
+first_released_as_single: false
 key: i-want-a-new-drug-huey-lewis-the-news
 lyrics_url: https://www.azlyrics.com/lyrics/hueylewisthenews/iwantanewdrug.html
 name: I Want A New Drug
@@ -83,8 +86,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1984-05-19'
+release_year: 1983
+runtime: 285800
 ---
-
 Yeah-eah!
 
 I want a new drug
@@ -133,6 +137,3 @@ Wondering what to do
 One that makes me feel like I feel when I'm with you
 When I'm alone with you
 I'm alone with you
-
-
-

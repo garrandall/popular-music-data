@@ -1,9 +1,12 @@
 ---
+album: Shakira.
 artists:
 - Shakira
+external_ids:
+  spotify: spotify:track:3yNVRe7CmqPYE0RkWWqry6
 features:
 - Rihanna
-genres: []
+first_released_as_single: true
 key: can-t-remember-to-forget-you-shakira-rihanna
 lyrics_url: https://genius.com/Shakira-cant-remember-to-forget-you-lyrics
 name: Can't Remember To Forget You
@@ -84,6 +87,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2014-06-07'
+release_year: 2014
+runtime: 313903
 ---
 I left a note on my bedpost
 Said, "Not to repeat yesterday’s mistakes"

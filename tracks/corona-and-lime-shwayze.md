@@ -1,8 +1,11 @@
 ---
+album: Shwayze
 artists:
 - Shwayze
+external_ids:
+  spotify: spotify:track:4U5CjTT6uObhD2vwnD4zOF
 features: []
-genres: []
+first_released_as_single: false
 key: corona-and-lime-shwayze
 lyrics_url: https://www.azlyrics.com/lyrics/shwayze/coronaandlime.html
 name: Corona And Lime
@@ -39,9 +42,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2008-09-27'
+release_year: 2008
+runtime: 236000
 ---
-
-
 Baby will be my, corona and lime
 And I will be your, main squeeze
 And if your brother don't like my style,
@@ -115,6 +118,3 @@ And I will be your, sandy beach
 And if your brother don't like my style,
 We can take it to the street,
 We can take it to the street
-
-
-

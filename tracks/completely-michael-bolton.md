@@ -1,8 +1,11 @@
 ---
+album: The One Thing
 artists:
 - Michael Bolton
+external_ids:
+  spotify: spotify:track:1ZnwFwzQoFno1T2aYzVDmr
 features: []
-genres: []
+first_released_as_single: false
 key: completely-michael-bolton
 lyrics_url: https://www.azlyrics.com/lyrics/michaelbolton/completely.html
 name: Completely
@@ -67,8 +70,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1994-06-25'
+release_year: 1993
+runtime: 264906
 ---
-
 Completely, wanna give my love, completely
 I'd rather be alone than be in love just half the way
 I want to find someone that I can trust, completely
@@ -98,4 +102,3 @@ It's all or nothing at all for this heart of mine
 And I won't give up this heart until the day I find
 Someone who can be
 Someone who loves me
-

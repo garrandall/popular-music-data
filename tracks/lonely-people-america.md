@@ -1,8 +1,11 @@
 ---
+album: Holiday
 artists:
 - America
+external_ids:
+  spotify: spotify:track:1ElrrSBvvhuWTvpi8aroh2
 features: []
-genres: []
+first_released_as_single: false
 key: lonely-people-america
 lyrics_url: https://genius.com/America-lonely-people-lyrics
 name: Lonely People
@@ -63,6 +66,8 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '1975-03-29'
+release_year: 1972
+runtime: 150226
 ---
 This is for all the lonely people
 Thinking that life has passed them by

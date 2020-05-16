@@ -1,11 +1,14 @@
 ---
+album: Sugar (Gimme Some)
 artists:
 - Trick Daddy
+external_ids:
+  spotify: spotify:track:61yMEjzVPDXONZsl8btpDG
 features:
 - Ludacris
 - Lil' Kim
 - Cee-Lo
-genres: []
+first_released_as_single: true
 key: sugar--gimme-some--trick-daddy-ludacris-lil--kim-cee-lo
 lyrics_url: https://genius.com/Trick-daddy-sugar-remix-lyrics
 name: Sugar (Gimme Some)
@@ -114,6 +117,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '2005-07-16'
+release_year: 2005
+runtime: 246946
 ---
 Uh huh
  Yeah

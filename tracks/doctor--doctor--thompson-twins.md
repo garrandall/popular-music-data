@@ -1,8 +1,11 @@
 ---
+album: Into The Gap
 artists:
 - Thompson Twins
+external_ids:
+  spotify: spotify:track:15PC4RTMeQa2Gv4nnwSrwc
 features: []
-genres: []
+first_released_as_single: false
 key: doctor--doctor--thompson-twins
 lyrics_url: https://www.azlyrics.com/lyrics/thompsontwins/doctordoctor.html
 name: Doctor! Doctor!
@@ -71,8 +74,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1984-09-08'
+release_year: 1984
+runtime: 279000
 ---
-
 I saw you there
 Just standing there
 And I thought I was only dreaming, yeah
@@ -126,6 +130,3 @@ Is this love I'm feeling?
 Come with me
 And make believe 
 We can travel to eternity
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: V
 artists:
 - Maroon 5
+external_ids:
+  spotify: spotify:track:2iuZJX9X9P0GKaE93xcPjk
 features: []
-genres: []
+first_released_as_single: false
 key: sugar-maroon-5
 lyrics_url: https://genius.com/Maroon-5-sugar-lyrics
 name: Sugar
@@ -175,6 +178,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2015-11-14'
+release_year: 2014
+runtime: 235493
 ---
 I'm hurting baby, I'm broken down
 I need your loving, loving I need it now

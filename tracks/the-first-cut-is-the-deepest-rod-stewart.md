@@ -1,8 +1,11 @@
 ---
+album: A Night on the Town
 artists:
 - Rod Stewart
+external_ids:
+  spotify: spotify:track:3FeYjbIVqvAhuTcwsE6K3v
 features: []
-genres: []
+first_released_as_single: false
 key: the-first-cut-is-the-deepest-rod-stewart
 lyrics_url: https://www.azlyrics.com/lyrics/rodstewart/thefirstcutisthedeepest.html
 name: The First Cut Is The Deepest
@@ -55,8 +58,9 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '1977-04-30'
+release_year: 1976
+runtime: 271200
 ---
-
 I would have given you all of my heart
 But there's someone who's torn it apart
 And she's taken just all that I had
@@ -88,6 +92,3 @@ The first cut is the deepest
 Baby I know the first cut is the deepest
 When it come to being lucky she's cursed
 When it come to loving me she's the worst
-
-
-

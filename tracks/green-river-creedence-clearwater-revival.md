@@ -1,8 +1,11 @@
 ---
+album: Green River
 artists:
 - Creedence Clearwater Revival
+external_ids:
+  spotify: spotify:track:6EJMWdM87mvhztDXozhSCj
 features: []
-genres: []
+first_released_as_single: false
 key: green-river-creedence-clearwater-revival
 lyrics_url: https://www.azlyrics.com/lyrics/creedenceclearwaterrevival/greenriver.html
 name: Green River
@@ -59,8 +62,9 @@ rankings:
   rank: 23
   ranking_list: Billboard Hot 100
   start_date: '1969-10-25'
+release_year: 1969
+runtime: 153266
 ---
-
 Well, take me back down where cool water flows, yeah.
 Let me remember things I love,
 Stoppin' at the log where catfish bite,
@@ -82,6 +86,3 @@ And if you get lost come on home to Green River."
 
 Welllllll!
 Come on home.
-
-
-

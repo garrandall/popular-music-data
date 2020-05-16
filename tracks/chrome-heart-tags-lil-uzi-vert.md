@@ -1,8 +1,11 @@
 ---
+album: Eternal Atake
 artists:
 - Lil Uzi Vert
+external_ids:
+  spotify: spotify:track:46mT9NR7N9Zf5MolcrBgE3
 features: []
-genres: []
+first_released_as_single: false
 key: chrome-heart-tags-lil-uzi-vert
 lyrics_url: https://genius.com/Lil-uzi-vert-chrome-heart-tags-lyrics
 name: Chrome Heart Tags
@@ -11,6 +14,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '2020-03-21'
+release_year: 2020
+runtime: 212821
 ---
 Yeah, this Lil Uzi Vert
 (T-T-T-T-Turbo)

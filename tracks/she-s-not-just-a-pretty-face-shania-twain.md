@@ -1,8 +1,11 @@
 ---
+album: Up!
 artists:
 - Shania Twain
+external_ids:
+  spotify: spotify:track:5xh0pLWWOuHiHsqvIX8JpH
 features: []
-genres: []
+first_released_as_single: false
 key: she-s-not-just-a-pretty-face-shania-twain
 lyrics_url: https://genius.com/Shania-twain-shes-not-just-a-pretty-face-lyrics
 name: She's Not Just A Pretty Face
@@ -59,6 +62,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2004-02-28'
+release_year: 2002
+runtime: 229026
 ---
 (Oh na, na, na, na, na)
 

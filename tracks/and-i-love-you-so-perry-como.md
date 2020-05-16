@@ -1,8 +1,11 @@
 ---
+album: Live on Tour
 artists:
 - Perry Como
+external_ids:
+  spotify: spotify:track:3ZgC6tkJ3vjFsmVk4bUe9l
 features: []
-genres: []
+first_released_as_single: false
 key: and-i-love-you-so-perry-como
 lyrics_url: https://genius.com/Perry-como-and-i-love-you-so-lyrics
 name: And I Love You So
@@ -71,6 +74,8 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1973-07-28'
+release_year: 1973
+runtime: 199066
 ---
 And I love you so
 The people ask me how

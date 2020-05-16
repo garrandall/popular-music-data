@@ -1,8 +1,11 @@
 ---
+album: Keep On Pushing
 artists:
 - The Impressions
+external_ids:
+  spotify: spotify:track:5mDEEfMs1fHTjoEffGvnvr
 features: []
-genres: []
+first_released_as_single: false
 key: keep-on-pushing-the-impressions
 lyrics_url: https://www.azlyrics.com/lyrics/impressions/keeponpushing.html
 name: Keep On Pushing
@@ -59,8 +62,9 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '1964-08-29'
+release_year: 1964
+runtime: 155626
 ---
-
 Keep on pushin'
 Keep on pushin'
 
@@ -102,6 +106,3 @@ Keep on pushin'
 What I say yeah
 Keep on pushin'
 Well, that's alright
-
-
-

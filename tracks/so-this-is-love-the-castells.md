@@ -1,8 +1,11 @@
 ---
+album: So This Is Love
 artists:
 - The Castells
+external_ids:
+  spotify: spotify:track:3JxHDzRdrxsDtlNTEvgb3x
 features: []
-genres: []
+first_released_as_single: false
 key: so-this-is-love-the-castells
 lyrics_url: https://www.musixmatch.com/lyrics/The-Castells/So-This-Is-Love
 name: So This Is Love
@@ -59,6 +62,8 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '1962-07-07'
+release_year: 1962
+runtime: 162386
 ---
 So this is love... real love
 And it's like Paradise.oh yes

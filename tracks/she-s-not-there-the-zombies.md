@@ -1,8 +1,11 @@
 ---
+album: Begin Here
 artists:
 - The Zombies
+external_ids:
+  spotify: spotify:track:2ghkvWvqASoogzq4Y9zeF0
 features: []
-genres: []
+first_released_as_single: true
 key: she-s-not-there-the-zombies
 lyrics_url: https://genius.com/The-zombies-shes-not-there-lyrics
 name: She's Not There
@@ -67,6 +70,8 @@ rankings:
   rank: 30
   ranking_list: Billboard Hot 100
   start_date: '1965-01-23'
+release_year: 1964
+runtime: 144600
 ---
 Well no one told me about her
 The way she lied

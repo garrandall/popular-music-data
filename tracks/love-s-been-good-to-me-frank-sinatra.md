@@ -1,8 +1,11 @@
 ---
+album: 'A Man Alone: The Words And Music Of McKuen'
 artists:
 - Frank Sinatra
+external_ids:
+  spotify: spotify:track:20dyFIpzzc649Aku3PfXwO
 features: []
-genres: []
+first_released_as_single: false
 key: love-s-been-good-to-me-frank-sinatra
 lyrics_url: https://genius.com/Frank-sinatra-loves-been-good-to-me-lyrics
 name: Love's Been Good To Me
@@ -23,6 +26,8 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1969-10-04'
+release_year: 1969
+runtime: 204066
 ---
 I have been a rover I have walked alone
 Hiked a hundred highways never found a home

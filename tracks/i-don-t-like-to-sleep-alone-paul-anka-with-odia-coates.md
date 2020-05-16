@@ -1,9 +1,12 @@
 ---
+album: Feelings
 artists:
 - Paul Anka
+external_ids:
+  spotify: spotify:track:0kgjL2oRFsV6GSwVNCcQS6
 features:
 - Odia Coates
-genres: []
+first_released_as_single: false
 key: i-don-t-like-to-sleep-alone-paul-anka-with-odia-coates
 lyrics_url: https://www.musixmatch.com/lyrics/Paul-Anka-feat-Odia-Coates/I-Don-t-Like-to-Sleep-Alone
 name: I Don't Like To Sleep Alone
@@ -68,6 +71,8 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '1975-06-21'
+release_year: 1975
+runtime: 198826
 ---
 I don't like to sleep alone
 Stay with me

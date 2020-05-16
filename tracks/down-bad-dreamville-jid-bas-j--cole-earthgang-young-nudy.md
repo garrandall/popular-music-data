@@ -1,13 +1,16 @@
 ---
+album: Revenge Of The Dreamers III
 artists:
 - Dreamville
+external_ids:
+  spotify: spotify:track:6DR6EM4tcFMLqclewwtfbW
 features:
 - JID
 - Bas
 - J. Cole
 - EARTHGANG
 - Young Nudy
-genres: []
+first_released_as_single: true
 key: down-bad-dreamville-jid-bas-j--cole-earthgang-young-nudy
 lyrics_url: https://www.azlyrics.com/lyrics/dreamville/downbad.html
 name: Down Bad
@@ -20,6 +23,8 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '2019-07-20'
+release_year: 2019
+runtime: 169146
 ---
 Tell 'em, slime
 
@@ -44,7 +49,7 @@ I was just fucked up, I was just down, down bad
 I had to tighten the fuck up, but I'm here for the crown
 Board of Education vs. Brown
 I was bored of education, left the town
-Fuck a rÃ©sumÃ© and fuck a cap and gown
+Fuck a résumé and fuck a cap and gown
 Fuck a background check back 'round when I get the check
 Nigga, that's now
 

@@ -1,8 +1,11 @@
 ---
+album: Grits Ain't Groceries
 artists:
 - Little Milton
+external_ids:
+  spotify: spotify:track:2gZ91GG9BvRe4ELRFhBkIQ
 features: []
-genres: []
+first_released_as_single: false
 key: grits-ain-t-groceries--all-around-the-world--little-milton
 lyrics_url: https://genius.com/Little-milton-grits-aint-groceries-lyrics
 name: Grits Ain't Groceries (All Around The World)
@@ -27,6 +30,8 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1969-03-01'
+release_year: 1969
+runtime: 168333
 ---
 If I don't love you, baby
 Grits ain't grocery

@@ -1,8 +1,11 @@
 ---
+album: Close to the Edge
 artists:
 - 'Yes'
+external_ids:
+  spotify: spotify:track:2IDIxX8L57lsOczvSMQRFd
 features: []
-genres: []
+first_released_as_single: false
 key: and-you-and-i--part-ii--yes
 lyrics_url: https://genius.com/Yes-and-you-and-i-lyrics
 name: And You And I (Part II)
@@ -35,6 +38,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1972-12-23'
+release_year: 1972
+runtime: 607786
 ---
 A man conceived a moment's answers to the dream
 Staying the flowers daily, sensing all the themes

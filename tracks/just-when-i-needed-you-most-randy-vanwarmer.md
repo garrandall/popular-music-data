@@ -1,8 +1,11 @@
 ---
+album: Warmer
 artists:
 - Randy VanWarmer
+external_ids:
+  spotify: spotify:track:55wl56WlKI85UBNZoFxe9P
 features: []
-genres: []
+first_released_as_single: false
 key: just-when-i-needed-you-most-randy-vanwarmer
 lyrics_url: https://genius.com/Randy-vanwarmer-just-when-i-needed-you-most-lyrics
 name: Just When I Needed You Most
@@ -87,6 +90,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1979-08-04'
+release_year: 1979
+runtime: 241746
 ---
 You packed in the morning, I stared out the window
 And I struggled for something to say

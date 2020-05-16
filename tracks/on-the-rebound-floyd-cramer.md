@@ -1,8 +1,11 @@
 ---
+album: On the Rebound
 artists:
 - Floyd Cramer
+external_ids:
+  spotify: spotify:track:2vdjYcYAmectRUOiR9Blk3
 features: []
-genres: []
+first_released_as_single: false
 key: on-the-rebound-floyd-cramer
 lyrics_url: https://genius.com/Floyd-cramer-on-the-rebound-lyrics
 name: On The Rebound
@@ -59,5 +62,7 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '1961-05-29'
+release_year: 1961
+runtime: 126106
 ---
 (Instrumental)

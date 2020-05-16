@@ -1,8 +1,11 @@
 ---
+album: Bring You Back
 artists:
 - Brett Eldredge
+external_ids:
+  spotify: spotify:track:3un2KQUaQ2brEpd8dK93wI
 features: []
-genres: []
+first_released_as_single: false
 key: beat-of-the-music-brett-eldredge
 lyrics_url: https://www.azlyrics.com/lyrics/bretteldredge/beatofthemusic.html
 name: Beat Of The Music
@@ -87,8 +90,9 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '2014-07-05'
+release_year: 2013
+runtime: 179293
 ---
-
 Well I just met you a couple hours ago
 My last night in town, hey wouldn't you know
 I get hooked on a girl with blue diamond eyes
@@ -122,6 +126,3 @@ You got my heart racing like there's nothing to it
 Falling in love to the beat of the music
 We're falling in love to beat of the music
 Beat of the music
-
-
-

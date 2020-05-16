@@ -1,8 +1,11 @@
 ---
+album: The Massacre
 artists:
 - 50 Cent
+external_ids:
+  spotify: spotify:track:3FaS5pwUOfrhr366NERG5X
 features: []
-genres: []
+first_released_as_single: true
 key: disco-inferno-50-cent
 lyrics_url: https://www.azlyrics.com/lyrics/50cent/discoinferno.html
 name: Disco Inferno
@@ -123,9 +126,9 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '2005-06-25'
+release_year: 2004
+runtime: 216520
 ---
-
-
 Lil' mama show me how you move it,
 Go ahead put ya back into it,
 Do ya thang like there aint nothin to it,
@@ -193,6 +196,3 @@ Lil' mama show me how you move it,
 Go ahead put ya back into it,
 Do ya thang like there aint nothin to it,
 Shake.. shake.. shake that ass girl.
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Carrying Your Love With Me
 artists:
 - George Strait
+external_ids:
+  spotify: spotify:track:3QHmTTi3i6tZ733gVO7AKd
 features: []
-genres: []
+first_released_as_single: false
 key: she-ll-leave-you-with-a-smile-george-strait
 lyrics_url: https://genius.com/George-strait-shell-leave-you-with-a-smile-lyrics
 name: She'll Leave You With A Smile
@@ -87,6 +90,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '2003-02-15'
+release_year: 1997
+runtime: 188066
 ---
 At first she's going to come on strong
 Like she'll love you all night long

@@ -1,8 +1,11 @@
 ---
+album: Some Things I Know
 artists:
 - Lee Ann Womack
+external_ids:
+  spotify: spotify:track:7ygWc80Ao1nhcV2D6Q3zPa
 features: []
-genres: []
+first_released_as_single: false
 key: i-ll-think-of-a-reason-later-lee-ann-womack
 lyrics_url: https://genius.com/Lee-ann-womack-ill-think-of-a-reason-later-lyrics
 name: I'll Think Of A Reason Later
@@ -87,6 +90,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1999-07-10'
+release_year: 1998
+runtime: 218666
 ---
 I heard he was gonna marry some girl from Denver
 Then my sister came over

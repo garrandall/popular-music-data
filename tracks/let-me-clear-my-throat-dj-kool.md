@@ -1,8 +1,11 @@
 ---
+album: Let Me Clear My Throat
 artists:
 - DJ Kool
+external_ids:
+  spotify: spotify:track:7k3sn5TIQ3qRVJ8FPTG9kx
 features: []
-genres: []
+first_released_as_single: false
 key: let-me-clear-my-throat-dj-kool
 lyrics_url: https://genius.com/Dj-kool-let-me-clear-my-throat-live-lyrics
 name: Let Me Clear My Throat
@@ -87,6 +90,8 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '1997-06-14'
+release_year: 1996
+runtime: 290160
 ---
 At the count of three
 I want everybody in the place to be

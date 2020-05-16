@@ -1,9 +1,12 @@
 ---
+album: Culture
 artists:
 - Migos
+external_ids:
+  spotify: spotify:track:3zXUAU3pPp5fJXMhuIil5C
 features:
 - DJ Khaled
-genres: []
+first_released_as_single: false
 key: culture-migos-dj-khaled
 lyrics_url: https://www.azlyrics.com/lyrics/migos/culture.html
 name: Culture
@@ -12,9 +15,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2017-02-18'
+release_year: 2017
+runtime: 155029
 ---
-
-
 They try to play us, they play themselves
 This the intro
 For all you fuckboys that ever tried to doubt the Migos, you played yourself! (Another one)
@@ -98,6 +101,3 @@ Finesse a nigga, no raccoon
 Spending M&M's in June
 Took a trip to Cancun
 Culture album coming soon (DJ Khaled)
-
-
-

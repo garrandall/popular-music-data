@@ -1,8 +1,11 @@
 ---
+album: KEEP IT UP
 artists:
 - Loverboy
+external_ids:
+  spotify: spotify:track:1pB5Y2BPLez1J49KKKewUE
 features: []
-genres: []
+first_released_as_single: false
 key: hot-girls-in-love-loverboy
 lyrics_url: https://www.azlyrics.com/lyrics/loverboy/hotgirlsinlove.html
 name: Hot Girls In Love
@@ -71,8 +74,9 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '1983-09-24'
+release_year: 1983
+runtime: 239000
 ---
-
 She's so young at heart
 She likes the pleasure of his company
 She cuts the inside groove
@@ -142,6 +146,3 @@ Hot girls in love, in love
 Ah
 In love
 In love
-
-
-

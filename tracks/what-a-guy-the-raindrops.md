@@ -1,8 +1,11 @@
 ---
+album: The Raindrops
 artists:
 - The Raindrops
+external_ids:
+  spotify: spotify:track:7I6cSc7DJiwe8DrT1Ec6ZA
 features: []
-genres: []
+first_released_as_single: false
 key: what-a-guy-the-raindrops
 lyrics_url: https://www.musixmatch.com/lyrics/The-Raindrops/What-a-Guy
 name: What A Guy
@@ -39,6 +42,8 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '1963-06-15'
+release_year: 1963
+runtime: 140960
 ---
 I see him everyday
 He pass my way

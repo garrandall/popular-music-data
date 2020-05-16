@@ -1,8 +1,11 @@
 ---
+album: Best Of Lee Greenwood / God Bless The USA
 artists:
 - Lee Greenwood
+external_ids:
+  spotify: spotify:track:1MnebCPkLm11EGCnrusLPu
 features: []
-genres: []
+first_released_as_single: false
 key: god-bless-the-usa-lee-greenwood
 lyrics_url: https://genius.com/Lee-greenwood-god-bless-the-usa-lyrics
 name: God Bless The USA
@@ -75,6 +78,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2002-01-19'
+release_year: 1996
+runtime: 196933
 ---
 If tomorrow all the things were gone
 I'd worked for all my life

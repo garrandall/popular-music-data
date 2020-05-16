@@ -1,8 +1,11 @@
 ---
+album: '"Live By Request"'
 artists:
 - k.d. lang
+external_ids:
+  spotify: spotify:track:1Hh0zS3b9pszJA7wnNeWG0
 features: []
-genres: []
+first_released_as_single: false
 key: constant-craving-k-d--lang
 lyrics_url: https://www.azlyrics.com/lyrics/kdlang/constantcraving.html
 name: Constant Craving
@@ -83,8 +86,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1992-12-19'
+release_year: 1992
+runtime: 272093
 ---
-
 Even through the darkest phase
 Be it thick or thin
 Always someone marches brave
@@ -143,6 +147,3 @@ Always been
 Has always been
 Has always been
 Has always been
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Saturday Night With Conway Twitty
 artists:
 - Conway Twitty
+external_ids:
+  spotify: spotify:track:5nfAOZz4UwZ5fNnZgYwcQM
 features: []
-genres: []
+first_released_as_single: false
 key: hey-little-lucy---don-tcha-put-no-lipstick-on--conway-twitty
 lyrics_url: https://genius.com/Conway-twitty-hey-little-lucy-dontcha-put-no-lipstick-on-lyrics
 name: Hey Little Lucy! (Don'tcha Put No Lipstick On)
@@ -15,6 +18,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1959-06-01'
+release_year: 1959
+runtime: 109533
 ---
 Mmm, baby, when I take you out tonight
 Fix your hair, dress up right

@@ -1,8 +1,11 @@
 ---
+album: Here He Comes Again!
 artists:
 - Fats Domino
+external_ids:
+  spotify: spotify:track:0Q8HbBT8JtA9l0YR0703nF
 features: []
-genres: []
+first_released_as_single: false
 key: telling-lies-fats-domino
 lyrics_url: https://genius.com/Fats-domino-telling-lies-lyrics
 name: Telling Lies
@@ -43,6 +46,8 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '1959-04-13'
+release_year: 1959
+runtime: 141400
 ---
 You been telling me lies
 And I know it

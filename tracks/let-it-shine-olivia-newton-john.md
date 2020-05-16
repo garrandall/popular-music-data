@@ -1,8 +1,11 @@
 ---
+album: Clearly Love
 artists:
 - Olivia Newton-John
+external_ids:
+  spotify: spotify:track:1fUNVssHwWOQS13T73UKK4
 features: []
-genres: []
+first_released_as_single: false
 key: let-it-shine-olivia-newton-john
 lyrics_url: https://www.azlyrics.com/lyrics/olivianewtonjohn/letitshine.html
 name: Let It Shine
@@ -43,8 +46,9 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '1976-01-31'
+release_year: 1975
+runtime: 146200
 ---
-
 A woman needs attention like the flowers need the sun
 Without that attention, a woman feels undone
 Now I'm like a flower that's been standin' in the rain
@@ -72,6 +76,3 @@ Anytime would be fine
 Is there anybody out there who can glow
 And would like to see a little flower grow?
 Shine on me, let it shine
-
-
-

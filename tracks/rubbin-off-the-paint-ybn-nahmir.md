@@ -1,8 +1,11 @@
 ---
+album: 'YBN: The Mixtape'
 artists:
 - YBN Nahmir
+external_ids:
+  spotify: spotify:track:1QRJb5VY3sIkCKcTuIKCrk
 features: []
-genres: []
+first_released_as_single: true
 key: rubbin-off-the-paint-ybn-nahmir
 lyrics_url: https://genius.com/Ybn-nahmir-rubbin-off-the-paint-lyrics
 name: Rubbin Off The Paint
@@ -75,6 +78,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2018-04-07'
+release_year: 2017
+runtime: 157504
 ---
 That's what I thought you said
 Now let me offer this as a rebuttal

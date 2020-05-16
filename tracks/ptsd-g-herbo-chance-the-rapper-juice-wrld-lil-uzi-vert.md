@@ -1,11 +1,14 @@
 ---
+album: PTSD
 artists:
 - G Herbo
+external_ids:
+  spotify: spotify:track:3jT2LKH0RSbQ8jIUNFzXm5
 features:
 - Chance The Rapper
 - Juice WRLD
 - Lil Uzi Vert
-genres: []
+first_released_as_single: false
 key: ptsd-g-herbo-chance-the-rapper-juice-wrld-lil-uzi-vert
 lyrics_url: https://genius.com/G-herbo-ptsd-lyrics
 name: PTSD
@@ -18,6 +21,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2020-03-21'
+release_year: 2020
+runtime: 232064
 ---
 D.A. got that—
 D.A. got that dope

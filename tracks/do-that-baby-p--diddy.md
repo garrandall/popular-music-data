@@ -1,9 +1,12 @@
 ---
+album: Birdman
 artists:
 - Baby
+external_ids:
+  spotify: spotify:track:2UuYX9gpimgG9woC5cnfV9
 features:
 - P. Diddy
-genres: []
+first_released_as_single: false
 key: do-that-baby-p--diddy
 lyrics_url: https://www.azlyrics.com/lyrics/babyakathe1stunna/dothat.html
 name: Do That
@@ -88,6 +91,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2003-03-29'
+release_year: 2002
+runtime: 301186
 ---
 C'mon now, c'mon now
 Cash Money, Bad Boy baby

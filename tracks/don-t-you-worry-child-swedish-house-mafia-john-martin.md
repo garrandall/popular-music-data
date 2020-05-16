@@ -1,9 +1,12 @@
 ---
+album: Until Now
 artists:
 - Swedish House Mafia
+external_ids:
+  spotify: spotify:track:043bfUkTydw0xJ5JjOT91w
 features:
 - John Martin
-genres: []
+first_released_as_single: false
 key: don-t-you-worry-child-swedish-house-mafia-john-martin
 lyrics_url: https://www.musixmatch.com/lyrics/Swedish-House-Mafia/Don-t-You-Worry-Child
 name: Don't You Worry Child
@@ -140,6 +143,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2013-05-18'
+release_year: 2012
+runtime: 403493
 ---
 There was a time
 I used to look into my father's eyes

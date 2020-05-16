@@ -1,8 +1,11 @@
 ---
+album: Mystics of The God
 artists:
 - King Just
+external_ids:
+  spotify: spotify:track:2s5aO9giqdzz3vrAa2pw55
 features: []
-genres: []
+first_released_as_single: false
 key: warrior-s-drum-king-just
 lyrics_url: https://genius.com/King-just-warriors-drum-lyrics
 name: Warrior's Drum
@@ -27,6 +30,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1994-07-30'
+release_year: 1994
+runtime: 284053
 ---
 Can I get the phat intro?
 This is how you was gon start it off?

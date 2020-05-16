@@ -1,8 +1,11 @@
 ---
+album: Let There Be Music
 artists:
 - Orleans
+external_ids:
+  spotify: spotify:track:5TceQ9p45y407K6lxJgvAy
 features: []
-genres: []
+first_released_as_single: false
 key: dance-with-me-orleans
 lyrics_url: https://genius.com/Orleans-dance-with-me-lyrics
 name: Dance With Me
@@ -79,6 +82,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1975-11-15'
+release_year: 1975
+runtime: 200533
 ---
 Dance with me
 I want to be your partner

@@ -1,8 +1,11 @@
 ---
+album: Passion, Pain & Pleasure
 artists:
 - Trey Songz
+external_ids:
+  spotify: spotify:track:0H6fDB7YaMZe1rXCmATx9l
 features: []
-genres: []
+first_released_as_single: false
 key: can-t-be-friends-trey-songz
 lyrics_url: https://genius.com/Trey-songz-cant-be-friends-lyrics
 name: Can't Be Friends
@@ -87,6 +90,8 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '2011-02-12'
+release_year: 2010
+runtime: 220373
 ---
 Look what this girl done did to me
 She done cut me off from a good, good love

@@ -1,8 +1,11 @@
 ---
+album: I Wanna Go There
 artists:
 - Tyrese
+external_ids:
+  spotify: spotify:track:2Bam1YzxyXs7QAM3YP3OUJ
 features: []
-genres: []
+first_released_as_single: false
 key: signs-of-love-makin--tyrese
 lyrics_url: https://www.azlyrics.com/lyrics/tyrese/signsoflovemakin.html
 name: Signs Of Love Makin'
@@ -63,8 +66,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2003-10-25'
+release_year: 1998
+runtime: 236400
 ---
-
 These are the signs that are made for each other
 Are you the zodiac Freak, oo-ee
 I'm a Capricorn, I came here to get manish
@@ -148,6 +152,3 @@ I'mma show you things
 You've never seen
 All night long
 Baby, be my babe
-
-
-

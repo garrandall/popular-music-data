@@ -1,8 +1,11 @@
 ---
+album: Have A Holly Jolly Christmas
 artists:
 - Burl Ives
+external_ids:
+  spotify: spotify:track:65Q2mv3UlVi9eO70OpsmSe
 features: []
-genres: []
+first_released_as_single: false
 key: a-holly-jolly-christmas-burl-ives
 lyrics_url: https://www.azlyrics.com/lyrics/burlives/ahollyjollychristmas.html
 name: A Holly Jolly Christmas
@@ -67,8 +70,9 @@ rankings:
   rank: 4
   ranking_list: Billboard Hot 100
   start_date: '2020-01-04'
+release_year: 1965
+runtime: 135533
 ---
-
 (Ding-dong-ding)
 (Ding-dong-ding)
 
@@ -111,6 +115,3 @@ Oh, by golly, have a holly jolly Christmas this year
 (Ding-dong-ding-dong)
 (Ding-dong-ding-dong)
 (Ding-dong-ding)
-
-
-

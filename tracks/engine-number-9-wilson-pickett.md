@@ -1,8 +1,11 @@
 ---
+album: In Philadelphia
 artists:
 - Wilson Pickett
+external_ids:
+  spotify: spotify:track:0Q0E6Xe8OvefYLYfVPfRhs
 features: []
-genres: []
+first_released_as_single: false
 key: engine-number-9-wilson-pickett
 lyrics_url: https://www.azlyrics.com/lyrics/wilsonpickett/enginenumber9.html
 name: Engine Number 9
@@ -59,8 +62,9 @@ rankings:
   rank: 34
   ranking_list: Billboard Hot 100
   start_date: '1970-12-19'
+release_year: 1970
+runtime: 171600
 ---
-
 Engine, engine #9, can you get me back on time? 
 Move on, move on down the track 
 Keep that steam comin' out the stack 
@@ -80,6 +84,3 @@ Get go on about it, gotta get there, ow hah! Ah!
 
 Ah, that sounded all right; I think I'm gonna hold it a bit longer 
 I wanna let the boys do this a little bit!
-
-
-

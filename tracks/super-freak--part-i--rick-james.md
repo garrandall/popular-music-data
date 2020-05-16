@@ -1,8 +1,11 @@
 ---
+album: Street Songs
 artists:
 - Rick James
+external_ids:
+  spotify: spotify:track:2dCmGcEOQrMQhMMS8Vj7Ca
 features: []
-genres: []
+first_released_as_single: false
 key: super-freak--part-i--rick-james
 lyrics_url: https://genius.com/Rick-james-super-freak-lyrics
 name: Super Freak (Part I)
@@ -103,6 +106,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1982-01-16'
+release_year: 1981
+runtime: 205466
 ---
 She's a very kinky girl
 The kind you don't take home to mother

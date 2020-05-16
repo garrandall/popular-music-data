@@ -1,8 +1,11 @@
 ---
+album: 'Hang On Sloopy: The Best Of The McCoys'
 artists:
 - The McCoys
+external_ids:
+  spotify: spotify:track:5O0ibxlu6WLiDr7Q2n8EuI
 features: []
-genres: []
+first_released_as_single: false
 key: come-on-let-s-go-the-mccoys
 lyrics_url: https://genius.com/The-mccoys-come-on-lets-go-lyrics
 name: Come On Let's Go
@@ -43,6 +46,8 @@ rankings:
   rank: 38
   ranking_list: Billboard Hot 100
   start_date: '1966-06-18'
+release_year: 1966
+runtime: 159600
 ---
 Well, come on, let's go, let's go, little darlin'
 Tell me that you'll never leave me

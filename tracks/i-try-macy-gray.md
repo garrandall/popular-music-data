@@ -1,8 +1,11 @@
 ---
+album: On How Life Is
 artists:
 - Macy Gray
+external_ids:
+  spotify: spotify:track:4aGbYZKjETAaYAy1m7WQ4n
 features: []
-genres: []
+first_released_as_single: false
 key: i-try-macy-gray
 lyrics_url: https://genius.com/Macy-gray-i-try-lyrics
 name: I Try
@@ -115,6 +118,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '2000-08-19'
+release_year: 1997
+runtime: 293133
 ---
 Games, changes and fears
 When will they go from here?

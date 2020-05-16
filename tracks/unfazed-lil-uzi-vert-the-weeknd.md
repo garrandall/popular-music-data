@@ -1,9 +1,12 @@
 ---
+album: Luv Is Rage 2
 artists:
 - Lil Uzi Vert
+external_ids:
+  spotify: spotify:track:6MrYPad58KPb3B9nf9KxKR
 features:
 - The Weeknd
-genres: []
+first_released_as_single: false
 key: unfazed-lil-uzi-vert-the-weeknd
 lyrics_url: https://www.azlyrics.com/lyrics/liluzivert/unfazed.html
 name: UnFazed
@@ -12,9 +15,9 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '2017-09-16'
+release_year: 2017
+runtime: 190355
 ---
-
-
 I'm unfazed (woah)
 I'm unfazed (woah)
 I'm unfazed (woah)
@@ -106,6 +109,3 @@ I'm unfazed (oh, oh)
 I'm unfazed (oh, oh)
 I'm unfazed
 I'm unfazed (woo!)
-
-
-

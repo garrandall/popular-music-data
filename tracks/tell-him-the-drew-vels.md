@@ -1,8 +1,11 @@
 ---
+album: Workin' On A Groovy Thing....The Best Of
 artists:
 - The Drew-Vels
+external_ids:
+  spotify: spotify:track:2uNamFXOtxDyCO8cLGSUuK
 features: []
-genres: []
+first_released_as_single: false
 key: tell-him-the-drew-vels
 lyrics_url: https://www.musixmatch.com/lyrics/Patti-Drew/Tell-Him-The-Drew-Vels
 name: Tell Him
@@ -15,6 +18,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1964-02-15'
+release_year: 1964
+runtime: 136133
 ---
 If you ever see
 The boy for me

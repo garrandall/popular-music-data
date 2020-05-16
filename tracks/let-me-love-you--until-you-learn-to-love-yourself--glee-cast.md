@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music, The Complete Season Three'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:0tEuPqmCQIBQaO3wlu9lad
 features: []
-genres: []
+first_released_as_single: false
 key: let-me-love-you--until-you-learn-to-love-yourself--glee-cast
 lyrics_url: https://genius.com/Glee-cast-let-me-love-you-lyrics
 name: Let Me Love You (Until You Learn To Love Yourself)
@@ -11,6 +14,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2013-02-16'
+release_year: 2012
+runtime: 215946
 ---
 Artie (with New Directions Boys):
 Mmm, (Ah)

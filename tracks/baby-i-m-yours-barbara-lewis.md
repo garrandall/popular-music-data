@@ -1,8 +1,11 @@
 ---
+album: Baby, I'm Yours
 artists:
 - Barbara Lewis
+external_ids:
+  spotify: spotify:track:6ldnKaF2UYpOtmpOAOwlQe
 features: []
-genres: []
+first_released_as_single: false
 key: baby-i-m-yours-barbara-lewis
 lyrics_url: https://genius.com/Barbara-lewis-baby-im-yours-lyrics
 name: Baby I'm Yours
@@ -63,6 +66,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1965-09-18'
+release_year: 1965
+runtime: 151880
 ---
 Baby I'm yours
 And I'll be yours until the stars fall from the sky

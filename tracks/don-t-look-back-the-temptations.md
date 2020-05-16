@@ -1,8 +1,11 @@
 ---
+album: Temptin' Temptations
 artists:
 - The Temptations
+external_ids:
+  spotify: spotify:track:0ptRYs1lDuewLvhwTOLL1h
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-look-back-the-temptations
 lyrics_url: https://genius.com/The-temptations-dont-look-back-lyrics
 name: Don't Look Back
@@ -27,6 +30,8 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1966-01-15'
+release_year: 1965
+runtime: 175906
 ---
 If it's love that you're running from, there's no hiding place
 (You can't run, you can't hide, you can't run, you can't hide)

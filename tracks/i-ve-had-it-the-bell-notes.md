@@ -1,8 +1,11 @@
 ---
+album: I've Made It
 artists:
 - The Bell Notes
+external_ids:
+  spotify: spotify:track:4JSIqZFxAGDBUuMal14vTo
 features: []
-genres: []
+first_released_as_single: false
 key: i-ve-had-it-the-bell-notes
 lyrics_url: https://genius.com/The-bell-notes-ive-had-it-lyrics
 name: I've Had It
@@ -71,6 +74,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1959-05-11'
+release_year: 1899
+runtime: 161417
 ---
 La la la la la
 When I saw her on the corner

@@ -1,8 +1,11 @@
 ---
+album: Indian Summer
 artists:
 - Go West
+external_ids:
+  spotify: spotify:track:5zKAdA9tZ9hsxiL4nmFvJ3
 features: []
-genres: []
+first_released_as_single: false
 key: what-you-won-t-do-for-love-go-west
 lyrics_url: https://genius.com/Go-west-what-you-wont-do-for-love-lyrics
 name: What You Won't Do For Love
@@ -51,6 +54,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1993-05-22'
+release_year: 1992
+runtime: 266800
 ---
 I guess you wonder where I've been
 I searched to find the love within

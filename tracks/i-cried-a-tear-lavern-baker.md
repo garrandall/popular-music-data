@@ -1,8 +1,11 @@
 ---
+album: Live In Hollywood '91
 artists:
 - LaVern Baker
+external_ids:
+  spotify: spotify:track:3S8ArP0ogbw0srT20PwxLX
 features: []
-genres: []
+first_released_as_single: false
 key: i-cried-a-tear-lavern-baker
 lyrics_url: https://genius.com/Lavern-baker-i-cried-a-tear-lyrics
 name: I Cried A Tear
@@ -91,6 +94,8 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1959-04-27'
+release_year: 1958
+runtime: 197106
 ---
 I cried a tear because of you
 I cried a tear because we're through

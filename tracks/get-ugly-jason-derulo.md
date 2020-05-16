@@ -1,8 +1,11 @@
 ---
+album: Everything Is 4
 artists:
 - Jason Derulo
+external_ids:
+  spotify: spotify:track:7iWhoI2roQKUOnZcVU6N9I
 features: []
-genres: []
+first_released_as_single: true
 key: get-ugly-jason-derulo
 lyrics_url: https://www.azlyrics.com/lyrics/jasonderulo/getugly.html
 name: Get Ugly
@@ -55,8 +58,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2016-03-26'
+release_year: 2015
+runtime: 200492
 ---
-
 Girl, ladies, let your hurr down
 Let your hurr down
 We's about to get down
@@ -134,6 +138,3 @@ You're too sexy to me
 Sexy to me
 So sexy
 Damn, that's ugly
-
-
-

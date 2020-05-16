@@ -1,8 +1,12 @@
 ---
+album: Top Xmas EDM Trax 2016 (Best Of Electronic Dance Music Song Hits For New Years,
+  Winter 2016 Holidays Fiesta & Celebration Tunes to Rave and Party)
 artists:
 - Future
+external_ids:
+  spotify: spotify:track:44q5MjJIb5Cr7H2rVIwTXl
 features: []
-genres: []
+first_released_as_single: false
 key: temptation-future
 lyrics_url: https://genius.com/Future-temptation-lyrics
 name: Temptation
@@ -11,6 +15,8 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '2019-02-02'
+release_year: 2015
+runtime: 344500
 ---
 Freebandz
 Yeah, I'm the richest nigga out my city if you ain't know

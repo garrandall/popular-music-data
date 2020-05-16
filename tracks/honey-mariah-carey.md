@@ -1,8 +1,11 @@
 ---
+album: Butterfly
 artists:
 - Mariah Carey
+external_ids:
+  spotify: spotify:track:5NaOWLOmVjcA3M5spRATN9
 features: []
-genres: []
+first_released_as_single: false
 key: honey-mariah-carey
 lyrics_url: https://www.azlyrics.com/lyrics/mariahcarey/honey.html
 name: Honey
@@ -87,8 +90,9 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1998-01-24'
+release_year: 1997
+runtime: 299826
 ---
-
 Oh honey you can have me when you want me
 If you simply ask me to be there
 And you're the only one who makes me come running
@@ -128,4 +132,3 @@ Oh oh honey got me hooked on you
 
 MC
 And she won't stop
-

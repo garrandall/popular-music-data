@@ -1,9 +1,12 @@
 ---
+album: The Wonderous World Of Sonny & Cher
 artists:
 - Sonny
 - Cher
+external_ids:
+  spotify: spotify:track:7GH6f81ZIjRF7MDBsqTsEV
 features: []
-genres: []
+first_released_as_single: false
 key: have-i-stayed-too-long-sonny-cher
 lyrics_url: https://www.azlyrics.com/lyrics/sonnycher/haveistayedtoolong.html
 name: Have I Stayed Too Long
@@ -32,8 +35,9 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '1966-07-09'
+release_year: 1966
+runtime: 227306
 ---
-
 I think this party is going badly
 Is there something wrong
 I see faces looking sadly
@@ -67,6 +71,3 @@ Even though you see me smiling
 That same scene and acting wild
 Pretending that I really care
 Smiling face is just a mask
-
-
-

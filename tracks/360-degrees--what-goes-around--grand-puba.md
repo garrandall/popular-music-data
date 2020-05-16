@@ -1,8 +1,11 @@
 ---
+album: Reel to Reel
 artists:
 - Grand Puba
+external_ids:
+  spotify: spotify:track:4OlpEdouAXIzch2MnllGq6
 features: []
-genres: []
+first_released_as_single: false
 key: 360-degrees--what-goes-around--grand-puba
 lyrics_url: https://www.musixmatch.com/lyrics/Grand-Puba/360-Degrees-What-Goes-Around
 name: 360 Degrees (What Goes Around)
@@ -63,6 +66,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1993-01-16'
+release_year: 1992
+runtime: 240866
 ---
 Yeah, yeah, yeah, yeah, yeah
 There's just one thing I wanna say

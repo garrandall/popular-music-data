@@ -1,8 +1,11 @@
 ---
+album: How Big, How Blue, How Beautiful
 artists:
 - Florence + The Machine
+external_ids:
+  spotify: spotify:track:3SZRNr41jBk5SPS2TCBMmL
 features: []
-genres: []
+first_released_as_single: true
 key: what-kind-of-man-florence---the-machine
 lyrics_url: https://www.azlyrics.com/lyrics/florencethemachine/whatkindofman.html
 name: What Kind Of Man
@@ -15,8 +18,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2015-03-07'
+release_year: 2015
+runtime: 741613
 ---
-
 I was on a heavy tip
 Tryna cross a canyon with a broken limb
 You were on the other side
@@ -75,6 +79,3 @@ What kind of man loves like this?
 What kind of man?
 What kind of man loves like this?
 What kind of man?
-
-
-

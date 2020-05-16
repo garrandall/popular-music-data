@@ -1,9 +1,12 @@
 ---
+album: '365'
 artists:
 - Zedd
 - Katy Perry
+external_ids:
+  spotify: spotify:track:2XWjPtKdi5sucFYtVav07d
 features: []
-genres: []
+first_released_as_single: true
 key: 365-zedd-katy-perry
 lyrics_url: https://www.azlyrics.com/lyrics/zedd/365.html
 name: '365'
@@ -12,8 +15,9 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2019-03-02'
+release_year: 2019
+runtime: 181899
 ---
-
 Waking up next to you in the middle of the week
 Never needed anyone to send me off to sleep
 And I know I said go slow, but I can't hold back no more
@@ -62,6 +66,3 @@ I think about you all the time
 24/7, 365
 I think about you all the time
 24/7, 365
-
-
-

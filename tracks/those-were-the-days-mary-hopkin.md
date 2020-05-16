@@ -1,8 +1,11 @@
 ---
+album: Post Card
 artists:
 - Mary Hopkin
+external_ids:
+  spotify: spotify:track:6NmdCdQGOBVxVLIIJdPw3z
 features: []
-genres: []
+first_released_as_single: true
 key: those-were-the-days-mary-hopkin
 lyrics_url: https://genius.com/Mary-hopkin-those-were-the-days-lyrics
 name: Those Were The Days
@@ -63,6 +66,8 @@ rankings:
   rank: 25
   ranking_list: Billboard Hot 100
   start_date: '1968-12-28'
+release_year: 1968
+runtime: 301290
 ---
 Once upon a time there was a tavern
 Where we used to raise a glass or two

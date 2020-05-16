@@ -1,8 +1,11 @@
 ---
+album: All The Rage
 artists:
 - General Public
+external_ids:
+  spotify: spotify:track:7cRWPAHuHQ36agbu6Empc8
 features: []
-genres: []
+first_released_as_single: false
 key: tenderness-general-public
 lyrics_url: https://genius.com/General-public-tenderness-lyrics
 name: Tenderness
@@ -79,6 +82,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1985-03-16'
+release_year: 1984
+runtime: 218160
 ---
 I don't know when to start or when to stop
 My luck's like a button

@@ -1,8 +1,11 @@
 ---
+album: Today
 artists:
 - Elvis Presley
+external_ids:
+  spotify: spotify:track:0fMEI0RqBCeXnfw9SbPXQC
 features: []
-genres: []
+first_released_as_single: false
 key: bringing-it-back-elvis-presley
 lyrics_url: https://genius.com/Elvis-presley-bringing-it-back-lyrics
 name: Bringing It Back
@@ -27,6 +30,8 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '1975-11-22'
+release_year: 1975
+runtime: 178306
 ---
 If I can never see you, if I can never hold you
 If I can never touch your face or feel your warm embrace

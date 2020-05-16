@@ -1,9 +1,12 @@
 ---
+album: I Thank You
 artists:
 - Sam
 - Dave
+external_ids:
+  spotify: spotify:track:0lhvQ4VG2eXgj8OePxhanz
 features: []
-genres: []
+first_released_as_single: false
 key: you-don-t-know-what-you-mean-to-me-sam-dave
 lyrics_url: https://genius.com/Sam-and-dave-you-dont-know-what-you-mean-to-me-lyrics
 name: You Don't Know What You Mean To Me
@@ -40,6 +43,8 @@ rankings:
   rank: 52
   ranking_list: Billboard Hot 100
   start_date: '1968-07-13'
+release_year: 1968
+runtime: 161506
 ---
 Dave (Yeah?)
 I got a little song I wanna sing (Yeah!)

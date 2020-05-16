@@ -1,8 +1,11 @@
 ---
+album: The Best Of Daniel Boone
 artists:
 - Daniel Boone
+external_ids:
+  spotify: spotify:track:1EKtHLjqeYC85eKGfRmIL3
 features: []
-genres: []
+first_released_as_single: false
 key: beautiful-sunday-daniel-boone
 lyrics_url: https://www.musixmatch.com/lyrics/Daniel-Boone/Beautiful-Sunday
 name: Beautiful Sunday
@@ -87,6 +90,8 @@ rankings:
   rank: 34
   ranking_list: Billboard Hot 100
   start_date: '1972-10-14'
+release_year: 1972
+runtime: 192746
 ---
 Sunday morning, up with the lark
 I think I'll take a walk in the park

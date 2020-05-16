@@ -1,8 +1,11 @@
 ---
+album: Chronology
 artists:
 - Brian Hyland
+external_ids:
+  spotify: spotify:track:10YUfEdigQzLgaIHLn03if
 features: []
-genres: []
+first_released_as_single: false
 key: stay-and-love-me-all-summer-brian-hyland
 lyrics_url: https://www.musixmatch.com/lyrics/Brian-Hyland/Stay-and-Love-Me-All-Summer
 name: Stay And Love Me All Summer
@@ -19,6 +22,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1969-07-26'
+release_year: 1969
+runtime: 145906
 ---
 Why can't you stay and love me all summer?
 

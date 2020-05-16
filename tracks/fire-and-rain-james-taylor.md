@@ -1,8 +1,11 @@
 ---
+album: Sweet Baby James
 artists:
 - James Taylor
+external_ids:
+  spotify: spotify:track:1oht5GevPN9t1T3kG1m1GO
 features: []
-genres: []
+first_released_as_single: false
 key: fire-and-rain-james-taylor
 lyrics_url: https://genius.com/James-taylor-fire-and-rain-lyrics
 name: Fire And Rain
@@ -71,6 +74,8 @@ rankings:
   rank: 35
   ranking_list: Billboard Hot 100
   start_date: '1970-12-26'
+release_year: 1970
+runtime: 203613
 ---
 Just yesterday morning, they let me know you were gone
 Suzanne, the plans they made put an end to you

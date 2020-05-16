@@ -1,9 +1,12 @@
 ---
+album: Imagine (The Ultimate Collection)
 artists:
 - John Lennon
 - Plastic Ono Band
+external_ids:
+  spotify: spotify:track:0asgUXDrY7oWmFSllqoTo8
 features: []
-genres: []
+first_released_as_single: false
 key: happy-xmas--war-is-over--john-yoko-the-plastic-ono-band-with-the-harlem-community-choir
 lyrics_url: https://genius.com/John-lennon-and-yoko-ono-happy-xmas-war-is-over-lyrics
 name: Happy Xmas (War Is Over)
@@ -16,6 +19,8 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '2019-01-05'
+release_year: 1971
+runtime: 215706
 ---
 (Happy Christmas, Kyoko
 Happy Christmas, Julian)

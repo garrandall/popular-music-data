@@ -1,8 +1,11 @@
 ---
+album: Centerfield - 25th Anniversary
 artists:
 - John Fogerty
+external_ids:
+  spotify: spotify:track:5DeuAlTIDflXOomztXYM5D
 features: []
-genres: []
+first_released_as_single: false
 key: rock-and-roll-girls-john-fogerty
 lyrics_url: https://www.azlyrics.com/lyrics/johnfogerty/rockandrollgirls.html
 name: Rock And Roll Girls
@@ -55,8 +58,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1985-06-01'
+release_year: 1985
+runtime: 206640
 ---
-
 Sometimes I think life is just a rodeo
 The trick is to ride and make it to the bell
 But there is a place, sweet as you will ever know
@@ -82,6 +86,3 @@ Rock and roll girls, rock and roll girls
 
 Hey, let's go all over the world
 Rock and roll girls, rock and roll girls, yeah, yeah, yeah
-
-
-

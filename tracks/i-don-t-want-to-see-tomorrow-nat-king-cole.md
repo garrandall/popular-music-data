@@ -1,8 +1,11 @@
 ---
+album: I Don't Want To Be Hurt Anymore
 artists:
 - Nat King Cole
+external_ids:
+  spotify: spotify:track:4RP1czjLoErBuEQui5hCrC
 features: []
-genres: []
+first_released_as_single: false
 key: i-don-t-want-to-see-tomorrow-nat-king-cole
 lyrics_url: https://www.musixmatch.com/lyrics/Nat-King-Cole/I-Don-t-Want-to-See-Tomorrow
 name: I Don't Want To See Tomorrow
@@ -43,6 +46,8 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '1964-11-14'
+release_year: 1964
+runtime: 156906
 ---
 (Wayne/Morris)
 

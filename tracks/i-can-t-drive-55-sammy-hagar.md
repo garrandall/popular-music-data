@@ -1,8 +1,11 @@
 ---
+album: Voa
 artists:
 - Sammy Hagar
+external_ids:
+  spotify: spotify:track:1MqGKtY9L5qjPi8s7gX645
 features: []
-genres: []
+first_released_as_single: false
 key: i-can-t-drive-55-sammy-hagar
 lyrics_url: https://genius.com/Sammy-hagar-i-cant-drive-55-lyrics
 name: I Can't Drive 55
@@ -71,6 +74,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1985-01-12'
+release_year: 1984
+runtime: 254466
 ---
 One foot on the brake and one on the gas, hey
 Well, there's too much traffic, I can't pass, no

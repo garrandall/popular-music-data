@@ -1,8 +1,11 @@
 ---
+album: Best Of Andy Williams
 artists:
 - Andy Williams
+external_ids:
+  spotify: spotify:track:68cXqkPaHAFkotUv3ETwZD
 features: []
-genres: []
+first_released_as_single: false
 key: the-bilbao-song-andy-williams
 lyrics_url: https://www.azlyrics.com/lyrics/andywilliams/thebilbaosong.html
 name: The Bilbao Song
@@ -47,8 +50,9 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '1961-06-26'
+release_year: 1961
+runtime: 135773
 ---
-
 That old Bilbao moon, I won't forget it soon
 That old Bilbao moon, just like a big balloon
 That old Bilbao moon would rise above the dune
@@ -79,6 +83,3 @@ We'd sing all night with all our might and I can still recall
 Those were the greatest (those were the greatest)
 Those were the greatest (those were the greatest)
 Those were the greatest nights of them all
-
-
-

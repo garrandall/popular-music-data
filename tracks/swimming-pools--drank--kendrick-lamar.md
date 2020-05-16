@@ -1,8 +1,11 @@
 ---
+album: good kid, m.A.A.d city
 artists:
 - Kendrick Lamar
+external_ids:
+  spotify: spotify:track:6REbwUNlppTfcnV4d4ZoZi
 features: []
-genres: []
+first_released_as_single: true
 key: swimming-pools--drank--kendrick-lamar
 lyrics_url: https://www.azlyrics.com/lyrics/kendricklamar/swimmingpoolsdrank.html
 name: Swimming Pools (Drank)
@@ -123,8 +126,9 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2013-03-16'
+release_year: 2012
+runtime: 247800
 ---
-
 Pour up (drank), head shot (drank)
 Sit down (drank), stand up (drank)
 Pass out (drank), wake up (drank)
@@ -210,6 +214,3 @@ Pour up (drank), head shot (drank)
 Sit down (drank), stand up (drank)
 Pass out (drank), wake up (drank)
 Faded (drank), faded (drank)
-
-
-

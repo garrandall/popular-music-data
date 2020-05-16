@@ -1,8 +1,11 @@
 ---
+album: The Purple People Eater
 artists:
 - The Kingsmen
+external_ids:
+  spotify: spotify:track:7EsyuIBXcGcEWGdkZMAIJi
 features: []
-genres: []
+first_released_as_single: false
 key: the-jolly-green-giant-the-kingsmen
 name: The Jolly Green Giant
 rankings:
@@ -54,5 +57,7 @@ rankings:
   rank: 28
   ranking_list: Billboard Hot 100
   start_date: '1965-03-27'
+release_year: 1965
+runtime: 117626
 ---
 

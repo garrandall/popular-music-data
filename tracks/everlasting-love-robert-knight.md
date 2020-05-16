@@ -1,8 +1,11 @@
 ---
+album: Everlasting Love
 artists:
 - Robert Knight
+external_ids:
+  spotify: spotify:track:4jsIvYEyjDzUoiDy7EcRvI
 features: []
-genres: []
+first_released_as_single: true
 key: everlasting-love-robert-knight
 lyrics_url: https://genius.com/Robert-knight-everlasting-love-lyrics
 name: Everlasting Love
@@ -55,6 +58,8 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '1967-12-16'
+release_year: 1965
+runtime: 178607
 ---
 Hearts go astray, leaving hurt when they go
 I went away, just when you, you needed me so

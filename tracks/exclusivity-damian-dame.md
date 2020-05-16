@@ -1,8 +1,11 @@
 ---
+album: Damian Dame
 artists:
 - Damian Dame
+external_ids:
+  spotify: spotify:track:63DGRme6rFWbHaHE8kP5ia
 features: []
-genres: []
+first_released_as_single: false
 key: exclusivity-damian-dame
 lyrics_url: https://genius.com/Damian-dame-exclusivity-lyrics
 name: Exclusivity
@@ -55,6 +58,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1991-08-03'
+release_year: 1991
+runtime: 299666
 ---
 Completely for you
 

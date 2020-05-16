@@ -1,8 +1,11 @@
 ---
+album: The Best Of Laurie Records
 artists:
 - The Four Pennies
+external_ids:
+  spotify: spotify:track:6Bjkd0z117WySZOMeAjJLJ
 features: []
-genres: []
+first_released_as_single: false
 key: when-the-boy-s-happy--the-girl-s-happy-too--the-four-pennies
 lyrics_url: https://www.musixmatch.com/lyrics/The-Four-Pennies/When-the-Boy-s-Happy-The-Girl-s-Happy-Too
 name: When The Boy's Happy (The Girl's Happy Too)
@@ -11,6 +14,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1963-11-09'
+release_year: 1963
+runtime: 135106
 ---
 Every day, I kiss my baby
 Just because it drives him crazy

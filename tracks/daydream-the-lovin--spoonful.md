@@ -1,8 +1,11 @@
 ---
+album: Daydream
 artists:
 - The Lovin' Spoonful
+external_ids:
+  spotify: spotify:track:0tmaLDb6R98E2NgtBbUC4L
 features: []
-genres: []
+first_released_as_single: false
 key: daydream-the-lovin--spoonful
 lyrics_url: https://www.azlyrics.com/lyrics/lovinspoonful/daydream.html
 name: Daydream
@@ -55,8 +58,9 @@ rankings:
   rank: 29
   ranking_list: Billboard Hot 100
   start_date: '1966-05-14'
+release_year: 1965
+runtime: 139053
 ---
-
 What a day for a daydream
 What a day for a daydreamin' boy
 And I'm lost in a daydream
@@ -86,6 +90,3 @@ What a day for a daydream
 Custom-made for a daydreaming boy
 And I'm lost in a daydream
 Dreaming 'bout my bundle of joy
-
-
-

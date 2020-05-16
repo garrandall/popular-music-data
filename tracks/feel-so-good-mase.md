@@ -1,8 +1,11 @@
 ---
+album: Harlem World
 artists:
 - Mase
+external_ids:
+  spotify: spotify:track:7hfRrdFJgFKK3cJ4rmkecE
 features: []
-genres: []
+first_released_as_single: false
 key: feel-so-good-mase
 lyrics_url: https://genius.com/Masewonder-feel-so-good-lyrics
 name: Feel So Good
@@ -87,6 +90,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1998-03-14'
+release_year: 1997
+runtime: 203626
 ---
 아직 보지 못한게 많지
 신어 야될 나이키도 아직 많아

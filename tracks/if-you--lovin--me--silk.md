@@ -1,8 +1,11 @@
 ---
+album: True Identity
 artists:
 - Silk
+external_ids:
+  spotify: spotify:track:2492cvTvatSXovH6JS1ppm
 features: []
-genres: []
+first_released_as_single: false
 key: if-you--lovin--me--silk
 lyrics_url: https://genius.com/Silk-if-you-lyrics
 name: If You (Lovin' Me)
@@ -87,6 +90,8 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '1999-07-24'
+release_year: 1997
+runtime: 209026
 ---
 Been checkin you for so long
 And I feel (feel)

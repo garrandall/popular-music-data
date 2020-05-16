@@ -1,8 +1,11 @@
 ---
+album: Mr. Smith
 artists:
 - LL Cool J
+external_ids:
+  spotify: spotify:track:5wG7d4cNogw0ETKaICPEYA
 features: []
-genres: []
+first_released_as_single: false
 key: hey-lover-ll-cool-j
 lyrics_url: https://genius.com/Ll-cool-j-hey-lover-lyrics
 name: Hey Lover
@@ -91,6 +94,8 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '1996-04-06'
+release_year: 1995
+runtime: 284693
 ---
 I've been watchin' you from afar
 For as long as I can remember

@@ -1,8 +1,11 @@
 ---
+album: White Trash With Money
 artists:
 - Toby Keith
+external_ids:
+  spotify: spotify:track:0gXK4B39Vquj1oaMnxXP7Y
 features: []
-genres: []
+first_released_as_single: false
 key: crash-here-tonight-toby-keith
 lyrics_url: https://www.azlyrics.com/lyrics/tobykeith/crashheretonight.html
 name: Crash Here Tonight
@@ -11,8 +14,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2006-11-18'
+release_year: 2006
+runtime: 180880
 ---
-
 I almost said I love you
 Could I really be that kind of guy
 See one candle burning in your eye
@@ -38,6 +42,3 @@ Why don't you just crash here tonight
 
 Girl if everything is still alright
 Why don't you just crash here tonight
-
-
-

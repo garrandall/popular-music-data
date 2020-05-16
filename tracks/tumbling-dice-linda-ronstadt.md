@@ -1,8 +1,11 @@
 ---
+album: Simple Dreams
 artists:
 - Linda Ronstadt
+external_ids:
+  spotify: spotify:track:5lS3COt2wRFoT1injc0QCM
 features: []
-genres: []
+first_released_as_single: false
 key: tumbling-dice-linda-ronstadt
 lyrics_url: https://www.azlyrics.com/lyrics/lindaronstadt/tumblingdice.html
 name: Tumbling Dice
@@ -39,8 +42,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1978-06-10'
+release_year: 1977
+runtime: 189906
 ---
-
 People try to rape me
 Always think I'm crazy
 Make me burn the candle right down
@@ -85,6 +89,3 @@ Oh oh oh you got to roll me
 Woo hoo hoo you got to roll me
 Woah babe you got to roll me
 Baby babe you got to roll me
-
-
-

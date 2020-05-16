@@ -1,8 +1,11 @@
 ---
+album: Voodoo Lounge (Remastered 2009)
 artists:
 - The Rolling Stones
+external_ids:
+  spotify: spotify:track:3Is1ugfPG3hdFWTq15nNBV
 features: []
-genres: []
+first_released_as_single: false
 key: love-is-strong-the-rolling-stones
 lyrics_url: https://genius.com/The-rolling-stones-love-is-strong-lyrics
 name: Love Is Strong
@@ -27,6 +30,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1994-09-10'
+release_year: 1994
+runtime: 228866
 ---
 Your love is strong, and you're so sweet
 You make me hard, you make me weak

@@ -1,8 +1,11 @@
 ---
+album: Revelations
 artists:
 - Audioslave
+external_ids:
+  spotify: spotify:track:0zY7SkbIByXGKak663jHuI
 features: []
-genres: []
+first_released_as_single: false
 key: original-fire-audioslave
 lyrics_url: https://www.azlyrics.com/lyrics/audioslave/originalfire.html
 name: Original Fire
@@ -15,8 +18,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2006-08-12'
+release_year: 2006
+runtime: 218506
 ---
-
 The original fire has died and gone
 But the riot inside moves on
 The original fire has died and gone
@@ -66,6 +70,3 @@ The original fire has died and gone
 But the riot inside moves on
 The original fire has died and gone
 But the riot inside moves on
-
-
-

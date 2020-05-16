@@ -1,8 +1,11 @@
 ---
+album: Estate Of Mind
 artists:
 - Evie Sands
+external_ids:
+  spotify: spotify:track:4ZqzmbPVCzCL1mTBdY8cza
 features: []
-genres: []
+first_released_as_single: false
 key: i-love-makin--love-to-you-evie-sands
 name: I Love Makin' Love To You
 rankings:
@@ -46,5 +49,7 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1975-10-04'
+release_year: 1974
+runtime: 252066
 ---
 

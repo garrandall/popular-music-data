@@ -1,8 +1,11 @@
 ---
+album: Up Close and Alone
 artists:
 - Burton Cummings
+external_ids:
+  spotify: spotify:track:689120oNpBWRSr6r1TKtqU
 features: []
-genres: []
+first_released_as_single: false
 key: you-saved-my-soul-burton-cummings
 lyrics_url: https://genius.com/Burton-cummings-you-saved-my-soul-lyrics
 name: You Saved My Soul
@@ -51,6 +54,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1981-11-21'
+release_year: 1981
+runtime: 270837
 ---
 We went together for so long
 Every second record on the radio seemed like our song

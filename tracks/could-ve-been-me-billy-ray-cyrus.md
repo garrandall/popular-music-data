@@ -1,8 +1,11 @@
 ---
+album: Some Gave All
 artists:
 - Billy Ray Cyrus
+external_ids:
+  spotify: spotify:track:6x3GOzUYQE9nmQYSY8Lyrg
 features: []
-genres: []
+first_released_as_single: false
 key: could-ve-been-me-billy-ray-cyrus
 lyrics_url: https://genius.com/Billy-ray-cyrus-couldve-been-me-lyrics
 name: Could've Been Me
@@ -43,6 +46,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1993-01-02'
+release_year: 1992
+runtime: 224773
 ---
 I hear you just got married
 Took a month-long honeymoon

@@ -1,9 +1,12 @@
 ---
+album: Future & Juice WRLD Present... WRLD ON DRUGS
 artists:
 - Future
 - Juice WRLD
+external_ids:
+  spotify: spotify:track:2vs5ubqg8QUbfyWZpMfvWe
 features: []
-genres: []
+first_released_as_single: false
 key: astronauts-future-juice-wrld
 lyrics_url: https://www.musixmatch.com/lyrics/Future-feat-Juice-WRLD/Astronauts
 name: Astronauts
@@ -12,6 +15,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '2018-11-03'
+release_year: 2018
+runtime: 169920
 ---
 Just like an astronaut
 We don't detox

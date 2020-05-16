@@ -1,8 +1,11 @@
 ---
+album: Love On A Two-Way Street (US Release)
 artists:
 - The Moments
+external_ids:
+  spotify: spotify:track:6szyOE3tMWE8jIukMNK8lY
 features: []
-genres: []
+first_released_as_single: false
 key: all-i-have-the-moments
 lyrics_url: https://genius.com/The-moments-all-i-have-lyrics
 name: All I Have
@@ -43,6 +46,8 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '1971-01-16'
+release_year: 1970
+runtime: 231133
 ---
 All I have
 Left in my heart

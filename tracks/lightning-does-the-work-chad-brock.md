@@ -1,8 +1,11 @@
 ---
+album: Chad Brock
 artists:
 - Chad Brock
+external_ids:
+  spotify: spotify:track:4H8mg4FbMqXCVanAj3rJtn
 features: []
-genres: []
+first_released_as_single: false
 key: lightning-does-the-work-chad-brock
 lyrics_url: https://genius.com/Chad-brock-lightning-does-the-work-lyrics
 name: Lightning Does The Work
@@ -55,6 +58,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1999-11-13'
+release_year: 1998
+runtime: 225826
 ---
 You know nothin's gettin' done
 When talk is all you hear

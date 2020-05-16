@@ -1,8 +1,11 @@
 ---
+album: Something Like Human
 artists:
 - Fuel
+external_ids:
+  spotify: spotify:track:5z5ao3FAaVwHk1g7xuOBcB
 features: []
-genres: []
+first_released_as_single: false
 key: bad-day-fuel
 lyrics_url: https://genius.com/Fuel-bad-day-lyrics
 name: Bad Day
@@ -87,6 +90,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2001-12-08'
+release_year: 2000
+runtime: 195466
 ---
 Had a bad day again
 She said I would not understand

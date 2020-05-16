@@ -1,8 +1,11 @@
 ---
+album: Girl Code
 artists:
 - City Girls
+external_ids:
+  spotify: spotify:track:3A2yGHWIzmGEIolwonU69h
 features: []
-genres: []
+first_released_as_single: false
 key: act-up-city-girls
 lyrics_url: https://genius.com/City-girls-act-up-lyrics
 name: Act Up
@@ -91,6 +94,8 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '2019-08-03'
+release_year: 2018
+runtime: 158332
 ---
 (Earl on the beat)
 

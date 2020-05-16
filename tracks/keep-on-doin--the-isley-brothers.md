@@ -1,8 +1,11 @@
 ---
+album: Get Into Something
 artists:
 - The Isley Brothers
+external_ids:
+  spotify: spotify:track:4zF77yQvAbr7pBsy98zKfk
 features: []
-genres: []
+first_released_as_single: false
 key: keep-on-doin--the-isley-brothers
 lyrics_url: https://genius.com/The-isley-brothers-keep-on-doin-lyrics
 name: Keep On Doin'
@@ -27,6 +30,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1970-03-14'
+release_year: 1970
+runtime: 241760
 ---
 Whoa I said it once babe
 Now I'm gonna say it (say it) say it again

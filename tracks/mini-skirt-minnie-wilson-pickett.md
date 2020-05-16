@@ -1,8 +1,11 @@
 ---
+album: Hits & Rarities
 artists:
 - Wilson Pickett
+external_ids:
+  spotify: spotify:track:67tNcXg7E22cRAm7qTr7p2
 features: []
-genres: []
+first_released_as_single: false
 key: mini-skirt-minnie-wilson-pickett
 lyrics_url: https://genius.com/Wilson-pickett-mini-skirt-minnie-lyrics
 name: Mini-Skirt Minnie
@@ -31,6 +34,8 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '1969-05-03'
+release_year: 1969
+runtime: 180040
 ---
 Mini-skirt Minnie, lord have mercy, you're the baddest thing around
 Mini-skirt Minnie, huh, look what you're puttin' down, look here

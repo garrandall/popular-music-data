@@ -1,8 +1,11 @@
 ---
+album: First Impressions
 artists:
 - The Impressions
+external_ids:
+  spotify: spotify:track:2iiR33RplLoOfgQv6DeNi0
 features: []
-genres: []
+first_released_as_single: false
 key: sooner-or-later-the-impressions
 lyrics_url: https://www.azlyrics.com/lyrics/impressions/soonerorlater.html
 name: Sooner Or Later
@@ -39,8 +42,9 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '1975-08-23'
+release_year: 1975
+runtime: 210546
 ---
-
 You know this morning when the phone rang
 I knew something was wrong
 You know that funny feeling you get sometimes
@@ -99,6 +103,3 @@ Sooner or later
 It had to happen girl
 
 Sooner or later...
-
-
-

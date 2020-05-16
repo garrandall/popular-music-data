@@ -1,8 +1,11 @@
 ---
+album: Let Me Entertain You
 artists:
 - Ann-Margret
+external_ids:
+  spotify: spotify:track:1l5mwetSGsDg8HVNYaBgUn
 features: []
-genres: []
+first_released_as_single: false
 key: it-do-me-so-good-ann-margret
 lyrics_url: https://www.musixmatch.com/lyrics/Ann-Margret/It-Do-Me-So-Good
 name: It Do Me So Good
@@ -19,6 +22,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1961-12-04'
+release_year: 1961
+runtime: 137173
 ---
 You don't love me
 Like I love you

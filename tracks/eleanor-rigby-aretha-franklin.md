@@ -1,8 +1,11 @@
 ---
+album: This Girl's in Love with You
 artists:
 - Aretha Franklin
+external_ids:
+  spotify: spotify:track:5ryGpLshVg4CFM42WEDzcd
 features: []
-genres: []
+first_released_as_single: false
 key: eleanor-rigby-aretha-franklin
 lyrics_url: https://www.azlyrics.com/lyrics/arethafranklin/eleanorrigby.html
 name: Eleanor Rigby
@@ -39,8 +42,9 @@ rankings:
   rank: 32
   ranking_list: Billboard Hot 100
   start_date: '1969-12-27'
+release_year: 1969
+runtime: 158200
 ---
-
 I'm Eleanor Rigby
 I picked up the rice in the church where the weddings have been
 Yeah I'm Eleanor Rigby
@@ -70,6 +74,3 @@ And was buried along with her name
 Nobody came
 Father McKenzie Wiping the dirt from his hands 
 As he walks from the grave
-
-
-

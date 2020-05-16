@@ -1,8 +1,11 @@
 ---
+album: Freedom for the Stallion
 artists:
 - The Hues Corporation
+external_ids:
+  spotify: spotify:track:7fu3Tv5rcoGD1PZV7s57WW
 features: []
-genres: []
+first_released_as_single: false
 key: rock-the-boat-the-hues-corporation
 lyrics_url: https://genius.com/The-hues-corporation-rock-the-boat-lyrics
 name: Rock The Boat
@@ -79,6 +82,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1974-09-21'
+release_year: 1973
+runtime: 202573
 ---
 So I'd like to know where you got the notion
 Said I'd like to know where you got the notion

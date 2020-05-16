@@ -1,8 +1,11 @@
 ---
+album: The Complete Season 9 Collection (The Voice Performance)
 artists:
 - Jordan Smith
+external_ids:
+  spotify: spotify:track:3RWzLyBUqoBSX4jTAHo4TP
 features: []
-genres: []
+first_released_as_single: false
 key: somebody-to-love-jordan-smith
 lyrics_url: https://www.azlyrics.com/lyrics/jordansmith/somebodytolove.html
 name: Somebody To Love
@@ -15,8 +18,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2016-01-02'
+release_year: 2015
+runtime: 216213
 ---
-
 Can anybody find me somebody to love?
 
 Each morning I get up I die a little
@@ -70,6 +74,3 @@ Whoa
 Find me, find me
 (Find me somebody to love)
 Somebody to love
-
-
-

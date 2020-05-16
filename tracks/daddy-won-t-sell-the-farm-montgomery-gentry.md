@@ -1,8 +1,11 @@
 ---
+album: Tattoos & Scars
 artists:
 - Montgomery Gentry
+external_ids:
+  spotify: spotify:track:5Xzm20FJOt49zsQ8R10JCj
 features: []
-genres: []
+first_released_as_single: false
 key: daddy-won-t-sell-the-farm-montgomery-gentry
 lyrics_url: https://genius.com/Montgomery-gentry-daddy-wont-sell-the-farm-lyrics
 name: Daddy Won't Sell The Farm
@@ -31,6 +34,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2000-04-08'
+release_year: 1999
+runtime: 258733
 ---
 His cows get loose and run right through the fast food parking lots
 And Daddy gets calls from the mini-malls

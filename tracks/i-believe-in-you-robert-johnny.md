@@ -1,9 +1,12 @@
 ---
+album: We Belong Together
 artists:
 - Robert
 - Johnny
+external_ids:
+  spotify: spotify:track:7o2QyED5F6sj9RRvgggOMO
 features: []
-genres: []
+first_released_as_single: false
 key: i-believe-in-you-robert-johnny
 lyrics_url: https://www.musixmatch.com/lyrics/Robert-and-Johnny/I-Believe-in-You
 name: I Believe In You
@@ -16,6 +19,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1958-08-11'
+release_year: 1958
+runtime: 164933
 ---
 Oo woah woah oo woah woah
 Oo woah woah oo woah woah

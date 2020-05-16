@@ -1,8 +1,11 @@
 ---
+album: Wild Angels And Other Themes
 artists:
 - Davie Allan And The Arrows
+external_ids:
+  spotify: spotify:track:1JwajhJa6UivIxkuGkWkR7
 features: []
-genres: []
+first_released_as_single: false
 key: blue-s-theme-davie-allan-and-the-arrows
 name: Blue's Theme
 rankings:
@@ -74,5 +77,7 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '1967-09-30'
+release_year: 1966
+runtime: 130946
 ---
 

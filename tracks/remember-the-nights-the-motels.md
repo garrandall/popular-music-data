@@ -1,8 +1,11 @@
 ---
+album: Little Robbers
 artists:
 - The Motels
+external_ids:
+  spotify: spotify:track:6ZceMfTAlpxwNcK5C34wPp
 features: []
-genres: []
+first_released_as_single: false
 key: remember-the-nights-the-motels
 lyrics_url: https://genius.com/The-motels-remember-the-nights-lyrics
 name: Remember The Nights
@@ -11,6 +14,8 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1984-02-18'
+release_year: 1983
+runtime: 192600
 ---
 Fragrance of that long lost evening
 Tender moves that keep repeating

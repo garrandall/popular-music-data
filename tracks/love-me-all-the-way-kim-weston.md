@@ -1,8 +1,11 @@
 ---
+album: The Motown Anthology
 artists:
 - Kim Weston
+external_ids:
+  spotify: spotify:track:135CChjjsYACoijDZvqgzX
 features: []
-genres: []
+first_released_as_single: false
 key: love-me-all-the-way-kim-weston
 lyrics_url: https://genius.com/Kim-weston-love-me-all-the-way-lyrics
 name: Love Me All The Way
@@ -27,6 +30,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1963-09-07'
+release_year: 1963
+runtime: 174198
 ---
 Don't start now
 Not unless you're gonna love me

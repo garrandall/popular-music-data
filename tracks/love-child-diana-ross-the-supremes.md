@@ -1,9 +1,12 @@
 ---
+album: Love Child
 artists:
 - Diana Ross
 - The Supremes
+external_ids:
+  spotify: spotify:track:7oX8MJu78ZCGAC8lADvIWf
 features: []
-genres: []
+first_released_as_single: false
 key: love-child-diana-ross-the-supremes
 lyrics_url: https://www.musixmatch.com/lyrics/Diana-Ross/Love-Child-feat-The-Supremes
 name: Love Child
@@ -72,6 +75,8 @@ rankings:
   rank: 29
   ranking_list: Billboard Hot 100
   start_date: '1969-02-01'
+release_year: 1968
+runtime: 178293
 ---
 Tenement slum
 You think that I don't feel love

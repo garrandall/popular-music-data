@@ -1,9 +1,12 @@
 ---
+album: Horse Of A Different Color
 artists:
 - Big
 - Rich
+external_ids:
+  spotify: spotify:track:5s7m2xNZWgz5FqVSIvJcGA
 features: []
-genres: []
+first_released_as_single: false
 key: save-a-horse--ride-a-cowboy--big-rich
 lyrics_url: https://www.azlyrics.com/lyrics/bigrich/saveahorserideacowboy.html
 name: Save A Horse (Ride A Cowboy)
@@ -44,9 +47,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2004-09-25'
+release_year: 2004
+runtime: 200306
 ---
-
-
 DUM-DE-DE-DUM, DE-DE-DUM-DE-DE-DUM, DE-DAA-DAAAAA
 DUM-DE-DE-DUM, DE-DE-DUM-DE-DE-DUM, DE-DAA-DAA-DAA-DAA-DAAAA!
 
@@ -125,6 +128,3 @@ What? What?
 Save A Horse Ride A Cowboy
 Everybody says
 Save a Horse Ride a cowboy.
-
-
-

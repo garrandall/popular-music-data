@@ -1,8 +1,11 @@
 ---
+album: Neva Eva/Head Bussa
 artists:
 - Trillville
+external_ids:
+  spotify: spotify:track:4YXpq1Mv9Gl12j3xcFYTen
 features: []
-genres: []
+first_released_as_single: true
 key: neva-eva-trillville
 lyrics_url: https://www.azlyrics.com/lyrics/trillville/nevaeva.html
 name: Neva Eva
@@ -79,9 +82,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2004-04-17'
+release_year: 2003
+runtime: 275453
 ---
-
-
 (What, ugh)
 Get on my level ho (What!)
 Get on my level ho (You can't!)
@@ -165,6 +168,3 @@ I might cock my fist back and knock yo grill through
 
 
 Run around the motherfuckin' club
-
-
-

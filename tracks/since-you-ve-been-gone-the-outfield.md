@@ -1,8 +1,11 @@
 ---
+album: Bangin'
 artists:
 - The Outfield
+external_ids:
+  spotify: spotify:track:3sWja868inthDh5oUg3Zkx
 features: []
-genres: []
+first_released_as_single: false
 key: since-you-ve-been-gone-the-outfield
 lyrics_url: https://genius.com/The-outfield-since-youve-been-gone-lyrics
 name: Since You've Been Gone
@@ -67,6 +70,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1987-09-19'
+release_year: 1985
+runtime: 283666
 ---
 Since you've been gone
 There's something I wanna say

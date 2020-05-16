@@ -1,8 +1,11 @@
 ---
+album: Under The Boardwalk
 artists:
 - The Drifters
+external_ids:
+  spotify: spotify:track:7cNRqg0lbiqBaGeOlA4AEU
 features: []
-genres: []
+first_released_as_single: false
 key: up-on-the-roof-the-drifters
 lyrics_url: https://genius.com/The-drifters-up-on-the-roof-lyrics
 name: Up On The Roof
@@ -87,6 +90,8 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '1963-03-16'
+release_year: 1962
+runtime: 157173
 ---
 (Up on the roof)
 (Up on the roof)

@@ -1,8 +1,11 @@
 ---
+album: Chris Brown
 artists:
 - Chris Brown
+external_ids:
+  spotify: spotify:track:7xYnUQigPoIDAMPVK79NEq
 features: []
-genres: []
+first_released_as_single: false
 key: run-it--chris-brown
 lyrics_url: https://genius.com/Chris-brown-run-it-lyrics
 name: Run It!
@@ -159,6 +162,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '2006-05-13'
+release_year: 2005
+runtime: 229866
 ---
 Okay, check it, check it, check it out
 It's Santana again steppin', steppin', steppin' out (Uh)

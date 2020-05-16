@@ -1,8 +1,11 @@
 ---
+album: Stacked Deck
 artists:
 - Amazing Rhythm Aces
+external_ids:
+  spotify: spotify:track:1oRvLqwJowH9JU0uO1iVzA
 features: []
-genres: []
+first_released_as_single: false
 key: third-rate-romance-amazing-rhythm-aces
 lyrics_url: https://genius.com/Amazing-rhythm-aces-third-rate-romance-lyrics
 name: Third Rate Romance
@@ -71,6 +74,8 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '1975-10-04'
+release_year: 1975
+runtime: 201826
 ---
 Sitting at a tiny table in a ritzy restaurant
 She was staring at her coffee cup

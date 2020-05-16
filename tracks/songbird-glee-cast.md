@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music, Volume 6'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:3GZuofjHU2nu8kcifVt1SY
 features: []
-genres: []
+first_released_as_single: false
 key: songbird-glee-cast
 lyrics_url: https://genius.com/Glee-cast-songbird-lyrics
 name: Songbird
@@ -11,6 +14,8 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '2011-05-21'
+release_year: 2011
+runtime: 198146
 ---
 For you, there'll be no more cryin'
 For you, the sun will be shinin'

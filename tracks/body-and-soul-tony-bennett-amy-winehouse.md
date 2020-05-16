@@ -1,9 +1,12 @@
 ---
+album: Duets II
 artists:
 - Tony Bennett
 - Amy Winehouse
+external_ids:
+  spotify: spotify:track:01hJnhpAmjzg85Etnz2ECH
 features: []
-genres: []
+first_released_as_single: false
 key: body-and-soul-tony-bennett-amy-winehouse
 lyrics_url: https://genius.com/Tony-bennett-body-and-soul-lyrics
 name: Body And Soul
@@ -12,6 +15,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '2011-10-01'
+release_year: 2011
+runtime: 200586
 ---
 My heart is sad and lonely
 For you, I sigh, for you, dear only

@@ -1,8 +1,11 @@
 ---
+album: The Happy Organ
 artists:
 - Baby Cortez
+external_ids:
+  spotify: spotify:track:4oy4gZOLCTwMh2FjNo5RQJ
 features: []
-genres: []
+first_released_as_single: false
 key: rinky-dink-baby-cortez
 lyrics_url: https://genius.com/Dave-baby-cortez-rinky-dink-lyrics
 name: Rinky Dink
@@ -63,5 +66,7 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1962-10-13'
+release_year: 1959
+runtime: 169000
 ---
 (Instrumental)

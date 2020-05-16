@@ -1,8 +1,11 @@
 ---
+album: Take Your Time
 artists:
 - Max-A-Million
+external_ids:
+  spotify: spotify:track:2hXk6pi1tWdp1eEx20rJLA
 features: []
-genres: []
+first_released_as_single: false
 key: fat-boy-max-a-million
 lyrics_url: https://www.musixmatch.com/lyrics/Max-A-Million/Fat-Boy
 name: Fat Boy
@@ -87,6 +90,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1995-06-17'
+release_year: 1995
+runtime: 214000
 ---
 All the fat boy dem X amount of respect
 Now hear dis!

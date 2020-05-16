@@ -1,9 +1,12 @@
 ---
+album: Dark Sky Paradise
 artists:
 - Big Sean
+external_ids:
+  spotify: spotify:track:7taXl2C2594pF4gjumrF4W
 features:
 - E-40
-genres: []
+first_released_as_single: false
 key: i-don-t-f--k-with-you-big-sean-e-40
 lyrics_url: https://www.musixmatch.com/lyrics/Big-Sean-feat-E-40/I-Don-t-F-k-With-You
 name: I Don't F**k With You
@@ -124,6 +127,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2015-04-25'
+release_year: 2014
+runtime: 284413
 ---
 I don't fuck with you
 You little stupid ass bitch I ain't fuckin' with you

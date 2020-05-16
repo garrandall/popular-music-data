@@ -1,8 +1,11 @@
 ---
+album: Maggot Brain
 artists:
 - Funkadelic
+external_ids:
+  spotify: spotify:track:52zm3qweHMnmK3tb7dVHrm
 features: []
-genres: []
+first_released_as_single: false
 key: you-and-your-folks-me-and-my-folks-funkadelic
 lyrics_url: https://www.azlyrics.com/lyrics/funkadelic/youandyourfolksmeandmyfolks.html
 name: You And Your Folks Me And My Folks
@@ -15,8 +18,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1971-04-17'
+release_year: 1971
+runtime: 218013
 ---
-
 Yeah, yeah, yeah
 
 (Let me hear you say)
@@ -80,7 +84,4 @@ Like me and my thing dig you and your thing
 Then we all got a thing
 And it's a very good thing
 
-Yeah, yeah, yeah 
-
-
-
+Yeah, yeah, yeah

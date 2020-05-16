@@ -1,8 +1,11 @@
 ---
+album: Lionel Richie
 artists:
 - Lionel Richie
+external_ids:
+  spotify: spotify:track:7AslBsiVLQAGrmFmi79ZeK
 features: []
-genres: []
+first_released_as_single: false
 key: truly-lionel-richie
 lyrics_url: https://www.azlyrics.com/lyrics/lionelrichie/truly.html
 name: Truly
@@ -79,8 +82,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1983-02-05'
+release_year: 1982
+runtime: 200506
 ---
-
 Girl, tell me only this
 That I'll have your heart for always
 And you want me by your side
@@ -106,6 +110,3 @@ Truly in love with you girl
 I'm truly head over heels with your love
 I need you, and with your love I'm free
 And truly,you know you're alright with me
-
-
-

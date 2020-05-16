@@ -1,8 +1,11 @@
 ---
+album: The Best Of The Orlons
 artists:
 - The Orlons
+external_ids:
+  spotify: spotify:track:5lFQmqmOVEH6XlOsZOk9TT
 features: []
-genres: []
+first_released_as_single: false
 key: bon-doo-wah-the-orlons
 lyrics_url: https://genius.com/The-orlons-bon-doo-wah-lyrics
 name: Bon-Doo-Wah
@@ -31,6 +34,8 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '1964-01-18'
+release_year: 1963
+runtime: 128093
 ---
 Bon doo wah bon doo wah bon doo wah
 Bon doo wah, baby I don't know

@@ -1,8 +1,11 @@
 ---
+album: Jennifer Tomkins
 artists:
 - Street People
+external_ids:
+  spotify: spotify:track:0bnCQbMzi1aPhG2i1XnVO4
 features: []
-genres: []
+first_released_as_single: false
 key: jennifer-tomkins-street-people
 lyrics_url: https://www.musixmatch.com/lyrics/Street-People/Jennifer-Tomkins
 name: Jennifer Tomkins
@@ -67,6 +70,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1970-04-11'
+release_year: 1968
+runtime: 107223
 ---
 Jennifer Tomkins was born on a Sunday
 Her daddy got drunk and left home on a Monday

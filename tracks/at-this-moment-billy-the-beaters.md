@@ -1,9 +1,12 @@
 ---
+album: The Best of Billy Vera and the Beaters
 artists:
 - Billy
 - The Beaters
+external_ids:
+  spotify: spotify:track:6LDRTOMCSx81hKXAk1LuHd
 features: []
-genres: []
+first_released_as_single: false
 key: at-this-moment-billy-the-beaters
 lyrics_url: https://genius.com/Billy-vera-and-the-beaters-at-this-moment-lyrics
 name: At This Moment
@@ -20,6 +23,8 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1981-10-03'
+release_year: 1981
+runtime: 234506
 ---
 What did you think I would do at this moment
 When you're standing before me

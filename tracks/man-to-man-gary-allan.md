@@ -1,8 +1,11 @@
 ---
+album: Alright Guy
 artists:
 - Gary Allan
+external_ids:
+  spotify: spotify:track:0YmlrCG5yGehEJgVycbG9g
 features: []
-genres: []
+first_released_as_single: false
 key: man-to-man-gary-allan
 lyrics_url: https://genius.com/Gary-allan-man-to-man-lyrics
 name: Man To Man
@@ -87,6 +90,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '2003-05-17'
+release_year: 2001
+runtime: 223106
 ---
 You're throwing around a lot of serious accusations
 Ain't too hard to tell what you're insinuating

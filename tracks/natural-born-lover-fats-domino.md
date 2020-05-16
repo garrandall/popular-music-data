@@ -1,8 +1,11 @@
 ---
+album: A Lot Of Dominos
 artists:
 - Fats Domino
+external_ids:
+  spotify: spotify:track:6IXxNV2tkhFtjrevUSXOto
 features: []
-genres: []
+first_released_as_single: false
 key: natural-born-lover-fats-domino
 lyrics_url: https://genius.com/Fats-domino-natural-born-lover-lyrics
 name: Natural Born Lover
@@ -43,6 +46,8 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '1960-12-26'
+release_year: 1960
+runtime: 279493
 ---
 I've done got over, yes I've done got over at last
 I've done got over, yes I've done got over at last

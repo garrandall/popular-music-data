@@ -1,8 +1,11 @@
 ---
+album: To Whom It May Concern
 artists:
 - The Pasadenas
+external_ids:
+  spotify: spotify:track:7E98uFyqUZmTBPGeTz32Ja
 features: []
-genres: []
+first_released_as_single: false
 key: tribute--right-on--the-pasadenas
 lyrics_url: https://genius.com/The-pasadenas-tribute-lyrics
 name: Tribute (Right On)
@@ -47,6 +50,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1989-04-29'
+release_year: 1988
+runtime: 310933
 ---
 Tribute
 

@@ -1,8 +1,11 @@
 ---
+album: Melissa Etheridge
 artists:
 - Melissa Etheridge
+external_ids:
+  spotify: spotify:track:5TGeIu3Sxqs3DkOrdRcUQ6
 features: []
-genres: []
+first_released_as_single: false
 key: similar-features-melissa-etheridge
 lyrics_url: https://www.azlyrics.com/lyrics/melissaetheridge/similarfeatures.html
 name: Similar Features
@@ -23,8 +26,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1989-04-29'
+release_year: 1988
+runtime: 281373
 ---
-
 Go on and close your eyes go on imagine me there
 She's got similar features with longer hair
 And if that's what it takes to get you through
@@ -63,6 +67,3 @@ Go on and close your eyes go on imagine me there
 She's got similar features with longer hair
 And if that's what it takes to get you through
 Go on and close your eyes it shouldn't bother you
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Freddie And The Dreamers
 artists:
 - Freddie And The Dreamers
+external_ids:
+  spotify: spotify:track:2cqBR0FuG3DWjwnurXUFdK
 features: []
-genres: []
+first_released_as_single: false
 key: i-understand--just-how-you-feel--freddie-and-the-dreamers
 lyrics_url: https://genius.com/Freddie-and-the-dreamers-i-understand-lyrics
 name: I Understand (Just How You Feel)
@@ -43,6 +46,8 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '1965-05-08'
+release_year: 1965
+runtime: 155266
 ---
 I understand just how you feel
 Your love for me, why not be mine?

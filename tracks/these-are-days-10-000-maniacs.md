@@ -1,8 +1,11 @@
 ---
+album: Our Time In Eden
 artists:
 - 10,000 Maniacs
+external_ids:
+  spotify: spotify:track:786h4kDeZiX5nYvOwA3wtE
 features: []
-genres: []
+first_released_as_single: false
 key: these-are-days-10-000-maniacs
 lyrics_url: https://genius.com/10000-maniacs-these-are-days-lyrics
 name: These Are Days
@@ -51,6 +54,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1993-02-06'
+release_year: 1992
+runtime: 219893
 ---
 These are the days
 Oh

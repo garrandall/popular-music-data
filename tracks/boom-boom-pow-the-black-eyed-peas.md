@@ -1,8 +1,11 @@
 ---
+album: THE E.N.D. (THE ENERGY NEVER DIES)
 artists:
 - The Black Eyed Peas
+external_ids:
+  spotify: spotify:track:7xRNsqOQOgWbHV1nbXnfXN
 features: []
-genres: []
+first_released_as_single: false
 key: boom-boom-pow-the-black-eyed-peas
 lyrics_url: https://www.azlyrics.com/lyrics/blackeyedpeas/boomboompow.html
 name: Boom Boom Pow
@@ -139,8 +142,9 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '2009-11-07'
+release_year: 2009
+runtime: 251440
 ---
-
 Gotta get that 
 Gotta get that 
 Gotta get that 
@@ -261,6 +265,3 @@ Boom, boom, boom
 Let the beat rock, let the beat rock
 Let the beat rock, let the beat...
 Let the beat r..., let the beat rock, rock, rock, rock
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: The Very Best Of...
 artists:
 - The Shirelles
+external_ids:
+  spotify: spotify:track:7GYjCWh1B3cSgQNaGLHN25
 features: []
-genres: []
+first_released_as_single: false
 key: stop-the-music-the-shirelles
 lyrics_url: https://www.musixmatch.com/lyrics/The-Shirelles/Stop-the-Music
 name: Stop The Music
@@ -39,6 +42,8 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1962-10-27'
+release_year: 1962
+runtime: 128266
 ---
 Stop the music, stop the music, stop the music
 Stop the music, stop the music, stop the music

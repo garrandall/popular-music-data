@@ -1,8 +1,11 @@
 ---
+album: Standing Ovation
 artists:
 - Gladys Knight And The Pips
+external_ids:
+  spotify: spotify:track:6XWLyTGeOE1o5XXefKyFeY
 features: []
-genres: []
+first_released_as_single: false
 key: make-me-the-woman-that-you-go-home-to-gladys-knight-and-the-pips
 lyrics_url: https://genius.com/Gladys-knight-and-the-pips-make-me-the-woman-that-you-go-home-to-lyrics
 name: Make Me The Woman That You Go Home To
@@ -47,6 +50,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1972-02-19'
+release_year: 1971
+runtime: 231400
 ---
 You promised me things that meant a lot
 Said so much you just up and forgot

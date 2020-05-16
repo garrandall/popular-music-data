@@ -1,8 +1,11 @@
 ---
+album: You Could Have It So Much Better
 artists:
 - Franz Ferdinand
+external_ids:
+  spotify: spotify:track:4br7ueWsX7XGl58dLVtTjY
 features: []
-genres: []
+first_released_as_single: true
 key: do-you-want-to-franz-ferdinand
 lyrics_url: https://www.azlyrics.com/lyrics/franzferdinand/doyouwantto.html
 name: Do You Want To
@@ -23,8 +26,9 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '2005-10-29'
+release_year: 2005
+runtime: 215693
 ---
-
 When I woke up tonight, I said I'm
 Gonna make somebody love me
 I'm gonna make somebody love me
@@ -80,6 +84,3 @@ You're so lucky
 Oh lucky lucky
 You're so lucky
 Yeah
-
-
-

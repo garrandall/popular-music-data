@@ -1,8 +1,11 @@
 ---
+album: I Love You
 artists:
 - Eddie Holman
+external_ids:
+  spotify: spotify:track:3QoK9rmTv6jFyfGAu6F1Fd
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-stop-now-eddie-holman
 lyrics_url: https://genius.com/Eddie-holman-dont-stop-now-lyrics
 name: Don't Stop Now
@@ -39,6 +42,8 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '1970-05-23'
+release_year: 1969
+runtime: 177733
 ---
 What dream was I dreaming, darling
 When I found you

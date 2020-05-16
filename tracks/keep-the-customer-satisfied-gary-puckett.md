@@ -1,8 +1,11 @@
 ---
+album: Looking Glass (A Collection)
 artists:
 - Gary Puckett
+external_ids:
+  spotify: spotify:track:2naL684IQ92qWtXSvtbW8b
 features: []
-genres: []
+first_released_as_single: false
 key: keep-the-customer-satisfied-gary-puckett
 lyrics_url: https://www.azlyrics.com/lyrics/garypucketttheuniongap/keepthecustomersatisfied.html
 name: Keep The Customer Satisfied
@@ -27,8 +30,9 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '1971-03-06'
+release_year: 1968
+runtime: 159533
 ---
-
 Gee, but it's great to be back home
 Home is where I want to be
 I've been on the road so long, my friend
@@ -82,6 +86,3 @@ Everybody's got to be satisfied (so satisfied)
 Oh! (so satisfied)
 Got to keep my customer satisfied (so satisfied)
 (So satisfied)
-
-
-

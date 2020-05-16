@@ -1,8 +1,11 @@
 ---
+album: Foiled
 artists:
 - Blue October
+external_ids:
+  spotify: spotify:track:2SiqlgLMfKQbczSMRp8drY
 features: []
-genres: []
+first_released_as_single: false
 key: into-the-ocean-blue-october
 lyrics_url: https://www.azlyrics.com/lyrics/blueoctober/intotheocean.html
 name: Into The Ocean
@@ -87,8 +90,9 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '2007-05-05'
+release_year: 2006
+runtime: 239946
 ---
-
 I'm just a normal boy
 That sank when I fell overboard
 My ship would leave the country
@@ -181,6 +185,3 @@ Into the ocean (goodbye) end it all (goodbye)
 Into the ocean (goodbye) end it all (goodbye)
 Into the ocean (goodbye) end it all (goodbye)
 Into the ocean (goodbye) end it all (goodbye)
-
-
-

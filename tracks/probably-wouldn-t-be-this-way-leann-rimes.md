@@ -1,8 +1,11 @@
 ---
+album: This Woman
 artists:
 - LeAnn Rimes
+external_ids:
+  spotify: spotify:track:1rXn9CgyDaiZ9rCqwxLYim
 features: []
-genres: []
+first_released_as_single: false
 key: probably-wouldn-t-be-this-way-leann-rimes
 lyrics_url: https://genius.com/Leann-rimes-probably-wouldnt-be-this-way-lyrics
 name: Probably Wouldn't Be This Way
@@ -63,6 +66,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2005-12-03'
+release_year: 2005
+runtime: 217946
 ---
 Got a date a week from Friday
 With the preacher's son

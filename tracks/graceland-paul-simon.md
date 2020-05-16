@@ -1,8 +1,11 @@
 ---
+album: Graceland
 artists:
 - Paul Simon
+external_ids:
+  spotify: spotify:track:51KKQAgYFoJHgVIuJWHdHb
 features: []
-genres: []
+first_released_as_single: false
 key: graceland-paul-simon
 lyrics_url: https://www.azlyrics.com/lyrics/paulsimon/graceland.html
 name: Graceland
@@ -35,8 +38,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1987-01-17'
+release_year: 1986
+runtime: 291200
 ---
-
 The Mississippi Delta was shining
 Like a National guitar
 I am following the river
@@ -100,6 +104,3 @@ Or maybe there's no obligations now
 Maybe I've a reason to believe
 We all will be received
 In Graceland
-
-
-

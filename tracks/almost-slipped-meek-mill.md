@@ -1,8 +1,11 @@
 ---
+album: Championships
 artists:
 - Meek Mill
+external_ids:
+  spotify: spotify:track:7p5jF2V114JYECqLIVwzaD
 features: []
-genres: []
+first_released_as_single: false
 key: almost-slipped-meek-mill
 lyrics_url: https://www.azlyrics.com/lyrics/meekmill/almostslipped.html
 name: Almost Slipped
@@ -11,8 +14,9 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '2018-12-15'
+release_year: 2018
+runtime: 246792
 ---
-
 Ugh, every bitch I'm fuckin' say they only fuckin' me
 I even bought you diamonds, put you in that double seat
 The way you love the game, you couldn't be in love with me
@@ -92,6 +96,3 @@ I gotta pour out my feelings that's inside me, yeah
 What happened in the dark is gon' come to the light (Come to the light)
 Magic from the start, you was fuckin' me right (Fuckin' me right)
 Treat me like a king baby talk to me nice (Talk to me)
-
-
-

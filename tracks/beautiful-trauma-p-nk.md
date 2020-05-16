@@ -1,8 +1,11 @@
 ---
+album: Beautiful Trauma
 artists:
 - P!nk
+external_ids:
+  spotify: spotify:track:47fnaPAnLl0PT1MtZ6cAGy
 features: []
-genres: []
+first_released_as_single: true
 key: beautiful-trauma-p-nk
 lyrics_url: https://genius.com/P-nk-beautiful-trauma-lyrics
 name: Beautiful Trauma
@@ -67,6 +70,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2018-04-14'
+release_year: 2017
+runtime: 250053
 ---
 We were on fire
 I slashed your tires

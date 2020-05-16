@@ -1,8 +1,11 @@
 ---
+album: 4 Your Eyez Only
 artists:
 - J. Cole
+external_ids:
+  spotify: spotify:track:0iuBmblLgMQ7AlHVB8LosU
 features: []
-genres: []
+first_released_as_single: false
 key: immortal-j--cole
 lyrics_url: https://www.azlyrics.com/lyrics/jcole/immortal.html
 name: Immortal
@@ -27,8 +30,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2017-01-28'
+release_year: 2016
+runtime: 201666
 ---
-
 Now I was barely seventeen with a pocket full of hope
 Screamin', dollar and a dream with my closet lookin' broke
 And my nigga's lookin' clean, gettin' caught up with that dope
@@ -105,6 +109,3 @@ It's that sort of thinkin' that been keepin' niggas chained
 At the bottom and hanged
 The strangest fruit that you ever seen, ripe with pain
 Listen...
-
-
-

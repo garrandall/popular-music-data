@@ -1,8 +1,11 @@
 ---
+album: Casey James
 artists:
 - Casey James
+external_ids:
+  spotify: spotify:track:020b0QxseQbcMTPKV49qRm
 features: []
-genres: []
+first_released_as_single: false
 key: crying-on-a-suitcase-casey-james
 lyrics_url: https://www.azlyrics.com/lyrics/caseyjames/cryingonasuitcase.html
 name: Crying On A Suitcase
@@ -43,8 +46,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2013-03-02'
+release_year: 2012
+runtime: 221386
 ---
-
 Boy don't wait, don't think, don't lock the door behind you
 Run and jump into your truck, and hit the gas, burn some rubber up
 Yeah your time's running out
@@ -103,6 +107,3 @@ Well you still got time
 She's cryin' on a suitcase
 Waitin' on the airplane
 She'll fade into a goodbye sky
-
-
-

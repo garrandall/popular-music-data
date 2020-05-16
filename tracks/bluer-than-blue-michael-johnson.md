@@ -1,8 +1,11 @@
 ---
+album: The Michael Johnson Album
 artists:
 - Michael Johnson
+external_ids:
+  spotify: spotify:track:1cAHI9tJN6oHMdG4ghlQKY
 features: []
-genres: []
+first_released_as_single: false
 key: bluer-than-blue-michael-johnson
 lyrics_url: https://genius.com/Michael-johnson-bluer-than-blue-lyrics
 name: Bluer Than Blue
@@ -71,6 +74,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1978-08-05'
+release_year: 1978
+runtime: 179666
 ---
 After you go, I can catch up on my reading
 After you go, I'll have a lot more time for sleeping

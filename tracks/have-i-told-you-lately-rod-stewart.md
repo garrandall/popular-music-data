@@ -1,8 +1,11 @@
 ---
+album: Vagabond Heart
 artists:
 - Rod Stewart
+external_ids:
+  spotify: spotify:track:6mIY6O7uNGgVqOoX70UAYh
 features: []
-genres: []
+first_released_as_single: false
 key: have-i-told-you-lately-rod-stewart
 lyrics_url: https://www.azlyrics.com/lyrics/rodstewart/haveitoldyoulately.html
 name: Have I Told You Lately
@@ -95,8 +98,9 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1993-09-18'
+release_year: 1991
+runtime: 241506
 ---
-
 Have I told you lately that I love you
 Have I told you there's no one else above you
 Fill my heart with gladness
@@ -137,6 +141,3 @@ ease my troubles that's what you do
 Take away all my sadness
 fill my life with gladness
 ease my troubles that's what you do
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Sign "O" the Times
 artists:
 - Prince
+external_ids:
+  spotify: spotify:track:7Bsfh7tZyAf6L5iQti86Rq
 features: []
-genres: []
+first_released_as_single: false
 key: i-could-never-take-the-place-of-your-man-prince
 lyrics_url: https://genius.com/Prince-i-could-never-take-the-place-of-your-man-lyrics
 name: I Could Never Take The Place Of Your Man
@@ -75,6 +78,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1988-03-05'
+release_year: 1987
+runtime: 389226
 ---
 It was only last June when her old man ran away
 She couldn't stop crying cause she knew he was gone to stay

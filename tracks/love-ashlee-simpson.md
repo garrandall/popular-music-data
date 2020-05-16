@@ -1,8 +1,11 @@
 ---
+album: Autobiography
 artists:
 - Ashlee Simpson
+external_ids:
+  spotify: spotify:track:0PFl1LFTgBFSnQ4GaIN8s3
 features: []
-genres: []
+first_released_as_single: false
 key: love-ashlee-simpson
 lyrics_url: https://genius.com/Ashlee-simpson-love-lyrics
 name: LOVE
@@ -79,6 +82,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2006-04-22'
+release_year: 2004
+runtime: 207906
 ---
 I'm talkin' 'bout love
 

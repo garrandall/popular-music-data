@@ -1,9 +1,12 @@
 ---
+album: Pretty Girls
 artists:
 - Britney Spears
 - Iggy Azalea
+external_ids:
+  spotify: spotify:track:6QicTxeiSaRkPnkGDUvYOs
 features: []
-genres: []
+first_released_as_single: true
 key: pretty-girls-britney-spears-iggy-azalea
 lyrics_url: https://www.azlyrics.com/lyrics/britneyspears/prettygirls.html
 name: Pretty Girls
@@ -40,8 +43,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2015-07-11'
+release_year: 2015
+runtime: 163960
 ---
-
 All around the world, pretty girls
 Wipe the floor with all the boys
 Pour the drinks, bring the noise
@@ -136,6 +140,3 @@ All around the world, pretty girls
 Jump the line, to the front
 Do what we like, get what we want
 We're just so pretty!
-
-
-

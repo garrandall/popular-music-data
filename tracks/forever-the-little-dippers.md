@@ -1,8 +1,11 @@
 ---
+album: Forever
 artists:
 - The Little Dippers
+external_ids:
+  spotify: spotify:track:5rWyKJMaTXL0TArnJ8IGts
 features: []
-genres: []
+first_released_as_single: true
 key: forever-the-little-dippers
 lyrics_url: https://genius.com/The-little-dippers-forever-lyrics
 name: Forever
@@ -63,6 +66,8 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '1960-04-25'
+release_year: 1960
+runtime: 143160
 ---
 Hold me, kiss me
 Whisper sweetly

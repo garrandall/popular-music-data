@@ -1,8 +1,11 @@
 ---
+album: The 20/20 Experience (Deluxe Version)
 artists:
 - Justin Timberlake
+external_ids:
+  spotify: spotify:track:6ToFxXRBtl5TJFEyIoYK3f
 features: []
-genres: []
+first_released_as_single: true
 key: mirrors-justin-timberlake
 lyrics_url: https://genius.com/Justin-timberlake-mirrors-lyrics
 name: Mirrors
@@ -175,6 +178,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2013-12-14'
+release_year: 2013
+runtime: 277306
 ---
 Aren't you somethin' to admire?
 'Cause your shine is somethin' like a mirror

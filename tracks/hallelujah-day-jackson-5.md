@@ -1,8 +1,11 @@
 ---
+album: Skywriter
 artists:
 - Jackson 5
+external_ids:
+  spotify: spotify:track:3Bf6hiZXLfflOZ3RttXoch
 features: []
-genres: []
+first_released_as_single: false
 key: hallelujah-day-jackson-5
 lyrics_url: https://www.azlyrics.com/lyrics/jackson5/hallelujahday.html
 name: Hallelujah Day
@@ -47,8 +50,9 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1973-05-19'
+release_year: 1973
+runtime: 167240
 ---
-
 Hallelujah day
 Sing hallelujah
 Love is on its way
@@ -95,4 +99,3 @@ And sing along with the Jackson Five, yeah
 Singing hallelujah
 Singing, singing, singing, yeah
 Hallelujah, yeah
-

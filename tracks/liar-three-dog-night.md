@@ -1,8 +1,11 @@
 ---
+album: Naturally
 artists:
 - Three Dog Night
+external_ids:
+  spotify: spotify:track:4NLKJfFJl19CnJaEGMGjhl
 features: []
-genres: []
+first_released_as_single: false
 key: liar-three-dog-night
 lyrics_url: https://www.azlyrics.com/lyrics/threedognight/liar.html
 name: Liar
@@ -55,8 +58,9 @@ rankings:
   rank: 29
   ranking_list: Billboard Hot 100
   start_date: '1971-09-25'
+release_year: 1970
+runtime: 235800
 ---
-
 I won't ever leave
 If you want me to stay
 Nothing you could do
@@ -114,6 +118,3 @@ Ain't that what you said?
 
 Liar
 Liar, liar
-
-
-

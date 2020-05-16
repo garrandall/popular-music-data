@@ -1,8 +1,11 @@
 ---
+album: Make Up, Break Up
 artists:
 - Mary Wells
+external_ids:
+  spotify: spotify:track:2AnsUWKmCgs5QFCWxCH3Ll
 features: []
-genres: []
+first_released_as_single: false
 key: you-lost-the-sweetest-boy-mary-wells
 lyrics_url: https://www.azlyrics.com/lyrics/marywells/youlostthesweetestboy.html
 name: You Lost The Sweetest Boy
@@ -43,8 +46,9 @@ rankings:
   rank: 36
   ranking_list: Billboard Hot 100
   start_date: '1963-11-23'
+release_year: 1963
+runtime: 157345
 ---
-
 Oh yeah, Oh yeah, Oh yeah, Oh yeah
 
 You had the sweetest boy in the world
@@ -84,6 +88,3 @@ The sweetest boy that you had
 
 You lost the sweetest boy that you had that time
 The sweetest boy that you had
-
-
-

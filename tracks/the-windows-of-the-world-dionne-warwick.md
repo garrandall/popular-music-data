@@ -1,8 +1,11 @@
 ---
+album: The Windows Of The World
 artists:
 - Dionne Warwick
+external_ids:
+  spotify: spotify:track:2hfZvzMulDymYMgMKJJWJM
 features: []
-genres: []
+first_released_as_single: false
 key: the-windows-of-the-world-dionne-warwick
 lyrics_url: https://genius.com/Dionne-warwick-the-windows-of-the-world-lyrics
 name: The Windows Of The World
@@ -43,6 +46,8 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1967-09-23'
+release_year: 1967
+runtime: 202373
 ---
 The windows of the world are covered with rain
 Where is the sunshine we once knew?

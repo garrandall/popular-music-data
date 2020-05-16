@@ -1,8 +1,11 @@
 ---
+album: Down For Life
 artists:
 - D4L
+external_ids:
+  spotify: spotify:track:2ajhenDRiiAnCHHjsIOHhJ
 features: []
-genres: []
+first_released_as_single: false
 key: laffy-taffy-d4l
 lyrics_url: https://www.azlyrics.com/lyrics/d4l/laffytaffy.html
 name: Laffy Taffy
@@ -111,8 +114,9 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '2006-03-25'
+release_year: 2005
+runtime: 224253
 ---
-
 That laffy taffy (candy girl)
 
 Girl shake that laffy taffy
@@ -258,6 +262,3 @@ Girl shake that laffy taffy
 That laffy taffy
 That laffy taffy (candy girl)
 That laffy taffy
-
-
-

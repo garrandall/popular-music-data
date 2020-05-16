@@ -1,8 +1,11 @@
 ---
+album: Nightflight to Venus
 artists:
 - Boney M
+external_ids:
+  spotify: spotify:track:78His8pbKjbDQF7aX5asgv
 features: []
-genres: []
+first_released_as_single: false
 key: rivers-of-babylon-boney-m
 lyrics_url: https://www.azlyrics.com/lyrics/boneym/riversofbabylon.html
 name: Rivers Of Babylon
@@ -75,8 +78,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1978-09-23'
+release_year: 1978
+runtime: 261266
 ---
-
 By the rivers of Babylon, there we sat down
 Ye-eah we wept, when we remembered Zion
 
@@ -114,6 +118,3 @@ By the rivers of Babylon (Rough bits of Babylon)
 There we sat down (You hear the people cry)
 Ye-eah we wept, (They need their God)
 When we remembered Zion. (Oh, have the power)
-
-
-

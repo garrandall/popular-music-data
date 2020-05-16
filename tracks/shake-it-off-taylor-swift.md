@@ -1,8 +1,11 @@
 ---
+album: '1989'
 artists:
 - Taylor Swift
+external_ids:
+  spotify: spotify:track:5xTtaWoae3wi06K5WfVUUH
 features: []
-genres: []
+first_released_as_single: false
 key: shake-it-off-taylor-swift
 lyrics_url: https://genius.com/Taylor-swift-shake-it-off-lyrics
 name: Shake It Off
@@ -207,6 +210,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2015-08-15'
+release_year: 2014
+runtime: 219200
 ---
 I stay out too late
 Got nothing in my brain

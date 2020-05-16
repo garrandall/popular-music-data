@@ -1,8 +1,11 @@
 ---
+album: Come Clean
 artists:
 - Puddle Of Mudd
+external_ids:
+  spotify: spotify:track:4YetrvKdYwgQANVedMth3F
 features: []
-genres: []
+first_released_as_single: false
 key: drift---die-puddle-of-mudd
 lyrics_url: https://www.azlyrics.com/lyrics/puddleofmudd/driftanddie.html
 name: Drift & Die
@@ -87,8 +90,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2002-10-05'
+release_year: 2001
+runtime: 265066
 ---
-
 Forgotten thoughts of yesterdays
 Through my eyes, I see the past
 Well I don't know, I don't know, I don't know why
@@ -124,6 +128,3 @@ Ignorance spreads lies
 How much will money buy
 Well I'll take my time
 As I drift and die
-
-
-

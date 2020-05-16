@@ -1,8 +1,11 @@
 ---
+album: Billy Preston - The Best
 artists:
 - Billy Preston
+external_ids:
+  spotify: spotify:track:3mSPYJ3bfRC74e1pXTVElt
 features: []
-genres: []
+first_released_as_single: false
 key: space-race-billy-preston
 lyrics_url: https://www.musixmatch.com/lyrics/Billy-Preston/Space-Race
 name: Space Race
@@ -79,6 +82,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1974-01-19'
+release_year: 1973
+runtime: 206933
 ---
 How men be so greedy
 When there's so much left?

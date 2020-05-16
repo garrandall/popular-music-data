@@ -1,8 +1,11 @@
 ---
+album: 98.6 / Ain't Gonna Lie
 artists:
 - Keith
+external_ids:
+  spotify: spotify:track:602FffJEffSJnWC8eHDIwv
 features: []
-genres: []
+first_released_as_single: false
 key: 986-keith
 lyrics_url: https://genius.com/Keith-986-lyrics
 name: '986'
@@ -63,6 +66,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1967-03-11'
+release_year: 1966
+runtime: 187400
 ---
 Good morning, sun, I say it's good to see you shining
 I know my baby brought you to me

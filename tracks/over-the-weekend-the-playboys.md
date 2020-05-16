@@ -1,8 +1,11 @@
 ---
+album: Over the Weekend - And Other Hits
 artists:
 - The Playboys
+external_ids:
+  spotify: spotify:track:5oZZ4FBW4VS2JIhFSIHcin
 features: []
-genres: []
+first_released_as_single: false
 key: over-the-weekend-the-playboys
 lyrics_url: https://www.musixmatch.com/lyrics/The-Playboys/Over-the-Weekend
 name: Over The Weekend
@@ -31,6 +34,8 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1958-10-06'
+release_year: 1958
+runtime: 163600
 ---
 Think it over, over the weekend
 Don't be so quick to say that we're through

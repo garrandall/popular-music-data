@@ -1,8 +1,11 @@
 ---
+album: Hideaway
 artists:
 - America
+external_ids:
+  spotify: spotify:track:6s0jr0QK2Ui8lUQe0BLhL5
 features: []
-genres: []
+first_released_as_single: false
 key: today-s-the-day-america
 lyrics_url: https://genius.com/America-todays-the-day-lyrics
 name: Today's The Day
@@ -55,6 +58,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1976-07-31'
+release_year: 1976
+runtime: 195973
 ---
 Hold me close
 You turn nighttime into day

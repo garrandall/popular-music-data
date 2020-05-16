@@ -1,8 +1,11 @@
 ---
+album: One-X
 artists:
 - Three Days Grace
+external_ids:
+  spotify: spotify:track:3zUEGIKNFJB268GiwEvWXP
 features: []
-genres: []
+first_released_as_single: true
 key: animal-i-have-become-three-days-grace
 lyrics_url: https://www.azlyrics.com/lyrics/threedaysgrace/animalihavebecome.html
 name: Animal I Have Become
@@ -87,8 +90,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2006-10-14'
+release_year: 2006
+runtime: 231400
 ---
-
 I can't escape this hell
 So many times I've tried
 But I'm still caged inside
@@ -136,6 +140,3 @@ Somebody help me tame this animal I have become
 Help me believe it's not the real me
 Somebody help me tame this animal
 (This animal I have become)
-
-
-

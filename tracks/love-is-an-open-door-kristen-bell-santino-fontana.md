@@ -1,9 +1,12 @@
 ---
+album: Frozen
 artists:
 - Kristen Bell
 - Santino Fontana
+external_ids:
+  spotify: spotify:track:3IPnBzGRMg6BfViFxxa0Gq
 features: []
-genres: []
+first_released_as_single: false
 key: love-is-an-open-door-kristen-bell-santino-fontana
 lyrics_url: https://www.azlyrics.com/lyrics/kristenbell/loveisanopendoor.html
 name: Love Is An Open Door
@@ -24,9 +27,10 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2014-04-19'
+release_year: 2013
+runtime: 124733
 ---
-
- Okay, can I just, say something crazy?
+Okay, can I just, say something crazy?
 
  I love crazy!
 
@@ -104,6 +108,3 @@ Life can be so much more!
  Will you marry me?
 
  Can I say something even crazier? Yes!
-
-
-

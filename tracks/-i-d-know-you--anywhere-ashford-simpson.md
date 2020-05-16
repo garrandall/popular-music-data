@@ -1,9 +1,12 @@
 ---
+album: Gimme Something Real
 artists:
 - Ashford
 - Simpson
+external_ids:
+  spotify: spotify:track:04sWiIQBI9r1FMer5KIAl9
 features: []
-genres: []
+first_released_as_single: false
 key: -i-d-know-you--anywhere-ashford-simpson
 lyrics_url: https://genius.com/Ashford-and-simpson-anywhere-lyrics
 name: (I'd Know You) Anywhere
@@ -20,6 +23,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1974-02-02'
+release_year: 1973
+runtime: 357106
 ---
 There may be other hands
 But they're just imitation

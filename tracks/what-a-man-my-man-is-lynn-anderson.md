@@ -1,8 +1,11 @@
 ---
+album: Live at Billy Bob's Texas
 artists:
 - Lynn Anderson
+external_ids:
+  spotify: spotify:track:10eijOdxB5qiNFp0uMWBxj
 features: []
-genres: []
+first_released_as_single: false
 key: what-a-man-my-man-is-lynn-anderson
 lyrics_url: https://www.musixmatch.com/lyrics/Lynn-Anderson/What-a-Man-My-Man-Is
 name: What A Man My Man Is
@@ -19,6 +22,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1975-01-18'
+release_year: 1966
+runtime: 134733
 ---
 Goodbye blues I'm not gonna sing you no more
 I finally got my hands on what I'v been looking for

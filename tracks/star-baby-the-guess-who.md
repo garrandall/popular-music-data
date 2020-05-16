@@ -1,8 +1,11 @@
 ---
+album: Road Food
 artists:
 - The Guess Who
+external_ids:
+  spotify: spotify:track:2NasImtBsH9UkMXCsDUabr
 features: []
-genres: []
+first_released_as_single: false
 key: star-baby-the-guess-who
 lyrics_url: https://genius.com/The-guess-who-star-baby-lyrics
 name: Star Baby
@@ -83,6 +86,8 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '1974-06-22'
+release_year: 1974
+runtime: 160293
 ---
 Well I never been much for admitting things
 That's why it's all so hard to say

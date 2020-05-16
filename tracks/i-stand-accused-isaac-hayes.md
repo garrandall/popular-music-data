@@ -1,8 +1,11 @@
 ---
+album: Love Attack
 artists:
 - Isaac Hayes
+external_ids:
+  spotify: spotify:track:2uSXk2l4kizdy646TSDEPu
 features: []
-genres: []
+first_released_as_single: false
 key: i-stand-accused-isaac-hayes
 lyrics_url: https://www.azlyrics.com/lyrics/isaachayes/istandaccused.html
 name: I Stand Accused
@@ -43,8 +46,9 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1970-10-24'
+release_year: 1970
+runtime: 335040
 ---
-
 I stand accused
 Of lovin' you too much
 And I hope, I hope it's not a crime
@@ -90,6 +94,3 @@ I wanna squeeze ya tight
 But my mind said
 She belong to another
 And that ain't right
-
-
-

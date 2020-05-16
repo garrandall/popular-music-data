@@ -1,8 +1,11 @@
 ---
+album: Pocket Full Of Kryptonite
 artists:
 - Spin Doctors
+external_ids:
+  spotify: spotify:track:1uCqIhOePc6hDMG2ijk8sp
 features: []
-genres: []
+first_released_as_single: false
 key: little-miss-can-t-be-wrong-spin-doctors
 lyrics_url: https://genius.com/Spin-doctors-little-miss-cant-be-wrong-lyrics
 name: Little Miss Can't Be Wrong
@@ -87,6 +90,8 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1993-02-27'
+release_year: 1991
+runtime: 232720
 ---
 It's been a whole lot easier since the bitch left town
 It's been a whole lot happier without her face around

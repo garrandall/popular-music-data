@@ -1,8 +1,11 @@
 ---
+album: The Essence Of Melissa Manchester
 artists:
 - Melissa Manchester
+external_ids:
+  spotify: spotify:track:3P9K308CovFv7tbJz8UKRE
 features: []
-genres: []
+first_released_as_single: false
 key: fire-in-the-morning-melissa-manchester
 lyrics_url: https://www.azlyrics.com/lyrics/melissamanchester/fireinthemorning.html
 name: Fire In The Morning
@@ -59,8 +62,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1980-05-17'
+release_year: 1980
+runtime: 233866
 ---
-
 I know it's late to call
 I don't blame you if you're angry
 But there are things
@@ -98,6 +102,3 @@ We'd curl up on the couch
 And trade the world for our love song
 We'd light a fire in the morning
 And make love all day long
-
-
-

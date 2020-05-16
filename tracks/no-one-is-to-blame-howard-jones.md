@@ -1,8 +1,11 @@
 ---
+album: Dream Into Action
 artists:
 - Howard Jones
+external_ids:
+  spotify: spotify:track:24iczkfLdOGZYDKtfSmWQp
 features: []
-genres: []
+first_released_as_single: false
 key: no-one-is-to-blame-howard-jones
 lyrics_url: https://genius.com/Howard-jones-no-one-is-to-blame-lyrics
 name: No One Is To Blame
@@ -99,6 +102,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1986-09-13'
+release_year: 1985
+runtime: 210533
 ---
 You can look at the menu
 But you just can't eat

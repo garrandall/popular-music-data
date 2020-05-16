@@ -1,8 +1,11 @@
 ---
+album: The Bridge
 artists:
 - Melanie Fiona
+external_ids:
+  spotify: spotify:track:6qU37BgVfPhpb2rhYzZWrF
 features: []
-genres: []
+first_released_as_single: false
 key: it-kills-me-melanie-fiona
 lyrics_url: https://www.azlyrics.com/lyrics/melaniefiona/itkillsme.html
 name: It Kills Me
@@ -87,8 +90,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2010-04-17'
+release_year: 2009
+runtime: 250413
 ---
-
 Oh yeah, I've got trouble with my friends
 Trouble in my life
 Problems when you don't come home at night
@@ -148,6 +152,3 @@ And it kills me to know
 How much I really love you
 So much I wanna oh oohohoh
 To you, oh oh
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Pulses
 artists:
 - Karmin
+external_ids:
+  spotify: spotify:track:6RjW45KHJ6kgI2xQ1aFa52
 features: []
-genres: []
+first_released_as_single: false
 key: acapella-karmin
 lyrics_url: https://www.azlyrics.com/lyrics/karmin/acapella.html
 name: Acapella
@@ -39,8 +42,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2013-09-14'
+release_year: 2013
+runtime: 198906
 ---
-
 Used to be your baby, used to be your lady
 Thought you were the perfect lover
 All the harmony went fallin' out of key, so
@@ -116,6 +120,3 @@ You and me are through though, watch me hit it solo
 I'mma do it acapella
 Whoa-oh-oh-oh-oh, oh-oh-oh-oh-oh
 I'mma do it acapella, yeah
-
-
-

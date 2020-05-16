@@ -1,10 +1,13 @@
 ---
+album: Beach House EP
 artists:
 - Ty Dolla $ign
+external_ids:
+  spotify: spotify:track:6cRqxXoY6esNiFaOnl4EiC
 features:
 - Wiz Khalifa
 - DJ Mustard
-genres: []
+first_released_as_single: true
 key: or-nah-ty-dolla--ign-wiz-khalifa-dj-mustard
 name: Or Nah
 rankings:
@@ -88,5 +91,7 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '2014-08-16'
+release_year: 2014
+runtime: 251861
 ---
 

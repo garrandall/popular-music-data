@@ -1,8 +1,11 @@
 ---
+album: What A Diff'rence A Day Makes!
 artists:
 - Dinah Washington
+external_ids:
+  spotify: spotify:track:6GN0LtafXeYC80VbaCWG4b
 features: []
-genres: []
+first_released_as_single: false
 key: it-could-happen-to-you-dinah-washington
 lyrics_url: https://www.azlyrics.com/lyrics/dinahwashington/itcouldhappentoyou.html
 name: It Could Happen To You
@@ -31,8 +34,9 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1960-05-02'
+release_year: 1959
+runtime: 186226
 ---
-
 Hide your heart from sight
 Lock your dreams at night
 It could happen to you
@@ -46,6 +50,3 @@ It could happen to you
 All I did was wonder
 How your arms would be
 And it happened to me
-
-
-

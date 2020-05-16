@@ -1,8 +1,11 @@
 ---
+album: 'Crystal Gayle: The Hits'
 artists:
 - Crystal Gayle
+external_ids:
+  spotify: spotify:track:6BLVP1QJG8JMP4tda7R0HJ
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-like-we-never-said-goodbye-crystal-gayle
 lyrics_url: https://www.azlyrics.com/lyrics/crystalgayle/itslikeweneversaidgoodbye.html
 name: It's Like We Never Said Goodbye
@@ -31,8 +34,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1980-03-29'
+release_year: 1980
+runtime: 211826
 ---
-
 I was sure I'd lost my chance for forever
 I never dreamed we'd ever meet again
 Now here we are alone once more together
@@ -59,6 +63,3 @@ A different bed a different ceiling
 But still that same old feeling
 As I hold you close I almost want to cry
 Cause it feels just like we never said goodbye
-
-
-

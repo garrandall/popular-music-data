@@ -1,8 +1,11 @@
 ---
+album: Bangerz (Deluxe Version)
 artists:
 - Miley Cyrus
+external_ids:
+  spotify: spotify:track:2vwlzO0Qp8kfEtzTsCXfyE
 features: []
-genres: []
+first_released_as_single: false
 key: wrecking-ball-miley-cyrus
 lyrics_url: https://www.azlyrics.com/lyrics/mileycyrus/wreckingball.html
 name: Wrecking Ball
@@ -135,8 +138,9 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '2014-04-12'
+release_year: 2013
+runtime: 221360
 ---
-
 We clawed, we chained our hearts in vain
 We jumped never asking why
 We kissed, I fell under your spell.
@@ -196,6 +200,3 @@ Left me crashing in a blazing fall
 All you ever did was wreck me
 Yeah, you, you wreck me
 Yeah, you, you wreck me
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: 'Playlist: The Very Best Of Clay Aiken'
 artists:
 - Clay Aiken
+external_ids:
+  spotify: spotify:track:6QP46GKcggdxLbVLWilLVc
 features: []
-genres: []
+first_released_as_single: false
 key: this-is-the-night-clay-aiken
 lyrics_url: https://www.azlyrics.com/lyrics/clayaiken/thisisthenight.html
 name: This Is The Night
@@ -71,8 +74,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2003-10-11'
+release_year: 2003
+runtime: 211960
 ---
-
 When the world wasn't upside down, I could take all the time I had
 But I'm not going to wait when a moment can vanish so fast
 
@@ -102,6 +106,3 @@ Hold me close to your heart
 I would go with you to the ends of the Earth and we'll fly
 I've been waiting forever for this
 This is the night
-
-
-

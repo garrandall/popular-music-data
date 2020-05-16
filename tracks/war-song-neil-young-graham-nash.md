@@ -1,9 +1,12 @@
 ---
+album: Neil Young Archives Vol. I (1963 - 1972)
 artists:
 - Neil Young
 - Graham Nash
+external_ids:
+  spotify: spotify:track:3OF61UhT0n0qsjLP6nFBhM
 features: []
-genres: []
+first_released_as_single: false
 key: war-song-neil-young-graham-nash
 lyrics_url: https://genius.com/Neil-young-war-song-lyrics
 name: War Song
@@ -32,6 +35,8 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '1972-08-05'
+release_year: 1972
+runtime: 209026
 ---
 In the morning when you wake up
 You've got planes flying in the sky

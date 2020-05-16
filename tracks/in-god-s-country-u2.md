@@ -1,8 +1,11 @@
 ---
+album: The Joshua Tree (Super Deluxe)
 artists:
 - U2
+external_ids:
+  spotify: spotify:track:1AQYE6CcYKlzM8e9Df5i1g
 features: []
-genres: []
+first_released_as_single: false
 key: in-god-s-country-u2
 lyrics_url: https://www.musixmatch.com/lyrics/U2/In-God-s-Country
 name: In God's Country
@@ -55,6 +58,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1988-02-20'
+release_year: 1987
+runtime: 176596
 ---
 Yeah
 

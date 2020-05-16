@@ -1,8 +1,11 @@
 ---
+album: Thompson Square
 artists:
 - Thompson Square
+external_ids:
+  spotify: spotify:track:0KGWGfFDNoVVGOPvoFZw6w
 features: []
-genres: []
+first_released_as_single: false
 key: i-got-you-thompson-square
 lyrics_url: https://genius.com/Thompson-square-i-got-you-lyrics
 name: I Got You
@@ -79,6 +82,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2011-12-31'
+release_year: 2011
+runtime: 183866
 ---
 A car's got gasoline to run, down the road
 A crop's got rain, dirt and sun, to make 'em grow

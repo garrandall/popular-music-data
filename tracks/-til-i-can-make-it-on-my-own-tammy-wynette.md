@@ -1,8 +1,11 @@
 ---
+album: 'Tears Of Fire: The 25th Anniversary Collection'
 artists:
 - Tammy Wynette
+external_ids:
+  spotify: spotify:track:3VGlhhVUTHk0OVyOmAYOoU
 features: []
-genres: []
+first_released_as_single: false
 key: -til-i-can-make-it-on-my-own-tammy-wynette
 lyrics_url: https://www.azlyrics.com/lyrics/tammywynette/tilicanmakeitonmyown.html
 name: '''til I Can Make It On My Own'
@@ -27,8 +30,9 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1976-05-29'
+release_year: 1964
+runtime: 181933
 ---
-
 I'll need time to get You off my mind
 And I may sometimes bother You
 Try to be in touch with You
@@ -61,6 +65,3 @@ Lord, You know I'm gonna need a friend
 Let me keep on using You
 'Til I can make it on my own
 'Til I can make it on my own
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Bobby
 artists:
 - Bobby Brown
+external_ids:
+  spotify: spotify:track:6pXpdaHUFZMJ4F9ebefXvh
 features: []
-genres: []
+first_released_as_single: false
 key: that-s-the-way-love-is-bobby-brown
 lyrics_url: https://genius.com/Bobby-brown-thats-the-way-love-is-lyrics
 name: That's The Way Love Is
@@ -43,6 +46,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1993-06-19'
+release_year: 1992
+runtime: 291466
 ---
 You are so special to me
 It's got me going crazy

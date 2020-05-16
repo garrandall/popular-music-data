@@ -1,8 +1,11 @@
 ---
+album: I Do Love You
 artists:
 - Billy Stewart
+external_ids:
+  spotify: spotify:track:3J0VYipa6lrdBkjLM7j4iI
 features: []
-genres: []
+first_released_as_single: false
 key: i-do-love-you-billy-stewart
 lyrics_url: https://genius.com/Billy-stewart-i-do-love-you-lyrics
 name: I Do Love You
@@ -59,6 +62,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1969-03-08'
+release_year: 1965
+runtime: 177946
 ---
 I do love you, but it's
 All alright

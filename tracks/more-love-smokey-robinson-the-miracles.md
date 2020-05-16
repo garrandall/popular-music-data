@@ -1,9 +1,12 @@
 ---
+album: Make It Happen
 artists:
 - Smokey Robinson
 - The Miracles
+external_ids:
+  spotify: spotify:track:7EYzRM7HZv5fRebDqZNB12
 features: []
-genres: []
+first_released_as_single: false
 key: more-love-smokey-robinson-the-miracles
 lyrics_url: https://genius.com/Smokey-robinson-and-the-miracles-more-love-lyrics
 name: More Love
@@ -52,6 +55,8 @@ rankings:
   rank: 35
   ranking_list: Billboard Hot 100
   start_date: '1967-08-26'
+release_year: 1967
+runtime: 166773
 ---
 Oh oh whooh whooh
 

@@ -1,9 +1,12 @@
 ---
+album: Goodbye To You! Best Of The '80s Live
 artists:
 - Scandal
+external_ids:
+  spotify: spotify:track:0Hh3zcnHLx7m7lgG0aNCBx
 features:
 - Patty Smyth
-genres: []
+first_released_as_single: false
 key: the-warrior-scandal-patty-smyth
 lyrics_url: https://www.musixmatch.com/lyrics/Scandal/The-Warrior
 name: The Warrior
@@ -92,6 +95,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1984-11-17'
+release_year: 1983
+runtime: 253253
 ---
 Ohh, oh, oh, oh, oh
 Oh, oh oh, oh

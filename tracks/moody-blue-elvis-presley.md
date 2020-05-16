@@ -1,8 +1,11 @@
 ---
+album: Moody Blue
 artists:
 - Elvis Presley
+external_ids:
+  spotify: spotify:track:5nP6bZZpeT9hbtvePmy9ko
 features: []
-genres: []
+first_released_as_single: false
 key: moody-blue-elvis-presley
 lyrics_url: https://www.azlyrics.com/lyrics/elvispresley/moodyblue.html
 name: Moody Blue
@@ -59,8 +62,9 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '1977-03-19'
+release_year: 1976
+runtime: 169320
 ---
-
 Well, it's hard to be a gambler
 Bettin' on the number
 That changes every time
@@ -105,6 +109,3 @@ Tell me who I'm talkin' to
 You're like the night and day
 And it's hard to say
 Which one is you.
-
-
-

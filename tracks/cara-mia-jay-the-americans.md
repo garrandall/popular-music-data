@@ -1,9 +1,12 @@
 ---
+album: Blockbusters
 artists:
 - Jay
 - The Americans
+external_ids:
+  spotify: spotify:track:0Arrnl9EB7LtzPISpNBQQf
 features: []
-genres: []
+first_released_as_single: false
 key: cara-mia-jay-the-americans
 lyrics_url: https://www.azlyrics.com/lyrics/jaytheamericans/caramia.html
 name: Cara Mia
@@ -60,8 +63,9 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '1965-08-28'
+release_year: 1964
+runtime: 153160
 ---
-
 Cara Mia why must we say goodbye?
 Each time we part my heart wants to die
 Darling hear my prayer
@@ -98,6 +102,3 @@ Cara Mia mine
 Cara Mia mine
 Cara Mia mine
 Cara Mia mine
-
-
-

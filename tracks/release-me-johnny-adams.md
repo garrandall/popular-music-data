@@ -1,8 +1,11 @@
 ---
+album: Heart and Soul
 artists:
 - Johnny Adams
+external_ids:
+  spotify: spotify:track:0kfkMmJ5bAsN5ggffJ1PWz
 features: []
-genres: []
+first_released_as_single: false
 key: release-me-johnny-adams
 lyrics_url: https://genius.com/Johnny-adams-release-me-lyrics
 name: Release Me
@@ -19,6 +22,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1968-12-28'
+release_year: 1968
+runtime: 170675
 ---
 Please release me, oh, let me go, oh, yes
 You see I, I don't love you anymore, no, no

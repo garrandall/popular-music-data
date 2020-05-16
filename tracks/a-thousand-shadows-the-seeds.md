@@ -1,8 +1,11 @@
 ---
+album: Travel With Your Mind
 artists:
 - The Seeds
+external_ids:
+  spotify: spotify:track:49wmhN7AAF7acdnDYlN8dj
 features: []
-genres: []
+first_released_as_single: false
 key: a-thousand-shadows-the-seeds
 lyrics_url: https://genius.com/The-seeds-a-thousand-shadows-lyrics
 name: A Thousand Shadows
@@ -23,6 +26,8 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1967-08-05'
+release_year: 1967
+runtime: 152226
 ---
 (Sky Saxon/Daryl Hooper/Jan Savage)
 Lost in your dreams...

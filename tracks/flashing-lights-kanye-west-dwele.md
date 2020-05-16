@@ -1,9 +1,12 @@
 ---
+album: Graduation
 artists:
 - Kanye West
+external_ids:
+  spotify: spotify:track:31I3Rt1bPa2LrE74DdNizO
 features:
 - Dwele
-genres: []
+first_released_as_single: false
 key: flashing-lights-kanye-west-dwele
 lyrics_url: https://www.azlyrics.com/lyrics/kanyewest/flashinglights.html
 name: Flashing Lights
@@ -88,8 +91,9 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '2008-04-19'
+release_year: 2007
+runtime: 237506
 ---
-
 Flashing lights, lights
 Flashing lights, lights
 Flashing lights, lights
@@ -153,6 +157,3 @@ Flashing lights, lights
 
 
 Lights, lights, lights, lights...
-
-
-

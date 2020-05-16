@@ -1,8 +1,12 @@
 ---
+album: Bella Donna
 artists:
-- Stevie Nicks With Tom Petty And The Heartbreakers
-features: []
-genres: []
+- Stevie Nicks
+external_ids:
+  spotify: spotify:track:66LhCsc06aTa2Ig7iYPDSP
+features:
+- Tom Petty And The Heartbreakers
+first_released_as_single: false
 key: stop-draggin--my-heart-around-stevie-nicks-with-tom-petty-and-the-heartbreakers
 name: Stop Draggin' My Heart Around
 rankings:
@@ -90,5 +94,7 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1981-12-12'
+release_year: 1981
+runtime: 244440
 ---
 

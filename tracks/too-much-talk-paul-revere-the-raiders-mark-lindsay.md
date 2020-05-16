@@ -1,10 +1,13 @@
 ---
+album: Something Happening
 artists:
 - Paul Revere
 - The Raiders
+external_ids:
+  spotify: spotify:track:5m9TJTcMOzwJEkxEEmSBmN
 features:
 - Mark Lindsay
-genres: []
+first_released_as_single: false
 key: too-much-talk-paul-revere-the-raiders-mark-lindsay
 name: Too Much Talk
 rankings:
@@ -40,5 +43,7 @@ rankings:
   rank: 33
   ranking_list: Billboard Hot 100
   start_date: '1968-03-30'
+release_year: 1968
+runtime: 132840
 ---
 

@@ -1,8 +1,11 @@
 ---
+album: The Best Of The Fireballs' Vocals
 artists:
 - The Fireballs
+external_ids:
+  spotify: spotify:track:28Oiu6wBCDVVUJBj20uDZt
 features: []
-genres: []
+first_released_as_single: false
 key: come-on-react--the-fireballs
 name: Come On React!
 rankings:
@@ -38,5 +41,7 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '1968-12-21'
+release_year: 1968
+runtime: 138040
 ---
 

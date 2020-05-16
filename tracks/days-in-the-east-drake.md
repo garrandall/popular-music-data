@@ -1,8 +1,11 @@
 ---
+album: Care Package
 artists:
 - Drake
+external_ids:
+  spotify: spotify:track:4czcw3NVLY0of5hTD7OufN
 features: []
-genres: []
+first_released_as_single: false
 key: days-in-the-east-drake
 lyrics_url: https://genius.com/Drake-days-in-the-east-lyrics
 name: Days In The East
@@ -11,6 +14,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2019-08-17'
+release_year: 2019
+runtime: 353697
 ---
 Yeah, why you keep askin' me about... (Why?)
 She's not here right now, she's not here right now

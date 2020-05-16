@@ -1,8 +1,11 @@
 ---
+album: So into You
 artists:
 - Atlanta Rhythm Section
+external_ids:
+  spotify: spotify:track:7FqmXWXpE7sPybm61HtiEr
 features: []
-genres: []
+first_released_as_single: false
 key: free-spirit-atlanta-rhythm-section
 lyrics_url: https://www.azlyrics.com/lyrics/atlantarhythmsection/freespirit.html
 name: Free Spirit
@@ -19,8 +22,9 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1976-09-04'
+release_year: 1972
+runtime: 248853
 ---
-
 In the dawning of the social revolution
 In an age when "do you your thing" was never done
 I met a woman like I'd never known
@@ -59,6 +63,3 @@ She was a free spirit
 A gypsy with an angel's wings
 She was a free spirit
 The answer to all my dreams
-
-
-

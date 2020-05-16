@@ -1,8 +1,11 @@
 ---
+album: So Intense
 artists:
 - Lisa Fischer
+external_ids:
+  spotify: spotify:track:5bhHxCq03CHjc5KT6qwj4K
 features: []
-genres: []
+first_released_as_single: false
 key: save-me-lisa-fischer
 lyrics_url: https://genius.com/Lisa-fischer-save-me-lyrics
 name: Save Me
@@ -31,6 +34,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1991-10-12'
+release_year: 1991
+runtime: 284960
 ---
 Help me
 Save me

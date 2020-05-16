@@ -1,9 +1,12 @@
 ---
+album: Red Pill Blues
 artists:
 - Maroon 5
+external_ids:
+  spotify: spotify:track:5LInnQ09xldtU2CGhT8FYn
 features:
 - Kendrick Lamar
-genres: []
+first_released_as_single: true
 key: don-t-wanna-know-maroon-5-kendrick-lamar
 lyrics_url: https://genius.com/Maroon-5-dont-wanna-know-lyrics
 name: Don't Wanna Know
@@ -116,6 +119,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '2017-04-29'
+release_year: 2016
+runtime: 229626
 ---
 Oh, hey
 Oh, oh hey

@@ -1,8 +1,11 @@
 ---
+album: The Great Pretender
 artists:
 - Dolly Parton
+external_ids:
+  spotify: spotify:track:7se8roGyU7pinYwrhOVklr
 features: []
-genres: []
+first_released_as_single: false
 key: save-the-last-dance-for-me-dolly-parton
 lyrics_url: https://www.azlyrics.com/lyrics/dollyparton/savethelastdanceforme.html
 name: Save The Last Dance For Me
@@ -55,8 +58,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1984-02-25'
+release_year: 1983
+runtime: 232721
 ---
-
 You can dance
 Every dance with the girl who gives you the eye
 Let her hold you tight
@@ -87,6 +91,3 @@ Oh, darlin', save the last dance for me
 And don't forget who's takin' you home
 And in who's arms you're gonna be
 Oh, darlin', save the last dance for me
-
-
-

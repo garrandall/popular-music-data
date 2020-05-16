@@ -1,8 +1,11 @@
 ---
+album: Hypnotize
 artists:
 - System Of A Down
+external_ids:
+  spotify: spotify:track:56VWAUhLoJNmqJJKSQwFy6
 features: []
-genres: []
+first_released_as_single: true
 key: hypnotize-system-of-a-down
 lyrics_url: https://www.azlyrics.com/lyrics/systemofadown/hypnotize.html
 name: Hypnotize
@@ -67,8 +70,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2006-02-18'
+release_year: 2005
+runtime: 192400
 ---
-
 Why don't you ask the kids at Tienanmen square?
 Was fashion the reason why they were there?
 
@@ -88,6 +92,3 @@ I'm just sitting in my car and waiting for my girl
 
 I'm just sitting in my car and waiting for my girl
 I'm just sitting in my car and waiting for my girl
-
-
-

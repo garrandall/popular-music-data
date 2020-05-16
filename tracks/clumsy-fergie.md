@@ -1,8 +1,11 @@
 ---
+album: The Dutchess
 artists:
 - Fergie
+external_ids:
+  spotify: spotify:track:50xeLNGKmskmYUSINhqvfa
 features: []
-genres: []
+first_released_as_single: false
 key: clumsy-fergie
 lyrics_url: https://genius.com/Fergie-clumsy-lyrics
 name: Clumsy
@@ -107,6 +110,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '2008-04-12'
+release_year: 2006
+runtime: 240426
 ---
 She can't help it, the girl can't help it (Oh, baby!)
 She can't help it, the girl can't help it (Oh, baby!)

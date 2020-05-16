@@ -1,8 +1,11 @@
 ---
+album: The Wild Life
 artists:
 - Slaughter
+external_ids:
+  spotify: spotify:track:1czuLYsuy6VtIjAE0iY2b2
 features: []
-genres: []
+first_released_as_single: false
 key: real-love-slaughter
 lyrics_url: https://genius.com/Slaughter-real-love-lyrics
 name: Real Love
@@ -39,6 +42,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1992-10-10'
+release_year: 1992
+runtime: 219800
 ---
 I lie awake in the morning light
 No one to hold

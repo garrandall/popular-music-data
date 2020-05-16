@@ -1,8 +1,11 @@
 ---
+album: Pablo Honey
 artists:
 - Radiohead
+external_ids:
+  spotify: spotify:track:5ah63mDLedBAPJrPCxhtt5
 features: []
-genres: []
+first_released_as_single: true
 key: creep-radiohead
 lyrics_url: https://genius.com/Radiohead-creep-lyrics
 name: Creep
@@ -87,6 +90,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1993-11-06'
+release_year: 1992
+runtime: 235666
 ---
 When you were here before
 Couldn't look you in the eye

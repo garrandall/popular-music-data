@@ -1,8 +1,11 @@
 ---
+album: Summer Holiday
 artists:
 - Ian Gomm
+external_ids:
+  spotify: spotify:track:5IjKLh01upJs2TcQnP7oCV
 features: []
-genres: []
+first_released_as_single: false
 key: hold-on-ian-gomm
 lyrics_url: https://genius.com/Ian-gomm-hold-on-lyrics
 name: Hold On
@@ -55,6 +58,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1979-11-17'
+release_year: 1978
+runtime: 184053
 ---
 I've been drifting on the sea of heartbreak
 Tryin' to get myself ashore

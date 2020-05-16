@@ -1,8 +1,11 @@
 ---
+album: Fearless
 artists:
 - Eighth Wonder
+external_ids:
+  spotify: spotify:track:0na1nWfaHuIk9CR9Xij18E
 features: []
-genres: []
+first_released_as_single: false
 key: baby-baby-eighth-wonder
 lyrics_url: https://genius.com/Eighth-wonder-baby-baby-lyrics
 name: Baby Baby
@@ -27,6 +30,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1989-04-29'
+release_year: 1988
+runtime: 242960
 ---
 Just because you want my loving
 It's not enough to just turn me on

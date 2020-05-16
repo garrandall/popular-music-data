@@ -1,8 +1,11 @@
 ---
+album: Get Yer Ya-Ya's Out!
 artists:
 - The Rolling Stones
+external_ids:
+  spotify: spotify:track:3ORnpJxVxKaKGvNDmxiegs
 features: []
-genres: []
+first_released_as_single: false
 key: honky-tonk-women-the-rolling-stones
 lyrics_url: https://genius.com/The-rolling-stones-honky-tonk-women-lyrics
 name: Honky Tonk Women
@@ -67,6 +70,8 @@ rankings:
   rank: 27
   ranking_list: Billboard Hot 100
   start_date: '1969-10-25'
+release_year: 1966
+runtime: 183186
 ---
 I met a gin-soaked barroom queen in Memphis
 She tried to take me upstairs for a ride

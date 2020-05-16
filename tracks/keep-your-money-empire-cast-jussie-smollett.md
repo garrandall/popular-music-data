@@ -1,9 +1,12 @@
 ---
+album: Original Soundtrack from Season 1 of Empire
 artists:
 - Empire Cast
+external_ids:
+  spotify: spotify:track:5GTTck4sucr4ymUJPFxHGo
 features:
 - Jussie Smollett
-genres: []
+first_released_as_single: false
 key: keep-your-money-empire-cast-jussie-smollett
 lyrics_url: https://www.azlyrics.com/lyrics/empirecast/keepyourmoney.html
 name: Keep Your Money
@@ -12,8 +15,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2015-02-28'
+release_year: 2015
+runtime: 149293
 ---
-
 (You got that?
 Get your hand-
 Give me my money!
@@ -64,6 +68,3 @@ Can't let it go to waste
 (M-m-money) Makes the world go 'round
 I'm hungry and you got me goin' (give me my money!)
 I'm hungry and you got me goin' (give me my money!)
-
-
-

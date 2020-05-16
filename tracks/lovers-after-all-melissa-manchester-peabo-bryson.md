@@ -1,9 +1,12 @@
 ---
+album: For The Working Girl
 artists:
 - Melissa Manchester
 - Peabo Bryson
+external_ids:
+  spotify: spotify:track:60hegVZmDYdCBQEZV6jVz1
 features: []
-genres: []
+first_released_as_single: false
 key: lovers-after-all-melissa-manchester-peabo-bryson
 lyrics_url: https://genius.com/Melissa-manchester-lovers-after-all-lyrics
 name: Lovers After All
@@ -44,6 +47,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1981-04-25'
+release_year: 1980
+runtime: 239053
 ---
 When I look deep into your eyes
 That's when I know I'm living

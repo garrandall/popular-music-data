@@ -1,8 +1,11 @@
 ---
+album: Karaoke, Todo Pa' Tu Fiesta!
 artists:
 - Pilar Montenegro
+external_ids:
+  spotify: spotify:track:0VVABARkVOVP6HgfYbDnGU
 features: []
-genres: []
+first_released_as_single: false
 key: quitame-ese-hombre-pilar-montenegro
 lyrics_url: https://genius.com/Pilar-montenegro-quitame-ese-hombre-lyrics
 name: Quitame Ese Hombre
@@ -59,6 +62,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2002-08-17'
+release_year: 2002
+runtime: 250453
 ---
 Quítame el recuerdo que me dejó
 Quítame el vestido destrózalo

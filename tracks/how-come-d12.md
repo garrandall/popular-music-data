@@ -1,8 +1,11 @@
 ---
+album: D-12 World
 artists:
 - D12
+external_ids:
+  spotify: spotify:track:785t3poQsvdkSeH5xGA9R4
 features: []
-genres: []
+first_released_as_single: false
 key: how-come-d12
 lyrics_url: https://genius.com/D12-how-come-lyrics
 name: How Come
@@ -55,6 +58,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '2004-09-18'
+release_year: 2004
+runtime: 249533
 ---
 So I changed, huh? You got a phone
 Pick it up, call me

@@ -1,8 +1,11 @@
 ---
+album: 'Ideology: Version 11.0'
 artists:
 - The Ides Of March
+external_ids:
+  spotify: spotify:track:2VFlsgiY8uI7mN3nzXBBtl
 features: []
-genres: []
+first_released_as_single: false
 key: you-wouldn-t-listen-the-ides-of-march
 lyrics_url: https://www.musixmatch.com/lyrics/The-Ides-of-March/You-Wouldn-t-Listen
 name: You Wouldn't Listen
@@ -35,6 +38,8 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '1966-08-06'
+release_year: 1966
+runtime: 156106
 ---
 I told you he was no fool
 (You wouldn't listen to me)

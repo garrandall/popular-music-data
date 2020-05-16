@@ -1,8 +1,11 @@
 ---
+album: A Man Needs a Woman
 artists:
 - James Carr
+external_ids:
+  spotify: spotify:track:0N7hvoFBPwe1zBggpakSnf
 features: []
-genres: []
+first_released_as_single: false
 key: a-man-needs-a-woman-james-carr
 lyrics_url: https://genius.com/James-carr-a-man-needs-a-woman-lyrics
 name: A Man Needs A Woman
@@ -47,6 +50,8 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '1968-03-09'
+release_year: 1968
+runtime: 169333
 ---
 When I was the age of three
 My dear mother had a

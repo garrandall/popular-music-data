@@ -1,9 +1,12 @@
 ---
+album: 'Hell: The Sequel'
 artists:
 - Bad Meets Evil
+external_ids:
+  spotify: spotify:track:5zpDHEU12zATwLGvozxPw2
 features:
 - Bruno Mars
-genres: []
+first_released_as_single: false
 key: lighters-bad-meets-evil-bruno-mars
 lyrics_url: https://genius.com/Bad-meets-evil-lighters-lyrics
 name: Lighters
@@ -96,6 +99,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '2011-11-26'
+release_year: 2011
+runtime: 303813
 ---
 This one's for you and me
 Livin' out our dreams

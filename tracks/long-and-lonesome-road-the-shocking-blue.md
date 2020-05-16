@@ -1,8 +1,11 @@
 ---
+album: The Very Best Of Shocking Blue (Part One - The A Sides)
 artists:
 - The Shocking Blue
+external_ids:
+  spotify: spotify:track:4nFh1DspNppdGjUaSOq4zj
 features: []
-genres: []
+first_released_as_single: false
 key: long-and-lonesome-road-the-shocking-blue
 lyrics_url: https://www.azlyrics.com/lyrics/shockingblue/longandlonesomeroad.html
 name: Long And Lonesome Road
@@ -27,8 +30,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1970-07-04'
+release_year: 1970
+runtime: 169520
 ---
-
 On a Sunday night while driving my car
 In the sky a fallin' star
 Tellin' myself I don't go too far
@@ -50,6 +54,3 @@ Well I wonder, well I wonder where I am
 That will find our world of you and me babe
 There's a long and lonesome road
 That will find our world like it used to be babe
-
-
-

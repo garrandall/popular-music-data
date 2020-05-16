@@ -1,8 +1,11 @@
 ---
+album: '1'
 artists:
 - The Beatles
+external_ids:
+  spotify: spotify:track:0iwo02NoGqyooxs81iEkz3
 features: []
-genres: []
+first_released_as_single: false
 key: the-ballad-of-john-and-yoko-the-beatles
 lyrics_url: https://www.azlyrics.com/lyrics/beatles/theballadofjohnandyoko.html
 name: The Ballad Of John And Yoko
@@ -43,8 +46,9 @@ rankings:
   rank: 29
   ranking_list: Billboard Hot 100
   start_date: '1969-08-09'
+release_year: 1969
+runtime: 181066
 ---
-
 Standing in the dock at Southampton
 Trying to get to Holland or France
 The man in the mac said, "You've got to go back"
@@ -104,6 +108,3 @@ The way things are going
 They're going to crucify me
 The way things are going
 They're going to crucify me
-
-
-

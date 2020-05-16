@@ -1,8 +1,11 @@
 ---
+album: Wonderful World, Beautiful People
 artists:
 - Jimmy Cliff
+external_ids:
+  spotify: spotify:track:7vCEPLGrLHqBHyRPPsweYY
 features: []
-genres: []
+first_released_as_single: false
 key: wonderful-world-beautiful-people-jimmy-cliff
 lyrics_url: https://www.azlyrics.com/lyrics/jimmycliff/wonderfulworldbeautifulpeople.html
 name: Wonderful World Beautiful People
@@ -51,8 +54,9 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '1970-02-14'
+release_year: 1969
+runtime: 195558
 ---
-
 Wonderful world, beautiful people
 You and your girl, things could be pretty
 But underneath this there is a secret
@@ -98,6 +102,3 @@ Wonderful world, talking about Nixon
 Beautiful people, Harold Wilson
 Wonderful world, power too
 Beautiful people, and the Seagate
-
-
-

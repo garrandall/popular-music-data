@@ -1,8 +1,11 @@
 ---
+album: The Youngbloods
 artists:
 - The Youngbloods
+external_ids:
+  spotify: spotify:track:7CQXyFX44CXmnuq8Bi9Dyc
 features: []
-genres: []
+first_released_as_single: false
 key: get-together-the-youngbloods
 lyrics_url: https://www.azlyrics.com/lyrics/youngbloods/gettogether.html
 name: Get Together
@@ -107,8 +110,9 @@ rankings:
   rank: 28
   ranking_list: Billboard Hot 100
   start_date: '1969-10-18'
+release_year: 1967
+runtime: 279280
 ---
-
 Love is but a song we sing
 Fear's the way we die
 You can make the mountains ring
@@ -166,6 +170,3 @@ Everybody get together
 Try to love one another right now
 Right now
 Right now
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Man Of Colours
 artists:
 - Icehouse
+external_ids:
+  spotify: spotify:track:6kxHMpVt9OYDQOwXYJrQAb
 features: []
-genres: []
+first_released_as_single: false
 key: touch-the-fire-icehouse
 lyrics_url: https://www.azlyrics.com/lyrics/icehouse/touchthefire.html
 name: Touch The Fire
@@ -23,8 +26,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1989-10-28'
+release_year: 1987
+runtime: 226480
 ---
-
 She moves like a mystic
 Like a priestess, tall and pale
 She lays down the mystery
@@ -68,6 +72,3 @@ I feel the heat pumping in my veins
 Next to you I can touch the fire
 I see myself going up in flames
 Next to you I can touch the fire
-
-
-

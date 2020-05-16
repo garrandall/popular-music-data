@@ -1,8 +1,11 @@
 ---
+album: A Head Full of Dreams
 artists:
 - Coldplay
+external_ids:
+  spotify: spotify:track:3RiPr603aXAoi4GHyXx0uy
 features: []
-genres: []
+first_released_as_single: false
 key: hymn-for-the-weekend-coldplay
 lyrics_url: https://www.azlyrics.com/lyrics/coldplay/hymnfortheweekend.html
 name: Hymn For The Weekend
@@ -99,9 +102,9 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '2016-11-19'
+release_year: 2015
+runtime: 258826
 ---
-
-
 Drink from me, drink from me
 That I shoot across the sky
 Symphony
@@ -179,6 +182,3 @@ That I shoot across the sky
 That I shoot across the...
 That I shoot across the sky
 That I shoot across the...
-
-
-

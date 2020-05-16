@@ -1,8 +1,11 @@
 ---
+album: It Must Have Been Something I Said!
 artists:
 - The Smothers Brothers
+external_ids:
+  spotify: spotify:track:1P8r9ZCiVpG1WtBdge701d
 features: []
-genres: []
+first_released_as_single: false
 key: jenny-brown-the-smothers-brothers
 lyrics_url: https://www.musixmatch.com/lyrics/The-Smothers-Brothers/Jenny-Brown
 name: Jenny Brown
@@ -23,6 +26,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1963-10-26'
+release_year: 1963
+runtime: 319226
 ---
 Spoken:
 Tommy:

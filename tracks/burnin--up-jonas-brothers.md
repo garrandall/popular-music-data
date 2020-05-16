@@ -1,8 +1,11 @@
 ---
+album: A Little Bit Longer
 artists:
 - Jonas Brothers
+external_ids:
+  spotify: spotify:track:2VEsmoek0sol9MnJFyoG9e
 features: []
-genres: []
+first_released_as_single: false
 key: burnin--up-jonas-brothers
 lyrics_url: https://genius.com/Jonas-brothers-burnin-up-lyrics
 name: Burnin' Up
@@ -71,6 +74,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2008-10-25'
+release_year: 2008
+runtime: 175093
 ---
 I'm hot, you're cold
 You go around like you know

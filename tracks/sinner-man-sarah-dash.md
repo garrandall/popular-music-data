@@ -1,8 +1,11 @@
 ---
+album: Sarah Dash
 artists:
 - Sarah Dash
+external_ids:
+  spotify: spotify:track:1pKbGF6bG1w59THXOqJNho
 features: []
-genres: []
+first_released_as_single: false
 key: sinner-man-sarah-dash
 lyrics_url: https://www.musixmatch.com/lyrics/Sarah-Dash/Sinner-Man
 name: Sinner Man
@@ -23,6 +26,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1979-03-10'
+release_year: 1978
+runtime: 392746
 ---
 Don't be touching me
 Don't be holding me

@@ -1,9 +1,12 @@
 ---
+album: This Is What You Came For
 artists:
 - Calvin Harris
+external_ids:
+  spotify: spotify:track:0azC730Exh71aQlOt9Zj3y
 features:
 - Rihanna
-genres: []
+first_released_as_single: true
 key: this-is-what-you-came-for-calvin-harris-rihanna
 lyrics_url: https://genius.com/Calvin-harris-this-is-what-you-came-for-lyrics
 name: This Is What You Came For
@@ -136,6 +139,8 @@ rankings:
   rank: 36
   ranking_list: Billboard Hot 100
   start_date: '2016-12-24'
+release_year: 2016
+runtime: 222160
 ---
 Baby, this is what you came for
 Lightning strikes every time she moves

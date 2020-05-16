@@ -1,8 +1,11 @@
 ---
+album: Don't Fight It
 artists:
 - Red Rider
+external_ids:
+  spotify: spotify:track:1zDTc9xaDz3HCLEos91YKT
 features: []
-genres: []
+first_released_as_single: false
 key: white-hot-red-rider
 lyrics_url: https://www.azlyrics.com/lyrics/redrider/whitehot.html
 name: White Hot
@@ -35,8 +38,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1980-05-17'
+release_year: 1980
+runtime: 308640
 ---
-
 Waiting by the shoreline
 In Somalia for your reply
 I need you to come see me
@@ -86,6 +90,3 @@ I need rain, I need rain, I need rain
 White hot
 White hot...
 Water
-
-
-

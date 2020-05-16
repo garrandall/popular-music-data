@@ -1,8 +1,11 @@
 ---
+album: Girl Talk
 artists:
 - Lesley Gore
+external_ids:
+  spotify: spotify:track:3Syh6q1I97iVDXoAa1e6J7
 features: []
-genres: []
+first_released_as_single: false
 key: look-of-love-lesley-gore
 lyrics_url: https://www.azlyrics.com/lyrics/lesleygore/lookoflove.html
 name: Look Of Love
@@ -43,8 +46,9 @@ rankings:
   rank: 37
   ranking_list: Billboard Hot 100
   start_date: '1965-02-20'
+release_year: 1964
+runtime: 119000
 ---
-
 Look at the way he looks at her
 Look at the way he smiles
 I remember when he was mine
@@ -75,6 +79,3 @@ Isn't that the look of love? Hey, hey, hey
 Isn't that the look of love? Oh, oh, now
 Isn't that the look of love? Hey, yay
 Isn't that the look of love? Oh, oh, oh...
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Can't Get Enough
 artists:
 - Barry White
+external_ids:
+  spotify: spotify:track:3mWpUEBYnv9SIFWfixSJFx
 features: []
-genres: []
+first_released_as_single: false
 key: can-t-get-enough-of-your-love-babe-barry-white
 lyrics_url: https://genius.com/Barry-white-cant-get-enough-of-your-love-babe-lyrics
 name: Can't Get Enough Of Your Love Babe
@@ -55,6 +58,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1974-10-19'
+release_year: 1974
+runtime: 274000
 ---
 I've heard people say that
 Too much of anything is not good for you, baby
@@ -137,7 +142,7 @@ All of my life to find you
 But you can believe it's gonna take the rest of my life
 To keep you
 Ohh, oh babe
-Ehhhhhhhhhh
+Eh
 
 
 My darling, I
@@ -151,6 +156,6 @@ Can't get enough of your love, babe
 Oh, babe
 Girl, I don't know, I don't know why
 I can't get enough of your love, babe
-Whuuuuuuuuuuuu
+Woo
 Darling, I
 Can't get enough of your love, babe

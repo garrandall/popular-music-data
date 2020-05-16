@@ -1,8 +1,11 @@
 ---
+album: Wizards of Waverly Place
 artists:
 - Selena Gomez
+external_ids:
+  spotify: spotify:track:10xcIQQEJSEIOgG1HvS3t9
 features: []
-genres: []
+first_released_as_single: false
 key: magic-selena-gomez
 lyrics_url: https://www.azlyrics.com/lyrics/selenagomez/magic.html
 name: Magic
@@ -23,8 +26,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2009-09-12'
+release_year: 2009
+runtime: 169640
 ---
-
 It's magic, you know
 Never believe it's not so
 It's magic, you know
@@ -59,6 +63,3 @@ Never believe it's not so
 It's magic, you know
 Never believe, it's not so
 Never believe
-
-
-

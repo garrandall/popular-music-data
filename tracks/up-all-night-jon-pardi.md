@@ -1,8 +1,11 @@
 ---
+album: Write You A Song
 artists:
 - Jon Pardi
+external_ids:
+  spotify: spotify:track:6qewYf1Su9xeaAp9iEQpUw
 features: []
-genres: []
+first_released_as_single: false
 key: up-all-night-jon-pardi
 lyrics_url: https://www.azlyrics.com/lyrics/jonpardi/upallnight.html
 name: Up All Night
@@ -59,8 +62,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2014-02-22'
+release_year: 2013
+runtime: 209640
 ---
-
 Yeah girl, I just had me,
 One hell of a work week.
 It's been driving me crazy,
@@ -114,6 +118,3 @@ Gettin' down to some up all night
 
 Yeah, me and you
 Up all night, yeah
-
-
-

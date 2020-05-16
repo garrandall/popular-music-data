@@ -1,9 +1,12 @@
 ---
+album: Hip Hug-Her
 artists:
 - Booker T.
 - The MG's
+external_ids:
+  spotify: spotify:track:0f0FyVFaFfV73NJB2vmb2b
 features: []
-genres: []
+first_released_as_single: false
 key: groovin--booker-t--the-mg-s
 lyrics_url: https://genius.com/Booker-t-and-the-mgs-groovin-lyrics
 name: Groovin'
@@ -56,6 +59,8 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '1967-10-21'
+release_year: 1967
+runtime: 164053
 ---
 Groovin', on a Sunday afternoon
 Really couldn't get away too soon

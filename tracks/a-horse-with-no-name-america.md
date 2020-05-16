@@ -1,8 +1,11 @@
 ---
+album: America
 artists:
 - America
+external_ids:
+  spotify: spotify:track:54eZmuggBFJbV7k248bTTt
 features: []
-genres: []
+first_released_as_single: false
 key: a-horse-with-no-name-america
 lyrics_url: https://www.azlyrics.com/lyrics/america/ahorsewithnoname.html
 name: A Horse With No Name
@@ -63,8 +66,9 @@ rankings:
   rank: 20
   ranking_list: Billboard Hot 100
   start_date: '1972-05-20'
+release_year: 1972
+runtime: 252239
 ---
-
 On the first part of the journey
 I was looking at all the life
 There were plants and birds and rocks and things
@@ -108,6 +112,3 @@ It felt good to be out of the rain
 In the desert you can remember your name
 'Cause there ain't no one for to give you no pain
 La, la, la la la la, la la la, la la...
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Strip Me
 artists:
 - Natasha Bedingfield
+external_ids:
+  spotify: spotify:track:5dQeHoUqa63RdCxOiQdrgo
 features: []
-genres: []
+first_released_as_single: true
 key: strip-me-natasha-bedingfield
 lyrics_url: https://www.azlyrics.com/lyrics/natashabedingfield/stripme.html
 name: Strip Me
@@ -23,8 +26,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2010-12-25'
+release_year: 2010
+runtime: 210053
 ---
-
 La-la-la-la-la la
 Lala la la-la la lala
 
@@ -83,4 +87,3 @@ You ain't taking that from me (oh oh)
 You ain't taking that from me (oh oh)
 You ain't taking that from me (oh oh)
 You ain't taking that!
-

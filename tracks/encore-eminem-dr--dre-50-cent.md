@@ -1,10 +1,13 @@
 ---
+album: Encore (Deluxe Version)
 artists:
 - Eminem
 - Dr. Dre
 - 50 Cent
+external_ids:
+  spotify: spotify:track:5lWOdnLsibUnGLcxhz1mri
 features: []
-genres: []
+first_released_as_single: false
 key: encore-eminem-dr--dre-50-cent
 lyrics_url: https://www.azlyrics.com/lyrics/eminem/encorecurtainsdown.html
 name: Encore
@@ -69,9 +72,9 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '2005-02-26'
+release_year: 2004
+runtime: 312946
 ---
-
-
 Sh-sh-sh-shady
 Aftermath, haha
 G-G-G-G-G-Unit!, haha
@@ -193,6 +196,3 @@ Oh shit, I almost forgot
 You're comin' with me
 Haha, bye bye!
 See you in hell, fuckers.
-
-
-

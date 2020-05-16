@@ -1,8 +1,11 @@
 ---
+album: Time And Chance
 artists:
 - Color Me Badd
+external_ids:
+  spotify: spotify:track:20DRw0Qh9ges1gjlMI8eKM
 features: []
-genres: []
+first_released_as_single: false
 key: time-and-chance-color-me-badd
 lyrics_url: https://www.azlyrics.com/lyrics/colormebadd/timeandchance.html
 name: Time And Chance
@@ -83,9 +86,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1994-03-05'
+release_year: 1993
+runtime: 262896
 ---
-
-
 Don't it hurt so bad... (Time...
 And it hurt so bad... Chance...)
 Tryin' to find the faith before the fall
@@ -127,6 +130,3 @@ Time and Chance... Don't it hurt so bad
 So bad, so bad
 Don't hurt so bad
 And it hurt so bad...
-
-
-

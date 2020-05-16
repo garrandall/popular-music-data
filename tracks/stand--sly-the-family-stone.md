@@ -1,9 +1,12 @@
 ---
+album: 'Sly & The Family Stone: The Woodstock Experience'
 artists:
 - Sly
 - The Family Stone
+external_ids:
+  spotify: spotify:track:1WJYH0vB77TMgPmoOYbpeW
 features: []
-genres: []
+first_released_as_single: false
 key: stand--sly-the-family-stone
 lyrics_url: https://www.azlyrics.com/lyrics/slythefamilystone/stand.html
 name: Stand!
@@ -40,8 +43,9 @@ rankings:
   rank: 33
   ranking_list: Billboard Hot 100
   start_date: '1969-05-31'
+release_year: 1969
+runtime: 200186
 ---
-
 Stand 
 In the end you'll still be you 
 One that's done all the things you set out to do 
@@ -74,6 +78,3 @@ Well at least in your mind if you want to be
 
 Everybody 
 Stand, stand, stand
-
-
-

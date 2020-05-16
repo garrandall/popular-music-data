@@ -1,8 +1,11 @@
 ---
+album: Honey
 artists:
 - Ohio Players
+external_ids:
+  spotify: spotify:track:49laJW6ENyr70qdlLNh3tr
 features: []
-genres: []
+first_released_as_single: false
 key: sweet-sticky-thing-ohio-players
 lyrics_url: https://www.azlyrics.com/lyrics/ohioplayers/sweetstickything.html
 name: Sweet Sticky Thing
@@ -39,8 +42,9 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1975-11-08'
+release_year: 1975
+runtime: 372733
 ---
-
 You just go from man to man
 I just don't seem to understand
 Why you're so very hard to take
@@ -103,6 +107,3 @@ Da dat da daa ah
 Da da da daa
 Da da da daa
 Da da da daa ya
-
-
-

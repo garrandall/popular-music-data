@@ -1,8 +1,11 @@
 ---
+album: Tourism
 artists:
 - Roxette
+external_ids:
+  spotify: spotify:track:3BK8mbUFbBZ3mI5HE4eqCR
 features: []
-genres: []
+first_released_as_single: false
 key: how-do-you-do--roxette
 lyrics_url: https://www.azlyrics.com/lyrics/roxette/howdoyoudo.html
 name: How Do You Do!
@@ -39,8 +42,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1992-12-05'
+release_year: 1992
+runtime: 189093
 ---
-
 I see you comb your hair
 and gimme that grin.
 It's making me spin now,
@@ -79,6 +83,3 @@ When I get old I will wait outside your house
 cos your hands have got the power meant to heal.
 
 How do you do...
-
-
-

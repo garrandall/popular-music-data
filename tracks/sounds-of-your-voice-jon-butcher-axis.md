@@ -1,8 +1,11 @@
 ---
+album: Lost Hits Of The 80's
 artists:
 - Jon Butcher Axis
+external_ids:
+  spotify: spotify:track:2Q9xhqp2utmGh99BYdmYnN
 features: []
-genres: []
+first_released_as_single: false
 key: sounds-of-your-voice-jon-butcher-axis
 lyrics_url: https://genius.com/Jon-butcher-axis-sounds-of-your-voice-lyrics
 name: Sounds Of Your Voice
@@ -19,6 +22,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1985-12-14'
+release_year: 1985
+runtime: 217973
 ---
 La la la la la la la la
 Oh, la la la la la la

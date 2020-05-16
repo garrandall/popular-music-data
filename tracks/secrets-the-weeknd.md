@@ -1,8 +1,11 @@
 ---
+album: Starboy
 artists:
 - The Weeknd
+external_ids:
+  spotify: spotify:track:3DX4Y0egvc0slLcLl31h2p
 features: []
-genres: []
+first_released_as_single: false
 key: secrets-the-weeknd
 lyrics_url: https://www.azlyrics.com/lyrics/weeknd/secrets.html
 name: Secrets
@@ -15,8 +18,9 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '2016-12-24'
+release_year: 2016
+runtime: 265600
 ---
-
 Everybody here wants you
 My love, my love
 And I know that you want them too
@@ -74,6 +78,3 @@ I hear the secrets that you keep
 When you're talkin' in your sleep
 I hear the secrets that you keep, keep, keep
 When you're talk, talkin', talkin'
-
-
-

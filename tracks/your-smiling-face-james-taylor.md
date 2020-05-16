@@ -1,8 +1,11 @@
 ---
+album: JT
 artists:
 - James Taylor
+external_ids:
+  spotify: spotify:track:1Q34tAtTWI6RdW1qzFQiPb
 features: []
-genres: []
+first_released_as_single: false
 key: your-smiling-face-james-taylor
 lyrics_url: https://www.azlyrics.com/lyrics/jamestaylor/yoursmilingface.html
 name: Your Smiling Face
@@ -75,8 +78,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1978-01-21'
+release_year: 1977
+runtime: 165400
 ---
-
 Whenever I see your smiling face, I have to smile myself because I love you, yes, I do.
 And when you give me that pretty little pout, it turns me inside out.
 There's something about you, baby, I don't know.
@@ -96,6 +100,3 @@ No one can tell me that I'm doing wrong today, whenever I see you smile at me.
 No one can tell me that I'm doing wrong today whenever I see your smiling face my way.
 No one can tell me that I'm doing it wrong today.
 No one can tell me that I'm doing it wrong today.
-
-
-

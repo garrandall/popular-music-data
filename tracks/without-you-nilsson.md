@@ -1,8 +1,11 @@
 ---
+album: Nilsson Sings Newman
 artists:
 - Nilsson
+external_ids:
+  spotify: spotify:track:7DsVUVNJPFToKYpDO6JXp1
 features: []
-genres: []
+first_released_as_single: false
 key: without-you-nilsson
 lyrics_url: https://www.azlyrics.com/lyrics/harrynilsson/withoutyou.html
 name: Without You
@@ -83,8 +86,9 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '1972-04-22'
+release_year: 1970
+runtime: 157373
 ---
-
 No, I can't forget this evening
 Or your face as you were leaving
 But I guess that's just the way the story goes
@@ -113,6 +117,3 @@ I can't live, I can't give anymore
 I can't live if living is without you
 I can't live, I can't give anymore
 If living is without you
-
-
-

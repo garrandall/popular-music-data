@@ -1,10 +1,13 @@
 ---
+album: Mac and Devin Go To High School (Music From and Inspired By The Movie)
 artists:
 - Snoop Dogg
 - Wiz Khalifa
+external_ids:
+  spotify: spotify:track:5HQVUIKwCEXpe7JIHyY734
 features:
 - Bruno Mars
-genres: []
+first_released_as_single: true
 key: young-wild---free-snoop-dogg-wiz-khalifa-bruno-mars
 lyrics_url: https://genius.com/Cover-nation-young-wild-and-free-tribute-to-snoop-dogg-feat-wiz-khalifa-and-bruno-mars-performed-by-cover-nation-lyrics
 name: Young Wild & Free
@@ -137,6 +140,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '2012-06-02'
+release_year: 2011
+runtime: 207333
 ---
 So what we get drunk
 So what we don't smoke weed
@@ -247,7 +252,7 @@ Living young and wild and free
 
 So what
 We
-Funnn
+Fun
 And we don't care who seee (we don't care who sees)
 That's how it's supposed to be
 Living young and wild and free

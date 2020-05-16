@@ -1,8 +1,11 @@
 ---
+album: Aloha from Hawaii Via Satellite (Live)
 artists:
 - Elvis Presley
+external_ids:
+  spotify: spotify:track:03kHvoUV2HZdAUftW0HeFz
 features: []
-genres: []
+first_released_as_single: false
 key: steamroller-blues-elvis-presley
 lyrics_url: https://www.azlyrics.com/lyrics/elvispresley/steamrollerblues.html
 name: Steamroller Blues
@@ -55,8 +58,9 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '1973-06-30'
+release_year: 1973
+runtime: 184161
 ---
-
 I'm a steamroller baby
 I'm 'bout to roll all over you
 I'm a steamroller baby
@@ -84,6 +88,3 @@ I'm a napalm-bomb
 Guaranteed to blow your mind
 If I can't have your love now baby
 There won't be nothing left behind
-
-
-

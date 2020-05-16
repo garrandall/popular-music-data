@@ -1,8 +1,11 @@
 ---
+album: 'Going Back: A Collection Of Rhythm & Blues'
 artists:
 - The Sevilles
+external_ids:
+  spotify: spotify:track:7vcJkzUTxuGvrs14PM6qSY
 features: []
-genres: []
+first_released_as_single: false
 key: charlena-the-sevilles
 lyrics_url: https://www.musixmatch.com/lyrics/The-Sevilles/Charlena
 name: Charlena
@@ -27,6 +30,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1961-02-20'
+release_year: 1961
+runtime: 168533
 ---
 Oh, Charlena,
 Oh, Charlena,

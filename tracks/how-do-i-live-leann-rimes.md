@@ -1,8 +1,11 @@
 ---
+album: You Light Up My Life
 artists:
 - LeAnn Rimes
+external_ids:
+  spotify: spotify:track:4tPtLVyfmEJXidbOBaQh9Q
 features: []
-genres: []
+first_released_as_single: true
 key: how-do-i-live-leann-rimes
 lyrics_url: https://www.azlyrics.com/lyrics/leannrimes/howdoilive.html
 name: How Do I Live
@@ -283,8 +286,9 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1998-10-10'
+release_year: 1997
+runtime: 237266
 ---
-
 How do I,
 Get through one night without you?
 If I had to live without you,
@@ -333,6 +337,3 @@ How do I ever, ever survive?
 How do I, how do I, oh how do I live?
 How do I live without you?
 How do I live without you baby?
-
-
-

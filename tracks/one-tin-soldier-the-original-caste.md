@@ -1,8 +1,11 @@
 ---
+album: Steppin' Out
 artists:
 - The Original Caste
+external_ids:
+  spotify: spotify:track:649V0kQ8iAZIVyQ4pLI765
 features: []
-genres: []
+first_released_as_single: true
 key: one-tin-soldier-the-original-caste
 lyrics_url: https://genius.com/The-original-caste-one-tin-soldier-lyrics
 name: One Tin Soldier
@@ -75,6 +78,8 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '1970-03-07'
+release_year: 1969
+runtime: 217266
 ---
 Listen children to a story
 That was written long ago

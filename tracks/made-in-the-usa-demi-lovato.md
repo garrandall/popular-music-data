@@ -1,8 +1,11 @@
 ---
+album: Demi
 artists:
 - Demi Lovato
+external_ids:
+  spotify: spotify:track:6SjCa7LhEpPNiCxe3bLln4
 features: []
-genres: []
+first_released_as_single: false
 key: made-in-the-usa-demi-lovato
 lyrics_url: https://www.azlyrics.com/lyrics/demilovato/madeintheusa.html
 name: Made In The USA
@@ -15,8 +18,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2013-08-24'
+release_year: 2013
+runtime: 196093
 ---
-
 Our love runs deep like a Chevy
 If you fall I'll fall with you baby
 'Cause that's the way we like to do it
@@ -79,6 +83,3 @@ Made in the USA, yeah
 Made in the U.S.
 Made in the U.S.
 Made in the U.S.A.
-
-
-

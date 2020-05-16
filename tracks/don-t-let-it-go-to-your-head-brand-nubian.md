@@ -1,8 +1,11 @@
 ---
+album: Foundation
 artists:
 - Brand Nubian
+external_ids:
+  spotify: spotify:track:5wwLfjdiSHsgKyEO6V5rDe
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-let-it-go-to-your-head-brand-nubian
 lyrics_url: https://genius.com/Brand-nubian-dont-let-it-go-to-your-head-lyrics
 name: Don't Let It Go To Your Head
@@ -31,6 +34,8 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '1998-11-28'
+release_year: 1998
+runtime: 244640
 ---
 Now a lot of people think this is easy as it looks
 Books and books of rhyme concepts and hooks

@@ -1,8 +1,11 @@
 ---
+album: Drive
 artists:
 - Alan Jackson
+external_ids:
+  spotify: spotify:track:1CSdY0W7Ezx2loItcUFskp
 features: []
-genres: []
+first_released_as_single: false
 key: work-in-progress-alan-jackson
 lyrics_url: https://www.azlyrics.com/lyrics/alanjackson/workinprogress.html
 name: Work In Progress
@@ -83,8 +86,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2002-12-28'
+release_year: 2002
+runtime: 247600
 ---
-
 Okay I forgot about the trash
 I didn't trim the long hairs on my mustache
 I did buy you a ring I believe it was back in '93
@@ -122,6 +126,3 @@ But sometimes I need some real food
 
 Oh honey just be patient now
 I'm a work in progress
-
-
-

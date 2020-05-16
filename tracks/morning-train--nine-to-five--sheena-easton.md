@@ -1,8 +1,11 @@
 ---
+album: Take My Time
 artists:
 - Sheena Easton
+external_ids:
+  spotify: spotify:track:1qvDt6W8oaTO9Q4pFNMFEm
 features: []
-genres: []
+first_released_as_single: false
 key: morning-train--nine-to-five--sheena-easton
 lyrics_url: https://www.azlyrics.com/lyrics/sheenaeaston/morningtrainninetofive.html
 name: Morning Train (Nine To Five)
@@ -91,8 +94,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1981-07-04'
+release_year: 1981
+runtime: 200826
 ---
-
 I wake up every mornin', I stumble out of bed 
 Stretchin' and yawnin', another day ahead 
 It seems to last forever and time goes slowly by 
@@ -144,6 +148,3 @@ To find me waiting for him
 (He works from nine to five and then)
 (He takes another home again)
 (To find me waitin' for him)
-
-
-

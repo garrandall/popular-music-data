@@ -1,8 +1,11 @@
 ---
+album: Kind Of New/Kind Of Live
 artists:
 - Matthews' Southern Comfort
+external_ids:
+  spotify: spotify:track:4zC3pmYlYKeVOe9CbI46fZ
 features: []
-genres: []
+first_released_as_single: false
 key: mare-take-me-home-matthews--southern-comfort
 lyrics_url: https://genius.com/Matthews-southern-comfort-mare-take-me-home-lyrics
 name: Mare Take Me Home
@@ -15,6 +18,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1971-07-31'
+release_year: 1971
+runtime: 230200
 ---
 All of my life
 I've used the earth as a pillow and the sky as a blanket of blue

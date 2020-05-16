@@ -1,8 +1,11 @@
 ---
+album: Private Audition
 artists:
 - Heart
+external_ids:
+  spotify: spotify:track:27rENyvomdS3f7Awcizas6
 features: []
-genres: []
+first_released_as_single: false
 key: this-man-is-mine-heart
 lyrics_url: https://genius.com/Heart-this-man-is-mine-lyrics
 name: This Man Is Mine
@@ -59,6 +62,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1982-08-07'
+release_year: 1982
+runtime: 179760
 ---
 Now everybody in this neighborhood
 All you women better listen good

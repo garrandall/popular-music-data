@@ -1,8 +1,11 @@
 ---
+album: COSMIC
 artists:
 - Bazzi
+external_ids:
+  spotify: spotify:track:6wR0RLhc2y75cZjEeQIHj5
 features: []
-genres: []
+first_released_as_single: true
 key: mine-bazzi
 lyrics_url: https://genius.com/Bazzi-mine-lyrics
 name: Mine
@@ -143,6 +146,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '2018-09-22'
+release_year: 2018
+runtime: 190099
 ---
 Huh, yeah, naw I just, had a lil' bit too much of Hennessy
 Just gotta tell you how I feel, look

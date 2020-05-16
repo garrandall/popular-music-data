@@ -1,8 +1,11 @@
 ---
+album: First Day Out
 artists:
 - Kodak Black
+external_ids:
+  spotify: spotify:track:5lX7DIo60WaAQ0p7gTlCbV
 features: []
-genres: []
+first_released_as_single: true
 key: first-day-out-kodak-black
 lyrics_url: https://genius.com/Kodak-black-first-day-out-lyrics
 name: First Day Out
@@ -11,6 +14,8 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '2017-07-08'
+release_year: 2017
+runtime: 180000
 ---
 First day out
 Gave my mama hundred racks

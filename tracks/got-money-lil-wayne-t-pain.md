@@ -1,9 +1,12 @@
 ---
+album: Tha Carter III (MTV Bonus Version)
 artists:
 - Lil Wayne
+external_ids:
+  spotify: spotify:track:6I8nOn6RtxQ2G9bhDhGum7
 features:
 - T-Pain
-genres: []
+first_released_as_single: false
 key: got-money-lil-wayne-t-pain
 lyrics_url: https://genius.com/Lil-wayne-got-money-lyrics
 name: Got Money
@@ -116,6 +119,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2008-12-13'
+release_year: 2008
+runtime: 244653
 ---
 Pl-Pl-Play-N—Play-N—Play-N-Skillz!
 Yeah, yeah!

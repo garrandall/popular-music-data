@@ -1,8 +1,11 @@
 ---
+album: Nasty Freestyle
 artists:
 - T-Wayne
+external_ids:
+  spotify: spotify:track:0PT7nlpo11hYYyfnBgtilT
 features: []
-genres: []
+first_released_as_single: true
 key: nasty-freestyle-t-wayne
 lyrics_url: https://genius.com/T-wayne-nasty-freestyle-lyrics
 name: Nasty Freestyle
@@ -87,6 +90,8 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '2015-09-12'
+release_year: 2015
+runtime: 142212
 ---
 Yah, say Roro, you know what it is, right?
 Who Is Rickey Wayne?: The Mixtape

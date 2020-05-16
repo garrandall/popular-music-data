@@ -1,8 +1,11 @@
 ---
+album: Kiss
 artists:
 - Carly Rae Jepsen
+external_ids:
+  spotify: spotify:track:3TGRqZ0a2l1LRblBkJoaDx
 features: []
-genres: []
+first_released_as_single: false
 key: call-me-maybe-carly-rae-jepsen
 lyrics_url: https://www.azlyrics.com/lyrics/carlyraejepsen/callmemaybe.html
 name: Call Me Maybe
@@ -207,8 +210,9 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2013-02-16'
+release_year: 2012
+runtime: 193400
 ---
-
 I threw a wish in the well
 Don't ask me, I'll never tell
 I looked to you as it fell
@@ -314,6 +318,3 @@ I missed you so bad
 And you should know that
 
 So call me, maybe?
-
-
-

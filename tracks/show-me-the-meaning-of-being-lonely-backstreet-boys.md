@@ -1,8 +1,11 @@
 ---
+album: Millennium
 artists:
 - Backstreet Boys
+external_ids:
+  spotify: spotify:track:3BsaRV5QIulYz2lV9WWa8T
 features: []
-genres: []
+first_released_as_single: false
 key: show-me-the-meaning-of-being-lonely-backstreet-boys
 lyrics_url: https://www.azlyrics.com/lyrics/backstreetboys/showmethemeaningofbeinglonely.html
 name: Show Me The Meaning Of Being Lonely
@@ -103,8 +106,9 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '2000-06-10'
+release_year: 1999
+runtime: 234960
 ---
-
 Show me the meaning of being lonely
 
 So many words for the broken heart
@@ -150,6 +154,3 @@ Show me the meaning of being lonely
 Is this the feeling I need to walk with?
 Tell me why I can't be there where you are
 There's something missing in my heart
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Love Child
 artists:
 - Sweet Sensation
+external_ids:
+  spotify: spotify:track:4CjgSHKDVHahi0oMSlA7Vh
 features: []
-genres: []
+first_released_as_single: false
 key: love-child-sweet-sensation
 lyrics_url: https://www.azlyrics.com/lyrics/sweetsensation/lovechild.html
 name: Love Child
@@ -67,8 +70,9 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1990-06-23'
+release_year: 1990
+runtime: 251600
 ---
-
 You think that I don't feel love
 But what I feel for you is real love
 In other's eyes I see reflected, a hurt, scorn, rejected...
@@ -113,6 +117,3 @@ Love child, never quite as good
 Afraid, ashamed, misunderstood
 I will always love you, I will always love you
 ...
-
-
-

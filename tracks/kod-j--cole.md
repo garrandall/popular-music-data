@@ -1,8 +1,11 @@
 ---
+album: KOD
 artists:
 - J. Cole
+external_ids:
+  spotify: spotify:track:10LqXyLYqVhjo1Tcu3XYvP
 features: []
-genres: []
+first_released_as_single: false
 key: kod-j--cole
 lyrics_url: https://genius.com/J-cole-kod-lyrics
 name: KOD
@@ -55,6 +58,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '2018-07-21'
+release_year: 2018
+runtime: 191437
 ---
 Go, go, go
 Go, go, go

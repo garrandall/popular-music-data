@@ -1,9 +1,12 @@
 ---
+album: Equinox
 artists:
 - Sergio Mendes
 - Brasil '66
+external_ids:
+  spotify: spotify:track:6IZ8m8pkmRUiKlxyTq10fQ
 features: []
-genres: []
+first_released_as_single: false
 key: night-and-day-sergio-mendes-brasil--66
 lyrics_url: https://genius.com/Sergio-mendes-and-brasil-66-night-and-day-lyrics
 name: Night And Day
@@ -28,6 +31,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1967-07-01'
+release_year: 1967
+runtime: 186026
 ---
 Night and day
 You are the one

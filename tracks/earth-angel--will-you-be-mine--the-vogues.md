@@ -1,8 +1,11 @@
 ---
+album: Memories
 artists:
 - The Vogues
+external_ids:
+  spotify: spotify:track:5EdZJWk1izvR9FAFwsuIbi
 features: []
-genres: []
+first_released_as_single: false
 key: earth-angel--will-you-be-mine--the-vogues
 lyrics_url: https://www.musixmatch.com/lyrics/The-Vogues/Earth-Angel-Will-You-Be-Mine
 name: Earth Angel (Will You Be Mine)
@@ -31,6 +34,8 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '1969-05-24'
+release_year: 1969
+runtime: 153653
 ---
 Whoa, oh, oh...
 

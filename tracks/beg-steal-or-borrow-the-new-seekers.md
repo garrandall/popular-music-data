@@ -1,8 +1,11 @@
 ---
+album: Circles
 artists:
 - The New Seekers
+external_ids:
+  spotify: spotify:track:2xzg2um6uPJiSl5hd89wAp
 features: []
-genres: []
+first_released_as_single: false
 key: beg-steal-or-borrow-the-new-seekers
 lyrics_url: https://genius.com/The-new-seekers-beg-steal-or-borrow-lyrics
 name: Beg Steal Or Borrow
@@ -23,6 +26,8 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1972-05-13'
+release_year: 1972
+runtime: 173280
 ---
 You know I'll beg steal or borrow
 I bring you love

@@ -1,8 +1,11 @@
 ---
+album: Dream Into Action
 artists:
 - Howard Jones
+external_ids:
+  spotify: spotify:track:7j7LeOIVvfa3FB8m83unIU
 features: []
-genres: []
+first_released_as_single: false
 key: life-in-one-day-howard-jones
 lyrics_url: https://www.azlyrics.com/lyrics/howardjones/lifeinoneday.html
 name: Life In One Day
@@ -71,8 +74,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1985-10-19'
+release_year: 1985
+runtime: 221226
 ---
-
 The old man said to me
 Said don't always take life so seriously
 Play the flute
@@ -121,6 +125,3 @@ Ask them in and invite some more
 
 I tried to live my life in one day
 Don't go speed your time away
-
-
-

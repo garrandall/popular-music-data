@@ -1,9 +1,12 @@
 ---
+album: F.A.M.E.
 artists:
 - Chris Brown
+external_ids:
+  spotify: spotify:track:7gd01LMH2gBcoDngSt8sq9
 features:
 - Justin Bieber
-genres: []
+first_released_as_single: false
 key: next-to-you-chris-brown-justin-bieber
 lyrics_url: https://www.musixmatch.com/lyrics/Chris-Brown-feat-Justin-Bieber-2/Next-To-You-2
 name: Next To You
@@ -20,6 +23,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2011-07-09'
+release_year: 2011
+runtime: 265813
 ---
 You've got that smile
 That only heaven can make

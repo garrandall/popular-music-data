@@ -1,8 +1,11 @@
 ---
+album: A Little Bit More
 artists:
 - Dr. Hook
+external_ids:
+  spotify: spotify:track:7dd8EHZ9NkCSaY2X9Wyt8P
 features: []
-genres: []
+first_released_as_single: false
 key: a-little-bit-more-dr--hook
 lyrics_url: https://www.azlyrics.com/lyrics/drhook/alittlebitmore.html
 name: A Little Bit More
@@ -103,8 +106,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1976-11-27'
+release_year: 1976
+runtime: 198360
 ---
-
 When your body's had enough of me
 And I'm layin' flat out on the floor
 When you think I've loved you all I can
@@ -135,6 +139,3 @@ When you think I've loved you all I can
 I'm gonna love you a little bit more
 And when your body's had enough of me
 And I'm layin' flat out on the floor
-
-
-

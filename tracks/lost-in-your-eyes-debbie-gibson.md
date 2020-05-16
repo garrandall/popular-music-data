@@ -1,8 +1,11 @@
 ---
+album: Electric Youth
 artists:
 - Debbie Gibson
+external_ids:
+  spotify: spotify:track:6PMDILZiYo4YzMBbE0dGK9
 features: []
-genres: []
+first_released_as_single: false
 key: lost-in-your-eyes-debbie-gibson
 lyrics_url: https://genius.com/Debbie-gibson-lost-in-your-eyes-lyrics
 name: Lost In Your Eyes
@@ -83,6 +86,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1989-05-27'
+release_year: 1989
+runtime: 213000
 ---
 I get lost in your eyes
 And I feel my spirits rise

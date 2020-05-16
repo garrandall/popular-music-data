@@ -1,8 +1,11 @@
 ---
+album: This Woman
 artists:
 - LeAnn Rimes
+external_ids:
+  spotify: spotify:track:5jbxhdavvzVNB6LuTwOXID
 features: []
-genres: []
+first_released_as_single: false
 key: nothin--bout-love-makes-sense-leann-rimes
 lyrics_url: https://www.azlyrics.com/lyrics/leannrimes/nothinboutlovemakessense.html
 name: Nothin 'Bout Love Makes Sense
@@ -83,8 +86,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2005-03-19'
+release_year: 2004
+runtime: 177306
 ---
-
 Like a cloud full of rain shouldn't hang in the sky
 Ice shouldn't burn or a bumble bee fly
 If you feel so happy, then why do you cry
@@ -122,6 +126,3 @@ Oh, nothin' 'bout love makes sense
 Oh, nothin' 'bout love makes sense
 Oh, nothin' 'bout love makes sense
 Oh, nothin' 'bout love makes sense
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: The Great Pretender
 artists:
 - Dolly Parton
+external_ids:
+  spotify: spotify:track:4xKKdqzBo9hJTsCjw7ETc9
 features: []
-genres: []
+first_released_as_single: false
 key: downtown-dolly-parton
 lyrics_url: https://www.azlyrics.com/lyrics/dollyparton/downtown.html
 name: Downtown
@@ -23,8 +26,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1984-05-05'
+release_year: 1984
+runtime: 201009
 ---
-
 When you're alone and life is making you lonely
 You can always go downtown
 When you got worries, all the noise and the hurry
@@ -77,6 +81,3 @@ Downtown, where all the lights are bright
 Downtown, waiting for you tonight
 Downtown, you're going to be alright now
 Get on, get on, get on downtown
-
-
-

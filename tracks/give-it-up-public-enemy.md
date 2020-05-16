@@ -1,8 +1,11 @@
 ---
+album: Muse Sick-N-Hour Mess Age
 artists:
 - Public Enemy
+external_ids:
+  spotify: spotify:track:60XB3lgW3j3G5HeVeNgDL7
 features: []
-genres: []
+first_released_as_single: false
 key: give-it-up-public-enemy
 lyrics_url: https://genius.com/Public-enemy-give-it-up-lyrics
 name: Give It Up
@@ -63,6 +66,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1994-10-15'
+release_year: 1994
+runtime: 271426
 ---
 Aight (Aight), aight (Aight)
 Aight (Aight), aight (Aight)

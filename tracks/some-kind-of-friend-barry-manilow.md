@@ -1,8 +1,11 @@
 ---
+album: Here Comes the Night
 artists:
 - Barry Manilow
+external_ids:
+  spotify: spotify:track:2qOJotgFVtgUNPAd9OC9wz
 features: []
-genres: []
+first_released_as_single: false
 key: some-kind-of-friend-barry-manilow
 lyrics_url: https://www.azlyrics.com/lyrics/barrymanilow/somekindoffriend.html
 name: Some Kind Of Friend
@@ -71,8 +74,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1983-06-11'
+release_year: 1974
+runtime: 243093
 ---
-
 I saw you at the Beechwood Cafe
 You looked at me and then you looked away
 That was some kind
@@ -128,6 +132,3 @@ Some kind of friend you turned out to be
 Baby that was some kind
 Some kind of friend you turned out to be
 Some kind of friend
-
-
-

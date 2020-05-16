@@ -1,8 +1,11 @@
 ---
+album: 'Deliver: The Singles 1961-1971'
 artists:
 - The Marvelettes
+external_ids:
+  spotify: spotify:track:3VogpkbY9E02OOzCQg9XFg
 features: []
-genres: []
+first_released_as_single: false
 key: you-re-my-remedy-the-marvelettes
 lyrics_url: https://genius.com/The-marvelettes-youre-my-remedy-lyrics
 name: You're My Remedy
@@ -35,6 +38,8 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '1964-08-15'
+release_year: 1964
+runtime: 182293
 ---
 Don't give me no headache powders
 They don't do no good for me

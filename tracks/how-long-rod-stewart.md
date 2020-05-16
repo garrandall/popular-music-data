@@ -1,8 +1,11 @@
 ---
+album: Tonight I'm Yours
 artists:
 - Rod Stewart
+external_ids:
+  spotify: spotify:track:4c2Y6CSbllwlutw5bKaUtK
 features: []
-genres: []
+first_released_as_single: false
 key: how-long-rod-stewart
 lyrics_url: https://genius.com/Rod-stewart-how-long-lyrics
 name: How Long
@@ -43,6 +46,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1982-06-19'
+release_year: 1981
+runtime: 254306
 ---
 How long has this been going on?
 How long has this been going on?

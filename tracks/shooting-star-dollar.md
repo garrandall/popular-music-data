@@ -1,8 +1,11 @@
 ---
+album: Shooting Stars (Remastered & Expanded)
 artists:
 - Dollar
+external_ids:
+  spotify: spotify:track:4gV0C1pQwxnnCJpwup4dqN
 features: []
-genres: []
+first_released_as_single: false
 key: shooting-star-dollar
 lyrics_url: https://genius.com/Dollar-usa-shooting-star-lyrics
 name: Shooting Star
@@ -31,6 +34,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1980-01-26'
+release_year: 1979
+runtime: 227440
 ---
 Tonight of nights you should be far away
 A million miles from where you are

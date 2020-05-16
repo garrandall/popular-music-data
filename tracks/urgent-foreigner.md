@@ -1,8 +1,11 @@
 ---
+album: 4 (Expanded)
 artists:
 - Foreigner
+external_ids:
+  spotify: spotify:track:08onVqQ8YicJ98Ycm1qoLf
 features: []
-genres: []
+first_released_as_single: false
 key: urgent-foreigner
 lyrics_url: https://www.azlyrics.com/lyrics/foreigner/urgent.html
 name: Urgent
@@ -99,8 +102,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1981-12-05'
+release_year: 1981
+runtime: 271200
 ---
-
 You're not shy, you get around
 You wanna fly, don't want your feet on the ground
 You stay up, you won't come down
@@ -153,6 +157,3 @@ Urgent, urgent, emergency
 So urgent, emergency
 Emer... emer... emer...
 It's urgent
-
-
-

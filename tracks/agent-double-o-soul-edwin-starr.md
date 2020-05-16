@@ -1,8 +1,11 @@
 ---
+album: The Hits Of Edwin Starr
 artists:
 - Edwin Starr
+external_ids:
+  spotify: spotify:track:3ed2ejkOXU5UE0zba9KZjM
 features: []
-genres: []
+first_released_as_single: false
 key: agent-double-o-soul-edwin-starr
 lyrics_url: https://www.azlyrics.com/lyrics/edwinstarr/agentdoubleosoul.html
 name: Agent Double-O-Soul
@@ -51,8 +54,9 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '1965-10-16'
+release_year: 1965
+runtime: 162360
 ---
-
 (Double-O-Soul)
 
 I dig rock and roll music
@@ -122,6 +126,3 @@ I'm Agent Double-O-Soul
 They call me Double-O-Soul, baby
 (Double-O-Soul)
 Baby, Double-O-Soul
-
-
-

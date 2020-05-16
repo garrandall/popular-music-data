@@ -1,8 +1,11 @@
 ---
+album: Just Mary
 artists:
 - Mary Macgregor
+external_ids:
+  spotify: spotify:track:1DpgybiFcwvsprbnHSBcvk
 features: []
-genres: []
+first_released_as_single: false
 key: dancin--like-lovers-mary-macgregor
 name: Dancin' Like Lovers
 rankings:
@@ -22,5 +25,7 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1980-06-07'
+release_year: 1980
+runtime: 212427
 ---
 

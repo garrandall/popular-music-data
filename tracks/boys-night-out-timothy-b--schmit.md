@@ -1,8 +1,11 @@
 ---
+album: Timothy B
 artists:
 - Timothy B. Schmit
+external_ids:
+  spotify: spotify:track:1lhNi9EEYs8HvBoBC9RZlf
 features: []
-genres: []
+first_released_as_single: false
 key: boys-night-out-timothy-b--schmit
 lyrics_url: https://genius.com/Timothy-b-schmit-boys-night-out-lyrics
 name: Boys Night Out
@@ -59,6 +62,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1987-12-12'
+release_year: 1987
+runtime: 276826
 ---
 (Timothy B. Schmit/Will Jennings/Bruce Gaitsch)
 

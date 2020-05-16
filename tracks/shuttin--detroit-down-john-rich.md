@@ -1,8 +1,11 @@
 ---
+album: Son Of A Preacher Man
 artists:
 - John Rich
+external_ids:
+  spotify: spotify:track:3U1hhlhHoEDsvdQumqo8Vb
 features: []
-genres: []
+first_released_as_single: false
 key: shuttin--detroit-down-john-rich
 lyrics_url: https://www.azlyrics.com/lyrics/johnrich/shuttindetroitdown.html
 name: Shuttin' Detroit Down
@@ -39,8 +42,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '2009-05-02'
+release_year: 2009
+runtime: 241640
 ---
-
 My daddy taught me in this country everyone's the same 
 You work hard for your dollar and you never pass the blame
 When it don't go your way
@@ -75,6 +79,3 @@ Here in the real world they're shuttin Detroit down
 Here in the real world they're shuttin Detroit down
 In the real world they're shuttin Detroit down
 They're shuttin Detroit down
-
-
-

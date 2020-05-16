@@ -1,8 +1,11 @@
 ---
+album: I Won't Be Home Tonight
 artists:
 - Tony Carey
+external_ids:
+  spotify: spotify:track:3piCFb1t9mVY3iVoKxQ1jb
 features: []
-genres: []
+first_released_as_single: false
 key: i-won-t-be-home-tonight-tony-carey
 lyrics_url: https://genius.com/Tony-carey-i-wont-be-home-tonight-lyrics
 name: I Won't Be Home Tonight
@@ -35,6 +38,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1983-05-07'
+release_year: 1979
+runtime: 209000
 ---
 I Won't Be Home Tonight
 

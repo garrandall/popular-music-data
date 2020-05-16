@@ -1,8 +1,11 @@
 ---
+album: Can't Hold Back
 artists:
 - Eddie Money
+external_ids:
+  spotify: spotify:track:2tkwB7xRS4TMq31Lxrw0zh
 features: []
-genres: []
+first_released_as_single: false
 key: i-wanna-go-back-eddie-money
 lyrics_url: https://genius.com/Eddie-money-i-wanna-go-back-lyrics
 name: I Wanna Go Back
@@ -91,6 +94,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1987-05-09'
+release_year: 1977
+runtime: 233706
 ---
 I was listening to the radio
 I heard a song, reminded me of long ago

@@ -1,9 +1,12 @@
 ---
+album: Invasion of Privacy
 artists:
 - Cardi B
+external_ids:
+  spotify: spotify:track:083JevAsrqNiSRAQKW8zDu
 features:
 - Chance The Rapper
-genres: []
+first_released_as_single: false
 key: best-life-cardi-b-chance-the-rapper
 lyrics_url: https://www.azlyrics.com/lyrics/cardi-b/bestlife.html
 name: Best Life
@@ -20,9 +23,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2018-05-05'
+release_year: 2018
+runtime: 284855
 ---
-
-
 I'm living my best life, yeah, yeah
 I'm living my best life
 Made a couple M's, you know (ah, huh)
@@ -77,7 +80,7 @@ In that guava like Iyanla 'cause that bag just fixed my life
 Hey, y'all know good and damn well I don't want no champagne
 But can we please get some more champagne?
 Please, no Andre, G like 'Venchy
-Reach like 'Bron James, pep talk from YoncÃ©
+Reach like 'Bron James, pep talk from Yoncé
 'Member my hands had ash like Pompeii
 Now they hold cash, won't peak like Dante
 
@@ -104,7 +107,7 @@ Pissy elevators, now every dress is tailored
 This some real-life fairy tale Binderella shit
 I got further than them hoes that I will ever get
 And that only goes to show that only God knows
-I took pictures with BeyoncÃ©, I met Mama Knowles
+I took pictures with Beyoncé, I met Mama Knowles
 I'm the rose that came from the concrete and arose
 I'm like gold, I'm life goals, man, I'm chosen, I'm floating, ayy
 
@@ -128,6 +131,3 @@ I told y'all, I told y'all (You don't know 'bout nothing)
 I t-, I told y'all, I told y'all (You don't know 'bout nothing)
 Told y'all, I t-, I told y'all (You don't know 'bout nothing)
 You don't know (You don't know 'bout nothing)
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Treat Me Right
 artists:
 - Roy Head
+external_ids:
+  spotify: spotify:track:6yMZ4upLPzUYuuFjY6ROuO
 features: []
-genres: []
+first_released_as_single: false
 key: just-a-little-bit-roy-head
 lyrics_url: https://www.musixmatch.com/lyrics/Roy-Head/Just-a-Little-Bit
 name: Just A Little Bit
@@ -35,6 +38,8 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1965-12-11'
+release_year: 1965
+runtime: 104040
 ---
 I don't want much
 Just want a little bit

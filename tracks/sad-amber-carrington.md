@@ -1,8 +1,11 @@
 ---
+album: Sad (The Voice Performance)
 artists:
 - Amber Carrington
+external_ids:
+  spotify: spotify:track:0CCznGZ23ARzsnbTu4QlzU
 features: []
-genres: []
+first_released_as_single: true
 key: sad-amber-carrington
 lyrics_url: https://www.musixmatch.com/lyrics/Amber-Carrington/Sad-The-Voice-Performance
 name: Sad
@@ -11,6 +14,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2013-06-29'
+release_year: 2013
+runtime: 189266
 ---
 Man, it's been a long day
 Stuck thinking 'bout it driving on the freeway

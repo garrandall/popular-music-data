@@ -1,8 +1,11 @@
 ---
+album: Mama Let Him Play
 artists:
 - Doucette
+external_ids:
+  spotify: spotify:track:0ADWYG30Gzy4MWf5o9eY2t
 features: []
-genres: []
+first_released_as_single: false
 key: mama-let-him-play-doucette
 lyrics_url: https://genius.com/Doucette-mama-let-him-play-lyrics
 name: Mama Let Him Play
@@ -39,6 +42,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1978-05-27'
+release_year: 1978
+runtime: 264469
 ---
 Mama let that boy play some rock and roll
 Jazz is much too crazy, he can play it when he's old

@@ -1,8 +1,11 @@
 ---
+album: For Ladies Only
 artists:
 - Steppenwolf
+external_ids:
+  spotify: spotify:track:20XHBDshtwvdKIusZiuB23
 features: []
-genres: []
+first_released_as_single: false
 key: ride-with-me-steppenwolf
 lyrics_url: https://www.azlyrics.com/lyrics/steppenwolf/ridewithme.html
 name: Ride With Me
@@ -39,8 +42,9 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '1971-09-04'
+release_year: 1971
+runtime: 205066
 ---
-
 How ya gonna make it baby?
 That's the question to be asked
 Life goes on around you
@@ -78,6 +82,3 @@ Until I come together
 
 Ride with me Baby
 'Til the end of the day
-
-
-

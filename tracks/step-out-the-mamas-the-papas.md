@@ -1,9 +1,12 @@
 ---
+album: People Like Us
 artists:
 - The Mamas
 - The Papas
+external_ids:
+  spotify: spotify:track:6k8jJoD6uqghSx1RkHkw1d
 features: []
-genres: []
+first_released_as_single: false
 key: step-out-the-mamas-the-papas
 lyrics_url: https://genius.com/The-mamas-and-the-papas-step-out-lyrics
 name: Step Out
@@ -20,6 +23,8 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1972-02-26'
+release_year: 1971
+runtime: 183666
 ---
 Hey, did somebody break your heart
 With a careless word?

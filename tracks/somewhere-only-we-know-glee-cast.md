@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music presents The Warblers'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:7qekEQyGFRim7qNhxzkaLo
 features: []
-genres: []
+first_released_as_single: false
 key: somewhere-only-we-know-glee-cast
 lyrics_url: https://www.musixmatch.com/lyrics/Glee-Cast/Somewhere-Only-We-Know
 name: Somewhere Only We Know
@@ -11,6 +14,8 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '2011-05-14'
+release_year: 2011
+runtime: 184653
 ---
 I walked across an empty land
 I knew the pathway like the back of my hand

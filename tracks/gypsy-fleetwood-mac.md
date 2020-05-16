@@ -1,8 +1,11 @@
 ---
+album: Mirage
 artists:
 - Fleetwood Mac
+external_ids:
+  spotify: spotify:track:5J0aNEUTxJWKXnQmyY3vUp
 features: []
-genres: []
+first_released_as_single: false
 key: gypsy-fleetwood-mac
 lyrics_url: https://www.azlyrics.com/lyrics/fleetwoodmac/gypsy.html
 name: Gypsy
@@ -63,8 +66,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1982-12-04'
+release_year: 1982
+runtime: 267033
 ---
-
 So I'm back, to the velvet underground
 Back to the floor, that I love
 To a room with some lace and paper flowers
@@ -103,6 +107,3 @@ I still see your bright eyes, bright eyes
 And it all comes down to you
 Lightning strikes, maybe once, maybe twice
 And it all comes down to you
-
-
-

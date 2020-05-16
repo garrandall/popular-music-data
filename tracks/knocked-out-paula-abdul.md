@@ -1,8 +1,11 @@
 ---
+album: Forever Your Girl
 artists:
 - Paula Abdul
+external_ids:
+  spotify: spotify:track:7xHYQboEmdZXWuXpJf9h30
 features: []
-genres: []
+first_released_as_single: false
 key: knocked-out-paula-abdul
 lyrics_url: https://genius.com/Paula-abdul-knocked-out-lyrics
 name: Knocked Out
@@ -59,6 +62,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1988-09-10'
+release_year: 1988
+runtime: 233666
 ---
 I was in love the moment that I saw you
 I followed you through the crowd and I almost lost you

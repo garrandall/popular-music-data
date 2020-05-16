@@ -1,8 +1,11 @@
 ---
+album: Love Songs For The Hearing Impaired
 artists:
 - Dan Baird
+external_ids:
+  spotify: spotify:track:08FaxmURVgqiY9HDlW1wrh
 features: []
-genres: []
+first_released_as_single: false
 key: i-love-you-period-dan-baird
 lyrics_url: https://genius.com/Dan-baird-i-love-you-period-lyrics
 name: I Love You Period
@@ -71,6 +74,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1993-03-20'
+release_year: 1992
+runtime: 264000
 ---
 Hey, back when I was going to school
 I never learned a thing

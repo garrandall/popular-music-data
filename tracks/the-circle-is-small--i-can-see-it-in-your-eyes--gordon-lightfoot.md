@@ -1,8 +1,11 @@
 ---
+album: Back Here On Earth
 artists:
 - Gordon Lightfoot
+external_ids:
+  spotify: spotify:track:4kU9sqwlFZtYqSZ5Pzvs0m
 features: []
-genres: []
+first_released_as_single: false
 key: the-circle-is-small--i-can-see-it-in-your-eyes--gordon-lightfoot
 lyrics_url: https://genius.com/Gordon-lightfoot-the-circle-is-small-lyrics
 name: The Circle Is Small (I Can See It In Your Eyes)
@@ -55,6 +58,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1978-04-29'
+release_year: 1968
+runtime: 208560
 ---
 It's alright for some
 But not alright for me

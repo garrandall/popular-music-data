@@ -1,9 +1,12 @@
 ---
+album: Come In From The Rain
 artists:
 - Captain
 - Tennille
+external_ids:
+  spotify: spotify:track:0jNFmyoVCCIbiCJaK8tEuJ
 features: []
-genres: []
+first_released_as_single: false
 key: come-in-from-the-rain-captain-tennille
 lyrics_url: https://www.azlyrics.com/lyrics/captaintennille/comeinfromtherain.html
 name: Come In From The Rain
@@ -36,8 +39,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1977-07-23'
+release_year: 1977
+runtime: 278146
 ---
-
 Well, hello there good old friend of mine
 You've been reaching for yourself for such a long, long time
 There's so much to say, no need to explain
@@ -67,6 +71,3 @@ I know I am
 'Cause I think of us like an old cliche
 But it doesn't matter 'cause I love you anyway
 Come in from the rain, come in from the rain
-
-
-

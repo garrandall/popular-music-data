@@ -1,9 +1,12 @@
 ---
+album: Thoughts Of A Predicate Felon
 artists:
 - Tony Yayo
+external_ids:
+  spotify: spotify:track:12gBGNIMNwXnr2yTMHmawU
 features:
 - 50 Cent
-genres: []
+first_released_as_single: false
 key: so-seductive-tony-yayo-50-cent
 lyrics_url: https://www.azlyrics.com/lyrics/tonyyayo/soseductive.html
 name: So Seductive
@@ -68,9 +71,9 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '2005-10-01'
+release_year: 2005
+runtime: 210293
 ---
-
-
 Aww nigga do you know what this is
 One shot one kill whats the deal G-UNIT! (here we go now!)
 Aww nigga do you know who you with
@@ -155,6 +158,3 @@ I'm a turn over and tell her lets do it again
 The way that she move is makin me horny
 If I wake up next to her in the morning
 I'm a turn over and tell her lets do it again
-
-
-

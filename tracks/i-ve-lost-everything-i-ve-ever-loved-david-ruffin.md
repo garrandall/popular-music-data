@@ -1,8 +1,11 @@
 ---
+album: My Whole World Ended
 artists:
 - David Ruffin
+external_ids:
+  spotify: spotify:track:28UrAmoEF3BLUELuIBDAjO
 features: []
-genres: []
+first_released_as_single: false
 key: i-ve-lost-everything-i-ve-ever-loved-david-ruffin
 lyrics_url: https://genius.com/David-ruffin-ive-lost-everything-ive-ever-loved-lyrics
 name: I've Lost Everything I've Ever Loved
@@ -27,6 +30,8 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '1969-08-16'
+release_year: 1969
+runtime: 180213
 ---
 Hm, hm, hm-mmm
 I was raised an only child

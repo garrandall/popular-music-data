@@ -1,9 +1,12 @@
 ---
+album: Mother Lode
 artists:
 - Loggins
 - Messina
+external_ids:
+  spotify: spotify:track:5fuevBynKEN4dqY9wGIYkP
 features: []
-genres: []
+first_released_as_single: false
 key: growin--loggins-messina
 lyrics_url: https://www.musixmatch.com/lyrics/Loggins-Messina/Growin
 name: Growin'
@@ -36,6 +39,8 @@ rankings:
   rank: 52
   ranking_list: Billboard Hot 100
   start_date: '1975-05-17'
+release_year: 1974
+runtime: 156666
 ---
 I've been your lover
 You've been my friend

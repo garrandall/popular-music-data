@@ -1,8 +1,11 @@
 ---
+album: Herman's Hermits Retrospective
 artists:
 - Herman's Hermits
+external_ids:
+  spotify: spotify:track:2rYKu9ogqK1BjYLt1bMsGt
 features: []
-genres: []
+first_released_as_single: false
 key: a-must-to-avoid-herman-s-hermits
 lyrics_url: https://www.azlyrics.com/lyrics/hermanshermits/amusttoavoid.html
 name: A Must To Avoid
@@ -43,8 +46,9 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '1966-02-19'
+release_year: 1965
+runtime: 115240
 ---
-
 She's a must to avoid
 A complete impossibility
 She's a must to avoid
@@ -80,6 +84,3 @@ She's a must to avoid
 A complete impossibility
 She's a must to avoid
 Better take it from me
-
-
-

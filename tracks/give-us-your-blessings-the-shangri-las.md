@@ -1,8 +1,11 @@
 ---
+album: The Dixie Cups Meet The Shangri-Las
 artists:
 - The Shangri-Las
+external_ids:
+  spotify: spotify:track:7tqEnjHDtflzuTp58ysRL7
 features: []
-genres: []
+first_released_as_single: false
 key: give-us-your-blessings-the-shangri-las
 lyrics_url: https://www.azlyrics.com/lyrics/shangrilas/giveusyourblessings.html
 name: Give Us Your Blessings
@@ -39,8 +42,9 @@ rankings:
   rank: 52
   ranking_list: Billboard Hot 100
   start_date: '1965-07-17'
+release_year: 1965
+runtime: 191053
 ---
-
 Run, run, run
 Mary, run, run, run
 Jimmy, run, run, run
@@ -94,6 +98,3 @@ Run, run, run
 Mary, run, run, run
 Jimmy, run, run, run
 Mary, run, run, run
-
-
-

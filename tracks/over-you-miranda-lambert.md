@@ -1,8 +1,11 @@
 ---
+album: Four The Record
 artists:
 - Miranda Lambert
+external_ids:
+  spotify: spotify:track:3fDsErbmOD3TuaSDuxSXav
 features: []
-genres: []
+first_released_as_single: false
 key: over-you-miranda-lambert
 lyrics_url: https://www.azlyrics.com/lyrics/mirandalambert/overyou.html
 name: Over You
@@ -87,8 +90,9 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '2012-06-16'
+release_year: 2011
+runtime: 253373
 ---
-
 Weather man said it's gonna snow
 By now I should be used to the cold
 Mid-February shouldn't be so scary
@@ -121,6 +125,3 @@ How dare you?
 I miss you
 They say I'll be OK
 But I'm not going to ever get over you
-
-
-

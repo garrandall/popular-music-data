@@ -1,9 +1,12 @@
 ---
+album: Before and After
 artists:
 - Chad
 - Jeremy
+external_ids:
+  spotify: spotify:track:5P6qLX092RS6LyKX0Z2xLY
 features: []
-genres: []
+first_released_as_single: false
 key: what-do-you-want-with-me-chad-jeremy
 lyrics_url: https://genius.com/Chad-and-jeremy-what-do-you-want-with-me-lyrics
 name: What Do You Want With Me
@@ -40,6 +43,8 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '1965-05-29'
+release_year: 1965
+runtime: 177360
 ---
 Stuart-Clyde
 

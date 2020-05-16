@@ -1,8 +1,11 @@
 ---
+album: Stealers Wheel
 artists:
 - Stealers Wheel
+external_ids:
+  spotify: spotify:track:3Vby4nGmtbDo7HDJamOWkT
 features: []
-genres: []
+first_released_as_single: false
 key: stuck-in-the-middle-with-you-stealers-wheel
 lyrics_url: https://genius.com/Stealers-wheel-stuck-in-the-middle-with-you-lyrics
 name: Stuck In The Middle With You
@@ -79,6 +82,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1973-06-30'
+release_year: 1972
+runtime: 208946
 ---
 Well, I don't know why I came here tonight
 I got the feeling that something ain't right

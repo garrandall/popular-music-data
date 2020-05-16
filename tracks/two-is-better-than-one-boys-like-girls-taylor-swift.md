@@ -1,9 +1,12 @@
 ---
+album: Love Drunk
 artists:
 - Boys Like Girls
+external_ids:
+  spotify: spotify:track:1MaqkdFNIKPdpQGDzme5ss
 features:
 - Taylor Swift
-genres: []
+first_released_as_single: false
 key: two-is-better-than-one-boys-like-girls-taylor-swift
 lyrics_url: https://www.azlyrics.com/lyrics/boyslikegirls/twoisbetterthanone.html
 name: Two Is Better Than One
@@ -92,8 +95,9 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2010-03-27'
+release_year: 2009
+runtime: 242840
 ---
-
 I remember what you wore on the first day
 You came into my life and I thought hey
 You know, this could be something
@@ -135,6 +139,3 @@ And I'm thinking, oh, I can't live without you
 There's so much time to figure out the rest of my life
 But I've figured out with all that's said and done
 Two is better than one, two is better than one
-
-
-

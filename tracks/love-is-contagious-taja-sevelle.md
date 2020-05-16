@@ -1,8 +1,11 @@
 ---
+album: Love Is Contagious
 artists:
 - Taja Sevelle
+external_ids:
+  spotify: spotify:track:0V1ttEDFkz1d3w59nLqnUI
 features: []
-genres: []
+first_released_as_single: true
 key: love-is-contagious-taja-sevelle
 lyrics_url: https://genius.com/Taja-sevelle-love-is-contagious-lyrics
 name: Love Is Contagious
@@ -47,6 +50,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1987-11-14'
+release_year: 1987
+runtime: 277173
 ---
 Was a girl in the rain
 No one else could feel her pain

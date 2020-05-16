@@ -1,9 +1,13 @@
 ---
+album: Fix
 artists:
-- BLACKstreet With Special Guests Ol' Dirty Bastard
+- BLACKstreet
+external_ids:
+  spotify: spotify:track:1DaILdvdkbC5zg3K35g6Sd
+features:
+- Ol' Dirty Bastard
 - Slash
-features: []
-genres: []
+first_released_as_single: true
 key: fix-blackstreet-with-special-guests-ol--dirty-bastard-slash
 name: Fix
 rankings:
@@ -47,5 +51,7 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1997-10-04'
+release_year: 1997
+runtime: 282480
 ---
 

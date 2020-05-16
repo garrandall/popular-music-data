@@ -1,8 +1,11 @@
 ---
+album: Pretzel Logic
 artists:
 - Steely Dan
+external_ids:
+  spotify: spotify:track:2TDqa2yNF9qhSmP8gqcleE
 features: []
-genres: []
+first_released_as_single: false
 key: pretzel-logic-steely-dan
 lyrics_url: https://genius.com/Steely-dan-pretzel-logic-lyrics
 name: Pretzel Logic
@@ -27,6 +30,8 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '1974-11-09'
+release_year: 1974
+runtime: 270533
 ---
 I would love to tour the Southland
 In a travelling minstrel show

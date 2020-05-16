@@ -1,8 +1,11 @@
 ---
+album: Flesh & Blood
 artists:
 - Poison
+external_ids:
+  spotify: spotify:track:7pUYjnFTXMs0mFWsE9epqV
 features: []
-genres: []
+first_released_as_single: false
 key: something-to-believe-in-poison
 lyrics_url: https://genius.com/Poison-something-to-believe-in-lyrics
 name: Something To Believe In
@@ -91,6 +94,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1991-02-23'
+release_year: 1990
+runtime: 328360
 ---
 Well I see him on the TV
 Preachin' 'bout the promised lands

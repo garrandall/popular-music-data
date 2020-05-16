@@ -1,8 +1,11 @@
 ---
+album: Together Again
 artists:
 - Gene Chandler
+external_ids:
+  spotify: spotify:track:4xcf2N9xEZ7ogjDIEIOxG1
 features: []
-genres: []
+first_released_as_single: false
 key: to-be-a-lover-gene-chandler
 lyrics_url: https://genius.com/Gene-chandler-to-be-a-lover-lyrics
 name: To Be A Lover
@@ -23,6 +26,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1967-07-01'
+release_year: 1967
+runtime: 173800
 ---
 (To be a lover)
 (To be a lover)

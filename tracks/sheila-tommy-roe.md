@@ -1,8 +1,11 @@
 ---
+album: Sheila
 artists:
 - Tommy Roe
+external_ids:
+  spotify: spotify:track:5Mzu8smN6fRBCaUaTytD1W
 features: []
-genres: []
+first_released_as_single: false
 key: sheila-tommy-roe
 lyrics_url: https://www.azlyrics.com/lyrics/tommyroe/sheila.html
 name: Sheila
@@ -63,8 +66,9 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '1962-10-27'
+release_year: 1962
+runtime: 127066
 ---
-
 Sweet little Sheila, you'll know her if you see her
 Blue eyes and a ponytail
 Her cheeks are rosy, she looks a little nosey
@@ -103,6 +107,3 @@ Man, this little girl is fine
 Oh, this little girl is fine
 Yeah, this little girl is fine
 Oh, this little girl is fine
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Crash My Party
 artists:
 - Luke Bryan
+external_ids:
+  spotify: spotify:track:6GBUsjHfZuweYf5lQEz6mP
 features: []
-genres: []
+first_released_as_single: false
 key: crash-my-party-luke-bryan
 lyrics_url: https://genius.com/Luke-bryan-crash-my-party-lyrics
 name: Crash My Party
@@ -91,6 +94,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2013-09-14'
+release_year: 2013
+runtime: 234760
 ---
 It don’t matter what plans I got, I can break ‘em
 Yeah, I can turn this thing around at the next red light

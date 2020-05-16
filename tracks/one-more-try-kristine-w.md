@@ -1,8 +1,11 @@
 ---
+album: Land Of The Living
 artists:
 - Kristine W
+external_ids:
+  spotify: spotify:track:4fMPX87j0CHJCOJ3QtKe5P
 features: []
-genres: []
+first_released_as_single: false
 key: one-more-try-kristine-w
 lyrics_url: https://genius.com/Kristine-w-one-more-try-lyrics
 name: One More Try
@@ -67,6 +70,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1996-09-07'
+release_year: 1996
+runtime: 268266
 ---
 Every window in my hometown is empty
 And I really don't know why

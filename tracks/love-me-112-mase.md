@@ -1,9 +1,12 @@
 ---
+album: Room 112
 artists:
 - '112'
+external_ids:
+  spotify: spotify:track:4uI5xNUdEupLKskfQnfx3o
 features:
 - Mase
-genres: []
+first_released_as_single: false
 key: love-me-112-mase
 lyrics_url: https://www.azlyrics.com/lyrics/112/loveme.html
 name: Love Me
@@ -72,9 +75,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1999-02-06'
+release_year: 1998
+runtime: 257333
 ---
-
-
 Do that Puff Daddy shit, son!
 Yeah, yeah, yeah,
 Yeah, yeah, yeah, what, what, what...
@@ -168,4 +171,3 @@ What cats get clapped with,
 I react sick whenever my dough ain't adequate,
 Harlem World-Junior Mafia,
 Yeah, that's it, come on...
-

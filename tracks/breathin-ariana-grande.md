@@ -1,8 +1,11 @@
 ---
+album: Sweetener
 artists:
 - Ariana Grande
+external_ids:
+  spotify: spotify:track:4OafepJy2teCjYJbvFE60J
 features: []
-genres: []
+first_released_as_single: false
 key: breathin-ariana-grande
 lyrics_url: https://genius.com/Ariana-grande-breathin-lyrics
 name: Breathin
@@ -107,6 +110,8 @@ rankings:
   rank: 35
   ranking_list: Billboard Hot 100
   start_date: '2019-02-16'
+release_year: 2018
+runtime: 198160
 ---
 Lacigam gnihtemos od ot
 Thgin laiceps ruoy s'thginot tub

@@ -1,8 +1,11 @@
 ---
+album: Navy Blue - 25 Super Tracks
 artists:
 - Diane Renay
+external_ids:
+  spotify: spotify:track:7c7rF8Ojpkzulj6lpdZ63O
 features: []
-genres: []
+first_released_as_single: false
 key: kiss-me-sailor-diane-renay
 lyrics_url: https://genius.com/Diane-renay-kiss-me-sailor-lyrics
 name: Kiss Me Sailor
@@ -39,6 +42,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1964-05-23'
+release_year: 1964
+runtime: 166413
 ---
 Kiss me, sailor, before you go out the door
 Well, now, bye bye sailor boy

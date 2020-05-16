@@ -1,9 +1,12 @@
 ---
+album: Together (With Bonus Tracks)
 artists:
 - Marvin Gaye
 - Mary Wells
+external_ids:
+  spotify: spotify:track:5otgHuLKepESXMc5nUt6e3
 features: []
-genres: []
+first_released_as_single: false
 key: what-s-the-matter-with-you-baby-marvin-gaye-mary-wells
 lyrics_url: https://www.azlyrics.com/lyrics/marvingaye/whatsthematterwithyoubaby.html
 name: What's The Matter With You Baby
@@ -48,9 +51,10 @@ rankings:
   rank: 37
   ranking_list: Billboard Hot 100
   start_date: '1964-07-18'
+release_year: 1964
+runtime: 148733
 ---
-
- Wo wo wo...
+Wo wo wo...
 
  What's the matter with you, baby, what's the matter?
 What did I do wrong?
@@ -81,4 +85,3 @@ And now you wanna take me out tonight
  Hurry up, hurry up, before I lose my mind
  I've got a feelin' everything is gonna work all right
 But you can't take me out tonight
-

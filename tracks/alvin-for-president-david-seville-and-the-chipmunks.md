@@ -1,7 +1,8 @@
 ---
 artists:
-- David Seville And The Chipmunks
-features: []
+- Alvin And The Chipmunks
+features:
+- David Seville
 genres: []
 key: alvin-for-president-david-seville-and-the-chipmunks
 name: Alvin For President

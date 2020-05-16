@@ -1,8 +1,11 @@
 ---
+album: Survivor
 artists:
 - Survivor
+external_ids:
+  spotify: spotify:track:70dEBvY36k2QdwoLexpKOd
 features: []
-genres: []
+first_released_as_single: false
 key: somewhere-in-america-survivor
 lyrics_url: https://www.azlyrics.com/lyrics/survivor/somewhereinamerica.html
 name: Somewhere In America
@@ -55,8 +58,9 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1980-05-10'
+release_year: 1979
+runtime: 311693
 ---
-
 Somewhere...
 
 Hey girl. help me if you can
@@ -100,6 +104,3 @@ Somewhere in America,
 she waits for me
 
 Somewhere in America
-
-
-

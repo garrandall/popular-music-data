@@ -1,8 +1,11 @@
 ---
+album: Eyes That See In The Dark
 artists:
 - Kenny Rogers
+external_ids:
+  spotify: spotify:track:5pJ3V9JlivV3zvyIgg2Keq
 features: []
-genres: []
+first_released_as_single: false
 key: eyes-that-see-in-the-dark-kenny-rogers
 lyrics_url: https://www.azlyrics.com/lyrics/kennyrogers/eyesthatseeinthedark.html
 name: Eyes That See In The Dark
@@ -27,8 +30,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1984-05-26'
+release_year: 1983
+runtime: 224106
 ---
-
 You're not meant to be alone
 I'll share your dream
 I'll show you love you've never known
@@ -73,6 +77,3 @@ Am I the light of someone you need more of
 Let me be that love you can be sure of
 Is it only my imagination
 I got you...
-
-
-

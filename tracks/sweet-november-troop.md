@@ -1,8 +1,11 @@
 ---
+album: Deepa
 artists:
 - Troop
+external_ids:
+  spotify: spotify:track:36osy3lTtOYL5GYJrUYafx
 features: []
-genres: []
+first_released_as_single: false
 key: sweet-november-troop
 lyrics_url: https://genius.com/Troop-sweet-november-lyrics
 name: Sweet November
@@ -59,6 +62,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1992-12-19'
+release_year: 1992
+runtime: 286333
 ---
 It's so cold out here
 Baby, what's wrong with us?

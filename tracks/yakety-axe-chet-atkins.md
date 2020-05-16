@@ -1,8 +1,11 @@
 ---
+album: More of That Guitar Country
 artists:
 - Chet Atkins
+external_ids:
+  spotify: spotify:track:5aoOOQTID971UWfPd6ZHQD
 features: []
-genres: []
+first_released_as_single: false
 key: yakety-axe-chet-atkins
 lyrics_url: https://www.musixmatch.com/lyrics/Chet-Atkins-and-Mark-Knopfler/Yakety-Axe
 name: Yakety Axe
@@ -15,8 +18,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1965-07-24'
+release_year: 1965
+runtime: 121760
 ---
-Lyrics-merle travis
 Poverty stricken but still I'm stickin'
 To things I know to be facts
 One day it's feathers and the next day chicken

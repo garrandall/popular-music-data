@@ -1,8 +1,11 @@
 ---
+album: Be Not Nobody
 artists:
 - Vanessa Carlton
+external_ids:
+  spotify: spotify:track:5LV9dlnGFxWip7hdmwIcun
 features: []
-genres: []
+first_released_as_single: false
 key: a-thousand-miles-vanessa-carlton
 lyrics_url: https://genius.com/Vanessa-carlton-a-thousand-miles-lyrics
 name: A Thousand Miles
@@ -171,6 +174,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '2002-12-07'
+release_year: 2001
+runtime: 236200
 ---
 Makin' my way downtown
 Walkin' fast, faces pass

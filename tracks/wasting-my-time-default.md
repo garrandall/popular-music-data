@@ -1,8 +1,11 @@
 ---
+album: The Fallout
 artists:
 - Default
+external_ids:
+  spotify: spotify:track:5dpAN1mjFPL38kh9kWsCiw
 features: []
-genres: []
+first_released_as_single: false
 key: wasting-my-time-default
 lyrics_url: https://www.azlyrics.com/lyrics/default/wastingmytime.html
 name: Wasting My Time
@@ -147,8 +150,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2002-08-31'
+release_year: 2001
+runtime: 269306
 ---
-
 Well I don't want to see you waiting
 I've already gone too far away
 I still can't keep the day from ending
@@ -202,6 +206,3 @@ Let's make the call
 And take it all
 I'm wasting my time
 I'm wasting...
-
-
-

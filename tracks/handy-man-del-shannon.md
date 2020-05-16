@@ -1,8 +1,11 @@
 ---
+album: Handy Man
 artists:
 - Del Shannon
+external_ids:
+  spotify: spotify:track:5NkT19r4Y4MjxnTrcKudB8
 features: []
-genres: []
+first_released_as_single: false
 key: handy-man-del-shannon
 lyrics_url: https://www.azlyrics.com/lyrics/delshannon/handyman.html
 name: Handy Man
@@ -47,8 +50,9 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '1964-09-05'
+release_year: 1964
+runtime: 134560
 ---
-
 Hey girls, gather round
 Because of what I'm puttin' down
 Oh, baby, I'm your handy man
@@ -75,6 +79,3 @@ I'm the man to see. I whisper sweet things
 You tell all your friends, and they'll come running to me
 Here is the main thing I want to say
 I'm busy twenty four hours a day
-
-
-

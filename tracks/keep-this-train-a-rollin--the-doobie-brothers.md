@@ -1,8 +1,11 @@
 ---
+album: One Step Closer
 artists:
 - The Doobie Brothers
+external_ids:
+  spotify: spotify:track:2A8XhYrLz6A8jIpx8SoEKZ
 features: []
-genres: []
+first_released_as_single: false
 key: keep-this-train-a-rollin--the-doobie-brothers
 lyrics_url: https://www.azlyrics.com/lyrics/doobiebrothers/keepthistrainarollin.html
 name: Keep This Train A-Rollin'
@@ -27,8 +30,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1981-03-14'
+release_year: 1980
+runtime: 209173
 ---
-
 Sure as that old whistle's blowin'
 There's a tug upon my heart
 Somewhere in that misty mornin' light
@@ -49,6 +53,3 @@ We ain't gonna break down on this highway
 We could sit here waitin', worried, wonderin'
 Wishin' we were somewhere other than right her
 But we're right here
-
-
-

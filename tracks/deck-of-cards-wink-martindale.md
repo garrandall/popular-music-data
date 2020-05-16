@@ -1,8 +1,11 @@
 ---
+album: 'Winking At Life: God, Country, Mom & Apple Pie'
 artists:
 - Wink Martindale
+external_ids:
+  spotify: spotify:track:4U3S2BgQeX25uW0fEPDSSt
 features: []
-genres: []
+first_released_as_single: true
 key: deck-of-cards-wink-martindale
 lyrics_url: https://genius.com/Wink-martindale-deck-of-cards-lyrics
 name: Deck Of Cards
@@ -75,6 +78,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1960-01-04'
+release_year: 1959
+runtime: 240880
 ---
 NARRATIVE:
 During the North African campaign, a bunch of soldier boys had

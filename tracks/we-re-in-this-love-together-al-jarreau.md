@@ -1,8 +1,11 @@
 ---
+album: Breakin' Away
 artists:
 - Al Jarreau
+external_ids:
+  spotify: spotify:track:1Let4BYaYSum46nAGO1i6v
 features: []
-genres: []
+first_released_as_single: false
 key: we-re-in-this-love-together-al-jarreau
 lyrics_url: https://www.musixmatch.com/lyrics/Al-Jarreau/We-re-in-This-Love-Together
 name: We're In This Love Together
@@ -103,6 +106,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1982-01-09'
+release_year: 1981
+runtime: 226066
 ---
 It's like a diamond ring, it's a precious thing
 And we never want to lose it

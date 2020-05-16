@@ -1,9 +1,12 @@
 ---
+album: Greatest Hits - Chapter One
 artists:
 - Kelly Clarkson
+external_ids:
+  spotify: spotify:track:5HuyeNQq0GTDMhr7QtE5yj
 features:
 - Vince Gill
-genres: []
+first_released_as_single: false
 key: don-t-rush-kelly-clarkson-vince-gill
 lyrics_url: https://genius.com/Kelly-clarkson-dont-rush-lyrics
 name: Don't Rush
@@ -20,6 +23,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '2013-04-27'
+release_year: 2012
+runtime: 242013
 ---
 Let's wake up in the afternoon
 Pretend that we got nothing to do

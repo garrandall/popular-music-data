@@ -1,8 +1,11 @@
 ---
+album: Hysteria
 artists:
 - Def Leppard
+external_ids:
+  spotify: spotify:track:2PFIZFcGry0po3ZfRZkzKc
 features: []
-genres: []
+first_released_as_single: false
 key: hysteria-def-leppard
 lyrics_url: https://www.azlyrics.com/lyrics/defleppard/hysteria.html
 name: Hysteria
@@ -71,8 +74,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1988-05-07'
+release_year: 1987
+runtime: 354636
 ---
-
 Out of touch, out of reach yeah
 You could try to get closer to me
 I'm in luck, I'm in deep, yeah
@@ -113,4 +117,3 @@ When you get that feelin', better start believin'
 Oh babe
 Hysteria when you're near
 Come on
-

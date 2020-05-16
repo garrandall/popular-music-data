@@ -1,8 +1,11 @@
 ---
+album: The One That You Love
 artists:
 - Air Supply
+external_ids:
+  spotify: spotify:track:3FDAd5vW4P7xe1GBNOLyfD
 features: []
-genres: []
+first_released_as_single: false
 key: the-one-that-you-love-air-supply
 lyrics_url: https://genius.com/Air-supply-the-one-that-you-love-lyrics
 name: The One That You Love
@@ -83,6 +86,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1981-09-19'
+release_year: 1981
+runtime: 259000
 ---
 Now the night has gone
 Now the night has gone away

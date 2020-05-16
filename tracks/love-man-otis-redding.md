@@ -1,8 +1,11 @@
 ---
+album: Love Man
 artists:
 - Otis Redding
+external_ids:
+  spotify: spotify:track:16dz1n3ctolQbuZPtvHVqH
 features: []
-genres: []
+first_released_as_single: false
 key: love-man-otis-redding
 lyrics_url: https://genius.com/Otis-redding-love-man-lyrics
 name: Love Man
@@ -27,6 +30,8 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '1969-06-21'
+release_year: 1969
+runtime: 139493
 ---
 I'm a Love Man
 Call me a Love Man

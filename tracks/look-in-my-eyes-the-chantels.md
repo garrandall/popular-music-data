@@ -1,8 +1,11 @@
 ---
+album: The Best Of The Chantels
 artists:
 - The Chantels
+external_ids:
+  spotify: spotify:track:44zDjE3jqBJwmbI2keIlXy
 features: []
-genres: []
+first_released_as_single: false
 key: look-in-my-eyes-the-chantels
 lyrics_url: https://genius.com/The-chantels-look-in-my-eyes-lyrics
 name: Look In My Eyes
@@ -55,6 +58,8 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '1961-11-13'
+release_year: 1961
+runtime: 136826
 ---
 Look in my eyes,and tell me you love me
 Tell me you love me, or darling I'll be gone

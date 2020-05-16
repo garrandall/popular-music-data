@@ -1,8 +1,11 @@
 ---
+album: Stop And Smell The Roses
 artists:
 - Mac Davis
+external_ids:
+  spotify: spotify:track:6RnKm1xSMDnPtzWx8K9T8a
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-hard-to-be-humble-mac-davis
 lyrics_url: https://genius.com/Mac-davis-its-hard-to-be-humble-lyrics
 name: It's Hard To Be Humble
@@ -55,6 +58,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1980-06-07'
+release_year: 1974
+runtime: 256720
 ---
 Back a few months ago, I was headlinin' a great big nightclub
 And they put me up a couple days early, I came in a couple days early

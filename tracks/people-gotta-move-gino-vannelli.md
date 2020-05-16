@@ -1,8 +1,11 @@
 ---
+album: Powerful People
 artists:
 - Gino Vannelli
+external_ids:
+  spotify: spotify:track:2ZZrWIvrGh6P6Hhabf8FtB
 features: []
-genres: []
+first_released_as_single: false
 key: people-gotta-move-gino-vannelli
 lyrics_url: https://www.azlyrics.com/lyrics/ginovannelli/peoplegottamove.html
 name: People Gotta Move
@@ -59,8 +62,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1974-12-14'
+release_year: 1974
+runtime: 201600
 ---
-
 People come on and do it right
 Shake your behinds like dynamite
 Chuck all your worries and toss your thighs
@@ -76,6 +80,3 @@ You come on for right, you come on for wrong, you come on for zeal
 
 You gotta groove...
 People gotta move...
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Silent Lips
 artists:
 - Georgia Gibbs
+external_ids:
+  spotify: spotify:track:3BqGRXZ0oO97agxipBxV7q
 features: []
-genres: []
+first_released_as_single: false
 key: the-hula-hoop-song-georgia-gibbs
 lyrics_url: https://genius.com/Georgia-gibbs-the-hula-hoop-song-lyrics
 name: The Hula Hoop Song
@@ -27,6 +30,8 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '1958-11-03'
+release_year: 1958
+runtime: 135367
 ---
 Hula hoop, hula hoop, anyone can play the hula hoop
 Hula hoop, hula hoop, anyone can play from three to a hundred and ten

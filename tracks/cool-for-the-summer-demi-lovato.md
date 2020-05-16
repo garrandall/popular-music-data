@@ -1,8 +1,11 @@
 ---
+album: Confident
 artists:
 - Demi Lovato
+external_ids:
+  spotify: spotify:track:3uwnnTQcHM1rDqSfA4gQNz
 features: []
-genres: []
+first_released_as_single: false
 key: cool-for-the-summer-demi-lovato
 lyrics_url: https://genius.com/Demi-lovato-cool-for-the-summer-lyrics
 name: Cool For The Summer
@@ -87,6 +90,8 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '2015-11-28'
+release_year: 2015
+runtime: 214739
 ---
 Tell me what you want
 What you like

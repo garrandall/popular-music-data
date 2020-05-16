@@ -1,8 +1,11 @@
 ---
+album: Up!
 artists:
 - Shania Twain
+external_ids:
+  spotify: spotify:track:5oqiovQufNFDhA2PpvsaCF
 features: []
-genres: []
+first_released_as_single: false
 key: up--shania-twain
 lyrics_url: https://www.musixmatch.com/lyrics/Shania-Twain/Up-Green
 name: Up!
@@ -47,6 +50,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2003-04-05'
+release_year: 2002
+runtime: 172973
 ---
 I'm goin' up, goin' up, I'm goin' up (oh)
 

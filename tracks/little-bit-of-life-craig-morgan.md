@@ -1,8 +1,11 @@
 ---
+album: Little Bit Of Life
 artists:
 - Craig Morgan
+external_ids:
+  spotify: spotify:track:1jSZ1IETySh2kDTnyfIE0I
 features: []
-genres: []
+first_released_as_single: false
 key: little-bit-of-life-craig-morgan
 lyrics_url: https://www.azlyrics.com/lyrics/craigmorgan/littlebitoflife.html
 name: Little Bit Of Life
@@ -59,8 +62,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2007-03-24'
+release_year: 2006
+runtime: 251720
 ---
-
 A little bit of guitar; a little bit of truck.
 A little bit of hound-dog and a little bit of luck.
 A little bit of bacon, a little bit of beans;
@@ -134,6 +138,3 @@ A little bit of bacon, a little bit of beans;
 A little bit of you lovin' up on me.
 A little bit of c'mon, a little bit of play.
 A little bit of yee-haw in the hay!
-
-
-

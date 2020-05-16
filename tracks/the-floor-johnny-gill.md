@@ -1,8 +1,11 @@
 ---
+album: Provocative
 artists:
 - Johnny Gill
+external_ids:
+  spotify: spotify:track:76LIYXBETh3PyHoNUufycb
 features: []
-genres: []
+first_released_as_single: false
 key: the-floor-johnny-gill
 lyrics_url: https://www.azlyrics.com/lyrics/johnnygill/thefloor.html
 name: The Floor
@@ -47,8 +50,9 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1993-07-24'
+release_year: 1993
+runtime: 312800
 ---
-
 (Gonna hit it)
 Ski-doody-doom-da-nah
 (Oh yeah)
@@ -102,6 +106,3 @@ Earthquake shakes whenever you move
 The word heartbreaker describes you
 Nice full back just waiting to score
 I tell you what I'm gonna do
-
-
-

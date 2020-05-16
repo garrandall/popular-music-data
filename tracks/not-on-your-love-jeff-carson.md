@@ -1,8 +1,11 @@
 ---
+album: Jeff Carson
 artists:
 - Jeff Carson
+external_ids:
+  spotify: spotify:track:04bs5EpVXhbPkqV9uwOAM9
 features: []
-genres: []
+first_released_as_single: false
 key: not-on-your-love-jeff-carson
 lyrics_url: https://genius.com/Jeff-carson-not-on-your-love-lyrics
 name: Not On Your Love
@@ -15,6 +18,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1995-09-23'
+release_year: 1995
+runtime: 202333
 ---
 We both said some things we don't really mean
 Sometimes love can be like that

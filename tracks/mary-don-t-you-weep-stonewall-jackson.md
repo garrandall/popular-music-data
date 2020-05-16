@@ -1,8 +1,11 @@
 ---
+album: The Dynamic Stonewall Jackson
 artists:
 - Stonewall Jackson
+external_ids:
+  spotify: spotify:track:6jH4GhALLv5Ce3VxoiEpZx
 features: []
-genres: []
+first_released_as_single: false
 key: mary-don-t-you-weep-stonewall-jackson
 lyrics_url: https://genius.com/Stonewall-jackson-mary-dont-you-weep-lyrics
 name: Mary Don't You Weep
@@ -35,6 +38,8 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1960-02-08'
+release_year: 1959
+runtime: 147133
 ---
 Oh Mary don't you weep for me
 Oh Mary just you wait for me

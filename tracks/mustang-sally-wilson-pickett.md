@@ -1,8 +1,11 @@
 ---
+album: Live in Japan
 artists:
 - Wilson Pickett
+external_ids:
+  spotify: spotify:track:6yStVn008s6zP6D6EmTWUw
 features: []
-genres: []
+first_released_as_single: false
 key: mustang-sally-wilson-pickett
 lyrics_url: https://genius.com/Wilson-pickett-mustang-sally-lyrics
 name: Mustang Sally
@@ -43,6 +46,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1967-01-21'
+release_year: 1966
+runtime: 400520
 ---
 Mustang Sally, guess you better slow your Mustang down (what I said now)
 Mustang Sally, now baby, guess you better slow your Mustang down (oh yeah)

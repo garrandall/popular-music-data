@@ -1,8 +1,11 @@
 ---
+album: Young The Giant
 artists:
 - Young The Giant
+external_ids:
+  spotify: spotify:track:1UqhkbzB1kuFwt2iy4h29Q
 features: []
-genres: []
+first_released_as_single: false
 key: cough-syrup-young-the-giant
 lyrics_url: https://www.azlyrics.com/lyrics/youngthegiant/coughsyrup.html
 name: Cough Syrup
@@ -19,8 +22,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2012-03-24'
+release_year: 2011
+runtime: 249520
 ---
-
 Life's too short to even care at all
 I'm losing my mind losing my mind losing control
 These fishes in the sea they're staring at me
@@ -58,6 +62,3 @@ I'm waiting for this cough syrup to come down
 
 One more spoon of cough syrup now
 One more spoon of cough syrup now
-
-
-

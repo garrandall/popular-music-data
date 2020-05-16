@@ -1,8 +1,11 @@
 ---
+album: Bloodshot
 artists:
 - The J. Geils Band
+external_ids:
+  spotify: spotify:track:67trulk6j7vx2hYGXiJAxq
 features: []
-genres: []
+first_released_as_single: false
 key: give-it-to-me-the-j--geils-band
 lyrics_url: https://www.azlyrics.com/lyrics/jgeilsband/giveittome.html
 name: Give It To Me
@@ -71,8 +74,9 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '1973-07-14'
+release_year: 1973
+runtime: 390066
 ---
-
 Yeah, now don't touch the knobs
 Cause I think we're gonna
 Have some with this one here
@@ -123,6 +127,3 @@ When it's so warm inside
 Come on, baby, your love
 Is too good to hide
 Woah, yeah
-
-
-

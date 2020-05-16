@@ -1,9 +1,12 @@
 ---
+album: One Dozen Roses
 artists:
 - Smokey Robinson
 - The Miracles
+external_ids:
+  spotify: spotify:track:3393zOPzr5FrrZWdSnAHQF
 features: []
-genres: []
+first_released_as_single: false
 key: i-don-t-blame-you-at-all-smokey-robinson-the-miracles
 lyrics_url: https://genius.com/Smokey-robinson-and-the-miracles-i-dont-blame-you-at-all-lyrics
 name: I Don't Blame You At All
@@ -56,6 +59,8 @@ rankings:
   rank: 38
   ranking_list: Billboard Hot 100
   start_date: '1971-06-05'
+release_year: 1971
+runtime: 192666
 ---
 I don't blame you at all 'cause you played it cool
 You don't owe me a thing 'cause I played the fool

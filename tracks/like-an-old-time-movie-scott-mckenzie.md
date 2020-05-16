@@ -1,8 +1,11 @@
 ---
+album: The Voice of Scott McKenzie
 artists:
 - Scott McKenzie
+external_ids:
+  spotify: spotify:track:3V157gTRTg2vAWOWKxsNm3
 features: []
-genres: []
+first_released_as_single: false
 key: like-an-old-time-movie-scott-mckenzie
 lyrics_url: https://www.azlyrics.com/lyrics/scottmckenzie/likeanoldtimemovie.html
 name: Like An Old Time Movie
@@ -35,8 +38,9 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '1967-12-02'
+release_year: 1967
+runtime: 194893
 ---
-
 Every time I see you
 It's just because you're blue
 You don't really need me the way that I need you
@@ -73,6 +77,3 @@ Cause this time
 You will find
 I'm gonna let you go
 Every time I see you
-
-
-

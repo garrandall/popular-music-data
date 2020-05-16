@@ -1,8 +1,11 @@
 ---
+album: Face 2 Face
 artists:
 - Babyface
+external_ids:
+  spotify: spotify:track:4AFhkn04YASMuvUxVMJKmW
 features: []
-genres: []
+first_released_as_single: false
 key: what-if-babyface
 lyrics_url: https://genius.com/Babyface-what-if-lyrics
 name: What If
@@ -67,6 +70,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2001-12-29'
+release_year: 2001
+runtime: 246466
 ---
 I ran into a friend of yours the other day
 And I asked her how you've been

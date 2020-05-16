@@ -1,8 +1,11 @@
 ---
+album: Yes I'm Ready
 artists:
 - Barbara Mason
+external_ids:
+  spotify: spotify:track:2gZpW5pTZkimGG98loFSl2
 features: []
-genres: []
+first_released_as_single: false
 key: yes-i-m-ready-barbara-mason
 lyrics_url: https://genius.com/Barbara-mason-yes-im-ready-lyrics
 name: Yes I'm Ready
@@ -63,6 +66,8 @@ rankings:
   rank: 31
   ranking_list: Billboard Hot 100
   start_date: '1965-08-14'
+release_year: 1965
+runtime: 184333
 ---
 (Barbara Mason)
  (Are you ready?)

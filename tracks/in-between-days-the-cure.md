@@ -1,8 +1,11 @@
 ---
+album: The Head on the Door
 artists:
 - The Cure
+external_ids:
+  spotify: spotify:track:07CyrZF9eVd02zzIse7tZA
 features: []
-genres: []
+first_released_as_single: false
 key: in-between-days-the-cure
 lyrics_url: https://genius.com/The-cure-in-between-days-lyrics
 name: In Between Days
@@ -11,6 +14,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1986-02-15'
+release_year: 1985
+runtime: 177986
 ---
 Yesterday I got so old
 I felt like I could die

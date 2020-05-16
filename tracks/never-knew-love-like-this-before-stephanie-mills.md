@@ -1,8 +1,11 @@
 ---
+album: Soul Bag, Vol. 1
 artists:
 - Stephanie Mills
+external_ids:
+  spotify: spotify:track:4EUlszQIxlPwiHJ6e6j6Gy
 features: []
-genres: []
+first_released_as_single: false
 key: never-knew-love-like-this-before-stephanie-mills
 lyrics_url: https://www.azlyrics.com/lyrics/stephaniemills/neverknewlovelikethisbefore.html
 name: Never Knew Love Like This Before
@@ -107,8 +110,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1981-01-24'
+release_year: 1980
+runtime: 325173
 ---
-
 I never knew love like this before;
 Now I'm lonely never more,
 Since you came into my life...
@@ -181,6 +185,3 @@ Opened my eyes...
 (Never knew love like this...) Opened my eyes...
 (Never,) What a surprise... (Never...) Never...
 (Never knew love like this...) I never knew
-
-
-

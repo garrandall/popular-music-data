@@ -1,8 +1,11 @@
 ---
+album: Heartland
 artists:
 - Michael Stanley Band
+external_ids:
+  spotify: spotify:track:1XymXdDST6eFyZQmjrnIIo
 features: []
-genres: []
+first_released_as_single: false
 key: he-can-t-love-you-michael-stanley-band
 lyrics_url: https://genius.com/Michael-stanley-band-he-cant-love-you-lyrics
 name: He Can't Love You
@@ -71,6 +74,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1981-03-07'
+release_year: 1980
+runtime: 214613
 ---
 Everyday, I feel love growin'
 What ya say, about it showin'

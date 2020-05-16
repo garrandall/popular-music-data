@@ -1,8 +1,11 @@
 ---
+album: Head First
 artists:
 - The Babys
+external_ids:
+  spotify: spotify:track:1stFVE7xE8t4Xz21IoT6Tb
 features: []
-genres: []
+first_released_as_single: false
 key: head-first-the-babys
 lyrics_url: https://genius.com/The-babys-head-first-lyrics
 name: Head First
@@ -19,6 +22,8 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1979-06-09'
+release_year: 1978
+runtime: 240333
 ---
 Well the first time that I saw ya
 You looked down and out

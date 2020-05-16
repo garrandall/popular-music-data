@@ -1,8 +1,11 @@
 ---
+album: All-Time Greatest Performances
 artists:
 - Kenny Nolan
+external_ids:
+  spotify: spotify:track:1uMWTSC1bn3Hpca9SYK24s
 features: []
-genres: []
+first_released_as_single: false
 key: my-eyes-get-blurry-kenny-nolan
 lyrics_url: https://www.musixmatch.com/lyrics/Kenny-Nolan/My-Eyes-Get-Blurry
 name: My Eyes Get Blurry
@@ -19,6 +22,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1977-10-29'
+release_year: 1976
+runtime: 242866
 ---
 I hear a poet say
 How love will find its way

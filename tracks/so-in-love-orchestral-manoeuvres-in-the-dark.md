@@ -1,8 +1,11 @@
 ---
+album: Crush
 artists:
 - Orchestral Manoeuvres In The Dark
+external_ids:
+  spotify: spotify:track:1D2QnxvMOac95EG9C0KbsJ
 features: []
-genres: []
+first_released_as_single: false
 key: so-in-love-orchestral-manoeuvres-in-the-dark
 lyrics_url: https://genius.com/Orchestral-manoeuvres-in-the-dark-so-in-love-lyrics
 name: So In Love
@@ -75,6 +78,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1985-12-21'
+release_year: 1985
+runtime: 209360
 ---
 Talk to me, don't lie to me
 Save your breath

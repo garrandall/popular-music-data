@@ -1,8 +1,11 @@
 ---
+album: My Love Is Your Love
 artists:
 - Whitney Houston
+external_ids:
+  spotify: spotify:track:7861kBrZ5aw7o4NfggcyYW
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-not-right-but-it-s-okay-whitney-houston
 lyrics_url: https://genius.com/Whitney-houston-its-not-right-but-its-okay-lyrics
 name: It's Not Right But It's Okay
@@ -87,6 +90,8 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1999-09-18'
+release_year: 1998
+runtime: 292400
 ---
 Friday night you and your boys went out to eat, oh
 Then they hung out

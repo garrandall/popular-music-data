@@ -1,8 +1,11 @@
 ---
+album: Delirium
 artists:
 - Ellie Goulding
+external_ids:
+  spotify: spotify:track:3ZCDG0nujwGfxrEmZlZoEt
 features: []
-genres: []
+first_released_as_single: false
 key: something-in-the-way-you-move-ellie-goulding
 lyrics_url: https://www.azlyrics.com/lyrics/elliegoulding/somethinginthewayyoumove.html
 name: Something In The Way You Move
@@ -47,8 +50,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2016-04-16'
+release_year: 2015
+runtime: 227423
 ---
-
 It's the strangest feeling
 Feeling this way for you
 There's something in the way you move
@@ -118,6 +122,3 @@ Something in the way you move
 Something in the way you move
 Something in the way you do it
 Something in the way you move
-
-
-

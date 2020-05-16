@@ -1,8 +1,11 @@
 ---
+album: Dark Before Dawn
 artists:
 - Breaking Benjamin
+external_ids:
+  spotify: spotify:track:4wh0E9OwMCxcaIKTg0Mts9
 features: []
-genres: []
+first_released_as_single: false
 key: failure-breaking-benjamin
 lyrics_url: https://www.azlyrics.com/lyrics/breakingbenjamin/failure.html
 name: Failure
@@ -11,8 +14,9 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '2015-04-11'
+release_year: 2015
+runtime: 214853
 ---
-
 Life will come our way
 It has only just begun
 The world will die alone
@@ -53,6 +57,3 @@ We bury the sunlight, we bury the sunlight
 Failure! Failure
 
 Failure
-
-
-

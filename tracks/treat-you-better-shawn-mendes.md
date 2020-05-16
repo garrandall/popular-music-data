@@ -1,8 +1,11 @@
 ---
+album: Live At Madison Square Garden
 artists:
 - Shawn Mendes
+external_ids:
+  spotify: spotify:track:7al2umgR86au9ri0VazVD9
 features: []
-genres: []
+first_released_as_single: true
 key: treat-you-better-shawn-mendes
 lyrics_url: https://genius.com/Shawn-mendes-treat-you-better-lyrics
 name: Treat You Better
@@ -163,6 +166,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '2017-03-18'
+release_year: 2016
+runtime: 232666
 ---
 I won't lie to you
 I know he's just not right for you

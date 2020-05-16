@@ -1,9 +1,12 @@
 ---
+album: How Deep Is Your Love
 artists:
 - Dru Hill
+external_ids:
+  spotify: spotify:track:3UlGXbLr9wDr0wZLu3BRY4
 features:
 - Redman
-genres: []
+first_released_as_single: true
 key: how-deep-is-your-love-dru-hill-redman
 lyrics_url: https://www.azlyrics.com/lyrics/druhill/howdeepisyourlove.html
 name: How Deep Is Your Love
@@ -88,9 +91,9 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '1999-02-20'
+release_year: 1998
+runtime: 251693
 ---
-
-
 Yeah, whoa
 
 
@@ -152,4 +155,3 @@ shit freaky, you down with it, your other man's a punk with a hand to
 punk tha grunge, ride out tough, even Honey Comb hide out, duck the hour
 rush, better choose quick chick, I got tracks to dust, Dru Hill, Def
 Squad, if you askin' us
-

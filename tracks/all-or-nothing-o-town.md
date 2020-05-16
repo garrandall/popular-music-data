@@ -1,8 +1,11 @@
 ---
+album: O-Town
 artists:
 - O-Town
+external_ids:
+  spotify: spotify:track:1TBIHWmr1r34J2s0eSfA7U
 features: []
-genres: []
+first_released_as_single: false
 key: all-or-nothing-o-town
 lyrics_url: https://genius.com/O-town-all-or-nothing-lyrics
 name: All Or Nothing
@@ -87,6 +90,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2001-10-20'
+release_year: 2001
+runtime: 281426
 ---
 I know when he's been on your mind
 That distant look is in your eyes

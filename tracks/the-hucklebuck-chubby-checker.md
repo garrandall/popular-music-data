@@ -1,8 +1,11 @@
 ---
+album: Let's Twist Again - 20 Twist & Limbo Hits
 artists:
 - Chubby Checker
+external_ids:
+  spotify: spotify:track:2vuOCp1BaJVeQ9bGz1plX2
 features: []
-genres: []
+first_released_as_single: false
 key: the-hucklebuck-chubby-checker
 lyrics_url: https://www.azlyrics.com/lyrics/chubbychecker/thehucklebuck.html
 name: The Hucklebuck
@@ -59,8 +62,9 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1961-01-02'
+release_year: 1960
+runtime: 148226
 ---
-
 Ah here's a dance you should know
 Ah baby when the lights are down low
 I say grab your baby then go
@@ -94,6 +98,3 @@ That's what you do when you do the Hucklebuck
 
 Here's a dance you should know
 ya ya ya ya when when the lights are down...
-
-
-

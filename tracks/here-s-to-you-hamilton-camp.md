@@ -1,8 +1,11 @@
 ---
+album: Here's To You
 artists:
 - Hamilton Camp
+external_ids:
+  spotify: spotify:track:4gSGdDflijQmFvBNdTTENk
 features: []
-genres: []
+first_released_as_single: false
 key: here-s-to-you-hamilton-camp
 lyrics_url: https://www.musixmatch.com/lyrics/Hamilton-Camp/Here-s-to-You
 name: Here's To You
@@ -27,6 +30,8 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1968-06-01'
+release_year: 1968
+runtime: 138533
 ---
 Ba da do bop ba da
 

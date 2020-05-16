@@ -1,8 +1,11 @@
 ---
+album: Into The Light
 artists:
 - Gloria Estefan
+external_ids:
+  spotify: spotify:track:0Fb6eQPsYcCABYtzDDymjE
 features: []
-genres: []
+first_released_as_single: false
 key: coming-out-of-the-dark-gloria-estefan
 lyrics_url: https://www.azlyrics.com/lyrics/gloriaestefan/comingoutofthedark.html
 name: Coming Out Of The Dark
@@ -83,8 +86,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1991-06-01'
+release_year: 1984
+runtime: 243933
 ---
-
 Why be afraid if I'm not alone
 Though life is never easy the rest is unknown
 Up to now for me it's been hands against stone
@@ -116,6 +120,3 @@ Coming out of the dark, I finally see the light now
 It's shining on me
 Coming out of the dark I know the love that saved me
 You're sharing with me
-
-
-

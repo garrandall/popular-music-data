@@ -1,8 +1,11 @@
 ---
+album: They Don't Know
 artists:
 - Jason Aldean
+external_ids:
+  spotify: spotify:track:3esPcn43N0CytAtcY9V30C
 features: []
-genres: []
+first_released_as_single: false
 key: a-little-more-summertime-jason-aldean
 lyrics_url: https://www.azlyrics.com/lyrics/jasonaldean/alittlemoresummertime.html
 name: A Little More Summertime
@@ -59,8 +62,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '2016-12-17'
+release_year: 2016
+runtime: 219546
 ---
-
 They're boarding up this water town
 Ain't nobody hanging 'round
 Another gray September day
@@ -88,6 +92,3 @@ Just a little more summertime
 If that sun would've just hung up in that sky just a little bit yeah just a little bit longer
 She might have stayed forever and never ever left these arms if only I
 Had a little more summertime
-
-
-

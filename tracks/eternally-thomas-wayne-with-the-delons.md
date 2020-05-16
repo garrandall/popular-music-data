@@ -1,6 +1,6 @@
 ---
 artists:
-- Thomas Wayne With the Delons
+- Thomas Wayne
 features: []
 genres: []
 key: eternally-thomas-wayne-with-the-delons

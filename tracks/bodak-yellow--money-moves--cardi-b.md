@@ -1,8 +1,11 @@
 ---
+album: Invasion of Privacy
 artists:
 - Cardi B
+external_ids:
+  spotify: spotify:track:1A8wl0pXbRvt3EAiOHROnt
 features: []
-genres: []
+first_released_as_single: true
 key: bodak-yellow--money-moves--cardi-b
 lyrics_url: https://genius.com/Cardi-b-bodak-yellow-lyrics
 name: Bodak Yellow (Money Moves)
@@ -147,6 +150,8 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '2018-03-10'
+release_year: 2017
+runtime: 222720
 ---
 KSR
 It's Cardi, ayy

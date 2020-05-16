@@ -1,9 +1,12 @@
 ---
+album: Culture
 artists:
 - Migos
+external_ids:
+  spotify: spotify:track:4ntxvAQ2V4ofKQB9XNVHqK
 features:
 - Gucci Mane
-genres: []
+first_released_as_single: false
 key: slippery-migos-gucci-mane
 lyrics_url: https://www.azlyrics.com/lyrics/migos/slippery.html
 name: Slippery
@@ -92,9 +95,9 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '2017-09-02'
+release_year: 2017
+runtime: 311593
 ---
-
-
 Pop a perky just to start up (pop it, pop it pop it)
 Two cups of purple just to warm up (two cups, drank)
 I heard your bitch she got that water
@@ -215,6 +218,3 @@ I'm up, oh, believe me, believe me (believe me)
 Get beat, 'cause I'm flexin' 'Raris (skrt)
 You can bet on me (skr, skr)
 Hey, hey, hey
-
-
-

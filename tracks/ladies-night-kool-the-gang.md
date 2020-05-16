@@ -1,9 +1,12 @@
 ---
+album: Ladies' Night
 artists:
 - Kool
 - The Gang
+external_ids:
+  spotify: spotify:track:2uKJxjqcFu2Pr2CEsGGYJa
 features: []
-genres: []
+first_released_as_single: false
 key: ladies-night-kool-the-gang
 lyrics_url: https://genius.com/Kool-and-the-gang-ladies-night-lyrics
 name: Ladies Night
@@ -104,6 +107,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1980-03-15'
+release_year: 1979
+runtime: 385506
 ---
 Mmm, oh yeah, oh what a night
 

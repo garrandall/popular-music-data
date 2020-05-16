@@ -1,8 +1,11 @@
 ---
+album: TNT
 artists:
 - Tanya Tucker
+external_ids:
+  spotify: spotify:track:3F83qFNqbwVaSe2VUDmBTb
 features: []
-genres: []
+first_released_as_single: false
 key: not-fade-away-tanya-tucker
 lyrics_url: https://genius.com/Tanya-tucker-not-fade-away-lyrics
 name: Not Fade Away
@@ -23,6 +26,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1979-02-10'
+release_year: 1978
+runtime: 244933
 ---
 I'm gonna say how it's gonna be you're gonna give your lovin' to me
 Love that lasts more than one day love is love and not fade away

@@ -1,8 +1,11 @@
 ---
+album: American Originals
 artists:
 - Charlie Rich
+external_ids:
+  spotify: spotify:track:3WziO3x5pQRrwgs3SbrayN
 features: []
-genres: []
+first_released_as_single: false
 key: my-elusive-dreams-charlie-rich
 lyrics_url: https://www.azlyrics.com/lyrics/charlierich/myelusivedreams.html
 name: My Elusive Dreams
@@ -31,8 +34,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1975-03-08'
+release_year: 1973
+runtime: 216533
 ---
-
 You followed me to Texas
 You followed me to Utah
 We didn't find it there
@@ -72,6 +76,3 @@ I know you're tired of following
 My elusive dreams and schemes
 For they're only fleeting things
 My elusive dreams
-
-
-

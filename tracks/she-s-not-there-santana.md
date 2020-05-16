@@ -1,8 +1,11 @@
 ---
+album: Moonflower
 artists:
 - Santana
+external_ids:
+  spotify: spotify:track:44JITu0xanJn3TLMQZJw0G
 features: []
-genres: []
+first_released_as_single: false
 key: she-s-not-there-santana
 lyrics_url: https://genius.com/Santana-shes-not-there-lyrics
 name: She's Not There
@@ -63,6 +66,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1978-01-07'
+release_year: 1977
+runtime: 249026
 ---
 No one told me about her
 The way she lied

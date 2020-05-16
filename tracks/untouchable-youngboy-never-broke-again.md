@@ -1,8 +1,11 @@
 ---
+album: AI YoungBoy
 artists:
 - YoungBoy Never Broke Again
+external_ids:
+  spotify: spotify:track:4MofYf0f4ijlVV6elUW5S3
 features: []
-genres: []
+first_released_as_single: true
 key: untouchable-youngboy-never-broke-again
 lyrics_url: https://genius.com/Youngboy-never-broke-again-untouchable-lyrics
 name: Untouchable
@@ -15,6 +18,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2017-09-09'
+release_year: 2017
+runtime: 180705
 ---
 I remember I wanted for to quit for so many times
 But I knew this moment'd come, now it's my time

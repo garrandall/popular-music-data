@@ -1,8 +1,11 @@
 ---
+album: Danny Boy
 artists:
 - Andy Williams
+external_ids:
+  spotify: spotify:track:1FDs8eUhsrCZjAQUAbLbOj
 features: []
-genres: []
+first_released_as_single: false
 key: danny-boy-andy-williams
 lyrics_url: https://genius.com/Andy-williams-danny-boy-lyrics
 name: Danny Boy
@@ -31,6 +34,8 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1961-12-04'
+release_year: 1961
+runtime: 174266
 ---
 Oh Danny Boy, the pipes, the pipes are calling
 From glen to glen and down the mountain side

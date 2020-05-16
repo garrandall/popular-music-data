@@ -1,8 +1,11 @@
 ---
+album: Time Well Wasted
 artists:
 - Brad Paisley
+external_ids:
+  spotify: spotify:track:3dAgQFdruU8ufWc5GE05xC
 features: []
-genres: []
+first_released_as_single: false
 key: she-s-everything-brad-paisley
 lyrics_url: https://genius.com/Brad-paisley-shes-everything-lyrics
 name: She's Everything
@@ -87,6 +90,8 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '2007-03-03'
+release_year: 2005
+runtime: 266920
 ---
 She's a yellow pair of running shoes
 A holey pair of jeans

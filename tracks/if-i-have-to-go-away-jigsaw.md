@@ -1,8 +1,11 @@
 ---
+album: Anthology
 artists:
 - Jigsaw
+external_ids:
+  spotify: spotify:track:6weBAtAtzeRjDTQgjYBrt6
 features: []
-genres: []
+first_released_as_single: false
 key: if-i-have-to-go-away-jigsaw
 lyrics_url: https://www.azlyrics.com/lyrics/jigsaw/ifihavetogoaway.html
 name: If I Have To Go Away
@@ -23,8 +26,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1977-09-17'
+release_year: 1975
+runtime: 187320
 ---
-
 Here I am with my head in my hands
 With a tear each day of the year
 This is not, not at all what I planned (what I planned)
@@ -57,6 +61,3 @@ How I loved and lost the thing I wanted most
 If I have to go away (if I have to go away)
 There'll be time enough to say
 Why I ruined a good thing
-
-
-

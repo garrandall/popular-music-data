@@ -1,9 +1,12 @@
 ---
+album: Red Dirt Road
 artists:
 - Brooks
 - Dunn
+external_ids:
+  spotify: spotify:track:09tPoGJSkHpfxfkBSDSUsV
 features: []
-genres: []
+first_released_as_single: false
 key: that-s-what-she-gets-for-loving-me-brooks-dunn
 lyrics_url: https://www.azlyrics.com/lyrics/brooksdunn/thatswhatshegetsforlovingme.html
 name: That's What She Gets For Loving Me
@@ -64,8 +67,9 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '2004-07-10'
+release_year: 2003
+runtime: 177733
 ---
-
 She said what she wants is a man to be faithful
 A true heart somebody willin' and able
 To stay by her side through thick and thin
@@ -92,4 +96,3 @@ Whatever turns her on
 I'm here to do it
 Till the day they write my name in stone
 I'll live to prove it
-

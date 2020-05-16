@@ -1,8 +1,11 @@
 ---
+album: '21st Century Hits: Best of 2000 - 2012'
 artists:
 - Dwight Yoakam
+external_ids:
+  spotify: spotify:track:2kPhndhmpESYhoFTvpAIQU
 features: []
-genres: []
+first_released_as_single: false
 key: crazy-little-thing-called-love-dwight-yoakam
 lyrics_url: https://genius.com/Dwight-yoakam-crazy-little-thing-called-love-lyrics
 name: Crazy Little Thing Called Love
@@ -47,6 +50,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1999-08-21'
+release_year: 1999
+runtime: 142173
 ---
 This thing called love, I just can't handle it
 This thing called love, I must get 'round to it

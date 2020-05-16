@@ -1,8 +1,11 @@
 ---
+album: The Firm
 artists:
 - The Firm
+external_ids:
+  spotify: spotify:track:2tHA8Z3oj4KUwqkJr6HfqD
 features: []
-genres: []
+first_released_as_single: false
 key: satisfaction-guaranteed-the-firm
 lyrics_url: https://www.azlyrics.com/lyrics/firmrock/satisfactionguaranteed.html
 name: Satisfaction Guaranteed
@@ -27,8 +30,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1985-06-01'
+release_year: 1985
+runtime: 250440
 ---
-
 Mystery surrounds me and I wonder where I'm going
 There's a cloud above me and it seems to hide the way
 I'm going straight ahead 'cause it's the only way I know
@@ -66,6 +70,3 @@ What kind of satisfaction guaranteed
 
 Tell me, baby, tell me, baby, tell me, baby, do you need my love
 Now that I'm here, yeah, do you need, do you need my love
-
-
-

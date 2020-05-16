@@ -1,8 +1,11 @@
 ---
+album: Like It's Christmas
 artists:
 - Jonas Brothers
+external_ids:
+  spotify: spotify:track:1OjmlSFuzYflWjSMTCyTJv
 features: []
-genres: []
+first_released_as_single: true
 key: like-it-s-christmas-jonas-brothers
 lyrics_url: https://www.azlyrics.com/lyrics/jonasbrothers/likeitschristmas.html
 name: Like It's Christmas
@@ -23,8 +26,9 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '2020-01-04'
+release_year: 2019
+runtime: 200880
 ---
-
 The snow on the ground
 The love in the air
 The sleigh-bells are ringing
@@ -89,6 +93,3 @@ Every day that I'm with you
 Every day that I'm with you
 (Oh uh-oh, oh uh-oh, oh uh-oh)
 Every day that I'm with you
-
-
-

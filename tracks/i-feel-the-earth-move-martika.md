@@ -1,8 +1,11 @@
 ---
+album: Martika
 artists:
 - Martika
+external_ids:
+  spotify: spotify:track:1e6GFjm3eYtcnMg4akp6ze
 features: []
-genres: []
+first_released_as_single: false
 key: i-feel-the-earth-move-martika
 lyrics_url: https://www.azlyrics.com/lyrics/martika/ifeeltheearthmove.html
 name: I Feel The Earth Move
@@ -51,8 +54,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1989-11-11'
+release_year: 1988
+runtime: 252933
 ---
-
 Oh baby when I see your face
 Mellow as the month of May
 Oh darling I can't stand it
@@ -74,6 +78,3 @@ I feel the earth move under my feet
 I feel the sky tumbling down tumbling down
 I feel my heart start to trembling
 Whenever you're around
-
-
-

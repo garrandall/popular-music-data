@@ -1,9 +1,12 @@
 ---
+album: The Album About Nothing
 artists:
 - Wale
+external_ids:
+  spotify: spotify:track:4JSzFJGovBcmr2y1sj7SR7
 features:
 - Jeremih
-genres: []
+first_released_as_single: true
 key: the-body-wale-jeremih
 lyrics_url: https://www.azlyrics.com/lyrics/wale/thebody.html
 name: The Body
@@ -32,9 +35,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2015-03-07'
+release_year: 2014
+runtime: 232661
 ---
-
-
 Baby, you got a body like a Benz
 And I'm just trying to drive it once again
 Baby, you got a body like a Benz
@@ -117,6 +120,3 @@ Baby, you got a body like a Benz
 And I'm just trying to drive it once again
 Baby, you got a body like a Benz
 And I'm just trying to drive it once again
-
-
-

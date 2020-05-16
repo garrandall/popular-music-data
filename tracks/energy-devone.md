@@ -1,8 +1,11 @@
 ---
+album: Death All over Me
 artists:
 - Devone
+external_ids:
+  spotify: spotify:track:67ce4ijDUFO9MGi9QY6Cfs
 features: []
-genres: []
+first_released_as_single: false
 key: energy-devone
 name: Energy
 rankings:
@@ -42,5 +45,7 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1996-03-16'
+release_year: 1996
+runtime: 221572
 ---
 

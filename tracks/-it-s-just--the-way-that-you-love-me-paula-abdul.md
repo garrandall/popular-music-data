@@ -1,8 +1,11 @@
 ---
+album: Forever Your Girl
 artists:
 - Paula Abdul
+external_ids:
+  spotify: spotify:track:57ysLbmFhxX9WL9e5QTAmz
 features: []
-genres: []
+first_released_as_single: false
 key: -it-s-just--the-way-that-you-love-me-paula-abdul
 lyrics_url: https://www.azlyrics.com/lyrics/paulaabdul/thewaythatyouloveme.html
 name: (It's Just) The Way That You Love Me
@@ -107,8 +110,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1990-02-03'
+release_year: 1988
+runtime: 322666
 ---
-
 The way that you love me
 The way that you love me
 The way that you love me
@@ -218,6 +222,3 @@ Watch me dancing
 Watch me dancing
 I'm watching your, girl
 Watch me dancing
-
-
-

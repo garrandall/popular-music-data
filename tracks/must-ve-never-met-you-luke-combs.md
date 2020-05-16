@@ -1,8 +1,11 @@
 ---
+album: This One's for You Too
 artists:
 - Luke Combs
+external_ids:
+  spotify: spotify:track:6ojicjDYUUoeE1tdSvfFo4
 features: []
-genres: []
+first_released_as_single: false
 key: must-ve-never-met-you-luke-combs
 lyrics_url: https://genius.com/Luke-combs-mustve-never-met-you-lyrics
 name: Must've Never Met You
@@ -11,6 +14,8 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '2018-06-16'
+release_year: 2018
+runtime: 198880
 ---
 Just pick yourself up, dust yourself off, they say it ain't that hard
 But just puttin' one foot in front of the other ain't gettin' me too far

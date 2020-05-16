@@ -1,8 +1,11 @@
 ---
+album: Amerikaz Nightmare
 artists:
 - Mobb Deep
+external_ids:
+  spotify: spotify:track:3ynOspcx8fp27eN8EeBEVH
 features: []
-genres: []
+first_released_as_single: false
 key: got-it-twisted-mobb-deep
 lyrics_url: https://www.musixmatch.com/lyrics/Mobb-Deep/Got-It-Twisted
 name: Got It Twisted
@@ -87,6 +90,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2004-08-28'
+release_year: 1993
+runtime: 218640
 ---
 M.O.B.B. nigga yeah ahuh
 Ugh yeah cmon now yeah yo yo

@@ -1,8 +1,11 @@
 ---
+album: Going Solo with Steve Lawrence
 artists:
 - Steve Lawrence
+external_ids:
+  spotify: spotify:track:5ewcbH8HRUcbDD0UsXa9by
 features: []
-genres: []
+first_released_as_single: false
 key: go-away-little-girl-steve-lawrence
 lyrics_url: https://genius.com/Steve-lawrence-go-away-little-girl-lyrics
 name: Go Away Little Girl
@@ -75,6 +78,8 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '1963-03-02'
+release_year: 1962
+runtime: 131265
 ---
 Go away, little girl, go away, little girl
 I'm not supposed to be alone with you

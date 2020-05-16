@@ -1,8 +1,11 @@
 ---
+album: Living Eyes
 artists:
 - Bee Gees
+external_ids:
+  spotify: spotify:track:4PHld19cwLHcLCKMmBsSB1
 features: []
-genres: []
+first_released_as_single: false
 key: living-eyes-bee-gees
 lyrics_url: https://genius.com/Bee-gees-living-eyes-lyrics
 name: Living Eyes
@@ -47,6 +50,8 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1982-01-09'
+release_year: 1981
+runtime: 260733
 ---
 Would you believe me if I told you your tomorrow is my yesterday
 But be alive

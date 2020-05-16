@@ -1,8 +1,11 @@
 ---
+album: Since I Fell For You
 artists:
 - The Dells
+external_ids:
+  spotify: spotify:track:5gzvMkVATJt5XmrVq3HzUT
 features: []
-genres: []
+first_released_as_single: false
 key: oh-what-a-day-the-dells
 lyrics_url: https://genius.com/The-dells-oh-what-a-day-lyrics
 name: Oh What A Day
@@ -39,6 +42,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1970-03-14'
+release_year: 1970
+runtime: 168600
 ---
 What a day
 Everything's going my way

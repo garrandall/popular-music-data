@@ -1,8 +1,11 @@
 ---
+album: Doin' My Thing
 artists:
 - Luke Bryan
+external_ids:
+  spotify: spotify:track:7DkzLcSXS4KhSvbvIJja3M
 features: []
-genres: []
+first_released_as_single: false
 key: someone-else-calling-you-baby-luke-bryan
 lyrics_url: https://www.azlyrics.com/lyrics/lukebryan/someoneelsecallingyoubaby.html
 name: Someone Else Calling You Baby
@@ -87,8 +90,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2011-03-26'
+release_year: 2009
+runtime: 229253
 ---
-
 I saw a truck backin' out of your drive
 You were sitting in the passenger side
 Messin' with the radio, you had your sun glasses on
@@ -134,6 +138,3 @@ Is someone else calling you baby?
 No, don't try to save me
 Is someone else calling you baby?
 Is someone else calling you baby?
-
-
-

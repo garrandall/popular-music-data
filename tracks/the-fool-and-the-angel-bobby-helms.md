@@ -1,8 +1,11 @@
 ---
+album: Bobby Helms
 artists:
 - Bobby Helms
+external_ids:
+  spotify: spotify:track:5t6jqtZ0cBwdBC36VMtdej
 features: []
-genres: []
+first_released_as_single: false
 key: the-fool-and-the-angel-bobby-helms
 lyrics_url: https://www.azlyrics.com/lyrics/bobbyhelms/thefoolandtheangel.html
 name: The Fool And The Angel
@@ -31,8 +34,9 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1959-01-12'
+release_year: 1958
+runtime: 145560
 ---
-
 (Here is the story of the fool and the angel)
 
 The fool and the angel once fell in love
@@ -57,6 +61,3 @@ The fool finds his angel again
 
 But always there's spark of hope remain
 The fool finds his angel again
-
-
-

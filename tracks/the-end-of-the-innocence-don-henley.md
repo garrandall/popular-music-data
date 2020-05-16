@@ -1,8 +1,11 @@
 ---
+album: The End Of The Innocence
 artists:
 - Don Henley
+external_ids:
+  spotify: spotify:track:3NWcFiL6oCEagrFiTdDr1m
 features: []
-genres: []
+first_released_as_single: false
 key: the-end-of-the-innocence-don-henley
 lyrics_url: https://www.azlyrics.com/lyrics/donhenley/theendoftheinnocence.html
 name: The End Of The Innocence
@@ -79,8 +82,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1989-10-21'
+release_year: 1989
+runtime: 315306
 ---
-
 Remember when the days were long
 And rolled beneath a deep blue sky
 Didn't have a care in the world
@@ -133,6 +137,3 @@ And let your hair fall all around me
 Offer up your best defense
 But this is the end
 This is the end of the innocence
-
-
-

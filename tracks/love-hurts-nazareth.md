@@ -1,8 +1,11 @@
 ---
+album: Hair Of The Dog
 artists:
 - Nazareth
+external_ids:
+  spotify: spotify:track:1i5oEx2vFczQ2sCY3c6Kn5
 features: []
-genres: []
+first_released_as_single: false
 key: love-hurts-nazareth
 lyrics_url: https://www.azlyrics.com/lyrics/nazareth/lovehurts.html
 name: Love Hurts
@@ -99,8 +102,9 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '1976-04-24'
+release_year: 1975
+runtime: 233133
 ---
-
 Love hurts, love scars, love wounds
 And marks, any heart
 Not tough or strong enough
@@ -135,6 +139,3 @@ Love hurts... oh oohove hurts
 Oh ohlove hurts
 
 Oh oh
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Union Jacks
 artists:
 - The Babys
+external_ids:
+  spotify: spotify:track:4z46WAT4qWzJ6wI9eZDAaK
 features: []
-genres: []
+first_released_as_single: false
 key: midnight-rendezvous-the-babys
 lyrics_url: https://www.azlyrics.com/lyrics/babys/midnightrendezvous.html
 name: Midnight Rendezvous
@@ -23,8 +26,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1980-05-24'
+release_year: 1980
+runtime: 216053
 ---
-
 Driving faster than you want me to
 Can't help myself when I'm alone with you
 All right
@@ -81,6 +85,3 @@ All I really wanna do
 Oh I really wanna fuck you
 Oh
 Midnight rendezvous
-
-
-

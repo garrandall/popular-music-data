@@ -1,8 +1,11 @@
 ---
+album: Sophisticated Soul
 artists:
 - The Marvelettes
+external_ids:
+  spotify: spotify:track:1CmylxKewaz3wVVgYcPzmb
 features: []
-genres: []
+first_released_as_single: false
 key: my-baby-must-be-a-magician-the-marvelettes
 lyrics_url: https://www.azlyrics.com/lyrics/marvelettes/mybabymustbeamagician.html
 name: My Baby Must Be A Magician
@@ -51,8 +54,9 @@ rankings:
   rank: 33
   ranking_list: Billboard Hot 100
   start_date: '1968-02-24'
+release_year: 1967
+runtime: 155893
 ---
-
 You are under my power
 It is the power of love
 
@@ -96,6 +100,3 @@ Oh my baby must be a magician
 'Cause he's sure got the magic touch
 Say my baby must be a magician
 'Cause he's sure got the magic touch
-
-
-

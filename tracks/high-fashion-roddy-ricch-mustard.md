@@ -1,9 +1,12 @@
 ---
+album: Please Excuse Me For Being Antisocial
 artists:
 - Roddy Ricch
+external_ids:
+  spotify: spotify:track:07KXEDMj78x68D884wgVEm
 features:
 - Mustard
-genres: []
+first_released_as_single: false
 key: high-fashion-roddy-ricch-mustard
 lyrics_url: https://www.azlyrics.com/lyrics/roddyricch/highfashion.html
 name: High Fashion
@@ -52,8 +55,9 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '2020-03-21'
+release_year: 2019
+runtime: 220486
 ---
-
 Mustard on the beat, ho
 
 Shawty made that ass clap, she don't need no applause
@@ -129,6 +133,3 @@ But let me tell you, I like you a lot, bae
 I wanna start at the top and the bottom, bae
 Know you want the shoe with the red on the bottom, bae
 You know I like when you ride at the top, bae
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: KIDS SEE GHOSTS
 artists:
 - KIDS SEE GHOSTS
+external_ids:
+  spotify: spotify:track:4kUZvXB3LC3an3HX6h0s17
 features: []
-genres: []
+first_released_as_single: false
 key: cudi-montage-kids-see-ghosts
 lyrics_url: https://genius.com/Kids-see-ghosts-cudi-montage-lyrics
 name: Cudi Montage
@@ -11,6 +14,8 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '2018-06-23'
+release_year: 2018
+runtime: 197000
 ---
 Find my back in the cold, trapped in another soul, they can hear me holler
 I'm caught in it again, see 'em all strapped in and can't move and I'm sinkin' lower

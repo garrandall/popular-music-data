@@ -1,8 +1,11 @@
 ---
+album: Sick Boy
 artists:
 - The Chainsmokers
+external_ids:
+  spotify: spotify:track:42ZPwraf4eA3q5Fqtdacjr
 features: []
-genres: []
+first_released_as_single: true
 key: sick-boy-the-chainsmokers
 lyrics_url: https://genius.com/The-chainsmokers-sick-boy-lyrics
 name: Sick Boy
@@ -19,6 +22,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2018-02-17'
+release_year: 2018
+runtime: 224746
 ---
 I'm from the east side of America
 Where we choose pride over character

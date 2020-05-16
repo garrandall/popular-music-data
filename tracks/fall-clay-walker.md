@@ -1,8 +1,11 @@
 ---
+album: Fall
 artists:
 - Clay Walker
+external_ids:
+  spotify: spotify:track:5Hd0J6dWz0jqgRDJoRpOdc
 features: []
-genres: []
+first_released_as_single: false
 key: fall-clay-walker
 lyrics_url: https://www.musixmatch.com/lyrics/Clay-Walker/Fall
 name: Fall
@@ -79,6 +82,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2008-01-19'
+release_year: 2007
+runtime: 217080
 ---
 Oh look there you go again
 Puttin on that smile again
@@ -111,4 +116,3 @@ Hold on
 Hold on
 Hold on
 To me
-

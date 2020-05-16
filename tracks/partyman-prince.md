@@ -1,8 +1,11 @@
 ---
+album: Batman
 artists:
 - Prince
+external_ids:
+  spotify: spotify:track:1Wn5LO7y9CLW0lHf2hNt8k
 features: []
-genres: []
+first_released_as_single: false
 key: partyman-prince
 lyrics_url: https://www.azlyrics.com/lyrics/prince/partyman.html
 name: Partyman
@@ -47,8 +50,9 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1989-10-28'
+release_year: 1989
+runtime: 191560
 ---
-
 "Gentlemen, let's broaden our minds!
 Lawrence..."
 
@@ -99,6 +103,3 @@ Partyman, partyman
 
 Young and old, gather 'round
 Everybody hail the new king in town
-
-
-

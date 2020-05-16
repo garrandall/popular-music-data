@@ -1,8 +1,11 @@
 ---
+album: Destroyer
 artists:
 - KISS
+external_ids:
+  spotify: spotify:track:3qyHjQ1zTLvPeA99CP3K9N
 features: []
-genres: []
+first_released_as_single: false
 key: shout-it-out-loud-kiss
 lyrics_url: https://genius.com/Kiss-shout-it-out-loud-lyrics
 name: Shout It Out Loud
@@ -67,6 +70,8 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '1978-02-18'
+release_year: 1976
+runtime: 169026
 ---
 Well, the night's begun, and you want some fun
 Do you think you're gonna find it (Think you're gonna find it)

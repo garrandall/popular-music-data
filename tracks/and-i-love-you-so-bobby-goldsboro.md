@@ -1,8 +1,11 @@
 ---
+album: The Very Best Of Bobby Goldsboro
 artists:
 - Bobby Goldsboro
+external_ids:
+  spotify: spotify:track:2lFH40ztoHpkyY8GPojuA9
 features: []
-genres: []
+first_released_as_single: false
 key: and-i-love-you-so-bobby-goldsboro
 lyrics_url: https://www.azlyrics.com/lyrics/bobbygoldsboro/andiloveyouso.html
 name: And I Love You So
@@ -31,8 +34,9 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1971-06-12'
+release_year: 1971
+runtime: 184040
 ---
-
 And I love you so
 The people ask me how
 How I've lived till now
@@ -61,6 +65,3 @@ The shadows follow me
 And night won't set me free
 But I don't let the evening get me down
 Now that's you're around me
-
-
-

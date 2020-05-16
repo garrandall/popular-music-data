@@ -1,8 +1,11 @@
 ---
+album: The Rubinoos
 artists:
 - The Rubinoos
+external_ids:
+  spotify: spotify:track:0C0P6Np3zFzSjL3OgxpxG6
 features: []
-genres: []
+first_released_as_single: false
 key: i-think-we-re-alone-now-the-rubinoos
 lyrics_url: https://genius.com/The-rubinoos-i-think-were-alone-now-lyrics
 name: I Think We're Alone Now
@@ -55,6 +58,8 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1977-05-21'
+release_year: 1977
+runtime: 177146
 ---
 Cordell-Gentry
 

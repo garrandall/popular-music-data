@@ -1,8 +1,11 @@
 ---
+album: The Best Of Jimmie Rodgers
 artists:
 - Jimmie Rodgers
+external_ids:
+  spotify: spotify:track:4jDVGv8E9MWWcVJJPl22t3
 features: []
-genres: []
+first_released_as_single: false
 key: secretly-jimmie-rodgers
 lyrics_url: https://www.musixmatch.com/lyrics/Jimmie-Rodgers/Secretly
 name: Secretly
@@ -19,6 +22,8 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1958-08-18'
+release_year: 1958
+runtime: 157866
 ---
 Why must I meet you in a secret rendezvous?
 Why must we steal away to steal a kiss or two?

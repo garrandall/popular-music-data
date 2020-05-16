@@ -1,8 +1,11 @@
 ---
+album: When Disaster Strikes
 artists:
 - Busta Rhymes
+external_ids:
+  spotify: spotify:track:2cZuNzaAGNFozlZTxSDU1g
 features: []
-genres: []
+first_released_as_single: false
 key: dangerous-busta-rhymes
 lyrics_url: https://genius.com/Busta-rhymes-dangerous-lyrics
 name: Dangerous
@@ -83,6 +86,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1998-05-16'
+release_year: 1997
+runtime: 217640
 ---
 Hey, another one of them Flipmode joints
 Busta Rhymes y'all, word mother y'all, check it out y'all

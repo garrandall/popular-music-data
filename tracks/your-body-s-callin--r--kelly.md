@@ -1,8 +1,11 @@
 ---
+album: 12 Play
 artists:
 - R. Kelly
+external_ids:
+  spotify: spotify:track:4iXZFxEUzTTLMLE5jCyKEb
 features: []
-genres: []
+first_released_as_single: false
 key: your-body-s-callin--r--kelly
 lyrics_url: https://genius.com/R-kelly-your-bodys-callin-lyrics
 name: Your Body's Callin'
@@ -87,6 +90,8 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1994-09-24'
+release_year: 1993
+runtime: 277493
 ---
 Yeah, girl, I don't want you to hold back any longer, baby
 'Cause tonight, I'm gonna give you all the things

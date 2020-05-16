@@ -1,8 +1,11 @@
 ---
+album: The In Crowd
 artists:
 - Ramsey Lewis Trio
+external_ids:
+  spotify: spotify:track:3l2pObHGPzGmgRWDlAbUJN
 features: []
-genres: []
+first_released_as_single: false
 key: the--in--crowd-ramsey-lewis-trio
 name: The "In" Crowd
 rankings:
@@ -70,5 +73,7 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '1965-11-13'
+release_year: 1965
+runtime: 351426
 ---
 

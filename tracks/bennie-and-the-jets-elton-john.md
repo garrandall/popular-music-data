@@ -1,8 +1,11 @@
 ---
+album: Goodbye Yellow Brick Road
 artists:
 - Elton John
+external_ids:
+  spotify: spotify:track:5Wj1rJnCLpMHdLaxsFtJLs
 features: []
-genres: []
+first_released_as_single: false
 key: bennie-and-the-jets-elton-john
 lyrics_url: https://genius.com/Elton-john-bennie-and-the-jets-lyrics
 name: Bennie And The Jets
@@ -79,6 +82,8 @@ rankings:
   rank: 38
   ranking_list: Billboard Hot 100
   start_date: '1974-06-15'
+release_year: 1973
+runtime: 322548
 ---
 Hey kids, shake it loose together
 The spotlight's hitting something

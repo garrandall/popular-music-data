@@ -1,8 +1,11 @@
 ---
+album: Crimson & Clover
 artists:
 - Tommy James And The Shondells
+external_ids:
+  spotify: spotify:track:5sOeJlcVO4oEYR3QKzbJmO
 features: []
-genres: []
+first_released_as_single: false
 key: do-something-to-me-tommy-james-and-the-shondells
 lyrics_url: https://genius.com/Tommy-james-and-the-shondells-do-something-to-me-lyrics
 name: Do Something To Me
@@ -43,6 +46,8 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '1968-12-07'
+release_year: 1968
+runtime: 198973
 ---
 Do something to me, I've got to find love in a hurry
 C'mon, do something to me, help me to ease all the worry

@@ -1,8 +1,11 @@
 ---
+album: SR3MM
 artists:
 - Rae Sremmurd
+external_ids:
+  spotify: spotify:track:2wTc9GOvV9Vbp6MEGlhdoA
 features: []
-genres: []
+first_released_as_single: false
 key: perplexing-pegasus-rae-sremmurd
 lyrics_url: https://genius.com/Rae-sremmurd-perplexing-pegasus-lyrics
 name: Perplexing Pegasus
@@ -19,6 +22,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2017-09-09'
+release_year: 2017
+runtime: 204787
 ---
 Ear Drummers
 Mike WiLL Made-It

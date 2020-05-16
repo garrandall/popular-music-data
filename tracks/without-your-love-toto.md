@@ -1,8 +1,11 @@
 ---
+album: Fahrenheit
 artists:
 - Toto
+external_ids:
+  spotify: spotify:track:5aXXQImc2wqmOcWOpXcYPW
 features: []
-genres: []
+first_released_as_single: false
 key: without-your-love-toto
 lyrics_url: https://www.azlyrics.com/lyrics/toto/withoutyourlove.html
 name: Without Your Love
@@ -51,8 +54,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1987-03-07'
+release_year: 1986
+runtime: 272506
 ---
-
 It's late at night, nothin's feelin' right
 Since you've gone away
 I think I know why you left this time,
@@ -104,6 +108,3 @@ Every night, every day, every night
 It's not the same without your love
 It's not the same without your love
 It's not the same without your love
-
-
-

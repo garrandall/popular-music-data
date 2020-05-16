@@ -1,8 +1,11 @@
 ---
+album: Wow !
 artists:
 - Bananarama
+external_ids:
+  spotify: spotify:track:7yPwc5aPWLWjO37iAey7Ww
 features: []
-genres: []
+first_released_as_single: false
 key: i-heard-a-rumour-bananarama
 lyrics_url: https://www.azlyrics.com/lyrics/bananarama/iheardarumour.html
 name: I Heard A Rumour
@@ -83,8 +86,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1987-11-21'
+release_year: 1987
+runtime: 204335
 ---
-
 Who needs friends who never show
 I'll tell you what you want to know
 I could have saved a broken heart
@@ -126,6 +130,3 @@ I heard it,
 I heard a rumour
 Oh, oh I heard a rumour
 Yes I did, boy oh oohohoh
-
-
-

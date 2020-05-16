@@ -1,8 +1,11 @@
 ---
+album: Twang
 artists:
 - George Strait
+external_ids:
+  spotify: spotify:track:1BWBhzWgIL1eyNU02FfmVX
 features: []
-genres: []
+first_released_as_single: false
 key: living-for-the-night-george-strait
 lyrics_url: https://www.azlyrics.com/lyrics/georgestrait/livingforthenight.html
 name: Living For The Night
@@ -75,6 +78,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2009-10-17'
+release_year: 2009
+runtime: 221773
 ---
 Everyday is a lifetime without you
 Hard to get through, since you’ve gone

@@ -1,8 +1,11 @@
 ---
+album: Golden Hits
 artists:
 - Patti Page
+external_ids:
+  spotify: spotify:track:5NNWaoDK2tAuMg20tU4sZS
 features: []
-genres: []
+first_released_as_single: false
 key: with-my-eyes-wide-open-i-m-dreaming-patti-page
 lyrics_url: https://genius.com/Patti-page-with-my-eyes-wide-open-im-dreaming-lyrics
 name: With My Eyes Wide Open I'm Dreaming
@@ -35,6 +38,8 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '1959-07-27'
+release_year: 1959
+runtime: 191733
 ---
 With my eyes wide open I'm dreaming
 Can it be true I'm holding you close to my heart?

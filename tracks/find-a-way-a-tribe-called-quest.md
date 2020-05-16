@@ -1,8 +1,11 @@
 ---
+album: The Love Movement
 artists:
 - A Tribe Called Quest
+external_ids:
+  spotify: spotify:track:2MAaiV0bbeq4FpSwPe2rR8
 features: []
-genres: []
+first_released_as_single: false
 key: find-a-way-a-tribe-called-quest
 lyrics_url: https://genius.com/A-tribe-called-quest-find-a-way-lyrics
 name: Find A Way
@@ -35,6 +38,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1998-10-24'
+release_year: 1998
+runtime: 203066
 ---
 Now you caught my heart for the evening
 Kissed my cheek, moved in, you confuse things

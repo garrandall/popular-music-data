@@ -1,9 +1,12 @@
 ---
+album: Time Served
 artists:
 - Moneybagg Yo
+external_ids:
+  spotify: spotify:track:0Pqix0NTfbuROfPbaZbBgp
 features:
 - DaBaby
-genres: []
+first_released_as_single: false
 key: protect-da-brand-moneybagg-yo-dababy
 lyrics_url: https://www.azlyrics.com/lyrics/moneybaggyo/protectdabrand.html
 name: Protect da Brand
@@ -12,8 +15,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2020-01-25'
+release_year: 2020
+runtime: 180020
 ---
-
 Yeah
 
 
@@ -116,6 +120,3 @@ For protecting the brand (Said what I said)
 Just protecting the brand (Hey)
 
 Turn me up, YC (Turn me up, YC, turn me up, YC)
-
-
-

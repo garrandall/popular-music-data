@@ -1,8 +1,11 @@
 ---
+album: Symphonica (Deluxe Version)
 artists:
 - George Michael
+external_ids:
+  spotify: spotify:track:6yLZc9Tmei7eDX4Z62x4bW
 features: []
-genres: []
+first_released_as_single: false
 key: praying-for-time-george-michael
 lyrics_url: https://genius.com/George-michael-praying-for-time-lyrics
 name: Praying For Time
@@ -63,6 +66,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1990-12-01'
+release_year: 1990
+runtime: 281333
 ---
 These are the days of the open hand, they will not be the last
 Look around now

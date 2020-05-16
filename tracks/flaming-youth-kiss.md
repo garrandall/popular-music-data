@@ -1,8 +1,11 @@
 ---
+album: Destroyer
 artists:
 - KISS
+external_ids:
+  spotify: spotify:track:0BrD1dIqDRCGcOxLVJQfZ8
 features: []
-genres: []
+first_released_as_single: false
 key: flaming-youth-kiss
 lyrics_url: https://genius.com/Kiss-flaming-youth-lyrics
 name: Flaming Youth
@@ -19,6 +22,8 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '1976-06-19'
+release_year: 1976
+runtime: 178933
 ---
 Oh yeah
 

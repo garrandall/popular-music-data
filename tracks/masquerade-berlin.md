@@ -1,8 +1,11 @@
 ---
+album: Pleasure Victim
 artists:
 - Berlin
+external_ids:
+  spotify: spotify:track:5a1fGiptLjHn2L3qDFqzzy
 features: []
-genres: []
+first_released_as_single: false
 key: masquerade-berlin
 lyrics_url: https://www.azlyrics.com/lyrics/berlin/masquerade.html
 name: Masquerade
@@ -19,8 +22,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1983-10-08'
+release_year: 1982
+runtime: 248106
 ---
-
 The painted faces on the street
 Caricatures of long ago
 Oh they were young and oh so sweet
@@ -55,6 +59,3 @@ Frantic puppets on a string
 And all the while the music sings
 And still sometimes remember
 The masquerade's forever
-
-
-

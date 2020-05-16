@@ -1,8 +1,11 @@
 ---
+album: DAMN.
 artists:
 - Kendrick Lamar
+external_ids:
+  spotify: spotify:track:4DweppOsxdT0mhBSHgj11N
 features: []
-genres: []
+first_released_as_single: false
 key: feel-kendrick-lamar
 lyrics_url: https://genius.com/Kendrick-lamar-feel-lyrics
 name: Feel
@@ -15,6 +18,8 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '2017-05-13'
+release_year: 2017
+runtime: 214826
 ---
 Ain't nobody prayin' for me
 (Ain't nobody prayin' for me)

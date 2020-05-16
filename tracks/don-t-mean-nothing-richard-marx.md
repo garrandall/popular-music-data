@@ -1,8 +1,11 @@
 ---
+album: Richard Marx
 artists:
 - Richard Marx
+external_ids:
+  spotify: spotify:track:4ujVRZd9HdjepbpWSddABF
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-mean-nothing-richard-marx
 lyrics_url: https://genius.com/Richard-marx-dont-mean-nothing-lyrics
 name: Don't Mean Nothing
@@ -91,6 +94,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1987-10-31'
+release_year: 1987
+runtime: 281533
 ---
 Welcome to the big time, you're bound to be a star
 Even if you don't go all the way, I know that you'll go far

@@ -1,9 +1,12 @@
 ---
+album: Tha Carter V
 artists:
 - Lil Wayne
+external_ids:
+  spotify: spotify:track:0rYLLUrsfCsTaH1ir5TD5p
 features:
 - Reginae Carter
-genres: []
+first_released_as_single: false
 key: famous-lil-wayne-reginae-carter
 lyrics_url: https://www.azlyrics.com/lyrics/lilwayne/famous704409.html
 name: Famous
@@ -12,9 +15,9 @@ rankings:
   rank: 36
   ranking_list: Billboard Hot 100
   start_date: '2018-10-13'
+release_year: 2018
+runtime: 242050
 ---
-
-
 Welcome to your name in lights
 All the lighters in the sky (yeah)
 You must be famous
@@ -100,6 +103,3 @@ You must be famous, famous
 
 I'ma be on the TV, mama
 Kiss my motherfuckin' ass
-
-
-

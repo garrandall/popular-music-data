@@ -1,8 +1,11 @@
 ---
+album: Main Course
 artists:
 - Bee Gees
+external_ids:
+  spotify: spotify:track:4t0Pj3iBnSCZv5pDEPNmzG
 features: []
-genres: []
+first_released_as_single: false
 key: night-fever-bee-gees
 lyrics_url: https://www.azlyrics.com/lyrics/beegees/nightfever.html
 name: Night Fever
@@ -87,8 +90,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1978-06-17'
+release_year: 1975
+runtime: 222266
 ---
-
 Listen to the ground:
 There is movement all around.
 There is something goin' down
@@ -158,6 +162,3 @@ We know how to show it (I'll leave you never baby, don't you know)
 
 Night fever, night fever.
 We know how to do it (Feels like forever baby, don't you know)
-
-
-

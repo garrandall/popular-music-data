@@ -1,8 +1,11 @@
 ---
+album: The Sweetest Thing This Side Of Heaven
 artists:
 - Chris Bartley
+external_ids:
+  spotify: spotify:track:3UXQiopMR4H5TFvz61XPey
 features: []
-genres: []
+first_released_as_single: false
 key: the-sweetest-thing-this-side-of-heaven-chris-bartley
 lyrics_url: https://www.musixmatch.com/lyrics/Chris-Bartley/The-Sweetest-Thing-This-Side-of-Heaven
 name: The Sweetest Thing This Side Of Heaven
@@ -35,6 +38,8 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '1967-09-02'
+release_year: 1967
+runtime: 179440
 ---
 Sugar is sweet
 But not as sweet as my baby

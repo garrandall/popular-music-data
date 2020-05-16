@@ -1,8 +1,11 @@
 ---
+album: Idea
 artists:
 - Bee Gees
+external_ids:
+  spotify: spotify:track:36CKza28wMxYdjdzji7ine
 features: []
-genres: []
+first_released_as_single: false
 key: i-started-a-joke-bee-gees
 lyrics_url: https://genius.com/Bee-gees-i-started-a-joke-lyrics
 name: I Started A Joke
@@ -51,6 +54,8 @@ rankings:
   rank: 33
   ranking_list: Billboard Hot 100
   start_date: '1969-03-01'
+release_year: 1968
+runtime: 188306
 ---
 I started a joke, which started the whole world crying
 But I didn't see that the joke was on me, oh no

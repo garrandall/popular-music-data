@@ -1,8 +1,11 @@
 ---
+album: Apostrophe(')
 artists:
 - Frank Zappa
+external_ids:
+  spotify: spotify:track:1QY4TdhuNIOX2SHLdElzd5
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-eat-the-yellow-snow-frank-zappa
 lyrics_url: https://genius.com/Frank-zappa-dont-eat-the-yellow-snow-lyrics
 name: Don't Eat The Yellow Snow
@@ -23,6 +26,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1974-11-09'
+release_year: 1974
+runtime: 125320
 ---
 Dreamed I was an Eskimo
 Frozen wind began to blow

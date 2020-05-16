@@ -1,8 +1,11 @@
 ---
+album: In God We Trust
 artists:
 - Brand Nubian
+external_ids:
+  spotify: spotify:track:2oCXRq24aqM9LBXpjDYS4o
 features: []
-genres: []
+first_released_as_single: false
 key: love-me-or-leave-me-alone-brand-nubian
 lyrics_url: https://genius.com/Brand-nubian-love-me-or-leave-me-alone-lyrics
 name: Love Me Or Leave Me Alone
@@ -19,6 +22,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1993-04-17'
+release_year: 1993
+runtime: 275600
 ---
 Aiyyo Jamar I got a girl that's bad! (uh-huh)
 But she don't understand my ways.. (why's that?)

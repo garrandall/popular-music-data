@@ -1,8 +1,11 @@
 ---
+album: Scorpion
 artists:
 - Drake
+external_ids:
+  spotify: spotify:track:3szf2z1Cy1QMrtHrbn8rz9
 features: []
-genres: []
+first_released_as_single: false
 key: elevate-drake
 lyrics_url: https://www.azlyrics.com/lyrics/drake/elevate.html
 name: Elevate
@@ -19,9 +22,9 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '2018-07-28'
+release_year: 2018
+runtime: 184960
 ---
-
-
 Ayy, elevate, elevate
 Only obligation is to tell it straight
 So much on my plate I gotta delegate
@@ -67,6 +70,3 @@ Vegas like Marineland, that big whale treatment
 Georgie got me up a hunnid thousand for the weekend
 I gotta move the safe beside the bed when I be sleepin'
 My mood is changin' this summer, I'ma be tweakin'
-
-
-

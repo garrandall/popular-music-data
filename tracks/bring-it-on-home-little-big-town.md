@@ -1,8 +1,11 @@
 ---
+album: The Road To Here
 artists:
 - Little Big Town
+external_ids:
+  spotify: spotify:track:63YyQQtDdufxojf9LdC443
 features: []
-genres: []
+first_released_as_single: false
 key: bring-it-on-home-little-big-town
 lyrics_url: https://genius.com/Little-big-town-bring-it-on-home-lyrics
 name: Bring It On Home
@@ -79,6 +82,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2006-10-07'
+release_year: 2005
+runtime: 260626
 ---
 You got someone here wants to make it alright
 Someone who loves you more than life right here

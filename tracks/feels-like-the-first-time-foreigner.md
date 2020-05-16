@@ -1,8 +1,11 @@
 ---
+album: Foreigner (Expanded)
 artists:
 - Foreigner
+external_ids:
+  spotify: spotify:track:3DHWxeWr4uh19MklWjLpR0
 features: []
-genres: []
+first_released_as_single: false
 key: feels-like-the-first-time-foreigner
 lyrics_url: https://genius.com/Foreigner-feels-like-the-first-time-lyrics
 name: Feels Like The First Time
@@ -95,6 +98,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1977-08-20'
+release_year: 1977
+runtime: 192520
 ---
 I would climb any mountain
 Sail across a stormy sea

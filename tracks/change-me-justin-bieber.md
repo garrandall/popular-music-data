@@ -1,8 +1,11 @@
 ---
+album: Journals
 artists:
 - Justin Bieber
+external_ids:
+  spotify: spotify:track:5cn4RhNZPPjt0onhqUMEfa
 features: []
-genres: []
+first_released_as_single: false
 key: change-me-justin-bieber
 lyrics_url: https://genius.com/Justin-bieber-change-me-lyrics
 name: Change Me
@@ -11,6 +14,8 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '2013-12-21'
+release_year: 2013
+runtime: 167320
 ---
 Girl I'm ready if you're ready now
 Oh, as I'm ever gonna be

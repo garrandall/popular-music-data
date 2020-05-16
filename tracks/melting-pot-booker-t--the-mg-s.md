@@ -1,9 +1,12 @@
 ---
+album: Melting Pot
 artists:
 - Booker T.
 - The MG's
+external_ids:
+  spotify: spotify:track:6EjWezCHHgaqxpQYhLSlP7
 features: []
-genres: []
+first_released_as_single: false
 key: melting-pot-booker-t--the-mg-s
 name: Melting Pot
 rankings:
@@ -71,5 +74,7 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1971-07-24'
+release_year: 1971
+runtime: 494800
 ---
 

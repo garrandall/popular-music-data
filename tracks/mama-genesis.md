@@ -1,8 +1,11 @@
 ---
+album: Genesis
 artists:
 - Genesis
+external_ids:
+  spotify: spotify:track:6kIwzLSiQU51taaaZ9zWSE
 features: []
-genres: []
+first_released_as_single: false
 key: mama-genesis
 lyrics_url: https://genius.com/Genesis-mama-lyrics
 name: Mama
@@ -43,6 +46,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1983-11-26'
+release_year: 1983
+runtime: 408053
 ---
 I can't see you mama
 But I can hardly wait

@@ -1,9 +1,12 @@
 ---
+album: Huncho Jack, Jack Huncho
 artists:
 - Huncho Jack
+external_ids:
+  spotify: spotify:track:4vwfOiyWxXeEdx4ejAJgdx
 features:
 - Takeoff
-genres: []
+first_released_as_single: false
 key: eye-2-eye-huncho-jack-takeoff
 lyrics_url: https://genius.com/Huncho-jack-eye-2-eye-lyrics
 name: Eye 2 Eye
@@ -12,6 +15,8 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '2018-01-06'
+release_year: 2017
+runtime: 190678
 ---
 Murda on the beat, that's not nice, man
 

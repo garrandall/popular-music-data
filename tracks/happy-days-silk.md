@@ -1,8 +1,11 @@
 ---
+album: Lose Control
 artists:
 - Silk
+external_ids:
+  spotify: spotify:track:3a4UiW8cNqCZ6VANJSo1GJ
 features: []
-genres: []
+first_released_as_single: false
 key: happy-days-silk
 lyrics_url: https://genius.com/Silk-happy-days-lyrics
 name: Happy Days
@@ -27,6 +30,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1993-03-06'
+release_year: 1992
+runtime: 318933
 ---
 Your sex is
 Got it going on

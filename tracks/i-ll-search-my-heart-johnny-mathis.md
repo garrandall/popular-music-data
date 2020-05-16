@@ -1,8 +1,11 @@
 ---
+album: The Singles
 artists:
 - Johnny Mathis
+external_ids:
+  spotify: spotify:track:7Gk1QKi2BAZCnrYlrYEDjC
 features: []
-genres: []
+first_released_as_single: false
 key: i-ll-search-my-heart-johnny-mathis
 name: I'll Search My Heart
 rankings:
@@ -22,5 +25,7 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1964-01-04'
+release_year: 1963
+runtime: 185080
 ---
 

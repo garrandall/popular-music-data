@@ -1,8 +1,11 @@
 ---
+album: Toby
 artists:
 - The Chi-lites
+external_ids:
+  spotify: spotify:track:6zJUv0WYIfEK8GXNzaqYNl
 features: []
-genres: []
+first_released_as_single: false
 key: there-will-never-be-any-peace--until-god-is-seated-at-the-conference-table--the-chi-lites
 lyrics_url: https://www.azlyrics.com/lyrics/chilites/therewillneverbeanypeaceuntilgodisseatedattheconferencetable.html
 name: There Will Never Be Any Peace (Until God Is Seated At The Conference Table)
@@ -35,8 +38,9 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1974-07-27'
+release_year: 1974
+runtime: 315320
 ---
-
 There will never be any peace
 Until God is at the conference table
 There will never be any peace
@@ -117,6 +121,3 @@ Holding hand in hand
 All over the land
 (Until God)
 He's at the conference table
-
-
-

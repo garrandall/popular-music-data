@@ -1,7 +1,9 @@
 ---
 artists:
-- Elvis Presley With The Jubilee Four And Carole Lombard Quartet
-features: []
+- Elvis Presley
+features:
+- The Jubilee Four
+- Carole Lombard Quartet
 genres: []
 key: what-d-i-say-elvis-presley-with-the-jubilee-four-and-carole-lombard-quartet
 name: What'd I Say

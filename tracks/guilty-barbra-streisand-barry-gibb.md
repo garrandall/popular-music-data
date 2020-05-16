@@ -1,9 +1,12 @@
 ---
+album: Guilty
 artists:
 - Barbra Streisand
 - Barry Gibb
+external_ids:
+  spotify: spotify:track:60mGckXEG1EzR4VmjYLfEW
 features: []
-genres: []
+first_released_as_single: false
 key: guilty-barbra-streisand-barry-gibb
 lyrics_url: https://genius.com/Barbra-streisand-and-barry-gibb-guilty-lyrics
 name: Guilty
@@ -96,6 +99,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1981-03-28'
+release_year: 1980
+runtime: 264333
 ---
 Shadows falling, baby, we stand alone
 Out on the street anybody you meet got a heartache of their own

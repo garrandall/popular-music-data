@@ -1,9 +1,12 @@
 ---
+album: Grandma Got Run Over By A Reindeer
 artists:
 - Elmo
 - Patsy
+external_ids:
+  spotify: spotify:track:2EFZgFFD7ucLL8BhwAkxfo
 features: []
-genres: []
+first_released_as_single: false
 key: grandma-got-run-over-by-a-reindeer-elmo-patsy
 lyrics_url: https://www.azlyrics.com/lyrics/elmopatsy/grandmagotrunoverbyareindeer.html
 name: Grandma Got Run Over By A Reindeer
@@ -12,8 +15,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1998-01-10'
+release_year: 1979
+runtime: 207666
 ---
-
 Grandma got run over by a reindeer
 Walking home from our house Christmas Eve
 You can say there's no such thing as Santa
@@ -75,6 +79,3 @@ Sing it, Grandpa!
 Oh
 As for me and Grandpa, we believe
 (We believe in Santa Claus)
-
-
-

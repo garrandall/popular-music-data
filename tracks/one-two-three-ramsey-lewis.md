@@ -1,8 +1,11 @@
 ---
+album: Goin' Latin
 artists:
 - Ramsey Lewis
+external_ids:
+  spotify: spotify:track:2MdXHo2uhdGMksRnUBxmzI
 features: []
-genres: []
+first_released_as_single: false
 key: one-two-three-ramsey-lewis
 name: One Two Three
 rankings:
@@ -30,5 +33,7 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1967-03-18'
+release_year: 1967
+runtime: 206160
 ---
 

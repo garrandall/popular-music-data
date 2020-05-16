@@ -1,8 +1,11 @@
 ---
+album: Self Control
 artists:
 - Laura Branigan
+external_ids:
+  spotify: spotify:track:5WEqLAkxFbCF5pKWME9sQ9
 features: []
-genres: []
+first_released_as_single: false
 key: the-lucky-one-laura-branigan
 lyrics_url: https://www.azlyrics.com/lyrics/laurabranigan/theluckyone.html
 name: The Lucky One
@@ -67,8 +70,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1984-11-10'
+release_year: 1984
+runtime: 249866
 ---
-
 You can break away or you can stay 
 You choose your life, you're free to fly 
 Go on and fly 
@@ -117,6 +121,3 @@ Oh, the lucky one
 Oh, the lucky one 
 Oh, the lucky one 
 Oh, the lucky one
-
-
-

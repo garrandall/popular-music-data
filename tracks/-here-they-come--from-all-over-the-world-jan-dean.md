@@ -1,9 +1,12 @@
 ---
+album: 'All The Hits: From Surf City To Drag City'
 artists:
 - Jan
 - Dean
+external_ids:
+  spotify: spotify:track:5TrvERHRtiRshORTehfs0w
 features: []
-genres: []
+first_released_as_single: false
 key: -here-they-come--from-all-over-the-world-jan-dean
 lyrics_url: https://www.azlyrics.com/lyrics/jandean/heretheycomefromallovertheworldthemefromthetamishow.html
 name: (Here They Come) From All Over The World
@@ -28,8 +31,9 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1965-04-10'
+release_year: 1965
+runtime: 164600
 ---
-
 They're comin' from all over the word
 
 Hey, everybody, see 'em arrivin'
@@ -78,6 +82,3 @@ And come on, come on, come on
 From all over the world, from all over the world
 From all over the world, from all over the world
 From all over the world, from all over the world
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Purpose
 artists:
 - Justin Bieber
+external_ids:
+  spotify: spotify:track:00IH8ZjI9ZGB51WRX1Oesj
 features: []
-genres: []
+first_released_as_single: false
 key: trust-justin-bieber
 lyrics_url: https://genius.com/Justin-bieber-trust-lyrics
 name: Trust
@@ -11,6 +14,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2015-12-05'
+release_year: 2015
+runtime: 203613
 ---
 Woah oh baby, yeah yeah
 Woah, woah

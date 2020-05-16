@@ -1,8 +1,11 @@
 ---
+album: Shaken Not Stirred
 artists:
 - Phil Vassar
+external_ids:
+  spotify: spotify:track:2f44w3kcYPm9NEVXmbCoTI
 features: []
-genres: []
+first_released_as_single: false
 key: i-ll-take-that-as-a-yes--the-hot-tub-song--phil-vassar
 lyrics_url: https://genius.com/Phil-vassar-ill-take-that-as-a-yes-lyrics
 name: I'll Take That As A Yes (The Hot Tub Song)
@@ -27,6 +30,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2005-05-28'
+release_year: 2000
+runtime: 206640
 ---
 You like a dozen wine red roses
 Candlelight on porcelain set tables and that's fine

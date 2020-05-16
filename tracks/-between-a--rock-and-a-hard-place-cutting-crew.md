@@ -1,8 +1,11 @@
 ---
+album: The Scattering
 artists:
 - Cutting Crew
+external_ids:
+  spotify: spotify:track:1J3uf2MEL7w5i1I8QYB7s2
 features: []
-genres: []
+first_released_as_single: false
 key: -between-a--rock-and-a-hard-place-cutting-crew
 lyrics_url: https://www.azlyrics.com/lyrics/cuttingcrew/betweenarockandahardplace.html
 name: (Between A) Rock And A Hard Place
@@ -27,8 +30,9 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1989-06-10'
+release_year: 1989
+runtime: 257426
 ---
-
 Between a rock
 Between a rock and a hard place
 There's a beating heart
@@ -66,6 +70,3 @@ It'll take all your money
 We think we like it here
 Between a rock (you gotta roll with the punches baby)
 Between a rock and a hard place
-
-
-

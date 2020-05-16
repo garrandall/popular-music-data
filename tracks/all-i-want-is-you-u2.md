@@ -1,8 +1,11 @@
 ---
+album: Rattle And Hum
 artists:
 - U2
+external_ids:
+  spotify: spotify:track:34sL4eaI8UKWOyYpCvoboU
 features: []
-genres: []
+first_released_as_single: false
 key: all-i-want-is-you-u2
 lyrics_url: https://genius.com/U2-all-i-want-is-you-lyrics
 name: All I Want Is You
@@ -23,6 +26,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1989-07-22'
+release_year: 1988
+runtime: 389933
 ---
 You say you want
 Diamonds on a ring of gold

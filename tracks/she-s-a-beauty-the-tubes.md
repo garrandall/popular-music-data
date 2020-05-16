@@ -1,8 +1,11 @@
 ---
+album: Outside Inside
 artists:
 - The Tubes
+external_ids:
+  spotify: spotify:track:7HF88mJXq8DpotZohoW2mo
 features: []
-genres: []
+first_released_as_single: false
 key: she-s-a-beauty-the-tubes
 lyrics_url: https://genius.com/The-tubes-shes-a-beauty-lyrics
 name: She's A Beauty
@@ -87,6 +90,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1983-08-20'
+release_year: 1983
+runtime: 240666
 ---
 Step right up, and don't be shy
 Because you will not believe your eyes

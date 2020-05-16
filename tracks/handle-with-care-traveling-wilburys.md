@@ -1,8 +1,11 @@
 ---
+album: The Traveling Wilburys, Vol. 1
 artists:
 - Traveling Wilburys
+external_ids:
+  spotify: spotify:track:1vQxicuNSODoBECPMFjHMG
 features: []
-genres: []
+first_released_as_single: false
 key: handle-with-care-traveling-wilburys
 lyrics_url: https://genius.com/Traveling-wilburys-handle-with-care-lyrics
 name: Handle With Care
@@ -63,6 +66,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1989-01-28'
+release_year: 1988
+runtime: 199586
 ---
 Been beat up and battered around
 Been sent up, and I've been shot down

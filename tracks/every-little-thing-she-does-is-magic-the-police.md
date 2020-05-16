@@ -1,8 +1,11 @@
 ---
+album: Ghost In The Machine (Remastered 2003)
 artists:
 - The Police
+external_ids:
+  spotify: spotify:track:44aTAUBF0g6sMkMNE8I5kd
 features: []
-genres: []
+first_released_as_single: false
 key: every-little-thing-she-does-is-magic-the-police
 lyrics_url: https://genius.com/The-police-every-little-thing-she-does-is-magic-lyrics
 name: Every Little Thing She Does Is Magic
@@ -83,6 +86,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1982-01-30'
+release_year: 1981
+runtime: 260573
 ---
 Though I've tried before to tell her
 Of the feelings I have for her in my heart

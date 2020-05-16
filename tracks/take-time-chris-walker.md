@@ -1,8 +1,11 @@
 ---
+album: First Time
 artists:
 - Chris Walker
+external_ids:
+  spotify: spotify:track:4h1uO4VGG5SDkiEaT4EG79
 features: []
-genres: []
+first_released_as_single: false
 key: take-time-chris-walker
 lyrics_url: https://www.azlyrics.com/lyrics/chriswalker/taketime.html
 name: Take Time
@@ -79,8 +82,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1992-07-11'
+release_year: 1992
+runtime: 260839
 ---
-
 Take time, show me, love me
 You know what I won't treat you good
 Take time, show me, love me
@@ -139,6 +143,3 @@ Take time, show me, love me
 That you love me
 
 Take time, show me, love me
-
-
-

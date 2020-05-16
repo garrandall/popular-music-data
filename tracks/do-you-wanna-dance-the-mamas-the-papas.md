@@ -1,9 +1,12 @@
 ---
+album: If You Can Believe Your Eyes & Ears
 artists:
 - The Mamas
 - The Papas
+external_ids:
+  spotify: spotify:track:645pkWAIHbCECpVsaZAxKq
 features: []
-genres: []
+first_released_as_single: false
 key: do-you-wanna-dance-the-mamas-the-papas
 lyrics_url: https://www.azlyrics.com/lyrics/mamasandthepapas/doyouwannadance.html
 name: Do You Wanna Dance
@@ -28,8 +31,9 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '1968-12-21'
+release_year: 1966
+runtime: 180733
 ---
-
 Do you wanna dance under the moon light;
 Squeeze me all through the night?
 Oh, baby, do you wanna dance?
@@ -62,6 +66,3 @@ At least let me be your lover man! (Do you wanna dance?)
 Can I hold your hand? (Do you wanna dance?)
 Let me be your lover man! (Do you wanna dance?)
 Can I hold your hand? (Do you wanna dance?)
-
-
-

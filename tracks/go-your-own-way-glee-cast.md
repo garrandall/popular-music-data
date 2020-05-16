@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music, Volume 6'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:6FRutNNsVM2xVV3FAhVZLP
 features: []
-genres: []
+first_released_as_single: false
 key: go-your-own-way-glee-cast
 lyrics_url: https://genius.com/Glee-cast-go-your-own-way-lyrics
 name: Go Your Own Way
@@ -11,6 +14,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '2011-05-21'
+release_year: 2011
+runtime: 221066
 ---
 Loving you, isn't the right thing to do
 How can I, ever change things that I feel?

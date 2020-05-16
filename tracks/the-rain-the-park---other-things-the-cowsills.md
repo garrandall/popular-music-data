@@ -1,8 +1,11 @@
 ---
+album: The Cowsills
 artists:
 - The Cowsills
+external_ids:
+  spotify: spotify:track:5Ozv6hQIj20iX3nFfJCe8E
 features: []
-genres: []
+first_released_as_single: false
 key: the-rain-the-park---other-things-the-cowsills
 lyrics_url: https://genius.com/The-cowsills-the-rain-the-park-and-other-things-lyrics
 name: The Rain The Park & Other Things
@@ -71,6 +74,8 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1968-01-13'
+release_year: 1967
+runtime: 184240
 ---
 I saw her sitting in the rain
 Raindrops falling on her

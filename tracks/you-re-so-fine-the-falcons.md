@@ -1,8 +1,11 @@
 ---
+album: Lost Hits Of The 50's
 artists:
 - The Falcons
+external_ids:
+  spotify: spotify:track:3Wpm4PjUt4SMbc16oNuJdb
 features: []
-genres: []
+first_released_as_single: false
 key: you-re-so-fine-the-falcons
 lyrics_url: https://genius.com/Falcons-youre-so-fine-lyrics
 name: You're So Fine
@@ -87,6 +90,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1959-08-31'
+release_year: 1959
+runtime: 149040
 ---
 You're so fine, you're so fine
 You're mine, you're mine

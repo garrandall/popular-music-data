@@ -1,8 +1,11 @@
 ---
+album: Super Hits
 artists:
 - Brick
+external_ids:
+  spotify: spotify:track:7hi5GRxH2mqIWMUMF3lFmX
 features: []
-genres: []
+first_released_as_single: false
 key: dusic-brick
 lyrics_url: https://genius.com/Brick-dusic-lyrics
 name: Dusic
@@ -79,6 +82,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1977-12-31'
+release_year: 1976
+runtime: 341400
 ---
 Dusic, dusic
 Just a funky thing to let you

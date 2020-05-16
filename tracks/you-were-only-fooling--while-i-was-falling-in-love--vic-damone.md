@@ -1,8 +1,11 @@
 ---
+album: You Were Only Fooling
 artists:
 - Vic Damone
+external_ids:
+  spotify: spotify:track:5zTsicOFimBo9Bj7g9XSkv
 features: []
-genres: []
+first_released_as_single: false
 key: you-were-only-fooling--while-i-was-falling-in-love--vic-damone
 lyrics_url: https://genius.com/Vic-damone-you-were-only-fooling-while-i-was-falling-in-love-lyrics
 name: You Were Only Fooling (While I Was Falling In Love)
@@ -47,6 +50,8 @@ rankings:
   rank: 34
   ranking_list: Billboard Hot 100
   start_date: '1965-06-19'
+release_year: 1965
+runtime: 154146
 ---
 You were only fooling
 While I was falling in love

@@ -1,8 +1,11 @@
 ---
+album: SLOWHEART
 artists:
 - Kip Moore
+external_ids:
+  spotify: spotify:track:6viHvc13l9A6Ua6xugpeX6
 features: []
-genres: []
+first_released_as_single: false
 key: last-shot-kip-moore
 lyrics_url: https://www.azlyrics.com/lyrics/kipmoore/lastshot.html
 name: Last Shot
@@ -39,8 +42,9 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '2019-01-19'
+release_year: 2017
+runtime: 228480
 ---
-
 Well, baby love's just one of those words that gets thrown around
 Like Jack and Coke, sitting on the bar when it gets watered down
 So I ain't gonna say it, oh but I ain't gonna lie
@@ -77,6 +81,3 @@ Then I'd shoot you down
 
 Well, if you were my last breath
 Well, I'd just wanna hold ya
-
-
-

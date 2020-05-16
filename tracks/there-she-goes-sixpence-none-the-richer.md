@@ -1,8 +1,11 @@
 ---
+album: Sixpence None the Richer
 artists:
 - Sixpence None The Richer
+external_ids:
+  spotify: spotify:track:43z6scIZU2QcEieMQFAJRG
 features: []
-genres: []
+first_released_as_single: false
 key: there-she-goes-sixpence-none-the-richer
 lyrics_url: https://www.azlyrics.com/lyrics/sixpencenonethericher/thereshegoes.html
 name: There She Goes
@@ -87,8 +90,9 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '2000-01-22'
+release_year: 1997
+runtime: 164280
 ---
-
 There she goes
 There she goes again
 Racing through my brain
@@ -124,6 +128,3 @@ This feeling that remains
 There she goes
 There she goes
 There she goes
-
-
-

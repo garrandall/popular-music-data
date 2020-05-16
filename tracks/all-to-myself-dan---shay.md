@@ -1,8 +1,11 @@
 ---
+album: Dan + Shay
 artists:
 - Dan + Shay
+external_ids:
+  spotify: spotify:track:0uSGTaHms9ceAxb7L6VLrU
 features: []
-genres: []
+first_released_as_single: true
 key: all-to-myself-dan---shay
 lyrics_url: https://www.azlyrics.com/lyrics/danshay/alltomyself.html
 name: All To Myself
@@ -87,8 +90,9 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '2019-09-28'
+release_year: 2018
+runtime: 169612
 ---
-
 I'm jealous of the blue jeans that you're wearing
 And the way they're holding you so tight
 I'm jealous of the moon that keeps on staring
@@ -133,6 +137,3 @@ Slip your hand in my back pocket
 Go and let your long hair fall
 I want you all, all, all to myself, to myself
 I want you all, all, all to myself, to myself, yeah
-
-
-

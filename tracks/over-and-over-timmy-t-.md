@@ -1,8 +1,11 @@
 ---
+album: Time After Time
 artists:
 - Timmy T.
+external_ids:
+  spotify: spotify:track:0GnotRXSFA4Zqxfc6TUQ8j
 features: []
-genres: []
+first_released_as_single: false
 key: over-and-over-timmy-t-
 lyrics_url: https://genius.com/Timmy-t-over-and-over-lyrics
 name: Over And Over
@@ -31,6 +34,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1991-06-15'
+release_year: 1990
+runtime: 210226
 ---
 I've said it before, I'll say it again
 I'll sing it over and over

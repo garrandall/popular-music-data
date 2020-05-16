@@ -1,8 +1,11 @@
 ---
+album: Live
 artists:
 - Ambrosia
+external_ids:
+  spotify: spotify:track:5jwQH54Qg6gcm4hqXm0uLt
 features: []
-genres: []
+first_released_as_single: false
 key: magical-mystery-tour-ambrosia
 lyrics_url: https://www.azlyrics.com/lyrics/ambrosia/magicalmysterytour.html
 name: Magical Mystery Tour
@@ -39,8 +42,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1977-04-16'
+release_year: 1977
+runtime: 232800
 ---
-
 Roll up - roll up for the Mystery Tour. 
 Roll up, roll up for the Mystery Tour. 
 (Roll up) and that's an invitation, 
@@ -66,6 +70,3 @@ The Magical Mystery Tour is coming to take you away,
 Coming to you away. 
 The Magical Mystery Tour is dying to take you away, 
 Dying to take you away - take you today.
-
-
-

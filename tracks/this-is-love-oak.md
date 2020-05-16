@@ -1,8 +1,11 @@
 ---
+album: Oak
 artists:
 - Oak
+external_ids:
+  spotify: spotify:track:4EBhDOjQjh7LR5sd7fmhAD
 features: []
-genres: []
+first_released_as_single: false
 key: this-is-love-oak
 name: This Is Love
 rankings:
@@ -34,5 +37,7 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1979-09-01'
+release_year: 1979
+runtime: 183154
 ---
 

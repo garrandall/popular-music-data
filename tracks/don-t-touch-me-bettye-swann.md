@@ -1,8 +1,11 @@
 ---
+album: Bettye Swann
 artists:
 - Bettye Swann
+external_ids:
+  spotify: spotify:track:1guE3vAGquSDNFjnZA7b2h
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-touch-me-bettye-swann
 lyrics_url: https://genius.com/Bettye-swann-dont-touch-me-lyrics
 name: Don't Touch Me
@@ -47,6 +50,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1969-05-10'
+release_year: 1969
+runtime: 153986
 ---
 Baby, baby, baby
 

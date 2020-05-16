@@ -1,8 +1,11 @@
 ---
+album: Blonde
 artists:
 - Frank Ocean
+external_ids:
+  spotify: spotify:track:35xSkNIXi504fcEwz9USRB
 features: []
-genres: []
+first_released_as_single: false
 key: solo-frank-ocean
 lyrics_url: https://www.azlyrics.com/lyrics/frankocean/solo.html
 name: Solo
@@ -11,8 +14,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2016-09-10'
+release_year: 2016
+runtime: 257380
 ---
-
 Hand me a towel I'm dirty dancing by myself
 Gone off tabs of that acid
 Form me a circle, watch my Jagger
@@ -75,6 +79,3 @@ Solo, solo
 (By myself, by myself)
 Solo, solo
 Solo, solo
-
-
-

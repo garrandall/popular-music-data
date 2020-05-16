@@ -1,8 +1,11 @@
 ---
+album: '14:59'
 artists:
 - Sugar Ray
+external_ids:
+  spotify: spotify:track:4T7fVN4ZOFE3JoGyaxZL6O
 features: []
-genres: []
+first_released_as_single: false
 key: falls-apart-sugar-ray
 lyrics_url: https://www.azlyrics.com/lyrics/sugarray/fallsapart.html
 name: Falls Apart
@@ -87,8 +90,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2000-05-27'
+release_year: 1998
+runtime: 255160
 ---
-
 She falls apart by herself
 No ones there to talk or understand
 Feels sustained, dries her eyes
@@ -133,6 +137,3 @@ Hold (Want) you tomorrow but your leaving today
 Runaway Runaway
 Hold (Want) hold you (Want) but your going away
 But your leaving today, but your leaving today
-
-
-

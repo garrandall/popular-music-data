@@ -1,8 +1,11 @@
 ---
+album: Your Little Secret
 artists:
 - Melissa Etheridge
+external_ids:
+  spotify: spotify:track:035Wi3SCHzijMtWdhVv5K8
 features: []
-genres: []
+first_released_as_single: false
 key: nowhere-to-go-melissa-etheridge
 lyrics_url: https://www.azlyrics.com/lyrics/melissaetheridge/nowheretogo.html
 name: Nowhere To Go
@@ -83,8 +86,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1997-02-15'
+release_year: 1995
+runtime: 353040
 ---
-
 I know a place
 Down past an old shack
 On a road that goes to nowhere
@@ -123,6 +127,3 @@ This moment is divine
 I'm so close to heaven
 This hell is not mine 
 This hell is not mine...
-
-
-

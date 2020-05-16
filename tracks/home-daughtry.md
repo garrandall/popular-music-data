@@ -1,8 +1,11 @@
 ---
+album: 10th Anniversary - The Hits - Volume 1
 artists:
 - Daughtry
+external_ids:
+  spotify: spotify:track:4tXnQt9UxkUtjJfwvLP55J
 features: []
-genres: []
+first_released_as_single: false
 key: home-daughtry
 lyrics_url: https://www.azlyrics.com/lyrics/daughtry/home.html
 name: Home
@@ -155,8 +158,9 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2007-11-24'
+release_year: 2003
+runtime: 255133
 ---
-
 I'm staring out into the night,
 Trying to hide the pain.
 I'm going to the place where love
@@ -206,6 +210,3 @@ But these places and these faces are getting old.
 I said these places and these faces are getting old,
 So I'm going home.
 I'm going home.
-
-
-

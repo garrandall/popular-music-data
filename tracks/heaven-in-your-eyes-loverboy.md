@@ -1,8 +1,11 @@
 ---
+album: Big Ones
 artists:
 - Loverboy
+external_ids:
+  spotify: spotify:track:1sMhhVoD3ExOFTeh70EqNe
 features: []
-genres: []
+first_released_as_single: false
 key: heaven-in-your-eyes-loverboy
 lyrics_url: https://www.azlyrics.com/lyrics/loverboy/heaveninyoureyes.html
 name: Heaven In Your Eyes
@@ -75,8 +78,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1986-11-22'
+release_year: 1986
+runtime: 243226
 ---
-
 I can tell by the look in your eyes
 You've been hurtin
 You know I'll never let you down oh, no
@@ -128,6 +132,3 @@ Heaven in your eyes oh
 Heaven in your eyes
 I can see the heaven, heaven in your eyes
 Heaven in your eyes
-
-
-

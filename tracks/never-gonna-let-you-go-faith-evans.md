@@ -1,8 +1,11 @@
 ---
+album: Keep The Faith
 artists:
 - Faith Evans
+external_ids:
+  spotify: spotify:track:0wqocHOZg8odmys7DOyVER
 features: []
-genres: []
+first_released_as_single: false
 key: never-gonna-let-you-go-faith-evans
 lyrics_url: https://genius.com/Faith-evans-never-gonna-let-you-go-lyrics
 name: Never Gonna Let You Go
@@ -87,6 +90,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1999-11-20'
+release_year: 1998
+runtime: 267400
 ---
 If I had one wish, boy
 I'd wish you next to me

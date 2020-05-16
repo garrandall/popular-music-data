@@ -1,8 +1,11 @@
 ---
+album: The Exciting Lloyd Price
 artists:
 - Lloyd Price
+external_ids:
+  spotify: spotify:track:7shU9j5sj4id2KXh3fC1Ak
 features: []
-genres: []
+first_released_as_single: false
 key: where-were-you--on-our-wedding-day---lloyd-price
 lyrics_url: https://genius.com/Lloyd-price-where-were-you-on-our-wedding-day-lyrics
 name: Where Were You (On Our Wedding Day)?
@@ -51,6 +54,8 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1959-05-11'
+release_year: 1959
+runtime: 163000
 ---
 Where were you on our wedding day?
 I got bad news that you went away

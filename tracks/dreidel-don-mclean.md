@@ -1,8 +1,11 @@
 ---
+album: Favorites & Rarities (World)
 artists:
 - Don McLean
+external_ids:
+  spotify: spotify:track:205L0cxylGWHIZBKo8owys
 features: []
-genres: []
+first_released_as_single: false
 key: dreidel-don-mclean
 lyrics_url: https://www.azlyrics.com/lyrics/donmclean/dreidel.html
 name: Dreidel
@@ -55,8 +58,9 @@ rankings:
   rank: 29
   ranking_list: Billboard Hot 100
   start_date: '1973-03-10'
+release_year: 1972
+runtime: 227266
 ---
-
 I feel like a spinning top or a Dreidel
 The spinning don't stop when you leave the cradle
 You just slow down
@@ -100,6 +104,3 @@ How you gonna keep from turning your life away? Oh..
 I feel like a spinning top or a dreidel.
 The spinning don't stop when you leave the cradle.
 You just slow down.
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: One-X
 artists:
 - Three Days Grace
+external_ids:
+  spotify: spotify:track:5PZ2cqh9Yem2g6cTSOLllz
 features: []
-genres: []
+first_released_as_single: false
 key: pain-three-days-grace
 lyrics_url: https://genius.com/Three-days-grace-pain-lyrics
 name: Pain
@@ -87,6 +90,8 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '2007-04-28'
+release_year: 2006
+runtime: 202973
 ---
 Pain, without love
 Pain, I can't get enough

@@ -1,8 +1,11 @@
 ---
+album: Boats Against the Current
 artists:
 - Eric Carmen
+external_ids:
+  spotify: spotify:track:6ozvQm6yKNq4LUbMgBRgLH
 features: []
-genres: []
+first_released_as_single: false
 key: boats-against-the-current-eric-carmen
 lyrics_url: https://www.azlyrics.com/lyrics/ericcarmen/boatsagainstthecurrent.html
 name: Boats Against The Current
@@ -19,8 +22,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1978-01-07'
+release_year: 1977
+runtime: 263533
 ---
-
 I know it's over
 You know it's over
 We're just going through the motions
@@ -67,6 +71,3 @@ We're boats against the current to the end
 
 There's romance in the sunset
 We're boats against the current to the end
-
-
-

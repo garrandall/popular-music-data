@@ -1,8 +1,11 @@
 ---
+album: I Hope You Dance
 artists:
 - Lee Ann Womack
+external_ids:
+  spotify: spotify:track:5cPVHB3VcVKJRBTQ1Mls2I
 features: []
-genres: []
+first_released_as_single: false
 key: ashes-by-now-lee-ann-womack
 lyrics_url: https://www.azlyrics.com/lyrics/leeannwomack/ashesbynow.html
 name: Ashes By Now
@@ -75,8 +78,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2001-03-31'
+release_year: 2000
+runtime: 251200
 ---
-
 This morning is Monday
 Where are you now?
 Teasing my memory
@@ -115,6 +119,3 @@ As much as you've burned me baby, I should be ashes by now
 (Oh, oh oohashes by now)
 (Oh, oh oohashes by now)
 As much as you've burned me baby, I should be ashes by now
-
-
-

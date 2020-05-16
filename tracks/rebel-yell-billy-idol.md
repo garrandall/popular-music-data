@@ -1,8 +1,11 @@
 ---
+album: Rebel Yell
 artists:
 - Billy Idol
+external_ids:
+  spotify: spotify:track:4TIJ7zSBNejpoIPaWpWRKc
 features: []
-genres: []
+first_released_as_single: false
 key: rebel-yell-billy-idol
 lyrics_url: https://genius.com/Billy-idol-rebel-yell-lyrics
 name: Rebel Yell
@@ -63,6 +66,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1984-04-28'
+release_year: 1983
+runtime: 288533
 ---
 Last night a little dancer came dancing to my door
 Last night a little angel came pumping on my floor

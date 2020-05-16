@@ -1,8 +1,11 @@
 ---
+album: Hormonally Yours
 artists:
 - Shakespear's Sister
+external_ids:
+  spotify: spotify:track:3V7d1rj2Tmd4PAWI1jiDLL
 features: []
-genres: []
+first_released_as_single: false
 key: i-don-t-care-shakespear-s-sister
 lyrics_url: https://www.musixmatch.com/lyrics/Shakespears-Sister/I-Don-t-Care
 name: I Don't Care
@@ -55,6 +58,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1993-02-13'
+release_year: 1992
+runtime: 263053
 ---
 Walking through the rooms in my head
 I came across your image

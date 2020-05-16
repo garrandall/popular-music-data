@@ -1,8 +1,11 @@
 ---
+album: Chicago 18
 artists:
 - Chicago
+external_ids:
+  spotify: spotify:track:0Wv3aY6gApoT3oKBYIqvXb
 features: []
-genres: []
+first_released_as_single: false
 key: will-you-still-love-me--chicago
 lyrics_url: https://genius.com/Chicago-will-you-still-love-me-lyrics
 name: Will You Still Love Me?
@@ -99,6 +102,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1987-04-18'
+release_year: 1986
+runtime: 253280
 ---
 Take me as I am
 Put your hand in mine now and forever

@@ -1,8 +1,11 @@
 ---
+album: Bobby Vinton's Greatest Hits
 artists:
 - Bobby Vinton
+external_ids:
+  spotify: spotify:track:5n6zROqnqMtYXfQ2vazEaz
 features: []
-genres: []
+first_released_as_single: false
 key: blue-on-blue-bobby-vinton
 lyrics_url: https://genius.com/Bobby-vinton-blue-on-blue-lyrics
 name: Blue On Blue
@@ -59,6 +62,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1963-08-10'
+release_year: 1962
+runtime: 144533
 ---
 Blue on blue, heartache on heartache
 Blue on blue, now that we are through –

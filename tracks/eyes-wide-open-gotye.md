@@ -1,8 +1,11 @@
 ---
+album: Making Mirrors
 artists:
 - Gotye
+external_ids:
+  spotify: spotify:track:6h2q5GhVc9itEB6NqOEMd4
 features: []
-genres: []
+first_released_as_single: false
 key: eyes-wide-open-gotye
 lyrics_url: https://www.azlyrics.com/lyrics/gotye/eyeswideopen.html
 name: Eyes Wide Open
@@ -11,8 +14,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2012-05-05'
+release_year: 2011
+runtime: 191253
 ---
-
 With our eyes wide open, we...
 With our eyes wide open, we...
 
@@ -55,6 +59,3 @@ With our eyes wide open, we walk the plank, we walk the plank, we walk the plank
 With our eyes wide open, we walk the plank, we walk the plank.
 
 That was the end of the story.
-
-
-

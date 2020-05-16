@@ -1,8 +1,11 @@
 ---
+album: Very Best
 artists:
 - Point Blank
+external_ids:
+  spotify: spotify:track:7p5pEvfWMzRmhAQOZn095X
 features: []
-genres: []
+first_released_as_single: false
 key: nicole-point-blank
 lyrics_url: https://genius.com/Point-blank-band-nicole-lyrics
 name: Nicole
@@ -63,6 +66,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1981-09-26'
+release_year: 1981
+runtime: 233803
 ---
 I hear you're goin' through some changes
 I hear your friends all turn their backs on you

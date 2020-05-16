@@ -1,11 +1,14 @@
 ---
+album: Grateful
 artists:
 - DJ Khaled
 - Calvin Harris
+external_ids:
+  spotify: spotify:track:1nbW2DyWKaT6XI62qTwJsZ
 features:
 - Travis Scott
 - Jeremih
-genres: []
+first_released_as_single: false
 key: don-t-quit-dj-khaled-calvin-harris-travis-scott-jeremih
 lyrics_url: https://genius.com/Dj-khaled-and-calvin-harris-dont-quit-lyrics
 name: Don't Quit
@@ -14,6 +17,8 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '2017-07-15'
+release_year: 2017
+runtime: 229146
 ---
 Yeah
 Ayo, Calvin Harris, they ain't see this one comin'! (Yah!)

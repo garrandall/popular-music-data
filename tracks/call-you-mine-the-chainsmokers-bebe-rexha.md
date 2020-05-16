@@ -1,9 +1,12 @@
 ---
+album: NOW That's What I Call Music, Vol. 71
 artists:
 - The Chainsmokers
 - Bebe Rexha
+external_ids:
+  spotify: spotify:track:75FpbthrwQmzHlBJLuGdC7
 features: []
-genres: []
+first_released_as_single: true
 key: call-you-mine-the-chainsmokers-bebe-rexha
 lyrics_url: https://www.azlyrics.com/lyrics/chainsmokers/callyoumine.html
 name: Call You Mine
@@ -64,8 +67,9 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '2019-09-14'
+release_year: 2019
+runtime: 169093
 ---
-
 Two kids with their hearts on fire
 Who's gonna save us now?
 When we thought that we couldn't get higher
@@ -132,6 +136,3 @@ Can I call you mine?
 Can I call you mine?
 Can I call you mine?
 Can I call you mine?
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: The Murmaids
 artists:
 - The Murmaids
+external_ids:
+  spotify: spotify:track:2s45jzEVXjE0Y0Fu6CjG5u
 features: []
-genres: []
+first_released_as_single: false
 key: popsicles-and-icicles-the-murmaids
 lyrics_url: https://genius.com/The-murmaids-popsicles-and-icicles-lyrics
 name: Popsicles And Icicles
@@ -63,6 +66,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1964-02-22'
+release_year: 1963
+runtime: 151400
 ---
 Popsicles, icicles, baseball and fancy clothes
 These are a few of the things he loves

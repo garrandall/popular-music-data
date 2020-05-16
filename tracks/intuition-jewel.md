@@ -1,8 +1,11 @@
 ---
+album: '0304'
 artists:
 - Jewel
+external_ids:
+  spotify: spotify:track:5XxcyxKFN1fmH2DXDNiUpC
 features: []
-genres: []
+first_released_as_single: true
 key: intuition-jewel
 lyrics_url: https://www.azlyrics.com/lyrics/jewel/intuition.html
 name: Intuition
@@ -87,8 +90,9 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '2003-09-20'
+release_year: 2003
+runtime: 344133
 ---
-
 I'm just a simple girl
 In a high tech digital world
 I really try to understand
@@ -130,4 +134,3 @@ Don't play games
 I promise
 it won't be in vain
 Uh-uh-uh
-

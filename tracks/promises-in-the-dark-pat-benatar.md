@@ -1,8 +1,11 @@
 ---
+album: Precious Time
 artists:
 - Pat Benatar
+external_ids:
+  spotify: spotify:track:7Ba92R4Hk1CjVNqnepfvZa
 features: []
-genres: []
+first_released_as_single: false
 key: promises-in-the-dark-pat-benatar
 lyrics_url: https://www.azlyrics.com/lyrics/patbenatar/promisesinthedark.html
 name: Promises In The Dark
@@ -51,8 +54,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1981-12-12'
+release_year: 1981
+runtime: 289200
 ---
-
 Never again, isn't that what you said
 You've been through this before
 You swore, this time, you'd think with your head
@@ -86,6 +90,3 @@ On the edge is where it seems it's well worth the cost
 Just when you think you got it down
 Your heart in pieces on the ground
 They whisper promises in the dark
-
-
-

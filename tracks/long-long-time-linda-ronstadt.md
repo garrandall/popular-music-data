@@ -1,8 +1,11 @@
 ---
+album: Silk Purse
 artists:
 - Linda Ronstadt
+external_ids:
+  spotify: spotify:track:1khA4hwhZD4HMecyE1e9U1
 features: []
-genres: []
+first_released_as_single: false
 key: long-long-time-linda-ronstadt
 lyrics_url: https://genius.com/Linda-ronstadt-long-long-time-lyrics
 name: Long Long Time
@@ -55,6 +58,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1970-10-31'
+release_year: 1970
+runtime: 263400
 ---
 Love will abide
 Take things in stride

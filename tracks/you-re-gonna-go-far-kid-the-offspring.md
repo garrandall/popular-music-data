@@ -1,8 +1,11 @@
 ---
+album: Rise And Fall, Rage And Grace
 artists:
 - The Offspring
+external_ids:
+  spotify: spotify:track:6TfBA04WJ3X1d1wXhaCFVT
 features: []
-genres: []
+first_released_as_single: false
 key: you-re-gonna-go-far-kid-the-offspring
 lyrics_url: https://genius.com/The-offspring-youre-gonna-go-far-kid-lyrics
 name: You're Gonna Go Far Kid
@@ -79,6 +82,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '2009-02-21'
+release_year: 2008
+runtime: 177826
 ---
 Show me how to lie, you're getting better all the time
 And turning all against the one is an art that's hard to teach

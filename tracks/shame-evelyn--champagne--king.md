@@ -1,8 +1,11 @@
 ---
+album: Smooth Talk
 artists:
 - Evelyn "Champagne" King
+external_ids:
+  spotify: spotify:track:0mvhxY8mngQRg2ZU44SNWV
 features: []
-genres: []
+first_released_as_single: false
 key: shame-evelyn--champagne--king
 lyrics_url: https://www.azlyrics.com/lyrics/evelynchampagneking/shame.html
 name: Shame
@@ -83,8 +86,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1978-10-21'
+release_year: 1977
+runtime: 499253
 ---
-
 Shame
 Burning, you keep my whole body yearning
 You got me so confused
@@ -130,6 +134,3 @@ If we lose our love it's a shame
 Oh, I wouldn't want to live with the pain
 Oh, it's a shame
 Shame...
-
-
-

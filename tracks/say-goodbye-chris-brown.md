@@ -1,8 +1,11 @@
 ---
+album: Chris Brown
 artists:
 - Chris Brown
+external_ids:
+  spotify: spotify:track:5F7IJrXD6Fa3EmqoYE0gU4
 features: []
-genres: []
+first_released_as_single: false
 key: say-goodbye-chris-brown
 lyrics_url: https://genius.com/Chris-brown-say-goodbye-lyrics
 name: Say Goodbye
@@ -99,6 +102,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '2007-01-27'
+release_year: 2005
+runtime: 289760
 ---
 Ah, look, we gotta talk
 Dang, I know, I know but it's, it's just, it's just

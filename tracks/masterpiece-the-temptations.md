@@ -1,8 +1,11 @@
 ---
+album: Masterpiece
 artists:
 - The Temptations
+external_ids:
+  spotify: spotify:track:4gAsVttMY36zJUCa7FYoJN
 features: []
-genres: []
+first_released_as_single: false
 key: masterpiece-the-temptations
 lyrics_url: https://www.azlyrics.com/lyrics/temptations/masterpiece.html
 name: Masterpiece
@@ -63,8 +66,9 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '1973-05-26'
+release_year: 1973
+runtime: 830400
 ---
-
 Where I was born ev`rything was dull and dingy
 I lived in a place they called the inner city
 Getting ahead huh was strictly a nono
@@ -94,6 +98,3 @@ Breakings, folks comin` home
 And finding all their possessions gone
 Oh it`s an ev`ry day thing - well well - in the ghetto
 Oh it`s an ev`ry day thing in the ghetto
-
-
-

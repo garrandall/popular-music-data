@@ -1,8 +1,11 @@
 ---
+album: Capitol Collectors Series
 artists:
 - Al Martino
+external_ids:
+  spotify: spotify:track:5EnjlQGtWW6lQqDRo6kc0R
 features: []
-genres: []
+first_released_as_single: false
 key: the-next-hundred-years-al-martino
 lyrics_url: https://genius.com/Al-martino-the-next-hundred-years-lyrics
 name: The Next Hundred Years
@@ -43,6 +46,8 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1978-02-04'
+release_year: 1977
+runtime: 225266
 ---
 I know we only met just the other day
 But I'm hopin' that this love song

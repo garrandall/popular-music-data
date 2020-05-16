@@ -1,8 +1,11 @@
 ---
+album: Frantic Romantic
 artists:
 - Jermaine Stewart
+external_ids:
+  spotify: spotify:track:7eCJuyIc1F0Lu7emNYLneg
 features: []
-genres: []
+first_released_as_single: false
 key: jody-jermaine-stewart
 lyrics_url: https://genius.com/Jermaine-stewart-jody-lyrics
 name: Jody
@@ -43,6 +46,8 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1986-11-15'
+release_year: 1986
+runtime: 335880
 ---
 Everybody wants Jody
 Everybody wants Jo-DAY! Ha!

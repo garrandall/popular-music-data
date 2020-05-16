@@ -1,8 +1,11 @@
 ---
+album: Some Nice Things I've Missed
 artists:
 - Frank Sinatra
+external_ids:
+  spotify: spotify:track:5AxsGI6IK02yTmGoEloKnM
 features: []
-genres: []
+first_released_as_single: false
 key: you-turned-my-world-around-frank-sinatra
 lyrics_url: https://www.azlyrics.com/lyrics/franksinatra/youturnedmyworldaround.html
 name: You Turned My World Around
@@ -27,8 +30,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1974-08-31'
+release_year: 1974
+runtime: 167000
 ---
-
 Walkin' lonely streets, lookin' for a sign
 Livin' lonely dreams, life with no design
 Like lonely people do, livin' in the past
@@ -52,6 +56,3 @@ And you turned my world around
 When you held out your hand
 You turned my world around
 Bringing love to a lonely man
-
-
-

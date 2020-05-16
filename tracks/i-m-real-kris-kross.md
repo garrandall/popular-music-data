@@ -1,8 +1,11 @@
 ---
+album: Da Bomb
 artists:
 - Kris Kross
+external_ids:
+  spotify: spotify:track:4w11kXrxwudy33RVL5lG0P
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-real-kris-kross
 lyrics_url: https://genius.com/Kris-kross-im-real-lyrics
 name: I'm Real
@@ -31,6 +34,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1993-12-25'
+release_year: 1992
+runtime: 206933
 ---
 Hey! This is Skitty Rock (G!) At the hip hop barber shop
 It's time to floss with Kris Kross

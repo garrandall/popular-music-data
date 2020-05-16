@@ -1,8 +1,11 @@
 ---
+album: Flat As A Pancake
 artists:
 - Head East
+external_ids:
+  spotify: spotify:track:46E4di5YoT3Ab5bheoiEId
 features: []
-genres: []
+first_released_as_single: false
 key: never-been-any-reason-head-east
 lyrics_url: https://genius.com/Head-east-never-been-any-reason-lyrics
 name: Never Been Any Reason
@@ -43,6 +46,8 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1975-12-20'
+release_year: 1975
+runtime: 310266
 ---
 Did you see any action?
 Did you make any friends?

@@ -1,8 +1,11 @@
 ---
+album: Since I Don't Have You
 artists:
 - The Skyliners
+external_ids:
+  spotify: spotify:track:7ybGZodr5h3UmRMIu11q4R
 features: []
-genres: []
+first_released_as_single: false
 key: it-happened-today-the-skyliners
 lyrics_url: https://genius.com/The-skyliners-it-happened-today-lyrics
 name: It Happened Today
@@ -39,6 +42,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1959-11-16'
+release_year: 1959
+runtime: 107842
 ---
 I knew someday you'd come my way
 It happened, it happened today

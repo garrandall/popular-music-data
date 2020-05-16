@@ -1,8 +1,11 @@
 ---
+album: All Or Nothing
 artists:
 - Milli Vanilli
+external_ids:
+  spotify: spotify:track:2FanAob27vdwJlOeg40axj
 features: []
-genres: []
+first_released_as_single: false
 key: girl-you-know-it-s-true-milli-vanilli
 lyrics_url: https://www.azlyrics.com/lyrics/millivanilli/girlyouknowitstrue.html
 name: Girl You Know It's True
@@ -111,8 +114,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1989-07-01'
+release_year: 1988
+runtime: 528733
 ---
-
 So what are you doing back?
 
 Well, I set back and thought about
@@ -175,6 +179,3 @@ Girl, you know it's true
 Oh, oh oohlove you
 Yes, you know it's true
 Oh, oh oohlove you
-
-
-

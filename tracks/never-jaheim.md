@@ -1,8 +1,11 @@
 ---
+album: Ghetto Classics
 artists:
 - Jaheim
+external_ids:
+  spotify: spotify:track:05GmVPvbYVHE5NSlogP2ob
 features: []
-genres: []
+first_released_as_single: false
 key: never-jaheim
 lyrics_url: https://genius.com/Jaheim-never-lyrics
 name: Never
@@ -75,6 +78,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '2008-05-03'
+release_year: 2006
+runtime: 241293
 ---
 I used to be the kind of brother
 That thought I would never slow down

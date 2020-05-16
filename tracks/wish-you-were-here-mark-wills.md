@@ -1,8 +1,11 @@
 ---
+album: Wish You Were Here
 artists:
 - Mark Wills
+external_ids:
+  spotify: spotify:track:3pxspEmKcJFmegzjcJjq9l
 features: []
-genres: []
+first_released_as_single: false
 key: wish-you-were-here-mark-wills
 lyrics_url: https://genius.com/Mark-wills-wish-you-were-here-lyrics
 name: Wish You Were Here
@@ -87,6 +90,8 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1999-07-17'
+release_year: 1998
+runtime: 241960
 ---
 They kissed goodbye at the terminal gate
 She said, "You're gonna be late if you don't go"

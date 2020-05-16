@@ -1,8 +1,11 @@
 ---
+album: Fearless
 artists:
 - Tim Curry
+external_ids:
+  spotify: spotify:track:1pH0ZuY6owJ8sao2eZsx7g
 features: []
-genres: []
+first_released_as_single: false
 key: i-do-the-rock-tim-curry
 lyrics_url: https://genius.com/Tim-curry-i-do-the-rock-lyrics
 name: I Do The Rock
@@ -19,6 +22,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1979-11-17'
+release_year: 1979
+runtime: 281413
 ---
 Edith Sitwell giving readings
 14 Moscow Road

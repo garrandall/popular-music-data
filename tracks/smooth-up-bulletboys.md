@@ -1,8 +1,11 @@
 ---
+album: Bulletboys
 artists:
 - BulletBoys
+external_ids:
+  spotify: spotify:track:5QoTdzVSygZB3SRxgFUANZ
 features: []
-genres: []
+first_released_as_single: false
 key: smooth-up-bulletboys
 lyrics_url: https://www.azlyrics.com/lyrics/bulletboys/smoothupinya.html
 name: Smooth Up
@@ -47,8 +50,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1989-09-23'
+release_year: 1988
+runtime: 265960
 ---
-
 Smooth up in ya
 Mama, whoa
 
@@ -109,6 +113,3 @@ I said it before and I'll say it again
 
 (Smooth up in ya)
 (Smooth up in ya) I really want to go
-
-
-

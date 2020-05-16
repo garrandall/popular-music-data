@@ -1,8 +1,11 @@
 ---
+album: Somehow, Someway
 artists:
 - Chris Cuevas
+external_ids:
+  spotify: spotify:track:3Qis1jW7ro8rB95oR6A0TI
 features: []
-genres: []
+first_released_as_single: false
 key: you-are-the-one-chris-cuevas
 lyrics_url: https://www.musixmatch.com/lyrics/Chris-Cuevas/You-Are-the-One
 name: You Are The One
@@ -51,6 +54,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1992-04-11'
+release_year: 1991
+runtime: 257133
 ---
 Girl, just take my hand
 And pull me close to you

@@ -1,8 +1,11 @@
 ---
+album: Bleed American
 artists:
 - Jimmy Eat World
+external_ids:
+  spotify: spotify:track:6GG73Jik4jUlQCkKg9JuGO
 features: []
-genres: []
+first_released_as_single: false
 key: the-middle-jimmy-eat-world
 lyrics_url: https://genius.com/Jimmy-eat-world-the-middle-lyrics
 name: The Middle
@@ -139,6 +142,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2002-10-26'
+release_year: 2001
+runtime: 165853
 ---
 Hey, don't write yourself off yet
 It's only in your head you feel left out or looked down on

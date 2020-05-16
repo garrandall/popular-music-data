@@ -1,8 +1,11 @@
 ---
+album: Deborah Cox (Expanded)
 artists:
 - Deborah Cox
+external_ids:
+  spotify: spotify:track:54lhKZ69xX8TeHRgWNU3rU
 features: []
-genres: []
+first_released_as_single: false
 key: who-do-u-love-deborah-cox
 lyrics_url: https://www.azlyrics.com/lyrics/deborahcox/whodoulove.html
 name: Who Do U Love
@@ -87,8 +90,9 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '1996-06-15'
+release_year: 1995
+runtime: 262933
 ---
-
 Last night I slept alone
 I stayed at home
 For the first time since you've been gone babe
@@ -147,4 +151,3 @@ Baby you promised you'd never leave
 Slept alone since you've been gone
 The greatest pain I've ever known
 Oh babe, oh babe oh yeah
-

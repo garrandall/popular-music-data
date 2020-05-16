@@ -1,9 +1,12 @@
 ---
+album: Aladdin '52-'59:Let The Good Times Roll
 artists:
 - Shirley
 - Lee
+external_ids:
+  spotify: spotify:track:48UygVtYSfcjeEyCtNR8nI
 features: []
-genres: []
+first_released_as_single: false
 key: let-the-good-times-roll-shirley-lee
 lyrics_url: https://genius.com/Shirley-and-lee-let-the-good-times-roll-lyrics
 name: Let The Good Times Roll
@@ -28,6 +31,8 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '1960-10-03'
+release_year: 1960
+runtime: 145026
 ---
 Come on baby let the good times roll
 Come on baby let me thrill your soul

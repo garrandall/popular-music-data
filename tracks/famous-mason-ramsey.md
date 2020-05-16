@@ -1,8 +1,11 @@
 ---
+album: Famous EP
 artists:
 - Mason Ramsey
+external_ids:
+  spotify: spotify:track:1lasE4yXQmZ5mwWdGQGn8E
 features: []
-genres: []
+first_released_as_single: true
 key: famous-mason-ramsey
 lyrics_url: https://www.azlyrics.com/lyrics/masonramsey/famous.html
 name: Famous
@@ -15,8 +18,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2018-05-19'
+release_year: 2018
+runtime: 192520
 ---
-
 Don't get me wrong, it's pretty cool to be on TV
 So all the folks back home can see me
 And that I'm livin' it out
@@ -66,6 +70,3 @@ If I'm gonna be famous for something
 Girl, I wanna be famous for loving you
 Famous for loving you
 Famous for loving you
-
-
-

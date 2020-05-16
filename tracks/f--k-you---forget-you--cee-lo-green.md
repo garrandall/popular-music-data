@@ -1,8 +1,11 @@
 ---
+album: Ultimate Pop Hits 2010
 artists:
 - Cee Lo Green
+external_ids:
+  spotify: spotify:track:0qqQui3tz478Qe5ROSYL3s
 features: []
-genres: []
+first_released_as_single: false
 key: f--k-you---forget-you--cee-lo-green
 lyrics_url: https://genius.com/Ceelo-green-fk-you-le-castle-vania-remix-lyrics
 name: F**k You! (Forget You)
@@ -199,6 +202,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2011-08-06'
+release_year: 2010
+runtime: 204539
 ---
 See you driving 'round town
 With the girl I love and I'm like

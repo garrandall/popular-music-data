@@ -1,8 +1,11 @@
 ---
+album: Horizon
 artists:
 - Carpenters
+external_ids:
+  spotify: spotify:track:6pVLgwDRTCORcbn5czge5R
 features: []
-genres: []
+first_released_as_single: false
 key: only-yesterday-carpenters
 lyrics_url: https://www.azlyrics.com/lyrics/carpenters/onlyyesterday.html
 name: Only Yesterday
@@ -59,8 +62,9 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '1975-06-21'
+release_year: 1975
+runtime: 250868
 ---
-
 After long enough of being alone
 Everyone must face their share of loneliness
 In my own time nobody knew
@@ -102,6 +106,3 @@ You showed me the way to leave the past and all its tears behind me
 Tomorrow maybe even brighter than today
 Since I threw my sadness away
 Only yesterday
-
-
-

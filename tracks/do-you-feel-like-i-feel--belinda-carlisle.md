@@ -1,8 +1,11 @@
 ---
+album: Live Your Life Be Free
 artists:
 - Belinda Carlisle
+external_ids:
+  spotify: spotify:track:0qj2f9zfJY6ZODV8euqeqN
 features: []
-genres: []
+first_released_as_single: false
 key: do-you-feel-like-i-feel--belinda-carlisle
 lyrics_url: https://www.azlyrics.com/lyrics/belindacarlisle/doyoufeellikeifeel.html
 name: Do You Feel Like I Feel?
@@ -31,8 +34,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1991-11-30'
+release_year: 1991
+runtime: 309266
 ---
-
 I don't know how you do what you do
 I'm so shaken by you baby
 I can barely breath
@@ -84,6 +88,3 @@ Come on baby let me know
 When you held me last night were your words really real
 God I'm so much in love
 Do you feel like I feel, like I feel, like I feel
-
-
-

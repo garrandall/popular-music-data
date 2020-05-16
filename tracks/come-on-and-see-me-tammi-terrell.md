@@ -1,8 +1,11 @@
 ---
+album: The Essential Collection
 artists:
 - Tammi Terrell
+external_ids:
+  spotify: spotify:track:0Ud3GKcZflDTfmxz3zVjHO
 features: []
-genres: []
+first_released_as_single: false
 key: come-on-and-see-me-tammi-terrell
 lyrics_url: https://genius.com/Tammi-terrell-come-on-and-see-me-lyrics
 name: Come On And See Me
@@ -27,6 +30,8 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1966-06-25'
+release_year: 1966
+runtime: 140840
 ---
 (Come on and see me, baby)
 (Come on and see me, baby)

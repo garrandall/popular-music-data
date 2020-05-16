@@ -1,9 +1,12 @@
 ---
+album: Christmas Doo Wop & Pop, Vol. 2
 artists:
 - Santo
 - Johnny
+external_ids:
+  spotify: spotify:track:3fmiv8iOGtzaMASgR6ZZSg
 features: []
-genres: []
+first_released_as_single: false
 key: twistin--bells-santo-johnny
 lyrics_url: https://genius.com/Santo-and-johnny-twistin-bells-lyrics
 name: Twistin' Bells
@@ -20,5 +23,7 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1961-01-02'
+release_year: 1960
+runtime: 141373
 ---
 Instrumental

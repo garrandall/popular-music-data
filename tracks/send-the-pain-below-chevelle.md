@@ -1,8 +1,11 @@
 ---
+album: Wonder What's Next
 artists:
 - Chevelle
+external_ids:
+  spotify: spotify:track:6dRAAG4sB71NAtVCHJep7s
 features: []
-genres: []
+first_released_as_single: false
 key: send-the-pain-below-chevelle
 lyrics_url: https://www.azlyrics.com/lyrics/chevelle/sendthepainbelow.html
 name: Send The Pain Below
@@ -87,8 +90,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2003-09-20'
+release_year: 2002
+runtime: 252360
 ---
-
 I liked having hurt,
 So send the pain below where I need it,
 You used to beg me to take care of things,
@@ -140,6 +144,3 @@ So send the pain below,
 So send the pain below,
 (Much like suffocating)
 So send the pain below.
-
-
-

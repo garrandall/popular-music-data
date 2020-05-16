@@ -1,8 +1,11 @@
 ---
+album: Everywhere
 artists:
 - Tim McGraw
+external_ids:
+  spotify: spotify:track:0DDGjbdZCFQwoD9mrUAxYV
 features: []
-genres: []
+first_released_as_single: false
 key: for-a-little-while-tim-mcgraw
 lyrics_url: https://www.azlyrics.com/lyrics/timmcgraw/foralittlewhile.html
 name: For A Little While
@@ -67,8 +70,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1999-03-13'
+release_year: 1997
+runtime: 213893
 ---
-
 Hot sun dancin' on the river
 We're sittin on the bank and watch the world go by
 Our feet in the water she pressed her lips to mine
@@ -101,6 +105,3 @@ We sent that summer out in style
 And she's gone but she let me with a smile
 'Cause she was mine for a little while
 Yeah she was mine for a little while
-
-
-

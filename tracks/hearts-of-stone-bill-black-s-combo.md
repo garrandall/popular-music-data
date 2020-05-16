@@ -1,8 +1,11 @@
 ---
+album: Bill Black's Combo
 artists:
 - Bill Black's Combo
+external_ids:
+  spotify: spotify:track:4WM36VkqEsDM7Z5jOWqZzy
 features: []
-genres: []
+first_released_as_single: false
 key: hearts-of-stone-bill-black-s-combo
 name: Hearts Of Stone
 rankings:
@@ -38,5 +41,7 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1961-04-10'
+release_year: 1961
+runtime: 126360
 ---
 

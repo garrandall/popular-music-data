@@ -1,8 +1,11 @@
 ---
+album: Mother Nature's Son
 artists:
 - Ramsey Lewis
+external_ids:
+  spotify: spotify:track:75g38CqUeSfxh89MM1roXK
 features: []
-genres: []
+first_released_as_single: false
 key: julia-ramsey-lewis
 lyrics_url: https://www.musixmatch.com/lyrics/Ramsey-Lewis/Julia
 name: Julia
@@ -39,6 +42,8 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1969-11-15'
+release_year: 1968
+runtime: 259360
 ---
 Half of what I say is meaningless
 But I say it just to reach you, Julia.

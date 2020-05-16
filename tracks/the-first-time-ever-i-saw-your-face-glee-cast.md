@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music, The Complete Season Three'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:23Rf3dYpmLrmEEc3Z5GIlA
 features: []
-genres: []
+first_released_as_single: false
 key: the-first-time-ever-i-saw-your-face-glee-cast
 lyrics_url: https://www.azlyrics.com/lyrics/gleecast/thefirsttimeeverisawyourface.html
 name: The First Time Ever I Saw Your Face
@@ -11,9 +14,9 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '2012-02-04'
+release_year: 2012
+runtime: 257413
 ---
-
-
 The first time, ever I saw your face
 I thought the sun rose in your eyes
 
@@ -54,6 +57,3 @@ Your face
 Your face
 
 Your face
-
-
-

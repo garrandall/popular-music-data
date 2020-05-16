@@ -1,8 +1,11 @@
 ---
+album: What's The 411?
 artists:
 - Mary J. Blige
+external_ids:
+  spotify: spotify:track:3X3XuCPTC95ARm9SguWsIa
 features: []
-genres: []
+first_released_as_single: false
 key: sweet-thing-mary-j--blige
 lyrics_url: https://genius.com/Mary-j-blige-sweet-thing-lyrics
 name: Sweet Thing
@@ -87,6 +90,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1993-06-26'
+release_year: 1992
+runtime: 225333
 ---
 I will love you anyway, even if you cannot stay
 I think you are the one for me

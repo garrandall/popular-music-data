@@ -1,8 +1,11 @@
 ---
+album: 'The Sweet Soul Show: Live at Newark''s Symphony Hall - Volume 3'
 artists:
 - The Persuaders
+external_ids:
+  spotify: spotify:track:1IcAbRGMeFwkG98WgpVrRm
 features: []
-genres: []
+first_released_as_single: false
 key: some-guys-have-all-the-luck-the-persuaders
 lyrics_url: https://genius.com/Persuaders-some-guys-have-all-the-luck-lyrics
 name: Some Guys Have All The Luck
@@ -51,6 +54,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1974-01-12'
+release_year: 1973
+runtime: 312173
 ---
 Alone in a crowd on a bus after work
 I'm daydreaming

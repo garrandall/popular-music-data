@@ -1,8 +1,11 @@
 ---
+album: Wild Palms (Original ABC Event Series Soundtrack)
 artists:
 - Lou Christie
+external_ids:
+  spotify: spotify:track:2dwE8Ca1NI2b9PxA8ZJVwn
 features: []
-genres: []
+first_released_as_single: false
 key: lightnin--strikes-lou-christie
 lyrics_url: https://genius.com/Lou-christie-lightnin-strikes-lyrics
 name: Lightnin' Strikes
@@ -67,6 +70,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1966-04-02'
+release_year: 1965
+runtime: 180600
 ---
 Listen to me, baby
 You gotta understand

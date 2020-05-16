@@ -1,8 +1,11 @@
 ---
+album: Chubby Checker Classics
 artists:
 - Chubby Checker
+external_ids:
+  spotify: spotify:track:6DSvUZQdqtNfkJI4cAiUsM
 features: []
-genres: []
+first_released_as_single: false
 key: the-twist-chubby-checker
 lyrics_url: https://genius.com/Chubby-checker-the-twist-lyrics
 name: The Twist
@@ -163,6 +166,8 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '1962-04-07'
+release_year: 1960
+runtime: 158866
 ---
 Come on baby let's do the twist
 Come on baby let's do the twist

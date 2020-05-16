@@ -1,8 +1,11 @@
 ---
+album: 808s & Heartbreak
 artists:
 - Kanye West
+external_ids:
+  spotify: spotify:track:4EWCNWgDS8707fNSZ1oaA5
 features: []
-genres: []
+first_released_as_single: false
 key: heartless-kanye-west
 lyrics_url: https://www.azlyrics.com/lyrics/kanyewest/heartless.html
 name: Heartless
@@ -127,8 +130,9 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '2009-06-13'
+release_year: 2008
+runtime: 211000
 ---
-
 In the night, I hear them talk the coldest story ever told
 Somewhere far along this road, he lost his soul
 To a woman so heartless 
@@ -193,6 +197,3 @@ Somewhere far along this road
 He lost his soul to a woman so heartless 
 How could you be so heartless 
 Oh, how could you be so heartless?
-
-
-

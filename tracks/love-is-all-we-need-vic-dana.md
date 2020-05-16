@@ -1,8 +1,11 @@
 ---
+album: The Complete Hits Of Vic Dana
 artists:
 - Vic Dana
+external_ids:
+  spotify: spotify:track:4ep8BNCyKcSj2zFbeUenSv
 features: []
-genres: []
+first_released_as_single: false
 key: love-is-all-we-need-vic-dana
 lyrics_url: https://genius.com/Vic-dana-love-is-all-we-need-lyrics
 name: Love Is All We Need
@@ -35,6 +38,8 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '1964-08-22'
+release_year: 1964
+runtime: 144906
 ---
 (Love is, oh love is, oh
 

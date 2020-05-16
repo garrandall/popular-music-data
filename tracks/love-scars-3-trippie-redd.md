@@ -1,8 +1,11 @@
 ---
+album: A Love Letter To You 3
 artists:
 - Trippie Redd
+external_ids:
+  spotify: spotify:track:0AcicReEGm1qcENjqzh1Tg
 features: []
-genres: []
+first_released_as_single: false
 key: love-scars-3-trippie-redd
 lyrics_url: https://www.azlyrics.com/lyrics/trippieredd/lovescars3.html
 name: Love Scars 3
@@ -11,8 +14,9 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '2018-11-24'
+release_year: 2018
+runtime: 129429
 ---
-
 Shawty, do not play no games with me
 Yeah, the shit is lame to me
 Spend every night and every day with me
@@ -42,6 +46,3 @@ Baby stay with me
 Yeah, baby stay with me
 Yeah, baby stay with me
 Yeah, baby stay with me, yeah
-
-
-

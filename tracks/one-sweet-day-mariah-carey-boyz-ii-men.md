@@ -1,9 +1,12 @@
 ---
+album: Daydream
 artists:
 - Mariah Carey
 - Boyz II Men
+external_ids:
+  spotify: spotify:track:7ySbfLwdCwl1EM0zNCJZ38
 features: []
-genres: []
+first_released_as_single: false
 key: one-sweet-day-mariah-carey-boyz-ii-men
 lyrics_url: https://genius.com/Mariah-carey-one-sweet-day-lyrics
 name: One Sweet Day
@@ -116,6 +119,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1996-06-01'
+release_year: 1995
+runtime: 281066
 ---
 Sorry I never told you
 All I wanted to say

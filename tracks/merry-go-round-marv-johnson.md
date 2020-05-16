@@ -1,8 +1,11 @@
 ---
+album: Anthology Vol.1
 artists:
 - Marv Johnson
+external_ids:
+  spotify: spotify:track:77KfccxlZ8Mq6Jk1kqCaal
 features: []
-genres: []
+first_released_as_single: false
 key: merry-go-round-marv-johnson
 lyrics_url: https://genius.com/Marv-johnson-merry-go-round-lyrics
 name: Merry-Go-Round
@@ -31,6 +34,8 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '1961-04-17'
+release_year: 1961
+runtime: 158973
 ---
 Merry-go-round, merry-go-round, merry-go-round, merry-go-round
 

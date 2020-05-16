@@ -1,8 +1,11 @@
 ---
+album: The Dells Live
 artists:
 - The Dells
+external_ids:
+  spotify: spotify:track:5Is0r0E2JuW69TDyID9FVU
 features: []
-genres: []
+first_released_as_single: false
 key: always-together-the-dells
 lyrics_url: https://genius.com/The-dells-always-together-lyrics
 name: Always Together
@@ -39,6 +42,8 @@ rankings:
   rank: 29
   ranking_list: Billboard Hot 100
   start_date: '1968-11-30'
+release_year: 1968
+runtime: 186933
 ---
 (Just you, just me, always together)
 

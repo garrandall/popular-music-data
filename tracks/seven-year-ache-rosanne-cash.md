@@ -1,8 +1,11 @@
 ---
+album: Hits 1979 - 1989
 artists:
 - Rosanne Cash
+external_ids:
+  spotify: spotify:track:2bYp7DYfjXULM24FUh9Z3Q
 features: []
-genres: []
+first_released_as_single: false
 key: seven-year-ache-rosanne-cash
 lyrics_url: https://www.azlyrics.com/lyrics/rosannecash/sevenyearache.html
 name: Seven Year Ache
@@ -87,8 +90,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1981-09-05'
+release_year: 1979
+runtime: 194853
 ---
-
 You act like you were just born tonight
 Face down in a memory but feeling all right
 So who does your past belong to today
@@ -123,6 +127,3 @@ Tell me you're trying to cure a seven year ache
 See what else your old heart can take
 Boys say, "when is he gonna give us some room"
 The girls say, "God, I hope he comes back soon"
-
-
-

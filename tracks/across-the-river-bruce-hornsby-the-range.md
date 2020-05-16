@@ -1,9 +1,12 @@
 ---
+album: Night On The Town
 artists:
 - Bruce Hornsby
 - The Range
+external_ids:
+  spotify: spotify:track:72vw18TcgD8jmJvBr9qaVZ
 features: []
-genres: []
+first_released_as_single: false
 key: across-the-river-bruce-hornsby-the-range
 lyrics_url: https://genius.com/Bruce-hornsby-and-the-range-across-the-river-lyrics
 name: Across The River
@@ -72,6 +75,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1990-10-06'
+release_year: 1990
+runtime: 309720
 ---
 Well, she moved back around here
 Thirty-five weeks ago today

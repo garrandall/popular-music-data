@@ -1,8 +1,11 @@
 ---
+album: Count Three & Pray
 artists:
 - Berlin
+external_ids:
+  spotify: spotify:track:50jEs9EZZgXJ1oDZVAv7Wp
 features: []
-genres: []
+first_released_as_single: false
 key: take-my-breath-away--love-theme-from--top-gun---berlin
 lyrics_url: https://genius.com/Berlin-take-my-breath-away-lyrics
 name: Take My Breath Away (Love Theme From "Top Gun")
@@ -91,6 +94,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1986-11-08'
+release_year: 1986
+runtime: 252000
 ---
 Watching every motion in my foolish lover's game
 On this endless ocean, finally lovers know no shame

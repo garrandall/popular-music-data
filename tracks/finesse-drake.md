@@ -1,8 +1,11 @@
 ---
+album: Scorpion
 artists:
 - Drake
+external_ids:
+  spotify: spotify:track:2WP8G2pdddDmnh1xbfKBOI
 features: []
-genres: []
+first_released_as_single: false
 key: finesse-drake
 lyrics_url: https://genius.com/Drake-finesse-lyrics
 name: Finesse
@@ -15,6 +18,8 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '2018-07-21'
+release_year: 2018
+runtime: 182080
 ---
 Yeah, turn everything up
 Yeah, oh yeah

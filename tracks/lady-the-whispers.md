@@ -1,8 +1,11 @@
 ---
+album: The Whispers Live From Las Vegas (CD/Audio)
 artists:
 - The Whispers
+external_ids:
+  spotify: spotify:track:7sPLPOIORz3sLE2oNbpndr
 features: []
-genres: []
+first_released_as_single: false
 key: lady-the-whispers
 lyrics_url: https://genius.com/The-whispers-lady-lyrics
 name: Lady
@@ -51,6 +54,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1980-06-28'
+release_year: 1980
+runtime: 307506
 ---
 You say you love me lady, girl, I hope you do
 Only you can save me, my life equals you

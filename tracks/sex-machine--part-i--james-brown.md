@@ -1,8 +1,11 @@
 ---
+album: Sex Machine
 artists:
 - James Brown
+external_ids:
+  spotify: spotify:track:3a0yUOy37HakWw8cFgzkGt
 features: []
-genres: []
+first_released_as_single: false
 key: sex-machine--part-i--james-brown
 lyrics_url: https://www.musixmatch.com/lyrics/James-Brown/Get-Up-I-Feel-Like-Being-a-Sex-Machine-Pts-1-2
 name: Sex Machine (Part I)
@@ -27,6 +30,8 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '1975-06-14'
+release_year: 1970
+runtime: 648960
 ---
 Fellas, I'm ready to get up and do my thing
 I wanna get into it man, you know

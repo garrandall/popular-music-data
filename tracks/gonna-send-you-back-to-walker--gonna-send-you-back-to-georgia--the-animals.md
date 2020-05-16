@@ -1,8 +1,11 @@
 ---
+album: The Animals
 artists:
 - The Animals
+external_ids:
+  spotify: spotify:track:5nd30yLV20WchofpW7Uy0e
 features: []
-genres: []
+first_released_as_single: false
 key: gonna-send-you-back-to-walker--gonna-send-you-back-to-georgia--the-animals
 lyrics_url: https://genius.com/The-animals-gonna-send-you-back-to-walker-lyrics
 name: Gonna Send You Back To Walker (Gonna Send You Back To Georgia)
@@ -19,6 +22,8 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '1964-09-26'
+release_year: 1964
+runtime: 149800
 ---
 You had nothin' when I met you baby
 But look what you got now

@@ -1,8 +1,11 @@
 ---
+album: Dancing Machine
 artists:
 - Jackson 5
+external_ids:
+  spotify: spotify:track:6dFgL7VMBsjZvcVVI3azR5
 features: []
-genres: []
+first_released_as_single: false
 key: whatever-you-got-i-want-jackson-5
 lyrics_url: https://www.azlyrics.com/lyrics/jackson5/whateveryougotiwant.html
 name: Whatever You Got I Want
@@ -51,8 +54,9 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1975-01-04'
+release_year: 1974
+runtime: 175600
 ---
-
 Whatever you got, I want
 Whatever you want
 I'll give to you
@@ -112,4 +116,3 @@ Now
 Whatever you got, I want
 Whatever it takes
 I'm willing to do
-

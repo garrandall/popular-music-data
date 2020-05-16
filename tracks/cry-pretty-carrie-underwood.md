@@ -1,8 +1,11 @@
 ---
+album: Cry Pretty
 artists:
 - Carrie Underwood
+external_ids:
+  spotify: spotify:track:47gqRMoIkFm7Rac86xZVh7
 features: []
-genres: []
+first_released_as_single: true
 key: cry-pretty-carrie-underwood
 lyrics_url: https://www.azlyrics.com/lyrics/carrieunderwood/crypretty.html
 name: Cry Pretty
@@ -55,8 +58,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2018-09-29'
+release_year: 2018
+runtime: 246466
 ---
-
 I'm sorry
 But I'm just a girl not usually the kind to show my heart to the world
 I'm pretty good at keeping it together
@@ -105,6 +109,3 @@ You can't cry
 You can't cry pretty, baby, oh yeah
 
 No, you can't cry pretty...
-
-
-

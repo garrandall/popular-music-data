@@ -1,8 +1,11 @@
 ---
+album: Kick
 artists:
 - INXS
+external_ids:
+  spotify: spotify:track:2bxY1baYlyXNzmjOkFvqId
 features: []
-genres: []
+first_released_as_single: false
 key: new-sensation-inxs
 lyrics_url: https://www.azlyrics.com/lyrics/inxs/newsensation.html
 name: New Sensation
@@ -75,8 +78,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1988-09-03'
+release_year: 1987
+runtime: 219813
 ---
-
 Live baby live
 Now that the day is over
 I got a new sensation
@@ -132,6 +136,3 @@ Well that's all we've got to do
 
 Hey now I'm gonna take a new sensation
 A new sensation
-
-
-

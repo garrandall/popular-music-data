@@ -1,8 +1,11 @@
 ---
+album: Tyler
 artists:
 - Tyler Collins
+external_ids:
+  spotify: spotify:track:2lYbiFiyAweiOwFd65IwnP
 features: []
-genres: []
+first_released_as_single: false
 key: it-doesn-t-matter-tyler-collins
 lyrics_url: https://genius.com/Tyler-collins-it-doesnt-matter-lyrics
 name: It Doesn't Matter
@@ -19,6 +22,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1992-10-03'
+release_year: 1992
+runtime: 364560
 ---
 It doesn't matter
 It doesn't matter

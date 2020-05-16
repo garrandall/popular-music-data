@@ -1,8 +1,11 @@
 ---
+album: The One
 artists:
 - Frankie J
+external_ids:
+  spotify: spotify:track:1XE1UGRpvvkaFEeqe1OJpw
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-wanna-try-frankie-j
 lyrics_url: https://www.azlyrics.com/lyrics/frankiej/dontwannatry.html
 name: Don't Wanna Try
@@ -87,8 +90,9 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '2003-08-23'
+release_year: 2003
+runtime: 245293
 ---
-
 (oo)...don't wanna try don't wanna try (try try)
 (oo)..don't wanna try no more
 (oo)..don't wanna try don't wanna try don't wanna try
@@ -145,6 +149,3 @@ tell me whats the use of holdin' on when all we do is hurt our love
 (don't wanna try don't wanna try)
 (don't wanna try no more)
 (don't wanna try don't wanna try don't wanna try no more oo)
-
-
-

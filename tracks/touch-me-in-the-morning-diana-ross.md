@@ -1,8 +1,11 @@
 ---
+album: Touch Me In The Morning
 artists:
 - Diana Ross
+external_ids:
+  spotify: spotify:track:4sIkDCqNjTubfb5UVs8lEA
 features: []
-genres: []
+first_released_as_single: false
 key: touch-me-in-the-morning-diana-ross
 lyrics_url: https://www.azlyrics.com/lyrics/dianaross/touchmeinthemorning.html
 name: Touch Me In The Morning
@@ -91,8 +94,9 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '1973-10-20'
+release_year: 1973
+runtime: 207413
 ---
-
 Touch me in the morning
 Then just walk away
 We don't have tomorrow
@@ -150,6 +154,3 @@ There's no tomorrow here
 There's only love and the time to chase it
 Yesterday's gone my love
 There's only now and it's time to face it
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: 40 Dayz & 40 Nightz (Explicit)
 artists:
 - Xzibit
+external_ids:
+  spotify: spotify:track:4ezafcOuI5em8LoE2xxnpv
 features: []
-genres: []
+first_released_as_single: false
 key: what-u-see-is-what-u-get-xzibit
 lyrics_url: https://genius.com/Xzibit-what-u-see-is-what-u-get-lyrics
 name: What U See Is What U Get
@@ -63,6 +66,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1998-10-31'
+release_year: 1998
+runtime: 308906
 ---
 And so it was written, and after all these things
 I saw another angel come down from heaven

@@ -1,8 +1,11 @@
 ---
+album: The Real Thing
 artists:
 - Bo Bice
+external_ids:
+  spotify: spotify:track:3T3Epzn2xHawkZ7uzxR13p
 features: []
-genres: []
+first_released_as_single: false
 key: the-real-thing-bo-bice
 lyrics_url: https://www.azlyrics.com/lyrics/bobice/therealthing.html
 name: The Real Thing
@@ -71,8 +74,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2006-07-08'
+release_year: 2005
+runtime: 201666
 ---
-
 Every word I say, I mean it
 Every single day, I feel it
 
@@ -130,6 +134,3 @@ Tell me that you want the same things as me
 Tell me that it's fate, driving me insane
 Tell me it's the real thing
 The real thing
-
-
-

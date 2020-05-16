@@ -1,8 +1,11 @@
 ---
+album: The Singles & Albums Collection 1958-62
 artists:
 - Annette With The Afterbeats
+external_ids:
+  spotify: spotify:track:0xOjmN1KObCSpVv25VyXRv
 features: []
-genres: []
+first_released_as_single: false
 key: first-name-initial-annette-with-the-afterbeats
 name: First Name Initial
 rankings:
@@ -78,5 +81,7 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '1960-02-22'
+release_year: 1959
+runtime: 141613
 ---
 

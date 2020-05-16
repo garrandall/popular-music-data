@@ -1,8 +1,11 @@
 ---
+album: Spirit
 artists:
 - Earth, Wind & Fire
+external_ids:
+  spotify: spotify:track:1XCt27nKEY66dBkvBWBmnV
 features: []
-genres: []
+first_released_as_single: false
 key: saturday-nite-earth-wind-fire
 lyrics_url: https://www.azlyrics.com/lyrics/earthwindandfire/saturdaynite.html
 name: Saturday Nite
@@ -67,8 +70,9 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1977-02-26'
+release_year: 1976
+runtime: 242066
 ---
-
 It was Saturday nite,
 the moon was bright
 Shining down, it's harvest light
@@ -113,6 +117,3 @@ Humpty-Dumpty why'd you fall
 You see there's no one here to call
 Now we've solved this mystery
 You see, you see, you see
-
-
-

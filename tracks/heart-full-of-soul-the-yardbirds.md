@@ -1,8 +1,11 @@
 ---
+album: Making Tracks (Live)
 artists:
 - The Yardbirds
+external_ids:
+  spotify: spotify:track:0AiuEo7FCxP2y2WTOpLPe5
 features: []
-genres: []
+first_released_as_single: false
 key: heart-full-of-soul-the-yardbirds
 lyrics_url: https://genius.com/The-yardbirds-heart-full-of-soul-lyrics
 name: Heart Full Of Soul
@@ -55,6 +58,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1965-10-16'
+release_year: 1965
+runtime: 147893
 ---
 Sick at heart and lonely
 Deep in dark despair

@@ -1,8 +1,11 @@
 ---
+album: Who We Are
 artists:
 - Lifehouse
+external_ids:
+  spotify: spotify:track:3nzL5CIQiCEt6jRt1AlQ9d
 features: []
-genres: []
+first_released_as_single: false
 key: whatever-it-takes-lifehouse
 lyrics_url: https://www.azlyrics.com/lyrics/lifehouse/whateverittakes.html
 name: Whatever It Takes
@@ -87,8 +90,9 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '2008-06-14'
+release_year: 2007
+runtime: 207240
 ---
-
 A strangled smile fell from your face
 It kills me that I hurt you this way
 The worst part is that I didn't even know
@@ -129,6 +133,3 @@ I know I've let you down
 And if you give me a chance
 and believe that I can change
 I'll keep us together whatever it takes
-
-
-

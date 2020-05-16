@@ -1,8 +1,11 @@
 ---
+album: 'The Best Of Major Lance: Everybody Loves A Good Time!'
 artists:
 - Major Lance
+external_ids:
+  spotify: spotify:track:7zMN7kB99o6zAbvDCoLoaD
 features: []
-genres: []
+first_released_as_single: false
 key: come-see-major-lance
 lyrics_url: https://genius.com/Major-lance-come-see-lyrics
 name: Come See
@@ -35,6 +38,8 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1965-04-17'
+release_year: 1965
+runtime: 140040
 ---
 Hey, mama, won't you come and see
 What the music has done to me

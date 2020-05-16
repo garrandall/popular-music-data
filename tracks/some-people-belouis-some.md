@@ -1,8 +1,11 @@
 ---
+album: Some People
 artists:
 - Belouis Some
+external_ids:
+  spotify: spotify:track:5Tj5OBsNWNQov8FJRzCrdw
 features: []
-genres: []
+first_released_as_single: false
 key: some-people-belouis-some
 lyrics_url: https://www.musixmatch.com/lyrics/Belouis-Some/Some-People
 name: Some People
@@ -31,6 +34,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1985-09-07'
+release_year: 1985
+runtime: 236840
 ---
 Some people dance cheek to cheek
 Some people dance

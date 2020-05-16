@@ -1,8 +1,11 @@
 ---
+album: 80s Party, Vol. 7
 artists:
 - Stars On 45
+external_ids:
+  spotify: spotify:track:0XnU9iGYwmiWhwbZ2BjzsN
 features: []
-genres: []
+first_released_as_single: false
 key: medley-stars-on-45
 lyrics_url: https://genius.com/Stars-on-45-stars-on-45-medley-lyrics
 name: Medley
@@ -91,6 +94,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1981-08-29'
+release_year: 1981
+runtime: 291706
 ---
 You can boogie like disco, love that disco sound
 Turn up the volume and move it all around

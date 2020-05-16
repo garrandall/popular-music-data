@@ -1,9 +1,12 @@
 ---
+album: Discover 60s One Hit Wonders
 artists:
 - Inez Foxx
+external_ids:
+  spotify: spotify:track:0mG9D5Gm1O61jxrZDSKI8c
 features:
 - Charlie Foxx
-genres: []
+first_released_as_single: false
 key: mockingbird-inez-foxx-with-charlie-foxx
 lyrics_url: https://www.musixmatch.com/lyrics/Inez-Foxx-Charlie-Foxx/Mockingbird
 name: Mockingbird
@@ -80,6 +83,8 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '1963-10-19'
+release_year: 1963
+runtime: 158641
 ---
 Mock (yeah)
 Ing (yeah)

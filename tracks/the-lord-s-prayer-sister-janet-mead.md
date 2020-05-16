@@ -1,8 +1,11 @@
 ---
+album: A Time to Sing
 artists:
 - Sister Janet Mead
+external_ids:
+  spotify: spotify:track:2GLnxNLB83jsC3T3RF2XBW
 features: []
-genres: []
+first_released_as_single: false
 key: the-lord-s-prayer-sister-janet-mead
 lyrics_url: https://genius.com/Sister-janet-mead-the-lords-prayer-lyrics
 name: The Lord's Prayer
@@ -59,6 +62,8 @@ rankings:
   rank: 35
   ranking_list: Billboard Hot 100
   start_date: '1974-05-18'
+release_year: 1974
+runtime: 186000
 ---
 Our Father
 Who art in heaven

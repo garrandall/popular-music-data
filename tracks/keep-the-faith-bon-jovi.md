@@ -1,8 +1,11 @@
 ---
+album: Keep The Faith
 artists:
 - Bon Jovi
+external_ids:
+  spotify: spotify:track:5EWtBjCLy21d1hY9zdaEe8
 features: []
-genres: []
+first_released_as_single: false
 key: keep-the-faith-bon-jovi
 lyrics_url: https://genius.com/Bon-jovi-keep-the-faith-lyrics
 name: Keep The Faith
@@ -71,6 +74,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1993-02-06'
+release_year: 1992
+runtime: 346533
 ---
 Mother mother tell your children
 That their time has just begun

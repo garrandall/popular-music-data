@@ -1,9 +1,12 @@
 ---
+album: QUAVO HUNCHO
 artists:
 - Quavo
+external_ids:
+  spotify: spotify:track:3edzl4zvKFi0D3iuF6cs2f
 features:
 - 21 Savage
-genres: []
+first_released_as_single: false
 key: pass-out-quavo-21-savage
 lyrics_url: https://www.azlyrics.com/lyrics/quavo/passout.html
 name: Pass Out
@@ -12,9 +15,9 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '2018-10-27'
+release_year: 2018
+runtime: 224903
 ---
-
-
 22 million dollars in cash left on the street
 The boy who picked up the cash? Went on a mission
 (Buddah Bless this beat)
@@ -109,6 +112,3 @@ Satellites on the plane, think the prezi flyin' (Dope)
 Beep, beep! Fuck it, dead line (Fuck it)
 Took your bitch to the bank, now her head's mine (Toppy)
 If I ever have kids, inherit my bread line (Oh!)
-
-
-

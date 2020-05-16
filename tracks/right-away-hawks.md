@@ -1,8 +1,11 @@
 ---
+album: The Hawks
 artists:
 - Hawks
+external_ids:
+  spotify: spotify:track:63eQ8jKMuLilIScw6fPKGf
 features: []
-genres: []
+first_released_as_single: false
 key: right-away-hawks
 name: Right Away
 rankings:
@@ -34,5 +37,7 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1981-04-25'
+release_year: 1980
+runtime: 219036
 ---
 

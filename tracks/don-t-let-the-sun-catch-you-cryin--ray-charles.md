@@ -1,8 +1,11 @@
 ---
+album: The Genius Of Ray Charles
 artists:
 - Ray Charles
+external_ids:
+  spotify: spotify:track:3pEwXiu1AVstyAluolJnW7
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-let-the-sun-catch-you-cryin--ray-charles
 lyrics_url: https://genius.com/Ray-charles-dont-let-the-sun-catch-you-cryin-lyrics
 name: Don't Let The Sun Catch You Cryin'
@@ -15,6 +18,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1960-02-15'
+release_year: 1959
+runtime: 225333
 ---
 Don't let the sun catch you crying
 Crying at my front door

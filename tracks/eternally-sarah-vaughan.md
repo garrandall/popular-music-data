@@ -1,8 +1,11 @@
 ---
+album: Sarah Vaughan's Golden Hits
 artists:
 - Sarah Vaughan
+external_ids:
+  spotify: spotify:track:1xYZbzKH9rRC2x0tiOVgB7
 features: []
-genres: []
+first_released_as_single: false
 key: eternally-sarah-vaughan
 lyrics_url: https://genius.com/Sarah-vaughan-eternally-lyrics
 name: Eternally
@@ -39,6 +42,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1960-03-28'
+release_year: 1958
+runtime: 143493
 ---
 I'll be loving you eternally
 With a love that's true, eternally

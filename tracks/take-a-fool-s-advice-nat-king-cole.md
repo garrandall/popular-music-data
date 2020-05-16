@@ -1,8 +1,11 @@
 ---
+album: Sincerely
 artists:
 - Nat King Cole
+external_ids:
+  spotify: spotify:track:3jHjhvyYmuyNmZilVONE59
 features: []
-genres: []
+first_released_as_single: false
 key: take-a-fool-s-advice-nat-king-cole
 lyrics_url: https://www.azlyrics.com/lyrics/natkingcole/takeafoolsadvice.html
 name: Take A Fool's Advice
@@ -35,8 +38,9 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1961-08-07'
+release_year: 1961
+runtime: 143133
 ---
-
 If you love her
 And she makes one mistake,
 Please don't leave her
@@ -67,6 +71,3 @@ Don't pay the price I had to pay.
 
 Take a fool's advice,
 Don't pay the price I had to pay.
-
-
-

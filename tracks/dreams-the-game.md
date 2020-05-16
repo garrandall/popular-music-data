@@ -1,8 +1,11 @@
 ---
+album: The Documentary
 artists:
 - The Game
+external_ids:
+  spotify: spotify:track:4HcSR1ee0D6VjceoUmeJ4V
 features: []
-genres: []
+first_released_as_single: false
 key: dreams-the-game
 lyrics_url: https://genius.com/The-game-dreams-lyrics
 name: Dreams
@@ -59,6 +62,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2005-08-27'
+release_year: 2004
+runtime: 286506
 ---
 "And I brought—"
 "And I brought—"

@@ -1,8 +1,11 @@
 ---
+album: I'm Your Playmate
 artists:
 - Suave
+external_ids:
+  spotify: spotify:track:5WFQZpKy1fDjJaDkeXJ4Be
 features: []
-genres: []
+first_released_as_single: false
 key: my-girl-suave
 lyrics_url: https://genius.com/Suave-my-girl-lyrics
 name: My Girl
@@ -67,6 +70,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1988-06-18'
+release_year: 1988
+runtime: 339533
 ---
 I've got sunshine on a cloudy day
 When it's cold outside

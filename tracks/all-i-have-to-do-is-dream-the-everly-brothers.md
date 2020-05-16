@@ -1,8 +1,11 @@
 ---
+album: All I Have to Do Is Dream
 artists:
 - The Everly Brothers
+external_ids:
+  spotify: spotify:track:7dblNGnRXEBrVJunazs2U5
 features: []
-genres: []
+first_released_as_single: false
 key: all-i-have-to-do-is-dream-the-everly-brothers
 lyrics_url: https://genius.com/The-everly-brothers-all-i-have-to-do-is-dream-lyrics
 name: All I Have To Do Is Dream
@@ -23,6 +26,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1961-07-31'
+release_year: 1958
+runtime: 143333
 ---
 Dream, dream, dream, dream
 Dream, dream, dream, dream

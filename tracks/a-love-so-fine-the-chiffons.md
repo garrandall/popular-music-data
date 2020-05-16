@@ -1,8 +1,11 @@
 ---
+album: The Chiffons Absolutely The Best!
 artists:
 - The Chiffons
+external_ids:
+  spotify: spotify:track:2Z5rJNI4Wdxud3vwm42l4n
 features: []
-genres: []
+first_released_as_single: false
 key: a-love-so-fine-the-chiffons
 lyrics_url: https://www.azlyrics.com/lyrics/chiffons/alovesofine.html
 name: A Love So Fine
@@ -43,8 +46,9 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '1963-11-02'
+release_year: 1963
+runtime: 115480
 ---
-
 Oh yes, he's the darling, and I'm so glad that he'll be mine
 Yesterday he said he wants me to share a love so fine
 (A love so fine)
@@ -65,6 +69,3 @@ A love so fine, (a love so fine)
 Oh yeah (a love so fine)
 Yeah, yeah (a love so fine)
 Oh yeah (a love so fine)
-
-
-

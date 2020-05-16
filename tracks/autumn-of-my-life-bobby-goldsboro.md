@@ -1,8 +1,11 @@
 ---
+album: Summer (The First Time)
 artists:
 - Bobby Goldsboro
+external_ids:
+  spotify: spotify:track:4HcF68pTKLQ3xwIjOIkFVv
 features: []
-genres: []
+first_released_as_single: false
 key: autumn-of-my-life-bobby-goldsboro
 lyrics_url: https://www.azlyrics.com/lyrics/bobbygoldsboro/autumnofmylife.html
 name: Autumn Of My Life
@@ -43,8 +46,9 @@ rankings:
   rank: 36
   ranking_list: Billboard Hot 100
   start_date: '1968-08-24'
+release_year: 1968
+runtime: 221226
 ---
-
 In the Spring of my life, she came to me
 She brought sunshine where winter winds had blown
 Then I took her for my wife, in the spring of my life
@@ -69,6 +73,3 @@ Now the rose can't be found on a snow covered ground
 And the Sun can not shine through cloudy skies
 But I'm richer you see for the years she gave to me
 And I'm content in the autumn of my life
-
-
-

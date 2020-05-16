@@ -1,9 +1,12 @@
 ---
+album: Hollywood's Bleeding
 artists:
 - Post Malone
+external_ids:
+  spotify: spotify:track:0Xek5rqai2jcOWCYWJfVCF
 features:
 - DaBaby
-genres: []
+first_released_as_single: false
 key: enemies-post-malone-dababy
 lyrics_url: https://www.azlyrics.com/lyrics/postmalone/enemies.html
 name: Enemies
@@ -80,8 +83,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2020-01-18'
+release_year: 2019
+runtime: 196760
 ---
-
 Used to have friends, now I got enemies
 Used to keep 'em close, now they dead to me
 Used to have friends, now I got enemies
@@ -160,6 +164,3 @@ Enemies, yeah, so sad
 Oh
 It's too late
 It's too late
-
-
-

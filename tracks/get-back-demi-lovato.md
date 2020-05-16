@@ -1,8 +1,11 @@
 ---
+album: Don't Forget
 artists:
 - Demi Lovato
+external_ids:
+  spotify: spotify:track:5rnLFnHktBdmpxwYXJXyQI
 features: []
-genres: []
+first_released_as_single: false
 key: get-back-demi-lovato
 lyrics_url: https://genius.com/Demi-lovato-get-back-lyrics
 name: Get Back
@@ -31,6 +34,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2008-10-04'
+release_year: 2008
+runtime: 200213
 ---
 Don't walk away like you always do this time
 Baby, you're the only thing that's been on my mind

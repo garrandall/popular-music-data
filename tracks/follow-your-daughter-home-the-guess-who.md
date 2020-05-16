@@ -1,8 +1,11 @@
 ---
+album: Artificial Paradise
 artists:
 - The Guess Who
+external_ids:
+  spotify: spotify:track:1FcU02UnEJEFcPbzLZWtGS
 features: []
-genres: []
+first_released_as_single: false
 key: follow-your-daughter-home-the-guess-who
 lyrics_url: https://www.azlyrics.com/lyrics/guesswho/followyourdaughterhome.html
 name: Follow Your Daughter Home
@@ -35,8 +38,9 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '1973-03-17'
+release_year: 1973
+runtime: 221373
 ---
-
 Hey man, follow your daughter home
 Hey man, follow your daughter home
 Hey man, follow your daughter home
@@ -84,6 +88,3 @@ Hey man, follow your daughter home
 Hey man, follow your daughter home
 Watch her
 Hey, follow your daughter home
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: II
 artists:
 - Boyz II Men
+external_ids:
+  spotify: spotify:track:2Y9VaMYMbwkx8JmHLQpQ4X
 features: []
-genres: []
+first_released_as_single: false
 key: vibin--boyz-ii-men
 lyrics_url: https://www.azlyrics.com/lyrics/boyziimen/vibin.html
 name: Vibin'
@@ -63,9 +66,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1995-12-02'
+release_year: 1994
+runtime: 267893
 ---
-
-
 Just take a minute and catch the vibe 
 Just take a minute and catch the vibe 
 Just take a minute and catch the vibe 
@@ -99,6 +102,3 @@ Everything's fine it ain't nothing to it
 
 We're just vibin' dancing the night away 
 Groovin', vibin', don't stop until the break of day
-
-
-

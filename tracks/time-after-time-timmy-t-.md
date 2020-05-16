@@ -1,8 +1,11 @@
 ---
+album: Time After Time
 artists:
 - Timmy T.
+external_ids:
+  spotify: spotify:track:3InJMK7ZeMJ5s9O7TNJFxK
 features: []
-genres: []
+first_released_as_single: false
 key: time-after-time-timmy-t-
 lyrics_url: https://genius.com/Timmy-t-time-after-time-lyrics
 name: Time After Time
@@ -75,6 +78,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1990-06-30'
+release_year: 1990
+runtime: 232730
 ---
 Time after time when we're together
 I tell you I love you now and forever

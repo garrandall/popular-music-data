@@ -1,8 +1,11 @@
 ---
+album: Crosby, Stills & Nash
 artists:
 - Crosby, Stills, Nash & Young
+external_ids:
+  spotify: spotify:track:14UvvyCwUtkf7Nk440cbG9
 features: []
-genres: []
+first_released_as_single: false
 key: teach-your-children-crosby-stills-nash-young
 lyrics_url: https://www.musixmatch.com/lyrics/Crosby-Stills-Nash-Young-feat-Young/Teach-Your-Children
 name: Teach Your Children
@@ -51,6 +54,8 @@ rankings:
   rank: 33
   ranking_list: Billboard Hot 100
   start_date: '1970-08-15'
+release_year: 1969
+runtime: 194226
 ---
 You, who are on the road
 Must have a code that you can live by

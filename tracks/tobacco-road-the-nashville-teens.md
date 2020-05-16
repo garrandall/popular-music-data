@@ -1,8 +1,11 @@
 ---
+album: Tobacco Road
 artists:
 - The Nashville Teens
+external_ids:
+  spotify: spotify:track:7bl2vSiGY8L1isJNLI7Eug
 features: []
-genres: []
+first_released_as_single: false
 key: tobacco-road-the-nashville-teens
 lyrics_url: https://genius.com/The-nashville-teens-tobacco-road-lyrics
 name: Tobacco Road
@@ -51,6 +54,8 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1964-11-21'
+release_year: 1964
+runtime: 147733
 ---
 I was born - in a bunk
 Mama died and my daddy got drunk

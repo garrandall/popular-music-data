@@ -1,8 +1,11 @@
 ---
+album: 'Singin'' & Swingin'': The Best Of Earl Grant'
 artists:
 - Earl Grant
+external_ids:
+  spotify: spotify:track:79Iwb8D1mlLHzyrTzuA3cw
 features: []
-genres: []
+first_released_as_single: false
 key: the-end-earl-grant
 lyrics_url: https://genius.com/Earl-grant-the-end-lyrics
 name: The End
@@ -83,6 +86,8 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1959-01-19'
+release_year: 1958
+runtime: 140800
 ---
 At the end of a rainbow, you'll find a pot of gold
 At the end of a story, you'll find it's all been told

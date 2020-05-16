@@ -1,8 +1,11 @@
 ---
+album: Gold
 artists:
 - Connie Francis
+external_ids:
+  spotify: spotify:track:7BzETZ4xTOTYtbEhedieUZ
 features: []
-genres: []
+first_released_as_single: false
 key: together-connie-francis
 lyrics_url: https://www.azlyrics.com/lyrics/conniefrancis/together.html
 name: Together
@@ -51,8 +54,9 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '1961-09-04'
+release_year: 1961
+runtime: 177466
 ---
-
 We strolled the lane together, laughed at the rain together
 Sang love's refrain together and we'd both pretend it would never end
 But one day we cried together, cast love aside together
@@ -71,6 +75,3 @@ I'll never, never forget
 You're gone from me but in my memory
 Darlin', wherever you are
 We'll always be together
-
-
-

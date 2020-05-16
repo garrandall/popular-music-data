@@ -1,8 +1,11 @@
 ---
+album: "Suzi\u2026 and Other Four Letter Words"
 artists:
 - Suzi Quatro
+external_ids:
+  spotify: spotify:track:045XVlFh8JdF93BYLOlLD8
 features: []
-genres: []
+first_released_as_single: false
 key: she-s-in-love-with-you-suzi-quatro
 lyrics_url: https://genius.com/Suzi-quatro-shes-in-love-with-you-lyrics
 name: She's In Love With You
@@ -51,6 +54,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1980-02-02'
+release_year: 1979
+runtime: 212986
 ---
 She's in love with you, that's all she wants to do
 She'll never let you down, she'll never fool around

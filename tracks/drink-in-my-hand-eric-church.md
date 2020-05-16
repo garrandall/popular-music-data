@@ -1,8 +1,11 @@
 ---
+album: Chief
 artists:
 - Eric Church
+external_ids:
+  spotify: spotify:track:1cktZnxiONH0hR6Q3DKy8h
 features: []
-genres: []
+first_released_as_single: false
 key: drink-in-my-hand-eric-church
 lyrics_url: https://www.azlyrics.com/lyrics/ericchurch/drinkinmyhand.html
 name: Drink In My Hand
@@ -87,8 +90,9 @@ rankings:
   rank: 52
   ranking_list: Billboard Hot 100
   start_date: '2012-02-18'
+release_year: 2011
+runtime: 191306
 ---
-
 Early Monday morning to Friday at five,
 Man, I work, work, work but I don't climb, climb, climb
 Boss man can shove that overtime up his can,
@@ -133,6 +137,3 @@ Yeah, that hair of a dog is howling, "Hey there, man!"
 All you gotta do is put a drink in my hand
 
 Haaaouuhhh, yeah
-
-
-

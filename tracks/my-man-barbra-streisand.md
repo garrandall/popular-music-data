@@ -1,8 +1,11 @@
 ---
+album: My Name Is Barbra
 artists:
 - Barbra Streisand
+external_ids:
+  spotify: spotify:track:46fn5mY4J1NWoE53oiMvL6
 features: []
-genres: []
+first_released_as_single: false
 key: my-man-barbra-streisand
 lyrics_url: https://genius.com/Barbra-streisand-my-man-lyrics
 name: My Man
@@ -31,6 +34,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1965-08-07'
+release_year: 1965
+runtime: 176493
 ---
 Oh my man I love him so, he'll never know
 All my life is just despair but I don't care

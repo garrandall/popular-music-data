@@ -1,8 +1,11 @@
 ---
+album: Great Picks & New Traditions
 artists:
 - Roy Clark
+external_ids:
+  spotify: spotify:track:7nSjdcQueimUqsDsBq7orE
 features: []
-genres: []
+first_released_as_single: false
 key: yesterday-when-i-was-young-roy-clark
 lyrics_url: https://www.musixmatch.com/lyrics/Roy-Clark/Yesterday-When-I-Was-Young
 name: Yesterday When I Was Young
@@ -47,6 +50,8 @@ rankings:
   rank: 26
   ranking_list: Billboard Hot 100
   start_date: '1969-08-16'
+release_year: 1969
+runtime: 201173
 ---
 Seems the love I've known has always been
 The most destructive kind
@@ -70,8 +75,6 @@ I ran so fast that time and youth at last ran out,
 I never stopped to think what life was all about
 And every conversation I can now recall
 Concerns itself with me and nothing else at all.
-
---- Instrumental ---
 
 Yesterday the moon was blue
 And every crazy day brought something new to do.

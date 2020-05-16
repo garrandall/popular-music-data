@@ -1,8 +1,11 @@
 ---
+album: Pop Goes The World (Re-Record)
 artists:
 - Men Without Hats
+external_ids:
+  spotify: spotify:track:5bO9BtgCnDc27XUM3T4m91
 features: []
-genres: []
+first_released_as_single: true
 key: pop-goes-the-world-men-without-hats
 lyrics_url: https://www.azlyrics.com/lyrics/menwithouthats/popgoestheworld.html
 name: Pop Goes The World
@@ -91,8 +94,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1988-03-19'
+release_year: 1987
+runtime: 232624
 ---
-
 Johnny played guitar, Jenny played bass
 Name of the band is The Human Race
 Everybody tell me, have you heard
@@ -141,6 +145,3 @@ Everybody tell me have you heard
 Pop goes the world
 (Pop goes the world)
 (Pop goes the world)
-
-
-

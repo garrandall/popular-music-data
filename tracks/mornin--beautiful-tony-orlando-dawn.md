@@ -1,9 +1,12 @@
 ---
+album: He Don't Love You
 artists:
 - Tony Orlando
 - Dawn
+external_ids:
+  spotify: spotify:track:2asG1uvJTNu9pkTVBDL66A
 features: []
-genres: []
+first_released_as_single: false
 key: mornin--beautiful-tony-orlando-dawn
 lyrics_url: https://www.azlyrics.com/lyrics/tonyorlandodawn/morninbeautiful.html
 name: Mornin' Beautiful
@@ -48,8 +51,9 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1975-08-23'
+release_year: 1975
+runtime: 194346
 ---
-
 Mornin' Beautiful
 It's morning and you're beautiful and
 I just can't believe I'm laying here with you, girl
@@ -86,6 +90,3 @@ Mornin' Beautiful
 Hey, look outside, the sun's a-shining
 Every cloud is rolling back for you
 Mornin' Beautiful
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: The ABC's Of Soul, Vol. 1 (Classics From The ABC Records Catalog 1961-1969)
 artists:
 - The Marvelows
+external_ids:
+  spotify: spotify:track:3Zs0dCcOoAkxwnYuKYCWZP
 features: []
-genres: []
+first_released_as_single: false
 key: i-do-the-marvelows
 lyrics_url: https://www.musixmatch.com/lyrics/The-Marvelows/I-Do
 name: I Do
@@ -43,6 +46,8 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '1965-07-10'
+release_year: 1965
+runtime: 150306
 ---
 Two, one, two, three, four
 

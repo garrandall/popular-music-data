@@ -1,9 +1,12 @@
 ---
+album: Can't Find Happiness - The Sounds of Memphis Recordings
 artists:
 - Barbara
 - The Browns
+external_ids:
+  spotify: spotify:track:27NMby3j7tjrSvexwfCgio
 features: []
-genres: []
+first_released_as_single: false
 key: big-party-barbara-the-browns
 lyrics_url: https://genius.com/Barbara-and-the-browns-big-party-lyrics
 name: Big Party
@@ -16,6 +19,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1964-05-09'
+release_year: 1964
+runtime: 160360
 ---
 Paroles de la chanson Big Party :
 Big party, big party, big party

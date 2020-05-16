@@ -1,8 +1,11 @@
 ---
+album: Always And Forever
 artists:
 - Eternal
+external_ids:
+  spotify: spotify:track:3DCAjSZiLK127tGL0URVGE
 features: []
-genres: []
+first_released_as_single: false
 key: stay-eternal
 lyrics_url: https://genius.com/Eternal-stay-lyrics
 name: Stay
@@ -87,6 +90,8 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1994-05-28'
+release_year: 1993
+runtime: 237533
 ---
 Stay baby
 Stay, come on darling now

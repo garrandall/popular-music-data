@@ -32,7 +32,6 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1974-07-06'
 ---
-Chorus:
 (And) When the morning comes and you gotta get up
 How you going to find your shoes
 In an empty bed with an achin' head
@@ -45,7 +44,7 @@ If you want I'll stay all night
 I came here with my broken heart
 Wrapped away with care
 And all you do is sit and drink
-And stare ---- at your T V
+And stare ---- at your TV
 
 
 You ask me why I came here
@@ -57,10 +56,6 @@ I guess you never will
 The key's lost to the kingdom
 And I don't have time to kill
 
-
-Instrumental: Verse
-
-
 So it's goodbye Carolina
 So long Tennessee
 California's callin'
@@ -69,5 +64,3 @@ My feet are in the stirrups
 My pony wants run
 Think I'll hit the highway
 I guess your not the one
-
-Chorus 2x

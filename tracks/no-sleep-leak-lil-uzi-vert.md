@@ -1,8 +1,11 @@
 ---
+album: Luv Is Rage 2
 artists:
 - Lil Uzi Vert
+external_ids:
+  spotify: spotify:track:5e8MK5rY0pm6nRsHFlDCPk
 features: []
-genres: []
+first_released_as_single: false
 key: no-sleep-leak-lil-uzi-vert
 lyrics_url: https://www.azlyrics.com/lyrics/liluzivert/nosleepleak.html
 name: No Sleep Leak
@@ -11,8 +14,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2017-09-16'
+release_year: 2017
+runtime: 189229
 ---
-
 Ayy, 200 I floor it
 I might get a Rari, 200 I floor it
 I might get a Rari, 200 I floor it
@@ -113,6 +117,3 @@ I was broke yesterday (yeah)
 I was rich by the morning (the morning)
 I was broke yesterday (yeah)
 I was rich by the morning (the morning)
-
-
-

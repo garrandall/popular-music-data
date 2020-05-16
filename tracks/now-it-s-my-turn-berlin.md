@@ -1,8 +1,11 @@
 ---
+album: Love Life
 artists:
 - Berlin
+external_ids:
+  spotify: spotify:track:1B4NoIpgDU5D9wOMWOmsVH
 features: []
-genres: []
+first_released_as_single: false
 key: now-it-s-my-turn-berlin
 lyrics_url: https://genius.com/Berlin-now-its-my-turn-lyrics
 name: Now It's My Turn
@@ -23,6 +26,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1984-07-21'
+release_year: 1984
+runtime: 251093
 ---
 You broke into my life
 And stole my heart

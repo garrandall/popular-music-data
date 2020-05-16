@@ -1,8 +1,11 @@
 ---
+album: Ain't Your Mama
 artists:
 - Jennifer Lopez
+external_ids:
+  spotify: spotify:track:2hgzdQdnfWwtdpZbhZlV72
 features: []
-genres: []
+first_released_as_single: true
 key: ain-t-your-mama-jennifer-lopez
 lyrics_url: https://genius.com/Jennifer-lopez-aint-your-mama-lyrics
 name: Ain't Your Mama
@@ -15,6 +18,8 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '2016-05-28'
+release_year: 2016
+runtime: 218234
 ---
 I ain't gon' be cooking all day, I ain't your mama
 I ain't gon' do your laundry, I ain't your mama, hm

@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music, The Complete Season Three'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:5r9YRhSv8rLodAFRjKmBqb
 features: []
-genres: []
+first_released_as_single: false
 key: you-and--i-glee-cast
 lyrics_url: https://genius.com/Glee-cast-you-and-i-you-and-i-lyrics
 name: You And I
@@ -11,6 +14,8 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '2011-12-03'
+release_year: 2011
+runtime: 195533
 ---
 Shelby:
 It's been a long time since I came around

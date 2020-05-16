@@ -1,8 +1,11 @@
 ---
+album: Dylan (1973)
 artists:
 - Bob Dylan
+external_ids:
+  spotify: spotify:track:1KFTXJslA3vdcSxE4k8azK
 features: []
-genres: []
+first_released_as_single: false
 key: a-fool-such-as-i-bob-dylan
 lyrics_url: https://www.azlyrics.com/lyrics/bobdylan/afoolsuchasi.html
 name: A Fool Such As I
@@ -35,8 +38,9 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1974-01-26'
+release_year: 1973
+runtime: 163053
 ---
-
 Now and then there's a fool such as I
 Pardon me if I'm sentimental, came to say goodbye
 Don't be angry, don't be angry with me, should I cry
@@ -61,6 +65,3 @@ Till the day, till the day I die
 Now and then, now and then there is a fool, a fool such as I.
 Now and then there is a fool, a fool such as I.
 Now and then there is a fool, a fool such as I.
-
-
-

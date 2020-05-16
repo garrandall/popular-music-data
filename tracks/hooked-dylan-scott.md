@@ -1,8 +1,11 @@
 ---
+album: Dylan Scott
 artists:
 - Dylan Scott
+external_ids:
+  spotify: spotify:track:3DV49ruvI5Sl6iisPZAc2c
 features: []
-genres: []
+first_released_as_single: false
 key: hooked-dylan-scott
 lyrics_url: https://www.azlyrics.com/lyrics/dylanscott/hooked.html
 name: Hooked
@@ -51,8 +54,9 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '2018-10-06'
+release_year: 2017
+runtime: 149293
 ---
-
 It was a Friday night
 No cover but that cover band was sounding right
 And there you were, just flirty dancing by the neon sign
@@ -106,6 +110,3 @@ Hair falling in your eyes
 Like the first time they caught mine
 All it took was a look and I was
 Hooked
-
-
-

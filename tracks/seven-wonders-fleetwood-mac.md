@@ -1,8 +1,11 @@
 ---
+album: Tango In the Night
 artists:
 - Fleetwood Mac
+external_ids:
+  spotify: spotify:track:1VN2vWSkSmMKOhxr8lHzSx
 features: []
-genres: []
+first_released_as_single: false
 key: seven-wonders-fleetwood-mac
 lyrics_url: https://www.azlyrics.com/lyrics/fleetwoodmac/sevenwonders.html
 name: Seven Wonders
@@ -59,8 +62,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1987-09-12'
+release_year: 1987
+runtime: 222400
 ---
-
 So long ago
 Certain place
 Certain time
@@ -110,6 +114,3 @@ I'll never live to match the beauty again
 If I live to see the seven wonders
 I'll make a path to the rainbow's end
 I'll never live to match the beauty again
-
-
-

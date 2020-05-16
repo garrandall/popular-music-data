@@ -1,8 +1,11 @@
 ---
+album: Lost Without Your Love
 artists:
 - Bread
+external_ids:
+  spotify: spotify:track:6P79NaaOUlATagkvWzHnnN
 features: []
-genres: []
+first_released_as_single: false
 key: hooked-on-you-bread
 lyrics_url: https://genius.com/Bread-hooked-on-you-lyrics
 name: Hooked On You
@@ -35,6 +38,8 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1977-05-28'
+release_year: 1977
+runtime: 141280
 ---
 Baby, if you only knew
 Everything I need I get from you

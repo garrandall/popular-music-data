@@ -1,9 +1,12 @@
 ---
+album: Ghetto Love
 artists:
 - Jaheim
+external_ids:
+  spotify: spotify:track:38084tN66v4KHqiLpl9cN8
 features:
 - Next
-genres: []
+first_released_as_single: false
 key: anything-jaheim-next
 lyrics_url: https://www.azlyrics.com/lyrics/jaheim/anything.html
 name: Anything
@@ -88,8 +91,9 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '2002-07-06'
+release_year: 2001
+runtime: 287026
 ---
-
 Yea oh yea yea yea yea
 
 You can have anything I got
@@ -163,6 +167,3 @@ Baby you can have anything you want
 Anything you want, anything you need
 Anything I have baby girl just ask
 Anything you want anything you need
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Any Love
 artists:
 - Luther Vandross
+external_ids:
+  spotify: spotify:track:7h8hDsFT5GQ2Sa9tdewyJt
 features: []
-genres: []
+first_released_as_single: false
 key: she-won-t-talk-to-me-luther-vandross
 lyrics_url: https://genius.com/Luther-vandross-she-wont-talk-to-me-lyrics
 name: She Won't Talk To Me
@@ -55,6 +58,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1989-04-15'
+release_year: 1988
+runtime: 276226
 ---
 I was hanging with some friends of mine
 We were out having a real good time, yeah

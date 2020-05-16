@@ -1,8 +1,11 @@
 ---
+album: Achtung Baby
 artists:
 - U2
+external_ids:
+  spotify: spotify:track:4nBln1vXTHnJzXvNgvXyIA
 features: []
-genres: []
+first_released_as_single: false
 key: the-fly-u2
 lyrics_url: https://www.azlyrics.com/lyrics/u2band/thefly.html
 name: The Fly
@@ -51,8 +54,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1992-01-18'
+release_year: 1991
+runtime: 269053
 ---
-
 (Oh, baby child)
 
 It's no secret that the stars are falling from the sky
@@ -104,6 +108,3 @@ It's no secret that the stars are falling from the sky
 The universe exploded 'cause of one man's lie
 Look, I gotta go, yeah I'm running outta change
 There's a lot of things, if I could I'd rearrange
-
-
-

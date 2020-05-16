@@ -1,8 +1,11 @@
 ---
+album: Hannah Montana 2 / Meet Miley Cyrus
 artists:
 - Miley Cyrus
+external_ids:
+  spotify: spotify:track:4GhI2lrDJwwLXEGSrVrQGG
 features: []
-genres: []
+first_released_as_single: false
 key: start-all-over-miley-cyrus
 lyrics_url: https://genius.com/Miley-cyrus-start-all-over-lyrics
 name: Start All Over
@@ -19,6 +22,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2008-02-02'
+release_year: 2007
+runtime: 207173
 ---
 I have to wonder if this wave's too big to ride
 Commit or not commit in such a crazy tide

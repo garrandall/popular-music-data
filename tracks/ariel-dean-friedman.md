@@ -1,8 +1,11 @@
 ---
+album: Dean Friedman
 artists:
 - Dean Friedman
+external_ids:
+  spotify: spotify:track:2j78lPDRu9HcN3X817CmR2
 features: []
-genres: []
+first_released_as_single: false
 key: ariel-dean-friedman
 lyrics_url: https://genius.com/Dean-friedman-ariel-lyrics
 name: Ariel
@@ -95,6 +98,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1977-09-10'
+release_year: 1977
+runtime: 263639
 ---
 Way on the other side of the Hudson
 Deep in the bosom of suburbia

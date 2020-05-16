@@ -1,11 +1,14 @@
 ---
+album: All Day
 artists:
 - Kanye West
+external_ids:
+  spotify: spotify:track:79reBHqpRoWXaQbjBBY3UC
 features:
 - Theophilus London
 - Allan Kingdom
 - Paul McCartney
-genres: []
+first_released_as_single: true
 key: all-day-kanye-west-theophilus-london-allan-kingdom-paul-mccartney
 lyrics_url: https://genius.com/Kanye-west-all-day-lyrics
 name: All Day
@@ -70,6 +73,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2015-06-27'
+release_year: 2015
+runtime: 310906
 ---
 All day, nigga
 Dance, ayy, ayy ayy ayy

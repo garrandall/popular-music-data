@@ -1,8 +1,11 @@
 ---
+album: Leave Me Alone (Let Me Cry)
 artists:
 - Dicky Doo And The Don'ts
+external_ids:
+  spotify: spotify:track:4RFSGZqEPc3QY3z68gfRiD
 features: []
-genres: []
+first_released_as_single: true
 key: leave-me-alone--let-me-cry--dicky-doo-and-the-don-ts
 lyrics_url: https://genius.com/Dicky-doo-and-the-donts-leave-me-alone-let-me-cry-lyrics
 name: Leave Me Alone (Let Me Cry)
@@ -43,6 +46,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1958-11-24'
+release_year: 1958
+runtime: 138157
 ---
 Every time you told me
 That you loved me

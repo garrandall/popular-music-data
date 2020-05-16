@@ -1,8 +1,11 @@
 ---
+album: All About Tonight
 artists:
 - Blake Shelton
+external_ids:
+  spotify: spotify:track:15fZHvjZXoAILTvmt4EXIk
 features: []
-genres: []
+first_released_as_single: true
 key: who-are-you-when-i-m-not-looking-blake-shelton
 lyrics_url: https://www.azlyrics.com/lyrics/blakeshelton/whoareyouwhenimnotlooking.html
 name: Who Are You When I'm Not Looking
@@ -87,8 +90,9 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '2011-04-02'
+release_year: 2010
+runtime: 187733
 ---
-
 My oh my, you're so good-looking
 Hold yourself together like a pair of bookends
 But I've not tasted all your cooking
@@ -124,6 +128,3 @@ I wanna know
 
 My oh my, you're so good-looking
 But who are you when I'm not looking?
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Poverty's Paradise
 artists:
 - Naughty By Nature
+external_ids:
+  spotify: spotify:track:2siJY74oqRrWLQcFF3e53j
 features: []
-genres: []
+first_released_as_single: true
 key: feel-me-flow-naughty-by-nature
 lyrics_url: https://genius.com/Naughty-by-nature-feel-me-flow-lyrics
 name: Feel Me Flow
@@ -87,6 +90,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1995-10-21'
+release_year: 1995
+runtime: 215973
 ---
 You 'bout to feel the chronicles of a bionical lyric
 Lyrically splittin' dismissin'

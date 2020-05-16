@@ -1,8 +1,11 @@
 ---
+album: American Country - TG Sheppard
 artists:
 - T.G. Sheppard
+external_ids:
+  spotify: spotify:track:3PNjO38a82yQCSlAp61Myh
 features: []
-genres: []
+first_released_as_single: false
 key: only-one-you-t-g--sheppard
 lyrics_url: https://genius.com/Tg-sheppard-only-one-you-lyrics
 name: Only One You
@@ -39,6 +42,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1982-03-20'
+release_year: 1982
+runtime: 193799
 ---
 I've seen this world
 From corner to corner

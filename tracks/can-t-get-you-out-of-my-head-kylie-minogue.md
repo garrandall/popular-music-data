@@ -1,8 +1,11 @@
 ---
+album: Fever
 artists:
 - Kylie Minogue
+external_ids:
+  spotify: spotify:track:2HpWHLtZldOcDn5qzX8kb2
 features: []
-genres: []
+first_released_as_single: true
 key: can-t-get-you-out-of-my-head-kylie-minogue
 lyrics_url: https://genius.com/Kylie-minogue-cant-get-you-out-of-my-head-lyrics
 name: Can't Get You Out Of My Head
@@ -87,6 +90,8 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '2002-06-08'
+release_year: 2001
+runtime: 231715
 ---
 La la la, la la la la la
 La la la, la la la la la

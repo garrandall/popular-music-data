@@ -1,8 +1,11 @@
 ---
+album: Music from Graffiti Bridge
 artists:
 - Prince
+external_ids:
+  spotify: spotify:track:403oiKw757eJnbDKPSjhHV
 features: []
-genres: []
+first_released_as_single: false
 key: thieves-in-the-temple-prince
 lyrics_url: https://www.azlyrics.com/lyrics/prince/thievesinthetemple.html
 name: Thieves In The Temple
@@ -59,8 +62,9 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1990-10-27'
+release_year: 1990
+runtime: 200680
 ---
-
 Love come quick
 Love come in a hurry
 There are thieves in the temple tonight
@@ -118,6 +122,3 @@ U were supposed to take care of me! (Love come quick)
 U lie! Love come (Lie!) in a hurry (Lie!)
 
 Thieves in the temple tonight
-
-
-

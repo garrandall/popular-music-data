@@ -1,8 +1,11 @@
 ---
+album: Big Whiskey and the GrooGrux King
 artists:
 - Dave Matthews Band
+external_ids:
+  spotify: spotify:track:12ZdBjNAfRXZZTvMSrJPUb
 features: []
-genres: []
+first_released_as_single: false
 key: you-and-me-dave-matthews-band
 lyrics_url: https://genius.com/Dave-matthews-band-you-and-me-lyrics
 name: You And Me
@@ -15,6 +18,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2010-02-27'
+release_year: 2009
+runtime: 340533
 ---
 Wanna pack your bags, something small
 Take what you need and we'll disappear

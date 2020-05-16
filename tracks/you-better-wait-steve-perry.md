@@ -1,8 +1,11 @@
 ---
+album: For the Love of Strange Medicine
 artists:
 - Steve Perry
+external_ids:
+  spotify: spotify:track:004ZH9ISUSEwansKKbUdJs
 features: []
-genres: []
+first_released_as_single: false
 key: you-better-wait-steve-perry
 lyrics_url: https://www.azlyrics.com/lyrics/steveperry/youbetterwait.html
 name: You Better Wait
@@ -71,8 +74,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1994-10-29'
+release_year: 1994
+runtime: 291800
 ---
-
 She was only a child
 Someone to hold on
 Only a child
@@ -131,6 +135,3 @@ Don't
 Don't look
 Don't look
 Don't look back, baby
-
-
-

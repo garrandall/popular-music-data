@@ -1,10 +1,13 @@
 ---
+album: Caravan of Love (Expanded Version)
 artists:
 - Isley
 - Jasper
 - Isley
+external_ids:
+  spotify: spotify:track:5aesRaLVj6BovQ7pPsR5VS
 features: []
-genres: []
+first_released_as_single: false
 key: caravan-of-love-isley-jasper-isley
 lyrics_url: https://genius.com/Isley-jasper-isley-caravan-of-love-lyrics
 name: Caravan Of Love
@@ -65,6 +68,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1986-03-08'
+release_year: 1972
+runtime: 343866
 ---
 Oh... Oh... Oh...
 Oh... Oh... Oh...

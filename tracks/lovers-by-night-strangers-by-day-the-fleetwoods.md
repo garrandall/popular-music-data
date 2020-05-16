@@ -1,8 +1,11 @@
 ---
+album: Come Softly To Me
 artists:
 - The Fleetwoods
+external_ids:
+  spotify: spotify:track:7kMfhQbqicEJSk0UlKCScj
 features: []
-genres: []
+first_released_as_single: false
 key: lovers-by-night-strangers-by-day-the-fleetwoods
 lyrics_url: https://genius.com/The-fleetwoods-lovers-by-night-strangers-by-day-lyrics
 name: Lovers By Night Strangers By Day
@@ -47,6 +50,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1962-12-15'
+release_year: 1962
+runtime: 133506
 ---
 Darling hold my hand, let me know that you understand
 That till I'm free from the girl who loves me

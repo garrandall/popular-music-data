@@ -1,8 +1,11 @@
 ---
+album: Unwritten
 artists:
 - Natasha Bedingfield
+external_ids:
+  spotify: spotify:track:5BFMUpscSbYVT2V9j5d275
 features: []
-genres: []
+first_released_as_single: false
 key: single-natasha-bedingfield
 lyrics_url: https://www.azlyrics.com/lyrics/natashabedingfield/single.html
 name: Single
@@ -31,8 +34,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '2006-07-29'
+release_year: 2004
+runtime: 237600
 ---
-
 Ah yeah that's right
 All you single people out there
 This is for you
@@ -134,6 +138,3 @@ That's how I wanna be
 (Right now)
 I'm single
 That's how I wanna be
-
-
-

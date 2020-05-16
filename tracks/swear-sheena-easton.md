@@ -1,8 +1,11 @@
 ---
+album: A Private Heaven
 artists:
 - Sheena Easton
+external_ids:
+  spotify: spotify:track:0c2y0mPr9UmhbfTdWbAEgw
 features: []
-genres: []
+first_released_as_single: false
 key: swear-sheena-easton
 lyrics_url: https://www.azlyrics.com/lyrics/sheenaeaston/swear.html
 name: Swear
@@ -31,8 +34,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1985-04-27'
+release_year: 1984
+runtime: 222906
 ---
-
 I won't bother asking what you've done
 Though the rumors all point to something going on
 See the past is the past, I'm not gonna dwell
@@ -79,6 +83,3 @@ S.W.E.A.R. (don't lie)
 (Swear) Cross your heart, cross your heart, cross your heart
 (Swear) That you want me, (swear) that you need me, (swear) that you love me
 (Swear) Tell the truth, tell the truth, don't lie!
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: '"Seasons Of Love" - From The Motion Picture RENT'
 artists:
 - Cast Of Rent
+external_ids:
+  spotify: spotify:track:3SnXIPWciHwAS04oKdPC0l
 features: []
-genres: []
+first_released_as_single: true
 key: seasons-of-love-cast-of-rent
 lyrics_url: https://genius.com/Original-broadway-cast-of-rent-seasons-of-love-lyrics
 name: Seasons Of Love
@@ -55,6 +58,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '2006-01-21'
+release_year: 2005
+runtime: 183546
 ---
 525,600 minutes
 525,000 moments so dear

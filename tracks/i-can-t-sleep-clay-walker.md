@@ -1,8 +1,11 @@
 ---
+album: A Few Questions
 artists:
 - Clay Walker
+external_ids:
+  spotify: spotify:track:4KJFUsUnQlK4vULykBTi5q
 features: []
-genres: []
+first_released_as_single: false
 key: i-can-t-sleep-clay-walker
 lyrics_url: https://www.musixmatch.com/lyrics/Clay-Walker/I-Can-t-Sleep
 name: I Can't Sleep
@@ -35,6 +38,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2004-07-03'
+release_year: 2003
+runtime: 242293
 ---
 I been up all night long
 Just waitin on the sun

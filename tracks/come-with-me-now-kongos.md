@@ -1,8 +1,11 @@
 ---
+album: Lunatic
 artists:
 - KONGOS
+external_ids:
+  spotify: spotify:track:2kWowW0k4oFymhkr7LmvzO
 features: []
-genres: []
+first_released_as_single: false
 key: come-with-me-now-kongos
 lyrics_url: https://www.azlyrics.com/lyrics/kongos/comewithmenow.html
 name: Come With Me Now
@@ -91,8 +94,9 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '2014-09-06'
+release_year: 2014
+runtime: 211960
 ---
-
 Come with me now
 Come with me now
 
@@ -161,6 +165,3 @@ Whoa, come with me now
 Whoa, come with me now
 I'm gonna take you down
 Whoa, come with me now
-
-
-

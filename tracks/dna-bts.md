@@ -1,8 +1,11 @@
 ---
+album: "Love Yourself \u627F 'Her'"
 artists:
 - BTS
+external_ids:
+  spotify: spotify:track:5SE57ljOIUJ1ybL9U6CuBH
 features: []
-genres: []
+first_released_as_single: false
 key: dna-bts
 lyrics_url: https://genius.com/Bts-dna-lyrics
 name: DNA
@@ -23,6 +26,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2017-10-28'
+release_year: 2017
+runtime: 223122
 ---
 첫눈에 널 알아보게 됐어
 서롤 불러왔던 것처럼

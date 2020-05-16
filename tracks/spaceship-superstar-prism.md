@@ -1,8 +1,11 @@
 ---
+album: Alive In America
 artists:
 - Prism
+external_ids:
+  spotify: spotify:track:3XRXEzEf3lPSSEUO6cuMkz
 features: []
-genres: []
+first_released_as_single: false
 key: spaceship-superstar-prism
 lyrics_url: https://genius.com/Prism-spaceship-superstar-lyrics
 name: Spaceship Superstar
@@ -23,6 +26,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1977-11-12'
+release_year: 1977
+runtime: 247626
 ---
 Every night is a different flight to a different galaxy
 Do a sold-out show, then I hit the road in my starship limousine

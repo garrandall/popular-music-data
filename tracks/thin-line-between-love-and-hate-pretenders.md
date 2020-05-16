@@ -1,8 +1,11 @@
 ---
+album: Learning to Crawl
 artists:
 - Pretenders
+external_ids:
+  spotify: spotify:track:6nuOvrkMWmuDgoXPB3wIx8
 features: []
-genres: []
+first_released_as_single: false
 key: thin-line-between-love-and-hate-pretenders
 lyrics_url: https://www.azlyrics.com/lyrics/pretenders/thinlinebetweenloveandhate.html
 name: Thin Line Between Love And Hate
@@ -27,8 +30,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1984-07-28'
+release_year: 1984
+runtime: 220946
 ---
-
 It's a thin line between love and hate
 It's a thin line between love and hate...
 
@@ -73,6 +77,3 @@ It's a thin line between love and hate
 It's a thin line between love and hate
 It's a thin line between love and hate
 It's a thin line between love and hate...
-
-
-

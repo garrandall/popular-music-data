@@ -1,10 +1,13 @@
 ---
+album: The Souther-Hillman-Furay Band
 artists:
 - The Souther
 - Hillman
 - Furay Band
+external_ids:
+  spotify: spotify:track:7b5WOdrCc2E4Z4aAyGn6wz
 features: []
-genres: []
+first_released_as_single: false
 key: fallin--in-love-the-souther-hillman-furay-band
 lyrics_url: https://genius.com/The-souther-hillman-furay-band-fallin-in-love-lyrics
 name: Fallin' In Love
@@ -49,6 +52,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1974-10-26'
+release_year: 1974
+runtime: 211853
 ---
 Here I go again, it's all right
 Full moons grown to brighten the night

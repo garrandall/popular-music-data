@@ -1,10 +1,13 @@
 ---
+album: Funk Wav Bounces Vol.1
 artists:
 - Calvin Harris
+external_ids:
+  spotify: spotify:track:6gpcs5eMhJwax4mIfKDYQk
 features:
 - Frank Ocean
 - Migos
-genres: []
+first_released_as_single: true
 key: slide-calvin-harris-frank-ocean-migos
 lyrics_url: https://www.azlyrics.com/lyrics/calvinharris/slide.html
 name: Slide
@@ -89,9 +92,9 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '2017-07-29'
+release_year: 2017
+runtime: 230813
 ---
-
-
 I might empty my bank account
 And buy that "Boy with a Pipe"
 Buy that "Boy with a Pipe"
@@ -171,6 +174,3 @@ And buy that "Boy with a Pipe" (Slide, yeah)
 (Do you slide on all your nights like this?)
 Buy that "Boy with a Pipe"
 I might
-
-
-

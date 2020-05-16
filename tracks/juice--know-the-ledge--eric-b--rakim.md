@@ -1,9 +1,12 @@
 ---
+album: Gold
 artists:
 - Eric B.
 - Rakim
+external_ids:
+  spotify: spotify:track:4LXsPdBcHAuttD9mKyhA8a
 features: []
-genres: []
+first_released_as_single: false
 key: juice--know-the-ledge--eric-b--rakim
 lyrics_url: https://www.azlyrics.com/lyrics/ericbrakim/knowtheledgejuice.html
 name: Juice (Know The Ledge)
@@ -24,8 +27,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1992-03-14'
+release_year: 1992
+runtime: 241546
 ---
-
 Sip the juice cuz I got enough to go around,
 And the thought takes place uptown
 I grew up on the sidewalk where I learned street talk,
@@ -110,6 +114,3 @@ Coming out of the building, they set me up
 Sprayed wit automatics, they wet me up
 In a puddle of blood, I lay close to the edge
 I guess I didn't know the ledge...
-
-
-

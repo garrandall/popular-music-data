@@ -1,8 +1,11 @@
 ---
+album: 'Polly Brown & Sweet Dreams: Greatest Hits'
 artists:
 - Sweet Dreams
+external_ids:
+  spotify: spotify:track:7iEmbxGMZB8qTh31Jjd0MR
 features: []
-genres: []
+first_released_as_single: false
 key: honey-honey-sweet-dreams
 lyrics_url: https://www.musixmatch.com/lyrics/Sweet-Dreams/Honey-Honey
 name: Honey Honey
@@ -35,6 +38,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1974-10-12'
+release_year: 1974
+runtime: 209666
 ---
 Honey honey how you thrill me aha
 Honey honey

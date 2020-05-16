@@ -1,8 +1,11 @@
 ---
+album: Midnight Love
 artists:
 - Marvin Gaye
+external_ids:
+  spotify: spotify:track:4HruSQTQR65g2HU9dUy0FS
 features: []
-genres: []
+first_released_as_single: false
 key: sexual-healing-marvin-gaye
 lyrics_url: https://www.azlyrics.com/lyrics/marvingaye/sexualhealing.html
 name: Sexual Healing
@@ -91,8 +94,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1983-03-19'
+release_year: 1968
+runtime: 236760
 ---
-
 Get up, get up, get up, get up!
 Wake up, wake up, wake up, wake up!
 
@@ -161,6 +165,3 @@ Till you come back home
 
 Please don't procrastinate
 It's not good to masturbate
-
-
-

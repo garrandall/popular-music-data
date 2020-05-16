@@ -1,8 +1,11 @@
 ---
+album: Remastered from the Archives
 artists:
 - B.B. King
+external_ids:
+  spotify: spotify:track:3eAtYWMxsK7zvJIgMCcYXR
 features: []
-genres: []
+first_released_as_single: false
 key: that-evil-child-b-b--king
 lyrics_url: https://www.azlyrics.com/lyrics/bbking/thatevilchild.html
 name: That Evil Child
@@ -15,8 +18,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1971-05-01'
+release_year: 1971
+runtime: 232957
 ---
-
 Whenever I try to hold my baby,
 She just stand there for a while
 No matter how I try to please that woman,
@@ -38,6 +42,3 @@ Still she complains about the style
 Won't somebody give me a suggestion?
 Help me with this evil child
 Oh, maybe the Lord in heaven above can help me
-
-
-

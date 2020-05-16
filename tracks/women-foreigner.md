@@ -1,8 +1,11 @@
 ---
+album: Head Games
 artists:
 - Foreigner
+external_ids:
+  spotify: spotify:track:7aUAjYYt8KKuyQ1jbOLe9z
 features: []
-genres: []
+first_released_as_single: false
 key: women-foreigner
 lyrics_url: https://genius.com/Foreigner-women-lyrics
 name: Women
@@ -43,6 +46,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1980-04-12'
+release_year: 1979
+runtime: 204560
 ---
 Women behind bars
 Women in fast cars

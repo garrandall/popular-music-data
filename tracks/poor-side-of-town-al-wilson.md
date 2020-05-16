@@ -1,8 +1,11 @@
 ---
+album: All Time Greatest Hits
 artists:
 - Al Wilson
+external_ids:
+  spotify: spotify:track:3znq5RzPL3VK4kFsHwZjnr
 features: []
-genres: []
+first_released_as_single: false
 key: poor-side-of-town-al-wilson
 lyrics_url: https://www.azlyrics.com/lyrics/alwilson/poorsideoftown.html
 name: Poor Side Of Town
@@ -23,8 +26,9 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1969-02-08'
+release_year: 1969
+runtime: 234106
 ---
-
 Do do do, wah
 Shooby dooby
 Do do do, wah
@@ -69,6 +73,3 @@ Do do do, wah
 Shooby dooby
 Do do do, wah
 Shooby dooby
-
-
-

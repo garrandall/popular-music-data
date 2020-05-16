@@ -1,8 +1,11 @@
 ---
+album: Small World
 artists:
 - Huey Lewis & The News
+external_ids:
+  spotify: spotify:track:4oFAxu74lh2S4bFIvQno17
 features: []
-genres: []
+first_released_as_single: false
 key: small-world-huey-lewis-the-news
 lyrics_url: https://www.azlyrics.com/lyrics/hueylewisthenews/smallworldpartone.html
 name: Small World
@@ -51,8 +54,9 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1988-12-17'
+release_year: 1988
+runtime: 235960
 ---
-
 All around the world
 There are people like you and me
 From the poorest beggar in the street
@@ -78,6 +82,3 @@ It's a small world
 But it's the only one we've got
 Small world
 Small, small world
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Who Needs Pictures
 artists:
 - Brad Paisley
+external_ids:
+  spotify: spotify:track:6sXDEs7z0LLitIPnPBJ4QM
 features: []
-genres: []
+first_released_as_single: false
 key: he-didn-t-have-to-be-brad-paisley
 lyrics_url: https://genius.com/Brad-paisley-he-didnt-have-to-be-lyrics
 name: He Didn't Have To Be
@@ -87,6 +90,8 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '2000-03-04'
+release_year: 1999
+runtime: 282933
 ---
 When a single mom goes out on a date with somebody new
 It always winds up feelin' more like a job interview

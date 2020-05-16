@@ -1,9 +1,12 @@
 ---
+album: Lover
 artists:
 - Taylor Swift
+external_ids:
+  spotify: spotify:track:2Rk4JlNc2TPmZe2af99d45
 features:
 - Brendon Urie
-genres: []
+first_released_as_single: false
 key: me--taylor-swift-brendon-urie
 lyrics_url: https://www.azlyrics.com/lyrics/taylorswift/me.html
 name: ME!
@@ -88,8 +91,9 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '2019-09-14'
+release_year: 2019
+runtime: 193000
 ---
-
 I promise that you'll never find another like me
 
 I know that I'm a handful baby, uh
@@ -179,6 +183,3 @@ You're the only one of you
 Baby, that's the fun of you
 
 And I promise that nobody's gonna love you like me-e-e-eh
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Vivid
 artists:
 - Living Colour
+external_ids:
+  spotify: spotify:track:2XyU7gwELovG2Nqo9UYBGp
 features: []
-genres: []
+first_released_as_single: false
 key: glamour-boys-living-colour
 lyrics_url: https://www.azlyrics.com/lyrics/livingcolour/glamourboys.html
 name: Glamour Boys
@@ -59,8 +62,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1989-11-18'
+release_year: 1988
+runtime: 220133
 ---
-
 The glamour boys swear they are a diva
 The glamour boys have it all under control
 Always dancing and always laughing
@@ -112,6 +116,3 @@ I ain't no glamour boy - I'm fierce
 I ain't no glamour boy - no no!
 
 (What do you mean my credit's no good?)
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Somethin' 'Bout You Baby I Like
 artists:
 - Tom Jones
+external_ids:
+  spotify: spotify:track:4xRlFw1TdxzEBF5c25MNza
 features: []
-genres: []
+first_released_as_single: false
 key: till-tom-jones
 lyrics_url: https://genius.com/Tom-jones-till-lyrics
 name: Till
@@ -35,6 +38,8 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '1971-12-11'
+release_year: 1971
+runtime: 162293
 ---
 Till the moon deserts the sky
 Till all the seas run dry

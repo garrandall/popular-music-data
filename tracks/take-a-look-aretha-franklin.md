@@ -1,8 +1,11 @@
 ---
+album: Soul Sister
 artists:
 - Aretha Franklin
+external_ids:
+  spotify: spotify:track:5i7qzYnqUiv1sjlr6uKtbl
 features: []
-genres: []
+first_released_as_single: false
 key: take-a-look-aretha-franklin
 lyrics_url: https://genius.com/Aretha-franklin-take-a-look-lyrics
 name: Take A Look
@@ -39,6 +42,8 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '1967-10-21'
+release_year: 1966
+runtime: 160600
 ---
 Take a look in the mirror, look at yourself
 But don’t you look too close

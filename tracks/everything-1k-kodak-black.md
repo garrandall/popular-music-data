@@ -1,8 +1,11 @@
 ---
+album: Lil Big Pac
 artists:
 - Kodak Black
+external_ids:
+  spotify: spotify:track:6bx1Wi1KZRkynuMTYrOhFb
 features: []
-genres: []
+first_released_as_single: false
 key: everything-1k-kodak-black
 lyrics_url: https://www.azlyrics.com/lyrics/kodakblack/everything1k.html
 name: Everything 1K
@@ -11,9 +14,9 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '2017-03-04'
+release_year: 2016
+runtime: 186592
 ---
-
-
 You know life ain't tied with a bow but it's still a gift though
 Yeah life ain't fair but it's still good though
 It's a blessing just to be here
@@ -85,6 +88,3 @@ Everyday that goes by they so close to losing faith
 I got to thank God for everything
 It's a miracle how you'll wake up and your dreams right in your face
 Everything 1K
-
-
-

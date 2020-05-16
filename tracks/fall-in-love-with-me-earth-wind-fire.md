@@ -1,8 +1,11 @@
 ---
+album: Powerlight
 artists:
 - Earth, Wind & Fire
+external_ids:
+  spotify: spotify:track:5qugKP8gPqN91O7KBMkW6P
 features: []
-genres: []
+first_released_as_single: false
 key: fall-in-love-with-me-earth-wind-fire
 name: Fall In Love With Me
 rankings:
@@ -70,5 +73,7 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1983-05-07'
+release_year: 1982
+runtime: 352066
 ---
 

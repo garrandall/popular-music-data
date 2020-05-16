@@ -1,8 +1,11 @@
 ---
+album: The Adventures of Boadacea & The Beetle
 artists:
 - Doctor And The Medics
+external_ids:
+  spotify: spotify:track:45lHacWU2H6pt1rT3PS0RC
 features: []
-genres: []
+first_released_as_single: false
 key: spirit-in-the-sky-doctor-and-the-medics
 lyrics_url: https://genius.com/Doctor-and-the-medics-spirit-in-the-sky-lyrics
 name: Spirit In The Sky
@@ -51,6 +54,8 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1986-10-11'
+release_year: 1986
+runtime: 216413
 ---
 When I die and they lay me to rest
 Gonna go to the place that's best

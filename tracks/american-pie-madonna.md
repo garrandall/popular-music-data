@@ -1,8 +1,11 @@
 ---
+album: The Next Best Thing (Music From The Motion Picture)
 artists:
 - Madonna
+external_ids:
+  spotify: spotify:track:1vo6TY0FyLRBTXohxvflhJ
 features: []
-genres: []
+first_released_as_single: false
 key: american-pie-madonna
 lyrics_url: https://www.azlyrics.com/lyrics/madonna/americanpie.html
 name: American Pie
@@ -43,8 +46,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2000-04-15'
+release_year: 2000
+runtime: 273533
 ---
-
 A long, long time ago
 I can still remember how that music used to
 make me smile
@@ -113,6 +117,3 @@ We started singin'
 We started singin'
 We started singin'
 We started singin'
-
-
-

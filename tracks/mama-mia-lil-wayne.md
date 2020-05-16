@@ -1,8 +1,11 @@
 ---
+album: Funeral
 artists:
 - Lil Wayne
+external_ids:
+  spotify: spotify:track:7K8vPC3GPWafq2zXHuUGXz
 features: []
-genres: []
+first_released_as_single: false
 key: mama-mia-lil-wayne
 lyrics_url: https://www.azlyrics.com/lyrics/lilwayne/mamamia.html
 name: Mama Mia
@@ -11,8 +14,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '2020-02-15'
+release_year: 2020
+runtime: 225440
 ---
-
 What's good brother?
 Beat around the bush, I'ma come around with a bush cutter and look for you
 These niggas talkin' too much shit
@@ -121,6 +125,3 @@ What's in your wallet?
 
 (Mama Mia)
 Funeral
-
-
-

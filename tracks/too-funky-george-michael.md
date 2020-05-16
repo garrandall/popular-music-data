@@ -1,8 +1,11 @@
 ---
+album: Listen Without Prejudice / MTV Unplugged
 artists:
 - George Michael
+external_ids:
+  spotify: spotify:track:7iJvsnSzj6taX4egPglSvM
 features: []
-genres: []
+first_released_as_single: false
 key: too-funky-george-michael
 lyrics_url: https://www.azlyrics.com/lyrics/georgemichael/toofunky.html
 name: Too Funky
@@ -87,8 +90,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1992-10-24'
+release_year: 1992
+runtime: 336533
 ---
-
 Hey, you're just too funky for me
 I gotta get inside of you
 And I'll show you heaven if you let me
@@ -140,6 +144,3 @@ You're such a, you're such a
 (Would you like me to seduce you?) You're such a, you're such a
 Yeah! Yeah!
 (Would you stop playing with that radio of yours, I'm trying to get to sleep!)
-
-
-

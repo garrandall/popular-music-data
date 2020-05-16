@@ -1,8 +1,11 @@
 ---
+album: The Amazing Kamikaze Syndrome (Expanded)
 artists:
 - Slade
+external_ids:
+  spotify: spotify:track:7JuUxcg1Xci0xHAVzZIjdG
 features: []
-genres: []
+first_released_as_single: false
 key: my-oh-my-slade
 lyrics_url: https://genius.com/Slade-my-oh-my-lyrics
 name: My Oh My
@@ -51,6 +54,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1984-09-15'
+release_year: 1983
+runtime: 252160
 ---
 I believe in woman, my oh my
 I believe in lovin', my oh my

@@ -1,8 +1,11 @@
 ---
+album: Hood Rich
 artists:
 - Big Tymers
+external_ids:
+  spotify: spotify:track:563vSy3HB5NHxel1VGQCW6
 features: []
-genres: []
+first_released_as_single: false
 key: still-fly-big-tymers
 lyrics_url: https://www.azlyrics.com/lyrics/bigtymers/stillfly.html
 name: Still Fly
@@ -103,9 +106,9 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '2002-09-21'
+release_year: 2002
+runtime: 335613
 ---
-
-
 Whats up Fresh , its our turn baby
 
 Gator Boots, with the pimped out Gucci suit
@@ -188,6 +191,3 @@ Gator Boots, with the pimped out Gucci suit
 Ain't got no job, but I stay sharp
 Can't pay my rent, cause all my money's spent
 but thats OK, cause I'm still fly
-
-
-

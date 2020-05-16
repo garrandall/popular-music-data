@@ -1,8 +1,11 @@
 ---
+album: The Many Moods Of Tony
 artists:
 - Tony Bennett
+external_ids:
+  spotify: spotify:track:09YTaXc5Sk0rOQ6ighuEaV
 features: []
-genres: []
+first_released_as_single: false
 key: when-joanna-loved-me-tony-bennett
 lyrics_url: https://genius.com/Tony-bennett-when-joanna-loved-me-lyrics
 name: When Joanna Loved Me
@@ -27,6 +30,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1964-04-25'
+release_year: 1964
+runtime: 185373
 ---
 Today is just another day, tomorrow is a guess
 But yesterday, oh, what I'd give for yesterday

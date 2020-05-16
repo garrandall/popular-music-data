@@ -1,8 +1,11 @@
 ---
+album: Men And Women (Expanded)
 artists:
 - Simply Red
+external_ids:
+  spotify: spotify:track:2ZfALE4EncKJFqsEwDkrl9
 features: []
-genres: []
+first_released_as_single: false
 key: the-right-thing-simply-red
 lyrics_url: https://genius.com/Simply-red-the-right-thing-extended-version-lyrics
 name: The Right Thing
@@ -67,6 +70,8 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1987-06-06'
+release_year: 1987
+runtime: 257640
 ---
 In the middle of the night, when the time is right
 Sexily right, I'm gonna do the right thing

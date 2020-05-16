@@ -1,8 +1,11 @@
 ---
+album: Tycoon
 artists:
 - Tycoon
+external_ids:
+  spotify: spotify:track:3zThdcaPn3U4Gmg5B0YV9w
 features: []
-genres: []
+first_released_as_single: false
 key: such-a-woman-tycoon
 lyrics_url: https://www.musixmatch.com/lyrics/Tycoon/Such-a-Woman
 name: Such A Woman
@@ -59,6 +62,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1979-06-09'
+release_year: 1979
+runtime: 261360
 ---
 Ah, oo
 In my own way I say too much

@@ -1,8 +1,11 @@
 ---
+album: I've Got A Woman
 artists:
 - Jimmy McGriff
+external_ids:
+  spotify: spotify:track:5E5DAnBo631u4QZqgKWequ
 features: []
-genres: []
+first_released_as_single: false
 key: all-about-my-girl-jimmy-mcgriff
 name: All About My Girl
 rankings:
@@ -50,5 +53,7 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1963-03-16'
+release_year: 1962
+runtime: 236866
 ---
 

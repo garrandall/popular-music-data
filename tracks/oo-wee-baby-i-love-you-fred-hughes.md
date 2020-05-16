@@ -1,8 +1,11 @@
 ---
+album: 'The Vee-Jay Story: Celebrating 40 Years Of Classic Hits'
 artists:
 - Fred Hughes
+external_ids:
+  spotify: spotify:track:4cUs3gN59vKLnLB396F0Q6
 features: []
-genres: []
+first_released_as_single: false
 key: oo-wee-baby-i-love-you-fred-hughes
 lyrics_url: https://www.musixmatch.com/lyrics/Fred-Hughes/Oo-Wee-Baby-I-Love-You
 name: Oo Wee Baby I Love You
@@ -47,6 +50,8 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '1965-07-31'
+release_year: 1965
+runtime: 144333
 ---
 Come back baby, I love you
 Come back baby, I need you

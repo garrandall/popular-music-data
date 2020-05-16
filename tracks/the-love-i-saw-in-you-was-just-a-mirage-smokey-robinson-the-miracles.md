@@ -1,9 +1,12 @@
 ---
+album: Make It Happen
 artists:
 - Smokey Robinson
 - The Miracles
+external_ids:
+  spotify: spotify:track:0udI4HbJX4siq9P9yUp6MV
 features: []
-genres: []
+first_released_as_single: false
 key: the-love-i-saw-in-you-was-just-a-mirage-smokey-robinson-the-miracles
 lyrics_url: https://www.azlyrics.com/lyrics/smokeyrobinsonthemiracles/theloveisawinyouwasjustamirage.html
 name: The Love I Saw In You Was Just A Mirage
@@ -48,8 +51,9 @@ rankings:
   rank: 36
   ranking_list: Billboard Hot 100
   start_date: '1967-04-22'
+release_year: 1967
+runtime: 178466
 ---
-
 There you were, beautiful
 The promise of love was written on your face
 You led me on with untrue kisses
@@ -85,6 +89,3 @@ Whooh yeah
 Just like the desert shows a thirsty man
 A green oasis where there's only sand
 Ohohoohou lured me into something I should have dodged
-
-
-

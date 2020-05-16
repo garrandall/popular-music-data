@@ -1,8 +1,11 @@
 ---
+album: How To Dismantle An Atomic Bomb
 artists:
 - U2
+external_ids:
+  spotify: spotify:track:6fzcnVO0X2cpYjsHk19GJo
 features: []
-genres: []
+first_released_as_single: false
 key: sometimes-you-can-t-make-it-on-your-own-u2
 lyrics_url: https://genius.com/U2-sometimes-you-cant-make-it-on-your-own-lyrics
 name: Sometimes You Can't Make It On Your Own
@@ -19,6 +22,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2005-04-30'
+release_year: 2004
+runtime: 305080
 ---
 Tough, you think you've got the stuff
 You're telling me and anyone

@@ -1,8 +1,11 @@
 ---
+album: Who's That Girl Soundtrack
 artists:
 - Madonna
+external_ids:
+  spotify: spotify:track:3sX3c6QUPSAiKf77RZRf5B
 features: []
-genres: []
+first_released_as_single: false
 key: causing-a-commotion-madonna
 lyrics_url: https://www.azlyrics.com/lyrics/madonna/causingacommotion.html
 name: Causing A Commotion
@@ -79,10 +82,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1988-01-09'
+release_year: 1987
+runtime: 261666
 ---
-
-
-
 I've got the moves baby, you got the motion
 If we got together we'd be causing a commotion
 I've got the moves baby, you got the motion
@@ -132,4 +134,3 @@ It's how you play the game so get into the groove
 
 Causing a commotion, causing a commotion
 Causing a commotion, causing a commotion
-

@@ -1,8 +1,11 @@
 ---
+album: I Feel A Song
 artists:
 - Gladys Knight And The Pips
+external_ids:
+  spotify: spotify:track:0bjLBTsge0KYD47MpydSIC
 features: []
-genres: []
+first_released_as_single: false
 key: the-way-we-were-gladys-knight-and-the-pips
 lyrics_url: https://genius.com/Gladys-knight-and-the-pips-the-way-we-were-lyrics
 name: The Way We Were
@@ -75,6 +78,8 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '1975-08-16'
+release_year: 1974
+runtime: 271453
 ---
 Hey you know everybody's talkin' about the good old days
 Everybody the good old days

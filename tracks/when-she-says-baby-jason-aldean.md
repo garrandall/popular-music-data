@@ -1,8 +1,11 @@
 ---
+album: Night Train
 artists:
 - Jason Aldean
+external_ids:
+  spotify: spotify:track:3gVRILe7XCyNakb6sy5umX
 features: []
-genres: []
+first_released_as_single: false
 key: when-she-says-baby-jason-aldean
 lyrics_url: https://genius.com/Jason-aldean-when-she-says-baby-lyrics
 name: When She Says Baby
@@ -87,6 +90,8 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '2014-04-26'
+release_year: 2012
+runtime: 171120
 ---
 Some days it's tough just getting up
 Throwing on these boots and making that climb

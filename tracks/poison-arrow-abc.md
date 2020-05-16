@@ -1,8 +1,11 @@
 ---
+album: The Lexicon Of Love
 artists:
 - ABC
+external_ids:
+  spotify: spotify:track:7abGerACQx9G1OBqHYFKAb
 features: []
-genres: []
+first_released_as_single: false
 key: poison-arrow-abc
 lyrics_url: https://www.azlyrics.com/lyrics/abc/poisonarrow.html
 name: Poison Arrow
@@ -67,8 +70,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1983-05-07'
+release_year: 1982
+runtime: 204266
 ---
-
 If I were to say to you, "can you keep a secret?"
 Would you know just what to do or where to keep it?
 Then I say, "I love you", foul the situation
@@ -116,6 +120,3 @@ Shoot that poison arrow
 
 Heart, shoot that poison arrow
 Shoot that poison arrow
-
-
-

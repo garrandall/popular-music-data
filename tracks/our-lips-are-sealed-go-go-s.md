@@ -1,8 +1,11 @@
 ---
+album: Beauty And The Beat
 artists:
 - Go-Go's
+external_ids:
+  spotify: spotify:track:1GVnAD8Iz45rux6EC657Yv
 features: []
-genres: []
+first_released_as_single: false
 key: our-lips-are-sealed-go-go-s
 lyrics_url: https://genius.com/The-go-gos-our-lips-are-sealed-lyrics
 name: Our Lips Are Sealed
@@ -127,6 +130,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1982-03-20'
+release_year: 1981
+runtime: 167960
 ---
 Can you hear them?
 They talk about us

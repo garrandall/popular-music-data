@@ -1,8 +1,11 @@
 ---
+album: Feelin' Bluesy
 artists:
 - Gladys Knight And The Pips
+external_ids:
+  spotify: spotify:track:4a9cvUCsCIpjwsdanrWl5t
 features: []
-genres: []
+first_released_as_single: false
 key: the-end-of-our-road-gladys-knight-and-the-pips
 lyrics_url: https://genius.com/Gladys-knight-and-the-pips-the-end-of-our-road-lyrics
 name: The End Of Our Road
@@ -47,6 +50,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1968-04-13'
+release_year: 1968
+runtime: 137093
 ---
 I've gotta get away from you fast as I can
 Too much for me woman more than my heart could stand

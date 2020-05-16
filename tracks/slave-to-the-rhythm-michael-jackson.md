@@ -1,8 +1,11 @@
 ---
+album: XSCAPE
 artists:
 - Michael Jackson
+external_ids:
+  spotify: spotify:track:4h5KB1btt2aZBq9EJHmWF4
 features: []
-genres: []
+first_released_as_single: false
 key: slave-to-the-rhythm-michael-jackson
 lyrics_url: https://www.azlyrics.com/lyrics/michaeljackson/slavetotherhythm.html
 name: Slave To The Rhythm
@@ -11,8 +14,9 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '2014-06-07'
+release_year: 2014
+runtime: 255986
 ---
-
 She dances in his sheets at night
 She dances to his needs
 She dances 'til he feels just right
@@ -80,6 +84,3 @@ She's a slave to the rhythm of
 She's a slave to the rhythm
 A slave to the rhythm of
 The rhythm of love, the rhythm of love
-
-
-

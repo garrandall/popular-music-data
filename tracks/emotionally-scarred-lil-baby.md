@@ -1,8 +1,11 @@
 ---
+album: My Turn
 artists:
 - Lil Baby
+external_ids:
+  spotify: spotify:track:7ge7BHazYbVKi8qyZUX1Bm
 features: []
-genres: []
+first_released_as_single: false
 key: emotionally-scarred-lil-baby
 lyrics_url: https://www.azlyrics.com/lyrics/lilbaby/emotionallyscarred.html
 name: Emotionally Scarred
@@ -15,8 +18,9 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '2020-03-21'
+release_year: 2020
+runtime: 197529
 ---
-
 A love letter came through the mail, it said, "I miss you"
 I ripped it up and flushed with the tissue, try to forget you
 I ain't got nothing against you, we human, we all got issues
@@ -87,6 +91,3 @@ I know I wasn't there for you, at least I said I'm sorry
 You know what it was, I told you that I was heartless
 I'm emotionally scarred, that ain't even your fault
 But don't listen to them haters tryna fill your ears with salt
-
-
-

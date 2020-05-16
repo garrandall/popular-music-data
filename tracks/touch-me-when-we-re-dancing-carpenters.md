@@ -1,8 +1,11 @@
 ---
+album: Made In America
 artists:
 - Carpenters
+external_ids:
+  spotify: spotify:track:3JTpBx594omaUMH7OjXdPb
 features: []
-genres: []
+first_released_as_single: false
 key: touch-me-when-we-re-dancing-carpenters
 lyrics_url: https://www.azlyrics.com/lyrics/carpenters/touchmewhenweredancing.html
 name: Touch Me When We're Dancing
@@ -63,8 +66,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1981-09-19'
+release_year: 1981
+runtime: 199906
 ---
-
 Play us a song we can slow dance on
 We want to hold each other
 Play us a groove so we hardly move
@@ -88,4 +92,3 @@ Oh, baby, 'cause it feels so good
 Just to be this close
 You've got me up so high
 I could fly coast to coast
-

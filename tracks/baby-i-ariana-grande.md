@@ -1,8 +1,11 @@
 ---
+album: Yours Truly
 artists:
 - Ariana Grande
+external_ids:
+  spotify: spotify:track:6EIsMa5lbvljYxqCkjZVDi
 features: []
-genres: []
+first_released_as_single: false
 key: baby-i-ariana-grande
 lyrics_url: https://genius.com/Ariana-grande-baby-i-lyrics
 name: Baby I
@@ -19,6 +22,8 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '2013-09-28'
+release_year: 2013
+runtime: 197600
 ---
 Baby, I got love for thee so deep inside of me
 I don't know where to start

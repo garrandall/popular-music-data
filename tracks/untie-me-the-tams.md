@@ -1,8 +1,11 @@
 ---
+album: Comin at Cha!
 artists:
 - The Tams
+external_ids:
+  spotify: spotify:track:6dSfyyuTVnquyJW4ObN6dj
 features: []
-genres: []
+first_released_as_single: false
 key: untie-me-the-tams
 lyrics_url: https://genius.com/The-tams-untie-me-lyrics
 name: Untie Me
@@ -35,6 +38,8 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '1962-12-01'
+release_year: 1962
+runtime: 132173
 ---
 Not too long ago
 You said you'd love me 'til the end

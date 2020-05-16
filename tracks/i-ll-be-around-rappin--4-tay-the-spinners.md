@@ -1,9 +1,12 @@
 ---
+album: I'll Be Around
 artists:
 - Rappin' 4-Tay
+external_ids:
+  spotify: spotify:track:3Pl6yfw3XIhDvJDw662c7R
 features:
 - The Spinners
-genres: []
+first_released_as_single: true
 key: i-ll-be-around-rappin--4-tay-the-spinners
 lyrics_url: https://genius.com/Rappin-4-tay-ill-be-around-lyrics
 name: I'll Be Around
@@ -72,6 +75,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1995-07-08'
+release_year: 1995
+runtime: 241348
 ---
 Lady: Ragtop records, may I help you?
 Fly: Can I speak to Fo?

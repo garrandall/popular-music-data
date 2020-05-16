@@ -1,10 +1,13 @@
 ---
+album: Me & My Brother
 artists:
 - Ying Yang Twins
+external_ids:
+  spotify: spotify:track:4Kd0FzFpOgIGxlBl4HXuFn
 features:
 - Lil Jon
 - The East Side Boyz
-genres: []
+first_released_as_single: false
 key: salt-shaker-ying-yang-twins-lil-jon-the-east-side-boyz
 lyrics_url: https://www.azlyrics.com/lyrics/yingyangtwins/saltshaker.html
 name: Salt Shaker
@@ -113,9 +116,9 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '2004-05-08'
+release_year: 2003
+runtime: 252440
 ---
-
-
 Shawty crunk on the floor wide open
 Skeet so much they call her Billy Ocean
 Roll like an eighteen wheeler
@@ -181,4 +184,3 @@ On the poll upside down, (this shit for real)
 Sixty-nine plenty time will pay a bill
 At day she a clerk but night she turn (stripper)
 You're not even dated your just tryin to (tip her)
-

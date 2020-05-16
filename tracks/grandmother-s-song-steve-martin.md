@@ -1,8 +1,11 @@
 ---
+album: Let's Get Small
 artists:
 - Steve Martin
+external_ids:
+  spotify: spotify:track:0m7kvRT7bPJ7CcBgTyv4xB
 features: []
-genres: []
+first_released_as_single: false
 key: grandmother-s-song-steve-martin
 lyrics_url: https://genius.com/Steve-martin-grandmothers-song-lyrics
 name: Grandmother's Song
@@ -19,6 +22,8 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1977-12-17'
+release_year: 1977
+runtime: 215866
 ---
 Be courteous, kind and forgiving
 Be gentle and peaceful each day

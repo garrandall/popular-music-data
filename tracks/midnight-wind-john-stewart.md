@@ -1,8 +1,11 @@
 ---
+album: 'The Essential John and Buffy: Live at the Turf Inn, Scotland'
 artists:
 - John Stewart
+external_ids:
+  spotify: spotify:track:6NDAKgX0IZ6u1uMk9Sdqds
 features: []
-genres: []
+first_released_as_single: false
 key: midnight-wind-john-stewart
 lyrics_url: https://www.azlyrics.com/lyrics/johnstewart/midnightwind.html
 name: Midnight Wind
@@ -55,8 +58,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1979-11-10'
+release_year: 1979
+runtime: 335066
 ---
-
 Come on down Miranda
 Your window's open wide
 Take a chance on a midnight dance
@@ -106,6 +110,3 @@ Midnight wind
 C'mon down 
 
 Oh please babe
-
-
-

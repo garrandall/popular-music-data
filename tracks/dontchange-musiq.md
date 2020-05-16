@@ -1,8 +1,11 @@
 ---
+album: Juslisen
 artists:
 - Musiq
+external_ids:
+  spotify: spotify:track:3DkaXDmC0qaFNAxgLMuwX4
 features: []
-genres: []
+first_released_as_single: false
 key: dontchange-musiq
 lyrics_url: https://genius.com/Musiq-soulchild-dontchange-lyrics
 name: dontchange
@@ -111,6 +114,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2003-03-01'
+release_year: 2002
+runtime: 304426
 ---
 Lately, you've been questionin' if I still see you the same way
 'Cause through these tryin' years we gonna both physically change

@@ -1,8 +1,11 @@
 ---
+album: 2 Fast 2 Furious (Soundtrack)
 artists:
 - Ludacris
+external_ids:
+  spotify: spotify:track:28mv40MzspRZn0PBcO2itT
 features: []
-genres: []
+first_released_as_single: false
 key: act-a-fool-ludacris
 lyrics_url: https://www.azlyrics.com/lyrics/ludacris/actafool.html
 name: Act A Fool
@@ -51,9 +54,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2003-08-16'
+release_year: 2003
+runtime: 270733
 ---
-
-
 DRAH! 2 Fast...
 DRAH! 2 Furious...
 I'M TOO FAST FOR Y'ALL MAYN!
@@ -160,6 +163,3 @@ BOY whatcha gon do? ACT A FOOL
 2 Fast...ACT A FOOL
 2 Fast, 2 Furious...
 2 Fast...ACT A FOOL
-
-
-

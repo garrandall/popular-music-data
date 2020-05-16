@@ -1,8 +1,11 @@
 ---
+album: One Man Dog
 artists:
 - James Taylor
+external_ids:
+  spotify: spotify:track:2gPsCmehSyxvn6RfYDAI0N
 features: []
-genres: []
+first_released_as_single: false
 key: one-man-parade-james-taylor
 lyrics_url: https://www.azlyrics.com/lyrics/jamestaylor/onemanparade.html
 name: One Man Parade
@@ -23,8 +26,9 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1973-03-24'
+release_year: 1972
+runtime: 191223
 ---
-
 Do believe I'm gonna clap my hands, think I might tap my feet.
 Put together a one-man band, take a walk on down the street.
 Have a one-man parade, nobody needs to know.
@@ -48,6 +52,3 @@ Honalei, it's raining, Honalei, it's raining muddy waters.
 Thinking 'bout a one man parade, y'all, nobody, nobody, nobody, nobody, hey.
 I'm right good at holding on, holding on, holding on.
 La la la la la
-
-
-

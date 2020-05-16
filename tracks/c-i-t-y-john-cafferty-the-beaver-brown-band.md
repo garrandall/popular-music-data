@@ -1,9 +1,12 @@
 ---
+album: Tough All Over
 artists:
 - John Cafferty
 - The Beaver Brown Band
+external_ids:
+  spotify: spotify:track:5NkOX5hXQZuJh0ksKjEg9S
 features: []
-genres: []
+first_released_as_single: false
 key: c-i-t-y-john-cafferty-the-beaver-brown-band
 lyrics_url: https://www.azlyrics.com/lyrics/johncaffertythebeaverbrownband/city.html
 name: C-I-T-Y
@@ -68,8 +71,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1985-11-16'
+release_year: 1985
+runtime: 215626
 ---
-
 On the South side of Detroit city
 I'm working all night on the line
 Under black smoke stacks
@@ -112,4 +116,3 @@ And you can spend
 All my money, honey
 Na na na na, your man has come
 It's alright
-

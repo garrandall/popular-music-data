@@ -1,8 +1,11 @@
 ---
+album: 20 Of Their Best
 artists:
 - Starbuck
+external_ids:
+  spotify: spotify:track:7sfMjwBcAatrNH46rn1YsK
 features: []
-genres: []
+first_released_as_single: true
 key: moonlight-feels-right-starbuck
 lyrics_url: https://genius.com/Starbuck-moonlight-feels-right-lyrics
 name: Moonlight Feels Right
@@ -95,6 +98,8 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '1976-09-11'
+release_year: 1976
+runtime: 221066
 ---
 The wind blew some luck in my direction
 I caught it in my hands today
@@ -144,5 +149,3 @@ Moonlight
 Feels right
 Moonlight
 Feels right
-
-

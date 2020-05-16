@@ -1,8 +1,11 @@
 ---
+album: My World
 artists:
 - Justin Bieber
+external_ids:
+  spotify: spotify:track:0ffOWJVrYmtKcmQJbPWuhc
 features: []
-genres: []
+first_released_as_single: false
 key: bigger-justin-bieber
 lyrics_url: https://www.musixmatch.com/lyrics/Justin-Bieber/Bigger
 name: Bigger
@@ -11,6 +14,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2009-12-05'
+release_year: 2009
+runtime: 197800
 ---
 Her love, her love is, bigger
 

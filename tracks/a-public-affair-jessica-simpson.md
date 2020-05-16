@@ -1,8 +1,11 @@
 ---
+album: A Public Affair
 artists:
 - Jessica Simpson
+external_ids:
+  spotify: spotify:track:6MJVi6h2NEdegJC5qGpK2R
 features: []
-genres: []
+first_released_as_single: false
 key: a-public-affair-jessica-simpson
 lyrics_url: https://www.azlyrics.com/lyrics/jessicasimpson/apublicaffair.html
 name: A Public Affair
@@ -55,8 +58,9 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '2006-09-30'
+release_year: 1999
+runtime: 200893
 ---
-
 There go the street lights - the night's officially on,
 I got the green light - to do what ever we want,
 Gonna stand - outside - the box - and put the rules on hold,
@@ -117,6 +121,3 @@ All the girls stepping out for a public affair
 All the cameras come out for a public affair
 (Who cares, let's rock, cos the party don't stop)
 (Stop, stop, stop)
-
-
-

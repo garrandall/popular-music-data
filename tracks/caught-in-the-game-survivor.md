@@ -1,8 +1,11 @@
 ---
+album: Caught in the Game
 artists:
 - Survivor
+external_ids:
+  spotify: spotify:track:7oJha5sW0FFC5zSslt7MUG
 features: []
-genres: []
+first_released_as_single: false
 key: caught-in-the-game-survivor
 lyrics_url: https://genius.com/Survivor-caught-in-the-game-lyrics
 name: Caught In The Game
@@ -27,6 +30,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1983-11-19'
+release_year: 1983
+runtime: 286266
 ---
 You swore you'd never again, let yourself be tempted
 Too many times in the past when you've opened up your heart --

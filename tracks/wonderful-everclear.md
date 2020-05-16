@@ -1,8 +1,11 @@
 ---
+album: 'Songs From An American Movie: Learning How To Smile'
 artists:
 - Everclear
+external_ids:
+  spotify: spotify:track:0WHOPmOuQKuu05k4g3UTvk
 features: []
-genres: []
+first_released_as_single: false
 key: wonderful-everclear
 lyrics_url: https://www.azlyrics.com/lyrics/everclear/wonderful.html
 name: Wonderful
@@ -91,8 +94,9 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '2000-11-25'
+release_year: 2000
+runtime: 280813
 ---
-
 "Hey, ain't life wonderful? Wonderful, wonderful, wonderful... Isn't it wonderful now?"
 
 I close my eyes when I get too sad
@@ -160,6 +164,3 @@ Everyone and everything
 Please don't tell me everything is wonderful now
 
 I don't wanna hear you tell me everything is wonderful now
-
-
-

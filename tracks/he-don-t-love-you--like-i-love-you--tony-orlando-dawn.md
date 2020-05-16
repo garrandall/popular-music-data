@@ -1,9 +1,12 @@
 ---
+album: He Don't Love You
 artists:
 - Tony Orlando
 - Dawn
+external_ids:
+  spotify: spotify:track:0XaaoZUWQFzcFiQbXKhABU
 features: []
-genres: []
+first_released_as_single: false
 key: he-don-t-love-you--like-i-love-you--tony-orlando-dawn
 lyrics_url: https://genius.com/Tony-orlando-and-dawn-he-dont-love-you-like-i-love-you-lyrics
 name: He Don't Love You (Like I Love You)
@@ -64,6 +67,8 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '1975-06-14'
+release_year: 1975
+runtime: 219946
 ---
 He don't love you, like I love you
 If he did, he wouldn't break your heart

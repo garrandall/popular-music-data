@@ -1,8 +1,11 @@
 ---
+album: Heart Don't Lie (Bonus Track Version)
 artists:
 - LaToya Jackson
+external_ids:
+  spotify: spotify:track:5WAWJLe2pqAh1oqJlLCnIW
 features: []
-genres: []
+first_released_as_single: true
 key: heart-don-t-lie-latoya-jackson
 lyrics_url: https://genius.com/La-toya-jackson-heart-dont-lie-lyrics
 name: Heart Don't Lie
@@ -39,6 +42,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1984-06-23'
+release_year: 1984
+runtime: 276329
 ---
 Latoya Jackson
 Heart Don't Lie

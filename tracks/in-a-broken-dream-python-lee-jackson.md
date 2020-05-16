@@ -1,8 +1,11 @@
 ---
+album: Sweet Consolation 1966
 artists:
 - Python Lee Jackson
+external_ids:
+  spotify: spotify:track:0o2ODr6zCp6DZdTczHsGSv
 features: []
-genres: []
+first_released_as_single: false
 key: in-a-broken-dream-python-lee-jackson
 lyrics_url: https://genius.com/Python-lee-jackson-in-a-broken-dream-lyrics
 name: In A Broken Dream
@@ -47,6 +50,8 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '1972-07-29'
+release_year: 1972
+runtime: 223000
 ---
 Every day I spend my time
 Drinkin' wine, feelin' fine

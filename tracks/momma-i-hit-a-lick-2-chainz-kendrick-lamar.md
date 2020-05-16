@@ -1,9 +1,12 @@
 ---
+album: Rap Or Go To The League
 artists:
 - 2 Chainz
+external_ids:
+  spotify: spotify:track:7jKUnzzOGhAlPjr7LkIUlE
 features:
 - Kendrick Lamar
-genres: []
+first_released_as_single: false
 key: momma-i-hit-a-lick-2-chainz-kendrick-lamar
 lyrics_url: https://www.azlyrics.com/lyrics/2chainz/mommaihitalick.html
 name: Momma I Hit A Lick
@@ -12,8 +15,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2019-03-16'
+release_year: 2019
+runtime: 173760
 ---
-
 (I want it, I want it, I want it)
 
 (Chili, chili, chili, chili)
@@ -98,6 +102,3 @@ Huh, played the underdog, now I flex
 (Tell my momma I hit a lick)
 (Tell my momma I hit a lick)
 (Momma, I hit a lick)
-
-
-

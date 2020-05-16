@@ -1,8 +1,11 @@
 ---
+album: Unwritten
 artists:
 - Natasha Bedingfield
+external_ids:
+  spotify: spotify:track:6QLU1GKy2Zh2mOh2uoJ0TV
 features: []
-genres: []
+first_released_as_single: false
 key: these-words-natasha-bedingfield
 lyrics_url: https://www.azlyrics.com/lyrics/natashabedingfield/thesewords.html
 name: These Words
@@ -87,8 +90,9 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '2005-11-12'
+release_year: 2004
+runtime: 216360
 ---
-
 My heart
 
 These words are my own
@@ -175,6 +179,3 @@ That's all I got to say
 Can't think of a better way
 And that's all I've got to say
 I love you. Is that okay?
-
-
-

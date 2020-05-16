@@ -1,9 +1,12 @@
 ---
+album: The Preacher's Son
 artists:
 - Wyclef Jean
+external_ids:
+  spotify: spotify:track:79AFpL0ZvLSNZxY04WV8vc
 features:
 - Missy Elliott
-genres: []
+first_released_as_single: true
 key: party-to-damascus-wyclef-jean-missy-elliott
 lyrics_url: https://genius.com/Wyclef-jean-party-to-damascus-lyrics
 name: Party To Damascus
@@ -44,6 +47,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2003-12-13'
+release_year: 1990
+runtime: 250493
 ---
 (Missy Elliott)
 Brrrr, yeah (ew, ew, ew, EW! yeah)

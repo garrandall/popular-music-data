@@ -1,8 +1,11 @@
 ---
+album: Body And Soul
 artists:
 - Jackie Wilson
+external_ids:
+  spotify: spotify:track:134qLCzbDLIv0JMbEVY68O
 features: []
-genres: []
+first_released_as_single: false
 key: there-ll-be-no-next-time-jackie-wilson
 lyrics_url: https://genius.com/Jackie-wilson-therell-be-no-next-time-lyrics
 name: There'll Be No Next Time
@@ -19,6 +22,8 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1962-02-03'
+release_year: 1962
+runtime: 187853
 ---
 I know you think I'm foolish
 But somewhere down the line

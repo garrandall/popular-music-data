@@ -1,8 +1,11 @@
 ---
+album: reputation
 artists:
 - Taylor Swift
+external_ids:
+  spotify: spotify:track:1GwMQaZz6Au3QLDbjbMdme
 features: []
-genres: []
+first_released_as_single: false
 key: call-it-what-you-want-taylor-swift
 lyrics_url: https://www.azlyrics.com/lyrics/taylorswift/callitwhatyouwant.html
 name: Call It What You Want
@@ -15,6 +18,8 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '2017-12-02'
+release_year: 2017
+runtime: 203506
 ---
 Ohh-oh, oh-oh, oh-oh, oh-oh
 Ohh-oh, oh-oh, oh-oh, oh-oh

@@ -1,8 +1,11 @@
 ---
+album: Lee Brice
 artists:
 - Lee Brice
+external_ids:
+  spotify: spotify:track:56eGOeSsqdg3FLxdo83TwV
 features: []
-genres: []
+first_released_as_single: false
 key: rumor-lee-brice
 lyrics_url: https://www.azlyrics.com/lyrics/leebrice/rumor.html
 name: Rumor
@@ -87,8 +90,9 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '2019-08-03'
+release_year: 2017
+runtime: 198440
 ---
-
 Girl you know I've known you forever
 How many nights have we hung out together
 Same little crowd, little bar, little town
@@ -131,6 +135,3 @@ There's a rumor going round, and round, and round
 What you say we make it...
 Make it true?
 What you say we make it true? Yeah
-
-
-

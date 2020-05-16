@@ -1,8 +1,11 @@
 ---
+album: Songs
 artists:
 - Luther Vandross
+external_ids:
+  spotify: spotify:track:54MrIWu6PEhIf4JYHUZh1v
 features: []
-genres: []
+first_released_as_single: false
 key: love-the-one-you-re-with-luther-vandross
 lyrics_url: https://genius.com/Luther-vandross-love-the-one-youre-with-lyrics
 name: Love The One You're With
@@ -15,6 +18,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1995-04-29'
+release_year: 1994
+runtime: 303360
 ---
 There's a rose in a fisted glove
 And the eagle flies with the dove

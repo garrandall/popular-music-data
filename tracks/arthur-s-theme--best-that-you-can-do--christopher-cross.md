@@ -1,8 +1,11 @@
 ---
+album: A Night in Paris (Live)
 artists:
 - Christopher Cross
+external_ids:
+  spotify: spotify:track:5fnOrhQ4KgT5irGCjIccGH
 features: []
-genres: []
+first_released_as_single: false
 key: arthur-s-theme--best-that-you-can-do--christopher-cross
 lyrics_url: https://genius.com/Christopher-cross-arthurs-theme-best-that-you-can-do-lyrics
 name: Arthur's Theme (Best That You Can Do)
@@ -103,6 +106,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1982-01-23'
+release_year: 1981
+runtime: 234493
 ---
 Once in your life you find her
 Someone that turns your heart around

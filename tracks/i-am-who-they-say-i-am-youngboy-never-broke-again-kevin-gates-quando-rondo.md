@@ -1,10 +1,13 @@
 ---
+album: 4Respect 4Freedom 4Loyalty 4WhatImportant
 artists:
 - YoungBoy Never Broke Again
+external_ids:
+  spotify: spotify:track:4O1uCappFiU3bisYUdUBWy
 features:
 - Kevin Gates
 - Quando Rondo
-genres: []
+first_released_as_single: false
 key: i-am-who-they-say-i-am-youngboy-never-broke-again-kevin-gates-quando-rondo
 lyrics_url: https://genius.com/Youngboy-never-broke-again-i-am-who-they-say-i-am-lyrics
 name: I Am Who They Say I Am
@@ -17,6 +20,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '2018-09-15'
+release_year: 2018
+runtime: 200170
 ---
 I are who you say I a-a-am
 (Shawty say I she feeling me, I ain't never set back tho')

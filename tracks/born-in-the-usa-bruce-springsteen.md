@@ -1,8 +1,11 @@
 ---
+album: Missing EP
 artists:
 - Bruce Springsteen
+external_ids:
+  spotify: spotify:track:0NPb1s1SuBwVN1FxEWIVH1
 features: []
-genres: []
+first_released_as_single: true
 key: born-in-the-usa-bruce-springsteen
 lyrics_url: https://genius.com/Bruce-springsteen-born-in-the-usa-lyrics
 name: Born In The USA
@@ -75,6 +78,8 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1985-03-02'
+release_year: 1984
+runtime: 243813
 ---
 Born down in a dead man's town
 The first kick I took was when I hit the ground

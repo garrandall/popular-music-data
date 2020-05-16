@@ -1,8 +1,11 @@
 ---
+album: On Your Account, In Concert
 artists:
 - Harold Betters
+external_ids:
+  spotify: spotify:track:6IKwixveYR3iNlCWgDZ9sd
 features: []
-genres: []
+first_released_as_single: false
 key: do-anything-you-wanna--part-i--harold-betters
 name: Do Anything You Wanna (Part I)
 rankings:
@@ -38,5 +41,7 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1965-01-02'
+release_year: 1964
+runtime: 135933
 ---
 

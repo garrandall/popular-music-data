@@ -1,8 +1,11 @@
 ---
+album: Hot Chocolate
 artists:
 - Hot Chocolate
+external_ids:
+  spotify: spotify:track:714hERk9U1W8FMYkoC83CO
 features: []
-genres: []
+first_released_as_single: false
 key: you-sexy-thing-hot-chocolate
 lyrics_url: https://genius.com/Hot-chocolate-you-sexy-thing-lyrics
 name: You Sexy Thing
@@ -91,6 +94,8 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '1976-03-20'
+release_year: 1975
+runtime: 244920
 ---
 I believe in miracles
 Where you from

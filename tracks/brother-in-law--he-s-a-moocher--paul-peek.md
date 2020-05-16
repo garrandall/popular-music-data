@@ -1,8 +1,11 @@
 ---
+album: Great Rare Songs, Vol. 6
 artists:
 - Paul Peek
+external_ids:
+  spotify: spotify:track:739SkjJC28YZmoatFrcSZV
 features: []
-genres: []
+first_released_as_single: false
 key: brother-in-law--he-s-a-moocher--paul-peek
 lyrics_url: https://www.musixmatch.com/lyrics/Paul-Peek/Brother-In-Law-He-s-A-Moocher
 name: Brother-In-Law (He's A Moocher)
@@ -19,6 +22,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1961-05-29'
+release_year: 1961
+runtime: 148120
 ---
 Mother-in-law finally took that hint
 (She's a moocher, a dirty moocher)

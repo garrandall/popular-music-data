@@ -1,8 +1,11 @@
 ---
+album: Arizona
 artists:
 - Mark Lindsay
+external_ids:
+  spotify: spotify:track:6WdRtYX5QMaP503hgnFUEN
 features: []
-genres: []
+first_released_as_single: false
 key: first-hymn-from-grand-terrace-mark-lindsay
 lyrics_url: https://genius.com/Mark-lindsay-first-hymn-from-grand-terrace-lyrics
 name: First Hymn From Grand Terrace
@@ -23,6 +26,8 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1969-08-16'
+release_year: 1969
+runtime: 151000
 ---
 There was a hill we climbed
 And a nursery rhyme

@@ -1,9 +1,12 @@
 ---
+album: The Definitive Collection
 artists:
 - Tony Orlando
 - Dawn
+external_ids:
+  spotify: spotify:track:5iNEAEkOK1OtN6lqE4pLzg
 features: []
-genres: []
+first_released_as_single: false
 key: steppin--out--gonna-boogie-tonight--tony-orlando-dawn
 lyrics_url: https://www.azlyrics.com/lyrics/tonyorlandodawn/steppinoutgonnaboogietonight.html
 name: Steppin' Out (Gonna Boogie Tonight)
@@ -60,8 +63,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1974-11-16'
+release_year: 1973
+runtime: 174466
 ---
-
 No, I'm not upset, I'm not, lots of people get married
 Please, I'm in a hurry, won't you straighten my tie? I'll get by
 She was something else, she was, now, she's gonna get married
@@ -94,6 +98,3 @@ Oh, I'm steppin' out, Ma, I'm gonna boogie tonight
 
 Dancing and singing, don't worry, I'll be alright
 I'm steppin' out tonight, oh dancing and singing
-
-
-

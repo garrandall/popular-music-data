@@ -1,8 +1,11 @@
 ---
+album: Summer Place '76
 artists:
 - Percy Faith
+external_ids:
+  spotify: spotify:track:2kKL5kk4On8YRSKWDgXWMX
 features: []
-genres: []
+first_released_as_single: false
 key: the-theme-from--a-summer-place--percy-faith-and-his-orchestra
 lyrics_url: https://genius.com/Percy-faith-and-his-orchestra-the-theme-from-a-summer-place-lyrics
 name: The Theme From "A Summer Place"
@@ -91,5 +94,7 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '1960-05-30'
+release_year: 1953
+runtime: 144893
 ---
 (Instrumental)

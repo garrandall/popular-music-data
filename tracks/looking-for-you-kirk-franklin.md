@@ -1,8 +1,11 @@
 ---
+album: Hero
 artists:
 - Kirk Franklin
+external_ids:
+  spotify: spotify:track:1ssCo2yimhsKNhN43ayAzE
 features: []
-genres: []
+first_released_as_single: true
 key: looking-for-you-kirk-franklin
 lyrics_url: https://genius.com/Kirk-franklin-looking-for-you-lyrics
 name: Looking For You
@@ -87,6 +90,8 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '2006-04-22'
+release_year: 2005
+runtime: 246360
 ---
 I've been down so long
 I've been hurt for so long

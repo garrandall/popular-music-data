@@ -1,11 +1,14 @@
 ---
+album: I Need Your Love
 artists:
 - Shaggy
+external_ids:
+  spotify: spotify:track:74Xdx4ezYQQlg8wKswq25T
 features:
 - Mohombi
 - Faydee
 - Costi
-genres: []
+first_released_as_single: true
 key: i-need-your-love-shaggy-mohombi-faydee-costi
 lyrics_url: https://www.azlyrics.com/lyrics/shaggy/habbiloveineedyourlove.html
 name: I Need Your Love
@@ -42,8 +45,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2015-07-11'
+release_year: 2014
+runtime: 216666
 ---
-
 Yeah man
 Party time
 Mohombi
@@ -123,6 +127,3 @@ I need your love
 I need your love
 I need your lo-lo-lo-love
 Let me love you oh-oh oh
-
-
-

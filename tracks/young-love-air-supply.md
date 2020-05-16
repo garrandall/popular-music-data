@@ -1,8 +1,11 @@
 ---
+album: Now And Forever
 artists:
 - Air Supply
+external_ids:
+  spotify: spotify:track:3HmkC0MSrW4A1RMi78s2Qg
 features: []
-genres: []
+first_released_as_single: false
 key: young-love-air-supply
 lyrics_url: https://www.azlyrics.com/lyrics/airsupply/younglove.html
 name: Young Love
@@ -43,8 +46,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1982-11-13'
+release_year: 1982
+runtime: 231933
 ---
-
 Lately all my thoughts have gone to you
 You know that's true
 Sometimes I feel just a word away
@@ -66,4 +70,3 @@ I'll take you where I know you belong
 Take my thoughts away beyond the things we see
 Sometimes it seems just a word away
 You'll say oh how I really feel it should be
-

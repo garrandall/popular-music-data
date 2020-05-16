@@ -1,8 +1,11 @@
 ---
+album: Last Date
 artists:
 - Floyd Cramer
+external_ids:
+  spotify: spotify:track:6KB3UH8BVVQqbe24eBfJZn
 features: []
-genres: []
+first_released_as_single: false
 key: last-date-floyd-cramer
 lyrics_url: https://genius.com/Floyd-cramer-last-date-lyrics
 name: Last Date
@@ -87,6 +90,8 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '1961-02-20'
+release_year: 1960
+runtime: 146933
 ---
 It's over our love affair
 Too late now I find I care

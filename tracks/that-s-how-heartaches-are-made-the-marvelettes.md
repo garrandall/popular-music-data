@@ -1,8 +1,11 @@
 ---
+album: In Full Bloom
 artists:
 - The Marvelettes
+external_ids:
+  spotify: spotify:track:5Ef0xSKstUnm8masfM1k00
 features: []
-genres: []
+first_released_as_single: false
 key: that-s-how-heartaches-are-made-the-marvelettes
 lyrics_url: https://www.azlyrics.com/lyrics/marvelettes/thatshowheartachesaremade.html
 name: That's How Heartaches Are Made
@@ -11,8 +14,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1969-11-08'
+release_year: 1969
+runtime: 178813
 ---
-
 (That's how, that's how
 Heartaches are made)
 La la la la la la la la
@@ -60,6 +64,3 @@ Heartaches are made)
 La la la la la la la la
 (That's how, that's how
 Heartaches are made)
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Barabajagal
 artists:
 - Donovan
+external_ids:
+  spotify: spotify:track:0FYprG7MWPHLnmxfhWRH90
 features: []
-genres: []
+first_released_as_single: false
 key: atlantis-donovan
 lyrics_url: https://www.azlyrics.com/lyrics/donovan/atlantis.html
 name: Atlantis
@@ -59,8 +62,9 @@ rankings:
   rank: 30
   ranking_list: Billboard Hot 100
   start_date: '1969-06-28'
+release_year: 1964
+runtime: 298600
 ---
-
 The continent of Atlantis was an island
 Which lay before the great flood
 In the area we now call the Atlantic Ocean.
@@ -108,6 +112,3 @@ My antediluvian baby, gotta tell me where she gone
 I wanna see you some day Wake up, wake up, wake up, wake up,
 oh yeah Oh club club, down down, yeah
 My antediluvian baby, oh yeah yeah yeah yeah
-
-
-

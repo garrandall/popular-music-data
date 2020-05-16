@@ -1,8 +1,11 @@
 ---
+album: Xmas Party Album!
 artists:
 - Vengaboys
+external_ids:
+  spotify: spotify:track:2Ld2LehpgQNREMxl9LlIzm
 features: []
-genres: []
+first_released_as_single: true
 key: boom-boom-boom-boom---vengaboys
 lyrics_url: https://www.azlyrics.com/lyrics/vengaboys/boomboomboomboom.html
 name: Boom Boom Boom Boom!
@@ -31,8 +34,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1999-09-11'
+release_year: 1998
+runtime: 201840
 ---
-
 Whoa oh whoa oh
 Whoa oh whoa oh
 Vengaboys are back in town
@@ -138,6 +142,3 @@ Boom boom boom boom
 I wanna go boom boom
 And spend the night together
 Together in my room
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Turn Your Radio On
 artists:
 - Ray Stevens
+external_ids:
+  spotify: spotify:track:4EIqfHGoT4yCSFrbTjoQ42
 features: []
-genres: []
+first_released_as_single: false
 key: all-my-trials-ray-stevens
 lyrics_url: https://www.azlyrics.com/lyrics/raystevens/allmytrials.html
 name: All My Trials
@@ -31,8 +34,9 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1971-10-02'
+release_year: 1971
+runtime: 179906
 ---
-
 Hush, little baby, don't you cry
 You know your mama was born to die
 All my trials, Lord, soon be over
@@ -55,6 +59,3 @@ All my trials, Lord
 They're gonna soon, soon be over
 All my trials, Lord
 They're gonna soon, they're gonna soon be over
-
-
-

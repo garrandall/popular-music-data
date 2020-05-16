@@ -1,8 +1,11 @@
 ---
+album: The Truth
 artists:
 - JAY-Z
+external_ids:
+  spotify: spotify:track:1xixUOjgdqMOPZxursTms3
 features: []
-genres: []
+first_released_as_single: false
 key: anything-jay-z
 lyrics_url: https://genius.com/Jay-z-anything-lyrics
 name: Anything
@@ -39,6 +42,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2000-04-15'
+release_year: 1999
+runtime: 286333
 ---
 Uh huh yea, yeah
 Duro!

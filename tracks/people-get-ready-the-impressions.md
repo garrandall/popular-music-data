@@ -1,8 +1,11 @@
 ---
+album: People Get Ready
 artists:
 - The Impressions
+external_ids:
+  spotify: spotify:track:6AeG6jSoAVbmUFO6LyYmBf
 features: []
-genres: []
+first_released_as_single: false
 key: people-get-ready-the-impressions
 lyrics_url: https://genius.com/The-impressions-people-get-ready-lyrics
 name: People Get Ready
@@ -39,6 +42,8 @@ rankings:
   rank: 27
   ranking_list: Billboard Hot 100
   start_date: '1965-04-03'
+release_year: 1965
+runtime: 163360
 ---
 People get ready, there's a train a-comin'
 You don't need no baggage, you just get on board

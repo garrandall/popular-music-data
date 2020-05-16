@@ -1,8 +1,11 @@
 ---
+album: Soul On The Rocks
 artists:
 - The Isley Brothers
+external_ids:
+  spotify: spotify:track:43TcFdEKwyo46T0bhLHB8O
 features: []
-genres: []
+first_released_as_single: false
 key: got-to-have-you-back-the-isley-brothers
 lyrics_url: https://genius.com/The-isley-brothers-got-to-have-you-back-lyrics
 name: Got To Have You Back
@@ -15,6 +18,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1967-05-13'
+release_year: 1967
+runtime: 173853
 ---
 Got to have you back I need you
 A jealous lie hurt my foolish pride

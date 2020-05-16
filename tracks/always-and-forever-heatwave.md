@@ -1,8 +1,11 @@
 ---
+album: Too Hot To Handle
 artists:
 - Heatwave
+external_ids:
+  spotify: spotify:track:2v2aQFsmfULxlM5VWYk6D1
 features: []
-genres: []
+first_released_as_single: false
 key: always-and-forever-heatwave
 lyrics_url: https://genius.com/Heatwave-always-and-forever-lyrics
 name: Always And Forever
@@ -87,6 +90,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1978-05-20'
+release_year: 1972
+runtime: 374733
 ---
 Always and forever, each moment with you
 Is just like a dream to me that somehow came true

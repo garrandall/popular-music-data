@@ -1,8 +1,11 @@
 ---
+album: beerbongs & bentleys
 artists:
 - Post Malone
+external_ids:
+  spotify: spotify:track:2VdT56BGpdqNHUgOe1j5vc
 features: []
-genres: []
+first_released_as_single: false
 key: rich---sad-post-malone
 lyrics_url: https://www.azlyrics.com/lyrics/postmalone/richsad.html
 name: Rich & Sad
@@ -31,8 +34,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2018-06-16'
+release_year: 2018
+runtime: 206453
 ---
-
 Hundred thousand for the chain and now my drop (drop, drop)
 When I pull out the garage, I chop my top (top, top)
 Just like a fiend, when I start I cannot stop (whoa)
@@ -89,6 +93,3 @@ You know I would throw it all away
 I just keep on wishin' that the money made you stay (made you stay)
 Price went up, my price went up, we went our separate ways (separate ways)
 I just keep on wishin' that the money made you stay (made you stay) ayy, ayy
-
-
-

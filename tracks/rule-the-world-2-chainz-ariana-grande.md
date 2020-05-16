@@ -1,9 +1,12 @@
 ---
+album: Rap Or Go To The League
 artists:
 - 2 Chainz
+external_ids:
+  spotify: spotify:track:1R6VwZ8TuHRzxZUxe88n4I
 features:
 - Ariana Grande
-genres: []
+first_released_as_single: false
 key: rule-the-world-2-chainz-ariana-grande
 lyrics_url: https://www.azlyrics.com/lyrics/2chainz/ruletheworld.html
 name: Rule The World
@@ -16,8 +19,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2019-05-25'
+release_year: 2019
+runtime: 245893
 ---
-
 (Hitmaka)
 (2 Chainz)
 
@@ -103,6 +107,3 @@ They say it's blind
 No matter where you from, though
 You gon' bump into it one day
 True
-
-
-

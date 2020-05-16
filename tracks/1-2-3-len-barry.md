@@ -1,8 +1,11 @@
 ---
+album: 60's Gold
 artists:
 - Len Barry
+external_ids:
+  spotify: spotify:track:5t6q0AC5pTGxCnLSg3qu4i
 features: []
-genres: []
+first_released_as_single: false
 key: 1-2-3-len-barry
 lyrics_url: https://www.musixmatch.com/lyrics/Len-Barry/1-2-3
 name: 1-2-3
@@ -67,6 +70,8 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1966-01-01'
+release_year: 1965
+runtime: 141840
 ---
 1-2-3
 Oh, that's how elementary

@@ -1,8 +1,11 @@
 ---
+album: Cymande
 artists:
 - Cymande
+external_ids:
+  spotify: spotify:track:1cSn7YyTn523mnxtOZXRYA
 features: []
-genres: []
+first_released_as_single: false
 key: the-message-cymande
 lyrics_url: https://genius.com/Cymande-the-message-lyrics
 name: The Message
@@ -47,6 +50,8 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '1973-03-24'
+release_year: 1972
+runtime: 257760
 ---
 Together, fore we go
 Forever like it was before

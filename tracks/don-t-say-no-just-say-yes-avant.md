@@ -1,8 +1,11 @@
 ---
+album: Ecstasy
 artists:
 - Avant
+external_ids:
+  spotify: spotify:track:2rh1HEbkalvTKVhooKdePe
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-say-no-just-say-yes-avant
 lyrics_url: https://www.azlyrics.com/lyrics/avant/dontsaynojustsayyes.html
 name: Don't Say No Just Say Yes
@@ -23,8 +26,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2002-11-16'
+release_year: 2002
+runtime: 274666
 ---
-
 Oh...Yes...
 Oh babe...Yes babe..
 
@@ -63,6 +67,3 @@ I don't wanna talk no more...
 I can feel you...your body all over mine..
 Oh wee...open your door for me... I'm coming in...
 ..knock, knock...knock, knock babe
-
-
-

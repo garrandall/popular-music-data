@@ -1,8 +1,11 @@
 ---
+album: The Gentrys
 artists:
 - The Gentrys
+external_ids:
+  spotify: spotify:track:52J4vJn4VHKFocvwBDQyN3
 features: []
-genres: []
+first_released_as_single: false
 key: cinnamon-girl-the-gentrys
 name: Cinnamon Girl
 rankings:
@@ -54,5 +57,7 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1970-07-04'
+release_year: 1970
+runtime: 138245
 ---
 

@@ -1,8 +1,11 @@
 ---
+album: Extreme II - Pornograffitti
 artists:
 - Extreme
+external_ids:
+  spotify: spotify:track:1gVgkQFOKa8Wc1HYsJtPdH
 features: []
-genres: []
+first_released_as_single: false
 key: more-than-words-extreme
 lyrics_url: https://genius.com/Extreme-more-than-words-lyrics
 name: More Than Words
@@ -103,6 +106,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1991-08-31'
+release_year: 1990
+runtime: 334106
 ---
 Saying I love you
 Is not the words I want to hear from you

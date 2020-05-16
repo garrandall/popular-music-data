@@ -1,8 +1,11 @@
 ---
+album: Out Of The Cellar
 artists:
 - Ratt
+external_ids:
+  spotify: spotify:track:6EZKvBJc9ljadSjWytSti2
 features: []
-genres: []
+first_released_as_single: false
 key: wanted-man-ratt
 lyrics_url: https://www.azlyrics.com/lyrics/ratt/wantedman.html
 name: Wanted Man
@@ -19,8 +22,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1984-10-20'
+release_year: 1984
+runtime: 222506
 ---
-
 Wanted man
 
 Well, low dealer, with snake eyes
@@ -49,7 +53,4 @@ A wanted man (a wanted man)
 
 'Cause I'm a, a wanted man
 'Cause I'm a, a wanted man, yes I am
-'Cause I'm a, a wanted man 
-
-
-
+'Cause I'm a, a wanted man

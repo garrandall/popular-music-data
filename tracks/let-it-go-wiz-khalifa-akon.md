@@ -1,9 +1,12 @@
 ---
+album: O.N.I.F.C.
 artists:
 - Wiz Khalifa
+external_ids:
+  spotify: spotify:track:5Ur3FZ0DkRPDwXdyjmx64i
 features:
 - Akon
-genres: []
+first_released_as_single: false
 key: let-it-go-wiz-khalifa-akon
 lyrics_url: https://www.azlyrics.com/lyrics/wizkhalifa/letitgo.html
 name: Let It Go
@@ -12,9 +15,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '2012-12-22'
+release_year: 2012
+runtime: 258946
 ---
-
-
 Let it go, let it go homie
 You know we can see through them blinds homie
 And see through the truth and them lies homie
@@ -104,6 +107,3 @@ Let them know, let them know
 
 
 ONIFC, TGOD
-
-
-

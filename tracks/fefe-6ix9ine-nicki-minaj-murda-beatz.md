@@ -1,10 +1,13 @@
 ---
+album: DUMMY BOY
 artists:
 - 6ix9ine
+external_ids:
+  spotify: spotify:track:2l8nEO0vsTRCRnGqQty6qx
 features:
 - Nicki Minaj
 - Murda Beatz
-genres: []
+first_released_as_single: false
 key: fefe-6ix9ine-nicki-minaj-murda-beatz
 lyrics_url: https://www.azlyrics.com/lyrics/6ix9ine/fefe.html
 name: FEFE
@@ -89,9 +92,9 @@ rankings:
   rank: 52
   ranking_list: Billboard Hot 100
   start_date: '2018-12-15'
+release_year: 2018
+runtime: 179404
 ---
-
-
 It's fuckin' TR3YWAY!
 It's King of New York, lookin' for the Queen
 
@@ -128,7 +131,7 @@ I don't really want no friends, no
 He-He tryna 69 like Tekashi, call him papi
 Word to A$AP, keep me Rocky
 I'm from New York, so I'm cocky, say he fuckin' with my posse
-Copped me KhloÃ© like Kardashi', keep this pussy in Versace
+Copped me Khloé like Kardashi', keep this pussy in Versace
 Said I'm pretty like Tinashe
 Put it all up in his face, did I catch a case?
 Pussy game just caught a body, but I never leave a trace
@@ -170,6 +173,3 @@ Colorful hair, don't care
 I don't really want no friends, I don't really want no friends, no
 I don't really want no friends, I don't really want no friends, no
 Scum Gang!
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: A Love Letter To You 3
 artists:
 - Trippie Redd
+external_ids:
+  spotify: spotify:track:7DcXrSmEvHHAPugAP4NEeh
 features: []
-genres: []
+first_released_as_single: true
 key: topanga-trippie-redd
 lyrics_url: https://www.azlyrics.com/lyrics/trippieredd/topanga.html
 name: Topanga
@@ -27,8 +30,9 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '2018-12-08'
+release_year: 2018
+runtime: 215364
 ---
-
 DJ on the beat so it's a banger
 (It ain't over, it ain't over)
 (It ain't over, it ain't over)
@@ -85,6 +89,3 @@ Stop that now, you in danger
 Stop right now, you in danger
 Stop that now, you in danger
 Stop right now, you in danger, yeah
-
-
-

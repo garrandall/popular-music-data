@@ -1,8 +1,11 @@
 ---
+album: Eddie Money
 artists:
 - Eddie Money
+external_ids:
+  spotify: spotify:track:3D8dhn5h7jxFnKIVSUx9f1
 features: []
-genres: []
+first_released_as_single: false
 key: baby-hold-on-eddie-money
 lyrics_url: https://genius.com/Eddie-money-baby-hold-on-lyrics
 name: Baby Hold On
@@ -87,9 +90,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1978-07-08'
+release_year: 1975
+runtime: 211226
 ---
-
-
 Baby hold on to me
 Whatever will be, will be
 The future is ours to see

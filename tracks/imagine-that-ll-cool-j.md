@@ -1,8 +1,11 @@
 ---
+album: 'G. O. A. T. Featuring James T. Smith: The Greatest Of All Time'
 artists:
 - LL Cool J
+external_ids:
+  spotify: spotify:track:0wAy5t4SRReuwAvEqtUKgs
 features: []
-genres: []
+first_released_as_single: false
 key: imagine-that-ll-cool-j
 lyrics_url: https://genius.com/Ll-cool-j-imagine-that-lyrics
 name: Imagine That
@@ -15,6 +18,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2000-08-19'
+release_year: 2000
+runtime: 298066
 ---
 I just want you to fantasize with imagination
 Know what I'm saying, uh yeah, yeah

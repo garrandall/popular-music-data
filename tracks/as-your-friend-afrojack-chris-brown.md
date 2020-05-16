@@ -1,9 +1,12 @@
 ---
+album: Forget The World
 artists:
 - Afrojack
+external_ids:
+  spotify: spotify:track:7aLemVaGw5bt4u7wPXm7Lm
 features:
 - Chris Brown
-genres: []
+first_released_as_single: true
 key: as-your-friend-afrojack-chris-brown
 lyrics_url: https://www.musixmatch.com/lyrics/Chris-Brown-feat-Afrojack/As-Your-Friend
 name: As Your Friend
@@ -20,6 +23,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2013-03-23'
+release_year: 2013
+runtime: 240004
 ---
 I just can't live anymore like this
 My heart just opened up the door again

@@ -1,8 +1,11 @@
 ---
+album: Wins & Losses
 artists:
 - Meek Mill
+external_ids:
+  spotify: spotify:track:1GOuHB20lqVyxv3GdxovPY
 features: []
-genres: []
+first_released_as_single: false
 key: issues-meek-mill
 lyrics_url: https://www.azlyrics.com/lyrics/meekmill/issues.html
 name: Issues
@@ -11,8 +14,9 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '2017-08-12'
+release_year: 2017
+runtime: 211684
 ---
-
 Lord, forgive me for my sins, used to pray to get a brick
 Nigga icy like it's hockey, and I'm playin' with them sticks
 He don't like me, but he gotta respect the fact we gettin' rich
@@ -83,6 +87,3 @@ Bunch of bad broads on the menu
 Bunch of foreign cars when we bend through
 Next up, disrespectful, might offend you
 When it's time for war we send the missiles (brrrt, brrrt)
-
-
-

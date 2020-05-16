@@ -1,8 +1,11 @@
 ---
+album: Center Stage Music From The Motion Picture
 artists:
 - Mandy Moore
+external_ids:
+  spotify: spotify:track:7jCNgrWPI0d1hB2YZxidkl
 features: []
-genres: []
+first_released_as_single: false
 key: i-wanna-be-with-you-mandy-moore
 lyrics_url: https://www.azlyrics.com/lyrics/mandymoore/iwannabewithyou.html
 name: I Wanna Be With You
@@ -75,8 +78,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2000-10-07'
+release_year: 1987
+runtime: 300733
 ---
-
 I try but I can't seem to get myself to think of anything but you
 Your breath on my face your warm, gentle kiss I taste the truth, I taste the truth
 We know what I came here for
@@ -119,7 +123,3 @@ Oh yeah
 I wanna be with you
 Wanna be with you, oo, yeah
 I wanna be, I wanna be
-
-
-
-

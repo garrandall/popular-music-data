@@ -1,12 +1,15 @@
 ---
+album: To The Sky
 artists:
 - Kevin Rudolf
+external_ids:
+  spotify: spotify:track:6H2wnX7ytNeCKERIVqCwgs
 features:
 - Birdman
 - Jay Sean
 - ''
 - Lil Wayne
-genres: []
+first_released_as_single: false
 key: i-made-it--cash-money-heroes--kevin-rudolf-birdman-jay-sean--lil-wayne
 lyrics_url: https://genius.com/Dj-storm-and-lil-wayne-i-made-it-feat-kevin-rudolf-birdman-and-jay-sean-lyrics
 name: I Made It (Cash Money Heroes)
@@ -91,6 +94,8 @@ rankings:
   rank: 36
   ranking_list: Billboard Hot 100
   start_date: '2010-07-03'
+release_year: 2010
+runtime: 249546
 ---
 Yeah
 Cash Money Heroes

@@ -1,8 +1,11 @@
 ---
+album: We Can Fly
 artists:
 - The Cowsills
+external_ids:
+  spotify: spotify:track:6mTsWgHqjyCgVk83J4qN1N
 features: []
-genres: []
+first_released_as_single: false
 key: in-need-of-a-friend-the-cowsills
 lyrics_url: https://genius.com/The-cowsills-in-need-of-a-friend-lyrics
 name: In Need Of A Friend
@@ -31,6 +34,8 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '1968-04-20'
+release_year: 1967
+runtime: 180093
 ---
 Cowsill
 

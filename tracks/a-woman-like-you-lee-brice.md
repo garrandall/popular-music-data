@@ -1,8 +1,11 @@
 ---
+album: Hard 2 Love
 artists:
 - Lee Brice
+external_ids:
+  spotify: spotify:track:3oyMHCAAcnWFdcGuVgwfhd
 features: []
-genres: []
+first_released_as_single: false
 key: a-woman-like-you-lee-brice
 lyrics_url: https://genius.com/Lee-brice-a-woman-like-you-lyrics
 name: A Woman Like You
@@ -87,6 +90,8 @@ rankings:
   rank: 52
   ranking_list: Billboard Hot 100
   start_date: '2012-05-19'
+release_year: 2011
+runtime: 209786
 ---
 Last night, outta the blue
 Driftin' off to the evening news

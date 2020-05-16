@@ -1,8 +1,11 @@
 ---
+album: Please Love Me Forever
 artists:
 - Bobby Vinton
+external_ids:
+  spotify: spotify:track:4YNKYvRIvrIqcrJNv1u4v0
 features: []
-genres: []
+first_released_as_single: false
 key: please-love-me-forever-bobby-vinton
 lyrics_url: https://www.azlyrics.com/lyrics/bobbyvinton/pleaselovemeforever.html
 name: Please Love Me Forever
@@ -59,8 +62,9 @@ rankings:
   rank: 27
   ranking_list: Billboard Hot 100
   start_date: '1967-12-23'
+release_year: 1962
+runtime: 157533
 ---
-
 Please love me forever
 Don't forget me ever
 Just listen to my plea
@@ -86,6 +90,3 @@ Can't forget you ever
 Our love was meant to be
 Please don't stop loving me
 Please don't stop loving me
-
-
-

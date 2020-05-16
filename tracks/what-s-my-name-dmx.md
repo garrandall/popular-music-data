@@ -1,8 +1,11 @@
 ---
+album: '...And Then There Was X'
 artists:
 - DMX
+external_ids:
+  spotify: spotify:track:3HkIODwqfqQNoBt8OVSsNL
 features: []
-genres: []
+first_released_as_single: false
 key: what-s-my-name-dmx
 lyrics_url: https://genius.com/Dmx-whats-my-name-lyrics
 name: What's My Name
@@ -51,6 +54,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2000-03-25'
+release_year: 1999
+runtime: 229066
 ---
 This is the fuckin shit I be talkin about
 Half rappin' ass mothafuckers

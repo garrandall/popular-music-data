@@ -1,8 +1,11 @@
 ---
+album: More Gunfighter Ballads and Trail Songs
 artists:
 - Marty Robbins
+external_ids:
+  spotify: spotify:track:39kqEgevkI3UxStWdR2cfR
 features: []
-genres: []
+first_released_as_single: false
 key: five-brothers-marty-robbins
 lyrics_url: https://www.azlyrics.com/lyrics/martyrobbins/fivebrothers.html
 name: Five Brothers
@@ -23,8 +26,9 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1960-10-03'
+release_year: 1960
+runtime: 131666
 ---
-
 Five brothers who left Arkansas
 Set out to find the gambler
 Who murdered their pa
@@ -75,6 +79,3 @@ Lay beside the man
 Who killed their pa in New Orleans
 Lay beside the man
 Who killed their pa in New Orleans
-
-
-

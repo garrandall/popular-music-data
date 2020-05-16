@@ -1,9 +1,12 @@
 ---
+album: Some Things Don't Come Easy
 artists:
 - England Dan
 - John Ford Coley
+external_ids:
+  spotify: spotify:track:7gfF9nA0mUeaRCPE5ezZLj
 features: []
-genres: []
+first_released_as_single: false
 key: we-ll-never-have-to-say-goodbye-again-england-dan-john-ford-coley
 lyrics_url: https://genius.com/England-dan-and-john-ford-coley-well-never-have-to-say-goodbye-again-lyrics
 name: We'll Never Have To Say Goodbye Again
@@ -64,6 +67,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1978-05-27'
+release_year: 1978
+runtime: 172240
 ---
 Turn on the radio
 We'll play it way down low

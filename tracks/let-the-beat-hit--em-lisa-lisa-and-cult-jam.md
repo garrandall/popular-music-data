@@ -1,8 +1,11 @@
 ---
+album: STRAIGHT OUTTA HELL'S KITCHEN
 artists:
 - Lisa Lisa And Cult Jam
+external_ids:
+  spotify: spotify:track:5uxcZzsePjVOQxYjoURVr8
 features: []
-genres: []
+first_released_as_single: false
 key: let-the-beat-hit--em-lisa-lisa-and-cult-jam
 lyrics_url: https://genius.com/Lisa-lisa-and-cult-jam-let-the-beat-hit-em-lyrics
 name: Let The Beat Hit 'Em
@@ -71,6 +74,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1991-10-05'
+release_year: 1985
+runtime: 277400
 ---
 In order to play with this record
 You must tune your bass to ours

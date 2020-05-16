@@ -1,9 +1,12 @@
 ---
+album: Takin' It Easy
 artists:
 - Seals
 - Crofts
+external_ids:
+  spotify: spotify:track:5Y67sAjZpir4N0PTBsIogb
 features: []
-genres: []
+first_released_as_single: false
 key: you-re-the-love-seals-crofts
 lyrics_url: https://genius.com/Seals-and-crofts-youre-the-love-lyrics
 name: You're The Love
@@ -72,6 +75,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1978-07-29'
+release_year: 1978
+runtime: 200026
 ---
 From the albums TAKIN' IT EASY (1978) and THE SEALS & CROFTS COLLECTION (1979)
 

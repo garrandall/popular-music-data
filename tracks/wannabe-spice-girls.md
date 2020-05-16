@@ -1,8 +1,11 @@
 ---
+album: Spice
 artists:
 - Spice Girls
+external_ids:
+  spotify: spotify:track:1Je1IMUlBXcx1Fz0WE7oPT
 features: []
-genres: []
+first_released_as_single: false
 key: wannabe-spice-girls
 lyrics_url: https://genius.com/Spice-girls-wannabe-lyrics
 name: Wannabe
@@ -99,6 +102,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1997-06-28'
+release_year: 1996
+runtime: 173026
 ---
 Ha, ha, ha
 Yo, I'll tell you what I want, what I really, really want

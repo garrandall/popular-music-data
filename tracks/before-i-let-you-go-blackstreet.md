@@ -1,8 +1,11 @@
 ---
+album: Blackstreet
 artists:
 - BLACKstreet
+external_ids:
+  spotify: spotify:track:2rkVoKVEMuct8SmEIGKzBw
 features: []
-genres: []
+first_released_as_single: false
 key: before-i-let-you-go-blackstreet
 lyrics_url: https://www.azlyrics.com/lyrics/blackstreet/beforeiletyougo.html
 name: Before I Let You Go
@@ -115,8 +118,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1995-04-22'
+release_year: 1994
+runtime: 299800
 ---
-
 Before I let you go, before I let you go
 Can I get a kiss, goodnight, baby
 
@@ -161,6 +165,3 @@ I just can't let you get away, oh yeah...
 Lord, have mercy...
 I don't want lose your sweet love
 So don't say good-bye, say good-night
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: More Than Just A Dream
 artists:
 - Fitz And The Tantrums
+external_ids:
+  spotify: spotify:track:1fguC3GngAuPk9A8g72ayZ
 features: []
-genres: []
+first_released_as_single: false
 key: the-walker-fitz-and-the-tantrums
 lyrics_url: https://www.azlyrics.com/lyrics/fitzandthetantrums/thewalker.html
 name: The Walker
@@ -55,8 +58,9 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '2014-05-31'
+release_year: 2013
+runtime: 208093
 ---
-
 Oh, crazy's what they think about me
 Ain't gonna stop cause they tell me so
 Cause 99 miles per hour baby
@@ -112,6 +116,3 @@ Feel it in my soul
 Really need it, need it, so go
 Gotta feel it, body takes control
 Really need it, need it
-
-
-

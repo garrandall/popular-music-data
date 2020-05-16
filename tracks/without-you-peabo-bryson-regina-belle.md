@@ -1,9 +1,12 @@
 ---
+album: Positive
 artists:
 - Peabo Bryson
 - Regina Belle
+external_ids:
+  spotify: spotify:track:0aPBevogh0dGCG4BccwxgA
 features: []
-genres: []
+first_released_as_single: false
 key: without-you-peabo-bryson-regina-belle
 lyrics_url: https://genius.com/Peabo-bryson-without-you-lyrics
 name: Without You
@@ -20,6 +23,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1988-02-20'
+release_year: 1988
+runtime: 315360
 ---
 Yeah, living against the grain
 Two hearts sharing one pain

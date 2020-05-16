@@ -1,8 +1,11 @@
 ---
+album: The Greatest Hits Collection
 artists:
 - Bananarama
+external_ids:
+  spotify: spotify:track:6oZ19KrxsPcBnzZntOJlvb
 features: []
-genres: []
+first_released_as_single: false
 key: love-truth---honesty-bananarama
 lyrics_url: https://genius.com/Bananarama-love-truth-and-honesty-lyrics
 name: Love Truth & Honesty
@@ -19,6 +22,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1988-12-10'
+release_year: 1988
+runtime: 205733
 ---
 Never trust your own emotions
 They'll always let you down

@@ -1,9 +1,12 @@
 ---
+album: Heart Of Stone
 artists:
 - Cher
 - Peter Cetera
+external_ids:
+  spotify: spotify:track:0ACu78PvVsOFYIKgRkKbGZ
 features: []
-genres: []
+first_released_as_single: false
 key: after-all--love-theme-from--chances-are---cher-peter-cetera
 lyrics_url: https://genius.com/Peter-cetera-after-all-with-cher-lyrics
 name: After All
@@ -88,6 +91,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1989-07-22'
+release_year: 1989
+runtime: 244360
 ---
 Well, here we are again, I guess it must be fate
 We've tried it on our own

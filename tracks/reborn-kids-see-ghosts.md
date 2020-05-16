@@ -1,8 +1,11 @@
 ---
+album: KIDS SEE GHOSTS
 artists:
 - KIDS SEE GHOSTS
+external_ids:
+  spotify: spotify:track:4RVbK6cV0VqWdpCDcx3hiT
 features: []
-genres: []
+first_released_as_single: false
 key: reborn-kids-see-ghosts
 lyrics_url: https://genius.com/Kids-see-ghosts-reborn-lyrics
 name: Reborn
@@ -15,6 +18,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2018-06-30'
+release_year: 2018
+runtime: 324674
 ---
 I'm so—I’m so reborn, I'm movin' forward
 Keep movin’ forward, keep movin' forward

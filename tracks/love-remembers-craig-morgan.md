@@ -1,8 +1,11 @@
 ---
+album: That's Why
 artists:
 - Craig Morgan
+external_ids:
+  spotify: spotify:track:2HTRbbAy1RHTsRbJ0RNcjM
 features: []
-genres: []
+first_released_as_single: false
 key: love-remembers-craig-morgan
 lyrics_url: https://www.azlyrics.com/lyrics/craigmorgan/loveremembers.html
 name: Love Remembers
@@ -43,8 +46,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2008-12-27'
+release_year: 2008
+runtime: 235773
 ---
-
 You can forget what love was wearing
 When it walked out your front door
 Where you fell down to your knees
@@ -107,6 +111,3 @@ Love remembers
 Beatin' down on the top of a car
 (On the side of the road)
 (Where it couldn't wait)
-
-
-

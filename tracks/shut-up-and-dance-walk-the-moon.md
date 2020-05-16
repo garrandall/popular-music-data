@@ -1,8 +1,11 @@
 ---
+album: TALKING IS HARD
 artists:
 - WALK THE MOON
+external_ids:
+  spotify: spotify:track:4kbj5MwxO1bq9wjT5g9HaA
 features: []
-genres: []
+first_released_as_single: false
 key: shut-up-and-dance-walk-the-moon
 lyrics_url: https://genius.com/Walk-the-moon-shut-up-and-dance-lyrics
 name: Shut Up And Dance
@@ -219,6 +222,8 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '2015-11-28'
+release_year: 2014
+runtime: 199080
 ---
 "Oh, don't you dare look back
 Just keep your eyes on me"

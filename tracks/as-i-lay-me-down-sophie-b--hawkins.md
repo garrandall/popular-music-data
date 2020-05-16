@@ -1,8 +1,11 @@
 ---
+album: Whaler
 artists:
 - Sophie B. Hawkins
+external_ids:
+  spotify: spotify:track:5PUeaQZZqJCbBYntZwPXey
 features: []
-genres: []
+first_released_as_single: false
 key: as-i-lay-me-down-sophie-b--hawkins
 lyrics_url: https://www.azlyrics.com/lyrics/sophiebhawkins/asilaymedown.html
 name: As I Lay Me Down
@@ -183,8 +186,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1996-03-30'
+release_year: 1991
+runtime: 248573
 ---
-
 It felt like spring time on this February morning
 In a courtyard birds were singing your praise
 I'm still recalling things you said to make me feel alright
@@ -258,6 +262,3 @@ I will wake up happy (oh la kah koh)
 This I pray
 ...
 (oh la kah koh)
-
-
-

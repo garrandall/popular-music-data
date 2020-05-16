@@ -1,8 +1,11 @@
 ---
+album: Love At First Sting
 artists:
 - Scorpions
+external_ids:
+  spotify: spotify:track:58XWGx7KNNkKneHdprcprX
 features: []
-genres: []
+first_released_as_single: false
 key: rock-you-like-a-hurricane-scorpions
 lyrics_url: https://www.azlyrics.com/lyrics/scorpions/rockyoulikeahurricane.html
 name: Rock You Like A Hurricane
@@ -71,8 +74,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1984-07-07'
+release_year: 1984
+runtime: 252493
 ---
-
 It's early morning
 The sun comes out
 Last night was shaking
@@ -147,6 +151,3 @@ Here I am
 Rock you like a hurricane (Come on, come on, come on, come on)
 Here I am
 Rock you like a hurricane
-
-
-

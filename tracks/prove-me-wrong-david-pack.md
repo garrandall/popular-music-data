@@ -1,8 +1,11 @@
 ---
+album: Anywhere You Go
 artists:
 - David Pack
+external_ids:
+  spotify: spotify:track:7Mm3r1zlXxJFecTMZuXQIR
 features: []
-genres: []
+first_released_as_single: false
 key: prove-me-wrong-david-pack
 lyrics_url: https://www.musixmatch.com/lyrics/David-Pack/Prove-Me-Wrong
 name: Prove Me Wrong
@@ -19,6 +22,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1986-02-08'
+release_year: 1985
+runtime: 258786
 ---
 Living in the darkness
 Sleeping in the light of day

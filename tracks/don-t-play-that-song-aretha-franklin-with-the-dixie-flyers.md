@@ -1,8 +1,11 @@
 ---
+album: Spirit in the Dark
 artists:
 - Aretha Franklin
+external_ids:
+  spotify: spotify:track:4M1zcX803dgkDkISHZDPYi
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-play-that-song-aretha-franklin-with-the-dixie-flyers
 lyrics_url: https://genius.com/Aretha-franklin-dont-play-that-song-lyrics
 name: Don't Play That Song
@@ -47,6 +50,8 @@ rankings:
   rank: 28
   ranking_list: Billboard Hot 100
   start_date: '1970-10-10'
+release_year: 1970
+runtime: 182040
 ---
 Don’t play that song for me
 Cause it brings back memories

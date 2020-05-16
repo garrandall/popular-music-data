@@ -1,8 +1,11 @@
 ---
+album: Wildflowers
 artists:
 - Tom Petty
+external_ids:
+  spotify: spotify:track:1c0flvMImhKMuiZIc0VzEb
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-good-to-be-king-tom-petty
 lyrics_url: https://www.azlyrics.com/lyrics/tompettyandtheheartbreakers/itsgoodtobeking.html
 name: It's Good To Be King
@@ -39,8 +42,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1995-06-17'
+release_year: 1994
+runtime: 310933
 ---
-
 It's good to be king, if just for a while
 To be there in velvet, yeah, to give 'em a smile
 It's good to get high and never come down
@@ -64,6 +68,3 @@ It's good to be king, whatever it pays
 
 Excuse me if I have some place in my mind
 Where I go time to time
-
-
-

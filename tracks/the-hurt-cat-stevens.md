@@ -1,8 +1,11 @@
 ---
+album: Foreigner
 artists:
 - Cat Stevens
+external_ids:
+  spotify: spotify:track:0ssyUYzev6ulxNWQcAPk6m
 features: []
-genres: []
+first_released_as_single: false
 key: the-hurt-cat-stevens
 lyrics_url: https://www.azlyrics.com/lyrics/catstevens/thehurt.html
 name: The Hurt
@@ -47,8 +50,9 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1973-09-08'
+release_year: 1973
+runtime: 259826
 ---
-
 You say you want to seek the truth, but it's hard to find
 No one to help you, your friends don't have the time
 So you ride around in your car. switch on the radio
@@ -96,6 +100,3 @@ I didn't think of this until I got hurt
 'Till I got hurt, baby, I didn't know what love is
 
 Until I got hurt, oh I didn't know what love is
-
-
-

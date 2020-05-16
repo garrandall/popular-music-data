@@ -1,8 +1,11 @@
 ---
+album: Not Like Other Girls
 artists:
 - S.O.A.P.
+external_ids:
+  spotify: spotify:track:42yb3aUH2iUYzbcIelm2f9
 features: []
-genres: []
+first_released_as_single: false
 key: this-is-how-we-party-s-o-a-p-
 lyrics_url: https://genius.com/Soap-this-is-how-we-party-lyrics
 name: This Is How We Party
@@ -55,6 +58,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1998-07-04'
+release_year: 1998
+runtime: 198066
 ---
 This is how we party
 Fooling with your body

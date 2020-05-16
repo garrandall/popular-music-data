@@ -1,8 +1,11 @@
 ---
+album: Tougher Than Love
 artists:
 - Diana King
+external_ids:
+  spotify: spotify:track:3ldG6XCLDXxWg1N6XhrSKo
 features: []
-genres: []
+first_released_as_single: false
 key: shy-guy-diana-king
 lyrics_url: https://www.azlyrics.com/lyrics/dianaking/shyguy.html
 name: Shy Guy
@@ -123,8 +126,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1995-10-14'
+release_year: 1995
+runtime: 258560
 ---
-
 I don't want no fly guy
 I just want a shy guy
 Thats what I want yey
@@ -191,6 +195,3 @@ He's the kinda guy who'll only be mine
 
 
 Shy guy Shy guy Shy guy
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Killer
 artists:
 - Alice Cooper
+external_ids:
+  spotify: spotify:track:7K5DQXU32pXtzwUgHsrZYy
 features: []
-genres: []
+first_released_as_single: false
 key: be-my-lover-alice-cooper
 lyrics_url: https://www.azlyrics.com/lyrics/alicecooper/bemylover.html
 name: Be My Lover
@@ -47,8 +50,9 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '1972-05-13'
+release_year: 1971
+runtime: 201040
 ---
-
 She struts into the room well I don't know her but with a magnifying glance I just sort of looked her over hm
 We had a drink or two well maybe three and then suddenly she starts telling me her life story
 She says baby if you wanna be my lover you better take me home
@@ -59,6 +63,3 @@ And I said baby if you wanna be my lover you better take me home
 'cause it's a long long way to paradise and I'm still on my own on my own
 Oh baby if you wanna be my lover you better take me home
 'cause it's a long long way to paradise and I'm still on my own oh
-
-
-

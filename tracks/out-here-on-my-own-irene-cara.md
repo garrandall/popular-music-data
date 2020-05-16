@@ -1,8 +1,11 @@
 ---
+album: Karaoke - 80's Female Pop
 artists:
 - Irene Cara
+external_ids:
+  spotify: spotify:track:7KhhMI6XIc9hwLBSfuZ7By
 features: []
-genres: []
+first_released_as_single: false
 key: out-here-on-my-own-irene-cara
 lyrics_url: https://www.azlyrics.com/lyrics/irenecara/outhereonmyown.html
 name: Out Here On My Own
@@ -99,8 +102,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1981-01-17'
+release_year: 1980
+runtime: 193360
 ---
-
 Sometimes I wonder
 Where I've been
 Who I am, do I fit in?
@@ -142,6 +146,3 @@ But I can't be thrown
 Out here on my own
 Out here
 On my own
-
-
-

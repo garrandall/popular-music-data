@@ -1,8 +1,11 @@
 ---
+album: Moods
 artists:
 - Barbara Mandrell
+external_ids:
+  spotify: spotify:track:4xjApOMDk6hy4iQph5q9vC
 features: []
-genres: []
+first_released_as_single: false
 key: -if-loving-you-is-wrong--i-don-t-want-to-be-right-barbara-mandrell
 lyrics_url: https://genius.com/Barbara-mandrell-if-loving-you-is-wrong-i-dont-want-to-be-right-lyrics
 name: (If Loving You Is Wrong) I Don't Want To Be Right
@@ -71,6 +74,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1979-06-30'
+release_year: 1978
+runtime: 185089
 ---
 If loving you is wrong
 I don't wanna be right

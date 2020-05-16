@@ -1,8 +1,11 @@
 ---
+album: Fly
 artists:
 - Dixie Chicks
+external_ids:
+  spotify: spotify:track:3dQVhh2jNpnLKqJyGiFPmP
 features: []
-genres: []
+first_released_as_single: false
 key: some-days-you-gotta-dance-dixie-chicks
 lyrics_url: https://www.azlyrics.com/lyrics/dixiechicks/somedaysyougottadance.html
 name: Some Days You Gotta Dance
@@ -83,8 +86,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2002-05-25'
+release_year: 1999
+runtime: 147933
 ---
-
 It was about five 'til five on Friday
 We were all getting ready to go
 And the boss man started screaming
@@ -124,6 +128,3 @@ Gotta loosen up those chains and dance
 
 You gotta loosen up those chains and dance
 Come on and loosen up those chains and dance
-
-
-

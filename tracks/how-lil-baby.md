@@ -1,8 +1,11 @@
 ---
+album: My Turn
 artists:
 - Lil Baby
+external_ids:
+  spotify: spotify:track:2b7rt5gCEy2p2zTp656s4U
 features: []
-genres: []
+first_released_as_single: false
 key: how-lil-baby
 lyrics_url: https://genius.com/Lil-baby-how-lyrics
 name: How
@@ -11,6 +14,8 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '2020-03-14'
+release_year: 2020
+runtime: 181999
 ---
 (M-M-M-Murda)
 

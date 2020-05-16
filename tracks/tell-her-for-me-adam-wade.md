@@ -1,8 +1,11 @@
 ---
+album: Collection 1959-62
 artists:
 - Adam Wade
+external_ids:
+  spotify: spotify:track:5kfKtvtG0EoT2GO755I8ll
 features: []
-genres: []
+first_released_as_single: false
 key: tell-her-for-me-adam-wade
 lyrics_url: https://www.musixmatch.com/lyrics/Adam-Wade/Tell-Her-for-Me
 name: Tell Her For Me
@@ -35,6 +38,8 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1960-02-22'
+release_year: 1960
+runtime: 157706
 ---
 Why be a big man
 You know that you're blue

@@ -1,8 +1,11 @@
 ---
+album: The Unavailable 16 & The Original Nitty Gritty
 artists:
 - Harold Dorman
+external_ids:
+  spotify: spotify:track:7sq3da2yf4tSAIMNpMbTdJ
 features: []
-genres: []
+first_released_as_single: false
 key: mountain-of-love-harold-dorman
 lyrics_url: https://www.musixmatch.com/lyrics/Harold-Dorman/Mountain-of-Love
 name: Mountain Of Love
@@ -83,6 +86,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1960-07-04'
+release_year: 1960
+runtime: 148118
 ---
 Mountain Of Love
 Johnny Rivers

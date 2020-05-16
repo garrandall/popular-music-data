@@ -1,8 +1,11 @@
 ---
+album: Will O' The Wisp
 artists:
 - Leon Russell
+external_ids:
+  spotify: spotify:track:5iqDl3manaRsASrEauSRPw
 features: []
-genres: []
+first_released_as_single: false
 key: lady-blue-leon-russell
 lyrics_url: https://www.azlyrics.com/lyrics/leonrussell/ladyblue.html
 name: Lady Blue
@@ -83,8 +86,9 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '1975-12-06'
+release_year: 1975
+runtime: 211600
 ---
-
 Well, you're showing me different sign,
 Even after the flame is dyin',
 You'll get used to me baby,
@@ -111,6 +115,3 @@ I've got a whole life to spend if you'll
 Just let me sing a sweet love song
 Lady Blue, oh sing a love song
 Lady Blue.
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Mel Carter Live! In Hollywood
 artists:
 - Mel Carter
+external_ids:
+  spotify: spotify:track:7GEL5dZbLQhJGrDtfPeHHz
 features: []
-genres: []
+first_released_as_single: false
 key: band-of-gold-mel-carter
 lyrics_url: https://genius.com/Mel-carter-band-of-gold-lyrics
 name: Band Of Gold
@@ -39,6 +42,8 @@ rankings:
   rank: 32
   ranking_list: Billboard Hot 100
   start_date: '1966-05-28'
+release_year: 1966
+runtime: 137693
 ---
 I've never wanted wealth untold
 My life has one design

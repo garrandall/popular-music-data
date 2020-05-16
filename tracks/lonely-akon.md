@@ -1,8 +1,11 @@
 ---
+album: Trouble
 artists:
 - Akon
+external_ids:
+  spotify: spotify:track:5QnM8r0kqFdM84k18aFE2V
 features: []
-genres: []
+first_released_as_single: false
 key: lonely-akon
 lyrics_url: https://genius.com/Akon-lonely-lyrics
 name: Lonely
@@ -87,6 +90,8 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '2005-07-09'
+release_year: 2004
+runtime: 235800
 ---
 Los Angeles, give it up one more time for Akon!
 

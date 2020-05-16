@@ -1,8 +1,11 @@
 ---
+album: It Feels So Good (Expanded Version)
 artists:
 - The Manhattans
+external_ids:
+  spotify: spotify:track:0K5VIH3MnXVhVg2BiVGG6Q
 features: []
-genres: []
+first_released_as_single: false
 key: i-kinda-miss-you-the-manhattans
 lyrics_url: https://www.azlyrics.com/lyrics/manhattans/ikindamissyou.html
 name: I Kinda Miss You
@@ -39,8 +42,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1976-12-18'
+release_year: 1973
+runtime: 315640
 ---
-
 Another sad day in my life
 Nothing is the same since you've been gone
 This old house is not the same anymore
@@ -89,6 +93,3 @@ Oh, I kinda miss you
 I kinda miss you, I kinda miss you
 I was wrong, people are talking
 Give me one more chance, got to want to
-
-
-

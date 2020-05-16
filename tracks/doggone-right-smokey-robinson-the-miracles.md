@@ -1,9 +1,12 @@
 ---
+album: Time Out For Smokey Robinson & The Miracles
 artists:
 - Smokey Robinson
 - The Miracles
+external_ids:
+  spotify: spotify:track:7tIMUigvYEkIkGPjQ2o5lg
 features: []
-genres: []
+first_released_as_single: false
 key: doggone-right-smokey-robinson-the-miracles
 lyrics_url: https://www.azlyrics.com/lyrics/smokeyrobinsonthemiracles/doggoneright.html
 name: Doggone Right
@@ -40,8 +43,9 @@ rankings:
   rank: 33
   ranking_list: Billboard Hot 100
   start_date: '1969-08-09'
+release_year: 1969
+runtime: 178200
 ---
-
 You make me feel just like I'm the luckiest man to ever live
 'Cause all the love one man could possibly get, honey you gave
 In your voice, soft and low there's a little something
@@ -86,6 +90,3 @@ Said you're doggone right, oh baby
 If you think I'm gonna stay
 Let nobody take my love away
 And your doggone right oh baby
-
-
-

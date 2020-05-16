@@ -1,8 +1,11 @@
 ---
+album: THE E.N.D. (THE ENERGY NEVER DIES)
 artists:
 - The Black Eyed Peas
+external_ids:
+  spotify: spotify:track:4vp2J1l5RD4gMZwGFLfRAu
 features: []
-genres: []
+first_released_as_single: false
 key: i-gotta-feeling-the-black-eyed-peas
 lyrics_url: https://genius.com/The-black-eyed-peas-i-gotta-feeling-lyrics
 name: I Gotta Feeling
@@ -231,6 +234,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2010-07-17'
+release_year: 2009
+runtime: 289133
 ---
 I got a feelin'
 That tonight's gonna be a good night

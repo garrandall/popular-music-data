@@ -1,9 +1,12 @@
 ---
+album: Deliver
 artists:
 - The Mamas
 - The Papas
+external_ids:
+  spotify: spotify:track:0mKthKFxmw22frB6DX7yVx
 features: []
-genres: []
+first_released_as_single: false
 key: look-through-my-window-the-mamas-the-papas
 lyrics_url: https://www.azlyrics.com/lyrics/mamasandthepapas/lookthroughmywindow.html
 name: Look Through My Window
@@ -36,8 +39,9 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1966-12-03'
+release_year: 1966
+runtime: 187480
 ---
-
 And the rain beats on my roof...
 And it does not ask for proof...
 
@@ -79,6 +83,3 @@ Well, the rain beats on my roof (She's gone)
 If I still require proof... (She's gone)
 Well, the rain beats on my roof (Look through my window)
 If I still require proof
-
-
-

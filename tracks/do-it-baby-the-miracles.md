@@ -1,8 +1,11 @@
 ---
+album: Do It Baby
 artists:
 - The Miracles
+external_ids:
+  spotify: spotify:track:6l5SjeMODgu1UCYlmvnh7d
 features: []
-genres: []
+first_released_as_single: false
 key: do-it-baby-the-miracles
 lyrics_url: https://genius.com/The-miracles-do-it-baby-lyrics
 name: Do It Baby
@@ -67,6 +70,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1974-11-30'
+release_year: 1974
+runtime: 184253
 ---
 Nice and easy
 Ooo how you please me

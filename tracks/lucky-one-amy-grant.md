@@ -1,8 +1,11 @@
 ---
+album: House Of Love
 artists:
 - Amy Grant
+external_ids:
+  spotify: spotify:track:7dcTSq2HC4kzvcWFcSfJy1
 features: []
-genres: []
+first_released_as_single: false
 key: lucky-one-amy-grant
 lyrics_url: https://www.azlyrics.com/lyrics/amygrant/luckyone.html
 name: Lucky One
@@ -87,8 +90,9 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '1994-12-24'
+release_year: 1994
+runtime: 249386
 ---
-
 You're the kind
 When you love you love with all your might and
 You're the kind
@@ -118,6 +122,3 @@ And I have never been the one to fall in love so soon
 But I could never face another night or day without you
 I'm the lucky one
 Baby I'm the lucky one..
-
-
-

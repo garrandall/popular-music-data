@@ -1,8 +1,11 @@
 ---
+album: Be Yourself Tonight
 artists:
 - Eurythmics
+external_ids:
+  spotify: spotify:track:1lJZSsMoWEbrgaY6CxPMf8
 features: []
-genres: []
+first_released_as_single: false
 key: would-i-lie-to-you--eurythmics
 lyrics_url: https://www.azlyrics.com/lyrics/eurythmics/wouldilietoyou.html
 name: Would I Lie To You?
@@ -83,8 +86,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1985-08-31'
+release_year: 1985
+runtime: 268240
 ---
-
 Would I lie to you?
 Would I lie to you honey?
 Now would I say something that wasn't true?
@@ -112,6 +116,3 @@ Now I'm leaving you
 
 
 (Watch me - watch me! Oh yea)
-
-
-

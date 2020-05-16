@@ -1,9 +1,12 @@
 ---
+album: Bobby Tarantino II
 artists:
 - Logic
 - Marshmello
+external_ids:
+  spotify: spotify:track:6zOhgKfbMiQWToE6K13s2s
 features: []
-genres: []
+first_released_as_single: true
 key: everyday-logic-marshmello
 lyrics_url: https://www.azlyrics.com/lyrics/logic/everyday.html
 name: Everyday
@@ -60,8 +63,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2018-06-09'
+release_year: 2018
+runtime: 204826
 ---
-
 Yeah, ayy
 
 I work hard every motherfuckin' day-ay-ay-ayy
@@ -114,6 +118,3 @@ I work hard, I work hard every day-ay-ay-ayy, yeah
 But today is my day, it's my day
 And no matter what they say, it's my day
 La-la-la-la-la-la, yeah, yeah
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: The Karaoke Channel - Classic Male Pop, Vol. 1
 artists:
 - Barry Manilow
+external_ids:
+  spotify: spotify:track:2dWjExw7oMb5bkwP6enKZO
 features: []
-genres: []
+first_released_as_single: false
 key: read--em-and-weep-barry-manilow
 lyrics_url: https://www.azlyrics.com/lyrics/barrymanilow/reademandweep.html
 name: Read 'Em And Weep
@@ -63,8 +66,9 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1984-02-18'
+release_year: 1973
+runtime: 327293
 ---
-
 I've been tryin for hour just to think of what exactly to say
 I thought I leave you with a letter or a firey speech
 like when an actor makes an exit at the end of a play
@@ -141,6 +145,3 @@ it's there in my eyes
 and it's all I can say
 come on and look at me
 and read 'em and weep
-
-
-

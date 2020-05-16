@@ -1,8 +1,11 @@
 ---
+album: Kiss
 artists:
 - KISS
+external_ids:
+  spotify: spotify:track:5JifVj0BnV1Uwk57mAqgq1
 features: []
-genres: []
+first_released_as_single: false
 key: kissin--time-kiss
 lyrics_url: https://genius.com/Kiss-kissin-time-lyrics
 name: Kissin' Time
@@ -27,6 +30,8 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1974-06-22'
+release_year: 1974
+runtime: 232573
 ---
 Come on Charlotte
 Wake up San Diego, Milwaukee, Miami

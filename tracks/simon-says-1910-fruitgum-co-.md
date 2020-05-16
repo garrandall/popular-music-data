@@ -1,8 +1,11 @@
 ---
+album: Simon Says
 artists:
 - 1910 Fruitgum Co.
+external_ids:
+  spotify: spotify:track:24jf8jCLHcr4xgjPCHhy5c
 features: []
-genres: []
+first_released_as_single: false
 key: simon-says-1910-fruitgum-co-
 lyrics_url: https://www.musixmatch.com/lyrics/1910-Fruitgum-Company/Simon-Says
 name: Simon Says
@@ -63,6 +66,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1968-04-27'
+release_year: 1962
+runtime: 134760
 ---
 I'd like to play a game
 That is so much fun

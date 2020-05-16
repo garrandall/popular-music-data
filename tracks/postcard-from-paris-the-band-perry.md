@@ -1,8 +1,11 @@
 ---
+album: The Band Perry
 artists:
 - The Band Perry
+external_ids:
+  spotify: spotify:track:3xltN99Cj2KF5AZFhjDibh
 features: []
-genres: []
+first_released_as_single: false
 key: postcard-from-paris-the-band-perry
 lyrics_url: https://www.azlyrics.com/lyrics/bandperry/postcardfromparis.html
 name: Postcard From Paris
@@ -75,8 +78,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '2012-09-15'
+release_year: 2010
+runtime: 215146
 ---
-
 I remember when my heart caught the fever.
 You were standing all alone in the summer heat.
 I was with my boyfriend, my new boyfriend;
@@ -113,6 +117,3 @@ The meanest thing you ever did is come around.
 
 I am ruined, yeah I'm ruined.
 Now I am ruined, yeah I'm ruined
-
-
-

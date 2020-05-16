@@ -1,8 +1,11 @@
 ---
+album: Lovesexy
 artists:
 - Prince
+external_ids:
+  spotify: spotify:track:22lmcBp9KjKcn4C3MAcxF6
 features: []
-genres: []
+first_released_as_single: false
 key: alphabet-st-prince
 lyrics_url: https://genius.com/Prince-alphabet-st-lyrics
 name: Alphabet St
@@ -59,6 +62,8 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '1988-07-23'
+release_year: 1988
+runtime: 2703226
 ---
 I'm going down to Alphabet Street
 I'm going to crown the first girl that I meet

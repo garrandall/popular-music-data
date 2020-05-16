@@ -1,8 +1,11 @@
 ---
+album: If You're Reading This It's Too Late
 artists:
 - Drake
+external_ids:
+  spotify: spotify:track:5InOp6q2vvx0fShv3bzFLZ
 features: []
-genres: []
+first_released_as_single: false
 key: know-yourself-drake
 lyrics_url: https://genius.com/Drake-know-yourself-lyrics
 name: Know Yourself
@@ -87,6 +90,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2015-07-18'
+release_year: 2015
+runtime: 275840
 ---
 Hol' it yute, hol' it, hol' it, hol' it, hol' it, hol' it
 No sleepin' in the streets!

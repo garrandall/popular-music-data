@@ -1,8 +1,11 @@
 ---
+album: Californication
 artists:
 - Red Hot Chili Peppers
+external_ids:
+  spotify: spotify:track:64BbK9SFKH2jk86U3dGj2P
 features: []
-genres: []
+first_released_as_single: false
 key: otherside-red-hot-chili-peppers
 lyrics_url: https://www.azlyrics.com/lyrics/redhotchilipeppers/otherside.html
 name: Otherside
@@ -95,9 +98,9 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '2000-07-08'
+release_year: 1999
+runtime: 255373
 ---
-
-
 How long how long will I slide
 Separate my side I don't
 I don't believe it's bad
@@ -161,6 +164,3 @@ It's all I ever
 How long I don't believe it's bad
 Slit my throat
 It's all I ever
-
-
-

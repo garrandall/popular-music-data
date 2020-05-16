@@ -1,8 +1,11 @@
 ---
+album: Rock'n Romance
 artists:
 - Faith Band
+external_ids:
+  spotify: spotify:track:4m6n7fgjS1mP5FjLGeGoF8
 features: []
-genres: []
+first_released_as_single: false
 key: dancin--shoes-faith-band
 name: Dancin' Shoes
 rankings:
@@ -42,5 +45,7 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1979-02-10'
+release_year: 1978
+runtime: 275539
 ---
 

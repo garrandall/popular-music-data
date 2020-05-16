@@ -1,8 +1,11 @@
 ---
+album: Anything Goes
 artists:
 - Harpers Bizarre
+external_ids:
+  spotify: spotify:track:7qYfPQpwTtvNEg8LVqGtFe
 features: []
-genres: []
+first_released_as_single: false
 key: anything-goes-harpers-bizarre
 lyrics_url: https://genius.com/Harpers-bizarre-anything-goes-lyrics
 name: Anything Goes
@@ -39,6 +42,8 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '1967-10-07'
+release_year: 1967
+runtime: 123066
 ---
 In olden days a glimpse of stocking
 Was looked on as something shocking

@@ -1,9 +1,12 @@
 ---
+album: Fast & Furious 6
 artists:
 - 2 Chainz
 - Wiz Khalifa
+external_ids:
+  spotify: spotify:track:00QyLmjxaSEE8qIZQjBXBj
 features: []
-genres: []
+first_released_as_single: false
 key: we-own-it--fast---furious--2-chainz-wiz-khalifa
 lyrics_url: https://genius.com/2-chainz-and-wiz-khalifa-we-own-it-fast-and-furious-lyrics
 name: We Own It (Fast & Furious)
@@ -36,6 +39,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2013-07-20'
+release_year: 2013
+runtime: 227893
 ---
 It's Young Khalifa, man
 2 Chainz!

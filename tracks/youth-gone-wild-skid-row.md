@@ -1,8 +1,11 @@
 ---
+album: Skid Row
 artists:
 - Skid Row
+external_ids:
+  spotify: spotify:track:1jF5Id0OPFU1Mae8BEUF5u
 features: []
-genres: []
+first_released_as_single: false
 key: youth-gone-wild-skid-row
 lyrics_url: https://genius.com/Skid-row-youth-gone-wild-lyrics
 name: Youth Gone Wild
@@ -15,6 +18,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1989-06-17'
+release_year: 1989
+runtime: 198906
 ---
 Whoa, yeah
 

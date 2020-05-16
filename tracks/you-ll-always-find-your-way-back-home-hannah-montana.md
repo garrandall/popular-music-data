@@ -1,8 +1,11 @@
 ---
+album: 'Disney Karaoke Series: Hannah Montana The Movie'
 artists:
 - Hannah Montana
+external_ids:
+  spotify: spotify:track:12wSL3tGk3MtbDEhfG7xy3
 features: []
-genres: []
+first_released_as_single: false
 key: you-ll-always-find-your-way-back-home-hannah-montana
 lyrics_url: https://www.musixmatch.com/lyrics/Hannah-Montana/You-ll-Always-Find-Your-Way-Back-Home
 name: You'll Always Find Your Way Back Home
@@ -23,6 +26,8 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '2009-05-02'
+release_year: 2009
+runtime: 224186
 ---
 You wake up, it's raining and it's Monday
 Looks like one of those rough days

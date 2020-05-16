@@ -1,8 +1,11 @@
 ---
+album: Pocketful Of Sunshine
 artists:
 - Natasha Bedingfield
+external_ids:
+  spotify: spotify:track:2YWZTNIWljFNsnZGSSQ3Im
 features: []
-genres: []
+first_released_as_single: true
 key: soulmate-natasha-bedingfield
 lyrics_url: https://www.azlyrics.com/lyrics/natashabedingfield/soulmate.html
 name: Soulmate
@@ -15,8 +18,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2009-05-16'
+release_year: 2007
+runtime: 212000
 ---
-
 Incompatible, it don't matter though
 'cos someone's bound to hear my cry
 Speak out if you do
@@ -57,6 +61,3 @@ Who knows how to love you without being told
 Somebody tell me why I'm on my own
 If there's a soulmate for everyone
 If there's a soulmate for everyone
-
-
-

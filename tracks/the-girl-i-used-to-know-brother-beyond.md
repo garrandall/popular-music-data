@@ -1,8 +1,11 @@
 ---
+album: The Very Best Of Brother Beyond
 artists:
 - Brother Beyond
+external_ids:
+  spotify: spotify:track:7wKqQRRKjhstqSLNjoi5Ik
 features: []
-genres: []
+first_released_as_single: false
 key: the-girl-i-used-to-know-brother-beyond
 lyrics_url: https://www.musixmatch.com/lyrics/Brother-Beyond/The-Girl-I-Used-To-Know
 name: The Girl I Used To Know
@@ -67,6 +70,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1990-09-29'
+release_year: 1990
+runtime: 254642
 ---
 Oh, oh, oh, oh
 Oh, oh, oh, oh

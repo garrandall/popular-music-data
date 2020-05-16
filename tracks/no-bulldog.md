@@ -1,8 +1,11 @@
 ---
+album: Street Bulldogs
 artists:
 - Bulldog
+external_ids:
+  spotify: spotify:track:4MtcHPDEtqoAOFAVyomFJT
 features: []
-genres: []
+first_released_as_single: false
 key: no-bulldog
 lyrics_url: https://www.musixmatch.com/lyrics/Bulldog-2/No-me-importa
 name: 'No'
@@ -67,6 +70,8 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '1973-01-20'
+release_year: 1972
+runtime: 162640
 ---
 Estoy bien,
 Estoy mal,

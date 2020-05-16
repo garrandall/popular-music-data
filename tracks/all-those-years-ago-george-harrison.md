@@ -1,8 +1,11 @@
 ---
+album: Somewhere In England
 artists:
 - George Harrison
+external_ids:
+  spotify: spotify:track:32fKHW6Eac4yBXn9WY7Aic
 features: []
-genres: []
+first_released_as_single: false
 key: all-those-years-ago-george-harrison
 lyrics_url: https://www.azlyrics.com/lyrics/georgeharrison/allthoseyearsago.html
 name: All Those Years Ago
@@ -71,8 +74,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1981-09-05'
+release_year: 1981
+runtime: 227320
 ---
-
 I'm shouting all about love
 While they treated you like a dog
 When you were the one who had made it
@@ -113,6 +117,3 @@ You said it all though not many had ears
 All those years ago
 You had control of our smiles and our tears
 All those years ago
-
-
-

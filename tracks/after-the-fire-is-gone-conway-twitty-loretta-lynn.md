@@ -1,9 +1,12 @@
 ---
+album: 'Honky Tonk Girl: The Loretta Lynn Collection'
 artists:
 - Conway Twitty
 - Loretta Lynn
+external_ids:
+  spotify: spotify:track:20DVVHFczaYBWhJ8utqmHb
 features: []
-genres: []
+first_released_as_single: false
 key: after-the-fire-is-gone-conway-twitty-loretta-lynn
 lyrics_url: https://genius.com/Conway-twitty-and-loretta-lynn-after-the-fire-is-gone-lyrics
 name: After The Fire Is Gone
@@ -32,6 +35,8 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '1971-04-03'
+release_year: 1971
+runtime: 157293
 ---
 Love is where you find it
 

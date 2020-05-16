@@ -1,8 +1,13 @@
 ---
+album: Organ Grinder Swing
 artists:
-- Jimmy Smith With Kenny Burrell And Grady Tate
-features: []
-genres: []
+- Jimmy Smith
+external_ids:
+  spotify: spotify:track:21wH8Pxh2KQkUEeJZcpyEX
+features:
+- Kenny Burrell
+- Grady Tate
+first_released_as_single: false
 key: the-organ-grinder-s-swing-jimmy-smith-with-kenny-burrell-and-grady-tate
 name: The Organ Grinder's Swing
 rankings:
@@ -18,5 +23,7 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1965-10-30'
+release_year: 1965
+runtime: 136933
 ---
 

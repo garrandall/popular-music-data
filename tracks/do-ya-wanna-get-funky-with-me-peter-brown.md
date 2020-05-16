@@ -1,8 +1,11 @@
 ---
+album: Boogie Down Disco Funk
 artists:
 - Peter Brown
+external_ids:
+  spotify: spotify:track:1nQXBv7sxWQLUeLTqQUNB8
 features: []
-genres: []
+first_released_as_single: false
 key: do-ya-wanna-get-funky-with-me-peter-brown
 lyrics_url: https://www.musixmatch.com/lyrics/Peter-Brown/Do-Ya-Wanna-Get-Funky-With-Me
 name: Do Ya Wanna Get Funky With Me
@@ -63,6 +66,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1977-12-17'
+release_year: 1977
+runtime: 280400
 ---
 DO YA WANNA GET FUNKY WITH ME
 PETER BROWN

@@ -1,8 +1,11 @@
 ---
+album: Happiness Is Dean Martin
 artists:
 - Dean Martin
+external_ids:
+  spotify: spotify:track:2inKqHAEVAmqPC6uao31X0
 features: []
-genres: []
+first_released_as_single: false
 key: -open-up-the-door--let-the-good-times-in-dean-martin
 lyrics_url: https://www.azlyrics.com/lyrics/deanmartin/openupthedoorletthegoodtimesin.html
 name: (Open Up The Door) Let The Good Times In
@@ -31,8 +34,9 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '1967-01-21'
+release_year: 1966
+runtime: 199720
 ---
-
 I woke up this morning
 Toes out of my shoes
 Bringing me the blues
@@ -70,6 +74,3 @@ Open up the door and let the good times in
 Tomorrow's gonna be a better day
 Tomorrow's gonna be a better day
 Tomorrow's gonna be a better day
-
-
-

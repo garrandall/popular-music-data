@@ -1,8 +1,11 @@
 ---
+album: Conspiracy Of One
 artists:
 - The Offspring
+external_ids:
+  spotify: spotify:track:6gfDXAX85YWdVwxpbz0npv
 features: []
-genres: []
+first_released_as_single: false
 key: original-prankster-the-offspring
 lyrics_url: https://www.azlyrics.com/lyrics/offspring/originalprankster.html
 name: Original Prankster
@@ -43,8 +46,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2001-01-20'
+release_year: 2000
+runtime: 220946
 ---
-
 Until the break of dawn
 Life life
 Cannot go by the letter
@@ -100,6 +104,3 @@ Nine nine
 Don't want to be ya
 Crime crime
 Fine sensimilla
-
-
-

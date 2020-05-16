@@ -1,8 +1,11 @@
 ---
+album: Rock Electronica
 artists:
 - Big Pig
+external_ids:
+  spotify: spotify:track:6KwrplHGBQWMSi3Gg0PWM7
 features: []
-genres: []
+first_released_as_single: false
 key: breakaway-big-pig
 lyrics_url: https://genius.com/Big-pig-breakaway-lyrics
 name: Breakaway
@@ -47,6 +50,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1988-05-21'
+release_year: 1988
+runtime: 218333
 ---
 All my life I wanted to fly
 Like the birds that you see way up in the sky

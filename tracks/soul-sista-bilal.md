@@ -1,8 +1,11 @@
 ---
+album: 1st Born Second
 artists:
 - Bilal
+external_ids:
+  spotify: spotify:track:1eetzMDPNpYSZOreBw7SSk
 features: []
-genres: []
+first_released_as_single: false
 key: soul-sista-bilal
 lyrics_url: https://www.azlyrics.com/lyrics/bilal/soulsista.html
 name: Soul Sista
@@ -63,8 +66,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2001-04-28'
+release_year: 2001
+runtime: 318666
 ---
-
 It's all in her eyes, you and me, words just disguise
 All the things that you be
 What is deep, it's deeper than sea
@@ -117,6 +121,3 @@ You're my soul sista, soul, you're my soul sista, hey, yeah, yeah
 I want to love you in the right way
 Hold, don't you know what I say
 Hold, baby don't you know, you're my soul sista, hey
-
-
-

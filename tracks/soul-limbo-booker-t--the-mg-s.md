@@ -1,9 +1,12 @@
 ---
+album: Soul Limbo
 artists:
 - Booker T.
 - The MG's
+external_ids:
+  spotify: spotify:track:06yzME6dtXmBFO4DB5rVaT
 features: []
-genres: []
+first_released_as_single: false
 key: soul-limbo-booker-t--the-mg-s
 name: Soul-Limbo
 rankings:
@@ -47,5 +50,7 @@ rankings:
   rank: 30
   ranking_list: Billboard Hot 100
   start_date: '1968-09-14'
+release_year: 1968
+runtime: 142106
 ---
 

@@ -1,8 +1,11 @@
 ---
+album: Mud On The Tires
 artists:
 - Brad Paisley
+external_ids:
+  spotify: spotify:track:1hrCqasBFvB9IyLhrABVhc
 features: []
-genres: []
+first_released_as_single: false
 key: little-moments-brad-paisley
 lyrics_url: https://www.azlyrics.com/lyrics/bradpaisley/littlemoments.html
 name: Little Moments
@@ -87,8 +90,9 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '2004-05-01'
+release_year: 2003
+runtime: 219266
 ---
-
 Well I'll never forget the first time that I heard
 That pretty mouth say that dirty word
 And I can't even remember now what she backed my truck into
@@ -117,6 +121,3 @@ But she looks so much like an angel that I don't wanna wake her up
 Yeah I live for little moments 
 When she steals my heart again and doesn't even know it
 Yeah I live for little moments like that
-
-
-

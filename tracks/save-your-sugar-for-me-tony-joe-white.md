@@ -1,8 +1,11 @@
 ---
+album: Tony Joe
 artists:
 - Tony Joe White
+external_ids:
+  spotify: spotify:track:77WOfgLBY7ClTfjWsfwiOM
 features: []
-genres: []
+first_released_as_single: false
 key: save-your-sugar-for-me-tony-joe-white
 lyrics_url: https://genius.com/Tony-joe-white-save-your-sugar-for-me-lyrics
 name: Save Your Sugar For Me
@@ -15,6 +18,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1970-08-15'
+release_year: 1970
+runtime: 138933
 ---
 See you in the hall room
 Meet you after school

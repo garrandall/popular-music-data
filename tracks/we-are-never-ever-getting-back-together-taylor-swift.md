@@ -1,8 +1,11 @@
 ---
+album: Red
 artists:
 - Taylor Swift
+external_ids:
+  spotify: spotify:track:7AEAGTc8cReDqcbPoY9gwo
 features: []
-genres: []
+first_released_as_single: false
 key: we-are-never-ever-getting-back-together-taylor-swift
 lyrics_url: https://genius.com/Taylor-swift-we-are-never-ever-getting-back-together-lyrics
 name: We Are Never Ever Getting Back Together
@@ -103,6 +106,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '2013-02-02'
+release_year: 2012
+runtime: 191880
 ---
 I remember when we broke up the first time
 Saying, "This is it, I've had enough," 'cause like

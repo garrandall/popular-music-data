@@ -1,9 +1,12 @@
 ---
+album: Dancehall Queen
 artists:
 - Beenie Man
+external_ids:
+  spotify: spotify:track:3GDVXlMg6ZrYdIGdCoT9iL
 features:
 - Chevelle Franklyn
-genres: []
+first_released_as_single: false
 key: dancehall-queen-beenie-man-chevelle-franklyn
 lyrics_url: https://www.azlyrics.com/lyrics/beenieman/dancehallqueen.html
 name: Dancehall Queen
@@ -20,9 +23,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1997-08-30'
+release_year: 1997
+runtime: 230000
 ---
-
-
 It's a dancehall thing!
 
 
@@ -129,6 +132,3 @@ An' me say go girl, faah mi naah stop say so,
 Go girl, to the rhythm whey a throw,
 Go girl, to the bass whey a blow.
 Go girl...
-
-
-

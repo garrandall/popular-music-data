@@ -1,9 +1,12 @@
 ---
+album: Karaoke Party
 artists:
 - Birdman
+external_ids:
+  spotify: spotify:track:2U0tVw78WKa3Xd9NhBEwMF
 features:
 - Lil Wayne
-genres: []
+first_released_as_single: true
 key: fire-flame-birdman-lil-wayne
 lyrics_url: https://genius.com/Birdman-fire-flame-lyrics
 name: Fire Flame
@@ -48,6 +51,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2011-02-19'
+release_year: 2010
+runtime: 260413
 ---
 Fire Flame, Flame, Fire Flame Spitters
 Fire Flame, Flame, Fire Flame Spitters

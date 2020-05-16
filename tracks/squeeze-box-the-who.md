@@ -1,8 +1,11 @@
 ---
+album: The Who By Numbers
 artists:
 - The Who
+external_ids:
+  spotify: spotify:track:4lzNP52B3CfeVr2drfPh6X
 features: []
-genres: []
+first_released_as_single: false
 key: squeeze-box-the-who
 lyrics_url: https://genius.com/The-who-squeeze-box-lyrics
 name: Squeeze Box
@@ -71,6 +74,8 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '1976-03-13'
+release_year: 1975
+runtime: 161440
 ---
 Mama's got a squeeze box
 She wears on her chest

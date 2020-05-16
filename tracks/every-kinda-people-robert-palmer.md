@@ -1,8 +1,11 @@
 ---
+album: Double Fun
 artists:
 - Robert Palmer
+external_ids:
+  spotify: spotify:track:38E7U60ipLSTVDcPIuVzZw
 features: []
-genres: []
+first_released_as_single: false
 key: every-kinda-people-robert-palmer
 lyrics_url: https://www.azlyrics.com/lyrics/robertpalmer/everykindapeople.html
 name: Every Kinda People
@@ -79,8 +82,9 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1978-07-22'
+release_year: 1978
+runtime: 198146
 ---
-
 Said the fight to make ends meet
 Keeps a man upon his feet
 Holding down his job
@@ -123,6 +127,3 @@ Every kinda people
 To make what life's about
 It takes every kinda people
 To make the world go 'round
-
-
-

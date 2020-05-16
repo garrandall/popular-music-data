@@ -1,8 +1,11 @@
 ---
+album: The Very Best of, Volume 1
 artists:
 - Joe Tex
+external_ids:
+  spotify: spotify:track:6619tVEJ7yLylXoNkogMRL
 features: []
-genres: []
+first_released_as_single: false
 key: i-want-to--do-everything-for-you--joe-tex
 lyrics_url: https://genius.com/Joe-tex-i-want-to-do-everything-for-you-lyrics
 name: I Want To (Do Everything For You)
@@ -59,6 +62,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1965-11-20'
+release_year: 1965
+runtime: 133786
 ---
 I want to hold you in my arms
 Till you say turn you lose

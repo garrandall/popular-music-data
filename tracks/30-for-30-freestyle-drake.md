@@ -1,8 +1,11 @@
 ---
+album: What A Time To Be Alive
 artists:
 - Drake
+external_ids:
+  spotify: spotify:track:1DmnEYXa4WfbdhAPwNzgD8
 features: []
-genres: []
+first_released_as_single: false
 key: 30-for-30-freestyle-drake
 lyrics_url: https://genius.com/Drake-30-for-30-freestyle-lyrics
 name: 30 For 30 Freestyle
@@ -15,6 +18,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2015-10-17'
+release_year: 2015
+runtime: 253934
 ---
 Never thought I'd be talkin' from this perspective
 But, I'm not really sure what else you expected

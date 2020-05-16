@@ -1,8 +1,12 @@
 ---
+album: Live On Studio Jam - WSAI FM Chicago 1 Jan 1978 (Live FM Radio Concert Remastered
+  In Superb Fidelity)
 artists:
 - The B-52s
+external_ids:
+  spotify: spotify:track:2R23nwWuw7eZuqjqDxA2g2
 features: []
-genres: []
+first_released_as_single: false
 key: private-idaho-the-b-52s
 lyrics_url: https://www.azlyrics.com/lyrics/b52s/privateidaho.html
 name: Private Idaho
@@ -27,8 +31,9 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1980-11-15'
+release_year: 1978
+runtime: 226638
 ---
-
 Hoo Hoo Hoo Hoo Hoo Hoo Hoo Hoo Hoo
 You're living in your own Private Idaho
 Living in your own Private Idaho
@@ -82,6 +87,3 @@ Get out of that state
 Get out of that state
 You're living in your own Private Idaho,
 livin in your own Private... Idaho
-
-
-

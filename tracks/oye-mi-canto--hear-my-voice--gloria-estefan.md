@@ -1,8 +1,11 @@
 ---
+album: Cuts Both Ways
 artists:
 - Gloria Estefan
+external_ids:
+  spotify: spotify:track:49sdgpxgQWjtVkFnC8bJ27
 features: []
-genres: []
+first_released_as_single: false
 key: oye-mi-canto--hear-my-voice--gloria-estefan
 lyrics_url: https://www.azlyrics.com/lyrics/gloriaestefan/oyemicantohearmyvoiceenglish.html
 name: Oye Mi Canto (Hear My Voice)
@@ -35,8 +38,9 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1990-05-19'
+release_year: 1984
+runtime: 247760
 ---
-
 Take me... only for what I am
 You've got a right to speak your mind
 You've gotta take a stand
@@ -76,6 +80,3 @@ Hate is so common It's almost tradition
 Oye mi canto
 Come on let's leave it behind
 And make that transition
-
-
-

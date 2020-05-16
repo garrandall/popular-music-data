@@ -1,8 +1,11 @@
 ---
+album: Sophisticated Soul
 artists:
 - The Marvelettes
+external_ids:
+  spotify: spotify:track:32hVsa6zdjLgMquTE6My31
 features: []
-genres: []
+first_released_as_single: false
 key: here-i-am-baby-the-marvelettes
 lyrics_url: https://www.azlyrics.com/lyrics/marvelettes/hereiambaby.html
 name: Here I Am Baby
@@ -43,8 +46,9 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '1968-08-03'
+release_year: 1968
+runtime: 169133
 ---
-
 Here I am, baby
 The one who swore to never yield
 Here I am, baby
@@ -78,6 +82,3 @@ Take me 'cause I'm yours alone
 Here I am baby, baby, baby
 Yours to call your very own
 Take me 'cause I'm yours alone
-
-
-

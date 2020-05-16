@@ -1,9 +1,12 @@
 ---
+album: Scent Of Attraction
 artists:
 - Patra
 - Aaron Hall
+external_ids:
+  spotify: spotify:track:6h5CkfyFR5bLcxK6eWIQkl
 features: []
-genres: []
+first_released_as_single: false
 key: scent-of-attraction-patra-aaron-hall
 lyrics_url: https://genius.com/Patra-scent-of-attraction-lyrics
 name: Scent Of Attraction
@@ -36,6 +39,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1996-04-27'
+release_year: 1995
+runtime: 286933
 ---
 (Tell me that you want me)
 Don't ask me

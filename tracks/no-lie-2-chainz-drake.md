@@ -1,9 +1,12 @@
 ---
+album: Based On A T.R.U. Story
 artists:
 - 2 Chainz
+external_ids:
+  spotify: spotify:track:6j9iyrrmqWlQZ5SD1hSTaq
 features:
 - Drake
-genres: []
+first_released_as_single: false
 key: no-lie-2-chainz-drake
 lyrics_url: https://www.azlyrics.com/lyrics/2chainz/nolie.html
 name: No Lie
@@ -112,9 +115,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2012-11-17'
+release_year: 2012
+runtime: 237826
 ---
-
-
 I am smoking on that gas, life should be on Cinemax
 Movie, Bought my boo bigger tits and a bigger ass
 Who he's, not I, I smoke strong, that Popeye
@@ -234,6 +237,3 @@ That's a thing I don't do
 Nah I just do it for the niggas
 That are trying to see a million 'fore they die
 Wattup
-
-
-

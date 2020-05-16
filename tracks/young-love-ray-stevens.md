@@ -1,8 +1,11 @@
 ---
+album: Misty
 artists:
 - Ray Stevens
+external_ids:
+  spotify: spotify:track:1fHoxJuvKKmip0ZJhj1s2i
 features: []
-genres: []
+first_released_as_single: false
 key: young-love-ray-stevens
 lyrics_url: https://genius.com/Ray-stevens-young-love-lyrics
 name: Young Love
@@ -15,6 +18,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1976-01-31'
+release_year: 1975
+runtime: 227520
 ---
 They say for every boy and girl
 There's just one love in this whole world

@@ -1,8 +1,11 @@
 ---
+album: E.S.P.
 artists:
 - Bee Gees
+external_ids:
+  spotify: spotify:track:5mwzpzRue1SBWwrbbhXfbf
 features: []
-genres: []
+first_released_as_single: false
 key: you-win-again-bee-gees
 lyrics_url: https://genius.com/Bee-gees-you-win-again-lyrics
 name: You Win Again
@@ -31,6 +34,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1987-10-24'
+release_year: 1987
+runtime: 241400
 ---
 I couldn't figure why
 You couldn't give me what everybody needs

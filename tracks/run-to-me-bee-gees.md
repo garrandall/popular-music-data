@@ -1,8 +1,11 @@
 ---
+album: To Whom It May Concern
 artists:
 - Bee Gees
+external_ids:
+  spotify: spotify:track:4zK1pYVKMB13es6Bim0muF
 features: []
-genres: []
+first_released_as_single: false
 key: run-to-me-bee-gees
 lyrics_url: https://genius.com/Bee-gees-run-to-me-lyrics
 name: Run To Me
@@ -55,6 +58,8 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '1972-10-14'
+release_year: 1972
+runtime: 191600
 ---
 If ever you got rain in your heart
 Someone has hurt you, and torn you apart

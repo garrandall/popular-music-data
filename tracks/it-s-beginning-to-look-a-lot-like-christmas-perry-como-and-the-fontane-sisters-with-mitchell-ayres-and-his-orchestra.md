@@ -1,8 +1,13 @@
 ---
+album: Greatest Christmas Songs
 artists:
-- Perry Como And The Fontane Sisters With Mitchell Ayres
-features: []
-genres: []
+- Perry Como
+external_ids:
+  spotify: spotify:track:2pXpURmn6zC5ZYDMms6fwa
+features:
+- The Fontane Sisters
+- Mitchell Ayres
+first_released_as_single: false
 key: it-s-beginning-to-look-a-lot-like-christmas-perry-como-and-the-fontane-sisters-with-mitchell-ayres-and-his-orchestra
 name: It's Beginning To Look A Lot Like Christmas
 rankings:
@@ -22,5 +27,7 @@ rankings:
   rank: 28
   ranking_list: Billboard Hot 100
   start_date: '2020-01-04'
+release_year: 1999
+runtime: 155933
 ---
 

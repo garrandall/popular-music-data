@@ -1,9 +1,12 @@
 ---
+album: Without Warning
 artists:
 - Offset
 - Metro Boomin
+external_ids:
+  spotify: spotify:track:7sO5G9EABYOXQKNPNiE9NR
 features: []
-genres: []
+first_released_as_single: false
 key: ric-flair-drip-offset-metro-boomin
 lyrics_url: https://genius.com/Offset-and-metro-boomin-ric-flair-drip-lyrics
 name: Ric Flair Drip
@@ -132,6 +135,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '2018-06-09'
+release_year: 2017
+runtime: 172800
 ---
 (Bijan 4 The 1 Time)
 Metro Boomin want some more, nigga! (Hey)

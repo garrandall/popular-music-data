@@ -1,8 +1,11 @@
 ---
+album: 'On The Air: Her Best TV Performances'
 artists:
 - Patsy Cline
+external_ids:
+  spotify: spotify:track:5vecMc46YV7Yv9EH81bgvH
 features: []
-genres: []
+first_released_as_single: false
 key: when-i-get-thru-with-you--you-ll-love-me-too--patsy-cline
 lyrics_url: https://www.musixmatch.com/lyrics/Patsy-Cline/When-I-Get-Thru-With-You-You-ll-Love-Me-Too
 name: When I Get Thru With You (You'll Love Me Too)
@@ -31,6 +34,8 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '1962-06-23'
+release_year: 1962
+runtime: 155960
 ---
 You think you love Sue but when I get thru with you
 You won't ever look at Sue again

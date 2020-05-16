@@ -1,8 +1,11 @@
 ---
+album: Disobey
 artists:
 - Bad Wolves
+external_ids:
+  spotify: spotify:track:1vNoA9F5ASnlBISFekDmg3
 features: []
-genres: []
+first_released_as_single: true
 key: zombie-bad-wolves
 lyrics_url: https://www.azlyrics.com/lyrics/badwolves/zombie.html
 name: Zombie
@@ -79,8 +82,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2018-07-28'
+release_year: 2018
+runtime: 254805
 ---
-
 Another head hangs lowly
 Child is slowly taken
 And the violence causes silence
@@ -124,6 +128,3 @@ Zombie, zombie, zombie-ie-ie
 What's in your head, in your head?
 Zombie, zombie, zombie-ie-ie-ie, oh
 Oh oh oh oh oh oh oh yeah
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Lollipop
 artists:
 - The Chordettes
+external_ids:
+  spotify: spotify:track:1p2QCCf8lF301SKk6CK4ES
 features: []
-genres: []
+first_released_as_single: false
 key: a-girl-s-work-is-never-done-the-chordettes
 lyrics_url: https://genius.com/The-chordettes-a-girls-work-is-never-done-lyrics
 name: A Girl's Work Is Never Done
@@ -19,6 +22,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1959-08-31'
+release_year: 1959
+runtime: 138518
 ---
 A girl's work is never done
 You boys think we are having fun

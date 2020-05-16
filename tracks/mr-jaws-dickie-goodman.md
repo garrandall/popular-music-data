@@ -1,8 +1,11 @@
 ---
+album: Dickie Goodman All Time Novelty Hits
 artists:
 - Dickie Goodman
+external_ids:
+  spotify: spotify:track:2iuLtqeg5NN6MyYB6pRqlk
 features: []
-genres: []
+first_released_as_single: false
 key: mr-jaws-dickie-goodman
 lyrics_url: https://genius.com/Dickie-goodman-mr-jaws-lyrics
 name: Mr Jaws
@@ -47,6 +50,8 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '1975-11-08'
+release_year: 1975
+runtime: 125693
 ---
 We are here on the beach
 Where a giant shark has just eaten a girl swimmer

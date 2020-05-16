@@ -1,8 +1,11 @@
 ---
+album: Aerial Ballet
 artists:
 - Nilsson
+external_ids:
+  spotify: spotify:track:1MKGOyvIiyDKhZBmcBTsbj
 features: []
-genres: []
+first_released_as_single: false
 key: everybody-s-talkin--nilsson
 lyrics_url: https://genius.com/Nilsson-everybodys-talkin-lyrics
 name: Everybody's Talkin'
@@ -55,6 +58,8 @@ rankings:
   rank: 25
   ranking_list: Billboard Hot 100
   start_date: '1969-11-01'
+release_year: 1959
+runtime: 169440
 ---
 Everybody's talking at me
 I don't hear a word they're saying

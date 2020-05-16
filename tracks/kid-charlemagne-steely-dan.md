@@ -1,8 +1,11 @@
 ---
+album: The Royal Scam
 artists:
 - Steely Dan
+external_ids:
+  spotify: spotify:track:3sqNXrDvCy4nid6XbaA2Cg
 features: []
-genres: []
+first_released_as_single: false
 key: kid-charlemagne-steely-dan
 lyrics_url: https://www.azlyrics.com/lyrics/steelydan/kidcharlemagne.html
 name: Kid Charlemagne
@@ -19,8 +22,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1976-07-24'
+release_year: 1976
+runtime: 278800
 ---
-
 While the music played you worked by candlelight
 Those San Francisco nights
 You were the best in town
@@ -68,4 +72,3 @@ Know who you are
 Careful what you carry
 'Cause the man is wise
 You are still an outlaw in their eyes
-

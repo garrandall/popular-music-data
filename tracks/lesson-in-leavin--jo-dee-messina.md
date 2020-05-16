@@ -1,8 +1,11 @@
 ---
+album: I'm Alright
 artists:
 - Jo Dee Messina
+external_ids:
+  spotify: spotify:track:2g0BAZVaLlK8GeTVzF6hQ6
 features: []
-genres: []
+first_released_as_single: false
 key: lesson-in-leavin--jo-dee-messina
 lyrics_url: https://www.azlyrics.com/lyrics/jodeemessina/lessoninleavin.html
 name: Lesson In Leavin'
@@ -87,8 +90,9 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '1999-10-16'
+release_year: 1998
+runtime: 220200
 ---
-
 Somebody's gonna give you a lesson in leavin'
 Somebody's gonna give you back what you've been givin'
 And I hope that I'm around
@@ -146,6 +150,3 @@ You're a fool-hearted man
 Oh, a fool-hearted man
 Oh, whoa
 Oh, a fool-hearted man
-
-
-

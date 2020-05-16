@@ -1,8 +1,11 @@
 ---
+album: The Duke Of Earl
 artists:
 - Gene Chandler
+external_ids:
+  spotify: spotify:track:2HGFxm2oUz5HW9w8xOiQqT
 features: []
-genres: []
+first_released_as_single: false
 key: man-s-temptation-gene-chandler
 lyrics_url: https://genius.com/Gene-chandler-mans-temptation-lyrics
 name: Man's Temptation
@@ -35,6 +38,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1963-09-21'
+release_year: 1962
+runtime: 163520
 ---
 One more time to test
 The willpower of me

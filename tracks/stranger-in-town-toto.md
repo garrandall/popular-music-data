@@ -1,8 +1,11 @@
 ---
+album: Isolation
 artists:
 - Toto
+external_ids:
+  spotify: spotify:track:4wcrWfOjVNYoznqCKfu9d1
 features: []
-genres: []
+first_released_as_single: false
 key: stranger-in-town-toto
 lyrics_url: https://www.azlyrics.com/lyrics/toto/strangerintown.html
 name: Stranger In Town
@@ -67,8 +70,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1985-02-02'
+release_year: 1984
+runtime: 287066
 ---
-
 I remember it was late one night
 in the middle of a dream
 woke up in a pool of sweat
@@ -107,6 +111,3 @@ I wonder who's right ?
 
 
 You better watch out...
-
-
-

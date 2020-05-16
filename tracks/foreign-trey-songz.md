@@ -1,8 +1,11 @@
 ---
+album: Trigga
 artists:
 - Trey Songz
+external_ids:
+  spotify: spotify:track:7EEugoVwAJWMTq7a4P9EfC
 features: []
-genres: []
+first_released_as_single: true
 key: foreign-trey-songz
 lyrics_url: https://www.musixmatch.com/lyrics/Trey-Songz/Foreign
 name: Foreign
@@ -47,6 +50,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2014-10-04'
+release_year: 2014
+runtime: 248369
 ---
 That foreign
 That foreign

@@ -1,10 +1,13 @@
 ---
+album: TY.O (International Version)
 artists:
 - David Guetta
+external_ids:
+  spotify: spotify:track:3BeosY2EiiqQP0vvMmxkpJ
 features:
 - Taio Cruz
 - Ludacris
-genres: []
+first_released_as_single: false
 key: little-bad-girl-david-guetta-taio-cruz-ludacris
 lyrics_url: https://www.azlyrics.com/lyrics/davidguetta/littlebadgirl.html
 name: Little Bad Girl
@@ -13,8 +16,9 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '2011-07-16'
+release_year: 2011
+runtime: 193146
 ---
-
 Oh yeah they tell me I'm a bad boy
 All the ladies look at me and act coy
 I just like to put my hands up in the air
@@ -71,6 +75,3 @@ Go little bad girl
 Go little bad girl, little bad girl 
 Go little bad girl
 Go little bad girl
-
-
-

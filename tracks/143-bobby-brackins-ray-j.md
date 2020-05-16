@@ -1,9 +1,12 @@
 ---
+album: '143'
 artists:
 - Bobby Brackins
+external_ids:
+  spotify: spotify:track:4DdaOUTsCqz4cLK3z92oso
 features:
 - Ray J
-genres: []
+first_released_as_single: true
 key: 143-bobby-brackins-ray-j
 lyrics_url: https://www.musixmatch.com/lyrics/Bobby-Brackins-feat-Ray-J/143
 name: '143'
@@ -52,6 +55,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2010-09-11'
+release_year: 2010
+runtime: 206813
 ---
 Knockout, yeah
 Ray J

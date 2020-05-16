@@ -1,8 +1,12 @@
 ---
+album: Papa's Got A Brand New Bag
 artists:
-- James Brown And The Famous Flames
-features: []
-genres: []
+- James Brown
+external_ids:
+  spotify: spotify:track:6qsaEadyD2FpKnT1cGT5ei
+features:
+- The Famous Flames
+first_released_as_single: false
 key: papa-s-got-a-brand-new-bag--part-i--james-brown-and-the-famous-flames
 name: Papa's Got A Brand New Bag (Part I)
 rankings:
@@ -58,5 +62,7 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1965-10-09'
+release_year: 1965
+runtime: 125933
 ---
 

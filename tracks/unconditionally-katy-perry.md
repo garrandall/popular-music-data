@@ -1,8 +1,11 @@
 ---
+album: PRISM
 artists:
 - Katy Perry
+external_ids:
+  spotify: spotify:track:009ImBOrIUlWgla8U05RAC
 features: []
-genres: []
+first_released_as_single: false
 key: unconditionally-katy-perry
 lyrics_url: https://www.azlyrics.com/lyrics/katyperry/unconditionally.html
 name: Unconditionally
@@ -87,8 +90,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2014-03-22'
+release_year: 2013
+runtime: 228878
 ---
-
 Oh no, did I get too close?
 Oh, did I almost see what's really on the inside?
 All your insecurities
@@ -131,6 +135,3 @@ Let go and just be free
 I will love you (unconditionally)
 I will love you
 I will love you unconditionally
-
-
-

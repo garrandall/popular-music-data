@@ -1,8 +1,11 @@
 ---
+album: Desert Moon
 artists:
 - Dennis DeYoung
+external_ids:
+  spotify: spotify:track:4qkTU6aGlLm1ZB2fHmBE8Z
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-wait-for-heroes-dennis-deyoung
 lyrics_url: https://genius.com/Dennis-deyoung-dont-wait-for-heroes-lyrics
 name: Don't Wait For Heroes
@@ -23,6 +26,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1984-12-29'
+release_year: 1984
+runtime: 286000
 ---
 I've got my dreams
 I know you think that's crazy

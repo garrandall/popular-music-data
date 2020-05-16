@@ -1,8 +1,11 @@
 ---
+album: Summer of 69
 artists:
 - The Dynamics
+external_ids:
+  spotify: spotify:track:0OxHWA10FOs5fD5M7bQ9qk
 features: []
-genres: []
+first_released_as_single: false
 key: ice-cream-song-the-dynamics
 lyrics_url: https://www.musixmatch.com/lyrics/The-Dynamics/Ice-Cream-Song
 name: Ice Cream Song
@@ -35,6 +38,8 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '1969-05-03'
+release_year: 1969
+runtime: 198333
 ---
 If loving you was ice cream
 Oh, I could be the ice cream man

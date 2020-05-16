@@ -1,8 +1,11 @@
 ---
+album: Cookin' On The Roof
 artists:
 - Roman Holliday
+external_ids:
+  spotify: spotify:track:63JdgRklR9MJyZiEQKXkRd
 features: []
-genres: []
+first_released_as_single: false
 key: stand-by-roman-holliday
 lyrics_url: https://genius.com/Roman-holliday-stand-by-lyrics
 name: Stand By
@@ -43,6 +46,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1983-08-13'
+release_year: 1983
+runtime: 166733
 ---
 Ruby said that you were on your way
 Well, the red alert was sounded and it blew the night

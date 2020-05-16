@@ -1,9 +1,12 @@
 ---
+album: 'The Singles Vol. 4: 1966-1967'
 artists:
 - Vicki Anderson
 - James Brown
+external_ids:
+  spotify: spotify:track:68oPRfiz4pLUmnm5mlyyF4
 features: []
-genres: []
+first_released_as_single: false
 key: think-vicki-anderson-james-brown
 lyrics_url: https://genius.com/Vicki-anderson-and-james-brown-think-lyrics
 name: Think
@@ -12,6 +15,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1967-04-08'
+release_year: 1967
+runtime: 200826
 ---
 Think about the good things
 Think about the bad things

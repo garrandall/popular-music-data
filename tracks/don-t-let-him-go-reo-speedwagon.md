@@ -1,8 +1,11 @@
 ---
+album: Hi Infidelity
 artists:
 - REO Speedwagon
+external_ids:
+  spotify: spotify:track:6UxGF7LGJ5qE0LJViSTsA2
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-let-him-go-reo-speedwagon
 lyrics_url: https://genius.com/Reo-speedwagon-dont-let-him-go-lyrics
 name: Don't Let Him Go
@@ -63,6 +66,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1981-09-12'
+release_year: 1980
+runtime: 225106
 ---
 So you figure that you've got him all figured out
 He's a sweet talking stud who can melt a girl's heart with his pout

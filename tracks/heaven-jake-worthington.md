@@ -1,8 +1,11 @@
 ---
+album: The Complete Season 6 Collection (The Voice Performance)
 artists:
 - Jake Worthington
+external_ids:
+  spotify: spotify:track:7rSQKuJcahmTznIzb709SB
 features: []
-genres: []
+first_released_as_single: false
 key: heaven-jake-worthington
 lyrics_url: https://www.musixmatch.com/lyrics/Jake-Worthington/Heaven-The-Voice-Performance
 name: Heaven
@@ -11,6 +14,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2014-05-31'
+release_year: 2014
+runtime: 234888
 ---
 Oh thinkin' about all our younger years
 There was only you and me

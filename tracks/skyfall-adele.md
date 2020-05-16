@@ -1,8 +1,11 @@
 ---
+album: Inspiration
 artists:
 - Adele
+external_ids:
+  spotify: spotify:track:6VObnIkLVruX4UVyxWhlqm
 features: []
-genres: []
+first_released_as_single: true
 key: skyfall-adele
 lyrics_url: https://www.azlyrics.com/lyrics/adele/skyfall.html
 name: Skyfall
@@ -87,8 +90,9 @@ rankings:
   rank: 33
   ranking_list: Billboard Hot 100
   start_date: '2013-03-16'
+release_year: 2012
+runtime: 286480
 ---
-
 This is the end
 Hold your breath and count to ten
 Feel the earth move and then
@@ -157,6 +161,3 @@ Let the sky fall
 We will stand tall
 At skyfall
 Oh-s...
-
-
-

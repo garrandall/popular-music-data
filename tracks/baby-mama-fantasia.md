@@ -1,8 +1,11 @@
 ---
+album: Free Yourself
 artists:
 - Fantasia
+external_ids:
+  spotify: spotify:track:3VgdPErkHCW7WZiTt6jwho
 features: []
-genres: []
+first_released_as_single: false
 key: baby-mama-fantasia
 lyrics_url: https://www.azlyrics.com/lyrics/fantasiabarrino/babymama.html
 name: Baby Mama
@@ -55,9 +58,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2005-04-30'
+release_year: 2004
+runtime: 255786
 ---
-
-
 B-A-B-Y M-A-M-A
 This goes out to all my baby mamas
 This goes out to all my baby mamas
@@ -120,6 +123,3 @@ This goes out to all my baby mamas
 B-A-B-Y M-A-M-A
 This goes out to all my baby mamas
 I got love for all my baby mamas
-
-
-

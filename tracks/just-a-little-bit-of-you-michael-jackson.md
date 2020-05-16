@@ -1,8 +1,11 @@
 ---
+album: Forever, Michael
 artists:
 - Michael Jackson
+external_ids:
+  spotify: spotify:track:5u4kX7qmMLc4qN8xfr0pT9
 features: []
-genres: []
+first_released_as_single: false
 key: just-a-little-bit-of-you-michael-jackson
 lyrics_url: https://genius.com/Michael-jackson-just-a-little-bit-of-you-lyrics
 name: Just A Little Bit Of You
@@ -55,6 +58,8 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '1975-08-23'
+release_year: 1975
+runtime: 194720
 ---
 Just a little bit of you every day
 Will surely keep the doctor away

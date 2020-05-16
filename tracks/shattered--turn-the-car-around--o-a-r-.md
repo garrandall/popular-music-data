@@ -1,8 +1,11 @@
 ---
+album: All Sides
 artists:
 - O.A.R.
+external_ids:
+  spotify: spotify:track:0J3MfW6wwIBqC4zjp5AbQL
 features: []
-genres: []
+first_released_as_single: false
 key: shattered--turn-the-car-around--o-a-r-
 lyrics_url: https://www.azlyrics.com/lyrics/oarofarevolution/shatteredturnthecararound.html
 name: Shattered (Turn The Car Around)
@@ -103,8 +106,9 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '2009-01-31'
+release_year: 2008
+runtime: 255493
 ---
-
 In a way, I need a change 
 From this burnout scene 
 Another time, another town 
@@ -162,6 +166,3 @@ I always turn the car around
 
 Don't wanna turn that car around 
 I gotta turn this thing around
-
-
-

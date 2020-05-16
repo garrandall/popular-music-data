@@ -1,8 +1,11 @@
 ---
+album: At Abbey Road
 artists:
 - Gerry And The Pacemakers
+external_ids:
+  spotify: spotify:track:601a0vnyLYe7pzLKVjKSha
 features: []
-genres: []
+first_released_as_single: false
 key: how-do-you-do-it--gerry-and-the-pacemakers
 lyrics_url: https://www.azlyrics.com/lyrics/gerryandthepacemakers/howdoyoudoit.html
 name: How Do You Do It?
@@ -51,8 +54,9 @@ rankings:
   rank: 31
   ranking_list: Billboard Hot 100
   start_date: '1964-09-19'
+release_year: 1964
+runtime: 114986
 ---
-
 How do you do what you do to me,
 I wish I knew,
 If I knew how you do it to me, I'd do it to you,
@@ -78,6 +82,3 @@ How do you do what you do to me,
 If I only knew,
 Then perhaps you'd fall for me like I fell for you,
 When I do it to you
-
-
-

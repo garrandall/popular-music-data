@@ -1,8 +1,11 @@
 ---
+album: Painting Pictures
 artists:
 - Kodak Black
+external_ids:
+  spotify: spotify:track:1fSn0rZyowKRVUTmjF1c2j
 features: []
-genres: []
+first_released_as_single: true
 key: tunnel-vision-kodak-black
 lyrics_url: https://www.azlyrics.com/lyrics/kodakblack/tunnelvision.html
 name: Tunnel Vision
@@ -87,8 +90,9 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '2017-07-22'
+release_year: 2017
+runtime: 268239
 ---
-
 And Lil Metro on that beat
 
 Lil Kodak, they don't like to see you winnin'
@@ -163,6 +167,3 @@ My mama told me, "Boy, make a decision."
 Right now I gotta keep a tunnel vision
 They sendin' all my homies on a mission
 And I ain't tryna miss out on these millions
-
-
-

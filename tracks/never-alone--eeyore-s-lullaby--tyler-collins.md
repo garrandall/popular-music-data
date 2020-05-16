@@ -1,8 +1,11 @@
 ---
+album: Luv-a-byes
 artists:
 - Tyler Collins
+external_ids:
+  spotify: spotify:track:7dX6DtgaRipA0ESYdu1yPh
 features: []
-genres: []
+first_released_as_single: false
 key: never-alone--eeyore-s-lullaby--tyler-collins
 lyrics_url: https://genius.com/Tyler-collins-never-alone-eeyores-lullaby-lyrics
 name: Never Alone (Eeyore's Lullaby)
@@ -15,6 +18,8 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '1995-12-09'
+release_year: 1995
+runtime: 172306
 ---
 Lay your head, down to bed
 Let your slumber sweep your cares away

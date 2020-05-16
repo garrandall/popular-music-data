@@ -1,8 +1,11 @@
 ---
+album: Dirty Dancing - Live In Concert
 artists:
 - Merry Clayton
+external_ids:
+  spotify: spotify:track:7k4uHnOdJViC6EBvcvzJZJ
 features: []
-genres: []
+first_released_as_single: false
 key: yes-merry-clayton
 lyrics_url: https://genius.com/Merry-clayton-yes-lyrics
 name: 'Yes'
@@ -51,6 +54,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1988-05-14'
+release_year: 1987
+runtime: 198333
 ---
 Drivin around
 I just can't hear a sound

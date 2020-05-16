@@ -1,9 +1,12 @@
 ---
+album: In the Mood
 artists:
 - Ernie Fields
 - Orch.
+external_ids:
+  spotify: spotify:track:5zCGngps4WZhwlqtrRBQc2
 features: []
-genres: []
+first_released_as_single: false
 key: in-the-mood-ernie-fields-orch-
 name: In The Mood
 rankings:
@@ -83,5 +86,7 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '1960-01-25'
+release_year: 1959
+runtime: 166106
 ---
 

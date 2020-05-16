@@ -1,9 +1,12 @@
 ---
+album: 51/50 Ratchet
 artists:
 - Hurricane Chris
+external_ids:
+  spotify: spotify:track:1I9gkdV0Vs83sDgzKSyk0f
 features:
 - Big Poppa
-genres: []
+first_released_as_single: true
 key: the-hand-clap-hurricane-chris-big-poppa
 lyrics_url: https://genius.com/Hurricane-chris-the-hand-clap-lyrics
 name: The Hand Clap
@@ -32,6 +35,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2007-12-08'
+release_year: 2007
+runtime: 262386
 ---
 Gimme that hand clap (lemme get that hand clap)
 Now Rick James with it

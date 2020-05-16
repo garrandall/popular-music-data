@@ -1,8 +1,11 @@
 ---
+album: Vivid
 artists:
 - Living Colour
+external_ids:
+  spotify: spotify:track:6hnKJsEeb0hVkbw16yjcTV
 features: []
-genres: []
+first_released_as_single: false
 key: open-letter--to-a-landlord--living-colour
 lyrics_url: https://www.azlyrics.com/lyrics/livingcolour/openlettertoalandlord.html
 name: Open Letter (To A Landlord)
@@ -27,8 +30,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1989-08-05'
+release_year: 1988
+runtime: 330973
 ---
-
 Now you can tear a building down
 But you can't erase a memory
 These houses may look all run down
@@ -91,6 +95,3 @@ For your neighborhood
 
 You've got to fight
 For your neighbor
-
-
-

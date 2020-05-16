@@ -1,8 +1,11 @@
 ---
+album: A Salute To Aaliyah
 artists:
 - Aaliyah
+external_ids:
+  spotify: spotify:track:6phrfV6xcnroGmWdseEHT0
 features: []
-genres: []
+first_released_as_single: false
 key: the-one-i-gave-my-heart-to-aaliyah
 lyrics_url: https://genius.com/Aaliyah-the-one-i-gave-my-heart-to-lyrics
 name: The One I Gave My Heart To
@@ -87,6 +90,8 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1998-02-14'
+release_year: 1997
+runtime: 230840
 ---
 How could the one I gave my heart to, break my heart so bad?
 How could the one who made me happy, make me feel so sad?

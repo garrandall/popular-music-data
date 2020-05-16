@@ -1,8 +1,11 @@
 ---
+album: Deltics
 artists:
 - Chris Rea
+external_ids:
+  spotify: spotify:track:5X4IsdadzXDP6RsomMgVUM
 features: []
-genres: []
+first_released_as_single: false
 key: diamonds-chris-rea
 lyrics_url: https://www.azlyrics.com/lyrics/chrisrea/diamonds.html
 name: Diamonds
@@ -39,8 +42,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1979-05-26'
+release_year: 1979
+runtime: 294066
 ---
-
 Oh getaway and don't come back
 Who do you think you're fooling with lies like that?
 You have dreams that set the rain on fire
@@ -61,6 +65,3 @@ Have meanings of their own
 We all got to dance, take a chance?
 But babe you should have stayed at home
 My love, my love, she don't need diamonds
-
-
-

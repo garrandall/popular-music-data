@@ -1,8 +1,11 @@
 ---
+album: Mary
 artists:
 - Mary J. Blige
+external_ids:
+  spotify: spotify:track:0b7tfmHH7G72ZByouk4WEh
 features: []
-genres: []
+first_released_as_single: false
 key: all-that-i-can-say-mary-j--blige
 lyrics_url: https://genius.com/Mary-j-blige-all-that-i-can-say-lyrics
 name: All That I Can Say
@@ -63,6 +66,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1999-10-23'
+release_year: 1999
+runtime: 330466
 ---
 Loving you is wonderful
 Something like a miracle

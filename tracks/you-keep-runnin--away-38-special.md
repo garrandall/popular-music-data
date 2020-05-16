@@ -1,8 +1,11 @@
 ---
+album: Special Forces
 artists:
 - 38 Special
+external_ids:
+  spotify: spotify:track:2iH8pLgd3Pqjq4Dzj4juMP
 features: []
-genres: []
+first_released_as_single: false
 key: you-keep-runnin--away-38-special
 lyrics_url: https://www.azlyrics.com/lyrics/38special/youkeeprunninaway.html
 name: You Keep Runnin' Away
@@ -51,8 +54,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1982-10-30'
+release_year: 1982
+runtime: 236733
 ---
-
 I hear your high-heels clickin' down the boulevard
 You got your suitcase in hand, guess you're takin' it hard
 You swear you'll never trust another man
@@ -99,6 +103,3 @@ But you keep on runnin', you keep runnin' away
 But you keep on runnin', you keep runnin' away
 But you keep on runnin', you keep runnin' away
 But you keep on runnin', you keep runnin' away
-
-
-

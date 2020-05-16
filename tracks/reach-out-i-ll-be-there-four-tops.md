@@ -1,8 +1,11 @@
 ---
+album: Reach Out
 artists:
 - Four Tops
+external_ids:
+  spotify: spotify:track:0jQ8390zL8LXEaaA5ignhr
 features: []
-genres: []
+first_released_as_single: false
 key: reach-out-i-ll-be-there-four-tops
 lyrics_url: https://genius.com/The-four-tops-reach-out-ill-be-there-lyrics
 name: Reach Out I'll Be There
@@ -67,6 +70,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1966-12-10'
+release_year: 1966
+runtime: 183240
 ---
 (Yah!)
 Now if you feel that you can't go on (can't go on)

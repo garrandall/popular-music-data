@@ -1,8 +1,11 @@
 ---
+album: Hot Spot
 artists:
 - Dazz Band
+external_ids:
+  spotify: spotify:track:07PCXZdvEXZwthxXXm2ELy
 features: []
-genres: []
+first_released_as_single: false
 key: joystick-dazz-band
 lyrics_url: https://genius.com/Dazz-band-joystick-lyrics
 name: Joystick
@@ -51,6 +54,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1984-04-21'
+release_year: 1984
+runtime: 374826
 ---
 Joystick
 I'm your joystick

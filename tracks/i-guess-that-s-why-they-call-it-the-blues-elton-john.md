@@ -1,8 +1,11 @@
 ---
+album: Too Low For Zero
 artists:
 - Elton John
+external_ids:
+  spotify: spotify:track:23l1kVpqMVREiwU1YAlcr4
 features: []
-genres: []
+first_released_as_single: false
 key: i-guess-that-s-why-they-call-it-the-blues-elton-john
 lyrics_url: https://genius.com/Elton-john-i-guess-thats-why-they-call-it-the-blues-lyrics
 name: I Guess That's Why They Call It The Blues
@@ -99,6 +102,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1984-03-31'
+release_year: 1983
+runtime: 285333
 ---
 Don't wish it away
 Don't look at it like it's forever

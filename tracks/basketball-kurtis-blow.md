@@ -1,8 +1,11 @@
 ---
+album: The Best Of Kurtis Blow
 artists:
 - Kurtis Blow
+external_ids:
+  spotify: spotify:track:6IXANTg9CWP73yEXqTHkBx
 features: []
-genres: []
+first_released_as_single: false
 key: basketball-kurtis-blow
 lyrics_url: https://www.azlyrics.com/lyrics/kurtisblow/basketball.html
 name: Basketball
@@ -31,8 +34,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1985-05-18'
+release_year: 1985
+runtime: 386040
 ---
-
 They're playing basketball
 We love that basketball
 They're playing basketball
@@ -96,6 +100,3 @@ Me and homeboy would go one-on-one
 Cause playing the game is a lot of fun
 Sit by the TV and watch 'em all
 Cause Kurtis Blow is rapping basketball
-
-
-

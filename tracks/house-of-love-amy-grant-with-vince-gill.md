@@ -1,7 +1,8 @@
 ---
 artists:
-- Amy Grant With Vince Gill
-features: []
+- Amy Grant
+features:
+- Vince Gill
 genres: []
 key: house-of-love-amy-grant-with-vince-gill
 name: House Of Love

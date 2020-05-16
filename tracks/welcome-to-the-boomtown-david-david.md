@@ -1,9 +1,12 @@
 ---
+album: Boomtown
 artists:
 - David
 - David
+external_ids:
+  spotify: spotify:track:77btuAAez622DcWAqhL2kA
 features: []
-genres: []
+first_released_as_single: false
 key: welcome-to-the-boomtown-david-david
 lyrics_url: https://genius.com/David-and-david-welcome-to-the-boomtown-lyrics
 name: Welcome To The Boomtown
@@ -72,6 +75,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1987-01-17'
+release_year: 1986
+runtime: 331160
 ---
 Miss Cristina drives a 944
 Satisfaction oozes from her pores

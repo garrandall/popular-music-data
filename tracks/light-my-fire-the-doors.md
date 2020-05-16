@@ -1,8 +1,11 @@
 ---
+album: The Doors
 artists:
 - The Doors
+external_ids:
+  spotify: spotify:track:7aghcqWLL9hGMIb0VFdbyD
 features: []
-genres: []
+first_released_as_single: true
 key: light-my-fire-the-doors
 lyrics_url: https://genius.com/The-doors-light-my-fire-lyrics
 name: Light My Fire
@@ -99,6 +102,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1968-10-05'
+release_year: 1967
+runtime: 173600
 ---
 You know that it would be untrue
 You know that I would be a liar

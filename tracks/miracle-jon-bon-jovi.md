@@ -1,8 +1,11 @@
 ---
+album: Blaze Of Glory
 artists:
 - Jon Bon Jovi
+external_ids:
+  spotify: spotify:track:6FJ9Xp3fCxSTAdcRVaDQdl
 features: []
-genres: []
+first_released_as_single: false
 key: miracle-jon-bon-jovi
 lyrics_url: https://www.azlyrics.com/lyrics/jonbonjovi/miracle.html
 name: Miracle
@@ -71,8 +74,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1991-02-09'
+release_year: 1990
+runtime: 319426
 ---
-
 A penny for your thoughts now baby
 Looks like the weight of the world's on your shoulders now
 I know you think you're going crazy
@@ -137,6 +141,3 @@ But it's time we made a stand with a miracle
 Gonna take a miracle, I need a miracle
 I need a miracle, I need a miracle
 Na, miracle (miracle) oh...
-
-
-

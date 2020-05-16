@@ -1,8 +1,11 @@
 ---
+album: New Ways But Love Stays
 artists:
 - The Supremes
+external_ids:
+  spotify: spotify:track:5p2XusrbkhI52jQy4oaKpZ
 features: []
-genres: []
+first_released_as_single: false
 key: stoned-love-the-supremes
 lyrics_url: https://genius.com/The-supremes-stoned-love-lyrics
 name: Stoned Love
@@ -63,6 +66,8 @@ rankings:
   rank: 26
   ranking_list: Billboard Hot 100
   start_date: '1971-02-06'
+release_year: 1970
+runtime: 247493
 ---
 Now I wanna tell you of a great love
 Oh, it will light up

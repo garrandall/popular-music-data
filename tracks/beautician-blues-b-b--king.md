@@ -1,8 +1,11 @@
 ---
+album: The Best Of B.B. King
 artists:
 - B.B. King
+external_ids:
+  spotify: spotify:track:13HjLIRtAmIBafMshw0TRE
 features: []
-genres: []
+first_released_as_single: false
 key: beautician-blues-b-b--king
 lyrics_url: https://www.azlyrics.com/lyrics/bbking/beauticianblues.html
 name: Beautician Blues
@@ -19,8 +22,9 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1964-11-21'
+release_year: 1964
+runtime: 119840
 ---
-
 I met a fine beautician
 In a very fine condition
 She was long and lean
@@ -55,6 +59,3 @@ I'll be her lover boy
 I'll be happy as a king
 She makes a lot of money
 Don't have to worry about a thing
-
-
-

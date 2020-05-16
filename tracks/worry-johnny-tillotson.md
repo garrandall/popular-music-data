@@ -1,8 +1,11 @@
 ---
+album: Travelin' on Foreign Grounds
 artists:
 - Johnny Tillotson
+external_ids:
+  spotify: spotify:track:5XwCqmvHv2p9UZeh6Kvp0l
 features: []
-genres: []
+first_released_as_single: false
 key: worry-johnny-tillotson
 lyrics_url: https://genius.com/Johnny-tillotson-worry-lyrics
 name: Worry
@@ -47,6 +50,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1964-09-19'
+release_year: 1964
+runtime: 132293
 ---
 Worry the nights away worry all through the day
 I worry what's come over you

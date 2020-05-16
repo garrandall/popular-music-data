@@ -1,8 +1,11 @@
 ---
+album: Changing Times
 artists:
 - Four Tops
+external_ids:
+  spotify: spotify:track:5uQGotQ1lAMdQa0gR4Y2Qv
 features: []
-genres: []
+first_released_as_single: false
 key: just-seven-numbers--can-straighten-out-my-life--four-tops
 lyrics_url: https://www.azlyrics.com/lyrics/fourtops/justsevennumberscanstraightenoutmylife.html
 name: Just Seven Numbers (Can Straighten Out My Life)
@@ -39,8 +42,9 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1971-03-13'
+release_year: 1970
+runtime: 191293
 ---
-
 Just seven numbers
 Can straighten out my life
 But my pride won't let me phone
@@ -72,6 +76,3 @@ But my fingers won't turn the dial
 Just seven numbers
 Can put me straight through to you babe
 Just your hello would make me smile
-
-
-

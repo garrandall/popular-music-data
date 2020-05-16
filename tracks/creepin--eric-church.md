@@ -1,8 +1,11 @@
 ---
+album: Chief
 artists:
 - Eric Church
+external_ids:
+  spotify: spotify:track:2krJlC7MXXpOdPipgc0TaS
 features: []
-genres: []
+first_released_as_single: false
 key: creepin--eric-church
 lyrics_url: https://www.azlyrics.com/lyrics/ericchurch/creepin.html
 name: Creepin'
@@ -87,8 +90,9 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '2013-01-19'
+release_year: 2011
+runtime: 232720
 ---
-
 Like a honeybee beating on my screen door,
 I got a little buzz and my head is sore,
 And from my bed I can feel the sun,
@@ -150,6 +154,3 @@ Thought I found my way outta this pain,
 Only to find your memory train.
 
 Creepin', creepin', creepin', creepin'...
-
-
-

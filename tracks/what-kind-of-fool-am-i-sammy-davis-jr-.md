@@ -1,8 +1,11 @@
 ---
+album: What Kind Of Fool Am I & Other Show Stoppers
 artists:
 - Sammy Davis Jr.
+external_ids:
+  spotify: spotify:track:2ChoPgCQ88DGEDFBwFgZlo
 features: []
-genres: []
+first_released_as_single: false
 key: what-kind-of-fool-am-i-sammy-davis-jr-
 lyrics_url: https://www.azlyrics.com/lyrics/sammydavisjr/whatkindoffoolami.html
 name: What Kind Of Fool Am I
@@ -67,8 +70,9 @@ rankings:
   rank: 37
   ranking_list: Billboard Hot 100
   start_date: '1962-12-08'
+release_year: 1962
+runtime: 204026
 ---
-
 What kind of fool am I
 Who never fell in love
 It seems that I'm thee only one
@@ -97,6 +101,3 @@ Why can't I fall in love
 Like any other man
 And maybe then I'll know
 What kind of fool I am
-
-
-

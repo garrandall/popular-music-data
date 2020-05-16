@@ -1,8 +1,11 @@
 ---
+album: All Directions
 artists:
 - The Temptations
+external_ids:
+  spotify: spotify:track:0y0f8EUAUpzjRIvbRNgfXQ
 features: []
-genres: []
+first_released_as_single: false
 key: mother-nature-the-temptations
 lyrics_url: https://www.azlyrics.com/lyrics/temptations/mothernature.html
 name: Mother Nature
@@ -23,8 +26,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1972-07-22'
+release_year: 1972
+runtime: 188960
 ---
-
 Go on and take your course
 And a-take me with you
 Hey, I wanna leave here, oh
@@ -63,6 +67,3 @@ Hey, I wanna leave here
 
 Mother, I wanna leave here
 Oh, Mother
-
-
-

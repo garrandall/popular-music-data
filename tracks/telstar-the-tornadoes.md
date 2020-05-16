@@ -1,8 +1,11 @@
 ---
+album: Deep Into The Sixties - 20 Rare Grooves
 artists:
 - The Tornadoes
+external_ids:
+  spotify: spotify:track:1GglxN00dPXPFbnBccuqqH
 features: []
-genres: []
+first_released_as_single: false
 key: telstar-the-tornadoes
 lyrics_url: https://genius.com/The-tornadoes-74-telstar-lyrics
 name: Telstar
@@ -71,6 +74,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1963-02-16'
+release_year: 1962
+runtime: 192040
 ---
 You counted 74 swans on the canal
 You counted 74 swans on the canal

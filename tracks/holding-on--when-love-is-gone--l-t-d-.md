@@ -1,8 +1,11 @@
 ---
+album: Togetherness
 artists:
 - L.T.D.
+external_ids:
+  spotify: spotify:track:6NY4ybOTzXNt8dDoPcCFfw
 features: []
-genres: []
+first_released_as_single: false
 key: holding-on--when-love-is-gone--l-t-d-
 lyrics_url: https://genius.com/Ltd-holding-on-when-love-is-gone-lyrics
 name: Holding On (When Love Is Gone)
@@ -47,6 +50,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1978-10-21'
+release_year: 1978
+runtime: 238693
 ---
 Holding on
 Is very hard to do when love is gone

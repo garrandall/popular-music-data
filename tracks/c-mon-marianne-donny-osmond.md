@@ -1,8 +1,11 @@
 ---
+album: Disco Train
 artists:
 - Donny Osmond
+external_ids:
+  spotify: spotify:track:3zudx3BM9qSW423TQr4lhn
 features: []
-genres: []
+first_released_as_single: false
 key: c-mon-marianne-donny-osmond
 lyrics_url: https://genius.com/Donny-osmond-cmon-marianne-lyrics
 name: C'mon Marianne
@@ -51,6 +54,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1976-08-14'
+release_year: 1976
+runtime: 143066
 ---
 Oh here I am (here I am)
 On my knees again (knees again)

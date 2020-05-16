@@ -1,8 +1,11 @@
 ---
+album: Detroit City and Other Hits by Bobby Bare
 artists:
 - Bobby Bare
+external_ids:
+  spotify: spotify:track:1LuDDDUQQ8OjOg4sOBvVol
 features: []
-genres: []
+first_released_as_single: false
 key: shame-on-me-bobby-bare
 lyrics_url: https://www.azlyrics.com/lyrics/bobbybare/shameonme.html
 name: Shame On Me
@@ -55,8 +58,9 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '1962-10-06'
+release_year: 1962
+runtime: 166906
 ---
-
 Shame on me for hurting you
 What can I say, what can I do?
 Last night I was blind but today I see
@@ -91,6 +95,3 @@ Can you ever forgive the fool
 The fool who really loves you?
 Last night I was blind but today I see
 I did you wrong, shame on me...
-
-
-

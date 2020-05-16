@@ -1,8 +1,11 @@
 ---
+album: Black And Blue (Remastered 2009)
 artists:
 - The Rolling Stones
+external_ids:
+  spotify: spotify:track:5rBS5AlKXpdb3tJJ2D8QdW
 features: []
-genres: []
+first_released_as_single: false
 key: hot-stuff-the-rolling-stones
 lyrics_url: https://genius.com/The-rolling-stones-hot-stuff-lyrics
 name: Hot Stuff
@@ -31,6 +34,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1976-07-31'
+release_year: 1976
+runtime: 320893
 ---
 Hot stuff, hot stuff
 Hot stuff, hot stuff

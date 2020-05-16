@@ -1,8 +1,11 @@
 ---
+album: Luck Of The Draw
 artists:
 - Bonnie Raitt
+external_ids:
+  spotify: spotify:track:6Ceejf3zBXvAhIY9DbP1Pr
 features: []
-genres: []
+first_released_as_single: false
 key: something-to-talk-about-bonnie-raitt
 lyrics_url: https://www.azlyrics.com/lyrics/bonnieraitt/somethingtotalkabout.html
 name: Something To Talk About
@@ -87,8 +90,9 @@ rankings:
   rank: 32
   ranking_list: Billboard Hot 100
   start_date: '1991-11-30'
+release_year: 1991
+runtime: 227573
 ---
-
 Oh, oh oh
 People are talkin', talkin' 'bout people,
 I hear them whisper, you won't believe it.
@@ -136,6 +140,3 @@ Whoowhoo mmm hey oh whoowhoo
 About love, love, love, love
 How about they talk about it? uh huh
 Talk about love...
-
-
-

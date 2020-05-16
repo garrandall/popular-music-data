@@ -1,8 +1,11 @@
 ---
+album: O!RUL8,2?
 artists:
 - BTS
+external_ids:
+  spotify: spotify:track:2BNuFV7ROaRHu2j3N6k729
 features: []
-genres: []
+first_released_as_single: false
 key: on-bts
 lyrics_url: https://genius.com/Bts-on-lyrics
 name: 'ON'
@@ -15,6 +18,8 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '2020-03-14'
+release_year: 2013
+runtime: 246525
 ---
 I can't understand what people are sayin'
 어느 장단에 맞춰야 될지

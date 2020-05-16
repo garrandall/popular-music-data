@@ -1,8 +1,11 @@
 ---
+album: Back On Top
 artists:
 - The O'Jays
+external_ids:
+  spotify: spotify:track:0MwbV4hXfJoUgNQqXnWngj
 features: []
-genres: []
+first_released_as_single: false
 key: i-ll-be-sweeter-tomorrow--than-i-was-today--the-o-jays
 lyrics_url: https://genius.com/The-ojays-ill-be-sweeter-tomorrow-lyrics
 name: I'll Be Sweeter Tomorrow (Than I Was Today)
@@ -43,6 +46,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1968-01-20'
+release_year: 1967
+runtime: 181933
 ---
 Do do do do...
 I always like to be

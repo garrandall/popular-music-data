@@ -1,8 +1,11 @@
 ---
+album: Sure Things
 artists:
 - Little Willie John
+external_ids:
+  spotify: spotify:track:2UJ55v5EICM8T3wekSJx30
 features: []
-genres: []
+first_released_as_single: false
 key: a-cottage-for-sale-little-willie-john
 lyrics_url: https://www.musixmatch.com/lyrics/Little-Willie-John/A-Cottage-for-Sale
 name: A Cottage For Sale
@@ -31,6 +34,8 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1960-06-13'
+release_year: 1960
+runtime: 175440
 ---
 A little dream castle
 With every dream gone

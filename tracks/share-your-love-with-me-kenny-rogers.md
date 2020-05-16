@@ -1,8 +1,11 @@
 ---
+album: Share Your Love
 artists:
 - Kenny Rogers
+external_ids:
+  spotify: spotify:track:5bOzAULUIchWXdFJGXOq9T
 features: []
-genres: []
+first_released_as_single: false
 key: share-your-love-with-me-kenny-rogers
 lyrics_url: https://www.azlyrics.com/lyrics/kennyrogers/shareyourlovewithme.html
 name: Share Your Love With Me
@@ -67,8 +70,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1981-12-12'
+release_year: 1981
+runtime: 198666
 ---
-
 It's an ill wind
 That blows no good
 And it's a sad heart
@@ -112,6 +116,3 @@ You don't share
 Your love with me
 (Share your love with me)
 It's a shame
-
-
-

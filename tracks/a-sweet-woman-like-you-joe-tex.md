@@ -1,8 +1,11 @@
 ---
+album: The Very Best of, Volume 1
 artists:
 - Joe Tex
+external_ids:
+  spotify: spotify:track:0ijmXR80FiFJBYMENfz2LL
 features: []
-genres: []
+first_released_as_single: false
 key: a-sweet-woman-like-you-joe-tex
 lyrics_url: https://www.musixmatch.com/lyrics/Joe-Tex/A-Sweet-Woman-Like-You
 name: A Sweet Woman Like You
@@ -43,6 +46,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1966-01-29'
+release_year: 1965
+runtime: 159946
 ---
 Woman tell me, where did you learn
 To handle a man with so much ease?

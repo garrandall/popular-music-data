@@ -1,8 +1,11 @@
 ---
+album: Twistin' the Night Away
 artists:
 - Sam Cooke
+external_ids:
+  spotify: spotify:track:0gKhmpLiJ2awP0WlvPGPSm
 features: []
-genres: []
+first_released_as_single: false
 key: that-s-it---i-quit---i-m-movin--on-sam-cooke
 lyrics_url: https://genius.com/Sam-cooke-thats-it-i-quit-im-movin-on-lyrics
 name: That's It - I Quit - I'm Movin' On
@@ -39,6 +42,8 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1961-04-24'
+release_year: 1961
+runtime: 151133
 ---
 When we used to say goodnight
 I'd always kiss and hold you tight

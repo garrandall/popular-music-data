@@ -1,8 +1,11 @@
 ---
+album: One Voice
 artists:
 - Barry Manilow
+external_ids:
+  spotify: spotify:track:29G4lxwdGV0Ia1uCTkWjjW
 features: []
-genres: []
+first_released_as_single: false
 key: ships-barry-manilow
 lyrics_url: https://www.azlyrics.com/lyrics/barrymanilow/ships.html
 name: Ships
@@ -63,8 +66,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1980-01-12'
+release_year: 1973
+runtime: 240333
 ---
-
 We walked to the sea
 Just my father and me
 And the dogs played around on the sand
@@ -100,6 +104,3 @@ We're just two ships that pass in the night
 And we smile when we say it's alright
 We're still here
 It's just that we're out of sight
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Paris (U.S. Standard Version)
 artists:
 - Paris Hilton
+external_ids:
+  spotify: spotify:track:2BI7BmpfN2mbDXsbzNQjBF
 features: []
-genres: []
+first_released_as_single: true
 key: stars-are-blind-paris-hilton
 lyrics_url: https://www.azlyrics.com/lyrics/parishilton/starsareblind.html
 name: Stars Are Blind
@@ -55,8 +58,9 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '2006-09-23'
+release_year: 2006
+runtime: 236600
 ---
-
 I don't mind spending some time
 Just hanging here with you
 'Cause I don't find too many guys
@@ -125,6 +129,3 @@ Even though the stars are blind (Oh)
 Even though the gods are crazy (Oh)
 
 Even though the stars are blind (Oh)
-
-
-

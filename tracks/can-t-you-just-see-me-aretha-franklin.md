@@ -1,8 +1,11 @@
 ---
+album: Soul Sister
 artists:
 - Aretha Franklin
+external_ids:
+  spotify: spotify:track:5vXVrWoWBUIHJk4sBFpPLV
 features: []
-genres: []
+first_released_as_single: false
 key: can-t-you-just-see-me-aretha-franklin
 lyrics_url: https://genius.com/Aretha-franklin-cant-you-just-see-me-lyrics
 name: Can't You Just See Me
@@ -15,6 +18,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1965-02-06'
+release_year: 1965
+runtime: 121666
 ---
 Hey, can't you just see me
 With my head in the air

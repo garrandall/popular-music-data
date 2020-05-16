@@ -1,8 +1,11 @@
 ---
+album: Troubadour
 artists:
 - George Strait
+external_ids:
+  spotify: spotify:track:4qjmnM1aYvayCTDd0uuRKH
 features: []
-genres: []
+first_released_as_single: false
 key: troubadour-george-strait
 lyrics_url: https://genius.com/George-strait-troubadour-lyrics
 name: Troubadour
@@ -67,6 +70,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2008-11-01'
+release_year: 2008
+runtime: 176226
 ---
 I still feel 25 most of the time
 I still raise a little Cain with the boys

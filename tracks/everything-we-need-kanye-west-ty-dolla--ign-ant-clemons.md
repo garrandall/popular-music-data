@@ -1,10 +1,13 @@
 ---
+album: JESUS IS KING
 artists:
 - Kanye West
+external_ids:
+  spotify: spotify:track:24bnCCysWnbNRNUT4LpHcP
 features:
 - Ty Dolla $ign
 - Ant Clemons
-genres: []
+first_released_as_single: false
 key: everything-we-need-kanye-west-ty-dolla--ign-ant-clemons
 lyrics_url: https://www.azlyrics.com/lyrics/kanyewest/everythingweneed.html
 name: Everything We Need
@@ -13,8 +16,9 @@ rankings:
   rank: 33
   ranking_list: Billboard Hot 100
   start_date: '2019-11-09'
+release_year: 2019
+runtime: 116559
 ---
-
 We began after the storm inside
 Lay the land (Ah), it's just the morning light (Woo, woo)
 Woo, woo, oh yeah
@@ -52,6 +56,3 @@ We have everything we need
 
 We began after the storm inside
 Lay the land (Ah), it's just the morning light
-
-
-

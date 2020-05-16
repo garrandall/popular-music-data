@@ -1,8 +1,11 @@
 ---
+album: This One's for You
 artists:
 - Luke Combs
+external_ids:
+  spotify: spotify:track:1mMLMZYXkMueg65jRRWG1l
 features: []
-genres: []
+first_released_as_single: false
 key: when-it-rains-it-pours-luke-combs
 lyrics_url: https://www.azlyrics.com/lyrics/lukecombs/whenitrainsitpours.html
 name: When It Rains It Pours
@@ -87,8 +90,9 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '2017-12-30'
+release_year: 2017
+runtime: 240760
 ---
-
 Sunday morning, man, she woke up fighting mad
 Bitching and moaning on and on 'bout the time I had
 And by Tuesday, you could say that girl was good as gone
@@ -134,6 +138,3 @@ Deep sea, senorita, fishing down in Panama
 And I ain't gotta see my ex future mother-in-law anymore
 Oh, Lord, when it rains it pours
 When it rains it pours
-
-
-

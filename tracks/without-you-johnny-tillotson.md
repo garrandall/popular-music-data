@@ -1,8 +1,11 @@
 ---
+album: Johnny Tillotson's Best
 artists:
 - Johnny Tillotson
+external_ids:
+  spotify: spotify:track:5HbuNDquUjgOoJIozrdayL
 features: []
-genres: []
+first_released_as_single: false
 key: without-you-johnny-tillotson
 lyrics_url: https://genius.com/Johnny-tillotson-without-you-lyrics
 name: Without You
@@ -59,6 +62,8 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '1961-10-30'
+release_year: 1961
+runtime: 128800
 ---
 You made me happy, you made me sing
 But now without you, I've lost everything

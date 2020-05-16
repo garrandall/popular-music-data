@@ -1,8 +1,11 @@
 ---
+album: Time, Love & Tenderness
 artists:
 - Michael Bolton
+external_ids:
+  spotify: spotify:track:6Tsf4gyepJ1BvIKUKjqvuv
 features: []
-genres: []
+first_released_as_single: false
 key: time-love-and-tenderness-michael-bolton
 lyrics_url: https://www.azlyrics.com/lyrics/michaelbolton/timeloveandtenderness.html
 name: Time Love And Tenderness
@@ -79,8 +82,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1991-11-09'
+release_year: 1987
+runtime: 257826
 ---
-
 So you say that you can't go on
 Love left you cryin'
 And you say all your hope is gone
@@ -135,6 +139,3 @@ Time, love and tenderness
 
 Baby, oh baby all you need
 All you need is time, love and tenderness
-
-
-

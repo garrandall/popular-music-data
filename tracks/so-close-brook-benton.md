@@ -1,8 +1,11 @@
 ---
+album: Rainy Night In Georgia
 artists:
 - Brook Benton
+external_ids:
+  spotify: spotify:track:7CQkopH5ahEVnNCvK2LyAV
 features: []
-genres: []
+first_released_as_single: false
 key: so-close-brook-benton
 lyrics_url: https://www.musixmatch.com/lyrics/Brook-Benton/So-Close
 name: So Close
@@ -35,6 +38,8 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '1959-06-29'
+release_year: 1959
+runtime: 123791
 ---
 Your lips on mine are soft as dew
 Your kiss is so divine

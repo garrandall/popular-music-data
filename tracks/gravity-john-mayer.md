@@ -1,8 +1,11 @@
 ---
+album: TRY!
 artists:
 - John Mayer
+external_ids:
+  spotify: spotify:track:0FRoVng8IZZoS0ATxIgvuH
 features: []
-genres: []
+first_released_as_single: false
 key: gravity-john-mayer
 lyrics_url: https://www.azlyrics.com/lyrics/johnmayer/gravity.html
 name: Gravity
@@ -23,8 +26,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2007-05-19'
+release_year: 2005
+runtime: 349253
 ---
-
 Gravity is working against me
 And gravity wants to bring me down
 
@@ -53,6 +57,3 @@ Just keep me where the light is
 C'mon keep me where the light is
 C'mon keep me where the light is
 C'mon keep me where keep me where the light is (oh, oh)
-
-
-

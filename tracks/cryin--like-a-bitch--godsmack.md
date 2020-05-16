@@ -1,8 +1,11 @@
 ---
+album: The Oracle
 artists:
 - Godsmack
+external_ids:
+  spotify: spotify:track:4a9i7rCLfPjbS1sNamZeQN
 features: []
-genres: []
+first_released_as_single: false
 key: cryin--like-a-bitch--godsmack
 lyrics_url: https://genius.com/Godsmack-cryin-like-a-bitch-lyrics
 name: Cryin' Like A Bitch!
@@ -19,6 +22,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2010-04-03'
+release_year: 2010
+runtime: 201666
 ---
 Strut on by like a king
 Telling everybody they know nothing

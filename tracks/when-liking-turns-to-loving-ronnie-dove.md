@@ -1,8 +1,11 @@
 ---
+album: The Best of Ronnie Dove Volume 2
 artists:
 - Ronnie Dove
+external_ids:
+  spotify: spotify:track:70B8B7EdcU3qrjY6KlzQSv
 features: []
-genres: []
+first_released_as_single: false
 key: when-liking-turns-to-loving-ronnie-dove
 lyrics_url: https://genius.com/Ronnie-dove-when-liking-turns-to-loving-lyrics
 name: When Liking Turns To Loving
@@ -43,6 +46,8 @@ rankings:
   rank: 23
   ranking_list: Billboard Hot 100
   start_date: '1966-03-19'
+release_year: 1966
+runtime: 177106
 ---
 I hold her hand much tighter now
 Stars are shining brighter now and through out the day I find
@@ -61,8 +66,6 @@ Music feels the starlet night, when I kiss and hold her tight
 And one day just the way we plan, she'll wear my wedding band
 What a wonderful, wonderful feeling
 When liking turns to loving
-
-Instrumental
 
 And one day just the way we plan, she'll wear my wedding band
 What a wonderful, wonderful feeling

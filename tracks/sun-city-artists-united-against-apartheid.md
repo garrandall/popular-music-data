@@ -1,8 +1,11 @@
 ---
+album: 'Sun City: Artists United Against Apartheid'
 artists:
 - Artists United Against Apartheid
+external_ids:
+  spotify: spotify:track:5fIooQsVIVja8kP3ojyAV7
 features: []
-genres: []
+first_released_as_single: false
 key: sun-city-artists-united-against-apartheid
 lyrics_url: https://genius.com/Artists-united-against-apartheid-sun-city-lyrics
 name: Sun City
@@ -59,6 +62,8 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1986-01-25'
+release_year: 1985
+runtime: 432413
 ---
 Ah, sun city
 Sun city

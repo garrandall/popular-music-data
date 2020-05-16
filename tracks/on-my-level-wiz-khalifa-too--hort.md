@@ -1,9 +1,12 @@
 ---
+album: Karaoke The Best Collection
 artists:
 - Wiz Khalifa
+external_ids:
+  spotify: spotify:track:5bphvPVIh1pc5HxVNbiiFc
 features:
 - Too $hort
-genres: []
+first_released_as_single: false
 key: on-my-level-wiz-khalifa-too--hort
 lyrics_url: https://www.azlyrics.com/lyrics/wizkhalifa/onmylevel.html
 name: On My Level
@@ -44,9 +47,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2011-09-03'
+release_year: 2011
+runtime: 270889
 ---
-
-
 It's the champagne pourin'
 Big joint rollin'
 Bombay sippin'
@@ -129,4 +132,3 @@ I finna pass out
 man I swear I'm on my level
 A nigga get smashed out
 Man I swear I'm on my level
-

@@ -1,8 +1,11 @@
 ---
+album: My Prescription
 artists:
 - Bobby Womack
+external_ids:
+  spotify: spotify:track:0zvTP0p9sfgG5CeQt3QUao
 features: []
-genres: []
+first_released_as_single: false
 key: more-than-i-can-stand-bobby-womack
 lyrics_url: https://www.azlyrics.com/lyrics/bobbywomack/morethanicanstand.html
 name: More Than I Can Stand
@@ -23,8 +26,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1970-06-06'
+release_year: 1970
+runtime: 171093
 ---
-
 Oh, baby!
 Girl, don't pull the rug from under my feet (don't do it baby)
 Don't leave, don't leave me so, I'm talking in my sleep
@@ -58,6 +62,3 @@ And that's more baby than I could stand
 
 Why you wanna leave me?
 Why you wanna go?
-
-
-

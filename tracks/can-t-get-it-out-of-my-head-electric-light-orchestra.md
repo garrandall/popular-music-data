@@ -1,8 +1,11 @@
 ---
+album: Eldorado
 artists:
 - Electric Light Orchestra
+external_ids:
+  spotify: spotify:track:2xObDvr0GO5uYCSxFO9uLG
 features: []
-genres: []
+first_released_as_single: false
 key: can-t-get-it-out-of-my-head-electric-light-orchestra
 lyrics_url: https://genius.com/Electric-light-orchestra-cant-get-it-out-of-my-head-lyrics
 name: Can't Get It Out Of My Head
@@ -71,6 +74,8 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '1975-04-05'
+release_year: 1972
+runtime: 264800
 ---
 Midnight on the water
 I saw the ocean's daughter

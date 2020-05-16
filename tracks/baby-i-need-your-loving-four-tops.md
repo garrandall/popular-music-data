@@ -1,8 +1,11 @@
 ---
+album: Four Tops
 artists:
 - Four Tops
+external_ids:
+  spotify: spotify:track:3aCbwWCYCT3MJjZeUnlcp4
 features: []
-genres: []
+first_released_as_single: false
 key: baby-i-need-your-loving-four-tops
 lyrics_url: https://genius.com/The-four-tops-baby-i-need-your-loving-lyrics
 name: Baby I Need Your Loving
@@ -55,6 +58,8 @@ rankings:
   rank: 25
   ranking_list: Billboard Hot 100
   start_date: '1964-10-31'
+release_year: 1964
+runtime: 166026
 ---
 Baby, I need your lovin'
 Baby, I need your lovin'

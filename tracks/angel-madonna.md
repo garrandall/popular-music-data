@@ -1,8 +1,11 @@
 ---
+album: Like a Virgin (Reissue)
 artists:
 - Madonna
+external_ids:
+  spotify: spotify:track:7ov1nZ2QZc3LIuCXXERZP0
 features: []
-genres: []
+first_released_as_single: false
 key: angel-madonna
 lyrics_url: https://genius.com/Madonna-angel-lyrics
 name: Angel
@@ -75,6 +78,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1985-08-17'
+release_year: 1984
+runtime: 236133
 ---
 Why am I standing on a cloud
 Every time you're around?

@@ -1,9 +1,12 @@
 ---
+album: UGK (Underground Kingz)
 artists:
 - UGK
+external_ids:
+  spotify: spotify:track:4ns1XFP3W5JPyzvnAjMdHD
 features:
 - OutKast
-genres: []
+first_released_as_single: false
 key: int-l-players-anthem--i-choose-you--ugk-outkast
 lyrics_url: https://www.musixmatch.com/lyrics/UGK-UGK-Underground-Kingz-feat-Outkast/Int-l-Players-Anthem-I-Choose-You
 name: Int'l Players Anthem (I Choose You)
@@ -44,6 +47,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2007-10-20'
+release_year: 2007
+runtime: 259040
 ---
 So I typed a text to a girl I used to see
 Sayin' that I chose this cutie pie with whom I wanna be

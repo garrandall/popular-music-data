@@ -49,7 +49,7 @@ rankings:
   start_date: '1977-07-09'
 ---
 He's back together again
-Yeah ev'ryone is glad that he's together again
+Yeah everyone is glad that he's together again
 Just like the old days, old days, old days
 Yeah he could sing, he could sing, he could sing
 He's back together again

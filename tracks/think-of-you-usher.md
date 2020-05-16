@@ -1,8 +1,11 @@
 ---
+album: Usher
 artists:
 - Usher
+external_ids:
+  spotify: spotify:track:1FlDtQBj95pnFbS9kCTZEI
 features: []
-genres: []
+first_released_as_single: false
 key: think-of-you-usher
 lyrics_url: https://genius.com/Usher-think-of-you-lyrics
 name: Think Of You
@@ -83,6 +86,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1995-06-24'
+release_year: 1994
+runtime: 229333
 ---
 All the time I think of you
 Holding on to someone new

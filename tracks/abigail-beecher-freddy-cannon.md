@@ -1,8 +1,11 @@
 ---
+album: Boom Boom Rock 'N' Roll
 artists:
 - Freddy Cannon
+external_ids:
+  spotify: spotify:track:6ch6E0na67OZxbafYsHM2p
 features: []
-genres: []
+first_released_as_single: false
 key: abigail-beecher-freddy-cannon
 lyrics_url: https://genius.com/Freddy-cannon-abigail-beecher-lyrics
 name: Abigail Beecher
@@ -39,6 +42,8 @@ rankings:
   rank: 29
   ranking_list: Billboard Hot 100
   start_date: '1964-03-21'
+release_year: 1964
+runtime: 144360
 ---
 Hey everybody, get out of the street now
 I hear the roar of an XK-E now

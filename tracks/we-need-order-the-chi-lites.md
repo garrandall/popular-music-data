@@ -1,8 +1,11 @@
 ---
+album: A Letter To Myself
 artists:
 - The Chi-lites
+external_ids:
+  spotify: spotify:track:6VXYuzCoFQALL83BOk12q6
 features: []
-genres: []
+first_released_as_single: false
 key: we-need-order-the-chi-lites
 lyrics_url: https://www.azlyrics.com/lyrics/chilites/weneedorder.html
 name: We Need Order
@@ -31,8 +34,9 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '1973-01-06'
+release_year: 1972
+runtime: 326066
 ---
-
 The world today is in so many pieces
 People searching for so many ways
 Of releasing their disappointments and fears
@@ -66,6 +70,3 @@ Oh, the flowers and the trees
 Those that are left are so very beautiful
 Oh, the birds and the bees
 Have been forgotten, almost a used to be
-
-
-

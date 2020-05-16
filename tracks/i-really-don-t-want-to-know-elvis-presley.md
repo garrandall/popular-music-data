@@ -1,8 +1,11 @@
 ---
+album: Elvis Country
 artists:
 - Elvis Presley
+external_ids:
+  spotify: spotify:track:2MA3h5MsIglWsU5tVZ2jJD
 features: []
-genres: []
+first_released_as_single: false
 key: i-really-don-t-want-to-know-elvis-presley
 lyrics_url: https://genius.com/Elvis-presley-i-really-dont-want-to-know-lyrics
 name: I Really Don't Want To Know
@@ -43,6 +46,8 @@ rankings:
   rank: 31
   ranking_list: Billboard Hot 100
   start_date: '1971-02-20'
+release_year: 1970
+runtime: 178240
 ---
 Oh how many arms have held you
 And hated to let you go

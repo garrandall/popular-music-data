@@ -1,9 +1,12 @@
 ---
+album: Nut Rocker / Bumble Boogie
 artists:
 - B. Bumble
 - The Stingers
+external_ids:
+  spotify: spotify:track:5c9rf65tSWCUhObGnK4QyE
 features: []
-genres: []
+first_released_as_single: true
 key: bumble-boogie-b--bumble-the-stingers
 lyrics_url: https://genius.com/B-bumble-and-the-stingers-bumble-boogie-lyrics
 name: Bumble Boogie
@@ -48,5 +51,7 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '1961-05-29'
+release_year: 1961
+runtime: 134826
 ---
 (Instrumental)

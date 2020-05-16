@@ -1,8 +1,11 @@
 ---
+album: Whatcha See Is Whatcha Get
 artists:
 - The Dramatics
+external_ids:
+  spotify: spotify:track:6DJQhP9YVTwBB3Ixlq5aVN
 features: []
-genres: []
+first_released_as_single: false
 key: get-up-and-get-down-the-dramatics
 lyrics_url: https://genius.com/The-dramatics-get-up-and-get-down-lyrics
 name: Get Up And Get Down
@@ -35,6 +38,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1972-01-22'
+release_year: 1971
+runtime: 193306
 ---
 Come on
 

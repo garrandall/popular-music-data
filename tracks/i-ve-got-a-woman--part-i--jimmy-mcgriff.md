@@ -1,8 +1,11 @@
 ---
+album: I've Got A Woman
 artists:
 - Jimmy McGriff
+external_ids:
+  spotify: spotify:track:2ee0IMZtSFtRZWteRFXj7j
 features: []
-genres: []
+first_released_as_single: false
 key: i-ve-got-a-woman--part-i--jimmy-mcgriff
 name: I've Got A Woman (Part I)
 rankings:
@@ -42,5 +45,7 @@ rankings:
   rank: 38
   ranking_list: Billboard Hot 100
   start_date: '1962-12-08'
+release_year: 1962
+runtime: 274293
 ---
 

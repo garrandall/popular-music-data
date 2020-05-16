@@ -1,8 +1,11 @@
 ---
+album: Ain't That Good News
 artists:
 - Sam Cooke
+external_ids:
+  spotify: spotify:track:1mFnzLmWAcuidKIapYMdyY
 features: []
-genres: []
+first_released_as_single: false
 key: tennessee-waltz-sam-cooke
 lyrics_url: https://www.azlyrics.com/lyrics/samcooke/tennesseewaltz.html
 name: Tennessee Waltz
@@ -39,8 +42,9 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1964-08-01'
+release_year: 1960
+runtime: 191666
 ---
-
 I was dancing with my darling to the Tennessee Waltz
 When an old friend I happened to see
 I untroduced him to my loved one and while they were dancing
@@ -49,6 +53,3 @@ I remember the night and the Tennessee Waltz
 Only you know how much I have lost 
 Yes I lost my little darling the night they were playing
 That beautiful Tennessee Waltz
-
-
-

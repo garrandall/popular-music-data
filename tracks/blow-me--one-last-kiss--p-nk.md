@@ -1,8 +1,11 @@
 ---
+album: The Truth About Love
 artists:
 - P!nk
+external_ids:
+  spotify: spotify:track:4n0foHAK05yGDbZXECeg0i
 features: []
-genres: []
+first_released_as_single: true
 key: blow-me--one-last-kiss--p-nk
 lyrics_url: https://genius.com/P-nk-blow-me-one-last-kiss-lyrics
 name: Blow Me (One Last Kiss)
@@ -115,6 +118,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '2013-01-19'
+release_year: 2012
+runtime: 230520
 ---
 White knuckles
 And sweaty palms from hanging on too tight

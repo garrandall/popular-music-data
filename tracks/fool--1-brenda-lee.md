@@ -1,8 +1,11 @@
 ---
+album: Brenda, That's All
 artists:
 - Brenda Lee
+external_ids:
+  spotify: spotify:track:4T6euKxeRyXb8GtMnHh2nM
 features: []
-genres: []
+first_released_as_single: false
 key: fool--1-brenda-lee
 lyrics_url: https://genius.com/Brenda-lee-fool-1-lyrics
 name: 'Fool #1'
@@ -63,6 +66,8 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '1962-01-06'
+release_year: 1961
+runtime: 147533
 ---
 Am I fool number one or am I fool number two
 How many other girls have been fooled by you

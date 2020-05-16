@@ -1,8 +1,11 @@
 ---
+album: Super Hits
 artists:
 - Hooters
+external_ids:
+  spotify: spotify:track:4NTVgBIkIO63F7V4cTTDtr
 features: []
-genres: []
+first_released_as_single: false
 key: 500-miles-hooters
 lyrics_url: https://www.azlyrics.com/lyrics/hooters/500miles.html
 name: 500 Miles
@@ -27,8 +30,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1990-01-06'
+release_year: 1985
+runtime: 262060
 ---
-
 If you miss the train I'm on, you will know that I am gone 
 You can hear the whistle blow a hundred miles, 
 A hundred miles, a hundred miles, 
@@ -55,6 +59,3 @@ I'll be free, I'll be free, I'll come home to my country,
 Lord I'm five hundred miles away from home 
 You can hear the whistle blow a hundred miles 
 Lord I'm five hundred miles away from home
-
-
-

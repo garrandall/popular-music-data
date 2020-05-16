@@ -1,8 +1,11 @@
 ---
+album: Lou Rawls Live At The Century Plaza
 artists:
 - Lou Rawls
+external_ids:
+  spotify: spotify:track:5E41M4fW5j7zMjjuUy7XhD
 features: []
-genres: []
+first_released_as_single: false
 key: a-natural-man-lou-rawls
 lyrics_url: https://www.azlyrics.com/lyrics/lourawls/anaturalman.html
 name: A Natural Man
@@ -79,8 +82,9 @@ rankings:
   rank: 36
   ranking_list: Billboard Hot 100
   start_date: '1971-12-25'
+release_year: 1971
+runtime: 229893
 ---
-
 You know, there was a time when, if someone told you to do something, you did it. Bam. Right on. No questions asked. It was "yes, sir" and "yes, mam." You never said no, you know? Huh. But, you know, things are changing nowadays. It's a new day, babies. Folks want to take their own lives into their hands and make their own choices. No longer do they want to go along with the program 'cause everybody say it's right. You know what I mean? Let me tell you what I'm talkin' about, you see, 'cause
 
 I don't want no gold watch for working fifty years from nine till five
@@ -132,6 +136,3 @@ No more "yes, sir" (just like a natural man)
 No more "yes, mam" (just like a natural man)
 Huh, 'cause I'm a natural man (just like a natural man)
 I'm a natural man (just like a natural man)
-
-
-

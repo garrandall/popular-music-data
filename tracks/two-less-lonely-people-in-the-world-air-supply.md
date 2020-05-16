@@ -1,8 +1,11 @@
 ---
+album: Now And Forever
 artists:
 - Air Supply
+external_ids:
+  spotify: spotify:track:0ty88JKVXWxbsz6H5D60iR
 features: []
-genres: []
+first_released_as_single: false
 key: two-less-lonely-people-in-the-world-air-supply
 lyrics_url: https://genius.com/Air-supply-two-less-lonely-people-in-the-world-lyrics
 name: Two Less Lonely People In The World
@@ -63,6 +66,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1983-02-12'
+release_year: 1982
+runtime: 241226
 ---
 I was down, my dreams were wearing thin
 When you're lost, where do you begin?

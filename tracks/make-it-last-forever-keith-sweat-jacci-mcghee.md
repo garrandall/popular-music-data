@@ -1,9 +1,12 @@
 ---
+album: Make It Last Forever
 artists:
 - Keith Sweat
 - Jacci McGhee
+external_ids:
+  spotify: spotify:track:7vVIj8Tm1wCawjvwVZdeLD
 features: []
-genres: []
+first_released_as_single: false
 key: make-it-last-forever-keith-sweat-jacci-mcghee
 lyrics_url: https://www.azlyrics.com/lyrics/keithsweat/makeitlastforever.html
 name: Make It Last Forever
@@ -52,8 +55,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1988-10-01'
+release_year: 1987
+runtime: 296400
 ---
-
 Make it last
 Make it last forever (Ever)
 Don't let end our love end (Oh...oh..)
@@ -122,6 +126,3 @@ Oh, honey (Oh, honey)
 I love you (I love you)
 Oh, you're the best thing in my world
 The only thing in the world, I love you so
-
-
-

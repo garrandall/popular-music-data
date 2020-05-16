@@ -1,8 +1,11 @@
 ---
+album: I Ain't Movin'
 artists:
 - Des'ree
+external_ids:
+  spotify: spotify:track:6CU0zWIWVTEnmWpSjVHM93
 features: []
-genres: []
+first_released_as_single: false
 key: you-gotta-be-des-ree
 lyrics_url: https://genius.com/Desree-you-gotta-be-lyrics
 name: You Gotta Be
@@ -183,6 +186,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1995-07-01'
+release_year: 1994
+runtime: 245200
 ---
 Listen as your day unfolds
 Challenge what the future holds

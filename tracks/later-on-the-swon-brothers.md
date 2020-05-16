@@ -1,8 +1,11 @@
 ---
+album: The Swon Brothers
 artists:
 - The Swon Brothers
+external_ids:
+  spotify: spotify:track:7lG4154Md1Kw7BMg56Pt4s
 features: []
-genres: []
+first_released_as_single: false
 key: later-on-the-swon-brothers
 lyrics_url: https://genius.com/The-swon-brothers-later-on-lyrics
 name: Later On
@@ -43,6 +46,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2014-10-25'
+release_year: 2014
+runtime: 217160
 ---
 Hey babe won't you tell me what you've got going on
 Just a little later on tonight

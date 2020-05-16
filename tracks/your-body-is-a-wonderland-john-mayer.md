@@ -1,8 +1,11 @@
 ---
+album: Room For Squares
 artists:
 - John Mayer
+external_ids:
+  spotify: spotify:track:7vFv0yFGMJW3qVXbAd9BK9
 features: []
-genres: []
+first_released_as_single: false
 key: your-body-is-a-wonderland-john-mayer
 lyrics_url: https://genius.com/John-mayer-your-body-is-a-wonderland-lyrics
 name: Your Body Is A Wonderland
@@ -123,6 +126,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2003-05-17'
+release_year: 2001
+runtime: 249626
 ---
 We got the afternoon
 You got this room for two

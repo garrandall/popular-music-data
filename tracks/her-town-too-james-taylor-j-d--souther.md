@@ -1,9 +1,12 @@
 ---
+album: Dad Loves His Work
 artists:
 - James Taylor
 - J.D. Souther
+external_ids:
+  spotify: spotify:track:0pZM3I7GWMLXyoQKkthD0h
 features: []
-genres: []
+first_released_as_single: false
 key: her-town-too-james-taylor-j-d--souther
 lyrics_url: https://www.musixmatch.com/lyrics/James-Taylor-J-D-Souther/Her-Town-Too
 name: Her Town Too
@@ -64,6 +67,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1981-06-13'
+release_year: 1977
+runtime: 273466
 ---
 She's been afraid to go out
 She's afraid of the knock on her door

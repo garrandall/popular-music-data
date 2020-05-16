@@ -1,8 +1,11 @@
 ---
+album: Not A Moment Too Soon
 artists:
 - Tim McGraw
+external_ids:
+  spotify: spotify:track:1fYypIR0kaFzaSRbzvtjl9
 features: []
-genres: []
+first_released_as_single: false
 key: indian-outlaw-tim-mcgraw
 lyrics_url: https://www.azlyrics.com/lyrics/timmcgraw/indianoutlaw.html
 name: Indian Outlaw
@@ -87,8 +90,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1994-07-16'
+release_year: 1994
+runtime: 182120
 ---
-
 I'm an Indian outlaw
 Half Cherokee and Choctaw
 My baby she's a Chippewa
@@ -143,6 +147,3 @@ Cherokee people
 Cherokee tribe
 So proud to live
 So proud to die
-
-
-

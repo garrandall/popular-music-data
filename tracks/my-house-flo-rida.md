@@ -1,8 +1,11 @@
 ---
+album: My House
 artists:
 - Flo Rida
+external_ids:
+  spotify: spotify:track:6Knv6wdA0luoMUuuoYi2i1
 features: []
-genres: []
+first_released_as_single: false
 key: my-house-flo-rida
 lyrics_url: https://www.azlyrics.com/lyrics/florida/myhouse.html
 name: My House
@@ -163,8 +166,9 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '2016-08-20'
+release_year: 2015
+runtime: 192190
 ---
-
 Open up the champagne, pop!
 It's my house, come on, turn it up
 
@@ -232,6 +236,3 @@ Welcome to my house
 
 Welcome to my house
 It's my house
-
-
-

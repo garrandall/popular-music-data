@@ -1,8 +1,11 @@
 ---
+album: That's What Love Can Do
 artists:
 - Boy Krazy
+external_ids:
+  spotify: spotify:track:48OEtpzFsaxLfNVRbiEuDA
 features: []
-genres: []
+first_released_as_single: false
 key: that-s-what-love-can-do-boy-krazy
 lyrics_url: https://genius.com/Boy-krazy-thats-what-love-can-do-lyrics
 name: That's What Love Can Do
@@ -87,6 +90,8 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1993-06-05'
+release_year: 1991
+runtime: 194000
 ---
 That's what love can do
 I don't wanna break your heart in two

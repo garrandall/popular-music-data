@@ -1,8 +1,11 @@
 ---
+album: The Complete Thom Bell Sessions
 artists:
 - Elton John
+external_ids:
+  spotify: spotify:track:3LIGS2KScSoi6O7XT0NQRv
 features: []
-genres: []
+first_released_as_single: false
 key: mama-can-t-buy-you-love-elton-john
 lyrics_url: https://genius.com/Elton-john-mama-cant-buy-you-love-lyrics
 name: Mama Can't Buy You Love
@@ -79,6 +82,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1979-10-06'
+release_year: 1979
+runtime: 244906
 ---
 Baby, so they give you anythin'
 Darlin', all the joy money can bring

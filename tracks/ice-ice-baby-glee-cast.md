@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music, The Complete Season One'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:222xITHDi1QPjFC1I83dPm
 features: []
-genres: []
+first_released_as_single: false
 key: ice-ice-baby-glee-cast
 lyrics_url: https://www.azlyrics.com/lyrics/gleecast/iceicebaby.html
 name: Ice Ice Baby
@@ -11,8 +14,9 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '2010-05-22'
+release_year: 2010
+runtime: 205120
 ---
-
 Yo V.I.P
 Let's kick it
 
@@ -104,6 +108,3 @@ Magnetized by the mic while I kick my juice
 If there was a problem
 Yo... I'll solve it!
 Check out the hook while Deshay revolves it.
-
-
-

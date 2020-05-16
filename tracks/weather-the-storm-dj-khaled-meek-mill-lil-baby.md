@@ -1,10 +1,13 @@
 ---
+album: Father Of Asahd
 artists:
 - DJ Khaled
+external_ids:
+  spotify: spotify:track:6xVhqLT40s5sVhepe9Mckc
 features:
 - Meek Mill
 - Lil Baby
-genres: []
+first_released_as_single: false
 key: weather-the-storm-dj-khaled-meek-mill-lil-baby
 lyrics_url: https://www.azlyrics.com/lyrics/djkhaled/weatherthestorm.html
 name: Weather The Storm
@@ -13,8 +16,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2019-06-01'
+release_year: 2019
+runtime: 153337
 ---
-
 (We The Best Music!)
 2019, we ain't takin' no shorts unless we goin' on vacation
 Big fish (Another one)
@@ -73,6 +77,3 @@ Had me thinkin', is it all worth it?
 Thinkin' 'bout the chances that I took to buy you purses
 Thinkin' 'bout them lists that we went on and just go splurgin'
 Switched it up and everything been workin'
-
-
-

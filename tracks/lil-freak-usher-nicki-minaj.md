@@ -1,9 +1,12 @@
 ---
+album: Raymond v Raymond
 artists:
 - Usher
+external_ids:
+  spotify: spotify:track:2sdarYql1R0GAdFsdb4LDM
 features:
 - Nicki Minaj
-genres: []
+first_released_as_single: false
 key: lil-freak-usher-nicki-minaj
 lyrics_url: https://genius.com/Usher-lil-freak-lyrics
 name: Lil Freak
@@ -72,6 +75,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '2010-07-03'
+release_year: 2010
+runtime: 234253
 ---
 Ay, girl, yeah, you the business
 So what the business?

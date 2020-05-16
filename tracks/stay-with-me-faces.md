@@ -1,8 +1,11 @@
 ---
+album: A Nod Is As Good As A Wink To A Blind Horse
 artists:
 - Faces
+external_ids:
+  spotify: spotify:track:7fLTytvnvxy653VWxflTRf
 features: []
-genres: []
+first_released_as_single: false
 key: stay-with-me-faces
 lyrics_url: https://genius.com/Faces-stay-with-me-lyrics
 name: Stay With Me
@@ -47,6 +50,8 @@ rankings:
   rank: 34
   ranking_list: Billboard Hot 100
   start_date: '1972-03-04'
+release_year: 1971
+runtime: 279360
 ---
 Woo!
 Get it

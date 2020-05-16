@@ -1,9 +1,12 @@
 ---
+album: A Different Me
 artists:
 - Keyshia Cole
 - Monica
+external_ids:
+  spotify: spotify:track:066H3CmDCFuQU1fwsecCDc
 features: []
-genres: []
+first_released_as_single: false
 key: trust-keyshia-cole-monica
 lyrics_url: https://www.azlyrics.com/lyrics/keyshiacole/trust75814.html
 name: Trust
@@ -68,9 +71,10 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2009-10-17'
+release_year: 2008
+runtime: 253320
 ---
-
- what up Mo
+what up Mo
  What up?
  You kno it's ya girl KC
  Oh hey
@@ -164,6 +168,3 @@ But, I won't hurt you; I'm down for you baby.
  OOH
  OOH OOH
  Gotta Let'em Know
-
-
-

@@ -1,8 +1,13 @@
 ---
+album: James Brown Sings Raw Soul
 artists:
-- James Brown And The Famous Flames
+- James Brown
+features:
+- The Famous Flames
+external_ids:
+  spotify: spotify:track:0tE5rh8DtuMgbFoCQHbJsV
 features: []
-genres: []
+first_released_as_single: false
 key: let-yourself-go-james-brown-and-the-famous-flames
 lyrics_url: https://genius.com/James-brown-and-the-famous-flames-let-yourself-go-lyrics
 name: Let Yourself Go
@@ -35,6 +40,8 @@ rankings:
   rank: 52
   ranking_list: Billboard Hot 100
   start_date: '1967-06-17'
+release_year: 1967
+runtime: 176693
 ---
 Hey, everybody
 Let me tell the news

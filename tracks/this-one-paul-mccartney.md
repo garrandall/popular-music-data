@@ -1,8 +1,11 @@
 ---
+album: Flowers In The Dirt
 artists:
 - Paul McCartney
+external_ids:
+  spotify: spotify:track:3ANon3v45h2kHUxTiy6MBQ
 features: []
-genres: []
+first_released_as_single: false
 key: this-one-paul-mccartney
 lyrics_url: https://genius.com/Paul-mccartney-this-one-lyrics
 name: This One
@@ -19,6 +22,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1989-09-23'
+release_year: 1989
+runtime: 252013
 ---
 This one, this one, this one
 This one, this one...

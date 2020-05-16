@@ -1,8 +1,11 @@
 ---
+album: True to Self
 artists:
 - Bryson Tiller
+external_ids:
+  spotify: spotify:track:3Jrs7cC2OJNlNSy9VnDOMZ
 features: []
-genres: []
+first_released_as_single: false
 key: somethin-tells-me-bryson-tiller
 lyrics_url: https://www.azlyrics.com/lyrics/brysontiller/somethintellsme.html
 name: Somethin Tells Me
@@ -11,8 +14,9 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '2017-06-17'
+release_year: 2017
+runtime: 194266
 ---
-
 Yeah somethin' tells me
 We ain't gon' last baby
 We ain't gon' last baby
@@ -84,6 +88,3 @@ Let's make it work, yeah)
 I know we can make it work
 Let's make it work
 We can make it work, come on
-
-
-

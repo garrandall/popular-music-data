@@ -1,8 +1,11 @@
 ---
+album: Meeting In The Ladies Room
 artists:
 - Klymaxx
+external_ids:
+  spotify: spotify:track:7mL0DJOgIJ9Z4b0NHVtTZe
 features: []
-genres: []
+first_released_as_single: false
 key: meeting-in-the-ladies-room-klymaxx
 lyrics_url: https://www.azlyrics.com/lyrics/klymaxx/meetingintheladiesroom.html
 name: Meeting In The Ladies Room
@@ -51,8 +54,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1985-07-20'
+release_year: 1984
+runtime: 316373
 ---
-
 I had to leave my condo to come to this
 Well, I'm back but this time I'm with my man
 And these women are puttin' their hands all over his
@@ -132,6 +136,3 @@ I've got a meeting in the ladies room
 I'll be back real soon
 I've got a meeting in the ladies room
 I'll be back real soon
-
-
-

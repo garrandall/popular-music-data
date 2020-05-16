@@ -1,8 +1,11 @@
 ---
+album: The Last Word in Lonesome
 artists:
 - Eddy Arnold
+external_ids:
+  spotify: spotify:track:3i0kZxPJTTTKDq9JxrHc7K
 features: []
-genres: []
+first_released_as_single: false
 key: the-last-word-in-lonesome-is-me-eddy-arnold
 lyrics_url: https://www.musixmatch.com/lyrics/Eddy-Arnold/The-Last-Word-in-Lonesome-Is-Me
 name: The Last Word In Lonesome Is Me
@@ -35,6 +38,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1966-06-25'
+release_year: 1966
+runtime: 132666
 ---
 Too bad what's happened to our good love
 Too bad what's happened to our good love

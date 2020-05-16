@@ -1,8 +1,11 @@
 ---
+album: Mixed Emotions
 artists:
 - Exile
+external_ids:
+  spotify: spotify:track:5ZYtYFgJNTRBq4qYExmOhq
 features: []
-genres: []
+first_released_as_single: false
 key: you-thrill-me-exile
 lyrics_url: https://genius.com/Exile-band-you-thrill-me-lyrics
 name: You Thrill Me
@@ -51,6 +54,8 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '1979-02-03'
+release_year: 1978
+runtime: 232813
 ---
 Now that you say our romance is through
 I want you to know that I'll never get over you

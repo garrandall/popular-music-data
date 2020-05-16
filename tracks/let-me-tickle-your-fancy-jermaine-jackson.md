@@ -1,8 +1,11 @@
 ---
+album: Greatest Hits And Rare Classics
 artists:
 - Jermaine Jackson
+external_ids:
+  spotify: spotify:track:4WbumVCuNi2Uvv2IfkmXW7
 features: []
-genres: []
+first_released_as_single: false
 key: let-me-tickle-your-fancy-jermaine-jackson
 lyrics_url: https://www.azlyrics.com/lyrics/jermainejackson/letmetickleyourfancy.html
 name: Let Me Tickle Your Fancy
@@ -67,8 +70,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1982-10-30'
+release_year: 1982
+runtime: 229093
 ---
-
 Like the sun, I rise and shine
 With last night on my mind
 It's so hard to concentrate
@@ -103,6 +107,3 @@ You control that vital part
 Keyed up for touch (good God)
 C'mon let me tickle your fancy
 Let me excite your soul
-
-
-

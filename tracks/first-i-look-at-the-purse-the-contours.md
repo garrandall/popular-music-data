@@ -1,8 +1,11 @@
 ---
+album: Motown Rarities 1965-1968
 artists:
 - The Contours
+external_ids:
+  spotify: spotify:track:4AhbwxGJDCNme2fSsn2Ezx
 features: []
-genres: []
+first_released_as_single: false
 key: first-i-look-at-the-purse-the-contours
 lyrics_url: https://genius.com/The-contours-first-i-look-at-the-purse-lyrics
 name: First I Look At The Purse
@@ -39,6 +42,8 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1965-10-02'
+release_year: 1965
+runtime: 184466
 ---
 What does every man look at first?
 

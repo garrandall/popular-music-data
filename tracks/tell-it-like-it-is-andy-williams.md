@@ -1,8 +1,11 @@
 ---
+album: Andy
 artists:
 - Andy Williams
+external_ids:
+  spotify: spotify:track:7MYHtpI1ebzt1lkAxgNDEZ
 features: []
-genres: []
+first_released_as_single: false
 key: tell-it-like-it-is-andy-williams
 lyrics_url: https://www.azlyrics.com/lyrics/andywilliams/tellitlikeitis.html
 name: Tell It Like It Is
@@ -31,8 +34,9 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1976-02-21'
+release_year: 1976
+runtime: 159760
 ---
-
 If you want something to play with
 Go and find yourself a toy
 'Cause baby, baby my time is much too expensive
@@ -68,6 +72,3 @@ Tell it like it is
 Tell it to me baby, tell it to me
 You gotta tell me right now
 Tell it like it is
-
-
-

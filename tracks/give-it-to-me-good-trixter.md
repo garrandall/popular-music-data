@@ -1,8 +1,11 @@
 ---
+album: Trixter
 artists:
 - Trixter
+external_ids:
+  spotify: spotify:track:3JHSUI91AZhxM1BZpxS8Ar
 features: []
-genres: []
+first_released_as_single: false
 key: give-it-to-me-good-trixter
 lyrics_url: https://genius.com/Trixter-give-it-to-me-good-lyrics
 name: Give It To Me Good
@@ -43,6 +46,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1991-01-26'
+release_year: 1990
+runtime: 210333
 ---
 Well Hey Hey baby tell me what's your name
 From the way you look and the way you dress

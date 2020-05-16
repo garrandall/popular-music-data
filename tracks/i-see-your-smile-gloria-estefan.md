@@ -1,8 +1,11 @@
 ---
+album: Greatest Hits
 artists:
 - Gloria Estefan
+external_ids:
+  spotify: spotify:track:056uvAVDFOa7kv9idKPpf0
 features: []
-genres: []
+first_released_as_single: false
 key: i-see-your-smile-gloria-estefan
 lyrics_url: https://www.azlyrics.com/lyrics/gloriaestefan/iseeyoursmile.html
 name: I See Your Smile
@@ -75,8 +78,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1993-06-12'
+release_year: 1985
+runtime: 273856
 ---
-
 I get a little tongue twisted
 Every time I talk to you, when I see you
 And I'm so glad that you just missed it
@@ -124,6 +128,3 @@ Out of my darkest hour
 
 You know now this is true
 When I tell you I love you
-
-
-

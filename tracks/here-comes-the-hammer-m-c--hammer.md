@@ -1,8 +1,11 @@
 ---
+album: Please Hammer Don't Hurt 'Em
 artists:
 - M.C. Hammer
+external_ids:
+  spotify: spotify:track:4yjM4lHNqVOaLwuD2TAThH
 features: []
-genres: []
+first_released_as_single: false
 key: here-comes-the-hammer-m-c--hammer
 lyrics_url: https://genius.com/Mc-hammer-here-comes-the-hammer-lyrics
 name: Here Comes The Hammer
@@ -63,6 +66,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1991-04-06'
+release_year: 1990
+runtime: 272200
 ---
 Uh-oh, uh-oh uh-oh uh-oh
 Uh-oh, uh-oh (Here comes the Hammer!)

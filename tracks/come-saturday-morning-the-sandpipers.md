@@ -1,8 +1,11 @@
 ---
+album: Come Saturday Morning
 artists:
 - The Sandpipers
+external_ids:
+  spotify: spotify:track:6CktzfYm1SNLwFiyV9XwJY
 features: []
-genres: []
+first_released_as_single: false
 key: come-saturday-morning-the-sandpipers
 lyrics_url: https://genius.com/The-sandpipers-come-saturday-morning-lyrics
 name: Come Saturday Morning
@@ -87,6 +90,8 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1970-06-27'
+release_year: 1969
+runtime: 185800
 ---
 Come Saturday morning
 I'm goin' away with my friend

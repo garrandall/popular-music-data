@@ -1,8 +1,11 @@
 ---
+album: Hang On In There Baby
 artists:
 - Johnny Bristol
+external_ids:
+  spotify: spotify:track:4RYNJVKgNpwSZguajVfsef
 features: []
-genres: []
+first_released_as_single: false
 key: hang-on-in-there-baby-johnny-bristol
 lyrics_url: https://genius.com/Johnny-bristol-hang-on-in-there-baby-lyrics
 name: Hang On In There Baby
@@ -75,6 +78,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1974-10-19'
+release_year: 1974
+runtime: 233720
 ---
 Hang on in there, baby
 Give me love tonight

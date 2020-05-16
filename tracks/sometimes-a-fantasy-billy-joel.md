@@ -1,8 +1,11 @@
 ---
+album: Glass Houses
 artists:
 - Billy Joel
+external_ids:
+  spotify: spotify:track:2ltjiNTxrM53MQl5tmp1Cv
 features: []
-genres: []
+first_released_as_single: false
 key: sometimes-a-fantasy-billy-joel
 lyrics_url: https://www.azlyrics.com/lyrics/billyjoel/sometimesafantasy.html
 name: Sometimes A Fantasy
@@ -43,8 +46,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1980-12-06'
+release_year: 1980
+runtime: 220040
 ---
-
 I didn't want to do it but I got too lonely
 I had to call you up in the middle of the night
 I know it's awful hard to try to make love long distance
@@ -87,6 +91,3 @@ It's just a fantasy
 It's not the real thing
 It's just a fantasy
 It's not the real thing
-
-
-

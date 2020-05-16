@@ -1,8 +1,11 @@
 ---
+album: Innervisions
 artists:
 - Stevie Wonder
+external_ids:
+  spotify: spotify:track:1QvWxgZvTU0w8rlPRE5Zrv
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-you-worry--bout-a-thing-stevie-wonder
 lyrics_url: https://genius.com/Stevie-wonder-dont-you-worry-bout-a-thing-lyrics
 name: Don't You Worry 'Bout A Thing
@@ -67,6 +70,8 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '1974-07-13'
+release_year: 1973
+runtime: 284840
 ---
 Eee ee!
 Watch this y'all

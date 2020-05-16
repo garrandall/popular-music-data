@@ -1,8 +1,11 @@
 ---
+album: Love Songs
 artists:
 - Deniece Williams
+external_ids:
+  spotify: spotify:track:5aPVQqYEEZKREbFRxLiAp5
 features: []
-genres: []
+first_released_as_single: false
 key: free-deniece-williams
 lyrics_url: https://genius.com/Deniece-williams-free-lyrics
 name: Free
@@ -87,6 +90,8 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '1977-04-23'
+release_year: 1976
+runtime: 356560
 ---
 Whispering in his ear
 My magic potion for love

@@ -1,8 +1,11 @@
 ---
+album: Minute By Minute
 artists:
 - The Doobie Brothers
+external_ids:
+  spotify: spotify:track:6ItEbVrpHAlOdlAwHdBGdw
 features: []
-genres: []
+first_released_as_single: false
 key: minute-by-minute-the-doobie-brothers
 lyrics_url: https://genius.com/The-doobie-brothers-minute-by-minute-lyrics
 name: Minute By Minute
@@ -63,6 +66,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1979-08-04'
+release_year: 1977
+runtime: 207533
 ---
 Hey, don't worry, I've been lied to
 I've been here many times before

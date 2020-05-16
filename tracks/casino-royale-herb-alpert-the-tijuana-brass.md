@@ -1,9 +1,12 @@
 ---
+album: Sounds Like...
 artists:
 - Herb Alpert
 - The Tijuana Brass
+external_ids:
+  spotify: spotify:track:4ZQmVvvP6s7K0acVdWoGMC
 features: []
-genres: []
+first_released_as_single: false
 key: casino-royale-herb-alpert-the-tijuana-brass
 lyrics_url: https://www.musixmatch.com/lyrics/Herb-Alpert-feat-The-Tijuana-Brass-2/Casino-Royale
 name: Casino Royale
@@ -44,6 +47,8 @@ rankings:
   rank: 38
   ranking_list: Billboard Hot 100
   start_date: '1967-06-03'
+release_year: 1967
+runtime: 155986
 ---
 Seven James Bonds at Casino Royale,
 They came to save the world and win a gal at Casino Royale!

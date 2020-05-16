@@ -1,8 +1,11 @@
 ---
+album: Manorisms
 artists:
 - Wet Willie
+external_ids:
+  spotify: spotify:track:1EI0x3yv1P5AQSq3WaZ6cv
 features: []
-genres: []
+first_released_as_single: false
 key: street-corner-serenade-wet-willie
 lyrics_url: https://genius.com/Wet-willie-street-corner-serenade-lyrics
 name: Street Corner Serenade
@@ -63,6 +66,8 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1978-03-04'
+release_year: 1977
+runtime: 294280
 ---
 One Friday evenin'
 What a feelin', feel like singin'

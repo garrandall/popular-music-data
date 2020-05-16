@@ -1,8 +1,11 @@
 ---
+album: Mind Games
 artists:
 - John Lennon
+external_ids:
+  spotify: spotify:track:3QmUhaY5KZiOuaUH8H71LG
 features: []
-genres: []
+first_released_as_single: false
 key: mind-games-john-lennon
 lyrics_url: https://www.azlyrics.com/lyrics/johnlennon/mindgames.html
 name: MIND GAMES
@@ -59,8 +62,9 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '1974-02-02'
+release_year: 1973
+runtime: 253266
 ---
-
 We're playing those mind games together
 Pushing the barriers planting seeds
 Playing the mind guerrilla
@@ -91,6 +95,3 @@ Keep on playing those mind games forever
 Raising the spirit of peace and love
 (I want you to make love, not war
 I know you've heard it before)
-
-
-

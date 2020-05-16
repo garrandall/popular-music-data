@@ -1,8 +1,11 @@
 ---
+album: Don't Explain
 artists:
 - Robert Palmer
+external_ids:
+  spotify: spotify:track:4EUeXHCXYYyzF52hnEgIjZ
 features: []
-genres: []
+first_released_as_single: false
 key: you-re-amazing-robert-palmer
 lyrics_url: https://genius.com/Robert-palmer-youre-amazing-lyrics
 name: You're Amazing
@@ -59,6 +62,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1991-02-09'
+release_year: 1990
+runtime: 230426
 ---
 Ain't no doubt about it, you're a masterpiece
 You're amazing

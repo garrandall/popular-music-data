@@ -1,8 +1,11 @@
 ---
+album: 'Masters of Soul: George Kerr - Singles & Rarities, Vol. 1'
 artists:
 - Troy Keyes
+external_ids:
+  spotify: spotify:track:7IKziXch2FOV1GPXsLom6l
 features: []
-genres: []
+first_released_as_single: false
 key: love-explosion-troy-keyes
 name: Love Explosion
 rankings:
@@ -18,5 +21,7 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1968-03-02'
+release_year: 1968
+runtime: 178076
 ---
 

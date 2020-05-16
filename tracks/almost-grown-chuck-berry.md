@@ -1,8 +1,11 @@
 ---
+album: Berry Is On Top
 artists:
 - Chuck Berry
+external_ids:
+  spotify: spotify:track:6Kl1mOpVOIg17MQmcjeUO5
 features: []
-genres: []
+first_released_as_single: false
 key: almost-grown-chuck-berry
 lyrics_url: https://www.azlyrics.com/lyrics/chuckberry/almostgrown.html
 name: Almost Grown
@@ -59,8 +62,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1959-06-22'
+release_year: 1959
+runtime: 141960
 ---
-
 (Wow wow) You know I'm almost grown (Wow wow)
 
 Yeah 'n' I'm doin' all right in school
@@ -94,6 +98,3 @@ So I don't browse around at all
 
 Don't bother just leave us alone
 Anyway we're almost grown
-
-
-

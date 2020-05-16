@@ -1,8 +1,11 @@
 ---
+album: Songs My Friends Made Famous
 artists:
 - Steve Lawrence
+external_ids:
+  spotify: spotify:track:2BgLQqzv1wnhyMjZa8FIFN
 features: []
-genres: []
+first_released_as_single: false
 key: somewhere-along-the-way-steve-lawrence
 lyrics_url: https://www.musixmatch.com/lyrics/Steve-Lawrence-Eydie-Gorme-3/Somewhere-Along-the-Way
 name: Somewhere Along The Way
@@ -27,6 +30,8 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1961-11-20'
+release_year: 1961
+runtime: 168066
 ---
 I used to walk with you along the avenue,
 Our hearts were carefree and gay.

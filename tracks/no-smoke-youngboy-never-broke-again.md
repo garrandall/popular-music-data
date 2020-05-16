@@ -1,8 +1,11 @@
 ---
+album: AI YoungBoy
 artists:
 - YoungBoy Never Broke Again
+external_ids:
+  spotify: spotify:track:57IRaiAB4hBZu3gnNVZC0v
 features: []
-genres: []
+first_released_as_single: false
 key: no-smoke-youngboy-never-broke-again
 lyrics_url: https://genius.com/Youngboy-never-broke-again-no-smoke-lyrics
 name: No Smoke
@@ -79,6 +82,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '2018-04-14'
+release_year: 2017
+runtime: 160000
 ---
 My bro, my bro
 That nigga my homie

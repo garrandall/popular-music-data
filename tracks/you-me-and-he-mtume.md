@@ -1,8 +1,11 @@
 ---
+album: You, Me And He
 artists:
 - Mtume
+external_ids:
+  spotify: spotify:track:4e4EjNZodRI8IR1CCO8D8M
 features: []
-genres: []
+first_released_as_single: false
 key: you-me-and-he-mtume
 lyrics_url: https://www.azlyrics.com/lyrics/mtume/youmeandhe.html
 name: You Me And He
@@ -27,8 +30,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1984-10-13'
+release_year: 1984
+runtime: 267226
 ---
-
 There's somethin' I want to say
 Try and understand
 There's another in my life
@@ -69,6 +73,3 @@ You, me and he
 What we gonna do, baby
 I don't want to let you go
 No, no, no, no
-
-
-

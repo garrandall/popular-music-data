@@ -1,8 +1,11 @@
 ---
+album: Imagination
 artists:
 - The Whispers
+external_ids:
+  spotify: spotify:track:61D1EVoIKsrb86W0q8vXvy
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-a-love-thing-the-whispers
 lyrics_url: https://genius.com/The-whispers-its-a-love-thing-lyrics
 name: It's A Love Thing
@@ -67,6 +70,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1981-05-23'
+release_year: 1980
+runtime: 311093
 ---
 It's a love thing, it's a love thing
 (It's a love thing, thing)

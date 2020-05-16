@@ -1,9 +1,12 @@
 ---
+album: Suit
 artists:
 - Nelly
+external_ids:
+  spotify: spotify:track:6CKDgcKrFKt3mys8aL8ZGF
 features:
 - Jaheim
-genres: []
+first_released_as_single: true
 key: my-place-nelly-jaheim
 lyrics_url: https://www.azlyrics.com/lyrics/nelly/myplace.html
 name: My Place
@@ -88,8 +91,9 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '2004-12-04'
+release_year: 2004
+runtime: 337986
 ---
-
 I used to pride myself on being the other man 
 But now it's flipped and I don't want u with no other man 
 Why can't u understand anything I'm offering 
@@ -159,6 +163,3 @@ Come on ova to my place
 Won't you sit ya self down and take a seat 
 And let me ease ya mind girl 
 We gon do it our way
-
-
-

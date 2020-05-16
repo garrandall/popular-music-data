@@ -1,8 +1,11 @@
 ---
+album: New Horizons
 artists:
 - The Sylvers
+external_ids:
+  spotify: spotify:track:4ydpS3oQAxm8BxA6ayKI4o
 features: []
-genres: []
+first_released_as_single: false
 key: any-way-you-want-me-the-sylvers
 lyrics_url: https://www.musixmatch.com/lyrics/The-Sylvers/Any-Way-You-Want-Me
 name: Any Way You Want Me
@@ -43,6 +46,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1978-01-21'
+release_year: 1977
+runtime: 160680
 ---
 I just wanna be everything
 That you'd like so that we'd never part

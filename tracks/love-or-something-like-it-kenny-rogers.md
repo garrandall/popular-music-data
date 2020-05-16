@@ -1,8 +1,11 @@
 ---
+album: Love Or Something Like It
 artists:
 - Kenny Rogers
+external_ids:
+  spotify: spotify:track:3YaasPvn6VQu4qSmprGAWz
 features: []
-genres: []
+first_released_as_single: false
 key: love-or-something-like-it-kenny-rogers
 lyrics_url: https://www.azlyrics.com/lyrics/kennyrogers/loveorsomethinglikeit.html
 name: Love Or Something Like It
@@ -55,8 +58,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1978-08-19'
+release_year: 1978
+runtime: 174986
 ---
-
 Show me a bar with a good looking woman
 Then just get out of my way
 Turn on the jukebox, I'll show you a song you should play
@@ -90,6 +94,3 @@ Something's got a hold on me
 It's cheap but it ain't free
 Love or somethin' like it's got a hold on me
 Love or somethin' damn near like it's got a hold on me
-
-
-

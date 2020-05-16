@@ -1,8 +1,11 @@
 ---
+album: Louder Than Words
 artists:
 - Lionel Richie
+external_ids:
+  spotify: spotify:track:5Zz7FKfbJNy0avnbvQp1AL
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-wanna-lose-you-lionel-richie
 lyrics_url: https://genius.com/Lionel-richie-dont-wanna-lose-you-lyrics
 name: Don't Wanna Lose You
@@ -67,6 +70,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1996-07-20'
+release_year: 1996
+runtime: 302333
 ---
 You know what? It's taken me a long time, baby
 To realize how much you mean to me

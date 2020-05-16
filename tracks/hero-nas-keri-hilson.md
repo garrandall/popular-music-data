@@ -1,9 +1,12 @@
 ---
+album: Nas
 artists:
 - Nas
+external_ids:
+  spotify: spotify:track:1NRjLmipYrv39gWoqCl2w2
 features:
 - Keri Hilson
-genres: []
+first_released_as_single: false
 key: hero-nas-keri-hilson
 lyrics_url: https://www.azlyrics.com/lyrics/nas/hero.html
 name: Hero
@@ -12,8 +15,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2008-08-02'
+release_year: 2008
+runtime: 240000
 ---
-
 Chain gleaming
 Switching lanes
 Two-seating
@@ -114,6 +118,3 @@ I'm a hustler in the studio
 Cups of Don Julio
 No matter what the CD called
 I'm unbeatable, y'all
-
-
-

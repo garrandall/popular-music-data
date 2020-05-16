@@ -1,8 +1,11 @@
 ---
+album: Adonis
 artists:
 - How I Became The Bomb
+external_ids:
+  spotify: spotify:track:7D8owkEcXNUzBytQY0QMPj
 features: []
-genres: []
+first_released_as_single: true
 key: ulay-oh-how-i-became-the-bomb
 lyrics_url: https://www.azlyrics.com/lyrics/howibecamethebomb/ulayoh.html
 name: Ulay Oh
@@ -11,8 +14,9 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '2015-06-20'
+release_year: 2015
+runtime: 184734
 ---
-
 There she was like a picture.
 There she was, she was just the same.
 There she was; he just had to know that she had forgot his name.
@@ -60,6 +64,3 @@ There they were like the picture.
 There they were, they were just the same.
 There they were, but he walked away and her eyes could only say
 Ulay, Ulay, Oh.
-
-
-

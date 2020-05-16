@@ -1,8 +1,11 @@
 ---
+album: Regret In Your Tears
 artists:
 - Nicki Minaj
+external_ids:
+  spotify: spotify:track:69DHzDogqO5gh8PCcK5RH3
 features: []
-genres: []
+first_released_as_single: true
 key: regret-in-your-tears-nicki-minaj
 lyrics_url: https://www.azlyrics.com/lyrics/nickiminaj/regretinyourtears.html
 name: Regret In Your Tears
@@ -11,8 +14,9 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '2017-04-01'
+release_year: 2017
+runtime: 229573
 ---
-
 I just wanted memories with you
 
 Regret in your tears, know you taste 'em
@@ -102,6 +106,3 @@ You said you would save me
 You said you would save me
 Hahahaha, rrrrrrrrrrrrrrrrr
 Ohhhh, woooh
-
-
-

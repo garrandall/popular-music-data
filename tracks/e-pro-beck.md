@@ -1,8 +1,11 @@
 ---
+album: Guero
 artists:
 - Beck
+external_ids:
+  spotify: spotify:track:01MBhRpvFkbeRwAp7gcF2W
 features: []
-genres: []
+first_released_as_single: false
 key: e-pro-beck
 lyrics_url: https://genius.com/Beck-e-pro-lyrics
 name: E-Pro
@@ -47,6 +50,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2005-05-28'
+release_year: 2005
+runtime: 202360
 ---
 See me coming to town with my soul
 Straight down out of the world with my fingers

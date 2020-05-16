@@ -1,8 +1,11 @@
 ---
+album: 'The R. In R&B Collection: Volume 1'
 artists:
 - R. Kelly
+external_ids:
+  spotify: spotify:track:6WG40ncKwqhFK9iprJV0Kb
 features: []
-genres: []
+first_released_as_single: false
 key: the-world-s-greatest-r--kelly
 lyrics_url: https://genius.com/R-kelly-the-worlds-greatest-lyrics
 name: The World's Greatest
@@ -79,6 +82,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2002-04-27'
+release_year: 2001
+runtime: 235264
 ---
 It's the world's greatest, y'all
 It's the world's greatest

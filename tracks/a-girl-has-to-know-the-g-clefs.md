@@ -1,8 +1,11 @@
 ---
+album: The G Clefs
 artists:
 - The G-Clefs
+external_ids:
+  spotify: spotify:track:4bDfHzfDotB2o3y4AetBN0
 features: []
-genres: []
+first_released_as_single: false
 key: a-girl-has-to-know-the-g-clefs
 name: A Girl Has To Know
 rankings:
@@ -26,5 +29,7 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1962-04-07'
+release_year: 1962
+runtime: 158014
 ---
 

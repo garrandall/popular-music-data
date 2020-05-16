@@ -1,8 +1,11 @@
 ---
+album: Stoney End
 artists:
 - Barbra Streisand
+external_ids:
+  spotify: spotify:track:7Kwx7LqHMKWrhZ5DDjWj5a
 features: []
-genres: []
+first_released_as_single: false
 key: time-and-love-barbra-streisand
 lyrics_url: https://genius.com/Barbra-streisand-time-and-love-lyrics
 name: Time And Love
@@ -35,6 +38,8 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '1971-05-01'
+release_year: 1971
+runtime: 217600
 ---
 Winter froze the river
 And winter birds don't sing

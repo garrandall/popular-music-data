@@ -1,8 +1,11 @@
 ---
+album: Dickie Goodman Greatest Hits
 artists:
 - Dickie Goodman
+external_ids:
+  spotify: spotify:track:5wpXamOU7NbYiSxch3bhXV
 features: []
-genres: []
+first_released_as_single: false
 key: batman---his-grandmother-dickie-goodman
 name: Batman & His Grandmother
 rankings:
@@ -18,5 +21,7 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '1966-06-11'
+release_year: 1966
+runtime: 165680
 ---
 

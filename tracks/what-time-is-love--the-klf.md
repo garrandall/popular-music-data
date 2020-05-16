@@ -1,8 +1,11 @@
 ---
+album: The Works
 artists:
 - The KLF
+external_ids:
+  spotify: spotify:track:2aS9u5Bh0PkoeDamlXYDxE
 features: []
-genres: []
+first_released_as_single: true
 key: what-time-is-love--the-klf
 lyrics_url: https://genius.com/The-klf-what-time-is-love-lyrics
 name: What Time Is Love?
@@ -55,6 +58,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1992-01-11'
+release_year: 1991
+runtime: 214320
 ---
 Spoken: In the year of our Lord Nine Ninety-Two, the Justified Ancients of Mu Mu set sail in their long boats on a voyage to rediscover the lost continent. After many months on perilous, stormy seas, their search was fruitless. Just when all seemed lost, they discovered AMERICA! The music you are about to experience is the celebration of the one thousandth anniversary of their founding of this great nation
 

@@ -1,8 +1,11 @@
 ---
+album: The Downward Spiral
 artists:
 - Nine Inch Nails
+external_ids:
+  spotify: spotify:track:2oDqmfa2g8W893LlwJG1qu
 features: []
-genres: []
+first_released_as_single: false
 key: closer-nine-inch-nails
 lyrics_url: https://www.azlyrics.com/lyrics/nineinchnails/closer.html
 name: Closer
@@ -95,8 +98,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1994-11-05'
+release_year: 1994
+runtime: 373000
 ---
-
 You let me violate you, you let me desecrate you
 You let me penetrate you, you let me complicate you
 
@@ -125,6 +129,3 @@ Through every forest, above the trees
 Within my stomach, scraped off my knees
 I drink the honey inside your hive
 You are the reason I stay alive
-
-
-

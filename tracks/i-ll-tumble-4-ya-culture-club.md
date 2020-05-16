@@ -1,8 +1,11 @@
 ---
+album: BBC In Concert
 artists:
 - Culture Club
+external_ids:
+  spotify: spotify:track:3ymgqLL67WOOB6wi15OH64
 features: []
-genres: []
+first_released_as_single: false
 key: i-ll-tumble-4-ya-culture-club
 lyrics_url: https://www.musixmatch.com/lyrics/Culture-Club/I-ll-Tumble-4-Ya
 name: I'll Tumble 4 Ya
@@ -71,6 +74,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1983-10-15'
+release_year: 1982
+runtime: 172245
 ---
 Downtown we'll drown
 We're in our never splendor

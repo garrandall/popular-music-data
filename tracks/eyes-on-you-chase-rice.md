@@ -1,8 +1,11 @@
 ---
+album: Lambs & Lions
 artists:
 - Chase Rice
+external_ids:
+  spotify: spotify:track:5AnSllIrgGsCZzZJkVnApx
 features: []
-genres: []
+first_released_as_single: false
 key: eyes-on-you-chase-rice
 lyrics_url: https://genius.com/Chase-rice-eyes-on-you-lyrics
 name: Eyes On You
@@ -87,6 +90,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2019-07-13'
+release_year: 2017
+runtime: 182493
 ---
 We've been to both Carolinas
 Seen a big Montana sky

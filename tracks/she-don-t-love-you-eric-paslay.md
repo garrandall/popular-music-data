@@ -1,8 +1,11 @@
 ---
+album: Eric Paslay
 artists:
 - Eric Paslay
+external_ids:
+  spotify: spotify:track:1B17jo7XD3lJ9AtrdE9kUd
 features: []
-genres: []
+first_released_as_single: false
 key: she-don-t-love-you-eric-paslay
 lyrics_url: https://genius.com/Eric-paslay-she-dont-love-you-lyrics
 name: She Don't Love You
@@ -55,6 +58,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2015-06-06'
+release_year: 2014
+runtime: 262053
 ---
 She don't love you, she's just lonely
 She wasn't once upon a time

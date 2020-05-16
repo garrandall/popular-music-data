@@ -1,8 +1,11 @@
 ---
+album: Hozier
 artists:
 - Hozier
+external_ids:
+  spotify: spotify:track:7J4gq1xNP3IsG6lDk0eSa7
 features: []
-genres: []
+first_released_as_single: true
 key: take-me-to-church-hozier
 lyrics_url: https://www.azlyrics.com/lyrics/hozier/takemetochurch.html
 name: Take Me To Church
@@ -171,8 +174,9 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2015-06-06'
+release_year: 2013
+runtime: 241586
 ---
-
 My lover's got humour
 She's the giggle at a funeral
 Knows everybody's disapproval
@@ -252,6 +256,3 @@ I'll worship like a dog at the shrine of your lies
 I'll tell you my sins so you can sharpen your knife
 Offer me that deathless death
 Good God, let me give you my life
-
-
-

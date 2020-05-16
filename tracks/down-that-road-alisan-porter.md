@@ -1,8 +1,11 @@
 ---
+album: The Complete Season 10 Collection (The Voice Performance)
 artists:
 - Alisan Porter
+external_ids:
+  spotify: spotify:track:3sS03NvxbrVgFNZgvnR26k
 features: []
-genres: []
+first_released_as_single: false
 key: down-that-road-alisan-porter
 lyrics_url: https://genius.com/Alisan-porter-down-that-road-lyrics
 name: Down That Road
@@ -11,6 +14,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2016-06-11'
+release_year: 2016
+runtime: 232826
 ---
 If you wanna give up, take a chance
 When the party’s over, you should have the last dance

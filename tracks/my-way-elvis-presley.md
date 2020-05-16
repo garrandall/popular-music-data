@@ -1,8 +1,11 @@
 ---
+album: Elvis for Everyone!
 artists:
 - Elvis Presley
+external_ids:
+  spotify: spotify:track:4tP9ok5fgvS30BZGOG8QQx
 features: []
-genres: []
+first_released_as_single: false
 key: my-way-elvis-presley
 lyrics_url: https://www.musixmatch.com/lyrics/Elvis-Presley/My-Way
 name: My Way
@@ -55,6 +58,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1978-01-28'
+release_year: 1965
+runtime: 82853
 ---
 And now the end is near
 So I face the final curtain

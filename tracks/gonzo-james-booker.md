@@ -1,8 +1,11 @@
 ---
+album: Spiders On The Keys (Live At The Maple Leaf Bar, New Orleans, LA / 1977-1982)
 artists:
 - James Booker
+external_ids:
+  spotify: spotify:track:41xPuqQiXM6IiTqAfjhzWs
 features: []
-genres: []
+first_released_as_single: false
 key: gonzo-james-booker
 name: Gonzo
 rankings:
@@ -50,5 +53,7 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '1961-01-16'
+release_year: 1960
+runtime: 240600
 ---
 

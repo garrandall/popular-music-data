@@ -1,8 +1,11 @@
 ---
+album: The Key
 artists:
 - Joan Armatrading
+external_ids:
+  spotify: spotify:track:72YATNrv9D0QIVgOURyTFg
 features: []
-genres: []
+first_released_as_single: false
 key: drop-the-pilot-joan-armatrading
 lyrics_url: https://www.azlyrics.com/lyrics/joanarmatrading/dropthepilot.html
 name: Drop The Pilot
@@ -31,8 +34,9 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1983-07-02'
+release_year: 1983
+runtime: 221986
 ---
-
 I'm right on target, my aim is straight
 So you're in love, I say what of it?
 Things can change, there's always changes
@@ -84,6 +88,3 @@ I'm the one you need
 Drop the pilot
 Drop the pilot
 Drop the pilot
-
-
-

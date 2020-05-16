@@ -1,8 +1,11 @@
 ---
+album: Footloose
 artists:
 - Shalamar
+external_ids:
+  spotify: spotify:track:0Q7aj2T90BmSCv2fLyUkTJ
 features: []
-genres: []
+first_released_as_single: false
 key: dancing-in-the-sheets-shalamar
 lyrics_url: https://www.azlyrics.com/lyrics/shalamar/dancinginthesheets.html
 name: Dancing In The Sheets
@@ -79,8 +82,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1984-07-14'
+release_year: 1984
+runtime: 244733
 ---
-
 I caught you smiling
 I know I've seen you here before
 How come you're hiding
@@ -124,6 +128,3 @@ You and me we should be dancing in the sheets
 (Dancing in the sheets)
 (Dancing in the sheets)
 (Dancing in the sheets)
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: 'Back to Back: The Vogues & The Equals'
 artists:
 - The Equals
+external_ids:
+  spotify: spotify:track:6cuDnES75yMXCRn3WZ504C
 features: []
-genres: []
+first_released_as_single: false
 key: baby-come-back-the-equals
 lyrics_url: https://genius.com/The-equals-baby-come-back-lyrics
 name: Baby Come Back
@@ -43,6 +46,8 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '1968-11-02'
+release_year: 1968
+runtime: 148400
 ---
 Come back
 Baby, come back

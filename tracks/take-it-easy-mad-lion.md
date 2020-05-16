@@ -1,8 +1,11 @@
 ---
+album: Real Ting
 artists:
 - Mad Lion
+external_ids:
+  spotify: spotify:track:1qSDJsBY9Imydpo0KvHQPd
 features: []
-genres: []
+first_released_as_single: false
 key: take-it-easy-mad-lion
 lyrics_url: https://genius.com/Mad-lion-take-it-easy-lyrics
 name: Take It Easy
@@ -87,6 +90,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1994-12-10'
+release_year: 1994
+runtime: 274373
 ---
 Too many suckers and not enough time
 To buck up all of dem with one clip from mi 9

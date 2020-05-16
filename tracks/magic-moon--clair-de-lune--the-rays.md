@@ -1,8 +1,11 @@
 ---
+album: Doo-Wop - The Golden Age 1956-1963
 artists:
 - The Rays
+external_ids:
+  spotify: spotify:track:4lD1obJ7EeHuKwpKJHIPIr
 features: []
-genres: []
+first_released_as_single: false
 key: magic-moon--clair-de-lune--the-rays
 lyrics_url: https://www.musixmatch.com/lyrics/The-Rays/Magic-Moon
 name: Magic Moon (Clair De Lune)
@@ -39,6 +42,8 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1961-10-02'
+release_year: 1961
+runtime: 174612
 ---
 Magic moon
 Clair de Lune

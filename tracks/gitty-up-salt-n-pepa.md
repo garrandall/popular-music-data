@@ -1,8 +1,11 @@
 ---
+album: Brand New
 artists:
 - Salt-N-Pepa
+external_ids:
+  spotify: spotify:track:6718y0qpvbnPu57XfuaIaS
 features: []
-genres: []
+first_released_as_single: false
 key: gitty-up-salt-n-pepa
 lyrics_url: https://www.azlyrics.com/lyrics/saltnpepa/gittyup.html
 name: Gitty Up
@@ -63,9 +66,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1998-06-27'
+release_year: 1997
+runtime: 240600
 ---
-
-
 You can buy that
 Full of bass and hi-hat
 You can buy that
@@ -162,6 +165,3 @@ You can buy that
 Full of bass and hi-hat
 You can buy that
 Full of bass and hi-hat
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Street Gossip
 artists:
 - Lil Baby
+external_ids:
+  spotify: spotify:track:7cW1wHpSLYgKWzoWlOCPFJ
 features: []
-genres: []
+first_released_as_single: false
 key: global-lil-baby
 lyrics_url: https://genius.com/Lil-baby-global-lyrics
 name: Global
@@ -11,6 +14,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2018-12-15'
+release_year: 2018
+runtime: 169826
 ---
 We global now
 

@@ -1,8 +1,11 @@
 ---
+album: Arthur
 artists:
 - The Kinks
+external_ids:
+  spotify: spotify:track:34UnzNK51PfiYFrEgc9lrD
 features: []
-genres: []
+first_released_as_single: false
 key: victoria-the-kinks
 lyrics_url: https://www.azlyrics.com/lyrics/kinks/victoria.html
 name: Victoria
@@ -43,8 +46,9 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1970-03-28'
+release_year: 1969
+runtime: 220053
 ---
-
 Long ago life was clean
 Sex was bad and obscene
 And the rich were so mean
@@ -77,6 +81,3 @@ From the rich to the poor
 Victoria loved them all
 Victoria, Victoria, Victoria, 'toria
 Victoria, Victoria, Victoria
-
-
-

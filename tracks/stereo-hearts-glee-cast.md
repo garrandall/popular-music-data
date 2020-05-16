@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music, The Complete Season Three'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:3w0kbTGhBX8cvlQ7y8nPFb
 features: []
-genres: []
+first_released_as_single: false
 key: stereo-hearts-glee-cast
 lyrics_url: https://www.azlyrics.com/lyrics/gleecast/stereohearts.html
 name: Stereo Hearts
@@ -11,9 +14,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2012-03-03'
+release_year: 2012
+runtime: 211800
 ---
-
-
 My heart's a stereo
 It beats for you, so listen close
 Hear my thoughts in every no-o-ote
@@ -132,6 +135,3 @@ So sing along to my stereo!
 
 
 Yeah!
-
-
-

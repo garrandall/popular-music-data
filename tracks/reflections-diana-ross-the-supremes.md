@@ -1,9 +1,12 @@
 ---
+album: Reflections
 artists:
 - Diana Ross
 - The Supremes
+external_ids:
+  spotify: spotify:track:4yChgYDVcQrAgIEIErW27b
 features: []
-genres: []
+first_released_as_single: false
 key: reflections-diana-ross-the-supremes
 lyrics_url: https://www.musixmatch.com/lyrics/Diana-Ross/Reflections-feat-The-Supremes
 name: Reflections
@@ -52,6 +55,8 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '1967-10-21'
+release_year: 1967
+runtime: 169893
 ---
 Through the mirror of my mind
 Time after time, I see reflections of you and me

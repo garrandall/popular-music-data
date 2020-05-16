@@ -1,9 +1,12 @@
 ---
+album: Cry Baby
 artists:
 - Garnet Mimms
 - The Enchanters
+external_ids:
+  spotify: spotify:track:5G0yErsdIKfplod526gygr
 features: []
-genres: []
+first_released_as_single: false
 key: cry-baby-garnet-mimms-the-enchanters
 lyrics_url: https://genius.com/Garnet-mimms-and-the-enchanters-cry-baby-lyrics
 name: Cry Baby
@@ -64,6 +67,8 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '1963-11-16'
+release_year: 1963
+runtime: 208706
 ---
 CRY BABY
 Garnet Mimms & the Enchanters

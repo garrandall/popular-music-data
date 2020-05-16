@@ -1,9 +1,12 @@
 ---
+album: Here I Am (Deluxe Version)
 artists:
 - Kelly Rowland
+external_ids:
+  spotify: spotify:track:4Cv5dkUBqepa0siwGREihD
 features:
 - Lil Wayne
-genres: []
+first_released_as_single: true
 key: motivation-kelly-rowland-lil-wayne
 lyrics_url: https://www.azlyrics.com/lyrics/kellyrowland/motivation.html
 name: Motivation
@@ -108,9 +111,9 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '2011-10-15'
+release_year: 2011
+runtime: 231173
 ---
-
-
 Go, go, go, go
 
 
@@ -179,6 +182,3 @@ You can do it, I believe in you baby
 So close from here
 
 Baby I'mma be your motivation
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: A's, B's & EP's
 artists:
 - Freddie And The Dreamers
+external_ids:
+  spotify: spotify:track:6rZHBTO3axCN9zxK4nhfPE
 features: []
-genres: []
+first_released_as_single: false
 key: you-were-made-for-me-freddie-and-the-dreamers
 lyrics_url: https://genius.com/Freddie-and-the-dreamers-you-were-made-for-me-lyrics
 name: You Were Made For Me
@@ -35,6 +38,8 @@ rankings:
   rank: 38
   ranking_list: Billboard Hot 100
   start_date: '1965-06-12'
+release_year: 1965
+runtime: 139773
 ---
 You were made for me (you were made for me)
 Everybody tells me so

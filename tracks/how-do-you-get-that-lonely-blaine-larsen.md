@@ -1,8 +1,11 @@
 ---
+album: Off To Join The World
 artists:
 - Blaine Larsen
+external_ids:
+  spotify: spotify:track:2mNyaFPEYz4Wg4jjekQr5k
 features: []
-genres: []
+first_released_as_single: true
 key: how-do-you-get-that-lonely-blaine-larsen
 lyrics_url: https://www.azlyrics.com/lyrics/blainelarsen/howdoyougetthatlonely.html
 name: How Do You Get That Lonely
@@ -35,8 +38,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2005-04-30'
+release_year: 2004
+runtime: 244133
 ---
-
 It was just another story printed on the second page
 Underneath the Tiger's football score
 It said he was only eighteen, a boy about my age
@@ -67,6 +71,3 @@ How do you get that lonely... and nobody knows
 
 It was just another story printed on the second page
 Underneath the Tiger's football score...
-
-
-

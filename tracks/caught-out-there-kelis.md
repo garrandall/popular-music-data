@@ -1,8 +1,11 @@
 ---
+album: Kaleidoscope
 artists:
 - Kelis
+external_ids:
+  spotify: spotify:track:1nZkrUFLq265za9lofFO3p
 features: []
-genres: []
+first_released_as_single: false
 key: caught-out-there-kelis
 lyrics_url: https://www.azlyrics.com/lyrics/kelis/caughtoutthere.html
 name: Caught Out There
@@ -55,8 +58,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2000-02-19'
+release_year: 1999
+runtime: 291706
 ---
-
 Yo, yo
 Yo, this song, yo
 This song is for all the women out there
@@ -137,4 +141,3 @@ You keep tellin' me lies
 But to your surprise
 Look, I got somethin' for y'all
 Since you're caught out there
-

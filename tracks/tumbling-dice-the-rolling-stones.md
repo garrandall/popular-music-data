@@ -1,8 +1,11 @@
 ---
+album: Exile On Main Street (2010 Re-Mastered)
 artists:
 - The Rolling Stones
+external_ids:
+  spotify: spotify:track:4hq0S6wznq7SHDyMOFXL9i
 features: []
-genres: []
+first_released_as_single: false
 key: tumbling-dice-the-rolling-stones
 lyrics_url: https://www.azlyrics.com/lyrics/rollingstones/tumblingdice.html
 name: Tumbling Dice
@@ -47,8 +50,9 @@ rankings:
   rank: 33
   ranking_list: Billboard Hot 100
   start_date: '1972-07-01'
+release_year: 1972
+runtime: 226333
 ---
-
 Women think I'm tasty, but they're always tryin' to waste me
 And make me burn the candle right down,
 But baby, baby, I don't need no jewels in my crown.
@@ -74,6 +78,3 @@ Baby, can't stay,
 You got to roll me and call me the tumblin' (dice),
 Roll me and call me the tumblin' (Got to roll me.) dice.
 Got to roll me. Got to roll me.
-
-
-

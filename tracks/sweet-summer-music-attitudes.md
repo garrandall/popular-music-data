@@ -1,8 +1,11 @@
 ---
+album: 'Ain''t Love Enough: The Best of Attitudes'
 artists:
 - Attitudes
+external_ids:
+  spotify: spotify:track:0xy2xsmHwOFteY68MUbqIr
 features: []
-genres: []
+first_released_as_single: false
 key: sweet-summer-music-attitudes
 name: Sweet Summer Music
 rankings:
@@ -30,5 +33,7 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1976-10-09'
+release_year: 1976
+runtime: 224053
 ---
 

@@ -1,8 +1,11 @@
 ---
+album: Tal Bachman
 artists:
 - Tal Bachman
+external_ids:
+  spotify: spotify:track:7mnGQesk1TzQLzQ9bYWZPR
 features: []
-genres: []
+first_released_as_single: false
 key: she-s-so-high-tal-bachman
 lyrics_url: https://genius.com/Tal-bachman-shes-so-high-lyrics
 name: She's So High
@@ -119,6 +122,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1999-12-25'
+release_year: 1999
+runtime: 224693
 ---
 She's blood, flesh, and bone
 No tucks or silicone

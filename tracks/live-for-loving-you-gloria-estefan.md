@@ -1,8 +1,11 @@
 ---
+album: Into The Light
 artists:
 - Gloria Estefan
+external_ids:
+  spotify: spotify:track:6eT8JIrp1I3N6UfzXSnFhU
 features: []
-genres: []
+first_released_as_single: false
 key: live-for-loving-you-gloria-estefan
 lyrics_url: https://www.azlyrics.com/lyrics/gloriaestefan/liveforlovingyou.html
 name: Live For Loving You
@@ -87,8 +90,9 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '1992-02-22'
+release_year: 1991
+runtime: 276893
 ---
-
 Oh, la, la, la, la, la, la, la, la, la, la, la, la, la, la
 
 Lying awake I turn to you as you are softly sleeping.
@@ -116,6 +120,3 @@ It would never cross my mind to find another lover.
 Be no other.
 I, just touching you I'm satisfied, oh why,
 I wonder, wonder, wonder why.
-
-
-

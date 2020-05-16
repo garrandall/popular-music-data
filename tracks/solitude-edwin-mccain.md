@@ -1,8 +1,11 @@
 ---
+album: Solitude
 artists:
 - Edwin McCain
+external_ids:
+  spotify: spotify:track:1GGIkudcA6fOchkqUsXZmm
 features: []
-genres: []
+first_released_as_single: false
 key: solitude-edwin-mccain
 lyrics_url: https://www.azlyrics.com/lyrics/edwinmccain/solitude.html
 name: Solitude
@@ -87,8 +90,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1996-02-17'
+release_year: 1992
+runtime: 255266
 ---
-
 Tim he was a good friend
 Yeah was a brother of mine
 We were imaginary comic book super heroes
@@ -137,6 +141,3 @@ My clouded broken mind
 But excuse me if I seem a little rude
 While I was missing my childhood, my brother and my prime
 You enjoyed the convenience of my solitude
-
-
-

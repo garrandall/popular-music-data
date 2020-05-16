@@ -1,8 +1,12 @@
 ---
+album: It's A Man's Man's Man's World
 artists:
-- James Brown And The Famous Flames
-features: []
-genres: []
+- James Brown
+external_ids:
+  spotify: spotify:track:3SQ9Hb9rfpJ02AWfaOPhpy
+features:
+- The Famous Flames
+first_released_as_single: false
 key: it-s-a-man-s-man-s-man-s-world-james-brown-and-the-famous-flames
 lyrics_url: https://genius.com/James-brown-and-the-famous-flames-its-a-mans-mans-mans-world-lyrics
 name: It's A Man's Man's Man's World
@@ -43,6 +47,8 @@ rankings:
   rank: 33
   ranking_list: Billboard Hot 100
   start_date: '1966-06-25'
+release_year: 1966
+runtime: 167373
 ---
 This is a man's world
 This is a man's world

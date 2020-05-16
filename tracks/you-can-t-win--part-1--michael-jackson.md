@@ -1,8 +1,11 @@
 ---
+album: The Wiz
 artists:
 - Michael Jackson
+external_ids:
+  spotify: spotify:track:33rSpP9IqDK1AfpxwAgS6t
 features: []
-genres: []
+first_released_as_single: false
 key: you-can-t-win--part-1--michael-jackson
 lyrics_url: https://genius.com/Michael-jackson-you-cant-win-annotated
 name: You Can't Win (Part 1)
@@ -19,6 +22,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1979-03-10'
+release_year: 1978
+runtime: 193693
 ---
 You can't win, you can't break even
 And you can't get out of the game

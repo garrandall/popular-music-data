@@ -1,8 +1,11 @@
 ---
+album: High School Musical
 artists:
 - High School Musical Cast
+external_ids:
+  spotify: spotify:track:5aNagthlHAudbDZozQMjYP
 features: []
-genres: []
+first_released_as_single: false
 key: stick-to-the-status-quo-high-school-musical-cast
 lyrics_url: https://www.azlyrics.com/lyrics/highschoolmusicalcast/sticktothestatusquo.html
 name: Stick To The Status Quo
@@ -15,9 +18,9 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '2006-02-18'
+release_year: 2006
+runtime: 268413
 ---
-
-
 You can bet there's nothing but net
 When I am in a zone and on a roll
 But I've got a confession, my own secret obsession
@@ -39,7 +42,7 @@ I love to bake! Strudels, scones, even apple pan dowdy!
 Not another sound
 
 
-Someday I hope to make the perfect crÃªme brÃ»lÃ©e!
+Someday I hope to make the perfect crÃªme brÃ»lée!
 
 
 No, no, no, no...
@@ -163,7 +166,7 @@ She has got to go
 We can do it
 
 
-CrÃªme brÃ»lÃ©e?
+CrÃªme brÃ»lée?
 
 
 Keep your voice down low
@@ -199,6 +202,3 @@ Don't mess with the flow, no no
 Don't you stick to the status. No!
 Stick to the status. No!
 Stick to the status quo
-
-
-

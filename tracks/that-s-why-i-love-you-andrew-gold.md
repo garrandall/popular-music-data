@@ -1,8 +1,11 @@
 ---
+album: Andrew Gold
 artists:
 - Andrew Gold
+external_ids:
+  spotify: spotify:track:5SY02PzNZUfrWUF4ujG4Mz
 features: []
-genres: []
+first_released_as_single: false
 key: that-s-why-i-love-you-andrew-gold
 lyrics_url: https://www.azlyrics.com/lyrics/andrewgold/thatswhyiloveyou.html
 name: That's Why I Love You
@@ -27,8 +30,9 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '1976-01-31'
+release_year: 1975
+runtime: 190760
 ---
-
 I'm a robin sitting in a tree
 Singing for you, darling, endlessly
 Inspiration's got a hold on me
@@ -68,6 +72,3 @@ It's the smile on your face
 It's your style and your grace
 And that's why, that's why
 I love you
-
-
-

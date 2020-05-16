@@ -1,8 +1,11 @@
 ---
+album: Body Wishes
 artists:
 - Rod Stewart
+external_ids:
+  spotify: spotify:track:1wrT33b6HuKlpk9ziscEUY
 features: []
-genres: []
+first_released_as_single: false
 key: baby-jane-rod-stewart
 lyrics_url: https://www.azlyrics.com/lyrics/rodstewart/babyjane.html
 name: Baby Jane
@@ -63,8 +66,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1983-08-27'
+release_year: 1983
+runtime: 283493
 ---
-
 Baby Jane don't leave me hanging on the line
 I knew you when you had no one to talk to
 Now you're moving in high society
@@ -112,6 +116,3 @@ When I fall in love next time
 I know it's gonna last forever
 I won't be that dumb again
 I know it'll last forever
-
-
-

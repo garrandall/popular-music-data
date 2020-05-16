@@ -1,8 +1,11 @@
 ---
+album: Celebration (Bonus Track Version)
 artists:
 - Madonna
+external_ids:
+  spotify: spotify:track:4UxwYemXGK39SdkE6q7hoj
 features: []
-genres: []
+first_released_as_single: true
 key: celebration-madonna
 lyrics_url: https://genius.com/Madonna-celebration-lyrics
 name: Celebration
@@ -11,6 +14,8 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '2009-08-22'
+release_year: 2009
+runtime: 238733
 ---
 I think you wanna come over
 Yeah, I heard it through the grapevine

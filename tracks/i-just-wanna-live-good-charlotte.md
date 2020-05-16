@@ -1,8 +1,11 @@
 ---
+album: The Chronicles of Life and Death ("LIFE" version)
 artists:
 - Good Charlotte
+external_ids:
+  spotify: spotify:track:5TjwiYZVMHVrGvRzbeCaV7
 features: []
-genres: []
+first_released_as_single: false
 key: i-just-wanna-live-good-charlotte
 lyrics_url: https://genius.com/Good-charlotte-i-just-wanna-live-lyrics
 name: I Just Wanna Live
@@ -39,6 +42,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2005-04-02'
+release_year: 2004
+runtime: 166053
 ---
 I need an alarm system in my house
 So I know when people are

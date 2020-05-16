@@ -1,8 +1,11 @@
 ---
+album: Dear Life
 artists:
 - High Valley
+external_ids:
+  spotify: spotify:track:2p2cCrOaNrIOLk5ArtlHy6
 features: []
-genres: []
+first_released_as_single: false
 key: she-s-with-me-high-valley
 lyrics_url: https://genius.com/High-valley-shes-with-me-lyrics
 name: She's With Me
@@ -39,6 +42,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2018-04-28'
+release_year: 2016
+runtime: 180301
 ---
 When the devil's knocking at my door
 When I'm broken and I'm battle worn

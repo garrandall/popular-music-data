@@ -1,8 +1,11 @@
 ---
+album: The Dreamer
 artists:
 - Blake Shelton
+external_ids:
+  spotify: spotify:track:3ABB9ZDbKhAH5iBYp4bE4x
 features: []
-genres: []
+first_released_as_single: false
 key: the-baby-blake-shelton
 lyrics_url: https://genius.com/Blake-shelton-the-baby-lyrics
 name: The Baby
@@ -87,6 +90,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2003-04-19'
+release_year: 2002
+runtime: 234733
 ---
 My brother said that I
 Was rotten to the core

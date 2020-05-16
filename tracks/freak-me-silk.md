@@ -1,8 +1,11 @@
 ---
+album: Lose Control
 artists:
 - Silk
+external_ids:
+  spotify: spotify:track:5CdJveJgiGXoGwDFqF6afp
 features: []
-genres: []
+first_released_as_single: false
 key: freak-me-silk
 lyrics_url: https://genius.com/Silk-freak-me-lyrics
 name: Freak Me
@@ -103,6 +106,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1993-07-31'
+release_year: 1992
+runtime: 274533
 ---
 Freak me, baby (Ah, yeah)
 Freak me, baby (Mmm, just like that)

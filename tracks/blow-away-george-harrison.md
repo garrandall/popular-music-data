@@ -1,8 +1,11 @@
 ---
+album: George Harrison
 artists:
 - George Harrison
+external_ids:
+  spotify: spotify:track:67F9MFQj4YZG2i0V0HCMUs
 features: []
-genres: []
+first_released_as_single: false
 key: blow-away-george-harrison
 lyrics_url: https://www.azlyrics.com/lyrics/georgeharrison/blowaway.html
 name: Blow Away
@@ -63,8 +66,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1979-06-02'
+release_year: 1979
+runtime: 240680
 ---
-
 Day turned black, sky ripped apart
 Rained for a year 'til it dampened my heart
 Cracks and leaks
@@ -98,6 +102,3 @@ All I got to do is to love you
 All I got to be is, be happy
 All it's got to take is some warmth to make it
 Blow Away, Blow Away, Blow Away.
-
-
-

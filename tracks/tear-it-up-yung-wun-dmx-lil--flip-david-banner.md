@@ -1,11 +1,14 @@
 ---
+album: The Dirtiest Thirstiest
 artists:
 - Yung Wun
+external_ids:
+  spotify: spotify:track:7tSFBes4JG1eMBukE9ZJPs
 features:
 - DMX
 - Lil' Flip
 - David Banner
-genres: []
+first_released_as_single: true
 key: tear-it-up-yung-wun-dmx-lil--flip-david-banner
 lyrics_url: https://www.azlyrics.com/lyrics/yungwun/tearitup.html
 name: Tear It Up
@@ -62,9 +65,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2004-07-17'
+release_year: 2004
+runtime: 205026
 ---
-
-
 Yea, DMX
 Straight out of ATL
 Ya' Mean
@@ -125,4 +128,3 @@ Get it crunk in this,
 Set it Off in this thing,
 We sittin here leanin' by tha bar
 Didn't know we drunk in this thing
-

@@ -1,8 +1,11 @@
 ---
+album: Heads & Tales
 artists:
 - Harry Chapin
+external_ids:
+  spotify: spotify:track:7qnxmC6qdYkjcoCJCeD8Jx
 features: []
-genres: []
+first_released_as_single: false
 key: taxi-harry-chapin
 lyrics_url: https://www.azlyrics.com/lyrics/harrychapin/taxi.html
 name: Taxi
@@ -71,8 +74,9 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1972-06-24'
+release_year: 1972
+runtime: 406146
 ---
-
 It was raining hard in 'Frisco
 I needed one more fare to make my night
 A lady up ahead waved to flag me down
@@ -154,6 +158,3 @@ Inside her handsome home
 And me, I'm flying in my taxi
 Taking tips, and getting stoned
 I go flying so high, when I'm stoned
-
-
-

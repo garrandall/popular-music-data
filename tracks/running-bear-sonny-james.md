@@ -1,8 +1,11 @@
 ---
+album: The Cat Came Back
 artists:
 - Sonny James
+external_ids:
+  spotify: spotify:track:6wkrULQ7AzurQ0KpXzFDbH
 features: []
-genres: []
+first_released_as_single: false
 key: running-bear-sonny-james
 lyrics_url: https://genius.com/Sonny-james-running-bear-lyrics
 name: Running Bear
@@ -15,6 +18,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1969-06-07'
+release_year: 1969
+runtime: 165893
 ---
 On the bank of the river stood Running Bear, young Indian brave
 On the other side of the river stood his lovely Indian maid

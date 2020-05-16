@@ -1,8 +1,11 @@
 ---
+album: Luther Vandross
 artists:
 - Luther Vandross
+external_ids:
+  spotify: spotify:track:2I1NVzd3y14jsxNq1qmHJf
 features: []
-genres: []
+first_released_as_single: false
 key: i-d-rather-luther-vandross
 lyrics_url: https://genius.com/Luther-vandross-id-rather-lyrics
 name: I'd Rather
@@ -87,6 +90,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2003-03-08'
+release_year: 1990
+runtime: 251266
 ---
 I thought sometime alone
 Was what we really needed

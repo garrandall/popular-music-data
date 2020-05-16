@@ -1,8 +1,11 @@
 ---
+album: 5th Gear
 artists:
 - Brad Paisley
+external_ids:
+  spotify: spotify:track:7wqMZWYeBxJt0obQPnF5NX
 features: []
-genres: []
+first_released_as_single: false
 key: letter-to-me-brad-paisley
 lyrics_url: https://www.azlyrics.com/lyrics/bradpaisley/lettertome.html
 name: Letter To Me
@@ -87,8 +90,9 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '2008-04-12'
+release_year: 2007
+runtime: 280826
 ---
-
 If I could write a letter to me
 And send it back in time to myself at 17
 First I'd prove it's me by saying, "Look under your bed:
@@ -148,6 +152,3 @@ I'd say have a little faith and you'll see
 
 If I could write a letter to me
 To me
-
-
-

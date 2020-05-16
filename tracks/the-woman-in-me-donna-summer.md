@@ -1,8 +1,11 @@
 ---
+album: Donna Summer
 artists:
 - Donna Summer
+external_ids:
+  spotify: spotify:track:1us6rhbK0n0V5EU8aqqauF
 features: []
-genres: []
+first_released_as_single: false
 key: the-woman-in-me-donna-summer
 lyrics_url: https://www.azlyrics.com/lyrics/donnasummer/thewomaninme.html
 name: The Woman In Me
@@ -71,9 +74,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1983-04-02'
+release_year: 1982
+runtime: 235773
 ---
-
-
 You know baby
 I'm so happy to be here you and I
 And I just wanna let you know
@@ -140,6 +143,3 @@ It's so easy with you
 To be the woman in me
 It's so easy with you
 To be the woman in me
-
-
-

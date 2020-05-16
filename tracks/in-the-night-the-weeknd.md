@@ -1,8 +1,11 @@
 ---
+album: Beauty Behind The Madness
 artists:
 - The Weeknd
+external_ids:
+  spotify: spotify:track:25KybV9BOUlvcnv7nN3Pyo
 features: []
-genres: []
+first_released_as_single: false
 key: in-the-night-the-weeknd
 lyrics_url: https://genius.com/The-weeknd-in-the-night-lyrics
 name: In The Night
@@ -87,6 +90,8 @@ rankings:
   rank: 52
   ranking_list: Billboard Hot 100
   start_date: '2016-04-09'
+release_year: 2015
+runtime: 235653
 ---
 All alone, she was livin'
 In a world without an end or beginnin'

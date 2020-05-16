@@ -1,8 +1,11 @@
 ---
+album: Wives And Lovers
 artists:
 - Jack Jones
+external_ids:
+  spotify: spotify:track:6DiFQ4RjszH5cKbKjJQ2Bs
 features: []
-genres: []
+first_released_as_single: false
 key: toys-in-the-attic-jack-jones
 lyrics_url: https://genius.com/Jack-jones-toys-in-the-attic-lyrics
 name: Toys In The Attic
@@ -11,6 +14,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1963-10-05'
+release_year: 1963
+runtime: 172360
 ---
 A time for memories returning
 A time for heartache and yearning

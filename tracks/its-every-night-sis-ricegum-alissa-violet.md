@@ -1,9 +1,12 @@
 ---
+album: Its Every Night Sis
 artists:
 - RiceGum
+external_ids:
+  spotify: spotify:track:15Uxmx6D6hW0gY5kc7bpqU
 features:
 - Alissa Violet
-genres: []
+first_released_as_single: true
 key: its-every-night-sis-ricegum-alissa-violet
 lyrics_url: https://www.azlyrics.com/lyrics/ricegum/itseverynightsis.html
 name: Its Every Night Sis
@@ -12,9 +15,9 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '2017-09-09'
+release_year: 2017
+runtime: 155193
 ---
-
-
 Yo, I wasn't about to go in but like...
 Now I feel like I have to, you know?
 I mean, I feel kinda bad but like, fuck it
@@ -78,6 +81,3 @@ Should've never cheated now, never cheated now
 Now, I'm fucking on your bitch now, on your bitch now
 You used to be a fan and you still a fan now (what)
 They gon' call me "RichGum" 'cause I'm dumb rich now (what)
-
-
-

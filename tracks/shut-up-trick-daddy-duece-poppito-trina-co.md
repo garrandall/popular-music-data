@@ -1,11 +1,14 @@
 ---
+album: 'Book Of Thugs: Chapter AK Verse 47 (Amended Version)'
 artists:
 - Trick Daddy
+external_ids:
+  spotify: spotify:track:1a6Wu2fORbFmZbAQryjr4u
 features:
 - Duece Poppito
 - Trina
 - Co
-genres: []
+first_released_as_single: false
 key: shut-up-trick-daddy-duece-poppito-trina-co
 lyrics_url: https://www.azlyrics.com/lyrics/trickdaddy/shutup.html
 name: Shut Up
@@ -54,9 +57,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2000-07-29'
+release_year: 2000
+runtime: 261839
 ---
-
-
 We gon' let the band deal with this
 Ha ha, mmm-hm
 M-I-A Style, heh, old school
@@ -145,4 +148,3 @@ Gun play, how I got the stripes
 2-4-K turned out the lights
 Gun play, how I got the stripes
 2-4-K turned out the lights
-

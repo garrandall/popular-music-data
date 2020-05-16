@@ -1,8 +1,11 @@
 ---
+album: Ready Or Not
 artists:
 - Lou Gramm
+external_ids:
+  spotify: spotify:track:20RLUsfsbRwhjRkzluM4ig
 features: []
-genres: []
+first_released_as_single: true
 key: ready-or-not-lou-gramm
 lyrics_url: https://www.azlyrics.com/lyrics/lougramm/readyornot.html
 name: Ready Or Not
@@ -55,8 +58,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1987-07-25'
+release_year: 1987
+runtime: 207186
 ---
-
 Here I come, ready or not
 Here I come, ready to go
 Here I come, ready or not
@@ -116,6 +120,3 @@ Here I come, ready ready
 Yeah, I'm ready
 (Here I come, ready to go)
 To go
-
-
-

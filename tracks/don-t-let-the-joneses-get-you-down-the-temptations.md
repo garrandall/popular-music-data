@@ -1,8 +1,11 @@
 ---
+album: Puzzle People
 artists:
 - The Temptations
+external_ids:
+  spotify: spotify:track:1megsUXcXPoCWKxIjyc3y0
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-let-the-joneses-get-you-down-the-temptations
 lyrics_url: https://genius.com/The-temptations-dont-let-the-joneses-get-you-down-lyrics
 name: Don't Let The Joneses Get You Down
@@ -39,6 +42,8 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1969-07-12'
+release_year: 1969
+runtime: 284893
 ---
 Oh, people gather round me
 This is to who it may concern

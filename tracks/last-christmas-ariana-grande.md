@@ -1,8 +1,11 @@
 ---
+album: Christmas Kisses
 artists:
 - Ariana Grande
+external_ids:
+  spotify: spotify:track:5xDrO9DEDJGUQGfyoHvgDJ
 features: []
-genres: []
+first_released_as_single: true
 key: last-christmas-ariana-grande
 lyrics_url: https://www.azlyrics.com/lyrics/arianagrande/lastchristmas.html
 name: Last Christmas
@@ -11,8 +14,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2013-12-07'
+release_year: 2013
+runtime: 203653
 ---
-
 I hate that I remember
 I wish I could forget
 What you did last December
@@ -88,6 +92,3 @@ To save me from tears (oh, baby)
 I'll give it to someone special)
 Boy, you blew it
 How could you do it, do it?
-
-
-

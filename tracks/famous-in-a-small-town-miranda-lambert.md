@@ -1,8 +1,11 @@
 ---
+album: Crazy Ex-Girlfriend
 artists:
 - Miranda Lambert
+external_ids:
+  spotify: spotify:track:4oXOOBwZsHFnRRNBNXrr9X
 features: []
-genres: []
+first_released_as_single: false
 key: famous-in-a-small-town-miranda-lambert
 lyrics_url: https://www.azlyrics.com/lyrics/mirandalambert/famousinasmalltown.html
 name: Famous In A Small Town
@@ -39,8 +42,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2007-11-24'
+release_year: 2007
+runtime: 245333
 ---
-
 They say life is so much sweeter
 Through the telephoto lens of fame
 Around here you get just as much attention
@@ -87,6 +91,3 @@ Maybe knows you just a little too well
 Whether you're late for church or you're stuck in jail
 Hey words gonna get around
 Everybody dies famous in a small town
-
-
-

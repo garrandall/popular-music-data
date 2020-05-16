@@ -1,8 +1,11 @@
 ---
+album: Kai
 artists:
 - KAI
+external_ids:
+  spotify: spotify:track:2neMQfiGrFXt2vKgvV8Yid
 features: []
-genres: []
+first_released_as_single: false
 key: say-you-ll-stay-kai
 lyrics_url: https://genius.com/Kai-band-say-youll-stay-lyrics
 name: Say You'll Stay
@@ -83,6 +86,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1998-04-25'
+release_year: 1997
+runtime: 211333
 ---
 Tonight, we're all alone tonight
 There's never been a moment

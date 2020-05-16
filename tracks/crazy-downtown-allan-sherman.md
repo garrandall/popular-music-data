@@ -1,8 +1,11 @@
 ---
+album: Allan Sherman Nutty But Nice
 artists:
 - Allan Sherman
+external_ids:
+  spotify: spotify:track:4VFGjvg01giZD45wwmVUXF
 features: []
-genres: []
+first_released_as_single: false
 key: crazy-downtown-allan-sherman
 lyrics_url: https://genius.com/Allan-sherman-crazy-downtown-lyrics
 name: Crazy Downtown
@@ -39,6 +42,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1965-05-15'
+release_year: 1963
+runtime: 177226
 ---
 Mommy and Dad are never nervous or mad
 When you teenagers go downtown

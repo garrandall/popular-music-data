@@ -1,8 +1,11 @@
 ---
+album: Hannah Montana
 artists:
 - Hannah Montana
+external_ids:
+  spotify: spotify:track:6Z0F3Mqj7tq1CBZo5qMlUg
 features: []
-genres: []
+first_released_as_single: false
 key: best-of-both-worlds-hannah-montana
 lyrics_url: https://www.azlyrics.com/lyrics/hannahmontana/bestofbothworlds.html
 name: Best Of Both Worlds
@@ -15,8 +18,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2007-01-13'
+release_year: 2006
+runtime: 174120
 ---
-
 Oh yeah
 Come on
 
@@ -81,6 +85,3 @@ Mix it all together
 Oh, yeah
 It's so much better 'cause you know
 You've got the best of both worlds
-
-
-

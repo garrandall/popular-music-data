@@ -1,9 +1,12 @@
 ---
+album: '#1 Girl'
 artists:
 - Mindless Behavior
+external_ids:
+  spotify: spotify:track:4N4CHJqFZHyB7SBUuSFu1y
 features:
 - Diggy
-genres: []
+first_released_as_single: false
 key: mrs-right-mindless-behavior-diggy
 lyrics_url: https://www.azlyrics.com/lyrics/mindlessbehavior/mrsright.html
 name: Mrs Right
@@ -48,8 +51,9 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '2011-11-19'
+release_year: 2011
+runtime: 248186
 ---
-
 Where is Mrs. Right?
 I gotta find her, her
 
@@ -165,6 +169,3 @@ Can we go to Switzerland?
 Can we hit Japan?
 
 Where is Mrs. Right?
-
-
-

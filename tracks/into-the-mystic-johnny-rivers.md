@@ -1,8 +1,11 @@
 ---
+album: Slim Slo Slider
 artists:
 - Johnny Rivers
+external_ids:
+  spotify: spotify:track:3dmjZNQzytt5S1X7K4gEbW
 features: []
-genres: []
+first_released_as_single: false
 key: into-the-mystic-johnny-rivers
 lyrics_url: https://www.azlyrics.com/lyrics/johnnyrivers/intothemystic.html
 name: Into The Mystic
@@ -39,8 +42,9 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1970-06-27'
+release_year: 1970
+runtime: 282493
 ---
-
 We were born before the wind
 Also younger than the sun
 Ere the bonnie boat was won 
@@ -71,6 +75,3 @@ Into the mystic
 
 Come on, girl
 Too late to stop now
-
-
-

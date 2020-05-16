@@ -1,8 +1,11 @@
 ---
+album: Keep On Movin'
 artists:
 - Soul II Soul
+external_ids:
+  spotify: spotify:track:7vvRkLPIvfjjmCIqNxBuEZ
 features: []
-genres: []
+first_released_as_single: false
 key: back-to-life-soul-ii-soul
 lyrics_url: https://genius.com/Soul-ii-soul-back-to-life-one-world-remix-lyrics
 name: Back To Life
@@ -119,6 +122,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1990-03-31'
+release_year: 1989
+runtime: 228266
 ---
 Back to life, back to reality
 Back to life, back to reality

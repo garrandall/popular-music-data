@@ -1,9 +1,12 @@
 ---
+album: Diamond Girl
 artists:
 - Seals
 - Crofts
+external_ids:
+  spotify: spotify:track:7H25ehG6xvB8K2ltLhbRJP
 features: []
-genres: []
+first_released_as_single: false
 key: we-may-never-pass-this-way--again--seals-crofts
 lyrics_url: https://www.azlyrics.com/lyrics/sealscrofts/wemayneverpassthiswayagain.html
 name: We May Never Pass This Way (Again)
@@ -56,8 +59,9 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1973-12-08'
+release_year: 1972
+runtime: 254253
 ---
-
 Life, so they say, is but a game 
 And they let it slip away
 Love, like the autumn sun
@@ -109,6 +113,3 @@ We may never pass this way again
 We may never pass this way again
 We may never pass this way again
 We may never pass this way again
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Believe
 artists:
 - Cher
+external_ids:
+  spotify: spotify:track:144JMbvbR5txNzoZ112wo4
 features: []
-genres: []
+first_released_as_single: false
 key: strong-enough-cher
 lyrics_url: https://genius.com/Cher-strong-enough-lyrics
 name: Strong Enough
@@ -55,6 +58,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1999-08-07'
+release_year: 1998
+runtime: 224000
 ---
 I don't need your sympathy
 There's nothing you can say or do for me

@@ -1,8 +1,11 @@
 ---
+album: Heart Of The Man
 artists:
 - Matt Monro
+external_ids:
+  spotify: spotify:track:1y4onmcarChcReuqpl5zDb
 features: []
-genres: []
+first_released_as_single: false
 key: walk-away-matt-monro
 lyrics_url: https://genius.com/Matt-monro-walk-away-lyrics
 name: Walk Away
@@ -43,6 +46,8 @@ rankings:
   rank: 32
   ranking_list: Billboard Hot 100
   start_date: '1965-01-23'
+release_year: 1964
+runtime: 177546
 ---
 Walk away, please go
 Before you throw your life away

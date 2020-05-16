@@ -1,8 +1,11 @@
 ---
+album: Portrait Of Donny
 artists:
 - Donny Osmond
+external_ids:
+  spotify: spotify:track:5FVoXrVOxYfoKYWK8C4rdA
 features: []
-genres: []
+first_released_as_single: false
 key: hey-girl-donny-osmond
 lyrics_url: https://www.azlyrics.com/lyrics/donnyosmond/heygirl.html
 name: Hey Girl
@@ -47,8 +50,9 @@ rankings:
   rank: 26
   ranking_list: Billboard Hot 100
   start_date: '1972-01-29'
+release_year: 1971
+runtime: 191146
 ---
-
 Hey Girl I want you to know
 I'm going to miss you so much if you go (Bye Bye Baby)
 And Hey Girl I tell you no lies (Bye Bye Baby)
@@ -80,6 +84,3 @@ Hey Girl (hey hey)
 Please Please don't go away
 (Please don't go)
 Hey Girl (hey hey)
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Revolution
 artists:
 - Miranda Lambert
+external_ids:
+  spotify: spotify:track:05Rdg52eBYVUy5A55rnz39
 features: []
-genres: []
+first_released_as_single: false
 key: only-prettier-miranda-lambert
 lyrics_url: https://www.azlyrics.com/lyrics/mirandalambert/onlyprettier.html
 name: Only Prettier
@@ -83,8 +86,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2011-01-22'
+release_year: 2009
+runtime: 189440
 ---
-
 Well I've been saved by the grace of Southern charm
 I got a mouth like a sailor and yours is more like a Hallmark card
 And if you wanna pick a fight
@@ -130,6 +134,3 @@ Well, I'll keep drinkin'
 And you'll keep gettin' skinnier
 I'm just like you
 Only prettier
-
-
-

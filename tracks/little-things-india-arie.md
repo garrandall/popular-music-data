@@ -1,8 +1,11 @@
 ---
+album: Voyage To India
 artists:
 - India.Arie
+external_ids:
+  spotify: spotify:track:5w0wdbvOSarNR3DBHRcURH
 features: []
-genres: []
+first_released_as_single: false
 key: little-things-india-arie
 lyrics_url: https://www.azlyrics.com/lyrics/indiaarie/littlethings.html
 name: Little Things
@@ -59,8 +62,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2002-12-21'
+release_year: 2002
+runtime: 208773
 ---
-
 Oh, oh, oh
 Oh, oh, oh
 Oh, oh, oh, oh, oh
@@ -129,6 +133,3 @@ Give me some Stevie, give me some Donny
 Give me my daddy, give me my mommy
 Pour me some sweet tea, spoonful of honey
 I don't need no Hollywood
-
-
-

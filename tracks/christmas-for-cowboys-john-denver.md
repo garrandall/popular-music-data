@@ -1,8 +1,11 @@
 ---
+album: Rocky Mountain Christmas
 artists:
 - John Denver
+external_ids:
+  spotify: spotify:track:2Vz7dxumR69mm3Bcq74x4K
 features: []
-genres: []
+first_released_as_single: false
 key: christmas-for-cowboys-john-denver
 lyrics_url: https://genius.com/John-denver-christmas-for-cowboys-lyrics
 name: Christmas For Cowboys
@@ -23,6 +26,8 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1976-01-03'
+release_year: 1975
+runtime: 148440
 ---
 Tall in the saddle, we spend Christmas Day, driving the cattle over snow sovered-plains
 All of the good gifts given today, ours is the sky and the wide open range

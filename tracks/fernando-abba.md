@@ -1,8 +1,11 @@
 ---
+album: Arrival
 artists:
 - ABBA
+external_ids:
+  spotify: spotify:track:1IxDBsZdVMhfkLqrZjARpk
 features: []
-genres: []
+first_released_as_single: false
 key: fernando-abba
 lyrics_url: https://www.azlyrics.com/lyrics/abba/fernando.html
 name: Fernando
@@ -71,8 +74,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1976-12-18'
+release_year: 1976
+runtime: 255533
 ---
-
 Can you hear the drums Fernando?
 I remember long ago another starry night like this
 In the firelight Fernando
@@ -127,6 +131,3 @@ Yes, if I had to do the same again
 I would, my friend, Fernando
 If I had to do the same again
 I would, my friend, Fernando...
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: All American Girls
 artists:
 - Sister Sledge
+external_ids:
+  spotify: spotify:track:1l384uUUyAPoFcMC4SpyLt
 features: []
-genres: []
+first_released_as_single: false
 key: next-time-you-ll-know-sister-sledge
 lyrics_url: https://genius.com/Sister-sledge-next-time-youll-know-lyrics
 name: Next Time You'll Know
@@ -27,6 +30,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1981-06-06'
+release_year: 1981
+runtime: 241960
 ---
 Looks like we're running out of time
 Can't hide away

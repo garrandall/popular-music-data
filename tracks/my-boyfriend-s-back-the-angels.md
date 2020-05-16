@@ -1,8 +1,11 @@
 ---
+album: My Boyfriend's Back
 artists:
 - The Angels
+external_ids:
+  spotify: spotify:track:5NiFSI8iIDtVm1NCwdYrHS
 features: []
-genres: []
+first_released_as_single: false
 key: my-boyfriend-s-back-the-angels
 lyrics_url: https://genius.com/The-angels-usa-my-boyfriends-back-lyrics
 name: My Boyfriend's Back
@@ -63,6 +66,8 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '1963-11-02'
+release_year: 1963
+runtime: 136800
 ---
 He went away and you hung around
 And bothered me, every night

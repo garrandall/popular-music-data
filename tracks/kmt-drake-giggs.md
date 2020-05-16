@@ -1,9 +1,12 @@
 ---
+album: More Life
 artists:
 - Drake
+external_ids:
+  spotify: spotify:track:2jTujnt0y344ai1rNOywgr
 features:
 - Giggs
-genres: []
+first_released_as_single: false
 key: kmt-drake-giggs
 lyrics_url: https://www.azlyrics.com/lyrics/drake/kmt.html
 name: KMT
@@ -16,9 +19,9 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '2017-04-15'
+release_year: 2017
+runtime: 162637
 ---
-
-
 (Ness on the beat)
 Yeah
 Okay, okay
@@ -64,6 +67,3 @@ Could've just slapped man, but he wanted it further
 Batman, da-na-na-da-na
 
 October Firm
-
-
-

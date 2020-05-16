@@ -1,8 +1,11 @@
 ---
+album: Distant Light  (1999 Remastered Version)
 artists:
 - The Hollies
+external_ids:
+  spotify: spotify:track:7jC2AFEmvEJ9IN0rBffpwJ
 features: []
-genres: []
+first_released_as_single: false
 key: long-cool-woman--in-a-black-dress--the-hollies
 lyrics_url: https://genius.com/The-hollies-long-cool-woman-lyrics
 name: Long Cool Woman (In A Black Dress)
@@ -67,6 +70,8 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '1972-09-30'
+release_year: 1967
+runtime: 194706
 ---
 Saturday night I was downtown
 Working for the FBI

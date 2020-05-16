@@ -1,8 +1,11 @@
 ---
+album: Freedom At Point Zero
 artists:
 - Jefferson Starship
+external_ids:
+  spotify: spotify:track:2RNd6VgxG19db0zs0M1C4Z
 features: []
-genres: []
+first_released_as_single: false
 key: jane-jefferson-starship
 lyrics_url: https://www.azlyrics.com/lyrics/jeffersonstarship/jane.html
 name: Jane
@@ -67,8 +70,9 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1980-02-09'
+release_year: 1979
+runtime: 252200
 ---
-
 Jane, you say it's all over for you and me, girl
 There's a time for love and a time for letting it be, baby 
 Jane you're playing a game called, hard to get by its real name 
@@ -97,6 +101,3 @@ Jane, you're playing for fun but I play for keeps, yes I do
 (Jane, Jane, Jane) 
 (Jane, Jane, Jane)
 (Jane, Jane, Jane)
-
-
-

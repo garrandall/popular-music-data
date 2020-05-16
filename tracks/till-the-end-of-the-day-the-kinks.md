@@ -1,8 +1,11 @@
 ---
+album: The Kink Kontroversy
 artists:
 - The Kinks
+external_ids:
+  spotify: spotify:track:014NOunS25K1LbcM6DlQ5I
 features: []
-genres: []
+first_released_as_single: false
 key: till-the-end-of-the-day-the-kinks
 lyrics_url: https://www.azlyrics.com/lyrics/kinks/tilltheendoftheday.html
 name: Till The End Of The Day
@@ -39,8 +42,9 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '1966-05-14'
+release_year: 1965
+runtime: 138226
 ---
-
 Baby, I feel good
 From the moment I arise
 Feel good from morning
@@ -73,6 +77,3 @@ Till the end of the day
 Till the end of the day
 Till the end of the day
 Till the end of the day
-
-
-

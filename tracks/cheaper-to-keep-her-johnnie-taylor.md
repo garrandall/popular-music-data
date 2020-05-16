@@ -1,8 +1,11 @@
 ---
+album: Taylored In Silk
 artists:
 - Johnnie Taylor
+external_ids:
+  spotify: spotify:track:3gyvHQCFOlUAtHUkXR0gOQ
 features: []
-genres: []
+first_released_as_single: false
 key: cheaper-to-keep-her-johnnie-taylor
 lyrics_url: https://genius.com/Johnnie-taylor-cheaper-to-keep-her-lyrics
 name: Cheaper To Keep Her
@@ -51,6 +54,8 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '1973-12-22'
+release_year: 1973
+runtime: 207000
 ---
 If you're tied up, you'd better stay tied up
 Cause it's cheaper to keep her

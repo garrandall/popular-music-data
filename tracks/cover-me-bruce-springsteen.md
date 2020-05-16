@@ -1,8 +1,11 @@
 ---
+album: Born In The U.S.A.
 artists:
 - Bruce Springsteen
+external_ids:
+  spotify: spotify:track:4U7NhC2rQTAhH7dw7H0goB
 features: []
-genres: []
+first_released_as_single: false
 key: cover-me-bruce-springsteen
 lyrics_url: https://genius.com/Bruce-springsteen-cover-me-lyrics
 name: Cover Me
@@ -79,6 +82,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1984-12-08'
+release_year: 1984
+runtime: 205986
 ---
 The times are tough now, just getting tougher
 This old world is rough, it's just getting rougher

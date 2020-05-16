@@ -1,8 +1,11 @@
 ---
+album: Love Letters from Elvis
 artists:
 - Elvis Presley
+external_ids:
+  spotify: spotify:track:78Uq3czGi03x8Vm4P4k402
 features: []
-genres: []
+first_released_as_single: false
 key: where-did-they-go-lord-elvis-presley
 lyrics_url: https://genius.com/Elvis-presley-where-did-they-go-lord-lyrics
 name: Where Did They Go Lord
@@ -35,6 +38,8 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '1971-04-24'
+release_year: 1971
+runtime: 147666
 ---
 The words of her promise
 The flame of her faith

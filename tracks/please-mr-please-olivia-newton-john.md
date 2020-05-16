@@ -1,8 +1,11 @@
 ---
+album: Have You Never Been Mellow
 artists:
 - Olivia Newton-John
+external_ids:
+  spotify: spotify:track:1lL1jDnZTH60djVb6vKIQj
 features: []
-genres: []
+first_released_as_single: false
 key: please-mr-please-olivia-newton-john
 lyrics_url: https://www.azlyrics.com/lyrics/olivianewtonjohn/pleasemrplease.html
 name: Please Mr Please
@@ -67,8 +70,9 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '1975-09-13'
+release_year: 1975
+runtime: 202560
 ---
-
 In the corner of the bar there stands a jukebox
 With the best of country music, old and new
 You can hear your five selections for a quarter
@@ -98,6 +102,3 @@ Please, Mr., please, don't play B-17
 It was our song, it was his song, but it's over
 Please, Mr., please, if you know what I mean
 I don't ever wanna hear that song again
-
-
-

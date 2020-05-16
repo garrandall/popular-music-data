@@ -1,8 +1,11 @@
 ---
+album: Night Train
 artists:
 - Jason Aldean
+external_ids:
+  spotify: spotify:track:2o5mwv7hvas1jdUg14Nihv
 features: []
-genres: []
+first_released_as_single: false
 key: take-a-little-ride-jason-aldean
 lyrics_url: https://www.azlyrics.com/lyrics/jasonaldean/takealittleride.html
 name: Take A Little Ride
@@ -87,8 +90,9 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '2012-12-15'
+release_year: 2012
+runtime: 187613
 ---
-
 Been goin' round and round all day
 Bailin' some hay and stacking it all up
 Can't wait for the sun to go down
@@ -138,6 +142,3 @@ Sweet tan, little thing with nothing to do
 I wanna take a little ride with you
 Take a little ride with you
 I wanna take a little ride with you
-
-
-

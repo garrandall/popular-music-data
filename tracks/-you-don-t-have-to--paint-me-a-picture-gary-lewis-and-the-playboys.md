@@ -1,8 +1,11 @@
 ---
+album: (You Don't Have To) Paint Me A Picture
 artists:
 - Gary Lewis And The Playboys
+external_ids:
+  spotify: spotify:track:7oXi9ywYiQZNVjikAaF7Ul
 features: []
-genres: []
+first_released_as_single: false
 key: -you-don-t-have-to--paint-me-a-picture-gary-lewis-and-the-playboys
 lyrics_url: https://genius.com/Gary-lewis-and-the-playboys-you-dont-have-to-paint-me-a-picture-lyrics
 name: (You Don't Have To) Paint Me A Picture
@@ -39,6 +42,8 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '1966-11-26'
+release_year: 1966
+runtime: 136440
 ---
 You don't have to paint me a picture
 The handwriting's on the wall

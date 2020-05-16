@@ -1,8 +1,11 @@
 ---
+album: Because Of You (The Love Songs Collection)
 artists:
 - Bobby Vinton
+external_ids:
+  spotify: spotify:track:5GlfyCpEDQ2AlZ6leIZN8u
 features: []
-genres: []
+first_released_as_single: false
 key: only-love-can-break-a-heart-bobby-vinton
 lyrics_url: https://www.musixmatch.com/lyrics/Bobby-Vinton/Only-Love-Can-Break-a-Heart
 name: Only Love Can Break A Heart
@@ -15,6 +18,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1977-06-11'
+release_year: 1977
+runtime: 181493
 ---
 Only love can break a heart
 Only love can mend it again

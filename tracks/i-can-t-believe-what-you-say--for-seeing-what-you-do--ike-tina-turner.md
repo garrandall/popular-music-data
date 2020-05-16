@@ -1,9 +1,12 @@
 ---
+album: Ultimate Collection Set
 artists:
 - Ike
 - Tina Turner
+external_ids:
+  spotify: spotify:track:3uGEFAKELWPmIGKuw6sIze
 features: []
-genres: []
+first_released_as_single: false
 key: i-can-t-believe-what-you-say--for-seeing-what-you-do--ike-tina-turner
 lyrics_url: https://genius.com/Ike-and-tina-turner-i-cant-believe-what-you-say-for-seeing-what-you-do-lyrics
 name: I Can't Believe What You Say (For Seeing What You Do)
@@ -20,6 +23,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1964-10-17'
+release_year: 1964
+runtime: 210000
 ---
 Uh, uh-uh, uh-uh-uh, uh, uh-uh...
 Uh, uh-uh, uh-uh-uh, uh, uh-uh...

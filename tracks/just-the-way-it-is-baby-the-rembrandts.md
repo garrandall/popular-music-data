@@ -1,8 +1,11 @@
 ---
+album: The Rembrandts
 artists:
 - The Rembrandts
+external_ids:
+  spotify: spotify:track:35keiknicSk7ZiEl1Wa4Hg
 features: []
-genres: []
+first_released_as_single: false
 key: just-the-way-it-is-baby-the-rembrandts
 lyrics_url: https://www.azlyrics.com/lyrics/rembrandts/justthewayitisbaby.html
 name: Just The Way It Is Baby
@@ -83,8 +86,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1991-06-15'
+release_year: 1990
+runtime: 243893
 ---
-
 Do you remember once upon a time - when you were mine?
 The stars above were bright and new.
 I pulled them down for you, just when I fell in love again.
@@ -112,4 +116,3 @@ BABY, THAT'S JUST THE WAY IT IS BABY - OH THAT'S JUST THE WAY IT IS
 BABY, THAT'S JUST THE WAY IT IS BABY
 BABY, THAT'S JUST THE WAY IT IS BABY
 BABY,THAT'S JUST THE WAY IT IS BABY - JUST THE WAY IT IS
-

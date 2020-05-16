@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music, The Complete Season Three'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:3Mfq8c7r2KgpNJxG43zMe5
 features: []
-genres: []
+first_released_as_single: false
 key: how-will-i-know-glee-cast
 lyrics_url: https://genius.com/Glee-cast-how-will-i-know-lyrics
 name: How Will I Know
@@ -11,6 +14,8 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '2012-05-12'
+release_year: 2012
+runtime: 167226
 ---
 Mercedes:
 There's a boy I know

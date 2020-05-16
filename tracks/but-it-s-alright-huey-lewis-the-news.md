@@ -1,8 +1,11 @@
 ---
+album: Live At 25
 artists:
 - Huey Lewis & The News
+external_ids:
+  spotify: spotify:track:20jdRxfeflxO0gUkVMRiIG
 features: []
-genres: []
+first_released_as_single: false
 key: but-it-s-alright-huey-lewis-the-news
 lyrics_url: https://genius.com/Huey-lewis-and-the-news-but-its-alright-lyrics
 name: But It's Alright
@@ -87,6 +90,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1995-01-07'
+release_year: 1994
+runtime: 214120
 ---
 You don't know
 How I feel

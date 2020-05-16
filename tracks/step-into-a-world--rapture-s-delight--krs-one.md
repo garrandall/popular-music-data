@@ -1,8 +1,11 @@
 ---
+album: I Got Next
 artists:
 - KRS-One
+external_ids:
+  spotify: spotify:track:0F5INCGO2NuwmzUUaXv6WL
 features: []
-genres: []
+first_released_as_single: true
 key: step-into-a-world--rapture-s-delight--krs-one
 lyrics_url: https://genius.com/Krs-one-step-into-a-world-remix-lyrics
 name: Step Into A World (Rapture's Delight)
@@ -59,6 +62,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1997-06-28'
+release_year: 1997
+runtime: 274960
 ---
 * unlisted bonus track on compact disc
 

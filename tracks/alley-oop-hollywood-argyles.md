@@ -1,8 +1,11 @@
 ---
+album: Lute Records, Vol. 1 - 60s Soul, Doo-Wop and Novelties
 artists:
 - Hollywood Argyles
+external_ids:
+  spotify: spotify:track:3lT7wSKYex2Vq514od6Naq
 features: []
-genres: []
+first_released_as_single: false
 key: alley-oop-hollywood-argyles
 lyrics_url: https://genius.com/The-hollywood-argyles-alley-oop-lyrics
 name: Alley-Oop
@@ -67,6 +70,8 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1960-09-05'
+release_year: 1960
+runtime: 160800
 ---
 (Oop-oop, oop, oop-oop)
 (Alley-Oop, oop, oop, oop-oop)

@@ -1,8 +1,11 @@
 ---
+album: Back To Back
 artists:
 - Jerry Butler
+external_ids:
+  spotify: spotify:track:6j4lyAHZnqLgFAknzhzLrH
 features: []
-genres: []
+first_released_as_single: false
 key: hey-western-union-man-jerry-butler
 lyrics_url: https://genius.com/Jerry-butler-hey-western-union-man-lyrics
 name: Hey Western Union Man
@@ -59,6 +62,8 @@ rankings:
   rank: 30
   ranking_list: Billboard Hot 100
   start_date: '1968-11-23'
+release_year: 1968
+runtime: 161800
 ---
 Oh, Western Union man
 Send a telegram to my baby

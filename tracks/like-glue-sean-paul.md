@@ -1,8 +1,11 @@
 ---
+album: Dutty Rock
 artists:
 - Sean Paul
+external_ids:
+  spotify: spotify:track:6pbCkvCENw0suVGr4Ckkae
 features: []
-genres: []
+first_released_as_single: false
 key: like-glue-sean-paul
 lyrics_url: https://www.azlyrics.com/lyrics/seanpaul/likeglue.html
 name: Like Glue
@@ -87,9 +90,9 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '2003-10-18'
+release_year: 2002
+runtime: 232506
 ---
-
-
 Yeah yeah, yeah yeah, feel dat trend now, yeah yeah
 Sean-A-Paul, so mi go so then
 
@@ -144,4 +147,3 @@ Look like dem lost, living in di past
 One ting mi haffi tell dem sorry Ma
 Dem better move fast, before we get crossed
 Badman nuh cater fi dem just because, mi go so then
-

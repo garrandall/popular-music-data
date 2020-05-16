@@ -1,8 +1,11 @@
 ---
+album: Cross That Line
 artists:
 - Howard Jones
+external_ids:
+  spotify: spotify:track:5Pt8yWyz5w5J2XREWuFXro
 features: []
-genres: []
+first_released_as_single: false
 key: everlasting-love-howard-jones
 lyrics_url: https://www.azlyrics.com/lyrics/howardjones/everlastinglove.html
 name: Everlasting Love
@@ -83,8 +86,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1989-07-22'
+release_year: 1989
+runtime: 259040
 ---
-
 He wasn't looking for a pretty face
 She wasn't searching for the latest style
 He didn't want someone who walked straight off the TV
@@ -150,6 +154,3 @@ I need an everlasting love
 I need a friend and a lover divine
 An everlasting precious love
 Wait for it, wait for it, give it some time
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: All The Pain Money Can Buy
 artists:
 - Fastball
+external_ids:
+  spotify: spotify:track:2jqua17r7DJuqRXl1uJwJM
 features: []
-genres: []
+first_released_as_single: false
 key: fire-escape-fastball
 lyrics_url: https://www.azlyrics.com/lyrics/fastball/fireescape.html
 name: Fire Escape
@@ -39,8 +42,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1999-01-23'
+release_year: 1998
+runtime: 201133
 ---
-
 Well I don't wanna be President
 Superman or Clark Kent
 I don't wanna walk 'round in their shoes
@@ -68,6 +72,3 @@ I don't know about you
 I can be myself, how 'bout you?
 I can be myself
 How 'bout you?
-
-
-

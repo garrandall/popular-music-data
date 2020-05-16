@@ -1,8 +1,11 @@
 ---
+album: Lost Soul
 artists:
 - Philly Devotions
+external_ids:
+  spotify: spotify:track:2hkw48YtjeduMUvfvdM2kY
 features: []
-genres: []
+first_released_as_single: false
 key: i-just-can-t-say-goodbye-philly-devotions
 lyrics_url: https://www.musixmatch.com/lyrics/Philly-Devotions/I-Just-Can-t-Say-Goodbye
 name: I Just Can't Say Goodbye
@@ -15,6 +18,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1975-02-15'
+release_year: 1973
+runtime: 189381
 ---
 Juste the other day when I help you oh so tight
 We didn't car if what we had was wrong or right

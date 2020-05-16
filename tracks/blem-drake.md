@@ -1,8 +1,11 @@
 ---
+album: More Life
 artists:
 - Drake
+external_ids:
+  spotify: spotify:track:2XlHu0HcujBCkWMdIAvrqt
 features: []
-genres: []
+first_released_as_single: false
 key: blem-drake
 lyrics_url: https://www.azlyrics.com/lyrics/drake/blem.html
 name: Blem
@@ -23,9 +26,9 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '2017-04-29'
+release_year: 2017
+runtime: 216557
 ---
-
-
 Unruly, unruly, maddas
 Who keeps bringing more? I've had too many
 This Virginia done me off already
@@ -78,6 +81,3 @@ I'm blem for real, I might just say how I feel
 Good morning, good afternoon, good night!
 I'm here to talk about (More Life)
 One second
-
-
-

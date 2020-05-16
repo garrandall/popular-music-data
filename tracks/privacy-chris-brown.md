@@ -1,8 +1,11 @@
 ---
+album: Heartbreak on a Full Moon
 artists:
 - Chris Brown
+external_ids:
+  spotify: spotify:track:2Vf2Pflg5rTWSvSCK4qq4A
 features: []
-genres: []
+first_released_as_single: true
 key: privacy-chris-brown
 lyrics_url: https://www.azlyrics.com/lyrics/chrisbrown/privacy.html
 name: Privacy
@@ -75,8 +78,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2017-09-09'
+release_year: 2017
+runtime: 220963
 ---
-
 I need your body in ways
 That you don't understand but I'm losing my patience
 'Cause we've been going over and over again
@@ -150,6 +154,3 @@ And I know you love your privacy
 Privacy
 Boom shakalaka
 Hahaha
-
-
-

@@ -1,9 +1,12 @@
 ---
+album: On Tour With Eric Clapton
 artists:
 - Delaney
 - Bonnie
+external_ids:
+  spotify: spotify:track:5TvFHrKjRbHCk9sugZ0mx3
 features: []
-genres: []
+first_released_as_single: false
 key: only-you-know-and-i-know-delaney-bonnie
 lyrics_url: https://genius.com/Delaney-and-bonnie-only-you-know-and-i-know-lyrics
 name: Only You Know And I Know
@@ -48,6 +51,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1971-11-27'
+release_year: 1970
+runtime: 282826
 ---
 Only you know and I know
 All the lovin' we've got to show

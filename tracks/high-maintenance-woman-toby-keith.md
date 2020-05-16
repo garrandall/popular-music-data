@@ -1,8 +1,11 @@
 ---
+album: Big Dog Daddy
 artists:
 - Toby Keith
+external_ids:
+  spotify: spotify:track:709C7jhLvAmJdZXmExrdWk
 features: []
-genres: []
+first_released_as_single: false
 key: high-maintenance-woman-toby-keith
 lyrics_url: https://www.azlyrics.com/lyrics/tobykeith/highmaintenancewoman.html
 name: High Maintenance Woman
@@ -75,10 +78,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2007-06-30'
+release_year: 2007
+runtime: 201333
 ---
-
-
-
 I see her layin' by the poolside every day
 She ain't got a lot on
 She ain't got a lot to say
@@ -148,6 +150,3 @@ It's just a high maintenance woman
 Don't want no maintenance man
 Ain't no high maintenance woman
 Gonna fall for a maintenance man...no
-
-
-

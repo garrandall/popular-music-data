@@ -1,8 +1,11 @@
 ---
+album: BADLANDS
 artists:
 - Halsey
+external_ids:
+  spotify: spotify:track:6Xs7OKt6i0Ddq8B4M5Dgvr
 features: []
-genres: []
+first_released_as_single: false
 key: new-americana-halsey
 lyrics_url: https://www.azlyrics.com/lyrics/halsey/newamericana.html
 name: New Americana
@@ -75,8 +78,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '2016-02-06'
+release_year: 2015
+runtime: 183808
 ---
-
 Cigarettes and tiny liquor bottles
 Just what you'd expect inside her new Balenciaga
 Viral mess turned dreams into an empire
@@ -116,6 +120,3 @@ High on legal marijuana (sky high)
 Raised on Biggie and Nirvana (ah, ah, ah)
 We are the new Americana
 Oh oh
-
-
-

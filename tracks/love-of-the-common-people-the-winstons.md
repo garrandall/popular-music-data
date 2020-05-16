@@ -1,8 +1,11 @@
 ---
+album: Color Him Father
 artists:
 - The Winstons
+external_ids:
+  spotify: spotify:track:2yeExv5t15T8quco592dED
 features: []
-genres: []
+first_released_as_single: false
 key: love-of-the-common-people-the-winstons
 lyrics_url: https://genius.com/The-winstons-love-of-the-common-people-lyrics
 name: Love Of The Common People
@@ -31,6 +34,8 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1969-10-25'
+release_year: 1969
+runtime: 163053
 ---
 Living on free food tickets
 Water in the milk from a hole in the roof

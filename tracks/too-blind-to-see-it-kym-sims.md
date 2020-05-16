@@ -1,8 +1,11 @@
 ---
+album: Too Blind To See It
 artists:
 - Kym Sims
+external_ids:
+  spotify: spotify:track:4SmiFk4zGbPVf0vvoSDvuG
 features: []
-genres: []
+first_released_as_single: false
 key: too-blind-to-see-it-kym-sims
 lyrics_url: https://genius.com/Kym-sims-too-blind-to-see-it-lyrics
 name: Too Blind To See It
@@ -87,6 +90,8 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '1992-03-28'
+release_year: 1991
+runtime: 211200
 ---
 "Honey, let me tell you something
 No man in the world!"

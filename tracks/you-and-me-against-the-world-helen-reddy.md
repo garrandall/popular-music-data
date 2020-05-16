@@ -1,8 +1,11 @@
 ---
+album: Love Song For Jeffrey
 artists:
 - Helen Reddy
+external_ids:
+  spotify: spotify:track:26WupilYCvGn1OEX2CqKjN
 features: []
-genres: []
+first_released_as_single: false
 key: you-and-me-against-the-world-helen-reddy
 lyrics_url: https://genius.com/Helen-reddy-you-and-me-against-the-world-lyrics
 name: You And Me Against The World
@@ -87,6 +90,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1974-10-26'
+release_year: 1974
+runtime: 191706
 ---
 Tell me again, mommy
 

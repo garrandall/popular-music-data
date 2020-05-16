@@ -1,8 +1,11 @@
 ---
+album: What's A Matter Baby
 artists:
 - Timi Yuro
+external_ids:
+  spotify: spotify:track:3UHIZEq34hUy4IAFrtVTCs
 features: []
-genres: []
+first_released_as_single: false
 key: insult-to-injury-timi-yuro
 lyrics_url: https://genius.com/Timi-yuro-insult-to-injury-lyrics
 name: Insult To Injury
@@ -11,6 +14,8 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1963-03-30'
+release_year: 1962
+runtime: 145200
 ---
 You're adding insult to injury
 How much does my heart have to hurt?

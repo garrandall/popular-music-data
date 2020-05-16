@@ -1,8 +1,11 @@
 ---
+album: Americana
 artists:
 - The Offspring
+external_ids:
+  spotify: spotify:track:0sNKiz82ATCvT3f3XVVUUj
 features: []
-genres: []
+first_released_as_single: false
 key: why-don-t-you-get-a-job--the-offspring
 lyrics_url: https://genius.com/The-offspring-why-dont-you-get-a-job-lyrics
 name: Why Don't You Get A Job?
@@ -67,6 +70,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1999-07-17'
+release_year: 1998
+runtime: 172466
 ---
 My friend's got a girlfriend
 Man, he hates that bitch

@@ -1,9 +1,12 @@
 ---
+album: In My Mind
 artists:
 - Pharrell
+external_ids:
+  spotify: spotify:track:3r4U9UpHaFurMtq1oCZoAp
 features:
 - Kanye West
-genres: []
+first_released_as_single: false
 key: number-one-pharrell-kanye-west
 lyrics_url: https://www.musixmatch.com/lyrics/Pharrell-Williams-feat-Kanye-West/Number-One
 name: Number One
@@ -20,6 +23,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2006-08-19'
+release_year: 2006
+runtime: 236573
 ---
 World's... world's... world's famous Your now listening to (girl)
 Skateboard P and the Louis Vuitton Don (I'm back)

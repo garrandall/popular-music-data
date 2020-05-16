@@ -1,8 +1,11 @@
 ---
+album: Stephen Stills 2
 artists:
 - Stephen Stills
+external_ids:
+  spotify: spotify:track:1HADDYvL2Mp6D1cnqkzo1x
 features: []
-genres: []
+first_released_as_single: false
 key: marianne-stephen-stills
 lyrics_url: https://www.azlyrics.com/lyrics/stephenstills/marianne.html
 name: Marianne
@@ -39,8 +42,9 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1971-10-09'
+release_year: 1971
+runtime: 149600
 ---
-
 Can I get through to you now, can I Marianne?
 What are you tryin' to do now come on Marianne
 Ain't no use in conversation
@@ -63,6 +67,3 @@ There's a better thing you can take up
 Wake up Marianne, wake up Marianne
 Wake up Marianne, oh Marianne
 Oh
-
-
-

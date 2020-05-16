@@ -1,8 +1,11 @@
 ---
+album: The Wait Is Over
 artists:
 - 69 Boyz
+external_ids:
+  spotify: spotify:track:1bg4iNalDl3bUBClWGmK2b
 features: []
-genres: []
+first_released_as_single: false
 key: woof-woof-69-boyz
 lyrics_url: https://genius.com/69-boyz-woof-woof-lyrics
 name: Woof Woof
@@ -71,6 +74,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1998-10-31'
+release_year: 1998
+runtime: 271933
 ---
 Better ride
 You in tune to the sounds

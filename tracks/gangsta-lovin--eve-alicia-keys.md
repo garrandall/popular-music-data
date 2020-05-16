@@ -1,9 +1,12 @@
 ---
+album: Eve-Olution
 artists:
 - Eve
+external_ids:
+  spotify: spotify:track:0WgLpgUdThEpA5L5K0SKq7
 features:
 - Alicia Keys
-genres: []
+first_released_as_single: false
 key: gangsta-lovin--eve-alicia-keys
 lyrics_url: https://www.azlyrics.com/lyrics/eve/gangstalovin.html
 name: Gangsta Lovin'
@@ -96,9 +99,9 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '2002-12-07'
+release_year: 2002
+runtime: 239266
 ---
-
-
 I just wanna rock you
 All night long, oh
 I wanna rock you
@@ -219,6 +222,3 @@ Ya know I wanna rock wit' you
 (It's gangsta, gangsta love, oh
 Ya know I wanna rock wit you
 Baby lemme rock wit' you
-
-
-

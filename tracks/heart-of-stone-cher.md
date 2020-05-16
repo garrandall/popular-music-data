@@ -1,8 +1,11 @@
 ---
+album: Heart Of Stone
 artists:
 - Cher
+external_ids:
+  spotify: spotify:track:2j8ThleRVt1A8zKIs2B4D1
 features: []
-genres: []
+first_released_as_single: false
 key: heart-of-stone-cher
 lyrics_url: https://www.azlyrics.com/lyrics/cher/heartofstone.html
 name: Heart Of Stone
@@ -63,8 +66,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1990-05-12'
+release_year: 1989
+runtime: 256293
 ---
-
 Beneath the white fire of the moon
 Love's wings are broken all too soon
 We never learn
@@ -107,4 +111,3 @@ Mercy, mercy wish your heart was a heart of stone
 (With a heart of stone, you'll be well protected)
 Don't you sometimes wish your heart was made of stone
 (With a heart of stone, you'll be well connected)
-

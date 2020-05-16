@@ -1,8 +1,11 @@
 ---
+album: 28 Big Ones
 artists:
 - Hot Butter
+external_ids:
+  spotify: spotify:track:6Z5wWOqBfk4G3bP1KF2Vbj
 features: []
-genres: []
+first_released_as_single: false
 key: popcorn-hot-butter
 lyrics_url: https://www.musixmatch.com/lyrics/Hot-Butter/Popcorn
 name: Popcorn
@@ -79,5 +82,7 @@ rankings:
   rank: 32
   ranking_list: Billboard Hot 100
   start_date: '1972-11-04'
+release_year: 1972
+runtime: 151440
 ---
 Instrumental

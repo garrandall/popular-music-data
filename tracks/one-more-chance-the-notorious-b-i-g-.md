@@ -1,8 +1,11 @@
 ---
+album: Ready to Die
 artists:
 - The Notorious B.I.G.
+external_ids:
+  spotify: spotify:track:5onGESUxi3P9xLt311oS59
 features: []
-genres: []
+first_released_as_single: false
 key: one-more-chance-the-notorious-b-i-g-
 lyrics_url: https://www.azlyrics.com/lyrics/notoriousbig/onemorechance.html
 name: One More Chance
@@ -87,10 +90,9 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '1995-11-04'
+release_year: 1994
+runtime: 283053
 ---
-
-
-
 All you hoes, callin' here for my daddy get off his dick.
 Like that Mommy?
 
@@ -183,4 +185,3 @@ They don't call me B.I.G. for nuttin, all of a sudden
 
 Oh Biggie gimme one more chance
 I got that good dick girl you didn't know
-

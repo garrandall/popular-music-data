@@ -1,8 +1,11 @@
 ---
+album: Bedtime Stories
 artists:
 - Madonna
+external_ids:
+  spotify: spotify:track:5oqukcHWfqq7HGjyKwLX1y
 features: []
-genres: []
+first_released_as_single: false
 key: take-a-bow-madonna
 lyrics_url: https://www.azlyrics.com/lyrics/madonna/takeabow.html
 name: Take A Bow
@@ -127,8 +130,9 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1995-07-08'
+release_year: 1994
+runtime: 321360
 ---
-
 Take a bow, the night is over
 This masquerade is getting older
 Light are low, the curtains down
@@ -179,6 +183,3 @@ The show is over, say good-bye
 
 Say good-bye (bye bye), say good-bye
 Say good-bye
-
-
-

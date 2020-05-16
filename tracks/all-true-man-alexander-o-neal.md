@@ -1,8 +1,11 @@
 ---
+album: All True Man
 artists:
 - Alexander O'Neal
+external_ids:
+  spotify: spotify:track:6nhCjIwKCpZCol6O4ciUTu
 features: []
-genres: []
+first_released_as_single: false
 key: all-true-man-alexander-o-neal
 lyrics_url: https://genius.com/Alexander-oneal-all-true-man-lyrics
 name: All True Man
@@ -51,6 +54,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1991-05-04'
+release_year: 1991
+runtime: 304426
 ---
 When you need a friend
 Someone you can lean on

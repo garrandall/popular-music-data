@@ -1,8 +1,11 @@
 ---
+album: Beauty Behind The Madness
 artists:
 - The Weeknd
+external_ids:
+  spotify: spotify:track:7fBv7CLKzipRk6EC6TWHOB
 features: []
-genres: []
+first_released_as_single: false
 key: the-hills-the-weeknd
 lyrics_url: https://www.azlyrics.com/lyrics/weeknd/thehills.html
 name: The Hills
@@ -199,8 +202,9 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2016-05-07'
+release_year: 2015
+runtime: 242253
 ---
-
 Your man on the road, he doing promo
 You said keep our business on the low-low
 I'm just tryna get you out the friend zone
@@ -276,6 +280,3 @@ My beautiful one
 I love you
 My love, love, love, love, love
 My love, love, love, love, love]
-
-
-

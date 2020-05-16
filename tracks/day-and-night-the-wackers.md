@@ -1,8 +1,11 @@
 ---
+album: Shredder
 artists:
 - The Wackers
+external_ids:
+  spotify: spotify:track:5ENBgM8ZTPQD6WznRlbrs1
 features: []
-genres: []
+first_released_as_single: false
 key: day-and-night-the-wackers
 name: Day And Night
 rankings:
@@ -26,5 +29,7 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '1972-12-16'
+release_year: 1972
+runtime: 186253
 ---
 

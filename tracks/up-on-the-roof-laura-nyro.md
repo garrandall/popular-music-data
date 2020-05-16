@@ -1,8 +1,11 @@
 ---
+album: 'Time And Love: The Essential Masters'
 artists:
 - Laura Nyro
+external_ids:
+  spotify: spotify:track:5dinAEfvTURA3MpH2gDZ7g
 features: []
-genres: []
+first_released_as_single: false
 key: up-on-the-roof-laura-nyro
 lyrics_url: https://genius.com/Laura-nyro-up-on-the-roof-lyrics
 name: Up On The Roof
@@ -15,6 +18,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1970-10-17'
+release_year: 1967
+runtime: 195640
 ---
 When this old world starts getting me down
 And people are much too much for me to take (up on the roof)

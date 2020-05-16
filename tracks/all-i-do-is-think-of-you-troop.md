@@ -1,8 +1,11 @@
 ---
+album: Attitude
 artists:
 - Troop
+external_ids:
+  spotify: spotify:track:4XhrowM5IKGCRrY2HzYBH3
 features: []
-genres: []
+first_released_as_single: false
 key: all-i-do-is-think-of-you-troop
 lyrics_url: https://genius.com/Troop-all-i-do-is-think-of-you-lyrics
 name: All I Do Is Think Of You
@@ -59,6 +62,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1990-09-29'
+release_year: 1989
+runtime: 229053
 ---
 I can't wait to get to school each day
 And wait for you to pass my way

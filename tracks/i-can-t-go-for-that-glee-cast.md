@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music, The Complete Season Three'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:2zgQMaosCMcPKjxs9QQfte
 features: []
-genres: []
+first_released_as_single: false
 key: i-can-t-go-for-that-glee-cast
 lyrics_url: https://genius.com/Glee-cast-i-cant-go-for-that-you-make-my-dreams-lyrics
 name: I Can't Go For That
@@ -11,6 +14,8 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '2011-12-03'
+release_year: 2011
+runtime: 161320
 ---
 Finn:
 What I want you've got

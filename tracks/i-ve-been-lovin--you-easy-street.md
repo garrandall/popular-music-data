@@ -1,8 +1,11 @@
 ---
+album: Easy Street
 artists:
 - Easy Street
+external_ids:
+  spotify: spotify:track:3jSF8OsRmncqexIwCLpAfA
 features: []
-genres: []
+first_released_as_single: false
 key: i-ve-been-lovin--you-easy-street
 name: I've Been Lovin' You
 rankings:
@@ -26,5 +29,7 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1976-08-07'
+release_year: 1976
+runtime: 220680
 ---
 

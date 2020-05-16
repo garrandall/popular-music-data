@@ -1,8 +1,11 @@
 ---
+album: Why Do Fools Fall in Love
 artists:
 - Diana Ross
+external_ids:
+  spotify: spotify:track:5E7suGUJJwsAmUMEfRdCr6
 features: []
-genres: []
+first_released_as_single: false
 key: mirror-mirror-diana-ross
 lyrics_url: https://www.azlyrics.com/lyrics/dianaross/mirrormirror.html
 name: Mirror Mirror
@@ -63,8 +66,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1982-04-10'
+release_year: 1981
+runtime: 367373
 ---
-
 Mirror, mirror on the wall
 You said you had the answer to it all
 You never told me I'd take the fall
@@ -137,6 +141,3 @@ Tell me mirror, mirror, mirror
 On the wall
 Tell me mirror
 Tell me mirror
-
-
-

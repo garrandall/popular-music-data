@@ -1,8 +1,11 @@
 ---
+album: Out of the Blue
 artists:
 - Electric Light Orchestra
+external_ids:
+  spotify: spotify:track:1EnvgRHJScXbDlDSNbKw2Z
 features: []
-genres: []
+first_released_as_single: false
 key: turn-to-stone-electric-light-orchestra
 lyrics_url: https://www.azlyrics.com/lyrics/electriclightorchestra/turntostone.html
 name: Turn To Stone
@@ -67,8 +70,9 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1978-02-25'
+release_year: 1972
+runtime: 228800
 ---
-
 The city streets are empty now THE LIGHTS DON'T SHINE NO MORE
 and so the songs are way down low TURNING TURNING TURNING
 A sound that flows into my mind THE ECHOES OF THE DAYLIGHT
@@ -103,6 +107,3 @@ Turn to stone when you are gone, I turn to stone.
 I turn to stone when you are gone, I turn to stone.
 Turn to stone when you comin' home, I can't go on.
 Turn to stone when you are gone, I turn to stone.
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Bloody Tourists
 artists:
 - 10cc
+external_ids:
+  spotify: spotify:track:1LOZMYF5s8qhW7Rv4w2gun
 features: []
-genres: []
+first_released_as_single: false
 key: dreadlock-holiday-10cc
 lyrics_url: https://www.azlyrics.com/lyrics/10cc/dreadlockholiday.html
 name: Dreadlock Holiday
@@ -47,8 +50,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1978-12-02'
+release_year: 1978
+runtime: 267946
 ---
-
 I was walkin' down the street
 Concentratin' on truckin' right
 I heard a dark voice beside of me
@@ -115,6 +119,3 @@ Don't like Jamaica
 I love her (Dreadlock Holiday) 
 
 I hurried back to the swimming pool
-
-
-

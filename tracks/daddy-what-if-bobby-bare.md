@@ -1,8 +1,11 @@
 ---
+album: Bobby Bare Sings Lullabys, Legends And Lies (And More)
 artists:
 - Bobby Bare
+external_ids:
+  spotify: spotify:track:6VQVOEBf29oqD7apGMfsIl
 features: []
-genres: []
+first_released_as_single: false
 key: daddy-what-if-bobby-bare
 lyrics_url: https://www.azlyrics.com/lyrics/bobbybare/daddywhatif.html
 name: Daddy What If
@@ -39,8 +42,9 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '1974-02-23'
+release_year: 1969
+runtime: 160800
 ---
-
 (Daddy what if the sun stop shinin', what would happen then?)
 
 If the sun stopped shinin' you'd be so surprised
@@ -71,6 +75,3 @@ You better start lovin' me again, again, you better start lovin' me again.
 
 You hear me Bobby, you better start lovin' me again.
 You love me Bobby, you better start lovin' me again...
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Adore (Super Deluxe)
 artists:
 - The Smashing Pumpkins
+external_ids:
+  spotify: spotify:track:5DuaMIvmPyT3oEvuccx6JO
 features: []
-genres: []
+first_released_as_single: false
 key: perfect-the-smashing-pumpkins
 lyrics_url: https://www.azlyrics.com/lyrics/smashingpumpkins/perfect.html
 name: Perfect
@@ -31,8 +34,9 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '1998-11-28'
+release_year: 1998
+runtime: 202853
 ---
-
 I know we're just like old friends 
 We just can't pretend 
 That lovers make amends 
@@ -66,6 +70,3 @@ You know this has to be
 We always we're so free 
 We promised that we'd be 
 Perfect
-
-
-

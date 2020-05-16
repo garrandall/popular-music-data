@@ -1,8 +1,11 @@
 ---
+album: Against The Wind
 artists:
 - Bob Seger
+external_ids:
+  spotify: spotify:track:5pKo2ed3oEdFFV5L8xUA04
 features: []
-genres: []
+first_released_as_single: false
 key: you-ll-accomp-ny-me-bob-seger
 lyrics_url: https://genius.com/Bob-seger-youll-accompny-me-lyrics
 name: You'll Accomp'ny Me
@@ -71,6 +74,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1980-11-08'
+release_year: 1980
+runtime: 240226
 ---
 A gypsy wind is blowin' warm tonight
 The sky is starlit and the time is right

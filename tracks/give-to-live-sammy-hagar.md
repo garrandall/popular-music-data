@@ -1,8 +1,11 @@
 ---
+album: I Never Said Goodbye
 artists:
 - Sammy Hagar
+external_ids:
+  spotify: spotify:track:0R8vaqcl7316PnMAWFTSK3
 features: []
-genres: []
+first_released_as_single: false
 key: give-to-live-sammy-hagar
 lyrics_url: https://www.azlyrics.com/lyrics/sammyhagar/givetolive.html
 name: Give To Live
@@ -75,8 +78,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1987-10-10'
+release_year: 1987
+runtime: 264093
 ---
-
 Oh, I can see that you've got fire in your eyes
 And pain inside your heart
 So many things have come and torn your world apart
@@ -147,6 +151,3 @@ You've got to give, you've got to give to live
 (If you want love) oh, oh
 (If you want love) oh, oh
 (If you want love) oh, oh
-
-
-

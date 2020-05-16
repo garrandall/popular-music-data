@@ -1,9 +1,12 @@
 ---
+album: Shake A Tail Feather! The Best Of James And Bobby Purify
 artists:
 - James
 - Bobby Purify
+external_ids:
+  spotify: spotify:track:6ykLs6tGHh7VY2mVTxjD8n
 features: []
-genres: []
+first_released_as_single: false
 key: do-unto-me-james-bobby-purify
 lyrics_url: https://www.musixmatch.com/lyrics/James-Bobby-Purify/Do-Unto-Me
 name: Do Unto Me
@@ -32,6 +35,8 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1968-02-17'
+release_year: 1968
+runtime: 150093
 ---
 Woman Your Sweeter (Woman Your Sweeter)
 Than The Honey Made By Bees (So Much Sweeter)

@@ -1,8 +1,11 @@
 ---
+album: Look What The Cat Dragged In - 20th Anniversary Edition
 artists:
 - Poison
+external_ids:
+  spotify: spotify:track:3hetLCL51bTjUMRWYL8LSX
 features: []
-genres: []
+first_released_as_single: false
 key: i-want-action-poison
 lyrics_url: https://genius.com/Poison-i-want-action-lyrics
 name: I Want Action
@@ -47,6 +50,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1987-08-15'
+release_year: 1986
+runtime: 185560
 ---
 I want action tonight
 Satisfaction all night

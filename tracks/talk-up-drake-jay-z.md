@@ -1,9 +1,12 @@
 ---
+album: Scorpion
 artists:
 - Drake
+external_ids:
+  spotify: spotify:track:4ksuI04WMvUnJbHQjgs3L5
 features:
 - JAY-Z
-genres: []
+first_released_as_single: false
 key: talk-up-drake-jay-z
 lyrics_url: https://genius.com/Drake-talk-up-lyrics
 name: Talk Up
@@ -20,6 +23,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2018-07-28'
+release_year: 2018
+runtime: 223240
 ---
 DJ Paul
 TWhy

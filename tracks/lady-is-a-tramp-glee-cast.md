@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music, Volume 3 Showstoppers'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:05U9c8s9N8YUXNzGv3k4c7
 features: []
-genres: []
+first_released_as_single: false
 key: lady-is-a-tramp-glee-cast
 lyrics_url: https://www.azlyrics.com/lyrics/gleecast/theladyisatramp.html
 name: Lady Is A Tramp
@@ -11,8 +14,9 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '2010-05-29'
+release_year: 2010
+runtime: 166200
 ---
-
 She gets too hungry, for dinner at eight
 She loves the theater, but doesn't come late
 She'd never bother, with people she'd hate
@@ -102,6 +106,3 @@ I like the sweet fresh rain in my face
 Diamonds and lace - no got, so what?
 For Robert Taylor I whistle and stamp
 That's why the lady is a tramp
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: All Together Now
 artists:
 - Argent
+external_ids:
+  spotify: spotify:track:3vfIv3pvYlLOa0wKIEuqFn
 features: []
-genres: []
+first_released_as_single: false
 key: hold-your-head-up-argent
 lyrics_url: https://genius.com/Argent-hold-your-head-up-lyrics
 name: Hold Your Head Up
@@ -67,6 +70,8 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '1972-09-23'
+release_year: 1971
+runtime: 377560
 ---
 And if it's bad
 Don't let it get you down, you can take it

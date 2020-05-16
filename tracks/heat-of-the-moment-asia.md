@@ -1,8 +1,11 @@
 ---
+album: Asia
 artists:
 - Asia
+external_ids:
+  spotify: spotify:track:1nmZ8yqKkfooOuYvtFctDp
 features: []
-genres: []
+first_released_as_single: false
 key: heat-of-the-moment-asia
 lyrics_url: https://genius.com/Asia-heat-of-the-moment-lyrics
 name: Heat Of The Moment
@@ -79,6 +82,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1982-08-14'
+release_year: 1982
+runtime: 227626
 ---
 I never meant to be so bad to you
 One thing I said that I would never do

@@ -1,8 +1,11 @@
 ---
+album: Swing Softly
 artists:
 - Johnny Mathis
+external_ids:
+  spotify: spotify:track:5xrvzYp6p9GB4DEns3JOv4
 features: []
-genres: []
+first_released_as_single: false
 key: someone-johnny-mathis
 lyrics_url: https://genius.com/Johnny-mathis-someone-lyrics
 name: Someone
@@ -59,6 +62,8 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '1959-06-15'
+release_year: 1958
+runtime: 161120
 ---
 Someone really love you guess who
 Someone really needs you guess why

@@ -1,8 +1,11 @@
 ---
+album: Me And My Gang
 artists:
 - Rascal Flatts
+external_ids:
+  spotify: spotify:track:2Fs18NaCDuluPG1DHGw1XG
 features: []
-genres: []
+first_released_as_single: false
 key: life-is-a-highway-rascal-flatts
 lyrics_url: https://www.azlyrics.com/lyrics/rascalflatts/lifeisahighway.html
 name: Life Is A Highway
@@ -87,8 +90,9 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '2006-10-28'
+release_year: 2006
+runtime: 276320
 ---
-
 Whooo umm yeah
 
 Life is like a road that you travel on
@@ -167,6 +171,3 @@ I wanna ride it all night long
 Yeah, I wanna drive it all night long, baby
 If you're going my way
 I wanna drive it all night long
-
-
-

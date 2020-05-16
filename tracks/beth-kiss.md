@@ -1,8 +1,11 @@
 ---
+album: Destroyer
 artists:
 - KISS
+external_ids:
+  spotify: spotify:track:1cPXOzyeZauSAsT1yy7aBp
 features: []
-genres: []
+first_released_as_single: false
 key: beth-kiss
 lyrics_url: https://genius.com/Kiss-beth-lyrics
 name: Beth
@@ -91,6 +94,8 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1977-01-22'
+release_year: 1976
+runtime: 165666
 ---
 Beth, I hear you calling
 But I can't come home right now

@@ -1,8 +1,11 @@
 ---
+album: Mobile Estates
 artists:
 - Citizen King
+external_ids:
+  spotify: spotify:track:460Wn6Dq2uMviG5nPXtPnb
 features: []
-genres: []
+first_released_as_single: false
 key: better-days--and-the-bottom-drops-out--citizen-king
 lyrics_url: https://genius.com/Citizen-king-better-days-and-the-bottom-drops-out-lyrics
 name: Better Days (And The Bottom Drops Out)
@@ -87,6 +90,8 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '1999-10-09'
+release_year: 1999
+runtime: 207026
 ---
 (It goes a little somethin' like, like, like this)
 

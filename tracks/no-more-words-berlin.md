@@ -1,8 +1,11 @@
 ---
+album: Love Life
 artists:
 - Berlin
+external_ids:
+  spotify: spotify:track:2a2M4Zh4drzHJ7Yl2nxM04
 features: []
-genres: []
+first_released_as_single: false
 key: no-more-words-berlin
 lyrics_url: https://www.azlyrics.com/lyrics/berlin/nomorewords.html
 name: No More Words
@@ -75,8 +78,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1984-06-30'
+release_year: 1984
+runtime: 235000
 ---
-
 You're talking, it all sounds fair
 You promise your love, how much you care
 I'm still listening and still unsure
@@ -120,6 +124,3 @@ No more words and no more promises
 No more words and no more promises of love
 No more words and no more promises of love
 No more words and no more promises of love
-
-
-

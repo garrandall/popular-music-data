@@ -1,8 +1,11 @@
 ---
+album: Gloria
 artists:
 - The Shadows Of Knight
+external_ids:
+  spotify: spotify:track:55TAMPcVRoKJMAge37tkhr
 features: []
-genres: []
+first_released_as_single: false
 key: oh-yeah-the-shadows-of-knight
 lyrics_url: https://genius.com/The-shadows-of-knight-oh-yeah-lyrics
 name: Oh Yeah
@@ -31,6 +34,8 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1966-07-09'
+release_year: 1966
+runtime: 168293
 ---
 Everything gonna be alright this mornin'
 

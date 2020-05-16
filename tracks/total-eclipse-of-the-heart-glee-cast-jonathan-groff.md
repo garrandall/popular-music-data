@@ -1,9 +1,12 @@
 ---
+album: 'Glee: The Music, Volume 3 Showstoppers'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:4KLp7sKY2YCzaSQelZZjZr
 features:
 - Jonathan Groff
-genres: []
+first_released_as_single: false
 key: total-eclipse-of-the-heart-glee-cast-jonathan-groff
 lyrics_url: https://genius.com/Glee-cast-total-eclipse-of-the-heart-lyrics
 name: Total Eclipse Of The Heart
@@ -16,6 +19,8 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '2010-05-29'
+release_year: 2010
+runtime: 264493
 ---
 Turn around
 

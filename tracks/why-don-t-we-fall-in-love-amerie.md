@@ -1,8 +1,11 @@
 ---
+album: All I Have
 artists:
 - Amerie
+external_ids:
+  spotify: spotify:track:4bnjq8zqtCnxTGxll5ezOO
 features: []
-genres: []
+first_released_as_single: false
 key: why-don-t-we-fall-in-love-amerie
 lyrics_url: https://genius.com/Amerie-why-dont-we-fall-in-love-lyrics
 name: Why Don't We Fall In Love
@@ -83,6 +86,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2002-10-12'
+release_year: 2002
+runtime: 159293
 ---
 So many things I'm going through
 So much that I wanna do

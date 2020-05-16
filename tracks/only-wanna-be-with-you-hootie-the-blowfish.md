@@ -1,8 +1,11 @@
 ---
+album: Cracked Rear View
 artists:
 - Hootie and The Blowfish
+external_ids:
+  spotify: spotify:track:1OFKUn2VLafrHj7ybnap0Q
 features: []
-genres: []
+first_released_as_single: false
 key: only-wanna-be-with-you-hootie-the-blowfish
 lyrics_url: https://www.azlyrics.com/lyrics/hootietheblowfish/onlywannabewithyou.html
 name: Only Wanna Be With You
@@ -135,8 +138,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1996-03-09'
+release_year: 1994
+runtime: 229586
 ---
-
 You and me
 We come from different worlds
 You like to laugh at me
@@ -194,6 +198,3 @@ I only wanna be with you
 I only wanna be with you
 I only wanna be with you
 I only wanna be with you
-
-
-

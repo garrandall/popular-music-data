@@ -1,8 +1,11 @@
 ---
+album: Hi Infidelity
 artists:
 - REO Speedwagon
+external_ids:
+  spotify: spotify:track:4rcHWl68ai6KvpXlc8vbnE
 features: []
-genres: []
+first_released_as_single: false
 key: keep-on-loving-you-reo-speedwagon
 lyrics_url: https://www.azlyrics.com/lyrics/reospeedwagon/keeponlovingyou.html
 name: Keep On Loving You
@@ -119,8 +122,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1981-06-06'
+release_year: 1980
+runtime: 200293
 ---
-
 You should have seen by the look in my eyes, baby
 There was something missin'
 You should have known by the tone in my voice, maybe
@@ -158,6 +162,3 @@ Baby, I'm gonna keep on lovin' you
 Cause it's the only thing I wanna do
 I don't wanna sleep
 I just wanna keep on lovin' you
-
-
-

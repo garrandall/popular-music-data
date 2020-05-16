@@ -1,8 +1,11 @@
 ---
+album: Native Tongue
 artists:
 - Poison
+external_ids:
+  spotify: spotify:track:6SWdFhPuHxGNcO4HvJQrgw
 features: []
-genres: []
+first_released_as_single: false
 key: stand-poison
 lyrics_url: https://genius.com/Poison-stand-lyrics
 name: Stand
@@ -47,6 +50,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1993-04-03'
+release_year: 1993
+runtime: 315773
 ---
 Stand
 

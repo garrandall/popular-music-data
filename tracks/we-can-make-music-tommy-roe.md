@@ -1,8 +1,11 @@
 ---
+album: Tommy's 22 Big Ones
 artists:
 - Tommy Roe
+external_ids:
+  spotify: spotify:track:1Z5lpEkOOO1ggtEAP6Sg20
 features: []
-genres: []
+first_released_as_single: false
 key: we-can-make-music-tommy-roe
 lyrics_url: https://genius.com/Tommy-roe-we-can-make-music-lyrics
 name: We Can Make Music
@@ -31,6 +34,8 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '1970-10-17'
+release_year: 1970
+runtime: 171373
 ---
 Nah nah, nah nah nah, nah nah nah
 Nah nah, nah nah nah, nah nah nah

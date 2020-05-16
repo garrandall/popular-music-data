@@ -1,8 +1,11 @@
 ---
+album: Old Dominion
 artists:
 - Old Dominion
+external_ids:
+  spotify: spotify:track:08dFHFTx6r67MTsYn5ilDR
 features: []
-genres: []
+first_released_as_single: false
 key: one-man-band-old-dominion
 lyrics_url: https://www.azlyrics.com/lyrics/olddominion/onemanband.html
 name: One Man Band
@@ -119,8 +122,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2020-03-14'
+release_year: 2019
+runtime: 186240
 ---
-
 Been flying solo for so long
 Nobody's singing a harmony
 Up there just me and my shadow
@@ -173,6 +177,3 @@ Baby, take my hand
 'Cause I don't wanna be a one man band
 
 I don't wanna be a one man band
-
-
-

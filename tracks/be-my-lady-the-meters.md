@@ -1,8 +1,11 @@
 ---
+album: New Directions
 artists:
 - The Meters
+external_ids:
+  spotify: spotify:track:7cCAuGquZTwbhmdslQbH08
 features: []
-genres: []
+first_released_as_single: false
 key: be-my-lady-the-meters
 lyrics_url: https://genius.com/The-meters-be-my-lady-lyrics
 name: Be My Lady
@@ -15,6 +18,8 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1977-10-08'
+release_year: 1977
+runtime: 385733
 ---
 Would you be my lady for the lifetime?
 With this is a song I want to fill the air

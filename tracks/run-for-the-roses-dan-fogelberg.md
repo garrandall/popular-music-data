@@ -1,8 +1,11 @@
 ---
+album: Love Songs
 artists:
 - Dan Fogelberg
+external_ids:
+  spotify: spotify:track:3TyNmJ7jRiryoLkB4ChAfA
 features: []
-genres: []
+first_released_as_single: false
 key: run-for-the-roses-dan-fogelberg
 lyrics_url: https://www.azlyrics.com/lyrics/danfogelberg/runfortheroses.html
 name: Run For The Roses
@@ -63,8 +66,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1982-07-03'
+release_year: 1979
+runtime: 254293
 ---
-
 Born in the valley
 And raised in the trees
 Of Western Kentucky
@@ -116,6 +120,3 @@ And it's high time
 You joined in the dance
 It's high time
 You joined in the dance
-
-
-

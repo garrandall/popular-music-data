@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music, The Complete Season Three'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:5nG61RBqGELCNIsWHl8dsu
 features: []
-genres: []
+first_released_as_single: false
 key: shake-it-out-glee-cast
 lyrics_url: https://www.azlyrics.com/lyrics/gleecast/shakeitout.html
 name: Shake It Out
@@ -11,9 +14,9 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '2012-05-19'
+release_year: 2012
+runtime: 249293
 ---
-
-
 Regrets collect like old friends
 Here to relive your darkest moments
 I can see no way, I can see no way
@@ -122,6 +125,3 @@ Shake it out, shake it out, shake it out, shake it out, oh whoa
 Shake it out, shake it out, shake it out, shake it out, oh whoa
 And it's hard to dance with the devil on your back
 So shake him off, oh whoa
-
-
-

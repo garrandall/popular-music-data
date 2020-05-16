@@ -1,9 +1,12 @@
 ---
+album: Shine
 artists:
 - Estelle
+external_ids:
+  spotify: spotify:track:30FnQNs5fm2GySQcUL5YlS
 features:
 - Kanye West
-genres: []
+first_released_as_single: true
 key: american-boy-estelle-kanye-west
 lyrics_url: https://www.azlyrics.com/lyrics/estelle/americanboy.html
 name: American Boy
@@ -128,9 +131,9 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2008-11-22'
+release_year: 2008
+runtime: 284733
 ---
-
-
 This a number-one champion sound.
 Yeah, Estelle, we 'bout to get down, get down.
 Who the hottest in the world right now.
@@ -175,7 +178,7 @@ Will you be my American boy, American boy?
 
 Can we get away this weekend?
 Take me to Broadway.
-Let's go shopping, maybe, then we'll go to a cafÃ©.
+Let's go shopping, maybe, then we'll go to a café.
 Let's go on the subway.
 Take me to your hood.
 I never been to Brooklyn and I'd like to see what's good.
@@ -253,6 +256,3 @@ American boy.
 La, la, la, la, la, la, la, la.
 La, la, la, la, la, la, la, la.
 Will you be my American boy?
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: The Best Of Ronnie Dove Volume 1
 artists:
 - Ronnie Dove
+external_ids:
+  spotify: spotify:track:58CWXjWbc3deV8Z1LZIYDC
 features: []
-genres: []
+first_released_as_single: false
 key: a-little-bit-of-heaven-ronnie-dove
 lyrics_url: https://genius.com/Ronnie-dove-a-little-bit-of-heaven-lyrics
 name: A Little Bit Of Heaven
@@ -47,6 +50,8 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '1965-08-07'
+release_year: 1965
+runtime: 169720
 ---
 (CHORUS)
 Got a little bit of Heaven

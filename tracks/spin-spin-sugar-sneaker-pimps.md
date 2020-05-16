@@ -1,8 +1,11 @@
 ---
+album: Becoming Remixed
 artists:
 - Sneaker Pimps
+external_ids:
+  spotify: spotify:track:2QOt4gnjnHGHdj6fXwTZ4b
 features: []
-genres: []
+first_released_as_single: true
 key: spin-spin-sugar-sneaker-pimps
 lyrics_url: https://genius.com/Sneaker-pimps-spin-spin-sugar-lyrics
 name: Spin Spin Sugar
@@ -59,6 +62,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1998-02-07'
+release_year: 1997
+runtime: 262933
 ---
 I'm everyone, I feel used
 I'm everyone, I need you

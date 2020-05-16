@@ -1,8 +1,11 @@
 ---
+album: Fine Line
 artists:
 - Harry Styles
+external_ids:
+  spotify: spotify:track:1M4qEo4HE3PRaCOM7EXNJq
 features: []
-genres: []
+first_released_as_single: true
 key: adore-you-harry-styles
 lyrics_url: https://www.azlyrics.com/lyrics/harrystyles/adoreyou.html
 name: Adore You
@@ -63,8 +66,9 @@ rankings:
   rank: 16
   ranking_list: Billboard Hot 100
   start_date: '2020-03-21'
+release_year: 2019
+runtime: 207133
 ---
-
 Walk in your rainbow paradise
 Strawberry lipstick state of mind
 I get so lost inside your eyes
@@ -127,6 +131,3 @@ Just let me adore you
 Oh honey
 Just let me adore you
 Like it's the only thing I'll ever do
-
-
-

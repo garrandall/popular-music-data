@@ -1,8 +1,11 @@
 ---
+album: How Country Feels
 artists:
 - Randy Houser
+external_ids:
+  spotify: spotify:track:6enPOmd3vSFpI4jjms8kXN
 features: []
-genres: []
+first_released_as_single: false
 key: runnin--outta-moonlight-randy-houser
 lyrics_url: https://www.azlyrics.com/lyrics/randyhouser/runninouttamoonlight.html
 name: Runnin' Outta Moonlight
@@ -87,8 +90,9 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '2013-10-05'
+release_year: 2013
+runtime: 193773
 ---
-
 Don't you worry 'bout gettin' fixed up
 When you wake up, you're pretty enough
 Look out your window at the cloud of dust
@@ -154,6 +158,3 @@ Come on, come on, come on we're runnin' outta moonlight
 Whoa
 Yea we're runnin' outta moonlight
 Whoa
-
-
-

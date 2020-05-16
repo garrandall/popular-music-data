@@ -1,8 +1,11 @@
 ---
+album: Rockabilly Party
 artists:
 - Jack Scott
+external_ids:
+  spotify: spotify:track:6HW8fAuEDFLfhJhVzqvd4K
 features: []
-genres: []
+first_released_as_single: false
 key: is-there-something-on-your-mind-jack-scott
 lyrics_url: https://genius.com/Jack-scott-is-there-something-on-your-mind-lyrics
 name: Is There Something On Your Mind
@@ -11,6 +14,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1961-01-09'
+release_year: 1961
+runtime: 164533
 ---
 Is there something on your mind
 That you're not telling me?

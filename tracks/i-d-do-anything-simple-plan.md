@@ -1,8 +1,11 @@
 ---
+album: MTV Hard Rock Live (U.S. Version)
 artists:
 - Simple Plan
+external_ids:
+  spotify: spotify:track:3XXBcPeOXJpAn71vE4yAjY
 features: []
-genres: []
+first_released_as_single: false
 key: i-d-do-anything-simple-plan
 lyrics_url: https://genius.com/Simple-plan-id-do-anything-lyrics
 name: I'd Do Anything
@@ -55,6 +58,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2003-05-03'
+release_year: 2003
+runtime: 215333
 ---
 Another day is going by
 I'm thinking about you all the time

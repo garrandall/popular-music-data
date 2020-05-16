@@ -1,9 +1,12 @@
 ---
+album: Kanye West Presents Good Music Cruel Summer
 artists:
 - Kanye West
 - R. Kelly
+external_ids:
+  spotify: spotify:track:3blnw5Z6v5yiGueFGgS6uB
 features: []
-genres: []
+first_released_as_single: false
 key: to-the-world-kanye-west-r--kelly
 lyrics_url: https://www.azlyrics.com/lyrics/kanyewest/totheworld.html
 name: To The World
@@ -16,9 +19,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2012-10-13'
+release_year: 2012
+runtime: 230946
 ---
-
-
 Let me see you put your middle fingers up
 To the world, I made up in my mind
 I'm doin' things my way, I'm burnin' shit down tonight
@@ -87,6 +90,3 @@ To the world, to the world, from the ground to the moon
 Here's to the mountains, yeah here's to the room
 Give it up, give it up, won't let you deny me
 Makin' you love me, makin' you love me
-
-
-

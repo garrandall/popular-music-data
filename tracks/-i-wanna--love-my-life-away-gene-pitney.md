@@ -1,8 +1,11 @@
 ---
+album: The Best Of Gene Pitney
 artists:
 - Gene Pitney
+external_ids:
+  spotify: spotify:track:1fNR9tY52D1V79V5eNqxxx
 features: []
-genres: []
+first_released_as_single: false
 key: -i-wanna--love-my-life-away-gene-pitney
 lyrics_url: https://www.azlyrics.com/lyrics/genepitney/iwannalovemylifeaway.html
 name: (I Wanna) Love My Life Away
@@ -39,8 +42,9 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1961-03-20'
+release_year: 1961
+runtime: 114906
 ---
-
 Yeah I want to love my life away 
 I wanna love my life away 
 I wanna love, love, love 
@@ -78,6 +82,3 @@ Love my life away with you
 
 
 Yeah I want to love my life away
-
-
-

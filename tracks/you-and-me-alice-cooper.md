@@ -1,8 +1,11 @@
 ---
+album: Lace & Whiskey
 artists:
 - Alice Cooper
+external_ids:
+  spotify: spotify:track:5k68ZFktJA3JlRfenOJA9y
 features: []
-genres: []
+first_released_as_single: false
 key: you-and-me-alice-cooper
 lyrics_url: https://genius.com/Alice-cooper-you-and-me-lyrics
 name: You And Me
@@ -91,6 +94,8 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1977-09-17'
+release_year: 1977
+runtime: 306573
 ---
 When I get home from work
 I wanna wrap myself around you

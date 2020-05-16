@@ -1,8 +1,11 @@
 ---
+album: Don't Be Cruel
 artists:
 - Bobby Brown
+external_ids:
+  spotify: spotify:track:0cAiOfc6uxr6NCyQ80ZigK
 features: []
-genres: []
+first_released_as_single: false
 key: on-our-own-bobby-brown
 lyrics_url: https://www.azlyrics.com/lyrics/bobbybrown/onourown.html
 name: On Our Own
@@ -87,8 +90,9 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1989-10-21'
+release_year: 1988
+runtime: 290000
 ---
-
 If want something done, gotta do it yourself
 
 Yeah, I think this is gonna be another one of those funky ones
@@ -180,6 +184,3 @@ So they packed up their group, got a grip, came equipped
 Grabbed they Proton packs off their back and they split
 Found about Vigo, the master of evil
 Try to battle my boys? That's not legal
-
-
-

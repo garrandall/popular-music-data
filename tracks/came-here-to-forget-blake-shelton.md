@@ -1,8 +1,11 @@
 ---
+album: If I'm Honest
 artists:
 - Blake Shelton
+external_ids:
+  spotify: spotify:track:1N7qGCKRRnvjoy8MGyHgpS
 features: []
-genres: []
+first_released_as_single: false
 key: came-here-to-forget-blake-shelton
 lyrics_url: https://www.azlyrics.com/lyrics/blakeshelton/cameheretoforget.html
 name: Came Here To Forget
@@ -83,8 +86,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2016-07-30'
+release_year: 2016
+runtime: 220413
 ---
-
 Girl you're getting over him and I'm getting over her
 The eyes have it made, ain't gotta say a word
 Misery loves company, that's why it's you and me
@@ -134,6 +138,3 @@ What we came here to forget
 What we came here to forget
 Baby, baby
 That's what we came here to forget
-
-
-

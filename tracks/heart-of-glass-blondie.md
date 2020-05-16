@@ -1,8 +1,11 @@
 ---
+album: Parallel Lines
 artists:
 - Blondie
+external_ids:
+  spotify: spotify:track:4v2rkl1mC3zVAz0nXMx9r4
 features: []
-genres: []
+first_released_as_single: false
 key: heart-of-glass-blondie
 lyrics_url: https://genius.com/Blondie-heart-of-glass-lyrics
 name: Heart Of Glass
@@ -91,6 +94,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1979-07-07'
+release_year: 1978
+runtime: 229423
 ---
 Once I had a love and it was a gas
 Soon turned out had a heart of glass

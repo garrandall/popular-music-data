@@ -1,9 +1,12 @@
 ---
+album: What A Time To Be Alive
 artists:
 - Drake
 - Future
+external_ids:
+  spotify: spotify:track:2uTG00P1DkhB97pdITkl2O
 features: []
-genres: []
+first_released_as_single: false
 key: live-from-the-gutter-drake-future
 lyrics_url: https://genius.com/Drake-and-future-live-from-the-gutter-lyrics
 name: Live From The Gutter
@@ -28,6 +31,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2015-11-07'
+release_year: 2015
+runtime: 211642
 ---
 Hendrix, yeah
 I woke up like this

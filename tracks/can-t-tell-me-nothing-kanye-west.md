@@ -1,8 +1,11 @@
 ---
+album: Graduation
 artists:
 - Kanye West
+external_ids:
+  spotify: spotify:track:2MIBAmYwiuGoKUlpq9B9sZ
 features: []
-genres: []
+first_released_as_single: false
 key: can-t-tell-me-nothing-kanye-west
 lyrics_url: https://genius.com/Kanye-west-cant-tell-me-nothing-lyrics
 name: Can't Tell Me Nothing
@@ -83,6 +86,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2007-11-24'
+release_year: 2007
+runtime: 271600
 ---
 La, la, la la (Yeah)
 Wait 'til I get my money right

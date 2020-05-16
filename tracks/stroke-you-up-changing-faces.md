@@ -1,8 +1,11 @@
 ---
+album: Changing Faces
 artists:
 - Changing Faces
+external_ids:
+  spotify: spotify:track:4VcV0t8VN6AZcWTznJOUUN
 features: []
-genres: []
+first_released_as_single: false
 key: stroke-you-up-changing-faces
 lyrics_url: https://www.azlyrics.com/lyrics/changingfaces/strokeyouup.html
 name: Stroke You Up
@@ -91,8 +94,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1994-12-17'
+release_year: 1994
+runtime: 215899
 ---
-
 Relax baby, I'm gonna make you feel real good
 Tonight is your night, come here
 Let's get this shirt off
@@ -154,4 +158,3 @@ Do you mind if I? (oh yeah baby)
 Does it feel good? (yeah) C'mon (uh)
 Up and down, up and down (stroke me baby)
 Up and down (yeah)
-

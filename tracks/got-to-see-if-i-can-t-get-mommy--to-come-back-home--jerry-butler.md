@@ -1,8 +1,11 @@
 ---
+album: 'Iceman: The Mercury Years'
 artists:
 - Jerry Butler
+external_ids:
+  spotify: spotify:track:7w3tX3TlZagCr4PbeEGnpk
 features: []
-genres: []
+first_released_as_single: false
 key: got-to-see-if-i-can-t-get-mommy--to-come-back-home--jerry-butler
 lyrics_url: https://genius.com/Jerry-butler-got-to-see-if-i-cant-get-mommy-to-come-back-home-lyrics
 name: Got To See If I Can't Get Mommy (To Come Back Home)
@@ -27,6 +30,8 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1970-02-21'
+release_year: 1970
+runtime: 194733
 ---
 Before it was ripe
 Way before it was time

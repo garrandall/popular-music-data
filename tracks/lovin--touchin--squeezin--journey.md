@@ -1,8 +1,11 @@
 ---
+album: Evolution
 artists:
 - Journey
+external_ids:
+  spotify: spotify:track:6rKg5QyMnBGOFeUxl1Kgbz
 features: []
-genres: []
+first_released_as_single: false
 key: lovin--touchin--squeezin--journey
 lyrics_url: https://www.azlyrics.com/lyrics/journey/lovintouchinsqueezin.html
 name: Lovin' Touchin' Squeezin'
@@ -87,8 +90,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1979-12-01'
+release_year: 1975
+runtime: 296840
 ---
-
 You make me weep and wanna die
 Just when you said we'd try
 
@@ -118,6 +122,3 @@ Na na na na na na
 Na na na na na
 Na na na na na na
 Na na na na na
-
-
-

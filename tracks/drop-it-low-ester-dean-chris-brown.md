@@ -1,9 +1,12 @@
 ---
+album: Party Attitude
 artists:
 - Ester Dean
+external_ids:
+  spotify: spotify:track:5wuXWTCiKIlNEXfwAuTY1G
 features:
 - Chris Brown
-genres: []
+first_released_as_single: false
 key: drop-it-low-ester-dean-chris-brown
 lyrics_url: https://genius.com/Ester-dean-drop-it-low-lyrics
 name: Drop It Low
@@ -76,6 +79,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2010-01-16'
+release_year: 2009
+runtime: 190533
 ---
 Drop it, drop it low, girl, drop it, drop it low, girl
 Drop it, drop it low, girl, drop it, drop it low, girl

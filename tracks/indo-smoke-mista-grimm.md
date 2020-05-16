@@ -1,8 +1,11 @@
 ---
+album: 'Poetic Justice: Music from the Motion Picture'
 artists:
 - Mista Grimm
+external_ids:
+  spotify: spotify:track:63KcYWznO0w3J5wymiT9QK
 features: []
-genres: []
+first_released_as_single: false
 key: indo-smoke-mista-grimm
 lyrics_url: https://genius.com/Mista-grimm-indo-smoke-lyrics
 name: Indo Smoke
@@ -87,6 +90,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1994-02-05'
+release_year: 1993
+runtime: 322226
 ---
 Woo!, hey, this is the G-Child, spaceketeers
 Are ya in the house baby, are ya in the house?

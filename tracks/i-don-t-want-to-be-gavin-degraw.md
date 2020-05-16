@@ -1,8 +1,11 @@
 ---
+album: Chariot
 artists:
 - Gavin DeGraw
+external_ids:
+  spotify: spotify:track:4vl2zwXsTmAxgu9iY0g6UK
 features: []
-genres: []
+first_released_as_single: false
 key: i-don-t-want-to-be-gavin-degraw
 lyrics_url: https://genius.com/Gavin-degraw-i-dont-want-to-be-lyrics
 name: I Don't Want To Be
@@ -119,6 +122,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2005-04-30'
+release_year: 2003
+runtime: 217760
 ---
 I don't need to be anything other
 Than a prison guard's son

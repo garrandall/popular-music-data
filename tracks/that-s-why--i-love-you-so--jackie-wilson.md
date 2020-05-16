@@ -1,8 +1,11 @@
 ---
+album: Lonely Teardrops
 artists:
 - Jackie Wilson
+external_ids:
+  spotify: spotify:track:3f2dCpOap3vfqebOyVPHIs
 features: []
-genres: []
+first_released_as_single: false
 key: that-s-why--i-love-you-so--jackie-wilson
 lyrics_url: https://www.azlyrics.com/lyrics/jackiewilson/thatswhyiloveyouso.html
 name: That's Why (I Love You So)
@@ -59,8 +62,9 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1959-06-15'
+release_year: 1959
+runtime: 126226
 ---
-
 The way you make me feel like I belong
 The way you make me right when I am wrong
 The way you sacrifice just for me
@@ -115,6 +119,3 @@ Yeah, yeah, yeah, I want the... one more time, now!
 (that's why I love you so)
 C'mon, c'mon, baby...
 (that's why I love you so)
-
-
-

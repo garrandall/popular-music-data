@@ -1,8 +1,11 @@
 ---
+album: 90125 (Deluxe Version)
 artists:
 - 'Yes'
+external_ids:
+  spotify: spotify:track:52Lz3HKBItvMWuSNDBixq3
 features: []
-genres: []
+first_released_as_single: false
 key: it-can-happen-yes
 lyrics_url: https://genius.com/Yes-it-can-happen-lyrics
 name: It Can Happen
@@ -35,6 +38,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1984-08-04'
+release_year: 1983
+runtime: 329506
 ---
 You can fool yourself
 You can cheat until you're blind

@@ -1,8 +1,11 @@
 ---
+album: Hey Jude
 artists:
 - Wilson Pickett
+external_ids:
+  spotify: spotify:track:2U3J6weDBx3HdjQo7BbI47
 features: []
-genres: []
+first_released_as_single: false
 key: born-to-be-wild-wilson-pickett
 lyrics_url: https://genius.com/Wilson-pickett-born-to-be-wild-lyrics
 name: Born To Be Wild
@@ -23,6 +26,8 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '1969-05-31'
+release_year: 1969
+runtime: 166866
 ---
 Get your motor running
 Head out on the highway

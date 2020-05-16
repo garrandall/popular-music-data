@@ -1,8 +1,11 @@
 ---
+album: Fanny Hill
 artists:
 - Fanny
+external_ids:
+  spotify: spotify:track:1ega6rrK1rerH22HGA8Yen
 features: []
-genres: []
+first_released_as_single: false
 key: ain-t-that-peculiar-fanny
 lyrics_url: https://genius.com/Fanny-aint-that-peculiar-lyrics
 name: Ain't That Peculiar
@@ -19,6 +22,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1972-05-13'
+release_year: 1972
+runtime: 245800
 ---
 You do me wrong but still
 I'm crazy about you

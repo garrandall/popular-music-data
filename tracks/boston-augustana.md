@@ -1,8 +1,11 @@
 ---
+album: All The Stars and Boulevards
 artists:
 - Augustana
+external_ids:
+  spotify: spotify:track:2WZyfujzMweFLnozyUJBkW
 features: []
-genres: []
+first_released_as_single: false
 key: boston-augustana
 lyrics_url: https://www.azlyrics.com/lyrics/augustana/boston.html
 name: Boston
@@ -103,8 +106,9 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '2007-03-31'
+release_year: 2005
+runtime: 245933
 ---
-
 In the light of the sun, is there anyone? Oh, it has begun...
 Oh dear, you look so lost, your eyes are red and tears are shed,
 This world you must've crossed...
@@ -146,6 +150,3 @@ Where no one knows my name... yeah
 
 Boston...
 No one knows my name.
-
-
-

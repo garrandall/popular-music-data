@@ -1,8 +1,11 @@
 ---
+album: Bill Black is Back!
 artists:
 - Bill Black's Combo
+external_ids:
+  spotify: spotify:track:59m8ZYN3c158TfvGB9Uy9v
 features: []
-genres: []
+first_released_as_single: false
 key: white-silver-sands-bill-black-s-combo
 name: White Silver Sands
 rankings:
@@ -62,5 +65,7 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '1960-06-06'
+release_year: 1960
+runtime: 166906
 ---
 

@@ -1,9 +1,12 @@
 ---
+album: HNDRXX
 artists:
 - Future
+external_ids:
+  spotify: spotify:track:0jfi1XHVlu3LxhKZXbuT4X
 features:
 - Nicki Minaj
-genres: []
+first_released_as_single: false
 key: you-da-baddest-future-nicki-minaj
 lyrics_url: https://www.azlyrics.com/lyrics/future/youdabaddest.html
 name: You Da Baddest
@@ -16,9 +19,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '2017-08-26'
+release_year: 2017
+runtime: 241066
 ---
-
-
 Ten thousand miles up in the sky
 We never land 'cause we stay fly
 I'ma be your bitch for life
@@ -102,6 +105,3 @@ You just wanna live a nigga life
 Sittin' in a helicopter, I can touch the sky
 Fuck them hoes
 Just fuck them hoes
-
-
-

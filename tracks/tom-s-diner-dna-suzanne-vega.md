@@ -1,9 +1,12 @@
 ---
+album: 'RetroSpective: The Best Of Suzanne Vega'
 artists:
 - DNA
+external_ids:
+  spotify: spotify:track:4QtScYyh6Yxio27udYPhh0
 features:
 - Suzanne Vega
-genres: []
+first_released_as_single: false
 key: tom-s-diner-dna-suzanne-vega
 lyrics_url: https://genius.com/Dna-toms-diner-lyrics
 name: Tom's Diner
@@ -92,6 +95,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1991-02-23'
+release_year: 1990
+runtime: 228533
 ---
 Doo doo doo doo doo doo-doo doo
 Doo doo doo doo doo doo-doo doo

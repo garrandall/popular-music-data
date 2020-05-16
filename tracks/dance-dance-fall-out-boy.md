@@ -1,8 +1,11 @@
 ---
+album: From Under The Cork Tree
 artists:
 - Fall Out Boy
+external_ids:
+  spotify: spotify:track:0a7BloCiNzLDD9qSQHh5m7
 features: []
-genres: []
+first_released_as_single: false
 key: dance-dance-fall-out-boy
 lyrics_url: https://genius.com/Fall-out-boy-dance-dance-lyrics
 name: Dance Dance
@@ -131,6 +134,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '2006-06-03'
+release_year: 2005
+runtime: 180266
 ---
 She says she's no good
 With words but I'm worse

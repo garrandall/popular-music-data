@@ -1,8 +1,11 @@
 ---
+album: Hands All Over
 artists:
 - Maroon 5
+external_ids:
+  spotify: spotify:track:2TRuBFYZYw0Q7qIVBhqR1T
 features: []
-genres: []
+first_released_as_single: false
 key: give-a-little-more-maroon-5
 lyrics_url: https://genius.com/Maroon-5-give-a-little-more-lyrics
 name: Give A Little More
@@ -11,6 +14,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2010-09-04'
+release_year: 2010
+runtime: 180293
 ---
 Now you've been bad, and it goes on and on and on
 'Til you come home babe, 'til you come home

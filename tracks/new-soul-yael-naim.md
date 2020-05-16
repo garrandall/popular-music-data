@@ -1,8 +1,11 @@
 ---
+album: "Yael Na\xEFm"
 artists:
 - Yael Naim
+external_ids:
+  spotify: spotify:track:476JcJ3TpAuCOlGdCmomGm
 features: []
-genres: []
+first_released_as_single: false
 key: new-soul-yael-naim
 lyrics_url: https://genius.com/Yael-naim-new-soul-lyrics
 name: New Soul
@@ -83,6 +86,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2008-06-28'
+release_year: 2007
+runtime: 225106
 ---
 I'm a new soul
 I came to this strange world

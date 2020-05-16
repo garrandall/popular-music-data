@@ -34,17 +34,17 @@ Vous ne m'avez jamais vue
 Je ne suis qu'une fille du port,
 Qu'une ombre de la rue...
 
-Pourtant je vous ai frÃ´lÃ©
+Pourtant je vous ai frÃ´lé
 Quand vous passiez hier,
-Vous n'Ã©tiez pas peu fier,
+Vous n'étiez pas peu fier,
 Dame! Le ciel vous comblait:
 Votre foulard de soie
-Flottant sur vos Ã©paules,
+Flottant sur vos épaules,
 Vous aviez le beau rÃ´le,
 On aurait dit le roi...
 Vous marchiez en vainqueur
 Au bras d'une demoiselle
-Mon Dieu!... Qu'elle Ã©tait belle...
+Mon Dieu!... Qu'elle était belle...
 J'en ai froid dans le coeur...
 
 Allez, venez, Milord!
@@ -62,7 +62,7 @@ Qu'une ombre de la rue...
 
 Dire qu'il suffit parfois
 Qu'il y ait un navire
-Pour que tout se dÃ©chire
+Pour que tout se déchire
 Quand le navire s'en va
 Il emmenait avec lui
 La douce aux yeux si tendres

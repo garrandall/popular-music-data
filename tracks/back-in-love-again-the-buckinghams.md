@@ -1,8 +1,11 @@
 ---
+album: In One Ear And Gone Tomorrow
 artists:
 - The Buckinghams
+external_ids:
+  spotify: spotify:track:7BElyyzWO5R1x0OFM9e3Ta
 features: []
-genres: []
+first_released_as_single: false
 key: back-in-love-again-the-buckinghams
 lyrics_url: https://www.azlyrics.com/lyrics/buckinghams/backinloveagain.html
 name: Back In Love Again
@@ -31,8 +34,9 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '1968-07-13'
+release_year: 1968
+runtime: 127760
 ---
-
 Here I am back in love again
 And I'm happy that it's not pretend
 At last I've found a girl to give my heart a whirl
@@ -55,6 +59,3 @@ I've been lookin' for someone to love me again
 I never thought I'd find a girl to make me feel this way
 I've only had these envied loves; I've thrown them all away
 ...
-
-
-

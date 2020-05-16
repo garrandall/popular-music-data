@@ -1,8 +1,11 @@
 ---
+album: Megalithic Symphony Deluxe
 artists:
 - AWOLNATION
+external_ids:
+  spotify: spotify:track:5xhQChGGhKLWqBqX4XhtYE
 features: []
-genres: []
+first_released_as_single: false
 key: sail-awolnation
 lyrics_url: https://www.azlyrics.com/lyrics/awolnation/sail.html
 name: Sail
@@ -323,8 +326,9 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '2014-03-22'
+release_year: 2011
+runtime: 259102
 ---
-
 Sail!
 
 This is how I show my love
@@ -375,6 +379,3 @@ Sail with me into the dark
 Sail!
 Sail with me
 Sail!
-
-
-

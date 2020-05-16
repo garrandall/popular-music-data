@@ -1,9 +1,12 @@
 ---
+album: NOT ALL HEROES WEAR CAPES
 artists:
 - Metro Boomin
+external_ids:
+  spotify: spotify:track:2Grb4G6t9VIqo6moKUloom
 features:
 - 21 Savage
-genres: []
+first_released_as_single: false
 key: don-t-come-out-the-house-metro-boomin-21-savage
 lyrics_url: https://genius.com/Metro-boomin-dont-come-out-the-house-lyrics
 name: Don't Come Out The House
@@ -24,6 +27,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2018-12-08'
+release_year: 2018
+runtime: 168346
 ---
 Bang outside, I hang outside
 Don't come out the house 'cause the gang outside

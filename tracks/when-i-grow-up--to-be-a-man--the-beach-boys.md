@@ -1,8 +1,11 @@
 ---
+album: Today!
 artists:
 - The Beach Boys
+external_ids:
+  spotify: spotify:track:0nJa4M6SYw25iXkPrr5aMp
 features: []
-genres: []
+first_released_as_single: false
 key: when-i-grow-up--to-be-a-man--the-beach-boys
 lyrics_url: https://genius.com/The-beach-boys-when-i-grow-up-lyrics
 name: When I Grow Up (To Be A Man)
@@ -47,6 +50,8 @@ rankings:
   rank: 24
   ranking_list: Billboard Hot 100
   start_date: '1964-11-07'
+release_year: 1964
+runtime: 125586
 ---
 When I grow up to be a man
 

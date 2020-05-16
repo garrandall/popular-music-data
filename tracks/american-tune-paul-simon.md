@@ -1,8 +1,11 @@
 ---
+album: There Goes Rhymin' Simon
 artists:
 - Paul Simon
+external_ids:
+  spotify: spotify:track:3g3xDtGtU0asKw6iYCYiG5
 features: []
-genres: []
+first_released_as_single: false
 key: american-tune-paul-simon
 lyrics_url: https://genius.com/Paul-simon-american-tune-lyrics
 name: American Tune
@@ -47,6 +50,8 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1974-02-02'
+release_year: 1973
+runtime: 225133
 ---
 Many's the time I've been mistaken
 And many times confused

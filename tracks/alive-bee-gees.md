@@ -1,8 +1,11 @@
 ---
+album: To Whom It May Concern
 artists:
 - Bee Gees
+external_ids:
+  spotify: spotify:track:3czmF5SgqOHaTlTbUu8yqy
 features: []
-genres: []
+first_released_as_single: false
 key: alive-bee-gees
 lyrics_url: https://genius.com/Bee-gees-stayin-alive-lyrics
 name: Alive
@@ -35,6 +38,8 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '1972-12-30'
+release_year: 1972
+runtime: 243200
 ---
 Well, you can tell by the way I use my walk
 I'm a woman's man: no time to talk

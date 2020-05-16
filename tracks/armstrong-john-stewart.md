@@ -1,8 +1,11 @@
 ---
+album: Cannons In The Rain
 artists:
 - John Stewart
+external_ids:
+  spotify: spotify:track:1LLCVdrvdQUdymGzbwwllb
 features: []
-genres: []
+first_released_as_single: false
 key: armstrong-john-stewart
 lyrics_url: https://www.musixmatch.com/lyrics/John-Stewart/Armstrong
 name: Armstrong
@@ -19,6 +22,8 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '1969-09-20'
+release_year: 1969
+runtime: 157133
 ---
 Black boy in Chicago
 Playing in the street

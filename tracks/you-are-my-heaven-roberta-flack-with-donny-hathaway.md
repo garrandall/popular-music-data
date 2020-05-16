@@ -1,9 +1,12 @@
 ---
+album: Roberta Flack Featuring Donny Hathaway
 artists:
 - Roberta Flack
+external_ids:
+  spotify: spotify:track:5nM4eEn2NYvJFTvoIahTLn
 features:
 - Donny Hathaway
-genres: []
+first_released_as_single: false
 key: you-are-my-heaven-roberta-flack-with-donny-hathaway
 lyrics_url: https://genius.com/Roberta-flack-you-are-my-heaven-lyrics
 name: You Are My Heaven
@@ -52,6 +55,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1980-04-26'
+release_year: 1980
+runtime: 254453
 ---
 An angel whispered to me when I woke this morning
 That I would find heaven by my side

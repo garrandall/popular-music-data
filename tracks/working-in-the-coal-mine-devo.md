@@ -1,8 +1,11 @@
 ---
+album: Hardcore Volume 2
 artists:
 - Devo
+external_ids:
+  spotify: spotify:track:6G8VOvU4pQcqOsvDQxZH2Z
 features: []
-genres: []
+first_released_as_single: false
 key: working-in-the-coal-mine-devo
 lyrics_url: https://www.azlyrics.com/lyrics/devo/workinginthecoalmine.html
 name: Working In The Coal Mine
@@ -55,8 +58,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1981-11-21'
+release_year: 1981
+runtime: 196133
 ---
-
 Well, I been working in a coal mine 
 Going down, down 
 Working in a coal mine 
@@ -135,6 +139,3 @@ Whew, about to slip down
 
 Working, going, working 
 Whew, about to slip down
-
-
-

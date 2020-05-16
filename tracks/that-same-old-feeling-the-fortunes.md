@@ -1,8 +1,11 @@
 ---
+album: The Great Fortunes
 artists:
 - The Fortunes
+external_ids:
+  spotify: spotify:track:47OkDcsgBxKxSXU5rf5ovg
 features: []
-genres: []
+first_released_as_single: false
 key: that-same-old-feeling-the-fortunes
 lyrics_url: https://genius.com/The-fortunes-uk-group-that-same-old-feeling-lyrics
 name: That Same Old Feeling
@@ -39,6 +42,8 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1970-07-04'
+release_year: 1970
+runtime: 205040
 ---
 I still get the same old feeling
 Tearing at this heart of mine

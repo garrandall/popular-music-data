@@ -1,8 +1,11 @@
 ---
+album: Arrival
 artists:
 - ABBA
+external_ids:
+  spotify: spotify:track:4NtUY5IGzHCaqfZemmAu56
 features: []
-genres: []
+first_released_as_single: false
 key: dancing-queen-abba
 lyrics_url: https://www.azlyrics.com/lyrics/abba/dancingqueen.html
 name: Dancing Queen
@@ -95,8 +98,9 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1977-05-07'
+release_year: 1976
+runtime: 230693
 ---
-
 Oh, you can dance, you can jive
 Having the time of your life
 Oh, see that girl, watch that scene
@@ -142,6 +146,3 @@ Oh, see that girl, watch that scene
 Digging the dancing queen
 
 Digging the dancing queen
-
-
-

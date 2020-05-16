@@ -1,8 +1,11 @@
 ---
+album: Better Times
 artists:
 - Lake
+external_ids:
+  spotify: spotify:track:7yo32JF04IdMMoj6kMIa2U
 features: []
-genres: []
+first_released_as_single: false
 key: time-bomb-lake
 lyrics_url: https://genius.com/Lake-time-bomb-lyrics
 name: Time Bomb
@@ -19,6 +22,8 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1977-11-05'
+release_year: 1976
+runtime: 196560
 ---
 I feel like I'm sitting on time bomb baby
 And it's going to explode

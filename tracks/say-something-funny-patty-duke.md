@@ -1,8 +1,11 @@
 ---
+album: Don't Just Stand There
 artists:
 - Patty Duke
+external_ids:
+  spotify: spotify:track:2Qy2yfjZa4FDZdforumynV
 features: []
-genres: []
+first_released_as_single: false
 key: say-something-funny-patty-duke
 lyrics_url: https://www.musixmatch.com/lyrics/Patty-Duke/Say-Something-Funny
 name: Say Something Funny
@@ -39,6 +42,8 @@ rankings:
   rank: 35
   ranking_list: Billboard Hot 100
   start_date: '1965-11-20'
+release_year: 1965
+runtime: 135893
 ---
 Everyone is watching us
 We're the perfect couple, they say

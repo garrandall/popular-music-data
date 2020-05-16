@@ -1,8 +1,11 @@
 ---
+album: At Your Birthday Party
 artists:
 - Steppenwolf
+external_ids:
+  spotify: spotify:track:1VwAajKKOujQPrAlW8xnRF
 features: []
-genres: []
+first_released_as_single: false
 key: rock-me-steppenwolf
 lyrics_url: https://www.azlyrics.com/lyrics/steppenwolf/rockme.html
 name: Rock Me
@@ -47,8 +50,9 @@ rankings:
   rank: 24
   ranking_list: Billboard Hot 100
   start_date: '1969-05-03'
+release_year: 1968
+runtime: 220866
 ---
-
 She asked me maybe I could share her sorrow
 For all the men that tried to treat her wrong
 Though just a baby, awaiting her tomorrow
@@ -79,6 +83,3 @@ All that she gets, you know, is
 Something like this
 
 Repeat Chorus
-
-
-

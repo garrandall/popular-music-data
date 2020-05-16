@@ -1,8 +1,11 @@
 ---
+album: Damn Country Music
 artists:
 - Tim McGraw
+external_ids:
+  spotify: spotify:track:2ZekuYUoEIBrUwHOY0gcgB
 features: []
-genres: []
+first_released_as_single: false
 key: how-i-ll-always-be-tim-mcgraw
 lyrics_url: https://genius.com/Tim-mcgraw-how-ill-always-be-lyrics
 name: How I'll Always Be
@@ -55,6 +58,8 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '2017-01-21'
+release_year: 2015
+runtime: 213453
 ---
 I'm a little more beer bottle beer joint than a fancy bar
 I'm a little more sitting up high on the road than a little car

@@ -1,8 +1,11 @@
 ---
+album: Shadows And Light
 artists:
 - Wilson Phillips
+external_ids:
+  spotify: spotify:track:1pT0nVzqrjOSKcHpWZiAIt
 features: []
-genres: []
+first_released_as_single: false
 key: give-it-up-wilson-phillips
 lyrics_url: https://www.azlyrics.com/lyrics/wilsonphillips/giveitup.html
 name: Give It Up
@@ -51,8 +54,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1992-10-17'
+release_year: 1992
+runtime: 291066
 ---
-
 You can't hide it from me
 Admit it baby
 'Cause I'm wise to your disguise
@@ -101,4 +105,3 @@ Give it up! Give it up (Yeah!)
 Give it up! Give it up!
 C'mon, c'mon, c'mon, c'mon, give it up
 Give it up! Won't you give it up baby tonight?
-

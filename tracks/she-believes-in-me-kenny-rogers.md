@@ -1,8 +1,11 @@
 ---
+album: The Gambler
 artists:
 - Kenny Rogers
+external_ids:
+  spotify: spotify:track:5ggOAMsJCAYDHnyoqJ0xAD
 features: []
-genres: []
+first_released_as_single: false
 key: she-believes-in-me-kenny-rogers
 lyrics_url: https://genius.com/Kenny-rogers-she-believes-in-me-lyrics
 name: She Believes In Me
@@ -71,6 +74,8 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1979-08-11'
+release_year: 1978
+runtime: 258720
 ---
 While she lays sleeping, I stay out late at night and play my songs
 And sometimes all the nights can be so long

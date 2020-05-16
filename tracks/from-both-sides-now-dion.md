@@ -1,8 +1,11 @@
 ---
+album: Dion
 artists:
 - Dion
+external_ids:
+  spotify: spotify:track:5OyDZ1BkxK0Xl5vpktrc97
 features: []
-genres: []
+first_released_as_single: false
 key: from-both-sides-now-dion
 lyrics_url: https://www.azlyrics.com/lyrics/dionband/frombothsidesnow.html
 name: From Both Sides Now
@@ -15,8 +18,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1969-05-03'
+release_year: 1969
+runtime: 234133
 ---
-
 Bows and flows of angel hair
 An ice cream castle's in the air
 Feather canyons everywhere
@@ -60,6 +64,3 @@ I've looked at life from both sides now
 From win and lose and still somehow
 It's life's illusions I recall
 I really don't know life at all
-
-
-

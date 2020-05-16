@@ -1,8 +1,11 @@
 ---
+album: All the Hits and More!
 artists:
 - Jimmy Clanton
+external_ids:
+  spotify: spotify:track:3vOD7C9yBRGNMte6RXzWyj
 features: []
-genres: []
+first_released_as_single: false
 key: what-am-i-gonna-do-jimmy-clanton
 lyrics_url: https://www.musixmatch.com/lyrics/Jimmy-Clanton/What-Am-I-Gonna-Do
 name: What Am I Gonna Do
@@ -31,6 +34,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1961-02-13'
+release_year: 1961
+runtime: 138716
 ---
 What am I gonna do
 What am I gonna do

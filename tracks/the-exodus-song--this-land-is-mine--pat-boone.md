@@ -1,8 +1,11 @@
 ---
+album: The Gold Collection
 artists:
 - Pat Boone
+external_ids:
+  spotify: spotify:track:2KB7Ha4OHb2QTV6qvmmLkJ
 features: []
-genres: []
+first_released_as_single: false
 key: the-exodus-song--this-land-is-mine--pat-boone
 lyrics_url: https://genius.com/Pat-boone-the-exodus-song-lyrics
 name: The Exodus Song (This Land Is Mine)
@@ -31,6 +34,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1961-02-27'
+release_year: 1961
+runtime: 198946
 ---
 This land is mine, God gave this land to me
 This brave, this ancient land to me

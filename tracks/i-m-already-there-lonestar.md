@@ -1,8 +1,11 @@
 ---
+album: I'm Already There
 artists:
 - Lonestar
+external_ids:
+  spotify: spotify:track:2KpYk6WWoMXO5rKyqAWMdl
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-already-there-lonestar
 lyrics_url: https://genius.com/Lonestar-im-already-there-lyrics
 name: I'm Already There
@@ -87,6 +90,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2001-09-15'
+release_year: 1995
+runtime: 253453
 ---
 He called her on the road
 From a lonely cold hotel room

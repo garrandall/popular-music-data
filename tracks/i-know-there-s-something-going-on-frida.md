@@ -1,8 +1,11 @@
 ---
+album: Something's Going On
 artists:
 - Frida
+external_ids:
+  spotify: spotify:track:7gsex4KHsFWCDzSklMTH3o
 features: []
-genres: []
+first_released_as_single: true
 key: i-know-there-s-something-going-on-frida
 lyrics_url: https://www.azlyrics.com/lyrics/frida/iknowtheressomethinggoingon.html
 name: I Know There's Something Going On
@@ -123,8 +126,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1983-05-21'
+release_year: 1982
+runtime: 350278
 ---
-
 I can see that it won't be long
 You grow cold when you keep holding on
 You know you've changed and your words, they lie
@@ -162,6 +166,3 @@ There's something going on
 There's something going on
 There's something going on
 There's something going on
-
-
-

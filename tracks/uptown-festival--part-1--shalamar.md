@@ -1,8 +1,11 @@
 ---
+album: Uptown Festival
 artists:
 - Shalamar
+external_ids:
+  spotify: spotify:track:4KeF5XqBJ6Kb8rHUS91YNz
 features: []
-genres: []
+first_released_as_single: false
 key: uptown-festival--part-1--shalamar
 lyrics_url: https://genius.com/Shalamar-uptown-festival-medley-lyrics
 name: Uptown Festival (Part 1)
@@ -75,6 +78,8 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1977-07-02'
+release_year: 1977
+runtime: 531760
 ---
 Going to a go-go
 Going to a go-go

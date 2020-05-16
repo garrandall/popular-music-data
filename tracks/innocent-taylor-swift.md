@@ -1,8 +1,11 @@
 ---
+album: Speak Now
 artists:
 - Taylor Swift
+external_ids:
+  spotify: spotify:track:3kfgJql90tzgoxByioAMXR
 features: []
-genres: []
+first_released_as_single: false
 key: innocent-taylor-swift
 lyrics_url: https://www.azlyrics.com/lyrics/taylorswift/innocent.html
 name: Innocent
@@ -11,8 +14,9 @@ rankings:
   rank: 27
   ranking_list: Billboard Hot 100
   start_date: '2010-11-13'
+release_year: 2010
+runtime: 302253
 ---
-
 I guess you really did it this time
 Left yourself in your warpath
 Lost your balance on a tightrope
@@ -68,6 +72,3 @@ You're still an innocent
 
 Lost your balance on a tightrope
 It's never too late to get it back
-
-
-

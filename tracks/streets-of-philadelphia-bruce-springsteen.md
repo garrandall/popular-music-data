@@ -1,8 +1,11 @@
 ---
+album: PHILADELPHIA - Music From The Motion Picture
 artists:
 - Bruce Springsteen
+external_ids:
+  spotify: spotify:track:62jA91S5wMXGK2ilKuWl8u
 features: []
-genres: []
+first_released_as_single: false
 key: streets-of-philadelphia-bruce-springsteen
 lyrics_url: https://genius.com/Bruce-springsteen-streets-of-philadelphia-lyrics
 name: Streets Of Philadelphia
@@ -87,6 +90,8 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '1994-07-02'
+release_year: 1991
+runtime: 230226
 ---
 I was bruised and battered, I couldn't tell what I felt
 I was unrecognizable to myself

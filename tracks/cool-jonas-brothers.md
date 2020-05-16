@@ -1,8 +1,11 @@
 ---
+album: Happiness Begins
 artists:
 - Jonas Brothers
+external_ids:
+  spotify: spotify:track:7yfi8B8opXjnRh4VZnOkz9
 features: []
-genres: []
+first_released_as_single: false
 key: cool-jonas-brothers
 lyrics_url: https://www.azlyrics.com/lyrics/jonasbrothers/cool.html
 name: Cool
@@ -75,8 +78,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2019-08-10'
+release_year: 2019
+runtime: 167106
 ---
-
 I'm feelin' so cool
 Top to the bottom, just cool
 Every little thing that I do
@@ -132,6 +136,3 @@ Sell 'em for a dollar or two (two)
 'Cause dammit, I'm feelin' so coo-oo-oo-oo-oo-ool (cool)
 (Hey, hey, hey, hey)
 Cool
-
-
-

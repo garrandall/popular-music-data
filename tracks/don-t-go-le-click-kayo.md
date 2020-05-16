@@ -1,9 +1,12 @@
 ---
+album: Le Click feat. Kayo
 artists:
 - Le Click
+external_ids:
+  spotify: spotify:track:4eEMcajU4P9G70CgsM9W0z
 features:
 - Kayo
-genres: []
+first_released_as_single: false
 key: don-t-go-le-click-kayo
 name: Don't Go
 rankings:
@@ -83,5 +86,7 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1998-02-07'
+release_year: 1997
+runtime: 237760
 ---
 

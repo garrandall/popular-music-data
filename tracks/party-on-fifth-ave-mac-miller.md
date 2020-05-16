@@ -1,8 +1,11 @@
 ---
+album: Blue Slide Park
 artists:
 - Mac Miller
+external_ids:
+  spotify: spotify:track:2i0RvY0gh7Bor0fGj04IVz
 features: []
-genres: []
+first_released_as_single: true
 key: party-on-fifth-ave-mac-miller
 lyrics_url: https://www.azlyrics.com/lyrics/macmiller/partyonfifthave.html
 name: Party On Fifth Ave
@@ -31,8 +34,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2012-01-28'
+release_year: 2011
+runtime: 173516
 ---
-
 I think, I think I see where you're goin' with this one E
 
 Hey, hey, been around the world and back, yeah I did that
@@ -107,6 +111,3 @@ Make you sure you got a clean shirt, clean pants, new shoes
 Bring it with you, buy it there, you choose
 There's a party on 5th Ave tonight
 And that's what I'm trying to do
-
-
-

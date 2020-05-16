@@ -1,8 +1,11 @@
 ---
+album: Everybody's Free
 artists:
 - Rozalla
+external_ids:
+  spotify: spotify:track:29KZWOyAchaQ1ZZgl5WaKG
 features: []
-genres: []
+first_released_as_single: true
 key: everybody-s-free--to-feel-good--rozalla
 lyrics_url: https://genius.com/Rozalla-everybodys-free-lyrics
 name: Everybody's Free (To Feel Good)
@@ -87,6 +90,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1992-11-07'
+release_year: 1992
+runtime: 191637
 ---
 Everybody's free to feel good
 Everybody's free to feel good

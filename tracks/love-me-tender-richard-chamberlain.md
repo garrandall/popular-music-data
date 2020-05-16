@@ -1,8 +1,11 @@
 ---
+album: Richard Chamberlain Sings (TV's Dr. Kildare)
 artists:
 - Richard Chamberlain
+external_ids:
+  spotify: spotify:track:7sgZ29LuSDARfMQ3YdhNo3
 features: []
-genres: []
+first_released_as_single: false
 key: love-me-tender-richard-chamberlain
 lyrics_url: https://www.musixmatch.com/lyrics/Richard-Chamberlain/Love-Me-Tender
 name: Love Me Tender
@@ -43,6 +46,8 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '1962-12-01'
+release_year: 1962
+runtime: 144466
 ---
 Love me tender,
 Love me sweet,

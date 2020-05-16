@@ -1,8 +1,11 @@
 ---
+album: The Men In My Little Girl's Life
 artists:
 - Mike Douglas
+external_ids:
+  spotify: spotify:track:2QG1xxuz6QDTiC7QmQgWMt
 features: []
-genres: []
+first_released_as_single: false
 key: the-men-in-my-little-girl-s-life-mike-douglas
 lyrics_url: https://www.musixmatch.com/lyrics/Mike-Douglas/The-Men-in-My-Little-Girl-s-Life
 name: The Men In My Little Girl's Life
@@ -43,6 +46,8 @@ rankings:
   rank: 31
   ranking_list: Billboard Hot 100
   start_date: '1966-02-19'
+release_year: 1965
+runtime: 224493
 ---
 The men in my little girl's life
 The men in my little girl's life

@@ -1,8 +1,11 @@
 ---
+album: Riot Act
 artists:
 - Pearl Jam
+external_ids:
+  spotify: spotify:track:79pY2Z5eFvXMt9bSdHLrnA
 features: []
-genres: []
+first_released_as_single: false
 key: i-am-mine-pearl-jam
 lyrics_url: https://www.azlyrics.com/lyrics/pearljam/iammine.html
 name: I Am Mine
@@ -39,6 +42,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2002-11-30'
+release_year: 2002
+runtime: 215333
 ---
 The selfish, they're all standing in line
 Faithing and hoping to buy themselves time

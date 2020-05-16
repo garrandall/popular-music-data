@@ -1,8 +1,11 @@
 ---
+album: Toby Keith 35 Biggest Hits
 artists:
 - Toby Keith
+external_ids:
+  spotify: spotify:track:4vja6WDnpP5RXZwvydhiUJ
 features: []
-genres: []
+first_released_as_single: false
 key: stays-in-mexico-toby-keith
 lyrics_url: https://www.azlyrics.com/lyrics/tobykeith/staysinmexico.html
 name: Stays In Mexico
@@ -67,8 +70,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2004-12-04'
+release_year: 2004
+runtime: 215280
 ---
-
 His name was Steve, her name was Gina
 They met at a bar called the Cabo Wabo Cantina
 He was an insurance salesman from South Dakota
@@ -114,6 +118,3 @@ Stays in Mexico
 Stays in Mexico
 Stays in Mexico
 Oh, Mexico
-
-
-

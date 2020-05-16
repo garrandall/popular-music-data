@@ -1,8 +1,11 @@
 ---
+album: Mission To Please
 artists:
 - The Isley Brothers
+external_ids:
+  spotify: spotify:track:5VeVtDddqolWr7yBSDd45n
 features: []
-genres: []
+first_released_as_single: false
 key: let-s-lay-together-the-isley-brothers
 lyrics_url: https://genius.com/The-isley-brothers-lets-lay-together-lyrics
 name: Let's Lay Together
@@ -27,6 +30,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1996-06-15'
+release_year: 1996
+runtime: 272426
 ---
 La da da da da da da da da da, hey yeah, oh
 

@@ -1,8 +1,11 @@
 ---
+album: Beauty Stab
 artists:
 - ABC
+external_ids:
+  spotify: spotify:track:2KhiMFCK1mofCz239BLxpj
 features: []
-genres: []
+first_released_as_single: false
 key: that-was-then-but-this-is-now-abc
 lyrics_url: https://www.musixmatch.com/lyrics/ABC/That-Was-Then-but-This-Is-Now
 name: That Was Then But This Is Now
@@ -19,6 +22,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1984-02-18'
+release_year: 1983
+runtime: 214266
 ---
 Why make the past your sacred cow?
 I guess you've changed, you've changed and how

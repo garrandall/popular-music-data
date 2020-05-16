@@ -1,8 +1,11 @@
 ---
+album: The Complete Season 6 Collection
 artists:
 - Christina Grimmie
+external_ids:
+  spotify: spotify:track:6xVIlqDFInhEEgBDV02kp3
 features: []
-genres: []
+first_released_as_single: false
 key: how-to-love-christina-grimmie
 lyrics_url: https://www.azlyrics.com/lyrics/christinagrimmie/howtolove.html
 name: How To Love
@@ -11,8 +14,9 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '2014-05-24'
+release_year: 2014
+runtime: 171819
 ---
-
 You had a lot of crooks try to steal your heart
 Never really had luck,
 Couldn't ever figure out
@@ -89,6 +93,3 @@ How to love, How to love
 You had a lot of moments that didn't last forever
 Now you in this corner tryna put it together
 How to love, How to love
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Soundtrack To Summer 2019
 artists:
 - Riley Green
+external_ids:
+  spotify: spotify:track:2gIPGuwQ8lPry61Q5OMo0o
 features: []
-genres: []
+first_released_as_single: false
 key: i-wish-grandpas-never-died-riley-green
 lyrics_url: https://www.azlyrics.com/lyrics/rileygreen/iwishgrandpasneverdied.html
 name: I Wish Grandpas Never Died
@@ -51,8 +54,9 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '2020-03-21'
+release_year: 2019
+runtime: 248582
 ---
-
 I wish girls you love never gave back diamond rings
 I wish every porch had a swing
 Wish kids still learn to say "sir" and "ma'am", how to shake a hand
@@ -100,6 +104,3 @@ I wish the price of gas was low and cotton was high
 I wish honkytonks didn't have no closing time
 And I wish grandpas never died
 I wish grandpas never died
-
-
-

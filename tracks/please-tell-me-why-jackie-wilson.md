@@ -1,8 +1,11 @@
 ---
+album: Jackie Sings The Blues
 artists:
 - Jackie Wilson
+external_ids:
+  spotify: spotify:track:4MiSIiIZQFOQFg9O0I9DCR
 features: []
-genres: []
+first_released_as_single: false
 key: please-tell-me-why-jackie-wilson
 lyrics_url: https://genius.com/Jackie-wilson-please-tell-me-why-lyrics
 name: Please Tell Me Why
@@ -39,6 +42,8 @@ rankings:
   rank: 52
   ranking_list: Billboard Hot 100
   start_date: '1961-05-01'
+release_year: 1960
+runtime: 124786
 ---
 I tried so hard to make you stay
 Now it doesn't matter what happens from day to day

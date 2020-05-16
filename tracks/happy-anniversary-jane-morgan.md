@@ -1,8 +1,11 @@
 ---
+album: Jane in Spain
 artists:
 - Jane Morgan
+external_ids:
+  spotify: spotify:track:2oiLl1u7qg6LZZA595Ok4d
 features: []
-genres: []
+first_released_as_single: false
 key: happy-anniversary-jane-morgan
 lyrics_url: https://genius.com/Jane-morgan-happy-anniversary-lyrics
 name: Happy Anniversary
@@ -43,6 +46,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1960-01-04'
+release_year: 1959
+runtime: 148120
 ---
 Here's to you
 Here's to me

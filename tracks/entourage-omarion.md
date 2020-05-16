@@ -1,8 +1,11 @@
 ---
+album: '21'
 artists:
 - Omarion
+external_ids:
+  spotify: spotify:track:6SCw7Vcnp05EpXJ3dJWnBC
 features: []
-genres: []
+first_released_as_single: false
 key: entourage-omarion
 lyrics_url: https://www.azlyrics.com/lyrics/omarion/entourage.html
 name: Entourage
@@ -27,8 +30,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2006-09-23'
+release_year: 2002
+runtime: 235453
 ---
-
 Shh!
 Girl, girl, girl, girl, girl, girl, girl
 All I can say is
@@ -84,4 +88,3 @@ That you are (so beautiful)
 Be my girl (I wanna take it to the top)
 Share my world (all the way to the top, yeah!)
 Come on girl (Whoo! Super fly chick)
-

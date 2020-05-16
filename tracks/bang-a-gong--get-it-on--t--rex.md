@@ -1,8 +1,11 @@
 ---
+album: Electric Warrior
 artists:
 - T. Rex
+external_ids:
+  spotify: spotify:track:0ayyOT6Qf86os2BkVfH7kO
 features: []
-genres: []
+first_released_as_single: true
 key: bang-a-gong--get-it-on--t--rex
 lyrics_url: https://genius.com/T-rex-get-it-on-bang-a-gong-lyrics
 name: Bang A Gong (Get It On)
@@ -67,6 +70,8 @@ rankings:
   rank: 34
   ranking_list: Billboard Hot 100
   start_date: '1972-04-08'
+release_year: 1971
+runtime: 264493
 ---
 Well you're dirty and sweet
 Clad in black don't look back and I love you

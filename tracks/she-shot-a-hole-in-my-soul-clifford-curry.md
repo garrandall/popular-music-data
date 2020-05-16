@@ -1,8 +1,11 @@
 ---
+album: Langston, Up Close And Personal
 artists:
 - Clifford Curry
+external_ids:
+  spotify: spotify:track:5eIAJHG0lgBCkREwIGRBU4
 features: []
-genres: []
+first_released_as_single: false
 key: she-shot-a-hole-in-my-soul-clifford-curry
 lyrics_url: https://genius.com/Clifford-curry-she-shot-a-hole-in-my-soul-lyrics
 name: She Shot A Hole In My Soul
@@ -19,6 +22,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1967-05-20'
+release_year: 1967
+runtime: 251373
 ---
 Oh
 Oh

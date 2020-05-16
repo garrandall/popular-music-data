@@ -1,8 +1,11 @@
 ---
+album: Goodies
 artists:
 - Ciara
+external_ids:
+  spotify: spotify:track:1Jp9n1uHB72CfK31j4mEPh
 features: []
-genres: []
+first_released_as_single: false
 key: and-i-ciara
 lyrics_url: https://genius.com/Ciara-and-i-lyrics
 name: And I
@@ -11,6 +14,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2005-10-29'
+release_year: 2004
+runtime: 233840
 ---
 I don't need me a basketball player
 All I need is somebody that's down for me

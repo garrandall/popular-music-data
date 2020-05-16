@@ -1,8 +1,11 @@
 ---
+album: Seventh Sojourn
 artists:
 - The Moody Blues
+external_ids:
+  spotify: spotify:track:7sXbG2xdtX18rHoXcGosFI
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-just-a-singer--in-a-rock-and-roll-band--the-moody-blues
 lyrics_url: https://genius.com/The-moody-blues-im-just-a-singer-lyrics
 name: I'm Just A Singer (In A Rock And Roll Band)
@@ -47,6 +50,8 @@ rankings:
   rank: 30
   ranking_list: Billboard Hot 100
   start_date: '1973-04-07'
+release_year: 1972
+runtime: 257826
 ---
 I'm just a-wandering on the face of this earth
 Meeting so many people who are trying to be free

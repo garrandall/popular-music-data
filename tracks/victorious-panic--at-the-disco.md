@@ -1,8 +1,11 @@
 ---
+album: Death of a Bachelor
 artists:
 - Panic! At The Disco
+external_ids:
+  spotify: spotify:track:6od5hFv9IT5JHc7NEF9HRv
 features: []
-genres: []
+first_released_as_single: false
 key: victorious-panic--at-the-disco
 lyrics_url: https://www.azlyrics.com/lyrics/panicatthedisco/victorious.html
 name: Victorious
@@ -23,8 +26,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2016-04-30'
+release_year: 2016
+runtime: 178600
 ---
-
 Tonight we are victorious
 Champagne pouring over us
 All my friends, we're glorious
@@ -84,6 +88,3 @@ Tonight we are victorious
 Champagne pouring over us
 All my friends, we're glorious
 Tonight we are victorious
-
-
-

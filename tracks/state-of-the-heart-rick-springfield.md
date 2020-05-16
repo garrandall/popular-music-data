@@ -1,8 +1,11 @@
 ---
+album: Tao
 artists:
 - Rick Springfield
+external_ids:
+  spotify: spotify:track:5bR9SUhoX1u7zbnQYBdKm7
 features: []
-genres: []
+first_released_as_single: false
 key: state-of-the-heart-rick-springfield
 lyrics_url: https://www.azlyrics.com/lyrics/rickspringfield/stateoftheheart.html
 name: State Of the Heart
@@ -67,8 +70,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1985-09-14'
+release_year: 1981
+runtime: 241973
 ---
-
 It's just the state of the heart
 I'm waiting here for you
 In the state I'm in
@@ -116,6 +120,3 @@ It's the state of the heart
 The state of the heart
 The state of the heart
 The state of the heart
-
-
-

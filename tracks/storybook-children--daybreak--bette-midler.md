@@ -1,8 +1,11 @@
 ---
+album: Broken Blossom
 artists:
 - Bette Midler
+external_ids:
+  spotify: spotify:track:2X3ZOOWDzqGfNKYsTwN4vH
 features: []
-genres: []
+first_released_as_single: false
 key: storybook-children--daybreak--bette-midler
 lyrics_url: https://www.azlyrics.com/lyrics/bettemidler/storybookchildren.html
 name: Storybook Children (Daybreak)
@@ -47,8 +50,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1978-03-18'
+release_year: 1977
+runtime: 204186
 ---
-
 Daybreak.
 How can I ever leave this place beside you?
 You were the only one I ever cried to.
@@ -92,6 +96,3 @@ Sun is smiling on your face.
 I need you.
 Don't make me leave you!
 Lord! . . .
-
-
-

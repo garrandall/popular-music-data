@@ -1,8 +1,11 @@
 ---
+album: Top Teen Dance Hits (1958-1964)
 artists:
 - The Applejacks
+external_ids:
+  spotify: spotify:track:7DiVCf2QOi4XbyR9SXs0UV
 features: []
-genres: []
+first_released_as_single: false
 key: mexican-hat-rock-the-applejacks
 name: Mexican Hat Rock
 rankings:
@@ -66,5 +69,7 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '1958-12-22'
+release_year: 1958
+runtime: 125920
 ---
 

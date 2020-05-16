@@ -1,8 +1,11 @@
 ---
+album: Something In The Night
 artists:
 - Pure Prairie League
+external_ids:
+  spotify: spotify:track:5HZchgrpAreegk6UGs0zHr
 features: []
-genres: []
+first_released_as_single: false
 key: still-right-here-in-my-heart-pure-prairie-league
 lyrics_url: https://www.azlyrics.com/lyrics/pureprairieleague/stillrighthereinmyheart.html
 name: Still Right Here In My Heart
@@ -63,8 +66,9 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1981-07-18'
+release_year: 1981
+runtime: 176640
 ---
-
 There's a silver moon in the midnight sky
 And lovers are heart to heart
 But love is a shadow
@@ -88,6 +92,3 @@ Well, I wonder what you're feelin'
 Do you ever feel the same
 When you listen to your heart
 Do you ever hear my name
-
-
-

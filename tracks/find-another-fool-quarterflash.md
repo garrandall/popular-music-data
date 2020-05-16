@@ -1,8 +1,11 @@
 ---
+album: Quarterflash
 artists:
 - Quarterflash
+external_ids:
+  spotify: spotify:track:1kWIbNb9gqmYBb9anvWkOA
 features: []
-genres: []
+first_released_as_single: false
 key: find-another-fool-quarterflash
 lyrics_url: https://www.azlyrics.com/lyrics/quarterflash/findanotherfool.html
 name: Find Another Fool
@@ -59,8 +62,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1982-05-08'
+release_year: 1981
+runtime: 274933
 ---
-
 I should have learned this lesson long ago
 That friends and lovers always come and go
 And now you claim that everything's O.K.
@@ -111,6 +115,3 @@ Find another, find another
 Find another fool to love you
 To love you
 Find another
-
-
-

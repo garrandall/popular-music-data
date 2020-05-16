@@ -1,8 +1,11 @@
 ---
+album: Now & Then (Reissue)
 artists:
 - Carpenters
+external_ids:
+  spotify: spotify:track:386bIxJPFIr5pVuVQTZIOm
 features: []
-genres: []
+first_released_as_single: false
 key: sing-carpenters
 lyrics_url: https://genius.com/Carpenters-sing-lyrics
 name: Sing
@@ -63,6 +66,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1973-05-26'
+release_year: 1973
+runtime: 198760
 ---
 Sing, sing a song
 Sing out loud, sing out strong

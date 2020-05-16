@@ -1,8 +1,11 @@
 ---
+album: Anything You Choose B/W Without Rhyme Or Reason
 artists:
 - Spanky And Our Gang
+external_ids:
+  spotify: spotify:track:0uM3FQZ0VeqdhA1HJPkRCk
 features: []
-genres: []
+first_released_as_single: false
 key: anything-you-choose-spanky-and-our-gang
 lyrics_url: https://genius.com/Spanky-and-our-gang-anything-you-choose-lyrics
 name: Anything You Choose
@@ -19,6 +22,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1969-03-01'
+release_year: 1969
+runtime: 172893
 ---
 Hey girl
 I'll do anything you say

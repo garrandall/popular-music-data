@@ -1,8 +1,11 @@
 ---
+album: Absolutely the Best of the '70s
 artists:
 - Bo Donaldson And The Heywoods
+external_ids:
+  spotify: spotify:track:2cPYHYBL6Xc0fqp9gOKdP9
 features: []
-genres: []
+first_released_as_single: false
 key: who-do-you-think-you-are-bo-donaldson-and-the-heywoods
 lyrics_url: https://genius.com/Bo-donaldson-and-the-heywoods-who-do-you-think-you-are-lyrics
 name: Who Do You Think You Are
@@ -55,6 +58,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1974-10-12'
+release_year: 1974
+runtime: 209653
 ---
 Who am I?
 I'm just a guy who only wants to try

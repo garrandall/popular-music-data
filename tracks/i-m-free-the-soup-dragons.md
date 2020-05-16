@@ -1,8 +1,11 @@
 ---
+album: Lovegod
 artists:
 - The Soup Dragons
+external_ids:
+  spotify: spotify:track:5TMZeuMVTeuvkhG3cxkpsU
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-free-the-soup-dragons
 lyrics_url: https://genius.com/The-soup-dragons-im-free-lyrics
 name: I'm Free
@@ -27,6 +30,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1990-12-15'
+release_year: 1990
+runtime: 238074
 ---
 Don't be afraid of your freedom
 Freedom

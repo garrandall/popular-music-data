@@ -1,8 +1,11 @@
 ---
+album: Get Into Something
 artists:
 - The Isley Brothers
+external_ids:
+  spotify: spotify:track:6G0TxXy9TqE1GsGpgYcUO6
 features: []
-genres: []
+first_released_as_single: false
 key: freedom-the-isley-brothers
 lyrics_url: https://genius.com/The-isley-brothers-freedom-lyrics
 name: Freedom
@@ -27,6 +30,8 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1971-02-20'
+release_year: 1970
+runtime: 218826
 ---
 Freedom, this is what I call freedom
 

@@ -1,8 +1,11 @@
 ---
+album: Chubby Checker Hits Of '66
 artists:
 - Chubby Checker
+external_ids:
+  spotify: spotify:track:3fMt2d233szyKPYL7Znact
 features: []
-genres: []
+first_released_as_single: true
 key: hey-you--little-boo-ga-loo-chubby-checker
 lyrics_url: https://www.azlyrics.com/lyrics/chubbychecker/heyyoulittleboogaloo.html
 name: Hey You! Little Boo-Ga-Loo
@@ -27,8 +30,9 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1966-07-30'
+release_year: 1966
+runtime: 138146
 ---
-
 Hey you little Boo-ga-loo
 What cha tryin' to do
 With ya dancin' shoes
@@ -67,6 +71,3 @@ All I wanna do is make love to you
 But all you wanna do is Boo-ga-loo
 Hey you little Boo-ga-loo
 What cha tryin' to do...
-
-
-

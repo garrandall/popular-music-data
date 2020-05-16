@@ -1,8 +1,11 @@
 ---
+album: Prisoner In Disguise
 artists:
 - Linda Ronstadt
+external_ids:
+  spotify: spotify:track:3OwoQ968t9qJXYxFk7DCvu
 features: []
-genres: []
+first_released_as_single: false
 key: heat-wave-linda-ronstadt
 lyrics_url: https://www.azlyrics.com/lyrics/lindaronstadt/heatwave.html
 name: Heat Wave
@@ -59,8 +62,9 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1975-12-13'
+release_year: 1975
+runtime: 165226
 ---
-
 Whenever I'm with him
 Something inside
 Starts to burning
@@ -110,6 +114,3 @@ Heat wave
 Heat wave
 Heat wave
 Oh heat wave
-
-
-

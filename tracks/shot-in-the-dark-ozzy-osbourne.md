@@ -1,8 +1,11 @@
 ---
+album: The Ultimate Sin
 artists:
 - Ozzy Osbourne
+external_ids:
+  spotify: spotify:track:31dqpLUModJWNbxrXu6TWd
 features: []
-genres: []
+first_released_as_single: false
 key: shot-in-the-dark-ozzy-osbourne
 lyrics_url: https://genius.com/Ozzy-osbourne-shot-in-the-dark-lyrics
 name: Shot in the Dark
@@ -43,6 +46,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1986-05-17'
+release_year: 1986
+runtime: 256293
 ---
 Out on the streets I'm stalking the night
 I can hear my heavy breathing

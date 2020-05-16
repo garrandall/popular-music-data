@@ -1,8 +1,11 @@
 ---
+album: The Name Game
 artists:
 - Shirley Ellis
+external_ids:
+  spotify: spotify:track:0RAJ08NoFTQoxf7OY96zit
 features: []
-genres: []
+first_released_as_single: false
 key: the-nitty-gritty-shirley-ellis
 lyrics_url: https://genius.com/Shirley-ellis-thats-what-the-nitty-gritty-is-lyrics
 name: The Nitty Gritty
@@ -63,6 +66,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1964-02-15'
+release_year: 1963
+runtime: 137773
 ---
 Everybody's asking what the nitty gritty
 The nitty gritty's anything you want it to be

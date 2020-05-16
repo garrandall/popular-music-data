@@ -1,9 +1,12 @@
 ---
+album: Maximum Boom for Your System
 artists:
 - MC Nas-D
 - DJ Fred
+external_ids:
+  spotify: spotify:track:47Gl3n5oPVkNjute64sGBA
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-my-cadillac--got-that-bass--mc-nas-d-dj-fred
 lyrics_url: https://genius.com/Mc-nas-d-and-dj-freaky-fred-its-my-cadillac-got-that-bass-original-lyrics
 name: It's My Cadillac (Got That Bass)
@@ -16,6 +19,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1992-09-26'
+release_year: 1992
+runtime: 235000
 ---
 I don't know why all them girls wanna ride in Nas-D's cadillac
 

@@ -1,8 +1,11 @@
 ---
+album: The Magic Of Anthony Newley
 artists:
 - Anthony Newley
+external_ids:
+  spotify: spotify:track:49g2mdvm44Nli8HjYLfanl
 features: []
-genres: []
+first_released_as_single: false
 key: what-kind-of-fool-am-i-anthony-newley
 lyrics_url: https://genius.com/Anthony-newley-what-kind-of-fool-am-i-lyrics
 name: What Kind Of Fool Am I
@@ -23,6 +26,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1962-10-27'
+release_year: 1962
+runtime: 154186
 ---
 What kind of fool am I
 Who never fell in love

@@ -1,8 +1,11 @@
 ---
+album: Working On A Dream
 artists:
 - Bruce Springsteen
+external_ids:
+  spotify: spotify:track:08QZBupqwLXOalOpgiTi5e
 features: []
-genres: []
+first_released_as_single: false
 key: working-on-a-dream-bruce-springsteen
 lyrics_url: https://www.azlyrics.com/lyrics/brucespringsteen/workingonadream.html
 name: Working On A Dream
@@ -11,8 +14,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2009-02-21'
+release_year: 2009
+runtime: 208946
 ---
-
 Out here the nights are long, the days are lonely 
 I think of you and I'm working on a dream 
 I'm working on a dream 
@@ -65,6 +69,3 @@ I'm working on a dream
 Though it can feel so far away 
 I'm working on a dream 
 And our love will make it real someday
-
-
-

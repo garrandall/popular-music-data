@@ -1,8 +1,11 @@
 ---
+album: Cross That Line
 artists:
 - Howard Jones
+external_ids:
+  spotify: spotify:track:2U7INzRmvchXDfYui64Mr7
 features: []
-genres: []
+first_released_as_single: false
 key: the-prisoner-howard-jones
 lyrics_url: https://www.azlyrics.com/lyrics/howardjones/theprisoner.html
 name: The Prisoner
@@ -59,8 +62,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1989-09-23'
+release_year: 1989
+runtime: 279333
 ---
-
 You have watched me, safe in your anonymity
 I have dreamed you, held in your security
 Some people believe a photograph traps your mortal soul
@@ -86,6 +90,3 @@ And you captured me
 I need you to take control
 I am a prisoner of no confidence
 You've entered me now make me whole
-
-
-

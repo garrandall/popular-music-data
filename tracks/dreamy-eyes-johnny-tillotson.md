@@ -1,8 +1,11 @@
 ---
+album: Johnny Tillotson's Best
 artists:
 - Johnny Tillotson
+external_ids:
+  spotify: spotify:track:7CiLTJANslRNGigDDDCB01
 features: []
-genres: []
+first_released_as_single: false
 key: dreamy-eyes-johnny-tillotson
 lyrics_url: https://genius.com/Johnny-tillotson-dreamy-eyes-lyrics
 name: Dreamy Eyes
@@ -99,6 +102,8 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '1962-03-10'
+release_year: 1958
+runtime: 144093
 ---
 Dreamy eyes
 You've got such dreamy eyes

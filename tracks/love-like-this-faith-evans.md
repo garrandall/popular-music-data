@@ -1,8 +1,11 @@
 ---
+album: Keep The Faith
 artists:
 - Faith Evans
+external_ids:
+  spotify: spotify:track:2dXotVqm26NHYLp5oORx50
 features: []
-genres: []
+first_released_as_single: true
 key: love-like-this-faith-evans
 lyrics_url: https://genius.com/Faith-evans-love-like-this-lyrics
 name: Love Like This
@@ -87,6 +90,8 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1999-03-27'
+release_year: 1995
+runtime: 275706
 ---
 I never knew there was a love like this before
 Never had someone to show me a love

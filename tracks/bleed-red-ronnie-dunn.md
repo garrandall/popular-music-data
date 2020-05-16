@@ -1,8 +1,11 @@
 ---
+album: Ronnie Dunn
 artists:
 - Ronnie Dunn
+external_ids:
+  spotify: spotify:track:6s9GPlGYAUK6Nq5WlSuHuU
 features: []
-genres: []
+first_released_as_single: false
 key: bleed-red-ronnie-dunn
 lyrics_url: https://www.azlyrics.com/lyrics/ronniedunn/bleedred.html
 name: Bleed Red
@@ -79,8 +82,9 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '2011-06-25'
+release_year: 2011
+runtime: 229840
 ---
-
 Let's say were sorry, before it's too late, give forgiveness a chance
 Turn the anger into water; let it slip through our hands
 We all bleed red, we all taste rain, all fall down, lose our way
@@ -103,6 +107,3 @@ We all say words we regret, we all cry tears we all bleed red
 Sometimes we're strong, sometimes we're weak; sometimes we're hurt
 It cuts deep; we live this life breath to breath; we're all the same
 We all bleed r-e-e-e-d-d-d
-
-
-

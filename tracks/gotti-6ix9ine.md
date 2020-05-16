@@ -1,8 +1,11 @@
 ---
+album: 'Day69: Graduation Day'
 artists:
 - 6ix9ine
+external_ids:
+  spotify: spotify:track:27oFpFktCq9JIXjJQRuv7a
 features: []
-genres: []
+first_released_as_single: false
 key: gotti-6ix9ine
 lyrics_url: https://www.azlyrics.com/lyrics/6ix9ine/gotti.html
 name: Gotti
@@ -11,8 +14,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2018-04-28'
+release_year: 2018
+runtime: 166851
 ---
-
 Got me, got me Rollie
 Ya can't even afford it though
 Got me, got me, uh
@@ -71,6 +75,3 @@ Give it up, really with the Gotti, Gotti
 
 Who, who really with the Gotti, Gotti?
 Who, who really with the...
-
-
-

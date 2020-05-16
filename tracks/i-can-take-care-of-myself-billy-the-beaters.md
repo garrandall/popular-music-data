@@ -1,9 +1,12 @@
 ---
+album: 'Hopeless Romantic: The Best Of Billy Vera & The Beaters'
 artists:
 - Billy
 - The Beaters
+external_ids:
+  spotify: spotify:track:5EFPecKYwNOLKJEbSKAYxZ
 features: []
-genres: []
+first_released_as_single: false
 key: i-can-take-care-of-myself-billy-the-beaters
 lyrics_url: https://genius.com/Billy-and-the-beaters-i-can-take-care-of-myself-lyrics
 name: I Can Take Care Of Myself
@@ -52,6 +55,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1981-07-04'
+release_year: 1981
+runtime: 210653
 ---
 Your wardrobe's purchased at the latest boutique
 Your place is furnished like the President's suite

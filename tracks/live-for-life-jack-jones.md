@@ -1,8 +1,11 @@
 ---
+album: Super Best
 artists:
 - Jack Jones
+external_ids:
+  spotify: spotify:track:4fvQp3R9NGjkQiPXbLkAN1
 features: []
-genres: []
+first_released_as_single: false
 key: live-for-life-jack-jones
 lyrics_url: https://genius.com/Jack-jones-live-for-life-lyrics
 name: Live For Life
@@ -15,6 +18,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1967-12-09'
+release_year: 1967
+runtime: 163996
 ---
 Come with me my love and seize the day and live it
 Live it fully live it fast

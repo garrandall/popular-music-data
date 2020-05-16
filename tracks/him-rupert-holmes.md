@@ -1,8 +1,11 @@
 ---
+album: Partners In Crime
 artists:
 - Rupert Holmes
+external_ids:
+  spotify: spotify:track:5rMthFHPxRDi4Uxg06iK6H
 features: []
-genres: []
+first_released_as_single: false
 key: him-rupert-holmes
 lyrics_url: https://www.azlyrics.com/lyrics/rupertholmes/him.html
 name: Him
@@ -75,8 +78,9 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1980-05-10'
+release_year: 1979
+runtime: 246293
 ---
-
 Over by the window
 There's a pack of cigarettes
 Not my brand, you understand
@@ -132,6 +136,3 @@ It's me or it's him, him, him
 What's she gonna do about him
 She's gonna have to do without him
 Or do without me, me, me
-
-
-

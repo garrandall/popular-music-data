@@ -1,8 +1,11 @@
 ---
+album: Seven Little Girls Sitting in the Back Seat / Happy-Go-Lucky Me
 artists:
 - Paul Evans
+external_ids:
+  spotify: spotify:track:6jZxxO0ZNb8fakRXryav4y
 features: []
-genres: []
+first_released_as_single: true
 key: happy-go-lucky-me-paul-evans
 lyrics_url: https://genius.com/Paul-evans-happy-go-lucky-me-lyrics
 name: Happy-Go-Lucky-Me
@@ -63,6 +66,8 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '1960-08-01'
+release_year: 1960
+runtime: 117253
 ---
 I can laugh
 When things ain't funny

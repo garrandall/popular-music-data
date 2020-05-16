@@ -1,8 +1,11 @@
 ---
+album: Country Comedy
 artists:
 - Murry Kellum
+external_ids:
+  spotify: spotify:track:2wnVggqXAcvtWSKfa6JkRQ
 features: []
-genres: []
+first_released_as_single: false
 key: long-tall-texan-murry-kellum
 name: Long Tall Texan
 rankings:
@@ -50,5 +53,7 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '1964-01-18'
+release_year: 1963
+runtime: 117953
 ---
 

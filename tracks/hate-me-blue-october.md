@@ -1,8 +1,11 @@
 ---
+album: Foiled
 artists:
 - Blue October
+external_ids:
+  spotify: spotify:track:1tL40tfdtUaSLek4DvDDr3
 features: []
-genres: []
+first_released_as_single: false
 key: hate-me-blue-october
 lyrics_url: https://www.azlyrics.com/lyrics/blueoctober/hateme.html
 name: Hate Me
@@ -119,8 +122,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2006-11-04'
+release_year: 2006
+runtime: 380200
 ---
-
 (If you're sleeping are you dreaming
 If you're dreaming are you dreaming of me?
 I can't believe you actually picked me.)
@@ -194,4 +198,3 @@ For you
 If you're sleeping are you dreaming
 If you're dreaming are you dreaming of me?
 I can't believe you actually picked me
-

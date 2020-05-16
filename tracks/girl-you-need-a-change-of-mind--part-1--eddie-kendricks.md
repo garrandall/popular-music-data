@@ -1,8 +1,11 @@
 ---
+album: People... Hold On
 artists:
 - Eddie Kendricks
+external_ids:
+  spotify: spotify:track:64bnTYBCQsHAsZUmA2JDH0
 features: []
-genres: []
+first_released_as_single: false
 key: girl-you-need-a-change-of-mind--part-1--eddie-kendricks
 lyrics_url: https://genius.com/Eddie-kendricks-girl-you-need-a-change-of-mind-lyrics
 name: Girl You Need A Change Of Mind (Part 1)
@@ -19,6 +22,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1973-03-10'
+release_year: 1972
+runtime: 462493
 ---
 Oh la, la, la, la, la, la
 

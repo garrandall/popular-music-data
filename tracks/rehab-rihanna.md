@@ -1,8 +1,11 @@
 ---
+album: Good Girl Gone Bad
 artists:
 - Rihanna
+external_ids:
+  spotify: spotify:track:4sFRAkllCBqIa08boTHX5A
 features: []
-genres: []
+first_released_as_single: false
 key: rehab-rihanna
 lyrics_url: https://www.azlyrics.com/lyrics/rihanna/rehab.html
 name: Rehab
@@ -75,8 +78,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2009-03-14'
+release_year: 2007
+runtime: 294720
 ---
-
 Baby, baby, when we first met
 I never felt something so strong
 You were like my lover and my best friend
@@ -187,6 +191,3 @@ I gotta check into rehab
 'Cause baby you're my disease
 I gotta check into rehab
 'Cause baby you're my disease
-
-
-

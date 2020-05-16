@@ -1,8 +1,11 @@
 ---
+album: Let's Dance
 artists:
 - George McCrae
+external_ids:
+  spotify: spotify:track:5SRCQRnjZaNSCjxrVdgzEv
 features: []
-genres: []
+first_released_as_single: false
 key: honey-i-george-mccrae
 name: Honey I
 rankings:
@@ -26,5 +29,7 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '1976-02-07'
+release_year: 1976
+runtime: 242400
 ---
 

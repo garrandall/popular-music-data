@@ -1,8 +1,11 @@
 ---
+album: We Started Nothing
 artists:
 - The Ting Tings
+external_ids:
+  spotify: spotify:track:3bu5GJpyHZs8DfPlkKrnnE
 features: []
-genres: []
+first_released_as_single: false
 key: shut-up-and-let-me-go-the-ting-tings
 lyrics_url: https://www.musixmatch.com/lyrics/The-Ting-Tings/Shut-Up-and-Let-Me-Go
 name: Shut Up And Let Me Go
@@ -51,6 +54,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2008-10-11'
+release_year: 2008
+runtime: 171226
 ---
 Shut up and let me go
 This hurts, I tell you so

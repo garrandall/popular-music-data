@@ -1,8 +1,11 @@
 ---
+album: Tender Lover
 artists:
 - Babyface
+external_ids:
+  spotify: spotify:track:4D288d9iTLDzEEETt5D8y3
 features: []
-genres: []
+first_released_as_single: false
 key: my-kinda-girl-babyface
 lyrics_url: https://www.azlyrics.com/lyrics/babyface/mykindagirl.html
 name: My Kinda Girl
@@ -59,8 +62,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1990-09-08'
+release_year: 1989
+runtime: 279266
 ---
-
 First, there is no doubt
 Not for a minute
 You've always been my heart's
@@ -143,6 +147,3 @@ You're my kinda girl
 You're my kinda girl
 My kinda girl
 You're my kinda girl
-
-
-

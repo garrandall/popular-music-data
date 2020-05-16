@@ -1,9 +1,12 @@
 ---
+album: Skin
 artists:
 - Flume
+external_ids:
+  spotify: spotify:track:7GsCf8h3uPQzyXkbFlVc1B
 features:
 - Tove Lo
-genres: []
+first_released_as_single: true
 key: say-it-flume-tove-lo
 lyrics_url: https://www.azlyrics.com/lyrics/flume/sayit.html
 name: Say It
@@ -24,9 +27,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2017-02-11'
+release_year: 2016
+runtime: 262521
 ---
-
-
 Feeling the song, party done
 Shadows walking home
 Walking with our game on
@@ -126,6 +129,3 @@ When you say it like that
 Oh, oh, oh, oh
 Let me fuck you right back
 Oh, oh, oh, oh
-
-
-

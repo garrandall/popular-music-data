@@ -1,8 +1,11 @@
 ---
+album: Crosby, Stills & Nash
 artists:
 - Crosby, Stills & Nash
+external_ids:
+  spotify: spotify:track:3EuAes08Me9nlJP71ATTIJ
 features: []
-genres: []
+first_released_as_single: true
 key: suite--judy-blue-eyes-crosby-stills-nash
 lyrics_url: https://genius.com/Crosby-stills-nash-and-young-suite-judy-blue-eyes-live-lyrics
 name: 'Suite: Judy Blue Eyes'
@@ -55,6 +58,8 @@ rankings:
   rank: 32
   ranking_list: Billboard Hot 100
   start_date: '1969-12-20'
+release_year: 1969
+runtime: 275173
 ---
 Do do do do do, do do do do do do
 Do do do do do, do do do do

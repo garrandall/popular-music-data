@@ -1,8 +1,11 @@
 ---
+album: Touching You, Touching Me
 artists:
 - Neil Diamond
+external_ids:
+  spotify: spotify:track:4GiuUAHJfo26cx0X0JUf2R
 features: []
-genres: []
+first_released_as_single: false
 key: holly-holy-neil-diamond
 lyrics_url: https://genius.com/Neil-diamond-holly-holy-lyrics
 name: Holly Holy
@@ -63,6 +66,8 @@ rankings:
   rank: 27
   ranking_list: Billboard Hot 100
   start_date: '1970-01-31'
+release_year: 1969
+runtime: 280306
 ---
 Holly holy eyes, dream of only me
 Where I am, what I am

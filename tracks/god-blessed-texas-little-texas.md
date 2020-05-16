@@ -1,8 +1,11 @@
 ---
+album: Big Time
 artists:
 - Little Texas
+external_ids:
+  spotify: spotify:track:4pxROqdjivtjjobZz4y6G8
 features: []
-genres: []
+first_released_as_single: false
 key: god-blessed-texas-little-texas
 lyrics_url: https://www.azlyrics.com/lyrics/littletexas/godblessedtexas.html
 name: God Blessed Texas
@@ -55,8 +58,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1994-01-29'
+release_year: 1993
+runtime: 245533
 ---
-
 I've seen a lot of places
 I've been around the world
 I've seen pretty faces
@@ -87,6 +91,3 @@ Well I've been sent to spread the message
 God blessed Texas
 Well I've been sent to spread the message
 God blessed Texas.
-
-
-

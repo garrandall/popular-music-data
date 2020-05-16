@@ -1,8 +1,11 @@
 ---
+album: Show Me
 artists:
 - The Cover Girls
+external_ids:
+  spotify: spotify:track:0MaxaLTMSRbiiwdDkLbi0C
 features: []
-genres: []
+first_released_as_single: false
 key: because-of-you-the-cover-girls
 lyrics_url: https://genius.com/The-cover-girls-because-of-you-lyrics
 name: Because Of You
@@ -87,6 +90,8 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '1988-04-09'
+release_year: 1987
+runtime: 342573
 ---
 I used to walk home all alone
 It used to be so sad

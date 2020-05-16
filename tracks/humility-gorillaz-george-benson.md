@@ -1,9 +1,12 @@
 ---
+album: The Now Now
 artists:
 - Gorillaz
+external_ids:
+  spotify: spotify:track:5fGWdNGGnvKrrHL6U7c1Vp
 features:
 - George Benson
-genres: []
+first_released_as_single: true
 key: humility-gorillaz-george-benson
 lyrics_url: https://www.azlyrics.com/lyrics/gorillaz/humility.html
 name: Humility
@@ -12,8 +15,9 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '2018-06-16'
+release_year: 2018
+runtime: 197933
 ---
-
 Calling the world from isolation
 'Cause right now, that's the ball where we be chained
 And if you're coming back to find me
@@ -53,6 +57,3 @@ If I pick it up when I know that it's broken
 Do I put it back?
 Or do I head out onto the lonesome trail
 And let you down?
-
-
-

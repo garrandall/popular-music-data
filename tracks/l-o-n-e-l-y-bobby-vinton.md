@@ -1,8 +1,11 @@
 ---
+album: Bobby Vinton Sings For Lonely Nights
 artists:
 - Bobby Vinton
+external_ids:
+  spotify: spotify:track:148AveuUtKLg4zzs53xGwb
 features: []
-genres: []
+first_released_as_single: false
 key: l-o-n-e-l-y-bobby-vinton
 lyrics_url: https://www.azlyrics.com/lyrics/bobbyvinton/lonely.html
 name: L-O-N-E-L-Y
@@ -39,8 +42,9 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '1965-06-26'
+release_year: 1962
+runtime: 146333
 ---
-
 Lonely Lonely 
 The "L" is for the laughter, we shared from the start 
 "O" is for the only girl in my heart 
@@ -51,6 +55,3 @@ Empty, my world is dark
 Loneliness has just begun 
 The "L" is for the Love that was meant for me only 
 And "Y" Why did you leave me lonely. Lonely
-
-
-

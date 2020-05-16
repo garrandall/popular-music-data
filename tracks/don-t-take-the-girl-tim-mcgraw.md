@@ -1,8 +1,11 @@
 ---
+album: Not A Moment Too Soon
 artists:
 - Tim McGraw
+external_ids:
+  spotify: spotify:track:2wmEryA2YLaFwFvA63n3O2
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-take-the-girl-tim-mcgraw
 lyrics_url: https://genius.com/Tim-mcgraw-dont-take-the-girl-lyrics
 name: Don't Take The Girl
@@ -87,6 +90,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1994-10-01'
+release_year: 1994
+runtime: 249360
 ---
 Johnny's daddy was takin' him fishin'
 When he was eight years old

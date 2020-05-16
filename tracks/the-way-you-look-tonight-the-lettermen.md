@@ -1,8 +1,11 @@
 ---
+album: A Song For Young Love
 artists:
 - The Lettermen
+external_ids:
+  spotify: spotify:track:3XLSi3aWD9qDCuHvSi5qfY
 features: []
-genres: []
+first_released_as_single: false
 key: the-way-you-look-tonight-the-lettermen
 lyrics_url: https://genius.com/The-lettermen-the-way-you-look-tonight-lyrics
 name: The Way You Look Tonight
@@ -59,6 +62,8 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1961-11-27'
+release_year: 1961
+runtime: 141506
 ---
 Some day, when I'm awfully low
 When the world is cold

@@ -1,9 +1,12 @@
 ---
+album: Marques Houston
 artists:
 - Marques Houston
+external_ids:
+  spotify: spotify:track:2AGVPERuDxq13QK9wtLHuZ
 features:
 - Jermaine "JD" Dupri
-genres: []
+first_released_as_single: false
 key: pop-that-booty-marques-houston-jermaine--jd--dupri
 lyrics_url: https://www.azlyrics.com/lyrics/marqueshouston/popthatbooty.html
 name: Pop That Booty
@@ -44,9 +47,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2004-02-07'
+release_year: 2003
+runtime: 246266
 ---
-
-
 yeah,come on
 One more time
 JD, MH
@@ -165,6 +168,3 @@ T Scott you a fool fo dis one (oh yeah)
 Holla
 Chris Stokes, holla at cha boy man
 Bring that ish back or something
-
-
-

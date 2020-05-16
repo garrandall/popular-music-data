@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music, Volume 1'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:6w4JkiZU2ver1h2K0oUlfA
 features: []
-genres: []
+first_released_as_single: true
 key: don-t-stop-believin--glee-cast
 lyrics_url: https://genius.com/Glee-cast-dont-stop-believin-lyrics
 name: Don't Stop Believin'
@@ -35,6 +38,8 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '2010-06-26'
+release_year: 2009
+runtime: 230546
 ---
 Da, da, da, da... (Repeated until end of the song)
 

@@ -1,8 +1,11 @@
 ---
+album: Children Of The World
 artists:
 - Bee Gees
+external_ids:
+  spotify: spotify:track:4RL4cG2Ob0ecRi42Ve26O2
 features: []
-genres: []
+first_released_as_single: false
 key: boogie-child-bee-gees
 lyrics_url: https://www.azlyrics.com/lyrics/beegees/boogiechild.html
 name: Boogie Child
@@ -67,8 +70,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1977-04-23'
+release_year: 1976
+runtime: 252333
 ---
-
 Boogie - ah, you sexy, sexy (boogie child)
 Boogie - the situation wrecks me
 Boogie - I can't stand the way you do it (boogie child)
@@ -112,4 +116,3 @@ Boogie - and I'm in too deep and I just keep sinking
 
 Boogie - boogie child (come on boogie, boogie)
 Boogie - boogie child (come on boogie, boogie)
-

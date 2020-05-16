@@ -1,8 +1,11 @@
 ---
+album: Jazz Workshop Revisited
 artists:
 - Cannonball Adderley
+external_ids:
+  spotify: spotify:track:5J4cszsX6SqlszINJNitvm
 features: []
-genres: []
+first_released_as_single: false
 key: the-jive-samba-cannonball-adderley
 name: The Jive Samba
 rankings:
@@ -34,5 +37,7 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '1963-03-30'
+release_year: 1963
+runtime: 661506
 ---
 

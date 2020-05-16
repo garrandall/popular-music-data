@@ -1,8 +1,11 @@
 ---
+album: Aftermath (UK Version)
 artists:
 - The Rolling Stones
+external_ids:
+  spotify: spotify:track:73KkCUGr4DTHUuEPfiAB21
 features: []
-genres: []
+first_released_as_single: false
 key: mothers-little-helper-the-rolling-stones
 lyrics_url: https://www.azlyrics.com/lyrics/rollingstones/motherslittlehelper.html
 name: Mothers Little Helper
@@ -43,8 +46,9 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '1966-09-03'
+release_year: 1966
+runtime: 166906
 ---
-
 What a drag it is getting old
 
 "Kids are different today"
@@ -92,6 +96,3 @@ They just helped you on your way
 Through your busy dying day
 
 Hey!
-
-
-

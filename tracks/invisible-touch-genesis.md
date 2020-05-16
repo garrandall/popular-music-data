@@ -1,8 +1,11 @@
 ---
+album: Invisible Touch
 artists:
 - Genesis
+external_ids:
+  spotify: spotify:track:0xpBr84T3FTm9j4D1MdPtk
 features: []
-genres: []
+first_released_as_single: false
 key: invisible-touch-genesis
 lyrics_url: https://www.azlyrics.com/lyrics/genesis/invisibletouch.html
 name: Invisible Touch
@@ -75,8 +78,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1986-09-20'
+release_year: 1986
+runtime: 209586
 ---
-
 Well I've been waiting, waiting here so long
 But thinking nothing, nothing could go wrong, ohnow I know
 She has a built in ability
@@ -112,6 +116,3 @@ She seems to have an invisible touch yeah
 It takes control and slowly tears you apart.
 
 She seems to have an invisible touch...
-
-
-

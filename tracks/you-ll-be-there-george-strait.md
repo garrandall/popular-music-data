@@ -1,8 +1,11 @@
 ---
+album: Somewhere Down In Texas
 artists:
 - George Strait
+external_ids:
+  spotify: spotify:track:6ljgpSnKrzvpigdjt0rCkF
 features: []
-genres: []
+first_released_as_single: false
 key: you-ll-be-there-george-strait
 lyrics_url: https://genius.com/George-strait-youll-be-there-lyrics
 name: You'll Be There
@@ -75,6 +78,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2005-08-13'
+release_year: 2005
+runtime: 257493
 ---
 Hope is an anchor and love is a ship
 Time is the ocean and life is a trip

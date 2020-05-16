@@ -1,8 +1,11 @@
 ---
+album: Love Story
 artists:
 - Francis Lai
+external_ids:
+  spotify: spotify:track:5qjVtEglMJOGe3xCCbjN25
 features: []
-genres: []
+first_released_as_single: false
 key: theme-from-love-story-francis-lai-and-his-orchestra
 lyrics_url: https://genius.com/Francis-lai-theme-from-love-story-lyrics
 name: Theme From Love Story
@@ -43,5 +46,7 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '1971-03-27'
+release_year: 1970
+runtime: 200266
 ---
 Instrumental

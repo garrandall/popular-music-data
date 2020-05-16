@@ -1,8 +1,11 @@
 ---
+album: In My Room
 artists:
 - Frank Ocean
+external_ids:
+  spotify: spotify:track:4S4Mfvv03M1cHgIOJcbUCL
 features: []
-genres: []
+first_released_as_single: true
 key: in-my-room-frank-ocean
 lyrics_url: https://genius.com/Frank-ocean-in-my-room-lyrics
 name: In My Room
@@ -11,6 +14,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '2019-11-16'
+release_year: 2019
+runtime: 133680
 ---
 No sleeper seats, that's a mattress
 No sleeper seats, that's a mattress

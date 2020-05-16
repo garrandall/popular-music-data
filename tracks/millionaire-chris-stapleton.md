@@ -1,8 +1,11 @@
 ---
+album: 'From A Room: Volume 2'
 artists:
 - Chris Stapleton
+external_ids:
+  spotify: spotify:track:68JS5SFTnW5Yv9Vzw81Jf0
 features: []
-genres: []
+first_released_as_single: false
 key: millionaire-chris-stapleton
 lyrics_url: https://www.azlyrics.com/lyrics/chrisstapleton/millionaire.html
 name: Millionaire
@@ -75,8 +78,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2019-04-13'
+release_year: 2017
+runtime: 210133
 ---
-
 They say love is more precious than gold
 It can't be bought, and it can't be sold
 I've got love enough to spare
@@ -106,6 +110,3 @@ Because love is more precious than gold
 It can't be bought, no, and it can't be sold
 I've got love, enough to spare
 That makes me a millionaire
-
-
-

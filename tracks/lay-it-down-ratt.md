@@ -1,8 +1,11 @@
 ---
+album: Invasion Of Your Privacy
 artists:
 - Ratt
+external_ids:
+  spotify: spotify:track:3D5ORNm9spaTcdRx50ksHx
 features: []
-genres: []
+first_released_as_single: false
 key: lay-it-down-ratt
 lyrics_url: https://www.azlyrics.com/lyrics/ratt/layitdown.html
 name: Lay It Down
@@ -51,8 +54,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1985-09-14'
+release_year: 1985
+runtime: 205560
 ---
-
 I know you don't really know me
 I know you don't really care to see me
 I'm into total affection
@@ -113,6 +117,3 @@ Lay it down
 Lay it down
 Lay it down
 Lay it down
-
-
-

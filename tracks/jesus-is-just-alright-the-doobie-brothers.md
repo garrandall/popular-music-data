@@ -1,8 +1,11 @@
 ---
+album: Toulouse Street
 artists:
 - The Doobie Brothers
+external_ids:
+  spotify: spotify:track:7uJpalQxUi3jrSE7hiCWw8
 features: []
-genres: []
+first_released_as_single: false
 key: jesus-is-just-alright-the-doobie-brothers
 lyrics_url: https://www.azlyrics.com/lyrics/doobiebrothers/jesusisjustalright.html
 name: Jesus Is Just Alright
@@ -51,8 +54,9 @@ rankings:
   rank: 35
   ranking_list: Billboard Hot 100
   start_date: '1973-02-24'
+release_year: 1972
+runtime: 274533
 ---
-
 Jesus is just alright with me, Jesus is just alright, oh yeah
 Jesus is just alright with me, Jesus is just alright
 I don't care what they may say
@@ -78,6 +82,3 @@ Jesus is just alright with me, Jesus is just alright
 
 I don't care what they may say, I don't care what they may do
 I don't care what they may say, Jesus is just alright, oh yeah
-
-
-

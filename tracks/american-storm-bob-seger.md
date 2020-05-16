@@ -1,8 +1,11 @@
 ---
+album: Like A Rock
 artists:
 - Bob Seger
+external_ids:
+  spotify: spotify:track:2t9qMdL9Pa6Sp6u2u413gi
 features: []
-genres: []
+first_released_as_single: false
 key: american-storm-bob-seger
 lyrics_url: https://www.azlyrics.com/lyrics/bobseger/americanstorm.html
 name: American Storm
@@ -63,8 +66,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1986-06-14'
+release_year: 1986
+runtime: 243263
 ---
-
 Headin' out on some uncharted path
 You soon turn back
 It happens time and time again
@@ -118,6 +122,3 @@ You charge 'em at full speed
 You cover up - you hear the shattering glass
 But you never bleed
 You never feel the need
-
-
-

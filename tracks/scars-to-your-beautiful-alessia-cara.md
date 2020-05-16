@@ -1,8 +1,11 @@
 ---
+album: Know-It-All
 artists:
 - Alessia Cara
+external_ids:
+  spotify: spotify:track:0prNGof3XqfTvNDxHonvdK
 features: []
-genres: []
+first_released_as_single: false
 key: scars-to-your-beautiful-alessia-cara
 lyrics_url: https://genius.com/Alessia-cara-scars-to-your-beautiful-lyrics
 name: Scars To Your Beautiful
@@ -179,6 +182,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '2017-07-08'
+release_year: 2015
+runtime: 230226
 ---
 She just wants to be beautiful
 She goes unnoticed, she knows no limits

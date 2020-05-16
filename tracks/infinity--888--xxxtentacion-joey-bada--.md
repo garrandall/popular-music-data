@@ -1,9 +1,12 @@
 ---
+album: '?'
 artists:
 - XXXTENTACION
+external_ids:
+  spotify: spotify:track:7J2gyNghNTzl4EsLhXp01Q
 features:
 - Joey Bada$$
-genres: []
+first_released_as_single: false
 key: infinity--888--xxxtentacion-joey-bada--
 lyrics_url: https://www.azlyrics.com/lyrics/xxxtentacion/infinity888.html
 name: Infinity (888)
@@ -12,9 +15,9 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '2018-03-31'
+release_year: 2018
+runtime: 176590
 ---
-
-
 These niggas is wildin' right now, like, these niggas is really wildin'
 You know what I'm sayin'? Like, we ain't playin' with y'all niggas, man, you heard?
 
@@ -77,6 +80,3 @@ I don't feel the pain no more, I don't feel the pain no more
 I spend years at the crib so I don't feel the pain no more
 I don't feel the pain no more, I gotta get it how I live
 So I don't feel the pain no more, I don't feel the pain no more
-
-
-

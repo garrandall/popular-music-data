@@ -1,8 +1,11 @@
 ---
+album: The Bang Years 1966-1968 (The 23 Original Mono Recordings)
 artists:
 - Neil Diamond
+external_ids:
+  spotify: spotify:track:2SS3WeSe24ZqTlTSK4KzQZ
 features: []
-genres: []
+first_released_as_single: false
 key: cherry-cherry-neil-diamond
 lyrics_url: https://www.azlyrics.com/lyrics/neildiamond/cherrycherrychristmas.html
 name: Cherry Cherry
@@ -55,8 +58,9 @@ rankings:
   rank: 31
   ranking_list: Billboard Hot 100
   start_date: '1966-11-05'
+release_year: 1966
+runtime: 163906
 ---
-
 Wish you a very merry, cherry cherry Christmas
 And a holly holy holiday, too.
 Underneath your tree may there always be
@@ -91,6 +95,3 @@ Cherry cherry Christmas time the whole year long.
 
 The whole year long...sing your Christmas song...the whole year long.
 Cherry Christmas, Everyone!
-
-
-

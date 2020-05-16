@@ -1,8 +1,11 @@
 ---
+album: Simply Deep
 artists:
 - Kelly Rowland
+external_ids:
+  spotify: spotify:track:4marxoTuxIgb1GhtoouMSc
 features: []
-genres: []
+first_released_as_single: false
 key: can-t-nobody-kelly-rowland
 lyrics_url: https://genius.com/Kelly-rowland-cant-nobody-lyrics
 name: Can't Nobody
@@ -27,6 +30,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2003-04-05'
+release_year: 2002
+runtime: 244133
 ---
 Trying to let you know what it's all about
 I know you wanna leave

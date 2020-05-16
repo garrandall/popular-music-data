@@ -1,9 +1,12 @@
 ---
+album: The Definitive Jackie Wilson
 artists:
 - Jackie Wilson
 - Count Basie
+external_ids:
+  spotify: spotify:track:3T2vA5VaDmZjvNIxzr6u94
 features: []
-genres: []
+first_released_as_single: false
 key: for-your-precious-love-jackie-wilson-count-basie
 lyrics_url: https://genius.com/Jackie-wilson-for-your-precious-love-lyrics
 name: For Your Precious Love
@@ -36,6 +39,8 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '1968-03-30'
+release_year: 1968
+runtime: 165186
 ---
 With Count Basie
 Your precious love

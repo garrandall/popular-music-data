@@ -1,8 +1,11 @@
 ---
+album: That's Why I'm Here
 artists:
 - James Taylor
+external_ids:
+  spotify: spotify:track:6Qu0dys3baTmoQ1NPRXEon
 features: []
-genres: []
+first_released_as_single: false
 key: everyday-james-taylor
 lyrics_url: https://www.azlyrics.com/lyrics/jamestaylor/everyday.html
 name: Everyday
@@ -51,8 +54,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1986-01-18'
+release_year: 1977
+runtime: 196640
 ---
-
 Everyday, it's getting closer, going faster than a roller coaster.
 A love like yours would surely come my way.
 Everyday, seems a little faster, all my friends, they say go on up and ask her.
@@ -68,6 +72,3 @@ Everyday it seems a little stronger, everyday it lasts a little longer.
 Come what may, do you ever long for true love from me? Like I long from you baby.
 Everyday seems a little closer, going faster than a roller coaster.
 A love like yours would surely come my way.
-
-
-

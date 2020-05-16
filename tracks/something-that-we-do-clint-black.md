@@ -1,8 +1,11 @@
 ---
+album: Nothin' But The Taillights
 artists:
 - Clint Black
+external_ids:
+  spotify: spotify:track:6xN5xsIl2cR1pOjnzShHAN
 features: []
-genres: []
+first_released_as_single: false
 key: something-that-we-do-clint-black
 lyrics_url: https://genius.com/Clint-black-something-that-we-do-lyrics
 name: Something That We Do
@@ -43,6 +46,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1998-03-07'
+release_year: 1997
+runtime: 237693
 ---
 I remember well the day we wed
 I can see that picture in my head

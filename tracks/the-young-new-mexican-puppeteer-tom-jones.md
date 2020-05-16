@@ -1,8 +1,11 @@
 ---
+album: Tom Jones Close Up
 artists:
 - Tom Jones
+external_ids:
+  spotify: spotify:track:5bENYj0NYeKVyxGRTiiotY
 features: []
-genres: []
+first_released_as_single: false
 key: the-young-new-mexican-puppeteer-tom-jones
 lyrics_url: https://genius.com/Tom-jones-the-young-new-mexican-puppeteer-lyrics
 name: The Young New Mexican Puppeteer
@@ -35,6 +38,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1972-06-10'
+release_year: 1972
+runtime: 273093
 ---
 In a town near Albuquerque
 Lived a most concerned young boy

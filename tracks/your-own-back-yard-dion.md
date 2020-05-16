@@ -1,8 +1,11 @@
 ---
+album: Born to Be With You / Streetheart
 artists:
 - Dion
+external_ids:
+  spotify: spotify:track:7mBtXdUOkaXxiTyI2YElu9
 features: []
-genres: []
+first_released_as_single: false
 key: your-own-back-yard-dion
 lyrics_url: https://www.azlyrics.com/lyrics/dionband/yourownbackyard.html
 name: Your Own Back Yard
@@ -19,8 +22,9 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1970-07-11'
+release_year: 1970
+runtime: 230453
 ---
-
 I've been sitting here, thinking
 About when I started in drinking
 I went on to dope
@@ -72,6 +76,3 @@ I said it's gotta start right in your own backyard
 You know everybody has their own beautiful backyard
 You might have oil wells in your own back yard
 Yeah, your own backyard...
-
-
-

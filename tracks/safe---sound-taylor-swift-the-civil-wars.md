@@ -1,9 +1,12 @@
 ---
+album: 'The Hunger Games: Songs From District 12 And Beyond'
 artists:
 - Taylor Swift
+external_ids:
+  spotify: spotify:track:0z9UVN8VBHJ9HdfYsOuuNf
 features:
 - The Civil Wars
-genres: []
+first_released_as_single: false
 key: safe---sound-taylor-swift-the-civil-wars
 lyrics_url: https://www.azlyrics.com/lyrics/taylorswift/safeandsound.html
 name: Safe & Sound
@@ -76,8 +79,9 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2012-05-19'
+release_year: 2012
+runtime: 240066
 ---
-
 I remember tears streaming down your face
 When I said, "I'll never let you go."
 When all those shadows almost killed your light
@@ -117,6 +121,3 @@ Come morning light,
 You and I'll be safe and sound...
 
 Oh, oh, oh, oh, oh, oh
-
-
-

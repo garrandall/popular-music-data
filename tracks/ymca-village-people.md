@@ -1,8 +1,11 @@
 ---
+album: Was nicht passt, wird passend gemacht (Music Inspired By the Film)
 artists:
 - Village People
+external_ids:
+  spotify: spotify:track:7Cp69rNBwU0gaFT8zxExlE
 features: []
-genres: []
+first_released_as_single: false
 key: ymca-village-people
 lyrics_url: https://www.azlyrics.com/lyrics/villagepeople/ymca.html
 name: YMCA
@@ -111,8 +114,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1979-04-14'
+release_year: 1978
+runtime: 284866
 ---
-
 Young man, there's no need to feel down.
 I said, young man, pick yourself off the ground.
 I said, young man, 'cause you're in a new town
@@ -199,6 +203,3 @@ Young man, young man, I was down with the blues.
 
 Y.M.C.A.
 It's fun to stay at the Y.M.C.A.
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Ace's Golden Age of American Hits Vol 1
 artists:
 - Theola Kilgore
+external_ids:
+  spotify: spotify:track:49jjqrwdxyALm7KFdGklmJ
 features: []
-genres: []
+first_released_as_single: false
 key: this-is-my-prayer-theola-kilgore
 lyrics_url: https://www.musixmatch.com/lyrics/Theola-Kilgore/This-Is-My-Prayer
 name: This Is My Prayer
@@ -43,6 +46,8 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '1963-10-05'
+release_year: 1963
+runtime: 178266
 ---
 This is my prayer for love
 This is my prayer for love, oh lord

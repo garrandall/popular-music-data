@@ -1,8 +1,11 @@
 ---
+album: Finding Beauty In Negative Spaces (Bonus Track Version)
 artists:
 - Seether
+external_ids:
+  spotify: spotify:track:4dZ4iHhsqQAQ4em4abLB6C
 features: []
-genres: []
+first_released_as_single: false
 key: rise-above-this-seether
 lyrics_url: https://www.azlyrics.com/lyrics/seether/riseabovethis.html
 name: Rise Above This
@@ -51,8 +54,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2008-07-19'
+release_year: 2007
+runtime: 203893
 ---
-
 Take the light, and darken everything around me
 Call the clowns and listen closely, I'm lost without you
 
@@ -78,6 +82,3 @@ Call your name every day, when I feel so helpless
 I've fallen down but I'll rise above this, rise above this
 Forty-eight ways to say that I'm feelin' helpless
 I've falling down, falling down, but I'll rise above this, rise above this, rise above this, rise above this doubt
-
-
-

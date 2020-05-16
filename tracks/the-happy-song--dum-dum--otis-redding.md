@@ -1,8 +1,11 @@
 ---
+album: Dock of the Bay Sessions
 artists:
 - Otis Redding
+external_ids:
+  spotify: spotify:track:0eVzXIblSSz0OP6AfK1xr8
 features: []
-genres: []
+first_released_as_single: false
 key: the-happy-song--dum-dum--otis-redding
 lyrics_url: https://www.azlyrics.com/lyrics/otisredding/thehappysongdumdum.html
 name: The Happy Song (Dum-Dum)
@@ -39,8 +42,9 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '1968-06-15'
+release_year: 1968
+runtime: 161573
 ---
-
 Gonna sing this song y'all
 Singin' it for my baby
 She's the only one can bring me joy
@@ -82,6 +86,3 @@ Those good old lovely songs
 Those good old nursery rhyme songs
 Those good old lovely songs
 Those sweet soul music songs
-
-
-

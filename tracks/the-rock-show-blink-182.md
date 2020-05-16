@@ -1,8 +1,11 @@
 ---
+album: Take Off Your Pants And Jacket
 artists:
 - Blink-182
+external_ids:
+  spotify: spotify:track:2ydUT1pFhuLDnouelIv4WH
 features: []
-genres: []
+first_released_as_single: false
 key: the-rock-show-blink-182
 lyrics_url: https://www.azlyrics.com/lyrics/blink182/therockshow.html
 name: The Rock Show
@@ -43,8 +46,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2001-09-22'
+release_year: 2001
+runtime: 171600
 ---
-
 Hanging out behind the club on the weekend
 Acting stupid, getting drunk with my best friends
 I couldn't wait for the summer and the Warped Tour
@@ -90,6 +94,3 @@ With the girl at the rock show
 With the girl at the rock show
 (I'll never forget tonight)
 With the girl at the rock show
-
-
-

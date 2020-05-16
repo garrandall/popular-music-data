@@ -1,8 +1,11 @@
 ---
+album: "It\u2019s All In The Game: The Best Of Tommy Edwards"
 artists:
 - Tommy Edwards
+external_ids:
+  spotify: spotify:track:2IIWeMJGIrS0ld8tICXPWf
 features: []
-genres: []
+first_released_as_single: false
 key: i-really-don-t-want-to-know-tommy-edwards
 lyrics_url: https://genius.com/Tommy-edwards-i-really-dont-want-to-know-lyrics
 name: I Really Don't Want To Know
@@ -59,6 +62,8 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '1960-08-15'
+release_year: 1960
+runtime: 138933
 ---
 I really don't want to know
 Les Paul & Mary Ford/Tommy Edward

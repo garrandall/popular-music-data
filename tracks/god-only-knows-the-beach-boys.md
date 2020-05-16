@@ -1,8 +1,11 @@
 ---
+album: Pet Sounds (Original Mono & Stereo Mix Versions)
 artists:
 - The Beach Boys
+external_ids:
+  spotify: spotify:track:6iGU74CwXuT4XVepjc9Emf
 features: []
-genres: []
+first_released_as_single: false
 key: god-only-knows-the-beach-boys
 lyrics_url: https://genius.com/The-beach-boys-god-only-knows-lyrics
 name: God Only Knows
@@ -39,6 +42,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1966-10-01'
+release_year: 1966
+runtime: 173040
 ---
 I may not always love you
 But as long as there are stars above you

@@ -1,8 +1,11 @@
 ---
+album: Stacy Earl
 artists:
 - Stacy Earl
+external_ids:
+  spotify: spotify:track:15FMH5RRKL16Iw337TwqLn
 features: []
-genres: []
+first_released_as_single: false
 key: love-me-all-up-stacy-earl
 lyrics_url: https://genius.com/Stacy-earl-love-me-all-up-lyrics
 name: Love Me All Up
@@ -83,6 +86,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1992-03-21'
+release_year: 1991
+runtime: 297360
 ---
 I know you can control it, babe
 I know you can control it, babe

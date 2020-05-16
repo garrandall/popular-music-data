@@ -1,8 +1,11 @@
 ---
+album: "England\u2019s Newest Hitmakers"
 artists:
 - The Rolling Stones
+external_ids:
+  spotify: spotify:track:0C7w4XnkIGu11MpNWbiTLB
 features: []
-genres: []
+first_released_as_single: false
 key: not-fade-away-the-rolling-stones
 lyrics_url: https://www.azlyrics.com/lyrics/rollingstones/notfadeaway.html
 name: Not Fade Away
@@ -59,6 +62,8 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1964-07-25'
+release_year: 1964
+runtime: 107720
 ---
 I wanna tell you how it's gonna be
 You're gonna give your love to me

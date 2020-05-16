@@ -1,8 +1,11 @@
 ---
+album: Credentials
 artists:
 - Rufus Blaq
+external_ids:
+  spotify: spotify:track:1ddtTTb6f5LRjaeR71htNK
 features: []
-genres: []
+first_released_as_single: false
 key: out-of-sight--yo--rufus-blaq
 lyrics_url: https://genius.com/Rufus-blaq-out-of-sight-yo-lyrics
 name: Out Of Sight (YO)
@@ -23,6 +26,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1998-05-23'
+release_year: 1998
+runtime: 223826
 ---
 Have you ever been ambushed?
 

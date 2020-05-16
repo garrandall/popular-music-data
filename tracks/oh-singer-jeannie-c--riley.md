@@ -1,8 +1,11 @@
 ---
+album: Jeannie
 artists:
 - Jeannie C. Riley
+external_ids:
+  spotify: spotify:track:4ejC3SPlyGk9K0QzEHHJh7
 features: []
-genres: []
+first_released_as_single: false
 key: oh-singer-jeannie-c--riley
 lyrics_url: https://genius.com/Jeannie-c-riley-oh-singer-lyrics
 name: Oh Singer
@@ -31,6 +34,8 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '1971-05-08'
+release_year: 1971
+runtime: 229933
 ---
 Oh singer sing me an old song yeah
 Oh singer sing me an old song sing me an old song about cotton bales

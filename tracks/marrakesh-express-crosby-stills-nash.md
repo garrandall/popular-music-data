@@ -1,8 +1,11 @@
 ---
+album: Crosby, Stills & Nash
 artists:
 - Crosby, Stills & Nash
+external_ids:
+  spotify: spotify:track:3bIB8JVXIbCTwJtsweAqeq
 features: []
-genres: []
+first_released_as_single: false
 key: marrakesh-express-crosby-stills-nash
 lyrics_url: https://www.azlyrics.com/lyrics/crosbystillsnash/marrakeshexpress.html
 name: Marrakesh Express
@@ -39,10 +42,9 @@ rankings:
   rank: 33
   ranking_list: Billboard Hot 100
   start_date: '1969-09-06'
+release_year: 1969
+runtime: 156680
 ---
-
-
-
 Looking at the world through the sunset in your eyes
 Traveling the train through clear Moroccan skies
 Ducks and pigs and chickens call
@@ -78,4 +80,3 @@ Wouldn't you know we're riding on the Marrakesh Express
 They're taking me to Marrakesh
 All on board the train, all on board the train
 All on board
-

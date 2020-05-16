@@ -1,8 +1,11 @@
 ---
+album: When You're Through Thinking, Say Yes
 artists:
 - Yellowcard
+external_ids:
+  spotify: spotify:track:4qnLkdNPONRhoXche73VdH
 features: []
-genres: []
+first_released_as_single: true
 key: for-you-and-your-denial-yellowcard
 lyrics_url: https://www.azlyrics.com/lyrics/yellowcard/foryouandyourdenial.html
 name: For You And Your Denial
@@ -11,8 +14,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2011-02-05'
+release_year: 2011
+runtime: 213893
 ---
-
 4 am; you call to spit some fire out
 Did you think that I would listen to you now?
 It's nothing new, so get in line with all the rest
@@ -61,6 +65,3 @@ They're watching you break down
 Hate me all you want; I'll be okay
 I'm half the world away
 I'm letting you go now
-
-
-

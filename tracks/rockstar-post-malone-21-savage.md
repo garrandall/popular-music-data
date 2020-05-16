@@ -1,9 +1,12 @@
 ---
+album: beerbongs & bentleys
 artists:
 - Post Malone
+external_ids:
+  spotify: spotify:track:3hDYuWcvQE7yaMEeb2uiMI
 features:
 - 21 Savage
-genres: []
+first_released_as_single: false
 key: rockstar-post-malone-21-savage
 lyrics_url: https://genius.com/Genius-turkce-ceviri-post-malone-rockstar-ft-21-savage-turkce-ceviri-lyrics
 name: Rockstar
@@ -172,6 +175,8 @@ rankings:
   rank: 33
   ranking_list: Billboard Hot 100
   start_date: '2018-07-07'
+release_year: 2017
+runtime: 218066
 ---
 Hahahahaha
 Tank God

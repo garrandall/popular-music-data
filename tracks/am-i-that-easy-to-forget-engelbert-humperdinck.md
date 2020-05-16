@@ -1,8 +1,11 @@
 ---
+album: Live In Concert / All of Me
 artists:
 - Engelbert Humperdinck
+external_ids:
+  spotify: spotify:track:6ETbu73FBimvNvD7MLAs23
 features: []
-genres: []
+first_released_as_single: false
 key: am-i-that-easy-to-forget-engelbert-humperdinck
 lyrics_url: https://www.azlyrics.com/lyrics/engelberthumperdinck/amithateasytoforget.html
 name: Am I That Easy To Forget
@@ -47,8 +50,9 @@ rankings:
   rank: 28
   ranking_list: Billboard Hot 100
   start_date: '1968-02-17'
+release_year: 1967
+runtime: 191466
 ---
-
 They say you've found somebody new,
 But that won't stop my loving you.
 I just can't let you walk away,
@@ -73,6 +77,3 @@ Guess I could find somebody new,
 But I don't wan't no one but you.
 How can you leave without regret?
 Am I that easy to forget?
-
-
-

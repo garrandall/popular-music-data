@@ -1,8 +1,11 @@
 ---
+album: Sleeper Catcher
 artists:
 - Little River Band
+external_ids:
+  spotify: spotify:track:34D6mvDTAPypm92EPs8Rxa
 features: []
-genres: []
+first_released_as_single: false
 key: reminiscing-little-river-band
 lyrics_url: https://www.azlyrics.com/lyrics/littleriverband/reminiscing.html
 name: Reminiscing
@@ -87,8 +90,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1978-12-09'
+release_year: 1978
+runtime: 253080
 ---
-
 Friday night, it was late
 I was walking you home
 We got down to the gate
@@ -138,6 +142,3 @@ I said to myself when we're old
 We'll go dancing in the dark
 Walking through the park
 And reminiscing
-
-
-

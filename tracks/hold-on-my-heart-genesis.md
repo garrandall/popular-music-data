@@ -1,8 +1,11 @@
 ---
+album: We Can't Dance
 artists:
 - Genesis
+external_ids:
+  spotify: spotify:track:0qbhFj4bVrguIZViOJOs36
 features: []
-genres: []
+first_released_as_single: false
 key: hold-on-my-heart-genesis
 lyrics_url: https://genius.com/Genesis-hold-on-my-heart-lyrics
 name: Hold On My Heart
@@ -87,6 +90,8 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '1992-09-12'
+release_year: 1991
+runtime: 276373
 ---
 Hold on my heart
 Just hold on to that feeling

@@ -1,8 +1,11 @@
 ---
+album: "Controversee\u2026That's Life\u2026and That's the Way It Is"
 artists:
 - Freak Nasty
+external_ids:
+  spotify: spotify:track:76YDsWGWezclVy9Z6sDGhf
 features: []
-genres: []
+first_released_as_single: false
 key: da--dip-freak-nasty
 lyrics_url: https://genius.com/Freak-nasty-da-dip-lyrics
 name: Da' Dip
@@ -139,6 +142,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1997-08-16'
+release_year: 1996
+runtime: 237000
 ---
 This goes out to all the women in the world, especially her
 You know it don't even matter your age; it don't even matter your color

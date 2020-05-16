@@ -1,8 +1,11 @@
 ---
+album: Spin
 artists:
 - Darren Hayes
+external_ids:
+  spotify: spotify:track:4Q8yCpsxxJF0tRsjzu6Ytw
 features: []
-genres: []
+first_released_as_single: false
 key: insatiable-darren-hayes
 lyrics_url: https://www.azlyrics.com/lyrics/darrenhayes/insatiable.html
 name: Insatiable
@@ -35,8 +38,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2002-04-13'
+release_year: 2002
+runtime: 310226
 ---
-
 When moonlight crawls along the street
 Chasing away the summer heat
 Footsteps outside somewhere below
@@ -140,6 +144,3 @@ Insatiable
 Insatiable
 For you insatiable
 For you insatiable
-
-
-

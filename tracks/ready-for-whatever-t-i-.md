@@ -1,8 +1,11 @@
 ---
+album: Paper Trail
 artists:
 - T.I.
+external_ids:
+  spotify: spotify:track:5X2Cy5IYsiYvk8etuE5UqQ
 features: []
-genres: []
+first_released_as_single: false
 key: ready-for-whatever-t-i-
 lyrics_url: https://genius.com/Ti-ready-for-whatever-lyrics
 name: Ready For Whatever
@@ -11,6 +14,8 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '2008-10-11'
+release_year: 2008
+runtime: 312466
 ---
 Hate the price of fame 'coz it cost too much (yeah boy)
 And you lame niggas talk too much (yeah)

@@ -1,8 +1,11 @@
 ---
+album: Danger Zone
 artists:
 - Player
+external_ids:
+  spotify: spotify:track:6hDLR90Fcqr0MGnNSxLxmJ
 features: []
-genres: []
+first_released_as_single: false
 key: silver-lining-player
 lyrics_url: https://www.azlyrics.com/lyrics/player/silverlining.html
 name: Silver Lining
@@ -31,8 +34,9 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1979-01-20'
+release_year: 1978
+runtime: 305067
 ---
-
 Lover, said you're leavin'
 Gotta leave me behind
 Got your lovesakes packed in a suitcase
@@ -74,6 +78,3 @@ It's the darkest before the dawn
 I was born to look upon the bright side
 Ever since the day I was born
 Quietest just before the storm
-
-
-

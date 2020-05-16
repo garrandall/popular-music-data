@@ -1,8 +1,11 @@
 ---
+album: Demo Anthology
 artists:
 - Winger
+external_ids:
+  spotify: spotify:track:1dkVHFWmHSkbVmc5MG6shA
 features: []
-genres: []
+first_released_as_single: false
 key: can-t-get-enuff-winger
 lyrics_url: https://genius.com/Winger-cant-get-enuff-lyrics
 name: Can't Get Enuff
@@ -67,6 +70,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1990-11-03'
+release_year: 1990
+runtime: 226344
 ---
 (Hey hey) I can't get enuff (hey hey!)
 (Hey hey) I can't get enuff (hey hey!)

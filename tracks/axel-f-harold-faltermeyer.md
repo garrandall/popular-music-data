@@ -1,8 +1,11 @@
 ---
+album: 'Beverly Hills Cop: Music From The Motion Picture Soundtrack'
 artists:
 - Harold Faltermeyer
+external_ids:
+  spotify: spotify:track:4hcRhisSnFb0e5sCzUkXca
 features: []
-genres: []
+first_released_as_single: false
 key: axel-f-harold-faltermeyer
 lyrics_url: https://genius.com/Harold-faltermeyer-axel-f-lyrics
 name: Axel F
@@ -83,5 +86,7 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1985-08-03'
+release_year: 1984
+runtime: 184800
 ---
 (instrumental)

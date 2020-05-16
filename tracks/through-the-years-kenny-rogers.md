@@ -1,8 +1,11 @@
 ---
+album: Share Your Love
 artists:
 - Kenny Rogers
+external_ids:
+  spotify: spotify:track:4pP5xVUYEZljcmfyYFQXsx
 features: []
-genres: []
+first_released_as_single: false
 key: through-the-years-kenny-rogers
 lyrics_url: https://www.azlyrics.com/lyrics/kennyrogers/throughtheyears.html
 name: Through The Years
@@ -67,8 +70,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1982-04-03'
+release_year: 1981
+runtime: 286066
 ---
-
 I can't remember when you weren't there
 When I didn't care for anyone but you
 I swear we've been through everything there is
@@ -129,6 +133,3 @@ You've kissed my tears away
 As long as it's okay
 I'll stay with you
 Through the years
-
-
-

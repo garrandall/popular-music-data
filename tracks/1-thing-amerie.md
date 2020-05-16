@@ -1,8 +1,11 @@
 ---
+album: Touch
 artists:
 - Amerie
+external_ids:
+  spotify: spotify:track:1mnqraQ8oV8MX92rdOFLWW
 features: []
-genres: []
+first_released_as_single: false
 key: 1-thing-amerie
 lyrics_url: https://genius.com/Amerie-1-thing-lyrics
 name: 1 Thing
@@ -87,6 +90,8 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '2005-06-25'
+release_year: 2005
+runtime: 238760
 ---
 Na, na, na, na, na, oh
 Na, na, na, na, na, oh

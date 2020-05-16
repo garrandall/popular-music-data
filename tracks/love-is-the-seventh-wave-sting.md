@@ -1,8 +1,11 @@
 ---
+album: The Dream Of The Blue Turtles
 artists:
 - Sting
+external_ids:
+  spotify: spotify:track:2tnlTf2pIIYlQtUAo5AbNE
 features: []
-genres: []
+first_released_as_single: false
 key: love-is-the-seventh-wave-sting
 lyrics_url: https://www.azlyrics.com/lyrics/sting/loveistheseventhwave.html
 name: Love Is The Seventh Wave
@@ -59,8 +62,9 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1986-02-01'
+release_year: 1985
+runtime: 212400
 ---
-
 In the empire of the senses
 You're the queen of all you survey
 All the cities, all the nations
@@ -109,6 +113,3 @@ Every sand dune in the desert
 Every breath you take with me
 Every breath you take, every move you make
 Every cake you bake, every leg you break
-
-
-

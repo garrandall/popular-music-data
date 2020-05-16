@@ -1,8 +1,11 @@
 ---
+album: The Ultimate Petula Clark
 artists:
 - Petula Clark
+external_ids:
+  spotify: spotify:track:4HwIyWSY56mJ8HPjDoaj2d
 features: []
-genres: []
+first_released_as_single: false
 key: this-is-my-song-petula-clark
 lyrics_url: https://genius.com/Petula-clark-this-is-my-song-lyrics
 name: This Is My Song
@@ -55,6 +58,8 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '1967-05-20'
+release_year: 1967
+runtime: 196066
 ---
 Why is my heart so light
 Why are the stars so bright

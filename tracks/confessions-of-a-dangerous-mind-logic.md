@@ -1,8 +1,11 @@
 ---
+album: Confessions of a Dangerous Mind
 artists:
 - Logic
+external_ids:
+  spotify: spotify:track:6yIGZp1AaFBoDczu3b4hVU
 features: []
-genres: []
+first_released_as_single: false
 key: confessions-of-a-dangerous-mind-logic
 lyrics_url: https://genius.com/Logic-confessions-of-a-dangerous-mind-lyrics
 name: Confessions Of A Dangerous Mind
@@ -11,6 +14,8 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '2019-04-06'
+release_year: 2019
+runtime: 283866
 ---
 Yeah
 

@@ -1,9 +1,12 @@
 ---
+album: Indicud
 artists:
 - Kid Cudi
+external_ids:
+  spotify: spotify:track:20bJBbPapGQ4bqs0YcA9xY
 features:
 - King Chip
-genres: []
+first_released_as_single: false
 key: just-what-i-am-kid-cudi-king-chip
 lyrics_url: https://www.azlyrics.com/lyrics/kidcudi/justwhatiam.html
 name: Just What I Am
@@ -16,9 +19,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2012-10-27'
+release_year: 2012
+runtime: 228026
 ---
-
-
 I'm just what you made God
 Not many I trust
 I'ma go my own way, God
@@ -85,6 +88,3 @@ I'm just what you made God, I'm just what you made God
 
 Need it to get by, ya
 Willy
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Exclusive
 artists:
 - Chris Brown
+external_ids:
+  spotify: spotify:track:1vwUsp52io0AGQ5yv470IC
 features: []
-genres: []
+first_released_as_single: false
 key: take-you-down-chris-brown
 lyrics_url: https://genius.com/Chris-brown-take-you-down-lyrics
 name: Take You Down
@@ -87,6 +90,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2008-09-13'
+release_year: 2007
+runtime: 245933
 ---
 Yeah
 Do-do-do, do-do-do

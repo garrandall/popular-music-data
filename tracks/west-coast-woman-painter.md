@@ -1,8 +1,11 @@
 ---
+album: Painter
 artists:
 - Painter
+external_ids:
+  spotify: spotify:track:1tXqf5S0T73nNr6HQxdV8o
 features: []
-genres: []
+first_released_as_single: false
 key: west-coast-woman-painter
 name: West Coast Woman
 rankings:
@@ -26,5 +29,7 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1973-10-27'
+release_year: 1973
+runtime: 170360
 ---
 

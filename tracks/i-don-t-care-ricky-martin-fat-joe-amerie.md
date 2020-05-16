@@ -1,10 +1,13 @@
 ---
+album: Life
 artists:
 - Ricky Martin
+external_ids:
+  spotify: spotify:track:5HlL3KQR2hCoQBYcw7RWvO
 features:
 - Fat Joe
 - Amerie
-genres: []
+first_released_as_single: true
 key: i-don-t-care-ricky-martin-fat-joe-amerie
 lyrics_url: https://genius.com/Ricky-martin-i-dont-care-feat-fat-joe-and-amerie-promo-only-clean-edit-lyrics
 name: I Don't Care
@@ -29,6 +32,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2005-11-12'
+release_year: 2005
+runtime: 216866
 ---
 Yeah
 Crack

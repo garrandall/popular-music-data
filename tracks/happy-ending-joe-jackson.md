@@ -1,8 +1,11 @@
 ---
+album: Body And Soul
 artists:
 - Joe Jackson
+external_ids:
+  spotify: spotify:track:1qv9TWDpXh50DPLgWD4bnH
 features: []
-genres: []
+first_released_as_single: false
 key: happy-ending-joe-jackson
 lyrics_url: https://www.azlyrics.com/lyrics/joejackson/happyending.html
 name: Happy Ending
@@ -39,8 +42,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1984-09-01'
+release_year: 1984
+runtime: 218466
 ---
-
 I'm in a movie where boy meets girl
 What happens to me in this brave new world?
 Do I listen to my heart, do I listen to my head?
@@ -78,6 +82,3 @@ Anyone
 Anyone can be so hard hearted
 But everyone
 Still everybody wants a happy ending
-
-
-

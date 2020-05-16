@@ -1,8 +1,11 @@
 ---
+album: In Effect Mode
 artists:
 - Al B. Sure!
+external_ids:
+  spotify: spotify:track:3r0Rhl5Zdo9YjACZNsaBvN
 features: []
-genres: []
+first_released_as_single: false
 key: nite-and-day-al-b--sure-
 lyrics_url: https://genius.com/Al-b-sure-nite-and-day-lyrics
 name: Nite And Day
@@ -91,6 +94,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1988-08-27'
+release_year: 1988
+runtime: 238013
 ---
 Woo
 Ah, can you feel it, baby?

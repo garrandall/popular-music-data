@@ -1,8 +1,11 @@
 ---
+album: Glow
 artists:
 - Rick James
+external_ids:
+  spotify: spotify:track:0ICqQJkirKbnNgkAcHyONT
 features: []
-genres: []
+first_released_as_single: false
 key: 17-rick-james
 lyrics_url: https://www.azlyrics.com/lyrics/rickjames/17.html
 name: '17'
@@ -63,8 +66,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1984-10-13'
+release_year: 1984
+runtime: 404906
 ---
-
 A little girl came up to me, acting young and shy
 A look of curiosity was flashing in her eyes
 She had seen my face before and thought she knew me well
@@ -121,6 +125,3 @@ Seventeen years old, seventeen and sexy
 Seventeen years old, seventeen and sexy
 She was only seventeen
 Seventeen and sexy
-
-
-

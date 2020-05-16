@@ -1,8 +1,11 @@
 ---
+album: Sweeter Than Fiction
 artists:
 - Taylor Swift
+external_ids:
+  spotify: spotify:track:0RFCHlNuTeUHIB36VuVbOL
 features: []
-genres: []
+first_released_as_single: true
 key: sweeter-than-fiction-taylor-swift
 lyrics_url: https://genius.com/Taylor-swift-sweeter-than-fiction-lyrics
 name: Sweeter Than Fiction
@@ -11,6 +14,8 @@ rankings:
   rank: 34
   ranking_list: Billboard Hot 100
   start_date: '2013-11-09'
+release_year: 2013
+runtime: 237640
 ---
 Hit the ground, hit the ground, hit the ground (oh, oh)
 Only sound, only sound that you hear is "no"

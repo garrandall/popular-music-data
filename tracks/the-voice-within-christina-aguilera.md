@@ -1,8 +1,11 @@
 ---
+album: Stripped
 artists:
 - Christina Aguilera
+external_ids:
+  spotify: spotify:track:42JgHvkBiAc5ivo0gvVRvQ
 features: []
-genres: []
+first_released_as_single: false
 key: the-voice-within-christina-aguilera
 lyrics_url: https://www.azlyrics.com/lyrics/christinaaguilera/thevoicewithin.html
 name: The Voice Within
@@ -71,8 +74,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2004-03-13'
+release_year: 2002
+runtime: 304013
 ---
-
 Young girl, don't cry
 I'll be right here when your world starts to fall
 Young girl, it's alright
@@ -135,6 +139,3 @@ Young girl don't cry
 I'll be right here when your world starts to fall
 
 (Listen)
-
-
-

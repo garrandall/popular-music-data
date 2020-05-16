@@ -1,8 +1,11 @@
 ---
+album: Bachelorette Party
 artists:
 - Christina Milian
+external_ids:
+  spotify: spotify:track:4e4dNzVG8DBQqbhX57Wxe8
 features: []
-genres: []
+first_released_as_single: false
 key: am-to-pm-christina-milian
 lyrics_url: https://www.azlyrics.com/lyrics/christinamilian/amtopm.html
 name: AM To PM
@@ -87,8 +90,9 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '2002-01-05'
+release_year: 2001
+runtime: 233586
 ---
-
 Somebody hit the lights, so we can rock it day and night,
 People getting' down, that's right, from AM to PM.
 Everybody lookin' like stars, all the chicks and the fellas in the bars,
@@ -120,4 +124,3 @@ From the front to the back c'mon and bob your head, yeah.
 Three sixty-five days a year, twenty-four a day, yeah.
 No we don't need no sleep, all night we rock that beat.
 So you know what to do, just make it move and make it move, yeah.
-

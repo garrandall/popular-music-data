@@ -1,8 +1,11 @@
 ---
+album: Erotica (PA Version)
 artists:
 - Madonna
+external_ids:
+  spotify: spotify:track:3ePcudSYfHiT7ODODbzKfg
 features: []
-genres: []
+first_released_as_single: false
 key: secret-madonna
 lyrics_url: https://genius.com/Madonna-secret-lyrics
 name: Secret
@@ -95,6 +98,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1995-03-04'
+release_year: 1992
+runtime: 332266
 ---
 Things haven't been the same
 Since you came into my life

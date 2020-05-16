@@ -1,8 +1,11 @@
 ---
+album: Baby Call On Me
 artists:
 - Wilson Pickett
+external_ids:
+  spotify: spotify:track:6aMRpkWLIwEjzQFUeUvnJF
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-too-late-wilson-pickett
 lyrics_url: https://www.azlyrics.com/lyrics/wilsonpickett/itstoolate.html
 name: It's Too Late
@@ -47,8 +50,9 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '1963-09-28'
+release_year: 1963
+runtime: 182880
 ---
-
 It's too late (too late, too late)
 Said it's too late, yes it is (too late)
 My love is gone away to stay (too late)
@@ -87,6 +91,3 @@ Ah yeah (too late) don't you know it, children (too late)
 Yeah yeah yeah yeah yeah yeah
 Say it one more time (too late) listen (too late)
 I wanna hear you understand what I'm talkin' about (too late)
-
-
-

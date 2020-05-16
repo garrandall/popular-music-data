@@ -1,9 +1,12 @@
 ---
+album: Cowboy's Back In Town
 artists:
 - Blake Shelton
+external_ids:
+  spotify: spotify:track:40T9vgCE3W4Y6QePIkQBEm
 features:
 - Trace Adkins
-genres: []
+first_released_as_single: false
 key: hillbilly-bone-blake-shelton-trace-adkins
 lyrics_url: https://www.azlyrics.com/lyrics/blakeshelton/hillbillybone.html
 name: Hillbilly Bone
@@ -88,8 +91,9 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2010-05-22'
+release_year: 2010
+runtime: 224906
 ---
-
 Oh man, you've gotta watch where you're stepping around here
 Yeah I got a friend in New York City
 He's never heard of Connway Twitty
@@ -145,6 +149,3 @@ Hillbilly bone ba-bone ba-bone bone
 Hillbilly bone ba-bone ba-bone bone
 
 I've always wanted to sing the bone song
-
-
-

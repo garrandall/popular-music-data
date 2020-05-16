@@ -1,9 +1,12 @@
 ---
+album: Dangerous Woman
 artists:
 - Ariana Grande
+external_ids:
+  spotify: spotify:track:5AKlnLpP3WLwZseNbjquND
 features:
 - Lil Wayne
-genres: []
+first_released_as_single: false
 key: let-me-love-you-ariana-grande-lil-wayne
 lyrics_url: https://www.azlyrics.com/lyrics/arianagrande/letmeloveyou.html
 name: Let Me Love You
@@ -12,9 +15,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2016-05-07'
+release_year: 2016
+runtime: 223853
 ---
-
-
 I just broke up with my ex
 Now I'm out here single, I don't really know what's next
 But I ain't even trippin', I'mma chill and sit back
@@ -88,6 +91,3 @@ Boy, I'm looking for love, baby
 I'mma give her that love
 I'mma give her that...
 I'mma give her that...
-
-
-

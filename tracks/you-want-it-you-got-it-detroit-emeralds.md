@@ -1,8 +1,11 @@
 ---
+album: Greatest Hits
 artists:
 - Detroit Emeralds
+external_ids:
+  spotify: spotify:track:3nFqEDnar4laVPgEHw9CYV
 features: []
-genres: []
+first_released_as_single: true
 key: you-want-it-you-got-it-detroit-emeralds
 lyrics_url: https://genius.com/Detroit-emeralds-you-want-it-you-got-it-lyrics
 name: You Want It You Got It
@@ -59,6 +62,8 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '1972-04-01'
+release_year: 1971
+runtime: 169105
 ---
 I've lots of a money
 Got two diamond rings

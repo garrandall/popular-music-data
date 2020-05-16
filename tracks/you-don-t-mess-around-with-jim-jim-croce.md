@@ -1,8 +1,11 @@
 ---
+album: You Don't Mess Around With Jim
 artists:
 - Jim Croce
+external_ids:
+  spotify: spotify:track:5yrsBzgHkfu2idkl2ILQis
 features: []
-genres: []
+first_released_as_single: false
 key: you-don-t-mess-around-with-jim-jim-croce
 lyrics_url: https://genius.com/Jim-croce-you-dont-mess-around-with-jim-lyrics
 name: You Don't Mess Around With Jim
@@ -59,6 +62,8 @@ rankings:
   rank: 33
   ranking_list: Billboard Hot 100
   start_date: '1972-09-23'
+release_year: 1972
+runtime: 184640
 ---
 Uptown got its hustlers
 The bowery got its bums

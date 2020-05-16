@@ -1,8 +1,11 @@
 ---
+album: Sweet Soul Music
 artists:
 - Arthur Conley
+external_ids:
+  spotify: spotify:track:2YuIyYri67bgUXKQW5V9XW
 features: []
-genres: []
+first_released_as_single: false
 key: sweet-soul-music-arthur-conley
 lyrics_url: https://genius.com/Arthur-conley-sweet-soul-music-lyrics
 name: Sweet Soul Music
@@ -67,6 +70,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1967-06-17'
+release_year: 1967
+runtime: 141066
 ---
 Do you like good music?
 Huh, that sweet soul music

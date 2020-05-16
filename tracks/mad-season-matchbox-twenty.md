@@ -1,8 +1,11 @@
 ---
+album: Mad Season
 artists:
 - matchbox twenty
+external_ids:
+  spotify: spotify:track:3jZHJO0QAb8sbv71DXOD9J
 features: []
-genres: []
+first_released_as_single: false
 key: mad-season-matchbox-twenty
 lyrics_url: https://genius.com/Matchbox-twenty-mad-season-come-undone-lyrics
 name: Mad Season
@@ -87,6 +90,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2001-09-15'
+release_year: 2000
+runtime: 302106
 ---
 I feel stupid
 But I know it won't last for long

@@ -1,8 +1,11 @@
 ---
+album: More Life
 artists:
 - Drake
+external_ids:
+  spotify: spotify:track:343YBumqHu19cGoGARUTsd
 features: []
-genres: []
+first_released_as_single: false
 key: fake-love-drake
 lyrics_url: https://www.musixmatch.com/lyrics/Drake/Fake-Love
 name: Fake Love
@@ -107,6 +110,8 @@ rankings:
   rank: 38
   ranking_list: Billboard Hot 100
   start_date: '2017-04-29'
+release_year: 2016
+runtime: 210937
 ---
 Yeah, yeah
 

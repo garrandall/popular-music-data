@@ -1,8 +1,11 @@
 ---
+album: Three Lock Box
 artists:
 - Sammy Hagar
+external_ids:
+  spotify: spotify:track:0f0xKba8W0JdbBksmx4FZN
 features: []
-genres: []
+first_released_as_single: false
 key: never-give-up-sammy-hagar
 lyrics_url: https://www.azlyrics.com/lyrics/sammyhagar/nevergiveup.html
 name: Never Give Up
@@ -39,8 +42,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1983-05-14'
+release_year: 1982
+runtime: 195733
 ---
-
 Gotta see how far I can go
 Gonna make it to the late show
 Need to find some new romance, oh, yeah
@@ -99,6 +103,3 @@ I'll never give up on you
 I'll never give up
 No I'll never give up
 I've just
-
-
-

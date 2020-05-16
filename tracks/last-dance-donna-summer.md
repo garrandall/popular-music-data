@@ -1,8 +1,11 @@
 ---
+album: Live And More
 artists:
 - Donna Summer
+external_ids:
+  spotify: spotify:track:6SwmzaaYlRTu1SmwnN3kAH
 features: []
-genres: []
+first_released_as_single: false
 key: last-dance-donna-summer
 lyrics_url: https://www.azlyrics.com/lyrics/donnasummer/lastdance.html
 name: Last Dance
@@ -91,8 +94,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1978-09-30'
+release_year: 1978
+runtime: 356941
 ---
-
 Last dance
 Last dance for love
 Yes, it's my last chance
@@ -129,6 +133,3 @@ I'm so, so bad
 So, come on baby, dance that dance
 Come on baby, dance that dance
 Come on baby, let's dance tonight
-
-
-

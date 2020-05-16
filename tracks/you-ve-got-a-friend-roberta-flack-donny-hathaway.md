@@ -1,9 +1,12 @@
 ---
+album: Roberta Flack & Donny Hathaway
 artists:
 - Roberta Flack
 - Donny Hathaway
+external_ids:
+  spotify: spotify:track:5UHpNbocPg0TdGOkf6QX8Z
 features: []
-genres: []
+first_released_as_single: false
 key: you-ve-got-a-friend-roberta-flack-donny-hathaway
 lyrics_url: https://genius.com/Roberta-flack-and-donny-hathaway-youve-got-a-friend-lyrics
 name: You've Got A Friend
@@ -56,6 +59,8 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '1971-08-28'
+release_year: 1971
+runtime: 203733
 ---
 Woo, hoo, hoo
 Woo, hoo, hoo

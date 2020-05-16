@@ -1,8 +1,11 @@
 ---
+album: Chapel of Love
 artists:
 - The Dixie Cups
+external_ids:
+  spotify: spotify:track:1aneci9mM95ya4wSMqcKFz
 features: []
-genres: []
+first_released_as_single: false
 key: little-bell-the-dixie-cups
 lyrics_url: https://genius.com/The-dixie-cups-little-bell-lyrics
 name: Little Bell
@@ -43,6 +46,8 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '1965-02-13'
+release_year: 1964
+runtime: 193165
 ---
 Somebody told him
 I haven't been true

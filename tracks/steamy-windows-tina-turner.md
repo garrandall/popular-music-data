@@ -1,8 +1,11 @@
 ---
+album: Foreign Affair
 artists:
 - Tina Turner
+external_ids:
+  spotify: spotify:track:3dYmruq1HiKJeOQ8h1OEfz
 features: []
-genres: []
+first_released_as_single: false
 key: steamy-windows-tina-turner
 lyrics_url: https://genius.com/Tina-turner-steamy-windows-lyrics
 name: Steamy Windows
@@ -51,6 +54,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1990-02-03'
+release_year: 1989
+runtime: 245133
 ---
 I was thinking about parking the other night
 We was out on a back road

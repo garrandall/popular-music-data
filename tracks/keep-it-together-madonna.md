@@ -1,8 +1,11 @@
 ---
+album: Like a Prayer
 artists:
 - Madonna
+external_ids:
+  spotify: spotify:track:04tSWZo4MLebMbf7RwSmyE
 features: []
-genres: []
+first_released_as_single: false
 key: keep-it-together-madonna
 lyrics_url: https://www.azlyrics.com/lyrics/madonna/keepittogether.html
 name: Keep It Together
@@ -59,8 +62,9 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1990-04-28'
+release_year: 1989
+runtime: 303200
 ---
-
 Keep, keep it together
 Keep people together forever and ever
 
@@ -107,4 +111,3 @@ We have a connection, home is where the heart should be
 
 Keep, keep it together
 Keep people together forever and ever
-

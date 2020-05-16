@@ -1,9 +1,12 @@
 ---
+album: My Turn
 artists:
 - Lil Baby
 - Gunna
+external_ids:
+  spotify: spotify:track:7KSSdFCBHCfq4KPzz78ghk
 features: []
-genres: []
+first_released_as_single: false
 key: heatin-up-lil-baby-gunna
 lyrics_url: https://www.azlyrics.com/lyrics/lilbaby/heatinup.html
 name: Heatin Up
@@ -16,8 +19,9 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '2020-03-21'
+release_year: 2020
+runtime: 177314
 ---
-
 (Cook that shit up, Quay)
 4PF look like we hit licks how we sell bricks
 We don't sell shit, we just make hits, yeah
@@ -106,6 +110,3 @@ Oh, she bad with no swag, I can pipe her up
 Made my last one my last one, I'm wifin' her
 Count the money up fast like I'm typin' somethin'
 I'm the type to get active and never run
-
-
-

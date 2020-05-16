@@ -1,8 +1,11 @@
 ---
+album: Dance Into The Light
 artists:
 - Phil Collins
+external_ids:
+  spotify: spotify:track:6JRBGmf5T7QjFQPWTwBdbs
 features: []
-genres: []
+first_released_as_single: false
 key: dance-into-the-light-phil-collins
 lyrics_url: https://www.azlyrics.com/lyrics/philcollins/danceintothelight.html
 name: Dance Into The Light
@@ -71,8 +74,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1997-02-08'
+release_year: 1996
+runtime: 264826
 ---
-
 It's there in the eyes of the children
 In the faces smiling in the windows
 You can come on out, come on open the doors
@@ -120,6 +124,3 @@ Because the train is coming to carry you home
 Come dance with me
 Come on and dance into the light
 Everybody dance into the light
-
-
-

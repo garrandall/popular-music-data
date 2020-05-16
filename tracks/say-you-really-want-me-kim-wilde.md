@@ -1,8 +1,11 @@
 ---
+album: Another Step
 artists:
 - Kim Wilde
+external_ids:
+  spotify: spotify:track:1lemomv6vJ9UcHxMRDlNMJ
 features: []
-genres: []
+first_released_as_single: false
 key: say-you-really-want-me-kim-wilde
 lyrics_url: https://www.azlyrics.com/lyrics/kimwilde/sayyoureallywantme.html
 name: Say You Really Want Me
@@ -39,8 +42,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1987-09-05'
+release_year: 1986
+runtime: 225533
 ---
-
 Why you always got to be so cool
 And why I always got to play your fool
 You don't really know what life's about
@@ -64,6 +68,3 @@ I need somebody through the thick and the thin
 'Cos I know the problems of today
 The time is over now for playing those games
 Lets take it all the way
-
-
-

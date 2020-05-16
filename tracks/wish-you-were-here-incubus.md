@@ -1,8 +1,11 @@
 ---
+album: Morning View
 artists:
 - Incubus
+external_ids:
+  spotify: spotify:track:3luCYIYYf6B3WjrOHv8GaU
 features: []
-genres: []
+first_released_as_single: true
 key: wish-you-were-here-incubus
 lyrics_url: https://www.azlyrics.com/lyrics/incubus/wishyouwerehere.html
 name: Wish You Were Here
@@ -87,8 +90,9 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '2002-02-02'
+release_year: 2001
+runtime: 213053
 ---
-
 I dig my toes into the sand
 The ocean looks like a thousand diamonds
 Strewn across a blue blanket
@@ -126,6 +130,3 @@ I wish you were here
 
 I wish you were here
 I wish you were here
-
-
-

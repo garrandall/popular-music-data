@@ -1,8 +1,11 @@
 ---
+album: Goldfinger
 artists:
 - Shirley Bassey
+external_ids:
+  spotify: spotify:track:7r0EUONfPUZ8SD1vu4ro27
 features: []
-genres: []
+first_released_as_single: false
 key: goldfinger-shirley-bassey
 lyrics_url: https://www.azlyrics.com/lyrics/shirleybassey/goldfinger.html
 name: Goldfinger
@@ -59,8 +62,9 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1965-04-24'
+release_year: 1965
+runtime: 168733
 ---
-
 Goldfinger
 He's the man, the man with the Midas touch
 A spider's touch
@@ -92,6 +96,3 @@ He loves gold
 He loves only gold
 Only gold
 He loves gold
-
-
-

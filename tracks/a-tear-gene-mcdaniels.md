@@ -1,8 +1,11 @@
 ---
+album: Tower Of Strength
 artists:
 - Gene McDaniels
+external_ids:
+  spotify: spotify:track:2KpjYZs4UlnhbFWxjqELjE
 features: []
-genres: []
+first_released_as_single: false
 key: a-tear-gene-mcdaniels
 lyrics_url: https://www.musixmatch.com/lyrics/Gene-McDaniels/A-Tear-1995-Digital-Remaster
 name: A Tear
@@ -39,6 +42,8 @@ rankings:
   rank: 52
   ranking_list: Billboard Hot 100
   start_date: '1961-08-21'
+release_year: 1961
+runtime: 130093
 ---
 A tear... I can't stop this little drop of water called a tear Ever since you went away, this little drop of water has been here
 So my darlin tell me why, why you wanna make me cry

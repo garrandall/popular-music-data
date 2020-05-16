@@ -1,9 +1,12 @@
 ---
+album: Mud On The Tires
 artists:
 - Brad Paisley
+external_ids:
+  spotify: spotify:track:6iblnklMzUKIXAtjk5lzIy
 features:
 - Alison Krauss
-genres: []
+first_released_as_single: false
 key: whiskey-lullaby-brad-paisley-alison-krauss
 lyrics_url: https://www.azlyrics.com/lyrics/bradpaisley/whiskeylullaby.html
 name: Whiskey Lullaby
@@ -80,9 +83,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2004-10-16'
+release_year: 2003
+runtime: 259893
 ---
-
-
 She put him out, like the burnin' end of a midnight cigarette
 She broke his heart, he spent his whole life tryin' to forget
 We watched him drink his pain away a little at a time
@@ -121,6 +124,3 @@ While the angels sang a whiskey lullaby
 
 La, la, la, la, la, la, la
 La, la, la, la, la, la, la
-
-
-

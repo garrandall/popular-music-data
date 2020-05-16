@@ -1,8 +1,11 @@
 ---
+album: Paid Tha Cost To Be Da Bo$$
 artists:
 - Snoop Dogg
+external_ids:
+  spotify: spotify:track:5M3fIM8TMpZtLC5yHc98Rh
 features: []
-genres: []
+first_released_as_single: false
 key: from-tha-chuuuch-to-da-palace-snoop-dogg
 lyrics_url: https://www.azlyrics.com/lyrics/snoopdogg/fromthachuuuchtodapalace.html
 name: From Tha Chuuuch To Da Palace
@@ -47,8 +50,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2003-01-11'
+release_year: 2002
+runtime: 280560
 ---
-
 Fa shizzle dizzle, its the big Neptizzle
 with the Snoopy D-O-Double Jizzle!
 ...(Snoop dogg! Snoop Dogg!)
@@ -123,4 +127,3 @@ What I say cuz what I say is so real
 Homie you don' wanna see da, steel
 You don't wanna catch a body, You can't hear the party!
 Now thats what you should do, now wheres my baby-boo?
-

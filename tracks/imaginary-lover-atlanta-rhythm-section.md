@@ -1,8 +1,11 @@
 ---
+album: So into You
 artists:
 - Atlanta Rhythm Section
+external_ids:
+  spotify: spotify:track:6q75J9PSDJ1WFKCqevvUR0
 features: []
-genres: []
+first_released_as_single: false
 key: imaginary-lover-atlanta-rhythm-section
 lyrics_url: https://www.azlyrics.com/lyrics/atlantarhythmsection/imaginarylover.html
 name: Imaginary Lover
@@ -75,8 +78,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1978-06-24'
+release_year: 1972
+runtime: 332323
 ---
-
 Imaginary lovers never turn you down
 When all the others turn you away, they're around
 It's my private pleasure, midnight fantasy
@@ -98,6 +102,3 @@ Imaginary lover, imaginary lover
 You're mine all the time
 My imaginary lover
 You're mine anytime
-
-
-

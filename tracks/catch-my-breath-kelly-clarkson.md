@@ -1,8 +1,11 @@
 ---
+album: Greatest Hits - Chapter One
 artists:
 - Kelly Clarkson
+external_ids:
+  spotify: spotify:track:5qxPabNDnJQ551Tf4v6k3j
 features: []
-genres: []
+first_released_as_single: false
 key: catch-my-breath-kelly-clarkson
 lyrics_url: https://genius.com/Kelly-clarkson-catch-my-breath-lyrics
 name: Catch My Breath
@@ -103,6 +106,8 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '2013-04-20'
+release_year: 2012
+runtime: 250386
 ---
 I don't wanna be left behind
 Distance was a friend of mine

@@ -1,8 +1,11 @@
 ---
+album: Beatitude
 artists:
 - Ric Ocasek
+external_ids:
+  spotify: spotify:track:1p0rQUKbsx0JSz9aHJ8RcN
 features: []
-genres: []
+first_released_as_single: false
 key: something-to-grab-for-ric-ocasek
 lyrics_url: https://genius.com/Ric-ocasek-something-to-grab-for-lyrics
 name: Something To Grab For
@@ -43,6 +46,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1983-04-09'
+release_year: 1982
+runtime: 223466
 ---
 If you want to hang on to my shoulder
 I'm standing here

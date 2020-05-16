@@ -1,8 +1,11 @@
 ---
+album: Starz
 artists:
 - Starz
+external_ids:
+  spotify: spotify:track:7jZt2SPkdUlp6uLwKNU6lj
 features: []
-genres: []
+first_released_as_single: false
 key: -she-s-just-a--fallen-angel-starz
 name: (She's Just A) Fallen Angel
 rankings:
@@ -18,5 +21,7 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1977-01-08'
+release_year: 1976
+runtime: 212813
 ---
 

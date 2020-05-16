@@ -1,8 +1,11 @@
 ---
+album: The Best Of Ronnie Dove Volume 3
 artists:
 - Ronnie Dove
+external_ids:
+  spotify: spotify:track:5v7VLyxMvckMiTw9iyOUQR
 features: []
-genres: []
+first_released_as_single: false
 key: i-ll-make-all-your-dreams-come-true-ronnie-dove
 lyrics_url: https://genius.com/Ronnie-dove-ill-make-all-your-dreams-come-true-lyrics
 name: I'll Make All Your Dreams Come True
@@ -43,6 +46,8 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '1965-10-23'
+release_year: 1965
+runtime: 158280
 ---
 (I'll make all your dreams come true)
 Just give me the right

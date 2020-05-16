@@ -1,8 +1,11 @@
 ---
+album: Up All Night
 artists:
 - Pajama Party
+external_ids:
+  spotify: spotify:track:4mh8QUBjztJtEW6JLmKLwO
 features: []
-genres: []
+first_released_as_single: false
 key: over-and-over-pajama-party
 lyrics_url: https://genius.com/Pajama-party-over-and-over-lyrics
 name: Over And Over
@@ -63,6 +66,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1990-02-10'
+release_year: 1989
+runtime: 365173
 ---
 You look so fine, you move so hot
 Each time you touch me, it's just the right spot

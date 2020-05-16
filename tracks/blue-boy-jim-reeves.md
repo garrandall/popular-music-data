@@ -1,8 +1,11 @@
 ---
+album: The Essential Jim Reeves
 artists:
 - Jim Reeves
+external_ids:
+  spotify: spotify:track:2UBGlXKG9XHgaHoGzNmhWf
 features: []
-genres: []
+first_released_as_single: false
 key: blue-boy-jim-reeves
 lyrics_url: https://www.musixmatch.com/lyrics/Jim-Reeves/Blue-Boy
 name: Blue Boy
@@ -31,6 +34,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1958-09-15'
+release_year: 1958
+runtime: 130533
 ---
 Blue boy, that's what they call me
 'Cause I'm so lonely, since I lost you,

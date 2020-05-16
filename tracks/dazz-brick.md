@@ -1,8 +1,11 @@
 ---
+album: Super Hits
 artists:
 - Brick
+external_ids:
+  spotify: spotify:track:0xb37OslB3XLHaZXgae4Tj
 features: []
-genres: []
+first_released_as_single: false
 key: dazz-brick
 lyrics_url: https://genius.com/Brick-dazz-lyrics
 name: Dazz
@@ -91,6 +94,8 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '1977-03-12'
+release_year: 1972
+runtime: 336760
 ---
 Everybody go on and dance if you want to
 Music makes your body move, well all right

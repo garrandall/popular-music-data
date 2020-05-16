@@ -1,8 +1,11 @@
 ---
+album: Let the Heartaches Begin
 artists:
 - Long John Baldry
+external_ids:
+  spotify: spotify:track:6qjz4HMcUErYWUz6TnRi3W
 features: []
-genres: []
+first_released_as_single: false
 key: let-the-heartaches-begin-long-john-baldry
 lyrics_url: https://www.musixmatch.com/lyrics/Long-John-Baldry/Let-the-Heartaches-Begin
 name: Let The Heartaches Begin
@@ -15,6 +18,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1968-01-20'
+release_year: 1967
+runtime: 192853
 ---
 Let The Heartaches Begin
 

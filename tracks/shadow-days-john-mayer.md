@@ -1,8 +1,11 @@
 ---
+album: Born and Raised
 artists:
 - John Mayer
+external_ids:
+  spotify: spotify:track:3RgR3cFZ6xh7MlB9DURK6e
 features: []
-genres: []
+first_released_as_single: false
 key: shadow-days-john-mayer
 lyrics_url: https://www.azlyrics.com/lyrics/johnmayer/shadowdays.html
 name: Shadow Days
@@ -19,8 +22,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2012-06-23'
+release_year: 2012
+runtime: 228173
 ---
-
 Did you know that you could be wrong
 And swear you're right
 Some people been known to do it
@@ -60,4 +64,3 @@ Now I'm right here, and I'm right now
 And I'm open, knowing somehow
 That my shadow days are over
 My shadow days are over now
-

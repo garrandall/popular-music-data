@@ -1,8 +1,11 @@
 ---
+album: The Power of Joe Simon +
 artists:
 - Joe Simon
+external_ids:
+  spotify: spotify:track:0AQIHF81lsFyWe6utbuqgy
 features: []
-genres: []
+first_released_as_single: false
 key: trouble-in-my-home-joe-simon
 lyrics_url: https://www.musixmatch.com/lyrics/Joe-Simon/Trouble-in-My-Home
 name: Trouble In My Home
@@ -35,6 +38,8 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1973-01-13'
+release_year: 1972
+runtime: 208753
 ---
 I want somebody
 To hear my cry

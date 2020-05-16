@@ -1,8 +1,11 @@
 ---
+album: Pisces, Aquarius, Capricorn & Jones Ltd.
 artists:
 - The Monkees
+external_ids:
+  spotify: spotify:track:2HqB3VSdiYmDkTTCPzVHOf
 features: []
-genres: []
+first_released_as_single: false
 key: pleasant-valley-sunday-the-monkees
 lyrics_url: https://www.azlyrics.com/lyrics/monkees/pleasantvalleysunday.html
 name: Pleasant Valley Sunday
@@ -47,8 +50,9 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '1967-09-23'
+release_year: 1967
+runtime: 194466
 ---
-
 The local rock group down the street
 Is trying hard to learn their song
 Seranade the weekend squire, who just came out to mow his lawn
@@ -79,6 +83,3 @@ Another Pleasant Valley Sunday
 Here in status symbol land
 
 Another Pleasant Valley Sunday...
-
-
-

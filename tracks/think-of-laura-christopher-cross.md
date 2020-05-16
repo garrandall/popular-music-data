@@ -1,8 +1,11 @@
 ---
+album: Another Page
 artists:
 - Christopher Cross
+external_ids:
+  spotify: spotify:track:5jLq63jMFWg0dKHnht6YI0
 features: []
-genres: []
+first_released_as_single: false
 key: think-of-laura-christopher-cross
 lyrics_url: https://www.azlyrics.com/lyrics/christophercross/thinkoflaura.html
 name: Think Of Laura
@@ -75,8 +78,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1984-03-31'
+release_year: 1983
+runtime: 206640
 ---
-
 Every once in a while I'd see her smile
 And she'd turn my day around
 A girl with those eyes could stare through the lies
@@ -112,6 +116,3 @@ Think of Laura but laugh don't cry
 I know she'd want it that way
 When you think of Laura laugh don't cry
 I know she'd want it that way
-
-
-

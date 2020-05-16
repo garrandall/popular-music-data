@@ -1,8 +1,11 @@
 ---
+album: KIDS SEE GHOSTS
 artists:
 - KIDS SEE GHOSTS
+external_ids:
+  spotify: spotify:track:7GRTrWsP3yo2Fx8umJfA1X
 features: []
-genres: []
+first_released_as_single: false
 key: freeee--ghost-town-pt-2--kids-see-ghosts
 lyrics_url: https://genius.com/Kids-see-ghosts-freeee-ghost-town-pt-2-lyrics
 name: Freeee (Ghost Town Pt 2)
@@ -11,6 +14,8 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '2018-06-23'
+release_year: 2018
+runtime: 206605
 ---
 May I say something to you to give you a true knowledge of yourself and life?
 Man in the full knowledge of himself is a superb and supreme creature of creation

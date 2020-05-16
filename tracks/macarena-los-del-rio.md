@@ -1,8 +1,11 @@
 ---
+album: Fiesta Macarena
 artists:
 - Los Del Rio
+external_ids:
+  spotify: spotify:track:4oaj36KzXRgDg4McgcTsZK
 features: []
-genres: []
+first_released_as_single: false
 key: macarena-los-del-rio
 lyrics_url: https://genius.com/Los-del-rio-macarena-lyrics
 name: Macarena
@@ -91,6 +94,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1996-11-23'
+release_year: 1996
+runtime: 249506
 ---
 Dale a tu cuerpo alegría, Macarena
 Que tu cuerpo es pa' darle alegría y cosa buena

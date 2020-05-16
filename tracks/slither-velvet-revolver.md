@@ -1,8 +1,11 @@
 ---
+album: Contraband
 artists:
 - Velvet Revolver
+external_ids:
+  spotify: spotify:track:7kF1iPJTj3VFJX9XokQ80F
 features: []
-genres: []
+first_released_as_single: false
 key: slither-velvet-revolver
 lyrics_url: https://www.azlyrics.com/lyrics/velvetrevolver/slither.html
 name: Slither
@@ -87,8 +90,9 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2004-09-25'
+release_year: 2004
+runtime: 248306
 ---
-
 Hey Hey Hey
 
 When you look you see right through me
@@ -135,6 +139,3 @@ It only burns you faster than you'll ever dry
 This time with me
 
 Hey, hey, hey
-
-
-

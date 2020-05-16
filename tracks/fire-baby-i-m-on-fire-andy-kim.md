@@ -1,8 +1,11 @@
 ---
+album: Greatest Hits
 artists:
 - Andy Kim
+external_ids:
+  spotify: spotify:track:2B3dHc0rsp6knqfK7tkQDQ
 features: []
-genres: []
+first_released_as_single: false
 key: fire-baby-i-m-on-fire-andy-kim
 lyrics_url: https://genius.com/Andy-kim-fire-baby-im-on-fire-lyrics
 name: Fire Baby I'm On Fire
@@ -43,6 +46,8 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '1974-12-21'
+release_year: 1974
+runtime: 237306
 ---
 You feel just like a woman should
 The night will soon be dawn

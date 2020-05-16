@@ -1,8 +1,11 @@
 ---
+album: I Want to Go with You
 artists:
 - Eddy Arnold
+external_ids:
+  spotify: spotify:track:2YLiIQfuZHlex73qahKq6i
 features: []
-genres: []
+first_released_as_single: false
 key: i-want-to-go-with-you-eddy-arnold
 lyrics_url: https://www.azlyrics.com/lyrics/eddyarnold/iwanttogowithyou.html
 name: I Want To Go With You
@@ -51,8 +54,9 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '1966-04-16'
+release_year: 1966
+runtime: 162373
 ---
-
 I wanna go with you
 To that other world
 The one your love takes me to
@@ -80,6 +84,3 @@ I wanna go with you
 
 The one your love takes me to
 I wanna go with you...
-
-
-

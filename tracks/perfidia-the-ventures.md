@@ -1,8 +1,11 @@
 ---
+album: The Ventures
 artists:
 - The Ventures
+external_ids:
+  spotify: spotify:track:7DRwkerriaXA6OCF6H7oqM
 features: []
-genres: []
+first_released_as_single: false
 key: perfidia-the-ventures
 name: Perfidia
 rankings:
@@ -58,5 +61,7 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '1961-01-23'
+release_year: 1960
+runtime: 124040
 ---
 

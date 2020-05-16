@@ -1,8 +1,11 @@
 ---
+album: The Complete Atco Recordings
 artists:
 - Dee Dee Warwick
+external_ids:
+  spotify: spotify:track:0DcPTArHPrba1RwQZEH6CA
 features: []
-genres: []
+first_released_as_single: false
 key: suspicious-minds-dee-dee-warwick
 lyrics_url: https://genius.com/Dee-dee-warwick-suspicious-minds-lyrics
 name: Suspicious Minds
@@ -27,6 +30,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1971-07-24'
+release_year: 1971
+runtime: 199093
 ---
 We're caught in a trap, I can't walk out
 Because I love you too much, baby

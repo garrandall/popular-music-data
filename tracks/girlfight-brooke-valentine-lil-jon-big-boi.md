@@ -1,10 +1,13 @@
 ---
+album: Chain Letter
 artists:
 - Brooke Valentine
+external_ids:
+  spotify: spotify:track:5pMIsEpL9lx3tACSkxYh1A
 features:
 - Lil Jon
 - Big Boi
-genres: []
+first_released_as_single: true
 key: girlfight-brooke-valentine-lil-jon-big-boi
 lyrics_url: https://www.azlyrics.com/lyrics/brookevalentine/girlfight.html
 name: Girlfight
@@ -89,9 +92,9 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '2005-07-16'
+release_year: 2004
+runtime: 216800
 ---
-
-
 Boy stop
 Its about to be a girl fight
 She really know
@@ -183,6 +186,3 @@ I know you heard me pullin' up uh
 Come outside, uh, come outside, uh
 We down to ride
 It's about to be a... Girlfight!
-
-
-

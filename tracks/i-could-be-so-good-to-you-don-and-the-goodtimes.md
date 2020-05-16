@@ -1,8 +1,11 @@
 ---
+album: So Good
 artists:
 - Don And The Goodtimes
+external_ids:
+  spotify: spotify:track:59WMWQ3iH0TEMSfuWUYAWH
 features: []
-genres: []
+first_released_as_single: false
 key: i-could-be-so-good-to-you-don-and-the-goodtimes
 lyrics_url: https://genius.com/Don-and-the-goodtimes-i-could-be-so-good-to-you-lyrics
 name: I Could Be So Good To You
@@ -35,6 +38,8 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '1967-06-03'
+release_year: 1967
+runtime: 173106
 ---
 I only want to tell you
 That I think you look real nice

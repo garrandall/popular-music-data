@@ -1,8 +1,11 @@
 ---
+album: Everybody Needs Love
 artists:
 - Gladys Knight And The Pips
+external_ids:
+  spotify: spotify:track:1gzsqnh8JvzYwIIv2r0kiJ
 features: []
-genres: []
+first_released_as_single: false
 key: take-me-in-your-arms-and-love-me-gladys-knight-and-the-pips
 lyrics_url: https://genius.com/Gladys-knight-and-the-pips-take-me-in-your-arms-and-love-me-lyrics
 name: Take Me In Your Arms And Love Me
@@ -15,6 +18,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1967-05-13'
+release_year: 1967
+runtime: 174626
 ---
 The moon above is shining bright
 Come on, boy, the time is right

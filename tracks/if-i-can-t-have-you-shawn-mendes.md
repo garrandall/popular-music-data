@@ -1,8 +1,11 @@
 ---
+album: Shawn Mendes
 artists:
 - Shawn Mendes
+external_ids:
+  spotify: spotify:track:6LsAAHotRLMOHfCsSfYCsz
 features: []
-genres: []
+first_released_as_single: true
 key: if-i-can-t-have-you-shawn-mendes
 lyrics_url: https://www.musixmatch.com/lyrics/Shawn-Mendes/If-I-Can-t-Have-You
 name: If I Can't Have You
@@ -99,6 +102,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2019-10-19'
+release_year: 2019
+runtime: 190800
 ---
 I can't write one song that's not about you
 Can't drink without thinking about you

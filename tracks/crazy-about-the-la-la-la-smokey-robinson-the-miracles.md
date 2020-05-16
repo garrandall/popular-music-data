@@ -1,9 +1,12 @@
 ---
+album: One Dozen Roses
 artists:
 - Smokey Robinson
 - The Miracles
+external_ids:
+  spotify: spotify:track:7mTw5RU1OWIZid5gcfAXi0
 features: []
-genres: []
+first_released_as_single: false
 key: crazy-about-the-la-la-la-smokey-robinson-the-miracles
 lyrics_url: https://genius.com/Smokey-robinson-and-the-miracles-crazy-about-the-la-la-la-lyrics
 name: Crazy About The La La La
@@ -36,6 +39,8 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1971-08-14'
+release_year: 1971
+runtime: 179506
 ---
 I like it, I like it
 To each his own

@@ -1,8 +1,11 @@
 ---
+album: How You Remind Me - The 00's
 artists:
 - matchbox twenty
+external_ids:
+  spotify: spotify:track:0gbLfFlEyVHiKzlZIb0gce
 features: []
-genres: []
+first_released_as_single: false
 key: how-far-we-ve-come-matchbox-twenty
 lyrics_url: https://genius.com/Matchbox-twenty-how-far-weve-come-lyrics
 name: How Far We've Come
@@ -95,6 +98,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2008-02-09'
+release_year: 2007
+runtime: 212253
 ---
 Hello, hello, hello
 

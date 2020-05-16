@@ -1,8 +1,11 @@
 ---
+album: The Man
 artists:
 - Lorne Greene
+external_ids:
+  spotify: spotify:track:7k9VJph3fEtxXr9wHoNSNV
 features: []
-genres: []
+first_released_as_single: false
 key: the-man-lorne-greene
 name: The Man
 rankings:
@@ -18,5 +21,7 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1965-02-13'
+release_year: 1965
+runtime: 188840
 ---
 

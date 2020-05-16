@@ -1,8 +1,11 @@
 ---
+album: Recorded Live On Stage
 artists:
 - The Miracles
+external_ids:
+  spotify: spotify:track:7geenJeJLDXH3yAo3hpD1U
 features: []
-genres: []
+first_released_as_single: false
 key: mighty-good-lovin--the-miracles
 lyrics_url: https://www.musixmatch.com/lyrics/The-Miracles/Mighty-Good-Lovin
 name: Mighty Good Lovin'
@@ -31,6 +34,8 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '1961-08-14'
+release_year: 1961
+runtime: 157613
 ---
 A mighty good loving baby
 Is gonna change the way you act

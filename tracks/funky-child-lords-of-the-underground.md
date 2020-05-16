@@ -1,8 +1,11 @@
 ---
+album: Here Come The Lords
 artists:
 - Lords Of The Underground
+external_ids:
+  spotify: spotify:track:3UhwS81S9L7i2byZCrhSAv
 features: []
-genres: []
+first_released_as_single: false
 key: funky-child-lords-of-the-underground
 lyrics_url: https://genius.com/Lords-of-the-underground-funky-child-lyrics
 name: Funky Child
@@ -51,6 +54,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1993-06-05'
+release_year: 1993
+runtime: 271066
 ---
 The year is 1971
 Now comes the first of the children of LOTUG

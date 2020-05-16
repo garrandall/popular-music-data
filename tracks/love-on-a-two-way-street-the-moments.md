@@ -1,8 +1,11 @@
 ---
+album: A Moment With The Moments
 artists:
 - The Moments
+external_ids:
+  spotify: spotify:track:0jiRuwY4M0akGkEYbRiI6U
 features: []
-genres: []
+first_released_as_single: false
 key: love-on-a-two-way-street-the-moments
 lyrics_url: https://genius.com/The-moments-love-on-a-two-way-street-lyrics
 name: Love On A Two-Way Street
@@ -67,6 +70,8 @@ rankings:
   rank: 23
   ranking_list: Billboard Hot 100
   start_date: '1970-07-18'
+release_year: 1970
+runtime: 228066
 ---
 I found love on a two way street and lost it on a lonely highway
 Love on a two way street and lost it on a lonely highway

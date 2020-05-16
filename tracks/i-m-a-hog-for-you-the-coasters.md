@@ -1,8 +1,11 @@
 ---
+album: 'Atlantic Top 60: Doo Wop, Rock And Bobby Socks'
 artists:
 - The Coasters
+external_ids:
+  spotify: spotify:track:4D5TBs8t2uD9pE6lggbKjW
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-a-hog-for-you-the-coasters
 lyrics_url: https://genius.com/The-coasters-im-a-hog-for-you-lyrics
 name: I'm A Hog For You
@@ -39,6 +42,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1959-10-26'
+release_year: 1959
+runtime: 118320
 ---
 I'm a hog for you baby, can't get enough of your love
 When I go to sleep at night that's what I'm dreaming of

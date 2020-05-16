@@ -1,8 +1,11 @@
 ---
+album: The Complete Season 8 Collection (The Voice Performance)
 artists:
 - Sawyer Fredericks
+external_ids:
+  spotify: spotify:track:2pTnrrRF6creKP8lVDpgqw
 features: []
-genres: []
+first_released_as_single: false
 key: please-sawyer-fredericks
 lyrics_url: https://www.azlyrics.com/lyrics/sawyerfredericks/please.html
 name: Please
@@ -11,8 +14,9 @@ rankings:
   rank: 37
   ranking_list: Billboard Hot 100
   start_date: '2015-06-06'
+release_year: 2015
+runtime: 230413
 ---
-
 She's calling me, with a gentle touch
 A love so real, it was far too much
 For a boy like me, a worried mind
@@ -52,6 +56,3 @@ Baby I can get down onto my knees
 I can say please
 Baby I can say please
 I can say please
-
-
-

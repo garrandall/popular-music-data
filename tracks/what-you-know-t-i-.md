@@ -1,8 +1,11 @@
 ---
+album: King
 artists:
 - T.I.
+external_ids:
+  spotify: spotify:track:5ol6DyjD1KgDvQyCWvHXg1
 features: []
-genres: []
+first_released_as_single: false
 key: what-you-know-t-i-
 lyrics_url: https://genius.com/Ti-what-you-know-lyrics
 name: What You Know
@@ -87,6 +90,8 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '2006-07-29'
+release_year: 2006
+runtime: 273280
 ---
 Ayy, ayy, ayy, ayy, ayy
 What you know about that?

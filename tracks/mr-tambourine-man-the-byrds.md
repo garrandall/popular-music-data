@@ -1,8 +1,11 @@
 ---
+album: Mr. Tambourine Man
 artists:
 - The Byrds
+external_ids:
+  spotify: spotify:track:1eodgaW5oOcetVV3CrzwEs
 features: []
-genres: []
+first_released_as_single: false
 key: mr-tambourine-man-the-byrds
 lyrics_url: https://www.azlyrics.com/lyrics/byrds/mrtambourineman.html
 name: Mr Tambourine Man
@@ -59,8 +62,9 @@ rankings:
   rank: 38
   ranking_list: Billboard Hot 100
   start_date: '1965-08-07'
+release_year: 1965
+runtime: 149893
 ---
-
 Hey Mister Tambourine Man, play a song for me
 I'm not sleepy and there ain't no place I'm goin' to
 Hey Mister Tambourine Man, play a song for me
@@ -80,6 +84,3 @@ Hey Mister Tambourine Man, play a song for me
 I'm not sleepy and there ain't no place I'm goin' to
 Hey Mister Tambourine Man, play a song for me
 In the jingle jangle morning, I'll come followin' you
-
-
-

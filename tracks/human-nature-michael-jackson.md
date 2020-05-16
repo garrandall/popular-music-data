@@ -1,8 +1,11 @@
 ---
+album: Thriller 25 Super Deluxe Edition
 artists:
 - Michael Jackson
+external_ids:
+  spotify: spotify:track:35lAjvsvS9k9HHuP1fjDT8
 features: []
-genres: []
+first_released_as_single: false
 key: human-nature-michael-jackson
 lyrics_url: https://www.azlyrics.com/lyrics/michaeljackson/humannature.html
 name: Human Nature
@@ -63,8 +66,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1983-10-22'
+release_year: 1982
+runtime: 245560
 ---
-
 Looking out
 Across the night-time
 The city winks a sleepless eye
@@ -140,6 +144,3 @@ I like livin' this way
 
 The way
 The way
-
-
-

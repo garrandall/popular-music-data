@@ -1,8 +1,11 @@
 ---
+album: Straight Outta Lynwood
 artists:
 - '"Weird Al" Yankovic'
+external_ids:
+  spotify: spotify:track:60R2v9lheAu3lwZwAFxMZK
 features: []
-genres: []
+first_released_as_single: false
 key: white---nerdy--weird-al--yankovic
 lyrics_url: https://www.azlyrics.com/lyrics/weirdalyankovic/whitenerdy.html
 name: White & Nerdy
@@ -87,8 +90,9 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '2007-02-24'
+release_year: 2006
+runtime: 170640
 ---
-
 They see me mowin'
 My front lawn
 I know they're all thinking
@@ -192,6 +196,3 @@ Think I'm just too white n' nerdy
 Think I'm just too white n' nerdy
 I'm just too white n' nerdy
 Look at me I'm white n' nerdy!
-
-
-

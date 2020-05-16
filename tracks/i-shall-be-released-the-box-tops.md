@@ -1,8 +1,11 @@
 ---
+album: Dimensions
 artists:
 - The Box Tops
+external_ids:
+  spotify: spotify:track:2KbvldtpfvwCWq9WLHo3sN
 features: []
-genres: []
+first_released_as_single: false
 key: i-shall-be-released-the-box-tops
 lyrics_url: https://www.azlyrics.com/lyrics/boxtops/ishallbereleased.html
 name: I Shall Be Released
@@ -27,8 +30,9 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1969-05-24'
+release_year: 1969
+runtime: 167066
 ---
-
 They say everything can be replaced
 This every distance is not near
 So I remember every face
@@ -66,6 +70,3 @@ I shall be released
 
 Any day now, any day now
 I shall be released
-
-
-

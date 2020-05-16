@@ -1,8 +1,11 @@
 ---
+album: The Marvelettes Recorded Live On Stage
 artists:
 - The Marvelettes
+external_ids:
+  spotify: spotify:track:1efzXSev6rRXfu0Tvemdwg
 features: []
-genres: []
+first_released_as_single: false
 key: locking-up-my-heart-the-marvelettes
 lyrics_url: https://www.azlyrics.com/lyrics/marvelettes/lockingupmyheart.html
 name: Locking Up My Heart
@@ -43,8 +46,9 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '1963-05-18'
+release_year: 1963
+runtime: 160546
 ---
-
 I'm puttin' up my guard
 I'm lockin' up my heart
 Tellin' Cupid to pass by me
@@ -75,6 +79,3 @@ I'm lockin' up (lockin' up my heart)
 I'm lockin' up (lockin' up my heart)
 
 Yeah yeah yeah (lockin' up my heart)
-
-
-

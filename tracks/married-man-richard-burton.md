@@ -1,8 +1,11 @@
 ---
+album: Baker Street
 artists:
 - Richard Burton
+external_ids:
+  spotify: spotify:track:2iw33rWGH2cjSFTkFJRoUf
 features: []
-genres: []
+first_released_as_single: false
 key: married-man-richard-burton
 name: Married Man
 rankings:
@@ -26,5 +29,7 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '1965-02-27'
+release_year: 1965
+runtime: 149280
 ---
 

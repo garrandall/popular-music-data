@@ -1,8 +1,11 @@
 ---
+album: Just A Boy
 artists:
 - Leo Sayer
+external_ids:
+  spotify: spotify:track:0c2mka6WpBC5WTC5lBroMm
 features: []
-genres: []
+first_released_as_single: false
 key: one-man-band-leo-sayer
 lyrics_url: https://www.azlyrics.com/lyrics/leosayer/onemanband.html
 name: One Man Band
@@ -11,8 +14,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1975-06-28'
+release_year: 1974
+runtime: 214920
 ---
-
 Everybody knows down Ladbroke Grove
 You have to leap across the street
 You can lose your life under a taxi cab
@@ -51,6 +55,3 @@ I'm a one man band
 Nobody cares nor understands
 Is there anybody out there wanna lend a hand
 To my one man band
-
-
-

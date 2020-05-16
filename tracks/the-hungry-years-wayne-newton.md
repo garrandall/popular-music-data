@@ -1,8 +1,11 @@
 ---
+album: The Hungry Years - Wayne Newton
 artists:
 - Wayne Newton
+external_ids:
+  spotify: spotify:track:4kqOuBMioKeLNLkPpmxduf
 features: []
-genres: []
+first_released_as_single: false
 key: the-hungry-years-wayne-newton
 lyrics_url: https://genius.com/Wayne-newton-the-hungry-years-lyrics
 name: The Hungry Years
@@ -23,6 +26,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1976-06-19'
+release_year: 1976
+runtime: 229493
 ---
 Girl we made it to the top
 We went so high we couldn't stop

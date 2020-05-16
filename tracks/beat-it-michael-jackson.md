@@ -1,8 +1,11 @@
 ---
+album: Thriller 25 Super Deluxe Edition
 artists:
 - Michael Jackson
+external_ids:
+  spotify: spotify:track:1OOtq8tRnDM8kG2gqUPjAj
 features: []
-genres: []
+first_released_as_single: false
 key: beat-it-michael-jackson
 lyrics_url: https://genius.com/Michael-jackson-beat-it-lyrics
 name: Beat It
@@ -107,6 +110,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1983-08-13'
+release_year: 1982
+runtime: 258040
 ---
 They told him, "Don't you ever come around here
 Don't wanna see your face, you better disappear"

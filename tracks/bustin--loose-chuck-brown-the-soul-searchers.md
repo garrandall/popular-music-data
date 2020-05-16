@@ -1,9 +1,12 @@
 ---
+album: Bustin' Loose
 artists:
 - Chuck Brown
 - The Soul Searchers
+external_ids:
+  spotify: spotify:track:3SJkwOKNpMz1z9nEICH6xa
 features: []
-genres: []
+first_released_as_single: false
 key: bustin--loose-chuck-brown-the-soul-searchers
 lyrics_url: https://genius.com/Chuck-brown-and-the-soul-searchers-bustin-loose-lyrics
 name: Bustin' Loose
@@ -56,6 +59,8 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1979-04-21'
+release_year: 1979
+runtime: 462466
 ---
 Keep what you got
 Until you get what you need y'all

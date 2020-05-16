@@ -1,8 +1,11 @@
 ---
+album: March
 artists:
 - Michael Penn
+external_ids:
+  spotify: spotify:track:0hiMfefSLhzCs2tujQG28n
 features: []
-genres: []
+first_released_as_single: false
 key: this---that-michael-penn
 lyrics_url: https://genius.com/Michael-penn-this-and-that-lyrics
 name: This & That
@@ -39,6 +42,8 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1990-06-16'
+release_year: 1989
+runtime: 211400
 ---
 Well you cut me to the quick
 With some kind of abandon

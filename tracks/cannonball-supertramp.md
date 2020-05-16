@@ -1,8 +1,11 @@
 ---
+album: Brother Where You Bound
 artists:
 - Supertramp
+external_ids:
+  spotify: spotify:track:7AW4T7G3e8VsZ8D7jV1hMr
 features: []
-genres: []
+first_released_as_single: false
 key: cannonball-supertramp
 lyrics_url: https://www.azlyrics.com/lyrics/supertramp/cannonball.html
 name: Cannonball
@@ -55,8 +58,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1985-08-10'
+release_year: 1985
+runtime: 458083
 ---
-
 You're tellin' lies, so don't you criticize
 Yeah I got used, all messed up and abused
 You let me down, with all your runnin' round
@@ -84,6 +88,3 @@ I'm washing my hands of you
 How could you be so untrue
 You know I can't stand no more
 You know I can't stand no more
-
-
-

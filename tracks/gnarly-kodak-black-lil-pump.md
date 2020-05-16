@@ -1,9 +1,12 @@
 ---
+album: Dying to Live
 artists:
 - Kodak Black
+external_ids:
+  spotify: spotify:track:3naVBMNXUlnI4cKTksaRPr
 features:
 - Lil Pump
-genres: []
+first_released_as_single: false
 key: gnarly-kodak-black-lil-pump
 lyrics_url: https://www.azlyrics.com/lyrics/kodakblack/gnarly.html
 name: Gnarly
@@ -12,9 +15,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2018-12-29'
+release_year: 2018
+runtime: 186402
 ---
-
-
 I just took Cialis, but she on a molly
 Let's get gnarly
 I get out my body
@@ -77,6 +80,3 @@ One, two, three, let's get gnarly (Yeah)
 One, two, three, let's get gnarly (Yeah)
 One, two, three, let's get gnarly (Yeah)
 One, two, three, let's get gnarly
-
-
-

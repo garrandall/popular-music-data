@@ -1,8 +1,11 @@
 ---
+album: Daytime Friends
 artists:
 - Kenny Rogers
+external_ids:
+  spotify: spotify:track:1Czs2PIz1ZR1zeNrO22xvl
 features: []
-genres: []
+first_released_as_single: false
 key: daytime-friends-kenny-rogers
 lyrics_url: https://www.azlyrics.com/lyrics/kennyrogers/daytimefriends.html
 name: Daytime Friends
@@ -55,8 +58,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1977-10-22'
+release_year: 1977
+runtime: 194240
 ---
-
 And he'll tell her he's working late again
 But she knows too well there's something going on
 She's been neglected and she needs a friend
@@ -83,6 +87,3 @@ And she wonders why some men never find
 That a woman needs a lover and a friend
 
 Daytime friends and nighttime lovers
-
-
-

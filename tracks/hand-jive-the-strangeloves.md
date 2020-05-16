@@ -1,8 +1,11 @@
 ---
+album: 'I Want Candy: The Best Of The Strangeloves'
 artists:
 - The Strangeloves
+external_ids:
+  spotify: spotify:track:59HTJznkQkbBnfpe9KhIRJ
 features: []
-genres: []
+first_released_as_single: false
 key: hand-jive-the-strangeloves
 lyrics_url: https://www.musixmatch.com/lyrics/The-Strangeloves/Hand-Jive
 name: Hand Jive
@@ -11,6 +14,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1966-06-18'
+release_year: 1965
+runtime: 164773
 ---
 Hey
 I know a cat named Way-out Willie

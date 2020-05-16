@@ -1,8 +1,11 @@
 ---
+album: So Where Are You
 artists:
 - Loose Ends
+external_ids:
+  spotify: spotify:track:4p6oBRvpqyngp4qstr5GBe
 features: []
-genres: []
+first_released_as_single: false
 key: hangin--on-a-string-loose-ends
 lyrics_url: https://genius.com/Loose-ends-hangin-on-a-string-contemplating-lyrics
 name: Hangin' On A String
@@ -47,6 +50,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1985-09-21'
+release_year: 1985
+runtime: 361893
 ---
 I've waited, oh, so long
 For you to come to me

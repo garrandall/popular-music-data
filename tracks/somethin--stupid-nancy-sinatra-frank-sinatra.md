@@ -1,9 +1,12 @@
 ---
+album: Sugar
 artists:
 - Nancy Sinatra
 - Frank Sinatra
+external_ids:
+  spotify: spotify:track:2j1IE2ToUAtoRJ3ApeaZyU
 features: []
-genres: []
+first_released_as_single: false
 key: somethin--stupid-nancy-sinatra-frank-sinatra
 lyrics_url: https://www.musixmatch.com/lyrics/Nancy-Sinatra-Frank-Sinatra/Somethin-Stupid
 name: Somethin' Stupid
@@ -60,6 +63,8 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1967-06-10'
+release_year: 1967
+runtime: 160130
 ---
 I know I stand in line until you think
 You have the time to spend an evening with me

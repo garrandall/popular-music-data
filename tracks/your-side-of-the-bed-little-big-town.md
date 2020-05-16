@@ -1,8 +1,11 @@
 ---
+album: Tornado
 artists:
 - Little Big Town
+external_ids:
+  spotify: spotify:track:7LwJG5mCWzQAz1tZr2FZ4D
 features: []
-genres: []
+first_released_as_single: false
 key: your-side-of-the-bed-little-big-town
 lyrics_url: https://genius.com/Little-big-town-your-side-of-the-bed-lyrics
 name: Your Side Of The Bed
@@ -11,6 +14,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2013-08-31'
+release_year: 2013
+runtime: 221680
 ---
 On your side of the bed, there's a picture of our wedding day
 A clock that don't work and the bible that your daddy gave

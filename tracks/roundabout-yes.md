@@ -1,8 +1,11 @@
 ---
+album: Fragile
 artists:
 - 'Yes'
+external_ids:
+  spotify: spotify:track:0YveezON7jpiaHA8fnUHxN
 features: []
-genres: []
+first_released_as_single: false
 key: roundabout-yes
 lyrics_url: https://genius.com/Yes-roundabout-lyrics
 name: Roundabout
@@ -59,6 +62,8 @@ rankings:
   rank: 32
   ranking_list: Billboard Hot 100
   start_date: '1972-05-06'
+release_year: 1971
+runtime: 510573
 ---
 I'll be the roundabout
 The words will make you out 'n' out

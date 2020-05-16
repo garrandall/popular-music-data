@@ -1,8 +1,11 @@
 ---
+album: Gold Plated
 artists:
 - Climax Blues Band
+external_ids:
+  spotify: spotify:track:7GSCnEFxiD6Im98CbfySDw
 features: []
-genres: []
+first_released_as_single: false
 key: couldn-t-get-it-right-climax-blues-band
 lyrics_url: https://genius.com/Climax-blues-band-couldnt-get-it-right-lyrics
 name: Couldn't Get It Right
@@ -95,6 +98,8 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1977-07-16'
+release_year: 1976
+runtime: 198946
 ---
 Time was drifting
 This rocker got to roll

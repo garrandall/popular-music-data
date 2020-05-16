@@ -1,8 +1,11 @@
 ---
+album: Life At Best
 artists:
 - Eli Young Band
+external_ids:
+  spotify: spotify:track:0Nu9WA8kEbBWEsay2s8Q0U
 features: []
-genres: []
+first_released_as_single: false
 key: even-if-it-breaks-your-heart-eli-young-band
 lyrics_url: https://www.azlyrics.com/lyrics/eliyoungband/evenifitbreaksyourheart.html
 name: Even If It Breaks Your Heart
@@ -87,8 +90,9 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '2012-08-11'
+release_year: 2011
+runtime: 220520
 ---
-
 Way back on the radio dial,
 The fire got lit inside a bright-eyed child.
 Every note just wrapped around his soul,
@@ -125,6 +129,3 @@ Keep on dreamin', even if it breaks your heart.
 Keep on dreamin' 
 
 Don't let it break your heart.
-
-
-

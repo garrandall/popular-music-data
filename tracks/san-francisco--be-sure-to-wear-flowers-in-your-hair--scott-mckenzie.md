@@ -1,8 +1,11 @@
 ---
+album: The Voice of Scott McKenzie
 artists:
 - Scott McKenzie
+external_ids:
+  spotify: spotify:track:66ujRcQB3xjilVohGyvTKM
 features: []
-genres: []
+first_released_as_single: false
 key: san-francisco--be-sure-to-wear-flowers-in-your-hair--scott-mckenzie
 lyrics_url: https://www.azlyrics.com/lyrics/scottmckenzie/sanfranciscobesuretowearflowersinyourhair.html
 name: San Francisco (Be Sure To Wear Flowers In Your Hair)
@@ -55,8 +58,9 @@ rankings:
   rank: 28
   ranking_list: Billboard Hot 100
   start_date: '1967-08-12'
+release_year: 1959
+runtime: 177333
 ---
-
 If you're going to San Francisco
 Be sure to wear some flowers in your hair
 If you're going to San Francisco
@@ -83,6 +87,3 @@ Summertime will be a love-in there
 
 If you come to San Francisco
 Summertime will be a love-in there
-
-
-

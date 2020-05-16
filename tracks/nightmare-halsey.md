@@ -1,8 +1,11 @@
 ---
+album: Nightmare
 artists:
 - Halsey
+external_ids:
+  spotify: spotify:track:340UVheS8z3ncW9TTUhAbc
 features: []
-genres: []
+first_released_as_single: true
 key: nightmare-halsey
 lyrics_url: https://www.azlyrics.com/lyrics/halsey/nightmare.html
 name: Nightmare
@@ -51,8 +54,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2019-08-10'
+release_year: 2019
+runtime: 231998
 ---
-
 Now I lay me down to sleep
 I pray the Lord my soul to keep
 If I shall die before I wake
@@ -127,6 +131,3 @@ And I realize
 
 I'm no sweet dream but I'm a hell of a night
 That I'm no sweet dream but I'm a hell of a night
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Black Rain
 artists:
 - Ozzy Osbourne
+external_ids:
+  spotify: spotify:track:5axOkQnmQmwtjr4bv1Xt7i
 features: []
-genres: []
+first_released_as_single: false
 key: i-don-t-wanna-stop-ozzy-osbourne
 lyrics_url: https://genius.com/Ozzy-osbourne-i-dont-wanna-stop-lyrics
 name: I Don't Wanna Stop
@@ -35,6 +38,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2007-07-07'
+release_year: 2007
+runtime: 239826
 ---
 I don't know what they're talking about
 I'm making my own decisions

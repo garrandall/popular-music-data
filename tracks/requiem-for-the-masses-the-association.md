@@ -1,8 +1,11 @@
 ---
+album: Insight Out
 artists:
 - The Association
+external_ids:
+  spotify: spotify:track:79o4VAxyW1IgpjWEsWtXBS
 features: []
-genres: []
+first_released_as_single: false
 key: requiem-for-the-masses-the-association
 lyrics_url: https://www.azlyrics.com/lyrics/association/requiemforthemasses.html
 name: Requiem For The Masses
@@ -15,8 +18,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1967-09-09'
+release_year: 1967
+runtime: 246720
 ---
-
 Requiem Aeternum Requiem Aeternum
 
 Momma momma forget your pies
@@ -50,6 +54,3 @@ But was on his lips as they buried him
 Rex Tremendae Majestatis
 
 Requiem aeternum Requiem aeternum
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Music Box (The Monkees)
 artists:
 - The Monkees
+external_ids:
+  spotify: spotify:track:3l5i17aVFKVrivfSI00LgE
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-nice-to-be-with-you-the-monkees
 lyrics_url: https://genius.com/The-monkees-its-nice-to-be-with-you-lyrics
 name: It's Nice To Be With You
@@ -35,6 +38,8 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '1968-07-27'
+release_year: 1968
+runtime: 172880
 ---
 Hey!
 Look what you have done

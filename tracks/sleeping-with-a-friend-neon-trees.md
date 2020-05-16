@@ -1,8 +1,11 @@
 ---
+album: Pop Psychology
 artists:
 - Neon Trees
+external_ids:
+  spotify: spotify:track:0K1KOCeJBj3lpDYxEX9qP2
 features: []
-genres: []
+first_released_as_single: false
 key: sleeping-with-a-friend-neon-trees
 lyrics_url: https://genius.com/Neon-trees-sleeping-with-a-friend-lyrics
 name: Sleeping With A Friend
@@ -71,6 +74,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2014-06-28'
+release_year: 2014
+runtime: 228840
 ---
 All my friends, they’re different people
 Anxious like the ocean in a storm

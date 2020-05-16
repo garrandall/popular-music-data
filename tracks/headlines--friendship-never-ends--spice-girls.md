@@ -1,8 +1,11 @@
 ---
+album: Greatest Hits
 artists:
 - Spice Girls
+external_ids:
+  spotify: spotify:track:5S7a7KwUsmqPPAG0JPZkQN
 features: []
-genres: []
+first_released_as_single: false
 key: headlines--friendship-never-ends--spice-girls
 lyrics_url: https://www.azlyrics.com/lyrics/spicegirls/headlinesfriendshipneverends.html
 name: Headlines (Friendship Never Ends)
@@ -11,9 +14,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2007-11-24'
+release_year: 2007
+runtime: 210520
 ---
-
-
 The time is now or never
 To fit the missing piece
 To take this on together
@@ -86,6 +89,3 @@ Let's make the headlines
 
 'Cause I'm giving it all
 Yeah I'm giving it all to you
-
-
-

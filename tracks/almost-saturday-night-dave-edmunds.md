@@ -1,8 +1,11 @@
 ---
+album: Chronicles 1968-1984
 artists:
 - Dave Edmunds
+external_ids:
+  spotify: spotify:track:4JVObkT7cj858yJ9nHRR8Y
 features: []
-genres: []
+first_released_as_single: false
 key: almost-saturday-night-dave-edmunds
 lyrics_url: https://genius.com/Dave-edmunds-almost-saturday-night-lyrics
 name: Almost Saturday Night
@@ -39,6 +42,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1981-06-27'
+release_year: 1981
+runtime: 135173
 ---
 Outside my window
 I can hear the radio

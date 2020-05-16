@@ -1,8 +1,11 @@
 ---
+album: Repeat Offender
 artists:
 - Richard Marx
+external_ids:
+  spotify: spotify:track:7i3MW2pQNOvKIZbNIlCZLy
 features: []
-genres: []
+first_released_as_single: false
 key: children-of-the-night-richard-marx
 lyrics_url: https://www.azlyrics.com/lyrics/richardmarx/childrenofthenight.html
 name: Children Of The Night
@@ -67,8 +70,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1990-08-04'
+release_year: 1989
+runtime: 284733
 ---
-
 All that I know in my life,
 I have learned on the street
 No magic carpet, no genie, no shoes on my feet
@@ -107,6 +111,3 @@ We won't go down without a fight
 Our voice is strong, our future's bright
 And thanks to what we learned from you
 We've grown into the children of the night
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Pluto
 artists:
 - Future
+external_ids:
+  spotify: spotify:track:63aR9LheuQhQp5ib9jlvUW
 features: []
-genres: []
+first_released_as_single: true
 key: same-damn-time-future
 lyrics_url: https://www.musixmatch.com/lyrics/Future/Same-Damn-Time
 name: Same Damn Time
@@ -31,6 +34,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2012-06-23'
+release_year: 2012
+runtime: 30214
 ---
 I wear Gucci, I wear Bali at the same damn time
 On the phone, cooking dope, at the same damn time

@@ -1,8 +1,11 @@
 ---
+album: Live Like You Were Dying
 artists:
 - Tim McGraw
+external_ids:
+  spotify: spotify:track:251x4kMlZoNg2RQiwc7pNz
 features: []
-genres: []
+first_released_as_single: false
 key: back-when-tim-mcgraw
 lyrics_url: https://genius.com/Tim-mcgraw-back-when-lyrics
 name: Back When
@@ -83,6 +86,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2005-02-26'
+release_year: 2004
+runtime: 299173
 ---
 Don't you remember
 The fizz in a pepper

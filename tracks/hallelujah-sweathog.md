@@ -1,8 +1,11 @@
 ---
+album: Hallelujah
 artists:
 - Sweathog
+external_ids:
+  spotify: spotify:track:2ojRs1yl7vjE4LFDmQzl9l
 features: []
-genres: []
+first_released_as_single: false
 key: hallelujah-sweathog
 lyrics_url: https://genius.com/Sweathog-hallelujah-lyrics
 name: Hallelujah
@@ -47,6 +50,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1972-01-15'
+release_year: 1971
+runtime: 175013
 ---
 I used to look at life
 In a shade of gray

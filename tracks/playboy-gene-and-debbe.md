@@ -1,8 +1,11 @@
 ---
+album: Playboy
 artists:
 - Gene And Debbe
+external_ids:
+  spotify: spotify:track:1bGOcfS5FTFik5fTnWx6we
 features: []
-genres: []
+first_released_as_single: false
 key: playboy-gene-and-debbe
 lyrics_url: https://genius.com/Gene-and-debbe-playboy-lyrics
 name: Playboy
@@ -71,6 +74,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1968-06-01'
+release_year: 1968
+runtime: 175720
 ---
 Hey boy, to me you're just a playboy
 Never mean a word you say, boy

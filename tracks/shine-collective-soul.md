@@ -1,8 +1,11 @@
 ---
+album: Hints, Allegations & Things Left Unsaid
 artists:
 - Collective Soul
+external_ids:
+  spotify: spotify:track:6emdJW80SbDBMuHci8PJJn
 features: []
-genres: []
+first_released_as_single: false
 key: shine-collective-soul
 lyrics_url: https://www.azlyrics.com/lyrics/collectivesoul/shine.html
 name: Shine
@@ -123,8 +126,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1994-11-19'
+release_year: 1994
+runtime: 306040
 ---
-
 Give me a word,
 Give me a sign.
 Show me where to look,
@@ -184,6 +188,3 @@ Heaven's little light, shine on me
 
 (Shine) Shine on me
 (Shine) C'mon and shine
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Mathematics
 artists:
 - Melissa Manchester
+external_ids:
+  spotify: spotify:track:3pKGrhdczTPDqOGwOtCehA
 features: []
-genres: []
+first_released_as_single: false
 key: mathematics-melissa-manchester
 lyrics_url: https://www.azlyrics.com/lyrics/melissamanchester/mathematics.html
 name: Mathematics
@@ -27,8 +30,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1985-05-25'
+release_year: 1985
+runtime: 239373
 ---
-
 You ask me how I can be so sure
 My love for you will endure
 Right here and now
@@ -100,6 +104,3 @@ It's as simple as can be (it's mathematics)
 Like the sum of you and me (two times ecstatic)
 Just the right amounts
 And that's what counts
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: When Love Is New
 artists:
 - Billy Paul
+external_ids:
+  spotify: spotify:track:2nUdP86O3XTrrsz4KItvQV
 features: []
-genres: []
+first_released_as_single: false
 key: let-s-make-a-baby-billy-paul
 lyrics_url: https://www.azlyrics.com/lyrics/billypaul/letsmakeababy.html
 name: Let's Make A Baby
@@ -23,8 +26,9 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1976-05-01'
+release_year: 1975
+runtime: 430586
 ---
-
 Come on, come on, let's make a baby
 Oh, baby, come on, come on
 (Come on, come on)
@@ -163,6 +167,3 @@ Don't be shy, by my side
 We'll have the baby, that's all it takes
 
 By my side, don't be shy, we'll have the baby
-
-
-

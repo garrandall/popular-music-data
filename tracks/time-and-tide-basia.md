@@ -1,8 +1,11 @@
 ---
+album: Time And Tide
 artists:
 - Basia
+external_ids:
+  spotify: spotify:track:3imZNKKJ2hHzzsM6363hYq
 features: []
-genres: []
+first_released_as_single: false
 key: time-and-tide-basia
 lyrics_url: https://www.azlyrics.com/lyrics/basia/timeandtide.html
 name: Time And Tide
@@ -87,8 +90,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1988-12-03'
+release_year: 1987
+runtime: 243360
 ---
-
 It's hard for me to stop my heart
 Love never knows when the time is right
 I don't want to hurt anybody 
@@ -133,6 +137,3 @@ Gonna last forever!
 We've got time and baby there's no rush
 Gonna be a better day for us
 Hang on and I will wait for you...
-
-
-

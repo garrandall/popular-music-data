@@ -1,8 +1,11 @@
 ---
+album: Jason Aldean
 artists:
 - Jason Aldean
+external_ids:
+  spotify: spotify:track:0axUHkhMMY0YSC1jFBVWqv
 features: []
-genres: []
+first_released_as_single: false
 key: amarillo-sky-jason-aldean
 lyrics_url: https://www.azlyrics.com/lyrics/jasonaldean/amarillosky.html
 name: Amarillo Sky
@@ -87,8 +90,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '2007-03-10'
+release_year: 2005
+runtime: 202546
 ---
-
 He gets up before the dawn;
 Packs a lunch and a thermos full of coffee.
 It's another day in the dusty haze;
@@ -129,6 +133,3 @@ He says: "I never complain, I never ask: 'Why?'
 "Please don't let my dreams run dry,
 "Underneath, underneath this Amarillo Sky.
 "Underneath this Amarillo Sky."
-
-
-

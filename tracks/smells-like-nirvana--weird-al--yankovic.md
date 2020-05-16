@@ -1,8 +1,11 @@
 ---
+album: Off The Deep End
 artists:
 - '"Weird Al" Yankovic'
+external_ids:
+  spotify: spotify:track:3rREGSHjY1RmsTj81wL5X4
 features: []
-genres: []
+first_released_as_single: false
 key: smells-like-nirvana--weird-al--yankovic
 lyrics_url: https://www.azlyrics.com/lyrics/weirdalyankovic/smellslikenirvana.html
 name: Smells Like Nirvana
@@ -51,8 +54,9 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1992-07-04'
+release_year: 1992
+runtime: 225133
 ---
-
 What is this song all about?
 Can't figure any lyrics out
 How do the words to it go?
@@ -101,6 +105,3 @@ Ayonawa, odinawa
 Odinaya, yodinaya
 Yaddayadda, yaaahyaaah
 Ayaaaaaah!
-
-
-

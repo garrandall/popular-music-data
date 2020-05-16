@@ -1,8 +1,11 @@
 ---
+album: Heart On My Sleeve
 artists:
 - Mary Lambert
+external_ids:
+  spotify: spotify:track:35G110mYwH0XMuDyLAk56i
 features: []
-genres: []
+first_released_as_single: true
 key: secrets-mary-lambert
 lyrics_url: https://www.azlyrics.com/lyrics/marylambert/secrets.html
 name: Secrets
@@ -47,8 +50,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2014-11-22'
+release_year: 2014
+runtime: 247680
 ---
-
 OK. Game face. Here we go!
 
 I've got bi-polar disorder
@@ -112,6 +116,3 @@ So-o-o-o-o what
 So-o-o-o-o what
 So-o-o-o-o what
 So-o-o-o-o what
-
-
-

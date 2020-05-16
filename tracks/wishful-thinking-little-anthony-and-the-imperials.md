@@ -1,8 +1,11 @@
 ---
+album: Tears On My Pillow
 artists:
 - Little Anthony And The Imperials
+external_ids:
+  spotify: spotify:track:4zPqq76FbCHMocdIj0F7OQ
 features: []
-genres: []
+first_released_as_single: false
 key: wishful-thinking-little-anthony-and-the-imperials
 lyrics_url: https://genius.com/Little-anthony-and-the-imperials-wishful-thinking-lyrics
 name: Wishful Thinking
@@ -15,6 +18,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1959-03-30'
+release_year: 1959
+runtime: 161506
 ---
 (Wishful, wishful wishful, wishful)
 You don't believe in me

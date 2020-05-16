@@ -1,8 +1,11 @@
 ---
+album: Days Of Thunder (Music From The Motion Picture Soundtrack)
 artists:
 - Elton John
+external_ids:
+  spotify: spotify:track:7kHAZvaTbiGvg8xqlNflWt
 features: []
-genres: []
+first_released_as_single: false
 key: you-gotta-love-someone-elton-john
 lyrics_url: https://www.azlyrics.com/lyrics/eltonjohn/yougottalovesomeone.html
 name: You Gotta Love Someone
@@ -59,8 +62,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1991-02-16'
+release_year: 1990
+runtime: 300240
 ---
-
 You can win the fight, you can grab a piece of the sky
 You can break the rules but before you try
 You gotta love someone
@@ -93,6 +97,3 @@ You gotta love someone
 
 You gotta love someone
 You gotta love someone
-
-
-

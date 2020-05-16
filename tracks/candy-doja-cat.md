@@ -1,8 +1,11 @@
 ---
+album: Amala
 artists:
 - Doja Cat
+external_ids:
+  spotify: spotify:track:5GnhlCa3G85uNJHNlcjiGb
 features: []
-genres: []
+first_released_as_single: true
 key: candy-doja-cat
 lyrics_url: https://www.azlyrics.com/lyrics/dojacat/candy.html
 name: Candy
@@ -31,8 +34,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2020-01-11'
+release_year: 2018
+runtime: 190926
 ---
-
 I can name a couple ways, baby, this shit might go
 You just might forget that this was what you're getting high for
 And it might do the things to him, I mean the guy who
@@ -72,4 +76,3 @@ She's just like candy, she's so sweet
 But you know that it ain't real cherry, know that it ain't real cherry
 She's just like candy, she's so sweet
 But you know that it ain't real, know that it ain't real
-

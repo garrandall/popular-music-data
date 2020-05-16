@@ -1,8 +1,11 @@
 ---
+album: X
 artists:
 - INXS
+external_ids:
+  spotify: spotify:track:3DPyS3odFIWQ3E2IFqHEdG
 features: []
-genres: []
+first_released_as_single: false
 key: suicide-blonde-inxs
 lyrics_url: https://www.azlyrics.com/lyrics/inxs/suicideblonde.html
 name: Suicide Blonde
@@ -59,8 +62,9 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1990-12-01'
+release_year: 1990
+runtime: 232009
 ---
-
 Suicide blonde, suicide blonde
 Suicide blonde, suicide blonde
 Suicide blonde was the colour of her hair
@@ -104,4 +108,3 @@ You want to make her
 Suicide Blonde
 Love devastation
 Suicide Blonde
-

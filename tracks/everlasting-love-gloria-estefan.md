@@ -1,8 +1,11 @@
 ---
+album: Hold Me, Thrill Me, Kiss Me
 artists:
 - Gloria Estefan
+external_ids:
+  spotify: spotify:track:0DCxAJasKxjhODdqpF4s36
 features: []
-genres: []
+first_released_as_single: false
 key: everlasting-love-gloria-estefan
 lyrics_url: https://www.azlyrics.com/lyrics/gloriaestefan/everlastinglove.html
 name: Everlasting Love
@@ -87,8 +90,9 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1995-06-10'
+release_year: 1984
+runtime: 240720
 ---
-
 Hearts go astray
 Leaving hurt when they go.
 I went away
@@ -136,6 +140,3 @@ From the very start
 Open up your heart
 Be a lasting part of
 Everlasting love
-
-
-

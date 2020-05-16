@@ -1,8 +1,11 @@
 ---
+album: To Hell With The Devil
 artists:
 - Stryper
+external_ids:
+  spotify: spotify:track:66POKxMki5FryEYtHBZ5GZ
 features: []
-genres: []
+first_released_as_single: false
 key: honestly-stryper
 lyrics_url: https://www.azlyrics.com/lyrics/stryper/honestly.html
 name: Honestly
@@ -83,9 +86,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1988-03-12'
+release_year: 1986
+runtime: 247600
 ---
-
-
 Honestly, I believe in you
 Do you trust in me
 Patiently, I will stand by you
@@ -109,6 +112,3 @@ That I love you honestly
 I will never betray your trust in me
 And I love you can't you see
 That I can say I love you honestly
-
-
-

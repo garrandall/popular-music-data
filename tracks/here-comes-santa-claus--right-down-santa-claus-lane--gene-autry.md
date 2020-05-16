@@ -1,8 +1,11 @@
 ---
+album: Rudolph The Red Nosed Reindeer And Other Christmas Classics
 artists:
 - Gene Autry
+external_ids:
+  spotify: spotify:track:25leEEaz1gIpp7o21Fqyjo
 features: []
-genres: []
+first_released_as_single: false
 key: here-comes-santa-claus--right-down-santa-claus-lane--gene-autry
 lyrics_url: https://genius.com/Gene-autry-here-comes-santa-claus-lyrics
 name: Here Comes Santa Claus (Right Down Santa Claus Lane)
@@ -31,6 +34,8 @@ rankings:
   rank: 32
   ranking_list: Billboard Hot 100
   start_date: '2020-01-04'
+release_year: 1947
+runtime: 150266
 ---
 Here comes Santa Claus, here comes Santa Claus, right down Santa Claus Lane
 Vixen and Blitzen and all his reindeers pulling on the reins

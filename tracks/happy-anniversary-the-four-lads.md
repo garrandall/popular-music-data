@@ -1,8 +1,11 @@
 ---
+album: The Golden Quartet
 artists:
 - The Four Lads
+external_ids:
+  spotify: spotify:track:2dJA2yniq3RzyxtAFwXiJV
 features: []
-genres: []
+first_released_as_single: false
 key: happy-anniversary-the-four-lads
 lyrics_url: https://www.musixmatch.com/lyrics/The-Four-Lads/Happy-Anniversary
 name: Happy Anniversary
@@ -27,6 +30,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1959-12-07'
+release_year: 1959
+runtime: 175520
 ---
 Here's to you
 Here's to me

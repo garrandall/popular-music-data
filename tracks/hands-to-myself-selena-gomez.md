@@ -1,8 +1,11 @@
 ---
+album: Revival
 artists:
 - Selena Gomez
+external_ids:
+  spotify: spotify:track:1LoriJC05IrHIDwj3q0KC1
 features: []
-genres: []
+first_released_as_single: false
 key: hands-to-myself-selena-gomez
 lyrics_url: https://genius.com/Selena-gomez-hands-to-myself-lyrics
 name: Hands To Myself
@@ -87,6 +90,8 @@ rankings:
   rank: 35
   ranking_list: Billboard Hot 100
   start_date: '2016-05-07'
+release_year: 2015
+runtime: 200680
 ---
 Can't keep my hands to myself
 No matter how hard I'm trying to

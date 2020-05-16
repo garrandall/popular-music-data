@@ -1,8 +1,11 @@
 ---
+album: Paintings In My Mind
 artists:
 - Tommy Page
+external_ids:
+  spotify: spotify:track:7dtxgjo3IOPKgR7koxzjY8
 features: []
-genres: []
+first_released_as_single: false
 key: when-i-dream-of-you-tommy-page
 lyrics_url: https://www.azlyrics.com/lyrics/tommypage/whenidreamofyou.html
 name: When I Dream Of You
@@ -47,8 +50,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1990-07-14'
+release_year: 1990
+runtime: 247493
 ---
-
 Tears start falling when I dream of you
 Can't help myself, you're far away with someone else
 And I will never find another girl
@@ -90,6 +94,3 @@ Heaven, never seemed so close
 Tears start falling when I dream of you
 Can't help but miss, the love I knew
 When I dream, of you
-
-
-

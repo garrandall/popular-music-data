@@ -1,8 +1,11 @@
 ---
+album: The Joshua Tree (Super Deluxe)
 artists:
 - U2
+external_ids:
+  spotify: spotify:track:6ADSaE87h8Y3lccZlBJdXH
 features: []
-genres: []
+first_released_as_single: false
 key: with-or-without-you-u2
 lyrics_url: https://genius.com/U2-with-or-without-you-lyrics
 name: With or Without You
@@ -79,6 +82,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1987-07-18'
+release_year: 1987
+runtime: 295515
 ---
 See the stone set in your eyes
 See the thorn twist in your side

@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music presents The Warblers'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:4SdPtKBf7zrvxJugLAPLhE
 features: []
-genres: []
+first_released_as_single: false
 key: misery-glee-cast
 lyrics_url: https://www.azlyrics.com/lyrics/gleecast/misery.html
 name: Misery
@@ -11,8 +14,9 @@ rankings:
   rank: 52
   ranking_list: Billboard Hot 100
   start_date: '2011-04-02'
+release_year: 2011
+runtime: 188800
 ---
-
 Oh yeah
 Oh yeah
 So scared of breaking it that you won't let it bend
@@ -57,6 +61,3 @@ Why won't you answer me?
 The silence is slowly killing me
 Girl you really got me bad, you really got me bad
 I'm gonna get you back, gonna get you back
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: PG&E
 artists:
 - Pacific Gas And Electric
+external_ids:
+  spotify: spotify:track:6B3pKObl0W5VBOtNflUMWM
 features: []
-genres: []
+first_released_as_single: false
 key: thank-god-for-you-baby-pacific-gas-and-electric
 lyrics_url: https://genius.com/Pacific-gas-and-electric-thank-god-for-you-baby-lyrics
 name: Thank God For You Baby
@@ -15,6 +18,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1972-03-25'
+release_year: 1971
+runtime: 404280
 ---
 Thank god for you baby
 Thank god for you baby

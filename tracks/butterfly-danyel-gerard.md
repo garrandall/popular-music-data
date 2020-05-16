@@ -1,8 +1,11 @@
 ---
+album: 'Ein Hit des Jahrhunderts: Butterfly'
 artists:
 - Danyel Gerard
+external_ids:
+  spotify: spotify:track:2TaOD3Tv6rBYtfO5kgMIO9
 features: []
-genres: []
+first_released_as_single: false
 key: butterfly-danyel-gerard
 lyrics_url: https://genius.com/Danyel-gerard-butterfly-lyrics
 name: Butterfly
@@ -43,6 +46,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1972-08-05'
+release_year: 1972
+runtime: 205014
 ---
 Tu me dis loin des yeux loin du cœur
 Tu me dis qu'on oublie le meilleur

@@ -1,8 +1,11 @@
 ---
+album: Against The Wind
 artists:
 - Bob Seger
+external_ids:
+  spotify: spotify:track:1SWmFiFSIBoDbQJjNKC7SR
 features: []
-genres: []
+first_released_as_single: false
 key: against-the-wind-bob-seger
 lyrics_url: https://genius.com/Bob-seger-against-the-wind-lyrics
 name: Against The Wind
@@ -75,6 +78,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1980-08-23'
+release_year: 1980
+runtime: 333720
 ---
 Seems like yesterday
 But it was long ago

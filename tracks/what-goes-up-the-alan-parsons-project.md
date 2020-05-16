@@ -1,8 +1,11 @@
 ---
+album: Pyramid
 artists:
 - The Alan Parsons Project
+external_ids:
+  spotify: spotify:track:5U7PAv805IPNnjoiU7ofVN
 features: []
-genres: []
+first_released_as_single: false
 key: what-goes-up-the-alan-parsons-project
 lyrics_url: https://genius.com/The-alan-parsons-project-what-goes-up-lyrics
 name: What Goes Up
@@ -19,6 +22,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1978-10-07'
+release_year: 1977
+runtime: 210906
 ---
 What goes up, must come down
 What must rise, must fall

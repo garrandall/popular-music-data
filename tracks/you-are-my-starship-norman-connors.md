@@ -1,8 +1,11 @@
 ---
+album: You Are My Starship
 artists:
 - Norman Connors
+external_ids:
+  spotify: spotify:track:2zb9ytpjyulpBqdu22wcD7
 features: []
-genres: []
+first_released_as_single: false
 key: you-are-my-starship-norman-connors
 lyrics_url: https://genius.com/Norman-connors-you-are-my-starship-lyrics
 name: You Are My Starship
@@ -71,6 +74,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1976-12-11'
+release_year: 1976
+runtime: 271000
 ---
 You are my light, I have to go on
 Have me anyway you want to

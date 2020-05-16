@@ -1,9 +1,12 @@
 ---
+album: 'Furious 7: Original Motion Picture Soundtrack'
 artists:
 - Wiz Khalifa
 - Iggy Azalea
+external_ids:
+  spotify: spotify:track:2QJnTfMpNG05KFf2E3gVIJ
 features: []
-genres: []
+first_released_as_single: false
 key: go-hard-or-go-home-wiz-khalifa-iggy-azalea
 lyrics_url: https://genius.com/Wiz-khalifa-and-iggy-azalea-go-hard-or-go-home-lyrics
 name: Go Hard Or Go Home
@@ -16,6 +19,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2015-04-25'
+release_year: 2015
+runtime: 232772
 ---
 I feel like the sky is falling down
 Ain't nobody here to play around

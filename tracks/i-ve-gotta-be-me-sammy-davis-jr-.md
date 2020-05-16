@@ -1,8 +1,11 @@
 ---
+album: I've Gotta Be Me
 artists:
 - Sammy Davis Jr.
+external_ids:
+  spotify: spotify:track:6wY1llDNWt05uMg5ooZKMt
 features: []
-genres: []
+first_released_as_single: false
 key: i-ve-gotta-be-me-sammy-davis-jr-
 lyrics_url: https://genius.com/Sammy-davis-jr-ive-gotta-be-me-lyrics
 name: I've Gotta Be Me
@@ -71,6 +74,8 @@ rankings:
   rank: 30
   ranking_list: Billboard Hot 100
   start_date: '1969-03-29'
+release_year: 1968
+runtime: 176826
 ---
 Whether I'm right or whether I'm wrong
 Whether I find a place in this world or never belong

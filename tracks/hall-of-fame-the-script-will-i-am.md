@@ -1,9 +1,12 @@
 ---
+album: '#3'
 artists:
 - The Script
+external_ids:
+  spotify: spotify:track:1X1DWw2pcNZ8zSub3uhlNz
 features:
 - will.i.am
-genres: []
+first_released_as_single: false
 key: hall-of-fame-the-script-will-i-am
 lyrics_url: https://www.azlyrics.com/lyrics/script/halloffame.html
 name: Hall Of Fame
@@ -108,8 +111,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2013-03-30'
+release_year: 2012
+runtime: 202533
 ---
-
 Yeah, you can be the greatest
 You can be the best
 You can be the King Kong banging on your chest
@@ -212,6 +216,3 @@ Don't wait for luck
 Dedicate yourself and you gonna find yourself
 
 Standing in the hall of fame
-
-
-

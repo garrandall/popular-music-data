@@ -1,8 +1,11 @@
 ---
+album: One Night Only
 artists:
 - Bee Gees
+external_ids:
+  spotify: spotify:track:2xSXw1EqGSAKc1e4TPaQvV
 features: []
-genres: []
+first_released_as_single: false
 key: stayin--alive-bee-gees
 lyrics_url: https://www.azlyrics.com/lyrics/beegees/stayinalive.html
 name: Stayin' Alive
@@ -115,8 +118,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1978-06-10'
+release_year: 1977
+runtime: 284066
 ---
-
 Well, you can tell by the way I use my walk,
 I'm a woman's man: no time to talk.
 Music loud and women warm,
@@ -198,6 +202,3 @@ Life goin' nowhere. Somebody help me.
 Somebody help me, yeah.
 Life goin' nowhere. Somebody help me, yeah.
 I'm stayin' alive.
-
-
-

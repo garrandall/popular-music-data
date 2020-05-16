@@ -1,8 +1,11 @@
 ---
+album: 'The Vee-Jay Story: Celebrating 40 Years Of Classic Hits'
 artists:
 - Betty Everett
+external_ids:
+  spotify: spotify:track:78VKSSbws2kMjwL1tNl05n
 features: []
-genres: []
+first_released_as_single: false
 key: i-can-t-hear-you-betty-everett
 lyrics_url: https://www.musixmatch.com/lyrics/Betty-Everett/I-Can-t-Hear-You
 name: I Can't Hear You
@@ -27,6 +30,8 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '1964-07-25'
+release_year: 1964
+runtime: 156860
 ---
 Here you are again
 Telling me you're sorry, baby

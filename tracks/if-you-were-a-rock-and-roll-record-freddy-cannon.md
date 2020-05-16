@@ -1,8 +1,11 @@
 ---
+album: Boom Boom Rock 'N' Roll
 artists:
 - Freddy Cannon
+external_ids:
+  spotify: spotify:track:5Z07bJAwIfoNc9R140nKjQ
 features: []
-genres: []
+first_released_as_single: false
 key: if-you-were-a-rock-and-roll-record-freddy-cannon
 lyrics_url: https://genius.com/Freddy-cannon-if-you-were-a-rock-and-roll-record-lyrics
 name: If You Were A Rock And Roll Record
@@ -27,6 +30,8 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1962-12-08'
+release_year: 1962
+runtime: 116173
 ---
 If you were a rock 'n' roll record
 You would be a hit, I know

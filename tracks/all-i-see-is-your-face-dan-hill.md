@@ -1,8 +1,11 @@
 ---
+album: Frozen in the Night
 artists:
 - Dan Hill
+external_ids:
+  spotify: spotify:track:7hi9dxOuPmHnChT6SFjNWa
 features: []
-genres: []
+first_released_as_single: false
 key: all-i-see-is-your-face-dan-hill
 lyrics_url: https://www.azlyrics.com/lyrics/danhill/alliseeisyourface.html
 name: All I See Is Your Face
@@ -43,8 +46,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1978-10-07'
+release_year: 1978
+runtime: 212120
 ---
-
 Everytime the phone rings I pray it might be you
 That you thought out all the answers
 Wanna get back together again
@@ -80,6 +84,3 @@ I don't see any stars tonight
 Just the darkness of the city lights
 I close my eyes once more and try to escape
 And all I can see is your face
-
-
-

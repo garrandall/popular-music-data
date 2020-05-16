@@ -1,8 +1,11 @@
 ---
+album: Aqualung
 artists:
 - Jethro Tull
+external_ids:
+  spotify: spotify:track:0MYNeFsKpzBHwrJGfWZysV
 features: []
-genres: []
+first_released_as_single: false
 key: locomotive-breath-jethro-tull
 lyrics_url: https://genius.com/Jethro-tull-locomotive-breath-lyrics
 name: Locomotive Breath
@@ -39,6 +42,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1976-04-03'
+release_year: 1971
+runtime: 266013
 ---
 In the shuffling madness
 Of the locomotive breath

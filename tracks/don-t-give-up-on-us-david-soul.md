@@ -1,8 +1,11 @@
 ---
+album: David Soul
 artists:
 - David Soul
+external_ids:
+  spotify: spotify:track:23IWhAK0cYRwnBT5EE8i3u
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-give-up-on-us-david-soul
 lyrics_url: https://genius.com/David-soul-dont-give-up-on-us-lyrics
 name: Don't Give Up On Us
@@ -83,6 +86,8 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '1977-06-04'
+release_year: 1976
+runtime: 218946
 ---
 Don't give up on us, baby
 Don't make the wrong seem right

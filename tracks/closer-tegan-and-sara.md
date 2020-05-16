@@ -1,8 +1,11 @@
 ---
+album: Heartthrob
 artists:
 - Tegan And Sara
+external_ids:
+  spotify: spotify:track:4dTVgHZFPlaq9nPbLVVLSG
 features: []
-genres: []
+first_released_as_single: false
 key: closer-tegan-and-sara
 lyrics_url: https://www.azlyrics.com/lyrics/teganandsara/closer.html
 name: Closer
@@ -19,8 +22,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2013-11-16'
+release_year: 2013
+runtime: 209280
 ---
-
 All I want to get is a little bit closer
 All I want to know is, can you come a little closer?
 
@@ -75,6 +79,3 @@ I won't treat you like you're typical
 
 All I want to get is a little bit closer
 All I want to know is, can you come a little closer?
-
-
-

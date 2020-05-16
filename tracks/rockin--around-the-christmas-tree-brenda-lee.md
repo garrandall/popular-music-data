@@ -1,8 +1,11 @@
 ---
+album: Merry Christmas From Brenda Lee
 artists:
 - Brenda Lee
+external_ids:
+  spotify: spotify:track:2EjXfH91m7f8HiJN1yQg97
 features: []
-genres: []
+first_released_as_single: false
 key: rockin--around-the-christmas-tree-brenda-lee
 lyrics_url: https://genius.com/Brenda-lee-rockin-around-the-christmas-tree-lyrics
 name: Rockin' Around The Christmas Tree
@@ -135,6 +138,8 @@ rankings:
   rank: 2
   ranking_list: Billboard Hot 100
   start_date: '2020-01-04'
+release_year: 1960
+runtime: 126266
 ---
 Rockin' around the Christmas tree
 At the Christmas party hop

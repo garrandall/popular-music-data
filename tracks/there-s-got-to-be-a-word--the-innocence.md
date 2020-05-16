@@ -1,8 +1,11 @@
 ---
+album: The Innocence
 artists:
 - The Innocence
+external_ids:
+  spotify: spotify:track:5dKfQoMk0Y5GKWikhiHQiM
 features: []
-genres: []
+first_released_as_single: false
 key: there-s-got-to-be-a-word--the-innocence
 lyrics_url: https://www.musixmatch.com/lyrics/The-Innocence/There-s-Got-to-Be-a-Word
 name: There's Got To Be A Word!
@@ -39,6 +42,8 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '1967-01-21'
+release_year: 1966
+runtime: 144960
 ---
 There's got to be a word that means more than love
 But I can't seem to find it

@@ -1,9 +1,12 @@
 ---
+album: 'Triple F Life: Friends, Fans & Family (Deluxe Version)'
 artists:
 - Waka Flocka Flame
+external_ids:
+  spotify: spotify:track:3KRsRqcimXCJ6uzVm6iPSx
 features:
 - Drake
-genres: []
+first_released_as_single: true
 key: round-of-applause-waka-flocka-flame-drake
 lyrics_url: https://genius.com/Waka-flocka-flame-round-of-applause-lyrics
 name: Round Of Applause
@@ -40,6 +43,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2012-02-25'
+release_year: 2011
+runtime: 266000
 ---
 Round of applause, baby make that ass clap
 Drop it to the floor, make that ass clap

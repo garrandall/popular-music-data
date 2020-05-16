@@ -1,9 +1,12 @@
 ---
+album: There's A Riot Goin' On
 artists:
 - Sly
 - The Family Stone
+external_ids:
+  spotify: spotify:track:2GVEs1sn5Q1jB1976vQoAX
 features: []
-genres: []
+first_released_as_single: false
 key: family-affair-sly-the-family-stone
 lyrics_url: https://www.azlyrics.com/lyrics/slythefamilystone/familyaffair.html
 name: Family Affair
@@ -64,8 +67,9 @@ rankings:
   rank: 30
   ranking_list: Billboard Hot 100
   start_date: '1972-02-05'
+release_year: 1971
+runtime: 185533
 ---
-
 It's a family affair
 It's a family affair
 It's a family affair
@@ -117,6 +121,3 @@ Do-do-do-do
 Hey-hey-hey
 (It's a family affair)
 (It's a family affair)
-
-
-

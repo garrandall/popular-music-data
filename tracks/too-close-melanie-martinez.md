@@ -1,8 +1,11 @@
 ---
+album: Too Close (The Voice Performance)
 artists:
 - Melanie Martinez
+external_ids:
+  spotify: spotify:track:37vqbjwZ6l92SDwzPlJW9m
 features: []
-genres: []
+first_released_as_single: true
 key: too-close-melanie-martinez
 lyrics_url: https://www.azlyrics.com/lyrics/melaniemartinez/tooclose.html
 name: Too Close
@@ -11,8 +14,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2012-12-15'
+release_year: 2012
+runtime: 206000
 ---
-
 You know I'm not one to break promises
 I don't want to hurt you but I need to breathe
 At the end of it all you're still my best friend
@@ -44,6 +48,3 @@ So I'll be on my way
 So I'll be on my way
 So I'll be on my way
 So I'll be on my way
-
-
-

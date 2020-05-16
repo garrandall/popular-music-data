@@ -1,8 +1,11 @@
 ---
+album: The Road To El Dorado (Original Motion Picture Soundtrack)
 artists:
 - Elton John
+external_ids:
+  spotify: spotify:track:1MtLyoONKfK41bQONcARsn
 features: []
-genres: []
+first_released_as_single: false
 key: someday-out-of-the-blue-elton-john
 lyrics_url: https://www.azlyrics.com/lyrics/eltonjohn/somedayoutoftheblue.html
 name: Someday Out Of The Blue
@@ -67,8 +70,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2000-07-29'
+release_year: 2000
+runtime: 287933
 ---
-
 Someday out of the blue
 In a crowded street
 Or a deserted square
@@ -151,6 +155,3 @@ I still believe
 I still put faith in us
 I still believe
 I still put faith in us
-
-
-

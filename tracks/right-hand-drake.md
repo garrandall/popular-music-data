@@ -1,8 +1,11 @@
 ---
+album: Too Good for You
 artists:
 - Drake
+external_ids:
+  spotify: spotify:track:3lSR267IJfT54p0Gfuw7mi
 features: []
-genres: []
+first_released_as_single: true
 key: right-hand-drake
 lyrics_url: https://genius.com/Drake-right-hand-lyrics
 name: Right Hand
@@ -83,6 +86,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2016-02-06'
+release_year: 2015
+runtime: 190595
 ---
 You my right hand, you my go to
 Told me everything about you

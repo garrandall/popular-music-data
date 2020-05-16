@@ -1,9 +1,12 @@
 ---
+album: Karaoke - Female Alternative - Vol.3
 artists:
 - Moby
+external_ids:
+  spotify: spotify:track:5ipR3ujvDwVpg9y39OnUM1
 features:
 - Gwen Stefani
-genres: []
+first_released_as_single: false
 key: south-side-moby-gwen-stefani
 lyrics_url: https://www.azlyrics.com/lyrics/moby/southside.html
 name: South Side
@@ -136,8 +139,9 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '2001-07-07'
+release_year: 2000
+runtime: 230321
 ---
-
 see myself in the pouring home
 see the light come over now
 see myself in the pouring rain
@@ -172,6 +176,3 @@ here we are now going to the south side
 i pick up my friends and we hope we won't die 
 ride at night, ride through heaven and hell 
 come back and feel so well.
-
-
-

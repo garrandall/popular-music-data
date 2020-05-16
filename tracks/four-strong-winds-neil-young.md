@@ -1,8 +1,11 @@
 ---
+album: Comes a Time
 artists:
 - Neil Young
+external_ids:
+  spotify: spotify:track:1qCe9qukzqAwCs08AGfzJG
 features: []
-genres: []
+first_released_as_single: false
 key: four-strong-winds-neil-young
 lyrics_url: https://genius.com/Neil-young-four-strong-winds-lyrics
 name: Four Strong Winds
@@ -35,6 +38,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1979-03-17'
+release_year: 1978
+runtime: 245635
 ---
 Think I'll go out to Alberta
 Weather's good there in the fall

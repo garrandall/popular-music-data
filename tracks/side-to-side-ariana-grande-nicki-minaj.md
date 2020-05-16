@@ -1,9 +1,12 @@
 ---
+album: Dangerous Woman
 artists:
 - Ariana Grande
+external_ids:
+  spotify: spotify:track:1pKeFVVUOPjFsOABub0OaV
 features:
 - Nicki Minaj
-genres: []
+first_released_as_single: false
 key: side-to-side-ariana-grande-nicki-minaj
 lyrics_url: https://genius.com/Ariana-grande-side-to-side-lyrics
 name: Side To Side
@@ -120,6 +123,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2017-03-25'
+release_year: 2016
+runtime: 226160
 ---
 I've been here all night (Ariana)
 I've been here all day (Nicki Minaj)

@@ -1,8 +1,11 @@
 ---
+album: Summer (The First Time)
 artists:
 - Bobby Goldsboro
+external_ids:
+  spotify: spotify:track:5DBKpf8fFV8pIpqcVdMFdJ
 features: []
-genres: []
+first_released_as_single: false
 key: see-the-funny-little-clown-bobby-goldsboro
 lyrics_url: https://www.azlyrics.com/lyrics/bobbygoldsboro/seethefunnylittleclown.html
 name: See The Funny Little Clown
@@ -59,8 +62,9 @@ rankings:
   rank: 37
   ranking_list: Billboard Hot 100
   start_date: '1964-04-04'
+release_year: 1964
+runtime: 164666
 ---
-
 See the funny little clown
 See him laughing as you walk by
 Everybody thinks he's happy
@@ -91,6 +95,3 @@ And to this very day he says
 "He never loved her anyway"
 Mm, and no one knows except for me
 Because you see I'm that funny little clown
-
-
-

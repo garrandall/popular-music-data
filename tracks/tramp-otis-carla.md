@@ -1,9 +1,12 @@
 ---
+album: King & Queen
 artists:
 - Otis
 - Carla
+external_ids:
+  spotify: spotify:track:2gFfG8Ick2LGOzFHiWOV22
 features: []
-genres: []
+first_released_as_single: false
 key: tramp-otis-carla
 lyrics_url: https://genius.com/Otis-redding-and-carla-thomas-tramp-lyrics
 name: Tramp
@@ -44,6 +47,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1967-07-01'
+release_year: 1967
+runtime: 181253
 ---
 Tramp
 What you call me?

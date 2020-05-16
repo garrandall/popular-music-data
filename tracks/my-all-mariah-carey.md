@@ -1,8 +1,11 @@
 ---
+album: Butterfly
 artists:
 - Mariah Carey
+external_ids:
+  spotify: spotify:track:3RSpK5Y0y5tl25qvssrwJ6
 features: []
-genres: []
+first_released_as_single: false
 key: my-all-mariah-carey
 lyrics_url: https://genius.com/Mariah-carey-my-all-lyrics
 name: My All
@@ -87,6 +90,8 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '1998-09-19'
+release_year: 1997
+runtime: 230933
 ---
 I am thinking of you
 In my sleepless solitude tonight

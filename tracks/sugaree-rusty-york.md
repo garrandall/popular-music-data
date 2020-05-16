@@ -1,8 +1,11 @@
 ---
+album: Sings Country Like Crazy
 artists:
 - Rusty York
+external_ids:
+  spotify: spotify:track:1CqITopmGoEihvvJwK2z74
 features: []
-genres: []
+first_released_as_single: false
 key: sugaree-rusty-york
 lyrics_url: https://www.musixmatch.com/lyrics/Rusty-York/Sugaree
 name: Sugaree
@@ -19,6 +22,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1959-08-03'
+release_year: 1959
+runtime: 138000
 ---
 I got a letter from my baby
 She said she's comin' home today

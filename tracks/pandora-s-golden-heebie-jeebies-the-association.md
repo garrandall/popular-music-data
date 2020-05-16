@@ -1,8 +1,11 @@
 ---
+album: Renaissance
 artists:
 - The Association
+external_ids:
+  spotify: spotify:track:6VOZrmZE0URu7E5LHaVT5W
 features: []
-genres: []
+first_released_as_single: false
 key: pandora-s-golden-heebie-jeebies-the-association
 lyrics_url: https://www.azlyrics.com/lyrics/association/pandorasgoldenheebiejeebies.html
 name: Pandora's Golden Heebie Jeebies
@@ -35,8 +38,9 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1967-01-07'
+release_year: 1966
+runtime: 172586
 ---
-
 I have walked along the
 Paths of dark and light
 And I have seen the sunrise
@@ -80,6 +84,3 @@ And I will see the sparrow
 That need no longer fly
 And all that will be left
 For me to do is die
-
-
-

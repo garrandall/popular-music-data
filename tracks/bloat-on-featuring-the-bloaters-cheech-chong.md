@@ -1,7 +1,6 @@
 ---
 artists:
-- Cheech
-- Chong
+- Cheech & Chong
 features: []
 genres: []
 key: bloat-on-featuring-the-bloaters-cheech-chong

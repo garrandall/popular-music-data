@@ -1,8 +1,11 @@
 ---
+album: The Graduate
 artists:
 - Simon & Garfunkel
+external_ids:
+  spotify: spotify:track:0skkqHC3MmCkjbsf7z4Fix
 features: []
-genres: []
+first_released_as_single: false
 key: mrs-robinson-simon-garfunkel
 lyrics_url: https://www.musixmatch.com/lyrics/Simon-Garfunkel/Mrs-Robinson-The-Graduate
 name: Mrs Robinson
@@ -59,6 +62,8 @@ rankings:
   rank: 29
   ranking_list: Billboard Hot 100
   start_date: '1968-07-20'
+release_year: 1959
+runtime: 243200
 ---
 And here's to you, Mrs. Robinson,
 Jesus loves you more than you will know.

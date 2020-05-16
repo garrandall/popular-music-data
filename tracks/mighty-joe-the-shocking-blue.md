@@ -1,8 +1,11 @@
 ---
+album: The Very Best Of Shocking Blue (Part One - The A Sides)
 artists:
 - The Shocking Blue
+external_ids:
+  spotify: spotify:track:5opvuOJ1Ay6FIbanXoOreA
 features: []
-genres: []
+first_released_as_single: false
 key: mighty-joe-the-shocking-blue
 lyrics_url: https://www.azlyrics.com/lyrics/shockingblue/mightyjoe.html
 name: Mighty Joe
@@ -35,8 +38,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1970-04-18'
+release_year: 1970
+runtime: 195466
 ---
-
 Be carefull girls
 For Mighty Joe
 Be carefull!
@@ -82,6 +86,3 @@ Did you hear about Mighty Joe?
 Beware
 Beware when he is around.
 Mighty Joe with the bass voice!
-
-
-

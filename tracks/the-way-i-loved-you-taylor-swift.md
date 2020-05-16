@@ -1,8 +1,11 @@
 ---
+album: Fearless
 artists:
 - Taylor Swift
+external_ids:
+  spotify: spotify:track:5P4wWhUYWM0IaVYLuZxdar
 features: []
-genres: []
+first_released_as_single: false
 key: the-way-i-loved-you-taylor-swift
 lyrics_url: https://genius.com/Taylor-swift-the-way-i-loved-you-lyrics
 name: The Way I Loved You
@@ -11,6 +14,8 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '2008-11-29'
+release_year: 2008
+runtime: 244226
 ---
 He is sensible and so incredible
 And all my single friends are jealous

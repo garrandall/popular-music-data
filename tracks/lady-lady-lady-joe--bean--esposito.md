@@ -1,8 +1,11 @@
 ---
+album: Flashdance (Original Soundtrack From The Motion Picture)
 artists:
 - Joe "Bean" Esposito
+external_ids:
+  spotify: spotify:track:3NtaLjEfNvafq0UM0dfUoc
 features: []
-genres: []
+first_released_as_single: false
 key: lady-lady-lady-joe--bean--esposito
 lyrics_url: https://www.musixmatch.com/lyrics/Joe-Bean-Esposito/Lady-Lady-Lady
 name: Lady Lady Lady
@@ -15,6 +18,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1983-10-29'
+release_year: 1983
+runtime: 249640
 ---
 Frightenedby a dream, you're not the only one
 Running like the wind, thoughts can come undone

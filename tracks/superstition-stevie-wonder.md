@@ -1,8 +1,11 @@
 ---
+album: Talking Book
 artists:
 - Stevie Wonder
+external_ids:
+  spotify: spotify:track:4N0TP4Rmj6QQezWV88ARNJ
 features: []
-genres: []
+first_released_as_single: false
 key: superstition-stevie-wonder
 lyrics_url: https://genius.com/Stevie-wonder-superstition-lyrics
 name: Superstition
@@ -71,6 +74,8 @@ rankings:
   rank: 29
   ranking_list: Billboard Hot 100
   start_date: '1973-03-03'
+release_year: 1972
+runtime: 266133
 ---
 Very superstitious
 Writing's on the wall

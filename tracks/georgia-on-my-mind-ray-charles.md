@@ -1,8 +1,11 @@
 ---
+album: Live at l'Olympia
 artists:
 - Ray Charles
+external_ids:
+  spotify: spotify:track:4hd8wgCh7ZQWRyXNLnwjTD
 features: []
-genres: []
+first_released_as_single: false
 key: georgia-on-my-mind-ray-charles
 lyrics_url: https://www.azlyrics.com/lyrics/raycharles/georgiaonmymind.html
 name: Georgia On My Mind
@@ -59,8 +62,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1960-12-19'
+release_year: 1960
+runtime: 372626
 ---
-
 Georgia, Georgia
 The whole day through (the whole day through)
 Just an old sweet song
@@ -93,6 +97,3 @@ Keeps Georgia on my mind (Georgia on my mind)
 
 I said just an old sweet song
 Keeps Georgia on my mind
-
-
-

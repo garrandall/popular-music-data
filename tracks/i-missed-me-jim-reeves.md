@@ -1,8 +1,11 @@
 ---
+album: Distant Drums
 artists:
 - Jim Reeves
+external_ids:
+  spotify: spotify:track:3PQI2l6gvk9tLmBMTp6BGH
 features: []
-genres: []
+first_released_as_single: false
 key: i-missed-me-jim-reeves
 lyrics_url: https://www.azlyrics.com/lyrics/jimreeves/imissedme.html
 name: I Missed Me
@@ -31,8 +34,9 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '1960-12-19'
+release_year: 1960
+runtime: 152880
 ---
-
 Last night was the worst night of my life no doubt
 'Cause while I stayed at home someone else took you out
 I cried 'cause I love you with all of my might
@@ -54,6 +58,3 @@ I missed the sweet kiss that was mine for so long
 Were you happy with new arms 
 Wrapped around you so tight
 I missed me, how I missed me at your house last night...
-
-
-

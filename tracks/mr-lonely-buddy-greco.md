@@ -1,8 +1,11 @@
 ---
+album: My Buddy
 artists:
 - Buddy Greco
+external_ids:
+  spotify: spotify:track:6bBsumGDisaxrqZrXH4Hnz
 features: []
-genres: []
+first_released_as_single: false
 key: mr-lonely-buddy-greco
 lyrics_url: https://www.musixmatch.com/lyrics/Buddy-Greco/Mr-Lonely
 name: Mr Lonely
@@ -51,6 +54,8 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1962-12-01'
+release_year: 1960
+runtime: 145080
 ---
 Lonely, I'm Mr. Lonely
 I have nobody for my own

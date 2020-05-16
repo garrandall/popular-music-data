@@ -1,8 +1,11 @@
 ---
+album: You Get What You Give
 artists:
 - Zac Brown Band
+external_ids:
+  spotify: spotify:track:2Fm0WH3T3Ca7hTALuiNAGz
 features: []
-genres: []
+first_released_as_single: false
 key: keep-me-in-mind-zac-brown-band
 lyrics_url: https://www.azlyrics.com/lyrics/zacbrownband/keepmeinmind.html
 name: Keep Me In Mind
@@ -87,8 +90,9 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '2012-02-25'
+release_year: 2010
+runtime: 214106
 ---
-
 How come all the pretty girls like you are taken baby
 I've been looking for someone like you to save me
 Life's too easy to be so damn complicated
@@ -141,6 +145,3 @@ I'll hold you darling
 (Keep me in mind)
 C'mon little mama
 Put it on me
-
-
-

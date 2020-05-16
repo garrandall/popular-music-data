@@ -1,8 +1,11 @@
 ---
+album: Indianola Mississippi Seeds
 artists:
 - B.B. King
+external_ids:
+  spotify: spotify:track:769OeqqYJcSQjvVquDWfYf
 features: []
-genres: []
+first_released_as_single: false
 key: hummingbird-b-b--king
 lyrics_url: https://www.azlyrics.com/lyrics/bbking/hummingbird.html
 name: Hummingbird
@@ -35,8 +38,9 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '1970-09-05'
+release_year: 1970
+runtime: 278640
 ---
-
 Sometimes I get impatient 
 but she cools me without words 
 and she comes so sweet and so plain 
@@ -69,6 +73,3 @@ when I see her in the morning sleeping
 she's little and she loves me 
 to my lucky day 
 hummingbird don't fly away
-
-
-

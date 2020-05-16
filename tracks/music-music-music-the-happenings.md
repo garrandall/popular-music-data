@@ -1,8 +1,11 @@
 ---
+album: Music Music Music
 artists:
 - The Happenings
+external_ids:
+  spotify: spotify:track:0dcjqMoZ9J3k2gjODLlbin
 features: []
-genres: []
+first_released_as_single: false
 key: music-music-music-the-happenings
 name: Music Music Music
 rankings:
@@ -14,5 +17,7 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1968-02-24'
+release_year: 1968
+runtime: 159506
 ---
 

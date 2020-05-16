@@ -1,8 +1,11 @@
 ---
+album: Can You Feel It
 artists:
 - Lighthouse
+external_ids:
+  spotify: spotify:track:56ZK9hnVrYlidRbqqNRnpG
 features: []
-genres: []
+first_released_as_single: false
 key: pretty-lady-lighthouse
 lyrics_url: https://genius.com/Lighthouse-pretty-lady-lyrics
 name: Pretty Lady
@@ -39,6 +42,8 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '1973-12-22'
+release_year: 1973
+runtime: 243933
 ---
 I see you each morning
 And in silence I say

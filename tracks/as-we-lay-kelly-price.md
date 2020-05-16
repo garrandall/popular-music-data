@@ -1,8 +1,11 @@
 ---
+album: Mirror Mirror
 artists:
 - Kelly Price
+external_ids:
+  spotify: spotify:track:5FX8KqBY74jLl0BBTSNl2N
 features: []
-genres: []
+first_released_as_single: false
 key: as-we-lay-kelly-price
 lyrics_url: https://www.azlyrics.com/lyrics/kellyprice/aswelay.html
 name: As We Lay
@@ -39,8 +42,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2000-09-02'
+release_year: 2000
+runtime: 380333
 ---
-
 Whoa, it's morning
 And we slept the night away
 It happened
@@ -115,6 +119,3 @@ Baby, baby I can't take it no more
 You see I can't be in your life
 You gotta go home to you wife
 Oh it's morning
-
-
-

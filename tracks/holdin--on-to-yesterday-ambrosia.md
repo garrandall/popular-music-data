@@ -1,8 +1,11 @@
 ---
+album: Ambrosia
 artists:
 - Ambrosia
+external_ids:
+  spotify: spotify:track:5nFpF7jUbVnnDMXIu65aoh
 features: []
-genres: []
+first_released_as_single: false
 key: holdin--on-to-yesterday-ambrosia
 lyrics_url: https://www.azlyrics.com/lyrics/ambrosia/holdinontoyesterday.html
 name: Holdin' On To Yesterday
@@ -63,8 +66,9 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1975-09-13'
+release_year: 1975
+runtime: 259933
 ---
-
 Well I keep holdin' on to yesterday
 I keep holdin' on enough to say 
 That I'm wrong
@@ -88,6 +92,3 @@ I keep holdin' on enough to say
 That I'm wrong, wrong, wrong 
 To keep holdin' on 
 My yesterdays have all gone by
-
-
-

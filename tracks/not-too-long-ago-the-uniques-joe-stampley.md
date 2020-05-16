@@ -1,9 +1,12 @@
 ---
+album: Joe Stampley & The Uniques 45th Year Reunion Live at the Pineywoods Palace
 artists:
 - The Uniques
+external_ids:
+  spotify: spotify:track:3wjsnNy7OYyHsefJ0rVAbl
 features:
 - Joe Stampley
-genres: []
+first_released_as_single: false
 key: not-too-long-ago-the-uniques-joe-stampley
 name: Not Too Long Ago
 rankings:
@@ -31,5 +34,7 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1965-04-24'
+release_year: 1965
+runtime: 142590
 ---
 

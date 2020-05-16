@@ -1,9 +1,12 @@
 ---
+album: Lost In The Ozone
 artists:
 - Commander Cody
 - His Lost Planet Airmen
+external_ids:
+  spotify: spotify:track:2sZjmnS1BSoc1svOu5P8LM
 features: []
-genres: []
+first_released_as_single: false
 key: hot-rod-lincoln-commander-cody-his-lost-planet-airmen
 lyrics_url: https://www.musixmatch.com/lyrics/Commander-Cody-And-His-Lost-Planet-Airmen-2/Hot-Rod-Lincoln
 name: Hot Rod Lincoln
@@ -64,6 +67,8 @@ rankings:
   rank: 31
   ranking_list: Billboard Hot 100
   start_date: '1972-06-24'
+release_year: 1971
+runtime: 164933
 ---
 My pappy said, "Son, you gonna drive me to drinkin'
 If you don't stop drivin' that hot rod Lincoln"

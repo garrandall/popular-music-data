@@ -1,8 +1,11 @@
 ---
+album: Street Talk
 artists:
 - Steve Perry
+external_ids:
+  spotify: spotify:track:4zEi4tr3lEhiAvTRxEzbEz
 features: []
-genres: []
+first_released_as_single: false
 key: oh-sherrie-steve-perry
 lyrics_url: https://www.azlyrics.com/lyrics/steveperry/ohsherrie.html
 name: Oh Sherrie
@@ -87,8 +90,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1984-08-18'
+release_year: 1984
+runtime: 229346
 ---
-
 You should've been gone
 Knowing how I made you feel
 And I should've been gone
@@ -137,6 +141,3 @@ Holds on, holds on
 
 Hold on
 Oh, Sherrie
-
-
-

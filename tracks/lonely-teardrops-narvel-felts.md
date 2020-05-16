@@ -1,8 +1,11 @@
 ---
+album: Narvel Felts
 artists:
 - Narvel Felts
+external_ids:
+  spotify: spotify:track:72BWYkBpcR1GQiS0L3dqUb
 features: []
-genres: []
+first_released_as_single: false
 key: lonely-teardrops-narvel-felts
 lyrics_url: https://genius.com/Narvel-felts-lonely-teardrops-lyrics
 name: Lonely Teardrops
@@ -23,6 +26,8 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '1976-06-12'
+release_year: 1976
+runtime: 168120
 ---
 My heart is crying
 Crying lonely teardrops

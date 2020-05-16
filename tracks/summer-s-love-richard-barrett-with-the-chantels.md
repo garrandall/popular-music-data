@@ -1,7 +1,8 @@
 ---
 artists:
-- Richard Barrett With The Chantels
-features: []
+- Richard Barrett
+features:
+- The Chantels
 genres: []
 key: summer-s-love-richard-barrett-with-the-chantels
 name: Summer's Love

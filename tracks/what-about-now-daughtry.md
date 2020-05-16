@@ -1,8 +1,11 @@
 ---
+album: It's Not Over....The Hits So Far
 artists:
 - Daughtry
+external_ids:
+  spotify: spotify:track:35SuLFF1dk9nBgjE2HzTzp
 features: []
-genres: []
+first_released_as_single: false
 key: what-about-now-daughtry
 lyrics_url: https://www.azlyrics.com/lyrics/daughtry/whataboutnow.html
 name: What About Now
@@ -87,8 +90,9 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '2009-01-03'
+release_year: 2006
+runtime: 251626
 ---
-
 Shadows fill an empty heart
 As love is fading
 From all the things that we are
@@ -151,6 +155,3 @@ Baby, before it's too late
 Baby, before it's too late
 Baby, before it's too late
 What about now?
-
-
-

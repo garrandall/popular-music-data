@@ -1,9 +1,12 @@
 ---
+album: The Papercut Chronicles II
 artists:
 - Gym Class Heroes
+external_ids:
+  spotify: spotify:track:2mjHZ6UG9YzT8S73QdjwVV
 features:
 - Adam Levine
-genres: []
+first_released_as_single: true
 key: stereo-hearts-gym-class-heroes-adam-levine
 lyrics_url: https://www.azlyrics.com/lyrics/gymclassheroes/stereohearts.html
 name: Stereo Hearts
@@ -156,9 +159,9 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '2012-03-10'
+release_year: 2011
+runtime: 210514
 ---
-
-
 My heart's a stereo
 It beats for you, so listen close
 Hear my thoughts in every no-o-o-te
@@ -242,6 +245,3 @@ Oh oh oh oh, oh oh oh oh to my stereo
 Oh (it's your boy Travis!) oh oh oh (Gym Class Heroes baby!) so sing along to my stereo
 
 Yeah
-
-
-

@@ -1,12 +1,15 @@
 ---
+album: Father Of Asahd
 artists:
 - DJ Khaled
+external_ids:
+  spotify: spotify:track:01nRLdAEslhpOZsv4UFTjk
 features:
 - Meek Mill
 - J Balvin
 - Lil Baby
 - Jeremih
-genres: []
+first_released_as_single: true
 key: you-stay-dj-khaled-meek-mill-j-balvin-lil-baby-jeremih
 lyrics_url: https://genius.com/Dj-khaled-you-stay-lyrics
 name: You Stay
@@ -27,6 +30,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2019-07-06'
+release_year: 2019
+runtime: 275275
 ---
 Sabes bien que fue un engaño
 Lo que me hiciste fue un pecado

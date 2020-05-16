@@ -1,8 +1,11 @@
 ---
+album: Born Too Late
 artists:
 - Poni-Tails
+external_ids:
+  spotify: spotify:track:2CHOpIcLOGyx4jJdX88ImV
 features: []
-genres: []
+first_released_as_single: false
 key: born-too-late-poni-tails
 lyrics_url: https://genius.com/The-poni-tails-born-too-late-lyrics
 name: Born Too Late
@@ -63,6 +66,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1958-11-03'
+release_year: 1958
+runtime: 139000
 ---
 Born too late for you to notice me
 To you, I'm just a kid that you won't date

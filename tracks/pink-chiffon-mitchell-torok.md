@@ -1,8 +1,11 @@
 ---
+album: Caribbean
 artists:
 - Mitchell Torok
+external_ids:
+  spotify: spotify:track:7byy0qP1b25lupcuUYNCOY
 features: []
-genres: []
+first_released_as_single: false
 key: pink-chiffon-mitchell-torok
 name: Pink Chiffon
 rankings:
@@ -42,5 +45,7 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1960-07-04'
+release_year: 1960
+runtime: 154800
 ---
 

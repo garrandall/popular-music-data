@@ -1,8 +1,11 @@
 ---
+album: David Cook
 artists:
 - David Cook
+external_ids:
+  spotify: spotify:track:6avyV3xlz2UFeiAUZ0SqyT
 features: []
-genres: []
+first_released_as_single: false
 key: the-time-of-my-life-david-cook
 lyrics_url: https://genius.com/David-cook-the-time-of-my-life-lyrics
 name: The Time Of My Life
@@ -87,6 +90,8 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '2008-10-18'
+release_year: 2008
+runtime: 216146
 ---
 I've been waitin' for my dreams
 To turn into something I could believe in

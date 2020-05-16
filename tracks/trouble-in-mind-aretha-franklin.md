@@ -1,8 +1,11 @@
 ---
+album: The Tender, The Moving, The Swinging Aretha Franklin
 artists:
 - Aretha Franklin
+external_ids:
+  spotify: spotify:track:10ZBwAo39FL5uzqbqMQy3q
 features: []
-genres: []
+first_released_as_single: false
 key: trouble-in-mind-aretha-franklin
 lyrics_url: https://www.azlyrics.com/lyrics/arethafranklin/troubleinmind.html
 name: Trouble In Mind
@@ -27,8 +30,9 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1963-01-12'
+release_year: 1962
+runtime: 133986
 ---
-
 Trouble in mind, I'm blue
 But I won't be blue always,
 'Cause that sun is gonna shine in my back door someday
@@ -55,6 +59,3 @@ And let that 2:19 special ease my troubled mind
 Trouble in mind, I'm blue,
 But I won't be blue always
 'Cause that sun is gonna shine in my back door someday
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: One Step Closer
 artists:
 - The Doobie Brothers
+external_ids:
+  spotify: spotify:track:4g3FtSrGyPdOGfv3ISiOTl
 features: []
-genres: []
+first_released_as_single: false
 key: one-step-closer-the-doobie-brothers
 lyrics_url: https://www.azlyrics.com/lyrics/doobiebrothers/onestepcloser.html
 name: One Step Closer
@@ -63,8 +66,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1981-02-21'
+release_year: 1977
+runtime: 251893
 ---
-
 Baby, there's a chance you ought to take
 Chance of a mistake you gotta make
 Maybe I'm mistaken too
@@ -111,6 +115,3 @@ Tell me that you're right there too
 One step baby
 Two steps maybe
 One step closer
-
-
-

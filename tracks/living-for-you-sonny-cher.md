@@ -1,9 +1,12 @@
 ---
+album: In Case You're In Love
 artists:
 - Sonny
 - Cher
+external_ids:
+  spotify: spotify:track:2nWvOAHw9LCD7AWyd0Aysn
 features: []
-genres: []
+first_released_as_single: false
 key: living-for-you-sonny-cher
 lyrics_url: https://www.azlyrics.com/lyrics/sonnycher/livingforyou.html
 name: Living For You
@@ -16,8 +19,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1966-11-26'
+release_year: 1966
+runtime: 213760
 ---
-
 The summer flowers are waiting
 The birds are made for mating
 A bee was pollinating
@@ -60,6 +64,3 @@ I exited my maze
 And I did something new
 I started living for you
 I started living for you
-
-
-

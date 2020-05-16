@@ -1,9 +1,12 @@
 ---
+album: Rolling Papers 2
 artists:
 - Wiz Khalifa
+external_ids:
+  spotify: spotify:track:2Lt9pasFKKnMMOju3wcqVi
 features:
 - Ty Dolla $ign
-genres: []
+first_released_as_single: false
 key: something-new-wiz-khalifa-ty-dolla--ign
 lyrics_url: https://genius.com/Wiz-khalifa-something-new-lyrics
 name: Something New
@@ -12,6 +15,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2017-09-02'
+release_year: 2017
+runtime: 200791
 ---
 Right Now Sound
 I be with the Hitmaka

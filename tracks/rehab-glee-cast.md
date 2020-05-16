@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music, The Complete Season One'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:3x0rTsHxeTWLHtVQT8sh1f
 features: []
-genres: []
+first_released_as_single: false
 key: rehab-glee-cast
 lyrics_url: https://www.azlyrics.com/lyrics/gleecast/rehab.html
 name: Rehab
@@ -11,8 +14,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2009-06-06'
+release_year: 2009
+runtime: 206200
 ---
-
 Ohio, Ohio, Ohiooooo
 
 They tried to make me go to rehab but I said 'no, no, no'
@@ -56,6 +60,3 @@ They tried to make me go to rehab, but I said 'no no no'
 Yes I've been black, but when I come back you'll know know know
 I ain't got the time and if my daddy thinks I'm fine
 They tried to make me go to rehab but I won't go go go
-
-
-

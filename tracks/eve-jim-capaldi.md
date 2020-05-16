@@ -1,8 +1,11 @@
 ---
+album: The Sweet Smell of Success
 artists:
 - Jim Capaldi
+external_ids:
+  spotify: spotify:track:2GvQ9OHR3s5HdCDnadK4aS
 features: []
-genres: []
+first_released_as_single: false
 key: eve-jim-capaldi
 lyrics_url: https://genius.com/Jim-capaldi-eve-lyrics
 name: Eve
@@ -23,6 +26,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1972-04-29'
+release_year: 1972
+runtime: 355600
 ---
 Capaldi
 

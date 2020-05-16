@@ -1,8 +1,11 @@
 ---
+album: Claudine
 artists:
 - Claudine Longet
+external_ids:
+  spotify: spotify:track:5ly2ULtvOsRj0O7TtHVktQ
 features: []
-genres: []
+first_released_as_single: false
 key: hello-hello-claudine-longet
 lyrics_url: https://genius.com/Claudine-longet-hello-hello-lyrics
 name: Hello Hello
@@ -11,6 +14,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1967-05-27'
+release_year: 1967
+runtime: 134106
 ---
 Hello, hello
 I like your smile

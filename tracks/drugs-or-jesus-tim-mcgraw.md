@@ -1,8 +1,11 @@
 ---
+album: Live Like You Were Dying
 artists:
 - Tim McGraw
+external_ids:
+  spotify: spotify:track:56DXpIS5RAMfRFs2mVcjf7
 features: []
-genres: []
+first_released_as_single: false
 key: drugs-or-jesus-tim-mcgraw
 lyrics_url: https://www.azlyrics.com/lyrics/timmcgraw/drugsorjesus.html
 name: Drugs Or Jesus
@@ -43,8 +46,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2005-05-21'
+release_year: 2004
+runtime: 279933
 ---
-
 In my home town
 For anyone who sticks around
 You're either lost or you're found
@@ -82,6 +86,3 @@ Sit and watch a perfect world go by
 We're all looking for love and meaning in our lives
 We follow the roads that lead us
 To drugs or Jesus
-
-
-

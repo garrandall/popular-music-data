@@ -1,8 +1,11 @@
 ---
+album: Picturesque Matchstickable Messages from the Status Quo
 artists:
 - The Status Quo
+external_ids:
+  spotify: spotify:track:0MRs5O62wfDgf5cQKalrPq
 features: []
-genres: []
+first_released_as_single: false
 key: pictures-of-matchstick-men-the-status-quo
 lyrics_url: https://genius.com/Status-quo-pictures-of-matchstick-men-lyrics
 name: Pictures Of Matchstick Men
@@ -75,6 +78,8 @@ rankings:
   rank: 31
   ranking_list: Billboard Hot 100
   start_date: '1968-09-07'
+release_year: 1968
+runtime: 190600
 ---
 When I look up to the sky
 I see your eyes a funny kind of yellow

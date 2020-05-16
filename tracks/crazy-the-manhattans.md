@@ -1,8 +1,11 @@
 ---
+album: Forever by Your Side (Expanded Version)
 artists:
 - The Manhattans
+external_ids:
+  spotify: spotify:track:3TFOWJpcPUaKmVfRXM3uoK
 features: []
-genres: []
+first_released_as_single: false
 key: crazy-the-manhattans
 lyrics_url: https://genius.com/The-manhattans-crazy-lyrics
 name: Crazy
@@ -31,6 +34,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1983-09-03'
+release_year: 1983
+runtime: 295240
 ---
 Girl I can't believe the love your giving me
 Took me by suprise for your love has no disguise

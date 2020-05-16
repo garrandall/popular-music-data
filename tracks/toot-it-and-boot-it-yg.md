@@ -1,8 +1,11 @@
 ---
+album: Toot It And Boot It
 artists:
 - YG
+external_ids:
+  spotify: spotify:track:3AqcBOSlJF7xMgvLpQoa3c
 features: []
-genres: []
+first_released_as_single: true
 key: toot-it-and-boot-it-yg
 lyrics_url: https://www.azlyrics.com/lyrics/yg/tootitandbootit.html
 name: Toot It And Boot It
@@ -51,9 +54,9 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '2010-11-20'
+release_year: 2010
+runtime: 243746
 ---
-
-
 I met her at the club, then I said "wassup?"
 I took her to the crib and you know I fucked
 Yeah, toot it and boot it, toot it and boot it
@@ -122,6 +125,3 @@ I met her at the club, then I said wassup
 I took her to the crib and you know I fucked
 Yeah, toot it and boot it, toot it and boot it
 Toot it and boot it, that's why I toot and boot it
-
-
-

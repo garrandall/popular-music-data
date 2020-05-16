@@ -1,8 +1,11 @@
 ---
+album: 30 Exitos Insuperables
 artists:
 - Jon Secada
+external_ids:
+  spotify: spotify:track:0718DQP6ImFENfOud7Crmy
 features: []
-genres: []
+first_released_as_single: false
 key: mental-picture-jon-secada
 lyrics_url: https://www.azlyrics.com/lyrics/jonsecada/mentalpicture.html
 name: Mental Picture
@@ -87,8 +90,9 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '1995-04-08'
+release_year: 1994
+runtime: 259133
 ---
-
 I've been avoiding things I'm missing
 Then you came into my life a brand new flower, baby
 A reminder of what happiness is like
@@ -129,6 +133,3 @@ For a while or more
 Girl you know I'll always think of you, think of you
 Yes if a mental picture's all I've got, to go on, I know
 You're a picture to remember, remember.
-
-
-

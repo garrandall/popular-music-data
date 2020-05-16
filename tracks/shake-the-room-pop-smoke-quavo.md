@@ -1,9 +1,12 @@
 ---
+album: Meet The Woo 2
 artists:
 - Pop Smoke
+external_ids:
+  spotify: spotify:track:7rSnKi58HPIVC0FVyh04Q1
 features:
 - Quavo
-genres: []
+first_released_as_single: false
 key: shake-the-room-pop-smoke-quavo
 lyrics_url: https://www.azlyrics.com/lyrics/popsmoke/shaketheroom.html
 name: Shake The Room
@@ -12,8 +15,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2020-03-07'
+release_year: 2020
+runtime: 165640
 ---
-
 Traphouse Mob
 Woo
 Woo, woo
@@ -82,6 +86,3 @@ Wait (Woo, woo, woo, go)
 Swerve (Skrrt, skrrt)
 Go 'head and shake the room, huh, go 'head and shake the room (Shake it)
 I bet I shake the room
-
-
-

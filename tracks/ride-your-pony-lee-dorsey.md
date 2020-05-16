@@ -1,8 +1,11 @@
 ---
+album: Ride Your Pony
 artists:
 - Lee Dorsey
+external_ids:
+  spotify: spotify:track:5xsXzVOEA83GlDZ14Q74yh
 features: []
-genres: []
+first_released_as_single: false
 key: ride-your-pony-lee-dorsey
 lyrics_url: https://genius.com/Lee-dorsey-ride-your-pony-lyrics
 name: Ride Your Pony
@@ -43,6 +46,8 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '1965-08-28'
+release_year: 1965
+runtime: 172266
 ---
 (Ride your pony) get on your pony & ride; all right!
 (Ride your pony) get on your pony & ride; ah you're ridin' high!

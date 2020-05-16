@@ -1,8 +1,11 @@
 ---
+album: The Best of the 12 Mixes
 artists:
 - D Train
+external_ids:
+  spotify: spotify:track:0d1QJgbhBHtEeeB595PTBZ
 features: []
-genres: []
+first_released_as_single: false
 key: something-s-on-your-mind-d-train
 lyrics_url: https://genius.com/D-train-somethings-on-your-mind-lyrics
 name: Something's On Your Mind
@@ -31,6 +34,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1984-02-11'
+release_year: 1982
+runtime: 398026
 ---
 I believe (something's on your mind)
 There's something on your mind

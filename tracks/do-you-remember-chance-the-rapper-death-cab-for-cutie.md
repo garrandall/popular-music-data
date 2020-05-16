@@ -1,9 +1,12 @@
 ---
+album: The Big Day
 artists:
 - Chance The Rapper
+external_ids:
+  spotify: spotify:track:67xBtV07CC73eFw7z5oCvU
 features:
 - Death Cab For Cutie
-genres: []
+first_released_as_single: false
 key: do-you-remember-chance-the-rapper-death-cab-for-cutie
 lyrics_url: https://genius.com/Chance-the-rapper-do-you-remember-lyrics
 name: Do You Remember
@@ -12,6 +15,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2019-08-10'
+release_year: 2019
+runtime: 236685
 ---
 Do you remember how when you were younger
 The  summers all lasted forever?

@@ -1,8 +1,11 @@
 ---
+album: Hello Stranger
 artists:
 - Barbara Lewis
+external_ids:
+  spotify: spotify:track:0jlf8HTyFJdSqYlVcZ8jir
 features: []
-genres: []
+first_released_as_single: false
 key: puppy-love-barbara-lewis
 lyrics_url: https://genius.com/Barbara-lewis-puppy-love-lyrics
 name: Puppy Love
@@ -55,6 +58,8 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '1964-03-28'
+release_year: 1963
+runtime: 144466
 ---
 Puppy love
 Donny Osmond

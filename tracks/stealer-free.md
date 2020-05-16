@@ -1,8 +1,11 @@
 ---
+album: Highway (Remastered with Bonus Tracks)
 artists:
 - Free
+external_ids:
+  spotify: spotify:track:7vDUPI7uKMuycuEp3cmmnM
 features: []
-genres: []
+first_released_as_single: false
 key: stealer-free
 lyrics_url: https://genius.com/Free-marie-antoinette-wright-stealer-lyrics
 name: Stealer
@@ -39,6 +42,8 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1971-01-16'
+release_year: 1970
+runtime: 195293
 ---
 I went down to the centre of town
 And my feet was a burning ground

@@ -1,9 +1,12 @@
 ---
+album: Born Sinner
 artists:
 - J. Cole
+external_ids:
+  spotify: spotify:track:6JG0qhINKVwiHxqN85j7RG
 features:
 - TLC
-genres: []
+first_released_as_single: false
 key: crooked-smile-j--cole-tlc
 lyrics_url: https://www.azlyrics.com/lyrics/jcole/crookedsmile.html
 name: Crooked Smile
@@ -88,9 +91,9 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '2013-11-16'
+release_year: 2013
+runtime: 278573
 ---
-
-
 Even though I
 
 
@@ -172,6 +175,3 @@ You are the one that was tryna keep me way down
 But like the sun, I know you I found my way back 'round, back 'round...
 You are the one that was tryna keep me way down
 But like the sun, I know you know I found my way back 'round
-
-
-

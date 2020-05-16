@@ -1,8 +1,11 @@
 ---
+album: 3+3
 artists:
 - The Isley Brothers
+external_ids:
+  spotify: spotify:track:0rfuQe8C0jPBtJjGMYe7hk
 features: []
-genres: []
+first_released_as_single: false
 key: what-it-comes-down-to-the-isley-brothers
 lyrics_url: https://genius.com/The-isley-brothers-what-it-comes-down-to-lyrics
 name: What It Comes Down To
@@ -51,6 +54,8 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '1974-03-09'
+release_year: 1973
+runtime: 233400
 ---
 Here I am lovin' you
 You're like a dream come true

@@ -1,8 +1,11 @@
 ---
+album: Anthology Vol.1
 artists:
 - Marv Johnson
+external_ids:
+  spotify: spotify:track:0ZWqVaUbxHvCsIPPhQvbft
 features: []
-genres: []
+first_released_as_single: false
 key: ain-t-gonna-be-that-way-marv-johnson
 lyrics_url: https://www.musixmatch.com/lyrics/Marv-Johnson/Ain-t-Gonna-Be-That-Way
 name: Ain't Gonna Be That Way
@@ -35,6 +38,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1960-07-11'
+release_year: 1960
+runtime: 150093
 ---
 If you think that when you leave me
 You're gonna make me cry

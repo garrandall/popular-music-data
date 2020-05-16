@@ -1,8 +1,11 @@
 ---
+album: The Notorious Byrd Brothers
 artists:
 - The Byrds
+external_ids:
+  spotify: spotify:track:0H9rFU3VOJVDd1nfXyWblY
 features: []
-genres: []
+first_released_as_single: false
 key: goin--back-the-byrds
 lyrics_url: https://www.azlyrics.com/lyrics/byrds/goinback.html
 name: Goin' Back
@@ -19,8 +22,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1967-12-02'
+release_year: 1965
+runtime: 206066
 ---
-
 I think I'm going back to the things that I learned so well in my youth
 I think I'm returning to those days when I was young enough to know the truth
 Now there are no games to only pass the time
@@ -39,6 +43,3 @@ Now there's more to do than watch my sailboat glide
 But every day can be a magic carpet ride
 A little bit of courage is all we lack
 So catch me if you can, I'm goin' back
-
-
-

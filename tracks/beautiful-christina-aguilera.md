@@ -1,8 +1,11 @@
 ---
+album: Stripped
 artists:
 - Christina Aguilera
+external_ids:
+  spotify: spotify:track:3TCauNPqFiniaYHBvEVoHG
 features: []
-genres: []
+first_released_as_single: false
 key: beautiful-christina-aguilera
 lyrics_url: https://www.azlyrics.com/lyrics/christinaaguilera/beautiful.html
 name: Beautiful
@@ -115,9 +118,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2003-05-24'
+release_year: 2002
+runtime: 238560
 ---
-
-
 Don't look at me
 
 Every day is so wonderful
@@ -164,6 +167,3 @@ So don't you bring me down today
 
 Oh, yeah, don't you bring me down today, yeah, oh
 Don't you bring me down oh... today
-
-
-

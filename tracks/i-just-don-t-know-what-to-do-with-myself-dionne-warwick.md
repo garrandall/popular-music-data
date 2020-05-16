@@ -1,8 +1,11 @@
 ---
+album: Here Where There Is Love
 artists:
 - Dionne Warwick
+external_ids:
+  spotify: spotify:track:2CtDhM3MotAK3x56XoPGqb
 features: []
-genres: []
+first_released_as_single: false
 key: i-just-don-t-know-what-to-do-with-myself-dionne-warwick
 lyrics_url: https://genius.com/Dionne-warwick-i-just-dont-know-what-to-do-with-myself-lyrics
 name: I Just Don't Know What To Do With Myself
@@ -39,6 +42,8 @@ rankings:
   rank: 31
   ranking_list: Billboard Hot 100
   start_date: '1966-11-19'
+release_year: 1966
+runtime: 167333
 ---
 I just don't know what to do with myself
 Don't know just what to do with myself

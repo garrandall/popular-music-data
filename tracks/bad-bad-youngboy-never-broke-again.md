@@ -1,8 +1,11 @@
 ---
+album: Still Flexin, Still Steppin
 artists:
 - YoungBoy Never Broke Again
+external_ids:
+  spotify: spotify:track:2OUY5NdALupSoIQN9ZBH1a
 features: []
-genres: []
+first_released_as_single: false
 key: bad-bad-youngboy-never-broke-again
 lyrics_url: https://genius.com/Youngboy-never-broke-again-bad-bad-lyrics
 name: Bad Bad
@@ -11,6 +14,8 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '2020-03-07'
+release_year: 2020
+runtime: 138683
 ---
 I got Hitman on the beat
 AKel (Yes, sir)

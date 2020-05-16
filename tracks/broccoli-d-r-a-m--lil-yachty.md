@@ -1,9 +1,12 @@
 ---
+album: Big Baby DRAM
 artists:
 - D.R.A.M.
+external_ids:
+  spotify: spotify:track:0qy5D3OJre7SPJNMOL9I71
 features:
 - Lil Yachty
-genres: []
+first_released_as_single: true
 key: broccoli-d-r-a-m--lil-yachty
 lyrics_url: https://www.azlyrics.com/lyrics/dram/broccoli.html
 name: Broccoli
@@ -156,9 +159,9 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '2017-03-11'
+release_year: 2016
+runtime: 225205
 ---
-
-
 Ain't no telling what I'm finna be on
 I'm beyond all that fuck shit
 
@@ -230,6 +233,3 @@ Whispered in my ear she trying to leave with me
 Said that I can get that pussy easily
 Said that I can hit that shit so greasily
 I'm a dirty dog I did it sleazily
-
-
-

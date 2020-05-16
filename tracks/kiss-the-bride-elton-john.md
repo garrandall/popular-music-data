@@ -1,8 +1,11 @@
 ---
+album: Too Low For Zero
 artists:
 - Elton John
+external_ids:
+  spotify: spotify:track:5xQkkHYbgJ2VegCrRUCvcS
 features: []
-genres: []
+first_released_as_single: false
 key: kiss-the-bride-elton-john
 lyrics_url: https://www.azlyrics.com/lyrics/eltonjohn/kissthebride.html
 name: Kiss The Bride
@@ -55,8 +58,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1983-10-22'
+release_year: 1983
+runtime: 262066
 ---
-
 Well she looked a peach in the dress she made
 When she was still her mama's little girl
 And when she walked down the aisle everybody smiled
@@ -84,6 +88,3 @@ About his wife and the things we did
 And what I planned to say
 Yeah on her wedding day
 Well I thought it but I kept it hid
-
-
-

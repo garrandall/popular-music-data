@@ -1,8 +1,11 @@
 ---
+album: I Feel A Song
 artists:
 - Gladys Knight And The Pips
+external_ids:
+  spotify: spotify:track:6JCrxU7tOmLU5E5C8ls8T2
 features: []
-genres: []
+first_released_as_single: false
 key: i-feel-a-song--in-my-heart--gladys-knight-and-the-pips
 lyrics_url: https://genius.com/Gladys-knight-and-the-pips-i-feel-a-song-in-my-heart-lyrics
 name: I Feel A Song (In My Heart)
@@ -75,6 +78,8 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '1975-02-01'
+release_year: 1974
+runtime: 198733
 ---
 Oh, I love you so
 But why I love you I'll never know

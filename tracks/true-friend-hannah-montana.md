@@ -1,8 +1,11 @@
 ---
+album: Hannah Montana 2
 artists:
 - Hannah Montana
+external_ids:
+  spotify: spotify:track:322E3pHVE4THhniKjNLTY9
 features: []
-genres: []
+first_released_as_single: false
 key: true-friend-hannah-montana
 lyrics_url: https://www.azlyrics.com/lyrics/hannahmontana/truefriend.html
 name: True Friend
@@ -11,8 +14,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2007-07-14'
+release_year: 2007
+runtime: 189173
 ---
-
 We sign our cards and letters BFF
 You've got a million ways to make me laugh
 You're lookin' out for me; you've got my back
@@ -66,6 +70,3 @@ Talk with me now and into the night
 You're a true friend
 You're a true friend
 You're a true friend
-
-
-

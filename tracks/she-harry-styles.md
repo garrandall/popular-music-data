@@ -1,8 +1,11 @@
 ---
+album: Fine Line
 artists:
 - Harry Styles
+external_ids:
+  spotify: spotify:track:6SQLk9HSNketfgs2AyIiMs
 features: []
-genres: []
+first_released_as_single: false
 key: she-harry-styles
 lyrics_url: https://genius.com/Harry-styles-she-lyrics
 name: She
@@ -11,6 +14,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2019-12-28'
+release_year: 2019
+runtime: 362653
 ---
 Nine in the morning, the man drops his kids off at school
 And he's thinking of you, like all of us do

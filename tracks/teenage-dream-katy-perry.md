@@ -1,8 +1,11 @@
 ---
+album: Teenage Dream
 artists:
 - Katy Perry
+external_ids:
+  spotify: spotify:track:5jzKL4BDMClWqRguW5qZvh
 features: []
-genres: []
+first_released_as_single: false
 key: teenage-dream-katy-perry
 lyrics_url: https://genius.com/Katy-perry-teenage-dream-lyrics
 name: Teenage Dream
@@ -139,6 +142,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2011-03-19'
+release_year: 2010
+runtime: 227741
 ---
 You think I'm pretty without any makeup on
 You think I'm funny when I tell the punch line wrong

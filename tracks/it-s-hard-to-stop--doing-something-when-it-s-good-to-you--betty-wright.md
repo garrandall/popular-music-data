@@ -1,8 +1,11 @@
 ---
+album: Hard To Stop
 artists:
 - Betty Wright
+external_ids:
+  spotify: spotify:track:798BKCErtbYxKmASeZYy8O
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-hard-to-stop--doing-something-when-it-s-good-to-you--betty-wright
 lyrics_url: https://www.azlyrics.com/lyrics/bettywright/itshardtostopdoingsomethingwhenitsgoodtoyou.html
 name: It's Hard To Stop (Doing Something When It's Good To You)
@@ -31,8 +34,9 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1973-05-26'
+release_year: 1973
+runtime: 194213
 ---
-
 It's hard to stop doing something
 That's good to you, yeah, yeah
 It's hard to stop doing something
@@ -85,6 +89,3 @@ When the loving is good to you
 
 Oh, ho, it's hard to stop
 Hard to stop, yes, it is
-
-
-

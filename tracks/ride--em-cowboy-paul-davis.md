@@ -1,8 +1,11 @@
 ---
+album: Ride 'Em Cowboy
 artists:
 - Paul Davis
+external_ids:
+  spotify: spotify:track:3e0i0IjE6qBDiEexCiuzEL
 features: []
-genres: []
+first_released_as_single: false
 key: ride--em-cowboy-paul-davis
 lyrics_url: https://www.azlyrics.com/lyrics/pauldavis/rideemcowboy.html
 name: Ride 'em Cowboy
@@ -79,8 +82,9 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '1975-02-08'
+release_year: 1974
+runtime: 236213
 ---
-
 Traveling with the rodeo
 It's the only life I'll ever know
 I started in New Mexico
@@ -120,6 +124,3 @@ They used to tell me
 
 Traveling with the rodeo
 It's the only life I'll ever know
-
-
-

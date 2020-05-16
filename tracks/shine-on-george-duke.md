@@ -1,8 +1,11 @@
 ---
+album: Dream On (Bonus Track Version)
 artists:
 - George Duke
+external_ids:
+  spotify: spotify:track:7BOAXgaGfRDWwYbUqE5tuQ
 features: []
-genres: []
+first_released_as_single: false
 key: shine-on-george-duke
 lyrics_url: https://genius.com/George-duke-shine-on-annotated
 name: Shine On
@@ -43,6 +46,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1982-04-17'
+release_year: 1982
+runtime: 312680
 ---
 shine on
 with my baby

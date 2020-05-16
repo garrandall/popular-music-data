@@ -1,8 +1,11 @@
 ---
+album: The Human Condition
 artists:
 - Jon Bellion
+external_ids:
+  spotify: spotify:track:5wQRNkb7OhzJoT1P0OZ4Rw
 features: []
-genres: []
+first_released_as_single: true
 key: all-time-low-jon-bellion
 lyrics_url: https://genius.com/Jon-bellion-all-time-low-lyrics
 name: All Time Low
@@ -95,6 +98,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '2017-03-25'
+release_year: 2015
+runtime: 221333
 ---
 I was the knight in shining armor in your movie
 Would put your lips on mine and love the aftertaste

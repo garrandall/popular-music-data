@@ -1,8 +1,11 @@
 ---
+album: Swimming In Champagne
 artists:
 - Eric Heatherly
+external_ids:
+  spotify: spotify:track:38buCDomzeOx85MeoDJgQ7
 features: []
-genres: []
+first_released_as_single: false
 key: flowers-on-the-wall-eric-heatherly
 lyrics_url: https://genius.com/Eric-heatherly-flowers-on-the-wall-lyrics
 name: Flowers On The Wall
@@ -87,6 +90,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2000-09-09'
+release_year: 2000
+runtime: 209440
 ---
 I keep hearin' your concern about my happiness
 But all that thought you've given me is, conscience I guess

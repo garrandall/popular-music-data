@@ -1,8 +1,11 @@
 ---
+album: Live In Concert
 artists:
 - Steve Harley And Cockney Rebel
+external_ids:
+  spotify: spotify:track:4kmugHhByfRSofwxBQfnxB
 features: []
-genres: []
+first_released_as_single: false
 key: make-me-smile--come-up-and-see-me--steve-harley-and-cockney-rebel
 lyrics_url: https://genius.com/Steve-harley-and-cockney-rebel-come-up-and-see-me-make-me-smile-lyrics
 name: Make Me Smile (Come Up And See Me)
@@ -19,6 +22,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1976-03-13'
+release_year: 1976
+runtime: 73800
 ---
 You've done it all, you've broken every code
 And pulled the rebel to the floor

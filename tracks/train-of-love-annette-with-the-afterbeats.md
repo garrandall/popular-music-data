@@ -1,8 +1,11 @@
 ---
+album: The Singles & Albums Collection 1958-62
 artists:
 - Annette With The Afterbeats
+external_ids:
+  spotify: spotify:track:5NVjW8KwC5oPKl08Eobkkj
 features: []
-genres: []
+first_released_as_single: false
 key: train-of-love-annette-with-the-afterbeats
 name: Train Of Love
 rankings:
@@ -38,5 +41,7 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1960-07-25'
+release_year: 1960
+runtime: 163840
 ---
 

@@ -1,8 +1,11 @@
 ---
+album: Quentin's Theme
 artists:
 - The Charles Randolph Grean Sounde
+external_ids:
+  spotify: spotify:track:0GkUyetx2PbJONI4rusNmA
 features: []
-genres: []
+first_released_as_single: true
 key: quentin-s-theme-the-charles-randolph-grean-sounde
 name: Quentin's Theme
 rankings:
@@ -50,5 +53,7 @@ rankings:
   rank: 22
   ranking_list: Billboard Hot 100
   start_date: '1969-08-23'
+release_year: 1969
+runtime: 118788
 ---
 

@@ -1,8 +1,11 @@
 ---
+album: 'Paradise: The Sound Of Ivor Raymonde'
 artists:
 - Tom Jones
+external_ids:
+  spotify: spotify:track:4EGwrKtDGOIUjQOu3hGkHT
 features: []
-genres: []
+first_released_as_single: false
 key: little-lonely-one-tom-jones
 lyrics_url: https://genius.com/Tom-jones-little-lonely-one-lyrics
 name: Little Lonely One
@@ -43,6 +46,8 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '1965-07-24'
+release_year: 1965
+runtime: 155533
 ---
 If you give me just a little while
 I'll turn each tear drop to smile

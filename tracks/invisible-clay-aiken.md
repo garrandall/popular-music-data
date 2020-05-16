@@ -1,8 +1,11 @@
 ---
+album: 10th Anniversary - The Hits - Volume 1
 artists:
 - Clay Aiken
+external_ids:
+  spotify: spotify:track:5R4GotEm2RQtbxVvker0DE
 features: []
-genres: []
+first_released_as_single: false
 key: invisible-clay-aiken
 lyrics_url: https://genius.com/Clay-aiken-invisible-lyrics
 name: Invisible
@@ -87,6 +90,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2004-04-03'
+release_year: 2003
+runtime: 242213
 ---
 What you doing tonight?
 I wish I could be

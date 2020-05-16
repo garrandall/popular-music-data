@@ -1,8 +1,11 @@
 ---
+album: Oh, How It Hurts
 artists:
 - Barbara Mason
+external_ids:
+  spotify: spotify:track:0yDqOIrhtJAY2bndMXYprD
 features: []
-genres: []
+first_released_as_single: false
 key: if-you-don-t--love-me-tell-me-so--barbara-mason
 lyrics_url: https://genius.com/Barbara-mason-if-you-dont-love-me-tell-me-so-lyrics
 name: If You Don't (Love Me Tell Me So)
@@ -19,6 +22,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1965-11-20'
+release_year: 1965
+runtime: 186506
 ---
 If you really love me, baby
 Like you say you do

@@ -1,8 +1,11 @@
 ---
+album: Chubby's Folk Album
 artists:
 - Chubby Checker
+external_ids:
+  spotify: spotify:track:3jclaqA9iIKFlD6tDDaRuX
 features: []
-genres: []
+first_released_as_single: false
 key: hooka-tooka-chubby-checker
 lyrics_url: https://www.azlyrics.com/lyrics/chubbychecker/hookatooka.html
 name: Hooka Tooka
@@ -63,8 +66,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1964-03-07'
+release_year: 1963
+runtime: 138160
 ---
-
 Hooka Tooka my soda cracker
 Does your momma chaw tobacca
 If ya momma chaw tobacca, say
@@ -93,6 +97,3 @@ If ya momma chaw tobacca, say
 Hooka Tooka my soda cracker
 Hooka Tooka my soda cracker
 Hooka Tooka my soda cracker
-
-
-

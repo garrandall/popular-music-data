@@ -1,9 +1,12 @@
 ---
+album: The Evolution
 artists:
 - Ciara
+external_ids:
+  spotify: spotify:track:3rKCDtV8UcF0RytSiXxypc
 features:
 - Chamillionaire
-genres: []
+first_released_as_single: false
 key: get-up-ciara-chamillionaire
 lyrics_url: https://www.azlyrics.com/lyrics/ciara/getup.html
 name: Get Up
@@ -88,9 +91,9 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '2006-12-23'
+release_year: 2006
+runtime: 261880
 ---
-
-
 Ladies and gentlemen!
 Ciara
 
@@ -226,6 +229,3 @@ I got to have you baby
 I got to have you baby
 Uh, I feel it
 I got to have you baby
-
-
-

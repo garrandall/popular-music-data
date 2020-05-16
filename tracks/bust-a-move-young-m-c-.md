@@ -1,8 +1,11 @@
 ---
+album: Stone Cold Rhymin'
 artists:
 - Young M.C.
+external_ids:
+  spotify: spotify:track:3IeCYkdKI55mNMl2o4vX0k
 features: []
-genres: []
+first_released_as_single: false
 key: bust-a-move-young-m-c-
 lyrics_url: https://genius.com/Young-mc-bust-a-move-lyrics
 name: Bust A Move
@@ -163,6 +166,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1990-04-21'
+release_year: 1989
+runtime: 263914
 ---
 Bust it
 

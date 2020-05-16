@@ -1,8 +1,11 @@
 ---
+album: Greatest Hits
 artists:
 - Johnny Rivers
+external_ids:
+  spotify: spotify:track:4MIo5Zh9MkJbzC0aGygEGZ
 features: []
-genres: []
+first_released_as_single: false
 key: help-me-rhonda-johnny-rivers
 lyrics_url: https://www.azlyrics.com/lyrics/johnnyrivers/helpmerhonda.html
 name: Help Me Rhonda
@@ -47,8 +50,9 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '1975-09-13'
+release_year: 1975
+runtime: 173373
 ---
-
 Well, since she put me down
 I've been out doin' in my head
 I come in late at night
@@ -100,6 +104,3 @@ Help me, Rhonda, help, help me, Rhonda
 Help me, Rhonda, help, help me, Rhonda
 Help me, Rhonda, help, help me, Rhonda
 Help me, Rhonda, yeah, get her out of my heart
-
-
-

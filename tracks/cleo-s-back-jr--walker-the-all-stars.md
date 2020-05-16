@@ -1,9 +1,12 @@
 ---
+album: Shotgun
 artists:
 - Jr. Walker
 - The All Stars
+external_ids:
+  spotify: spotify:track:62yuifQgxQo0czn9Pt26po
 features: []
-genres: []
+first_released_as_single: false
 key: cleo-s-back-jr--walker-the-all-stars
 lyrics_url: https://genius.com/Jr-walker-and-the-all-stars-cleos-back-lyrics
 name: Cleo's Back
@@ -40,6 +43,8 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '1965-11-27'
+release_year: 1965
+runtime: 150760
 ---
 Cleo's back
 

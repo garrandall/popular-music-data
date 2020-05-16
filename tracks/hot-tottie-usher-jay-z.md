@@ -1,9 +1,12 @@
 ---
+album: Raymond v Raymond
 artists:
 - Usher
+external_ids:
+  spotify: spotify:track:1Vot6YSxInL52SGTN0XN9n
 features:
 - Jay-Z
-genres: []
+first_released_as_single: false
 key: hot-tottie-usher-jay-z
 lyrics_url: https://genius.com/Usher-hot-tottie-lyrics
 name: Hot Tottie
@@ -72,6 +75,8 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '2010-12-11'
+release_year: 2010
+runtime: 299333
 ---
 They call me King Hov, copy?
 They call me King Hov, copy?

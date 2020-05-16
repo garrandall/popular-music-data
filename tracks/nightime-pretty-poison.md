@@ -1,8 +1,11 @@
 ---
+album: Catch Me I'm Falling
 artists:
 - Pretty Poison
+external_ids:
+  spotify: spotify:track:4lBfaI3jJYCQpXEE7R1rRk
 features: []
-genres: []
+first_released_as_single: false
 key: nightime-pretty-poison
 lyrics_url: https://genius.com/Pretty-poison-nightime-spanish-mix-lyrics
 name: Nightime
@@ -55,6 +58,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1988-06-18'
+release_year: 1988
+runtime: 258026
 ---
 Oh yeah, está bien
 Esta noche

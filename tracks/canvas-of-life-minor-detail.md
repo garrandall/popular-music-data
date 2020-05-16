@@ -1,8 +1,11 @@
 ---
+album: Minor Detail
 artists:
 - Minor Detail
+external_ids:
+  spotify: spotify:track:4vp1ooSVHvf7DDmlSRfpJ4
 features: []
-genres: []
+first_released_as_single: false
 key: canvas-of-life-minor-detail
 lyrics_url: https://www.musixmatch.com/lyrics/Minor-Detail/Canvas-of-Life
 name: Canvas Of Life
@@ -15,6 +18,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1983-10-01'
+release_year: 1983
+runtime: 210445
 ---
 I used to be the kind of guy
 Who let this life pass him by

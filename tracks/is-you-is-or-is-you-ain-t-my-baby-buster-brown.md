@@ -1,8 +1,11 @@
 ---
+album: New King of the Blues
 artists:
 - Buster Brown
+external_ids:
+  spotify: spotify:track:0bx0V16DI84LURY0qPwFiL
 features: []
-genres: []
+first_released_as_single: true
 key: is-you-is-or-is-you-ain-t-my-baby-buster-brown
 lyrics_url: https://genius.com/Buster-brown-is-you-is-or-is-you-aint-my-baby-lyrics
 name: Is You Is Or Is You Ain't My Baby
@@ -19,17 +22,9 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1960-10-03'
+release_year: 1960
+runtime: 150786
 ---
-Is You Is Or Is You Ain't My Baby 2:30 Trk 8
-(L. Jordan)
-Buster Brown (Wayman Glasco)
-Buster Brown - harmonica & vocal
-Pop Chart #81 Sept 19, 1960
-Fire Records 1960
-Album: Buster Brown New King of Blues
-
-(instrumental & harmonica)
-
 Woo!
 Woo!
 
@@ -75,8 +70,4 @@ Woo!
 
 Woo!
 
-FADES-
-
 Baby, will have a brand new start
-
-~

@@ -1,8 +1,11 @@
 ---
+album: Honkytonkville
 artists:
 - George Strait
+external_ids:
+  spotify: spotify:track:1J02p0AlYptTfos2M3hLW6
 features: []
-genres: []
+first_released_as_single: false
 key: cowboys-like-us-george-strait
 lyrics_url: https://www.azlyrics.com/lyrics/georgestrait/cowboyslikeus.html
 name: Cowboys Like Us
@@ -83,8 +86,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2004-02-07'
+release_year: 2003
+runtime: 219160
 ---
-
 I take off time to time
 With those crazy friends of mine
 Head out on steel horses
@@ -112,6 +116,3 @@ And we roll
 
 
 Cowboys like us
-
-
-

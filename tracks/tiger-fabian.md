@@ -1,8 +1,11 @@
 ---
+album: Fabian Avalon
 artists:
 - Fabian
+external_ids:
+  spotify: spotify:track:0FTJE40z7UhPxdJOLiHQ0N
 features: []
-genres: []
+first_released_as_single: false
 key: tiger-fabian
 lyrics_url: https://genius.com/Fabian-tiger-lyrics
 name: Tiger
@@ -59,6 +62,8 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '1959-09-07'
+release_year: 1959
+runtime: 149520
 ---
 Hey, lumpa sugar, you look kinda sweet
 Cuter than a baby walkin' down the street

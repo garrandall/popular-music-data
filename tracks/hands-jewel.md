@@ -1,8 +1,11 @@
 ---
+album: Spirit
 artists:
 - Jewel
+external_ids:
+  spotify: spotify:track:12iERgT55LwVLtGni5WuKB
 features: []
-genres: []
+first_released_as_single: false
 key: hands-jewel
 lyrics_url: https://genius.com/Jewel-hands-lyrics
 name: Hands
@@ -71,6 +74,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1999-03-20'
+release_year: 1998
+runtime: 235000
 ---
 If I could tell the world just one thing
 It would be that we're all OK

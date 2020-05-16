@@ -1,8 +1,11 @@
 ---
+album: Disintegration
 artists:
 - The Cure
+external_ids:
+  spotify: spotify:track:4d4oXk7O2lEhZ83ivV93li
 features: []
-genres: []
+first_released_as_single: false
 key: lullaby-the-cure
 lyrics_url: https://genius.com/The-cure-lullaby-lyrics
 name: Lullaby
@@ -39,6 +42,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1990-01-20'
+release_year: 1989
+runtime: 249880
 ---
 I spy
 Something beginning with 'S'

@@ -1,9 +1,12 @@
 ---
+album: Time Well Wasted
 artists:
 - Brad Paisley
+external_ids:
+  spotify: spotify:track:3VLCtStwYsAL4LKZgeUvy3
 features:
 - Dolly Parton
-genres: []
+first_released_as_single: false
 key: when-i-get-where-i-m-going-brad-paisley-dolly-parton
 lyrics_url: https://genius.com/Brad-paisley-and-dolly-parton-when-i-get-where-im-going-lyrics
 name: When I Get Where I'm Going
@@ -88,6 +91,8 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '2006-04-15'
+release_year: 2005
+runtime: 247053
 ---
 When I get where I'm goin'
 On the far side of the sky

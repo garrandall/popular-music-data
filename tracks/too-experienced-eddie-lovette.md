@@ -1,8 +1,11 @@
 ---
+album: The Best Reggae Hits Vol. 1
 artists:
 - Eddie Lovette
+external_ids:
+  spotify: spotify:track:5fDM8NlEJkwn8TScgmunEa
 features: []
-genres: []
+first_released_as_single: false
 key: too-experienced-eddie-lovette
 lyrics_url: https://www.musixmatch.com/lyrics/Eddie-Lovette/Too-Experienced
 name: Too Experienced
@@ -19,6 +22,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1969-06-07'
+release_year: 1969
+runtime: 192493
 ---
 She hates the site of me,
 Because I turned her offer down.

@@ -1,8 +1,11 @@
 ---
+album: Back To Back
 artists:
 - The Jets
+external_ids:
+  spotify: spotify:track:23x0iKY1oRBQVM8ka2s2bF
 features: []
-genres: []
+first_released_as_single: false
 key: you-got-it-all-the-jets
 lyrics_url: https://genius.com/The-jets-group-you-got-it-all-lyrics
 name: You Got It All
@@ -111,6 +114,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1987-05-09'
+release_year: 1986
+runtime: 250933
 ---
 I
 I was a game he would play

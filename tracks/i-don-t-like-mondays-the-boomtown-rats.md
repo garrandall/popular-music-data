@@ -1,8 +1,11 @@
 ---
+album: The Fine Art Of Surfacing
 artists:
 - The Boomtown Rats
+external_ids:
+  spotify: spotify:track:7JFoeg0arawADjGcz9gBnq
 features: []
-genres: []
+first_released_as_single: false
 key: i-don-t-like-mondays-the-boomtown-rats
 lyrics_url: https://genius.com/The-boomtown-rats-i-dont-like-mondays-lyrics
 name: I Don't Like Mondays
@@ -27,6 +30,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1980-03-01'
+release_year: 1979
+runtime: 259093
 ---
 The silicon chip inside her head
 Gets switched to overload

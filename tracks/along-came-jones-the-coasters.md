@@ -1,8 +1,11 @@
 ---
+album: The Coasters
 artists:
 - The Coasters
+external_ids:
+  spotify: spotify:track:7q5AKHekbL3hpSlNvvSEm5
 features: []
-genres: []
+first_released_as_single: false
 key: along-came-jones-the-coasters
 lyrics_url: https://www.azlyrics.com/lyrics/coasters/alongcamejones.html
 name: Along Came Jones
@@ -55,8 +58,9 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1959-08-03'
+release_year: 1959
+runtime: 174960
 ---
-
 I flopped down in my easy chair and turned on channel 2
 A bad gunslinger called Salty Sam was a-chasin' poor sweet Sue
 He trapped her in the old sawmill and said with an evil laugh
@@ -106,6 +110,3 @@ Slow-walkin' Jones
 Slow-talkin' Jones
 Along came lonely, lanky Jones
 Along came lonely, lanky Jones
-
-
-

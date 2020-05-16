@@ -1,8 +1,11 @@
 ---
+album: Jars Of Clay
 artists:
 - Jars Of Clay
+external_ids:
+  spotify: spotify:track:4wSqP7Vo7HcoakudSMzxAO
 features: []
-genres: []
+first_released_as_single: false
 key: flood-jars-of-clay
 lyrics_url: https://www.azlyrics.com/lyrics/jarsofclay/flood.html
 name: Flood
@@ -83,8 +86,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1996-09-21'
+release_year: 1995
+runtime: 211666
 ---
-
 Rain, rain on my face
 It hasn't stopped raining for days
 My world is a flood
@@ -119,6 +123,3 @@ Lift me up - when I'm falling
 Lift me up - I'm weak and I'm dying
 Lift me up - I need you to hold me
 Lift me up - keep me from drowning again
-
-
-

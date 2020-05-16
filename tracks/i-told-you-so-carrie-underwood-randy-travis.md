@@ -1,9 +1,12 @@
 ---
+album: 'Greatest Hits: Decade #1- Stories Behind the Songs'
 artists:
 - Carrie Underwood
+external_ids:
+  spotify: spotify:track:0zDNTdX5LTgOFw8rBnh5LB
 features:
 - Randy Travis
-genres: []
+first_released_as_single: false
 key: i-told-you-so-carrie-underwood-randy-travis
 lyrics_url: https://genius.com/Carrie-underwood-i-told-you-so-duet-version-lyrics
 name: I Told You So
@@ -80,6 +83,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2009-06-27'
+release_year: 2009
+runtime: 74533
 ---
 Suppose I called you up tonight and told you that I love you
 And suppose I said I wanna come back home

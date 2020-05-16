@@ -1,9 +1,12 @@
 ---
+album: Coloring Book
 artists:
 - Chance The Rapper
+external_ids:
+  spotify: spotify:track:5IdQEHgtmj9th3OkfQKhf8
 features:
 - Ty Dolla $ign
-genres: []
+first_released_as_single: false
 key: blessings-chance-the-rapper-ty-dolla--ign
 lyrics_url: https://genius.com/Chance-the-rapper-blessings-reprise-lyrics
 name: Blessings
@@ -12,6 +15,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2016-06-04'
+release_year: 2016
+runtime: 230016
 ---
 I speak of promised lands
 Soil as soft as mama's hands

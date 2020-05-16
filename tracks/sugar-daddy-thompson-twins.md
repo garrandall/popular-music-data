@@ -1,8 +1,11 @@
 ---
+album: Big Trash
 artists:
 - Thompson Twins
+external_ids:
+  spotify: spotify:track:2UBz53vLAnxhLhoWdTdhRE
 features: []
-genres: []
+first_released_as_single: true
 key: sugar-daddy-thompson-twins
 lyrics_url: https://www.azlyrics.com/lyrics/thompsontwins/sugardaddy.html
 name: Sugar Daddy
@@ -55,8 +58,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1989-12-09'
+release_year: 1989
+runtime: 462533
 ---
-
 Well you're all grown up and lookin' good
 Been painting your face like a geisha would
 Been practising the art of treachery
@@ -105,6 +109,3 @@ Yeah yeah yeah
 Yeah yeah yeah
 But you gonna pay
 You're gonna pay Sugar Daddy's price
-
-
-

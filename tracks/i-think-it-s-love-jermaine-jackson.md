@@ -1,8 +1,11 @@
 ---
+album: Precious Moments
 artists:
 - Jermaine Jackson
+external_ids:
+  spotify: spotify:track:4UEIyuKqxfhsAFIttflI9f
 features: []
-genres: []
+first_released_as_single: false
 key: i-think-it-s-love-jermaine-jackson
 lyrics_url: https://genius.com/Jermaine-jackson-i-think-its-love-lyrics
 name: I Think It's Love
@@ -67,6 +70,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1986-05-31'
+release_year: 1986
+runtime: 233453
 ---
 I'm a greedy lover for lovin'
 Only for you

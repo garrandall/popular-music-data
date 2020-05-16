@@ -1,8 +1,11 @@
 ---
+album: Crazy From The Heat
 artists:
 - David Lee Roth
+external_ids:
+  spotify: spotify:track:4H3vuLX59XPqdtTpIesGyS
 features: []
-genres: []
+first_released_as_single: true
 key: california-girls-david-lee-roth
 lyrics_url: https://www.azlyrics.com/lyrics/davidleeroth/californiagirls.html
 name: California Girls
@@ -71,8 +74,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1985-05-04'
+release_year: 1985
+runtime: 171826
 ---
-
 Well, east coast girls are hip
 I really dig those styles they wear
 And the southern girls, with the way they talk
@@ -112,6 +116,3 @@ Hey, hey, hey (Girls, girls, girls, yeah I dig the girls)
 I wish they all could be California
 California Girls (Girls, girls, girls, yeah I dig the girls)
 I wish they all could be California
-
-
-

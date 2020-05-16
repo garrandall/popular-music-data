@@ -1,8 +1,11 @@
 ---
+album: Man of the Woods
 artists:
 - Justin Timberlake
+external_ids:
+  spotify: spotify:track:1L3NV7VrCiuE8C5QlhdeQL
 features: []
-genres: []
+first_released_as_single: true
 key: filthy-justin-timberlake
 lyrics_url: https://www.azlyrics.com/lyrics/justintimberlake/filthy.html
 name: Filthy
@@ -31,8 +34,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2018-02-24'
+release_year: 2018
+runtime: 293946
 ---
-
 Hey
 If you know what's good
 (If you know what's good)
@@ -123,6 +127,3 @@ Can you find me?
 Look closer
 Through the trees
 Do you see it?
-
-
-

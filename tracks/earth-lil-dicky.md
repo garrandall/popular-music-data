@@ -1,8 +1,11 @@
 ---
+album: Earth
 artists:
 - Lil Dicky
+external_ids:
+  spotify: spotify:track:1ITG4flAsRCUuqD2sUE2oL
 features: []
-genres: []
+first_released_as_single: true
 key: earth-lil-dicky
 lyrics_url: https://www.azlyrics.com/lyrics/lildicky/earth.html
 name: Earth
@@ -31,9 +34,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2019-06-08'
+release_year: 2019
+runtime: 281572
 ---
-
-
 What up, world? It's your boy, just one of the guys down here. Well, I could be more specific. Uh, I'm a human, and I just wanted to, you know, for the sake of all of us earthlings out there, just wanted to say:
 
 
@@ -229,6 +232,3 @@ We love the Earth, it is our home
 
 
 (Guys, thank you so much)
-
-
-

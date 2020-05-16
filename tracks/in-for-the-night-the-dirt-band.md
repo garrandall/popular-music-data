@@ -1,8 +1,11 @@
 ---
+album: Dirt Band
 artists:
 - The Dirt Band
+external_ids:
+  spotify: spotify:track:3klgM4azrZNgZ0bsZ7G5I2
 features: []
-genres: []
+first_released_as_single: false
 key: in-for-the-night-the-dirt-band
 lyrics_url: https://genius.com/The-nitty-gritty-dirt-band-in-for-the-night-lyrics
 name: In For The Night
@@ -19,6 +22,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1978-09-16'
+release_year: 1978
+runtime: 214440
 ---
 Stare up at me, momma, like ya used to
 Weather's kind of cold but I don't care

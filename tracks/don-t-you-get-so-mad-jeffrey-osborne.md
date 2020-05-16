@@ -1,8 +1,11 @@
 ---
+album: Stay With Me Tonight
 artists:
 - Jeffrey Osborne
+external_ids:
+  spotify: spotify:track:3TMzIOvIUDFKmHVx4cP0x2
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-you-get-so-mad-jeffrey-osborne
 lyrics_url: https://genius.com/Jeffrey-osborne-dont-you-get-so-mad-lyrics
 name: Don't You Get So Mad
@@ -63,6 +66,8 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1983-10-15'
+release_year: 1983
+runtime: 231173
 ---
 We were having such a good time, baby
 Oh, yes, we were

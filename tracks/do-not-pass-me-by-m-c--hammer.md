@@ -1,8 +1,11 @@
 ---
+album: Too Legit To Quit
 artists:
 - M.C. Hammer
+external_ids:
+  spotify: spotify:track:1Q5JAMGJaqP3wvKvTqduHY
 features: []
-genres: []
+first_released_as_single: false
 key: do-not-pass-me-by-m-c--hammer
 lyrics_url: https://genius.com/Mc-hammer-do-not-pass-me-by-lyrics
 name: Do Not Pass Me By
@@ -39,6 +42,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1992-05-02'
+release_year: 1991
+runtime: 331093
 ---
 I just don't want it to pass me by
 

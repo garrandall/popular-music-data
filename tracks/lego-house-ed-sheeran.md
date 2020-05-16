@@ -1,8 +1,11 @@
 ---
+album: +
 artists:
 - Ed Sheeran
+external_ids:
+  spotify: spotify:track:1u3FMEh3u14smbxY1XZc4S
 features: []
-genres: []
+first_released_as_single: true
 key: lego-house-ed-sheeran
 lyrics_url: https://www.azlyrics.com/lyrics/edsheeran/legohouse.html
 name: Lego House
@@ -71,8 +74,9 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '2013-07-27'
+release_year: 2011
+runtime: 221010
 ---
-
 I'm gonna pick up the pieces and build a Lego house
 If things go wrong we can knock it down
 My three words have two meanings but there's one thing on my mind
@@ -126,6 +130,3 @@ And out of all these things I've done I think I love you better now
 I'm out of touch, I'm out of love
 I'll pick you up when you're getting down
 And out of all these things I've done I will love you better now
-
-
-

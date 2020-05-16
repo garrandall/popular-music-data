@@ -1,8 +1,11 @@
 ---
+album: 'Buddy: The Buddy Holly Story (Original London Cast Recording)'
 artists:
 - Buddy Holly
+external_ids:
+  spotify: spotify:track:2gZDzVzK9JbWsOrIzUliD4
 features: []
-genres: []
+first_released_as_single: false
 key: heartbeat-buddy-holly
 lyrics_url: https://www.azlyrics.com/lyrics/buddyholly/heartbeat.html
 name: Heartbeat
@@ -23,8 +26,9 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1959-01-19'
+release_year: 1958
+runtime: 129533
 ---
-
 Heartbeat
 Why do you miss when my baby kisses me?
 Heartbeat
@@ -48,6 +52,3 @@ And bring to me love's glory
 
 Heartbeat
 Why do you miss when my baby kisses me?
-
-
-

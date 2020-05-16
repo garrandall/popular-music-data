@@ -1,9 +1,12 @@
 ---
+album: '''80s Pop Hits'
 artists:
 - Dan Hill
 - Vonda Shepard
+external_ids:
+  spotify: spotify:track:0x1RspO36DgmXbZ9XmxvsN
 features: []
-genres: []
+first_released_as_single: false
 key: can-t-we-try-dan-hill-vonda-shepard
 lyrics_url: https://genius.com/Dan-hill-and-vonda-shepard-cant-we-try-lyrics
 name: Can't We Try
@@ -104,6 +107,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1987-11-14'
+release_year: 1987
+runtime: 239666
 ---
 I see your face cloud over like a little girl's
 And your eyes have lost their shine

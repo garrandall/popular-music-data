@@ -1,8 +1,11 @@
 ---
+album: Mary
 artists:
 - Mary J. Blige
+external_ids:
+  spotify: spotify:track:2rOrfNp466dn28CP01eVCa
 features: []
-genres: []
+first_released_as_single: false
 key: give-me-you-mary-j--blige
 lyrics_url: https://genius.com/Mary-j-blige-give-me-you-lyrics
 name: Give Me You
@@ -43,6 +46,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2000-06-17'
+release_year: 1999
+runtime: 305160
 ---
 I don't ask for too many things
 Only one thing I really need

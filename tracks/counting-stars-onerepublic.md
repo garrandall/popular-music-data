@@ -1,8 +1,11 @@
 ---
+album: Native
 artists:
 - OneRepublic
+external_ids:
+  spotify: spotify:track:6sy3LkhNFjJWlaeSMNwQ62
 features: []
-genres: []
+first_released_as_single: false
 key: counting-stars-onerepublic
 lyrics_url: https://genius.com/Onerepublic-counting-stars-lyrics
 name: Counting Stars
@@ -279,6 +282,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2014-10-18'
+release_year: 2013
+runtime: 257839
 ---
 Lately, I've been, I've been losing sleep
 Dreaming about the things that we could be

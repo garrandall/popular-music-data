@@ -1,8 +1,11 @@
 ---
+album: Legend
 artists:
 - Poco
+external_ids:
+  spotify: spotify:track:4l6uTQ4A2eWZrOzjgm1bey
 features: []
-genres: []
+first_released_as_single: false
 key: crazy-love-poco
 lyrics_url: https://genius.com/Poco-crazy-love-lyrics
 name: Crazy Love
@@ -63,6 +66,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1979-04-21'
+release_year: 1978
+runtime: 176800
 ---
 Tonight I'm gonna break away
 Just you wait and see

@@ -1,8 +1,11 @@
 ---
+album: Don't Disturb This Groove
 artists:
 - The System
+external_ids:
+  spotify: spotify:track:6GAn3ar2CL8wUg0MbICZvp
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-disturb-this-groove-the-system
 lyrics_url: https://genius.com/The-system-dont-disturb-this-groove-lyrics
 name: Don't Disturb This Groove
@@ -91,6 +94,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1987-08-29'
+release_year: 1987
+runtime: 317874
 ---
 I'm in Heaven
 Listen

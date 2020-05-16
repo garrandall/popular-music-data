@@ -1,8 +1,11 @@
 ---
+album: Do you Believe In Magic
 artists:
 - The Lovin' Spoonful
+external_ids:
+  spotify: spotify:track:26Y0BO1IsZVctCrGRIcip1
 features: []
-genres: []
+first_released_as_single: false
 key: did-you-ever-have-to-make-up-your-mind--the-lovin--spoonful
 lyrics_url: https://www.azlyrics.com/lyrics/lovinspoonful/didyoueverhavetomakeupyourmind.html
 name: Did You Ever Have To Make Up Your Mind?
@@ -51,8 +54,9 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1966-07-16'
+release_year: 1965
+runtime: 118453
 ---
-
 Did you ever have to make up your mind?
 Pick up on one and leave the other one behind
 It's not often easy, and not often kind
@@ -80,6 +84,3 @@ Then you bet you'd better finally decide!
 And say yes to one and let the other one ride
 There's so many changes, and tears you must hide
 Did you ever have to finally decide?
-
-
-

@@ -1,9 +1,12 @@
 ---
+album: The Fame
 artists:
 - Lady Gaga
+external_ids:
+  spotify: spotify:track:2x7MyWybabEz6Y6wvHuwGE
 features:
 - Colby O'Donis
-genres: []
+first_released_as_single: false
 key: just-dance-lady-gaga-colby-o-donis
 lyrics_url: https://genius.com/Lady-gaga-just-dance-lyrics
 name: Just Dance
@@ -204,6 +207,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2009-07-25'
+release_year: 2008
+runtime: 241933
 ---
 RedOne
 Konvict

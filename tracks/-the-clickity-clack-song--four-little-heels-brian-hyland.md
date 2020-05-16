@@ -1,8 +1,11 @@
 ---
+album: Chronology
 artists:
 - Brian Hyland
+external_ids:
+  spotify: spotify:track:0a63HKGXMQzxC7P5AXwOrO
 features: []
-genres: []
+first_released_as_single: false
 key: -the-clickity-clack-song--four-little-heels-brian-hyland
 lyrics_url: https://www.musixmatch.com/lyrics/Brian-Hyland/Four-Little-Heels-The-Clickety-Clack-Song
 name: (The Clickity Clack Song) Four Little Heels
@@ -19,6 +22,8 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '1960-10-24'
+release_year: 1960
+runtime: 121306
 ---
 (Clickety clack)
 

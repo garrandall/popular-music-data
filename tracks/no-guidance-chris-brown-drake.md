@@ -1,9 +1,12 @@
 ---
+album: Indigo
 artists:
 - Chris Brown
+external_ids:
+  spotify: spotify:track:7FEwp8BavoEVE3AnxJDchc
 features:
 - Drake
-genres: []
+first_released_as_single: true
 key: no-guidance-chris-brown-drake
 lyrics_url: https://www.azlyrics.com/lyrics/chrisbrown/noguidance.html
 name: No Guidance
@@ -168,8 +171,9 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '2020-03-21'
+release_year: 2019
+runtime: 260640
 ---
-
 Before I die I'm tryna fuck you, baby
 Hopefully we don't have no babies
 I don't even wanna go back home
@@ -254,6 +258,3 @@ I don't wanna play no games, play no games
 
 I don't, I don't
 No
-
-
-

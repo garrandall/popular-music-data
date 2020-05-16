@@ -1,8 +1,11 @@
 ---
+album: White Gold
 artists:
 - Love Unlimited Orchestra
+external_ids:
+  spotify: spotify:track:2uh4xWYmi6FRaoZqmj8SaF
 features: []
-genres: []
+first_released_as_single: false
 key: satin-soul-love-unlimited-orchestra
 lyrics_url: https://www.musixmatch.com/lyrics/The-Love-Unlimited-Orchestra-2/Satin-Soul
 name: Satin Soul
@@ -55,6 +58,8 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1975-04-26'
+release_year: 1974
+runtime: 254960
 ---
 Am I a man who knows how to love
 When you hate what you fear the most here

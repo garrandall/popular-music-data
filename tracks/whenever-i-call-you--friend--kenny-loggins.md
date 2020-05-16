@@ -1,8 +1,11 @@
 ---
+album: Nightwatch
 artists:
 - Kenny Loggins
+external_ids:
+  spotify: spotify:track:5NCY3uTCovd93aqwbodUhm
 features: []
-genres: []
+first_released_as_single: false
 key: whenever-i-call-you--friend--kenny-loggins
 lyrics_url: https://www.azlyrics.com/lyrics/kennyloggins/whenevericallyoufriend.html
 name: Whenever I Call You "Friend"
@@ -87,8 +90,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1978-12-09'
+release_year: 1978
+runtime: 237826
 ---
-
 Whenever I call you "Friend"
 I begin to think I understand
 Anywhere we are
@@ -145,6 +149,3 @@ I know forever we'll be doin' it, doin' it, doin' it
 Sweet love, sweet love
 You're the glowin' light in my life
 Source of pride in my life
-
-
-

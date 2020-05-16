@@ -1,9 +1,12 @@
 ---
+album: R.O.O.T.S. (Route of Overcoming the Struggle)
 artists:
 - Flo Rida
+external_ids:
+  spotify: spotify:track:0xwWgANkivEPqyPBiYXbzi
 features:
 - Pleasure P
-genres: []
+first_released_as_single: false
 key: shone-flo-rida-pleasure-p
 lyrics_url: https://www.azlyrics.com/lyrics/florida/shone.html
 name: Shone
@@ -12,8 +15,9 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '2009-03-14'
+release_year: 2009
+runtime: 253253
 ---
-
 You can be my shone
 
 Heyyyy
@@ -94,6 +98,3 @@ Heyyy (You can be my shone, you can be my shone)
 You can be my, you can be my - we shonin'
 Baby you can be my action
 You can be my - whoaaa
-
-
-

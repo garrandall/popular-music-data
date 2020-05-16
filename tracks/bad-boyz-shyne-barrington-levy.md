@@ -1,9 +1,12 @@
 ---
+album: Shyne
 artists:
 - Shyne
+external_ids:
+  spotify: spotify:track:2MNQMtZbOb7rBWli3TSok0
 features:
 - Barrington Levy
-genres: []
+first_released_as_single: false
 key: bad-boyz-shyne-barrington-levy
 lyrics_url: https://genius.com/Shyne-f-barrington-levy-bad-boyz-lyrics
 name: Bad Boyz
@@ -68,6 +71,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2000-12-16'
+release_year: 2000
+runtime: 228906
 ---
 Shyne F/ Barrington Levy
 Miscellaneous

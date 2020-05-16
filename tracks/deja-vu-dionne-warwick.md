@@ -1,8 +1,11 @@
 ---
+album: Dionne
 artists:
 - Dionne Warwick
+external_ids:
+  spotify: spotify:track:2AOunLYKGvwya5xDfFxiFj
 features: []
-genres: []
+first_released_as_single: false
 key: deja-vu-dionne-warwick
 lyrics_url: https://www.musixmatch.com/lyrics/Dionne-Warwick/Deja-Vu
 name: Deja Vu
@@ -83,6 +86,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1980-03-15'
+release_year: 1979
+runtime: 304986
 ---
 This is insane
 All you did was say hello

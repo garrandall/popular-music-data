@@ -1,8 +1,11 @@
 ---
+album: More Life
 artists:
 - Drake
+external_ids:
+  spotify: spotify:track:5mCPDVBb16L4XQwDdbRUpz
 features: []
-genres: []
+first_released_as_single: false
 key: passionfruit-drake
 lyrics_url: https://www.azlyrics.com/lyrics/drake/passionfruit.html
 name: Passionfruit
@@ -87,9 +90,9 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '2017-08-19'
+release_year: 2017
+runtime: 298940
 ---
-
-
 Hold on, hold on, fuck that
 Fuck that shit
 Hold on, I got to start this mothafuckin' record over again, wait a minute
@@ -133,6 +136,3 @@ I can't blame you, no, no
 
 
 Trying to think of the right thing to say
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Parachutes
 artists:
 - Coldplay
+external_ids:
+  spotify: spotify:track:3e0wYnFxkqinmtXebYPMSt
 features: []
-genres: []
+first_released_as_single: true
 key: yellow-coldplay
 lyrics_url: https://www.azlyrics.com/lyrics/coldplay/yellow.html
 name: Yellow
@@ -87,8 +90,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2001-07-21'
+release_year: 2000
+runtime: 266773
 ---
-
 Look at the stars
 Look how they shine for you
 And everything you do
@@ -138,6 +142,3 @@ Look how they shine
 Look at the stars
 Look how they shine for you
 And all the things that you do
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Audioslave
 artists:
 - Audioslave
+external_ids:
+  spotify: spotify:track:3YuaBvuZqcwN3CEAyyoaei
 features: []
-genres: []
+first_released_as_single: false
 key: like-a-stone-audioslave
 lyrics_url: https://www.azlyrics.com/lyrics/audioslave/likeastone.html
 name: Like A Stone
@@ -87,8 +90,9 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '2003-07-12'
+release_year: 2002
+runtime: 293960
 ---
-
 On a cobweb afternoon in a room full of emptiness
 By a freeway, I confess I was lost in the pages
 Of a book full of death, reading how we'll die alone
@@ -118,6 +122,3 @@ In your house I long to be
 Room by room, patiently
 I'll wait for you there like a stone
 I'll wait for you there alone, alone
-
-
-

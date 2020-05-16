@@ -1,8 +1,11 @@
 ---
+album: Twelve Dreams Of Dr. Sardonicus
 artists:
 - Spirit
+external_ids:
+  spotify: spotify:track:6irIqeLIhGTo2C5tIJbMua
 features: []
-genres: []
+first_released_as_single: false
 key: mr-skin-spirit
 lyrics_url: https://genius.com/Spirit-mr-skin-lyrics
 name: Mr Skin
@@ -15,6 +18,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1973-10-27'
+release_year: 1970
+runtime: 240160
 ---
 I raise my head in a touchy situation
 (Mr. Skin you know where you've been)

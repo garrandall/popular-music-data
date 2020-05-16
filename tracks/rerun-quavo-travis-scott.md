@@ -1,9 +1,12 @@
 ---
+album: QUAVO HUNCHO
 artists:
 - Quavo
+external_ids:
+  spotify: spotify:track:0JYAsQJWIuaYUvZGF1qapT
 features:
 - Travis Scott
-genres: []
+first_released_as_single: false
 key: rerun-quavo-travis-scott
 lyrics_url: https://www.azlyrics.com/lyrics/quavo/rerun.html
 name: Rerun
@@ -12,9 +15,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2018-10-27'
+release_year: 2018
+runtime: 236947
 ---
-
-
 This nigga man
 Yah, yeahhh
 Oh, uh oh, yeah yeah
@@ -89,6 +92,3 @@ She like it (she like), I'm swipin' (swipe)
 Ice bitin' (yah), she dykin' (dyke), yeah, yeah
 I had to come right back like double back and rerun
 I had to come right back like double back and rerun
-
-
-

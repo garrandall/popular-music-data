@@ -1,8 +1,11 @@
 ---
+album: Charmbracelet
 artists:
 - Mariah Carey
+external_ids:
+  spotify: spotify:track:0mvtBgpiAg6fPg7ec7lxE9
 features: []
-genres: []
+first_released_as_single: false
 key: through-the-rain-mariah-carey
 lyrics_url: https://www.musixmatch.com/lyrics/Mariah-Carey/Through-the-Rain
 name: Through The Rain
@@ -43,6 +46,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2003-03-08'
+release_year: 2002
+runtime: 288640
 ---
 When you are caught in the rain
 With nowere to run

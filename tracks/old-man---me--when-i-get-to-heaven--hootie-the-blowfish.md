@@ -1,8 +1,11 @@
 ---
+album: Cracked Rear View
 artists:
 - Hootie and The Blowfish
+external_ids:
+  spotify: spotify:track:6kbrCv0lGLSdDL9p6HB622
 features: []
-genres: []
+first_released_as_single: false
 key: old-man---me--when-i-get-to-heaven--hootie-the-blowfish
 lyrics_url: https://www.azlyrics.com/lyrics/hootietheblowfish/oldmanme.html
 name: Old Man & Me (When I Get To Heaven)
@@ -87,8 +90,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1996-09-07'
+release_year: 1994
+runtime: 268546
 ---
-
 Well an old man said to me
 In a voice filled with pain
 Where you going young man
@@ -145,6 +149,3 @@ But her love for me
 Made me hate myself
 So just let her be boy
 Won't you let her be
-
-
-

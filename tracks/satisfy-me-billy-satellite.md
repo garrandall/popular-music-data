@@ -1,8 +1,11 @@
 ---
+album: Billy Satellite
 artists:
 - Billy Satellite
+external_ids:
+  spotify: spotify:track:3taPq5NfPwyHv9sTllex4I
 features: []
-genres: []
+first_released_as_single: false
 key: satisfy-me-billy-satellite
 lyrics_url: https://www.musixmatch.com/lyrics/Billy-Satellite/Satisfy-Me
 name: Satisfy Me
@@ -31,6 +34,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1984-09-22'
+release_year: 1984
+runtime: 221826
 ---
 Baby, when you gonna satisfy me
 Baby, when you gonna satisfy me

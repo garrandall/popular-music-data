@@ -1,8 +1,11 @@
 ---
+album: Now You See Me... Now You Don't
 artists:
 - Cliff Richard
+external_ids:
+  spotify: spotify:track:0N2Kmzq6kwUmvL4lwIYk6s
 features: []
-genres: []
+first_released_as_single: false
 key: the-only-way-out-cliff-richard
 lyrics_url: https://www.azlyrics.com/lyrics/cliffrichard/theonlywayout.html
 name: The Only Way Out
@@ -35,8 +38,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1982-11-20'
+release_year: 1982
+runtime: 204613
 ---
-
 Came a time in my life
 I had to be free
 From all the lies
@@ -77,6 +81,3 @@ And it's you
 
 Yeah the only way out is the only way in
 And it's you
-
-
-

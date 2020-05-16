@@ -1,8 +1,11 @@
 ---
+album: Ideal
 artists:
 - Ideal
+external_ids:
+  spotify: spotify:track:0CofintZCm8MhxiOMrauiT
 features: []
-genres: []
+first_released_as_single: false
 key: get-gone-ideal
 lyrics_url: https://genius.com/Ideal-get-gone-lyrics
 name: Get Gone
@@ -95,6 +98,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '2000-01-15'
+release_year: 1999
+runtime: 275173
 ---
 Hey, come in here for a minute
 Sit down

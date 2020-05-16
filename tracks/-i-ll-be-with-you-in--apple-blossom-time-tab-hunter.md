@@ -1,8 +1,11 @@
 ---
+album: Your Pop - Tastic! Collection, Vol.3
 artists:
 - Tab Hunter
+external_ids:
+  spotify: spotify:track:7p4NwdRBX4tbBaQBRZXnTM
 features: []
-genres: []
+first_released_as_single: false
 key: -i-ll-be-with-you-in--apple-blossom-time-tab-hunter
 lyrics_url: https://genius.com/Tab-hunter-ill-be-with-you-in-apple-blossom-time-lyrics
 name: (I'll Be With You In) Apple Blossom Time
@@ -51,6 +54,8 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '1959-04-13'
+release_year: 1959
+runtime: 130759
 ---
 I'll be with you in apple blossom time
 I'll be with you and change your name to mine

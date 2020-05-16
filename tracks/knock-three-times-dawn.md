@@ -1,8 +1,11 @@
 ---
+album: Candida
 artists:
 - Dawn
+external_ids:
+  spotify: spotify:track:5eieTS268veCXyZoLoy7eP
 features: []
-genres: []
+first_released_as_single: false
 key: knock-three-times-dawn
 lyrics_url: https://genius.com/The-dawn-knock-three-times-lyrics
 name: Knock Three Times
@@ -79,6 +82,8 @@ rankings:
   rank: 34
   ranking_list: Billboard Hot 100
   start_date: '1971-03-20'
+release_year: 1970
+runtime: 177173
 ---
 Hey, girl, whatcha doin' down there?
 Dancing alone every night while I live right above you

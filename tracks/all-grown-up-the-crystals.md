@@ -1,8 +1,11 @@
 ---
+album: The Phil Spector Collection
 artists:
 - The Crystals
+external_ids:
+  spotify: spotify:track:3Ig7pAcQ36hdgNgYce2gfR
 features: []
-genres: []
+first_released_as_single: false
 key: all-grown-up-the-crystals
 lyrics_url: https://genius.com/The-crystals-all-grown-up-lyrics
 name: All Grown Up
@@ -11,6 +14,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1964-08-01'
+release_year: 1964
+runtime: 168933
 ---
 Well I'm all grown up
 Ain't no baby no more

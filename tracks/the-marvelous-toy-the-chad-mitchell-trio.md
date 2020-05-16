@@ -1,8 +1,11 @@
 ---
+album: Singin' Our Mind
 artists:
 - The Chad Mitchell Trio
+external_ids:
+  spotify: spotify:track:52bcEYQJw8ovimKIGv3QHH
 features: []
-genres: []
+first_released_as_single: false
 key: the-marvelous-toy-the-chad-mitchell-trio
 lyrics_url: https://www.musixmatch.com/lyrics/Chad-Mitchell-Trio/The-Marvelous-Toy
 name: The Marvelous Toy
@@ -43,6 +46,8 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '1964-01-25'
+release_year: 1963
+runtime: 166826
 ---
 When I was just a wee little lad full of health and joy.
 My father homeward came one night and gave to me a toy.

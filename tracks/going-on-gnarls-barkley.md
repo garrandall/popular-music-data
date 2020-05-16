@@ -1,8 +1,11 @@
 ---
+album: The Odd Couple
 artists:
 - Gnarls Barkley
+external_ids:
+  spotify: spotify:track:6N7YkCy1oSMRsaZSoz5VlS
 features: []
-genres: []
+first_released_as_single: false
 key: going-on-gnarls-barkley
 lyrics_url: https://genius.com/Gnarls-barkley-going-on-lyrics
 name: Going On
@@ -11,6 +14,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2008-04-05'
+release_year: 2008
+runtime: 174040
 ---
 I've seen it with my own eyes
 How we're getting otherwise, without the luxury of leaving

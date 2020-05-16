@@ -1,8 +1,11 @@
 ---
+album: Fly Like An Eagle
 artists:
 - Steve Miller
+external_ids:
+  spotify: spotify:track:3sHKsgEHvFjX94g48KlT92
 features: []
-genres: []
+first_released_as_single: false
 key: fly-like-an-eagle-steve-miller
 lyrics_url: https://genius.com/Steve-miller-band-fly-like-an-eagle-lyrics
 name: Fly Like An Eagle
@@ -87,6 +90,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1977-04-30'
+release_year: 1973
+runtime: 284325
 ---
 (Tick tock tick) Doo doo doo-doo
 (Tick tock tick) Doo doo doo-doo

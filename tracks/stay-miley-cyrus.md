@@ -1,8 +1,11 @@
 ---
+album: Can't Be Tamed
 artists:
 - Miley Cyrus
+external_ids:
+  spotify: spotify:track:0Ohi2pjBS1yak2BSgJRaIs
 features: []
-genres: []
+first_released_as_single: false
 key: stay-miley-cyrus
 lyrics_url: https://genius.com/Miley-cyrus-stay-lyrics
 name: Stay
@@ -11,6 +14,8 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '2010-07-10'
+release_year: 2010
+runtime: 261906
 ---
 Well, it's good to hear your voice
 I hope you're doing fine

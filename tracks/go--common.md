@@ -1,8 +1,11 @@
 ---
+album: Be
 artists:
 - Common
+external_ids:
+  spotify: spotify:track:4JNTpbntShpUpACDUzwHV5
 features: []
-genres: []
+first_released_as_single: false
 key: go--common
 lyrics_url: https://genius.com/Common-go-lyrics
 name: Go!
@@ -31,6 +34,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2005-08-13'
+release_year: 2005
+runtime: 224160
 ---
 (Go) go, go, go, go, go and on the count of three
 (Go) go, go, go, go, go and on the count of three

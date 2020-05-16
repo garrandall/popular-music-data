@@ -1,8 +1,11 @@
 ---
+album: These Heaux
 artists:
 - Bhad Bhabie
+external_ids:
+  spotify: spotify:track:6SUxrwVN19Kmd9JfIbjJUj
 features: []
-genres: []
+first_released_as_single: true
 key: these-heaux-bhad-bhabie
 lyrics_url: https://www.azlyrics.com/lyrics/bhadbhabie/theseheaux.html
 name: These Heaux
@@ -19,8 +22,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2017-10-07'
+release_year: 2017
+runtime: 140007
 ---
-
 I ain't nothin' like these hoes (no)
 Don't compare me to no one (don't do it)
 Money green like a Ceelo (yup)
@@ -85,6 +89,3 @@ Yeah, my pocket so swollen
 
 Look
 Mondo Fresh
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: The Marshall Mathers LP2
 artists:
 - Eminem
+external_ids:
+  spotify: spotify:track:6r027Faonff84hxFMjMbIH
 features: []
-genres: []
+first_released_as_single: true
 key: rap-god-eminem
 lyrics_url: https://genius.com/Eminem-rap-god-lyrics
 name: Rap God
@@ -87,6 +90,8 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '2014-03-15'
+release_year: 2013
+runtime: 363973
 ---
 "Look, I was gonna go easy on you not to hurt your feelings."
 "But I'm only going to get this one chance." (Six minutes— Six minutes—)

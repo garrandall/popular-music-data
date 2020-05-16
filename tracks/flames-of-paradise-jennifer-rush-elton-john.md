@@ -1,9 +1,12 @@
 ---
+album: Stronghold - The Collector's Hit Box
 artists:
 - Jennifer Rush
 - Elton John
+external_ids:
+  spotify: spotify:track:394pkxGNi9boN5zDxJsCsH
 features: []
-genres: []
+first_released_as_single: false
 key: flames-of-paradise-jennifer-rush-elton-john
 lyrics_url: https://genius.com/Jennifer-rush-with-elton-john-flames-of-paradise-lyrics
 name: Flames Of Paradise
@@ -60,6 +63,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1987-08-08'
+release_year: 1987
+runtime: 282933
 ---
 You're walking, talking like a flame, baby
 You're walking, talking like a flame, baby

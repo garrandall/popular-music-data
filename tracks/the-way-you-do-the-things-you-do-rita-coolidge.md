@@ -1,8 +1,11 @@
 ---
+album: Anytime... Anywhere
 artists:
 - Rita Coolidge
+external_ids:
+  spotify: spotify:track:7cRioMuuOoe8rwcqvsM4pD
 features: []
-genres: []
+first_released_as_single: false
 key: the-way-you-do-the-things-you-do-rita-coolidge
 lyrics_url: https://www.azlyrics.com/lyrics/ritacoolidge/thewayyoudothethingsyoudo.html
 name: The Way You Do The Things You Do
@@ -51,8 +54,9 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1978-03-25'
+release_year: 1977
+runtime: 217373
 ---
-
 You got a smile so bright
 You know you could have been a candle
 I'm holding you so tight
@@ -106,6 +110,3 @@ I can tell
 The way you do the things you do
 
 Well you could have been
-
-
-

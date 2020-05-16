@@ -1,8 +1,11 @@
 ---
+album: Really
 artists:
 - J.J. Cale
+external_ids:
+  spotify: spotify:track:2XZS4h3PQXM6ZDP71lp7aY
 features: []
-genres: []
+first_released_as_single: false
 key: lies-j-j--cale
 lyrics_url: https://genius.com/Jj-cale-lies-lyrics
 name: Lies
@@ -39,6 +42,8 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1972-12-23'
+release_year: 1972
+runtime: 176000
 ---
 You told me this, you told me that
 You try to tell me, tell me where it's at

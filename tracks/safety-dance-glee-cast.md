@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music, Volume 3 Showstoppers'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:3PYRn2lgbjuVB4w3BPQ8gs
 features: []
-genres: []
+first_released_as_single: false
 key: safety-dance-glee-cast
 lyrics_url: https://www.azlyrics.com/lyrics/gleecast/safetydance.html
 name: Safety Dance
@@ -11,8 +14,9 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '2010-06-05'
+release_year: 2010
+runtime: 199413
 ---
-
 S-S-S-S, A-A-A-A, F-F-F-F, E-E-E-E, T-T-T-T, Y-Y-Y-Y
 Safety...dance...
 
@@ -87,6 +91,3 @@ Oh, it's safety dance
 It's safety dance
 It's safety dance
 It's safety dance!
-
-
-

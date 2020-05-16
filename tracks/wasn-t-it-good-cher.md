@@ -1,8 +1,11 @@
 ---
+album: Take Me Home
 artists:
 - Cher
+external_ids:
+  spotify: spotify:track:0DdwMKMqUEwkxUmg3lvldq
 features: []
-genres: []
+first_released_as_single: false
 key: wasn-t-it-good-cher
 lyrics_url: https://genius.com/Cher-wasnt-it-good-lyrics
 name: Wasn't It Good
@@ -35,6 +38,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1979-07-14'
+release_year: 1979
+runtime: 263000
 ---
 Wasn't it good
 The way that I touched you late last night

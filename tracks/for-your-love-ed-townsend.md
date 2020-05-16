@@ -1,8 +1,11 @@
 ---
+album: Lost Hits Of The 50's
 artists:
 - Ed Townsend
+external_ids:
+  spotify: spotify:track:34hXWNZyKgsR7zmMOfXqOK
 features: []
-genres: []
+first_released_as_single: false
 key: for-your-love-ed-townsend
 lyrics_url: https://genius.com/Ed-townsend-for-your-love-lyrics
 name: For Your Love
@@ -11,6 +14,8 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '1958-08-04'
+release_year: 1958
+runtime: 173266
 ---
 For your love, oh, I would do anything
 I would do anything, for your love

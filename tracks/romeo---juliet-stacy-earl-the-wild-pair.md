@@ -1,9 +1,12 @@
 ---
+album: Stacy Earl
 artists:
 - Stacy Earl
+external_ids:
+  spotify: spotify:track:5AIrX5VmBGq4IUs1sL9tuP
 features:
 - The Wild Pair
-genres: []
+first_released_as_single: false
 key: romeo---juliet-stacy-earl-the-wild-pair
 lyrics_url: https://genius.com/Stacy-earl-romeo-and-juliet-lyrics
 name: Romeo & Juliet
@@ -56,6 +59,8 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1992-05-09'
+release_year: 1991
+runtime: 255866
 ---
 Oh
 (Romeo and Juliet)

@@ -1,8 +1,11 @@
 ---
+album: 'Just Who I Am: Poets & Pirates'
 artists:
 - Kenny Chesney
+external_ids:
+  spotify: spotify:track:41OvINy2RjLet11iW849vX
 features: []
-genres: []
+first_released_as_single: false
 key: never-wanted-nothing-more-kenny-chesney
 lyrics_url: https://www.azlyrics.com/lyrics/kennychesney/neverwantednothingmore.html
 name: Never Wanted Nothing More
@@ -87,8 +90,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2007-11-17'
+release_year: 2007
+runtime: 208560
 ---
-
 Couldn't wait to turn 16 and drive all the boy's around
 Foot on the gas and hands on the wheel was all I could think about
 A little rust in the bed of that truck and a four speed on the floor
@@ -123,6 +127,3 @@ Glory Hallelujah, good God almighty I never wanted nothin' more
 
 Never wanted nothin' more...
 And I never wanted nothin' more
-
-
-

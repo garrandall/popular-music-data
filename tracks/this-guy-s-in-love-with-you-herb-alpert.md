@@ -1,8 +1,11 @@
 ---
+album: The Beat Of The Brass
 artists:
 - Herb Alpert
+external_ids:
+  spotify: spotify:track:7a3g7jILDCvADVN9NQIyYj
 features: []
-genres: []
+first_released_as_single: false
 key: this-guy-s-in-love-with-you-herb-alpert
 lyrics_url: https://genius.com/Herb-alpert-and-the-tijuana-brass-this-guys-in-love-with-you-lyrics
 name: This Guy's In Love With You
@@ -63,6 +66,8 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1968-08-17'
+release_year: 1968
+runtime: 239733
 ---
 You see this guy
 This guy's in love with you

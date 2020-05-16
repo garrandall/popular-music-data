@@ -1,8 +1,11 @@
 ---
+album: Project Baby 2
 artists:
 - Kodak Black
+external_ids:
+  spotify: spotify:track:6xajP75M1BFtns9tb2i4XN
 features: []
-genres: []
+first_released_as_single: false
 key: transportin--kodak-black
 lyrics_url: https://www.azlyrics.com/lyrics/kodakblack/transportin.html
 name: Transportin'
@@ -71,8 +74,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2017-12-23'
+release_year: 2017
+runtime: 169531
 ---
-
 Pockets so fat call me orbit
 Norbit, I mean
 Ain't gotta wait to make no moves cause I be loaded
@@ -138,6 +142,3 @@ I'm doin' fraud, got that bag, yeah I'm transportin'
 I got that bag on me nigga, like I'm Jansportin'
 He dropped his mixtape, thought I woulda repost it
 I ain't post his mixtape 'cause I don't fuck with shorty
-
-
-

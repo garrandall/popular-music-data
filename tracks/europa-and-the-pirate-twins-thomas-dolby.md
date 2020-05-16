@@ -1,8 +1,11 @@
 ---
+album: The Golden Age Of Wireless
 artists:
 - Thomas Dolby
+external_ids:
+  spotify: spotify:track:5wMd1Bpd8NOSlWGWCNvLuL
 features: []
-genres: []
+first_released_as_single: false
 key: europa-and-the-pirate-twins-thomas-dolby
 lyrics_url: https://www.azlyrics.com/lyrics/thomasdolby/europaandthepiratetwins.html
 name: Europa And The Pirate Twins
@@ -27,8 +30,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1983-07-16'
+release_year: 1982
+runtime: 199120
 ---
-
 Okay
 
 I was fourteen, she was twelve
@@ -43,7 +47,7 @@ Oh my country
 Europa
 I'll walk beside you in the rain
 Europa
-Ta rÃ©publique
+Ta république
 Europa
 
 Nine years after, who'd I see
@@ -58,7 +62,7 @@ Oh my country
 My country, Europa!
 I'll walk beside you in the rain
 Europa
-Ta rÃ©publique
+Ta république
 Europa
 
 Blew in from the hoverport
@@ -75,7 +79,7 @@ Oh my country
 Europa
 I'll walk beside you in the rain
 Europa
-Ta rÃ©publique
+Ta république
 Europa
 
 We'll be the Pirate Twins again
@@ -83,7 +87,7 @@ Europa
 Oh my country, look at my country now!
 I'll stand beside you in the rain
 Europa
-Ta rÃ©publique
+Ta république
 Europa
 
 Down in some bar along the Strand
@@ -92,7 +96,4 @@ Oh my country
 Europa
 I'll walk beside you in the rain
 Europa
-Ta rÃ©publique...
-
-
-
+Ta république...

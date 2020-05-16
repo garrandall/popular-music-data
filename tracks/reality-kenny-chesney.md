@@ -1,8 +1,11 @@
 ---
+album: Hemingway's Whiskey
 artists:
 - Kenny Chesney
+external_ids:
+  spotify: spotify:track:0X0zDB7RqpWOIwCHGr2Whu
 features: []
-genres: []
+first_released_as_single: false
 key: reality-kenny-chesney
 lyrics_url: https://www.azlyrics.com/lyrics/kennychesney/reality.html
 name: Reality
@@ -87,8 +90,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2012-04-07'
+release_year: 2010
+runtime: 210640
 ---
-
 For me it's a beach bar
 Or on a boat underneath the stars
 Or with my band up on a stage
@@ -130,6 +134,3 @@ So let's take a chance and live this fantasy
 
 Come on everybody, break free
 Come on everybody, break free
-
-
-

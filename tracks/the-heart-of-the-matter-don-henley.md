@@ -1,8 +1,11 @@
 ---
+album: The End Of The Innocence
 artists:
 - Don Henley
+external_ids:
+  spotify: spotify:track:7jZ4UZAmg006Qx3rVuF7JI
 features: []
-genres: []
+first_released_as_single: false
 key: the-heart-of-the-matter-don-henley
 lyrics_url: https://www.musixmatch.com/lyrics/Don-Henley/The-Heart-of-the-Matter
 name: The Heart Of The Matter
@@ -91,6 +94,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1990-07-07'
+release_year: 1989
+runtime: 322600
 ---
 I got the call today, I didn't wanna hear
 But I knew that it would come

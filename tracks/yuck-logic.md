@@ -1,8 +1,11 @@
 ---
+album: Bobby Tarantino II
 artists:
 - Logic
+external_ids:
+  spotify: spotify:track:0D5CXSUx8GOCHSY8KWgi9h
 features: []
-genres: []
+first_released_as_single: false
 key: yuck-logic
 lyrics_url: https://genius.com/Logic-yuck-lyrics
 name: Yuck
@@ -11,10 +14,11 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '2018-03-24'
+release_year: 2018
+runtime: 173693
 ---
 My name is Paul Rothenberg, Attorney of Law
 And I hereby ratify and confirm that Logic is motherfucking paid
-
 
 Can't nothin' stop me, I'm on a roll (I'm on a roll!)
 Always on time 'cause my eyes is on my Rollie-olex
@@ -24,7 +28,6 @@ Fuck with me now or you'll never know (Never know!)
 If you weren't with me, in the beginning, you get no love (No love!)
 My name Bobby Tarantino (Tarantino! Yeah)
 Logic ain't here right now, leave a message if you want, ho
-
 
 Hold it, bring it back, uh, I'ma call you back, uh
 Too busy countin' stacks, uh
@@ -55,7 +58,6 @@ I know who I am, yeah, I love myself
 They don't understand
 But no matter what happen you know that–
 
-
 Can't nothing stop me, I'm on a roll (I'm on a roll)
 Always on time 'cause my eyes is on my Rollie-olex (Woo!)
 I don't trust nobody, oh no (No, no, no!)
@@ -64,6 +66,3 @@ Fuck with me now or you'll never know (Never know!)
 If you weren't with me, in the beginning, you get no love (No love!)
 My name Bobby Tarantino (Tarantino!)
 Logic ain't here right now, leave a message if you want, ho (Leave a message, ho!)
-
-
-Hi! It's uh—Logic? Hi, sorry. It's Elton John calling you! Um, I hope you don't mind me getting you on your mobile–or not getting on your mobile, but I was just, uh—congratulating you first of all on your performance at the Grammys and then I was asking you—I was gonna ask you if you'd like to do something for me, and I will ring you back later and see—and talk about it, thanks!

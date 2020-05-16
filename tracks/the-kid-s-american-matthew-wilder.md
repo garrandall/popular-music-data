@@ -1,8 +1,11 @@
 ---
+album: I Don't Speak The Language
 artists:
 - Matthew Wilder
+external_ids:
+  spotify: spotify:track:5aiDiU1POBDI736ktOtjRJ
 features: []
-genres: []
+first_released_as_single: false
 key: the-kid-s-american-matthew-wilder
 lyrics_url: https://genius.com/Matthew-wilder-the-kids-american-lyrics
 name: The Kid's American
@@ -59,6 +62,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1984-05-12'
+release_year: 1983
+runtime: 276240
 ---
 Rocking with the top down
 Barrelling down Highway 9

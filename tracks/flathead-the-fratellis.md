@@ -1,8 +1,11 @@
 ---
+album: Costello Music
 artists:
 - The Fratellis
+external_ids:
+  spotify: spotify:track:0vR2dMiHFm4Q4v0dHvbbo9
 features: []
-genres: []
+first_released_as_single: true
 key: flathead-the-fratellis
 lyrics_url: https://www.azlyrics.com/lyrics/fratellis/flathead.html
 name: Flathead
@@ -23,8 +26,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2007-04-07'
+release_year: 2006
+runtime: 197533
 ---
-
 Just because she feeds me well
 and she made me talk dirty in a pink hotel
 doesn't mean she's got eyes for me
@@ -55,6 +59,3 @@ bara bap bara ra ra bara bap bara ra ra ra
 And she said the boy's not right in the head
 And you stood and said oh my god till she said
 bara bap bara ra ra bara bap bara ra ra ra
-
-
-

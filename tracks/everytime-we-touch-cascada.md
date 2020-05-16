@@ -1,8 +1,11 @@
 ---
+album: Everytime We Touch
 artists:
 - Cascada
+external_ids:
+  spotify: spotify:track:5YnKmPZytgkywuHktntXDV
 features: []
-genres: []
+first_released_as_single: true
 key: everytime-we-touch-cascada
 lyrics_url: https://genius.com/Cascada-everytime-we-touch-lyrics
 name: Everytime We Touch
@@ -131,6 +134,8 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '2006-07-15'
+release_year: 2005
+runtime: 199866
 ---
 I still hear your voice when you sleep next to me
 I still feel your touch in my dream (In my dream)

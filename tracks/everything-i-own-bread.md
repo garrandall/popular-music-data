@@ -1,8 +1,11 @@
 ---
+album: Baby I'm-a Want You
 artists:
 - Bread
+external_ids:
+  spotify: spotify:track:52VIdyKqp1pJRSyUQaxKUA
 features: []
-genres: []
+first_released_as_single: false
 key: everything-i-own-bread
 lyrics_url: https://genius.com/Bread-everything-i-own-lyrics
 name: Everything I Own
@@ -59,6 +62,8 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '1972-04-22'
+release_year: 1972
+runtime: 187000
 ---
 You sheltered me from harm
 Kept me warm, kept me warm

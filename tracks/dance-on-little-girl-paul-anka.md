@@ -1,8 +1,11 @@
 ---
+album: 21 Golden Hits
 artists:
 - Paul Anka
+external_ids:
+  spotify: spotify:track:4qyjqfKedAIPJ4oJy5mHgZ
 features: []
-genres: []
+first_released_as_single: false
 key: dance-on-little-girl-paul-anka
 lyrics_url: https://www.azlyrics.com/lyrics/paulanka/danceonlittlegirl.html
 name: Dance On Little Girl
@@ -47,8 +50,9 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1961-07-31'
+release_year: 1961
+runtime: 111293
 ---
-
 Dance dance on little girl
 In the arms of someone new.
 As you dance, as you twirl,
@@ -82,6 +86,3 @@ Oh look at you,
 There you go go go.
 Oh yes you know
 That you're wrong wrong wrong...
-
-
-

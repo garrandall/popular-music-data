@@ -1,8 +1,11 @@
 ---
+album: Live At The New York State Women's Prison
 artists:
 - The Moments
+external_ids:
+  spotify: spotify:track:0tS1ikaPjdU8JTtoCHrfjR
 features: []
-genres: []
+first_released_as_single: false
 key: not-on-the-outside-the-moments
 lyrics_url: https://genius.com/The-moments-not-on-the-outside-lyrics
 name: Not On The Outside
@@ -35,6 +38,8 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '1969-02-08'
+release_year: 1968
+runtime: 245200
 ---
 So you think
 My heart's made of stone

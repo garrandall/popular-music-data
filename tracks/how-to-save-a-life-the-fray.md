@@ -1,8 +1,11 @@
 ---
+album: How To Save A Life
 artists:
 - The Fray
+external_ids:
+  spotify: spotify:track:5fVZC9GiM4e8vu99W0Xf6J
 features: []
-genres: []
+first_released_as_single: false
 key: how-to-save-a-life-the-fray
 lyrics_url: https://genius.com/The-fray-how-to-save-a-life-lyrics
 name: How To Save A Life
@@ -239,6 +242,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2007-06-02'
+release_year: 2005
+runtime: 262533
 ---
 Step one, you say we need to talk
 He walks, you say "sit down; it's just a talk"

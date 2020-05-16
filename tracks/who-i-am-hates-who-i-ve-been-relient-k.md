@@ -1,8 +1,11 @@
 ---
+album: Mmhmm
 artists:
 - Relient K
+external_ids:
+  spotify: spotify:track:23zxVVtHjo2mbtAoAg5XB4
 features: []
-genres: []
+first_released_as_single: false
 key: who-i-am-hates-who-i-ve-been-relient-k
 lyrics_url: https://genius.com/Relient-k-who-i-am-hates-who-ive-been-lyrics
 name: Who I Am Hates Who I've Been
@@ -51,6 +54,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2006-03-18'
+release_year: 2004
+runtime: 232266
 ---
 I watched the proverbial sunrise
 Coming up over the Pacific and

@@ -1,8 +1,11 @@
 ---
+album: Word Of Mouth
 artists:
 - The Wanted
+external_ids:
+  spotify: spotify:track:34A8fwLutuMtIC0XLKdkqq
 features: []
-genres: []
+first_released_as_single: false
 key: we-own-the-night-the-wanted
 lyrics_url: https://genius.com/The-wanted-we-own-the-night-lyrics
 name: We Own The Night
@@ -11,6 +14,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2013-08-31'
+release_year: 2013
+runtime: 205400
 ---
 May our hearts be full like our drinks tonight
 May we sing and dance till we lose our minds

@@ -1,8 +1,11 @@
 ---
+album: More Than You Think You Are
 artists:
 - matchbox twenty
+external_ids:
+  spotify: spotify:track:3POcdaiPYoL4peuFyKWRJE
 features: []
-genres: []
+first_released_as_single: false
 key: disease-matchbox-twenty
 lyrics_url: https://genius.com/Matchbox-twenty-disease-lyrics
 name: Disease
@@ -87,6 +90,8 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '2003-03-01'
+release_year: 2002
+runtime: 219360
 ---
 Feels like you made a mistake
 You made somebody's heart break

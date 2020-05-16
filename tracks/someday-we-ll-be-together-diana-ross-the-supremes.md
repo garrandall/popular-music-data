@@ -1,9 +1,12 @@
 ---
+album: Cream Of The Crop
 artists:
 - Diana Ross
 - The Supremes
+external_ids:
+  spotify: spotify:track:79Yk6AlSKi5dxDFINID2hS
 features: []
-genres: []
+first_released_as_single: false
 key: someday-we-ll-be-together-diana-ross-the-supremes
 lyrics_url: https://www.musixmatch.com/lyrics/Diana-Ross/Someday-We-ll-Be-Together-feat-The-Supremes
 name: Someday We'll Be Together
@@ -72,6 +75,8 @@ rankings:
   rank: 29
   ranking_list: Billboard Hot 100
   start_date: '1970-02-21'
+release_year: 1969
+runtime: 211666
 ---
 I say, say, say it again
 (Someday, we'll be together)

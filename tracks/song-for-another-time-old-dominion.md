@@ -1,8 +1,11 @@
 ---
+album: Meat and Candy
 artists:
 - Old Dominion
+external_ids:
+  spotify: spotify:track:7px4t7HGiuMUvFkEOpZEwp
 features: []
-genres: []
+first_released_as_single: false
 key: song-for-another-time-old-dominion
 lyrics_url: https://www.azlyrics.com/lyrics/olddominion/songforanothertime.html
 name: Song For Another Time
@@ -79,8 +82,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2017-02-11'
+release_year: 2015
+runtime: 191826
 ---
-
 Right now we both know
 We're Marina del Rey,
 Plane's gonna fly away
@@ -139,6 +143,3 @@ Brown-Eyed Girl, Sweet Caroline
 Hey, that's a song for another time
 Free Fallin', Small Town Saturday Night
 That's a song for another time
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Pictures Of You
 artists:
 - The Last Goodnight
+external_ids:
+  spotify: spotify:track:6V4y4uuMAxe2EYDIWNToaH
 features: []
-genres: []
+first_released_as_single: true
 key: pictures-of-you-the-last-goodnight
 lyrics_url: https://www.azlyrics.com/lyrics/lastgoodnight/picturesofyou.html
 name: Pictures Of You
@@ -79,8 +82,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2008-02-23'
+release_year: 2007
+runtime: 190173
 ---
-
 This is the clock upon the wall
 This is the story of us all
 This is the first sound of a newborn child,
@@ -135,6 +139,3 @@ We could have been
 Pictures of you, pictures of me
 Remind us all of what we could have been
 Could have been
-
-
-

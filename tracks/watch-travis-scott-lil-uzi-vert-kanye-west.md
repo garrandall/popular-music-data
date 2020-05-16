@@ -1,10 +1,13 @@
 ---
+album: Watch
 artists:
 - Travis Scott
+external_ids:
+  spotify: spotify:track:3DoBTwfr8yi2LN08SBpFkN
 features:
 - Lil Uzi Vert
 - Kanye West
-genres: []
+first_released_as_single: true
 key: watch-travis-scott-lil-uzi-vert-kanye-west
 lyrics_url: https://www.azlyrics.com/lyrics/travisscott/watch.html
 name: Watch
@@ -29,9 +32,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '2018-06-16'
+release_year: 2018
+runtime: 217405
 ---
-
-
 ...because it's the last ride ever gonna, that I'm ever gonna take at Astroworld
 Woah, woah, yeah, yeah, yeah
 
@@ -107,6 +110,3 @@ Never trust a bartender that don't drink, bitch
 
 We got bust down Rollies, bust down Rollies
 And I told him I wanted to have a bust down baby
-
-
-

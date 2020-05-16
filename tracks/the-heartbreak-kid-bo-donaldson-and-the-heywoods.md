@@ -1,8 +1,11 @@
 ---
+album: The Best Of The ABC Recordings
 artists:
 - Bo Donaldson And The Heywoods
+external_ids:
+  spotify: spotify:track:3IZdy7QAxYWf1v73Le1KUR
 features: []
-genres: []
+first_released_as_single: false
 key: the-heartbreak-kid-bo-donaldson-and-the-heywoods
 name: The Heartbreak Kid
 rankings:
@@ -34,5 +37,7 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1974-12-28'
+release_year: 1974
+runtime: 180093
 ---
 

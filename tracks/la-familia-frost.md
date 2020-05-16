@@ -1,8 +1,11 @@
 ---
+album: Smile Now, Die Later
 artists:
 - Frost
+external_ids:
+  spotify: spotify:track:3jL4onzSw31cbGqj44I2fu
 features: []
-genres: []
+first_released_as_single: false
 key: la-familia-frost
 lyrics_url: https://genius.com/Og-kid-frost-la-familia-lyrics
 name: La Familia
@@ -43,6 +46,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1996-04-27'
+release_year: 1995
+runtime: 243800
 ---
 Hey, there goes that mother fucker Kid Frost
 Hey, Frost come here ese

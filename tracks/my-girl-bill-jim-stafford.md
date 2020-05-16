@@ -1,8 +1,11 @@
 ---
+album: Jim Stafford
 artists:
 - Jim Stafford
+external_ids:
+  spotify: spotify:track:46PZ18T8OG7a5aF2iglPDt
 features: []
-genres: []
+first_released_as_single: false
 key: my-girl-bill-jim-stafford
 lyrics_url: https://genius.com/Jim-stafford-my-girl-bill-lyrics
 name: My Girl Bill
@@ -67,6 +70,8 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1974-07-27'
+release_year: 1974
+runtime: 192866
 ---
 Bill walked me to my door last night
 And he said, Before I go...

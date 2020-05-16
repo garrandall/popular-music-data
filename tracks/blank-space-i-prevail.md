@@ -1,8 +1,11 @@
 ---
+album: Punk Goes Pop, Vol. 6
 artists:
 - I Prevail
+external_ids:
+  spotify: spotify:track:1eMJ4MmWMtX8DfcviNyY3R
 features: []
-genres: []
+first_released_as_single: false
 key: blank-space-i-prevail
 lyrics_url: https://www.azlyrics.com/lyrics/iprevail/blankspace.html
 name: Blank Space
@@ -11,8 +14,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2015-01-24'
+release_year: 2014
+runtime: 240927
 ---
-
 Nice to meet you, where you been?
 I could show you incredible things
 Magic, madness, heaven, sin
@@ -110,6 +114,3 @@ Got a long list of ex-lovers
 They'll tell you I'm insane
 But I've got a blank space, baby
 And I'll write your name
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: In The Wind
 artists:
 - Peter, Paul, and Mary
+external_ids:
+  spotify: spotify:track:06VuCrLHmfdgdUXSQCX6us
 features: []
-genres: []
+first_released_as_single: false
 key: tell-it-on-the-mountain-peter-paul-and-mary
 lyrics_url: https://www.azlyrics.com/lyrics/peterpaulandmary/tellitonthemountain.html
 name: Tell It On The Mountain
@@ -35,9 +38,9 @@ rankings:
   rank: 36
   ranking_list: Billboard Hot 100
   start_date: '1964-04-18'
+release_year: 1963
+runtime: 178240
 ---
-
-
 Go tell it on the mountain, over the hill and everywhere
 Go tell it on the mountain, to let My people go.
 

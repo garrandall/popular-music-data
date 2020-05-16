@@ -1,8 +1,11 @@
 ---
+album: Diver Down
 artists:
 - Van Halen
+external_ids:
+  spotify: spotify:track:7ptv3yXdBWwzO7rVA62rwy
 features: []
-genres: []
+first_released_as_single: false
 key: -oh--pretty-woman-van-halen
 lyrics_url: https://www.azlyrics.com/lyrics/vanhalen/prettywoman.html
 name: (oh) Pretty Woman
@@ -71,8 +74,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1982-05-22'
+release_year: 1982
+runtime: 172670
 ---
-
 Wow!
 
 Pretty woman, walking down the street
@@ -110,6 +114,3 @@ She's walking back to me
 Wow!
 Wow!
 Pretty woman
-
-
-

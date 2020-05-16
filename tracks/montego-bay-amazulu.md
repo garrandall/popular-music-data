@@ -1,8 +1,11 @@
 ---
+album: Amazulu
 artists:
 - Amazulu
+external_ids:
+  spotify: spotify:track:4L72i6hEd9AMPyToqdz3jv
 features: []
-genres: []
+first_released_as_single: false
 key: montego-bay-amazulu
 lyrics_url: https://genius.com/Amazulu-montego-bay-lyrics
 name: Montego Bay
@@ -23,6 +26,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1987-08-15'
+release_year: 1986
+runtime: 182773
 ---
 (Oh)
 

@@ -1,8 +1,11 @@
 ---
+album: It'll Shine When It Shines
 artists:
 - Ozark Mountain Daredevils
+external_ids:
+  spotify: spotify:track:1R9EHsvzpXwOvlGkgDmE55
 features: []
-genres: []
+first_released_as_single: false
 key: jackie-blue-ozark-mountain-daredevils
 lyrics_url: https://genius.com/Ozark-mountain-daredevils-jackie-blue-lyrics
 name: Jackie Blue
@@ -91,6 +94,8 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '1975-06-28'
+release_year: 1974
+runtime: 250120
 ---
 Oh-hoo, Jackie blue
 Lives her life from inside of a room

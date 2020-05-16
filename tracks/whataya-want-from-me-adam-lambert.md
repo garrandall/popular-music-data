@@ -1,8 +1,11 @@
 ---
+album: 10th Anniversary - The Hits - Volume 1
 artists:
 - Adam Lambert
+external_ids:
+  spotify: spotify:track:0M9ZSSlLxq0aYUX4pfZkVD
 features: []
-genres: []
+first_released_as_single: false
 key: whataya-want-from-me-adam-lambert
 lyrics_url: https://www.azlyrics.com/lyrics/adamlambert/whatayawantfromme.html
 name: Whataya Want From Me
@@ -127,8 +130,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2010-07-24'
+release_year: 2003
+runtime: 226333
 ---
-
 Hey, slow it down
 Whataya want from me
 Whataya want from me
@@ -199,6 +203,3 @@ Hey, whataya want from me
 (Whataya want from me)
 Whataya want from me
 Whataya want from me
-
-
-

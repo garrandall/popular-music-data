@@ -1,8 +1,11 @@
 ---
+album: Bigger, Better, Faster, More !
 artists:
 - 4 Non Blondes
+external_ids:
+  spotify: spotify:track:0jWgAnTrNZmOGmqgvHhZEm
 features: []
-genres: []
+first_released_as_single: false
 key: what-s-up-4-non-blondes
 lyrics_url: https://www.azlyrics.com/lyrics/4nonblondes/whatsup.html
 name: What's Up
@@ -111,8 +114,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1993-10-16'
+release_year: 1992
+runtime: 295533
 ---
-
 25 years and my life is still
 Tryin' to get up that great big hill of hope
 For a destination
@@ -189,6 +193,3 @@ Oh uh huh
 25 years and my life is still
 Tryin' to get up that great big hill of hope
 For a destination, mmm
-
-
-

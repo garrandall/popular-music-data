@@ -1,8 +1,11 @@
 ---
+album: Jeff Lynne's ELO - Wembley or Bust
 artists:
 - Electric Light Orchestra
+external_ids:
+  spotify: spotify:track:7psAMS9VACNOP4kmPbRqXY
 features: []
-genres: []
+first_released_as_single: false
 key: all-over-the-world-electric-light-orchestra
 lyrics_url: https://www.azlyrics.com/lyrics/electriclightorchestra/allovertheworld.html
 name: All Over The World
@@ -71,8 +74,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1980-11-15'
+release_year: 1980
+runtime: 244760
 ---
-
 Everybody all around the world, gotta tell you what I just heard
 There's gonna be a party all over the world
 
@@ -101,6 +105,3 @@ Everybody gonna have a good time, everybody will shine till the daylight
 
 
 All over the world, everybody got the word
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Hats off to Del Shannon
 artists:
 - Del Shannon
+external_ids:
+  spotify: spotify:track:3FUvmbOxYxlN3CZPAPAkXE
 features: []
-genres: []
+first_released_as_single: false
 key: hey--little-girl-del-shannon
 lyrics_url: https://www.azlyrics.com/lyrics/delshannon/heylittlegirl.html
 name: Hey! Little Girl
@@ -39,8 +42,9 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '1962-01-20'
+release_year: 1961
+runtime: 151266
 ---
-
 Last night I walked through the streets of my town.
 I saw the shadow of a girl I had known.
 And through the shadows I could see many tears,
@@ -70,6 +74,3 @@ He shattered all the dreams you had.
 So come with me and see
 Hey, little girl, I'll make all your dreams come true!
 Come, little girl, I'll make all your dreams come true!"
-
-
-

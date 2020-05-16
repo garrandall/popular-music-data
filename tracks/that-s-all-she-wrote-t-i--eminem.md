@@ -1,9 +1,12 @@
 ---
+album: No Mercy
 artists:
 - T.I.
+external_ids:
+  spotify: spotify:track:6XAA7T9VHcqKQSzjmXAJ8o
 features:
 - Eminem
-genres: []
+first_released_as_single: false
 key: that-s-all-she-wrote-t-i--eminem
 lyrics_url: https://genius.com/Ti-thats-all-she-wrote-lyrics
 name: That's All She Wrote
@@ -28,6 +31,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2011-01-22'
+release_year: 2010
+runtime: 318360
 ---
 Now I don’t really care what you call me
 Just as long as you don't call me broke

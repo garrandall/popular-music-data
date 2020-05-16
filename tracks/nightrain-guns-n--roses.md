@@ -1,8 +1,11 @@
 ---
+album: Appetite For Destruction
 artists:
 - Guns N' Roses
+external_ids:
+  spotify: spotify:track:7CBFRsUz1pz1cS12soVhih
 features: []
-genres: []
+first_released_as_single: false
 key: nightrain-guns-n--roses
 lyrics_url: https://www.azlyrics.com/lyrics/gunsnroses/nightrain.html
 name: Nightrain
@@ -27,8 +30,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1989-08-26'
+release_year: 1987
+runtime: 268213
 ---
-
 Loaded like a freight train
 Flyin' like an aeroplane
 Feelin' like a space brain
@@ -106,6 +110,3 @@ OhI'm on the nightrain
 Ridin' the nightrain
 Never to return
 Nightrain
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: 'Classics: The Early Years'
 artists:
 - Neil Diamond
+external_ids:
+  spotify: spotify:track:7LXnPSJaxNaKC8cwZYKfJr
 features: []
-genres: []
+first_released_as_single: false
 key: i-got-the-feelin---oh-no-no--neil-diamond
 lyrics_url: https://www.azlyrics.com/lyrics/neildiamond/igotthefeelinohnono.html
 name: I Got The Feelin' (Oh No No)
@@ -39,8 +42,9 @@ rankings:
   rank: 31
   ranking_list: Billboard Hot 100
   start_date: '1966-12-31'
+release_year: 1966
+runtime: 129493
 ---
-
 Oh no, no, no, no
 Baby, something's wrong
 Oh no, no, no, no
@@ -73,6 +77,3 @@ I got the feelin'
 Oh yes I do girl
 I got the feelin'
 That I'm losin' you
-
-
-

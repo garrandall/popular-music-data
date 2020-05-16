@@ -1,8 +1,11 @@
 ---
+album: Pink Friday ... Roman Reloaded
 artists:
 - Nicki Minaj
+external_ids:
+  spotify: spotify:track:2jATUzETZL49e6SywauZKE
 features: []
-genres: []
+first_released_as_single: false
 key: va-va-voom-nicki-minaj
 lyrics_url: https://www.azlyrics.com/lyrics/nickiminaj/vavavoom.html
 name: Va Va Voom
@@ -87,8 +90,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2013-03-16'
+release_year: 2012
+runtime: 183560
 ---
-
 Just met a boy, just met a boy when
 He could come inside of my play pen
 'Cause he look like a superstar in the making
@@ -169,6 +173,3 @@ You got that boom, boom
 If you want it, I'm gonna be va va voom, voom
 If you got it, you got it
 You got that boom, boom
-
-
-

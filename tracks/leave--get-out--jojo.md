@@ -1,8 +1,11 @@
 ---
+album: Live Wanderings
 artists:
 - JoJo
+external_ids:
+  spotify: spotify:track:5ZBTaNyNxtRbLuIxsZAlnV
 features: []
-genres: []
+first_released_as_single: false
 key: leave--get-out--jojo
 lyrics_url: https://genius.com/Jojo-leave-get-out-lyrics
 name: Leave (Get Out)
@@ -123,6 +126,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '2004-10-23'
+release_year: 2004
+runtime: 167459
 ---
 Mmm, oh
 Yeah, yeah

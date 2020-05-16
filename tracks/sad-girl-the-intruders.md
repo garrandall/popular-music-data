@@ -1,8 +1,11 @@
 ---
+album: Cowboys to Girls
 artists:
 - The Intruders
+external_ids:
+  spotify: spotify:track:6qGq5jiKZo7ZGRqgAw7tmw
 features: []
-genres: []
+first_released_as_single: false
 key: sad-girl-the-intruders
 lyrics_url: https://www.azlyrics.com/lyrics/intruders/sadgirl.html
 name: Sad Girl
@@ -43,8 +46,9 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '1969-10-25'
+release_year: 1964
+runtime: 115053
 ---
-
 Sad girl, you look so sad
 Did he break your heart?
 Gee, that's too bad
@@ -78,6 +82,3 @@ Your day's gonna come, my love
 (Sad girl)
 All you gotta do is keep on smiling
 (Sad girl)
-
-
-

@@ -1,9 +1,12 @@
 ---
+album: Rewrite The Stars
 artists:
 - Zac Efron
 - Zendaya
+external_ids:
+  spotify: spotify:track:630sXRhIcfwr2e4RdNtjKN
 features: []
-genres: []
+first_released_as_single: true
 key: rewrite-the-stars-zac-efron-zendaya
 lyrics_url: https://genius.com/Zac-efron-rewrite-the-stars-lyrics
 name: Rewrite The Stars
@@ -36,6 +39,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2018-02-24'
+release_year: 2017
+runtime: 217440
 ---
 You know I want you
 It's not a secret I try to hide

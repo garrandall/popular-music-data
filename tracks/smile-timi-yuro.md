@@ -1,8 +1,11 @@
 ---
+album: I'm a Star Now
 artists:
 - Timi Yuro
+external_ids:
+  spotify: spotify:track:7meARjzII6d3jq8wW2zwfi
 features: []
-genres: []
+first_released_as_single: false
 key: smile-timi-yuro
 lyrics_url: https://genius.com/Timi-yuro-smile-lyrics
 name: Smile
@@ -31,6 +34,8 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '1961-12-11'
+release_year: 1961
+runtime: 166306
 ---
 Now you should smile
 Though your heart is aching

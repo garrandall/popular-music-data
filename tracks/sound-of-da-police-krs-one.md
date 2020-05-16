@@ -1,8 +1,11 @@
 ---
+album: Return of the Boom Bap
 artists:
 - KRS-One
+external_ids:
+  spotify: spotify:track:3Y6XWs8xMlCngyIxNOFnsp
 features: []
-genres: []
+first_released_as_single: false
 key: sound-of-da-police-krs-one
 lyrics_url: https://www.azlyrics.com/lyrics/krsone/soundofdapolice.html
 name: Sound Of Da Police
@@ -31,8 +34,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1994-03-12'
+release_year: 1993
+runtime: 258506
 ---
-
 Woop-woop!
 That's the sound of da police!
 Woop-woop!
@@ -151,6 +155,3 @@ Woop-woop!
 That's the sound of da police!
 Woop-woop!
 That's the sound of the beast!
-
-
-

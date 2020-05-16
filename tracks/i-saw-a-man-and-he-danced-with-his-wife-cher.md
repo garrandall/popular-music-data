@@ -1,8 +1,11 @@
 ---
+album: Dark Lady
 artists:
 - Cher
+external_ids:
+  spotify: spotify:track:4EtzSsSdIyOU2nJSyzmHvs
 features: []
-genres: []
+first_released_as_single: false
 key: i-saw-a-man-and-he-danced-with-his-wife-cher
 lyrics_url: https://www.azlyrics.com/lyrics/cher/isawamanandhedancedwithhiswife.html
 name: I Saw A Man And He Danced With His Wife
@@ -43,8 +46,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1974-10-05'
+release_year: 1974
+runtime: 194266
 ---
-
 I was by myself drinkin'
 Chilled lonely wine
 Then he walked in with some woman
@@ -84,4 +88,3 @@ I saw a man and he danced with his wife
 But now he's dancin' with me
 I remember before, when we danced on this floor
 His eyes were only on me
-

@@ -1,8 +1,11 @@
 ---
+album: Greatest Hits
 artists:
 - The Champs
+external_ids:
+  spotify: spotify:track:0GLk71WwmlrDbJRrAZozV5
 features: []
-genres: []
+first_released_as_single: false
 key: limbo-dance-the-champs
 lyrics_url: https://www.musixmatch.com/lyrics/The-Champs/Limbo-Dance
 name: Limbo Dance
@@ -11,6 +14,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1962-10-20'
+release_year: 1958
+runtime: 127400
 ---
 Clap your hands
 Stomp your feet

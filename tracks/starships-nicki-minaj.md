@@ -1,8 +1,11 @@
 ---
+album: Pink Friday ... Roman Reloaded
 artists:
 - Nicki Minaj
+external_ids:
+  spotify: spotify:track:1oHNvJVbFkexQc0BpQp7Y4
 features: []
-genres: []
+first_released_as_single: false
 key: starships-nicki-minaj
 lyrics_url: https://www.azlyrics.com/lyrics/nickiminaj/starships.html
 name: Starships
@@ -131,8 +134,9 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2012-09-29'
+release_year: 2011
+runtime: 210626
 ---
-
 RedOne
 
 Let's go to the beach, each
@@ -216,6 +220,3 @@ Can't stop
 (We're higher than a motherfucker)
 (We're higher than a motherfucker)
 (We're higher than a motherfucker)
-
-
-

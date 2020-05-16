@@ -1,8 +1,11 @@
 ---
+album: Dusk And Summer
 artists:
 - Dashboard Confessional
+external_ids:
+  spotify: spotify:track:0iufOeur7VOffzvM1U35QN
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-wait-dashboard-confessional
 lyrics_url: https://genius.com/Dashboard-confessional-dont-wait-lyrics
 name: Don't Wait
@@ -23,6 +26,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2006-07-22'
+release_year: 2006
+runtime: 245000
 ---
 The sky glows
 I see it shining when my eyes close

@@ -1,8 +1,11 @@
 ---
+album: Another Minute
 artists:
 - Cause And Effect
+external_ids:
+  spotify: spotify:track:6OUExuMUOP3mJGnS2eA0Rx
 features: []
-genres: []
+first_released_as_single: false
 key: you-think-you-know-her-cause-and-effect
 lyrics_url: https://genius.com/Cause-and-effect-you-think-you-know-her-lyrics
 name: You Think You Know Her
@@ -87,6 +90,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1992-07-11'
+release_year: 1991
+runtime: 283933
 ---
 Like children
 Rarely seen and never heard

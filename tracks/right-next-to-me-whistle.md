@@ -1,8 +1,11 @@
 ---
+album: Always And Forever
 artists:
 - Whistle
+external_ids:
+  spotify: spotify:track:6A8ZWP9TV2Ygd88Kv8sUBP
 features: []
-genres: []
+first_released_as_single: false
 key: right-next-to-me-whistle
 lyrics_url: https://genius.com/Whistle-right-next-to-me-lyrics
 name: Right Next To Me
@@ -59,6 +62,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1989-08-26'
+release_year: 1989
+runtime: 315040
 ---
 Goodbye, it's time for me to go
 I'll call you in the morning

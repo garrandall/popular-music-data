@@ -1,10 +1,13 @@
 ---
+album: Nothing but the Beat 2.0
 artists:
 - David Guetta
+external_ids:
+  spotify: spotify:track:1v4lnGDejf8SEpFHo838P0
 features:
 - Flo Rida
 - Nicki Minaj
-genres: []
+first_released_as_single: true
 key: where-them-girls-at-david-guetta-flo-rida-nicki-minaj
 lyrics_url: https://www.azlyrics.com/lyrics/davidguetta/wherethemgirlsat.html
 name: Where Them Girls At
@@ -89,9 +92,9 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '2011-10-01'
+release_year: 2011
+runtime: 312160
 ---
-
-
 So many girls in here, where do I begin?
 I see this one, I'm about to go in
 Then she said, I'm here with my friends
@@ -168,6 +171,3 @@ Where them girls at, girls at?
 Where them girls at, girls at?
 Where them girls at, girls at?
 So go get them, we can all be friends
-
-
-

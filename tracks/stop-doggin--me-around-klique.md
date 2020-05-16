@@ -1,8 +1,11 @@
 ---
+album: '''80s Urban Beats & Grooves'
 artists:
 - Klique
+external_ids:
+  spotify: spotify:track:3ITjh2XhrdwCkFVjXcrTJf
 features: []
-genres: []
+first_released_as_single: false
 key: stop-doggin--me-around-klique
 lyrics_url: https://genius.com/Klique-stop-doggin-me-around-lyrics
 name: Stop Doggin' Me Around
@@ -43,6 +46,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1983-12-03'
+release_year: 1983
+runtime: 288173
 ---
 Ah, ah, ah, ah
 

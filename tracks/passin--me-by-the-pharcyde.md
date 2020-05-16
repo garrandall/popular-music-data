@@ -1,8 +1,11 @@
 ---
+album: Bizarre Ride II The Pharcyde
 artists:
 - The Pharcyde
+external_ids:
+  spotify: spotify:track:4G3dZN9o3o2X4VKwt4CLts
 features: []
-genres: []
+first_released_as_single: false
 key: passin--me-by-the-pharcyde
 lyrics_url: https://www.musixmatch.com/lyrics/The-Pharcyde/Passin-Me-By-Brixton-Flavour
 name: Passin' Me By
@@ -75,6 +78,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1993-08-21'
+release_year: 1992
+runtime: 303493
 ---
 Now in my younger days I used to sport a sag
 When I went to school I'd carry lunch in a bag

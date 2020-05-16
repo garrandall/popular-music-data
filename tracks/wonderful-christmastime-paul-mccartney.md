@@ -1,8 +1,11 @@
 ---
+album: McCartney II
 artists:
 - Paul McCartney
+external_ids:
+  spotify: spotify:track:1SV1fxF65n9NhRHp3KlBuu
 features: []
-genres: []
+first_released_as_single: false
 key: wonderful-christmastime-paul-mccartney
 lyrics_url: https://genius.com/Paul-mccartney-wonderful-christmastime-lyrics
 name: Wonderful Christmastime
@@ -11,6 +14,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '2018-12-29'
+release_year: 1980
+runtime: 227653
 ---
 The moon is right
 The spirits up

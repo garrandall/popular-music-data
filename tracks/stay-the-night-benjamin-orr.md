@@ -1,8 +1,11 @@
 ---
+album: The Lace
 artists:
 - Benjamin Orr
+external_ids:
+  spotify: spotify:track:7zJnmSjZKjntHmOvEokGb3
 features: []
-genres: []
+first_released_as_single: false
 key: stay-the-night-benjamin-orr
 lyrics_url: https://genius.com/Benjamin-orr-stay-the-night-lyrics
 name: Stay The Night
@@ -87,6 +90,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1987-03-21'
+release_year: 1986
+runtime: 264893
 ---
 (I love you)
 Sometimes you twist

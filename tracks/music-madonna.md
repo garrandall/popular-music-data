@@ -1,8 +1,11 @@
 ---
+album: Music
 artists:
 - Madonna
+external_ids:
+  spotify: spotify:track:2BcOZ4vOeu2qZowIHrvTYy
 features: []
-genres: []
+first_released_as_single: false
 key: music-madonna
 lyrics_url: https://genius.com/Madonna-music-lyrics
 name: Music
@@ -103,6 +106,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '2001-01-20'
+release_year: 2000
+runtime: 225973
 ---
 Hey Mr. DJ, put a record on
 I wanna dance with my baby

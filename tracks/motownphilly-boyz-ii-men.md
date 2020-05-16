@@ -1,8 +1,11 @@
 ---
+album: Cooleyhighharmony (Bonus Tracks Version)
 artists:
 - Boyz II Men
+external_ids:
+  spotify: spotify:track:4LxIGAVfcQIw0zAQRyFhU8
 features: []
-genres: []
+first_released_as_single: false
 key: motownphilly-boyz-ii-men
 lyrics_url: https://www.azlyrics.com/lyrics/boyziimen/motownphilly.html
 name: Motownphilly
@@ -103,8 +106,9 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1991-11-23'
+release_year: 1991
+runtime: 235226
 ---
-
 Motownphilly's back again
 Doin' a little east coast fling
 Boyz II Men going off
@@ -151,4 +155,3 @@ Doom doom doom da da, doom doom doom da da
 Da di da di da da, da da, daa daa daa
 Doom doom doom da da, doom doom doom da da
 Da di da di da da, da da, daa daa daa
-

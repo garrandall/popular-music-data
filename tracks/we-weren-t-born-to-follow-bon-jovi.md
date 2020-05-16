@@ -1,8 +1,11 @@
 ---
+album: The Circle
 artists:
 - Bon Jovi
+external_ids:
+  spotify: spotify:track:6tVwi09OwB7zVYV0NUajeP
 features: []
-genres: []
+first_released_as_single: false
 key: we-weren-t-born-to-follow-bon-jovi
 lyrics_url: https://genius.com/Bon-jovi-we-werent-born-to-follow-lyrics
 name: We Weren't Born To Follow
@@ -23,6 +26,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2009-12-12'
+release_year: 2009
+runtime: 243493
 ---
 This one goes out to the man who mines for miracles
 This one goes out to the ones in need

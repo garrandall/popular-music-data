@@ -1,8 +1,11 @@
 ---
+album: Stars  (US DMD)
 artists:
 - Simply Red
+external_ids:
+  spotify: spotify:track:5QJSD5GQOq72OmwLV5IHUV
 features: []
-genres: []
+first_released_as_single: false
 key: stars-simply-red
 lyrics_url: https://genius.com/Simply-red-stars-lyrics
 name: Stars
@@ -63,6 +66,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1992-04-25'
+release_year: 1991
+runtime: 248599
 ---
 Anyone who ever held you
 Would tell you the way I'm feeling

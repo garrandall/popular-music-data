@@ -1,9 +1,12 @@
 ---
+album: The Soul Of Ike & Tina Turner
 artists:
 - Ike
 - Tina Turner
+external_ids:
+  spotify: spotify:track:7DLwLYJH0AJte6XK9ZTmOc
 features: []
-genres: []
+first_released_as_single: false
 key: i-idolize-you-ike-tina-turner
 lyrics_url: https://genius.com/Ike-and-tina-turner-i-idolize-you-lyrics
 name: I Idolize You
@@ -24,6 +27,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1961-01-02'
+release_year: 1960
+runtime: 170826
 ---
 If you want some loving
 That I can give to you

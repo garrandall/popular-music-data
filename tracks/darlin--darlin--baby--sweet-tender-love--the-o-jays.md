@@ -1,8 +1,11 @@
 ---
+album: Message In The Music
 artists:
 - The O'Jays
+external_ids:
+  spotify: spotify:track:7npcfTMoGXJlEBOruILBw7
 features: []
-genres: []
+first_released_as_single: true
 key: darlin--darlin--baby--sweet-tender-love--the-o-jays
 lyrics_url: https://genius.com/The-ojays-darlin-darlin-baby-sweet-tender-love-lyrics
 name: Darlin' Darlin' Baby (Sweet Tender Love)
@@ -23,6 +26,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1977-02-12'
+release_year: 1973
+runtime: 250253
 ---
 You're my darlin', darlin' baby
 You're my darlin', darlin' love

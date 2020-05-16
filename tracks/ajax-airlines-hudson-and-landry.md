@@ -1,8 +1,11 @@
 ---
+album: Hudson & Landry Greatest Hits Vol. 2
 artists:
 - Hudson and Landry
+external_ids:
+  spotify: spotify:track:7hRu0zfGU7b9JX7frtM69m
 features: []
-genres: []
+first_released_as_single: false
 key: ajax-airlines-hudson-and-landry
 name: Ajax Airlines
 rankings:
@@ -30,5 +33,7 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '1972-02-19'
+release_year: 1972
+runtime: 239893
 ---
 

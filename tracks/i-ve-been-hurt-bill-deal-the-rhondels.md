@@ -1,9 +1,12 @@
 ---
+album: Ain't Nothin But A House Party
 artists:
 - Bill Deal
 - The Rhondels
+external_ids:
+  spotify: spotify:track:0VCKQGl3Xx35JH3LbfH83z
 features: []
-genres: []
+first_released_as_single: false
 key: i-ve-been-hurt-bill-deal-the-rhondels
 lyrics_url: https://www.musixmatch.com/lyrics/Bill-Deal-the-Rhondels/I-ve-Been-Hurt
 name: I've Been Hurt
@@ -48,6 +51,8 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '1969-06-21'
+release_year: 1969
+runtime: 130026
 ---
 I've been hurt, hurt, hurt
 Yes I've been hurt

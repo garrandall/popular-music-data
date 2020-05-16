@@ -1,8 +1,11 @@
 ---
+album: Ringo
 artists:
 - Ringo Starr
+external_ids:
+  spotify: spotify:track:7GqOrtlqGjt5kFlPK63ErE
 features: []
-genres: []
+first_released_as_single: false
 key: oh-my-my-ringo-starr
 lyrics_url: https://genius.com/Ringo-starr-oh-my-my-lyrics
 name: Oh My My
@@ -63,6 +66,8 @@ rankings:
   rank: 52
   ranking_list: Billboard Hot 100
   start_date: '1974-06-08'
+release_year: 1973
+runtime: 259373
 ---
 One, two, three, four!
 

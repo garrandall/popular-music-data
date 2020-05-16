@@ -1,8 +1,11 @@
 ---
+album: Up, Up And Away
 artists:
 - The 5th Dimension
+external_ids:
+  spotify: spotify:track:3JdToGxgvH9SnO1a605Ztr
 features: []
-genres: []
+first_released_as_single: false
 key: up----up-and-away-the-5th-dimension
 lyrics_url: https://genius.com/The-5th-dimension-up-up-and-away-lyrics
 name: Up -- Up And Away
@@ -55,6 +58,8 @@ rankings:
   rank: 35
   ranking_list: Billboard Hot 100
   start_date: '1967-08-19'
+release_year: 1967
+runtime: 163346
 ---
 Would you like to ride in my beautiful balloon
 Would you like to ride in my beautiful balloon

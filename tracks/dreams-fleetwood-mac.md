@@ -1,8 +1,11 @@
 ---
+album: Rumours (Super Deluxe)
 artists:
 - Fleetwood Mac
+external_ids:
+  spotify: spotify:track:0ofHAoxe9vBkTCp2UQIavz
 features: []
-genres: []
+first_released_as_single: false
 key: dreams-fleetwood-mac
 lyrics_url: https://genius.com/Fleetwood-mac-dreams-lyrics
 name: Dreams
@@ -83,6 +86,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1977-08-20'
+release_year: 1977
+runtime: 257800
 ---
 Now here you go again, you say you want your freedom
 Well, who am I to keep you down?

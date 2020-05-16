@@ -1,8 +1,11 @@
 ---
+album: Some Great Reward
 artists:
 - Depeche Mode
+external_ids:
+  spotify: spotify:track:3GREm6zSHwKZsJxl0hqbAQ
 features: []
-genres: []
+first_released_as_single: false
 key: people-are-people-depeche-mode
 lyrics_url: https://www.azlyrics.com/lyrics/depechemode/peoplearepeople.html
 name: People Are People
@@ -79,8 +82,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1985-09-21'
+release_year: 1984
+runtime: 232080
 ---
-
 People are people
 So why should it be
 You and I should get along so awfully
@@ -107,6 +111,3 @@ So far it hasn't surfaced
 But I'm sure it exists
 It just takes a while to travel
 From your head to your fists
-
-
-

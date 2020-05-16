@@ -1,8 +1,11 @@
 ---
+album: Everything Playing
 artists:
 - The Lovin' Spoonful
+external_ids:
+  spotify: spotify:track:7DiARNgKwCItHya8fXYttK
 features: []
-genres: []
+first_released_as_single: false
 key: she-is-still-a-mystery-the-lovin--spoonful
 lyrics_url: https://www.azlyrics.com/lyrics/lovinspoonful/sheisstillamystery.html
 name: She Is Still A Mystery
@@ -31,8 +34,9 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1967-12-02'
+release_year: 1965
+runtime: 179413
 ---
-
 Remember hallways, you're waiting always
 To see behind the door
 You never seen her, you're gonna meet her
@@ -65,6 +69,3 @@ I thought I'd grow up gracefully
 And understand her finally
 But she's a mystery to me
 But she's a mystery to me
-
-
-

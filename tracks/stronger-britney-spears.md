@@ -1,8 +1,11 @@
 ---
+album: Oops!... I Did It Again
 artists:
 - Britney Spears
+external_ids:
+  spotify: spotify:track:5QhBKPqsnX1uY9fZNaAtZg
 features: []
-genres: []
+first_released_as_single: false
 key: stronger-britney-spears
 lyrics_url: https://www.musixmatch.com/lyrics/Britney-Spears/Stronger
 name: Stronger
@@ -67,6 +70,8 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '2001-03-10'
+release_year: 2000
+runtime: 203000
 ---
 Oh hey, yeah
 

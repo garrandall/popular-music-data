@@ -1,9 +1,12 @@
 ---
+album: Lost Pop & Doo Wop, Vol. 4
 artists:
 - Teegarden
 - Van Winkle
+external_ids:
+  spotify: spotify:track:0nQgG0xNqp96cJwKtrLjhX
 features: []
-genres: []
+first_released_as_single: false
 key: god-love-and-rock---roll-teegarden-van-winkle
 lyrics_url: https://genius.com/Teegarden-and-van-winkle-god-love-and-rock-and-roll-lyrics
 name: God Love And Rock & Roll
@@ -44,6 +47,8 @@ rankings:
   rank: 36
   ranking_list: Billboard Hot 100
   start_date: '1970-11-14'
+release_year: 1970
+runtime: 181600
 ---
 Cheer the light
 Still the fires

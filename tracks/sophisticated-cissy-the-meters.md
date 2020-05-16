@@ -1,8 +1,11 @@
 ---
+album: The Meters
 artists:
 - The Meters
+external_ids:
+  spotify: spotify:track:02ZYIF6aoXo6Zz7EUBpoIc
 features: []
-genres: []
+first_released_as_single: false
 key: sophisticated-cissy-the-meters
 lyrics_url: https://genius.com/The-meters-sophisticated-cissy-lyrics
 name: Sophisticated Cissy
@@ -39,5 +42,7 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1969-03-29'
+release_year: 1969
+runtime: 176693
 ---
 Instrumental

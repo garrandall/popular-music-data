@@ -1,11 +1,14 @@
 ---
+album: Perfect Ten
 artists:
 - Mustard
+external_ids:
+  spotify: spotify:track:2zjGJ0dChMR0KxBZS15aqo
 features:
 - NAV
 - Playboi Carti
 - A Boogie Wit da Hoodie
-genres: []
+first_released_as_single: false
 key: baguettes-in-the-face-mustard-nav-playboi-carti-a-boogie-wit-da-hoodie
 lyrics_url: https://genius.com/Mustard-baguettes-in-the-face-lyrics
 name: Baguettes In The Face
@@ -34,6 +37,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2019-09-21'
+release_year: 2019
+runtime: 174100
 ---
 Mustard on the beat, ho
 

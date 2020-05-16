@@ -1,8 +1,11 @@
 ---
+album: Hat Trick
 artists:
 - America
+external_ids:
+  spotify: spotify:track:7tKyXCUKLNmPCXQey1mElL
 features: []
-genres: []
+first_released_as_single: false
 key: muskrat-love-america
 lyrics_url: https://www.musixmatch.com/lyrics/America/Muskrat-Love
 name: Muskrat Love
@@ -39,6 +42,8 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1973-10-06'
+release_year: 1972
+runtime: 186800
 ---
 Muskrat, muskrat candlelight
 Doin' the town and doin' it right

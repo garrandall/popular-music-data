@@ -1,8 +1,11 @@
 ---
+album: New England
 artists:
 - New England
+external_ids:
+  spotify: spotify:track:03PvsaP7LHVT9CVKCq6Sdv
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-ever-wanna-lose-ya-new-england
 lyrics_url: https://genius.com/New-england-dont-ever-wanna-lose-ya-lyrics
 name: Don't Ever Wanna Lose Ya
@@ -55,6 +58,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1979-07-21'
+release_year: 1979
+runtime: 322266
 ---
 You're driving home in a downpour
 Can't wait for you to walk through the door

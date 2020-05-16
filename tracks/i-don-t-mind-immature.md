@@ -1,8 +1,11 @@
 ---
+album: Playtyme Is Over
 artists:
 - Immature
+external_ids:
+  spotify: spotify:track:43iLFpyEBtuMkfeQm0mQLB
 features: []
-genres: []
+first_released_as_single: false
 key: i-don-t-mind-immature
 lyrics_url: https://genius.com/Immature-i-dont-mind-lyrics
 name: I Don't Mind
@@ -15,6 +18,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1995-05-27'
+release_year: 1994
+runtime: 266400
 ---
 Anything you want, my baby
 Don't you know you drive me crazy

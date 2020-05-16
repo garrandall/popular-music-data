@@ -1,8 +1,11 @@
 ---
+album: Like A Rock
 artists:
 - Bob Seger
+external_ids:
+  spotify: spotify:track:2wz3h7kJNRkHkJUzCW8b7e
 features: []
-genres: []
+first_released_as_single: false
 key: miami-bob-seger
 lyrics_url: https://www.azlyrics.com/lyrics/bobseger/miami.html
 name: Miami
@@ -43,8 +46,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1987-01-10'
+release_year: 1986
+runtime: 280718
 ---
-
 They saw the lights on the horizon
 Out of the seas it came shinin'
 The buildings so high
@@ -76,6 +80,3 @@ To Miami, Oh Miami
 
 They saw the lights
 Miami
-
-
-

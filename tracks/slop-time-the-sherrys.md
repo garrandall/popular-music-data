@@ -1,8 +1,11 @@
 ---
+album: At The Hop With The Sherrys
 artists:
 - The Sherrys
+external_ids:
+  spotify: spotify:track:7qDKFStZHgNQhFXKVly1CQ
 features: []
-genres: []
+first_released_as_single: false
 key: slop-time-the-sherrys
 lyrics_url: https://genius.com/The-sherrys-slop-time-lyrics
 name: Slop Time
@@ -11,6 +14,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1963-01-12'
+release_year: 1962
+runtime: 121173
 ---
 Here we go
 Ready or not

@@ -1,9 +1,12 @@
 ---
+album: Hard Workin' Man
 artists:
 - Brooks
 - Dunn
+external_ids:
+  spotify: spotify:track:1fe09crBtSIpU12St9WGPQ
 features: []
-genres: []
+first_released_as_single: false
 key: rock-my-world--little-country-girl--brooks-dunn
 lyrics_url: https://www.azlyrics.com/lyrics/brooksdunn/rockmyworldlittlecountrygirl.html
 name: Rock My World (Little Country Girl)
@@ -20,8 +23,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1994-03-19'
+release_year: 1993
+runtime: 223840
 ---
-
 She's got a T-Top Camaro with a scoop on the hood
 And two big speakers blasting Johnny B. Goode
 Looking so sweet it oughta be a crime
@@ -53,6 +57,3 @@ Rock my world little Country girl
 
 
 Rock my world little Country girl
-
-
-

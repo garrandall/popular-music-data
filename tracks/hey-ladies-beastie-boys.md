@@ -1,8 +1,11 @@
 ---
+album: Paul's Boutique
 artists:
 - Beastie Boys
+external_ids:
+  spotify: spotify:track:7ByFPbIRGNJJIVAipvHONa
 features: []
-genres: []
+first_released_as_single: true
 key: hey-ladies-beastie-boys
 lyrics_url: https://www.azlyrics.com/lyrics/beastieboys/heyladies.html
 name: Hey Ladies
@@ -47,8 +50,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1989-10-07'
+release_year: 1989
+runtime: 233786
 ---
-
 Hey ladies in the place I'm callin' out to ya
 There never was a city kid truer and bluer
 There's more to me than you'll ever know
@@ -110,6 +114,3 @@ Girls with curls and big long locks
 And beatnik chicks just wearing their smocks
 Walking high and mighty like she's #1 and
 She thinks she's the passionate one
-
-
-

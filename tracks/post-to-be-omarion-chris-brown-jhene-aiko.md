@@ -1,10 +1,13 @@
 ---
+album: Sex Playlist
 artists:
 - Omarion
+external_ids:
+  spotify: spotify:track:6p5abLu89ZSSpRQnbK9Wqs
 features:
 - Chris Brown
 - Jhene Aiko
-genres: []
+first_released_as_single: true
 key: post-to-be-omarion-chris-brown-jhene-aiko
 lyrics_url: https://www.azlyrics.com/lyrics/omarion/posttobe.html
 name: Post To Be
@@ -157,10 +160,9 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2015-10-03'
+release_year: 2014
+runtime: 226580
 ---
-
-
-
 Omarion
 
 Breezy
@@ -270,6 +272,3 @@ C Breezy
 
 I'll make him do it
 I'll make him do it
-
-
-

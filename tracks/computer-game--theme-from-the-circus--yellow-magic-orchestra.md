@@ -1,8 +1,11 @@
 ---
+album: Yellow Magic Orchestra
 artists:
 - Yellow Magic Orchestra
+external_ids:
+  spotify: spotify:track:4q1NMstxVnIXKyqR5AFuvT
 features: []
-genres: []
+first_released_as_single: false
 key: computer-game--theme-from-the-circus--yellow-magic-orchestra
 name: Computer Game "Theme From The Circus"
 rankings:
@@ -42,5 +45,7 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '1980-03-29'
+release_year: 1978
+runtime: 108200
 ---
 

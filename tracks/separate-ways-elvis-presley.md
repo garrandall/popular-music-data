@@ -1,8 +1,11 @@
 ---
+album: Elvis (Fool)
 artists:
 - Elvis Presley
+external_ids:
+  spotify: spotify:track:0g8CHbsID9fZ8eDstzYtHi
 features: []
-genres: []
+first_released_as_single: false
 key: separate-ways-elvis-presley
 lyrics_url: https://www.azlyrics.com/lyrics/elvispresley/separateways.html
 name: Separate Ways
@@ -55,8 +58,9 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1973-02-17'
+release_year: 1972
+runtime: 156440
 ---
-
 I see a change is coming to our lives
 It's not the same as it used to be
 And it's not too late to realize our mistake
@@ -83,6 +87,3 @@ There's nothing left to do but go our separate ways
 And pick up all the pieces left behind us
 And maybe someday, somewhere along the way
 Another love will find us
-
-
-

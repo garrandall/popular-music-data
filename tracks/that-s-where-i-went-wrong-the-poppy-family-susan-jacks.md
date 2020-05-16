@@ -1,9 +1,12 @@
 ---
+album: 'A Good Thing Lost: 1968-1973'
 artists:
 - The Poppy Family
+external_ids:
+  spotify: spotify:track:2ULEguhO6B1XoWLfAW1UGB
 features:
 - Susan Jacks
-genres: []
+first_released_as_single: false
 key: that-s-where-i-went-wrong-the-poppy-family-susan-jacks
 name: That's Where I Went Wrong
 rankings:
@@ -59,5 +62,7 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '1970-10-31'
+release_year: 1970
+runtime: 152933
 ---
 

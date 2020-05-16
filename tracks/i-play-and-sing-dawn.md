@@ -1,8 +1,11 @@
 ---
+album: Candida
 artists:
 - Dawn
+external_ids:
+  spotify: spotify:track:266HrBTiCIPm5RxFiE1El9
 features: []
-genres: []
+first_released_as_single: false
 key: i-play-and-sing-dawn
 lyrics_url: https://www.musixmatch.com/lyrics/Tony-Orlando-feat-Dawn/I-Play-and-Sing
 name: I Play And Sing
@@ -39,6 +42,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1971-05-15'
+release_year: 1970
+runtime: 141000
 ---
 When they ask me for my autograph
 I catch you in the corner of my eye

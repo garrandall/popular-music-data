@@ -1,8 +1,11 @@
 ---
+album: Can't Get Enough
 artists:
 - Barry White
+external_ids:
+  spotify: spotify:track:5dXJ1SoksFkgdx3yxIoYNO
 features: []
-genres: []
+first_released_as_single: false
 key: you-re-the-first-the-last-my-everything-barry-white
 lyrics_url: https://genius.com/Barry-white-youre-the-first-the-last-my-everything-lyrics
 name: You're The First The Last My Everything
@@ -67,6 +70,8 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '1975-02-08'
+release_year: 1974
+runtime: 276466
 ---
 We got it together, didn't we?
 We've definitely got our thing together, don't we baby?

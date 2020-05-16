@@ -1,8 +1,11 @@
 ---
+album: Still In The Game
 artists:
 - Keith Sweat
+external_ids:
+  spotify: spotify:track:5n68p2dbjYnXNP9A2nLzbj
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-not-ready-keith-sweat
 lyrics_url: https://genius.com/Keith-sweat-im-not-ready-lyrics
 name: I'm Not Ready
@@ -47,6 +50,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1999-05-15'
+release_year: 1998
+runtime: 257906
 ---
 You know what you wanna do
 See, I'll never ever go nowhere yet

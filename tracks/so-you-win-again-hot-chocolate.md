@@ -1,8 +1,11 @@
 ---
+album: Every 1's a Winner
 artists:
 - Hot Chocolate
+external_ids:
+  spotify: spotify:track:1tMi57U5Nkk6qRZSNwbzQr
 features: []
-genres: []
+first_released_as_single: false
 key: so-you-win-again-hot-chocolate
 lyrics_url: https://www.azlyrics.com/lyrics/hotchocolate/soyouwinagain.html
 name: So You Win Again
@@ -51,8 +54,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1977-09-24'
+release_year: 1977
+runtime: 271426
 ---
-
 Just to admit one mistake
 That can be hard to take
 I know we've made them fall
@@ -83,6 +87,3 @@ So you win again, you win again
 Here I stand again, the loser
 And just for fun you took my love and run,
 But love had just begun
-
-
-

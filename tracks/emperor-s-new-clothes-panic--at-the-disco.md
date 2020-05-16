@@ -1,8 +1,11 @@
 ---
+album: Death of a Bachelor
 artists:
 - Panic! At The Disco
+external_ids:
+  spotify: spotify:track:3px2rAPu74ltbkf9eZsZ8h
 features: []
-genres: []
+first_released_as_single: false
 key: emperor-s-new-clothes-panic--at-the-disco
 lyrics_url: https://www.azlyrics.com/lyrics/panicatthedisco/emperorsnewclothes.html
 name: Emperor's New Clothes
@@ -23,8 +26,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2016-02-13'
+release_year: 2015
+runtime: 158666
 ---
-
 (Double double double down, pushing it all in)
 (Finders keepers, losers weepers)
 (Double double double down, pushing it all in)
@@ -100,6 +104,3 @@ Oh oh, yeah
 (Double double double down, pushing it all in)
 (Finders keepers, losers weepers)
 (Double double double down, pushing it all in)
-
-
-

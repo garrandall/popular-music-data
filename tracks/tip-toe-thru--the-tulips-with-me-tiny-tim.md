@@ -1,8 +1,11 @@
 ---
+album: God Bless Tiny Tim
 artists:
 - Tiny Tim
+external_ids:
+  spotify: spotify:track:1Vchex0xowRj9k59RLvRfo
 features: []
-genres: []
+first_released_as_single: false
 key: tip-toe-thru--the-tulips-with-me-tiny-tim
 lyrics_url: https://www.azlyrics.com/lyrics/tinytim/tiptoethruthetulipswithme.html
 name: Tip-Toe Thru' The Tulips With Me
@@ -43,8 +46,9 @@ rankings:
   rank: 34
   ranking_list: Billboard Hot 100
   start_date: '1968-07-13'
+release_year: 1968
+runtime: 110840
 ---
-
 Tiptoe through the window
 By the window, that is where I'll be
 Come tiptoe through the tulips with me
@@ -64,6 +68,3 @@ We'll keep the showers away
 And if I kiss you in the garden, in the moonlight
 Will you pardon me?
 And tiptoe through the tulips with me
-
-
-

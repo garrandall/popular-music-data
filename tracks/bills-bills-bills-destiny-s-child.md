@@ -1,8 +1,11 @@
 ---
+album: The Writing's On The Wall
 artists:
 - Destiny's Child
+external_ids:
+  spotify: spotify:track:1Q4yyZamrO2dlyT2lle5Q4
 features: []
-genres: []
+first_released_as_single: false
 key: bills-bills-bills-destiny-s-child
 lyrics_url: https://genius.com/Destinys-child-bills-bills-bills-lyrics
 name: Bills Bills Bills
@@ -87,6 +90,8 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '1999-10-30'
+release_year: 1999
+runtime: 224680
 ---
 At first we started out real cool
 Taking me places I ain't never been

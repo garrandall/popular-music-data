@@ -1,8 +1,11 @@
 ---
+album: Wild Mood Swings
 artists:
 - The Cure
+external_ids:
+  spotify: spotify:track:1BKNn0VGF9vej2aAaz395Y
 features: []
-genres: []
+first_released_as_single: false
 key: the-13th-the-cure
 lyrics_url: https://www.azlyrics.com/lyrics/cure/the13th.html
 name: The 13th
@@ -23,8 +26,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1996-06-01'
+release_year: 1996
+runtime: 257200
 ---
-
 "Everyone feels good in the room" she swings
 "Two chord cool in the head" she sings
 "A-buzz a-buzz a-buzzing like them killer bees... "
@@ -72,6 +76,3 @@ Do it to me! do it to me! do it to me! do it to me!
 Do it to me! do it to me! do it to me!
 
 It feels good!
-
-
-

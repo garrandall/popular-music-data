@@ -1,8 +1,11 @@
 ---
+album: Greatest Disco Hits
 artists:
 - El Coco
+external_ids:
+  spotify: spotify:track:5v4omW5pZc5FVH4e6n6I8Z
 features: []
-genres: []
+first_released_as_single: false
 key: dancing-in-paradise-el-coco
 lyrics_url: https://www.musixmatch.com/lyrics/El-Coco/Dancing-in-Paradise
 name: Dancing In Paradise
@@ -31,6 +34,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1978-12-02'
+release_year: 1978
+runtime: 476800
 ---
 Dancing, dancing in paradise
 Dancing, dancing in paradise

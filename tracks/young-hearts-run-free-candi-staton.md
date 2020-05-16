@@ -1,8 +1,11 @@
 ---
+album: Young Hearts Run Free (US Internet Release)
 artists:
 - Candi Staton
+external_ids:
+  spotify: spotify:track:3MFa9idQuY4iJLWsZl3tIQ
 features: []
-genres: []
+first_released_as_single: false
 key: young-hearts-run-free-candi-staton
 lyrics_url: https://genius.com/Candi-staton-young-hearts-run-free-lyrics
 name: Young Hearts Run Free
@@ -71,6 +74,8 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1976-09-11'
+release_year: 1976
+runtime: 248360
 ---
 What's the sense in sharing this one and only life
 Ending up just another lost and lonely wife

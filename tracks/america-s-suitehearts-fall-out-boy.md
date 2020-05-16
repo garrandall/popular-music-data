@@ -1,8 +1,11 @@
 ---
+album: "Folie \xE0 Deux"
 artists:
 - Fall Out Boy
+external_ids:
+  spotify: spotify:track:3Dg1BK3rHo6mCvzSO2b9Ct
 features: []
-genres: []
+first_released_as_single: false
 key: america-s-suitehearts-fall-out-boy
 lyrics_url: https://www.azlyrics.com/lyrics/falloutboy/americassuitehearts.html
 name: America's Suitehearts
@@ -11,8 +14,9 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '2009-05-16'
+release_year: 2008
+runtime: 214133
 ---
-
 You could have knocked me out with a
 (Feather)
 I know you've heard this all before, but we're just Hell's
@@ -67,6 +71,3 @@ Let's hear it for, let's hear it
 (Sweethearts)
 Let's hear it for, let's
 (Sweethearts)
-
-
-

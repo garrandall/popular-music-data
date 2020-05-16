@@ -1,8 +1,11 @@
 ---
+album: The Age Of Aquarius
 artists:
 - The 5th Dimension
+external_ids:
+  spotify: spotify:track:3wu9uLjDQnqNiNPh7AxcDM
 features: []
-genres: []
+first_released_as_single: false
 key: aquarius-the-5th-dimension
 lyrics_url: https://www.azlyrics.com/lyrics/5thdimension/aquariusletthesunshinein.html
 name: Aquarius
@@ -75,8 +78,9 @@ rankings:
   rank: 26
   ranking_list: Billboard Hot 100
   start_date: '1969-06-28'
+release_year: 1969
+runtime: 289200
 ---
-
 When the moon is in the Seventh House
 And Jupiter aligns with Mars
 Then peace will guide the planets
@@ -158,6 +162,3 @@ The sunshine in
 (Open up your heart) The sunshine in
 
 (Hey, when you're feeling low) Let the sunshine in
-
-
-

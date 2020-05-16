@@ -1,8 +1,11 @@
 ---
+album: Instant Funk
 artists:
 - Instant Funk
+external_ids:
+  spotify: spotify:track:6yUTTHqn3wz6RUgSQx0jRK
 features: []
-genres: []
+first_released_as_single: false
 key: i-got-my-mind-made-up--you-can-get-it-girl--instant-funk
 lyrics_url: https://genius.com/Instant-funk-i-got-my-mind-made-up-you-can-get-it-girl-lyrics
 name: I Got My Mind Made Up (You Can Get It Girl)
@@ -79,6 +82,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1979-06-16'
+release_year: 1976
+runtime: 587706
 ---
 I got my mind made up
 Come on you can get it

@@ -1,9 +1,12 @@
 ---
+album: Battle Of The Sexes
 artists:
 - Ludacris
+external_ids:
+  spotify: spotify:track:5fc3CYrNkLym4ifJgnJtmv
 features:
 - Trey Songz
-genres: []
+first_released_as_single: false
 key: sex-room-ludacris-trey-songz
 lyrics_url: https://www.azlyrics.com/lyrics/ludacris/sexroom.html
 name: Sex Room
@@ -52,9 +55,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2010-08-21'
+release_year: 2010
+runtime: 330440
 ---
-
-
 Welcome to my little sanctuary
 you've been looking so good all day
 and you really got a nigga pretty anxious baby
@@ -114,4 +117,3 @@ I'mma give you this dick to ride
 I'mma grant your every wish and fulfill your fantasy
 aint nobody else allowed in the sex room
 it's only you and me
-

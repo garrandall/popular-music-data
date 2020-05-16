@@ -1,8 +1,11 @@
 ---
+album: Steal the Night
 artists:
 - Cindy Bullens
+external_ids:
+  spotify: spotify:track:5toWQO2P6nsnohBc2q5FwN
 features: []
-genres: []
+first_released_as_single: true
 key: trust-me-cindy-bullens
 lyrics_url: https://genius.com/Cindy-bullens-trust-me-lyrics
 name: Trust Me
@@ -19,6 +22,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1980-01-26'
+release_year: 1979
+runtime: 238800
 ---
 Who's been telling you these things
 Don't you know it's not true

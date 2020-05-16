@@ -1,8 +1,11 @@
 ---
+album: Candle In The Wind 1997 / Something About ...
 artists:
 - Elton John
+external_ids:
+  spotify: spotify:track:3DUcaEvPO72PijivCjtZcU
 features: []
-genres: []
+first_released_as_single: true
 key: candle-in-the-wind-1997-elton-john
 lyrics_url: https://www.azlyrics.com/lyrics/eltonjohn/candleinthewind1997.html
 name: Candle In The Wind 1997
@@ -175,8 +178,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1998-07-25'
+release_year: 1997
+runtime: 250106
 ---
-
 Goodbye England's Rose
 May you ever grow in our hearts
 You were the grace that placed itself
@@ -222,6 +226,3 @@ And your footsteps will always fall here
 Along England's greenest hills
 Your candle's burned out long before
 Your legend ever will
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: The Essential Henry Mancini
 artists:
 - Henry Mancini
+external_ids:
+  spotify: spotify:track:4BjVSvKAfQA4CncucM2Aa9
 features: []
-genres: []
+first_released_as_single: false
 key: moon-river-henry-mancini-and-his-orchestra
 lyrics_url: https://genius.com/Henry-mancini-moon-river-lyrics
 name: Moon River
@@ -111,6 +114,8 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '1962-06-09'
+release_year: 1958
+runtime: 160693
 ---
 Moon River
 Wider than a mile

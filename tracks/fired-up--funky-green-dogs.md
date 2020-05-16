@@ -1,8 +1,11 @@
 ---
+album: Get Fired Up
 artists:
 - Funky Green Dogs
+external_ids:
+  spotify: spotify:track:59cOkSYMBzajxog2tMyQCT
 features: []
-genres: []
+first_released_as_single: false
 key: fired-up--funky-green-dogs
 lyrics_url: https://genius.com/Funky-green-dogs-fired-up-lyrics
 name: Fired Up!
@@ -63,6 +66,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1997-05-10'
+release_year: 1996
+runtime: 485160
 ---
 You got me fired up, fired up
 You got me so

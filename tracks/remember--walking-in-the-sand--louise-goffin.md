@@ -1,8 +1,11 @@
 ---
+album: Sometimes A Circle
 artists:
 - Louise Goffin
+external_ids:
+  spotify: spotify:track:1ov1De6lXe8vqM6SBdLiwS
 features: []
-genres: []
+first_released_as_single: false
 key: remember--walking-in-the-sand--louise-goffin
 lyrics_url: https://genius.com/Louise-goffin-i-cant-remember-why-lyrics
 name: Remember (Walking In The Sand)
@@ -43,6 +46,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1979-10-13'
+release_year: 1979
+runtime: 246066
 ---
 I saw you in the supermarket, looking like a worker department
 Everyone had told me you were dead

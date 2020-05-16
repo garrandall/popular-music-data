@@ -1,8 +1,11 @@
 ---
+album: Taylor Swift
 artists:
 - Taylor Swift
+external_ids:
+  spotify: spotify:track:7zMcNqs55Mxer82bvZFkpg
 features: []
-genres: []
+first_released_as_single: false
 key: teardrops-on-my-guitar-taylor-swift
 lyrics_url: https://www.azlyrics.com/lyrics/taylorswift/teardropsonmyguitar.html
 name: Teardrops On My Guitar
@@ -199,8 +202,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2008-05-17'
+release_year: 2006
+runtime: 203040
 ---
-
 Drew looks at me
 I fake a smile so he won't see
 That I want and I'm needing
@@ -247,6 +251,3 @@ And he's all that I need to fall into
 
 Drew looks at me
 I fake a smile so he won't see
-
-
-

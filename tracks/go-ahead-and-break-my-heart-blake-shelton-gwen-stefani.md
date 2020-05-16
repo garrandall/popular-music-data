@@ -1,9 +1,12 @@
 ---
+album: If I'm Honest
 artists:
 - Blake Shelton
+external_ids:
+  spotify: spotify:track:6eJBihAzTWRxvvjJWuRQXM
 features:
 - Gwen Stefani
-genres: []
+first_released_as_single: false
 key: go-ahead-and-break-my-heart-blake-shelton-gwen-stefani
 lyrics_url: https://www.azlyrics.com/lyrics/blakeshelton/goaheadandbreakmyheart.html
 name: Go Ahead And Break My Heart
@@ -12,9 +15,9 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '2016-05-28'
+release_year: 2016
+runtime: 263800
 ---
-
-
 The sun is setting on your last good try
 Here I am again with half a goodbye
 Wonder if you're really gone this time
@@ -69,6 +72,3 @@ If you really need a brand new start
 Why don't you go ahead and break my heart?
 Oh, go on and break, go on and break my heart
 Go on and break, go on and break my heart
-
-
-

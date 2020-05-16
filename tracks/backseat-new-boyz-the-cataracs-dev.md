@@ -1,10 +1,13 @@
 ---
+album: Too Cool To Care
 artists:
 - New Boyz
+external_ids:
+  spotify: spotify:track:4dWjQ3wEfW6KPaaxCoaPH4
 features:
 - The Cataracs
 - Dev
-genres: []
+first_released_as_single: false
 key: backseat-new-boyz-the-cataracs-dev
 lyrics_url: https://www.azlyrics.com/lyrics/newboyz/backseat.html
 name: Backseat
@@ -89,9 +92,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2011-07-16'
+release_year: 2011
+runtime: 224093
 ---
-
-
 New Boyz!
 
 
@@ -132,6 +135,3 @@ Met a-met a group of girls in a Escalade
 They came wit'chu and left with me
 
 Ha!
-
-
-

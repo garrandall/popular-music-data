@@ -1,8 +1,11 @@
 ---
+album: The Ultimate Tribute To Garth Brooks
 artists:
 - Garth Brooks
+external_ids:
+  spotify: spotify:track:5PVqGDjrL3AzbgRbqwIieC
 features: []
-genres: []
+first_released_as_single: false
 key: do-what-you-gotta-do-garth-brooks
 lyrics_url: https://www.azlyrics.com/lyrics/garthbrooks/dowhatyougottado.html
 name: Do What You Gotta Do
@@ -31,8 +34,9 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '2000-03-25'
+release_year: 2000
+runtime: 185160
 ---
-
 Sometimes you've got to take the heat
 If you're gonna walk down on the mean street
 Take the heat and you see it through
@@ -68,6 +72,3 @@ Do what you gotta do
 There ain't nobody in this world
 That's gonna do it for you
 Do what you gotta do
-
-
-

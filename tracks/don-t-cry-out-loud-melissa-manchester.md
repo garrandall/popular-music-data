@@ -1,8 +1,11 @@
 ---
+album: Don't Cry Out Loud
 artists:
 - Melissa Manchester
+external_ids:
+  spotify: spotify:track:19UFoFiFCs3rTyHKSbvhZk
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-cry-out-loud-melissa-manchester
 lyrics_url: https://genius.com/Melissa-manchester-dont-cry-out-loud-lyrics
 name: Don't Cry Out Loud
@@ -99,6 +102,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1979-04-21'
+release_year: 1978
+runtime: 229227
 ---
 Baby cried the day the circus came to town
 'Cause she didn't want parades just passing by her

@@ -1,8 +1,11 @@
 ---
+album: Spirits Having Flown
 artists:
 - Bee Gees
+external_ids:
+  spotify: spotify:track:5xSHwbuwbeacib7VkIGU9D
 features: []
-genres: []
+first_released_as_single: false
 key: tragedy-bee-gees
 lyrics_url: https://www.azlyrics.com/lyrics/beegees/tragedy.html
 name: Tragedy
@@ -87,8 +90,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1979-06-23'
+release_year: 1979
+runtime: 303986
 ---
-
 Here I lie
 In a lost and lonely part of town
 Held in time
@@ -140,6 +144,3 @@ With no-one beside you you're
 Goin' nowhere
 
 Tragedy...
-
-
-

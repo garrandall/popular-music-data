@@ -1,8 +1,11 @@
 ---
+album: The Johnnie Taylor Philosophy Continues
 artists:
 - Johnnie Taylor
+external_ids:
+  spotify: spotify:track:1UUntqWL8aZ42vFqivpvtQ
 features: []
-genres: []
+first_released_as_single: false
 key: i-could-never-be-president-johnnie-taylor
 lyrics_url: https://genius.com/Johnnie-taylor-i-could-never-be-president-lyrics
 name: I Could Never Be President
@@ -39,6 +42,8 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1969-09-27'
+release_year: 1969
+runtime: 139560
 ---
 If I became President, I know I won't last a day
 I would lower all the taxes just to suit your taste

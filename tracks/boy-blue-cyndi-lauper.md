@@ -1,8 +1,11 @@
 ---
+album: True Colors
 artists:
 - Cyndi Lauper
+external_ids:
+  spotify: spotify:track:3NInJlfnLUHYSParptiJIS
 features: []
-genres: []
+first_released_as_single: false
 key: boy-blue-cyndi-lauper
 lyrics_url: https://www.azlyrics.com/lyrics/cyndilauper/boyblue.html
 name: Boy Blue
@@ -23,8 +26,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1987-07-04'
+release_year: 1986
+runtime: 286666
 ---
-
 You never knew yourself well enough
 But she never knew you at all
 And when she put you out on your own
@@ -52,6 +56,3 @@ Dance a little, cry a little...
 
 Where are you boy blue
 Where are you...
-
-
-

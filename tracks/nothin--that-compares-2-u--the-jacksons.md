@@ -1,8 +1,11 @@
 ---
+album: 2300 Jackson Street
 artists:
 - The Jacksons
+external_ids:
+  spotify: spotify:track:4wfqntsKjeI91KlnAJ9Clh
 features: []
-genres: []
+first_released_as_single: false
 key: nothin--that-compares-2-u--the-jacksons
 lyrics_url: https://www.azlyrics.com/lyrics/jacksons/nothinthatcompares2u.html
 name: Nothin (That Compares 2 U)
@@ -35,8 +38,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1989-07-15'
+release_year: 1989
+runtime: 322160
 ---
-
 I'll give my all and all
 To you and no other woman
 Never will I let you down
@@ -80,4 +84,3 @@ Will you love me in return
 And if it's in your heart then show me
 You will never have to worry
 Cause I'll always be around
-

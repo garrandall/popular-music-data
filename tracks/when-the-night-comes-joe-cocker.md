@@ -1,8 +1,11 @@
 ---
+album: One Night Of Sin
 artists:
 - Joe Cocker
+external_ids:
+  spotify: spotify:track:2HM42m9OHA1kEHbB5j7rDk
 features: []
-genres: []
+first_released_as_single: false
 key: when-the-night-comes-joe-cocker
 lyrics_url: https://www.azlyrics.com/lyrics/joecocker/whenthenightcomes.html
 name: When The Night Comes
@@ -87,8 +90,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1990-03-10'
+release_year: 1989
+runtime: 288733
 ---
-
 Hold on
 I'll be back for you
 It won't be long
@@ -173,6 +177,3 @@ When the night comes
 Ah ah when the night comes
 Ah ah oh
 Love me
-
-
-

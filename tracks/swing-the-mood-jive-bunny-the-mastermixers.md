@@ -1,9 +1,12 @@
 ---
+album: Jive Bunny And The Mastermixers The Biggest Party On The Planet
 artists:
 - Jive Bunny
 - The Mastermixers
+external_ids:
+  spotify: spotify:track:3Aimpqxpvmz7jhJlNnEd5c
 features: []
-genres: []
+first_released_as_single: false
 key: swing-the-mood-jive-bunny-the-mastermixers
 lyrics_url: https://genius.com/Jive-bunny-and-the-mastermixers-swing-the-mood-lyrics
 name: Swing The Mood
@@ -88,6 +91,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1990-03-10'
+release_year: 1989
+runtime: 259573
 ---
 C'mon everubody
 CCC'mon everybody

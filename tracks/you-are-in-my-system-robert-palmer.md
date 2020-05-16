@@ -1,8 +1,11 @@
 ---
+album: Pride
 artists:
 - Robert Palmer
+external_ids:
+  spotify: spotify:track:1NluXt216fuqjX7KcmYQxM
 features: []
-genres: []
+first_released_as_single: false
 key: you-are-in-my-system-robert-palmer
 lyrics_url: https://www.azlyrics.com/lyrics/robertpalmer/youareinmysystem.html
 name: You Are In My System
@@ -31,8 +34,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1983-07-23'
+release_year: 1983
+runtime: 267240
 ---
-
 Day by day and night by night
 I feel you in my mind
 It happens all the time
@@ -83,6 +87,3 @@ I just want you to know that
 You, you're my system
 Got me burning I'm on fire
 You, you're in my system
-
-
-

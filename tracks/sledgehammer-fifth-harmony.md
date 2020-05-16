@@ -1,8 +1,11 @@
 ---
+album: Reflection
 artists:
 - Fifth Harmony
+external_ids:
+  spotify: spotify:track:4rUTAkOU7OkVGeQuyQCHhF
 features: []
-genres: []
+first_released_as_single: false
 key: sledgehammer-fifth-harmony
 lyrics_url: https://www.azlyrics.com/lyrics/fifthharmony/sledgehammer.html
 name: Sledgehammer
@@ -67,9 +70,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2015-03-21'
+release_year: 2014
+runtime: 230906
 ---
-
-
 If you could take my pulse right now
 It would feel just like a sledgehammer
 If you could feel my heartbeat now
@@ -166,6 +169,3 @@ You're taking over the beat of my body
 But you lift me up, lift me up
 If you take my pulse right now
 It would feel just like a sledgehammer
-
-
-

@@ -1,10 +1,13 @@
 ---
+album: Funk Wav Bounces Vol.1
 artists:
 - Calvin Harris
+external_ids:
+  spotify: spotify:track:3FDrI0FLKzrYQiWxPhqV2W
 features:
 - Future
 - Khalid
-genres: []
+first_released_as_single: true
 key: rollin-calvin-harris-future-khalid
 lyrics_url: https://www.azlyrics.com/lyrics/calvinharris/rollin.html
 name: Rollin
@@ -25,9 +28,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2017-08-05'
+release_year: 2017
+runtime: 272666
 ---
-
-
 I've been rollin' on the freeway
 I've been riding 85
 I've been thinking way too much
@@ -113,6 +116,3 @@ You heart is stuck in all your apologies
 Gave you my all but you went off on me
 Keep your love, it doesn't feel the same
 I hope it hurts you when you're hearin' my name
-
-
-

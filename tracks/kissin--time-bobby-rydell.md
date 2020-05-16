@@ -1,8 +1,11 @@
 ---
+album: Bobby Rydell Sings Wild (wood) Days
 artists:
 - Bobby Rydell
+external_ids:
+  spotify: spotify:track:7qHFrB7RtmiamNeFUbbIxl
 features: []
-genres: []
+first_released_as_single: false
 key: kissin--time-bobby-rydell
 lyrics_url: https://genius.com/Bobby-rydell-kissin-time-lyrics
 name: Kissin' Time
@@ -75,6 +78,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1959-10-19'
+release_year: 1959
+runtime: 135426
 ---
 Kissin' Time
 

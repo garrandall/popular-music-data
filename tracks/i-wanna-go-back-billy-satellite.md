@@ -1,8 +1,11 @@
 ---
+album: Billy Satellite
 artists:
 - Billy Satellite
+external_ids:
+  spotify: spotify:track:37SmgvvJ3iQWtVn9dmNyfK
 features: []
-genres: []
+first_released_as_single: false
 key: i-wanna-go-back-billy-satellite
 lyrics_url: https://www.musixmatch.com/lyrics/Billy-Satellite/I-Wanna-Go-Back
 name: I Wanna Go Back
@@ -27,6 +30,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1985-01-05'
+release_year: 1984
+runtime: 230173
 ---
 I was listening to the radio
 I heard a song

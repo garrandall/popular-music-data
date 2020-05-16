@@ -1,8 +1,11 @@
 ---
+album: All the Right Reasons
 artists:
 - Nickelback
+external_ids:
+  spotify: spotify:track:3rjM7GhxdVq1YySsHBs21i
 features: []
-genres: []
+first_released_as_single: false
 key: animals-nickelback
 lyrics_url: https://www.azlyrics.com/lyrics/nickelback/animals.html
 name: Animals
@@ -19,8 +22,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2006-04-08'
+release_year: 2005
+runtime: 186600
 ---
-
 I, I'm driving black on black
 Just got my license back
 I got this feeling in my veins this train is coming off the track
@@ -96,6 +100,3 @@ Ain't nothing wrong with it
 Check out the trouble we're in
 We're just a couple animals
 Get in, just get in
-
-
-

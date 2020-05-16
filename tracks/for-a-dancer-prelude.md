@@ -1,8 +1,11 @@
 ---
+album: 'After the Gold Rush: The Dawn/Pye Anthology 1973-77'
 artists:
 - Prelude
+external_ids:
+  spotify: spotify:track:5A8MC4deXvJKsEpvbiL4xr
 features: []
-genres: []
+first_released_as_single: false
 key: for-a-dancer-prelude
 name: For A Dancer
 rankings:
@@ -38,5 +41,7 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '1976-01-17'
+release_year: 1975
+runtime: 208160
 ---
 

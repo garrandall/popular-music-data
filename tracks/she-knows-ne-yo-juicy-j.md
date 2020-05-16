@@ -1,9 +1,12 @@
 ---
+album: Non-Fiction
 artists:
 - Ne-Yo
+external_ids:
+  spotify: spotify:track:7seTcUFOhn5caSDbiSfsp0
 features:
 - Juicy J
-genres: []
+first_released_as_single: false
 key: she-knows-ne-yo-juicy-j
 lyrics_url: https://www.azlyrics.com/lyrics/neyo/sheknows.html
 name: She Knows
@@ -88,9 +91,9 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '2015-04-18'
+release_year: 2014
+runtime: 214725
 ---
-
-
 Yeah, uh-huh
 Mmm, yeah
 (Ya)
@@ -156,9 +159,8 @@ Ain't no 'I' in Team but
 I got my eyes on you, I watch it bounce
 When she walk, she lick her lips
 When she talk
-I throw her in that Bentley coupÃ© with the top off like Mardi Gras
+I throw her in that Bentley coupé with the top off like Mardi Gras
 All that cake, come get you some filling
 Like a soap opera watch all my children
 Hit it so long that she might lose feeling
 With her legs in the air, she can walk on the ceiling
-

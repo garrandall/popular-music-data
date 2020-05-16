@@ -1,8 +1,11 @@
 ---
+album: Songs for the Saints
 artists:
 - Kenny Chesney
+external_ids:
+  spotify: spotify:track:6n6OQfBpCgzF9oEg8zhBN7
 features: []
-genres: []
+first_released_as_single: false
 key: get-along-kenny-chesney
 lyrics_url: https://www.azlyrics.com/lyrics/kennychesney/getalong.html
 name: Get Along
@@ -91,8 +94,9 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2018-09-08'
+release_year: 2018
+runtime: 199625
 ---
-
 Met a man wearin' a t-shirt, says "Virginia is for lovers"
 Had a Bible in his left hand and a bottle in the other
 He says "All you're really given is the sunshine and your name"
@@ -142,6 +146,3 @@ Paint a wall, learn to dance
 Call your mom, buy a boat
 Drink a beer, sing a song
 Make a friend, can't we all get along
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Eagles Live
 artists:
 - Eagles
+external_ids:
+  spotify: spotify:track:1osAmhnIT0rtuqLZ1IliBQ
 features: []
-genres: []
+first_released_as_single: false
 key: seven-bridges-road-eagles
 lyrics_url: https://www.azlyrics.com/lyrics/eagles/sevenbridgesroad.html
 name: Seven Bridges Road
@@ -63,8 +66,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1981-03-21'
+release_year: 1980
+runtime: 184640
 ---
-
 There are stars
 In the Southern sky
 Southward as you go
@@ -87,6 +91,3 @@ And if ever you decide
 You should go
 There is a taste of thyme sweetened honey
 Down the Seven Bridges Road
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: The Ultimate Petula Clark
 artists:
 - Petula Clark
+external_ids:
+  spotify: spotify:track:6mVViw6iAtumTYpU7IcEBB
 features: []
-genres: []
+first_released_as_single: false
 key: kiss-me-goodbye-petula-clark
 lyrics_url: https://genius.com/Petula-clark-kiss-me-goodbye-lyrics
 name: Kiss Me Goodbye
@@ -51,6 +54,8 @@ rankings:
   rank: 38
   ranking_list: Billboard Hot 100
   start_date: '1968-04-27'
+release_year: 1968
+runtime: 232400
 ---
 We choose it...win or lose it
 Love is never quite the same

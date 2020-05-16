@@ -1,8 +1,11 @@
 ---
+album: The Vintage Collection
 artists:
 - The Tokens
+external_ids:
+  spotify: spotify:track:7Fc7BkskbDHyv1eYJzitIp
 features: []
-genres: []
+first_released_as_single: false
 key: he-s-in-town-the-tokens
 lyrics_url: https://genius.com/The-tokens-hes-in-town-lyrics
 name: He's In Town
@@ -39,6 +42,8 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '1964-09-26'
+release_year: 1964
+runtime: 157933
 ---
 He's in town
 (He's in town)

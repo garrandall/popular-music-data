@@ -1,9 +1,12 @@
 ---
+album: Championships
 artists:
 - Meek Mill
+external_ids:
+  spotify: spotify:track:2Cgo8W3rjj1oGHJtb61H0o
 features:
 - 21 Savage
-genres: []
+first_released_as_single: false
 key: pay-you-back-meek-mill-21-savage
 lyrics_url: https://www.azlyrics.com/lyrics/meekmill/payyouback.html
 name: Pay You Back
@@ -12,9 +15,9 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '2018-12-15'
+release_year: 2018
+runtime: 235262
 ---
-
-
 Yeah, oh
 (Wheezy outta here)
 
@@ -99,6 +102,3 @@ Pay you back, nigga gon' pay you back (Pay you back)
 Leave 'em with some real rich niggas that'll get you wet (Wet)
 We ain't ever fittin' no nigga with like, "Where you at?" (Where you whoo)
 Pay you back, niggas gon' pay you back, ho
-
-
-

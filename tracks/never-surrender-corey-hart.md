@@ -1,8 +1,11 @@
 ---
+album: Boy In The Box
 artists:
 - Corey Hart
+external_ids:
+  spotify: spotify:track:5U5p472hgeXUKvh0d8RL4K
 features: []
-genres: []
+first_released_as_single: false
 key: never-surrender-corey-hart
 lyrics_url: https://www.azlyrics.com/lyrics/coreyhart/neversurrender.html
 name: Never Surrender
@@ -87,8 +90,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1985-10-19'
+release_year: 1985
+runtime: 295000
 ---
-
 Just a little more time
 Is all we're asking for
 'Cause just a little more time
@@ -142,6 +146,3 @@ Time is all you're asking for
 Stand your ground, never surrender
 Oh, oh, oh, oh, I said
 You never surrender, oh
-
-
-

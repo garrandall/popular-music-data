@@ -1,8 +1,11 @@
 ---
+album: B2K
 artists:
 - B2K
+external_ids:
+  spotify: spotify:track:63MKNIWCCxtqnehwFhmYqp
 features: []
-genres: []
+first_released_as_single: false
 key: gots-ta-be-b2k
 lyrics_url: https://www.azlyrics.com/lyrics/b2k/gotstabe.html
 name: Gots Ta Be
@@ -79,9 +82,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2002-08-24'
+release_year: 2002
+runtime: 321200
 ---
-
-
 It's not my way, to talk to strangers
 But I feel like I already know you, oh
 And if you need somebody
@@ -157,8 +160,3 @@ You can't get mad at nobody but me
 In fact I'm the only one you can recieve
 Gots ta be the one you want
 Gots ta be the one you flaunt
-
-
-
-
-

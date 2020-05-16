@@ -1,9 +1,12 @@
 ---
+album: Unexpected
 artists:
 - Lumidee
+external_ids:
+  spotify: spotify:track:5FcKZ0CKzoVncCkXphz80h
 features:
 - Tony Sunshine
-genres: []
+first_released_as_single: false
 key: she-s-like-the-wind-lumidee-tony-sunshine
 lyrics_url: https://genius.com/Lumidee-shes-like-the-wind-ft-tony-sunshine-lyrics
 name: She's Like The Wind
@@ -72,6 +75,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2007-05-19'
+release_year: 2007
+runtime: 225512
 ---
 Listen baby I've been around
 I know that you like how I wear my crown

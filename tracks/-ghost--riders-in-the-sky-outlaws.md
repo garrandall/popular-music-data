@@ -1,8 +1,11 @@
 ---
+album: Ghost Riders
 artists:
 - Outlaws
+external_ids:
+  spotify: spotify:track:4ncVYIs3UFvitjvc8RIPkM
 features: []
-genres: []
+first_released_as_single: false
 key: -ghost--riders-in-the-sky-outlaws
 lyrics_url: https://www.azlyrics.com/lyrics/outlaws/ghostridersinthesky.html
 name: (Ghost) Riders In The Sky
@@ -67,8 +70,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1981-04-04'
+release_year: 1980
+runtime: 351400
 ---
-
 An old cowboy went ridin' out one dark and windy day
 Upon a ridge he rested as he went along his way
 When all at once a mighty herd of red eyed steers he saw
@@ -96,6 +100,3 @@ Ghost riders in
 Ghost riders in the sky
 
 Ghost riders in the sky
-
-
-

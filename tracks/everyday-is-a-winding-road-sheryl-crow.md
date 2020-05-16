@@ -1,8 +1,11 @@
 ---
+album: Sheryl Crow
 artists:
 - Sheryl Crow
+external_ids:
+  spotify: spotify:track:0t6DAi9KEiaWOtgTTXGhD2
 features: []
-genres: []
+first_released_as_single: false
 key: everyday-is-a-winding-road-sheryl-crow
 lyrics_url: https://www.azlyrics.com/lyrics/sherylcrow/everydayisawindingroad.html
 name: Everyday Is A Winding Road
@@ -87,8 +90,9 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '1997-08-09'
+release_year: 1996
+runtime: 256000
 ---
-
 I hitched a ride with a vending machine repair man
 He says he's been down this road more than twice
 He was high on intellectualism
@@ -119,4 +123,3 @@ I've been swimming in a sea of anarchy
 I've been living on coffee and nicotine
 I've been wondering if all the things I've seen
 Were ever real, were ever really happening
-

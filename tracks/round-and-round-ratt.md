@@ -1,8 +1,11 @@
 ---
+album: Out Of The Cellar
 artists:
 - Ratt
+external_ids:
+  spotify: spotify:track:5h0IEwVpL7GlM78oMIU4U4
 features: []
-genres: []
+first_released_as_single: true
 key: round-and-round-ratt
 lyrics_url: https://www.azlyrics.com/lyrics/ratt/roundandround.html
 name: Round and Round
@@ -79,8 +82,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1984-10-13'
+release_year: 1984
+runtime: 265867
 ---
-
 Out on the streets, that's where we'll meet
 You make the night, I always cross the line
 Tightened our belts, abuse ourselves
@@ -127,6 +131,3 @@ Round and round
 What comes around goes around
 I'll tell you why, why, why, why
 Round and round
-
-
-

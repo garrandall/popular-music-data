@@ -1,8 +1,11 @@
 ---
+album: The Ritz On Fire (Live)
 artists:
 - KISS
+external_ids:
+  spotify: spotify:track:4Q4Zx63rLb42DOGZt4JCYd
 features: []
-genres: []
+first_released_as_single: false
 key: tears-are-falling-kiss
 lyrics_url: https://genius.com/Kiss-tears-are-falling-lyrics
 name: Tears Are Falling
@@ -59,6 +62,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1986-01-11'
+release_year: 1974
+runtime: 231466
 ---
 I read your mind like an open book
 You lost the fire in your eyes

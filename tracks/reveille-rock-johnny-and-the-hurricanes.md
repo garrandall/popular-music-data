@@ -1,8 +1,11 @@
 ---
+album: Stormsville
 artists:
 - Johnny And The Hurricanes
+external_ids:
+  spotify: spotify:track:6VkA4JLyQGrgved159U1Rf
 features: []
-genres: []
+first_released_as_single: false
 key: reveille-rock-johnny-and-the-hurricanes
 lyrics_url: https://genius.com/Johnny-and-the-hurricanes-reveille-rock-lyrics
 name: Reveille Rock
@@ -59,6 +62,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1960-01-25'
+release_year: 1959
+runtime: 144133
 ---
 All right you guys rise and shine
 

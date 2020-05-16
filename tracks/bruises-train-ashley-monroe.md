@@ -1,9 +1,12 @@
 ---
+album: California 37
 artists:
 - Train
+external_ids:
+  spotify: spotify:track:3adeqciqrsp6PQqR0hGDC7
 features:
 - Ashley Monroe
-genres: []
+first_released_as_single: false
 key: bruises-train-ashley-monroe
 lyrics_url: https://www.azlyrics.com/lyrics/train/bruises.html
 name: Bruises
@@ -40,8 +43,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2013-10-19'
+release_year: 2012
+runtime: 231786
 ---
-
 Haven't seen you since high school
 Good to see you're still beautiful
 Gravity hasn't started to pull
@@ -105,6 +109,3 @@ Everybody loses
 We all got bruises
 We all got bruises
 We all got bruises
-
-
-

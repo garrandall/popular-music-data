@@ -1,8 +1,11 @@
 ---
+album: Glow
 artists:
 - Rick James
+external_ids:
+  spotify: spotify:track:5eAajXyeWz2BTex8QSzA7s
 features: []
-genres: []
+first_released_as_single: false
 key: can-t-stop-rick-james
 lyrics_url: https://genius.com/Rick-james-cant-stop-lyrics
 name: Can't Stop
@@ -39,6 +42,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1985-05-18'
+release_year: 1985
+runtime: 369933
 ---
 Can't stop, can't stop, can't stop, can't stop
 Can't stop, can't stop, can't stop, can't stop

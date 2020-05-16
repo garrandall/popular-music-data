@@ -1,9 +1,12 @@
 ---
+album: Let's Get The Mood Right
 artists:
 - Johnny Gill
+external_ids:
+  spotify: spotify:track:68kNu4wpgxu6k9u03J135K
 features:
 - Roger Troutman
-genres: []
+first_released_as_single: false
 key: it-s-your-body-johnny-gill-roger-troutman
 lyrics_url: https://www.azlyrics.com/lyrics/johnnygill/itsyourbody.html
 name: It's Your Body
@@ -84,8 +87,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1997-04-19'
+release_year: 1996
+runtime: 333866
 ---
-
 Girl it's your body (it's your body, body, baby)
 Oh, oh, girl it's your body (it's your body, body, girl)
 I just can't seem to get enough, yeah
@@ -170,6 +174,3 @@ Shoo-be-do-wop
 I want your body, body girl
 I just can't seem to get enough
 fade out
-
-
-

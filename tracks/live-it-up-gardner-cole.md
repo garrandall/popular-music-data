@@ -1,8 +1,11 @@
 ---
+album: Triangles
 artists:
 - Gardner Cole
+external_ids:
+  spotify: spotify:track:6rA3XhfwaW4D7pPqJn8dhv
 features: []
-genres: []
+first_released_as_single: false
 key: live-it-up-gardner-cole
 name: Live It Up
 rankings:
@@ -18,5 +21,7 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1988-10-29'
+release_year: 1988
+runtime: 226533
 ---
 

@@ -1,9 +1,12 @@
 ---
+album: Scenes From The Southside
 artists:
 - Bruce Hornsby
 - The Range
+external_ids:
+  spotify: spotify:track:2doViFfuuafDzwg9az7QBk
 features: []
-genres: []
+first_released_as_single: false
 key: look-out-any-window-bruce-hornsby-the-range
 lyrics_url: https://genius.com/Bruce-hornsby-and-the-range-look-out-any-window-lyrics
 name: Look Out Any Window
@@ -56,6 +59,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1988-10-08'
+release_year: 1988
+runtime: 326226
 ---
 There's a man working in a field
 Sees the rain and it's burning

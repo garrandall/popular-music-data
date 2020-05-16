@@ -1,8 +1,11 @@
 ---
+album: Midnight Memories
 artists:
 - One Direction
+external_ids:
+  spotify: spotify:track:4VL2XUsn5dHQYdf5nPHGdM
 features: []
-genres: []
+first_released_as_single: true
 key: best-song-ever-one-direction
 lyrics_url: https://genius.com/One-direction-best-song-ever-lyrics
 name: Best Song Ever
@@ -91,6 +94,8 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '2014-01-11'
+release_year: 2013
+runtime: 202440
 ---
 Maybe it's the way she walked
 Straight into my heart and stole it

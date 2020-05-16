@@ -1,8 +1,11 @@
 ---
+album: Novacane
 artists:
 - Frank Ocean
+external_ids:
+  spotify: spotify:track:4osgfFTICMkcGbbigdsa53
 features: []
-genres: []
+first_released_as_single: true
 key: novacane-frank-ocean
 lyrics_url: https://www.azlyrics.com/lyrics/frankocean/novacane.html
 name: Novacane
@@ -23,8 +26,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2011-08-13'
+release_year: 2011
+runtime: 302346
 ---
-
 I think I started somethin', I got what I wanted
 Did didn't I can't feel nothin', superhuman
 Even when I'm fuckin' Viagra poppin', every single record autotunin'
@@ -102,6 +106,3 @@ I can't feel, feel her,
 Novacane for the pain, for the pain.
 I can't, can't feel her, feel her, feel her.
 Novacane, Novacane, cane, cane, cane.
-
-
-

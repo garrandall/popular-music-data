@@ -1,8 +1,11 @@
 ---
+album: Funeral
 artists:
 - Lil Wayne
+external_ids:
+  spotify: spotify:track:5f9JYuHSIHjp6rggue13RS
 features: []
-genres: []
+first_released_as_single: false
 key: mahogany-lil-wayne
 lyrics_url: https://www.azlyrics.com/lyrics/lilwayne/mahogany.html
 name: Mahogany
@@ -11,8 +14,9 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '2020-02-15'
+release_year: 2020
+runtime: 177866
 ---
-
 Check
 
 Mahogany dashboard, I do the dash, boy
@@ -88,6 +92,3 @@ Louis mahogany bags for the bag boys
 Soon as we land, on mahogany sand
 I ain't arguin', I'm sayin'
 Oh, mahogany
-
-
-

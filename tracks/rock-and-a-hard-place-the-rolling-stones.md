@@ -1,8 +1,11 @@
 ---
+album: Steel Wheels (Remastered 2009)
 artists:
 - The Rolling Stones
+external_ids:
+  spotify: spotify:track:7aZB40a3Zydggr8wJf1lhO
 features: []
-genres: []
+first_released_as_single: false
 key: rock-and-a-hard-place-the-rolling-stones
 lyrics_url: https://genius.com/The-rolling-stones-rock-and-a-hard-place-lyrics
 name: Rock And A Hard Place
@@ -63,6 +66,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1990-02-03'
+release_year: 1989
+runtime: 324493
 ---
 The fields of Eden are full of trash
 And if we beg and we borrow and steal

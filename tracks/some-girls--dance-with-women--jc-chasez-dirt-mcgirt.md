@@ -1,9 +1,12 @@
 ---
+album: Schizophrenic
 artists:
 - JC Chasez
+external_ids:
+  spotify: spotify:track:2JlaqhKKiHZCSlATvFkrVl
 features:
 - Dirt McGirt
-genres: []
+first_released_as_single: false
 key: some-girls--dance-with-women--jc-chasez-dirt-mcgirt
 name: Some Girls (Dance With Women)
 rankings:
@@ -27,5 +30,7 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2004-02-28'
+release_year: 2004
+runtime: 234133
 ---
 

@@ -1,9 +1,12 @@
 ---
+album: Rearview Town
 artists:
 - Jason Aldean
+external_ids:
+  spotify: spotify:track:2dwoqUYTy6SOy1dFqcTndC
 features:
 - Miranda Lambert
-genres: []
+first_released_as_single: false
 key: drowns-the-whiskey-jason-aldean-miranda-lambert
 lyrics_url: https://www.azlyrics.com/lyrics/jasonaldean/drownsthewhiskey.html
 name: Drowns The Whiskey
@@ -84,9 +87,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2018-11-10'
+release_year: 2018
+runtime: 202066
 ---
-
-
 All the folks down in Lynchburg, Tennessee
 Been working hard for good ol' boys like me
 I don't wanna be the one to tell 'em
@@ -129,6 +132,3 @@ Is how your memory drowns the whiskey
 
 All the folks down in Lynchburg, Tennessee
 Been working hard for good ol' boys like me
-
-
-

@@ -1,9 +1,12 @@
 ---
+album: Characters
 artists:
 - Stevie Wonder
 - Michael Jackson
+external_ids:
+  spotify: spotify:track:0xcSiOtyL97KkJGrdhG33w
 features: []
-genres: []
+first_released_as_single: false
 key: get-it-stevie-wonder-michael-jackson
 lyrics_url: https://genius.com/Stevie-wonder-get-it-lyrics
 name: Get It
@@ -32,6 +35,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1988-06-11'
+release_year: 1987
+runtime: 272693
 ---
 Miss Lady Girl
 Is putting her love on the shelf

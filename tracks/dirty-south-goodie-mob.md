@@ -1,8 +1,11 @@
 ---
+album: Soul Food
 artists:
 - Goodie Mob
+external_ids:
+  spotify: spotify:track:27YlMLaVRhOZZ6ba75iVB7
 features: []
-genres: []
+first_released_as_single: false
 key: dirty-south-goodie-mob
 lyrics_url: https://www.azlyrics.com/lyrics/goodiemob/dirtysouth.html
 name: Dirty South
@@ -19,8 +22,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1996-09-14'
+release_year: 1995
+runtime: 214040
 ---
-
 One to da two da three da four
 Dem dirty Red Dogs done hit the door
 And they got everybody on they hands and knees
@@ -94,6 +98,3 @@ See powder gets you hyper, reefa makes you calm
 Cigarettes give you cancer, woo woo's make you numb
 What you niggas know about the Dirty South
 What you niggas know about the Dirty South
-
-
-

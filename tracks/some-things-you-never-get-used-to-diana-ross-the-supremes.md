@@ -1,9 +1,12 @@
 ---
+album: Love Child
 artists:
 - Diana Ross
 - The Supremes
+external_ids:
+  spotify: spotify:track:5dOotIroPS97QxwJyUHXLW
 features: []
-genres: []
+first_released_as_single: false
 key: some-things-you-never-get-used-to-diana-ross-the-supremes
 lyrics_url: https://www.musixmatch.com/lyrics/Diana-Ross-feat-The-Supremes-24/Some-Things-You-Never-Get-Used-To
 name: Some Things You Never Get Used To
@@ -36,6 +39,8 @@ rankings:
   rank: 30
   ranking_list: Billboard Hot 100
   start_date: '1968-07-20'
+release_year: 1968
+runtime: 145586
 ---
 Some things you never get used to!
 It's the same routine of getting up every morning

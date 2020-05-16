@@ -1,8 +1,11 @@
 ---
+album: Still Got That Hunger
 artists:
 - The Zombies
+external_ids:
+  spotify: spotify:track:7nHLuhcD1kJyinxz2VabgC
 features: []
-genres: []
+first_released_as_single: false
 key: i-want-you-back-again-the-zombies
 lyrics_url: https://genius.com/The-zombies-i-want-you-back-again-lyrics
 name: I Want You Back Again
@@ -19,6 +22,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1965-07-10'
+release_year: 1965
+runtime: 134240
 ---
 Somebody help me
 I’ve got to eat

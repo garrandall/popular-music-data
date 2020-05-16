@@ -1,8 +1,11 @@
 ---
+album: Sorry For Party Rocking (Deluxe Version)
 artists:
 - LMFAO
+external_ids:
+  spotify: spotify:track:0obBFrPYkSoBJbvHfUIhkv
 features: []
-genres: []
+first_released_as_single: false
 key: sexy-and-i-know-it-lmfao
 lyrics_url: https://www.azlyrics.com/lyrics/lmfao/sexyandiknowit.html
 name: Sexy And I Know It
@@ -175,8 +178,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2012-06-30'
+release_year: 2011
+runtime: 199480
 ---
-
 When I walk on by, girls be looking like damn he fly
 I pimp to the beat, walking on the street in my new LaFreak, yeah
 This is how I roll, animal print pants outta control,
@@ -226,4 +230,3 @@ Ah... Girl look at that body
 Ah... I work out
 
 Yeah I'm sexy and I know it!
-

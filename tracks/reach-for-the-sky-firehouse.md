@@ -1,8 +1,11 @@
 ---
+album: Hold Your Fire
 artists:
 - Firehouse
+external_ids:
+  spotify: spotify:track:4T2CCZX2QjiREym8lZ2G4v
 features: []
-genres: []
+first_released_as_single: false
 key: reach-for-the-sky-firehouse
 lyrics_url: https://www.azlyrics.com/lyrics/firehouse/reachforthesky.html
 name: Reach For The Sky
@@ -27,8 +30,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1992-08-01'
+release_year: 1992
+runtime: 286733
 ---
-
 Well I'm an outlaw
 I make my living on the run
 My life is lonely
@@ -85,6 +89,3 @@ Reach for the sky
 I got the drop on you so raise them high
 Reach for the sky
 Oh reach for the sky
-
-
-

@@ -1,9 +1,12 @@
 ---
+album: 7/27
 artists:
 - Fifth Harmony
+external_ids:
+  spotify: spotify:track:4tCtwWceOPWzenK2HAIJSb
 features:
 - Ty Dolla $ign
-genres: []
+first_released_as_single: false
 key: work-from-home-fifth-harmony-ty-dolla--ign
 lyrics_url: https://www.azlyrics.com/lyrics/fifthharmony/workfromhome.html
 name: Work From Home
@@ -144,8 +147,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2016-11-05'
+release_year: 2016
+runtime: 214480
 ---
-
 I ain't worried 'bout nothin'
 I ain't wearin' na nada
 I'm sittin' pretty, impatient, but I know you gotta
@@ -208,6 +212,3 @@ We can work from home, oh, oh, oh-oh
 Yeah, we can work from home
 Yeah, we can work from home
 Yeah
-
-
-

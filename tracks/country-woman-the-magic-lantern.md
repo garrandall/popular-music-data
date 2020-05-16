@@ -1,8 +1,11 @@
 ---
+album: 'Magic Lanters, Shame Shame: The Complete Recordings'
 artists:
 - The Magic Lantern
+external_ids:
+  spotify: spotify:track:5k1OVHHfO3oh2c5uE7xAVK
 features: []
-genres: []
+first_released_as_single: false
 key: country-woman-the-magic-lantern
 name: Country Woman
 rankings:
@@ -22,5 +25,7 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1972-07-29'
+release_year: 1972
+runtime: 168405
 ---
 

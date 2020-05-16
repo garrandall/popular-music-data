@@ -1,9 +1,12 @@
 ---
+album: DC4
 artists:
 - Meek Mill
+external_ids:
+  spotify: spotify:track:6J5D8qyR8P8AQkyLbhLOeQ
 features:
 - Quavo
-genres: []
+first_released_as_single: false
 key: the-difference-meek-mill-quavo
 lyrics_url: https://www.azlyrics.com/lyrics/meekmill/thedifference.html
 name: The Difference
@@ -12,8 +15,9 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '2016-11-19'
+release_year: 2016
+runtime: 205478
 ---
-
 Sonny Rollin' Grams of Wax
 
 
@@ -93,6 +97,3 @@ Bought the machine in 2016 so they know the difference
 The diamonds is shinin' the rollie is clean
 They know the difference, they know the difference
 Your bitches bad and my bitches bad but we know the difference
-
-
-

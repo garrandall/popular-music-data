@@ -1,8 +1,11 @@
 ---
+album: Kylie
 artists:
 - Kylie Minogue
+external_ids:
+  spotify: spotify:track:5s4clDpVHRhQAiAYiTEf6U
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-no-secret-kylie-minogue
 lyrics_url: https://www.azlyrics.com/lyrics/kylieminogue/itsnosecret.html
 name: It's No Secret
@@ -59,11 +62,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1989-03-04'
+release_year: 1988
+runtime: 238000
 ---
-
-
-
-
 When I first met you
 How you changed my life that day
 But when each tomorrow
@@ -106,4 +107,3 @@ What can I do
 (You were cheating)
 (You were cheating on me)
 But I was the last to know
-

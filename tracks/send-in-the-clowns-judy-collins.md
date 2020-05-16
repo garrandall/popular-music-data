@@ -1,8 +1,11 @@
 ---
+album: Judith
 artists:
 - Judy Collins
+external_ids:
+  spotify: spotify:track:3evTbfCtMxbUwTQIn7QOcG
 features: []
-genres: []
+first_released_as_single: false
 key: send-in-the-clowns-judy-collins
 lyrics_url: https://www.azlyrics.com/lyrics/judycollins/sendintheclowns.html
 name: Send In The Clowns
@@ -115,8 +118,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1978-01-07'
+release_year: 1975
+runtime: 240866
 ---
-
 Isn't it rich? 
 Are we a pair? 
 Me here at last on the ground, 
@@ -150,6 +154,3 @@ Losing my timing this late in my career.
 And where are the clowns? 
 There ought to be clowns... 
 Well, maybe next year.
-
-
-

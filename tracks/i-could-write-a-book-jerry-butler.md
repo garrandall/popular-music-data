@@ -1,8 +1,11 @@
 ---
+album: 'Iceman: The Mercury Years'
 artists:
 - Jerry Butler
+external_ids:
+  spotify: spotify:track:5MCifoOj2OHQo2HEWO7RSt
 features: []
-genres: []
+first_released_as_single: false
 key: i-could-write-a-book-jerry-butler
 lyrics_url: https://www.musixmatch.com/lyrics/Jerry-Butler/I-Could-Write-a-Book
 name: I Could Write A Book
@@ -27,6 +30,8 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '1970-04-18'
+release_year: 1970
+runtime: 146333
 ---
 I could write a book
 About the way you hurt me

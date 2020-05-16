@@ -1,8 +1,11 @@
 ---
+album: Michelle
 artists:
 - Bud Shank
+external_ids:
+  spotify: spotify:track:5rdLwV3jCeV8fTQRCFJeip
 features: []
-genres: []
+first_released_as_single: false
 key: michelle-bud-shank
 name: Michelle
 rankings:
@@ -30,5 +33,7 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '1966-02-26'
+release_year: 1966
+runtime: 145461
 ---
 

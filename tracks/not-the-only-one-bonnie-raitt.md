@@ -1,8 +1,11 @@
 ---
+album: Luck Of The Draw
 artists:
 - Bonnie Raitt
+external_ids:
+  spotify: spotify:track:13p06XYJaV05Q65hSU87jW
 features: []
-genres: []
+first_released_as_single: false
 key: not-the-only-one-bonnie-raitt
 lyrics_url: https://www.azlyrics.com/lyrics/bonnieraitt/nottheonlyone.html
 name: Not The Only One
@@ -75,9 +78,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1992-08-08'
+release_year: 1991
+runtime: 303800
 ---
-
-
 I was in a daze, movin in the wrong direction
 Feelin that I'd always be the lonely one
 Then I saw your face, on the edge of my horizon
@@ -109,6 +112,3 @@ Feeling that I'd always be the lonely one
 When I saw your face through the web of my confusion
 Whisperin that I wasn't the only one
 The lonely one
-
-
-

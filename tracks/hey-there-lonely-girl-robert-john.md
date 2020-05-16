@@ -1,8 +1,11 @@
 ---
+album: Back On The Street
 artists:
 - Robert John
+external_ids:
+  spotify: spotify:track:2rkf7jIOda8VUmZ6OK38IU
 features: []
-genres: []
+first_released_as_single: false
 key: hey-there-lonely-girl-robert-john
 lyrics_url: https://www.azlyrics.com/lyrics/robertjohn/heytherelonelygirl.html
 name: Hey There Lonely Girl
@@ -59,8 +62,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1980-10-11'
+release_year: 1980
+runtime: 187613
 ---
-
 Ever since he broke your heart
 You seem so lost each time you pass my way
 How I long to take your hand
@@ -93,6 +97,3 @@ Don't you know this lonely boy loves you-ou-ou?
 
 I make your broken heart like new
 And I the everything I heart like new
-
-
-

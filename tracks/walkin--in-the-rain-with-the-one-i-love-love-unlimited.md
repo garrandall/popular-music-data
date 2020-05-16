@@ -1,8 +1,11 @@
 ---
+album: Love Songs
 artists:
 - Love Unlimited
+external_ids:
+  spotify: spotify:track:21dFwyX2sDxrM9TjZLBXny
 features: []
-genres: []
+first_released_as_single: false
 key: walkin--in-the-rain-with-the-one-i-love-love-unlimited
 lyrics_url: https://www.musixmatch.com/lyrics/The-Love-Unlimited-Orchestra-2/Walkin-in-the-Rain-With-the-One-I-Love
 name: Walkin' In The Rain With The One I Love
@@ -63,6 +66,8 @@ rankings:
   rank: 31
   ranking_list: Billboard Hot 100
   start_date: '1972-07-01'
+release_year: 1972
+runtime: 266560
 ---
 It sure is
 Everyone's trying to get out in the rain

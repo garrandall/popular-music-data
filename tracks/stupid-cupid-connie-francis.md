@@ -1,8 +1,11 @@
 ---
+album: Gold
 artists:
 - Connie Francis
+external_ids:
+  spotify: spotify:track:2WQ8KMLXrSV7zL3hlwFVv8
 features: []
-genres: []
+first_released_as_single: false
 key: stupid-cupid-connie-francis
 lyrics_url: https://genius.com/Connie-francis-stupid-cupid-lyrics
 name: Stupid Cupid
@@ -59,6 +62,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1958-10-27'
+release_year: 1958
+runtime: 133160
 ---
 Stupid cupid
 You're a real mean guy

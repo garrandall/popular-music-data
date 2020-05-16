@@ -1,8 +1,11 @@
 ---
+album: Circulate
 artists:
 - Neil Sedaka
+external_ids:
+  spotify: spotify:track:09GVrX5YI6mQWve9TqwB9E
 features: []
-genres: []
+first_released_as_single: false
 key: bad-girl-neil-sedaka
 lyrics_url: https://www.azlyrics.com/lyrics/neilsedaka/badgirl.html
 name: Bad Girl
@@ -39,8 +42,9 @@ rankings:
   rank: 52
   ranking_list: Billboard Hot 100
   start_date: '1964-01-04'
+release_year: 1960
+runtime: 149106
 ---
-
 I don't believe a word they're saying
 What they're saying isn't true
 
@@ -73,6 +77,3 @@ I don't hear a word you're saying (Bad bad girl)
 She's the one I'm dreaming of (Bad bad girl)
 So don't you ever call her bad girl again
 Cos she's found someone to love
-
-
-

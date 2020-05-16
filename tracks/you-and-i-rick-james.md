@@ -1,8 +1,11 @@
 ---
+album: Come Get It!
 artists:
 - Rick James
+external_ids:
+  spotify: spotify:track:5Mhf6GA6G6ugP2x7mnAGyY
 features: []
-genres: []
+first_released_as_single: false
 key: you-and-i-rick-james
 lyrics_url: https://genius.com/Rick-james-you-and-i-lyrics
 name: You And I
@@ -75,6 +78,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1978-10-21'
+release_year: 1978
+runtime: 486026
 ---
 You and I
 We fit together like a glove on hand

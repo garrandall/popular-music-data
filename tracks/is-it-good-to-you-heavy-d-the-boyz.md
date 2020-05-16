@@ -1,9 +1,12 @@
 ---
+album: Peaceful Journey
 artists:
 - Heavy D
 - The Boyz
+external_ids:
+  spotify: spotify:track:4WHQzXnWyTlE1UOmmxRDOw
 features: []
-genres: []
+first_released_as_single: false
 key: is-it-good-to-you-heavy-d-the-boyz
 lyrics_url: https://genius.com/Heavy-d-and-the-boyz-is-it-good-to-you-lyrics
 name: Is It Good To You
@@ -88,6 +91,8 @@ rankings:
   rank: 52
   ranking_list: Billboard Hot 100
   start_date: '1992-04-04'
+release_year: 1991
+runtime: 292226
 ---
 Alright
 This one goes out to all the lovers in the house, knowI'msayin?

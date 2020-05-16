@@ -1,8 +1,11 @@
 ---
+album: Freedom
 artists:
 - Andy Griggs
+external_ids:
+  spotify: spotify:track:3RwlpiM8WPPQsNrdQsQb7Y
 features: []
-genres: []
+first_released_as_single: false
 key: tonight-i-wanna-be-your-man-andy-griggs
 lyrics_url: https://genius.com/Andy-griggs-tonight-i-wanna-be-your-man-lyrics
 name: Tonight I Wanna Be Your Man
@@ -55,6 +58,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2002-09-14'
+release_year: 2002
+runtime: 178360
 ---
 Baby light a couple candles, lock the bedroom door
 Put on some sweet soul music, throw a blanket on the floor

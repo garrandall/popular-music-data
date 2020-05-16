@@ -1,8 +1,11 @@
 ---
+album: Hey Mickey
 artists:
 - Toni Basil
+external_ids:
+  spotify: spotify:track:5G9KcZaxfCysfv4EryCB9b
 features: []
-genres: []
+first_released_as_single: true
 key: mickey-toni-basil
 lyrics_url: https://www.azlyrics.com/lyrics/tonibasil/mickey.html
 name: Mickey
@@ -115,8 +118,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1983-03-05'
+release_year: 1982
+runtime: 252885
 ---
-
 Oh Mickey, you're so fine
 You're so fine, you blow my mind, hey Mickey, hey Mickey
 Oh Mickey, you're so fine
@@ -192,6 +196,3 @@ Don't break my heart, Mickey
 
 Oh Mickey, what a pity, you don't understand
 You take me by the heart when you take me by the hand
-
-
-

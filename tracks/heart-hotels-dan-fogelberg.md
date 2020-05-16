@@ -1,8 +1,11 @@
 ---
+album: Phoenix
 artists:
 - Dan Fogelberg
+external_ids:
+  spotify: spotify:track:2I7wlhRFEesckeIVxZTJL8
 features: []
-genres: []
+first_released_as_single: false
 key: heart-hotels-dan-fogelberg
 lyrics_url: https://www.azlyrics.com/lyrics/danfogelberg/hearthotels.html
 name: Heart Hotels
@@ -59,8 +62,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1980-06-14'
+release_year: 1979
+runtime: 255333
 ---
-
 Well, there's too many windows
 In this old hotel
 And rooms filled with reckless pride
@@ -103,6 +107,3 @@ Oh-hoo-hoo, hoo-hoo-hoo
 Oh-hoo-hoo-hoo
 Oh-hoo-hoo, hoo-hoo-hoo
 Oh-hoo-hoo-hoo
-
-
-

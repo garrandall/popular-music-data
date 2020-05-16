@@ -1,8 +1,11 @@
 ---
+album: Wide Open
 artists:
 - Jason Aldean
+external_ids:
+  spotify: spotify:track:0PspNrE4MSjr1JeB4OW0jn
 features: []
-genres: []
+first_released_as_single: false
 key: she-s-country-jason-aldean
 lyrics_url: https://genius.com/Jason-aldean-shes-country-lyrics
 name: She's Country
@@ -87,6 +90,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2009-06-13'
+release_year: 2008
+runtime: 220573
 ---
 You boys ever met a real country girl
 Talkin', true blue, out in the woods, down home, country girl

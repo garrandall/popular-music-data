@@ -1,8 +1,11 @@
 ---
+album: Solo
 artists:
 - Frankie Valli
+external_ids:
+  spotify: spotify:track:0bfvHnWWOeU1U5XeKyVLbW
 features: []
-genres: []
+first_released_as_single: false
 key: can-t-take-my-eyes-off-you-frankie-valli
 lyrics_url: https://genius.com/Frankie-valli-cant-take-my-eyes-off-you-lyrics
 name: Can't Take My Eyes Off You
@@ -71,6 +74,8 @@ rankings:
   rank: 35
   ranking_list: Billboard Hot 100
   start_date: '1967-09-02'
+release_year: 1967
+runtime: 203680
 ---
 You're just too good to be true
 Can't take my eyes off of you

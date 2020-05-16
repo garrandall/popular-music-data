@@ -1,8 +1,11 @@
 ---
+album: High Mileage
 artists:
 - Alan Jackson
+external_ids:
+  spotify: spotify:track:0wRx3vTTQAvvZcfIoOix3n
 features: []
-genres: []
+first_released_as_single: false
 key: right-on-the-money-alan-jackson
 lyrics_url: https://www.azlyrics.com/lyrics/alanjackson/rightonthemoney.html
 name: Right On The Money
@@ -55,8 +58,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1999-02-20'
+release_year: 1998
+runtime: 229826
 ---
-
 Well let's begin with the day I met her
 How fast this good old boy's world got better
 Sky got bluer, the grass got greener
@@ -99,6 +103,3 @@ She goes directly to my heart
 When it comes to loving me
 She's everything, I mean bulls eye perfect
 She's right on the money
-
-
-

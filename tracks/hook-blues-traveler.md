@@ -1,8 +1,11 @@
 ---
+album: Four
 artists:
 - Blues Traveler
+external_ids:
+  spotify: spotify:track:27IRo2rYeizhRMDaNVplNM
 features: []
-genres: []
+first_released_as_single: false
 key: hook-blues-traveler
 lyrics_url: https://www.azlyrics.com/lyrics/bluestraveler/hook.html
 name: Hook
@@ -143,8 +146,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1996-05-25'
+release_year: 1994
+runtime: 289200
 ---
-
 It doesn't matter what I say
 So long as I sing with inflection
 That makes you feel I'll convey
@@ -206,6 +210,3 @@ The Hook brings you back
 I ain't tellin' you no lie
 The Hook...
 On that you can rely
-
-
-

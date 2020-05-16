@@ -1,8 +1,11 @@
 ---
+album: Prisoner In Disguise
 artists:
 - Linda Ronstadt
+external_ids:
+  spotify: spotify:track:2v6HBaafQ3kHEBZqvttnOw
 features: []
-genres: []
+first_released_as_single: false
 key: love-is-a-rose-linda-ronstadt
 lyrics_url: https://www.azlyrics.com/lyrics/lindaronstadt/loveisarose.html
 name: Love Is A Rose
@@ -15,8 +18,9 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '1975-09-13'
+release_year: 1975
+runtime: 166933
 ---
-
 Love is a rose but you better not pick it
 Only grows when it's on the vine
 Handful of thorns and you'll know you've missed it
@@ -64,6 +68,3 @@ Love is a rose
 Love is a rose
 Love is a rose
 Love is a rose
-
-
-

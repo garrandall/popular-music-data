@@ -1,8 +1,11 @@
 ---
+album: 'Outside: From The Redwoods'
 artists:
 - Kenny Loggins
+external_ids:
+  spotify: spotify:track:2vz1CsL5WBsbpBcwgboTAw
 features: []
-genres: []
+first_released_as_single: false
 key: footloose-kenny-loggins
 lyrics_url: https://www.azlyrics.com/lyrics/kennyloggins/footloose.html
 name: Footloose
@@ -99,8 +102,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1984-06-30'
+release_year: 1984
+runtime: 226826
 ---
-
 Been working so hard
 I'm punching my card
 Eight hours for what
@@ -159,6 +163,3 @@ Lose your blues, everybody cut, everybody cut
 Everybody cut, everybody cut
 Everybody cut, everybody cut
 (Everybody) everybody cut footloose
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Northsbest (Extended)
 artists:
 - Lil Mosey
+external_ids:
+  spotify: spotify:track:3to5UxKsozb4T6CfwHuhLJ
 features: []
-genres: []
+first_released_as_single: false
 key: kamikaze-lil-mosey
 lyrics_url: https://www.azlyrics.com/lyrics/lilmosey/kamikaze.html
 name: Kamikaze
@@ -11,8 +14,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2018-11-10'
+release_year: 2018
+runtime: 139200
 ---
-
 Ayy, Royce you did it right here
 Ayy, we takin' over 2k18 on my mama, nigga
 
@@ -60,6 +64,3 @@ Wit' my niggas, off the Xan, we might act up (Might act up)
 Come with caution 'cause you know we all strapped up (I'm strapped up)
 Your bitch she want me 'cause she seen a nigga stacked up (Stacked up)
 But I can't keep her, I just wanna beat her back up (Beat her back up)
-
-
-

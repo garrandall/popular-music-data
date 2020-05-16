@@ -1,8 +1,11 @@
 ---
+album: The Complete Season 9 Collection (The Voice Performance)
 artists:
 - Jordan Smith
+external_ids:
+  spotify: spotify:track:0wIXZ4dPhQn1GYQBSC1Pkh
 features: []
-genres: []
+first_released_as_single: false
 key: great-is-thy-faithfulness-jordan-smith
 lyrics_url: https://www.azlyrics.com/lyrics/jordansmith/greatisthyfaithfulness.html
 name: Great Is Thy Faithfulness
@@ -11,8 +14,9 @@ rankings:
   rank: 30
   ranking_list: Billboard Hot 100
   start_date: '2015-12-05'
+release_year: 2015
+runtime: 214146
 ---
-
 Great is Thy faithfulness, O God my Father
 There is no shadow of turning with Thee
 Thou changest not, Thy compassions they fail not
@@ -51,6 +55,3 @@ Great is Thy faithfulness
 Great is Thy faithfulness
 Great is Thy faithfulness
 Lord unto me
-
-
-

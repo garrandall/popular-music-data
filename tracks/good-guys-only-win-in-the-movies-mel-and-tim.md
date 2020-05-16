@@ -1,8 +1,11 @@
 ---
+album: Good Guys Only Win in the Movies
 artists:
 - Mel And Tim
+external_ids:
+  spotify: spotify:track:40w47r4QO4Gwfcg5kdqb7h
 features: []
-genres: []
+first_released_as_single: false
 key: good-guys-only-win-in-the-movies-mel-and-tim
 lyrics_url: https://genius.com/Mel-and-tim-good-guys-only-win-in-the-movies-lyrics
 name: Good Guys Only Win In The Movies
@@ -35,6 +38,8 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1970-03-21'
+release_year: 1970
+runtime: 166560
 ---
 I had a girl
 And I treated her tenderly

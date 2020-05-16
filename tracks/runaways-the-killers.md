@@ -1,8 +1,11 @@
 ---
+album: Battle Born
 artists:
 - The Killers
+external_ids:
+  spotify: spotify:track:62BxlOvQCjLNQA5ARA4Dug
 features: []
-genres: []
+first_released_as_single: false
 key: runaways-the-killers
 lyrics_url: https://genius.com/The-killers-runaways-lyrics
 name: Runaways
@@ -15,6 +18,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2012-08-11'
+release_year: 2012
+runtime: 243786
 ---
 Blonde hair blowing in the summer wind
 A blue-eyed girl playing in the sand

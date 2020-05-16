@@ -1,8 +1,11 @@
 ---
+album: Conquest
 artists:
 - Madcon
+external_ids:
+  spotify: spotify:track:3jUlWDo51RXvgMssYf1gsf
 features: []
-genres: []
+first_released_as_single: true
 key: beggin--madcon
 lyrics_url: https://www.azlyrics.com/lyrics/madcon/beggin.html
 name: Beggin'
@@ -47,9 +50,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2009-07-04'
+release_year: 2008
+runtime: 218160
 ---
-
-
 Oh-
 Put your loving hand out, baby
 I'm begging
@@ -147,6 +150,3 @@ Begging, begging you
 Put your loving hand out, baby
 Begging, begging you
 Put your loving hand out darling
-
-
-

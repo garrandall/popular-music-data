@@ -1,8 +1,11 @@
 ---
+album: A.N.T. Farm
 artists:
 - China Anne McClain
+external_ids:
+  spotify: spotify:track:0QTUoI90fBFdKkd4h8fsOu
 features: []
-genres: []
+first_released_as_single: false
 key: calling-all-the-monsters-china-anne-mcclain
 lyrics_url: https://genius.com/China-anne-mcclain-calling-all-the-monsters-lyrics
 name: Calling All The Monsters
@@ -15,6 +18,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2011-10-29'
+release_year: 2011
+runtime: 206506
 ---
 Calling all the monsters, calling all the monsters
 Calling all, I'm calling all, I'm calling all the monsters

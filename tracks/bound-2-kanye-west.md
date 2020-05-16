@@ -1,8 +1,11 @@
 ---
+album: Yeezus
 artists:
 - Kanye West
+external_ids:
+  spotify: spotify:track:3sNVsP50132BTNlImLx70i
 features: []
-genres: []
+first_released_as_single: false
 key: bound-2-kanye-west
 lyrics_url: https://www.azlyrics.com/lyrics/kanyewest/bound2.html
 name: Bound 2
@@ -31,9 +34,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2014-01-11'
+release_year: 2013
+runtime: 229146
 ---
-
-
 Bound to fall in love
 Bound to fall in love (Uh-huh, honey)
 
@@ -111,6 +114,3 @@ Bound
 
 Bound to fall in love
 Bound to fall in love (Uh-huh, honey)
-
-
-

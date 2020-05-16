@@ -1,8 +1,11 @@
 ---
+album: Contagious
 artists:
 - Tag
+external_ids:
+  spotify: spotify:track:5d1dglMOQpQQoYjuq4DHoB
 features: []
-genres: []
+first_released_as_single: false
 key: the-way-i-feel-tag
 lyrics_url: https://www.musixmatch.com/lyrics/Tag-4/The-Way-I-Feel
 name: The Way I Feel
@@ -39,6 +42,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1992-08-22'
+release_year: 1991
+runtime: 249066
 ---
 Love
 

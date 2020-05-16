@@ -1,8 +1,11 @@
 ---
+album: Gotta Get Thru This
 artists:
 - Daniel Bedingfield
+external_ids:
+  spotify: spotify:track:747tpec1a0Hfqvj2za1pBs
 features: []
-genres: []
+first_released_as_single: false
 key: gotta-get-thru-this-daniel-bedingfield
 lyrics_url: https://www.azlyrics.com/lyrics/danielbedingfield/gottagetthruthis.html
 name: Gotta Get Thru This
@@ -91,8 +94,9 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '2002-12-14'
+release_year: 2002
+runtime: 161200
 ---
-
 If only I could get through this
 I get through this
 
@@ -151,6 +155,3 @@ If only I could get through this
 God, God gotta help me get through this
 
 If only I could get through this...
-
-
-

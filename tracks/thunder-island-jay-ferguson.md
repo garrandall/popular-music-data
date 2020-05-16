@@ -1,8 +1,11 @@
 ---
+album: Thunder Island
 artists:
 - Jay Ferguson
+external_ids:
+  spotify: spotify:track:3FkQN4NyCFlfn7fWzBkWCj
 features: []
-genres: []
+first_released_as_single: false
 key: thunder-island-jay-ferguson
 lyrics_url: https://genius.com/Jay-ferguson-thunder-island-lyrics
 name: Thunder Island
@@ -91,6 +94,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1978-05-06'
+release_year: 1977
+runtime: 240693
 ---
 Oh yeah
 

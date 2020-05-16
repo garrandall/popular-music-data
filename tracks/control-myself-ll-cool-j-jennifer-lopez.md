@@ -1,9 +1,12 @@
 ---
+album: Todd Smith
 artists:
 - LL Cool J
+external_ids:
+  spotify: spotify:track:6gfo78XBBMr79MlfZlT5JF
 features:
 - Jennifer Lopez
-genres: []
+first_released_as_single: true
 key: control-myself-ll-cool-j-jennifer-lopez
 lyrics_url: https://www.azlyrics.com/lyrics/llcoolj/controlmyself.html
 name: Control Myself
@@ -52,9 +55,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2006-06-17'
+release_year: 2006
+runtime: 532173
 ---
-
-
 No me puedo controlar
 Aqui con el SeÃ±or LL Cool J
 Y aqui estoy... ya tu sabes
@@ -197,6 +200,3 @@ Shake it, shake it, shake it
 
 
 Haha, you know what this is
-
-
-

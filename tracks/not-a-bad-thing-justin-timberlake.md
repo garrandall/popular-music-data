@@ -1,8 +1,11 @@
 ---
+album: The 20/20 Experience - 2 of 2
 artists:
 - Justin Timberlake
+external_ids:
+  spotify: spotify:track:3nB82yGjtbQFSU0JLAwLRH
 features: []
-genres: []
+first_released_as_single: false
 key: not-a-bad-thing-justin-timberlake
 lyrics_url: https://genius.com/Justin-timberlake-not-a-bad-thing-lyrics
 name: Not A Bad Thing
@@ -95,6 +98,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2014-08-09'
+release_year: 2013
+runtime: 688453
 ---
 Said all I want from you is to see you tomorrow
 And every tomorrow

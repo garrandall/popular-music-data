@@ -1,8 +1,11 @@
 ---
+album: Concrete And Clay
 artists:
 - Eddie Rambeau
+external_ids:
+  spotify: spotify:track:2w1vbqV6Z3caGfLZdVLJyW
 features: []
-genres: []
+first_released_as_single: false
 key: concrete-and-clay-eddie-rambeau
 name: Concrete And Clay
 rankings:
@@ -42,5 +45,7 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '1965-06-26'
+release_year: 1965
+runtime: 135511
 ---
 

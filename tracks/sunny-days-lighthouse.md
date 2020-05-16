@@ -1,8 +1,11 @@
 ---
+album: Sunny Days
 artists:
 - Lighthouse
+external_ids:
+  spotify: spotify:track:59OKogJgflIqrlZ2ViP3Qf
 features: []
-genres: []
+first_released_as_single: false
 key: sunny-days-lighthouse
 lyrics_url: https://genius.com/Lighthouse-sunny-days-lyrics
 name: Sunny Days
@@ -55,6 +58,8 @@ rankings:
   rank: 38
   ranking_list: Billboard Hot 100
   start_date: '1972-12-23'
+release_year: 1972
+runtime: 256413
 ---
 Sittin' stoned alone in my backyard
 Askin' myself "Why should I work so hard?"
@@ -96,8 +101,6 @@ Oh, sunny, sunny, sunny days
 Ain't nothin' better in the world, you know
 Than lyin' in the sun with your radio
 
------- instrumental break ------
-
 Sunny days
 Oh, sunny, sunny, sunny days
 Ain't nothin' better in the world, you know
@@ -111,5 +114,5 @@ Than lyin' in the sun with your radio
 Da da-da da-da da da da
 Da da-da da-da da da da
 Da da-da da-da da da da
-Da-da da-da da-da da-da daaaaaa-aa
+Da-da da-da da-da da-da da-da
 Well, all right!

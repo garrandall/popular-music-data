@@ -1,8 +1,11 @@
 ---
+album: Big Bad John and Other Fabulous Songs and Tales
 artists:
 - Jimmy Dean
+external_ids:
+  spotify: spotify:track:02CCvUMfxixXXgZRHy9Cqg
 features: []
-genres: []
+first_released_as_single: false
 key: big-bad-john-jimmy-dean
 lyrics_url: https://www.azlyrics.com/lyrics/jimmydean/bigbadjohn.html
 name: Big Bad John
@@ -71,8 +74,9 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '1962-01-20'
+release_year: 1954
+runtime: 180160
 ---
-
 (Big John)
 (Big John)
 
@@ -143,6 +147,3 @@ Big John
 (Big John)
 Big Bad John
 (Big John)...
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: 'It''s My Party: The Mercury Anthology'
 artists:
 - Lesley Gore
+external_ids:
+  spotify: spotify:track:6hEXyGwvZ6q2Gh4D2ENk40
 features: []
-genres: []
+first_released_as_single: false
 key: all-of-my-life-lesley-gore
 lyrics_url: https://www.azlyrics.com/lyrics/lesleygore/allofmylife.html
 name: All Of My Life
@@ -31,8 +34,9 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1965-05-01'
+release_year: 1965
+runtime: 147133
 ---
-
 I've been looking for a boy like you
 All of my life
 I've been looking for a love that's true
@@ -53,6 +57,3 @@ Been looking for a love like you
 I can't wait till we say I do
 Then I'll have all of you
 All of my life, all of my life
-
-
-

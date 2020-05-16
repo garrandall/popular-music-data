@@ -1,9 +1,12 @@
 ---
+album: 'Glee: The Music, Volume 5'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:0cTVLJR99l1ZCIwjdESHqW
 features:
 - Gwyneth Paltrow
-genres: []
+first_released_as_single: false
 key: do-you-wanna-touch-me--oh-yeah--glee-cast-gwyneth-paltrow
 lyrics_url: https://www.azlyrics.com/lyrics/gleecast/doyouwannatouchmeohyeah.html
 name: Do You Wanna Touch Me (Oh Yeah)
@@ -12,8 +15,9 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '2011-03-26'
+release_year: 2011
+runtime: 216640
 ---
-
 We've been here too long tryin' to get along
 Pretending that you're, oh, so shy
 I'm a natural man doin' all I can
@@ -71,6 +75,3 @@ I'm a natural man doin' all I can
 Every Friday night I got to get my share
 (Yeah, oh yeah, oh yeah)
 I'm waiting so long, yeah
-
-
-

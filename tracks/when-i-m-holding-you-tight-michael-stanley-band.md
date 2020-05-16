@@ -1,8 +1,11 @@
 ---
+album: MSB
 artists:
 - Michael Stanley Band
+external_ids:
+  spotify: spotify:track:0dTKLrt4tcUllWHCMr23ir
 features: []
-genres: []
+first_released_as_single: false
 key: when-i-m-holding-you-tight-michael-stanley-band
 lyrics_url: https://www.musixmatch.com/lyrics/Michael-Stanley-Band/When-I-m-Holding-You-Tight
 name: When I'm Holding You Tight
@@ -23,6 +26,8 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1982-10-02'
+release_year: 1982
+runtime: 249693
 ---
 I get this feeling
 Whenever I touch you

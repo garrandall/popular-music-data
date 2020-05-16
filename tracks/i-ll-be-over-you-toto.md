@@ -1,8 +1,11 @@
 ---
+album: Fahrenheit
 artists:
 - Toto
+external_ids:
+  spotify: spotify:track:1WeoeHh0TSzsApyJ6Q8OOK
 features: []
-genres: []
+first_released_as_single: false
 key: i-ll-be-over-you-toto
 lyrics_url: https://genius.com/Toto-ill-be-over-you-lyrics
 name: I'll Be Over You
@@ -99,6 +102,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1987-01-31'
+release_year: 1986
+runtime: 229880
 ---
 Some people live their dreams
 Some people close their eyes

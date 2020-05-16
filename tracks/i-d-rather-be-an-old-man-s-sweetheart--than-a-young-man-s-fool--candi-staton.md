@@ -1,8 +1,11 @@
 ---
+album: 'Back To Back: Candi Staton & Chaka Khan'
 artists:
 - Candi Staton
+external_ids:
+  spotify: spotify:track:74ts3mkwsKnfObdpUqtcp8
 features: []
-genres: []
+first_released_as_single: false
 key: i-d-rather-be-an-old-man-s-sweetheart--than-a-young-man-s-fool--candi-staton
 lyrics_url: https://genius.com/Candi-staton-id-rather-be-an-old-mans-sweetheart-than-a-young-mans-fool-lyrics
 name: I'd Rather Be An Old Man's Sweetheart (Than A Young Man's Fool)
@@ -39,6 +42,8 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '1969-08-09'
+release_year: 1969
+runtime: 134533
 ---
 You may think I'm silly to love a man twice my age
 But I know from experience, girls, sometime with pain

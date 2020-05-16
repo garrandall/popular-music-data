@@ -1,8 +1,11 @@
 ---
+album: Time
 artists:
 - Atlantic Starr
+external_ids:
+  spotify: spotify:track:2lFQ6W1WdRFtDJhvWGW3p6
 features: []
-genres: []
+first_released_as_single: false
 key: i-ll-remember-you-atlantic-starr
 lyrics_url: https://genius.com/Atlantic-starr-ill-remember-you-lyrics
 name: I'll Remember You
@@ -59,6 +62,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1994-08-27'
+release_year: 1994
+runtime: 261066
 ---
 Words have left us all alone
 And something's come between us

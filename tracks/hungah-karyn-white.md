@@ -1,8 +1,11 @@
 ---
+album: Make Him Do Right
 artists:
 - Karyn White
+external_ids:
+  spotify: spotify:track:6Rlj2EQvvgzRyzmWxvXcN1
 features: []
-genres: []
+first_released_as_single: false
 key: hungah-karyn-white
 lyrics_url: https://www.azlyrics.com/lyrics/karynwhite/hungah.html
 name: Hungah
@@ -35,8 +38,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1994-11-05'
+release_year: 1994
+runtime: 266773
 ---
-
 Oh
 Oh, baby
 
@@ -120,6 +124,3 @@ Baby, I want ya
 Oh, I hunger
 Baby, I want ya
 Oh, I hunger
-
-
-

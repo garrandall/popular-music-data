@@ -1,8 +1,11 @@
 ---
+album: Get On The Good Foot
 artists:
 - James Brown
+external_ids:
+  spotify: spotify:track:4gsAC9QQtSZ4i84wx9sp1p
 features: []
-genres: []
+first_released_as_single: false
 key: my-part-james-brown
 lyrics_url: https://genius.com/James-brown-my-part-make-it-funky-part-4-lyrics
 name: My Part
@@ -31,6 +34,8 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '1971-11-27'
+release_year: 1971
+runtime: 314466
 ---
 (Very funky)
 Gotta make it funky one more time, Fred (Yeah)

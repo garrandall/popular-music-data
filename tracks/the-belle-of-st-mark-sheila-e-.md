@@ -1,8 +1,11 @@
 ---
+album: The Glamorous Life
 artists:
 - Sheila E.
+external_ids:
+  spotify: spotify:track:5I0620xa6ecXZinsDUUcYF
 features: []
-genres: []
+first_released_as_single: false
 key: the-belle-of-st-mark-sheila-e-
 lyrics_url: https://www.azlyrics.com/lyrics/sheilae/thebelleofstmark.html
 name: The Belle Of St Mark
@@ -67,8 +70,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1985-02-02'
+release_year: 1984
+runtime: 306573
 ---
-
 The belle of St. Mark was a frail but passionate creature
 Ebony hair and eyes a deep blue-green
 The belle of St. Mark wore clothes that belonged to his father
@@ -112,6 +116,3 @@ Oh, I'm in love, I'm in love, I'm in love with the belle of St. Mark
 And if he doesn't love me I think I'll probably die
 And if he doesn't love me I think I'll probably die
 And if he don't, I'll die
-
-
-

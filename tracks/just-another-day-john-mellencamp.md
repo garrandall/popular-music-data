@@ -1,8 +1,11 @@
 ---
+album: Mr. Happy Go Lucky
 artists:
 - John Mellencamp
+external_ids:
+  spotify: spotify:track:55MW5FDncO7dP8SE5fYboa
 features: []
-genres: []
+first_released_as_single: false
 key: just-another-day-john-mellencamp
 lyrics_url: https://www.azlyrics.com/lyrics/johnmellencamp/justanotherday.html
 name: Just Another Day
@@ -87,8 +90,9 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1997-07-05'
+release_year: 1996
+runtime: 207893
 ---
-
 Bobie Doll and Big Jim Picato
 Call me up every single day
 They don't work and they don't want to
@@ -132,6 +136,3 @@ It's just another day
 Watching girls on the street
 Well, that's alright with me
 And it's just another day
-
-
-

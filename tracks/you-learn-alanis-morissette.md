@@ -1,8 +1,11 @@
 ---
+album: Jagged Little Pill
 artists:
 - Alanis Morissette
+external_ids:
+  spotify: spotify:track:4l7YIni9bAiGwWMqK5wvgV
 features: []
-genres: []
+first_released_as_single: false
 key: you-learn-alanis-morissette
 lyrics_url: https://genius.com/Alanis-morissette-you-learn-lyrics
 name: You Learn
@@ -127,6 +130,8 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1997-02-15'
+release_year: 1995
+runtime: 239640
 ---
 I recommend getting your heart trampled on to anyone
 Yeah, oh

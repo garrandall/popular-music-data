@@ -1,8 +1,11 @@
 ---
+album: Bill Quateman
 artists:
 - Bill Quateman
+external_ids:
+  spotify: spotify:track:614D2rzF4H94mc3LKWE2Wb
 features: []
-genres: []
+first_released_as_single: false
 key: only-love-bill-quateman
 lyrics_url: https://www.musixmatch.com/lyrics/Bill-Quateman/Only-Love
 name: Only Love
@@ -27,6 +30,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1973-05-05'
+release_year: 1973
+runtime: 183706
 ---
 Only love can make me do what I'm doin'.
 Only love can make me do what I'm doin', now.

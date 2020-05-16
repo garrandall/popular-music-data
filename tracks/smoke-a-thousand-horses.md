@@ -1,8 +1,11 @@
 ---
+album: Southernality
 artists:
 - A Thousand Horses
+external_ids:
+  spotify: spotify:track:0ZUnRmGiWEypcw14WjW109
 features: []
-genres: []
+first_released_as_single: false
 key: smoke-a-thousand-horses
 lyrics_url: https://www.musixmatch.com/lyrics/A-Thousand-Horses/Smoke
 name: Smoke
@@ -87,6 +90,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2015-07-25'
+release_year: 2015
+runtime: 219080
 ---
 She comes rolling right off the tip of my tongue so easy
 She'll be the first damn thing alone when I start drinking

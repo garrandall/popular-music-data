@@ -1,8 +1,11 @@
 ---
+album: Tom
 artists:
 - Tom Jones
+external_ids:
+  spotify: spotify:track:0fThQWaMyYiQ3gy1tpmBaJ
 features: []
-genres: []
+first_released_as_single: false
 key: without-love--there-is-nothing--tom-jones
 lyrics_url: https://www.azlyrics.com/lyrics/tomjones/withoutlovethereisnothing.html
 name: Without Love (There Is Nothing)
@@ -51,8 +54,9 @@ rankings:
   rank: 32
   ranking_list: Billboard Hot 100
   start_date: '1970-03-07'
+release_year: 1969
+runtime: 225506
 ---
-
 To live for today and to love for tomorrow
 Is the wisdom of a fool
 Because tomorrow is promised to no one
@@ -82,6 +86,3 @@ Without love I've had nothing at all
 I have conquered the world
 All but one thing did I have
 Without love I've had nothing at all
-
-
-

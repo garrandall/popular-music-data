@@ -1,8 +1,11 @@
 ---
+album: In The Still Of The Nite
 artists:
 - The Five Satins
+external_ids:
+  spotify: spotify:track:5QEJbqvNNkFWzyF1l8d2Ci
 features: []
-genres: []
+first_released_as_single: false
 key: in-the-still-of-the-nite-the-five-satins
 lyrics_url: https://www.musixmatch.com/lyrics/The-Five-Satins/In-the-Still-of-the-Nite
 name: In The Still Of The Nite
@@ -27,6 +30,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1961-01-23'
+release_year: 1960
+runtime: 184213
 ---
 In the still of the night
 I held you

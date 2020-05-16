@@ -1,8 +1,11 @@
 ---
+album: Lungs
 artists:
 - Florence + The Machine
+external_ids:
+  spotify: spotify:track:1YLJVmuzeM2YSUkCCaTNUB
 features: []
-genres: []
+first_released_as_single: false
 key: dog-days-are-over-florence---the-machine
 lyrics_url: https://genius.com/Florence-the-machine-dog-days-are-over-lyrics
 name: Dog Days Are Over
@@ -87,6 +90,8 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '2011-02-12'
+release_year: 2009
+runtime: 251840
 ---
 Happiness hit her, like a train on a track
 Coming towards her, stuck still no turning back

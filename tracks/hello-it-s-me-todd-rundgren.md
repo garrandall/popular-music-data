@@ -1,8 +1,11 @@
 ---
+album: Something/Anything?
 artists:
 - Todd Rundgren
+external_ids:
+  spotify: spotify:track:3gHFKiDanj4d2rqgHlRFFc
 features: []
-genres: []
+first_released_as_single: false
 key: hello-it-s-me-todd-rundgren
 lyrics_url: https://genius.com/Todd-rundgren-hello-its-me-lyrics
 name: Hello It's Me
@@ -87,6 +90,8 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '1974-02-16'
+release_year: 1972
+runtime: 264093
 ---
 Just gimme a
 Gimme a break for a second

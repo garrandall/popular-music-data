@@ -1,8 +1,11 @@
 ---
+album: The Massacre
 artists:
 - 50 Cent
+external_ids:
+  spotify: spotify:track:4nva9EpKntUTs6CRSGBCn9
 features: []
-genres: []
+first_released_as_single: false
 key: just-a-lil-bit-50-cent
 lyrics_url: https://genius.com/50-cent-just-a-lil-bit-lyrics
 name: Just A Lil Bit
@@ -115,6 +118,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2005-09-24'
+release_year: 2005
+runtime: 237706
 ---
 Yeah, Shady, Aftermath, G-Unit
 Damn baby all I need is a lil' bit

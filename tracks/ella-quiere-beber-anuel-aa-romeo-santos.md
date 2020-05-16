@@ -1,9 +1,12 @@
 ---
+album: Ella Quiere Beber (Remix)
 artists:
 - Anuel AA
 - Romeo Santos
+external_ids:
+  spotify: spotify:track:3f5lA8nnc4YYF1qf78WpHw
 features: []
-genres: []
+first_released_as_single: true
 key: ella-quiere-beber-anuel-aa-romeo-santos
 lyrics_url: https://genius.com/Anuel-aa-and-romeo-santos-ella-quiere-beber-remix-lyrics
 name: Ella Quiere Beber
@@ -88,6 +91,8 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '2019-03-30'
+release_year: 2018
+runtime: 219357
 ---
 Check, check (Remix)
 I'mma show you why I'm the king of this shit

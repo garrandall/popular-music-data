@@ -1,8 +1,11 @@
 ---
+album: La Paloma
 artists:
 - Billy Vaughn
+external_ids:
+  spotify: spotify:track:6aOxKTk3Dh08MGgnLv9862
 features: []
-genres: []
+first_released_as_single: false
 key: la-paloma-billy-vaughn-and-his-orchestra
 lyrics_url: https://genius.com/Billy-vaughn-la-paloma-lyrics
 name: La Paloma
@@ -47,5 +50,7 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1958-10-13'
+release_year: 1958
+runtime: 153346
 ---
 Instrumental

@@ -1,8 +1,12 @@
 ---
+album: I Can't Stand Myself When You Touch Me
 artists:
-- James Brown And The Famous Flames
-features: []
-genres: []
+- James Brown
+external_ids:
+  spotify: spotify:track:2hb2SAjXUSpq9JghS0WctQ
+features:
+- The Famous Flames
+first_released_as_single: false
 key: there-was-a-time-james-brown-and-the-famous-flames
 lyrics_url: https://genius.com/James-brown-and-the-famous-flames-there-was-a-time-lyrics
 name: There Was A Time
@@ -39,6 +43,8 @@ rankings:
   rank: 38
   ranking_list: Billboard Hot 100
   start_date: '1968-03-09'
+release_year: 1968
+runtime: 215440
 ---
 UH! Looka here, ha
 There was a day, there was a time

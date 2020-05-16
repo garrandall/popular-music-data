@@ -1,8 +1,11 @@
 ---
+album: I Love You.
 artists:
 - The Neighbourhood
+external_ids:
+  spotify: spotify:track:4pGqFOfzvfe6avb9kbZicC
 features: []
-genres: []
+first_released_as_single: true
 key: sweater-weather-the-neighbourhood
 lyrics_url: https://genius.com/The-neighbourhood-sweater-weather-lyrics
 name: Sweater Weather
@@ -155,6 +158,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '2014-03-08'
+release_year: 2012
+runtime: 240040
 ---
 And all I am is a man
 I want the world in my hands

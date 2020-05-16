@@ -1,8 +1,11 @@
 ---
+album: 'The Sue Records Story: The Sound Of Soul'
 artists:
 - Inez Foxx
+external_ids:
+  spotify: spotify:track:1AkTjO1bbDkkyaUbB5bxyj
 features: []
-genres: []
+first_released_as_single: false
 key: hurt-by-love-inez-foxx
 name: Hurt By Love
 rankings:
@@ -42,5 +45,7 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '1964-06-20'
+release_year: 1964
+runtime: 189773
 ---
 

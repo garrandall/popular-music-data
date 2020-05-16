@@ -1,8 +1,11 @@
 ---
+album: '223'
 artists:
 - Blac Youngsta
+external_ids:
+  spotify: spotify:track:0FbSpY8RPxTRxi1Fpj9Dz9
 features: []
-genres: []
+first_released_as_single: false
 key: booty-blac-youngsta
 lyrics_url: https://genius.com/Blac-youngsta-booty-lyrics
 name: Booty
@@ -27,6 +30,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2018-04-07'
+release_year: 2018
+runtime: 160037
 ---
 Beatmonster
 Yung Lan on the track

@@ -1,8 +1,11 @@
 ---
+album: The Impressions
 artists:
 - The Impressions
+external_ids:
+  spotify: spotify:track:5EVM4dQJOmMVdTDMLOQLzb
 features: []
-genres: []
+first_released_as_single: false
 key: gypsy-woman-the-impressions
 lyrics_url: https://genius.com/The-impressions-gypsy-woman-lyrics
 name: Gypsy Woman
@@ -67,6 +70,8 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '1962-01-27'
+release_year: 1961
+runtime: 141840
 ---
 From nowhere through a caravan
 Around the campfire light

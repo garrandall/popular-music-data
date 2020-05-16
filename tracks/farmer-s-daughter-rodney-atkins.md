@@ -1,8 +1,11 @@
 ---
+album: It's America
 artists:
 - Rodney Atkins
+external_ids:
+  spotify: spotify:track:5zGqTc1WQUe8XqqdnrpKTV
 features: []
-genres: []
+first_released_as_single: false
 key: farmer-s-daughter-rodney-atkins
 lyrics_url: https://www.azlyrics.com/lyrics/rodneyatkins/farmersdaughter.html
 name: Farmer's Daughter
@@ -91,8 +94,9 @@ rankings:
   rank: 52
   ranking_list: Billboard Hot 100
   start_date: '2010-11-20'
+release_year: 2010
+runtime: 207040
 ---
-
 Well I heard he needed some help on the farm
 Somebody with a truck and two strong arms
 Not scared of dirt and willin' to work
@@ -140,6 +144,3 @@ and I can't wait till its quitin' time
 and just when I think it can't get no hotter
 I come home to the farmer's daughter
 Yeah the farmer's daughter
-
-
-

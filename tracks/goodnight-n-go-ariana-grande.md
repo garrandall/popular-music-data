@@ -1,8 +1,11 @@
 ---
+album: Sweetener
 artists:
 - Ariana Grande
+external_ids:
+  spotify: spotify:track:14kYOiFVPb7E7NfFbqhdln
 features: []
-genres: []
+first_released_as_single: false
 key: goodnight-n-go-ariana-grande
 lyrics_url: https://www.azlyrics.com/lyrics/arianagrande/goodnightngo.html
 name: Goodnight N Go
@@ -11,8 +14,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '2018-09-01'
+release_year: 2018
+runtime: 189506
 ---
-
 Tell me why you gotta look at me that way
 You know what it does to me
 So baby, what you tryna say?
@@ -65,6 +69,3 @@ Want to say goodnight
 Baby, say goodnight and go
 Want to say goodnight
 Say goodnight and go
-
-
-

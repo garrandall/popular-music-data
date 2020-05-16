@@ -1,8 +1,11 @@
 ---
+album: Complete Recordings
 artists:
 - Bob Kuban And The In-Men
+external_ids:
+  spotify: spotify:track:5RxxO4kwxcT9VjrlPzhJXJ
 features: []
-genres: []
+first_released_as_single: false
 key: drive-my-car-bob-kuban-and-the-in-men
 name: Drive My Car
 rankings:
@@ -18,5 +21,7 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1966-07-30'
+release_year: 1966
+runtime: 134096
 ---
 

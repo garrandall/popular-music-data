@@ -1,9 +1,11 @@
 ---
+album: Sleeping Beauty
 artists:
-- Cheech
-- Chong
+- Cheech & Chong
+external_ids:
+  spotify: spotify:track:5lb2hb0JDvdZljWg7OOXJ9
 features: []
-genres: []
+first_released_as_single: false
 key: framed-cheech-chong
 lyrics_url: https://genius.com/Cheech-and-chong-framed-lyrics
 name: Framed
@@ -40,6 +42,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1976-07-31'
+release_year: 1976
+runtime: 166920
 ---
 I was sitting in the coffee shop
 Just minding my own affair

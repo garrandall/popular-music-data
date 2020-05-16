@@ -1,8 +1,11 @@
 ---
+album: Rock And Roll Over
 artists:
 - KISS
+external_ids:
+  spotify: spotify:track:1vcZBUX6P6FHXzG2mUfmCE
 features: []
-genres: []
+first_released_as_single: false
 key: hard-luck-woman-kiss
 lyrics_url: https://genius.com/Kiss-hard-luck-woman-lyrics
 name: Hard Luck Woman
@@ -59,6 +62,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1977-03-12'
+release_year: 1976
+runtime: 214666
 ---
 If never I met you
 I'd never have seen you cry

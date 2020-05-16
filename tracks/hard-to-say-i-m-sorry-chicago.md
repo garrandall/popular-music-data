@@ -1,8 +1,11 @@
 ---
+album: Chicago 16
 artists:
 - Chicago
+external_ids:
+  spotify: spotify:track:07TnWCHrFkvF61GzJuLVt0
 features: []
-genres: []
+first_released_as_single: false
 key: hard-to-say-i-m-sorry-chicago
 lyrics_url: https://genius.com/Chicago-hard-to-say-im-sorry-lyrics
 name: Hard To Say I'm Sorry
@@ -103,6 +106,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1982-11-13'
+release_year: 1982
+runtime: 304134
 ---
 Everybody needs a little time away
 I heard her say, from each other

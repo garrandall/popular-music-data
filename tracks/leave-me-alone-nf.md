@@ -1,8 +1,11 @@
 ---
+album: The Search
 artists:
 - NF
+external_ids:
+  spotify: spotify:track:3EtyEzMpfKSaoVhPunvbRV
 features: []
-genres: []
+first_released_as_single: false
 key: leave-me-alone-nf
 lyrics_url: https://www.musixmatch.com/lyrics/NF-7/Leave-Me-Alone
 name: Leave Me Alone
@@ -11,6 +14,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '2019-08-10'
+release_year: 2019
+runtime: 308651
 ---
 Hey!
 Leave me alone (Leave me alone)

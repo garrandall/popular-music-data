@@ -1,8 +1,11 @@
 ---
+album: All Day Music
 artists:
 - War
+external_ids:
+  spotify: spotify:track:6TL4rrKY4P3WgVN4ko6zFV
 features: []
-genres: []
+first_released_as_single: false
 key: slippin--into-darkness-war
 lyrics_url: https://www.azlyrics.com/lyrics/war/slippinintodarkness.html
 name: Slippin' Into Darkness
@@ -95,8 +98,9 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '1972-06-17'
+release_year: 1971
+runtime: 419466
 ---
-
 I was slippin' into darkness
 When they took my friend away
 I was slippin' into darkness
@@ -128,6 +132,3 @@ When I heard my mother say
 You've been slippin' into darkness
 
 Pretty soon you gonna pay
-
-
-

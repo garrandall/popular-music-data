@@ -1,8 +1,11 @@
 ---
+album: 'Oldies, Goodies, Hits & Misses: ''60-''65'
 artists:
 - The Shields
+external_ids:
+  spotify: spotify:track:2Hov4rAx6TJYl7tihS8WBl
 features: []
-genres: []
+first_released_as_single: false
 key: you-cheated-the-shields
 lyrics_url: https://genius.com/The-shields-soul-you-cheated-lyrics
 name: You Cheated
@@ -71,6 +74,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1958-12-08'
+release_year: 1958
+runtime: 146733
 ---
 You cheated, you lied
 You said that you love me

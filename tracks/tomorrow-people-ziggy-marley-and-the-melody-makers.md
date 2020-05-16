@@ -1,8 +1,11 @@
 ---
+album: Conscious Party
 artists:
 - Ziggy Marley And The Melody Makers
+external_ids:
+  spotify: spotify:track:07QZEz7d4OS6vmS1iiwJCc
 features: []
-genres: []
+first_released_as_single: false
 key: tomorrow-people-ziggy-marley-and-the-melody-makers
 lyrics_url: https://genius.com/Ziggy-marley-and-the-melody-makers-tomorrow-people-lyrics
 name: Tomorrow People
@@ -59,6 +62,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1988-08-06'
+release_year: 1988
+runtime: 218440
 ---
 Tomorrow people, where is your past?
 Tomorrow people, how long will you last?

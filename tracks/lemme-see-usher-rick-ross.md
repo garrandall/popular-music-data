@@ -1,9 +1,12 @@
 ---
+album: Looking 4 Myself
 artists:
 - Usher
+external_ids:
+  spotify: spotify:track:4MevEW6tsWrpmzPKaqK0Uw
 features:
 - Rick Ross
-genres: []
+first_released_as_single: false
 key: lemme-see-usher-rick-ross
 lyrics_url: https://genius.com/Usher-lemme-see-lyrics
 name: Lemme See
@@ -88,6 +91,8 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '2012-10-20'
+release_year: 2012
+runtime: 252826
 ---
 Usher, baby
 I hear you, yeah

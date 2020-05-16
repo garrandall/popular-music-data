@@ -1,8 +1,11 @@
 ---
+album: Irresistible
 artists:
 - Jessica Simpson
+external_ids:
+  spotify: spotify:track:3ph3IKb617cAIQj36t7p9J
 features: []
-genres: []
+first_released_as_single: false
 key: irresistible-jessica-simpson
 lyrics_url: https://genius.com/Jessica-simpson-irresistible-lyrics
 name: Irresistible
@@ -87,6 +90,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2001-09-29'
+release_year: 1999
+runtime: 191826
 ---
 You know
 I don't know what it is (Yeah, yeah, yeah)

@@ -1,8 +1,11 @@
 ---
+album: KooKoo
 artists:
 - Debbie Harry
+external_ids:
+  spotify: spotify:track:0hhtRtdTDszpG3vFsjBzKB
 features: []
-genres: []
+first_released_as_single: false
 key: backfired-debbie-harry
 lyrics_url: https://genius.com/Debbie-harry-backfired-lyrics
 name: Backfired
@@ -47,6 +50,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1981-10-17'
+release_year: 1981
+runtime: 293466
 ---
 Backfired. Your plan, your plan backfired
 Backfired. My man, your plan backfired in your face

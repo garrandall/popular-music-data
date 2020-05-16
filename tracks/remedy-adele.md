@@ -1,8 +1,11 @@
 ---
+album: 25 (The Piano Versions)
 artists:
 - Adele
+external_ids:
+  spotify: spotify:track:26NYwqu3WmanT6IwoqEDSN
 features: []
-genres: []
+first_released_as_single: false
 key: remedy-adele
 lyrics_url: https://www.azlyrics.com/lyrics/adele/remedy.html
 name: Remedy
@@ -11,8 +14,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '2015-12-12'
+release_year: 2015
+runtime: 237222
 ---
-
 I remember all of the things that I thought I wanted to be
 So desperate to find a way out of my world and finally breathe
 Right before my eyes I saw, my heart it came to life
@@ -52,6 +56,3 @@ And your heart makes you feel like a fool
 I promise you will see
 That I will be, I will be, I will be...
 Your Remedy
-
-
-

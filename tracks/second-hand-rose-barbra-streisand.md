@@ -1,8 +1,11 @@
 ---
+album: My Name Is Barbra, Two...
 artists:
 - Barbra Streisand
+external_ids:
+  spotify: spotify:track:3bjYsQnEYHpUm3DB4nlx7d
 features: []
-genres: []
+first_released_as_single: false
 key: second-hand-rose-barbra-streisand
 lyrics_url: https://www.azlyrics.com/lyrics/barbrastreisand/secondhandrosefrombarbraandothermusicalinstruments.html
 name: Second Hand Rose
@@ -43,14 +46,12 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '1966-02-12'
+release_year: 1965
+runtime: 129199
 ---
-
 Every one knows
 I'm second hand Rose
 From Second Avenue
 I got rhythm, I got rhythm, I got rhythm
 I got rhythm, I got rhythm, I got rhythm
 I got rhythm, oh... oh...
-
-
-

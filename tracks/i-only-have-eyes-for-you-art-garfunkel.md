@@ -1,8 +1,11 @@
 ---
+album: Breakaway
 artists:
 - Art Garfunkel
+external_ids:
+  spotify: spotify:track:6R9IbOTdjLU1za9B2tN5Jo
 features: []
-genres: []
+first_released_as_single: false
 key: i-only-have-eyes-for-you-art-garfunkel
 lyrics_url: https://www.azlyrics.com/lyrics/artgarfunkel/ionlyhaveeyesforyou.html
 name: I Only Have Eyes For You
@@ -79,8 +82,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1975-12-20'
+release_year: 1975
+runtime: 219120
 ---
-
 My love must be a kind of blind love
 I can't see anyone but you
 
@@ -115,6 +119,3 @@ You are here, so am I
 Maybe millions of people go by
 But they all disappear from view
 And I only have eyes for you
-
-
-

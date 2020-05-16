@@ -1,8 +1,11 @@
 ---
+album: Circles
 artists:
 - Mac Miller
+external_ids:
+  spotify: spotify:track:1kwnxJNVl7cwcU98RvMBaR
 features: []
-genres: []
+first_released_as_single: false
 key: surf-mac-miller
 lyrics_url: https://www.azlyrics.com/lyrics/macmiller/surf.html
 name: Surf
@@ -11,8 +14,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2020-02-01'
+release_year: 2020
+runtime: 330506
 ---
-
 Hey, hey, hey
 Hey, hey, hey
 Hey, hey, hey
@@ -57,6 +61,3 @@ Hey, and I know we try, days, they go by
 Until we get old, there's water in the flowers, let's grow
 People they lie, but hey, so do I
 Until it gets old, there's water in the flowers, let's grow
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: I'd Like to Teach the World to Sing
 artists:
 - Sugar Bears
+external_ids:
+  spotify: spotify:track:3UR2EG2P7y8log42faGJcs
 features: []
-genres: []
+first_released_as_single: false
 key: you-are-the-one-sugar-bears
 lyrics_url: https://www.musixmatch.com/lyrics/Sugar-Bears/You-Are-the-One
 name: You Are The One
@@ -59,6 +62,8 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1972-06-03'
+release_year: 1972
+runtime: 187800
 ---
 I got a feeling for you
 That I just can't hide any more.

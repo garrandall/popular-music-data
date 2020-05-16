@@ -1,8 +1,11 @@
 ---
+album: Home Grown
 artists:
 - Johnny Rivers
+external_ids:
+  spotify: spotify:track:4CULZnxsThsMRfP1WsnjHh
 features: []
-genres: []
+first_released_as_single: false
 key: think-his-name-johnny-rivers
 lyrics_url: https://www.azlyrics.com/lyrics/johnnyrivers/thinkhisname.html
 name: Think His Name
@@ -31,8 +34,9 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1971-10-02'
+release_year: 1971
+runtime: 280266
 ---
-
 Think his name
 Think his name
 Don't be ashamed
@@ -135,6 +139,3 @@ Sing "Jesus Christ"
 (Jesus Christ
 Jesus Christ
 Jesus Christ)
-
-
-

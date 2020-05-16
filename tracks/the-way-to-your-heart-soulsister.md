@@ -1,8 +1,11 @@
 ---
+album: It Takes Two
 artists:
 - Soulsister
+external_ids:
+  spotify: spotify:track:7h7yYTlVSHY3Fk7mSb0cDZ
 features: []
-genres: []
+first_released_as_single: false
 key: the-way-to-your-heart-soulsister
 lyrics_url: https://genius.com/Soulsister-the-way-to-your-heart-lyrics
 name: The Way To Your Heart
@@ -47,6 +50,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1989-11-25'
+release_year: 1989
+runtime: 228293
 ---
 Woke up this morning with my heart on fire
 Held on to what I'd been dreaming

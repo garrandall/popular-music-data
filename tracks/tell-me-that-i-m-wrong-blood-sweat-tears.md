@@ -1,10 +1,13 @@
 ---
+album: Mirror Image
 artists:
 - Blood
 - Sweat
 - Tears
+external_ids:
+  spotify: spotify:track:7KDZSK2xJxt0aHkKXsFFZm
 features: []
-genres: []
+first_released_as_single: false
 key: tell-me-that-i-m-wrong-blood-sweat-tears
 lyrics_url: https://genius.com/Blood-sweat-and-tears-tell-me-that-im-wrong-lyrics
 name: Tell Me That I'm Wrong
@@ -25,6 +28,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1974-07-20'
+release_year: 1972
+runtime: 147973
 ---
 Come on and tell me that I’m wrong
 Now you know just how I feel

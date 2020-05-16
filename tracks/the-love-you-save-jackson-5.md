@@ -1,8 +1,11 @@
 ---
+album: ABC
 artists:
 - Jackson 5
+external_ids:
+  spotify: spotify:track:2dYdai0GywuwYq6blSwDBV
 features: []
-genres: []
+first_released_as_single: false
 key: the-love-you-save-jackson-5
 lyrics_url: https://www.azlyrics.com/lyrics/jackson5/theloveyousave.html
 name: The Love You Save
@@ -59,9 +62,10 @@ rankings:
   rank: 31
   ranking_list: Billboard Hot 100
   start_date: '1970-08-22'
+release_year: 1970
+runtime: 181426
 ---
-
- Stop! Nanana! You'd better save it!
+Stop! Nanana! You'd better save it!
 Stop, stop, stop, you'd better save it!
 
  When we played tag in grade school
@@ -130,6 +134,3 @@ You'll be all alone
 Those other guys will put you down as soon as they succeed.
 
  Stop! The love you save may be your own...
-
-
-

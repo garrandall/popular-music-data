@@ -1,8 +1,11 @@
 ---
+album: All I Ever Wanted
 artists:
 - Kelly Clarkson
+external_ids:
+  spotify: spotify:track:4fq2YUONcgrCJ2SPndSeKC
 features: []
-genres: []
+first_released_as_single: false
 key: already-gone-kelly-clarkson
 lyrics_url: https://genius.com/Kelly-clarkson-already-gone-lyrics
 name: Already Gone
@@ -131,6 +134,8 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '2010-03-13'
+release_year: 2009
+runtime: 279893
 ---
 Remember all the things we wanted
 Now all our memories, they're haunted

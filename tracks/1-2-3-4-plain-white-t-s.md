@@ -1,8 +1,11 @@
 ---
+album: Big Bad World
 artists:
 - Plain White T's
+external_ids:
+  spotify: spotify:track:5VWmMZCfJ4yVkJw9ZLFXej
 features: []
-genres: []
+first_released_as_single: false
 key: 1-2-3-4-plain-white-t-s
 lyrics_url: https://genius.com/Plain-white-ts-1234-lyrics
 name: 1 2 3 4
@@ -87,6 +90,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '2009-06-20'
+release_year: 2008
+runtime: 198360
 ---
 1-2-1-2-3-4
 

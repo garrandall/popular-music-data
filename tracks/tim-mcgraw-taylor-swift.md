@@ -1,8 +1,11 @@
 ---
+album: Taylor Swift
 artists:
 - Taylor Swift
+external_ids:
+  spotify: spotify:track:0Om9WAB5RS09L80DyOfTNa
 features: []
-genres: []
+first_released_as_single: false
 key: tim-mcgraw-taylor-swift
 lyrics_url: https://genius.com/Taylor-swift-tim-mcgraw-lyrics
 name: Tim McGraw
@@ -87,6 +90,8 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '2007-02-03'
+release_year: 2006
+runtime: 232106
 ---
 He said the way my blue eyes shined
 Put those Georgia stars to shame that night

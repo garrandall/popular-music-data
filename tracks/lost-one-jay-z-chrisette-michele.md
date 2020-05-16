@@ -1,9 +1,12 @@
 ---
+album: Kingdom Come
 artists:
 - Jay-Z
+external_ids:
+  spotify: spotify:track:206QiQ5OnKTZE3cnuMYu3H
 features:
 - Chrisette Michele
-genres: []
+first_released_as_single: false
 key: lost-one-jay-z-chrisette-michele
 lyrics_url: https://www.azlyrics.com/lyrics/jayz/lostone.html
 name: Lost One
@@ -40,8 +43,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2007-02-10'
+release_year: 2006
+runtime: 224226
 ---
-
 Uh, uh, uh, uh
 It's not a dis song, it's just a real song
 Feel me?
@@ -127,6 +131,3 @@ Lose one, let go to get one
 Get one, lose some to win some (Colleek, I lost one)
 Sorry of a champion, Colleek, you're a champion
 I lost one
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Warm And Soulful
 artists:
 - Garnet Mimms
+external_ids:
+  spotify: spotify:track:7kCJ2TdZglgf0llFnMuu9I
 features: []
-genres: []
+first_released_as_single: false
 key: one-girl-garnet-mimms
 lyrics_url: https://genius.com/Garnet-mimms-one-girl-lyrics
 name: One Girl
@@ -23,6 +26,8 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1964-06-06'
+release_year: 1964
+runtime: 183333
 ---
 (One girl)
 Said I want one girl

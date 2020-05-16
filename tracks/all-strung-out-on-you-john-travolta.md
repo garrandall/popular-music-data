@@ -1,8 +1,11 @@
 ---
+album: Can't Let You Go
 artists:
 - John Travolta
+external_ids:
+  spotify: spotify:track:0tG0DzfPrtMt4tIfju56Zj
 features: []
-genres: []
+first_released_as_single: false
 key: all-strung-out-on-you-john-travolta
 lyrics_url: https://genius.com/John-travolta-all-strung-out-on-you-lyrics
 name: All Strung Out On You
@@ -39,6 +42,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1977-04-09'
+release_year: 1977
+runtime: 207143
 ---
 I just can't get enough of you, baby
 There just ain't enough of you to go around

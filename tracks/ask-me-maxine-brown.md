@@ -1,8 +1,11 @@
 ---
+album: Super Hits
 artists:
 - Maxine Brown
+external_ids:
+  spotify: spotify:track:5DIcwqiyODb2nrlkgYRSkF
 features: []
-genres: []
+first_released_as_single: false
 key: ask-me-maxine-brown
 lyrics_url: https://www.musixmatch.com/lyrics/Maxine-Brown/Ask-Me
 name: Ask Me
@@ -27,6 +30,8 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1963-05-04'
+release_year: 1963
+runtime: 211812
 ---
 Lovers may come
 Lovers may go

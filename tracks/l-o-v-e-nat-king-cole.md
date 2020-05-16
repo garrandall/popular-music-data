@@ -1,8 +1,11 @@
 ---
+album: L-O-V-E
 artists:
 - Nat King Cole
+external_ids:
+  spotify: spotify:track:4QxDOjgpYtQDxxbWPuEJOy
 features: []
-genres: []
+first_released_as_single: false
 key: l-o-v-e-nat-king-cole
 lyrics_url: https://genius.com/Nat-king-cole-l-o-v-e-lyrics
 name: L-O-V-E
@@ -23,6 +26,8 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1964-10-17'
+release_year: 1964
+runtime: 155306
 ---
 L is for the way you look at me
 O is for the only one I see

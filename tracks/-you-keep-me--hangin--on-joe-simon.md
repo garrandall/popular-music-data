@@ -1,8 +1,11 @@
 ---
+album: Best of Joe Simon
 artists:
 - Joe Simon
+external_ids:
+  spotify: spotify:track:4WZKSkY8mBi3F1WZuBdNf3
 features: []
-genres: []
+first_released_as_single: false
 key: -you-keep-me--hangin--on-joe-simon
 lyrics_url: https://genius.com/Joe-simon-hangin-on-lyrics
 name: (You Keep Me) Hangin' On
@@ -67,6 +70,8 @@ rankings:
   rank: 35
   ranking_list: Billboard Hot 100
   start_date: '1968-07-20'
+release_year: 1968
+runtime: 166318
 ---
 It's true you have me twisted round your finger and it seems that's where I belong
 You know how to hold me to thrill me and control me

@@ -1,8 +1,11 @@
 ---
+album: Light House
 artists:
 - Kim Carnes
+external_ids:
+  spotify: spotify:track:2najAHnbqamzXMGEzgKeQY
 features: []
-genres: []
+first_released_as_single: false
 key: divided-hearts-kim-carnes
 lyrics_url: https://www.azlyrics.com/lyrics/kimcarnes/dividedhearts.html
 name: Divided Hearts
@@ -27,8 +30,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1986-06-21'
+release_year: 1986
+runtime: 239773
 ---
-
 You're looking through your window
 Into the neon light
 You try to forget him
@@ -56,7 +60,7 @@ Why do they break
 And we are left with our divided hearts, oh
 
 A standing conversation
-Down at the Pink CafÃ©
+Down at the Pink Café
 You tellin' me you got reason
 But I just can't hear a single word you say
 Flashback, flashback
@@ -96,6 +100,3 @@ With our divided hearts
 
 (One divided heart)
 (Two divided hearts)
-
-
-

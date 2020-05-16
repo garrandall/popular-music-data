@@ -1,8 +1,11 @@
 ---
+album: LIFE'S A TRIP
 artists:
 - Trippie Redd
+external_ids:
+  spotify: spotify:track:6ArSQdZWckNt208EzsgUM5
 features: []
-genres: []
+first_released_as_single: true
 key: taking-a-walk-trippie-redd
 lyrics_url: https://www.azlyrics.com/lyrics/trippieredd/takingawalk.html
 name: Taking A Walk
@@ -19,8 +22,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2018-09-08'
+release_year: 2018
+runtime: 121680
 ---
-
 Scott Storch
 
 Oh so they think I wanna die, yeah
@@ -52,6 +56,3 @@ These people don't want me alive, no
 They wanna play games with my life, oh
 The coupe doors are suicide, oh
 The coupe doors are suicide, oh-ah
-
-
-

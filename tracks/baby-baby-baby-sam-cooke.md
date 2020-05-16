@@ -1,8 +1,11 @@
 ---
+album: The Man Who Invented Soul
 artists:
 - Sam Cooke
+external_ids:
+  spotify: spotify:track:1IbJRHY52sNt5jj0TWNO1S
 features: []
-genres: []
+first_released_as_single: false
 key: baby-baby-baby-sam-cooke
 lyrics_url: https://genius.com/Sam-cooke-baby-baby-baby-lyrics
 name: Baby Baby Baby
@@ -35,6 +38,8 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1963-03-16'
+release_year: 1963
+runtime: 147893
 ---
 Baby, baby, baby
 You got me crying in my sleep

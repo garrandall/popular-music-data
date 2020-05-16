@@ -1,8 +1,11 @@
 ---
+album: Views
 artists:
 - Drake
+external_ids:
+  spotify: spotify:track:433P7tDcIAi6NLnf4Sh6tI
 features: []
-genres: []
+first_released_as_single: false
 key: still-here-drake
 lyrics_url: https://genius.com/Drake-still-here-lyrics
 name: Still Here
@@ -47,6 +50,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2016-07-23'
+release_year: 2016
+runtime: 189853
 ---
 Doin' well dog
 Yeah, me and all my

@@ -1,8 +1,11 @@
 ---
+album: The Senior
 artists:
 - Ginuwine
+external_ids:
+  spotify: spotify:track:5ojJNnX5ND2gMGojPd3NiO
 features: []
-genres: []
+first_released_as_single: false
 key: in-those-jeans-ginuwine
 lyrics_url: https://genius.com/Ginuwine-in-those-jeans-lyrics
 name: In Those Jeans
@@ -87,6 +90,8 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '2003-10-25'
+release_year: 2003
+runtime: 243306
 ---
 Looking good plenty tight
 Tell me is there any more room for me

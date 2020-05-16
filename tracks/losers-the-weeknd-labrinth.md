@@ -1,9 +1,12 @@
 ---
+album: Beauty Behind The Madness
 artists:
 - The Weeknd
+external_ids:
+  spotify: spotify:track:1bAvtmTl0F9loyz9AwPwp7
 features:
 - Labrinth
-genres: []
+first_released_as_single: false
 key: losers-the-weeknd-labrinth
 lyrics_url: https://www.azlyrics.com/lyrics/weeknd/losers.html
 name: Losers
@@ -12,9 +15,9 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '2015-09-19'
+release_year: 2015
+runtime: 281146
 ---
-
-
 Only losers go to school
 I taught myself how to move
 I'm not the type to count on you
@@ -71,6 +74,3 @@ That my heart don't know already?
 'Cause we make our own sense
 And you're qualified to me
 And you're qualified to me
-
-
-

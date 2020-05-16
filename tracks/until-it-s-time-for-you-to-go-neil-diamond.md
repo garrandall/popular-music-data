@@ -1,8 +1,11 @@
 ---
+album: Touching You, Touching Me
 artists:
 - Neil Diamond
+external_ids:
+  spotify: spotify:track:6fsAxEHvbVPU8pVPnBXaX2
 features: []
-genres: []
+first_released_as_single: false
 key: until-it-s-time-for-you-to-go-neil-diamond
 lyrics_url: https://genius.com/Neil-diamond-until-its-time-for-you-to-go-lyrics
 name: Until It's Time For You To Go
@@ -31,6 +34,8 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '1970-03-28'
+release_year: 1969
+runtime: 211440
 ---
 You're not a dream
 You're not an angel

@@ -1,8 +1,11 @@
 ---
+album: Fired Up
 artists:
 - Randy Houser
+external_ids:
+  spotify: spotify:track:7JnorPtXApoUw2AuJUGLY1
 features: []
-genres: []
+first_released_as_single: false
 key: we-went-randy-houser
 lyrics_url: https://genius.com/Randy-houser-we-went-lyrics
 name: We Went
@@ -59,6 +62,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2016-04-02'
+release_year: 2015
+runtime: 179360
 ---
 Black Pontiac with a pocket of cash
 Foot on the gas ready and throwing up a little dust

@@ -1,8 +1,11 @@
 ---
+album: The Essential Alabama
 artists:
 - Alabama
+external_ids:
+  spotify: spotify:track:0HgpiaXip83f5BARVLfvu2
 features: []
-genres: []
+first_released_as_single: false
 key: keepin--up-alabama
 lyrics_url: https://www.azlyrics.com/lyrics/alabama/keepinup.html
 name: Keepin' Up
@@ -39,8 +42,9 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '1999-03-27'
+release_year: 1999
+runtime: 185373
 ---
-
 What's goin' on with the sun and the moon
 'Cause one's goin' down to early, one's comin' up to soon
 The hands on my old clock tell me once again that I'm fallin' behind
@@ -84,6 +88,3 @@ Keepin' up
 I can't stop
 Keepin' up, like it or not
 Keepin' up...
-
-
-

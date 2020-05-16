@@ -1,8 +1,11 @@
 ---
+album: All That Matters
 artists:
 - Portrait
+external_ids:
+  spotify: spotify:track:5wBK7kzV4ebnS3qAu7lWKL
 features: []
-genres: []
+first_released_as_single: false
 key: how-deep-is-your-love-portrait
 lyrics_url: https://genius.com/Portrait-r-b-how-deep-is-your-love-lyrics
 name: How Deep Is Your Love
@@ -27,6 +30,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1995-08-12'
+release_year: 1995
+runtime: 243333
 ---
 I know your eyes in the morning sun
 I feel you touch me in the pouring rain

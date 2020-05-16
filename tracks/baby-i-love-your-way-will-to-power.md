@@ -1,8 +1,11 @@
 ---
+album: Will To Power
 artists:
 - Will To Power
+external_ids:
+  spotify: spotify:track:0kzSooCGpuphLwn8iTuO9h
 features: []
-genres: []
+first_released_as_single: false
 key: baby-i-love-your-way-will-to-power
 lyrics_url: https://genius.com/Will-to-power-baby-i-love-your-way-freebird-medley-lyrics
 name: Baby I Love Your Way
@@ -103,6 +106,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1989-02-18'
+release_year: 1988
+runtime: 247200
 ---
 Shadows grow so long before my eyes
 And they're moving across the page

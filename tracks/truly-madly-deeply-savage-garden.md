@@ -1,8 +1,11 @@
 ---
+album: Savage Garden
 artists:
 - Savage Garden
+external_ids:
+  spotify: spotify:track:013AWvizllIUEC2FOBzOnh
 features: []
-genres: []
+first_released_as_single: false
 key: truly-madly-deeply-savage-garden
 lyrics_url: https://genius.com/Savage-garden-truly-madly-deeply-lyrics
 name: Truly Madly Deeply
@@ -215,6 +218,8 @@ rankings:
   rank: 27
   ranking_list: Billboard Hot 100
   start_date: '1998-11-28'
+release_year: 1997
+runtime: 277266
 ---
 I'll be your dream, I'll be your wish
 I'll be your fantasy

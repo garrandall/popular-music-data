@@ -1,8 +1,11 @@
 ---
+album: Secret Messages
 artists:
 - Electric Light Orchestra
+external_ids:
+  spotify: spotify:track:44XgoV7almWnE6obm9HHWF
 features: []
-genres: []
+first_released_as_single: false
 key: rock--n--roll-is-king-electric-light-orchestra
 lyrics_url: https://www.azlyrics.com/lyrics/electriclightorchestra/rocknrollisking.html
 name: Rock 'n' Roll Is King
@@ -59,8 +62,9 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1983-09-17'
+release_year: 1972
+runtime: 189133
 ---
-
 Listen everybody let me tell you 'bout the rock 'n' roll
 Feel that rhythm and it's really gonna thrill your soul
 She said come along with me, to a land of make believe
@@ -88,6 +92,3 @@ When she comes around and I'm listenin' to the radio
 She says you can't do that 'cause all I wanna do is rock 'n' roll
 Now here I'm gonna stay where that music starts to play
 She says rock 'n' roll is king
-
-
-

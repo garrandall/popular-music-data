@@ -1,8 +1,11 @@
 ---
+album: If My Ancestors Could See Me Now
 artists:
 - Ivan Neville
+external_ids:
+  spotify: spotify:track:1wrotXqRZZQ64d05quTCaO
 features: []
-genres: []
+first_released_as_single: false
 key: not-just-another-girl-ivan-neville
 lyrics_url: https://www.musixmatch.com/lyrics/Ivan-Neville/Not-Just-Another-Girl
 name: Not Just Another Girl
@@ -83,6 +86,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1989-02-11'
+release_year: 1988
+runtime: 251840
 ---
 The place was jammed, the music loud
 I could see her face standing out in the crowd as she winked at me

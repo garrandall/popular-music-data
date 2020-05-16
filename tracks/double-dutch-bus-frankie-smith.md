@@ -1,8 +1,11 @@
 ---
+album: Double Dutch Bus
 artists:
 - Frankie Smith
+external_ids:
+  spotify: spotify:track:1EVJeWeItAPcATFolrw3VR
 features: []
-genres: []
+first_released_as_single: true
 key: double-dutch-bus-frankie-smith
 lyrics_url: https://genius.com/Frankie-smith-double-dutch-bus-lyrics
 name: Double Dutch Bus
@@ -83,6 +86,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1981-09-19'
+release_year: 1981
+runtime: 320973
 ---
 FRANKIE: Gimme a "ho" if you got your funky bus fare
 

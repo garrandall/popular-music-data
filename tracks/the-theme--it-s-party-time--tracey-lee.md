@@ -1,8 +1,11 @@
 ---
+album: Many Facez
 artists:
 - Tracey Lee
+external_ids:
+  spotify: spotify:track:0goSgbfByV96DUQv4NuRhl
 features: []
-genres: []
+first_released_as_single: false
 key: the-theme--it-s-party-time--tracey-lee
 lyrics_url: https://genius.com/Tracey-lee-the-theme-its-party-time-lyrics
 name: The Theme (It's Party Time)
@@ -79,6 +82,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1997-06-14'
+release_year: 1997
+runtime: 272800
 ---
 It's party time! Woah, it's party time!
 Havin a party, c'mon

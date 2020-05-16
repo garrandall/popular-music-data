@@ -1,8 +1,11 @@
 ---
+album: The Introduction of Marcus Cooper
 artists:
 - Pleasure P
+external_ids:
+  spotify: spotify:track:3gsnLrWEhQYqCmol8OiRfe
 features: []
-genres: []
+first_released_as_single: false
 key: boyfriend--2-pleasure-p
 lyrics_url: https://genius.com/Pleasure-p-boyfriend-2-lyrics
 name: 'Boyfriend #2'
@@ -79,6 +82,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2009-08-01'
+release_year: 2009
+runtime: 204120
 ---
 Call me when your man ain't around
 I don't mind being the dude on the side ya dig

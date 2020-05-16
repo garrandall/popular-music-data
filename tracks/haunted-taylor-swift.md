@@ -1,8 +1,11 @@
 ---
+album: Speak Now
 artists:
 - Taylor Swift
+external_ids:
+  spotify: spotify:track:11UaQaEp2LvdspTyyuE3ur
 features: []
-genres: []
+first_released_as_single: false
 key: haunted-taylor-swift
 lyrics_url: https://genius.com/Taylor-swift-haunted-lyrics
 name: Haunted
@@ -15,6 +18,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2011-11-26'
+release_year: 2010
+runtime: 242080
 ---
 You and I walk a fragile line
 I have known it all this time

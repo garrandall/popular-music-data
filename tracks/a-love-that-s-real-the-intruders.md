@@ -1,8 +1,11 @@
 ---
+album: 'Playlist: The Very Best Of The Intruders'
 artists:
 - The Intruders
+external_ids:
+  spotify: spotify:track:38aDhFXYOJ5ObyjyBPqhMX
 features: []
-genres: []
+first_released_as_single: false
 key: a-love-that-s-real-the-intruders
 lyrics_url: https://www.azlyrics.com/lyrics/intruders/alovethatsreal.html
 name: A Love That's Real
@@ -19,8 +22,9 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1967-12-16'
+release_year: 1964
+runtime: 175440
 ---
-
 Jack went up the hill for Jill
 To get her a pail of water
 To show her that he loved her
@@ -66,6 +70,3 @@ Because we got a love we can feel
 We got a love that's really real
 We got a love we can feel
 We got a love that's really real
-
-
-

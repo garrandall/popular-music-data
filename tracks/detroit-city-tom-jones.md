@@ -1,8 +1,11 @@
 ---
+album: Green, Green Grass Of Home
 artists:
 - Tom Jones
+external_ids:
+  spotify: spotify:track:31DSjQaYeyvnjGJnHNpRzY
 features: []
-genres: []
+first_released_as_single: false
 key: detroit-city-tom-jones
 lyrics_url: https://www.azlyrics.com/lyrics/tomjones/detroitcity.html
 name: Detroit City
@@ -39,8 +42,9 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1967-04-29'
+release_year: 1967
+runtime: 211826
 ---
-
 Last night I went to sleep in Detroit City,
 and I dreamed about those cotton fields at home.
 I dreamed about my mother,
@@ -70,6 +74,3 @@ The ones I left waitin' so far behind.
 
 I wanna go home, I wanna go home,
 oh, how I want to go home.
-
-
-

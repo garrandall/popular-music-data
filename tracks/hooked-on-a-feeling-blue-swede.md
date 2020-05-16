@@ -1,8 +1,11 @@
 ---
+album: Hooked On A Feeling - 40th Anniversary Collection
 artists:
 - Blue Swede
+external_ids:
+  spotify: spotify:track:6Ac4NVYYl2U73QiTt11ZKd
 features: []
-genres: []
+first_released_as_single: true
 key: hooked-on-a-feeling-blue-swede
 lyrics_url: https://www.azlyrics.com/lyrics/blueswede/hookedonafeeling.html
 name: Hooked On A Feeling
@@ -75,8 +78,9 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1974-06-08'
+release_year: 1973
+runtime: 172866
 ---
-
 Ooga-chaka, ooga-ooga
 Ooga-chaka, ooga-ooga
 Ooga-chaka, ooga-ooga
@@ -132,6 +136,3 @@ I said I'm hooked on a feeling
 And I'm high on believing
 That you're in love with me
 I'm hooked on a feeling
-
-
-

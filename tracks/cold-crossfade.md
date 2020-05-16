@@ -1,8 +1,11 @@
 ---
+album: Crossfade
 artists:
 - Crossfade
+external_ids:
+  spotify: spotify:track:6XkmguZ5hiQeAOHxh6harZ
 features: []
-genres: []
+first_released_as_single: false
 key: cold-crossfade
 lyrics_url: https://www.azlyrics.com/lyrics/crossfade/cold.html
 name: Cold
@@ -99,8 +102,9 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '2005-01-08'
+release_year: 2003
+runtime: 198400
 ---
-
 Looking back at me I see
 That I never really got it right
 I never stopped to think of you
@@ -135,4 +139,3 @@ I never really wanted you to go
 So many things you should have known
 I guess for me there's just no hope
 I never meant to be so cold
-

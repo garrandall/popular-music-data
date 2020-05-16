@@ -1,9 +1,12 @@
 ---
+album: Winds Of Change (Mono Version)
 artists:
 - Eric Burdon
 - The Animals
+external_ids:
+  spotify: spotify:track:1KJDRz77W3eH2HTd4QVMeI
 features: []
-genres: []
+first_released_as_single: false
 key: san-franciscan-nights-eric-burdon-the-animals
 lyrics_url: https://genius.com/Eric-burdon-and-the-animals-san-franciscan-nights-lyrics
 name: San Franciscan Nights
@@ -48,6 +51,8 @@ rankings:
   rank: 37
   ranking_list: Billboard Hot 100
   start_date: '1967-10-07'
+release_year: 1965
+runtime: 200440
 ---
 Spoken (to the intro sounds of the Dragnet theme):
 

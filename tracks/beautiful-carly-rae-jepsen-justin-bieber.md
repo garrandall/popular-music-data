@@ -1,9 +1,12 @@
 ---
+album: Kiss
 artists:
 - Carly Rae Jepsen
+external_ids:
+  spotify: spotify:track:52PiyZoav11ZSAoHPqSlzh
 features:
 - Justin Bieber
-genres: []
+first_released_as_single: false
 key: beautiful-carly-rae-jepsen-justin-bieber
 lyrics_url: https://www.azlyrics.com/lyrics/carlyraejepsen/beautiful.html
 name: Beautiful
@@ -12,8 +15,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '2012-10-06'
+release_year: 2012
+runtime: 197986
 ---
-
 Woah oh
 
 Hello, I know it's been a while
@@ -89,6 +93,3 @@ I wish somehow
 I could say them now
 Oh, I could say them now
 Mmm
-
-
-

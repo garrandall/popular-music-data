@@ -1,9 +1,12 @@
 ---
+album: A Gasssss
 artists:
 - Jr. Walker
 - The All Stars
+external_ids:
+  spotify: spotify:track:0wM2UvjMQ99K2zIxoeQ81s
 features: []
-genres: []
+first_released_as_single: false
 key: holly-holy-jr--walker-the-all-stars
 lyrics_url: https://genius.com/Jr-walker-and-the-all-stars-holly-holy-lyrics
 name: Holly Holy
@@ -28,6 +31,8 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1971-01-23'
+release_year: 1970
+runtime: 275506
 ---
 Holly, holly holy eyes
 Dream, a dream of love, ohyeah

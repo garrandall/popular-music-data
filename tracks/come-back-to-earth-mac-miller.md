@@ -1,8 +1,11 @@
 ---
+album: Swimming
 artists:
 - Mac Miller
+external_ids:
+  spotify: spotify:track:01z2fBGB8Hl3Jd3zXe4IXR
 features: []
-genres: []
+first_released_as_single: false
 key: come-back-to-earth-mac-miller
 lyrics_url: https://genius.com/Mac-miller-come-back-to-earth-lyrics
 name: Come Back To Earth
@@ -11,6 +14,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2018-09-22'
+release_year: 2018
+runtime: 161840
 ---
 My regrets look just like texts I shouldn't send
 And I got neighbors, they're more like strangers

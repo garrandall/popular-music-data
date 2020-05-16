@@ -1,8 +1,11 @@
 ---
+album: Fortress
 artists:
 - Sister Hazel
+external_ids:
+  spotify: spotify:track:3PuoEoC2QYXUJPk1DObFsU
 features: []
-genres: []
+first_released_as_single: false
 key: change-your-mind-sister-hazel
 lyrics_url: https://www.azlyrics.com/lyrics/sisterhazel/changeyourmind.html
 name: Change Your Mind
@@ -87,8 +90,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2000-11-25'
+release_year: 2000
+runtime: 259666
 ---
-
 Hey, Hey
 Did you ever think
 There might be another way
@@ -134,4 +138,3 @@ what ya say
 We both go and seize the day
 'cause what's your hurry
 what's your hurry anyway
-

@@ -1,9 +1,12 @@
 ---
+album: Popsicle
 artists:
 - Jan
 - Dean
+external_ids:
+  spotify: spotify:track:6RWWKdD1vIQsaENO0VqrS5
 features: []
-genres: []
+first_released_as_single: false
 key: fiddle-around-jan-dean
 lyrics_url: https://www.musixmatch.com/lyrics/Jan-feat-Dean/Fiddle-Around
 name: Fiddle Around
@@ -24,6 +27,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1966-09-24'
+release_year: 1966
+runtime: 149706
 ---
 Wo wo wo fiddle around, fiddle around
 They would fiddle around & around, all over the town

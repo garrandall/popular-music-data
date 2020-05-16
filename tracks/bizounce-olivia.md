@@ -1,8 +1,11 @@
 ---
+album: Olivia
 artists:
 - Olivia
+external_ids:
+  spotify: spotify:track:1eFwJoCJj6FoeUhx07CDys
 features: []
-genres: []
+first_released_as_single: false
 key: bizounce-olivia
 lyrics_url: https://www.azlyrics.com/lyrics/olivia/bizounce.html
 name: Bizounce
@@ -63,9 +66,9 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '2001-06-16'
+release_year: 2001
+runtime: 264466
 ---
-
-
 F*** conversation, I'm throwin him a lever
 Leavin the crib with a Dear John letter
 I'm takin what I need, nigga f*** all ya cheddah
@@ -194,6 +197,3 @@ Picture frame broken daddy
 Cuz I can't trust you
 I'm ridin high now 
 So nigga f*** you
-
-
-

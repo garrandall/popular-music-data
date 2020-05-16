@@ -1,8 +1,11 @@
 ---
+album: Diamantina Cocktail
 artists:
 - Little River Band
+external_ids:
+  spotify: spotify:track:29C9PojfgRbXquHl3dEbb1
 features: []
-genres: []
+first_released_as_single: false
 key: happy-anniversary-little-river-band
 lyrics_url: https://www.azlyrics.com/lyrics/littleriverband/happyanniversary.html
 name: Happy Anniversary
@@ -79,8 +82,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1978-04-15'
+release_year: 1977
+runtime: 246253
 ---
-
 Happy anniversary, baby
 Got you on my mind
 Happy anniversary, baby
@@ -142,6 +146,3 @@ Always on my mind
 
 Happy anniversary
 Happy anniversary
-
-
-

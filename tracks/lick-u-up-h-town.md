@@ -1,8 +1,11 @@
 ---
+album: Fever for da Flavor
 artists:
 - H-Town
+external_ids:
+  spotify: spotify:track:0McxbUT0jJ9nsStBvtv3dM
 features: []
-genres: []
+first_released_as_single: false
 key: lick-u-up-h-town
 lyrics_url: https://genius.com/H-town-lick-u-up-lyrics
 name: Lick U Up
@@ -51,6 +54,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1993-10-09'
+release_year: 1993
+runtime: 334471
 ---
 Stop
 Let's take this real slow

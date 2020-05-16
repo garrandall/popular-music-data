@@ -1,8 +1,11 @@
 ---
+album: Over It
 artists:
 - Summer Walker
+external_ids:
+  spotify: spotify:track:4YNrBVo8fv6qiTNwHLVDai
 features: []
-genres: []
+first_released_as_single: false
 key: potential-summer-walker
 lyrics_url: https://www.azlyrics.com/lyrics/summerwalker/potential.html
 name: Potential
@@ -11,8 +14,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2019-10-19'
+release_year: 2019
+runtime: 173120
 ---
-
 You got potential, you got, you
 You got potential, you got, you
 You got potential (Potential, yeah, yeah)
@@ -45,6 +49,3 @@ Keep it open, one hunnid
 You got potential, you got, you
 You got potential (Potential, yeah, yeah)
 You got potential, you got, you
-
-
-

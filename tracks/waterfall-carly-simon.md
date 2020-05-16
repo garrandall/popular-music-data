@@ -1,8 +1,11 @@
 ---
+album: Playing Possum
 artists:
 - Carly Simon
+external_ids:
+  spotify: spotify:track:4kcSSn0ViqGjYxUeMb2O6x
 features: []
-genres: []
+first_released_as_single: false
 key: waterfall-carly-simon
 lyrics_url: https://www.azlyrics.com/lyrics/carlysimon/waterfall.html
 name: Waterfall
@@ -19,8 +22,9 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1975-08-09'
+release_year: 1975
+runtime: 213960
 ---
-
 Something's going down like a waterfall
 Some strong feeling's some old love
 I saw you and it made no sense at all
@@ -47,6 +51,3 @@ Lord, and I'm drowning
 Like a waterfall going down
 Just like a waterfall washing me down
 Like a waterfall going down and down and down
-
-
-

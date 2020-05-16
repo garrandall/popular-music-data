@@ -1,8 +1,11 @@
 ---
+album: See
 artists:
 - The Rascals
+external_ids:
+  spotify: spotify:track:47rtbd1K2285AETpjioeyG
 features: []
-genres: []
+first_released_as_single: false
 key: hold-on-the-rascals
 lyrics_url: https://genius.com/The-young-rascals-hold-on-lyrics
 name: Hold On
@@ -35,6 +38,8 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1970-02-14'
+release_year: 1970
+runtime: 215280
 ---
 Hold on, I'll tell you in a minute
 I got a mind to go out and get it

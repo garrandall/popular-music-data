@@ -1,8 +1,11 @@
 ---
+album: 'Brilliant Colors: The Complete Warner Bros. Recordings'
 artists:
 - The Neon Philharmonic
+external_ids:
+  spotify: spotify:track:1EnkH8PmTfh9h0vDmORTVx
 features: []
-genres: []
+first_released_as_single: false
 key: morning-girl-the-neon-philharmonic
 lyrics_url: https://genius.com/The-neon-philharmonic-morning-girl-lyrics
 name: Morning Girl
@@ -55,6 +58,8 @@ rankings:
   rank: 30
   ranking_list: Billboard Hot 100
   start_date: '1969-06-21'
+release_year: 1969
+runtime: 134773
 ---
 Mornin' girl, how'd ya sleep last night?
 You're sev'ral ages older now

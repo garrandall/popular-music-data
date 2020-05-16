@@ -1,8 +1,11 @@
 ---
+album: Things & Other Things
 artists:
 - Bobby Darin
+external_ids:
+  spotify: spotify:track:16AaO3x5uTWBvrb3bqgQdZ
 features: []
-genres: []
+first_released_as_single: false
 key: i-ll-be-there-bobby-darin
 lyrics_url: https://genius.com/Bobby-darin-ill-be-there-lyrics
 name: I'll Be There
@@ -15,6 +18,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1960-07-18'
+release_year: 1960
+runtime: 130893
 ---
 I 'll be there
 When all your dreams are broken

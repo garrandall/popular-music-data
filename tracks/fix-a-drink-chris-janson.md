@@ -1,8 +1,11 @@
 ---
+album: EVERYBODY
 artists:
 - Chris Janson
+external_ids:
+  spotify: spotify:track:0s6OWiWGuiCcm1Muzch5A8
 features: []
-genres: []
+first_released_as_single: false
 key: fix-a-drink-chris-janson
 lyrics_url: https://www.azlyrics.com/lyrics/chrisjanson/fixadrink.html
 name: Fix A Drink
@@ -63,8 +66,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2017-12-16'
+release_year: 2017
+runtime: 188933
 ---
-
 Well it's hotter than hell outside right now
 It's 100 in the shade with the sun beating down
 Forecast calling for some more of the same
@@ -115,6 +119,3 @@ Put it to your lips, take a little sip
 Tell me what you think, yeah
 I can fix a drink
 Yeah, I can fix a drink
-
-
-

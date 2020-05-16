@@ -1,8 +1,11 @@
 ---
+album: 20 Greatest Hits
 artists:
 - Barbara Acklin
+external_ids:
+  spotify: spotify:track:51sulFzBlSrbU1G2IAbfgV
 features: []
-genres: []
+first_released_as_single: false
 key: love-makes-a-woman-barbara-acklin
 lyrics_url: https://genius.com/Barbara-acklin-love-makes-a-woman-lyrics
 name: Love Makes A Woman
@@ -55,6 +58,8 @@ rankings:
   rank: 37
   ranking_list: Billboard Hot 100
   start_date: '1968-09-28'
+release_year: 1968
+runtime: 176800
 ---
 In the fire
 It was burning

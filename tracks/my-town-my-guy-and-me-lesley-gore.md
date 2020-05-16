@@ -1,8 +1,11 @@
 ---
+album: My Town, My Guy & Me
 artists:
 - Lesley Gore
+external_ids:
+  spotify: spotify:track:2nx4ozf9UknZkRVLPHOP5J
 features: []
-genres: []
+first_released_as_single: false
 key: my-town-my-guy-and-me-lesley-gore
 lyrics_url: https://www.azlyrics.com/lyrics/lesleygore/mytownmyguyandme.html
 name: My Town My Guy And Me
@@ -39,8 +42,9 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '1965-10-30'
+release_year: 1965
+runtime: 144000
 ---
-
 Don't tell me about towns like New York, Frisco
 I'm not interested in all that small talk, go-go
 I'm more satisfied being here by my baby's side
@@ -70,6 +74,3 @@ My town, my guy and me
 Just give me my town, my guy and me
 My town, my guy and me
 So give me my town, my guy and me
-
-
-

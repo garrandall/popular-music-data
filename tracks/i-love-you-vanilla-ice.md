@@ -1,8 +1,11 @@
 ---
+album: To The Extreme
 artists:
 - Vanilla Ice
+external_ids:
+  spotify: spotify:track:1BRRxHOemfHiZ9UljcYrBs
 features: []
-genres: []
+first_released_as_single: false
 key: i-love-you-vanilla-ice
 lyrics_url: https://genius.com/Vanilla-ice-i-love-you-lyrics
 name: I Love You
@@ -35,6 +38,8 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1991-04-06'
+release_year: 1990
+runtime: 306200
 ---
 Girl, I keep thinkin' of how I feel
 When I'm in your arms, gives me a chill

@@ -1,8 +1,11 @@
 ---
+album: Thought Ya Knew
 artists:
 - CeCe Peniston
+external_ids:
+  spotify: spotify:track:5rFjHAGSOv7PdK4vYfl6eS
 features: []
-genres: []
+first_released_as_single: false
 key: hit-by-love-cece-peniston
 lyrics_url: https://www.musixmatch.com/lyrics/CeCe-Peniston/Hit-by-Love
 name: Hit By Love
@@ -19,6 +22,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1994-11-19'
+release_year: 1994
+runtime: 275666
 ---
 I've been hit, I've been hit by your love
 I've been hit, I've been hit by your love

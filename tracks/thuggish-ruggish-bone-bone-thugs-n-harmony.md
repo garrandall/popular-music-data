@@ -1,8 +1,11 @@
 ---
+album: Creepin on Ah Come Up
 artists:
 - Bone Thugs-N-Harmony
+external_ids:
+  spotify: spotify:track:7qHAjAL7CpadaZLamuBZRm
 features: []
-genres: []
+first_released_as_single: false
 key: thuggish-ruggish-bone-bone-thugs-n-harmony
 lyrics_url: https://genius.com/Bone-thugs-n-harmony-thuggish-ruggish-bone-lyrics
 name: Thuggish Ruggish Bone
@@ -87,6 +90,8 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '1995-01-28'
+release_year: 1994
+runtime: 281773
 ---
 We're not against rap, we're not against rappers
 But we are against those thugs (thugs, thugs, thugs)

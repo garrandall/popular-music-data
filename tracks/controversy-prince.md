@@ -1,8 +1,11 @@
 ---
+album: Controversy
 artists:
 - Prince
+external_ids:
+  spotify: spotify:track:5shPZ6RnC6sCm0iSZiv7wU
 features: []
-genres: []
+first_released_as_single: false
 key: controversy-prince
 lyrics_url: https://genius.com/Prince-controversy-lyrics
 name: Controversy
@@ -51,6 +54,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1982-01-02'
+release_year: 1981
+runtime: 435333
 ---
 I just can't believe all the things people say (controversy)
 Am I black or white? Am I straight or gay? (controversy)

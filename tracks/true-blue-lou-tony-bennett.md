@@ -1,8 +1,11 @@
 ---
+album: This Is All I Ask
 artists:
 - Tony Bennett
+external_ids:
+  spotify: spotify:track:3M04PLUN7teU7cyYqOu18Z
 features: []
-genres: []
+first_released_as_single: false
 key: true-blue-lou-tony-bennett
 lyrics_url: https://www.azlyrics.com/lyrics/tonybennett/truebluelou.html
 name: True Blue Lou
@@ -15,8 +18,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1963-08-03'
+release_year: 1963
+runtime: 161466
 ---
-
 Down in the poolroom
 Some of the gang were
 Talking of gals they knew
@@ -59,6 +63,3 @@ For that kind of love
 Angels won't blame her
 They too will name her
 True Blue Lou
-
-
-

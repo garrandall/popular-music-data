@@ -1,8 +1,11 @@
 ---
+album: The Hit Sound of Dean Martin
 artists:
 - Dean Martin
+external_ids:
+  spotify: spotify:track:29JTm8vgm4tYFvOr1OPcTw
 features: []
-genres: []
+first_released_as_single: false
 key: come-running-back-dean-martin
 lyrics_url: https://www.azlyrics.com/lyrics/deanmartin/comerunningback.html
 name: Come Running Back
@@ -35,8 +38,9 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '1966-06-18'
+release_year: 1966
+runtime: 127813
 ---
-
 (Come running back)
 If you find your new love isn't what you thought it would be
 If your nights are lonely now and you need more sympathy
@@ -60,6 +64,3 @@ Come running back
 Come running back
 (Come running back)
 Come running back
-
-
-

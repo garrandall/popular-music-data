@@ -1,8 +1,11 @@
 ---
+album: Bobby Vee
 artists:
 - Bobby Vee
+external_ids:
+  spotify: spotify:track:35gkASz2Cb1VryMGIuEPjX
 features: []
-genres: []
+first_released_as_single: false
 key: rubber-ball-bobby-vee
 lyrics_url: https://www.azlyrics.com/lyrics/bobbyvee/rubberball.html
 name: Rubber Ball
@@ -63,8 +66,9 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1961-02-27'
+release_year: 1960
+runtime: 144106
 ---
-
 Rubber ball, I come bouncin' back to you
 Rubber ball, I come bouncin' back to you
 Hoo-ah-ohooh
@@ -111,6 +115,3 @@ Rubber ball, I come bouncin' back to you
 Rubber ball, I'll come bouncin' back to you
 Rubber ball, I'll come bouncin' back to you
 Rubber ball, I'll come bouncin' back to you
-
-
-

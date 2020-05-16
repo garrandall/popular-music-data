@@ -1,8 +1,11 @@
 ---
+album: Born Late
 artists:
 - Shaun Cassidy
+external_ids:
+  spotify: spotify:track:5LJ93CrqstdBdVmC0xhZbu
 features: []
-genres: []
+first_released_as_single: false
 key: do-you-believe-in-magic-shaun-cassidy
 lyrics_url: https://genius.com/Shaun-cassidy-do-you-believe-in-magic-lyrics
 name: Do You Believe In Magic
@@ -47,6 +50,8 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1978-05-27'
+release_year: 1977
+runtime: 138760
 ---
 Do you believe in magic in a young girl's heart
 How the music can free her whenever it starts

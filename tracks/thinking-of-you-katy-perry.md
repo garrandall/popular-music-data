@@ -1,8 +1,11 @@
 ---
+album: One Of The Boys
 artists:
 - Katy Perry
+external_ids:
+  spotify: spotify:track:3c9LVPh3MpeFoaAL5DBDK5
 features: []
-genres: []
+first_released_as_single: false
 key: thinking-of-you-katy-perry
 lyrics_url: https://genius.com/Katy-perry-thinking-of-you-lyrics
 name: Thinking Of You
@@ -67,6 +70,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2009-05-09'
+release_year: 2008
+runtime: 246410
 ---
 Comparisons are easily done
 Once you've had a taste of perfection

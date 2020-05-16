@@ -1,9 +1,12 @@
 ---
+album: Full Speed
 artists:
 - Kid Ink
+external_ids:
+  spotify: spotify:track:17TgCqxMxQYmjmYSy6NSDW
 features:
 - DeJ Loaf
-genres: []
+first_released_as_single: true
 key: be-real-kid-ink-dej-loaf
 lyrics_url: https://www.azlyrics.com/lyrics/kidink/bereal.html
 name: Be Real
@@ -88,9 +91,9 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '2015-09-12'
+release_year: 2015
+runtime: 210128
 ---
-
-
 You ain't got no will, you ain't got no bottle
 Let's just be honest, let's just be real
 You ain't got no cash, you ain't got no dollars
@@ -157,6 +160,3 @@ Let's just be honest, let's just be real
 Yeah let's just be honest, let's just be real
 Let's just be honest, we all know the deal
 So let's just be honest, let's just be real
-
-
-

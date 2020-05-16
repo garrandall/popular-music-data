@@ -1,8 +1,11 @@
 ---
+album: Wish You Were Here
 artists:
 - Mark Wills
+external_ids:
+  spotify: spotify:track:2nWKk3ACZN7exdamcHvGMU
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-laugh-at-me-mark-wills
 lyrics_url: https://genius.com/Mark-wills-dont-laugh-at-me-lyrics
 name: Don't Laugh At Me
@@ -27,6 +30,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1999-01-02'
+release_year: 1998
+runtime: 217800
 ---
 I'm a little boy with glasses
 The one they call the geek

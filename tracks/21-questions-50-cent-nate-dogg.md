@@ -1,9 +1,12 @@
 ---
+album: Get Rich Or Die Tryin'
 artists:
 - 50 Cent
+external_ids:
+  spotify: spotify:track:41bIQPBE1lFN0mmw6Lmssz
 features:
 - Nate Dogg
-genres: []
+first_released_as_single: false
 key: 21-questions-50-cent-nate-dogg
 lyrics_url: https://genius.com/Rap-critic-rap-critic-reviews-21-questions-by-50-cent-feat-nate-dogg-lyrics
 name: 21 Questions
@@ -100,6 +103,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2003-08-23'
+release_year: 2003
+runtime: 224426
 ---
 Hi, I'm the Rap Critic. Let's talk about Ja Rule. Now, as previously stated in another episode, Ja Rule was the biggest rapper out for a while in the early 2000's. Platinum records, features, number one singles, babes, bucks, Ja Rule had it all. But, as time went on, people noticed a pattern with him, which was the constant usage of the "thugs need love too" formula to make hit songs, and for a long time, he was on top with it. Hit song after hit song, his "pop gangster" persona was blowing up, but then, there came a man who saw fit to call out this "pop rapper" for what he felt that he was: "a studio thug" who purely used his hardcore image to appeal to a female audience. That man was Mr. Curtis Jackson, a.k.a. 50 Cent. He'd call out Ja for not being a heartless thug, and instead being a punk, a softie! *footage of 50 calling out Ja* Sure, there's some origin about 50's friend stealing his chain and Ja Rule seeing that dude and 50 hanging out, but the main thing that people heard about was 50 calling him out for being a fake gangster, and sure enough, when 50 cent came into prominence, he would stamp out all of Ja Rule's club songs and love song, and replace them with… *"In Da Club" and "21 Questions"*… with club songs and love songs… Well, to 50's credit though, he did explain himself when releasing "21 Questions", the love song I wanted to look at today
 

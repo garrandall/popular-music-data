@@ -1,8 +1,11 @@
 ---
+album: Most Wanted
 artists:
 - Hilary Duff
+external_ids:
+  spotify: spotify:track:7qhUtJDCu1tYrdkIMPVYRc
 features: []
-genres: []
+first_released_as_single: false
 key: wake-up-hilary-duff
 lyrics_url: https://www.azlyrics.com/lyrics/hilaryduff/wakeup.html
 name: Wake Up
@@ -31,8 +34,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2005-10-08'
+release_year: 2005
+runtime: 217666
 ---
-
 There's people talking
 They talk about me
 They know my name
@@ -122,6 +126,3 @@ I go
 Tonight
 Tonight
 Yeah, tonight
-
-
-

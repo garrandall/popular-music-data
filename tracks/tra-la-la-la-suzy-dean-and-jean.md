@@ -1,8 +1,11 @@
 ---
+album: The Best Of Laurie Records
 artists:
 - Dean And Jean
+external_ids:
+  spotify: spotify:track:1tSk1iVz7FI9BVAY7XRc0T
 features: []
-genres: []
+first_released_as_single: false
 key: tra-la-la-la-suzy-dean-and-jean
 lyrics_url: https://www.musixmatch.com/lyrics/Dean-And-Jean/Tra-La-La-La-Suzy
 name: Tra La La La Suzy
@@ -59,6 +62,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1964-01-25'
+release_year: 1963
+runtime: 170493
 ---
 Tra la la la Suzy
 Tra la la la Suzy

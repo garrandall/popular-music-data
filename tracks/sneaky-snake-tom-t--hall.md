@@ -1,8 +1,11 @@
 ---
+album: In Concert/Saturday Morning Songs
 artists:
 - Tom T. Hall
+external_ids:
+  spotify: spotify:track:7CeaaQXrzkSWSIq9oVac3f
 features: []
-genres: []
+first_released_as_single: false
 key: sneaky-snake-tom-t--hall
 lyrics_url: https://www.azlyrics.com/lyrics/tomthall/sneakysnake.html
 name: Sneaky Snake
@@ -31,8 +34,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1975-04-19'
+release_year: 1975
+runtime: 121560
 ---
-
 Boys and girls take warning, if you go near the lake
 Keep your eyes wide open, and look for sneaky snake
 Now maybe you won't see him, and maybe you won't hear
@@ -52,6 +56,3 @@ And then sneaky snake goes dancing, wigglin' and a-hissin'
 Sneaky snake goes dancin', a-gigglin' and a-kissin'
 I don't like old sneaky snake; he laughs too much you see
 When he goes wigglin' through the grass, it tickles his underneath
-
-
-

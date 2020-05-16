@@ -1,8 +1,11 @@
 ---
+album: KIRK
 artists:
 - DaBaby
+external_ids:
+  spotify: spotify:track:6Ozh9Ok6h4Oi1wUSLtBseN
 features: []
-genres: []
+first_released_as_single: false
 key: bop-dababy
 lyrics_url: https://www.azlyrics.com/lyrics/dababy/bop.html
 name: BOP
@@ -103,8 +106,9 @@ rankings:
   rank: 35
   ranking_list: Billboard Hot 100
   start_date: '2020-03-21'
+release_year: 2019
+runtime: 159714
 ---
-
 You know everybody been waiting on that Baby, man
 I mean, it like ever since Baby on Baby dropped, man, like
 (Ever since Baby on Baby dropped) You know
@@ -191,6 +195,3 @@ Oh, you asking for pictures with niggas?
 What's yo name? Get the fuck out the spot, nigga (Get the fuck)
 Tryna figure which deal I'ma take
 I woke up, couple mill on my plate
-
-
-

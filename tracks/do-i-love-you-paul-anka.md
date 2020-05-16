@@ -1,8 +1,11 @@
 ---
+album: A Body Of Work
 artists:
 - Paul Anka
+external_ids:
+  spotify: spotify:track:3QDGvb6mcj5fQttMVHjOwW
 features: []
-genres: []
+first_released_as_single: false
 key: do-i-love-you-paul-anka
 lyrics_url: https://genius.com/Paul-anka-do-i-love-you-lyrics
 name: Do I Love You
@@ -51,6 +54,8 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '1971-12-11'
+release_year: 1971
+runtime: 282266
 ---
 Beyond the shadow of a doubt
 As the mighty river flows

@@ -1,8 +1,11 @@
 ---
+album: The Best of The Kingsmen
 artists:
 - The Kingsmen
+external_ids:
+  spotify: spotify:track:7g599RRZDUJ4J6kCAh7JbS
 features: []
-genres: []
+first_released_as_single: false
 key: the-climb-the-kingsmen
 lyrics_url: https://genius.com/The-kingsmen-the-climb-lyrics
 name: The Climb
@@ -31,6 +34,8 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1965-06-12'
+release_year: 1965
+runtime: 152764
 ---
 I say come on everybody (come on everybody)
 And do the climb (do the climb)

@@ -1,8 +1,11 @@
 ---
+album: The College Dropout
 artists:
 - Kanye West
+external_ids:
+  spotify: spotify:track:2X2llNEsjqYeUXRHMOoZqk
 features: []
-genres: []
+first_released_as_single: true
 key: jesus-walks-kanye-west
 lyrics_url: https://genius.com/Kanye-west-jesus-walks-lyrics
 name: Jesus Walks
@@ -107,6 +110,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2004-10-23'
+release_year: 2004
+runtime: 210920
 ---
 We at war
 We at war with terrorism, racism

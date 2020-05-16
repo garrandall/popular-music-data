@@ -1,8 +1,11 @@
 ---
+album: Ladies Edition
 artists:
 - H-Town
+external_ids:
+  spotify: spotify:track:5Gist2Rze60BtUweK9CHKb
 features: []
-genres: []
+first_released_as_single: false
 key: they-like-it-slow-h-town
 lyrics_url: https://genius.com/H-town-they-like-it-slow-lyrics
 name: They Like It Slow
@@ -87,6 +90,8 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1998-02-21'
+release_year: 1997
+runtime: 279457
 ---
 (Shazam/G.I.)
 

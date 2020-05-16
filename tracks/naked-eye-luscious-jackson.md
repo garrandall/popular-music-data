@@ -1,8 +1,11 @@
 ---
+album: Fever In Fever Out
 artists:
 - Luscious Jackson
+external_ids:
+  spotify: spotify:track:6YtkOhiHmf46w1noltVnF2
 features: []
-genres: []
+first_released_as_single: false
 key: naked-eye-luscious-jackson
 lyrics_url: https://www.azlyrics.com/lyrics/lusciousjackson/nakedeye.html
 name: Naked Eye
@@ -111,8 +114,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1997-06-14'
+release_year: 1996
+runtime: 280693
 ---
-
 wearing nothing is divine
 naked is a state of mind
 i take things off to clear my head
@@ -167,6 +171,3 @@ and it feels alright
 
 
 it feels alright
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Tear Down These Walls
 artists:
 - Billy Ocean
+external_ids:
+  spotify: spotify:track:3v8vsQfMQio7ohYqFrEsaZ
 features: []
-genres: []
+first_released_as_single: false
 key: get-outta-my-dreams-get-into-my-car-billy-ocean
 lyrics_url: https://genius.com/Billy-ocean-get-outta-my-dreams-get-into-my-car-lyrics
 name: Get Outta My Dreams Get Into My Car
@@ -87,6 +90,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1988-06-25'
+release_year: 1988
+runtime: 333506
 ---
 Hey you, get in to my car! Who me?
 Yes you, get in to my car

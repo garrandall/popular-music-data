@@ -1,8 +1,11 @@
 ---
+album: Doo Wop Classics, Vol. 3
 artists:
 - The Volume's
+external_ids:
+  spotify: spotify:track:0XQ54f01pVDwOy9fjtex4g
 features: []
-genres: []
+first_released_as_single: false
 key: i-love-you-the-volume-s
 lyrics_url: https://genius.com/The-volumes-doo-wop-i-love-you-baby-lyrics
 name: I Love You
@@ -55,6 +58,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1962-07-14'
+release_year: 1962
+runtime: 158493
 ---
 Your lips taste like wine to this heart of mine
 Just being with you is like a dream come true

@@ -1,8 +1,11 @@
 ---
+album: I Hate the Music
 artists:
 - John Paul Young
+external_ids:
+  spotify: spotify:track:0XznYBYRTOoDp7UhVut6BP
 features: []
-genres: []
+first_released_as_single: false
 key: yesterday-s-hero-john-paul-young
 lyrics_url: https://www.azlyrics.com/lyrics/johnpaulyoung/yesterdayshero.html
 name: Yesterday's Hero
@@ -43,8 +46,9 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '1976-02-07'
+release_year: 1975
+runtime: 226560
 ---
-
 When I walk down the streets
 See the people who stop and stare and say
 Haven't I seen that face somewhere a long time ago
@@ -88,6 +92,3 @@ All that I'll be if I don't get together now
 
 Yesterday's hero, yesterday's hero
 Yesterday's hero, yesterday's hero
-
-
-

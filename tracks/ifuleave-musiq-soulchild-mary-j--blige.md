@@ -1,9 +1,12 @@
 ---
+album: onmyradio
 artists:
 - Musiq Soulchild
+external_ids:
+  spotify: spotify:track:4YJAr4P9BHEESf5o7L1VH5
 features:
 - Mary J. Blige
-genres: []
+first_released_as_single: true
 key: ifuleave-musiq-soulchild-mary-j--blige
 lyrics_url: https://www.azlyrics.com/lyrics/musiqsoulchild/ifuleave.html
 name: IfULeave
@@ -56,9 +59,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2009-02-28'
+release_year: 2008
+runtime: 216586
 ---
-
-
 You think I'm so full of it, full of it
 But I think I'm just fed up baby
 You think I can be so arrogant, arrogant
@@ -143,6 +146,3 @@ But I have no doubts
 I just wanna love you and hold you
 We can work it out
 It's OK
-
-
-

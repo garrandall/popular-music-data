@@ -1,9 +1,12 @@
 ---
+album: 'Keep On the Sunny Side - June Carter Cash: Her Life In Music'
 artists:
 - Johnny Cash
 - June Carter
+external_ids:
+  spotify: spotify:track:6WJ9cUB9mgx7CAzIghmPLP
 features: []
-genres: []
+first_released_as_single: false
 key: if-i-were-a-carpenter-johnny-cash-june-carter
 lyrics_url: https://genius.com/Johnny-cash-if-i-were-a-carpenter-lyrics
 name: If I Were A Carpenter
@@ -40,6 +43,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1970-03-14'
+release_year: 1952
+runtime: 180226
 ---
 If I were a carpenter
 And you were a lady

@@ -1,8 +1,11 @@
 ---
+album: Live At Talk Of The Town
 artists:
 - Stevie Wonder
+external_ids:
+  spotify: spotify:track:6w3yIb2Ly5jYlalZtFJh71
 features: []
-genres: []
+first_released_as_single: false
 key: never-had-a-dream-come-true-stevie-wonder
 lyrics_url: https://genius.com/Stevie-wonder-never-had-a-dream-come-true-lyrics
 name: Never Had A Dream Come True
@@ -35,6 +38,8 @@ rankings:
   rank: 37
   ranking_list: Billboard Hot 100
   start_date: '1970-03-21'
+release_year: 1970
+runtime: 220720
 ---
 Do do do do do
 Do do do do do

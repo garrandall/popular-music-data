@@ -1,8 +1,11 @@
 ---
+album: Dickie Goodman Greatest Hits
 artists:
 - Dickie Goodman
+external_ids:
+  spotify: spotify:track:6ZIa0GiiauwnNc6f4bO17c
 features: []
-genres: []
+first_released_as_single: false
 key: kong-dickie-goodman
 lyrics_url: https://www.musixmatch.com/lyrics/Dickie-Goodman/Kong
 name: Kong
@@ -31,6 +34,8 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '1977-03-12'
+release_year: 1977
+runtime: 145533
 ---
 We're here on Skull Island, where a forty foot gorilla has just kidnapped Dwan, a young actress.
 Hey Kong, what did you tell her?

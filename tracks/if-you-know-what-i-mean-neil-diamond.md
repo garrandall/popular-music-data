@@ -1,8 +1,11 @@
 ---
+album: Beautiful Noise
 artists:
 - Neil Diamond
+external_ids:
+  spotify: spotify:track:5OARsfcCBM8XTBtUaeVtfm
 features: []
-genres: []
+first_released_as_single: false
 key: if-you-know-what-i-mean-neil-diamond
 lyrics_url: https://www.azlyrics.com/lyrics/neildiamond/ifyouknowwhatimean.html
 name: If You Know What I Mean
@@ -55,8 +58,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1976-09-04'
+release_year: 1976
+runtime: 223160
 ---
-
 When the night returns just like a friend
 When the evening comes to set me free
 When the quiet hours
@@ -102,6 +106,3 @@ If you know what I mean
 
 If you know what I mean, babe
 If you know what I mean
-
-
-

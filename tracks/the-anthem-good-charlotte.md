@@ -1,8 +1,11 @@
 ---
+album: The Young and The Hopeless
 artists:
 - Good Charlotte
+external_ids:
+  spotify: spotify:track:0BRHnOFm6sjxN1i9LJrUDu
 features: []
-genres: []
+first_released_as_single: false
 key: the-anthem-good-charlotte
 lyrics_url: https://www.azlyrics.com/lyrics/goodcharlotte/theanthem.html
 name: The Anthem
@@ -51,8 +54,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2003-06-07'
+release_year: 2002
+runtime: 175093
 ---
-
 It's a new day, but it all feels old
 It's a good life, that's what I'm told
 But everything, it all just feels the same
@@ -108,6 +112,3 @@ Another loser anthem (whoa)
 Another loser anthem (whoa)
 Another loser anthem (whoa)
 Another loser anthem
-
-
-

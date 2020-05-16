@@ -1,8 +1,11 @@
 ---
+album: Don't Be Afraid Of The Dark
 artists:
 - The Robert Cray Band
+external_ids:
+  spotify: spotify:track:0aF6dyaQOHXteyX91EoiJz
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-be-afraid-of-the-dark-the-robert-cray-band
 lyrics_url: https://genius.com/The-robert-cray-band-dont-be-afraid-of-the-dark-lyrics
 name: Don't Be Afraid Of The Dark
@@ -31,6 +34,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1988-10-29'
+release_year: 1988
+runtime: 226506
 ---
 Dead of the night baby
 We're finally alone

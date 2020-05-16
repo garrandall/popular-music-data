@@ -1,8 +1,11 @@
 ---
+album: Based Boys
 artists:
 - The Pack
+external_ids:
+  spotify: spotify:track:5pdUVaAfEOGSdc4GAuQgEp
 features: []
-genres: []
+first_released_as_single: true
 key: vans-the-pack
 lyrics_url: https://genius.com/The-pack-vans-lyrics
 name: Vans
@@ -19,6 +22,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2006-09-30'
+release_year: 2006
+runtime: 255466
 ---
 Young L
 Got my Vans on, but they look like sneakers

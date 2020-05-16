@@ -1,11 +1,14 @@
 ---
+album: Looks Like A Job For...
 artists:
 - Big Daddy Kane
+external_ids:
+  spotify: spotify:track:2xjg1z0HGKmOT400mju8En
 features:
 - Spinderella
 - L. Williams
 - K. Anderson
-genres: []
+first_released_as_single: false
 key: very-special-big-daddy-kane-spinderella-l--williams-k--anderson
 name: Very Special
 rankings:
@@ -89,5 +92,7 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '1993-11-20'
+release_year: 1993
+runtime: 305013
 ---
 

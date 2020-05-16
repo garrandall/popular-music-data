@@ -1,8 +1,11 @@
 ---
+album: Frontiers
 artists:
 - Journey
+external_ids:
+  spotify: spotify:track:5ZjtGtvWPGl7C6xlf5KGwd
 features: []
-genres: []
+first_released_as_single: false
 key: send-her-my-love-journey
 lyrics_url: https://genius.com/Journey-send-her-my-love-lyrics
 name: Send Her My Love
@@ -67,6 +70,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1983-12-31'
+release_year: 1975
+runtime: 234173
 ---
 It's been so long
 Since I've seen her face

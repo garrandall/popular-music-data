@@ -1,10 +1,13 @@
 ---
+album: 'Day69: Graduation Day'
 artists:
 - 6ix9ine
 - Fetty Wap
 - A Boogie Wit da Hoodie
+external_ids:
+  spotify: spotify:track:0zl3PdjIl320fK0pxBGWNR
 features: []
-genres: []
+first_released_as_single: true
 key: keke-6ix9ine-fetty-wap-a-boogie-wit-da-hoodie
 lyrics_url: https://www.azlyrics.com/lyrics/6ix9ine/keke.html
 name: KEKE
@@ -41,9 +44,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2018-03-17'
+release_year: 2018
+runtime: 151914
 ---
-
-
 Scum Gang!
 
 I'll be on the block on the regular
@@ -101,6 +104,3 @@ Put the thirty to your motherfuckin' brain nigga, ah
 I'm runnin' around with the same niggas
 Same niggas that'll take a nigga chain, nigga
 Huh?
-
-
-

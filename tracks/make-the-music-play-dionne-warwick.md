@@ -1,8 +1,11 @@
 ---
+album: Presenting Dionne Warwick
 artists:
 - Dionne Warwick
+external_ids:
+  spotify: spotify:track:0elZdXAqbBu3fJGUbzvxqa
 features: []
-genres: []
+first_released_as_single: false
 key: make-the-music-play-dionne-warwick
 lyrics_url: https://genius.com/Dionne-warwick-make-the-music-play-lyrics
 name: Make The Music Play
@@ -23,6 +26,8 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1963-08-31'
+release_year: 1963
+runtime: 143320
 ---
 Make the music play
 Just a little slower

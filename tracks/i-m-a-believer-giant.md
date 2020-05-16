@@ -1,8 +1,11 @@
 ---
+album: Last Of The Runaways
 artists:
 - Giant
+external_ids:
+  spotify: spotify:track:4NiLA925TInZScMbchk8Pg
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-a-believer-giant
 lyrics_url: https://genius.com/Giant-im-a-believer-lyrics
 name: I'm A Believer
@@ -47,6 +50,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1989-12-02'
+release_year: 1989
+runtime: 344853
 ---
 Oh, go
 

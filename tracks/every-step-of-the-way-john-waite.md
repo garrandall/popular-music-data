@@ -1,8 +1,11 @@
 ---
+album: Mask Of Smiles
 artists:
 - John Waite
+external_ids:
+  spotify: spotify:track:5Xkp3zS9cRkNmdWS8pgRo0
 features: []
-genres: []
+first_released_as_single: false
 key: every-step-of-the-way-john-waite
 lyrics_url: https://www.azlyrics.com/lyrics/johnwaite/everystepoftheway.html
 name: Every Step Of The Way
@@ -55,8 +58,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1985-10-26'
+release_year: 1985
+runtime: 252013
 ---
-
 I spend my time
 Thinkin' 'bout you constantly
 It's true that I want you
@@ -119,6 +123,3 @@ I will stay close to you
 Every step of the way
 Every single day
 Every step of the way
-
-
-

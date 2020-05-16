@@ -1,8 +1,11 @@
 ---
+album: Simon Sings
 artists:
 - Joe Simon
+external_ids:
+  spotify: spotify:track:271rEUoF3LoGBHRlkn1ICC
 features: []
-genres: []
+first_released_as_single: false
 key: message-from-maria-joe-simon
 name: Message From Maria
 rankings:
@@ -22,5 +25,7 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1968-10-19'
+release_year: 1968
+runtime: 201440
 ---
 

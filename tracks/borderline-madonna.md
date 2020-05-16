@@ -1,8 +1,11 @@
 ---
+album: Madonna (Reissue)
 artists:
 - Madonna
+external_ids:
+  spotify: spotify:track:4SuabhTNPBTBFjfOjhvRNQ
 features: []
-genres: []
+first_released_as_single: false
 key: borderline-madonna
 lyrics_url: https://www.azlyrics.com/lyrics/madonna/borderline.html
 name: Borderline
@@ -127,8 +130,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1984-09-29'
+release_year: 1983
+runtime: 417040
 ---
-
 Something in the way you love me won't let me be
 I don't want to be your prisoner so baby won't you set me free
 Stop playing with my heart
@@ -173,6 +177,3 @@ You just keep on pushing my love over the borderline
 You cause me so much pain, I think I'm going insane
 What does it take to make you see?
 You just keep on pushing my love over the borderline
-
-
-

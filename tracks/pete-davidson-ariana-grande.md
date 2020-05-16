@@ -1,8 +1,11 @@
 ---
+album: Sweetener
 artists:
 - Ariana Grande
+external_ids:
+  spotify: spotify:track:0XOnMqLQDO89iAg7dWWwnG
 features: []
-genres: []
+first_released_as_single: false
 key: pete-davidson-ariana-grande
 lyrics_url: https://www.azlyrics.com/lyrics/arianagrande/petedavidson.html
 name: Pete Davidson
@@ -11,8 +14,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2018-09-01'
+release_year: 2018
+runtime: 73813
 ---
-
 Mmm, yeah, yuh
 I thought you into my life, whoa
 Look at my mind, yeah
@@ -36,6 +40,3 @@ I'ma be happy, happy, yeah
 Gonna be happy, happy
 I'ma be happy, happy
 I'ma be happy, happy
-
-
-

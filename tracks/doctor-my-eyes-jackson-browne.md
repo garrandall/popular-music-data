@@ -1,8 +1,11 @@
 ---
+album: Jackson Browne (Saturate Before Using)
 artists:
 - Jackson Browne
+external_ids:
+  spotify: spotify:track:3QcuZo6WLcFkqqLmDs0d95
 features: []
-genres: []
+first_released_as_single: false
 key: doctor-my-eyes-jackson-browne
 lyrics_url: https://genius.com/Jackson-browne-doctor-my-eyes-lyrics
 name: Doctor My Eyes
@@ -55,6 +58,8 @@ rankings:
   rank: 36
   ranking_list: Billboard Hot 100
   start_date: '1972-06-03'
+release_year: 1972
+runtime: 199906
 ---
 Doctor, my eyes have seen the years
 And the slow parade of fears without crying

@@ -1,8 +1,11 @@
 ---
+album: Eye Of The Tiger
 artists:
 - Survivor
+external_ids:
+  spotify: spotify:track:67Xft0VujlGS6i1l92bCem
 features: []
-genres: []
+first_released_as_single: false
 key: american-heartbeat-survivor
 lyrics_url: https://www.azlyrics.com/lyrics/survivor/americanheartbeat.html
 name: American Heartbeat
@@ -71,8 +74,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1983-01-08'
+release_year: 1982
+runtime: 249400
 ---
-
 The night's alive with wind and fire
 
 We telegraph our heart's desire through the night with our eyes.
@@ -110,6 +114,3 @@ the American heartbeat
 It's the American heartbeat
 it's the American heartbeat
 . . .
-
-
-

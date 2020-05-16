@@ -1,8 +1,11 @@
 ---
+album: It Is Time For A Love Revolution
 artists:
 - Lenny Kravitz
+external_ids:
+  spotify: spotify:track:2hvmEjrsotbK9vetMbzW1u
 features: []
-genres: []
+first_released_as_single: true
 key: i-ll-be-waiting-lenny-kravitz
 lyrics_url: https://genius.com/Lenny-kravitz-ill-be-waiting-lyrics
 name: I'll Be Waiting
@@ -15,6 +18,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2008-03-01'
+release_year: 2007
+runtime: 259186
 ---
 He broke your heart
 He took your soul

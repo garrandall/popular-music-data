@@ -1,8 +1,11 @@
 ---
+album: Your Man
 artists:
 - Josh Turner
+external_ids:
+  spotify: spotify:track:1KhrAWvLIjRlQIJtSTgvsi
 features: []
-genres: []
+first_released_as_single: false
 key: would-you-go-with-me-josh-turner
 lyrics_url: https://www.azlyrics.com/lyrics/joshturner/wouldyougowithme.html
 name: Would You Go With Me
@@ -87,8 +90,9 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2006-11-25'
+release_year: 2006
+runtime: 228186
 ---
-
 Would you go with me if we rolled down streets of fire
 Would you hold on to me tighter as the summer sun got higher
 If we roll from town to town and never shut it down
@@ -118,6 +122,3 @@ Would you accompany me to the edge of the sea
 Help me tie up the ends of a dream
 I gotta know, would you go with me
 I love you so, so would you go with me
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Bobby Rydell Salutes The Great Ones/Rydell At The Copa
 artists:
 - Bobby Rydell
+external_ids:
+  spotify: spotify:track:7K5CKprjeXQTbe1tw4eAOh
 features: []
-genres: []
+first_released_as_single: false
 key: that-old-black-magic-bobby-rydell
 lyrics_url: https://genius.com/Bobby-rydell-that-old-black-magic-lyrics
 name: That Old Black Magic
@@ -39,6 +42,8 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1961-06-19'
+release_year: 1961
+runtime: 144706
 ---
 That old black magic
 Has me in it's spell

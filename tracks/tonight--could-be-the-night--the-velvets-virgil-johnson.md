@@ -1,9 +1,12 @@
 ---
+album: Doo Wop 51 Live! Original Soundtrack
 artists:
 - The Velvets
+external_ids:
+  spotify: spotify:track:7oZA1hYBUKtKZ0cVpsQ0xK
 features:
 - Virgil Johnson
-genres: []
+first_released_as_single: false
 key: tonight--could-be-the-night--the-velvets-virgil-johnson
 name: Tonight (Could Be The Night)
 rankings:
@@ -43,5 +46,7 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '1961-07-24'
+release_year: 1961
+runtime: 121000
 ---
 

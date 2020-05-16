@@ -1,8 +1,11 @@
 ---
+album: Phase III
 artists:
 - The Osmonds
+external_ids:
+  spotify: spotify:track:1FWHRqOV17plc9w1SSVPo4
 features: []
-genres: []
+first_released_as_single: false
 key: yo-yo-the-osmonds
 lyrics_url: https://genius.com/The-osmonds-yo-yo-lyrics
 name: Yo-Yo
@@ -59,6 +62,8 @@ rankings:
   rank: 26
   ranking_list: Billboard Hot 100
   start_date: '1971-12-04'
+release_year: 1971
+runtime: 195786
 ---
 Woah, oh, ho, just like a yo-yo
 Woah, oh, ho, just like a yo-yo

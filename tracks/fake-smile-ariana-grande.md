@@ -1,8 +1,11 @@
 ---
+album: thank u, next
 artists:
 - Ariana Grande
+external_ids:
+  spotify: spotify:track:2XaEbkNGsthliktfSsXYsH
 features: []
-genres: []
+first_released_as_single: false
 key: fake-smile-ariana-grande
 lyrics_url: https://genius.com/Ariana-grande-fake-smile-lyrics
 name: Fake Smile
@@ -15,6 +18,8 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '2019-03-02'
+release_year: 2018
+runtime: 208880
 ---
 After laughter comes tears
 After laughter comes tears

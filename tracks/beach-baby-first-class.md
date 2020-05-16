@@ -1,8 +1,11 @@
 ---
+album: 'Beach Baby: The Greatest Hits'
 artists:
 - First Class
+external_ids:
+  spotify: spotify:track:4fsw79o9lXmxKAucd56Cbm
 features: []
-genres: []
+first_released_as_single: false
 key: beach-baby-first-class
 lyrics_url: https://genius.com/The-first-class-beach-baby-lyrics
 name: Beach Baby
@@ -75,6 +78,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1974-11-09'
+release_year: 1974
+runtime: 314523
 ---
 Do you remember back in old L.A. (oh oh oh)
 When everybody drove a Chevrolet (oh oh oh)

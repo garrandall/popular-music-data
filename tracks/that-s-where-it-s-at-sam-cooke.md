@@ -1,8 +1,11 @@
 ---
+album: '30 Greatest Hits: Portrait of a Legend 1951-1964'
 artists:
 - Sam Cooke
+external_ids:
+  spotify: spotify:track:2jqkVBMchQP8jiuEJQqQt4
 features: []
-genres: []
+first_released_as_single: false
 key: that-s-where-it-s-at-sam-cooke
 lyrics_url: https://www.azlyrics.com/lyrics/samcooke/thatswhereitsat.html
 name: That's Where It's At
@@ -19,8 +22,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1964-11-14'
+release_year: 1960
+runtime: 157493
 ---
-
 Lights turned way down low
 & music soft & slow
 With someone you love so
@@ -53,6 +57,3 @@ That's where it's at, pretty baby
 That's where it's at, I know that's where it's at
 That's where it's at, pretty baby
 That's where it's at
-
-
-

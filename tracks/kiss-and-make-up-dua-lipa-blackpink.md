@@ -1,9 +1,12 @@
 ---
+album: Dua Lipa
 artists:
 - Dua Lipa
 - BLACKPINK
+external_ids:
+  spotify: spotify:track:7jr3iPu4O4bTCVwLMbdU2i
 features: []
-genres: []
+first_released_as_single: false
 key: kiss-and-make-up-dua-lipa-blackpink
 lyrics_url: https://www.azlyrics.com/lyrics/dualipa/kissandmakeup.html
 name: Kiss And Make Up
@@ -12,9 +15,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2018-11-03'
+release_year: 2018
+runtime: 189173
 ---
-
-
 We haven't talked all morning
 Bang my head, bang my head against the wall
 I'm scared, I'm falling
@@ -102,6 +105,3 @@ Ki-kiss and make up
 Kiss and make, ki-kiss and make up
 Ki-kiss and make up
 Kiss and make, ki-kiss and make up
-
-
-

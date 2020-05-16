@@ -1,9 +1,12 @@
 ---
+album: The Best of Maurice Williams and the Zodiacs
 artists:
 - Maurice Williams
 - The Zodiacs
+external_ids:
+  spotify: spotify:track:5R2DZitRTDYtrkCoJiddct
 features: []
-genres: []
+first_released_as_single: false
 key: stay-maurice-williams-the-zodiacs
 lyrics_url: https://genius.com/Maurice-williams-and-the-zodiacs-stay-lyrics
 name: Stay
@@ -80,6 +83,8 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '1961-01-30'
+release_year: 1960
+runtime: 94906
 ---
 (Stay) Ah, just a little bit longer (Stay)
 (Please) Please, please, please

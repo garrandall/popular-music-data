@@ -1,8 +1,11 @@
 ---
+album: The Definitive Collection
 artists:
 - The Brotherhood Of Man
+external_ids:
+  spotify: spotify:track:6RbrrEh0bWSF5FfJT9ow93
 features: []
-genres: []
+first_released_as_single: false
 key: united-we-stand-the-brotherhood-of-man
 lyrics_url: https://genius.com/Brotherhood-of-man-united-we-stand-lyrics
 name: United We Stand
@@ -67,9 +70,9 @@ rankings:
   rank: 33
   ranking_list: Billboard Hot 100
   start_date: '1970-07-25'
+release_year: 1970
+runtime: 170160
 ---
-
-
 There's nowhere in the world that I would rather be
 Than with you my love
 And there's nothing in the world that I would rather see

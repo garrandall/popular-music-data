@@ -1,8 +1,11 @@
 ---
+album: Actually
 artists:
 - Pet Shop Boys
+external_ids:
+  spotify: spotify:track:6IDHh3FcwLVcG5NsmpQgg2
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-a-sin-pet-shop-boys
 lyrics_url: https://genius.com/Pet-shop-boys-its-a-sin-lyrics
 name: It's A Sin
@@ -83,6 +86,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1988-01-09'
+release_year: 1987
+runtime: 299306
 ---
 "Twenty seconds and counting
 T minus fifteen seconds, guidance is internal"

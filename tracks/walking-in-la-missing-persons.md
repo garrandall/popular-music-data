@@ -1,8 +1,11 @@
 ---
+album: Missing Persons Remixed Hits
 artists:
 - Missing Persons
+external_ids:
+  spotify: spotify:track:2TJFKG2Cux9tYxhRfKs8mG
 features: []
-genres: []
+first_released_as_single: false
 key: walking-in-la-missing-persons
 lyrics_url: https://genius.com/Missing-persons-walking-in-la-lyrics
 name: Walking In La
@@ -31,6 +34,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1983-04-16'
+release_year: 1983
+runtime: 298000
 ---
 Look ahead as we pass, try and focus on it
 I won't be fooled by a cheap cinema trick

@@ -1,8 +1,11 @@
 ---
+album: The Man I Want To Be
 artists:
 - Chris Young
+external_ids:
+  spotify: spotify:track:28Sc21lrWcZD9Ov4rRkPJq
 features: []
-genres: []
+first_released_as_single: false
 key: gettin--you-home-chris-young
 lyrics_url: https://www.musixmatch.com/lyrics/Chris-Young/Gettin-You-Home
 name: Gettin' You Home
@@ -87,6 +90,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2010-01-16'
+release_year: 2009
+runtime: 212133
 ---
 Tuxedo waiters, black tie
 White table clothes and red wine

@@ -1,8 +1,11 @@
 ---
+album: Riptide
 artists:
 - Robert Palmer
+external_ids:
+  spotify: spotify:track:3V1sigmGmpAB6ESoxsvObi
 features: []
-genres: []
+first_released_as_single: false
 key: hyperactive-robert-palmer
 lyrics_url: https://www.azlyrics.com/lyrics/robertpalmer/hyperactive.html
 name: Hyperactive
@@ -55,8 +58,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1986-08-23'
+release_year: 1985
+runtime: 310160
 ---
-
 She's got a date for lunch in Singapore, 
 Holds stock in I.B.M. and hates Dior. 
 She puts up her make-up on at 6.00am 
@@ -113,6 +117,3 @@ She's hyperactive when she starts to dance.
 She never missed a beat or missed a chance, 
 And more effective than a stimulant - 
 She's hyperactive.
-
-
-

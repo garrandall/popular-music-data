@@ -1,8 +1,11 @@
 ---
+album: Starting Now
 artists:
 - Chuck Wicks
+external_ids:
+  spotify: spotify:track:6RKrORavcsGPPrkRzkU14H
 features: []
-genres: []
+first_released_as_single: false
 key: all-i-ever-wanted-chuck-wicks
 lyrics_url: https://www.azlyrics.com/lyrics/chuckwicks/allieverwanted.html
 name: All I Ever Wanted
@@ -23,8 +26,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2008-11-08'
+release_year: 2008
+runtime: 207333
 ---
-
 Girl you got me going
 Yea I think you know it
 Oh I'm ready for this ride
@@ -85,6 +89,3 @@ Girl I believe em that
 It's true
 All I ever wanted
 All I ever really wanted was you
-
-
-

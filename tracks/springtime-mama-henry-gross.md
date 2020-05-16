@@ -1,8 +1,11 @@
 ---
+album: Release
 artists:
 - Henry Gross
+external_ids:
+  spotify: spotify:track:0wtqqSTlOJJjred8ySfNDI
 features: []
-genres: []
+first_released_as_single: false
 key: springtime-mama-henry-gross
 lyrics_url: https://genius.com/Henry-gross-springtime-mama-lyrics
 name: Springtime Mama
@@ -47,6 +50,8 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1976-09-11'
+release_year: 1976
+runtime: 221210
 ---
 Springtime Mama, with my lady
 Let me know that I've been lazy

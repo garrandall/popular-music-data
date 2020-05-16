@@ -1,8 +1,11 @@
 ---
+album: In Time
 artists:
 - Engelbert Humperdinck
+external_ids:
+  spotify: spotify:track:2d2o8SpY4XHK7D9OmEWaDB
 features: []
-genres: []
+first_released_as_single: false
 key: i-never-said-goodbye-engelbert-humperdinck
 lyrics_url: https://genius.com/Engelbert-humperdinck-i-never-said-goodbye-lyrics
 name: I Never Said Goodbye
@@ -35,6 +38,8 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1973-02-10'
+release_year: 1972
+runtime: 234773
 ---
 She cried and walked away just yesterday
 And like a fool, I let her go

@@ -1,8 +1,11 @@
 ---
+album: Please Excuse Me For Being Antisocial
 artists:
 - Roddy Ricch
+external_ids:
+  spotify: spotify:track:5MVdzbNmCVf9cWbkqFakkr
 features: []
-genres: []
+first_released_as_single: true
 key: big-stepper-roddy-ricch
 lyrics_url: https://www.azlyrics.com/lyrics/roddyricch/bigstepper.html
 name: Big Stepper
@@ -11,8 +14,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2019-12-21'
+release_year: 2019
+runtime: 175169
 ---
-
 Yeah
 
 Mm, ayy
@@ -72,6 +76,3 @@ Pop a Xanax, I ain't never had no feelings
 What I got planned next? Gotta put the stars in the ceilings
 Slidin' down Fairfax, nigga I was plottin' on the million
 I want a billion nigga, so that's on God I ain't chillin'
-
-
-

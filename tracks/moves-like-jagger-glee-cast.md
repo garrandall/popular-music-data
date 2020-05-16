@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music, The Complete Season Three'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:54Y4vzwLZtkUnXeltlecq5
 features: []
-genres: []
+first_released_as_single: false
 key: moves-like-jagger-glee-cast
 lyrics_url: https://www.azlyrics.com/lyrics/gleecast/moveslikejaggerjumpinjackflash.html
 name: Moves Like Jagger
@@ -11,9 +14,9 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '2012-02-04'
+release_year: 2012
+runtime: 196066
 ---
-
-
 Oh yeah,
 Watch it, oh
 Just shoot for the stars,
@@ -91,6 +94,3 @@ I've got the moves like Jagger
 I've got the moves like Jagger
 
 Jumpin' Jack Flash, it's a gas, gas, gas
-
-
-

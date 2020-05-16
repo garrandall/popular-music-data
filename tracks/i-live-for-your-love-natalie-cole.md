@@ -1,8 +1,11 @@
 ---
+album: Everlasting
 artists:
 - Natalie Cole
+external_ids:
+  spotify: spotify:track:01tKbq9PNJVgmmUvb7skOP
 features: []
-genres: []
+first_released_as_single: false
 key: i-live-for-your-love-natalie-cole
 lyrics_url: https://www.azlyrics.com/lyrics/nataliecole/iliveforyourlove.html
 name: I Live For Your Love
@@ -95,8 +98,9 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1988-04-02'
+release_year: 1987
+runtime: 267066
 ---
-
 Stand up, stand on your own
 That's what they tell me
 You can make it alone
@@ -145,6 +149,3 @@ Cause darling
 I live for your love
 My baby, baby yeah
 I live for your love, oh
-
-
-

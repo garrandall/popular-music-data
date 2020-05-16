@@ -1,8 +1,11 @@
 ---
+album: TREAT MYSELF
 artists:
 - Meghan Trainor
+external_ids:
+  spotify: spotify:track:7fCNUWi6uflDTQ08srxMZk
 features: []
-genres: []
+first_released_as_single: true
 key: no-excuses-meghan-trainor
 lyrics_url: https://www.azlyrics.com/lyrics/meghantrainor/noexcuses.html
 name: No Excuses
@@ -55,8 +58,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2018-06-02'
+release_year: 2018
+runtime: 152862
 ---
-
 Huh!
 What you sippin' on that got you talking crazy?
 Lookin' at me sideways, always coming at me
@@ -102,6 +106,3 @@ You must have confused me, confused me with
 Your mama raised you better than, better than that
 There ain't no excuses, excuses, babe
 Cause your mama raised you better than that, huh! (she raised you better than that)
-
-
-

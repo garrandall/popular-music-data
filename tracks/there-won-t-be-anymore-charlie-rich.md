@@ -1,8 +1,11 @@
 ---
+album: The Essential
 artists:
 - Charlie Rich
+external_ids:
+  spotify: spotify:track:6qE1Lkgcmxqq2peyap5jAC
 features: []
-genres: []
+first_released_as_single: false
 key: there-won-t-be-anymore-charlie-rich
 lyrics_url: https://genius.com/Charlie-rich-there-wont-be-anymore-lyrics
 name: There Won't Be Anymore
@@ -67,6 +70,8 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1974-05-04'
+release_year: 1965
+runtime: 125077
 ---
 Don't wait for the postman
 If you're looking for a letter from me

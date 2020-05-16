@@ -1,9 +1,12 @@
 ---
+album: Right on the Tip of My Tongue
 artists:
 - Brenda
 - The Tabulations
+external_ids:
+  spotify: spotify:track:5vbA9Xn4K0zR4xfC55yKNl
 features: []
-genres: []
+first_released_as_single: false
 key: right-on-the-tip-of-my-tongue-brenda-the-tabulations
 lyrics_url: https://genius.com/Brenda-and-the-tabulations-right-on-the-tip-of-my-tongue-lyrics
 name: Right On The Tip Of My Tongue
@@ -60,6 +63,8 @@ rankings:
   rank: 32
   ranking_list: Billboard Hot 100
   start_date: '1971-06-26'
+release_year: 1971
+runtime: 200026
 ---
 It was right on the tip of my tongue
 And I forgot to say "I love you"

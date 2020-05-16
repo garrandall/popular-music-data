@@ -1,9 +1,12 @@
 ---
+album: Murphy's Law
 artists:
 - Murphy Lee
+external_ids:
+  spotify: spotify:track:6njG8EYG1lrROn8P6q46eq
 features:
 - Jermaine Dupri
-genres: []
+first_released_as_single: false
 key: wat-da-hook-gon-be-murphy-lee-jermaine-dupri
 lyrics_url: https://www.azlyrics.com/lyrics/murphylee/watdahookgonbe.html
 name: Wat Da Hook Gon Be
@@ -88,9 +91,9 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2004-02-21'
+release_year: 2003
+runtime: 224666
 ---
-
-
 Hahaha, yo, yo, yo, yo
 You never met a nigga like me
 Yo yo, have you ever seen a little dude
@@ -160,4 +163,3 @@ Let the girls do me while you do you
 And um, all I need is JD beat to be banging
 And I'll come up wit these verses that I'm usually slanging
 I be ripping man
-

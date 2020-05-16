@@ -1,8 +1,11 @@
 ---
+album: Sweet Baby James
 artists:
 - James Taylor
+external_ids:
+  spotify: spotify:track:2OBaVeRFXblWxoZHC4sryf
 features: []
-genres: []
+first_released_as_single: false
 key: country-road-james-taylor
 lyrics_url: https://genius.com/James-taylor-country-road-lyrics
 name: Country Road
@@ -39,6 +42,8 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1971-03-27'
+release_year: 1970
+runtime: 202266
 ---
 Take to the highway
 Won't you lend me your name

@@ -1,8 +1,11 @@
 ---
+album: Reach The Beach
 artists:
 - The Fixx
+external_ids:
+  spotify: spotify:track:0yzAjMhKNNUWTPYn1zKRDl
 features: []
-genres: []
+first_released_as_single: false
 key: the-sign-of-fire-the-fixx
 lyrics_url: https://www.azlyrics.com/lyrics/fixx/thesignoffire.html
 name: The Sign Of Fire
@@ -59,8 +62,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1984-02-18'
+release_year: 1983
+runtime: 232013
 ---
-
 Heart of stone -- I tried to reach you
 Of the altar stone -- I tried to warn you
 But you were not alone -- you wouldn't take the call
@@ -88,7 +92,4 @@ Always the same desire
 You're not alone
 Always the sign is fire
 Heart of stone
-Always the sign is fire ... 
-
-
-
+Always the sign is fire ...

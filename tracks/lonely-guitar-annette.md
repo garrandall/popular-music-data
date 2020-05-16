@@ -1,8 +1,11 @@
 ---
+album: Annette
 artists:
 - Annette
+external_ids:
+  spotify: spotify:track:5kvfP5ujCHgioMGMkGyYJf
 features: []
-genres: []
+first_released_as_single: false
 key: lonely-guitar-annette
 lyrics_url: https://genius.com/Annette-funicello-lonely-guitar-lyrics
 name: Lonely Guitar
@@ -51,6 +54,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1959-09-14'
+release_year: 1959
+runtime: 152306
 ---
 Lonely guitar
 Is there no one who loves us

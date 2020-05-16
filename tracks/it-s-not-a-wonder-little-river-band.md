@@ -1,8 +1,11 @@
 ---
+album: First Under The Wire
 artists:
 - Little River Band
+external_ids:
+  spotify: spotify:track:3C931OWDntb6T0FQAfY41r
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-not-a-wonder-little-river-band
 lyrics_url: https://www.azlyrics.com/lyrics/littleriverband/itsnotawonder.html
 name: It's Not A Wonder
@@ -31,8 +34,9 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1980-06-07'
+release_year: 1979
+runtime: 236200
 ---
-
 When I'm down, you're always there just to see me through 
 You understand everything that I do 
 It's not a wonder that I care for you 
@@ -54,6 +58,3 @@ When I'm down, you're always there just to see me through
 You understand everything that I do 
 It's not a wonder that I care for you, 
 Oh no it's not a wonder that I care
-
-
-

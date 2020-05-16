@@ -1,9 +1,12 @@
 ---
+album: DUMMY BOY
 artists:
 - 6ix9ine
+external_ids:
+  spotify: spotify:track:1KWLyoPChJrBQFscO8NW8D
 features:
 - Bobby Shmurda
-genres: []
+first_released_as_single: false
 key: stoopid-6ix9ine-bobby-shmurda
 lyrics_url: https://www.azlyrics.com/lyrics/6ix9ine/stoopid.html
 name: STOOPID
@@ -44,9 +47,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2018-12-15'
+release_year: 2018
+runtime: 143250
 ---
-
-
 Y'all already know it be the boy Yung Gordon
 You rockin' with Take Money promotion
 Ay Take Money Promotion
@@ -122,6 +125,3 @@ We in yo' city!
 
 Hold up, hold up, hold up gang
 Run that shit back up
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Sex & Violins
 artists:
 - Rednex
+external_ids:
+  spotify: spotify:track:06hsdMbBxWGqBO0TV0Zrkf
 features: []
-genres: []
+first_released_as_single: false
 key: cotton-eye-joe-rednex
 lyrics_url: https://www.azlyrics.com/lyrics/rednex/cottoneyejoe.html
 name: Cotton Eye Joe
@@ -87,8 +90,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1995-07-22'
+release_year: 1994
+runtime: 194000
 ---
-
 If it hadn't been for cotton-eyed Joe
 I'd been married long time ago
 Where did you come from? Where did you go?
@@ -153,6 +157,3 @@ If it hadn't been for cotton-eyed Joe
 I'd been married long time ago
 Where did you come from? Where did you go?
 Where did you come from, cotton-eyed Joe?
-
-
-

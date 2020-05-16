@@ -1,8 +1,11 @@
 ---
+album: Classic Hits
 artists:
 - Joe Cocker
+external_ids:
+  spotify: spotify:track:1Dm8PNvSiszq4wP9RXbMxO
 features: []
-genres: []
+first_released_as_single: false
 key: edge-of-a-dream-joe-cocker
 lyrics_url: https://genius.com/Joe-cocker-edge-of-a-dream-lyrics
 name: Edge of a Dream
@@ -35,6 +38,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1984-12-01'
+release_year: 1984
+runtime: 233573
 ---
 If tommorow never comes - would ya still belong to me
 Guess I've always known it was meant to be

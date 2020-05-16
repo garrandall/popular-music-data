@@ -1,8 +1,11 @@
 ---
+album: Crooner
 artists:
 - Al Martino
+external_ids:
+  spotify: spotify:track:0XLXN9FPQIOl9v7J4TrrF5
 features: []
-genres: []
+first_released_as_single: false
 key: love-is-blue-al-martino
 lyrics_url: https://www.musixmatch.com/lyrics/Al-Martino/Love-Is-Blue-L-amour-est-Bleu
 name: Love Is Blue
@@ -35,6 +38,8 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1968-03-23'
+release_year: 1968
+runtime: 162400
 ---
 Blue, blue
 My world is blue

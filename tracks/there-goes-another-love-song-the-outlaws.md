@@ -1,8 +1,11 @@
 ---
+album: The Outlaws
 artists:
 - The Outlaws
+external_ids:
+  spotify: spotify:track:5jKdSZtw2yst6FzDJ4yvEV
 features: []
-genres: []
+first_released_as_single: false
 key: there-goes-another-love-song-the-outlaws
 lyrics_url: https://www.azlyrics.com/lyrics/outlaws/theregoesanotherlovesong.html
 name: There Goes Another Love Song
@@ -47,8 +50,9 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '1975-11-08'
+release_year: 1975
+runtime: 184360
 ---
-
 Sometimes I feel like I'm getting kinda low
 Thoughts that I'm thinkin' are the reason
 So I try to remember without talkin' to myself
@@ -83,6 +87,3 @@ There goes another love song
 Someone singin' about me again
 There goes another love song
 Now I need more than a friend
-
-
-

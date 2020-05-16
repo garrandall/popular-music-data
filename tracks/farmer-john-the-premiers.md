@@ -1,8 +1,11 @@
 ---
+album: Farmer John Live
 artists:
 - The Premiers
+external_ids:
+  spotify: spotify:track:4J0aAZIzCpgFO9ejrNj6Mb
 features: []
-genres: []
+first_released_as_single: false
 key: farmer-john-the-premiers
 lyrics_url: https://genius.com/The-premiers-farmer-john-lyrics
 name: Farmer John
@@ -43,6 +46,8 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '1964-08-15'
+release_year: 1964
+runtime: 166893
 ---
 Farmer John
 I'm in love with your daughter

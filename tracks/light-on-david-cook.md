@@ -1,8 +1,11 @@
 ---
+album: 10th Anniversary - The Hits - Volume 1
 artists:
 - David Cook
+external_ids:
+  spotify: spotify:track:1MnQ599bYSBxccgSTxbzj6
 features: []
-genres: []
+first_released_as_single: false
 key: light-on-david-cook
 lyrics_url: https://genius.com/David-cook-light-on-lyrics
 name: Light On
@@ -87,6 +90,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2009-03-07'
+release_year: 2003
+runtime: 228826
 ---
 Never really said too much
 Afraid it wouldn't be enough

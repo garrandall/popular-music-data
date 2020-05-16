@@ -1,8 +1,11 @@
 ---
+album: I Am Not A Human Being
 artists:
 - Lil Wayne
+external_ids:
+  spotify: spotify:track:610FzmkhFSsORpECZbjT4X
 features: []
-genres: []
+first_released_as_single: false
 key: bill-gates-lil-wayne
 lyrics_url: https://genius.com/Lil-wayne-bill-gates-lyrics
 name: Bill Gates
@@ -11,6 +14,8 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '2010-10-16'
+release_year: 2010
+runtime: 258786
 ---
 Skinny ass pants, fresh pair of Vans
 If them niggas keep tripping they can share an ambulance

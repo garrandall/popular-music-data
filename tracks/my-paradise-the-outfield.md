@@ -1,8 +1,11 @@
 ---
+album: Voices Of Babylon
 artists:
 - The Outfield
+external_ids:
+  spotify: spotify:track:2WrL3s7u4m40yap7ui9RK9
 features: []
-genres: []
+first_released_as_single: false
 key: my-paradise-the-outfield
 lyrics_url: https://www.azlyrics.com/lyrics/outfield/myparadise.html
 name: My Paradise
@@ -31,8 +34,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1989-08-26'
+release_year: 1989
+runtime: 216200
 ---
-
 Think I might get lucky tonight
 Let my hair down get a little crazy, yeah
 My reflection's doing alright
@@ -65,4 +69,3 @@ Everybody needs a place to come from
 Everybody needs a place where they belong
 
 Everybody - this is my paradise
-

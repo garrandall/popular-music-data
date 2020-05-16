@@ -1,8 +1,11 @@
 ---
+album: The Essential Kenny G
 artists:
 - Kenny G
+external_ids:
+  spotify: spotify:track:6mBzwM0fZWRgiNVFHUzknM
 features: []
-genres: []
+first_released_as_single: false
 key: forever-in-love-kenny-g
 lyrics_url: https://genius.com/Kenny-g-forever-in-love-lyrics
 name: Forever In Love
@@ -99,5 +102,7 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1993-05-22'
+release_year: 1986
+runtime: 297866
 ---
 Instrumental

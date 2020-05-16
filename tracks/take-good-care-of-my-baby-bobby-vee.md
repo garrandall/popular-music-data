@@ -1,8 +1,11 @@
 ---
+album: Take Good Care Of My Baby
 artists:
 - Bobby Vee
+external_ids:
+  spotify: spotify:track:7kQZZSlxhDES9KugTuKMXo
 features: []
-genres: []
+first_released_as_single: false
 key: take-good-care-of-my-baby-bobby-vee
 lyrics_url: https://genius.com/Bobby-vee-take-good-care-of-my-baby-lyrics
 name: Take Good Care Of My Baby
@@ -67,6 +70,8 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '1961-11-13'
+release_year: 1961
+runtime: 150440
 ---
 My tears are fallin'
 'Cause you've taken her away

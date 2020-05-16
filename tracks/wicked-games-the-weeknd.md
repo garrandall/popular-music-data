@@ -1,8 +1,11 @@
 ---
+album: Trilogy
 artists:
 - The Weeknd
+external_ids:
+  spotify: spotify:track:6VwBbL8CzPiC4QV66ay7oR
 features: []
-genres: []
+first_released_as_single: false
 key: wicked-games-the-weeknd
 lyrics_url: https://genius.com/The-weeknd-wicked-games-lyrics
 name: Wicked Games
@@ -87,6 +90,8 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '2013-03-30'
+release_year: 2012
+runtime: 323746
 ---
 Woah, woah, ehh
 

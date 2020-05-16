@@ -1,8 +1,11 @@
 ---
+album: 'Peter Gabriel 4: Security (Remastered Version)'
 artists:
 - Peter Gabriel
+external_ids:
+  spotify: spotify:track:6B2vTF4zhKdR4v4RDXkz3G
 features: []
-genres: []
+first_released_as_single: false
 key: shock-the-monkey-peter-gabriel
 lyrics_url: https://www.azlyrics.com/lyrics/petergabriel/shockthemonkey.html
 name: Shock The Monkey
@@ -79,8 +82,9 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1983-02-19'
+release_year: 1982
+runtime: 328440
 ---
-
 Cover me when I run
 Cover me through the fire
 Something knocked me out ' the trees
@@ -118,6 +122,3 @@ Shock! Shock! Shock! - watch the monkey get hurt, monkey
 Shock the monkey, shock the monkey
 Shock the monkey, shock the monkey
 Shock the monkey to life
-
-
-

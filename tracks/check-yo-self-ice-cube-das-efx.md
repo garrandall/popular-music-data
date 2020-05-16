@@ -1,9 +1,12 @@
 ---
+album: The Predator
 artists:
 - Ice Cube
+external_ids:
+  spotify: spotify:track:4BTcWsowhOmaHd0ddIE60D
 features:
 - Das EFX
-genres: []
+first_released_as_single: false
 key: check-yo-self-ice-cube-das-efx
 lyrics_url: https://www.azlyrics.com/lyrics/icecube/checkyoself.html
 name: Check Yo Self
@@ -88,10 +91,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1993-12-11'
+release_year: 1992
+runtime: 221600
 ---
-
-
-
 Yeah! Word is bond!
 Das EFX in this yaknowhatI'msayin
 Straight from the sewer, word is bond!
@@ -179,4 +181,3 @@ Bitch, you better run a check
 So chickity-check yo self before you wreck yo self
 Come on and check yo self before you wrickity-wreck yo self
  Cause bitches like you is bad for my health
-

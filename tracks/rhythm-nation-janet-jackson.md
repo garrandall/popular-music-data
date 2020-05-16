@@ -1,8 +1,11 @@
 ---
+album: Rhythm Nation 1814
 artists:
 - Janet Jackson
+external_ids:
+  spotify: spotify:track:4nTYxxF8iWBq54LO3dBUie
 features: []
-genres: []
+first_released_as_single: false
 key: rhythm-nation-janet-jackson
 lyrics_url: https://www.azlyrics.com/lyrics/janetjackson/rhythmnation.html
 name: Rhythm Nation
@@ -75,8 +78,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1990-03-03'
+release_year: 1989
+runtime: 330933
 ---
-
 With music by our side
 To break the color lines
 Let's work together
@@ -109,6 +113,3 @@ People of the world unite
 Strength in numbers we can get it right
 One time
 We are a part of the rhythm nation
-
-
-

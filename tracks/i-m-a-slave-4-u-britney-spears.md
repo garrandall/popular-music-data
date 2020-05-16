@@ -1,8 +1,11 @@
 ---
+album: Britney (Digital Deluxe Version)
 artists:
 - Britney Spears
+external_ids:
+  spotify: spotify:track:6ldwfK0yWgTAlmIfuQkTYN
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-a-slave-4-u-britney-spears
 lyrics_url: https://genius.com/Britney-spears-im-a-slave-4-u-lyrics
 name: I'm A Slave 4 U
@@ -63,6 +66,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2002-01-19'
+release_year: 2001
+runtime: 203600
 ---
 I know I may be young, but I’ve got feelings too
 And I need to do what I feel like doing

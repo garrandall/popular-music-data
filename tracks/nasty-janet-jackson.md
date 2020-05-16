@@ -1,8 +1,11 @@
 ---
+album: Control
 artists:
 - Janet Jackson
+external_ids:
+  spotify: spotify:track:07OzC5JlcaDwEkzWmvqp6y
 features: []
-genres: []
+first_released_as_single: false
 key: nasty-janet-jackson
 lyrics_url: https://www.azlyrics.com/lyrics/janetjackson/nasty.html
 name: Nasty
@@ -83,8 +86,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1986-09-20'
+release_year: 1986
+runtime: 243133
 ---
-
 Gimme a beat! Sittin' in the movie show, thinkin' nasty thoughts, huh
 Better be a gentlemen or you turn me off, huh
 That's right, a-let me tell it
@@ -159,6 +163,3 @@ Ladies
 Don't mean a thing
 
 Oh you nasty boys
-
-
-

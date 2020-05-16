@@ -1,8 +1,11 @@
 ---
+album: The Hissing of Summer Lawns
 artists:
 - Joni Mitchell
+external_ids:
+  spotify: spotify:track:16e1DJIznzArBOCSomdvSn
 features: []
-genres: []
+first_released_as_single: false
 key: in-france-they-kiss-on-main-street-joni-mitchell
 lyrics_url: https://www.azlyrics.com/lyrics/jonimitchell/infrancetheykissonmainstreet.html
 name: In France They Kiss On Main Street
@@ -23,8 +26,9 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '1976-02-28'
+release_year: 1975
+runtime: 199866
 ---
-
 Downtown
 My darling dime store thief
 In the War of Independence
@@ -86,6 +90,3 @@ Rock 'n' rolling
  Rollin'
 Rollin'
 Rock 'n' rollin'
-
-
-

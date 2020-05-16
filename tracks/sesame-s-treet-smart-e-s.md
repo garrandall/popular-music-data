@@ -1,8 +1,11 @@
 ---
+album: Sesame's Treet
 artists:
 - Smart E's
+external_ids:
+  spotify: spotify:track:1dqgx06EhFMvMqkWjGrOmE
 features: []
-genres: []
+first_released_as_single: true
 key: sesame-s-treet-smart-e-s
 name: Sesame's Treet
 rankings:
@@ -70,5 +73,7 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1993-01-23'
+release_year: 1992
+runtime: 210663
 ---
 

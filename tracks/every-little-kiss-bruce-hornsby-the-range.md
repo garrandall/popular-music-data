@@ -1,9 +1,12 @@
 ---
+album: The Way It Is
 artists:
 - Bruce Hornsby
 - The Range
+external_ids:
+  spotify: spotify:track:0WCXFE3RTTUzhufeeee227
 features: []
-genres: []
+first_released_as_single: false
 key: every-little-kiss-bruce-hornsby-the-range
 lyrics_url: https://genius.com/Bruce-hornsby-and-the-range-every-little-kiss-lyrics
 name: Every Little Kiss
@@ -104,6 +107,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1987-08-22'
+release_year: 1986
+runtime: 348493
 ---
 Way out here, working on the docks
 Everyone sees the long day through

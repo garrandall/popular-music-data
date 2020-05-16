@@ -1,8 +1,11 @@
 ---
+album: Enema Of The State
 artists:
 - Blink-182
+external_ids:
+  spotify: spotify:track:2m1hi0nfMR9vdGC8UcrnwU
 features: []
-genres: []
+first_released_as_single: false
 key: all-the-small-things-blink-182
 lyrics_url: https://www.musixmatch.com/lyrics/Blink-182-5/All-the-Small-Things
 name: All The Small Things
@@ -99,6 +102,8 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '2000-05-06'
+release_year: 1999
+runtime: 167066
 ---
 All the small things
 True care, truth brings

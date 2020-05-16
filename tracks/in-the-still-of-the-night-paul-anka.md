@@ -1,8 +1,11 @@
 ---
+album: Goodnight My Love
 artists:
 - Paul Anka
+external_ids:
+  spotify: spotify:track:4ND9SgqQMRgoA0TEybnCvz
 features: []
-genres: []
+first_released_as_single: false
 key: in-the-still-of-the-night-paul-anka
 lyrics_url: https://genius.com/Paul-anka-in-the-still-of-the-night-lyrics
 name: In The Still Of The Night
@@ -31,6 +34,8 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1969-04-26'
+release_year: 1969
+runtime: 163320
 ---
 Shoo doop, shooby do
 

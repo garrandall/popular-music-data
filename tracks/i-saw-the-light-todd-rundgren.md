@@ -1,8 +1,11 @@
 ---
+album: Something/Anything?
 artists:
 - Todd Rundgren
+external_ids:
+  spotify: spotify:track:5uRkew0DtfAQmv0oEYNwFF
 features: []
-genres: []
+first_released_as_single: false
 key: i-saw-the-light-todd-rundgren
 lyrics_url: https://www.azlyrics.com/lyrics/toddrundgren/isawthelight.html
 name: I Saw The Light
@@ -63,8 +66,9 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '1972-07-08'
+release_year: 1972
+runtime: 180280
 ---
-
 It was late last night
 I was feeling something wasn't right
 There was not another soul in sight
@@ -106,6 +110,3 @@ Can't you see the light in my eyes
 In my eyes
 In my eyes
 In my eyes
-
-
-

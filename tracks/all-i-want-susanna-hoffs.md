@@ -1,8 +1,11 @@
 ---
+album: Susanna Hoffs
 artists:
 - Susanna Hoffs
+external_ids:
+  spotify: spotify:track:53m1rGnPJVtI0zUryVyL9N
 features: []
-genres: []
+first_released_as_single: false
 key: all-i-want-susanna-hoffs
 lyrics_url: https://genius.com/Susanna-hoffs-all-i-want-lyrics
 name: All I Want
@@ -55,6 +58,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1997-02-15'
+release_year: 1996
+runtime: 198373
 ---
 Can't ignore or hide away
 Can't escape from the things that line our way

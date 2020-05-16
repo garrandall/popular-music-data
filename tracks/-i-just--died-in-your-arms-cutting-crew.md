@@ -1,8 +1,11 @@
 ---
+album: Broadcast
 artists:
 - Cutting Crew
+external_ids:
+  spotify: spotify:track:4ByEFOBuLXpCqvO1kw8Wdm
 features: []
-genres: []
+first_released_as_single: false
 key: -i-just--died-in-your-arms-cutting-crew
 lyrics_url: https://genius.com/Cutting-crew-i-just-died-in-your-arms-lyrics
 name: (I Just) Died In Your Arms
@@ -83,6 +86,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1987-07-11'
+release_year: 1986
+runtime: 280400
 ---
 Oh I, I just died in your arms tonight
 It must have been something you said

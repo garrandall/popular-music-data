@@ -1,10 +1,13 @@
 ---
+album: Come Together
 artists:
 - Ike
 - Tina Turner
 - The Ikettes
+external_ids:
+  spotify: spotify:track:4XHuEHpj3YJIA5NGt7iyCh
 features: []
-genres: []
+first_released_as_single: false
 key: come-together-ike-tina-turner-the-ikettes
 lyrics_url: https://www.musixmatch.com/lyrics/Ike-Tina-Turner-Tina-Turner/Come-Together
 name: Come Together
@@ -41,6 +44,8 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1970-04-25'
+release_year: 1970
+runtime: 223306
 ---
 Here come old flat top, he come grooving up slowly
 He's got joo joo eye balls, he want holy roller

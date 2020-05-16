@@ -1,8 +1,11 @@
 ---
+album: Love Zone
 artists:
 - Billy Ocean
+external_ids:
+  spotify: spotify:track:3XxqngUZVOnZQ5YJmskdyK
 features: []
-genres: []
+first_released_as_single: false
 key: love-is-forever-billy-ocean
 lyrics_url: https://www.azlyrics.com/lyrics/billyocean/loveisforever.html
 name: Love Is Forever
@@ -71,8 +74,9 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1987-02-07'
+release_year: 1986
+runtime: 253573
 ---
-
 I relive the same old dream day and night
 Memories of love I knew
 I couldn't live my life, or so it seemed
@@ -101,6 +105,3 @@ Oh, oh oohyeah, I believe in love, cause I believe in you
 Things you do, I'm falling in love again with you
 I tried to let it go but it wouldn't die
 I know why love is forever, love is forever with you
-
-
-

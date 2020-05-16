@@ -1,8 +1,11 @@
 ---
+album: Color Of Success
 artists:
 - Morris Day
+external_ids:
+  spotify: spotify:track:3M51z9DUFbxkvOHIFz9gsM
 features: []
-genres: []
+first_released_as_single: false
 key: the-oak-tree-morris-day
 lyrics_url: https://genius.com/Morris-day-the-oak-tree-lyrics
 name: The Oak Tree
@@ -55,6 +58,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1985-12-14'
+release_year: 1985
+runtime: 442466
 ---
 Morris, why are you having that tree cut down?
 Because, it symbolizes something of great value to me

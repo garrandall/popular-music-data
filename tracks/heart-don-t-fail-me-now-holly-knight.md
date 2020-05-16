@@ -1,8 +1,11 @@
 ---
+album: Holly Knight
 artists:
 - Holly Knight
+external_ids:
+  spotify: spotify:track:6tdbPPMeZNbGMOW5faEkvd
 features: []
-genres: []
+first_released_as_single: false
 key: heart-don-t-fail-me-now-holly-knight
 lyrics_url: https://genius.com/Holly-knight-heart-dont-fail-me-now-lyrics
 name: Heart Don't Fail Me Now
@@ -43,6 +46,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1988-10-29'
+release_year: 1988
+runtime: 258800
 ---
 It seems it's getting harder
 Yeah, it's so hard to find o lover

@@ -1,9 +1,12 @@
 ---
+album: The Truth
 artists:
 - Cherish
+external_ids:
+  spotify: spotify:track:2tvuOy8dLTdDoawHdzS3q6
 features:
 - Yung Joc
-genres: []
+first_released_as_single: true
 key: killa-cherish-yung-joc
 lyrics_url: https://www.azlyrics.com/lyrics/cherish/killa.html
 name: Killa
@@ -68,8 +71,9 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '2008-05-31'
+release_year: 2007
+runtime: 235400
 ---
-
 'Yung Joc' 'Yeah' 'I don't think they're ready for this one'
 
 
@@ -130,4 +134,3 @@ I break hearts
 The heart break 'em tell
 I treat your chick like a pair of ones
 Where sluts have one good time and fun
-

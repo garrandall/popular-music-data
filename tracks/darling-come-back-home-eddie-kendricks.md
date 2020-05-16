@@ -1,8 +1,11 @@
 ---
+album: Eddie Kendricks
 artists:
 - Eddie Kendricks
+external_ids:
+  spotify: spotify:track:3st79h5eTpWCJgiMnij6PT
 features: []
-genres: []
+first_released_as_single: false
 key: darling-come-back-home-eddie-kendricks
 lyrics_url: https://www.azlyrics.com/lyrics/eddiekendricks/darlingcomebackhome.html
 name: Darling Come Back Home
@@ -27,8 +30,9 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1973-08-11'
+release_year: 1973
+runtime: 253266
 ---
-
 This is a heart
 That used to feel the joy of waking
 I was thankful for each flower every tree
@@ -71,6 +75,3 @@ Everything that I've been living for is gone, is gone
 Darling won't you come back home
 I don't know what I'm gonna do
 ...
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Mistaken Identity
 artists:
 - Kim Carnes
+external_ids:
+  spotify: spotify:track:0odIT9B9BvOCnXfS0e4lB5
 features: []
-genres: []
+first_released_as_single: false
 key: bette-davis-eyes-kim-carnes
 lyrics_url: https://genius.com/Kim-carnes-bette-davis-eyes-lyrics
 name: Bette Davis Eyes
@@ -111,6 +114,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1981-09-19'
+release_year: 1981
+runtime: 228000
 ---
 Her hair is Harlow gold
 Her lips sweet surprise

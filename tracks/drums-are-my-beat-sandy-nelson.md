@@ -1,8 +1,11 @@
 ---
+album: Drums Are My Beat
 artists:
 - Sandy Nelson
+external_ids:
+  spotify: spotify:track:4FSKLW5bdV3StzIyGtUvg6
 features: []
-genres: []
+first_released_as_single: false
 key: drums-are-my-beat-sandy-nelson
 name: Drums Are My Beat
 rankings:
@@ -34,5 +37,7 @@ rankings:
   rank: 34
   ranking_list: Billboard Hot 100
   start_date: '1962-03-24'
+release_year: 1962
+runtime: 133840
 ---
 

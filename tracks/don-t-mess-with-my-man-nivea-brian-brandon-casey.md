@@ -1,10 +1,13 @@
 ---
+album: Nivea
 artists:
 - Nivea
+external_ids:
+  spotify: spotify:track:39YovPslPCXbFYhlYjsZ2Y
 features:
 - Brian Casey
 - Brandon Casey
-genres: []
+first_released_as_single: false
 key: don-t-mess-with-my-man-nivea-brian-brandon-casey
 lyrics_url: https://www.musixmatch.com/lyrics/Nivea-feat-Brian-Brandon-Casey/Don-t-Mess-With-My-Man
 name: Don't Mess With My Man
@@ -153,8 +156,9 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '2003-04-12'
+release_year: 2002
+runtime: 213226
 ---
-
 It was hard to find a brotha that was down for me
 So I'm tellin' everybody let him be
 Cuz he's mine and I can't take no pigeons tryna take my baby

@@ -1,8 +1,11 @@
 ---
+album: Bigger And Deffer
 artists:
 - LL Cool J
+external_ids:
+  spotify: spotify:track:0hioWv2FDtVePjHFTwgrf7
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-bad-ll-cool-j
 lyrics_url: https://genius.com/Ll-cool-j-im-bad-lyrics
 name: I'm Bad
@@ -23,6 +26,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1987-08-01'
+release_year: 1987
+runtime: 279733
 ---
 Calling all cars, calling all cars...
 Be on the lookout for a tall light-skinned brother with dimples

@@ -1,8 +1,11 @@
 ---
+album: Love Among The Ruins
 artists:
 - 10,000 Maniacs
+external_ids:
+  spotify: spotify:track:5v6b9RUk83Z33shcsqt1m3
 features: []
-genres: []
+first_released_as_single: false
 key: more-than-this-10-000-maniacs
 lyrics_url: https://genius.com/10000-maniacs-more-than-this-lyrics
 name: More Than This
@@ -79,6 +82,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1997-11-08'
+release_year: 1997
+runtime: 245573
 ---
 I could feel at the time
 There was no way of knowing

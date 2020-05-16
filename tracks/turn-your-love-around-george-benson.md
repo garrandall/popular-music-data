@@ -1,8 +1,11 @@
 ---
+album: The George Benson Collection
 artists:
 - George Benson
+external_ids:
+  spotify: spotify:track:6a899bXlCuViXW2Qs8Rdqo
 features: []
-genres: []
+first_released_as_single: false
 key: turn-your-love-around-george-benson
 lyrics_url: https://www.azlyrics.com/lyrics/georgebenson/turnyourlovearound.html
 name: Turn Your Love Around
@@ -95,8 +98,9 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1982-03-20'
+release_year: 1981
+runtime: 230106
 ---
-
 You've got the love
 You've got the power
 But you just don't understand
@@ -170,6 +174,3 @@ This time the girl became a woman
 Don't you turn me down
 Every woman needs a man
 I can show you how
-
-
-

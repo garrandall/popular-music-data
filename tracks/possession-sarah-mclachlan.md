@@ -1,8 +1,11 @@
 ---
+album: Fumbling Towards Ecstasy
 artists:
 - Sarah McLachlan
+external_ids:
+  spotify: spotify:track:0oPZm6DNVj4rv5uGOw2w7q
 features: []
-genres: []
+first_released_as_single: false
 key: possession-sarah-mclachlan
 lyrics_url: https://www.azlyrics.com/lyrics/sarahmclachlan/possession.html
 name: Possession
@@ -83,8 +86,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1994-09-10'
+release_year: 1993
+runtime: 279466
 ---
-
 Listen as the wind blows from across the great divide
 voices trapped in yearning, memories trapped in time
 the night is my companion, and solitude my guide
@@ -123,6 +127,3 @@ kiss you so hard
 I'll take your breath away
 and after, I'd wipe away the tears
 just close your eyes...
-
-
-

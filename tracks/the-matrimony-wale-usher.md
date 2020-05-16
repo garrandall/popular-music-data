@@ -1,9 +1,12 @@
 ---
+album: The Album About Nothing
 artists:
 - Wale
+external_ids:
+  spotify: spotify:track:5xvwloti5jstJB0aY7wq1N
 features:
 - Usher
-genres: []
+first_released_as_single: true
 key: the-matrimony-wale-usher
 lyrics_url: https://genius.com/Wale-the-matrimony-lyrics
 name: The Matrimony
@@ -84,6 +87,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2015-08-22'
+release_year: 2015
+runtime: 396116
 ---
 Seinfield: Getting engaged is like getting, uh, it's the first hill of the roller coaster
 And you hear those clickers, the loud sound - this really violent, metal

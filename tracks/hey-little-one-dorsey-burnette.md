@@ -1,8 +1,11 @@
 ---
+album: The Golden Hits Of
 artists:
 - Dorsey Burnette
+external_ids:
+  spotify: spotify:track:0iBkpKmYnjE8APihjivzyA
 features: []
-genres: []
+first_released_as_single: false
 key: hey-little-one-dorsey-burnette
 lyrics_url: https://www.musixmatch.com/lyrics/Dorsey-Burnette/Hey-Little-One
 name: Hey Little One
@@ -51,6 +54,8 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '1960-08-15'
+release_year: 1960
+runtime: 156560
 ---
 Hey, little one
 So far from home

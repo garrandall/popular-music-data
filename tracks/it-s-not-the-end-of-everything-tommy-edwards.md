@@ -1,8 +1,11 @@
 ---
+album: "It\u2019s All In The Game: The Best Of Tommy Edwards"
 artists:
 - Tommy Edwards
+external_ids:
+  spotify: spotify:track:7KANtQF8nxfUGHffDQZe4m
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-not-the-end-of-everything-tommy-edwards
 lyrics_url: https://www.musixmatch.com/lyrics/Tommy-Edwards/It-s-Not-the-End-of-Everything
 name: It's Not The End Of Everything
@@ -15,6 +18,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1960-10-17'
+release_year: 1960
+runtime: 151866
 ---
 Just because my love has gone
 Don't think my life won't still go in

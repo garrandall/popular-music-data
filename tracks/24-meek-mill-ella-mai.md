@@ -1,9 +1,12 @@
 ---
+album: Championships
 artists:
 - Meek Mill
+external_ids:
+  spotify: spotify:track:4yv7UGCLOBijVfQZ5kxNU2
 features:
 - Ella Mai
-genres: []
+first_released_as_single: false
 key: 24-meek-mill-ella-mai
 lyrics_url: https://www.azlyrics.com/lyrics/meekmill/247.html
 name: '24'
@@ -84,9 +87,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2019-08-24'
+release_year: 2018
+runtime: 221522
 ---
-
-
 End, that's what I found out
 
 
@@ -168,6 +171,3 @@ End
 What I found out-
 I took a vow that from now on
 I'm gonna be my own best
-
-
-

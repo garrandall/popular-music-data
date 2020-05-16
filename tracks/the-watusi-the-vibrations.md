@@ -1,8 +1,11 @@
 ---
+album: Dancing At The Nick At NiteClub
 artists:
 - The Vibrations
+external_ids:
+  spotify: spotify:track:5hleF20R6SrI99rz269cSS
 features: []
-genres: []
+first_released_as_single: false
 key: the-watusi-the-vibrations
 lyrics_url: https://www.musixmatch.com/lyrics/The-Vibrations/The-Watusi
 name: The Watusi
@@ -39,6 +42,8 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1961-04-10'
+release_year: 1961
+runtime: 154026
 ---
 There's a dance called the Watusi it's out of sight,
 First you slide to the left then to the right.

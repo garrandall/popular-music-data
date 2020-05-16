@@ -1,8 +1,11 @@
 ---
+album: Changes In Latitudes, Changes In Attitudes
 artists:
 - Jimmy Buffett
+external_ids:
+  spotify: spotify:track:4EEjMyQub6tgFVshlM9j1M
 features: []
-genres: []
+first_released_as_single: false
 key: margaritaville-jimmy-buffett
 lyrics_url: https://genius.com/Jimmy-buffett-margaritaville-lyrics
 name: Margaritaville
@@ -95,6 +98,8 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '1977-08-27'
+release_year: 1977
+runtime: 250933
 ---
 Nibbling on sponge cake
 Watching the sun bake

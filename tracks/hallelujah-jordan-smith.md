@@ -1,8 +1,11 @@
 ---
+album: The Complete Season 9 Collection (The Voice Performance)
 artists:
 - Jordan Smith
+external_ids:
+  spotify: spotify:track:3LLYIitFpZSmXY95rQxw0E
 features: []
-genres: []
+first_released_as_single: false
 key: hallelujah-jordan-smith
 lyrics_url: https://www.azlyrics.com/lyrics/jordansmith/hallelujah.html
 name: Hallelujah
@@ -11,8 +14,9 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '2015-12-19'
+release_year: 2015
+runtime: 189093
 ---
-
 I'd heard there was a secret chord
 That David played and it pleased the Lord
 But you don't really care for music, do ya?
@@ -45,6 +49,3 @@ Hallelujah, Hallelu
 Hallelujah, Hallelujah
 Hallelujah
 Hallelujah
-
-
-

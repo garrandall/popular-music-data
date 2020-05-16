@@ -1,11 +1,14 @@
 ---
+album: Swagga Like Us
 artists:
 - Jay-Z
 - T.I.
+external_ids:
+  spotify: spotify:track:6N6bpwA4iiq7HtKToeVH0c
 features:
 - Kanye West
 - Lil Wayne
-genres: []
+first_released_as_single: true
 key: swagga-like-us-jay-z-t-i--kanye-west-lil-wayne
 lyrics_url: https://genius.com/Jay-z-and-ti-swagga-like-us-lyrics
 name: Swagga Like Us
@@ -90,6 +93,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2009-02-07'
+release_year: 2008
+runtime: 329680
 ---
 No one on the corner has swagger like us
 Swagger like us, swagger-swagger like us

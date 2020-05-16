@@ -1,8 +1,11 @@
 ---
+album: Just For Love
 artists:
 - Quicksilver Messenger Service
+external_ids:
+  spotify: spotify:track:54uiTEd1MOB7ExqqKCj1HX
 features: []
-genres: []
+first_released_as_single: false
 key: fresh-air-quicksilver-messenger-service
 lyrics_url: https://www.azlyrics.com/lyrics/quicksilvermessengerservice/freshair.html
 name: Fresh Air
@@ -43,8 +46,9 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '1970-11-28'
+release_year: 1970
+runtime: 321933
 ---
-
 Oh, what you do to me
 Oh, what you do to me, little girl
 Oh, have another hit of sweet air
@@ -69,6 +73,3 @@ Take me home, take me home
 Take me home, I wanna go home with you
 Oh, have another hit of fresh air
 Oh, have another hit
-
-
-

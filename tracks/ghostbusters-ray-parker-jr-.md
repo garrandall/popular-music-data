@@ -1,8 +1,11 @@
 ---
+album: Ghostbusters (Original Motion Picture Soundtrack)
 artists:
 - Ray Parker Jr.
+external_ids:
+  spotify: spotify:track:19VeWKoRdsfNeiqZjyahWI
 features: []
-genres: []
+first_released_as_single: false
 key: ghostbusters-ray-parker-jr-
 lyrics_url: https://www.azlyrics.com/lyrics/rayparkerjr/ghostbusters.html
 name: Ghostbusters
@@ -91,8 +94,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1984-11-03'
+release_year: 1984
+runtime: 287626
 ---
-
 Ghostbusters!
 
 If there's something strange
@@ -178,6 +182,3 @@ Who you gonna call?
 Ghostbusters!
 Uh, it likes the girls too
 Ghostbusters!
-
-
-

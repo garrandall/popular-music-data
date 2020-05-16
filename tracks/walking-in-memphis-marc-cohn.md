@@ -1,8 +1,11 @@
 ---
+album: Marc Cohn
 artists:
 - Marc Cohn
+external_ids:
+  spotify: spotify:track:5fgkjhICZnqFctrV0AyuQD
 features: []
-genres: []
+first_released_as_single: false
 key: walking-in-memphis-marc-cohn
 lyrics_url: https://genius.com/Marc-cohn-walking-in-memphis-lyrics
 name: Walking In Memphis
@@ -99,6 +102,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1991-08-31'
+release_year: 1991
+runtime: 252613
 ---
 Put on my blue suede shoes
 And I boarded the plane

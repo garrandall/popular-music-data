@@ -1,8 +1,11 @@
 ---
+album: Favorites
 artists:
 - The Lettermen
+external_ids:
+  spotify: spotify:track:1gKeImq3kiRBn8yEyQncQP
 features: []
-genres: []
+first_released_as_single: false
 key: theme-from--a-summer-place--the-lettermen
 lyrics_url: https://genius.com/The-lettermen-theme-from-a-summer-place-lyrics
 name: Theme From "A Summer Place"
@@ -43,6 +46,8 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '1965-08-21'
+release_year: 1965
+runtime: 125200
 ---
 There's a summer place
 Where it may rain or storm

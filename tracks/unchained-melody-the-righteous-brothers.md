@@ -1,8 +1,11 @@
 ---
+album: Just Once In My Life
 artists:
 - The Righteous Brothers
+external_ids:
+  spotify: spotify:track:2qhASBzpbFhPRtrnZ5lLnz
 features: []
-genres: []
+first_released_as_single: false
 key: unchained-melody-the-righteous-brothers
 lyrics_url: https://www.azlyrics.com/lyrics/righteousbrothers/unchainedmelody.html
 name: Unchained Melody
@@ -235,8 +238,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1991-03-23'
+release_year: 1965
+runtime: 218013
 ---
-
 Oh, my love
 My darling
 I've hungered for your touch
@@ -267,6 +271,3 @@ Are you still mine?
 I need your love
 I, I need your love
 God speed your love to me
-
-
-

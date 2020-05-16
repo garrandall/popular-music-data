@@ -1,9 +1,12 @@
 ---
+album: NOW That's What I Call Music! Vol. 72
 artists:
 - Ellie Goulding
 - Juice WRLD
+external_ids:
+  spotify: spotify:track:6kls8cSlUyHW2BUOkDJIZE
 features: []
-genres: []
+first_released_as_single: true
 key: hate-me-ellie-goulding-juice-wrld
 lyrics_url: https://www.azlyrics.com/lyrics/elliegoulding/hateme.html
 name: Hate Me
@@ -88,9 +91,9 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '2020-01-04'
+release_year: 2019
+runtime: 186223
 ---
-
-
 Hate me, hate me, still tryna replace me
 Chase me, chase me, tell me how you hate me
 Erase me, 'rase me, wish you never dated me
@@ -159,6 +162,3 @@ Tell me how you hate me
 Lies, tell me lies, tell me how you hate me
 Tell me how you hate me
 Lies, tell me lies, baby, tell me how you hate me
-
-
-

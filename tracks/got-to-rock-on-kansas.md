@@ -1,8 +1,11 @@
 ---
+album: Audio-Visions
 artists:
 - Kansas
+external_ids:
+  spotify: spotify:track:3s0ERU20IfT6SKgIOTioxC
 features: []
-genres: []
+first_released_as_single: false
 key: got-to-rock-on-kansas
 lyrics_url: https://www.musixmatch.com/lyrics/Kansas/Got-to-Rock-On
 name: Got To Rock On
@@ -27,6 +30,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1981-01-24'
+release_year: 1980
+runtime: 199466
 ---
 It's no funny hanging around
 Winter seems so numbing

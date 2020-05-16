@@ -1,8 +1,11 @@
 ---
+album: Artist 2.0
 artists:
 - A Boogie Wit da Hoodie
+external_ids:
+  spotify: spotify:track:6PYDnaVgRY9PedhbNEDQXN
 features: []
-genres: []
+first_released_as_single: false
 key: thug-love-a-boogie-wit-da-hoodie
 lyrics_url: https://genius.com/A-boogie-wit-da-hoodie-thug-love-lyrics
 name: Thug Love
@@ -11,6 +14,8 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '2020-02-29'
+release_year: 2020
+runtime: 181744
 ---
 It's crazy, you're still pretty when you cry
 We got London on the track

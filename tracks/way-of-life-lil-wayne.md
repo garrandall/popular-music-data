@@ -1,8 +1,11 @@
 ---
+album: 500 Degreez
 artists:
 - Lil Wayne
+external_ids:
+  spotify: spotify:track:2ZoKMVQaFYnOsKeHbzSqLy
 features: []
-genres: []
+first_released_as_single: false
 key: way-of-life-lil-wayne
 lyrics_url: https://www.musixmatch.com/lyrics/Lil-Wayne/Way-Of-Life
 name: Way Of Life
@@ -55,6 +58,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2002-09-21'
+release_year: 2002
+runtime: 239800
 ---
 Look'a here... (Umm-hm...)
 This how we gon' do this...

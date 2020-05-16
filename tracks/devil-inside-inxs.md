@@ -1,8 +1,11 @@
 ---
+album: Kick
 artists:
 - INXS
+external_ids:
+  spotify: spotify:track:3m4OWJ3Ovl0pXwT79bw94N
 features: []
-genres: []
+first_released_as_single: false
 key: devil-inside-inxs
 lyrics_url: https://genius.com/Inxs-devil-inside-lyrics
 name: Devil Inside
@@ -75,6 +78,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1988-06-04'
+release_year: 1987
+runtime: 314607
 ---
 Here comes the woman, with the look in her eye
 Raised on leather, with flesh on her mind

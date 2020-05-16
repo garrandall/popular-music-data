@@ -1,8 +1,11 @@
 ---
+album: 'George Michael & Wham! Last Christmas: The Original Motion Picture Soundtrack'
 artists:
 - Wham!
+external_ids:
+  spotify: spotify:track:2FRnf9qhLbvw8fu4IBXx78
 features: []
-genres: []
+first_released_as_single: true
 key: last-christmas-wham-
 lyrics_url: https://genius.com/Wham-last-christmas-lyrics
 name: Last Christmas
@@ -63,6 +66,8 @@ rankings:
   rank: 11
   ranking_list: Billboard Hot 100
   start_date: '2020-01-04'
+release_year: 1984
+runtime: 262960
 ---
 Ah, aha
 Oh, oh

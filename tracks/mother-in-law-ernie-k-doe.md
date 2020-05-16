@@ -1,8 +1,11 @@
 ---
+album: Best of Ernie K-Doe
 artists:
 - Ernie K-Doe
+external_ids:
+  spotify: spotify:track:6rN6xdKMu0dWnsKNePZItp
 features: []
-genres: []
+first_released_as_single: false
 key: mother-in-law-ernie-k-doe
 lyrics_url: https://genius.com/Ernie-k-doe-mother-in-law-lyrics
 name: Mother-In-Law
@@ -63,6 +66,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1961-06-26'
+release_year: 1961
+runtime: 153600
 ---
 (Mother in law)
 Mother in law

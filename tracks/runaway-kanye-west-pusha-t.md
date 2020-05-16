@@ -1,9 +1,12 @@
 ---
+album: My Beautiful Dark Twisted Fantasy
 artists:
 - Kanye West
+external_ids:
+  spotify: spotify:track:40GwxjniW9i4DR2BwMFK0x
 features:
 - Pusha T
-genres: []
+first_released_as_single: false
 key: runaway-kanye-west-pusha-t
 lyrics_url: https://www.azlyrics.com/lyrics/kanyewest/runaway.html
 name: Runaway
@@ -60,9 +63,9 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '2011-01-15'
+release_year: 2010
+runtime: 547666
 ---
-
-
 Look at you 
 Look at you 
 Ladies and gentlemen, la-ladies and gentlemen
@@ -169,6 +172,3 @@ Let's have a toast for the jerk-offs
 That'd never take work off
 Baby, I got a plan
 Run away fast as you can
-
-
-

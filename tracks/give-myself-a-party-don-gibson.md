@@ -1,8 +1,11 @@
 ---
+album: 18 Greatest Hits
 artists:
 - Don Gibson
+external_ids:
+  spotify: spotify:track:7sdBNhIlZa44SWwVpnEu1E
 features: []
-genres: []
+first_released_as_single: false
 key: give-myself-a-party-don-gibson
 lyrics_url: https://genius.com/Don-gibson-give-myself-a-party-lyrics
 name: Give Myself A Party
@@ -47,6 +50,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1958-12-01'
+release_year: 1958
+runtime: 149800
 ---
 I've got a lot of memories to last the rest of my life
 So if you don't want to love me baby that'll be all right

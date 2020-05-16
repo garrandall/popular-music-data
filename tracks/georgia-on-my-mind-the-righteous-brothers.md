@@ -1,8 +1,11 @@
 ---
+album: 'The Righteous Brothers: Live on the Sunset Strip'
 artists:
 - The Righteous Brothers
+external_ids:
+  spotify: spotify:track:2FLoRRr8UFHkgpmIvFCCOT
 features: []
-genres: []
+first_released_as_single: false
 key: georgia-on-my-mind-the-righteous-brothers
 lyrics_url: https://www.azlyrics.com/lyrics/righteousbrothers/georgiaonmymind.html
 name: Georgia On My Mind
@@ -27,8 +30,9 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '1966-03-05'
+release_year: 1966
+runtime: 263440
 ---
-
 Georgia, hey Georgia
 No peace I find
 It's just a song, sweet song
@@ -63,6 +67,3 @@ Lovin' keeps Georgia on my mind
 Keeps you jolted, right here on my mind
 Hey, on my mind
 Keeps you jolted, right here on my mind
-
-
-

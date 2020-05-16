@@ -1,8 +1,11 @@
 ---
+album: Spanky & Our Gang
 artists:
 - Spanky And Our Gang
+external_ids:
+  spotify: spotify:track:27jKL4imo6MxLJuj486nte
 features: []
-genres: []
+first_released_as_single: false
 key: making-every-minute-count-spanky-and-our-gang
 lyrics_url: https://genius.com/Spanky-and-our-gang-making-every-minute-count-lyrics
 name: Making Every Minute Count
@@ -35,6 +38,8 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '1967-09-30'
+release_year: 1967
+runtime: 155000
 ---
 While you're hung up on yesterday
 You got nothing going today

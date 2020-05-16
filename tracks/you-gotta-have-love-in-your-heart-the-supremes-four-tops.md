@@ -1,9 +1,12 @@
 ---
+album: The Return Of The Magnificent 7
 artists:
 - The Supremes
 - Four Tops
+external_ids:
+  spotify: spotify:track:06OtFRgFztElno1CBZLKX4
 features: []
-genres: []
+first_released_as_single: false
 key: you-gotta-have-love-in-your-heart-the-supremes-four-tops
 lyrics_url: https://www.azlyrics.com/lyrics/supremes/yougottahaveloveinyourheart.html
 name: You Gotta Have Love In Your Heart
@@ -28,8 +31,9 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '1971-07-03'
+release_year: 1971
+runtime: 169826
 ---
-
 You gotta have love in your heart
 You gotta have a song on your lips
 You gotta let freedom roll
@@ -84,6 +88,3 @@ And you-oh-oh-oh yeah
 Say it, say it again
 Oh, oh, oh... Oh yeah
 You sound so good
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Rise
 artists:
 - Daryl Braithwaite
+external_ids:
+  spotify: spotify:track:6xoHjRpW2oN3rHLOY1Xda3
 features: []
-genres: []
+first_released_as_single: false
 key: higher-than-hope-daryl-braithwaite
 lyrics_url: https://genius.com/Daryl-braithwaite-higher-than-hope-lyrics
 name: Higher Than Hope
@@ -47,6 +50,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1991-08-03'
+release_year: 1990
+runtime: 299666
 ---
 I remember long ago
 Many things we didn't know

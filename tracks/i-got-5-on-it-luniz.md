@@ -1,8 +1,11 @@
 ---
+album: Operation Stackola
 artists:
 - Luniz
+external_ids:
+  spotify: spotify:track:4IYKjN1DrYzxKXt0umJqsG
 features: []
-genres: []
+first_released_as_single: false
 key: i-got-5-on-it-luniz
 lyrics_url: https://www.musixmatch.com/lyrics/Luniz/I-Got-5-on-It-2
 name: I Got 5 On It
@@ -107,6 +110,8 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1995-11-25'
+release_year: 1995
+runtime: 253533
 ---
 Creep on in... on in...
 See I'm riding high

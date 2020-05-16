@@ -1,8 +1,11 @@
 ---
+album: Only Built 4 Cuban Linx
 artists:
 - Raekwon
+external_ids:
+  spotify: spotify:track:3SL3GG9Bs7m1s9aqhjCeIa
 features: []
-genres: []
+first_released_as_single: false
 key: incarcerated-scarfaces-raekwon
 lyrics_url: https://www.azlyrics.com/lyrics/raekwon/incarceratedscarfaces.html
 name: Incarcerated Scarfaces
@@ -79,9 +82,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1996-02-10'
+release_year: 1995
+runtime: 282666
 ---
-
-
 He looks determined without being ruthless
 Something heroic in this man, there's a courage about him
 Doesn't look like a killer
@@ -178,6 +181,3 @@ Like a 27-inch Zenith - believe it!
 
 ...politic ditto
 ...get lifted in the staircases
-
-
-

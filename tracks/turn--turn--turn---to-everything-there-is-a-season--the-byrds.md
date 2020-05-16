@@ -1,8 +1,11 @@
 ---
+album: Turn! Turn! Turn!
 artists:
 - The Byrds
+external_ids:
+  spotify: spotify:track:1Qm48RK633q7bJkRmPaJUk
 features: []
-genres: []
+first_released_as_single: false
 key: turn--turn--turn---to-everything-there-is-a-season--the-byrds
 lyrics_url: https://genius.com/The-byrds-turn-turn-turn-to-everything-there-is-a-season-lyrics
 name: Turn! Turn! Turn! (To Everything There Is A Season)
@@ -63,6 +66,8 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '1966-01-22'
+release_year: 1959
+runtime: 214026
 ---
 To Everything (Turn, Turn, Turn)
 There is a season (Turn, Turn, Turn)

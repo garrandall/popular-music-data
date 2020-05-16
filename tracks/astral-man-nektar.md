@@ -1,8 +1,11 @@
 ---
+album: Down to Earth
 artists:
 - Nektar
+external_ids:
+  spotify: spotify:track:3qn9axf7PkDhdU8SUHVgWZ
 features: []
-genres: []
+first_released_as_single: false
 key: astral-man-nektar
 lyrics_url: https://www.musixmatch.com/lyrics/Nektar/Astral-Man
 name: Astral Man
@@ -27,6 +30,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1975-06-07'
+release_year: 1974
+runtime: 195346
 ---
 Back in town with the biggest show around
 Strike up with the band

@@ -1,8 +1,11 @@
 ---
+album: A Lot About Livin' (And A Little 'Bout Love)
 artists:
 - Alan Jackson
+external_ids:
+  spotify: spotify:track:2LbOTztU3giUjjYmgtKgj3
 features: []
-genres: []
+first_released_as_single: false
 key: chattahoochee-alan-jackson
 lyrics_url: https://www.azlyrics.com/lyrics/alanjackson/chattahoochee.html
 name: Chattahoochee
@@ -87,8 +90,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1993-11-20'
+release_year: 1989
+runtime: 237266
 ---
-
 Well, way down yonder on the Chattahoochee
 It gets hotter than a hoochie coochie
 We laid rubber on the Georgia asphalt
@@ -148,6 +152,3 @@ A lot about livin' and a little 'bout love.
 Ya he
 
 That's right...
-
-
-

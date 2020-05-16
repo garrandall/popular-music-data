@@ -1,8 +1,11 @@
 ---
+album: In The Summertime
 artists:
 - Sam The Sham and the Pharaohs
+external_ids:
+  spotify: spotify:track:2XkuSbp5say8nZW8g6156Z
 features: []
-genres: []
+first_released_as_single: false
 key: wooly-bully-sam-the-sham-and-the-pharaohs
 lyrics_url: https://www.azlyrics.com/lyrics/samtheshamandthepharaohs/woolybully.html
 name: Wooly Bully
@@ -79,8 +82,9 @@ rankings:
   rank: 36
   ranking_list: Billboard Hot 100
   start_date: '1965-07-31'
+release_year: 1965
+runtime: 140866
 ---
-
 Uno, dos
 One, two, tres, quatro
 
@@ -98,6 +102,3 @@ Matty told Hatty: "That's the thing to do
 Get you someone really to pull the wool with you."
 Wooly bully, wooly bully
 Wooly bully, wooly bully, wooly bully
-
-
-

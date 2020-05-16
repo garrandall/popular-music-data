@@ -1,8 +1,11 @@
 ---
+album: Born In The U.S.A.
 artists:
 - Bruce Springsteen
+external_ids:
+  spotify: spotify:track:6dahFmHrgncgVJjsI1ws7e
 features: []
-genres: []
+first_released_as_single: false
 key: my-hometown-bruce-springsteen
 lyrics_url: https://www.azlyrics.com/lyrics/brucespringsteen/myhometown.html
 name: My Hometown
@@ -67,8 +70,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1986-03-15'
+release_year: 1984
+runtime: 279666
 ---
-
 I was eight years old and running with a dime in my hand
 Into the bus stop to pick up a paper for my old man
 I'd sit on his lap in that big old Buick and steer as we drove through town
@@ -101,6 +105,3 @@ Packing up our bags maybe heading south
 I'm thirty-five we got a boy of our own now
 Last night I sat him up behind the wheel and said son take a good look around
 This is your hometown
-
-
-

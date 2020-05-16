@@ -1,8 +1,11 @@
 ---
+album: Let's Dance
 artists:
 - David Bowie
+external_ids:
+  spotify: spotify:track:2UQysLoUc6IjcSZUYrRhsA
 features: []
-genres: []
+first_released_as_single: true
 key: cat-people--putting-out-fire--david-bowie
 lyrics_url: https://www.azlyrics.com/lyrics/davidbowie/catpeopleputtingoutthefire.html
 name: Cat People (Putting Out Fire)
@@ -47,8 +50,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1982-06-19'
+release_year: 1982
+runtime: 309733
 ---
-
 See these eyes so green
 I can stare for a thousand years
 Colder than the moon
@@ -114,6 +118,3 @@ Well, I've been putting out fire
 Been so long so long so long
 Well, I've been putting out fire
 Been so long so long so long
-
-
-

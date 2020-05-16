@@ -1,8 +1,11 @@
 ---
+album: Garcia
 artists:
 - Jerry Garcia
+external_ids:
+  spotify: spotify:track:4XoYeolVYTiddO9wZLXLgl
 features: []
-genres: []
+first_released_as_single: false
 key: sugaree-jerry-garcia
 lyrics_url: https://www.musixmatch.com/lyrics/Jerry-Garcia/Sugaree
 name: Sugaree
@@ -15,6 +18,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1972-04-22'
+release_year: 1972
+runtime: 352964
 ---
 When they come to take you down, when they bring that wagon 'round,
 When they come to call on you,

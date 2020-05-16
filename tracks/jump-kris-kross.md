@@ -1,8 +1,11 @@
 ---
+album: Totally Krossed Out
 artists:
 - Kris Kross
+external_ids:
+  spotify: spotify:track:5WJHO7exBbJCFhmTVjKY24
 features: []
-genres: []
+first_released_as_single: true
 key: jump-kris-kross
 lyrics_url: https://genius.com/Kris-kross-jump-lyrics
 name: Jump
@@ -91,6 +94,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1992-08-22'
+release_year: 1992
+runtime: 196115
 ---
 (Jump jump)
 You should know, you should know that, ah

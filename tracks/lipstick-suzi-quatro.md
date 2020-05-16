@@ -1,8 +1,11 @@
 ---
+album: Rock Hard
 artists:
 - Suzi Quatro
+external_ids:
+  spotify: spotify:track:0Vi4ZXK6QyFxwBEAzxyEO9
 features: []
-genres: []
+first_released_as_single: false
 key: lipstick-suzi-quatro
 lyrics_url: https://www.azlyrics.com/lyrics/suziquatro/lipstick.html
 name: Lipstick
@@ -43,8 +46,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1981-03-21'
+release_year: 1980
+runtime: 250760
 ---
-
 You broke my heart when you came home with someone else's lipstick on
 You shut the door and climb the stair, your attitude is you could care about me
 When you pull the covers back and climb into the sack, bet you could do without me
@@ -99,6 +103,3 @@ So you better pick up and get out real quick
 With your lipstick
 Your trashy trashy lipstick
 our red and pink and purple lipstick
-
-
-

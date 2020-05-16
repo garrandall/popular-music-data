@@ -1,8 +1,11 @@
 ---
+album: Brazil
 artists:
 - The Ritchie Family
+external_ids:
+  spotify: spotify:track:2ZADySuVICh5a2OOsUN302
 features: []
-genres: []
+first_released_as_single: false
 key: brazil-the-ritchie-family
 lyrics_url: https://genius.com/The-ritchie-family-brazil-lyrics
 name: Brazil
@@ -79,6 +82,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1975-11-29'
+release_year: 1975
+runtime: 312200
 ---
 Yeah...
 

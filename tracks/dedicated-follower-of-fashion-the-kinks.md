@@ -1,8 +1,11 @@
 ---
+album: The Kink Kontroversy
 artists:
 - The Kinks
+external_ids:
+  spotify: spotify:track:1K61z11CzBUxkwOhtSzq2a
 features: []
-genres: []
+first_released_as_single: false
 key: dedicated-follower-of-fashion-the-kinks
 lyrics_url: https://www.azlyrics.com/lyrics/kinks/dedicatedfolloweroffashion.html
 name: Dedicated Follower Of Fashion
@@ -31,8 +34,9 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1966-06-25'
+release_year: 1965
+runtime: 180893
 ---
-
 They seek him here, they seek him there,
 His clothes are loud, but never square.
 It will make or break him so he's got to buy the best,
@@ -69,6 +73,3 @@ In matters of the cloth he is as fickle as can be,
 'Cause he's a dedicated follower of fashion.
 He's a dedicated follower of fashion.
 He's a dedicated follower of fashion.
-
-
-

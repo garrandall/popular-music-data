@@ -1,8 +1,11 @@
 ---
+album: A Place Like This
 artists:
 - Robbie Nevil
+external_ids:
+  spotify: spotify:track:53KuOowV8lWnFhMO4DFSuL
 features: []
-genres: []
+first_released_as_single: false
 key: somebody-like-you-robbie-nevil
 lyrics_url: https://genius.com/Robbie-nevil-somebody-like-you-lyrics
 name: Somebody Like You
@@ -51,6 +54,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1989-05-27'
+release_year: 1988
+runtime: 256706
 ---
 Don't mention where you've been
 Or where you want to go

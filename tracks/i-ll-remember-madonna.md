@@ -1,8 +1,11 @@
 ---
+album: With Honors (Music From The Motion Picture Soundtrack)
 artists:
 - Madonna
+external_ids:
+  spotify: spotify:track:6ds1A1qkYXpXOc4GWw4hVO
 features: []
-genres: []
+first_released_as_single: false
 key: i-ll-remember-madonna
 lyrics_url: https://genius.com/Madonna-ill-remember-lyrics
 name: I'll Remember
@@ -111,6 +114,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1994-09-24'
+release_year: 1994
+runtime: 263813
 ---
 Mmm, mmm
 

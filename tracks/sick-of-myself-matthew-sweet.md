@@ -1,8 +1,11 @@
 ---
+album: 100 % Fun
 artists:
 - Matthew Sweet
+external_ids:
+  spotify: spotify:track:4inXYz8i3xRpNbxZJ99Clo
 features: []
-genres: []
+first_released_as_single: false
 key: sick-of-myself-matthew-sweet
 lyrics_url: https://www.azlyrics.com/lyrics/matthewsweet/sickofmyself.html
 name: Sick Of Myself
@@ -87,8 +90,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1995-10-07'
+release_year: 1995
+runtime: 218560
 ---
-
 You don't know how you move me
 Deconstruct me
 And consume me
@@ -133,6 +137,3 @@ And I'm beginning to think
 Baby you don't know
 And I'm beginning to think
 Baby you don't know
-
-
-

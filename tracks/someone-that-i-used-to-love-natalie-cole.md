@@ -1,8 +1,11 @@
 ---
+album: Don't Look Back
 artists:
 - Natalie Cole
+external_ids:
+  spotify: spotify:track:32nMIZuO9A0TtXq0uI5XWr
 features: []
-genres: []
+first_released_as_single: false
 key: someone-that-i-used-to-love-natalie-cole
 lyrics_url: https://www.azlyrics.com/lyrics/nataliecole/someonethatiusedtolove.html
 name: Someone That I Used To Love
@@ -91,8 +94,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1980-11-08'
+release_year: 1980
+runtime: 246160
 ---
-
 When I wake up each morning trying to find myself
 And if I'm ever the least unsure, I always remind myself
 Though you're someone in this world that I'll always choose to love
@@ -125,6 +129,3 @@ From now on you're only someone that I used to love
 Though you're someone in this world that I'll always choose to love
 From now on you're only someone that I used to love
 From now on you're only someone that I used to love
-
-
-

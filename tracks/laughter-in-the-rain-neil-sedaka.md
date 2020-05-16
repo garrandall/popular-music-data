@@ -1,8 +1,11 @@
 ---
+album: The Definitive Collection
 artists:
 - Neil Sedaka
+external_ids:
+  spotify: spotify:track:2ozTcQyZQmm9tSmc4VZfwU
 features: []
-genres: []
+first_released_as_single: false
 key: laughter-in-the-rain-neil-sedaka
 lyrics_url: https://www.musixmatch.com/lyrics/Neil-Sedaka/Laughter-in-the-Rain
 name: Laughter In The Rain
@@ -87,6 +90,8 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '1975-03-01'
+release_year: 1974
+runtime: 170066
 ---
 Strolling along country roads with my baby
 It starts to rain, it begins to pour

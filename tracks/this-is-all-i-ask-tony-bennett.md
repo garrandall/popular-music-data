@@ -1,8 +1,11 @@
 ---
+album: Alone Together
 artists:
 - Tony Bennett
+external_ids:
+  spotify: spotify:track:3XDOO4xgEZCAwXysxFSIrY
 features: []
-genres: []
+first_released_as_single: false
 key: this-is-all-i-ask-tony-bennett
 lyrics_url: https://www.azlyrics.com/lyrics/tonybennett/thisisalliask.html
 name: This Is All I Ask
@@ -35,8 +38,9 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1963-08-31'
+release_year: 1961
+runtime: 247760
 ---
-
 As I approach the prime of my life
 I find I have the time of my life
 Learning to enjoy at my leisure
@@ -63,6 +67,3 @@ Make my wish come true before the night has flown
 And let the music play
 As long as there's a song to sing
 And I will stay younger than Spring
-
-
-

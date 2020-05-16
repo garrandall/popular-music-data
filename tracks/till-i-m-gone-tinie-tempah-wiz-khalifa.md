@@ -1,9 +1,12 @@
 ---
+album: Disc-Overy
 artists:
 - Tinie Tempah
+external_ids:
+  spotify: spotify:track:4IU4LkwVDUxRIokzHqiyhQ
 features:
 - Wiz Khalifa
-genres: []
+first_released_as_single: false
 key: till-i-m-gone-tinie-tempah-wiz-khalifa
 lyrics_url: https://genius.com/Tinie-tempah-till-im-gone-lyrics
 name: Till I'm Gone
@@ -24,6 +27,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2011-09-10'
+release_year: 2010
+runtime: 213765
 ---
 I grew tired, of the same, then one night, packed my things
 Told the one I love, "I’ll be back one day"

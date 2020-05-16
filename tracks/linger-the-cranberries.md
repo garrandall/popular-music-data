@@ -1,8 +1,11 @@
 ---
+album: Everybody Else Is Doing It, So Why Can't We?
 artists:
 - The Cranberries
+external_ids:
+  spotify: spotify:track:0gEyKnHvgkrkBM6fbeHdwK
 features: []
-genres: []
+first_released_as_single: false
 key: linger-the-cranberries
 lyrics_url: https://www.azlyrics.com/lyrics/cranberries/linger.html
 name: Linger
@@ -103,8 +106,9 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1994-04-02'
+release_year: 1993
+runtime: 274706
 ---
-
 If you, if you could return, don't let it burn, don't let it fade.
 I'm sure I'm not being rude, but it's just your attitude,
 It's tearing me apart, it's ruining every day.
@@ -139,6 +143,3 @@ You know I'm such a fool for you.
 You got me wrapped around your finger, ah, ha, ha.
 Do you have to let it linger? Do you have to, do you have to,
 Do you have to let it linger?
-
-
-

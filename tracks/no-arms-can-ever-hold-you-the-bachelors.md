@@ -1,8 +1,11 @@
 ---
+album: The Bachelors - The Decca Years
 artists:
 - The Bachelors
+external_ids:
+  spotify: spotify:track:2uT6BuZag8YKvaVhaQt0eA
 features: []
-genres: []
+first_released_as_single: false
 key: no-arms-can-ever-hold-you-the-bachelors
 lyrics_url: https://genius.com/The-bachelors-no-arms-can-ever-hold-you-lyrics
 name: No Arms Can Ever Hold You
@@ -47,6 +50,8 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '1965-02-27'
+release_year: 1964
+runtime: 174133
 ---
 No arms can ever hold you like these arms of mine
 No heart can ever love you like this heart of mine

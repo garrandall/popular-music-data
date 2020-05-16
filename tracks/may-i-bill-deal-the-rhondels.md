@@ -1,9 +1,12 @@
 ---
+album: The Heritage / Colossus Story
 artists:
 - Bill Deal
 - The Rhondels
+external_ids:
+  spotify: spotify:track:6dKadknfQZ4iM26eI15oWS
 features: []
-genres: []
+first_released_as_single: false
 key: may-i-bill-deal-the-rhondels
 lyrics_url: https://www.musixmatch.com/lyrics/Bill-Deal-the-Rhondels/May-I
 name: May I
@@ -48,6 +51,8 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1969-03-22'
+release_year: 1969
+runtime: 152426
 ---
 Deal Bill And The Rhondels
 Miscellaneous

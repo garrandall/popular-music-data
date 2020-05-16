@@ -1,8 +1,11 @@
 ---
+album: The Delfonics
 artists:
 - The Delfonics
+external_ids:
+  spotify: spotify:track:6m0r7WzauxafqK0i2U7Avr
 features: []
-genres: []
+first_released_as_single: false
 key: trying-to-make-a-fool-of-me-the-delfonics
 lyrics_url: https://genius.com/The-delfonics-trying-to-make-a-fool-of-me-lyrics
 name: Trying To Make A Fool Of Me
@@ -43,6 +46,8 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1970-08-01'
+release_year: 1970
+runtime: 183973
 ---
 We've been together for so long
 Listen baby, I'm gonna love you right or wrong, hey

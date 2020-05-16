@@ -1,8 +1,11 @@
 ---
+album: Turn Back The Clock
 artists:
 - Johnny Hates Jazz
+external_ids:
+  spotify: spotify:track:0bMG9mHnuAxsb18b2SLAVD
 features: []
-genres: []
+first_released_as_single: false
 key: i-don-t-want-to-be-a-hero-johnny-hates-jazz
 lyrics_url: https://www.musixmatch.com/lyrics/Johnny-Hates-Jazz/I-Don-t-Want-To-Be-A-Hero-2008-Digital-Remaster
 name: I Don't Want To Be A Hero
@@ -55,6 +58,8 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1988-09-24'
+release_year: 1988
+runtime: 217626
 ---
 Oh, send me off to war with a gun in my hand
 But I won't pull the trigger

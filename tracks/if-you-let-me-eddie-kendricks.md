@@ -1,8 +1,11 @@
 ---
+album: People... Hold On
 artists:
 - Eddie Kendricks
+external_ids:
+  spotify: spotify:track:2dcssVSC1OiONrbqAyUTqb
 features: []
-genres: []
+first_released_as_single: false
 key: if-you-let-me-eddie-kendricks
 lyrics_url: https://www.azlyrics.com/lyrics/eddiekendricks/ifyouletme.html
 name: If You Let Me
@@ -39,8 +42,9 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '1972-11-25'
+release_year: 1972
+runtime: 201600
 ---
-
 Baby, I know I blew your mind
 Oh, I just kept hangin' 'round you
 I thought you needed me near, oh yes I did now
@@ -76,6 +80,3 @@ Hey, if you let me, I know I can
 I can build a house on quicksand
 Hey, if you let me, I know I can
 I'll do anything you want me to baby, all you gotta do is let me
-
-
-

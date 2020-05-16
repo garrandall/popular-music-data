@@ -1,8 +1,11 @@
 ---
+album: Warm And Soulful
 artists:
 - Garnet Mimms
+external_ids:
+  spotify: spotify:track:5ye0SF8kP6SufJHzBMISpu
 features: []
-genres: []
+first_released_as_single: false
 key: i-ll-take-good-care-of-you-garnet-mimms
 lyrics_url: https://genius.com/Garnet-mimms-ill-take-good-care-of-you-lyrics
 name: I'll Take Good Care Of You
@@ -43,6 +46,8 @@ rankings:
   rank: 30
   ranking_list: Billboard Hot 100
   start_date: '1966-05-21'
+release_year: 1966
+runtime: 199333
 ---
 I'll take good care of you
 I'll take good care of you

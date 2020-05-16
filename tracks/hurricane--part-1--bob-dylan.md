@@ -1,8 +1,11 @@
 ---
+album: 'The Bootleg Series, Vol. 5 - Bob Dylan Live 1975: The Rolling Thunder Revue'
 artists:
 - Bob Dylan
+external_ids:
+  spotify: spotify:track:0uEsdzuTnMStk8Y0gSN6mE
 features: []
-genres: []
+first_released_as_single: false
 key: hurricane--part-1--bob-dylan
 lyrics_url: https://genius.com/Bob-dylan-hurricane-lyrics
 name: Hurricane (Part 1)
@@ -51,6 +54,8 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1976-02-07'
+release_year: 1975
+runtime: 495400
 ---
 Pistol shots ring out in the barroom night
 Enter Patty Valentine from the upper hall

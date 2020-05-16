@@ -1,8 +1,11 @@
 ---
+album: Hollywood's Bleeding
 artists:
 - Post Malone
+external_ids:
+  spotify: spotify:track:05mDaV9Vb3wrzjF6OPZnhq
 features: []
-genres: []
+first_released_as_single: false
 key: saint-tropez-post-malone
 lyrics_url: https://genius.com/Post-malone-saint-tropez-lyrics
 name: Saint-Tropez
@@ -31,6 +34,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2019-10-26'
+release_year: 2019
+runtime: 150866
 ---
 Oh, yeah, yeah, hey
 

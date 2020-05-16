@@ -1,8 +1,11 @@
 ---
+album: Seven Letters (US Release)
 artists:
 - Ben E. King
+external_ids:
+  spotify: spotify:track:6ZyturJVxqCgEIn62kdqXM
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-all-over-ben-e--king
 lyrics_url: https://genius.com/Ben-e-king-its-all-over-lyrics
 name: It's All Over
@@ -27,6 +30,8 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1964-10-10'
+release_year: 1964
+runtime: 196666
 ---
 Outside her window
 That's where I am

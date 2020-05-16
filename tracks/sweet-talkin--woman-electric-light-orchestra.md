@@ -1,8 +1,11 @@
 ---
+album: Out of the Blue
 artists:
 - Electric Light Orchestra
+external_ids:
+  spotify: spotify:track:3JRNBWyfzYO0oetcn5Tlmq
 features: []
-genres: []
+first_released_as_single: false
 key: sweet-talkin--woman-electric-light-orchestra
 lyrics_url: https://www.azlyrics.com/lyrics/electriclightorchestra/sweettalkinwoman.html
 name: Sweet Talkin' Woman
@@ -71,8 +74,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1978-06-03'
+release_year: 1972
+runtime: 227706
 ---
-
 WHERE DID YOU GO?
 
 I was searchin' SEARCHIN' on a one-way street,
@@ -126,6 +130,3 @@ Slow down SLOW DOWN sweet talkin' woman SLOW DOWN
 You got me runnin', you got me searchin'.
 Hold on HOLD ON sweet talkin' lover HOLD ON
 It's so sad if that's the way it's over.
-
-
-

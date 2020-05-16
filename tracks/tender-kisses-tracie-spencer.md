@@ -1,8 +1,11 @@
 ---
+album: Make The Difference
 artists:
 - Tracie Spencer
+external_ids:
+  spotify: spotify:track:71fcC7BuScQCY40HIiMyal
 features: []
-genres: []
+first_released_as_single: false
 key: tender-kisses-tracie-spencer
 lyrics_url: https://genius.com/Tracie-spencer-tender-kisses-lyrics
 name: Tender Kisses
@@ -87,6 +90,8 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1992-02-29'
+release_year: 1990
+runtime: 328240
 ---
 I'm so confused
 And I think I'm gonna cry tonight

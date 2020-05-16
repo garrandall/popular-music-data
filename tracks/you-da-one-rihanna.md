@@ -1,8 +1,11 @@
 ---
+album: Talk That Talk
 artists:
 - Rihanna
+external_ids:
+  spotify: spotify:track:5rgXQkviG52oqJ2HvbEwli
 features: []
-genres: []
+first_released_as_single: true
 key: you-da-one-rihanna
 lyrics_url: https://genius.com/Rihanna-you-da-one-lyrics
 name: You Da One
@@ -87,6 +90,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '2012-04-07'
+release_year: 2011
+runtime: 231253
 ---
 You da one that I dream about all day
 You da one that I think about always

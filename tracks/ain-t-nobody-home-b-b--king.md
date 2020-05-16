@@ -1,8 +1,11 @@
 ---
+album: In London
 artists:
 - B.B. King
+external_ids:
+  spotify: spotify:track:17A8DulC1HV6o7r25sFOWL
 features: []
-genres: []
+first_released_as_single: false
 key: ain-t-nobody-home-b-b--king
 lyrics_url: https://genius.com/Bb-king-aint-nobody-home-lyrics
 name: Ain't Nobody Home
@@ -55,6 +58,8 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1972-01-29'
+release_year: 1971
+runtime: 194400
 ---
 Once upon a time, a long long time ago, wherever you'd lead me, I would surely follow
 Girl, you put me through some pain and misery

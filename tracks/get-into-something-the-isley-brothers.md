@@ -1,8 +1,11 @@
 ---
+album: Get Into Something
 artists:
 - The Isley Brothers
+external_ids:
+  spotify: spotify:track:46Mfd6s7XqD2T9cts2nZ8F
 features: []
-genres: []
+first_released_as_single: false
 key: get-into-something-the-isley-brothers
 lyrics_url: https://genius.com/The-isley-brothers-get-into-something-lyrics
 name: Get Into Something
@@ -19,6 +22,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1970-10-31'
+release_year: 1970
+runtime: 449786
 ---
 Love, let me know, let me know
 Love, let me know, let me know, let me know

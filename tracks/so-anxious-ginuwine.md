@@ -1,8 +1,11 @@
 ---
+album: 100% Ginuwine
 artists:
 - Ginuwine
+external_ids:
+  spotify: spotify:track:2zbjlcLi1VQWqDNYdhyx1l
 features: []
-genres: []
+first_released_as_single: false
 key: so-anxious-ginuwine
 lyrics_url: https://www.azlyrics.com/lyrics/ginuwine/soanxious.html
 name: So Anxious
@@ -87,9 +90,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1999-11-27'
+release_year: 1999
+runtime: 276066
 ---
-
-
 Nine O' clock, home alone, paging you
 Wishing you'd come over, my place, after while, Let me know
 We can just keep talking 'bout the last time, you were here
@@ -121,4 +124,3 @@ And before we, got to hit the lights
 And before we start the cande lights
 Baby girl, I wanna bump and grind
 This is something that's been on my mind
-

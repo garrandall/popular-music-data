@@ -1,8 +1,11 @@
 ---
+album: Serious Hits...Live!
 artists:
 - Phil Collins
+external_ids:
+  spotify: spotify:track:25wEmZPL5I6TjFqKO8sdkf
 features: []
-genres: []
+first_released_as_single: false
 key: two-hearts-phil-collins
 lyrics_url: https://www.azlyrics.com/lyrics/philcollins/twohearts.html
 name: Two Hearts
@@ -79,8 +82,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1989-03-18'
+release_year: 1988
+runtime: 187640
 ---
-
 Well, there was no reason to believe she'd always be there
 But if you don't put faith in what you believe in
 It's getting you nowhere
@@ -111,6 +115,3 @@ No matter how far apart we are
 She knows, I'm always right there beside her
 
 We're two hearts...
-
-
-

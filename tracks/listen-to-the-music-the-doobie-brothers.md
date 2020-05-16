@@ -1,8 +1,11 @@
 ---
+album: Toulouse Street
 artists:
 - The Doobie Brothers
+external_ids:
+  spotify: spotify:track:7Ar4G7Ci11gpt6sfH9Cgz5
 features: []
-genres: []
+first_released_as_single: false
 key: listen-to-the-music-the-doobie-brothers
 lyrics_url: https://www.azlyrics.com/lyrics/doobiebrothers/listentothemusic.html
 name: Listen To The Music
@@ -59,8 +62,9 @@ rankings:
   rank: 25
   ranking_list: Billboard Hot 100
   start_date: '1972-11-25'
+release_year: 1972
+runtime: 227266
 ---
-
 Don't you feel it growin', day by day
 People gettin' ready for the news
 Some are happy, some are sad
@@ -103,6 +107,3 @@ Oh, oh, listen to the music
 Oh, oh, listen to the music
 Oh, oh, listen to the music
 All the time
-
-
-

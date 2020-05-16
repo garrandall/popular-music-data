@@ -1,8 +1,11 @@
 ---
+album: Mercury Falling
 artists:
 - Sting
+external_ids:
+  spotify: spotify:track:6GOq8NLkTYDFWSlGY9QKfw
 features: []
-genres: []
+first_released_as_single: true
 key: you-still-touch-me-sting
 lyrics_url: https://genius.com/Sting-you-still-touch-me-lyrics
 name: You Still Touch Me
@@ -59,6 +62,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1996-08-10'
+release_year: 1996
+runtime: 229360
 ---
 Another night finds me alone
 In my dreams

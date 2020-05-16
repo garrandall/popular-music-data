@@ -1,8 +1,11 @@
 ---
+album: Three Cheers for Sweet Revenge
 artists:
 - My Chemical Romance
+external_ids:
+  spotify: spotify:track:5dTHtzHFPyi8TlTtzoz1J9
 features: []
-genres: []
+first_released_as_single: false
 key: helena--so-long---goodnight--my-chemical-romance
 lyrics_url: https://www.azlyrics.com/lyrics/mychemicalromance/helena.html
 name: Helena (So Long & Goodnight)
@@ -71,8 +74,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '2005-10-22'
+release_year: 2004
+runtime: 204733
 ---
-
 Long ago
 Just like the hearse, you die to get in again
 We are so far from you
@@ -124,6 +128,3 @@ Well if you carry on this way
 Things are better if I stay
 So long and goodnight
 So long not goodnight
-
-
-

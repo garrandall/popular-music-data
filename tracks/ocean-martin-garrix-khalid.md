@@ -1,9 +1,12 @@
 ---
+album: Ocean
 artists:
 - Martin Garrix
+external_ids:
+  spotify: spotify:track:3nc420PXjTdBV5TN0gCFkS
 features:
 - Khalid
-genres: []
+first_released_as_single: true
 key: ocean-martin-garrix-khalid
 lyrics_url: https://genius.com/Martin-garrix-ocean-martin-garrix-and-cesqeaux-remix-lyrics
 name: Ocean
@@ -28,6 +31,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2018-08-11'
+release_year: 2018
+runtime: 216419
 ---
 Tell me what you're crying for
 I'll wipe your tears, oh love

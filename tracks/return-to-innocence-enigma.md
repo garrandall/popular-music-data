@@ -1,8 +1,11 @@
 ---
+album: The Cross Of Changes
 artists:
 - Enigma
+external_ids:
+  spotify: spotify:track:2UKkLqST2xWpK8n1b0Xr5Z
 features: []
-genres: []
+first_released_as_single: false
 key: return-to-innocence-enigma
 lyrics_url: https://www.azlyrics.com/lyrics/enigma/returntoinnocence.html
 name: Return To Innocence
@@ -111,8 +114,9 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1994-08-27'
+release_year: 1993
+runtime: 255466
 ---
-
 That's not the beginning of the end
 That's the return to yourself
 The return to innocence
@@ -144,6 +148,3 @@ If you want then laugh
 If you must then cry
 Be yourself don't hide
 Just believe in destiny.
-
-
-

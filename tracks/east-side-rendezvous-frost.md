@@ -1,8 +1,11 @@
 ---
+album: Smile Now, Die Later
 artists:
 - Frost
+external_ids:
+  spotify: spotify:track:3GzVpLKf9FHc5SoxhAVPeS
 features: []
-genres: []
+first_released_as_single: false
 key: east-side-rendezvous-frost
 lyrics_url: https://genius.com/Og-kid-frost-east-side-rendezvous-lyrics
 name: East Side Rendezvous
@@ -63,6 +66,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1996-02-03'
+release_year: 1995
+runtime: 273400
 ---
 I just woke up, thank God it's Friday
 Fire up the lac and hit the highway

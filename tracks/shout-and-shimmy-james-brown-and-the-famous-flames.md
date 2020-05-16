@@ -1,7 +1,8 @@
 ---
 artists:
-- James Brown And The Famous Flames
-features: []
+- James Brown
+features:
+- The Famous Flames
 genres: []
 key: shout-and-shimmy-james-brown-and-the-famous-flames
 name: Shout And Shimmy

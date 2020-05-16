@@ -1,8 +1,11 @@
 ---
+album: Queen Of The Pack
 artists:
 - Patra
+external_ids:
+  spotify: spotify:track:25UG07cTvHsMa8EGrBniNo
 features: []
-genres: []
+first_released_as_single: true
 key: worker-man-patra
 lyrics_url: https://genius.com/Patra-worker-man-lyrics
 name: Worker Man
@@ -71,6 +74,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1994-08-13'
+release_year: 1993
+runtime: 237400
 ---
 I have a real man problem
 Gotta find a guy who can solve dem (A real man)

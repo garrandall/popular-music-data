@@ -1,8 +1,11 @@
 ---
+album: With A Lot O' Soul
 artists:
 - The Temptations
+external_ids:
+  spotify: spotify:track:6y8o4V2R2dSt2ijgL8C72W
 features: []
-genres: []
+first_released_as_single: false
 key: -i-know--i-m-losing-you-the-temptations
 lyrics_url: https://genius.com/The-temptations-i-know-im-losing-you-lyrics
 name: (I Know) I'm Losing You
@@ -47,6 +50,8 @@ rankings:
   rank: 38
   ranking_list: Billboard Hot 100
   start_date: '1967-01-21'
+release_year: 1966
+runtime: 149493
 ---
 Your love is fading, I can feel your love fading
 Girl, it's fading away from me

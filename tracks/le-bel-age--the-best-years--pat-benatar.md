@@ -1,8 +1,11 @@
 ---
+album: Seven The Hard Way
 artists:
 - Pat Benatar
+external_ids:
+  spotify: spotify:track:19GaefLZEOL2MrtH7QjXDg
 features: []
-genres: []
+first_released_as_single: false
 key: le-bel-age--the-best-years--pat-benatar
 lyrics_url: https://genius.com/Pat-benatar-le-bel-age-lyrics
 name: Le Bel Age (The Best Years)
@@ -39,6 +42,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1986-04-05'
+release_year: 1985
+runtime: 311600
 ---
 There comes a time, when you should see things clear
 Free from my innocence, there is no circumstance too severe

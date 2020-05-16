@@ -1,9 +1,12 @@
 ---
+album: Layla And Other Assorted Love Songs
 artists:
 - Derek
 - The Dominos
+external_ids:
+  spotify: spotify:track:2kkvB3RNRzwjFdGhaUA0tz
 features: []
-genres: []
+first_released_as_single: false
 key: layla-derek-the-dominos
 lyrics_url: https://www.azlyrics.com/lyrics/derekandthedominos/layla.html
 name: Layla
@@ -108,8 +111,9 @@ rankings:
   rank: 34
   ranking_list: Billboard Hot 100
   start_date: '1972-08-19'
+release_year: 1970
+runtime: 423840
 ---
-
 What'll you do when you get lonely
 But nobody's waiting by your side?
 You've been running and hiding much too long
@@ -154,6 +158,3 @@ Layla
 Darling, won't you ease my worried mind?
 
 Whoo, whoo, whoo...
-
-
-

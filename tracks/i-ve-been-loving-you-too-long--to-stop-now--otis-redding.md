@@ -1,8 +1,11 @@
 ---
+album: 'Otis Blue: Otis Redding Sings Soul'
 artists:
 - Otis Redding
+external_ids:
+  spotify: spotify:track:4pdLyulbYLCrPmDzWWeJIZ
 features: []
-genres: []
+first_released_as_single: false
 key: i-ve-been-loving-you-too-long--to-stop-now--otis-redding
 lyrics_url: https://genius.com/Rafael-lechowski-otis-redding-ive-been-loving-you-too-long-1965-otis-redding-these-arms-of-mine-1964-otis-redding-try-a-little-tenderness-1966-lyrics
 name: I've Been Loving You Too Long (To Stop Now)
@@ -51,6 +54,8 @@ rankings:
   rank: 36
   ranking_list: Billboard Hot 100
   start_date: '1965-07-24'
+release_year: 1965
+runtime: 181666
 ---
 Letra de "Otis Redding - I've Been Loving You Too Long (1965) - Otis Redding - These arms of mine (1964) - Otis Redding - Try a Little Tenderness (1966)"
 

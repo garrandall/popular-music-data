@@ -1,8 +1,11 @@
 ---
+album: Take It While It's Hot
 artists:
 - Sweet Sensation
+external_ids:
+  spotify: spotify:track:4DAr4BlLbgpfUJ7iAwOKK0
 features: []
-genres: []
+first_released_as_single: false
 key: take-it-while-it-s-hot-sweet-sensation
 lyrics_url: https://www.azlyrics.com/lyrics/sweetsensation/takeitwhileitshot.html
 name: Take It While It's Hot
@@ -59,8 +62,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1988-07-02'
+release_year: 1988
+runtime: 299906
 ---
-
 It's time to jam
 
 Ta... ta... ta... ta... take it while it's hot
@@ -99,6 +103,3 @@ Come, come, come, come inside
 Come again
 Come, come, come, come inside
 Can't, can't, can't wait
-
-
-

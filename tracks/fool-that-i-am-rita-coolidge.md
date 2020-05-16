@@ -1,8 +1,11 @@
 ---
+album: Satisfied
 artists:
 - Rita Coolidge
+external_ids:
+  spotify: spotify:track:3wH7W8LKlbW0fapyOifrAC
 features: []
-genres: []
+first_released_as_single: false
 key: fool-that-i-am-rita-coolidge
 lyrics_url: https://www.azlyrics.com/lyrics/ritacoolidge/foolthatiam.html
 name: Fool That I Am
@@ -55,8 +58,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1981-02-28'
+release_year: 1979
+runtime: 188826
 ---
-
 Oh, I tried to make the best of
 All the sweet love that you gave me
 Maybe I'm crazy
@@ -82,6 +86,3 @@ When will I ever know what's true
 And if I found out differently
 Would I still love you?
 Would I still love you?
-
-
-

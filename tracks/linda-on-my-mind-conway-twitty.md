@@ -1,8 +1,11 @@
 ---
+album: Super Hits
 artists:
 - Conway Twitty
+external_ids:
+  spotify: spotify:track:02q9atOyzjCRfk2uUcfqxe
 features: []
-genres: []
+first_released_as_single: false
 key: linda-on-my-mind-conway-twitty
 lyrics_url: https://genius.com/Conway-twitty-linda-on-my-mind-lyrics
 name: Linda On My Mind
@@ -39,6 +42,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1975-04-12'
+release_year: 1975
+runtime: 162693
 ---
 Now I'm lying here with Linda on my mind
 And next to me, my soon-to-be, the one I left behind

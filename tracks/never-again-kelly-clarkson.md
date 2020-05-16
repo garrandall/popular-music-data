@@ -1,8 +1,11 @@
 ---
+album: My December
 artists:
 - Kelly Clarkson
+external_ids:
+  spotify: spotify:track:24y3tSyLdRbpVsKhQrR2oj
 features: []
-genres: []
+first_released_as_single: false
 key: never-again-kelly-clarkson
 lyrics_url: https://genius.com/Kelly-clarkson-never-again-lyrics
 name: Never Again
@@ -71,6 +74,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '2007-08-25'
+release_year: 2007
+runtime: 217293
 ---
 I hope the ring you gave to her turns her finger green
 I hope when you're in bed with her, you think of me

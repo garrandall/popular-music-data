@@ -1,9 +1,12 @@
 ---
+album: So Fine (With Bonus Tracks)
 artists:
 - Loggins
 - Messina
+external_ids:
+  spotify: spotify:track:0H9sMfsRU1ecNuXF1Kweh0
 features: []
-genres: []
+first_released_as_single: false
 key: i-like-it-like-that-loggins-messina
 lyrics_url: https://www.musixmatch.com/lyrics/Loggins-Messina/I-Like-It-Like-That
 name: I Like It Like That
@@ -16,6 +19,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1975-09-06'
+release_year: 1975
+runtime: 186893
 ---
 Come on (come on let me show you where it's at)
 Ah, come on (come on let me show you where it's at)

@@ -1,8 +1,11 @@
 ---
+album: MTV Unplugged - Summer Solstice
 artists:
 - a-ha
+external_ids:
+  spotify: spotify:track:2dvYhaFAna5HvtRNXP93Ge
 features: []
-genres: []
+first_released_as_single: false
 key: the-sun-always-shines-on-tv-a-ha
 lyrics_url: https://genius.com/A-ha-the-sun-always-shines-on-tv-lyrics
 name: The Sun Always Shines on TV
@@ -75,6 +78,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1986-03-22'
+release_year: 1985
+runtime: 306800
 ---
 Touch me, how can it be?
 Believe me the sun always shines on TV

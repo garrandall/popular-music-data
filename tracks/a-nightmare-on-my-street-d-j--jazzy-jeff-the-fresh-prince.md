@@ -1,9 +1,12 @@
 ---
+album: He's The DJ, I'm The Rapper
 artists:
 - D.J. Jazzy Jeff
 - The Fresh Prince
+external_ids:
+  spotify: spotify:track:4LWeKd2YlcHBeqR6oCfF2B
 features: []
-genres: []
+first_released_as_single: false
 key: a-nightmare-on-my-street-d-j--jazzy-jeff-the-fresh-prince
 lyrics_url: https://genius.com/Dj-jazzy-jeff-and-the-fresh-prince-a-nightmare-on-my-street-lyrics
 name: A Nightmare On My Street
@@ -72,6 +75,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1988-11-12'
+release_year: 1987
+runtime: 293480
 ---
 Now I have a story that I'd like to tell
 About this guy you all know him, he had me scared as hell!

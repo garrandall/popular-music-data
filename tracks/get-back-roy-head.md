@@ -1,8 +1,11 @@
 ---
+album: Treat Me Right
 artists:
 - Roy Head
+external_ids:
+  spotify: spotify:track:5gBJHtPgzJ41OO9Kkf0oRJ
 features: []
-genres: []
+first_released_as_single: false
 key: get-back-roy-head
 lyrics_url: https://genius.com/Roy-head-get-back-lyrics
 name: Get Back
@@ -15,6 +18,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1966-01-22'
+release_year: 1966
+runtime: 137720
 ---
 Everybody's talking about the girl in black
 I'm all shook up about the one in slacks

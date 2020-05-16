@@ -1,8 +1,11 @@
 ---
+album: If I Have to Stand Alone
 artists:
 - Lonnie Gordon
+external_ids:
+  spotify: spotify:track:2HtFjMtFpWee0mUxaKOtEt
 features: []
-genres: []
+first_released_as_single: false
 key: happenin--all-over-again-lonnie-gordon
 lyrics_url: https://www.musixmatch.com/lyrics/Lonnie-Gordon/Happenin-All-Over-Again
 name: Happenin' All Over Again
@@ -15,6 +18,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1993-11-20'
+release_year: 1990
+runtime: 196973
 ---
 Oh! Happening all over again
 I was such a fool

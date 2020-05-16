@@ -1,8 +1,11 @@
 ---
+album: Double Fantasy Stripped Down
 artists:
 - John Lennon
+external_ids:
+  spotify: spotify:track:4fKhRRYn7F5shZItjJkPJU
 features: []
-genres: []
+first_released_as_single: false
 key: watching-the-wheels-john-lennon
 lyrics_url: https://www.azlyrics.com/lyrics/johnlennon/watchingthewheels.html
 name: Watching The Wheels
@@ -75,8 +78,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1981-07-18'
+release_year: 1980
+runtime: 239933
 ---
-
 People say I'm crazy doing what I'm doing
 Well they give me all kinds of warnings to save me from ruin
 When I say that I'm o.k. they look at me kind of strange
@@ -103,6 +107,3 @@ I'm just sitting here watching the wheels go round and round
 I really love to watch them roll
 No longer riding on the merry-go-round
 I just had to let it go
-
-
-

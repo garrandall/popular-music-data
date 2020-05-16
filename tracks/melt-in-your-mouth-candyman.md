@@ -1,8 +1,11 @@
 ---
+album: AIN'T NO SHAME IN MY GAME
 artists:
 - Candyman
+external_ids:
+  spotify: spotify:track:4NZblDfUwHQQ4gdoRAefzH
 features: []
-genres: []
+first_released_as_single: false
 key: melt-in-your-mouth-candyman
 lyrics_url: https://genius.com/Candyman-melt-in-your-mouth-lyrics
 name: Melt In Your Mouth
@@ -51,6 +54,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1991-02-23'
+release_year: 1990
+runtime: 276080
 ---
 Mm-hm
 This one goes out

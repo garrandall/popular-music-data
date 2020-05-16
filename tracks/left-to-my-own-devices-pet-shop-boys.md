@@ -1,8 +1,11 @@
 ---
+album: 'Introspective: Further Listening 1988-1989'
 artists:
 - Pet Shop Boys
+external_ids:
+  spotify: spotify:track:6LyUx9Er3DBp0kXy7qQIMs
 features: []
-genres: []
+first_released_as_single: false
 key: left-to-my-own-devices-pet-shop-boys
 lyrics_url: https://www.azlyrics.com/lyrics/petshopboys/lefttomyowndevices.html
 name: Left To My Own Devices
@@ -19,8 +22,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1989-02-11'
+release_year: 1988
+runtime: 497040
 ---
-
 I get out of bed at half past ten
 Phone up a friend, who's a party animal
 Turn on the news and drink some tea 
@@ -79,6 +83,3 @@ And left to my own devices, I probably would
 Left to my own devices, I probably would
 (Come on baby)
 Left to my own devices, I probably would
-
-
-

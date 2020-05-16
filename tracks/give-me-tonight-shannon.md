@@ -1,8 +1,11 @@
 ---
+album: The Best Is Yet To Come
 artists:
 - Shannon
+external_ids:
+  spotify: spotify:track:2959Y9fFpFTL4jHX1qyQti
 features: []
-genres: []
+first_released_as_single: false
 key: give-me-tonight-shannon
 lyrics_url: https://genius.com/Shannon-give-me-tonight-lyrics
 name: Give Me Tonight
@@ -59,6 +62,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1984-06-23'
+release_year: 1984
+runtime: 370000
 ---
 Walking sadly through the park
 I hear crying in the darkness

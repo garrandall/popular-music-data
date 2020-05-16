@@ -1,8 +1,11 @@
 ---
+album: Into The Fire
 artists:
 - Bryan Adams
+external_ids:
+  spotify: spotify:track:2xEhTQcmrRNaxfUOvSAgXo
 features: []
-genres: []
+first_released_as_single: false
 key: heat-of-the-night-bryan-adams
 lyrics_url: https://www.azlyrics.com/lyrics/bryanadams/heatofthenight.html
 name: Heat Of The Night
@@ -71,8 +74,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1987-07-11'
+release_year: 1987
+runtime: 307000
 ---
-
 I was caught in the crossfire of a silent scream 
 Where one man's nightmare is another man's dream 
 Pull the covers up high and pray for the mornin' light 
@@ -94,6 +98,3 @@ Had to pay the piper to call the tune
 Said he'd be back someday - said he'd be back real soon 
 Pull the shades down low - you'll know when the time is right 
 When you're lyin' alone in the heat of the night
-
-
-

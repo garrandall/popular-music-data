@@ -1,8 +1,11 @@
 ---
+album: Wake Up
 artists:
 - Big Mountain
+external_ids:
+  spotify: spotify:track:4JfwY47pEF4y5BJDCPoVGP
 features: []
-genres: []
+first_released_as_single: false
 key: touch-my-light-big-mountain
 lyrics_url: https://genius.com/Big-mountain-touch-my-light-lyrics
 name: Touch My Light
@@ -87,6 +90,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1993-08-21'
+release_year: 1992
+runtime: 280933
 ---
 Oh, yeah
 Li-da-di-da-di-da-di-da

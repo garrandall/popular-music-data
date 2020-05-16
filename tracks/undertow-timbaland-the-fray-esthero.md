@@ -1,10 +1,13 @@
 ---
+album: Shock Value II
 artists:
 - Timbaland
+external_ids:
+  spotify: spotify:track:3gVDntrSjxw2GzBma5M9nG
 features:
 - The Fray
 - Esthero
-genres: []
+first_released_as_single: false
 key: undertow-timbaland-the-fray-esthero
 lyrics_url: https://www.azlyrics.com/lyrics/timbaland/undertow.html
 name: Undertow
@@ -13,8 +16,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2009-11-28'
+release_year: 2009
+runtime: 261533
 ---
-
 I don't wanna talk now
 I don't wanna hear you scream no more
 Want somebody to save me
@@ -77,6 +81,3 @@ We both need air we go alone
 Cause I don't wanna let you go
 I don't wanna let you go
 Cause we're caught in the undertow
-
-
-

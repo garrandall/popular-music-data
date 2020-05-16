@@ -1,8 +1,11 @@
 ---
+album: Up All Night
 artists:
 - Kip Moore
+external_ids:
+  spotify: spotify:track:6Ymvlzom4TQeoKqAWsZRD8
 features: []
-genres: []
+first_released_as_single: false
 key: somethin---bout-a-truck-kip-moore
 lyrics_url: https://www.azlyrics.com/lyrics/kipmoore/somethinboutatruck.html
 name: Somethin' 'Bout A Truck
@@ -87,8 +90,9 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '2012-07-07'
+release_year: 2012
+runtime: 213826
 ---
-
 Somethin bout a truck in a farmers field
 A no trespass sign, and time to kill
 Nobody's gonna get hurt, so what's the big deal
@@ -128,6 +132,3 @@ And there's somethin bout you and me and the birds and the bees
 And lord have mercy, it's a beautiful thing
 Ain't nothin bout it luck, there's somethin bout a truck
 Ain't nothin bout it luck, there's somethin bout a truck
-
-
-

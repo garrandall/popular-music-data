@@ -1,8 +1,11 @@
 ---
+album: Lollipops And Roses
 artists:
 - Paul Petersen
+external_ids:
+  spotify: spotify:track:6sfSU5kFicmASaXll5aDiX
 features: []
-genres: []
+first_released_as_single: false
 key: she-can-t-find-her-keys-paul-petersen
 name: She Can't Find Her Keys
 rankings:
@@ -54,5 +57,7 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '1962-05-19'
+release_year: 1962
+runtime: 150933
 ---
 

@@ -1,8 +1,11 @@
 ---
+album: A Salute To Aaliyah
 artists:
 - Aaliyah
+external_ids:
+  spotify: spotify:track:05lsLgjYZdRg8zus8ljEFp
 features: []
-genres: []
+first_released_as_single: false
 key: are-you-that-somebody--aaliyah
 lyrics_url: https://genius.com/Aaliyah-are-you-that-somebody-lyrics
 name: Are You That Somebody?
@@ -39,6 +42,8 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '1999-01-23'
+release_year: 1998
+runtime: 264080
 ---
 Dirty South, can y'all really feel me
 East Coast, feel me

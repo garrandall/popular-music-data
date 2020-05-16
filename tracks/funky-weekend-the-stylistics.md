@@ -1,8 +1,11 @@
 ---
+album: You Are Beautiful
 artists:
 - The Stylistics
+external_ids:
+  spotify: spotify:track:6azY9eBlhVnZX4hQAbaMsN
 features: []
-genres: []
+first_released_as_single: false
 key: funky-weekend-the-stylistics
 lyrics_url: https://www.musixmatch.com/lyrics/The-Stylistics/Funky-Weekend
 name: Funky Weekend
@@ -43,6 +46,8 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1976-01-31'
+release_year: 1975
+runtime: 196506
 ---
 Monday
 Tuesday
@@ -101,7 +106,6 @@ Funky weekend
 Doo, doo, doo, woo
 Funky weekend
 Doo, doo, doo, woo, woo, woo
-Lyrics courtesy Top40db.
 Funky weekend
 
 Doo, doo, doo

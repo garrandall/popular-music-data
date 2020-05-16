@@ -1,8 +1,11 @@
 ---
+album: (Remember Me) I'm the One That Loves You
 artists:
 - Dean Martin
+external_ids:
+  spotify: spotify:track:1q2RbUwPCCvO97Mx0VygiX
 features: []
-genres: []
+first_released_as_single: false
 key: -remember-me--i-m-the-one-who-loves-you-dean-martin
 lyrics_url: https://genius.com/Dean-martin-remember-me-im-the-one-who-loves-you-lyrics
 name: (Remember Me) I'm The One Who Loves You
@@ -35,6 +38,8 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '1965-07-03'
+release_year: 1965
+runtime: 145320
 ---
 When you're all alone and blue
 No one to tell your troubles to

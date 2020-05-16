@@ -1,8 +1,11 @@
 ---
+album: Gold
 artists:
 - Connie Francis
+external_ids:
+  spotify: spotify:track:1B55nO2Mz6xusn3JfFq9Vx
 features: []
-genres: []
+first_released_as_single: false
 key: vacation-connie-francis
 lyrics_url: https://www.azlyrics.com/lyrics/conniefrancis/vacation.html
 name: Vacation
@@ -43,8 +46,9 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1962-09-22'
+release_year: 1962
+runtime: 142293
 ---
-
 V-A-C-A-T-I-O-N in the summer sun
 
 Put away the books, we're out of school
@@ -81,6 +85,3 @@ V-A-C-A-T-I-O-N, we're gonna have a ball, yeah
 
 
 V-A-C-A-T-I-O-N, (yeah) gonna have a ball
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: I See It Now
 artists:
 - Tracy Lawrence
+external_ids:
+  spotify: spotify:track:4h1oxHwo7BD2Yjv4g6WQ42
 features: []
-genres: []
+first_released_as_single: false
 key: i-see-it-now-tracy-lawrence
 lyrics_url: https://genius.com/Tracy-lawrence-i-see-it-now-lyrics
 name: I See It Now
@@ -43,6 +46,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1994-12-31'
+release_year: 1994
+runtime: 214733
 ---
 It's good to see your face again
 It's been a while

@@ -1,8 +1,11 @@
 ---
+album: 'Trouble Man: 40th Anniversary Expanded Edition'
 artists:
 - Marvin Gaye
+external_ids:
+  spotify: spotify:track:15pYj5ZiUJgBydzD7w6NbJ
 features: []
-genres: []
+first_released_as_single: false
 key: trouble-man-marvin-gaye
 lyrics_url: https://genius.com/Marvin-gaye-trouble-man-lyrics
 name: Trouble Man
@@ -55,6 +58,8 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '1973-03-03'
+release_year: 1972
+runtime: 228640
 ---
 I come up hard, baby, but now I'm cool
 I didn't make it sugar, playing by the rules

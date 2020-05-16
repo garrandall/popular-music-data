@@ -1,8 +1,11 @@
 ---
+album: Ohio Express
 artists:
 - Ohio Express
+external_ids:
+  spotify: spotify:track:5o8qgCODgpjd5RpFpvbPQ3
 features: []
-genres: []
+first_released_as_single: false
 key: down-at-lulu-s-ohio-express
 lyrics_url: https://genius.com/Ohio-express-down-at-lu-lus-lyrics
 name: Down At Lulu's
@@ -43,6 +46,8 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '1968-09-28'
+release_year: 1968
+runtime: 116160
 ---
 See the neon sign
 The kids stand in line

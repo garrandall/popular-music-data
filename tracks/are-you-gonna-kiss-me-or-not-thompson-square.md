@@ -1,8 +1,11 @@
 ---
+album: Thompson Square
 artists:
 - Thompson Square
+external_ids:
+  spotify: spotify:track:49cocrvPF2KWwSsTPGF2gc
 features: []
-genres: []
+first_released_as_single: true
 key: are-you-gonna-kiss-me-or-not-thompson-square
 lyrics_url: https://www.azlyrics.com/lyrics/thompsonsquare/areyougonnakissmeornot.html
 name: Are You Gonna Kiss Me Or Not
@@ -87,8 +90,9 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '2011-05-14'
+release_year: 2010
+runtime: 189546
 ---
-
 We were sittin' up there on your momma's roof
 Talkin' 'bout everything under the moon
 With the smell of honeysuckle and your perfume
@@ -137,6 +141,3 @@ Are you gonna kiss me or not?"
 Yeah baby, I love you a lot
 I really think we've got a shot
 Are you gonna kiss me or not?
-
-
-

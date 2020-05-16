@@ -1,9 +1,12 @@
 ---
+album: Laps Around The Sun
 artists:
 - Chris Lane
+external_ids:
+  spotify: spotify:track:4VvfQcX5xx9EzdY6oMx0ES
 features:
 - Tori Kelly
-genres: []
+first_released_as_single: true
 key: take-back-home-girl-chris-lane-tori-kelly
 lyrics_url: https://www.azlyrics.com/lyrics/chrislane/takebackhomegirl.html
 name: Take Back Home Girl
@@ -56,8 +59,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2018-09-01'
+release_year: 2018
+runtime: 212533
 ---
-
 Duffle bag, backseat
 My dash, your feet
 Those other side of the highway headlights making you shine
@@ -115,6 +119,3 @@ You're a take back home girl
 You're a take back home, yeah
 You're a take back home girl
 You're a take back home
-
-
-

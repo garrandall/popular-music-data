@@ -1,8 +1,11 @@
 ---
+album: 'Songs Of Faith and Devotion: Live'
 artists:
 - Depeche Mode
+external_ids:
+  spotify: spotify:track:77FpV9KHp1nOSkq9shydEC
 features: []
-genres: []
+first_released_as_single: true
 key: i-feel-you-depeche-mode
 lyrics_url: https://genius.com/Depeche-mode-i-feel-you-lyrics
 name: I Feel You
@@ -55,6 +58,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1993-05-22'
+release_year: 1993
+runtime: 276373
 ---
 I feel you, your sun it shines
 I feel you within my mind

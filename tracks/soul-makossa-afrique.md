@@ -1,8 +1,11 @@
 ---
+album: Soul Makossa
 artists:
 - Afrique
+external_ids:
+  spotify: spotify:track:2ydbHknmLDGPvk9CIu2GRg
 features: []
-genres: []
+first_released_as_single: false
 key: soul-makossa-afrique
 name: Soul Makossa
 rankings:
@@ -42,5 +45,7 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1973-08-04'
+release_year: 1973
+runtime: 284571
 ---
 

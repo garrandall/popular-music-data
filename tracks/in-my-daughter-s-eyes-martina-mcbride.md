@@ -1,8 +1,11 @@
 ---
+album: Martina
 artists:
 - Martina McBride
+external_ids:
+  spotify: spotify:track:7LkQBDAiS0GVSO5JQuYDzY
 features: []
-genres: []
+first_released_as_single: false
 key: in-my-daughter-s-eyes-martina-mcbride
 lyrics_url: https://www.azlyrics.com/lyrics/martinamcbride/inmydaughterseyes.html
 name: In My Daughter's Eyes
@@ -71,8 +74,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2004-05-01'
+release_year: 2003
+runtime: 193800
 ---
-
 In my daughter's eyes I am a hero
 I am strong and wise and I know no fear
 But the truth is plain to see
@@ -108,6 +112,3 @@ When I'm gone I hope you see how happy
 she made me
 For I'll be there
 In my daughter's eyes
-
-
-

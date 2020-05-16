@@ -1,8 +1,11 @@
 ---
+album: Herman's Hermits Retrospective
 artists:
 - Herman's Hermits
+external_ids:
+  spotify: spotify:track:3z6m2FukK7Vd5xYrjOLDLR
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-into-something-good-herman-s-hermits
 lyrics_url: https://genius.com/Hermans-hermits-im-into-something-good-lyrics
 name: I'm Into Something Good
@@ -59,6 +62,8 @@ rankings:
   rank: 27
   ranking_list: Billboard Hot 100
   start_date: '1965-01-09'
+release_year: 1964
+runtime: 153506
 ---
 Woke up this morning feelin' fine
 There's something special on my mind

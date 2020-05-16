@@ -1,8 +1,11 @@
 ---
+album: Vacation
 artists:
 - Go-Go's
+external_ids:
+  spotify: spotify:track:0oc7YoWV783fGr2GbdcIrz
 features: []
-genres: []
+first_released_as_single: false
 key: vacation-go-go-s
 lyrics_url: https://genius.com/The-go-gos-vacation-lyrics
 name: Vacation
@@ -63,6 +66,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1982-10-02'
+release_year: 1982
+runtime: 179826
 ---
 Can't seem to get my mind off of you
 Back here at home there's nothin' to do, oh

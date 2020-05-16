@@ -1,8 +1,11 @@
 ---
+album: Welcome To The Pleasuredome
 artists:
 - Frankie Goes To Hollywood
+external_ids:
+  spotify: spotify:track:5NN5MQyE3Lo91zAEHpGa7S
 features: []
-genres: []
+first_released_as_single: false
 key: two-tribes-frankie-goes-to-hollywood
 lyrics_url: https://www.azlyrics.com/lyrics/frankiegoestohollywood/twotribes.html
 name: Two Tribes
@@ -67,8 +70,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1985-01-26'
+release_year: 1984
+runtime: 208133
 ---
-
 Ladies and gentlemen, let me present-
 FRANKIE GOES TO HOLLYWOOD
 Possibly the most important thing.
@@ -114,6 +118,3 @@ Yeah
 
 When two tribes go to war
 A point is all you can score
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Chapel of Love
 artists:
 - The Dixie Cups
+external_ids:
+  spotify: spotify:track:09gknDR3a0YmcLsuGUswQr
 features: []
-genres: []
+first_released_as_single: false
 key: you-should-have-seen-the-way-he-looked-at-me-the-dixie-cups
 lyrics_url: https://genius.com/The-dixie-cups-you-should-have-seen-the-way-he-looked-at-me-lyrics
 name: You Should Have Seen The Way He Looked At Me
@@ -31,6 +34,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1964-11-28'
+release_year: 1964
+runtime: 149581
 ---
 I saw him at the party
 Standing in the corner

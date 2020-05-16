@@ -1,8 +1,11 @@
 ---
+album: If You're Reading This It's Too Late
 artists:
 - Drake
+external_ids:
+  spotify: spotify:track:3a8tAZFJxlmBwOtrf5L1oC
 features: []
-genres: []
+first_released_as_single: false
 key: 6-god-drake
 lyrics_url: https://genius.com/Drake-6-god-lyrics
 name: 6 God
@@ -11,6 +14,8 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '2015-03-07'
+release_year: 2015
+runtime: 180666
 ---
 Rrrr Ting (Brrt, brrt)
 

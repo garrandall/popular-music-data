@@ -1,8 +1,11 @@
 ---
+album: Tidal
 artists:
 - Fiona Apple
+external_ids:
+  spotify: spotify:track:6PNvv1dmDbOWrAYwEcuKBX
 features: []
-genres: []
+first_released_as_single: false
 key: criminal-fiona-apple
 lyrics_url: https://www.azlyrics.com/lyrics/fionaapple/criminal.html
 name: Criminal
@@ -87,8 +90,9 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '1998-02-14'
+release_year: 1996
+runtime: 341533
 ---
-
 I've been a bad bad girl
 I've been careless
 With a delicate man
@@ -178,6 +182,3 @@ I've sinned against
 
 Because he's all
 I ever knew of love
-
-
-

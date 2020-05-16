@@ -1,8 +1,11 @@
 ---
+album: Bump City
 artists:
 - Tower Of Power
+external_ids:
+  spotify: spotify:track:0LDauNxnqI5nsyCa2Xsc5W
 features: []
-genres: []
+first_released_as_single: false
 key: you-re-still-a-young-man-tower-of-power
 lyrics_url: https://genius.com/Tower-of-power-youre-still-a-young-man-lyrics
 name: You're Still A Young Man
@@ -55,6 +58,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1972-09-30'
+release_year: 1972
+runtime: 337040
 ---
 You're still a young man
 Baby, Oo oo, don't waste your time

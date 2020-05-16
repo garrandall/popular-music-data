@@ -1,8 +1,11 @@
 ---
+album: Checkin' In With Don Covay
 artists:
 - Don Covay
+external_ids:
+  spotify: spotify:track:36niT2HXP2YHegRFJefwzR
 features: []
-genres: []
+first_released_as_single: false
 key: i-was-checkin--out-she-was-checkin--in-don-covay
 lyrics_url: https://genius.com/Don-covay-i-was-checkin-out-she-was-checkin-in-lyrics
 name: I Was Checkin' Out She Was Checkin' In
@@ -47,6 +50,8 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '1973-09-08'
+release_year: 1973
+runtime: 262733
 ---
 Spoken:
 I just got finished given the hotel
@@ -114,7 +119,7 @@ Yes, he did, yeah-yeah
 The same room I was in (yeah)
 Umm!, what a terrible blow it was
 (Such a terrible, terrible, terrible thing it was)
-FADES-
+
 What a terrible thing
 To do to a man, yeah-yeah
 She was smilin'

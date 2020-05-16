@@ -1,8 +1,11 @@
 ---
+album: Every Beat of My Heart
 artists:
 - Gladys Knight And The Pips
+external_ids:
+  spotify: spotify:track:7zxlcRmVNqvAJbZoh9EgcZ
 features: []
-genres: []
+first_released_as_single: false
 key: giving-up-gladys-knight-and-the-pips
 lyrics_url: https://genius.com/Gladys-knight-and-the-pips-giving-up-lyrics
 name: Giving Up
@@ -47,6 +50,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1964-07-11'
+release_year: 1964
+runtime: 184000
 ---
 Givin up is hard to do
 When you really love someone

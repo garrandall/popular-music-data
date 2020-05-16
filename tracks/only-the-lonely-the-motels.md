@@ -1,8 +1,11 @@
 ---
+album: All Four One
 artists:
 - The Motels
+external_ids:
+  spotify: spotify:track:1BZMMt9H0TheQGWQy44KmO
 features: []
-genres: []
+first_released_as_single: false
 key: only-the-lonely-the-motels
 lyrics_url: https://genius.com/The-motels-only-the-lonely-lyrics
 name: Only The Lonely
@@ -99,6 +102,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1982-09-25'
+release_year: 1982
+runtime: 196200
 ---
 We walked the loneliest mile
 We smiled without any style

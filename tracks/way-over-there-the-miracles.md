@@ -1,8 +1,11 @@
 ---
+album: Hi We're The Miracles
 artists:
 - The Miracles
+external_ids:
+  spotify: spotify:track:6RbzGVtDFRkBhbjm4wlmcZ
 features: []
-genres: []
+first_released_as_single: false
 key: way-over-there-the-miracles
 lyrics_url: https://genius.com/The-miracles-way-over-there-lyrics
 name: Way Over There
@@ -19,6 +22,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1962-09-29'
+release_year: 1961
+runtime: 176293
 ---
 I've got a lover way over there on the mountainside
 And I know that's where I should be

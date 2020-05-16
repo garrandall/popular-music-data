@@ -1,8 +1,11 @@
 ---
+album: Murmur
 artists:
 - R.E.M.
+external_ids:
+  spotify: spotify:track:46dGFTD918NMz1IP1rPJXO
 features: []
-genres: []
+first_released_as_single: false
 key: radio-free-europe-r-e-m-
 lyrics_url: https://www.azlyrics.com/lyrics/rem/radiofreeeurope.html
 name: Radio Free Europe
@@ -27,8 +30,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1983-08-20'
+release_year: 1983
+runtime: 245200
 ---
-
 Decide yourself if radio's gonna stay
 Reason: it could polish up the gray
 Put that, put that, put that up your wall
@@ -74,6 +78,3 @@ Calling out in transit
 Calling out in transit
 Radio Free Europe
 Radio Free Europe
-
-
-

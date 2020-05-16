@@ -1,8 +1,11 @@
 ---
+album: Station To Station (2016 Remastered Version)
 artists:
 - David Bowie
+external_ids:
+  spotify: spotify:track:5oR2dGPNuNJ3ApZjQ2zUwN
 features: []
-genres: []
+first_released_as_single: false
 key: golden-years-david-bowie
 lyrics_url: https://www.azlyrics.com/lyrics/davidbowie/goldenyears.html
 name: Golden Years
@@ -91,8 +94,9 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '1976-05-01'
+release_year: 1975
+runtime: 243280
 ---
-
 Golden years, gold, whop, whop, whop
 Golden years, gold, whop, whop, whop
 Golden years, gold, whop, whop, whop
@@ -157,7 +161,4 @@ Run for the shadows in these golden years
 
 I'll stick with you baby for a thousand years
 Nothing's gonna touch you in these golden years, gold
-Golden years, gold whop whop whop 
-
-
-
+Golden years, gold whop whop whop

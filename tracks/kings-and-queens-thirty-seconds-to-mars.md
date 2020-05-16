@@ -1,8 +1,11 @@
 ---
+album: This Is War
 artists:
 - Thirty Seconds To Mars
+external_ids:
+  spotify: spotify:track:4sjLcE0GQ6urc4iUXsUPe9
 features: []
-genres: []
+first_released_as_single: false
 key: kings-and-queens-thirty-seconds-to-mars
 lyrics_url: https://genius.com/Thirty-seconds-to-mars-kings-and-queens-lyrics
 name: Kings And Queens
@@ -27,6 +30,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2010-01-09'
+release_year: 2009
+runtime: 347666
 ---
 Oh, oh oh
 Oh, oh oh

@@ -1,9 +1,12 @@
 ---
+album: Nothing but the Beat 2.0
 artists:
 - David Guetta
+external_ids:
+  spotify: spotify:track:3edtfOPItUNifLGYHIH1Oj
 features:
 - Jennifer Hudson
-genres: []
+first_released_as_single: false
 key: night-of-your-life-david-guetta-jennifer-hudson
 lyrics_url: https://www.azlyrics.com/lyrics/davidguetta/nightofyourlife.html
 name: Night Of Your Life
@@ -12,9 +15,9 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '2011-09-10'
+release_year: 2011
+runtime: 221973
 ---
-
-
 Boy I see ya, looking at me
 I feel your eyes on me, like you gotta have me
 Watching every move, like it's for you
@@ -76,6 +79,3 @@ Then I will promise you the night of your life
 Night of your life, life, life
 Night of your life, life, life
 Night of your life, life, life
-
-
-

@@ -1,9 +1,12 @@
 ---
+album: Sigh No More
 artists:
 - Mumford
 - Sons
+external_ids:
+  spotify: spotify:track:6JnufVNLIO5F5Lk4sEVLeI
 features: []
-genres: []
+first_released_as_single: false
 key: little-lion-man-mumford-sons
 lyrics_url: https://genius.com/Mumford-and-sons-little-lion-man-lyrics
 name: Little Lion Man
@@ -96,6 +99,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '2011-03-05'
+release_year: 2009
+runtime: 246973
 ---
 Weep for yourself, my man
 You'll never be what is in your heart

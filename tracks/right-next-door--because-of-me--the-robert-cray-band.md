@@ -1,8 +1,11 @@
 ---
+album: Cookin' In Mobile
 artists:
 - The Robert Cray Band
+external_ids:
+  spotify: spotify:track:0y5l0ZsjvviVFX0EPyVguL
 features: []
-genres: []
+first_released_as_single: false
 key: right-next-door--because-of-me--the-robert-cray-band
 name: Right Next Door (Because Of Me)
 rankings:
@@ -30,5 +33,7 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1987-06-20'
+release_year: 1987
+runtime: 394346
 ---
 

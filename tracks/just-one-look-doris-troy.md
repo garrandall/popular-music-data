@@ -1,8 +1,11 @@
 ---
+album: Sings Just One Look And Other Memorable Selections
 artists:
 - Doris Troy
+external_ids:
+  spotify: spotify:track:154uJXAUVoqvV5on0w03a0
 features: []
-genres: []
+first_released_as_single: false
 key: just-one-look-doris-troy
 lyrics_url: https://genius.com/Doris-troy-just-one-look-lyrics
 name: Just One Look
@@ -63,6 +66,8 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1963-09-07'
+release_year: 1963
+runtime: 151906
 ---
 Just one look and I fell so hard
 In love with you

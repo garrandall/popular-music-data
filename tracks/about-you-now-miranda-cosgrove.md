@@ -1,8 +1,11 @@
 ---
+album: iCarly - Music From and Inspired by the Hit TV Show
 artists:
 - Miranda Cosgrove
+external_ids:
+  spotify: spotify:track:3oRMeMMJ1xUhBBpy2iGE2g
 features: []
-genres: []
+first_released_as_single: false
 key: about-you-now-miranda-cosgrove
 lyrics_url: https://www.azlyrics.com/lyrics/mirandacosgrove/aboutyounow.html
 name: About You Now
@@ -23,8 +26,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2009-01-31'
+release_year: 2008
+runtime: 190560
 ---
-
 Maybe I'm wrong, you decide
 Should've been strong, yeah I lied
 Nobody gets me like...you
@@ -74,6 +78,3 @@ But I know how I feel about you now
 
 But I know how I feel about you now
 Yeah I know how I feel about you now
-
-
-

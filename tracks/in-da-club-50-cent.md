@@ -1,8 +1,11 @@
 ---
+album: Get Rich Or Die Tryin'
 artists:
 - 50 Cent
+external_ids:
+  spotify: spotify:track:4RY96Asd9IefaL3X4LOLZ8
 features: []
-genres: []
+first_released_as_single: false
 key: in-da-club-50-cent
 lyrics_url: https://www.musixmatch.com/lyrics/50-Cent/In-da-Club
 name: In Da Club
@@ -127,6 +130,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '2003-08-02'
+release_year: 2003
+runtime: 193466
 ---
 Go, go, go, go, go, go
 Go, shorty

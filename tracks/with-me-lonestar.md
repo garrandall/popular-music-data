@@ -1,8 +1,11 @@
 ---
+album: I'm Already There
 artists:
 - Lonestar
+external_ids:
+  spotify: spotify:track:61XldWSH5dFwosPZToxNOf
 features: []
-genres: []
+first_released_as_single: false
 key: with-me-lonestar
 lyrics_url: https://genius.com/Lonestar-with-me-lyrics
 name: With Me
@@ -67,6 +70,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2002-02-02'
+release_year: 2001
+runtime: 231840
 ---
 Sometimes I feel just like a fly in a soup bowl
 Sometimes I feel like I'm on top of the heap

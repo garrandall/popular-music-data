@@ -1,8 +1,11 @@
 ---
+album: Dance Like You Don't Give A....Greatest Remixes
 artists:
 - LeAnn Rimes
+external_ids:
+  spotify: spotify:track:6j5Hb0AqZ0oQPV71A0tEVk
 features: []
-genres: []
+first_released_as_single: true
 key: nothin--better-to-do-leann-rimes
 lyrics_url: https://www.azlyrics.com/lyrics/leannrimes/nothinbettertodo.html
 name: Nothin' Better To Do
@@ -59,8 +62,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2008-01-05'
+release_year: 2007
+runtime: 476293
 ---
-
 Hung my cotton dress on rusted wire
 Up there on Pelahatchie bridge
 Just a crazy roughnecks daughter
@@ -105,6 +109,3 @@ Devil's handy work"
 Oh the trouble you'll get into
 When you got nothin' better to do, got nothing better to
 yeah, yeah, yeah, yeah
-
-
-

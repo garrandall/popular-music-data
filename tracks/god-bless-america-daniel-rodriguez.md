@@ -1,8 +1,11 @@
 ---
+album: The Spirit Of America
 artists:
 - Daniel Rodriguez
+external_ids:
+  spotify: spotify:track:075DlN1s3ii0KiN9MIXDjW
 features: []
-genres: []
+first_released_as_single: false
 key: god-bless-america-daniel-rodriguez
 lyrics_url: https://genius.com/Daniel-rodriguez-god-bless-america-lyrics
 name: God Bless America
@@ -15,6 +18,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2002-01-05'
+release_year: 2001
+runtime: 168146
 ---
 "God Bless America"
 By Irving Berlin
@@ -31,11 +36,3 @@ From the mountains, to the prairies
 To the oceans white with foam
 God Bless America, my home sweet home
 God Bless America, my home sweet home
-
-© Copyright 1938, 1939 by Irving Berlin
-© Copyright Renewed 1965, 1966 by Irving Berlin
-© Copyright assigned to the Trustees of the God Bless America Fund
-International Copyright Secured. All Rights Reserved
-Used by Permission of the God Bless America Fund
-
-All administrative rights controlled by Irving Berlin Music Company

@@ -1,8 +1,11 @@
 ---
+album: The Funk Essentials 12" Collection And More
 artists:
 - Central Line
+external_ids:
+  spotify: spotify:track:3S1HQf9rj1iHF0NIaiJ2vQ
 features: []
-genres: []
+first_released_as_single: false
 key: walking-into-sunshine-central-line
 lyrics_url: https://genius.com/Central-line-walking-into-sunshine-lyrics
 name: Walking Into Sunshine
@@ -31,6 +34,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1981-12-19'
+release_year: 1981
+runtime: 474040
 ---
 Too much rainy days, rainy days
 Found so much lazy ways, lazy ways

@@ -1,8 +1,11 @@
 ---
+album: The Best of The Kingsmen
 artists:
 - The Kingsmen
+external_ids:
+  spotify: spotify:track:1O44CWBo8UGvxj4QN4CJtb
 features: []
-genres: []
+first_released_as_single: false
 key: little-latin-lupe-lu-the-kingsmen
 lyrics_url: https://genius.com/The-kingsmen-little-latin-lupe-lu-lyrics
 name: Little Latin Lupe Lu
@@ -43,6 +46,8 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '1964-09-05'
+release_year: 1964
+runtime: 147330
 ---
 Talkin' bout my baby
 Ah, Little Latin Lupe Lu

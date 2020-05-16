@@ -1,8 +1,11 @@
 ---
+album: I'm Alright
 artists:
 - Jo Dee Messina
+external_ids:
+  spotify: spotify:track:0MjT9xQqJrQlNrkWKZgFbQ
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-alright-jo-dee-messina
 lyrics_url: https://genius.com/Jo-dee-messina-im-alright-lyrics
 name: I'm Alright
@@ -103,6 +106,8 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '1998-09-05'
+release_year: 1998
+runtime: 199040
 ---
 Well, it's been a long time, glad to see your face
 I knew we'd meet again, another time, another place

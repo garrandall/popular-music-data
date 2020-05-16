@@ -1,8 +1,11 @@
 ---
+album: Totally Live At The Whisky A Go Go
 artists:
 - Johnny Rivers
+external_ids:
+  spotify: spotify:track:6yX841rKMt1W84juWktS1A
 features: []
-genres: []
+first_released_as_single: false
 key: midnight-special-johnny-rivers
 lyrics_url: https://www.azlyrics.com/lyrics/johnnyrivers/midnightspecial.html
 name: Midnight Special
@@ -39,8 +42,9 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1965-03-27'
+release_year: 1965
+runtime: 152066
 ---
-
 You get up in the mornin', you hear the ding dong ring
 Now you look up on the table, you see the same darn thing
 You find no food upon the table and no pork up in the pan
@@ -66,6 +70,3 @@ So, let the Midnight Special shine a light on me
 Ah, let the Midnight Special shine its everlovin' light on me
 I said, let the Midnight Special shine a light on me
 Ah, let the Midnight Special shine its everlovin' light on me
-
-
-

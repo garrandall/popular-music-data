@@ -1,8 +1,11 @@
 ---
+album: Championships
 artists:
 - Meek Mill
+external_ids:
+  spotify: spotify:track:3mOtSekvhygYwRfgKFrFUm
 features: []
-genres: []
+first_released_as_single: false
 key: championships-meek-mill
 lyrics_url: https://www.azlyrics.com/lyrics/meekmill/championships.html
 name: Championships
@@ -11,8 +14,9 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '2018-12-15'
+release_year: 2018
+runtime: 261742
 ---
-
 Yeah, uh
 
 All the youngins in my hood popping percs now
@@ -84,6 +88,3 @@ See comin' from where I come from
 We had to beat the streets
 Beat the system, beat racism, beat poverty
 And now we made it through all that we at the championship
-
-
-

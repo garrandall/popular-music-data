@@ -1,9 +1,12 @@
 ---
+album: Yours Truly
 artists:
 - Ariana Grande
 - Nathan Sykes
+external_ids:
+  spotify: spotify:track:63bo7NDoWdMFXufhsYOxwG
 features: []
-genres: []
+first_released_as_single: false
 key: almost-is-never-enough-ariana-grande-nathan-sykes
 lyrics_url: https://www.azlyrics.com/lyrics/arianagrande/almostisneverenough.html
 name: Almost Is Never Enough
@@ -16,8 +19,9 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '2013-09-21'
+release_year: 2013
+runtime: 327773
 ---
-
 I'd like to say we gave it a try
 I'd like to blame it all on life
 Maybe we just weren't right, but that's a lie, that's a lie
@@ -82,6 +86,3 @@ But almost is never enough
 Oh, oh baby, you know, you know, baby
 Almost is never enough baby
 You know
-
-
-

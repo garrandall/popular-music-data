@@ -1,8 +1,11 @@
 ---
+album: The Definitive Collection
 artists:
 - Bill Anderson
+external_ids:
+  spotify: spotify:track:0R6PIalA9f5AQgD6DQk5gz
 features: []
-genres: []
+first_released_as_single: false
 key: 8-x-10-bill-anderson
 lyrics_url: https://genius.com/Bill-anderson-8-x-10-lyrics
 name: 8 X 10
@@ -31,6 +34,8 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '1963-09-28'
+release_year: 1963
+runtime: 167440
 ---
 (Eight by ten eight by ten)
 All that's left of all our love now

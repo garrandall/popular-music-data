@@ -1,8 +1,11 @@
 ---
+album: Wish Someone Would Care
 artists:
 - Irma Thomas
+external_ids:
+  spotify: spotify:track:03OYZ1kdXOMNlLvCK1PDp8
 features: []
-genres: []
+first_released_as_single: false
 key: wish-someone-would-care-irma-thomas
 lyrics_url: https://genius.com/Irma-thomas-coming-from-behind-wish-someone-would-care-lyrics
 name: Wish Someone Would Care
@@ -55,6 +58,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1964-06-13'
+release_year: 1964
+runtime: 140840
 ---
 In all of the travels I've had
 Town to town, country to country

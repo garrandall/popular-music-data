@@ -1,8 +1,11 @@
 ---
+album: Scars & Stories
 artists:
 - The Fray
+external_ids:
+  spotify: spotify:track:2atYprr9JsQaLynGhrWhld
 features: []
-genres: []
+first_released_as_single: false
 key: heartbeat-the-fray
 lyrics_url: https://www.azlyrics.com/lyrics/fray/heartbeat.html
 name: Heartbeat
@@ -79,8 +82,9 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '2012-03-03'
+release_year: 2011
+runtime: 220693
 ---
-
 We're on an open bed truck on the highway
 The rain is coming down and we're on the run
 Think I can feel the breath in your body
@@ -131,6 +135,3 @@ Oh, I feel your heartbeat
 
 Oh yeah, oh yeah
 Heartbeat
-
-
-

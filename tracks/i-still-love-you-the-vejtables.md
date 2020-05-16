@@ -1,8 +1,11 @@
 ---
+album: San Francisco Roots
 artists:
 - The Vejtables
+external_ids:
+  spotify: spotify:track:7fXh4icLDmF7Ysj1yyrhj0
 features: []
-genres: []
+first_released_as_single: false
 key: i-still-love-you-the-vejtables
 lyrics_url: https://genius.com/The-vejtables-i-still-love-you-lyrics
 name: I Still Love You
@@ -23,6 +26,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1965-11-13'
+release_year: 1965
+runtime: 142840
 ---
 I still love you even though I know I shouldn't
 I still want you even though I know it wouldn't

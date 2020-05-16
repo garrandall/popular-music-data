@@ -1,8 +1,11 @@
 ---
+album: Spirit
 artists:
 - John Denver
+external_ids:
+  spotify: spotify:track:79Z4DYnh11GpT3i6RVjY8n
 features: []
-genres: []
+first_released_as_single: false
 key: baby-you-look-good-to-me-tonight-john-denver
 lyrics_url: https://www.azlyrics.com/lyrics/johndenver/babyyoulookgoodtometonight.html
 name: Baby You Look Good To Me Tonight
@@ -35,8 +38,9 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '1977-02-05'
+release_year: 1976
+runtime: 166853
 ---
-
 I've been out on this highway now, five days in a row.
 My words all run together and my feet are moving slow, got to stop and eat while it's still light.
 Local angel sitting on my right, do you believe in love at first sight?
@@ -70,6 +74,3 @@ Baby, you look good to me, I was born to love you now can't you see,
 baby, you look good to me tonight.
 Well, I'm ordinarily very shy, but I take the time to satisfy,
 baby, you look good to me tonight. Baby, you look good to me tonight.
-
-
-

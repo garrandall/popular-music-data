@@ -1,9 +1,12 @@
 ---
+album: Attention Deficit
 artists:
 - Wale
+external_ids:
+  spotify: spotify:track:4HYc74wPEfUAhlQFm4fZHa
 features:
 - Lady Gaga
-genres: []
+first_released_as_single: false
 key: chillin-wale-lady-gaga
 lyrics_url: https://www.azlyrics.com/lyrics/wale/chillin.html
 name: Chillin
@@ -12,8 +15,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2009-09-12'
+release_year: 2009
+runtime: 204533
 ---
-
 Na Na Na Na...
 Na Na Na Na
 Hey Hey Hey, Goodbye
@@ -112,6 +116,3 @@ DC chillin, PG chillin
 My name WALE and I came to get It
 Came to get it, came to get It
 My name Wale
-
-
-

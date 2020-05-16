@@ -1,8 +1,11 @@
 ---
+album: Unbroken
 artists:
 - Demi Lovato
+external_ids:
+  spotify: spotify:track:4B3RmT3cGvh8By3WY9pbIx
 features: []
-genres: []
+first_released_as_single: false
 key: skyscraper-demi-lovato
 lyrics_url: https://genius.com/Demi-lovato-skyscraper-lyrics
 name: Skyscraper
@@ -67,6 +70,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2011-11-05'
+release_year: 2011
+runtime: 221293
 ---
 Skies are crying, I am watching
 Catching tear drops in my hands

@@ -1,8 +1,11 @@
 ---
+album: Discrete Luxury
 artists:
 - Rico Love
+external_ids:
+  spotify: spotify:track:4tzrdaXrV7FQMLoM0FvXdZ
 features: []
-genres: []
+first_released_as_single: true
 key: they-don-t-know-rico-love
 lyrics_url: https://genius.com/Rico-love-they-dont-know-lyrics
 name: They Don't Know
@@ -35,6 +38,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2014-03-22'
+release_year: 2014
+runtime: 296733
 ---
 They don't know
 They don't, they don't know

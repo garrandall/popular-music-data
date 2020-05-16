@@ -1,8 +1,11 @@
 ---
+album: Easy Come Easy Go
 artists:
 - George Strait
+external_ids:
+  spotify: spotify:track:0hqXlHVE94CTwXXWRdikbY
 features: []
-genres: []
+first_released_as_single: false
 key: easy-come-easy-go-george-strait
 lyrics_url: https://www.azlyrics.com/lyrics/georgestrait/easycomeeasygo.html
 name: Easy Come Easy Go
@@ -47,8 +50,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1993-12-11'
+release_year: 1993
+runtime: 184960
 ---
-
 Says she's had enough of me, I've had enough of her too.
 I might as well go on and set her free, she's already turned me loose.
 No fault, no blame, nobody done no wrong-
@@ -71,6 +75,3 @@ Call it quits, calling off all bets, it just wasn't in the cards.
 Easy come girl, easy go.
 Vaya condios, good luck,
 Easy come, easy go.
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Light Up The Night
 artists:
 - The Brothers Johnson
+external_ids:
+  spotify: spotify:track:6VZdUa8JjaGF2LGsiRG9lC
 features: []
-genres: []
+first_released_as_single: false
 key: stomp--the-brothers-johnson
 lyrics_url: https://www.azlyrics.com/lyrics/brothersjohnson/stomp.html
 name: Stomp!
@@ -83,8 +86,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1980-07-19'
+release_year: 1980
+runtime: 380400
 ---
-
 Steppin' out the weekends open wide
 Fill it up, let's blast the jams and ride
 
@@ -224,6 +228,3 @@ Put your heels where you're feeling it
 Stomp, step down in it
 Put your foot where you feel the fit
 Stomp, you don't wanna quit
-
-
-

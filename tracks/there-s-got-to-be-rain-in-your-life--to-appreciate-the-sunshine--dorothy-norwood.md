@@ -1,8 +1,11 @@
 ---
+album: Ole Rickety Bridge
 artists:
 - Dorothy Norwood
+external_ids:
+  spotify: spotify:track:4ZreR3TrxolTECRLRB6aPv
 features: []
-genres: []
+first_released_as_single: false
 key: there-s-got-to-be-rain-in-your-life--to-appreciate-the-sunshine--dorothy-norwood
 lyrics_url: https://genius.com/Dorothy-norwood-theres-got-to-be-rain-in-your-life-to-appreciate-the-sunshine-lyrics
 name: There's Got To Be Rain In Your Life (To Appreciate The Sunshine)
@@ -23,6 +26,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1974-03-16'
+release_year: 1974
+runtime: 291533
 ---
 You know it's said that into each life, some rain must fall
 But behind every dark cloud, the sun will shine

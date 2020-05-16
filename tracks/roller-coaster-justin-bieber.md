@@ -1,8 +1,11 @@
 ---
+album: Journals
 artists:
 - Justin Bieber
+external_ids:
+  spotify: spotify:track:6CllSXguzFwdO3CDRp8YVt
 features: []
-genres: []
+first_released_as_single: false
 key: roller-coaster-justin-bieber
 lyrics_url: https://www.azlyrics.com/lyrics/justinbieber/rollercoaster.html
 name: Roller Coaster
@@ -11,8 +14,9 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '2013-12-14'
+release_year: 2013
+runtime: 201613
 ---
-
 Come here
 I don't know what happened
 
@@ -68,6 +72,3 @@ Roller coaster, roller coaster
 Spinning all around and around for a while baby
 Roller coaster, roller coaster
 For a minute we were up, but the next we were falling down
-
-
-

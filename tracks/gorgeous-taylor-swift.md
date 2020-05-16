@@ -1,8 +1,11 @@
 ---
+album: reputation
 artists:
 - Taylor Swift
+external_ids:
+  spotify: spotify:track:1ZY1PqizIl78geGM4xWlEA
 features: []
-genres: []
+first_released_as_single: false
 key: gorgeous-taylor-swift
 lyrics_url: https://www.azlyrics.com/lyrics/taylorswift/gorgeous.html
 name: Gorgeous
@@ -23,8 +26,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2017-12-02'
+release_year: 2017
+runtime: 209680
 ---
-
 Gorgeous
 
 You should take it as a compliment
@@ -90,6 +94,3 @@ You make me so happy it turns back to sad
 There's nothing I hate more than what I can't have
 You are so gorgeous it makes me so mad
 You're gorgeous
-
-
-

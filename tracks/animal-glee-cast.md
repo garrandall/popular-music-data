@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music presents The Warblers'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:6TyirQafPuawKfoKtJh5rE
 features: []
-genres: []
+first_released_as_single: false
 key: animal-glee-cast
 lyrics_url: https://www.azlyrics.com/lyrics/gleecast/animal.html
 name: Animal
@@ -11,8 +14,9 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '2011-03-26'
+release_year: 2011
+runtime: 191373
 ---
-
 Na, na, na, na, na
 Na, na, na, na, na
 
@@ -83,6 +87,3 @@ Oh, oh, I want some more
 Oh, oh, what are you waitin' for?
 What are you waitin' for?
 Say goodbye to my heart tonight
-
-
-

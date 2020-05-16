@@ -1,8 +1,11 @@
 ---
+album: The Freedom Sessions
 artists:
 - Sarah McLachlan
+external_ids:
+  spotify: spotify:track:1FxPseK0DRDjTUFW2JHUp7
 features: []
-genres: []
+first_released_as_single: false
 key: good-enough-sarah-mclachlan
 lyrics_url: https://www.azlyrics.com/lyrics/sarahmclachlan/goodenough.html
 name: Good Enough
@@ -47,8 +50,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1994-12-10'
+release_year: 1989
+runtime: 201706
 ---
-
 Hey your glass is empty
 it's a hell of a long way home
 why don't you let me take you
@@ -85,6 +89,3 @@ just let me try
 and I will be there for you
 I'll show you why
 you're so much more than good enough...
-
-
-

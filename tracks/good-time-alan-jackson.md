@@ -1,8 +1,11 @@
 ---
+album: Good Time
 artists:
 - Alan Jackson
+external_ids:
+  spotify: spotify:track:14PfmQ4Gsi8tVOAo7xbRD3
 features: []
-genres: []
+first_released_as_single: true
 key: good-time-alan-jackson
 lyrics_url: https://genius.com/Alan-jackson-good-time-lyrics
 name: Good Time
@@ -87,6 +90,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2008-10-04'
+release_year: 2008
+runtime: 285586
 ---
 Work, work all week long
 Punching that clock from dusk till dawn

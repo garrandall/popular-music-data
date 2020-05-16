@@ -1,8 +1,11 @@
 ---
+album: Ask Anybody
 artists:
 - Swirl 360
+external_ids:
+  spotify: spotify:track:7hFdssUpIMRlpGHcwFLxLa
 features: []
-genres: []
+first_released_as_single: false
 key: hey-now-now-swirl-360
 lyrics_url: https://genius.com/Swirl-360-hey-now-now-lyrics
 name: Hey Now Now
@@ -51,6 +54,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1998-10-03'
+release_year: 1998
+runtime: 277733
 ---
 On the inside
 Do you know what you're about

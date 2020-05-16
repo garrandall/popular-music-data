@@ -1,8 +1,11 @@
 ---
+album: The Sugar Hill Records Story
 artists:
 - West Street Mob
+external_ids:
+  spotify: spotify:track:61SyGXItA1qfsPC1JiePb4
 features: []
-genres: []
+first_released_as_single: false
 key: sing-a-simple-song-west-street-mob
 lyrics_url: https://genius.com/West-street-mob-sing-a-simple-song-lyrics
 name: Sing A Simple Song
@@ -23,6 +26,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1982-05-08'
+release_year: 1982
+runtime: 323813
 ---
 Sing a simple song
 Yeah yeah yeah yeah

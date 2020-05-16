@@ -1,8 +1,11 @@
 ---
+album: Stop And Smell The Roses
 artists:
 - Mac Davis
+external_ids:
+  spotify: spotify:track:5Rx7GuDwsCWgBrcxJWC2E1
 features: []
-genres: []
+first_released_as_single: false
 key: one-hell-of-a-woman-mac-davis
 lyrics_url: https://www.azlyrics.com/lyrics/macdavis/onehellofawoman.html
 name: One Hell Of A Woman
@@ -119,8 +122,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1974-10-05'
+release_year: 1972
+runtime: 170388
 ---
-
 She's a woman
 She's a baby
 She's a witch
@@ -157,6 +161,3 @@ But soft when she loves me
 Like a gentle kitten in my hand
 She makes me feel
 Like a hell of a man...
-
-
-

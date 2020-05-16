@@ -1,8 +1,11 @@
 ---
+album: The Great Fortunes
 artists:
 - The Fortunes
+external_ids:
+  spotify: spotify:track:6SYCFkt1CahfqcREBMNqMw
 features: []
-genres: []
+first_released_as_single: false
 key: this-golden-ring-the-fortunes
 lyrics_url: http://www.songlyrics.com/the-fortunes/this-golden-ring-lyrics/
 name: This Golden Ring
@@ -23,6 +26,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1966-03-12'
+release_year: 1966
+runtime: 131493
 ---
 This golden ring is gonna buy me a place in my baby's heart
 This golden ring is gonna make sure that we never part

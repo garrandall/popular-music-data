@@ -1,8 +1,11 @@
 ---
+album: Sit Down and Talk to Me
 artists:
 - Lou Rawls
+external_ids:
+  spotify: spotify:track:3av8222ArMb8u8dXMtXAFV
 features: []
-genres: []
+first_released_as_single: false
 key: you-re-my-blessing-lou-rawls
 lyrics_url: https://www.musixmatch.com/lyrics/Lou-Rawls/You-re-My-Blessing
 name: You're My Blessing
@@ -19,6 +22,8 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1980-05-10'
+release_year: 1979
+runtime: 261333
 ---
 My, my my my my my my
 Aren't you overdue for a compliment?

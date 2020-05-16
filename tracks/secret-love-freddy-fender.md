@@ -1,8 +1,11 @@
 ---
+album: Before The Next Teardrop Falls
 artists:
 - Freddy Fender
+external_ids:
+  spotify: spotify:track:5NZMnccEtbVTY3i8ozfVPS
 features: []
-genres: []
+first_released_as_single: false
 key: secret-love-freddy-fender
 lyrics_url: https://www.azlyrics.com/lyrics/freddyfender/secretlove.html
 name: Secret Love
@@ -51,8 +54,9 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '1975-12-27'
+release_year: 1975
+runtime: 225733
 ---
-
 Once I had a secret love
 That lived within the heart of me
 All too soon my secret love
@@ -73,6 +77,3 @@ Que non miras lo que pasa en mi
 Ven y da-me tu calor
 Que mi corazon se muere sin tu amor
 And my secret love is no secret anymore
-
-
-

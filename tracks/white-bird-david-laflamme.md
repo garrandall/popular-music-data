@@ -1,8 +1,11 @@
 ---
+album: White Bird + Inside Out
 artists:
 - David Laflamme
+external_ids:
+  spotify: spotify:track:2ozoDpg5aoIMRZbaIo6LwH
 features: []
-genres: []
+first_released_as_single: false
 key: white-bird-david-laflamme
 lyrics_url: https://genius.com/David-laflamme-white-bird-lyrics
 name: White Bird
@@ -35,6 +38,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1977-01-22'
+release_year: 1976
+runtime: 247706
 ---
 White bird
 In a golden cage

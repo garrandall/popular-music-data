@@ -1,9 +1,12 @@
 ---
+album: Greatest Hits
 artists:
 - Paula Abdul
 - The Wild Pair
+external_ids:
+  spotify: spotify:track:4mbyVgqUfyajwkXp4GnWFG
 features: []
-genres: []
+first_released_as_single: false
 key: opposites-attract-paula-abdul-the-wild-pair
 lyrics_url: https://genius.com/Paula-abdulthe-wild-pair-opposites-attract-7-edit-lyrics
 name: Opposites Attract
@@ -100,6 +103,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1990-05-19'
+release_year: 1989
+runtime: 230240
 ---
 I'm M.C. Kat on the rap so mic it
 Here's a little story and you're sure to like it

@@ -1,4 +1,5 @@
 ---
+album: Champions
 artists:
 - Kanye West
 - Gucci Mane
@@ -8,8 +9,10 @@ artists:
 - Yo Gotti
 - Quavo
 - Desiigner
+external_ids:
+  spotify: spotify:track:2nBI3iWLhupR7LyAJ5GGkE
 features: []
-genres: []
+first_released_as_single: true
 key: champions-kanye-west-gucci-mane-big-sean-2-chainz-travi--scott-yo-gotti-quavo-desiigner
 lyrics_url: https://www.azlyrics.com/lyrics/kanyewest/championsroundround.html
 name: Champions
@@ -26,9 +29,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2016-07-16'
+release_year: 2016
+runtime: 334253
 ---
-
-
 Lifestyle on camera
 Hundred thousand dollar chandelier
 They tried to turn me to an animal
@@ -206,6 +209,3 @@ Round and round they go
 Round and round they go
 (Ridin', be slimin' and ride with the woes
 That nigga die in a hole)
-
-
-

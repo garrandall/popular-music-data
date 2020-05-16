@@ -1,8 +1,11 @@
 ---
+album: The Flying Platters Around The World
 artists:
 - The Platters
+external_ids:
+  spotify: spotify:track:6K6Ap90AcwpXarhxR5IK9V
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-raining-outside-the-platters
 lyrics_url: https://genius.com/The-platters-its-raining-outside-lyrics
 name: It's Raining Outside
@@ -15,6 +18,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1958-11-03'
+release_year: 1958
+runtime: 171560
 ---
 (Inside, outside)
 (Inside, outside)

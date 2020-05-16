@@ -1,8 +1,11 @@
 ---
+album: Manifesto
 artists:
 - Roxy Music
+external_ids:
+  spotify: spotify:track:6BKVev5kACyEaolcJkaUbz
 features: []
-genres: []
+first_released_as_single: false
 key: dance-away-roxy-music
 lyrics_url: https://www.azlyrics.com/lyrics/roxymusic/danceaway.html
 name: Dance Away
@@ -43,8 +46,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1979-06-23'
+release_year: 1979
+runtime: 228266
 ---
-
 Yesterday - well it seemed so cool
 When I walked you home, kissed goodnight
 I said "it's love" you said "all right"
@@ -93,6 +97,3 @@ Dance away the heartache
 Dance away, fears
 Dance away the heartache
 Dance away, fears
-
-
-

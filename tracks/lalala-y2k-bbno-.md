@@ -1,9 +1,12 @@
 ---
+album: NOW That's What I Call Music! Vol. 73
 artists:
 - Y2K
 - bbno$
+external_ids:
+  spotify: spotify:track:51Fjme0JiitpyXKuyQiCDo
 features: []
-genres: []
+first_released_as_single: true
 key: lalala-y2k-bbno-
 lyrics_url: https://genius.com/Y2k-and-bbno-lalala-lyrics
 name: Lalala
@@ -92,6 +95,8 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '2019-12-07'
+release_year: 2019
+runtime: 160626
 ---
 Did I really just forget that melody?
 Naw, nana, bananana, nanananananana (Nana, ah-ah)

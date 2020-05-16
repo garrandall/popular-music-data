@@ -1,8 +1,11 @@
 ---
+album: Everywhere We Go
 artists:
 - Kenny Chesney
+external_ids:
+  spotify: spotify:track:2HmMklpgK8vGCpJmPpz1yG
 features: []
-genres: []
+first_released_as_single: false
 key: how-forever-feels-kenny-chesney
 lyrics_url: https://www.azlyrics.com/lyrics/kennychesney/howforeverfeels.html
 name: How Forever Feels
@@ -91,8 +94,9 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1999-06-26'
+release_year: 1999
+runtime: 188200
 ---
-
 Big orange ball, sinkin' in the water
 Toes in the sand, couldn't get much hotter
 Little umbrella shaped margaritas
@@ -124,6 +128,3 @@ But there is one thing that I haven't done
 I wanna know how forever feels
 Hey, I wanna know how forever feels
 Girl, I wanna know how forever feels
-
-
-

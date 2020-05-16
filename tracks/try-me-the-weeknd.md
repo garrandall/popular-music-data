@@ -1,8 +1,11 @@
 ---
+album: My Dear Melancholy,
 artists:
 - The Weeknd
+external_ids:
+  spotify: spotify:track:4ppTAJUbNXELZcoUaL90wo
 features: []
-genres: []
+first_released_as_single: false
 key: try-me-the-weeknd
 lyrics_url: https://genius.com/The-weeknd-try-me-lyrics
 name: Try Me
@@ -15,6 +18,8 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '2018-04-21'
+release_year: 2018
+runtime: 221106
 ---
 Any time is the time
 Any time for you to get my call, baby (so, baby)

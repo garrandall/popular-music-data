@@ -1,9 +1,12 @@
 ---
+album: 80's Pop Heroes
 artists:
 - The Art Of Noise
+external_ids:
+  spotify: spotify:track:216wDg9HnCsthjaigWDxnM
 features:
 - Duane Eddy
-genres: []
+first_released_as_single: false
 key: peter-gunn-the-art-of-noise-duane-eddy
 name: Peter Gunn
 rankings:
@@ -51,5 +54,7 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1986-07-26'
+release_year: 1986
+runtime: 228000
 ---
 

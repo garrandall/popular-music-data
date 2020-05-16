@@ -1,8 +1,11 @@
 ---
+album: On the Waters
 artists:
 - Bread
+external_ids:
+  spotify: spotify:track:7wWw7hBmErNg9u5w6Xx0vy
 features: []
-genres: []
+first_released_as_single: false
 key: make-it-with-you-bread
 lyrics_url: https://genius.com/Bread-make-it-with-you-lyrics
 name: Make It With You
@@ -75,6 +78,8 @@ rankings:
   rank: 38
   ranking_list: Billboard Hot 100
   start_date: '1970-10-03'
+release_year: 1970
+runtime: 192200
 ---
 Hey, have you ever tried
 Really reaching out for the other side

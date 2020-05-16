@@ -1,8 +1,11 @@
 ---
+album: The Master 1961-1984
 artists:
 - Marvin Gaye
+external_ids:
+  spotify: spotify:track:7tElOwaw2ONWiPCW8bDErC
 features: []
-genres: []
+first_released_as_single: false
 key: pretty-little-baby-marvin-gaye
 lyrics_url: https://www.azlyrics.com/lyrics/marvingaye/prettylittlebaby.html
 name: Pretty Little Baby
@@ -35,8 +38,9 @@ rankings:
   rank: 33
   ranking_list: Billboard Hot 100
   start_date: '1965-08-21'
+release_year: 1965
+runtime: 155893
 ---
-
 Darling, please stay, don't go away
 (If you leave me)
 What a heartache, for heaven's sake
@@ -79,4 +83,3 @@ You leave the tears fallin' for years
 And I say, baby, pretty little baby
 Don't leave me
 Baby, pretty little baby
-

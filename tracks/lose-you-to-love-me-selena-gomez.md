@@ -1,8 +1,11 @@
 ---
+album: Rare
 artists:
 - Selena Gomez
+external_ids:
+  spotify: spotify:track:4l0Mvzj72xxOpRrp6h8nHi
 features: []
-genres: []
+first_released_as_single: false
 key: lose-you-to-love-me-selena-gomez
 lyrics_url: https://genius.com/Selena-gomez-lose-you-to-love-me-lyrics
 name: Lose You To Love Me
@@ -91,6 +94,8 @@ rankings:
   rank: 38
   ranking_list: Billboard Hot 100
   start_date: '2020-03-21'
+release_year: 2019
+runtime: 206458
 ---
 You promised the world and I fell for it
 I put you first and you adored it

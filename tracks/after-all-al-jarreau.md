@@ -1,8 +1,11 @@
 ---
+album: High Crime
 artists:
 - Al Jarreau
+external_ids:
+  spotify: spotify:track:5g5EdgkfKVUceOTJtm0Kel
 features: []
-genres: []
+first_released_as_single: false
 key: after-all-al-jarreau
 lyrics_url: https://www.azlyrics.com/lyrics/aljarreau/afterall.html
 name: After All
@@ -43,8 +46,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1984-12-08'
+release_year: 1984
+runtime: 259533
 ---
-
 There, there was a time I knew
 That no matter, come what may, love
 Would prevail
@@ -72,4 +76,3 @@ And the love that heals the wound
 After the war is through
 Is the knight in armor bright
 Faithful and true to you
-

@@ -1,8 +1,11 @@
 ---
+album: Rocksides (1957-64)
 artists:
 - Connie Francis
+external_ids:
+  spotify: spotify:track:43YnX6JncOMQEYXhJwt0Ov
 features: []
-genres: []
+first_released_as_single: false
 key: no-one-connie-francis
 lyrics_url: https://www.azlyrics.com/lyrics/conniefrancis/noone.html
 name: No One
@@ -39,8 +42,9 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1961-03-06'
+release_year: 1961
+runtime: 172333
 ---
-
 No one ever kissed me the way that you do
 And no one ever told me "I love you"
 No one ever cared
@@ -56,6 +60,3 @@ No one ever hurt me the way that you do
 'Cause no one ever broke my heart in two
 But I'll keep on caring my whole life through
 For no one, no one but you
-
-
-

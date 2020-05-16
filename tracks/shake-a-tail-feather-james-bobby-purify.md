@@ -1,9 +1,12 @@
 ---
+album: The Pure Sound Of The Purifys
 artists:
 - James
 - Bobby Purify
+external_ids:
+  spotify: spotify:track:6GJAffZDW6aT2Cu8KF5ORK
 features: []
-genres: []
+first_released_as_single: false
 key: shake-a-tail-feather-james-bobby-purify
 lyrics_url: https://genius.com/James-and-bobby-purify-shake-a-tail-feather-lyrics
 name: Shake A Tail Feather
@@ -44,6 +47,8 @@ rankings:
   rank: 36
   ranking_list: Billboard Hot 100
   start_date: '1967-06-10'
+release_year: 1967
+runtime: 128240
 ---
 Ow! Get it baby! Alright
 Well I heard about the fella

@@ -1,8 +1,11 @@
 ---
+album: The Resistance
 artists:
 - Muse
+external_ids:
+  spotify: spotify:track:4VqPOruhp5EdPBeR92t6lQ
 features: []
-genres: []
+first_released_as_single: false
 key: uprising-muse
 lyrics_url: https://www.azlyrics.com/lyrics/muse/uprising.html
 name: Uprising
@@ -87,8 +90,9 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '2010-02-06'
+release_year: 2009
+runtime: 304840
 ---
-
 Paranoia is in bloom,
 The PR transmissions will resume
 They'll try to push drugs that keep us all dumbed down
@@ -136,6 +140,3 @@ We will be victorious
 (so come on)
 
 Hey, hey, hey, hey
-
-
-

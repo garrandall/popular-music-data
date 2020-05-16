@@ -1,10 +1,13 @@
 ---
+album: Freedom
 artists:
 - Akon
+external_ids:
+  spotify: spotify:track:7rv0UuxMX7CpUUwEE1jVrd
 features:
 - Colby O'Donis
 - Kardinal Offishall
-genres: []
+first_released_as_single: false
 key: beautiful-akon-colby-o-donis-kardinal-offishall
 lyrics_url: https://genius.com/Akon-beautiful-lyrics
 name: Beautiful
@@ -97,6 +100,8 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '2009-05-16'
+release_year: 2008
+runtime: 312986
 ---
 When I see you
 I run out of words, to say (ah)

@@ -1,8 +1,11 @@
 ---
+album: Every Picture Tells A Story
 artists:
 - Rod Stewart
+external_ids:
+  spotify: spotify:track:3rGuoVKM5CwEo7eHyeXYIB
 features: []
-genres: []
+first_released_as_single: false
 key: reason-to-believe-rod-stewart
 lyrics_url: https://www.azlyrics.com/lyrics/rodstewart/reasontobelieve.html
 name: Reason To Believe
@@ -87,8 +90,9 @@ rankings:
   rank: 52
   ranking_list: Billboard Hot 100
   start_date: '1993-12-25'
+release_year: 1971
+runtime: 250506
 ---
-
 If I listened long enough to you
 I'd find a way to believe that it's all true
 Knowing that you lied straight-faced while I cried
@@ -113,6 +117,3 @@ Someone like you makes it hard to live without
 somebody else
 Someone like you makes it easy to give
 never think about myself
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Laid
 artists:
 - James
+external_ids:
+  spotify: spotify:track:2g3m53sXtkWqKOABtA8zxb
 features: []
-genres: []
+first_released_as_single: false
 key: laid-james
 lyrics_url: https://genius.com/James-laid-lyrics
 name: Laid
@@ -59,6 +62,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1994-04-30'
+release_year: 1993
+runtime: 174133
 ---
 This bed is on fire
 With passionate love

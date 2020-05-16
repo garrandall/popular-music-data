@@ -1,8 +1,11 @@
 ---
+album: From A Distance - The Event
 artists:
 - Kalin Twins
+external_ids:
+  spotify: spotify:track:1BQOMZeYwzesvXANmRgrEp
 features: []
-genres: []
+first_released_as_single: false
 key: when-kalin-twins
 lyrics_url: https://genius.com/Kalin-twins-when-lyrics
 name: When
@@ -43,6 +46,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1958-09-29'
+release_year: 1958
+runtime: 144573
 ---
 When, when you smile, when you smile at me
 Well, well I know our love will always be

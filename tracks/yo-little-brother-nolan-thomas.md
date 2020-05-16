@@ -1,8 +1,11 @@
 ---
+album: Yo' Little Brother
 artists:
 - Nolan Thomas
+external_ids:
+  spotify: spotify:track:1g03xauno5osqJQoqVdqdx
 features: []
-genres: []
+first_released_as_single: false
 key: yo-little-brother-nolan-thomas
 lyrics_url: https://genius.com/Nolan-thomas-yo-little-brother-lyrics
 name: Yo Little Brother
@@ -59,6 +62,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1985-03-30'
+release_year: 1985
+runtime: 319000
 ---
 I got a brother younger than I
 And my little brother's on the wild side

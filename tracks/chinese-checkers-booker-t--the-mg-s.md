@@ -1,9 +1,12 @@
 ---
+album: Soul Dressing
 artists:
 - Booker T.
 - The MG's
+external_ids:
+  spotify: spotify:track:73U40I3EmKz8Wh6PJaihJ0
 features: []
-genres: []
+first_released_as_single: false
 key: chinese-checkers-booker-t--the-mg-s
 name: Chinese Checkers
 rankings:
@@ -35,5 +38,7 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1963-09-21'
+release_year: 1963
+runtime: 149133
 ---
 

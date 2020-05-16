@@ -1,8 +1,11 @@
 ---
+album: Introducing Lobo
 artists:
 - Lobo
+external_ids:
+  spotify: spotify:track:1gSxwH0w4hUp570NzLYTa5
 features: []
-genres: []
+first_released_as_single: false
 key: me-and-you-and-a-dog-named-boo-lobo
 lyrics_url: https://www.azlyrics.com/lyrics/lobo/meandyouandadognamedboo.html
 name: Me And You And A Dog Named Boo
@@ -59,8 +62,9 @@ rankings:
   rank: 27
   ranking_list: Billboard Hot 100
   start_date: '1971-06-26'
+release_year: 1971
+runtime: 234266
 ---
-
 I remember to this day
 The bright red Georgia clay
 And how it stuck to the tires
@@ -92,6 +96,3 @@ Though it's only been a month or so
 That old car's buggin' us to go
 We've gotta get away and get back on
 The road again
-
-
-

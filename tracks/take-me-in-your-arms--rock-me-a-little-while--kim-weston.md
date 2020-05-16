@@ -1,8 +1,11 @@
 ---
+album: The Motown Anthology
 artists:
 - Kim Weston
+external_ids:
+  spotify: spotify:track:6JVofhyyKPk0mIJelzOJDu
 features: []
-genres: []
+first_released_as_single: false
 key: take-me-in-your-arms--rock-me-a-little-while--kim-weston
 lyrics_url: https://genius.com/Kim-weston-take-me-in-your-arms-rock-me-a-little-while-lyrics
 name: Take Me In Your Arms (Rock Me A Little While)
@@ -39,6 +42,8 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '1965-11-20'
+release_year: 1965
+runtime: 177933
 ---
 Take me in your arms
 Hold me for a little while

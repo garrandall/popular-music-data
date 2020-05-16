@@ -1,8 +1,11 @@
 ---
+album: Adventure
 artists:
 - Rupert Holmes
+external_ids:
+  spotify: spotify:track:4SRI2HIQcmbnGwyGmFaXkN
 features: []
-genres: []
+first_released_as_single: false
 key: morning-man-rupert-holmes
 lyrics_url: https://www.azlyrics.com/lyrics/rupertholmes/morningman.html
 name: Morning Man
@@ -35,8 +38,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1980-12-20'
+release_year: 1980
+runtime: 239866
 ---
-
 I arise to the 5 AM skies
 Left over from yesterday
 With a moan I reach out for the phone
@@ -86,6 +90,3 @@ So curl up with your early riser
 In my eyes you see the plan
 You'll catch up on your sleep this evening
 And I'll be your morning man
-
-
-

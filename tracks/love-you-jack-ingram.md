@@ -1,8 +1,11 @@
 ---
+album: Live at Billy Bob's Texas
 artists:
 - Jack Ingram
+external_ids:
+  spotify: spotify:track:50UOvwfkZQ8tj0YENBWpy3
 features: []
-genres: []
+first_released_as_single: true
 key: love-you-jack-ingram
 lyrics_url: https://genius.com/Jack-ingram-love-you-lyrics
 name: Love You
@@ -31,6 +34,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2006-12-02'
+release_year: 2003
+runtime: 211933
 ---
 Dang the sun, dang this day
 I'm just tryin' to stay outta your danged ol' way

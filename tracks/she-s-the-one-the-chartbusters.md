@@ -1,8 +1,11 @@
 ---
+album: The Best of Old Rock/Pop
 artists:
 - The Chartbusters
+external_ids:
+  spotify: spotify:track:0HmlnR9sAgKSW4NBzzCBAa
 features: []
-genres: []
+first_released_as_single: false
 key: she-s-the-one-the-chartbusters
 lyrics_url: https://www.musixmatch.com/lyrics/The-Chartbusters/She-s-the-One
 name: She's The One
@@ -39,6 +42,8 @@ rankings:
   rank: 37
   ranking_list: Billboard Hot 100
   start_date: '1964-08-29'
+release_year: 1964
+runtime: 141240
 ---
 One, two, three, go
 

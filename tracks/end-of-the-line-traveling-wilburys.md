@@ -1,8 +1,11 @@
 ---
+album: The Traveling Wilburys, Vol. 1
 artists:
 - Traveling Wilburys
+external_ids:
+  spotify: spotify:track:4HA2jo7wkMdN1lmLO6ryzE
 features: []
-genres: []
+first_released_as_single: false
 key: end-of-the-line-traveling-wilburys
 lyrics_url: https://www.azlyrics.com/lyrics/travelingwilburys/endoftheline.html
 name: End Of The Line
@@ -43,8 +46,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1989-04-08'
+release_year: 1988
+runtime: 209520
 ---
-
 Well it's all right, riding around in the breeze
 Well it's all right, if you live the life you please
 Well it's all right, doing the best you can
@@ -84,6 +88,3 @@ Well it's all right, riding around in the breeze
 Well it's all right, if you live the life you please
 Well it's all right, even if the sun don't shine
 Well it's all right, we're going to the end of the line
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Middle Of Nowhere
 artists:
 - Hanson
+external_ids:
+  spotify: spotify:track:6ZIuoDs3i1KjKurJf9miSs
 features: []
-genres: []
+first_released_as_single: false
 key: i-will-come-to-you-hanson
 lyrics_url: https://www.musixmatch.com/lyrics/Hanson/I-Will-Come-to-You
 name: I Will Come To You
@@ -87,6 +90,8 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1998-04-11'
+release_year: 1997
+runtime: 251293
 ---
 When you have no light to guide you
 And no one to walk beside you

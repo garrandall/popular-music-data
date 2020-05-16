@@ -1,8 +1,11 @@
 ---
+album: The Singles & Albums Collection 1958-62
 artists:
 - Annette With The Afterbeats
+external_ids:
+  spotify: spotify:track:2Yc11CxxaKVeucLWFJQzAs
 features: []
-genres: []
+first_released_as_single: false
 key: tall-paul-annette-with-the-afterbeats
 name: Tall Paul
 rankings:
@@ -66,5 +69,7 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '1959-04-13'
+release_year: 1959
+runtime: 94786
 ---
 

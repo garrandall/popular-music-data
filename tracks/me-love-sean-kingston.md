@@ -1,8 +1,11 @@
 ---
+album: Sean Kingston
 artists:
 - Sean Kingston
+external_ids:
+  spotify: spotify:track:44M8gY48QHhvc6vn5be10N
 features: []
-genres: []
+first_released_as_single: false
 key: me-love-sean-kingston
 lyrics_url: https://genius.com/Sean-kingston-me-love-lyrics
 name: Me Love
@@ -79,6 +82,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2008-01-12'
+release_year: 2007
+runtime: 204293
 ---
 Oh oh oh oh oh oh
 Why do you have to go?

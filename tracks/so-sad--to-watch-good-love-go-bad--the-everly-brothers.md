@@ -1,8 +1,11 @@
 ---
+album: It's Everly Time
 artists:
 - The Everly Brothers
+external_ids:
+  spotify: spotify:track:5kWk5QBbhqGLoK3fOlCvA8
 features: []
-genres: []
+first_released_as_single: false
 key: so-sad--to-watch-good-love-go-bad--the-everly-brothers
 lyrics_url: https://www.azlyrics.com/lyrics/everlybrothers/sosadtowatchgoodlovegobad.html
 name: So Sad (To Watch Good Love Go Bad)
@@ -55,8 +58,9 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '1960-11-21'
+release_year: 1960
+runtime: 154400
 ---
-
 We used to have good times together
 But now I feel them slip away
 It makes me cry to see love die
@@ -77,6 +81,3 @@ You said nothing could change your mind
 It breaks my heart to see us part
 So sad to watch good love go bad
 So sad to watch good love go bad
-
-
-

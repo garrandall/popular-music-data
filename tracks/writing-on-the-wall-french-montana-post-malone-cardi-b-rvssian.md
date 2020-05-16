@@ -1,11 +1,14 @@
 ---
+album: MONTANA
 artists:
 - French Montana
+external_ids:
+  spotify: spotify:track:7x9nXsowok1JszkVztI5NI
 features:
 - Post Malone
 - Cardi B
 - Rvssian
-genres: []
+first_released_as_single: true
 key: writing-on-the-wall-french-montana-post-malone-cardi-b-rvssian
 lyrics_url: https://www.azlyrics.com/lyrics/frenchmontana/writingonthewall.html
 name: Writing On The Wall
@@ -22,9 +25,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2019-10-26'
+release_year: 2019
+runtime: 201270
 ---
-
-
 Montana
 Posty (Hahaha)
 Okurr
@@ -104,6 +107,3 @@ La-la-la, la-la-la
 La-la-la (Okurr) oh
 La-la-la (What you want?), la-la-la
 La-la-la, oh
-
-
-

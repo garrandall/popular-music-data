@@ -1,8 +1,11 @@
 ---
+album: Let It Flow
 artists:
 - Elvin Bishop
+external_ids:
+  spotify: spotify:track:4pxj2nEkmypTXihGBv6gB1
 features: []
-genres: []
+first_released_as_single: false
 key: travelin--shoes-elvin-bishop
 lyrics_url: https://www.azlyrics.com/lyrics/elvinbishop/travelinshoes.html
 name: Travelin' Shoes
@@ -31,8 +34,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1974-11-09'
+release_year: 1974
+runtime: 440173
 ---
-
 Me and my old lady
 Ain't been gettin' along
 Things don't get better
@@ -75,6 +79,3 @@ Gotta put on my travelin' shoes
 Gotta put on my travelin' shoes
 
 Oh yeah...
-
-
-

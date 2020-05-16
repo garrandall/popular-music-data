@@ -1,8 +1,11 @@
 ---
+album: 'Ed Ames on Broadway: Opening Night / More I Cannot Wish You'
 artists:
 - Ed Ames
+external_ids:
+  spotify: spotify:track:7skXVFIQNnTNwBhhCYMKbn
 features: []
-genres: []
+first_released_as_single: false
 key: try-to-remember-ed-ames
 lyrics_url: https://genius.com/Ed-ames-try-to-remember-lyrics
 name: Try To Remember
@@ -31,6 +34,8 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1965-02-27'
+release_year: 1965
+runtime: 239640
 ---
 Try to remember the kind of September
 When life was slow and oh, so mellow

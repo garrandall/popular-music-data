@@ -1,8 +1,11 @@
 ---
+album: Suddenly
 artists:
 - Billy Ocean
+external_ids:
+  spotify: spotify:track:3K40pOmkO7yn56XUPgvSZV
 features: []
-genres: []
+first_released_as_single: false
 key: mystery-lady-billy-ocean
 lyrics_url: https://www.azlyrics.com/lyrics/billyocean/mysterylady.html
 name: Mystery Lady
@@ -67,8 +70,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1985-10-12'
+release_year: 1984
+runtime: 304120
 ---
-
 Hey there Mystery Lady can I spend the night with you
 Can I have your number I'll be anything you want me to
 We ought to get something started
@@ -94,6 +98,3 @@ Caught in your magic just look what you've started
 We ought to get something started oh I can tell so very well
 That he's left you broken hearted it's time to start mending your heart
 So darling when the nights are cold and lonely I will keep you warm
-
-
-

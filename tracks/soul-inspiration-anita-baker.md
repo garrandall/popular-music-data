@@ -1,8 +1,11 @@
 ---
+album: Essential Soul Serenades
 artists:
 - Anita Baker
+external_ids:
+  spotify: spotify:track:6tB4PBScwCaD94sZUfjygA
 features: []
-genres: []
+first_released_as_single: false
 key: soul-inspiration-anita-baker
 lyrics_url: https://www.azlyrics.com/lyrics/anitabaker/soulinspiration.html
 name: Soul Inspiration
@@ -35,8 +38,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1990-11-03'
+release_year: 1990
+runtime: 319400
 ---
-
 If I lost you now
 It would take my heart from me
 I can't imagine life without
@@ -90,4 +94,3 @@ From the day I met you baby
 Yes I knew instinctively
 Whatever our future
 Together we were gonna be baby
-

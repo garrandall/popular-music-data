@@ -1,8 +1,11 @@
 ---
+album: Kevin Paige
 artists:
 - Kevin Paige
+external_ids:
+  spotify: spotify:track:0AuDfYjzzablkkCHFhAxso
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-shut-me-out-kevin-paige
 lyrics_url: https://genius.com/Kevin-paige-dont-shut-me-out-lyrics
 name: Don't Shut Me Out
@@ -103,6 +106,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1990-01-27'
+release_year: 1989
+runtime: 232040
 ---
 All I've been thinkin' 'bout something you said
 It seems to make no sense to me

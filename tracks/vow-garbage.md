@@ -1,8 +1,11 @@
 ---
+album: Garbage
 artists:
 - Garbage
+external_ids:
+  spotify: spotify:track:3VIb1o9PwFyn6qRsT4AHZD
 features: []
-genres: []
+first_released_as_single: false
 key: vow-garbage
 lyrics_url: https://www.azlyrics.com/lyrics/garbage/vow.html
 name: Vow
@@ -15,8 +18,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1995-08-05'
+release_year: 1995
+runtime: 270133
 ---
-
 I can't use what I can't abuse
 And I can't stop when it comes to you
 
@@ -70,6 +74,3 @@ I can't stop when it comes to you
 I can't stop when it comes to you
 When it comes to you
 When it comes to you
-
-
-

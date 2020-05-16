@@ -1,8 +1,11 @@
 ---
+album: Why Can't We Be Friends?
 artists:
 - War
+external_ids:
+  spotify: spotify:track:413T0g8pNNXYX6t5RqHvx7
 features: []
-genres: []
+first_released_as_single: false
 key: why-can-t-we-be-friends--war
 lyrics_url: https://genius.com/War-why-cant-we-be-friends-lyrics
 name: Why Can't We Be Friends?
@@ -87,6 +90,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1975-09-13'
+release_year: 1975
+runtime: 230066
 ---
 Oh, oh, oh, oh
 Oh, oh, oh, oh

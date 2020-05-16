@@ -1,8 +1,11 @@
 ---
+album: The Nylon Curtain
 artists:
 - Billy Joel
+external_ids:
+  spotify: spotify:track:59xhCcRskqyMtKzdvLZDfV
 features: []
-genres: []
+first_released_as_single: false
 key: allentown-billy-joel
 lyrics_url: https://www.azlyrics.com/lyrics/billyjoel/allentown.html
 name: Allentown
@@ -95,8 +98,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1983-04-23'
+release_year: 1982
+runtime: 230160
 ---
-
 Well we're living here in Allentown
 And they're closing all the factories down
 Out in Bethlehem they're killing time
@@ -138,6 +142,3 @@ But I won't be getting up today
 
 And it's getting very hard to stay
 And we're living here in Allentown
-
-
-

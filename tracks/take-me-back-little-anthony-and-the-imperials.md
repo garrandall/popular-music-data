@@ -1,8 +1,11 @@
 ---
+album: Goin' Out Of My Head
 artists:
 - Little Anthony And The Imperials
+external_ids:
+  spotify: spotify:track:0KSlmvXWtOp8ezTfHMndJr
 features: []
-genres: []
+first_released_as_single: false
 key: take-me-back-little-anthony-and-the-imperials
 lyrics_url: https://genius.com/Little-anthony-and-the-imperials-take-me-back-lyrics
 name: Take Me Back
@@ -51,6 +54,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1965-09-04'
+release_year: 1964
+runtime: 156693
 ---
 Take me back, I'm begging please
 Take me back, I'm on my knees

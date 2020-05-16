@@ -1,8 +1,11 @@
 ---
+album: What's New Pussycat
 artists:
 - Tom Jones
+external_ids:
+  spotify: spotify:track:4HjwGX3pJKJTeOSDpT6GCo
 features: []
-genres: []
+first_released_as_single: false
 key: what-s-new-pussycat--tom-jones
 lyrics_url: https://www.azlyrics.com/lyrics/tomjones/whatsnewpussycat.html
 name: What's New Pussycat?
@@ -55,8 +58,9 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '1965-09-04'
+release_year: 1965
+runtime: 128800
 ---
-
 What's new, Pussycat?
 Whoa, whoa
 What's new, Pussycat?
@@ -100,6 +104,3 @@ Yes, I do!
 You and your pussycat lips!
 You and your pussycat eyes!
 You and your pussycat nose!
-
-
-

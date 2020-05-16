@@ -1,9 +1,12 @@
 ---
+album: Harder Than Ever
 artists:
 - Lil Baby
 - Drake
+external_ids:
+  spotify: spotify:track:6vN77lE9LK6HP2DewaN6HZ
 features: []
-genres: []
+first_released_as_single: false
 key: yes-indeed-lil-baby-drake
 lyrics_url: https://www.azlyrics.com/lyrics/lilbaby/yesindeed.html
 name: Yes Indeed
@@ -124,9 +127,9 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '2018-12-08'
+release_year: 2018
+runtime: 142273
 ---
-
-
 Yeah
 
 Wheezy out of here
@@ -189,6 +192,3 @@ When you livin' like this, they supposed to hate
 
 
 Wheezy out of here
-
-
-

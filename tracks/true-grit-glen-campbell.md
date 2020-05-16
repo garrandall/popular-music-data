@@ -1,8 +1,11 @@
 ---
+album: True Grit (Original Motion Picture Soundtrack)
 artists:
 - Glen Campbell
+external_ids:
+  spotify: spotify:track:7G37aH1tcPmxJr0uPmPVRQ
 features: []
-genres: []
+first_released_as_single: false
 key: true-grit-glen-campbell
 lyrics_url: https://www.azlyrics.com/lyrics/glencampbell/truegrit.html
 name: True Grit
@@ -35,8 +38,9 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '1969-09-06'
+release_year: 1969
+runtime: 150106
 ---
-
 One day, little girl, the sadness will leave your face
 As soon as you've won the fight to get justice done
 Someday little girl you'll wonder what life's about
@@ -51,6 +55,3 @@ You'll wake up and see
 A world that is fine and free
 Though summer seems far away
 You will find the sun one day
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: American Originals
 artists:
 - Johnny Horton
+external_ids:
+  spotify: spotify:track:1IjnjFD7OlVVJ0o8VLJHnS
 features: []
-genres: []
+first_released_as_single: false
 key: johnny-reb-johnny-horton
 lyrics_url: https://www.azlyrics.com/lyrics/johnnyhorton/johnnyreb.html
 name: Johnny Reb
@@ -39,8 +42,9 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1959-10-12'
+release_year: 1956
+runtime: 141000
 ---
-
 You fought all the way
 Johnny Reb, Johnny Reb
 You fought all the way, Johnny Reb
@@ -84,6 +88,3 @@ Yeah, you fought all the way, Johnny Reb
 You fought all the way
 Johnny Reb, Johnny Reb
 You fought all the way, Johnny Reb
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Phyllis Nelson - Move Closer
 artists:
 - Phyllis Nelson
+external_ids:
+  spotify: spotify:track:29CKNR4h0A3DBnYejTmADJ
 features: []
-genres: []
+first_released_as_single: false
 key: i-like-you-phyllis-nelson
 lyrics_url: https://genius.com/Phyllis-nelson-i-like-you-lyrics
 name: I Like You
@@ -51,6 +54,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1986-04-19'
+release_year: 1975
+runtime: 447133
 ---
 Hey you
 Over there

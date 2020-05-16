@@ -1,8 +1,11 @@
 ---
+album: Romantica
 artists:
 - Tony Dallara
+external_ids:
+  spotify: spotify:track:0cQm0RMNU7YBc6XhdneM28
 features: []
-genres: []
+first_released_as_single: false
 key: come-prima-tony-dallara
 lyrics_url: https://genius.com/Tony-dallara-come-prima-lyrics
 name: Come Prima
@@ -35,6 +38,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1959-01-19'
+release_year: 1958
+runtime: 222679
 ---
 Come prima, più di prima t'amerò
 Per la vita, la mia vita ti darò

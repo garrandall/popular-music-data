@@ -1,8 +1,11 @@
 ---
+album: 'Goodies Old Is New: Rare Singles From The Golden Age of Rock and Roll'
 artists:
 - Skip And Flip
+external_ids:
+  spotify: spotify:track:1QJR1uYpBNVlCDS7NjpgUR
 features: []
-genres: []
+first_released_as_single: false
 key: it-was-i-skip-and-flip
 lyrics_url: https://genius.com/Skip-and-flip-it-was-i-lyrics
 name: It Was I
@@ -71,6 +74,8 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '1959-10-05'
+release_year: 1959
+runtime: 142419
 ---
 You're tellin' everybody I'm the one
 To blame for all the wrong that you have done

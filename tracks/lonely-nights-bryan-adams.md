@@ -1,8 +1,11 @@
 ---
+album: You Want It You Got It
 artists:
 - Bryan Adams
+external_ids:
+  spotify: spotify:track:3BTvPgNPWviFyRg46ERlEr
 features: []
-genres: []
+first_released_as_single: false
 key: lonely-nights-bryan-adams
 lyrics_url: https://genius.com/Bryan-adams-lonely-nights-lyrics
 name: Lonely Nights
@@ -15,6 +18,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1982-03-20'
+release_year: 1981
+runtime: 226466
 ---
 Oh!
 

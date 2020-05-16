@@ -1,8 +1,11 @@
 ---
+album: Montevallo
 artists:
 - Sam Hunt
+external_ids:
+  spotify: spotify:track:2XxjRGbbwxCeSsSPZrbyoL
 features: []
-genres: []
+first_released_as_single: true
 key: break-up-in-a-small-town-sam-hunt
 lyrics_url: https://www.azlyrics.com/lyrics/samhunt/breakupinasmalltown.html
 name: Break Up In A Small Town
@@ -87,8 +90,9 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '2016-03-05'
+release_year: 2014
+runtime: 231813
 ---
-
 I knew I'd see her around
 I'd be at some party, she'd show up and I'd be walking out
 Or across some parking lot hiding behind her sister
@@ -161,6 +165,3 @@ I swear it's like I can't even leave my house
 I should've known all along
 You gotta move or move on
 When you break up in a small town
-
-
-

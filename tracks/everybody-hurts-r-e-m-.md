@@ -1,8 +1,11 @@
 ---
+album: Automatic For The People
 artists:
 - R.E.M.
+external_ids:
+  spotify: spotify:track:6PypGyiu0Y2lCDBN1XZEnP
 features: []
-genres: []
+first_released_as_single: false
 key: everybody-hurts-r-e-m-
 lyrics_url: https://genius.com/Rem-everybody-hurts-lyrics
 name: Everybody Hurts
@@ -87,6 +90,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1994-01-22'
+release_year: 1992
+runtime: 320266
 ---
 When the day is long
 And the night, the night is yours alone

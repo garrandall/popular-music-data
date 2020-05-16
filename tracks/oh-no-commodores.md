@@ -1,8 +1,11 @@
 ---
+album: In The Pocket
 artists:
 - Commodores
+external_ids:
+  spotify: spotify:track:4t374JpKYq4OGTUoJ4PVwm
 features: []
-genres: []
+first_released_as_single: false
 key: oh-no-commodores
 lyrics_url: https://genius.com/Commodores-oh-no-lyrics
 name: Oh No
@@ -87,6 +90,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1982-02-06'
+release_year: 1981
+runtime: 184306
 ---
 I want you to want me
 I'm going crazy knowing he will be your lover tonight

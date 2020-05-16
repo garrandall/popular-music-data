@@ -1,8 +1,11 @@
 ---
+album: The Hits
 artists:
 - Chris Montez
+external_ids:
+  spotify: spotify:track:444KcU3lpVKUzRt12q1Tz2
 features: []
-genres: []
+first_released_as_single: false
 key: some-kinda-fun-chris-montez
 lyrics_url: https://genius.com/Chris-montez-some-kinda-fun-lyrics
 name: Some Kinda Fun
@@ -43,6 +46,8 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '1963-02-02'
+release_year: 1962
+runtime: 147973
 ---
 Well, they're dancing all over, yeah
 They're dancing everywhere I go

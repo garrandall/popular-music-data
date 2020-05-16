@@ -1,8 +1,11 @@
 ---
+album: Losing Sleep
 artists:
 - Chris Young
+external_ids:
+  spotify: spotify:track:6CyJlVAEFlNdpggOLanytL
 features: []
-genres: []
+first_released_as_single: false
 key: hangin--on-chris-young
 lyrics_url: https://genius.com/Chris-young-hangin-on-lyrics
 name: Hangin' On
@@ -59,6 +62,8 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '2018-12-08'
+release_year: 2017
+runtime: 185440
 ---
 I'm a few drinks in, but that ain't the reason
 I'm all tongue-tied and my breath's leaving this fast

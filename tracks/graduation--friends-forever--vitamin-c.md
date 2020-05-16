@@ -1,8 +1,11 @@
 ---
+album: Vitamin C
 artists:
 - Vitamin C
+external_ids:
+  spotify: spotify:track:45V4Mk7vZV2b9JfSWuUX9m
 features: []
-genres: []
+first_released_as_single: false
 key: graduation--friends-forever--vitamin-c
 lyrics_url: https://www.azlyrics.com/lyrics/vitaminc/graduationfriendsforever.html
 name: Graduation (Friends Forever)
@@ -55,8 +58,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '2000-07-01'
+release_year: 1999
+runtime: 340613
 ---
-
 And so we talked all night about the rest of our lives
 Where we're gonna be when we turn 25
 I keep thinking times will never change
@@ -149,6 +153,3 @@ And as our lives change
 Come whatever
 We will still be
 Friends forever
-
-
-

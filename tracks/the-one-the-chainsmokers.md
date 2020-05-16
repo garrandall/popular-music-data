@@ -1,8 +1,11 @@
 ---
+album: Memories...Do Not Open
 artists:
 - The Chainsmokers
+external_ids:
+  spotify: spotify:track:619A7U0RtsSEvqJeJdazJ3
 features: []
-genres: []
+first_released_as_single: true
 key: the-one-the-chainsmokers
 lyrics_url: https://genius.com/The-chainsmokers-the-one-lyrics
 name: The One
@@ -15,6 +18,8 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '2017-04-29'
+release_year: 2017
+runtime: 177573
 ---
 You know, I'm sorry
 I won't make it to your party

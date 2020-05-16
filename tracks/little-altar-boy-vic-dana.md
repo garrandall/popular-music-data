@@ -1,8 +1,11 @@
 ---
+album: Vic Dana Sings Little Alter Boy and Other Christmas Songs
 artists:
 - Vic Dana
+external_ids:
+  spotify: spotify:track:0xDBb1glVyuw0fn0VLsKrM
 features: []
-genres: []
+first_released_as_single: false
 key: little-altar-boy-vic-dana
 lyrics_url: https://genius.com/Vic-dana-little-altar-boy-lyrics
 name: Little Altar Boy
@@ -39,6 +42,8 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '1962-01-20'
+release_year: 1961
+runtime: 197853
 ---
 Little alter boy, I wonder could you pray for me?
 Little alter boy, for I have gone astray

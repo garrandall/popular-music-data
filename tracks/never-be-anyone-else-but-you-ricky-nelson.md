@@ -1,8 +1,11 @@
 ---
+album: Ricky Sings Again
 artists:
 - Ricky Nelson
+external_ids:
+  spotify: spotify:track:0snHlyyyUp2hKYEz7ffmkx
 features: []
-genres: []
+first_released_as_single: false
 key: never-be-anyone-else-but-you-ricky-nelson
 lyrics_url: https://www.azlyrics.com/lyrics/rickynelson/neverbeanyoneelsebutyou.html
 name: Never Be Anyone Else But You
@@ -71,8 +74,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1959-06-08'
+release_year: 1959
+runtime: 136266
 ---
-
 There'll never be anyone else
 But you for me
 Never ever be
@@ -120,6 +124,3 @@ Anyone else but you
 Mm, mm, mm, mm
 Mm, mm, mm
 Mm, mm, mm
-
-
-

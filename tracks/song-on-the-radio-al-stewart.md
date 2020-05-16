@@ -1,8 +1,11 @@
 ---
+album: Time Passages
 artists:
 - Al Stewart
+external_ids:
+  spotify: spotify:track:477NR3TPQPWYPj7e1FHFpk
 features: []
-genres: []
+first_released_as_single: false
 key: song-on-the-radio-al-stewart
 lyrics_url: https://www.azlyrics.com/lyrics/alstewart/songontheradio.html
 name: Song On The Radio
@@ -43,8 +46,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1979-03-24'
+release_year: 1978
+runtime: 385880
 ---
-
 I was making my way through the wasteland
 The road into town passes through
 I was changing the radio stations
@@ -107,6 +111,3 @@ You're on my mind like a
 Song on the Radio
 You're on my mind like a
 Song on the Radio
-
-
-

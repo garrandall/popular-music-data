@@ -1,8 +1,11 @@
 ---
+album: This One's for You
 artists:
 - Luke Combs
+external_ids:
+  spotify: spotify:track:6xHI9KjUjYT0FPtGO8Mxa1
 features: []
-genres: []
+first_released_as_single: false
 key: hurricane-luke-combs
 lyrics_url: https://www.azlyrics.com/lyrics/lukecombs/hurricane.html
 name: Hurricane
@@ -95,8 +98,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2017-07-29'
+release_year: 2017
+runtime: 222533
 ---
-
 Hadn't had a good time
 Since you know when
 Got talked into going out
@@ -168,6 +172,3 @@ You wrecked my whole world when you came
 And hit me like a hurricane
 You hit me like a hurricane
 Hit me like a hurricane
-
-
-

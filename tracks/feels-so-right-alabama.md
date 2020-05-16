@@ -1,8 +1,11 @@
 ---
+album: 'Livin'' Lovin'' Rockin'' Rollin'': The 25th Anniversary Collection'
 artists:
 - Alabama
+external_ids:
+  spotify: spotify:track:3ZQ7bFBquNdzelPHbzwJd6
 features: []
-genres: []
+first_released_as_single: false
 key: feels-so-right-alabama
 lyrics_url: https://genius.com/Alabama-feels-so-right-lyrics
 name: Feels So Right
@@ -95,6 +98,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1981-10-31'
+release_year: 1980
+runtime: 215786
 ---
 Whisper to me softly
 Breathe words upon my skin

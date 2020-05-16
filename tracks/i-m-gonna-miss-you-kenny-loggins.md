@@ -1,8 +1,11 @@
 ---
+album: Back To Avalon
 artists:
 - Kenny Loggins
+external_ids:
+  spotify: spotify:track:0k7xF4CsvVyGQ11t81asRx
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-gonna-miss-you-kenny-loggins
 lyrics_url: https://genius.com/Kenny-loggins-im-gonna-miss-you-lyrics
 name: I'm Gonna Miss You
@@ -27,6 +30,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1988-12-10'
+release_year: 1988
+runtime: 260160
 ---
 If you've thought it over
 And you've made your mind up

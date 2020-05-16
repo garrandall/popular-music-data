@@ -1,9 +1,12 @@
 ---
+album: Greatest Hits
 artists:
 - 2Pac
+external_ids:
+  spotify: spotify:track:1ZB2zIoc8AjSuyqKRcJgbO
 features:
 - K-Ci And JoJo
-genres: []
+first_released_as_single: false
 key: how-do-u-want-it-2pac-k-ci-and-jojo
 lyrics_url: https://genius.com/2pac-how-do-u-want-it-lyrics
 name: How Do U Want It
@@ -104,6 +107,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1996-11-23'
+release_year: 1996
+runtime: 287760
 ---
 How do you want it?
 How do you feel?

@@ -1,8 +1,11 @@
 ---
+album: Perfect Strangers
 artists:
 - Deep Purple
+external_ids:
+  spotify: spotify:track:1VJBQdDrOblSLmoZMeh1xh
 features: []
-genres: []
+first_released_as_single: false
 key: knocking-at-your-back-door-deep-purple
 lyrics_url: https://www.azlyrics.com/lyrics/deeppurple/knockingatyourbackdoor.html
 name: Knocking At Your Back Door
@@ -35,8 +38,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1985-02-16'
+release_year: 1984
+runtime: 425200
 ---
-
 Sweet Lucy was a dancer
 But none of us would chance her
 Because she was a Samurai
@@ -76,6 +80,3 @@ A master of many tongues
 And now she eases gently
 From her Austin to her Bentley
 Suddenly she feels so young
-
-
-

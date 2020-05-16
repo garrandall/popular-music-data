@@ -1,8 +1,11 @@
 ---
+album: Carolina
 artists:
 - Eric Church
+external_ids:
+  spotify: spotify:track:5XcMzuskwO305UC7RBm9Zu
 features: []
-genres: []
+first_released_as_single: false
 key: hell-on-the-heart-eric-church
 lyrics_url: https://www.azlyrics.com/lyrics/ericchurch/hellontheheart.html
 name: Hell On The Heart
@@ -55,8 +58,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2010-06-05'
+release_year: 2009
+runtime: 164733
 ---
-
 No if, and's, but's or maybe's
 So you wanna be her baby
 I can read your face like a book
@@ -101,6 +105,3 @@ When she's gone the world goes dark
 Yeah she's heaven on the eyes
 But boy she's hell on the heart
 Yeah she's hell on the heart
-
-
-

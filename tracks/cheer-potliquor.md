@@ -1,8 +1,11 @@
 ---
+album: Levee Blues
 artists:
 - Potliquor
+external_ids:
+  spotify: spotify:track:3UHSbjTOdqvqdLV0asr7HC
 features: []
-genres: []
+first_released_as_single: false
 key: cheer-potliquor
 name: Cheer
 rankings:
@@ -50,5 +53,7 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1972-04-15'
+release_year: 1972
+runtime: 295942
 ---
 

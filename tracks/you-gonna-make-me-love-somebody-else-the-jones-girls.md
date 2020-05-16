@@ -1,8 +1,11 @@
 ---
+album: The Jones Girls
 artists:
 - The Jones Girls
+external_ids:
+  spotify: spotify:track:7MRCd5tmZ2iURu4elcBsuH
 features: []
-genres: []
+first_released_as_single: false
 key: you-gonna-make-me-love-somebody-else-the-jones-girls
 lyrics_url: https://genius.com/Jones-girls-you-gonna-make-me-love-somebody-else-lyrics
 name: You Gonna Make Me Love Somebody Else
@@ -51,6 +54,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1979-09-01'
+release_year: 1979
+runtime: 270786
 ---
 You gonna make me love somebody else
 If you keep on treating me the way you do

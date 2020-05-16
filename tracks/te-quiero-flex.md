@@ -1,8 +1,11 @@
 ---
+album: Te Quiero
 artists:
 - Flex
+external_ids:
+  spotify: spotify:track:1Z4IqxukC6Yuer0nK7rC2R
 features: []
-genres: []
+first_released_as_single: false
 key: te-quiero-flex
 lyrics_url: https://genius.com/Flex-te-quiero-lyrics
 name: Te Quiero
@@ -75,6 +78,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2008-08-16'
+release_year: 2007
+runtime: 199110
 ---
 Romantic Style In Da World
 En la monarquía

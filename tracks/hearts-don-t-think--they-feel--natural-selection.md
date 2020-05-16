@@ -1,8 +1,11 @@
 ---
+album: Natural Selection
 artists:
 - Natural Selection
+external_ids:
+  spotify: spotify:track:3ULIONwEunWTZpvM1LjRMN
 features: []
-genres: []
+first_released_as_single: false
 key: hearts-don-t-think--they-feel--natural-selection
 lyrics_url: https://genius.com/Natural-selection-hearts-dont-think-they-feel-lyrics
 name: Hearts Don't Think (They Feel)
@@ -63,6 +66,8 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1992-03-07'
+release_year: 1991
+runtime: 256666
 ---
 He said that it was love at first sight
 You knew he wasn’t right

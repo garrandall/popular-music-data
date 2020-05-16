@@ -1,8 +1,11 @@
 ---
+album: Greatest Hits
 artists:
 - Mitch Miller
+external_ids:
+  spotify: spotify:track:7zMkgVKLTUQfbKUAiBWxdc
 features: []
-genres: []
+first_released_as_single: false
 key: bluebell-mitch-miller-and-his-orchestra-and-chorus
 lyrics_url: https://www.musixmatch.com/lyrics/Mitch-Miller/Bluebell
 name: Bluebell
@@ -11,6 +14,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1958-10-13'
+release_year: 1950
+runtime: 137493
 ---
 Don't be blue
 My pretty bluebell

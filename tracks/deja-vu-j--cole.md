@@ -1,8 +1,11 @@
 ---
+album: 4 Your Eyez Only
 artists:
 - J. Cole
+external_ids:
+  spotify: spotify:track:3Mac4K88ZiCg2ASPY9GLTK
 features: []
-genres: []
+first_released_as_single: false
 key: deja-vu-j--cole
 lyrics_url: https://genius.com/J-cole-deja-vu-lyrics
 name: Deja Vu
@@ -87,6 +90,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2017-05-13'
+release_year: 2016
+runtime: 264746
 ---
 Huh, ayy, put a finger in the sky if you want it, nigga
 Ayy, put two fingers in the sky if you want her

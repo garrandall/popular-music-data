@@ -1,8 +1,11 @@
 ---
+album: G.T.O. Best Of The Mala Recordings
 artists:
 - Ronny And The Daytonas
+external_ids:
+  spotify: spotify:track:4yrTrpb8liAIFuA6Qlvqum
 features: []
-genres: []
+first_released_as_single: false
 key: sandy-ronny-and-the-daytonas
 lyrics_url: https://genius.com/Ronny-and-the-daytonas-sandy-lyrics
 name: Sandy
@@ -51,6 +54,8 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '1966-02-12'
+release_year: 1965
+runtime: 165760
 ---
 Hey, girl, with sunlight in your hair (wo-o-o-oh)
 It hurts me so to see you standing there (wo-o-o-oh)

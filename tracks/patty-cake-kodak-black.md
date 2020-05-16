@@ -1,8 +1,11 @@
 ---
+album: Painting Pictures
 artists:
 - Kodak Black
+external_ids:
+  spotify: spotify:track:0bXFIF7iL17TYLyx8JHziM
 features: []
-genres: []
+first_released_as_single: false
 key: patty-cake-kodak-black
 lyrics_url: https://www.azlyrics.com/lyrics/kodakblack/pattycake.html
 name: Patty Cake
@@ -19,8 +22,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2017-09-09'
+release_year: 2017
+runtime: 198109
 ---
-
 Sniper Gang
 Yeah, I like this lil' beat right here
 Yeah, this a nice little beat
@@ -85,6 +89,3 @@ I clap a nigga like patty cake
 I'm swaggin', I got flavour, I got sauce, call me Ragu
 I love my baby girl pussy bald, call her Caillou
 I clap a nigga like patty cake
-
-
-

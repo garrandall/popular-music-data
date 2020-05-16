@@ -1,8 +1,11 @@
 ---
+album: Writing's On The Wall
 artists:
 - Sam Smith
+external_ids:
+  spotify: spotify:track:1PWnAEQcbwQwK759otUbta
 features: []
-genres: []
+first_released_as_single: true
 key: writing-s-on-the-wall-sam-smith
 lyrics_url: https://genius.com/Sam-smith-writings-on-the-wall-lyrics
 name: Writing's On The Wall
@@ -15,6 +18,8 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '2015-11-28'
+release_year: 2015
+runtime: 278987
 ---
 I've been here before
 But always hit the floor

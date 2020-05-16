@@ -1,8 +1,11 @@
 ---
+album: Playing The Angel (U.S. Release)
 artists:
 - Depeche Mode
+external_ids:
+  spotify: spotify:track:5i0CFn1d9ydu4ufgEoqyJ3
 features: []
-genres: []
+first_released_as_single: true
 key: precious-depeche-mode
 lyrics_url: https://www.azlyrics.com/lyrics/depechemode/precious.html
 name: Precious
@@ -19,8 +22,9 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '2005-11-12'
+release_year: 2005
+runtime: 246146
 ---
-
 Precious and fragile things
 Need special handling
 My God what have we done to you
@@ -59,6 +63,3 @@ I thought we'd manage
 But words left unspoken
 Left us so brittle
 There was so little left to give
-
-
-

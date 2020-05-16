@@ -1,8 +1,11 @@
 ---
+album: Old Boots, New Dirt
 artists:
 - Jason Aldean
+external_ids:
+  spotify: spotify:track:0yLAJvnay8hXAU0exdXSXi
 features: []
-genres: []
+first_released_as_single: false
 key: sweet-little-somethin--jason-aldean
 lyrics_url: https://www.azlyrics.com/lyrics/jasonaldean/sweetlittlesomethin.html
 name: Sweet Little Somethin'
@@ -15,8 +18,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2014-09-27'
+release_year: 2014
+runtime: 204333
 ---
-
 Just what I had in mind
 Thinkin' about the weekend
 Standin' by the Yeti with the party lights plugged in
@@ -73,6 +77,3 @@ The way you slide that across the seat
 Lookin' so damn good to me
 Hey little girl right now
 I need a sweet little somethin' like you
-
-
-

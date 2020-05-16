@@ -1,8 +1,11 @@
 ---
+album: The Best Of Vanessa Williams 20th Century Masters The Millennium Collection
 artists:
 - Vanessa Williams
+external_ids:
+  spotify: spotify:track:7HE6N9A7EevBHGThb74Vm9
 features: []
-genres: []
+first_released_as_single: false
 key: darlin--i-vanessa-williams
 lyrics_url: https://www.azlyrics.com/lyrics/vanessawilliams/darlini.html
 name: Darlin' I
@@ -23,8 +26,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1989-06-24'
+release_year: 1989
+runtime: 252666
 ---
-
 Oh, oh
 Oh, oh.
 Oh, ohoh, oh, ohoh, ohoh
@@ -67,6 +71,3 @@ Tell me why, tell me why. Why. Oh, oh.
 (Darlin', I) Woo, hoo, yeah.
 You never meant to make me cry.
 Don't say goodbye.
-
-
-

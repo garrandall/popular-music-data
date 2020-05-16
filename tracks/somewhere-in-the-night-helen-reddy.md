@@ -1,8 +1,11 @@
 ---
+album: No Way To Treat A Lady
 artists:
 - Helen Reddy
+external_ids:
+  spotify: spotify:track:1YZWQsksL5bZwFmCE2oWG0
 features: []
-genres: []
+first_released_as_single: false
 key: somewhere-in-the-night-helen-reddy
 lyrics_url: https://www.azlyrics.com/lyrics/helenreddy/somewhereinthenight.html
 name: Somewhere In The Night
@@ -63,8 +66,9 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1976-03-06'
+release_year: 1975
+runtime: 209800
 ---
-
 Time, you found time enough to love
 I found love enough to hold you
 Tonight I'll stir the fire you feel inside
@@ -112,6 +116,3 @@ We'll just go on burning bright
 Somewhere in the night
 We'll just go on burning bright
 Somewhere in the night
-
-
-

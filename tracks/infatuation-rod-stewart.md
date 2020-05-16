@@ -1,8 +1,11 @@
 ---
+album: Camouflage
 artists:
 - Rod Stewart
+external_ids:
+  spotify: spotify:track:2TduKpYWZMxYfDW4NXqgLZ
 features: []
-genres: []
+first_released_as_single: false
 key: infatuation-rod-stewart
 lyrics_url: https://www.azlyrics.com/lyrics/rodstewart/infatuation.html
 name: Infatuation
@@ -79,8 +82,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1984-09-22'
+release_year: 1984
+runtime: 314533
 ---
-
 Early in the morning I can't sleep
 I can't work and I can't eat
 I've been drunk all day, can't concentrate
@@ -126,6 +130,3 @@ Infatuation
 Infatuation
 Infatuation
 Rev it up
-
-
-

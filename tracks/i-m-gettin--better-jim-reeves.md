@@ -1,8 +1,11 @@
 ---
+album: The Best Of
 artists:
 - Jim Reeves
+external_ids:
+  spotify: spotify:track:67HW5Q4qZPTNo8eiATRbEs
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-gettin--better-jim-reeves
 lyrics_url: https://genius.com/Jim-reeves-im-gettin-better-lyrics
 name: I'm Gettin' Better
@@ -47,6 +50,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1960-08-22'
+release_year: 1960
+runtime: 135866
 ---
 I walked by the river
 Where we said goodbye

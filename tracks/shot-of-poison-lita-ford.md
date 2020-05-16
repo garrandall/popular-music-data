@@ -1,8 +1,11 @@
 ---
+album: Dangerous Curves
 artists:
 - Lita Ford
+external_ids:
+  spotify: spotify:track:7fG4AeCFHXxeXnAXfkmiFk
 features: []
-genres: []
+first_released_as_single: false
 key: shot-of-poison-lita-ford
 lyrics_url: https://www.azlyrics.com/lyrics/litaford/shotofpoison.html
 name: Shot Of Poison
@@ -63,8 +66,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1992-02-01'
+release_year: 1991
+runtime: 210733
 ---
-
 Gotta love for destruction
 Gotta feel for danger tonight
 Hey, Mr. Moonlight won't you follow me down
@@ -106,6 +110,3 @@ Come on, baby, poison me
 One drop of your sweet poison
 Sets me free
 One shot
-
-
-

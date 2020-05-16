@@ -1,8 +1,11 @@
 ---
+album: Captured
 artists:
 - Journey
+external_ids:
+  spotify: spotify:track:2UeR6yurdPTxg07GfTdDLC
 features: []
-genres: []
+first_released_as_single: false
 key: the-party-s-over--hopelessly-in-love--journey
 lyrics_url: https://genius.com/Journey-the-partys-over-hopelessly-in-love-greatest-hits-2-version-lyrics
 name: The Party's Over (Hopelessly In Love)
@@ -59,6 +62,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1981-05-23'
+release_year: 1975
+runtime: 220226
 ---
 You never call me up
 When I'm alone at night

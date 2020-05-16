@@ -1,8 +1,11 @@
 ---
+album: Testify
 artists:
 - P.O.D.
+external_ids:
+  spotify: spotify:track:3vN4i2bywGZdsVAJEMTqUC
 features: []
-genres: []
+first_released_as_single: true
 key: goodbye-for-now-p-o-d-
 lyrics_url: https://genius.com/Pod-goodbye-for-now-lyrics
 name: Goodbye For Now
@@ -15,6 +18,8 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '2006-02-18'
+release_year: 2005
+runtime: 236920
 ---
 I can still see the light at the end of the tunnel shine
 Through the dark times, even when I lose my mind

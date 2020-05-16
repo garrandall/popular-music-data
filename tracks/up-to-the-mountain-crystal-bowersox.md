@@ -1,8 +1,11 @@
 ---
+album: Up To The Mountain
 artists:
 - Crystal Bowersox
+external_ids:
+  spotify: spotify:track:47Dey0jXZv5PdGmCGR1jYa
 features: []
-genres: []
+first_released_as_single: true
 key: up-to-the-mountain-crystal-bowersox
 lyrics_url: https://www.azlyrics.com/lyrics/crystalbowersox/uptothemountain.html
 name: Up To The Mountain
@@ -11,8 +14,9 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '2010-06-12'
+release_year: 2010
+runtime: 233200
 ---
-
 I went up to the mountain
 Because you asked me to
 Up over the clouds
@@ -52,6 +56,3 @@ But sooner or later
 It's there I will go
 Sooner or later
 It's there I will go
-
-
-

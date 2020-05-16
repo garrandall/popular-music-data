@@ -1,8 +1,11 @@
 ---
+album: Culture II
 artists:
 - Migos
+external_ids:
+  spotify: spotify:track:43dOwOq0mB4i6j4SpcSkqC
 features: []
-genres: []
+first_released_as_single: false
 key: higher-we-go--intro--migos
 lyrics_url: https://www.azlyrics.com/lyrics/migos/higherwegointro.html
 name: Higher We Go (Intro)
@@ -11,9 +14,9 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '2018-02-10'
+release_year: 2018
+runtime: 255849
 ---
-
-
 Higher we go, beg and plead for the culture
 Higher we go, beg and plead for the-
 
@@ -127,6 +130,3 @@ Higher we go, beg and plead for the culture
 Higher we go, beg and plead for the culture
 Higher we go, beg and plead for the culture
 Higher we go, beg and plead for the culture
-
-
-

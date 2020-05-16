@@ -1,8 +1,11 @@
 ---
+album: Jack Scott's Greatest Hits
 artists:
 - Jack Scott
+external_ids:
+  spotify: spotify:track:2Un1O9CChp4wyTmt422XwW
 features: []
-genres: []
+first_released_as_single: false
 key: my-true-love-jack-scott
 lyrics_url: https://www.musixmatch.com/lyrics/Jack-Scott/My-True-Love
 name: My True Love
@@ -63,6 +66,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1958-11-03'
+release_year: 1958
+runtime: 165026
 ---
 I prayed to the Lord to send me a love
 He sent me an angel from heaven above

@@ -1,8 +1,11 @@
 ---
+album: Livin' Proof
 artists:
 - Group Home
+external_ids:
+  spotify: spotify:track:2QECh0fEPnaTxRWsVBrUz7
 features: []
-genres: []
+first_released_as_single: false
 key: supa-star-group-home
 lyrics_url: https://genius.com/Group-home-supa-star-lyrics
 name: Supa Star
@@ -27,6 +30,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1995-03-04'
+release_year: 1995
+runtime: 321626
 ---
 Damn son
 What the fuck is wrong with you man?

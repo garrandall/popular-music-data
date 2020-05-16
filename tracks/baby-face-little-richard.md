@@ -1,8 +1,11 @@
 ---
+album: 'Little Richard: All-Time Greatest Hits (Rerecorded Version)'
 artists:
 - Little Richard
+external_ids:
+  spotify: spotify:track:0w4TFB60uMomT9kkNPdHiZ
 features: []
-genres: []
+first_released_as_single: false
 key: baby-face-little-richard
 lyrics_url: https://genius.com/Little-richard-baby-face-lyrics
 name: Baby Face
@@ -47,6 +50,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1958-11-17'
+release_year: 1958
+runtime: 129560
 ---
 Hm, baby face
 You've got the cutest little, hm, baby face

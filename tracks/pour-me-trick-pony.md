@@ -1,8 +1,11 @@
 ---
+album: Trick Pony
 artists:
 - Trick Pony
+external_ids:
+  spotify: spotify:track:2enprHJA0siL33w7TaN7VH
 features: []
-genres: []
+first_released_as_single: false
 key: pour-me-trick-pony
 lyrics_url: https://www.azlyrics.com/lyrics/trickpony/pourme.html
 name: Pour Me
@@ -63,8 +66,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2001-05-05'
+release_year: 2001
+runtime: 172000
 ---
-
 Pour me, pour me
 Pour me, pour me another shot of whiskey
 Bartender hit me one more time
@@ -112,6 +116,3 @@ Pour Me
 Pour Me
 Pour Me
 Pour Me
-
-
-

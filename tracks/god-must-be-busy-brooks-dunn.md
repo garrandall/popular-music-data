@@ -1,9 +1,12 @@
 ---
+album: Cowboy Town
 artists:
 - Brooks
 - Dunn
+external_ids:
+  spotify: spotify:track:3XREqhLzypw6NzrFg1RMsr
 features: []
-genres: []
+first_released_as_single: false
 key: god-must-be-busy-brooks-dunn
 lyrics_url: https://www.azlyrics.com/lyrics/brooksdunn/godmustbebusy.html
 name: God Must Be Busy
@@ -52,8 +55,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2008-04-12'
+release_year: 2007
+runtime: 231440
 ---
-
 That anchorman says they're fighting again
 Somewhere in the Middle East 
 The world prays for peace
@@ -110,6 +114,3 @@ God must be busy
 That anchorman says the fighting's worse
 Cities burn in the Middle East
 The world prays for peace
-
-
-

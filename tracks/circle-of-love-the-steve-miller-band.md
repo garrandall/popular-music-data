@@ -47,7 +47,6 @@ You put a circle of love around me
 
 And I give you my heart
 I was in love right from the start
-(Iiiii Iiiii Iiiii Iiiii Iiiii Iiiii Iiiii Iiiii)
 
 Got my first kiss in the back seat of a car
 I was hot, I was really rarin' to go
@@ -56,7 +55,6 @@ At the drive-in, the drive-in movie show
 
 And I gave her my heart
 I was in love right from the start
-(Iiiii Iiiii Iiiii Iiiii)
 
 Oh
 When I met you baby
@@ -68,7 +66,3 @@ You put a circle of love around me
 
 And I give you my heart
 I was in love right from the start
-(Iiiii Iiiii Iiiii Iiiii Iiiii Iiiii Iiiii Iiiii)
-
-
-

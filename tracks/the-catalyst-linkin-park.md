@@ -1,8 +1,11 @@
 ---
+album: A Thousand Suns
 artists:
 - Linkin Park
+external_ids:
+  spotify: spotify:track:4kDGVthdNeTeIgeIIT2WHp
 features: []
-genres: []
+first_released_as_single: true
 key: the-catalyst-linkin-park
 lyrics_url: https://www.azlyrics.com/lyrics/linkinpark/thecatalyst.html
 name: The Catalyst
@@ -47,9 +50,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2010-10-30'
+release_year: 2010
+runtime: 339853
 ---
-
-
 God bless us everyone,
 We're a broken people living under loaded gun.
 And it can't be outfought,
@@ -116,6 +119,3 @@ And it can't be outfought,
 It can't be outdone,
 It can't be outmatched,
 It can't be outrun.
-
-
-

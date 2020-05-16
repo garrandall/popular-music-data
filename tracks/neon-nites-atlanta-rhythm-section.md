@@ -1,8 +1,11 @@
 ---
+album: A Rock And Roll Alternative
 artists:
 - Atlanta Rhythm Section
+external_ids:
+  spotify: spotify:track:6vY9Uvbi0kQW5OEpNow1dI
 features: []
-genres: []
+first_released_as_single: false
 key: neon-nites-atlanta-rhythm-section
 lyrics_url: https://www.azlyrics.com/lyrics/atlantarhythmsection/neonnites.html
 name: Neon Nites
@@ -35,8 +38,9 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '1977-07-16'
+release_year: 1976
+runtime: 237933
 ---
-
 We were two crazy people
 It was a neon night
 A little glitter
@@ -81,6 +85,3 @@ Neon nites with you
 
 I miss those neon nites
 With you
-
-
-

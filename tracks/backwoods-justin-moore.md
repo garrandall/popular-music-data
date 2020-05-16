@@ -1,8 +1,11 @@
 ---
+album: Justin Moore
 artists:
 - Justin Moore
+external_ids:
+  spotify: spotify:track:3mSAhPW73pyeKoquI7E8B3
 features: []
-genres: []
+first_released_as_single: false
 key: backwoods-justin-moore
 lyrics_url: https://www.azlyrics.com/lyrics/justinmoore/backwoods.html
 name: Backwoods
@@ -59,8 +62,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2010-06-05'
+release_year: 2009
+runtime: 155893
 ---
-
 Rifle in a gun rack hanging in the back glass
 Buck knife on my belt, ain't no land for sale 'round here
 Red clay country mud, sippin' on a cold Bud
@@ -95,6 +99,3 @@ Work hard, play hard, hold my baby tight
 Lordy have mercy it's a real good life
 In the backwoods, down in the holler son
 Down in the backwoods
-
-
-

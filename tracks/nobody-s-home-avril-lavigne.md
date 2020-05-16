@@ -1,8 +1,11 @@
 ---
+album: Under My Skin
 artists:
 - Avril Lavigne
+external_ids:
+  spotify: spotify:track:0cZDC7uxNK8lqQ3GgyvCnD
 features: []
-genres: []
+first_released_as_single: false
 key: nobody-s-home-avril-lavigne
 lyrics_url: https://genius.com/Avril-lavigne-nobodys-home-lyrics
 name: Nobody's Home
@@ -75,6 +78,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2005-04-02'
+release_year: 2004
+runtime: 212413
 ---
 Well, I couldn't tell you
 Why she felt that way

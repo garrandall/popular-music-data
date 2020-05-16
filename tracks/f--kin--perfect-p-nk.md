@@ -1,8 +1,11 @@
 ---
+album: Greatest Hits...So Far!!!
 artists:
 - P!nk
+external_ids:
+  spotify: spotify:track:3MGJF1CDFGfjXESL2Heva0
 features: []
-genres: []
+first_released_as_single: false
 key: f--kin--perfect-p-nk
 lyrics_url: https://www.musixmatch.com/lyrics/P-nk-2/F-kin-Perfect-Explicit-Version
 name: F**kin' Perfect
@@ -127,6 +130,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2011-08-06'
+release_year: 2010
+runtime: 213413
 ---
 Made a wrong turn
 Once or twice

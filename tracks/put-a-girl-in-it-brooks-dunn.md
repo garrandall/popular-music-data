@@ -1,9 +1,12 @@
 ---
+album: Cowboy Town
 artists:
 - Brooks
 - Dunn
+external_ids:
+  spotify: spotify:track:2whdkf4NsAloiUJ9ISRVDM
 features: []
-genres: []
+first_released_as_single: false
 key: put-a-girl-in-it-brooks-dunn
 lyrics_url: https://www.azlyrics.com/lyrics/brooksdunn/putagirlinit.html
 name: Put A Girl In It
@@ -60,8 +63,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2008-09-06'
+release_year: 2007
+runtime: 207880
 ---
-
 You can buy you a brand new truck
 Chrome it all out, jack it way up
 You can build you a house up high on a hill
@@ -115,6 +119,3 @@ Put a girl in it
 
 If you wanna live the good life
 Better put a gir-r-rl in it
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Siempre Bravos
 artists:
 - Los Bravos
+external_ids:
+  spotify: spotify:track:5CjgQ6NFMEvaavM8nhC5ie
 features: []
-genres: []
+first_released_as_single: false
 key: bring-a-little-lovin--los-bravos
 lyrics_url: https://genius.com/Los-bravos-bring-a-little-lovin-lyrics
 name: Bring A Little Lovin'
@@ -35,6 +38,8 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '1968-07-06'
+release_year: 1968
+runtime: 162200
 ---
 I know that it's ten and you're stayin' in
 La la la la la la la la la

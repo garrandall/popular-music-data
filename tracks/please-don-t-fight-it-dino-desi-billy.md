@@ -1,10 +1,13 @@
 ---
+album: The Singles A's & B's
 artists:
 - Dino
 - Desi
 - Billy
+external_ids:
+  spotify: spotify:track:3a9JYMtoe0NeZwRXqLFQSr
 features: []
-genres: []
+first_released_as_single: false
 key: please-don-t-fight-it-dino-desi-billy
 name: Please Don't Fight It
 rankings:
@@ -36,5 +39,7 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1966-01-22'
+release_year: 1965
+runtime: 154146
 ---
 

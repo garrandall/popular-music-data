@@ -1,8 +1,11 @@
 ---
+album: 1976 Live in Cleveland
 artists:
 - Boston
+external_ids:
+  spotify: spotify:track:5AI2xXFim0MoWBg1RaJZO6
 features: []
-genres: []
+first_released_as_single: false
 key: a-man-i-ll-never-be-boston
 lyrics_url: https://genius.com/Boston-a-man-ill-never-be-lyrics
 name: A Man I'll Never Be
@@ -55,6 +58,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1979-02-03'
+release_year: 1976
+runtime: 402733
 ---
 If I said what's on my mind
 You'd turn and walk away

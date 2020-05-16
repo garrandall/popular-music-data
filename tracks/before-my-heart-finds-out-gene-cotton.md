@@ -1,8 +1,11 @@
 ---
+album: Save the Dancer
 artists:
 - Gene Cotton
+external_ids:
+  spotify: spotify:track:2wzOmiSpq2WlsN6x4XkLcs
 features: []
-genres: []
+first_released_as_single: false
 key: before-my-heart-finds-out-gene-cotton
 lyrics_url: https://www.musixmatch.com/lyrics/Gene-Cotton/Before-My-Heart-Finds-Out
 name: Before My Heart Finds Out
@@ -63,6 +66,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1978-05-06'
+release_year: 1978
+runtime: 151493
 ---
 Well, you woke me from a dream about you
 Just to say that you were leaving

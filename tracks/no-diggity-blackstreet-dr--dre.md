@@ -1,9 +1,12 @@
 ---
+album: Another Level
 artists:
 - BLACKstreet
+external_ids:
+  spotify: spotify:track:6MdqqkQ8sSC0WB4i8PyRuQ
 features:
 - Dr. Dre
-genres: []
+first_released_as_single: false
 key: no-diggity-blackstreet-dr--dre
 lyrics_url: https://genius.com/Blackstreet-no-diggity-lyrics
 name: No Diggity
@@ -132,6 +135,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1997-05-10'
+release_year: 1996
+runtime: 304600
 ---
 No diggity!
 You know what

@@ -1,8 +1,11 @@
 ---
+album: I'm Breathless
 artists:
 - Madonna
+external_ids:
+  spotify: spotify:track:0TtjIsd6WB3hzFu0ra8g8p
 features: []
-genres: []
+first_released_as_single: false
 key: hanky-panky-madonna
 lyrics_url: https://www.azlyrics.com/lyrics/madonna/hankypanky.html
 name: Hanky Panky
@@ -51,9 +54,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1990-09-08'
+release_year: 1990
+runtime: 239160
 ---
-
-
 Come over here!
 
 Some girls, they like candy, and others, they like to grind,
@@ -110,6 +113,3 @@ He gave me a spanky and the doctor smiled,
 So give it up, honey, 'cause I want it.
 Yeah.
 (Hanky panky, good spanky, don't wanna cry, I just wanna)
-
-
-

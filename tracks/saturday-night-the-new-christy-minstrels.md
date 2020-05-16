@@ -1,8 +1,11 @@
 ---
+album: Ramblin'
 artists:
 - The New Christy Minstrels
+external_ids:
+  spotify: spotify:track:5DrpHnEXZgqV2eJw3bisex
 features: []
-genres: []
+first_released_as_single: false
 key: saturday-night-the-new-christy-minstrels
 lyrics_url: https://www.musixmatch.com/lyrics/The-New-Christy-Minstrels/Saturday-Night
 name: Saturday Night
@@ -35,6 +38,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1963-12-07'
+release_year: 1963
+runtime: 140213
 ---
 Saturday night, Saturday night We all get together on Saturday night
 Put on your shoes, go downtown Do nothing but walk around On a Sunday or a Monday you can't do it right Ain't ya glad we got Saturday night Early in the evening all week long Sit on the stoop and sing your little song Cry on your pillow when things go wrong And wait for a Saturday night Saturday night, Saturday night

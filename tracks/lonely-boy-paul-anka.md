@@ -1,8 +1,11 @@
 ---
+album: Excitement on Park Avenue, Live at the Waldorf-Astoria
 artists:
 - Paul Anka
+external_ids:
+  spotify: spotify:track:6PwgMjWyQJBryRlXiPVXDM
 features: []
-genres: []
+first_released_as_single: false
 key: lonely-boy-paul-anka
 lyrics_url: https://www.azlyrics.com/lyrics/paulanka/lonelyboy.html
 name: Lonely Boy
@@ -67,8 +70,9 @@ rankings:
   rank: 37
   ranking_list: Billboard Hot 100
   start_date: '1959-09-07'
+release_year: 1959
+runtime: 263000
 ---
-
 I'm just a lonely boy
 Lonely and blue
 I'm all alone
@@ -119,6 +123,3 @@ I've got everything
 You could think of
 But all I want
 Is someone to love
-
-
-

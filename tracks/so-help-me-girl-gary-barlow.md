@@ -1,8 +1,11 @@
 ---
+album: Open Road
 artists:
 - Gary Barlow
+external_ids:
+  spotify: spotify:track:0nQkSwEVrZzG8gdJl0LJuD
 features: []
-genres: []
+first_released_as_single: false
 key: so-help-me-girl-gary-barlow
 lyrics_url: https://www.azlyrics.com/lyrics/garybarlow/sohelpmegirl.html
 name: So Help Me Girl
@@ -87,8 +90,9 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1998-02-28'
+release_year: 1997
+runtime: 268373
 ---
-
 You could've kissed me, like this wasn't gonna last
 Kept me from saying, something I'll never take back
 You could've held me like there was no chance
@@ -134,4 +138,3 @@ I'm falling down... (falling, falling, falling)
 I'm falling down... (You've got me falling down!)
 Cause I'm falling down... (You've got me falling down!)
 Falling...(You've got me falling down!)
-

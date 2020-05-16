@@ -1,8 +1,11 @@
 ---
+album: Soul Directions
 artists:
 - Arthur Conley
+external_ids:
+  spotify: spotify:track:6uu9g2xpWSPda9SFPvrAmO
 features: []
-genres: []
+first_released_as_single: false
 key: funky-street-arthur-conley
 lyrics_url: https://genius.com/Arthur-conley-funky-street-lyrics
 name: Funky Street
@@ -55,6 +58,8 @@ rankings:
   rank: 37
   ranking_list: Billboard Hot 100
   start_date: '1968-06-01'
+release_year: 1968
+runtime: 143133
 ---
 One used to be the shotgun
 Two used to be the bad boogaloo

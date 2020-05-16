@@ -1,8 +1,11 @@
 ---
+album: Telling All My Secrets
 artists:
 - Mitchell Tenpenny
+external_ids:
+  spotify: spotify:track:6y1z6w2ar92qmmpPhigf9g
 features: []
-genres: []
+first_released_as_single: true
 key: drunk-me-mitchell-tenpenny
 lyrics_url: https://genius.com/Mitchell-tenpenny-drunk-me-lyrics
 name: Drunk Me
@@ -91,6 +94,8 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '2019-01-12'
+release_year: 2018
+runtime: 223307
 ---
 Some people don't know when to quit, and that's why they quit
 Some need to hit the bottom to see they got a problem, they can't handle it

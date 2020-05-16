@@ -1,9 +1,12 @@
 ---
+album: Borderline
 artists:
 - Brooks
 - Dunn
+external_ids:
+  spotify: spotify:track:3z7aMSuKqrPQluiJro3Gqt
 features: []
-genres: []
+first_released_as_single: false
 key: my-maria-brooks-dunn
 lyrics_url: https://www.azlyrics.com/lyrics/brooksdunn/mymaria757528.html
 name: My Maria
@@ -56,8 +59,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1996-07-13'
+release_year: 1996
+runtime: 210866
 ---
-
 My Maria don't you know I've come a long, long way
 Yeah, I been longin' to see her
 When she's around she takes my blues away
@@ -87,6 +91,3 @@ Maria (Oh Maria I love you girl, Maria) I love you
 My Maria (Oh Maria I love you girl, oh my Maria)
 Maria (Oh Maria I love you girl, Maria) I love you
 Yes, I do now
-
-
-

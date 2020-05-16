@@ -1,8 +1,11 @@
 ---
+album: Up
 artists:
 - Right Said Fred
+external_ids:
+  spotify: spotify:track:1ZTXm56gnLkA0muzVoFEkR
 features: []
-genres: []
+first_released_as_single: true
 key: i-m-too-sexy-right-said-fred
 lyrics_url: https://genius.com/Right-said-fred-im-too-sexy-lyrics
 name: I'm Too Sexy
@@ -91,6 +94,8 @@ rankings:
   rank: 35
   ranking_list: Billboard Hot 100
   start_date: '1992-05-09'
+release_year: 1991
+runtime: 173800
 ---
 I'm too sexy for my love
 Too sexy for my love

@@ -1,8 +1,11 @@
 ---
+album: 'The Complete Capitol Singles: 1957-1966'
 artists:
 - Buck Owens and The Buckaroos
+external_ids:
+  spotify: spotify:track:480657GXYWD0Od9OuD96p2
 features: []
-genres: []
+first_released_as_single: false
 key: think-of-me-buck-owens-and-the-buckaroos
 name: Think Of Me
 rankings:
@@ -26,5 +29,7 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '1966-06-25'
+release_year: 1966
+runtime: 138506
 ---
 

@@ -1,8 +1,11 @@
 ---
+album: Wheels Are Turnin'
 artists:
 - REO Speedwagon
+external_ids:
+  spotify: spotify:track:5WwqdeavrQrbeAMDxGawse
 features: []
-genres: []
+first_released_as_single: false
 key: can-t-fight-this-feeling-reo-speedwagon
 lyrics_url: https://genius.com/Reo-speedwagon-cant-fight-this-feeling-lyrics
 name: Can't Fight This Feeling
@@ -79,6 +82,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1985-05-18'
+release_year: 1984
+runtime: 294773
 ---
 Oh, I can't fight this feeling any longer
 And yet, I'm still afraid to let it flow

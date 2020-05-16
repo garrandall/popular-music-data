@@ -1,8 +1,11 @@
 ---
+album: THE DISREGARD OF TIMEKEEPING
 artists:
 - Bonham
+external_ids:
+  spotify: spotify:track:0LdPlZKpROaZMLkR0CBpz2
 features: []
-genres: []
+first_released_as_single: false
 key: wait-for-you-bonham
 lyrics_url: https://genius.com/Bonham-wait-for-you-lyrics
 name: Wait For You
@@ -67,6 +70,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1990-03-03'
+release_year: 1989
+runtime: 302066
 ---
 Gone tomorrow, one day closer to your heart
 Lost around me, is time in itself when you're near

@@ -1,8 +1,11 @@
 ---
+album: Velvet Gloves And Spit
 artists:
 - Neil Diamond
+external_ids:
+  spotify: spotify:track:41i0yDGjtlXKOJQPdBu2Jy
 features: []
-genres: []
+first_released_as_single: false
 key: brooklyn-roads-neil-diamond
 lyrics_url: https://www.azlyrics.com/lyrics/neildiamond/brooklynroads.html
 name: Brooklyn Roads
@@ -31,8 +34,9 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1968-06-15'
+release_year: 1968
+runtime: 220666
 ---
-
 If I close my eyes
 I can almost hear my mother
 Callin', "Neil go find your brother
@@ -87,6 +91,3 @@ As he stands by my window
 And looks out on those
 Brooklyn roads
 Brooklyn roads
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Turn To You (Mother's Day Dedication)
 artists:
 - Justin Bieber
+external_ids:
+  spotify: spotify:track:4xDbvfk975nr05ctWgS8Nq
 features: []
-genres: []
+first_released_as_single: true
 key: turn-to-you--mother-s-day-dedication--justin-bieber
 lyrics_url: https://genius.com/Justin-bieber-turn-to-you-mothers-day-dedication-lyrics
 name: Turn To You (Mother's Day Dedication)
@@ -11,6 +14,8 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '2012-05-26'
+release_year: 2012
+runtime: 219973
 ---
 You worked two jobs
 To keep a roof above our heads

@@ -1,8 +1,11 @@
 ---
+album: Greatest Hits
 artists:
 - Jim Stafford
+external_ids:
+  spotify: spotify:track:7vBRldiHaqO8pof4M5TuSC
 features: []
-genres: []
+first_released_as_single: false
 key: turn-loose-of-my-leg-jim-stafford
 lyrics_url: https://genius.com/Jim-stafford-turn-loose-of-my-leg-lyrics
 name: Turn Loose Of My Leg
@@ -15,6 +18,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1977-02-05'
+release_year: 1977
+runtime: 196106
 ---
 These girls today they sure act funny
 Take you out and spend their money

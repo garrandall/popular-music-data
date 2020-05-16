@@ -1,8 +1,11 @@
 ---
+album: Throwing Copper
 artists:
 - Live
+external_ids:
+  spotify: spotify:track:5y9ivD2g37FSCEJpfhG7d5
 features: []
-genres: []
+first_released_as_single: false
 key: selling-the-drama-live
 lyrics_url: https://genius.com/Live-band-selling-the-drama-lyrics
 name: Selling The Drama
@@ -83,6 +86,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1994-10-08'
+release_year: 1994
+runtime: 205693
 ---
 And to love, the God
 And to fear, the flame

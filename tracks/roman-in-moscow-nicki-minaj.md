@@ -1,8 +1,11 @@
 ---
+album: Roman In Moscow
 artists:
 - Nicki Minaj
+external_ids:
+  spotify: spotify:track:6snTyt6Vld2R0SbKl5fZIY
 features: []
-genres: []
+first_released_as_single: true
 key: roman-in-moscow-nicki-minaj
 lyrics_url: https://genius.com/Nicki-minaj-roman-in-moscow-lyrics
 name: Roman In Moscow
@@ -15,6 +18,8 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '2011-12-24'
+release_year: 2011
+runtime: 157546
 ---
 I'm big willy, no bike gear
 I told you bitches last year

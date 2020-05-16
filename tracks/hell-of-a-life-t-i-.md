@@ -31,9 +31,9 @@ Every time I see you, shawty where ya headin tonight?
 (Hey, where ya headin shawty?)
 Sellin out arenas, chicks wit asses like Serena
 Man, shawty live a hell of a life (I'm tryna tell ya shawty)
-It's a hell of a liiiiiiiife man, shawty live a hell of a liiiiiife...
+It's a hell of a life man, shawty live a hell of a life...
 (That's how it is, real talk, true story)
-I ain't tellin no liiiiie man, shawty live a hell of a liiiiife...
+I ain't tellin no lie man, shawty live a hell of a life...
 (That's how it is, real talk, true story)
 
 
@@ -73,9 +73,9 @@ But instead they see me ballin, stuntin, everywhere we go - GO!
 
 Money won't fold, pockets all swoll
 Rubberband keep poppin off my bankroll
-(I ain't tellin no liiiiie man, shawty live a hell of a liiiiife...)
+(I ain't tellin no lie man, shawty live a hell of a life...)
 (That's how it is, real talk, true story)
 Brand new car fill my brand new chicks
 A hunred bands right quick let's see ya man do this
-(I ain't tellin no liiiiie man, shawty live a hell of a liiiiife...)
+(I ain't tellin no lie man, shawty live a hell of a life...)
 (That's how it is, real talk, true story)

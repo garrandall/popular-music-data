@@ -1,9 +1,12 @@
 ---
+album: Everybody Looking
 artists:
 - Gucci Mane
 - Drake
+external_ids:
+  spotify: spotify:track:2FRitmBAk5JiXAA02BKo4P
 features: []
-genres: []
+first_released_as_single: false
 key: back-on-road-gucci-mane-drake
 lyrics_url: https://www.azlyrics.com/lyrics/guccimane/backonroad.html
 name: Back On Road
@@ -12,9 +15,9 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '2016-08-13'
+release_year: 2016
+runtime: 149080
 ---
-
-
 Zone six!
 
 
@@ -73,6 +76,3 @@ Get my jewelry out the safe cause I'm back on road
 I still do these hoes the same when I'm back on road
 If you wasn't there for me when I was all alone
 Then bitch don't expect no love when I'm back
-
-
-

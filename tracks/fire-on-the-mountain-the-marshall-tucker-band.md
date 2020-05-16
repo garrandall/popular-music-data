@@ -1,8 +1,11 @@
 ---
+album: Searchin' for a Rainbow
 artists:
 - The Marshall Tucker Band
+external_ids:
+  spotify: spotify:track:4delgtiKX7L3nsbC0exhCS
 features: []
-genres: []
+first_released_as_single: false
 key: fire-on-the-mountain-the-marshall-tucker-band
 lyrics_url: https://www.azlyrics.com/lyrics/marshalltuckerband/fireonthemountain.html
 name: Fire On The Mountain
@@ -59,8 +62,9 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1976-01-10'
+release_year: 1975
+runtime: 236466
 ---
-
 Took my fam'ly away from my Carolina home 
 Had dreams about the West and started to roam 
 Six long months on a dust covered trail 
@@ -92,6 +96,3 @@ Gold in them hills and it's waitin' for me there
 Fire on the mountain, lightnin' in the air
 Gold in them hills and it's waitin' for me there
 Waitin' for me there
-
-
-

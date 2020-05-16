@@ -1,8 +1,11 @@
 ---
+album: Songs Of Our Soil
 artists:
 - Johnny Cash
+external_ids:
+  spotify: spotify:track:0KSHmjK7OFtGocvbo7NZNO
 features: []
-genres: []
+first_released_as_single: false
 key: five-feet-high-and-rising-johnny-cash
 lyrics_url: https://www.azlyrics.com/lyrics/johnnycash/fivefeethighandrising.html
 name: Five Feet High And Rising
@@ -19,8 +22,9 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1959-09-21'
+release_year: 1959
+runtime: 107280
 ---
-
 My mama always taught me that good things come from adversity if we put our faith in the Lord.
 We couldn't see much good in the flood waters when they 
 were causing us to have to leave home, 
@@ -71,6 +75,3 @@ We can't come back till the water comes down,
 Five feet high and risin'
 
 Well, it's five feet high and risin'
-
-
-

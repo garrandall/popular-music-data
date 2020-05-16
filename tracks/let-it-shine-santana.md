@@ -1,8 +1,11 @@
 ---
+album: Amigos
 artists:
 - Santana
+external_ids:
+  spotify: spotify:track:4AMl4Y5N249gn0bmXpkuXW
 features: []
-genres: []
+first_released_as_single: false
 key: let-it-shine-santana
 lyrics_url: https://genius.com/Santana-let-it-shine-lyrics
 name: Let It Shine
@@ -19,6 +22,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1976-06-05'
+release_year: 1976
+runtime: 342333
 ---
 Clap your hands, make a smile
 Let me know you hear me

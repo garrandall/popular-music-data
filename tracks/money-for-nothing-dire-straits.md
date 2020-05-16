@@ -1,8 +1,11 @@
 ---
+album: Brothers in Arms
 artists:
 - Dire Straits
+external_ids:
+  spotify: spotify:track:4yqtwO7MQIIXqoiRBPHAgR
 features: []
-genres: []
+first_released_as_single: false
 key: money-for-nothing-dire-straits
 lyrics_url: https://genius.com/Dire-straits-money-for-nothing-lyrics
 name: Money For Nothing
@@ -95,6 +98,8 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1985-12-07'
+release_year: 1985
+runtime: 506400
 ---
 I want my...
 I want my MTV

@@ -1,8 +1,11 @@
 ---
+album: True (2003 Remastered Version)
 artists:
 - Spandau Ballet
+external_ids:
+  spotify: spotify:track:1KRy2REKqKQa9EOB4Ka5zU
 features: []
-genres: []
+first_released_as_single: false
 key: gold-spandau-ballet
 lyrics_url: https://www.azlyrics.com/lyrics/spandauballet/gold.html
 name: Gold
@@ -55,8 +58,9 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '1984-02-04'
+release_year: 1983
+runtime: 290720
 ---
-
 Thank you for coming home
 I'm sorry that the chairs are all worn
 I left them here I could have sworn
@@ -112,6 +116,3 @@ Gold
 I'm glad that you're bound to return
 Something I could have learned
 You're indestructible, always believing
-
-
-

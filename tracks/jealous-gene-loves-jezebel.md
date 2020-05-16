@@ -1,8 +1,11 @@
 ---
+album: Desire
 artists:
 - Gene Loves Jezebel
+external_ids:
+  spotify: spotify:track:2efkUNMRy5wM5vHpZnVtLY
 features: []
-genres: []
+first_released_as_single: false
 key: jealous-gene-loves-jezebel
 lyrics_url: https://genius.com/Gene-loves-jezebel-jealous-lyrics
 name: Jealous
@@ -47,6 +50,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1990-10-20'
+release_year: 1990
+runtime: 204960
 ---
 I really notice that you don't sleep at night
 Say why do you worry, why you hurting inside?

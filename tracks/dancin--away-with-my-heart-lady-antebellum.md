@@ -1,8 +1,11 @@
 ---
+album: Own The Night Spotify Interview
 artists:
 - Lady Antebellum
+external_ids:
+  spotify: spotify:track:15P18JShfeqH2MhxoKCAr2
 features: []
-genres: []
+first_released_as_single: false
 key: dancin--away-with-my-heart-lady-antebellum
 lyrics_url: https://www.azlyrics.com/lyrics/ladyantebellum/dancinawaywithmyheart.html
 name: Dancin' Away With My Heart
@@ -83,8 +86,9 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '2012-06-02'
+release_year: 2011
+runtime: 64170
 ---
-
 I finally asked you to dance
 On the last slow song
 Beneath that moon that was really a disco ball
@@ -115,7 +119,4 @@ Nah nah nah
 
 Away with My Heart
 
-Nah nah nah 
-
-
-
+Nah nah nah

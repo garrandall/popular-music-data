@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music, Volume 2'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:4M44ezhmtmWq97SZATK9eD
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-stand-so-close-to-me-glee-cast
 lyrics_url: https://genius.com/Glee-cast-dont-stand-so-close-to-me-young-girl-lyrics
 name: Don't Stand So Close To Me
@@ -11,6 +14,8 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '2009-12-05'
+release_year: 2009
+runtime: 146693
 ---
 Young teacher
 The subject of schoolgirl fantasy

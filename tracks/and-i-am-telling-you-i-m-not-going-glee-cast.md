@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music, Volume 2'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:5qddWI3SMzfPbZaOSj9XGw
 features: []
-genres: []
+first_released_as_single: false
 key: and-i-am-telling-you-i-m-not-going-glee-cast
 lyrics_url: https://genius.com/Glee-cast-and-i-am-telling-you-im-not-going-lyrics
 name: And I Am Telling You I'm Not Going
@@ -11,6 +14,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2009-12-26'
+release_year: 2009
+runtime: 246866
 ---
 And I am tellin' you I'm not goin'
 You're best man I'll ever know

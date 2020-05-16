@@ -1,8 +1,11 @@
 ---
+album: 'Put Your Head On My Shoulder: The Very Best Of Paul Anka'
 artists:
 - Paul Anka
+external_ids:
+  spotify: spotify:track:09au7Gh4yO6625e1jy1OHk
 features: []
-genres: []
+first_released_as_single: false
 key: remember-diana-paul-anka
 lyrics_url: https://genius.com/Paul-anka-remember-diana-lyrics
 name: Remember Diana
@@ -39,6 +42,8 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '1963-06-01'
+release_year: 1963
+runtime: 116373
 ---
 Everybody remembers Diana
 And just how much I loved her

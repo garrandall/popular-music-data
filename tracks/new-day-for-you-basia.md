@@ -1,8 +1,11 @@
 ---
+album: Time And Tide
 artists:
 - Basia
+external_ids:
+  spotify: spotify:track:4JJr5dNWuJ6mOmPUBkQ4I8
 features: []
-genres: []
+first_released_as_single: false
 key: new-day-for-you-basia
 lyrics_url: https://www.azlyrics.com/lyrics/basia/newdayforyou.html
 name: New Day For You
@@ -51,8 +54,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1989-02-18'
+release_year: 1987
+runtime: 269000
 ---
-
 Hello again it's me
 
 Your shoulder's where I sit
@@ -103,6 +107,3 @@ It's gonna be a new day for you
 A new day for you, new day for you, new day for you
 
 Hello again it's me
-
-
-

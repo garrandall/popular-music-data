@@ -1,8 +1,11 @@
 ---
+album: The Resolution Tour Live
 artists:
 - Jesse McCartney
+external_ids:
+  spotify: spotify:track:56LMxFFL4FacadvviKDAh9
 features: []
-genres: []
+first_released_as_single: true
 key: shake-jesse-mccartney
 lyrics_url: https://www.azlyrics.com/lyrics/jessemccartney/shake.html
 name: Shake
@@ -55,9 +58,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2011-01-15'
+release_year: 2010
+runtime: 188560
 ---
-
-
 I met this girl down the block from me
 Used to tell myself she was too hot for me
 But then I saw her at the corner store
@@ -103,4 +106,3 @@ When she calls I know
 Exactly what she wants from me
 Yea anytime I hear my phone ringin'
 She wants to shake it with me
-

@@ -1,8 +1,11 @@
 ---
+album: Peter Alsop
 artists:
 - Larry Groce
+external_ids:
+  spotify: spotify:track:00HnYt4dGTSZJIxywDcs7P
 features: []
-genres: []
+first_released_as_single: true
 key: junk-food-junkie-larry-groce
 lyrics_url: https://genius.com/Larry-groce-junk-food-junkie-lyrics
 name: Junk Food Junkie
@@ -67,6 +70,8 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '1976-04-17'
+release_year: 1976
+runtime: 196346
 ---
 You know I love that organic cooking
 I always ask for more

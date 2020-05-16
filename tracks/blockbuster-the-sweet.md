@@ -1,8 +1,11 @@
 ---
+album: Live In America
 artists:
 - The Sweet
+external_ids:
+  spotify: spotify:track:7nvqg2Lkn7mYnmtP5egCmr
 features: []
-genres: []
+first_released_as_single: false
 key: blockbuster-the-sweet
 lyrics_url: https://www.azlyrics.com/lyrics/sweet/blockbuster.html
 name: Blockbuster
@@ -35,8 +38,9 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '1973-07-28'
+release_year: 1973
+runtime: 194000
 ---
-
 Ah-ah, ah-ah
 
 You better beware, you better take care
@@ -81,6 +85,3 @@ Buster, Buster, block Buster
 Buster, Buster, block Buster
 Buster, Buster, block Buster
 Buster, Buster, block Buster
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: For the Roses
 artists:
 - Joni Mitchell
+external_ids:
+  spotify: spotify:track:0ClDL3UrFy6vXhuGPKlNMJ
 features: []
-genres: []
+first_released_as_single: false
 key: you-turn-me-on-i-m-a-radio-joni-mitchell
 lyrics_url: https://genius.com/Joni-mitchell-you-turn-me-on-im-a-radio-lyrics
 name: You Turn Me On I'm A Radio
@@ -71,6 +74,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1973-02-24'
+release_year: 1972
+runtime: 159946
 ---
 If you're driving into town
 With a dark cloud above you

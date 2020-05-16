@@ -1,8 +1,11 @@
 ---
+album: Bobby Vinton's Greatest Hits
 artists:
 - Bobby Vinton
+external_ids:
+  spotify: spotify:track:5qAAs6ndwSQJ7YZ4wZ3Py8
 features: []
-genres: []
+first_released_as_single: false
 key: trouble-is-my-middle-name-bobby-vinton
 lyrics_url: https://www.azlyrics.com/lyrics/bobbyvinton/troubleismymiddlename.html
 name: Trouble Is My Middle Name
@@ -43,8 +46,9 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1963-02-02'
+release_year: 1962
+runtime: 146626
 ---
-
 Hello, little girl, goodbye, little girl 
 I'm not your kind of guy, little girl 
 I'll only make you cry, little girl 
@@ -70,6 +74,3 @@ Trouble (trouble, trouble, trouble, trouble) is my middle name
 Oh, trouble (trouble, trouble, trouble, trouble) is my middle name 
 FADE 
 Yes, trouble (trouble, trouble, trouble, trouble) is my middle name
-
-
-

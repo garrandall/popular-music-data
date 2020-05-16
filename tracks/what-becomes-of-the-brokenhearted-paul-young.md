@@ -1,8 +1,11 @@
 ---
+album: Fried Green Tomatoes
 artists:
 - Paul Young
+external_ids:
+  spotify: spotify:track:1BNloEvafOkfdV1wqi7JQc
 features: []
-genres: []
+first_released_as_single: false
 key: what-becomes-of-the-brokenhearted-paul-young
 lyrics_url: https://www.azlyrics.com/lyrics/paulyoung/whatbecomesofthebrokenhearted.html
 name: What Becomes Of The Brokenhearted
@@ -63,8 +66,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1992-05-02'
+release_year: 1991
+runtime: 274600
 ---
-
 As I walk this land of broken dreams
 I have visions of many things
 Happiness is just an illusion
@@ -122,6 +126,3 @@ I need love, baby
 (Who had love that's now departed)
 I need ya, darling, oh whoa, yeah
 I've gotta find a woman who is gonna love me, love me
-
-
-

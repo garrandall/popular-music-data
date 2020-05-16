@@ -1,8 +1,11 @@
 ---
+album: Mixed Emotions
 artists:
 - Exile
+external_ids:
+  spotify: spotify:track:2DizXuCkbDsLcGYu0XtE1I
 features: []
-genres: []
+first_released_as_single: false
 key: kiss-you-all-over-exile
 lyrics_url: https://genius.com/Exile-band-kiss-you-all-over-lyrics
 name: Kiss You All Over
@@ -99,6 +102,8 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1978-12-09'
+release_year: 1978
+runtime: 296826
 ---
 When I get home, babe
 Gonna light your fire

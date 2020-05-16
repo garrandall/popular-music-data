@@ -1,8 +1,11 @@
 ---
+album: Some Gave All
 artists:
 - Billy Ray Cyrus
+external_ids:
+  spotify: spotify:track:2EoIt9vdgFRNW03u5IvFsQ
 features: []
-genres: []
+first_released_as_single: false
 key: achy-breaky-heart-billy-ray-cyrus
 lyrics_url: https://www.azlyrics.com/lyrics/billyraycyrus/achybreakyheart.html
 name: Achy Breaky Heart
@@ -107,8 +110,9 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1992-10-24'
+release_year: 1992
+runtime: 203373
 ---
-
 You can tell the world you never was my girl
 You can burn my clothes when I'm gone
 Or you can tell your friends just what a fool I've been
@@ -148,6 +152,3 @@ Don't tell my heart my achy breaky heart...
 I just don't think he'd understand
 And if you tell my heart my achy breaky heart
 He might blow up and kill this man
-
-
-

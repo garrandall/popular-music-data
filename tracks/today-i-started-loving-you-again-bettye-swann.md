@@ -1,8 +1,11 @@
 ---
+album: Bettye Swann
 artists:
 - Bettye Swann
+external_ids:
+  spotify: spotify:track:0ZSJhbhBw7kXYW1XCT90r9
 features: []
-genres: []
+first_released_as_single: false
 key: today-i-started-loving-you-again-bettye-swann
 lyrics_url: https://genius.com/Bettye-swann-today-i-started-loving-you-again-lyrics
 name: Today I Started Loving You Again
@@ -35,6 +38,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1973-03-10'
+release_year: 1973
+runtime: 160000
 ---
 Today I started loving you again
 I'm right back where I've really always been

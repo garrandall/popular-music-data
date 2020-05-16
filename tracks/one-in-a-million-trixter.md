@@ -1,8 +1,11 @@
 ---
+album: Trixter
 artists:
 - Trixter
+external_ids:
+  spotify: spotify:track:21c4eOwp47FhhiFQWBLMz6
 features: []
-genres: []
+first_released_as_single: false
 key: one-in-a-million-trixter
 lyrics_url: https://genius.com/Trixter-one-in-a-million-lyrics
 name: One In A Million
@@ -39,6 +42,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1991-05-04'
+release_year: 1990
+runtime: 305706
 ---
 Once in your life you'll find someone
 To make it all so real

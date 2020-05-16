@@ -1,8 +1,11 @@
 ---
+album: Reality
 artists:
 - Smooth
+external_ids:
+  spotify: spotify:track:7rtGt7IE46Y9bxymlGnNqX
 features: []
-genres: []
+first_released_as_single: false
 key: strawberries-smooth
 lyrics_url: https://genius.com/Smooth-strawberries-lyrics
 name: Strawberries
@@ -75,6 +78,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1998-06-13'
+release_year: 1998
+runtime: 339800
 ---
 Coming at you once again
 Yeah, uh huh

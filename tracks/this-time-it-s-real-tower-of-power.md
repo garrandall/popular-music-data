@@ -1,8 +1,11 @@
 ---
+album: Tower Of Power
 artists:
 - Tower Of Power
+external_ids:
+  spotify: spotify:track:3sTDgTlRHa7D31JdklJ6Ou
 features: []
-genres: []
+first_released_as_single: false
 key: this-time-it-s-real-tower-of-power
 lyrics_url: https://genius.com/Tower-of-power-this-time-its-real-lyrics
 name: This Time It's Real
@@ -31,6 +34,8 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '1973-10-20'
+release_year: 1973
+runtime: 170800
 ---
 Saw me a girl today
 Who walk with such a gentle sway

@@ -1,8 +1,11 @@
 ---
+album: The World Is Yours 2
 artists:
 - Rich The Kid
+external_ids:
+  spotify: spotify:track:3KLo7ByvjCNyBrfz5DZ2mO
 features: []
-genres: []
+first_released_as_single: false
 key: splashin-rich-the-kid
 lyrics_url: https://www.azlyrics.com/lyrics/richthekid/splashin.html
 name: Splashin
@@ -27,8 +30,9 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '2019-04-06'
+release_year: 2019
+runtime: 177864
 ---
-
 I'm havin' dumb money
 
 Ayy, we can fuck lil' mama, I can't lip lock (I can't what)
@@ -98,6 +102,3 @@ Fendi, am I drippin or I'm splashin' (or I'm splashin')
 How you got a check and went broke again? (went broke again)
 Bitches wanting clout and I ain't kissin' 'em (I ain't kissin' 'em)
 Since I first got them hundreds, I've been flippin' 'em (flippin' 'em)
-
-
-

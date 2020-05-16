@@ -1,8 +1,11 @@
 ---
+album: The Vintage Collection
 artists:
 - The Tokens
+external_ids:
+  spotify: spotify:track:3oIF8A1apuk1kRAnGoVHRA
 features: []
-genres: []
+first_released_as_single: false
 key: she-lets-her-hair-down--early-in-the-morning--the-tokens
 lyrics_url: https://genius.com/The-tokens-she-lets-her-hair-down-lyrics
 name: She Lets Her Hair Down (Early In The Morning)
@@ -35,6 +38,8 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1970-01-24'
+release_year: 1969
+runtime: 171933
 ---
 Oooooo...
 She lets her hair down

@@ -1,9 +1,12 @@
 ---
+album: Think Like A Man - Music From & Inspired By The Film
 artists:
 - John Legend
+external_ids:
+  spotify: spotify:track:17zF2ISrDrQdaULA8cxReK
 features:
 - Ludacris
-genres: []
+first_released_as_single: false
 key: tonight--best-you-ever-had--john-legend-ludacris
 lyrics_url: https://www.azlyrics.com/lyrics/johnlegend/tonightbestyoueverhad.html
 name: Tonight (Best You Ever Had)
@@ -56,8 +59,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2012-10-13'
+release_year: 2012
+runtime: 239453
 ---
-
 Ah, alright.
 
 Ain't this what you came for?
@@ -130,6 +134,3 @@ I don't wanna brag,
 But I'll be the best you ever had
 I don't wanna brag,
 But I'll be the best you ever had
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: They Call Me The Fat Man (The Legendary Imperial Recordings)
 artists:
 - Fats Domino
+external_ids:
+  spotify: spotify:track:5HIQcqXFMI7yLOwJ0Y2VPM
 features: []
-genres: []
+first_released_as_single: false
 key: i-ve-been-around-fats-domino
 lyrics_url: https://genius.com/Fats-domino-ive-been-around-lyrics
 name: I've Been Around
@@ -43,6 +46,8 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '1959-12-21'
+release_year: 1959
+runtime: 131066
 ---
 I've been around the world it's true
 Searching for someone exactly like you

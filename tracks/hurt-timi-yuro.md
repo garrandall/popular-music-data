@@ -1,8 +1,11 @@
 ---
+album: Live At P.J.'s
 artists:
 - Timi Yuro
+external_ids:
+  spotify: spotify:track:2JpgRI3NswPDVw96dMKnMR
 features: []
-genres: []
+first_released_as_single: false
 key: hurt-timi-yuro
 lyrics_url: https://genius.com/Timi-yuro-hurt-lyrics
 name: Hurt
@@ -55,6 +58,8 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '1961-10-09'
+release_year: 1961
+runtime: 194853
 ---
 I'm so hurt
 To think that you lied to me

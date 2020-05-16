@@ -1,8 +1,11 @@
 ---
+album: Uncaged
 artists:
 - Zac Brown Band
+external_ids:
+  spotify: spotify:track:0Pmqh6inLb9GP9FT43rvxL
 features: []
-genres: []
+first_released_as_single: false
 key: jump-right-in-zac-brown-band
 lyrics_url: https://www.azlyrics.com/lyrics/zacbrownband/jumprightin.html
 name: Jump Right In
@@ -67,8 +70,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2013-08-17'
+release_year: 2012
+runtime: 180813
 ---
-
 The Southern wind sings again an island lullaby
 
 Baby powder beach under my feet has got me rolling
@@ -114,6 +118,3 @@ Oh and lose yourself again
 As the Southern wind sings again an island lullaby
 The Southern wind sings again an island lullaby
 Island lullaby
-
-
-

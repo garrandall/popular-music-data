@@ -1,9 +1,12 @@
 ---
+album: Elements
 artists:
 - Afrojack
+external_ids:
+  spotify: spotify:track:158HiKvIXaXuMnU5t3Or3h
 features:
 - Eva Simons
-genres: []
+first_released_as_single: true
 key: take-over-control-afrojack-eva-simons
 lyrics_url: https://www.azlyrics.com/lyrics/afrojack/takeovercontrol.html
 name: Take Over Control
@@ -88,8 +91,9 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '2011-11-12'
+release_year: 2010
+runtime: 221226
 ---
-
 Let's go take a ride in your car
 I will take the passenger seat
 Baby, we don't have to go far
@@ -163,6 +167,3 @@ Plug it in and turn me on
 
 Plug it in and turn me on
 (On, on, on, on, on...)
-
-
-

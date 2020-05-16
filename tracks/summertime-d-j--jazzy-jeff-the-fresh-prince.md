@@ -1,9 +1,12 @@
 ---
+album: Homebase
 artists:
 - D.J. Jazzy Jeff
 - The Fresh Prince
+external_ids:
+  spotify: spotify:track:5cFcWAWIcnV38t4YCWQiZZ
 features: []
-genres: []
+first_released_as_single: false
 key: summertime-d-j--jazzy-jeff-the-fresh-prince
 lyrics_url: https://genius.com/Dj-jazzy-jeff-and-the-fresh-prince-summertime-lyrics
 name: Summertime
@@ -80,6 +83,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1991-10-12'
+release_year: 1987
+runtime: 237093
 ---
 Drums Please!
 

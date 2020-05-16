@@ -1,8 +1,11 @@
 ---
+album: Get Rich Or Die Tryin'- The Original Motion Picture Soundtrack
 artists:
 - 50 Cent
+external_ids:
+  spotify: spotify:track:3hwwIr2pcL2IWBpEUj5Hya
 features: []
-genres: []
+first_released_as_single: false
 key: window-shopper-50-cent
 lyrics_url: https://www.azlyrics.com/lyrics/50cent/windowshopper.html
 name: Window Shopper
@@ -51,9 +54,9 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '2006-01-21'
+release_year: 2005
+runtime: 190306
 ---
-
-
 Ohh
 The top feels so much better than the bottom
 So much better
@@ -116,4 +119,3 @@ I came up from doing my thang
 Homey I'm holing, holing, holing
 shit man, the store owner watching you
 For something get stolen, stolen, stolen
-

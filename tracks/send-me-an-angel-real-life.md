@@ -1,8 +1,11 @@
 ---
+album: Heartland
 artists:
 - Real Life
+external_ids:
+  spotify: spotify:track:3HCDGtLZabH3umLgwCBpDB
 features: []
-genres: []
+first_released_as_single: false
 key: send-me-an-angel-real-life
 lyrics_url: https://genius.com/Real-life-send-me-an-angel-lyrics
 name: Send Me An Angel
@@ -83,6 +86,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1984-03-17'
+release_year: 1983
+runtime: 236546
 ---
 Do you believe in Heaven above?
 Do you believe in love?

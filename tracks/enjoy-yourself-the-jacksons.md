@@ -1,8 +1,11 @@
 ---
+album: The Jacksons
 artists:
 - The Jacksons
+external_ids:
+  spotify: spotify:track:5B4lDVUyEhWuSgRWGiZjwZ
 features: []
-genres: []
+first_released_as_single: false
 key: enjoy-yourself-the-jacksons
 lyrics_url: https://www.azlyrics.com/lyrics/jacksons/enjoyyourself.html
 name: Enjoy Yourself
@@ -91,8 +94,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1977-04-02'
+release_year: 1972
+runtime: 205000
 ---
-
 Enjoy yourself, enjoy yourself
 Enjoy yourself for me
 Enjoy yourself, enjoy yourself
@@ -166,6 +170,3 @@ Get on down
 (Get down, get down) Get on down
 (Enjoy yourself) Enjoy yourself
 (Get down, get down) Just get on down
-
-
-

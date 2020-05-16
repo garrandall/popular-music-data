@@ -1,9 +1,12 @@
 ---
+album: Afrodisiac
 artists:
 - Brandy
+external_ids:
+  spotify: spotify:track:6tvOzCdhzkrJo3ASWwbSPZ
 features:
 - Kanye West
-genres: []
+first_released_as_single: false
 key: talk-about-our-love-brandy-kanye-west
 lyrics_url: https://www.azlyrics.com/lyrics/brandy/talkaboutourlove.html
 name: Talk About Our Love
@@ -64,10 +67,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2004-08-14'
+release_year: 2004
+runtime: 214960
 ---
-
-
-
 What ya hear this time
 Go on and speak ya mind
 I know somebody's lying
@@ -159,6 +161,3 @@ How can they talk about our love
 When they don't know one thing about
 Instead they just runnin they mouth
 So all we do is tune them out
-
-
-

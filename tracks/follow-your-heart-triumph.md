@@ -1,8 +1,11 @@
 ---
+album: Thunder Seven
 artists:
 - Triumph
+external_ids:
+  spotify: spotify:track:5ElLpqkkBDi1jlXjhg47Od
 features: []
-genres: []
+first_released_as_single: false
 key: follow-your-heart-triumph
 lyrics_url: https://www.azlyrics.com/lyrics/triumph/followyourheart.html
 name: Follow Your Heart
@@ -15,8 +18,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1985-03-16'
+release_year: 1984
+runtime: 216426
 ---
-
 People say
 Don't ever look behind
 Happiness is just a state of mind
@@ -53,4 +57,3 @@ Oh, listen to the rhythm
 Your heart won't lie
 Rock and Roll hearts
 Just never die, never die
-

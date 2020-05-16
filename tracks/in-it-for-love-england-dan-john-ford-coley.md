@@ -1,9 +1,12 @@
 ---
+album: In It for Love
 artists:
 - England Dan
 - John Ford Coley
+external_ids:
+  spotify: spotify:track:4aSsDBxNFqIjy4X8EsXXMF
 features: []
-genres: []
+first_released_as_single: true
 key: in-it-for-love-england-dan-john-ford-coley
 lyrics_url: https://genius.com/England-dan-and-john-ford-coley-in-it-for-love-lyrics
 name: In It For Love
@@ -24,6 +27,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1980-03-29'
+release_year: 1980
+runtime: 218146
 ---
 Some men only want power
 Let them have it

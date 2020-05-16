@@ -1,8 +1,11 @@
 ---
+album: Best Of Buddy Miles
 artists:
 - Buddy Miles
+external_ids:
+  spotify: spotify:track:09BND3I7P7WWC1Nax98P7G
 features: []
-genres: []
+first_released_as_single: false
 key: wholesale-love-buddy-miles
 lyrics_url: https://genius.com/Buddy-miles-wholesale-love-lyrics
 name: Wholesale Love
@@ -31,6 +34,8 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '1971-06-19'
+release_year: 1971
+runtime: 159600
 ---
 Wholesale love, girl
 Wholesale love, girl

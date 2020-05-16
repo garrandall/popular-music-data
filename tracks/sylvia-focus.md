@@ -1,8 +1,11 @@
 ---
+album: Focus 3
 artists:
 - Focus
+external_ids:
+  spotify: spotify:track:6TJa7RJhrlI4PYaBv0Nx8h
 features: []
-genres: []
+first_released_as_single: false
 key: sylvia-focus
 lyrics_url: https://genius.com/Focus-band-sylvia-lyrics
 name: Sylvia
@@ -27,5 +30,7 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1973-08-25'
+release_year: 1972
+runtime: 211733
 ---
 Instrumental

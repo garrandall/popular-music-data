@@ -1,8 +1,11 @@
 ---
+album: Pray for the Wicked
 artists:
 - Panic! At The Disco
+external_ids:
+  spotify: spotify:track:76vMKwFtdDDCLcM6zXybjB
 features: []
-genres: []
+first_released_as_single: false
 key: say-amen--saturday-night--panic--at-the-disco
 lyrics_url: https://www.azlyrics.com/lyrics/panicatthedisco/sayamensaturdaynight.html
 name: Say Amen (Saturday Night)
@@ -19,8 +22,9 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '2018-07-07'
+release_year: 2018
+runtime: 189186
 ---
-
 Been traveling in packs that I can't carry anymore
 Been waiting for somebody else to carry me
 There's nothing else there for me at my door
@@ -71,6 +75,3 @@ It's Saturday, Saturday, it's Saturday
 Oh oh, it's Saturday night, yeah
 Swear to God, swear to God, swear to God
 Oh oh, it's Saturday night, yeah
-
-
-

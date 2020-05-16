@@ -1,8 +1,11 @@
 ---
+album: Days Of Thunder (Music From The Motion Picture Soundtrack)
 artists:
 - Chicago
+external_ids:
+  spotify: spotify:track:1tRjTcKUYaU67oPojBcHnu
 features: []
-genres: []
+first_released_as_single: false
 key: hearts-in-trouble-chicago
 lyrics_url: https://genius.com/Chicago-hearts-in-trouble-lyrics
 name: Hearts In Trouble
@@ -27,6 +30,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1990-08-25'
+release_year: 1990
+runtime: 316493
 ---
 Nothing's gonna turn your head
 You wouldn't let it

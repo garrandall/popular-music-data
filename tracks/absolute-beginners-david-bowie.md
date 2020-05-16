@@ -1,8 +1,11 @@
 ---
+album: Glass Spider
 artists:
 - David Bowie
+external_ids:
+  spotify: spotify:track:5PBFhuXB9tgBaP31nfbkS5
 features: []
-genres: []
+first_released_as_single: true
 key: absolute-beginners-david-bowie
 lyrics_url: https://www.azlyrics.com/lyrics/davidbowie/absolutebeginners.html
 name: Absolute Beginners
@@ -43,8 +46,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1986-05-24'
+release_year: 1986
+runtime: 337666
 ---
-
 I've nothing much to offer
 There's nothing much to take
 I'm an absolute beginner
@@ -84,6 +88,3 @@ If there's reason
 To feel all the hard times
 To lay down the hard lines
 It's absolutely true
-
-
-

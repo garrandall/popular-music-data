@@ -1,8 +1,11 @@
 ---
+album: Heads or Tails
 artists:
 - Saga
+external_ids:
+  spotify: spotify:track:5rGq0mRowzxAz8SIXi6ZST
 features: []
-genres: []
+first_released_as_single: false
 key: the-flyer-saga
 lyrics_url: https://www.azlyrics.com/lyrics/saga/theflyer.html
 name: The Flyer
@@ -19,8 +22,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1983-12-10'
+release_year: 1983
+runtime: 222800
 ---
-
 Back in ten minutes
 And I'll just hang the sign
 I've got to find a place
@@ -47,6 +51,3 @@ I fly- and never look back
 I fly away before they shoot me down
 I fly
 Hate to make you wait
-
-
-

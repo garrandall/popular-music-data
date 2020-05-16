@@ -1,8 +1,11 @@
 ---
+album: The Ultimate Peter And Gordon
 artists:
 - Peter And Gordon
+external_ids:
+  spotify: spotify:track:2yi1HjKqErtxTjK2v5TtjW
 features: []
-genres: []
+first_released_as_single: false
 key: i-go-to-pieces-peter-and-gordon
 lyrics_url: https://genius.com/Peter-and-gordon-i-go-to-pieces-lyrics
 name: I Go To Pieces
@@ -51,6 +54,8 @@ rankings:
   rank: 36
   ranking_list: Billboard Hot 100
   start_date: '1965-03-20'
+release_year: 1965
+runtime: 145266
 ---
 When I see her comin' down the street
 I get so shaky and I feel so weak

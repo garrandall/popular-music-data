@@ -1,8 +1,11 @@
 ---
+album: The Rolling Stones
 artists:
 - The Rolling Stones
+external_ids:
+  spotify: spotify:track:3JZllQBsTM6WwoJdzFDLhx
 features: []
-genres: []
+first_released_as_single: false
 key: tell-me--you-re-coming-back--the-rolling-stones
 lyrics_url: https://genius.com/The-rolling-stones-tell-me-lyrics
 name: Tell Me (You're Coming Back)
@@ -47,6 +50,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1964-09-05'
+release_year: 1964
+runtime: 245266
 ---
 I want you back again
 I want your love again

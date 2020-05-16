@@ -1,8 +1,11 @@
 ---
+album: All Or Nothing US Remix Album
 artists:
 - Milli Vanilli
+external_ids:
+  spotify: spotify:track:29lF0lJdbh6hY7vLfc65on
 features: []
-genres: []
+first_released_as_single: false
 key: blame-it-on-the-rain-milli-vanilli
 lyrics_url: https://www.azlyrics.com/lyrics/millivanilli/blameitontherain.html
 name: Blame It On The Rain
@@ -99,8 +102,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1990-03-10'
+release_year: 1989
+runtime: 402306
 ---
-
 You said you didn't need her...
 You told her good-bye (good-bye)...
 You sacrificed a good love...
@@ -179,6 +183,3 @@ That did shine that night
 Whatever you do don't put the blame on you
 Blame it on the rain yeah yeah
 Blame it on the rain (rain, rain)
-
-
-

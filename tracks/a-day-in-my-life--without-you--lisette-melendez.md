@@ -1,8 +1,11 @@
 ---
+album: Together Forever
 artists:
 - Lisette Melendez
+external_ids:
+  spotify: spotify:track:3OPEk0P6DCbdoaq63Kvcft
 features: []
-genres: []
+first_released_as_single: false
 key: a-day-in-my-life--without-you--lisette-melendez
 lyrics_url: https://genius.com/Lisette-melendez-a-day-in-my-life-without-you-lyrics
 name: A Day In My Life (Without You)
@@ -87,6 +90,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1992-02-08'
+release_year: 1991
+runtime: 228800
 ---
 You said that you still loved me
 Never once believed your eyes

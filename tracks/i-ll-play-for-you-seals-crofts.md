@@ -1,9 +1,12 @@
 ---
+album: I'll Play For You
 artists:
 - Seals
 - Crofts
+external_ids:
+  spotify: spotify:track:3ZbbX73MaieghBBb36x7s1
 features: []
-genres: []
+first_released_as_single: false
 key: i-ll-play-for-you-seals-crofts
 lyrics_url: https://genius.com/Seals-and-crofts-ill-play-for-you-lyrics
 name: I'll Play For You
@@ -68,6 +71,8 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '1975-07-12'
+release_year: 1972
+runtime: 245546
 ---
 Tonight while the lights are shinin' and the microphone is on, I'll play for you
 So many will be the blessings and so short will the time, I'll stay with you

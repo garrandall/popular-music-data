@@ -1,8 +1,11 @@
 ---
+album: New York Cake
 artists:
 - Kano
+external_ids:
+  spotify: spotify:track:0ukyc3KJiRiuyWZh7W4Efl
 features: []
-genres: []
+first_released_as_single: false
 key: can-t-hold-back--your-loving--kano
 lyrics_url: https://genius.com/Kano-ii-cant-hold-back-your-loving-lyrics
 name: Can't Hold Back (Your Loving)
@@ -27,6 +30,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1982-01-23'
+release_year: 1981
+runtime: 285695
 ---
 Come to me she calls me ( I really need your lovin’)
 Come to me I need you (right now)

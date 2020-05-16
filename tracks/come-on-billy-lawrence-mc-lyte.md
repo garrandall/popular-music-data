@@ -1,9 +1,12 @@
 ---
+album: Billy Lawrence - The Collection
 artists:
 - Billy Lawrence
+external_ids:
+  spotify: spotify:track:7Aez1J2O7a9qNcJ5XZyCH2
 features:
 - MC Lyte
-genres: []
+first_released_as_single: false
 key: come-on-billy-lawrence-mc-lyte
 lyrics_url: https://genius.com/Billy-lawrence-come-on-lyrics
 name: Come On
@@ -84,6 +87,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1997-08-16'
+release_year: 1997
+runtime: 248026
 ---
 I've been waitin' much too long to get it on
 It's the same old song, now correct me if I'm wrong

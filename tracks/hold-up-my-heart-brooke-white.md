@@ -1,8 +1,11 @@
 ---
+album: High Hopes & Heartbreak
 artists:
 - Brooke White
+external_ids:
+  spotify: spotify:track:2nJgEO3puyn2Pr81cNXcmY
 features: []
-genres: []
+first_released_as_single: true
 key: hold-up-my-heart-brooke-white
 lyrics_url: https://genius.com/Brooke-white-hold-up-my-heart-lyrics
 name: Hold Up My Heart
@@ -11,6 +14,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '2009-03-14'
+release_year: 2009
+runtime: 233906
 ---
 Please, hold up my heart
 Give me a reason for this empty silence

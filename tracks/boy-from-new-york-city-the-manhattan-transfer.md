@@ -1,8 +1,11 @@
 ---
+album: Mecca For Moderns
 artists:
 - The Manhattan Transfer
+external_ids:
+  spotify: spotify:track:2KGTNgVuEJpcqPhxRCQhSy
 features: []
-genres: []
+first_released_as_single: false
 key: boy-from-new-york-city-the-manhattan-transfer
 lyrics_url: https://www.azlyrics.com/lyrics/manhattantransfer/boyfromnewyorkcity.html
 name: Boy From New York City
@@ -91,8 +94,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1981-10-10'
+release_year: 1981
+runtime: 222160
 ---
-
 Oh wah, ohwah cool, cool kitty
 Tell us about the boy from New York City
 Oh wah, ohwah c'mon kitty
@@ -148,6 +152,3 @@ Oh wah, ohwah cool, cool kitty
 Tell us about the boy from New York City
 Oh wah, ohwah c'mon kitty
 Tell us about the boy from New York City
-
-
-

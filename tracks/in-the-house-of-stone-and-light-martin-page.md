@@ -1,8 +1,11 @@
 ---
+album: In The House Of Stone And Light
 artists:
 - Martin Page
+external_ids:
+  spotify: spotify:track:1QlIB0pkLKR8vEDSW7r42t
 features: []
-genres: []
+first_released_as_single: false
 key: in-the-house-of-stone-and-light-martin-page
 lyrics_url: https://genius.com/Martin-page-in-the-house-of-stone-and-light-lyrics
 name: In The House Of Stone And Light
@@ -147,6 +150,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1995-08-12'
+release_year: 1994
+runtime: 300800
 ---
 O Mount Kailas
 Uncover me

@@ -1,8 +1,11 @@
 ---
+album: Based On A T.R.U. Story
 artists:
 - 2 Chainz
+external_ids:
+  spotify: spotify:track:6J5sxraPPZ4b0CVOGAgpXj
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-different-2-chainz
 lyrics_url: https://genius.com/2-chainz-im-different-lyrics
 name: I'm Different
@@ -87,6 +90,8 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '2013-04-13'
+release_year: 2012
+runtime: 207040
 ---
 Yeah
 Yeah

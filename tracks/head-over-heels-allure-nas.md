@@ -1,9 +1,12 @@
 ---
+album: Allure
 artists:
 - Allure
+external_ids:
+  spotify: spotify:track:6QoWqiaRGI2F8ywtBW2Els
 features:
 - NAS
-genres: []
+first_released_as_single: true
 key: head-over-heels-allure-nas
 lyrics_url: https://www.azlyrics.com/lyrics/allure/headoverheels.html
 name: Head Over Heels
@@ -68,9 +71,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1997-06-21'
+release_year: 1997
+runtime: 234266
 ---
-
-
 The Firm, Trackmasters, Escobar, Allure Keep it raw!
 A-yo the bridge keep rockin
 we comin through bottles popin
@@ -154,4 +157,3 @@ I'm falling for you head over heels
 
 
 Falling, Falling, Falling...
-

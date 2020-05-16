@@ -1,8 +1,11 @@
 ---
+album: Green, Green Grass Of Home
 artists:
 - Tom Jones
+external_ids:
+  spotify: spotify:track:0ccg3zeLoxwFa4c5hM6hCI
 features: []
-genres: []
+first_released_as_single: false
 key: sixteen-tons-tom-jones
 lyrics_url: https://www.azlyrics.com/lyrics/tomjones/sixteentons.html
 name: Sixteen Tons
@@ -23,8 +26,9 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '1967-09-02'
+release_year: 1967
+runtime: 188866
 ---
-
 Some people say a man is made outta' mud
 A poor man's made outta' muscle and blood
 Muscle and blood and skin and bones
@@ -64,6 +68,3 @@ You load sixteen tons, what do you get?
 Another day older and deeper in debt
 Saint Peter, don't you call me 'cause I can't go
 I owe my soul to the company store
-
-
-

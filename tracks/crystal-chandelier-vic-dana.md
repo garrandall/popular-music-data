@@ -1,8 +1,11 @@
 ---
+album: Land of 1000 Dances - Songs of the 60's
 artists:
 - Vic Dana
+external_ids:
+  spotify: spotify:track:55reFlGkGCa0s4f3TUCDwp
 features: []
-genres: []
+first_released_as_single: false
 key: crystal-chandelier-vic-dana
 lyrics_url: https://genius.com/Vic-dana-crystal-chandelier-lyrics
 name: Crystal Chandelier
@@ -35,6 +38,8 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '1966-01-15'
+release_year: 1965
+runtime: 170506
 ---
 Oh, the crystal chandeliers
 Light up the paintings on your wall

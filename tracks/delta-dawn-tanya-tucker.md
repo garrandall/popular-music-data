@@ -1,8 +1,11 @@
 ---
+album: Tanya Tucker / Super Hits
 artists:
 - Tanya Tucker
+external_ids:
+  spotify: spotify:track:7GH8qNOm2gEKryVUyVzkmt
 features: []
-genres: []
+first_released_as_single: false
 key: delta-dawn-tanya-tucker
 lyrics_url: https://genius.com/Tanya-tucker-delta-dawn-lyrics
 name: Delta Dawn
@@ -35,6 +38,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1972-08-12'
+release_year: 1972
+runtime: 175200
 ---
 Delta Dawn
 What's that flower you have on?

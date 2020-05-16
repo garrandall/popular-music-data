@@ -1,8 +1,11 @@
 ---
+album: From The Outside
 artists:
 - Hey Violet
+external_ids:
+  spotify: spotify:track:0ozR63avkaXd8khhCnAGh8
 features: []
-genres: []
+first_released_as_single: true
 key: guys-my-age-hey-violet
 lyrics_url: https://www.azlyrics.com/lyrics/heyviolet/guysmyage.html
 name: Guys My Age
@@ -27,8 +30,9 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '2017-03-11'
+release_year: 2016
+runtime: 224336
 ---
-
 I haven't seen my ex since we broke up
 Probably 'cause he didn't wanna grow up
 Now I'm out and wearing something low-cut
@@ -92,6 +96,3 @@ Don't know how to touch me
 Don't know how to love me good
 So I'm never going back
 No, I'm never going back
-
-
-

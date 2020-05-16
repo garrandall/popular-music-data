@@ -1,8 +1,11 @@
 ---
+album: Changes
 artists:
 - Kelly Osbourne
+external_ids:
+  spotify: spotify:track:0Q0oeUZbccTCGs0y9CTY9w
 features: []
-genres: []
+first_released_as_single: false
 key: papa-don-t-preach-kelly-osbourne
 lyrics_url: https://genius.com/Kelly-osbourne-papa-dont-preach-lyrics
 name: Papa Don't Preach
@@ -15,6 +18,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '2002-07-20'
+release_year: 2002
+runtime: 205253
 ---
 Papa, I know you're going to be upset
 'Cause I was always your little girl

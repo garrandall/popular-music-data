@@ -1,8 +1,11 @@
 ---
+album: Paradise Valley
 artists:
 - John Mayer
+external_ids:
+  spotify: spotify:track:0QTCTu0CXv4X1JEE4gNpGv
 features: []
-genres: []
+first_released_as_single: false
 key: wildfire-john-mayer
 lyrics_url: https://www.azlyrics.com/lyrics/johnmayer/wildfireinterlude.html
 name: Wildfire
@@ -19,8 +22,9 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '2013-09-07'
+release_year: 2013
+runtime: 253493
 ---
-
 Only a nascent trying to harness huge fire
 Out on the beach in the darkness starting bonfire
 So gorgeous, a man might cry
@@ -38,6 +42,3 @@ Wildfire
 Wildfire
 Wildfire
 Wildfire
-
-
-

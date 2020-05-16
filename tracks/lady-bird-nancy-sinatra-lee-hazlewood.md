@@ -1,9 +1,12 @@
 ---
+album: Nancy & Lee
 artists:
 - Nancy Sinatra
 - Lee Hazlewood
+external_ids:
+  spotify: spotify:track:6Itvyf6uat9jiwgTKrMDRd
 features: []
-genres: []
+first_released_as_single: false
 key: lady-bird-nancy-sinatra-lee-hazlewood
 lyrics_url: https://genius.com/Nancy-sinatra-and-lee-hazlewood-lady-bird-lyrics
 name: Lady Bird
@@ -32,6 +35,8 @@ rankings:
   rank: 25
   ranking_list: Billboard Hot 100
   start_date: '1967-11-25'
+release_year: 1967
+runtime: 182773
 ---
 I've been where the eagle flies
 Rode his wings 'cross autumn skies

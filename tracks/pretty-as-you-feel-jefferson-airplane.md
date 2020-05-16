@@ -1,8 +1,11 @@
 ---
+album: Bark (Bonus Tracks)
 artists:
 - Jefferson Airplane
+external_ids:
+  spotify: spotify:track:7Caz24hQ36zafY6U1HoOCZ
 features: []
-genres: []
+first_released_as_single: false
 key: pretty-as-you-feel-jefferson-airplane
 lyrics_url: https://www.azlyrics.com/lyrics/jeffersonairplane/prettyasyoufeel.html
 name: Pretty As You Feel
@@ -47,8 +50,9 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1972-01-22'
+release_year: 1971
+runtime: 269586
 ---
-
 You're only pretty as you feel
 only pretty as you feel inside
 you're only pretty as you feel
@@ -79,6 +83,3 @@ you're only pretty as you feel
 just as pretty as you feel inside
 feelin' so pretty, feelin' so pretty
 pretty mama.
-
-
-

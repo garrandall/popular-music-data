@@ -1,10 +1,13 @@
 ---
+album: Alias Pink Puzz
 artists:
 - Paul Revere
 - The Raiders
+external_ids:
+  spotify: spotify:track:5n2nKBJ0SuEgf1aWDEH4tn
 features:
 - Mark Lindsay
-genres: []
+first_released_as_single: false
 key: let-me-paul-revere-the-raiders-mark-lindsay
 name: Let Me
 rankings:
@@ -56,5 +59,7 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '1969-08-02'
+release_year: 1969
+runtime: 238066
 ---
 

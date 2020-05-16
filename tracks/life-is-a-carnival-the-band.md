@@ -1,8 +1,11 @@
 ---
+album: Cahoots
 artists:
 - The Band
+external_ids:
+  spotify: spotify:track:1lCf2jwMLYhkOS5qGqg3st
 features: []
-genres: []
+first_released_as_single: false
 key: life-is-a-carnival-the-band
 lyrics_url: https://www.azlyrics.com/lyrics/band/lifeisacarnival.html
 name: Life Is A Carnival
@@ -31,8 +34,9 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1971-11-20'
+release_year: 1971
+runtime: 240360
 ---
-
 You can walk on the water, drown in the sand
 You can fly off a mountaintop if anybody can
 Run away, run away--it's the restless age
@@ -59,6 +63,3 @@ Here on the street
 I got six on each arm and two more round my feet
 Life is a carnival--believe it or not
 Life is a carnival--two bits a shot
-
-
-

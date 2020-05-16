@@ -1,8 +1,11 @@
 ---
+album: Rocky IV
 artists:
 - John Cafferty
+external_ids:
+  spotify: spotify:track:5vI0C3TDTxySR6Oq8NWjE0
 features: []
-genres: []
+first_released_as_single: false
 key: heart-s-on-fire-john-cafferty
 lyrics_url: https://www.azlyrics.com/lyrics/johncaffertythebeaverbrownband/heartsonfire.html
 name: Heart's On Fire
@@ -31,8 +34,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1986-04-05'
+release_year: 1985
+runtime: 252920
 ---
-
 Silence in the darkness creeps into your soul
 Envy moves the light of self control
 The gate that holds you captive has the door
@@ -71,6 +75,3 @@ Right up till the end
 Oh
 Heart's on fire (heart's on fire) (heart's on fire)
 Strong desire (heart's on fire)
-
-
-

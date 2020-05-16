@@ -1,8 +1,11 @@
 ---
+album: Come Softly To Me
 artists:
 - The Fleetwoods
+external_ids:
+  spotify: spotify:track:3UIA4xOZMUFJayTSNkbo6E
 features: []
-genres: []
+first_released_as_single: false
 key: goodnight-my-love-the-fleetwoods
 lyrics_url: https://genius.com/The-fleetwoods-goodnight-my-love-lyrics
 name: Goodnight My Love
@@ -51,6 +54,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1963-08-10'
+release_year: 1963
+runtime: 143266
 ---
 Goodnight, my love (goodnight)
 Pleasant dreams and sleep tight, my love (sleep tight)

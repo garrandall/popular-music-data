@@ -1,8 +1,11 @@
 ---
+album: Sean Kingston
 artists:
 - Sean Kingston
+external_ids:
+  spotify: spotify:track:1hGy2eLcmC8eKx7qr1tOqx
 features: []
-genres: []
+first_released_as_single: true
 key: beautiful-girls-sean-kingston
 lyrics_url: https://www.azlyrics.com/lyrics/seankingston/beautifulgirls.html
 name: Beautiful Girls
@@ -95,8 +98,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2007-11-03'
+release_year: 2007
+runtime: 225373
 ---
-
 JR! Sean Kingston!
 
 You're way too beautiful girl
@@ -186,6 +190,3 @@ When you say it's over
 Damn, all these beautiful girls
 They only wanna do you dirt
 They'll have you suicidal, suicidal, suicidal, suicidal
-
-
-

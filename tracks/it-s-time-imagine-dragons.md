@@ -1,8 +1,11 @@
 ---
+album: Night Visions
 artists:
 - Imagine Dragons
+external_ids:
+  spotify: spotify:track:6vRPkStwQmUrs13jpDG6Sd
 features: []
-genres: []
+first_released_as_single: true
 key: it-s-time-imagine-dragons
 lyrics_url: https://genius.com/Imagine-dragons-its-time-lyrics
 name: It's Time
@@ -195,6 +198,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2013-05-11'
+release_year: 2012
+runtime: 271373
 ---
 So this is what you meant
 When you said that you were spent

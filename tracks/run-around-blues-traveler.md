@@ -1,8 +1,11 @@
 ---
+album: Four
 artists:
 - Blues Traveler
+external_ids:
+  spotify: spotify:track:500Tkm3vJmVtdUwdCVxCTb
 features: []
-genres: []
+first_released_as_single: false
 key: run-around-blues-traveler
 lyrics_url: https://www.azlyrics.com/lyrics/bluestraveler/runaround.html
 name: Run-Around
@@ -203,8 +206,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1996-02-24'
+release_year: 1994
+runtime: 279800
 ---
-
 Oh,
 Once upon a midnight dreary
 I woke with something in my head
@@ -281,6 +285,3 @@ Oh, yeah, now
 Why you wanna give me a run-around
 Is it a sure-fire way to speed things up
 When all it does is slow me down
-
-
-

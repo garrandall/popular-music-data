@@ -1,8 +1,11 @@
 ---
+album: 'Down & Depressed: Dangerous'
 artists:
 - Joe
+external_ids:
+  spotify: spotify:track:5l9OOOqdb0qlxDvenEnZ80
 features: []
-genres: []
+first_released_as_single: false
 key: i-wanna-know-joe
 lyrics_url: https://genius.com/Joe-i-wanna-know-lyrics
 name: I Wanna Know
@@ -183,6 +186,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '2000-10-28'
+release_year: 1993
+runtime: 247266
 ---
 Yeah, oh yeah
 Alright, oh, oh, oh

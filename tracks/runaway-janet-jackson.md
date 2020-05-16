@@ -1,8 +1,11 @@
 ---
+album: Design Of A Decade 1986/1996
 artists:
 - Janet Jackson
+external_ids:
+  spotify: spotify:track:6ayyzu6smOchwXO1vxwfn6
 features: []
-genres: []
+first_released_as_single: false
 key: runaway-janet-jackson
 lyrics_url: https://www.azlyrics.com/lyrics/janetjackson/runaway.html
 name: Runaway
@@ -103,8 +106,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1996-02-24'
+release_year: 1995
+runtime: 214933
 ---
-
 I've seen the world, been to many places
 Made lots of friends, many different races
 I've had such fun around the world it's true
@@ -141,6 +145,3 @@ Yeah, yeah, yeah, yeah
 
 And I just know we'll have a good time
 And I just know we'll have a good time
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Volume 1
 artists:
 - Richard And The Young Lions
+external_ids:
+  spotify: spotify:track:2I07mm97gsZtLdF058b3OX
 features: []
-genres: []
+first_released_as_single: false
 key: open-up-your-door-richard-and-the-young-lions
 lyrics_url: https://genius.com/Richard-and-the-young-lions-open-up-your-door-lyrics
 name: Open Up Your Door
@@ -11,6 +14,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1966-09-24'
+release_year: 1966
+runtime: 169946
 ---
 Left you at eight
 Came back at nine

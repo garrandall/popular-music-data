@@ -1,8 +1,11 @@
 ---
+album: Any Day Now
 artists:
 - Joan Baez
+external_ids:
+  spotify: spotify:track:5NNSLOPIXs1rQE6hDNFS5e
 features: []
-genres: []
+first_released_as_single: false
 key: love-is-just-a-four-letter-word-joan-baez
 lyrics_url: https://www.azlyrics.com/lyrics/joanbaez/loveisjustafourletterword.html
 name: Love Is Just A Four-Letter Word
@@ -23,8 +26,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1969-05-17'
+release_year: 1968
+runtime: 267200
 ---
-
 Seems like only yesterday
 I left my mind behind
 Down in the Gypsy Cafe
@@ -77,6 +81,3 @@ Those ships run through my mind, I cannot cheat
 It's like looking in the teacher's face complete
 I can say nothing to you but repeat what I heard
 That love is just a four-letter word
-
-
-

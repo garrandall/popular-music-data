@@ -1,8 +1,11 @@
 ---
+album: A Girl Like Me
 artists:
 - Rihanna
+external_ids:
+  spotify: spotify:track:13xxBnXOuiBxVxJI458B0i
 features: []
-genres: []
+first_released_as_single: false
 key: unfaithful-rihanna
 lyrics_url: https://www.azlyrics.com/lyrics/rihanna/unfaithful.html
 name: Unfaithful
@@ -87,8 +90,9 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '2006-09-23'
+release_year: 2006
+runtime: 226973
 ---
-
 Story of my life
 Searching for the right
 But it keeps avoiding me
@@ -164,6 +168,3 @@ A murderer (a murderer)
 No, no, no
 
 Yeah, yeah, yeah
-
-
-

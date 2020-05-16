@@ -1,8 +1,11 @@
 ---
+album: Everyday
 artists:
 - Dave Matthews Band
+external_ids:
+  spotify: spotify:track:65KzDXZm9aQt8sA1k0ZVG3
 features: []
-genres: []
+first_released_as_single: false
 key: the-space-between-dave-matthews-band
 lyrics_url: https://www.azlyrics.com/lyrics/davematthewsband/thespacebetween.html
 name: The Space Between
@@ -99,8 +102,9 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '2001-10-20'
+release_year: 2001
+runtime: 242000
 ---
-
 You cannot quit me so quickly
 There's no hope in you for me
 No corner you could squeeze me
@@ -161,6 +165,3 @@ The Space Between
 Your heart and mine
 Is the space we'll fill with time
 The Space Between...
-
-
-

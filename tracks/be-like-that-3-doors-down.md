@@ -1,8 +1,11 @@
 ---
+album: The Better Life
 artists:
 - 3 Doors Down
+external_ids:
+  spotify: spotify:track:3PbHle8KhJp6GuO1jLdEmQ
 features: []
-genres: []
+first_released_as_single: false
 key: be-like-that-3-doors-down
 lyrics_url: https://genius.com/3-doors-down-be-like-that-lyrics
 name: Be Like That
@@ -91,6 +94,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2001-12-15'
+release_year: 2000
+runtime: 265906
 ---
 He spends his nights in California
 Watching the stars on the big screen

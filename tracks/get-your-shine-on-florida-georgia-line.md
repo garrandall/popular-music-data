@@ -1,8 +1,11 @@
 ---
+album: Here's To The Good Times
 artists:
 - Florida Georgia Line
+external_ids:
+  spotify: spotify:track:6s9ICeczYOfbHHIaSMq9jd
 features: []
-genres: []
+first_released_as_single: false
 key: get-your-shine-on-florida-georgia-line
 lyrics_url: https://www.azlyrics.com/lyrics/floridageorgialine/getyourshineon.html
 name: Get Your Shine On
@@ -87,8 +90,9 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '2013-06-22'
+release_year: 2012
+runtime: 222013
 ---
-
 Strawberry shimmer on hot lips,
 Silver buckle hangin' off her hips.
 Eyes sparkle when she smiles.
@@ -145,6 +149,3 @@ Chrome piece tucked in the console.
 Riding high, roll up on the down low.
 
 Baby get your shine on!
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: The Last Roundup
 artists:
 - Poco
+external_ids:
+  spotify: spotify:track:3OiH3dDxHDnwOy4WaYST9Q
 features: []
-genres: []
+first_released_as_single: false
 key: keep-on-tryin--poco
 lyrics_url: https://www.musixmatch.com/lyrics/Poco/Keep-on-Tryin
 name: Keep On Tryin'
@@ -43,6 +46,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1975-11-15'
+release_year: 1975
+runtime: 163600
 ---
 I've been thinkin' 'bout
 All the times you told me

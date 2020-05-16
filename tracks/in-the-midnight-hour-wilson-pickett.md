@@ -1,8 +1,11 @@
 ---
+album: In the Midnight Hour
 artists:
 - Wilson Pickett
+external_ids:
+  spotify: spotify:track:4NRQwaks9r58tTDvr4iEyv
 features: []
-genres: []
+first_released_as_single: false
 key: in-the-midnight-hour-wilson-pickett
 lyrics_url: https://genius.com/Wilson-pickett-in-the-midnight-hour-lyrics
 name: In The Midnight Hour
@@ -55,6 +58,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1965-09-25'
+release_year: 1965
+runtime: 157160
 ---
 I'm gonna wait 'till the midnight hour
 That's when my love comes tumbling down

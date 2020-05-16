@@ -1,8 +1,11 @@
 ---
+album: SremmLife 2
 artists:
 - Rae Sremmurd
+external_ids:
+  spotify: spotify:track:6mapJIPnQ23RTAevUoE0DL
 features: []
-genres: []
+first_released_as_single: false
 key: swang-rae-sremmurd
 lyrics_url: https://genius.com/Rae-sremmurd-swang-lyrics
 name: Swang
@@ -111,6 +114,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2017-07-01'
+release_year: 2016
+runtime: 208120
 ---
 Mmm boy, it's nasty (Uh)
 Uhmm

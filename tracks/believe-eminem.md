@@ -1,8 +1,11 @@
 ---
+album: Revival
 artists:
 - Eminem
+external_ids:
+  spotify: spotify:track:74USwBG39TxXV01pK0neeG
 features: []
-genres: []
+first_released_as_single: false
 key: believe-eminem
 lyrics_url: https://genius.com/Eminem-believe-lyrics
 name: Believe
@@ -11,6 +14,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2018-01-03'
+release_year: 2017
+runtime: 315360
 ---
 And I started from the bottom
 Like a snowman—ground-up

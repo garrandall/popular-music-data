@@ -1,8 +1,11 @@
 ---
+album: Afterburner
 artists:
 - ZZ Top
+external_ids:
+  spotify: spotify:track:1ESuT2y9AKu1zMdxq47qW5
 features: []
-genres: []
+first_released_as_single: false
 key: sleeping-bag-zz-top
 lyrics_url: https://www.azlyrics.com/lyrics/zztop/sleepingbag.html
 name: Sleeping Bag
@@ -75,8 +78,9 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1986-02-08'
+release_year: 1985
+runtime: 242333
 ---
-
 When it's cold outside and you want to sleep in
 go for a pallet that's so nice and thin.
 Zip it on around while it's on the ground,
@@ -97,6 +101,3 @@ We'll look at some pyramids and check out some heads.
 Oh, we'll whip out our mattress 'cause there ain't no beds.
 Slip inside my sleeping bag,
 slip inside my sleeping bag.
-
-
-

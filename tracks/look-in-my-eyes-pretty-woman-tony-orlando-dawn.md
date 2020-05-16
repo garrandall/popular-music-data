@@ -1,9 +1,12 @@
 ---
+album: The Definitive Collection
 artists:
 - Tony Orlando
 - Dawn
+external_ids:
+  spotify: spotify:track:0bkKdtT5Biv0pwM2uVKKsL
 features: []
-genres: []
+first_released_as_single: false
 key: look-in-my-eyes-pretty-woman-tony-orlando-dawn
 lyrics_url: https://www.azlyrics.com/lyrics/tonyorlandodawn/lookinmyeyesprettywoman.html
 name: Look In My Eyes Pretty Woman
@@ -56,8 +59,9 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '1975-03-08'
+release_year: 1973
+runtime: 187000
 ---
-
 Time is on my side
 Though the world keeps gettin' colder
 'Cause I've got you girl to ease my troubled mind
@@ -98,6 +102,3 @@ Is love upon your face
 The world is a peaceful place
 All I can see when there's you and just me
 Is love upon your face
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Skin Tight
 artists:
 - Ohio Players
+external_ids:
+  spotify: spotify:track:3iRcwzyx4g9uue2PeG8hql
 features: []
-genres: []
+first_released_as_single: false
 key: skin-tight-ohio-players
 lyrics_url: https://www.azlyrics.com/lyrics/ohioplayers/skintight.html
 name: Skin Tight
@@ -51,8 +54,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1974-11-16'
+release_year: 1974
+runtime: 474266
 ---
-
 You are a bad bad Mrs.
 In them skin tight britches
 Runnin' folks in ditches
@@ -129,6 +133,3 @@ Skin tight
 Doo doo doo doo doo
 Skin tight
 Oh oh
-
-
-

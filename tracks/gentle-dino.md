@@ -1,8 +1,11 @@
 ---
+album: The Birthday of the King
 artists:
 - Dino
+external_ids:
+  spotify: spotify:track:67xKVKyivtZfLydreRR7hL
 features: []
-genres: []
+first_released_as_single: false
 key: gentle-dino
 lyrics_url: https://genius.com/Dino-dean-esposito-gentle-lyrics
 name: Gentle
@@ -63,6 +66,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1991-02-09'
+release_year: 1990
+runtime: 100133
 ---
 Girl, I promise
 I'll be gentle

@@ -1,8 +1,11 @@
 ---
+album: The Best Of Shelley Fabares
 artists:
 - Shelley Fabares
+external_ids:
+  spotify: spotify:track:64HZCyP1pspbAvvLMEitK1
 features: []
-genres: []
+first_released_as_single: false
 key: ronnie-call-me-when-you-get-a-chance-shelley-fabares
 lyrics_url: https://genius.com/Shelley-fabares-ronnie-call-me-when-you-get-a-chance-lyrics
 name: Ronnie Call Me When You Get A Chance
@@ -27,6 +30,8 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1963-05-25'
+release_year: 1963
+runtime: 140333
 ---
 Ronnie, I know that you're mad at me
 So, I'm writing this note to ask you please

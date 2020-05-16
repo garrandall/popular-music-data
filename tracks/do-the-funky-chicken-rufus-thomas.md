@@ -1,8 +1,11 @@
 ---
+album: 'Stax Profiles: Rufus Thomas'
 artists:
 - Rufus Thomas
+external_ids:
+  spotify: spotify:track:4F8UE0NrVZoOVgt26uuKAB
 features: []
-genres: []
+first_released_as_single: false
 key: do-the-funky-chicken-rufus-thomas
 lyrics_url: https://genius.com/Rufus-thomas-do-the-funky-chicken-lyrics
 name: Do The Funky Chicken
@@ -55,6 +58,8 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '1970-04-25'
+release_year: 1970
+runtime: 275906
 ---
 Y'all come on in now, come right on down front
 I got something I want to show you

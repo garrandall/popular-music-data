@@ -1,8 +1,11 @@
 ---
+album: Camino Palmero
 artists:
 - The Calling
+external_ids:
+  spotify: spotify:track:5QpaGzWp0hwB5faV8dkbAz
 features: []
-genres: []
+first_released_as_single: false
 key: wherever-you-will-go-the-calling
 lyrics_url: https://genius.com/The-calling-wherever-you-will-go-lyrics
 name: Wherever You Will Go
@@ -187,6 +190,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '2002-09-14'
+release_year: 2001
+runtime: 208600
 ---
 So lately, been wondering
 Who will be there to take my place?

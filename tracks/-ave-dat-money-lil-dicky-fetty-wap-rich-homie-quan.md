@@ -1,9 +1,13 @@
 ---
+album: Professional Rapper
 artists:
 - Lil Dicky
+external_ids:
+  spotify: spotify:track:7j2nogXf1R0jhzWqxdR2FL
 features:
 - Fetty Wap
 - Rich Homie Quan
+first_released_as_single: true
 genres: []
 key: -ave-dat-money-lil-dicky-fetty-wap-rich-homie-quan
 lyrics_url: https://www.azlyrics.com/lyrics/lildicky/avedatmoney.html
@@ -85,9 +89,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2016-03-19'
+release_year: 2015
+runtime: 290835
 ---
-
-
 LD, AKA The Independent Variable
 Trap God, and we servin' up the whole world
 
@@ -231,6 +235,3 @@ Unless you take the extra coffee off I might get loud unless you...
 Oh, it was just an accident?
 You didn't even mean that 
 You didn't... that was... that's... I'm so embarrassed
-
-
-

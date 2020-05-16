@@ -1,8 +1,11 @@
 ---
+album: 'Rubber Biscuit: Essential ''50s Hits'
 artists:
 - The Trumpeteers
+external_ids:
+  spotify: spotify:track:0gxIYinFFY0AZ9vqHddZhD
 features: []
-genres: []
+first_released_as_single: false
 key: a-string-of-trumpets-the-trumpeteers
 name: A String Of Trumpets
 rankings:
@@ -42,5 +45,7 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1959-06-22'
+release_year: 1959
+runtime: 110266
 ---
 

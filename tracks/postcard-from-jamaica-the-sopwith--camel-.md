@@ -1,8 +1,11 @@
 ---
+album: The Sopwith Camel
 artists:
 - The Sopwith "Camel"
+external_ids:
+  spotify: spotify:track:5JUMwnYGBIxjUrBvCrIPKJ
 features: []
-genres: []
+first_released_as_single: false
 key: postcard-from-jamaica-the-sopwith--camel-
 lyrics_url: https://www.musixmatch.com/lyrics/Sopwith-Camel/Postcard-From-Jamaica
 name: Postcard From Jamaica
@@ -15,6 +18,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1967-04-08'
+release_year: 1967
+runtime: 146453
 ---
 Hey, there's a postcard here,
 From, uh, from Jamaica

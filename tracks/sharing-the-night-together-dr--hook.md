@@ -1,8 +1,11 @@
 ---
+album: Pleasure & Pain
 artists:
 - Dr. Hook
+external_ids:
+  spotify: spotify:track:4M0m4FUdc4wD2guhUHogLF
 features: []
-genres: []
+first_released_as_single: false
 key: sharing-the-night-together-dr--hook
 lyrics_url: https://www.azlyrics.com/lyrics/drhook/sharingthenighttogether.html
 name: Sharing The Night Together
@@ -95,8 +98,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1979-02-10'
+release_year: 1978
+runtime: 174533
 ---
-
 You're looking kinda lonely girl
 Would you like someone new to talk to
 Ah yeah, alright
@@ -141,6 +145,3 @@ Oh yeah, sharing the night together
 Oh yeah, sharing the night together 
 Sharing the night together
 Sharing the night together...
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Figures On A Beach
 artists:
 - Figures On A Beach
+external_ids:
+  spotify: spotify:track:0sHfO6hxbggaoDRbnYCKBF
 features: []
-genres: []
+first_released_as_single: false
 key: you-ain-t-seen-nothing-yet-figures-on-a-beach
 lyrics_url: https://genius.com/Figures-on-a-beach-you-aint-seen-nothing-yet-lyrics
 name: You Ain't Seen Nothing Yet
@@ -35,6 +38,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1989-05-20'
+release_year: 1989
+runtime: 251800
 ---
 I met a devil woman
 She took my heart away

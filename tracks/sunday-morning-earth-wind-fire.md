@@ -1,8 +1,11 @@
 ---
+album: Millennium
 artists:
 - Earth, Wind & Fire
+external_ids:
+  spotify: spotify:track:2lnx4mfdXyAYvtVPYXRPcD
 features: []
-genres: []
+first_released_as_single: false
 key: sunday-morning-earth-wind-fire
 lyrics_url: https://www.azlyrics.com/lyrics/earthwindandfire/sundaymorning.html
 name: Sunday Morning
@@ -47,9 +50,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1993-10-30'
+release_year: 1993
+runtime: 251866
 ---
-
-
 Oh Sunday morning
 You;re gonna find my love shining on you
 
@@ -92,6 +95,3 @@ Oh Sunday morning
 Like a summer day with your lover
 OhSunday morning (I'll see you Sunday morning)
 When we shared sweet love like no other
-
-
-

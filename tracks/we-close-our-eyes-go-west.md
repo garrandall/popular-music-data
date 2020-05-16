@@ -1,8 +1,11 @@
 ---
+album: Go West
 artists:
 - Go West
+external_ids:
+  spotify: spotify:track:4oivs3WWV3XwAWESvPk5eG
 features: []
-genres: []
+first_released_as_single: false
 key: we-close-our-eyes-go-west
 lyrics_url: https://genius.com/Go-west-we-close-our-eyes-lyrics
 name: We Close Our Eyes
@@ -67,6 +70,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1985-06-01'
+release_year: 1985
+runtime: 221506
 ---
 Inside everyone hides one desire
 Outside no one would know

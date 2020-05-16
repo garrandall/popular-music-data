@@ -1,8 +1,11 @@
 ---
+album: Alice in Wonderland (And Other Rainy Day Girls)
 artists:
 - The Rugbys
+external_ids:
+  spotify: spotify:track:6pw8j1U1XHLISTQAcHfVRH
 features: []
-genres: []
+first_released_as_single: false
 key: you-i-the-rugbys
 lyrics_url: https://genius.com/The-rugbys-you-i-lyrics
 name: You I
@@ -51,6 +54,8 @@ rankings:
   rank: 29
   ranking_list: Billboard Hot 100
   start_date: '1969-11-01'
+release_year: 1969
+runtime: 172948
 ---
 You
 Are the color blue

@@ -1,8 +1,11 @@
 ---
+album: The Vintage Collection
 artists:
 - The Tokens
+external_ids:
+  spotify: spotify:track:1vndnK1pWEylzsx9PPw3nK
 features: []
-genres: []
+first_released_as_single: false
 key: the-lion-sleeps-tonight-the-tokens
 lyrics_url: https://www.azlyrics.com/lyrics/tokens/thelionsleepstonight.html
 name: The Lion Sleeps Tonight
@@ -67,8 +70,9 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '1962-02-24'
+release_year: 1961
+runtime: 138960
 ---
-
 (A-wimoweh, a-wimoweh, a-wimoweh, a-wimoweh)
 (A-wimoweh, a-wimoweh, a-wimoweh, a-wimoweh)
 (A-wimoweh, a-wimoweh, a-wimoweh, a-wimoweh)
@@ -103,6 +107,3 @@ The lion sleeps tonight
 (A-wimoweh, a-wimoweh, a-wimoweh, a-wimoweh)
 (A-wimoweh, a-wimoweh, a-wimoweh, a-wimoweh)
 (A-wimoweh, a-wimoweh, a-wimoweh, a-wimoweh)
-
-
-

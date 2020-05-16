@@ -1,8 +1,11 @@
 ---
+album: Cat Scratch Fever
 artists:
 - Ted Nugent
+external_ids:
+  spotify: spotify:track:0SvfyHYDp2uIsHt53LDlI9
 features: []
-genres: []
+first_released_as_single: false
 key: cat-scratch-fever-ted-nugent
 lyrics_url: https://genius.com/Ted-nugent-cat-scratch-fever-lyrics
 name: Cat Scratch Fever
@@ -51,6 +54,8 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '1977-10-22'
+release_year: 1977
+runtime: 219400
 ---
 Well, I don't know where they come from but they sure do come
 I hope they comin' for me

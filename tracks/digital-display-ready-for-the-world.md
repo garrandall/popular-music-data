@@ -1,8 +1,11 @@
 ---
+album: Ready For The World
 artists:
 - Ready For The World
+external_ids:
+  spotify: spotify:track:5x3kcE79Xy4naWE605PCOv
 features: []
-genres: []
+first_released_as_single: false
 key: digital-display-ready-for-the-world
 lyrics_url: https://genius.com/Ready-for-the-world-digital-display-lyrics
 name: Digital Display
@@ -79,6 +82,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1986-04-05'
+release_year: 1985
+runtime: 336466
 ---
 Digital, display
 No smoking

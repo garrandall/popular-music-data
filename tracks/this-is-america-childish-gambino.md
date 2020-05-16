@@ -1,8 +1,11 @@
 ---
+album: This Is America
 artists:
 - Childish Gambino
+external_ids:
+  spotify: spotify:track:0b9oOr2ZgvyQu88wzixux9
 features: []
-genres: []
+first_released_as_single: true
 key: this-is-america-childish-gambino
 lyrics_url: https://www.azlyrics.com/lyrics/childishgambino/thisisamerica.html
 name: This Is America
@@ -75,6 +78,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2018-09-08'
+release_year: 2018
+runtime: 225773
 ---
 Yeah, yeah, yeah, yeah, yeah
 Yeah, yeah, yeah, go, go away

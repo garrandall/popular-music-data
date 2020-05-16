@@ -1,8 +1,11 @@
 ---
+album: Fortune
 artists:
 - Chris Brown
+external_ids:
+  spotify: spotify:track:0NG5gJzPHjYeQmqcmqfopN
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-judge-me-chris-brown
 lyrics_url: https://genius.com/Chris-brown-dont-judge-me-lyrics
 name: Don't Judge Me
@@ -87,6 +90,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2013-03-30'
+release_year: 2012
+runtime: 240173
 ---
 I don't wanna go there
 We should never go there

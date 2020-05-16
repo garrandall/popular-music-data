@@ -1,8 +1,11 @@
 ---
+album: Brook Benton - His Very Best
 artists:
 - Brook Benton
+external_ids:
+  spotify: spotify:track:650xanGN1IqVgIVt9XR8Mw
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-just-a-matter-of-time-brook-benton
 lyrics_url: https://genius.com/Brook-benton-its-just-a-matter-of-time-lyrics
 name: It's Just A Matter Of Time
@@ -79,6 +82,8 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '1959-05-25'
+release_year: 1959
+runtime: 145780
 ---
 Someday, someway
 You'll realize that you've been blind

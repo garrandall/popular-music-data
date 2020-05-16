@@ -1,8 +1,11 @@
 ---
+album: Warm And Soulful
 artists:
 - Garnet Mimms
+external_ids:
+  spotify: spotify:track:4ttkttWquh7SguprMGKnLR
 features: []
-genres: []
+first_released_as_single: false
 key: a-little-bit-of-soap-garnet-mimms
 lyrics_url: https://genius.com/Garnet-mimms-a-little-bit-of-soap-lyrics
 name: A Little Bit Of Soap
@@ -11,6 +14,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1965-01-02'
+release_year: 1965
+runtime: 142333
 ---
 A little bit of soap will wash
 Away the lipstick from my face

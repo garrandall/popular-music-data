@@ -1,8 +1,11 @@
 ---
+album: At Abbey Road
 artists:
 - Gerry And The Pacemakers
+external_ids:
+  spotify: spotify:track:2DIhSYmWv41a5nSKbgoNor
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-the-one-gerry-and-the-pacemakers
 lyrics_url: https://genius.com/Gerry-and-the-pacemakers-im-the-one-lyrics
 name: I'm The One
@@ -15,6 +18,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1964-07-18'
+release_year: 1964
+runtime: 138533
 ---
 I'm the one who cares about you
 I'm the one who'll always be true

@@ -1,8 +1,11 @@
 ---
+album: Jesus Wept
 artists:
 - P.M. Dawn
+external_ids:
+  spotify: spotify:track:2t4vMrbPEfxaQ7nL9RVFHX
 features: []
-genres: []
+first_released_as_single: false
 key: sometimes-i-miss-you-so-much--dedicated-to-the-christ-consciousness--p-m--dawn
 lyrics_url: https://www.azlyrics.com/lyrics/pmdawn/sometimesimissyousomuchdedicatedtothechristconsciousness.html
 name: Sometimes I Miss You So Much (Dedicated To The Christ Consciousness)
@@ -27,8 +30,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1996-01-20'
+release_year: 1995
+runtime: 282533
 ---
-
 There are only whispers and shadows for me
 The way things are and the way things are
 And with this I blow a kiss to disaster
@@ -64,6 +68,3 @@ I'm so not responsible for this
 I'm just a man in love with so much
 I know love...you'll always be with me
 It's just sometimes I miss you so much
-
-
-

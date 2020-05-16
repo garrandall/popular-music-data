@@ -1,8 +1,11 @@
 ---
+album: Elan
 artists:
 - Firefall
+external_ids:
+  spotify: spotify:track:7rUJeKMV1KW64EBcwHYJ5P
 features: []
-genres: []
+first_released_as_single: false
 key: strange-way-firefall
 lyrics_url: https://www.azlyrics.com/lyrics/firefall/strangeway.html
 name: Strange Way
@@ -83,8 +86,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1979-02-03'
+release_year: 1978
+runtime: 285866
 ---
-
 Didn't I hear you cry this morning, didn't I feel you weep?
 Teardrops flowin' down on me, like rivers in my sleep.
 And in my dream of laughter, you came creepin' with your fears.
@@ -111,6 +115,3 @@ And in your darkest hour, you came runnin' back again
 That's a strange way to tell me you love me
 That's a strange way to tell me you love me
 That's a strange way to tell me you love me
-
-
-

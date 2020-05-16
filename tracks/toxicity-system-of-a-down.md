@@ -1,8 +1,11 @@
 ---
+album: Toxicity
 artists:
 - System Of A Down
+external_ids:
+  spotify: spotify:track:0snQkGI5qnAmohLE7jTsTn
 features: []
-genres: []
+first_released_as_single: false
 key: toxicity-system-of-a-down
 lyrics_url: https://www.azlyrics.com/lyrics/systemofadown/toxicity.html
 name: Toxicity
@@ -59,8 +62,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2002-07-27'
+release_year: 2001
+runtime: 218933
 ---
-
 Conversion, software version 7.0
 Looking at life through the eyes of a tire hub
 
@@ -95,6 +99,3 @@ When I became the sun
 I shone life into the man's hearts
 When I became the sun
 I shone life into the man's hearts
-
-
-

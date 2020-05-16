@@ -1,8 +1,11 @@
 ---
+album: 'Beach Baby: The Greatest Hits'
 artists:
 - First Class
+external_ids:
+  spotify: spotify:track:56QokNaCTNV0qkcKXAicPV
 features: []
-genres: []
+first_released_as_single: false
 key: funny-how-love-can-be-first-class
 name: Funny How Love Can Be
 rankings:
@@ -34,5 +37,7 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1975-07-19'
+release_year: 1975
+runtime: 180214
 ---
 

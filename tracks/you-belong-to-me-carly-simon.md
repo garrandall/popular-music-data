@@ -1,8 +1,11 @@
 ---
+album: Boys In The Trees
 artists:
 - Carly Simon
+external_ids:
+  spotify: spotify:track:3pErM4EiWKf3k8KU3jjbXn
 features: []
-genres: []
+first_released_as_single: false
 key: you-belong-to-me-carly-simon
 lyrics_url: https://www.azlyrics.com/lyrics/carlysimon/youbelongtome.html
 name: You Belong To Me
@@ -79,8 +82,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1978-08-12'
+release_year: 1978
+runtime: 232666
 ---
-
 Why'd you tell me this
 Were you looking for my reaction
 What do you need to know
@@ -110,6 +114,3 @@ Tell her you were fooling
 I know you from a long time ago, baby
 Don't leave me to go to her now
 You belong to me.
-
-
-

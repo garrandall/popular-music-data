@@ -1,8 +1,11 @@
 ---
+album: Doin' Somethin' Right
 artists:
 - Billy Currington
+external_ids:
+  spotify: spotify:track:4cpXOdI3swm8Pfb39P2Jue
 features: []
-genres: []
+first_released_as_single: false
 key: why-why-why-billy-currington
 lyrics_url: https://www.azlyrics.com/lyrics/billycurrington/whywhywhy.html
 name: Why Why Why
@@ -19,8 +22,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2006-08-19'
+release_year: 2005
+runtime: 165346
 ---
-
 I've been your lover, I've been your friend
 I've been your faithful one-woman man
 I've been your diamond in the rough
@@ -52,6 +56,3 @@ Why, why, why do you wanna change me now?
 Ain't I the one you loved everything about?
 You might start missin' the old me around
 So why, why, why do you wanna change me now
-
-
-

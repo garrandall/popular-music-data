@@ -1,8 +1,11 @@
 ---
+album: The Best Of Ray Stevens
 artists:
 - Ray Stevens
+external_ids:
+  spotify: spotify:track:34xMTrO888unWjBFV293iA
 features: []
-genres: []
+first_released_as_single: false
 key: funny-man-ray-stevens
 lyrics_url: https://www.azlyrics.com/lyrics/raystevens/funnyman.html
 name: Funny Man
@@ -19,8 +22,9 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1963-04-13'
+release_year: 1899
+runtime: 169791
 ---
-
 Look-a there, there he goes
 Ha, there goes the funny man
 The life of the party, that's me
@@ -55,6 +59,3 @@ Act as though nothin's wrong
 Wear good smile to go alone
 Then cry, cry the whole night through
 'Cause there's nothin' you can do
-
-
-

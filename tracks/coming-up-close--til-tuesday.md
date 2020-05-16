@@ -1,8 +1,11 @@
 ---
+album: Welcome Home
 artists:
 - '''Til Tuesday'
+external_ids:
+  spotify: spotify:track:5tT4zCpwkEBC8Kmn1F3vFQ
 features: []
-genres: []
+first_released_as_single: false
 key: coming-up-close--til-tuesday
 lyrics_url: https://www.azlyrics.com/lyrics/tiltuesday/comingupclose.html
 name: Coming Up Close
@@ -47,8 +50,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1987-03-14'
+release_year: 1985
+runtime: 280066
 ---
-
 One night in Iowa
 He and I in a borrowed car
 Went driving in the summer
@@ -108,6 +112,3 @@ Come home
 Coming up close
 Everything sounds like welcome home
 Come home, come on home
-
-
-

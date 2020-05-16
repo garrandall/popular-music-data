@@ -1,10 +1,13 @@
 ---
+album: Bed Intruder Song
 artists:
 - Antoine Dodson
 - The Gregory Brothers
+external_ids:
+  spotify: spotify:track:3au9WLuwTxQlrHBlBb52ss
 features:
 - Kelly Dodson
-genres: []
+first_released_as_single: true
 key: bed-intruder-song-antoine-dodson-the-gregory-brothers-kelly-dodson
 lyrics_url: https://www.azlyrics.com/lyrics/antoinedodson/bedintrudersong.html
 name: Bed Intruder Song
@@ -21,9 +24,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2010-09-18'
+release_year: 2010
+runtime: 185526
 ---
-
-
 He's climbin in your windows
 He's snatchin your people up
 Tryna rape em so y'all need to
@@ -71,4 +74,3 @@ I got your scent
 I know what shoe size you wear, my boy
 So you can run and hide
 But we're gonna find you, find you
-

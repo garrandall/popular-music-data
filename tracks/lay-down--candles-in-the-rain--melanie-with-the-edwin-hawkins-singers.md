@@ -1,8 +1,11 @@
 ---
+album: Live At Meltdown 2007
 artists:
 - Melanie
+external_ids:
+  spotify: spotify:track:66LevxamA5uN8xW2IzZYLg
 features: []
-genres: []
+first_released_as_single: false
 key: lay-down--candles-in-the-rain--melanie-with-the-edwin-hawkins-singers
 lyrics_url: https://genius.com/Melanie-with-the-edwin-hawkins-singers-lay-down-candles-in-the-rain-lyrics
 name: Lay Down (Candles In The Rain)
@@ -75,6 +78,8 @@ rankings:
   rank: 32
   ranking_list: Billboard Hot 100
   start_date: '1970-08-15'
+release_year: 1970
+runtime: 459960
 ---
 Lay down, lay down, let it all down
 Let your white birds smile up at the ones who stand and frown

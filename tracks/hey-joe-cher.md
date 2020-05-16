@@ -1,8 +1,11 @@
 ---
+album: With Love, Cher
 artists:
 - Cher
+external_ids:
+  spotify: spotify:track:1ykffGjoMro2P7879XBMts
 features: []
-genres: []
+first_released_as_single: false
 key: hey-joe-cher
 lyrics_url: https://www.azlyrics.com/lyrics/cher/heyjoe.html
 name: Hey Joe
@@ -15,8 +18,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1967-09-16'
+release_year: 1967
+runtime: 208280
 ---
-
 Hey Joe, where you goin'
 With that gun in your hand?
 I said now
@@ -54,6 +58,3 @@ Well dude, I'm goin' down south
 Way down to Mexico way
 I said I'm goin' down south
 Way down to Mexico way
-
-
-

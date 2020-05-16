@@ -1,8 +1,11 @@
 ---
+album: Wade In The Water
 artists:
 - Ramsey Lewis
+external_ids:
+  spotify: spotify:track:6vH7rcUoSok4FYH6RTRIAE
 features: []
-genres: []
+first_released_as_single: false
 key: wade-in-the-water-ramsey-lewis
 lyrics_url: https://genius.com/The-ramsey-lewis-trio-wade-in-the-water-lyrics
 name: Wade In The Water
@@ -59,6 +62,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1966-10-01'
+release_year: 1966
+runtime: 231506
 ---
 Wade in the water
 Wade in the water children

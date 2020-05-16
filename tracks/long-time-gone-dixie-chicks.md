@@ -1,8 +1,11 @@
 ---
+album: Home
 artists:
 - Dixie Chicks
+external_ids:
+  spotify: spotify:track:0JiX8NsRdCHm8GliFuf97V
 features: []
-genres: []
+first_released_as_single: false
 key: long-time-gone-dixie-chicks
 lyrics_url: https://genius.com/Dixie-chicks-long-time-gone-lyrics
 name: Long Time Gone
@@ -87,6 +90,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '2002-11-02'
+release_year: 2002
+runtime: 249412
 ---
 Daddy sits on a front porch swinging
 Looking out on a vacant field

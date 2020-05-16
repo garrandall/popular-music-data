@@ -1,9 +1,12 @@
 ---
+album: Harverd Dropout
 artists:
 - Kanye West
 - Lil Pump
+external_ids:
+  spotify: spotify:track:6ZbjA92zF6yPxim4CrMC87
 features: []
-genres: []
+first_released_as_single: true
 key: i-love-it-kanye-west-lil-pump
 lyrics_url: https://www.musixmatch.com/lyrics/Kanye-West-feat-Lil-Pump/I-Love-It
 name: I Love It
@@ -56,6 +59,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2018-12-08'
+release_year: 2018
+runtime: 127946
 ---
 'Cause you know in the old days
 They couldn't say the shit they wanted to say

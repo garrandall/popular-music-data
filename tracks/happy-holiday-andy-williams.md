@@ -1,8 +1,11 @@
 ---
+album: The Andy Williams Christmas Album
 artists:
 - Andy Williams
+external_ids:
+  spotify: spotify:track:1Wf14bTyb6UeKojy8ykPYm
 features: []
-genres: []
+first_released_as_single: false
 key: happy-holiday-andy-williams
 lyrics_url: https://www.musixmatch.com/lyrics/Andy-Williams/Happy-Holidays-It-s-the-Holiday-Season-2
 name: Happy Holiday
@@ -23,6 +26,8 @@ rankings:
   rank: 24
   ranking_list: Billboard Hot 100
   start_date: '2020-01-04'
+release_year: 1963
+runtime: 157000
 ---
 Happy Holiday
 Happy Holiday

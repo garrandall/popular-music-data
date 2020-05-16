@@ -1,8 +1,11 @@
 ---
+album: The Southern Harmony And Musical Companion
 artists:
 - The Black Crowes
+external_ids:
+  spotify: spotify:track:4VDfpqLKbbuMMRIl14LLTg
 features: []
-genres: []
+first_released_as_single: false
 key: thorn-in-my-pride-the-black-crowes
 lyrics_url: https://www.azlyrics.com/lyrics/blackcrowes/thorninmypride.html
 name: Thorn In My Pride
@@ -31,8 +34,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1992-10-10'
+release_year: 1992
+runtime: 363893
 ---
-
 Wake me when the day breaks
 Show me how the sun shines
 Tell me about your heartaches
@@ -76,6 +80,3 @@ Lover, cover me with your dream
 Let your love light shine, let it shine
 
 Thorn in my pride
-
-
-

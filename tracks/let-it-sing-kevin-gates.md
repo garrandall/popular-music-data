@@ -1,8 +1,11 @@
 ---
+album: Chained To The City
 artists:
 - Kevin Gates
+external_ids:
+  spotify: spotify:track:613zTutV0SMNYeEaTPD6WC
 features: []
-genres: []
+first_released_as_single: true
 key: let-it-sing-kevin-gates
 lyrics_url: https://www.azlyrics.com/lyrics/kevingates/letitsing.html
 name: Let It Sing
@@ -11,8 +14,9 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '2018-06-02'
+release_year: 2018
+runtime: 195455
 ---
-
 Nigga won't tell me, talkin' 'bout some
 You twenty percent more in it (who's that?)
 Nigga you control the wheel there
@@ -92,6 +96,3 @@ When I got a motherfuckin' P.O. tellin' me I can go travel to spend money, but I
 You know, forgive me for not being enthusiastic, you heard me?
 When I got these fuckin' dick suckers on my motherfuckin' back 24 hours a day, playin' wit' me, you heard me?
 And now you fuckin' playin' wit' me
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Sunshine Superman
 artists:
 - Donovan
+external_ids:
+  spotify: spotify:track:6lJvtq2EMEVl7zhMLGF4df
 features: []
-genres: []
+first_released_as_single: false
 key: sunshine-superman-donovan
 lyrics_url: https://genius.com/Donovan-sunshine-superman-lyrics
 name: Sunshine Superman
@@ -59,6 +62,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1966-10-22'
+release_year: 1959
+runtime: 197160
 ---
 Sunshine came softly through my a-window today
 Could've tripped out easy a-but I've a-changed my ways

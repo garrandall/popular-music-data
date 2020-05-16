@@ -1,8 +1,11 @@
 ---
+album: We Are The '80s
 artists:
 - A Flock Of Seagulls
+external_ids:
+  spotify: spotify:track:1lNn0udm3EHKFRCGpNKZxn
 features: []
-genres: []
+first_released_as_single: false
 key: the-more-you-live-the-more-you-love-a-flock-of-seagulls
 lyrics_url: https://genius.com/A-flock-of-seagulls-the-more-you-live-the-more-you-love-lyrics
 name: The More You Live The More You Love
@@ -43,6 +46,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1984-10-06'
+release_year: 1981
+runtime: 249106
 ---
 You never give your heart to a stranger
 Or tell your secrets to a friend

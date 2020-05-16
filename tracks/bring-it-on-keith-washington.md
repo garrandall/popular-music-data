@@ -1,8 +1,11 @@
 ---
+album: kw
 artists:
 - Keith Washington
+external_ids:
+  spotify: spotify:track:3Jd2dpyGIicEOHSqtVpbD9
 features: []
-genres: []
+first_released_as_single: false
 key: bring-it-on-keith-washington
 lyrics_url: https://genius.com/Keith-washington-bring-it-on-lyrics
 name: Bring It On
@@ -59,6 +62,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1998-05-30'
+release_year: 1998
+runtime: 270346
 ---
 Bring it on, bring it on
 Bring it on, bring it on

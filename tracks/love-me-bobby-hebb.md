@@ -1,8 +1,11 @@
 ---
+album: The Very Best Of Soul
 artists:
 - Bobby Hebb
+external_ids:
+  spotify: spotify:track:4gV6udxJ0qa7AxawFVBaGc
 features: []
-genres: []
+first_released_as_single: false
 key: love-me-bobby-hebb
 lyrics_url: https://www.musixmatch.com/lyrics/Bobby-Hebb/Love-Me
 name: Love Me
@@ -19,6 +22,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1967-01-14'
+release_year: 1966
+runtime: 125961
 ---
 Love me
 That's all I want you to do

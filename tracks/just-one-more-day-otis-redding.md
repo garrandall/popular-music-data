@@ -1,8 +1,11 @@
 ---
+album: The Soul Album
 artists:
 - Otis Redding
+external_ids:
+  spotify: spotify:track:2cXfjsI8tvIVPelAstnA2C
 features: []
-genres: []
+first_released_as_single: false
 key: just-one-more-day-otis-redding
 lyrics_url: https://www.azlyrics.com/lyrics/otisredding/justonemoreday.html
 name: Just One More Day
@@ -27,8 +30,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1966-01-01'
+release_year: 1965
+runtime: 210733
 ---
-
 I've been missing you for so many days
 I keep wanting you, lord, in so many ways
 I can't get you off of my mind
@@ -68,6 +72,3 @@ And I want all the days
 And I want you here by my side
 And I don't want you do leave me
 And you can let me have one more day
-
-
-

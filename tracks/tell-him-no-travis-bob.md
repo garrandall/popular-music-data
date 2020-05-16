@@ -1,9 +1,12 @@
 ---
+album: 'The Shag: Jukebox Saturday Night'
 artists:
 - Travis
 - Bob
+external_ids:
+  spotify: spotify:track:2RI1zZWll8LNrEU1RbmQSX
 features: []
-genres: []
+first_released_as_single: false
 key: tell-him-no-travis-bob
 lyrics_url: https://www.musixmatch.com/lyrics/Travis-Bob/Tell-Him-No
 name: Tell Him No
@@ -60,6 +63,8 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1959-06-15'
+release_year: 1959
+runtime: 131120
 ---
 Tell him "no", oh-oh-oh
 Tell him "no", oh-oh-oh

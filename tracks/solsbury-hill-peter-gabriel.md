@@ -1,8 +1,11 @@
 ---
+album: 'Peter Gabriel 1: Car (Remastered Version)'
 artists:
 - Peter Gabriel
+external_ids:
+  spotify: spotify:track:1CM1wOqD2AIjt2MWd31LV2
 features: []
-genres: []
+first_released_as_single: false
 key: solsbury-hill-peter-gabriel
 lyrics_url: https://genius.com/Peter-gabriel-solsbury-hill-lyrics
 name: Solsbury Hill
@@ -39,6 +42,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1983-09-10'
+release_year: 1977
+runtime: 261440
 ---
 Climbing up on Solsbury Hill
 I could see the city light

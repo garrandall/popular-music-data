@@ -1,8 +1,11 @@
 ---
+album: Partners In Crime
 artists:
 - Rupert Holmes
+external_ids:
+  spotify: spotify:track:5IMtdHjJ1OtkxbGe4zfUxQ
 features: []
-genres: []
+first_released_as_single: false
 key: escape--the-pina-colada-song--rupert-holmes
 lyrics_url: https://genius.com/Rupert-holmes-escape-the-pina-colada-song-lyrics
 name: Escape (The Pina Colada Song)
@@ -91,6 +94,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1980-03-08'
+release_year: 1979
+runtime: 276493
 ---
 I was tired of my lady
 We'd been together too long

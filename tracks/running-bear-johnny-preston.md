@@ -1,8 +1,11 @@
 ---
+album: Above The Clouds
 artists:
 - Johnny Preston
+external_ids:
+  spotify: spotify:track:1CPw74hzhzrhWHoX9s6VFY
 features: []
-genres: []
+first_released_as_single: false
 key: running-bear-johnny-preston
 lyrics_url: https://www.azlyrics.com/lyrics/johnnypreston/runningbear.html
 name: Running Bear
@@ -115,8 +118,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1960-04-18'
+release_year: 1959
+runtime: 157986
 ---
-
 On the bank of the river
 Stood Running Bear, young Indian brave
 On the other side of the river
@@ -161,6 +165,3 @@ Running Bear loved Little White Dove
 With a love big as the sky
 Running Bear loved Little White Dove
 With a love that couldn't die
-
-
-

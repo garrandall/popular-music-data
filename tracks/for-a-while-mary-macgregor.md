@@ -1,8 +1,11 @@
 ---
+album: Just Mary
 artists:
 - Mary Macgregor
+external_ids:
+  spotify: spotify:track:1F5FpWBElztvsaYqseoi7h
 features: []
-genres: []
+first_released_as_single: false
 key: for-a-while-mary-macgregor
 lyrics_url: https://www.musixmatch.com/lyrics/Mary-MacGregor/For-a-While
 name: For A While
@@ -23,6 +26,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1977-08-27'
+release_year: 1977
+runtime: 174889
 ---
 I think I'll stay around here for a while
 I like your way of talking and your smile

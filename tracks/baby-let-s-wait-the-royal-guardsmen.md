@@ -1,8 +1,11 @@
 ---
+album: Snoopy Vs. The Red Baron
 artists:
 - The Royal Guardsmen
+external_ids:
+  spotify: spotify:track:2B2K73RtU1ne3e5LlsTueE
 features: []
-genres: []
+first_released_as_single: false
 key: baby-let-s-wait-the-royal-guardsmen
 lyrics_url: https://www.azlyrics.com/lyrics/royalguardsmen/babyletswait.html
 name: Baby Let's Wait
@@ -59,8 +62,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1969-02-08'
+release_year: 1967
+runtime: 159493
 ---
-
 You say you'd always be proud of me
 Well, I'm gonna see that you do, baby
 I'll be nobody, nothin' if I do what you want me to, yeah
@@ -86,6 +90,3 @@ We've got time
 No, baby, let's wait
 No, baby, let's wait
 No, baby, let's wait
-
-
-

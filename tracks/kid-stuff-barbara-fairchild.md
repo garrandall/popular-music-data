@@ -1,8 +1,11 @@
 ---
+album: At Her Best
 artists:
 - Barbara Fairchild
+external_ids:
+  spotify: spotify:track:0xTstD0MI3aKzLrz6KZJqK
 features: []
-genres: []
+first_released_as_single: false
 key: kid-stuff-barbara-fairchild
 lyrics_url: https://genius.com/Barbara-fairchild-kid-stuff-lyrics
 name: Kid Stuff
@@ -27,6 +30,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1973-10-20'
+release_year: 1973
+runtime: 143666
 ---
 I often think of younger days
 A boy, a girl and backyard play

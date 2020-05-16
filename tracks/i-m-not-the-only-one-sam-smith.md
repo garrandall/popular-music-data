@@ -1,8 +1,11 @@
 ---
+album: In The Lonely Hour
 artists:
 - Sam Smith
+external_ids:
+  spotify: spotify:track:7795WJLVKJoAyVoOtCWqXN
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-not-the-only-one-sam-smith
 lyrics_url: https://genius.com/Sam-smith-im-not-the-only-one-lyrics
 name: I'm Not The Only One
@@ -155,6 +158,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2015-05-30'
+release_year: 2014
+runtime: 239316
 ---
 You and me, we made a vow
 For better or for worse

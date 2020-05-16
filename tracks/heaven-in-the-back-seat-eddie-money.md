@@ -1,8 +1,11 @@
 ---
+album: Right Here
 artists:
 - Eddie Money
+external_ids:
+  spotify: spotify:track:0ZUAwAOJJKtNnkWkKSWcJc
 features: []
-genres: []
+first_released_as_single: false
 key: heaven-in-the-back-seat-eddie-money
 lyrics_url: https://www.azlyrics.com/lyrics/eddiemoney/heaveninthebackseat.html
 name: Heaven In The Back Seat
@@ -39,8 +42,9 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1991-11-02'
+release_year: 1991
+runtime: 243226
 ---
-
 Young girl, looking to take a ride
 Gonna get to love you if it takes all night
 I wanna get, huh next to you
@@ -138,6 +142,3 @@ You'll be in heaven, heaven in the backseat
 Come on, come on, start me up
 Come on, fire me up
 (Heaven in the backseat)
-
-
-

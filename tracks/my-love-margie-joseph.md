@@ -1,8 +1,11 @@
 ---
+album: Sweet Surrender
 artists:
 - Margie Joseph
+external_ids:
+  spotify: spotify:track:1KK77sfrRsmAXSlwT7OGIz
 features: []
-genres: []
+first_released_as_single: true
 key: my-love-margie-joseph
 name: My Love
 rankings:
@@ -22,5 +25,7 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1974-08-31'
+release_year: 1974
+runtime: 223453
 ---
 

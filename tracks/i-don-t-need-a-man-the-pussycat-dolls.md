@@ -1,8 +1,11 @@
 ---
+album: PCD
 artists:
 - The Pussycat Dolls
+external_ids:
+  spotify: spotify:track:0XEBKZHp8imfvf9NYjV8Kg
 features: []
-genres: []
+first_released_as_single: false
 key: i-don-t-need-a-man-the-pussycat-dolls
 lyrics_url: https://genius.com/The-pussycat-dolls-i-dont-need-a-man-lyrics
 name: I Don't Need A Man
@@ -11,6 +14,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2007-05-12'
+release_year: 2005
+runtime: 219093
 ---
 I see you looking at me
 Like I got something that's for you (Woo)

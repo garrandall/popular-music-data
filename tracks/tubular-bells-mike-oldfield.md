@@ -1,8 +1,11 @@
 ---
+album: Tubular Bells
 artists:
 - Mike Oldfield
+external_ids:
+  spotify: spotify:track:7ERSQrRptZVM7q3VOdM7OL
 features: []
-genres: []
+first_released_as_single: false
 key: tubular-bells-mike-oldfield
 name: Tubular Bells
 rankings:
@@ -70,5 +73,7 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '1974-06-08'
+release_year: 1973
+runtime: 1561133
 ---
 

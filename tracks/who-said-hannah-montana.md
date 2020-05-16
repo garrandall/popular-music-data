@@ -1,8 +1,11 @@
 ---
+album: Hannah Montana
 artists:
 - Hannah Montana
+external_ids:
+  spotify: spotify:track:7jg5JfizOZSEipnTR6d4Nt
 features: []
-genres: []
+first_released_as_single: false
 key: who-said-hannah-montana
 lyrics_url: https://www.musixmatch.com/lyrics/Hannah-Montana/Who-Said
 name: Who Said
@@ -23,6 +26,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '2007-01-13'
+release_year: 2006
+runtime: 194973
 ---
 I'm more than just
 Your average girl

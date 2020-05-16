@@ -1,8 +1,11 @@
 ---
+album: Agent Provocateur
 artists:
 - Foreigner
+external_ids:
+  spotify: spotify:track:2Y595I3I2LYhnTTXGrg2MX
 features: []
-genres: []
+first_released_as_single: false
 key: down-on-love-foreigner
 lyrics_url: https://genius.com/Foreigner-down-on-love-lyrics
 name: Down On Love
@@ -39,6 +42,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1985-10-05'
+release_year: 1984
+runtime: 249933
 ---
 Some people stay all alone and hide
 They don't even want to know the reason why

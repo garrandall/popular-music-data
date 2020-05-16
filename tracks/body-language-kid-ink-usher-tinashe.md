@@ -1,10 +1,13 @@
 ---
+album: Full Speed
 artists:
 - Kid Ink
+external_ids:
+  spotify: spotify:track:1rN55j78K87LEfRKZsSFYm
 features:
 - Usher
 - Tinashe
-genres: []
+first_released_as_single: false
 key: body-language-kid-ink-usher-tinashe
 lyrics_url: https://www.azlyrics.com/lyrics/kidink/bodylanguage.html
 name: Body Language
@@ -81,9 +84,9 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '2015-02-21'
+release_year: 2014
+runtime: 206280
 ---
-
-
 It's not a lot that you've been saying, whoa.
 But I can tell from your body language
 Let's talk about it ('bout it)
@@ -174,6 +177,3 @@ Ain't gotta say too much
 I can read your body language
 You ain't gotta say too much
 I can read your body language
-
-
-

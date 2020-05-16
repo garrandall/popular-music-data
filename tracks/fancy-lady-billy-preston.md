@@ -1,8 +1,11 @@
 ---
+album: 'Ultimate Collection: Billy Preston'
 artists:
 - Billy Preston
+external_ids:
+  spotify: spotify:track:6xyODOlRUVJq8tpBx7EBXr
 features: []
-genres: []
+first_released_as_single: false
 key: fancy-lady-billy-preston
 lyrics_url: https://www.azlyrics.com/lyrics/billypreston/fancylady.html
 name: Fancy Lady
@@ -23,8 +26,9 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '1975-10-25'
+release_year: 1975
+runtime: 347893
 ---
-
 Fancy lady is masquerading
 With a heart that nobody can see
 Time is wasting there
@@ -89,6 +93,3 @@ Oh, baby (love to share)
 Gimme some love, baby (love to share)
 I want it, baby (love to share)
 Won't you give it to me, baby (love)
-
-
-

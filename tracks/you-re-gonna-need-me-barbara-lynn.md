@@ -1,8 +1,11 @@
 ---
+album: You'll Lose a Good Thing
 artists:
 - Barbara Lynn
+external_ids:
+  spotify: spotify:track:1lHgTVH6hAAbFe1VKAJrs6
 features: []
-genres: []
+first_released_as_single: false
 key: you-re-gonna-need-me-barbara-lynn
 lyrics_url: https://genius.com/Barbara-lynn-youre-gonna-need-me-lyrics
 name: You're Gonna Need Me
@@ -31,6 +34,8 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1963-01-19'
+release_year: 1962
+runtime: 223040
 ---
 The whole town's talking
 About you and your new girl

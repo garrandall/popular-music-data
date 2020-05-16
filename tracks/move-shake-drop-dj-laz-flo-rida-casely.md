@@ -1,10 +1,13 @@
 ---
+album: Latin World Hip Hop Reloaded 1
 artists:
 - DJ Laz
+external_ids:
+  spotify: spotify:track:4e5IMo6PsFM3685ZY0wvEQ
 features:
 - Flo Rida
 - Casely
-genres: []
+first_released_as_single: false
 key: move-shake-drop-dj-laz-flo-rida-casely
 lyrics_url: https://genius.com/Dj-laz-move-shake-drop-remix-lyrics
 name: Move Shake Drop
@@ -29,6 +32,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2008-06-21'
+release_year: 2008
+runtime: 190573
 ---
 (feat. Pitbull, Flo Rida, Casely, Diaz Brothers and Missy Elliot)
 

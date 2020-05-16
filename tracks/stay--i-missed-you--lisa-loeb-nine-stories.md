@@ -1,9 +1,12 @@
 ---
+album: The Very Best Of
 artists:
 - Lisa Loeb
 - Nine Stories
+external_ids:
+  spotify: spotify:track:0jlgrHvssAloyAidZ1aJzs
 features: []
-genres: []
+first_released_as_single: false
 key: stay--i-missed-you--lisa-loeb-nine-stories
 lyrics_url: https://genius.com/Lisa-loeb-and-nine-stories-stay-lyrics
 name: Stay (I Missed You)
@@ -128,6 +131,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1994-11-26'
+release_year: 1994
+runtime: 184333
 ---
 You say
 I only hear what I want to

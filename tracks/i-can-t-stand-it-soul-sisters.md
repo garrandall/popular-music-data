@@ -1,8 +1,11 @@
 ---
+album: 'The Sue Records Story: The Sound Of Soul'
 artists:
 - Soul Sisters
+external_ids:
+  spotify: spotify:track:3LY9qYimjPrLSaoOxmliaV
 features: []
-genres: []
+first_released_as_single: false
 key: i-can-t-stand-it-soul-sisters
 lyrics_url: https://www.musixmatch.com/lyrics/The-Soul-Sisters/I-Can-t-Stand-It
 name: I Can't Stand It
@@ -43,6 +46,8 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '1964-04-25'
+release_year: 1964
+runtime: 164693
 ---
 I can stand the pain of life
 The ticking of the clock
@@ -106,4 +111,3 @@ No no, I can't stand it (I can't stand it)
 No no, I can't stand it (Oh no, I can't stand it)
 No no, I can't stand it (Baby when you love me)
 No no, I can't stand it (No, I can't stand it)
-

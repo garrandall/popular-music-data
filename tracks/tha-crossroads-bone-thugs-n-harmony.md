@@ -1,8 +1,11 @@
 ---
+album: E. 1999 Eternal
 artists:
 - Bone Thugs-N-Harmony
+external_ids:
+  spotify: spotify:track:5KSJ9k1FYjFLnIRlJT2wF8
 features: []
-genres: []
+first_released_as_single: false
 key: tha-crossroads-bone-thugs-n-harmony
 lyrics_url: https://genius.com/Bone-thugs-n-harmony-tha-crossroads-dj-u-neeks-mo-thug-remix-lyrics
 name: Tha Crossroads
@@ -87,6 +90,8 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1996-09-21'
+release_year: 1995
+runtime: 223546
 ---
 Bone, Bone, Bone, Bone
 Bone, Bone, Bone, Bone, Bone

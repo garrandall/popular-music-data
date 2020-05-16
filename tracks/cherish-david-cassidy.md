@@ -1,8 +1,11 @@
 ---
+album: The Definitive Collection
 artists:
 - David Cassidy
+external_ids:
+  spotify: spotify:track:4a3mIp7Mrmom2SXd3S81m7
 features: []
-genres: []
+first_released_as_single: false
 key: cherish-david-cassidy
 lyrics_url: https://www.azlyrics.com/lyrics/davidcassidy/cherish.html
 name: Cherish
@@ -55,8 +58,9 @@ rankings:
   rank: 24
   ranking_list: Billboard Hot 100
   start_date: '1972-01-22'
+release_year: 1971
+runtime: 227266
 ---
-
 Cherish is the word I use to describe
 All the feeling that I have
 Hiding here for you inside
@@ -112,6 +116,3 @@ And I do
 I cherish you
 Yes I do
 I cherish you
-
-
-

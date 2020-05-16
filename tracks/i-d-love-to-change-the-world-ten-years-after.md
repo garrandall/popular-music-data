@@ -1,8 +1,11 @@
 ---
+album: A Space in Time (Deluxe Version)
 artists:
 - Ten Years After
+external_ids:
+  spotify: spotify:track:19HjHUjCfDrEYhVSIKG6nK
 features: []
-genres: []
+first_released_as_single: false
 key: i-d-love-to-change-the-world-ten-years-after
 lyrics_url: https://genius.com/Ten-years-after-id-love-to-change-the-world-lyrics
 name: I'd Love To Change The World
@@ -55,6 +58,8 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '1971-12-11'
+release_year: 1971
+runtime: 224133
 ---
 Everywhere is
 Freaks and hairies

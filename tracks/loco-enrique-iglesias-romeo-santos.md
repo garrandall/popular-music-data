@@ -1,9 +1,12 @@
 ---
+album: SEX AND LOVE
 artists:
 - Enrique Iglesias
+external_ids:
+  spotify: spotify:track:6yjsa6c8nSGQqXF12vFSpp
 features:
 - Romeo Santos
-genres: []
+first_released_as_single: false
 key: loco-enrique-iglesias-romeo-santos
 lyrics_url: https://genius.com/Enrique-iglesias-loco-lyrics
 name: Loco
@@ -24,6 +27,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2013-10-26'
+release_year: 2013
+runtime: 213146
 ---
 Te pido de rodillas
 Luna no te vayas

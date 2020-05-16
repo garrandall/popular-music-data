@@ -1,8 +1,11 @@
 ---
+album: Two Lanes Of Freedom (Accelerated Deluxe)
 artists:
 - Tim McGraw
+external_ids:
+  spotify: spotify:track:1UafwyGQRo7BXijO1h3nGR
 features: []
-genres: []
+first_released_as_single: true
 key: one-of-those-nights-tim-mcgraw
 lyrics_url: https://genius.com/Tim-mcgraw-one-of-those-nights-lyrics
 name: One Of Those Nights
@@ -87,6 +90,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2013-04-27'
+release_year: 2012
+runtime: 223706
 ---
 She's getting dressed up, putting on that lipstick
 Shimmy shakeing, right into them cutoffs baby, oh yeah

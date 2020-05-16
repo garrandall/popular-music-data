@@ -1,8 +1,11 @@
 ---
+album: Graceland
 artists:
 - Paul Simon
+external_ids:
+  spotify: spotify:track:0qxYx4F3vm1AOnfux6dDxP
 features: []
-genres: []
+first_released_as_single: false
 key: you-can-call-me-al-paul-simon
 lyrics_url: https://genius.com/Paul-simon-you-can-call-me-al-lyrics
 name: You Can Call Me Al
@@ -123,6 +126,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1987-07-04'
+release_year: 1986
+runtime: 280000
 ---
 A man walks down the street
 He says, "Why am I soft in the middle, now?

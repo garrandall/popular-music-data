@@ -1,8 +1,11 @@
 ---
+album: So Much Fun
 artists:
 - Young Thug
+external_ids:
+  spotify: spotify:track:54fWDzHzlblC25yAhZ47Xn
 features: []
-genres: []
+first_released_as_single: false
 key: light-it-up-young-thug
 lyrics_url: https://genius.com/Young-thug-light-it-up-lyrics
 name: Light It Up
@@ -11,6 +14,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '2019-08-31'
+release_year: 2019
+runtime: 209253
 ---
 That's my man (Man)
 Flood my wrist with all type of bands (Bands)

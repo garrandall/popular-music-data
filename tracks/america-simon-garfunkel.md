@@ -1,8 +1,11 @@
 ---
+album: Bookends
 artists:
 - Simon & Garfunkel
+external_ids:
+  spotify: spotify:track:6dfhF1BDGmhM69fnCb6wSC
 features: []
-genres: []
+first_released_as_single: false
 key: america-simon-garfunkel
 lyrics_url: https://www.azlyrics.com/lyrics/simongarfunkel/america.html
 name: America
@@ -15,8 +18,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1972-12-02'
+release_year: 1968
+runtime: 215293
 ---
-
 Let us be lovers
 We'll marry our fortunes together
 I've got some real estate
@@ -60,6 +64,3 @@ They've all come
 To look for America
 All come to look for America
 All come to look for America
-
-
-

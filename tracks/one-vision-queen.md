@@ -1,8 +1,11 @@
 ---
+album: A Kind of Magic (Deluxe Remastered Version)
 artists:
 - Queen
+external_ids:
+  spotify: spotify:track:0xzhryP1AoHUazYdJ5rj3B
 features: []
-genres: []
+first_released_as_single: false
 key: one-vision-queen
 lyrics_url: https://genius.com/Queen-one-vision-lyrics
 name: One Vision
@@ -47,6 +50,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1986-02-08'
+release_year: 1985
+runtime: 311026
 ---
 God works in mysterious ways
 Mysterious ways

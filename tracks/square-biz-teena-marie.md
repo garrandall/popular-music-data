@@ -1,8 +1,11 @@
 ---
+album: Irons In The Fire (Expanded 15 Track Version)
 artists:
 - Teena Marie
+external_ids:
+  spotify: spotify:track:4k40asY99vO3KhJjLxzywY
 features: []
-genres: []
+first_released_as_single: false
 key: square-biz-teena-marie
 lyrics_url: https://www.azlyrics.com/lyrics/teenamarie/squarebiz.html
 name: Square Biz
@@ -59,8 +62,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1981-10-17'
+release_year: 1980
+runtime: 379426
 ---
-
 Hee...
 Everybody get up
 
@@ -217,6 +221,3 @@ I'm gonna hip you to the Tee
 Quit talking Square Biz
 
 Quit talking Square Biz
-
-
-

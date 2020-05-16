@@ -1,8 +1,11 @@
 ---
+album: Hello, I'm Johnny Cash
 artists:
 - Johnny Cash
+external_ids:
+  spotify: spotify:track:7tldd9oCoMwNelucVLToWB
 features: []
-genres: []
+first_released_as_single: false
 key: see-ruby-fall-johnny-cash
 lyrics_url: https://www.azlyrics.com/lyrics/johnnycash/seerubyfall.html
 name: See Ruby Fall
@@ -19,8 +22,9 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1969-11-22'
+release_year: 1969
+runtime: 170840
 ---
-
 Well I knew someday, Ruby would be leavin'
 That she wasn't happy livin' quietly, quietly
 'Cause she would get the bedroom look each mornin'
@@ -40,6 +44,3 @@ I didn't hold her back, when she got restless
 One man is not enough when she wants it all
 Yeah, I let her go when I saw what she wanted
 'Cause I don't care to see Ruby fall
-
-
-

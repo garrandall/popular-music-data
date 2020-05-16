@@ -1,9 +1,12 @@
 ---
+album: R.E.D.
 artists:
 - Calvin Harris
+external_ids:
+  spotify: spotify:track:0k3yajjoN6uZINmPe2uKrt
 features:
 - Ne-Yo
-genres: []
+first_released_as_single: false
 key: let-s-go-calvin-harris-ne-yo
 lyrics_url: https://www.azlyrics.com/lyrics/calvinharris/letsgo.html
 name: Let's Go
@@ -88,8 +91,9 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '2012-10-06'
+release_year: 2012
+runtime: 233240
 ---
-
 Let's go
 Make no excuses now
 I'm talking here and now
@@ -154,6 +158,3 @@ Let's go
 Tomorrow's good, tonight is better
 Oh, oh
 Oh, let's go
-
-
-

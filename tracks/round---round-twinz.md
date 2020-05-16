@@ -1,8 +1,11 @@
 ---
+album: Conversation
 artists:
 - Twinz
+external_ids:
+  spotify: spotify:track:13Mzo1l88eZPohxdl5T1qv
 features: []
-genres: []
+first_released_as_single: false
 key: round---round-twinz
 lyrics_url: https://genius.com/Twinz-round-and-round-lyrics
 name: Round & Round
@@ -43,6 +46,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1995-10-14'
+release_year: 1995
+runtime: 221066
 ---
 (Round & Round)
 Twinz got the sound that go round & round

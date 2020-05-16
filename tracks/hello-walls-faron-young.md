@@ -1,8 +1,11 @@
 ---
+album: The Complete Capitol Hits Of Faron Young
 artists:
 - Faron Young
+external_ids:
+  spotify: spotify:track:4dim8F8t01qimHOmr6S3Gd
 features: []
-genres: []
+first_released_as_single: false
 key: hello-walls-faron-young
 lyrics_url: https://www.azlyrics.com/lyrics/faronyoung/hellowalls.html
 name: Hello Walls
@@ -67,8 +70,9 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '1961-07-17'
+release_year: 1961
+runtime: 146840
 ---
-
 Hello walls (hello hello) how things go for you today
 Don't you miss her since she upped and walked away
 And I'll bet you dread to spend another lonely night with me
@@ -87,6 +91,3 @@ You know I can't sleep so won't you bear with me awhile
 We must all stick together or else I'll lose my mind
 I've got a feeling she'll be gone a long, long time
 (Hello, hello)...
-
-
-

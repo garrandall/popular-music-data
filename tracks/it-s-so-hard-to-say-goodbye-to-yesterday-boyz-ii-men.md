@@ -1,8 +1,11 @@
 ---
+album: Cooleyhighharmony (Bonus Tracks Version)
 artists:
 - Boyz II Men
+external_ids:
+  spotify: spotify:track:5Aq7S6nG7R1Ux6myqEL8A3
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-so-hard-to-say-goodbye-to-yesterday-boyz-ii-men
 lyrics_url: https://www.azlyrics.com/lyrics/boyziimen/itssohardtosaygoodbyetoyesterday.html
 name: It's So Hard To Say Goodbye To Yesterday
@@ -95,8 +98,9 @@ rankings:
   rank: 30
   ranking_list: Billboard Hot 100
   start_date: '1992-02-15'
+release_year: 1991
+runtime: 168666
 ---
-
 How do I say goodbye to what we had?
 The good times that made us laugh
 Outweigh the bad
@@ -121,6 +125,3 @@ It's so hard to say goodbye to yesterday
 And I'll take with me the memories
 To be my sunshine after the rain
 It's so hard to say goodbye to yesterday
-
-
-

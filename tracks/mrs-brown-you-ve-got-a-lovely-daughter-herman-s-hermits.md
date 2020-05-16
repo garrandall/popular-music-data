@@ -1,8 +1,11 @@
 ---
+album: Herman's Hermits Retrospective
 artists:
 - Herman's Hermits
+external_ids:
+  spotify: spotify:track:1GJCJpKYfzRUsYnSRy4Mfz
 features: []
-genres: []
+first_released_as_single: false
 key: mrs-brown-you-ve-got-a-lovely-daughter-herman-s-hermits
 lyrics_url: https://genius.com/Hermans-hermits-mrs-brown-youve-got-a-lovely-daughter-lyrics
 name: Mrs Brown You've Got A Lovely Daughter
@@ -51,6 +54,8 @@ rankings:
   rank: 23
   ranking_list: Billboard Hot 100
   start_date: '1965-06-26'
+release_year: 1965
+runtime: 167480
 ---
 Mrs. Brown, you've got a lovely daughter
 Girls as sharp as her are something rare

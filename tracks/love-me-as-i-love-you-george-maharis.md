@@ -1,8 +1,11 @@
 ---
+album: Portrait In Music
 artists:
 - George Maharis
+external_ids:
+  spotify: spotify:track:2b39AQLnuzbnfmUc7IB42Y
 features: []
-genres: []
+first_released_as_single: false
 key: love-me-as-i-love-you-george-maharis
 lyrics_url: https://www.musixmatch.com/lyrics/George-Maharis/Love-Me-as-I-Love-You
 name: Love Me As I Love You
@@ -31,6 +34,8 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '1962-09-08'
+release_year: 1962
+runtime: 153240
 ---
 (Love me, love me, ah ah ah, ah)
 (Love me, love me, ah ah ah, ah)

@@ -1,8 +1,11 @@
 ---
+album: Batman Theme & Other Bat Songs
 artists:
 - Neal Hefti
+external_ids:
+  spotify: spotify:track:4lwV7SpU0JSM1OIm0aIkNP
 features: []
-genres: []
+first_released_as_single: false
 key: batman-theme-neal-hefti
 lyrics_url: https://genius.com/Neal-hefti-and-his-orchestra-and-chorus-batman-theme-from-batman-a-greenway-production-in-association-with-twentieth-century-fox-television-lyrics
 name: Batman Theme
@@ -39,6 +42,8 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '1966-04-02'
+release_year: 1966
+runtime: 138666
 ---
 Batman
 Batman

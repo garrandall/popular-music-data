@@ -1,8 +1,11 @@
 ---
+album: Starboy
 artists:
 - The Weeknd
+external_ids:
+  spotify: spotify:track:02V0fopGouDF5GbDHftv4S
 features: []
-genres: []
+first_released_as_single: false
 key: rockin--the-weeknd
 lyrics_url: https://www.azlyrics.com/lyrics/weeknd/rockin.html
 name: Rockin'
@@ -15,8 +18,9 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '2016-12-24'
+release_year: 2016
+runtime: 232880
 ---
-
 People always talk about the ones that got away
 I just seem to get the ones that always want to stay
 I'm just too distracted with the life I'm tryna pay
@@ -73,6 +77,3 @@ I just want your body next to me (Hey!)
 We can just be rockin', yeah
 We can just be rockin', yeah (We can just be rockin' baby)
 (Yeah, yeah, yeah)
-
-
-

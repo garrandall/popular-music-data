@@ -1,8 +1,11 @@
 ---
+album: Rare Stamps
 artists:
 - Johnnie Taylor
+external_ids:
+  spotify: spotify:track:7Man7vwC6hLcvyNlw5kE74
 features: []
-genres: []
+first_released_as_single: false
 key: somebody-s-sleeping-in-my-bed-johnnie-taylor
 lyrics_url: https://genius.com/Johnnie-taylor-somebodys-sleeping-in-my-bed-lyrics
 name: Somebody's Sleeping In My Bed
@@ -15,6 +18,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1967-12-23'
+release_year: 1967
+runtime: 168040
 ---
 Somebody is sleeping in my bed
 That's a bad thing to say, but it's the truth, ha

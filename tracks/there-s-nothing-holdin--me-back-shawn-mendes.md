@@ -1,8 +1,11 @@
 ---
+album: Illuminate
 artists:
 - Shawn Mendes
+external_ids:
+  spotify: spotify:track:7JJmb5XwzOO8jgpou264Ml
 features: []
-genres: []
+first_released_as_single: false
 key: there-s-nothing-holdin--me-back-shawn-mendes
 lyrics_url: https://genius.com/Shawn-mendes-theres-nothing-holdin-me-back-lyrics
 name: There's Nothing Holdin' Me Back
@@ -143,6 +146,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2017-12-30'
+release_year: 2017
+runtime: 199440
 ---
 I wanna follow where she goes
 I think about her and she knows it

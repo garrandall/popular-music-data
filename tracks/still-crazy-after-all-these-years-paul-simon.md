@@ -1,8 +1,11 @@
 ---
+album: Still Crazy After All These Years
 artists:
 - Paul Simon
+external_ids:
+  spotify: spotify:track:3gIBSlXYIN1mru35l4LWPB
 features: []
-genres: []
+first_released_as_single: false
 key: still-crazy-after-all-these-years-paul-simon
 lyrics_url: https://www.azlyrics.com/lyrics/paulsimon/stillcrazyafteralltheseyears.html
 name: Still Crazy After All These Years
@@ -35,8 +38,9 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1976-06-12'
+release_year: 1975
+runtime: 206533
 ---
-
 I met my old lover
 On the street last night
 She seemed so glad to see me
@@ -73,6 +77,3 @@ Still crazy after all these years
 Still crazy
 Still crazy
 Still crazy after all these years
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Middle Of Nowhere
 artists:
 - Hanson
+external_ids:
+  spotify: spotify:track:0lnxrQAd9ZxbhBBe7d8FO8
 features: []
-genres: []
+first_released_as_single: false
 key: mmmbop-hanson
 lyrics_url: https://www.azlyrics.com/lyrics/hanson/mmmbop.html
 name: MMMBop
@@ -95,8 +98,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1997-09-27'
+release_year: 1997
+runtime: 268653
 ---
-
 Oh oh oh oh oh
 Yeah
 
@@ -227,6 +231,3 @@ Can you tell me? oh
 No you can't 'cause you don't know
 Can you tell me?
 You say you can but you don't know
-
-
-

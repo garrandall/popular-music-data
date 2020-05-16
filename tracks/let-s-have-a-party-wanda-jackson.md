@@ -1,8 +1,11 @@
 ---
+album: Wanda Jackson "In Person"
 artists:
 - Wanda Jackson
+external_ids:
+  spotify: spotify:track:6itTjGTNhYc7VAxqz0mAqX
 features: []
-genres: []
+first_released_as_single: false
 key: let-s-have-a-party-wanda-jackson
 lyrics_url: https://www.azlyrics.com/lyrics/wandajackson/letshaveaparty.html
 name: Let's Have A Party
@@ -47,8 +50,9 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1960-10-31'
+release_year: 1960
+runtime: 170613
 ---
-
 Some people like to rock, some people like to roll
 But movin' and a-groovin' gonna satisfy my soul
 Let's have a party, hoo, let's have a party
@@ -81,6 +85,3 @@ Let's have a party tonight
 Let's have a party tonight
 Let's have a party tonight
 We gon' have a party tonight
-
-
-

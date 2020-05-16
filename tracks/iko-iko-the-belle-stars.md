@@ -1,8 +1,11 @@
 ---
+album: "Belle-Issima! Sweet Memories\u2026"
 artists:
 - The Belle Stars
+external_ids:
+  spotify: spotify:track:0sXuP9uIFdL9AQbMGhRTIG
 features: []
-genres: []
+first_released_as_single: false
 key: iko-iko-the-belle-stars
 lyrics_url: https://genius.com/The-belle-stars-iko-iko-lyrics
 name: Iko Iko
@@ -79,6 +82,8 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1989-07-01'
+release_year: 1981
+runtime: 179173
 ---
 My grandma and your grandma
 Sitting by the fire

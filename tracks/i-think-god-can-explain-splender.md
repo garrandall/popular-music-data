@@ -1,8 +1,11 @@
 ---
+album: Halfway Down The Sky
 artists:
 - Splender
+external_ids:
+  spotify: spotify:track:7EYWVZwt5x3N9lAUBLFwr2
 features: []
-genres: []
+first_released_as_single: false
 key: i-think-god-can-explain-splender
 lyrics_url: https://www.azlyrics.com/lyrics/splender/ithinkgodcanexplain.html
 name: I Think God Can Explain
@@ -55,8 +58,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2000-08-26'
+release_year: 1995
+runtime: 235893
 ---
-
 There's a lot of things I understand
 And there's a lot of things that I don't want to know
 But you're the only face I recognize
@@ -100,6 +104,3 @@ I'll get off of your back
 
 I think God can explain, I think God can explain
 I think God can explain
-
-
-

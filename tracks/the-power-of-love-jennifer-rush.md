@@ -1,8 +1,11 @@
 ---
+album: Jennifer Rush
 artists:
 - Jennifer Rush
+external_ids:
+  spotify: spotify:track:0IWLgimumxlqOmHWdFVJlD
 features: []
-genres: []
+first_released_as_single: false
 key: the-power-of-love-jennifer-rush
 lyrics_url: https://genius.com/Jennifer-rush-the-power-of-love-lyrics
 name: The Power Of Love
@@ -59,6 +62,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1986-05-03'
+release_year: 1984
+runtime: 361266
 ---
 The whispers in the morning of lovers sleeping tight
 Are rolling by like thunder now as I look into your eyes

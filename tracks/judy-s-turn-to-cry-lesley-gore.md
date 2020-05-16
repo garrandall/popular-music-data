@@ -1,8 +1,11 @@
 ---
+album: I'll Cry If I Want To
 artists:
 - Lesley Gore
+external_ids:
+  spotify: spotify:track:5Vb0SgInHwS0tq46dApdBY
 features: []
-genres: []
+first_released_as_single: false
 key: judy-s-turn-to-cry-lesley-gore
 lyrics_url: https://genius.com/Lesley-gore-judys-turn-to-cry-lyrics
 name: Judy's Turn To Cry
@@ -51,6 +54,8 @@ rankings:
   rank: 37
   ranking_list: Billboard Hot 100
   start_date: '1963-09-14'
+release_year: 1963
+runtime: 131000
 ---
 'Cause now it's Judy's turn to cry
 Judy's turn to cry, Judy's turn to cry

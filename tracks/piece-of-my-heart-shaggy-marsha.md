@@ -1,9 +1,12 @@
 ---
+album: Midnite Lover
 artists:
 - Shaggy
+external_ids:
+  spotify: spotify:track:6csNUpv2H98wBVUOwEQeAa
 features:
 - Marsha
-genres: []
+first_released_as_single: false
 key: piece-of-my-heart-shaggy-marsha
 lyrics_url: https://www.azlyrics.com/lyrics/shaggy/pieceofmyheart.html
 name: Piece Of My Heart
@@ -48,9 +51,10 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1997-11-01'
+release_year: 1997
+runtime: 257399
 ---
-
- Enough of the break up
+Enough of the break up
 Girl, let's deal with the make up
 Alimony mean all the money
 Ha, ha, ha, ha
@@ -120,6 +124,3 @@ You know you got it if it makes you feel good
 
 
 Rock, baby
-
-
-

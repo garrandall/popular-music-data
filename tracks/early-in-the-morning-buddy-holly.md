@@ -1,8 +1,11 @@
 ---
+album: Gold
 artists:
 - Buddy Holly
+external_ids:
+  spotify: spotify:track:3ZPLEWxBXp38KPXKiV0wUc
 features: []
-genres: []
+first_released_as_single: false
 key: early-in-the-morning-buddy-holly
 lyrics_url: https://www.azlyrics.com/lyrics/buddyholly/earlyinthemorning.html
 name: Early In The Morning
@@ -35,8 +38,9 @@ rankings:
   rank: 52
   ranking_list: Billboard Hot 100
   start_date: '1958-09-15'
+release_year: 1958
+runtime: 125920
 ---
-
 Well, you're gonna miss me, early in the morning, one of these days
 Oh yeah, you're gonna want me, early in the morning, when I'm away
 Yes, you'll be sorry for the times I cried
@@ -55,6 +59,3 @@ You're gonna miss the best man you ever had
 Yes, you're gonna miss me
 You're gonna want me
 One of these days
-
-
-

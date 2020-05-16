@@ -1,8 +1,11 @@
 ---
+album: Pity for the Lonely
 artists:
 - Luther Ingram
+external_ids:
+  spotify: spotify:track:2qqmicI40l0EpKVzciqv3O
 features: []
-genres: []
+first_released_as_single: false
 key: you-were-made-for-me-luther-ingram
 lyrics_url: https://genius.com/Luther-ingram-you-were-made-for-me-lyrics
 name: You Were Made For Me
@@ -19,6 +22,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1972-04-22'
+release_year: 1966
+runtime: 236400
 ---
 Fish were made to swim in the ocean
 And boats were made to sail on the sea, yeah

@@ -1,8 +1,11 @@
 ---
+album: Windows And Walls
 artists:
 - Dan Fogelberg
+external_ids:
+  spotify: spotify:track:2qiVq9q9Ig5ei2Xdng0Sui
 features: []
-genres: []
+first_released_as_single: false
 key: the-language-of-love-dan-fogelberg
 lyrics_url: https://www.azlyrics.com/lyrics/danfogelberg/thelanguageoflove.html
 name: The Language Of Love
@@ -63,8 +66,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1984-05-05'
+release_year: 1984
+runtime: 221000
 ---
-
 She says no
 When she means yes
 And what she wants
@@ -124,6 +128,3 @@ When we want more
 You know we ask for less
 Such is the language of love
 Such is the language of love
-
-
-

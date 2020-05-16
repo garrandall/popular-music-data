@@ -1,9 +1,12 @@
 ---
+album: Light Poles And Pine Trees
 artists:
 - Field Mob
+external_ids:
+  spotify: spotify:track:0Uc706myy6Th7I6KQ9xA1x
 features:
 - Ciara
-genres: []
+first_released_as_single: false
 key: so-what-field-mob-ciara
 lyrics_url: https://www.azlyrics.com/lyrics/fieldmob/sowhat.html
 name: So What
@@ -92,9 +95,9 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '2006-09-09'
+release_year: 2006
+runtime: 216000
 ---
-
-
 They say he do a little of this
 He do a little of that
 He's always in trouble, and I heard
@@ -223,6 +226,3 @@ So what
 So what
 So what
 So what
-
-
-

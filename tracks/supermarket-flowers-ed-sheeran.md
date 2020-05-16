@@ -1,8 +1,11 @@
 ---
+album: "\xF7"
 artists:
 - Ed Sheeran
+external_ids:
+  spotify: spotify:track:4VuS959DSpr82t3qBqCrWG
 features: []
-genres: []
+first_released_as_single: false
 key: supermarket-flowers-ed-sheeran
 lyrics_url: https://www.azlyrics.com/lyrics/edsheeran/supermarketflowers.html
 name: Supermarket Flowers
@@ -11,8 +14,9 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '2017-03-25'
+release_year: 2017
+runtime: 221106
 ---
-
 I took the supermarket flowers from the windowsill
 I threw the day-old tea from the cup
 Packed up the photo album Matthew had made
@@ -52,6 +56,3 @@ You were an angel in the shape of my mum
 You got to see the person I have become
 Spread your wings and I know
 That when God took you back, he said, "Hallelujah, you're home"
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Los Chicos Con las Chicas
 artists:
 - Los Bravos
+external_ids:
+  spotify: spotify:track:4aaQpHCvL2jkF0tJzXxvgB
 features: []
-genres: []
+first_released_as_single: false
 key: going-nowhere-los-bravos
 lyrics_url: https://genius.com/Los-bravos-going-nowhere-lyrics
 name: Going Nowhere
@@ -15,6 +18,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1966-12-24'
+release_year: 1966
+runtime: 140373
 ---
 If I never do another thing today
 Gonna teach myself to lie

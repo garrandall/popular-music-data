@@ -1,8 +1,11 @@
 ---
+album: The Top Hits Of 1963 Sung By Bobby Rydell
 artists:
 - Bobby Rydell
+external_ids:
+  spotify: spotify:track:2cBcDL88A6c5IoFWceo7C7
 features: []
-genres: []
+first_released_as_single: false
 key: forget-him-bobby-rydell
 lyrics_url: https://genius.com/Bobby-rydell-forget-him-lyrics
 name: Forget Him
@@ -71,6 +74,8 @@ rankings:
   rank: 34
   ranking_list: Billboard Hot 100
   start_date: '1964-02-22'
+release_year: 1963
+runtime: 128280
 ---
 (Forget him)
 (Forget him)

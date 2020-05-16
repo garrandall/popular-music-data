@@ -1,8 +1,11 @@
 ---
+album: Sleepless Nights
 artists:
 - Brooklyn Dreams
+external_ids:
+  spotify: spotify:track:2osBULrkrcvPA9D2NEqgC8
 features: []
-genres: []
+first_released_as_single: false
 key: make-it-last-brooklyn-dreams
 name: Make It Last
 rankings:
@@ -22,5 +25,7 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1979-03-17'
+release_year: 1979
+runtime: 202533
 ---
 

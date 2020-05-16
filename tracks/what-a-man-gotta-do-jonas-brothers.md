@@ -1,8 +1,11 @@
 ---
+album: What A Man Gotta Do
 artists:
 - Jonas Brothers
+external_ids:
+  spotify: spotify:track:4wNIkl5XGiAACjFBlDWuSd
 features: []
-genres: []
+first_released_as_single: true
 key: what-a-man-gotta-do-jonas-brothers
 lyrics_url: https://www.azlyrics.com/lyrics/jonasbrothers/whatamangottado.html
 name: What A Man Gotta Do
@@ -39,8 +42,9 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '2020-03-21'
+release_year: 2020
+runtime: 180644
 ---
-
 Cut my heart about one, two times
 Don't need to question the reason, I'm yours, I'm yours
 I'd move the earth or lose a fight just to see you smile
@@ -100,6 +104,3 @@ To be totally locked up by you (Totally locked up by you)
 What a man gotta do? (Hey, baby)
 What a man gotta prove? (What a man gotta prove?)
 To be totally locked up by you (Totally locked up by you)
-
-
-

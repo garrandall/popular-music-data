@@ -1,8 +1,11 @@
 ---
+album: A Love Trilogy
 artists:
 - Donna Summer
+external_ids:
+  spotify: spotify:track:2MdGWAiYLmGbetrSBANcoD
 features: []
-genres: []
+first_released_as_single: false
 key: could-it-be-magic-donna-summer
 lyrics_url: https://www.azlyrics.com/lyrics/donnasummer/coulditbemagic.html
 name: Could It Be Magic
@@ -27,9 +30,9 @@ rankings:
   rank: 52
   ranking_list: Billboard Hot 100
   start_date: '1976-05-29'
+release_year: 1976
+runtime: 315493
 ---
-
-
 Oh baby it's been so long
 I've waited so long
 And now that I have you
@@ -88,6 +91,3 @@ Baby, I want you now, now, oh now,
 Oh now and hold on fast
 Oh, could this be the magic at last?
 Could it be the magic?
-
-
-

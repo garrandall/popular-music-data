@@ -1,8 +1,11 @@
 ---
+album: Last Splash
 artists:
 - The Breeders
+external_ids:
+  spotify: spotify:track:1pQFd3NNFOQ1rZzCPXgKyv
 features: []
-genres: []
+first_released_as_single: true
 key: cannonball-the-breeders
 lyrics_url: https://www.azlyrics.com/lyrics/breeders/cannonball.html
 name: Cannonball
@@ -87,8 +90,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1994-04-16'
+release_year: 1993
+runtime: 216066
 ---
-
 (Check check check
 One, two
 One, two)
@@ -155,6 +159,3 @@ In the shade
 (Hey now)
 In the shade
 In the shade.
-
-
-

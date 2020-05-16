@@ -1,8 +1,11 @@
 ---
+album: Why Do Fools Fall in Love
 artists:
 - Diana Ross
+external_ids:
+  spotify: spotify:track:4K75wHUlIPvaV8lyQB3i2K
 features: []
-genres: []
+first_released_as_single: false
 key: work-that-body-diana-ross
 lyrics_url: https://www.azlyrics.com/lyrics/dianaross/workthatbody.html
 name: Work That Body
@@ -35,8 +38,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1982-05-22'
+release_year: 1981
+runtime: 299093
 ---
-
 All right
 Get ready
 We're gonna work that body
@@ -136,6 +140,3 @@ Push 2, 3, 4, 5, 6, 7, 8
 
 Work that body
 Work that body
-
-
-

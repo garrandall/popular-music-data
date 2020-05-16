@@ -1,9 +1,12 @@
 ---
+album: Wins & Losses
 artists:
 - Meek Mill
+external_ids:
+  spotify: spotify:track:7KmguHS8eVmZOpdpg0gnv2
 features:
 - Lil Uzi Vert
-genres: []
+first_released_as_single: false
 key: f--k-that-check-up-meek-mill-lil-uzi-vert
 lyrics_url: https://www.musixmatch.com/lyrics/Meek-Mill-feat-Lil-Uzi-Vert/F-k-That-Check-Up
 name: F**k That Check Up
@@ -12,6 +15,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2017-08-12'
+release_year: 2017
+runtime: 257853
 ---
 Lil' fish, yeah
 If you can't swim, you gon' drown, hoe

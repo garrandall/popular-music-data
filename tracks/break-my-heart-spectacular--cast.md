@@ -1,8 +1,11 @@
 ---
+album: Spectacular! (Music from the Nickelodeon Original Movie)
 artists:
 - Spectacular! Cast
+external_ids:
+  spotify: spotify:track:1WbeuiDYoCfCpvxisr1zRx
 features: []
-genres: []
+first_released_as_single: false
 key: break-my-heart-spectacular--cast
 lyrics_url: https://genius.com/Spectacular-cast-break-my-heart-lyrics
 name: Break My Heart
@@ -11,6 +14,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2009-03-07'
+release_year: 2009
+runtime: 190133
 ---
 So your the girl
 I heard the rumor

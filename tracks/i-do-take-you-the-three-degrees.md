@@ -1,8 +1,11 @@
 ---
+album: The Roulette Years
 artists:
 - The Three Degrees
+external_ids:
+  spotify: spotify:track:1g9VFVkBMUYxZ1CX8rG75s
 features: []
-genres: []
+first_released_as_single: false
 key: i-do-take-you-the-three-degrees
 lyrics_url: https://www.musixmatch.com/lyrics/The-Three-Degrees/I-Do-Take-You
 name: I Do Take You
@@ -43,6 +46,8 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '1970-11-07'
+release_year: 1970
+runtime: 196546
 ---
 I do
 Take you for the rest of my life

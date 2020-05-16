@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music, Volume 6'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:2kXnOV5df9njPkGKOiYDfr
 features: []
-genres: []
+first_released_as_single: false
 key: i-feel-pretty-glee-cast
 lyrics_url: https://www.azlyrics.com/lyrics/gleecast/ifeelprettyunpretty.html
 name: I Feel Pretty
@@ -15,8 +18,9 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '2011-05-21'
+release_year: 2011
+runtime: 239373
 ---
-
 I wish I could tie you up in my shoes
 Make you feel unpretty too
 I was told I was beautiful
@@ -94,6 +98,3 @@ Be in a position to make me feel so damn unpretty
 
 I feel pretty
 But unpretty
-
-
-

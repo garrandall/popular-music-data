@@ -1,8 +1,11 @@
 ---
+album: For The Cool In You
 artists:
 - Babyface
+external_ids:
+  spotify: spotify:track:2zItQNJrVrTioXTXWiI2ed
 features: []
-genres: []
+first_released_as_single: false
 key: when-can-i-see-you-babyface
 lyrics_url: https://genius.com/Babyface-when-can-i-see-you-lyrics
 name: When Can I See You
@@ -151,6 +154,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1995-02-18'
+release_year: 1993
+runtime: 229600
 ---
 When can my heart beat again?
 When does the pain ever end?

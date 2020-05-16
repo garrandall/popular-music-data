@@ -1,8 +1,11 @@
 ---
+album: Love and Theft
 artists:
 - Love And Theft
+external_ids:
+  spotify: spotify:track:63w0QA1wiV7QhF9jeiHETF
 features: []
-genres: []
+first_released_as_single: false
 key: angel-eyes-love-and-theft
 lyrics_url: https://genius.com/Love-and-theft-angel-eyes-lyrics
 name: Angel Eyes
@@ -87,6 +90,8 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '2012-10-13'
+release_year: 2012
+runtime: 186626
 ---
 She likes whiskey with her water
 She starts dancing when the stars come out

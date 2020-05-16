@@ -1,8 +1,11 @@
 ---
+album: Indigo
 artists:
 - Chris Brown
+external_ids:
+  spotify: spotify:track:7hXNGEIMOrqmlXANA69cZQ
 features: []
-genres: []
+first_released_as_single: true
 key: undecided-chris-brown
 lyrics_url: https://www.azlyrics.com/lyrics/chrisbrown/undecided.html
 name: Undecided
@@ -55,8 +58,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2019-04-06'
+release_year: 2019
+runtime: 187297
 ---
-
 No, I don't say it often
 And I probably should've told you I hurt this bad, I know
 And I probably shouldn't want this so bad
@@ -127,6 +131,3 @@ Do-do-do-do-do-do-do
 No, no, no, no
 Do-do-do-do-do-do-do-do
 Oh, but I'm undecided
-
-
-

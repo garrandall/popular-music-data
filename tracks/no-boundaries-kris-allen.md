@@ -1,8 +1,11 @@
 ---
+album: No Boundaries
 artists:
 - Kris Allen
+external_ids:
+  spotify: spotify:track:4K5LLD1QqDCYfCfe7MjAsG
 features: []
-genres: []
+first_released_as_single: true
 key: no-boundaries-kris-allen
 lyrics_url: https://www.azlyrics.com/lyrics/krisallen/noboundaries.html
 name: No Boundaries
@@ -19,8 +22,9 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '2009-06-20'
+release_year: 2009
+runtime: 210093
 ---
-
 Seconds, hours, so many days
 You know what you want but how long can you wait?
 Every moment lasts forever
@@ -80,6 +84,3 @@ You make it through the pain, weather the hurricanes
 There are no boundaries!
 There are no boundaries!
 There are no boundaries
-
-
-

@@ -1,9 +1,12 @@
 ---
+album: Cry Baby
 artists:
 - Garnet Mimms
 - The Enchanters
+external_ids:
+  spotify: spotify:track:5HvpTcuCZ1oC1cClE83owm
 features: []
-genres: []
+first_released_as_single: false
 key: baby-don-t-you-weep-garnet-mimms-the-enchanters
 lyrics_url: https://www.musixmatch.com/lyrics/Garnet-Mimms-feat-The-Enchanters/Baby-Don-t-You-Weep
 name: Baby Don't You Weep
@@ -44,6 +47,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1964-01-11'
+release_year: 1963
+runtime: 209266
 ---
 Baby, don't you weep
 I said, baby, don't you weep

@@ -1,8 +1,11 @@
 ---
+album: Gavin DeGraw
 artists:
 - Gavin DeGraw
+external_ids:
+  spotify: spotify:track:3zcmWxxUA7Em7X3IBqZGUo
 features: []
-genres: []
+first_released_as_single: false
 key: in-love-with-a-girl-gavin-degraw
 lyrics_url: https://www.azlyrics.com/lyrics/gavindegraw/inlovewithagirl.html
 name: In Love With A Girl
@@ -99,8 +102,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2008-08-23'
+release_year: 2008
+runtime: 206000
 ---
-
 So many people gonna say that they want you,
 To try to get you thinking they really care,
 But there's nothing like the warmth of the one
@@ -158,6 +162,3 @@ I'm in love with a girl (I'm in love with)
 Who knows me better
 Wants to make love when I wanna fight
 now someone understand me
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Citizen Kihn
 artists:
 - Greg Kihn
+external_ids:
+  spotify: spotify:track:09uZIPQmzGIZk1lp0rJNn8
 features: []
-genres: []
+first_released_as_single: false
 key: lucky-greg-kihn
 lyrics_url: https://genius.com/Greg-kihn-lucky-lyrics
 name: Lucky
@@ -55,6 +58,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1985-05-04'
+release_year: 1985
+runtime: 212294
 ---
 Aw, aw, aw
 

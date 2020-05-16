@@ -1,9 +1,12 @@
 ---
+album: Wanted
 artists:
 - Bow Wow
+external_ids:
+  spotify: spotify:track:5dLvErR6RBbMMvGuDMdur2
 features:
 - Ciara
-genres: []
+first_released_as_single: false
 key: like-you-bow-wow-ciara
 lyrics_url: https://genius.com/Bow-wow-like-you-lyrics
 name: Like You
@@ -92,6 +95,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2005-12-24'
+release_year: 2000
+runtime: 205640
 ---
 I ain't never had nobody show me all the things that you done showed me
 And the special way I feel when you hold me

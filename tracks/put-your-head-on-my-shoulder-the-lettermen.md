@@ -1,8 +1,11 @@
 ---
+album: Favorites
 artists:
 - The Lettermen
+external_ids:
+  spotify: spotify:track:7MG6lf9R7ijJp9z8Ip0dJJ
 features: []
-genres: []
+first_released_as_single: false
 key: put-your-head-on-my-shoulder-the-lettermen
 lyrics_url: https://genius.com/The-lettermen-put-your-head-on-my-shoulder-lyrics
 name: Put Your Head On My Shoulder
@@ -39,6 +42,8 @@ rankings:
   rank: 52
   ranking_list: Billboard Hot 100
   start_date: '1969-01-04'
+release_year: 1968
+runtime: 157773
 ---
 Put your head on my shoulder
 Hold me in your arms, baby

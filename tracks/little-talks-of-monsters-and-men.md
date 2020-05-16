@@ -1,8 +1,11 @@
 ---
+album: My Head Is An Animal
 artists:
 - Of Monsters And Men
+external_ids:
+  spotify: spotify:track:2ihCaVdNZmnHZWt0fvAM7B
 features: []
-genres: []
+first_released_as_single: false
 key: little-talks-of-monsters-and-men
 lyrics_url: https://genius.com/Of-monsters-and-men-little-talks-lyrics
 name: Little Talks
@@ -199,6 +202,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2013-05-04'
+release_year: 2012
+runtime: 266600
 ---
 Hey! Hey! Hey!
 

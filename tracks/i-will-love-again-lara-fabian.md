@@ -1,8 +1,11 @@
 ---
+album: Lara Fabian
 artists:
 - Lara Fabian
+external_ids:
+  spotify: spotify:track:0IAfuACNKEekV4O50H2MI7
 features: []
-genres: []
+first_released_as_single: true
 key: i-will-love-again-lara-fabian
 lyrics_url: https://www.azlyrics.com/lyrics/larafabian/iwillloveagainballadreprise.html
 name: I Will Love Again
@@ -75,8 +78,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2000-09-30'
+release_year: 2000
+runtime: 633600
 ---
-
 La-la-la, mmmÂ­mmmÂ­
 
 Did I ever tell you
@@ -145,6 +149,3 @@ You can't stop me from loving again
 Breathing again
 Feeling again
 I know one day I'll love again, again, again, again, again
-
-
-

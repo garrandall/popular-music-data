@@ -1,8 +1,11 @@
 ---
+album: Hannah Montana The Movie
 artists:
 - Miley Cyrus
+external_ids:
+  spotify: spotify:track:0V8FYVlBFuXXTIvRnMbZyS
 features: []
-genres: []
+first_released_as_single: false
 key: the-climb-miley-cyrus
 lyrics_url: https://genius.com/Miley-cyrus-the-climb-lyrics
 name: The Climb
@@ -119,6 +122,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '2009-09-26'
+release_year: 2009
+runtime: 236066
 ---
 I can almost see it
 That dream I'm dreaming, but

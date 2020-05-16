@@ -1,9 +1,12 @@
 ---
+album: Rainbow Funk
 artists:
 - Jr. Walker
 - The All Stars
+external_ids:
+  spotify: spotify:track:2SFH3yc7xD8rnXJgK30LoT
 features: []
-genres: []
+first_released_as_single: false
 key: take-me-girl-i-m-ready-jr--walker-the-all-stars
 lyrics_url: https://genius.com/Jr-walker-and-the-all-stars-take-me-girl-im-ready-lyrics
 name: Take Me Girl I'm Ready
@@ -44,6 +47,8 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1971-10-02'
+release_year: 1971
+runtime: 241106
 ---
 Take me
 Take me, girl, I'm ready

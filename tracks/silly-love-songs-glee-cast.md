@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music presents The Warblers'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:3aahH1sW41ubo1PZeQCviE
 features: []
-genres: []
+first_released_as_single: false
 key: silly-love-songs-glee-cast
 lyrics_url: https://www.azlyrics.com/lyrics/gleecast/sillylovesongs.html
 name: Silly Love Songs
@@ -11,8 +14,9 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '2011-02-26'
+release_year: 2011
+runtime: 230160
 ---
-
 You'd think that people would have had enough of silly love songs.
 But I look around me and I see it isn't so.
 Some people wanna fill the world with silly love songs.
@@ -47,6 +51,3 @@ I love you
 I can't explain the feeling's plain to me, so can't you see?
 Ah, she gave me more, she gave it all to me, now can't you see?
 I can't explain the feeling's plain to me.
-
-
-

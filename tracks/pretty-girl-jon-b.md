@@ -1,8 +1,11 @@
 ---
+album: Bonafide
 artists:
 - Jon B
+external_ids:
+  spotify: spotify:track:15CWHmExq00wqaOeQX7uiB
 features: []
-genres: []
+first_released_as_single: false
 key: pretty-girl-jon-b
 lyrics_url: https://www.azlyrics.com/lyrics/jonb/prettygirl.html
 name: Pretty Girl
@@ -87,8 +90,9 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '1996-01-13'
+release_year: 1995
+runtime: 258106
 ---
-
 Your lips, your smile, your tenderness, oh baby
 The way you walk, I can't resist your style
 When I sleep at night, I dream of you, oh baby
@@ -146,6 +150,3 @@ Hey pretty mama
 Can I sleep with you tonight?
 Hey, pretty girl when you come to my room tonight
 I'll make you come through the night
-
-
-

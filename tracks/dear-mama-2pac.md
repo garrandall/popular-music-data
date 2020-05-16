@@ -1,8 +1,11 @@
 ---
+album: Me Against The World
 artists:
 - 2Pac
+external_ids:
+  spotify: spotify:track:6tDxrq4FxEL2q15y37tXT9
 features: []
-genres: []
+first_released_as_single: false
 key: dear-mama-2pac
 lyrics_url: https://genius.com/2pac-dear-mama-lyrics
 name: Dear Mama
@@ -87,6 +90,8 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '1995-07-22'
+release_year: 1995
+runtime: 280000
 ---
 You are appreciated
 When I was young, me and my mama had beef

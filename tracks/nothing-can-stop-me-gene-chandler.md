@@ -1,8 +1,11 @@
 ---
+album: The Girl Don't Care
 artists:
 - Gene Chandler
+external_ids:
+  spotify: spotify:track:0mxy6YARXpTKvT9PujvyBa
 features: []
-genres: []
+first_released_as_single: false
 key: nothing-can-stop-me-gene-chandler
 lyrics_url: https://genius.com/Gene-chandler-nothing-can-stop-me-lyrics
 name: Nothing Can Stop Me
@@ -55,6 +58,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1965-07-03'
+release_year: 1965
+runtime: 179266
 ---
 Nothing can stop me
 So bad, do I feel inside

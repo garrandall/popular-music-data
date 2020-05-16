@@ -1,8 +1,11 @@
 ---
+album: The Definitive Pye Collection
 artists:
 - The Searchers
+external_ids:
+  spotify: spotify:track:56wC1CkuduM7nWYdDRYzCp
 features: []
-genres: []
+first_released_as_single: false
 key: have-you-ever-loved-somebody-the-searchers
 lyrics_url: https://www.azlyrics.com/lyrics/searchers/haveyoueverlovedsomebody.html
 name: Have You Ever Loved Somebody
@@ -19,8 +22,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1966-12-10'
+release_year: 1966
+runtime: 160373
 ---
-
 You say that you want me and now that you've got me you're gone
 So think what you're doin' or else you'll regret what you've done
 Don't come back tomorrow and say what we did wasn't right
@@ -60,6 +64,3 @@ Have you ever loved somebody
 Don't you know just what it's like
 Hurting someone that you're close to
 Have you ever loved all night, all night
-
-
-

@@ -1,9 +1,12 @@
 ---
+album: Stripped
 artists:
 - Christina Aguilera
+external_ids:
+  spotify: spotify:track:59ZTxQo8rBycIXPLUIKvE2
 features:
 - Redman
-genres: []
+first_released_as_single: false
 key: dirrty-christina-aguilera-redman
 lyrics_url: https://www.azlyrics.com/lyrics/christinaaguilera/dirrty.html
 name: Dirrty
@@ -88,9 +91,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2003-02-01'
+release_year: 2002
+runtime: 298853
 ---
-
-
 Ah, dirrty (dirrty)
 Filthy (filthy)
 Nasty (Christina), you nasty (yeah)
@@ -242,6 +245,3 @@ Wanna get dirrty
 It's about time for my arrival
 
 Uh, what
-
-
-

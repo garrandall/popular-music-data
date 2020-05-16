@@ -1,8 +1,11 @@
 ---
+album: Teenage Dream
 artists:
 - Katy Perry
+external_ids:
+  spotify: spotify:track:4r6eNCsrZnQWJzzvFh4nlg
 features: []
-genres: []
+first_released_as_single: false
 key: firework-katy-perry
 lyrics_url: https://www.azlyrics.com/lyrics/katyperry/firework.html
 name: Firework
@@ -163,8 +166,9 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '2011-07-30'
+release_year: 2010
+runtime: 227893
 ---
-
 Do you ever feel like a plastic bag
 Drifting through the wind, wanting to start again?
 Do you ever feel, feel so paper-thin
@@ -230,6 +234,3 @@ Boom, boom, boom
 Even brighter than the moon, moon, moon
 Boom, boom, boom
 Even brighter than the moon, moon, moon
-
-
-

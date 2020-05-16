@@ -1,8 +1,11 @@
 ---
+album: Floy Joy
 artists:
 - The Supremes
+external_ids:
+  spotify: spotify:track:4pZNhT4b0Kgh8goVuzATQX
 features: []
-genres: []
+first_released_as_single: false
 key: floy-joy-the-supremes
 lyrics_url: https://www.azlyrics.com/lyrics/supremes/floyjoy.html
 name: Floy Joy
@@ -55,8 +58,9 @@ rankings:
   rank: 28
   ranking_list: Billboard Hot 100
   start_date: '1972-03-25'
+release_year: 1972
+runtime: 170106
 ---
-
 Floy, Floy, Floy
 Floy Joy!
 Floy, Floy, Floy
@@ -127,6 +131,3 @@ Say it again.
 
 Floy, Floy, Floy
 Floy Joy!
-
-
-

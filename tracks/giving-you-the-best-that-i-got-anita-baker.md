@@ -1,8 +1,11 @@
 ---
+album: Romantic 80's
 artists:
 - Anita Baker
+external_ids:
+  spotify: spotify:track:5Qxd50grOVVHgoEWqHeCor
 features: []
-genres: []
+first_released_as_single: false
 key: giving-you-the-best-that-i-got-anita-baker
 lyrics_url: https://genius.com/Anita-baker-giving-you-the-best-that-i-got-lyrics
 name: Giving You The Best That I Got
@@ -95,6 +98,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1989-02-18'
+release_year: 1988
+runtime: 260506
 ---
 Ain't there something I can give you?
 In exchange for everything you give to me

@@ -1,8 +1,11 @@
 ---
+album: Love Over Gold
 artists:
 - Dire Straits
+external_ids:
+  spotify: spotify:track:1laOaJ0vcBx3cjUhH50mW7
 features: []
-genres: []
+first_released_as_single: false
 key: industrial-disease-dire-straits
 lyrics_url: https://www.azlyrics.com/lyrics/direstraits/industrialdisease.html
 name: Industrial Disease
@@ -23,8 +26,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1983-01-29'
+release_year: 1982
+runtime: 350373
 ---
-
 Warning lights are flashing down at quality control.
 Somebody threw a spanner, they threw him in the hole.
 There's rumors in the loading bay and anger in the town.
@@ -95,6 +99,3 @@ The other one's on a hunger strike, he's dying by degrees
 How come Jesus gets industrial disease?
 
 Above got sick.
-
-
-

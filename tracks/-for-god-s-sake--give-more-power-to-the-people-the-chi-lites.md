@@ -1,8 +1,11 @@
 ---
+album: Back to Back
 artists:
 - The Chi-lites
+external_ids:
+  spotify: spotify:track:2KiHyIQeBysAuz3YP0Yk3x
 features: []
-genres: []
+first_released_as_single: false
 key: -for-god-s-sake--give-more-power-to-the-people-the-chi-lites
 lyrics_url: https://www.azlyrics.com/lyrics/chilites/forgodssakegivemorepowertothepeople.html
 name: (For God's Sake) Give More Power To The People
@@ -51,8 +54,9 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '1971-06-19'
+release_year: 1971
+runtime: 227426
 ---
-
 For God's sake, you got to give more power to the people
 
 There's some people up there hoggin' everything
@@ -95,6 +99,3 @@ For God's sake, why don't you give more power to the people?
 
 For God's sake, you got to give more power to the people
 For God's sake, why don't you give more power to the people?
-
-
-

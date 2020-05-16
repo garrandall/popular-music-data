@@ -1,8 +1,11 @@
 ---
+album: We Can't Dance
 artists:
 - Genesis
+external_ids:
+  spotify: spotify:track:0YN4BbP8czMk6QiL62qnWT
 features: []
-genres: []
+first_released_as_single: false
 key: jesus-he-knows-me-genesis
 lyrics_url: https://genius.com/Genesis-jesus-he-knows-me-lyrics
 name: Jesus He Knows Me
@@ -87,6 +90,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1992-12-12'
+release_year: 1991
+runtime: 256480
 ---
 D'you see the face on the TV screen
 Coming at you every Sunday?

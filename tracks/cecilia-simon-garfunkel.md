@@ -1,8 +1,11 @@
 ---
+album: Bridge Over Troubled Water
 artists:
 - Simon & Garfunkel
+external_ids:
+  spotify: spotify:track:6QhXQOpyYvbpdbyjgAqKdY
 features: []
-genres: []
+first_released_as_single: false
 key: cecilia-simon-garfunkel
 lyrics_url: https://www.azlyrics.com/lyrics/simongarfunkel/cecilia.html
 name: Cecilia
@@ -59,6 +62,8 @@ rankings:
   rank: 35
   ranking_list: Billboard Hot 100
   start_date: '1970-07-04'
+release_year: 1970
+runtime: 174826
 ---
 Celia, you're breaking my heart
 You're shaking my confidence daily

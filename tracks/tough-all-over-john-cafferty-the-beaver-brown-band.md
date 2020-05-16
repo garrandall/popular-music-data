@@ -1,9 +1,12 @@
 ---
+album: Tough All Over
 artists:
 - John Cafferty
 - The Beaver Brown Band
+external_ids:
+  spotify: spotify:track:5u9hEzSlbzmZpwopPn1j9G
 features: []
-genres: []
+first_released_as_single: false
 key: tough-all-over-john-cafferty-the-beaver-brown-band
 lyrics_url: https://www.azlyrics.com/lyrics/johncaffertythebeaverbrownband/toughallover.html
 name: Tough All Over
@@ -68,8 +71,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1985-08-17'
+release_year: 1985
+runtime: 277533
 ---
-
 Well, she's waiting for the bus
 Down on the boulevard
 Pretty little working girl
@@ -118,6 +122,3 @@ Things are tough all over
 Things are tough all over
 Things are tough all over
 Things are tough all over...
-
-
-

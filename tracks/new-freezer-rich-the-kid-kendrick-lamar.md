@@ -1,12 +1,15 @@
 ---
+album: The World Is Yours
 artists:
 - Rich The Kid
+external_ids:
+  spotify: spotify:track:2rBVdExTcyI5ONdnSvNFZS
 features:
 - Kendrick Lamar
-genres: []
+first_released_as_single: false
 key: new-freezer-rich-the-kid-kendrick-lamar
-name: New Freezer
 lyrics_url: https://genius.com/Rich-the-kid-new-freezer-lyrics
+name: New Freezer
 rankings:
 - end_date: '2018-02-16'
   rank: 75
@@ -84,6 +87,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2018-06-16'
+release_year: 2017
+runtime: 192729
 ---
 Ayy, new freezer (New freezer, New freezer)
 You know what it was when you signed up, ayy

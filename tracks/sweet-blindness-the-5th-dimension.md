@@ -1,8 +1,11 @@
 ---
+album: Stoned Soul Picnic
 artists:
 - The 5th Dimension
+external_ids:
+  spotify: spotify:track:6l7eJ98iTfO3hOxXKphHzY
 features: []
-genres: []
+first_released_as_single: false
 key: sweet-blindness-the-5th-dimension
 lyrics_url: https://www.azlyrics.com/lyrics/5thdimension/sweetblindness.html
 name: Sweet Blindness
@@ -47,8 +50,9 @@ rankings:
   rank: 33
   ranking_list: Billboard Hot 100
   start_date: '1968-11-30'
+release_year: 1968
+runtime: 204106
 ---
-
 Let's go down by the grapevine
 Drink my daddy's wine, get happy
 Down by the grapevine
@@ -116,6 +120,3 @@ Blindness good to me
 Blindness, sweet eyed blindness
 Now ain't that sweet eyed
 Blindness good to me
-
-
-

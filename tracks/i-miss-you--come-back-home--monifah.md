@@ -1,8 +1,11 @@
 ---
+album: Moods...Moments
 artists:
 - Monifah
+external_ids:
+  spotify: spotify:track:6nXzKd8oA6N1qgG1vMZUKe
 features: []
-genres: []
+first_released_as_single: false
 key: i-miss-you--come-back-home--monifah
 lyrics_url: https://genius.com/Monifah-i-miss-you-come-back-home-lyrics
 name: I Miss You (Come Back Home)
@@ -87,6 +90,8 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1996-03-09'
+release_year: 1995
+runtime: 233866
 ---
 Yeah, another Soul on Soul Production
 Yeah, I stay soaked in foreign colognes

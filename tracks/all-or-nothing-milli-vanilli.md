@@ -1,8 +1,11 @@
 ---
+album: All Or Nothing
 artists:
 - Milli Vanilli
+external_ids:
+  spotify: spotify:track:7sS1P9f8SDyl03hqC1etWU
 features: []
-genres: []
+first_released_as_single: false
 key: all-or-nothing-milli-vanilli
 lyrics_url: https://www.azlyrics.com/lyrics/millivanilli/allornothing.html
 name: All Or Nothing
@@ -63,8 +66,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1990-04-07'
+release_year: 1988
+runtime: 200600
 ---
-
 The game of love is to live it up
 And baby not too high.
 Don't you know, if you wanna get down with Mister P
@@ -107,6 +111,3 @@ All or nothing, push, it's got to be.
 Something's gotta show when you're lyin' under me.
 Oh, oh, nothin' girl, let it be.
 Take it from the pro, who's rockin' to the beat.
-
-
-

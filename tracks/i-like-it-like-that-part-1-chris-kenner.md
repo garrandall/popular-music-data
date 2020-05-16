@@ -1,8 +1,11 @@
 ---
+album: Land Of 1,000 Dances (US Internet Release)
 artists:
 - Chris Kenner
+external_ids:
+  spotify: spotify:track:3L1hW52J69eKF9xYP5N0Te
 features: []
-genres: []
+first_released_as_single: false
 key: i-like-it-like-that-part-1-chris-kenner
 lyrics_url: https://www.musixmatch.com/lyrics/Chris-Kenner/I-Like-It-Like-That-Part-1
 name: I Like It Like That Part 1
@@ -75,6 +78,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1961-09-18'
+release_year: 1961
+runtime: 120200
 ---
 Liz Phair
 Miscellaneous

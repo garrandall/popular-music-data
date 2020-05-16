@@ -1,8 +1,11 @@
 ---
+album: You And You Alone
 artists:
 - Randy Travis
+external_ids:
+  spotify: spotify:track:5a5ZZd5TwKUvp2KnTEtu5a
 features: []
-genres: []
+first_released_as_single: false
 key: out-of-my-bones-randy-travis
 lyrics_url: https://www.azlyrics.com/lyrics/randytravis/outofmybones.html
 name: Out Of My Bones
@@ -47,8 +50,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1998-06-27'
+release_year: 1998
+runtime: 164773
 ---
-
 I'm in need of a remedy
 To cure me from loving you
 It may sound a little extreme
@@ -80,6 +84,3 @@ Keep walkin' till my temperature drops
 Keep walkin' until the fever is gone
 And you're out of my bones
 You're out of my bones
-
-
-

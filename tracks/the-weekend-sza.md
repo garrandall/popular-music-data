@@ -1,8 +1,11 @@
 ---
+album: Ctrl
 artists:
 - SZA
+external_ids:
+  spotify: spotify:track:6gU9OKjOE7ghfEd55oRO57
 features: []
-genres: []
+first_released_as_single: false
 key: the-weekend-sza
 lyrics_url: https://www.azlyrics.com/lyrics/sza/theweekend.html
 name: The Weekend
@@ -107,8 +110,9 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '2018-01-27'
+release_year: 2017
+runtime: 272186
 ---
-
 You say you got a girl
 And now you want me
 How you want me when you got a girl?
@@ -172,6 +176,3 @@ We got bright ideas
 Ayyy
 Bright ideas
 We got bright ideas
-
-
-

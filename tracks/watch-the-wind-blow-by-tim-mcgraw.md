@@ -1,8 +1,11 @@
 ---
+album: Tim McGraw And The Dancehall Doctors
 artists:
 - Tim McGraw
+external_ids:
+  spotify: spotify:track:6Os7cO6a6UeglnpIKidRjh
 features: []
-genres: []
+first_released_as_single: false
 key: watch-the-wind-blow-by-tim-mcgraw
 lyrics_url: https://www.azlyrics.com/lyrics/timmcgraw/watchthewindblowby.html
 name: Watch The Wind Blow By
@@ -87,8 +90,9 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '2004-04-24'
+release_year: 2002
+runtime: 276400
 ---
-
 Creek goes rippling by
 I've been barefoot and all day with my baby
 Brown leaves have started falling
@@ -124,6 +128,3 @@ Like the clear blue sky
 Slowly, there's only
 You and I
 And all I want to do is watch the wind blow by
-
-
-

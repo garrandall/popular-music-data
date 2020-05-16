@@ -1,9 +1,12 @@
 ---
+album: My Turn
 artists:
 - Lil Baby
 - 42 Dugg
+external_ids:
+  spotify: spotify:track:01JMnRUs2YOK6DDpdQASGY
 features: []
-genres: []
+first_released_as_single: false
 key: grace-lil-baby-42-dugg
 lyrics_url: https://www.azlyrics.com/lyrics/lilbaby/grace.html
 name: Grace
@@ -16,9 +19,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2020-03-21'
+release_year: 2020
+runtime: 203438
 ---
-
-
 Got a lotta new flames need 'em blue
 Three hundred fifty thou', times that by two
 New down the roof, I still the sky
@@ -123,6 +126,3 @@ Ran up my check, when I walk in the bank
 They greet me at the door by my government name
 I made a promise, I'm never gon' change
 Rolls Royce umbrella, I'm hopin' it rain, yeah
-
-
-

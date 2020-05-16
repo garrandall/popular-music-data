@@ -1,8 +1,11 @@
 ---
+album: Save the Last Dance for Me
 artists:
 - The Drifters
+external_ids:
+  spotify: spotify:track:1xCIvW1ogDyISmIIytJlp1
 features: []
-genres: []
+first_released_as_single: false
 key: save-the-last-dance-for-me-the-drifters
 lyrics_url: https://genius.com/The-drifters-save-the-last-dance-for-me-lyrics
 name: Save The Last Dance For Me
@@ -79,6 +82,8 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1961-01-02'
+release_year: 1960
+runtime: 149626
 ---
 You can dance
 Every dance with the guy

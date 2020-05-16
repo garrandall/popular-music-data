@@ -1,10 +1,13 @@
 ---
+album: The Source - Hip Hop Hits Vol. 6
 artists:
 - Scarface
+external_ids:
+  spotify: spotify:track:2nanYfO9NiitvEDu3YQsgS
 features:
 - Jay-Z
 - Beanie Sigel
-genres: []
+first_released_as_single: false
 key: guess-who-s-back-scarface-jay-z-beanie-sigel
 lyrics_url: https://www.azlyrics.com/lyrics/scarface/guesswhosback.html
 name: Guess Who's Back
@@ -41,9 +44,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2002-07-06'
+release_year: 2002
+runtime: 238733
 ---
-
-
 Talk to me man...
 This ya boy Young Hova, yo turn the muh'fuckin noise up
 We'll get right into the proceedings this evening
@@ -127,10 +130,3 @@ Till like deuce in the mornin, with the old heads
 Slangin loose quarters, this Philly cat back gatted (had it)
 Still fuckin with them crack addicts
 Still bustin with that black-matic
-
-
-
-
-
-
-

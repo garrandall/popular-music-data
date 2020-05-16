@@ -1,8 +1,11 @@
 ---
+album: Galveston
 artists:
 - Glen Campbell
+external_ids:
+  spotify: spotify:track:7ajiEBodFIeV5Ua9qVONnB
 features: []
-genres: []
+first_released_as_single: false
 key: where-s-the-playground-susie-glen-campbell
 lyrics_url: https://genius.com/Glen-campbell-wheres-the-playground-susie-lyrics
 name: Where's The Playground Susie
@@ -39,6 +42,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1969-06-21'
+release_year: 1969
+runtime: 176373
 ---
 The end has come
 And found us here

@@ -1,8 +1,11 @@
 ---
+album: Shape Of Things To Come
 artists:
 - Max Frost And The Troopers
+external_ids:
+  spotify: spotify:track:1oWLERlWcdoDA4zJAPCtyk
 features: []
-genres: []
+first_released_as_single: true
 key: shape-of-things-to-come-max-frost-and-the-troopers
 lyrics_url: https://genius.com/Max-frost-and-the-troopers-shape-of-things-to-come-lyrics
 name: Shape Of Things To Come
@@ -55,6 +58,8 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '1968-11-23'
+release_year: 1968
+runtime: 118053
 ---
 There's a new sun
 Risin' up angry in the sky

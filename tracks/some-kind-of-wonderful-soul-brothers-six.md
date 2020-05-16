@@ -1,8 +1,11 @@
 ---
+album: Summer of 69
 artists:
 - Soul Brothers Six
+external_ids:
+  spotify: spotify:track:2KVJYSOJ1t0CCs6Olq8p6x
 features: []
-genres: []
+first_released_as_single: false
 key: some-kind-of-wonderful-soul-brothers-six
 lyrics_url: https://genius.com/Soul-brothers-six-some-kind-of-wonderful-lyrics
 name: Some Kind Of Wonderful
@@ -11,6 +14,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1967-06-24'
+release_year: 1967
+runtime: 157666
 ---
 I don't need a whole lotsa money
 I don't need a big, fine car

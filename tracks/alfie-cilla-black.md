@@ -1,8 +1,11 @@
 ---
+album: Beginnings
 artists:
 - Cilla Black
+external_ids:
+  spotify: spotify:track:0Mb7A50jpzAURkmuEP06Rp
 features: []
-genres: []
+first_released_as_single: false
 key: alfie-cilla-black
 lyrics_url: https://genius.com/Cilla-black-alfie-lyrics
 name: Alfie
@@ -19,6 +22,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1966-09-10'
+release_year: 1966
+runtime: 159413
 ---
 What's it all about, Alfie?
 Is it just for the moment we live?

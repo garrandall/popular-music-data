@@ -1,8 +1,11 @@
 ---
+album: Undefeated
 artists:
 - Jason Derulo
+external_ids:
+  spotify: spotify:track:5jAgU2QzailYWu02FzkxsT
 features: []
-genres: []
+first_released_as_single: true
 key: undefeated-jason-derulo
 lyrics_url: https://genius.com/Jason-derulo-undefeated-lyrics
 name: Undefeated
@@ -11,6 +14,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2012-06-09'
+release_year: 2012
+runtime: 216280
 ---
 Oh, oh, oh, oh, oh, oh, oh
 Oh, oh, oh, oh, oh, oh, oh

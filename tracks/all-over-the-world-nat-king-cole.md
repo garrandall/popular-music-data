@@ -1,8 +1,11 @@
 ---
+album: Dear Lonely Hearts
 artists:
 - Nat King Cole
+external_ids:
+  spotify: spotify:track:0IIGck0Gbykh0ogz1MjGeC
 features: []
-genres: []
+first_released_as_single: false
 key: all-over-the-world-nat-king-cole
 lyrics_url: https://www.azlyrics.com/lyrics/natkingcole/allovertheworld.html
 name: All Over The World
@@ -43,8 +46,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1963-04-27'
+release_year: 1962
+runtime: 144773
 ---
-
 All over the world
 All over the world
 
@@ -91,6 +95,3 @@ Love was and love is
 And always will be
 All over the world
 All over the world
-
-
-

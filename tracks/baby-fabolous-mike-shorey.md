@@ -1,9 +1,12 @@
 ---
+album: Real Talk (Explicit U.S. Version)
 artists:
 - Fabolous
+external_ids:
+  spotify: spotify:track:4lNrlPtaAKIOZVAdnVpnzR
 features:
 - Mike Shorey
-genres: []
+first_released_as_single: false
 key: baby-fabolous-mike-shorey
 lyrics_url: https://www.azlyrics.com/lyrics/fabolous/baby.html
 name: Baby
@@ -44,9 +47,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2005-03-19'
+release_year: 2004
+runtime: 296173
 ---
-
-
 Fab
 Can you be my B-A-B-Y?
 
@@ -105,10 +108,3 @@ And still take a sting of Tequila, the way you swing is a thriller
 I'm watchin that like the boxing match in the ring of Manila
 I wanna keep it comin like the singles of "Thriller"
 I mean if you still uh...my B-A-B-Y
-
-
-
-
-
-
-

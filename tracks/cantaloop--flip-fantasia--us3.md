@@ -1,8 +1,11 @@
 ---
+album: Hand On The Torch
 artists:
 - US3
+external_ids:
+  spotify: spotify:track:2AnTuxahfcAS7dGxGZnihY
 features: []
-genres: []
+first_released_as_single: false
 key: cantaloop--flip-fantasia--us3
 lyrics_url: https://www.azlyrics.com/lyrics/us3/cantaloopflipfantasia.html
 name: Cantaloop (Flip Fantasia)
@@ -115,8 +118,9 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1994-05-28'
+release_year: 1993
+runtime: 279360
 ---
-
 Ladies and Gentlemen, as you know we have something special down here at Birdland this evening
 A recording for Blue Note Records
 
@@ -177,6 +181,3 @@ Get with the flow, words manifest
 Feel the vibe from here to Asia
 Dip trip, flip fantasia
 Out
-
-
-

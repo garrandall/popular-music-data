@@ -1,8 +1,11 @@
 ---
+album: Frampton
 artists:
 - Peter Frampton
+external_ids:
+  spotify: spotify:track:6BD1X1PeV5UzYUdiVaD2yL
 features: []
-genres: []
+first_released_as_single: false
 key: show-me-the-way-peter-frampton
 lyrics_url: https://www.azlyrics.com/lyrics/peterframpton/showmetheway.html
 name: Show Me The Way
@@ -79,8 +82,9 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '1976-06-19'
+release_year: 1975
+runtime: 243266
 ---
-
 I wonder how you're feeling
 There's ringing in my ears
 And no one to relate to 'cept the sea
@@ -121,6 +125,3 @@ I want you day after day, hey
 I want you to show me the way, every day
 I want you to show me the way, night and day
 I want you day after day
-
-
-

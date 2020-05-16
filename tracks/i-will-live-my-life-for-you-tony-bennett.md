@@ -1,8 +1,11 @@
 ---
+album: I Wanna Be Around
 artists:
 - Tony Bennett
+external_ids:
+  spotify: spotify:track:48Wr6FLDXMuJNUhyX9o5rR
 features: []
-genres: []
+first_released_as_single: false
 key: i-will-live-my-life-for-you-tony-bennett
 lyrics_url: https://www.musixmatch.com/lyrics/Tony-Bennett/I-Will-Live-My-Life-For-You
 name: I Will Live My Life For You
@@ -39,6 +42,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1963-03-09'
+release_year: 1963
+runtime: 146760
 ---
 I will live my life for you
 Just for you, only you

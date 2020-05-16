@@ -1,8 +1,11 @@
 ---
+album: Misty Blue
 artists:
 - Dorothy Moore
+external_ids:
+  spotify: spotify:track:4EmDfJApR28fMkhXZw6bKD
 features: []
-genres: []
+first_released_as_single: false
 key: funny-how-time-slips-away-dorothy-moore
 lyrics_url: https://genius.com/Dorothy-moore-funny-how-time-slips-away-lyrics
 name: Funny How Time Slips Away
@@ -51,6 +54,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1976-10-02'
+release_year: 1976
+runtime: 232240
 ---
 Well, hello there
 My it's been a long long time

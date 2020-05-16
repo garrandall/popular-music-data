@@ -1,9 +1,12 @@
 ---
+album: Wax Museum
 artists:
 - Jay
 - The Americans
+external_ids:
+  spotify: spotify:track:6NXo5Vd0H0CFyPlCUhFPsN
 features: []
-genres: []
+first_released_as_single: false
 key: walkin--in-the-rain-jay-the-americans
 lyrics_url: https://www.azlyrics.com/lyrics/jaytheamericans/walkinintherain.html
 name: Walkin' In The Rain
@@ -68,8 +71,9 @@ rankings:
   rank: 32
   ranking_list: Billboard Hot 100
   start_date: '1970-02-28'
+release_year: 1964
+runtime: 167293
 ---
-
 I want her, I need her
 And someday, some way... I'll meet her
 She'll be kinda shy
@@ -101,6 +105,3 @@ Walkin' in the rain
 And wishin' on the stars
 Or bein' so in love
 Walkin' in the rain
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Little River Band
 artists:
 - Little River Band
+external_ids:
+  spotify: spotify:track:7vMS7xSaSUwpirgzD346Q6
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-a-long-way-there-little-river-band
 lyrics_url: https://www.azlyrics.com/lyrics/littleriverband/itsalongwaythere.html
 name: It's A Long Way There
@@ -71,8 +74,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1977-01-01'
+release_year: 1975
+runtime: 524533
 ---
-
 Hey, everybody, yeah, don't you feel that there's something
 
 People on their own are getting nowhere
@@ -125,6 +129,3 @@ It's such a long long way, long way
 Hey, everybody, yeah, don't you feel that there's something
 Feel it, feel it
 Hey, everybody, yeah, don't you feel that there's something
-
-
-

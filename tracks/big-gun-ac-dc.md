@@ -1,8 +1,11 @@
 ---
+album: Backtracks
 artists:
 - AC/DC
+external_ids:
+  spotify: spotify:track:7zjzu90Q4mtNNaE9Ol9Zbv
 features: []
-genres: []
+first_released_as_single: false
 key: big-gun-ac-dc
 lyrics_url: https://www.azlyrics.com/lyrics/acdc/biggun.html
 name: Big Gun
@@ -51,8 +54,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1993-09-11'
+release_year: 1993
+runtime: 259413
 ---
-
 Riot on the radio
 Pictures on the TV
 Invader man take what he can
@@ -109,6 +113,3 @@ Terminator, Uzi makers
 Regulators, gonna get you later
 
 Big gun kick the hell out of you
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Echoes of Time
 artists:
 - Gallery
+external_ids:
+  spotify: spotify:track:6u4PJEjpfXx6iqLqrNjCsn
 features: []
-genres: []
+first_released_as_single: false
 key: i-believe-in-music-gallery
 lyrics_url: https://genius.com/Gallery-i-believe-in-music-lyrics
 name: I Believe In Music
@@ -71,6 +74,8 @@ rankings:
   rank: 35
   ranking_list: Billboard Hot 100
   start_date: '1972-11-25'
+release_year: 1972
+runtime: 170266
 ---
 I could just sit around
 Making music all day long

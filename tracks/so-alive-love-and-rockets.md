@@ -1,8 +1,11 @@
 ---
+album: Love And Rockets
 artists:
 - Love And Rockets
+external_ids:
+  spotify: spotify:track:5BMH89lz5tHLR1kQOBNXdM
 features: []
-genres: []
+first_released_as_single: false
 key: so-alive-love-and-rockets
 lyrics_url: https://genius.com/Love-and-rockets-so-alive-lyrics
 name: So Alive
@@ -87,6 +90,8 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1989-09-30'
+release_year: 1989
+runtime: 256226
 ---
 I don't know what color your eyes are, baby
 But your hair is long and brown

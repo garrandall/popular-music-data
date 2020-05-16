@@ -1,8 +1,11 @@
 ---
+album: Live Peace in Toronto 1969
 artists:
 - Plastic Ono Band
+external_ids:
+  spotify: spotify:track:1xJeOGRdXp2yPCeTBPgIOp
 features: []
-genres: []
+first_released_as_single: false
 key: cold-turkey-plastic-ono-band
 lyrics_url: https://genius.com/Plastic-ono-band-cold-turkey-lyrics
 name: Cold Turkey
@@ -55,6 +58,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1970-01-31'
+release_year: 1969
+runtime: 214400
 ---
 (John Lennon)
 Temperature's rising

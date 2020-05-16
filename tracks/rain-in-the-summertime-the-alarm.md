@@ -1,8 +1,11 @@
 ---
+album: Eye of the Hurricane
 artists:
 - The Alarm
+external_ids:
+  spotify: spotify:track:6PiAmx478XYbJKZoCDCjrb
 features: []
-genres: []
+first_released_as_single: false
 key: rain-in-the-summertime-the-alarm
 lyrics_url: https://genius.com/The-alarm-rain-in-the-summertime-lyrics
 name: Rain In The Summertime
@@ -39,6 +42,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1988-02-06'
+release_year: 1987
+runtime: 314840
 ---
 Under the anvil of the sun
 Sweat, like a train

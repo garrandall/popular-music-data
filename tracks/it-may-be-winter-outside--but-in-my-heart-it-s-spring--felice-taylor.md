@@ -1,8 +1,11 @@
 ---
+album: 'Deep Cuts: 50s & 60s Rarities'
 artists:
 - Felice Taylor
+external_ids:
+  spotify: spotify:track:0xTkZjpIAGYvK1gvUmvIMT
 features: []
-genres: []
+first_released_as_single: false
 key: it-may-be-winter-outside--but-in-my-heart-it-s-spring--felice-taylor
 lyrics_url: https://www.musixmatch.com/lyrics/Felice-Taylor/It-May-Be-Winter-Outside
 name: It May Be Winter Outside (But In My Heart It's Spring)
@@ -31,6 +34,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1967-02-18'
+release_year: 1967
+runtime: 171533
 ---
 When the temperature dips, I'm in my baby's arms
 His tender fingertips know just how to keep me warm

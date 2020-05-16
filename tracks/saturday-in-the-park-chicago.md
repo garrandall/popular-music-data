@@ -1,8 +1,11 @@
 ---
+album: Chicago V
 artists:
 - Chicago
+external_ids:
+  spotify: spotify:track:4OJFkrRQqol4FsPesF8eu4
 features: []
-genres: []
+first_released_as_single: false
 key: saturday-in-the-park-chicago
 lyrics_url: https://www.azlyrics.com/lyrics/chicago/saturdayinthepark.html
 name: Saturday In The Park
@@ -55,8 +58,9 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '1972-10-21'
+release_year: 1972
+runtime: 235666
 ---
-
 Saturday in the park
 I think it was the Fourth of July
 Saturday in the park
@@ -98,6 +102,3 @@ Can you dig it (yes, I can)
 And I've been waiting such a long time
 For the day
 Yeah, yeah, yeah
-
-
-

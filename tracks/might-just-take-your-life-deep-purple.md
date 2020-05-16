@@ -1,8 +1,11 @@
 ---
+album: Burn
 artists:
 - Deep Purple
+external_ids:
+  spotify: spotify:track:1MJD989fIavFGxWJlnAbdO
 features: []
-genres: []
+first_released_as_single: false
 key: might-just-take-your-life-deep-purple
 lyrics_url: https://www.musixmatch.com/lyrics/Deep-Purple/Might-Just-Take-Your-Life
 name: Might Just Take Your Life
@@ -23,6 +26,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1974-04-13'
+release_year: 1974
+runtime: 280333
 ---
 I got more than I asked for
 There ain't nothin' I need

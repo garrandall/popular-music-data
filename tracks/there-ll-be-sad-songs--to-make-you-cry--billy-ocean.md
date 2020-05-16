@@ -1,8 +1,11 @@
 ---
+album: Love Zone
 artists:
 - Billy Ocean
+external_ids:
+  spotify: spotify:track:1mP8BJQBRZWjSQLVmxQEyG
 features: []
-genres: []
+first_released_as_single: false
 key: there-ll-be-sad-songs--to-make-you-cry--billy-ocean
 lyrics_url: https://genius.com/Billy-ocean-therell-be-sad-songs-lyrics
 name: There'll Be Sad Songs (To Make You Cry)
@@ -91,6 +94,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1986-09-06'
+release_year: 1986
+runtime: 292680
 ---
 There'll be sad songs to make you cry
 Billy Ocean

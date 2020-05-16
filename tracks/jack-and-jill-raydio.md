@@ -1,8 +1,11 @@
 ---
+album: Raydio
 artists:
 - Raydio
+external_ids:
+  spotify: spotify:track:5KDT5BDSmomPMe2AXuGInR
 features: []
-genres: []
+first_released_as_single: false
 key: jack-and-jill-raydio
 lyrics_url: https://genius.com/Raydio-jack-and-jill-lyrics
 name: Jack And Jill
@@ -91,6 +94,8 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '1978-06-03'
+release_year: 1978
+runtime: 275666
 ---
 Jack, wanting someone to feel
 Sat up on the hill and

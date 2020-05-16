@@ -1,8 +1,11 @@
 ---
+album: Greatest Songs for Guilty Pleasures
 artists:
 - Paul Lekakis
+external_ids:
+  spotify: spotify:track:6QypjtLLKmIyLZqnOli07s
 features: []
-genres: []
+first_released_as_single: true
 key: boom-boom--let-s-go-back-to-my-room--paul-lekakis
 lyrics_url: https://genius.com/Paul-lekakis-boom-boom-boom-lyrics
 name: Boom Boom (Let's Go Back To My Room)
@@ -59,6 +62,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1987-05-30'
+release_year: 1982
+runtime: 416426
 ---
 Hey baby I'd like to talk to you
 How about coming back to my room for a little boom boom

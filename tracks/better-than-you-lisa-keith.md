@@ -1,8 +1,11 @@
 ---
+album: Walkin' In The Sun
 artists:
 - Lisa Keith
+external_ids:
+  spotify: spotify:track:1qDOcORGMV1sThFhunLwjF
 features: []
-genres: []
+first_released_as_single: false
 key: better-than-you-lisa-keith
 lyrics_url: https://genius.com/Lisa-keith-better-than-you-lyrics
 name: Better Than You
@@ -87,6 +90,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1994-01-01'
+release_year: 1993
+runtime: 253666
 ---
 Mmm
 Hey, baby

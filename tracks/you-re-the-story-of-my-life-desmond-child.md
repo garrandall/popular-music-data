@@ -1,8 +1,11 @@
 ---
+album: Discipline
 artists:
 - Desmond Child
+external_ids:
+  spotify: spotify:track:5srPNy3C5r0mW13xt26msH
 features: []
-genres: []
+first_released_as_single: false
 key: you-re-the-story-of-my-life-desmond-child
 lyrics_url: https://genius.com/Desmond-child-youre-the-story-of-my-life-lyrics
 name: You're The Story Of My Life
@@ -31,6 +34,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1991-11-09'
+release_year: 1991
+runtime: 298293
 ---
 When I turn back all the pages
 Of my life through all the stages

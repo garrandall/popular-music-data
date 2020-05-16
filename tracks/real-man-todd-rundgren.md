@@ -1,8 +1,11 @@
 ---
+album: Initiation
 artists:
 - Todd Rundgren
+external_ids:
+  spotify: spotify:track:6krkmn1vbPDfQyjVBlfl3A
 features: []
-genres: []
+first_released_as_single: false
 key: real-man-todd-rundgren
 lyrics_url: https://www.azlyrics.com/lyrics/toddrundgren/realman.html
 name: Real Man
@@ -19,8 +22,9 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1975-05-10'
+release_year: 1975
+runtime: 265266
 ---
-
 When I was a child
 I thought as a child
 I spoke as a child
@@ -76,6 +80,3 @@ Don't take no crap from no one
 Be a real man
 Get your trip together
 Be a real man
-
-
-

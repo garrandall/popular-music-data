@@ -1,8 +1,11 @@
 ---
+album: After The Storm
 artists:
 - Monica
+external_ids:
+  spotify: spotify:track:6Ln2tBK4EnNtMLtYyAZhr7
 features: []
-genres: []
+first_released_as_single: false
 key: knock-knock-monica
 lyrics_url: https://genius.com/Monica-knock-knock-lyrics
 name: Knock Knock
@@ -79,6 +82,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2004-01-24'
+release_year: 2003
+runtime: 257653
 ---
 It's funny how the tables turn, turn, turn, turn
 

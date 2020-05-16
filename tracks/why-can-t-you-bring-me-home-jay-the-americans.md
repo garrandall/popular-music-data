@@ -1,9 +1,12 @@
 ---
+album: Sunday And Me
 artists:
 - Jay
 - The Americans
+external_ids:
+  spotify: spotify:track:0YpzbiqE1OG5kzVgP3Nkln
 features: []
-genres: []
+first_released_as_single: false
 key: why-can-t-you-bring-me-home-jay-the-americans
 lyrics_url: https://genius.com/Jay-and-the-americans-why-cant-you-bring-me-home-lyrics
 name: Why Can't You Bring Me Home
@@ -32,6 +35,8 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '1966-03-26'
+release_year: 1964
+runtime: 183800
 ---
 Why do we always meet on the edge of town?
 Why do we have to wait till the sun goes down?

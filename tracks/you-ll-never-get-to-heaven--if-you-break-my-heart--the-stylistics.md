@@ -1,8 +1,11 @@
 ---
+album: Round 2
 artists:
 - The Stylistics
+external_ids:
+  spotify: spotify:track:3fWHz62K9YNPrPJrShvTHK
 features: []
-genres: []
+first_released_as_single: false
 key: you-ll-never-get-to-heaven--if-you-break-my-heart--the-stylistics
 lyrics_url: https://genius.com/The-stylistics-youll-never-get-to-heaven-if-you-break-my-heart-lyrics
 name: You'll Never Get To Heaven (If You Break My Heart)
@@ -47,6 +50,8 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '1973-07-21'
+release_year: 1972
+runtime: 214053
 ---
 Mother told me always to follow the golden rule
 And she said it's really a sin to be mean and cruel

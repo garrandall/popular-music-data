@@ -1,8 +1,11 @@
 ---
+album: Soul Kiss
 artists:
 - Olivia Newton-John
+external_ids:
+  spotify: spotify:track:7GIRz8qmlb2H9aB3r6oslV
 features: []
-genres: []
+first_released_as_single: false
 key: soul-kiss-olivia-newton-john
 lyrics_url: https://genius.com/Olivia-newton-john-soul-kiss-lyrics
 name: Soul Kiss
@@ -67,6 +70,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1986-01-11'
+release_year: 1985
+runtime: 270866
 ---
 Soul kiss
 You left me dreaming

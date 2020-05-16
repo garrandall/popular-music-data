@@ -1,9 +1,12 @@
 ---
+album: Wish Upon A Star
 artists:
 - Dion
 - The Belmonts
+external_ids:
+  spotify: spotify:track:0gi8Gz1ginH6PjHOVyo5BT
 features: []
-genres: []
+first_released_as_single: false
 key: when-you-wish-upon-a-star-dion-the-belmonts
 lyrics_url: https://genius.com/Dion-and-the-belmonts-when-you-wish-upon-a-star-lyrics
 name: When You Wish Upon A Star
@@ -44,6 +47,8 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '1960-06-20'
+release_year: 1960
+runtime: 148626
 ---
 When a star is born
 They possess a gift or two

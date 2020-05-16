@@ -1,8 +1,11 @@
 ---
+album: II
 artists:
 - Boyz II Men
+external_ids:
+  spotify: spotify:track:61sQYdFNS6sEBYCyr1q5gn
 features: []
-genres: []
+first_released_as_single: false
 key: i-ll-make-love-to-you-boyz-ii-men
 lyrics_url: https://genius.com/Boyz-ii-men-ill-make-love-to-you-lyrics
 name: I'll Make Love To You
@@ -139,6 +142,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1995-03-25'
+release_year: 1994
+runtime: 236773
 ---
 Close your eyes, make a wish
 And blow out the candlelight

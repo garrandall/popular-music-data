@@ -1,8 +1,11 @@
 ---
+album: Leon Live
 artists:
 - Leon Russell
+external_ids:
+  spotify: spotify:track:79AKIr77yeKqfZ0POBj78i
 features: []
-genres: []
+first_released_as_single: false
 key: queen-of-the-roller-derby-leon-russell
 lyrics_url: https://www.azlyrics.com/lyrics/leonrussell/queenoftherollerderby.html
 name: Queen Of The Roller Derby
@@ -15,8 +18,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1973-09-22'
+release_year: 1973
+runtime: 113160
 ---
-
 I'm up in Oakland on a Saturday night
 Lord, I said I just didn't feel right
 Goodnight ladies all around
@@ -70,6 +74,3 @@ O queen of the roller derby
 The queen of the roller derby
 (Queen of the roller derby)
 Oh
-
-
-

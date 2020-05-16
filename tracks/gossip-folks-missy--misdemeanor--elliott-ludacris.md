@@ -1,9 +1,12 @@
 ---
+album: Under Construction
 artists:
 - Missy Elliott
+external_ids:
+  spotify: spotify:track:75DjPjiIp2fvJDjtt41Jfs
 features:
 - Ludacris
-genres: []
+first_released_as_single: false
 key: gossip-folks-missy--misdemeanor--elliott-ludacris
 lyrics_url: https://www.azlyrics.com/lyrics/missymisdemeanorelliott/gossipfolks.html
 name: Gossip Folks
@@ -88,9 +91,9 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '2003-05-10'
+release_year: 2002
+runtime: 234893
 ---
-
-
 Yo, yo yo move out of the way
 We got missy Elliott coming through
 Girl that is missy Elliott she lost a lot of weight
@@ -193,7 +196,7 @@ I know I know, I don't even care about her being preganant by Michael Jackson
 You know what we should do
 We should go get her album when it come out
 There she go, there she go, there she
-Hiiiii Misssy
+Hi Misssy
 
 
 Hi Missy?
@@ -206,6 +209,3 @@ Yo take those baby GAP shirts off, too
 You just mad cuz Payless ran out of plastic pumps for the after party
 Yo by the way, go get my album
 Damn!
-
-
-

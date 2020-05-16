@@ -1,8 +1,11 @@
 ---
+album: Contact
 artists:
 - The Pointer Sisters
+external_ids:
+  spotify: spotify:track:2MDpHXWHrf9sJ9MezHougc
 features: []
-genres: []
+first_released_as_single: false
 key: twist-my-arm-the-pointer-sisters
 lyrics_url: https://www.azlyrics.com/lyrics/pointersisters/twistmyarm.html
 name: Twist My Arm
@@ -27,8 +30,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1986-03-29'
+release_year: 1985
+runtime: 265013
 ---
-
 Oooo-oo- twist my arm
 Oooo-oo- twist my arm
 I'll give you something
@@ -63,6 +67,3 @@ Don't save it for someone else
 Don't slip it to me on the sly
 Just tell me what you want
 Don't have to tell me why
-
-
-

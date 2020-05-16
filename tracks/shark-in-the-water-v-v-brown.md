@@ -1,8 +1,11 @@
 ---
+album: Travelling Like The Light
 artists:
 - V V Brown
+external_ids:
+  spotify: spotify:track:0BLPuaA32HDg6AJTUT4WMl
 features: []
-genres: []
+first_released_as_single: false
 key: shark-in-the-water-v-v-brown
 lyrics_url: https://genius.com/V-v-brown-shark-in-the-water-lyrics
 name: Shark In The Water
@@ -31,6 +34,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '2010-07-24'
+release_year: 2009
+runtime: 184293
 ---
 Sometimes I get my head in a dilly
 Feeling so lost, ticking you off

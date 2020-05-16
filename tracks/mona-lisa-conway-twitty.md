@@ -1,8 +1,11 @@
 ---
+album: Conway Twitty Sings
 artists:
 - Conway Twitty
+external_ids:
+  spotify: spotify:track:4rRYH6T09mTJtVcEiRt1Ua
 features: []
-genres: []
+first_released_as_single: false
 key: mona-lisa-conway-twitty
 lyrics_url: https://www.azlyrics.com/lyrics/conwaytwitty/monalisa.html
 name: Mona Lisa
@@ -55,8 +58,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1959-10-05'
+release_year: 1959
+runtime: 146893
 ---
-
 Well, Mona Lisa, Mona Lisa men have named you
 You're so like a lady with a mystic smile
 Is it only 'cause you're lonely they have named you
@@ -81,6 +85,3 @@ Or just a cold and lonely, lovely work of art
 
 Or just a cold and lonely, lovely work of art
 Or just a cold and lonely, lovely work of art...
-
-
-

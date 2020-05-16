@@ -1,8 +1,11 @@
 ---
+album: Drunk, Busted, Disgusted and Can't Be Trusted
 artists:
 - Ray Charles
+external_ids:
+  spotify: spotify:track:3YSviAGEU8lslBKSNkc2Z3
 features: []
-genres: []
+first_released_as_single: false
 key: busted-ray-charles-and-his-orchestra
 lyrics_url: https://genius.com/Ray-charles-busted-lyrics
 name: Busted
@@ -55,6 +58,8 @@ rankings:
   rank: 32
   ranking_list: Billboard Hot 100
   start_date: '1963-11-23'
+release_year: 1963
+runtime: 379533
 ---
 Yeah, my bills are all due and the baby needs shoes but I'm busted
 Cotton is down, quarter a pound but I'm busted, oh yeah

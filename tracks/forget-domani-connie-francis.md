@@ -1,8 +1,11 @@
 ---
+album: Gold
 artists:
 - Connie Francis
+external_ids:
+  spotify: spotify:track:4ErkRZoMu2sErWBHNyWxNR
 features: []
-genres: []
+first_released_as_single: false
 key: forget-domani-connie-francis
 lyrics_url: https://www.azlyrics.com/lyrics/conniefrancis/forgetdomani.html
 name: Forget Domani
@@ -35,8 +38,9 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1965-08-07'
+release_year: 1965
+runtime: 160880
 ---
-
 Oh, let's forget about Domani
 Let's forget about Domani
 Let's forget about Domani
@@ -92,6 +96,3 @@ Yeah, let's forget about Domani
 Let's forget about Domani
 Let's forget about Domani
 For Domani never comes
-
-
-

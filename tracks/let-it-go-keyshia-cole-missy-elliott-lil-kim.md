@@ -1,10 +1,13 @@
 ---
+album: Just Like You
 artists:
 - Keyshia Cole
+external_ids:
+  spotify: spotify:track:2RqZFOLOnzVmHUX7ZMcaES
 features:
 - Missy Elliott
 - Lil Kim
-genres: []
+first_released_as_single: false
 key: let-it-go-keyshia-cole-missy-elliott-lil-kim
 lyrics_url: https://www.azlyrics.com/lyrics/keyshiacole/letitgo.html
 name: Let It Go
@@ -101,8 +104,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2007-12-08'
+release_year: 2007
+runtime: 238333
 ---
-
 You need to get if he don't wanna
 Love you the right way he ain't gonna
 It ain't where he's at its where he
@@ -263,6 +267,3 @@ Damn that's hot
 Me Kim and Keyshia don't stop
 Till the tick don't tock like
 Damn that's hot
-
-
-

@@ -1,9 +1,12 @@
 ---
+album: Tusa
 artists:
 - Karol G
 - Nicki Minaj
+external_ids:
+  spotify: spotify:track:7k4t7uLgtOxPwTpFmtJNTY
 features: []
-genres: []
+first_released_as_single: true
 key: tusa-karol-g-nicki-minaj
 lyrics_url: https://genius.com/Karol-g-and-nicki-minaj-tusa-lyrics
 name: Tusa
@@ -68,6 +71,8 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '2020-03-21'
+release_year: 2019
+runtime: 200960
 ---
 ¿Qué pasa contigo? Dímelo
 Rrr!

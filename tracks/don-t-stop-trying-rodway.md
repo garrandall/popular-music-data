@@ -1,8 +1,11 @@
 ---
+album: Horizontal Hold
 artists:
 - Rodway
+external_ids:
+  spotify: spotify:track:1xgBRWH2oPzUN53PLiEUGP
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-stop-trying-rodway
 lyrics_url: https://genius.com/Rodway-dont-stop-trying-lyrics
 name: Don't Stop Trying
@@ -27,6 +30,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1983-01-08'
+release_year: 1982
+runtime: 279431
 ---
 Well I don't know if it’s right or if it's wrong, but I don't care about it anyway
 I 've been wondering if you're chasing all the rainbows that I'm making but I'm not sure

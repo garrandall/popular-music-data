@@ -1,8 +1,11 @@
 ---
+album: Bobby Vee's Golden Greats (Vol. 2)
 artists:
 - Bobby Vee
+external_ids:
+  spotify: spotify:track:50bub2xSIii5mka5owOPHH
 features: []
-genres: []
+first_released_as_single: false
 key: cross-my-heart-bobby-vee
 lyrics_url: https://www.musixmatch.com/lyrics/Bobby-Vee/Cross-My-Heart
 name: Cross My Heart
@@ -11,6 +14,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1965-02-06'
+release_year: 1965
+runtime: 134826
 ---
 There's no one for me but you
 Believe me (believe me)

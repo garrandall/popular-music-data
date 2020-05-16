@@ -1,8 +1,11 @@
 ---
+album: Where I Should Be
 artists:
 - Peter Frampton
+external_ids:
+  spotify: spotify:track:7xupDJPT98LQ80rz4QObqZ
 features: []
-genres: []
+first_released_as_single: false
 key: i-can-t-stand-it-no-more-peter-frampton
 lyrics_url: https://genius.com/Peter-frampton-i-cant-stand-it-no-more-lyrics
 name: I Can't Stand It No More
@@ -59,6 +62,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1979-08-18'
+release_year: 1979
+runtime: 252346
 ---
 When you wake up and she's next to you
 You can't stand what she's putting you through

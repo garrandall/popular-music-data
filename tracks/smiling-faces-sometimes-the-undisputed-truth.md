@@ -1,8 +1,11 @@
 ---
+album: The Undisputed Truth
 artists:
 - The Undisputed Truth
+external_ids:
+  spotify: spotify:track:5Vdg4tP25ffeGEC5GGmCwm
 features: []
-genres: []
+first_released_as_single: false
 key: smiling-faces-sometimes-the-undisputed-truth
 lyrics_url: https://genius.com/The-undisputed-truth-smiling-faces-sometimes-lyrics
 name: Smiling Faces Sometimes
@@ -79,6 +82,8 @@ rankings:
   rank: 30
   ranking_list: Billboard Hot 100
   start_date: '1971-10-23'
+release_year: 1971
+runtime: 198546
 ---
 Smiling faces sometimes
 Pretend to be your friend

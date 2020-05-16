@@ -1,8 +1,11 @@
 ---
+album: The Thin Red Line
 artists:
 - Glass Tiger
+external_ids:
+  spotify: spotify:track:5WK0KIZmq3H0FpQ6O4Wkrz
 features: []
-genres: []
+first_released_as_single: false
 key: someday-glass-tiger
 lyrics_url: https://www.azlyrics.com/lyrics/glasstiger/someday.html
 name: Someday
@@ -91,8 +94,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1987-03-21'
+release_year: 1986
+runtime: 217693
 ---
-
 When I come home you telephone
 To say you're waiting for me
 I ask you why - I hear you cry
@@ -125,6 +129,3 @@ Someday I'll be losing this fear
 Someday you'll be shedding your tears
 And then you'll cry over me (cry over me)
 Someday I'll be losing this fear
-
-
-

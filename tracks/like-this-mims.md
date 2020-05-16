@@ -1,8 +1,11 @@
 ---
+album: Music Is My Savior
 artists:
 - Mims
+external_ids:
+  spotify: spotify:track:2Z2JnZNB7lbUdKR5GynUlV
 features: []
-genres: []
+first_released_as_single: false
 key: like-this-mims
 lyrics_url: https://genius.com/Mims-like-this-lyrics
 name: Like This
@@ -87,6 +90,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2007-10-06'
+release_year: 2007
+runtime: 203626
 ---
 Uh, You know what it is what it is when we do what we do
 

@@ -1,8 +1,11 @@
 ---
+album: Surface Thrills
 artists:
 - The Temptations
+external_ids:
+  spotify: spotify:track:6hBTgdqH41QEnclGyB0yjy
 features: []
-genres: []
+first_released_as_single: false
 key: love-on-my-mind-tonight-the-temptations
 lyrics_url: https://www.azlyrics.com/lyrics/temptations/loveonmymindtonight.html
 name: Love On My Mind Tonight
@@ -19,8 +22,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1983-04-30'
+release_year: 1983
+runtime: 293906
 ---
-
 Disconnect the phone
 I can't wait to get you alone
 Put the music on
@@ -76,6 +80,3 @@ Girl, girl
 You know what to do
 You know what I want and you know what I need
 Oh, baby
-
-
-

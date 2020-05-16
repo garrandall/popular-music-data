@@ -1,9 +1,12 @@
 ---
+album: Chicken - N - Beer
 artists:
 - Ludacris
+external_ids:
+  spotify: spotify:track:2CtCwQhY0ZLvr8L2l8Bo6e
 features:
 - Shawnna
-genres: []
+first_released_as_single: false
 key: stand-up-ludacris-shawnna
 lyrics_url: https://genius.com/Ludacris-stand-up-remix-lyrics
 name: Stand Up
@@ -120,6 +123,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '2004-03-13'
+release_year: 2003
+runtime: 213760
 ---
 + (Ludacris) + (*Shawnna*)
 Now, blaze that!

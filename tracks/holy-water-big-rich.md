@@ -1,9 +1,12 @@
 ---
+album: Horse Of A Different Color
 artists:
 - Big
 - Rich
+external_ids:
+  spotify: spotify:track:4qCGe8cM5ycEKcPJdRyk3m
 features: []
-genres: []
+first_released_as_single: false
 key: holy-water-big-rich
 lyrics_url: https://www.azlyrics.com/lyrics/bigrich/holywater.html
 name: Holy Water
@@ -36,8 +39,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2005-02-12'
+release_year: 2004
+runtime: 256813
 ---
-
 Somewhere there's a stolen halo
 I use to watch her wear it well
 Everything would shine wherever she would go
@@ -81,6 +85,3 @@ then take me farther
 Surround me now
 And hold, hold, hold me like holy water
 Holy water
-
-
-

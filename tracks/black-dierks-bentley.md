@@ -1,8 +1,11 @@
 ---
+album: Black
 artists:
 - Dierks Bentley
+external_ids:
+  spotify: spotify:track:2lFtnEmkIPm2ClN55e2chV
 features: []
-genres: []
+first_released_as_single: false
 key: black-dierks-bentley
 lyrics_url: https://www.azlyrics.com/lyrics/dierksbentley/black.html
 name: Black
@@ -83,8 +86,9 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2017-07-01'
+release_year: 2016
+runtime: 211160
 ---
-
 The moon, outside, too bright
 Those blinds, yeah, lets just keep them closed
 You know, my hands they know where to go, to find your fingertips
@@ -122,6 +126,3 @@ I don't wanna see a thing
 I just wanna feel your touch, feel your rush
 
 Black, black...
-
-
-

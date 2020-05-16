@@ -1,8 +1,11 @@
 ---
+album: Duran Duran
 artists:
 - Duran Duran
+external_ids:
+  spotify: spotify:track:0lJK5ZmN9K4IaEi6QHj5W8
 features: []
-genres: []
+first_released_as_single: false
 key: is-there-something-i-should-know-duran-duran
 lyrics_url: https://www.azlyrics.com/lyrics/duranduran/istheresomethingishouldknow.html
 name: Is There Something I Should Know
@@ -75,8 +78,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1983-09-24'
+release_year: 1981
+runtime: 249666
 ---
-
 Please please tell me now, please please tell me now
 Please please tell me now, please please tell me now
 
@@ -112,6 +116,3 @@ Everytime (please please tell me now) it passes by
 Please please tell me now what it (please please tell me now) takes to make it show
 Is there (please please tell me now) something I should know
 Is there (please please tell me now) something I should know
-
-
-

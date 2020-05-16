@@ -1,8 +1,11 @@
 ---
+album: Live At The Cellar Door and at the Santa Monica Civic Auditorium
 artists:
 - Richie Havens
+external_ids:
+  spotify: spotify:track:0hhzJEusz6r7f0eL1Uc8kw
 features: []
-genres: []
+first_released_as_single: false
 key: here-comes-the-sun-richie-havens
 lyrics_url: https://www.azlyrics.com/lyrics/richiehavens/herecomesthesun.html
 name: Here Comes The Sun
@@ -63,8 +66,9 @@ rankings:
   rank: 26
   ranking_list: Billboard Hot 100
   start_date: '1971-06-19'
+release_year: 1971
+runtime: 254000
 ---
-
 Here comes the sun, here comes the sun
 And I say it's alright
 
@@ -89,6 +93,3 @@ Little darling, it seems like years since it's been clear
 Here comes the sun, here comes the sun
 And I say it's alright
 It's alright
-
-
-

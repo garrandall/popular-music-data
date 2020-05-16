@@ -1,8 +1,11 @@
 ---
+album: Hold On! (Music From The Original Soundtrack)
 artists:
 - Herman's Hermits
+external_ids:
+  spotify: spotify:track:7uKDfmHRbClpHxqo3Va3Kr
 features: []
-genres: []
+first_released_as_single: false
 key: leaning-on-the-lamp-post-herman-s-hermits
 lyrics_url: https://www.azlyrics.com/lyrics/hermanshermits/leaningonthelamppost.html
 name: Leaning On The Lamp Post
@@ -39,8 +42,9 @@ rankings:
   rank: 30
   ranking_list: Billboard Hot 100
   start_date: '1966-05-28'
+release_year: 1966
+runtime: 151880
 ---
-
 I'm leaning on the lamp
 Maybe you think I look a tramp
 Or maybe you think I'm 'round to steal a car
@@ -87,6 +91,3 @@ She's fabulous, she's beautiful
 And anyone can understand why
 I'm leaning on the lamp post at the corner of the street
 In case a certain little lady comes by
-
-
-

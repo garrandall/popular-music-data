@@ -1,8 +1,11 @@
 ---
+album: Full Moon
 artists:
 - Brandy
+external_ids:
+  spotify: spotify:track:0pLmfgIANOX9FB9uZDU43x
 features: []
-genres: []
+first_released_as_single: false
 key: full-moon-brandy
 lyrics_url: https://genius.com/Brandy-full-moon-lyrics
 name: Full Moon
@@ -87,6 +90,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2002-09-21'
+release_year: 2002
+runtime: 248933
 ---
 Boy, I saw you soon as you came bouncin' through the door
 You, and your mans, and them just took over the floor

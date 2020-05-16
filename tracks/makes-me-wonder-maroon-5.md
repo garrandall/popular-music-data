@@ -1,8 +1,11 @@
 ---
+album: It Won't Be Soon Before Long.
 artists:
 - Maroon 5
+external_ids:
+  spotify: spotify:track:1lHXlGlve5Zx8tXLhyjDwM
 features: []
-genres: []
+first_released_as_single: false
 key: makes-me-wonder-maroon-5
 lyrics_url: https://www.azlyrics.com/lyrics/maroon5/makesmewonder.html
 name: Makes Me Wonder
@@ -111,8 +114,9 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '2007-10-13'
+release_year: 2007
+runtime: 211080
 ---
-
 I wake up with blood-shot eyes
 Struggled to memorize
 The way it felt between your thighs
@@ -194,6 +198,3 @@ So, this is goodbye
 Oh no
 Yeah
 So, this is goodbye
-
-
-

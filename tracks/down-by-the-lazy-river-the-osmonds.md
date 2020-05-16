@@ -1,8 +1,11 @@
 ---
+album: Phase III
 artists:
 - The Osmonds
+external_ids:
+  spotify: spotify:track:49ZAeWd40u4py51DpjEY8p
 features: []
-genres: []
+first_released_as_single: false
 key: down-by-the-lazy-river-the-osmonds
 lyrics_url: https://genius.com/The-osmonds-down-by-the-lazy-river-lyrics
 name: Down By The Lazy River
@@ -63,6 +66,8 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1972-04-22'
+release_year: 1971
+runtime: 163093
 ---
 What are you doing tonight
 You got no place to go

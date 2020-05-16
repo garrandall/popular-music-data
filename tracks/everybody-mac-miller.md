@@ -1,8 +1,11 @@
 ---
+album: Circles
 artists:
 - Mac Miller
+external_ids:
+  spotify: spotify:track:1OuN92HcVG6NVpWbeESNB3
 features: []
-genres: []
+first_released_as_single: false
 key: everybody-mac-miller
 lyrics_url: https://genius.com/Mac-miller-everybody-lyrics
 name: Everybody
@@ -11,6 +14,8 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '2020-02-01'
+release_year: 2020
+runtime: 256506
 ---
 Everybody's gotta live
 And everybody's gonna die

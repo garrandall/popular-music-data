@@ -1,8 +1,11 @@
 ---
+album: Stone Gon'
 artists:
 - Barry White
+external_ids:
+  spotify: spotify:track:3tky3v47OmGrk5NGazSuOC
 features: []
-genres: []
+first_released_as_single: false
 key: honey-please-can-t-ya-see-barry-white
 lyrics_url: https://genius.com/Barry-white-honey-please-cant-ya-see-lyrics
 name: Honey Please Can't Ya See
@@ -35,6 +38,8 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '1974-04-06'
+release_year: 1973
+runtime: 315533
 ---
 Whoo
 Somebody loves me too

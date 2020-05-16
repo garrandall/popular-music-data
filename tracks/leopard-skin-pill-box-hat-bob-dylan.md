@@ -1,8 +1,11 @@
 ---
+album: Blonde On Blonde
 artists:
 - Bob Dylan
+external_ids:
+  spotify: spotify:track:4B32FzK2cJQnMaLu8PRESi
 features: []
-genres: []
+first_released_as_single: false
 key: leopard-skin-pill-box-hat-bob-dylan
 lyrics_url: https://www.azlyrics.com/lyrics/bobdylan/leopardskinpillboxhat.html
 name: Leopard-Skin Pill-Box Hat
@@ -23,8 +26,9 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1967-06-10'
+release_year: 1965
+runtime: 206066
 ---
-
 Well, I see you got your brand new leopard-skin pill-box hat
 Yes, I see you got your brand new leopard-skin pill-box hat
 Well, you must tell me, baby
@@ -66,6 +70,3 @@ You forgot to close the garage door
 You might think he loves you for your money
 But I know what he really loves you for
 It's your brand new leopard-skin pill-box hat.
-
-
-

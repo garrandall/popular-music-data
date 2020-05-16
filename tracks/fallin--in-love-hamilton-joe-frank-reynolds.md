@@ -1,10 +1,13 @@
 ---
+album: Echoes of Time
 artists:
 - Hamilton
 - Joe Frank
 - Reynolds
+external_ids:
+  spotify: spotify:track:4Drp2p7EFSOpLI09NPfy6D
 features: []
-genres: []
+first_released_as_single: false
 key: fallin--in-love-hamilton-joe-frank-reynolds
 lyrics_url: https://www.azlyrics.com/lyrics/hamiltonjoefrankreynolds/fallininlove.html
 name: Fallin' In Love
@@ -77,8 +80,9 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1975-10-11'
+release_year: 1975
+runtime: 189600
 ---
-
 Baby, baby, fallin' in love
 I'm fallin' in love again
 Baby, baby, fallin' in love
@@ -127,6 +131,3 @@ I'm fallin' in love again
 Baby, baby, fallin' in love
 I'm fallin' in love again
 Baby, baby, fallin' in love
-
-
-

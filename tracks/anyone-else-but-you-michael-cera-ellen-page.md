@@ -1,9 +1,12 @@
 ---
+album: 'Fox Searchlight Pictures: 20th Anniversary Album'
 artists:
 - Michael Cera
 - Ellen Page
+external_ids:
+  spotify: spotify:track:60nfOJJ1xFVVAO1qCpngX6
 features: []
-genres: []
+first_released_as_single: false
 key: anyone-else-but-you-michael-cera-ellen-page
 lyrics_url: https://www.musixmatch.com/lyrics/Michael-Cera-feat-Ellen-Page/Anyone-Else-but-You
 name: Anyone Else But You
@@ -16,6 +19,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2008-02-02'
+release_year: 2008
+runtime: 116706
 ---
 You're part time lover
 And a full time friend

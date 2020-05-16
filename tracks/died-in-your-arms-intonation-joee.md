@@ -1,9 +1,12 @@
 ---
+album: Feel It in the Air
 artists:
 - Intonation
+external_ids:
+  spotify: spotify:track:0AAMVuVqJnW4PVZqf5Fza8
 features:
 - Joee
-genres: []
+first_released_as_single: true
 key: died-in-your-arms-intonation-joee
 lyrics_url: https://www.musixmatch.com/lyrics/Intonation-Joee/Died-in-Your-Arms
 name: Died In Your Arms
@@ -36,6 +39,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1995-08-19'
+release_year: 1995
+runtime: 280160
 ---
 Oh i, I just died in your arms tonight
 It must have been something you said

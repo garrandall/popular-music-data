@@ -1,8 +1,11 @@
 ---
+album: Blackstar
 artists:
 - David Bowie
+external_ids:
+  spotify: spotify:track:0Y0pFPV5Y9OCxY5ZkcAE31
 features: []
-genres: []
+first_released_as_single: true
 key: blackstar-david-bowie
 lyrics_url: https://www.azlyrics.com/lyrics/davidbowie/blackstar.html
 name: Blackstar
@@ -11,8 +14,9 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '2016-01-30'
+release_year: 2015
+runtime: 597933
 ---
-
 In the villa of Ormen, in the villa of Ormen
 Stands a solitary candle, ah-ah, ah-ah
 In the centre of it all, in the centre of it all
@@ -76,6 +80,3 @@ On the day of execution, only women kneel and smile
 Ah-ah, ah-ah
 At the centre of it all, your eyes
 (Your eyes, ah-ah-ah)
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Bang!
 artists:
 - Corey Hart
+external_ids:
+  spotify: spotify:track:4j0K28CVlfX0Oi4znRZUGM
 features: []
-genres: []
+first_released_as_single: false
 key: a-little-love-corey-hart
 lyrics_url: https://www.azlyrics.com/lyrics/coreyhart/alittlelove.html
 name: A Little Love
@@ -51,8 +54,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1990-05-26'
+release_year: 1990
+runtime: 249466
 ---
-
 I bring you flowers
 In a tiny bottle of rain
 I bring out demons
@@ -93,6 +97,3 @@ Go bang-bang
 A little love sky-rocket the night
 A little love, a little love, a little love
 A little bit 'o love
-
-
-

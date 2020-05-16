@@ -1,9 +1,12 @@
 ---
+album: Loyal To The Game
 artists:
 - 2Pac
+external_ids:
+  spotify: spotify:track:2AOA0UAoRHcNQVrFmzMX8G
 features:
 - Nate Dogg
-genres: []
+first_released_as_single: false
 key: thugs-get-lonely-too-2pac-nate-dogg
 lyrics_url: https://www.azlyrics.com/lyrics/2pac/thugsgetlonelytoo.html
 name: Thugs Get Lonely Too
@@ -24,9 +27,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2005-02-05'
+release_year: 2004
+runtime: 288080
 ---
-
-
 Hahahaha, man, you crazy
 
 See, it ain't easy bein' me
@@ -121,6 +124,3 @@ Thugs get lonely too
 We ain't gotta go through all this bullshitting ass problems
 If you wanna be real with me, be real with me
 If you wanna be fake, move on to the next one, that ain't me
-
-
-

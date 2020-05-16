@@ -1,8 +1,11 @@
 ---
+album: Today & Yesterday
 artists:
 - Perry Como
+external_ids:
+  spotify: spotify:track:6FrTgEIdsFY7arVjvIESQv
 features: []
-genres: []
+first_released_as_single: false
 key: i-think-of-you-perry-como
 lyrics_url: https://genius.com/Perry-como-i-think-of-you-lyrics
 name: I Think Of You
@@ -39,6 +42,8 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '1971-05-08'
+release_year: 1971
+runtime: 216200
 ---
 When I'm alone at night
 And there's no one to comfort me

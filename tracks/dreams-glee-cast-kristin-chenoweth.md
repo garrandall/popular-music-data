@@ -1,9 +1,12 @@
 ---
+album: 'Glee: The Music, Volume 6'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:0sTyPK3qbH0u7dFJsEHQYm
 features:
 - Kristin Chenoweth
-genres: []
+first_released_as_single: false
 key: dreams-glee-cast-kristin-chenoweth
 lyrics_url: https://www.azlyrics.com/lyrics/gleecast/dreams.html
 name: Dreams
@@ -12,8 +15,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2011-05-21'
+release_year: 2011
+runtime: 256320
 ---
-
 Now here you go again
 You say you want your freedom
 Well, who am I to keep you down?
@@ -62,6 +66,3 @@ When the rain washes you clean, you'll know
 You'll know
 You will know
 Oh, oh, oh you'll know
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Suburban Voodoo
 artists:
 - Paul Carrack
+external_ids:
+  spotify: spotify:track:0AwFhiNJjuiFoHDYKiTTWW
 features: []
-genres: []
+first_released_as_single: false
 key: i-need-you-paul-carrack
 lyrics_url: https://genius.com/Paul-carrack-i-need-you-lyrics
 name: I Need You
@@ -59,6 +62,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1982-11-27'
+release_year: 1982
+runtime: 170546
 ---
 Don't need a roller or a limousine
 I don't need my picture in a magazine

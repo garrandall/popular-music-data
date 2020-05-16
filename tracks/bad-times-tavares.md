@@ -1,8 +1,11 @@
 ---
+album: Supercharged
 artists:
 - Tavares
+external_ids:
+  spotify: spotify:track:4wzZkoEwIRmcbY47WptrkV
 features: []
-genres: []
+first_released_as_single: false
 key: bad-times-tavares
 lyrics_url: https://www.azlyrics.com/lyrics/tavares/badtimes.html
 name: Bad Times
@@ -47,8 +50,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1980-03-08'
+release_year: 1980
+runtime: 436506
 ---
-
 One step behind don't make you what you're worth
 Blue collar pride, breathing that salty earth
 Pay every price, can't keep that dollar bill
@@ -131,6 +135,3 @@ Let's talk about good times, good times
 Can you dig it?
 Let's talk about good times, good times
 Can you?
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: I'm Alright
 artists:
 - Jo Dee Messina
+external_ids:
+  spotify: spotify:track:2lZkIlYXN5SR0UWFgljDCd
 features: []
-genres: []
+first_released_as_single: false
 key: because-you-love-me-jo-dee-messina
 lyrics_url: https://www.azlyrics.com/lyrics/jodeemessina/becauseyouloveme.html
 name: Because You Love Me
@@ -59,8 +62,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2000-04-22'
+release_year: 1998
+runtime: 231280
 ---
-
 I don't know how I survived
 In this cold and empty world for all this time
 I only know that I'm alive
@@ -95,6 +99,3 @@ And every day I'll let it show
 Because you love me
 Because you love me
 Because you love me
-
-
-

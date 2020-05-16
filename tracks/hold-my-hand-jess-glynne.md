@@ -1,8 +1,11 @@
 ---
+album: I Cry When I Laugh
 artists:
 - Jess Glynne
+external_ids:
+  spotify: spotify:track:3iAD903jI8tHlM6Cn1zMax
 features: []
-genres: []
+first_released_as_single: false
 key: hold-my-hand-jess-glynne
 lyrics_url: https://www.azlyrics.com/lyrics/jessglynne/holdmyhand.html
 name: Hold My Hand
@@ -31,8 +34,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2015-11-28'
+release_year: 2015
+runtime: 227343
 ---
-
 Standing in a crowded room and I can't see your face
 Put your arms around me, tell me everything's OK
 In my mind, I'm running round a cold and empty space
@@ -65,4 +69,3 @@ When you're next to me
 Can tell I'm not afraid to be
 That you don't make me wait, and never let me break
 You never let me fall
-

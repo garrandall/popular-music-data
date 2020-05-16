@@ -1,8 +1,11 @@
 ---
+album: How Do You Like Me Now?!
 artists:
 - Toby Keith
+external_ids:
+  spotify: spotify:track:7nW2vquVZGj6dV1332Kpk9
 features: []
-genres: []
+first_released_as_single: false
 key: country-comes-to-town-toby-keith
 lyrics_url: https://www.azlyrics.com/lyrics/tobykeith/countrycomestotown.html
 name: Country Comes To Town
@@ -67,8 +70,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2000-11-11'
+release_year: 1999
+runtime: 219666
 ---
-
 Well the weatherman said it might storm today
 I gotta hit the field
 Gotta bail some hay
@@ -121,6 +125,3 @@ The weekend sits on my hillbilly world
 You better be ready when the sun goes down
 Cause that's when country comes to town
 Here I come
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Delilah
 artists:
 - Tom Jones
+external_ids:
+  spotify: spotify:track:2v8B8d17Xxu9uLU5sNiHSL
 features: []
-genres: []
+first_released_as_single: false
 key: delilah-tom-jones
 lyrics_url: https://genius.com/Tom-jones-delilah-lyrics
 name: Delilah
@@ -67,6 +70,8 @@ rankings:
   rank: 37
   ranking_list: Billboard Hot 100
   start_date: '1968-06-22'
+release_year: 1968
+runtime: 204160
 ---
 I saw the light on the night that I passed by her window
 I saw the flickering shadow of love on her blind

@@ -1,8 +1,11 @@
 ---
+album: 'Obsession: The Best Of Animotion'
 artists:
 - Animotion
+external_ids:
+  spotify: spotify:track:3ilYhdbWqY3mE1nlAhhOmh
 features: []
-genres: []
+first_released_as_single: false
 key: i-engineer-animotion
 lyrics_url: https://genius.com/Animotion-i-engineer-lyrics
 name: I Engineer
@@ -31,6 +34,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1986-04-12'
+release_year: 1986
+runtime: 255200
 ---
 Don't count on me, I engineer
 On every move we make from here

@@ -1,8 +1,11 @@
 ---
+album: The Original Soundtrack
 artists:
 - 10cc
+external_ids:
+  spotify: spotify:track:5HQEmiV2lKnSO6qa2fsR7x
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-not-in-love-10cc
 lyrics_url: https://genius.com/10cc-im-not-in-love-lyrics
 name: I'm Not In Love
@@ -75,6 +78,8 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '1975-09-06'
+release_year: 1975
+runtime: 366640
 ---
 I'm not in love
 So don't forget it

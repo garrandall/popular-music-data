@@ -1,8 +1,11 @@
 ---
+album: The Marshall Mathers LP
 artists:
 - Eminem
+external_ids:
+  spotify: spotify:track:4LNLlBSEnMw2H5L5JQt0YW
 features: []
-genres: []
+first_released_as_single: false
 key: the-real-slim-shady-eminem
 lyrics_url: https://genius.com/Eminem-the-real-slim-shady-lyrics
 name: The Real Slim Shady
@@ -83,6 +86,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2000-09-09'
+release_year: 2000
+runtime: 286200
 ---
 May I have your attention, please?
 May I have your attention, please?

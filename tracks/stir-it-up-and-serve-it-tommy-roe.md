@@ -1,8 +1,11 @@
 ---
+album: Best Of The Best
 artists:
 - Tommy Roe
+external_ids:
+  spotify: spotify:track:31BvKfbmo3L4BGtdnxL2cp
 features: []
-genres: []
+first_released_as_single: false
 key: stir-it-up-and-serve-it-tommy-roe
 lyrics_url: https://www.azlyrics.com/lyrics/tommyroe/stiritupandserveit.html
 name: Stir It Up And Serve It
@@ -31,8 +34,9 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '1970-04-04'
+release_year: 1970
+runtime: 153000
 ---
-
 Stir it up and serve it,
 Shake it all around,
 'Cause everybody's groovin'
@@ -71,6 +75,3 @@ So Stir up and serve it,
 You're looking so exiting,
 Stir it up and serve it,
 You make it so inviting...
-
-
-

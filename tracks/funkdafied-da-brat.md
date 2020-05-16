@@ -1,8 +1,11 @@
 ---
+album: Funkdafied
 artists:
 - Da Brat
+external_ids:
+  spotify: spotify:track:29VrHhpC5AS9b7XJYDPhqb
 features: []
-genres: []
+first_released_as_single: false
 key: funkdafied-da-brat
 lyrics_url: https://www.azlyrics.com/lyrics/dabrat/funkdafied.html
 name: Funkdafied
@@ -87,10 +90,9 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '1994-10-15'
+release_year: 1994
+runtime: 185933
 ---
-
-
-
 Hard times in the Funk
 
 
@@ -171,6 +173,3 @@ So, so, so funkdafied
 So, so, so funkadfied
 So, so, so funkadfied
 So, so, so funkdafied
-
-
-

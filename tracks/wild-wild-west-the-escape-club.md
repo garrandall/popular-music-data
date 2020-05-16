@@ -1,8 +1,11 @@
 ---
+album: Wild. Wild West
 artists:
 - The Escape Club
+external_ids:
+  spotify: spotify:track:3aYeGpHny2PVVDqbyvw7lM
 features: []
-genres: []
+first_released_as_single: false
 key: wild-wild-west-the-escape-club
 lyrics_url: https://www.azlyrics.com/lyrics/escapeclub/wildwildwest.html
 name: Wild Wild West
@@ -115,8 +118,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1989-02-18'
+release_year: 1988
+runtime: 342840
 ---
-
 Forty seven dead beats living in the back street
 North, east, west, south, all in the same house
 Sitting in a back room, waiting for the big boom
@@ -192,6 +196,3 @@ Living in the wild, wild west
 The wild, wild west
 The wild, wild west (wild west)
 Yeow, wild west
-
-
-

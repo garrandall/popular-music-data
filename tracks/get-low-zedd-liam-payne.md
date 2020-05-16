@@ -1,9 +1,12 @@
 ---
+album: LP1
 artists:
 - Zedd
 - Liam Payne
+external_ids:
+  spotify: spotify:track:2syQ0f4SAQdzvlAewPl1DJ
 features: []
-genres: []
+first_released_as_single: true
 key: get-low-zedd-liam-payne
 lyrics_url: https://www.azlyrics.com/lyrics/zedd/getlow.html
 name: Get Low
@@ -12,8 +15,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2017-07-29'
+release_year: 2017
+runtime: 204583
 ---
-
 Chained to a love
 But that don't mean much
 Sensitive tough, you don't get enough
@@ -102,6 +106,3 @@ Get low, get low
 Hands on your waist, let's go
 Get low, get low
 Girl, you got the vibe, I'm up for the climb
-
-
-

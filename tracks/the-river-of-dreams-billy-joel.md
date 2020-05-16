@@ -1,8 +1,11 @@
 ---
+album: River Of Dreams
 artists:
 - Billy Joel
+external_ids:
+  spotify: spotify:track:30qVCFYKBtAENjTIBA8FPZ
 features: []
-genres: []
+first_released_as_single: false
 key: the-river-of-dreams-billy-joel
 lyrics_url: https://www.azlyrics.com/lyrics/billyjoel/theriverofdreams.html
 name: The River Of Dreams
@@ -115,8 +118,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1994-01-29'
+release_year: 1993
+runtime: 247626
 ---
-
 In the middle of the night
 I go walking in my sleep
 From the mountains of faith
@@ -168,6 +172,3 @@ We all start in the streams
 We're all carried along
 By the river of dreams
 In the middle of the night
-
-
-

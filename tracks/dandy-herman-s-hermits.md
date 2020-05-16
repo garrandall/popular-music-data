@@ -1,8 +1,11 @@
 ---
+album: Herman's Hermits Retrospective
 artists:
 - Herman's Hermits
+external_ids:
+  spotify: spotify:track:6PaoF0aLOd9XVaD4NUS1Ta
 features: []
-genres: []
+first_released_as_single: false
 key: dandy-herman-s-hermits
 lyrics_url: https://www.azlyrics.com/lyrics/hermanshermits/dandy.html
 name: Dandy
@@ -51,8 +54,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1966-12-10'
+release_year: 1966
+runtime: 122226
 ---
-
 Dandy, Dandy
 Where you gonna go now?
 Who you gonna run to?
@@ -98,6 +102,3 @@ You're all right
 You're all right
 You're all right
 You're all right
-
-
-

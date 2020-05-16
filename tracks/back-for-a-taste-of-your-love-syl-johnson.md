@@ -1,8 +1,11 @@
 ---
+album: Back for a Taste of Your Love
 artists:
 - Syl Johnson
+external_ids:
+  spotify: spotify:track:3zYmerhhtOonCzF16UxmdL
 features: []
-genres: []
+first_released_as_single: false
 key: back-for-a-taste-of-your-love-syl-johnson
 lyrics_url: https://genius.com/Syl-johnson-back-for-a-taste-of-your-love-lyrics
 name: Back For A Taste Of Your Love
@@ -31,6 +34,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1973-12-01'
+release_year: 1973
+runtime: 153546
 ---
 Here I come
 I'm coming for a taste of your love

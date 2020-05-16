@@ -1,8 +1,11 @@
 ---
+album: Odelay
 artists:
 - Beck
+external_ids:
+  spotify: spotify:track:7mQertZHtd37UQ2uJs0Uct
 features: []
-genres: []
+first_released_as_single: false
 key: where-it-s-at-beck
 lyrics_url: https://genius.com/Beck-where-its-at-lyrics
 name: Where It's At
@@ -83,6 +86,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1996-11-02'
+release_year: 1996
+runtime: 329573
 ---
 There's a destination a little up the road
 From the habitations and the towns we know

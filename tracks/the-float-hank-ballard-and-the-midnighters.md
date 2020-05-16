@@ -1,8 +1,11 @@
 ---
+album: All 20 Of Their Chart Hits 1953-1962
 artists:
 - Hank Ballard And The Midnighters
+external_ids:
+  spotify: spotify:track:4utfRUC5RBaa9a1UcKJf6L
 features: []
-genres: []
+first_released_as_single: false
 key: the-float-hank-ballard-and-the-midnighters
 lyrics_url: https://genius.com/Hank-ballard-and-the-midnighters-the-float-lyrics
 name: The Float
@@ -11,6 +14,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1961-06-19'
+release_year: 1961
+runtime: 176480
 ---
 I'm a spaceman
 Sent from the moon

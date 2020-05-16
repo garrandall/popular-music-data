@@ -1,8 +1,11 @@
 ---
+album: Donna the Prima Donna
 artists:
 - Dion
+external_ids:
+  spotify: spotify:track:4ZoTdUgnsQTh2oBecgj9b9
 features: []
-genres: []
+first_released_as_single: false
 key: be-careful-of-stones-that-you-throw-dion
 lyrics_url: https://www.musixmatch.com/lyrics/Dion/Be-Careful-of-Stones-That-You-Throw
 name: Be Careful Of Stones That You Throw
@@ -35,6 +38,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1963-08-17'
+release_year: 1962
+runtime: 168133
 ---
 So be careful of stones that you throw
 

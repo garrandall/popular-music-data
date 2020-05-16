@@ -1,9 +1,12 @@
 ---
+album: The Main Ingredient
 artists:
 - Pete Rock
 - C.L. Smooth
+external_ids:
+  spotify: spotify:track:40AbVw7NEu78pgafTWKZxJ
 features: []
-genres: []
+first_released_as_single: false
 key: take-you-there-pete-rock-c-l--smooth
 lyrics_url: https://genius.com/Pete-rock-and-cl-smooth-take-you-there-lyrics
 name: Take You There
@@ -28,6 +31,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1995-03-04'
+release_year: 1994
+runtime: 284533
 ---
 Never judge a book by the cover
 Discover the soul brother with the Mecca don

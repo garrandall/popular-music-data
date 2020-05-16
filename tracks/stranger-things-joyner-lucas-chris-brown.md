@@ -1,9 +1,12 @@
 ---
+album: Stranger Things
 artists:
 - Joyner Lucas
 - Chris Brown
+external_ids:
+  spotify: spotify:track:34I0nBvoE0ZXmqbKiJ5BWS
 features: []
-genres: []
+first_released_as_single: true
 key: stranger-things-joyner-lucas-chris-brown
 lyrics_url: https://www.azlyrics.com/lyrics/joynerlucas/strangerthings.html
 name: Stranger Things
@@ -12,9 +15,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2018-03-17'
+release_year: 2018
+runtime: 219733
 ---
-
-
 Bottles and a bucket full of ice (yeah)
 Better make room, vroom hear the Lambo (celebrate)
 Bitch better believe that I'ma sniper (yeah)
@@ -130,6 +133,3 @@ I'ma lay in it, hit it, hit it one more time
 And then I'ma proceed and play with the pussy
 You know I don't keep my cape on a hoodie
 But I give a Uzi, it's a doozie, make a movie if you're actin', so (celebrate)
-
-
-

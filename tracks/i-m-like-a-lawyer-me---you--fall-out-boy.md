@@ -1,8 +1,11 @@
 ---
+album: Infinity On High
 artists:
 - Fall Out Boy
+external_ids:
+  spotify: spotify:track:6A9nyMBdNUzVcFHZUEZ71F
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-like-a-lawyer-me---you--fall-out-boy
 lyrics_url: https://genius.com/Fall-out-boy-im-like-a-lawyer-with-the-way-im-always-trying-to-get-you-off-me-and-you-lyrics
 name: I'm Like A Lawyer(Me & You)
@@ -31,6 +34,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2007-12-15'
+release_year: 2007
+runtime: 211720
 ---
 Last year's wishes are this year's apologies
 Every last time I come home

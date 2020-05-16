@@ -1,8 +1,11 @@
 ---
+album: Fuse
 artists:
 - Keith Urban
+external_ids:
+  spotify: spotify:track:1J8j3IeJz1HXoHF59LoP4h
 features: []
-genres: []
+first_released_as_single: false
 key: little-bit-of-everything-keith-urban
 lyrics_url: https://www.azlyrics.com/lyrics/keithurban/littlebitofeverything.html
 name: Little Bit Of Everything
@@ -87,8 +90,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2013-10-19'
+release_year: 2013
+runtime: 205706
 ---
-
 I wish I could take a cab down to the creek
 And hang a disco ball from an old oak tree
 Smoke and drink once in a while
@@ -149,6 +153,3 @@ Na na na na, na na na na
 I just want a little bit of everything
 Yeah yea yea
 Whoa, whoa, oh yeah
-
-
-

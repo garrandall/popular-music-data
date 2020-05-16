@@ -1,8 +1,11 @@
 ---
+album: The Manhattans (Expanded Version)
 artists:
 - The Manhattans
+external_ids:
+  spotify: spotify:track:60hFOdVeHebV9nuc4LuKz6
 features: []
-genres: []
+first_released_as_single: false
 key: kiss-and-say-goodbye-the-manhattans
 lyrics_url: https://www.azlyrics.com/lyrics/manhattans/kissandsaygoodbye.html
 name: Kiss And Say Goodbye
@@ -111,8 +114,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1976-10-09'
+release_year: 1973
+runtime: 267133
 ---
-
 This has got to be the saddest day of my life
 I called you here today for a bit of bad news
 I won't be able to see you anymore
@@ -163,6 +167,3 @@ Understand me, won't you try
 (I'm gonna miss you)
 Let's just kiss
 And say goodbye
-
-
-

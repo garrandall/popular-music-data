@@ -1,8 +1,11 @@
 ---
+album: Friction Baby
 artists:
 - Better Than Ezra
+external_ids:
+  spotify: spotify:track:7GuLQiPvQbfzP0kqcvgIQQ
 features: []
-genres: []
+first_released_as_single: false
 key: desperately-wanting-better-than-ezra
 lyrics_url: https://www.azlyrics.com/lyrics/betterthanezra/desperatelywanting.html
 name: Desperately Wanting
@@ -87,8 +90,9 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1997-05-03'
+release_year: 1996
+runtime: 277493
 ---
-
 Past the road to your house
 That you never called home
 Where they turned out your lights
@@ -129,6 +133,3 @@ I remember running through the wet grass
 and falling a step behind
 Both of us never tiring
 Desperately Wanting.
-
-
-

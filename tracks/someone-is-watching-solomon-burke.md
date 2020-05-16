@@ -1,8 +1,11 @@
 ---
+album: King Solomon
 artists:
 - Solomon Burke
+external_ids:
+  spotify: spotify:track:42zeoebTKrKz1Wiv8htC3d
 features: []
-genres: []
+first_released_as_single: false
 key: someone-is-watching-solomon-burke
 lyrics_url: https://genius.com/Solomon-burke-someone-is-watching-lyrics
 name: Someone Is Watching
@@ -23,6 +26,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1965-09-11'
+release_year: 1965
+runtime: 172666
 ---
 It may never be my pleasure
 To have you for my own

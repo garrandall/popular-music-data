@@ -1,8 +1,11 @@
 ---
+album: Body, Mind & Soul
 artists:
 - Debbie Gibson
+external_ids:
+  spotify: spotify:track:1lJbg8mTC0pnt2fyzdijS7
 features: []
-genres: []
+first_released_as_single: false
 key: losin--myself-debbie-gibson
 lyrics_url: https://www.azlyrics.com/lyrics/debbiegibson/losinmyself.html
 name: Losin' Myself
@@ -27,9 +30,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1993-03-06'
+release_year: 1993
+runtime: 317626
 ---
-
-
 Lost all reality, you've really got a hold
 Turned myself over to you body, mind and soul
 It might seem crazy and though I'm in over my head
@@ -62,6 +65,3 @@ You can do anything when it comes to me
 I won't hold back
 I wanna know no shame
 Take me away in the sky...
-
-
-

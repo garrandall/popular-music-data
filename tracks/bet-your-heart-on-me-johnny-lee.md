@@ -1,8 +1,11 @@
 ---
+album: Live at Billy Bob's Texas
 artists:
 - Johnny Lee
+external_ids:
+  spotify: spotify:track:6GAFwQksvNUUkiIoDVSl1e
 features: []
-genres: []
+first_released_as_single: false
 key: bet-your-heart-on-me-johnny-lee
 lyrics_url: https://www.azlyrics.com/lyrics/johnnylee/betyourheartonme.html
 name: Bet Your Heart On Me
@@ -43,8 +46,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1981-12-05'
+release_year: 1981
+runtime: 166866
 ---
-
 You took a chance on him
 He broke your heart and left you crying
 You lost your will to love again
@@ -92,6 +96,3 @@ You were just a beginner
 
 But don't be afraid 'cause you've got it made
 If you just let it be
-
-
-

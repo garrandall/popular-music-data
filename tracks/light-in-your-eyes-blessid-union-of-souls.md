@@ -1,8 +1,11 @@
 ---
+album: Blessid Union Of Souls
 artists:
 - Blessid Union Of Souls
+external_ids:
+  spotify: spotify:track:1yckLYhD232gkDZG86QhAn
 features: []
-genres: []
+first_released_as_single: false
 key: light-in-your-eyes-blessid-union-of-souls
 lyrics_url: https://www.azlyrics.com/lyrics/blessidunionofsouls/lightinyoureyes.html
 name: Light In Your Eyes
@@ -83,8 +86,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1998-06-20'
+release_year: 1997
+runtime: 256200
 ---
-
 I can't remember the last time that we kissed goodbye 
 All our "I love you's" were just not enough to survive 
 Something your eyes never told me 
@@ -125,6 +129,3 @@ And a pain in my heart where you used to be
 Guess I was wrong to assume that you were waiting here for me 
 There's a light in your eyes 
 Did you leave that light burning for me
-
-
-

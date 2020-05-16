@@ -1,8 +1,11 @@
 ---
+album: American Capitalist
 artists:
 - Five Finger Death Punch
+external_ids:
+  spotify: spotify:track:4QksBPOns9inxD6gaAo4Zc
 features: []
-genres: []
+first_released_as_single: false
 key: under-and-over-it-five-finger-death-punch
 lyrics_url: https://www.azlyrics.com/lyrics/fivefingerdeathpunch/underandoverit.html
 name: Under And Over It
@@ -11,8 +14,9 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '2011-08-20'
+release_year: 2007
+runtime: 218133
 ---
-
 Yeah, go!
 
 Did you hear the one about me being a punk?
@@ -56,6 +60,3 @@ I'm under and over it all.
 (I'm under and over it.)
 I, I, I'm under and over it.
 I, I, I'm under and over it.
-
-
-

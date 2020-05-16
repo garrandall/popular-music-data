@@ -1,8 +1,11 @@
 ---
+album: Rock Of The Westies
 artists:
 - Elton John
+external_ids:
+  spotify: spotify:track:2u3UJ9KyduTnbi9yUVGYfW
 features: []
-genres: []
+first_released_as_single: false
 key: island-girl-elton-john
 lyrics_url: https://www.azlyrics.com/lyrics/eltonjohn/islandgirl.html
 name: Island Girl
@@ -67,8 +70,9 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '1976-01-17'
+release_year: 1975
+runtime: 222093
 ---
-
 I see your teeth flash, Jamaican honey so sweet
 Down where Lexington cross 47th Street
 She's a big girl, she's standing six foot three
@@ -87,6 +91,3 @@ She's black as coal but she burn like a fire
 And she wrap herself around you like a well worn tire
 You feel her nail scratch your back just like a rake
 He one more gone, he one more John who make the mistake
-
-
-

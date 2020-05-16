@@ -1,8 +1,11 @@
 ---
+album: The Icon Is Love
 artists:
 - Barry White
+external_ids:
+  spotify: spotify:track:1L9Lod7Do1zQdSIAamTPDA
 features: []
-genres: []
+first_released_as_single: false
 key: practice-what-you-preach-barry-white
 lyrics_url: https://www.azlyrics.com/lyrics/barrywhite/practicewhatyoupreach.html
 name: Practice What You Preach
@@ -91,8 +94,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1995-02-25'
+release_year: 1994
+runtime: 358840
 ---
-
 So, what do you want to do, I'm here baby
 I'm ready baby, I'm waiting on you
 Believe me, I am patiently, 
@@ -150,6 +154,3 @@ Come on, practice what you preach
 You say once I'm with you, I'll never go back
 You say there's a lesson that you want to teach
 Well here I am baby, practice what you preach
-
-
-

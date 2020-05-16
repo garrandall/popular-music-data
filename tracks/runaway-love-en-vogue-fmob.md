@@ -1,9 +1,12 @@
 ---
+album: Runaway Love
 artists:
 - En Vogue
+external_ids:
+  spotify: spotify:track:0hXIFvu87dKASGvaLazAjf
 features:
 - FMOB
-genres: []
+first_released_as_single: true
 key: runaway-love-en-vogue-fmob
 lyrics_url: https://genius.com/En-vogue-runaway-love-lyrics
 name: Runaway Love
@@ -48,6 +51,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1993-12-18'
+release_year: 1993
+runtime: 299933
 ---
 Are you ready to roll?
 Funky Divas with a cool light stroll

@@ -1,8 +1,11 @@
 ---
+album: thank u, next
 artists:
 - Ariana Grande
+external_ids:
+  spotify: spotify:track:4lD7gHKF1e8Y9stQuVezZB
 features: []
-genres: []
+first_released_as_single: false
 key: ghostin-ariana-grande
 lyrics_url: https://www.azlyrics.com/lyrics/arianagrande/ghostin.html
 name: Ghostin
@@ -15,8 +18,9 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '2019-03-02'
+release_year: 2018
+runtime: 271466
 ---
-
 I know you hear me when I cry
 I try to hold it in at night
 While you're sleepin' next to me
@@ -77,6 +81,3 @@ But I love you (But I love you)
 We'll get past this (Past this)
 I'm a girl with
 A whole lot of baggage, oh, yeah
-
-
-

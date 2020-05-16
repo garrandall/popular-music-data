@@ -1,8 +1,11 @@
 ---
+album: Dog Eat Dog
 artists:
 - Joni Mitchell
+external_ids:
+  spotify: spotify:track:3Fh8qnLTdkWXStJwBpMtq6
 features: []
-genres: []
+first_released_as_single: false
 key: good-friends-joni-mitchell
 lyrics_url: https://www.azlyrics.com/lyrics/jonimitchell/goodfriends.html
 name: Good Friends
@@ -19,8 +22,9 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1986-01-11'
+release_year: 1985
+runtime: 268293
 ---
-
 I have to come and see you--
 Maybe once or twice a year--
 I think nothing would suit me better
@@ -68,6 +72,3 @@ No hearts of gold
 No blame for what we can and can't control
 Good friends you and me
 Good friends you and me
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Country Willie - His Own Songs
 artists:
 - So
+external_ids:
+  spotify: spotify:track:5V8z9gdxo3OAeFXySGLUk0
 features: []
-genres: []
+first_released_as_single: false
 key: are-you-sure-so
 lyrics_url: https://genius.com/So-are-you-sure-lyrics
 name: Are You Sure
@@ -51,6 +54,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1988-04-30'
+release_year: 1965
+runtime: 129533
 ---
 (And it's hard enough to make the same mistakes)
 (And it's hard enough to make the same mistakes)

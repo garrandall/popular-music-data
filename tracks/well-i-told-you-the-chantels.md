@@ -1,8 +1,11 @@
 ---
+album: The Best Of The Chantels
 artists:
 - The Chantels
+external_ids:
+  spotify: spotify:track:53AqEQSKNcY9FGUFHncmxs
 features: []
-genres: []
+first_released_as_single: false
 key: well-i-told-you-the-chantels
 lyrics_url: https://www.musixmatch.com/lyrics/The-Chantels/Well-I-Told-You
 name: Well I Told You
@@ -43,6 +46,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1962-01-13'
+release_year: 1961
+runtime: 145133
 ---
 Well, I told you
 To hit the road, Jack

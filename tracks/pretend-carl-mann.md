@@ -1,8 +1,11 @@
 ---
+album: Like Mann
 artists:
 - Carl Mann
+external_ids:
+  spotify: spotify:track:2Z1I1qBMS44sbSni82QIke
 features: []
-genres: []
+first_released_as_single: false
 key: pretend-carl-mann
 lyrics_url: https://genius.com/Carl-mann-pretend-lyrics
 name: Pretend
@@ -35,6 +38,8 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1959-12-07'
+release_year: 1959
+runtime: 156395
 ---
 Pretend you're happy when you're blue
 It isn't very hard to do

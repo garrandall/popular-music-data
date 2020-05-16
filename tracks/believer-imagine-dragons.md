@@ -1,8 +1,11 @@
 ---
+album: Evolve
 artists:
 - Imagine Dragons
+external_ids:
+  spotify: spotify:track:6aiHF2IbJr6lG4Vu9em8KF
 features: []
-genres: []
+first_released_as_single: true
 key: believer-imagine-dragons
 lyrics_url: https://www.azlyrics.com/lyrics/imaginedragons/believer.html
 name: Believer
@@ -215,8 +218,9 @@ rankings:
   rank: 29
   ranking_list: Billboard Hot 100
   start_date: '2018-02-10'
+release_year: 2017
+runtime: 190893
 ---
-
 First things first
 I'mma say all the words inside my head
 I'm fired up and tired of the way that things have been, oh oh
@@ -288,6 +292,3 @@ Oh let the bullets fly, oh let them rain
 My life, my love, my drive, it came from
 Pain!
 You made me a, you made me a believer, believer
-
-
-

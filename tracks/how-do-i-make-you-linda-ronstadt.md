@@ -1,8 +1,11 @@
 ---
+album: Mad Love
 artists:
 - Linda Ronstadt
+external_ids:
+  spotify: spotify:track:2WX2HSBKkcKVvqTukHZS22
 features: []
-genres: []
+first_released_as_single: false
 key: how-do-i-make-you-linda-ronstadt
 lyrics_url: https://www.azlyrics.com/lyrics/lindaronstadt/howdoimakeyou.html
 name: How Do I Make You
@@ -71,8 +74,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1980-05-17'
+release_year: 1980
+runtime: 144773
 ---
-
 You're a doll
 Your eyes see all
 And how do I make you
@@ -123,6 +127,3 @@ Whoooa, dream about me
 Dream about me
 Whoooa, dream about me
 Dream about me
-
-
-

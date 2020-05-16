@@ -1,8 +1,11 @@
 ---
+album: The Jersey Shore 3
 artists:
 - Calvin Harris
+external_ids:
+  spotify: spotify:track:5H7pmMq3477sVBf87fV2tn
 features: []
-genres: []
+first_released_as_single: false
 key: feel-so-close-calvin-harris
 lyrics_url: https://genius.com/Calvin-harris-feel-so-close-lyrics
 name: Feel So Close
@@ -111,6 +114,8 @@ rankings:
   rank: 37
   ranking_list: Billboard Hot 100
   start_date: '2012-08-18'
+release_year: 2011
+runtime: 255000
 ---
 I feel so close to you right now
 It's a force field

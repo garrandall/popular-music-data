@@ -1,8 +1,11 @@
 ---
+album: Rhinestone Cowboy
 artists:
 - Glen Campbell
+external_ids:
+  spotify: spotify:track:1QoPtpJPMP0Zx8oxd0eDip
 features: []
-genres: []
+first_released_as_single: false
 key: country-boy--you-got-your-feet-in-la--glen-campbell
 lyrics_url: https://www.azlyrics.com/lyrics/glencampbell/countryboyyougotyourfeetinla.html
 name: Country Boy (You Got Your Feet In LA)
@@ -63,8 +66,9 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '1976-02-07'
+release_year: 1975
+runtime: 187375
 ---
-
 Livin' in the city
 Ain't never been my idea of gettin' it on
 But the job demands that you make new plans
@@ -103,7 +107,4 @@ Lookin' back, I can remember the time
 When I sang my songs for free
 Country boy, you got your feet in LA
 Take a look at everything you own
-But now and then, my heart keeps goin' home 
-
-
-
+But now and then, my heart keeps goin' home

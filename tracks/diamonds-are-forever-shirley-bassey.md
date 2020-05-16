@@ -1,8 +1,11 @@
 ---
+album: Let Me Sing And I'm Happy
 artists:
 - Shirley Bassey
+external_ids:
+  spotify: spotify:track:63cMPlXuZvRwKM6B2BVRaj
 features: []
-genres: []
+first_released_as_single: false
 key: diamonds-are-forever-shirley-bassey
 lyrics_url: https://genius.com/Shirley-bassey-diamonds-are-forever-lyrics
 name: Diamonds Are Forever
@@ -43,6 +46,8 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1972-03-25'
+release_year: 1972
+runtime: 161933
 ---
 Diamonds are forever
 They are all I need to please me

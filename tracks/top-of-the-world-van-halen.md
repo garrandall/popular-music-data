@@ -1,8 +1,11 @@
 ---
+album: For Unlawful Carnal Knowledge
 artists:
 - Van Halen
+external_ids:
+  spotify: spotify:track:5IpIcYj3omb4iOP76bAoRP
 features: []
-genres: []
+first_released_as_single: false
 key: top-of-the-world-van-halen
 lyrics_url: https://www.azlyrics.com/lyrics/vanhalen/topoftheworld.html
 name: Top Of The World
@@ -83,8 +86,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1992-02-15'
+release_year: 1991
+runtime: 232866
 ---
-
 Hey, Baby, Whew!
 I know that you believe in me,
 That's all I ever need, uh huh.
@@ -126,6 +130,3 @@ Gonna give it all we got.
 Standing on top,
 Standing on top,
 Standing on top.
-
-
-

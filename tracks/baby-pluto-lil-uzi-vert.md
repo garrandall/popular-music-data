@@ -1,8 +1,11 @@
 ---
+album: Eternal Atake
 artists:
 - Lil Uzi Vert
+external_ids:
+  spotify: spotify:track:7hav1MHURQf5SAoPk0egqh
 features: []
-genres: []
+first_released_as_single: false
 key: baby-pluto-lil-uzi-vert
 lyrics_url: https://www.azlyrics.com/lyrics/liluzivert/babypluto.html
 name: Baby Pluto
@@ -11,8 +14,9 @@ rankings:
   rank: 6
   ranking_list: Billboard Hot 100
   start_date: '2020-03-21'
+release_year: 2020
+runtime: 210261
 ---
-
 (Welcome to Eternal Atake)
 (ä½ åå¤å¥½äºå?)
 
@@ -115,6 +119,3 @@ Yeah, she gone off that molly like she ain't never take a pill before
 You act like you tough like your homie ain't ever get killed before
 What the...
 Yo, what the fuck was that?
-
-
-

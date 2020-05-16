@@ -1,8 +1,11 @@
 ---
+album: I Got a Name
 artists:
 - Jim Croce
+external_ids:
+  spotify: spotify:track:4t8tx6o7oM6Ax66ZUU361y
 features: []
-genres: []
+first_released_as_single: false
 key: i-ll-have-to-say-i-love-you-in-a-song-jim-croce
 lyrics_url: https://genius.com/Jim-croce-ill-have-to-say-i-love-you-in-a-song-lyrics
 name: I'll Have To Say I Love You In A Song
@@ -63,6 +66,8 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '1974-06-01'
+release_year: 1973
+runtime: 154626
 ---
 Well, I know it's kind of late
 I hope I didn't wake you

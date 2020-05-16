@@ -1,8 +1,11 @@
 ---
+album: The Bluest Eyes In Texas - Live
 artists:
 - Restless Heart
+external_ids:
+  spotify: spotify:track:61EQfJXizp4MIpLYWyLoQI
 features: []
-genres: []
+first_released_as_single: false
 key: when-she-cries-restless-heart
 lyrics_url: https://genius.com/Restless-heart-when-she-cries-lyrics
 name: When She Cries
@@ -87,6 +90,8 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1993-03-27'
+release_year: 1992
+runtime: 222186
 ---
 The road I have traveled on
 Is paved with good intentions

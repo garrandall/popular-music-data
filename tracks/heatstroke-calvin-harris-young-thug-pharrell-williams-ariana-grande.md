@@ -1,11 +1,14 @@
 ---
+album: Funk Wav Bounces Vol.1
 artists:
 - Calvin Harris
+external_ids:
+  spotify: spotify:track:1N90cV79gbBgO0bOs74Y0t
 features:
 - Young Thug
 - Pharrell Williams
 - Ariana Grande
-genres: []
+first_released_as_single: true
 key: heatstroke-calvin-harris-young-thug-pharrell-williams-ariana-grande
 lyrics_url: https://www.azlyrics.com/lyrics/calvinharris/heatstroke.html
 name: Heatstroke
@@ -14,9 +17,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2017-04-22'
+release_year: 2017
+runtime: 229640
 ---
-
-
 Won't you please?
 Slow it down
 I'm tryna talk to you, darlin'
@@ -108,6 +111,3 @@ And you set me free
 
 Hey, hey this one make me so naughty
 I think you opened my eyes
-
-
-

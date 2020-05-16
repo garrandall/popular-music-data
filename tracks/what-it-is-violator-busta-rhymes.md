@@ -1,9 +1,12 @@
 ---
+album: 'The Album: V2.O'
 artists:
 - Violator
+external_ids:
+  spotify: spotify:track:3xuobJ0EyP0Boajt7p8xWq
 features:
 - Busta Rhymes
-genres: []
+first_released_as_single: false
 key: what-it-is-violator-busta-rhymes
 lyrics_url: https://www.musixmatch.com/lyrics/Violator-feat-Busta-Rhymes/What-It-Is
 name: What It Is
@@ -64,6 +67,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2001-09-29'
+release_year: 2001
+runtime: 218560
 ---
 Yeah. Flipmode. Violator.
 Neptunes nigga

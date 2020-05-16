@@ -1,8 +1,11 @@
 ---
+album: Summertime Dream
 artists:
 - Gordon Lightfoot
+external_ids:
+  spotify: spotify:track:1SAiMVOIMzwcm5VDBACiFI
 features: []
-genres: []
+first_released_as_single: false
 key: race-among-the-ruins-gordon-lightfoot
 lyrics_url: https://www.azlyrics.com/lyrics/gordonlightfoot/raceamongtheruins.html
 name: Race Among The Ruins
@@ -23,8 +26,9 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1977-03-12'
+release_year: 1976
+runtime: 198306
 ---
-
 You think you had the last laugh
 Now you know this can't be true
 Even though the sun shines down upon you now
@@ -87,6 +91,3 @@ Away you will go sailin'
 In a race among the ruins
 If you plan to face tomorrow
 Do it soon
-
-
-

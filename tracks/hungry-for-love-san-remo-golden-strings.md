@@ -1,8 +1,11 @@
 ---
+album: Super Rare Soul, Vol. 2
 artists:
 - San Remo Golden Strings
+external_ids:
+  spotify: spotify:track:1IVWnhqf8tcGu4EKGkp3AP
 features: []
-genres: []
+first_released_as_single: false
 key: hungry-for-love-san-remo-golden-strings
 name: Hungry For Love
 rankings:
@@ -46,5 +49,7 @@ rankings:
   rank: 52
   ranking_list: Billboard Hot 100
   start_date: '1965-11-13'
+release_year: 1965
+runtime: 179066
 ---
 

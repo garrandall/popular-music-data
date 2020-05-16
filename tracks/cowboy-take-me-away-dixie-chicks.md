@@ -1,8 +1,11 @@
 ---
+album: Fly
 artists:
 - Dixie Chicks
+external_ids:
+  spotify: spotify:track:3rXCZRMiMZp0feGcYXpwYX
 features: []
-genres: []
+first_released_as_single: false
 key: cowboy-take-me-away-dixie-chicks
 lyrics_url: https://www.musixmatch.com/lyrics/Dixie-Chicks/Cowboy-Take-Me-Away
 name: Cowboy Take Me Away
@@ -87,6 +90,8 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '2000-04-08'
+release_year: 1999
+runtime: 287266
 ---
 I said I wanna touch the earth
 I wanna break it in my hands

@@ -1,8 +1,11 @@
 ---
+album: Feelings - Greatest Hits
 artists:
 - Morris Albert
+external_ids:
+  spotify: spotify:track:6MV4BQ6yp1xiObBdQNrSgN
 features: []
-genres: []
+first_released_as_single: false
 key: sweet-loving-man-morris-albert
 lyrics_url: https://www.musixmatch.com/lyrics/Morris-Albert/Sweet-Loving-Man
 name: Sweet Loving Man
@@ -15,6 +18,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1976-02-14'
+release_year: 1976
+runtime: 383026
 ---
 (CHORUS)
 Call me and let me

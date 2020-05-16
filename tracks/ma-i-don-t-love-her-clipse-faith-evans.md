@@ -1,9 +1,12 @@
 ---
+album: Lord Willin'
 artists:
 - Clipse
+external_ids:
+  spotify: spotify:track:3VbPE4nMEkIB9PWWquCSGB
 features:
 - Faith Evans
-genres: []
+first_released_as_single: false
 key: ma-i-don-t-love-her-clipse-faith-evans
 lyrics_url: https://genius.com/Clipse-ma-i-dont-love-her-lyrics
 name: Ma I Don't Love Her
@@ -32,6 +35,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2003-03-22'
+release_year: 2002
+runtime: 257493
 ---
 I wanna love you girl
 Just wanna love you girl

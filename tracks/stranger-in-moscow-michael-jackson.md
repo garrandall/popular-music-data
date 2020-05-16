@@ -1,8 +1,11 @@
 ---
+album: HIStory - PAST, PRESENT AND FUTURE - BOOK I
 artists:
 - Michael Jackson
+external_ids:
+  spotify: spotify:track:64KrFHj9p5AyCX2yZQr4YJ
 features: []
-genres: []
+first_released_as_single: false
 key: stranger-in-moscow-michael-jackson
 lyrics_url: https://www.azlyrics.com/lyrics/michaeljackson/strangerinmoscow.html
 name: Stranger In Moscow
@@ -15,8 +18,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1997-08-30'
+release_year: 1995
+runtime: 343960
 ---
-
 I was wandering in the rain
 Mask of life, feelin' insane
 Swift and sudden fall from grace
@@ -87,6 +91,3 @@ Stranger in Moscow
 To steal the great achievements of the people?
 The great accomplishments of the workers?
 Confess. Have you tried hard to bribe the people with the riches of the West?"]
-
-
-

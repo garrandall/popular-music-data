@@ -1,8 +1,11 @@
 ---
+album: Think (About It)
 artists:
 - Lyn Collins
+external_ids:
+  spotify: spotify:track:1kG2PZ8geznbDA8I6iWeDi
 features: []
-genres: []
+first_released_as_single: false
 key: think--about-it--lyn-collins
 lyrics_url: https://genius.com/Lyn-collins-think-about-it-lyrics
 name: Think (About It)
@@ -35,6 +38,8 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1972-10-14'
+release_year: 1972
+runtime: 204160
 ---
 Hey fellas
 I'm talking to you you and you too

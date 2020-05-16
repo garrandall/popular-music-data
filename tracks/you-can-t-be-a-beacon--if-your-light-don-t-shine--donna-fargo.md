@@ -1,8 +1,11 @@
 ---
+album: The Happiest Girl In The Whole U.S.A.
 artists:
 - Donna Fargo
+external_ids:
+  spotify: spotify:track:616rjFaT9LTidt5lYGSVA8
 features: []
-genres: []
+first_released_as_single: false
 key: you-can-t-be-a-beacon--if-your-light-don-t-shine--donna-fargo
 lyrics_url: https://www.musixmatch.com/lyrics/Donna-Fargo/You-Can-t-Be-a-Beacon
 name: You Can't Be A Beacon (if Your Light Don't Shine)
@@ -59,6 +62,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1974-09-21'
+release_year: 1974
+runtime: 187760
 ---
 You can't be a beacon if your light don't shine
 You can't be a beacon if your light don't shine

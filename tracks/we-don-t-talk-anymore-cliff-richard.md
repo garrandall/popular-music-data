@@ -1,8 +1,11 @@
 ---
+album: Rock 'n' Roll Juvenile
 artists:
 - Cliff Richard
+external_ids:
+  spotify: spotify:track:3Ug96zKa29P3vICEEcYajZ
 features: []
-genres: []
+first_released_as_single: false
 key: we-don-t-talk-anymore-cliff-richard
 lyrics_url: https://genius.com/Cliff-richard-we-dont-talk-anymore-lyrics
 name: We Don't Talk Anymore
@@ -87,6 +90,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1980-03-01'
+release_year: 1979
+runtime: 257160
 ---
 Used to think that life was sweet
 Used to think we were so complete

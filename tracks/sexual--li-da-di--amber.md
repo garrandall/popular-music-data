@@ -1,8 +1,11 @@
 ---
+album: Amber
 artists:
 - Amber
+external_ids:
+  spotify: spotify:track:0H8sqjYJdU2UMPKHp4ph0l
 features: []
-genres: []
+first_released_as_single: true
 key: sexual--li-da-di--amber
 lyrics_url: https://genius.com/Amber-sexual-li-da-di-lyrics
 name: Sexual (Li Da Di)
@@ -123,6 +126,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2000-02-26'
+release_year: 1999
+runtime: 226493
 ---
 Li da di
 Li da di

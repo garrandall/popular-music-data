@@ -1,10 +1,13 @@
 ---
+album: AttenCHUN!
 artists:
 - Bone Crusher
+external_ids:
+  spotify: spotify:track:2wcM2OAbPsJK1vueIocnRV
 features:
 - Killer Mike
 - T.I.
-genres: []
+first_released_as_single: true
 key: never-scared-bone-crusher-killer-mike-t-i-
 lyrics_url: https://genius.com/Bone-crusher-never-scared-lyrics
 name: Never Scared
@@ -89,6 +92,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '2003-08-16'
+release_year: 2003
+runtime: 324506
 ---
 Yea! This nigga think we hoez or somethin', my nigga!
 Sheeeit, man what the... lemme talk to the mo'fucka. How hard we really mo'fuckin is in this biaaaatch
@@ -99,8 +104,8 @@ I'm gon fuck this nigga up, my nigga!
 Sheeeeit, lemme show this mo'fucca how hard this shit really is!
 
 
-So I'm outside of da club and you think I'm a puuuuuuuunk
-So I go to my loaded tech 9 that's off in the truuuuuuuunk
+So I'm outside of da club and you think I'm a punk
+So I go to my loaded tech 9 that's off in the trunk
 I told that muthafucka
 I ain't never scared (eastside!)
 I ain't never scared (westside!)
@@ -121,8 +126,8 @@ Now on dat drank and on some of dat dank
 My pistols gettin' thirsty now it needs another drank
 
 
-So I'm outside of da club and you think I'm a puuuuuuuunk
-So I go to my loaded tech 9 that's off in the truuuuuuuunk
+So I'm outside of da club and you think I'm a punk
+So I go to my loaded tech 9 that's off in the trunk
 I told that muthafucka
 I ain't never scared (eastside!)
 I ain't never scared (westside!)
@@ -144,8 +149,8 @@ My gun's my favorite bitch and
 And she got permanent PMS so she stay bitchin!
 
 
-So I'm outside of da club and you think I'm a puuuuuuuunk
-So I go to my loaded tech 9 that's off in the truuuuuuuunk
+So I'm outside of da club and you think I'm a punk
+So I go to my loaded tech 9 that's off in the trunk
 I told that muthafucka
 I ain't never scared (eastside!)
 I ain't never scared (westside!)
@@ -174,8 +179,8 @@ Like Della Reese, they my folks, it's best you just let'em be
 Cuz I don't do shit for pretend, them FED's just ain't never see nigga!
 
 
-So I'm outside of da club and you think I'm a puuuuuuuunk
-So I go to my loaded tech 9 that's off in the truuuuuuuunk
+So I'm outside of da club and you think I'm a punk
+So I go to my loaded tech 9 that's off in the trunk
 I told that muthafucka
 I ain't never scared (eastside!)
 I ain't never scared (westside!)
@@ -193,8 +198,8 @@ We ain't never scared of none of you niggas!
 T.I., Bone Crusher, Killer Mike, this break'em off nigga!
 
 
-So I'm outside of da club and you think I'm a puuuuuuuunk
-So I go to my loaded tech 9 that's off in the truuuuuuuunk
+So I'm outside of da club and you think I'm a punk
+So I go to my loaded tech 9 that's off in the trunk
 I told that muthafucka
 I ain't never scared (eastside!)
 I ain't never scared (westside!)
@@ -203,8 +208,8 @@ I ain't never scared (northside!)
 I ain't never scared (southside!)
 I ain't never scared (eastside!)
 I ain't never scared (westside!)
-So I'm outside of da club and you think I'm a puuuuuuuunk
-So I go to my loaded tech 9 that's off in the truuuuuuuunk
+So I'm outside of da club and you think I'm a punk
+So I go to my loaded tech 9 that's off in the trunk
 I told that muthafucka
 I ain't never scared (eastside!)
 I ain't never scared (westside!)

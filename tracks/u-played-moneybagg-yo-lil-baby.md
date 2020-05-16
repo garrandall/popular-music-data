@@ -1,9 +1,12 @@
 ---
+album: Time Served
 artists:
 - MoneyBagg Yo
+external_ids:
+  spotify: spotify:track:7qeWNGBqqagdwf4KnjRzGZ
 features:
 - Lil Baby
-genres: []
+first_released_as_single: false
 key: u-played-moneybagg-yo-lil-baby
 lyrics_url: https://genius.com/Moneybagg-yo-u-played-lyrics
 name: U Played
@@ -28,6 +31,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2020-02-15'
+release_year: 2020
+runtime: 164753
 ---
 Tay Keith, this too hard (Tay Keith, this too hard)
 Tay Keith, fuck these niggas up

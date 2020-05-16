@@ -1,9 +1,12 @@
 ---
+album: I Am Not A Human Being II
 artists:
 - Lil Wayne
+external_ids:
+  spotify: spotify:track:1cji6jI9LQ5zaStXrydl7F
 features:
 - Big Sean
-genres: []
+first_released_as_single: false
 key: my-homies-still-lil-wayne-big-sean
 lyrics_url: https://www.azlyrics.com/lyrics/lilwayne/myhomiesstill.html
 name: My Homies Still
@@ -60,9 +63,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2012-09-15'
+release_year: 2012
+runtime: 246560
 ---
-
-
 Man fuck ya'll with a sick dick
 Semi automatic no click click, we don't feel you
 Like an elephant, getting fucked with a tick dick
@@ -144,6 +147,3 @@ Yea
 Uhhh
 Young Mula
 Truk your girl
-
-
-

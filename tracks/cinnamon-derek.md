@@ -1,8 +1,11 @@
 ---
+album: Super Hits 1968
 artists:
 - Derek
+external_ids:
+  spotify: spotify:track:7fsd3Ee8cMsQHD8gS9RjM6
 features: []
-genres: []
+first_released_as_single: false
 key: cinnamon-derek
 lyrics_url: https://genius.com/Derek-rock-cinnamon-lyrics
 name: Cinnamon
@@ -67,6 +70,8 @@ rankings:
   rank: 26
   ranking_list: Billboard Hot 100
   start_date: '1969-02-01'
+release_year: 1968
+runtime: 159480
 ---
 Sneakin down your alley way
 And knockin' on your door

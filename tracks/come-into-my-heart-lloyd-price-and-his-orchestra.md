@@ -1,8 +1,11 @@
 ---
+album: The Best Of Lloyd Price
 artists:
 - Lloyd Price
+external_ids:
+  spotify: spotify:track:2MfIhWJD9lTXKTolmYdXCP
 features: []
-genres: []
+first_released_as_single: false
 key: come-into-my-heart-lloyd-price-and-his-orchestra
 lyrics_url: https://genius.com/Lloyd-price-come-into-my-heart-lyrics
 name: Come Into My Heart
@@ -63,6 +66,8 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '1960-01-25'
+release_year: 1959
+runtime: 127066
 ---
 I've never heard a name, as quite as sweet as yours
 I never saw eyes, as quite as bright as yours

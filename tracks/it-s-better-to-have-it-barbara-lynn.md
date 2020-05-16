@@ -1,8 +1,11 @@
 ---
+album: The Jamie Singles Collection 1962-1965
 artists:
 - Barbara Lynn
+external_ids:
+  spotify: spotify:track:2ub5Un3ktZ4L4ii1gx74th
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-better-to-have-it-barbara-lynn
 lyrics_url: https://genius.com/Barbara-lynn-its-better-to-have-it-lyrics
 name: It's Better To Have It
@@ -15,6 +18,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1965-01-16'
+release_year: 1965
+runtime: 172200
 ---
 It's better to have it (have it)
 And not need it (need it)

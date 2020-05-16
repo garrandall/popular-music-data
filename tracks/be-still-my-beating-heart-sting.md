@@ -1,8 +1,11 @@
 ---
+album: '...Nothing Like The Sun'
 artists:
 - Sting
+external_ids:
+  spotify: spotify:track:58me6gfG81fNG4v3dpRhh5
 features: []
-genres: []
+first_released_as_single: false
 key: be-still-my-beating-heart-sting
 lyrics_url: https://genius.com/Sting-be-still-my-beating-heart-lyrics
 name: Be Still My Beating Heart
@@ -63,6 +66,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1988-04-16'
+release_year: 1987
+runtime: 334133
 ---
 Be still my beating heart
 It would be better to be cool

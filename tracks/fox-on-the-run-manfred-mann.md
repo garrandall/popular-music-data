@@ -1,8 +1,11 @@
 ---
+album: Mannerisms
 artists:
 - Manfred Mann
+external_ids:
+  spotify: spotify:track:0oxQWfkZuJW8L7uiItwsB0
 features: []
-genres: []
+first_released_as_single: true
 key: fox-on-the-run-manfred-mann
 lyrics_url: https://genius.com/Manfred-mann-fox-on-the-run-lyrics
 name: Fox On The Run
@@ -15,6 +18,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1969-01-25'
+release_year: 1969
+runtime: 162893
 ---
 She walked through the corn leading down to the river
 Her hair shone like gold in the hot morning sun

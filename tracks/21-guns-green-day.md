@@ -1,8 +1,11 @@
 ---
+album: 21st Century Breakdown
 artists:
 - Green Day
+external_ids:
+  spotify: spotify:track:64yrDBpcdwEdNY9loyEGbX
 features: []
-genres: []
+first_released_as_single: false
 key: 21-guns-green-day
 lyrics_url: https://www.azlyrics.com/lyrics/greenday/21guns.html
 name: 21 Guns
@@ -87,8 +90,9 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '2009-11-21'
+release_year: 2009
+runtime: 321093
 ---
-
 Do you know what's worth fighting for
 When it's not worth dying for?
 Does it take your breath away
@@ -143,6 +147,3 @@ One, 21 Guns
 Throw up your arms into the sky
 
 You and I
-
-
-

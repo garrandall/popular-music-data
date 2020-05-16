@@ -1,8 +1,11 @@
 ---
+album: So into You
 artists:
 - Atlanta Rhythm Section
+external_ids:
+  spotify: spotify:track:6mdrxUaZHYcxaKpr2JlMUc
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-not-gonna-let-it-bother-me-tonight-atlanta-rhythm-section
 lyrics_url: https://genius.com/Atlanta-rhythm-section-im-not-gonna-let-it-bother-me-tonight-lyrics
 name: I'm Not Gonna Let It Bother Me Tonight
@@ -59,6 +62,8 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1978-09-02'
+release_year: 1972
+runtime: 283426
 ---
 I picked up the paper this morning
 And read all the daily blues

@@ -1,8 +1,11 @@
 ---
+album: Stars  (US DMD)
 artists:
 - Simply Red
+external_ids:
+  spotify: spotify:track:7EVSRJ9eH21ri2lIHkKkoP
 features: []
-genres: []
+first_released_as_single: false
 key: something-got-me-started-simply-red
 lyrics_url: https://www.azlyrics.com/lyrics/simplyred/somethinggotmestarted.html
 name: Something Got Me Started
@@ -63,8 +66,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1991-12-28'
+release_year: 1991
+runtime: 240706
 ---
-
 Something got me started
 You know that I will love you
 Lately since we parted
@@ -82,6 +86,3 @@ I'd give it all up for you
 (Yes I would)
 
 You've got to help me, help me,help me
-
-
-

@@ -1,9 +1,12 @@
 ---
+album: Slumdog Millionaire - Music From The Motion Picture
 artists:
 - M.I.A.
 - A R Rahman
+external_ids:
+  spotify: spotify:track:6WB2gOYkn8VlLGiStQLczC
 features: []
-genres: []
+first_released_as_single: false
 key: o-saya-m-i-a--a-r-rahman
 lyrics_url: https://www.musixmatch.com/lyrics/A-R-Rahman-M-I-A/O-Saya
 name: O Saya
@@ -12,6 +15,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2009-03-14'
+release_year: 2009
+runtime: 213826
 ---
 They can't touch me
 We break off

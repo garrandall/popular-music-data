@@ -1,8 +1,11 @@
 ---
+album: Satisfied With You
 artists:
 - The Dave Clark Five
+external_ids:
+  spotify: spotify:track:3VgSSANMXHPNgkWTJDJYAK
 features: []
-genres: []
+first_released_as_single: false
 key: please-tell-me-why-the-dave-clark-five
 lyrics_url: https://www.azlyrics.com/lyrics/daveclarkfive/pleasetellmewhy.html
 name: Please Tell Me Why
@@ -35,8 +38,9 @@ rankings:
   rank: 31
   ranking_list: Billboard Hot 100
   start_date: '1966-07-23'
+release_year: 1966
+runtime: 92573
 ---
-
 I don't know why she won't love me
 Lord, please tell me why
 Maybe it's that she don't love me
@@ -59,6 +63,3 @@ I think I'll have to run
 If she's passive she'll understand
 I'll value my love but not in her hands
 But if I'm wrong then I'll be mad
-
-
-

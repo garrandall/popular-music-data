@@ -1,8 +1,11 @@
 ---
+album: Away We Go-Go
 artists:
 - The Miracles
+external_ids:
+  spotify: spotify:track:5YvokzRkNONpj5c0TIqTjQ
 features: []
-genres: []
+first_released_as_single: false
 key: -come--round-here--i-m-the-one-you-need-the-miracles
 lyrics_url: https://genius.com/The-miracles-come-round-here-im-the-one-you-need-lyrics
 name: (Come 'round Here) I'm The One You Need
@@ -43,6 +46,8 @@ rankings:
   rank: 34
   ranking_list: Billboard Hot 100
   start_date: '1966-12-31'
+release_year: 1966
+runtime: 150066
 ---
 Now you say every time you need some affection
 The one you love goes in another direction

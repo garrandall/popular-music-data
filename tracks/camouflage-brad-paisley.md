@@ -1,8 +1,11 @@
 ---
+album: This Is Country Music
 artists:
 - Brad Paisley
+external_ids:
+  spotify: spotify:track:6hVgzcyMmjNKaJn5VRZX3H
 features: []
-genres: []
+first_released_as_single: false
 key: camouflage-brad-paisley
 lyrics_url: https://www.azlyrics.com/lyrics/bradpaisley/camouflage.html
 name: Camouflage
@@ -43,8 +46,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2012-02-11'
+release_year: 2011
+runtime: 266146
 ---
-
 Kevin wasn't really all that popular in school
 But I remember well the day I thought now that guy's pretty cool
 He pulled into the parking lot and everybody cheered
@@ -83,6 +87,3 @@ Designed by Mother Nature and by God
 
 It's camouflage, camouflage
 Oh you're my favorite color camouflage
-
-
-

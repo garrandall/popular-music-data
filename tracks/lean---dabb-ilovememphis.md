@@ -1,8 +1,11 @@
 ---
+album: Lean and Dabb
 artists:
 - iLoveMemphis
+external_ids:
+  spotify: spotify:track:3anp5nvmUKwMBEIEL1sPHR
 features: []
-genres: []
+first_released_as_single: true
 key: lean---dabb-ilovememphis
 lyrics_url: https://genius.com/Ilovememphis-lean-and-dabb-lyrics
 name: Lean & Dabb
@@ -11,6 +14,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2016-02-06'
+release_year: 2015
+runtime: 237053
 ---
 (I said I'll show you how I)
 Lean and dab, lean and dab

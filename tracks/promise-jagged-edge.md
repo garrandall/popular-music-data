@@ -1,8 +1,11 @@
 ---
+album: J.E. Heartbreak
 artists:
 - Jagged Edge
+external_ids:
+  spotify: spotify:track:4iIzuqTpvDpo1VTzIyqZuK
 features: []
-genres: []
+first_released_as_single: false
 key: promise-jagged-edge
 lyrics_url: https://www.azlyrics.com/lyrics/jaggededge/promise.html
 name: Promise
@@ -91,9 +94,10 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '2001-05-12'
+release_year: 1997
+runtime: 273600
 ---
-
- - Nothing is promised to me and you
+- Nothing is promised to me and you
 So why will we let this thing go
 Baby I promise that I'll stay true
 Don't let nobody say it ain't so
@@ -131,4 +135,3 @@ And to know I got a love if you need a love, yeah
 And I promise everything is alright babe
 You're the only I want in my life
 I promise, promise, promise you baby
-

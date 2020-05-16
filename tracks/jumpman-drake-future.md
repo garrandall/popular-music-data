@@ -1,9 +1,12 @@
 ---
+album: What A Time To Be Alive
 artists:
 - Drake
 - Future
+external_ids:
+  spotify: spotify:track:27GmP9AWRs744SzKcpJsTZ
 features: []
-genres: []
+first_released_as_single: false
 key: jumpman-drake-future
 lyrics_url: https://genius.com/Drake-and-future-jumpman-lyrics
 name: Jumpman
@@ -136,6 +139,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2016-05-14'
+release_year: 2015
+runtime: 205879
 ---
 If Young Metro don't trust you I'm gon' shoot you
 Yeah, yeah

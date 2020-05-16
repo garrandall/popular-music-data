@@ -1,8 +1,11 @@
 ---
+album: Spaceship Earth
 artists:
 - Sugarloaf
+external_ids:
+  spotify: spotify:track:1Rf7JXGndStIDbEqSe0Qfz
 features: []
-genres: []
+first_released_as_single: false
 key: tongue-in-cheek-sugarloaf
 lyrics_url: https://genius.com/Sugarloaf-tongue-in-cheek-lyrics
 name: Tongue In Cheek
@@ -39,6 +42,8 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1971-04-24'
+release_year: 1971
+runtime: 458893
 ---
 I want to feel that you're here whenever I call
 I need to be in your eyes ten feet tall

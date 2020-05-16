@@ -1,8 +1,11 @@
 ---
+album: SAR Records Story
 artists:
 - Mel Carter
+external_ids:
+  spotify: spotify:track:3Rd2sk3FcMwndH2PCFgv7t
 features: []
-genres: []
+first_released_as_single: false
 key: when-a-boy-falls-in-love-mel-carter
 lyrics_url: https://www.musixmatch.com/lyrics/Mel-Carter/When-a-Boy-Falls-in-Love
 name: When A Boy Falls In Love
@@ -47,6 +50,8 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '1963-09-07'
+release_year: 1960
+runtime: 173040
 ---
 I heard them say love
 Was a wonderful things

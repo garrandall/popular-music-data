@@ -1,9 +1,12 @@
 ---
+album: Tough Luv
 artists:
 - Young Gunz
+external_ids:
+  spotify: spotify:track:0K7XjmTNFwQ2qwHn4MjlDx
 features:
 - Rell
-genres: []
+first_released_as_single: false
 key: no-better-love-young-gunz-rell
 lyrics_url: https://www.azlyrics.com/lyrics/younggunz/nobetterlove.html
 name: No Better Love
@@ -64,9 +67,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2004-05-01'
+release_year: 2004
+runtime: 235906
 ---
-
-
 Where the ladies
 You can feel me
 I wanna be your mother, your father
@@ -195,6 +198,3 @@ Girl you got me goin crazy
 You got me thinkin bout you baby
 Could you be my one and only lady
 (cuz there's no better love)
-
-
-

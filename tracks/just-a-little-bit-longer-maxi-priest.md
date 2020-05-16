@@ -1,8 +1,11 @@
 ---
+album: Bonafide
 artists:
 - Maxi Priest
+external_ids:
+  spotify: spotify:track:1QrxoiP4lc5nuzT6bCnOLF
 features: []
-genres: []
+first_released_as_single: false
 key: just-a-little-bit-longer-maxi-priest
 lyrics_url: https://www.azlyrics.com/lyrics/maxipriest/justalittlebitlonger.html
 name: Just A Little Bit Longer
@@ -51,8 +54,9 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1991-02-16'
+release_year: 1990
+runtime: 263733
 ---
-
 You say you're hurting oh cause
 They say I'm flirting oh no
 You just can't take it anymore
@@ -102,6 +106,3 @@ Cause my love keeps growing stronger
 A little more time to say
 But in my head a love song plays
 For you and me
-
-
-

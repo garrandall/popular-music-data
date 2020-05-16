@@ -1,9 +1,12 @@
 ---
+album: Music For The People
 artists:
 - Marky Mark
 - The Funky Bunch
+external_ids:
+  spotify: spotify:track:2U25Ne3teRZLF1wsRnjcfW
 features: []
-genres: []
+first_released_as_single: false
 key: wildside-marky-mark-the-funky-bunch
 lyrics_url: https://www.azlyrics.com/lyrics/markymarkandthefunkybunch/wildside.html
 name: Wildside
@@ -88,8 +91,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1992-03-21'
+release_year: 1991
+runtime: 307266
 ---
-
 Ah yeah huh American the beautiful
 Huh yeah let me introduce y'all to the wildside
 
@@ -168,6 +172,3 @@ Quick as a blink shots rang out loud
 And a hail of bullets zipped through the crowd
 One hit Tiffany and instantly she died
 Innocently on the wildside
-
-
-

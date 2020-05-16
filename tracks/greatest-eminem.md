@@ -1,8 +1,11 @@
 ---
+album: Kamikaze
 artists:
 - Eminem
+external_ids:
+  spotify: spotify:track:2XTquzYQAdT1Hk78bOUwsv
 features: []
-genres: []
+first_released_as_single: false
 key: greatest-eminem
 lyrics_url: https://genius.com/Eminem-greatest-lyrics
 name: Greatest
@@ -15,6 +18,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '2018-09-22'
+release_year: 2018
+runtime: 226937
 ---
 Motherfuckers talkin' crazy (Yeah)
 Sayin’ I should quit (Ah)

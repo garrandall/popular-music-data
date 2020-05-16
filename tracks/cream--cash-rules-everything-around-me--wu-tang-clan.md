@@ -1,8 +1,11 @@
 ---
+album: 'Disciples of the 36 Chambers: Chapter 1 (Live)'
 artists:
 - Wu-Tang Clan
+external_ids:
+  spotify: spotify:track:13QzIRdAlalLbruraQ3DhW
 features: []
-genres: []
+first_released_as_single: false
 key: cream--cash-rules-everything-around-me--wu-tang-clan
 lyrics_url: https://genius.com/Wu-tang-clan-cream-lyrics
 name: CREAM (Cash Rules Everything Around Me)
@@ -71,6 +74,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1994-06-25'
+release_year: 1994
+runtime: 165906
 ---
 What that nigga want, God?
 Word up, look out for the cops though

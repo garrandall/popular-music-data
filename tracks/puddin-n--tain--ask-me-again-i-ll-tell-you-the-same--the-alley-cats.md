@@ -1,8 +1,11 @@
 ---
+album: The Phil Spector Collection
 artists:
 - The Alley Cats
+external_ids:
+  spotify: spotify:track:3PSE5zXhf70R9czOlfgWeM
 features: []
-genres: []
+first_released_as_single: false
 key: puddin-n--tain--ask-me-again-i-ll-tell-you-the-same--the-alley-cats
 lyrics_url: https://genius.com/The-alley-cats-puddin-n-tain-lyrics
 name: Puddin N' Tain (Ask Me Again I'll Tell You The Same)
@@ -35,6 +38,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1963-02-23'
+release_year: 1963
+runtime: 167733
 ---
 Puddin' n' tain, puddin' n' tain
 Ask me again I'll tell you the same

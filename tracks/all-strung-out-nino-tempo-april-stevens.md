@@ -1,9 +1,12 @@
 ---
+album: All Strung Out
 artists:
 - Nino Tempo
 - April Stevens
+external_ids:
+  spotify: spotify:track:7ki09wB8QGbf6TGrHl8nHl
 features: []
-genres: []
+first_released_as_single: false
 key: all-strung-out-nino-tempo-april-stevens
 lyrics_url: https://genius.com/Nino-tempo-and-his-sister-april-stevens-all-strung-out-lyrics
 name: All Strung Out
@@ -40,6 +43,8 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '1966-10-29'
+release_year: 1966
+runtime: 183000
 ---
 I just can't get enough of you baby
 There just ain't enough of you to go around

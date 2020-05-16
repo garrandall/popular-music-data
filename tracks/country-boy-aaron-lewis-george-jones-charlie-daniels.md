@@ -1,10 +1,13 @@
 ---
+album: Town Line
 artists:
 - Aaron Lewis
+external_ids:
+  spotify: spotify:track:77A7dWpSxVoauUbJn83Oj3
 features:
 - George Jones
 - Charlie Daniels
-genres: []
+first_released_as_single: false
 key: country-boy-aaron-lewis-george-jones-charlie-daniels
 lyrics_url: https://genius.com/Aaron-lewis-country-boy-lyrics
 name: Country Boy
@@ -17,6 +20,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '2011-03-19'
+release_year: 2011
+runtime: 283346
 ---
 Now I grew up down an old dirt road, in a town you wouldn't know
 My pops picked the place up for fifteen hundred bucks, back in nineteen sixty-four

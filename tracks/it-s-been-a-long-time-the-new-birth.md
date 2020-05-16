@@ -1,8 +1,11 @@
 ---
+album: It's Been a Long Time
 artists:
 - The New Birth
+external_ids:
+  spotify: spotify:track:1O21Yvf4Yj0N3OkLJGIr9j
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-been-a-long-time-the-new-birth
 lyrics_url: https://genius.com/New-birth-its-been-a-long-time-lyrics
 name: It's Been A Long Time
@@ -31,6 +34,8 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '1974-03-23'
+release_year: 1973
+runtime: 354546
 ---
 Been such a long time since I saw you
 Tell me, girl, how long has it been

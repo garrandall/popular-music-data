@@ -1,8 +1,11 @@
 ---
+album: 'Yellow Flicker Beat (From The Hunger Games: Mockingjay Part 1)'
 artists:
 - Lorde
+external_ids:
+  spotify: spotify:track:0Nf53RDPZEjFrQE4B5n6Vf
 features: []
-genres: []
+first_released_as_single: true
 key: yellow-flicker-beat-lorde
 lyrics_url: https://www.azlyrics.com/lyrics/lorde/yellowflickerbeat.html
 name: Yellow Flicker Beat
@@ -43,8 +46,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2015-01-17'
+release_year: 2014
+runtime: 232506
 ---
-
 I'm a princess cut from marble, smoother than a storm
 And the scars that mark my body, they're silver and gold
 My blood is a flood of rubies, precious stones
@@ -77,6 +81,3 @@ I'm done with it (oh)
 
 And this is the red, orange, yellow flicker beat sparking up my heart
 And this is the red, orange, yellow flicker beat-beat-beat-beat
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Based on a True Story...
 artists:
 - Blake Shelton
+external_ids:
+  spotify: spotify:track:2byuMQoY8GFXEQ5z3GnXyW
 features: []
-genres: []
+first_released_as_single: true
 key: sure-be-cool-if-you-did-blake-shelton
 lyrics_url: https://www.azlyrics.com/lyrics/blakeshelton/surebecoolifyoudid.html
 name: Sure Be Cool If You Did
@@ -87,8 +90,9 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '2013-06-08'
+release_year: 2013
+runtime: 215720
 ---
-
 I was gonna keep it real like chill like only have a drink or two
 But it turned into a party when I started talking to you
 Now you're standing in the neon looking like a high I wanna be on
@@ -129,6 +133,3 @@ And do a little bit of country song, hanging on
 You don't have to keep me falling like this
 But it'd sure be cool if you did
 Yeah, it'd sure be cool if you did
-
-
-

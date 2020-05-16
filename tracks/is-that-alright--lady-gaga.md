@@ -1,8 +1,11 @@
 ---
+album: A Star Is Born Soundtrack
 artists:
 - Lady Gaga
+external_ids:
+  spotify: spotify:track:172e82oK9vGoBPvc6SqMm5
 features: []
-genres: []
+first_released_as_single: false
 key: is-that-alright--lady-gaga
 lyrics_url: https://www.azlyrics.com/lyrics/ladygaga/isthatalright.html
 name: Is That Alright?
@@ -11,8 +14,9 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '2018-10-20'
+release_year: 2018
+runtime: 191280
 ---
-
 Life is so simple
 A little boy, a little girl
 Laughing and loving
@@ -51,6 +55,3 @@ At the moment I die
 Is that alright?
 Is that alright?
 Is that alright?
-
-
-

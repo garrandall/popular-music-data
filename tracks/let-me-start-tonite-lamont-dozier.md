@@ -1,8 +1,11 @@
 ---
+album: Black Bach
 artists:
 - Lamont Dozier
+external_ids:
+  spotify: spotify:track:2gO8oB0iRASgHstU5S6SLF
 features: []
-genres: []
+first_released_as_single: false
 key: let-me-start-tonite-lamont-dozier
 lyrics_url: https://genius.com/Lamont-dozier-let-me-start-tonite-lyrics
 name: Let Me Start Tonite
@@ -27,6 +30,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1975-02-01'
+release_year: 1974
+runtime: 222325
 ---
 Do you remember the day
 When you walked away
@@ -45,7 +50,6 @@ For the lipstick stains
 Just let me start tonight
 Setting everything right
 With you and me, baby
-Lyrics courtesy Top40db
 Oh wee
 
 I'm not too proud to plead

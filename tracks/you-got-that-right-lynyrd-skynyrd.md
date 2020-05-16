@@ -1,8 +1,11 @@
 ---
+album: Street Survivors
 artists:
 - Lynyrd Skynyrd
+external_ids:
+  spotify: spotify:track:2lLWfAW32oxUCv0iYQQwSX
 features: []
-genres: []
+first_released_as_single: false
 key: you-got-that-right-lynyrd-skynyrd
 lyrics_url: https://genius.com/Lynyrd-skynyrd-you-got-that-right-lyrics
 name: You Got That Right
@@ -23,6 +26,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1978-05-06'
+release_year: 1977
+runtime: 227293
 ---
 Well I've heard lots of people say
 They're going to settle down

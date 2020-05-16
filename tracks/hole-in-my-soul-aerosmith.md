@@ -1,8 +1,11 @@
 ---
+album: Nine Lives
 artists:
 - Aerosmith
+external_ids:
+  spotify: spotify:track:7kPuCwBWgXy5TGfgwNUKwV
 features: []
-genres: []
+first_released_as_single: false
 key: hole-in-my-soul-aerosmith
 lyrics_url: https://www.azlyrics.com/lyrics/aerosmith/holeinmysoul.html
 name: Hole In My Soul
@@ -51,8 +54,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1997-11-01'
+release_year: 1997
+runtime: 370093
 ---
-
 I'm down a one way street 
 With a one night stand 
 With a one track mind 
@@ -122,6 +126,3 @@ There's a hole in my soul
 Yeah, I should have known better 
 'Cause your love's like a thorn 
 Without a rose
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Red
 artists:
 - Taylor Swift
+external_ids:
+  spotify: spotify:track:1RvQQGwaPipiNgz8RXAKA8
 features: []
-genres: []
+first_released_as_single: false
 key: red-taylor-swift
 lyrics_url: https://genius.com/Taylor-swift-red-lyrics
 name: Red
@@ -95,6 +98,8 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '2013-12-14'
+release_year: 2012
+runtime: 220826
 ---
 Loving him is like driving a new Maserati
 Down a dead-end street

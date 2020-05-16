@@ -1,8 +1,11 @@
 ---
+album: London Calling
 artists:
 - The Clash
+external_ids:
+  spotify: spotify:track:6ITuEsxEy2qPhqMowdDAeI
 features: []
-genres: []
+first_released_as_single: false
 key: train-in-vain--stand-by-me--the-clash
 lyrics_url: https://genius.com/The-clash-train-in-vain-lyrics
 name: Train In Vain (Stand By Me)
@@ -63,6 +66,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1980-06-21'
+release_year: 1979
+runtime: 194666
 ---
 You say you stand by your man
 So tell me something I don't understand

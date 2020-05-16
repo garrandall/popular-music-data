@@ -1,8 +1,11 @@
 ---
+album: Libra Scale
 artists:
 - Ne-Yo
+external_ids:
+  spotify: spotify:track:7p8l7HiPoz90dg423iURKW
 features: []
-genres: []
+first_released_as_single: false
 key: champagne-life-ne-yo
 lyrics_url: https://www.azlyrics.com/lyrics/neyo/champagnelife.html
 name: Champagne Life
@@ -39,8 +42,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2010-09-25'
+release_year: 2010
+runtime: 323933
 ---
-
 Yes, it was a beautiful day 
 It's gone be a beautiful night 
 Break out the champagne 
@@ -114,6 +118,3 @@ Living the champagne life, everything's okay
 Let's toast it up (Whoo) 
 Baby, let's toast it up (Whoo) 
 Champagne life
-
-
-

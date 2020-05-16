@@ -1,8 +1,11 @@
 ---
+album: Ringo
 artists:
 - Ringo Starr
+external_ids:
+  spotify: spotify:track:1hwN2eAwsXgktvw9Qe8TrP
 features: []
-genres: []
+first_released_as_single: false
 key: photograph-ringo-starr
 lyrics_url: https://www.azlyrics.com/lyrics/ringostarr/photograph.html
 name: Photograph
@@ -71,8 +74,9 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '1974-01-19'
+release_year: 1973
+runtime: 239760
 ---
-
 Every time I see your face,
 It reminds me of the places we used to go.
 But all I got is a photograph
@@ -109,6 +113,3 @@ Every time I see your face,
 It reminds me of the places we used to go.
 But all I got is a photograph
 And I realise you're not.
-
-
-

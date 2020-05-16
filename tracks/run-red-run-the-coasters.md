@@ -1,8 +1,11 @@
 ---
+album: Coast Along With The Coasters
 artists:
 - The Coasters
+external_ids:
+  spotify: spotify:track:00JWHewRnWHruotnPxON0z
 features: []
-genres: []
+first_released_as_single: false
 key: run-red-run-the-coasters
 lyrics_url: https://www.azlyrics.com/lyrics/coasters/runredrun.html
 name: Run Red Run
@@ -39,8 +42,9 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1960-02-08'
+release_year: 1959
+runtime: 172440
 ---
-
 Oh, Red went and bought himself a monkey
 Got him from a pawn shop broker
 Taught that monkey how to guzzle beer
@@ -87,6 +91,3 @@ Run Red run, because he's got your gun
 And he's aiming it at your head
 You better get up and wail
 You better move your tail before he fills it full of lead
-
-
-

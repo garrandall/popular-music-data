@@ -1,9 +1,12 @@
 ---
+album: Platinum
 artists:
 - Miranda Lambert
 - Carrie Underwood
+external_ids:
+  spotify: spotify:track:6s9m5J92By7jii22Q2XtY2
 features: []
-genres: []
+first_released_as_single: false
 key: somethin--bad-miranda-lambert-carrie-underwood
 lyrics_url: https://genius.com/Miranda-lambert-somethin-bad-lyrics
 name: Somethin' Bad
@@ -88,6 +91,8 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '2014-10-18'
+release_year: 2014
+runtime: 169586
 ---
 Stand on the bar, stomp your feet, start clapping
 Got a real good feeling somethin' bad about to happen

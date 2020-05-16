@@ -1,8 +1,11 @@
 ---
+album: Private Dancer (30th Anniversary Issue)
 artists:
 - Tina Turner
+external_ids:
+  spotify: spotify:track:19DVNifOaTnuP0iq1kTqgW
 features: []
-genres: []
+first_released_as_single: false
 key: let-s-stay-together-tina-turner
 lyrics_url: https://www.azlyrics.com/lyrics/tinaturner/letsstaytogether.html
 name: Let's Stay Together
@@ -67,8 +70,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1984-04-28'
+release_year: 1984
+runtime: 316746
 ---
-
 LET ME SAY SINCE
 SINCE WE`VE BEEN TOGETHER
 LOVING YOU FOREVER
@@ -99,6 +103,3 @@ I JUST CAME TO SEE
 YOU`D NEVER DO THAT TO ME, WOULD YA BABY
 BEING AROUND YOU IS ALL I SEE
 OH BABY
-
-
-

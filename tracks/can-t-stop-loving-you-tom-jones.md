@@ -1,8 +1,11 @@
 ---
+album: Live! At The Talk Of The Town
 artists:
 - Tom Jones
+external_ids:
+  spotify: spotify:track:2AhyIhMuC7iFxcdiJ82ZJB
 features: []
-genres: []
+first_released_as_single: false
 key: can-t-stop-loving-you-tom-jones
 lyrics_url: https://genius.com/Tom-jones-cant-stop-loving-you-lyrics
 name: Can't Stop Loving You
@@ -39,6 +42,8 @@ rankings:
   rank: 34
   ranking_list: Billboard Hot 100
   start_date: '1971-01-09'
+release_year: 1967
+runtime: 188253
 ---
 I watch the leaves falling to the ground
 I'm walking up and down the streets of my hometown

@@ -1,8 +1,9 @@
 ---
 artists:
-- Grand Master Melle Mel And The Furious Five With Mr Ness
+- Grandmaster Melle Mel & The Furious 5
+features:
 - Cowboy
-features: []
+- Mr. Ness
 genres: []
 key: beatstreet-grand-master-melle-mel-and-the-furious-five-with-mr-ness-cowboy
 name: Beatstreet

@@ -1,9 +1,12 @@
 ---
+album: What Dreams Are Made Of
 artists:
 - R. City
+external_ids:
+  spotify: spotify:track:0sQLhT32E9ZG2zn5iYR6nN
 features:
 - Adam Levine
-genres: []
+first_released_as_single: true
 key: locked-away-r--city-adam-levine
 lyrics_url: https://www.azlyrics.com/lyrics/rcity/lockedaway.html
 name: Locked Away
@@ -116,9 +119,9 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2016-02-06'
+release_year: 2015
+runtime: 227280
 ---
-
-
 If I got locked away,
 And we lost it all today,
 Tell me honestly,
@@ -238,6 +241,3 @@ Tell me honestly,
 Would you still love me the same?
 
 Would you still love me the same?
-
-
-

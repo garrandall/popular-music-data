@@ -1,8 +1,11 @@
 ---
+album: Music Inspired By Star Wars And Other Galactic Funk
 artists:
 - Meco
+external_ids:
+  spotify: spotify:track:4MVA30NmvNtpbDon1ZG7mk
 features: []
-genres: []
+first_released_as_single: false
 key: star-wars-theme-meco
 name: Star Wars Theme
 rankings:
@@ -86,5 +89,7 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1977-12-17'
+release_year: 1977
+runtime: 212306
 ---
 

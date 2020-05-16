@@ -1,8 +1,11 @@
 ---
+album: Heartbreaker
 artists:
 - Dionne Warwick
+external_ids:
+  spotify: spotify:track:3iMLRCGHLQ135LtMjKLkO8
 features: []
-genres: []
+first_released_as_single: false
 key: heartbreaker-dionne-warwick
 lyrics_url: https://www.azlyrics.com/lyrics/dionnewarwick/heartbreaker.html
 name: Heartbreaker
@@ -95,8 +98,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1983-03-05'
+release_year: 1982
+runtime: 258266
 ---
-
 I got to say it and it's hard for me
 You got me crying like I thought I would never be
 Love is believing, but you let me down 
@@ -150,6 +154,3 @@ Suddenly everything I ever wanted
 Has passed me by
 
 Tell me, why do you have to be a heartbreaker
-
-
-

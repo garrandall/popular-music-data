@@ -1,8 +1,11 @@
 ---
+album: It Just Comes Natural
 artists:
 - George Strait
+external_ids:
+  spotify: spotify:track:2DmBuFsXx1Pd5FHrMF8PD8
 features: []
-genres: []
+first_released_as_single: false
 key: it-just-comes-natural-george-strait
 lyrics_url: https://www.azlyrics.com/lyrics/georgestrait/itjustcomesnatural.html
 name: It Just Comes Natural
@@ -83,8 +86,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2007-03-24'
+release_year: 2006
+runtime: 176426
 ---
-
 Sun shines, clouds rain
 Train whistles blow and guitars play
 Preachers preach, farmers plow
@@ -116,6 +120,3 @@ And I love you, it just comes natural
 And I love you, it just comes natural
 It just comes natural
 It just comes natural
-
-
-

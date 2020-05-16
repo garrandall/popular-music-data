@@ -1,8 +1,11 @@
 ---
+album: Up Through the Years
 artists:
 - Jim Reeves
+external_ids:
+  spotify: spotify:track:3JfKdrHzehZBODae31SDyx
 features: []
-genres: []
+first_released_as_single: false
 key: i-know-one-jim-reeves
 lyrics_url: https://genius.com/Jim-reeves-i-know-one-lyrics
 name: I Know One
@@ -15,6 +18,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1960-08-22'
+release_year: 1960
+runtime: 125413
 ---
 When all your loves have ended
 When all your friends have flown

@@ -1,8 +1,11 @@
 ---
+album: Richard Harris & Scott English Greatest Hits
 artists:
 - Scott English
+external_ids:
+  spotify: spotify:track:0k5nX8Akipz5DnBmo56UmQ
 features: []
-genres: []
+first_released_as_single: false
 key: brandy-scott-english
 lyrics_url: https://genius.com/Scott-english-brandy-lyrics
 name: Brandy
@@ -15,6 +18,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1972-03-11'
+release_year: 1972
+runtime: 178510
 ---
 I remember all my life
 Raining down as cold as ice

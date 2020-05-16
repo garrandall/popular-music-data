@@ -1,8 +1,11 @@
 ---
+album: Minutes to Midnight
 artists:
 - Linkin Park
+external_ids:
+  spotify: spotify:track:0UFDKFqW2oGspYeYqo9wjA
 features: []
-genres: []
+first_released_as_single: false
 key: bleed-it-out-linkin-park
 lyrics_url: https://www.azlyrics.com/lyrics/linkinpark/bleeditout.html
 name: Bleed It Out
@@ -87,9 +90,9 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '2007-12-29'
+release_year: 2007
+runtime: 166373
 ---
-
-
 Yeah here we go for the hundredth time
 Hand grenade pins in every line
 Throw 'em up and let something shine
@@ -179,6 +182,3 @@ Just to throw it away
 I bleed it out
 I bleed it out
 I bleed it out
-
-
-

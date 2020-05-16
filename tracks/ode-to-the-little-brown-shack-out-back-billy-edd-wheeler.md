@@ -1,8 +1,11 @@
 ---
+album: Listen To A Country Song
 artists:
 - Billy Edd Wheeler
+external_ids:
+  spotify: spotify:track:7GLIZPbDYG1TW830vMWMXH
 features: []
-genres: []
+first_released_as_single: false
 key: ode-to-the-little-brown-shack-out-back-billy-edd-wheeler
 lyrics_url: https://genius.com/Billy-edd-wheeler-ode-to-the-little-brown-shack-out-back-lyrics
 name: Ode To The Little Brown Shack Out Back
@@ -35,6 +38,8 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1965-02-13'
+release_year: 1965
+runtime: 170880
 ---
 They passed an ordinance in the town
 They said we'd have to tear it down

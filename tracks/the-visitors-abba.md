@@ -1,8 +1,11 @@
 ---
+album: The Visitors
 artists:
 - ABBA
+external_ids:
+  spotify: spotify:track:6xbjYuZ6rneoXLqW8YngPk
 features: []
-genres: []
+first_released_as_single: false
 key: the-visitors-abba
 lyrics_url: https://www.azlyrics.com/lyrics/abba/thevisitors.html
 name: The Visitors
@@ -39,8 +42,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1982-06-05'
+release_year: 1981
+runtime: 347231
 ---
-
 I hear the door-bell ring and suddenly the panic takes me
 The sound so ominously tearing through the silence
 I cannot move, I'm standing
@@ -124,4 +128,3 @@ Crackin' up
 My whole world is falling, going crazy
 There is no escaping now, I'm
 Crackin' up
-

@@ -1,9 +1,12 @@
 ---
+album: Beautiful Thugger Girls
 artists:
 - Young Thug
+external_ids:
+  spotify: spotify:track:25oOaleife6E2MIKmFkPvg
 features:
 - Future
-genres: []
+first_released_as_single: false
 key: relationship-young-thug-future
 lyrics_url: https://www.azlyrics.com/lyrics/youngthug/relationship.html
 name: Relationship
@@ -64,9 +67,9 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '2017-12-09'
+release_year: 2017
+runtime: 215306
 ---
-
-
 Shinin' hard 'cause we back up
 Rose gold from your neck up
 You know you gon' get stopped tryna check us
@@ -156,6 +159,3 @@ I know how to make the girls go crazy
 When you treat her like your number one baby
 Put my bitches on yachts, we don't do jet-skis
 Put your ice on rocks, they need to help me
-
-
-

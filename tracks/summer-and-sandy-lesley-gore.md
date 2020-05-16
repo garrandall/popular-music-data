@@ -1,8 +1,11 @@
 ---
+album: 'It''s My Party: The Mercury Anthology'
 artists:
 - Lesley Gore
+external_ids:
+  spotify: spotify:track:2DhCsY4wgd0hRBQsbdaVeB
 features: []
-genres: []
+first_released_as_single: false
 key: summer-and-sandy-lesley-gore
 lyrics_url: https://genius.com/Lesley-gore-summer-and-sandy-lyrics
 name: Summer And Sandy
@@ -35,6 +38,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1967-07-22'
+release_year: 1967
+runtime: 175933
 ---
 Oh what a day to take a ride, my baby's by my side
 Top down, beach bound

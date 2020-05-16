@@ -1,8 +1,11 @@
 ---
+album: The Best Of Dinah Washington
 artists:
 - Dinah Washington
+external_ids:
+  spotify: spotify:track:4sSxnpBFDcLofrrllTOl0C
 features: []
-genres: []
+first_released_as_single: false
 key: you-re-nobody--til-somebody-loves-you-dinah-washington
 lyrics_url: https://www.musixmatch.com/lyrics/Dinah-Washington/You-re-Nobody-Til-Somebody-Loves-You-2
 name: You're Nobody 'til Somebody Loves You
@@ -11,6 +14,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1962-05-12'
+release_year: 1962
+runtime: 167533
 ---
 You're a nobody till somebody loves you
 You're nobody till somebody cares

@@ -1,8 +1,11 @@
 ---
+album: Music Inspired by The Godfather
 artists:
 - Al Martino
+external_ids:
+  spotify: spotify:track:6c5Psgve5SamicWoWr686A
 features: []
-genres: []
+first_released_as_single: false
 key: speak-softly-love-al-martino
 lyrics_url: https://genius.com/Al-martino-speak-softly-love-lyrics
 name: Speak Softly Love
@@ -23,6 +26,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1972-05-20'
+release_year: 1972
+runtime: 185933
 ---
 Speak softly love
 And hold me warm against your heart

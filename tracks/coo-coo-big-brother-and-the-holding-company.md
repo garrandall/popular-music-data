@@ -1,8 +1,11 @@
 ---
+album: Big Brother & The Holding Company
 artists:
 - Big Brother And The Holding Company
+external_ids:
+  spotify: spotify:track:5PEEbmeELam84bKuxZsoj2
 features: []
-genres: []
+first_released_as_single: false
 key: coo-coo-big-brother-and-the-holding-company
 lyrics_url: https://genius.com/Big-brother-and-the-holding-company-coo-coo-lyrics
 name: Coo Coo
@@ -19,6 +22,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1968-12-07'
+release_year: 1967
+runtime: 116360
 ---
 Oh, the Coo Coo, she's a pretty bird
 And she warbles when she flies

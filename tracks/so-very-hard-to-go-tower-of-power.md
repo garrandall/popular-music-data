@@ -1,8 +1,11 @@
 ---
+album: Tower Of Power
 artists:
 - Tower Of Power
+external_ids:
+  spotify: spotify:track:55iDwZfpaU7ytsadT7BDVE
 features: []
-genres: []
+first_released_as_single: false
 key: so-very-hard-to-go-tower-of-power
 lyrics_url: https://www.azlyrics.com/lyrics/towerofpower/soveryhardtogo.html
 name: So Very Hard To Go
@@ -79,8 +82,9 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '1973-09-01'
+release_year: 1973
+runtime: 217240
 ---
-
 Ain't nothin' I can say
 Nothin' I can do
 I feel so bad, yeah
@@ -133,6 +137,3 @@ So very hard to go
 It ain't easy to walk away when a man loves somebody
 So very hard to go
 Hey, hey...
-
-
-

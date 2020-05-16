@@ -1,8 +1,11 @@
 ---
+album: The Legendary Masters Series
 artists:
 - Gary Lewis And The Playboys
+external_ids:
+  spotify: spotify:track:5KghGGIsAWFi0vmOcl8jIL
 features: []
-genres: []
+first_released_as_single: false
 key: the-loser--with-a-broken-heart--gary-lewis-and-the-playboys
 lyrics_url: https://genius.com/Gary-lewis-and-the-playboys-the-loser-with-a-broken-heart-lyrics
 name: The Loser (With A Broken Heart)
@@ -31,6 +34,8 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '1967-04-15'
+release_year: 1967
+runtime: 139360
 ---
 Have I got the right to call myself a man
 Or will I go livin' up to my name again?

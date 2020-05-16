@@ -1,8 +1,11 @@
 ---
+album: Boyz N The Hood
 artists:
 - Tevin Campbell
+external_ids:
+  spotify: spotify:track:0gzjfF1qKORte5h0kKHQfB
 features: []
-genres: []
+first_released_as_single: false
 key: just-ask-me-to-tevin-campbell
 lyrics_url: https://www.azlyrics.com/lyrics/tevincampbell/justaskmeto.html
 name: Just Ask Me To
@@ -27,9 +30,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1991-09-07'
+release_year: 1991
+runtime: 248040
 ---
-
-
 You know it G
 First of all let's make it clear, I'm a strong young man
 Takin no shorts ya see, yeah
@@ -110,6 +113,3 @@ Cause I'm the T to the E to the V to the I to the N, baby
 Ayyyyyyyyyyyyyyyyyyyyyyyy
 Awwww yeahhhhhhhhhhh yeahhh yeahhhhhhhhhhh babe
 Audi 5000, peace!
-
-
-

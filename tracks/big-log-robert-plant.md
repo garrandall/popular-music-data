@@ -1,8 +1,11 @@
 ---
+album: The Principle of Moments
 artists:
 - Robert Plant
+external_ids:
+  spotify: spotify:track:7257drAN3eTtaaUUPw95B3
 features: []
-genres: []
+first_released_as_single: false
 key: big-log-robert-plant
 lyrics_url: https://www.azlyrics.com/lyrics/robertplant/biglog.html
 name: Big Log
@@ -71,8 +74,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1983-11-19'
+release_year: 1983
+runtime: 306453
 ---
-
 My love is in league with the freeway
 Its passion will ride, as the cities fly by
 And the taillights dissolve, in the coming of night
@@ -99,6 +103,3 @@ My love is in league with the freeway
 Oh the freeway, and the coming of night-time
 My love
 My love is in league with the freeway
-
-
-

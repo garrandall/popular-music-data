@@ -1,8 +1,11 @@
 ---
+album: Chess Divas
 artists:
 - Laura Lee
+external_ids:
+  spotify: spotify:track:0762EAuTa9SF0BzPEqbL7w
 features: []
-genres: []
+first_released_as_single: false
 key: dirty-man-laura-lee
 lyrics_url: https://genius.com/Laura-lee-dirty-man-lyrics
 name: Dirty Man
@@ -35,6 +38,8 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1967-11-04'
+release_year: 1967
+runtime: 175640
 ---
 You're a dirty, dirty man
 And you gotta dirty mind

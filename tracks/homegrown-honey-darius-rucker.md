@@ -1,8 +1,11 @@
 ---
+album: Southern Style
 artists:
 - Darius Rucker
+external_ids:
+  spotify: spotify:track:15WoYaFanAymIZuebfxvOt
 features: []
-genres: []
+first_released_as_single: false
 key: homegrown-honey-darius-rucker
 lyrics_url: https://genius.com/Darius-rucker-homegrown-honey-lyrics
 name: Homegrown Honey
@@ -87,6 +90,8 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '2015-04-25'
+release_year: 2014
+runtime: 204893
 ---
 Sitting at a bar in New York City
 Everybody here looking New York pretty

@@ -1,8 +1,11 @@
 ---
+album: The Hits Of The Halos
 artists:
 - The Halos
+external_ids:
+  spotify: spotify:track:179DEv4E4pbw8AmQWw7UEw
 features: []
-genres: []
+first_released_as_single: false
 key: nag-the-halos
 lyrics_url: https://www.musixmatch.com/lyrics/The-Halos/Nag
 name: Nag
@@ -51,5 +54,7 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '1961-09-25'
+release_year: 1961
+runtime: 211106
 ---
 Nagthe halos(crier)oh baby you're a nag (nag, naggedy nag)you're a nag, you're a nag, you're a nagewould you go do this, and go do that? nagyou're always tellin' me a what to doi just can't seem to get a rid of youyou order me around just like a slaveyou're gonna send me to an early gravewould you go fix the bacon, go for the cokes"and rush down to the butcher shop and buy me a roast" (spoken)when is the naggin ever gonna stop? you always seem to be a blowin your topone of these days I'm gonna loose my mindjump out the window then i'll feel real fineif you go do this and go do thatand wash up all the dishes and don't talk back when I married you, you were so sweetnow you give me the bread and take all the meat (1)you're always screamin' a hollerin' loudi'm gonna buy me a ticket to the nearest cloudi don't know what to do you make me madand when I leave this place i'll sure be glad (2)you're workin' me a just a just a like a horse I guess you think you mustabe my boss with a go do this and go do that, nagrepeat 1 & 2note: lyric may not be exactfrom: awcantor@aol.com

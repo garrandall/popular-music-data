@@ -1,9 +1,12 @@
 ---
+album: 'Many Years Ago: The Complete Robin Lane & The Chartbusters Album Collection'
 artists:
 - Robin Lane
 - The Chartbusters
+external_ids:
+  spotify: spotify:track:4IeFiZPqw516eZwXBlOZUT
 features: []
-genres: []
+first_released_as_single: false
 key: when-things-go-wrong-robin-lane-the-chartbusters
 lyrics_url: https://www.musixmatch.com/lyrics/Robin-Lane-The-Chartbusters/When-Things-Go-Wrong
 name: When Things Go Wrong
@@ -20,6 +23,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1980-07-26'
+release_year: 1980
+runtime: 195320
 ---
 When things go wrong
 Don't walk away

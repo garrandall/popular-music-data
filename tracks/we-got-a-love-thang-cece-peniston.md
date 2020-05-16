@@ -1,8 +1,11 @@
 ---
+album: Finally
 artists:
 - CeCe Peniston
+external_ids:
+  spotify: spotify:track:1Z1BvDuDYOaQaQtoeCDSuA
 features: []
-genres: []
+first_released_as_single: false
 key: we-got-a-love-thang-cece-peniston
 lyrics_url: https://genius.com/Cece-peniston-we-got-a-love-thang-lyrics
 name: We Got A Love Thang
@@ -87,6 +90,8 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1992-06-13'
+release_year: 1992
+runtime: 328800
 ---
 Oh!
 Oh yeah

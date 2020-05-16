@@ -1,8 +1,11 @@
 ---
+album: What This Country Needs
 artists:
 - Aaron Tippin
+external_ids:
+  spotify: spotify:track:0A9UuGGkuYnRy9JqMBSAWb
 features: []
-genres: []
+first_released_as_single: false
 key: for-you-i-will-aaron-tippin
 lyrics_url: https://genius.com/Aaron-tippin-for-you-i-will-lyrics
 name: For You I Will
@@ -87,6 +90,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1999-02-20'
+release_year: 1998
+runtime: 211733
 ---
 It's not my style to dance away the night
 Or go for a walk beneath the full moonlight

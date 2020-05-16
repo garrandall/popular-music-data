@@ -1,8 +1,11 @@
 ---
+album: Mind, Body & Soul
 artists:
 - Jade
+external_ids:
+  spotify: spotify:track:3v0bBQ6hWx4TXyn1YrU9A6
 features: []
-genres: []
+first_released_as_single: false
 key: every-day-of-the-week-jade
 lyrics_url: https://www.azlyrics.com/lyrics/jade/everydayoftheweek.html
 name: Every Day Of The Week
@@ -95,8 +98,9 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1995-04-22'
+release_year: 1994
+runtime: 277586
 ---
-
 Oh.. whoa... oh... oh... oh...
 Oh, yeah
 
@@ -202,6 +206,3 @@ Every day of the week (Oh... oh... oh...)
 Monday, Tuesday, Wednesday, Thursday, Friday, Saturday
 Even on Sunday
 Every day of the week
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Silk Degrees
 artists:
 - Boz Scaggs
+external_ids:
+  spotify: spotify:track:2NtqZmfRIDkXJ2YvY2Kv1F
 features: []
-genres: []
+first_released_as_single: false
 key: lido-shuffle-boz-scaggs
 lyrics_url: https://www.azlyrics.com/lyrics/bozscaggs/lidoshuffle.html
 name: Lido Shuffle
@@ -75,8 +78,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1977-07-02'
+release_year: 1976
+runtime: 221613
 ---
-
 Lido missed the boat that day
 He left the shack
 But that was all he missed
@@ -132,6 +136,3 @@ He's for the money
 He's for the show
 Lido's a waitin' for the go
 Lido.. woah oh oh oh
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Sandie
 artists:
 - Sandie Shaw
+external_ids:
+  spotify: spotify:track:1E8CY49nTVEqtVIepM8aq2
 features: []
-genres: []
+first_released_as_single: false
 key: girl-don-t-come-sandie-shaw
 lyrics_url: https://genius.com/Sandie-shaw-girl-dont-come-lyrics
 name: Girl Don't Come
@@ -43,6 +46,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1965-05-01'
+release_year: 1965
+runtime: 133600
 ---
 You have a date for half past eight tonight
 Some distant bell starts chimin' nine

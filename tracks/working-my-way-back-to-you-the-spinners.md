@@ -1,8 +1,11 @@
 ---
+album: Dancin' And Lovin'
 artists:
 - The Spinners
+external_ids:
+  spotify: spotify:track:5OU4PqYhwypDsiviprGhSy
 features: []
-genres: []
+first_released_as_single: false
 key: working-my-way-back-to-you-the-spinners
 lyrics_url: https://genius.com/The-spinners-working-my-way-back-to-you-lyrics
 name: Working My Way Back To You
@@ -107,6 +110,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1980-05-31'
+release_year: 1979
+runtime: 243200
 ---
 Oh, oh-oh
 

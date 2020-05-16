@@ -1,8 +1,11 @@
 ---
+album: Young, Rich & Dangerous
 artists:
 - Kris Kross
+external_ids:
+  spotify: spotify:track:38bTjekNUk3TMLeJbQmQ4H
 features: []
-genres: []
+first_released_as_single: false
 key: tonite-s-tha-night-kris-kross
 lyrics_url: https://genius.com/Kris-kross-tonites-tha-night-lyrics
 name: Tonite's Tha Night
@@ -87,6 +90,8 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '1996-04-20'
+release_year: 1992
+runtime: 203066
 ---
 Shhhhhhhhh
 Kris Kross

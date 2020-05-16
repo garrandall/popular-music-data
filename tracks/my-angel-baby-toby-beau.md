@@ -1,8 +1,11 @@
 ---
+album: The 70s One Hit Wonder Collection
 artists:
 - Toby Beau
+external_ids:
+  spotify: spotify:track:7kg7yWXkgN0qjyahaCiIs3
 features: []
-genres: []
+first_released_as_single: false
 key: my-angel-baby-toby-beau
 lyrics_url: https://genius.com/Toby-beau-my-angel-baby-lyrics
 name: My Angel Baby
@@ -75,6 +78,8 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '1978-09-23'
+release_year: 1978
+runtime: 209782
 ---
 We've got Troubles
 Something's just not right

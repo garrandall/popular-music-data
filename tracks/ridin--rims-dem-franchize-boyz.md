@@ -1,8 +1,11 @@
 ---
+album: On Top Of Our Game
 artists:
 - Dem Franchize Boyz
+external_ids:
+  spotify: spotify:track:4o568kdkDntTDuQTJfMIxa
 features: []
-genres: []
+first_released_as_single: false
 key: ridin--rims-dem-franchize-boyz
 lyrics_url: https://genius.com/Dem-franchize-boyz-ridin-rims-lyrics
 name: Ridin' Rims
@@ -31,6 +34,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2006-07-15'
+release_year: 2006
+runtime: 323960
 ---
 Yeah nigga (young juve) all you niggas, (you all know what this is)
 We don't ride these no more nigga

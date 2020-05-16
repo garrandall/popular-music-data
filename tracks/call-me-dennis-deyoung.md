@@ -1,8 +1,11 @@
 ---
+album: 'Ultimate Collection: Dennis DeYoung'
 artists:
 - Dennis DeYoung
+external_ids:
+  spotify: spotify:track:5icgnsjQiYwiEq8i0YoGM5
 features: []
-genres: []
+first_released_as_single: false
 key: call-me-dennis-deyoung
 lyrics_url: https://www.azlyrics.com/lyrics/dennisdeyoung/callme.html
 name: Call Me
@@ -51,8 +54,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1986-05-24'
+release_year: 1986
+runtime: 285600
 ---
-
 Rain began to fall softly
 Gazed around the room
 Even now she wondered what went wrong
@@ -103,6 +107,3 @@ Only seven numbers on the phone
 Maybe we can talk things over
 You're never that far from home
 No, no, no owooh oh, owooh oh baby
-
-
-

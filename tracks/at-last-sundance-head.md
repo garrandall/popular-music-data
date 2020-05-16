@@ -1,8 +1,11 @@
 ---
+album: The Complete Season 11 Collection (The Voice Performance)
 artists:
 - Sundance Head
+external_ids:
+  spotify: spotify:track:6FDqlXpko4R2CW2id2IK2T
 features: []
-genres: []
+first_released_as_single: false
 key: at-last-sundance-head
 lyrics_url: https://www.musixmatch.com/lyrics/Sundance-Head/At-Last-The-Voice-Performance
 name: At Last
@@ -11,6 +14,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2016-12-31'
+release_year: 2016
+runtime: 207853
 ---
 At last
 My love has come along

@@ -1,8 +1,11 @@
 ---
+album: Amazing Hits Of The Transistor Era Vol. 1
 artists:
 - Denny Reed
+external_ids:
+  spotify: spotify:track:6V76ONUZMavBZa4jLSZHd8
 features: []
-genres: []
+first_released_as_single: false
 key: a-teenager-feels-it-too-denny-reed
 lyrics_url: https://www.musixmatch.com/lyrics/Denny-Reed/A-Teenager-Feels-It-Too
 name: A Teenager Feels It Too
@@ -19,6 +22,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1960-09-12'
+release_year: 1960
+runtime: 127800
 ---
 Do you think just because you're older
 You're among the chosen few

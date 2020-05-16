@@ -1,8 +1,11 @@
 ---
+album: Paula
 artists:
 - Robin Thicke
+external_ids:
+  spotify: spotify:track:231O3DltLcwtgIKoNbMkrt
 features: []
-genres: []
+first_released_as_single: false
 key: get-her-back-robin-thicke
 lyrics_url: https://genius.com/Robin-thicke-get-her-back-lyrics
 name: Get Her Back
@@ -11,6 +14,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '2014-07-12'
+release_year: 2014
+runtime: 213173
 ---
 (All I wanna do)
 Is keep it light, keep it light

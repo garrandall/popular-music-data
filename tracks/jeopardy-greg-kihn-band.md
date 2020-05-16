@@ -1,8 +1,11 @@
 ---
+album: Kihnspiracy
 artists:
 - Greg Kihn Band
+external_ids:
+  spotify: spotify:track:7LmDmvqagpX0PKxveGtZTa
 features: []
-genres: []
+first_released_as_single: false
 key: jeopardy-greg-kihn-band
 lyrics_url: https://www.azlyrics.com/lyrics/gregkihnband/jeopardy.html
 name: Jeopardy
@@ -95,8 +98,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1983-06-25'
+release_year: 1983
+runtime: 229653
 ---
-
 Where were you
 When we needed you
 Well you could not be found
@@ -149,6 +153,3 @@ Oh-oh-oh
 Our love's in jeopardy (jeopardy), baby
 Oh-oh-oh
 Love's in jeopardy, baby
-
-
-

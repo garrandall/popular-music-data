@@ -1,8 +1,11 @@
 ---
+album: The Gambler
 artists:
 - Kenny Rogers
+external_ids:
+  spotify: spotify:track:5KqldkCunQ2rWxruMEtGh0
 features: []
-genres: []
+first_released_as_single: false
 key: the-gambler-kenny-rogers
 lyrics_url: https://www.azlyrics.com/lyrics/kennyrogers/thegambler.html
 name: The Gambler
@@ -95,8 +98,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1979-03-31'
+release_year: 1978
+runtime: 214880
 ---
-
 On a warm summer's evening
 On a train bound for nowhere
 I met up with a gambler
@@ -179,6 +183,3 @@ You never count your money
 When you're sittin' at the table
 There'll be time enough for countin'
 When the dealing's done
-
-
-

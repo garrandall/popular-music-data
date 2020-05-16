@@ -1,8 +1,11 @@
 ---
+album: Nobody But Me
 artists:
 - The Human Beinz
+external_ids:
+  spotify: spotify:track:4KLxv1kzZobz0WaLj0Anrt
 features: []
-genres: []
+first_released_as_single: false
 key: turn-on-your-love-light-the-human-beinz
 lyrics_url: https://genius.com/Human-beinz-turn-on-your-love-light-lyrics
 name: Turn On Your Love Light
@@ -27,6 +30,8 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '1968-04-06'
+release_year: 1968
+runtime: 136666
 ---
 Without a warnin'
 You broke my heart

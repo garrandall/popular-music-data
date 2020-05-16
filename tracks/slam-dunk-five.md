@@ -1,8 +1,11 @@
 ---
+album: 5ive
 artists:
 - Five
+external_ids:
+  spotify: spotify:track:01ecEJviZvkQnQ1q6EHxZH
 features: []
-genres: []
+first_released_as_single: false
 key: slam-dunk-five
 lyrics_url: https://www.musixmatch.com/lyrics/Five/Slam-Dunk-Da-Funk
 name: Slam Dunk
@@ -15,6 +18,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1999-04-24'
+release_year: 1998
+runtime: 216800
 ---
 Five bad boys with the power to rock you
 Blowing your mind so you gotta get into

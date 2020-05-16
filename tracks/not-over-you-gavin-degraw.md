@@ -1,8 +1,11 @@
 ---
+album: Sweeter
 artists:
 - Gavin DeGraw
+external_ids:
+  spotify: spotify:track:6j7hih15xG2cdYwIJnQXsq
 features: []
-genres: []
+first_released_as_single: false
 key: not-over-you-gavin-degraw
 lyrics_url: https://genius.com/Gavin-degraw-not-over-you-lyrics
 name: Not Over You
@@ -147,6 +150,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2012-04-21'
+release_year: 2011
+runtime: 218520
 ---
 Dreams: that's where I have to go
 To see your beautiful face anymore

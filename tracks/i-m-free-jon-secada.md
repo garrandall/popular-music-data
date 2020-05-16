@@ -1,8 +1,11 @@
 ---
+album: Jon Secada
 artists:
 - Jon Secada
+external_ids:
+  spotify: spotify:track:2UfAxAPFNHkpArkEhBbyd4
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-free-jon-secada
 lyrics_url: https://genius.com/Jon-secada-im-free-lyrics
 name: I'm Free
@@ -87,6 +90,8 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1993-11-06'
+release_year: 1992
+runtime: 240866
 ---
 Do you see what I see
 A rainbow shining over us

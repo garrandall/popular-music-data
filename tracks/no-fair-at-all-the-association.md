@@ -1,8 +1,11 @@
 ---
+album: Renaissance
 artists:
 - The Association
+external_ids:
+  spotify: spotify:track:4iWWg5F3Tgp0xVJGd8BXqx
 features: []
-genres: []
+first_released_as_single: false
 key: no-fair-at-all-the-association
 lyrics_url: https://www.azlyrics.com/lyrics/association/nofairatall.html
 name: No Fair At All
@@ -35,8 +38,9 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '1967-03-18'
+release_year: 1966
+runtime: 157266
 ---
-
 I've never seen this side of you before
 Till now
 I never knew that you could feel this way
@@ -63,6 +67,3 @@ At all
 No fair at all
 
 No fair at all
-
-
-

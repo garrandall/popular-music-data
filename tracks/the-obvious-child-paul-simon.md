@@ -1,8 +1,11 @@
 ---
+album: The Rhythm Of The Saints
 artists:
 - Paul Simon
+external_ids:
+  spotify: spotify:track:1deWgqhgAzI6dY35TbKKh7
 features: []
-genres: []
+first_released_as_single: false
 key: the-obvious-child-paul-simon
 lyrics_url: https://www.azlyrics.com/lyrics/paulsimon/theobviouschild.html
 name: The Obvious Child
@@ -27,8 +30,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1991-01-12'
+release_year: 1990
+runtime: 250226
 ---
-
 I'm accustomed to a smooth ride
 Or maybe I'm a dog who's lost its bite
 I don't expect to be treated like a fool no more
@@ -81,6 +85,3 @@ I don't expect to sleep the night
 Some people say a lie is just a lie
 But I say the cross is in the ballpark
 Why deny the obvious child?
-
-
-

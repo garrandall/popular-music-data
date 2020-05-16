@@ -1,9 +1,12 @@
 ---
+album: In the Name of Love
 artists:
 - Martin Garrix
 - Bebe Rexha
+external_ids:
+  spotify: spotify:track:23L5CiUhw2jV1OIMwthR3S
 features: []
-genres: []
+first_released_as_single: true
 key: in-the-name-of-love-martin-garrix-bebe-rexha
 lyrics_url: https://genius.com/Martin-garrix-and-bebe-rexha-in-the-name-of-love-lyrics
 name: In The Name Of Love
@@ -100,6 +103,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '2017-02-04'
+release_year: 2016
+runtime: 195706
 ---
 If I told you this was only gonna hurt
 If I warned you that the fire's gonna burn

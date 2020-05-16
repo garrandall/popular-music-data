@@ -1,8 +1,11 @@
 ---
+album: People Like Us
 artists:
 - Aaron Tippin
+external_ids:
+  spotify: spotify:track:038jgLNIvp7QQNf5vILf5d
 features: []
-genres: []
+first_released_as_single: false
 key: kiss-this-aaron-tippin
 lyrics_url: https://genius.com/Aaron-tippin-kiss-this-lyrics
 name: Kiss This
@@ -87,6 +90,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2001-01-06'
+release_year: 2000
+runtime: 173760
 ---
 She was a woman on a mission
 Here to drown him and forget him

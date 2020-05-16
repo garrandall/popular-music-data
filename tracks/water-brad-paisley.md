@@ -1,8 +1,11 @@
 ---
+album: American Saturday Night
 artists:
 - Brad Paisley
+external_ids:
+  spotify: spotify:track:5z1T8M153gyxX6IKJemYX7
 features: []
-genres: []
+first_released_as_single: false
 key: water-brad-paisley
 lyrics_url: https://www.azlyrics.com/lyrics/bradpaisley/dontdrinkthewater.html
 name: Water
@@ -83,8 +86,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2010-09-04'
+release_year: 2009
+runtime: 261920
 ---
-
 Empty house, Empty Rooms, Empty bottle of Petron
 I need to go out but not around here
 There ain't nowhere we haven't gone
@@ -122,6 +126,3 @@ To Mexico to drink the water anyway
 
 No one I know goes to Mexico
 To drink the water anyway
-
-
-

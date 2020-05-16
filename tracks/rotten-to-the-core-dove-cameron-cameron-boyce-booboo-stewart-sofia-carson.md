@@ -1,11 +1,14 @@
 ---
+album: Descendants (Original TV Movie Soundtrack)
 artists:
 - Dove Cameron
 - Cameron Boyce
 - Booboo Stewart
 - Sofia Carson
+external_ids:
+  spotify: spotify:track:2bNxCVI4Fub8BAwr0CQDyd
 features: []
-genres: []
+first_released_as_single: false
 key: rotten-to-the-core-dove-cameron-cameron-boyce-booboo-stewart-sofia-carson
 lyrics_url: https://genius.com/Dove-cameron-sofia-carson-booboo-stewart-and-cameron-boyce-rotten-to-the-core-lyrics
 name: Rotten To The Core
@@ -34,6 +37,8 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '2015-09-26'
+release_year: 2015
+runtime: 162066
 ---
 They say I'm trouble, they say I'm bad
 They say I'm evil, and that makes me glad

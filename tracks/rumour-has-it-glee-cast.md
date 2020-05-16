@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music, Volume 7'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:5iYUt3rsgrGFU0nugdhYwj
 features: []
-genres: []
+first_released_as_single: false
 key: rumour-has-it-glee-cast
 lyrics_url: https://www.azlyrics.com/lyrics/gleecast/rumourhasitsomeonelikeyou.html
 name: Rumour Has It
@@ -19,8 +22,9 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '2011-12-17'
+release_year: 2011
+runtime: 207946
 ---
-
 She, she ain't real,
 She ain't gonna be able to love you like I will
 
@@ -75,6 +79,3 @@ Don't forget me, I beg
 I remember you said,
 Sometimes it lasts in love but sometimes it hurts instead,
 Sometimes it lasts in love but sometimes it hurts instead.
-
-
-

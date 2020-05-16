@@ -1,8 +1,11 @@
 ---
+album: Player
 artists:
 - Player
+external_ids:
+  spotify: spotify:track:0WEbxRkrGvgDQ5eBm6iH8n
 features: []
-genres: []
+first_released_as_single: false
 key: this-time-i-m-in-it-for-love-player
 lyrics_url: https://genius.com/Player-this-time-im-in-it-for-love-lyrics
 name: This Time I'm In It For Love
@@ -75,6 +78,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1978-07-01'
+release_year: 1977
+runtime: 265221
 ---
 I heard the weatherman
 Predict a sunny day

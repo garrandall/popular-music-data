@@ -1,8 +1,11 @@
 ---
+album: Softly, As I Leave You
 artists:
 - Frank Sinatra
+external_ids:
+  spotify: spotify:track:1KrJhqZF4HJ2y8Z5O7zyWT
 features: []
-genres: []
+first_released_as_single: false
 key: i-can-t-believe-i-m-losing-you-frank-sinatra
 lyrics_url: https://genius.com/Frank-sinatra-i-cant-believe-im-losing-you-lyrics
 name: I Can't Believe I'm Losing You
@@ -27,6 +30,8 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '1968-05-11'
+release_year: 1964
+runtime: 165826
 ---
 Is this the way our romance ends
 I got the message when you said we could be friends

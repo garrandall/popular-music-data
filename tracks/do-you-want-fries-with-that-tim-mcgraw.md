@@ -1,8 +1,11 @@
 ---
+album: Live Like You Were Dying
 artists:
 - Tim McGraw
+external_ids:
+  spotify: spotify:track:6rsFioWHk6q3A2sLZQ9MYz
 features: []
-genres: []
+first_released_as_single: false
 key: do-you-want-fries-with-that-tim-mcgraw
 lyrics_url: https://www.azlyrics.com/lyrics/timmcgraw/doyouwantfrieswiththat.html
 name: Do You Want Fries With That
@@ -51,8 +54,9 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '2005-09-24'
+release_year: 2004
+runtime: 239760
 ---
-
 I thought that was your voice
 I thought that was my car
 Now we ain't ever met before
@@ -104,6 +108,3 @@ That I used to live
 My pride, the pool, the boat, my tools, my dreams, the dog, the cat
 Yeah I think that about covers it
 Do you want fries with that?
-
-
-

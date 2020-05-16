@@ -1,8 +1,11 @@
 ---
+album: Almost There
 artists:
 - MercyMe
+external_ids:
+  spotify: spotify:track:0lVYRIVjK77Z6uG2GgM8Kl
 features: []
-genres: []
+first_released_as_single: false
 key: i-can-only-imagine-mercyme
 lyrics_url: https://genius.com/Mercyme-i-can-only-imagine-lyrics
 name: I Can Only Imagine
@@ -79,6 +82,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2004-04-03'
+release_year: 2001
+runtime: 248253
 ---
 I can only imagine what it will be like
 When I walk by Your side

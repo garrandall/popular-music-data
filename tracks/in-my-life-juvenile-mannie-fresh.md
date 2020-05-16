@@ -1,9 +1,12 @@
 ---
+album: Juve The Great
 artists:
 - Juvenile
+external_ids:
+  spotify: spotify:track:5WXtKPaUn0rgwtv4sGoCUt
 features:
 - Mannie Fresh
-genres: []
+first_released_as_single: false
 key: in-my-life-juvenile-mannie-fresh
 lyrics_url: https://www.azlyrics.com/lyrics/juvenile/inmylife.html
 name: In My Life
@@ -76,9 +79,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2004-04-24'
+release_year: 2003
+runtime: 344986
 ---
-
-
 Ladies and Gentlemen, boys and girls
 lil children, dogs and cats
 right now, you are listening to the incredible drum patterns of
@@ -152,4 +155,3 @@ Life is at a standstill, all change in this damn field,
 What you say, can get you and ya mans killed,
 This my last chance to come up, this gotta be it,
 Juve comin up, the first round' lottery pick
-

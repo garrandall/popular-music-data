@@ -1,8 +1,11 @@
 ---
+album: Hannah Montana
 artists:
 - Hannah Montana
+external_ids:
+  spotify: spotify:track:52Dw5hXeylenurLTKoFJfZ
 features: []
-genres: []
+first_released_as_single: false
 key: if-we-were-a-movie-hannah-montana
 lyrics_url: https://www.azlyrics.com/lyrics/hannahmontana/ifwewereamovie.html
 name: If We Were A Movie
@@ -39,8 +42,9 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '2007-02-03'
+release_year: 2006
+runtime: 183293
 ---
-
 Uh oh
 There you go again talking cinematic
 Yeah you!
@@ -85,4 +89,3 @@ Wish I could tell you there's a kiss
 Like something more than in my mind
 I see it
 Could be amazing
-

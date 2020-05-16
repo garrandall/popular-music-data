@@ -1,8 +1,11 @@
 ---
+album: Elemental
 artists:
 - Tears For Fears
+external_ids:
+  spotify: spotify:track:15kc3DJyYixeEEq5kRRrOm
 features: []
-genres: []
+first_released_as_single: false
 key: break-it-down-again-tears-for-fears
 lyrics_url: https://genius.com/Tears-for-fears-break-it-down-again-lyrics
 name: Break It Down Again
@@ -87,6 +90,8 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1993-11-27'
+release_year: 1993
+runtime: 271533
 ---
 Here we go!
 Break it down again

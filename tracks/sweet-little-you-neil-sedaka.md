@@ -1,8 +1,11 @@
 ---
+album: Circulate
 artists:
 - Neil Sedaka
+external_ids:
+  spotify: spotify:track:63vEpcWRAD4uHbVKTwRhBO
 features: []
-genres: []
+first_released_as_single: false
 key: sweet-little-you-neil-sedaka
 lyrics_url: https://www.azlyrics.com/lyrics/neilsedaka/sweetlittleyou.html
 name: Sweet Little You
@@ -35,8 +38,9 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1961-10-09'
+release_year: 1960
+runtime: 124600
 ---
-
 (Sweet, sweet, sweet little you, sweet little you)
 (Sweet, sweet, sweet little you)
 
@@ -89,6 +93,3 @@ Ah, ha, ha
 Whoa!
 Ah, ha, ha
 (Sweet, sweet, sweet)
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Five Special
 artists:
 - Five Special
+external_ids:
+  spotify: spotify:track:3c4xhpdS6zk6cGMbGowIBD
 features: []
-genres: []
+first_released_as_single: false
 key: why-leave-us-alone-five-special
 lyrics_url: https://www.musixmatch.com/lyrics/Five-Special/Why-Leave-Us-Alone
 name: Why Leave Us Alone
@@ -27,6 +30,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1979-08-25'
+release_year: 1979
+runtime: 508946
 ---
 Oh, oh, oh, oh, oh, oh, oh
 Oh, oh, oh, oh, oh, oh, oh

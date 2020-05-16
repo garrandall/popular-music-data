@@ -1,8 +1,11 @@
 ---
+album: Power
 artists:
 - Kansas
+external_ids:
+  spotify: spotify:track:56Zbt8YXJgkeoVMdQLpfaW
 features: []
-genres: []
+first_released_as_single: false
 key: all-i-wanted-kansas
 lyrics_url: https://genius.com/Kansas-all-i-wanted-lyrics
 name: All I Wanted
@@ -79,6 +82,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1987-02-28'
+release_year: 1986
+runtime: 201133
 ---
 You say it's time to stay behind
 All I wanted was to hold you

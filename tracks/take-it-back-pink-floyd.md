@@ -1,8 +1,11 @@
 ---
+album: The Division Bell
 artists:
 - Pink Floyd
+external_ids:
+  spotify: spotify:track:325toqbCzE1g1pYIED7U4C
 features: []
-genres: []
+first_released_as_single: false
 key: take-it-back-pink-floyd
 lyrics_url: https://genius.com/Pink-floyd-take-it-back-lyrics
 name: Take It Back
@@ -35,6 +38,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1994-07-30'
+release_year: 1994
+runtime: 372225
 ---
 Her love rains down on me easy as the breeze
 I listen to her breathing, it sounds like the waves on the sea

@@ -1,8 +1,11 @@
 ---
+album: Delirium
 artists:
 - Ellie Goulding
+external_ids:
+  spotify: spotify:track:1ip2IGDWMrUmlaepEbWlL8
 features: []
-genres: []
+first_released_as_single: false
 key: love-me-like-you-do-ellie-goulding
 lyrics_url: https://genius.com/Ellie-goulding-love-me-like-you-do-lyrics
 name: Love Me Like You Do
@@ -143,6 +146,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2015-09-12'
+release_year: 2015
+runtime: 250266
 ---
 You're the light, you're the night
 You're the colour of my blood

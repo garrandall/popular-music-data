@@ -1,8 +1,11 @@
 ---
+album: Briefcase Full Of Blues
 artists:
 - Blues Brothers
+external_ids:
+  spotify: spotify:track:0H12Tb13XgOBIBVRamZ5qM
 features: []
-genres: []
+first_released_as_single: false
 key: rubber-biscuit-blues-brothers
 lyrics_url: https://www.azlyrics.com/lyrics/bluesbrothers/rubberbiscuit.html
 name: Rubber Biscuit
@@ -39,8 +42,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1979-04-21'
+release_year: 1978
+runtime: 168666
 ---
-
 Bow bow bow
 (Um, do that again)
 
@@ -61,6 +65,3 @@ Bow bow bow
 
 Hee hee hee hee... What da ya want for nothing? ... a rubber biscuit?
 Bow bow bow
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Straight From The Heart
 artists:
 - Peabo Bryson
+external_ids:
+  spotify: spotify:track:6zWSB11sqCRMTAuWYkccCt
 features: []
-genres: []
+first_released_as_single: false
 key: if-ever-you-re-in-my-arms-again-peabo-bryson
 lyrics_url: https://genius.com/Peabo-bryson-if-ever-youre-in-my-arms-again-lyrics
 name: If Ever You're In My Arms Again
@@ -107,6 +110,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1984-10-27'
+release_year: 1984
+runtime: 251306
 ---
 It all came so easy
 All the lovin' you gave me

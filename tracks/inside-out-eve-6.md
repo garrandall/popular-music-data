@@ -1,8 +1,11 @@
 ---
+album: Eve 6
 artists:
 - Eve 6
+external_ids:
+  spotify: spotify:track:4GiVcDqNQI0fc0yYuRGH9m
 features: []
-genres: []
+first_released_as_single: false
 key: inside-out-eve-6
 lyrics_url: https://www.azlyrics.com/lyrics/eve6/insideout.html
 name: Inside Out
@@ -63,8 +66,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1999-03-06'
+release_year: 1998
+runtime: 219466
 ---
-
 I would swallow my pride, I would choke on the rinds
 But the lack thereof would leave me empty inside
 Swallow my doubt turn it inside out
@@ -124,6 +128,3 @@ Rendezvous then I'm through, now I'm through with you
 Through with you
 
 Rendezvous then I'm through with you
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: 'The Power Of Love: Best Of Soul Essentials Ballads'
 artists:
 - Yvonne Elliman
+external_ids:
+  spotify: spotify:track:6QDk7qAdtfcN6ParWBDLj7
 features: []
-genres: []
+first_released_as_single: false
 key: hello-stranger-yvonne-elliman
 lyrics_url: https://www.azlyrics.com/lyrics/yvonneelliman/hellostranger.html
 name: Hello Stranger
@@ -71,8 +74,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1977-07-02'
+release_year: 1977
+runtime: 191573
 ---
-
 Shoo-bop, shoo-bop, my baby, shoo-bop, shoo-bop
 
 Hello, stranger
@@ -122,6 +126,3 @@ How long has it been?
 (Shoo-bop, shoo-bop, my baby, shoo-bop, shoo-bop)
 (Shoo-bop, shoo-bop, my baby, shoo-bop, shoo-bop)
 (Shoo-bop, shoo-bop, my baby, shoo-bop, shoo-bop)
-
-
-

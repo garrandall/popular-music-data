@@ -1,8 +1,11 @@
 ---
+album: The Vintage Collection
 artists:
 - The Tokens
+external_ids:
+  spotify: spotify:track:4sVIUxc3KuCkTWL63HTKYe
 features: []
-genres: []
+first_released_as_single: false
 key: tonight-i-fell-in-love-the-tokens
 lyrics_url: https://www.azlyrics.com/lyrics/tokens/tonightifellinlove.html
 name: Tonight I Fell In Love
@@ -63,8 +66,9 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '1961-06-05'
+release_year: 1961
+runtime: 99613
 ---
-
 Dum, doobie dum, woo - oh, doobie, doobie
 Dum, doobie dum, woo - oh, doobie, doobie
 Dum, doobie dum, woo - oh tonight I fell in love, woo - oh
@@ -88,6 +92,3 @@ Yes, tonight I fell in love
 Yes, tonight I fell in love
 Yes, tonight I fell in love
 Woo...
-
-
-

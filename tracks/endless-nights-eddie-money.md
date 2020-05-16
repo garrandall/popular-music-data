@@ -1,8 +1,11 @@
 ---
+album: Can't Hold Back
 artists:
 - Eddie Money
+external_ids:
+  spotify: spotify:track:1B1w0fZM7BKsgqa12dK9Gv
 features: []
-genres: []
+first_released_as_single: false
 key: endless-nights-eddie-money
 lyrics_url: https://www.azlyrics.com/lyrics/eddiemoney/endlessnights.html
 name: Endless Nights
@@ -83,8 +86,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1987-08-15'
+release_year: 1986
+runtime: 203760
 ---
-
 Lover, I just can't believe it's turned 
 You're tearing my life apart 
 There's no simple answer 
@@ -148,6 +152,3 @@ I think it's worth the time
 I wish that you would call now
 When you gonna change 
 All these endless, endless nights
-
-
-

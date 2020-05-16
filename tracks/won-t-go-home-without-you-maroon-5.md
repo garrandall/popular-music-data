@@ -1,8 +1,11 @@
 ---
+album: It Won't Be Soon Before Long.
 artists:
 - Maroon 5
+external_ids:
+  spotify: spotify:track:0tuyEYTaqLxE41yGHSsXjy
 features: []
-genres: []
+first_released_as_single: false
 key: won-t-go-home-without-you-maroon-5
 lyrics_url: https://genius.com/Maroon-5-wont-go-home-without-you-lyrics
 name: Won't Go Home Without You
@@ -87,6 +90,8 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '2008-05-10'
+release_year: 2007
+runtime: 231173
 ---
 I asked her to stay, but she wouldn't listen
 And she left before I had the chance to say

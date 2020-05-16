@@ -1,8 +1,11 @@
 ---
+album: The Anniversary Party
 artists:
 - Petula Clark
+external_ids:
+  spotify: spotify:track:7dQP6ESUYUMYUAnGkdyjXi
 features: []
-genres: []
+first_released_as_single: false
 key: i-know-a-place-petula-clark
 lyrics_url: https://www.azlyrics.com/lyrics/petulaclark/iknowaplace.html
 name: I Know A Place
@@ -55,8 +58,9 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1965-06-05'
+release_year: 1965
+runtime: 162600
 ---
-
 Every day when the work is behind you
 and the shop and the store put the lock on the door,
 just get away where your worries won't find you.
@@ -99,4 +103,3 @@ I know a place where we can go!
 I know a place where the lights are low!
 I know a place where we can go!
 I know a place where the lights are low!
-

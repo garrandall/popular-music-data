@@ -1,8 +1,11 @@
 ---
+album: Erogenous
 artists:
 - The Mystic Moods
+external_ids:
+  spotify: spotify:track:5rxi9YhtK7TOZBk7GXaIp6
 features: []
-genres: []
+first_released_as_single: false
 key: honey-trippin--the-mystic-moods
 name: Honey Trippin'
 rankings:
@@ -30,5 +33,7 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1975-08-16'
+release_year: 1975
+runtime: 193840
 ---
 

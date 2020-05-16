@@ -1,8 +1,11 @@
 ---
+album: Chrome
 artists:
 - Trace Adkins
+external_ids:
+  spotify: spotify:track:1eqw9X3NsJeBcr7eExLIAA
 features: []
-genres: []
+first_released_as_single: false
 key: help-me-understand-trace-adkins
 lyrics_url: https://www.azlyrics.com/lyrics/traceadkins/helpmeunderstand.html
 name: Help Me Understand
@@ -23,8 +26,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2002-08-10'
+release_year: 2001
+runtime: 231506
 ---
-
 Once in a lifetime 
 You'll open up your heart 
 Maybe once in your lifetime 
@@ -75,6 +79,3 @@ With all the things we've go
 How can love just stop 
 Tell Me 
 Somebody help me understand
-
-
-

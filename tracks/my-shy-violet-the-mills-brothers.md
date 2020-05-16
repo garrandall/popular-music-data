@@ -1,8 +1,11 @@
 ---
+album: 'The Anthology: 1931 - 1968'
 artists:
 - The Mills Brothers
+external_ids:
+  spotify: spotify:track:17ZL64W0e6jQUgJUvqssTd
 features: []
-genres: []
+first_released_as_single: false
 key: my-shy-violet-the-mills-brothers
 name: My Shy Violet
 rankings:
@@ -34,5 +37,7 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1968-06-29'
+release_year: 1968
+runtime: 157800
 ---
 

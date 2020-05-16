@@ -1,8 +1,11 @@
 ---
+album: Please Please Me
 artists:
 - The Beatles
+external_ids:
+  spotify: spotify:track:4dessGxnKXmTbHPhVgqODq
 features: []
-genres: []
+first_released_as_single: false
 key: there-s-a-place-the-beatles
 lyrics_url: https://genius.com/The-beatles-theres-a-place-lyrics
 name: There's A Place
@@ -11,6 +14,8 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '1964-04-11'
+release_year: 1963
+runtime: 110493
 ---
 There—
 There's a place

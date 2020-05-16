@@ -1,8 +1,11 @@
 ---
+album: Born to Do It
 artists:
 - Craig David
+external_ids:
+  spotify: spotify:track:49eAIPivcw5idA57ZWnp5h
 features: []
-genres: []
+first_released_as_single: false
 key: 7-days-craig-david
 lyrics_url: https://www.azlyrics.com/lyrics/craigdavid/7days.html
 name: 7 Days
@@ -87,8 +90,9 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '2002-04-20'
+release_year: 2001
+runtime: 237373
 ---
-
 On my way to see my friends
 Who lived a couple blocks away from me (owh)
 As I walked through the subway
@@ -176,7 +180,3 @@ Took her for a drink on Tuesday
 We were making love by Wednesday
 And on Thursday and Friday and Saturday
 We chilled on Sunday
-
-
-
-

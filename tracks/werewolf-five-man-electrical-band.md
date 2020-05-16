@@ -1,8 +1,11 @@
 ---
+album: Absolutely Right - The Best Of Five Man Electrical Band
 artists:
 - Five Man Electrical Band
+external_ids:
+  spotify: spotify:track:6UupPnHT0PlVEkmJ2N8kz7
 features: []
-genres: []
+first_released_as_single: false
 key: werewolf-five-man-electrical-band
 lyrics_url: https://genius.com/Five-man-electrical-band-werewolf-lyrics
 name: Werewolf
@@ -39,6 +42,8 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '1974-05-18'
+release_year: 1974
+runtime: 212533
 ---
 Mama said, there's
 Something weird bout Billy

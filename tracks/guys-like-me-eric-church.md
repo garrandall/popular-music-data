@@ -1,8 +1,11 @@
 ---
+album: Sinners Like Me
 artists:
 - Eric Church
+external_ids:
+  spotify: spotify:track:2FNYp8WnWlqkI4J0Zgea7a
 features: []
-genres: []
+first_released_as_single: false
 key: guys-like-me-eric-church
 lyrics_url: https://www.azlyrics.com/lyrics/ericchurch/guyslikeme.html
 name: Guys Like Me
@@ -15,8 +18,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2007-07-28'
+release_year: 2006
+runtime: 191053
 ---
-
 I wear a greasy ball cap
 I like my shirt untucked
 I spend Saturdays working on my truck
@@ -49,6 +53,3 @@ And tellin' all our buddies, we won't ever settle down
 We say thats just the way we are and the way we'll always be
 So God sends girls like you for guys like me
 Thank God there's girls like you, for guys like me
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Live At The House Of Blues
 artists:
 - Solomon Burke
+external_ids:
+  spotify: spotify:track:3w5OmIf04nrFjaiEYANfSc
 features: []
-genres: []
+first_released_as_single: false
 key: tonight-s-the-night-solomon-burke
 lyrics_url: https://www.azlyrics.com/lyrics/solomonburke/tonightsthenight.html
 name: Tonight's The Night
@@ -47,8 +50,9 @@ rankings:
   rank: 37
   ranking_list: Billboard Hot 100
   start_date: '1965-07-31'
+release_year: 1965
+runtime: 468693
 ---
-
 Tonight's the night
 That you belong to me
 Tonight's the night
@@ -97,6 +101,3 @@ With all of your might
 Because tonight
 (Tonight, tonight)
 Tonight is the night
-
-
-

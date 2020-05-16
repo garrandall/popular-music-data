@@ -1,10 +1,13 @@
 ---
+album: Mr. Davis
 artists:
 - Gucci Mane
+external_ids:
+  spotify: spotify:track:5HAKXDYaLY8rBK73CNtwD4
 features:
 - Slim Jxmmi
 - Young Dolph
-genres: []
+first_released_as_single: false
 key: stunting-ain-t-nuthin-gucci-mane-slim-jxmmi-young-dolph
 lyrics_url: https://genius.com/Gucci-mane-stunting-aint-nuthin-lyrics
 name: Stunting Ain't Nuthin
@@ -13,6 +16,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2017-11-04'
+release_year: 2017
+runtime: 316053
 ---
 Yah, ya dig? (Yeah)
 Uncle Jim (Dolph!)

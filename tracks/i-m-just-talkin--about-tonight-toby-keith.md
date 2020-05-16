@@ -1,8 +1,11 @@
 ---
+album: Pull My Chain
 artists:
 - Toby Keith
+external_ids:
+  spotify: spotify:track:6nN58NDV8VnjvtBmR00qq4
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-just-talkin--about-tonight-toby-keith
 name: I'm Just Talkin' About Tonight
 rankings:
@@ -86,5 +89,7 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '2001-10-27'
+release_year: 2001
+runtime: 166600
 ---
 

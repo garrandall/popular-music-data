@@ -1,8 +1,11 @@
 ---
+album: Stand By Your Man
 artists:
 - Candi Staton
+external_ids:
+  spotify: spotify:track:1AYXaktCxrgKdjbxNMtwAq
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-just-a-prisoner--of-your-good-lovin---candi-staton
 lyrics_url: https://genius.com/Candi-staton-im-just-a-prisoner-lyrics
 name: I'm Just A Prisoner (Of Your Good Lovin')
@@ -39,6 +42,8 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '1970-02-21'
+release_year: 1970
+runtime: 193506
 ---
 I'd rather be lonely
 Than to lose you

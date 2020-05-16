@@ -1,8 +1,11 @@
 ---
+album: Freedom Suite
 artists:
 - The Rascals
+external_ids:
+  spotify: spotify:track:7osQgwNLoDtLFoZJ4Rwkqq
 features: []
-genres: []
+first_released_as_single: false
 key: a-ray-of-hope-the-rascals
 lyrics_url: https://www.azlyrics.com/lyrics/rascals/arayofhope.html
 name: A Ray Of Hope
@@ -39,8 +42,9 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1969-01-25'
+release_year: 1968
+runtime: 226213
 ---
-
 Most people got soul if they wanna try
 Let love be your goal and let it fly
 'Cause it's easy to hate and to draw a line
@@ -92,6 +96,3 @@ Help us to make His dream understood
 As long as there is a ray of hope
 I got to wait my turn till I can vote
 As long as there is a ray of hope
-
-
-

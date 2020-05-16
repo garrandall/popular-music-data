@@ -1,8 +1,11 @@
 ---
+album: Blues Absolute Best
 artists:
 - Ray Charles
+external_ids:
+  spotify: spotify:track:1tla0rDbATUYAE8vODq4X1
 features: []
-genres: []
+first_released_as_single: false
 key: i-ve-got-news-for-you-ray-charles
 lyrics_url: https://genius.com/Ray-charles-ive-got-news-for-you-lyrics
 name: I've Got News For You
@@ -27,6 +30,8 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '1961-07-17'
+release_year: 1961
+runtime: 273693
 ---
 You said before me met
 That your life was awful tame

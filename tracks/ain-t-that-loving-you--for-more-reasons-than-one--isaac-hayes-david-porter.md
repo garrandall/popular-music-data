@@ -1,9 +1,12 @@
 ---
+album: Isaac Hayes Sings For Lovers
 artists:
 - Isaac Hayes
 - David Porter
+external_ids:
+  spotify: spotify:track:3yojpzGQhaNnqHtgPFhaY1
 features: []
-genres: []
+first_released_as_single: false
 key: ain-t-that-loving-you--for-more-reasons-than-one--isaac-hayes-david-porter
 lyrics_url: https://genius.com/Isaac-hayes-aint-that-loving-you-for-more-reasons-than-one-lyrics
 name: Ain't That Loving You (For More Reasons Than One)
@@ -24,6 +27,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1972-06-03'
+release_year: 1972
+runtime: 260693
 ---
 You think I love you
 For just one thing

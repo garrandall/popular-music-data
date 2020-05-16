@@ -1,8 +1,11 @@
 ---
+album: '5.0'
 artists:
 - Nelly
+external_ids:
+  spotify: spotify:track:1TKF0eeqMaQJnwfYIX6M6K
 features: []
-genres: []
+first_released_as_single: true
 key: just-a-dream-nelly
 lyrics_url: https://genius.com/Nelly-just-a-dream-lyrics
 name: Just A Dream
@@ -119,6 +122,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2011-03-12'
+release_year: 2007
+runtime: 305826
 ---
 Uhh, uhh, uhh
 I was thinking 'bout her, thinking 'bout me

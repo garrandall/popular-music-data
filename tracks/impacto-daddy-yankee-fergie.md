@@ -1,9 +1,12 @@
 ---
+album: 'El Cartel: The Big Boss'
 artists:
 - Daddy Yankee
+external_ids:
+  spotify: spotify:track:68Jb134jJi2Q0NrTKjh0NJ
 features:
 - Fergie
-genres: []
+first_released_as_single: false
 key: impacto-daddy-yankee-fergie
 lyrics_url: https://genius.com/Daddy-yankee-impacto-remix-lyrics
 name: Impacto
@@ -36,6 +39,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2007-07-07'
+release_year: 2007
+runtime: 207586
 ---
 Give it all you got, shorty, make the impacto
 Give it all you got, shorty, make the impacto

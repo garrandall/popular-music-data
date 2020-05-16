@@ -1,8 +1,11 @@
 ---
+album: Blues for Allah
 artists:
 - The Grateful Dead
+external_ids:
+  spotify: spotify:track:5te7uKM0hYcPjf3ScBA9fS
 features: []
-genres: []
+first_released_as_single: false
 key: the-music-never-stopped-the-grateful-dead
 lyrics_url: https://www.azlyrics.com/lyrics/gratefuldead/themusicneverstopped.html
 name: The Music Never Stopped
@@ -27,8 +30,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1975-11-22'
+release_year: 1975
+runtime: 276489
 ---
-
 There's mosquitoes on the river Fish are rising up like birds
 It's been hot for seven weeks now,
 Too hot to even speak now, Did you hear what I just heard?
@@ -59,6 +63,3 @@ But they keep on dancin' C'mon children, C'mon children, Come on clap your hands
 Well the cool breeze came on Tuesday, And the corn's a bumper crop
 And the fields are full of dancin' Full of singin' and romancin'
 The music never stopped.
-
-
-

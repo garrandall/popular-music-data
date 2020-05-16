@@ -1,9 +1,12 @@
 ---
+album: My Turn
 artists:
 - Lil Baby
+external_ids:
+  spotify: spotify:track:3EVzllf30zIBAtKb75bs1W
 features:
 - Lil Wayne
-genres: []
+first_released_as_single: false
 key: forever-lil-baby-lil-wayne
 lyrics_url: https://genius.com/Lil-baby-forever-lyrics
 name: Forever
@@ -12,6 +15,8 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '2020-03-14'
+release_year: 2020
+runtime: 201615
 ---
 Who made this beat?
 Twysted Genius, baby

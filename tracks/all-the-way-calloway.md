@@ -1,8 +1,11 @@
 ---
+album: All the Way
 artists:
 - Calloway
+external_ids:
+  spotify: spotify:track:2qx8wHW2Npc2wD1ONfR8Al
 features: []
-genres: []
+first_released_as_single: false
 key: all-the-way-calloway
 lyrics_url: https://www.musixmatch.com/lyrics/Calloway/All-the-Way
 name: All The Way
@@ -35,6 +38,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1990-09-01'
+release_year: 1989
+runtime: 409666
 ---
 You ready to do it
 (Yeah, you ready)

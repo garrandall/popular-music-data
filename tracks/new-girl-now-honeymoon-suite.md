@@ -1,8 +1,11 @@
 ---
+album: Honeymoon Suite
 artists:
 - Honeymoon Suite
+external_ids:
+  spotify: spotify:track:1grnSNpTAe14gjtqfArZan
 features: []
-genres: []
+first_released_as_single: false
 key: new-girl-now-honeymoon-suite
 lyrics_url: https://www.azlyrics.com/lyrics/honeymoonsuite/newgirlnow.html
 name: New Girl Now
@@ -35,8 +38,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1984-10-20'
+release_year: 1984
+runtime: 216693
 ---
-
 Hot summer night
 Storm clouds in the air
 My eyes' lids so heavy
@@ -82,6 +86,3 @@ And she's a lot like you
 Lot like you
 Lot like you
 Just like you
-
-
-

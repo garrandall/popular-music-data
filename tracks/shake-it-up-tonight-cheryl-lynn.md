@@ -1,8 +1,11 @@
 ---
+album: In The Night
 artists:
 - Cheryl Lynn
+external_ids:
+  spotify: spotify:track:6wmhsZbh12vbawlva6Ek5y
 features: []
-genres: []
+first_released_as_single: false
 key: shake-it-up-tonight-cheryl-lynn
 lyrics_url: https://www.azlyrics.com/lyrics/cheryllynn/shakeituptonight.html
 name: Shake It Up Tonight
@@ -35,8 +38,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1981-09-19'
+release_year: 1981
+runtime: 341720
 ---
-
 I can't wait until the sun goes down
 I'm gettin' ready
 See the moonlight on the town
@@ -124,6 +128,3 @@ Shake it, shake it up tonight
 Show you how to party right
 Shake it, shake it up tonight
 Show you how to party right
-
-
-

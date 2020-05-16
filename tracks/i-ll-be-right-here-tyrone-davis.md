@@ -1,8 +1,11 @@
 ---
+album: Turn Back The Hands Of Time
 artists:
 - Tyrone Davis
+external_ids:
+  spotify: spotify:track:544Gor2zZXYXjLL2MnWSEq
 features: []
-genres: []
+first_released_as_single: false
 key: i-ll-be-right-here-tyrone-davis
 lyrics_url: https://www.musixmatch.com/lyrics/Tyrone-Davis/I-ll-Be-Right-Here
 name: I'll Be Right Here
@@ -43,6 +46,8 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '1970-08-22'
+release_year: 1970
+runtime: 164040
 ---
 I'll be right here, holding on to you
 When you need a shoulder to cry on

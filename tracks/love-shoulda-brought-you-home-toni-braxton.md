@@ -1,8 +1,11 @@
 ---
+album: Boomerang
 artists:
 - Toni Braxton
+external_ids:
+  spotify: spotify:track:56sV2k6ipeozsv09a2yWvX
 features: []
-genres: []
+first_released_as_single: false
 key: love-shoulda-brought-you-home-toni-braxton
 lyrics_url: https://www.azlyrics.com/lyrics/tonibraxton/loveshouldabroughtyouhome.html
 name: Love Shoulda Brought You Home
@@ -87,8 +90,9 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '1993-03-27'
+release_year: 1992
+runtime: 296533
 ---
-
 Should I even listen
 Should I even try
 Will I just be hearing the same old lines
@@ -162,6 +166,3 @@ Baby
 If you cared anything for me
 Then love woulda brought you
 To me last night
-
-
-

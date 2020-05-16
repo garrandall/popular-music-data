@@ -1,8 +1,11 @@
 ---
+album: How To Dismantle An Atomic Bomb
 artists:
 - U2
+external_ids:
+  spotify: spotify:track:1gVVSmhWjci8l9Vrsl6HaS
 features: []
-genres: []
+first_released_as_single: false
 key: vertigo-u2
 lyrics_url: https://genius.com/U2-vertigo-lyrics
 name: Vertigo
@@ -87,6 +90,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '2005-02-19'
+release_year: 2004
+runtime: 193520
 ---
 Unos, dos, tres, catorce!
 (Turn it up loud, captain)

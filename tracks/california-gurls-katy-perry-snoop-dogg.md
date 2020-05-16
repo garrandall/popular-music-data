@@ -1,9 +1,12 @@
 ---
+album: Teenage Dream
 artists:
 - Katy Perry
+external_ids:
+  spotify: spotify:track:6KOEK6SeCEZOQkLj5M1PxH
 features:
 - Snoop Dogg
-genres: []
+first_released_as_single: false
 key: california-gurls-katy-perry-snoop-dogg
 lyrics_url: https://www.azlyrics.com/lyrics/katyperry/californiagurls.html
 name: California Gurls
@@ -116,9 +119,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2010-11-27'
+release_year: 2010
+runtime: 234653
 ---
-
-
 Greetings, loved ones
 Let's take a journey
 
@@ -229,6 +232,3 @@ Now put your hands up
 (California, California girls)
 California girls, man
 (California, California girls)
-
-
-

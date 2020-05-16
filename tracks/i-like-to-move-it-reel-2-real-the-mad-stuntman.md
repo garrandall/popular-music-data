@@ -1,9 +1,12 @@
 ---
+album: Move It!
 artists:
 - Reel 2 Real
+external_ids:
+  spotify: spotify:track:1r4ZkSJevA68TQzLzJeXeb
 features:
 - The Mad Stuntman
-genres: []
+first_released_as_single: true
 key: i-like-to-move-it-reel-2-real-the-mad-stuntman
 lyrics_url: https://genius.com/Reel-2-real-i-like-to-move-it-lyrics
 name: I Like To Move It
@@ -32,6 +35,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1994-04-16'
+release_year: 1993
+runtime: 352545
 ---
 I like to move it, move it
 I like to move it, move it

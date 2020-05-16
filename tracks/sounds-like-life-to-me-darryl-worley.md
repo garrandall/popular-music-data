@@ -1,8 +1,11 @@
 ---
+album: Sounds Like Life
 artists:
 - Darryl Worley
+external_ids:
+  spotify: spotify:track:4eVikDUCG2zumfejHQxGbe
 features: []
-genres: []
+first_released_as_single: false
 key: sounds-like-life-to-me-darryl-worley
 lyrics_url: https://genius.com/Darryl-worley-sounds-like-life-to-me-lyrics
 name: Sounds Like Life To Me
@@ -51,6 +54,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2009-10-24'
+release_year: 2009
+runtime: 223040
 ---
 Got a call last night from an old friend's wife
 Said I hate to bother you

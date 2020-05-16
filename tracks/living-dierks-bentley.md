@@ -1,8 +1,11 @@
 ---
+album: The Mountain
 artists:
 - Dierks Bentley
+external_ids:
+  spotify: spotify:track:4OSQMOlZEwbR5kXVrMOt6J
 features: []
-genres: []
+first_released_as_single: false
 key: living-dierks-bentley
 lyrics_url: https://www.azlyrics.com/lyrics/dierksbentley/living.html
 name: Living
@@ -71,8 +74,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2019-11-23'
+release_year: 2008
+runtime: 229200
 ---
-
 This mornin' I got up at 6:01
 I walked out and saw the rising sun
 And I drank it in like whiskey
@@ -134,6 +138,3 @@ You're high's a little high
 You feel that fire you've been missin'
 Some days you're living
 Some days you're living
-
-
-

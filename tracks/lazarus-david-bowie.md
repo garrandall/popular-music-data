@@ -1,8 +1,11 @@
 ---
+album: Blackstar
 artists:
 - David Bowie
+external_ids:
+  spotify: spotify:track:2pEfM4ipdRlvZwfEHMhDcr
 features: []
-genres: []
+first_released_as_single: true
 key: lazarus-david-bowie
 lyrics_url: https://genius.com/David-bowie-lazarus-lyrics
 name: Lazarus
@@ -11,6 +14,8 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '2016-01-30'
+release_year: 2015
+runtime: 382386
 ---
 Look up here, I'm in heaven
 I've got scars that can't be seen

@@ -1,8 +1,11 @@
 ---
+album: Rastaman Vibration
 artists:
 - Bob Marley And The Wailers
+external_ids:
+  spotify: spotify:track:1ATZfYmZOcm24vl5oQtPdC
 features: []
-genres: []
+first_released_as_single: false
 key: roots-rock-reggae-bob-marley-and-the-wailers
 lyrics_url: https://genius.com/Bob-marley-and-the-wailers-roots-rock-reggae-lyrics
 name: Roots Rock Reggae
@@ -31,6 +34,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1976-08-07'
+release_year: 1976
+runtime: 218400
 ---
 Play I some music (this a reggae music)
 Play I some music (this a reggae music)

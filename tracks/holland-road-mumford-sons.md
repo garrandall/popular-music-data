@@ -1,9 +1,12 @@
 ---
+album: Babel (Deluxe Version)
 artists:
 - Mumford
 - Sons
+external_ids:
+  spotify: spotify:track:4Bjugv3EniVJFRc52mA5bX
 features: []
-genres: []
+first_released_as_single: false
 key: holland-road-mumford-sons
 lyrics_url: https://www.azlyrics.com/lyrics/mumfordsons/hollandroad.html
 name: Holland Road
@@ -20,8 +23,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2012-10-27'
+release_year: 2012
+runtime: 250840
 ---
-
 So I was lost, go count the cost,
 Before you go to the holland road,
 With your heart like a stone you spared no time in lashing out,
@@ -45,6 +49,3 @@ But I'll still believe though there's cracks you'll see,
 When I'm on my knees I'll still believe,
 And when I've hit the ground, neither lost nor found,
 If you'll believe in me I'll still believe
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Hitsville USA, The Motown Collection 1972-1992
 artists:
 - High Inergy
+external_ids:
+  spotify: spotify:track:7CfCUjAZFndcpAWLogl9J3
 features: []
-genres: []
+first_released_as_single: false
 key: you-can-t-turn-me-off--in-the-middle-of-turning-me-on--high-inergy
 lyrics_url: https://genius.com/High-inergy-you-cant-turn-me-off-in-the-middle-of-turning-me-on-lyrics
 name: You Can't Turn Me Off (In The Middle Of Turning Me On)
@@ -95,6 +98,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1978-02-11'
+release_year: 1977
+runtime: 212026
 ---
 I melt, I feel so weak
 It's gettin hard to go to sleep

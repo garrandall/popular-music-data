@@ -1,8 +1,11 @@
 ---
+album: Yes I Am
 artists:
 - Melissa Etheridge
+external_ids:
+  spotify: spotify:track:4LmlGaGTEbTGE5VngAbpA3
 features: []
-genres: []
+first_released_as_single: false
 key: come-to-my-window-melissa-etheridge
 lyrics_url: https://genius.com/Melissa-etheridge-come-to-my-window-lyrics
 name: Come To My Window
@@ -183,6 +186,8 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '1994-12-24'
+release_year: 1993
+runtime: 236000
 ---
 Come to my window
 Crawl inside, wait by the light of the moon

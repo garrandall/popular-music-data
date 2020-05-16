@@ -1,8 +1,11 @@
 ---
+album: Built For Speed
 artists:
 - Stray Cats
+external_ids:
+  spotify: spotify:track:2SknHmwY6GiOv6aK7YRahd
 features: []
-genres: []
+first_released_as_single: false
 key: rock-this-town-stray-cats
 lyrics_url: https://www.azlyrics.com/lyrics/straycats/rockthistown.html
 name: Rock This Town
@@ -91,8 +94,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1983-02-05'
+release_year: 1982
+runtime: 207000
 ---
-
 Well, my baby and me went out late Saturday night
 I had my hair piled high and my baby just looked so right
 Well-ell, pick you up at ten, gotta have you home at two
@@ -152,6 +156,3 @@ Rock it inside out
 We're gonna rock this town
 Rock it inside out
 Whoo!
-
-
-

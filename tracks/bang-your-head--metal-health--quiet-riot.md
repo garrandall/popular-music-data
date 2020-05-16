@@ -1,8 +1,11 @@
 ---
+album: One Night in Milan
 artists:
 - Quiet Riot
+external_ids:
+  spotify: spotify:track:7kFMBTOVe1fBGI5PefWyY5
 features: []
-genres: []
+first_released_as_single: false
 key: bang-your-head--metal-health--quiet-riot
 lyrics_url: https://www.azlyrics.com/lyrics/quietriot/bangyourhead.html
 name: Bang Your Head (Metal Health)
@@ -55,8 +58,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1984-03-24'
+release_year: 1984
+runtime: 234373
 ---
-
 Well I'm an axegrinder piledriver
 Mother says that I never never mind her
 Got no brains I'm insane
@@ -105,6 +109,3 @@ Bang your head! metal health'll drive you mad
 The bad boys are gonna set you right rock on rock on rock on
 Bang your head! metal health'll drive you mad
 Bang your head!
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: '...Nothing Like The Sun'
 artists:
 - Sting
+external_ids:
+  spotify: spotify:track:4wBls5EkreWBeADdiavNp6
 features: []
-genres: []
+first_released_as_single: false
 key: we-ll-be-together-sting
 lyrics_url: https://genius.com/Sting-well-be-together-lyrics
 name: We'll Be Together
@@ -79,6 +82,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1988-02-06'
+release_year: 1987
+runtime: 295560
 ---
 I see me with you and all the things you do
 Keep turning round and round in my mind

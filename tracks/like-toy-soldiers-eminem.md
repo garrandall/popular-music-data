@@ -1,8 +1,11 @@
 ---
+album: Encore (Deluxe Version)
 artists:
 - Eminem
+external_ids:
+  spotify: spotify:track:6CN3e26iQSj1N5lomh0mfO
 features: []
-genres: []
+first_released_as_single: false
 key: like-toy-soldiers-eminem
 lyrics_url: https://www.azlyrics.com/lyrics/eminem/liketoysoldiers.html
 name: Like Toy Soldiers
@@ -51,8 +54,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2005-04-09'
+release_year: 2004
+runtime: 296880
 ---
-
 Step by step, heart to heart, left right left
 We all fall down...
 
@@ -132,4 +136,3 @@ I'm just willin' to be the bigger man
 If ya'll can quit poppin' off at the jaws, well then I can
 Cause frankly I'm sick of talkin'
 I'm not gonna let someone else's coffin rest on my conscience cause
-

@@ -1,8 +1,11 @@
 ---
+album: Fear Inoculum
 artists:
 - Tool
+external_ids:
+  spotify: spotify:track:39zWYYZStDgWi32sOU9AX4
 features: []
-genres: []
+first_released_as_single: false
 key: fear-inoculum-tool
 lyrics_url: https://www.azlyrics.com/lyrics/tool/fearinoculum.html
 name: Fear Inoculum
@@ -11,8 +14,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2019-08-17'
+release_year: 2019
+runtime: 620101
 ---
-
 Immunity, long overdue
 Contagion, I exhale you
 Naive, I opened up to you
@@ -57,6 +61,3 @@ Your veil now, lift away
 I see you runnin'
 Deceiver chased away
 A long time comin'
-
-
-

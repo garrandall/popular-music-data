@@ -1,8 +1,11 @@
 ---
+album: A Case Of You (The Voice Performance)
 artists:
 - James Wolpert
+external_ids:
+  spotify: spotify:track:6YaB4TXX4s2AJreMQ6cuIj
 features: []
-genres: []
+first_released_as_single: true
 key: a-case-of-you-james-wolpert
 lyrics_url: https://genius.com/James-wolpert-a-case-of-you-the-voice-performance-lyrics
 name: A Case Of You
@@ -11,6 +14,8 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '2013-11-23'
+release_year: 2013
+runtime: 232660
 ---
 Just before our love got lost you said
 I am as constant as a northern star

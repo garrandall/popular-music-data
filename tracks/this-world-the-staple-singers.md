@@ -1,8 +1,11 @@
 ---
+album: 'The Complete Stax / Volt Soul Singles, Vol. 3: 1972-1975'
 artists:
 - The Staple Singers
+external_ids:
+  spotify: spotify:track:2fba9okW4P9HejjiSCmBge
 features: []
-genres: []
+first_released_as_single: false
 key: this-world-the-staple-singers
 lyrics_url: https://genius.com/The-staple-singers-this-world-lyrics
 name: This World
@@ -35,6 +38,8 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '1972-09-16'
+release_year: 1972
+runtime: 213000
 ---
 This world, this world, my mind holds this world
 My mind holds this world in its hands

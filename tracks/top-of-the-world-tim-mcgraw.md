@@ -1,8 +1,11 @@
 ---
+album: Damn Country Music
 artists:
 - Tim McGraw
+external_ids:
+  spotify: spotify:track:4pdoeoOQSu6DNznlfNc5FP
 features: []
-genres: []
+first_released_as_single: false
 key: top-of-the-world-tim-mcgraw
 lyrics_url: https://www.azlyrics.com/lyrics/timmcgraw/topoftheworld.html
 name: Top Of The World
@@ -59,8 +62,9 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '2016-01-23'
+release_year: 2015
+runtime: 233973
 ---
-
 We could have a little double wide planted in an empty field
 We could have a big old white picket wrap around on a hill
 Don't make a difference to me baby, where the wind takes me, long as I'm with you girl
@@ -124,6 +128,3 @@ Cause when you got love, like we got love
 Sitting on top of the world
 Cause when you got love, like we got love
 Sitting on top of the world
-
-
-

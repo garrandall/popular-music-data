@@ -1,8 +1,11 @@
 ---
+album: Little Dragon
 artists:
 - Dragon
+external_ids:
+  spotify: spotify:track:7x0MfsBlzpTY7KMLUXsiJU
 features: []
-genres: []
+first_released_as_single: false
 key: rain-dragon
 lyrics_url: https://genius.com/Dragon-nz-rain-lyrics
 name: Rain
@@ -23,6 +26,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1984-09-08'
+release_year: 1984
+runtime: 244360
 ---
 It's a happening thing, and it's happening to you
 Full moon and thunder, ribbons of blue

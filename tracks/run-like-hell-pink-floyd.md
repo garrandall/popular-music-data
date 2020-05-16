@@ -1,8 +1,11 @@
 ---
+album: The Wall
 artists:
 - Pink Floyd
+external_ids:
+  spotify: spotify:track:0EaLRxrtnq7Mqhdf8q9txr
 features: []
-genres: []
+first_released_as_single: false
 key: run-like-hell-pink-floyd
 lyrics_url: https://www.azlyrics.com/lyrics/pinkfloyd/runlikehell.html
 name: Run Like Hell
@@ -31,8 +34,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1980-06-14'
+release_year: 1979
+runtime: 263573
 ---
-
 Run, run, run, run 
 You better make your face up in
 Your favourite disguise
@@ -61,6 +65,3 @@ Trying to pick her locks
 They're gonna send you back to mother
 In a cardboard box
 You better run
-
-
-

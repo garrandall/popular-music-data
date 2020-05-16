@@ -1,8 +1,11 @@
 ---
+album: Rock and Pop Oldies Mix, Vol. 1
 artists:
 - Linda Laurie
+external_ids:
+  spotify: spotify:track:5KaSSoojvyeVyIAFWa6Kus
 features: []
-genres: []
+first_released_as_single: false
 key: ambrose--part-five--linda-laurie
 name: Ambrose (Part Five)
 rankings:
@@ -42,5 +45,7 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1959-03-23'
+release_year: 1959
+runtime: 156933
 ---
 

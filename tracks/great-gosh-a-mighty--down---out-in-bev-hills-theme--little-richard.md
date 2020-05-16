@@ -1,8 +1,11 @@
 ---
+album: Lifetime Friend
 artists:
 - Little Richard
+external_ids:
+  spotify: spotify:track:4awKWodSGSw8UfzwBifAqZ
 features: []
-genres: []
+first_released_as_single: false
 key: great-gosh-a-mighty--down---out-in-bev-hills-theme--little-richard
 lyrics_url: https://genius.com/Little-richard-great-gosh-amighty-lyrics
 name: Great Gosh A'mighty (Down & Out In Bev Hills Theme)
@@ -47,6 +50,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1986-05-10'
+release_year: 1986
+runtime: 289760
 ---
 I've been seeking, I've been searching
 I've been looking, I've been searching

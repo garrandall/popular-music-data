@@ -1,8 +1,11 @@
 ---
+album: Osmonds
 artists:
 - The Osmonds
+external_ids:
+  spotify: spotify:track:50UoJUrslRVqG0cg6uboyn
 features: []
-genres: []
+first_released_as_single: false
 key: one-bad-apple-the-osmonds
 lyrics_url: https://genius.com/The-osmonds-one-bad-apple-lyrics
 name: One Bad Apple
@@ -67,6 +70,8 @@ rankings:
   rank: 34
   ranking_list: Billboard Hot 100
   start_date: '1971-04-10'
+release_year: 1970
+runtime: 164973
 ---
 I can tell you've been hurt
 By that look on your face, girl

@@ -1,8 +1,11 @@
 ---
+album: Freedom At Point Zero
 artists:
 - Jefferson Starship
+external_ids:
+  spotify: spotify:track:2Zpy7qehJwMPs7DdMqSa6z
 features: []
-genres: []
+first_released_as_single: false
 key: girl-with-the-hungry-eyes-jefferson-starship
 lyrics_url: https://www.azlyrics.com/lyrics/jeffersonstarship/girlwiththehungryeyes.html
 name: Girl With The Hungry Eyes
@@ -31,8 +34,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1980-03-29'
+release_year: 1979
+runtime: 209600
 ---
-
 I like to move at the speed of light 
 Albert says I can't -- but I can 
 Circle of stone, circle of steel 
@@ -69,6 +73,3 @@ Girl with the hungry eyes
 She hold up half the sky -- she's the 
 Girl with the hungry eyes -- I love the 
 Girl with the hungry eyes
-
-
-

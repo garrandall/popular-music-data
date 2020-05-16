@@ -1,8 +1,11 @@
 ---
+album: The Great Otis Redding Sings Soul Ballads
 artists:
 - Otis Redding
+external_ids:
+  spotify: spotify:track:0YO65TbY548F7kSncBMksX
 features: []
-genres: []
+first_released_as_single: false
 key: mr-pitiful-otis-redding
 lyrics_url: https://www.azlyrics.com/lyrics/otisredding/mrpitiful.html
 name: Mr Pitiful
@@ -43,8 +46,9 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1965-04-17'
+release_year: 1965
+runtime: 162159
 ---
-
 They call me Mr. Pitiful
 Baby thats my name now, oh
 They call me Mr. Pitiful
@@ -93,6 +97,3 @@ And I don't wanna sing this song with you
 I gonna sing this song for everybody
 'Cause I want them to understand what I talkin' about
 I want you to understand what I'm sayin'
-
-
-

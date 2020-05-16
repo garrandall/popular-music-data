@@ -1,8 +1,11 @@
 ---
+album: Circus (Deluxe Version)
 artists:
 - Britney Spears
+external_ids:
+  spotify: spotify:track:4fixebDZAVToLbUCuEloa2
 features: []
-genres: []
+first_released_as_single: false
 key: womanizer-britney-spears
 lyrics_url: https://genius.com/Britney-spears-womanizer-lyrics
 name: Womanizer
@@ -99,6 +102,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '2009-03-21'
+release_year: 2008
+runtime: 224400
 ---
 Superstar, where you from? How's it going?
 I know you got a clue what you're doing

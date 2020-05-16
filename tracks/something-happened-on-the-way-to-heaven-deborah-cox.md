@@ -1,8 +1,11 @@
 ---
+album: Dance Vault Remixes
 artists:
 - Deborah Cox
+external_ids:
+  spotify: spotify:track:2tSdFhs9JtIr11NDECPwpe
 features: []
-genres: []
+first_released_as_single: false
 key: something-happened-on-the-way-to-heaven-deborah-cox
 lyrics_url: https://genius.com/Deborah-cox-something-happened-on-the-way-to-heaven-valentin-club-mix-lyrics
 name: Something Happened On The Way To Heaven
@@ -11,6 +14,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2004-03-06'
+release_year: 2003
+runtime: 303640
 ---
 We had our life, we had our love
 But you don't know what you've got 'til you lose it

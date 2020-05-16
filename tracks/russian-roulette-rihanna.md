@@ -1,8 +1,11 @@
 ---
+album: Rated R
 artists:
 - Rihanna
+external_ids:
+  spotify: spotify:track:7dd7nASUvJ7NMnI8uwulz6
 features: []
-genres: []
+first_released_as_single: false
 key: russian-roulette-rihanna
 lyrics_url: https://www.azlyrics.com/lyrics/rihanna/russianroulette.html
 name: Russian Roulette
@@ -63,8 +66,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2010-02-06'
+release_year: 2009
+runtime: 184626
 ---
-
 Uh, uh
 
 Take a breath
@@ -108,4 +112,3 @@ I'm terrified but I'm not leaving no
 Know that I must pass this test
 
 So, just pull the trigger (trigger)
-

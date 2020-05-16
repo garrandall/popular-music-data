@@ -1,8 +1,11 @@
 ---
+album: The Tumbleweed Records Story 1971 - 1973
 artists:
 - Danny Holien
+external_ids:
+  spotify: spotify:track:4WfNqOng3f8T67gFkFL71A
 features: []
-genres: []
+first_released_as_single: false
 key: colorado-danny-holien
 name: Colorado
 rankings:
@@ -38,5 +41,7 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1972-10-28'
+release_year: 1972
+runtime: 311146
 ---
 

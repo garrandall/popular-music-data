@@ -1,8 +1,11 @@
 ---
+album: Arena
 artists:
 - Duran Duran
+external_ids:
+  spotify: spotify:track:4YZPNMikflNQnTs67GfKKX
 features: []
-genres: []
+first_released_as_single: false
 key: the-wild-boys-duran-duran
 lyrics_url: https://genius.com/Duran-duran-the-wild-boys-lyrics
 name: The Wild Boys
@@ -79,6 +82,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1985-03-02'
+release_year: 1984
+runtime: 258973
 ---
 Wild boys, wild boys, wild boys
 Wild boys

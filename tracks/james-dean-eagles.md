@@ -1,8 +1,11 @@
 ---
+album: On the Border
 artists:
 - Eagles
+external_ids:
+  spotify: spotify:track:0HznRAeJLyGtyLZgecDiLI
 features: []
-genres: []
+first_released_as_single: false
 key: james-dean-eagles
 lyrics_url: https://www.azlyrics.com/lyrics/eagles/jamesdean.html
 name: James Dean
@@ -27,8 +30,9 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1974-10-19'
+release_year: 1974
+runtime: 218269
 ---
-
 James Dean, James Dean 
 I know just what you mean 
 James Dean, you said it all so clean 
@@ -61,6 +65,3 @@ James Dean, James Dean, you bought it sight unseen
 You were too fast to live, too young to die, bye-bye 
 You were to fast to live, too young to die, bye-bye 
 Bye-bye, Bye-bye, Bye-bye, Bye, bye
-
-
-

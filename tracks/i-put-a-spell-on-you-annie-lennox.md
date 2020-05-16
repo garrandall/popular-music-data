@@ -1,8 +1,11 @@
 ---
+album: Nostalgia
 artists:
 - Annie Lennox
+external_ids:
+  spotify: spotify:track:3sesq9P6ndjuqaq5om7sxT
 features: []
-genres: []
+first_released_as_single: false
 key: i-put-a-spell-on-you-annie-lennox
 lyrics_url: https://www.azlyrics.com/lyrics/annielennox/iputaspellonyou.html
 name: I Put A Spell On You
@@ -11,8 +14,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2015-02-28'
+release_year: 2014
+runtime: 212047
 ---
-
 I put a spell on you
 Because you're mine
 
@@ -51,6 +55,3 @@ Because you're mine
 Because you're mine
 Because you're mine
 Oh yeah
-
-
-

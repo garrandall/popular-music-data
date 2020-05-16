@@ -1,8 +1,11 @@
 ---
+album: Saturday Night Fever
 artists:
 - Yvonne Elliman
+external_ids:
+  spotify: spotify:track:074AR1n9TLRFUPJqYSvA7r
 features: []
-genres: []
+first_released_as_single: false
 key: if-i-can-t-have-you-yvonne-elliman
 lyrics_url: https://genius.com/Yvonne-elliman-if-i-cant-have-you-lyrics
 name: If I Can't Have You
@@ -95,6 +98,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1978-06-24'
+release_year: 1977
+runtime: 178066
 ---
 Don't know why I'm surviving every lonely day
 When there's got to be no chance for me

@@ -1,8 +1,11 @@
 ---
+album: This Is Country Music
 artists:
 - Brad Paisley
+external_ids:
+  spotify: spotify:track:6Ray43gNA6LZxareyESwNk
 features: []
-genres: []
+first_released_as_single: false
 key: this-is-country-music-brad-paisley
 lyrics_url: https://www.azlyrics.com/lyrics/bradpaisley/thisiscountrymusic.html
 name: This Is Country Music
@@ -67,8 +70,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2011-04-16'
+release_year: 2011
+runtime: 311640
 ---
-
 You're not supposed to say the word "cancer" in a song.
 And tellin' folks Jesus is the answer can rub 'em wrong.
 It ain't hip to sing about tractors, trucks, little towns, and mama, yeah that might be true.
@@ -105,6 +109,3 @@ Mama Tried
 Take Me Home
 I Walk the Line
 Country Boy Can Survive
-
-
-

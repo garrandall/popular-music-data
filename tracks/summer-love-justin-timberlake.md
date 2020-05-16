@@ -1,8 +1,11 @@
 ---
+album: FutureSex/LoveSounds
 artists:
 - Justin Timberlake
+external_ids:
+  spotify: spotify:track:1MBM7CyZbwJpVbbZJnHHRg
 features: []
-genres: []
+first_released_as_single: false
 key: summer-love-justin-timberlake
 lyrics_url: https://genius.com/Justin-timberlake-summer-love-set-the-mood-prelude-lyrics
 name: Summer Love
@@ -87,6 +90,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '2007-09-08'
+release_year: 2006
+runtime: 252973
 ---
 Ridin' in the drop top with the top down
 Saw you switchin' lanes, girl

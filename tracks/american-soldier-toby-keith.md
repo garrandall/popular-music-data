@@ -1,8 +1,11 @@
 ---
+album: Shock 'N Y'all
 artists:
 - Toby Keith
+external_ids:
+  spotify: spotify:track:0oVWPlnK5eAqnJCVB0FvpP
 features: []
-genres: []
+first_released_as_single: false
 key: american-soldier-toby-keith
 lyrics_url: https://www.azlyrics.com/lyrics/tobykeith/americansoldier.html
 name: American Soldier
@@ -87,8 +90,9 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '2004-05-08'
+release_year: 2003
+runtime: 263333
 ---
-
 I'm just trying to be a father
 Raise a daughter and a son
 Be a lover to their mother
@@ -140,6 +144,3 @@ When liberty's in jeopardy I will always do what's right
 I'm out here on the front lines
 So sleep in peace tonight
 American soldier, I'm an American, an American, an American soldier!
-
-
-

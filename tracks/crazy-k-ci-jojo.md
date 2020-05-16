@@ -1,9 +1,12 @@
 ---
+album: X
 artists:
 - K-Ci
 - JoJo
+external_ids:
+  spotify: spotify:track:3PJivN5BZ2ckFa22igIu4a
 features: []
-genres: []
+first_released_as_single: false
 key: crazy-k-ci-jojo
 lyrics_url: https://www.azlyrics.com/lyrics/kcijojo/crazy.html
 name: Crazy
@@ -108,8 +111,9 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '2001-05-26'
+release_year: 2000
+runtime: 260266
 ---
-
 (I don't know why, what I'm doing what I'm doing)
 See, baby I, apologize
 For all the things that I've done that I've done
@@ -148,6 +152,3 @@ Crazy, crazy, when I can see again (if I can see you, if I can see you if I can 
 If I can see you, if I can see you again
 Then I would go, if I could see you again
 I'd go craeeae
-
-
-

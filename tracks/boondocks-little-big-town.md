@@ -1,8 +1,11 @@
 ---
+album: The Road To Here
 artists:
 - Little Big Town
+external_ids:
+  spotify: spotify:track:3duP6mBVDsHM8ioN7o7dAK
 features: []
-genres: []
+first_released_as_single: false
 key: boondocks-little-big-town
 lyrics_url: https://www.azlyrics.com/lyrics/littlebigtown/boondocks.html
 name: Boondocks
@@ -87,9 +90,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2006-03-11'
+release_year: 2005
+runtime: 272346
 ---
-
-
 I feel no shame
 I'm proud of where I came from
 I was born and raised in the boondocks
@@ -133,6 +136,3 @@ You get a line I'll get a pole
 We'll go fishin' in the crawfish hole
 Five card poker on Saturday night
 Church on Sunday morning
-
-
-

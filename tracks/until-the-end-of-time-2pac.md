@@ -1,8 +1,11 @@
 ---
+album: Until The End Of Time
 artists:
 - 2Pac
+external_ids:
+  spotify: spotify:track:5avQSAKB1dOEeIQBqV4jgW
 features: []
-genres: []
+first_released_as_single: false
 key: until-the-end-of-time-2pac
 lyrics_url: https://genius.com/2pac-until-the-end-of-time-lyrics
 name: Until The End Of Time
@@ -63,6 +66,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2001-07-21'
+release_year: 2001
+runtime: 266506
 ---
 Perhaps I was addicted to the dark side
 Somewhere inside my childhood witnessed my heart die

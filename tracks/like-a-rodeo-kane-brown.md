@@ -1,8 +1,11 @@
 ---
+album: Experiment Extended
 artists:
 - Kane Brown
+external_ids:
+  spotify: spotify:track:7z3dPHwGxeK4fD6fYFDwiS
 features: []
-genres: []
+first_released_as_single: false
 key: like-a-rodeo-kane-brown
 lyrics_url: https://www.azlyrics.com/lyrics/kanebrown/likearodeo.html
 name: Like A Rodeo
@@ -11,8 +14,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2019-07-27'
+release_year: 2019
+runtime: 201730
 ---
-
 Love is like a rodeo, rodeo, rodeo, rodeo
 Love is like a rodeo, rodeo, rodeo, rodeo
 
@@ -72,6 +76,3 @@ At the hotel bar
 It was less than 8 seconds
 Girl you stole my heart
 Rodeo, rodeo, rodeo, rodeo
-
-
-

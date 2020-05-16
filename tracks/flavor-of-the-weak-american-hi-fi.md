@@ -1,8 +1,11 @@
 ---
+album: American Hi-Fi
 artists:
 - American Hi-Fi
+external_ids:
+  spotify: spotify:track:1UkMAtLU8NxsddE7j4zXGO
 features: []
-genres: []
+first_released_as_single: false
 key: flavor-of-the-weak-american-hi-fi
 lyrics_url: https://www.azlyrics.com/lyrics/americanhifi/flavoroftheweak.html
 name: Flavor Of The Weak
@@ -87,8 +90,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2001-11-03'
+release_year: 2001
+runtime: 188840
 ---
-
 She paints her nails and she don't know
 He's got her best friend on the phone
 She'll wash her hair
@@ -126,6 +130,3 @@ He's too stoned, he's too stoned
 
 Yeah she's the flavor of the weak
 She makes me weak
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Gold
 artists:
 - Connie Francis
+external_ids:
+  spotify: spotify:track:50EXZCtLwYyFxiGV8v7SuS
 features: []
-genres: []
+first_released_as_single: false
 key: my-happiness-connie-francis
 lyrics_url: https://www.azlyrics.com/lyrics/conniefrancis/myhappiness.html
 name: My Happiness
@@ -79,8 +82,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1959-04-06'
+release_year: 1958
+runtime: 147000
 ---
-
 Evening shadows make me blue
 When each weary day is through
 How I long to be with you, my happiness
@@ -101,6 +105,3 @@ Just as long as I'm with you, my happiness
 Whether skies are gray or blue
 Any place on earth will do
 Just as long as I'm with you, my happiness
-
-
-

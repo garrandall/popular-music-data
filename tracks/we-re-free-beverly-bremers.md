@@ -1,8 +1,11 @@
 ---
+album: I'll Make You Music
 artists:
 - Beverly Bremers
+external_ids:
+  spotify: spotify:track:7H0LgbBwcQIDiY5COLFaC1
 features: []
-genres: []
+first_released_as_single: false
 key: we-re-free-beverly-bremers
 lyrics_url: https://genius.com/Beverly-bremers-were-free-lyrics
 name: We're Free
@@ -67,6 +70,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1972-08-05'
+release_year: 1972
+runtime: 185536
 ---
 I give myself to you
 It's what I wanna do

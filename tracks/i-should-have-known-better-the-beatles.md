@@ -1,8 +1,11 @@
 ---
+album: A Hard Day's Night
 artists:
 - The Beatles
+external_ids:
+  spotify: spotify:track:3pU1CUgPiFfxPCpscwIwQR
 features: []
-genres: []
+first_released_as_single: false
 key: i-should-have-known-better-the-beatles
 lyrics_url: https://genius.com/The-beatles-i-should-have-known-better-lyrics
 name: I Should Have Known Better
@@ -23,6 +26,8 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '1964-08-15'
+release_year: 1964
+runtime: 163080
 ---
 I should have known better with a girl like you
 That I would love everything that you do

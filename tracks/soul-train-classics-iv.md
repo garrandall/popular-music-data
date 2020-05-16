@@ -1,8 +1,11 @@
 ---
+album: Mamas And Papas/Soul Train
 artists:
 - Classics IV
+external_ids:
+  spotify: spotify:track:3hPkTkpWl5ORbFiS22Z6y3
 features: []
-genres: []
+first_released_as_single: false
 key: soul-train-classics-iv
 lyrics_url: https://www.azlyrics.com/lyrics/classicsiv/soultrain.html
 name: Soul Train
@@ -19,8 +22,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1968-05-18'
+release_year: 1968
+runtime: 164693
 ---
-
 Listen to me, baby the lights are way down low
 There's a stack of records on the stereo
 Let yourself unwind, girl we're gonna take a journey down to rhythm and blues
@@ -38,6 +42,3 @@ Ridin' on a soul train, yeah baby just-a me and you
 
 Ridin' on a soul train, baby
 Oh, ridin' on a soul train, yeah
-
-
-

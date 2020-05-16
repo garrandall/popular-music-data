@@ -1,9 +1,12 @@
 ---
+album: Piano Classics
 artists:
 - Ferrante
 - Teicher
+external_ids:
+  spotify: spotify:track:3Glopm00TKnvZfubDri11E
 features: []
-genres: []
+first_released_as_single: false
 key: tonight-ferrante-teicher
 lyrics_url: https://www.musixmatch.com/lyrics/Ferrante-and-Teicher/Tonight
 name: Tonight
@@ -60,6 +63,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1962-01-13'
+release_year: 1961
+runtime: 178120
 ---
 Tonight, tonight, won't be just any night
 Tonight there will be no morning star

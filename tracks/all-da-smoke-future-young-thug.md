@@ -1,9 +1,12 @@
 ---
+album: SUPER SLIMEY
 artists:
 - Future
 - Young Thug
+external_ids:
+  spotify: spotify:track:1wWRtPIKD7ZNvtsrzLyTev
 features: []
-genres: []
+first_released_as_single: false
 key: all-da-smoke-future-young-thug
 lyrics_url: https://www.azlyrics.com/lyrics/future/alldasmoke.html
 name: All Da Smoke
@@ -12,9 +15,9 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '2017-11-11'
+release_year: 2017
+runtime: 204960
 ---
-
-
 (You it, I'm it, everybody it)
 We want all the smoke, we want all the smoke
 We want, I want smoke
@@ -92,6 +95,3 @@ We want all the smoke, we want all the smoke
 We want all the smoke, we want all the smoke
 We want all the smoke, we want all the smoke
 We want all the smoke
-
-
-

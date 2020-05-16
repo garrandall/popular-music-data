@@ -1,8 +1,11 @@
 ---
+album: Licensed To Ill
 artists:
 - Beastie Boys
+external_ids:
+  spotify: spotify:track:5NLuC70kZQv8q34QyQa1DP
 features: []
-genres: []
+first_released_as_single: false
 key: -you-gotta--fight-for-your-right--to-party---beastie-boys
 lyrics_url: https://genius.com/Beastie-boys-fight-for-your-right-lyrics
 name: (You Gotta) Fight For Your Right (To Party!)
@@ -79,6 +82,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1987-04-18'
+release_year: 1986
+runtime: 208653
 ---
 Kick it!
 

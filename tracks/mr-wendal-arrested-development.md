@@ -1,8 +1,11 @@
 ---
+album: 3 Years, 5 Months And 2 Days In The Life Of...
 artists:
 - Arrested Development
+external_ids:
+  spotify: spotify:track:5DOYik1z3Of1wAFfY3dYbC
 features: []
-genres: []
+first_released_as_single: false
 key: mr-wendal-arrested-development
 lyrics_url: https://genius.com/Arrested-development-mr-wendal-lyrics
 name: Mr Wendal
@@ -103,6 +106,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1993-05-29'
+release_year: 1992
+runtime: 247506
 ---
 Here, have a dollar
 In fact, no brotherman - here, have two

@@ -1,8 +1,11 @@
 ---
+album: The Auburn University Marching Band - Highlights of the 1998 Season
 artists:
 - Bruce Channel
+external_ids:
+  spotify: spotify:track:1kroKNc0WDO1jOXvVU5RPF
 features: []
-genres: []
+first_released_as_single: false
 key: hey--baby-bruce-channel
 lyrics_url: https://genius.com/Bruce-channel-hey-baby-lyrics
 name: Hey! Baby
@@ -67,6 +70,8 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '1962-05-05'
+release_year: 1962
+runtime: 138771
 ---
 Hey, hey baby
 I wanna know

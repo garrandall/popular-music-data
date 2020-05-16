@@ -1,8 +1,11 @@
 ---
+album: Still Not Getting Any
 artists:
 - Simple Plan
+external_ids:
+  spotify: spotify:track:2SMYQhVrLA7NRjUxAVghSH
 features: []
-genres: []
+first_released_as_single: false
 key: shut-up-simple-plan
 lyrics_url: https://genius.com/Simple-plan-shut-up-lyrics
 name: Shut Up
@@ -15,6 +18,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2005-03-12'
+release_year: 2004
+runtime: 182986
 ---
 There you go
 You're always so right

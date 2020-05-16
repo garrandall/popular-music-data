@@ -1,8 +1,11 @@
 ---
+album: Partners In Crime
 artists:
 - Rupert Holmes
+external_ids:
+  spotify: spotify:track:5Qo14bQqTK9iGbf2g6JUjL
 features: []
-genres: []
+first_released_as_single: false
 key: answering-machine-rupert-holmes
 lyrics_url: https://www.azlyrics.com/lyrics/rupertholmes/answeringmachine.html
 name: Answering Machine
@@ -51,8 +54,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1980-07-12'
+release_year: 1979
+runtime: 215200
 ---
-
 A little while ago I went and placed a call
 To tell this girl I know that she could have it all
 The wedding ring, the whole dumb thing
@@ -101,4 +105,3 @@ I'm so sorry you have just reached my answering machine
 I'm not in, and listen, I'm sure you know this whole routine
 I'm so sorry you have just reached my answering machine
 I'm not in, and listen, I'm sure you know this whole routine
-

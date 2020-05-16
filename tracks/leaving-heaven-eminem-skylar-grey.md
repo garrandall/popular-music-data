@@ -1,9 +1,12 @@
 ---
+album: Music To Be Murdered By
 artists:
 - Eminem
+external_ids:
+  spotify: spotify:track:5CpsIb7SMFHjmAG8RvIWfq
 features:
 - Skylar Grey
-genres: []
+first_released_as_single: false
 key: leaving-heaven-eminem-skylar-grey
 lyrics_url: https://www.azlyrics.com/lyrics/eminem/leavingheaven.html
 name: Leaving Heaven
@@ -12,9 +15,9 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '2020-02-01'
+release_year: 2020
+runtime: 265946
 ---
-
-
 Yeah (I knew this day was coming)
 Sometimes, you gotta come back down (It's all going to hell now, man)
 Stoop to someone's level (Yeah)
@@ -131,6 +134,3 @@ So you better, you better run (Yeah)
 You better, you better run (So I'ma let it go now, rest in peace)
 You better, you better run (Cocksucker)
 You better, you better run (See you in Hell)
-
-
-

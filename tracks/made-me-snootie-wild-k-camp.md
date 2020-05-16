@@ -1,9 +1,12 @@
 ---
+album: Go Mode
 artists:
 - Snootie Wild
+external_ids:
+  spotify: spotify:track:0SrCe2qlSmWHLgVsEqiliK
 features:
 - K Camp
-genres: []
+first_released_as_single: true
 key: made-me-snootie-wild-k-camp
 lyrics_url: https://genius.com/Snootie-wild-made-me-lyrics
 name: Made Me
@@ -20,6 +23,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2014-11-29'
+release_year: 2014
+runtime: 194743
 ---
 Late night catch me creepin' with yo' damn ol' lady
 Servin' swervin' on the highway and I'm doing bout 80

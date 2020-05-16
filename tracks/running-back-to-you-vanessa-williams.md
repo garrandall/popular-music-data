@@ -1,8 +1,11 @@
 ---
+album: The Comfort Zone
 artists:
 - Vanessa Williams
+external_ids:
+  spotify: spotify:track:28zaRfdizHTtqqUXJWZjtb
 features: []
-genres: []
+first_released_as_single: false
 key: running-back-to-you-vanessa-williams
 lyrics_url: https://www.azlyrics.com/lyrics/vanessawilliams/runningbacktoyou.html
 name: Running Back To You
@@ -91,8 +94,9 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '1991-12-28'
+release_year: 1991
+runtime: 280000
 ---
-
 Boy, you've been running around to long
 Now I think you're running out of time
 No more jumping in and out of my bed
@@ -155,6 +159,3 @@ I won't come running
 Oh oh, oh oh
 I won't come running back
 I won't come running
-
-
-

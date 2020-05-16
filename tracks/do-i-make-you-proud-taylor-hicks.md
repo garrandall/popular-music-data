@@ -1,8 +1,11 @@
 ---
+album: Tribute To Taylor Hicks,a
 artists:
 - Taylor Hicks
+external_ids:
+  spotify: spotify:track:2jv9Ppwz9u3lqWfXV0q2sW
 features: []
-genres: []
+first_released_as_single: true
 key: do-i-make-you-proud-taylor-hicks
 lyrics_url: https://www.azlyrics.com/lyrics/taylorhicks/doimakeyouproud.html
 name: Do I Make You Proud
@@ -39,8 +42,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2006-08-19'
+release_year: 2006
+runtime: 248693
 ---
-
 I've never been
 The one to raise my hand
 That was not me
@@ -105,6 +109,3 @@ Do I make you proud
 This is what we dream about
 But the only question with me now
 Is do I make you, do I make you proud
-
-
-

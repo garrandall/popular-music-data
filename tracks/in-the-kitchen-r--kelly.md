@@ -1,8 +1,11 @@
 ---
+album: Tp.3 Reloaded
 artists:
 - R. Kelly
+external_ids:
+  spotify: spotify:track:1bn8fjxuCLfnAaXZDx1tof
 features: []
-genres: []
+first_released_as_single: false
 key: in-the-kitchen-r--kelly
 lyrics_url: https://genius.com/R-kelly-sex-in-the-kitchen-lyrics
 name: In The Kitchen
@@ -27,6 +30,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2005-04-23'
+release_year: 2005
+runtime: 217493
 ---
 Girl, you're in the kitchen, cooking me a meal
 Something makes me wanna come in there and get a feel

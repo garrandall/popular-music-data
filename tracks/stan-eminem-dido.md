@@ -1,9 +1,12 @@
 ---
+album: The Marshall Mathers LP
 artists:
 - Eminem
+external_ids:
+  spotify: spotify:track:3UmaczJpikHgJFyBTAJVoz
 features:
 - Dido
-genres: []
+first_released_as_single: false
 key: stan-eminem-dido
 lyrics_url: https://genius.com/Genius-traductions-francaises-eminem-stan-ft-dido-traduction-francaise-lyrics
 name: Stan
@@ -68,6 +71,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2001-02-10'
+release_year: 2000
+runtime: 404106
 ---
 My tea's gone cold, I'm wondering why I got outta bed at all
 The morning rain clouds up my window and I can't see at all

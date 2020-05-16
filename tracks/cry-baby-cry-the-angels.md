@@ -1,8 +1,11 @@
 ---
+album: Caprice! The Story Behind Gerry Granahan's Caprice Label 1960 - 1963
 artists:
 - The Angels
+external_ids:
+  spotify: spotify:track:5nZS7VzWL7rheLw46zdtKl
 features: []
-genres: []
+first_released_as_single: false
 key: cry-baby-cry-the-angels
 lyrics_url: https://www.musixmatch.com/lyrics/The-Angels/Cry-Baby-Cry
 name: Cry Baby Cry
@@ -51,6 +54,8 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1962-04-28'
+release_year: 1962
+runtime: 170200
 ---
 Cry, baby, cry
 Baby, cry

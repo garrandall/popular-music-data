@@ -1,8 +1,11 @@
 ---
+album: Love In A Mist
 artists:
 - Marianne Faithfull
+external_ids:
+  spotify: spotify:track:2OGJkpSEDWIrjKNmSL6hxr
 features: []
-genres: []
+first_released_as_single: false
 key: this-little-bird-marianne-faithfull
 lyrics_url: https://www.azlyrics.com/lyrics/mariannefaithfull/thislittlebird.html
 name: This Little Bird
@@ -39,8 +42,9 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '1965-07-24'
+release_year: 1965
+runtime: 122213
 ---
-
 There's a little bird that somebody sends
 Down to the earth to live on the wind
 Born on the wind and he sleeps on the wind
@@ -57,6 +61,3 @@ And the only time that he touches the ground
 Is when that little bird
 Is when that little bird
 Is when that little bird dies
-
-
-

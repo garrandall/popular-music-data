@@ -1,8 +1,11 @@
 ---
+album: The Essential Marty Robbins 1951-1982
 artists:
 - Marty Robbins
+external_ids:
+  spotify: spotify:track:5rJsz3ZRYxJAYoFujRncMz
 features: []
-genres: []
+first_released_as_single: false
 key: ruby-ann-marty-robbins
 lyrics_url: https://www.azlyrics.com/lyrics/martyrobbins/rubyann.html
 name: Ruby Ann
@@ -47,8 +50,9 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '1963-01-19'
+release_year: 1952
+runtime: 118626
 ---
-
 I said hello to the man that tried to win your hand
 A long time ago.
 I tried to smile as he talked of the days
@@ -78,6 +82,3 @@ Ruby Ann took the hand of this poor, poor man,
 Ain't true love a funny thing?
 Ruby Ann took the hand of this poor, poor man,
 Ain't true love a funny thing?
-
-
-

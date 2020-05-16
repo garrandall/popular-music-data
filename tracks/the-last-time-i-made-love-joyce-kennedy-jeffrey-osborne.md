@@ -1,9 +1,12 @@
 ---
+album: Ultimate Collection
 artists:
 - Joyce Kennedy
 - Jeffrey Osborne
+external_ids:
+  spotify: spotify:track:16oLDPzdNQztj2dF0RfdaO
 features: []
-genres: []
+first_released_as_single: false
 key: the-last-time-i-made-love-joyce-kennedy-jeffrey-osborne
 lyrics_url: https://genius.com/Joyce-kennedy-and-jeffrey-osborne-the-last-time-i-made-love-lyrics
 name: The Last Time I Made Love
@@ -56,6 +59,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1984-11-03'
+release_year: 1984
+runtime: 186866
 ---
 The first time I made love
 It wasn't love at all

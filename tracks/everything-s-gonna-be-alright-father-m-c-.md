@@ -1,8 +1,11 @@
 ---
+album: Close To You
 artists:
 - Father M.C.
+external_ids:
+  spotify: spotify:track:78Nx4qNwmATqqcs4biKW1T
 features: []
-genres: []
+first_released_as_single: false
 key: everything-s-gonna-be-alright-father-m-c-
 lyrics_url: https://genius.com/Father-mc-everythings-gonna-be-alright-lyrics
 name: Everything's Gonna Be Alright
@@ -87,6 +90,8 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1993-04-17'
+release_year: 1992
+runtime: 223840
 ---
 I see ya movin baby yeah
 And you're lookin good, said you're lookin fine

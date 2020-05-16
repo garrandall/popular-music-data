@@ -1,8 +1,11 @@
 ---
+album: Magic
 artists:
 - Bruce Springsteen
+external_ids:
+  spotify: spotify:track:5kVSDFEAqgjKtcD6tRvRzY
 features: []
-genres: []
+first_released_as_single: false
 key: girls-in-their-summer-clothes-bruce-springsteen
 lyrics_url: https://genius.com/Bruce-springsteen-girls-in-their-summer-clothes-lyrics
 name: Girls In Their Summer Clothes
@@ -11,6 +14,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2008-02-02'
+release_year: 2007
+runtime: 259173
 ---
 Well the street lights shine
 Down on Blessing Avenue

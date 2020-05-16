@@ -1,8 +1,11 @@
 ---
+album: Nothing to Lose
 artists:
 - Eddie Money
+external_ids:
+  spotify: spotify:track:7AZoALrknj7D1slaR7BWYC
 features: []
-genres: []
+first_released_as_single: false
 key: the-love-in-your-eyes-eddie-money
 lyrics_url: https://genius.com/Eddie-money-the-love-in-your-eyes-lyrics
 name: The Love In Your Eyes
@@ -79,6 +82,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1989-05-13'
+release_year: 1988
+runtime: 246626
 ---
 I've reached the final count tonight
 I have tracked you down through the tears that I have cried

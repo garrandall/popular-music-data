@@ -1,8 +1,11 @@
 ---
+album: SF Spanish Fly
 artists:
 - SF Spanish Fly
+external_ids:
+  spotify: spotify:track:1gkbpFBjsBKnHEFbrwzkjf
 features: []
-genres: []
+first_released_as_single: false
 key: crimson-and-clover-sf-spanish-fly
 lyrics_url: https://www.musixmatch.com/lyrics/SF-Spanish-Fly/Crimson-and-Clover
 name: Crimson And Clover
@@ -31,6 +34,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1995-07-15'
+release_year: 1995
+runtime: 258959
 ---
 Ah, now I don't hardly know her
 But I think I could love her

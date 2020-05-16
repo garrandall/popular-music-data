@@ -1,8 +1,11 @@
 ---
+album: Sound City
 artists:
 - The Hollywood Stars
+external_ids:
+  spotify: spotify:track:1EeuFwQ7RhTNlPg69LGUxM
 features: []
-genres: []
+first_released_as_single: false
 key: all-the-kids-on-the-street-the-hollywood-stars
 lyrics_url: https://genius.com/The-hollywood-stars-all-the-kids-on-the-street-lyrics
 name: All The Kids On The Street
@@ -23,6 +26,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1977-06-04'
+release_year: 1977
+runtime: 192400
 ---
 All the kids on the street
 Know the songs because they know the beat

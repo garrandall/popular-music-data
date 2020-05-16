@@ -1,9 +1,12 @@
 ---
+album: The Twain Shall Meet
 artists:
 - Eric Burdon
 - The Animals
+external_ids:
+  spotify: spotify:track:4FdZINrfgBtH1QrxfniPUU
 features: []
-genres: []
+first_released_as_single: false
 key: sky-pilot--part-one--eric-burdon-the-animals
 lyrics_url: https://genius.com/Eric-burdon-and-the-animals-sky-pilot-lyrics
 name: Sky Pilot (Part One)
@@ -64,6 +67,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1968-08-31'
+release_year: 1965
+runtime: 450333
 ---
 He blesses the boys as they stand in line
 The smell of gun grease and the bayonets they shine

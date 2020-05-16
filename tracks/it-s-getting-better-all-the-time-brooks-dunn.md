@@ -1,9 +1,12 @@
 ---
+album: '#1s ... and then some'
 artists:
 - Brooks
 - Dunn
+external_ids:
+  spotify: spotify:track:7D4HDQVulV8PxSiBLoKcGz
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-getting-better-all-the-time-brooks-dunn
 lyrics_url: https://genius.com/Brooks-and-dunn-its-getting-better-all-the-time-lyrics
 name: It's Getting Better All The Time
@@ -72,6 +75,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2005-05-28'
+release_year: 2004
+runtime: 254520
 ---
 I don't stop breathing everytime the phone rings
 My heart don't race when someone's at my door

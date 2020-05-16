@@ -1,8 +1,11 @@
 ---
+album: Have Yourself A Tractors Christmas
 artists:
 - The Tractors
+external_ids:
+  spotify: spotify:track:2xApGjvGHM3xrawfnArFzD
 features: []
-genres: []
+first_released_as_single: false
 key: the-santa-claus-boogie-the-tractors
 lyrics_url: https://genius.com/The-tractors-the-santa-claus-boogie-lyrics
 name: The Santa Claus Boogie
@@ -11,6 +14,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1995-01-07'
+release_year: 1995
+runtime: 229160
 ---
 Well I don't know, But I've been told
 There's something goin' on at the North Pole

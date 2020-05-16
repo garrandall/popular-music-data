@@ -1,8 +1,11 @@
 ---
+album: Jem And The Holograms (Original Motion Picture Soundtrack)
 artists:
 - Hailee Steinfeld
+external_ids:
+  spotify: spotify:track:5PHtIRw7oB4xgSFwfClRjH
 features: []
-genres: []
+first_released_as_single: false
 key: love-myself-hailee-steinfeld
 lyrics_url: https://www.azlyrics.com/lyrics/haileesteinfeld/lovemyself.html
 name: Love Myself
@@ -71,8 +74,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2015-12-12'
+release_year: 2015
+runtime: 218306
 ---
-
 When I get chills at night
 I feel it deep inside without you, yeah
 Know how to satisfy
@@ -151,6 +155,3 @@ Anytime that I like
 Ah, la la la, la la la la la
 Anytime that I like
 (I love me)
-
-
-

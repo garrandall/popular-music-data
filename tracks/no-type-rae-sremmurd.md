@@ -1,8 +1,11 @@
 ---
+album: SremmLife
 artists:
 - Rae Sremmurd
+external_ids:
+  spotify: spotify:track:4scpF6J5uMBvoh6sFB7EL1
 features: []
-genres: []
+first_released_as_single: false
 key: no-type-rae-sremmurd
 lyrics_url: https://genius.com/Rae-sremmurd-no-type-lyrics
 name: No Type
@@ -111,6 +114,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2015-04-04'
+release_year: 2014
+runtime: 200080
 ---
 Yeah
 EarDrummers

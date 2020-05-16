@@ -1,8 +1,11 @@
 ---
+album: In Another World
 artists:
 - Joe Diffie
+external_ids:
+  spotify: spotify:track:0VdpGEpUlEYu9MpX5fsSgt
 features: []
-genres: []
+first_released_as_single: false
 key: in-another-world-joe-diffie
 lyrics_url: https://www.azlyrics.com/lyrics/joediffie/inanotherworld.html
 name: In Another World
@@ -51,8 +54,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2002-03-30'
+release_year: 2001
+runtime: 226533
 ---
-
 Sun stuck high in the air
 Destination anywhere this road decides to go
 Underneath the desert sky
@@ -95,6 +99,3 @@ But that's another place in time, back when you were mine
 In another world
 In another world
 In another world
-
-
-

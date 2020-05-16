@@ -1,8 +1,11 @@
 ---
+album: '50,000,000 Elvis Fans Can''t Be Wrong: Elvis'' Gold Records, Vol. 2'
 artists:
 - Elvis Presley
+external_ids:
+  spotify: spotify:track:0IDFXLMABcj61OKI3L05A0
 features: []
-genres: []
+first_released_as_single: false
 key: i-got-stung-elvis-presley
 lyrics_url: https://www.azlyrics.com/lyrics/elvispresley/igotstung.html
 name: I Got Stung
@@ -71,8 +74,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1959-02-16'
+release_year: 1958
+runtime: 109413
 ---
-
 (Hill and Schroeder)
 Holy smoke
 A land sakes alive!
@@ -114,6 +118,3 @@ Every day at five
 And I'm never gonna leave once I arrive
 'Cause I'm done
 Uh-uh, I got stung!
-
-
-

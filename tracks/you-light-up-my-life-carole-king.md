@@ -1,8 +1,11 @@
 ---
+album: Fantasy
 artists:
 - Carole King
+external_ids:
+  spotify: spotify:track:0niWpRGYTyofCnblR3Jk1P
 features: []
-genres: []
+first_released_as_single: false
 key: you-light-up-my-life-carole-king
 lyrics_url: https://www.azlyrics.com/lyrics/caroleking/youlightupmylife.html
 name: You Light Up My Life
@@ -43,8 +46,9 @@ rankings:
   rank: 38
   ranking_list: Billboard Hot 100
   start_date: '1973-09-08'
+release_year: 1973
+runtime: 193800
 ---
-
 You light up my life like sunrise in the morning
 You make me believe anything is possible
 I didn't have a dream to my name
@@ -68,6 +72,3 @@ I never knew how good I could feel
 Loving you's left me with nothing to conceal
 Yeah - you really light up my life
 You give me faith and hope and love and light
-
-
-

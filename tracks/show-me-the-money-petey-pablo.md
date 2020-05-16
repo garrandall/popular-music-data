@@ -1,8 +1,11 @@
 ---
+album: Step Up Soundtrack
 artists:
 - Petey Pablo
+external_ids:
+  spotify: spotify:track:6lob8yGQuretKACtogsaQL
 features: []
-genres: []
+first_released_as_single: false
 key: show-me-the-money-petey-pablo
 lyrics_url: https://www.azlyrics.com/lyrics/peteypablo/showmethemoney.html
 name: Show Me The Money
@@ -27,9 +30,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2007-02-10'
+release_year: 2006
+runtime: 224680
 ---
-
-
 Show off that body you got
 You got that dance floor so hot
 You're working that, you twerkin that
@@ -76,4 +79,3 @@ Might not feel the same way tomorrow (OK)
 But I'll deal with that tomorrow
 (get up, get up)
 'cause tonight you got me feeling like I wanna take you home
-

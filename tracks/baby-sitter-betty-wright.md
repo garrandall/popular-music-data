@@ -1,8 +1,11 @@
 ---
+album: 'The Essentials: Betty Wright'
 artists:
 - Betty Wright
+external_ids:
+  spotify: spotify:track:7GgOJVfchlSVLm1iQIDOt9
 features: []
-genres: []
+first_released_as_single: false
 key: baby-sitter-betty-wright
 lyrics_url: https://www.azlyrics.com/lyrics/bettywright/babysitter.html
 name: Baby Sitter
@@ -47,8 +50,9 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '1972-12-16'
+release_year: 1972
+runtime: 172120
 ---
-
 When my best friend said
 She had lost her man
 To her babysitter
@@ -99,6 +103,3 @@ You better beware
 Of the babysitter, yeah
 
 Rock, rock, rock your baby...
-
-
-

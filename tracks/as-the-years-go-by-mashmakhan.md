@@ -1,8 +1,11 @@
 ---
+album: Rock Artifacts, Vol. I
 artists:
 - Mashmakhan
+external_ids:
+  spotify: spotify:track:2XHs6kSa7nngFi4srkvveA
 features: []
-genres: []
+first_released_as_single: false
 key: as-the-years-go-by-mashmakhan
 lyrics_url: https://genius.com/Mashmakhan-as-the-years-go-by-lyrics
 name: As The Years Go By
@@ -79,6 +82,8 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1970-12-19'
+release_year: 1970
+runtime: 225093
 ---
 A child asks his mother, do you love me
 And it really means, will you protect me

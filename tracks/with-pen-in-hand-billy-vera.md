@@ -1,8 +1,11 @@
 ---
+album: The Billy Vera Story
 artists:
 - Billy Vera
+external_ids:
+  spotify: spotify:track:7nEDchhuaVLIi2EEKqe740
 features: []
-genres: []
+first_released_as_single: false
 key: with-pen-in-hand-billy-vera
 lyrics_url: https://www.musixmatch.com/lyrics/Billy-Vera-Judy-Clay/With-Pen-in-Hand
 name: With Pen In Hand
@@ -31,6 +34,8 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '1968-08-03'
+release_year: 1968
+runtime: 215066
 ---
 With pen in hand
 You sign your name

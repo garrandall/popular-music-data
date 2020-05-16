@@ -1,8 +1,11 @@
 ---
+album: Marathon
 artists:
 - Santana
+external_ids:
+  spotify: spotify:track:3j5gu1GfVq3q2JcS5FoUY3
 features: []
-genres: []
+first_released_as_single: false
 key: you-know-that-i-love-you-santana
 lyrics_url: https://genius.com/Santana-you-know-that-i-love-you-lyrics
 name: You Know That I Love You
@@ -59,6 +62,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1980-02-16'
+release_year: 1979
+runtime: 264893
 ---
 Yesterday I was alone and Blue
 My heart was heavy and then came you

@@ -1,8 +1,11 @@
 ---
+album: Rainy Night In Georgia
 artists:
 - Brook Benton
+external_ids:
+  spotify: spotify:track:6jQfIHHTLwdxkqlkolNQ8T
 features: []
-genres: []
+first_released_as_single: false
 key: so-many-ways-brook-benton
 lyrics_url: https://genius.com/Brook-benton-so-many-ways-lyrics
 name: So Many Ways
@@ -71,6 +74,8 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1960-02-01'
+release_year: 1959
+runtime: 147156
 ---
 Your lips on mine are soft as dew
 Your kiss is so divine

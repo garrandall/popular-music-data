@@ -1,8 +1,11 @@
 ---
+album: Color Me Barbra
 artists:
 - Barbra Streisand
+external_ids:
+  spotify: spotify:track:6LVQN95MVvXSvDL5cgcHsJ
 features: []
-genres: []
+first_released_as_single: false
 key: where-am-i-going--barbra-streisand
 lyrics_url: https://genius.com/Barbra-streisand-where-am-i-going-lyrics
 name: Where Am I Going?
@@ -15,6 +18,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1966-02-26'
+release_year: 1966
+runtime: 169200
 ---
 Where am I going?
 And what will I find?

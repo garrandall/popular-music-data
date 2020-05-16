@@ -1,8 +1,11 @@
 ---
+album: G.T.R
 artists:
 - GTR
+external_ids:
+  spotify: spotify:track:1GZCxPWPE0ezSY6lcKVVRL
 features: []
-genres: []
+first_released_as_single: false
 key: when-the-heart-rules-the-mind-gtr
 lyrics_url: https://genius.com/Gtr-when-the-heart-rules-the-mind-lyrics
 name: When The Heart Rules The Mind
@@ -71,6 +74,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1986-08-23'
+release_year: 1986
+runtime: 328955
 ---
 Mother, protect me, protect me from myself
 Lately I can't tell who really are my friends

@@ -1,8 +1,11 @@
 ---
+album: 16 Most Requested Songs
 artists:
 - Mitch Miller
+external_ids:
+  spotify: spotify:track:1LJPcjOCOcdPTDrtV9JYpA
 features: []
-genres: []
+first_released_as_single: false
 key: do-re-mi-mitch-miller
 lyrics_url: https://www.musixmatch.com/lyrics/Mitch-Miller-and-his-Orchestra/Do-Re-Mi
 name: Do-Re-Mi
@@ -23,6 +26,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1960-01-04'
+release_year: 1950
+runtime: 125973
 ---
 Do (do) re (re) mi (mi)
 Fa (fa) so (so) la (la) ti (ti) do (do)

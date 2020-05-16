@@ -1,8 +1,11 @@
 ---
+album: 75 At 75
 artists:
 - Cliff Richard and The Drifters
+external_ids:
+  spotify: spotify:track:3k18vtfnNXGF3cdBJqbtLW
 features: []
-genres: []
+first_released_as_single: false
 key: living-doll-cliff-richard-and-the-drifters
 lyrics_url: https://genius.com/Cliff-richard-and-the-drifters-living-doll-lyrics
 name: Living Doll
@@ -59,6 +62,8 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1959-12-21'
+release_year: 1959
+runtime: 158560
 ---
 Got myself a cryin', talkin'
 Sleepin', walkin', livin' doll

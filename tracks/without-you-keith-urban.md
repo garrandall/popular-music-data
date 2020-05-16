@@ -1,8 +1,11 @@
 ---
+album: Get Closer (Deluxe Version)
 artists:
 - Keith Urban
+external_ids:
+  spotify: spotify:track:0KzEhOxVbub9dglj5mMyCc
 features: []
-genres: []
+first_released_as_single: false
 key: without-you-keith-urban
 lyrics_url: https://www.azlyrics.com/lyrics/keithurban/withoutyou.html
 name: Without You
@@ -79,8 +82,9 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '2011-07-23'
+release_year: 2010
+runtime: 236026
 ---
-
 I loved you since the very first day
 When I caught you looking my way
 I smiled and just knew it
@@ -128,6 +132,3 @@ It's never gonna touch the sky without you
 Without you
 Without you baby baby baby without you
 Without you
-
-
-

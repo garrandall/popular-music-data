@@ -1,8 +1,11 @@
 ---
+album: Let Go
 artists:
 - Avril Lavigne
+external_ids:
+  spotify: spotify:track:2LA4v20vokK9Uaj7WEEMaf
 features: []
-genres: []
+first_released_as_single: false
 key: losing-grip-avril-lavigne
 lyrics_url: https://www.azlyrics.com/lyrics/avrillavigne/losinggrip.html
 name: Losing Grip
@@ -31,8 +34,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2003-05-31'
+release_year: 2002
+runtime: 233760
 ---
-
 Are you aware of what you make me feel, baby?
 Right now I feel invisible to you, like I'm not real
 
@@ -107,6 +111,3 @@ Why should I care?
 If you don't care
 Then I don't care
 We're not going anywhere
-
-
-

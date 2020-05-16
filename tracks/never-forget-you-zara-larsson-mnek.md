@@ -1,9 +1,12 @@
 ---
+album: So Good
 artists:
 - Zara Larsson
 - MNEK
+external_ids:
+  spotify: spotify:track:6dky9drTX3M8Jcxg4AHyzi
 features: []
-genres: []
+first_released_as_single: false
 key: never-forget-you-zara-larsson-mnek
 lyrics_url: https://www.azlyrics.com/lyrics/zaralarsson/neverforgetyou.html
 name: Never Forget You
@@ -100,9 +103,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2016-08-06'
+release_year: 2016
+runtime: 211906
 ---
-
-
 I used to be so happy
 But without you here I feel so low
 I watched you as you left but I can never seem to let you go
@@ -174,6 +177,3 @@ I will never forget you
 I will never, never, never, never, never, never
 I will never forget you 
 'Til the day I die
-
-
-

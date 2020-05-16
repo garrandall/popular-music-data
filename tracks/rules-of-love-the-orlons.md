@@ -1,8 +1,11 @@
 ---
+album: The Best Of The Orlons
 artists:
 - The Orlons
+external_ids:
+  spotify: spotify:track:3GO13GvPS4aai7ZN2Fnaur
 features: []
-genres: []
+first_released_as_single: false
 key: rules-of-love-the-orlons
 name: Rules Of Love
 rankings:
@@ -30,5 +33,7 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '1964-06-20'
+release_year: 1964
+runtime: 154973
 ---
 

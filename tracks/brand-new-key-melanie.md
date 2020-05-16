@@ -1,8 +1,11 @@
 ---
+album: Gather Me
 artists:
 - Melanie
+external_ids:
+  spotify: spotify:track:7da5B9d2oVV16YSzXVxmrR
 features: []
-genres: []
+first_released_as_single: false
 key: brand-new-key-melanie
 lyrics_url: https://www.azlyrics.com/lyrics/melanie/brandnewkey.html
 name: Brand New Key
@@ -79,8 +82,9 @@ rankings:
   rank: 24
   ranking_list: Billboard Hot 100
   start_date: '1972-02-26'
+release_year: 1971
+runtime: 147040
 ---
-
 I rode my bicycle past your window last night
 I roller skated to your door at daylight
 It almost seems like you're avoiding me
@@ -119,6 +123,3 @@ I think that we should get together and try them out to see
 La la la la la la la la, la la la la la la
 Oh! I got a brand new pair of roller skates
 You got a brand new key
-
-
-

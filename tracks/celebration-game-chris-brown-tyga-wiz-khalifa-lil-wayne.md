@@ -1,12 +1,15 @@
 ---
+album: Jesus Piece
 artists:
 - Game
+external_ids:
+  spotify: spotify:track:3DpqHuPTyeHWEp3lN8G0oq
 features:
 - Chris Brown
 - Tyga
 - Wiz Khalifa
 - Lil Wayne
-genres: []
+first_released_as_single: false
 key: celebration-game-chris-brown-tyga-wiz-khalifa-lil-wayne
 lyrics_url: https://www.azlyrics.com/lyrics/game/celebration.html
 name: Celebration
@@ -59,8 +62,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2013-02-09'
+release_year: 2012
+runtime: 288640
 ---
-
 Get high, get high, get high, get high, get high
 Westside, westside, westside, westside, westside
 
@@ -138,4 +142,3 @@ Hoes down, B's up
 
 Rollin' and chokin' and movin' slow motion, I'm floatin' I'm gone
 Rollin' and chokin' and movin' slow motion, I'm floatin' I'm gone
-

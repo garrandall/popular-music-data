@@ -1,8 +1,11 @@
 ---
+album: Obsessed
 artists:
 - Dan + Shay
+external_ids:
+  spotify: spotify:track:0AdjJ2SaOeb5bPJ67nDbsW
 features: []
-genres: []
+first_released_as_single: true
 key: from-the-ground-up-dan---shay
 lyrics_url: https://www.azlyrics.com/lyrics/danshay/fromthegroundup.html
 name: From The Ground Up
@@ -71,8 +74,9 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '2016-09-24'
+release_year: 2016
+runtime: 254293
 ---
-
 Grandma and grandpa painted a picture
 Of 65 years in one little house
 More than a memory, more than saying "I do"
@@ -127,6 +131,3 @@ Beside you I'll stand through the good and the bad
 We'll give all that we have
 And we'll build this love from the ground up
 From the ground up
-
-
-

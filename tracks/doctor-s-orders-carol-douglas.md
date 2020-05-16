@@ -1,8 +1,11 @@
 ---
+album: The Carol Douglas Album
 artists:
 - Carol Douglas
+external_ids:
+  spotify: spotify:track:6TlkRvPjRQo5VZqIfM0MjA
 features: []
-genres: []
+first_released_as_single: false
 key: doctor-s-orders-carol-douglas
 lyrics_url: https://genius.com/Carol-douglas-doctors-orders-annotated
 name: Doctor's Orders
@@ -71,6 +74,8 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '1975-03-15'
+release_year: 1974
+runtime: 270533
 ---
 :
 (Oh, oh, oh, oh

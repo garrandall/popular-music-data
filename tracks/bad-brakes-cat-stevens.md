@@ -1,8 +1,11 @@
 ---
+album: Back to Earth
 artists:
 - Cat Stevens
+external_ids:
+  spotify: spotify:track:3qHMXTdVHfyyABOsCp5x6N
 features: []
-genres: []
+first_released_as_single: false
 key: bad-brakes-cat-stevens
 lyrics_url: https://www.azlyrics.com/lyrics/catstevens/badbrakes.html
 name: Bad Brakes
@@ -23,8 +26,9 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1979-02-17'
+release_year: 1978
+runtime: 207546
 ---
-
 Bad brakes whole car shakes
 Looks like I'm heading for a breakdown
 Black smoke engine beginning to choke
@@ -62,6 +66,3 @@ Bad brakes engine beginning to shake
 Looks like we've got ourselves a breakdown
 Black smoke engine beginning to choke
 We got ourselves a breakdown
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Port Of Miami
 artists:
 - Rick Ross
+external_ids:
+  spotify: spotify:track:39SQnz9u6zd91nZdaPmmJK
 features: []
-genres: []
+first_released_as_single: false
 key: push-it-rick-ross
 lyrics_url: https://genius.com/Rick-ross-push-it-lyrics
 name: Push It
@@ -63,6 +66,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2006-12-16'
+release_year: 2006
+runtime: 208600
 ---
 Push it to the limit
 

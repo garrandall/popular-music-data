@@ -1,8 +1,11 @@
 ---
+album: No Shoes, No Shirt, No Problems
 artists:
 - Kenny Chesney
+external_ids:
+  spotify: spotify:track:3tHPjLBakLS48aumhFpJMt
 features: []
-genres: []
+first_released_as_single: false
 key: young-kenny-chesney
 lyrics_url: https://www.azlyrics.com/lyrics/kennychesney/young.html
 name: Young
@@ -87,8 +90,9 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '2002-06-22'
+release_year: 2002
+runtime: 235733
 ---
-
 Looking back now, well it makes me laugh
 We were growin our hair, we were cuttin' class
 Knew it all already, there was nothing to learn
@@ -130,6 +134,3 @@ Had no excuses for the things that we'd done
 We were brave, we were crazy, we were mostly
 Young
 Young, Hey wishin' we were older, wish it wasn't over
-
-
-

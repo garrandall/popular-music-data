@@ -1,8 +1,11 @@
 ---
+album: Never Let Me Go
 artists:
 - Luther Vandross
+external_ids:
+  spotify: spotify:track:7IoK42h6rYE6aYJ54OiQ5W
 features: []
-genres: []
+first_released_as_single: false
 key: heaven-knows-luther-vandross
 lyrics_url: https://www.azlyrics.com/lyrics/luthervandross/heavenknows.html
 name: Heaven Knows
@@ -19,8 +22,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1993-10-02'
+release_year: 1993
+runtime: 300666
 ---
-
 Heaven knows I love you
 Heaven knows how much I care
 Couldn't live without you
@@ -81,6 +85,3 @@ Work, its going work
 Gonna work out, gonna work it out
 Work, its gonna work, 'cause I love
 Heaven knows and I know it can...
-
-
-

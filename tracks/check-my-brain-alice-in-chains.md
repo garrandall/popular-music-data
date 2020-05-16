@@ -1,8 +1,11 @@
 ---
+album: Black Gives Way To Blue
 artists:
 - Alice In Chains
+external_ids:
+  spotify: spotify:track:2O2ii9OPZYh1NBXo9FtE0Y
 features: []
-genres: []
+first_released_as_single: false
 key: check-my-brain-alice-in-chains
 lyrics_url: https://genius.com/Alice-in-chains-check-my-brain-lyrics
 name: Check My Brain
@@ -23,6 +26,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2009-10-24'
+release_year: 2009
+runtime: 237906
 ---
 So I found myself in the sun, oh yeah
 A hell of a place to end a run, oh yeah

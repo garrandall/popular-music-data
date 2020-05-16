@@ -1,8 +1,11 @@
 ---
+album: The Very Best of, Volume 1
 artists:
 - Joe Tex
+external_ids:
+  spotify: spotify:track:3kpzIkzbdyDA4ChSR6mLKv
 features: []
-genres: []
+first_released_as_single: false
 key: the-love-you-save--may-be-your-own--joe-tex
 lyrics_url: https://genius.com/Joe-tex-the-love-you-save-lyrics
 name: The Love You Save (May Be Your Own)
@@ -39,6 +42,8 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '1966-04-23'
+release_year: 1965
+runtime: 180040
 ---
 People, I've been misled
 And I've been afraid

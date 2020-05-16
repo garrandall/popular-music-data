@@ -1,8 +1,11 @@
 ---
+album: Marilyn Martin
 artists:
 - Marilyn Martin
+external_ids:
+  spotify: spotify:track:3NiaJXqECvnb6GABk6bmoP
 features: []
-genres: []
+first_released_as_single: false
 key: night-moves-marilyn-martin
 lyrics_url: https://genius.com/Marilyn-martin-night-moves-lyrics
 name: Night Moves
@@ -79,6 +82,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1986-05-17'
+release_year: 1986
+runtime: 318613
 ---
 Slippin' away
 Silently we took the night

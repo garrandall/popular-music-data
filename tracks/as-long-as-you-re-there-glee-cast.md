@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music, Volume 6'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:6MNjlV7s3Db9WqzfFlfN7e
 features: []
-genres: []
+first_released_as_single: false
 key: as-long-as-you-re-there-glee-cast
 lyrics_url: https://genius.com/Glee-cast-as-long-as-youre-there-lyrics
 name: As Long As You're There
@@ -11,6 +14,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2011-06-11'
+release_year: 2011
+runtime: 256079
 ---
 Hm
 Hm

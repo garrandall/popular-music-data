@@ -1,9 +1,12 @@
 ---
+album: Category F5
 artists:
 - Twista
+external_ids:
+  spotify: spotify:track:0gPPfRl1qmyEuWQJVD2EW0
 features:
 - Erika Shevon
-genres: []
+first_released_as_single: false
 key: wetter--calling-you-daddy--twista-erika-shevon
 lyrics_url: https://genius.com/Twista-wetter-lyrics
 name: Wetter (Calling You Daddy)
@@ -72,6 +75,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2009-09-26'
+release_year: 2009
+runtime: 245826
 ---
 I'm calling you daddy, daddy
 Can you be my daddy? Daddy

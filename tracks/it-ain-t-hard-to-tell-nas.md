@@ -1,8 +1,11 @@
 ---
+album: Illmatic XX
 artists:
 - Nas
+external_ids:
+  spotify: spotify:track:2pvb9fQgLshiLA6bPBX6OU
 features: []
-genres: []
+first_released_as_single: false
 key: it-ain-t-hard-to-tell-nas
 lyrics_url: https://genius.com/Nas-it-aint-hard-to-tell-lyrics
 name: It Ain't Hard To Tell
@@ -39,6 +42,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1994-06-04'
+release_year: 1994
+runtime: 169586
 ---
 It ain't hard to tell, I excel, then prevail
 The mic is contacted, I attract clientele

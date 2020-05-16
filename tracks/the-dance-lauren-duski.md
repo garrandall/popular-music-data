@@ -1,8 +1,11 @@
 ---
+album: The Complete Season 12 Collection (The Voice Performance)
 artists:
 - Lauren Duski
+external_ids:
+  spotify: spotify:track:1HQtmjBwA4257dxNTvG5Rt
 features: []
-genres: []
+first_released_as_single: false
 key: the-dance-lauren-duski
 lyrics_url: https://www.musixmatch.com/lyrics/Lauren-Duski/The-Dance-The-Voice-Performance
 name: The Dance
@@ -11,6 +14,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2017-06-10'
+release_year: 2017
+runtime: 210732
 ---
 Looking back on the memory of
 The dance we shared 'neath the stars above

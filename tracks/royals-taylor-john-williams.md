@@ -1,8 +1,11 @@
 ---
+album: Royals (The Voice Performance)
 artists:
 - Taylor John Williams
+external_ids:
+  spotify: spotify:track:6Tr3qZW1w76lrUuevHXeJ8
 features: []
-genres: []
+first_released_as_single: true
 key: royals-taylor-john-williams
 lyrics_url: https://www.musixmatch.com/lyrics/Taylor-John-Williams/Royals-The-Voice-Performance
 name: Royals
@@ -11,6 +14,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2014-12-20'
+release_year: 2014
+runtime: 208330
 ---
 I've never seen a diamond in the flesh
 I cut my teeth on wedding rings in the movies

@@ -1,8 +1,11 @@
 ---
+album: Untitled
 artists:
 - The Rembrandts
+external_ids:
+  spotify: spotify:track:7uzrNM9kePQSlnNOxtEX4n
 features: []
-genres: []
+first_released_as_single: false
 key: johnny-have-you-seen-her--the-rembrandts
 lyrics_url: https://www.azlyrics.com/lyrics/rembrandts/johnnyhaveyouseenher.html
 name: Johnny Have You Seen Her?
@@ -39,8 +42,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1992-12-19'
+release_year: 1992
+runtime: 255760
 ---
-
 Johnny have you seen her-She was headed out this way
 And I notice, that you don't have much to say
 Do you think that she's been wanderin', a little far from home?
@@ -69,6 +73,3 @@ Oh Johnny tell me, what's been goin' on
 I wanna believe you
 I wanna believe you
 Yeh I wanna believe you
-
-
-

@@ -1,9 +1,12 @@
 ---
+album: Mr Lover Lover - The Best Of Shaggy... (Part 1)
 artists:
 - Shaggy
+external_ids:
+  spotify: spotify:track:7a3y3gJtRWXugcxgi8TPNW
 features:
 - Janet
-genres: []
+first_released_as_single: false
 key: luv-me-luv-me-shaggy-janet
 lyrics_url: https://genius.com/Shaggy-luv-me-luv-me-lyrics
 name: Luv Me Luv Me
@@ -76,6 +79,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1999-05-01'
+release_year: 1998
+runtime: 356840
 ---
 Give a likkle bit of this a likkle bit a dat mek dem know, yeah
 Shaggy!

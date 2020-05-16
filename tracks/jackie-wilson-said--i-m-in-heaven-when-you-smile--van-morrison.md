@@ -1,8 +1,11 @@
 ---
+album: Saint Dominic's Preview
 artists:
 - Van Morrison
+external_ids:
+  spotify: spotify:track:1hmPyDaLxfscy8AJpJsKJI
 features: []
-genres: []
+first_released_as_single: false
 key: jackie-wilson-said--i-m-in-heaven-when-you-smile--van-morrison
 lyrics_url: https://genius.com/Van-morrison-jackie-wilson-said-lyrics
 name: Jackie Wilson Said (I'm In Heaven When You Smile)
@@ -31,6 +34,8 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '1972-09-23'
+release_year: 1972
+runtime: 180520
 ---
 Da, da, da, da, da
 Jackie Wilson said

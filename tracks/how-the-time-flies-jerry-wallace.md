@@ -1,8 +1,11 @@
 ---
+album: Jerry Wallace's Greatest Hits
 artists:
 - Jerry Wallace
+external_ids:
+  spotify: spotify:track:2imY6XBHUPrFGgbuTpojUH
 features: []
-genres: []
+first_released_as_single: true
 key: how-the-time-flies-jerry-wallace
 lyrics_url: https://genius.com/Jerry-wallace-how-the-time-flies-lyrics
 name: How The Time Flies
@@ -71,6 +74,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1958-12-01'
+release_year: 1958
+runtime: 148533
 ---
 (Dickey-doo-oo-oo-oo) (Dickey-doo-oo-oo-oo)
 (Dickey-doo-oo-oo) (Locka-day-ay)

@@ -1,8 +1,11 @@
 ---
+album: Footloose
 artists:
 - Kenny Loggins
+external_ids:
+  spotify: spotify:track:5rn2JWnsxlhL5hqyhLGUkE
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-free--heaven-helps-the-man--kenny-loggins
 lyrics_url: https://genius.com/Kenny-loggins-im-free-lyrics
 name: I'm Free (Heaven Helps The Man)
@@ -63,6 +66,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1984-09-15'
+release_year: 1984
+runtime: 226573
 ---
 Looking into your eyes I know I'm right
 If there's anything worth my love it's worth a fight
@@ -90,4 +95,3 @@ I'm shaking the past
 Making my breaks
 Taking control
 If that's what it takes
-

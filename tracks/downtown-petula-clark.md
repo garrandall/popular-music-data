@@ -1,8 +1,11 @@
 ---
+album: C'est Ma Chanson
 artists:
 - Petula Clark
+external_ids:
+  spotify: spotify:track:4ALNT0jUrpgdDcPrF54M2x
 features: []
-genres: []
+first_released_as_single: false
 key: downtown-petula-clark
 lyrics_url: https://www.azlyrics.com/lyrics/petulaclark/downtown.html
 name: Downtown
@@ -67,8 +70,9 @@ rankings:
   rank: 36
   ranking_list: Billboard Hot 100
   start_date: '1965-03-27'
+release_year: 1964
+runtime: 176173
 ---
-
 When you're alone and life is making you lonely
 You can always go
 Downtown
@@ -134,6 +138,3 @@ Downtown (downtown)
 Downtown (downtown)
 Downtown (downtown)
 Downtown (downtown)
-
-
-

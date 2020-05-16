@@ -1,8 +1,11 @@
 ---
+album: Six Days on the Road
 artists:
 - Dave Dudley
+external_ids:
+  spotify: spotify:track:32TaIVP7n1u8NRv9lVOEby
 features: []
-genres: []
+first_released_as_single: false
 key: six-days-on-the-road-dave-dudley
 lyrics_url: https://genius.com/Dave-dudley-six-days-on-the-road-lyrics
 name: Six Days On The Road
@@ -51,6 +54,8 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1963-08-17'
+release_year: 1963
+runtime: 131533
 ---
 Well I pulled outta Pittsburgh
 A rollin' down that Eastern Seaboard

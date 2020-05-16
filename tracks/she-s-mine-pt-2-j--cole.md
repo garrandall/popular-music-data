@@ -1,8 +1,11 @@
 ---
+album: 4 Your Eyez Only
 artists:
 - J. Cole
+external_ids:
+  spotify: spotify:track:3N98FYllx87uIrGKkyQ0Ez
 features: []
-genres: []
+first_released_as_single: false
 key: she-s-mine-pt-2-j--cole
 lyrics_url: https://genius.com/J-cole-shes-mine-pt-2-lyrics
 name: She's Mine Pt 2
@@ -11,6 +14,8 @@ rankings:
   rank: 34
   ranking_list: Billboard Hot 100
   start_date: '2016-12-31'
+release_year: 2016
+runtime: 278920
 ---
 Catch me, don't you
 Catch me, don't you

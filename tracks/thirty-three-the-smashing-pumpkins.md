@@ -1,8 +1,11 @@
 ---
+album: Mellon Collie And The Infinite Sadness
 artists:
 - The Smashing Pumpkins
+external_ids:
+  spotify: spotify:track:1fPKWu8NKS1ZGHjFZ5QCAs
 features: []
-genres: []
+first_released_as_single: false
 key: thirty-three-the-smashing-pumpkins
 lyrics_url: https://www.azlyrics.com/lyrics/smashingpumpkins/thirtythree.html
 name: Thirty-Three
@@ -87,8 +90,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1997-04-12'
+release_year: 1995
+runtime: 250293
 ---
-
 Speak to me in a language I can hear
 Humour me before I have to go
 Deep in thought I forgive everyone
@@ -115,6 +119,3 @@ Graceful swans of never topple to the earth
 Tomorrow's just an excuse
 And you can make it last, forever you
 You can make it last, forever you
-
-
-

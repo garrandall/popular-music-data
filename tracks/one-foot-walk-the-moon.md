@@ -1,8 +1,11 @@
 ---
+album: What If Nothing
 artists:
 - WALK THE MOON
+external_ids:
+  spotify: spotify:track:0iQ77tSa7ncj7zBPtVx6cU
 features: []
-genres: []
+first_released_as_single: false
 key: one-foot-walk-the-moon
 lyrics_url: https://genius.com/Walk-the-moon-one-foot-lyrics
 name: One Foot
@@ -39,6 +42,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2018-03-03'
+release_year: 2017
+runtime: 261373
 ---
 Not a soul up ahead
 And nothing behind

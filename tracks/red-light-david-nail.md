@@ -1,8 +1,11 @@
 ---
+album: I'm About To Come Alive
 artists:
 - David Nail
+external_ids:
+  spotify: spotify:track:66EhdSD4MPXk5ZXljDJWI6
 features: []
-genres: []
+first_released_as_single: false
 key: red-light-david-nail
 lyrics_url: https://www.azlyrics.com/lyrics/davidnail/redlight.html
 name: Red Light
@@ -71,8 +74,9 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '2010-01-23'
+release_year: 2009
+runtime: 246333
 ---
-
 So this is how it ends
 This is where it all goes down
 This is what "I don't love you" feels like
@@ -145,7 +149,4 @@ Some are leavin' town
 While my world's crashin' down
 On a Sunday
 In the sunshine
-At a red light 
-
-
-
+At a red light

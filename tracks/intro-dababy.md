@@ -1,8 +1,11 @@
 ---
+album: God's Work Resurrected
 artists:
 - DaBaby
+external_ids:
+  spotify: spotify:track:64Fn8MbDJMq05zkeBMb4AA
 features: []
-genres: []
+first_released_as_single: false
 key: intro-dababy
 lyrics_url: https://www.azlyrics.com/lyrics/dababy/dababyintro.html
 name: INTRO
@@ -31,8 +34,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2019-11-09'
+release_year: 2016
+runtime: 89559
 ---
-
 Ayy ayy, baby Jesus
 Oh, you got a new name now
 Baby Jesus
@@ -85,6 +89,3 @@ It's, it's official
 Grandma, grandma, his name ain't Baby Jesus no more
 Grandma, grandma, grandma
 DaBaby
-
-
-

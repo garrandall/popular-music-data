@@ -1,8 +1,11 @@
 ---
+album: Aquarium
 artists:
 - Aqua
+external_ids:
+  spotify: spotify:track:5tnqSEWM3EKoEtjSZpmHcH
 features: []
-genres: []
+first_released_as_single: false
 key: lollipop--candyman--aqua
 lyrics_url: https://www.azlyrics.com/lyrics/aqua/lollipopcandyman.html
 name: Lollipop (Candyman)
@@ -75,8 +78,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1998-04-04'
+release_year: 1997
+runtime: 216706
 ---
-
 I am the Candyman - Coming from Bountyland
 I am the Candyman - Coming from Bountyland!
 
@@ -130,6 +134,3 @@ And oh my love - let us fly to Bountyland
 
 You are my Lollipop - sugar sugar top
 You are my Lollipop - sugar sugar top
-
-
-

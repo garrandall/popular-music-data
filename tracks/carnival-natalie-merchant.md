@@ -1,8 +1,11 @@
 ---
+album: Tigerlily
 artists:
 - Natalie Merchant
+external_ids:
+  spotify: spotify:track:4QXhRjZacZ1gZUeL7Ukktw
 features: []
-genres: []
+first_released_as_single: false
 key: carnival-natalie-merchant
 lyrics_url: https://www.azlyrics.com/lyrics/nataliemerchant/carnival.html
 name: Carnival
@@ -131,8 +134,9 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1996-03-02'
+release_year: 1995
+runtime: 361106
 ---
-
 I've walked these streets
 A virtual stage
 It seemed to me
@@ -197,6 +201,3 @@ Mesmerized
 By what my eyes have found
 In that great street carnival
 In that carnival?
-
-
-

@@ -1,10 +1,13 @@
 ---
+album: Ol Skool
 artists:
 - Ol Skool
+external_ids:
+  spotify: spotify:track:5M4dLDycoCvH0yiTe2Ncfh
 features:
 - Keith Sweat
 - Xscape
-genres: []
+first_released_as_single: false
 key: am-i-dreaming-ol-skool-keith-sweat-xscape
 lyrics_url: https://genius.com/Ol-skool-am-i-dreaming-lyrics
 name: Am I Dreaming
@@ -61,6 +64,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1998-05-02'
+release_year: 1997
+runtime: 347266
 ---
 Am I dreaming baby?
 Are you for real?

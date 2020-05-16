@@ -1,8 +1,11 @@
 ---
+album: Spy
 artists:
 - Carly Simon
+external_ids:
+  spotify: spotify:track:2xel81F1bC8w4OPPLZca9o
 features: []
-genres: []
+first_released_as_single: false
 key: vengeance-carly-simon
 lyrics_url: https://www.azlyrics.com/lyrics/carlysimon/vengeance.html
 name: Vengeance
@@ -35,8 +38,9 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '1979-07-21'
+release_year: 1979
+runtime: 254400
 ---
-
 That's dangerous driving baby, The policeman said.
 I can smell the passion of another man on your breath
 I could give you life, get you back for what I saw
@@ -60,6 +64,3 @@ Though you've stopped me once again, It's not the end of the war
 It's vengeance she said, that's the law
 That's vengeance, that's vengeance she said,
 That's the law
-
-
-

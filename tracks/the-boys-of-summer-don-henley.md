@@ -1,8 +1,11 @@
 ---
+album: Building The Perfect Beast
 artists:
 - Don Henley
+external_ids:
+  spotify: spotify:track:4gvea7UlDkAvsJBPZAd4oB
 features: []
-genres: []
+first_released_as_single: false
 key: the-boys-of-summer-don-henley
 lyrics_url: https://genius.com/Don-henley-the-boys-of-summer-lyrics
 name: The Boys Of Summer
@@ -95,6 +98,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1985-04-06'
+release_year: 1984
+runtime: 288733
 ---
 Nobody on the road
 Nobody on the beach

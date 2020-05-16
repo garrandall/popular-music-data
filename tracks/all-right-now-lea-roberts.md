@@ -1,8 +1,11 @@
 ---
+album: 'We Came To Funk You Out: Disco From The United Artists Label'
 artists:
 - Lea Roberts
+external_ids:
+  spotify: spotify:track:1h2h43TEGBiFKqfM8TnNol
 features: []
-genres: []
+first_released_as_single: false
 key: all-right-now-lea-roberts
 name: All Right Now
 rankings:
@@ -18,5 +21,7 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1975-04-26'
+release_year: 1975
+runtime: 193720
 ---
 

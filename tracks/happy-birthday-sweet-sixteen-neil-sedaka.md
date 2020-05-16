@@ -1,8 +1,11 @@
 ---
+album: Circulate
 artists:
 - Neil Sedaka
+external_ids:
+  spotify: spotify:track:5ttys6S3vGWCgOpiuB5axN
 features: []
-genres: []
+first_released_as_single: false
 key: happy-birthday-sweet-sixteen-neil-sedaka
 lyrics_url: https://www.azlyrics.com/lyrics/neilsedaka/happybirthdaysweetsixteen.html
 name: Happy Birthday Sweet Sixteen
@@ -63,8 +66,9 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '1962-02-17'
+release_year: 1960
+runtime: 157026
 ---
-
 Tra la-la-la-la la-la-la-la
 Happy birthday sweet sixteen
 Tra la-la-la-la la-la-la-la
@@ -99,4 +103,3 @@ Happy birthday sweet sixteen
 Tra la-la-la-la la-la-la-la Happy birthday sweet sixteen
 Tra la-la-la-la la-la-la-la Happy birthday sweet sixteen
 Tra la-la-la-la la-la-la-la Happy birthday sweet sixteen
-

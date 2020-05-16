@@ -1,8 +1,11 @@
 ---
+album: Jim Stafford
 artists:
 - Jim Stafford
+external_ids:
+  spotify: spotify:track:1VREN3iKxfXrN6koXcXWPM
 features: []
-genres: []
+first_released_as_single: false
 key: spiders---snakes-jim-stafford
 lyrics_url: https://genius.com/Jim-stafford-spiders-and-snakes-lyrics
 name: Spiders & Snakes
@@ -99,6 +102,8 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '1974-04-13'
+release_year: 1973
+runtime: 186666
 ---
 I remember when Mary Lou
 Said, "you want to walk me home from school?"

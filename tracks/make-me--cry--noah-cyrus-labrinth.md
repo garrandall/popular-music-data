@@ -1,9 +1,12 @@
 ---
+album: Make Me (Cry)
 artists:
 - Noah Cyrus
+external_ids:
+  spotify: spotify:track:2BrzlUj1u1CtvaJDGIKpsP
 features:
 - Labrinth
-genres: []
+first_released_as_single: true
 key: make-me--cry--noah-cyrus-labrinth
 lyrics_url: https://www.azlyrics.com/lyrics/noahcyrus/makemecry.html
 name: Make Me (Cry)
@@ -68,8 +71,9 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '2017-04-08'
+release_year: 2016
+runtime: 242081
 ---
-
 I never needed you like I do right now
 I never needed you like I do right now
 I never hated you like I do right now
@@ -128,6 +132,3 @@ I never needed you like I do right now
 I never needed you like I do right now
 I never hated you like I do right now
 'Cause all you ever do is make me
-
-
-

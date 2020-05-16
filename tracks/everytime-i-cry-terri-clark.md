@@ -1,8 +1,11 @@
 ---
+album: How I Feel
 artists:
 - Terri Clark
+external_ids:
+  spotify: spotify:track:6bu8QRAGqZVEDbCEHez1P3
 features: []
-genres: []
+first_released_as_single: false
 key: everytime-i-cry-terri-clark
 lyrics_url: https://www.azlyrics.com/lyrics/terriclark/everytimeicry.html
 name: Everytime I Cry
@@ -39,8 +42,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1999-05-22'
+release_year: 1998
+runtime: 228240
 ---
-
 You call and wake me up, the way you always do
 Say you miss me and you're sorry, deja vu
 You push the button in the heart you know so well
@@ -82,6 +86,3 @@ Everytime I cry
 Everytime I do
 Everytime you lie
 Everytime I cry
-
-
-

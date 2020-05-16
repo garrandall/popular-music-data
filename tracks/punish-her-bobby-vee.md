@@ -1,8 +1,11 @@
 ---
+album: Bobby Vee's Golden Greats
 artists:
 - Bobby Vee
+external_ids:
+  spotify: spotify:track:2UGtk1SK3WwWGdR5m3g7II
 features: []
-genres: []
+first_released_as_single: false
 key: punish-her-bobby-vee
 lyrics_url: https://www.azlyrics.com/lyrics/bobbyvee/punishher.html
 name: Punish Her
@@ -39,8 +42,9 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '1962-10-20'
+release_year: 1962
+runtime: 122093
 ---
-
 If she has wronged you
 Found someone new
 But you feel it's not over
@@ -69,6 +73,3 @@ I still love you so
 
 Punish her, punish her
 Punish her, punish her
-
-
-

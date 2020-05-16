@@ -1,9 +1,12 @@
 ---
+album: Pac-Man Fever
 artists:
 - Buckner
 - Garcia
+external_ids:
+  spotify: spotify:track:1jinux2Q5Afix30KCtZiuz
 features: []
-genres: []
+first_released_as_single: false
 key: pac-man-fever-buckner-garcia
 lyrics_url: https://genius.com/Buckner-and-garcia-pac-man-fever-lyrics
 name: Pac-Man Fever
@@ -84,6 +87,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1982-05-15'
+release_year: 1982
+runtime: 229041
 ---
 I got a pocket full of quarters, and I'm headed to the arcade
 I don't have a lot of money, but I'm bringing ev'rything I made

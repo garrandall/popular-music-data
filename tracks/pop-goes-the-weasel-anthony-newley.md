@@ -1,8 +1,11 @@
 ---
+album: At His Best
 artists:
 - Anthony Newley
+external_ids:
+  spotify: spotify:track:5LIjieDz2qXX0OCegoBmPS
 features: []
-genres: []
+first_released_as_single: false
 key: pop-goes-the-weasel-anthony-newley
 lyrics_url: https://www.musixmatch.com/lyrics/Anthony-Newley/Pop-Goes-the-Weasel
 name: Pop Goes The Weasel
@@ -23,6 +26,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1962-01-13'
+release_year: 1961
+runtime: 166988
 ---
 Half a pound of tuppenny rice
 Half a pound of treacle

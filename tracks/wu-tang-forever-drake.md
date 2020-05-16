@@ -1,8 +1,11 @@
 ---
+album: Nothing Was The Same
 artists:
 - Drake
+external_ids:
+  spotify: spotify:track:5LAKjqbB5uurPpxFEicd9S
 features: []
-genres: []
+first_released_as_single: false
 key: wu-tang-forever-drake
 lyrics_url: https://genius.com/Drake-wu-tang-forever-lyrics
 name: Wu-Tang Forever
@@ -19,6 +22,8 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '2013-10-12'
+release_year: 2013
+runtime: 217680
 ---
 I just love when I'm with you, yeah, this shit is on ten
 We used to be friends, girl, and even back then

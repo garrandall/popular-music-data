@@ -1,8 +1,11 @@
 ---
+album: Rock Me Tonight
 artists:
 - Freddie Jackson
+external_ids:
+  spotify: spotify:track:2OfjYx3d9MASIbUlTwdPhR
 features: []
-genres: []
+first_released_as_single: false
 key: he-ll-never-love-you--like-i-do--freddie-jackson
 lyrics_url: https://genius.com/Freddie-jackson-hell-never-love-you-like-i-do-lyrics
 name: He'll Never Love You (Like I Do)
@@ -67,6 +70,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1986-03-22'
+release_year: 1985
+runtime: 283237
 ---
 Got someone else to keep you warm
 You've been seen in cozy places

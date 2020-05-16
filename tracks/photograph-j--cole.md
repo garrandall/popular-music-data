@@ -1,8 +1,11 @@
 ---
+album: KOD
 artists:
 - J. Cole
+external_ids:
+  spotify: spotify:track:0rQxJYkzMkcbed8NVmpvvT
 features: []
-genres: []
+first_released_as_single: false
 key: photograph-j--cole
 lyrics_url: https://www.azlyrics.com/lyrics/jcole/photograph.html
 name: Photograph
@@ -15,8 +18,9 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '2018-05-12'
+release_year: 2018
+runtime: 217840
 ---
-
 Fell in love through a photograph
 I don't even know your name
 Wonder if you'd follow back
@@ -113,6 +117,3 @@ I won't show my niggas now
 I 'II keep this one for myself
 Love today's gone digital
 And it's messing with my health
-
-
-

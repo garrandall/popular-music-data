@@ -1,8 +1,11 @@
 ---
+album: Exposed
 artists:
 - Kristinia DeBarge
+external_ids:
+  spotify: spotify:track:5myYDbAurm1CW038qd4gL2
 features: []
-genres: []
+first_released_as_single: false
 key: goodbye-kristinia-debarge
 lyrics_url: https://www.azlyrics.com/lyrics/kristiniadebarge/betterwaytosaygoodbye.html
 name: Goodbye
@@ -71,8 +74,9 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '2009-08-22'
+release_year: 2009
+runtime: 208133
 ---
-
 Another sleepless night, pretending everything's alright
 But we know the truth can't hide, yeah
 I wonder, could we ever be happy
@@ -127,6 +131,3 @@ Can't find a better way to say goodbye, say goodbye, say goodbye
 Is there a better way to say goodbye? Say goodbye, say goodbye
 Can't find a better way to say goodbye, say goodbye, say goodbye
 Is there a better way to say goodbye? Say goodbye, say goodbye
-
-
-

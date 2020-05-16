@@ -1,8 +1,11 @@
 ---
+album: About Love
 artists:
 - Gladys Knight And The Pips
+external_ids:
+  spotify: spotify:track:7CZArP5hXlOWgoGtkWbb6h
 features: []
-genres: []
+first_released_as_single: false
 key: landlord-gladys-knight-and-the-pips
 lyrics_url: https://genius.com/Gladys-knight-and-the-pips-landlord-lyrics
 name: Landlord
@@ -43,6 +46,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1980-08-09'
+release_year: 1980
+runtime: 272360
 ---
 You're the landlord and the keeper of our love
 You're the landlord and the keeper of our love

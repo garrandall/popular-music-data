@@ -1,8 +1,12 @@
 ---
+album: 'People Get Ready: The Best Of The Impressions Featuring Curtis Mayfield 1961
+  - 1968'
 artists:
 - The Impressions
+external_ids:
+  spotify: spotify:track:67GjAr4MsMZgYuNW0pX1fk
 features: []
-genres: []
+first_released_as_single: false
 key: meeting-over-yonder-the-impressions
 lyrics_url: https://www.azlyrics.com/lyrics/impressions/meetingoveryonder.html
 name: Meeting Over Yonder
@@ -39,8 +43,9 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '1965-07-24'
+release_year: 1965
+runtime: 138693
 ---
-
 Children, are you ready?
 There's gonna be a meeting over yonder
 Children, are you ready?
@@ -77,6 +82,3 @@ For the meeting over yonder
 For the meeting over yonder
 For the meeting over yonder
 For the meeting over yonder
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Patty
 artists:
 - Patty Duke
+external_ids:
+  spotify: spotify:track:34l5f31YtT0WFj1mY4QswG
 features: []
-genres: []
+first_released_as_single: false
 key: whenever-she-holds-you-patty-duke
 lyrics_url: https://www.musixmatch.com/lyrics/Patty-Duke/Whenever-She-Holds-You
 name: Whenever She Holds You
@@ -27,6 +30,8 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1966-03-26'
+release_year: 1966
+runtime: 149826
 ---
 Take your little heart
 Tear it all apart

@@ -1,8 +1,11 @@
 ---
+album: Let Me Party With You
 artists:
 - Bunny Sigler
+external_ids:
+  spotify: spotify:track:19l6i6YvhdngRHHq1DD43j
 features: []
-genres: []
+first_released_as_single: false
 key: let-me-party-with-you--part-1---party-party-party--bunny-sigler
 lyrics_url: https://genius.com/Bunny-sigler-let-me-party-with-you-lyrics
 name: Let Me Party With You (Part 1) (Party Party Party)
@@ -51,6 +54,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1978-05-06'
+release_year: 1977
+runtime: 747306
 ---
 Party, party
 Let's party

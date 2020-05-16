@@ -1,8 +1,11 @@
 ---
+album: Supersonic The Album
 artists:
 - J.J. Fad
+external_ids:
+  spotify: spotify:track:3G3lahQSMk4BHnap1i853u
 features: []
-genres: []
+first_released_as_single: false
 key: supersonic-j-j--fad
 lyrics_url: https://genius.com/Jj-fad-supersonic-lyrics
 name: Supersonic
@@ -95,6 +98,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1988-09-17'
+release_year: 1988
+runtime: 232306
 ---
 We're J.J. Fad and we're here to rock
 Rhymes like ours could never be stopped

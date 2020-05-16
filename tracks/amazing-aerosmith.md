@@ -1,8 +1,11 @@
 ---
+album: Get A Grip
 artists:
 - Aerosmith
+external_ids:
+  spotify: spotify:track:6beFuzSjwhOKFZp2aqYDdY
 features: []
-genres: []
+first_released_as_single: false
 key: amazing-aerosmith
 lyrics_url: https://www.azlyrics.com/lyrics/aerosmith/amazing.html
 name: Amazing
@@ -91,8 +94,9 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '1994-04-23'
+release_year: 1993
+runtime: 356160
 ---
-
 I kept the right ones out
 And let the wrong ones in
 Had an angel of mercy to see me through all my sins
@@ -131,6 +135,3 @@ Alive
 
 
 Desperate hearts, desperate hearts
-
-
-

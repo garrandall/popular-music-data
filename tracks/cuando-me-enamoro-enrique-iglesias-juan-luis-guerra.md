@@ -1,9 +1,12 @@
 ---
+album: Euphoria (Standard US/Latin version)
 artists:
 - Enrique Iglesias
+external_ids:
+  spotify: spotify:track:79gkHjNTSyGPXEyGkNQ8zH
 features:
 - Juan Luis Guerra
-genres: []
+first_released_as_single: false
 key: cuando-me-enamoro-enrique-iglesias-juan-luis-guerra
 lyrics_url: https://www.azlyrics.com/lyrics/enriqueiglesias/cuandomeenamoro.html
 name: Cuando Me Enamoro
@@ -28,8 +31,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2010-08-14'
+release_year: 2010
+runtime: 200346
 ---
-
 Ohh, oh, oh, oh
 
 Si pudiera bajarte una estrella del cielo
@@ -77,6 +81,3 @@ cuando menos me lo espero, me enamoro
 se detiene el tiempo, me viene el alma
 al cuerpo, al cuerpo, sonrio,
 sonrio, cuando me enamoro.
-
-
-

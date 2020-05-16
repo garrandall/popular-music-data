@@ -1,8 +1,11 @@
 ---
+album: 'Look Out For #1'
 artists:
 - The Brothers Johnson
+external_ids:
+  spotify: spotify:track:00PLtXXER1XcTRZvs3LioS
 features: []
-genres: []
+first_released_as_single: false
 key: get-the-funk-out-ma-face-the-brothers-johnson
 lyrics_url: https://www.azlyrics.com/lyrics/brothersjohnson/getthefunkoutmaface.html
 name: Get The Funk Out Ma Face
@@ -67,8 +70,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1976-11-20'
+release_year: 1976
+runtime: 147000
 ---
-
 Get the funk out ma face
 Get the funk out ma face
 Get the funk out ma face
@@ -138,6 +142,3 @@ Get the funk out ma face
 Get the funk out ma face
 Get the funk out ma face
 Get the funk out ma face
-
-
-

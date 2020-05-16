@@ -1,9 +1,12 @@
 ---
+album: The Night The Sun Came Up
 artists:
 - Dev
 - Enrique Iglesias
+external_ids:
+  spotify: spotify:track:6pbEAwYTQs2PK4JCmy2lTY
 features: []
-genres: []
+first_released_as_single: false
 key: naked-dev-enrique-iglesias
 lyrics_url: https://www.azlyrics.com/lyrics/dev/naked.html
 name: Naked
@@ -12,8 +15,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2012-04-14'
+release_year: 2012
+runtime: 236933
 ---
-
 You got a girl
 That doesn't look a thing like me
 The girl, your mother always said it would be
@@ -101,6 +105,3 @@ I feel naked
 
 
 Tonight, it's just me and you
-
-
-

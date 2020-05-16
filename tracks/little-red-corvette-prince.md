@@ -1,8 +1,11 @@
 ---
+album: '1999'
 artists:
 - Prince
+external_ids:
+  spotify: spotify:track:4iozhXt27eMl39W5z7R8H6
 features: []
-genres: []
+first_released_as_single: false
 key: little-red-corvette-prince
 lyrics_url: https://www.azlyrics.com/lyrics/prince/littleredcorvette.html
 name: Little Red Corvette
@@ -103,8 +106,9 @@ rankings:
   rank: 20
   ranking_list: Billboard Hot 100
   start_date: '2016-05-14'
+release_year: 1982
+runtime: 296906
 ---
-
 I guess I should've known by the way
 You parked your car sideways that it wouldn't last
 See, you're the kinda person that believes in makin' out once
@@ -185,6 +189,3 @@ Right into the ground
 (Right into the ground)
 Right into the ground
 (Right into the ground)
-
-
-

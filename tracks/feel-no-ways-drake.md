@@ -1,8 +1,11 @@
 ---
+album: Views
 artists:
 - Drake
+external_ids:
+  spotify: spotify:track:3cjF2OFRmip8spwZYQRKxP
 features: []
-genres: []
+first_released_as_single: false
 key: feel-no-ways-drake
 lyrics_url: https://genius.com/Drake-feel-no-ways-lyrics
 name: Feel No Ways
@@ -31,6 +34,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2016-06-25'
+release_year: 2016
+runtime: 240653
 ---
 I should be downtown, whipping on the way to you
 You got something that belongs to me

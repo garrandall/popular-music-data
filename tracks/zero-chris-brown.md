@@ -1,8 +1,11 @@
 ---
+album: Royalty (Deluxe Version)
 artists:
 - Chris Brown
+external_ids:
+  spotify: spotify:track:0j4giTw6pwgbFEHwMm4VWe
 features: []
-genres: []
+first_released_as_single: true
 key: zero-chris-brown
 lyrics_url: https://genius.com/Chris-brown-zero-lyrics
 name: Zero
@@ -15,6 +18,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2016-01-16'
+release_year: 2015
+runtime: 213876
 ---
 I thought we were great
 You took your love back and ran us off track

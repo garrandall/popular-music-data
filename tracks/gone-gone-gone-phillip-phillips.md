@@ -1,8 +1,11 @@
 ---
+album: The World From The Side Of The Moon
 artists:
 - Phillip Phillips
+external_ids:
+  spotify: spotify:track:5L79aNYCTKiZq7vaOElXYj
 features: []
-genres: []
+first_released_as_single: false
 key: gone-gone-gone-phillip-phillips
 lyrics_url: https://genius.com/Phillip-phillips-gone-gone-gone-lyrics
 name: Gone Gone Gone
@@ -127,6 +130,8 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '2013-10-12'
+release_year: 2013
+runtime: 209693
 ---
 When life leaves you high and dry
 I'll be at your door tonight

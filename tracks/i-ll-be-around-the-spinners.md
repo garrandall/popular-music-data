@@ -1,8 +1,11 @@
 ---
+album: Spinners
 artists:
 - The Spinners
+external_ids:
+  spotify: spotify:track:2vLaES21zwbX1Rnmj56Bbb
 features: []
-genres: []
+first_released_as_single: false
 key: i-ll-be-around-the-spinners
 lyrics_url: https://genius.com/The-spinners-ill-be-around-lyrics
 name: I'll Be Around
@@ -67,6 +70,8 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '1972-12-23'
+release_year: 1972
+runtime: 188800
 ---
 This is our fork in the road
 Love's last episode

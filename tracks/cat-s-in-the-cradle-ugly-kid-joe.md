@@ -1,8 +1,11 @@
 ---
+album: America's Least Wanted
 artists:
 - Ugly Kid Joe
+external_ids:
+  spotify: spotify:track:5x9RZg7HfXGY3JayXL3seF
 features: []
-genres: []
+first_released_as_single: false
 key: cat-s-in-the-cradle-ugly-kid-joe
 lyrics_url: https://www.azlyrics.com/lyrics/uglykidjoe/catsinthecradle.html
 name: Cat's In The Cradle
@@ -87,8 +90,9 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1993-06-26'
+release_year: 1992
+runtime: 241893
 ---
-
 My child arrived just the other day,
 He came to the world in the usual way.
 But there were planes to catch, and bills to pay.
@@ -147,6 +151,3 @@ Little boy blue and the man in the moon.
 "When you coming home, son?" "I don't know when,
 But we'll get together then, dad.
 You know we'll have a good time then."
-
-
-

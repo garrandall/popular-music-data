@@ -1,8 +1,11 @@
 ---
+album: Which Doobie U B?
 artists:
 - Funkdoobiest
+external_ids:
+  spotify: spotify:track:3IIcde6RoSqbDloQaDzoK2
 features: []
-genres: []
+first_released_as_single: false
 key: bow-wow-wow-funkdoobiest
 lyrics_url: https://genius.com/Funkdoobiest-bow-wow-wow-lyrics
 name: Bow Wow Wow
@@ -27,6 +30,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1993-05-22'
+release_year: 1993
+runtime: 254000
 ---
 Bow Wow...B-Bow Wow...B-B-Bow Wow...B-B-B-Bow Wow Wow
 Bow Wow...B-Bow Wow...B-B-Bow Wow...BOW WOW WOW

@@ -1,8 +1,11 @@
 ---
+album: Ricky Martin
 artists:
 - Ricky Martin
+external_ids:
+  spotify: spotify:track:1yKDl9K9lrbIFSpPBzEQtb
 features: []
-genres: []
+first_released_as_single: false
 key: shake-your-bon-bon-ricky-martin
 lyrics_url: https://genius.com/Ricky-martin-shake-your-bon-bon-lyrics
 name: Shake Your Bon-Bon
@@ -79,6 +82,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2000-03-18'
+release_year: 1999
+runtime: 192333
 ---
 Shake your bon-bon
 Shake your bon-bon

@@ -1,8 +1,11 @@
 ---
+album: Nothing But The Truth
 artists:
 - Mac McAnally
+external_ids:
+  spotify: spotify:track:7yEOpjupABq1MZ3XlUcvcE
 features: []
-genres: []
+first_released_as_single: false
 key: minimum-love-mac-mcanally
 lyrics_url: https://www.azlyrics.com/lyrics/macmcanally/minimumlove.html
 name: Minimum Love
@@ -55,8 +58,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1983-05-21'
+release_year: 1983
+runtime: 200133
 ---
-
 Well her face was not the face of an angel
 But I saw an angel
 And her eyes were not the eyes of a lady
@@ -85,6 +89,3 @@ Boy get your head out of the stars above
 You get the maximum pleasure from a minimum love
 Save your heart and let your body be enough
 To get the maximum pleasure from a minimum love
-
-
-

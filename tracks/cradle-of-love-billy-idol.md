@@ -1,8 +1,11 @@
 ---
+album: Charmed Life
 artists:
 - Billy Idol
+external_ids:
+  spotify: spotify:track:5TSANSqPTD6nBG0NSJWmVB
 features: []
-genres: []
+first_released_as_single: false
 key: cradle-of-love-billy-idol
 lyrics_url: https://www.azlyrics.com/lyrics/billyidol/cradleoflove.html
 name: Cradle Of Love
@@ -103,8 +106,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1990-10-13'
+release_year: 1990
+runtime: 281466
 ---
-
 Well rock the cradle of love
 Rock the cradle of love
 Yes the cradle of love don't rock easily It's true
@@ -178,6 +182,3 @@ If you sleaze me all right
 If you appeaze me tonight
 And let me ease you
 Cradle of love
-
-
-

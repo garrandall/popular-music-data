@@ -1,8 +1,11 @@
 ---
+album: Something To Live For
 artists:
 - Ella Fitzgerald
+external_ids:
+  spotify: spotify:track:43KOEciQpZGMVrBsUoPkVk
 features: []
-genres: []
+first_released_as_single: false
 key: bill-bailey-won-t-you-please-come-home-ella-fitzgerald
 lyrics_url: https://www.musixmatch.com/lyrics/Ella-Fitzgerald/Bill-Bailey-Won-t-You-Please-Come-Home
 name: Bill Bailey Won't You Please Come Home
@@ -19,6 +22,8 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1963-04-20'
+release_year: 1963
+runtime: 203626
 ---
 Thank you, you're very kind.
 Won't you come home Bill Bailey?

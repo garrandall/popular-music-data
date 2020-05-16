@@ -1,8 +1,11 @@
 ---
+album: A Place In The Sun
 artists:
 - Pablo Cruise
+external_ids:
+  spotify: spotify:track:6SMR0XI8a1D6gEpMTIju2y
 features: []
-genres: []
+first_released_as_single: false
 key: whatcha-gonna-do--pablo-cruise
 lyrics_url: https://www.azlyrics.com/lyrics/pablocruise/whatchagonnado.html
 name: Whatcha Gonna Do?
@@ -111,8 +114,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1977-10-08'
+release_year: 1977
+runtime: 256839
 ---
-
 Whatcha gonna do
 When she says goodbye?
 Whatcha gonna do
@@ -189,6 +193,3 @@ Whatcha gonna do
 When she says goodbye?
 Whatcha gonna do
 When she is gone?
-
-
-

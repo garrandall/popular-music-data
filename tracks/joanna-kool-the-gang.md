@@ -1,9 +1,12 @@
 ---
+album: In The Heart
 artists:
 - Kool
 - The Gang
+external_ids:
+  spotify: spotify:track:2TsogJzspZGV6eQuq2CEs8
 features: []
-genres: []
+first_released_as_single: false
 key: joanna-kool-the-gang
 lyrics_url: https://www.azlyrics.com/lyrics/koolthegang/joanna.html
 name: Joanna
@@ -104,8 +107,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1984-04-14'
+release_year: 1983
+runtime: 256066
 ---
-
 Joanna, I love you
 You're the one, the one for me
 
@@ -154,6 +158,3 @@ You're the one, the one for me
 Joanna, yes I love you, I love you
 You're the one, the one for me
 Believe me babe
-
-
-

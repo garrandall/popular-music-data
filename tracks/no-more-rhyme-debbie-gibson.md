@@ -1,8 +1,11 @@
 ---
+album: Electric Youth
 artists:
 - Debbie Gibson
+external_ids:
+  spotify: spotify:track:2CxHodO8PvTJjzjJLPjXEt
 features: []
-genres: []
+first_released_as_single: false
 key: no-more-rhyme-debbie-gibson
 lyrics_url: https://www.azlyrics.com/lyrics/debbiegibson/nomorerhyme.html
 name: No More Rhyme
@@ -63,9 +66,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1989-09-16'
+release_year: 1989
+runtime: 251280
 ---
-
-
 When the fear sets in
 Where the fire burns
 Where I find a place
@@ -120,6 +123,3 @@ We never put our love to the test (to the test)
 I've always felt the rhythm
 What happens when
 there's no more rhyme?
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Rock 'N' Roll Rarities
 artists:
 - Chuck Berry
+external_ids:
+  spotify: spotify:track:2NzqM7E2oC9p7vAS0TNt5z
 features: []
-genres: []
+first_released_as_single: false
 key: nadine--is-it-you---chuck-berry
 lyrics_url: https://genius.com/Chuck-berry-nadine-lyrics
 name: Nadine (Is It You?)
@@ -47,6 +50,8 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '1964-05-09'
+release_year: 1964
+runtime: 153400
 ---
 As I got on a city bus and found my vacant seat
 I thought I saw my future bride walking up the street

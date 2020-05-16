@@ -1,8 +1,11 @@
 ---
+album: 'Link Wray: Slinky! The Epic Sessions: 1958-1960'
 artists:
 - Link Wray And The Wraymen
+external_ids:
+  spotify: spotify:track:1GZgQlF6Sybt8VMDb2YYzM
 features: []
-genres: []
+first_released_as_single: false
 key: raw-hide-link-wray-and-the-wraymen
 name: Raw-Hide
 rankings:
@@ -58,5 +61,7 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '1959-04-20'
+release_year: 1959
+runtime: 125666
 ---
 

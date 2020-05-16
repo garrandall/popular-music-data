@@ -1,8 +1,11 @@
 ---
+album: The Best Of Me
 artists:
 - Andrea Martin
+external_ids:
+  spotify: spotify:track:4zygTlD6BMAZ3oGauPSod5
 features: []
-genres: []
+first_released_as_single: false
 key: let-me-return-the-favor-andrea-martin
 lyrics_url: https://genius.com/Andrea-martin-let-me-return-the-favor-lyrics
 name: Let Me Return The Favor
@@ -27,6 +30,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1998-11-28'
+release_year: 1998
+runtime: 254333
 ---
 So many times I've been let down
 To the point where love made no sound

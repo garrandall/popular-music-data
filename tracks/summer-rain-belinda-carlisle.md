@@ -1,8 +1,11 @@
 ---
+album: Runaway Horses
 artists:
 - Belinda Carlisle
+external_ids:
+  spotify: spotify:track:4tWlR5VTAAa1mwi7E4qJb1
 features: []
-genres: []
+first_released_as_single: false
 key: summer-rain-belinda-carlisle
 lyrics_url: https://www.azlyrics.com/lyrics/belindacarlisle/summerrain.html
 name: Summer Rain
@@ -59,8 +62,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1990-04-14'
+release_year: 1989
+runtime: 332400
 ---
-
 Whispering our goodbyes
 Waiting for a train
 I was dancing with my baby
@@ -122,6 +126,3 @@ Every night and every day now
 Though I know you've gone away
 Somewhere in my heart I'm always
 Dancing with you in the summer rain
-
-
-

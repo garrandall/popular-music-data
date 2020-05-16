@@ -1,8 +1,11 @@
 ---
+album: Paradise Theatre
 artists:
 - Styx
+external_ids:
+  spotify: spotify:track:5oVx6Gs3zWH3GB0TRoh1mO
 features: []
-genres: []
+first_released_as_single: false
 key: nothing-ever-goes-as-planned-styx
 lyrics_url: https://www.azlyrics.com/lyrics/styx/nothingevergoesasplanned.html
 name: Nothing Ever Goes As Planned
@@ -39,8 +42,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1981-08-29'
+release_year: 1981
+runtime: 286826
 ---
-
 What'cha going to do when the sun goes down tonight
 You'll hit the same old clubs, rap that same old trash
 That's right
@@ -84,6 +88,3 @@ But every time that things go wrong
 I'm still surprised
 I've done my duty and paid a fortune in dues
 Still got them Mother Nature's Blues
-
-
-

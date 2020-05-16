@@ -1,9 +1,12 @@
 ---
+album: "Love Yourself \u7D50 'Answer'"
 artists:
 - BTS
+external_ids:
+  spotify: spotify:track:03iCbZaM4OkRR4We6wIzvx
 features:
 - Nicki Minaj
-genres: []
+first_released_as_single: false
 key: idol-bts-nicki-minaj
 lyrics_url: https://genius.com/Genius-romanizations-bts-idol-remix-ft-nicki-minaj-romanized-lyrics
 name: IDOL
@@ -20,6 +23,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2018-09-22'
+release_year: 2018
+runtime: 260233
 ---
 방탄소년단 X 니키미나즈의 IDOL (Remix) 가사
 

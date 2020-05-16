@@ -1,8 +1,11 @@
 ---
+album: Rush Street
 artists:
 - Richard Marx
+external_ids:
+  spotify: spotify:track:04RhEX12gZhGanoLLe75sM
 features: []
-genres: []
+first_released_as_single: false
 key: chains-around-my-heart-richard-marx
 lyrics_url: https://www.azlyrics.com/lyrics/richardmarx/chainsaroundmyheart.html
 name: Chains Around My Heart
@@ -59,8 +62,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1993-01-16'
+release_year: 1991
+runtime: 344600
 ---
-
 Out of my sight
 But the vision is still the same
 Out of my mind
@@ -96,6 +100,3 @@ You've got to break these chains around my heart
 Cause I've been lonely too long
 You've got to break these chains around my heart
 So I can finally get on with my life
-
-
-

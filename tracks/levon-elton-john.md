@@ -1,8 +1,11 @@
 ---
+album: Madman Across The Water
 artists:
 - Elton John
+external_ids:
+  spotify: spotify:track:0aJfFLl0grcQS7euiIp0ni
 features: []
-genres: []
+first_released_as_single: false
 key: levon-elton-john
 lyrics_url: https://www.azlyrics.com/lyrics/eltonjohn/levon.html
 name: Levon
@@ -47,8 +50,9 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '1972-02-19'
+release_year: 1971
+runtime: 322133
 ---
-
 Levon wears his war wound like a crown
 He calls his child Jesus
 'Cause he likes the name
@@ -81,6 +85,3 @@ And Jesus, he wants to go to Venus
 Leaving Levon far behind
 Take a balloon and go sailing
 While Levon, Levon slowly dies
-
-
-

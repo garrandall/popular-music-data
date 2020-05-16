@@ -1,8 +1,11 @@
 ---
+album: It's All About the Beats
 artists:
 - Lil Skies
+external_ids:
+  spotify: spotify:track:5Cg98kiDYtCEHmjcKD0CJD
 features: []
-genres: []
+first_released_as_single: true
 key: i-lil-skies
 lyrics_url: https://genius.com/Lil-skies-i-lyrics
 name: I
@@ -23,6 +26,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '2019-04-06'
+release_year: 2018
+runtime: 211200
 ---
 One time just a little bit, I
 Go 'head, O

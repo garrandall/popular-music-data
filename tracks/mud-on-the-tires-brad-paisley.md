@@ -1,8 +1,11 @@
 ---
+album: Mud On The Tires
 artists:
 - Brad Paisley
+external_ids:
+  spotify: spotify:track:4AQWKGBWTR7fVuUKxi5sKE
 features: []
-genres: []
+first_released_as_single: false
 key: mud-on-the-tires-brad-paisley
 lyrics_url: https://www.azlyrics.com/lyrics/bradpaisley/mudonthetires.html
 name: Mud On The Tires
@@ -87,8 +90,9 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '2005-04-16'
+release_year: 2003
+runtime: 208266
 ---
-
 I've got some big news 
 The bank finally came through
 And I'm holdin' the keys to a brand new Chevrolet
@@ -125,6 +129,3 @@ Let's get a little mud on the tires
 
 And then with a little luck we might just get stuck
 Let's get a little mud on the tires
-
-
-

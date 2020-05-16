@@ -1,8 +1,11 @@
 ---
+album: Love Behind The Melody
 artists:
 - Raheem DeVaughn
+external_ids:
+  spotify: spotify:track:00chQGvija63zygRg8nyL6
 features: []
-genres: []
+first_released_as_single: false
 key: woman-raheem-devaughn
 lyrics_url: https://genius.com/Raheem-devaughn-woman-lyrics
 name: Woman
@@ -23,6 +26,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2008-04-05'
+release_year: 2004
+runtime: 267600
 ---
 This is official right now in 4 minutes or less
 We going to crown all of them right now

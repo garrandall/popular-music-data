@@ -1,8 +1,11 @@
 ---
+album: Purpose
 artists:
 - Justin Bieber
+external_ids:
+  spotify: spotify:track:50kpGaPAhYJ3sGmk6vplg0
 features: []
-genres: []
+first_released_as_single: false
 key: love-yourself-justin-bieber
 lyrics_url: https://genius.com/Justin-bieber-love-yourself-lyrics
 name: Love Yourself
@@ -171,6 +174,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2016-09-10'
+release_year: 2015
+runtime: 233720
 ---
 For all the times that you rained on my parade
 And all the clubs you get in using my name

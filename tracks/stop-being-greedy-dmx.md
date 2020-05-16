@@ -1,8 +1,11 @@
 ---
+album: It's Dark And Hell Is Hot
 artists:
 - DMX
+external_ids:
+  spotify: spotify:track:4OEQvuMVls5otpAqgMPP3Q
 features: []
-genres: []
+first_released_as_single: false
 key: stop-being-greedy-dmx
 lyrics_url: https://www.azlyrics.com/lyrics/dmx/stopbeinggreedy.html
 name: Stop Being Greedy
@@ -31,9 +34,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1998-09-19'
+release_year: 1998
+runtime: 185093
 ---
-
-
 Y'all been eatin long enough now stop being greedy
 Just keep it real partner give to the needy
 Ribs is touchin', so don't make me wait
@@ -93,4 +96,3 @@ With the curse and it gets worse as time goes by
 Can't see straight cause I'm so high
 Why ask why when you know?
 Nigga, when its your time to go, you go
-

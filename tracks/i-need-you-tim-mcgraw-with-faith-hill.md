@@ -1,9 +1,12 @@
 ---
+album: Let It Go
 artists:
 - Tim McGraw
+external_ids:
+  spotify: spotify:track:18wDkct4lkK046D6gcCASs
 features:
 - Faith Hill
-genres: []
+first_released_as_single: false
 key: i-need-you-tim-mcgraw-with-faith-hill
 lyrics_url: https://genius.com/Tim-mcgraw-i-need-you-lyrics
 name: I Need You
@@ -72,6 +75,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2007-09-15'
+release_year: 2007
+runtime: 248800
 ---
 I want to drink that shot of whiskey
 I want to smoke that cigarette

@@ -1,8 +1,11 @@
 ---
+album: Home to You
 artists:
 - John Michael Montgomery
+external_ids:
+  spotify: spotify:track:3iR9PLIjOlmi212gyGLPYe
 features: []
-genres: []
+first_released_as_single: false
 key: home-to-you-john-michael-montgomery
 lyrics_url: https://www.azlyrics.com/lyrics/johnmichaelmontgomery/hometoyou.html
 name: Home To You
@@ -87,8 +90,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2000-02-12'
+release_year: 1999
+runtime: 209066
 ---
-
 I get up and battle the day 
 Things don't always go my way 
 It might rain but that's okay 
@@ -120,6 +124,3 @@ I get to come home to you
 
 Yes I get to come home to you 
 Oh I love coming home to you
-
-
-

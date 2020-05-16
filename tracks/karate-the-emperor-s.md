@@ -1,8 +1,11 @@
 ---
+album: Karate
 artists:
 - The Emperor's
+external_ids:
+  spotify: spotify:track:7o3mquXtovl4Lg2UwmuF9w
 features: []
-genres: []
+first_released_as_single: false
 key: karate-the-emperor-s
 name: Karate
 rankings:
@@ -42,5 +45,7 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '1967-01-28'
+release_year: 1966
+runtime: 182466
 ---
 

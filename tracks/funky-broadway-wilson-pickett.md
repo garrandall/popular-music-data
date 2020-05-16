@@ -1,8 +1,11 @@
 ---
+album: The Sound of Wilson Pickett
 artists:
 - Wilson Pickett
+external_ids:
+  spotify: spotify:track:4Kj7BJGxHXqNiAGXVD2xAH
 features: []
-genres: []
+first_released_as_single: false
 key: funky-broadway-wilson-pickett
 lyrics_url: https://www.azlyrics.com/lyrics/wilsonpickett/funkybroadway.html
 name: Funky Broadway
@@ -55,8 +58,9 @@ rankings:
   rank: 38
   ranking_list: Billboard Hot 100
   start_date: '1967-10-21'
+release_year: 1967
+runtime: 156893
 ---
-
 Every town I go in, there's a street
 Name of the street, ha
 Funky, Funky Broadway
@@ -94,6 +98,3 @@ Broadway Woman
 Down on Broadway, yeah
 There's a man, ha
 Name of the man, now
-
-
-

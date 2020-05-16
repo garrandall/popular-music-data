@@ -1,10 +1,13 @@
 ---
+album: SEX AND LOVE
 artists:
 - Enrique Iglesias
+external_ids:
+  spotify: spotify:track:32lm3769IRfcnrQV11LO4E
 features:
 - Descemer Bueno
 - Gente de Zona
-genres: []
+first_released_as_single: false
 key: bailando-enrique-iglesias-descemer-bueno-gente-de-zona
 lyrics_url: https://genius.com/Enrique-iglesias-bailando-portugal-version-lyrics
 name: Bailando
@@ -129,6 +132,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '2014-12-06'
+release_year: 2014
+runtime: 243413
 ---
 Letra de "Bailando (Portuguese Portugal Version)" com
 Enrique Iglesias, Mickael Carreira, Gente De Zona & Desmecer Bueno

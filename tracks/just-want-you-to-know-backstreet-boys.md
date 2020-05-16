@@ -1,8 +1,11 @@
 ---
+album: Never Gone
 artists:
 - Backstreet Boys
+external_ids:
+  spotify: spotify:track:17lJlBTeJZEC5r4m8kqrE4
 features: []
-genres: []
+first_released_as_single: false
 key: just-want-you-to-know-backstreet-boys
 lyrics_url: https://genius.com/Backstreet-boys-just-want-you-to-know-lyrics
 name: Just Want You To Know
@@ -23,6 +26,8 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '2005-09-24'
+release_year: 2005
+runtime: 231186
 ---
 Looking at your picture from when we first met
 You gave me a smile that I could never forget

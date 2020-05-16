@@ -1,8 +1,11 @@
 ---
+album: Rocket to Russia
 artists:
 - Ramones
+external_ids:
+  spotify: spotify:track:2HZGsnMByx3V8KmNW6LqWF
 features: []
-genres: []
+first_released_as_single: false
 key: rockaway-beach-ramones
 lyrics_url: https://genius.com/Ramones-rockaway-beach-lyrics
 name: Rockaway Beach
@@ -63,6 +66,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1978-03-04'
+release_year: 1977
+runtime: 126453
 ---
 Chewing out a rhythm on my bubble gum
 The sun is out and I want some

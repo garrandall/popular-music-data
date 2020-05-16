@@ -1,8 +1,11 @@
 ---
+album: Like a Virgin (Reissue)
 artists:
 - Madonna
+external_ids:
+  spotify: spotify:track:1S14j6I0RrdQoxrm7zZNHL
 features: []
-genres: []
+first_released_as_single: false
 key: love-don-t-live-here-anymore-madonna
 lyrics_url: https://genius.com/Madonna-love-dont-live-here-anymore-lyrics
 name: Love Don't Live Here Anymore
@@ -39,6 +42,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1996-06-08'
+release_year: 1984
+runtime: 288266
 ---
 You abandoned me
 Love don't live here anymore

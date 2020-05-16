@@ -1,8 +1,11 @@
 ---
+album: The Comfort Zone
 artists:
 - Vanessa Williams
+external_ids:
+  spotify: spotify:track:50H6z12Lesm74dBLlaHwqs
 features: []
-genres: []
+first_released_as_single: false
 key: just-for-tonight-vanessa-williams
 lyrics_url: https://www.azlyrics.com/lyrics/vanessawilliams/justfortonight.html
 name: Just For Tonight
@@ -83,8 +86,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1992-09-26'
+release_year: 1991
+runtime: 268600
 ---
-
 It's hard to realize we've said our last goodbyes
 Where could the dream have gone to
 Now I know there's no way that I can make you stay
@@ -121,6 +125,3 @@ All I ask is for tonight
 Baby just hold me tight. Yeah...
 Come to me, let me dream
 This night means everything to me
-
-
-

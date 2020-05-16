@@ -1,8 +1,11 @@
 ---
+album: Infest
 artists:
 - Papa Roach
+external_ids:
+  spotify: spotify:track:4YLI2hVQu66q23ScZKFg47
 features: []
-genres: []
+first_released_as_single: false
 key: last-resort-papa-roach
 lyrics_url: https://www.azlyrics.com/lyrics/paparoach/lastresort.html
 name: Last Resort
@@ -87,8 +90,9 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '2000-12-09'
+release_year: 2000
+runtime: 199760
 ---
-
 Cut my life into pieces
 This is my last resort
 Suffocation, no breathing
@@ -156,6 +160,3 @@ I'm running and I'm crying
 I can't go on living this way
 
 Can't go on, living this way, nothing's alright
-
-
-

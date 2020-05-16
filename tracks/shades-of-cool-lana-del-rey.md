@@ -1,8 +1,11 @@
 ---
+album: Ultraviolence
 artists:
 - Lana Del Rey
+external_ids:
+  spotify: spotify:track:4VSg5K1hnbmIg4PwRdY6wV
 features: []
-genres: []
+first_released_as_single: false
 key: shades-of-cool-lana-del-rey
 lyrics_url: https://www.azlyrics.com/lyrics/lanadelrey/shadesofcool.html
 name: Shades Of Cool
@@ -11,8 +14,9 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '2014-06-14'
+release_year: 2014
+runtime: 342093
 ---
-
 My baby lives in shades of blue
 Blue eyes and jazz and attitude
 He lives in California too
@@ -60,6 +64,3 @@ You are invincible
 I can't break through your world
 'Cause you live in shades of cool
 Your heart is unbreakable
-
-
-

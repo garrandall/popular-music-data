@@ -1,8 +1,11 @@
 ---
+album: 2nd Time Around
 artists:
 - The Spinners
+external_ids:
+  spotify: spotify:track:0ffOVvcToUWmxHPODrLUZw
 features: []
-genres: []
+first_released_as_single: false
 key: together-we-can-make-such-sweet-music-the-spinners
 lyrics_url: https://genius.com/The-spinners-together-we-can-make-such-sweet-music-lyrics
 name: Together We Can Make Such Sweet Music
@@ -27,6 +30,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1973-06-09'
+release_year: 1970
+runtime: 184786
 ---
 Ho, why should you go to the left?
 Why should I go to the right?

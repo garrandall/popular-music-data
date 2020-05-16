@@ -1,9 +1,12 @@
 ---
+album: Shotgun
 artists:
 - Jr. Walker
 - The All Stars
+external_ids:
+  spotify: spotify:track:43YABWyEDz7auf9nW9j9hf
 features: []
-genres: []
+first_released_as_single: false
 key: cleo-s-mood-jr--walker-the-all-stars
 name: Cleo's Mood
 rankings:
@@ -31,5 +34,7 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '1966-02-19'
+release_year: 1965
+runtime: 161973
 ---
 

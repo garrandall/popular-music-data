@@ -1,9 +1,12 @@
 ---
+album: Over It
 artists:
 - Summer Walker
 - Usher
+external_ids:
+  spotify: spotify:track:3TTMUI5dFcbeNSDTTDY9M8
 features: []
-genres: []
+first_released_as_single: false
 key: come-thru-summer-walker-usher
 lyrics_url: https://www.azlyrics.com/lyrics/summerwalker/comethru.html
 name: Come Thru
@@ -52,8 +55,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2020-03-07'
+release_year: 2019
+runtime: 181013
 ---
-
 (We got London on the track)
 
 I shoulda known better
@@ -115,6 +119,3 @@ But you'll do
 
 New relationship too, this is what ya do
 Think about her, good Lord
-
-
-

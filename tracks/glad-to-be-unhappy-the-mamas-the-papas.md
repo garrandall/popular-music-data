@@ -1,9 +1,12 @@
 ---
+album: Creeque Alley - The History Of The Mamas And The Papas
 artists:
 - The Mamas
 - The Papas
+external_ids:
+  spotify: spotify:track:1Dw7FyvCJ21oENBoyG3dfn
 features: []
-genres: []
+first_released_as_single: false
 key: glad-to-be-unhappy-the-mamas-the-papas
 lyrics_url: https://www.azlyrics.com/lyrics/mamasandthepapas/gladtobeunhappy.html
 name: Glad To Be Unhappy
@@ -36,8 +39,9 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '1967-12-09'
+release_year: 1967
+runtime: 102226
 ---
-
 Fools rush in, so here I am
 Awfully glad to be unhappy.
 I can't win, but here I am
@@ -62,6 +66,3 @@ With no mama and no papa,
 I'm so unhappy, yeah...
 
 But oh so glad
-
-
-

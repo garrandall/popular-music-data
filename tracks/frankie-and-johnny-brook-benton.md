@@ -1,8 +1,11 @@
 ---
+album: Rainy Night In Georgia
 artists:
 - Brook Benton
+external_ids:
+  spotify: spotify:track:65Pa4Ud3Wojv0lIKgEpJ72
 features: []
-genres: []
+first_released_as_single: false
 key: frankie-and-johnny-brook-benton
 lyrics_url: https://www.musixmatch.com/lyrics/Brook-Benton/Frankie-and-Johnny
 name: Frankie And Johnny
@@ -39,6 +42,8 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1961-10-09'
+release_year: 1961
+runtime: 143190
 ---
 Little Frankie went down to the barroom, she asked for a glass of beer
 She said, "Hey, bartender, has my Johnny been here?"

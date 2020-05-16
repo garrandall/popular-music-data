@@ -1,8 +1,11 @@
 ---
+album: Parallel Lines
 artists:
 - Blondie
+external_ids:
+  spotify: spotify:track:59CLe8stbcx4XYBWdsfbwK
 features: []
-genres: []
+first_released_as_single: false
 key: one-way-or-another-blondie
 lyrics_url: https://genius.com/Blondie-one-way-or-another-lyrics
 name: One Way Or Another
@@ -63,6 +66,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1979-09-01'
+release_year: 1978
+runtime: 217364
 ---
 One way or another, I'm going to find ya
 I'm gonna get ya, get ya, get ya, get ya

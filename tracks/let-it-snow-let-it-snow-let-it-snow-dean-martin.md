@@ -1,8 +1,11 @@
 ---
+album: A Winter Romance
 artists:
 - Dean Martin
+external_ids:
+  spotify: spotify:track:2uFaJJtFpPDc5Pa95XzTvg
 features: []
-genres: []
+first_released_as_single: false
 key: let-it-snow-let-it-snow-let-it-snow-dean-martin
 lyrics_url: https://www.azlyrics.com/lyrics/deanmartin/letitsnowletitsnowletitsnow.html
 name: Let It Snow Let It Snow Let It Snow
@@ -39,8 +42,9 @@ rankings:
   rank: 15
   ranking_list: Billboard Hot 100
   start_date: '2020-01-04'
+release_year: 1959
+runtime: 117146
 ---
-
 Oh, the weather outside is frightful
 But the fire is so delightful
 And since we've no place to go
@@ -70,6 +74,3 @@ Oh, the fire is slowly dying
 And, my dear, we're still goodbying
 But as long as you love me so
 Let it snow, let it snow, let it snow
-
-
-

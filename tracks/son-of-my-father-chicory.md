@@ -1,8 +1,11 @@
 ---
+album: Son Of My Father
 artists:
 - Chicory
+external_ids:
+  spotify: spotify:track:3qf9W9QnzuwtCofZjV8Gb9
 features: []
-genres: []
+first_released_as_single: false
 key: son-of-my-father-chicory
 lyrics_url: https://www.azlyrics.com/lyrics/chicorytip/sonofmyfather.html
 name: Son Of My Father
@@ -19,8 +22,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1972-03-25'
+release_year: 1972
+runtime: 179453
 ---
-
 Mama said to me: "We gotta have your life run right
 Off you go to school where you can learn the rules there right
 Be just like your dabbling father when it seems tradition
@@ -48,6 +52,3 @@ Moulded, I was folded, I was free from drive
 Son of my father
 Commanded, I was branded in a plastic bag
 Surrounded and confounded by statistic facts
-
-
-

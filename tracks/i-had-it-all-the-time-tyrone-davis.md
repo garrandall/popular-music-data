@@ -1,8 +1,11 @@
 ---
+album: 20 Greatest Hits
 artists:
 - Tyrone Davis
+external_ids:
+  spotify: spotify:track:3EupmhbIZlVTisyLY2plYm
 features: []
-genres: []
+first_released_as_single: false
 key: i-had-it-all-the-time-tyrone-davis
 lyrics_url: https://www.musixmatch.com/lyrics/Tyrone-Davis/I-Had-It-All-The-Time
 name: I Had It All The Time
@@ -43,6 +46,8 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '1972-05-20'
+release_year: 1972
+runtime: 325893
 ---
 There must be something
 That I'm missing

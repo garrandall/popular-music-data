@@ -1,8 +1,11 @@
 ---
+album: Into The Great Wide Open
 artists:
 - Tom Petty And The Heartbreakers
+external_ids:
+  spotify: spotify:track:17S4XrLvF5jlGvGCJHgF51
 features: []
-genres: []
+first_released_as_single: false
 key: learning-to-fly-tom-petty-and-the-heartbreakers
 lyrics_url: https://www.azlyrics.com/lyrics/tompettyandtheheartbreakers/learningtofly.html
 name: Learning To Fly
@@ -63,8 +66,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1991-09-28'
+release_year: 1991
+runtime: 242106
 ---
-
 Well, I started out down a dirty road
 Started out all alone
 And the sun went down as I crossed the hill
@@ -100,6 +104,3 @@ Must come down
 I'm learning to fly (Learning to fly, learning to fly)
 I'm learning to fly (Learning to fly, learning to fly)
 (Learning to fly, learning to fly)
-
-
-

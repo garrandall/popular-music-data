@@ -1,8 +1,11 @@
 ---
+album: A Step Further
 artists:
 - Savoy Brown
+external_ids:
+  spotify: spotify:track:6f8jpTDZ0uekP9RxuAvo8T
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-tired-savoy-brown
 lyrics_url: https://genius.com/Savoy-brown-im-tired-lyrics
 name: I'm Tired
@@ -27,6 +30,8 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '1969-12-27'
+release_year: 1969
+runtime: 305200
 ---
 I'm tired of being a fool
 And my mind going from hot to cool

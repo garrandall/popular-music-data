@@ -1,8 +1,11 @@
 ---
+album: Vitalogy
 artists:
 - Pearl Jam
+external_ids:
+  spotify: spotify:track:0TQvjpyA3NfYLrwIhKxSON
 features: []
-genres: []
+first_released_as_single: false
 key: tremor-christ-pearl-jam
 lyrics_url: https://www.azlyrics.com/lyrics/pearljam/tremorchrist.html
 name: Tremor Christ
@@ -31,8 +34,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1994-12-24'
+release_year: 1994
+runtime: 250600
 ---
-
 winded is the sailor...drifting by the storm
 wounded is the organ he left all...bloodied on the shore...
 gorgeous was his savior, sees her...drowning in his wake...
@@ -50,6 +54,3 @@ to get by...it's divine...whoa
 oh, you know what it's like...
 turns the bow back, tows and...drops the line...
 puts his faith in love and tremor christ...
-
-
-

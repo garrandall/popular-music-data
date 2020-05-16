@@ -1,8 +1,11 @@
 ---
+album: Live And In Concert
 artists:
 - Four Tops
+external_ids:
+  spotify: spotify:track:2kzLnh2CrPwBBmNZxxOpLO
 features: []
-genres: []
+first_released_as_single: false
 key: standing-in-the-shadows-of-love-four-tops
 lyrics_url: https://genius.com/The-four-tops-standing-in-the-shadows-of-love-lyrics
 name: Standing In The Shadows Of Love
@@ -47,6 +50,8 @@ rankings:
   rank: 26
   ranking_list: Billboard Hot 100
   start_date: '1967-02-18'
+release_year: 1966
+runtime: 304800
 ---
 Standin' in the shadow of love
 I'm gettin' ready for the heartaches to come

@@ -1,8 +1,11 @@
 ---
+album: The Complete Mercury & Columbia Singles As & Bs 1955-62
 artists:
 - Jimmy Dean
+external_ids:
+  spotify: spotify:track:34vIkmxGk4J99t0lvngzvX
 features: []
-genres: []
+first_released_as_single: false
 key: steel-men-jimmy-dean
 lyrics_url: https://genius.com/Jimmy-dean-steel-men-lyrics
 name: Steel Men
@@ -39,6 +42,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1962-08-11'
+release_year: 1961
+runtime: 164040
 ---
 Steel men, hey
 Working on a bridge of steel

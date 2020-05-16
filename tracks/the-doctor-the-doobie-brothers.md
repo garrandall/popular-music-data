@@ -1,8 +1,11 @@
 ---
+album: Cycles
 artists:
 - The Doobie Brothers
+external_ids:
+  spotify: spotify:track:5Qb7gx7gcxsYi3l7FHHm56
 features: []
-genres: []
+first_released_as_single: false
 key: the-doctor-the-doobie-brothers
 lyrics_url: https://genius.com/The-doobie-brothers-the-doctor-lyrics
 name: The Doctor
@@ -63,6 +66,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1989-08-19'
+release_year: 1989
+runtime: 225853
 ---
 I'm a man who lives in the city
 I'm a man who lives in the street

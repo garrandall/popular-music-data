@@ -1,8 +1,11 @@
 ---
+album: One On One
 artists:
 - Cheap Trick
+external_ids:
+  spotify: spotify:track:33F53ab2f3kUTGBzknXYNY
 features: []
-genres: []
+first_released_as_single: false
 key: she-s-tight-cheap-trick
 lyrics_url: https://genius.com/Cheap-trick-shes-tight-lyrics
 name: She's Tight
@@ -35,6 +38,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1982-11-20'
+release_year: 1977
+runtime: 177933
 ---
 When I'm down I make a call
 Got the number written on the wall

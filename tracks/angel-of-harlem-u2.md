@@ -1,8 +1,11 @@
 ---
+album: Rattle And Hum
 artists:
 - U2
+external_ids:
+  spotify: spotify:track:7iBav4v8maicL8cWKGxFhQ
 features: []
-genres: []
+first_released_as_single: false
 key: angel-of-harlem-u2
 lyrics_url: https://www.azlyrics.com/lyrics/u2band/angelofharlem.html
 name: Angel Of Harlem
@@ -67,8 +70,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1989-03-25'
+release_year: 1988
+runtime: 229266
 ---
-
 It was a cold and wet December day
 When we touched the ground at JFK
 Snow was melting on the ground
@@ -113,4 +117,3 @@ You never looked like an angel
 Yeah yeah...angel of Harlem
 
 Angel...angel of Harlem
-

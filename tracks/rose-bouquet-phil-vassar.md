@@ -1,8 +1,11 @@
 ---
+album: Phil Vassar
 artists:
 - Phil Vassar
+external_ids:
+  spotify: spotify:track:0ITpSCNjLUPmDvUYJG2tG6
 features: []
-genres: []
+first_released_as_single: false
 key: rose-bouquet-phil-vassar
 lyrics_url: https://www.azlyrics.com/lyrics/philvassar/rosebouquet.html
 name: Rose Bouquet
@@ -23,8 +26,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2001-05-19'
+release_year: 2000
+runtime: 233506
 ---
-
 We were somethin', you and me
 Yeah we had'em rollin' in the aisles
 We got it right once, didn't we
@@ -65,6 +69,3 @@ We played to win
 We never gave in
 And we threw it all away
 Like your rose bouquet
-
-
-

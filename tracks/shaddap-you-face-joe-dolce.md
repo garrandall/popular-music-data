@@ -1,8 +1,11 @@
 ---
+album: Shaddap You Face - Single
 artists:
 - Joe Dolce
+external_ids:
+  spotify: spotify:track:7fgS7jlaRkpbUVYCe2Mt7i
 features: []
-genres: []
+first_released_as_single: true
 key: shaddap-you-face-joe-dolce
 lyrics_url: https://genius.com/Joe-dolce-shaddap-you-face-lyrics
 name: Shaddap You Face
@@ -63,6 +66,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1981-08-01'
+release_year: 1981
+runtime: 193160
 ---
 'Allo, I'm-a Giuseppe
 I got-a something special-a for you, ready?

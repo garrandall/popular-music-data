@@ -1,8 +1,11 @@
 ---
+album: Journey Home
 artists:
 - Will To Power
+external_ids:
+  spotify: spotify:track:0nCYZQ1nvXe7PghwP028jD
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-not-in-love-will-to-power
 lyrics_url: https://genius.com/Will-to-power-im-not-in-love-lyrics
 name: I'm Not In Love
@@ -79,6 +82,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1991-03-16'
+release_year: 1990
+runtime: 227906
 ---
 I'm not in love, so don't forget it
 It's just a silly phase I'm going through

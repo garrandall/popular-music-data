@@ -1,8 +1,11 @@
 ---
+album: Straight Shooter
 artists:
 - Bad Company
+external_ids:
+  spotify: spotify:track:4zzBhwmZCd1laUNgErXZIT
 features: []
-genres: []
+first_released_as_single: false
 key: good-lovin--gone-bad-bad-company
 lyrics_url: https://www.azlyrics.com/lyrics/badcompany/goodlovingonebad.html
 name: Good Lovin' Gone Bad
@@ -39,8 +42,9 @@ rankings:
   rank: 36
   ranking_list: Billboard Hot 100
   start_date: '1975-06-07'
+release_year: 1975
+runtime: 216640
 ---
-
 If I hear you knocking hard upon my door, Ain't no way that
 I'm gonna answer it. 'Cos cheating is a one thing and lying is another,
 And when I say it's over, that's it, I'm gonna quit! Yeah, yeah, yeah, yeah.
@@ -67,6 +71,3 @@ Good lovin' gone bad, Oh, baby I'm a bad man,
 Good lovin gone bad, Good lovin' gone bad,
 Good lovin' gone bad, I'm a sad man, Don't stand in my way,
 'Cause baby I'm a bad man, Yeah, yeah, yeah...
-
-
-

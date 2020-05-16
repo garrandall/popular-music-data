@@ -1,8 +1,11 @@
 ---
+album: Made In The A.M.
 artists:
 - One Direction
+external_ids:
+  spotify: spotify:track:5CRVwXGikmqzoRO6q7FeAg
 features: []
-genres: []
+first_released_as_single: false
 key: if-i-could-fly-one-direction
 lyrics_url: https://genius.com/One-direction-if-i-could-fly-lyrics
 name: If I Could Fly
@@ -11,6 +14,8 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '2015-12-05'
+release_year: 2015
+runtime: 230320
 ---
 If I could fly
 I'd be coming right back home to you

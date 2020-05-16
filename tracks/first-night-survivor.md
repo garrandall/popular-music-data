@@ -1,8 +1,11 @@
 ---
+album: Vital Signs
 artists:
 - Survivor
+external_ids:
+  spotify: spotify:track:166gxJs7ImEqP2krJJYXgc
 features: []
-genres: []
+first_released_as_single: false
 key: first-night-survivor
 lyrics_url: https://genius.com/Survivor-first-night-lyrics
 name: First Night
@@ -43,6 +46,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1985-10-12'
+release_year: 1984
+runtime: 256573
 ---
 We will remember this first night forever
 After all the songs fade away

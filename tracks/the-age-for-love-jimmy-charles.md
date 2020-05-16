@@ -1,8 +1,11 @@
 ---
+album: A Million to One
 artists:
 - Jimmy Charles
+external_ids:
+  spotify: spotify:track:6KMnRkLCBC9e99G8IsfC95
 features: []
-genres: []
+first_released_as_single: false
 key: the-age-for-love-jimmy-charles
 lyrics_url: https://www.musixmatch.com/lyrics/Jimmy-Charles/The-Age-for-Love
 name: The Age For Love
@@ -55,6 +58,8 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '1961-02-27'
+release_year: 1960
+runtime: 146922
 ---
 Too young to be in love they say
 Too young to know the score

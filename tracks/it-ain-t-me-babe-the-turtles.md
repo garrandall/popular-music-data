@@ -1,8 +1,11 @@
 ---
+album: It Ain't Me Babe
 artists:
 - The Turtles
+external_ids:
+  spotify: spotify:track:3UEDSuOorTwYlFYW8aJ551
 features: []
-genres: []
+first_released_as_single: false
 key: it-ain-t-me-babe-the-turtles
 lyrics_url: https://genius.com/The-turtles-it-aint-me-babe-lyrics
 name: It Ain't Me Babe
@@ -51,6 +54,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1965-10-16'
+release_year: 1965
+runtime: 132800
 ---
 Go away from my window
 Leave at your own chosen speed

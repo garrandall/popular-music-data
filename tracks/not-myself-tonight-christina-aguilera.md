@@ -1,8 +1,11 @@
 ---
+album: Bionic (Deluxe Version)
 artists:
 - Christina Aguilera
+external_ids:
+  spotify: spotify:track:0WhoSBpCKlwbW3nWW8f3wi
 features: []
-genres: []
+first_released_as_single: true
 key: not-myself-tonight-christina-aguilera
 lyrics_url: https://www.azlyrics.com/lyrics/christinaaguilera/notmyselftonight.html
 name: Not Myself Tonight
@@ -39,8 +42,9 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '2010-06-26'
+release_year: 2010
+runtime: 211573
 ---
-
 You know tonight
 I'm feeling a little out of control
 Is this me
@@ -115,6 +119,3 @@ C'mon
 Give it to me now
 Don't stop
 Yeah
-
-
-

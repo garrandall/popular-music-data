@@ -1,8 +1,11 @@
 ---
+album: Red Rubber Ball (A Collection)
 artists:
 - The Cyrkle
+external_ids:
+  spotify: spotify:track:4vhspOHWFMEi8x5cXMgpz7
 features: []
-genres: []
+first_released_as_single: false
 key: red-rubber-ball-the-cyrkle
 lyrics_url: https://genius.com/The-cyrkle-red-rubber-ball-lyrics
 name: Red Rubber Ball
@@ -59,6 +62,8 @@ rankings:
   rank: 36
   ranking_list: Billboard Hot 100
   start_date: '1966-08-13'
+release_year: 1959
+runtime: 137293
 ---
 I should have known
 You'd bid me farewell

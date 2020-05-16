@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music, The Complete Season Two'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:6nPJX6ZzBr3TnztKo0UXYw
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-go-breaking-my-heart-glee-cast
 lyrics_url: https://www.musixmatch.com/lyrics/Glee-Cast/Don-t-Go-Breaking-My-Heart
 name: Don't Go Breaking My Heart
@@ -11,6 +14,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2010-10-30'
+release_year: 2010
+runtime: 219693
 ---
 Don't go breaking my heart
 I couldn't if I tried

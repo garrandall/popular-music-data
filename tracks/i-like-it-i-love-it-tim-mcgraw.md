@@ -1,8 +1,11 @@
 ---
+album: All I Want
 artists:
 - Tim McGraw
+external_ids:
+  spotify: spotify:track:3IvcWWehbBcBR4YZxlGM9R
 features: []
-genres: []
+first_released_as_single: false
 key: i-like-it-i-love-it-tim-mcgraw
 lyrics_url: https://genius.com/Tim-mcgraw-i-like-it-i-love-it-lyrics
 name: I Like It I Love It
@@ -87,6 +90,8 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '1996-01-06'
+release_year: 1995
+runtime: 205706
 ---
 Spent forty-eight dollars last night at the county fair
 I threw out my shoulder but I won her that teddy bear

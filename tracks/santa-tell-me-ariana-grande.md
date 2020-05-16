@@ -1,8 +1,11 @@
 ---
+album: Santa Tell Me
 artists:
 - Ariana Grande
+external_ids:
+  spotify: spotify:track:0lizgQ7Qw35od7CYaoMBZb
 features: []
-genres: []
+first_released_as_single: true
 key: santa-tell-me-ariana-grande
 lyrics_url: https://genius.com/Ariana-grande-santa-tell-me-lyrics
 name: Santa Tell Me
@@ -27,6 +30,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2015-01-10'
+release_year: 2014
+runtime: 204093
 ---
 Santa, tell me if you're really there
 Don't make me fall in love again if he won't be here next year

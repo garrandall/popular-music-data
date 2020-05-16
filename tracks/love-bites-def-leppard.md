@@ -1,8 +1,11 @@
 ---
+album: Hysteria (Super Deluxe)
 artists:
 - Def Leppard
+external_ids:
+  spotify: spotify:track:3Dfy8YIxq89i84t108TvMi
 features: []
-genres: []
+first_released_as_single: false
 key: love-bites-def-leppard
 lyrics_url: https://genius.com/Def-leppard-love-bites-lyrics
 name: Love Bites
@@ -99,6 +102,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1989-01-14'
+release_year: 1987
+runtime: 346960
 ---
 If you've got love in your sights
 Watch out

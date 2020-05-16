@@ -1,8 +1,11 @@
 ---
+album: The Divine Miss M
 artists:
 - Bette Midler
+external_ids:
+  spotify: spotify:track:25PKLYyEdsCnBAnvcah8VF
 features: []
-genres: []
+first_released_as_single: false
 key: friends-bette-midler
 lyrics_url: https://genius.com/Bette-midler-friends-lyrics
 name: Friends
@@ -47,6 +50,8 @@ rankings:
   rank: 52
   ranking_list: Billboard Hot 100
   start_date: '1973-12-01'
+release_year: 1972
+runtime: 174533
 ---
 And I am all alone
 There is no one here beside me

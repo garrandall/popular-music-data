@@ -1,8 +1,11 @@
 ---
+album: Look Sharp!
 artists:
 - Roxette
+external_ids:
+  spotify: spotify:track:7LwsqxyIqOCF9vbdHmdIvT
 features: []
-genres: []
+first_released_as_single: false
 key: dangerous-roxette
 lyrics_url: https://www.azlyrics.com/lyrics/roxette/dangerous.html
 name: Dangerous
@@ -91,8 +94,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1990-05-05'
+release_year: 1988
+runtime: 228866
 ---
-
 You pack your bag.
 You take control.
 You're moving into my heart
@@ -125,6 +129,3 @@ What's your game?
 I know your business
 but I don't know your name...
 Hold on tight...
-
-
-

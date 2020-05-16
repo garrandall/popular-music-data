@@ -1,8 +1,11 @@
 ---
+album: Fooled By A Feeling
 artists:
 - Barbara Mandrell
+external_ids:
+  spotify: spotify:track:5f13nXrlIisPVMreYlZDlS
 features: []
-genres: []
+first_released_as_single: false
 key: fooled-by-a-feeling-barbara-mandrell
 lyrics_url: https://www.azlyrics.com/lyrics/barbaramandrell/fooledbyafeeling.html
 name: Fooled By A Feeling
@@ -27,8 +30,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1979-11-03'
+release_year: 1979
+runtime: 177826
 ---
-
 Fooled by a feeling, I was fooled
 I followed my heart right into your arms
 Like you wanted me to
@@ -75,6 +79,3 @@ Now I'm feeling like a fool
 By a feeling, I was fooled
 I followed my heart right into your arms
 Like you wanted me to
-
-
-

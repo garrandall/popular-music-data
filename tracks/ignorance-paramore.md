@@ -1,8 +1,11 @@
 ---
+album: Brand New Eyes
 artists:
 - Paramore
+external_ids:
+  spotify: spotify:track:47No93LxERvV6MtOAmQzHS
 features: []
-genres: []
+first_released_as_single: false
 key: ignorance-paramore
 lyrics_url: https://www.azlyrics.com/lyrics/paramore/ignorance.html
 name: Ignorance
@@ -11,8 +14,9 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '2009-07-25'
+release_year: 2009
+runtime: 218626
 ---
-
 If I'm a bad person, you don't like me
 Well, I guess I'll make my own way
 It's a circle, a mean cycle
@@ -86,6 +90,3 @@ Well, I guess I'll go, I best be on my way out
 You treat me just like another stranger
 Well, it's nice to meet you, sir
 I guess I'll go, I best be on my way out
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Don't It Make You Want To Go Home
 artists:
 - Joe South
+external_ids:
+  spotify: spotify:track:2qEOZAgEj3kzA1PmYAVCNm
 features: []
-genres: []
+first_released_as_single: false
 key: children-joe-south
 lyrics_url: https://genius.com/Joe-south-children-lyrics
 name: Children
@@ -35,6 +38,8 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1970-05-02'
+release_year: 1968
+runtime: 196426
 ---
 Children
 Go and run and jump and play

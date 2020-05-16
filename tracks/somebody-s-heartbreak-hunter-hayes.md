@@ -1,8 +1,11 @@
 ---
+album: Hunter Hayes (Encore)
 artists:
 - Hunter Hayes
+external_ids:
+  spotify: spotify:track:7EIbjRAv9K5ccoH4XivnTk
 features: []
-genres: []
+first_released_as_single: false
 key: somebody-s-heartbreak-hunter-hayes
 lyrics_url: https://genius.com/Hunter-hayes-somebodys-heartbreak-lyrics
 name: Somebody's Heartbreak
@@ -87,6 +90,8 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '2013-04-20'
+release_year: 2011
+runtime: 227746
 ---
 I'd love to know just what you're thinkin'
 Every little river, runnin' through your mind

@@ -1,8 +1,11 @@
 ---
+album: The Definitive Anthology
 artists:
 - The Easybeats
+external_ids:
+  spotify: spotify:track:18WxWjAQtrhwpdbdLOCd7N
 features: []
-genres: []
+first_released_as_single: false
 key: st-louis-the-easybeats
 lyrics_url: https://genius.com/The-easybeats-st-louis-lyrics
 name: St Louis
@@ -11,6 +14,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1969-11-15'
+release_year: 1969
+runtime: 192253
 ---
 Whoa, yeah
 

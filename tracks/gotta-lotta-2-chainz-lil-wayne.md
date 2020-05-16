@@ -1,9 +1,12 @@
 ---
+album: COLLEGROVE
 artists:
 - 2 Chainz
+external_ids:
+  spotify: spotify:track:1gpSrGUfU3F9TOzPlEyLxH
 features:
 - Lil Wayne
-genres: []
+first_released_as_single: false
 key: gotta-lotta-2-chainz-lil-wayne
 lyrics_url: https://genius.com/2-chainz-gotta-lotta-lyrics
 name: Gotta Lotta
@@ -12,6 +15,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2016-03-26'
+release_year: 2016
+runtime: 214720
 ---
 Lotta dope
 Gotta lotta dope

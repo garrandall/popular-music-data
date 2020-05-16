@@ -1,8 +1,11 @@
 ---
+album: Jazz (Deluxe Remastered Version)
 artists:
 - Queen
+external_ids:
+  spotify: spotify:track:7hQJA50XrCWABAu5v6QZ4i
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-stop-me-now-queen
 lyrics_url: https://genius.com/Queen-dont-stop-me-now-lyrics
 name: Don't Stop Me Now
@@ -23,6 +26,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1979-03-10'
+release_year: 1978
+runtime: 209413
 ---
 Tonight I'm gonna have myself a real good time
 I feel alive

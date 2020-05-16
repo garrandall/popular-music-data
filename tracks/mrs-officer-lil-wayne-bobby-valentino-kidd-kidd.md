@@ -1,10 +1,13 @@
 ---
+album: Tha Carter III (MTV Bonus Version)
 artists:
 - Lil Wayne
+external_ids:
+  spotify: spotify:track:2sQuds8s3EVbhXJpgVWpO4
 features:
 - Bobby Valentino
 - Kidd Kidd
-genres: []
+first_released_as_single: false
 key: mrs-officer-lil-wayne-bobby-valentino-kidd-kidd
 lyrics_url: https://www.azlyrics.com/lyrics/lilwayne/mrsofficer.html
 name: Mrs Officer
@@ -97,9 +100,9 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '2009-01-31'
+release_year: 2008
+runtime: 286906
 ---
-
-
 Valentino
 Bobby Valentino
 
@@ -248,6 +251,3 @@ Wee oh wee oh wee
 Wee oh wee oh wee
 Wee oh wee oh wee
 I'll make you say
-
-
-

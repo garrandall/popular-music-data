@@ -1,9 +1,12 @@
 ---
+album: Live In Phoenix
 artists:
 - Fall Out Boy
+external_ids:
+  spotify: spotify:track:0BrgzTEWfI0QZLRJqzJbPa
 features:
 - John Mayer
-genres: []
+first_released_as_single: false
 key: beat-it-fall-out-boy-john-mayer
 lyrics_url: https://genius.com/Fall-out-boy-beat-it-lyrics
 name: Beat It
@@ -36,6 +39,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2008-05-24'
+release_year: 2008
+runtime: 230306
 ---
 They told him, "Don't you ever come around here
 Don't wanna see your face, you better disappear"

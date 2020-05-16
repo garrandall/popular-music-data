@@ -1,8 +1,11 @@
 ---
+album: If I Were Your Woman
 artists:
 - Gladys Knight And The Pips
+external_ids:
+  spotify: spotify:track:0cJ0XsD3rxyNb6UNnKLPqb
 features: []
-genres: []
+first_released_as_single: false
 key: i-don-t-want-to-do-wrong-gladys-knight-and-the-pips
 lyrics_url: https://genius.com/Gladys-knight-and-the-pips-i-dont-want-to-do-wrong-lyrics
 name: I Don't Want To Do Wrong
@@ -51,6 +54,8 @@ rankings:
   rank: 33
   ranking_list: Billboard Hot 100
   start_date: '1971-08-14'
+release_year: 1971
+runtime: 199400
 ---
 Um, I don't wanna do wrong
 But you've been gone baby so long

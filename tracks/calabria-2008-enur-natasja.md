@@ -1,9 +1,12 @@
 ---
+album: DJ Scotty Boy pres. Vegas!
 artists:
 - Enur
+external_ids:
+  spotify: spotify:track:4H4dsYuXGmZz2tVvgT6xGK
 features:
 - Natasja
-genres: []
+first_released_as_single: true
 key: calabria-2008-enur-natasja
 lyrics_url: https://genius.com/Enur-calabria-2008-feat-natasja-and-mims-lyrics
 name: Calabria 2008
@@ -88,6 +91,8 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '2008-04-12'
+release_year: 2007
+runtime: 238057
 ---
 Whoop whoop!
 Whoop whoop!

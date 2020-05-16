@@ -1,9 +1,12 @@
 ---
+album: '!!!Going Places!!!'
 artists:
 - Herb Alpert
 - The Tijuana Brass
+external_ids:
+  spotify: spotify:track:2zj3dV24GbzQ7jNg8EwCgh
 features: []
-genres: []
+first_released_as_single: false
 key: 3rd-man-theme-herb-alpert-the-tijuana-brass
 lyrics_url: https://genius.com/Herb-alpert-and-the-tijuana-brass-3rd-man-theme-lyrics
 name: 3rd Man Theme
@@ -32,6 +35,8 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1965-10-16'
+release_year: 1965
+runtime: 153973
 ---
 When a zither starts to play
 You'll remember yesterday

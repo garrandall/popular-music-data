@@ -1,8 +1,11 @@
 ---
+album: Touch
 artists:
 - Touch
+external_ids:
+  spotify: spotify:track:0NAgdxU96H9tYmBJnIjwqA
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-you-know-what-love-is-touch
 lyrics_url: https://www.musixmatch.com/lyrics/Touch/Don-t-You-Know-What-Love-Is-Touch
 name: Don't You Know What Love Is
@@ -31,6 +34,8 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1981-03-07'
+release_year: 1979
+runtime: 238826
 ---
 Papa says; it's a bitch to reconize it
 Like catching rhythm from the pouring rain.

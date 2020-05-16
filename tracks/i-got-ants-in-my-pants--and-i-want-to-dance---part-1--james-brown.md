@@ -1,8 +1,11 @@
 ---
+album: Star Time
 artists:
 - James Brown
+external_ids:
+  spotify: spotify:track:6k4EK5mBvKpSFT7AzuM04W
 features: []
-genres: []
+first_released_as_single: false
 key: i-got-ants-in-my-pants--and-i-want-to-dance---part-1--james-brown
 lyrics_url: https://genius.com/James-brown-i-got-ants-in-my-pants-lyrics
 name: I Got Ants In My Pants (and I want to dance) (Part 1)
@@ -39,6 +42,8 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1973-03-10'
+release_year: 1973
+runtime: 182866
 ---
 OW, hey
 

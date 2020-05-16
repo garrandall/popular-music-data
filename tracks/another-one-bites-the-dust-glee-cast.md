@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music, The Complete Season One'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:7cyCKchU5G6x2kHzMkhnED
 features: []
-genres: []
+first_released_as_single: false
 key: another-one-bites-the-dust-glee-cast
 lyrics_url: https://www.azlyrics.com/lyrics/gleecast/anotheronebitesthedust.html
 name: Another One Bites The Dust
@@ -11,8 +14,9 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '2010-06-19'
+release_year: 2010
+runtime: 180760
 ---
-
 Oh! Let's go!
 Steve walks warily down the street
 With his brim pulled way down low
@@ -77,6 +81,3 @@ Another one bites the dust
 Shoot out
 
 E-he! Alright!
-
-
-

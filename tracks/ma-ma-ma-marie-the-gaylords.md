@@ -1,8 +1,11 @@
 ---
+album: The Best Of The Gaylords
 artists:
 - The Gaylords
+external_ids:
+  spotify: spotify:track:75lTcjycLW3GXZvxmp0D7w
 features: []
-genres: []
+first_released_as_single: false
 key: ma-ma-ma-marie-the-gaylords
 lyrics_url: https://www.musixmatch.com/lyrics/The-Gaylords/Ma-Ma-Ma-Marie
 name: Ma Ma Ma Marie
@@ -11,6 +14,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1958-08-18'
+release_year: 1958
+runtime: 71306
 ---
 Aye, who's there!
 Ma ma ma ma ma Marie (ma ma ma ma ma Marie)

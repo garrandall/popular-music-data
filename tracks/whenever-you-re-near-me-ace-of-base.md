@@ -1,8 +1,11 @@
 ---
+album: Cruel Summer
 artists:
 - Ace Of Base
+external_ids:
+  spotify: spotify:track:1Q3jLYK4UOZJWyzacmQTOa
 features: []
-genres: []
+first_released_as_single: true
 key: whenever-you-re-near-me-ace-of-base
 lyrics_url: https://genius.com/Ace-of-base-whenever-youre-near-me-lyrics
 name: Whenever You're Near Me
@@ -27,6 +30,8 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1998-11-28'
+release_year: 1998
+runtime: 212200
 ---
 Whenever you're near me
 I give you everything I have

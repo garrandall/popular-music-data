@@ -1,8 +1,11 @@
 ---
+album: The Door Is Still Open to My Heart
 artists:
 - Dean Martin
+external_ids:
+  spotify: spotify:track:0QmOiy2MlDIcvZxT5fUC2H
 features: []
-genres: []
+first_released_as_single: false
 key: the-door-is-still-open-to-my-heart-dean-martin
 lyrics_url: https://www.azlyrics.com/lyrics/deanmartin/thedoorisstillopentomyheart.html
 name: The Door Is Still Open To My Heart
@@ -51,8 +54,9 @@ rankings:
   rank: 35
   ranking_list: Billboard Hot 100
   start_date: '1964-12-05'
+release_year: 1964
+runtime: 172093
 ---
-
 (The door is still open to my heart)
 I must confess that I cry from loneliness
 And the door is still open to my heart
@@ -73,6 +77,3 @@ Until you're here by my side
 You're as close to me as two is to three
 And the door is still open to my heart
 And the door is still open to my heart
-
-
-

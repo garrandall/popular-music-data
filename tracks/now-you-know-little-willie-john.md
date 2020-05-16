@@ -1,8 +1,11 @@
 ---
+album: Sings All Originals
 artists:
 - Little Willie John
+external_ids:
+  spotify: spotify:track:1rDWa5bTfPrUcI7qUe0Rrh
 features: []
-genres: []
+first_released_as_single: false
 key: now-you-know-little-willie-john
 lyrics_url: https://genius.com/Little-willie-john-now-you-know-lyrics
 name: Now You Know
@@ -19,6 +22,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1961-07-31'
+release_year: 1961
+runtime: 116424
 ---
 (My love, my love, take my love)
 

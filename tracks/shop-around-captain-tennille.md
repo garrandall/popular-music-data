@@ -1,9 +1,12 @@
 ---
+album: Song Of Joy
 artists:
 - Captain
 - Tennille
+external_ids:
+  spotify: spotify:track:3maAFCOtAdJElV8gdU5GG4
 features: []
-genres: []
+first_released_as_single: false
 key: shop-around-captain-tennille
 lyrics_url: https://www.azlyrics.com/lyrics/captaintennille/shoparound.html
 name: Shop Around
@@ -72,8 +75,9 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1976-08-14'
+release_year: 1976
+runtime: 210240
 ---
-
 Just because you've become a young woman now
 There's still some things that you don't understand now
 Before you ask some guy for his hand now
@@ -99,6 +103,3 @@ Make sure that his love is true now
 I hate to see you feeling sad and blue now
 My mama told me
 You better shop around
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Shades of Deep Purple
 artists:
 - Deep Purple
+external_ids:
+  spotify: spotify:track:4aU82r5G2KTUh3HmPHCbM1
 features: []
-genres: []
+first_released_as_single: false
 key: hush-deep-purple
 lyrics_url: https://www.azlyrics.com/lyrics/deeppurple/hush.html
 name: Hush
@@ -47,8 +50,9 @@ rankings:
   rank: 29
   ranking_list: Billboard Hot 100
   start_date: '1968-10-19'
+release_year: 1968
+runtime: 264973
 ---
-
 I got a certan little girl she's on my mind
 No doubt about it she looks so fine
 She's the best girl that I ever had
@@ -95,6 +99,3 @@ They got it late in the evening
 Well, I want that, need it
 (Love, love)
 Oh, I gotta gotta have it
-
-
-

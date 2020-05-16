@@ -1,8 +1,12 @@
 ---
+album: Mail on Sunday
 artists:
 - Flo Rida
+external_ids:
+  spotify: spotify:track:02cO8JBZT4Rx5BJ1qbe2uh
 features:
 - Sean Kingston
+first_released_as_single: false
 genres: []
 key: roll-flo-rida-sean-kingston
 lyrics_url: https://www.azlyrics.com/lyrics/florida/roll.html
@@ -16,9 +20,9 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '2008-04-12'
+release_year: 2008
+runtime: 239106
 ---
-
-
 Bunk camera with it, show me I'm da man (man)
 Shake it on da flo, like dice pon ya hon
 Lemme say dat ass roll, roll, roll, roll, roll
@@ -56,6 +60,3 @@ Bunk camera with it, show me I'm da man (man)
 Shake it on da flo, like dice pon ya hon
 Lemme say dat ass roll, roll, roll, roll, roll
 Dey go!
-
-
-

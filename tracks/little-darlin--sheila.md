@@ -1,8 +1,11 @@
 ---
+album: Little Darlin'
 artists:
 - Sheila
+external_ids:
+  spotify: spotify:track:3RgSkGClyE5HeS7XSJ7bIw
 features: []
-genres: []
+first_released_as_single: false
 key: little-darlin--sheila
 lyrics_url: https://www.musixmatch.com/lyrics/Sheila/Little-Darlin
 name: Little Darlin'
@@ -43,6 +46,8 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1982-01-30'
+release_year: 1981
+runtime: 237066
 ---
 Would you know me in a passing crowd
 Lonely faces that once gripped eyes

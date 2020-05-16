@@ -1,8 +1,11 @@
 ---
+album: Baby Don't Get Hooked On Me
 artists:
 - Mac Davis
+external_ids:
+  spotify: spotify:track:1fAE4ICN7VonYMxRu9iooE
 features: []
-genres: []
+first_released_as_single: false
 key: dream-me-home-mac-davis
 lyrics_url: https://www.azlyrics.com/lyrics/macdavis/dreammehome.html
 name: Dream Me Home
@@ -35,8 +38,9 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1973-03-31'
+release_year: 1972
+runtime: 183893
 ---
-
 Well, it's two a.m. in Nashville
 Midnight in L.A.
 You're asleep and
@@ -98,6 +102,3 @@ Dream, dream me home
 Come on, baby
 Dream, dream me home
 Baby, baby...
-
-
-

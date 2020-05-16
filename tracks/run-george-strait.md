@@ -1,8 +1,11 @@
 ---
+album: The Road Less Traveled
 artists:
 - George Strait
+external_ids:
+  spotify: spotify:track:1EXMjx4nCIvYTaY5CZMUSl
 features: []
-genres: []
+first_released_as_single: false
 key: run-george-strait
 lyrics_url: https://genius.com/George-strait-run-lyrics
 name: Run
@@ -87,6 +90,8 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '2002-03-09'
+release_year: 2001
+runtime: 245426
 ---
 If there's a plane or a bus leaving Dallas
 I hope you're on it

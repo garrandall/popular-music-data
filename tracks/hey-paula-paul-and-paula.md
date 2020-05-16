@@ -1,8 +1,11 @@
 ---
+album: Ultimate Oldies & Goodies - One Hit Wonders of the 50s & 60s
 artists:
 - Paul and Paula
+external_ids:
+  spotify: spotify:track:6Z5hXchgBwnaL77R2yL9EO
 features: []
-genres: []
+first_released_as_single: false
 key: hey-paula-paul-and-paula
 lyrics_url: https://www.musixmatch.com/lyrics/Paul-and-Paula/Hey-Paula
 name: Hey Paula
@@ -67,6 +70,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1963-04-06'
+release_year: 1962
+runtime: 164893
 ---
 Hey, hey Paula, I wanna marry you
 Hey, hey Paula, no one else could ever do

@@ -1,8 +1,11 @@
 ---
+album: Fly Me To The Moon
 artists:
 - Bobby Womack
+external_ids:
+  spotify: spotify:track:6G7MHIvSDR3ehXPkuDFAlM
 features: []
-genres: []
+first_released_as_single: false
 key: california-dreamin--bobby-womack
 lyrics_url: https://www.azlyrics.com/lyrics/bobbywomack/californiadreamin.html
 name: California Dreamin'
@@ -43,8 +46,9 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '1969-02-01'
+release_year: 1968
+runtime: 200973
 ---
-
 All the leaves are brown
 And the sky is gray
 I went for a walk
@@ -91,6 +95,3 @@ Gotta get to LA
 Get some sunshine every day
 California dreamin
 Ohh...
-
-
-

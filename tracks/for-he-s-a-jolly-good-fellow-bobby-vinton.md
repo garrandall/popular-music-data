@@ -1,8 +1,11 @@
 ---
+album: Sings The Newest Hits
 artists:
 - Bobby Vinton
+external_ids:
+  spotify: spotify:track:10h6Y5HHIFM9KhNSxGi6e3
 features: []
-genres: []
+first_released_as_single: false
 key: for-he-s-a-jolly-good-fellow-bobby-vinton
 name: For He's A Jolly Good Fellow
 rankings:
@@ -22,5 +25,7 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '1967-04-08'
+release_year: 1967
+runtime: 163013
 ---
 

@@ -1,8 +1,11 @@
 ---
+album: The Complete Season 3 Collection (The Voice Performance)
 artists:
 - Nicholas David
+external_ids:
+  spotify: spotify:track:1s1x98eyZBTFpQ1KRCRd8f
 features: []
-genres: []
+first_released_as_single: false
 key: somewhere-over-the-rainbow-nicholas-david
 lyrics_url: https://www.musixmatch.com/lyrics/Nicholas-David/Somewhere-Over-the-Rainbow-The-Voice-Performance
 name: Somewhere Over The Rainbow
@@ -11,6 +14,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2012-12-22'
+release_year: 2012
+runtime: 210853
 ---
 Somewhere over the rainbow
 Way up high

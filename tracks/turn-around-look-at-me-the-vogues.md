@@ -1,8 +1,11 @@
 ---
+album: Turn Around, Look At Me
 artists:
 - The Vogues
+external_ids:
+  spotify: spotify:track:37qAAjb5CndGK8aTPZ6eFm
 features: []
-genres: []
+first_released_as_single: false
 key: turn-around-look-at-me-the-vogues
 lyrics_url: https://www.musixmatch.com/lyrics/The-Vogues/Turn-Around-Look-at-Me
 name: Turn Around Look At Me
@@ -67,6 +70,8 @@ rankings:
   rank: 32
   ranking_list: Billboard Hot 100
   start_date: '1968-09-21'
+release_year: 1965
+runtime: 140429
 ---
 There is someone walking behind you,
 Turn around, look at me

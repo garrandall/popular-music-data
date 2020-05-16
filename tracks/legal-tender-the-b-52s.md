@@ -1,8 +1,11 @@
 ---
+album: Whammy!
 artists:
 - The B-52s
+external_ids:
+  spotify: spotify:track:0H949NmTv9xUgMiJpls5f7
 features: []
-genres: []
+first_released_as_single: false
 key: legal-tender-the-b-52s
 lyrics_url: https://www.azlyrics.com/lyrics/b52s/legaltender.html
 name: Legal Tender
@@ -23,8 +26,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1983-08-06'
+release_year: 1983
+runtime: 220666
 ---
-
 We're in the basement, learning to print
 All of it's hot!
 10-20-30 million ready to be spent
@@ -61,6 +65,3 @@ We're in the basement,
 Learning to print
 All of it's hot
 All counterfeit
-
-
-

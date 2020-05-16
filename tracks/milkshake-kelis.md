@@ -1,8 +1,11 @@
 ---
+album: Tasty
 artists:
 - Kelis
+external_ids:
+  spotify: spotify:track:55f6G9GBmVipURInpZ7ENb
 features: []
-genres: []
+first_released_as_single: true
 key: milkshake-kelis
 lyrics_url: https://genius.com/Kelis-milkshake-lyrics
 name: Milkshake
@@ -95,6 +98,8 @@ rankings:
   rank: 35
   ranking_list: Billboard Hot 100
   start_date: '2004-02-28'
+release_year: 2003
+runtime: 185480
 ---
 My milkshake brings all the boys to the yard
 And they're like, it's better than yours

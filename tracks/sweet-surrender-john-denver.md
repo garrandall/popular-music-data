@@ -1,8 +1,11 @@
 ---
+album: Back Home Again
 artists:
 - John Denver
+external_ids:
+  spotify: spotify:track:7be37I5s79jQKQCWovxUpL
 features: []
-genres: []
+first_released_as_single: false
 key: sweet-surrender-john-denver
 lyrics_url: https://www.azlyrics.com/lyrics/johndenver/sweetsurrender.html
 name: Sweet Surrender
@@ -51,8 +54,9 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1975-03-08'
+release_year: 1974
+runtime: 329360
 ---
-
 Lost and alone on some forgotten highway, traveled by many, remembered by few.
 Looking for something that I can believe in,
 looking for something that I'd like to do with my life.
@@ -86,6 +90,3 @@ Sweet, sweet surrender, live, live without care,
 like a fish in the water, like a bird in the air.
 Sweet, sweet surrender, live, live without care,
 like a fish in the water, like a bird in the air.
-
-
-

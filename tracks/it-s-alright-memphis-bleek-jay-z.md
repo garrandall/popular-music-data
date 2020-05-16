@@ -1,9 +1,12 @@
 ---
+album: Vol.2 ... Hard Knock Life
 artists:
 - Memphis Bleek
 - Jay-Z
+external_ids:
+  spotify: spotify:track:0v0sQRnEJNvDZHry2hBFbW
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-alright-memphis-bleek-jay-z
 lyrics_url: https://www.musixmatch.com/lyrics/Memphis-Bleek-feat-JAY-Z-2/It-s-Alright
 name: It's Alright
@@ -56,6 +59,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1998-10-24'
+release_year: 1998
+runtime: 243906
 ---
 Bounce if you wanna bounce
 Ball if you wanna ball

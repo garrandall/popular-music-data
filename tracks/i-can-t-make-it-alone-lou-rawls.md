@@ -1,8 +1,11 @@
 ---
+album: Anthology-Lou Rawls
 artists:
 - Lou Rawls
+external_ids:
+  spotify: spotify:track:1qI1WNtPwjwkT0bM3bHTJR
 features: []
-genres: []
+first_released_as_single: false
 key: i-can-t-make-it-alone-lou-rawls
 lyrics_url: https://genius.com/Lou-rawls-i-cant-make-it-alone-2006-digital-remaster-lyrics
 name: I Can't Make It Alone
@@ -35,6 +38,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1969-12-13'
+release_year: 1969
+runtime: 181773
 ---
 Now you know me
 You know how proud I am

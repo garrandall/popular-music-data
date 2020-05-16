@@ -1,8 +1,11 @@
 ---
+album: Fancy
 artists:
 - Bobbie Gentry
+external_ids:
+  spotify: spotify:track:2gMxsK1P5PF65J6q4rsCYl
 features: []
-genres: []
+first_released_as_single: false
 key: he-made-a-woman-out-of-me-bobbie-gentry
 lyrics_url: https://www.azlyrics.com/lyrics/bobbiegentry/hemadeawomanoutofme.html
 name: He Made A Woman Out Of Me
@@ -27,8 +30,9 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '1970-05-09'
+release_year: 1970
+runtime: 157970
 ---
-
 I was born on a levy
 A little bit south of Montgomery
 Mama worked in the big house
@@ -71,6 +75,3 @@ Lord, he made a woman outta me
 
 Joe made a woman outta me
 Lord, he made a woman outta me
-
-
-

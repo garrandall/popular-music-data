@@ -1,8 +1,11 @@
 ---
+album: Shock Treatment
 artists:
 - Edgar Winter
+external_ids:
+  spotify: spotify:track:06FJglEOnaW4otNXcGrQhd
 features: []
-genres: []
+first_released_as_single: false
 key: river-s-risin--edgar-winter
 lyrics_url: https://www.azlyrics.com/lyrics/edgarwinter/riversrisin.html
 name: River's Risin'
@@ -43,8 +46,9 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '1974-09-14'
+release_year: 1974
+runtime: 199066
 ---
-
 See, the river's risin'
 See, you're realizin'
 
@@ -84,6 +88,3 @@ It's just around the bend
 No, it's just around the bend
 Said, it's just around the bend
 It's just around the bend
-
-
-

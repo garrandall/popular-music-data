@@ -1,8 +1,11 @@
 ---
+album: Speak Now
 artists:
 - Taylor Swift
+external_ids:
+  spotify: spotify:track:1D27z8xNzjW0Mwwt1NCWhJ
 features: []
-genres: []
+first_released_as_single: false
 key: last-kiss-taylor-swift
 lyrics_url: https://www.azlyrics.com/lyrics/taylorswift/lastkiss.html
 name: Last Kiss
@@ -11,8 +14,9 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '2010-11-13'
+release_year: 2010
+runtime: 367133
 ---
-
 I still remember the look on your face
 Lit through the darkness at 1:58
 The words that you whispered
@@ -82,6 +86,3 @@ Forever the name on my lips
 Forever the name on my lips
 
 Just like our last...
-
-
-

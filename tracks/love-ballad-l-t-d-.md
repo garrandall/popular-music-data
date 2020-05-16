@@ -1,8 +1,11 @@
 ---
+album: Love To The World
 artists:
 - L.T.D.
+external_ids:
+  spotify: spotify:track:3iCbTmcXnKlRZCdaYOukxq
 features: []
-genres: []
+first_released_as_single: false
 key: love-ballad-l-t-d-
 lyrics_url: https://genius.com/Ltd-love-ballad-lyrics
 name: Love Ballad
@@ -79,6 +82,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1977-01-29'
+release_year: 1976
+runtime: 275226
 ---
 I
 Have never been so much

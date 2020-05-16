@@ -1,8 +1,11 @@
 ---
+album: The Red Shoes
 artists:
 - Kate Bush
+external_ids:
+  spotify: spotify:track:6d77bS8aW1nnIoAbyMTri1
 features: []
-genres: []
+first_released_as_single: false
 key: rubberband-girl-kate-bush
 lyrics_url: https://www.azlyrics.com/lyrics/katebush/rubberbandgirl.html
 name: Rubberband Girl
@@ -31,8 +34,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1994-01-29'
+release_year: 1993
+runtime: 282200
 ---
-
 See those trees
 Bend in the wind
 I feel they've got a lot more sense than me
@@ -84,6 +88,3 @@ Here I go...
 One rubberband won't keep you up
 Two rubberbands won't keep you up
 Three rubberbands won't keep you up
-
-
-

@@ -1,9 +1,12 @@
 ---
+album: In A Major Way
 artists:
 - E-40
+external_ids:
+  spotify: spotify:track:2yJCZ4b5v5vT0iqAs9LuS5
 features:
 - Leviti
-genres: []
+first_released_as_single: false
 key: 1-luv-e-40-leviti
 lyrics_url: https://www.azlyrics.com/lyrics/e40/1luv.html
 name: 1-Luv
@@ -64,9 +67,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1995-05-27'
+release_year: 1995
+runtime: 308306
 ---
-
-
 This is the operator. I have a collect call from
 "Hey this yo' potnah main!"
 who is an inmate in a California State prison
@@ -153,4 +156,3 @@ Tripped me out ain't seen or heard from Poppa Duke in years
 Sent me a picture and some fetti dang they sheadin tears
 See first you born then you live then you die
 One day soon I'll get another try, one love
-

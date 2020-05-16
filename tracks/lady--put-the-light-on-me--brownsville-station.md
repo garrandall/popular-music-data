@@ -1,8 +1,11 @@
 ---
+album: A Night On The Town
 artists:
 - Brownsville Station
+external_ids:
+  spotify: spotify:track:5mnRxWHWWyCLcCNMpVSugI
 features: []
-genres: []
+first_released_as_single: false
 key: lady--put-the-light-on-me--brownsville-station
 lyrics_url: https://www.azlyrics.com/lyrics/brownsvillestation/ladyputthelightonme.html
 name: Lady (put The Light On Me)
@@ -47,8 +50,9 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '1977-08-06'
+release_year: 1972
+runtime: 213680
 ---
-
 I used to run around
 You never tied me down
 My feet are homeward bound
@@ -118,6 +122,3 @@ Lady, put the light on me!
 She put the light on
 She put the light on
 Lady, put the light on me...
-
-
-

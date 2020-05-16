@@ -1,9 +1,12 @@
 ---
+album: Street Called Desire
 artists:
 - Rene
 - Angela
+external_ids:
+  spotify: spotify:track:2SPNs07BKygbkbf48KNFEQ
 features: []
-genres: []
+first_released_as_single: false
 key: i-ll-be-good-rene-angela
 lyrics_url: https://genius.com/Rene-and-angela-ill-be-good-lyrics
 name: I'll Be Good
@@ -48,6 +51,8 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1985-11-30'
+release_year: 1985
+runtime: 321066
 ---
 I'll be good, good, good, good
 I'll be good, good, good, good

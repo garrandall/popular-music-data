@@ -1,8 +1,11 @@
 ---
+album: No Flockin
 artists:
 - Kodak Black
+external_ids:
+  spotify: spotify:track:5IUpdVq2JARtazI6eXw723
 features: []
-genres: []
+first_released_as_single: true
 key: no-flockin-kodak-black
 lyrics_url: https://www.azlyrics.com/lyrics/kodakblack/noflockin2bodakorange.html
 name: No Flockin
@@ -11,8 +14,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2017-01-14'
+release_year: 2015
+runtime: 165590
 ---
-
 Haters so sad
 KKK, KKK
 
@@ -90,6 +94,3 @@ Orange soda, orange everything, orange everything
 Bodak Orange, Kodak anything
 Orange everything
 Woo, glee
-
-
-

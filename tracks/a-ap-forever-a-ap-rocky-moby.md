@@ -1,9 +1,12 @@
 ---
+album: TESTING
 artists:
 - A$AP Rocky
+external_ids:
+  spotify: spotify:track:1YmF9PvLhIISIANoMLIYGq
 features:
 - Moby
-genres: []
+first_released_as_single: true
 key: a-ap-forever-a-ap-rocky-moby
 lyrics_url: https://genius.com/A-ap-rocky-a-ap-forever-lyrics
 name: A$AP Forever
@@ -16,6 +19,8 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '2018-06-09'
+release_year: 2018
+runtime: 233061
 ---
 Gang! Gang! Gang!
 They talkin' down on my name, don't let 'em run off with the name

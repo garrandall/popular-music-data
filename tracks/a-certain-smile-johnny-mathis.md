@@ -1,8 +1,11 @@
 ---
+album: Live
 artists:
 - Johnny Mathis
+external_ids:
+  spotify: spotify:track:1a01Dy8Us8aEh1hT9tOEmW
 features: []
-genres: []
+first_released_as_single: false
 key: a-certain-smile-johnny-mathis
 lyrics_url: https://www.azlyrics.com/lyrics/johnnymathis/acertainsmile.html
 name: A Certain Smile
@@ -43,8 +46,9 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1958-09-29'
+release_year: 1958
+runtime: 168293
 ---
-
 A certain smile, a certain face
 Can lead an unsuspecting heart
 On a merry chase
@@ -60,6 +64,3 @@ But in the hush of night
 Exactly like a bitter sweet refrain
 Comes that certain smile
 To haunt your heart again
-
-
-

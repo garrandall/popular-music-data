@@ -1,8 +1,11 @@
 ---
+album: Detroit Rock City
 artists:
 - The Sweet
+external_ids:
+  spotify: spotify:track:5l7WMtIUfX4D2XsHYOp4zV
 features: []
-genres: []
+first_released_as_single: false
 key: little-willy-the-sweet
 lyrics_url: https://www.azlyrics.com/lyrics/sweet/littlewilly.html
 name: Little Willy
@@ -99,8 +102,9 @@ rankings:
   rank: 37
   ranking_list: Billboard Hot 100
   start_date: '1973-06-23'
+release_year: 1973
+runtime: 195533
 ---
-
 North side, east side
 Little Willy, Willy wears the crown, he's the king around town
 Dancing and glancing
@@ -151,6 +155,3 @@ Little Willy, Willy won't go home
 Little Willy, Willy won't go home
 But you can't push Willy 'round
 Willy won't go, try tellin' everybody but, oh no
-
-
-

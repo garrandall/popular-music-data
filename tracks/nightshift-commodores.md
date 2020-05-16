@@ -1,8 +1,11 @@
 ---
+album: Nightshift
 artists:
 - Commodores
+external_ids:
+  spotify: spotify:track:23IK8TF2MSiLnuEjaYPfVV
 features: []
-genres: []
+first_released_as_single: false
 key: nightshift-commodores
 lyrics_url: https://www.azlyrics.com/lyrics/commodores/nightshift.html
 name: Nightshift
@@ -95,8 +98,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1985-06-22'
+release_year: 1985
+runtime: 306560
 ---
-
 Marvin, he was a friend of mine
 And he could sing a song
 His heart in every line
@@ -155,6 +159,3 @@ On the nightshift
 You found another home
 I know you're not alone
 On the nightshift
-
-
-

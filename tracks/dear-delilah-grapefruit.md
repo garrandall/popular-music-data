@@ -1,8 +1,11 @@
 ---
+album: Around Grapefruit
 artists:
 - Grapefruit
+external_ids:
+  spotify: spotify:track:17JmNaxpPRwWb9ZBsfRoky
 features: []
-genres: []
+first_released_as_single: false
 key: dear-delilah-grapefruit
 lyrics_url: https://genius.com/Grapefruit-dear-delilah-lyrics
 name: Dear Delilah
@@ -11,6 +14,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1968-03-02'
+release_year: 1968
+runtime: 159280
 ---
 Each night when watching dying of the day
 I seem to find I hardly know my way around

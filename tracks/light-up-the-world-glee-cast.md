@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music, Volume 6'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:1Et2wMhDPqbu5y4sGRt6Ue
 features: []
-genres: []
+first_released_as_single: false
 key: light-up-the-world-glee-cast
 lyrics_url: https://www.azlyrics.com/lyrics/gleecast/lightuptheworld.html
 name: Light Up The World
@@ -11,8 +14,9 @@ rankings:
   rank: 33
   ranking_list: Billboard Hot 100
   start_date: '2011-06-11'
+release_year: 2011
+runtime: 223653
 ---
-
 Hey hey hey
 You and me keep on dancing in the dark
 It's been tearing me apart
@@ -103,6 +107,3 @@ You gotta give up the bark and bi-I-ite
 I know that we got the love, alrigh-igh-ight
 Come on and ligh-ligh-light it up
 Light it up tonight
-
-
-

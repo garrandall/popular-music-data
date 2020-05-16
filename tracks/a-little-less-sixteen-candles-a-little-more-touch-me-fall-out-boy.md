@@ -1,8 +1,11 @@
 ---
+album: From Under The Cork Tree
 artists:
 - Fall Out Boy
+external_ids:
+  spotify: spotify:track:4pmU8AtVu9qU40Xd9zjEfA
 features: []
-genres: []
+first_released_as_single: false
 key: a-little-less-sixteen-candles-a-little-more-touch-me-fall-out-boy
 lyrics_url: https://www.azlyrics.com/lyrics/falloutboy/alittlelesssixteencandlesalittlemoretouchme.html
 name: A Little Less Sixteen Candles A Little More Touch Me
@@ -59,8 +62,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2006-07-01'
+release_year: 2005
+runtime: 169026
 ---
-
 I confess, I messed up
 Dropping "I'm sorry" like you're still around
 And I know you dressed up
@@ -111,6 +115,3 @@ Kiss her, kiss her
 I set my clocks early 'cause I know I'm always late
 
 I set my clocks early 'cause I know I'm always late
-
-
-

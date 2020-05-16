@@ -1,8 +1,11 @@
 ---
+album: Road Between
 artists:
 - Lucy Hale
+external_ids:
+  spotify: spotify:track:3aOnLQ7Q5bUxB8mqYWb7iX
 features: []
-genres: []
+first_released_as_single: false
 key: you-sound-good-to-me-lucy-hale
 lyrics_url: https://www.azlyrics.com/lyrics/lucyhale/yousoundgoodtome.html
 name: You Sound Good To Me
@@ -11,8 +14,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2014-01-25'
+release_year: 2014
+runtime: 192653
 ---
-
 The full moon
 Is shining like a spotlight
 I could just sit and listen to you talkin' all night
@@ -79,6 +83,3 @@ Baby, you sound good to me (sound so good)
 Baby, you sound so good to me (sound so good)
 Mm-m-mm like a melody
 Baby, you sound good to me
-
-
-

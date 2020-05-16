@@ -1,8 +1,11 @@
 ---
+album: 70s Soul Grooves
 artists:
 - The Impressions
+external_ids:
+  spotify: spotify:track:1bcNYGAe90li5SG5UKS0ST
 features: []
-genres: []
+first_released_as_single: false
 key: finally-got-myself-together--i-m-a-changed-man--the-impressions
 lyrics_url: https://genius.com/The-impressions-finally-got-myself-together-im-a-changed-man-lyrics
 name: Finally Got Myself Together (I'm A Changed Man)
@@ -79,6 +82,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1974-08-31'
+release_year: 1974
+runtime: 188626
 ---
 Finally got myself together. (Now I know...)
 Now I know just who I am. (I'm a changed man.)

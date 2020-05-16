@@ -1,8 +1,11 @@
 ---
+album: Christina Aguilera
 artists:
 - Christina Aguilera
+external_ids:
+  spotify: spotify:track:7A0apkTSTvMbSI7yplcmlh
 features: []
-genres: []
+first_released_as_single: false
 key: come-on-over-baby--all-i-want-is-you--christina-aguilera
 lyrics_url: https://genius.com/Christina-aguilera-come-on-over-baby-all-i-want-is-you-radio-version-lyrics
 name: Come On Over Baby (All I Want Is You)
@@ -91,6 +94,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '2000-12-23'
+release_year: 1999
+runtime: 203333
 ---
 Come on over, come on over baby
 Come on over, come on over baby (here we go)

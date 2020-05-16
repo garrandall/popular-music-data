@@ -1,9 +1,12 @@
 ---
+album: KOD
 artists:
 - J. Cole
+external_ids:
+  spotify: spotify:track:7vweq1v8BzuwVChGKQ4gjh
 features:
 - kiLL edward
-genres: []
+first_released_as_single: false
 key: the-cut-off-j--cole-kill-edward
 lyrics_url: https://www.azlyrics.com/lyrics/jcole/thecutoff.html
 name: The Cut Off
@@ -12,9 +15,9 @@ rankings:
   rank: 28
   ranking_list: Billboard Hot 100
   start_date: '2018-05-05'
+release_year: 2018
+runtime: 237311
 ---
-
-
 I know heaven is a mind state, I've been a couple times
 Stuck in my ways so I keep on falling down
 Keep on falling down
@@ -115,6 +118,3 @@ Give me drank, give me coke
 Bottom line, I can't cope
 If I die, I don't know
 I don't know, I don't know
-
-
-

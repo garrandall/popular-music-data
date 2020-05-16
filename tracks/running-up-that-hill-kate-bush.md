@@ -1,8 +1,11 @@
 ---
+album: Hounds Of Love
 artists:
 - Kate Bush
+external_ids:
+  spotify: spotify:track:75FEaRjZTKLhTrFGsfMUXR
 features: []
-genres: []
+first_released_as_single: false
 key: running-up-that-hill-kate-bush
 lyrics_url: https://www.musixmatch.com/lyrics/Placebo-feat-Kate-Bush/Running-Up-That-Hill
 name: Running Up That Hill
@@ -87,6 +90,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1986-01-18'
+release_year: 1985
+runtime: 298933
 ---
 It doesn't hurt me.
 Do you want to feel how it feels?

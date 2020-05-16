@@ -1,8 +1,11 @@
 ---
+album: All The Best of Al Martino
 artists:
 - Al Martino
+external_ids:
+  spotify: spotify:track:0XQHM6hCq87DndVRONPzI5
 features: []
-genres: []
+first_released_as_single: false
 key: mary-in-the-morning-al-martino
 lyrics_url: https://genius.com/Al-martino-mary-in-the-morning-lyrics
 name: Mary In The Morning
@@ -39,6 +42,8 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '1967-07-15'
+release_year: 1967
+runtime: 176600
 ---
 Nothing's quite as pretty as Mary in the morning
 When through the sleepy haze I see her lying there

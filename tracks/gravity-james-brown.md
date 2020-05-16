@@ -1,8 +1,11 @@
 ---
+album: Gravity
 artists:
 - James Brown
+external_ids:
+  spotify: spotify:track:36AfSFGOfSXEVVzz8DVLsx
 features: []
-genres: []
+first_released_as_single: false
 key: gravity-james-brown
 lyrics_url: https://www.azlyrics.com/lyrics/jamesbrown/gravity.html
 name: Gravity
@@ -15,8 +18,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1986-10-25'
+release_year: 1986
+runtime: 358426
 ---
-
 In the twenty-first century, you can dance
 Get your feet off the ground, get the dummy
 And if you believe then you can fly
@@ -74,6 +78,3 @@ G R A V I T Y, gravity
 Big G, G R A V I T Y
 Gravity, gravity, G R A V I T Y, say it
 Gravity, big G, gravity
-
-
-

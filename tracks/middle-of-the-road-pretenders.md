@@ -1,8 +1,11 @@
 ---
+album: Learning to Crawl
 artists:
 - Pretenders
+external_ids:
+  spotify: spotify:track:1YhyOTcVjHe73cm6tYrHkA
 features: []
-genres: []
+first_released_as_single: false
 key: middle-of-the-road-pretenders
 lyrics_url: https://www.azlyrics.com/lyrics/pretenders/middleoftheroad.html
 name: Middle Of The Road
@@ -63,8 +66,9 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1984-03-17'
+release_year: 1983
+runtime: 254293
 ---
-
 The middle of the road is trying to find me
 I'm standing in the middle of life with my plans behind me
 Well I got a smile for everyone I meet
@@ -103,6 +107,3 @@ Baby, get in the road
 Come on now
 In the middle of the road
 Yeah
-
-
-

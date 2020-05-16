@@ -1,8 +1,11 @@
 ---
+album: The Distance To Here
 artists:
 - Live
+external_ids:
+  spotify: spotify:track:6FPnecQDKOWSAKDKBAZ7ZG
 features: []
-genres: []
+first_released_as_single: false
 key: the-dolphin-s-cry-live
 lyrics_url: https://www.azlyrics.com/lyrics/live/thedolphinscry.html
 name: The Dolphin's Cry
@@ -47,8 +50,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1999-12-18'
+release_year: 1999
+runtime: 264160
 ---
-
 The way you're bathed in light
 reminds me of that night
 god laid me down into your rose garden of trust
@@ -99,6 +103,3 @@ over
 come to me
 singin' la da da da, da da da
 come to me
-
-
-

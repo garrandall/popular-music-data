@@ -1,8 +1,11 @@
 ---
+album: Burton Cummings
 artists:
 - Burton Cummings
+external_ids:
+  spotify: spotify:track:14IKLtPlsqWL077svIJYey
 features: []
-genres: []
+first_released_as_single: false
 key: stand-tall-burton-cummings
 lyrics_url: https://genius.com/Burton-cummings-stand-tall-lyrics
 name: Stand Tall
@@ -91,6 +94,8 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '1977-02-26'
+release_year: 1976
+runtime: 272293
 ---
 Never been this blue
 Never knew the meaning of a heartache

@@ -1,8 +1,11 @@
 ---
+album: Tusk
 artists:
 - Fleetwood Mac
+external_ids:
+  spotify: spotify:track:0YuCATlVwxG5Mq8lN2Omro
 features: []
-genres: []
+first_released_as_single: false
 key: sara-fleetwood-mac
 lyrics_url: https://www.azlyrics.com/lyrics/fleetwoodmac/sara.html
 name: Sara
@@ -63,8 +66,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1980-03-15'
+release_year: 1979
+runtime: 275106
 ---
-
 Wait a minute, baby.
 Stay with me awhile
 Said you'd give me light
@@ -126,6 +130,3 @@ Oh Sara,
 Would you swallow all your pride
 Would you speak a little louder
 Singing, all I ever wanted
-
-
-

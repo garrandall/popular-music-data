@@ -1,8 +1,11 @@
 ---
+album: You're Only Lonely
 artists:
 - J.D. Souther
+external_ids:
+  spotify: spotify:track:6kCrXyiCM1QvMRC7mnMz3O
 features: []
-genres: []
+first_released_as_single: false
 key: you-re-only-lonely-j-d--souther
 lyrics_url: https://www.musixmatch.com/lyrics/JD-Souther/You-re-Only-Lonely
 name: You're Only Lonely
@@ -91,6 +94,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1980-01-26'
+release_year: 1972
+runtime: 226666
 ---
 When the world is ready to fall on your little shoulders
 And when you're feeling lonely and small

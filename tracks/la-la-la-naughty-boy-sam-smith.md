@@ -1,9 +1,12 @@
 ---
+album: Hotel Cabana (Deluxe Version)
 artists:
 - Naughty Boy
+external_ids:
+  spotify: spotify:track:52gvlDnre9craz9dKGObp8
 features:
 - Sam Smith
-genres: []
+first_released_as_single: true
 key: la-la-la-naughty-boy-sam-smith
 lyrics_url: https://www.azlyrics.com/lyrics/naughtyboy/lalala.html
 name: La La La
@@ -88,8 +91,9 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '2014-07-19'
+release_year: 2013
+runtime: 220779
 ---
-
 La la, la la la la la na na na na na
 La la na na, la la la la la na na na na na
 La la, la la la la la na na na na na
@@ -160,6 +164,3 @@ La la, la la la la la na na na na na
 La la na na, la la la la la na na na na na
 La la na na, la la la la la na na na na na
 La la na na, la la la la la na na na na na
-
-
-

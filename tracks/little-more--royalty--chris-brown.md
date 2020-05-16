@@ -1,8 +1,11 @@
 ---
+album: Royalty (Deluxe Version)
 artists:
 - Chris Brown
+external_ids:
+  spotify: spotify:track:4lvQiZUhHgG8Oldd8S97hd
 features: []
-genres: []
+first_released_as_single: false
 key: little-more--royalty--chris-brown
 lyrics_url: https://www.azlyrics.com/lyrics/chrisbrown/littlemoreroyalty.html
 name: Little More (Royalty)
@@ -11,8 +14,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2016-01-09'
+release_year: 2015
+runtime: 260453
 ---
-
 Wake me up before you go,
 Oh, I need a little more
 Just a little more, a little more of your love
@@ -72,6 +76,3 @@ Just a little more, a little more of your love
 Wake me up with some more of your love
 'Cause your love, your love, your love
 Wake me up with some more of your love
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Hot Fuss
 artists:
 - The Killers
+external_ids:
+  spotify: spotify:track:0lIwcWh2AgH2nJq6CwEWAj
 features: []
-genres: []
+first_released_as_single: true
 key: somebody-told-me-the-killers
 lyrics_url: https://genius.com/The-killers-somebody-told-me-lyrics
 name: Somebody Told Me
@@ -87,6 +90,8 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '2005-01-15'
+release_year: 2004
+runtime: 231026
 ---
 Breaking my back just to know your name
 Seventeen tracks and I've had it with this game

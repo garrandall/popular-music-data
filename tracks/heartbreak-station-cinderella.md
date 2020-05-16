@@ -1,8 +1,11 @@
 ---
+album: Heartbreak Station
 artists:
 - Cinderella
+external_ids:
+  spotify: spotify:track:71cWHhV018hztNkCC45Ayo
 features: []
-genres: []
+first_released_as_single: false
 key: heartbreak-station-cinderella
 lyrics_url: https://www.azlyrics.com/lyrics/cinderella/heartbreakstation.html
 name: Heartbreak Station
@@ -51,8 +54,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1991-05-25'
+release_year: 1990
+runtime: 268840
 ---
-
 Waiting at the station
 Tears filling up my eyes
 Sometimes the pain you hide
@@ -86,4 +90,3 @@ My lady's on the fly
 And she's never coming back
 My love is like a steam train
 Rolling down the tracks yea, yeaa
-

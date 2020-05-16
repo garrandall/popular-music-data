@@ -1,9 +1,12 @@
 ---
+album: Love Is All We Have To Give
 artists:
 - The Checkmates
 - Ltd.
+external_ids:
+  spotify: spotify:track:286qmvt9ztc3vTIFSoNxo3
 features: []
-genres: []
+first_released_as_single: false
 key: love-is-all-i-have-to-give-the-checkmates-ltd-
 lyrics_url: https://genius.com/Checkmates-ltd-love-is-all-i-have-to-give-lyrics
 name: Love Is All I Have To Give
@@ -36,6 +39,8 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1969-05-17'
+release_year: 1969
+runtime: 255826
 ---
 So you're walking away, so you wanna call it a day
 Think of how I'm trying to keep our love

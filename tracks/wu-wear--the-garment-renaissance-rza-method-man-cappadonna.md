@@ -1,10 +1,13 @@
 ---
+album: High School High - The Soundtrack
 artists:
 - RZA
+external_ids:
+  spotify: spotify:track:6FtRe3Lr8OOLhJmLXinldq
 features:
 - Method Man
 - Cappadonna
-genres: []
+first_released_as_single: false
 key: wu-wear--the-garment-renaissance-rza-method-man-cappadonna
 lyrics_url: https://www.azlyrics.com/lyrics/rza/wuwearthegarmentrenaissance.html
 name: 'Wu-Wear: The Garment Renaissance'
@@ -57,10 +60,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1996-11-02'
+release_year: 1996
+runtime: 232560
 ---
-
-
-
 Ain't what you want baby
 It's what you need baby
 Ain't what you want baby
@@ -147,6 +149,3 @@ feelin fine darlin
 Now all you see baby
 Ain't what you need baby
 I wanna know, how low, it go
-
-
-

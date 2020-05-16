@@ -1,8 +1,11 @@
 ---
+album: Cool Night
 artists:
 - Paul Davis
+external_ids:
+  spotify: spotify:track:5nBp8F6tekSrnFg8G2Pvug
 features: []
-genres: []
+first_released_as_single: false
 key: -65-love-affair-paul-davis
 lyrics_url: https://www.azlyrics.com/lyrics/pauldavis/65loveaffair.html
 name: '''65 Love Affair'
@@ -87,8 +90,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1982-07-10'
+release_year: 1979
+runtime: 219813
 ---
-
 I was a car hop
 You were into be-bop
 You sang, do wop diddy wop diddy wop doo
@@ -147,6 +151,3 @@ If I could go back again
 Well I know our love would never end
 Back with all of my friends
 To that wonderful '65 love affair...
-
-
-

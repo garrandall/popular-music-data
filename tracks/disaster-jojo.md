@@ -1,8 +1,11 @@
 ---
+album: Disaster (2018)
 artists:
 - JoJo
+external_ids:
+  spotify: spotify:track:1nNvIXCUmjcSp59qbwWktb
 features: []
-genres: []
+first_released_as_single: true
 key: disaster-jojo
 lyrics_url: https://genius.com/Jojo-disaster-lyrics
 name: Disaster
@@ -11,6 +14,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '2011-09-24'
+release_year: 2011
+runtime: 218813
 ---
 I'm trying not to pretend
 That it won't happen again and again like that

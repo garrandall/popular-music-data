@@ -1,8 +1,11 @@
 ---
+album: Tommy Tutone
 artists:
 - Tommy Tutone
+external_ids:
+  spotify: spotify:track:5LdNW6fDrsFW0PDWEowVaX
 features: []
-genres: []
+first_released_as_single: false
 key: angel-say-no-tommy-tutone
 lyrics_url: https://www.azlyrics.com/lyrics/tommytutone/angelsayno.html
 name: Angel Say No
@@ -39,8 +42,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1980-07-12'
+release_year: 1980
+runtime: 190893
 ---
-
 Angel I love you, you know I love you, but what can I say 
 You're not really here anymore and I know it
 It's getting late they're waiting outside you're gonna run away
@@ -88,6 +92,3 @@ Angel say no no no
 they got a needle and a hound
 ah-ee-ah-ee-ah-angel say no-o)
 Angel say no no
-
-
-

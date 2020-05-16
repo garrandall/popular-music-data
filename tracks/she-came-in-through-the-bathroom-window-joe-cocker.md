@@ -1,8 +1,11 @@
 ---
+album: Joe Cocker!
 artists:
 - Joe Cocker
+external_ids:
+  spotify: spotify:track:1HLi7j0ENx5KiBeOZPW8xA
 features: []
-genres: []
+first_released_as_single: false
 key: she-came-in-through-the-bathroom-window-joe-cocker
 lyrics_url: https://www.azlyrics.com/lyrics/joecocker/shecameinthroughthebathroomwindow.html
 name: She Came In Through The Bathroom Window
@@ -55,8 +58,9 @@ rankings:
   rank: 35
   ranking_list: Billboard Hot 100
   start_date: '1970-02-21'
+release_year: 1969
+runtime: 156373
 ---
-
 She came in through the bathroom window
 Protected by a silver spoon
 But now she sucks her thumb and wanders
@@ -82,6 +86,3 @@ Didn't anybody see?
 Sunday's on the phone to Monday,
 Tuesday's on the phone to me
 Oh yeah.
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Power To The People - The Hits
 artists:
 - John Lennon
+external_ids:
+  spotify: spotify:track:2ZbFPXkcaYPq3tu1mLJkjk
 features: []
-genres: []
+first_released_as_single: false
 key: instant-karma--we-all-shine-on--john-ono-lennon
 lyrics_url: https://genius.com/John-lennon-instant-karma-we-all-shine-on-lyrics
 name: Instant Karma (We All Shine On)
@@ -59,6 +62,8 @@ rankings:
   rank: 27
   ranking_list: Billboard Hot 100
   start_date: '1970-05-23'
+release_year: 1970
+runtime: 201320
 ---
 Instant Karma's going to get you
 Going to knock you right on the head

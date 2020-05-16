@@ -1,8 +1,11 @@
 ---
+album: Super Hits
 artists:
 - Regina Belle
+external_ids:
+  spotify: spotify:track:1wlOaGpd7eylB8LXpAtmhM
 features: []
-genres: []
+first_released_as_single: false
 key: if-i-could-regina-belle
 lyrics_url: https://www.azlyrics.com/lyrics/reginabelle/ificould.html
 name: If I Could
@@ -75,8 +78,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1993-07-24'
+release_year: 1987
+runtime: 240266
 ---
-
 If I could
 I'd protect you
 From the sadness
@@ -138,6 +142,3 @@ If I could
 
 
 If I could
-
-
-

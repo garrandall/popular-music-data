@@ -1,8 +1,11 @@
 ---
+album: United
 artists:
 - Commodores
+external_ids:
+  spotify: spotify:track:54FfURHYc3kATCbteQup0K
 features: []
-genres: []
+first_released_as_single: false
 key: goin--to-the-bank-commodores
 lyrics_url: https://www.azlyrics.com/lyrics/commodores/gointothebank.html
 name: Goin' To The Bank
@@ -55,8 +58,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1987-01-17'
+release_year: 1986
+runtime: 258666
 ---
-
 She knows I want her
 She knows I need her
 
@@ -148,6 +152,3 @@ Goin' to the B-A-N-K
 B-A-N-K
 B-A-N-K
 B-A-N-K.
-
-
-

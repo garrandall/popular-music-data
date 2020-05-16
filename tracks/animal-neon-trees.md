@@ -1,8 +1,11 @@
 ---
+album: Habits
 artists:
 - Neon Trees
+external_ids:
+  spotify: spotify:track:1fBl642IhJOE5U319Gy2Go
 features: []
-genres: []
+first_released_as_single: false
 key: animal-neon-trees
 lyrics_url: https://www.azlyrics.com/lyrics/neontrees/animal.html
 name: Animal
@@ -151,8 +154,9 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '2011-02-19'
+release_year: 2010
+runtime: 212293
 ---
-
 Here we go again
 I kinda wanna be more than friends
 So take it easy on me
@@ -233,6 +237,3 @@ Oh oh
 What are you waiting for?
 What are you waiting for?
 Say goodbye to my heart tonight
-
-
-

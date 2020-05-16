@@ -1,8 +1,11 @@
 ---
+album: '20th Century Masters: The Millennium Collection: The Best Of Rita Coolidge'
 artists:
 - Rita Coolidge
+external_ids:
+  spotify: spotify:track:0e6jrQ880TI8IjAexAmtb6
 features: []
-genres: []
+first_released_as_single: false
 key: all-time-high-rita-coolidge
 lyrics_url: https://www.azlyrics.com/lyrics/ritacoolidge/alltimehigh.html
 name: All Time High
@@ -59,8 +62,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1983-09-24'
+release_year: 1983
+runtime: 185893
 ---
-
 All I wanted was a sweet distraction for an hour or two
 Had no intention to do the things we've done
 Funny how it always goes with love, when you don't look, you find
@@ -87,6 +91,3 @@ So hold on tight, let the flight begin
 
 So hold on tight, let the flight begin
 We're an all time high
-
-
-

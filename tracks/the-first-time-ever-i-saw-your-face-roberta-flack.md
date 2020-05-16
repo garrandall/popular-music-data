@@ -1,8 +1,11 @@
 ---
+album: First Take
 artists:
 - Roberta Flack
+external_ids:
+  spotify: spotify:track:0SxFyA4FqmEQqZVuAlg8lf
 features: []
-genres: []
+first_released_as_single: false
 key: the-first-time-ever-i-saw-your-face-roberta-flack
 lyrics_url: https://www.azlyrics.com/lyrics/robertaflack/thefirsttimeeverisawyourface.html
 name: The First Time Ever I Saw Your Face
@@ -79,8 +82,9 @@ rankings:
   rank: 36
   ranking_list: Billboard Hot 100
   start_date: '1972-07-01'
+release_year: 1969
+runtime: 260666
 ---
-
 The first time ever I saw your face
 I thought the sun rose in your eyes
 And the moon and the stars were the gifts you gave
@@ -103,6 +107,3 @@ The first time ever I saw your face
 Your face
 Your face
 Your face
-
-
-

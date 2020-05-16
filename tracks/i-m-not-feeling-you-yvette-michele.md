@@ -1,8 +1,11 @@
 ---
+album: My Dream
 artists:
 - Yvette Michele
+external_ids:
+  spotify: spotify:track:0e4E4VnpW8azK2CtV7CNbE
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-not-feeling-you-yvette-michele
 lyrics_url: https://genius.com/Yvette-michele-im-not-feeling-you-lyrics
 name: I'm Not Feeling You
@@ -63,6 +66,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1997-05-24'
+release_year: 1997
+runtime: 205600
 ---
 Oh, yeah, yeah
 

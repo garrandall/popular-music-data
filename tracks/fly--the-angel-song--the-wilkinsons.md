@@ -1,8 +1,11 @@
 ---
+album: Nothing But Love
 artists:
 - The Wilkinsons
+external_ids:
+  spotify: spotify:track:48jSA0lHI6q7v4DhK23mYz
 features: []
-genres: []
+first_released_as_single: false
 key: fly--the-angel-song--the-wilkinsons
 lyrics_url: https://www.musixmatch.com/lyrics/The-Wilkinsons/Fly
 name: Fly (The Angel Song)
@@ -67,6 +70,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1999-03-20'
+release_year: 1998
+runtime: 222666
 ---
 Sometimes I swear I live with an angel
 Sent from above to watch over me

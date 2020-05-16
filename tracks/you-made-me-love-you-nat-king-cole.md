@@ -1,8 +1,11 @@
 ---
+album: Thank You, Pretty Baby
 artists:
 - Nat King Cole
+external_ids:
+  spotify: spotify:track:7LPVWfMHGxawDxNzppoHOZ
 features: []
-genres: []
+first_released_as_single: false
 key: you-made-me-love-you-nat-king-cole
 lyrics_url: https://genius.com/Nat-king-cole-you-made-me-love-you-lyrics
 name: You Made Me Love You
@@ -43,6 +46,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1959-06-29'
+release_year: 1959
+runtime: 172040
 ---
 You made me love you
 I didn't wanna do it

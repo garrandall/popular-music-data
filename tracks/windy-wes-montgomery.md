@@ -1,8 +1,11 @@
 ---
+album: A Day In The Life
 artists:
 - Wes Montgomery
+external_ids:
+  spotify: spotify:track:2dUCI2pj2CmMem7v8Ul8BO
 features: []
-genres: []
+first_released_as_single: false
 key: windy-wes-montgomery
 name: Windy
 rankings:
@@ -50,5 +53,7 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1968-02-03'
+release_year: 1967
+runtime: 142866
 ---
 

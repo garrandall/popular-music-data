@@ -1,8 +1,11 @@
 ---
+album: Greatest Hits
 artists:
 - Trini Lopez
+external_ids:
+  spotify: spotify:track:7q0CKuWtZgTwOaNWDGtGVf
 features: []
-genres: []
+first_released_as_single: false
 key: sinner-man-trini-lopez
 lyrics_url: https://www.musixmatch.com/lyrics/Trini-Lopez/Sinner-Man
 name: Sinner Man
@@ -43,6 +46,8 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1965-12-11'
+release_year: 1965
+runtime: 170920
 ---
 Chorus:
 Sinner man, has a reputation

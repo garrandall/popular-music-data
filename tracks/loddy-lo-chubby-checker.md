@@ -1,8 +1,11 @@
 ---
+album: Chubby's Folk Album
 artists:
 - Chubby Checker
+external_ids:
+  spotify: spotify:track:2CoFxvhk2uGUv2ZpQBtRKq
 features: []
-genres: []
+first_released_as_single: false
 key: loddy-lo-chubby-checker
 lyrics_url: https://www.azlyrics.com/lyrics/chubbychecker/loddylo.html
 name: Loddy Lo
@@ -59,8 +62,9 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1964-01-25'
+release_year: 1962
+runtime: 131133
 ---
-
 La La La Lardy
 La La La Lardy
 I've got a girl that I love so
@@ -116,6 +120,3 @@ Hey girl I love you so
 All together:
 La La La Lardy
 Oh yeah La La La Lardy
-
-
-

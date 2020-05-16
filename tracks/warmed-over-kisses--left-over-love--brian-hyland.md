@@ -1,8 +1,11 @@
 ---
+album: Chronology
 artists:
 - Brian Hyland
+external_ids:
+  spotify: spotify:track:4VXtEw18Y1BrZ3E5G5ipVp
 features: []
-genres: []
+first_released_as_single: false
 key: warmed-over-kisses--left-over-love--brian-hyland
 lyrics_url: https://genius.com/Brian-hyland-warmed-over-kisses-left-over-love-lyrics
 name: Warmed Over Kisses (Left Over Love)
@@ -39,6 +42,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1962-11-10'
+release_year: 1962
+runtime: 141666
 ---
 I see I've gotta be headin' for pain
 I see a broken heart wearin' my name

@@ -1,8 +1,11 @@
 ---
+album: At Night, Alone.
 artists:
 - Mike Posner
+external_ids:
+  spotify: spotify:track:1MtUq6Wp1eQ8PC6BbPCj8P
 features: []
-genres: []
+first_released_as_single: false
 key: i-took-a-pill-in-ibiza-mike-posner
 lyrics_url: https://genius.com/Mike-posner-i-took-a-pill-in-ibiza-lyrics
 name: I Took A Pill In Ibiza
@@ -155,6 +158,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '2016-10-15'
+release_year: 2016
+runtime: 197933
 ---
 I took a pill in Ibiza to show Avicii I was cool
 And when I finally got sober, felt 10 years older

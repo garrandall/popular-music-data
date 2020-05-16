@@ -1,8 +1,11 @@
 ---
+album: Working On A Groovy Thing
 artists:
 - Barbara Lewis
+external_ids:
+  spotify: spotify:track:4rwqam3s5xzOqOJNyqwCZU
 features: []
-genres: []
+first_released_as_single: false
 key: baby-what-do-you-want-me-to-do-barbara-lewis
 lyrics_url: https://genius.com/Barbara-lewis-baby-what-do-you-want-me-to-do-lyrics
 name: Baby What Do You Want Me To Do
@@ -31,6 +34,8 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1966-12-03'
+release_year: 1966
+runtime: 158213
 ---
 When we're all alone
 Softly you tell me I'm your own

@@ -1,8 +1,11 @@
 ---
+album: One More Mountain
 artists:
 - Four Tops
+external_ids:
+  spotify: spotify:track:7qFHQok5nXsrl6C1YGfHvb
 features: []
-genres: []
+first_released_as_single: false
 key: sad-hearts-four-tops
 lyrics_url: https://genius.com/The-four-tops-sad-hearts-lyrics
 name: Sad Hearts
@@ -19,6 +22,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1982-09-11'
+release_year: 1982
+runtime: 172333
 ---
 Sad heart
 Don't be long

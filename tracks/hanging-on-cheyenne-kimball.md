@@ -1,8 +1,11 @@
 ---
+album: The Day Has Come
 artists:
 - Cheyenne Kimball
+external_ids:
+  spotify: spotify:track:6Su4jst3IXkvneQb4OUiLE
 features: []
-genres: []
+first_released_as_single: false
 key: hanging-on-cheyenne-kimball
 lyrics_url: https://www.azlyrics.com/lyrics/cheyennekimball/hangingon.html
 name: Hanging On
@@ -31,8 +34,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2006-08-19'
+release_year: 2006
+runtime: 249160
 ---
-
 I've had a bad day
 And nothing ever seems to go my way
 I've got a heartache
@@ -98,6 +102,3 @@ I'm gonna make it alright
 I'm hanging on and nothing's gonna stop me, anyway
 
 I've had a bad day
-
-
-

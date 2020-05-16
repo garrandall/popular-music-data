@@ -1,8 +1,11 @@
 ---
+album: Circles
 artists:
 - Mac Miller
+external_ids:
+  spotify: spotify:track:2hwOoMtWPtTSSn6WHV7Vp5
 features: []
-genres: []
+first_released_as_single: false
 key: blue-world-mac-miller
 lyrics_url: https://www.azlyrics.com/lyrics/macmiller/blueworld.html
 name: Blue World
@@ -15,8 +18,9 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '2020-02-08'
+release_year: 2020
+runtime: 209440
 ---
-
 (It's a blue world)
 (Without you)
 (It's a blue world)
@@ -75,6 +79,3 @@ I let it go but I never go with it
 
 Hey, one of these days we'll all get by
 Don't be afraid, don't fall in line
-
-
-

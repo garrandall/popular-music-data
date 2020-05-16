@@ -1,7 +1,9 @@
 ---
 artists:
-- Shania Twain With Billy Currington Or Mark McGrath
-features: []
+- Shania Twain
+features:
+- Billy Currington
+- Mark McGrath
 genres: []
 key: party-for-two-shania-twain-with-billy-currington-or-mark-mcgrath
 name: Party For Two

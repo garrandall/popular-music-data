@@ -1,8 +1,11 @@
 ---
+album: That's Why
 artists:
 - Craig Morgan
+external_ids:
+  spotify: spotify:track:4PyKicaf5RL5tlidl6ZMO5
 features: []
-genres: []
+first_released_as_single: false
 key: bonfire-craig-morgan
 lyrics_url: https://www.azlyrics.com/lyrics/craigmorgan/bonfire.html
 name: Bonfire
@@ -63,8 +66,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2010-01-09'
+release_year: 2008
+runtime: 179706
 ---
-
 You can see it from the river
 To the top of white pine ridge
 Burning like a summer sun
@@ -98,6 +102,3 @@ And head towards glow
 
 At the bonfire
 Were all hanging at the bonfire
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Weapons Of Love
 artists:
 - The Truth
+external_ids:
+  spotify: spotify:track:4MDQg3faAHdyoDFm0Qwh4N
 features: []
-genres: []
+first_released_as_single: false
 key: weapons-of-love-the-truth
 lyrics_url: https://genius.com/The-truth-uk-weapons-of-love-lyrics
 name: Weapons Of Love
@@ -43,6 +46,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1987-07-04'
+release_year: 1987
+runtime: 230560
 ---
 Whoa oh oh...
 

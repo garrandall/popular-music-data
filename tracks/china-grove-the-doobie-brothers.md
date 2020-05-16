@@ -1,8 +1,11 @@
 ---
+album: The Captain And Me
 artists:
 - The Doobie Brothers
+external_ids:
+  spotify: spotify:track:7cy1bEJV6FCtDaYpsk8aG6
 features: []
-genres: []
+first_released_as_single: false
 key: china-grove-the-doobie-brothers
 lyrics_url: https://www.azlyrics.com/lyrics/doobiebrothers/chinagrove.html
 name: China Grove
@@ -59,8 +62,9 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1973-11-10'
+release_year: 1973
+runtime: 195306
 ---
-
 When the sun comes up on a sleepy little town
 Down around San Antone
 And the folks are risin' for another day
@@ -94,6 +98,3 @@ They just keep on lookin' to the East
 
 Talkin' 'bout the China Grove
 Oh, China Grove
-
-
-

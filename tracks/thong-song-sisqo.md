@@ -1,8 +1,11 @@
 ---
+album: Unleash The Dragon
 artists:
 - Sisqo
+external_ids:
+  spotify: spotify:track:5Mmk2ii6laakqfeCT7OnVD
 features: []
-genres: []
+first_released_as_single: false
 key: thong-song-sisqo
 lyrics_url: https://genius.com/Sisqo-thong-song-lyrics
 name: Thong Song
@@ -119,6 +122,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '2000-08-05'
+release_year: 1999
+runtime: 253733
 ---
 This thing right here
 Is lettin all the ladies know

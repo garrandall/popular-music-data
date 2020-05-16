@@ -1,8 +1,11 @@
 ---
+album: The Seeds Of Love
 artists:
 - Tears For Fears
+external_ids:
+  spotify: spotify:track:0PbAyLrJRDxckQBLQ2Addc
 features: []
-genres: []
+first_released_as_single: false
 key: sowing-the-seeds-of-love-tears-for-fears
 lyrics_url: https://www.azlyrics.com/lyrics/tearsforfears/sowingtheseedsoflove.html
 name: Sowing The Seeds Of Love
@@ -67,8 +70,9 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1989-12-09'
+release_year: 1989
+runtime: 376733
 ---
-
 High time we made a stand and shook up the views of the common man
 The lovetrain rides from coast to coast
 D.J.'s the man we love the most
@@ -133,6 +137,3 @@ With love
 
 Sowing the Seeds of Love, seeds of love, seeds of love, sowing the seeds
 Sowing the Seeds of Love, seeds of love, seeds of love, sowing the seeds
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: '?'
 artists:
 - XXXTENTACION
+external_ids:
+  spotify: spotify:track:7CkbRn6S0itJqcqn88AtSV
 features: []
-genres: []
+first_released_as_single: false
 key: going-down--xxxtentacion
 lyrics_url: https://www.musixmatch.com/lyrics/Xxxtentacion/Going-Down
 name: Going Down!
@@ -11,6 +14,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2018-03-31'
+release_year: 2018
+runtime: 115194
 ---
 Oh my
 I got that drip, ayy

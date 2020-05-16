@@ -1,8 +1,11 @@
 ---
+album: What The World Needs Now Is Love
 artists:
 - Wynonna
+external_ids:
+  spotify: spotify:track:3cgJ9TTQZdfh2jccUCUV1H
 features: []
-genres: []
+first_released_as_single: false
 key: what-the-world-needs-wynonna
 lyrics_url: https://www.azlyrics.com/lyrics/wynonnajudd/whattheworldneeds.html
 name: What The World Needs
@@ -39,8 +42,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '2003-08-23'
+release_year: 2003
+runtime: 215733
 ---
-
 I look around at all the faces and I see
 All the lonely people looking back at me
 Rich, poor don't matter we're all the same
@@ -78,4 +82,3 @@ No one wants to be alone
 
 ( "Let's come together, lay our prejudices down...")
 (La, la, la, la, la)
-

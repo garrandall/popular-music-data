@@ -1,8 +1,11 @@
 ---
+album: Jordin Sparks
 artists:
 - Jordin Sparks
+external_ids:
+  spotify: spotify:track:5o4W6yWSJD9e9Ea8YC9WjF
 features: []
-genres: []
+first_released_as_single: false
 key: one-step-at-a-time-jordin-sparks
 lyrics_url: https://www.azlyrics.com/lyrics/jordinsparks/onestepatatime.html
 name: One Step At A Time
@@ -91,8 +94,9 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '2008-11-29'
+release_year: 2007
+runtime: 205160
 ---
-
 Hurry up and wait
 So close, but so far away
 Everything that you've always dreamed of
@@ -164,6 +168,3 @@ It's gonna happen when it's
 Supposed to happen and we
 Find the reasons why
 One step at a time
-
-
-

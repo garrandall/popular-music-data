@@ -1,8 +1,11 @@
 ---
+album: At Her Best
 artists:
 - Barbara Fairchild
+external_ids:
+  spotify: spotify:track:4xbK9VtSMiXdww9RZWipBg
 features: []
-genres: []
+first_released_as_single: false
 key: teddy-bear-song-barbara-fairchild
 lyrics_url: https://genius.com/Barbara-fairchild-teddy-bear-song-lyrics
 name: Teddy Bear Song
@@ -83,6 +86,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1973-06-30'
+release_year: 1973
+runtime: 182413
 ---
 I wish I had button eyes and red fat nose
 Shaggy cotton skin and just one set of clothes

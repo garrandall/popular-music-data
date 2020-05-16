@@ -1,8 +1,11 @@
 ---
+album: Greatest Hits - Original Recordings
 artists:
 - Ray Stevens
+external_ids:
+  spotify: spotify:track:1jjYKkQ4nNoZFHR32FzCXB
 features: []
-genres: []
+first_released_as_single: false
 key: jeremiah-peabody-s-poly-unsaturated-quick-dissolving-fast-acting-pleasant-t-ray-stevens
 name: Jeremiah Peabody's Poly Unsaturated Quick Dissolving Fast Acting Pleasant T
 rankings:
@@ -30,5 +33,7 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1961-09-25'
+release_year: 1961
+runtime: 146866
 ---
 

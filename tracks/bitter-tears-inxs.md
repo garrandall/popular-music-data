@@ -1,8 +1,11 @@
 ---
+album: X
 artists:
 - INXS
+external_ids:
+  spotify: spotify:track:1hn1DJ1nWnMywgt9maAez0
 features: []
-genres: []
+first_released_as_single: false
 key: bitter-tears-inxs
 lyrics_url: https://www.azlyrics.com/lyrics/inxs/bittertears.html
 name: Bitter Tears
@@ -47,8 +50,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1991-06-08'
+release_year: 1990
+runtime: 228820
 ---
-
 In the mist
 Of my endless search
 The best in life
@@ -101,6 +105,3 @@ Push away those bitter tears
 Push away those bitter tears
 
 Thats what they call doing no wrong
-
-
-

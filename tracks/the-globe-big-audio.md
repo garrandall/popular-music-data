@@ -1,8 +1,11 @@
 ---
+album: The Globe
 artists:
 - Big Audio
+external_ids:
+  spotify: spotify:track:3FaRrTnsfFS8Xiq4Q4RQZz
 features: []
-genres: []
+first_released_as_single: false
 key: the-globe-big-audio
 lyrics_url: https://genius.com/Big-audio-dynamite-ii-the-globe-lyrics
 name: The Globe
@@ -47,6 +50,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1992-04-18'
+release_year: 1985
+runtime: 364133
 ---
 Break it on down
 Bless you
@@ -124,4 +129,3 @@ Don't smoke more than fifty fags a day)
 
 
 (C'mon, party on down)
-

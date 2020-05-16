@@ -1,8 +1,11 @@
 ---
+album: Love & Hate
 artists:
 - Jack Jones
+external_ids:
+  spotify: spotify:track:6N0QR1bKO0a5OROLT0MWy1
 features: []
-genres: []
+first_released_as_single: false
 key: lady-jack-jones
 lyrics_url: https://genius.com/Jack-jones-lady-lyrics
 name: Lady
@@ -51,6 +54,8 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '1967-04-01'
+release_year: 1967
+runtime: 164000
 ---
 Lady, you're in love today but what about your broken heart tomorrow?
 Why waste all your loveliness on someone if he really doesn't care?

@@ -1,8 +1,11 @@
 ---
+album: 2nd II None
 artists:
 - 2nd II None
+external_ids:
+  spotify: spotify:track:3vXOrsKnMp1EZgS4oRqW18
 features: []
-genres: []
+first_released_as_single: false
 key: if-you-want-it-2nd-ii-none
 lyrics_url: https://genius.com/2nd-ii-none-if-you-want-it-lyrics
 name: If You Want It
@@ -71,6 +74,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1992-07-18'
+release_year: 1990
+runtime: 225893
 ---
 If you want it, then I've got it
 If you need it, baby, I'll feed it

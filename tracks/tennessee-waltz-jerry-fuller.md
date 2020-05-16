@@ -1,8 +1,11 @@
 ---
+album: Jerry Fuller
 artists:
 - Jerry Fuller
+external_ids:
+  spotify: spotify:track:0L95j6ZWhrzru1AeeThMaC
 features: []
-genres: []
+first_released_as_single: false
 key: tennessee-waltz-jerry-fuller
 lyrics_url: https://www.musixmatch.com/lyrics/Jerry-Fuller/Tennessee-Waltz
 name: Tennessee Waltz
@@ -31,6 +34,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1959-11-23'
+release_year: 1959
+runtime: 133946
 ---
 Well I was dancin'
 With my baby

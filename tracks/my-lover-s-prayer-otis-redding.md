@@ -1,8 +1,11 @@
 ---
+album: 'Complete & Unbelievable: The Otis Redding Dictionary of Soul'
 artists:
 - Otis Redding
+external_ids:
+  spotify: spotify:track:3ewSxAjIejXBZ7tk5llr11
 features: []
-genres: []
+first_released_as_single: false
 key: my-lover-s-prayer-otis-redding
 lyrics_url: https://www.azlyrics.com/lyrics/otisredding/myloversprayer.html
 name: My Lover's Prayer
@@ -35,8 +38,9 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1966-07-16'
+release_year: 1966
+runtime: 190506
 ---
-
 This is my lover's prayer
 I hope it'll reach out to you, my love
 This is my lover's prayer 
@@ -78,6 +82,3 @@ I'm singin' out to you
 And I hope it reaches out to you 
 This is my lover's prayer 
 I hope it gets to you
-
-
-

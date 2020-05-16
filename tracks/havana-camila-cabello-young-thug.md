@@ -1,9 +1,12 @@
 ---
+album: Camila
 artists:
 - Camila Cabello
+external_ids:
+  spotify: spotify:track:1rfofaqEpACxVEHIZBJe6W
 features:
 - Young Thug
-genres: []
+first_released_as_single: false
 key: havana-camila-cabello-young-thug
 lyrics_url: https://www.azlyrics.com/lyrics/camilacabello/havana.html
 name: Havana
@@ -192,9 +195,9 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '2018-07-07'
+release_year: 2017
+runtime: 217306
 ---
-
-
 Havana, ohna-na (ay)
 Half of my heart is in Havana, ohna-na (ay, ay)
 He took me back to East Atlanta, na-na-na
@@ -272,6 +275,3 @@ Oh na-na-na
 No, no, no, take me back
 Oh na-na-na
 Havana, ohna-na
-
-
-

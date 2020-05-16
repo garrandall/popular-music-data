@@ -1,9 +1,12 @@
 ---
+album: Today, Tomorrow and Forever
 artists:
 - Elvis Presley
 - The Jordanaires
+external_ids:
+  spotify: spotify:track:1rZNl6AvkhJCf5GMlv8dmS
 features: []
-genres: []
+first_released_as_single: false
 key: you-don-t-know-me-elvis-presley-with-the-jordanaires
 name: You Don't Know Me
 rankings:
@@ -31,5 +34,7 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1967-11-18'
+release_year: 1967
+runtime: 134520
 ---
 

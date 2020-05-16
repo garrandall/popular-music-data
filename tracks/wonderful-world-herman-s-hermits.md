@@ -1,8 +1,11 @@
 ---
+album: Herman's Hermits Retrospective
 artists:
 - Herman's Hermits
+external_ids:
+  spotify: spotify:track:4E2jtYi0OhTYaSJ0iCD4Sw
 features: []
-genres: []
+first_released_as_single: false
 key: wonderful-world-herman-s-hermits
 lyrics_url: https://www.azlyrics.com/lyrics/hermanshermits/whatawonderfulworld.html
 name: Wonderful World
@@ -47,8 +50,9 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1965-07-31'
+release_year: 1965
+runtime: 119573
 ---
-
 Don't know much about history
 Don't know much biology
 Don't know much about science books
@@ -81,6 +85,3 @@ What a wonderful world this would be
 But I do know that I love you
 And I know that if you loved me too
 What a wonderful world this would be
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: The Bliss Album...?
 artists:
 - P.M. Dawn
+external_ids:
+  spotify: spotify:track:6FBlxkA9VKafooUNAi4W3p
 features: []
-genres: []
+first_released_as_single: false
 key: i-d-die-without-you-p-m--dawn
 lyrics_url: https://genius.com/Pm-dawn-id-die-without-you-lyrics
 name: I'd Die Without You
@@ -119,6 +122,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1993-03-20'
+release_year: 1992
+runtime: 250693
 ---
 Is it my turn, to wish you were lying here?
 I tend to dream you when I'm not sleeping

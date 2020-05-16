@@ -1,8 +1,11 @@
 ---
+album: Teenage Dream
 artists:
 - Katy Perry
+external_ids:
+  spotify: spotify:track:6hkOqJ5mE093AQf2lbZnsG
 features: []
-genres: []
+first_released_as_single: false
 key: the-one-that-got-away-katy-perry
 lyrics_url: https://genius.com/Katy-perry-the-one-that-got-away-lyrics
 name: The One That Got Away
@@ -103,6 +106,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2012-04-07'
+release_year: 2010
+runtime: 227333
 ---
 Summer after high school, when we first met
 We'd make out in your Mustang to Radiohead

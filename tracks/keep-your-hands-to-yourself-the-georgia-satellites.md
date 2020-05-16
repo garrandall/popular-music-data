@@ -1,8 +1,11 @@
 ---
+album: Georgia Satellites
 artists:
 - The Georgia Satellites
+external_ids:
+  spotify: spotify:track:4dD3fEzeNykFfheQXQbUoD
 features: []
-genres: []
+first_released_as_single: true
 key: keep-your-hands-to-yourself-the-georgia-satellites
 lyrics_url: https://genius.com/The-georgia-satellites-keep-your-hands-to-yourself-lyrics
 name: Keep Your Hands To Yourself
@@ -87,6 +90,8 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1987-04-04'
+release_year: 1986
+runtime: 207680
 ---
 I got a little change in my pocket going jing-a-ling-a-ling
 Wanna call you on the telephone, baby, I give you a ring

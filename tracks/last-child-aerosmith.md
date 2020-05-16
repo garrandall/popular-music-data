@@ -1,8 +1,11 @@
 ---
+album: Rocks
 artists:
 - Aerosmith
+external_ids:
+  spotify: spotify:track:5jH8ecmEyX08pQ06T0h6ly
 features: []
-genres: []
+first_released_as_single: false
 key: last-child-aerosmith
 lyrics_url: https://www.azlyrics.com/lyrics/aerosmith/lastchild.html
 name: Last Child
@@ -67,8 +70,9 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '1976-09-18'
+release_year: 1976
+runtime: 206266
 ---
-
 I'm dreaming tonight, I'm living back home
 Right!
 Yeah...yeah
@@ -113,4 +117,3 @@ Mama, take me home sweet home
 
 I was the last child
 I'm just a punk in the street
-

@@ -1,8 +1,11 @@
 ---
+album: La La Means I Love You (Expanded Version)
 artists:
 - The Delfonics
+external_ids:
+  spotify: spotify:track:04E7zZ08QMDZkeAc24ONQ6
 features: []
-genres: []
+first_released_as_single: false
 key: you-got-yours-and-i-ll-get-mine-the-delfonics
 lyrics_url: https://genius.com/The-delfonics-you-got-yours-and-ill-get-mine-lyrics
 name: You Got Yours And I'll Get Mine
@@ -47,6 +50,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1969-10-18'
+release_year: 1968
+runtime: 173320
 ---
 If by chance you feel
 That you don't need me

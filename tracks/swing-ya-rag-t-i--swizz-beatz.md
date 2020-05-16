@@ -1,9 +1,12 @@
 ---
+album: Paper Trail
 artists:
 - T.I.
+external_ids:
+  spotify: spotify:track:3DWHDJHIAmFXyjdN0I6rj1
 features:
 - Swizz Beatz
-genres: []
+first_released_as_single: false
 key: swing-ya-rag-t-i--swizz-beatz
 lyrics_url: https://www.azlyrics.com/lyrics/ti/swingyarag.html
 name: Swing Ya Rag
@@ -16,9 +19,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2008-09-20'
+release_year: 2008
+runtime: 198346
 ---
-
-
 WOOOOOO! Swizzy!
 Need y'all to take y'all rags out man! (T.I.)
 And let it swang! swang! swang! swang!
@@ -96,6 +99,3 @@ Alright (Alright) OK (OK) I don't dance (I don't dance) no way
 I just take my Louis rag out and wave it 'round in the air
 Take my Gucci rag out and wave it 'round in the air
 HEY SWANG!
-
-
-

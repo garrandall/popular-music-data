@@ -1,8 +1,11 @@
 ---
+album: The Money Recordings
 artists:
 - Bettye Swann
+external_ids:
+  spotify: spotify:track:28fUeM8vxp0zx3NnjCguuf
 features: []
-genres: []
+first_released_as_single: false
 key: fall-in-love-with-me-bettye-swann
 lyrics_url: https://www.musixmatch.com/lyrics/Bettye-Swann/Fall-in-Love-With-Me
 name: Fall In Love With Me
@@ -27,6 +30,8 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1967-10-21'
+release_year: 1967
+runtime: 176840
 ---
 (Falling in love)
 (Falling in love)

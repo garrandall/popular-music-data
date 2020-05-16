@@ -1,8 +1,11 @@
 ---
+album: Amore
 artists:
 - Hooters
+external_ids:
+  spotify: spotify:track:69xBMrVxgyv619tmyiAyZ4
 features: []
-genres: []
+first_released_as_single: false
 key: all-you-zombies-hooters
 lyrics_url: https://genius.com/The-hooters-all-you-zombies-lyrics
 name: All You Zombies
@@ -51,6 +54,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1985-07-27'
+release_year: 1983
+runtime: 199573
 ---
 Holy Moses met the Pharaoh
 Yeah, he tried to set him straight

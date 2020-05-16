@@ -1,8 +1,11 @@
 ---
+album: The Very Best Of Andy Fairweather Low - The Low Rider
 artists:
 - Andy Fairweather Low
+external_ids:
+  spotify: spotify:track:3SZpSJ2upbqsw2rdRRSjha
 features: []
-genres: []
+first_released_as_single: false
 key: spider-jiving-andy-fairweather-low
 lyrics_url: https://www.musixmatch.com/lyrics/Andy-Fairweather-Low/Spider-Jiving
 name: Spider Jiving
@@ -19,6 +22,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1975-04-26'
+release_year: 1975
+runtime: 180466
 ---
 There's a dead man's hand
 Floating in the sky

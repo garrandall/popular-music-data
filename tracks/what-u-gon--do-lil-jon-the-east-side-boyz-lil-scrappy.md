@@ -1,10 +1,13 @@
 ---
+album: Crunk Juice
 artists:
 - Lil Jon
 - The East Side Boyz
+external_ids:
+  spotify: spotify:track:1bTphHXspys3RvvRxfzzIc
 features:
 - Lil Scrappy
-genres: []
+first_released_as_single: false
 key: what-u-gon--do-lil-jon-the-east-side-boyz-lil-scrappy
 lyrics_url: https://genius.com/Lil-jon-and-the-east-side-boyz-what-u-gon-do-lyrics
 name: What U Gon' Do
@@ -85,6 +88,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2005-03-12'
+release_year: 2004
+runtime: 320186
 ---
 Yeah
 What? What?

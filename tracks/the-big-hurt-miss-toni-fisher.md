@@ -1,8 +1,11 @@
 ---
+album: The Hits of 1959, Vol. 2
 artists:
 - Miss Toni Fisher
+external_ids:
+  spotify: spotify:track:7fhuI83SdOnsVE3WSYXWXO
 features: []
-genres: []
+first_released_as_single: false
 key: the-big-hurt-miss-toni-fisher
 lyrics_url: https://www.musixmatch.com/lyrics/Miss-Toni-Fisher/The-Big-Hurt
 name: The Big Hurt
@@ -75,6 +78,8 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1960-03-07'
+release_year: 1959
+runtime: 135360
 ---
 Now it begins, now that you've gone
 Needles and pins, twilight till dawn

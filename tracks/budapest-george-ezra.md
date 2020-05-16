@@ -1,8 +1,11 @@
 ---
+album: Wanted on Voyage
 artists:
 - George Ezra
+external_ids:
+  spotify: spotify:track:4HqU80xAozomP0XtgxAu6w
 features: []
-genres: []
+first_released_as_single: true
 key: budapest-george-ezra
 lyrics_url: https://www.azlyrics.com/lyrics/georgeezra/budapest.html
 name: Budapest
@@ -99,8 +102,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2015-07-18'
+release_year: 2014
+runtime: 209306
 ---
-
 My house in Budapest
 My, my hidden treasure chest
 Golden grand piano
@@ -188,6 +192,3 @@ Oh, I'd leave it all
 Oh, for you
 Oh, you
 Oh, I'd leave it all
-
-
-

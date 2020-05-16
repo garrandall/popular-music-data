@@ -1,9 +1,12 @@
 ---
+album: Show Me Love
 artists:
 - Alicia Keys
+external_ids:
+  spotify: spotify:track:0XPlSuCVQ1nOhzTpFgnDSz
 features:
 - Miguel
-genres: []
+first_released_as_single: true
 key: show-me-love-alicia-keys-miguel
 lyrics_url: https://genius.com/Alicia-keys-show-me-love-lyrics
 name: Show Me Love
@@ -12,6 +15,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2019-11-23'
+release_year: 2019
+runtime: 194997
 ---
 Show me love
 Treat it like we freakin' on the weekend, show me love

@@ -1,8 +1,11 @@
 ---
+album: Dakota Moon
 artists:
 - Dakota Moon
+external_ids:
+  spotify: spotify:track:6dWbvrb0xygIlstvZxDhDJ
 features: []
-genres: []
+first_released_as_single: false
 key: a-promise-i-make-dakota-moon
 lyrics_url: https://genius.com/Dakota-moon-a-promise-i-make-lyrics
 name: A Promise I Make
@@ -59,6 +62,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1998-06-13'
+release_year: 1998
+runtime: 267280
 ---
 Girl, you're every breath I take
 Oh baby

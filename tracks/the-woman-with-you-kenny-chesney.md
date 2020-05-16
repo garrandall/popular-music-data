@@ -1,8 +1,11 @@
 ---
+album: When The Sun Goes Down
 artists:
 - Kenny Chesney
+external_ids:
+  spotify: spotify:track:60U0oE0sJ1qUvKy9NFEsKT
 features: []
-genres: []
+first_released_as_single: false
 key: the-woman-with-you-kenny-chesney
 lyrics_url: https://www.azlyrics.com/lyrics/kennychesney/thewomanwithyou.html
 name: The Woman With You
@@ -75,8 +78,9 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2005-02-05'
+release_year: 2004
+runtime: 270000
 ---
-
 She hit the door 6:55 sack full of groceries split down the side.
 Can goods scattered all the way to the curb.
 Look on her face saying don't say a word.
@@ -121,6 +125,3 @@ She said it sure is nice to just be the woman the woman with you.
 La, la, la, la, la, la
 
 The woman with you
-
-
-

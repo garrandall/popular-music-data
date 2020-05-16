@@ -1,8 +1,11 @@
 ---
+album: 'Evidence: The Complete Fame Records Masters'
 artists:
 - Candi Staton
+external_ids:
+  spotify: spotify:track:7Mk63UIikXRRR3MFu4DUQM
 features: []
-genres: []
+first_released_as_single: false
 key: lovin--you-lovin--me-candi-staton
 lyrics_url: https://www.azlyrics.com/lyrics/candistaton/lovinyoulovinme.html
 name: Lovin' You Lovin' Me
@@ -31,8 +34,9 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1972-12-09'
+release_year: 1972
+runtime: 181653
 ---
-
 When you smile
 The woman in me shines
 Where you touch me, Lord
@@ -79,6 +83,3 @@ My love around you
 There's no place this side of Heaven
 On God's green Earth I'd rather be
 Than sitting here, loving you loving me
-
-
-

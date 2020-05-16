@@ -1,8 +1,11 @@
 ---
+album: Fridays Child
 artists:
 - Will Young
+external_ids:
+  spotify: spotify:track:4mZsyuthp695XQWwb2g3qe
 features: []
-genres: []
+first_released_as_single: false
 key: leave-right-now-will-young
 lyrics_url: https://genius.com/Will-young-leave-right-now-lyrics
 name: Leave Right Now
@@ -11,6 +14,8 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '2010-06-12'
+release_year: 2003
+runtime: 213013
 ---
 I'm here just like I said
 Though it's breaking every rule I've ever made

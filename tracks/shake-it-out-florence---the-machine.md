@@ -1,8 +1,11 @@
 ---
+album: Ceremonials
 artists:
 - Florence + The Machine
+external_ids:
+  spotify: spotify:track:4lY95OMGb9WxP6IYut64ir
 features: []
-genres: []
+first_released_as_single: false
 key: shake-it-out-florence---the-machine
 lyrics_url: https://genius.com/Florence-the-machine-shake-it-out-lyrics
 name: Shake It Out
@@ -87,6 +90,8 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '2012-03-31'
+release_year: 2011
+runtime: 277720
 ---
 Regrets collect like old friends
 Here to relive your darkest moments

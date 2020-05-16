@@ -1,8 +1,11 @@
 ---
+album: Younger Now
 artists:
 - Miley Cyrus
+external_ids:
+  spotify: spotify:track:1NvSQe0i4ApmQCnBI8Jwzq
 features: []
-genres: []
+first_released_as_single: true
 key: malibu-miley-cyrus
 lyrics_url: https://genius.com/Miley-cyrus-malibu-lyrics
 name: Malibu
@@ -67,6 +70,8 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '2017-09-02'
+release_year: 2017
+runtime: 199480
 ---
 I never came to the beach or stood by the ocean
 I never sat by the shore under the sun with my feet in the sand

@@ -1,8 +1,11 @@
 ---
+album: Michael Morales
 artists:
 - Michael Morales
+external_ids:
+  spotify: spotify:track:4p8OxKrG9ry2kl7wIcKvrs
 features: []
-genres: []
+first_released_as_single: false
 key: who-do-you-give-your-love-to--michael-morales
 lyrics_url: https://genius.com/Michael-morales-who-do-you-give-your-love-to-lyrics
 name: Who Do You Give Your Love To?
@@ -83,6 +86,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1989-09-02'
+release_year: 1989
+runtime: 245026
 ---
 Who do you give your love to?
 Where do you drown the fire?

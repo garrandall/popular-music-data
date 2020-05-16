@@ -1,8 +1,11 @@
 ---
+album: Gettin' Together
 artists:
 - Tommy James And The Shondells
+external_ids:
+  spotify: spotify:track:7FSTlL4NiFsxb0exHnOwoW
 features: []
-genres: []
+first_released_as_single: false
 key: gettin--together-tommy-james-and-the-shondells
 lyrics_url: https://www.azlyrics.com/lyrics/tommyjamesandtheshondells/gettintogether.html
 name: Gettin' Together
@@ -39,8 +42,9 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '1967-10-14'
+release_year: 1967
+runtime: 136293
 ---
-
 Gettin' together is better than ever
 Gettin' together
 
@@ -86,6 +90,3 @@ Gettin' together is better than ever
 Gettin' together never felt like this before
 Gettin' together is better than ever
 Gettin' together
-
-
-

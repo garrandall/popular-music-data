@@ -1,8 +1,11 @@
 ---
+album: Chicago 17
 artists:
 - Chicago
+external_ids:
+  spotify: spotify:track:36lkJSDyMEZoWTqtRj8Q8q
 features: []
-genres: []
+first_released_as_single: false
 key: you-re-the-inspiration-chicago
 lyrics_url: https://genius.com/Chicago-youre-the-inspiration-lyrics
 name: You're The Inspiration
@@ -95,6 +98,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1985-04-13'
+release_year: 1984
+runtime: 229240
 ---
 You know our love was meant to be
 The kind of love that lasts forever

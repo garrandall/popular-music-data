@@ -1,8 +1,11 @@
 ---
+album: It's My Thing
 artists:
 - Marva Whitney
+external_ids:
+  spotify: spotify:track:6uXVU1prOCpVpVjMgZapwK
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-my-thing--you-can-t-tell-me-who-to-sock-it-to--marva-whitney
 lyrics_url: https://genius.com/Marva-whitney-its-my-thing-part-2-lyrics
 name: It's My Thing (You Can't Tell Me Who To Sock It To)
@@ -23,6 +26,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1969-07-05'
+release_year: 1969
+runtime: 173093
 ---
 You don't wanna leave me, man
 It ain't no big deal

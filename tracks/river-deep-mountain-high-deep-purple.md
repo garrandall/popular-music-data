@@ -1,8 +1,11 @@
 ---
+album: The Book Of Taliesyn
 artists:
 - Deep Purple
+external_ids:
+  spotify: spotify:track:475FJrQVjU80EYAqweZTS5
 features: []
-genres: []
+first_released_as_single: false
 key: river-deep-mountain-high-deep-purple
 lyrics_url: https://www.azlyrics.com/lyrics/deeppurple/riverdeepmountainhigh.html
 name: River Deep-Mountain High
@@ -27,8 +30,9 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '1969-02-22'
+release_year: 1968
+runtime: 612800
 ---
-
 When you were a young girl
 Did you have a rag doll
 The only doll you've ever owned
@@ -68,6 +72,3 @@ Do I love you, my oh my
 River Deep, Mountain High, yeah, yeah, yeah
 Do I love you, would I cry
 Oh I love you baby, how I love you baby
-
-
-

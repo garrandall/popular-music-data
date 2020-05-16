@@ -1,8 +1,11 @@
 ---
+album: Lost Hits Of The 90's
 artists:
 - Nia Peeples
+external_ids:
+  spotify: spotify:track:3pFC5u4BYOV8iJHnr36RpO
 features: []
-genres: []
+first_released_as_single: false
 key: street-of-dreams-nia-peeples
 lyrics_url: https://genius.com/Nia-peeples-street-of-dreams-lyrics
 name: Street Of Dreams
@@ -87,6 +90,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1992-02-22'
+release_year: 1991
+runtime: 263533
 ---
 Mama always used to say
 Good things come to those who wait

@@ -1,8 +1,11 @@
 ---
+album: Curtis Stigers
 artists:
 - Curtis Stigers
+external_ids:
+  spotify: spotify:track:4uyiiwV6b9XNEpxOkAqrad
 features: []
-genres: []
+first_released_as_single: false
 key: you-re-all-that-matters-to-me-curtis-stigers
 lyrics_url: https://genius.com/Curtis-stigers-youre-all-that-matters-to-me-lyrics
 name: You're All That Matters To Me
@@ -11,6 +14,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1992-03-07'
+release_year: 1991
+runtime: 280533
 ---
 I make mistakes like any man
 But I try to love you best I can

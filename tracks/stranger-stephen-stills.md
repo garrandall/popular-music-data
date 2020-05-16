@@ -1,8 +1,11 @@
 ---
+album: Right By You
 artists:
 - Stephen Stills
+external_ids:
+  spotify: spotify:track:5QTCFAfdrJgaabRzWwNEHa
 features: []
-genres: []
+first_released_as_single: false
 key: stranger-stephen-stills
 lyrics_url: https://www.azlyrics.com/lyrics/stephenstills/stranger.html
 name: Stranger
@@ -39,8 +42,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1984-09-29'
+release_year: 1984
+runtime: 178333
 ---
-
 When I look
 And my eyes finally meet a lady
 Who has something unique
@@ -84,6 +88,3 @@ Might as well just be pretendin'
 Hurryin'
 When you know every new
 Friend is a stranger
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Cage The Elephant
 artists:
 - Cage The Elephant
+external_ids:
+  spotify: spotify:track:3Pzh926pXggbMe2ZpXyMV7
 features: []
-genres: []
+first_released_as_single: false
 key: ain-t-no-rest-for-the-wicked-cage-the-elephant
 lyrics_url: https://genius.com/Cage-the-elephant-aint-no-rest-for-the-wicked-lyrics
 name: Ain't No Rest For The Wicked
@@ -51,6 +54,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2009-11-21'
+release_year: 2009
+runtime: 175493
 ---
 I was walking down the street when out the corner of my eye
 I saw a pretty little thing approaching me

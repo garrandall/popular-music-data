@@ -1,8 +1,11 @@
 ---
+album: All About Tonight
 artists:
 - Blake Shelton
+external_ids:
+  spotify: spotify:track:5cQIrML7iJEUsOCNsHqWlB
 features: []
-genres: []
+first_released_as_single: true
 key: all-about-tonight-blake-shelton
 lyrics_url: https://www.azlyrics.com/lyrics/blakeshelton/allabouttonight.html
 name: All About Tonight
@@ -83,8 +86,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2010-11-06'
+release_year: 2010
+runtime: 205613
 ---
-
 Don't bother telling me what I got coming in the morning
 I already know
 I got some feelgood pills and a red gatorade by my bed
@@ -135,6 +139,3 @@ We're gonna get our swerve on a buzz on
 It's all about tonight
 Come on baby I wouldn't worry about that
 It's all about tonight
-
-
-

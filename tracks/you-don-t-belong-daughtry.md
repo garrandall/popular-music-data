@@ -1,8 +1,11 @@
 ---
+album: Leave This Town
 artists:
 - Daughtry
+external_ids:
+  spotify: spotify:track:1yWOt2g4f5FfRC1YBbzxBO
 features: []
-genres: []
+first_released_as_single: false
 key: you-don-t-belong-daughtry
 lyrics_url: https://genius.com/Daughtry-you-dont-belong-lyrics
 name: You Don't Belong
@@ -11,6 +14,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2009-08-01'
+release_year: 2009
+runtime: 239973
 ---
 With time to kill and an empty tomb
 I always find a way to pass the time with you

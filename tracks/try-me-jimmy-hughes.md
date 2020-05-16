@@ -1,8 +1,11 @@
 ---
+album: 'From The Halls Of Fame: The Jimmy Hughes Masters Volume 1'
 artists:
 - Jimmy Hughes
+external_ids:
+  spotify: spotify:track:0rkG4IEfLd6VAhIgUVDr45
 features: []
-genres: []
+first_released_as_single: false
 key: try-me-jimmy-hughes
 name: Try Me
 rankings:
@@ -22,5 +25,7 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '1964-10-17'
+release_year: 1964
+runtime: 156666
 ---
 

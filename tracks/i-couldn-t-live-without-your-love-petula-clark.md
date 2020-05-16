@@ -1,8 +1,11 @@
 ---
+album: The Ultimate Petula Clark
 artists:
 - Petula Clark
+external_ids:
+  spotify: spotify:track:2TCRNjBqDPO9mspNBORAo7
 features: []
-genres: []
+first_released_as_single: true
 key: i-couldn-t-live-without-your-love-petula-clark
 lyrics_url: https://genius.com/Petula-clark-i-couldnt-live-without-your-love-lyrics
 name: I Couldn't Live Without Your Love
@@ -43,6 +46,8 @@ rankings:
   rank: 33
   ranking_list: Billboard Hot 100
   start_date: '1966-09-10'
+release_year: 1966
+runtime: 175272
 ---
 You're the only one that I rely on
 A shoulder there for me to cry on

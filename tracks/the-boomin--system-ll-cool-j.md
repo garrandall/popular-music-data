@@ -1,8 +1,11 @@
 ---
+album: Mama Said Knock You Out
 artists:
 - LL Cool J
+external_ids:
+  spotify: spotify:track:3cyj9xaVinLyyzqT27o5bL
 features: []
-genres: []
+first_released_as_single: false
 key: the-boomin--system-ll-cool-j
 lyrics_url: https://www.azlyrics.com/lyrics/llcoolj/theboominsystem.html
 name: The Boomin' System
@@ -51,9 +54,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1990-12-08'
+release_year: 1990
+runtime: 223640
 ---
-
-
 Just kick a little something for them cars that be bumpin
 
 Yeah aight
@@ -136,6 +139,3 @@ Just remember
 It's Cool
 
 Peace
-
-
-

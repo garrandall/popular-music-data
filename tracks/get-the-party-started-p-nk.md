@@ -1,8 +1,11 @@
 ---
+album: M!ssundaztood
 artists:
 - P!nk
+external_ids:
+  spotify: spotify:track:02jcEwywffn3Tsb48fXmlW
 features: []
-genres: []
+first_released_as_single: false
 key: get-the-party-started-p-nk
 lyrics_url: https://genius.com/P-nk-get-the-party-started-lyrics
 name: Get The Party Started
@@ -103,6 +106,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2002-04-06'
+release_year: 2001
+runtime: 192533
 ---
 I'm comin' up, so you better get this party started
 I'm comin' up, so you better get this party started

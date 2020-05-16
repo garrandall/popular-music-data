@@ -1,8 +1,11 @@
 ---
+album: Buddah's 360 Dial- A-Hit
 artists:
 - The Smoke Ring
+external_ids:
+  spotify: spotify:track:2jSqZlREVLLJQfzOCnR8eL
 features: []
-genres: []
+first_released_as_single: false
 key: no-not-much-the-smoke-ring
 name: No Not Much
 rankings:
@@ -22,5 +25,7 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1969-03-08'
+release_year: 1969
+runtime: 193400
 ---
 

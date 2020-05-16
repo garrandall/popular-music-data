@@ -1,8 +1,11 @@
 ---
+album: We Weren't Crazy
 artists:
 - Josh Gracin
+external_ids:
+  spotify: spotify:track:1P0QYbg9KhGtv2OvvYgAWq
 features: []
-genres: []
+first_released_as_single: false
 key: we-weren-t-crazy-josh-gracin
 lyrics_url: https://www.azlyrics.com/lyrics/joshgracin/wewerentcrazy.html
 name: We Weren't Crazy
@@ -47,8 +50,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2008-08-09'
+release_year: 2008
+runtime: 227306
 ---
-
 We headed out to California
 Everybody tried to warn us
 Said we wouldn't make it any further
@@ -96,6 +100,3 @@ Oh maybe we were a lot of things
 But we werent crazy
 We weren't crazy
 We weren't crazy
-
-
-

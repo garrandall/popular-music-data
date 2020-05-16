@@ -1,8 +1,11 @@
 ---
+album: Dance Number 1's
 artists:
 - Cathy Dennis
+external_ids:
+  spotify: spotify:track:49DSS9jYkckeWGdPvusuvH
 features: []
-genres: []
+first_released_as_single: false
 key: touch-me--all-night-long--cathy-dennis
 lyrics_url: https://www.musixmatch.com/lyrics/Cathy-Dennis/All-Night-Long-Touch-Me
 name: Touch Me (All Night Long)
@@ -87,6 +90,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1991-07-13'
+release_year: 1991
+runtime: 464520
 ---
 Copyright 1990 EMI Songs/Chrysalis Music
 

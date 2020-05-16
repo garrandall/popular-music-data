@@ -1,8 +1,11 @@
 ---
+album: Rocks
 artists:
 - Aerosmith
+external_ids:
+  spotify: spotify:track:0ZGLuduCPjgWY1n85ykgMe
 features: []
-genres: []
+first_released_as_single: false
 key: back-in-the-saddle-aerosmith
 lyrics_url: https://www.azlyrics.com/lyrics/aerosmith/backinthesaddle.html
 name: Back In The Saddle
@@ -39,8 +42,9 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '1977-05-28'
+release_year: 1976
+runtime: 280360
 ---
-
 I'm back 
 I'm back in the saddle again 
 I'm back 
@@ -90,6 +94,3 @@ I'm back
 Ridin' high 
 Ridin' high 
 Ridin' high already
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Show Me
 artists:
 - The Cover Girls
+external_ids:
+  spotify: spotify:track:6UHBjt96oD39bSyIxVkMAa
 features: []
-genres: []
+first_released_as_single: false
 key: spring-love-the-cover-girls
 lyrics_url: https://genius.com/The-cover-girls-spring-love-lyrics
 name: Spring Love
@@ -11,6 +14,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1987-08-01'
+release_year: 1987
+runtime: 249706
 ---
 In the winter
 My heart grows lonely

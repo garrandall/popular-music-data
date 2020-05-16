@@ -1,8 +1,11 @@
 ---
+album: MUDBOY
 artists:
 - Sheck Wes
+external_ids:
+  spotify: spotify:track:6EUFEJMj4JXsAn0FV9ci5m
 features: []
-genres: []
+first_released_as_single: false
 key: mo-bamba-sheck-wes
 lyrics_url: https://www.azlyrics.com/lyrics/sheckwes/mobamba.html
 name: Mo Bamba
@@ -119,8 +122,9 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '2019-03-16'
+release_year: 2018
+runtime: 180946
 ---
-
 16yrold
 Bitch
 Daytrip took it to 10
@@ -168,6 +172,3 @@ Ali, the Daytrip nigga, fuck is niggas talking about?
 (I got hoes, shit
 Young Sheck Wes, I do it on the go)
 Uh, woah, uh
-
-
-

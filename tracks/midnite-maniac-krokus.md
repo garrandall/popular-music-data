@@ -1,8 +1,11 @@
 ---
+album: The Blitz
 artists:
 - Krokus
+external_ids:
+  spotify: spotify:track:7BsLpcQJSprcNf61lyBZrT
 features: []
-genres: []
+first_released_as_single: false
 key: midnite-maniac-krokus
 lyrics_url: https://www.azlyrics.com/lyrics/krokus/midnitemaniac.html
 name: Midnite Maniac
@@ -31,8 +34,9 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1984-10-20'
+release_year: 1984
+runtime: 241826
 ---
-
 Did you read it in the paper
 'Bout the danger comin' your way
 She'll tear you up at midnight
@@ -82,6 +86,3 @@ Cause she can't be far
 Midnite maniac, she's a killer at large
 Midnite maniac, lock your door
 She knows where you are
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Ennea
 artists:
 - Chase
+external_ids:
+  spotify: spotify:track:4DuMxGNwZcN9FbvsPOk0J7
 features: []
-genres: []
+first_released_as_single: false
 key: so-many-people-chase
 lyrics_url: https://www.musixmatch.com/lyrics/Chase-2/So-Many-People
 name: So Many People
@@ -27,6 +30,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1972-01-15'
+release_year: 1971
+runtime: 163720
 ---
 Today the streets were filled with strangers
 Callin' names and choosin' sides

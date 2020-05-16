@@ -1,8 +1,11 @@
 ---
+album: Dua Lipa
 artists:
 - Dua Lipa
+external_ids:
+  spotify: spotify:track:2ekn2ttSfGqwhhate0LSR0
 features: []
-genres: []
+first_released_as_single: false
 key: new-rules-dua-lipa
 lyrics_url: https://www.azlyrics.com/lyrics/dualipa/newrules.html
 name: New Rules
@@ -199,8 +202,9 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '2018-07-07'
+release_year: 2017
+runtime: 209320
 ---
-
 One, one, one...
 
 Talkin' in my sleep at night
@@ -283,6 +287,3 @@ Don't, don't, don't, don't
 Don't be his friend, don't be his friend
 Don't, don't, don't, don't
 You gettin' over him
-
-
-

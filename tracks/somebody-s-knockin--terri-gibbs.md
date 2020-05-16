@@ -1,8 +1,11 @@
 ---
+album: Best of Terri Gibbs
 artists:
 - Terri Gibbs
+external_ids:
+  spotify: spotify:track:4XZzz3KpYL7TSzRmSaIuiE
 features: []
-genres: []
+first_released_as_single: false
 key: somebody-s-knockin--terri-gibbs
 lyrics_url: https://genius.com/Terri-gibbs-somebodys-knockin-lyrics
 name: Somebody's Knockin'
@@ -95,6 +98,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1981-06-13'
+release_year: 1981
+runtime: 181666
 ---
 Somebody's knockin'
 Should I let him in

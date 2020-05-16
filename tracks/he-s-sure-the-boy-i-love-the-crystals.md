@@ -1,8 +1,11 @@
 ---
+album: The Crystals
 artists:
 - The Crystals
+external_ids:
+  spotify: spotify:track:6t51ARLI8wW5GCipGzC8cb
 features: []
-genres: []
+first_released_as_single: false
 key: he-s-sure-the-boy-i-love-the-crystals
 lyrics_url: https://genius.com/The-crystals-hes-sure-the-boy-i-love-lyrics
 name: He's Sure The Boy I Love
@@ -55,6 +58,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1963-03-16'
+release_year: 1962
+runtime: 163000
 ---
 Spoken:
 I always dreamed the boy I loved would come along

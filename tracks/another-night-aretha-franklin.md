@@ -1,8 +1,11 @@
 ---
+album: Who's Zoomin' Who?
 artists:
 - Aretha Franklin
+external_ids:
+  spotify: spotify:track:04lSEdjc0a6mszj94ZavmD
 features: []
-genres: []
+first_released_as_single: false
 key: another-night-aretha-franklin
 lyrics_url: https://www.azlyrics.com/lyrics/arethafranklin/anothernight.html
 name: Another Night
@@ -63,8 +66,9 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '1986-04-19'
+release_year: 1985
+runtime: 269893
 ---
-
 All my friends have to ask if I'm shattered.
 I say the past is the past and it no longer matters.
 I made my mind up
@@ -115,6 +119,3 @@ Another night - without you.
 Another night - I know I can get through.
 Another night - it ain't much
 I don't need you to be bringing me down
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Don't Let Go
 artists:
 - Isaac Hayes
+external_ids:
+  spotify: spotify:track:0bFGteEuBXbVd0fbV2XpD3
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-let-go-isaac-hayes
 lyrics_url: https://genius.com/Isaac-hayes-dont-let-go-lyrics
 name: Don't Let Go
@@ -91,6 +94,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1980-03-15'
+release_year: 1979
+runtime: 435160
 ---
 Hear that whistle its 10 o'clock
 (Don't let go)

@@ -1,9 +1,12 @@
 ---
+album: From Nashville To Memphis - The Essential 60s Masters I
 artists:
 - Elvis Presley
 - The Jordanaires
+external_ids:
+  spotify: spotify:track:1GOZfb8VxBgx5xUyvUqhMq
 features: []
-genres: []
+first_released_as_single: false
 key: surrender-elvis-presley-with-the-jordanaires
 lyrics_url: https://www.musixmatch.com/lyrics/Elvis-Presley-and-The-Jordanaires/Surrender
 name: Surrender
@@ -56,6 +59,8 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '1961-05-08'
+release_year: 1961
+runtime: 112106
 ---
 When we kiss my heart's on fire
 Burning with a strange desire

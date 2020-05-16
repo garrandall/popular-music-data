@@ -1,9 +1,12 @@
 ---
+album: Caracal
 artists:
 - Disclosure
+external_ids:
+  spotify: spotify:track:78EQ5LZGgviMU9k0zrqv1r
 features:
 - Sam Smith
-genres: []
+first_released_as_single: true
 key: omen-disclosure-sam-smith
 lyrics_url: https://www.azlyrics.com/lyrics/disclosure/omen.html
 name: Omen
@@ -32,8 +35,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2015-09-26'
+release_year: 2015
+runtime: 196817
 ---
-
 I'm feeling something, something different
 When you left, my picture changed
 I was blinded, I'd not envisioned
@@ -85,6 +89,3 @@ But now I see your tears as an omen
 Omen
 Now I see your tears as an omen
 Omen
-
-
-

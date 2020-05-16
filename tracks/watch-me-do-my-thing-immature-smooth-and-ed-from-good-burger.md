@@ -1,9 +1,12 @@
 ---
+album: 'Greatest Hits: Immature'
 artists:
 - Immature
+external_ids:
+  spotify: spotify:track:7L5gWkxgP0IgbAdGeqYpMO
 features:
 - Smooth And Ed From Good Burger
-genres: []
+first_released_as_single: false
 key: watch-me-do-my-thing-immature-smooth-and-ed-from-good-burger
 lyrics_url: https://genius.com/Immature-watch-me-do-my-thing-lyrics
 name: Watch Me Do My Thing
@@ -64,6 +67,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1997-05-03'
+release_year: 1997
+runtime: 231533
 ---
 Fly like an eagle through the sky
 Makin more money than you can and I don't try

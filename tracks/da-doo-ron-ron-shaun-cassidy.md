@@ -1,8 +1,11 @@
 ---
+album: Shaun Cassidy
 artists:
 - Shaun Cassidy
+external_ids:
+  spotify: spotify:track:0BTjoeNHz0mSjXCZO4hzad
 features: []
-genres: []
+first_released_as_single: false
 key: da-doo-ron-ron-shaun-cassidy
 lyrics_url: https://genius.com/Shaun-cassidy-da-doo-ron-ron-lyrics
 name: Da Doo Ron Ron
@@ -95,6 +98,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1977-10-08'
+release_year: 1977
+runtime: 170000
 ---
 I met her on a Monday and my heart stood still
 Da doo ron ron ron, da doo ron ron

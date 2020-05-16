@@ -1,8 +1,11 @@
 ---
+album: YOU
 artists:
 - Ali Gatie
+external_ids:
+  spotify: spotify:track:3FSJBFKoBD4xHuj9F1UUPM
 features: []
-genres: []
+first_released_as_single: true
 key: it-s-you-ali-gatie
 lyrics_url: https://genius.com/Ali-gatie-its-you-lyrics
 name: It's You
@@ -67,6 +70,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2019-10-05'
+release_year: 2019
+runtime: 220126
 ---
 It's you, it's always you
 If I'm ever gonna fall in love, I know it's gon' be you

@@ -1,8 +1,11 @@
 ---
+album: Ace's Golden Age of American Hits Vol 1
 artists:
 - The Blenders
+external_ids:
+  spotify: spotify:track:7lKJR80q1kJJXZupkR4ahk
 features: []
-genres: []
+first_released_as_single: false
 key: daughter-the-blenders
 lyrics_url: https://www.musixmatch.com/lyrics/The-Blenders/Daughter
 name: Daughter
@@ -39,6 +42,8 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '1963-08-31'
+release_year: 1963
+runtime: 130400
 ---
 And so it is just like you said it would be
 Life goes easy on me

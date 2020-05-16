@@ -1,8 +1,11 @@
 ---
+album: Terry Dexter (U.S. Version)
 artists:
 - Terry Dexter
+external_ids:
+  spotify: spotify:track:6FyrZ3C2n3IDleVQTThFoo
 features: []
-genres: []
+first_released_as_single: false
 key: better-than-me-terry-dexter
 lyrics_url: https://genius.com/Terry-dexter-better-than-me-lyrics
 name: Better Than Me
@@ -11,6 +14,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1999-08-21'
+release_year: 1999
+runtime: 242346
 ---
 Boy, I got my eyes on you
 Guess you can say that I've been watching you

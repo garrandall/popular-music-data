@@ -1,8 +1,11 @@
 ---
+album: Even Now
 artists:
 - Barry Manilow
+external_ids:
+  spotify: spotify:track:5atGcJJtcI0UA9l518SKYo
 features: []
-genres: []
+first_released_as_single: false
 key: even-now-barry-manilow
 lyrics_url: https://genius.com/Barry-manilow-even-now-lyrics
 name: Even Now
@@ -59,6 +62,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1978-07-29'
+release_year: 1974
+runtime: 209258
 ---
 Even now, when there's someone else who cares
 When there's someone home who's waiting just for me

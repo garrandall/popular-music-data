@@ -1,8 +1,11 @@
 ---
+album: Red Rubber Ball (A Collection)
 artists:
 - The Cyrkle
+external_ids:
+  spotify: spotify:track:0h16mEAACVZkQoeOwbxtZP
 features: []
-genres: []
+first_released_as_single: false
 key: penny-arcade-the-cyrkle
 lyrics_url: https://www.azlyrics.com/lyrics/cyrkle/pennyarcade.html
 name: Penny Arcade
@@ -11,8 +14,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1967-09-02'
+release_year: 1967
+runtime: 159640
 ---
-
 Come on, girl, follow me
 To the penny arcade
 Holding hands, walking free
@@ -70,6 +74,3 @@ To the penny arcade
 Holding hands, walking free
 Through the penny arcade
 The penny arcade, penny arcade
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Autograph
 artists:
 - John Denver
+external_ids:
+  spotify: spotify:track:7qJtJu59zWH3Z5G1zPbFPe
 features: []
-genres: []
+first_released_as_single: false
 key: dancing-with-the-mountains-john-denver
 lyrics_url: https://www.azlyrics.com/lyrics/johndenver/dancingwiththemountains.html
 name: Dancing With The Mountains
@@ -19,8 +22,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1980-07-05'
+release_year: 1980
+runtime: 233826
 ---
-
 Everybody's got the dancing fever, everybody loves to rock and roll.
 Play it louder baby, play is faster, funky music's gotta stretch your soul.
 Just relax and let the rhythm take you, don't you be afraid to lose control.
@@ -39,6 +43,3 @@ We are one when dancing with the mountains.
 We are one when singing in the wind.
 We are one when thinking of each other
 More than partner's, more than pieces, more than friends.
-
-
-

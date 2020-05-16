@@ -1,8 +1,11 @@
 ---
+album: Karma
 artists:
 - Queen Naija
+external_ids:
+  spotify: spotify:track:3qmm9AdG0TnShv0drgXNIQ
 features: []
-genres: []
+first_released_as_single: true
 key: karma-queen-naija
 lyrics_url: https://www.azlyrics.com/lyrics/queennaija/karma.html
 name: Karma
@@ -15,8 +18,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2018-08-11'
+release_year: 2018
+runtime: 176075
 ---
-
 I held you down for the longest
 And I was there through all of your darkest moments
 Feels just like yesterday when we were homeless
@@ -67,6 +71,3 @@ Just remember what goes around comes around
 
 What goes around, it comes around
 What goes around, it comes around, yeah
-
-
-

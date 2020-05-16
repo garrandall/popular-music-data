@@ -1,8 +1,11 @@
 ---
+album: Thump
 artists:
 - Michael Morales
+external_ids:
+  spotify: spotify:track:0liuMjkrEf7PkSWeOREgaj
 features: []
-genres: []
+first_released_as_single: false
 key: i-don-t-wanna-see-you-michael-morales
 lyrics_url: https://genius.com/Michael-morales-i-dont-wanna-see-you-lyrics
 name: I Don't Wanna See You
@@ -23,6 +26,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1991-08-17'
+release_year: 1991
+runtime: 247800
 ---
 I don't want to see you
 

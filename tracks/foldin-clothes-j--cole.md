@@ -1,8 +1,11 @@
 ---
+album: 4 Your Eyez Only
 artists:
 - J. Cole
+external_ids:
+  spotify: spotify:track:6aZxUegsYXhz4bqpEvVPMr
 features: []
-genres: []
+first_released_as_single: false
 key: foldin-clothes-j--cole
 lyrics_url: https://genius.com/J-cole-foldin-clothes-lyrics
 name: Foldin Clothes
@@ -15,6 +18,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2017-01-07'
+release_year: 2016
+runtime: 316920
 ---
 Hey, hey
 Hey, hey

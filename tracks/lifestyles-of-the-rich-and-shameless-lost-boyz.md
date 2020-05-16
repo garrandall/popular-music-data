@@ -1,8 +1,11 @@
 ---
+album: Legal Drug Money
 artists:
 - Lost Boyz
+external_ids:
+  spotify: spotify:track:6qatELslus1BTsjWGJqlLL
 features: []
-genres: []
+first_released_as_single: false
 key: lifestyles-of-the-rich-and-shameless-lost-boyz
 name: Lifestyles Of The Rich And Shameless
 rankings:
@@ -30,4 +33,7 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1995-06-17'
+release_year: 1995
+runtime: 260760
 ---
+

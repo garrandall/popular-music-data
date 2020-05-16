@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music, The Complete Season Two'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:2b93fpnWgsXmmnCBKZ86nu
 features: []
-genres: []
+first_released_as_single: false
 key: start-me-up-glee-cast
 lyrics_url: https://genius.com/Glee-cast-start-me-up-livin-on-a-prayer-lyrics
 name: Start Me Up
@@ -11,6 +14,8 @@ rankings:
   rank: 31
   ranking_list: Billboard Hot 100
   start_date: '2010-11-27'
+release_year: 2010
+runtime: 170706
 ---
 Start me up
 

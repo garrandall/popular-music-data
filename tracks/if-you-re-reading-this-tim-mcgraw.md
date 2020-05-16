@@ -1,8 +1,11 @@
 ---
+album: Let It Go
 artists:
 - Tim McGraw
+external_ids:
+  spotify: spotify:track:3opmoDn4nG2eZWPjI8B7Bg
 features: []
-genres: []
+first_released_as_single: false
 key: if-you-re-reading-this-tim-mcgraw
 lyrics_url: https://genius.com/Tim-mcgraw-if-youre-reading-this-lyrics
 name: If You're Reading This
@@ -79,6 +82,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2007-12-22'
+release_year: 2007
+runtime: 252720
 ---
 If you're reading this, my Momma's sitting there
 Looks like I only got a one-way ticket over here

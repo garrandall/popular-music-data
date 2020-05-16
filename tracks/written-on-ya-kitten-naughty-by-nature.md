@@ -1,8 +1,11 @@
 ---
+album: 19 Naughty III
 artists:
 - Naughty By Nature
+external_ids:
+  spotify: spotify:track:2hIUos5xCkkOWTLnKEFVGq
 features: []
-genres: []
+first_released_as_single: true
 key: written-on-ya-kitten-naughty-by-nature
 lyrics_url: https://genius.com/Naughty-by-nature-written-on-ya-kitten-lyrics
 name: Written On Ya Kitten
@@ -19,6 +22,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1993-10-30'
+release_year: 1993
+runtime: 260957
 ---
 Oh, where's my kitty cat? (Repeat 4X)
 

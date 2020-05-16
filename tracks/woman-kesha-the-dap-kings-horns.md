@@ -1,9 +1,12 @@
 ---
+album: Rainbow
 artists:
 - Kesha
+external_ids:
+  spotify: spotify:track:1kJtfldK9F7XmsSiSNlbth
 features:
 - The Dap-Kings Horns
-genres: []
+first_released_as_single: false
 key: woman-kesha-the-dap-kings-horns
 lyrics_url: https://genius.com/Kesha-woman-lyrics
 name: Woman
@@ -12,6 +15,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2017-08-05'
+release_year: 2017
+runtime: 196360
 ---
 Let's be serious, come on
 This is a real, this is, excuse me?

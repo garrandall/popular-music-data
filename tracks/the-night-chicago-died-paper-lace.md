@@ -1,8 +1,11 @@
 ---
+album: 'The Sensational Seventies: 14 Fantastic Memories'
 artists:
 - Paper Lace
+external_ids:
+  spotify: spotify:track:4Lp6UJXIG6y6JAHkekXLKS
 features: []
-genres: []
+first_released_as_single: false
 key: the-night-chicago-died-paper-lace
 lyrics_url: https://www.azlyrics.com/lyrics/paperlace/thenightchicagodied.html
 name: The Night Chicago Died
@@ -75,8 +78,9 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1974-10-05'
+release_year: 1974
+runtime: 192146
 ---
-
 Daddy was a cop on the east side of Chicago
 Back in the USA, back in the bad old days
 
@@ -147,6 +151,3 @@ The night Chicago died
 Na-na na, na-na-na, na-na-na-na-na
 The night Chicago died
 Brother, what a night the people saw
-
-
-

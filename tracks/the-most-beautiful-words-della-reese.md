@@ -1,8 +1,11 @@
 ---
+album: Whatever Lola Wants
 artists:
 - Della Reese
+external_ids:
+  spotify: spotify:track:6iTps24cT4G4yiKnQ9Z5pn
 features: []
-genres: []
+first_released_as_single: false
 key: the-most-beautiful-words-della-reese
 lyrics_url: https://www.musixmatch.com/lyrics/Della-Reese/The-Most-Beautiful-Words
 name: The Most Beautiful Words
@@ -27,6 +30,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1961-03-06'
+release_year: 1961
+runtime: 162632
 ---
 The most beautiful words in the world
 Are the words when you whisper,

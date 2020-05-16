@@ -1,8 +1,11 @@
 ---
+album: Soul Party Weekend
 artists:
 - The S.O.S. Band
+external_ids:
+  spotify: spotify:track:3123GAlLFzs4aObFsFIXHZ
 features: []
-genres: []
+first_released_as_single: false
 key: tell-me-if-you-still-care-the-s-o-s--band
 lyrics_url: https://genius.com/The-sos-band-tell-me-if-you-still-care-lyrics
 name: Tell Me If You Still Care
@@ -51,6 +54,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1984-01-28'
+release_year: 1983
+runtime: 416733
 ---
 Tell me if you still care
 Tell me if you still care

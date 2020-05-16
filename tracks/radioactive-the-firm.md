@@ -1,8 +1,11 @@
 ---
+album: The Firm
 artists:
 - The Firm
+external_ids:
+  spotify: spotify:track:0RslgVCtc9FCHd6z83YPkB
 features: []
-genres: []
+first_released_as_single: false
 key: radioactive-the-firm
 lyrics_url: https://www.azlyrics.com/lyrics/firmrock/radioactive.html
 name: Radioactive
@@ -67,8 +70,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1985-05-18'
+release_year: 1985
+runtime: 169200
 ---
-
 Well, I'm not uptight
 Not unattractive
 Turn me on tonight
@@ -110,6 +114,3 @@ You might catch it, oh
 Don't you stand too close, baby
 Radioactive
 Radio, radio, radioactive, uh huh
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Haywire
 artists:
 - Josh Turner
+external_ids:
+  spotify: spotify:track:3ga3cmO4mb9dMhysyJUEaH
 features: []
-genres: []
+first_released_as_single: false
 key: i-wouldn-t-be-a-man-josh-turner
 lyrics_url: https://genius.com/Josh-turner-i-wouldnt-be-a-man-lyrics
 name: I Wouldn't Be A Man
@@ -11,6 +14,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2011-07-23'
+release_year: 2010
+runtime: 212693
 ---
 There's a slow moon rising
 It's shining on your skin

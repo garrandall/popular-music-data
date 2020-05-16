@@ -1,8 +1,11 @@
 ---
+album: Gather Me
 artists:
 - Melanie
+external_ids:
+  spotify: spotify:track:7zzme6UyNlgkBY4D8TZMHN
 features: []
-genres: []
+first_released_as_single: false
 key: ring-the-living-bell-melanie
 lyrics_url: https://www.azlyrics.com/lyrics/melanie/ringthelivingbell.html
 name: Ring The Living Bell
@@ -43,8 +46,9 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '1972-03-25'
+release_year: 1971
+runtime: 304493
 ---
-
 Ring the living bell
 Ring the living bell
 Shine the living light
@@ -99,6 +103,3 @@ Ring the living bell
 
 Ring the living bell, ring the living bell
 Shine the living light
-
-
-

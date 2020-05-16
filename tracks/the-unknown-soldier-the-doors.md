@@ -1,8 +1,11 @@
 ---
+album: Waiting for the Sun
 artists:
 - The Doors
+external_ids:
+  spotify: spotify:track:78JYtz4yOPqAEgZZc3SBLT
 features: []
-genres: []
+first_released_as_single: false
 key: the-unknown-soldier-the-doors
 lyrics_url: https://www.azlyrics.com/lyrics/doors/theunknownsoldier.html
 name: The Unknown Soldier
@@ -39,8 +42,9 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '1968-05-18'
+release_year: 1968
+runtime: 201106
 ---
-
 Wait until the war is over
 And we're both a little older
 The unknown soldier
@@ -87,6 +91,3 @@ Oh, whoa-yeah
 All over
 All over
 Hey
-
-
-

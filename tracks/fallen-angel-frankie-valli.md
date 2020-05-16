@@ -1,8 +1,11 @@
 ---
+album: Reunited Live
 artists:
 - Frankie Valli
+external_ids:
+  spotify: spotify:track:4TIfpOPy3d3jQdfeszAigv
 features: []
-genres: []
+first_released_as_single: false
 key: fallen-angel-frankie-valli
 lyrics_url: https://www.musixmatch.com/lyrics/Frankie-Valli/Fallen-Angel
 name: Fallen Angel
@@ -39,6 +42,8 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1976-05-22'
+release_year: 1976
+runtime: 242813
 ---
 You're home again, I'm glad you kept the key
 Been waiting here, it seemed a million years to me

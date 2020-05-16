@@ -1,8 +1,11 @@
 ---
+album: Let's Be Us Again
 artists:
 - Lonestar
+external_ids:
+  spotify: spotify:track:35YiIUIo3a5f0qk0xhHgx9
 features: []
-genres: []
+first_released_as_single: false
 key: class-reunion--that-used-to-be-us--lonestar
 lyrics_url: https://www.azlyrics.com/lyrics/lonestar/classreunionthatusedtobeus.html
 name: Class Reunion (That Used To Be Us)
@@ -19,8 +22,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2005-05-14'
+release_year: 2004
+runtime: 272184
 ---
-
 Well I rolled into town
 With the ragtop down
 I was looking for that homecoming queen
@@ -66,6 +70,3 @@ That used to be us
 Oh that used to be us
 That used to be us
 That used to be us
-
-
-

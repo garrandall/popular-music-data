@@ -1,8 +1,11 @@
 ---
+album: The Smoker You Drink, The Player You Get
 artists:
 - Joe Walsh
+external_ids:
+  spotify: spotify:track:2XHjFJVXYlEzoDvN82h8s5
 features: []
-genres: []
+first_released_as_single: false
 key: rocky-mountain-way-joe-walsh
 lyrics_url: https://genius.com/Joe-walsh-rocky-mountain-way-lyrics
 name: Rocky Mountain Way
@@ -67,6 +70,8 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '1973-11-17'
+release_year: 1973
+runtime: 315400
 ---
 Spent the last year
 Rocky mountain way

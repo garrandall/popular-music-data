@@ -1,8 +1,11 @@
 ---
+album: Culture II
 artists:
 - Migos
+external_ids:
+  spotify: spotify:track:0G9rmRmQDFk9O2tzZLyRkc
 features: []
-genres: []
+first_released_as_single: false
 key: emoji-a-chain-migos
 lyrics_url: https://www.azlyrics.com/lyrics/migos/emojiachain.html
 name: Emoji A Chain
@@ -11,9 +14,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '2018-02-10'
+release_year: 2018
+runtime: 315185
 ---
-
-
 If Young Metro don't trust you I'ma shoot you
 
 
@@ -152,6 +155,3 @@ Put on the Patek, changing the weather
 The shit turning into the rain
 Put on the Patek, changing the weather
 The shit turning into the rain
-
-
-

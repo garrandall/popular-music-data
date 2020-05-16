@@ -1,8 +1,11 @@
 ---
+album: No Jacket Required
 artists:
 - Phil Collins
+external_ids:
+  spotify: spotify:track:2s6wCS3vDZFPY9NOTlPXJZ
 features: []
-genres: []
+first_released_as_single: false
 key: take-me-home-phil-collins
 lyrics_url: https://www.azlyrics.com/lyrics/philcollins/takemehome.html
 name: Take Me Home
@@ -71,8 +74,9 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1986-06-28'
+release_year: 1985
+runtime: 353573
 ---
-
 Take that look of worry
 I'm an ordinary man
 They don't tell me nothing
@@ -131,6 +135,3 @@ And I can say to you
 
 But I don't remember
 Take, take me home...
-
-
-

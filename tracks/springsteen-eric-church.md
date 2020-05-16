@@ -1,8 +1,11 @@
 ---
+album: Chief
 artists:
 - Eric Church
+external_ids:
+  spotify: spotify:track:05ZACkzW8YbRq3eFgIfSNB
 features: []
-genres: []
+first_released_as_single: false
 key: springsteen-eric-church
 lyrics_url: https://www.azlyrics.com/lyrics/ericchurch/springsteen.html
 name: Springsteen
@@ -95,8 +98,9 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2012-08-11'
+release_year: 2011
+runtime: 263386
 ---
-
 To this day when I hear that song,
 I see you standing there on that lawn
 Discount shades, store-bought tan,
@@ -153,6 +157,3 @@ Springsteen, Springsteen
 Funny how a melody sounds like a memory
 Like a soundtrack to a July Saturday night
 Springsteen, Springsteen, oh, Springsteen
-
-
-

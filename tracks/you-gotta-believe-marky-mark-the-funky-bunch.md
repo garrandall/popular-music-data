@@ -1,9 +1,12 @@
 ---
+album: You Gotta Believe
 artists:
 - Marky Mark
 - The Funky Bunch
+external_ids:
+  spotify: spotify:track:3vy7oksJ5n5MjFuEhXKBmz
 features: []
-genres: []
+first_released_as_single: false
 key: you-gotta-believe-marky-mark-the-funky-bunch
 lyrics_url: https://www.azlyrics.com/lyrics/markymarkandthefunkybunch/yougottabelieve.html
 name: You Gotta Believe
@@ -48,8 +51,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1992-11-28'
+release_year: 1992
+runtime: 273293
 ---
-
 You gotta believe
 You gotta believe
 You gotta believe
@@ -113,6 +117,3 @@ You gotta believe
 You gotta believe
 You gotta believe
 You gotta believe
-
-
-

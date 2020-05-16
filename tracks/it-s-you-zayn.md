@@ -1,8 +1,11 @@
 ---
+album: Mind Of Mine
 artists:
 - Zayn
+external_ids:
+  spotify: spotify:track:6dtWKqqdveI3YvdYJQKWWn
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-you-zayn
 lyrics_url: https://genius.com/Zayn-its-you-lyrics
 name: It's You
@@ -11,6 +14,8 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '2016-03-19'
+release_year: 2016
+runtime: 226653
 ---
 She got, she got, she got, her own reasons for talking to me
 And she don't, she don't, she don't give a fuck about what I need

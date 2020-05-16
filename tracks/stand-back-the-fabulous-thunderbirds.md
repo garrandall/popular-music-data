@@ -1,8 +1,11 @@
 ---
+album: HOT NUMBER
 artists:
 - The Fabulous Thunderbirds
+external_ids:
+  spotify: spotify:track:31ksPwZxIJ2Q90ffsoK39V
 features: []
-genres: []
+first_released_as_single: false
 key: stand-back-the-fabulous-thunderbirds
 lyrics_url: https://genius.com/The-fabulous-thunderbirds-stand-back-lyrics
 name: Stand Back
@@ -27,6 +30,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1987-08-01'
+release_year: 1986
+runtime: 216240
 ---
 When you want something bad enough
 You got to stick to it

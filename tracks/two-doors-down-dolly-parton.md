@@ -1,8 +1,11 @@
 ---
+album: Here You Come Again
 artists:
 - Dolly Parton
+external_ids:
+  spotify: spotify:track:0EWJ1KT2q3RdbdQIUYqZsp
 features: []
-genres: []
+first_released_as_single: false
 key: two-doors-down-dolly-parton
 lyrics_url: https://www.azlyrics.com/lyrics/dollyparton/twodoorsdown.html
 name: Two Doors Down
@@ -55,8 +58,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1978-06-03'
+release_year: 1977
+runtime: 188871
 ---
-
 Two doors down
 They're laughing and drinkin', and having a party
 Two doors down
@@ -122,6 +126,3 @@ Two doors down
 They're laughing and drinkin', and having a party
 Two doors down
 We're not aware that they're around
-
-
-

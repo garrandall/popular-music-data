@@ -1,8 +1,11 @@
 ---
+album: To Know You Is To Love You
 artists:
 - B.B. King
+external_ids:
+  spotify: spotify:track:4c0Mgs559lG4sPiEC3XcxY
 features: []
-genres: []
+first_released_as_single: false
 key: to-know-you-is-to-love-you-b-b--king
 lyrics_url: https://genius.com/Bb-king-to-know-you-is-to-love-you-lyrics
 name: To Know You Is To Love You
@@ -63,6 +66,8 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '1973-11-03'
+release_year: 1973
+runtime: 515000
 ---
 To know you is to love you
 But to know me is not that way, you see

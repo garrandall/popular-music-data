@@ -1,8 +1,11 @@
 ---
+album: Rock a Little
 artists:
 - Stevie Nicks
+external_ids:
+  spotify: spotify:track:0lqNtjLgTJYScspOhJXxtx
 features: []
-genres: []
+first_released_as_single: false
 key: talk-to-me-stevie-nicks
 lyrics_url: https://www.azlyrics.com/lyrics/stevienicks/talktome.html
 name: Talk To Me
@@ -79,8 +82,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1986-03-15'
+release_year: 1985
+runtime: 250026
 ---
-
 I can see we're thinkin' bout the same things
 And I can see your expression when the phone rings
 We both know there's something happening here
@@ -131,6 +135,3 @@ Well, you've taken all there is now baby
 Isn't that enough
 Well, I can see you runnin'... I can see you runnin'
 All the way back
-
-
-

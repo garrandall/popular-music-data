@@ -1,9 +1,12 @@
 ---
+album: Eyes Open
 artists:
 - Snow Patrol
+external_ids:
+  spotify: spotify:track:4kg5hAOumbLtNSg6J8aq8e
 features:
 - Martha Wainwright
-genres: []
+first_released_as_single: false
 key: set-the-fire-to-the-third-bar-snow-patrol-martha-wainwright
 lyrics_url: https://www.azlyrics.com/lyrics/snowpatrol/setthefiretothethirdbar.html
 name: Set The Fire To The Third Bar
@@ -28,8 +31,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2010-02-27'
+release_year: 2006
+runtime: 203613
 ---
-
 I find the map and draw a straight line
 Over rivers, farms, and state lines
 The distance from 'A' to where you'd be
@@ -70,6 +74,3 @@ I'm miles from where you are,
 I lay down on the cold ground
 and I, I pray that something picks me up
 and sets me down in your warm arms
-
-
-

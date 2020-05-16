@@ -1,8 +1,11 @@
 ---
+album: Welcome To The Neighborhood
 artists:
 - Meat Loaf
+external_ids:
+  spotify: spotify:track:1FeChgMIl4gmwtPMKCj9pV
 features: []
-genres: []
+first_released_as_single: false
 key: i-d-lie-for-you--and-that-s-the-truth--meat-loaf
 lyrics_url: https://genius.com/Meat-loaf-id-lie-for-you-lyrics
 name: I'd Lie For You (And That's The Truth)
@@ -87,6 +90,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1996-03-02'
+release_year: 1995
+runtime: 400358
 ---
 I'd never tell you one lie
 I'd never let you down

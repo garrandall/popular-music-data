@@ -1,8 +1,11 @@
 ---
+album: The Fabulous Miracles
 artists:
 - The Miracles
+external_ids:
+  spotify: spotify:track:4vwFRCrHBczqDsNUHJVUQ7
 features: []
-genres: []
+first_released_as_single: false
 key: a-love-she-can-count-on-the-miracles
 lyrics_url: https://www.azlyrics.com/lyrics/smokeyrobinsonthemiracles/aloveshecancounton.html
 name: A Love She Can Count On
@@ -43,8 +46,9 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1963-05-25'
+release_year: 1963
+runtime: 172960
 ---
-
 Everyday, I'm gonna love become what may
 'Cause I know that there is nothing that means more
 To a woman than a love that she can count on
@@ -79,6 +83,3 @@ And you know that I know my darling that there is
 (Nothing that means more to a woman)
 Yeah not in the whole wide world
 (Nothing that means more to a woman)
-
-
-

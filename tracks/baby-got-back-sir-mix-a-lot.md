@@ -1,8 +1,11 @@
 ---
+album: Mack Daddy
 artists:
 - Sir Mix-A-Lot
+external_ids:
+  spotify: spotify:track:1SAkL1mYNJlaqnBQxVZrRl
 features: []
-genres: []
+first_released_as_single: false
 key: baby-got-back-sir-mix-a-lot
 lyrics_url: https://genius.com/Sir-mix-a-lot-baby-got-back-lyrics
 name: Baby Got Back
@@ -119,6 +122,8 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1992-10-17'
+release_year: 1992
+runtime: 262826
 ---
 "Oh, my, god, Becky, look at her butt. It is so big. She looks like one of those rap guys' girlfriends. Who understands those rap guys? They only talk to her, because she looks like a total prostitute, okay? I mean, her butt, it's just so big. Ugh, I can't believe it's just so round, it's like out there, I mean, ugh, gross. Look! She's just so black!"
 

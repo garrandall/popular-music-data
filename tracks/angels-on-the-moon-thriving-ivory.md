@@ -1,8 +1,11 @@
 ---
+album: Thriving Ivory
 artists:
 - Thriving Ivory
+external_ids:
+  spotify: spotify:track:0pRfOWb0VgT5o8bws4iHvf
 features: []
-genres: []
+first_released_as_single: false
 key: angels-on-the-moon-thriving-ivory
 lyrics_url: https://www.azlyrics.com/lyrics/thrivingivory/angelsonthemoon.html
 name: Angels On The Moon
@@ -43,8 +46,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2009-03-28'
+release_year: 2008
+runtime: 252800
 ---
-
 Do you dream that the world will know your name?
 So tell me your name
 Do you care about all the little things
@@ -101,6 +105,3 @@ No I don't wanna know
 
 Don't tell me if I'm dying
 Don't tell me if I'm dying
-
-
-

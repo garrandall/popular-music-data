@@ -1,8 +1,11 @@
 ---
+album: A.M.
 artists:
 - Chris Young
+external_ids:
+  spotify: spotify:track:53Dj5PCDhb22qWqmre3YQs
 features: []
-genres: []
+first_released_as_single: false
 key: aw-naw-chris-young
 lyrics_url: https://genius.com/Chris-young-aw-naw-lyrics
 name: Aw Naw
@@ -87,6 +90,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2013-12-14'
+release_year: 2013
+runtime: 188706
 ---
 Yeah, I think I’m gonna leave
 I’ll just have that one drink

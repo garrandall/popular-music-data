@@ -1,8 +1,11 @@
 ---
+album: Bad Girls
 artists:
 - Donna Summer
+external_ids:
+  spotify: spotify:track:2Vnw8zKmjhr1jczUeaqiQg
 features: []
-genres: []
+first_released_as_single: false
 key: hot-stuff-donna-summer
 lyrics_url: https://genius.com/Donna-summer-hot-stuff-lyrics
 name: Hot Stuff
@@ -91,6 +94,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1979-09-08'
+release_year: 1979
+runtime: 407053
 ---
 Sittin' here eatin' my heart out waitin'
 Waitin' for some lover to call

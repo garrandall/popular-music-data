@@ -1,8 +1,11 @@
 ---
+album: Get Serious
 artists:
 - Cut 'N' Move
+external_ids:
+  spotify: spotify:track:7mV662QhfamJeIsJAbg4Y9
 features: []
-genres: []
+first_released_as_single: false
 key: get-serious-cut--n--move
 lyrics_url: https://genius.com/Cut-n-move-get-serious-take-no-crap-lyrics
 name: Get Serious
@@ -31,6 +34,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1991-09-07'
+release_year: 1991
+runtime: 229106
 ---
 Get ready, get down
 Yet another round

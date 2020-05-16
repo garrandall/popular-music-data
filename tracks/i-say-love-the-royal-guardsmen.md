@@ -1,8 +1,11 @@
 ---
+album: Snoopy And His Friends The Royal Guardsmen
 artists:
 - The Royal Guardsmen
+external_ids:
+  spotify: spotify:track:4UcYefRknctfgciUVIAuU8
 features: []
-genres: []
+first_released_as_single: false
 key: i-say-love-the-royal-guardsmen
 name: I Say Love
 rankings:
@@ -22,5 +25,7 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1968-03-09'
+release_year: 1967
+runtime: 143360
 ---
 

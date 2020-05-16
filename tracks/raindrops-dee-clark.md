@@ -1,8 +1,11 @@
 ---
+album: Hold on, It's Dee Clark
 artists:
 - Dee Clark
+external_ids:
+  spotify: spotify:track:6CqTD9nWwf8R1yPVkIVdF5
 features: []
-genres: []
+first_released_as_single: false
 key: raindrops-dee-clark
 lyrics_url: https://genius.com/Dee-clark-raindrops-lyrics
 name: Raindrops
@@ -71,6 +74,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1961-08-14'
+release_year: 1961
+runtime: 179665
 ---
 Oh, Raindrops
 So many raindrops

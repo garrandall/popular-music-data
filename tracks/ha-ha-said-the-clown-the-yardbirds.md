@@ -1,8 +1,11 @@
 ---
+album: Little Games
 artists:
 - The Yardbirds
+external_ids:
+  spotify: spotify:track:2iIeQdi360dvjmjDWrvryp
 features: []
-genres: []
+first_released_as_single: false
 key: ha-ha-said-the-clown-the-yardbirds
 lyrics_url: https://www.azlyrics.com/lyrics/yardbirds/hahasaidtheclown.html
 name: Ha Ha Said The Clown
@@ -35,9 +38,9 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1967-09-16'
+release_year: 1967
+runtime: 148773
 ---
-
-
 Ha! Ha! Said the clown
 Has the king lost his crown,
 Is the knight being tight on romance?
@@ -74,4 +77,3 @@ What's your phone number?
 Stop fooling 'round.
 Could have died, she replied,
 "I'm the wife of the clown."
-

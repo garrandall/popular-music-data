@@ -1,8 +1,11 @@
 ---
+album: New Edition
 artists:
 - New Edition
+external_ids:
+  spotify: spotify:track:5LkcAjqj5NOctNGi2qUjlw
 features: []
-genres: []
+first_released_as_single: false
 key: cool-it-now-new-edition
 lyrics_url: https://genius.com/New-edition-cool-it-now-lyrics
 name: Cool It Now
@@ -107,6 +110,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1985-03-09'
+release_year: 1984
+runtime: 347666
 ---
 Everybody's saying silly things
 Without knowing that life brings a change

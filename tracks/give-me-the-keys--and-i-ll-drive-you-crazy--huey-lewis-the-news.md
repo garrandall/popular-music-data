@@ -1,8 +1,11 @@
 ---
+album: Small World
 artists:
 - Huey Lewis & The News
+external_ids:
+  spotify: spotify:track:2YTrirCCoBrwQkKIXMWu1n
 features: []
-genres: []
+first_released_as_single: false
 key: give-me-the-keys--and-i-ll-drive-you-crazy--huey-lewis-the-news
 lyrics_url: https://genius.com/Huey-lewis-and-the-news-give-me-the-keys-and-ill-drive-you-crazy-lyrics
 name: Give Me The Keys (And I'll Drive You Crazy)
@@ -39,6 +42,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1989-03-11'
+release_year: 1988
+runtime: 277626
 ---
 I can see you've got your motor running
 Don't you think you're movin kinda slow

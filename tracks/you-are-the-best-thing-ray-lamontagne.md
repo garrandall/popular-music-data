@@ -1,8 +1,11 @@
 ---
+album: Gossip In The Grain
 artists:
 - Ray LaMontagne
+external_ids:
+  spotify: spotify:track:1jyddn36UN4tVsJGtaJfem
 features: []
-genres: []
+first_released_as_single: false
 key: you-are-the-best-thing-ray-lamontagne
 lyrics_url: https://www.azlyrics.com/lyrics/raylamontagne/youarethebestthing.html
 name: You Are The Best Thing
@@ -11,8 +14,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2008-11-01'
+release_year: 2008
+runtime: 231840
 ---
-
 Baby
 It's been a long day,
 Baby
@@ -83,6 +87,3 @@ You are the best thing
 You are the best thing
 You are the best thing
 That ever happened to me
-
-
-

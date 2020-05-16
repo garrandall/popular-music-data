@@ -1,9 +1,12 @@
 ---
+album: Saturday Nights REMIX
 artists:
 - Khalid
 - Kane Brown
+external_ids:
+  spotify: spotify:track:0W5oXFrxZNBTIS1eMW9Ofz
 features: []
-genres: []
+first_released_as_single: true
 key: saturday-nights-khalid-kane-brown
 lyrics_url: https://genius.com/Khalid-saturday-nights-remix-lyrics
 name: Saturday Nights
@@ -56,6 +59,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2019-05-04'
+release_year: 2018
+runtime: 211102
 ---
 Saturday nights, blueberry cigarillos
 Swishers make my throat hurt

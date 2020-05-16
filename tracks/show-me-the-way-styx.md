@@ -1,8 +1,11 @@
 ---
+album: Edge Of The Century
 artists:
 - Styx
+external_ids:
+  spotify: spotify:track:2upjcGvuiTCGSaGPZZ2dtD
 features: []
-genres: []
+first_released_as_single: false
 key: show-me-the-way-styx
 lyrics_url: https://www.azlyrics.com/lyrics/styx/showmetheway.html
 name: Show Me The Way
@@ -99,8 +102,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1991-05-11'
+release_year: 1990
+runtime: 277173
 ---
-
 Every night I say a prayer in the hope that there's a heaven
 But every day I'm more confused as the saints turn into sinners
 All the heroes and legends I knew as a child have fallen to idols of clay
@@ -134,6 +138,3 @@ To believe that I'll get there someday
 And please show me the way
 
 Every night I say a prayer in the hopes that there's a heaven...
-
-
-

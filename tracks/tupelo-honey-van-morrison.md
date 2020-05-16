@@ -1,8 +1,11 @@
 ---
+album: A Night In San Francisco (Live)
 artists:
 - Van Morrison
+external_ids:
+  spotify: spotify:track:2raRVU6wI6k2M9Wbc62ITz
 features: []
-genres: []
+first_released_as_single: false
 key: tupelo-honey-van-morrison
 lyrics_url: https://genius.com/Van-morrison-tupelo-honey-lyrics
 name: Tupelo Honey
@@ -39,6 +42,8 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1972-02-19'
+release_year: 1972
+runtime: 242013
 ---
 You can take all the tea in China
 Put it in a big brown bag for me

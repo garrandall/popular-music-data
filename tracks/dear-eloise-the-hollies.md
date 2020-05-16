@@ -1,8 +1,11 @@
 ---
+album: Butterfly
 artists:
 - The Hollies
+external_ids:
+  spotify: spotify:track:4JYaWzOr9rcAj57kZyTBCk
 features: []
-genres: []
+first_released_as_single: false
 key: dear-eloise-the-hollies
 lyrics_url: https://www.azlyrics.com/lyrics/hollies/deareloise.html
 name: Dear Eloise
@@ -39,9 +42,9 @@ rankings:
   rank: 52
   ranking_list: Billboard Hot 100
   start_date: '1968-01-20'
+release_year: 1967
+runtime: 183173
 ---
-
-
 Dear Eloise, I am writing to say
 A number of funny thing I heard today.
 I heard that he's left you and run off to sea.
@@ -67,4 +70,3 @@ I want you back with me.
 
 
 So much older than you, so much older than you.
-

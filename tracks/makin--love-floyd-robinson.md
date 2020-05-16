@@ -1,8 +1,11 @@
 ---
+album: Nippers 50's-Vol.1
 artists:
 - Floyd Robinson
+external_ids:
+  spotify: spotify:track:0mUqw5Z1Yh5lWHiRSfSJYN
 features: []
-genres: []
+first_released_as_single: false
 key: makin--love-floyd-robinson
 lyrics_url: https://genius.com/Floyd-robinson-makin-love-lyrics
 name: Makin' Love
@@ -79,6 +82,8 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '1959-11-16'
+release_year: 1959
+runtime: 115733
 ---
 What would people say?
 What would people do?

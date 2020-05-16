@@ -1,9 +1,12 @@
 ---
+album: Love Vs Money
 artists:
 - The-Dream
+external_ids:
+  spotify: spotify:track:4mIwoDxYxRJ2off7985qJC
 features:
 - Kanye West
-genres: []
+first_released_as_single: false
 key: walkin--on-the-moon-the-dream-kanye-west
 lyrics_url: https://www.azlyrics.com/lyrics/thedream/walkinonthemoon.html
 name: Walkin' On The Moon
@@ -44,8 +47,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2009-08-08'
+release_year: 2009
+runtime: 254640
 ---
-
 Hello 
 Hello, is there anybody up here?
 (Hello) Welcome 2085!
@@ -136,6 +140,3 @@ That got me walking on the moon
 Uhh, and I know that it's true,
 Baby, you got me walking on the moon
 Everyone out there will know that you are my girl.
-
-
-

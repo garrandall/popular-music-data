@@ -1,8 +1,11 @@
 ---
+album: Are You Gonna Go My Way
 artists:
 - Lenny Kravitz
+external_ids:
+  spotify: spotify:track:6x9t21Gl6bRhOrgigur7wK
 features: []
-genres: []
+first_released_as_single: false
 key: believe-lenny-kravitz
 lyrics_url: https://www.azlyrics.com/lyrics/lennykravitz/believeinme.html
 name: Believe
@@ -75,8 +78,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1993-10-23'
+release_year: 1993
+runtime: 294693
 ---
-
 Where's the love we had ?
 When did it go bad ?
 Or am I just insecure ?
@@ -125,6 +129,3 @@ To believe in me
 To believe in me
 To believe in me
 To believe in me
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Super Hits
 artists:
 - Bobby Bare
+external_ids:
+  spotify: spotify:track:2DhT1bCyuYmBkV1kGDAgrH
 features: []
-genres: []
+first_released_as_single: false
 key: four-strong-winds-bobby-bare
 lyrics_url: https://www.azlyrics.com/lyrics/bobbybare/fourstrongwinds.html
 name: Four Strong Winds
@@ -35,8 +38,9 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '1964-12-12'
+release_year: 1964
+runtime: 165266
 ---
-
 Four strong winds that blow lonely seven seas that run high
 All these things that don't change come what may
 But my good times are all gone and I'm bound for moving on
@@ -52,6 +56,3 @@ You could join me if I sent you down the fare
 But if you'll wait until it's winter it would do no good
 But the winds sure can blow cold way out there
 Four strong winds that blow lonely...
-
-
-

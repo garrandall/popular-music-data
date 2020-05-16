@@ -1,8 +1,11 @@
 ---
+album: Amigo
 artists:
 - David Ball
+external_ids:
+  spotify: spotify:track:4yym5ZJXwvg03d4kyhLVZO
 features: []
-genres: []
+first_released_as_single: false
 key: riding-with-private-malone-david-ball
 lyrics_url: https://genius.com/David-ball-riding-with-private-malone-lyrics
 name: Riding With Private Malone
@@ -87,6 +90,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2002-03-09'
+release_year: 2001
+runtime: 275053
 ---
 I was just out of the service thumbing through the classifieds
 When an ad that said, "old Chevy" somehow caught my eye

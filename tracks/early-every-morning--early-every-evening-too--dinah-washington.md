@@ -1,8 +1,11 @@
 ---
+album: The Two Of Us
 artists:
 - Dinah Washington
+external_ids:
+  spotify: spotify:track:5oizD47GLSKDlfCeSiEKJz
 features: []
-genres: []
+first_released_as_single: false
 key: early-every-morning--early-every-evening-too--dinah-washington
 lyrics_url: https://genius.com/Dinah-washington-early-every-morning-early-every-evening-too-lyrics
 name: Early Every Morning (Early Every Evening Too)
@@ -11,6 +14,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1961-03-13'
+release_year: 1960
+runtime: 141533
 ---
 Early every morning
 Early every evening too

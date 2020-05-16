@@ -1,10 +1,13 @@
 ---
+album: X
 artists:
 - Chris Brown
+external_ids:
+  spotify: spotify:track:3fBbfrWZUuWWrMQXFISr7N
 features:
 - Usher
 - Rick Ross
-genres: []
+first_released_as_single: false
 key: new-flame-chris-brown-usher-rick-ross
 lyrics_url: https://www.azlyrics.com/lyrics/chrisbrown/newflame.html
 name: New Flame
@@ -97,9 +100,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2014-12-27'
+release_year: 2014
+runtime: 244226
 ---
-
-
 There can be one only you
 And, baby, God could never make two
 And I know you came here with your crew
@@ -172,6 +175,3 @@ Tell me if you're ready
 Baby, come and get it
 Try a new thing
 And let's spark a new flame
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Wide Open Spaces
 artists:
 - Dixie Chicks
+external_ids:
+  spotify: spotify:track:2qdVHdkLxKntNjPh3Ssz7s
 features: []
-genres: []
+first_released_as_single: false
 key: you-were-mine-dixie-chicks
 lyrics_url: https://genius.com/Dixie-chicks-you-were-mine-lyrics
 name: You Were Mine
@@ -87,6 +90,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1999-06-05'
+release_year: 1998
+runtime: 217807
 ---
 I can't find a reason to let go
 Even though you've found a new love

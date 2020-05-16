@@ -1,8 +1,11 @@
 ---
+album: Chain Lightning
 artists:
 - Don McLean
+external_ids:
+  spotify: spotify:track:5igvqjbmTTr3rMhsV3VMtN
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-just-the-sun-don-mclean
 lyrics_url: https://www.azlyrics.com/lyrics/donmclean/itsjustthesun.html
 name: It's Just The Sun
@@ -15,8 +18,9 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1981-08-15'
+release_year: 1978
+runtime: 151413
 ---
-
 It's just the sun that's shinin'in your eyes.
 It's just the moon that is the sun's disguise.
 Just the sky, with clouds a blowin' by.
@@ -38,6 +42,3 @@ It's just the sun that's shinin'in your eyes
 It's just the moon that is the sun's disguise
 It's just the sky, with clouds a blowin' by
 The sun and the moon and the sky, and you and I.
-
-
-

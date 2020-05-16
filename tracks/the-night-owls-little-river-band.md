@@ -1,8 +1,11 @@
 ---
+album: Time Exposure
 artists:
 - Little River Band
+external_ids:
+  spotify: spotify:track:5L27knWQkVObPY0FbpyHvy
 features: []
-genres: []
+first_released_as_single: false
 key: the-night-owls-little-river-band
 lyrics_url: https://www.azlyrics.com/lyrics/littleriverband/thenightowls.html
 name: The Night Owls
@@ -91,8 +94,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1982-01-09'
+release_year: 1981
+runtime: 319733
 ---
-
 There is a bar right across the street
 He's got a need he just can't beat
 Out on the floor he shuffles his feet away
@@ -132,6 +136,3 @@ To belong, she's crying in the night
 (The night goes on and on)
 Be strong, find the heart of a night owl falling
 Stay up till dawn until the night is gone
-
-
-

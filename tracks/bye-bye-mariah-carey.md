@@ -1,8 +1,11 @@
 ---
+album: "E=MC\xB2"
 artists:
 - Mariah Carey
+external_ids:
+  spotify: spotify:track:4n40hvXBCDQba3DO5BOm6P
 features: []
-genres: []
+first_released_as_single: false
 key: bye-bye-mariah-carey
 lyrics_url: https://genius.com/Mariah-carey-bye-bye-lyrics
 name: Bye Bye
@@ -55,6 +58,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '2008-07-19'
+release_year: 2008
+runtime: 266826
 ---
 This is for my peoples who just lost somebody
 Your best friend, your baby, your man, or your lady

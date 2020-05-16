@@ -1,8 +1,11 @@
 ---
+album: Built From Scratch
 artists:
 - X-Ecutioners
+external_ids:
+  spotify: spotify:track:6Xb5klX1nnSUxoh2AyZd54
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-goin--down-x-ecutioners
 lyrics_url: https://genius.com/The-x-ecutioners-its-goin-down-lyrics
 name: It's Goin' Down
@@ -51,6 +54,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2002-05-18'
+release_year: 2002
+runtime: 248573
 ---
 Watch them flee, watch them flee
 Watch them flee, hip-hop heads

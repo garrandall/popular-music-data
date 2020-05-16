@@ -1,8 +1,11 @@
 ---
+album: The Magic Of Sarah Vaughan
 artists:
 - Sarah Vaughan
+external_ids:
+  spotify: spotify:track:1NX2qyuzYQKs5yY8XOleiJ
 features: []
-genres: []
+first_released_as_single: false
 key: separate-ways-sarah-vaughan
 lyrics_url: https://genius.com/Sarah-vaughan-separate-ways-lyrics
 name: Separate Ways
@@ -11,6 +14,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1959-05-04'
+release_year: 1959
+runtime: 144533
 ---
 Once our dates were oh so thrilling
 Once your lips were more than willing

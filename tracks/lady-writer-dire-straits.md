@@ -1,8 +1,11 @@
 ---
+album: "Communiqu\xE9"
 artists:
 - Dire Straits
+external_ids:
+  spotify: spotify:track:3mwFncaI2HBczQ92GP9MQF
 features: []
-genres: []
+first_released_as_single: false
 key: lady-writer-dire-straits
 lyrics_url: https://www.azlyrics.com/lyrics/direstraits/ladywriter.html
 name: Lady Writer
@@ -35,8 +38,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1979-09-08'
+release_year: 1979
+runtime: 229026
 ---
-
 Lady writer on the TV
 Talk about the Virgin Mary
 Reminded me of you
@@ -81,6 +85,3 @@ And the lady writer on the TV
 Talking about the Virgin Mary
 Yeah you know I'm talking about you and me
 And the lady writer on the TV
-
-
-

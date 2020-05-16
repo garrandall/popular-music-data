@@ -1,8 +1,11 @@
 ---
+album: Queen Of The House
 artists:
 - Jody Miller
+external_ids:
+  spotify: spotify:track:4ycahhaQdjoN61KNFxvGA9
 features: []
-genres: []
+first_released_as_single: false
 key: he-walks-like-a-man-jody-miller
 lyrics_url: https://genius.com/Jody-miller-he-walks-like-a-man-lyrics
 name: He Walks Like A Man
@@ -31,6 +34,8 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1964-03-14'
+release_year: 1964
+runtime: 157847
 ---
 He walks like a man
 And he talks like a man

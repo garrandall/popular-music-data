@@ -1,8 +1,11 @@
 ---
+album: Freedom's Road
 artists:
 - John Mellencamp
+external_ids:
+  spotify: spotify:track:5p53PF8DpDlAe7I9zXwirD
 features: []
-genres: []
+first_released_as_single: true
 key: our-country-john-mellencamp
 lyrics_url: https://www.azlyrics.com/lyrics/johnmellencamp/ourcountry.html
 name: Our Country
@@ -11,8 +14,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2006-11-11'
+release_year: 2006
+runtime: 226626
 ---
-
 Well I can stand beside
 Ideals I think are right
 And I can stand beside
@@ -68,6 +72,3 @@ To the west coast
 Down the Dixie Highway
 Back home
 This is our country
-
-
-

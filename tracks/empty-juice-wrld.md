@@ -1,8 +1,11 @@
 ---
+album: Death Race For Love
 artists:
 - Juice WRLD
+external_ids:
+  spotify: spotify:track:41MCdlvXOl62B7Kv86Bb1v
 features: []
-genres: []
+first_released_as_single: false
 key: empty-juice-wrld
 lyrics_url: https://www.azlyrics.com/lyrics/juicewrld/empty.html
 name: Empty
@@ -23,8 +26,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '2019-12-21'
+release_year: 2019
+runtime: 248431
 ---
-
 From the unknown
 I ran away, I don't think I'm comin' back home
 Whoa-whoa-whoa-whoa-whoa-whoa
@@ -103,6 +107,3 @@ The same black hole that's in place of my soul
 I'm empty, I feel so God damn empty
 I may go rogue, don't tempt me
 Big bullet holes, tote semi autos
-
-
-

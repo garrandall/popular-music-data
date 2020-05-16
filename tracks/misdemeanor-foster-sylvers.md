@@ -1,8 +1,11 @@
 ---
+album: Foster Sylvers
 artists:
 - Foster Sylvers
+external_ids:
+  spotify: spotify:track:0ApFfTbtX1775WkrzZSx4y
 features: []
-genres: []
+first_released_as_single: false
 key: misdemeanor-foster-sylvers
 lyrics_url: https://genius.com/Foster-sylvers-misdemeanor-lyrics
 name: Misdemeanor
@@ -59,6 +62,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1973-08-25'
+release_year: 1973
+runtime: 153346
 ---
 (Love tracks, setbacks
 All can come back)

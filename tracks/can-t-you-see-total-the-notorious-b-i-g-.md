@@ -1,9 +1,12 @@
 ---
+album: Total
 artists:
 - Total
+external_ids:
+  spotify: spotify:track:7EJpoiEOyXSdwk43fvKy9D
 features:
 - The Notorious B.I.G.
-genres: []
+first_released_as_single: true
 key: can-t-you-see-total-the-notorious-b-i-g-
 lyrics_url: https://genius.com/Total-cant-you-see-lyrics
 name: Can't You See
@@ -88,6 +91,8 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '1995-08-19'
+release_year: 1995
+runtime: 293906
 ---
 You just don't know what you do to me (This shit knocks huh?)
 Bad Boy (Uh...Uh!)

@@ -1,8 +1,11 @@
 ---
+album: NOW That's What I Call Music! Vol. 72
 artists:
 - Lil Nas X
+external_ids:
+  spotify: spotify:track:6fTt0CH2t0mdeB2N9XFG5r
 features: []
-genres: []
+first_released_as_single: true
 key: panini-lil-nas-x
 lyrics_url: https://genius.com/Lil-nas-x-panini-lyrics
 name: Panini
@@ -135,6 +138,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2020-02-08'
+release_year: 2019
+runtime: 114893
 ---
 D-D-Daytrip took it to ten (Hey)
 

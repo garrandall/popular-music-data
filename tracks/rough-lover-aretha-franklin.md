@@ -1,8 +1,11 @@
 ---
+album: The Electrifying Aretha Franklin
 artists:
 - Aretha Franklin
+external_ids:
+  spotify: spotify:track:1qUP5ytslcPEjSloZ7xbnY
 features: []
-genres: []
+first_released_as_single: false
 key: rough-lover-aretha-franklin
 lyrics_url: https://genius.com/Aretha-franklin-rough-lover-lyrics
 name: Rough Lover
@@ -11,6 +14,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1962-02-10'
+release_year: 1962
+runtime: 165440
 ---
 Now, listen here, girls
 I’m going to tell you what I want right now

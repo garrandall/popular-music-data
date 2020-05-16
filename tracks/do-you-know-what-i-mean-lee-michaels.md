@@ -1,8 +1,11 @@
 ---
+album: 5th
 artists:
 - Lee Michaels
+external_ids:
+  spotify: spotify:track:0X2ckklp0uln3TRUH7JTpN
 features: []
-genres: []
+first_released_as_single: false
 key: do-you-know-what-i-mean-lee-michaels
 lyrics_url: https://genius.com/Lee-michaels-do-you-know-what-i-mean-lyrics
 name: Do You Know What I Mean
@@ -75,9 +78,9 @@ rankings:
   rank: 22
   ranking_list: Billboard Hot 100
   start_date: '1971-11-20'
+release_year: 1971
+runtime: 192022
 ---
-
-
 Been forty days since I don't know when
 I just saw her with my best friend
 Do you know what I mean?
@@ -129,5 +132,3 @@ Do you know what I mean?
 Lord, Do you know what I mean?
 
 Yeah, here comes it now..
-
-

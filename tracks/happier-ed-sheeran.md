@@ -1,8 +1,11 @@
 ---
+album: "\xF7"
 artists:
 - Ed Sheeran
+external_ids:
+  spotify: spotify:track:2RttW7RAu5nOAfq6YFvApB
 features: []
-genres: []
+first_released_as_single: false
 key: happier-ed-sheeran
 lyrics_url: https://genius.com/Ed-sheeran-happier-lyrics
 name: Happier
@@ -15,6 +18,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2017-04-01'
+release_year: 2017
+runtime: 207520
 ---
 Walking down 29th and park
 I saw you in another's arm

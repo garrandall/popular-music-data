@@ -1,8 +1,11 @@
 ---
+album: The Dynamic Stonewall Jackson
 artists:
 - Stonewall Jackson
+external_ids:
+  spotify: spotify:track:2ZV6e6ku4KAUQJG0TZBKcx
 features: []
-genres: []
+first_released_as_single: false
 key: waterloo-stonewall-jackson
 lyrics_url: https://genius.com/Stonewall-jackson-waterloo-lyrics
 name: Waterloo
@@ -71,6 +74,8 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1959-09-07'
+release_year: 1954
+runtime: 147266
 ---
 Waterloo Waterloo
 Where will you meet your Waterloo?

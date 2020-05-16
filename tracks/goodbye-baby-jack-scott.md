@@ -1,8 +1,11 @@
 ---
+album: Jack Scott's Greatest Hits
 artists:
 - Jack Scott
+external_ids:
+  spotify: spotify:track:16HL6HBaqUhWBaxcHMrZEF
 features: []
-genres: []
+first_released_as_single: false
 key: goodbye-baby-jack-scott
 lyrics_url: https://genius.com/Jack-scott-goodbye-baby-lyrics
 name: Goodbye Baby
@@ -71,6 +74,8 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1959-03-30'
+release_year: 1958
+runtime: 129333
 ---
 Oh, bye bye
 Oh, bye bye

@@ -1,8 +1,11 @@
 ---
+album: '20th Century Masters: The Millennium Collection: Best Of The Jets'
 artists:
 - The Jets
+external_ids:
+  spotify: spotify:track:09pfjcwfI8HIxM4FJL1GyP
 features: []
-genres: []
+first_released_as_single: false
 key: private-number-the-jets
 lyrics_url: https://genius.com/The-jets-group-private-number-lyrics
 name: Private Number
@@ -51,6 +54,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1986-10-18'
+release_year: 1986
+runtime: 243066
 ---
 You got the key
 My private number

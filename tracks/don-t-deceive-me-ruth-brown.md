@@ -1,8 +1,11 @@
 ---
+album: 'Miss Rhythm: Greatest Hits And More'
 artists:
 - Ruth Brown
+external_ids:
+  spotify: spotify:track:6Teu9cfIt31Y9xQtkUPUQj
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-deceive-me-ruth-brown
 lyrics_url: https://genius.com/Ruth-brown-dont-deceive-me-lyrics
 name: Don't Deceive Me
@@ -39,6 +42,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1960-05-02'
+release_year: 1960
+runtime: 135226
 ---
 People are talking all over town
 They say you're tired of me

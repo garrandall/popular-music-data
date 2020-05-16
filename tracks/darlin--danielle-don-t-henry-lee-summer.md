@@ -1,8 +1,11 @@
 ---
+album: Henry Lee Summer
 artists:
 - Henry Lee Summer
+external_ids:
+  spotify: spotify:track:3tdFvLpFGSSjupu6VMvrNl
 features: []
-genres: []
+first_released_as_single: false
 key: darlin--danielle-don-t-henry-lee-summer
 lyrics_url: https://www.musixmatch.com/lyrics/Henry-Lee-Summer/Darlin-Danielle-Don-t
 name: Darlin' Danielle Don't
@@ -39,6 +42,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1988-07-16'
+release_year: 1988
+runtime: 242826
 ---
 I work my fingers
 To the bone for you

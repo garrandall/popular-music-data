@@ -1,8 +1,11 @@
 ---
+album: East Side Story
 artists:
 - Kid Frost
+external_ids:
+  spotify: spotify:track:7bYII9aTzFdEJQpCLcWhba
 features: []
-genres: []
+first_released_as_single: false
 key: no-sunshine-kid-frost
 lyrics_url: https://genius.com/Og-kid-frost-no-sunshine-lyrics
 name: No Sunshine
@@ -19,6 +22,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1992-05-02'
+release_year: 1992
+runtime: 291133
 ---
 What is time?
 Time is when a man is trying to make time with your woman

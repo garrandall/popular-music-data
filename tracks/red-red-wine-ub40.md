@@ -1,8 +1,11 @@
 ---
+album: Labour Of Love
 artists:
 - UB40
+external_ids:
+  spotify: spotify:track:1tOE1dIyIjsfLJWiQ4ZRJW
 features: []
-genres: []
+first_released_as_single: false
 key: red-red-wine-ub40
 lyrics_url: https://www.azlyrics.com/lyrics/ub40/redredwine.html
 name: Red Red Wine
@@ -167,8 +170,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1989-01-28'
+release_year: 1983
+runtime: 320933
 ---
-
 Red red wine
 Goes to my head
 Makes me forget that I
@@ -263,6 +267,3 @@ I feel a million dollars when you just in my hand
 Red red wine, you make me feel so sad
 Any time I see you go
 It make me feel bad
-
-
-

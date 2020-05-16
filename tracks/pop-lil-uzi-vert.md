@@ -1,8 +1,11 @@
 ---
+album: Eternal Atake
 artists:
 - Lil Uzi Vert
+external_ids:
+  spotify: spotify:track:1jDbQz6tr52WgScCTXMnaN
 features: []
-genres: []
+first_released_as_single: false
 key: pop-lil-uzi-vert
 lyrics_url: https://genius.com/Lil-uzi-vert-pop-lyrics
 name: POP
@@ -11,6 +14,8 @@ rankings:
   rank: 28
   ranking_list: Billboard Hot 100
   start_date: '2020-03-21'
+release_year: 2020
+runtime: 227474
 ---
 Straight bars
 Bow, bow, bow, bow, bow, bow, bow, bow, bow, bow, bah (I'm working on dying)

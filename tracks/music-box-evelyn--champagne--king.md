@@ -1,8 +1,11 @@
 ---
+album: Music Box
 artists:
 - Evelyn "Champagne" King
+external_ids:
+  spotify: spotify:track:2AljasdrcfrK7jQUVo8prH
 features: []
-genres: []
+first_released_as_single: false
 key: music-box-evelyn--champagne--king
 lyrics_url: https://genius.com/Evelyn-champagne-king-music-box-lyrics
 name: Music Box
@@ -31,6 +34,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1979-06-30'
+release_year: 1979
+runtime: 397973
 ---
 My music
 My music

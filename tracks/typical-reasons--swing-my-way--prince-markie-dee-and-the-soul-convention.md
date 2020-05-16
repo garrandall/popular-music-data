@@ -1,8 +1,11 @@
 ---
+album: Typical Reasons (Swing My Way)
 artists:
 - Prince Markie Dee And The Soul Convention
+external_ids:
+  spotify: spotify:track:2fBf3BZFnFFQKCO0i8dItB
 features: []
-genres: []
+first_released_as_single: true
 key: typical-reasons--swing-my-way--prince-markie-dee-and-the-soul-convention
 lyrics_url: https://www.musixmatch.com/lyrics/Prince-Markie-Dee-and-the-Soul-Convention/Typical-Reasons-Swing-My-Way
 name: Typical Reasons (Swing My Way)
@@ -63,6 +66,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1993-07-03'
+release_year: 1993
+runtime: 267811
 ---
 One minute you're so fly and now you're busted
 Sweetheart, we got a lot to discus kid

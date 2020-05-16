@@ -1,11 +1,14 @@
 ---
+album: All For You
 artists:
 - Janet
+external_ids:
+  spotify: spotify:track:5IJ6tEUmMWFlosAWhxm9hd
 features:
 - Missy Elliott
 - P. Diddy
 - Carly Simon
-genres: []
+first_released_as_single: false
 key: son-of-a-gun-janet-missy-elliott-p--diddy-carly-simon
 lyrics_url: https://genius.com/Janet-jackson-son-of-a-gun-p-diddy-remix-lyrics
 name: Son Of A Gun
@@ -58,6 +61,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2002-02-09'
+release_year: 2001
+runtime: 266240
 ---
 Ha ha, hoo hoo, thought you'd get the money too
 Greedy motherfuckers try to have your cake and eat it too

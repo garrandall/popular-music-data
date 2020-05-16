@@ -1,8 +1,11 @@
 ---
+album: Tara Kemp
 artists:
 - Tara Kemp
+external_ids:
+  spotify: spotify:track:0otWaD7P1jqYsb0qSHNo6J
 features: []
-genres: []
+first_released_as_single: false
 key: hold-you-tight-tara-kemp
 lyrics_url: https://genius.com/Tara-kemp-hold-you-tight-lyrics
 name: Hold You Tight
@@ -95,6 +98,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1991-06-15'
+release_year: 1991
+runtime: 284344
 ---
 Just want to hold you tight
 All day

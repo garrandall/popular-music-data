@@ -1,8 +1,11 @@
 ---
+album: Airwaves
 artists:
 - Badfinger
+external_ids:
+  spotify: spotify:track:699RFhWGga3oOq5lau7bTJ
 features: []
-genres: []
+first_released_as_single: false
 key: love-is-gonna-come-at-last-badfinger
 lyrics_url: https://www.azlyrics.com/lyrics/badfinger/loveisgonnacomeatlast.html
 name: Love Is Gonna Come At Last
@@ -23,8 +26,9 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1979-04-28'
+release_year: 1979
+runtime: 217360
 ---
-
 There are times when it feels so hard just to carry on
 There are times when the days all seem to be so long
 Then this feeling inside of me sets me free from the past
@@ -53,6 +57,3 @@ Yes, I know that when I'm ready, love is gonna come at last
 Yes, I know that when I'm ready, love is gonna come at last
 Yes, I know that when I'm ready, love is gonna come at last
 Yes, I know that when I'm ready, love is gonna come at last.
-
-
-

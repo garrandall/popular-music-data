@@ -1,8 +1,11 @@
 ---
+album: Kem Album II
 artists:
 - Kem
+external_ids:
+  spotify: spotify:track:6iWs0J0CnadMMbxLQtZrCG
 features: []
-genres: []
+first_released_as_single: false
 key: i-can-t-stop-loving-you-kem
 lyrics_url: https://genius.com/Kem-i-cant-stop-loving-you-lyrics
 name: I Can't Stop Loving You
@@ -63,6 +66,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2005-08-27'
+release_year: 2004
+runtime: 323920
 ---
 I think about the day I met the perfect stranger, I think about us
 And I think about the day I got wrapped around your fingers, I think about us

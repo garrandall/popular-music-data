@@ -1,8 +1,11 @@
 ---
+album: The Terminator
 artists:
 - Stevie B
+external_ids:
+  spotify: spotify:track:7AerKsdhVndT6uPTb4XXbJ
 features: []
-genres: []
+first_released_as_single: false
 key: spring-love--come-back-to-me--stevie-b
 lyrics_url: https://www.azlyrics.com/lyrics/stevieb/springlove.html
 name: Spring Love (Come Back To Me)
@@ -79,8 +82,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1988-11-05'
+release_year: 1988
+runtime: 303906
 ---
-
 I remember when we first started
 You came to me and you were broken hearted
 I took you in and wiped all your tears away
@@ -124,6 +128,3 @@ And I won't forget
 Come back to me darlin
 The way we shared the way we cared
 I really need you my springtime lover
-
-
-

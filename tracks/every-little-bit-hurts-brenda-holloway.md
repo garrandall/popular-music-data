@@ -1,8 +1,11 @@
 ---
+album: The Motown Anthology
 artists:
 - Brenda Holloway
+external_ids:
+  spotify: spotify:track:6FIdsUNlH0ALVO9qpkXvAx
 features: []
-genres: []
+first_released_as_single: false
 key: every-little-bit-hurts-brenda-holloway
 lyrics_url: https://genius.com/Brenda-holloway-every-little-bit-hurts-lyrics
 name: Every Little Bit Hurts
@@ -47,6 +50,8 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '1964-07-04'
+release_year: 1964
+runtime: 177266
 ---
 Every little bit hurts
 Every little bit hurts

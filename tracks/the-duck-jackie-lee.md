@@ -1,8 +1,11 @@
 ---
+album: The Duck
 artists:
 - Jackie Lee
+external_ids:
+  spotify: spotify:track:1qUevKPCkoW7XpnbWHZ6bU
 features: []
-genres: []
+first_released_as_single: false
 key: the-duck-jackie-lee
 lyrics_url: https://www.musixmatch.com/lyrics/Jackie-Lee/The-Duck
 name: The Duck
@@ -63,6 +66,8 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '1966-02-19'
+release_year: 1965
+runtime: 142593
 ---
 Umm-hm
 Now, there's a new dance
@@ -132,7 +137,7 @@ My-my, baby look
 Come on
 (Do The Duck)
 
-FADES-
+
 Now, do The Duck
 Hey, do The Duck
 (Do The Duck)

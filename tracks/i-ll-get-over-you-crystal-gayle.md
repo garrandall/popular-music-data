@@ -1,8 +1,11 @@
 ---
+album: Somebody Loves You
 artists:
 - Crystal Gayle
+external_ids:
+  spotify: spotify:track:7zBCospDUtpGLS0SIrq5hN
 features: []
-genres: []
+first_released_as_single: false
 key: i-ll-get-over-you-crystal-gayle
 lyrics_url: https://www.azlyrics.com/lyrics/crystalgayle/illgetoveryou.html
 name: I'll Get Over You
@@ -31,8 +34,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1976-07-17'
+release_year: 1975
+runtime: 211680
 ---
-
 One thing 'bout this heart of mine
 All my hurts got a mending time
 It don't leave no scars behind 
@@ -83,6 +87,3 @@ I'll get over you
 I'll get through it when I do
 I'll be good as new 
 When I get over you
-
-
-

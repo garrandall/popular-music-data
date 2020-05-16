@@ -1,8 +1,11 @@
 ---
+album: Powerful Stuff
 artists:
 - The Fabulous Thunderbirds
+external_ids:
+  spotify: spotify:track:2XCeE9nx3pRQT8FQMQKCVP
 features: []
-genres: []
+first_released_as_single: false
 key: powerful-stuff-the-fabulous-thunderbirds
 lyrics_url: https://www.azlyrics.com/lyrics/fabulousthunderbirds/powerfulstuff.html
 name: Powerful Stuff
@@ -35,8 +38,9 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1988-10-08'
+release_year: 1986
+runtime: 273600
 ---
-
 She walks down the street a-knockin' 'em dead
 Store window dummies even turn their heads
 Sho' 'nuff, powerful stuff
@@ -66,6 +70,3 @@ She's a hundred-mega-kilowatts of woman, child
 Sho' 'nuff, I think I'm in love
 Think I'm in love, I think I'm in love
 And that's powerful stuff
-
-
-

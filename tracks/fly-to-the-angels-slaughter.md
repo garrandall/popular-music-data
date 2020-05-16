@@ -1,8 +1,11 @@
 ---
+album: Stick It To Ya
 artists:
 - Slaughter
+external_ids:
+  spotify: spotify:track:3FCS3LSPCOayYntBHWGvzY
 features: []
-genres: []
+first_released_as_single: false
 key: fly-to-the-angels-slaughter
 lyrics_url: https://www.azlyrics.com/lyrics/slaughter/flytotheangels.html
 name: Fly To the Angels
@@ -79,8 +82,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1990-12-15'
+release_year: 1989
+runtime: 306600
 ---
-
 Pictures of you
 Ohh they're still on my mind
 You had this smile
@@ -158,6 +162,3 @@ ohhohooh ohohoh
 
 I'm gonna miss you
 miss you girl
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Best of The Five Americans
 artists:
 - The Five Americans
+external_ids:
+  spotify: spotify:track:1bdtY3SGI196r2LF0Dd6Oa
 features: []
-genres: []
+first_released_as_single: false
 key: zip-code-the-five-americans
 name: Zip Code
 rankings:
@@ -34,5 +37,7 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1967-09-23'
+release_year: 1967
+runtime: 152826
 ---
 

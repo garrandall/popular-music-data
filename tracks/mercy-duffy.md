@@ -1,8 +1,11 @@
 ---
+album: Rockferry
 artists:
 - Duffy
+external_ids:
+  spotify: spotify:track:78twQ5XCFJMTE37ZSU0gsj
 features: []
-genres: []
+first_released_as_single: false
 key: mercy-duffy
 lyrics_url: https://www.azlyrics.com/lyrics/duffy/mercy.html
 name: Mercy
@@ -87,8 +90,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2008-09-20'
+release_year: 2008
+runtime: 219920
 ---
-
 Hit the beat and take it to the bass now
 
 I love you
@@ -168,6 +172,3 @@ I said, you got me begging
 Begging you for mercy
 You got me begging
 Begging you for mercy
-
-
-

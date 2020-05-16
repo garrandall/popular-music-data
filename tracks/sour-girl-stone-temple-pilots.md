@@ -1,8 +1,11 @@
 ---
+album: No. 4
 artists:
 - Stone Temple Pilots
+external_ids:
+  spotify: spotify:track:6wNwHBUjsessjRioNVFbaO
 features: []
-genres: []
+first_released_as_single: false
 key: sour-girl-stone-temple-pilots
 lyrics_url: https://www.azlyrics.com/lyrics/stonetemplepilots/sourgirl.html
 name: Sour Girl
@@ -59,8 +62,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2000-09-30'
+release_year: 1999
+runtime: 256253
 ---
-
 She turned away, what was she looking at?
 She was a sour girl the day that she met me
 Hey! What are you looking at?
@@ -96,6 +100,3 @@ The day that she left me
 She was a happy girl the day that she left me
 She was a sour girl the day that she met
 The day that she left me
-
-
-

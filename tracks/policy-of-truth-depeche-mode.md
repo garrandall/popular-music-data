@@ -1,8 +1,11 @@
 ---
+album: Violator
 artists:
 - Depeche Mode
+external_ids:
+  spotify: spotify:track:6zIdaXhODcfohmaiWxFaCu
 features: []
-genres: []
+first_released_as_single: true
 key: policy-of-truth-depeche-mode
 lyrics_url: https://www.azlyrics.com/lyrics/depechemode/policyoftruth.html
 name: Policy Of Truth
@@ -71,8 +74,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1990-11-24'
+release_year: 1990
+runtime: 309866
 ---
-
 You had something to hide
 Should have hidden it, shouldn't you
 Now you're not satisfied
@@ -109,6 +113,3 @@ Never again is what you swore
 The time before
 Never again is what you swore
 The time before
-
-
-

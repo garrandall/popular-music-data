@@ -1,8 +1,11 @@
 ---
+album: The Madding Crowd
 artists:
 - Nine Days
+external_ids:
+  spotify: spotify:track:0yA6uXukVZbi29GcmtK6i5
 features: []
-genres: []
+first_released_as_single: false
 key: if-i-am-nine-days
 lyrics_url: https://genius.com/Nine-days-if-i-am-lyrics
 name: If I Am
@@ -27,6 +30,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2000-12-30'
+release_year: 2000
+runtime: 258160
 ---
 So you're standing on a ledge
 It looks like you might fall

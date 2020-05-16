@@ -1,8 +1,11 @@
 ---
+album: Levert.Sweat.Gill
 artists:
 - LSG
+external_ids:
+  spotify: spotify:track:6PyLw3l6ndolBrTPQp3Ibm
 features: []
-genres: []
+first_released_as_single: false
 key: my-body-lsg
 lyrics_url: https://www.azlyrics.com/lyrics/lsg/mybody.html
 name: My Body
@@ -87,8 +90,9 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1998-03-14'
+release_year: 1997
+runtime: 247133
 ---
-
 Body
 
 My body, your body
@@ -208,6 +212,3 @@ Oh, it's your body, babe
 Feel me, your body
 
 It's your body, baby
-
-
-

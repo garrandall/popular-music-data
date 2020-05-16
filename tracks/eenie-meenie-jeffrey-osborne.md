@@ -1,8 +1,11 @@
 ---
+album: Jeffrey Osborne
 artists:
 - Jeffrey Osborne
+external_ids:
+  spotify: spotify:track:0kr4qhkSAiBEOvT1aoBcY6
 features: []
-genres: []
+first_released_as_single: false
 key: eenie-meenie-jeffrey-osborne
 lyrics_url: https://www.azlyrics.com/lyrics/jeffreyosborne/eeniemeenie.html
 name: Eenie Meenie
@@ -27,8 +30,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1983-04-16'
+release_year: 1982
+runtime: 264666
 ---
-
 You won my heart
 It's just the start, babe
 There's much more to love
@@ -110,6 +114,3 @@ That's the game of love we play
 
 Eenie meenie minie mo
 Catch a lover by the toe
-
-
-

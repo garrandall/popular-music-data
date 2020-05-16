@@ -1,9 +1,12 @@
 ---
+album: There's A Riot Goin' On
 artists:
 - Sly
 - The Family Stone
+external_ids:
+  spotify: spotify:track:0yMhprf2FVbT9Aew8DPbkm
 features: []
-genres: []
+first_released_as_single: false
 key: runnin--away-sly-the-family-stone
 lyrics_url: https://www.azlyrics.com/lyrics/slythefamilystone/runninaway.html
 name: Runnin' Away
@@ -48,8 +51,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1972-04-08'
+release_year: 1971
+runtime: 177800
 ---
-
 Running away to get away
 Ha ha ha ha
 You're wearing out your shoes
@@ -77,6 +81,3 @@ Look at you, fooling you
 Another day you're farther away
 Ha ha ha ha
 A longer trip back home
-
-
-

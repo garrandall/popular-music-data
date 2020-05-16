@@ -1,8 +1,11 @@
 ---
+album: Equinox
 artists:
 - Styx
+external_ids:
+  spotify: spotify:track:0Ku4H5iDJZnsClOF16le4g
 features: []
-genres: []
+first_released_as_single: false
 key: lorelei-styx
 lyrics_url: https://www.azlyrics.com/lyrics/styx/lorelei.html
 name: Lorelei
@@ -63,8 +66,9 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1976-05-15'
+release_year: 1975
+runtime: 203333
 ---
-
 When I think of Lorelei my head turns all around
 As gentle as a butterfly she moves without a sound
 I call her on the telephone, she says be there by eight
@@ -88,6 +92,3 @@ Lorelei let's live together
 Brighter than the stars forever
 Lorelei let's live together
 Brighter than the stars forever
-
-
-

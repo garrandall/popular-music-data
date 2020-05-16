@@ -1,9 +1,12 @@
 ---
+album: Music From Do The Right Thing A Spike Lee Joint
 artists:
 - Teddy Riley
+external_ids:
+  spotify: spotify:track:6XdVUShzEjrCP9GbRSmVYc
 features:
 - Guy
-genres: []
+first_released_as_single: false
 key: my-fantasy-teddy-riley-guy
 lyrics_url: https://genius.com/Teddy-riley-my-fantasy-lyrics
 name: My Fantasy
@@ -32,6 +35,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1989-10-28'
+release_year: 1989
+runtime: 328026
 ---
 You all ready to kick?
 C'mon

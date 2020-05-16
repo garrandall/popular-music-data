@@ -1,8 +1,11 @@
 ---
+album: Unapologetic (Edited Version)
 artists:
 - Rihanna
+external_ids:
+  spotify: spotify:track:1z9kQ14XBSN0r2v6fx4IdG
 features: []
-genres: []
+first_released_as_single: false
 key: diamonds-rihanna
 lyrics_url: https://genius.com/Rihanna-diamonds-lyrics
 name: Diamonds
@@ -111,6 +114,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '2013-04-06'
+release_year: 2012
+runtime: 225146
 ---
 Shine bright like a diamond
 Shine bright like a diamond

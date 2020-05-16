@@ -1,8 +1,11 @@
 ---
+album: The Everly Brothers Sing
 artists:
 - The Everly Brothers
+external_ids:
+  spotify: spotify:track:5kr5oIPoXcl7eJXHRQGyoS
 features: []
-genres: []
+first_released_as_single: false
 key: bowling-green-the-everly-brothers
 lyrics_url: https://www.azlyrics.com/lyrics/everlybrothers/bowlinggreen.html
 name: Bowling Green
@@ -39,8 +42,9 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '1967-07-15'
+release_year: 1967
+runtime: 166946
 ---
-
 Way down in Bowling Green 
 Prettiest girls I've ever seen 
 A man in Kentucky 
@@ -82,6 +86,3 @@ Bowling Green, Bowling Green
 
 Bowling Green, Bowling Green 
 Bowling Green, Bowling Green
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Gloria, Marty & Strings
 artists:
 - Gloria Lynne
+external_ids:
+  spotify: spotify:track:4aYmILu3FX4mhWbmfNjRb1
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-take-your-love-from-me-gloria-lynne
 lyrics_url: https://genius.com/Gloria-lynne-dont-take-your-love-from-me-lyrics
 name: Don't Take Your Love From Me
@@ -19,6 +22,8 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1964-07-18'
+release_year: 1958
+runtime: 207053
 ---
 Tear a star from out the sky and the sky feels blue
 Tear a petal from a rose and the rose weeps too

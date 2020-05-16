@@ -1,8 +1,11 @@
 ---
+album: Into The Light
 artists:
 - Gloria Estefan
+external_ids:
+  spotify: spotify:track:3jxGqPwrXy91KSVP0qAida
 features: []
-genres: []
+first_released_as_single: false
 key: seal-our-fate-gloria-estefan
 lyrics_url: https://www.azlyrics.com/lyrics/gloriaestefan/sealourfate.html
 name: Seal Our Fate
@@ -35,8 +38,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1991-06-01'
+release_year: 1991
+runtime: 263360
 ---
-
 They say it's never too late and
 Though that might be the case sometimes
 The sad truth of it is opportunity won't knock twice
@@ -81,6 +85,3 @@ Better we be wide awake 'cause we
 Seal our fate with the choices we make
 Seal our fate, seal our fate, seal our fate,
 Seal our fate with the choices we make
-
-
-

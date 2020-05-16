@@ -1,8 +1,11 @@
 ---
+album: So Tonight That I Might See
 artists:
 - Mazzy Star
+external_ids:
+  spotify: spotify:track:1LzNfuep1bnAUR9skqdHCK
 features: []
-genres: []
+first_released_as_single: false
 key: fade-into-you-mazzy-star
 lyrics_url: https://www.azlyrics.com/lyrics/mazzystar/fadeintoyou.html
 name: Fade Into You
@@ -87,6 +90,8 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1995-01-14'
+release_year: 1993
+runtime: 295600
 ---
 I want to hold the hand inside you
 I want to take a breath that's true

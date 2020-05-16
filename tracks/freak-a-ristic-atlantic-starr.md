@@ -1,8 +1,11 @@
 ---
+album: As The Band Turns
 artists:
 - Atlantic Starr
+external_ids:
+  spotify: spotify:track:4xBPHp9Zox89BfNsuKhF6o
 features: []
-genres: []
+first_released_as_single: false
 key: freak-a-ristic-atlantic-starr
 lyrics_url: https://www.azlyrics.com/lyrics/atlanticstarr/freakaristic.html
 name: Freak-A-Ristic
@@ -31,8 +34,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1985-06-29'
+release_year: 1985
+runtime: 245533
 ---
-
 She's hot, she's freak-a-ristic
 
 Last night when I walked into the joint
@@ -99,6 +103,3 @@ She's hot, oh hot
 She's a freak, hot
 She's a freak to me
 She's freak-a-ristic...
-
-
-

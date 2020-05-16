@@ -1,8 +1,11 @@
 ---
+album: After Eight
 artists:
 - Taco
+external_ids:
+  spotify: spotify:track:1taGkdO3DQsNRIQrarhVvc
 features: []
-genres: []
+first_released_as_single: false
 key: puttin--on-the-ritz-taco
 lyrics_url: https://genius.com/Taco-puttin-on-the-ritz-lyrics
 name: Puttin' On The Ritz
@@ -91,6 +94,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1983-11-12'
+release_year: 1982
+runtime: 281160
 ---
 If you're blue and you don't know where to go to
 Why don't you go where fashion sits

@@ -1,8 +1,11 @@
 ---
+album: 'Harden My Heart: The Best Of Quarterflash'
 artists:
 - Quarterflash
+external_ids:
+  spotify: spotify:track:7sBdj1AzlA4XM4Praaz8t7
 features: []
-genres: []
+first_released_as_single: false
 key: night-shift-quarterflash
 lyrics_url: https://www.azlyrics.com/lyrics/quarterflash/nightshift.html
 name: Night Shift
@@ -39,8 +42,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1982-10-02'
+release_year: 1982
+runtime: 244026
 ---
-
 Frank, out on the street.Working late again.
 You know you see much better at night.
 They call you "Cat's Eye". Down on the corner, they call you "Mr. Flash".
@@ -55,4 +59,3 @@ Hot shot, out on the street. Playing one on one.
 You know you shoot much better at night.
 You gotta Joker down on the corner and you can not be shamed.
 You got some new tricks - you never show them the light.
-

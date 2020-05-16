@@ -1,8 +1,11 @@
 ---
+album: Alone With Dion
 artists:
 - Dion
+external_ids:
+  spotify: spotify:track:0yFPpxtxCnIXLb8p2dSURP
 features: []
-genres: []
+first_released_as_single: false
 key: little-miss-blue-dion
 lyrics_url: https://www.azlyrics.com/lyrics/dionband/littlemissblue.html
 name: Little Miss Blue
@@ -11,8 +14,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1960-12-05'
+release_year: 1960
+runtime: 137280
 ---
-
 Just a little girl in love, counting every star above
 A certain boy has caught her eye
 A certain boy has caught the eye
@@ -63,6 +67,3 @@ Oh Little Miss Blue
 
 I'll really love you
 Oh Little Miss Blue
-
-
-

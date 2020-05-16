@@ -1,8 +1,11 @@
 ---
+album: Anthology Vol.1
 artists:
 - Marv Johnson
+external_ids:
+  spotify: spotify:track:4KerVUQVIanFf0wGyTlbf3
 features: []
-genres: []
+first_released_as_single: true
 key: i-love-the-way-you-love-marv-johnson
 lyrics_url: https://genius.com/Marv-johnson-i-love-the-way-you-love-lyrics
 name: I Love The Way You Love
@@ -59,6 +62,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1960-05-30'
+release_year: 1960
+runtime: 158560
 ---
 The sweet things you do to me like holding my hand
 When I'm low you let me know you always understand

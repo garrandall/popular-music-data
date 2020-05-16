@@ -1,8 +1,11 @@
 ---
+album: Cross Country
 artists:
 - Cross Country
+external_ids:
+  spotify: spotify:track:0kwYh01U2UIQ42V5c8CBUd
 features: []
-genres: []
+first_released_as_single: false
 key: in-the-midnight-hour-cross-country
 lyrics_url: https://genius.com/Cross-country-in-the-midnight-hour-lyrics
 name: In The Midnight Hour
@@ -55,6 +58,8 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '1973-11-03'
+release_year: 1973
+runtime: 193653
 ---
 I'm gonna wait 'til the midnight hour
 That's when my love comes tumblin' down

@@ -1,8 +1,11 @@
 ---
+album: Bring You Back
 artists:
 - Brett Eldredge
+external_ids:
+  spotify: spotify:track:3Qe097eJNp9MfpT2PieEw0
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-ya-brett-eldredge
 lyrics_url: https://genius.com/Brett-eldredge-dont-ya-lyrics
 name: Don't Ya
@@ -87,6 +90,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2013-10-19'
+release_year: 2013
+runtime: 181209
 ---
 Girl you cut those jeans just right
 I know you didn't buy 'em like that

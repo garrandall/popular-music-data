@@ -1,9 +1,12 @@
 ---
+album: Apache '65
 artists:
 - The Arrows
+external_ids:
+  spotify: spotify:track:1RE85ZBVGofX9JfnhNDaER
 features:
 - Davie Allan
-genres: []
+first_released_as_single: false
 key: apache--65-the-arrows-davie-allan
 name: Apache '65
 rankings:
@@ -35,5 +38,7 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1965-03-27'
+release_year: 1965
+runtime: 137773
 ---
 

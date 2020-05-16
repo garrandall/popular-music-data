@@ -1,9 +1,12 @@
 ---
+album: Super Hits
 artists:
 - Chuck Jackson
 - Maxine Brown
+external_ids:
+  spotify: spotify:track:4lTMgNop2AUchpTEH9ZAqF
 features: []
-genres: []
+first_released_as_single: false
 key: something-you-got-chuck-jackson-maxine-brown
 name: Something You Got
 rankings:
@@ -43,5 +46,7 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '1965-06-19'
+release_year: 1965
+runtime: 171320
 ---
 

@@ -1,8 +1,11 @@
 ---
+album: Roll With It
 artists:
 - Steve Winwood
+external_ids:
+  spotify: spotify:track:5Pm6zNr7i5606OzSc3vs4v
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-you-know-what-the-night-can-do--steve-winwood
 lyrics_url: https://genius.com/Steve-winwood-dont-you-know-what-the-night-can-do-lyrics
 name: Don't You Know What The Night Can Do?
@@ -75,6 +78,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1988-12-10'
+release_year: 1988
+runtime: 415333
 ---
 Hear the night music playing?
 Don't you know what it's saying?

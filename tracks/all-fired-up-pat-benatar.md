@@ -1,8 +1,11 @@
 ---
+album: Wide Awake In Dreamland
 artists:
 - Pat Benatar
+external_ids:
+  spotify: spotify:track:6XpczhG192lULA9i4JLqKJ
 features: []
-genres: []
+first_released_as_single: false
 key: all-fired-up-pat-benatar
 lyrics_url: https://www.azlyrics.com/lyrics/patbenatar/allfiredup.html
 name: All Fired Up
@@ -75,8 +78,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1988-10-22'
+release_year: 1988
+runtime: 272200
 ---
-
 Livin' with my eyes closed, goin' day to day
 I never knew the difference, I never cared either way
 Lookin' for a reason, searchin' for a sign
@@ -138,6 +142,3 @@ Now I believe there comes a time
 When everything just falls in line
 We live and learn from our mistakes
 The deepest cuts are healed by faith
-
-
-

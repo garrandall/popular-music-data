@@ -1,8 +1,11 @@
 ---
+album: Love for Love
 artists:
 - The Whispers
+external_ids:
+  spotify: spotify:track:5BmmCEPNTFmmJ8hsIByMGb
 features: []
-genres: []
+first_released_as_single: false
 key: tonight-the-whispers
 lyrics_url: https://genius.com/The-whispers-tonight-lyrics
 name: Tonight
@@ -23,6 +26,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1983-05-21'
+release_year: 1983
+runtime: 370026
 ---
 Tonight
 We're gonna paint the town

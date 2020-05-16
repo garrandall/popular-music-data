@@ -1,8 +1,11 @@
 ---
+album: Mellow Gold
 artists:
 - Beck
+external_ids:
+  spotify: spotify:track:1sSGeqRSi9FODicdyOllbM
 features: []
-genres: []
+first_released_as_single: true
 key: loser-beck
 lyrics_url: https://www.azlyrics.com/lyrics/beck/loser.html
 name: Loser
@@ -103,8 +106,9 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1994-07-09'
+release_year: 1994
+runtime: 235573
 ---
-
 In the time of chimpanzees
 I was a monkey
 Butane in my veins
@@ -184,6 +188,3 @@ I'm a loser baby, so why don't you kill me?
 Soy un perdedor
 I'm a loser baby, so why don't you kill me?
 (Know what I'm saying?)
-
-
-

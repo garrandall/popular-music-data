@@ -1,8 +1,11 @@
 ---
+album: Love On A Two-Way Street (US Release)
 artists:
 - The Moments
+external_ids:
+  spotify: spotify:track:5ChVinzHHiPyUAbQhB4w3g
 features: []
-genres: []
+first_released_as_single: false
 key: sexy-mama-the-moments
 lyrics_url: https://genius.com/The-moments-sexy-mama-lyrics
 name: Sexy Mama
@@ -59,6 +62,8 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1974-04-06'
+release_year: 1974
+runtime: 532733
 ---
 Ah
 Here we go again

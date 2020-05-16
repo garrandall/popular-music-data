@@ -1,8 +1,11 @@
 ---
+album: Comin' On Strong
 artists:
 - Trace Adkins
+external_ids:
+  spotify: spotify:track:5fWVKsU47k2uNyI8USfchs
 features: []
-genres: []
+first_released_as_single: false
 key: rough---ready-trace-adkins
 lyrics_url: https://www.azlyrics.com/lyrics/traceadkins/roughready.html
 name: Rough & Ready
@@ -23,8 +26,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2004-11-20'
+release_year: 2003
+runtime: 188706
 ---
-
 Mudgrips - white-tip
 Cigar stickin' out of my face
 Earnhardt racing sticker on the window
@@ -81,6 +85,3 @@ Rough and ready
 
 Rough and ready
 Yeah...me and my buddies are all alike
-
-
-

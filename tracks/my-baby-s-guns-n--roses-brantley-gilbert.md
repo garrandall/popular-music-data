@@ -1,8 +1,11 @@
 ---
+album: Just As I Am
 artists:
 - Brantley Gilbert
+external_ids:
+  spotify: spotify:track:0xEGbbtf0SgJxy7aLB7Kc1
 features: []
-genres: []
+first_released_as_single: false
 key: my-baby-s-guns-n--roses-brantley-gilbert
 lyrics_url: https://genius.com/Brantley-gilbert-my-babys-guns-n-roses-lyrics
 name: My Baby's Guns N' Roses
@@ -11,6 +14,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '2014-05-17'
+release_year: 2014
+runtime: 212733
 ---
 You got your hair down
 I got this top back

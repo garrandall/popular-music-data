@@ -1,8 +1,11 @@
 ---
+album: The Bridge
 artists:
 - Billy Joel
+external_ids:
+  spotify: spotify:track:4nG6Z6MNbLksf2YeEHQ5Kw
 features: []
-genres: []
+first_released_as_single: false
 key: this-is-the-time-billy-joel
 lyrics_url: https://genius.com/Billy-joel-this-is-the-time-lyrics
 name: This Is The Time
@@ -75,6 +78,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1987-03-07'
+release_year: 1986
+runtime: 301920
 ---
 We walked on the beach beside that old hotel
 They're tearin' it down now, but it's just as well

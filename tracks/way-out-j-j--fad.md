@@ -1,8 +1,11 @@
 ---
+album: Supersonic The Album
 artists:
 - J.J. Fad
+external_ids:
+  spotify: spotify:track:2bKTM9zRve0Qd8tYYEwtB8
 features: []
-genres: []
+first_released_as_single: false
 key: way-out-j-j--fad
 lyrics_url: https://genius.com/Jj-fad-way-out-lyrics
 name: Way Out
@@ -43,6 +46,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1988-11-12'
+release_year: 1988
+runtime: 169426
 ---
 This jam is way out, way out
 You fake MC's are on your way out

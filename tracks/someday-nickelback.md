@@ -1,8 +1,11 @@
 ---
+album: The Long Road
 artists:
 - Nickelback
+external_ids:
+  spotify: spotify:track:4PkJ7c9y1CwpuVOiJODnCZ
 features: []
-genres: []
+first_released_as_single: false
 key: someday-nickelback
 lyrics_url: https://www.azlyrics.com/lyrics/nickelback/someday.html
 name: Someday
@@ -207,8 +210,9 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2004-07-31'
+release_year: 2003
+runtime: 207466
 ---
-
 How the hell did we wind up like this?
 Why weren't we able, to see the signs that we missed
 And try turn the tables
@@ -273,6 +277,3 @@ I know you're wondering when
 I know you're wondering when
 (You're the only one who knows that)
 I know you're wondering when
-
-
-

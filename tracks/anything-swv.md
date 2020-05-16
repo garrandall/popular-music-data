@@ -1,8 +1,11 @@
 ---
+album: It's About Time
 artists:
 - SWV
+external_ids:
+  spotify: spotify:track:1ib9zzAc7DsTdTtp0LFMS0
 features: []
-genres: []
+first_released_as_single: false
 key: anything-swv
 lyrics_url: https://www.azlyrics.com/lyrics/swv/anythingoldskoolradioversion.html
 name: Anything
@@ -87,10 +90,9 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1994-08-20'
+release_year: 1992
+runtime: 168106
 ---
-
-
-
 I'll give you anything A like that y'all, a like that ya like
 I'll give you anything baby A like that y'all, a like that like that
 I'll give you anything A like that y'all, a like that ya like
@@ -161,4 +163,3 @@ I'll do anything, I'm so into you
 Right here, I win, downtown with the Wu
 Kaboom! Guess who stepped in the room
 The S-S-double-double-U (W) to the V-V
-

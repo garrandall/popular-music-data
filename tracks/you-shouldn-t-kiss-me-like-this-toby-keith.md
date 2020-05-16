@@ -1,8 +1,11 @@
 ---
+album: How Do You Like Me Now?!
 artists:
 - Toby Keith
+external_ids:
+  spotify: spotify:track:5taqvRgn1DdZ117p2DhPXQ
 features: []
-genres: []
+first_released_as_single: false
 key: you-shouldn-t-kiss-me-like-this-toby-keith
 lyrics_url: https://genius.com/Toby-keith-you-shouldnt-kiss-me-like-this-lyrics
 name: You Shouldn't Kiss Me Like This
@@ -87,6 +90,8 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '2001-05-12'
+release_year: 1999
+runtime: 223466
 ---
 I got a funny feelin'
 The moment that your lips touched mine

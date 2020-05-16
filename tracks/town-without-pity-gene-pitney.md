@@ -1,8 +1,11 @@
 ---
+album: Super Hits
 artists:
 - Gene Pitney
+external_ids:
+  spotify: spotify:track:67UXizE2cmFVVDPU4Gl17A
 features: []
-genres: []
+first_released_as_single: false
 key: town-without-pity-gene-pitney
 lyrics_url: https://www.azlyrics.com/lyrics/genepitney/townwithoutpity.html
 name: Town Without Pity
@@ -83,8 +86,9 @@ rankings:
   rank: 52
   ranking_list: Billboard Hot 100
   start_date: '1962-03-10'
+release_year: 1961
+runtime: 174000
 ---
-
 When you're young and so and love as we
 And bewildered by the world we see
 Why do people hurt us so
@@ -113,6 +117,3 @@ How can we keep love alive
 How can anything survive
 When these little minds tear you in two..
 What a town Without Pity can do..
-
-
-

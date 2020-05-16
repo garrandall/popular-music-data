@@ -1,8 +1,11 @@
 ---
+album: Unorthodox Jukebox
 artists:
 - Bruno Mars
+external_ids:
+  spotify: spotify:track:55h7vJchibLdUkxdlX3fK7
 features: []
-genres: []
+first_released_as_single: false
 key: treasure-bruno-mars
 lyrics_url: https://www.azlyrics.com/lyrics/brunomars/treasure.html
 name: Treasure
@@ -99,8 +102,9 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '2013-11-02'
+release_year: 2012
+runtime: 178560
 ---
-
 Baby squirrel, you's a sexy motherfucker
 
 Give me your, give me your, give me your attention, baby
@@ -151,6 +155,3 @@ If you let me treasure you
 If you let me treasure you
 
 (Whoa-oh-oh-h-h-h)
-
-
-

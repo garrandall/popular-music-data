@@ -1,8 +1,11 @@
 ---
+album: Decade Of Gold
 artists:
 - The Moments
+external_ids:
+  spotify: spotify:track:4WwVy99HcdDvqAhwqWWdxw
 features: []
-genres: []
+first_released_as_single: false
 key: walk-right-in-the-moments
 name: Walk Right In
 rankings:
@@ -26,5 +29,7 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1963-02-09'
+release_year: 1963
+runtime: 129600
 ---
 

@@ -1,8 +1,11 @@
 ---
+album: Glen Campbell Goodtime Album
 artists:
 - Glen Campbell
+external_ids:
+  spotify: spotify:track:2eot2orcEQn5wR11DSVcbO
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-only-make-believe-glen-campbell
 lyrics_url: https://www.azlyrics.com/lyrics/glencampbell/itsonlymakebelieve.html
 name: It's Only Make Believe
@@ -55,8 +58,9 @@ rankings:
   rank: 30
   ranking_list: Billboard Hot 100
   start_date: '1970-11-21'
+release_year: 1970
+runtime: 147480
 ---
-
 People see us everywhere
 They think you really care
 But myself I can't deceive
@@ -95,6 +99,3 @@ And my only prayer will be
 That someday you'll care for me
 But it's only make believe
 It's make believe
-
-
-

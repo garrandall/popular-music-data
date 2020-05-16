@@ -1,8 +1,11 @@
 ---
+album: Willy And The Poor Boys
 artists:
 - Creedence Clearwater Revival
+external_ids:
+  spotify: spotify:track:3AUbTWJjqo14Mb6zXgVwU0
 features: []
-genres: []
+first_released_as_single: false
 key: fortunate-son-creedence-clearwater-revival
 lyrics_url: https://www.azlyrics.com/lyrics/creedenceclearwaterrevival/fortunateson.html
 name: Fortunate Son
@@ -23,8 +26,9 @@ rankings:
   rank: 14
   ranking_list: Billboard Hot 100
   start_date: '1969-11-22'
+release_year: 1969
+runtime: 138052
 ---
-
 Some folks are born made to wave the flag
 Oh, they're red, white and blue
 And when the band plays "Hail To The Chief"
@@ -52,6 +56,3 @@ It ain't me, it ain't me; I ain't no fortunate one, one
 
 It ain't me, it ain't me, I ain't no fortunate one, no no no
 It ain't me, it ain't me, I ain't no fortunate son, no no no
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music, The Complete Season One'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:2RF6eSUY1uOWaQjIC4rAFb
 features: []
-genres: []
+first_released_as_single: false
 key: halo-glee-cast
 lyrics_url: https://www.azlyrics.com/lyrics/gleecast/halowalkingonsunshine.html
 name: Halo
@@ -15,9 +18,9 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '2009-10-31'
+release_year: 2009
+runtime: 125013
 ---
-
-
 Remember those walls I built
 Well, baby they're tumbling down
 They didn't even put up a fight
@@ -65,6 +68,3 @@ I can see your halo halo halo
 
 I can see your halo
 HALO!
-
-
-

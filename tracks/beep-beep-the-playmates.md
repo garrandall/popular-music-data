@@ -1,8 +1,11 @@
 ---
+album: 'Right Said Fred: A Barrel Of Laughs'
 artists:
 - The Playmates
+external_ids:
+  spotify: spotify:track:4kbV9t3FO8op15IrpQm5Mz
 features: []
-genres: []
+first_released_as_single: false
 key: beep-beep-the-playmates
 lyrics_url: https://genius.com/The-playmates-beep-beep-lyrics
 name: Beep Beep
@@ -67,6 +70,8 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1959-02-09'
+release_year: 1958
+runtime: 150213
 ---
 While riding in my Cadillac
 What to my surprise

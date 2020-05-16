@@ -1,8 +1,11 @@
 ---
+album: Goin' Out Of My Head
 artists:
 - Little Anthony And The Imperials
+external_ids:
+  spotify: spotify:track:2mws4tIE5QT2b345hoCe0x
 features: []
-genres: []
+first_released_as_single: false
 key: hurt-little-anthony-and-the-imperials
 lyrics_url: https://genius.com/Little-anthony-and-the-imperials-hurt-lyrics
 name: Hurt
@@ -31,6 +34,8 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '1966-02-05'
+release_year: 1964
+runtime: 139840
 ---
 I'm so hurt
 To think that you lied to me

@@ -1,8 +1,11 @@
 ---
+album: ye
 artists:
 - Kanye West
+external_ids:
+  spotify: spotify:track:35KV2Nuib6jPMVN00O8iba
 features: []
-genres: []
+first_released_as_single: false
 key: no-mistakes-kanye-west
 lyrics_url: https://genius.com/Kanye-west-no-mistakes-lyrics
 name: No Mistakes
@@ -11,6 +14,8 @@ rankings:
   rank: 36
   ranking_list: Billboard Hot 100
   start_date: '2018-06-16'
+release_year: 2018
+runtime: 123040
 ---
 Believe it or not
 Believe it or not

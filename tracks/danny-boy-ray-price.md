@@ -1,8 +1,11 @@
 ---
+album: Danny Boy
 artists:
 - Ray Price
+external_ids:
+  spotify: spotify:track:6S1aUSFAgqU4GH2BMPT2sZ
 features: []
-genres: []
+first_released_as_single: false
 key: danny-boy-ray-price
 lyrics_url: https://www.azlyrics.com/lyrics/rayprice/dannyboy.html
 name: Danny Boy
@@ -39,8 +42,9 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '1967-05-13'
+release_year: 1954
+runtime: 184440
 ---
-
 Oh, Danny boy, the pipes, the pipes are calling,
 From glen to glen and down the mountainside.
 The summer's gone and all the flow'rs are dying,
@@ -57,4 +61,3 @@ And I shall hear, though soft you tread above me,
 And all my dreams will warm and sweeter be.
 If you only tell me that you love me,
 Then I will sleep in peace until you come to me.
-

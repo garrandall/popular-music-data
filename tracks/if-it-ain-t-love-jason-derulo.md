@@ -1,8 +1,11 @@
 ---
+album: If It Ain't Love
 artists:
 - Jason Derulo
+external_ids:
+  spotify: spotify:track:5YHR8wBR5jXfGtP766NiAT
 features: []
-genres: []
+first_released_as_single: true
 key: if-it-ain-t-love-jason-derulo
 lyrics_url: https://genius.com/Jason-derulo-if-it-aint-love-lyrics
 name: If It Ain't Love
@@ -39,6 +42,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '2016-06-18'
+release_year: 2016
+runtime: 203105
 ---
 (Could use a little love)
 (Why can't you get enough?)

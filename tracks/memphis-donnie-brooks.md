@@ -1,8 +1,11 @@
 ---
+album: The Best of Donnie Brooks
 artists:
 - Donnie Brooks
+external_ids:
+  spotify: spotify:track:5fkKuXI7T5bXNfv7kQ63tB
 features: []
-genres: []
+first_released_as_single: false
 key: memphis-donnie-brooks
 lyrics_url: https://www.musixmatch.com/lyrics/Donnie-Brooks/Memphis
 name: Memphis
@@ -15,6 +18,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1961-03-20'
+release_year: 1961
+runtime: 123000
 ---
 They say all the pretty girls
 Come from Louisville

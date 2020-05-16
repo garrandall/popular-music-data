@@ -1,8 +1,11 @@
 ---
+album: Real Live Woman
 artists:
 - Trisha Yearwood
+external_ids:
+  spotify: spotify:track:3a1zG1WBUNifXQjBKzsgSm
 features: []
-genres: []
+first_released_as_single: false
 key: real-live-woman-trisha-yearwood
 lyrics_url: https://www.azlyrics.com/lyrics/trishayearwood/reallivewoman.html
 name: Real Live Woman
@@ -31,8 +34,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2000-05-06'
+release_year: 2000
+runtime: 234400
 ---
-
 I don't buy the lines in magazines
 That tell me what I've gotta be
 Don't base my life on a movie screen
@@ -76,6 +80,3 @@ This real live woman
 In the arms of a man where I'll fall asleep knowin' there's
 Nothin' on earth he loves more than
 This real live woman
-
-
-

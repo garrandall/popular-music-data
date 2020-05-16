@@ -1,8 +1,11 @@
 ---
+album: Last Kiss
 artists:
 - Wednesday
+external_ids:
+  spotify: spotify:track:1pGlto2dqYjBc7TECAmYgU
 features: []
-genres: []
+first_released_as_single: false
 key: last-kiss-wednesday
 lyrics_url: https://genius.com/Wednesday-singer-last-kiss-lyrics
 name: Last Kiss
@@ -79,6 +82,8 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1974-03-23'
+release_year: 1973
+runtime: 156733
 ---
 Well, where oh where can my baby be?
 The Lord took her away from me

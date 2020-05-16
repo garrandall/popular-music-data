@@ -1,8 +1,11 @@
 ---
+album: A Love Letter To You 4
 artists:
 - Trippie Redd
+external_ids:
+  spotify: spotify:track:0X1VSToxgqA7HgjaaSmIKO
 features: []
-genres: []
+first_released_as_single: true
 key: who-needs-love-trippie-redd
 lyrics_url: https://www.azlyrics.com/lyrics/trippieredd/whoneedslove.html
 name: Who Needs Love
@@ -15,8 +18,9 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '2019-12-14'
+release_year: 2019
+runtime: 158532
 ---
-
 Yeah
 Fuck your love, fuck it, I don't want none of it (Yeah)
 Fuck your trust, fuck it, I don't want none of it, no (Yeah)
@@ -59,6 +63,3 @@ I been rolling 'round with the gang bitch
 Fuck your squad and who you came with
 In a foreign car, switching lanes quick
 And I'm destined for this fucking greatness, ayy
-
-
-

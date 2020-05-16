@@ -1,10 +1,13 @@
 ---
+album: Heartbreak on a Full Moon
 artists:
 - Chris Brown
+external_ids:
+  spotify: spotify:track:0g5ozYi9T0yJEl2cjrrXdb
 features:
 - Usher
 - Gucci Mane
-genres: []
+first_released_as_single: true
 key: party-chris-brown-usher-gucci-mane
 lyrics_url: https://www.azlyrics.com/lyrics/chrisbrown/party.html
 name: Party
@@ -89,9 +92,9 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '2017-05-20'
+release_year: 2016
+runtime: 220813
 ---
-
-
 Oh, hey
 Yeah, it's Breezy
 Yeah, yeah, yeah
@@ -169,6 +172,3 @@ How to party, yeah, we know how to party
 How to party, yeah, we know how to party
 How to party, yeah, we know how to party
 How to party, yeah, we know how to party
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: The Complete Hits Of Vic Dana
 artists:
 - Vic Dana
+external_ids:
+  spotify: spotify:track:7dHlQJqO7UWa9E2Vm9Z5S0
 features: []
-genres: []
+first_released_as_single: false
 key: bring-a-little-sunshine--to-my-heart--vic-dana
 lyrics_url: https://genius.com/Vic-dana-bring-a-little-sunshine-to-my-heart-lyrics
 name: Bring A Little Sunshine (To My Heart)
@@ -31,6 +34,8 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '1965-06-26'
+release_year: 1965
+runtime: 158253
 ---
 Bring a little sunshine to my heart
 Just before you say goodbye

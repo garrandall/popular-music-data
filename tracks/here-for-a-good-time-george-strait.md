@@ -1,8 +1,11 @@
 ---
+album: Here For A Good Time
 artists:
 - George Strait
+external_ids:
+  spotify: spotify:track:11OFYsUK9EVJsQ6nutH32M
 features: []
-genres: []
+first_released_as_single: false
 key: here-for-a-good-time-george-strait
 lyrics_url: https://www.azlyrics.com/lyrics/georgestrait/hereforagoodtime.html
 name: Here For A Good Time
@@ -87,8 +90,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2011-11-26'
+release_year: 2011
+runtime: 180266
 ---
-
 I'm not gonna lay around and whine and moan
 'Cause somebody done done me wrong
 Don't think for a minute that I'm gonna sit around
@@ -134,6 +138,3 @@ I ain't here for a long time
 I'm here for a good time
 I ain't here for a long time
 I'm here for a good time
-
-
-

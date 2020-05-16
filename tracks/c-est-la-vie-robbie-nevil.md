@@ -1,8 +1,11 @@
 ---
+album: Robbie Nevil
 artists:
 - Robbie Nevil
+external_ids:
+  spotify: spotify:track:7nx6bmfojpAW4SCwoZM13B
 features: []
-genres: []
+first_released_as_single: false
 key: c-est-la-vie-robbie-nevil
 lyrics_url: https://genius.com/Robbie-nevil-cest-la-vie-lyrics
 name: C'est La Vie
@@ -99,6 +102,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1987-03-14'
+release_year: 1986
+runtime: 270306
 ---
 Got a job
 That's O.K

@@ -1,9 +1,12 @@
 ---
+album: Double Vision
 artists:
 - Prince Royce
+external_ids:
+  spotify: spotify:track:1IDF4jYiuI17U4BW23EoXV
 features:
 - Snoop Dogg
-genres: []
+first_released_as_single: false
 key: stuck-on-a-feeling-prince-royce-snoop-dogg
 lyrics_url: https://www.azlyrics.com/lyrics/princeroyce/stuckonafeeling.html
 name: Stuck On A Feeling
@@ -48,8 +51,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2015-03-14'
+release_year: 2015
+runtime: 210800
 ---
-
 Prince Royce
 Big Snoop Dogg
 She got me stuck on a feeling
@@ -178,6 +182,3 @@ Stuck on a
 Stuck on a
 Stuck on a
 Stuck on a feeling
-
-
-

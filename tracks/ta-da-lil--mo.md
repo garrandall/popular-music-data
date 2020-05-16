@@ -1,8 +1,11 @@
 ---
+album: Hip Hop Soul
 artists:
 - Lil' Mo
+external_ids:
+  spotify: spotify:track:0FldnT6UDWgwXjm9DKgkQy
 features: []
-genres: []
+first_released_as_single: false
 key: ta-da-lil--mo
 lyrics_url: https://genius.com/Lil-mo-ta-da-lyrics
 name: Ta Da
@@ -35,6 +38,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2000-09-23'
+release_year: 2000
+runtime: 262254
 ---
 Ta Da
 Tryna make you disappear

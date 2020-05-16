@@ -1,8 +1,11 @@
 ---
+album: An Intimate Evening With Anne Murray...Live
 artists:
 - Anne Murray
+external_ids:
+  spotify: spotify:track:7BCgPuJDZgPwOv1E4p6Cvq
 features: []
-genres: []
+first_released_as_single: false
 key: could-i-have-this-dance-anne-murray
 lyrics_url: https://www.azlyrics.com/lyrics/annemurray/couldihavethisdance.html
 name: Could I Have This Dance
@@ -63,8 +66,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1980-12-06'
+release_year: 1980
+runtime: 196466
 ---
-
 I'll always remember,
 the song they were playing,
 The first time we danced and I knew
@@ -108,6 +112,3 @@ when we're together
 it feels so right,
 Could I have this dance
 for the rest of my life!
-
-
-

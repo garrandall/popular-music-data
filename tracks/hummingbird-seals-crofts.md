@@ -1,9 +1,12 @@
 ---
+album: Summer Breeze
 artists:
 - Seals
 - Crofts
+external_ids:
+  spotify: spotify:track:0X5NtrCEqriFUemE5TQ9zC
 features: []
-genres: []
+first_released_as_single: false
 key: hummingbird-seals-crofts
 lyrics_url: https://www.azlyrics.com/lyrics/sealscrofts/hummingbird.html
 name: Hummingbird
@@ -60,8 +63,9 @@ rankings:
   rank: 28
   ranking_list: Billboard Hot 100
   start_date: '1973-04-14'
+release_year: 1972
+runtime: 273346
 ---
-
 Oh hummingbird, mankind was waiting for you to come flying along.
 Heavenly songbird, we were so wrong. We've harmed you.
 Oh hummingbird, lend us your wings. Let us soar in the atmosphere of Abha.
@@ -87,6 +91,3 @@ Alas, here comes the "Gardener"; he's come to till the flowers
 ...
 The draught of understanding; wisdom, peace and love is ours.
 Hummingbird don't fly away, fly away. Hummingbird don't fly away, fly away.
-
-
-

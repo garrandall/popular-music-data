@@ -1,9 +1,12 @@
 ---
+album: Masquerade
 artists:
 - Wyclef Jean
+external_ids:
+  spotify: spotify:track:3Caqde8QQ0maYcje7f3kfR
 features:
 - Claudette Ortiz
-genres: []
+first_released_as_single: false
 key: two-wrongs-wyclef-jean-claudette-ortiz
 lyrics_url: https://www.azlyrics.com/lyrics/wyclefjean/twowrongs.html
 name: Two Wrongs
@@ -88,9 +91,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2002-11-23'
+release_year: 1997
+runtime: 230733
 ---
-
-
 I'm just sitting here playing the guitar
 (City High. Claudette. Wyclef)
 
@@ -206,6 +209,3 @@ I'm gonna show you
 (Show me, yeah)
 I ain't gon' stay around the block no more
 I'll come home early, girl, I promise
-
-
-

@@ -1,11 +1,14 @@
 ---
+album: Planet Pit (Deluxe Version)
 artists:
 - Pitbull
+external_ids:
+  spotify: spotify:track:1EjM7hKcZPgdFhJ3mxeLq4
 features:
 - Ne-Yo
 - Afrojack
 - Nayer
-genres: []
+first_released_as_single: true
 key: give-me-everything-pitbull-ne-yo-afrojack-nayer
 lyrics_url: https://www.azlyrics.com/lyrics/pitbull/givemeeverything.html
 name: Give Me Everything
@@ -190,9 +193,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2012-02-18'
+release_year: 2011
+runtime: 340920
 ---
-
-
 Me not working hard?
 Yeah, right! Picture that with a Kodak
 Or, better yet, go to Times Square
@@ -246,7 +249,7 @@ Put it on my life, baby,
 I make you feel right, baby
 Can't promise tomorrow
 But, I promise tonight
-DalÃ©
+Dalé
 
 
 Excuse me (excuse me)
@@ -300,7 +303,7 @@ Put it on my life, baby
 I make you feel right, baby
 Can't promise tomorrow
 But, I promise tonight
-DalÃ©
+Dalé
 
 
 Excuse me (excuse me)
@@ -342,6 +345,3 @@ And I might drink a little more than I should tonight
 And I might take you home with me if I could tonight
 And baby Ima make you feel so good tonight
 Cause we might not get tomorrow
-
-
-

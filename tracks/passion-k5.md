@@ -1,8 +1,11 @@
 ---
+album: Passion
 artists:
 - K5
+external_ids:
+  spotify: spotify:track:3cHxfNznhPp0GRBTm4pcW7
 features: []
-genres: []
+first_released_as_single: false
 key: passion-k5
 lyrics_url: https://genius.com/K5-passion-annotated
 name: Passion
@@ -19,6 +22,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1997-02-22'
+release_year: 1996
+runtime: 246012
 ---
 Umm, uh, uh
 Yes... again!

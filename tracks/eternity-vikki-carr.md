@@ -1,8 +1,11 @@
 ---
+album: 'The Best Of Vikki Carr: It Must Be Him'
 artists:
 - Vikki Carr
+external_ids:
+  spotify: spotify:track:5h6JA5GqW2kgq82RfEeptY
 features: []
-genres: []
+first_released_as_single: false
 key: eternity-vikki-carr
 lyrics_url: https://www.musixmatch.com/lyrics/Vikki-Carr/Eternity
 name: Eternity
@@ -23,6 +26,8 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1969-10-25'
+release_year: 1969
+runtime: 216093
 ---
 Kuthi obshi mannal sun objanha
 Uimiobshi to michyogalpun

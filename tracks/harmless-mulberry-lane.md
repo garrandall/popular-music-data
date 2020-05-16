@@ -1,8 +1,11 @@
 ---
+album: Run Your Own Race
 artists:
 - Mulberry Lane
+external_ids:
+  spotify: spotify:track:2A1147VNdojpG20qZscTKG
 features: []
-genres: []
+first_released_as_single: false
 key: harmless-mulberry-lane
 lyrics_url: https://genius.com/Mulberry-lane-harmless-lyrics
 name: Harmless
@@ -19,6 +22,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1999-05-22'
+release_year: 1999
+runtime: 230426
 ---
 I apologize (baby)
 I couldn't describe how I hurt inside

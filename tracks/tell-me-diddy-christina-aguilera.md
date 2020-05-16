@@ -1,9 +1,12 @@
 ---
+album: Press Play
 artists:
 - Diddy
+external_ids:
+  spotify: spotify:track:4B37UZR66U30RBo1akamhJ
 features:
 - Christina Aguilera
-genres: []
+first_released_as_single: true
 key: tell-me-diddy-christina-aguilera
 lyrics_url: https://www.azlyrics.com/lyrics/diddy/tellme.html
 name: Tell Me
@@ -88,9 +91,9 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '2007-03-17'
+release_year: 2006
+runtime: 246146
 ---
-
-
 Can you feel me
 Do that shit do that shit do it
 Do that shit do that shit do it
@@ -227,6 +230,3 @@ Do that shit do that shit do it
 Do that shit do that shit do it
 Do that shit do that shit do it
 Do that shit do that shit do it
-
-
-

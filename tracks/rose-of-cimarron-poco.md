@@ -1,8 +1,11 @@
 ---
+album: Rose Of Cimarron
 artists:
 - Poco
+external_ids:
+  spotify: spotify:track:6F6wNXQ5MSL2uH96sB6Mmv
 features: []
-genres: []
+first_released_as_single: false
 key: rose-of-cimarron-poco
 lyrics_url: https://www.azlyrics.com/lyrics/poco/roseofcimarron.html
 name: Rose Of Cimarron
@@ -11,8 +14,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1976-08-14'
+release_year: 1976
+runtime: 402346
 ---
-
 Roll along, roll on
 Rose of Cimarron
 Dusty days are gone
@@ -65,6 +69,3 @@ Hearts like yours belong
 Following the dawn
 Wrapped up in a song
 Rose of Cimarron
-
-
-

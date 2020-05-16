@@ -1,8 +1,11 @@
 ---
+album: No Parking on the Dance Floor
 artists:
 - Midnight Star
+external_ids:
+  spotify: spotify:track:42UpH9fz5utv8tkvOgh5Qb
 features: []
-genres: []
+first_released_as_single: false
 key: freak-a-zoid-midnight-star
 lyrics_url: https://genius.com/Midnight-star-freak-a-zoid-lyrics
 name: Freak-A-Zoid
@@ -39,6 +42,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1983-10-08'
+release_year: 1983
+runtime: 485013
 ---
 Freak-A-Zoids, robots, please report
 Freak-A-Zoids, robots, please report to the dance floor

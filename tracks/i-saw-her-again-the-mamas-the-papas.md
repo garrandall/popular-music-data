@@ -1,9 +1,12 @@
 ---
+album: The Mamas & The Papas
 artists:
 - The Mamas
 - The Papas
+external_ids:
+  spotify: spotify:track:2UizutYVqaB33jCHbSoi0d
 features: []
-genres: []
+first_released_as_single: false
 key: i-saw-her-again-the-mamas-the-papas
 lyrics_url: https://genius.com/The-mamas-and-the-papas-i-saw-her-again-lyrics
 name: I Saw Her Again
@@ -44,6 +47,8 @@ rankings:
   rank: 33
   ranking_list: Billboard Hot 100
   start_date: '1966-08-27'
+release_year: 1966
+runtime: 193746
 ---
 I saw her again last night
 And you know that I shouldn't

@@ -1,8 +1,11 @@
 ---
+album: Italian X Rays
 artists:
 - Steve Miller
+external_ids:
+  spotify: spotify:track:7fOTrIJx0UPA2hKCTSGC3M
 features: []
-genres: []
+first_released_as_single: false
 key: bongo-bongo-steve-miller
 lyrics_url: https://www.azlyrics.com/lyrics/stevemillerband/bongobongo.html
 name: Bongo Bongo
@@ -19,8 +22,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1985-03-02'
+release_year: 1984
+runtime: 191986
 ---
-
 Ba Ba Ba Ba Ba Ba Bongo Bongo
 Ba Ba Ba Bongo Bongo
 Ba Ba Ba Bongo Bongo
@@ -118,6 +122,3 @@ When my baby gets ready to dance, to dance, to dance
 Yeah, modern jazz
 
 Ba Ba Ba Bongo Bongo
-
-
-

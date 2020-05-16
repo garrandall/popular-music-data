@@ -1,8 +1,11 @@
 ---
+album: Brownsville Station
 artists:
 - Brownsville Station
+external_ids:
+  spotify: spotify:track:1ri1yRaL0oxTqWUHUo9HU5
 features: []
-genres: []
+first_released_as_single: false
 key: the-martian-boogie-brownsville-station
 lyrics_url: https://www.azlyrics.com/lyrics/brownsvillestation/themartianboogie.html
 name: The Martian Boogie
@@ -35,8 +38,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1977-10-01'
+release_year: 1977
+runtime: 418021
 ---
-
 The other night I was
 Walking down the street
 I was getting kinda hungry
@@ -117,6 +121,3 @@ Don't have to work
 Yeah, I feel so good
 Yeah, yeah, gonna boogie
 Martian boogie
-
-
-

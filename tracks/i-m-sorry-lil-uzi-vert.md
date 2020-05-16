@@ -1,8 +1,11 @@
 ---
+album: Eternal Atake
 artists:
 - Lil Uzi Vert
+external_ids:
+  spotify: spotify:track:1xcOYJxDa5pObgxY1r0I9c
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-sorry-lil-uzi-vert
 lyrics_url: https://genius.com/Lil-uzi-vert-im-sorry-lyrics
 name: I'm Sorry
@@ -11,6 +14,8 @@ rankings:
   rank: 37
   ranking_list: Billboard Hot 100
   start_date: '2020-03-21'
+release_year: 2020
+runtime: 211882
 ---
 You keep calling me like I really wanna be messin' with, like— (Sorry if my words messed up your head)
 I done told you I was sorry, I don't always mean it, but I said it just to shut you up 'cause you trippin'

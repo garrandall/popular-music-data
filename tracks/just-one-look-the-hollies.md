@@ -1,8 +1,11 @@
 ---
+album: 1960s Pop
 artists:
 - The Hollies
+external_ids:
+  spotify: spotify:track:2liqD6hfL4uNzqMeY9iYaK
 features: []
-genres: []
+first_released_as_single: false
 key: just-one-look-the-hollies
 lyrics_url: https://www.azlyrics.com/lyrics/hollies/justonelook.html
 name: Just One Look
@@ -39,9 +42,9 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1967-11-11'
+release_year: 1964
+runtime: 148173
 ---
-
-
 Just one look
 I felt so I, I, I'm in love
 With you
@@ -72,6 +75,3 @@ I'll get you some day
 
 Just one look, that's all it took
 Just one look
-
-
-

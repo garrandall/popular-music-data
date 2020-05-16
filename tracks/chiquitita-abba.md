@@ -1,8 +1,11 @@
 ---
+album: Voulez-Vous
 artists:
 - ABBA
+external_ids:
+  spotify: spotify:track:4g5LUzHFRr4Zlok8KzERmI
 features: []
-genres: []
+first_released_as_single: false
 key: chiquitita-abba
 lyrics_url: https://www.azlyrics.com/lyrics/abba/chiquitita.html
 name: Chiquitita
@@ -55,8 +58,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1980-01-26'
+release_year: 1979
+runtime: 327040
 ---
-
 Chiquitita, tell me what's wrong
 You're enchained by your own sorrow
 In your eyes there is no hope for tomorrow
@@ -101,6 +105,3 @@ Try once more like you did before
 Sing a new song, Chiquitita
 Try once more like you did before
 Sing a new song, Chiquitita
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: The Best Of Chubby Checker 1959-1963
 artists:
 - Chubby Checker
+external_ids:
+  spotify: spotify:track:2U6pZAifYuQWgtOsXh0QX2
 features: []
-genres: []
+first_released_as_single: false
 key: the-class-chubby-checker
 lyrics_url: https://genius.com/Chubby-checker-the-class-lyrics
 name: The Class
@@ -35,6 +38,8 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '1959-06-29'
+release_year: 1959
+runtime: 134333
 ---
 Here come the teacher now
 Alright class let's all be seated

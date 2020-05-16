@@ -1,8 +1,11 @@
 ---
+album: 3+3
 artists:
 - The Isley Brothers
+external_ids:
+  spotify: spotify:track:61YBougklegLvlUPuohXUo
 features: []
-genres: []
+first_released_as_single: false
 key: that-lady--part-1--the-isley-brothers
 lyrics_url: https://genius.com/The-isley-brothers-that-lady-live-lyrics
 name: That Lady (Part 1)
@@ -87,6 +90,8 @@ rankings:
   rank: 34
   ranking_list: Billboard Hot 100
   start_date: '1973-11-24'
+release_year: 1968
+runtime: 333706
 ---
 Who's that lady
 Beautiful lady

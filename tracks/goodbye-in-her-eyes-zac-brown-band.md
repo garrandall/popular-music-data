@@ -1,8 +1,11 @@
 ---
+album: Uncaged
 artists:
 - Zac Brown Band
+external_ids:
+  spotify: spotify:track:5rIuVlKlLCfuQyt5eyzxOy
 features: []
-genres: []
+first_released_as_single: false
 key: goodbye-in-her-eyes-zac-brown-band
 lyrics_url: https://www.musixmatch.com/lyrics/Zac-Brown-Band/Goodbye-in-Her-Eyes
 name: Goodbye In Her Eyes
@@ -87,6 +90,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2013-03-09'
+release_year: 2012
+runtime: 324266
 ---
 I could tell that it was over
 When her lips met mine

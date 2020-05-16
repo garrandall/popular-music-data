@@ -1,8 +1,11 @@
 ---
+album: Errrbody
 artists:
 - Yo Gotti
+external_ids:
+  spotify: spotify:track:3ndumr5hw721OmT5opZ5Zl
 features: []
-genres: []
+first_released_as_single: true
 key: errrbody-yo-gotti
 lyrics_url: https://genius.com/Yo-gotti-errrbody-lyrics
 name: Errrbody
@@ -11,6 +14,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2014-10-25'
+release_year: 2014
+runtime: 261133
 ---
 Errybody
 This shit here for errbody, errbody

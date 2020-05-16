@@ -1,8 +1,11 @@
 ---
+album: The Best Of Joe Dowell
 artists:
 - Joe Dowell
+external_ids:
+  spotify: spotify:track:5mPYngp8SBhJlwkBA718BJ
 features: []
-genres: []
+first_released_as_single: false
 key: the-bridge-of-love-joe-dowell
 name: The Bridge Of Love
 rankings:
@@ -34,5 +37,7 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1961-11-27'
+release_year: 1961
+runtime: 115826
 ---
 

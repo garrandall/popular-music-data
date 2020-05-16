@@ -1,8 +1,11 @@
 ---
+album: It Happened In The Seventies
 artists:
 - Peter Mccann
+external_ids:
+  spotify: spotify:track:4DUFUieDxJbgt6aKuFFXWZ
 features: []
-genres: []
+first_released_as_single: false
 key: do-you-wanna-make-love-peter-mccann
 lyrics_url: https://genius.com/Peter-mccann-do-you-wanna-make-love-lyrics
 name: Do You Wanna Make Love
@@ -95,6 +98,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1977-09-17'
+release_year: 1977
+runtime: 204400
 ---
 Sometimes the love rhymes that fill that afternoon
 Lose all their meaning with the rising moon

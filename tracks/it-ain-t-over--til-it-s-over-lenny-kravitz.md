@@ -1,8 +1,11 @@
 ---
+album: Mama Said
 artists:
 - Lenny Kravitz
+external_ids:
+  spotify: spotify:track:6VnpKLtfNH4Dk09YSGPSyR
 features: []
-genres: []
+first_released_as_single: false
 key: it-ain-t-over--til-it-s-over-lenny-kravitz
 lyrics_url: https://genius.com/Lenny-kravitz-it-aint-over-til-its-over-lyrics
 name: It Ain't Over 'til It's Over
@@ -83,6 +86,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1991-10-12'
+release_year: 1991
+runtime: 242640
 ---
 Here we are still together
 We are one

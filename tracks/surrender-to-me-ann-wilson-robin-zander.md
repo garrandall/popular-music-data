@@ -1,9 +1,12 @@
 ---
+album: Greatest Hits 1985-1995
 artists:
 - Ann Wilson
 - Robin Zander
+external_ids:
+  spotify: spotify:track:0Mqlf5OTGoeUgoeqL1Mzew
 features: []
-genres: []
+first_released_as_single: false
 key: surrender-to-me-ann-wilson-robin-zander
 lyrics_url: https://genius.com/Ann-wilson-and-robin-zander-surrender-to-me-lyrics
 name: Surrender To Me
@@ -84,6 +87,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1989-04-29'
+release_year: 1988
+runtime: 244733
 ---
 Is it that we've been together much too long?
 The answer may not be in black and white

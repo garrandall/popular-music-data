@@ -1,8 +1,11 @@
 ---
+album: 'One More Time : The Chess Years'
 artists:
 - Billy Stewart
+external_ids:
+  spotify: spotify:track:1LziKsFJM2A0Uu68gtKWGH
 features: []
-genres: []
+first_released_as_single: false
 key: secret-love-billy-stewart
 lyrics_url: https://genius.com/Billy-stewart-secret-love-lyrics
 name: Secret Love
@@ -39,6 +42,8 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '1966-12-03'
+release_year: 1966
+runtime: 181000
 ---
 Once I had a secret love
 That lived within the heart of me

@@ -1,9 +1,12 @@
 ---
+album: Rebirth
 artists:
 - Jennifer Lopez
+external_ids:
+  spotify: spotify:track:2GmGrUKqIPQDGqNFh9ovvB
 features:
 - Fat Joe
-genres: []
+first_released_as_single: true
 key: hold-you-down-jennifer-lopez-fat-joe
 lyrics_url: https://www.azlyrics.com/lyrics/jenniferlopez/holdyoudown.html
 name: Hold You Down
@@ -40,11 +43,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2005-05-07'
+release_year: 2005
+runtime: 272000
 ---
-
-
-
-
 Now you've been holding me down
 For such a long time now
 From back then
@@ -185,6 +186,3 @@ Whenever you down
 You know that you can lean on me
 No matter the situation
 I'm gon' hold you down
-
-
-

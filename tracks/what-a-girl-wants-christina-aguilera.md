@@ -1,8 +1,11 @@
 ---
+album: Christina Aguilera
 artists:
 - Christina Aguilera
+external_ids:
+  spotify: spotify:track:5bGmuxShUba9maPswDnhCs
 features: []
-genres: []
+first_released_as_single: false
 key: what-a-girl-wants-christina-aguilera
 lyrics_url: https://www.azlyrics.com/lyrics/christinaaguilera/whatagirlwants.html
 name: What A Girl Wants
@@ -103,8 +106,9 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '2000-05-06'
+release_year: 1999
+runtime: 215800
 ---
-
 What a girl wants, what a girl needs.
 Yeah, come on.
 
@@ -175,6 +179,3 @@ What a girl needs
 Whatever keeps me in your arms
 And I'm thanking you for being there for me
 Yeah Yeah
-
-
-

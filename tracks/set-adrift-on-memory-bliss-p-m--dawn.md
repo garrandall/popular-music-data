@@ -1,8 +1,11 @@
 ---
+album: Latest & Greatest
 artists:
 - P.M. Dawn
+external_ids:
+  spotify: spotify:track:20hFIZmh25v87pyUeOllNt
 features: []
-genres: []
+first_released_as_single: false
 key: set-adrift-on-memory-bliss-p-m--dawn
 lyrics_url: https://www.azlyrics.com/lyrics/pmdawn/setadriftonmemorybliss.html
 name: Set Adrift On Memory Bliss
@@ -87,8 +90,9 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '1992-02-29'
+release_year: 1991
+runtime: 235800
 ---
-
 Set adrift on memory bliss of you
 Baby you send me
 Baby you send me
@@ -99,7 +103,7 @@ Behind a blind of plastic plants
 I found the lady with the fat diamond ring
 Then you know I can't remember a damn thing
 
-I think its one of those dÃ©jÃ  vu things
+I think its one of those déjÃ  vu things
 Or a dream that's trying to tell me something
 Or will I ever stop thinking about it
 I don't know, I doubt it
@@ -176,6 +180,3 @@ Set adrift on memory bliss of you
 Baby you send me
 Baby you send me
 Set adrift on memory bliss of you
-
-
-

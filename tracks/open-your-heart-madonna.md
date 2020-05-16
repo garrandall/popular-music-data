@@ -1,8 +1,11 @@
 ---
+album: True Blue (Reissue)
 artists:
 - Madonna
+external_ids:
+  spotify: spotify:track:6poribUG9PSY1eudyCjJTS
 features: []
-genres: []
+first_released_as_single: false
 key: open-your-heart-madonna
 lyrics_url: https://genius.com/Madonna-open-your-heart-lyrics
 name: Open Your Heart
@@ -79,6 +82,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1987-04-04'
+release_year: 1986
+runtime: 253066
 ---
 I see you on the street, and you walk on by
 You make me wanna hang my head down and cry

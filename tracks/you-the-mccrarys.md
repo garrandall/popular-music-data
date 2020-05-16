@@ -1,8 +1,11 @@
 ---
+album: On the Other Side
 artists:
 - The McCrarys
+external_ids:
+  spotify: spotify:track:7Jbgi5C4MAsUMbePGsKaZZ
 features: []
-genres: []
+first_released_as_single: false
 key: you-the-mccrarys
 name: You
 rankings:
@@ -38,5 +41,7 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1978-10-07'
+release_year: 1978
+runtime: 233946
 ---
 

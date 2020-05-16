@@ -1,8 +1,11 @@
 ---
+album: 'Playlist: The Very Best Of Alan Jackson'
 artists:
 - Alan Jackson
+external_ids:
+  spotify: spotify:track:1M1HscO3JywTvswsVx1GcI
 features: []
-genres: []
+first_released_as_single: false
 key: remember-when-alan-jackson
 lyrics_url: https://www.azlyrics.com/lyrics/alanjackson/rememberwhen.html
 name: Remember When
@@ -87,8 +90,9 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '2004-04-24'
+release_year: 1991
+runtime: 270680
 ---
-
 Remember when
 I was young and so were you
 And time stood still and love was all we knew
@@ -133,6 +137,3 @@ And we'll remember when
 
 Remember when
 Remember when
-
-
-

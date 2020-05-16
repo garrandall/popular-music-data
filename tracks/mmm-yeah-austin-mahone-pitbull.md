@@ -1,9 +1,12 @@
 ---
+album: The Secret
 artists:
 - Austin Mahone
+external_ids:
+  spotify: spotify:track:2n3CaPGPLYnYAvTEwKCX8t
 features:
 - Pitbull
-genres: []
+first_released_as_single: false
 key: mmm-yeah-austin-mahone-pitbull
 lyrics_url: https://genius.com/Austin-mahone-mmm-yeah-lyrics
 name: Mmm Yeah
@@ -68,6 +71,8 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '2014-06-14'
+release_year: 2014
+runtime: 231624
 ---
 Austin M, keep doing your thing
 Let these boys keep slippin', man

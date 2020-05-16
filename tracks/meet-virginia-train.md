@@ -1,8 +1,11 @@
 ---
+album: Train
 artists:
 - Train
+external_ids:
+  spotify: spotify:track:4ocbH5ZJqajZIpUrqRUoue
 features: []
-genres: []
+first_released_as_single: false
 key: meet-virginia-train
 lyrics_url: https://www.azlyrics.com/lyrics/train/meetvirginia.html
 name: Meet Virginia
@@ -115,8 +118,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2000-04-08'
+release_year: 1998
+runtime: 239933
 ---
-
 She doesn't own a dress
 Her hair is always a mess
 If you catch her stealin' she won't confess
@@ -180,6 +184,3 @@ Pulls her hair back as she screams,
 I don't really wanna be the queen
 I don't really wanna be the queen
 I don't really wanna live this
-
-
-

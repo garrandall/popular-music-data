@@ -1,8 +1,11 @@
 ---
+album: Up Your Alley
 artists:
 - Joan Jett & the Blackhearts
+external_ids:
+  spotify: spotify:track:4vJA1dKEANqonKblxbC8MP
 features: []
-genres: []
+first_released_as_single: false
 key: i-hate-myself-for-loving-you-joan-jett-the-blackhearts
 lyrics_url: https://genius.com/Joan-jett-and-the-blackhearts-i-hate-myself-for-loving-you-lyrics
 name: I Hate Myself For Loving You
@@ -111,6 +114,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1988-12-17'
+release_year: 1975
+runtime: 246466
 ---
 Midnight, gettin' uptight, where are you?
 You said you'd meet me, now it's quarter to two

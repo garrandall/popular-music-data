@@ -1,8 +1,11 @@
 ---
+album: EV3
 artists:
 - En Vogue
+external_ids:
+  spotify: spotify:track:2IOjsucrORGHHlqIlF3OAF
 features: []
-genres: []
+first_released_as_single: false
 key: too-gone-too-long-en-vogue
 lyrics_url: https://www.azlyrics.com/lyrics/envogue/toogonetoolong.html
 name: Too Gone Too Long
@@ -75,9 +78,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1998-01-31'
+release_year: 1997
+runtime: 282693
 ---
-
-
 Did I hear you say that
 You want another chance
 You need another try
@@ -118,4 +121,3 @@ Oh baby just like that
 Someone new is loving me
 Loving you is what used to be
 Baby you're too late to win my heart again
-

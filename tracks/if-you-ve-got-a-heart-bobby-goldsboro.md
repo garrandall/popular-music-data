@@ -1,8 +1,11 @@
 ---
+album: Bobby Goldsboro
 artists:
 - Bobby Goldsboro
+external_ids:
+  spotify: spotify:track:3tVy4NmB2AYWTvXbfBBeo4
 features: []
-genres: []
+first_released_as_single: false
 key: if-you-ve-got-a-heart-bobby-goldsboro
 lyrics_url: https://genius.com/Bobby-goldsboro-if-youve-got-a-heart-lyrics
 name: If You've Got A Heart
@@ -39,6 +42,8 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '1965-11-13'
+release_year: 1965
+runtime: 174853
 ---
 I'd like to know if you can cry
 I'd like to see a tear in your eye

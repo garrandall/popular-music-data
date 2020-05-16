@@ -1,8 +1,11 @@
 ---
+album: The Very Best Of
 artists:
 - Teddy Randazzo
+external_ids:
+  spotify: spotify:track:4YtlFU70l4DVWlyiOSkq0l
 features: []
-genres: []
+first_released_as_single: false
 key: the-way-of-a-clown-teddy-randazzo
 lyrics_url: https://www.musixmatch.com/lyrics/Teddy-Randazzo/The-Way-of-a-Clown
 name: The Way Of A Clown
@@ -43,6 +46,8 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '1960-06-13'
+release_year: 1960
+runtime: 158800
 ---
 I'll make you laugh when you're blue
 That way I can be close to you

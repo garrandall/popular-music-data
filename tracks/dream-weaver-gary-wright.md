@@ -1,8 +1,11 @@
 ---
+album: The Dream Weaver
 artists:
 - Gary Wright
+external_ids:
+  spotify: spotify:track:74DrA5fFoGSy4xgkZarZtP
 features: []
-genres: []
+first_released_as_single: false
 key: dream-weaver-gary-wright
 lyrics_url: https://www.azlyrics.com/lyrics/garywright/dreamweaver.html
 name: Dream Weaver
@@ -87,8 +90,9 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '1976-05-15'
+release_year: 1975
+runtime: 256173
 ---
-
 I've just closed my eyes again
 Climbed aboard the dream weaver train
 Driver, take away my worries of today
@@ -120,6 +124,3 @@ Oh, dream weaver
 I believe we can reach the morning light
 Dream weaver
 Dream weaver
-
-
-

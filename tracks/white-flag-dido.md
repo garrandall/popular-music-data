@@ -1,8 +1,11 @@
 ---
+album: Life For Rent
 artists:
 - Dido
+external_ids:
+  spotify: spotify:track:5br4JmcFVlVjFhpMqTOkAv
 features: []
-genres: []
+first_released_as_single: false
 key: white-flag-dido
 lyrics_url: https://www.azlyrics.com/lyrics/dido/whiteflag.html
 name: White Flag
@@ -171,8 +174,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2004-06-26'
+release_year: 1999
+runtime: 240600
 ---
-
 I know you think that I shouldn't still love you,
 Or tell you that.
 But if I didn't say it, well I'd still have felt it
@@ -222,6 +226,3 @@ I will go down with this ship
 And I won't put my hands up and surrender
 There will be no white flag above my door
 I'm in love and always will be
-
-
-

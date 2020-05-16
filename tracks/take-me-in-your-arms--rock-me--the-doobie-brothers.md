@@ -1,8 +1,11 @@
 ---
+album: Stampede
 artists:
 - The Doobie Brothers
+external_ids:
+  spotify: spotify:track:5SUECwnqVcLWN32o1BNpQn
 features: []
-genres: []
+first_released_as_single: false
 key: take-me-in-your-arms--rock-me--the-doobie-brothers
 lyrics_url: https://genius.com/The-doobie-brothers-take-me-in-your-arms-lyrics
 name: Take Me In Your Arms (Rock Me)
@@ -55,6 +58,8 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1975-07-19'
+release_year: 1975
+runtime: 219826
 ---
 I know you're leaving
 Leaving me behind

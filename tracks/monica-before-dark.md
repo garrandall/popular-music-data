@@ -1,8 +1,11 @@
 ---
+album: Daydreamin'
 artists:
 - Before Dark
+external_ids:
+  spotify: spotify:track:6oF2p0mye6O6cexdEeRfDf
 features: []
-genres: []
+first_released_as_single: false
 key: monica-before-dark
 lyrics_url: https://genius.com/Before-dark-monica-lyrics
 name: Monica
@@ -43,6 +46,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2000-07-15'
+release_year: 2000
+runtime: 244800
 ---
 M-O-N-I-C-A
 Trying to take my man away from me (oh

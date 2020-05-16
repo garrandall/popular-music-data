@@ -1,8 +1,11 @@
 ---
+album: The Leif Garrett Collection
 artists:
 - Leif Garrett
+external_ids:
+  spotify: spotify:track:3W2bKUV6XE2qNhtiiYjmEB
 features: []
-genres: []
+first_released_as_single: false
 key: the-wanderer-leif-garrett
 lyrics_url: https://genius.com/Leif-garrett-the-wanderer-lyrics
 name: The Wanderer
@@ -35,6 +38,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1978-06-03'
+release_year: 1978
+runtime: 160133
 ---
 Oh well, I'm the type of guy
 Who will never settle down

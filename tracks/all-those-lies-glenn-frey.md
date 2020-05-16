@@ -1,8 +1,11 @@
 ---
+album: No Fun Aloud
 artists:
 - Glenn Frey
+external_ids:
+  spotify: spotify:track:1tYJ85q4pEj4ZNIokuu1pR
 features: []
-genres: []
+first_released_as_single: false
 key: all-those-lies-glenn-frey
 lyrics_url: https://www.azlyrics.com/lyrics/glennfrey/allthoselies.html
 name: All Those Lies
@@ -55,8 +58,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1983-02-26'
+release_year: 1982
+runtime: 283733
 ---
-
 I woke up shakin' in a cold, cold sweat
 I got so much goin' on. What did I forget?
 I know there's somethin', but it got so late
@@ -93,6 +97,3 @@ All those lies: I hope I can remember
 All those lies: I'm a bad pretender
 All those lies: It's a bad situation
 All those lies: Try'n' to ruin my reputation
-
-
-

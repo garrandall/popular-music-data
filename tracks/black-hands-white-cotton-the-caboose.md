@@ -1,8 +1,11 @@
 ---
+album: 'Stax Singles, Vol. 4: Rarities & The Best Of The Rest'
 artists:
 - The Caboose
+external_ids:
+  spotify: spotify:track:2POLJt2yFAexjnEDh7A2Qo
 features: []
-genres: []
+first_released_as_single: false
 key: black-hands-white-cotton-the-caboose
 lyrics_url: https://genius.com/The-caboose-black-hands-white-cotton-lyrics
 name: Black Hands White Cotton
@@ -19,6 +22,8 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1970-08-15'
+release_year: 1970
+runtime: 219066
 ---
 Two, three, four
 

@@ -1,8 +1,11 @@
 ---
+album: Rockin' Roll Baby
 artists:
 - The Stylistics
+external_ids:
+  spotify: spotify:track:00CCi9yHJh7NjXcNT565Ja
 features: []
-genres: []
+first_released_as_single: false
 key: you-make-me-feel-brand-new-the-stylistics
 lyrics_url: https://genius.com/The-stylistics-you-make-me-feel-brand-new-lyrics
 name: You Make Me Feel Brand New
@@ -107,6 +110,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1974-09-07'
+release_year: 1973
+runtime: 288440
 ---
 My love
 I'll never find the words my love

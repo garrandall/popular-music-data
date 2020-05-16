@@ -1,8 +1,11 @@
 ---
+album: iSoundtrack II - Music From and Inspired by the Hit TV Show
 artists:
 - Miranda Cosgrove
+external_ids:
+  spotify: spotify:track:4Qqf0sthtAxufsWTicTHqN
 features: []
-genres: []
+first_released_as_single: true
 key: dancing-crazy-miranda-cosgrove
 lyrics_url: https://www.azlyrics.com/lyrics/mirandacosgrove/dancingcrazy.html
 name: Dancing Crazy
@@ -11,8 +14,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2011-04-02'
+release_year: 2010
+runtime: 220386
 ---
-
 I've got a feeling that it's gonna be alright
 We don't know where we're goin' and I don't know where I'm at
 I'm kinda thinkin' I don't like nobody else
@@ -99,6 +103,3 @@ You and me together like this
 Did you hear me say that?
 Did you, did you, did you hear me say that?
 Snap!
-
-
-

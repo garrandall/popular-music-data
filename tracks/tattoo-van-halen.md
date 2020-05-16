@@ -1,8 +1,11 @@
 ---
+album: A Different Kind Of Truth
 artists:
 - Van Halen
+external_ids:
+  spotify: spotify:track:66H4tD2U1SNgIRSD19m5jv
 features: []
-genres: []
+first_released_as_single: false
 key: tattoo-van-halen
 lyrics_url: https://www.azlyrics.com/lyrics/vanhalen/tattoo.html
 name: Tattoo
@@ -11,8 +14,9 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '2012-01-28'
+release_year: 2012
+runtime: 283040
 ---
-
 (Tattoo, tattoo)
 
 
@@ -94,6 +98,3 @@ Show me, show me your
 Look at me, look at you!
 (Tattoo, tattoo)
 Whoa!
-
-
-

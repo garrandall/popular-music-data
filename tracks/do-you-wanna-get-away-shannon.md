@@ -1,8 +1,11 @@
 ---
+album: Do You Wanna Get Away
 artists:
 - Shannon
+external_ids:
+  spotify: spotify:track:23HJ82v0TIp2IJ3TFSjA5n
 features: []
-genres: []
+first_released_as_single: false
 key: do-you-wanna-get-away-shannon
 lyrics_url: https://genius.com/Shannon-do-you-wanna-get-away-lyrics
 name: Do You Wanna Get Away
@@ -67,6 +70,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1985-07-13'
+release_year: 1985
+runtime: 295376
 ---
 Where can I run to find an escape?
 I've had a very busy day

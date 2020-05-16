@@ -1,8 +1,11 @@
 ---
+album: Retro Active
 artists:
 - Def Leppard
+external_ids:
+  spotify: spotify:track:47jRWT09YkhZXJMuGBYkpb
 features: []
-genres: []
+first_released_as_single: false
 key: miss-you-in-a-heartbeat-def-leppard
 lyrics_url: https://www.azlyrics.com/lyrics/defleppard/missyouinaheartbeat.html
 name: Miss You In A Heartbeat
@@ -75,8 +78,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1994-04-02'
+release_year: 1993
+runtime: 244611
 ---
-
 I believe, that there's something deep inside
 That shouldn't be from time to time.
 I sure found out, thought love was such a crime
@@ -120,6 +124,3 @@ yeah I miss you right away
 (oh oh oh)
 oh, I'm gonna miss you in a heartbeat
 'cause it ain't love, if it don't feel that way
-
-
-

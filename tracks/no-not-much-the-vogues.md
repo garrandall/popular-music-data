@@ -1,8 +1,11 @@
 ---
+album: Five O'clock World
 artists:
 - The Vogues
+external_ids:
+  spotify: spotify:track:3j0iquDiY3xVzFqx3xnE6V
 features: []
-genres: []
+first_released_as_single: false
 key: no-not-much-the-vogues
 lyrics_url: https://genius.com/The-vogues-no-not-much-lyrics
 name: No Not Much
@@ -27,6 +30,8 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '1969-04-05'
+release_year: 1965
+runtime: 185887
 ---
 I don't want my arms around you, no not much
 I don't bless the day I found you, no not much

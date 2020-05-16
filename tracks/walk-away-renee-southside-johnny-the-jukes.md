@@ -1,9 +1,12 @@
 ---
+album: At Least We Got Shoes
 artists:
 - Southside Johnny
 - The Jukes
+external_ids:
+  spotify: spotify:track:65subPffD3s7ogtpizLJCH
 features: []
-genres: []
+first_released_as_single: false
 key: walk-away-renee-southside-johnny-the-jukes
 lyrics_url: https://genius.com/Southside-johnny-and-the-asbury-jukes-walk-away-renee-lyrics
 name: Walk Away Renee
@@ -28,6 +31,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1986-09-13'
+release_year: 1986
+runtime: 260373
 ---
 (B. Calilli/M. Brown/T. Sansone)
 

@@ -1,8 +1,11 @@
 ---
+album: Indian Summer
 artists:
 - Poco
+external_ids:
+  spotify: spotify:track:3uqBExqOkoDL6HdkiWcmgJ
 features: []
-genres: []
+first_released_as_single: false
 key: indian-summer-poco
 lyrics_url: https://www.azlyrics.com/lyrics/poco/indiansummer.html
 name: Indian Summer
@@ -39,8 +42,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1977-09-24'
+release_year: 1977
+runtime: 280866
 ---
-
 There's a full moon in the sky
 It's got a hold on me, I'm hyptotized
 Like your love it's getting stronger
@@ -64,6 +68,3 @@ Ain't gonna wait around till it's here again
 Baby takes my hand...
 
 Indian Summer is on it's way
-
-
-

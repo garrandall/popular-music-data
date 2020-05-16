@@ -1,8 +1,11 @@
 ---
+album: So Excited!
 artists:
 - The Pointer Sisters
+external_ids:
+  spotify: spotify:track:0LgdOTB8BtkyB8LvXvd4py
 features: []
-genres: []
+first_released_as_single: false
 key: american-music-the-pointer-sisters
 lyrics_url: https://www.azlyrics.com/lyrics/pointersisters/americanmusic.html
 name: American Music
@@ -63,8 +66,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1982-09-25'
+release_year: 1982
+runtime: 240000
 ---
-
 Well, the rock still rolls
 The beat goes on after all of this time
 The faces change but the song's the same
@@ -96,6 +100,3 @@ Well, it almost feels real American
 Just when you think that you've heard enough
 Well, somebody say turn it up
 Turn it up, turn it up
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: The One Who Really Loves You
 artists:
 - Mary Wells
+external_ids:
+  spotify: spotify:track:3z6DZg3eptREy6E0ssqnM8
 features: []
-genres: []
+first_released_as_single: false
 key: two-wrongs-don-t-make-a-right-mary-wells
 lyrics_url: https://genius.com/Mary-wells-two-wrongs-dont-make-a-right-lyrics
 name: Two Wrongs Don't Make A Right
@@ -11,6 +14,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1963-03-23'
+release_year: 1962
+runtime: 167506
 ---
 I took your love, and said, "Goodbye"
 I stayed away, my darling and made you cry

@@ -1,8 +1,11 @@
 ---
+album: Mercy!
 artists:
 - Don Covay
+external_ids:
+  spotify: spotify:track:7h2u2fQVAEL3EOuTMjvBLs
 features: []
-genres: []
+first_released_as_single: false
 key: take-this-hurt-off-me-don-covay
 lyrics_url: https://genius.com/Don-covay-take-this-hurt-off-me-lyrics
 name: Take This Hurt Off Me
@@ -15,6 +18,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1965-01-02'
+release_year: 1964
+runtime: 151400
 ---
 Come back and take this hurt off me
 Baby, come back and take this hurt off me

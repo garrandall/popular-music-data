@@ -1,8 +1,11 @@
 ---
+album: Morning Dance
 artists:
 - Spyro Gyra
+external_ids:
+  spotify: spotify:track:03RHLun8Ni9yFjA7vNGOkY
 features: []
-genres: []
+first_released_as_single: false
 key: morning-dance-spyro-gyra
 lyrics_url: https://genius.com/Spyro-gyra-morning-dance-lyrics
 name: Morning Dance
@@ -67,5 +70,7 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1979-09-22'
+release_year: 1979
+runtime: 236466
 ---
 Instrumental

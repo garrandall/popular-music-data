@@ -1,9 +1,12 @@
 ---
+album: The Twain Shall Meet
 artists:
 - Eric Burdon
 - The Animals
+external_ids:
+  spotify: spotify:track:0W3LGAxHngPVSZ253Q1eNo
 features: []
-genres: []
+first_released_as_single: false
 key: monterey-eric-burdon-the-animals
 lyrics_url: https://genius.com/Eric-burdon-and-the-animals-monterey-lyrics
 name: Monterey
@@ -44,6 +47,8 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '1968-02-10'
+release_year: 1965
+runtime: 259320
 ---
 The people came and listened
 Some of them came and played

@@ -1,8 +1,11 @@
 ---
+album: The Ultimate Petula Clark
 artists:
 - Petula Clark
+external_ids:
+  spotify: spotify:track:7DL0Dx3rmf9zV1rs0dVV1w
 features: []
-genres: []
+first_released_as_single: false
 key: my-love-petula-clark
 lyrics_url: https://genius.com/Petula-clark-my-love-lyrics
 name: My Love
@@ -59,6 +62,8 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '1966-03-19'
+release_year: 1965
+runtime: 161933
 ---
 My love is warmer than the warmest sunshine
 Softer than a sigh

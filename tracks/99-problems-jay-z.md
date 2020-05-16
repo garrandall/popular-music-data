@@ -1,8 +1,11 @@
 ---
+album: The Black Album
 artists:
 - JAY-Z
+external_ids:
+  spotify: spotify:track:7sLpSWxQazJzDVG6YGzlVs
 features: []
-genres: []
+first_released_as_single: false
 key: 99-problems-jay-z
 lyrics_url: https://genius.com/Jay-z-99-problems-lyrics
 name: 99 Problems
@@ -55,6 +58,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '2004-07-24'
+release_year: 2003
+runtime: 234626
 ---
 If you're havin' girl problems, I feel bad for you, son
 I got 99 problems, but a bitch ain't one

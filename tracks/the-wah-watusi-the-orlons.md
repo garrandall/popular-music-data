@@ -1,8 +1,11 @@
 ---
+album: The Wah-Watusi/South Street
 artists:
 - The Orlons
+external_ids:
+  spotify: spotify:track:1txHbsMQPOPqjigbBXTULL
 features: []
-genres: []
+first_released_as_single: false
 key: the-wah-watusi-the-orlons
 lyrics_url: https://genius.com/The-orlons-the-wah-watusi-lyrics
 name: The Wah Watusi
@@ -63,6 +66,8 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '1962-09-08'
+release_year: 1962
+runtime: 150240
 ---
 Wah, wah-a Watusi
 C'mon and take a chance and get-a with this dance

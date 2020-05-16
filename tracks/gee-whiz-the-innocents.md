@@ -1,8 +1,11 @@
 ---
+album: The Complete Indigo Recordings
 artists:
 - The Innocents
+external_ids:
+  spotify: spotify:track:519hCSC8d6zu3k45ESSVqk
 features: []
-genres: []
+first_released_as_single: false
 key: gee-whiz-the-innocents
 lyrics_url: https://www.musixmatch.com/lyrics/The-Innocents/Gee-Whiz
 name: Gee Whiz
@@ -51,6 +54,8 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1961-01-30'
+release_year: 1960
+runtime: 149226
 ---
 Gee whiz
 I can't believe that you love me

@@ -1,8 +1,11 @@
 ---
+album: The Best Of Little Anthony & The Imperials
 artists:
 - Little Anthony And The Imperials
+external_ids:
+  spotify: spotify:track:0F6fa3I40SkP6oZYeFsXPA
 features: []
-genres: []
+first_released_as_single: false
 key: out-of-sight-out-of-mind-little-anthony-and-the-imperials
 lyrics_url: https://genius.com/Little-anthony-and-the-imperials-out-of-sight-out-of-mind-lyrics
 name: Out Of Sight Out Of Mind
@@ -43,6 +46,8 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '1969-09-20'
+release_year: 1969
+runtime: 159760
 ---
 Out of sight out of mind
 So the story goes

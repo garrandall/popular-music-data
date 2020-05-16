@@ -1,8 +1,11 @@
 ---
+album: Sooner Or Later
 artists:
 - BBMak
+external_ids:
+  spotify: spotify:track:6znv7i4Wif5fLwI6OjKHZ4
 features: []
-genres: []
+first_released_as_single: false
 key: back-here-bbmak
 lyrics_url: https://www.azlyrics.com/lyrics/bbmak/backhere.html
 name: Back Here
@@ -131,8 +134,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2000-11-25'
+release_year: 2000
+runtime: 218200
 ---
-
 Baby, set me free from this misery 
 I can't take it no more 
 Since you ran away nothing's been the same 
@@ -175,6 +179,3 @@ Miss you, want you, need you so
 Until you're back here baby, yeah 
 There's a feeling inside I want you to know 
 You are the one and I can't let you go
-
-
-

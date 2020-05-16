@@ -1,8 +1,11 @@
 ---
+album: Johnny Burnette's Hits And Other Favorites
 artists:
 - Johnny Burnette
+external_ids:
+  spotify: spotify:track:3cAThLgpx8ZjQ6jTguWYkf
 features: []
-genres: []
+first_released_as_single: false
 key: god-country-and-my-baby-johnny-burnette
 lyrics_url: https://www.musixmatch.com/lyrics/Johnny-Burnette/God-Country-And-My-Baby
 name: God Country And My Baby
@@ -43,6 +46,8 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '1961-12-11'
+release_year: 1961
+runtime: 133960
 ---
 They say we sail tonight
 And we may have to fight

@@ -1,8 +1,11 @@
 ---
+album: The Best Of Gene Pitney
 artists:
 - Gene Pitney
+external_ids:
+  spotify: spotify:track:0ULdfU4qip9duOw03FKBCr
 features: []
-genres: []
+first_released_as_single: false
 key: princess-in-rags-gene-pitney
 lyrics_url: https://www.azlyrics.com/lyrics/genepitney/princessinrags.html
 name: Princess In Rags
@@ -39,8 +42,9 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '1966-01-08'
+release_year: 1965
+runtime: 155306
 ---
-
 There's a girl who lives down the track
 In a little shack made of timber wood
 And her clothes are all hand-me-downs
@@ -76,6 +80,3 @@ Just me and my princess in rags
 She's the only girl for me
 And some day it's gotta be
 Just me and my princess in rags
-
-
-

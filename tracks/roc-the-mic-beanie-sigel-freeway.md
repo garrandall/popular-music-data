@@ -1,9 +1,12 @@
 ---
+album: The Source - Hip Hop Hits Vol. 6
 artists:
 - Beanie Sigel
 - Freeway
+external_ids:
+  spotify: spotify:track:5WHAySW7mtAKHsaUh9N1Rr
 features: []
-genres: []
+first_released_as_single: false
 key: roc-the-mic-beanie-sigel-freeway
 lyrics_url: https://www.azlyrics.com/lyrics/beaniesigel/rocthemic.html
 name: Roc The Mic
@@ -84,9 +87,10 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2002-06-29'
+release_year: 2002
+runtime: 263186
 ---
-
- Ho! Ho!
+Ho! Ho!
  Bounce
  Holla!
  Bounce, bounce, bounce
@@ -213,6 +217,3 @@ All of y'all need to run yo'self
 Go get the burna nigga bang yo'self
 Shit, shit, it's the, it's the Roc nigga, hooo, hoo, hoo!
 And another one, and another one..
-
-
-

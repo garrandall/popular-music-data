@@ -1,8 +1,11 @@
 ---
+album: The Icon Is Love
 artists:
 - Barry White
+external_ids:
+  spotify: spotify:track:5zh0PuuU8rjyKzYPamGLx4
 features: []
-genres: []
+first_released_as_single: false
 key: come-on-barry-white
 lyrics_url: https://genius.com/Barry-white-come-on-lyrics
 name: Come On
@@ -15,6 +18,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1995-04-29'
+release_year: 1994
+runtime: 350493
 ---
 You're a freak, sweet freak
 You like to play

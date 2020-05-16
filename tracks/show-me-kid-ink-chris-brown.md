@@ -1,9 +1,12 @@
 ---
+album: My Own Lane
 artists:
 - Kid Ink
+external_ids:
+  spotify: spotify:track:4q6dqyGM25sKFU8nYAGRe4
 features:
 - Chris Brown
-genres: []
+first_released_as_single: false
 key: show-me-kid-ink-chris-brown
 lyrics_url: https://www.azlyrics.com/lyrics/kidink/showme.html
 name: Show Me
@@ -132,9 +135,9 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '2014-06-21'
+release_year: 2013
+runtime: 217800
 ---
-
-
 Baby, yeah
 Mustard on the beat ho
 
@@ -236,6 +239,3 @@ You remind me of something
 But I don't know what it is right now (I don't know)
 'Cause you remind me of something
 Girl, you gotta show me
-
-
-

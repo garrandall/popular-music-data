@@ -1,8 +1,11 @@
 ---
+album: 'So Fine: ''60s One Hit Wonders'
 artists:
 - The Parliaments
+external_ids:
+  spotify: spotify:track:0xAqhyWvTkfcdFgm7dozMO
 features: []
-genres: []
+first_released_as_single: false
 key: -i-wanna--testify-the-parliaments
 lyrics_url: https://genius.com/The-parliaments-i-wanna-testify-lyrics
 name: (I Wanna) Testify
@@ -59,6 +62,8 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '1967-09-23'
+release_year: 1967
+runtime: 183693
 ---
 Friends, inquisitive friends
 Are asking me what's come over me

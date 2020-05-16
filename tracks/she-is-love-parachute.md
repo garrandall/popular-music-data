@@ -1,8 +1,11 @@
 ---
+album: Losing Sleep
 artists:
 - Parachute
+external_ids:
+  spotify: spotify:track:2Dz5WpEWA0vhnMmEPYiZ2y
 features: []
-genres: []
+first_released_as_single: false
 key: she-is-love-parachute
 lyrics_url: https://genius.com/Parachute-she-is-love-lyrics
 name: She Is Love
@@ -35,6 +38,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2009-09-26'
+release_year: 2009
+runtime: 146066
 ---
 I've been beaten down, I've been kicked around
 But she takes it all for me

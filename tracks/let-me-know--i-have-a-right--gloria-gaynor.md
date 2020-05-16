@@ -1,8 +1,11 @@
 ---
+album: 'I Will Survive: The Anthology (Reissue)'
 artists:
 - Gloria Gaynor
+external_ids:
+  spotify: spotify:track:29fiPZ3jhI4cPoFmlvxTg4
 features: []
-genres: []
+first_released_as_single: false
 key: let-me-know--i-have-a-right--gloria-gaynor
 lyrics_url: https://www.azlyrics.com/lyrics/gloriagaynor/letmeknowihavearight.html
 name: Let Me Know (I Have A Right)
@@ -59,8 +62,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1979-12-15'
+release_year: 1979
+runtime: 196760
 ---
-
 I get a little peck and you're off to bed
 No warmth, no hug, no kind words are said
 Will you dream of me or someone new instead, oh
@@ -98,6 +102,3 @@ Let me know, let me know
 Let me know, let me know, I have a right
 To plan my future, get on with my life
 Tell me face to face, don't try to be polite
-
-
-

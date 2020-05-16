@@ -1,8 +1,11 @@
 ---
+album: The G Clefs
 artists:
 - The G-Clefs
+external_ids:
+  spotify: spotify:track:64OEadvi2rhN0Y13sK2gks
 features: []
-genres: []
+first_released_as_single: false
 key: i-understand--just-how-you-feel--the-g-clefs
 lyrics_url: https://www.musixmatch.com/lyrics/The-G-Clefs/I-Understand-Just-How-You-Feel
 name: I Understand (Just How You Feel)
@@ -71,6 +74,8 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1962-01-06'
+release_year: 1961
+runtime: 166974
 ---
 I Understand (Just How You Feel)
 The G-Clefs

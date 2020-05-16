@@ -1,8 +1,11 @@
 ---
+album: You're My Man
 artists:
 - Lynn Anderson
+external_ids:
+  spotify: spotify:track:0qGVX719iu2nQx7TVeVcRa
 features: []
-genres: []
+first_released_as_single: false
 key: you-re-my-man-lynn-anderson
 lyrics_url: https://genius.com/Lynn-anderson-youre-my-man-lyrics
 name: You're My Man
@@ -31,6 +34,8 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '1971-06-19'
+release_year: 1966
+runtime: 158506
 ---
 For once in my life I know the meaning of happiness
 And what it means to have a dream come true

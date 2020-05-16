@@ -1,8 +1,11 @@
 ---
+album: Superstar Series - Celebrating Motown's Twentieth Anniversary
 artists:
 - The Originals
+external_ids:
+  spotify: spotify:track:2dnUxyCOfoMgQQbMZprkof
 features: []
-genres: []
+first_released_as_single: false
 key: god-bless-whoever-sent-you-the-originals
 lyrics_url: https://genius.com/The-originals-god-bless-whoever-sent-you-lyrics
 name: God Bless Whoever Sent You
@@ -55,6 +58,8 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '1971-03-06'
+release_year: 1970
+runtime: 199200
 ---
 God bless whoever sent you
 I really needed you

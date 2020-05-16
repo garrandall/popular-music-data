@@ -1,8 +1,11 @@
 ---
+album: Joy Ride
 artists:
 - The Dramatics
+external_ids:
+  spotify: spotify:track:3CqQ3yi2NHqyxw5hHqMLPb
 features: []
-genres: []
+first_released_as_single: false
 key: shake-it-well-the-dramatics
 lyrics_url: https://www.azlyrics.com/lyrics/dramatics/shakeitwell.html
 name: Shake It Well
@@ -31,8 +34,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1977-11-26'
+release_year: 1976
+runtime: 351266
 ---
-
 My name is Squirrel
 Best shaker in the world
 Shake it on down
@@ -171,6 +175,3 @@ Shake it well
 
 Hey, hey, hey...
 Shake it well...
-
-
-

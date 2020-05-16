@@ -1,8 +1,11 @@
 ---
+album: Love and War
 artists:
 - Brad Paisley
+external_ids:
+  spotify: spotify:track:1IO13V09b01gLSbmZJZ9dM
 features: []
-genres: []
+first_released_as_single: false
 key: today-brad-paisley
 lyrics_url: https://www.azlyrics.com/lyrics/bradpaisley/today.html
 name: Today
@@ -51,8 +54,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2017-04-01'
+release_year: 2016
+runtime: 229338
 ---
-
 When I am sitting in traffic some afternoon
 Or bored to death in some waiting room
 I am gonna close my eyes and picture you
@@ -93,6 +97,3 @@ Right now the whole world is right
 Bring on tomorrow
 Because the memory of a day like today
 Can get you through the rest of your life
-
-
-

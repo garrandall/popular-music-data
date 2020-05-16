@@ -1,8 +1,11 @@
 ---
+album: Pure Heroine (Extended)
 artists:
 - Lorde
+external_ids:
+  spotify: spotify:track:4ivBdCI1s9f6yDWFUvBtZo
 features: []
-genres: []
+first_released_as_single: false
 key: tennis-court-lorde
 lyrics_url: https://www.azlyrics.com/lyrics/lorde/tenniscourt.html
 name: Tennis Court
@@ -79,8 +82,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2014-08-09'
+release_year: 2013
+runtime: 198907
 ---
-
 Don't you think that it's boring how people talk
 Making smart with their words again, well I'm bored
 Because I'm doing this for the thrill of it, killin' it
@@ -132,6 +136,3 @@ And talk it up like yeah (yeah)
 And talk it up like yeah (yeah)
 Let's go down to the tennis court, and talk it up like yeah
 (Yeah)
-
-
-

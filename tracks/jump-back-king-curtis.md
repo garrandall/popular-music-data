@@ -1,8 +1,11 @@
 ---
+album: Plays Great Memphis Hits
 artists:
 - King Curtis
+external_ids:
+  spotify: spotify:track:3gssejEDv7U1VY6vXirrK2
 features: []
-genres: []
+first_released_as_single: false
 key: jump-back-king-curtis
 name: Jump Back
 rankings:
@@ -30,5 +33,7 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '1967-06-17'
+release_year: 1967
+runtime: 118133
 ---
 

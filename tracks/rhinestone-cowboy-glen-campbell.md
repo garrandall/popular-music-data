@@ -1,8 +1,11 @@
 ---
+album: Rhinestone Cowboy
 artists:
 - Glen Campbell
+external_ids:
+  spotify: spotify:track:0VwTeYNjcl30DyQlt3GPe0
 features: []
-genres: []
+first_released_as_single: false
 key: rhinestone-cowboy-glen-campbell
 lyrics_url: https://genius.com/Glen-campbell-rhinestone-cowboy-lyrics
 name: Rhinestone Cowboy
@@ -99,6 +102,8 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1975-11-01'
+release_year: 1975
+runtime: 194453
 ---
 I've been walkin' these streets so long
 Singin' the same old song

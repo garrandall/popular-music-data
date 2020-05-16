@@ -1,8 +1,11 @@
 ---
+album: Movin' On
 artists:
 - Commodores
+external_ids:
+  spotify: spotify:track:3W7sJgfcVgR3ifmFxid141
 features: []
-genres: []
+first_released_as_single: false
 key: sweet-love-commodores
 lyrics_url: https://www.azlyrics.com/lyrics/commodores/sweetlove.html
 name: Sweet Love
@@ -99,8 +102,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1976-05-29'
+release_year: 1975
+runtime: 393561
 ---
-
 Show me a river that's so deep
 Show me a mountain so high
 I'll show you love that'll last forever
@@ -141,6 +145,3 @@ Oh, oh, oh, oh, oh (When you're down and out and you can't see your way)
 Sweet love (And you need a friend, well-ell-ell)
 Oh, oh, oh, oh, oh (Just call on love, love)
 Sweet love (Sweet, sweet, sweet, sweet, sweet, sweet, sweet, sweet love)
-
-
-

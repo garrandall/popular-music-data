@@ -1,8 +1,11 @@
 ---
+album: The Last Time I Saw Her
 artists:
 - Glen Campbell
+external_ids:
+  spotify: spotify:track:2ldidJstqAXYGIS1Hk5TIQ
 features: []
-genres: []
+first_released_as_single: false
 key: dream-baby--how-long-must-i-dream--glen-campbell
 lyrics_url: https://www.azlyrics.com/lyrics/glencampbell/dreambabyhowlongmustidream.html
 name: Dream Baby (How Long Must I Dream)
@@ -35,8 +38,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1971-04-24'
+release_year: 1971
+runtime: 152226
 ---
-
 Sweet dream baby
 Sweet dream baby
 Sweet dream baby
@@ -63,6 +67,3 @@ Sweet dream baby (dream baby ah-huh-huh)How long must I dream
 Sweet dream baby (dream baby ah-huh-huh)Sweet dream baby (dream baby ah-huh-huh)
 
 Sweet dream baby
-
-
-

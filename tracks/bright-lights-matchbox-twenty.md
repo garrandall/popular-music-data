@@ -1,8 +1,11 @@
 ---
+album: More Than You Think You Are
 artists:
 - matchbox twenty
+external_ids:
+  spotify: spotify:track:4dZhQj20JbKlD9oR0X8kjZ
 features: []
-genres: []
+first_released_as_single: false
 key: bright-lights-matchbox-twenty
 lyrics_url: https://genius.com/Matchbox-twenty-bright-lights-lyrics
 name: Bright Lights
@@ -91,6 +94,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '2004-02-14'
+release_year: 2002
+runtime: 234426
 ---
 She got out of town
 On a railway, New York bound

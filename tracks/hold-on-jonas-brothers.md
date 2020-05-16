@@ -1,8 +1,11 @@
 ---
+album: Jonas Brothers
 artists:
 - Jonas Brothers
+external_ids:
+  spotify: spotify:track:79Hz50oQtHIt5dDoEx4IDk
 features: []
-genres: []
+first_released_as_single: false
 key: hold-on-jonas-brothers
 lyrics_url: https://genius.com/Jonas-brothers-hold-on-lyrics
 name: Hold On
@@ -35,6 +38,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2007-09-22'
+release_year: 2007
+runtime: 164973
 ---
 We don’t have time left to regret (Hold on)
 It will take more than common sense (Hold on)

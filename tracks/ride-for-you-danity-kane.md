@@ -1,8 +1,11 @@
 ---
+album: Danity Kane
 artists:
 - Danity Kane
+external_ids:
+  spotify: spotify:track:6K3VfYpY58uXYuvS5NQLIJ
 features: []
-genres: []
+first_released_as_single: false
 key: ride-for-you-danity-kane
 lyrics_url: https://www.azlyrics.com/lyrics/danitykane/rideforyou.html
 name: Ride For You
@@ -11,9 +14,9 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '2006-09-09'
+release_year: 2006
+runtime: 251280
 ---
-
-
 Lately, I've been tryna fight whatever's pulling us under
 it's got a hold and really making me wonder
 what it takes to get through
@@ -59,4 +62,3 @@ I'll go
 I been with you for too long to start over with another
 I know that you hear me
 Just tell me you hear me
-

@@ -1,8 +1,11 @@
 ---
+album: Twice The Speed Of Life
 artists:
 - Sugarland
+external_ids:
+  spotify: spotify:track:3C3oknuBLo3jxhmRk67glu
 features: []
-genres: []
+first_released_as_single: false
 key: something-more-sugarland
 lyrics_url: https://www.azlyrics.com/lyrics/sugarland/somethingmore.html
 name: Something More
@@ -87,8 +90,9 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '2005-10-01'
+release_year: 2004
+runtime: 216733
 ---
-
 Monday, hard to wake up
 Fill my coffee cup, I'm out the door
 Yeah, the freeway's standing still today
@@ -126,4 +130,3 @@ To drink some red wine and celebrate
 Armageddon could be knocking at my door
 But I ain't gonna answer that's for sure.
 There's gotta be something!
-

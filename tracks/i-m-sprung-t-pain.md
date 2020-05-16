@@ -1,8 +1,11 @@
 ---
+album: Rappa Ternt Sanga
 artists:
 - T-Pain
+external_ids:
+  spotify: spotify:track:0F7rEdewJ6cSLylOZZpDu7
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-sprung-t-pain
 lyrics_url: https://genius.com/T-pain-im-sprung-lyrics
 name: I'm Sprung
@@ -111,6 +114,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '2006-02-18'
+release_year: 2005
+runtime: 230713
 ---
 I'm sprung
 Dawg, she got me

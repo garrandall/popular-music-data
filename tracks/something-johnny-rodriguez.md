@@ -1,8 +1,11 @@
 ---
+album: The Hits
 artists:
 - Johnny Rodriguez
+external_ids:
+  spotify: spotify:track:6xiWIPTY2GzgMGO3Lfw163
 features: []
-genres: []
+first_released_as_single: false
 key: something-johnny-rodriguez
 lyrics_url: https://genius.com/Johnny-rodriguez-something-lyrics
 name: Something
@@ -23,6 +26,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1974-05-25'
+release_year: 1974
+runtime: 170773
 ---
 Something in the way she moves
 Attracts me like no other lover

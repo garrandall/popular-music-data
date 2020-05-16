@@ -1,9 +1,12 @@
 ---
+album: ye
 artists:
 - Kanye West
+external_ids:
+  spotify: spotify:track:1nGoy0cEj0extAwXYNYTWd
 features:
 - PARTYNEXTDOOR
-genres: []
+first_released_as_single: false
 key: wouldn-t-leave-kanye-west-partynextdoor
 lyrics_url: https://genius.com/Kanye-west-wouldnt-leave-lyrics
 name: Wouldn't Leave
@@ -16,6 +19,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2018-06-23'
+release_year: 2018
+runtime: 205546
 ---
 I don't feel that she's mine enough
 God, I feel I couldn't have you windin' up

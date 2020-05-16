@@ -1,9 +1,12 @@
 ---
+album: The Complete Season 9 Collection (The Voice Performance)
 artists:
 - Jordan Smith
 - Adam Levine
+external_ids:
+  spotify: spotify:track:26BvbgWisvyequ09r52TDA
 features: []
-genres: []
+first_released_as_single: false
 key: god-only-knows-jordan-smith-adam-levine
 lyrics_url: https://www.azlyrics.com/lyrics/jordansmith/godonlyknows.html
 name: God Only Knows
@@ -12,9 +15,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2016-01-02'
+release_year: 2015
+runtime: 168560
 ---
-
-
 I may not always love you
 But long as there are stars above you
 You never need to doubt it
@@ -61,6 +64,3 @@ God only knows what I'd be without you
 
 
 God only knows what I'd be without you
-
-
-

@@ -1,10 +1,13 @@
 ---
+album: Double Or Nothing (& Metro Boomin)
 artists:
 - Big Sean
 - Metro Boomin
+external_ids:
+  spotify: spotify:track:1QfRKrcE4aD99n4KVQGxdV
 features:
 - Travis Scott
-genres: []
+first_released_as_single: false
 key: go-legend-big-sean-metro-boomin-travis-scott
 lyrics_url: https://genius.com/Big-sean-and-metro-boomin-go-legend-lyrics
 name: Go Legend
@@ -13,6 +16,8 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '2017-12-30'
+release_year: 2017
+runtime: 268946
 ---
 If young Metro don't trust you, I'm gon' shoot you
 Do you know where you're going to?

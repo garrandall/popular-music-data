@@ -1,8 +1,11 @@
 ---
+album: Nazz
 artists:
 - Nazz
+external_ids:
+  spotify: spotify:track:1M9HkKJmumxPNF2zDN3Bdb
 features: []
-genres: []
+first_released_as_single: false
 key: hello-it-s-me-nazz
 lyrics_url: https://genius.com/Nazz-us-hello-its-me-lyrics
 name: Hello It's Me
@@ -59,6 +62,8 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1970-02-21'
+release_year: 1966
+runtime: 231240
 ---
 Hello, it's me
 I've thought about us for a long, long time

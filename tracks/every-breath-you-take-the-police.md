@@ -1,8 +1,11 @@
 ---
+album: Synchronicity (Remastered 2003)
 artists:
 - The Police
+external_ids:
+  spotify: spotify:track:1JSTJqkT5qHq8MDJnJbRE1
 features: []
-genres: []
+first_released_as_single: false
 key: every-breath-you-take-the-police
 lyrics_url: https://genius.com/The-police-every-breath-you-take-lyrics
 name: Every Breath You Take
@@ -95,6 +98,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1983-10-29'
+release_year: 1983
+runtime: 253920
 ---
 Every breath you take and every move you make
 Every bond you break, every step you take, I'll be watching you

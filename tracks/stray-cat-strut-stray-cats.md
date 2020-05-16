@@ -1,8 +1,11 @@
 ---
+album: Built For Speed
 artists:
 - Stray Cats
+external_ids:
+  spotify: spotify:track:5yogRsv5ggT6iCnFgvdpho
 features: []
-genres: []
+first_released_as_single: false
 key: stray-cat-strut-stray-cats
 lyrics_url: https://www.azlyrics.com/lyrics/straycats/straycatstrut.html
 name: Stray Cat Strut
@@ -83,8 +86,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1983-04-30'
+release_year: 1982
+runtime: 198000
 ---
-
 Oh, oh, oh, oh
 Oh, oh, oh, oh
 Oh, oh, oh, oh
@@ -120,6 +124,3 @@ I wish I could be as carefree and wild
 But I got cat class, and I got cat style"
 
 Meow
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Revenge
 artists:
 - Eurythmics
+external_ids:
+  spotify: spotify:track:3v9ELl9T121dhadZyIiQVn
 features: []
-genres: []
+first_released_as_single: false
 key: thorn-in-my-side-eurythmics
 lyrics_url: https://www.azlyrics.com/lyrics/eurythmics/thorninmyside.html
 name: Thorn In My Side
@@ -43,8 +46,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1987-01-10'
+release_year: 1986
+runtime: 253400
 ---
-
 You gave me such a bad time
 tried to hurt me, but now I know
 
@@ -70,4 +74,3 @@ I was feeling complicated.
 I was feeling low.
 Now everytime I think of you
 I shiver to the bone...
-

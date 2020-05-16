@@ -1,8 +1,11 @@
 ---
+album: Dirty Rotten Filthy Stinking Rich
 artists:
 - Warrant
+external_ids:
+  spotify: spotify:track:5QwzwrBOj8ZcYFlm6splOa
 features: []
-genres: []
+first_released_as_single: false
 key: big-talk-warrant
 lyrics_url: https://www.musixmatch.com/lyrics/Warrant/Big-Talk
 name: Big Talk
@@ -23,6 +26,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1989-11-25'
+release_year: 1989
+runtime: 222772
 ---
 Street fighting is looking for trouble
 If you open your mouth

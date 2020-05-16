@@ -1,8 +1,11 @@
 ---
+album: The Libery Years
 artists:
 - The Rivingtons
+external_ids:
+  spotify: spotify:track:0As6CEEV5d6tOEFhSx444J
 features: []
-genres: []
+first_released_as_single: false
 key: papa-oom-mow-mow-the-rivingtons
 lyrics_url: https://genius.com/The-rivingtons-papa-oom-mow-mow-lyrics
 name: Papa-Oom-Mow-Mow
@@ -39,6 +42,8 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '1962-10-06'
+release_year: 1962
+runtime: 143173
 ---
 Papa-papa-papa-papa-oom-mow-mow
 Papa-oom-mow-mow

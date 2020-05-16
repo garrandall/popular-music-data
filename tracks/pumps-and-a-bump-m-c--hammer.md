@@ -1,8 +1,11 @@
 ---
+album: The Funky Headhunter
 artists:
 - M.C. Hammer
+external_ids:
+  spotify: spotify:track:0cEY2XrkwZAyrxMioyiAQB
 features: []
-genres: []
+first_released_as_single: false
 key: pumps-and-a-bump-m-c--hammer
 lyrics_url: https://genius.com/Mc-hammer-pumps-and-a-bump-lyrics
 name: Pumps And A Bump
@@ -87,6 +90,8 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1994-08-06'
+release_year: 1994
+runtime: 305066
 ---
 Pumps and a bump, pumps and a bump
 We like the girls with the pumps and a bump!

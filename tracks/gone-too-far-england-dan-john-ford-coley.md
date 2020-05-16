@@ -1,9 +1,12 @@
 ---
+album: Dowdy Ferry Road
 artists:
 - England Dan
 - John Ford Coley
+external_ids:
+  spotify: spotify:track:3HAShVDebh4NPxU0fDhk8z
 features: []
-genres: []
+first_released_as_single: false
 key: gone-too-far-england-dan-john-ford-coley
 lyrics_url: https://www.azlyrics.com/lyrics/englanddanjohnfordcoley/gonetoofar.html
 name: Gone Too Far
@@ -64,8 +67,9 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '1977-12-31'
+release_year: 1977
+runtime: 177426
 ---
-
 How it all started, I hardly remember
 A casual walk through the park in the winter
 All that I wanted was someone I could talk to
@@ -103,6 +107,3 @@ But I spend all my time thinking of you
 Gone too far, there's nothing I can do now
 Gone too far, it'll work out somehow
 But I spend all my time thinking of you
-
-
-

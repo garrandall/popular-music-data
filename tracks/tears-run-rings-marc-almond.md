@@ -1,8 +1,11 @@
 ---
+album: The Stars We Are
 artists:
 - Marc Almond
+external_ids:
+  spotify: spotify:track:7jEQ43V8AA7UQ6NcG4x1ki
 features: []
-genres: []
+first_released_as_single: false
 key: tears-run-rings-marc-almond
 lyrics_url: https://genius.com/Marc-almond-tears-run-rings-lyrics
 name: Tears Run Rings
@@ -39,6 +42,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1989-03-11'
+release_year: 1989
+runtime: 261687
 ---
 On heavenly rain, you fell into my life
 Unforgettable smile, unforgettable lies

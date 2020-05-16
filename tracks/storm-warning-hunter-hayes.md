@@ -1,8 +1,11 @@
 ---
+album: Hunter Hayes (Encore)
 artists:
 - Hunter Hayes
+external_ids:
+  spotify: spotify:track:71DDK14XVxkXLmG3AVi1BP
 features: []
-genres: []
+first_released_as_single: false
 key: storm-warning-hunter-hayes
 lyrics_url: https://www.azlyrics.com/lyrics/hunterhayes/stormwarning.html
 name: Storm Warning
@@ -55,8 +58,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2012-02-18'
+release_year: 2011
+runtime: 239906
 ---
-
 Yeah
 Oh no
 
@@ -127,6 +131,3 @@ Little heads up, little more time,
 Little leeway some kind of sign would've been nice
 Some kind of radar system,
 If I heard it yeah I would've listened to the storm warning, to the storm warning
-
-
-

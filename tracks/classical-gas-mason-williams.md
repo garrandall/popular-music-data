@@ -1,8 +1,11 @@
 ---
+album: The Mason Williams Phonographic Record
 artists:
 - Mason Williams
+external_ids:
+  spotify: spotify:track:4DK3JpX2NkEMhCnltUEvUg
 features: []
-genres: []
+first_released_as_single: false
 key: classical-gas-mason-williams
 name: Classical Gas
 rankings:
@@ -62,5 +65,7 @@ rankings:
   rank: 30
   ranking_list: Billboard Hot 100
   start_date: '1968-09-21'
+release_year: 1968
+runtime: 184800
 ---
 

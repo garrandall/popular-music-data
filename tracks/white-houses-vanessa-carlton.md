@@ -1,8 +1,11 @@
 ---
+album: Harmonium
 artists:
 - Vanessa Carlton
+external_ids:
+  spotify: spotify:track:4su3hxvmSxgAf8G02Cen1h
 features: []
-genres: []
+first_released_as_single: false
 key: white-houses-vanessa-carlton
 lyrics_url: https://www.azlyrics.com/lyrics/vanessacarlton/whitehouses.html
 name: White Houses
@@ -31,8 +34,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2004-11-20'
+release_year: 2004
+runtime: 224546
 ---
-
 Crashed on the floor when I moved in
 This little bungalow with some strange new friends
 Stay up too late, and I'm too thin
@@ -87,7 +91,4 @@ In white houses
 
 And you, maybe you'll remember me
 What I gave is yours to keep
-In white houses 
-
-
-
+In white houses

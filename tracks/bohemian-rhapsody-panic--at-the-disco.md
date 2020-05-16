@@ -1,8 +1,11 @@
 ---
+album: 'All My Friends We''re Glorious: Death of a Bachelor Tour Live'
 artists:
 - Panic! At The Disco
+external_ids:
+  spotify: spotify:track:6hnhksrWAA4OYYpKRh8Oqb
 features: []
-genres: []
+first_released_as_single: false
 key: bohemian-rhapsody-panic--at-the-disco
 lyrics_url: https://www.azlyrics.com/lyrics/panicatthedisco/bohemianrhapsody.html
 name: Bohemian Rhapsody
@@ -11,8 +14,9 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '2016-08-27'
+release_year: 2016
+runtime: 363114
 ---
-
 Is this the real life?
 Is this just fantasy?
 Caught in a landslide
@@ -86,6 +90,3 @@ Nothing really matters
 Nothing really matters to me
 
 Anyway the wind blows
-
-
-

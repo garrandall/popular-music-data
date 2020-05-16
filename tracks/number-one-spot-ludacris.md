@@ -1,8 +1,11 @@
 ---
+album: The Red Light District
 artists:
 - Ludacris
+external_ids:
+  spotify: spotify:track:5SV9SnHkuHMh446QsgQtry
 features: []
-genres: []
+first_released_as_single: false
 key: number-one-spot-ludacris
 lyrics_url: https://www.azlyrics.com/lyrics/ludacris/numberonespot.html
 name: Number One Spot
@@ -71,9 +74,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2005-06-18'
+release_year: 2004
+runtime: 274466
 ---
-
-
 Yeahhhh baby, heh heh, yeahh!
 
 
@@ -142,4 +145,3 @@ Stay on the track, hit the ground runnin like Flo-Jo
 Sent back in time and I've never lost my mojo
 Ladies and gentlemen ah, boys and girls
 Ludacris sent down to take over the whole world!
-

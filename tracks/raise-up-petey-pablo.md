@@ -1,8 +1,11 @@
 ---
+album: 'Diary of a Sinner: 1st Entry'
 artists:
 - Petey Pablo
+external_ids:
+  spotify: spotify:track:02GwPAncasVL82yC7y2hmN
 features: []
-genres: []
+first_released_as_single: false
 key: raise-up-petey-pablo
 lyrics_url: https://www.azlyrics.com/lyrics/peteypablo/raiseup.html
 name: Raise Up
@@ -91,9 +94,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2001-12-29'
+release_year: 2001
+runtime: 286426
 ---
-
-
 This is David Nevermind
 And today's controversy is coming from yet another member
 (Aiyyo tell 'em that we not gon' be playin)
@@ -176,4 +179,3 @@ I'm signing off, but before I'm outta here
 Remember, if I ever talked anything about the Polk guys, nevermind
 North Carolina and V.A. are definitely at the front of the line
 You have my vote of support, over and out
-

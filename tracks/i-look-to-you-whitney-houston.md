@@ -1,8 +1,11 @@
 ---
+album: I Look To You
 artists:
 - Whitney Houston
+external_ids:
+  spotify: spotify:track:1rAESNsSXvXpJh9hCjgHVX
 features: []
-genres: []
+first_released_as_single: false
 key: i-look-to-you-whitney-houston
 lyrics_url: https://www.musixmatch.com/lyrics/Whitney-Houston/I-Look-to-You
 name: I Look To You
@@ -31,6 +34,8 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '2009-10-03'
+release_year: 2009
+runtime: 265613
 ---
 As I lay me down
 Heaven, hear me now

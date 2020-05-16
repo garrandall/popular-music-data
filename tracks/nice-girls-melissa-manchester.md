@@ -1,8 +1,11 @@
 ---
+album: The Essential Melissa Manchester - The Arista Years
 artists:
 - Melissa Manchester
+external_ids:
+  spotify: spotify:track:79vlV9zpXSKhihR777cpuS
 features: []
-genres: []
+first_released_as_single: false
 key: nice-girls-melissa-manchester
 lyrics_url: https://www.musixmatch.com/lyrics/Melissa-Manchester/Nice-Girls
 name: Nice Girls
@@ -51,6 +54,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1983-04-16'
+release_year: 1983
+runtime: 222440
 ---
 I can see you staring at me
 I've been watching you

@@ -1,8 +1,11 @@
 ---
+album: Super Hits
 artists:
 - Bobby Bare
+external_ids:
+  spotify: spotify:track:22DvwrGNMvpikviGn3wSxu
 features: []
-genres: []
+first_released_as_single: false
 key: miller-s-cave-bobby-bare
 lyrics_url: https://www.azlyrics.com/lyrics/bobbybare/millerscave.html
 name: Miller's Cave
@@ -35,8 +38,9 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1964-03-21'
+release_year: 1964
+runtime: 175066
 ---
-
 Way down in the state of Georgia among the swamps and the everglades
 There's a big hole in Tiger Mountain
 God help the men who gets lost in Miller's Cave
@@ -53,6 +57,3 @@ And then I dragged their cheatin' skin and bones into Miller's Cave
 I couldn't stand the way she did me cause I guess I showed her I was brave
 The most wanted man in the state of Georgia
 But they'll never gonna find me cause I'm lost in Miller's Cave
-
-
-

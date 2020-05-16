@@ -1,8 +1,11 @@
 ---
+album: Saddle Tramp
 artists:
 - The Charlie Daniels Band
+external_ids:
+  spotify: spotify:track:5CIwObY4FWFTF17oG6M1Qa
 features: []
-genres: []
+first_released_as_single: false
 key: texas-the-charlie-daniels-band
 lyrics_url: https://www.azlyrics.com/lyrics/charliedanielsband/texas.html
 name: Texas
@@ -23,8 +26,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1976-02-28'
+release_year: 1973
+runtime: 335806
 ---
-
 There's a place not too far away from here
 Out with the cows and the Lone Star beer
 Where the livin' and lovin' is quite all right with me
@@ -44,6 +48,3 @@ And you can call them country and they don't care
 And if you don't like the way they wear their hair
 You can take your like and shove 'em on up the line
 People in Texas don't care if the sun don't shine
-
-
-

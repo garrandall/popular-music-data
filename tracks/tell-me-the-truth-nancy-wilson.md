@@ -1,8 +1,11 @@
 ---
+album: Yesterday's Love Songs, Today's Blues
 artists:
 - Nancy Wilson
+external_ids:
+  spotify: spotify:track:4vwWoQ2CtxgVTjQqmtsSSW
 features: []
-genres: []
+first_released_as_single: false
 key: tell-me-the-truth-nancy-wilson
 lyrics_url: https://www.musixmatch.com/lyrics/Nancy-Wilson/Tell-Me-the-Truth
 name: Tell Me The Truth
@@ -31,6 +34,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1963-09-28'
+release_year: 1963
+runtime: 153800
 ---
 I must know
 I've got to know

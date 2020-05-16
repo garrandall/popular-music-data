@@ -1,9 +1,12 @@
 ---
+album: Babel (Deluxe Version)
 artists:
 - Mumford
 - Sons
+external_ids:
+  spotify: spotify:track:48dghEx4vhyQQfFLwxPfHD
 features: []
-genres: []
+first_released_as_single: false
 key: lover-of-the-light-mumford-sons
 lyrics_url: https://www.azlyrics.com/lyrics/mumfordsons/loverofthelight.html
 name: Lover Of The Light
@@ -12,8 +15,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2012-10-20'
+release_year: 2012
+runtime: 314893
 ---
-
 And in the middle of the night
 I may watch you go
 There'll be no value in the strength
@@ -75,6 +79,3 @@ So love the one you hold
 And I will be your gold
 To have and to hold
 A lover of the light
-
-
-

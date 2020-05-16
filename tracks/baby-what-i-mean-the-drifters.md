@@ -1,8 +1,11 @@
 ---
+album: The Legacy Continues
 artists:
 - The Drifters
+external_ids:
+  spotify: spotify:track:0cDLCU61uUE1JECVlyDybZ
 features: []
-genres: []
+first_released_as_single: false
 key: baby-what-i-mean-the-drifters
 lyrics_url: https://genius.com/The-drifters-baby-what-i-mean-lyrics
 name: Baby What I Mean
@@ -35,6 +38,8 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '1967-01-14'
+release_year: 1966
+runtime: 207413
 ---
 Yeah, baby, you know
 That I mean what I say

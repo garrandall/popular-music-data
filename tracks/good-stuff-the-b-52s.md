@@ -1,8 +1,11 @@
 ---
+album: Good Stuff
 artists:
 - The B-52s
+external_ids:
+  spotify: spotify:track:70y8ayO7a32MwwPC0AQruT
 features: []
-genres: []
+first_released_as_single: false
 key: good-stuff-the-b-52s
 lyrics_url: https://www.azlyrics.com/lyrics/b52s/goodstuff.html
 name: Good Stuff
@@ -59,8 +62,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1992-09-12'
+release_year: 1992
+runtime: 355093
 ---
-
 Brrrr!
 All right
 Bum bum-Bum bum
@@ -173,6 +177,3 @@ Hey fellas, you got to have it, yeah!
 
 That good good good good good good good stuff!
 That good good good good good good good stuff!
-
-
-

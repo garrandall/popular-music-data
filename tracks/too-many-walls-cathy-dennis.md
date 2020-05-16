@@ -1,8 +1,11 @@
 ---
+album: 'Radio Waves of the ''90s: Pop Hits'
 artists:
 - Cathy Dennis
+external_ids:
+  spotify: spotify:track:7jflhWh7zF0Qvzk0Ngx1H3
 features: []
-genres: []
+first_released_as_single: false
 key: too-many-walls-cathy-dennis
 lyrics_url: https://genius.com/Cathy-dennis-too-many-walls-lyrics
 name: Too Many Walls
@@ -87,6 +90,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1991-11-16'
+release_year: 1991
+runtime: 268973
 ---
 Wish on a rainbow
 Is all I can do

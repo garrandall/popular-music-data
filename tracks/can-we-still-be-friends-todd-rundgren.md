@@ -1,8 +1,11 @@
 ---
+album: Hermit Of Mink Hollow
 artists:
 - Todd Rundgren
+external_ids:
+  spotify: spotify:track:5MRIlJbi80rdC8mHUh5bpk
 features: []
-genres: []
+first_released_as_single: false
 key: can-we-still-be-friends-todd-rundgren
 lyrics_url: https://www.azlyrics.com/lyrics/toddrundgren/canwestillbefriends.html
 name: Can We Still Be Friends
@@ -67,8 +70,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1978-09-02'
+release_year: 1978
+runtime: 217693
 ---
-
 We can't play this game anymore
 But can we still be friends?
 Things just can't go on like before
@@ -98,6 +102,3 @@ We awoke from our dream
 Things are not always what they seem
 Memories linger on
 It's like a sweet, sad old song
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: 'From A Room: Volume 1'
 artists:
 - Chris Stapleton
+external_ids:
+  spotify: spotify:track:2w1N1jR7L9HsIoLekqsYf2
 features: []
-genres: []
+first_released_as_single: true
 key: broken-halos-chris-stapleton
 lyrics_url: https://www.azlyrics.com/lyrics/chrisstapleton/brokenhalos.html
 name: Broken Halos
@@ -87,8 +90,9 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '2018-04-21'
+release_year: 2017
+runtime: 180906
 ---
-
 Seen my share of broken halos
 Folded wings that used to fly
 They've all gone wherever they go
@@ -118,6 +122,3 @@ Broken halos that used to shine
 Broken halos that used to shine
 Broken halos that used to shine
 Broken halos that used to shine
-
-
-

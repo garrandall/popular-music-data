@@ -1,8 +1,11 @@
 ---
+album: Ultra 2014
 artists:
 - Hadouken!
+external_ids:
+  spotify: spotify:track:0mlIGbISawkmSVTKrPMysF
 features: []
-genres: []
+first_released_as_single: false
 key: levitate-hadouken-
 lyrics_url: https://genius.com/Hadouken-levitate-lyrics
 name: Levitate
@@ -67,6 +70,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2013-06-22'
+release_year: 2013
+runtime: 300010
 ---
 Heart in my mouth
 But my head in the clouds; yeah

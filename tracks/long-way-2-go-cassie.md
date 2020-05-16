@@ -1,8 +1,11 @@
 ---
+album: Cassie (U.S. Version)
 artists:
 - Cassie
+external_ids:
+  spotify: spotify:track:4v5kAh2wWyCSuKuhMJK8u6
 features: []
-genres: []
+first_released_as_single: false
 key: long-way-2-go-cassie
 lyrics_url: https://www.azlyrics.com/lyrics/cassie/longway2go.html
 name: Long Way 2 Go
@@ -15,9 +18,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2006-11-11'
+release_year: 2006
+runtime: 220639
 ---
-
-
 I love it when they try to get intimate
 Even though they know I really ain't into it
 (You're not into it?) I'm not into it
@@ -104,6 +107,3 @@ It's not that deep, take it easy, you wanna please me?
 Got a long way 2 go, I said you gotta long way to go
 Rock wit me now, you gotta long way to go
 Bettah fall back, said you gotta long way to go
-
-
-

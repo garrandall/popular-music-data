@@ -1,9 +1,12 @@
 ---
+album: Speakerboxxx/The Love Below
 artists:
 - OutKast
+external_ids:
+  spotify: spotify:track:5z7mYFfhw6N6f23VwrokJD
 features:
 - Sleepy Brown
-genres: []
+first_released_as_single: false
 key: the-way-you-move-outkast-sleepy-brown
 lyrics_url: https://genius.com/Outkast-the-way-you-move-hey-ya-long-versions-lyrics
 name: The Way You Move
@@ -164,6 +167,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '2004-06-19'
+release_year: 2003
+runtime: 234000
 ---
 Part. 1 (Big Boi ft. Sleepy Brown - The Way You Move)
 

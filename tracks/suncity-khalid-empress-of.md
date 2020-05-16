@@ -1,9 +1,12 @@
 ---
+album: Suncity
 artists:
 - Khalid
+external_ids:
+  spotify: spotify:track:4AhSkRYioEIfGvCV19peYN
 features:
 - Empress Of
-genres: []
+first_released_as_single: false
 key: suncity-khalid-empress-of
 lyrics_url: https://genius.com/Khalid-suncity-lyrics
 name: Suncity
@@ -12,6 +15,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2018-11-03'
+release_year: 2018
+runtime: 189493
 ---
 Llévame a ciudad del sol
 Llévame, llévame

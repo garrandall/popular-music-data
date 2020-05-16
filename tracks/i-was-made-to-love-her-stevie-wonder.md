@@ -1,8 +1,11 @@
 ---
+album: I Was Made To Love Her
 artists:
 - Stevie Wonder
+external_ids:
+  spotify: spotify:track:2aCKBrLn7rbhStk5k4FwnF
 features: []
-genres: []
+first_released_as_single: false
 key: i-was-made-to-love-her-stevie-wonder
 lyrics_url: https://genius.com/Stevie-wonder-i-was-made-to-love-her-lyrics
 name: I Was Made To Love Her
@@ -67,6 +70,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1967-09-16'
+release_year: 1967
+runtime: 156440
 ---
 I was born in Lil' Rock
 Had a childhood sweetheart

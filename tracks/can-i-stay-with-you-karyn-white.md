@@ -1,8 +1,11 @@
 ---
+album: Make Him Do Right
 artists:
 - Karyn White
+external_ids:
+  spotify: spotify:track:7LcBP7lQSp9BojdqulANFE
 features: []
-genres: []
+first_released_as_single: false
 key: can-i-stay-with-you-karyn-white
 lyrics_url: https://www.azlyrics.com/lyrics/karynwhite/canistaywithyou.html
 name: Can I Stay With You
@@ -27,8 +30,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1995-03-18'
+release_year: 1994
+runtime: 338666
 ---
-
 Never felt so good before
 Never dreamed I would explore
 Makin' love in the positions that you got me doin'
@@ -123,6 +127,3 @@ For the rest of my life (Mmm... mmm...)
 Can I stay with you, babe
 Through the end of all time
 Oh, baby, please
-
-
-

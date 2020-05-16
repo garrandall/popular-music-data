@@ -1,8 +1,11 @@
 ---
+album: Grand Champ
 artists:
 - DMX
+external_ids:
+  spotify: spotify:track:6RUpJeXT6U4SPEafnr9Wr7
 features: []
-genres: []
+first_released_as_single: false
 key: where-the-hood-at--dmx
 lyrics_url: https://genius.com/Dmx-where-the-hood-at-lyrics
 name: Where The Hood At?
@@ -39,6 +42,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '2003-10-11'
+release_year: 2003
+runtime: 286266
 ---
 Ayo, y'all niggas must be out your fuckin' mind
 Thinkin' dog can't pull another motherfuckin' rabbit out the hat

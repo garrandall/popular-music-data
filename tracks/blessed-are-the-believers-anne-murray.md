@@ -1,8 +1,11 @@
 ---
+album: Where Do You Go When You Dream
 artists:
 - Anne Murray
+external_ids:
+  spotify: spotify:track:3mHYjCQLAE0gzVmf4Wantw
 features: []
-genres: []
+first_released_as_single: false
 key: blessed-are-the-believers-anne-murray
 lyrics_url: https://www.azlyrics.com/lyrics/annemurray/blessedarethebelievers.html
 name: Blessed Are The Believers
@@ -59,8 +62,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1981-06-20'
+release_year: 1981
+runtime: 161533
 ---
-
 Rain in the sky
 A tear in my eye
 Static on the radio
@@ -96,6 +100,3 @@ Blessed are the believers
 They shall inherit a heartache
 Believing in you, babe
 That was my greatest heartbreak
-
-
-

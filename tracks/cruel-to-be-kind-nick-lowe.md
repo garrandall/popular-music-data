@@ -1,8 +1,11 @@
 ---
+album: Labour of Lust
 artists:
 - Nick Lowe
+external_ids:
+  spotify: spotify:track:7D5ycpIrqwGNTQFKmzhDIg
 features: []
-genres: []
+first_released_as_single: false
 key: cruel-to-be-kind-nick-lowe
 lyrics_url: https://genius.com/Nick-lowe-cruel-to-be-kind-lyrics
 name: Cruel To Be Kind
@@ -67,6 +70,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1979-11-03'
+release_year: 1979
+runtime: 210131
 ---
 Oh, I can't take another heartache
 Though you say you're my friend, I'm at my wit's end

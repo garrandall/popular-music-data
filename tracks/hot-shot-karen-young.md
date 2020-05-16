@@ -1,8 +1,11 @@
 ---
+album: Hot Shot
 artists:
 - Karen Young
+external_ids:
+  spotify: spotify:track:7jjvGHTxJD1LxHCLymIePq
 features: []
-genres: []
+first_released_as_single: false
 key: hot-shot-karen-young
 lyrics_url: https://genius.com/Karen-young-disco-hot-shot-lyrics
 name: Hot Shot
@@ -59,6 +62,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1978-12-16'
+release_year: 1978
+runtime: 367853
 ---
 Whoa oh yeah
 

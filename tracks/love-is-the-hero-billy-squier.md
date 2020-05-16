@@ -1,8 +1,11 @@
 ---
+album: Enough Is Enough
 artists:
 - Billy Squier
+external_ids:
+  spotify: spotify:track:5ZlykQ8MBZvooP30gUyELG
 features: []
-genres: []
+first_released_as_single: false
 key: love-is-the-hero-billy-squier
 lyrics_url: https://www.azlyrics.com/lyrics/billysquier/loveisthehero.html
 name: Love Is The Hero
@@ -27,8 +30,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1986-11-01'
+release_year: 1986
+runtime: 289293
 ---
-
 There is a course in life
 So all the teachers say
 It calls you day and night
@@ -93,6 +97,3 @@ You make it anyhow
 Anyway
 
 Love is the hero
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Tower Of Strength
 artists:
 - Gene McDaniels
+external_ids:
+  spotify: spotify:track:58AQUNCF9bG34RxMsfwGol
 features: []
-genres: []
+first_released_as_single: false
 key: tower-of-strength-gene-mcdaniels
 lyrics_url: https://genius.com/Gene-mcdaniels-tower-of-strength-lyrics
 name: Tower Of Strength
@@ -59,6 +62,8 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '1961-12-25'
+release_year: 1961
+runtime: 137133
 ---
 If I were a tower of strength, I'd walk away
 I'd look in your eyes and here's what I'd say

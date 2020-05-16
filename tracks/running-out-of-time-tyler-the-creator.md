@@ -1,8 +1,11 @@
 ---
+album: IGOR
 artists:
 - Tyler, The Creator
+external_ids:
+  spotify: spotify:track:5QvBXUm5MglLJ3iBfTX2Wo
 features: []
-genres: []
+first_released_as_single: false
 key: running-out-of-time-tyler-the-creator
 lyrics_url: https://genius.com/Tyler-the-creator-running-out-of-time-lyrics
 name: Running Out Of Time
@@ -11,6 +14,8 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '2019-06-01'
+release_year: 2019
+runtime: 177226
 ---
 Runnin' out of time, runnin' out of time, runnin' out of time
 Runnin' out of time to make you love me

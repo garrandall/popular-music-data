@@ -1,9 +1,12 @@
 ---
+album: The Definitive Collection
 artists:
 - Tony Orlando
 - Dawn
+external_ids:
+  spotify: spotify:track:4Lz3enHeIXVTVpvim4vyFz
 features: []
-genres: []
+first_released_as_single: false
 key: skybird-tony-orlando-dawn
 lyrics_url: https://www.azlyrics.com/lyrics/tonyorlandodawn/skybird.html
 name: Skybird
@@ -28,8 +31,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1975-11-29'
+release_year: 1973
+runtime: 229266
 ---
-
 Skybird, my bird
 We fly so high and then
 You touch me warm and fly again
@@ -68,6 +72,3 @@ Oh, send her home, I'll make her heaven too
 Heaven have you seen a sign of Skybird?
 She's somewhere flyin' in your blue
 You've got all the stars, so why'd you take my bird?
-
-
-

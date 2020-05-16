@@ -1,8 +1,11 @@
 ---
+album: The Kickback
 artists:
 - Cali Swag District
+external_ids:
+  spotify: spotify:track:61LtVmmkGr8P9I2tSPvdpf
 features: []
-genres: []
+first_released_as_single: false
 key: teach-me-how-to-dougie-cali-swag-district
 lyrics_url: https://www.azlyrics.com/lyrics/caliswagdistrict/teachmehowtodougie.html
 name: Teach Me How To Dougie
@@ -87,8 +90,9 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '2010-10-23'
+release_year: 2010
+runtime: 237480
 ---
-
 Aye! Aye!
 Teach me how to dougie (aye!)
 
@@ -156,4 +160,3 @@ Dahhhh! Bitch, you can't tell me nothing
 Star made the beat, I just took it out the oven
 I just see the dougie when everybody clubbing
 And I hate skinny jeans 'cause the burner keep rubbing! (oh!)
-

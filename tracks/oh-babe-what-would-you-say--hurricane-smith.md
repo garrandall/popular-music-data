@@ -1,8 +1,11 @@
 ---
+album: From Me to You
 artists:
 - Hurricane Smith
+external_ids:
+  spotify: spotify:track:5QRa6irPCisJQ9TS2FXDDH
 features: []
-genres: []
+first_released_as_single: false
 key: oh-babe-what-would-you-say--hurricane-smith
 lyrics_url: https://genius.com/Hurricane-smith-oh-babe-what-would-you-say-lyrics
 name: Oh Babe What Would You Say?
@@ -67,6 +70,8 @@ rankings:
   rank: 33
   ranking_list: Billboard Hot 100
   start_date: '1973-03-10'
+release_year: 1972
+runtime: 204600
 ---
 Have I a hope for half a chance
 To even ask if I could dance with you

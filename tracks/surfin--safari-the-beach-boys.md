@@ -1,8 +1,11 @@
 ---
+album: Surfin' Safari
 artists:
 - The Beach Boys
+external_ids:
+  spotify: spotify:track:4kIYRtgbZyPzAWSFLdlajW
 features: []
-genres: []
+first_released_as_single: false
 key: surfin--safari-the-beach-boys
 lyrics_url: https://www.azlyrics.com/lyrics/beachboys/surfinsafari.html
 name: Surfin' Safari
@@ -75,8 +78,9 @@ rankings:
   rank: 52
   ranking_list: Billboard Hot 100
   start_date: '1962-12-01'
+release_year: 1962
+runtime: 126640
 ---
-
 Let's go surfin' now
 Everybody's learning how
 Come on and safari with me
@@ -144,6 +148,3 @@ With me
 Surfin' Safari
 With me
 Surfin' Safari
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Carnival Ride
 artists:
 - Carrie Underwood
+external_ids:
+  spotify: spotify:track:6xfL1KzGxg48ACVlQE9qXr
 features: []
-genres: []
+first_released_as_single: false
 key: so-small-carrie-underwood
 lyrics_url: https://genius.com/Carrie-underwood-so-small-lyrics
 name: So Small
@@ -87,6 +90,8 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '2008-01-12'
+release_year: 2007
+runtime: 225213
 ---
 Yeah, yeah, yeah
 

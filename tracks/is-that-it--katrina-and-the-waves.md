@@ -1,8 +1,11 @@
 ---
+album: Waves
 artists:
 - Katrina And The Waves
+external_ids:
+  spotify: spotify:track:0ckumbydCTVz1XBj3yLLgm
 features: []
-genres: []
+first_released_as_single: false
 key: is-that-it--katrina-and-the-waves
 lyrics_url: https://www.azlyrics.com/lyrics/katrinaandthewaves/isthatit.html
 name: Is That It?
@@ -39,8 +42,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1986-05-24'
+release_year: 1985
+runtime: 222293
 ---
-
 Is that it? Is that it? Is that it?
 
 Is that it? You gone and turned me loose
@@ -73,6 +77,3 @@ Guess my face don't fit, baby is that it?
 Is that it? Is that it? Is that it?
 
 Guess I'll say 'bye 'bye - baby, baby - 'bye 'bye!
-
-
-

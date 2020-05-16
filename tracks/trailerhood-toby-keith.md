@@ -1,8 +1,11 @@
 ---
+album: Bullets in the Gun
 artists:
 - Toby Keith
+external_ids:
+  spotify: spotify:track:2CdGhu82tkVWkXDPyJCiwU
 features: []
-genres: []
+first_released_as_single: false
 key: trailerhood-toby-keith
 lyrics_url: https://www.azlyrics.com/lyrics/tobykeith/trailerhood.html
 name: Trailerhood
@@ -23,8 +26,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2010-10-02'
+release_year: 2010
+runtime: 173693
 ---
-
 My neighbor carl, he lives next door
 Pink flamingos on his porch
 At night he teaches driving school
@@ -64,6 +68,3 @@ I got 'er made in the shade with the moonshine lemonade
 There's a party going on down in the trailerhood
 
 Bring me another beer, Momma
-
-
-

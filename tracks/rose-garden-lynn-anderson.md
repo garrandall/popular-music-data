@@ -1,8 +1,11 @@
 ---
+album: Rose Garden
 artists:
 - Lynn Anderson
+external_ids:
+  spotify: spotify:track:5TBn5BUiC731JytZDUZZmp
 features: []
-genres: []
+first_released_as_single: false
 key: rose-garden-lynn-anderson
 lyrics_url: https://www.azlyrics.com/lyrics/lynnanderson/rosegarden.html
 name: Rose Garden
@@ -75,8 +78,9 @@ rankings:
   rank: 30
   ranking_list: Billboard Hot 100
   start_date: '1971-03-20'
+release_year: 1966
+runtime: 173800
 ---
-
 I beg your pardon, I never promised you a rose garden
 Along with the sunshine there's gotta be a little rain sometime
 When you take, you gotta give, so live and let live and let go, oh, oh, oh, oh
@@ -109,6 +113,3 @@ Along with the sunshine, there's gotta be a little rain sometime
 
 I beg your pardon, I never promised you a rose garden
 Along with the sunshine, there's gotta be a little rain sometime
-
-
-

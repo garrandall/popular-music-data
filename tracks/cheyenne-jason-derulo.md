@@ -1,8 +1,11 @@
 ---
+album: Everything Is 4
 artists:
 - Jason Derulo
+external_ids:
+  spotify: spotify:track:3EofjRgUI1WrzqqtLb8NoF
 features: []
-genres: []
+first_released_as_single: false
 key: cheyenne-jason-derulo
 lyrics_url: https://www.azlyrics.com/lyrics/jasonderulo/cheyenne.html
 name: Cheyenne
@@ -35,8 +38,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2015-09-26'
+release_year: 2015
+runtime: 215107
 ---
-
 I'm a little unsure how it got so complicated
 If I let go I know I'll regret it
 Every heart that I held before, I was sure to break it
@@ -109,6 +113,3 @@ Cheyenne
 Cheyenne
 
 Cheyenne
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: His Greatest Tracks
 artists:
 - Jimmy Clanton
+external_ids:
+  spotify: spotify:track:5qgn1Yq91s40OGB0CIWvPn
 features: []
-genres: []
+first_released_as_single: false
 key: venus-in-blue-jeans-jimmy-clanton
 lyrics_url: https://genius.com/Jimmy-clanton-venus-in-blue-jeans-lyrics
 name: Venus In Blue Jeans
@@ -59,6 +62,8 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '1962-11-10'
+release_year: 1962
+runtime: 134773
 ---
 She's Venus in blue jeans
 Mona Lisa with a pony tail

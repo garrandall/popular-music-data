@@ -1,8 +1,11 @@
 ---
+album: Other Voices
 artists:
 - The Doors
+external_ids:
+  spotify: spotify:track:1or0h28Na9E1iErdm5bdxK
 features: []
-genres: []
+first_released_as_single: false
 key: tightrope-ride-the-doors
 lyrics_url: https://www.azlyrics.com/lyrics/doors/tightroperide.html
 name: Tightrope Ride
@@ -35,8 +38,9 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1972-01-08'
+release_year: 1971
+runtime: 260626
 ---
-
 You're on a tightrope ride, nobody by your side
 Well, you're all alone, gotta find a new home
 
@@ -66,6 +70,3 @@ But you're all alone, and we're going home
 And we're by your side, but you're all alone
 Like a Rolling Stone, like Brian Jones
 On a tightrope ride
-
-
-

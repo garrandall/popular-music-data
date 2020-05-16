@@ -1,8 +1,11 @@
 ---
+album: All I Want Is You
 artists:
 - Miguel
+external_ids:
+  spotify: spotify:track:4isk4UYRcmslphcTq61xUg
 features: []
-genres: []
+first_released_as_single: false
 key: quickie-miguel
 lyrics_url: https://www.azlyrics.com/lyrics/miguel/quickie.html
 name: Quickie
@@ -63,8 +66,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2011-11-05'
+release_year: 2010
+runtime: 226360
 ---
-
 Mami you looking like I'm just another guy
 That came to check you
 That came to wreck you
@@ -110,8 +114,3 @@ Pillage and plunder
 Call me your plumber
 Knock on this wood
 Get rocked by this thunder
-
-
-
-
-

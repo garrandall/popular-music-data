@@ -1,8 +1,11 @@
 ---
+album: A Day At The Races (Deluxe Remastered Version)
 artists:
 - Queen
+external_ids:
+  spotify: spotify:track:6K8gEgGkOyD1wFY3kAcyOy
 features: []
-genres: []
+first_released_as_single: false
 key: tie-your-mother-down-queen
 lyrics_url: https://genius.com/Queen-tie-your-mother-down-lyrics
 name: Tie Your Mother Down
@@ -31,6 +34,8 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '1977-04-23'
+release_year: 1976
+runtime: 286693
 ---
 Oh yeah
 Oh yeah

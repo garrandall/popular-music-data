@@ -1,8 +1,11 @@
 ---
+album: Rant N' Rave With The Stray Cats
 artists:
 - Stray Cats
+external_ids:
+  spotify: spotify:track:6FKvNrS5jAYMnnJWrZUF3i
 features: []
-genres: []
+first_released_as_single: false
 key: i-won-t-stand-in-your-way-stray-cats
 lyrics_url: https://genius.com/Stray-cats-i-wont-stand-in-your-way-lyrics
 name: I Won't Stand In Your Way
@@ -59,6 +62,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1984-01-21'
+release_year: 1983
+runtime: 237466
 ---
 I, I've got a low down dirty feeling
 That I've been cheated on, and lied to

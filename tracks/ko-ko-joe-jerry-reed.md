@@ -1,8 +1,11 @@
 ---
+album: The Essential Jerry Reed
 artists:
 - Jerry Reed
+external_ids:
+  spotify: spotify:track:4UaF5YNhrAYf3m7TGb2qaZ
 features: []
-genres: []
+first_released_as_single: false
 key: ko-ko-joe-jerry-reed
 lyrics_url: https://www.azlyrics.com/lyrics/jerryreed/kokojoe.html
 name: Ko-Ko Joe
@@ -31,8 +34,9 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '1971-10-09'
+release_year: 1971
+runtime: 150733
 ---
-
 (Ko-Ko Joe Ko-Ko Joe Ko-Ko Joe Ko-Ko Joe)
 
 Way up in Appaloosa County there's a place called Ko-ko ridge
@@ -60,6 +64,3 @@ Well the headlines read how a mother said my son would have lost his life
 But he was pulled from the mud in the Etowah River by the man y'all all despise
 
 Ko-Ko Joe they called him the Etowah River swamp rat and folks despised him
-
-
-

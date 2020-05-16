@@ -1,8 +1,11 @@
 ---
+album: 'Jimmy Dean: All-Time Greatest Hits'
 artists:
 - Jimmy Dean
+external_ids:
+  spotify: spotify:track:6G4eZPVqKgMOe5r1ZiwVrb
 features: []
-genres: []
+first_released_as_single: false
 key: the-cajun-queen-jimmy-dean
 lyrics_url: https://www.azlyrics.com/lyrics/jimmydean/thecajunqueen.html
 name: The Cajun Queen
@@ -39,8 +42,9 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '1962-03-17'
+release_year: 1961
+runtime: 158706
 ---
-
 She kinda breezed into town from New Orleans
 And said, "Boys, I'm Big John's Cajun Queen
 Now I didn't come here to argue or waste anybody's time
@@ -81,6 +85,3 @@ Now the moral of this story
 Has a real clear omen
 Don't you ever underestimate
 The power of a woman
-
-
-

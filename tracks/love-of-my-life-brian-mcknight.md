@@ -1,8 +1,11 @@
 ---
+album: Superhero
 artists:
 - Brian McKnight
+external_ids:
+  spotify: spotify:track:0pCDds54QUooGedfpHUjtW
 features: []
-genres: []
+first_released_as_single: false
 key: love-of-my-life-brian-mcknight
 lyrics_url: https://genius.com/Brian-mcknight-love-of-my-life-lyrics
 name: Love Of My Life
@@ -87,6 +90,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2002-01-26'
+release_year: 2001
+runtime: 281866
 ---
 First,first time I look into your eyes
 I saw heaven-oh-heaven in your eyes

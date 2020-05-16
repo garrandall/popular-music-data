@@ -1,8 +1,11 @@
 ---
+album: Sugar Ray
 artists:
 - Sugar Ray
+external_ids:
+  spotify: spotify:track:5ZsPy9wHH733NlU6c4v2Hi
 features: []
-genres: []
+first_released_as_single: false
 key: when-it-s-over-sugar-ray
 lyrics_url: https://genius.com/Sugar-ray-when-its-over-lyrics
 name: When It's Over
@@ -95,6 +98,8 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '2001-10-27'
+release_year: 2001
+runtime: 217853
 ---
 When it's over
 That's the time I fall in love again

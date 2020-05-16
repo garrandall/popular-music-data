@@ -1,9 +1,12 @@
 ---
+album: MTV Unplugged (Live)
 artists:
 - Korn
+external_ids:
+  spotify: spotify:track:5YbyaIPUpj9ZoTI7un6Zsb
 features:
 - Amy Lee
-genres: []
+first_released_as_single: false
 key: freak-on-a-leash--unplugged--korn-amy-lee
 lyrics_url: https://genius.com/Korn-freak-on-a-leash-clean-lyrics
 name: Freak On A Leash (Unplugged)
@@ -12,6 +15,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2007-03-17'
+release_year: 2007
+runtime: 235800
 ---
 Jonathan:
 I wanna bring up Amy Lee from Evanescence

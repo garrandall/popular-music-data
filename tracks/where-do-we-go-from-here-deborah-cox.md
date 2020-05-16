@@ -1,8 +1,11 @@
 ---
+album: Deborah Cox (Expanded)
 artists:
 - Deborah Cox
+external_ids:
+  spotify: spotify:track:11gI5uqSKvwquuoKHPH99V
 features: []
-genres: []
+first_released_as_single: false
 key: where-do-we-go-from-here-deborah-cox
 lyrics_url: https://www.azlyrics.com/lyrics/deborahcox/wheredowegofromhere.html
 name: Where Do We Go From Here
@@ -63,8 +66,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1996-10-05'
+release_year: 1995
+runtime: 259200
 ---
-
 When you're in love
 Some things you take for granted until someone
 Pulls it apart and leaves you with half of your heart
@@ -98,4 +102,3 @@ So tell me
 Letting go, warrants so much
 I know what I'm feeling inside
 But part of me still wants to try
-

@@ -1,8 +1,11 @@
 ---
+album: 'Thinks: School Stinks'
 artists:
 - Hotlegs
+external_ids:
+  spotify: spotify:track:2qogsvbvGqWaQa0AD2vAhh
 features: []
-genres: []
+first_released_as_single: false
 key: neanderthal-man-hotlegs
 lyrics_url: https://genius.com/Hotlegs-neanderthal-man-lyrics
 name: Neanderthal Man
@@ -43,6 +46,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1970-10-17'
+release_year: 1970
+runtime: 254866
 ---
 I'm a Neanderthal man
 You're a Neanderthal girl

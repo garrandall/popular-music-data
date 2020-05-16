@@ -1,8 +1,11 @@
 ---
+album: 'Stax Profiles: The Staple Singers'
 artists:
 - The Staple Singers
+external_ids:
+  spotify: spotify:track:4dUL4XveKKNGd1OfjIm6Fk
 features: []
-genres: []
+first_released_as_single: false
 key: oh-la-de-da-the-staple-singers
 lyrics_url: https://www.azlyrics.com/lyrics/staplesingers/ohladeda.html
 name: Oh La De Da
@@ -43,8 +46,9 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '1973-05-05'
+release_year: 1972
+runtime: 296466
 ---
-
 If you feel like clapping your hands
 You better come on, come on
 Come on, come on
@@ -97,6 +101,3 @@ Oh, la de dah, oh, yeah...
 Oh, la de dah, oh, la de dah
 Oh, la de dah, oh, la de dah
 Oh, la de dah, oh, la de dah
-
-
-

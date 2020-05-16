@@ -1,9 +1,12 @@
 ---
+album: Press Play
 artists:
 - Diddy
+external_ids:
+  spotify: spotify:track:5gfPJ45gpn3ThswDyeW0Qc
 features:
 - Keyshia Cole
-genres: []
+first_released_as_single: false
 key: last-night-diddy-keyshia-cole
 lyrics_url: https://genius.com/Diddy-last-night-lyrics
 name: Last Night
@@ -96,6 +99,8 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '2007-06-30'
+release_year: 2006
+runtime: 388226
 ---
 Last night, I couldn't even get an answer
 I tried to call, but my pride wouldn't let me dial

@@ -1,8 +1,11 @@
 ---
+album: Get Closer
 artists:
 - Linda Ronstadt
+external_ids:
+  spotify: spotify:track:5GNNHAaVKa4FY76m9KHFqQ
 features: []
-genres: []
+first_released_as_single: false
 key: i-knew-you-when-linda-ronstadt
 lyrics_url: https://genius.com/Linda-ronstadt-i-knew-you-when-lyrics
 name: I Knew You When
@@ -55,6 +58,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1983-02-26'
+release_year: 1982
+runtime: 174720
 ---
 Yeah yeah yeah yeah
 Yeah yeah yeah ye-ah

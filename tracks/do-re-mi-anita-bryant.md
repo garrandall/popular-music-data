@@ -1,8 +1,11 @@
 ---
+album: The Anita Bryant Collection 1958-62
 artists:
 - Anita Bryant
+external_ids:
+  spotify: spotify:track:73NhwOzPlFWjcbImQV6bMI
 features: []
-genres: []
+first_released_as_single: false
 key: do-re-mi-anita-bryant
 lyrics_url: https://genius.com/Anita-bryant-do-re-mi-lyrics
 name: Do-Re-Mi
@@ -11,6 +14,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1959-12-28'
+release_year: 1959
+runtime: 142093
 ---
 Do (do) re (re) mi (mi) fa (fa)
 So (so) la (la) ti (ti) do

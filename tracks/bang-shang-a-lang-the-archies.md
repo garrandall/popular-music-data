@@ -1,8 +1,11 @@
 ---
+album: The Archies
 artists:
 - The Archies
+external_ids:
+  spotify: spotify:track:6jcBfAlRiWUk5A4SR3E8UO
 features: []
-genres: []
+first_released_as_single: false
 key: bang-shang-a-lang-the-archies
 lyrics_url: https://www.azlyrics.com/lyrics/archies/bangshangalang.html
 name: Bang-Shang-A-Lang
@@ -59,8 +62,9 @@ rankings:
   rank: 32
   ranking_list: Billboard Hot 100
   start_date: '1968-12-21'
+release_year: 1968
+runtime: 151725
 ---
-
 I recall just walking down the street
 Trying to escape the city heat
 I saw her from the corner of my eye, eye, eye
@@ -98,6 +102,3 @@ And they'll go bang shang a lang, bang shang a lang
 Bang shang a lang, bang, bang
 And they'll go bang shang a lang, bang shang a lang
 Bang shang a lang, bang, bang
-
-
-

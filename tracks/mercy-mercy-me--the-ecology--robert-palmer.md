@@ -1,8 +1,11 @@
 ---
+album: Don't Explain
 artists:
 - Robert Palmer
+external_ids:
+  spotify: spotify:track:6hca73V4uCdpivMbukjMZL
 features: []
-genres: []
+first_released_as_single: false
 key: mercy-mercy-me--the-ecology--robert-palmer
 lyrics_url: https://genius.com/Robert-palmer-mercy-mercy-me-lyrics
 name: Mercy Mercy Me (The Ecology)
@@ -75,6 +78,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1991-06-08'
+release_year: 1990
+runtime: 357346
 ---
 Whoa, oh mercy mercy me
 Oh, things ain't what they used to be, no, no

@@ -1,8 +1,11 @@
 ---
+album: Thankful
 artists:
 - Kelly Clarkson
+external_ids:
+  spotify: spotify:track:2CZi8d774dBB0wiuWMIpr8
 features: []
-genres: []
+first_released_as_single: false
 key: miss-independent-kelly-clarkson
 lyrics_url: https://www.azlyrics.com/lyrics/kellyclarkson/missindependent.html
 name: Miss Independent
@@ -87,8 +90,9 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '2003-09-27'
+release_year: 2003
+runtime: 214786
 ---
-
 Miss Independent
 Miss Self-Sufficient
 Miss Keep-Your-Distance
@@ -157,6 +161,3 @@ Goodbye (goodbye), old you
 When love, when love is true
 
 Miss Independent
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: A Salute To Aaliyah
 artists:
 - Aaliyah
+external_ids:
+  spotify: spotify:track:52IKUZIr66lMvy7COxmG9x
 features: []
-genres: []
+first_released_as_single: false
 key: try-again-aaliyah
 lyrics_url: https://www.azlyrics.com/lyrics/aaliyah/tryagain.html
 name: Try Again
@@ -135,8 +138,9 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '2000-10-21'
+release_year: 2000
+runtime: 284240
 ---
-
 It's been a long time, we shouldn't have left you
 Without a dope beat to step to, step to, step to, step to, step to, step to, freaky-freaky
 It's been a long time, we shouldn't have left you
@@ -251,6 +255,3 @@ One more beat
 A new millennium baby
 Let me out
 You guess what it is
-
-
-

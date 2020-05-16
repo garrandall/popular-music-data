@@ -1,8 +1,11 @@
 ---
+album: Portrait
 artists:
 - The 5th Dimension
+external_ids:
+  spotify: spotify:track:3CpOxIp8D4LLjJljuLo4mI
 features: []
-genres: []
+first_released_as_single: false
 key: puppet-man-the-5th-dimension
 lyrics_url: https://www.azlyrics.com/lyrics/5thdimension/puppetman.html
 name: Puppet Man
@@ -39,8 +42,9 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1970-06-06'
+release_year: 1970
+runtime: 178426
 ---
-
 Baby, baby you know it's true
 I'm a puppet just for you
 I'll do anything you say
@@ -82,6 +86,3 @@ Puppet man, puppet man
 Puppet man, puppet man
 Puppet man, puppet man
 Puppet man, puppet man
-
-
-

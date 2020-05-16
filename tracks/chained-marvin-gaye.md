@@ -1,8 +1,11 @@
 ---
+album: In The Groove
 artists:
 - Marvin Gaye
+external_ids:
+  spotify: spotify:track:0jMryMUSRY0Tn60X0vFric
 features: []
-genres: []
+first_released_as_single: false
 key: chained-marvin-gaye
 lyrics_url: https://genius.com/Marvin-gaye-chained-lyrics
 name: Chained
@@ -47,6 +50,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1968-11-16'
+release_year: 1968
+runtime: 158173
 ---
 Seems just yesterday you were in my arms
 And in a special way you touched my heart with all your charms

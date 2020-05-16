@@ -1,9 +1,12 @@
 ---
+album: One More Light
 artists:
 - Linkin Park
+external_ids:
+  spotify: spotify:track:32bqxZEJRJObeNyc8bEiPt
 features:
 - Kiiara
-genres: []
+first_released_as_single: true
 key: heavy-linkin-park-kiiara
 lyrics_url: https://www.azlyrics.com/lyrics/linkinpark/heavy.html
 name: Heavy
@@ -84,9 +87,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2017-08-19'
+release_year: 2017
+runtime: 169800
 ---
-
-
 I don't like my mind right now
 Stacking up problems that are so unnecessary
 Wish that I could slow things down
@@ -150,6 +153,3 @@ Why is everything so heavy?
 
 
 Why is everything so heavy?
-
-
-

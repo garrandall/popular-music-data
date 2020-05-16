@@ -1,8 +1,11 @@
 ---
+album: This Little Boy of Mine
 artists:
 - Gloria Lynne
+external_ids:
+  spotify: spotify:track:1aG8psjvY74GbWPEGXpa68
 features: []
-genres: []
+first_released_as_single: false
 key: impossible-gloria-lynne
 lyrics_url: https://genius.com/Gloria-lynne-impossible-lyrics
 name: Impossible
@@ -23,6 +26,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1961-10-02'
+release_year: 1958
+runtime: 175066
 ---
 Impossible They say it's impossible
 That someone sweet as you

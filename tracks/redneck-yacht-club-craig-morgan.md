@@ -1,8 +1,11 @@
 ---
+album: My Kind Of Livin'
 artists:
 - Craig Morgan
+external_ids:
+  spotify: spotify:track:4etE2X6t7GmyiuYLIdI8H5
 features: []
-genres: []
+first_released_as_single: false
 key: redneck-yacht-club-craig-morgan
 lyrics_url: https://www.azlyrics.com/lyrics/craigmorgan/redneckyachtclub.html
 name: Redneck Yacht Club
@@ -83,8 +86,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2005-12-10'
+release_year: 2005
+runtime: 230373
 ---
-
 Im meetin' my buddies out on the lake 
 We're headed out to a special place we love 
 That just a few folks know
@@ -136,6 +140,3 @@ The Redneck Yacht Club
 The Redneck Yacht Club
 
 The Redneck Yacht Club
-
-
-

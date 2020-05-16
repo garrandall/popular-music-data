@@ -1,8 +1,11 @@
 ---
+album: Here Come The Judge
 artists:
 - Pigmeat Markham
+external_ids:
+  spotify: spotify:track:3uMdXkkHTAVD5v9qXMuuGz
 features: []
-genres: []
+first_released_as_single: false
 key: here-comes-the-judge-pigmeat-markham
 lyrics_url: https://genius.com/Pigmeat-markham-here-comes-the-judge-lyrics
 name: Here Comes The Judge
@@ -39,6 +42,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1968-08-03'
+release_year: 1968
+runtime: 160880
 ---
 Hear ye, hear ye
 This court is now in session

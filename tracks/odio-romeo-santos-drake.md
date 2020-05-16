@@ -1,9 +1,12 @@
 ---
+album: "F\xF3rmula, Vol. 2"
 artists:
 - Romeo Santos
+external_ids:
+  spotify: spotify:track:1iLv1ieT9BZ3qsti9yTCnG
 features:
 - Drake
-genres: []
+first_released_as_single: false
 key: odio-romeo-santos-drake
 lyrics_url: https://genius.com/Romeo-santos-odio-lyrics
 name: Odio
@@ -52,6 +55,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2014-04-26'
+release_year: 2014
+runtime: 225000
 ---
 Yeah, yeah
 Envy is a sign of admiration

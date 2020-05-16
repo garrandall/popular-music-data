@@ -1,8 +1,11 @@
 ---
+album: 22B3
 artists:
 - Device
+external_ids:
+  spotify: spotify:track:5hsC00g3JK5ZvWlBOZOUQi
 features: []
-genres: []
+first_released_as_single: false
 key: hanging-on-a-heart-attack-device
 lyrics_url: https://genius.com/Device-hanging-on-a-heart-attack-lyrics
 name: Hanging On A Heart Attack
@@ -63,6 +66,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1986-09-13'
+release_year: 1986
+runtime: 310426
 ---
 Can you ride the rhythm of this human wave?
 Caught up in the music and the space you save

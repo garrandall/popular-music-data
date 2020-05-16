@@ -1,8 +1,11 @@
 ---
+album: For Once In My Life
 artists:
 - Stevie Wonder
+external_ids:
+  spotify: spotify:track:0dMENikF2KCGHCIKt4Ljtd
 features: []
-genres: []
+first_released_as_single: false
 key: you-met-your-match-stevie-wonder
 lyrics_url: https://www.azlyrics.com/lyrics/steviewonder/youmetyourmatch.html
 name: You Met Your Match
@@ -35,8 +38,9 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '1968-08-31'
+release_year: 1968
+runtime: 158013
 ---
-
 Hey you were good at playing the fox girl
 When I was good you threw me a bone
 But I ain't playing hot for nobody
@@ -85,6 +89,3 @@ You met your match
 Baby
 
 You met your match in me..
-
-
-

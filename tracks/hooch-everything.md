@@ -1,8 +1,11 @@
 ---
+album: In the Juju Underworld
 artists:
 - Everything
+external_ids:
+  spotify: spotify:track:0hRK7UKSKVS5a18mxYT6pO
 features: []
-genres: []
+first_released_as_single: false
 key: hooch-everything
 lyrics_url: https://genius.com/Everything-hooch-lyrics
 name: Hooch
@@ -35,6 +38,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1999-01-16'
+release_year: 1998
+runtime: 219843
 ---
 Who got the hooch
 Who got the hooch

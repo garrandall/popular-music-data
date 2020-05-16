@@ -1,8 +1,11 @@
 ---
+album: The Heart Wants What It Wants
 artists:
 - Selena Gomez
+external_ids:
+  spotify: spotify:track:6wJwkMo278iWVlWl1XQ4WA
 features: []
-genres: []
+first_released_as_single: true
 key: the-heart-wants-what-it-wants-selena-gomez
 lyrics_url: https://www.azlyrics.com/lyrics/selenagomez/theheartwantswhatitwants.html
 name: The Heart Wants What It Wants
@@ -87,8 +90,9 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2015-04-04'
+release_year: 2014
+runtime: 227373
 ---
-
 You got me sipping on something
 I can't compare to nothing
 I've ever known, I'm hoping
@@ -152,6 +156,3 @@ The heart wants what it wants, baby
 It wants what it wants, baby
 It wants what it wants
 It wants what it wants
-
-
-

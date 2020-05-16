@@ -1,8 +1,11 @@
 ---
+album: Moody Blue
 artists:
 - Elvis Presley
+external_ids:
+  spotify: spotify:track:0JnEaldTC6IFyUGOqppFdG
 features: []
-genres: []
+first_released_as_single: false
 key: way-down-elvis-presley
 lyrics_url: https://www.musixmatch.com/lyrics/Elvis-Presley/Way-Down
 name: Way Down
@@ -91,6 +94,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1977-11-12'
+release_year: 1977
+runtime: 158013
 ---
 Babe, you're getting closer
 The lights are goin' dim

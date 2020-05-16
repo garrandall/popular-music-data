@@ -1,8 +1,11 @@
 ---
+album: Country Wine
 artists:
 - The Raiders
+external_ids:
+  spotify: spotify:track:14gEDdEI7OXsOITWrVjkmD
 features: []
-genres: []
+first_released_as_single: false
 key: song-seller-the-raiders
 lyrics_url: https://www.azlyrics.com/lyrics/paulreveretheraiders/songseller.html
 name: Song Seller
@@ -19,8 +22,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1972-11-04'
+release_year: 1972
+runtime: 210946
 ---
-
 This is just our little memo
 To remind you of my demo
 Put in the mail a week ago
@@ -58,6 +62,3 @@ I suppose we've got it made
 You're such a charmin' fellow
 Why can't you get this record played
 Record played, record played, oh
-
-
-

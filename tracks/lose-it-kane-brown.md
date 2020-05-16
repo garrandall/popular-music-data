@@ -1,8 +1,11 @@
 ---
+album: Experiment Extended
 artists:
 - Kane Brown
+external_ids:
+  spotify: spotify:track:2Xwhz02rYpgihXht13EQzx
 features: []
-genres: []
+first_released_as_single: true
 key: lose-it-kane-brown
 lyrics_url: https://www.azlyrics.com/lyrics/kanebrown/loseit.html
 name: Lose It
@@ -87,8 +90,9 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '2018-12-08'
+release_year: 2018
+runtime: 183081
 ---
-
 That lit up, ringin', buzzin', good for nothing phone in your hand
 The directions to the party that's just started with that cover band
 That old school radio station, that's just driving till it's faded, girl
@@ -145,6 +149,3 @@ Yeah, I lose it (I lose it)
 Yeah, I lose it
 Girl, I lose it
 Yeah, I lose it
-
-
-

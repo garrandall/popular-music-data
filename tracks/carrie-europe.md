@@ -1,8 +1,11 @@
 ---
+album: The Final Countdown
 artists:
 - Europe
+external_ids:
+  spotify: spotify:track:29wJiSQcze8HEmxkUQykyp
 features: []
-genres: []
+first_released_as_single: false
 key: carrie-europe
 lyrics_url: https://www.azlyrics.com/lyrics/europe/carrie.html
 name: Carrie
@@ -83,8 +86,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1987-12-05'
+release_year: 1986
+runtime: 272133
 ---
-
 When lights go down, I see no reason
 For you to cry. We've been through this before
 In every time, in every season,
@@ -117,6 +121,3 @@ Carrie, Carrie, maybe we'll meet again
 Oh somewhere, again
 
 When lights go down
-
-
-

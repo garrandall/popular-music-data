@@ -1,8 +1,11 @@
 ---
+album: Save the Last Dance for Me
 artists:
 - The Drifters
+external_ids:
+  spotify: spotify:track:1vbmdeXAV4fXR12I5FR5tD
 features: []
-genres: []
+first_released_as_single: false
 key: please-stay-the-drifters
 lyrics_url: https://genius.com/The-drifters-please-stay-lyrics
 name: Please Stay
@@ -55,6 +58,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1961-08-21'
+release_year: 1961
+runtime: 135480
 ---
 Don't go
 (Please stay)

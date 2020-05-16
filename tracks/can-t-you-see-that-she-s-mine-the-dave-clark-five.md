@@ -1,8 +1,11 @@
 ---
+album: The Dave Clark Five Return!
 artists:
 - The Dave Clark Five
+external_ids:
+  spotify: spotify:track:5AI0igDZhr8Au7Y4f3sczL
 features: []
-genres: []
+first_released_as_single: false
 key: can-t-you-see-that-she-s-mine-the-dave-clark-five
 lyrics_url: https://www.musixmatch.com/lyrics/The-Dave-Clark-Five/Can-t-You-See-That-She-s-Mine
 name: Can't You See That She's Mine
@@ -47,6 +50,8 @@ rankings:
   rank: 31
   ranking_list: Billboard Hot 100
   start_date: '1964-08-15'
+release_year: 1964
+runtime: 141880
 ---
 Whoa, can't you see that she's mine?
 We've been together for a long, long time

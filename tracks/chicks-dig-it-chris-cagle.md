@@ -1,8 +1,11 @@
 ---
+album: Chris Cagle
 artists:
 - Chris Cagle
+external_ids:
+  spotify: spotify:track:0nprj2O0teCglthuhzTG5o
 features: []
-genres: []
+first_released_as_single: false
 key: chicks-dig-it-chris-cagle
 lyrics_url: https://www.azlyrics.com/lyrics/chriscagle/chicksdigit.html
 name: Chicks Dig It
@@ -67,8 +70,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2004-02-07'
+release_year: 2003
+runtime: 210560
 ---
-
 Hey y'all...watch this
 Daddy's belt
 Momma's drapes
@@ -117,6 +121,3 @@ Hey the chicks dig it
 The chicks dig it
 the chicks dig it
 the chicks dig it
-
-
-

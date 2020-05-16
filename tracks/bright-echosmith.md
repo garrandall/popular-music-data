@@ -1,8 +1,11 @@
 ---
+album: Talking Dreams (Deluxe Version)
 artists:
 - Echosmith
+external_ids:
+  spotify: spotify:track:3WKg25vrbjJlkhsgl2W4p3
 features: []
-genres: []
+first_released_as_single: false
 key: bright-echosmith
 lyrics_url: https://www.azlyrics.com/lyrics/echosmith/bright.html
 name: Bright
@@ -87,8 +90,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2015-08-15'
+release_year: 2013
+runtime: 220626
 ---
-
 I think the universe is on my side
 Heaven and Earth have finally aligned
 Days are good and that's the way it should be
@@ -133,4 +137,3 @@ I think you and the Moon and Neptune got it right*
 Bright, so bright
 Bright, so bright
 And I get lost in your eyes tonight
-

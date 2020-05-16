@@ -1,8 +1,11 @@
 ---
+album: Private Dancer (30th Anniversary Issue)
 artists:
 - Tina Turner
+external_ids:
+  spotify: spotify:track:1lnhqGHVTUYdu9DlxaGUve
 features: []
-genres: []
+first_released_as_single: false
 key: one-of-the-living-tina-turner
 lyrics_url: https://genius.com/Tina-turner-one-of-the-living-lyrics
 name: One Of The Living
@@ -79,6 +82,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1986-02-01'
+release_year: 1984
+runtime: 251640
 ---
 In the desert sun every step that you take could be the final one
 And in the burning heat

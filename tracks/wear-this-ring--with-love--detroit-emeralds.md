@@ -1,8 +1,11 @@
 ---
+album: Do Me Right
 artists:
 - Detroit Emeralds
+external_ids:
+  spotify: spotify:track:4ltOl1H95DGsbZCVQI99Q2
 features: []
-genres: []
+first_released_as_single: false
 key: wear-this-ring--with-love--detroit-emeralds
 lyrics_url: https://www.musixmatch.com/lyrics/Detroit-Emeralds/Wear-This-Ring-With-Love
 name: Wear This Ring (With Love)
@@ -23,6 +26,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1971-09-04'
+release_year: 1971
+runtime: 193960
 ---
 Wear this ring with love forever
 Wear this ring with love

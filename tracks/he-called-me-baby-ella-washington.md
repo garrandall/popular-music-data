@@ -1,8 +1,11 @@
 ---
+album: Ella Washington
 artists:
 - Ella Washington
+external_ids:
+  spotify: spotify:track:6mu0nDX8yAEELwnBrieAmV
 features: []
-genres: []
+first_released_as_single: false
 key: he-called-me-baby-ella-washington
 lyrics_url: https://genius.com/Ella-washington-he-called-me-baby-lyrics
 name: He Called Me Baby
@@ -19,6 +22,8 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1969-02-01'
+release_year: 1969
+runtime: 184773
 ---
 He called me baby, baby all night long
 Used to hold and kiss me till the dawn

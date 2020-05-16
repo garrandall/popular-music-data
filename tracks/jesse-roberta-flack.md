@@ -1,8 +1,11 @@
 ---
+album: Killing Me Softly
 artists:
 - Roberta Flack
+external_ids:
+  spotify: spotify:track:3OepQ3fQXOa0Tr6H7RKHn6
 features: []
-genres: []
+first_released_as_single: false
 key: jesse-roberta-flack
 lyrics_url: https://www.azlyrics.com/lyrics/robertaflack/jesse.html
 name: Jesse
@@ -43,8 +46,9 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '1973-11-17'
+release_year: 1973
+runtime: 241533
 ---
-
 Jesse, come home, there's a hole in the bed
 Where we slept, now it's growing cold
 Jesse, your face and the place where we lay
@@ -69,6 +73,3 @@ Hey Jess, me and you
 Will swallow the light on the stairs
 I'll fix up my hair, we'll sleep unaware
 Hey Jesse, it's lonely, come home
-
-
-

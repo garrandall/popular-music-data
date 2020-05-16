@@ -1,8 +1,11 @@
 ---
+album: BALLADS 1
 artists:
 - Joji
+external_ids:
+  spotify: spotify:track:5gNWtBAVZgS4N3oF0BthBi
 features: []
-genres: []
+first_released_as_single: true
 key: slow-dancing-in-the-dark-joji
 lyrics_url: https://www.azlyrics.com/lyrics/joji/slowdancinginthedark.html
 name: Slow Dancing In The Dark
@@ -59,8 +62,9 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '2020-01-11'
+release_year: 2018
+runtime: 207548
 ---
-
 I don't want a friend (Just one more night)
 I want my life in two (My life in two)
 (Please one more night)
@@ -104,6 +108,3 @@ Can't you see?
 I don't wanna slow dance (I don't wanna slow dance)
 In the dark, dark
 In the dark, dark
-
-
-

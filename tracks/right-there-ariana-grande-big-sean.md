@@ -1,9 +1,12 @@
 ---
+album: Yours Truly
 artists:
 - Ariana Grande
+external_ids:
+  spotify: spotify:track:3yiopxxeHuwcpAg4e57Zjt
 features:
 - Big Sean
-genres: []
+first_released_as_single: false
 key: right-there-ariana-grande-big-sean
 lyrics_url: https://www.azlyrics.com/lyrics/arianagrande/rightthere.html
 name: Right There
@@ -40,8 +43,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2013-12-28'
+release_year: 2013
+runtime: 247080
 ---
-
 (If you wanna party, if you, if you wanna party)
 Then put your hands up (put your hands up)
 (If you wanna party, if you, if you wanna party)
@@ -173,6 +177,3 @@ You got it, you got it babe
 You got it, you got it babe
 You got it, you got it babe
 Got it babe
-
-
-

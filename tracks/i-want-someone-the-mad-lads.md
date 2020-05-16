@@ -1,8 +1,11 @@
 ---
+album: In Action
 artists:
 - The Mad Lads
+external_ids:
+  spotify: spotify:track:6tbtWo4wBZnKMbsfA2VXop
 features: []
-genres: []
+first_released_as_single: false
 key: i-want-someone-the-mad-lads
 lyrics_url: https://genius.com/The-mad-lads-i-want-someone-lyrics
 name: I Want Someone
@@ -31,6 +34,8 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1966-04-09'
+release_year: 1966
+runtime: 161600
 ---
 I want someone
 To hold me, hold me (Hold me)

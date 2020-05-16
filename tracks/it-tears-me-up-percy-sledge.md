@@ -1,8 +1,11 @@
 ---
+album: Warm & Tender Soul
 artists:
 - Percy Sledge
+external_ids:
+  spotify: spotify:track:1SLmCvl415HMHJXqFpUjQa
 features: []
-genres: []
+first_released_as_single: false
 key: it-tears-me-up-percy-sledge
 lyrics_url: https://www.azlyrics.com/lyrics/percysledge/ittearsmeup.html
 name: It Tears Me Up
@@ -51,8 +54,9 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '1966-12-31'
+release_year: 1966
+runtime: 170413
 ---
-
 I see you walk with him,
 I see you talk to him,
 It tears me up
@@ -88,6 +92,3 @@ Still waitin for something that I cannot have
 Oh, baby, nothin' tears me up so bad,
 Can't you see that I'm still in love with you baby
 Oh, that tears me up so bad now baby
-
-
-

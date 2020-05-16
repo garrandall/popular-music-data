@@ -1,8 +1,11 @@
 ---
+album: Live At Leeds
 artists:
 - The Who
+external_ids:
+  spotify: spotify:track:0KIvhS9Ncc7GMuRAJpD7Yt
 features: []
-genres: []
+first_released_as_single: false
 key: magic-bus-the-who
 lyrics_url: https://genius.com/The-who-magic-bus-lyrics
 name: Magic Bus
@@ -43,6 +46,8 @@ rankings:
   rank: 30
   ranking_list: Billboard Hot 100
   start_date: '1968-10-05'
+release_year: 1968
+runtime: 468000
 ---
 Every day I get in the queue (Too much, Magic Bus)
 To get on the bus that takes me to you (Too much, Magic Bus)

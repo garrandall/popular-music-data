@@ -1,9 +1,12 @@
 ---
+album: So Much Fun
 artists:
 - Young Thug
+external_ids:
+  spotify: spotify:track:4ymIRd5p5eHq5eNom8WbOv
 features:
 - Lil Uzi Vert
-genres: []
+first_released_as_single: false
 key: what-s-the-move-young-thug-lil-uzi-vert
 lyrics_url: https://www.azlyrics.com/lyrics/youngthug/whatsthemove.html
 name: What's The Move
@@ -12,9 +15,9 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '2019-08-31'
+release_year: 2019
+runtime: 251080
 ---
-
-
 (BL$$D)
 I just let lil' mama suck me up, girl
 Bitch tryna drive in a Rolls Royce or the bus' girl?
@@ -133,6 +136,3 @@ You don't want the bag, oh no, no, no
 I make her drop it and pop it and work it on my nose
 I make her shut up then suck it, she fuckin' at my shows, mmh
 I make her shut up, she fuckin', she suckin' at my shows, ayy
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Easton Corbin
 artists:
 - Easton Corbin
+external_ids:
+  spotify: spotify:track:5PLDOQxsisO4KRPwU9X6hl
 features: []
-genres: []
+first_released_as_single: true
 key: i-can-t-love-you-back-easton-corbin
 lyrics_url: https://genius.com/Easton-corbin-i-cant-love-you-back-lyrics
 name: I Can't Love You Back
@@ -51,6 +54,8 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '2011-06-04'
+release_year: 2009
+runtime: 244413
 ---
 I can love you in the mornin'
 I can love you all day

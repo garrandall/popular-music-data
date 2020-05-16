@@ -1,8 +1,11 @@
 ---
+album: Jesus Was a Capricorn
 artists:
 - Kris Kristofferson
+external_ids:
+  spotify: spotify:track:6uMKkOEkPJRumFvAzo5nr9
 features: []
-genres: []
+first_released_as_single: false
 key: why-me-kris-kristofferson
 lyrics_url: https://genius.com/Kris-kristofferson-why-me-lyrics
 name: Why Me
@@ -159,6 +162,8 @@ rankings:
   rank: 52
   ranking_list: Billboard Hot 100
   start_date: '1973-12-22'
+release_year: 1972
+runtime: 206960
 ---
 Why me Lord?
 What have I ever done

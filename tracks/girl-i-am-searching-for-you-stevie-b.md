@@ -1,8 +1,11 @@
 ---
+album: Best Of Stevie B
 artists:
 - Stevie B
+external_ids:
+  spotify: spotify:track:4VG6a2JFWsX3CMHunLf4nO
 features: []
-genres: []
+first_released_as_single: false
 key: girl-i-am-searching-for-you-stevie-b
 lyrics_url: https://www.azlyrics.com/lyrics/stevieb/girliamsearchingforyou.html
 name: Girl I Am Searching For You
@@ -67,8 +70,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1990-01-13'
+release_year: 1989
+runtime: 281506
 ---
-
 Tell me why
 It always has to end
 It seems the loving is over
@@ -131,6 +135,3 @@ Girl, I am searching for you
 
 Girl, I am searching for you
 Girl, I am searching for your love
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music, Volume 1'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:0GtFgR54C5c6JMR998K6NT
 features: []
-genres: []
+first_released_as_single: false
 key: defying-gravity-glee-cast
 lyrics_url: https://www.azlyrics.com/lyrics/gleecast/defyinggravity.html
 name: Defying Gravity
@@ -19,8 +22,9 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '2009-12-05'
+release_year: 2009
+runtime: 141666
 ---
-
 Something has changed within me
 Something is not the same
 I'm through with playing by the rules
@@ -64,6 +68,3 @@ Defying gravity
 And you won't bring me down!
 Bring me down!
 Ohh oh oh!
-
-
-

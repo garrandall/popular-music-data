@@ -1,8 +1,11 @@
 ---
+album: Danger Danger
 artists:
 - Danger Danger
+external_ids:
+  spotify: spotify:track:4p4YiROw0qF059Mcstu8rl
 features: []
-genres: []
+first_released_as_single: false
 key: bang-bang-danger-danger
 lyrics_url: https://genius.com/Danger-danger-bang-bang-lyrics
 name: Bang Bang
@@ -59,6 +62,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1990-08-25'
+release_year: 1989
+runtime: 236933
 ---
 Bang! Bang!
 
@@ -92,4 +97,3 @@ Never put your heart on the line!
 
 I know it's silly but girl I really thought we had a chance
 I must've been crazy!
-

@@ -1,8 +1,11 @@
 ---
+album: The Complete Singles As & Bs 1952-62
 artists:
 - Shirley and Lee
+external_ids:
+  spotify: spotify:track:3B8jwplVt6N6mZDlRQDIjF
 features: []
-genres: []
+first_released_as_single: false
 key: i-ve-been-loved-before-shirley-and-lee
 name: I've Been Loved Before
 rankings:
@@ -30,5 +33,7 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1960-08-08'
+release_year: 1960
+runtime: 154666
 ---
 

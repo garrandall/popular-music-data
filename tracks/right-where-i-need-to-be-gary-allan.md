@@ -1,8 +1,11 @@
 ---
+album: Smoke Rings In The Dark
 artists:
 - Gary Allan
+external_ids:
+  spotify: spotify:track:3hfMKCMfKcKctpjtH0TB76
 features: []
-genres: []
+first_released_as_single: false
 key: right-where-i-need-to-be-gary-allan
 lyrics_url: https://www.azlyrics.com/lyrics/garyallan/rightwhereineedtobe.html
 name: Right Where I Need To Be
@@ -87,8 +90,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2001-08-18'
+release_year: 1999
+runtime: 182103
 ---
-
 There's a plane flyin' outta here tonight
 Destination New Orleans
 Boss man says my big promotion's on the line
@@ -119,6 +123,3 @@ Where I won't miss her I can kiss her
 Anytime that I want to
 Yeah that's right where I need to be
 Yeah I'm right where I need to be
-
-
-

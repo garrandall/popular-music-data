@@ -1,8 +1,11 @@
 ---
+album: Hot Fun
 artists:
 - Dayton
+external_ids:
+  spotify: spotify:track:2esSVRLtF5PNs88yTUtfZX
 features: []
-genres: []
+first_released_as_single: false
 key: hot-fun-in-the-summertime-dayton
 lyrics_url: https://genius.com/Dayton-hot-fun-in-the-summertime-lyrics
 name: Hot Fun In The Summertime
@@ -35,6 +38,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1982-09-04'
+release_year: 1982
+runtime: 323853
 ---
 Hot fun in the summertime
 (Yeah bow bow bow)

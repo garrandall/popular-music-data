@@ -1,8 +1,11 @@
 ---
+album: Against The Wind
 artists:
 - Bob Seger
+external_ids:
+  spotify: spotify:track:2fZw0ya0oI4pXsjkB0NBHs
 features: []
-genres: []
+first_released_as_single: false
 key: fire-lake-bob-seger
 lyrics_url: https://www.azlyrics.com/lyrics/bobseger/firelake.html
 name: Fire Lake
@@ -71,8 +74,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1980-06-07'
+release_year: 1980
+runtime: 212986
 ---
-
 Who's gonna ride that chrome three wheeler
 Who's gonna make that first mistake
 Who wants to wear those gypsy leathers
@@ -107,6 +111,3 @@ Who wants to go to Fire Lake
 Head out
 Out to Fire Lake
 Who's gonna do it
-
-
-

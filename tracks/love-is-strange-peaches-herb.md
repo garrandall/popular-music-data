@@ -1,9 +1,12 @@
 ---
+album: We'll Be United
 artists:
 - Peaches
 - Herb
+external_ids:
+  spotify: spotify:track:19UGZAa9hp9ldNJplXRD0r
 features: []
-genres: []
+first_released_as_single: false
 key: love-is-strange-peaches-herb
 lyrics_url: https://genius.com/Peaches-and-herb-love-is-strange-lyrics
 name: Love Is Strange
@@ -44,6 +47,8 @@ rankings:
   rank: 31
   ranking_list: Billboard Hot 100
   start_date: '1967-11-25'
+release_year: 1966
+runtime: 179211
 ---
 Baby, could we have the same table we had yesterday
 

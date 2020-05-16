@@ -1,9 +1,12 @@
 ---
+album: Evolver
 artists:
 - John Legend
+external_ids:
+  spotify: spotify:track:6XszxzqdtjtVOFmPo0zLAH
 features:
 - Andre 3000
-genres: []
+first_released_as_single: true
 key: green-light-john-legend-andre-3000
 lyrics_url: https://www.azlyrics.com/lyrics/johnlegend/greenlight.html
 name: Green Light
@@ -112,8 +115,9 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '2009-03-14'
+release_year: 2008
+runtime: 235666
 ---
-
 Give me the green light
 Give me just one night
 I'm ready to go right now
@@ -259,6 +263,3 @@ I'm ready to go right now
 
 I'm ready to go right now
 I'm ready to go right now
-
-
-

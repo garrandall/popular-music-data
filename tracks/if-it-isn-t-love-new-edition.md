@@ -1,8 +1,11 @@
 ---
+album: Heart Break
 artists:
 - New Edition
+external_ids:
+  spotify: spotify:track:7JmPqImeW3kLoYVNBA9v11
 features: []
-genres: []
+first_released_as_single: false
 key: if-it-isn-t-love-new-edition
 lyrics_url: https://genius.com/New-edition-if-it-isnt-love-lyrics
 name: If It Isn't Love
@@ -91,6 +94,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1988-11-19'
+release_year: 1988
+runtime: 309840
 ---
 I don't love her
 I tried to tell myself

@@ -1,8 +1,11 @@
 ---
+album: Rock 'N Soul
 artists:
 - Solomon Burke
+external_ids:
+  spotify: spotify:track:1tYk5zABu6h8CMP1cSea56
 features: []
-genres: []
+first_released_as_single: false
 key: cry-to-me-solomon-burke
 lyrics_url: https://www.musixmatch.com/lyrics/Solomon-Burke/Cry-to-Me-1
 name: Cry To Me
@@ -47,6 +50,8 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '1962-03-31'
+release_year: 1962
+runtime: 154906
 ---
 When your baby leaves you all alone
 And nobody calls you on the phone

@@ -1,12 +1,15 @@
 ---
+album: Sucker For Pain (with Logic & Ty Dolla $ign feat. X Ambassadors)
 artists:
 - Lil Wayne
 - Wiz Khalifa
 - Imagine Dragons With Logic
 - Ty Dolla $ign
+external_ids:
+  spotify: spotify:track:4dASQiO1Eoo3RJvt74FtXB
 features:
 - X Ambassadors
-genres: []
+first_released_as_single: true
 key: sucker-for-pain-lil-wayne-wiz-khalifa-imagine-dragons-with-logic-ty-dolla--ign-x-ambassadors
 lyrics_url: https://www.azlyrics.com/lyrics/lilwayne/suckerforpain.html
 name: Sucker For Pain
@@ -99,9 +102,9 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '2016-12-10'
+release_year: 2016
+runtime: 243490
 ---
-
-
 I torture you
 Take my hand through the flames
 I torture you
@@ -204,6 +207,3 @@ For more pain
 Got me begging, begging, begging, begging, begging, begging
 For more pain
 Got me begging...
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Latest & Greatest
 artists:
 - Great White
+external_ids:
+  spotify: spotify:track:09at41tgtgvUeXs0A1zm38
 features: []
-genres: []
+first_released_as_single: false
 key: call-it-rock-n--roll-great-white
 lyrics_url: https://genius.com/Great-white-call-it-rock-n-roll-lyrics
 name: Call It Rock N' Roll
@@ -39,6 +42,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1991-04-27'
+release_year: 1991
+runtime: 251733
 ---
 Well there's something going down right here in the neighbourhood
 Yeah there's something going down and you don't know if you really should

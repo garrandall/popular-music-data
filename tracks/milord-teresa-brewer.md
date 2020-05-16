@@ -1,8 +1,11 @@
 ---
+album: A Sweet Old-Fashioned Girl
 artists:
 - Teresa Brewer
+external_ids:
+  spotify: spotify:track:5C0W3pVo4NhIORE5fKuMzi
 features: []
-genres: []
+first_released_as_single: false
 key: milord-teresa-brewer
 lyrics_url: https://www.musixmatch.com/lyrics/Teresa-Brewer/Milord
 name: Milord
@@ -23,6 +26,8 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1961-06-12'
+release_year: 1961
+runtime: 139733
 ---
 Come on, get wise, Milord
 Her lips tell lies, Milord

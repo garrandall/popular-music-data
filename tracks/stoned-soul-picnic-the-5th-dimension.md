@@ -1,8 +1,11 @@
 ---
+album: Stoned Soul Picnic
 artists:
 - The 5th Dimension
+external_ids:
+  spotify: spotify:track:3ptUR8CtgFU1ilpykHmazU
 features: []
-genres: []
+first_released_as_single: false
 key: stoned-soul-picnic-the-5th-dimension
 lyrics_url: https://www.azlyrics.com/lyrics/5thdimension/stonedsoulpicnic.html
 name: Stoned Soul Picnic
@@ -71,8 +74,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1968-09-14'
+release_year: 1968
+runtime: 208333
 ---
-
 Can you surry, can you picnic, whoa?
 Can you surry, can you picnic?
 Come on, come on and surry down to a stoned soul picnic
@@ -109,6 +113,3 @@ Surry on, soul
 Surry, surry, surry, surry
 Surry, surry, surry, surry
 Surry, surry, surry, surry
-
-
-

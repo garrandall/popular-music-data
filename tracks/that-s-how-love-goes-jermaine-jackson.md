@@ -1,8 +1,11 @@
 ---
+album: Jackson 5 - Dell Bundle (100 Track Dell Bundle)
 artists:
 - Jermaine Jackson
+external_ids:
+  spotify: spotify:track:7Ler4W8a664kIs8I8znbrb
 features: []
-genres: []
+first_released_as_single: false
 key: that-s-how-love-goes-jermaine-jackson
 lyrics_url: https://www.azlyrics.com/lyrics/jermainejackson/thatshowlovegoes.html
 name: That's How Love Goes
@@ -51,8 +54,9 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '1972-11-25'
+release_year: 1972
+runtime: 208266
 ---
-
 Girl, you walk around
 With your head up in the sky
 Yes, you do now
@@ -144,6 +148,3 @@ That's how love goes
 You gotta reap just what you sewn
 You'll get those tears and run free
 Happen to you like it's happened to me, baby
-
-
-

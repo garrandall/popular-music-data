@@ -1,8 +1,11 @@
 ---
+album: Return Of The Product
 artists:
 - MC Serch
+external_ids:
+  spotify: spotify:track:2S6NTY06U086L5o97sxlAG
 features: []
-genres: []
+first_released_as_single: false
 key: here-it-comes-mc-serch
 lyrics_url: https://genius.com/Mc-serch-here-it-comes-lyrics
 name: Here It Comes
@@ -47,6 +50,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1992-12-19'
+release_year: 1992
+runtime: 211093
 ---
 So y'all thought I was comin back with some old R&B huh?
 Check it...

@@ -1,8 +1,11 @@
 ---
+album: Vulture Culture
 artists:
 - The Alan Parsons Project
+external_ids:
+  spotify: spotify:track:2tcnZPRhpsGpfhFVOTvG0X
 features: []
-genres: []
+first_released_as_single: false
 key: let-s-talk-about-me-the-alan-parsons-project
 lyrics_url: https://www.azlyrics.com/lyrics/alanparsonsproject/letstalkaboutme.html
 name: Let's Talk About Me
@@ -47,8 +50,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1985-04-20'
+release_year: 1977
+runtime: 269080
 ---
-
 Let's talk about me for a minute
 Well how do you think
 I feel about what's been going on
@@ -96,6 +100,3 @@ Talk about me, for a minute
 I'm the one who's losing
 Talk about me, for a minute
 I'm the one who's always losing out
-
-
-

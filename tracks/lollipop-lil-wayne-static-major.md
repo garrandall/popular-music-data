@@ -1,9 +1,12 @@
 ---
+album: Tha Carter III (MTV Bonus Version)
 artists:
 - Lil Wayne
+external_ids:
+  spotify: spotify:track:1pm7lQGl6mvKWDxesZTVFp
 features:
 - Static Major
-genres: []
+first_released_as_single: false
 key: lollipop-lil-wayne-static-major
 lyrics_url: https://genius.com/Genius-traductions-francaises-lil-wayne-lollipop-ft-static-major-traduction-francaise-lyrics
 name: Lollipop
@@ -120,6 +123,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '2008-10-04'
+release_year: 2008
+runtime: 299333
 ---
 No homo, Young Moolah baby
 I said he so sweet, make her wanna lick the wrapper

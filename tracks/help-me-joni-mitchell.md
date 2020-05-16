@@ -1,8 +1,11 @@
 ---
+album: Court and Spark
 artists:
 - Joni Mitchell
+external_ids:
+  spotify: spotify:track:0tVzXGFyNPusa1VkHmYDLd
 features: []
-genres: []
+first_released_as_single: false
 key: help-me-joni-mitchell
 lyrics_url: https://genius.com/Joni-mitchell-help-me-lyrics
 name: Help Me
@@ -83,6 +86,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1974-07-20'
+release_year: 1974
+runtime: 204320
 ---
 Help me, I think I'm falling in love again
 When I get that crazy feeling, I know I'm in trouble again

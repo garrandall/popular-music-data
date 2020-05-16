@@ -1,8 +1,11 @@
 ---
+album: "Midnight Caf\xE9 (New Extended Version)"
 artists:
 - Smokie
+external_ids:
+  spotify: spotify:track:57TaM8GozkJBz90xvQ1xME
 features: []
-genres: []
+first_released_as_single: false
 key: living-next-door-to-alice-smokie
 lyrics_url: https://www.azlyrics.com/lyrics/smokie/livingnextdoortoalice.html
 name: Living Next Door To Alice
@@ -87,8 +90,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1977-04-16'
+release_year: 1976
+runtime: 207173
 ---
-
 Sally called when she got the word
 And she said: "I suppose you've heard
 About Alice"
@@ -149,6 +153,3 @@ To tell her how I feel, and maybe get a second glance
 But I'll never get used to not living next door to Alice...
 
 No, I'll never get used to not living next door to Alice...
-
-
-

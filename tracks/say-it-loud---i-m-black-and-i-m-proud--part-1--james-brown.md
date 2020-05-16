@@ -1,8 +1,11 @@
 ---
+album: Soulful Christmas
 artists:
 - James Brown
+external_ids:
+  spotify: spotify:track:49NSiepWurbGthu0LTk0wZ
 features: []
-genres: []
+first_released_as_single: false
 key: say-it-loud---i-m-black-and-i-m-proud--part-1--james-brown
 lyrics_url: https://genius.com/James-brown-say-it-loud-im-black-and-im-proud-lyrics
 name: Say It Loud - I'm Black And I'm Proud (Part 1)
@@ -51,6 +54,8 @@ rankings:
   rank: 28
   ranking_list: Billboard Hot 100
   start_date: '1968-11-16'
+release_year: 1968
+runtime: 285826
 ---
 Uh! With your bad self!
 

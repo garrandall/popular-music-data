@@ -1,8 +1,11 @@
 ---
+album: Born To Run
 artists:
 - Bruce Springsteen
+external_ids:
+  spotify: spotify:track:6hTcuIQa0sxrrByu9wTD7s
 features: []
-genres: []
+first_released_as_single: false
 key: born-to-run-bruce-springsteen
 lyrics_url: https://www.azlyrics.com/lyrics/brucespringsteen/borntorun.html
 name: Born To Run
@@ -51,6 +54,8 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1975-11-29'
+release_year: 1975
+runtime: 269920
 ---
 In the day we sweat it out on the streets of a runaway American dream
 At night we ride through mansions of glory in suicide machines

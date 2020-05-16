@@ -1,8 +1,11 @@
 ---
+album: NOW That's What I Call Music! Vol. 74
 artists:
 - Arizona Zervas
+external_ids:
+  spotify: spotify:track:696DnlkuDOXcMAnKlTgXXK
 features: []
-genres: []
+first_released_as_single: true
 key: roxanne-arizona-zervas
 lyrics_url: https://www.azlyrics.com/lyrics/arizonazervas/roxanne.html
 name: Roxanne
@@ -83,8 +86,9 @@ rankings:
   rank: 7
   ranking_list: Billboard Hot 100
   start_date: '2020-03-21'
+release_year: 2019
+runtime: 163636
 ---
-
 All for the gram
 Bitches love the gram
 Oh wait shit
@@ -171,6 +175,3 @@ Only cause I pay up
 Roxanne
 Roxanne
 All she wanna do is party all night
-
-
-

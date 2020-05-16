@@ -1,8 +1,11 @@
 ---
+album: Enuff Z'Nuff
 artists:
 - Enuff Z'Nuff
+external_ids:
+  spotify: spotify:track:5Z8uYOJxi7iKMP8kelWWr9
 features: []
-genres: []
+first_released_as_single: false
 key: fly-high-michelle-enuff-z-nuff
 lyrics_url: https://genius.com/Enuff-znuff-fly-high-michelle-lyrics
 name: Fly High Michelle
@@ -59,6 +62,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1990-04-21'
+release_year: 1989
+runtime: 253946
 ---
 Six o'clock in the morning
 Still sitting here pouring

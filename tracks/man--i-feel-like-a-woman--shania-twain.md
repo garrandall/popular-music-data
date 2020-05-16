@@ -1,8 +1,11 @@
 ---
+album: Come On Over
 artists:
 - Shania Twain
+external_ids:
+  spotify: spotify:track:6sxptembJVty4sNtcPMAVz
 features: []
-genres: []
+first_released_as_single: false
 key: man--i-feel-like-a-woman--shania-twain
 lyrics_url: https://www.azlyrics.com/lyrics/shaniatwain/manifeellikeawoman.html
 name: Man! I Feel Like A Woman!
@@ -119,8 +122,9 @@ rankings:
   rank: 31
   ranking_list: Billboard Hot 100
   start_date: '1999-11-20'
+release_year: 1997
+runtime: 234493
 ---
-
 Let's go girls! Come on.
 
 I'm going out tonight-I'm feelin' alright
@@ -174,6 +178,3 @@ I get totally crazy
 Can you feel it
 Come, come, come on baby
 I feel like a woman
-
-
-

@@ -1,10 +1,13 @@
 ---
+album: Ludacris Presents...Disturbing Tha Peace
 artists:
 - Ludacris
 - Field Mob
+external_ids:
+  spotify: spotify:track:4Oany7rm9uIi7TLlaBjouD
 features:
 - Jamie Foxx
-genres: []
+first_released_as_single: false
 key: georgia-ludacris-field-mob-jamie-foxx
 lyrics_url: https://www.musixmatch.com/lyrics/Field-Mob-Jamie-Foxx-Ludacris/Georgia
 name: Georgia
@@ -45,6 +48,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2006-02-25'
+release_year: 2005
+runtime: 261293
 ---
 Georgia, Georgia
 Georgia, Georgia

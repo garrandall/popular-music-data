@@ -1,8 +1,11 @@
 ---
+album: No Sad Songs
 artists:
 - Joe Simon
+external_ids:
+  spotify: spotify:track:6EZG0g0YRAtNkuKatMzhFz
 features: []
-genres: []
+first_released_as_single: false
 key: nine-pound-steel-joe-simon
 lyrics_url: https://genius.com/Joe-simon-nine-pound-steel-lyrics
 name: Nine Pound Steel
@@ -43,6 +46,8 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1967-11-18'
+release_year: 1967
+runtime: 166946
 ---
 Through these walls
 I see the sun

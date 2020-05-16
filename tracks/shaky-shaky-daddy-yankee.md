@@ -1,8 +1,11 @@
 ---
+album: Shaky Shaky
 artists:
 - Daddy Yankee
+external_ids:
+  spotify: spotify:track:7gcMKL3lnDxsp4bIXyv6Zk
 features: []
-genres: []
+first_released_as_single: true
 key: shaky-shaky-daddy-yankee
 lyrics_url: https://genius.com/Daddy-yankee-shaky-shaky-lyrics
 name: Shaky Shaky
@@ -15,6 +18,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2017-01-21'
+release_year: 2016
+runtime: 234320
 ---
 Letra de Shaky Shaky
 

@@ -1,9 +1,12 @@
 ---
+album: Cry Like a Rainstorm Howl Like the Wind
 artists:
 - Linda Ronstadt
+external_ids:
+  spotify: spotify:track:5z3ZDMP02xF33yCvPFnct3
 features:
 - Aaron Neville
-genres: []
+first_released_as_single: false
 key: don-t-know-much-linda-ronstadt-aaron-neville
 lyrics_url: https://genius.com/Linda-ronstadt-dont-know-much-lyrics
 name: Don't Know Much
@@ -112,6 +115,8 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1990-03-24'
+release_year: 1989
+runtime: 211973
 ---
 Look at this face
 I know the years are showing

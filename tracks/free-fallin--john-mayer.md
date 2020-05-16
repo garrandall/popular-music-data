@@ -1,8 +1,11 @@
 ---
+album: 'Where the Light Is: John Mayer Live In Los Angeles'
 artists:
 - John Mayer
+external_ids:
+  spotify: spotify:track:4LloVtxNZpeh7q7xdi1DQc
 features: []
-genres: []
+first_released_as_single: false
 key: free-fallin--john-mayer
 lyrics_url: https://www.azlyrics.com/lyrics/johnmayer/freefallin.html
 name: Free Fallin'
@@ -47,8 +50,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2008-09-27'
+release_year: 2008
+runtime: 263573
 ---
-
 She's a good girl, loves her mama
 Loves Jesus and America, too
 She's a good girl, crazy 'bout Elvis
@@ -91,6 +95,3 @@ Now I'm free, free fallin', fallin'
 Free fallin', fallin'
 Free fallin', fallin'
 Free fallin', fallin'
-
-
-

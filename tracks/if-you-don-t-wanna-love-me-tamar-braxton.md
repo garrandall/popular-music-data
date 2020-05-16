@@ -1,8 +1,11 @@
 ---
+album: Tamar
 artists:
 - Tamar Braxton
+external_ids:
+  spotify: spotify:track:7KNu81Nxp1EZyvZvkGBH4d
 features: []
-genres: []
+first_released_as_single: false
 key: if-you-don-t-wanna-love-me-tamar-braxton
 lyrics_url: https://genius.com/Tamar-braxton-if-you-dont-wanna-love-me-lyrics
 name: If You Don't Wanna Love Me
@@ -31,6 +34,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2000-04-29'
+release_year: 2000
+runtime: 238306
 ---
 Stopped by to see you
 Just the other day

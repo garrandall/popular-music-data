@@ -1,8 +1,11 @@
 ---
+album: Godspell (1994 UK Cast Recording)
 artists:
 - Godspell
+external_ids:
+  spotify: spotify:track:5e1VjlAcEULsxDiGOpFQPO
 features: []
-genres: []
+first_released_as_single: false
 key: day-by-day-godspell
 lyrics_url: https://genius.com/Godspell-day-by-day-lyrics
 name: Day By Day
@@ -63,6 +66,8 @@ rankings:
   rank: 35
   ranking_list: Billboard Hot 100
   start_date: '1972-08-19'
+release_year: 1972
+runtime: 84813
 ---
 DAY BY DAY
 GODSPELL

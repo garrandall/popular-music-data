@@ -1,8 +1,11 @@
 ---
+album: Jane Child
 artists:
 - Jane Child
+external_ids:
+  spotify: spotify:track:6eozUVzr02EXMji1vuxgiP
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-wanna-fall-in-love-jane-child
 lyrics_url: https://genius.com/Jane-child-dont-wanna-fall-in-love-lyrics
 name: Don't Wanna Fall In Love
@@ -91,6 +94,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1990-06-30'
+release_year: 1989
+runtime: 247840
 ---
 Ain't no personal thing, boy
 But you've got to stay away

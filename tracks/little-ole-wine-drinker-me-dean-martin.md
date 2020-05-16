@@ -1,8 +1,11 @@
 ---
+album: Welcome to My World
 artists:
 - Dean Martin
+external_ids:
+  spotify: spotify:track:1JJWpOY1xjW749RoNeeeuF
 features: []
-genres: []
+first_released_as_single: false
 key: little-ole-wine-drinker-me-dean-martin
 lyrics_url: https://www.azlyrics.com/lyrics/deanmartin/littleolewinedrinkerme.html
 name: Little Ole Wine Drinker Me
@@ -31,8 +34,9 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '1967-09-23'
+release_year: 1967
+runtime: 167853
 ---
-
 I'm praying for rain in California
 So the grapes can grow and they can make more wine
 And I'm sitting in a honky in Chicago
@@ -53,6 +57,3 @@ And the music takes me back to Tennessee
 When they ask who's the fool in the corner crying
 I say a little ole wine drinker me
 I say a little ole wine drinker me
-
-
-

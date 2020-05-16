@@ -1,8 +1,11 @@
 ---
+album: 1963 Great Instrumental Hits
 artists:
 - The Routers
+external_ids:
+  spotify: spotify:track:75nlFOCe6r8BrpheLVrSJZ
 features: []
-genres: []
+first_released_as_single: false
 key: sting-ray-the-routers
 name: Sting Ray
 rankings:
@@ -46,5 +49,7 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '1963-06-29'
+release_year: 1963
+runtime: 113293
 ---
 

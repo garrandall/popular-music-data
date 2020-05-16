@@ -1,8 +1,11 @@
 ---
+album: Runaway with Del Shannon
 artists:
 - Del Shannon
+external_ids:
+  spotify: spotify:track:45Szkclj1lt4ubm7RFK68t
 features: []
-genres: []
+first_released_as_single: false
 key: runaway-del-shannon
 lyrics_url: https://www.azlyrics.com/lyrics/delshannon/runaway.html
 name: Runaway
@@ -75,8 +78,9 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '1961-06-26'
+release_year: 1961
+runtime: 137306
 ---
-
 As I walk along, I wonder
 A-what went wrong with our love
 A love that was so strong
@@ -118,6 +122,3 @@ My little runaway
 A-run, run, run, run, runaway
 A-run, run, run, run, runaway
 A-run, run, run, run, runaway
-
-
-

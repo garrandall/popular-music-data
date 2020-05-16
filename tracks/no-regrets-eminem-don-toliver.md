@@ -1,9 +1,12 @@
 ---
+album: Music To Be Murdered By
 artists:
 - Eminem
+external_ids:
+  spotify: spotify:track:1lO9CZo6eDrOy0S7khgryG
 features:
 - Don Toliver
-genres: []
+first_released_as_single: false
 key: no-regrets-eminem-don-toliver
 lyrics_url: https://genius.com/Genius-traductions-francaises-eminem-no-regrets-ft-don-toliver-traduction-francaise-lyrics
 name: No Regrets
@@ -12,6 +15,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '2020-02-01'
+release_year: 2020
+runtime: 200946
 ---
 (Oh, oh, ouais) Ouais
 Tu sais, si j'avais une chance de tout recommencer (Oh, oh)

@@ -1,8 +1,11 @@
 ---
+album: I'm Not Dead
 artists:
 - P!nk
+external_ids:
+  spotify: spotify:track:5lKUaq6OKRE6kHK9JsORCg
 features: []
-genres: []
+first_released_as_single: true
 key: u---ur-hand-p-nk
 lyrics_url: https://genius.com/P-nk-u-ur-hand-lyrics
 name: U + Ur Hand
@@ -139,6 +142,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2007-08-25'
+release_year: 2006
+runtime: 234413
 ---
 Check it out, goin' out on the late night
 Lookin' tight, feelin' nice, it's a cock fight

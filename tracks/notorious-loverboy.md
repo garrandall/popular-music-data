@@ -1,8 +1,11 @@
 ---
+album: Wildside
 artists:
 - Loverboy
+external_ids:
+  spotify: spotify:track:5JmRY65gYC2JZVCL9aZBik
 features: []
-genres: []
+first_released_as_single: false
 key: notorious-loverboy
 lyrics_url: https://www.azlyrics.com/lyrics/loverboy/notorious.html
 name: Notorious
@@ -63,8 +66,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1987-11-21'
+release_year: 1987
+runtime: 279000
 ---
-
 Hey, hey, hey
 
 Well there's a lone wolf out on the prowl tonight
@@ -108,6 +112,3 @@ Every schoolboy's dream
 Every schoolboy's dream, oh yeah
 
 Lock me up
-
-
-

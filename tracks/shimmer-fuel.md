@@ -1,8 +1,11 @@
 ---
+album: Sunburn
 artists:
 - Fuel
+external_ids:
+  spotify: spotify:track:74KI6d8jEM2zwOAo3luayU
 features: []
-genres: []
+first_released_as_single: false
 key: shimmer-fuel
 lyrics_url: https://www.azlyrics.com/lyrics/fuel/shimmer.html
 name: Shimmer
@@ -55,8 +58,9 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1998-11-28'
+release_year: 1997
+runtime: 214106
 ---
-
 She calls me from the cold
 Just when I was low, feeling short of stable
 All that she intends
@@ -97,6 +101,3 @@ It's too far away for me to hold too far away
 It's too far away for me to hold too far away
 
 Guess I'll let it go
-
-
-

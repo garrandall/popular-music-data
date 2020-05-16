@@ -1,8 +1,11 @@
 ---
+album: Hallelujah Nights
 artists:
 - LANCO
+external_ids:
+  spotify: spotify:track:2yQZwi1P8AkkxxFhQ8rMEK
 features: []
-genres: []
+first_released_as_single: false
 key: greatest-love-story-lanco
 lyrics_url: https://www.azlyrics.com/lyrics/lanco/greatestlovestory.html
 name: Greatest Love Story
@@ -91,8 +94,9 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '2018-02-03'
+release_year: 2017
+runtime: 222573
 ---
-
 They said I was nothing but a trouble maker never up to no good
 You were the perfect all American girl wouldn't touch me even if you could
 But you were sneaking out your window every night riding shotgun in my car
@@ -138,6 +142,3 @@ So let's meet in between
 We are gonna be the greatest love story this town has ever seen
 We are gonna be the greatest love story this world has ever seen
 So baby say yes to me
-
-
-

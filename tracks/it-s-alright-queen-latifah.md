@@ -1,8 +1,11 @@
 ---
+album: Order In The Court
 artists:
 - Queen Latifah
+external_ids:
+  spotify: spotify:track:5unZhOSU2vLY6pkAergspu
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-alright-queen-latifah
 lyrics_url: https://genius.com/Queen-latifah-its-alright-lyrics
 name: It's Alright
@@ -23,6 +26,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1997-10-04'
+release_year: 1997
+runtime: 225933
 ---
 When I'm sexin' you
 When I'm next to you

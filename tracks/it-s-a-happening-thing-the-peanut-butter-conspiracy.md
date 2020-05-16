@@ -1,8 +1,11 @@
 ---
+album: 'Living Dream: The Best Of The Peanut Butter Conspiracy'
 artists:
 - The Peanut Butter Conspiracy
+external_ids:
+  spotify: spotify:track:45JOdGtN1kkmeghHRz8OMZ
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-a-happening-thing-the-peanut-butter-conspiracy
 lyrics_url: https://www.musixmatch.com/lyrics/The-Peanut-Butter-Conspiracy/It-s-a-Happening-Thing
 name: It's A Happening Thing
@@ -19,6 +22,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1967-03-25'
+release_year: 1967
+runtime: 143480
 ---
 Love is the grooviest thing up 'til now in the world
 

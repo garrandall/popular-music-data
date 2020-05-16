@@ -1,8 +1,11 @@
 ---
+album: Prisoner
 artists:
 - Cher
+external_ids:
+  spotify: spotify:track:2Kurj5Ant5tAbjMCCoAJ52
 features: []
-genres: []
+first_released_as_single: false
 key: hell-on-wheels-cher
 lyrics_url: https://www.azlyrics.com/lyrics/cher/hellonwheels.html
 name: Hell On Wheels
@@ -27,8 +30,9 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '1979-10-13'
+release_year: 1979
+runtime: 336000
 ---
-
 Well I'm hell on wheels, I'm a roller mama
 I can slide down places that you never knew
 Try me on for size at the roll-a-rama
@@ -85,6 +89,3 @@ I roll at a quarter till three yeah
 And let's rock, hell on wheels, let's rock
 Come on rock with me
 I'll make you feel so free yeah, look out
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Blue-Eyed Soul Classics
 artists:
 - Bill Champlin
+external_ids:
+  spotify: spotify:track:6IwzRmMNQyBJb3JLm2EIcq
 features: []
-genres: []
+first_released_as_single: false
 key: sara-bill-champlin
 lyrics_url: https://genius.com/Bill-champlin-sara-lyrics
 name: Sara
@@ -39,6 +42,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1982-09-18'
+release_year: 1982
+runtime: 195200
 ---
 How could you let me go
 The way we've been getting on

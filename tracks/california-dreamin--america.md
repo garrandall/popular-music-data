@@ -1,8 +1,11 @@
 ---
+album: San Francisco
 artists:
 - America
+external_ids:
+  spotify: spotify:track:4R78r0IoVkPyAM31EEJ5hy
 features: []
-genres: []
+first_released_as_single: false
 key: california-dreamin--america
 lyrics_url: https://www.azlyrics.com/lyrics/america/californiadreamin.html
 name: California Dreamin'
@@ -27,8 +30,9 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '1979-04-21'
+release_year: 1979
+runtime: 155773
 ---
-
 All the leaves are brown
 And the sky is grey
 I went for a walk
@@ -59,6 +63,3 @@ On such a winter's day (california dreamin')
 On such a winter's day (california dreamin')
 On such a winter's day (california dreamin')
 On such a winter's day
-
-
-

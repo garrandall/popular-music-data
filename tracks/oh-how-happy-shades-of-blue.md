@@ -1,8 +1,11 @@
 ---
+album: Land of 1000 Dances - Songs of the 60's
 artists:
 - Shades Of Blue
+external_ids:
+  spotify: spotify:track:2uCCZiwQZbQc9c9Ec8eZhh
 features: []
-genres: []
+first_released_as_single: false
 key: oh-how-happy-shades-of-blue
 lyrics_url: https://genius.com/Shades-of-blue-oh-how-happy-lyrics
 name: Oh How Happy
@@ -55,6 +58,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1966-07-23'
+release_year: 1966
+runtime: 132173
 ---
 Oh, how happy
 You have made me

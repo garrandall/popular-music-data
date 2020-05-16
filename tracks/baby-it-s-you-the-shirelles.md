@@ -1,8 +1,11 @@
 ---
+album: Baby It's You
 artists:
 - The Shirelles
+external_ids:
+  spotify: spotify:track:52wBOrIX3kkNe1KEALXOGy
 features: []
-genres: []
+first_released_as_single: false
 key: baby-it-s-you-the-shirelles
 lyrics_url: https://genius.com/The-shirelles-baby-its-you-lyrics
 name: Baby It's You
@@ -63,6 +66,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1962-03-24'
+release_year: 1961
+runtime: 154840
 ---
 Sha la la la la la la la
 Sha la la la la la la la

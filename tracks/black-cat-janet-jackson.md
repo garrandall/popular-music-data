@@ -1,8 +1,11 @@
 ---
+album: Rhythm Nation 1814
 artists:
 - Janet Jackson
+external_ids:
+  spotify: spotify:track:4tYpYYoOI7WDxbCnPninwE
 features: []
-genres: []
+first_released_as_single: false
 key: black-cat-janet-jackson
 lyrics_url: https://www.azlyrics.com/lyrics/janetjackson/blackcat.html
 name: Black Cat
@@ -71,8 +74,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1990-12-29'
+release_year: 1989
+runtime: 290573
 ---
-
 All the lonely nights I spend alone
 Never around to love me
 You're always gone
@@ -138,6 +142,3 @@ But not
 For long
 Better watch your step
 Or you're gonna die
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: 14 Shots To The Dome
 artists:
 - LL Cool J
+external_ids:
+  spotify: spotify:track:6eeETlsa4gwbfFnO4Minlg
 features: []
-genres: []
+first_released_as_single: false
 key: how-i-m-comin--ll-cool-j
 lyrics_url: https://genius.com/Ll-cool-j-how-im-comin-lyrics
 name: How I'm Comin'
@@ -43,6 +46,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1993-05-29'
+release_year: 1993
+runtime: 305893
 ---
 ("I'm comin'")
 ("I'm comin'")

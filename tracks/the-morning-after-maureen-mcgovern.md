@@ -1,8 +1,11 @@
 ---
+album: 'You Raise Me Up: A Spiritual Journey (Deluxe Version)'
 artists:
 - Maureen McGovern
+external_ids:
+  spotify: spotify:track:3gAdXCoPRBhIGRoa7XdyUq
 features: []
-genres: []
+first_released_as_single: false
 key: the-morning-after-maureen-mcgovern
 lyrics_url: https://www.azlyrics.com/lyrics/maureenmcgovern/themorningafter.html
 name: The Morning After
@@ -67,8 +70,9 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '1973-09-29'
+release_year: 1973
+runtime: 139226
 ---
-
 There's got to be a morning after
 If we can hold on through the night
 We have a chance to find the sunshine
@@ -102,6 +106,3 @@ There's got to be a morning after
 (There's got to be a morning after)
 There's got to be a morning after
 (There's got to be a morning after)
-
-
-

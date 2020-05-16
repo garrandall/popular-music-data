@@ -1,8 +1,11 @@
 ---
+album: Cuts Both Ways
 artists:
 - Gloria Estefan
+external_ids:
+  spotify: spotify:track:12DC0GskYSH3T4NX4FCgE3
 features: []
-genres: []
+first_released_as_single: false
 key: cuts-both-ways-gloria-estefan
 lyrics_url: https://www.azlyrics.com/lyrics/gloriaestefan/cutsbothways.html
 name: Cuts Both Ways
@@ -63,8 +66,9 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1990-09-29'
+release_year: 1989
+runtime: 194333
 ---
-
 It cuts both ways
 Our love is like knife
 That cuts both ways
@@ -101,6 +105,3 @@ And it cuts both ways
 It cuts both ways, mmm
 Cuts both ways
 Cuts both ways
-
-
-

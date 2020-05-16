@@ -1,8 +1,11 @@
 ---
+album: Jagged Little Thrill
 artists:
 - Jagged Edge
+external_ids:
+  spotify: spotify:track:3jcHWx7Ezs5v22rpDPWBZw
 features: []
-genres: []
+first_released_as_single: true
 key: goodbye-jagged-edge
 lyrics_url: https://www.azlyrics.com/lyrics/jaggededge/goodbye.html
 name: Goodbye
@@ -67,8 +70,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2002-02-23'
+release_year: 2001
+runtime: 273173
 ---
-
 Sometimes...
 What may be the best thing for you to do
 Sometimes it the hardest thing for you to do
@@ -139,6 +143,3 @@ There's no one in this world that can ever take your place
 All the love that we share, it can never be erased 
 And I know that, that it hurts so bad
 And it's so that, that you're the best I've had
-
-
-

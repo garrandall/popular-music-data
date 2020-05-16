@@ -1,8 +1,11 @@
 ---
+album: 'Rubber Biscuit: Essential ''50s Hits'
 artists:
 - Tommy Facenda
+external_ids:
+  spotify: spotify:track:4nlxxbsRLohrVzSE5uYFhv
 features: []
-genres: []
+first_released_as_single: false
 key: high-school-usa-tommy-facenda
 lyrics_url: https://genius.com/Tommy-facenda-high-school-usa-lyrics
 name: High School USA
@@ -59,6 +62,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1960-01-11'
+release_year: 1959
+runtime: 132733
 ---
 High school U.S.A
 High school U.S.A

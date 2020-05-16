@@ -1,8 +1,11 @@
 ---
+album: Adrenalize
 artists:
 - Def Leppard
+external_ids:
+  spotify: spotify:track:0dr71rw5oIcPtUHRJES6gP
 features: []
-genres: []
+first_released_as_single: false
 key: stand-up--kick-love-into-motion--def-leppard
 lyrics_url: https://www.azlyrics.com/lyrics/defleppard/standupkickloveintomotion.html
 name: Stand Up (Kick Love Into Motion)
@@ -67,8 +70,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1993-03-20'
+release_year: 1992
+runtime: 272871
 ---
-
 I gotta know right now 
 It's got to be this time 
 I wanna show you how 
@@ -130,6 +134,3 @@ Stand up, yeah,
 Stand up, kick love into motion 
 Yeah, on a stairway to heaven 
 What a way to go, stand up
-
-
-

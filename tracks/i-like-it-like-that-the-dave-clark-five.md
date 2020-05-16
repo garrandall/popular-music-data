@@ -1,8 +1,11 @@
 ---
+album: I Like It Like That
 artists:
 - The Dave Clark Five
+external_ids:
+  spotify: spotify:track:06C1afLEMNO4hii8mbX6sq
 features: []
-genres: []
+first_released_as_single: false
 key: i-like-it-like-that-the-dave-clark-five
 lyrics_url: https://www.azlyrics.com/lyrics/daveclarkfive/ilikeitlikethat.html
 name: I Like It Like That
@@ -51,8 +54,9 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '1965-08-28'
+release_year: 1965
+runtime: 97946
 ---
-
 Come on (come on let me show you where it's at)
 Ah, come on (come on let me show you where it's at)
 Whoa!, come on (come on let me show you where it's at)
@@ -87,6 +91,3 @@ Come on (come on let me show you where it's at)
 Ah, come on (come on let me show you where it's at)
 Oh, come on (come on let me show you where it's at)
 The name of the place is I like it like that
-
-
-

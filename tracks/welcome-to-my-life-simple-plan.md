@@ -1,8 +1,11 @@
 ---
+album: Still Not Getting Any
 artists:
 - Simple Plan
+external_ids:
+  spotify: spotify:track:714Lw0m2SmCEhKSPw0Dn8J
 features: []
-genres: []
+first_released_as_single: false
 key: welcome-to-my-life-simple-plan
 lyrics_url: https://www.azlyrics.com/lyrics/simpleplan/welcometomylife.html
 name: Welcome To My Life
@@ -79,8 +82,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2005-03-12'
+release_year: 2004
+runtime: 206773
 ---
-
 Do you ever feel like breaking down?
 Do you ever feel out of place
 Like somehow you just don't belong
@@ -153,6 +157,3 @@ No, you don't know what it's like
 Welcome to my life
 Welcome to my life
 Welcome to my life
-
-
-

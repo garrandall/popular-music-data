@@ -1,9 +1,12 @@
 ---
+album: The Singles 1996-2006
 artists:
 - Aaron Lewis
 - Fred Durst
+external_ids:
+  spotify: spotify:track:6eSrE9uc8oqyxXMfzdbZMC
 features: []
-genres: []
+first_released_as_single: false
 key: outside-aaron-lewis-of-staind-with-fred-durst
 lyrics_url: https://genius.com/Staind-outside-aaron-lewis-and-fred-durst-lyrics
 name: Outside
@@ -84,6 +87,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2001-06-02'
+release_year: 2000
+runtime: 341600
 ---
 And you bring me to my knees again
 All this time, that I can beg you please, yeah

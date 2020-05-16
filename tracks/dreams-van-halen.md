@@ -1,8 +1,11 @@
 ---
+album: '5150'
 artists:
 - Van Halen
+external_ids:
+  spotify: spotify:track:2APxH5XbOLDTmW9X5yi6Hw
 features: []
-genres: []
+first_released_as_single: false
 key: dreams-van-halen
 lyrics_url: https://genius.com/Van-halen-dreams-lyrics
 name: Dreams
@@ -63,6 +66,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1986-08-23'
+release_year: 1986
+runtime: 294000
 ---
 World turns black and white
 Pictures in an empty room

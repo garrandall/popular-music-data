@@ -1,8 +1,11 @@
 ---
+album: Monster
 artists:
 - R.E.M.
+external_ids:
+  spotify: spotify:track:1xuPsqp5mdZnmODKjeWJEh
 features: []
-genres: []
+first_released_as_single: false
 key: bang-and-blame-r-e-m-
 lyrics_url: https://www.azlyrics.com/lyrics/rem/bangandblame.html
 name: Bang And Blame
@@ -63,8 +66,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1995-04-22'
+release_year: 1994
+runtime: 327506
 ---
-
 If you could see yourself now, baby,
 It's not my fault, you used to be so in control.
 You're going to roll right over this one.
@@ -115,6 +119,3 @@ Beat on me,
 Hit on me,
 Let go on me.
 You let go on me.
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Life Changes
 artists:
 - Thomas Rhett
+external_ids:
+  spotify: spotify:track:3pJkBPHadRAxBBo484RipI
 features: []
-genres: []
+first_released_as_single: false
 key: sixteen-thomas-rhett
 lyrics_url: https://www.azlyrics.com/lyrics/thomasrhett/sixteen.html
 name: Sixteen
@@ -67,8 +70,9 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '2019-03-02'
+release_year: 2017
+runtime: 178333
 ---
-
 Take a left here boy, take it slow
 Don't get distracted by that radio
 I just rolled my eyes and I said, Daddy, I know
@@ -113,6 +117,3 @@ Now I'm twenty five and I'm drinking wine with my wife at home
 Got a couple of dogs and a couple of songs on the radio
 And we sit around and we laugh about how we used to be
 When all we cared about was turning sixteen
-
-
-

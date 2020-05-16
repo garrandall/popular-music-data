@@ -1,8 +1,11 @@
 ---
+album: The Carroll County Accident
 artists:
 - Porter Wagoner
+external_ids:
+  spotify: spotify:track:3rS6In6d0LERuvnbg6OL5P
 features: []
-genres: []
+first_released_as_single: false
 key: the-carroll-county-accident-porter-wagoner
 lyrics_url: https://genius.com/Porter-wagoner-the-carroll-county-accident-lyrics
 name: The Carroll County Accident
@@ -23,6 +26,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1969-02-15'
+release_year: 1969
+runtime: 168266
 ---
 Carroll County's pointed out asá kind of square
 The biggest thing that happensá is the county fair

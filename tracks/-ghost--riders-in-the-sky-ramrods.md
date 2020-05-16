@@ -1,8 +1,11 @@
 ---
+album: Ghost Riders in the Sky
 artists:
 - Ramrods
+external_ids:
+  spotify: spotify:track:5eUVr9Ja4GK6e1lcIXjML7
 features: []
-genres: []
+first_released_as_single: false
 key: -ghost--riders-in-the-sky-ramrods
 name: (Ghost) Riders In The Sky
 rankings:
@@ -42,5 +45,7 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '1961-03-06'
+release_year: 1961
+runtime: 156933
 ---
 

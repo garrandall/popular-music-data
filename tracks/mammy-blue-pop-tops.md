@@ -1,8 +1,11 @@
 ---
+album: Pop de los 60
 artists:
 - Pop-Tops
+external_ids:
+  spotify: spotify:track:4yi6RAIiBPo7BhP5ViA3tl
 features: []
-genres: []
+first_released_as_single: false
 key: mammy-blue-pop-tops
 lyrics_url: https://www.musixmatch.com/lyrics/Pop-Tops/Mammy-Blue
 name: Mammy Blue
@@ -47,6 +50,8 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '1971-12-11'
+release_year: 1971
+runtime: 231400
 ---
 (Oh mammy
 Oh mammy - mammy - blue

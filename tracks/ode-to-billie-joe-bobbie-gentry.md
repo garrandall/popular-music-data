@@ -1,8 +1,11 @@
 ---
+album: Ode To Billie Joe
 artists:
 - Bobbie Gentry
+external_ids:
+  spotify: spotify:track:4FdDorlbJTVHcH3djLbIfn
 features: []
-genres: []
+first_released_as_single: false
 key: ode-to-billie-joe-bobbie-gentry
 lyrics_url: https://genius.com/Bobbie-gentry-ode-to-billie-joe-lyrics
 name: Ode To Billie Joe
@@ -87,6 +90,8 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1976-08-21'
+release_year: 1967
+runtime: 255001
 ---
 It was the third of June, another sleepy, dusty Delta day
 I was out choppin' cotton, and my brother was balin' hay

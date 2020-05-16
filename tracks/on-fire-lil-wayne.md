@@ -1,8 +1,11 @@
 ---
+album: Rebirth
 artists:
 - Lil Wayne
+external_ids:
+  spotify: spotify:track:50mX6QmpQX4cCsRYJ9fGM3
 features: []
-genres: []
+first_released_as_single: false
 key: on-fire-lil-wayne
 lyrics_url: https://genius.com/Lil-wayne-on-fire-lyrics
 name: On Fire
@@ -15,6 +18,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '2010-01-02'
+release_year: 2009
+runtime: 248240
 ---
 Mama bad, mama mean
 Gasoline, she’s on fire

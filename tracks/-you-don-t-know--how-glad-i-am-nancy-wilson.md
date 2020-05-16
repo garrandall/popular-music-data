@@ -1,8 +1,11 @@
 ---
+album: How Glad I Am
 artists:
 - Nancy Wilson
+external_ids:
+  spotify: spotify:track:4YkN3JlceD5n2aMqL1kFnH
 features: []
-genres: []
+first_released_as_single: false
 key: -you-don-t-know--how-glad-i-am-nancy-wilson
 lyrics_url: https://genius.com/Nancy-wilson-how-glad-i-am-lyrics
 name: (You Don't Know) How Glad I Am
@@ -51,6 +54,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1964-09-05'
+release_year: 1964
+runtime: 157386
 ---
 My love has no beginning, my love has no end
 No front or back and my love won't bend

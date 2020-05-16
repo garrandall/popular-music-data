@@ -1,8 +1,11 @@
 ---
+album: Fancy Free
 artists:
 - The Oak Ridge Boys
+external_ids:
+  spotify: spotify:track:0mG66FLhO0iZ6XCAGdjpax
 features: []
-genres: []
+first_released_as_single: false
 key: elvira-the-oak-ridge-boys
 lyrics_url: https://genius.com/The-oak-ridge-boys-elvira-lyrics
 name: Elvira
@@ -95,6 +98,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1981-10-10'
+release_year: 1981
+runtime: 225626
 ---
 Elvira, Elvira
 My heart's on fire, for Elvira

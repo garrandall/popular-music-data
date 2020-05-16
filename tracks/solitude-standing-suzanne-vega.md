@@ -1,8 +1,11 @@
 ---
+album: Solitude Standing
 artists:
 - Suzanne Vega
+external_ids:
+  spotify: spotify:track:3XfjgqBGTmgzl8XencUM2e
 features: []
-genres: []
+first_released_as_single: false
 key: solitude-standing-suzanne-vega
 lyrics_url: https://www.azlyrics.com/lyrics/suzannevega/solitudestanding.html
 name: Solitude Standing
@@ -19,8 +22,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1987-09-26'
+release_year: 1987
+runtime: 289426
 ---
-
 Solitude stands by the window
 She turns her head as I walk in the room
 I can see by her eyes she's been waiting
@@ -62,6 +66,3 @@ I suddenly remember each time we've met
 
 And she turns to me with her hand extended
 Her palm is split with a flower with a flame
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Water Boy
 artists:
 - Don Shirley Trio
+external_ids:
+  spotify: spotify:track:6C0MI24rbbiNb6E8EWAr8z
 features: []
-genres: []
+first_released_as_single: false
 key: water-boy-don-shirley-trio
 name: Water Boy
 rankings:
@@ -62,5 +65,7 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '1961-10-16'
+release_year: 1961
+runtime: 290760
 ---
 

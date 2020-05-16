@@ -1,8 +1,11 @@
 ---
+album: Now In A Minute
 artists:
 - Donna Lewis
+external_ids:
+  spotify: spotify:track:1PEqh7awkpuepLBSq8ZwqD
 features: []
-genres: []
+first_released_as_single: false
 key: i-love-you-always-forever-donna-lewis
 lyrics_url: https://genius.com/Donna-lewis-i-love-you-always-forever-lyrics
 name: I Love You Always Forever
@@ -171,6 +174,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1997-03-29'
+release_year: 1996
+runtime: 239960
 ---
 Feels like I'm standing in a timeless dream
 Of light mists with pale amber rose

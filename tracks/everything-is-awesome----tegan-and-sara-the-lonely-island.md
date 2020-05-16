@@ -1,9 +1,12 @@
 ---
+album: The Lego Movie (Original Motion Picture Soundtrack)
 artists:
 - Tegan And Sara
+external_ids:
+  spotify: spotify:track:58vnVBWfKWIjSVvKTZJly2
 features:
 - The Lonely Island
-genres: []
+first_released_as_single: false
 key: everything-is-awesome----tegan-and-sara-the-lonely-island
 lyrics_url: https://www.azlyrics.com/lyrics/teganandsara/everythingisawesome.html
 name: Everything Is AWESOME!
@@ -20,9 +23,9 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '2014-03-15'
+release_year: 2013
+runtime: 163423
 ---
-
-
 Everything is awesome
 Everything is cool when you're part of a team
 Everything is awesome
@@ -84,6 +87,3 @@ Everything is awesome
 Everything is cool when you're part of a team
 Everything is awesome
 When you're living out a dream
-
-
-

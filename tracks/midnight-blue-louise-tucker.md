@@ -1,8 +1,11 @@
 ---
+album: "Amoureux des ann\xE9es 80 (Des Slows & du Love Pure 80's)"
 artists:
 - Louise Tucker
+external_ids:
+  spotify: spotify:track:31xBt78AHzhkFnmDDGGBzF
 features: []
-genres: []
+first_released_as_single: false
 key: midnight-blue-louise-tucker
 lyrics_url: https://genius.com/Louise-tucker-midnight-blue-lyrics
 name: Midnight Blue
@@ -59,6 +62,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1983-09-10'
+release_year: 1983
+runtime: 236472
 ---
 Midnight blue - so lonely without you
 Dreams fed by the mem'ries

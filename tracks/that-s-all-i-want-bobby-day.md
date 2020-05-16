@@ -1,8 +1,11 @@
 ---
+album: Bobby Day's Greatest Hits
 artists:
 - Bobby Day
+external_ids:
+  spotify: spotify:track:1jTrYKbrbp06g5bscCvXst
 features: []
-genres: []
+first_released_as_single: false
 key: that-s-all-i-want-bobby-day
 lyrics_url: https://genius.com/Bobby-day-thats-all-i-want-lyrics
 name: That's All I Want
@@ -11,6 +14,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1959-04-20'
+release_year: 1959
+runtime: 141600
 ---
 Fee fi for fum
 For fumma, for fumma

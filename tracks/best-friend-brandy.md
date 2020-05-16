@@ -1,8 +1,11 @@
 ---
+album: Brandy
 artists:
 - Brandy
+external_ids:
+  spotify: spotify:track:0YwUJOHKYxlm5gVfIkl8Ym
 features: []
-genres: []
+first_released_as_single: false
 key: best-friend-brandy
 lyrics_url: https://www.musixmatch.com/lyrics/Brandy/Best-Friend
 name: Best Friend
@@ -87,6 +90,8 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1995-10-14'
+release_year: 1994
+runtime: 288840
 ---
 Whenever I'm down, I call on you, my friend
 A helping hand you lend in my time of need, so I

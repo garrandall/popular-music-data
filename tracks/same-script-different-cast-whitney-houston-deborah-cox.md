@@ -1,9 +1,12 @@
 ---
+album: Whitney The Greatest Hits
 artists:
 - Whitney Houston
 - Deborah Cox
+external_ids:
+  spotify: spotify:track:2tzf1KhNuANrujMqN10fvF
 features: []
-genres: []
+first_released_as_single: false
 key: same-script-different-cast-whitney-houston-deborah-cox
 lyrics_url: https://www.azlyrics.com/lyrics/whitneyhouston/samescriptdifferentcast.html
 name: Same Script Different Cast
@@ -44,11 +47,10 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2000-08-12'
+release_year: 2000
+runtime: 298106
 ---
-
-
-
- Um? Hey Deb.
+Um? Hey Deb.
  Mmm hm?
  Thank you for being woman enough to come.
  Whitney, what's this about?
@@ -153,6 +155,3 @@ Just remember you've been warned.
  It won't last.
  I know it will last.
  Same script, different cast.
-
-
-

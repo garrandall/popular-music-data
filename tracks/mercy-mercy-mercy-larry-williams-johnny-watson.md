@@ -1,9 +1,12 @@
 ---
+album: Two For The Price Of One
 artists:
 - Larry Williams
 - Johnny Watson
+external_ids:
+  spotify: spotify:track:78siU3A3EIZgcNhKV7JGzm
 features: []
-genres: []
+first_released_as_single: false
 key: mercy-mercy-mercy-larry-williams-johnny-watson
 name: Mercy Mercy Mercy
 rankings:
@@ -23,5 +26,7 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1967-04-01'
+release_year: 1967
+runtime: 175493
 ---
 

@@ -1,8 +1,11 @@
 ---
+album: We've Got A Live One Here!
 artists:
 - Commander Cody
+external_ids:
+  spotify: spotify:track:6b5cHSFt13MyHgKKOfB9wY
 features: []
-genres: []
+first_released_as_single: false
 key: smoke--smoke--smoke---that-cigarette--commander-cody
 lyrics_url: https://genius.com/Commander-cody-and-his-lost-planet-airmen-smoke-smoke-smoke-that-cigarette-lyrics
 name: Smoke! Smoke! Smoke! (That Cigarette)
@@ -27,6 +30,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1973-08-04'
+release_year: 1973
+runtime: 223573
 ---
 Travis-Williams
 

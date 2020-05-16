@@ -1,8 +1,11 @@
 ---
+album: Just Push Play
 artists:
 - Aerosmith
+external_ids:
+  spotify: spotify:track:4iihDHIoKZdOeOW1kFDUtR
 features: []
-genres: []
+first_released_as_single: false
 key: jaded-aerosmith
 lyrics_url: https://www.azlyrics.com/lyrics/aerosmith/jaded.html
 name: Jaded
@@ -87,8 +90,9 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '2001-06-09'
+release_year: 2001
+runtime: 214333
 ---
-
 Hey j-j-jaded, you got your mama's style 
 But you're yesterday's child to me
 So jaded
@@ -140,6 +144,3 @@ Jaded
 Baby 
 You're so jaded
 'Cause I'm the one that jaded you
-
-
-

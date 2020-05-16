@@ -1,8 +1,11 @@
 ---
+album: Vox Humana
 artists:
 - Kenny Loggins
+external_ids:
+  spotify: spotify:track:0O3BR746dK13bfYaauqPUr
 features: []
-genres: []
+first_released_as_single: false
 key: i-ll-be-there-kenny-loggins
 lyrics_url: https://www.musixmatch.com/lyrics/Kenny-Loggins/I-ll-Be-There
 name: I'll Be There
@@ -15,6 +18,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1985-10-19'
+release_year: 1985
+runtime: 243200
 ---
 Stand or fall
 The love you have

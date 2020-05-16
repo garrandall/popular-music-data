@@ -1,8 +1,11 @@
 ---
+album: New Directions (Bonus Track Version)
 artists:
 - Tavares
+external_ids:
+  spotify: spotify:track:67zBpYmmJTRy89aH11vRQF
 features: []
-genres: []
+first_released_as_single: false
 key: a-penny-for-your-thoughts-tavares
 lyrics_url: https://www.azlyrics.com/lyrics/tavares/apennyforyourthoughts.html
 name: A Penny For Your Thoughts
@@ -91,8 +94,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1983-02-05'
+release_year: 1982
+runtime: 258079
 ---
-
 (Penny for your thoughts)
 
 I've got to know where I stand
@@ -163,6 +167,3 @@ Penny for your thoughts , a nickel for a kiss
 
 Penny for your thoughts (Oh, baby), a nickel for a kiss
 A dime if you tell me that you love me
-
-
-

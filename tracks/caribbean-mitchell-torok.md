@@ -1,8 +1,11 @@
 ---
+album: Caribbean
 artists:
 - Mitchell Torok
+external_ids:
+  spotify: spotify:track:51OPErNxOFv7Qv0LQKeQZ5
 features: []
-genres: []
+first_released_as_single: false
 key: caribbean-mitchell-torok
 lyrics_url: https://genius.com/Mitchell-torok-caribbean-lyrics
 name: Caribbean
@@ -63,6 +66,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1959-11-02'
+release_year: 1959
+runtime: 152693
 ---
 Have you ever been down to Haiti
 When the summer sun was sinkin' low

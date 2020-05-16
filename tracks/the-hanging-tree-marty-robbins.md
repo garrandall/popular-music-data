@@ -1,8 +1,11 @@
 ---
+album: Gunfighter Ballads And Trail Songs
 artists:
 - Marty Robbins
+external_ids:
+  spotify: spotify:track:4iJr2NWIV27oktDKhXB6fC
 features: []
-genres: []
+first_released_as_single: false
 key: the-hanging-tree-marty-robbins
 lyrics_url: https://www.azlyrics.com/lyrics/martyrobbins/thehangingtree.html
 name: The Hanging Tree
@@ -59,8 +62,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1959-04-27'
+release_year: 1959
+runtime: 170400
 ---
-
 I came to town to search for gold
 And I brought with me a memory
 And I seem to hear the night wind cry,
@@ -94,6 +98,3 @@ Was a tree of life, new life for me
 A tree of hope, new hope for me
 A tree of love, new love tor me
 The hangin' tree, the hangin' tree, the hangin' tree!
-
-
-

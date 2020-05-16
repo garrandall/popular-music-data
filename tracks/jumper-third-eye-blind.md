@@ -1,8 +1,11 @@
 ---
+album: Third Eye Blind
 artists:
 - Third Eye Blind
+external_ids:
+  spotify: spotify:track:3354J49VpkbZJho7Ztdzpw
 features: []
-genres: []
+first_released_as_single: false
 key: jumper-third-eye-blind
 lyrics_url: https://www.azlyrics.com/lyrics/thirdeyeblind/jumper.html
 name: Jumper
@@ -87,8 +90,9 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1999-04-17'
+release_year: 1997
+runtime: 272973
 ---
-
 I wish you would step back
 From that ledge my friend
 You could cut ties with all the lies
@@ -155,6 +159,3 @@ I would understand
 (I wish you would step back
 From that ledge my friend)
 And I would understand
-
-
-

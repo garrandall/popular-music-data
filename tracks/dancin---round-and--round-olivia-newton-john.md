@@ -1,8 +1,11 @@
 ---
+album: Totally Hot
 artists:
 - Olivia Newton-John
+external_ids:
+  spotify: spotify:track:11gIOjKDOvdeXYPsC6Xf23
 features: []
-genres: []
+first_released_as_single: false
 key: dancin---round-and--round-olivia-newton-john
 lyrics_url: https://www.azlyrics.com/lyrics/olivianewtonjohn/dancinroundandround.html
 name: Dancin' 'round And 'round
@@ -15,8 +18,9 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1979-09-29'
+release_year: 1978
+runtime: 239213
 ---
-
 I'm gonna go out tonight
 Gonna feel alright
 If it tears me right in two
@@ -56,6 +60,3 @@ And I'll be satisfied if I can just hold my ground
 And if he helps me to keep your memory down
 I'll be dancing 'round and 'round
 I'll be dancing 'round and 'round
-
-
-

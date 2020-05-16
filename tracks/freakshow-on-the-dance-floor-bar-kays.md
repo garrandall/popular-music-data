@@ -1,8 +1,11 @@
 ---
+album: 'The Bar-Kays: All-Time Greatest Hits'
 artists:
 - Bar-Kays
+external_ids:
+  spotify: spotify:track:5D70uM4MC0Y70Wm8oDAGPP
 features: []
-genres: []
+first_released_as_single: false
 key: freakshow-on-the-dance-floor-bar-kays
 lyrics_url: https://genius.com/The-bar-kays-freakshow-on-the-dance-floor-lyrics
 name: Freakshow On The Dance Floor
@@ -39,6 +42,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1984-07-14'
+release_year: 1984
+runtime: 285893
 ---
 Dance freaks move around
 You know, get down

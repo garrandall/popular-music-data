@@ -1,8 +1,11 @@
 ---
+album: Sleep Through The Static
 artists:
 - Jack Johnson
+external_ids:
+  spotify: spotify:track:3FnkZFv7kbxwlgaLgbqeDc
 features: []
-genres: []
+first_released_as_single: false
 key: if-i-had-eyes-jack-johnson
 lyrics_url: https://genius.com/Jack-johnson-if-i-had-eyes-lyrics
 name: If I Had Eyes
@@ -51,6 +54,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2008-03-29'
+release_year: 2007
+runtime: 238813
 ---
 If I had eyes in the back of my head
 I would have told you that

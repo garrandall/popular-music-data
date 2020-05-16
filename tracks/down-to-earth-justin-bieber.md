@@ -1,8 +1,11 @@
 ---
+album: My World
 artists:
 - Justin Bieber
+external_ids:
+  spotify: spotify:track:1q9pBaYcydq7LyYwD8SEBs
 features: []
-genres: []
+first_released_as_single: false
 key: down-to-earth-justin-bieber
 lyrics_url: https://www.azlyrics.com/lyrics/justinbieber/downtoearth.html
 name: Down To Earth
@@ -11,8 +14,9 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '2009-12-05'
+release_year: 2009
+runtime: 245760
 ---
-
 I never thought that it'd be easy
 'Cause we're both so distant now
 And the walls are closing in on us
@@ -63,6 +67,3 @@ I never thought it'd be easy
 'Cause we're both so distant now
 And the walls are closing in on us
 And we're wondering how
-
-
-

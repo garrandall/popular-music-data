@@ -1,9 +1,12 @@
 ---
+album: Tails
 artists:
 - Lisa Loeb
 - Nine Stories
+external_ids:
+  spotify: spotify:track:43RL5EuY4yHXDKIbvtHWJ7
 features: []
-genres: []
+first_released_as_single: false
 key: do-you-sleep--lisa-loeb-nine-stories
 lyrics_url: https://genius.com/Lisa-loeb-and-nine-stories-do-you-sleep-lyrics
 name: Do You Sleep?
@@ -88,6 +91,8 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1996-02-03'
+release_year: 1995
+runtime: 233493
 ---
 Do you eat sleep do you breathe me anymore?
 Do you sleep do you count sheep anymore?

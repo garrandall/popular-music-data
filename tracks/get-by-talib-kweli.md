@@ -1,8 +1,11 @@
 ---
+album: Quality
 artists:
 - Talib Kweli
+external_ids:
+  spotify: spotify:track:1LM6EReMkAxuDXDF26ekl2
 features: []
-genres: []
+first_released_as_single: false
 key: get-by-talib-kweli
 lyrics_url: https://genius.com/Talib-kweli-get-by-lyrics
 name: Get By
@@ -47,6 +50,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2003-05-31'
+release_year: 2002
+runtime: 227426
 ---
 We sell crack to our own out the back of our homes
 We smell the musk of the dusk in the crack of the dawn

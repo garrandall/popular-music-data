@@ -1,8 +1,11 @@
 ---
+album: Don't Tell A Soul
 artists:
 - The Replacements
+external_ids:
+  spotify: spotify:track:4J5VFtuLhbgKhz6UKkABXR
 features: []
-genres: []
+first_released_as_single: false
 key: i-ll-be-you-the-replacements
 lyrics_url: https://genius.com/The-replacements-ill-be-you-lyrics
 name: I'll Be You
@@ -47,6 +50,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1989-06-10'
+release_year: 1989
+runtime: 209386
 ---
 If it's a temporary lull
 Why'm I bored right outta my skull?

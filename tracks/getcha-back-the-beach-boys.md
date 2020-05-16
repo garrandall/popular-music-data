@@ -1,8 +1,11 @@
 ---
+album: The Beach Boys
 artists:
 - The Beach Boys
+external_ids:
+  spotify: spotify:track:7Arp0SAkC4adBQZyv7MV8A
 features: []
-genres: []
+first_released_as_single: false
 key: getcha-back-the-beach-boys
 lyrics_url: https://www.azlyrics.com/lyrics/beachboys/getchaback.html
 name: Getcha Back
@@ -55,8 +58,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1985-08-10'
+release_year: 1985
+runtime: 181840
 ---
-
 Bow bow bow bow oop
 Ah oo oh waaa oo
 
@@ -106,6 +110,3 @@ Bow bow bow oop
 
 (Getcha back) I'll leave her
 (Getcha back) and you leave him
-
-
-

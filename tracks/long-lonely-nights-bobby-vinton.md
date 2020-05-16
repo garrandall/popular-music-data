@@ -1,8 +1,11 @@
 ---
+album: Bobby Vinton Sings For Lonely Nights
 artists:
 - Bobby Vinton
+external_ids:
+  spotify: spotify:track:5uDYQi3C4MCh3BxLv4Tthr
 features: []
-genres: []
+first_released_as_single: false
 key: long-lonely-nights-bobby-vinton
 lyrics_url: https://www.azlyrics.com/lyrics/bobbyvinton/longlonelynights.html
 name: Long Lonely Nights
@@ -35,8 +38,9 @@ rankings:
   rank: 28
   ranking_list: Billboard Hot 100
   start_date: '1965-04-17'
+release_year: 1962
+runtime: 148760
 ---
-
 Long, long and lonely nights
 I cry my eyes out over you
 Wond'ring if I did right
@@ -67,6 +71,3 @@ Ever since you've been gone
 
 Please, please, come back to me
 You've been gone too long
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Doo-Wops & Hooligans
 artists:
 - Bruno Mars
+external_ids:
+  spotify: spotify:track:5MMLS3xm12D7N26xlfFApr
 features: []
-genres: []
+first_released_as_single: false
 key: runaway-baby-bruno-mars
 lyrics_url: https://genius.com/Bruno-mars-runaway-baby-lyrics
 name: Runaway Baby
@@ -11,6 +14,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2012-03-03'
+release_year: 2010
+runtime: 147746
 ---
 Oh yes
 

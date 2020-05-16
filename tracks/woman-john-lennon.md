@@ -1,8 +1,11 @@
 ---
+album: Sometime In New York City
 artists:
 - John Lennon
+external_ids:
+  spotify: spotify:track:6uKsrF9ejNeVy0lZvOQFdp
 features: []
-genres: []
+first_released_as_single: false
 key: woman-john-lennon
 lyrics_url: https://genius.com/John-lennon-woman-lyrics
 name: Woman
@@ -87,6 +90,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1981-05-30'
+release_year: 1972
+runtime: 318746
 ---
 (For the other half of the sky)
 

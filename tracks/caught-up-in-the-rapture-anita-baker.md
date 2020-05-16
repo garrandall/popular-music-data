@@ -1,8 +1,11 @@
 ---
+album: '1986'
 artists:
 - Anita Baker
+external_ids:
+  spotify: spotify:track:5z1Yde01fIsC6NaswUXbDI
 features: []
-genres: []
+first_released_as_single: false
 key: caught-up-in-the-rapture-anita-baker
 lyrics_url: https://genius.com/Anita-baker-caught-up-in-the-rapture-lyrics
 name: Caught Up In The Rapture
@@ -79,6 +82,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1987-03-28'
+release_year: 1986
+runtime: 250266
 ---
 When we met, always knew
 I would feel that magic for you

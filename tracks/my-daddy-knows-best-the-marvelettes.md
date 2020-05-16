@@ -1,8 +1,11 @@
 ---
+album: The Marvelous Marvelettes
 artists:
 - The Marvelettes
+external_ids:
+  spotify: spotify:track:5hugVFhQKorhW6bfDHD4fe
 features: []
-genres: []
+first_released_as_single: false
 key: my-daddy-knows-best-the-marvelettes
 lyrics_url: https://www.azlyrics.com/lyrics/marvelettes/mydaddyknowsbest.html
 name: My Daddy Knows Best
@@ -31,8 +34,9 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '1963-09-07'
+release_year: 1963
+runtime: 148426
 ---
-
 My daddy told me
 That boys may say some things that aren't true
 Yeah, they promise many sweet things
@@ -75,6 +79,3 @@ Oh, I don't care what you say
 We've got to do it his way
 Don't say that he's mean
 I'll have to tell him everything
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Chicago 19
 artists:
 - Chicago
+external_ids:
+  spotify: spotify:track:7pvszdMGvaS1DROV3tbbd0
 features: []
-genres: []
+first_released_as_single: false
 key: we-can-last-forever-chicago
 lyrics_url: https://genius.com/Chicago-we-can-last-forever-lyrics
 name: We Can Last Forever
@@ -55,6 +58,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1989-07-29'
+release_year: 1988
+runtime: 225426
 ---
 Don't turn away
 Because there is something I just want to say

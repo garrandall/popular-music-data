@@ -1,8 +1,11 @@
 ---
+album: Fabian Avalon
 artists:
 - Fabian
+external_ids:
+  spotify: spotify:track:10cjs3lGQ2lDfD1mKkduhE
 features: []
-genres: []
+first_released_as_single: false
 key: this-friendly-world-fabian
 lyrics_url: https://genius.com/Fabian-this-friendly-world-lyrics
 name: This Friendly World
@@ -59,6 +62,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1960-02-15'
+release_year: 1959
+runtime: 174120
 ---
 In this friendly, friendly world with each day so full of joy
 Why should any heart be lonely?

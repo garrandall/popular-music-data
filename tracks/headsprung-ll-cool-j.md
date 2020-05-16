@@ -1,8 +1,11 @@
 ---
+album: THE DEFinition
 artists:
 - LL Cool J
+external_ids:
+  spotify: spotify:track:1GIN41bLhiKeEPeC2vXH8i
 features: []
-genres: []
+first_released_as_single: false
 key: headsprung-ll-cool-j
 lyrics_url: https://www.azlyrics.com/lyrics/llcoolj/headsprung.html
 name: Headsprung
@@ -87,9 +90,9 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '2004-11-20'
+release_year: 2004
+runtime: 267320
 ---
-
-
 They call me Big L'y, Big Silly
 Big Money, Big Billy
 When I'm sliding in them all can ya hear me?
@@ -150,6 +153,3 @@ I'm a get your head sprung, I'm a get your head sprung (Hey!)
 
 
 Yeah! Keep chillin wit em, yeah
-
-
-

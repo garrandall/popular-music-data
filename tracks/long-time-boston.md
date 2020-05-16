@@ -1,8 +1,11 @@
 ---
+album: Boston
 artists:
 - Boston
+external_ids:
+  spotify: spotify:track:39C5FuZ8C8M0QI8CrMsPkR
 features: []
-genres: []
+first_released_as_single: false
 key: long-time-boston
 lyrics_url: https://genius.com/Boston-foreplay-long-time-lyrics
 name: Long Time
@@ -47,6 +50,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1977-04-02'
+release_year: 1976
+runtime: 467640
 ---
 It's been such a long time
 I think I should be goin', yeah

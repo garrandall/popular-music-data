@@ -1,8 +1,11 @@
 ---
+album: Chess Divas
 artists:
 - Sugar Pie DeSanto
+external_ids:
+  spotify: spotify:track:1YCardTgBqW4NUjInAqHHZ
 features: []
-genres: []
+first_released_as_single: false
 key: slip-in-mules--no-high-heel-sneakers--sugar-pie-desanto
 lyrics_url: https://www.musixmatch.com/lyrics/Sugar-Pie-DeSanto/Slip-In-Mules-No-High-Heel-Sneakers
 name: Slip-In Mules (No High Heel Sneakers)
@@ -27,6 +30,8 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '1964-05-16'
+release_year: 1964
+runtime: 173480
 ---
 Baby, my red dress in the cleaner
 But my shoes will steal the show

@@ -1,9 +1,12 @@
 ---
+album: The Greatest Hits Vol. 2
 artists:
 - Steve
 - Eydie
+external_ids:
+  spotify: spotify:track:2hTFLJSd8QaXbxOcltHfaQ
 features: []
-genres: []
+first_released_as_single: false
 key: i-can-t-stop-talking-about-you-steve-eydie
 lyrics_url: https://www.musixmatch.com/lyrics/Steve-Lawrence-Eydie-Gorme-9/I-Can-t-Stop-Talking-about-You
 name: I Can't Stop Talking About You
@@ -44,6 +47,8 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '1964-02-15'
+release_year: 1963
+runtime: 127120
 ---
 My friends think I'm an awful bore
 Ever since I fell in love with you

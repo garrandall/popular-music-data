@@ -1,8 +1,11 @@
 ---
+album: Rites Of Passage
 artists:
 - Indigo Girls
+external_ids:
+  spotify: spotify:track:5jpFJ6xiphwLbKORHFARXU
 features: []
-genres: []
+first_released_as_single: false
 key: galileo-indigo-girls
 lyrics_url: https://www.azlyrics.com/lyrics/indigogirls/galileo.html
 name: Galileo
@@ -15,8 +18,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1992-08-15'
+release_year: 1987
+runtime: 251133
 ---
-
 Galileo's head was on the block
 The crime was looking up the truth
 And as the bombshells of my daily fears explode
@@ -73,6 +77,3 @@ How long?
 ('til my soul gets it right)
 How long?
 ('til my soul gets it right)
-
-
-

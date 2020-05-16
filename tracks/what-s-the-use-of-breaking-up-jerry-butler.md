@@ -1,8 +1,11 @@
 ---
+album: The Very Best Of Jerry Butler
 artists:
 - Jerry Butler
+external_ids:
+  spotify: spotify:track:6tTot4QmK15dofc6WaZNyf
 features: []
-genres: []
+first_released_as_single: false
 key: what-s-the-use-of-breaking-up-jerry-butler
 lyrics_url: https://genius.com/Jerry-butler-whats-the-use-of-breaking-up-lyrics
 name: What's The Use Of Breaking Up
@@ -47,6 +50,8 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '1969-11-01'
+release_year: 1969
+runtime: 155826
 ---
 What's the use in breakin' up
 When you just turn around and make up?

@@ -1,8 +1,11 @@
 ---
+album: 20 Year Anniversary (Live At The Royal Albert Hall 2002)
 artists:
 - Culture Club
+external_ids:
+  spotify: spotify:track:3aIblqgaEaKs0aLO59MwJX
 features: []
-genres: []
+first_released_as_single: false
 key: move-away-culture-club
 lyrics_url: https://www.azlyrics.com/lyrics/cultureclub/moveaway.html
 name: Move Away
@@ -63,8 +66,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1986-07-05'
+release_year: 1986
+runtime: 250800
 ---
-
 Moving Moving Move away
 Spirit changed the conversation
 Stepping stones across the land
@@ -89,6 +93,3 @@ I need you so
 I can't let go
 I never said I'd hold your hand
 Why don't you move?
-
-
-

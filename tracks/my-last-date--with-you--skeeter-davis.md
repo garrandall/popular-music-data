@@ -1,8 +1,11 @@
 ---
+album: The Essential Skeeter Davis
 artists:
 - Skeeter Davis
+external_ids:
+  spotify: spotify:track:3kvyaShezE8dMWfbL44TdI
 features: []
-genres: []
+first_released_as_single: false
 key: my-last-date--with-you--skeeter-davis
 lyrics_url: https://genius.com/Skeeter-davis-my-last-date-with-you-lyrics
 name: My Last Date (With You)
@@ -39,6 +42,8 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1961-01-30'
+release_year: 1960
+runtime: 153506
 ---
 One hour and I'll be meeting you
 I know you're gonna make me blue

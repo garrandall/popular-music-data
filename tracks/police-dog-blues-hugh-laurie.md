@@ -1,8 +1,11 @@
 ---
+album: Let Them Talk
 artists:
 - Hugh Laurie
+external_ids:
+  spotify: spotify:track:13ICn1TfMEB6DhYvc9dR6b
 features: []
-genres: []
+first_released_as_single: false
 key: police-dog-blues-hugh-laurie
 lyrics_url: https://www.azlyrics.com/lyrics/hughlaurie/policedogblues.html
 name: Police Dog Blues
@@ -15,8 +18,9 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '2011-10-01'
+release_year: 2011
+runtime: 213013
 ---
-
 All my life I've been a traveling man
 Said, all my life I've been a traveling man
 Staying alone and doing the best I can
@@ -35,6 +39,3 @@ He leaves his mark on everybody's pants
 I think I'll travel, now I think I'll let her be
 I think I'll travel, now I think I'll let her be
 Before she sicks that police dog on me
-
-
-

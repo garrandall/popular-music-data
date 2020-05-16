@@ -1,8 +1,11 @@
 ---
+album: Phenomenon
 artists:
 - LL Cool J
+external_ids:
+  spotify: spotify:track:7JXFCtDRnftvbZjukyIRRB
 features: []
-genres: []
+first_released_as_single: false
 key: father-ll-cool-j
 lyrics_url: https://genius.com/Ll-cool-j-father-lyrics
 name: Father
@@ -71,6 +74,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1998-05-16'
+release_year: 1997
+runtime: 284666
 ---
 I swear to tell the truth and nothin but the truth...
 So help me God

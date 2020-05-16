@@ -1,8 +1,11 @@
 ---
+album: More Greatest Hits
 artists:
 - Marty Robbins
+external_ids:
+  spotify: spotify:track:0GRML5qVYv4JSzjvQWYIxK
 features: []
-genres: []
+first_released_as_single: false
 key: is-there-any-chance-marty-robbins
 lyrics_url: https://www.musixmatch.com/lyrics/Marty-Robbins/Is-There-Any-Chance
 name: Is There Any Chance
@@ -55,6 +58,8 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1960-09-05'
+release_year: 1960
+runtime: 129866
 ---
 Is there any chance that you and I
 Can start all over

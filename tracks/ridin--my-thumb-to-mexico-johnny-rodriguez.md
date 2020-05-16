@@ -1,8 +1,11 @@
 ---
+album: Run for the Border
 artists:
 - Johnny Rodriguez
+external_ids:
+  spotify: spotify:track:2AiUKn51BcgHA49NDg7Qre
 features: []
-genres: []
+first_released_as_single: false
 key: ridin--my-thumb-to-mexico-johnny-rodriguez
 lyrics_url: https://genius.com/Johnny-rodriguez-ridin-my-thumb-to-mexico-lyrics
 name: Ridin' My Thumb To Mexico
@@ -27,6 +30,8 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '1973-10-27'
+release_year: 1973
+runtime: 129560
 ---
 This old highway seems so lonesome when you're goin' where you've been
 And a lonesome song can make you cry time and time again

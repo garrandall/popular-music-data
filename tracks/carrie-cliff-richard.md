@@ -1,8 +1,11 @@
 ---
+album: Rock 'n' Roll Juvenile
 artists:
 - Cliff Richard
+external_ids:
+  spotify: spotify:track:38lEuRvNTtLd3Bn0WFNPTn
 features: []
-genres: []
+first_released_as_single: false
 key: carrie-cliff-richard
 lyrics_url: https://www.azlyrics.com/lyrics/cliffrichard/carrie.html
 name: Carrie
@@ -51,8 +54,9 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1980-05-03'
+release_year: 1979
+runtime: 223573
 ---
-
 Sorry to disturb you
 But I was in the neighbourhood
 About a friend I've her picture
@@ -82,4 +86,3 @@ Returning my call
 They've nothing at all
 You're just another message
 On a payphone wall
-

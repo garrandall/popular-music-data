@@ -1,8 +1,11 @@
 ---
+album: Street Corner Talking
 artists:
 - Savoy Brown
+external_ids:
+  spotify: spotify:track:53g0wWZkXPiQPjqVuZ5TFS
 features: []
-genres: []
+first_released_as_single: false
 key: tell-mama-savoy-brown
 lyrics_url: https://www.azlyrics.com/lyrics/savoybrown/tellmama.html
 name: Tell Mama
@@ -31,8 +34,9 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1971-12-11'
+release_year: 1971
+runtime: 323733
 ---
-
 Quit my job, ain't got no money
 Seems I have to leave this town
 Packed my bags, run to the station
@@ -63,6 +67,3 @@ Has got me sick through and through
 
 Quit my job, ain't got no money
 Seems I have to leave this town
-
-
-

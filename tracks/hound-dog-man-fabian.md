@@ -1,8 +1,11 @@
 ---
+album: Fabian Avalon
 artists:
 - Fabian
+external_ids:
+  spotify: spotify:track:24fo7tdfOXJ6mlRl8PMup8
 features: []
-genres: []
+first_released_as_single: false
 key: hound-dog-man-fabian
 lyrics_url: https://www.musixmatch.com/lyrics/Fabian/Hound-Dog-Man
 name: Hound Dog Man
@@ -67,6 +70,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1960-02-22'
+release_year: 1959
+runtime: 119746
 ---
 Hound dog man, hound dog man, I wanna be a hound dog man
 

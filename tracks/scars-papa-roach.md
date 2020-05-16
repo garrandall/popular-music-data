@@ -1,8 +1,11 @@
 ---
+album: Getting Away With Murder
 artists:
 - Papa Roach
+external_ids:
+  spotify: spotify:track:1UREw2MCfU0xwBzCAjxlUD
 features: []
-genres: []
+first_released_as_single: false
 key: scars-papa-roach
 lyrics_url: https://www.azlyrics.com/lyrics/paparoach/scars.html
 name: Scars
@@ -159,8 +162,9 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '2005-10-29'
+release_year: 2004
+runtime: 208186
 ---
-
 I tear my heart open, I sew myself shut
 My weakness is that I care too much
 And my scars remind me that the past is real
@@ -221,6 +225,3 @@ I tear my heart open, I sew myself shut
 My weakness is that I care too much
 And our scars remind us that the past is real
 I tear my heart open just to feel
-
-
-

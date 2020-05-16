@@ -1,8 +1,11 @@
 ---
+album: Hannah Montana The Movie
 artists:
 - Miley Cyrus
+external_ids:
+  spotify: spotify:track:6ntkwU1MhehTKgx4BWxX3f
 features: []
-genres: []
+first_released_as_single: false
 key: hoedown-throwdown-miley-cyrus
 lyrics_url: https://www.azlyrics.com/lyrics/mileycyrus/hoedownthrowdown.html
 name: Hoedown Throwdown
@@ -59,8 +62,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2009-06-20'
+release_year: 2009
+runtime: 181013
 ---
-
 Boom clap
 Boom de clap de clap
 Boom-boom clap
@@ -167,6 +171,3 @@ Boom dap clap, ba-boom dap clap, clap, clap
 Boom dap clap, ba-boom da clap, clap, clap
 Boom da clap, boom de clap de clap
 Throw it all together, that's how we roll.
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Backlash
 artists:
 - Bad English
+external_ids:
+  spotify: spotify:track:3FUnv761z4m18RjaObRxmV
 features: []
-genres: []
+first_released_as_single: false
 key: straight-to-your-heart-bad-english
 lyrics_url: https://genius.com/Bad-english-straight-to-your-heart-lyrics
 name: Straight To Your Heart
@@ -59,6 +62,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1991-11-23'
+release_year: 1991
+runtime: 249026
 ---
 I can't reach behind your eyes
 You always look away

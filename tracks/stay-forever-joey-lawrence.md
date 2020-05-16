@@ -1,8 +1,11 @@
 ---
+album: Joey Lawrence
 artists:
 - Joey Lawrence
+external_ids:
+  spotify: spotify:track:4eO9okL2dyDCtlpXN6LkAl
 features: []
-genres: []
+first_released_as_single: false
 key: stay-forever-joey-lawrence
 lyrics_url: https://genius.com/Joey-lawrence-stay-forever-lyrics
 name: Stay Forever
@@ -55,6 +58,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1993-10-02'
+release_year: 1993
+runtime: 258866
 ---
 Outside my window, rain is falling down
 And I can see your face, mirrored in my mind

@@ -1,8 +1,11 @@
 ---
+album: Bobby Day's Greatest Hits
 artists:
 - Bobby Day
+external_ids:
+  spotify: spotify:track:3tEmwcLXvrJ1fyXGnbn1AS
 features: []
-genres: []
+first_released_as_single: false
 key: gotta-new-girl-bobby-day
 lyrics_url: https://genius.com/Bobby-day-gotta-new-girl-lyrics
 name: Gotta New Girl
@@ -11,6 +14,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1959-06-22'
+release_year: 1959
+runtime: 144706
 ---
 Hm mmm
 

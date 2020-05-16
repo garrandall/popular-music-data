@@ -1,8 +1,11 @@
 ---
+album: Gorgeous George
 artists:
 - Edwyn Collins
+external_ids:
+  spotify: spotify:track:6XOINCZBv8Q7RXgNNiTwIN
 features: []
-genres: []
+first_released_as_single: false
 key: a-girl-like-you-edwyn-collins
 lyrics_url: https://www.azlyrics.com/lyrics/edwyncollins/agirllikeyou.html
 name: A Girl Like You
@@ -43,8 +46,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1995-12-23'
+release_year: 1994
+runtime: 236583
 ---
-
 I've never known a girl like you before
 Now, just like in a song from days of yore
 Here you come a-knocking, knocking on my door
@@ -70,6 +74,3 @@ Not enough protest songs
 And now you've come along
 Yes, you've come along
 And I've never met a girl like you before
-
-
-

@@ -1,9 +1,12 @@
 ---
+album: King & Queen
 artists:
 - Otis
 - Carla
+external_ids:
+  spotify: spotify:track:1jRnSVA3PfS0BhoKylM4E2
 features: []
-genres: []
+first_released_as_single: false
 key: lovey-dovey-otis-carla
 lyrics_url: https://genius.com/Otis-redding-and-carla-thomas-lovey-dovey-lyrics
 name: Lovey Dovey
@@ -32,6 +35,8 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '1968-03-16'
+release_year: 1967
+runtime: 155453
 ---
 I said you're the cutest thing that I've ever seen
 I really love your peaches, wanna shake your tree

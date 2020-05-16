@@ -1,9 +1,12 @@
 ---
+album: El Dorado
 artists:
 - Shakira
+external_ids:
+  spotify: spotify:track:70lnL3QaSOIIyMa2X9aVRL
 features:
 - Nicky Jam
-genres: []
+first_released_as_single: false
 key: perro-fiel-shakira-nicky-jam
 lyrics_url: https://genius.com/Genius-english-translations-shakira-perro-fiel-ft-nicky-jam-english-translation-lyrics
 name: Perro Fiel
@@ -12,6 +15,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2017-12-16'
+release_year: 2017
+runtime: 195213
 ---
 Here you are
 You can not stop

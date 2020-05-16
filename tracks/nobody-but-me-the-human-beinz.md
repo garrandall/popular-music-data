@@ -1,8 +1,11 @@
 ---
+album: Nobody But Me
 artists:
 - The Human Beinz
+external_ids:
+  spotify: spotify:track:4QkvD53COA5qLA7rQ1Pa7D
 features: []
-genres: []
+first_released_as_single: false
 key: nobody-but-me-the-human-beinz
 lyrics_url: https://genius.com/Human-beinz-nobody-but-me-lyrics
 name: Nobody But Me
@@ -67,6 +70,8 @@ rankings:
   rank: 31
   ranking_list: Billboard Hot 100
   start_date: '1968-03-16'
+release_year: 1967
+runtime: 140440
 ---
 No-no, no, no-no, no-no-no-no
 No, no-no, no, no, no-no, no-no, no-no

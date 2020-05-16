@@ -1,8 +1,11 @@
 ---
+album: Quiet Lies
 artists:
 - Juice Newton
+external_ids:
+  spotify: spotify:track:6K1b1cx8qPa6kFMPdtbdLE
 features: []
-genres: []
+first_released_as_single: false
 key: love-s-been-a-little-bit-hard-on-me-juice-newton
 lyrics_url: https://www.azlyrics.com/lyrics/juicenewton/lovesbeenalittlebithardonme.html
 name: Love's Been A Little Bit Hard On Me
@@ -75,8 +78,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1982-08-28'
+release_year: 1981
+runtime: 194733
 ---
-
 I've got nothing to be ashamed of
 (Love's been a little bit hard on me)
 If I shy away it's only because
@@ -122,6 +126,3 @@ Oh love's been a little
 Oh, love ya know it's just been a little
 (Love's been a little bit hard)
 It's hard on me
-
-
-

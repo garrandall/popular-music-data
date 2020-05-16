@@ -1,8 +1,11 @@
 ---
+album: beerbongs & bentleys
 artists:
 - Post Malone
+external_ids:
+  spotify: spotify:track:5ffntNJnJOeFv7b7DCd0Bw
 features: []
-genres: []
+first_released_as_single: false
 key: takin--shots-post-malone
 lyrics_url: https://www.azlyrics.com/lyrics/postmalone/takinshots.html
 name: Takin' Shots
@@ -19,8 +22,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2018-05-26'
+release_year: 2018
+runtime: 216746
 ---
-
 Drinkin' all night, but we ain't done yet (yet)
 Waitin' on the plug, but he ain't come yet (yet)
 Still need somethin'? Put your bank on it (bank on it)
@@ -99,6 +103,3 @@ Chasin' the Perc' with somebody, that shit never lets me down (uhm)
 They go to work for some money, we make it from actin' out (uhm)
 Grrrrrah, we takin' shots right now (shots right now)
 Grrrrrah, yeah, we takin' shots right now (shots)
-
-
-

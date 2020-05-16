@@ -1,8 +1,11 @@
 ---
+album: Live Cardiff 1975
 artists:
 - Lynyrd Skynyrd
+external_ids:
+  spotify: spotify:track:0boBYG5mNGM0tEPWi016GO
 features: []
-genres: []
+first_released_as_single: false
 key: double-trouble-lynyrd-skynyrd
 lyrics_url: https://www.azlyrics.com/lyrics/lynyrdskynyrd/doubletrouble.html
 name: Double Trouble
@@ -19,8 +22,9 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '1976-04-03'
+release_year: 1975
+runtime: 163706
 ---
-
 Eleven times I been busted, eleven times I been to jail
 Some of the times I been there nobody could go my bail
 Well it seems to me, Lord that this ol' boy just don't fit
@@ -43,4 +47,3 @@ With a temper as hot as fire
 Spent ninety days on a peat farm just doin' the county's time
 Well now, even mama said Son you're bad news
 And it won't be too long before someone puts one through you
-

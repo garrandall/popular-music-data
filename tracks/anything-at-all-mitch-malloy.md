@@ -1,8 +1,11 @@
 ---
+album: Mitch Malloy
 artists:
 - Mitch Malloy
+external_ids:
+  spotify: spotify:track:3AmZlfEuOqyoOfgqrbFPkh
 features: []
-genres: []
+first_released_as_single: false
 key: anything-at-all-mitch-malloy
 lyrics_url: https://genius.com/Mitch-malloy-anything-at-all-lyrics
 name: Anything At All
@@ -43,6 +46,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1992-06-27'
+release_year: 1992
+runtime: 242152
 ---
 Anything At All
 You've been cheated

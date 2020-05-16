@@ -1,8 +1,11 @@
 ---
+album: Walk, Don't Run Vol. 2
 artists:
 - The Ventures
+external_ids:
+  spotify: spotify:track:5JjvQuQdVRmj6vjsmWn4Gk
 features: []
-genres: []
+first_released_as_single: false
 key: walk-don-t-run--64-the-ventures
 name: Walk-Don't Run '64
 rankings:
@@ -50,5 +53,7 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1964-09-19'
+release_year: 1964
+runtime: 147013
 ---
 

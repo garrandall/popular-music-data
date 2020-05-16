@@ -1,8 +1,11 @@
 ---
+album: Gaucho
 artists:
 - Steely Dan
+external_ids:
+  spotify: spotify:track:2SkcfuzAoyrBWkdbxn7Lu1
 features: []
-genres: []
+first_released_as_single: false
 key: time-out-of-mind-steely-dan
 lyrics_url: https://www.azlyrics.com/lyrics/steelydan/timeoutofmind.html
 name: Time Out Of Mind
@@ -51,8 +54,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1981-05-23'
+release_year: 1980
+runtime: 252413
 ---
-
 Son you better be ready for love
 On this glory day
 This is your chance to believe
@@ -90,6 +94,3 @@ Tonight when I chase the dragon
 The water may change to cherry wine
 And the silver will turn to gold
 Time out of mind
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: I Wanna Go There
 artists:
 - Tyrese
+external_ids:
+  spotify: spotify:track:5gnEqyTtO9ssGiBUWYnKu6
 features: []
-genres: []
+first_released_as_single: false
 key: how-you-gonna-act-like-that-tyrese
 lyrics_url: https://www.azlyrics.com/lyrics/tyrese/howyougonnaactlikethat.html
 name: How You Gonna Act Like That
@@ -107,8 +110,9 @@ rankings:
   rank: 33
   ranking_list: Billboard Hot 100
   start_date: '2003-06-21'
+release_year: 1998
+runtime: 294400
 ---
-
 It seems like just the other day that we hooked up.
 I was driving, you was walking, and I swooped you up.
 From that moment on I knew you were the one.
@@ -231,6 +235,3 @@ How you gonna act like that?
 
 How you gonna up and leave me now?
 How you gonna act like that?
-
-
-

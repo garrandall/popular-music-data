@@ -1,9 +1,12 @@
 ---
+album: Street Gossip
 artists:
 - Lil Baby
+external_ids:
+  spotify: spotify:track:1Szfm2XAx3Kgl55dyl8sTU
 features:
 - Meek Mill
-genres: []
+first_released_as_single: false
 key: time-lil-baby-meek-mill
 lyrics_url: https://genius.com/Lil-baby-time-lyrics
 name: Time
@@ -12,6 +15,8 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '2018-12-15'
+release_year: 2018
+runtime: 182723
 ---
 Youngin from the project fucked around and got it poppin
 I'm like fuck a Maserati, bought my bitch a Bentley truck

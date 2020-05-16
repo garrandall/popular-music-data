@@ -1,8 +1,11 @@
 ---
+album: The Christmas Song
 artists:
 - Lauren Daigle
+external_ids:
+  spotify: spotify:track:3jRBwf09lbRAp2DSPlRx8p
 features: []
-genres: []
+first_released_as_single: true
 key: the-christmas-song-lauren-daigle
 lyrics_url: https://www.azlyrics.com/lyrics/laurendaigle/thechristmassong.html
 name: The Christmas Song
@@ -15,8 +18,9 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '2019-01-05'
+release_year: 2018
+runtime: 270934
 ---
-
 Chestnuts roasting on an open fire
 Jack Frost nipping at your nose
 Yuletide carols being sung by a choir
@@ -43,6 +47,3 @@ Although it's been said many times, many ways
 Merry Christmas
 Oh Merry Christmas
 Oh Merry Christmas to you
-
-
-

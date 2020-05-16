@@ -1,8 +1,11 @@
 ---
+album: Night Owl
 artists:
 - Gerry Rafferty
+external_ids:
+  spotify: spotify:track:2F4OVzPcb3KXIvQg9MgEXo
 features: []
-genres: []
+first_released_as_single: false
 key: days-gone-down--still-got-the-light-in-your-eyes--gerry-rafferty
 lyrics_url: https://www.azlyrics.com/lyrics/gerryrafferty/daysgonedown.html
 name: Days Gone Down (Still Got The Light In Your Eyes)
@@ -47,8 +50,9 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1979-08-04'
+release_year: 1979
+runtime: 387640
 ---
-
 You still got that light in your eye
 And our day is comin' by and by
 I'm travellin' this long road to be with you
@@ -99,6 +103,3 @@ Yeah yeah still got that light in your eye
 And our day is comin' by and by
 I'm travellin', travellin' (yeah yeah)
 We still gotta long way, we still gotta long way to go.
-
-
-

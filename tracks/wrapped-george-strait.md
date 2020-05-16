@@ -1,8 +1,11 @@
 ---
+album: It Just Comes Natural
 artists:
 - George Strait
+external_ids:
+  spotify: spotify:track:1FWAB1KZHJnAeET0288xha
 features: []
-genres: []
+first_released_as_single: false
 key: wrapped-george-strait
 lyrics_url: https://www.azlyrics.com/lyrics/georgestrait/wrapped.html
 name: Wrapped
@@ -71,8 +74,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2007-08-18'
+release_year: 2006
+runtime: 247880
 ---
-
 I didn't have to turn my head whenever you walked in
 The only one to let these chills roll down my skin
 My heart beats faster, I hear your name
@@ -101,6 +105,3 @@ I feel my confidence slippin' away
 Your pretty little finger
 Baby, I'm wrapped around your pretty little finger
 Pretty little finger
-
-
-

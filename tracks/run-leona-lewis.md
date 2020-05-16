@@ -1,8 +1,11 @@
 ---
+album: Spirit
 artists:
 - Leona Lewis
+external_ids:
+  spotify: spotify:track:4hrAKlxfblnG7llBEEX7TR
 features: []
-genres: []
+first_released_as_single: false
 key: run-leona-lewis
 lyrics_url: https://www.musixmatch.com/lyrics/Leona-Lewis/Run
 name: Run
@@ -11,6 +14,8 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '2009-01-03'
+release_year: 2007
+runtime: 314537
 ---
 I'll sing it one last time for you
 Then we really have to go

@@ -1,8 +1,11 @@
 ---
+album: Smashes Thrashes & Hits
 artists:
 - KISS
+external_ids:
+  spotify: spotify:track:1wVslVHkU5N8b8JIzFbpb0
 features: []
-genres: []
+first_released_as_single: false
 key: let-s-put-the-x-in-sex-kiss
 lyrics_url: https://genius.com/Kiss-lets-put-the-x-in-sex-lyrics
 name: Let's Put The X In Sex
@@ -15,6 +18,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1989-01-21'
+release_year: 1988
+runtime: 230620
 ---
 I got a letter just the other day
 She sent a picture, but she didn't sign her name

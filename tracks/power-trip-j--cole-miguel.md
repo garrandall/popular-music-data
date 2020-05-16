@@ -1,9 +1,12 @@
 ---
+album: Born Sinner
 artists:
 - J. Cole
+external_ids:
+  spotify: spotify:track:1EbWiEra7ovNsMq3DeLSDy
 features:
 - Miguel
-genres: []
+first_released_as_single: true
 key: power-trip-j--cole-miguel
 lyrics_url: https://www.azlyrics.com/lyrics/jcole/powertrip.html
 name: Power Trip
@@ -124,9 +127,9 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '2013-09-14'
+release_year: 2013
+runtime: 240280
 ---
-
-
 Got me up all night, all I'm singin' is love songs
 She got me up all night, constant drinkin' and love songs
 She got me up all night, down-and-out with these love songs
@@ -215,6 +218,3 @@ She got me up all night, all I'm singin' is love songs
 She got me up all night, constant drinkin' and love songs
 She got me up all night, down-and-out with these love songs
 She got me open all night, got me open all night
-
-
-

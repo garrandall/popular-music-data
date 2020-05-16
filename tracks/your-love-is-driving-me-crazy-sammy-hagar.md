@@ -1,8 +1,11 @@
 ---
+album: Three Lock Box
 artists:
 - Sammy Hagar
+external_ids:
+  spotify: spotify:track:3OghNV9ZOUbAj62CZptOEP
 features: []
-genres: []
+first_released_as_single: false
 key: your-love-is-driving-me-crazy-sammy-hagar
 lyrics_url: https://www.azlyrics.com/lyrics/sammyhagar/yourloveisdrivingmecrazy.html
 name: Your Love Is Driving Me Crazy
@@ -83,8 +86,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1983-04-16'
+release_year: 1982
+runtime: 211226
 ---
-
 I don't mind
 When you act your age
 It suits me fine
@@ -133,6 +137,3 @@ Your love just takes me away, oh yeah
 Your love, your love
 Your love just takes me away, oh yeah
 Your love
-
-
-

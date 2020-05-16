@@ -1,8 +1,11 @@
 ---
+album: II X II
 artists:
 - The Cowsills
+external_ids:
+  spotify: spotify:track:2o4TJ9g2Fi2J4tkuT4gCka
 features: []
-genres: []
+first_released_as_single: false
 key: silver-threads-and-golden-needles-the-cowsills
 lyrics_url: https://www.musixmatch.com/lyrics/The-Cowsills/Silver-Threads-and-Golden-Needles
 name: Silver Threads And Golden Needles
@@ -35,6 +38,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1969-11-22'
+release_year: 1969
+runtime: 179466
 ---
 I don't want your lonely mansion
 With a tear in every room

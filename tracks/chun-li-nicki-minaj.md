@@ -1,8 +1,11 @@
 ---
+album: Queen
 artists:
 - Nicki Minaj
+external_ids:
+  spotify: spotify:track:1sTDW7kALobTFVctlaSHC4
 features: []
-genres: []
+first_released_as_single: false
 key: chun-li-nicki-minaj
 lyrics_url: https://www.azlyrics.com/lyrics/nickiminaj/chunli.html
 name: Chun-Li
@@ -71,8 +74,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2018-09-01'
+release_year: 2018
+runtime: 191600
 ---
-
 Ayo, look like I'm goin' for a swim
 Dunk on 'em, now I'm swingin' off the rim
 Bitch ain't comin' off the bench
@@ -133,6 +137,3 @@ I come alive, I, I'm always sky high
 Designer thigh highs, it's my lifestyle
 I need a Mai Tai, so fuckin' sci-fi
 Gimme the password to the fuckin' wifi
-
-
-

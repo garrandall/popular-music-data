@@ -1,8 +1,11 @@
 ---
+album: A's, B's And Rarities
 artists:
 - Pilot
+external_ids:
+  spotify: spotify:track:598IzhKFPII2Hh2wetlnUC
 features: []
-genres: []
+first_released_as_single: false
 key: just-a-smile-pilot
 lyrics_url: https://genius.com/Pilot-band-just-a-smile-lyrics
 name: Just A Smile
@@ -27,6 +30,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1975-11-08'
+release_year: 1975
+runtime: 187013
 ---
 Any time you like to get next to me, any time
 I could easily make you mine, any time

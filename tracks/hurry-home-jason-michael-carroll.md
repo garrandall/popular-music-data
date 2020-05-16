@@ -1,8 +1,11 @@
 ---
+album: Growing Up Is Getting Old
 artists:
 - Jason Michael Carroll
+external_ids:
+  spotify: spotify:track:61aJPoKikSDWTNnyp4fzgf
 features: []
-genres: []
+first_released_as_single: false
 key: hurry-home-jason-michael-carroll
 lyrics_url: https://www.azlyrics.com/lyrics/jasonmichaelcarroll/hurryhome.html
 name: Hurry Home
@@ -11,9 +14,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2010-02-13'
+release_year: 2009
+runtime: 242866
 ---
-
-
 He's been sittin' by the phone since she left
 But it's time for work and he just can't be late
 So he grabs his old guitar and he plays a couple bars
@@ -56,6 +59,3 @@ And I can't hug you on the phone
 So hurry home
 He walked in just in time to hear her say
 "Dad I'm on my way"
-
-
-

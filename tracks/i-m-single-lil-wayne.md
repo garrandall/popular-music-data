@@ -1,8 +1,11 @@
 ---
+album: I Am Not A Human Being
 artists:
 - Lil Wayne
+external_ids:
+  spotify: spotify:track:3C9UV0uRiF3DAKe1tCWIdU
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-single-lil-wayne
 lyrics_url: https://www.azlyrics.com/lyrics/lilwayne/imsingle.html
 name: I'm Single
@@ -11,9 +14,9 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '2010-05-29'
+release_year: 2010
+runtime: 333040
 ---
-
-
 Uh, camo shorts and bubble kush
 We can talk she rather fuss
 This and dat bout such and such
@@ -98,6 +101,3 @@ If u single (uh) put ya...if ya single tonight
 
 Hahaha aww let me cut my phone back on man
 Sorry but I gotta go back home it's morning (it's moooorning)
-
-
-

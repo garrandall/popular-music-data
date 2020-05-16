@@ -1,8 +1,11 @@
 ---
+album: ASTROWORLD
 artists:
 - Travis Scott
+external_ids:
+  spotify: spotify:track:3BlhdHc9iqLjuEv8aPhymC
 features: []
-genres: []
+first_released_as_single: false
 key: butterfly-effect-travis-scott
 lyrics_url: https://www.azlyrics.com/lyrics/travisscott/butterflyeffect.html
 name: Butterfly Effect
@@ -99,8 +102,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2018-08-18'
+release_year: 2017
+runtime: 191773
 ---
-
 Murda on the beat so it's not nice
 Oh, hm
 
@@ -157,6 +161,3 @@ Hidden Hills, deep off in the main
 M&M's, sweet like candy cane
 Drop the top, pop it, let it bang
 Yah!
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: The Game
 artists:
 - Chico DeBarge
+external_ids:
+  spotify: spotify:track:2ZDxfuXmTIRCdXChbtHpW9
 features: []
-genres: []
+first_released_as_single: false
 key: give-you-what-you-want--fa-sure--chico-debarge
 lyrics_url: https://genius.com/Chico-debarge-give-you-what-you-want-lyrics
 name: Give You What You Want (Fa Sure)
@@ -59,6 +62,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2000-01-15'
+release_year: 1999
+runtime: 280040
 ---
 Yeah
 Oh where you at baby?

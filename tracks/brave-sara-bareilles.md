@@ -1,8 +1,11 @@
 ---
+album: The Blessed Unrest
 artists:
 - Sara Bareilles
+external_ids:
+  spotify: spotify:track:6Uy6K3KdmUdAfelUp0SeXn
 features: []
-genres: []
+first_released_as_single: false
 key: brave-sara-bareilles
 lyrics_url: https://www.azlyrics.com/lyrics/sarabareilles/brave.html
 name: Brave
@@ -175,8 +178,9 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '2014-04-12'
+release_year: 2013
+runtime: 220573
 ---
-
 You can be amazing
 You can turn a phrase into a weapon or a drug
 You can be the outcast
@@ -254,6 +258,3 @@ I just wanna see you
 I just wanna see you
 I just wanna see you
 I just wanna see you
-
-
-

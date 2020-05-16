@@ -1,8 +1,11 @@
 ---
+album: Collaboration
 artists:
 - Shawn Phillips
+external_ids:
+  spotify: spotify:track:3ePit3zvzmOfJZC9iutoqP
 features: []
-genres: []
+first_released_as_single: false
 key: we-shawn-phillips
 lyrics_url: https://www.musixmatch.com/lyrics/Shawn-Phillips/We
 name: We
@@ -19,6 +22,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1973-01-27'
+release_year: 1971
+runtime: 305400
 ---
 She is free, but she does not know the price she has to pay
 And he could be a lover in the life she leads throughout the day

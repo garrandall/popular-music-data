@@ -1,8 +1,11 @@
 ---
+album: Rib Tips & Pig Snoots
 artists:
 - Andre Williams
+external_ids:
+  spotify: spotify:track:0PKZ2sB3g7PjgFcAqFRPrS
 features: []
-genres: []
+first_released_as_single: false
 key: pearl-time-andre-williams
 name: Pearl Time
 rankings:
@@ -14,5 +17,7 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1967-08-05'
+release_year: 1967
+runtime: 160400
 ---
 

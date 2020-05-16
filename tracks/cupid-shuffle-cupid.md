@@ -1,8 +1,11 @@
 ---
+album: Time For A Change
 artists:
 - Cupid
+external_ids:
+  spotify: spotify:track:07Tx168RSsUS1HqkDIOZbH
 features: []
-genres: []
+first_released_as_single: false
 key: cupid-shuffle-cupid
 lyrics_url: https://www.azlyrics.com/lyrics/cupid/cupidshuffle.html
 name: Cupid Shuffle
@@ -59,8 +62,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2007-10-13'
+release_year: 2007
+runtime: 231360
 ---
-
 Shuffle... Cupid shuffle
 Cupid shuffle, Cupid shuffle
 Cupid shuffle, Cupid shuffle
@@ -152,6 +156,3 @@ You better watch how close we coming (uh, uh)
 So get ready for the brand new style
 You better watch how close we coming
 (You got another one, Mr. Fat, uh, uh, yep)
-
-
-

@@ -1,9 +1,12 @@
 ---
+album: N***A Please
 artists:
 - Ol' Dirty Bastard
+external_ids:
+  spotify: spotify:track:6YYd5MLpu45J0uLrMdivF7
 features:
 - Kelis
-genres: []
+first_released_as_single: false
 key: got-your-money-ol--dirty-bastard-kelis
 lyrics_url: https://www.azlyrics.com/lyrics/oldirtybastard/gotyourmoney.html
 name: Got Your Money
@@ -88,8 +91,9 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '2000-03-04'
+release_year: 1999
+runtime: 239546
 ---
-
 Oh baby
 I dedicate this to all the pretty girls
 All the pretty girls
@@ -204,6 +208,3 @@ Don't you worry, I said hey.
 Baby I got your money
 Hey, Dirty, baby I got your money
 Don't you worry, I said hey.
-
-
-

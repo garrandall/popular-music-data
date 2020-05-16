@@ -1,8 +1,11 @@
 ---
+album: Hard To Earn
 artists:
 - Gang Starr
+external_ids:
+  spotify: spotify:track:3lGBvPUgO7MJltUnBlOpe9
 features: []
-genres: []
+first_released_as_single: false
 key: mass-appeal-gang-starr
 lyrics_url: https://www.azlyrics.com/lyrics/gangstarr/massappeal.html
 name: Mass Appeal
@@ -51,9 +54,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1994-05-14'
+release_year: 1994
+runtime: 221026
 ---
-
-
 No way you'll never make it
 Come with the weak shit, I break kids
 Step into my zone, mad rhymes will stifle ya
@@ -104,6 +107,3 @@ So I'ma end this lecture and I betcha
 Those who kick dirt and do time I'm gonna get cha
 Cause I be kickin the real
 While they be losin the race tryin to chase mass appeal
-
-
-

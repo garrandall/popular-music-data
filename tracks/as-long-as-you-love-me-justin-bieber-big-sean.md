@@ -1,9 +1,12 @@
 ---
+album: Believe
 artists:
 - Justin Bieber
+external_ids:
+  spotify: spotify:track:75lo8VozcCLRG9WGG674iD
 features:
 - Big Sean
-genres: []
+first_released_as_single: false
 key: as-long-as-you-love-me-justin-bieber-big-sean
 lyrics_url: https://genius.com/Justin-bieber-as-long-as-you-love-me-lyrics
 name: As Long As You Love Me
@@ -124,6 +127,8 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '2013-01-19'
+release_year: 2012
+runtime: 229466
 ---
 As long as you love me
 (Love me, love me, love me, love me, love me, love me)

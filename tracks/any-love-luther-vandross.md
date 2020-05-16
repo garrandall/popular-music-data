@@ -1,8 +1,11 @@
 ---
+album: Any Love
 artists:
 - Luther Vandross
+external_ids:
+  spotify: spotify:track:6BixR2rv0aozttgKLDlC5s
 features: []
-genres: []
+first_released_as_single: false
 key: any-love-luther-vandross
 lyrics_url: https://www.azlyrics.com/lyrics/luthervandross/anylove.html
 name: Any Love
@@ -59,8 +62,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1988-12-31'
+release_year: 1988
+runtime: 302533
 ---
-
 I speak to myself sometimes, and I say,
 "Oh my in a lot of ways, you're a lucky guy and
 Now all you need is a chance to try any love"
@@ -103,6 +107,3 @@ Everybody feels lonely without any love, any love, any love yeah
 And I need you, yeah should've been in my mind, in my mind
 Everyone needs a love no doubt, any love, any love
 Everybody feels lonely without any love, any love, oh
-
-
-

@@ -1,9 +1,12 @@
 ---
+album: "Sneakin\u2019"
 artists:
 - Drake
+external_ids:
+  spotify: spotify:track:4ckuS4Nj4FZ7i3Def3Br8W
 features:
 - 21 Savage
-genres: []
+first_released_as_single: true
 key: sneakin--drake-21-savage
 lyrics_url: https://www.azlyrics.com/lyrics/drake/sneakin.html
 name: Sneakin'
@@ -64,9 +67,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2017-02-11'
+release_year: 2016
+runtime: 251333
 ---
-
-
 This is all God's doing man you can't plan it
 But if the devil's in the details then I'm satanic
 Bout to take over your city and you can't stand it
@@ -151,6 +154,3 @@ Niggas keep reaching and dissin'
 Put me in all fucked up position
 Make me call my bros, for assistance
 Make me call my bro
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Sparkle And Fade
 artists:
 - Everclear
+external_ids:
+  spotify: spotify:track:4FiLbwboDT9mTAxwQ9Gk7J
 features: []
-genres: []
+first_released_as_single: false
 key: heartspark-dollarsign-everclear
 lyrics_url: https://www.azlyrics.com/lyrics/everclear/heartsparkdollarsign.html
 name: Heartspark Dollarsign
@@ -35,8 +38,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1996-06-29'
+release_year: 1995
+runtime: 172173
 ---
-
 Time stops when the whispers blare
 The voices drop hard, but the eyes still stare
 The world resolves into a death's head grin
@@ -64,6 +68,3 @@ You are possessed with a power
 Bigger than the pain
 A power bigger than the pain
 Heartspark dollarsign
-
-
-

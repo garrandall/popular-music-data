@@ -1,8 +1,11 @@
 ---
+album: Once Upon A Time
 artists:
 - The Lettermen
+external_ids:
+  spotify: spotify:track:6HePyAmu0BGEI2uKnPlfZY
 features: []
-genres: []
+first_released_as_single: false
 key: how-is-julie--the-lettermen
 lyrics_url: https://genius.com/The-lettermen-how-is-julie-lyrics
 name: How Is Julie?
@@ -39,6 +42,8 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '1962-06-30'
+release_year: 1962
+runtime: 116640
 ---
 Wherever I go, whoever I see
 How is Julie?

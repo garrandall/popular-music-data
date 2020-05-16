@@ -1,8 +1,11 @@
 ---
+album: Flame
 artists:
 - Patti LaBelle
+external_ids:
+  spotify: spotify:track:2Lux20V5A95rJRGtT7GfuD
 features: []
-genres: []
+first_released_as_single: false
 key: when-you-talk-about-love-patti-labelle
 lyrics_url: https://www.azlyrics.com/lyrics/pattilabelle/whenyoutalkaboutlove.html
 name: When You Talk About Love
@@ -55,8 +58,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1997-10-04'
+release_year: 1997
+runtime: 333373
 ---
-
 I'd like to give you a test,
 So darlin' prepare yourself,
 When I say Love please explain,
@@ -81,6 +85,3 @@ No I'm not gonna play tit for tat,
 When it comes to affairs of the heart,
 But if I love you I want you back,
 And I know that I love you so just do your part.
-
-
-

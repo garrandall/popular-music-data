@@ -1,8 +1,11 @@
 ---
+album: Go West
 artists:
 - Go West
+external_ids:
+  spotify: spotify:track:16IYOXek3mKFjRL2TdVCUN
 features: []
-genres: []
+first_released_as_single: false
 key: eye-to-eye-go-west
 lyrics_url: https://genius.com/Go-west-eye-to-eye-lyrics
 name: Eye To Eye
@@ -35,6 +38,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1985-11-09'
+release_year: 1985
+runtime: 213400
 ---
 Maybe it's the wrong time
 But when is the right time to say I lied ?

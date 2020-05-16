@@ -1,8 +1,11 @@
 ---
+album: In The City
 artists:
 - Tavares
+external_ids:
+  spotify: spotify:track:4puvdQnKsvpStBeW50PHR5
 features: []
-genres: []
+first_released_as_single: false
 key: free-ride-tavares
 lyrics_url: https://www.azlyrics.com/lyrics/tavares/freeride.html
 name: Free Ride
@@ -31,8 +34,9 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '1976-01-10'
+release_year: 1975
+runtime: 177933
 ---
-
 The mountain is high, the valley is low
 And you're confused bout which to go
 So I came here to give you a hand
@@ -64,6 +68,3 @@ Come on and take a free ride
 Yeah yeah yeah yeah
 Come on and take a free ride
 Yeah yeah yeah yeah...
-
-
-

@@ -1,9 +1,12 @@
 ---
+album: Deep Purple
 artists:
 - Nino Tempo
 - April Stevens
+external_ids:
+  spotify: spotify:track:2wwDIUdVp02Maw3jEGEym1
 features: []
-genres: []
+first_released_as_single: false
 key: deep-purple-nino-tempo-april-stevens
 lyrics_url: https://genius.com/Nino-tempo-and-april-stevens-deep-purple-lyrics
 name: Deep Purple
@@ -68,6 +71,8 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '1963-12-21'
+release_year: 1963
+runtime: 161400
 ---
 When the deep purple falls over sleepy garden walls
 And the stars begin to twinkle in the night

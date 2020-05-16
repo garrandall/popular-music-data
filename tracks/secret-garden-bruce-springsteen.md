@@ -1,8 +1,11 @@
 ---
+album: Jerry Maguire (Music from the Motion Picture)
 artists:
 - Bruce Springsteen
+external_ids:
+  spotify: spotify:track:68uuz61IqrSJjO6ffO3yHc
 features: []
-genres: []
+first_released_as_single: false
 key: secret-garden-bruce-springsteen
 lyrics_url: https://www.azlyrics.com/lyrics/brucespringsteen/secretgarden.html
 name: Secret Garden
@@ -99,8 +102,9 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '1997-07-05'
+release_year: 1995
+runtime: 266613
 ---
-
 She'll let you in her house
 If you come knockin' late at night
 She'll let you in her mouth
@@ -132,6 +136,3 @@ Where everything you want
 Where everything you need
 Will always stay
 A million miles away
-
-
-

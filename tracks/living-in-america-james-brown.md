@@ -1,8 +1,11 @@
 ---
+album: Rocky IV
 artists:
 - James Brown
+external_ids:
+  spotify: spotify:track:4Y5yjzs9FFw5qIgfZBd43I
 features: []
-genres: []
+first_released_as_single: false
 key: living-in-america-james-brown
 lyrics_url: https://www.azlyrics.com/lyrics/jamesbrown/livinginamerica.html
 name: Living In America
@@ -83,8 +86,9 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1986-04-12'
+release_year: 1985
+runtime: 282840
 ---
-
 Yeah, uh! Get up, now! 
 Ow! Knock out this!
 
@@ -157,6 +161,3 @@ Eye to eye, Station to station
 Living in America
 So nice, with your bad self
 Living in America - I feel good!
-
-
-

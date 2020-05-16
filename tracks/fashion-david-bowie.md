@@ -1,8 +1,11 @@
 ---
+album: Scary Monsters (And Super Creeps)
 artists:
 - David Bowie
+external_ids:
+  spotify: spotify:track:1MMYuuvnD3O9Sn90gDabv9
 features: []
-genres: []
+first_released_as_single: false
 key: fashion-david-bowie
 lyrics_url: https://genius.com/David-bowie-fashion-lyrics
 name: Fashion
@@ -43,6 +46,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1981-01-31'
+release_year: 1980
+runtime: 290480
 ---
 There's a brand new dance but I don't know its name
 That people from bad homes do again and again

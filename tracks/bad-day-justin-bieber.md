@@ -1,8 +1,11 @@
 ---
+album: Journals
 artists:
 - Justin Bieber
+external_ids:
+  spotify: spotify:track:4VAngYbLewVFpcLR9FpYfR
 features: []
-genres: []
+first_released_as_single: false
 key: bad-day-justin-bieber
 lyrics_url: https://www.azlyrics.com/lyrics/justinbieber/badday.html
 name: Bad Day
@@ -11,8 +14,9 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '2013-11-23'
+release_year: 2013
+runtime: 145680
 ---
-
 No I didn't think you would let me down that easy
 Oh no girl
 And I didn't think it was over until you walked away
@@ -43,6 +47,3 @@ Now I'm like whoa
 It was a bad day
 It was a bad day
 It was a bad day
-
-
-

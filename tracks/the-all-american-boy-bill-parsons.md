@@ -1,8 +1,11 @@
 ---
+album: Ace's Golden Age of American Hits Vol 1
 artists:
 - Bill Parsons
+external_ids:
+  spotify: spotify:track:4zzYDuf3fejT28Fj4N3LEM
 features: []
-genres: []
+first_released_as_single: false
 key: the-all-american-boy-bill-parsons
 lyrics_url: https://www.musixmatch.com/lyrics/Bill-Parsons/The-All-American-Boy
 name: The All American Boy
@@ -71,6 +74,8 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1959-04-06'
+release_year: 1958
+runtime: 182266
 ---
 Gather 'round, cats, and I'll tell you a story
 About how to become an All American Boy

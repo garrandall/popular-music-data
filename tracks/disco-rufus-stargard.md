@@ -1,8 +1,11 @@
 ---
+album: Stargard
 artists:
 - Stargard
+external_ids:
+  spotify: spotify:track:6T5ijGkSINcoCGEejEF7fO
 features: []
-genres: []
+first_released_as_single: false
 key: disco-rufus-stargard
 name: Disco Rufus
 rankings:
@@ -26,5 +29,7 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1978-04-01'
+release_year: 1978
+runtime: 198360
 ---
 

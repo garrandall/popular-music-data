@@ -1,8 +1,11 @@
 ---
+album: Somebody Like Me
 artists:
 - Eddy Arnold
+external_ids:
+  spotify: spotify:track:5nz5e9LCuau7a2JNgEF1uU
 features: []
-genres: []
+first_released_as_single: false
 key: the-tip-of-my-fingers-eddy-arnold
 lyrics_url: https://www.musixmatch.com/lyrics/Eddy-Arnold/The-tip-of-my-fingers
 name: The Tip Of My Fingers
@@ -35,6 +38,8 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '1966-09-03'
+release_year: 1966
+runtime: 178706
 ---
 I reached out my arms and I touched you
 With soft words I whispered your name

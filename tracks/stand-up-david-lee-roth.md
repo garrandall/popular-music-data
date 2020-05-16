@@ -1,8 +1,11 @@
 ---
+album: Skyscraper
 artists:
 - David Lee Roth
+external_ids:
+  spotify: spotify:track:5HlaPoizGrZAclPPH8ZXS4
 features: []
-genres: []
+first_released_as_single: false
 key: stand-up-david-lee-roth
 lyrics_url: https://genius.com/David-lee-roth-stand-up-lyrics
 name: Stand Up
@@ -39,6 +42,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1988-06-04'
+release_year: 1988
+runtime: 282866
 ---
 She looks like Monroe, it's a good impersonation
 From start to finish, it's her better side

@@ -1,8 +1,11 @@
 ---
+album: DROPPED OUTTA COLLEGE
 artists:
 - 24kGoldn
+external_ids:
+  spotify: spotify:track:1ifSWY4HaSSLA4wNCDCqqM
 features: []
-genres: []
+first_released_as_single: true
 key: valentino-24kgoldn
 lyrics_url: https://genius.com/24kgoldn-valentino-lyrics
 name: Valentino
@@ -11,6 +14,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2019-11-23'
+release_year: 2019
+runtime: 179225
 ---
 I don't want a valentine, I just want Valentino
 I just want the neck, I poke her face like a casino

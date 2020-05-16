@@ -1,8 +1,11 @@
 ---
+album: 34 Great American Songs
 artists:
 - Sandy Posey
+external_ids:
+  spotify: spotify:track:2sVGGB9LEwXhiB2wPDWq9i
 features: []
-genres: []
+first_released_as_single: false
 key: single-girl-sandy-posey
 lyrics_url: https://genius.com/Sandy-posey-a-single-girl-lyrics
 name: Single Girl
@@ -55,6 +58,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1967-02-04'
+release_year: 1966
+runtime: 156320
 ---
 The single girl all alone in a great big town
 The single girl gets so tired of love letting her down

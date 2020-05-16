@@ -1,8 +1,11 @@
 ---
+album: Love You To Tears
 artists:
 - The O'Jays
+external_ids:
+  spotify: spotify:track:1gDOy8j5gPr8kpQwtXZGSm
 features: []
-genres: []
+first_released_as_single: false
 key: what-s-stopping-you-the-o-jays
 lyrics_url: https://genius.com/The-ojays-whats-stopping-you-lyrics
 name: What's Stopping You
@@ -51,6 +54,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1997-09-13'
+release_year: 1997
+runtime: 256840
 ---
 Um, mmm, is it something that I'm missin'?
 Um, mmm, is it something that you got?

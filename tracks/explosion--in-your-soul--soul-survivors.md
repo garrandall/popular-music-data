@@ -1,8 +1,11 @@
 ---
+album: When the Whistle Blows Anything Goes
 artists:
 - Soul Survivors
+external_ids:
+  spotify: spotify:track:6sSVVxnULOpq0yXOpNaTqO
 features: []
-genres: []
+first_released_as_single: false
 key: explosion--in-your-soul--soul-survivors
 lyrics_url: https://genius.com/The-soul-survivors-explosion-in-your-soul-lyrics
 name: Explosion (In Your Soul)
@@ -39,6 +42,8 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '1968-02-10'
+release_year: 1967
+runtime: 156733
 ---
 A kiss from your lips
 On a night like this

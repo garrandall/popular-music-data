@@ -1,8 +1,11 @@
 ---
+album: Cameo Parkway 1957-1967
 artists:
 - The Rationals
+external_ids:
+  spotify: spotify:track:4OtaiDOzd4BB2QleFoLhLh
 features: []
-genres: []
+first_released_as_single: false
 key: respect-the-rationals
 lyrics_url: https://www.musixmatch.com/lyrics/The-Rationals/Respect
 name: Respect
@@ -19,6 +22,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1966-11-26'
+release_year: 1966
+runtime: 160266
 ---
 What you want, honey, you got it
 What you need, honey you got it

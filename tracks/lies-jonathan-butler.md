@@ -1,8 +1,11 @@
 ---
+album: Jonathan Butler
 artists:
 - Jonathan Butler
+external_ids:
+  spotify: spotify:track:7lsM1jhALL4FeLnKpG9eTD
 features: []
-genres: []
+first_released_as_single: false
 key: lies-jonathan-butler
 lyrics_url: https://www.azlyrics.com/lyrics/jonathanbutler/lies.html
 name: Lies
@@ -63,8 +66,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1987-09-26'
+release_year: 1986
+runtime: 277573
 ---
-
 Ah, ah, yeah
 (Lies, lies) oh baby (lies)
 Well, well
@@ -148,6 +152,3 @@ A wicked lie, oh, baby
 
 With a white lie
 A wicked lie, oh, baby
-
-
-

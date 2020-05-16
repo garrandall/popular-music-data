@@ -1,8 +1,11 @@
 ---
+album: Come Softly To Me
 artists:
 - The Fleetwoods
+external_ids:
+  spotify: spotify:track:1SzCGkSQXS0qmzrSupEs4R
 features: []
-genres: []
+first_released_as_single: false
 key: you-mean-everything-to-me-the-fleetwoods
 lyrics_url: https://genius.com/The-fleetwoods-you-mean-everything-to-me-lyrics
 name: You Mean Everything To Me
@@ -15,6 +18,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1959-11-02'
+release_year: 1959
+runtime: 152160
 ---
 To me, oh yes, to me
 You know (you know)

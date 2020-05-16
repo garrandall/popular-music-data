@@ -1,8 +1,11 @@
 ---
+album: Double Or Nothing
 artists:
 - Erick Sermon
+external_ids:
+  spotify: spotify:track:6tRh6OfYIZbZhq6uQVBaF3
 features: []
-genres: []
+first_released_as_single: false
 key: bomdigi-erick-sermon
 lyrics_url: https://www.azlyrics.com/lyrics/ericksermon/bomdigi.html
 name: Bomdigi
@@ -31,10 +34,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1995-12-02'
+release_year: 1995
+runtime: 214133
 ---
-
-
-
 I'll just sway...
 This's the way it goes down
 Def Squad
@@ -95,4 +97,3 @@ Basically, I Can't Wait, songs from the Redman tape
 and y'all constantly keep listening
 Yeah, who can it be now, watch out
 Flying through the air with wings E Double doing my thing
-

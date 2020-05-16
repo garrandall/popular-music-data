@@ -1,8 +1,11 @@
 ---
+album: Albert Hammond
 artists:
 - Albert Hammond
+external_ids:
+  spotify: spotify:track:2ch9sJo62ctT2meP4xz6pd
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-a-train-albert-hammond
 lyrics_url: https://genius.com/Albert-hammond-im-a-train-lyrics
 name: I'm A Train
@@ -55,6 +58,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1974-05-18'
+release_year: 1974
+runtime: 203920
 ---
 Look at me, I'm a train on a track
 I'm a train, I'm a train

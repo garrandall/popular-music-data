@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music, Volume 2'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:6HdCtI8eBY4C04X1QUiqFu
 features: []
-genres: []
+first_released_as_single: false
 key: imagine-glee-cast
 lyrics_url: https://www.azlyrics.com/lyrics/gleecast/imagine.html
 name: Imagine
@@ -11,6 +14,8 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '2009-12-12'
+release_year: 2009
+runtime: 143426
 ---
 Imagine there's no countries
 It isn't hard to do

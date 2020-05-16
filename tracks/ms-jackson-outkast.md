@@ -1,8 +1,11 @@
 ---
+album: Stankonia
 artists:
 - OutKast
+external_ids:
+  spotify: spotify:track:0I3q5fE6wg7LIfHGngUTnV
 features: []
-genres: []
+first_released_as_single: false
 key: ms-jackson-outkast
 lyrics_url: https://www.azlyrics.com/lyrics/outkast/msjackson.html
 name: Ms Jackson
@@ -99,9 +102,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2001-04-14'
+release_year: 2000
+runtime: 270506
 ---
-
-
 Yeah this one right here goes out to all the baby's mamas' mamas...
 Mamas, mamas, baby mamas' mamas
 Yeah, go like this
@@ -200,6 +203,3 @@ I'm sorry Ms. Jackson
 I am for real
 Never meant to make your daughter cry
 I apologize a trillion times
-
-
-

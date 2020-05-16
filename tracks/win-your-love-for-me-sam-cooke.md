@@ -1,8 +1,11 @@
 ---
+album: '30 Greatest Hits: Portrait of a Legend 1951-1964'
 artists:
 - Sam Cooke
+external_ids:
+  spotify: spotify:track:7jwPDFG5HxM5G1Q5Mmw855
 features: []
-genres: []
+first_released_as_single: false
 key: win-your-love-for-me-sam-cooke
 lyrics_url: https://www.azlyrics.com/lyrics/samcooke/winyourloveforme.html
 name: Win Your Love For Me
@@ -75,8 +78,9 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1958-11-24'
+release_year: 1958
+runtime: 167773
 ---
-
 Woah oo little girl
 How happy I would be
 If some miracle could win your love for me
@@ -114,6 +118,3 @@ How happy I would be
 If some miracle could win your love for me
 
 Win your love for me
-
-
-

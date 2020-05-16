@@ -1,10 +1,13 @@
 ---
+album: My Everything
 artists:
 - Jessie J
 - Ariana Grande
 - Nicki Minaj
+external_ids:
+  spotify: spotify:track:2VhPOtIQw2UpQmRVevdviU
 features: []
-genres: []
+first_released_as_single: true
 key: bang-bang-jessie-j-ariana-grande-nicki-minaj
 lyrics_url: https://www.azlyrics.com/lyrics/jessiej/bangbang.html
 name: Bang Bang
@@ -133,9 +136,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2015-03-14'
+release_year: 2014
+runtime: 199373
 ---
-
-
 She got a body like an hour glass
 But I can give it to you all the time
 She got a booty like a Cadillac
@@ -229,6 +232,3 @@ Bang bang there goes your heart (I know ya want it)
 Back, back seat of my car (I'll let ya have it)
 Wait a minute lemme take you there (ah)
 Wait a minute till ya (ah)
-
-
-

@@ -1,9 +1,12 @@
 ---
+album: It's Real
 artists:
 - K-Ci
 - JoJo
+external_ids:
+  spotify: spotify:track:3fQtdmVB0cAe4Hs9e5bVQb
 features: []
-genres: []
+first_released_as_single: false
 key: tell-me-it-s-real-k-ci-jojo
 lyrics_url: https://www.azlyrics.com/lyrics/kcijojo/tellmeitsreal.html
 name: Tell Me It's Real
@@ -88,9 +91,9 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1999-10-09'
+release_year: 1999
+runtime: 278600
 ---
-
-
 Tell me it's real
 The feeling that we feel
 Tell me that it's real
@@ -125,8 +128,3 @@ This feeling that I fell
 Tell me it's real
 For your love
 I will do anything
-
-
-
-
-

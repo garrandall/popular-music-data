@@ -1,8 +1,11 @@
 ---
+album: Kiss Me, Kiss Me, Kiss Me
 artists:
 - The Cure
+external_ids:
+  spotify: spotify:track:3RcrFgETR1QGjzV6ZzIRBy
 features: []
-genres: []
+first_released_as_single: false
 key: why-can-t-i-be-you--the-cure
 lyrics_url: https://genius.com/The-cure-why-cant-i-be-you-lyrics
 name: Why Can't I Be You?
@@ -55,6 +58,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1987-09-05'
+release_year: 1987
+runtime: 194133
 ---
 You're so gorgeous I'll do anything
 I'll kiss you from your feet to where your head begins

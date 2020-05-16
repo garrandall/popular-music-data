@@ -1,8 +1,11 @@
 ---
+album: Marc Cohn
 artists:
 - Marc Cohn
+external_ids:
+  spotify: spotify:track:2Jd4KhCwRbEqsrRC57cTe3
 features: []
-genres: []
+first_released_as_single: false
 key: silver-thunderbird-marc-cohn
 lyrics_url: https://www.azlyrics.com/lyrics/marccohn/silverthunderbird.html
 name: Silver Thunderbird
@@ -39,8 +42,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1991-09-28'
+release_year: 1991
+runtime: 278720
 ---
-
 Watched it coming up Winslow
 Down South Park Boulevard
 Yeah it was looking good from tail to hood
@@ -104,6 +108,3 @@ In a Silver Thunderbird
 Ohhh...
 
 Hi ho silver...
-
-
-

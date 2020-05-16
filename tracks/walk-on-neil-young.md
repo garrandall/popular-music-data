@@ -1,8 +1,11 @@
 ---
+album: On the Beach
 artists:
 - Neil Young
+external_ids:
+  spotify: spotify:track:1MF5iQOhiz11mhehiqjPMN
 features: []
-genres: []
+first_released_as_single: false
 key: walk-on-neil-young
 lyrics_url: https://genius.com/Neil-young-walk-on-lyrics
 name: Walk On
@@ -35,6 +38,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1974-08-24'
+release_year: 1974
+runtime: 162120
 ---
 I hear some people been talking me down
 Bring up my name, pass it around

@@ -1,8 +1,11 @@
 ---
+album: DAYTONA
 artists:
 - Pusha T
+external_ids:
+  spotify: spotify:track:7iEoaTyBCqLaAwJnOP1BTn
 features: []
-genres: []
+first_released_as_single: false
 key: the-games-we-play-pusha-t
 lyrics_url: https://genius.com/Pusha-t-the-games-we-play-lyrics
 name: The Games We Play
@@ -11,6 +14,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2018-06-09'
+release_year: 2018
+runtime: 166120
 ---
 Drug dealer Benzes with gold diggers in 'em
 In elevator condos, on everything I love

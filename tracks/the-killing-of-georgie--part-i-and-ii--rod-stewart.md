@@ -1,8 +1,11 @@
 ---
+album: A Night on the Town
 artists:
 - Rod Stewart
+external_ids:
+  spotify: spotify:track:6vNjM0B50Q9Aotm9hrzfAa
 features: []
-genres: []
+first_released_as_single: false
 key: the-killing-of-georgie--part-i-and-ii--rod-stewart
 lyrics_url: https://www.azlyrics.com/lyrics/rodstewart/thekillingofgeorgiepartiandii.html
 name: The Killing Of Georgie (Part I And II)
@@ -47,8 +50,9 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '1977-08-06'
+release_year: 1976
+runtime: 378506
 ---
-
 In these days of changing ways
 So called liberated days
 A story comes to mind of a friend of mine
@@ -126,6 +130,3 @@ Georgie please stay you take our breath away
 Oh Georgie stay, don't go away
 Georgie, Georgie please stay you take our breath away
 Oh Georgie stay
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Tigerlily
 artists:
 - Natalie Merchant
+external_ids:
+  spotify: spotify:track:3qcVyKUKAOfBoQJsxHfhmW
 features: []
-genres: []
+first_released_as_single: false
 key: jealousy-natalie-merchant
 lyrics_url: https://www.azlyrics.com/lyrics/nataliemerchant/jealousy.html
 name: Jealousy
@@ -87,8 +90,9 @@ rankings:
   rank: 52
   ranking_list: Billboard Hot 100
   start_date: '1996-10-26'
+release_year: 1995
+runtime: 161533
 ---
-
 Ooo, jealousy 
 
 Is she fine
@@ -121,6 +125,3 @@ Sometimes, tell me
 While she's touching you
 Just by mistake
 Accidentally do you say my name?
-
-
-

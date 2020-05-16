@@ -1,8 +1,11 @@
 ---
+album: Teenage Shake - Us Pop Nuggets 1961-1965 from the President Jukebox
 artists:
 - James Gilreath
+external_ids:
+  spotify: spotify:track:2nbjeVm12uDzSlG3Nywqsc
 features: []
-genres: []
+first_released_as_single: false
 key: little-band-of-gold-james-gilreath
 lyrics_url: https://www.musixmatch.com/lyrics/James-Gilreath/Little-Band-of-Gold
 name: Little Band Of Gold
@@ -55,6 +58,8 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '1963-06-08'
+release_year: 1963
+runtime: 142829
 ---
 There you were, standing there, smiling as you made your plan
 You were going to leave me and go with him

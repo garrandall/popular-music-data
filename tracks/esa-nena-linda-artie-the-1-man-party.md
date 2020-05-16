@@ -1,8 +1,11 @@
 ---
+album: Ultimate Latin Dance Mix - Mixed By Dj Juanito
 artists:
 - Artie The 1 Man Party
+external_ids:
+  spotify: spotify:track:5mYupz58186F9hkhW9Ideo
 features: []
-genres: []
+first_released_as_single: false
 key: esa-nena-linda-artie-the-1-man-party
 name: Esa Nena Linda
 rankings:
@@ -62,5 +65,7 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1996-06-22'
+release_year: 1996
+runtime: 192000
 ---
 

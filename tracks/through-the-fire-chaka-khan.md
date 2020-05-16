@@ -1,8 +1,11 @@
 ---
+album: I Feel For You
 artists:
 - Chaka Khan
+external_ids:
+  spotify: spotify:track:2O8pqMobaBoilt6zyzGxZS
 features: []
-genres: []
+first_released_as_single: false
 key: through-the-fire-chaka-khan
 lyrics_url: https://www.azlyrics.com/lyrics/chakakhan/throughthefire.html
 name: Through the Fire
@@ -83,8 +86,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1985-08-31'
+release_year: 1978
+runtime: 286693
 ---
-
 I look in your eyes and I can see
 We've loved so dangerously
 You're not trusting your heart to anyone
@@ -127,6 +131,3 @@ Through the fire, to the limit
 Through the fire, through whatever
 Through the fire, to the limit
 Through the fire, through whatever
-
-
-

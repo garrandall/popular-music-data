@@ -49,8 +49,8 @@ That's like a fat nigga thinkin' he can be Biggie
 One rough ride, now you DMX and Swizzy
 One hot video, you Hype? Nah, you just giddy
 You made one dope beat, now you Kanye?
-You got a nigga named JAY, now you 'YoncÃ©?
-You got about three stacks, now you AndrÃ©?
+You got a nigga named JAY, now you 'Yoncé?
+You got about three stacks, now you André?
 You put a part in your fade, yeah you Nas, bae
 You gotta have real skill, gotta work for that
 If it's really your passion, would you give the world for that?

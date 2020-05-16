@@ -1,8 +1,11 @@
 ---
+album: Uptown Saturday Night
 artists:
 - Camp Lo
+external_ids:
+  spotify: spotify:track:2OXAWAySnYPJHLvgLX5fFT
 features: []
-genres: []
+first_released_as_single: false
 key: luchini-aka--this-is-it--camp-lo
 lyrics_url: https://genius.com/Camp-lo-luchini-aka-this-is-it-lyrics
 name: Luchini aka (This Is It)
@@ -75,6 +78,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1997-04-26'
+release_year: 1990
+runtime: 239533
 ---
 This is it, what
 Luchini pouring from the sky

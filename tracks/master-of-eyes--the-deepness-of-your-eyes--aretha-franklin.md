@@ -1,8 +1,11 @@
 ---
+album: Hey Now Hey (The Other Side Of The Sky)
 artists:
 - Aretha Franklin
+external_ids:
+  spotify: spotify:track:4q3MFOf4knEFp7aG86ejXo
 features: []
-genres: []
+first_released_as_single: false
 key: master-of-eyes--the-deepness-of-your-eyes--aretha-franklin
 lyrics_url: https://www.azlyrics.com/lyrics/arethafranklin/masterofeyesthedeepnessofyoureyes.html
 name: Master Of Eyes (The Deepness Of Your Eyes)
@@ -47,8 +50,9 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1973-04-14'
+release_year: 1972
+runtime: 206973
 ---
-
 The look in your eyes, baby, just turns me on;
 So inviting to me... You know I feel that they're my home...
 
@@ -104,6 +108,3 @@ Hee, hee, hee, hee, feel your lovin' all the time, baby..
 I can't stop lovin' you baby... lovin' you baby... lovin' you baby...
 (The deepness of your eyes...)
 Lovin' all...
-
-
-

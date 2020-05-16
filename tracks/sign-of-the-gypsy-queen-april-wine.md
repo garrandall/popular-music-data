@@ -1,8 +1,11 @@
 ---
+album: Nature Of The Beast
 artists:
 - April Wine
+external_ids:
+  spotify: spotify:track:6Wj1rWuBVS08cTuzYnvrei
 features: []
-genres: []
+first_released_as_single: false
 key: sign-of-the-gypsy-queen-april-wine
 lyrics_url: https://genius.com/April-wine-sign-of-the-gypsy-queen-lyrics
 name: Sign Of The Gypsy Queen
@@ -39,6 +42,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1981-07-18'
+release_year: 1981
+runtime: 257399
 ---
 Lightning smokes on the hill arise
 Brought the man with the warning light

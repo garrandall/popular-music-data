@@ -1,8 +1,11 @@
 ---
+album: Save Me / I Must Be Doing Something Right
 artists:
 - Donna McDaniel
+external_ids:
+  spotify: spotify:track:2Joq1oxXUS5boRs8DjQiyW
 features: []
-genres: []
+first_released_as_single: true
 key: save-me-donna-mcdaniel
 name: Save Me
 rankings:
@@ -26,5 +29,7 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1977-07-30'
+release_year: 1977
+runtime: 194768
 ---
 

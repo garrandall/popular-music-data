@@ -1,8 +1,11 @@
 ---
+album: Loose
 artists:
 - Nelly Furtado
+external_ids:
+  spotify: spotify:track:0PtKcFAVywPk0BRKR0q1v6
 features: []
-genres: []
+first_released_as_single: false
 key: do-it-nelly-furtado
 lyrics_url: https://www.musixmatch.com/lyrics/Nelly-Furtado/Do-It
 name: Do It
@@ -11,6 +14,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2007-09-29'
+release_year: 2006
+runtime: 221506
 ---
 Someone needs to rap off in off the top
 

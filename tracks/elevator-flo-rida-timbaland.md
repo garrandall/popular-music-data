@@ -1,9 +1,12 @@
 ---
+album: Mail on Sunday
 artists:
 - Flo Rida
+external_ids:
+  spotify: spotify:track:05L8jYPqI766toCoS7F7RD
 features:
 - Timbaland
-genres: []
+first_released_as_single: false
 key: elevator-flo-rida-timbaland
 lyrics_url: https://genius.com/Flo-rida-elevator-lyrics
 name: Elevator
@@ -60,6 +63,8 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '2008-05-24'
+release_year: 2008
+runtime: 168973
 ---
 Hey girl, ya comin' with me, ya comin' with me...
 Hey girl, ya comin' with me, ya comin' with me...

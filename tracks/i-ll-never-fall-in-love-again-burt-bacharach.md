@@ -1,8 +1,11 @@
 ---
+album: Make It Easy On Yourself
 artists:
 - Burt Bacharach
+external_ids:
+  spotify: spotify:track:481lfmErbgJHnZpEZvVyfA
 features: []
-genres: []
+first_released_as_single: false
 key: i-ll-never-fall-in-love-again-burt-bacharach
 lyrics_url: https://genius.com/Burt-bacharach-ill-never-fall-in-love-again-lyrics
 name: I'll Never Fall In Love Again
@@ -15,6 +18,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1969-07-12'
+release_year: 1969
+runtime: 196000
 ---
 What do you get when you fall in love?
 A guy with a pin to burst your bubble

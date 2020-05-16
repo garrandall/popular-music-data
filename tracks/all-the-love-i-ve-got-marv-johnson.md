@@ -1,8 +1,11 @@
 ---
+album: Anthology Vol.1
 artists:
 - Marv Johnson
+external_ids:
+  spotify: spotify:track:79Ach1uD8Byx0FmwjwhU6i
 features: []
-genres: []
+first_released_as_single: false
 key: all-the-love-i-ve-got-marv-johnson
 name: All The Love I've Got
 rankings:
@@ -30,5 +33,7 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1960-07-18'
+release_year: 1960
+runtime: 153533
 ---
 

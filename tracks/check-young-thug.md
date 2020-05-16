@@ -1,8 +1,11 @@
 ---
+album: Barter 6
 artists:
 - Young Thug
+external_ids:
+  spotify: spotify:track:1jk9c0gZI0wbn5GvAj7PBV
 features: []
-genres: []
+first_released_as_single: false
 key: check-young-thug
 lyrics_url: https://genius.com/Young-thug-check-lyrics
 name: Check
@@ -11,6 +14,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2015-07-11'
+release_year: 2015
+runtime: 230693
 ---
 I can see that bullshit from a mile away (See it)
 You can stack my money 'bout a mile away (Stack it)

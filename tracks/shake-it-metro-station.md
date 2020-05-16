@@ -1,8 +1,11 @@
 ---
+album: Metro Station
 artists:
 - Metro Station
+external_ids:
+  spotify: spotify:track:5619Ojc6t9evEEs3B7Drhe
 features: []
-genres: []
+first_released_as_single: false
 key: shake-it-metro-station
 lyrics_url: https://www.azlyrics.com/lyrics/metrostation/shakeit.html
 name: Shake It
@@ -127,8 +130,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2008-11-08'
+release_year: 2007
+runtime: 179946
 ---
-
 Let's drop!
 Yeah, come on
 Shake, shake
@@ -186,6 +190,3 @@ Shake, shake, shake, shake, shake it
 Shake, shake, shake, shake, shake it
 Shake, shake, shake, shake, shake it
 Shake, shake, shake, shake, shake it
-
-
-

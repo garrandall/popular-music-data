@@ -1,8 +1,11 @@
 ---
+album: The Big Sound of Johnny And The Hurricanes
 artists:
 - Johnny And The Hurricanes
+external_ids:
+  spotify: spotify:track:0h4nQ06w2rihvjuMBnJSxL
 features: []
-genres: []
+first_released_as_single: false
 key: beatnik-fly-johnny-and-the-hurricanes
 lyrics_url: https://genius.com/Johnny-and-the-hurricanes-beatnik-fly-lyrics
 name: Beatnik Fly
@@ -59,6 +62,8 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1960-05-09'
+release_year: 1960
+runtime: 134773
 ---
 Pd... ®1960; Us Ht#25 ...Pd
 Pd... ...Pd

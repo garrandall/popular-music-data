@@ -1,8 +1,11 @@
 ---
+album: Hats off to Del Shannon
 artists:
 - Del Shannon
+external_ids:
+  spotify: spotify:track:3mOKuoXSxRt13x7amAtyfh
 features: []
-genres: []
+first_released_as_single: false
 key: the-swiss-maid-del-shannon
 lyrics_url: https://www.azlyrics.com/lyrics/delshannon/theswissmaid.html
 name: The Swiss Maid
@@ -27,8 +30,9 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '1962-10-13'
+release_year: 1962
+runtime: 127160
 ---
-
 One time a long time ago
 On a mountain in Switzerland, yo lo lo lo
 There lived a fair young maiden
@@ -60,6 +64,3 @@ I'd rather think she found her love
 Wouldn't you rather think she did find love?
 Somewhere, some way
 Yo lo lady yay, yo lo lady yay
-
-
-

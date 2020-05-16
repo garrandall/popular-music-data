@@ -1,8 +1,11 @@
 ---
+album: Tigerlily
 artists:
 - Natalie Merchant
+external_ids:
+  spotify: spotify:track:5Hz6aGrZZizNBoJ6kE6Rqi
 features: []
-genres: []
+first_released_as_single: false
 key: wonder-natalie-merchant
 lyrics_url: https://www.azlyrics.com/lyrics/nataliemerchant/wonder.html
 name: Wonder
@@ -159,8 +162,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1996-08-24'
+release_year: 1995
+runtime: 266007
 ---
-
 Doctors have come from distant cities
 Just to see me
 Stand over my bed
@@ -212,6 +216,3 @@ With love, with patience and with faith
 She'll make her way!
 She'll make her way!
 She'll make her way!
-
-
-

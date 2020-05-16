@@ -1,8 +1,11 @@
 ---
+album: Kim Wilde
 artists:
 - Kim Wilde
+external_ids:
+  spotify: spotify:track:1YGZyfvdgZxzipWoWYVKxi
 features: []
-genres: []
+first_released_as_single: false
 key: kids-in-america-kim-wilde
 lyrics_url: https://genius.com/Kim-wilde-kids-in-america-lyrics
 name: Kids In America
@@ -79,6 +82,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1982-09-18'
+release_year: 1981
+runtime: 205533
 ---
 Looking out a dirty old window
 Down below the cars in the city go rushing by

@@ -1,8 +1,11 @@
 ---
+album: Lost Hits Of The 60's
 artists:
 - The Balloon Farm
+external_ids:
+  spotify: spotify:track:2ef2BQYEzbAZnyOupvZgLJ
 features: []
-genres: []
+first_released_as_single: false
 key: a-question-of-temperature-the-balloon-farm
 lyrics_url: https://genius.com/The-balloon-farm-a-question-of-temperature-lyrics
 name: A Question Of Temperature
@@ -39,6 +42,8 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '1968-04-13'
+release_year: 1968
+runtime: 160040
 ---
 There's a sudden rise in the mercury
 There's a thumpin' in my heart, it just had to be

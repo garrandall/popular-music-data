@@ -1,8 +1,11 @@
 ---
+album: Falco III
 artists:
 - Falco
+external_ids:
+  spotify: spotify:track:6tetorrFfVEwugqcgfwEm1
 features: []
-genres: []
+first_released_as_single: false
 key: vienna-calling-falco
 lyrics_url: https://www.azlyrics.com/lyrics/falco/viennacalling.html
 name: Vienna Calling
@@ -63,8 +66,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1986-07-26'
+release_year: 1985
+runtime: 250182
 ---
-
 Hello, Vienna calling
 Hello, hello, Vienna calling...
 Talking about
@@ -115,6 +119,3 @@ Vienna calling
 Two, one, zero - Der Alarm ist rot
 Wien in Not - Cha, Cha, Cha
 Vienna calling, Vienna calling.
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Backstreet Boys
 artists:
 - Backstreet Boys
+external_ids:
+  spotify: spotify:track:4lq4yY0y3XqDQZsx03ITaH
 features: []
-genres: []
+first_released_as_single: false
 key: i-ll-never-break-your-heart-backstreet-boys
 lyrics_url: https://genius.com/Backstreet-boys-ill-never-break-your-heart-lyrics
 name: I'll Never Break Your Heart
@@ -15,6 +18,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1998-12-12'
+release_year: 1996
+runtime: 287506
 ---
 Baby, I know you're hurting
 Right now you feel like you could never

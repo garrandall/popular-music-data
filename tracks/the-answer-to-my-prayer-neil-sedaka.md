@@ -1,8 +1,11 @@
 ---
+album: Neil Sedaka Sings The Hits
 artists:
 - Neil Sedaka
+external_ids:
+  spotify: spotify:track:087wJuMxOm1YM7hhT2h8cy
 features: []
-genres: []
+first_released_as_single: false
 key: the-answer-to-my-prayer-neil-sedaka
 lyrics_url: https://www.azlyrics.com/lyrics/neilsedaka/theanswertomyprayer.html
 name: The Answer To My Prayer
@@ -23,8 +26,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1966-02-26'
+release_year: 1966
+runtime: 126120
 ---
-
 I was lonely, couldn't sleep at night
 So I wished for you with all my might
 You're the one I've waited for
@@ -59,6 +63,3 @@ You're the answer to my prayer
 I've found the answer to my prayer
 You're the answer to my prayer
 I've found the answer to my prayer...
-
-
-

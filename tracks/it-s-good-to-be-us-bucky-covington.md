@@ -1,8 +1,11 @@
 ---
+album: Bucky Covington
 artists:
 - Bucky Covington
+external_ids:
+  spotify: spotify:track:4V4WaieuSTGrSjRjXaOSZ3
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-good-to-be-us-bucky-covington
 lyrics_url: https://www.azlyrics.com/lyrics/buckycovington/itsgoodtobeus.html
 name: It's Good To Be Us
@@ -39,8 +42,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2008-04-26'
+release_year: 2007
+runtime: 184586
 ---
-
 Well baby, there ain't no maybe about it
 I ain't made of money
 So I know that you ain't hangin round for that
@@ -94,6 +98,3 @@ It's good to be us, yeah, it's good to be us
 
 Baby, it's good to be us
 So good to be us
-
-
-

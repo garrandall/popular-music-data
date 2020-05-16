@@ -1,8 +1,11 @@
 ---
+album: Live At The BBC
 artists:
 - The Beatles
+external_ids:
+  spotify: spotify:track:2x7vw79tKsW99s8sbyuvPM
 features: []
-genres: []
+first_released_as_single: false
 key: slow-down-the-beatles
 lyrics_url: https://genius.com/The-beatles-slow-down-lyrics
 name: Slow Down
@@ -35,9 +38,9 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '1964-10-17'
+release_year: 1964
+runtime: 176853
 ---
-
-
 Well, come on pretty baby, won't you walk with me?
 Come on, pretty baby, won't you talk with me?
 Come on pretty baby, give me one more chance

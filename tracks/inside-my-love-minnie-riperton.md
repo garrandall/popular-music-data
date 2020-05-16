@@ -1,8 +1,11 @@
 ---
+album: Adventures In Paradise
 artists:
 - Minnie Riperton
+external_ids:
+  spotify: spotify:track:7yngji6ogBXvAJdeOSBHAP
 features: []
-genres: []
+first_released_as_single: false
 key: inside-my-love-minnie-riperton
 lyrics_url: https://www.azlyrics.com/lyrics/minnieriperton/insidemylove.html
 name: Inside My Love
@@ -23,8 +26,9 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1975-08-30'
+release_year: 1975
+runtime: 288066
 ---
-
 Yeah... yeah, yeah, yeah, yeah
 Ha-ah-ah, mmm
 Ha-ah-ah, ah...
@@ -66,6 +70,3 @@ You can come inside me... (Inside my love...)
 Will you come inside me? (Inside my love...)
 You can come inside me... (Will you come inside me?)
 Will you come inside me?
-
-
-

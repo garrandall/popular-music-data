@@ -1,8 +1,11 @@
 ---
+album: Pump
 artists:
 - Aerosmith
+external_ids:
+  spotify: spotify:track:2rVeiO8AI1ZDSv4wjS46OX
 features: []
-genres: []
+first_released_as_single: false
 key: what-it-takes-aerosmith
 lyrics_url: https://genius.com/Aerosmith-what-it-takes-lyrics
 name: What It Takes
@@ -75,6 +78,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1990-07-07'
+release_year: 1989
+runtime: 388426
 ---
 Oh, yeah
 

@@ -1,8 +1,11 @@
 ---
+album: Deja Vu
 artists:
 - Crosby, Stills, Nash & Young
+external_ids:
+  spotify: spotify:track:2iqKVzMZpyUVPwxIVaQkhm
 features: []
-genres: []
+first_released_as_single: false
 key: woodstock-crosby-stills-nash-young
 lyrics_url: https://www.azlyrics.com/lyrics/crosbystillsnashyoung/woodstock.html
 name: Woodstock
@@ -51,8 +54,9 @@ rankings:
   rank: 27
   ranking_list: Billboard Hot 100
   start_date: '1970-06-06'
+release_year: 1970
+runtime: 233773
 ---
-
 Well I came upon a child of God, he was walking along the road
 And I asked him tell me where are you going, this he told me:
 Said, I'm going down to Yasgur's farm, going to join in a rock and roll band.
@@ -77,6 +81,3 @@ Turning into butterflies above our nation.
 
 We are stardust, we are golden, we are caught in the devil's bargain,
 And we got to get ourselves back to the garden.
-
-
-

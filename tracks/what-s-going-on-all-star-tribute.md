@@ -1,8 +1,11 @@
 ---
+album: What's Going On
 artists:
 - All Star Tribute
+external_ids:
+  spotify: spotify:track:6bXBygPgj3hXblaoYNc8L4
 features: []
-genres: []
+first_released_as_single: true
 key: what-s-going-on-all-star-tribute
 lyrics_url: https://www.azlyrics.com/lyrics/allstartribute/whatsgoingon.html
 name: What's Going On
@@ -47,9 +50,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2001-12-08'
+release_year: 2001
+runtime: 260226
 ---
-
-
 What's Going On
 
 
@@ -235,6 +238,3 @@ Somebody tell me what's going on
 (what's going on)
 Somebody tell me what's going on
 (what's going on)
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Southern Accents
 artists:
 - Tom Petty And The Heartbreakers
+external_ids:
+  spotify: spotify:track:7rA24xd4TsdgAH4wqThSXE
 features: []
-genres: []
+first_released_as_single: false
 key: rebels-tom-petty-and-the-heartbreakers
 lyrics_url: https://www.azlyrics.com/lyrics/tompettyandtheheartbreakers/rebels.html
 name: Rebels
@@ -27,6 +30,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1985-09-14'
+release_year: 1975
+runtime: 21695
 ---
 Honey don't walk out I'm too drunk to follow
 You know you won't feel this way tomorrow

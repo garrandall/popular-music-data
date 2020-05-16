@@ -1,10 +1,13 @@
 ---
+album: The Big Day
 artists:
 - Chance The Rapper
+external_ids:
+  spotify: spotify:track:00ko9WaS4jOX1kEk3gvHjf
 features:
 - MadeinTYO
 - DaBaby
-genres: []
+first_released_as_single: false
 key: hot-shower-chance-the-rapper-madeintyo-dababy
 lyrics_url: https://www.azlyrics.com/lyrics/chancetherapper/hotshower.html
 name: Hot Shower
@@ -41,9 +44,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2019-11-30'
+release_year: 2019
+runtime: 225923
 ---
-
-
 Yup, yup, yerp
 And then the smoke got me
 Hey
@@ -140,6 +143,3 @@ Oh, hot damn, hot water, hot shower
 Hotlanta, smoking green, cauliflower (Oh, oh oh
 Tangerine, yeah, I call her sweet and sour
 And my lawyer say it's urgent, I'ma call him in a hour
-
-
-

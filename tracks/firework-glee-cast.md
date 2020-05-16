@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music, Volume 5'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:6F55MQrSDrsmsTH50WCGrk
 features: []
-genres: []
+first_released_as_single: false
 key: firework-glee-cast
 lyrics_url: https://www.azlyrics.com/lyrics/gleecast/firework.html
 name: Firework
@@ -15,8 +18,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2011-03-05'
+release_year: 2011
+runtime: 227506
 ---
-
 Do you ever feel like a plastic bag
 Drifting through the wind wanting to start again?
 Do you ever feel, feel so paper thin
@@ -77,6 +81,3 @@ Boom, boom, boom
 Even brighter than the moon, moon, moon 
 Boom, boom, boom 
 Even brighter than the moon, moon, moon
-
-
-

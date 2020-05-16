@@ -1,7 +1,8 @@
 ---
 artists:
-- Adam Faith With The Roulettes
-features: []
+- Adam Faith
+features:
+- The Roulettes
 genres: []
 key: it-s-alright-adam-faith-with-the-roulettes
 name: It's Alright

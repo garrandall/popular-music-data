@@ -1,8 +1,11 @@
 ---
+album: AIN'T NO SHAME IN MY GAME
 artists:
 - Candyman
+external_ids:
+  spotify: spotify:track:7FzA0ZzGbOPx5WRKPCRR67
 features: []
-genres: []
+first_released_as_single: false
 key: nightgown-candyman
 lyrics_url: https://genius.com/Candyman-nightgown-lyrics
 name: Nightgown
@@ -23,6 +26,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1991-05-04'
+release_year: 1990
+runtime: 199346
 ---
 Stepped into the party at a half past nine
 Last thing on my mind

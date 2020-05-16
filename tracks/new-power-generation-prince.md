@@ -1,8 +1,11 @@
 ---
+album: Music from Graffiti Bridge
 artists:
 - Prince
+external_ids:
+  spotify: spotify:track:231Ymyur5JtUCbzDgDJwcX
 features: []
-genres: []
+first_released_as_single: false
 key: new-power-generation-prince
 lyrics_url: https://www.azlyrics.com/lyrics/prince/newpowergeneration.html
 name: New Power Generation
@@ -27,8 +30,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1990-12-01'
+release_year: 1990
+runtime: 219506
 ---
-
 Lay down your funky weapon.
 Yeah y'all, here we go
 Pumpin' the big noise in the 90's.
@@ -86,6 +90,3 @@ We r the new power generation, you've gotta give up all the fight
 We gotta try 2 love one another, baby. we r the new power generation
 We r the new power generation.
 We r the new power generation.
-
-
-

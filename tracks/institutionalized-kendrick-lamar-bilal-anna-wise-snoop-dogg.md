@@ -1,11 +1,14 @@
 ---
+album: To Pimp A Butterfly
 artists:
 - Kendrick Lamar
+external_ids:
+  spotify: spotify:track:4oFtLSgHyZPNYDCcANhTnO
 features:
 - Bilal
 - Anna Wise
 - Snoop Dogg
-genres: []
+first_released_as_single: false
 key: institutionalized-kendrick-lamar-bilal-anna-wise-snoop-dogg
 lyrics_url: https://www.azlyrics.com/lyrics/kendricklamar/institutionalized.html
 name: Institutionalized
@@ -14,8 +17,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2015-04-04'
+release_year: 2015
+runtime: 271773
 ---
-
 What money got to do with it
 When I don't know the full definition of a rap image?
 I'm trapped inside the ghetto and I ain't proud to admit it
@@ -93,6 +97,3 @@ You can take your boy out the hood but you can't take the hood out the homie
 Took his show money, stashed it in the mozey wozey
 Hollywood's nervous
 Fuck you, goodnight, thank you much for your service
-
-
-

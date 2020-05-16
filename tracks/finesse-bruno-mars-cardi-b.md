@@ -1,9 +1,12 @@
 ---
+album: BestWORK
 artists:
 - Bruno Mars
 - Cardi B
+external_ids:
+  spotify: spotify:track:3Vo4wInECJQuz9BIBMOu8i
 features: []
-genres: []
+first_released_as_single: true
 key: finesse-bruno-mars-cardi-b
 lyrics_url: https://genius.com/Bruno-mars-finesse-remix-lyrics
 name: Finesse
@@ -100,6 +103,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2018-06-16'
+release_year: 2017
+runtime: 217288
 ---
 Drop top Porsche (Porsche), Rollie on my wrist (Wrist)
 Diamonds up and down my chain (Aha)

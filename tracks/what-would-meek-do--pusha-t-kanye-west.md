@@ -1,9 +1,12 @@
 ---
+album: DAYTONA
 artists:
 - Pusha T
+external_ids:
+  spotify: spotify:track:5vnuJ8EopkP5dHukpOmT3L
 features:
 - Kanye West
-genres: []
+first_released_as_single: false
 key: what-would-meek-do--pusha-t-kanye-west
 lyrics_url: https://www.azlyrics.com/lyrics/pushat/whatwouldmeekdo.html
 name: What Would Meek Do?
@@ -12,9 +15,9 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '2018-06-09'
+release_year: 2018
+runtime: 153266
 ---
-
-
 Niggas talkin' shit, Push, how do you respond?
 
 
@@ -65,6 +68,3 @@ Goin' for six rings like what Phil told Mike
 Seven pill nights, who know what that feel like?
 No more hidin' the scars, I show 'em like Seal, right?
 How do you respond?
-
-
-

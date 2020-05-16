@@ -1,8 +1,11 @@
 ---
+album: ''
 artists:
 - Ronnie Dyson
+external_ids:
+  spotify: spotify:track:6s4XJGJWz2q2VxWrxrisMe
 features: []
-genres: []
+first_released_as_single: false
 key: when-you-get-right-down-to-it-ronnie-dyson
 lyrics_url: https://www.musixmatch.com/lyrics/Ronnie-Dyson/When-You-Get-Right-Down-to-It
 name: When You Get Right Down To It
@@ -15,6 +18,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1971-07-31'
+release_year: 1970
+runtime: 168120
 ---
 When you get right down to it
 Isn't this moment what

@@ -1,8 +1,11 @@
 ---
+album: My Girl Josephine
 artists:
 - Jerry Jaye
+external_ids:
+  spotify: spotify:track:1INEmvIGCk92Vg5Bk4VfWY
 features: []
-genres: []
+first_released_as_single: false
 key: my-girl-josephine-jerry-jaye
 lyrics_url: https://genius.com/Jerry-jaye-my-girl-josephine-lyrics
 name: My Girl Josephine
@@ -43,6 +46,8 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '1967-06-10'
+release_year: 1967
+runtime: 118653
 ---
 My Girl Josephine
 Fats Domino

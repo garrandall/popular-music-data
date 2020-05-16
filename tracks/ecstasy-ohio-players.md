@@ -1,8 +1,11 @@
 ---
+album: Ecstasy
 artists:
 - Ohio Players
+external_ids:
+  spotify: spotify:track:62mrAkbtaFhpbanOFWEUVP
 features: []
-genres: []
+first_released_as_single: false
 key: ecstasy-ohio-players
 lyrics_url: https://www.azlyrics.com/lyrics/ohioplayers/ecstasy.html
 name: Ecstasy
@@ -67,8 +70,9 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1973-11-17'
+release_year: 1973
+runtime: 149160
 ---
-
 Well, wanna tell you
 'Bout my baby, my baby
 I'll never, never, never
@@ -98,6 +102,3 @@ Your love, never, baby, no
 (Oh, no, oh, no, I could never do without you)
 (Oh, no, oh, no, I could never do without you)
 (Oh, no, oh, no, I could never do without you)
-
-
-

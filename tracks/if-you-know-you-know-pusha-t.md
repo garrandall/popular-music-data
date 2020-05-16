@@ -1,8 +1,11 @@
 ---
+album: DAYTONA
 artists:
 - Pusha T
+external_ids:
+  spotify: spotify:track:6bGwKHXHNLmTy6yt147FPh
 features: []
-genres: []
+first_released_as_single: false
 key: if-you-know-you-know-pusha-t
 lyrics_url: https://genius.com/Pusha-t-if-you-know-you-know-lyrics
 name: If You Know You Know
@@ -11,6 +14,8 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '2018-06-09'
+release_year: 2018
+runtime: 202120
 ---
 Pullin' up in that new toy
 The wrist on that boy rockstar like Pink Floyd

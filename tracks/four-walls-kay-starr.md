@@ -1,8 +1,11 @@
 ---
+album: Just Plain Country
 artists:
 - Kay Starr
+external_ids:
+  spotify: spotify:track:2kfg06FVwWBUY6BrjMavh8
 features: []
-genres: []
+first_released_as_single: false
 key: four-walls-kay-starr
 name: Four Walls
 rankings:
@@ -22,5 +25,7 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1962-11-17'
+release_year: 1962
+runtime: 188026
 ---
 

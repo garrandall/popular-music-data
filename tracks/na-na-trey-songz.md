@@ -1,8 +1,11 @@
 ---
+album: Trigga
 artists:
 - Trey Songz
+external_ids:
+  spotify: spotify:track:5maiP9UMnTSgoxPX8X3bdz
 features: []
-genres: []
+first_released_as_single: false
 key: na-na-trey-songz
 lyrics_url: https://genius.com/Trey-songz-na-na-lyrics
 name: Na Na
@@ -119,6 +122,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2014-08-16'
+release_year: 2014
+runtime: 231906
 ---
 Put your hands in the air, in the air
 Trigga

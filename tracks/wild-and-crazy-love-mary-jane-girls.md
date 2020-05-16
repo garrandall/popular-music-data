@@ -1,8 +1,11 @@
 ---
+album: Only Four You
 artists:
 - Mary Jane Girls
+external_ids:
+  spotify: spotify:track:4siLTztqxJLLPJJQ2QXng4
 features: []
-genres: []
+first_released_as_single: false
 key: wild-and-crazy-love-mary-jane-girls
 lyrics_url: https://www.azlyrics.com/lyrics/maryjanegirls/wildandcrazylove.html
 name: Wild And Crazy Love
@@ -47,8 +50,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1985-09-21'
+release_year: 1985
+runtime: 382800
 ---
-
 (Wild and crazy love)
 (Wild and crazy love)
 (Wild and crazy love)
@@ -200,6 +204,3 @@ Give it to you
 Give it you
 Give it to you, baby
 (Wild and crazy love)
-
-
-

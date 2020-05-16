@@ -1,8 +1,11 @@
 ---
+album: Rit, Vol. 1
 artists:
 - Lee Ritenour
+external_ids:
+  spotify: spotify:track:4nGThHUqKDfFsQ7XRZ6IhK
 features: []
-genres: []
+first_released_as_single: false
 key: is-it-you-lee-ritenour
 lyrics_url: https://genius.com/Lee-ritenour-is-it-you-lyrics
 name: Is It You
@@ -71,6 +74,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1981-08-08'
+release_year: 1981
+runtime: 269653
 ---
 Someone's just outside, knocking at my door
 A stranger, somebody unknown

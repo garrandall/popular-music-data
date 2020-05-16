@@ -1,8 +1,11 @@
 ---
+album: Tell It Like It Is
 artists:
 - Aaron Neville
+external_ids:
+  spotify: spotify:track:0EpIxiAKO7ExsTKJNyfC0n
 features: []
-genres: []
+first_released_as_single: false
 key: tell-it-like-it-is-aaron-neville
 lyrics_url: https://genius.com/Aaron-neville-tell-it-like-it-is-lyrics
 name: Tell It Like It Is
@@ -63,6 +66,8 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '1967-03-04'
+release_year: 1966
+runtime: 186000
 ---
 If you want something to play with
 Go and find yourself a toy

@@ -1,10 +1,13 @@
 ---
+album: Death Before Dishonor
 artists:
 - 2 Pistols
+external_ids:
+  spotify: spotify:track:3NLxmJVvV6Y33emAr1FqZE
 features:
 - T-Pain
 - Tay Dizm
-genres: []
+first_released_as_single: true
 key: she-got-it-2-pistols-t-pain-tay-dizm
 lyrics_url: https://www.musixmatch.com/lyrics/2-Pistols-feat-T-Pain-Tay-Dizm/She-Got-It
 name: She Got It
@@ -89,6 +92,8 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '2008-07-12'
+release_year: 2007
+runtime: 246013
 ---
 J.U.S.T.I.C.E. League
 

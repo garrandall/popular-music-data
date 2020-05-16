@@ -1,8 +1,11 @@
 ---
+album: She's the One (Songs and Music from the Motion Picture)
 artists:
 - Tom Petty And The Heartbreakers
+external_ids:
+  spotify: spotify:track:5yEpB2g3CbuVk4YmAkzkOK
 features: []
-genres: []
+first_released_as_single: false
 key: walls-tom-petty-and-the-heartbreakers
 lyrics_url: https://www.azlyrics.com/lyrics/tompettyandtheheartbreakers/wallscircus.html
 name: Walls
@@ -23,8 +26,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1996-10-19'
+release_year: 1996
+runtime: 265306
 ---
-
 Some days are diamonds
 Some days are rocks
 Some doors are open
@@ -57,4 +61,3 @@ Some things are over
 Some things go on
 Part of me you carry
 Part of me is gone, but
-

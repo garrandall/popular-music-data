@@ -1,9 +1,12 @@
 ---
+album: The Dude
 artists:
 - Quincy Jones
+external_ids:
+  spotify: spotify:track:0Yp603BgzIKDDcSUBrYYba
 features:
 - James Ingram
-genres: []
+first_released_as_single: false
 key: one-hundred-ways-quincy-jones-james-ingram
 lyrics_url: https://www.azlyrics.com/lyrics/quincyjones/onehundredways.html
 name: One Hundred Ways
@@ -92,8 +95,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1982-05-08'
+release_year: 1981
+runtime: 259040
 ---
-
 Compliment what she does
 Send her roses just because
 If it's violins she loves
@@ -151,6 +155,3 @@ Love her one hundred ways
 
 You've got to love her today
 Find one hundred ways
-
-
-

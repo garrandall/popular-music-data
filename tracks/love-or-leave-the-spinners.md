@@ -1,8 +1,11 @@
 ---
+album: Pick Of The Litter
 artists:
 - The Spinners
+external_ids:
+  spotify: spotify:track:7ExO4TkG9LnFMue2mDNY1D
 features: []
-genres: []
+first_released_as_single: false
 key: love-or-leave-the-spinners
 lyrics_url: https://genius.com/The-spinners-love-or-leave-lyrics
 name: Love Or Leave
@@ -39,6 +42,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1976-02-14'
+release_year: 1975
+runtime: 300866
 ---
 When you have tried to give your all
 You try to stand and then you fall

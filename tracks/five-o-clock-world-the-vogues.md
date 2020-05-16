@@ -1,8 +1,11 @@
 ---
+album: Five O'clock World
 artists:
 - The Vogues
+external_ids:
+  spotify: spotify:track:5DKTMAg1Wzhim6DB0QPwyJ
 features: []
-genres: []
+first_released_as_single: false
 key: five-o-clock-world-the-vogues
 lyrics_url: https://genius.com/The-vogues-five-oclock-world-lyrics
 name: Five O'Clock World
@@ -63,6 +66,8 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '1966-02-26'
+release_year: 1965
+runtime: 142510
 ---
 Up every morning just to keep a job
 I gotta fight my way through the hustling mob

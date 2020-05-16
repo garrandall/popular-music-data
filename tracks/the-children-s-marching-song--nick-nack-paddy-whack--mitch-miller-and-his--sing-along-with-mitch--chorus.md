@@ -1,8 +1,11 @@
 ---
+album: 16 Most Requested Songs
 artists:
 - Mitch Miller
+external_ids:
+  spotify: spotify:track:1ILdbStmfQGspE428MSaiE
 features: []
-genres: []
+first_released_as_single: false
 key: the-children-s-marching-song--nick-nack-paddy-whack--mitch-miller-and-his--sing-along-with-mitch--chorus
 lyrics_url: https://www.musixmatch.com/lyrics/Mitch-Miller/The-Children-s-Marching-Song-Nick-Nack-Paddy-Whack
 name: The Children's Marching Song (Nick Nack Paddy Whack)
@@ -63,6 +66,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1959-04-13'
+release_year: 1950
+runtime: 166866
 ---
 This old man he played one
 He played nick nack on my drum

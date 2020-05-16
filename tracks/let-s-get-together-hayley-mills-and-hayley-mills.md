@@ -1,8 +1,11 @@
 ---
+album: Let's Get Together With Hayley Mills
 artists:
 - Hayley Mills
+external_ids:
+  spotify: spotify:track:7ekwotqKZ0TXW1LAi1KQDo
 features: []
-genres: []
+first_released_as_single: false
 key: let-s-get-together-hayley-mills-and-hayley-mills
 lyrics_url: https://genius.com/Hayley-mills-lets-get-together-lyrics
 name: Let's Get Together
@@ -63,6 +66,8 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '1961-12-04'
+release_year: 1961
+runtime: 90946
 ---
 Let's get together, yay-yay-yay
 Why don't you and I combi-ine

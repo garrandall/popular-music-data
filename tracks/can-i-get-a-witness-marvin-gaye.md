@@ -1,8 +1,11 @@
 ---
+album: 'Anthology: The Best Of Marvin Gaye'
 artists:
 - Marvin Gaye
+external_ids:
+  spotify: spotify:track:35AePShKeTqklvVwyuJx1P
 features: []
-genres: []
+first_released_as_single: false
 key: can-i-get-a-witness-marvin-gaye
 lyrics_url: https://genius.com/Marvin-gaye-can-i-get-a-witness-lyrics
 name: Can I Get A Witness
@@ -71,6 +74,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1964-02-01'
+release_year: 1963
+runtime: 166933
 ---
 Listen everybody, especially you girls
 Is it right to be left alone

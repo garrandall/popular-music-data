@@ -1,9 +1,12 @@
 ---
+album: X
 artists:
 - Chris Brown
+external_ids:
+  spotify: spotify:track:3uVCPFmavlWGQUqeYh8HhR
 features:
 - Aaliyah
-genres: []
+first_released_as_single: false
 key: don-t-think-they-know-chris-brown-aaliyah
 lyrics_url: https://genius.com/Chris-brown-dont-think-they-know-lyrics
 name: Don't Think They Know
@@ -16,6 +19,8 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '2013-07-20'
+release_year: 2013
+runtime: 237986
 ---
 I don't think they know the truth
 A-A to the L-I-Y-A-H

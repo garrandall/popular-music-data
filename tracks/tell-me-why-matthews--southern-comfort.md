@@ -1,8 +1,11 @@
 ---
+album: Later That Same Year
 artists:
 - Matthews' Southern Comfort
+external_ids:
+  spotify: spotify:track:52tOzMAWa1MwjJtOQ8ZiwK
 features: []
-genres: []
+first_released_as_single: false
 key: tell-me-why-matthews--southern-comfort
 lyrics_url: https://genius.com/Matthews-southern-comfort-tell-me-why-lyrics
 name: Tell Me Why
@@ -15,6 +18,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1971-10-23'
+release_year: 1971
+runtime: 125306
 ---
 Sailing hard ships through broken harbours
 Out on a wave in the night

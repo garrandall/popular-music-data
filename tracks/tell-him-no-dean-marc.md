@@ -1,9 +1,12 @@
 ---
+album: Tell Him No
 artists:
 - Dean
 - Marc
+external_ids:
+  spotify: spotify:track:4hz3DO1ZSkQJuEA6ezWjr6
 features: []
-genres: []
+first_released_as_single: true
 key: tell-him-no-dean-marc
 name: Tell Him No
 rankings:
@@ -39,5 +42,7 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1959-05-18'
+release_year: 1959
+runtime: 109840
 ---
 

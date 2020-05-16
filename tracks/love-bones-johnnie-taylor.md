@@ -1,8 +1,11 @@
 ---
+album: The Johnnie Taylor Philosophy Continues
 artists:
 - Johnnie Taylor
+external_ids:
+  spotify: spotify:track:48kKUiGeclRAPo4tMFxFkP
 features: []
-genres: []
+first_released_as_single: false
 key: love-bones-johnnie-taylor
 lyrics_url: https://genius.com/Johnnie-taylor-love-bones-lyrics
 name: Love Bones
@@ -47,6 +50,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1970-02-21'
+release_year: 1969
+runtime: 248000
 ---
 Been working all day
 Like I'm doing time

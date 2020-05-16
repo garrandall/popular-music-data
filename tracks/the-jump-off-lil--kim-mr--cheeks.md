@@ -1,9 +1,12 @@
 ---
+album: The Jump Off
 artists:
 - Lil' Kim
+external_ids:
+  spotify: spotify:track:3CZlTOyNnKVMb021IYEY6r
 features:
 - Mr. Cheeks
-genres: []
+first_released_as_single: true
 key: the-jump-off-lil--kim-mr--cheeks
 lyrics_url: https://genius.com/Lil-kim-the-jump-off-lyrics
 name: The Jump Off
@@ -88,6 +91,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '2003-06-21'
+release_year: 2003
+runtime: 234800
 ---
 Whoa! (Whoa!) Whoa! (Yeah)
 Aiyyo Tim man this the jump off right here man! (Jump off!)

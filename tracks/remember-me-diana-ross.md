@@ -1,8 +1,11 @@
 ---
+album: Surrender
 artists:
 - Diana Ross
+external_ids:
+  spotify: spotify:track:01RcP6fQNIPpQoHncRthSN
 features: []
-genres: []
+first_released_as_single: false
 key: remember-me-diana-ross
 lyrics_url: https://www.musixmatch.com/lyrics/Diana-Ross/Remember-Me
 name: Remember Me
@@ -47,6 +50,8 @@ rankings:
   rank: 31
   ranking_list: Billboard Hot 100
   start_date: '1971-02-27'
+release_year: 1970
+runtime: 212413
 ---
 Bye baby, see you around
 Didn't I tell you I wouldn't hold you down

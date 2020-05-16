@@ -1,8 +1,11 @@
 ---
+album: Everything Is Everything
 artists:
 - Diana Ross
+external_ids:
+  spotify: spotify:track:2SVJxQfczkbkslAZgkZf9N
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-still-waiting-diana-ross
 lyrics_url: https://www.musixmatch.com/lyrics/Diana-Ross/I-m-Still-Waiting
 name: I'm Still Waiting
@@ -27,6 +30,8 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1971-12-04'
+release_year: 1970
+runtime: 224186
 ---
 I remember when I was five and you were ten boy
 You knew that I was shy

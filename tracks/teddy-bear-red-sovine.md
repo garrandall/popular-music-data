@@ -1,8 +1,11 @@
 ---
+album: Teddy Bear
 artists:
 - Red Sovine
+external_ids:
+  spotify: spotify:track:15RvZU4fsYf5RYJSa1MtXO
 features: []
-genres: []
+first_released_as_single: false
 key: teddy-bear-red-sovine
 lyrics_url: https://genius.com/Red-sovine-teddy-bear-lyrics
 name: Teddy Bear
@@ -43,6 +46,8 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1976-09-18'
+release_year: 1976
+runtime: 299746
 ---
 I was on the outskirts of a little southern town
 Trying to reach my destination before the sun went down

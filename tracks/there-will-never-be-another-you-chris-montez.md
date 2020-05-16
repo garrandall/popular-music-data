@@ -1,8 +1,11 @@
 ---
+album: The More I See You
 artists:
 - Chris Montez
+external_ids:
+  spotify: spotify:track:5NbH5YGvgF2RbrxeXnGVkM
 features: []
-genres: []
+first_released_as_single: false
 key: there-will-never-be-another-you-chris-montez
 lyrics_url: https://genius.com/Chris-montez-there-will-never-be-another-you-lyrics
 name: There Will Never Be Another You
@@ -39,6 +42,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1966-10-01'
+release_year: 1966
+runtime: 175506
 ---
 There will be many other nights like this
 And I'll be standing here with someone new

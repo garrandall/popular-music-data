@@ -1,8 +1,11 @@
 ---
+album: The Ultimate Tribute To Garth Brooks
 artists:
 - Garth Brooks
+external_ids:
+  spotify: spotify:track:5Kh4LHchTqgh2YGR03yFxL
 features: []
-genres: []
+first_released_as_single: false
 key: more-than-a-memory-garth-brooks
 lyrics_url: https://www.azlyrics.com/lyrics/garthbrooks/morethanamemory.html
 name: More Than A Memory
@@ -71,8 +74,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2007-12-29'
+release_year: 2007
+runtime: 216666
 ---
-
 People say she's only in my head
 It's gonna take time but I'll forget
 They say I need to get on with my life
@@ -112,6 +116,3 @@ That's when she's more than a memory
 
 People say she's only in my head
 It's gonna take time but I'll forget
-
-
-

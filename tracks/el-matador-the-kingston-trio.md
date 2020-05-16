@@ -1,8 +1,11 @@
 ---
+album: Sold Out
 artists:
 - The Kingston Trio
+external_ids:
+  spotify: spotify:track:0QijWQnEFPwZemuAVFPSqC
 features: []
-genres: []
+first_released_as_single: false
 key: el-matador-the-kingston-trio
 lyrics_url: https://www.musixmatch.com/lyrics/The-Kingston-Trio/El-Matador
 name: El Matador
@@ -51,6 +54,8 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1960-05-02'
+release_year: 1960
+runtime: 147093
 ---
 Aye, Torero
 She is here

@@ -1,8 +1,11 @@
 ---
+album: Mixed Up
 artists:
 - The Cure
+external_ids:
+  spotify: spotify:track:7mMRFDHJRFjkvEoEx5u6jK
 features: []
-genres: []
+first_released_as_single: false
 key: never-enough-the-cure
 lyrics_url: https://genius.com/The-cure-never-enough-lyrics
 name: Never Enough
@@ -23,6 +26,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1990-11-24'
+release_year: 1990
+runtime: 268200
 ---
 H-h-however much I push it down
 It's never enough

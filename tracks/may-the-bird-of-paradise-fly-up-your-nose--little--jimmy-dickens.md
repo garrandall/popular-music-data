@@ -1,8 +1,11 @@
 ---
+album: May the Bird of Paradise Fly Up Your Nose
 artists:
 - '"Little" Jimmy Dickens'
+external_ids:
+  spotify: spotify:track:1WpoMGLjlEUHlWhilsOkJA
 features: []
-genres: []
+first_released_as_single: false
 key: may-the-bird-of-paradise-fly-up-your-nose--little--jimmy-dickens
 lyrics_url: https://genius.com/Little-jimmy-dickens-may-the-bird-of-paradise-fly-up-your-nose-lyrics
 name: May The Bird Of Paradise Fly Up Your Nose
@@ -47,6 +50,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1965-12-18'
+release_year: 1954
+runtime: 145640
 ---
 One fine day as I was a-walkin' down the street
 Spied a beggar man with rags upon his feet

@@ -1,8 +1,11 @@
 ---
+album: One-X
 artists:
 - Three Days Grace
+external_ids:
+  spotify: spotify:track:3HE50TVRquwXe9yv2HFoNL
 features: []
-genres: []
+first_released_as_single: false
 key: never-too-late-three-days-grace
 lyrics_url: https://www.azlyrics.com/lyrics/threedaysgrace/nevertoolate.html
 name: Never Too Late
@@ -87,8 +90,9 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '2007-12-29'
+release_year: 2006
+runtime: 209333
 ---
-
 This world will never be
 What I expected
 And if I don't belong
@@ -154,6 +158,3 @@ Maybe we'll turn it around
 It's never too late (It's never too late)
 It's not too late
 It's never too late
-
-
-

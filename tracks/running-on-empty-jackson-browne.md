@@ -1,8 +1,11 @@
 ---
+album: Running on Empty
 artists:
 - Jackson Browne
+external_ids:
+  spotify: spotify:track:2GOO9UKA3Z1tTBSF6KUcZb
 features: []
-genres: []
+first_released_as_single: false
 key: running-on-empty-jackson-browne
 lyrics_url: https://www.azlyrics.com/lyrics/jacksonbrowne/runningonempty.html
 name: Running On Empty
@@ -75,8 +78,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1978-06-03'
+release_year: 1977
+runtime: 330408
 ---
-
 Looking out at the road rushing under my wheels
 Looking back at the years gone by like so many summer fields
 In sixty-five I was seventeen and running up one-o-one
@@ -118,6 +122,3 @@ You know the way you look so kind
 I'd love to stick around but I'm running behind
 You know I don't even know what I'm hoping to find
 Running into the sun but I'm running behind
-
-
-

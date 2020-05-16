@@ -1,8 +1,11 @@
 ---
+album: Back to Front
 artists:
 - Gilbert O'Sullivan
+external_ids:
+  spotify: spotify:track:6vuEG9sZtC4W2zT64f7zLF
 features: []
-genres: []
+first_released_as_single: false
 key: alone-again--naturally--gilbert-o-sullivan
 lyrics_url: https://genius.com/Gilbert-osullivan-alone-again-naturally-lyrics
 name: Alone Again (Naturally)
@@ -79,6 +82,8 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '1972-10-14'
+release_year: 1972
+runtime: 217728
 ---
 In a little while from now
 If I'm not feeling any less sour

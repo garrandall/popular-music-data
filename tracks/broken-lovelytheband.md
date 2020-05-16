@@ -1,8 +1,11 @@
 ---
+album: finding it hard to smile
 artists:
 - lovelytheband
+external_ids:
+  spotify: spotify:track:0xTYvcvbYWJFaFepvVrYar
 features: []
-genres: []
+first_released_as_single: true
 key: broken-lovelytheband
 lyrics_url: https://www.azlyrics.com/lyrics/lovelytheband/broken.html
 name: Broken
@@ -95,8 +98,9 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '2018-12-22'
+release_year: 2017
+runtime: 204878
 ---
-
 I like that you're broken
 Broken like me
 Maybe that makes me a fool
@@ -155,6 +159,3 @@ Maybe that makes me a fool
 I like that you're lonely
 Lonely like me
 I could be lonely with you
-
-
-

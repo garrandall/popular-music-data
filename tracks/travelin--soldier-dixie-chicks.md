@@ -1,8 +1,11 @@
 ---
+album: Home
 artists:
 - Dixie Chicks
+external_ids:
+  spotify: spotify:track:0AkZjWYCMJ8wWiNex7LmkY
 features: []
-genres: []
+first_released_as_single: false
 key: travelin--soldier-dixie-chicks
 lyrics_url: https://www.azlyrics.com/lyrics/dixiechicks/travelinsoldier.html
 name: Travelin' Soldier
@@ -47,11 +50,12 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2003-04-05'
+release_year: 2002
+runtime: 343496
 ---
-
 Two days past eighteen
 He was waiting for the bus in his army green
-Sat down in a booth in a cafÃ© there
+Sat down in a booth in a café there
 Gave his order to a girl with a bow in her hair
 
 He's a little shy so she give him a smile
@@ -108,7 +112,7 @@ Waitin' for the love of a travelin' soldier
 Our love will never end
 Waitin' for the soldier to come back again
 Never more to be alone when the letter said
-A soldier's coming 
+A soldier's coming
 
 I cried
 Never gonna hold the hand of another guy
@@ -118,6 +122,3 @@ Our love will never end
 Waitin' for the soldier to come back again
 Never more to be alone when the letter said
 A soldier's coming home
-
-
-

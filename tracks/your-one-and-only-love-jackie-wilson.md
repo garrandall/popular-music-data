@@ -1,8 +1,11 @@
 ---
+album: A Woman, A Lover, A Friend
 artists:
 - Jackie Wilson
+external_ids:
+  spotify: spotify:track:7M6YTNCCXcD4kK34pDBg7u
 features: []
-genres: []
+first_released_as_single: false
 key: your-one-and-only-love-jackie-wilson
 lyrics_url: https://genius.com/Jackie-wilson-your-one-and-only-love-lyrics
 name: Your One And Only Love
@@ -31,6 +34,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1961-04-17'
+release_year: 1960
+runtime: 165866
 ---
 Your one and only love
 That's all I want to be

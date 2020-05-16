@@ -1,8 +1,11 @@
 ---
+album: Beat'n Down Yo Block
 artists:
 - Unk
+external_ids:
+  spotify: spotify:track:7beqVxFB2g7DlL09mvfjDv
 features: []
-genres: []
+first_released_as_single: false
 key: 2-step-unk
 lyrics_url: https://www.azlyrics.com/lyrics/unk/2step.html
 name: 2 Step
@@ -91,6 +94,8 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '2007-07-14'
+release_year: 2006
+runtime: 195786
 ---
 4...3...2...2..
 

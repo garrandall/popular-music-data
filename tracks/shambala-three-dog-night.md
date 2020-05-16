@@ -1,8 +1,11 @@
 ---
+album: Cyan
 artists:
 - Three Dog Night
+external_ids:
+  spotify: spotify:track:0P6fEgTn3cxLLyYTJYoYGj
 features: []
-genres: []
+first_released_as_single: false
 key: shambala-three-dog-night
 lyrics_url: https://www.azlyrics.com/lyrics/threedognight/shambala.html
 name: Shambala
@@ -71,8 +74,9 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1973-09-01'
+release_year: 1973
+runtime: 204106
 ---
-
 Wash away my troubles, wash away my pain
 With the rain in Shambala
 Wash away my sorrow, wash away my shame
@@ -126,6 +130,3 @@ Ah, oh yeah
 Shambala, la
 Ah, oh yeah
 On the road to Shambala
-
-
-

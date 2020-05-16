@@ -1,8 +1,11 @@
 ---
+album: Tiffany
 artists:
 - Tiffany
+external_ids:
+  spotify: spotify:track:4uvjOKsp7mSjrDhWdkLPBY
 features: []
-genres: []
+first_released_as_single: false
 key: i-think-we-re-alone-now-tiffany
 lyrics_url: https://genius.com/Tiffany-i-think-were-alone-now-lyrics
 name: I Think We're Alone Now
@@ -103,6 +106,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1988-02-06'
+release_year: 1987
+runtime: 228840
 ---
 Let me hear your heart beat
 Let me feel your heart beat

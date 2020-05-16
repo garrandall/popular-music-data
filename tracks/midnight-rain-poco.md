@@ -1,8 +1,11 @@
 ---
+album: Under The Gun
 artists:
 - Poco
+external_ids:
+  spotify: spotify:track:4ugv7nAdBdpmLmMwkkfTDl
 features: []
-genres: []
+first_released_as_single: false
 key: midnight-rain-poco
 lyrics_url: https://www.azlyrics.com/lyrics/poco/midnightrain.html
 name: Midnight Rain
@@ -23,8 +26,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1980-11-01'
+release_year: 1980
+runtime: 266333
 ---
-
 Standing in the midnight rain
 All Alone with the pieces of my heart again
 Knowing one of is right and one of is is gone
@@ -53,6 +57,3 @@ Into another night
 You've gone running all alone
 All alone into another night
 You've gone running all alone
-
-
-

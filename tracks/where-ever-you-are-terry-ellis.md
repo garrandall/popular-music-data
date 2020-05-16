@@ -1,8 +1,11 @@
 ---
+album: Southern Gal
 artists:
 - Terry Ellis
+external_ids:
+  spotify: spotify:track:2AyRyaIASwwqE7RNVCedss
 features: []
-genres: []
+first_released_as_single: false
 key: where-ever-you-are-terry-ellis
 lyrics_url: https://genius.com/Terry-ellis-en-vogue-where-ever-you-are-lyrics
 name: Where Ever You Are
@@ -87,6 +90,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1996-03-16'
+release_year: 1995
+runtime: 298080
 ---
 Oh...oh...oh.ohohoh.oh...oh...oh...oh.ohohoh.ohoh
 Oh...oh...oh.ohohoh.oh...oh...oh...oh.ohohoh.ohoh

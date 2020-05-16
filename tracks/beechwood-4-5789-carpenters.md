@@ -1,8 +1,11 @@
 ---
+album: Made In America
 artists:
 - Carpenters
+external_ids:
+  spotify: spotify:track:5JUbG6t4aLLWEgD15jeVaJ
 features: []
-genres: []
+first_released_as_single: false
 key: beechwood-4-5789-carpenters
 lyrics_url: https://www.azlyrics.com/lyrics/carpenters/beechwood45789.html
 name: Beechwood 4-5789
@@ -23,8 +26,9 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '1982-05-15'
+release_year: 1981
+runtime: 186266
 ---
-
 You can have this dance with me
 You can hold my hand and whisper
 In my ear sweet words, that I
@@ -51,6 +55,3 @@ Any old time
 Beechwood 4-5789
 You can call me up and have a date
 Any old time
-
-
-

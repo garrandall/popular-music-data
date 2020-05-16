@@ -1,8 +1,11 @@
 ---
+album: The Diary Of Alicia Keys
 artists:
 - Alicia Keys
+external_ids:
+  spotify: spotify:track:588RGyR1f4Plc8nm7SrdCa
 features: []
-genres: []
+first_released_as_single: false
 key: karma-alicia-keys
 lyrics_url: https://www.azlyrics.com/lyrics/aliciakeys/karma.html
 name: Karma
@@ -123,8 +126,9 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '2005-06-11'
+release_year: 2003
+runtime: 256000
 ---
-
 Weren't you the one who said that you don't want me anymore
 And how you need your space and give the keys back to your door
 And how I cried and tried and tried to make you stay with me
@@ -176,6 +180,3 @@ Gotta stop trying to come back to me
 
 
 It's called Karma baby and it goes around
-
-
-

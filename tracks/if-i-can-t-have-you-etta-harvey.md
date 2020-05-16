@@ -1,9 +1,12 @@
 ---
+album: At Last!
 artists:
 - Etta
 - Harvey
+external_ids:
+  spotify: spotify:track:43KwTWxKSOxLokl6ILLWxd
 features: []
-genres: []
+first_released_as_single: false
 key: if-i-can-t-have-you-etta-harvey
 lyrics_url: https://genius.com/Etta-james-if-i-cant-have-you-duet-with-harvey-fuqua-lyrics
 name: If I Can't Have You
@@ -56,6 +59,8 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1960-10-17'
+release_year: 1960
+runtime: 169600
 ---
 I don't want nobody
 If I can't have you
@@ -79,4 +84,3 @@ I can't be kissing nobody
 Unless I'm kissing you
 I just don't I just don't I just don't want to be bothered with nobody
 Unless I'm bothered with you
-

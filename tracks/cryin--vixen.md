@@ -1,8 +1,11 @@
 ---
+album: Vixen
 artists:
 - Vixen
+external_ids:
+  spotify: spotify:track:1Fu3vJJwVKY7c7JnTX3Mvi
 features: []
-genres: []
+first_released_as_single: false
 key: cryin--vixen
 lyrics_url: https://www.azlyrics.com/lyrics/vixen/cryin.html
 name: Cryin'
@@ -59,8 +62,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1989-04-22'
+release_year: 1988
+runtime: 211906
 ---
-
 One look and I saw what I wanted to see, you know that you
 Wrapped my heart around your finger so easily, yeah
 
@@ -82,4 +86,3 @@ I won't be cryin', cryin', when I think about you, 'cos I opened my eyes
 And I won't be cryin', cryin'
 
 The tears are falling to the floor, but you won't catch me cryin' anymore
-

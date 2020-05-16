@@ -1,8 +1,11 @@
 ---
+album: 2000 Watts
 artists:
 - Tyrese
+external_ids:
+  spotify: spotify:track:2axz5m3FbOQbe5Htuh8Dqf
 features: []
-genres: []
+first_released_as_single: false
 key: i-like-them-girls-tyrese
 lyrics_url: https://genius.com/Tyrese-i-like-them-girls-lyrics
 name: I Like Them Girls
@@ -83,6 +86,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2001-08-11'
+release_year: 1998
+runtime: 273493
 ---
 I like them girls
 I like them girls

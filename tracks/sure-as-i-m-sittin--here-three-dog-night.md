@@ -1,8 +1,11 @@
 ---
+album: Hard Labor
 artists:
 - Three Dog Night
+external_ids:
+  spotify: spotify:track:3iQLVPN7XXokbomd3uJb52
 features: []
-genres: []
+first_released_as_single: false
 key: sure-as-i-m-sittin--here-three-dog-night
 lyrics_url: https://genius.com/Three-dog-night-sure-as-im-sittin-here-lyrics
 name: Sure As I'm Sittin' Here
@@ -59,6 +62,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1974-09-21'
+release_year: 1974
+runtime: 286493
 ---
 Ya git up
 Ya git down

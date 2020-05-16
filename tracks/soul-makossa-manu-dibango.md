@@ -1,8 +1,11 @@
 ---
+album: Wakafrika
 artists:
 - Manu Dibango
+external_ids:
+  spotify: spotify:track:6MP7kbpHTW299ZERowvZJd
 features: []
-genres: []
+first_released_as_single: false
 key: soul-makossa-manu-dibango
 lyrics_url: https://genius.com/Manu-dibango-soul-makossa-lyrics
 name: Soul Makossa
@@ -43,6 +46,8 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '1973-08-18'
+release_year: 1973
+runtime: 339786
 ---
 Makossa
 Akeela

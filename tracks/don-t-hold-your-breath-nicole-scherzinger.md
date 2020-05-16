@@ -1,8 +1,11 @@
 ---
+album: Don't Hold Your Breath
 artists:
 - Nicole Scherzinger
+external_ids:
+  spotify: spotify:track:7kVQDUKKnIqHSMYIypX8nL
 features: []
-genres: []
+first_released_as_single: true
 key: don-t-hold-your-breath-nicole-scherzinger
 lyrics_url: https://genius.com/Nicole-scherzinger-dont-hold-your-breath-lyrics
 name: Don't Hold Your Breath
@@ -11,6 +14,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2011-09-03'
+release_year: 2011
+runtime: 197520
 ---
 Don't hold your breath
 

@@ -1,8 +1,11 @@
 ---
+album: Guru of Time
 artists:
 - Logic
+external_ids:
+  spotify: spotify:track:7INbsLzOS6yQUFGDktQpFM
 features: []
-genres: []
+first_released_as_single: false
 key: midnight-logic
 lyrics_url: https://www.azlyrics.com/lyrics/logic/commonlogicmidnightmarauder.html
 name: Midnight
@@ -11,9 +14,9 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '2018-03-24'
+release_year: 2014
+runtime: 165773
 ---
-
-
 May I ask in what way your life is contributing to society
 As you sit here day after day after day
 In this dark room, stringing along on that stupid guitar?
@@ -78,6 +81,3 @@ You're not any less of a man if you don't pull the trigger
 You're not necessarily a man if you do
 This concludes Midnight Marauder program
 Press any key to return to the main menu
-
-
-

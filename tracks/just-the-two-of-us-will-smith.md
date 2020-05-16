@@ -1,8 +1,11 @@
 ---
+album: Big Willie Style
 artists:
 - Will Smith
+external_ids:
+  spotify: spotify:track:01F8B0dhzGdWvmcSO6vUdi
 features: []
-genres: []
+first_released_as_single: false
 key: just-the-two-of-us-will-smith
 lyrics_url: https://genius.com/Will-smith-just-the-two-of-us-lyrics
 name: Just The Two Of Us
@@ -51,6 +54,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1999-01-23'
+release_year: 1997
+runtime: 315373
 ---
 Now Dad this is a very sensitive subject
 

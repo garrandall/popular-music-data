@@ -1,8 +1,11 @@
 ---
+album: Stephen Bishop Live
 artists:
 - Stephen Bishop
+external_ids:
+  spotify: spotify:track:2wBblZ0wyRVjSVKQrNwSFx
 features: []
-genres: []
+first_released_as_single: false
 key: it-might-be-you-stephen-bishop
 lyrics_url: https://genius.com/Stephen-bishop-it-might-be-you-lyrics
 name: It Might Be You
@@ -87,6 +90,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1983-06-11'
+release_year: 1983
+runtime: 253866
 ---
 Time...
 I've been passing time watching trains go by

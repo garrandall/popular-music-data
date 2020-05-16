@@ -1,8 +1,11 @@
 ---
+album: Hold Your Fire
 artists:
 - Firehouse
+external_ids:
+  spotify: spotify:track:1yJWqYYDQge60nZKdLyiZU
 features: []
-genres: []
+first_released_as_single: false
 key: when-i-look-into-your-eyes-firehouse
 lyrics_url: https://www.azlyrics.com/lyrics/firehouse/whenilookintoyoureyes.html
 name: When I Look Into Your Eyes
@@ -87,8 +90,9 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '1992-12-26'
+release_year: 1992
+runtime: 239866
 ---
-
 I see forever when I look in your eyes
 You're all I've ever wanted
 I always want you to be mine
@@ -117,4 +121,3 @@ Can't stop this feelin'
 And there's nothing I can do
 'Cause I see everything
 When I look at you
-

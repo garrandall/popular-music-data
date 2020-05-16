@@ -1,8 +1,11 @@
 ---
+album: Feel the Groove
 artists:
 - Cartouche
+external_ids:
+  spotify: spotify:track:2XvJmJxWvSyf969vgrILy6
 features: []
-genres: []
+first_released_as_single: true
 key: feel-the-groove-cartouche
 lyrics_url: https://genius.com/Cartouche-feel-the-groove-lyrics
 name: Feel The Groove
@@ -47,6 +50,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1991-06-15'
+release_year: 1991
+runtime: 340000
 ---
 Think I better let you know
 That it's time for you to go

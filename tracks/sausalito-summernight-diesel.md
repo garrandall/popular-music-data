@@ -1,8 +1,11 @@
 ---
+album: Watts In A Tank
 artists:
 - Diesel
+external_ids:
+  spotify: spotify:track:2HOQhOWfkg4oFHNY1LD7lf
 features: []
-genres: []
+first_released_as_single: false
 key: sausalito-summernight-diesel
 lyrics_url: https://genius.com/Diesel-sausalito-summernight-lyrics
 name: Sausalito Summernight
@@ -79,6 +82,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1982-01-09'
+release_year: 1980
+runtime: 308053
 ---
 We left for Frisco in your Rambler
 The radiator running dry

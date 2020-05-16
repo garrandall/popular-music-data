@@ -1,9 +1,12 @@
 ---
+album: Sundown Heaven Town
 artists:
 - Tim McGraw
+external_ids:
+  spotify: spotify:track:2rO28hRLDbsenVjeWvwqQz
 features:
 - Faith Hill
-genres: []
+first_released_as_single: false
 key: meanwhile-back-at-mama-s-tim-mcgraw-faith-hill
 lyrics_url: https://www.azlyrics.com/lyrics/timmcgraw/meanwhilebackatmamas.html
 name: Meanwhile Back At Mama's
@@ -84,9 +87,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2014-10-18'
+release_year: 2014
+runtime: 228106
 ---
-
-
 Runnin round in this new truck
 Bank lets me borrow from month to month
 I'm runnin out of credit, find a little Cash on the radio
@@ -131,6 +134,3 @@ Baby tell me what you think about this
 
 Me and you back at Mama's
 Yeah me and you back at Mama's
-
-
-

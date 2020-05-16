@@ -1,9 +1,12 @@
 ---
+album: Views
 artists:
 - Drake
+external_ids:
+  spotify: spotify:track:3aJkV6DUTSCqOwVwaBDG9B
 features:
 - PARTYNEXTDOOR
-genres: []
+first_released_as_single: false
 key: with-you-drake-partynextdoor
 lyrics_url: https://www.azlyrics.com/lyrics/drake/withyou.html
 name: With You
@@ -36,9 +39,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2016-07-02'
+release_year: 2016
+runtime: 195053
 ---
-
-
 It's about us right now, girl, where you going?
 It's about us right now, girl, where you going?
 I'm with you
@@ -82,6 +85,3 @@ I'm with you
 It's about us right now, girl, where you going?
 It's about us right now, girl, where you going? Yeah
 I'm with you
-
-
-

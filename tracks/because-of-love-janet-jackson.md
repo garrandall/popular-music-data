@@ -1,8 +1,11 @@
 ---
+album: Janet
 artists:
 - Janet Jackson
+external_ids:
+  spotify: spotify:track:40kJxdeSmQieEgTgShXumm
 features: []
-genres: []
+first_released_as_single: false
 key: because-of-love-janet-jackson
 lyrics_url: https://genius.com/Janet-jackson-because-of-love-lyrics
 name: Because Of Love
@@ -87,6 +90,8 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '1994-06-11'
+release_year: 1993
+runtime: 260906
 ---
 You got me singing
 Shoo-doo-doo

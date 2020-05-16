@@ -1,8 +1,11 @@
 ---
+album: California Girl
 artists:
 - Eddie Floyd
+external_ids:
+  spotify: spotify:track:4DvqAY9mzeTjQUNvsROwji
 features: []
-genres: []
+first_released_as_single: false
 key: california-girl-eddie-floyd
 lyrics_url: https://genius.com/Eddie-floyd-california-girl-lyrics
 name: California Girl
@@ -55,6 +58,8 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '1970-05-09'
+release_year: 1970
+runtime: 224426
 ---
 As I stand here these evening
 Looking out over the metropolis of Los Angeles, California

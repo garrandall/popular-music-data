@@ -1,8 +1,11 @@
 ---
+album: Mario Vazquez
 artists:
 - Mario Vazquez
+external_ids:
+  spotify: spotify:track:7yVJlhAZlZ4O1jlJCkMXD6
 features: []
-genres: []
+first_released_as_single: false
 key: gallery-mario-vazquez
 lyrics_url: https://www.azlyrics.com/lyrics/mariovazquez/gallery.html
 name: Gallery
@@ -87,8 +90,9 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '2006-12-16'
+release_year: 2006
+runtime: 223613
 ---
-
 God broke the mold,
 When he made this one I know
 She's breathtaking but so much more
@@ -170,6 +174,3 @@ And it's tearing me apart
 You're just another priceless work of art
 In his gallery
 In his gallery
-
-
-

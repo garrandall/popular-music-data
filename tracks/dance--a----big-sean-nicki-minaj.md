@@ -1,9 +1,12 @@
 ---
+album: Finally Famous
 artists:
 - Big Sean
+external_ids:
+  spotify: spotify:track:3ZAMtgYJFoHwJjFkhkXqKr
 features:
 - Nicki Minaj
-genres: []
+first_released_as_single: false
 key: dance--a----big-sean-nicki-minaj
 lyrics_url: https://genius.com/Big-sean-dance-a-remix-lyrics
 name: Dance (A$$)
@@ -104,6 +107,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '2012-03-31'
+release_year: 2011
+runtime: 220293
 ---
 Ass ass ass ass ass
 Ass ass ass ass ass ass ass ass

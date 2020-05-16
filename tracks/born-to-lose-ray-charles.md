@@ -1,8 +1,11 @@
 ---
+album: Modern Sounds in Country and Western Music, Vols 1 & 2
 artists:
 - Ray Charles
+external_ids:
+  spotify: spotify:track:4s17d1GNitCCI205nblMy9
 features: []
-genres: []
+first_released_as_single: false
 key: born-to-lose-ray-charles
 lyrics_url: https://genius.com/Ray-charles-born-to-lose-lyrics
 name: Born To Lose
@@ -43,6 +46,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1962-07-07'
+release_year: 1962
+runtime: 196133
 ---
 Born to lose, I've lived my life in vain
 Every dream has only brought me pain

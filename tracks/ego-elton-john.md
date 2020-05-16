@@ -1,8 +1,11 @@
 ---
+album: A Single Man
 artists:
 - Elton John
+external_ids:
+  spotify: spotify:track:6QNrmIiwwsvkL0GFkV2Cfq
 features: []
-genres: []
+first_released_as_single: false
 key: ego-elton-john
 lyrics_url: https://www.azlyrics.com/lyrics/eltonjohn/ego.html
 name: Ego
@@ -39,8 +42,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1978-06-03'
+release_year: 1978
+runtime: 240426
 ---
-
 Take a look at me now and take a taste of the money
 I'm not in it for the bread I'm in it for the gravy, honey
 Step on the thin ice lightly
@@ -74,6 +78,3 @@ Oh 'cause I'm so expressive and I'm so obsessed with my ego
 My ego and it's message
 Oh inform the press, invite the guests
 I need the press tonight
-
-
-

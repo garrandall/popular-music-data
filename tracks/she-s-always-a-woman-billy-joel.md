@@ -1,8 +1,11 @@
 ---
+album: The Stranger
 artists:
 - Billy Joel
+external_ids:
+  spotify: spotify:track:5RgFlk1fcClZd0Y4SGYhqH
 features: []
-genres: []
+first_released_as_single: false
 key: she-s-always-a-woman-billy-joel
 lyrics_url: https://genius.com/Billy-joel-shes-always-a-woman-lyrics
 name: She's Always A Woman
@@ -67,6 +70,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1978-11-18'
+release_year: 1977
+runtime: 201373
 ---
 She can kill with a smile, she can wound with her eyes
 She can ruin your faith with her casual lies

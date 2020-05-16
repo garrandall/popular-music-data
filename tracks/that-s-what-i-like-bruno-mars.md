@@ -1,8 +1,11 @@
 ---
+album: 24K Magic
 artists:
 - Bruno Mars
+external_ids:
+  spotify: spotify:track:0KKkJNfGyhkQ5aFogxQAPU
 features: []
-genres: []
+first_released_as_single: false
 key: that-s-what-i-like-bruno-mars
 lyrics_url: https://genius.com/Bruno-mars-thats-what-i-like-lyrics
 name: That's What I Like
@@ -215,6 +218,8 @@ rankings:
   rank: 38
   ranking_list: Billboard Hot 100
   start_date: '2018-01-20'
+release_year: 2016
+runtime: 206693
 ---
 Hey, hey, hey
 I got a condo in Manhattan

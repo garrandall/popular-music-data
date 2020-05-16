@@ -1,8 +1,11 @@
 ---
+album: EVERYTHING IS LOVE (Clean)
 artists:
 - The Carters
+external_ids:
+  spotify: spotify:track:0B08s1tLWCXoFmGP0vIubM
 features: []
-genres: []
+first_released_as_single: false
 key: apes--t-the-carters
 lyrics_url: https://www.musixmatch.com/lyrics/The-Carters-4/APES-T
 name: Apes**t
@@ -67,6 +70,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2018-10-06'
+release_year: 2018
+runtime: 264853
 ---
 Eah, yeah, yeah, yeah, yeah
 Yeah, yeah, yeah, yeah, yeah

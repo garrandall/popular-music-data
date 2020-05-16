@@ -1,8 +1,11 @@
 ---
+album: Collection 1959-62
 artists:
 - Adam Wade
+external_ids:
+  spotify: spotify:track:1Kdqwkq2AI5S0txCal6bWn
 features: []
-genres: []
+first_released_as_single: true
 key: as-if-i-didn-t-know-adam-wade
 lyrics_url: https://www.musixmatch.com/lyrics/Adam-Wade/As-If-I-Didn-t-Know
 name: As If I Didn't Know
@@ -47,6 +50,8 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '1961-09-25'
+release_year: 1961
+runtime: 170933
 ---
 You swore to me
 You were my one and only

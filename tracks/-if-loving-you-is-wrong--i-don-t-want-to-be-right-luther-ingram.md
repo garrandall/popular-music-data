@@ -1,8 +1,11 @@
 ---
+album: (If Loving You Is Wrong) I Don't Want to Be Right
 artists:
 - Luther Ingram
+external_ids:
+  spotify: spotify:track:54K7o2yNOMZYCtEDnfD6wI
 features: []
-genres: []
+first_released_as_single: false
 key: -if-loving-you-is-wrong--i-don-t-want-to-be-right-luther-ingram
 lyrics_url: https://genius.com/Luther-ingram-if-loving-you-is-wrong-i-dont-want-to-be-right-lyrics
 name: (If Loving You Is Wrong) I Don't Want To Be Right
@@ -71,6 +74,8 @@ rankings:
   rank: 32
   ranking_list: Billboard Hot 100
   start_date: '1972-09-16'
+release_year: 1972
+runtime: 216800
 ---
 If loving you is wrong I don't wanna be right
 If being right means being without you

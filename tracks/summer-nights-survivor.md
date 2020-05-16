@@ -1,8 +1,11 @@
 ---
+album: Premonition
 artists:
 - Survivor
+external_ids:
+  spotify: spotify:track:25hAoXMgrKg0c6c8DuXls1
 features: []
-genres: []
+first_released_as_single: false
 key: summer-nights-survivor
 lyrics_url: https://www.azlyrics.com/lyrics/survivor/summernights.html
 name: Summer Nights
@@ -39,8 +42,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1982-04-10'
+release_year: 1981
+runtime: 248093
 ---
-
 Girl it always seems about September
 That's the time, again I remember the lights
 And all the fun of those summer nights
@@ -87,6 +91,3 @@ Back on my own again
 
 (Well I remember those)
 Summer nights...
-
-
-

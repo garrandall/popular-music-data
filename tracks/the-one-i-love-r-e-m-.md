@@ -1,8 +1,11 @@
 ---
+album: Document - 25th Anniversary Edition
 artists:
 - R.E.M.
+external_ids:
+  spotify: spotify:track:2fdfsGuqb6SBX5ocoBWHUd
 features: []
-genres: []
+first_released_as_single: false
 key: the-one-i-love-r-e-m-
 lyrics_url: https://genius.com/Rem-the-one-i-love-lyrics
 name: The One I Love
@@ -87,6 +90,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1988-01-30'
+release_year: 1987
+runtime: 197800
 ---
 This one goes out to the one I love
 This one goes out to the one I've left behind

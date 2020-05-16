@@ -1,8 +1,11 @@
 ---
+album: A Song For You
 artists:
 - Carpenters
+external_ids:
+  spotify: spotify:track:1Ehdm1PDlKrdfyBsjwEvd1
 features: []
-genres: []
+first_released_as_single: false
 key: top-of-the-world-carpenters
 lyrics_url: https://www.azlyrics.com/lyrics/carpenters/topoftheworld.html
 name: Top Of The World
@@ -87,8 +90,9 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '1974-02-16'
+release_year: 1972
+runtime: 179173
 ---
-
 Such a feelin's comin' over me
 There is wonder in most every thing I see
 Not a cloud in the sky, got the sun in my eyes
@@ -123,6 +127,3 @@ I'm on the top of the world lookin' down on creation
 And the only explanation I can find
 Is the love that I've found ever since you've been around
 Your love's put me at the top of the world
-
-
-

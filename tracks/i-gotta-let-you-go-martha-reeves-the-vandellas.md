@@ -1,9 +1,12 @@
 ---
+album: 'The Complete Motown Singles Vol. 10: 1970'
 artists:
 - Martha Reeves
 - The Vandellas
+external_ids:
+  spotify: spotify:track:5dJXjVFGYwDaVFRbhYpzke
 features: []
-genres: []
+first_released_as_single: false
 key: i-gotta-let-you-go-martha-reeves-the-vandellas
 lyrics_url: https://genius.com/Martha-reeves-and-the-vandellas-i-gotta-let-you-go-lyrics
 name: I Gotta Let You Go
@@ -20,6 +23,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1970-11-21'
+release_year: 1970
+runtime: 144653
 ---
 Boy, you've hurt me for the very last time
 You can bet it won't happen again

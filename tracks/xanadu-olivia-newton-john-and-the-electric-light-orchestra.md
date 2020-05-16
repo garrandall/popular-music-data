@@ -1,9 +1,12 @@
 ---
+album: Xanadu
 artists:
 - Olivia Newton-John
 - Electric Light Orchestra
+external_ids:
+  spotify: spotify:track:4zdspHPxpExPiU8RolxBUH
 features: []
-genres: []
+first_released_as_single: false
 key: xanadu-olivia-newton-john-and-the-electric-light-orchestra
 lyrics_url: https://genius.com/Olivia-newton-john-and-electric-light-orchestra-xanadu-lyrics
 name: Xanadu
@@ -76,6 +79,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1980-11-29'
+release_year: 1980
+runtime: 208506
 ---
 A place where nobody dared to go
 The love that we came to know

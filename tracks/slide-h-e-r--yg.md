@@ -1,9 +1,12 @@
 ---
+album: Slide
 artists:
 - H.E.R.
+external_ids:
+  spotify: spotify:track:2rTnVB1bvwxHtaIl4uVu7f
 features:
 - YG
-genres: []
+first_released_as_single: true
 key: slide-h-e-r--yg
 lyrics_url: https://www.azlyrics.com/lyrics/her/slide.html
 name: Slide
@@ -56,8 +59,9 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '2020-03-21'
+release_year: 2019
+runtime: 238321
 ---
-
 You always wear them glasses
 You don't wanna let no sucka look you in your eyes, huh?
 Better show off them eyelashes
@@ -75,7 +79,7 @@ I don't plan on gettin' no sleep, while we
 
 Doin' our thing, movin' too fast
 Candy paint with the windows all black
-Seats crÃ¨me brÃ»lÃ©e, what they gon' say?
+Seats crÃ¨me brÃ»lée, what they gon' say?
 With the top down screamin', "Money ain't a thing"
 We up till six in the mornin'
 When the sunrise we'll be on it
@@ -99,7 +103,7 @@ Get a room
 
 Doin' our thing, movin' too fast
 Candy paint with the windows all black
-Seats crÃ¨me brÃ»lÃ©e, what they gon' say?
+Seats crÃ¨me brÃ»lée, what they gon' say?
 With the top down screamin', "Money ain't a thing"
 We up till six in the mornin'
 When the sunrise we'll be on it
@@ -133,7 +137,7 @@ Fuckin' up the seats of the brand new ride
 
 Doin' our thing, movin' too fast
 Candy paint with the windows all black
-Seats crÃ¨me brÃ»lÃ©e, what they gon' say?
+Seats crÃ¨me brÃ»lée, what they gon' say?
 With the top down screamin', "Money ain't a thing"
 We up till six in the mornin'
 When the sunrise we'll be on it
@@ -146,6 +150,3 @@ Yeah, up all night, baby, when we goin' slide?
 Oh, up all night, baby, when we goin' slide?
 
 Fuckin' up the seats of the brand new ride
-
-
-

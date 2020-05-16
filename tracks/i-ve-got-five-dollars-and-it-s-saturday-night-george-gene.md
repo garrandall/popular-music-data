@@ -1,9 +1,12 @@
 ---
+album: George Jones And Gene Pitney
 artists:
 - George
 - Gene
+external_ids:
+  spotify: spotify:track:76PjPbGl8IaVqJWV153oJn
 features: []
-genres: []
+first_released_as_single: false
 key: i-ve-got-five-dollars-and-it-s-saturday-night-george-gene
 lyrics_url: https://genius.com/George-jones-and-gene-pitney-ive-got-five-dollars-and-its-saturday-night-lyrics
 name: I've Got Five Dollars And It's Saturday Night
@@ -12,6 +15,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1965-04-17'
+release_year: 1965
+runtime: 129386
 ---
 (Hey)
 Well, I've been a-working hard the whole week long

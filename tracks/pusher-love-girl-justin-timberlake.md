@@ -1,8 +1,11 @@
 ---
+album: The 20/20 Experience (Deluxe Version)
 artists:
 - Justin Timberlake
+external_ids:
+  spotify: spotify:track:773hekg7UEdbGvv3lJ3CmV
 features: []
-genres: []
+first_released_as_single: false
 key: pusher-love-girl-justin-timberlake
 lyrics_url: https://genius.com/Justin-timberlake-pusher-love-girl-lyrics
 name: Pusher Love Girl
@@ -15,6 +18,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '2013-04-13'
+release_year: 2013
+runtime: 482360
 ---
 Hey little mama
 Ain't gotta ask me if I want to

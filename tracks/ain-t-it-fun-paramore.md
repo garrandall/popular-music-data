@@ -1,8 +1,11 @@
 ---
+album: Paramore
 artists:
 - Paramore
+external_ids:
+  spotify: spotify:track:1j8z4TTjJ1YOdoFEDwJTQa
 features: []
-genres: []
+first_released_as_single: false
 key: ain-t-it-fun-paramore
 lyrics_url: https://genius.com/Paramore-aint-it-fun-lyrics
 name: Ain't It Fun
@@ -103,6 +106,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2014-08-23'
+release_year: 2013
+runtime: 296520
 ---
 I don't mind
 Letting you down easy, but just give it time

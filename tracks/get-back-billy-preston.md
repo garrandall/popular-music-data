@@ -1,8 +1,11 @@
 ---
+album: Billy Preston - The Best
 artists:
 - Billy Preston
+external_ids:
+  spotify: spotify:track:2m4dXDOxGQfVeuOTSilNLv
 features: []
-genres: []
+first_released_as_single: false
 key: get-back-billy-preston
 lyrics_url: https://genius.com/Billy-preston-get-back-lyrics
 name: Get Back
@@ -15,6 +18,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1978-11-04'
+release_year: 1978
+runtime: 192973
 ---
 Get back, get back
 Get back to where you once belonged

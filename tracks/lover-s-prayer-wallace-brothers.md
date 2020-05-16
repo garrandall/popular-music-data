@@ -1,8 +1,11 @@
 ---
+album: Lover's Prayer Their Complete Sims Recordings
 artists:
 - Wallace Brothers
+external_ids:
+  spotify: spotify:track:7x20mTTlLE066Mo32u7BF6
 features: []
-genres: []
+first_released_as_single: false
 key: lover-s-prayer-wallace-brothers
 lyrics_url: https://genius.com/Wallace-brothers-lovers-prayer-lyrics
 name: Lover's Prayer
@@ -15,6 +18,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1964-09-05'
+release_year: 1964
+runtime: 164026
 ---
 Ooo-OOO-oo
 Lover's prayer

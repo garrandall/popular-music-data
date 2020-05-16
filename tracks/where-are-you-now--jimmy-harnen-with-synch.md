@@ -1,7 +1,8 @@
 ---
 artists:
-- Jimmy Harnen With Synch
-features: []
+- Jimmy Harnen
+features:
+- Synch
 genres: []
 key: where-are-you-now--jimmy-harnen-with-synch
 lyrics_url: https://www.musixmatch.com/lyrics/Jimmy-Harnen-with-Synch/Where-Are-You-Now

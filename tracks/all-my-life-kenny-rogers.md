@@ -1,8 +1,11 @@
 ---
+album: We've Got Tonight
 artists:
 - Kenny Rogers
+external_ids:
+  spotify: spotify:track:3YWulDdpSxw6fKKLmUP2pa
 features: []
-genres: []
+first_released_as_single: false
 key: all-my-life-kenny-rogers
 lyrics_url: https://genius.com/Kenny-rogers-all-my-life-lyrics
 name: All My Life
@@ -51,6 +54,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1983-07-09'
+release_year: 1983
+runtime: 233773
 ---
 Are you sure I
 Haven't loved you somewhere before

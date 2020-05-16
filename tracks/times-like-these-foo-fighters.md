@@ -1,8 +1,11 @@
 ---
+album: One By One
 artists:
 - Foo Fighters
+external_ids:
+  spotify: spotify:track:67vYdAAM3oGsEImCRfbtsF
 features: []
-genres: []
+first_released_as_single: false
 key: times-like-these-foo-fighters
 lyrics_url: https://genius.com/Foo-fighters-times-like-these-lyrics
 name: Times Like These
@@ -87,6 +90,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2003-07-19'
+release_year: 2002
+runtime: 265560
 ---
 I, I'm a one way motorway
 I'm the one that drives away, follows you back home

@@ -1,8 +1,11 @@
 ---
+album: Blood On The Tracks
 artists:
 - Bob Dylan
+external_ids:
+  spotify: spotify:track:6Vcwr9tb3ZLO63F8DL8cqu
 features: []
-genres: []
+first_released_as_single: false
 key: tangled-up-in-blue-bob-dylan
 lyrics_url: https://genius.com/Bob-dylan-tangled-up-in-blue-lyrics
 name: Tangled Up In Blue
@@ -35,6 +38,8 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '1975-04-19'
+release_year: 1975
+runtime: 341626
 ---
 Early one morning the sun was shining
 I was laying in bed

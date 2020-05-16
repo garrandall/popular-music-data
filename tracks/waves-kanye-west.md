@@ -1,8 +1,11 @@
 ---
+album: The Life Of Pablo
 artists:
 - Kanye West
+external_ids:
+  spotify: spotify:track:3nAq2hCr1oWsIU54tS98pL
 features: []
-genres: []
+first_released_as_single: false
 key: waves-kanye-west
 lyrics_url: https://www.musixmatch.com/lyrics/Kanye-West/Waves-2
 name: Waves
@@ -15,6 +18,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2016-04-30'
+release_year: 2016
+runtime: 181573
 ---
 Turn it up!
 

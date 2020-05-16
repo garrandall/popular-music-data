@@ -1,8 +1,11 @@
 ---
+album: The Solo Recordings
 artists:
 - Mary Travers
+external_ids:
+  spotify: spotify:track:4r45V7ZeTmjpX11lW5i6Xx
 features: []
-genres: []
+first_released_as_single: false
 key: follow-me-mary-travers
 lyrics_url: https://genius.com/Mary-travers-follow-me-lyrics
 name: Follow Me
@@ -51,6 +54,8 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '1971-07-31'
+release_year: 1971
+runtime: 159360
 ---
 It's by far the hardest thing I've ever done
 To be so in love with you and so alone

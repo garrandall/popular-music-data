@@ -1,8 +1,11 @@
 ---
+album: Midnight Memories
 artists:
 - One Direction
+external_ids:
+  spotify: spotify:track:4nVBt6MZDDP6tRVdQTgxJg
 features: []
-genres: []
+first_released_as_single: false
 key: story-of-my-life-one-direction
 lyrics_url: https://genius.com/One-direction-story-of-my-life-lyrics
 name: Story Of My Life
@@ -135,6 +138,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2014-06-21'
+release_year: 2013
+runtime: 245493
 ---
 Written in these walls are the stories that I can't explain
 I leave my heart open

@@ -1,9 +1,12 @@
 ---
+album: Kelis Was Here
 artists:
 - Kelis
+external_ids:
+  spotify: spotify:track:0Eu5SrReZzaJX0NLKI8tQS
 features:
 - Too $hort
-genres: []
+first_released_as_single: false
 key: bossy-kelis-too--hort
 lyrics_url: https://www.azlyrics.com/lyrics/kelis/bossy.html
 name: Bossy
@@ -88,10 +91,9 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '2006-09-30'
+release_year: 2006
+runtime: 274946
 ---
-
-
-
 Hey ya.
 You don't have to love me
 You don't even have to like me
@@ -178,6 +180,3 @@ Uh uh... watch the beat go...
 Uh uh... watch the beat go...
 Uh uh... watch the beat go...
 Uh uh...
-
-
-

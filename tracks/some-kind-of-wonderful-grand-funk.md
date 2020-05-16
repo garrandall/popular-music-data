@@ -1,8 +1,11 @@
 ---
+album: All The Girls In The World Beware!!!
 artists:
 - Grand Funk
+external_ids:
+  spotify: spotify:track:0z8NcXHuQGSWSWkyfVZVkp
 features: []
-genres: []
+first_released_as_single: false
 key: some-kind-of-wonderful-grand-funk
 lyrics_url: https://www.azlyrics.com/lyrics/grandfunkrailroad/somekindofwonderful.html
 name: Some Kind Of Wonderful
@@ -59,8 +62,9 @@ rankings:
   rank: 30
   ranking_list: Billboard Hot 100
   start_date: '1975-03-08'
+release_year: 1974
+runtime: 392733
 ---
-
 I don't need a whole lots of money,
 I don't need a big fine car.
 I got everything that a man could want,
@@ -116,4 +120,3 @@ Talkin' 'bout my baby, my baby, my baby.
 She's some kind of wonderful.
 I'm talkin' 'bout my baby, my baby, my baby.
 She's some kind of wonderful.
-

@@ -1,8 +1,11 @@
 ---
+album: All That Jazz
 artists:
 - Breathe
+external_ids:
+  spotify: spotify:track:0LBtQiEVfP4ysLQ43Do8uN
 features: []
-genres: []
+first_released_as_single: false
 key: hands-to-heaven-breathe
 lyrics_url: https://genius.com/Breathe-uk-hands-to-heaven-lyrics
 name: Hands To Heaven
@@ -123,6 +126,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1988-10-29'
+release_year: 1988
+runtime: 259506
 ---
 As I watch you move
 Across the moon-lit room

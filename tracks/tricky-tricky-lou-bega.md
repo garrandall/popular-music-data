@@ -1,8 +1,11 @@
 ---
+album: A Little Bit of Mambo
 artists:
 - Lou Bega
+external_ids:
+  spotify: spotify:track:4INRUdIART6zmdeLquiu5g
 features: []
-genres: []
+first_released_as_single: false
 key: tricky-tricky-lou-bega
 lyrics_url: https://www.azlyrics.com/lyrics/loubega/trickytricky.html
 name: Tricky Tricky
@@ -19,8 +22,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '2000-02-12'
+release_year: 1999
+runtime: 203133
 ---
-
 She likes bars, she likes diamonds, too
 She likes stars if they rendezvous
 She likes champagne to maintain her style
@@ -90,6 +94,3 @@ But she is pretty, pretty
 She is tricky, tricky
 But she is pretty, pretty
 So damn pretty
-
-
-

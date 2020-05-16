@@ -1,8 +1,11 @@
 ---
+album: All Jacked Up
 artists:
 - Gretchen Wilson
+external_ids:
+  spotify: spotify:track:1B9FG4cLQujWD1NVMVbJwY
 features: []
-genres: []
+first_released_as_single: false
 key: all-jacked-up-gretchen-wilson
 lyrics_url: https://www.azlyrics.com/lyrics/gretchenwilson/alljackedup.html
 name: All Jacked Up
@@ -51,8 +54,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2005-10-29'
+release_year: 2005
+runtime: 212520
 ---
-
 Hey yeah
 
 
@@ -120,6 +124,3 @@ All jacked up
 
 
 Yeah
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Talk Show
 artists:
 - Shae Jones
+external_ids:
+  spotify: spotify:track:7hx9lupBCq8SSr1Lm6l0on
 features: []
-genres: []
+first_released_as_single: false
 key: talk-show-shhh--shae-jones
 lyrics_url: https://genius.com/Shae-jones-talk-show-shhh-lyrics
 name: Talk Show Shhh!
@@ -43,6 +46,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1999-02-27'
+release_year: 1999
+runtime: 252818
 ---
 Who da hell you think you messin' wit
 Tryin' to play me like a fool

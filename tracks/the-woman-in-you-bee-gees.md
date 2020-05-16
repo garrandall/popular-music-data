@@ -1,8 +1,11 @@
 ---
+album: Staying Alive (Original Motion Picture Soundtrack)
 artists:
 - Bee Gees
+external_ids:
+  spotify: spotify:track:7EcsJXtKtUkzTa8mgjJKiE
 features: []
-genres: []
+first_released_as_single: false
 key: the-woman-in-you-bee-gees
 lyrics_url: https://genius.com/Bee-gees-the-woman-in-you-lyrics
 name: The Woman In You
@@ -51,6 +54,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1983-07-30'
+release_year: 1977
+runtime: 243933
 ---
 The woman in you brings out
 The man in me

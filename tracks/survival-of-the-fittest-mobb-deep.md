@@ -1,8 +1,11 @@
 ---
+album: The Infamous
 artists:
 - Mobb Deep
+external_ids:
+  spotify: spotify:track:0aN7PJCKmL4ZwTiR2P1uRY
 features: []
-genres: []
+first_released_as_single: false
 key: survival-of-the-fittest-mobb-deep
 lyrics_url: https://www.azlyrics.com/lyrics/mobbdeep/survivalofthefittest.html
 name: Survival Of The Fittest
@@ -55,8 +58,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1995-09-02'
+release_year: 1993
+runtime: 221973
 ---
-
 Yeah.. sendin this one out.. to my man Killa B
 No doubt indeed.. without weed.. knowhatI'msayin?
 That old real shit..
@@ -160,6 +164,3 @@ Look in the eyes and get wise
 Look alive, in ninety-five, word up
 Hypnotic thug life, get that ass paralyzed
 Knahmsayin? Mobb Deep and all that..
-
-
-

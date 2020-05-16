@@ -1,8 +1,11 @@
 ---
+album: Keepin' The Summer Alive
 artists:
 - The Beach Boys
+external_ids:
+  spotify: spotify:track:6bCRdroM3P50kDiswYECQh
 features: []
-genres: []
+first_released_as_single: false
 key: goin--on-the-beach-boys
 lyrics_url: https://genius.com/The-beach-boys-goin-on-lyrics
 name: Goin' On
@@ -19,6 +22,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1980-04-26'
+release_year: 1980
+runtime: 181826
 ---
 Oo oo oo oo going on
 

@@ -1,8 +1,11 @@
 ---
+album: If I Ever Fall In Love
 artists:
 - Shai
+external_ids:
+  spotify: spotify:track:1jCsCYgzQQHk3bDJDuFbNi
 features: []
-genres: []
+first_released_as_single: false
 key: if-i-ever-fall-in-love-shai
 lyrics_url: https://genius.com/Shai-if-i-ever-fall-in-love-lyrics
 name: If I Ever Fall In Love
@@ -115,6 +118,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1993-04-17'
+release_year: 1992
+runtime: 189026
 ---
 The very first time
 That I saw your brown eyes

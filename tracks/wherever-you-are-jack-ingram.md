@@ -1,8 +1,11 @@
 ---
+album: Wherever You Are
 artists:
 - Jack Ingram
+external_ids:
+  spotify: spotify:track:1uRvF355jFHDKrsUWEXkRF
 features: []
-genres: []
+first_released_as_single: false
 key: wherever-you-are-jack-ingram
 lyrics_url: https://genius.com/Jack-ingram-wherever-you-are-lyrics
 name: Wherever You Are
@@ -59,6 +62,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2006-06-17'
+release_year: 2005
+runtime: 215560
 ---
 This desert wind is burnin' my face again
 God I'm missin' you

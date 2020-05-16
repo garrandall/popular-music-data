@@ -1,8 +1,11 @@
 ---
+album: Mercury Lane
 artists:
 - Jimmie Allen
+external_ids:
+  spotify: spotify:track:0AYbVoeF03NYhM0fvKjAuU
 features: []
-genres: []
+first_released_as_single: false
 key: make-me-want-to-jimmie-allen
 lyrics_url: https://www.azlyrics.com/lyrics/jimmieallen/makemewantto.html
 name: Make Me Want To
@@ -47,8 +50,9 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '2020-03-14'
+release_year: 2018
+runtime: 172280
 ---
-
 Long legs, cut off jeans
 Pullin' me in like a magnet
 Your eyes locked on me
@@ -98,6 +102,3 @@ But you're gonna make me want to
 You're gonna make me want to
 You're gonna make me want to, girl, hah
 You're gonna make me want to, want to, I want you
-
-
-

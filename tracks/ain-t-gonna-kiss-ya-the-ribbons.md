@@ -1,8 +1,11 @@
 ---
+album: Hidden Treasures From The West Coast
 artists:
 - The Ribbons
+external_ids:
+  spotify: spotify:track:3dsUBREw7qg7VnT736SbNy
 features: []
-genres: []
+first_released_as_single: true
 key: ain-t-gonna-kiss-ya-the-ribbons
 lyrics_url: https://www.musixmatch.com/lyrics/The-Ribbons/Ain-t-Gonna-Kiss-Ya
 name: Ain't Gonna Kiss Ya
@@ -23,6 +26,8 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1963-02-23'
+release_year: 1963
+runtime: 144146
 ---
 (Oh)
 I cried my eyes out once before (sha la la la sha la la la la)

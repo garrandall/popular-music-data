@@ -1,10 +1,13 @@
 ---
+album: Tha Carter IV
 artists:
 - Lil Wayne
+external_ids:
+  spotify: spotify:track:5o5KX1f1JBQ2SxGzE8RQQA
 features:
 - Drake
 - Jadakiss
-genres: []
+first_released_as_single: false
 key: it-s-good-lil-wayne-drake-jadakiss
 lyrics_url: https://genius.com/Genius-traductions-francaises-lil-wayne-its-good-ft-drake-and-jadakiss-traduction-francaise-lyrics
 name: It's Good
@@ -13,6 +16,8 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '2011-09-17'
+release_year: 2011
+runtime: 241466
 ---
 You who are rich and whose troubles are few
 May come around to see my point of view

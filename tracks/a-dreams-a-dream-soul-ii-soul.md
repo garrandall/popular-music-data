@@ -1,8 +1,11 @@
 ---
+album: Volume II - 1990 A New Decade
 artists:
 - Soul II Soul
+external_ids:
+  spotify: spotify:track:6SGOR8yLKOxa6sB9p7mQPr
 features: []
-genres: []
+first_released_as_single: false
 key: a-dreams-a-dream-soul-ii-soul
 lyrics_url: https://genius.com/Soul-ii-soul-a-dreams-a-dream-lyrics
 name: A Dreams A Dream
@@ -27,6 +30,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1990-07-28'
+release_year: 1990
+runtime: 338866
 ---
 I can see, I can see, I can see, I can see
 I can see right through you

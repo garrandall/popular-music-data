@@ -1,8 +1,11 @@
 ---
+album: Soul Food
 artists:
 - Goodie Mob
+external_ids:
+  spotify: spotify:track:0DkC85poZvqdjAfwvtzuEY
 features: []
-genres: []
+first_released_as_single: false
 key: cell-therapy-goodie-mob
 lyrics_url: https://www.azlyrics.com/lyrics/goodiemob/celltherapy.html
 name: Cell Therapy
@@ -87,8 +90,9 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1996-02-24'
+release_year: 1995
+runtime: 277173
 ---
-
 When the scene unfolds
 Young girls thirteen years old
 Expose themselves to any Tom, Dick, and Hank
@@ -171,6 +175,3 @@ My name on your selections but I caught you coming POW!
 
 Who's that peeking in my window
 POW nobody now
-
-
-

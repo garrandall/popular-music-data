@@ -1,8 +1,11 @@
 ---
+album: Lady Wood
 artists:
 - Tove Lo
+external_ids:
+  spotify: spotify:track:3tJ4y2Zqx6gM9xOAuFfsSF
 features: []
-genres: []
+first_released_as_single: false
 key: cool-girl-tove-lo
 lyrics_url: https://www.azlyrics.com/lyrics/tovelo/coolgirl.html
 name: Cool Girl
@@ -27,8 +30,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2016-11-19'
+release_year: 2016
+runtime: 199179
 ---
-
 You can run free, I won't hold it against ya
 You do your thing, never wanted a future
 Fuck if I knew how to put it romantic
@@ -80,6 +84,3 @@ Too cool for you
 I'm a cool girl, I'm a, I'm a cool girl
 I'm a I'm a cool girl, I'm a, I'm a cool girl
 Ice cold, I roll my eyes at you, boy
-
-
-

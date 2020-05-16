@@ -1,8 +1,11 @@
 ---
+album: America's Greatest Hero
 artists:
 - Joey Scarbury
+external_ids:
+  spotify: spotify:track:2sGlc4yHQBoCD9xeKV7nr0
 features: []
-genres: []
+first_released_as_single: false
 key: when-she-dances-joey-scarbury
 lyrics_url: https://genius.com/Joey-scarbury-when-she-dances-lyrics
 name: When She Dances
@@ -43,6 +46,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1981-12-05'
+release_year: 1981
+runtime: 204440
 ---
 When she's walking down the street
 She might not even catch your eye

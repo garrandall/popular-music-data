@@ -1,8 +1,11 @@
 ---
+album: Expectations
 artists:
 - Bebe Rexha
+external_ids:
+  spotify: spotify:track:04ZTP5KsCypmtCmQg5tH9R
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-a-mess-bebe-rexha
 lyrics_url: https://genius.com/Bebe-rexha-im-a-mess-lyrics
 name: I'm A Mess
@@ -87,6 +90,8 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '2018-12-08'
+release_year: 2018
+runtime: 195519
 ---
 Everything's been so messed up here lately
 Pretty sure he don't wanna be my baby

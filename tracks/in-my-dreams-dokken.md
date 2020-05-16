@@ -1,8 +1,11 @@
 ---
+album: Under Lock And Key
 artists:
 - Dokken
+external_ids:
+  spotify: spotify:track:6x4KvNzBNTRmwBKvuNH0hc
 features: []
-genres: []
+first_released_as_single: false
 key: in-my-dreams-dokken
 lyrics_url: https://www.azlyrics.com/lyrics/dokken/inmydreams.html
 name: In My Dreams
@@ -35,8 +38,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1986-04-05'
+release_year: 1985
+runtime: 260093
 ---
-
 Toss and turn all night in the sheets
 I can't sleep
 Night after night don't know what it means
@@ -86,6 +90,3 @@ In my dreams--You'll always be
 In my dreams--your love is strong
 In my dreams--You're still the same
 In my dreams
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Big Dog Daddy
 artists:
 - Toby Keith
+external_ids:
+  spotify: spotify:track:1OIxqnC2Bc8fN91XSxQ8HX
 features: []
-genres: []
+first_released_as_single: false
 key: love-me-if-you-can-toby-keith
 lyrics_url: https://genius.com/Toby-keith-love-me-if-you-can-lyrics
 name: Love Me If You Can
@@ -75,6 +78,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2007-12-01'
+release_year: 2007
+runtime: 216866
 ---
 Sometimes think the war is necessary
 Every night I pray for peace on earth

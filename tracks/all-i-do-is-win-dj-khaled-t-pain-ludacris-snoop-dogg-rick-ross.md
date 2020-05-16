@@ -1,12 +1,15 @@
 ---
+album: Victory
 artists:
 - DJ Khaled
+external_ids:
+  spotify: spotify:track:75FT1IPlCYCs5DAYbR9mjE
 features:
 - T-Pain
 - Ludacris
 - Snoop Dogg
 - Rick Ross
-genres: []
+first_released_as_single: true
 key: all-i-do-is-win-dj-khaled-t-pain-ludacris-snoop-dogg-rick-ross
 lyrics_url: https://www.azlyrics.com/lyrics/djkhaled/allidoiswin.html
 name: All I Do Is Win
@@ -107,9 +110,10 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '2010-08-14'
+release_year: 2010
+runtime: 232506
 ---
-
- DJ Khaled!
+DJ Khaled!
  Hey! Yeah
  We the best!
 
@@ -226,6 +230,3 @@ Up down, up down, up down
 'Cause all I do is win, win, win
 And if you goin' in put your hands in the air
 Make them stay there
-
-
-

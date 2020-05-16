@@ -1,8 +1,11 @@
 ---
+album: 3LW
 artists:
 - 3LW
+external_ids:
+  spotify: spotify:track:30YDmzIrd6NV0cBog64v0y
 features: []
-genres: []
+first_released_as_single: false
 key: playas-gon--play-3lw
 lyrics_url: https://www.azlyrics.com/lyrics/3lw/playasgonplay.html
 name: Playas Gon' Play
@@ -35,9 +38,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2001-07-14'
+release_year: 1999
+runtime: 283000
 ---
-
-
 The hit maker
 The playas gon' play
 Them haters gonna hate
@@ -108,6 +111,3 @@ Haters gonna hate (yeah)
 Ballers gonna ball (oh, oh)
 Callers gonna call
 Yeah
-
-
-

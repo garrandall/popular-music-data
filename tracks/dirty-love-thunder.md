@@ -1,8 +1,11 @@
 ---
+album: Backstreet Symphony
 artists:
 - Thunder
+external_ids:
+  spotify: spotify:track:4hAx5iTGvFrF7GxyFyLvJR
 features: []
-genres: []
+first_released_as_single: false
 key: dirty-love-thunder
 lyrics_url: https://genius.com/Thunder-dirty-love-lyrics
 name: Dirty Love
@@ -59,6 +62,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1991-08-24'
+release_year: 1990
+runtime: 315586
 ---
 I see you walking by, you've got that faraway look in your eye
 It was only yesterday, like a cheap suit you were all over me

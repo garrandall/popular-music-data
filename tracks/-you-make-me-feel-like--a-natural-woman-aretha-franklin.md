@@ -1,8 +1,11 @@
 ---
+album: Lady Soul (With Bonus Selections)
 artists:
 - Aretha Franklin
+external_ids:
+  spotify: spotify:track:53ALi9RGILm7KucZGkX4Vo
 features: []
-genres: []
+first_released_as_single: true
 key: -you-make-me-feel-like--a-natural-woman-aretha-franklin
 lyrics_url: https://genius.com/Aretha-franklin-you-make-me-feel-like-a-natural-woman-lyrics
 name: (You Make Me Feel Like) A Natural Woman
@@ -43,6 +46,8 @@ rankings:
   rank: 33
   ranking_list: Billboard Hot 100
   start_date: '1967-11-25'
+release_year: 1967
+runtime: 164626
 ---
 Looking out on the morning rain
 I used to feel so uninspired

@@ -1,8 +1,11 @@
 ---
+album: Rally 'Round!
 artists:
 - The Brothers Four
+external_ids:
+  spotify: spotify:track:0maFYFOeM4ut7J0yz77RJd
 features: []
-genres: []
+first_released_as_single: false
 key: my-tani-the-brothers-four
 lyrics_url: https://genius.com/The-brothers-four-my-tani-lyrics
 name: My Tani
@@ -35,6 +38,8 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '1960-08-15'
+release_year: 1960
+runtime: 137826
 ---
 Farewell, my Tani
 Child of a coral sea

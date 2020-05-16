@@ -1,8 +1,11 @@
 ---
+album: The Purple People Eater
 artists:
 - Ben Colder
+external_ids:
+  spotify: spotify:track:2nFPONz0vMJZiMwlBYLVPw
 features: []
-genres: []
+first_released_as_single: false
 key: almost-persuaded-no-2-ben-colder
 lyrics_url: https://www.musixmatch.com/lyrics/Ben-Colder/Almost-Persuaded-No-2-Rerecorded
 name: Almost Persuaded No 2
@@ -31,6 +34,8 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '1966-11-05'
+release_year: 1966
+runtime: 199066
 ---
 Last night I stumbled in to a bar room
 I met a girl with a pint in her purse

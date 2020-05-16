@@ -1,9 +1,12 @@
 ---
+album: Rise
 artists:
 - Veronica
+external_ids:
+  spotify: spotify:track:2sCZAUsKc7nHf7LMIhcE3D
 features:
 - Craig Mack
-genres: []
+first_released_as_single: false
 key: no-one-but-you-veronica-craig-mack
 name: No One But You
 rankings:
@@ -59,5 +62,7 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1997-08-23'
+release_year: 1997
+runtime: 311133
 ---
 

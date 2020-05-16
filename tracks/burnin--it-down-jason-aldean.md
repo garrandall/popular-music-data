@@ -1,8 +1,11 @@
 ---
+album: Old Boots, New Dirt
 artists:
 - Jason Aldean
+external_ids:
+  spotify: spotify:track:5HJqpDspKDKwQpLjvkcIsD
 features: []
-genres: []
+first_released_as_single: false
 key: burnin--it-down-jason-aldean
 lyrics_url: https://www.azlyrics.com/lyrics/jasonaldean/burninitdown.html
 name: Burnin' It Down
@@ -87,8 +90,9 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '2014-12-20'
+release_year: 2014
+runtime: 219160
 ---
-
 You slip your finger through the tear in my t-shirt
 You stirrin' up dirty in the back of my mind
 You keep on flirtin' cause you know that it's workin'
@@ -164,6 +168,3 @@ I wanna rock it all night
 Baby girl, will you rock it out with me?
 I wanna crawl through the dark
 Just to feel your heart beat against me
-
-
-

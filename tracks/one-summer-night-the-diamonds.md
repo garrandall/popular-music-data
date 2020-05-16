@@ -1,8 +1,11 @@
 ---
+album: Live
 artists:
 - The Diamonds
+external_ids:
+  spotify: spotify:track:2WL4moGPyxOA0W2p0zJZPc
 features: []
-genres: []
+first_released_as_single: false
 key: one-summer-night-the-diamonds
 lyrics_url: https://genius.com/The-diamonds-one-summer-night-lyrics
 name: One Summer Night
@@ -43,6 +46,8 @@ rankings:
   rank: 37
   ranking_list: Billboard Hot 100
   start_date: '1961-08-28'
+release_year: 1961
+runtime: 152240
 ---
 One summer night
 We fell in love

@@ -1,8 +1,11 @@
 ---
+album: Sparkle
 artists:
 - Aretha Franklin
+external_ids:
+  spotify: spotify:track:6XoMz45RoRfRKGZmlwfbIn
 features: []
-genres: []
+first_released_as_single: false
 key: look-into-your-heart-aretha-franklin
 lyrics_url: https://www.azlyrics.com/lyrics/arethafranklin/lookintoyourheart.html
 name: Look Into Your Heart
@@ -23,8 +26,9 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1977-02-26'
+release_year: 1976
+runtime: 244866
 ---
-
 This one's for you Curtis
 I love you
 Doo doo doo doo
@@ -75,6 +79,3 @@ Say mercy baby
 I'm loving you more
 Mercy baby, mercy baby
 Mercy baby
-
-
-

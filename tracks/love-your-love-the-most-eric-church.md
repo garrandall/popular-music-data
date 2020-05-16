@@ -1,8 +1,11 @@
 ---
+album: Carolina
 artists:
 - Eric Church
+external_ids:
+  spotify: spotify:track:6HLciiLMPssno4lT4gbObT
 features: []
-genres: []
+first_released_as_single: false
 key: love-your-love-the-most-eric-church
 lyrics_url: https://www.azlyrics.com/lyrics/ericchurch/loveyourlovethemost.html
 name: Love Your Love The Most
@@ -71,8 +74,9 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '2009-10-24'
+release_year: 2009
+runtime: 170386
 ---
-
 I love sleeping in on Saturdays
 And I love college football games
 I love not acting my age
@@ -112,6 +116,3 @@ Yea I love your love
 I love your love the most
 
 I love your love the most
-
-
-

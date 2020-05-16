@@ -1,8 +1,11 @@
 ---
+album: "\xF7"
 artists:
 - Ed Sheeran
+external_ids:
+  spotify: spotify:track:2pJZ1v8HezrAoZ0Fhzby92
 features: []
-genres: []
+first_released_as_single: false
 key: what-do-i-know--ed-sheeran
 lyrics_url: https://genius.com/Ed-sheeran-what-do-i-know-lyrics
 name: What Do I Know?
@@ -11,6 +14,8 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '2017-03-25'
+release_year: 2017
+runtime: 237333
 ---
 Ain't got a soapbox I can stand upon
 But God gave me a stage, a guitar and a song

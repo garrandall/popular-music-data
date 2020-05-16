@@ -1,10 +1,13 @@
 ---
+album: Con Calma (Remix)
 artists:
 - Daddy Yankee
 - Katy Perry
+external_ids:
+  spotify: spotify:track:4au7FRcgZzChASRYu279xH
 features:
 - Snow
-genres: []
+first_released_as_single: true
 key: con-calma-daddy-yankee-katy-perry-snow
 lyrics_url: https://genius.com/Genius-traducciones-al-espanol-daddy-yankee-con-calma-ft-katy-perry-and-snow-traduccion-al-espanol-lyrics
 name: Con Calma
@@ -109,6 +112,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2019-08-03'
+release_year: 2019
+runtime: 181280
 ---
 D-D-D-D-D-DY
 ¡Ay, Daddy!

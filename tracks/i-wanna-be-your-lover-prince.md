@@ -1,8 +1,11 @@
 ---
+album: Prince
 artists:
 - Prince
+external_ids:
+  spotify: spotify:track:4yrM5BVyJzy5Ed4GPO6e8j
 features: []
-genres: []
+first_released_as_single: false
 key: i-wanna-be-your-lover-prince
 lyrics_url: https://genius.com/Prince-i-wanna-be-your-lover-lyrics
 name: I Wanna Be Your Lover
@@ -71,6 +74,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1980-03-08'
+release_year: 1979
+runtime: 347666
 ---
 I ain't got no money
 I ain't like those other guys you hang around

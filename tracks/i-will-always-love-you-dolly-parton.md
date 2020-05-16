@@ -1,8 +1,11 @@
 ---
+album: Jolene
 artists:
 - Dolly Parton
+external_ids:
+  spotify: spotify:track:77bNe6jYY8yHdP7orXrz5I
 features: []
-genres: []
+first_released_as_single: false
 key: i-will-always-love-you-dolly-parton
 lyrics_url: https://genius.com/Dolly-parton-i-will-always-love-you-lyrics
 name: I Will Always Love You
@@ -63,6 +66,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1982-10-30'
+release_year: 1974
+runtime: 176093
 ---
 If I should stay
 I would only be in your way

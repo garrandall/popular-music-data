@@ -1,8 +1,11 @@
 ---
+album: 'The Magic Touch: An Anthology'
 artists:
 - The Platters
+external_ids:
+  spotify: spotify:track:56ZVFMZT1OJK8h5fnsk0Yp
 features: []
-genres: []
+first_released_as_single: false
 key: to-each-his-own-the-platters
 lyrics_url: https://www.azlyrics.com/lyrics/platters/toeachhisown.html
 name: To Each His Own
@@ -51,8 +54,9 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1960-12-19'
+release_year: 1960
+runtime: 168600
 ---
-
 A rose must remain with the sun and the rain
 Or its lovely promise won't come true
 To each his own, to each his own
@@ -73,4 +77,3 @@ Two lips must insist on two more to be kissed
 Or they'll never know what love can do
 To each his own, I've found my own
 One and only you
-

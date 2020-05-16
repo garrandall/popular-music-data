@@ -1,8 +1,11 @@
 ---
+album: Fresh
 artists:
 - Gina G
+external_ids:
+  spotify: spotify:track:2ugmMZ7FKTSLfcZy6pKeMW
 features: []
-genres: []
+first_released_as_single: true
 key: gimme-some-love-gina-g
 lyrics_url: https://genius.com/Gina-g-gimme-some-love-lyrics
 name: Gimme Some Love
@@ -51,6 +54,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1997-08-23'
+release_year: 1997
+runtime: 214226
 ---
 Gimme gimme Whoo-o! Whoo-o!
 Sweet as honey your lips like taste

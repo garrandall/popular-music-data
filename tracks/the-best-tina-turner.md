@@ -1,8 +1,11 @@
 ---
+album: Foreign Affair
 artists:
 - Tina Turner
+external_ids:
+  spotify: spotify:track:6pPWRBubXOBAHnjl5ZIujB
 features: []
-genres: []
+first_released_as_single: false
 key: the-best-tina-turner
 lyrics_url: https://genius.com/Tina-turner-the-best-lyrics
 name: The Best
@@ -63,6 +66,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1989-12-02'
+release_year: 1989
+runtime: 329800
 ---
 I call you when I need you, my heart's on fire
 You come to me, come to me, wild and wild

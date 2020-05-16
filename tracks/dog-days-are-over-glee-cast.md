@@ -1,8 +1,11 @@
 ---
+album: Glee The 3D Concert Movie (Motion Picture Soundtrack)
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:2zphznHEwLRNCC6P1lJoIX
 features: []
-genres: []
+first_released_as_single: false
 key: dog-days-are-over-glee-cast
 lyrics_url: https://www.azlyrics.com/lyrics/gleecast/dogdaysareover.html
 name: Dog Days Are Over
@@ -11,8 +14,9 @@ rankings:
   rank: 22
   ranking_list: Billboard Hot 100
   start_date: '2010-12-18'
+release_year: 2010
+runtime: 178893
 ---
-
 Happiness hit her like a train on a track
 Coming towards her, stuck still no turning back
 She hid around corners and she hid under beds
@@ -60,6 +64,3 @@ Because here they come
 The dog days are over
 The dog days are gone
 Can you hear the horses because here they come
-
-
-

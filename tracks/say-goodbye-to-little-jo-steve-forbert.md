@@ -1,8 +1,11 @@
 ---
+album: School Girl (Live)
 artists:
 - Steve Forbert
+external_ids:
+  spotify: spotify:track:3B0wYiCaP3zt7IdM1zqp9R
 features: []
-genres: []
+first_released_as_single: false
 key: say-goodbye-to-little-jo-steve-forbert
 lyrics_url: https://genius.com/Steve-forbert-say-goodbye-to-little-jo-lyrics
 name: Say Goodbye To Little Jo
@@ -19,6 +22,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1980-04-26'
+release_year: 1980
+runtime: 212533
 ---
 Just say goodbye to Little Jo…
 Just turn her loose now let her go…

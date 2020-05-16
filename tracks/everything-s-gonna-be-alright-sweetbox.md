@@ -1,8 +1,11 @@
 ---
+album: Sweetbox
 artists:
 - Sweetbox
+external_ids:
+  spotify: spotify:track:6py0PTKnxW23Pbh2g8dMJn
 features: []
-genres: []
+first_released_as_single: true
 key: everything-s-gonna-be-alright-sweetbox
 lyrics_url: https://genius.com/Sweetbox-everythings-gonna-be-alright-lyrics
 name: Everything's Gonna Be Alright
@@ -39,6 +42,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1998-11-28'
+release_year: 1997
+runtime: 194133
 ---
 Everything's gonna be alright
 Everything's gonna be alright

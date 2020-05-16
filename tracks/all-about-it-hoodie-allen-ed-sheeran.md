@@ -1,9 +1,12 @@
 ---
+album: People Keep Talking
 artists:
 - Hoodie Allen
+external_ids:
+  spotify: spotify:track:2rvHIXjN4TCFuFLZk3qAxn
 features:
 - Ed Sheeran
-genres: []
+first_released_as_single: false
 key: all-about-it-hoodie-allen-ed-sheeran
 lyrics_url: https://www.azlyrics.com/lyrics/hoodieallen/allaboutit.html
 name: All About It
@@ -24,9 +27,9 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '2015-02-14'
+release_year: 2014
+runtime: 205733
 ---
-
-
 Cause I got soul and I won't quit
 And your dad don't like it when I talk my shit
 Cause I'm all about it baby
@@ -81,6 +84,3 @@ And they don't know anything about us
 Or anything about us
 Or anything about it
 No, no, no
-
-
-

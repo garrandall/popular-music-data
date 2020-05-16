@@ -1,8 +1,11 @@
 ---
+album: The Complete Season 5 Collection (The Voice Performance)
 artists:
 - Tessanne Chin
+external_ids:
+  spotify: spotify:track:6m4fTMuS7abW0LRWZTLsrh
 features: []
-genres: []
+first_released_as_single: false
 key: bridge-over-troubled-water-tessanne-chin
 lyrics_url: https://genius.com/Tessanne-chin-bridge-over-troubled-water-lyrics
 name: Bridge Over Troubled Water
@@ -11,6 +14,8 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '2013-12-28'
+release_year: 2013
+runtime: 222149
 ---
 When you're weary, feeling small
 When tears are in your eyes, I'll dry them all (all)

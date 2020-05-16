@@ -1,8 +1,11 @@
 ---
+album: Music For A First Love
 artists:
 - Dinah Washington
+external_ids:
+  spotify: spotify:track:4dJBODV6g7zryS6HpszS5M
 features: []
-genres: []
+first_released_as_single: false
 key: i-want-to-be-loved-dinah-washington
 lyrics_url: https://genius.com/Dinah-washington-i-want-to-be-loved-lyrics
 name: I Want To Be Loved
@@ -23,6 +26,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1962-09-08'
+release_year: 1956
+runtime: 175440
 ---
 I wanna be loved with inspirationI wanna be loved starting
 TonightInstead of merely holding conversationHold me tightI

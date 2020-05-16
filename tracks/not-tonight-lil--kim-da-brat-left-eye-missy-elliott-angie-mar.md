@@ -1,12 +1,15 @@
 ---
+album: Not Tonight EP
 artists:
 - Lil' Kim
+external_ids:
+  spotify: spotify:track:42OhQBFNIbMyxRGxyPOvQA
 features:
 - Da Brat
 - Left Eye
 - Missy Elliott
 - Angie Mar
-genres: []
+first_released_as_single: true
 key: not-tonight-lil--kim-da-brat-left-eye-missy-elliott-angie-mar
 lyrics_url: https://genius.com/Lil-kim-not-tonight-ladies-night-remix-lyrics
 name: Not Tonight
@@ -95,6 +98,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1997-11-29'
+release_year: 1997
+runtime: 252520
 ---
 Uh, yeah
 Uhh, here's another one, and another one

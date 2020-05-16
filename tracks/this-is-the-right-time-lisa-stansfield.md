@@ -1,8 +1,11 @@
 ---
+album: Affection
 artists:
 - Lisa Stansfield
+external_ids:
+  spotify: spotify:track:2KiKOu7DDtGVnYhYFEuySQ
 features: []
-genres: []
+first_released_as_single: false
 key: this-is-the-right-time-lisa-stansfield
 lyrics_url: https://www.azlyrics.com/lyrics/lisastansfield/thisistherighttime.html
 name: This Is The Right Time
@@ -59,8 +62,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1990-11-10'
+release_year: 1989
+runtime: 271066
 ---
-
 This is the right time to believe in love
 
 Everyone knows if you don't demand, it shows
@@ -117,6 +121,3 @@ This is the right time
 This is the right time 
 I can see it in your eyes
 This is the right time to believe in love
-
-
-

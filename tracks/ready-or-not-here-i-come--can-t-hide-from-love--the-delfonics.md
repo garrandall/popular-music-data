@@ -1,8 +1,11 @@
 ---
+album: The Sound Of Sexy Soul
 artists:
 - The Delfonics
+external_ids:
+  spotify: spotify:track:5RnlUyTKgmd7V6tXdQcKVK
 features: []
-genres: []
+first_released_as_single: false
 key: ready-or-not-here-i-come--can-t-hide-from-love--the-delfonics
 lyrics_url: https://genius.com/The-delfonics-ready-or-not-here-i-come-lyrics
 name: Ready Or Not Here I Come (Can't Hide From Love)
@@ -43,6 +46,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1969-02-01'
+release_year: 1968
+runtime: 119466
 ---
 Ready, get ready
 

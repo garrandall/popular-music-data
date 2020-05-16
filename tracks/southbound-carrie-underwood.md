@@ -1,8 +1,11 @@
 ---
+album: Cry Pretty
 artists:
 - Carrie Underwood
+external_ids:
+  spotify: spotify:track:7qXPZxXn6Xmv1sjh03skiW
 features: []
-genres: []
+first_released_as_single: false
 key: southbound-carrie-underwood
 lyrics_url: https://www.azlyrics.com/lyrics/carrieunderwood/southbound.html
 name: Southbound
@@ -59,8 +62,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2019-10-19'
+release_year: 2018
+runtime: 202853
 ---
-
 We got a pontoon boat with a Yamaha
 People dressed like they're in Panama
 Small town, spring break
@@ -133,6 +137,3 @@ Get a little southbound, southbound
 Let's get a little southbound, southbound
 Get a little southbound, southbound
 Oh, yeah
-
-
-

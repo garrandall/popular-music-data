@@ -1,8 +1,11 @@
 ---
+album: Happy Hour
 artists:
 - Uncle Kracker
+external_ids:
+  spotify: spotify:track:4ZC8hXXqu2hPcDLw9QTdtQ
 features: []
-genres: []
+first_released_as_single: false
 key: smile-uncle-kracker
 lyrics_url: https://www.azlyrics.com/lyrics/unclekracker/smile.html
 name: Smile
@@ -139,8 +142,9 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2010-10-02'
+release_year: 2009
+runtime: 201626
 ---
-
 You're better than the best
 I'm lucky just to linger in your light
 Cooler than the flip-side of my pillow (that's right)
@@ -210,6 +214,3 @@ Oh, you make me smile
 Oh, you make me smile
 (Oh, you make me smile)
 Oh, you make me smile
-
-
-

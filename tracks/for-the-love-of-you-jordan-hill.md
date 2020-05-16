@@ -1,8 +1,11 @@
 ---
+album: Jordan Hill
 artists:
 - Jordan Hill
+external_ids:
+  spotify: spotify:track:3sdABmOo4JklRUxpE802s7
 features: []
-genres: []
+first_released_as_single: false
 key: for-the-love-of-you-jordan-hill
 lyrics_url: https://genius.com/Jordan-hill-for-the-love-of-you-lyrics
 name: For The Love Of You
@@ -39,6 +42,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1996-07-27'
+release_year: 1996
+runtime: 276400
 ---
 Tell me what can I say
 Baby, what can I do just to get through to you

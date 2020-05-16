@@ -1,8 +1,12 @@
 ---
+album: Think!
 artists:
-- James Brown And The Famous Flames
-features: []
-genres: []
+- James Brown
+external_ids:
+  spotify: spotify:track:5WSG0pIDnY9ba67KgH8RHy
+features:
+- The Famous Flames
+first_released_as_single: false
 key: baby-you-re-right-james-brown-and-the-famous-flames
 lyrics_url: https://genius.com/James-brown-and-the-famous-flames-baby-youre-right-lyrics
 name: Baby You're Right
@@ -23,6 +27,8 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '1961-09-11'
+release_year: 1960
+runtime: 188333
 ---
 If you think I love you
 Well, baby, you're right

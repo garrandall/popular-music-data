@@ -1,8 +1,11 @@
 ---
+album: Quarantunes
 artists:
 - Ali Gatie
+external_ids:
+  spotify: spotify:track:74D7JUfU6HYeMx4bZhsHnG
 features: []
-genres: []
+first_released_as_single: true
 key: what-if-i-told-you-that-i-love-you-ali-gatie
 lyrics_url: https://genius.com/Ali-gatie-what-if-i-told-you-that-i-love-you-lyrics
 name: What If I Told You That I Love You
@@ -11,6 +14,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2020-02-08'
+release_year: 2020
+runtime: 193667
 ---
 What if I told you that I love you?
 Would you tell me that you love me back?

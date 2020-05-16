@@ -1,8 +1,11 @@
 ---
+album: Daytime Friends
 artists:
 - Kenny Rogers
+external_ids:
+  spotify: spotify:track:6lLuXzXjjgm1yL6IuaWTCL
 features: []
-genres: []
+first_released_as_single: false
 key: sweet-music-man-kenny-rogers
 lyrics_url: https://genius.com/Kenny-rogers-sweet-music-man-lyrics
 name: Sweet Music Man
@@ -39,6 +42,8 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1978-02-04'
+release_year: 1977
+runtime: 261306
 ---
 I wouldn't listen, and I couldn't see
 And all I have left now

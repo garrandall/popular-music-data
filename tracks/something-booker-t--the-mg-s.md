@@ -1,9 +1,12 @@
 ---
+album: Soul Men
 artists:
 - Booker T.
 - The MG's
+external_ids:
+  spotify: spotify:track:0tpK8quqorBMekZyoR2Aru
 features: []
-genres: []
+first_released_as_single: false
 key: something-booker-t--the-mg-s
 name: Something
 rankings:
@@ -23,5 +26,7 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1970-08-15'
+release_year: 1970
+runtime: 249240
 ---
 

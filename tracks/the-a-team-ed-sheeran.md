@@ -1,8 +1,11 @@
 ---
+album: +
 artists:
 - Ed Sheeran
+external_ids:
+  spotify: spotify:track:6D9w7wnOtoViu0yX6lmCsy
 features: []
-genres: []
+first_released_as_single: true
 key: the-a-team-ed-sheeran
 lyrics_url: https://genius.com/Ed-sheeran-the-a-team-lyrics
 name: The A Team
@@ -139,6 +142,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '2013-03-09'
+release_year: 2011
+runtime: 228783
 ---
 White lips, pale face
 Breathing in the snowflakes

@@ -1,8 +1,11 @@
 ---
+album: Head On
 artists:
 - Bachman-Turner Overdrive
+external_ids:
+  spotify: spotify:track:2t7nOIw5cbz12lyIgIaNDB
 features: []
-genres: []
+first_released_as_single: false
 key: down-to-the-line-bachman-turner-overdrive
 lyrics_url: https://www.azlyrics.com/lyrics/btobachmanturneroverdrive/downtotheline.html
 name: Down To The Line
@@ -35,8 +38,9 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1976-01-17'
+release_year: 1975
+runtime: 241320
 ---
-
 I've made up my mind,
 I've got to get out in a hurry
 I've stated my case
@@ -75,4 +79,3 @@ You know I made it all right (Down to the line)
 Stayed up all night (Down to the line)
 It's the way to live love (Down to the line)
 It's the way to love life (Down to the line)
-

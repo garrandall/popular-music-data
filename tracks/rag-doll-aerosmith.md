@@ -1,8 +1,11 @@
 ---
+album: Permanent Vacation
 artists:
 - Aerosmith
+external_ids:
+  spotify: spotify:track:2KCJYwlBWxdlwyIYckIf6V
 features: []
-genres: []
+first_released_as_single: false
 key: rag-doll-aerosmith
 lyrics_url: https://www.azlyrics.com/lyrics/aerosmith/ragdoll.html
 name: Rag Doll
@@ -75,9 +78,9 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1988-09-24'
+release_year: 1987
+runtime: 265693
 ---
-
-
 Rag Doll livin' in a movie
 Hot tramp Daddy's little cutie
 You're so fine they'll never see ya leavin' by the back door, mam
@@ -125,4 +128,3 @@ Yes I'm movin'
 I'm really movin'
 Sloe Gin Fizzy, do it till you're dizzy
 Give it all ya got until you're put out of your misery
-

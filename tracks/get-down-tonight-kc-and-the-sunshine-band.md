@@ -1,8 +1,11 @@
 ---
+album: KC and the Sunshine Band
 artists:
 - KC And The Sunshine Band
+external_ids:
+  spotify: spotify:track:0bqVfQ9d21HEFItGpia2fD
 features: []
-genres: []
+first_released_as_single: true
 key: get-down-tonight-kc-and-the-sunshine-band
 lyrics_url: https://genius.com/Kc-and-the-sunshine-band-get-down-tonight-lyrics
 name: Get Down Tonight
@@ -67,6 +70,8 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '1975-10-18'
+release_year: 1974
+runtime: 192040
 ---
 Baby, baby
 Let's get together

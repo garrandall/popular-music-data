@@ -1,10 +1,13 @@
 ---
+album: Father Of Asahd
 artists:
 - DJ Khaled
+external_ids:
+  spotify: spotify:track:0b6UoVjUzFyZNpHI0aAhKt
 features:
 - Travis Scott
 - Post Malone
-genres: []
+first_released_as_single: false
 key: celebrate-dj-khaled-travis-scott-post-malone
 lyrics_url: https://www.azlyrics.com/lyrics/djkhaled/celebrate.html
 name: Celebrate
@@ -13,8 +16,9 @@ rankings:
   rank: 52
   ranking_list: Billboard Hot 100
   start_date: '2019-06-01'
+release_year: 2019
+runtime: 206498
 ---
-
 We The Best Music
 Anotha' one
 DJ Khaled
@@ -100,6 +104,3 @@ It's always love
 (We The Best Music)
 Ain't no love, ain't no love lost
 (Ain't no love lost, ain't no love lost, ain't no love lost, ain't no love lost)
-
-
-

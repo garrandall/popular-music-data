@@ -1,8 +1,11 @@
 ---
+album: Promise
 artists:
 - Sade
+external_ids:
+  spotify: spotify:track:5YFHL9JR0zirb0wAre9khT
 features: []
-genres: []
+first_released_as_single: false
 key: never-as-good-as-the-first-time-sade
 lyrics_url: https://www.azlyrics.com/lyrics/sade/neverasgoodasthefirsttime.html
 name: Never As Good As The First Time
@@ -55,8 +58,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1986-06-14'
+release_year: 1985
+runtime: 299506
 ---
-
 Good times they come and they go
 Never going to know
 What fate is going to blow
@@ -112,6 +116,3 @@ It's never
 As good as the first time
 As the first time (never as good as the first time)
 The first time
-
-
-

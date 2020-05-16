@@ -1,8 +1,11 @@
 ---
+album: Cast Your Fate to the Wind
 artists:
 - Sounds Orchestral
+external_ids:
+  spotify: spotify:track:38KTIenSEnoGNGLUrYdFLV
 features: []
-genres: []
+first_released_as_single: false
 key: cast-your-fate-to-the-wind-sounds-orchestral
 lyrics_url: https://genius.com/Sounds-orchestral-cast-your-fate-to-the-wind-lyrics
 name: Cast Your Fate To The Wind
@@ -63,6 +66,8 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '1965-06-19'
+release_year: 1962
+runtime: 195000
 ---
 A month of nights, a year of days
 Octobers drifting into Mays

@@ -1,8 +1,11 @@
 ---
+album: The Essential Floyd Cramer
 artists:
 - Floyd Cramer
+external_ids:
+  spotify: spotify:track:4OuL5STprD6xGnjIhMDpdh
 features: []
-genres: []
+first_released_as_single: false
 key: chattanooga-choo-choo-floyd-cramer
 lyrics_url: https://genius.com/Floyd-cramer-chattanooga-choo-choo-lyrics
 name: Chattanooga Choo Choo
@@ -39,6 +42,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1962-03-10'
+release_year: 1962
+runtime: 123826
 ---
 Pardon me boy
 Is that the chattanooga choo choo

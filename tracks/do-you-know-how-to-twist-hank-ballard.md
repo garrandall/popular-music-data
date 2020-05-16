@@ -1,8 +1,11 @@
 ---
+album: All 20 Of Their Chart Hits 1953-1962
 artists:
 - Hank Ballard
+external_ids:
+  spotify: spotify:track:28eh8ss65QwJ0h2wM80LdI
 features: []
-genres: []
+first_released_as_single: false
 key: do-you-know-how-to-twist-hank-ballard
 lyrics_url: https://genius.com/Hank-ballard-and-the-midnighters-do-you-know-how-to-twist-lyrics
 name: Do You Know How To Twist
@@ -23,6 +26,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1962-03-10'
+release_year: 1962
+runtime: 147453
 ---
 Do you know how to twist
 If you don't, I'll show you how

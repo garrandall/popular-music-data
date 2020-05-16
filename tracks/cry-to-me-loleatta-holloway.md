@@ -1,8 +1,11 @@
 ---
+album: Cry to Me
 artists:
 - Loleatta Holloway
+external_ids:
+  spotify: spotify:track:4nukRzBYAvqhLP1OfHpEOk
 features: []
-genres: []
+first_released_as_single: false
 key: cry-to-me-loleatta-holloway
 lyrics_url: https://genius.com/Loleatta-holloway-cry-to-me-lyrics
 name: Cry To Me
@@ -31,6 +34,8 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '1975-04-19'
+release_year: 1975
+runtime: 348600
 ---
 "baby, I see you packing
 But it's no surprise for me

@@ -1,8 +1,11 @@
 ---
+album: Kansas
 artists:
 - Kansas
+external_ids:
+  spotify: spotify:track:3AGy4j1jHjLfsXM1pGFBGz
 features: []
-genres: []
+first_released_as_single: false
 key: lonely-wind-kansas
 lyrics_url: https://www.azlyrics.com/lyrics/kansas/lonelywind.html
 name: Lonely Wind
@@ -27,8 +30,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1979-02-17'
+release_year: 1974
+runtime: 257533
 ---
-
 When I'm needin' a friend I can talk to the wind
 God I sure am glad that I found him
 Sometimes he seems to be the only one beside me
@@ -57,4 +61,3 @@ I'll be leaving him soon 'cause I've got to make room
 For the lonely that will find him tomorrow
 On a black stormy night in your bosom I'll cling
 And I'll know I've found love and the last song we'll sing
-

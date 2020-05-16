@@ -1,9 +1,12 @@
 ---
+album: The Mamas & The Papas
 artists:
 - The Mamas
 - The Papas
+external_ids:
+  spotify: spotify:track:1Vv7ZtyDro81xmznV48gF6
 features: []
-genres: []
+first_released_as_single: false
 key: dancing-in-the-street-the-mamas-the-papas
 lyrics_url: https://www.azlyrics.com/lyrics/mamasandthepapas/dancinginthestreet.html
 name: Dancing In The Street
@@ -32,8 +35,9 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '1967-01-21'
+release_year: 1966
+runtime: 229106
 ---
-
 Callin' out around the world -
 Are you ready for a brand new beat?
 Summer's here and the time is right
@@ -92,6 +96,3 @@ Manchester? (And, oh, Amherst, Amherst)
 Alexandria? (Virginia, Virginia)
 Falls Church (Where's that?)(Alabama)
 Oh Boyle Heights! (Boyle Heights, never heard of it)
-
-
-

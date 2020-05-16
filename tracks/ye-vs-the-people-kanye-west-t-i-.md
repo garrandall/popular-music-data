@@ -1,9 +1,12 @@
 ---
+album: Ye vs. the People (starring TI as the People)
 artists:
 - Kanye West
+external_ids:
+  spotify: spotify:track:3SgxTQVywhDVAVhMhhfbCl
 features:
 - T.I.
-genres: []
+first_released_as_single: true
 key: ye-vs-the-people-kanye-west-t-i-
 lyrics_url: https://www.azlyrics.com/lyrics/kanyewest/yevsthepeople.html
 name: Ye vs The People
@@ -12,9 +15,9 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '2018-05-12'
+release_year: 2018
+runtime: 202641
 ---
-
-
 Oh, oh
 Oh, oh
 Oh, oh
@@ -104,6 +107,3 @@ But if Ye's just stuck in his way, he can leave it at that
 Fuck it
 
 Alright T.I.P., we could be rappin' about this all day, man, why don't we just cut the beat off and let the people talk?
-
-
-

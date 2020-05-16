@@ -1,8 +1,11 @@
 ---
+album: Somethin' Else!!
 artists:
 - Jackie Wilson
+external_ids:
+  spotify: spotify:track:53437y5LWc8gDEGlgUrsqd
 features: []
-genres: []
+first_released_as_single: false
 key: big-boss-line-jackie-wilson
 lyrics_url: https://www.azlyrics.com/lyrics/jackiewilson/bigbossline.html
 name: Big Boss Line
@@ -11,6 +14,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1964-05-23'
+release_year: 1964
+runtime: 171586
 ---
 Ooowwwww
 

@@ -1,8 +1,11 @@
 ---
+album: Men Without Women
 artists:
 - Little Steven
+external_ids:
+  spotify: spotify:track:5se9d80Rf1cE4Ix8pnGBB2
 features: []
-genres: []
+first_released_as_single: false
 key: forever-little-steven
 lyrics_url: https://www.musixmatch.com/lyrics/Little-Steven-feat-The-Disciples-of-Soul/Forever-1999-Digital-Remaster
 name: Forever
@@ -43,6 +46,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1983-02-19'
+release_year: 1982
+runtime: 235173
 ---
 Well, I don't think that this is the original key
 But I use to play the song with those chords, have fun

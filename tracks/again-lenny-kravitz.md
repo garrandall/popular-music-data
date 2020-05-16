@@ -1,8 +1,11 @@
 ---
+album: Again
 artists:
 - Lenny Kravitz
+external_ids:
+  spotify: spotify:track:5c1QJAiC3773EwiZLwHf5x
 features: []
-genres: []
+first_released_as_single: true
 key: again-lenny-kravitz
 lyrics_url: https://genius.com/Lenny-kravitz-again-lyrics
 name: Again
@@ -135,6 +138,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '2001-06-23'
+release_year: 2000
+runtime: 231666
 ---
 I've been searching for you
 I heard a cry within my soul

@@ -1,8 +1,11 @@
 ---
+album: I Need Time
 artists:
 - Bloodstone
+external_ids:
+  spotify: spotify:track:226wE6UTj1RvgG1lkWtzd8
 features: []
-genres: []
+first_released_as_single: false
 key: that-s-not-how-it-goes-bloodstone
 lyrics_url: https://www.musixmatch.com/lyrics/Bloodstone/That-s-Not-How-It-Goes
 name: That's Not How It Goes
@@ -31,6 +34,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1974-08-31'
+release_year: 1974
+runtime: 182826
 ---
 Say it isn't so
 That's not how it goes

@@ -1,8 +1,11 @@
 ---
+album: Red Roses For A Blue Lady
 artists:
 - Wayne Newton
+external_ids:
+  spotify: spotify:track:5aKfKf7YIZOg0S8P1hNJjw
 features: []
-genres: []
+first_released_as_single: false
 key: red-roses-for-a-blue-lady-wayne-newton
 lyrics_url: https://genius.com/Wayne-newton-red-roses-for-a-blue-lady-lyrics
 name: Red Roses For A Blue Lady
@@ -43,6 +46,8 @@ rankings:
   rank: 33
   ranking_list: Billboard Hot 100
   start_date: '1965-04-24'
+release_year: 1965
+runtime: 143066
 ---
 I Want Some
 Red roses for a blue lady

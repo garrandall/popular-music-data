@@ -1,8 +1,11 @@
 ---
+album: Super Hits
 artists:
 - Mickey Gilley
+external_ids:
+  spotify: spotify:track:2OyOFtPKYtHHUxFSjR8v0x
 features: []
-genres: []
+first_released_as_single: false
 key: room-full-of-roses-mickey-gilley
 lyrics_url: https://www.azlyrics.com/lyrics/mickeygilley/roomfullofroses.html
 name: Room Full Of Roses
@@ -51,8 +54,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1974-08-17'
+release_year: 1974
+runtime: 167893
 ---
-
 If I sent a rose to you
 For every time you made me blue
 You'd have a room full of roses
@@ -79,6 +83,3 @@ If someday you're feeling blue
 And you could send a roses, maybe too
 Don't send me a room full of roses
 But I want my arms around you
-
-
-

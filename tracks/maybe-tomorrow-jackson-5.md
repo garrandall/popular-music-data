@@ -1,8 +1,11 @@
 ---
+album: Maybe Tomorrow
 artists:
 - Jackson 5
+external_ids:
+  spotify: spotify:track:06MqTHZ1JUJc6CNYL24LbJ
 features: []
-genres: []
+first_released_as_single: false
 key: maybe-tomorrow-jackson-5
 lyrics_url: https://www.azlyrics.com/lyrics/jackson5/maybetomorrow119287.html
 name: Maybe Tomorrow
@@ -43,8 +46,9 @@ rankings:
   rank: 33
   ranking_list: Billboard Hot 100
   start_date: '1971-09-04'
+release_year: 1971
+runtime: 284573
 ---
-
 I don't know how many stars there are
 Up in the heavenly sky
 I only know my heaven it's here on earth
@@ -120,6 +124,3 @@ Maybe tomorrow
 You'll come back to my arms, girl
 
 You are the song that I sing
-
-
-

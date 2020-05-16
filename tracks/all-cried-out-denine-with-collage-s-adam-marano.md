@@ -1,8 +1,12 @@
 ---
+album: Ep
 artists:
-- Denine With Collage's Adam Marano
-features: []
-genres: []
+- Denine
+external_ids:
+  spotify: spotify:track:7zjU4RD8mvIQfU4oSjhTyd
+features:
+- Adam Marano
+first_released_as_single: true
 key: all-cried-out-denine-with-collage-s-adam-marano
 name: All Cried Out
 rankings:
@@ -50,5 +54,7 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1996-03-30'
+release_year: 1996
+runtime: 275760
 ---
 

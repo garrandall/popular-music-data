@@ -1,8 +1,11 @@
 ---
+album: The Nylon Curtain
 artists:
 - Billy Joel
+external_ids:
+  spotify: spotify:track:3LqvmDtXWXjF7fg8mh8iZh
 features: []
-genres: []
+first_released_as_single: false
 key: pressure-billy-joel
 lyrics_url: https://www.azlyrics.com/lyrics/billyjoel/pressure.html
 name: Pressure
@@ -75,8 +78,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1983-01-15'
+release_year: 1982
+runtime: 280333
 ---
-
 You have to learn to pace yourself
 Pressure
 You're just like everybody else
@@ -141,6 +145,3 @@ Pressure
 Pressure
 One, two, three, four
 Pressure
-
-
-

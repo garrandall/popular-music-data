@@ -1,8 +1,11 @@
 ---
+album: The Edward Bear Collection
 artists:
 - Edward Bear
+external_ids:
+  spotify: spotify:track:0gFxjJvSVHbkvlrA5ErXYv
 features: []
-genres: []
+first_released_as_single: false
 key: close-your-eyes-edward-bear
 lyrics_url: https://genius.com/Edward-bear-close-your-eyes-lyrics
 name: Close Your Eyes
@@ -55,6 +58,8 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '1973-06-30'
+release_year: 1973
+runtime: 178160
 ---
 I dreamed she came back home last night
 Asked her where she'd been

@@ -1,8 +1,11 @@
 ---
+album: I'll Never Fall In Love Again
 artists:
 - Dionne Warwick
+external_ids:
+  spotify: spotify:track:6Gl8X0Tfn9P5SRvTLNPjb7
 features: []
-genres: []
+first_released_as_single: false
 key: paper-mache-dionne-warwick
 lyrics_url: https://genius.com/Dionne-warwick-paper-mache-lyrics
 name: Paper Mache
@@ -35,6 +38,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1970-08-22'
+release_year: 1970
+runtime: 179786
 ---
 Twenty houses in a row
 Eighty people watch a TV show

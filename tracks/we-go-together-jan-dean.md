@@ -1,9 +1,12 @@
 ---
+album: Golden Hits (Vol. 1)
 artists:
 - Jan
 - Dean
+external_ids:
+  spotify: spotify:track:03M7HHQXR9Tz0Fb3o0FKSQ
 features: []
-genres: []
+first_released_as_single: false
 key: we-go-together-jan-dean
 lyrics_url: https://www.azlyrics.com/lyrics/jandean/wegotogether.html
 name: We Go Together
@@ -36,8 +39,9 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1960-09-19'
+release_year: 1960
+runtime: 166560
 ---
-
 We go together like castles and kings
 Birds of a feather? robins in spring
 
@@ -74,6 +78,3 @@ Let's go steady
 You are my first love
 First love
 You are my first love
-
-
-

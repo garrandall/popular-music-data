@@ -1,8 +1,11 @@
 ---
+album: Montevallo
 artists:
 - Sam Hunt
+external_ids:
+  spotify: spotify:track:0xwPzLmBAYro8BUz7MrtAo
 features: []
-genres: []
+first_released_as_single: false
 key: make-you-miss-me-sam-hunt
 lyrics_url: https://genius.com/Sam-hunt-make-you-miss-me-lyrics
 name: Make You Miss Me
@@ -83,6 +86,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2016-10-22'
+release_year: 2014
+runtime: 225693
 ---
 You hear a new song, it's your favorite
 But pretty soon you'll be changing the station

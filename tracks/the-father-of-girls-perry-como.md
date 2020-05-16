@@ -1,8 +1,11 @@
 ---
+album: Look to Your Heart
 artists:
 - Perry Como
+external_ids:
+  spotify: spotify:track:43xIqztbhR6cu7ketLor5N
 features: []
-genres: []
+first_released_as_single: false
 key: the-father-of-girls-perry-como
 lyrics_url: https://genius.com/Perry-como-the-father-of-girls-lyrics
 name: The Father Of Girls
@@ -15,6 +18,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1968-03-23'
+release_year: 1968
+runtime: 213413
 ---
 When you're the father of boys
 How you worry

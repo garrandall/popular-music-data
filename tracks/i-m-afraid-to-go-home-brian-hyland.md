@@ -1,8 +1,11 @@
 ---
+album: Chronology
 artists:
 - Brian Hyland
+external_ids:
+  spotify: spotify:track:4dB7ZcvXFvjqPGXNyOu0NC
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-afraid-to-go-home-brian-hyland
 lyrics_url: https://genius.com/Brian-hyland-im-afraid-to-go-home-lyrics
 name: I'm Afraid To Go Home
@@ -39,6 +42,8 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '1963-08-17'
+release_year: 1963
+runtime: 162600
 ---
 I'm afraid to go home, I'm afraid to go home
 Worries on my mind, afraid of what I'll find

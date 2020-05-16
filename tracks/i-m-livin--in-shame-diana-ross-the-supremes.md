@@ -1,9 +1,12 @@
 ---
+album: Let The Sunshine In
 artists:
 - Diana Ross
 - The Supremes
+external_ids:
+  spotify: spotify:track:2p2N5jnS43eOAcrsZLS8Ur
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-livin--in-shame-diana-ross-the-supremes
 lyrics_url: https://www.musixmatch.com/lyrics/Diana-Ross/I-m-Livin-In-Shame-feat-The-Supremes
 name: I'm Livin' In Shame
@@ -40,6 +43,8 @@ rankings:
   rank: 29
   ranking_list: Billboard Hot 100
   start_date: '1969-03-15'
+release_year: 1969
+runtime: 179493
 ---
 Oh-oh-oh
 

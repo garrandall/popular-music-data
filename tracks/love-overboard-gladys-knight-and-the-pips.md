@@ -1,8 +1,11 @@
 ---
+album: All Our Love
 artists:
 - Gladys Knight And The Pips
+external_ids:
+  spotify: spotify:track:2dykYf0mZG217bYkiREKEh
 features: []
-genres: []
+first_released_as_single: false
 key: love-overboard-gladys-knight-and-the-pips
 lyrics_url: https://genius.com/Gladys-knight-and-the-pips-love-overboard-lyrics
 name: Love Overboard
@@ -63,6 +66,8 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '1988-04-09'
+release_year: 1987
+runtime: 326733
 ---
 They tell me, Gladys, you know you love too hard
 But I tell 'em, not nearly hard enough

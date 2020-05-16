@@ -1,8 +1,11 @@
 ---
+album: Clive Griffin
 artists:
 - Clive Griffin
+external_ids:
+  spotify: spotify:track:1sOpeHGvOOuhNC3QsTijaL
 features: []
-genres: []
+first_released_as_single: false
 key: commitment-of-the-heart-clive-griffin
 lyrics_url: https://www.musixmatch.com/lyrics/Clive-Griffin/Commitment-of-the-Heart
 name: Commitment Of The Heart
@@ -19,6 +22,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1993-12-04'
+release_year: 1993
+runtime: 306760
 ---
 Oh, oh, oh...
 

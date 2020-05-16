@@ -1,8 +1,11 @@
 ---
+album: Faith
 artists:
 - George Michael
+external_ids:
+  spotify: spotify:track:0HEmnAUT8PHznIAAmVXqFJ
 features: []
-genres: []
+first_released_as_single: false
 key: faith-george-michael
 lyrics_url: https://genius.com/George-michael-faith-lyrics
 name: Faith
@@ -91,6 +94,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '2017-01-14'
+release_year: 1987
+runtime: 193200
 ---
 Well I guess it would be nice if I could touch your body
 I know not everybody has got a body like you

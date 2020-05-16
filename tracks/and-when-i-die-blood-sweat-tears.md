@@ -1,10 +1,13 @@
 ---
+album: Blood, Sweat & Tears
 artists:
 - Blood
 - Sweat
 - Tears
+external_ids:
+  spotify: spotify:track:4EfxVmnicAsKPQta8gKtbv
 features: []
-genres: []
+first_released_as_single: false
 key: and-when-i-die-blood-sweat-tears
 lyrics_url: https://genius.com/Blood-sweat-and-tears-and-when-i-die-lyrics
 name: And When I Die
@@ -61,6 +64,8 @@ rankings:
   rank: 38
   ranking_list: Billboard Hot 100
   start_date: '1970-01-10'
+release_year: 1968
+runtime: 242893
 ---
 ​
 

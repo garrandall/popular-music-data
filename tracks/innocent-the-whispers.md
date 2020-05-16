@@ -1,8 +1,11 @@
 ---
+album: More Of The Night
 artists:
 - The Whispers
+external_ids:
+  spotify: spotify:track:0PRgPkCr1xGzXcVbHb8njU
 features: []
-genres: []
+first_released_as_single: false
 key: innocent-the-whispers
 lyrics_url: https://genius.com/The-whispers-innocent-lyrics
 name: Innocent
@@ -51,6 +54,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1990-10-13'
+release_year: 1990
+runtime: 316466
 ---
 Girl, girl
 

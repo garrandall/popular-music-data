@@ -1,8 +1,12 @@
 ---
+album: 'The Complete Ric & Ron Recordings, Vol. 2: Classic New Orleans R&B And More,
+  1958-1965'
 artists:
 - Joe Jones
+external_ids:
+  spotify: spotify:track:6cUIm6LO1lcMfDlBeGa4H4
 features: []
-genres: []
+first_released_as_single: false
 key: you-talk-too-much-joe-jones
 lyrics_url: https://genius.com/Joe-jones-you-talk-too-much-lyrics
 name: You Talk Too Much
@@ -59,6 +63,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1960-12-12'
+release_year: 1960
+runtime: 152880
 ---
 You talk too much
 You worry me to death

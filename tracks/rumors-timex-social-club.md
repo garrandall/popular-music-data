@@ -1,8 +1,12 @@
 ---
+album: Late Night Tales Presents Automatic Soul (Selected and Mixed by Groove Armada's
+  Tom Findlay)
 artists:
 - Timex Social Club
+external_ids:
+  spotify: spotify:track:4yCmtYi6veZS3FcH9lp4O7
 features: []
-genres: []
+first_released_as_single: false
 key: rumors-timex-social-club
 lyrics_url: https://genius.com/Timex-social-club-rumors-lyrics
 name: Rumors
@@ -83,6 +87,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1986-10-18'
+release_year: 1986
+runtime: 288554
 ---
 How do rumors get started?
 They’re started by the jealous people

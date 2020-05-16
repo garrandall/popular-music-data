@@ -1,8 +1,11 @@
 ---
+album: The Sign
 artists:
 - Ace Of Base
+external_ids:
+  spotify: spotify:track:5ICwDM1fzgqv7HNFUIjPyx
 features: []
-genres: []
+first_released_as_single: false
 key: living-in-danger-ace-of-base
 lyrics_url: https://www.azlyrics.com/lyrics/aceofbase/livingindanger.html
 name: Living In Danger
@@ -87,8 +90,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1995-03-04'
+release_year: 1993
+runtime: 223226
 ---
-
 Live for yourself, it's a wonderful thing
 You can so what you want, you can live in a dream
 Get in, get up, get the rhythm, get down
@@ -119,6 +123,3 @@ Not I nor you get satisfied today
 We'll never get enough
 
 In the eyes of a stranger...
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Big Life
 artists:
 - Night Ranger
+external_ids:
+  spotify: spotify:track:1EoGhAN2v1m6EOE1bUOQmC
 features: []
-genres: []
+first_released_as_single: false
 key: hearts-away-night-ranger
 lyrics_url: https://genius.com/Night-ranger-hearts-away-lyrics
 name: Hearts Away
@@ -19,6 +22,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1987-07-18'
+release_year: 1987
+runtime: 300733
 ---
 Hearts away, I cast my heart
 To some romantic yesterday

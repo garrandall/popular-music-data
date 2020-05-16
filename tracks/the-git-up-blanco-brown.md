@@ -1,8 +1,11 @@
 ---
+album: Honeysuckle & Lightning Bugs
 artists:
 - Blanco Brown
+external_ids:
+  spotify: spotify:track:2KKijf6Ett4kmVNJze2roh
 features: []
-genres: []
+first_released_as_single: false
 key: the-git-up-blanco-brown
 lyrics_url: https://genius.com/Blanco-brown-the-git-up-lyrics
 name: The Git Up
@@ -87,6 +90,8 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '2019-11-02'
+release_year: 2019
+runtime: 200593
 ---
 Right now
 I just need you to get real loose

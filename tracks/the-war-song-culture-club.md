@@ -1,8 +1,11 @@
 ---
+album: Waking Up With The House On Fire
 artists:
 - Culture Club
+external_ids:
+  spotify: spotify:track:1UjdzJkBwidn55CUo5TB1O
 features: []
-genres: []
+first_released_as_single: false
 key: the-war-song-culture-club
 lyrics_url: https://www.azlyrics.com/lyrics/cultureclub/thewarsong.html
 name: The War Song
@@ -59,8 +62,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1984-12-29'
+release_year: 1984
+runtime: 253986
 ---
-
 War war is stupid
 and people are stupid
 And love means nothin
@@ -99,6 +103,3 @@ miles back home
 You can't do that to me, no
 you can't do that to me
 You can't do that to me, no, you can't do that to me
-
-
-

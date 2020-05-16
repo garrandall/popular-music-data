@@ -1,8 +1,11 @@
 ---
+album: Let's Limbo Some More
 artists:
 - Chubby Checker
+external_ids:
+  spotify: spotify:track:20PVWjltSTDX37f6HK89Qh
 features: []
-genres: []
+first_released_as_single: false
 key: let-s-limbo-some-more-chubby-checker
 lyrics_url: https://www.azlyrics.com/lyrics/chubbychecker/letslimbosomemore.html
 name: Let's Limbo Some More
@@ -47,8 +50,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1963-04-20'
+release_year: 1962
+runtime: 133160
 ---
-
 Let's Limbo some more
 Let's Limbo some more
 Let's hit the floor like we did before
@@ -95,6 +99,3 @@ Limbo to the Limbo baby
 Limbo are drivin' me crazy
 No No Limbo like a slow slow Limbo
 With you with you with you...
-
-
-

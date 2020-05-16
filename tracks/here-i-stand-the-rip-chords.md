@@ -1,8 +1,11 @@
 ---
+album: Hey Little Cobra
 artists:
 - The Rip Chords
+external_ids:
+  spotify: spotify:track:2nSHXdGPipAeqzYUNR3kBn
 features: []
-genres: []
+first_released_as_single: false
 key: here-i-stand-the-rip-chords
 lyrics_url: https://www.musixmatch.com/lyrics/The-Rip-Chords/Here-I-Stand
 name: Here I Stand
@@ -39,6 +42,8 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '1963-05-18'
+release_year: 1962
+runtime: 122386
 ---
 Here I stand
 All alone in my lonely world

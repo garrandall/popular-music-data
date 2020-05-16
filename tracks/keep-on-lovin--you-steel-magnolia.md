@@ -1,8 +1,11 @@
 ---
+album: Steel Magnolia
 artists:
 - Steel Magnolia
+external_ids:
+  spotify: spotify:track:4YmU30uKtR5oS0282d4muf
 features: []
-genres: []
+first_released_as_single: true
 key: keep-on-lovin--you-steel-magnolia
 lyrics_url: https://genius.com/Steel-magnolia-keep-on-lovin-you-lyrics
 name: Keep On Lovin' You
@@ -67,6 +70,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2010-06-26'
+release_year: 2010
+runtime: 183653
 ---
 Maybe life has got you rundown
 I think it's time, girl, that we slow down

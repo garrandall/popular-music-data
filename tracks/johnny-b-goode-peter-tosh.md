@@ -1,8 +1,11 @@
 ---
+album: Mama Africa
 artists:
 - Peter Tosh
+external_ids:
+  spotify: spotify:track:5uPYEStMW3KsXnnLV7iCTw
 features: []
-genres: []
+first_released_as_single: false
 key: johnny-b-goode-peter-tosh
 lyrics_url: https://www.azlyrics.com/lyrics/petertosh/johnnybgoode.html
 name: Johnny B Goode
@@ -23,8 +26,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1983-07-30'
+release_year: 1983
+runtime: 244253
 ---
-
 Deep down in Jamaica, close to Mandeville
 Back up in the woods, on top of a hill
 There stood an old hut made of earth and wood
@@ -57,6 +61,3 @@ Saying: Johnny B. Goode tonight
 
 Go, Johnny, Johnny B. Goode tonight
 Go, Johnny, Johnny B. Goode tonight
-
-
-

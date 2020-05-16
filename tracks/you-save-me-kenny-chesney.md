@@ -1,8 +1,11 @@
 ---
+album: The Road And The Radio
 artists:
 - Kenny Chesney
+external_ids:
+  spotify: spotify:track:0UgHkodbptL6XQBfT5HOK1
 features: []
-genres: []
+first_released_as_single: false
 key: you-save-me-kenny-chesney
 lyrics_url: https://www.azlyrics.com/lyrics/kennychesney/yousaveme.html
 name: You Save Me
@@ -87,8 +90,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2007-01-27'
+release_year: 2005
+runtime: 235773
 ---
-
 Every now and then I get a little lost
 My strings all get tangled, my wires all get crossed
 Every now and then I'm right up on the edge
@@ -126,6 +130,3 @@ When I'm a firecracker coming undone
 When I'm a fugitive ready to run, all wild-eyed and crazy
 No matter where my reckless soul takes me
 Baby you save me
-
-
-

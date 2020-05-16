@@ -1,9 +1,12 @@
 ---
+album: Take Care (Deluxe)
 artists:
 - Drake
+external_ids:
+  spotify: spotify:track:7udsBKuqnJ5csWTAkR0vEI
 features:
 - Birdman
-genres: []
+first_released_as_single: false
 key: we-ll-be-fine-drake-birdman
 lyrics_url: https://www.azlyrics.com/lyrics/drake/wellbefine.html
 name: We'll Be Fine
@@ -12,9 +15,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2011-12-03'
+release_year: 2011
+runtime: 247946
 ---
-
-
 Yeah, never thoughts of suicide, I'm too alive
 But I still treat it likes it's do or die
 Even though dying isn't in the plans,
@@ -89,6 +92,3 @@ You understand me?
 Playing with these motherfucking millions like they ain't nothing
 Rubber band stacks. That YMCMB shit nigga. Flashy lifestyle
 One hundred
-
-
-

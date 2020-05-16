@@ -1,8 +1,11 @@
 ---
+album: The Letter/Neon Rainbow
 artists:
 - The Box Tops
+external_ids:
+  spotify: spotify:track:6RJK553YhstRzyKA4mug09
 features: []
-genres: []
+first_released_as_single: false
 key: the-letter-the-box-tops
 lyrics_url: https://genius.com/The-box-tops-the-letter-lyrics
 name: The Letter
@@ -71,6 +74,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1967-11-25'
+release_year: 1967
+runtime: 112800
 ---
 Gimme a ticket for an aeroplane
 I ain't got time to take a fast train

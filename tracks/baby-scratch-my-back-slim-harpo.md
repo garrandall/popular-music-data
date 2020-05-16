@@ -1,8 +1,11 @@
 ---
+album: The Excello Singles Anthology
 artists:
 - Slim Harpo
+external_ids:
+  spotify: spotify:track:6qQyaEIsS4NPfF0AQ6OAz8
 features: []
-genres: []
+first_released_as_single: false
 key: baby-scratch-my-back-slim-harpo
 lyrics_url: https://genius.com/Slim-harpo-baby-scratch-my-back-lyrics
 name: Baby Scratch My Back
@@ -59,6 +62,8 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '1966-04-23'
+release_year: 1966
+runtime: 175026
 ---
 Aww, I'm itchy,and I don't know where to scratch
 Come here baby, scratch my back

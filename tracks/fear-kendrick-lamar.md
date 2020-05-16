@@ -1,8 +1,11 @@
 ---
+album: DAMN.
 artists:
 - Kendrick Lamar
+external_ids:
+  spotify: spotify:track:4UXI9neTjjHNUTB2togQqm
 features: []
-genres: []
+first_released_as_single: false
 key: fear-kendrick-lamar
 lyrics_url: https://genius.com/Kendrick-lamar-fear-lyrics
 name: Fear
@@ -15,6 +18,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2017-05-13'
+release_year: 2017
+runtime: 460573
 ---
 Poverty's paradise
 I don’t think I could find a way to make it on this earth

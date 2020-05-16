@@ -1,9 +1,12 @@
 ---
+album: Luv Is Rage 2
 artists:
 - Lil Uzi Vert
+external_ids:
+  spotify: spotify:track:5v6rbozTf5x9Vj5CKAhdgW
 features:
 - Pharrell Williams
-genres: []
+first_released_as_single: false
 key: neon-guts-lil-uzi-vert-pharrell-williams
 lyrics_url: https://genius.com/Lil-uzi-vert-neon-guts-lyrics
 name: Neon Guts
@@ -16,6 +19,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2017-09-23'
+release_year: 2017
+runtime: 258789
 ---
 Yeah, yeah, yeah
 And I got a colorful aura like I got neon guts

@@ -1,8 +1,11 @@
 ---
+album: $1,000,000 Worth Of Twang, Vol II
 artists:
 - Duane Eddy
+external_ids:
+  spotify: spotify:track:0AymoRtjwfUWPifXQPG3fK
 features: []
-genres: []
+first_released_as_single: false
 key: theme-from-dixie-duane-eddy
 name: Theme From Dixie
 rankings:
@@ -34,5 +37,7 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '1961-05-01'
+release_year: 1961
+runtime: 148733
 ---
 

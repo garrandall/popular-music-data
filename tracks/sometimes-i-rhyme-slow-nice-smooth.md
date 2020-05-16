@@ -1,9 +1,12 @@
 ---
+album: Ain't A Damn Thing Changed
 artists:
 - Nice
 - Smooth
+external_ids:
+  spotify: spotify:track:18Mh3v6rBCCpcNYzyaA2RN
 features: []
-genres: []
+first_released_as_single: false
 key: sometimes-i-rhyme-slow-nice-smooth
 lyrics_url: https://genius.com/Nice-and-smooth-sometimes-i-rhyme-slow-lyrics
 name: Sometimes I Rhyme Slow
@@ -80,6 +83,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1992-09-05'
+release_year: 1991
+runtime: 172266
 ---
 Sometimes I rhyme slow sometimes I rhyme quick
 Sometimes I rhyme slow sometimes I rhyme quick

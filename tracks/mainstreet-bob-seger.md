@@ -1,8 +1,11 @@
 ---
+album: Night Moves
 artists:
 - Bob Seger
+external_ids:
+  spotify: spotify:track:0XVR94voJPToKX1XoOw0ot
 features: []
-genres: []
+first_released_as_single: false
 key: mainstreet-bob-seger
 lyrics_url: https://www.azlyrics.com/lyrics/bobseger/mainstreet.html
 name: Mainstreet
@@ -47,8 +50,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1977-06-25'
+release_year: 1976
+runtime: 223089
 ---
-
 I remember standing on the corner at midnight
 Trying to get my courage up
 There was this long lovely dancer in a little club downtown
@@ -69,6 +73,3 @@ And sometimes even now, when I'm feeling lonely and beat
 I drift back in time and I find my feet
 Down on Mainstreet
 Down on Mainstreet
-
-
-

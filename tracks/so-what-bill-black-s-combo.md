@@ -1,8 +1,11 @@
 ---
+album: Bill Black is Back!
 artists:
 - Bill Black's Combo
+external_ids:
+  spotify: spotify:track:0L36sfZ3rOf3BwReJQZBRr
 features: []
-genres: []
+first_released_as_single: false
 key: so-what-bill-black-s-combo
 name: So What
 rankings:
@@ -38,5 +41,7 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1965-01-02'
+release_year: 1962
+runtime: 141013
 ---
 

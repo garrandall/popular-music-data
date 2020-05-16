@@ -1,8 +1,11 @@
 ---
+album: Listen Like Thieves
 artists:
 - INXS
+external_ids:
+  spotify: spotify:track:4CXPPtJaJf5uZRmFLEarAK
 features: []
-genres: []
+first_released_as_single: false
 key: listen-like-thieves-inxs
 lyrics_url: https://www.azlyrics.com/lyrics/inxs/listenlikethieves.html
 name: Listen Like Thieves
@@ -43,8 +46,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1986-07-05'
+release_year: 1985
+runtime: 225333
 ---
-
 On the talk back show
 On the radio
 At the local bar
@@ -67,6 +71,3 @@ You are all you need
 So don't hesitate
 There's no time to waste
 You just do it for yourself
-
-
-

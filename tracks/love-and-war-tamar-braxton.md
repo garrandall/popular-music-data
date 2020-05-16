@@ -1,8 +1,11 @@
 ---
+album: Love and War
 artists:
 - Tamar Braxton
+external_ids:
+  spotify: spotify:track:5EqxLg7csN2Zbbclsu9VgM
 features: []
-genres: []
+first_released_as_single: true
 key: love-and-war-tamar-braxton
 lyrics_url: https://www.azlyrics.com/lyrics/tamarbraxton/loveandwar.html
 name: Love And War
@@ -87,8 +90,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2013-06-22'
+release_year: 2012
+runtime: 241840
 ---
-
 Somebody said every day was gon' be sunny skies,
 Only Marvin Gaye and lingerie, I guess somebody lied
 We started discussin' it to fightin' then "Don't touch me, please"
@@ -147,6 +151,3 @@ When the smoke clears we dry our tears
 Only at love and war
 Only at love and war
 Only at love and war
-
-
-

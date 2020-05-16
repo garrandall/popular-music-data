@@ -1,8 +1,11 @@
 ---
+album: Four Tops
 artists:
 - Four Tops
+external_ids:
+  spotify: spotify:track:0l6c7b2MPqSjcEXW4xUAxg
 features: []
-genres: []
+first_released_as_single: false
 key: without-the-one-you-love--life-s-not-worth-while--four-tops
 lyrics_url: https://www.musixmatch.com/lyrics/Four-Tops/Without-the-One-You-Love-Life-s-Not-Worthwile
 name: Without The One You Love (Life's Not Worth While)
@@ -27,6 +30,8 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '1964-12-26'
+release_year: 1964
+runtime: 167173
 ---
 Baby, I need your good lovin'
 Got to have your love right now, baby

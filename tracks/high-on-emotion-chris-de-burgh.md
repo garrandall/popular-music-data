@@ -1,8 +1,11 @@
 ---
+album: Spark To A Flame
 artists:
 - Chris de Burgh
+external_ids:
+  spotify: spotify:track:4ZlkGn7FROTAdRlXcDPevH
 features: []
-genres: []
+first_released_as_single: false
 key: high-on-emotion-chris-de-burgh
 lyrics_url: https://www.azlyrics.com/lyrics/chrisdeburgh/highonemotion.html
 name: High On Emotion
@@ -59,8 +62,9 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1984-09-22'
+release_year: 1984
+runtime: 265800
 ---
-
 Oh my heart is spinning like a wheel,
 Only she can see the way that I fell,
 Eyes are holding right across the room,
@@ -91,6 +95,3 @@ I am high on emotion, high again,
 High on emotion, your love will find the way;
 High on emotion, high again,
 High on emotion, your love will find the way.
-
-
-

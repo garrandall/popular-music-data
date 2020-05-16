@@ -1,8 +1,11 @@
 ---
+album: Cameo Parkway 1957-1967
 artists:
 - Eddie Holman
+external_ids:
+  spotify: spotify:track:4KQL1NUeDs5P2TrlyPDmqh
 features: []
-genres: []
+first_released_as_single: false
 key: this-can-t-be-true-eddie-holman
 lyrics_url: https://genius.com/Eddie-holman-this-cant-be-true-lyrics
 name: This Can't Be True
@@ -51,6 +54,8 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '1966-03-26'
+release_year: 1966
+runtime: 183333
 ---
 (Doo-oh-woo-oh)
 (Doo-oh-woo-oh)

@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music, Volume 4'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:07DXC9tg5mySIQfRoVHYmI
 features: []
-genres: []
+first_released_as_single: false
 key: me-against-the-music-glee-cast
 lyrics_url: https://www.azlyrics.com/lyrics/gleecast/meagainstthemusic.html
 name: Me Against The Music
@@ -11,8 +14,9 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '2010-10-16'
+release_year: 2010
+runtime: 225440
 ---
-
 All my people in the crowd
 Grab a partner take it down!
 
@@ -104,6 +108,3 @@ All my people in the crowd, let me see you dance
 C'mon Britney take it down, make the music dance
 All my people round and round, party all night long
 C'mon Britney lose control, watch you take it down
-
-
-

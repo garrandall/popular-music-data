@@ -1,8 +1,11 @@
 ---
+album: Another Night
 artists:
 - Real McCoy
+external_ids:
+  spotify: spotify:track:4fki7DqmBYX52LmdTvbimp
 features: []
-genres: []
+first_released_as_single: false
 key: automatic-lover--call-for-love--real-mccoy
 lyrics_url: https://genius.com/Real-mccoy-automatic-lover-call-for-love-lyrics
 name: Automatic Lover (Call For Love)
@@ -83,6 +86,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1996-02-24'
+release_year: 1995
+runtime: 226066
 ---
 Call for love
 I would call you up

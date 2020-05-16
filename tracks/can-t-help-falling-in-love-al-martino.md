@@ -1,8 +1,11 @@
 ---
+album: Music Inspired by The Godfather
 artists:
 - Al Martino
+external_ids:
+  spotify: spotify:track:7jpdW7yH8Q1zdWL4W96jxf
 features: []
-genres: []
+first_released_as_single: false
 key: can-t-help-falling-in-love-al-martino
 lyrics_url: https://www.musixmatch.com/lyrics/Al-Martino/Can-t-Help-Falling-in-Love
 name: Can't Help Falling In Love
@@ -39,6 +42,8 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '1970-03-28'
+release_year: 1970
+runtime: 141266
 ---
 Wise men say
 Only fools rush in

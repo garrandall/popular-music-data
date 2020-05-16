@@ -1,8 +1,11 @@
 ---
+album: $1,000,000 Worth Of Twang
 artists:
 - Duane Eddy
+external_ids:
+  spotify: spotify:track:7z2ahT0htzgYLlq0wmxHdR
 features: []
-genres: []
+first_released_as_single: false
 key: kommotion-duane-eddy
 name: Kommotion
 rankings:
@@ -30,5 +33,7 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1960-09-26'
+release_year: 1960
+runtime: 177573
 ---
 

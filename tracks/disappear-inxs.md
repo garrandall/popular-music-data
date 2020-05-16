@@ -1,8 +1,11 @@
 ---
+album: X
 artists:
 - INXS
+external_ids:
+  spotify: spotify:track:02mQcDoU5cn15U6tqZmL4e
 features: []
-genres: []
+first_released_as_single: false
 key: disappear-inxs
 lyrics_url: https://www.azlyrics.com/lyrics/inxs/disappear.html
 name: Disappear
@@ -87,8 +90,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1991-04-06'
+release_year: 1990
+runtime: 250075
 ---
-
 Say I'm crying
 I'm looking at what's on T.V
 Pain and suffering
@@ -165,6 +169,3 @@ Lose my mind
 And the world seems to disappear
 All the problems, all the fears
 And the world seems to disappear
-
-
-

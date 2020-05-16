@@ -1,9 +1,12 @@
 ---
+album: Sick Boy
 artists:
 - The Chainsmokers
+external_ids:
+  spotify: spotify:track:7FDaS1k08rwMoAThmzUkOZ
 features:
 - Emily Warren
-genres: []
+first_released_as_single: true
 key: side-effects-the-chainsmokers-emily-warren
 lyrics_url: https://www.azlyrics.com/lyrics/chainsmokers/sideeffects.html
 name: Side Effects
@@ -32,8 +35,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2018-09-29'
+release_year: 2018
+runtime: 172360
 ---
-
 It's 4AM, I don't know where to go
 Everywhere is closed, I should just go home, yeah
 My feet are taking me to your front door
@@ -94,6 +98,3 @@ Time should've taught me the lesson
 Went looking for a sign, but instead I got a message
 I take off my pride every time we undressing
 Draw the line, I'm by the line, yeah
-
-
-

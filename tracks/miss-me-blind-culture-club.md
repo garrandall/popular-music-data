@@ -1,8 +1,11 @@
 ---
+album: Colour By Numbers
 artists:
 - Culture Club
+external_ids:
+  spotify: spotify:track:56SnVQVuJuqnYA6rLdcg32
 features: []
-genres: []
+first_released_as_single: false
 key: miss-me-blind-culture-club
 lyrics_url: https://www.azlyrics.com/lyrics/cultureclub/missmeblind.html
 name: Miss Me Blind
@@ -71,8 +74,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1984-06-16'
+release_year: 1983
+runtime: 269880
 ---
-
 Miss me
 I know you'll miss me
 I know you'll miss me blind
@@ -166,6 +170,3 @@ I know you'll miss me blind
 I know you'll miss me
 I know you'll miss me
 I know you'll miss me blind
-
-
-

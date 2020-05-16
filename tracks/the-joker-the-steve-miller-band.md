@@ -1,8 +1,11 @@
 ---
+album: The Joker
 artists:
 - The Steve Miller Band
+external_ids:
+  spotify: spotify:track:1bp2IO61zbQrbWNmKKxg3f
 features: []
-genres: []
+first_released_as_single: false
 key: the-joker-the-steve-miller-band
 lyrics_url: https://www.azlyrics.com/lyrics/stevemillerband/thejoker.html
 name: The Joker
@@ -87,8 +90,9 @@ rankings:
   rank: 31
   ranking_list: Billboard Hot 100
   start_date: '1974-03-02'
+release_year: 1973
+runtime: 264503
 ---
-
 Some people call me the space cowboy, yeah
 Some call me the gangster of love
 Some people call me Maurice
@@ -163,6 +167,3 @@ You're the cutest thing I ever did see
 Really love your peaches want to shake your tree
 Lovey-dovey, lovey-dovey, lovey-dovey all the time
 Come on baby and I'll show you a good time
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: ID Music
 artists:
 - The Third Rail
+external_ids:
+  spotify: spotify:track:37zdCyboXQ6nfT468R5eaF
 features: []
-genres: []
+first_released_as_single: false
 key: run-run-run-the-third-rail
 lyrics_url: https://genius.com/Third-rail-run-run-run-lyrics
 name: Run Run Run
@@ -43,6 +46,8 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '1967-09-30'
+release_year: 1967
+runtime: 118413
 ---
 (oo)
 (oo)

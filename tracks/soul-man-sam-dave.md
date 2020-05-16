@@ -1,9 +1,12 @@
 ---
+album: Soul Men
 artists:
 - Sam
 - Dave
+external_ids:
+  spotify: spotify:track:4eGHlplaq1ME8oetnTuFFf
 features: []
-genres: []
+first_released_as_single: false
 key: soul-man-sam-dave
 lyrics_url: https://www.azlyrics.com/lyrics/samdave/soulman.html
 name: Soul Man
@@ -68,8 +71,9 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1967-12-16'
+release_year: 1967
+runtime: 159000
 ---
-
 Comin' to you on a dusty road
 Good lovin', I got a truck load
 And when ya get it, huh, ya got some
@@ -114,6 +118,3 @@ Soul man, I'm a
 Soul man, and you a
 Soul man, and you're a
 Soul man, hold on
-
-
-

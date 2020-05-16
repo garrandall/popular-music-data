@@ -1,8 +1,11 @@
 ---
+album: Fascination!
 artists:
 - The Human League
+external_ids:
+  spotify: spotify:track:2cJ6gbYGW5e8mUnhaqQ0jz
 features: []
-genres: []
+first_released_as_single: false
 key: -keep-feeling--fascination-the-human-league
 lyrics_url: https://www.azlyrics.com/lyrics/humanleague/keepfeelingfascinationextended.html
 name: (Keep Feeling) Fascination
@@ -87,8 +90,9 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '1983-10-08'
+release_year: 1981
+runtime: 298600
 ---
-
 If it seems a little time is needed
 Decisions to be made
 The good advice of friends unheeded
@@ -154,4 +158,3 @@ Love so strong
 Keep feeling fascination
 Looking, learning
 Moving on
-

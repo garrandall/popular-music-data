@@ -1,8 +1,11 @@
 ---
+album: Gypsys, Tramps & Thieves
 artists:
 - Cher
+external_ids:
+  spotify: spotify:track:6fsSZbNL7XP9gf1kJ2l155
 features: []
-genres: []
+first_released_as_single: false
 key: gypsys-tramps---thieves-cher
 lyrics_url: https://www.azlyrics.com/lyrics/sonnycher/gypsystrampsthieves.html
 name: Gypsys Tramps & Thieves
@@ -71,8 +74,9 @@ rankings:
   rank: 25
   ranking_list: Billboard Hot 100
   start_date: '1972-01-01'
+release_year: 1971
+runtime: 158000
 ---
-
 I was born in the wagon of a travelin' show
 My mama used to dance for the money they'd throw
 Papa would do whatever he could
@@ -105,4 +109,3 @@ Her mama had to dance for the money they'd throw
 Grandpa'd do whatever he could
 Preach a little gospel
 Sell a couple bottles of doctor good
-

@@ -1,8 +1,11 @@
 ---
+album: 'Precious & Few: The Complete Album'
 artists:
 - Climax
+external_ids:
+  spotify: spotify:track:7uuM0HwvCG20e5ttu6ugmP
 features: []
-genres: []
+first_released_as_single: false
 key: precious-and-few-climax
 lyrics_url: https://genius.com/Climax-precious-and-few-lyrics
 name: Precious And Few
@@ -67,6 +70,8 @@ rankings:
   rank: 31
   ranking_list: Billboard Hot 100
   start_date: '1972-04-08'
+release_year: 1972
+runtime: 164653
 ---
 Precious and few are the moments we two can share
 Quiet and blue like the sky, I'm hung over you

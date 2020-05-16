@@ -1,8 +1,11 @@
 ---
+album: Hi Infidelity
 artists:
 - REO Speedwagon
+external_ids:
+  spotify: spotify:track:0udUxLibGsKop4rlmBaVsi
 features: []
-genres: []
+first_released_as_single: false
 key: in-your-letter-reo-speedwagon
 lyrics_url: https://www.azlyrics.com/lyrics/reospeedwagon/inyourletter.html
 name: In Your Letter
@@ -59,8 +62,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1981-10-31'
+release_year: 1980
+runtime: 196240
 ---
-
 In your letter oh in your letter
 In your letter oh in your letter
 In your letter oh in your letter
@@ -94,6 +98,3 @@ But you could've said it better
 Oh in your letter, you said you couldn't face me
 You said you could replace me
 But you could've said it better
-
-
-

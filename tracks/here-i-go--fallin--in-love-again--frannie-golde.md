@@ -1,8 +1,11 @@
 ---
+album: Frannie
 artists:
 - Frannie Golde
+external_ids:
+  spotify: spotify:track:1EDAnZjfKkJoe1fkuyd2U0
 features: []
-genres: []
+first_released_as_single: false
 key: here-i-go--fallin--in-love-again--frannie-golde
 name: Here I Go (Fallin' In Love Again)
 rankings:
@@ -18,5 +21,7 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1979-07-21'
+release_year: 1979
+runtime: 200668
 ---
 

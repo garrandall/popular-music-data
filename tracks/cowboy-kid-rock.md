@@ -1,8 +1,11 @@
 ---
+album: Devil Without a Cause
 artists:
 - Kid Rock
+external_ids:
+  spotify: spotify:track:19LT4ZUEeoUdimKE04WJJg
 features: []
-genres: []
+first_released_as_single: false
 key: cowboy-kid-rock
 lyrics_url: https://genius.com/Kid-rock-cowboy-lyrics
 name: Cowboy
@@ -27,6 +30,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1999-11-27'
+release_year: 1998
+runtime: 257866
 ---
 Cowboy
 Cowboy

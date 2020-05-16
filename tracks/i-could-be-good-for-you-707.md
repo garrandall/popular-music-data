@@ -1,8 +1,11 @@
 ---
+album: '707'
 artists:
 - '707'
+external_ids:
+  spotify: spotify:track:0oJTm4zVr7y4ji3dXIt6HE
 features: []
-genres: []
+first_released_as_single: false
 key: i-could-be-good-for-you-707
 lyrics_url: https://genius.com/707-i-could-be-good-for-you-lyrics
 name: I Could Be Good For You
@@ -43,6 +46,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1980-12-06'
+release_year: 1979
+runtime: 285533
 ---
 Do you believe that you're on your own
 Searching in vain for a closer friend

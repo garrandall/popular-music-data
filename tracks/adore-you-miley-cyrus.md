@@ -1,8 +1,11 @@
 ---
+album: Bangerz (Deluxe Version)
 artists:
 - Miley Cyrus
+external_ids:
+  spotify: spotify:track:5AnCLGg35ziFOloEnXK4uu
 features: []
-genres: []
+first_released_as_single: false
 key: adore-you-miley-cyrus
 lyrics_url: https://www.azlyrics.com/lyrics/mileycyrus/adoreyou.html
 name: Adore You
@@ -79,8 +82,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2014-04-26'
+release_year: 2013
+runtime: 278746
 ---
-
 Oh, hey, oh
 
 Baby, baby, yeah, are you listening?
@@ -125,6 +129,3 @@ Know I love you more
 And when you say you need me
 Know I need you more
 Boy, I adore you, I adore you
-
-
-

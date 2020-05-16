@@ -1,8 +1,11 @@
 ---
+album: Snow In June
 artists:
 - The Northern Pikes
+external_ids:
+  spotify: spotify:track:3lQl6N5vnASpox2hdHpH2w
 features: []
-genres: []
+first_released_as_single: false
 key: she-ain-t-pretty-the-northern-pikes
 lyrics_url: https://genius.com/The-northern-pikes-she-aint-pretty-lyrics
 name: She Ain't Pretty
@@ -27,6 +30,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1992-02-01'
+release_year: 1990
+runtime: 163773
 ---
 I had two jobs, I had dishwater hands
 And on the weekend in a rock and roll band

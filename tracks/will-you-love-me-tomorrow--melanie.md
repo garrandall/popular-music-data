@@ -1,8 +1,11 @@
 ---
+album: Madrugada
 artists:
 - Melanie
+external_ids:
+  spotify: spotify:track:3TUpBz9VRJPY7X66cT7KPo
 features: []
-genres: []
+first_released_as_single: false
 key: will-you-love-me-tomorrow--melanie
 lyrics_url: https://www.musixmatch.com/lyrics/Melanie/Will-You-Love-Me-Tomorrow
 name: Will You Love Me Tomorrow?
@@ -23,6 +26,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1974-01-05'
+release_year: 1973
+runtime: 180600
 ---
 Tonight you're mine, completely
 You give your love so sweetly

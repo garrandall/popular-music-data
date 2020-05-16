@@ -1,10 +1,13 @@
 ---
+album: Goin' To Memphis
 artists:
 - Paul Revere
 - The Raiders
+external_ids:
+  spotify: spotify:track:7a9JmycU4Jf1L8yiq5UyoQ
 features:
 - Mark Lindsay
-genres: []
+first_released_as_single: false
 key: peace-of-mind-paul-revere-the-raiders-mark-lindsay
 name: Peace Of Mind
 rankings:
@@ -32,5 +35,7 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '1967-12-23'
+release_year: 1967
+runtime: 146426
 ---
 

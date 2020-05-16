@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music, Volume 7'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:2tRQSSpgHBGzAHJnhP6HiO
 features: []
-genres: []
+first_released_as_single: false
 key: constant-craving-glee-cast
 lyrics_url: https://www.azlyrics.com/lyrics/gleecast/constantcraving.html
 name: Constant Craving
@@ -11,8 +14,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2011-12-17'
+release_year: 2011
+runtime: 278066
 ---
-
 Even through the darkest phase
 Be it thick or thin
 Always someone marches brave
@@ -49,6 +53,3 @@ Has always been
 Has always been
 Has always been
 Has always been
-
-
-

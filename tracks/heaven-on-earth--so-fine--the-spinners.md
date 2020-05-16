@@ -1,8 +1,11 @@
 ---
+album: '8'
 artists:
 - The Spinners
+external_ids:
+  spotify: spotify:track:1YkcpoRs9ftzoiYFV1QbaA
 features: []
-genres: []
+first_released_as_single: false
 key: heaven-on-earth--so-fine--the-spinners
 lyrics_url: https://genius.com/The-spinners-heaven-on-earth-so-fine-lyrics
 name: Heaven On Earth (So Fine)
@@ -23,6 +26,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1977-10-29'
+release_year: 1977
+runtime: 241560
 ---
 I can't waste my time
 Trying every line

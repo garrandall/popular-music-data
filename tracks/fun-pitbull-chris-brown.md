@@ -1,9 +1,12 @@
 ---
+album: Globalization
 artists:
 - Pitbull
+external_ids:
+  spotify: spotify:track:6Zo3wgDE076K2AuiGZF3CS
 features:
 - Chris Brown
-genres: []
+first_released_as_single: false
 key: fun-pitbull-chris-brown
 lyrics_url: https://www.azlyrics.com/lyrics/pitbull/fun.html
 name: Fun
@@ -68,8 +71,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2015-09-05'
+release_year: 2014
+runtime: 202306
 ---
-
 Chris Brown, you set it off
 
 
@@ -159,6 +163,3 @@ Loosen up your body 'til you come undone
 Loosen up your body baby come undone
 Loosen up your body 'til you come undone
 Loosen up your body baby come undone
-
-
-

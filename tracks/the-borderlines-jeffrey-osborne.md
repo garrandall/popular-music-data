@@ -1,8 +1,11 @@
 ---
+album: Don't Stop
 artists:
 - Jeffrey Osborne
+external_ids:
+  spotify: spotify:track:4Wgm7YH6nP1LdOfQOAcnS7
 features: []
-genres: []
+first_released_as_single: false
 key: the-borderlines-jeffrey-osborne
 lyrics_url: https://www.azlyrics.com/lyrics/jeffreyosborne/theborderlines.html
 name: The Borderlines
@@ -51,8 +54,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1985-03-30'
+release_year: 1984
+runtime: 327466
 ---
-
 Hey, the borderlines
 Were closing in on the other side
 With her love on my mind
@@ -188,6 +192,3 @@ They will not control me, no
 
 Borderlines
 Won't keep her heart from me
-
-
-

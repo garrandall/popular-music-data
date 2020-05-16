@@ -1,8 +1,11 @@
 ---
+album: "7800\xBA Fahrenheit"
 artists:
 - Bon Jovi
+external_ids:
+  spotify: spotify:track:3RPwxF1d7GjtUo7fMqCcZ9
 features: []
-genres: []
+first_released_as_single: false
 key: only-lonely-bon-jovi
 lyrics_url: https://www.azlyrics.com/lyrics/bonjovi/onlylonely.html
 name: Only Lonely
@@ -39,8 +42,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1985-06-08'
+release_year: 1985
+runtime: 302226
 ---
-
 Another long and sleepless night
 You need someone to hold you tight
 Sometimes love don't know wrong from right
@@ -86,4 +90,3 @@ Games we play, words we say
 Cutting wounds that run so...
 Leave it all behind you
 Or someday love will find you
-

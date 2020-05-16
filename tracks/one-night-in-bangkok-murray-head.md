@@ -1,8 +1,11 @@
 ---
+album: Emotions (My Favourite Songs)
 artists:
 - Murray Head
+external_ids:
+  spotify: spotify:track:6erBowZaW6Ur3vNOWhS2zM
 features: []
-genres: []
+first_released_as_single: false
 key: one-night-in-bangkok-murray-head
 lyrics_url: https://genius.com/Murray-head-one-night-in-bangkok-lyrics
 name: One Night In Bangkok
@@ -87,6 +90,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1985-07-06'
+release_year: 1980
+runtime: 236066
 ---
 Bangkok - Oriental setting
 And the city don't know

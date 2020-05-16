@@ -1,8 +1,11 @@
 ---
+album: Young Man Running
 artists:
 - Corey Hart
+external_ids:
+  spotify: spotify:track:2iWf5FmwJ8KPlpe5ZXZfW9
 features: []
-genres: []
+first_released_as_single: false
 key: in-your-soul-corey-hart
 lyrics_url: https://www.azlyrics.com/lyrics/coreyhart/inyoursoul.html
 name: In Your Soul
@@ -47,8 +50,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1988-08-13'
+release_year: 1988
+runtime: 236573
 ---
-
 Ever since I was a little kid
 I have always thought
 I could run faster than the wind
@@ -103,6 +107,3 @@ In your soul, o no
 Ever since I was a little kid
 I have always thought
 Young man running...
-
-
-

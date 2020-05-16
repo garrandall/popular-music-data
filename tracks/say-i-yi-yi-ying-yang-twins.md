@@ -1,8 +1,11 @@
 ---
+album: The Source - Hip Hop Hits Vol. 6
 artists:
 - Ying Yang Twins
+external_ids:
+  spotify: spotify:track:099BjHDqkKw5O9l8oscZv2
 features: []
-genres: []
+first_released_as_single: false
 key: say-i-yi-yi-ying-yang-twins
 lyrics_url: https://genius.com/Ying-yang-twins-say-i-yi-yi-lyrics
 name: Say I Yi Yi
@@ -63,6 +66,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2002-08-03'
+release_year: 2002
+runtime: 265040
 ---
 She got her hands all on her knees, and then her bows on her thigh
 She like to twerk and that's for certain 'cause I can tell she fi'e

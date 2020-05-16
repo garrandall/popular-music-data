@@ -1,8 +1,11 @@
 ---
+album: Championships
 artists:
 - Meek Mill
+external_ids:
+  spotify: spotify:track:5PqBwcjPIznE79fStq15Dl
 features: []
-genres: []
+first_released_as_single: false
 key: intro-meek-mill
 lyrics_url: https://genius.com/Meek-mill-dreams-and-nightmares-intro-lyrics
 name: Intro
@@ -11,6 +14,8 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '2018-12-15'
+release_year: 2018
+runtime: 213402
 ---
 Ain't this what they've been waitin' for?
 You ready? Uh, uh

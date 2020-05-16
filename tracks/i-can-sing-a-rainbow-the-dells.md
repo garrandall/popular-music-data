@@ -1,8 +1,11 @@
 ---
+album: Since I Fell For You
 artists:
 - The Dells
+external_ids:
+  spotify: spotify:track:3ZIzonNJdYQDGXqVFYn3pg
 features: []
-genres: []
+first_released_as_single: false
 key: i-can-sing-a-rainbow-the-dells
 lyrics_url: https://genius.com/The-dells-i-can-sing-a-rainbow-love-is-blue-lyrics
 name: I Can Sing A Rainbow
@@ -47,6 +50,8 @@ rankings:
   rank: 36
   ranking_list: Billboard Hot 100
   start_date: '1969-07-26'
+release_year: 1969
+runtime: 206533
 ---
 Red and Yellow and Pink and Green Purple and
 Orange and Blue

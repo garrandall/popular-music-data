@@ -1,8 +1,11 @@
 ---
+album: A Night on the Town
 artists:
 - Rod Stewart
+external_ids:
+  spotify: spotify:track:10LRRKPmx8uHcSxLVWK0ct
 features: []
-genres: []
+first_released_as_single: false
 key: tonight-s-the-night--gonna-be-alright--rod-stewart
 lyrics_url: https://www.azlyrics.com/lyrics/rodstewart/tonightsthenightgonnabealright.html
 name: Tonight's The Night (Gonna Be Alright)
@@ -99,8 +102,9 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '1977-03-05'
+release_year: 1976
+runtime: 237120
 ---
-
 Stay away from my window
 Stay away from my back door too
 Disconnect the telephone line
@@ -135,6 +139,3 @@ Tonights the night
 It's gonna be alright
 Cause I love you woman
 Ain't nobody gonna stop us now
-
-
-

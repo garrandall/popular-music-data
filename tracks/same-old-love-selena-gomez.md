@@ -1,8 +1,11 @@
 ---
+album: Revival
 artists:
 - Selena Gomez
+external_ids:
+  spotify: spotify:track:1BZG99C7Co1r6QUC3zaS59
 features: []
-genres: []
+first_released_as_single: false
 key: same-old-love-selena-gomez
 lyrics_url: https://genius.com/Selena-gomez-same-old-love-lyrics
 name: Same Old Love
@@ -119,6 +122,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2016-04-09'
+release_year: 2015
+runtime: 229080
 ---
 Take away your things and go
 You can't take back what you said, I know

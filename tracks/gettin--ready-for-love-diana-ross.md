@@ -1,8 +1,11 @@
 ---
+album: Baby It's Me
 artists:
 - Diana Ross
+external_ids:
+  spotify: spotify:track:0pcK3PMi6edNY55qGvMGvN
 features: []
-genres: []
+first_released_as_single: false
 key: gettin--ready-for-love-diana-ross
 lyrics_url: https://www.azlyrics.com/lyrics/dianaross/gettinreadyforlove.html
 name: Gettin' Ready For Love
@@ -59,8 +62,9 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1978-01-28'
+release_year: 1977
+runtime: 164960
 ---
-
 I sit by the telephone
 Waiting for you to call me
 And when I'm alone in the night
@@ -114,6 +118,3 @@ I'm getting ready for love
 Yes, I am
 Yes, I am
 I'm getting ready for love
-
-
-

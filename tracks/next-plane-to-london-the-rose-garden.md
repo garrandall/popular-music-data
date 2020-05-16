@@ -1,8 +1,11 @@
 ---
+album: The Rose Garden
 artists:
 - The Rose Garden
+external_ids:
+  spotify: spotify:track:65Ac9MMAujN5XicQSmmAG1
 features: []
-genres: []
+first_released_as_single: false
 key: next-plane-to-london-the-rose-garden
 lyrics_url: https://www.musixmatch.com/lyrics/The-Rose-Garden/Next-Plane-to-London
 name: Next Plane To London
@@ -63,6 +66,8 @@ rankings:
   rank: 35
   ranking_list: Billboard Hot 100
   start_date: '1968-01-20'
+release_year: 1967
+runtime: 149333
 ---
 Spoken:
 "The next flight to London will be boarding

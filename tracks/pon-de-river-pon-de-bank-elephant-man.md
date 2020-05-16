@@ -1,8 +1,11 @@
 ---
+album: Good 2 Go
 artists:
 - Elephant Man
+external_ids:
+  spotify: spotify:track:1tCWnejv08195hF9ZSS3X3
 features: []
-genres: []
+first_released_as_single: false
 key: pon-de-river-pon-de-bank-elephant-man
 lyrics_url: https://www.azlyrics.com/lyrics/elephantman/ponderiverpondebank.html
 name: Pon De River Pon De Bank
@@ -59,8 +62,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2003-11-15'
+release_year: 2003
+runtime: 239786
 ---
-
 Yea good to go
 
 
@@ -128,4 +132,3 @@ Gi Dem A Run Jhon,Gi Dema Run,Gi Dem A Run
 Wi An' Di Girls A Have A Fun
 Gi Dem A Run,Gi Dem A Run,Gi Dem A run
 Mi and keva A Have Fun
-

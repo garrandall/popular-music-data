@@ -1,8 +1,11 @@
 ---
+album: Thankful
 artists:
 - Kelly Clarkson
+external_ids:
+  spotify: spotify:track:1fuYq18uytyFMyBrFoUu6f
 features: []
-genres: []
+first_released_as_single: false
 key: a-moment-like-this-kelly-clarkson
 lyrics_url: https://www.azlyrics.com/lyrics/kellyclarkson/amomentlikethis.html
 name: A Moment Like This
@@ -87,10 +90,9 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2003-02-01'
+release_year: 2002
+runtime: 228019
 ---
-
-
-
 What if I told you
 It was all meant to be
 Would you believe me,
@@ -147,6 +149,3 @@ Some people wait a lifetime,
 For a moment like this.
 
 Oh, like this.
-
-
-

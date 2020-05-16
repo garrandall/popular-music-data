@@ -1,8 +1,11 @@
 ---
+album: Where It's At
 artists:
 - Dustin Lynch
+external_ids:
+  spotify: spotify:track:4x7Di9FZJXJoxHjLxjImmp
 features: []
-genres: []
+first_released_as_single: false
 key: hell-of-a-night-dustin-lynch
 lyrics_url: https://www.azlyrics.com/lyrics/dustinlynch/hellofanight.html
 name: Hell Of A Night
@@ -71,8 +74,9 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '2015-10-03'
+release_year: 2014
+runtime: 190426
 ---
-
 All we need is a July hot Saturday night
 A couple cans on cool and the needle on full and a countryside
 Yeah, a hot little playlist of your favorite songs
@@ -108,6 +112,3 @@ Hold on tight, I'm 'bout to show you one hell of a night
 Yeah, a once in a lifetime night
 Mmm girl, if you're down to ride one hell of a night
 I'm 'bout to show you one hell of a night
-
-
-

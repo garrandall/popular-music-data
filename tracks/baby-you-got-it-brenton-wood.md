@@ -1,8 +1,11 @@
 ---
+album: Baby You Got It
 artists:
 - Brenton Wood
+external_ids:
+  spotify: spotify:track:7hphy8rtxpYshs3UzDZTzN
 features: []
-genres: []
+first_released_as_single: false
 key: baby-you-got-it-brenton-wood
 lyrics_url: https://www.azlyrics.com/lyrics/brentonwood/babyyougotit.html
 name: Baby You Got It
@@ -35,8 +38,9 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '1968-01-06'
+release_year: 1967
+runtime: 128546
 ---
-
 I run after you like a fool would do
 But mama didn't raise no fools and I should know
 That baby, you got it, heh
@@ -86,6 +90,3 @@ The greatest shape, there's nothin' fake
 Baby, you got it
 The groovy lip, make me flip
 Baby, you got it
-
-
-

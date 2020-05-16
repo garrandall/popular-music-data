@@ -1,8 +1,11 @@
 ---
+album: A Woman, A Lover, A Friend
 artists:
 - Jackie Wilson
+external_ids:
+  spotify: spotify:track:5OPGXC7ixg9TsRI5NKn5xj
 features: []
-genres: []
+first_released_as_single: false
 key: -you-were-made-for--all-my-love-jackie-wilson
 lyrics_url: https://www.azlyrics.com/lyrics/jackiewilson/youweremadeforallmylove.html
 name: (You Were Made For) All My Love
@@ -59,8 +62,9 @@ rankings:
   rank: 52
   ranking_list: Billboard Hot 100
   start_date: '1960-10-03'
+release_year: 1960
+runtime: 129386
 ---
-
 All my love
 Give me the right to give you
 All my love
@@ -83,6 +87,3 @@ So wonderful
 I know our love could be so wonderful
 For it is written in the stars above
 That you were made for all my love
-
-
-

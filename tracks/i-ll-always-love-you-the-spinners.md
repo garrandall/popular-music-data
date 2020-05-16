@@ -1,8 +1,11 @@
 ---
+album: The Original Spinners
 artists:
 - The Spinners
+external_ids:
+  spotify: spotify:track:0Rs90wSPedsWUWAvJY4wU9
 features: []
-genres: []
+first_released_as_single: false
 key: i-ll-always-love-you-the-spinners
 lyrics_url: https://genius.com/The-spinners-ill-always-love-you-lyrics
 name: I'll Always Love You
@@ -35,6 +38,8 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '1965-08-28'
+release_year: 1965
+runtime: 169333
 ---
 (Doo doo doo doo doo doo)
 (Doo doo doo doo doo doo)

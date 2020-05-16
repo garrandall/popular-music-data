@@ -1,8 +1,11 @@
 ---
+album: Chubby's Folk Album
 artists:
 - Chubby Checker
+external_ids:
+  spotify: spotify:track:2WeTJahJRT1vtpS3aMeezX
 features: []
-genres: []
+first_released_as_single: false
 key: black-cloud-chubby-checker
 lyrics_url: https://www.musixmatch.com/lyrics/Chubby-Checker/Black-Cloud
 name: Black Cloud
@@ -11,6 +14,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1963-06-15'
+release_year: 1963
+runtime: 139346
 ---
 There's a black cloud
 Hanging over my head

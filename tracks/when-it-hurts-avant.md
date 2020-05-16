@@ -1,8 +1,11 @@
 ---
+album: Avant
 artists:
 - Avant
+external_ids:
+  spotify: spotify:track:00zqTWtvCWvDtAqoLRl6Sy
 features: []
-genres: []
+first_released_as_single: false
 key: when-it-hurts-avant
 lyrics_url: https://www.azlyrics.com/lyrics/avant/whenithurts.html
 name: When It Hurts
@@ -19,8 +22,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2009-01-24'
+release_year: 2008
+runtime: 236213
 ---
-
 Can you take me telling you the truth 
 When I know the situation is shadiest 
 But my girl, will you.. 
@@ -109,6 +113,3 @@ When it hurts (When it hurts)
 When it hurts (When it hurts) 
 When it hurts (When it hurts) 
 Do you love me when it hurts
-
-
-

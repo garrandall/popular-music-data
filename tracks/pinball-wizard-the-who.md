@@ -1,8 +1,11 @@
 ---
+album: Tommy
 artists:
 - The Who
+external_ids:
+  spotify: spotify:track:6LbbHFEajG9e4m0G3L47c4
 features: []
-genres: []
+first_released_as_single: false
 key: pinball-wizard-the-who
 lyrics_url: https://genius.com/The-who-pinball-wizard-lyrics
 name: Pinball Wizard
@@ -51,6 +54,8 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '1969-06-14'
+release_year: 1969
+runtime: 180943
 ---
 Ever since I was a young boy, I've played the silver ball
 From Soho down to Brighton, I must've played 'em all

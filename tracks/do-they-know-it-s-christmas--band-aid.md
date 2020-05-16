@@ -1,8 +1,11 @@
 ---
+album: Do They Know It's Christmas?
 artists:
 - Band-Aid
+external_ids:
+  spotify: spotify:track:0247StOpd3AkeBQzANX4Zf
 features: []
-genres: []
+first_released_as_single: true
 key: do-they-know-it-s-christmas--band-aid
 lyrics_url: https://www.azlyrics.com/lyrics/bandaid20/dotheyknowitschristmas.html
 name: Do They Know It's Christmas?
@@ -43,9 +46,9 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1985-02-16'
+release_year: 1984
+runtime: 222533
 ---
-
-
 It's Christmastime, there's no need to be afraid
 At Christmastime, we let in light and we banish shade
 
@@ -128,4 +131,3 @@ Feed the world
 
 
 Feed the world -
-

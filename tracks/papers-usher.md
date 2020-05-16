@@ -1,8 +1,11 @@
 ---
+album: Raymond v Raymond
 artists:
 - Usher
+external_ids:
+  spotify: spotify:track:77fP7UixHMYEIFT8NS92Ul
 features: []
-genres: []
+first_released_as_single: false
 key: papers-usher
 lyrics_url: https://genius.com/Usher-papers-lyrics
 name: Papers
@@ -71,6 +74,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2010-02-13'
+release_year: 2009
+runtime: 261413
 ---
 Oh, oh, oh, papers
 Oh, oh, oh, papers

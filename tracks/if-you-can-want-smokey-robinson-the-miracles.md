@@ -1,9 +1,12 @@
 ---
+album: Special Occasion
 artists:
 - Smokey Robinson
 - The Miracles
+external_ids:
+  spotify: spotify:track:0SmI8EB25nrjJO8oj05iKo
 features: []
-genres: []
+first_released_as_single: false
 key: if-you-can-want-smokey-robinson-the-miracles
 lyrics_url: https://www.azlyrics.com/lyrics/smokeyrobinsonthemiracles/ifyoucanwant.html
 name: If You Can Want
@@ -56,6 +59,8 @@ rankings:
   rank: 33
   ranking_list: Billboard Hot 100
   start_date: '1968-05-11'
+release_year: 1968
+runtime: 164426
 ---
 Oh you may not love me now but I'm stayin' around
 'Cause you want my company

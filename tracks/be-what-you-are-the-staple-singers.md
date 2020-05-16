@@ -1,8 +1,11 @@
 ---
+album: Be What You Are (Reissue)
 artists:
 - The Staple Singers
+external_ids:
+  spotify: spotify:track:1fg6UVqUTCNY8O37bSvaV1
 features: []
-genres: []
+first_released_as_single: false
 key: be-what-you-are-the-staple-singers
 lyrics_url: https://genius.com/The-staple-singers-be-what-you-are-lyrics
 name: Be What You Are
@@ -31,6 +34,8 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '1973-07-21'
+release_year: 1973
+runtime: 300266
 ---
 Oh man, you heard enough
 Trying to live a risking life

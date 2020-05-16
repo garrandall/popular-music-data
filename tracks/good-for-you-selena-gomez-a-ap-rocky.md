@@ -1,9 +1,12 @@
 ---
+album: Revival
 artists:
 - Selena Gomez
+external_ids:
+  spotify: spotify:track:5XfywqPX6XBOdYQNbOaQvy
 features:
 - A$AP Rocky
-genres: []
+first_released_as_single: true
 key: good-for-you-selena-gomez-a-ap-rocky
 lyrics_url: https://www.azlyrics.com/lyrics/selenagomez/goodforyou.html
 name: Good For You
@@ -112,8 +115,9 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '2016-01-02'
+release_year: 2015
+runtime: 221560
 ---
-
 I'm on my 14 carats
 I'm 14 carat
 Doing it up like Midas, mhm

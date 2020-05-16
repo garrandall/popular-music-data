@@ -1,8 +1,11 @@
 ---
+album: Collection 1959-62
 artists:
 - Adam Wade
+external_ids:
+  spotify: spotify:track:76sxXwQ2n7hs3G1Az0ywnx
 features: []
-genres: []
+first_released_as_single: false
 key: linda-adam-wade
 lyrics_url: https://www.musixmatch.com/lyrics/Adam-Wade/Linda
 name: Linda
@@ -11,6 +14,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1961-10-02'
+release_year: 1961
+runtime: 140360
 ---
 When I go to sleep (sleep)
 I never count sheep (sheep)

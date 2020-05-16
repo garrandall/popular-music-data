@@ -1,8 +1,11 @@
 ---
+album: The Atlantic Recordings
 artists:
 - Percy Sledge
+external_ids:
+  spotify: spotify:track:58QGD3OZjM00eWGXHlzIvT
 features: []
-genres: []
+first_released_as_single: false
 key: any-day-now-percy-sledge
 lyrics_url: https://www.musixmatch.com/lyrics/Percy-Sledge/Any-Day-Now
 name: Any Day Now
@@ -23,6 +26,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1969-05-03'
+release_year: 1969
+runtime: 224453
 ---
 I will hear you say
 Goodbye, my love

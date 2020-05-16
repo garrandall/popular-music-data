@@ -1,8 +1,11 @@
 ---
+album: Jackie
 artists:
 - Ciara
+external_ids:
+  spotify: spotify:track:3N0zItpkPw2djHxQNch2JT
 features: []
-genres: []
+first_released_as_single: true
 key: dance-like-we-re-making-love-ciara
 lyrics_url: https://genius.com/Ciara-dance-like-were-making-love-lyrics
 name: Dance Like We're Making Love
@@ -11,6 +14,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2015-08-08'
+release_year: 2015
+runtime: 256600
 ---
 Sweat dripping from my body
 We both at this party

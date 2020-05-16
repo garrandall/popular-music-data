@@ -1,9 +1,12 @@
 ---
+album: Drankin' Patnaz
 artists:
 - YoungBloodZ
+external_ids:
+  spotify: spotify:track:4oDZaOkBt5DgU4AwzZ4tHZ
 features:
 - Lil Jon
-genres: []
+first_released_as_single: true
 key: damn--youngbloodz-lil-jon
 lyrics_url: https://genius.com/Youngbloodz-hip-hop-damn-lyrics
 name: Damn!
@@ -136,6 +139,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2004-03-13'
+release_year: 2003
+runtime: 240693
 ---
 They calling me to come back to the streets
 Sean P., aka "A Sharp Crease"

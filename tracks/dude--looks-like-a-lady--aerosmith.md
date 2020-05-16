@@ -1,8 +1,11 @@
 ---
+album: Permanent Vacation
 artists:
 - Aerosmith
+external_ids:
+  spotify: spotify:track:6gQUbFwwdYXlKdmqRoWKJe
 features: []
-genres: []
+first_released_as_single: false
 key: dude--looks-like-a-lady--aerosmith
 lyrics_url: https://www.azlyrics.com/lyrics/aerosmith/dudelookslikealady.html
 name: Dude (Looks Like A Lady)
@@ -87,8 +90,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1988-02-13'
+release_year: 1987
+runtime: 265773
 ---
-
 That, that dude looks like a lady
 That, that dude looks like a lady
 That, that dude looks like a lady
@@ -146,6 +150,3 @@ Dude, dude, dude, dude looks like a lady
 Dude, dude, dude, dude looks like a lady
 Dude, dude, dude, dude looks like a lady
 Dude, dude, dude, dude looks like a lady
-
-
-

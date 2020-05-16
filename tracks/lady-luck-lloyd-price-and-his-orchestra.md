@@ -1,8 +1,11 @@
 ---
+album: Lloyd Swings for Sammy
 artists:
 - Lloyd Price
+external_ids:
+  spotify: spotify:track:1xnIJth954tcUa4ttHcYbu
 features: []
-genres: []
+first_released_as_single: false
 key: lady-luck-lloyd-price-and-his-orchestra
 lyrics_url: https://genius.com/Lloyd-price-lady-luck-lyrics
 name: Lady Luck
@@ -59,6 +62,8 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1960-04-25'
+release_year: 1960
+runtime: 158626
 ---
 Oh, lady luck turned her back on me
 Now I'm full of misery

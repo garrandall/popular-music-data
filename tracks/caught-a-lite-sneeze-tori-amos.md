@@ -1,8 +1,11 @@
 ---
+album: Boys For Pele
 artists:
 - Tori Amos
+external_ids:
+  spotify: spotify:track:2k2Nwz0FLUIKl7UyavRhjx
 features: []
-genres: []
+first_released_as_single: false
 key: caught-a-lite-sneeze-tori-amos
 lyrics_url: https://genius.com/Tori-amos-caught-a-lite-sneeze-lyrics
 name: Caught A Lite Sneeze
@@ -59,6 +62,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1996-04-13'
+release_year: 1996
+runtime: 265213
 ---
 Caught a lite sneeze, caught a light breeze
 Caught a lightweight lightning seed

@@ -1,8 +1,11 @@
 ---
+album: My Life
 artists:
 - Mary J. Blige
+external_ids:
+  spotify: spotify:track:1BrygDkHQpsLoH93nbTjtj
 features: []
-genres: []
+first_released_as_single: false
 key: i-love-you-mary-j--blige
 lyrics_url: https://genius.com/Mary-j-blige-i-love-you-lyrics
 name: I Love You
@@ -83,6 +86,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1995-10-21'
+release_year: 1994
+runtime: 271226
 ---
 All those pretty memories
 I know you can hear me now

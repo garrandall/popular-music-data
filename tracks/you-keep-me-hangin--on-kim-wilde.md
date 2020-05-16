@@ -1,8 +1,11 @@
 ---
+album: Another Step
 artists:
 - Kim Wilde
+external_ids:
+  spotify: spotify:track:1wEeNtO7z41aUqC80shxqK
 features: []
-genres: []
+first_released_as_single: false
 key: you-keep-me-hangin--on-kim-wilde
 lyrics_url: https://www.azlyrics.com/lyrics/kimwilde/youkeepmehanginon.html
 name: You Keep Me Hangin' On
@@ -91,8 +94,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1987-08-15'
+release_year: 1986
+runtime: 255220
 ---
-
 Set me free why don't cha babe
 Get out of my life why don't cha babe
 'cause you don't really love me
@@ -136,6 +140,3 @@ And let me sleep at night
 You just keep me hangin'on
 You don't really need me
 You just keep me - hangin'on
-
-
-

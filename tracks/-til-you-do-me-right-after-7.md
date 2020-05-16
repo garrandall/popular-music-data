@@ -1,8 +1,11 @@
 ---
+album: Reflections
 artists:
 - After 7
+external_ids:
+  spotify: spotify:track:3kGMziz884MLV1oCwrarmN
 features: []
-genres: []
+first_released_as_single: false
 key: -til-you-do-me-right-after-7
 lyrics_url: https://genius.com/After-7-til-you-do-me-right-lyrics
 name: '''Til You Do Me Right'
@@ -95,6 +98,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1995-12-02'
+release_year: 1995
+runtime: 295000
 ---
 I was in love with you
 I gave my heart to you

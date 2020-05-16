@@ -1,9 +1,12 @@
 ---
+album: Start Here
 artists:
 - Maddie
 - Tae
+external_ids:
+  spotify: spotify:track:1GRiBe0kNCNYpjwCHIyynI
 features: []
-genres: []
+first_released_as_single: false
 key: girl-in-a-country-song-maddie-tae
 lyrics_url: https://www.azlyrics.com/lyrics/maddietae/girlinacountrysong.html
 name: Girl In A Country Song
@@ -88,8 +91,9 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '2015-01-03'
+release_year: 2014
+runtime: 217840
 ---
-
 ("No country music was harmed in the making of this song, this is only a test-t-t.")
 
 Well, I wish I had some shoes on my two bare feet
@@ -97,7 +101,7 @@ And it's gettin' kinda cold in these painted on cut-off jeans
 I hate the way this bikini top chafes
 Do I really have to wear it all day? (Yeah, baby)
 
-I hear you over there on your tailgate whistlin' 
+I hear you over there on your tailgate whistlin'
 Sayin', "Hey girl." ("Hey, girl.")
 But you know I ain't listenin'
 'Cause I got a name
@@ -135,7 +139,7 @@ And be the girl in a country song (Yeah, yeah, yeah, baby)
 Aww no, Conway and George Strait
 Never did it this way
 Back in the old days
-Aww y'all, we ain't a clichÃ©
+Aww y'all, we ain't a cliché
 That ain't no way
 To treat a lady...
 
@@ -156,6 +160,3 @@ And be the girl in a country song
 
 Aww, no
 (Ha-ha-ha...)
-
-
-

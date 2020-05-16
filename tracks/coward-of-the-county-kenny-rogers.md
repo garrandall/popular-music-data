@@ -1,8 +1,11 @@
 ---
+album: Kenny
 artists:
 - Kenny Rogers
+external_ids:
+  spotify: spotify:track:0JkIre0YxNmKGMU5V7ZiDx
 features: []
-genres: []
+first_released_as_single: false
 key: coward-of-the-county-kenny-rogers
 lyrics_url: https://www.azlyrics.com/lyrics/kennyrogers/cowardofthecounty.html
 name: Coward Of The County
@@ -83,8 +86,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1980-03-22'
+release_year: 1979
+runtime: 258733
 ---
-
 Everyone considered him
 The coward of the county.
 He'd never stood one single time
@@ -165,6 +169,3 @@ Sometimes you gotta fight when you're a man."
 
 Everyone considered him
 The coward of the county.
-
-
-

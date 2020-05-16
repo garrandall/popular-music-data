@@ -1,8 +1,11 @@
 ---
+album: 'Polly Brown & Sweet Dreams: Greatest Hits'
 artists:
 - Polly Brown
+external_ids:
+  spotify: spotify:track:3PeiH20utGblIO1Bv82tmo
 features: []
-genres: []
+first_released_as_single: false
 key: up-in-a-puff-of-smoke-polly-brown
 lyrics_url: https://www.musixmatch.com/lyrics/Polly-Browne/Up-in-a-Puff-of-Smoke
 name: Up In A Puff Of Smoke
@@ -59,6 +62,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1975-03-29'
+release_year: 1975
+runtime: 210040
 ---
 Going up, going up
 Going up, up, up

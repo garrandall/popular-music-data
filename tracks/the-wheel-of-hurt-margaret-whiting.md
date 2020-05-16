@@ -1,8 +1,11 @@
 ---
+album: The Wheel of Hurt
 artists:
 - Margaret Whiting
+external_ids:
+  spotify: spotify:track:2N6pHH41hTjwXpOwnsTLCG
 features: []
-genres: []
+first_released_as_single: false
 key: the-wheel-of-hurt-margaret-whiting
 lyrics_url: https://www.musixmatch.com/lyrics/Margaret-Whiting/The-Wheel-of-Hurt
 name: The Wheel Of Hurt
@@ -51,6 +54,8 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '1966-12-17'
+release_year: 1966
+runtime: 166200
 ---
 You're gonna know what it means to be lonely,
 You're gonna know what it means to be blue.

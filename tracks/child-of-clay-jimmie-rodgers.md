@@ -1,8 +1,11 @@
 ---
+album: Kiss Sweeter Than Wine
 artists:
 - Jimmie Rodgers
+external_ids:
+  spotify: spotify:track:3pEMTFhghwN52Cs8QVlfa8
 features: []
-genres: []
+first_released_as_single: false
 key: child-of-clay-jimmie-rodgers
 lyrics_url: https://www.musixmatch.com/lyrics/Jimmie-Rodgers/Child-Of-Clay
 name: Child Of Clay
@@ -39,6 +42,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1967-11-11'
+release_year: 1967
+runtime: 250226
 ---
 Jimmie Rodgers
 Miscellaneous

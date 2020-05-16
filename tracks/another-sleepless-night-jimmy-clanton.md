@@ -1,8 +1,11 @@
 ---
+album: All the Hits and More!
 artists:
 - Jimmy Clanton
+external_ids:
+  spotify: spotify:track:0upIcv9YLNXYr7UboPfIed
 features: []
-genres: []
+first_released_as_single: false
 key: another-sleepless-night-jimmy-clanton
 lyrics_url: https://genius.com/Jimmy-clanton-another-sleepless-night-lyrics
 name: Another Sleepless Night
@@ -59,6 +62,8 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '1960-07-18'
+release_year: 1960
+runtime: 130821
 ---
 The nights have been so lonely since you went away
 I could not get to sleep try as I may

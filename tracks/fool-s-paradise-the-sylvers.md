@@ -1,8 +1,11 @@
 ---
+album: The Sylvers
 artists:
 - The Sylvers
+external_ids:
+  spotify: spotify:track:6tKZbih1sT2ouzr8Atkbrv
 features: []
-genres: []
+first_released_as_single: false
 key: fool-s-paradise-the-sylvers
 lyrics_url: https://genius.com/The-sylvers-fools-paradise-lyrics
 name: Fool's Paradise
@@ -19,6 +22,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1972-09-16'
+release_year: 1972
+runtime: 149226
 ---
 Living your lives in a fool's paradise
 And that's not for me

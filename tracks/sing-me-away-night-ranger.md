@@ -1,8 +1,11 @@
 ---
+album: Dawn Patrol
 artists:
 - Night Ranger
+external_ids:
+  spotify: spotify:track:6Aav1GMR2dbFU7nIRrnwQa
 features: []
-genres: []
+first_released_as_single: false
 key: sing-me-away-night-ranger
 lyrics_url: https://www.azlyrics.com/lyrics/nightranger/singmeaway.html
 name: Sing Me Away
@@ -43,8 +46,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1983-06-04'
+release_year: 1982
+runtime: 250800
 ---
-
 Sometimes I sit and I dream on for hours
 Sometimes my hours they turn into days
 I dream of a girl I once knew as a schoolboy
@@ -72,6 +76,3 @@ Sing me away
 Sing me away
 Sing me away
 Sing me away
-
-
-

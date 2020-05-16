@@ -1,8 +1,11 @@
 ---
+album: My Name Is Barbra, Two...
 artists:
 - Barbra Streisand
+external_ids:
+  spotify: spotify:track:2Nedv1Obv5cP8xULaS8r3j
 features: []
-genres: []
+first_released_as_single: false
 key: he-touched-me-barbra-streisand
 lyrics_url: https://www.azlyrics.com/lyrics/barbrastreisand/hetouchedme.html
 name: He Touched Me
@@ -47,8 +50,9 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1965-12-04'
+release_year: 1965
+runtime: 188973
 ---
-
 He touched me,
 He put his hand near mine
 And then he touched me
@@ -71,6 +75,3 @@ And suddenly nothing is the same!
 'Cause he touched me...
 He touched me...
 And suddenly... nothing, nothing, nothing is the same!
-
-
-

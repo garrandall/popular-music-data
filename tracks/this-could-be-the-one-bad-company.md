@@ -1,8 +1,11 @@
 ---
+album: Here Comes Trouble
 artists:
 - Bad Company
+external_ids:
+  spotify: spotify:track:5xwosKJ1p4NP0Y1wKslyh2
 features: []
-genres: []
+first_released_as_single: false
 key: this-could-be-the-one-bad-company
 lyrics_url: https://genius.com/Bad-company-this-could-be-the-one-lyrics
 name: This Could Be The One
@@ -39,6 +42,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1993-02-06'
+release_year: 1992
+runtime: 317626
 ---
 I've been alone since I don't know when, and I don't need another lover
 I just don't know if I could follow again, it's been gettin' me down

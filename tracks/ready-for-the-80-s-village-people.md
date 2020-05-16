@@ -1,8 +1,11 @@
 ---
+album: The Best Of Village People
 artists:
 - Village People
+external_ids:
+  spotify: spotify:track:3G26NbTxwnnhyhlIzAp1Wl
 features: []
-genres: []
+first_released_as_single: false
 key: ready-for-the-80-s-village-people
 lyrics_url: https://www.azlyrics.com/lyrics/villagepeople/readyforthe80s.html
 name: Ready For The 80's
@@ -43,8 +46,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1979-12-29'
+release_year: 1979
+runtime: 413760
 ---
-
 The world "talkin" 'bout the world belongs to you
 It belongs to yo
 The world
@@ -122,6 +126,3 @@ And baby I'll be happy with you
 Our dreams will come true
 I'm ready I'm ready I'm ready
 Baby I'm ready,I'm ready,I'm ready,...
-
-
-

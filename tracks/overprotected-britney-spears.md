@@ -1,8 +1,11 @@
 ---
+album: Britney (Digital Deluxe Version)
 artists:
 - Britney Spears
+external_ids:
+  spotify: spotify:track:5p0KCAuu5nrHpTuAIhHdLw
 features: []
-genres: []
+first_released_as_single: false
 key: overprotected-britney-spears
 lyrics_url: https://genius.com/Britney-spears-overprotected-lyrics
 name: Overprotected
@@ -27,6 +30,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2002-05-25'
+release_year: 2001
+runtime: 198600
 ---
 I need time, love, joy
 I need space, love

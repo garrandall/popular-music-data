@@ -1,8 +1,11 @@
 ---
+album: The Bang Years 1966-1968 (The 23 Original Mono Recordings)
 artists:
 - Neil Diamond
+external_ids:
+  spotify: spotify:track:1BmVQ5RGqqtF5cnsv6cQYu
 features: []
-genres: []
+first_released_as_single: false
 key: girl-you-ll-be-a-woman-soon-neil-diamond
 lyrics_url: https://genius.com/Neil-diamond-girl-youll-be-a-woman-soon-lyrics
 name: Girl You'll Be A Woman Soon
@@ -51,6 +54,8 @@ rankings:
   rank: 35
   ranking_list: Billboard Hot 100
   start_date: '1967-06-17'
+release_year: 1967
+runtime: 180253
 ---
 Girl, you'll be a woman soon
 I love you so much, can't count all the ways

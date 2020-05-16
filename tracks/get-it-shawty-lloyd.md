@@ -1,8 +1,11 @@
 ---
+album: Street Love
 artists:
 - Lloyd
+external_ids:
+  spotify: spotify:track:2a03afRiyAbNAleOByVju4
 features: []
-genres: []
+first_released_as_single: false
 key: get-it-shawty-lloyd
 lyrics_url: https://genius.com/Lloyd-get-it-shawty-lyrics
 name: Get It Shawty
@@ -95,6 +98,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2007-08-25'
+release_year: 2007
+runtime: 209533
 ---
 I guess if I can let this moment slip away
 Cause I got my eye on you

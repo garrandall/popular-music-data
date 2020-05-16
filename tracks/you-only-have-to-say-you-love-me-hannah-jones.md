@@ -1,8 +1,11 @@
 ---
+album: 'You Only Have To Say You Love Me: The International Collection'
 artists:
 - Hannah Jones
+external_ids:
+  spotify: spotify:track:7K766rNA232c6hjmPSzfe2
 features: []
-genres: []
+first_released_as_single: false
 key: you-only-have-to-say-you-love-me-hannah-jones
 lyrics_url: https://genius.com/Hannah-jones-you-only-have-to-say-you-love-me-lyrics
 name: You Only Have To Say You Love Me
@@ -87,6 +90,8 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1998-10-24'
+release_year: 1998
+runtime: 360160
 ---
 I don't know why
 Don't know why that I torture myself

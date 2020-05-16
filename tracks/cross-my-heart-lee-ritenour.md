@@ -1,8 +1,11 @@
 ---
+album: Rit/2
 artists:
 - Lee Ritenour
+external_ids:
+  spotify: spotify:track:1DxX1D2pug5lSaf5XXjwuq
 features: []
-genres: []
+first_released_as_single: false
 key: cross-my-heart-lee-ritenour
 lyrics_url: https://www.musixmatch.com/lyrics/Lee-Ritenour/Cross-My-Heart
 name: Cross My Heart
@@ -35,6 +38,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1983-01-15'
+release_year: 1982
+runtime: 226640
 ---
 You ask me all about my past
 My other love affairs

@@ -1,8 +1,11 @@
 ---
+album: Spirit Of America
 artists:
 - The Beach Boys
+external_ids:
+  spotify: spotify:track:1wEHSOXRBj1wa5O7WXU3B8
 features: []
-genres: []
+first_released_as_single: false
 key: break-away-the-beach-boys
 lyrics_url: https://genius.com/The-beach-boys-break-away-lyrics
 name: Break Away
@@ -31,6 +34,8 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '1969-08-09'
+release_year: 1969
+runtime: 176866
 ---
 Break break shake away
 Break breakaway

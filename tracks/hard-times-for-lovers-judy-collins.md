@@ -1,8 +1,11 @@
 ---
+album: Hard Time For Lovers
 artists:
 - Judy Collins
+external_ids:
+  spotify: spotify:track:12JzQOwSvsPom3kKvPKMxi
 features: []
-genres: []
+first_released_as_single: false
 key: hard-times-for-lovers-judy-collins
 lyrics_url: https://www.musixmatch.com/lyrics/Judy-Collins/Hard-Times-for-Lovers
 name: Hard Times For Lovers
@@ -31,6 +34,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1979-04-21'
+release_year: 1979
+runtime: 236906
 ---
 Seems it was just a while ago
 All of my friends and i

@@ -1,8 +1,11 @@
 ---
+album: When Seconds Count
 artists:
 - Survivor
+external_ids:
+  spotify: spotify:track:2Br1qzf8rH7LIvAzohfW4A
 features: []
-genres: []
+first_released_as_single: false
 key: how-much-love-survivor
 lyrics_url: https://genius.com/Survivor-how-much-love-lyrics
 name: How Much Love
@@ -43,6 +46,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1987-04-18'
+release_year: 1986
+runtime: 237200
 ---
 How can I tell you
 To put it all in words

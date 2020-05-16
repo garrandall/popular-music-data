@@ -1,8 +1,11 @@
 ---
+album: We Are The '80s
 artists:
 - A Flock Of Seagulls
+external_ids:
+  spotify: spotify:track:4s0QpaeB5a3C9cxNGqPXxk
 features: []
-genres: []
+first_released_as_single: false
 key: i-ran--so-far-away--a-flock-of-seagulls
 lyrics_url: https://genius.com/A-flock-of-seagulls-i-ran-live-lyrics
 name: I Ran (So Far Away)
@@ -95,6 +98,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1982-12-04'
+release_year: 1981
+runtime: 306626
 ---
 I walk along the avenue
 I never thought I'd meet a girl like you

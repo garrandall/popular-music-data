@@ -1,8 +1,11 @@
 ---
+album: Made In The A.M.
 artists:
 - One Direction
+external_ids:
+  spotify: spotify:track:1Fp6l6zY6qrBg7NuvYgp8n
 features: []
-genres: []
+first_released_as_single: true
 key: history-one-direction
 lyrics_url: https://genius.com/One-direction-history-lyrics
 name: History
@@ -31,6 +34,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2016-03-19'
+release_year: 2015
+runtime: 187426
 ---
 You gotta help me, I'm losing my mind
 Keep getting the feeling you wanna leave this all behind

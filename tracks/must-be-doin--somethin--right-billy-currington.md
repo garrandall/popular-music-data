@@ -1,8 +1,11 @@
 ---
+album: Doin' Somethin' Right
 artists:
 - Billy Currington
+external_ids:
+  spotify: spotify:track:6TefPQD0oc88BNALpu4U87
 features: []
-genres: []
+first_released_as_single: false
 key: must-be-doin--somethin--right-billy-currington
 lyrics_url: https://www.azlyrics.com/lyrics/billycurrington/mustbedoinsomethinright.html
 name: Must Be Doin' Somethin' Right
@@ -87,8 +90,9 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '2006-03-04'
+release_year: 2005
+runtime: 269586
 ---
-
 A woman is mystery
 A man just can't understand
 Sometimes all it takes to please her
@@ -125,6 +129,3 @@ I don't know what I did
 To earn a love like this, but baby, I
 Must be doin' something right
 Must be doin' something right
-
-
-

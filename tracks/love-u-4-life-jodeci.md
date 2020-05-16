@@ -1,8 +1,11 @@
 ---
+album: The Show, The After Party, The Hotel
 artists:
 - Jodeci
+external_ids:
+  spotify: spotify:track:02D9uD9WQb834Lb54xCvDS
 features: []
-genres: []
+first_released_as_single: false
 key: love-u-4-life-jodeci
 lyrics_url: https://www.azlyrics.com/lyrics/jodeci/loveu4life.html
 name: Love U 4 Life
@@ -87,8 +90,9 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1996-03-16'
+release_year: 1995
+runtime: 290066
 ---
-
 Promises you made me
 All the things you told me
 You said you'd never leave me
@@ -156,6 +160,3 @@ Do you believe in love
 And the promise that it gives
 I wanna love you for life
 Cause your love is why I live
-
-
-

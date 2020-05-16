@@ -1,8 +1,11 @@
 ---
+album: The Best Of Barbara Mandrell
 artists:
 - Barbara Mandrell
+external_ids:
+  spotify: spotify:track:4skT294uKyPTfqpHcccjDF
 features: []
-genres: []
+first_released_as_single: false
 key: woman-to-woman-barbara-mandrell
 lyrics_url: https://www.azlyrics.com/lyrics/barbaramandrell/womantowoman.html
 name: Woman To Woman
@@ -27,8 +30,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1978-04-01'
+release_year: 1978
+runtime: 207426
 ---
-
 Hello?
 You don't know who this is but...
 The reason I'm calling you is because...
@@ -74,6 +78,3 @@ Wouldn't you have done the same thing too?
 Woman to woman
 I've just can't step aside
 And let you take what's rightfully mine
-
-
-

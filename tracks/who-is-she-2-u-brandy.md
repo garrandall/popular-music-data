@@ -1,8 +1,11 @@
 ---
+album: Afrodisiac
 artists:
 - Brandy
+external_ids:
+  spotify: spotify:track:5jSAfX8SJVD5uzFyLlTVwo
 features: []
-genres: []
+first_released_as_single: false
 key: who-is-she-2-u-brandy
 lyrics_url: https://genius.com/Brandy-who-is-she-2-u-lyrics
 name: Who Is She 2 U
@@ -23,6 +26,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2004-09-18'
+release_year: 2004
+runtime: 283280
 ---
 C'mon
 C'mon

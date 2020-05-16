@@ -1,8 +1,11 @@
 ---
+album: My Best
 artists:
 - Burl Ives
+external_ids:
+  spotify: spotify:track:1EPDzqgJ2cdVQk8iMjdDMX
 features: []
-genres: []
+first_released_as_single: false
 key: this-is-all-i-ask-burl-ives
 lyrics_url: https://www.azlyrics.com/lyrics/burlives/thisisalliask.html
 name: This Is All I Ask
@@ -27,8 +30,9 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1963-08-31'
+release_year: 1963
+runtime: 240947
 ---
-
 As I approach the prime of my life
 I find I have the time of my life
 Learning to enjoy at my leisure
@@ -82,6 +86,3 @@ A song to sing
 
 And I will stay younger
 Than Spring
-
-
-

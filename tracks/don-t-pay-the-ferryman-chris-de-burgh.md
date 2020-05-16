@@ -1,8 +1,11 @@
 ---
+album: The Getaway
 artists:
 - Chris de Burgh
+external_ids:
+  spotify: spotify:track:0vJlZS5zLMhRQ6xo9vmAlB
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-pay-the-ferryman-chris-de-burgh
 lyrics_url: https://genius.com/Chris-de-burgh-dont-pay-the-ferryman-lyrics
 name: Don't Pay The Ferryman
@@ -63,6 +66,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1983-07-30'
+release_year: 1982
+runtime: 228826
 ---
 It was late at night on the open road
 Speeding like a man on the run

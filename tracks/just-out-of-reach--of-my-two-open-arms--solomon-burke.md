@@ -1,8 +1,11 @@
 ---
+album: Rock 'N Soul
 artists:
 - Solomon Burke
+external_ids:
+  spotify: spotify:track:1AYEpoIydJCQF6yp46rspK
 features: []
-genres: []
+first_released_as_single: false
 key: just-out-of-reach--of-my-two-open-arms--solomon-burke
 lyrics_url: https://genius.com/Solomon-burke-just-out-of-reach-lyrics
 name: Just Out Of Reach (Of My Two Open Arms)
@@ -75,6 +78,8 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1962-01-13'
+release_year: 1961
+runtime: 170640
 ---
 Just out of reach of my two empty arms
 

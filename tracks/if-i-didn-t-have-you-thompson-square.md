@@ -1,8 +1,11 @@
 ---
+album: Just Feels Good
 artists:
 - Thompson Square
+external_ids:
+  spotify: spotify:track:6PQ0WLZnT479J7Q1TGIb3n
 features: []
-genres: []
+first_released_as_single: false
 key: if-i-didn-t-have-you-thompson-square
 lyrics_url: https://genius.com/Thompson-square-if-i-didnt-have-you-lyrics
 name: If I Didn't Have You
@@ -87,6 +90,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2013-06-01'
+release_year: 2012
+runtime: 202906
 ---
 Sometimes it feels like, I'm gonna break
 Sometimes this world, gives more than I can take

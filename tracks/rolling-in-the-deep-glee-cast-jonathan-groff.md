@@ -1,9 +1,12 @@
 ---
+album: 'Glee: The Music, Volume 6'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:460opww0SOGYK2F4Lcv9gz
 features:
 - Jonathan Groff
-genres: []
+first_released_as_single: false
 key: rolling-in-the-deep-glee-cast-jonathan-groff
 lyrics_url: https://www.azlyrics.com/lyrics/gleecast/rollinginthedeep.html
 name: Rolling In The Deep
@@ -16,9 +19,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2011-06-04'
+release_year: 2011
+runtime: 204600
 ---
-
-
 There's a fire startin' in my heart
 Reachin' a fever pitch and it's bringin' me out the dark
 
@@ -84,6 +87,3 @@ You had my heart inside of your hands (You're gonna wish you never had met me)
 
 And you played and you played and you played
 And you played it to the beat
-
-
-

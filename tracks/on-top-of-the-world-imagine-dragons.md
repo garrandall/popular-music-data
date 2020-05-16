@@ -1,8 +1,11 @@
 ---
+album: Night Visions
 artists:
 - Imagine Dragons
+external_ids:
+  spotify: spotify:track:6KuHjfXHkfnIjdmcIvt9r0
 features: []
-genres: []
+first_released_as_single: false
 key: on-top-of-the-world-imagine-dragons
 lyrics_url: https://www.azlyrics.com/lyrics/imaginedragons/ontopoftheworld.html
 name: On Top Of The World
@@ -87,8 +90,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2014-07-05'
+release_year: 2012
+runtime: 189840
 ---
-
 If you love somebody
 Better tell them while they're here
 'cause they just may run away from you
@@ -162,6 +166,3 @@ Take you with me if I can
 Been dreaming of this since a child
 
 I'm on top of the world
-
-
-

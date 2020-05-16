@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music, The Power Of Madonna'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:1ojdrbpUqSQ8ItXs4tZQwd
 features: []
-genres: []
+first_released_as_single: false
 key: borderline-glee-cast
 lyrics_url: https://www.azlyrics.com/lyrics/gleecast/borderlineopenyourheart.html
 name: Borderline
@@ -11,8 +14,9 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '2010-05-08'
+release_year: 2010
+runtime: 135800
 ---
-
 Something in the way you love me won't let me be
 I don't want to be your prisoner so baby won't you set me free
 Stop playin' with my heart
@@ -46,6 +50,3 @@ Open your heart to me, darlin'
 I'll give you love if you, you turn the key
 (oh oh oh)
 Open your heart with the key
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: The Free Electric Band
 artists:
 - Albert Hammond
+external_ids:
+  spotify: spotify:track:2bbIswC2E2MMSSjcHFD17G
 features: []
-genres: []
+first_released_as_single: false
 key: the-free-electric-band-albert-hammond
 lyrics_url: https://www.azlyrics.com/lyrics/alberthammond/thefreeelectricband.html
 name: The Free Electric Band
@@ -51,8 +54,9 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '1973-07-07'
+release_year: 1973
+runtime: 206706
 ---
-
 My father is a doctor, he's a family man
 My mother works for charity whenever she can
 And they're both good clean Americans who abide by the law
@@ -86,6 +90,3 @@ She'd settle for suburbia and a little patch of land
 So I gave her up for music and The Free Electric Band
 
 Oh.. The Free Electric Band...
-
-
-

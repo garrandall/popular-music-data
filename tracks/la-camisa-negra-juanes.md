@@ -1,8 +1,11 @@
 ---
+album: Mi Sangre
 artists:
 - Juanes
+external_ids:
+  spotify: spotify:track:2EM9zpAc7PVeoAydmbfVIL
 features: []
-genres: []
+first_released_as_single: false
 key: la-camisa-negra-juanes
 lyrics_url: https://genius.com/Juanes-la-camisa-negra-lyrics
 name: La Camisa Negra
@@ -59,6 +62,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2005-07-02'
+release_year: 2004
+runtime: 216706
 ---
 Uno por pobre y feo, home'
 Pero antojao'

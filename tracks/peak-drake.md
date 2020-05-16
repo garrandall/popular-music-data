@@ -1,8 +1,11 @@
 ---
+album: Live at Sussex University
 artists:
 - Drake
+external_ids:
+  spotify: spotify:track:45E0anG3rpZur9EW5sscGg
 features: []
-genres: []
+first_released_as_single: false
 key: peak-drake
 lyrics_url: https://genius.com/Drake-peak-lyrics
 name: Peak
@@ -15,6 +18,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2018-07-21'
+release_year: 2018
+runtime: 212032
 ---
 Treat you like princess
 Rest in heaven, Diana

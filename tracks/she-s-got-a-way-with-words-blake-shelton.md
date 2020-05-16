@@ -1,8 +1,11 @@
 ---
+album: If I'm Honest
 artists:
 - Blake Shelton
+external_ids:
+  spotify: spotify:track:3JffB4CABj9lA0NC63kbCp
 features: []
-genres: []
+first_released_as_single: false
 key: she-s-got-a-way-with-words-blake-shelton
 lyrics_url: https://genius.com/Blake-shelton-shes-got-a-way-with-words-lyrics
 name: She's Got A Way With Words
@@ -55,6 +58,8 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '2016-10-01'
+release_year: 2016
+runtime: 190986
 ---
 When you put two and two together
 You figure out love's got four letters

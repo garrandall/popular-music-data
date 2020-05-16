@@ -1,8 +1,11 @@
 ---
+album: In Effect Mode
 artists:
 - Al B. Sure!
+external_ids:
+  spotify: spotify:track:2GRMJEIAvKlqJd9UHZTjRD
 features: []
-genres: []
+first_released_as_single: false
 key: off-on-your-own--girl--al-b--sure-
 lyrics_url: https://genius.com/Al-b-sure-off-on-your-own-girl-lyrics
 name: Off On Your Own (Girl)
@@ -55,6 +58,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1988-10-22'
+release_year: 1988
+runtime: 249000
 ---
 Woo, don't hit me too hard
 Oh, yeah

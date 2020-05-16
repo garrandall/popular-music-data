@@ -1,8 +1,11 @@
 ---
+album: Kamikaze
 artists:
 - Eminem
+external_ids:
+  spotify: spotify:track:2gsNpSn7VvvJuSrIDfRoYy
 features: []
-genres: []
+first_released_as_single: false
 key: kamikaze-eminem
 lyrics_url: https://www.musixmatch.com/lyrics/Eminem/Kamikaze
 name: Kamikaze
@@ -19,6 +22,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2018-09-29'
+release_year: 2018
+runtime: 216029
 ---
 You know, everybody's been tellin' me
 What they think about me for the last few months

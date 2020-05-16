@@ -1,8 +1,11 @@
 ---
+album: Love Man
 artists:
 - Otis Redding
+external_ids:
+  spotify: spotify:track:3pl0zws6JCFYUOuMJQNwB7
 features: []
-genres: []
+first_released_as_single: false
 key: a-lover-s-question-otis-redding
 lyrics_url: https://www.azlyrics.com/lyrics/otisredding/aloversquestion.html
 name: A Lover's Question
@@ -31,8 +34,9 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '1969-04-05'
+release_year: 1969
+runtime: 155773
 ---
-
 Does she love me, with all her heart
 should I worry, when we're apart
 it's a lover's question, I'd like to know.
@@ -60,6 +64,3 @@ and how am I to know it's really real.
 Oh, tell me where, the answer lies
 is it in her kiss or in her eyes
 it's a lover's question I'd like to know.
-
-
-

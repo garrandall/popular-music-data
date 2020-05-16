@@ -1,8 +1,11 @@
 ---
+album: Out of the Blue
 artists:
 - Electric Light Orchestra
+external_ids:
+  spotify: spotify:track:1vHwi2cZd0xkQhyXsLfvuG
 features: []
-genres: []
+first_released_as_single: false
 key: mr-blue-sky-electric-light-orchestra
 lyrics_url: https://genius.com/Electric-light-orchestra-mr-blue-sky-lyrics
 name: Mr Blue Sky
@@ -55,6 +58,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1978-09-09'
+release_year: 1972
+runtime: 305800
 ---
 "Morning! Today's forecast calls for blue skies."
 

@@ -1,8 +1,11 @@
 ---
+album: Chapel of Love
 artists:
 - The Dixie Cups
+external_ids:
+  spotify: spotify:track:4JchWgAG3RZmCLHcEGf9DZ
 features: []
-genres: []
+first_released_as_single: false
 key: chapel-of-love-the-dixie-cups
 lyrics_url: https://genius.com/The-dixie-cups-chapel-of-love-lyrics
 name: Chapel Of Love
@@ -59,6 +62,8 @@ rankings:
   rank: 32
   ranking_list: Billboard Hot 100
   start_date: '1964-07-25'
+release_year: 1964
+runtime: 170874
 ---
 Goin' to the chapel
 And we're gonna get married

@@ -1,8 +1,11 @@
 ---
+album: Lights From The Valley
 artists:
 - Chilliwack
+external_ids:
+  spotify: spotify:track:0lKctcUq7Qe8xIGHeBd6FE
 features: []
-genres: []
+first_released_as_single: false
 key: arms-of-mary-chilliwack
 lyrics_url: https://www.azlyrics.com/lyrics/chilliwack/armsofmary.html
 name: Arms Of Mary
@@ -31,8 +34,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1978-09-09'
+release_year: 1978
+runtime: 182524
 ---
-
 The light shines down the valley
 The wind blows up the alley
 Oh, and I wish I was lying in the arms of Mary
@@ -64,6 +68,3 @@ The light shines down the valley
 The wind blows up the alley
 Oh, and I wish I was lying in the arms of Mary
 Oh, and I wish I was lying in the arms of Mary
-
-
-

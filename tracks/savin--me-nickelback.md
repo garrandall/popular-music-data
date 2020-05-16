@@ -1,8 +1,11 @@
 ---
+album: All the Right Reasons
 artists:
 - Nickelback
+external_ids:
+  spotify: spotify:track:4Gd9PUEuOTOJtbgd4YxLXM
 features: []
-genres: []
+first_released_as_single: false
 key: savin--me-nickelback
 lyrics_url: https://www.azlyrics.com/lyrics/nickelback/savinme.html
 name: Savin' Me
@@ -119,8 +122,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2006-09-23'
+release_year: 2005
+runtime: 219320
 ---
-
 Prison gates won't open up for me
 On these hands and knees I'm crawlin'
 Oh, I reach for you
@@ -184,6 +188,3 @@ Say it for me
 Say it to me
 And I'll leave this life behind me
 Say it if it's worth saving me
-
-
-

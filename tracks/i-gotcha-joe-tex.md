@@ -1,8 +1,11 @@
 ---
+album: The Very Best of, Volume 2.
 artists:
 - Joe Tex
+external_ids:
+  spotify: spotify:track:3t5caUWBhKDgy1ypsxRcg4
 features: []
-genres: []
+first_released_as_single: false
 key: i-gotcha-joe-tex
 lyrics_url: https://genius.com/Joe-tex-i-gotcha-lyrics
 name: I Gotcha
@@ -91,6 +94,8 @@ rankings:
   rank: 26
   ranking_list: Billboard Hot 100
   start_date: '1972-06-10'
+release_year: 1969
+runtime: 148813
 ---
 I Gotcha!
 Uh-huh. Huh

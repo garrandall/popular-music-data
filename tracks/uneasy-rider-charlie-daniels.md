@@ -1,8 +1,11 @@
 ---
+album: A Decade Of Hits
 artists:
 - Charlie Daniels
+external_ids:
+  spotify: spotify:track:4jIfTHzqYWspDy9wlgvTjp
 features: []
-genres: []
+first_released_as_single: false
 key: uneasy-rider-charlie-daniels
 lyrics_url: https://www.azlyrics.com/lyrics/charliedanielsband/uneasyrider.html
 name: Uneasy Rider
@@ -55,8 +58,9 @@ rankings:
   rank: 32
   ranking_list: Billboard Hot 100
   start_date: '1973-09-15'
+release_year: 1973
+runtime: 318800
 ---
-
 I was takin a trip out to L.A.
 Toolin along in my cheverolet
 Tokin on a number and diggin on the radio
@@ -176,6 +180,3 @@ And I didn't slow down till I was almost to Arkansas
 I think I'm gonna reroute my trip
 I wonder if anybody'd think I'd flipped
 If I went to L.A., via Omaha
-
-
-

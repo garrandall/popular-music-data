@@ -1,8 +1,11 @@
 ---
+album: The Stranger
 artists:
 - Billy Joel
+external_ids:
+  spotify: spotify:track:1xOXXYh6lTW8laxlW7JP2J
 features: []
-genres: []
+first_released_as_single: false
 key: only-the-good-die-young-billy-joel
 lyrics_url: https://genius.com/Billy-joel-only-the-good-die-young-lyrics
 name: Only The Good Die Young
@@ -59,6 +62,8 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '1978-08-05'
+release_year: 1977
+runtime: 235560
 ---
 Come out Virginia, don't let me wait
 You Catholic girls start much too late

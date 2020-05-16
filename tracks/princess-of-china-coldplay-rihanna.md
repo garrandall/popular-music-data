@@ -1,9 +1,12 @@
 ---
+album: Mylo Xyloto
 artists:
 - Coldplay
+external_ids:
+  spotify: spotify:track:4HXOBjwv2RnLpGG4xWOO6N
 features:
 - Rihanna
-genres: []
+first_released_as_single: false
 key: princess-of-china-coldplay-rihanna
 lyrics_url: https://www.azlyrics.com/lyrics/coldplay/princessofchina.html
 name: Princess Of China
@@ -56,8 +59,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2012-04-21'
+release_year: 2011
+runtime: 239215
 ---
-
 Oh
 
 
@@ -105,6 +109,3 @@ No, you really hurt me
 Oh, you really hurt me, oh
 'Cause you really hurt me
 Oh, you really hurt me
-
-
-

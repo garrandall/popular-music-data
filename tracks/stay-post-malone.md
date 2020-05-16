@@ -1,8 +1,11 @@
 ---
+album: beerbongs & bentleys
 artists:
 - Post Malone
+external_ids:
+  spotify: spotify:track:4H7WNRErSbONkM06blBoGc
 features: []
-genres: []
+first_released_as_single: false
 key: stay-post-malone
 lyrics_url: https://genius.com/Post-malone-stay-lyrics
 name: Stay
@@ -23,6 +26,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2018-06-02'
+release_year: 2018
+runtime: 204426
 ---
 It's true that all that you know is all that you are
 You said that it's all that you want and more

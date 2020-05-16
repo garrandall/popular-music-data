@@ -1,8 +1,11 @@
 ---
+album: Man To Man
 artists:
 - Hot Chocolate
+external_ids:
+  spotify: spotify:track:7K2WpmETOAeCwEW5RlgOvA
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-stop-it-now-hot-chocolate
 lyrics_url: https://genius.com/Hot-chocolate-dont-stop-it-now-lyrics
 name: Don't Stop It Now
@@ -31,6 +34,8 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '1976-05-22'
+release_year: 1976
+runtime: 182080
 ---
 Your lips are warmer than a fire
 Just on burning kiss fills me with desire

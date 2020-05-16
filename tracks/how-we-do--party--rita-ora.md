@@ -1,8 +1,11 @@
 ---
+album: How We Do (Party)
 artists:
 - Rita Ora
+external_ids:
+  spotify: spotify:track:65UnVEqHActQfVQiAF81Ws
 features: []
-genres: []
+first_released_as_single: true
 key: how-we-do--party--rita-ora
 lyrics_url: https://genius.com/Rita-ora-how-we-do-party-lyrics
 name: How We Do (Party)
@@ -43,6 +46,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2012-08-04'
+release_year: 2012
+runtime: 246173
 ---
 And party and bullshit
 And party and bullshit

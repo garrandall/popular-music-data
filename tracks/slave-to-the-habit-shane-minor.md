@@ -1,8 +1,11 @@
 ---
+album: Shane Minor
 artists:
 - Shane Minor
+external_ids:
+  spotify: spotify:track:7ICLuA4y58x4DU0hqbSap5
 features: []
-genres: []
+first_released_as_single: false
 key: slave-to-the-habit-shane-minor
 lyrics_url: https://genius.com/Shane-minor-slave-to-the-habit-lyrics
 name: Slave To The Habit
@@ -35,6 +38,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1999-07-31'
+release_year: 1999
+runtime: 184266
 ---
 (Kostas/Toby Keith/Chuck Cannon)
 

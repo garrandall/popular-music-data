@@ -1,8 +1,11 @@
 ---
+album: Who's Making Love...
 artists:
 - Johnnie Taylor
+external_ids:
+  spotify: spotify:track:5dfHU6igXUSMJPyYjagKsd
 features: []
-genres: []
+first_released_as_single: false
 key: take-care-of-your-homework-johnnie-taylor
 lyrics_url: https://genius.com/Johnnie-taylor-take-care-of-your-homework-lyrics
 name: Take Care Of Your Homework
@@ -43,6 +46,8 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '1969-03-15'
+release_year: 1968
+runtime: 157866
 ---
 Got to tell you true
 I got to tell you true

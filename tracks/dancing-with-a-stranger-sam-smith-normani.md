@@ -1,9 +1,12 @@
 ---
+album: Dancing With A Stranger (with Normani)
 artists:
 - Sam Smith
 - Normani
+external_ids:
+  spotify: spotify:track:6Qs4SXO9dwPj5GKvVOv8Ki
 features: []
-genres: []
+first_released_as_single: true
 key: dancing-with-a-stranger-sam-smith-normani
 lyrics_url: https://genius.com/Sam-smith-and-normani-dancing-with-a-stranger-lyrics
 name: Dancing With A Stranger
@@ -188,6 +191,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2019-11-30'
+release_year: 2019
+runtime: 171029
 ---
 Hm, mhm
 

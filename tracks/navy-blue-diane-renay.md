@@ -1,8 +1,11 @@
 ---
+album: Navy Blue - 25 Super Tracks
 artists:
 - Diane Renay
+external_ids:
+  spotify: spotify:track:11p8gGHiZ3zOJbU3CfFTiN
 features: []
-genres: []
+first_released_as_single: false
 key: navy-blue-diane-renay
 lyrics_url: https://genius.com/Diane-renay-navy-blue-lyrics
 name: Navy Blue
@@ -55,6 +58,8 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '1964-04-11'
+release_year: 1964
+runtime: 150840
 ---
 Blue, navy blue, I'm as blue as I can be
 'Cause my steady boy said "Ship ahoy"

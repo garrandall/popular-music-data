@@ -1,8 +1,11 @@
 ---
+album: Portrait of Bobby
 artists:
 - Bobby Sherman
+external_ids:
+  spotify: spotify:track:1FS7tb522uqUffW2tpc5yT
 features: []
-genres: []
+first_released_as_single: false
 key: cried-like-a-baby-bobby-sherman
 lyrics_url: https://genius.com/Bobby-sherman-cried-like-a-baby-lyrics
 name: Cried Like A Baby
@@ -43,6 +46,8 @@ rankings:
   rank: 31
   ranking_list: Billboard Hot 100
   start_date: '1971-04-10'
+release_year: 1971
+runtime: 197146
 ---
 Always had the best of everything
 Anything money could buy

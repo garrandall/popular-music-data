@@ -1,8 +1,11 @@
 ---
+album: Country Is My Rock
 artists:
 - Trent Tomlinson
+external_ids:
+  spotify: spotify:track:338arfXmD9XaESFjfcQLsg
 features: []
-genres: []
+first_released_as_single: false
 key: one-wing-in-the-fire-trent-tomlinson
 lyrics_url: https://www.azlyrics.com/lyrics/trenttomlinson/onewinginthefire.html
 name: One Wing In The Fire
@@ -27,8 +30,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2007-02-17'
+release_year: 2006
+runtime: 232546
 ---
-
 Daddy's been a back-row Baptist
 With his share of front-row sin
 His Saturday night still on his breathe
@@ -77,6 +81,3 @@ When it's time to call us higher
 That he's an angel with no halo
 An' one wing in the fire
 Oh
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Shine
 artists:
 - Martina McBride
+external_ids:
+  spotify: spotify:track:0F9BbXn7zjDkM6SRJvkBOd
 features: []
-genres: []
+first_released_as_single: false
 key: wrong-baby-wrong-martina-mcbride
 lyrics_url: https://www.azlyrics.com/lyrics/martinamcbride/wrongbabywrongbabywrong.html
 name: Wrong Baby Wrong
@@ -67,8 +70,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2010-07-17'
+release_year: 2009
+runtime: 221666
 ---
-
 Wrong baby wrong baby wrong 
 It ain't the end of the world 
 Don't you worry pretty girl 
@@ -124,6 +128,3 @@ That's what we all do
 But if you think you'll never move on you're wrong baby wrong 
 You're wrong baby wrong 
 Wrong baby wrong baby wrong
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Winger
 artists:
 - Winger
+external_ids:
+  spotify: spotify:track:2ZS0wDcdfrJPC86u5aJGo9
 features: []
-genres: []
+first_released_as_single: false
 key: seventeen-winger
 lyrics_url: https://www.azlyrics.com/lyrics/winger/seventeen.html
 name: Seventeen
@@ -71,8 +74,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1989-06-10'
+release_year: 1988
+runtime: 245266
 ---
-
 Yeah, I saw sparks fly
 From the corner of my eye
 And when I turned
@@ -128,6 +132,3 @@ Daddy says she's too young, but she's old enough for me (seventeen)
 She's everything I need (seventeen)
 Daddy says she's too young, but she's old enough, old enough for me
 Yeah, yeah, yeah
-
-
-

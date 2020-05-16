@@ -1,8 +1,11 @@
 ---
+album: Brave And Crazy
 artists:
 - Melissa Etheridge
+external_ids:
+  spotify: spotify:track:7iYRaSCuKUGs13JP8V2xvk
 features: []
-genres: []
+first_released_as_single: false
 key: no-souvenirs-melissa-etheridge
 lyrics_url: https://www.azlyrics.com/lyrics/melissaetheridge/nosouvenirs.html
 name: No Souvenirs
@@ -19,8 +22,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1989-11-18'
+release_year: 1989
+runtime: 274333
 ---
-
 Hello, hello this is Romeo
 Calling from a jackpot telephone
 Shame, shame but I love your name
@@ -84,6 +88,3 @@ Burn the pictures break the records
 Run far away to a northern town
 Sell your fear and leave me standing here
 With no souvenirs
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Out Of The Blue
 artists:
 - Robert Hazard
+external_ids:
+  spotify: spotify:track:4leRiN5JbiUZs5Hs5BEKNb
 features: []
-genres: []
+first_released_as_single: false
 key: escalator-of-life-robert-hazard
 lyrics_url: https://genius.com/Robert-hazard-escalator-of-life-lyrics
 name: Escalator Of Life
@@ -43,6 +46,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1983-04-30'
+release_year: 1983
+runtime: 283333
 ---
 They got my Mazda at the E-Z Park It
 At the rock & roll supermarket

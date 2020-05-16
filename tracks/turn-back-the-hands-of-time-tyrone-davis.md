@@ -1,8 +1,11 @@
 ---
+album: Turn Back The Hands Of Time
 artists:
 - Tyrone Davis
+external_ids:
+  spotify: spotify:track:5o3qMny3Ym8O512RKrNoLw
 features: []
-genres: []
+first_released_as_single: false
 key: turn-back-the-hands-of-time-tyrone-davis
 lyrics_url: https://genius.com/Tyrone-davis-turn-back-the-hands-of-time-lyrics
 name: Turn Back The Hands Of Time
@@ -59,6 +62,8 @@ rankings:
   rank: 28
   ranking_list: Billboard Hot 100
   start_date: '1970-06-13'
+release_year: 1970
+runtime: 178653
 ---
 Oh, darling
 I'm so lonely without you

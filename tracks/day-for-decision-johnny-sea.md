@@ -1,8 +1,11 @@
 ---
+album: Day For Decision
 artists:
 - Johnny Sea
+external_ids:
+  spotify: spotify:track:774FgCxWI5rdmLbjJn2lfj
 features: []
-genres: []
+first_released_as_single: false
 key: day-for-decision-johnny-sea
 lyrics_url: https://www.musixmatch.com/lyrics/Johnny-Seay/Day-for-Decision
 name: Day For Decision
@@ -31,6 +34,8 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '1966-07-16'
+release_year: 1966
+runtime: 344533
 ---
 Narrative:
 The other day I heard someone say, "You know, America is in real trouble."

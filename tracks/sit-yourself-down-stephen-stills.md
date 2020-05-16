@@ -1,8 +1,11 @@
 ---
+album: Stephen Stills
 artists:
 - Stephen Stills
+external_ids:
+  spotify: spotify:track:5On3jW8UBfuYJtdqyY9hNQ
 features: []
-genres: []
+first_released_as_single: false
 key: sit-yourself-down-stephen-stills
 lyrics_url: https://www.azlyrics.com/lyrics/stephenstills/sityourselfdown.html
 name: Sit Yourself Down
@@ -31,8 +34,9 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1971-04-17'
+release_year: 1970
+runtime: 185493
 ---
-
 When I get restless, what can I do?
 When I need someone I think about you
 I got to move on, not fade away
@@ -56,7 +60,4 @@ Me and the raven, we make our way
 
 
 
-Sit yourself down, take a look around 
-
-
-
+Sit yourself down, take a look around

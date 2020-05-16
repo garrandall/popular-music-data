@@ -1,8 +1,11 @@
 ---
+album: Bobby Vee's Golden Greats (Vol. 2)
 artists:
 - Bobby Vee
+external_ids:
+  spotify: spotify:track:4mmoOJwXcf0nEH0Z2wivAV
 features: []
-genres: []
+first_released_as_single: false
 key: keep-on-trying-bobby-vee
 lyrics_url: https://www.musixmatch.com/lyrics/Bobby-Vee/Keep-on-Trying
 name: Keep On Trying
@@ -27,6 +30,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1965-06-05'
+release_year: 1965
+runtime: 158266
 ---
 I'm gonna make you love me
 Just you wait and see

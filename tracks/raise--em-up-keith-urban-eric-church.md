@@ -1,9 +1,12 @@
 ---
+album: Fuse
 artists:
 - Keith Urban
+external_ids:
+  spotify: spotify:track:3YimpODfNhxj3rN81v4WvE
 features:
 - Eric Church
-genres: []
+first_released_as_single: false
 key: raise--em-up-keith-urban-eric-church
 lyrics_url: https://www.azlyrics.com/lyrics/keithurban/raiseemup.html
 name: Raise 'Em Up
@@ -64,8 +67,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2015-06-13'
+release_year: 2013
+runtime: 184946
 ---
-
 Raise em' up
 I'm talkin' 'bout lighter on a Saturday night
 The band plays a song you like
@@ -128,6 +132,3 @@ Right from wrong
 Raise em' up so damn high they can hear God singing along
 
 (Woah)
-
-
-

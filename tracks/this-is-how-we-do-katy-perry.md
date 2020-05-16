@@ -1,8 +1,11 @@
 ---
+album: PRISM
 artists:
 - Katy Perry
+external_ids:
+  spotify: spotify:track:7GCElX2eJA5t0AFWw3WzKn
 features: []
-genres: []
+first_released_as_single: false
 key: this-is-how-we-do-katy-perry
 lyrics_url: https://genius.com/Katy-perry-this-is-how-we-do-lyrics
 name: This Is How We Do
@@ -79,6 +82,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2014-12-13'
+release_year: 2013
+runtime: 204285
 ---
 This is how we do
 This is how we do (Oh-oh)

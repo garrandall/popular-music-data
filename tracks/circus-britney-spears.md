@@ -1,8 +1,11 @@
 ---
+album: Circus (Deluxe Version)
 artists:
 - Britney Spears
+external_ids:
+  spotify: spotify:track:7jk7gqyEonmVVYahZN5zhW
 features: []
-genres: []
+first_released_as_single: false
 key: circus-britney-spears
 lyrics_url: https://genius.com/Britney-spears-circus-lyrics
 name: Circus
@@ -95,6 +98,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2009-05-16'
+release_year: 2008
+runtime: 192360
 ---
 There's only two types of people in the world
 The ones that entertain and the ones that observe

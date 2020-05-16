@@ -1,8 +1,11 @@
 ---
+album: ASTROWORLD
 artists:
 - Travis Scott
+external_ids:
+  spotify: spotify:track:4KYS9GK68yeuUJ8vJfPxrq
 features: []
-genres: []
+first_released_as_single: false
 key: who--what--travis-scott
 lyrics_url: https://genius.com/Travis-scott-who-what-lyrics
 name: Who? What!
@@ -11,6 +14,8 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '2018-08-18'
+release_year: 2018
+runtime: 176720
 ---
 Know what I'm sayin', know what I'm sayin'?
 Know what I'm sayin'?

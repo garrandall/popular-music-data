@@ -1,9 +1,12 @@
 ---
+album: Last Year Was Complicated
 artists:
 - Nick Jonas
+external_ids:
+  spotify: spotify:track:7DEg5RLG8GOgt7NSrVAKKJ
 features:
 - Tove Lo
-genres: []
+first_released_as_single: true
 key: close-nick-jonas-tove-lo
 lyrics_url: https://www.azlyrics.com/lyrics/nickjonas/close.html
 name: Close
@@ -88,9 +91,9 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '2016-08-27'
+release_year: 2016
+runtime: 224760
 ---
-
-
 Oh damn, oh damn, oh damn
 I'm so perplexed
 With just one breath, I'm locked in
@@ -149,6 +152,3 @@ Oh, so close, oh
 I want you close, oh
 Oh, I want you close, and close ain't close enough, no
 Oh, I want you close, and close ain't close enough, no
-
-
-

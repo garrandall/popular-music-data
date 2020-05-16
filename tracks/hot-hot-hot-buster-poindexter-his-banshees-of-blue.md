@@ -1,9 +1,12 @@
 ---
+album: Buster Poindexter
 artists:
 - Buster Poindexter
 - His Banshees Of Blue
+external_ids:
+  spotify: spotify:track:2BeFYfKuc0AZGhbeVY78ep
 features: []
-genres: []
+first_released_as_single: false
 key: hot-hot-hot-buster-poindexter-his-banshees-of-blue
 lyrics_url: https://genius.com/Buster-poindexter-and-his-banshees-of-blue-hot-hot-hot-lyrics
 name: Hot Hot Hot
@@ -60,6 +63,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1988-03-05'
+release_year: 1987
+runtime: 250000
 ---
 Ole ole - ole ole / Ole ole - ole ole
 EE-Yessa Ha-ha

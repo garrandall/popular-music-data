@@ -1,8 +1,11 @@
 ---
+album: The Complete Joy Recordings
 artists:
 - Bobby Wood
+external_ids:
+  spotify: spotify:track:5c8oQiQd2bj1rr5qRqEuPZ
 features: []
-genres: []
+first_released_as_single: false
 key: if-i-m-a-fool-for-loving-you-bobby-wood
 name: If I'm A Fool For Loving You
 rankings:
@@ -26,5 +29,7 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '1964-09-05'
+release_year: 1964
+runtime: 148107
 ---
 

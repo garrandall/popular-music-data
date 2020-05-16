@@ -1,8 +1,11 @@
 ---
+album: Joe Public
 artists:
 - Joe Public
+external_ids:
+  spotify: spotify:track:7vPIMzAtJSyUIoxiia0ESo
 features: []
-genres: []
+first_released_as_single: false
 key: do-you-everynite-joe-public
 lyrics_url: https://genius.com/Joe-public-do-you-everynite-lyrics
 name: Do You Everynite
@@ -19,6 +22,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1992-10-31'
+release_year: 1992
+runtime: 260693
 ---
 Do you everynite
 Baby you look so good

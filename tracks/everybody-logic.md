@@ -1,8 +1,11 @@
 ---
+album: Everybody
 artists:
 - Logic
+external_ids:
+  spotify: spotify:track:51sVgPeBHYwbeM1cWegVqR
 features: []
-genres: []
+first_released_as_single: true
 key: everybody-logic
 lyrics_url: https://genius.com/Logic-everybody-lyrics
 name: Everybody
@@ -15,6 +18,8 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '2017-05-27'
+release_year: 2017
+runtime: 162373
 ---
 Okay I was gone for a minute but I'm back now
 Sit the fuck back down

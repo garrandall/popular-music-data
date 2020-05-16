@@ -1,9 +1,12 @@
 ---
+album: Motion
 artists:
 - Calvin Harris
+external_ids:
+  spotify: spotify:track:7MmG8p0F9N3C4AXdK6o6Eb
 features:
 - Ellie Goulding
-genres: []
+first_released_as_single: false
 key: outside-calvin-harris-ellie-goulding
 lyrics_url: https://www.azlyrics.com/lyrics/calvinharris/outside.html
 name: Outside
@@ -88,8 +91,9 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '2015-05-09'
+release_year: 2014
+runtime: 227266
 ---
-
 Look at what you've done
 Stand still, falling away from me
 When it takes so long
@@ -140,6 +144,3 @@ I'll show you what it feels like
 Now I'm on the outside
 We did everything right
 Now I'm on the outside
-
-
-

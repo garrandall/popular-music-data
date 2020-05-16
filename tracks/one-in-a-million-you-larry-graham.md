@@ -1,8 +1,11 @@
 ---
+album: One In A Million You
 artists:
 - Larry Graham
+external_ids:
+  spotify: spotify:track:1CzgvJvt2JRy4uEX3SVaxO
 features: []
-genres: []
+first_released_as_single: false
 key: one-in-a-million-you-larry-graham
 lyrics_url: https://genius.com/Larry-graham-one-in-a-million-you-lyrics
 name: One In A Million You
@@ -87,6 +90,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1980-11-08'
+release_year: 1980
+runtime: 252600
 ---
 Love had played its games on me so long
 I started to believe I'd never find anyone

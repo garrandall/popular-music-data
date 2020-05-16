@@ -1,8 +1,11 @@
 ---
+album: Spirit In The Sky
 artists:
 - Norman Greenbaum
+external_ids:
+  spotify: spotify:track:0wsZ2aWxQsdK85usQ9pMHn
 features: []
-genres: []
+first_released_as_single: false
 key: canned-ham-norman-greenbaum
 lyrics_url: https://genius.com/Norman-greenbaum-canned-ham-lyrics
 name: Canned Ham
@@ -31,6 +34,8 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '1970-07-18'
+release_year: 1969
+runtime: 173000
 ---
 When you gonna buy me a canned ham
 I've been waiting so long

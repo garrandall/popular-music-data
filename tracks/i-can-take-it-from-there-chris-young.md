@@ -1,8 +1,11 @@
 ---
+album: Neon
 artists:
 - Chris Young
+external_ids:
+  spotify: spotify:track:4elsQHzndSMtjrsbcwnZgf
 features: []
-genres: []
+first_released_as_single: false
 key: i-can-take-it-from-there-chris-young
 lyrics_url: https://genius.com/Chris-young-i-can-take-it-from-there-lyrics
 name: I Can Take It From There
@@ -55,6 +58,8 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '2013-05-11'
+release_year: 2011
+runtime: 158293
 ---
 Ain't nothin' goin' on in town tonight
 Except a loud party crowd drinkin' too much beer

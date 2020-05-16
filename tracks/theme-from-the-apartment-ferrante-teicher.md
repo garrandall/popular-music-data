@@ -1,9 +1,12 @@
 ---
+album: The Ferrante & Teicher Collection
 artists:
 - Ferrante
 - Teicher
+external_ids:
+  spotify: spotify:track:36MVVnW3XEWFtD8tbZGIo3
 features: []
-genres: []
+first_released_as_single: false
 key: theme-from-the-apartment-ferrante-teicher
 lyrics_url: https://genius.com/Ferrante-and-teicher-theme-from-the-apartment-lyrics
 name: Theme From The Apartment
@@ -88,6 +91,8 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1960-12-05'
+release_year: 1960
+runtime: 189639
 ---
 Mama died havin' me and papa tried to raise me
 And then he took to drinkin' when I was only three

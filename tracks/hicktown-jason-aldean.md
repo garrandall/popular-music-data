@@ -1,8 +1,11 @@
 ---
+album: Jason Aldean
 artists:
 - Jason Aldean
+external_ids:
+  spotify: spotify:track:0WYbR2GSfl4ehvmLmcpAqi
 features: []
-genres: []
+first_released_as_single: false
 key: hicktown-jason-aldean
 lyrics_url: https://www.azlyrics.com/lyrics/jasonaldean/hicktown.html
 name: Hicktown
@@ -59,8 +62,9 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '2005-11-05'
+release_year: 2005
+runtime: 306026
 ---
-
 Oh, you like the way that sounds?
 
 Little Jimmy Jackson is jackin' up his Bronco.
@@ -110,6 +114,3 @@ In Hicktown
 The whole town's getting down
 In Hicktown
 Yeah, in Hicktown
-
-
-

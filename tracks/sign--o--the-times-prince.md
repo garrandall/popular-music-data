@@ -1,8 +1,11 @@
 ---
+album: Sign "O" the Times
 artists:
 - Prince
+external_ids:
+  spotify: spotify:track:4Yenz5JZZOUiZSeyKY8bDz
 features: []
-genres: []
+first_released_as_single: false
 key: sign--o--the-times-prince
 lyrics_url: https://genius.com/Prince-sign-o-the-times-lyrics
 name: Sign 'O' The Times
@@ -63,6 +66,8 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '1987-06-06'
+release_year: 1987
+runtime: 302760
 ---
 Oh yeah
 

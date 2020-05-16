@@ -1,8 +1,11 @@
 ---
+album: Disneymania 5
 artists:
 - Ashley Tisdale
+external_ids:
+  spotify: spotify:track:77ltWp9xNbfhldXx3IEqVx
 features: []
-genres: []
+first_released_as_single: false
 key: kiss-the-girl-ashley-tisdale
 lyrics_url: https://www.azlyrics.com/lyrics/ashleytisdale/kissthegirl.html
 name: Kiss The Girl
@@ -15,8 +18,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2007-04-28'
+release_year: 2007
+runtime: 204466
 ---
-
 There you see her
 Sitting there across the way
 She don't got a lot to say
@@ -94,6 +98,3 @@ Go on and kiss the girl
 Kiss the girl
 (Kiss the girl)
 Go on and kiss the girl
-
-
-

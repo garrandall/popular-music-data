@@ -1,8 +1,11 @@
 ---
+album: Huncho Jack, Jack Huncho
 artists:
 - Huncho Jack
+external_ids:
+  spotify: spotify:track:7g7raxdQpiLZT7aOlib4S1
 features: []
-genres: []
+first_released_as_single: false
 key: motorcycle-patches-huncho-jack
 lyrics_url: https://genius.com/Huncho-jack-motorcycle-patches-lyrics
 name: Motorcycle Patches
@@ -11,6 +14,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2018-01-06'
+release_year: 2017
+runtime: 191409
 ---
 Motorcycle patches on my jacket
 Rip all the money out the plastic

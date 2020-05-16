@@ -1,8 +1,11 @@
 ---
+album: Pop
 artists:
 - U2
+external_ids:
+  spotify: spotify:track:19Sbxm5YTEFwpCYMxrw1gz
 features: []
-genres: []
+first_released_as_single: false
 key: last-night-on-earth-u2
 lyrics_url: https://www.azlyrics.com/lyrics/u2band/lastnightonearth.html
 name: Last Night On Earth
@@ -39,8 +42,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1997-09-06'
+release_year: 1997
+runtime: 285666
 ---
-
 She feels the ground is giving way 
 Bur she thinks we're better off that way 
 The more you take the less you feel 
@@ -85,6 +89,3 @@ SHE ALREADY KNOWS IT HURTS
 SHE'S LIVING LIKE IT'S THE LAST NIGHT ON EARTH 
 LAST NIGHT ON EARTH 
 LAST NIGHT ON EARTH
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Totally Wired, Series 2, Vol. 2
 artists:
 - Tyrone Davis
+external_ids:
+  spotify: spotify:track:1kqcD6F6qzj2UMk56tmOrT
 features: []
-genres: []
+first_released_as_single: false
 key: is-it-something-you-ve-got-tyrone-davis
 lyrics_url: https://genius.com/Tyrone-davis-is-it-something-youve-got-lyrics
 name: Is It Something You've Got
@@ -35,6 +38,8 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '1969-05-03'
+release_year: 1969
+runtime: 156453
 ---
 Oh when I first said I was leaving
 Girl, I didn't think I would have to stay gone so long

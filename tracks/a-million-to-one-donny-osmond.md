@@ -1,8 +1,11 @@
 ---
+album: A Time For Us
 artists:
 - Donny Osmond
+external_ids:
+  spotify: spotify:track:3zrBjlEwASwmDCFjuJGdVA
 features: []
-genres: []
+first_released_as_single: false
 key: a-million-to-one-donny-osmond
 lyrics_url: https://www.azlyrics.com/lyrics/donnyosmond/amilliontoone.html
 name: A Million To One
@@ -51,8 +54,9 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1973-09-22'
+release_year: 1973
+runtime: 182226
 ---
-
 A million to one:
 That's what our folks say about this love of ours.
 A million to one:
@@ -79,6 +83,3 @@ Because we love them.
 After all that's said and done.
 There's one in a million;
 A million to one.
-
-
-

@@ -1,10 +1,13 @@
 ---
+album: I Hope We Get To Love In Time
 artists:
 - Marilyn McCoo
 - Billy Davis
 - Jr.
+external_ids:
+  spotify: spotify:track:2JurHS80N98Yt3CdIBYz9M
 features: []
-genres: []
+first_released_as_single: false
 key: you-don-t-have-to-be-a-star--to-be-in-my-show--marilyn-mccoo-billy-davis-jr-
 lyrics_url: https://genius.com/Marilyn-mccoo-you-dont-have-to-be-a-star-lyrics
 name: You Don't Have To Be A Star (To Be In My Show)
@@ -113,6 +116,8 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1977-03-05'
+release_year: 1976
+runtime: 279586
 ---
 YOU DON'T HAVE TO BE A STAR
 Marilyn McCoo & Billy Davis Jr

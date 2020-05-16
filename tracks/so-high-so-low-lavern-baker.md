@@ -1,8 +1,11 @@
 ---
+album: Blues Ballads
 artists:
 - LaVern Baker
+external_ids:
+  spotify: spotify:track:7DM6EiIXy01FgRBVHpvhVY
 features: []
-genres: []
+first_released_as_single: false
 key: so-high-so-low-lavern-baker
 lyrics_url: https://genius.com/Lavern-baker-so-high-so-low-lyrics
 name: So High So Low
@@ -47,6 +50,8 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '1959-09-28'
+release_year: 1959
+runtime: 126213
 ---
 You must come into my heart
 I'm begging

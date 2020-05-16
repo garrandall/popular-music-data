@@ -1,8 +1,11 @@
 ---
+album: The Complete Season 7 Collection (The Voice Performance)
 artists:
 - Matt McAndrew
+external_ids:
+  spotify: spotify:track:6fv1RHhZIxsYbfI2atszgJ
 features: []
-genres: []
+first_released_as_single: false
 key: take-me-to-church-matt-mcandrew
 lyrics_url: https://www.musixmatch.com/lyrics/Matt-McAndrew/Take-Me-To-Church-The-Voice-Performance
 name: Take Me To Church
@@ -11,6 +14,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2014-12-06'
+release_year: 2014
+runtime: 212790
 ---
 My lover's got humour
 She's the giggle at a funeral

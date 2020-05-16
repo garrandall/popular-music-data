@@ -1,8 +1,11 @@
 ---
+album: LFO
 artists:
 - LFO
+external_ids:
+  spotify: spotify:track:19yUPcvaDx4giaWLvwXbv1
 features: []
-genres: []
+first_released_as_single: false
 key: summer-girls-lfo
 lyrics_url: https://www.azlyrics.com/lyrics/lfo/summergirls.html
 name: Summer Girls
@@ -75,8 +78,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1999-11-06'
+release_year: 1999
+runtime: 258466
 ---
-
 Yeah...I like it when the girls stop by.. In the summer
 Do you remember, Do you remember?
 ...when we met...That summer??
@@ -165,4 +169,3 @@ Summertime girls got it going on
 Shake and wiggle to a hip hop song
 Summertime girls are the kind I like
 I'll steal your honey like I stole your bike
-

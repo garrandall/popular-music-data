@@ -1,9 +1,12 @@
 ---
+album: 'The Best Of Peaches & Herb: Love Is Strange'
 artists:
 - Peaches
 - Herb
+external_ids:
+  spotify: spotify:track:7abjkQDLaCsDu19I4hQYSh
 features: []
-genres: []
+first_released_as_single: false
 key: let-s-make-a-promise-peaches-herb
 name: Let's Make A Promise
 rankings:
@@ -23,5 +26,7 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1968-11-30'
+release_year: 1966
+runtime: 167183
 ---
 

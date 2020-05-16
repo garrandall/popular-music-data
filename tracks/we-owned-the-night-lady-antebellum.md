@@ -1,8 +1,11 @@
 ---
+album: Own The Night Spotify Interview
 artists:
 - Lady Antebellum
+external_ids:
+  spotify: spotify:track:31kWGVq3oGBQGz8Y0q8eJU
 features: []
-genres: []
+first_released_as_single: false
 key: we-owned-the-night-lady-antebellum
 lyrics_url: https://www.azlyrics.com/lyrics/ladyantebellum/weownedthenight.html
 name: We Owned The Night
@@ -87,8 +90,9 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '2012-01-14'
+release_year: 2011
+runtime: 49072
 ---
-
 Tell me have you ever wanted
 Someone so much it hurts?
 Your lips keep trying to speak
@@ -133,6 +137,3 @@ I never will forget
 When we owned the night
 
 Yeah, we owned the night
-
-
-

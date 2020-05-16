@@ -1,8 +1,11 @@
 ---
+album: Thriller 25 Super Deluxe Edition
 artists:
 - Michael Jackson
+external_ids:
+  spotify: spotify:track:2kulOHR2XY6YDZCWXb38hn
 features: []
-genres: []
+first_released_as_single: false
 key: wanna-be-startin--somethin--michael-jackson
 lyrics_url: https://genius.com/Michael-jackson-wanna-be-startin-somethin-lyrics
 name: Wanna Be Startin' Somethin'
@@ -67,6 +70,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1983-09-03'
+release_year: 1982
+runtime: 362373
 ---
 I said you want to be starting something
 You got to be starting something

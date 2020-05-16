@@ -1,8 +1,11 @@
 ---
+album: My Promise
 artists:
 - No Mercy
+external_ids:
+  spotify: spotify:track:6TF2LthEA2BqImvYKToR0V
 features: []
-genres: []
+first_released_as_single: false
 key: please-don-t-go-no-mercy
 lyrics_url: https://www.musixmatch.com/lyrics/No-Mercy-2/Please-Don-t-Go
 name: Please Don't Go
@@ -79,6 +82,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1997-06-07'
+release_year: 1996
+runtime: 240093
 ---
 Please don't go
 Please don't go

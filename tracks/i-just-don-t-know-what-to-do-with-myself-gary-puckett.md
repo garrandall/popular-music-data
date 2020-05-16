@@ -1,8 +1,11 @@
 ---
+album: Super Hits
 artists:
 - Gary Puckett
+external_ids:
+  spotify: spotify:track:2MyYLRj24UY17fWDxsVAYk
 features: []
-genres: []
+first_released_as_single: false
 key: i-just-don-t-know-what-to-do-with-myself-gary-puckett
 lyrics_url: https://genius.com/Gary-puckett-and-the-union-gap-i-just-dont-know-what-to-do-with-myself-lyrics
 name: I Just Don't Know What To Do With Myself
@@ -23,6 +26,8 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '1970-11-21'
+release_year: 1968
+runtime: 168866
 ---
 I just don't know what to do with myself
 Don't know just what to do with myself

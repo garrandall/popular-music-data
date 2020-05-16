@@ -1,8 +1,11 @@
 ---
+album: So Intense
 artists:
 - Lisa Fischer
+external_ids:
+  spotify: spotify:track:24LlWhWXorT9R81J2vaA9H
 features: []
-genres: []
+first_released_as_single: false
 key: how-can-i-ease-the-pain-lisa-fischer
 lyrics_url: https://genius.com/Lisa-fischer-how-can-i-ease-the-pain-lyrics
 name: How Can I Ease The Pain
@@ -87,6 +90,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1991-08-24'
+release_year: 1991
+runtime: 319880
 ---
 Aishite imasu
 

@@ -1,8 +1,11 @@
 ---
+album: Gold
 artists:
 - Connie Francis
+external_ids:
+  spotify: spotify:track:4Wgj6nk4TalQ7ZDJeOItyT
 features: []
-genres: []
+first_released_as_single: false
 key: you-re-gonna-miss-me-connie-francis
 lyrics_url: https://genius.com/Connie-francis-youre-gonna-miss-me-lyrics
 name: You're Gonna Miss Me
@@ -47,6 +50,8 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '1959-11-02'
+release_year: 1959
+runtime: 163560
 ---
 One kiss, one little sigh
 That's all you gave me

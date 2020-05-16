@@ -1,8 +1,11 @@
 ---
+album: Change Your World
 artists:
 - Michael W. Smith
+external_ids:
+  spotify: spotify:track:5MtTg40bqOXNVcrZJ0CRYE
 features: []
-genres: []
+first_released_as_single: false
 key: somebody-love-me-michael-w--smith
 lyrics_url: https://www.azlyrics.com/lyrics/michaelwsmith/somebodyloveme.html
 name: Somebody Love Me
@@ -35,8 +38,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1993-04-24'
+release_year: 1992
+runtime: 238266
 ---
-
 Counting every moment
 Biding all my time
 Standing out here on my own
@@ -93,6 +97,3 @@ To be the blue in their grey
 Somebody want me
 The way I've always dreamed it could be
 Somebody love me, love me
-
-
-

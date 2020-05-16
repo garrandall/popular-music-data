@@ -1,10 +1,13 @@
 ---
+album: Ambition
 artists:
 - Wale
+external_ids:
+  spotify: spotify:track:5tZmLjU4vhPlJb12IweZuB
 features:
 - Meek Mill
 - Rick Ross
-genres: []
+first_released_as_single: false
 key: ambition-wale-meek-mill-rick-ross
 lyrics_url: https://www.azlyrics.com/lyrics/wale/ambition.html
 name: Ambition
@@ -13,8 +16,9 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '2011-11-19'
+release_year: 2011
+runtime: 302546
 ---
-
 The time is now on everything
 Took my heart away from money
 I ain't interested in fame
@@ -106,6 +110,3 @@ Easy to dream a dream, though it's harder to live it
 Look, they gon' love me for my ambition
 Beautiful music, painting pictures that be my vision
 They gon' love me for my ambition
-
-
-

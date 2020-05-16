@@ -1,8 +1,11 @@
 ---
+album: Strikes
 artists:
 - Blackfoot
+external_ids:
+  spotify: spotify:track:0R5nPSbAqQoNjKBByWnN95
 features: []
-genres: []
+first_released_as_single: false
 key: highway-song-blackfoot
 lyrics_url: https://www.azlyrics.com/lyrics/blackfoot/highwaysong.html
 name: Highway Song
@@ -63,8 +66,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1979-09-22'
+release_year: 1979
+runtime: 450333
 ---
-
 Well, another day, another dollar
 After I've sang and hollered
 Oh, it's my way of living, and I can't change a thing
@@ -113,6 +117,3 @@ On and on
 Highway song
 Is as lonely
 As the road I'm on
-
-
-

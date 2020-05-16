@@ -1,8 +1,11 @@
 ---
+album: Instant Replay
 artists:
 - Dan Hartman
+external_ids:
+  spotify: spotify:track:4ORDN4BLvjcGJpmy8kESd7
 features: []
-genres: []
+first_released_as_single: false
 key: this-is-it-dan-hartman
 lyrics_url: https://www.azlyrics.com/lyrics/danhartman/countdownthisisit.html
 name: This Is It
@@ -19,8 +22,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1979-03-10'
+release_year: 1978
+runtime: 405160
 ---
-
 Countdown - countdown - countdown - countdown
 Countdown - countdown - countdown - countdown, countdown, oh oh
 (Countdown) Well, well, well, well
@@ -137,6 +141,3 @@ Take hand in hand, oh, raise your voices
 You've got to sing with me, now
 The world loves love, oh, yeah, oh
 You know, instant replay forever, oh
-
-
-

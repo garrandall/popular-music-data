@@ -1,8 +1,11 @@
 ---
+album: Down The Road I Go
 artists:
 - Travis Tritt
+external_ids:
+  spotify: spotify:track:7v3BvPRQS4DcsDzYU0BiVd
 features: []
-genres: []
+first_released_as_single: false
 key: best-of-intentions-travis-tritt
 lyrics_url: https://www.azlyrics.com/lyrics/travistritt/bestofintentions.html
 name: Best Of Intentions
@@ -95,8 +98,9 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2001-01-13'
+release_year: 2000
+runtime: 257399
 ---
-
 I had big plans for our future,
 Said I'd give you the whole world somehow
 I tried makin' good on that promise,
@@ -134,6 +138,3 @@ Cause I've had the best of intentions
 Girl I've had the best of intentions,
 Yes, I've had the best of intentions
 loving you
-
-
-

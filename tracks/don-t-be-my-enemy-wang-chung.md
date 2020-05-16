@@ -1,8 +1,11 @@
 ---
+album: Points On The Curve
 artists:
 - Wang Chung
+external_ids:
+  spotify: spotify:track:2mFecirMAGHqJVHYt9e8tN
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-be-my-enemy-wang-chung
 lyrics_url: https://genius.com/Wang-chung-dont-be-my-enemy-lyrics
 name: Don't Be My Enemy
@@ -19,6 +22,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1984-10-06'
+release_year: 1983
+runtime: 263933
 ---
 (Jack Hues / Darren Costin / Nick Feldman)
 

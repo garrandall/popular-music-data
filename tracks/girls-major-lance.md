@@ -1,8 +1,11 @@
 ---
+album: 'The Best Of Major Lance: Everybody Loves A Good Time!'
 artists:
 - Major Lance
+external_ids:
+  spotify: spotify:track:5kjVSFkfLuBq3LBedNhZ9r
 features: []
-genres: []
+first_released_as_single: false
 key: girls-major-lance
 lyrics_url: https://genius.com/Major-lance-girls-lyrics
 name: Girls
@@ -31,6 +34,8 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1964-08-01'
+release_year: 1964
+runtime: 127000
 ---
 Girl (girl)
 If you hear me calling

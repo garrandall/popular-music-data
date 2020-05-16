@@ -1,8 +1,11 @@
 ---
+album: Your Man
 artists:
 - Josh Turner
+external_ids:
+  spotify: spotify:track:1WzAeadSKJhqykZFbJNmQv
 features: []
-genres: []
+first_released_as_single: false
 key: your-man-josh-turner
 lyrics_url: https://www.azlyrics.com/lyrics/joshturner/yourman.html
 name: Your Man
@@ -87,8 +90,9 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '2006-05-13'
+release_year: 2005
+runtime: 211893
 ---
-
 Baby lock the door and turn the lights down low
 Put some music on that's soft and slow
 Baby we ain't got no place to go
@@ -133,6 +137,3 @@ I can't believe how much it turns me on
 Just to be your man
 I can't believe how much it turns me on
 Just to be your man
-
-
-

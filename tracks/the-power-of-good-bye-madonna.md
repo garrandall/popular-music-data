@@ -1,8 +1,11 @@
 ---
+album: Ray of Light (U.S. Version)
 artists:
 - Madonna
+external_ids:
+  spotify: spotify:track:01VFDkHBNJcCNUjzD3flWg
 features: []
-genres: []
+first_released_as_single: false
 key: the-power-of-good-bye-madonna
 lyrics_url: https://www.azlyrics.com/lyrics/madonna/thepowerofgoodbye.html
 name: The Power Of Good-Bye
@@ -83,8 +86,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1999-02-20'
+release_year: 1998
+runtime: 250560
 ---
-
 Your heart is not open so I must go
 The spell has been broken, I loved you so
 Freedom comes when you learn to let go
@@ -117,4 +121,3 @@ Than the power of good-bye
 
 Learn to say good-bye
 I yearn to say good-bye
-

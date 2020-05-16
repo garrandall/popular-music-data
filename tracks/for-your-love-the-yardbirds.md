@@ -1,8 +1,11 @@
 ---
+album: Yardbirds Reunion Jam
 artists:
 - The Yardbirds
+external_ids:
+  spotify: spotify:track:27JcdauaTPxgJlNoWzcAKh
 features: []
-genres: []
+first_released_as_single: false
 key: for-your-love-the-yardbirds
 lyrics_url: https://genius.com/The-yardbirds-for-your-love-lyrics
 name: For Your Love
@@ -55,6 +58,8 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '1965-07-31'
+release_year: 1965
+runtime: 156560
 ---
 For your love
 For your love

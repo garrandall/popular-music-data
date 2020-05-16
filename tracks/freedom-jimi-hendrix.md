@@ -1,8 +1,11 @@
 ---
+album: The Cry of Love
 artists:
 - Jimi Hendrix
+external_ids:
+  spotify: spotify:track:7emVwhF4OMemAT65nbpuZO
 features: []
-genres: []
+first_released_as_single: false
 key: freedom-jimi-hendrix
 lyrics_url: https://www.azlyrics.com/lyrics/jimihendrix/freedom.html
 name: Freedom
@@ -39,8 +42,9 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '1971-05-22'
+release_year: 1971
+runtime: 206133
 ---
-
 You got my pride
 Hanging out of my bed
 You're messin' around with my life
@@ -83,6 +87,3 @@ Set me free
 Right on, straight ahead
 Stay up and straight ahead
 Freedom
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: My Best Days
 artists:
 - Danny Gokey
+external_ids:
+  spotify: spotify:track:5w7GCrY0J4oTI9jWlma82d
 features: []
-genres: []
+first_released_as_single: false
 key: my-best-days-are-ahead-of-me-danny-gokey
 lyrics_url: https://www.azlyrics.com/lyrics/dannygokey/mybestdaysareaheadofme.html
 name: My Best Days Are Ahead Of Me
@@ -11,8 +14,9 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '2010-03-20'
+release_year: 2010
+runtime: 186133
 ---
-
 Blowing out the candles on another birthday cake
 Old enough to look back and laugh at my mistakes
 Young enough to look at the future and like what I see
@@ -42,6 +46,3 @@ That I can't wait to see
 My best days are ahead of me
 
 My best days... are ahead of me
-
-
-

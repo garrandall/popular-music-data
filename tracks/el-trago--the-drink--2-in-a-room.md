@@ -1,8 +1,11 @@
 ---
+album: World Party
 artists:
 - 2 In A Room
+external_ids:
+  spotify: spotify:track:77PHqm2Wi6CG7SUjLov0k3
 features: []
-genres: []
+first_released_as_single: false
 key: el-trago--the-drink--2-in-a-room
 lyrics_url: https://www.musixmatch.com/lyrics/2-In-a-Room/El-Trago-The-Drink
 name: El Trago (The Drink)
@@ -31,6 +34,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1994-06-04'
+release_year: 1994
+runtime: 288226
 ---
 Gimme a token, I wanna get open
 Pour me a Coke and rum and then some

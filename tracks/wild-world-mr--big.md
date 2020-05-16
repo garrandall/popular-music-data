@@ -1,8 +1,11 @@
 ---
+album: Bump Ahead
 artists:
 - Mr. Big
+external_ids:
+  spotify: spotify:track:2kj5f1eRhUFhW6K0qUwoD8
 features: []
-genres: []
+first_released_as_single: false
 key: wild-world-mr--big
 lyrics_url: https://genius.com/Mr-big-wild-world-lyrics
 name: Wild World
@@ -87,6 +90,8 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '1994-02-19'
+release_year: 1993
+runtime: 208560
 ---
 Now that I've lost everything to you
 You say you wanna start something new

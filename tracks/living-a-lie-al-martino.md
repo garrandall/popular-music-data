@@ -1,8 +1,11 @@
 ---
+album: Crooner
 artists:
 - Al Martino
+external_ids:
+  spotify: spotify:track:18G8KqnIIFWoZpRKlrAiQu
 features: []
-genres: []
+first_released_as_single: false
 key: living-a-lie-al-martino
 lyrics_url: https://genius.com/Al-martino-living-a-lie-lyrics
 name: Living A Lie
@@ -47,6 +50,8 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '1963-12-28'
+release_year: 1963
+runtime: 150533
 ---
 Why cry when she tells you she's leaving?
 A teardrop or two won't keep her loving you

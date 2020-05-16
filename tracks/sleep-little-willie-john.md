@@ -1,8 +1,11 @@
 ---
+album: All 15 Of His Hits
 artists:
 - Little Willie John
+external_ids:
+  spotify: spotify:track:4YDjNlJUlrwKaSCBtKmHX0
 features: []
-genres: []
+first_released_as_single: false
 key: sleep-little-willie-john
 lyrics_url: https://genius.com/Little-willie-john-sleep-lyrics
 name: Sleep
@@ -71,20 +74,15 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '1960-12-19'
+release_year: 1960
+runtime: 172402
 ---
-(Earl Liebieg) 1923
-Pop Chart #13 Sep 5, 1960 King Single #5394
-With Jimmy Palmer-piano, Fred Jordan-guitar
-William Willis-bass, Phillip Paul-drums, unk strings
-
-Intro: instrumental & strings
-
 Sleep, sleep, sleep
 How we love to sleep
 At the close of day
 When the joys of the day fade away
 
-And the mem'ries sweet
+And the memories sweet
 Of the days repeat
 In our dreams they creep
 While we sleep, sleep, sleep
@@ -94,19 +92,17 @@ How we love to sleep
 At the close of day
 A-when the joys of the day fade away
 
-And the mem'ries sweet
+And the memories sweet
 Of the days repeat
 In our dreams they creep
 While we sleep, sleep, sleep
-
-(Instrumental, strings & organ)
 
 Sleep, sleep, sleep
 How we love to sleep
 At the close of day
 When the joys of the day fade away
 
-And the mem'ries sweet
+And the memories sweet
 Of the days repeat
 In our dreams they creep
 While we sleep, sleep, sleep

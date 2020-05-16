@@ -1,8 +1,11 @@
 ---
+album: Bad Of The Heart
 artists:
 - George LaMond
+external_ids:
+  spotify: spotify:track:0Y5iHUJ35MRznhbI8zx1b1
 features: []
-genres: []
+first_released_as_single: false
 key: look-into-my-eyes-george-lamond
 lyrics_url: https://genius.com/George-lamond-look-into-my-eyes-lyrics
 name: Look Into My Eyes
@@ -59,6 +62,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1990-11-10'
+release_year: 1990
+runtime: 314360
 ---
 It's been so long girl since I felt this way
 So many times you stole my heart away
@@ -94,4 +99,3 @@ How I need you girl to find a love so true
 Just take my hand and show me what this means to you
 A special lover all our dreams come true
 Just look into my eyes and share this dream just me and you
-

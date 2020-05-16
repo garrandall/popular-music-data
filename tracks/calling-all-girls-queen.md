@@ -1,8 +1,11 @@
 ---
+album: Hot Space (Deluxe Remastered Version)
 artists:
 - Queen
+external_ids:
+  spotify: spotify:track:6YREj4suOUGfiKgx7aWph2
 features: []
-genres: []
+first_released_as_single: false
 key: calling-all-girls-queen
 lyrics_url: https://genius.com/Queen-calling-all-girls-lyrics
 name: Calling All Girls
@@ -31,6 +34,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1982-09-04'
+release_year: 1982
+runtime: 231853
 ---
 Calling all boys (boys)
 Calling all girls (girls)

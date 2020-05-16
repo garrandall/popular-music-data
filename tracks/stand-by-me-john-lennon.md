@@ -1,8 +1,11 @@
 ---
+album: Rock 'N' Roll
 artists:
 - John Lennon
+external_ids:
+  spotify: spotify:track:3ntrdR24dLkKrzSGRv1FlH
 features: []
-genres: []
+first_released_as_single: false
 key: stand-by-me-john-lennon
 lyrics_url: https://genius.com/John-lennon-stand-by-me-lyrics
 name: Stand By Me
@@ -43,6 +46,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1975-05-10'
+release_year: 1975
+runtime: 211666
 ---
 When the night has come
 And the land is dark

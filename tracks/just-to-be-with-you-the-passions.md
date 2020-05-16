@@ -1,8 +1,11 @@
 ---
+album: Golden Oldies
 artists:
 - The Passions
+external_ids:
+  spotify: spotify:track:1qJapHKMQHPrlXvSPCEY4r
 features: []
-genres: []
+first_released_as_single: false
 key: just-to-be-with-you-the-passions
 lyrics_url: https://www.musixmatch.com/lyrics/The-Passions/Just-to-Be-With-You
 name: Just To Be With You
@@ -47,6 +50,8 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1959-12-14'
+release_year: 1959
+runtime: 194026
 ---
 Just to be with you
 Just to be with you

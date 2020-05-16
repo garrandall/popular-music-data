@@ -1,8 +1,11 @@
 ---
+album: Moving
 artists:
 - Peter, Paul, and Mary
+external_ids:
+  spotify: spotify:track:0ov6dPTD5fnHYVWNT99GpV
 features: []
-genres: []
+first_released_as_single: false
 key: settle-down--goin--down-that-highway--peter-paul-and-mary
 lyrics_url: https://www.azlyrics.com/lyrics/peterpaulandmary/settledowngoindownthathighway.html
 name: Settle Down (Goin' Down That Highway)
@@ -31,8 +34,9 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '1963-02-23'
+release_year: 1963
+runtime: 104506
 ---
-
 I'm goin' down that highway, goin' to another town.
 Baby when I find what I'm looking for, well then maybe I'll settle down.
 
@@ -69,6 +73,3 @@ Why don't you help me brother, I'm a stranger in your town
 Why don't you help me sister, and then maybe I'll settle down.
 Why don't you help me brother, I'm a stranger in your town
 Why don't you help me sister, and then maybe I'll settle down.
-
-
-

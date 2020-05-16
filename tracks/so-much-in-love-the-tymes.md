@@ -1,8 +1,11 @@
 ---
+album: So Much In Love
 artists:
 - The Tymes
+external_ids:
+  spotify: spotify:track:6h0LLmMVZY108wNzD5UM6O
 features: []
-genres: []
+first_released_as_single: false
 key: so-much-in-love-the-tymes
 lyrics_url: https://genius.com/The-tymes-so-much-in-love-lyrics
 name: So Much In Love
@@ -67,6 +70,8 @@ rankings:
   rank: 33
   ranking_list: Billboard Hot 100
   start_date: '1963-09-07'
+release_year: 1963
+runtime: 140466
 ---
 As we stroll along together
 Holding hands, walking all alone

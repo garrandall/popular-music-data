@@ -1,8 +1,11 @@
 ---
+album: 'White City: A Novel'
 artists:
 - Pete Townshend
+external_ids:
+  spotify: spotify:track:2PFOLIT19EDg8J5GSVeVjT
 features: []
-genres: []
+first_released_as_single: false
 key: face-the-face-pete-townshend
 lyrics_url: https://genius.com/Pete-townshend-face-the-face-lyrics
 name: Face The Face
@@ -71,6 +74,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1986-02-22'
+release_year: 1985
+runtime: 354320
 ---
 Face the face, got to face the face
 Face the face, got to face the face

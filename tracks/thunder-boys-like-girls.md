@@ -1,8 +1,11 @@
 ---
+album: Boys Like Girls
 artists:
 - Boys Like Girls
+external_ids:
+  spotify: spotify:track:2PZ7Oc6IOeYkgwOsC6wuvM
 features: []
-genres: []
+first_released_as_single: false
 key: thunder-boys-like-girls
 lyrics_url: https://genius.com/Boys-like-girls-thunder-lyrics
 name: Thunder
@@ -59,6 +62,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2008-10-04'
+release_year: 2006
+runtime: 238706
 ---
 Today is a winding road
 That's taking me to places that I didn't want to go

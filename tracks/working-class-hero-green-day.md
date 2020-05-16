@@ -1,8 +1,12 @@
 ---
+album: 'Instant Karma: The Amnesty International Campaign To Save Darfur (Standard
+  Version)'
 artists:
 - Green Day
+external_ids:
+  spotify: spotify:track:1rls1uw64JiGI2O7MZABWj
 features: []
-genres: []
+first_released_as_single: false
 key: working-class-hero-green-day
 lyrics_url: https://www.azlyrics.com/lyrics/greenday/workingclasshero.html
 name: Working Class Hero
@@ -31,10 +35,9 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '2007-07-07'
+release_year: 2007
+runtime: 263733
 ---
-
-
-
 As soon as your born they make you feel small
 By giving you no time instead of it all
 Till the pain is so big you feel nothing at all
@@ -69,6 +72,3 @@ A working class hero is something to be
 
 If you want to be a hero, well just follow me
 If you want to be a hero, well just follow me
-
-
-

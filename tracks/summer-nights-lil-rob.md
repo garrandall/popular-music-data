@@ -1,8 +1,11 @@
 ---
+album: Twelve Eighteen Part 1
 artists:
 - Lil Rob
+external_ids:
+  spotify: spotify:track:36WtqL8ZjUS2xh0ZdyeNfi
 features: []
-genres: []
+first_released_as_single: false
 key: summer-nights-lil-rob
 lyrics_url: https://www.azlyrics.com/lyrics/lilrob/summernights.html
 name: Summer Nights
@@ -63,9 +66,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2005-09-24'
+release_year: 2005
+runtime: 269160
 ---
-
-
 I'm feelin good (feelin alright tonight)
 I'm feelin good now (yeah)
 It's all good in the neighborhood homes
@@ -165,4 +168,3 @@ Head to bo-lo and we just don't stop
 Party until the mornin' light (whoa!)
 Ain't nothin' like them summer nights
 (summer nights)
-

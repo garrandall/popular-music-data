@@ -1,8 +1,11 @@
 ---
+album: I'm Jessi Colter
 artists:
 - Jessi Colter
+external_ids:
+  spotify: spotify:track:6Qr5MLTxMKKPwgnJcRfY65
 features: []
-genres: []
+first_released_as_single: false
 key: what-s-happened-to-blue-eyes-jessi-colter
 lyrics_url: https://genius.com/Jessi-colter-whats-happened-to-blue-eyes-lyrics
 name: What's Happened To Blue Eyes
@@ -27,6 +30,8 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1975-11-08'
+release_year: 1975
+runtime: 140680
 ---
 Im looking for Blue Eyes, has anyone seen him?
 Don't you tell me, he gave up on me

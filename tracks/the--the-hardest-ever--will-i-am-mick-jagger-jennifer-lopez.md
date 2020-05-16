@@ -1,10 +1,13 @@
 ---
+album: T.H.E (The Hardest Ever)
 artists:
 - will.i.am
+external_ids:
+  spotify: spotify:track:5sn8kTcYEFZ0QcnYKEi9Qc
 features:
 - Mick Jagger
 - Jennifer Lopez
-genres: []
+first_released_as_single: true
 key: the--the-hardest-ever--will-i-am-mick-jagger-jennifer-lopez
 lyrics_url: https://genius.com/William-the-the-hardest-ever-lyrics
 name: THE (The Hardest Ever)
@@ -41,6 +44,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2012-02-18'
+release_year: 2011
+runtime: 287973
 ---
 You can go hard or you can go home
 You can go hard or you can go home

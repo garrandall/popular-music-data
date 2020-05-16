@@ -1,8 +1,11 @@
 ---
+album: Take My Time
 artists:
 - Sheena Easton
+external_ids:
+  spotify: spotify:track:7k1fu2zeQ3S47mT4lhJWcL
 features: []
-genres: []
+first_released_as_single: false
 key: modern-girl-sheena-easton
 lyrics_url: https://genius.com/Sheena-easton-modern-girl-lyrics
 name: Modern Girl
@@ -79,6 +82,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1981-09-05'
+release_year: 1981
+runtime: 217466
 ---
 He wakes and says hello, turns on the breakfast show
 She fixes coffee while he takes a shower

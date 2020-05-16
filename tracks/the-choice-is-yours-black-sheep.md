@@ -1,8 +1,11 @@
 ---
+album: A Wolf In Sheep's Clothing
 artists:
 - Black Sheep
+external_ids:
+  spotify: spotify:track:4k9EkhkFZY8Bk41Qi0Ob7P
 features: []
-genres: []
+first_released_as_single: false
 key: the-choice-is-yours-black-sheep
 lyrics_url: https://genius.com/Black-sheep-the-choice-is-yours-revisited-lyrics
 name: The Choice Is Yours
@@ -83,6 +86,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1992-07-04'
+release_year: 1991
+runtime: 243200
 ---
 Here they come yo, here they come
 Here they come yo, here they come

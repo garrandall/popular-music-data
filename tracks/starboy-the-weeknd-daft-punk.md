@@ -1,9 +1,12 @@
 ---
+album: Starboy
 artists:
 - The Weeknd
+external_ids:
+  spotify: spotify:track:4G89w0Sp3mMIaXYOZKYSxT
 features:
 - Daft Punk
-genres: []
+first_released_as_single: true
 key: starboy-the-weeknd-daft-punk
 lyrics_url: https://www.azlyrics.com/lyrics/weeknd/starboy.html
 name: Starboy
@@ -128,8 +131,9 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '2017-04-29'
+release_year: 2016
+runtime: 244720
 ---
-
 I'm tryna put you in the worst mood, ah
 P1 cleaner than your church shoes, ah
 Milli point two just to hurt you, ah
@@ -222,6 +226,3 @@ Ha-ha-ha-ha-ha-ha-ha-ha-ha-ha
 Look what you've done!
 Ha-ha-ha-ha-ha-ha-ha-ha-ha-ha
 I'm a motherfuckin' Starboy
-
-
-

@@ -1,9 +1,12 @@
 ---
+album: Scarlett & Black
 artists:
 - Scarlett
 - Black
+external_ids:
+  spotify: spotify:track:7Fl0Mu6mWQkikl4aObURUO
 features: []
-genres: []
+first_released_as_single: false
 key: you-don-t-know-scarlett-black
 lyrics_url: https://genius.com/Scarlett-and-black-you-dont-know-lyrics
 name: You Don't Know
@@ -80,6 +83,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1988-05-28'
+release_year: 1987
+runtime: 222400
 ---
 Don't believe the things
 That people tell you

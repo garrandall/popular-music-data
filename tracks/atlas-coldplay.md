@@ -1,8 +1,11 @@
 ---
+album: 'The Hunger Games: Catching Fire (Original Motion Picture Soundtrack)'
 artists:
 - Coldplay
+external_ids:
+  spotify: spotify:track:2DI0fZ4QZmLtapszYaoG6F
 features: []
-genres: []
+first_released_as_single: true
 key: atlas-coldplay
 lyrics_url: https://www.azlyrics.com/lyrics/coldplay/atlas.html
 name: Atlas
@@ -15,8 +18,9 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '2013-09-28'
+release_year: 2013
+runtime: 236093
 ---
-
 Some saw the sun
 Some saw the smoke
 Some heard the gun
@@ -42,6 +46,3 @@ Carry your world, I'll carry your world
 Carry your world, and all your hurt.
 
 (Carry your world, carry your world)
-
-
-

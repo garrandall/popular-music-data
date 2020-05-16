@@ -1,10 +1,13 @@
 ---
+album: JESUS IS KING
 artists:
 - Kanye West
+external_ids:
+  spotify: spotify:track:0oPOuDmmkVp3h6puekhs6P
 features:
 - Clipse
 - Kenny G
-genres: []
+first_released_as_single: false
 key: use-this-gospel-kanye-west-clipse-kenny-g
 lyrics_url: https://www.azlyrics.com/lyrics/kanyewest/usethisgospel.html
 name: Use This Gospel
@@ -13,8 +16,9 @@ rankings:
   rank: 37
   ranking_list: Billboard Hot 100
   start_date: '2019-11-09'
+release_year: 2019
+runtime: 213877
 ---
-
 Use this Gospel for protection
 It's a hard road to Heaven
 We call on your blessings
@@ -50,6 +54,3 @@ From the concrete grew a rose
 They give you Wraith talk, I give you faith talk
 Blindfolded on this road, watch me faith walk
 Just hold on to your brother when his faith lost
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Frontiers
 artists:
 - Journey
+external_ids:
+  spotify: spotify:track:35MYeh1lxBAR7E8YowzPF4
 features: []
-genres: []
+first_released_as_single: false
 key: separate-ways--worlds-apart--journey
 lyrics_url: https://www.azlyrics.com/lyrics/journey/separatewaysworldsapart.html
 name: Separate Ways (Worlds Apart)
@@ -75,8 +78,9 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1983-05-28'
+release_year: 1975
+runtime: 324226
 ---
-
 Here we stand
 Worlds apart
 Hearts broken in two, two, two
@@ -140,6 +144,3 @@ And if he ever hurts you
 True love won't desert you
 Nooooooooo
 Nooooooooo
-
-
-

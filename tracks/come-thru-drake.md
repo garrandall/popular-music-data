@@ -1,8 +1,11 @@
 ---
+album: Nothing Was The Same
 artists:
 - Drake
+external_ids:
+  spotify: spotify:track:3eN46sMTppXYMAyWi37wn1
 features: []
-genres: []
+first_released_as_single: false
 key: come-thru-drake
 lyrics_url: https://www.azlyrics.com/lyrics/drake/comethru.html
 name: Come Thru
@@ -11,9 +14,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '2013-10-12'
+release_year: 2013
+runtime: 236360
 ---
-
-
 We had the type of nights where morning comes too soon... and nothing was the same
 
 
@@ -71,6 +74,3 @@ Rounds tonight oh,
 Come thru girl you deserve rounds tonight
 Come thru girl you deserve rounds tonight
 Come thru girl you deserve rounds tonight
-
-
-

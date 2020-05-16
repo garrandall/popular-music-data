@@ -1,8 +1,11 @@
 ---
+album: Nolan
 artists:
 - Nolan Porter
+external_ids:
+  spotify: spotify:track:3X9MzewfAXyBbdPuWQDJUa
 features: []
-genres: []
+first_released_as_single: false
 key: if-i-could-only-be-sure-nolan-porter
 lyrics_url: https://genius.com/Nolan-porter-if-i-could-only-be-sure-lyrics
 name: If I Could Only Be Sure
@@ -23,6 +26,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1973-04-21'
+release_year: 1972
+runtime: 201533
 ---
 If I could only be sure that you love me baby
 If I could only be sure that you love me darling

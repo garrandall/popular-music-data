@@ -1,8 +1,11 @@
 ---
+album: Sail Along Silv'ry Moon
 artists:
 - Billy Vaughn
+external_ids:
+  spotify: spotify:track:39tiEmJyiZnGoNo6u86pLl
 features: []
-genres: []
+first_released_as_single: false
 key: a-swingin--safari-billy-vaughn-and-his-orchestra
 lyrics_url: https://genius.com/Billy-vaughn-a-swingin-safari-lyrics
 name: A Swingin' Safari
@@ -55,5 +58,7 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1962-10-06'
+release_year: 1962
+runtime: 133773
 ---
 INSTRUMENTAL

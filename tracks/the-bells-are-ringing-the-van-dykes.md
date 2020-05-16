@@ -1,8 +1,11 @@
 ---
+album: Dynamite Darling - Volume 1
 artists:
 - The Van Dykes
+external_ids:
+  spotify: spotify:track:0Q6ylLJT5NaIKnLDeyOxp8
 features: []
-genres: []
+first_released_as_single: false
 key: the-bells-are-ringing-the-van-dykes
 lyrics_url: https://genius.com/The-van-dykes-the-bells-are-ringing-lyrics
 name: The Bells Are Ringing
@@ -15,6 +18,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1961-08-07'
+release_year: 1961
+runtime: 163386
 ---
 Ding dong
 Ding dong

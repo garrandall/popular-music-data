@@ -1,8 +1,11 @@
 ---
+album: Automatic For The People
 artists:
 - R.E.M.
+external_ids:
+  spotify: spotify:track:4jLv3tDBu8ww2R07DvL12s
 features: []
-genres: []
+first_released_as_single: false
 key: man-on-the-moon-r-e-m-
 lyrics_url: https://genius.com/Rem-man-on-the-moon-lyrics
 name: Man On The Moon
@@ -67,6 +70,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1993-05-15'
+release_year: 1992
+runtime: 314173
 ---
 Mott the Hoople and the Game of Life
 Yeah, yeah, yeah, yeah

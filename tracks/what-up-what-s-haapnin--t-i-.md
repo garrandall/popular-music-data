@@ -1,8 +1,11 @@
 ---
+album: Paper Trail
 artists:
 - T.I.
+external_ids:
+  spotify: spotify:track:6ZNZkRYqSrPwISR63lC4bu
 features: []
-genres: []
+first_released_as_single: false
 key: what-up-what-s-haapnin--t-i-
 lyrics_url: https://www.azlyrics.com/lyrics/ti/whatupwhatshaapnin.html
 name: What Up What's Haapnin'
@@ -11,9 +14,9 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '2008-09-20'
+release_year: 2008
+runtime: 301293
 ---
-
-
 Ey, what's haapnin'? (what it is you all)
 All you haters, can get at me (Center Hill, what it do)
 'Cause I hear you, and am watchin' (Church Creek, South Grand stand up)
@@ -89,4 +92,3 @@ But that's alright, let the nerds hate
 'Cause in my face though the words get ate
 Hating's hard work, but I just bounce back
 'cause God work tell all the haters am back!
-

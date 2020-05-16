@@ -1,8 +1,11 @@
 ---
+album: Teddy
 artists:
 - Teddy Pendergrass
+external_ids:
+  spotify: spotify:track:47nJdvSobIGBYdN7y2caLM
 features: []
-genres: []
+first_released_as_single: false
 key: turn-off-the-lights-teddy-pendergrass
 lyrics_url: https://www.azlyrics.com/lyrics/teddypendergrass/turnoffthelights.html
 name: Turn Off The Lights
@@ -31,8 +34,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1979-08-25'
+release_year: 1979
+runtime: 354626
 ---
-
 Turn off the lights and light a candle
 Tonight I'm in a romantic mood, yeah
 Let's take a shower, shower together
@@ -94,6 +98,3 @@ Tell me what you wanna do (I can do it)
 Tell me what you wanna do, babe (I'm willin')
 Tell me what you wanna do
 Tell me what you wanna do, babe (I'm willin' to try)
-
-
-

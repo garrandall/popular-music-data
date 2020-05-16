@@ -1,8 +1,11 @@
 ---
+album: '3121'
 artists:
 - Prince
+external_ids:
+  spotify: spotify:track:39RdlHe8QCccYnqDFAANWw
 features: []
-genres: []
+first_released_as_single: false
 key: black-sweat-prince
 lyrics_url: https://genius.com/Prince-black-sweat-lyrics
 name: Black Sweat
@@ -11,6 +14,8 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '2006-03-11'
+release_year: 2006
+runtime: 191120
 ---
 Working, working up a black sweat
 Working, working up a black sweat

@@ -1,8 +1,11 @@
 ---
+album: One Dozen Berry's
 artists:
 - Chuck Berry
+external_ids:
+  spotify: spotify:track:4goByJ8dubc57qxiT7AH9p
 features: []
-genres: []
+first_released_as_single: false
 key: reelin----rockin--chuck-berry
 lyrics_url: https://www.azlyrics.com/lyrics/chuckberry/reelinandrockin.html
 name: Reelin' & Rockin'
@@ -59,8 +62,9 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1973-02-24'
+release_year: 1958
+runtime: 195186
 ---
-
 Sometimes I will, then again I think I won't
 Sometimes I will, then again I think I won't
 Sometimes I do, then again I think I don't
@@ -124,6 +128,3 @@ The bandleader said " We ain't playing no more "
 And we was reelin', reelin' and a rockin'
 We was reelin' and a rockin'
 Well till the break of dawn
-
-
-

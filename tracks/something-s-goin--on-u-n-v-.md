@@ -1,8 +1,11 @@
 ---
+album: Timeless UNV
 artists:
 - U.N.V.
+external_ids:
+  spotify: spotify:track:7ueNdWtY35V6mpL1fnW3uW
 features: []
-genres: []
+first_released_as_single: true
 key: something-s-goin--on-u-n-v-
 lyrics_url: https://genius.com/Unv-somethings-goin-on-lyrics
 name: Something's Goin' On
@@ -87,6 +90,8 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '1993-10-16'
+release_year: 1993
+runtime: 340349
 ---
 Lately I've been thinking, that you don't feel the same
 I don't know what it is, all I know is that you changed

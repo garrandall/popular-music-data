@@ -1,8 +1,11 @@
 ---
+album: La Revolucion
 artists:
 - Enrique Iglesias
+external_ids:
+  spotify: spotify:track:1ANDl3Sadh6vAHSHNm36yk
 features: []
-genres: []
+first_released_as_single: true
 key: lloro-por-ti-enrique-iglesias
 lyrics_url: https://genius.com/Enrique-iglesias-lloro-por-ti-lyrics
 name: Lloro Por Ti
@@ -11,6 +14,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2008-11-08'
+release_year: 2008
+runtime: 274426
 ---
 Te busque en el infinito
 Y en las huellas de tus labios

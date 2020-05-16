@@ -1,8 +1,11 @@
 ---
+album: With A Lot O' Soul
 artists:
 - The Temptations
+external_ids:
+  spotify: spotify:track:4SuPDwNadgf6fdw8v3FW5x
 features: []
-genres: []
+first_released_as_single: false
 key: -loneliness-made-me-realize--it-s-you-that-i-need-the-temptations
 lyrics_url: https://genius.com/The-temptations-loneliness-has-made-me-realize-its-you-that-i-need-lyrics
 name: (Loneliness Made Me Realize) It's You That I Need
@@ -43,6 +46,8 @@ rankings:
   rank: 35
   ranking_list: Billboard Hot 100
   start_date: '1967-12-09'
+release_year: 1967
+runtime: 158733
 ---
 Oh, lonely man am I
 Ever since you said goodbye

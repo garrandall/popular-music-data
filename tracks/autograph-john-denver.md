@@ -1,8 +1,11 @@
 ---
+album: Autograph
 artists:
 - John Denver
+external_ids:
+  spotify: spotify:track:5dG5bJ3e2cTRpNPZNnP8yt
 features: []
-genres: []
+first_released_as_single: false
 key: autograph-john-denver
 lyrics_url: https://www.azlyrics.com/lyrics/johndenver/autograph.html
 name: Autograph
@@ -47,8 +50,9 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1980-04-26'
+release_year: 1980
+runtime: 220040
 ---
-
 Here I am, closing my eyes again, trying so hard not to see all the things that I see.
 Almost willing to lie again, I swear that it just isn't so, it just isn't me.
 We are never alone even though we'd like to be.
@@ -70,6 +74,3 @@ to be always with you and you always with me.
 This is my autograph, here in the songs that I sing.
 Here in my cry and my laugh, here in the love that I bring
 to be always with you and you always with me.
-
-
-

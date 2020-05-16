@@ -1,8 +1,11 @@
 ---
+album: Something Special
 artists:
 - The Sylvers
+external_ids:
+  spotify: spotify:track:7ruBvHnx8VbQef58xC4FfG
 features: []
-genres: []
+first_released_as_single: false
 key: hot-line-the-sylvers
 lyrics_url: https://genius.com/The-sylvers-hot-line-lyrics
 name: Hot Line
@@ -103,6 +106,8 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '1977-03-19'
+release_year: 1976
+runtime: 181573
 ---
 Number please
 

@@ -1,8 +1,11 @@
 ---
+album: Heart
 artists:
 - Heart
+external_ids:
+  spotify: spotify:track:1mr9ZUNWfCUClBDhYbCErx
 features: []
-genres: []
+first_released_as_single: false
 key: if-looks-could-kill-heart
 lyrics_url: https://genius.com/Heart-if-looks-could-kill-lyrics
 name: If Looks Could Kill
@@ -43,6 +46,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1986-09-13'
+release_year: 1985
+runtime: 220415
 ---
 Caught you in the act, can't put up with that
 Messing where you shouldn't be

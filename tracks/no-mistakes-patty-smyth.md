@@ -1,8 +1,11 @@
 ---
+album: Patty Smyth
 artists:
 - Patty Smyth
+external_ids:
+  spotify: spotify:track:1Ak9nTnQiO4o6CdNWhk7gq
 features: []
-genres: []
+first_released_as_single: false
 key: no-mistakes-patty-smyth
 lyrics_url: https://www.azlyrics.com/lyrics/pattysmyth/nomistakes.html
 name: No Mistakes
@@ -71,8 +74,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1993-04-10'
+release_year: 1992
+runtime: 323426
 ---
-
 The summer is gone 
 I can't believe
 It went so fast
@@ -124,6 +128,3 @@ Have been dreaming of
 There are no mistakes in love
 There are no mistakes in love
 Oh there are no mistakes in love
-
-
-

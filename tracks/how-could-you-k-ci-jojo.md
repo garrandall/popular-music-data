@@ -1,9 +1,12 @@
 ---
+album: Love Always
 artists:
 - K-Ci
 - JoJo
+external_ids:
+  spotify: spotify:track:7he5Dbnq3fuFwhRNiBHLCH
 features: []
-genres: []
+first_released_as_single: false
 key: how-could-you-k-ci-jojo
 lyrics_url: https://genius.com/K-ci-and-jojo-how-could-you-lyrics
 name: How Could You
@@ -68,6 +71,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1997-02-22'
+release_year: 1996
+runtime: 298173
 ---
 All I can do is sit alone
 In my room, baby, thinking about you

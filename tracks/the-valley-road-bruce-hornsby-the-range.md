@@ -1,9 +1,12 @@
 ---
+album: Scenes From The Southside
 artists:
 - Bruce Hornsby
 - The Range
+external_ids:
+  spotify: spotify:track:15Hgsooff9mLjxUhg2uXZz
 features: []
-genres: []
+first_released_as_single: false
 key: the-valley-road-bruce-hornsby-the-range
 lyrics_url: https://genius.com/Bruce-hornsby-and-the-range-the-valley-road-lyrics
 name: The Valley Road
@@ -72,6 +75,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1988-08-13'
+release_year: 1988
+runtime: 282293
 ---
 Sometimes I lead, sometimes I follow
 This time I'll go where she wants me to go

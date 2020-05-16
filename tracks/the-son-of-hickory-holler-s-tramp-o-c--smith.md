@@ -1,8 +1,11 @@
 ---
+album: Hickory Holler Revisted
 artists:
 - O.C. Smith
+external_ids:
+  spotify: spotify:track:63UCz2y3eAmYkkuKZ9WnsT
 features: []
-genres: []
+first_released_as_single: false
 key: the-son-of-hickory-holler-s-tramp-o-c--smith
 name: The Son Of Hickory Holler's Tramp
 rankings:
@@ -62,5 +65,7 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1968-05-25'
+release_year: 1968
+runtime: 233173
 ---
 

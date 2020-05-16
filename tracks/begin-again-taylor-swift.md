@@ -1,8 +1,11 @@
 ---
+album: Red
 artists:
 - Taylor Swift
+external_ids:
+  spotify: spotify:track:0L4YCNRfXAoTvdpWeH2RGj
 features: []
-genres: []
+first_released_as_single: false
 key: begin-again-taylor-swift
 lyrics_url: https://genius.com/Taylor-swift-begin-again-lyrics
 name: Begin Again
@@ -87,6 +90,8 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '2013-03-02'
+release_year: 2012
+runtime: 237613
 ---
 Took a deep breath in the mirror
 He didn't like it when I wore high heels, but I do

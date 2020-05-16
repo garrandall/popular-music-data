@@ -1,8 +1,12 @@
 ---
+album: Robert Gordon with Link Wray (with Link Wray)
 artists:
-- Robert Gordon With Link Wray
-features: []
-genres: []
+- Robert Gordon
+external_ids:
+  spotify: spotify:track:2V4OJKEVSrkmdKK33XZ87U
+features:
+- Link Wray
+first_released_as_single: false
 key: red-hot-robert-gordon-with-link-wray
 name: Red Hot
 rankings:
@@ -18,5 +22,7 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1977-10-15'
+release_year: 1977
+runtime: 141000
 ---
 

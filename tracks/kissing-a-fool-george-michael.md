@@ -1,8 +1,11 @@
 ---
+album: Faith
 artists:
 - George Michael
+external_ids:
+  spotify: spotify:track:1sEGwuvScFU2uNzlI7Aepy
 features: []
-genres: []
+first_released_as_single: false
 key: kissing-a-fool-george-michael
 lyrics_url: https://www.azlyrics.com/lyrics/georgemichael/kissingafool.html
 name: Kissing A Fool
@@ -67,8 +70,9 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1989-01-14'
+release_year: 1987
+runtime: 280720
 ---
-
 You are far
 When I could have been your star
 You listened to people
@@ -137,6 +141,3 @@ Strange that I was wrong enough
 To think you'd love me too
 I guess you were kissing a fool
 You must have been kissing a fool
-
-
-

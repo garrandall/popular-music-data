@@ -1,8 +1,11 @@
 ---
+album: Country Wine
 artists:
 - The Raiders
+external_ids:
+  spotify: spotify:track:3rnFnTwqmFey0A8Fc5dZLc
 features: []
-genres: []
+first_released_as_single: false
 key: powder-blue-mercedes-queen-the-raiders
 lyrics_url: https://www.azlyrics.com/lyrics/paulreveretheraiders/powderbluemercedesqueen.html
 name: Powder Blue Mercedes Queen
@@ -39,8 +42,9 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '1972-07-08'
+release_year: 1972
+runtime: 184960
 ---
-
 Smokin' down the boulevard
 Flashin' at the red lights
 Baby's lookin' pretty hot
@@ -79,6 +83,3 @@ Go ahead, you know I love to ride
 
 Do it like a lady
 Do it like a lady
-
-
-

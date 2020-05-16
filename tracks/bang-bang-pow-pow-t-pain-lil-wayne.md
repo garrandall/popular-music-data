@@ -1,9 +1,12 @@
 ---
+album: rEVOLVEr (Deluxe Version)
 artists:
 - T-Pain
+external_ids:
+  spotify: spotify:track:5974upRH7uHuhRkstgEhHu
 features:
 - Lil Wayne
-genres: []
+first_released_as_single: false
 key: bang-bang-pow-pow-t-pain-lil-wayne
 lyrics_url: https://genius.com/T-pain-bang-bang-pow-pow-lyrics
 name: Bang Bang Pow Pow
@@ -16,6 +19,8 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '2011-12-31'
+release_year: 2011
+runtime: 219773
 ---
 My money right (my money, money), my bread good (good, good)
 Shawty fuckin’ (wassup, girl?), that head good!

@@ -1,8 +1,11 @@
 ---
+album: Spring Session M.
 artists:
 - Missing Persons
+external_ids:
+  spotify: spotify:track:1xBl90mVMPL3XyEa2RLgkW
 features: []
-genres: []
+first_released_as_single: false
 key: windows-missing-persons
 lyrics_url: https://genius.com/Missing-persons-windows-lyrics
 name: Windows
@@ -39,6 +42,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1983-03-05'
+release_year: 1982
+runtime: 302373
 ---
 Something feels so strange tonight
 It's not wrong but it's just not right

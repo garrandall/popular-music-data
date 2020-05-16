@@ -1,10 +1,13 @@
 ---
+album: Stay Trippy
 artists:
 - Juicy J
+external_ids:
+  spotify: spotify:track:3N5oiETJEStSB71TjTFkWV
 features:
 - Wale
 - Trey Songz
-genres: []
+first_released_as_single: false
 key: bounce-it-juicy-j-wale-trey-songz
 lyrics_url: https://genius.com/Bounce-it-bounce-it-tribute-to-juicy-j-wale-and-trey-songz-lyrics
 name: Bounce It
@@ -85,6 +88,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2014-01-18'
+release_year: 2013
+runtime: 260560
 ---
 Yeah... yeah, we gon' stay trippy for life, mane
 Yeah... I'm 'bout to take yo' girl (bounce it)

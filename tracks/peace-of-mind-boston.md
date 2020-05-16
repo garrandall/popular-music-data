@@ -1,8 +1,11 @@
 ---
+album: Boston
 artists:
 - Boston
+external_ids:
+  spotify: spotify:track:1GqlvSEtMx5xbGptxOTTyk
 features: []
-genres: []
+first_released_as_single: false
 key: peace-of-mind-boston
 lyrics_url: https://www.azlyrics.com/lyrics/boston/peaceofmind.html
 name: Peace Of Mind
@@ -39,8 +42,9 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '1977-07-02'
+release_year: 1976
+runtime: 303586
 ---
-
 Now if you're feelin' kinda low 'bout the dues you've been paying
 Future's coming much too slow
 And you wanna run but somehow you just keep on stayin'
@@ -75,6 +79,3 @@ People livin' in competition
 All I want is to have my peace of mind
 
 Take a look ahead, take a look ahead. Look ahead
-
-
-

@@ -1,11 +1,14 @@
 ---
+album: Set It Off (Music From The New Line Cinema Motion Picture)
 artists:
 - Brandy
 - Tamia
 - Gladys Knight
 - Chaka Khan
+external_ids:
+  spotify: spotify:track:0BP2RFjKRSmNtkJW3f1nhR
 features: []
-genres: []
+first_released_as_single: false
 key: missing-you-brandy-tamia-gladys-knight-chaka-khan
 lyrics_url: https://genius.com/Brandy-missing-you-lyrics
 name: Missing You
@@ -90,6 +93,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1997-01-04'
+release_year: 1996
+runtime: 253600
 ---
 Though I'm missing you
 (Although I'm missing you)

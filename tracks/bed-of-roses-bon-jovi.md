@@ -1,8 +1,11 @@
 ---
+album: Keep The Faith
 artists:
 - Bon Jovi
+external_ids:
+  spotify: spotify:track:1zng9uqqXoPkmU05nsAlsw
 features: []
-genres: []
+first_released_as_single: false
 key: bed-of-roses-bon-jovi
 lyrics_url: https://genius.com/Bon-jovi-bed-of-roses-lyrics
 name: Bed Of Roses
@@ -87,6 +90,8 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '1993-06-05'
+release_year: 1992
+runtime: 394400
 ---
 Sitting here wasted and wounded
 At this old piano

@@ -1,9 +1,12 @@
 ---
+album: The Best Of Eric Burdon And The Animals (1966 - 1968)
 artists:
 - Eric Burdon
 - The Animals
+external_ids:
+  spotify: spotify:track:7mGlt3k3luo8Qt69BxxZp7
 features: []
-genres: []
+first_released_as_single: false
 key: see-see-rider-eric-burdon-the-animals
 lyrics_url: https://genius.com/Eric-burdon-and-the-animals-see-see-rider-lyrics
 name: See See Rider
@@ -48,6 +51,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1966-11-19'
+release_year: 1966
+runtime: 241266
 ---
 Oh see, See See Rider
 Girl see, what you've done

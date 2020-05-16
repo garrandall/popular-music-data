@@ -1,8 +1,11 @@
 ---
+album: The Four Preps on Campus
 artists:
 - The Four Preps
+external_ids:
+  spotify: spotify:track:5X864LOuv4j0UZUWPqVVYV
 features: []
-genres: []
+first_released_as_single: false
 key: more-money-for-you-and-me-the-four-preps
 lyrics_url: https://genius.com/The-four-preps-more-money-for-you-and-me-medley-lyrics
 name: More Money For You And Me
@@ -51,6 +54,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1961-10-23'
+release_year: 1961
+runtime: 388466
 ---
 First we have The Fleetwoods
 A very successful group

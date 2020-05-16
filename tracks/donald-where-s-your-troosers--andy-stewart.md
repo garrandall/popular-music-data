@@ -1,8 +1,11 @@
 ---
+album: 20 Scottish Favourites
 artists:
 - Andy Stewart
+external_ids:
+  spotify: spotify:track:68LIwSJYSkEj7oHcXCcHwo
 features: []
-genres: []
+first_released_as_single: false
 key: donald-where-s-your-troosers--andy-stewart
 lyrics_url: https://genius.com/Andy-stewart-donald-wheres-your-troosers-lyrics
 name: Donald Where's Your Troosers?
@@ -23,6 +26,8 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1961-09-11'
+release_year: 1961
+runtime: 198266
 ---
 I've just come down
 From the Isle of Skye

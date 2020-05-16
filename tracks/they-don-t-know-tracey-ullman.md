@@ -1,8 +1,11 @@
 ---
+album: You Broke My Heart In Seventeen Places
 artists:
 - Tracey Ullman
+external_ids:
+  spotify: spotify:track:0tOkXHcYsR2Y07XiGl0Yme
 features: []
-genres: []
+first_released_as_single: false
 key: they-don-t-know-tracey-ullman
 lyrics_url: https://genius.com/Tracey-ullman-they-dont-know-lyrics
 name: They Don't Know
@@ -75,6 +78,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1984-06-16'
+release_year: 1983
+runtime: 179626
 ---
 You've been around
 For such a long time now

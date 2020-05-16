@@ -1,8 +1,11 @@
 ---
+album: Still Life
 artists:
 - The Rolling Stones
+external_ids:
+  spotify: spotify:track:0XFgoEfKXe4a2rXZHBP7re
 features: []
-genres: []
+first_released_as_single: false
 key: going-to-a-go-go-the-rolling-stones
 lyrics_url: https://genius.com/The-rolling-stones-going-to-a-go-go-lyrics
 name: Going To A Go-Go
@@ -51,6 +54,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1982-08-21'
+release_year: 1982
+runtime: 203066
 ---
 (Robinson/Moore/Rogers/Tarplin)
 

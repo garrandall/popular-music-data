@@ -1,8 +1,11 @@
 ---
+album: Muhammed Ali in "The Greatest"
 artists:
 - George Benson
+external_ids:
+  spotify: spotify:track:5EW8grWEzfG4E6T2FROLNL
 features: []
-genres: []
+first_released_as_single: false
 key: the-greatest-love-of-all-george-benson
 lyrics_url: https://genius.com/George-benson-the-greatest-love-of-all-lyrics
 name: The Greatest Love Of All
@@ -63,6 +66,8 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1977-10-29'
+release_year: 1977
+runtime: 334866
 ---
 I believe the children are our future
 Teach them well and let them lead the way

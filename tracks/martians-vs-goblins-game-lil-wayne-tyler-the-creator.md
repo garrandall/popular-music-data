@@ -1,10 +1,13 @@
 ---
+album: The R.E.D. Album
 artists:
 - Game
+external_ids:
+  spotify: spotify:track:1UIcqXAA24eg76EFWViwr5
 features:
 - Lil Wayne
 - Tyler, The Creator
-genres: []
+first_released_as_single: false
 key: martians-vs-goblins-game-lil-wayne-tyler-the-creator
 lyrics_url: https://www.azlyrics.com/lyrics/game/martiansvsgoblins.html
 name: Martians Vs Goblins
@@ -13,6 +16,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2011-09-10'
+release_year: 2011
+runtime: 228826
 ---
 Mars
 Bitch I'm a motherfucking' Martian

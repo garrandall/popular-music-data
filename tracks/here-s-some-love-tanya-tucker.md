@@ -1,8 +1,11 @@
 ---
+album: Tanya Tucker
 artists:
 - Tanya Tucker
+external_ids:
+  spotify: spotify:track:0zQqGcIinqDdkWXky7KTEW
 features: []
-genres: []
+first_released_as_single: false
 key: here-s-some-love-tanya-tucker
 lyrics_url: https://www.azlyrics.com/lyrics/tanyatucker/heressomelove.html
 name: Here's Some Love
@@ -27,8 +30,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1976-10-30'
+release_year: 1976
+runtime: 181693
 ---
-
 I been watchin' you cryin' when you do, I just feel like dyin'
 I could give you somethin' that would ease your mind, yeah
 Let me give it to you just a little bit would do you
@@ -53,6 +57,3 @@ Here's some love, take a little bit of it home with you
 Keep it close to you, save it for a rainy day, hey, hey, hey
 Here's some love, take a little bit of it home with you, oh yeah
 It'll grow with you, someday
-
-
-

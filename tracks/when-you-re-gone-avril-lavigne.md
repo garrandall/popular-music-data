@@ -1,8 +1,11 @@
 ---
+album: The Best Damn Thing
 artists:
 - Avril Lavigne
+external_ids:
+  spotify: spotify:track:54JKnDB3CzVu8wNAOM27BI
 features: []
-genres: []
+first_released_as_single: false
 key: when-you-re-gone-avril-lavigne
 lyrics_url: https://genius.com/Avril-lavigne-when-youre-gone-lyrics
 name: When You're Gone
@@ -87,6 +90,8 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '2007-11-17'
+release_year: 2007
+runtime: 240047
 ---
 I always needed time on my own
 I never thought I'd need you there when I cry

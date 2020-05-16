@@ -1,8 +1,11 @@
 ---
+album: Best Of
 artists:
 - Bob Lind
+external_ids:
+  spotify: spotify:track:5Qm5fwmi7kq1bIVYFcjDap
 features: []
-genres: []
+first_released_as_single: false
 key: truly-julie-s-blues--i-ll-be-there--bob-lind
 lyrics_url: https://genius.com/Bob-lind-truly-julies-blues-ill-be-there-lyrics
 name: Truly Julie's Blues (I'll Be There)
@@ -27,6 +30,8 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '1966-06-04'
+release_year: 1966
+runtime: 171493
 ---
 When you're thirsty and no one will fill your cup for you
 And your well-dressed friends don't want you on their street

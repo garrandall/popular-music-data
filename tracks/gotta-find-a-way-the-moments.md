@@ -1,8 +1,11 @@
 ---
+album: My Thing
 artists:
 - The Moments
+external_ids:
+  spotify: spotify:track:0Y8B6ntOsdCnhU31F8iv9T
 features: []
-genres: []
+first_released_as_single: false
 key: gotta-find-a-way-the-moments
 lyrics_url: https://genius.com/The-moments-gotta-find-a-way-lyrics
 name: Gotta Find A Way
@@ -39,6 +42,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1973-11-10'
+release_year: 1972
+runtime: 237173
 ---
 I gotta find a way, I gotta find a way
 I gotta find a way, I gotta find a way

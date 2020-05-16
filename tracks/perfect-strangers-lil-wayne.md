@@ -1,8 +1,11 @@
 ---
+album: Tha Carter V
 artists:
 - Lil Wayne
+external_ids:
+  spotify: spotify:track:6mFc68qbEcYnFcqnoPPtGO
 features: []
-genres: []
+first_released_as_single: false
 key: perfect-strangers-lil-wayne
 lyrics_url: https://www.azlyrics.com/lyrics/lilwayne/perfectstrangers.html
 name: Perfect Strangers
@@ -11,8 +14,9 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2018-10-13'
+release_year: 2018
+runtime: 249751
 ---
-
 I don't know who you are any more
 Talking to the man in her mirror
 That been fuckin' with these bitches
@@ -137,6 +141,3 @@ And it's painless
 We act like we strangers
 I just don't know who we are anymore
 Perfect strangers
-
-
-

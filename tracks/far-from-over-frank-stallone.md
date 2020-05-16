@@ -1,8 +1,11 @@
 ---
+album: Frank Stallone
 artists:
 - Frank Stallone
+external_ids:
+  spotify: spotify:track:1Ax2ffMFYxzzIvQkRj3nOC
 features: []
-genres: []
+first_released_as_single: false
 key: far-from-over-frank-stallone
 lyrics_url: https://genius.com/Frank-stallone-far-from-over-lyrics
 name: Far From Over
@@ -71,6 +74,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1983-11-12'
+release_year: 1977
+runtime: 236133
 ---
 This is the end
 You made your choice and now my chance is over

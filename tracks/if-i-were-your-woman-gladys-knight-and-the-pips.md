@@ -1,8 +1,11 @@
 ---
+album: If I Were Your Woman
 artists:
 - Gladys Knight And The Pips
+external_ids:
+  spotify: spotify:track:3FWqBK4ZKpAdffVPvPFJjB
 features: []
-genres: []
+first_released_as_single: false
 key: if-i-were-your-woman-gladys-knight-and-the-pips
 lyrics_url: https://genius.com/Gladys-knight-and-the-pips-if-i-were-your-woman-lyrics
 name: If I Were Your Woman
@@ -67,6 +70,8 @@ rankings:
   rank: 33
   ranking_list: Billboard Hot 100
   start_date: '1971-03-06'
+release_year: 1970
+runtime: 194533
 ---
 If I were your woman
 And you were my man

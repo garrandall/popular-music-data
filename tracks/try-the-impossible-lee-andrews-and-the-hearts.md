@@ -1,8 +1,11 @@
 ---
+album: Lee Andrews & the Hearts Meet the Flamingos Doo Wop, Vol. 2
 artists:
 - Lee Andrews And The Hearts
+external_ids:
+  spotify: spotify:track:48m6fjHLjaxVCiHn8wsDBV
 features: []
-genres: []
+first_released_as_single: false
 key: try-the-impossible-lee-andrews-and-the-hearts
 lyrics_url: https://genius.com/Lee-andrews-and-the-hearts-try-the-impossible-lyrics
 name: Try The Impossible
@@ -15,6 +18,8 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1958-08-11'
+release_year: 1958
+runtime: 189611
 ---
 Try the impossible
 Try to understand the way I feel about you

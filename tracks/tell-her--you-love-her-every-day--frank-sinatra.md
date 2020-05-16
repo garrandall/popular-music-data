@@ -1,8 +1,11 @@
 ---
+album: "Sinatra \u201965"
 artists:
 - Frank Sinatra
+external_ids:
+  spotify: spotify:track:24WVnKN0DzyhfJrfKLrRyH
 features: []
-genres: []
+first_released_as_single: false
 key: tell-her--you-love-her-every-day--frank-sinatra
 lyrics_url: https://genius.com/Frank-sinatra-tell-her-you-love-her-lyrics
 name: Tell Her (You Love Her Every Day)
@@ -31,6 +34,8 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '1965-06-26'
+release_year: 1965
+runtime: 161293
 ---
 Tell her you love her each day
 You'll make her happy that way

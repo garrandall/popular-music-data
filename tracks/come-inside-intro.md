@@ -1,8 +1,11 @@
 ---
+album: INTRO
 artists:
 - Intro
+external_ids:
+  spotify: spotify:track:1XX4xX9rrdaomm4RxAJjZW
 features: []
-genres: []
+first_released_as_single: false
 key: come-inside-intro
 lyrics_url: https://genius.com/Intro-come-inside-lyrics
 name: Come Inside
@@ -87,6 +90,8 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '1994-01-15'
+release_year: 1993
+runtime: 489733
 ---
 (Let me) let me, come inside
 (I'll keep you) I'll keep you satisfied, tonight

@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music, The Complete Season Two'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:4VXoOYmknI2CqzkmXdLc8k
 features: []
-genres: []
+first_released_as_single: false
 key: losing-my-religion-glee-cast
 lyrics_url: https://www.azlyrics.com/lyrics/gleecast/losingmyreligion.html
 name: Losing My Religion
@@ -11,8 +14,9 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '2010-10-23'
+release_year: 2010
+runtime: 214040
 ---
-
 Life is bigger
 It's bigger than you & you are not me
 The lengths that I will go to
@@ -59,6 +63,3 @@ Try Cry Why Try
 That was just a dream
 Just a dream
 Just a dream
-
-
-

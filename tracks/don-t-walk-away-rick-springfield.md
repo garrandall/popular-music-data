@@ -1,8 +1,11 @@
 ---
+album: Hard To Hold
 artists:
 - Rick Springfield
+external_ids:
+  spotify: spotify:track:23LP8GV4nprwdNB4AVZ8LT
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-walk-away-rick-springfield
 lyrics_url: https://genius.com/Rick-springfield-dont-walk-away-lyrics
 name: Don't Walk Away
@@ -55,6 +58,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1984-08-11'
+release_year: 1981
+runtime: 218866
 ---
 I know what you're doing
 You don't want to put the hurt on someone

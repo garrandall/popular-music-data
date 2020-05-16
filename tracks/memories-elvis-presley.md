@@ -1,8 +1,11 @@
 ---
+album: NBC-TV Special (Live)
 artists:
 - Elvis Presley
+external_ids:
+  spotify: spotify:track:7rksaFFjea7QqvEXIluPAd
 features: []
-genres: []
+first_released_as_single: false
 key: memories-elvis-presley
 lyrics_url: https://genius.com/Elvis-presley-memories-lyrics
 name: Memories
@@ -35,6 +38,8 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1969-05-03'
+release_year: 1968
+runtime: 200353
 ---
 Memories, pressed between the pages of my mind
 Memories, sweetened through the ages just like wine

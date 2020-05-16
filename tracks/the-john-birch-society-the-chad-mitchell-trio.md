@@ -1,8 +1,11 @@
 ---
+album: The Chad Mitchell Trio Collection (The Original Kapp Recordings)
 artists:
 - The Chad Mitchell Trio
+external_ids:
+  spotify: spotify:track:1lnSoytS7kpMC6JpQ3tTAK
 features: []
-genres: []
+first_released_as_single: false
 key: the-john-birch-society-the-chad-mitchell-trio
 lyrics_url: https://www.musixmatch.com/lyrics/The-Chad-Mitchell-Trio/The-John-Birch-Society
 name: The John Birch Society
@@ -11,6 +14,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1962-05-19'
+release_year: 1962
+runtime: 227893
 ---
 Oh we're meeting at the courthouse at eight o'clock tonight
 You just come in the door and take the first turn to the right

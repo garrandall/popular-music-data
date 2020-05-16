@@ -1,8 +1,11 @@
 ---
+album: Smoke + Mirrors
 artists:
 - Imagine Dragons
+external_ids:
+  spotify: spotify:track:64MmobYNviePoiaINMrbMn
 features: []
-genres: []
+first_released_as_single: false
 key: shots-imagine-dragons
 lyrics_url: https://www.musixmatch.com/lyrics/Imagine-Dragons/Shots
 name: Shots
@@ -19,6 +22,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2015-03-07'
+release_year: 2014
+runtime: 232333
 ---
 I'm sorry for everything
 Oh, everything I've done

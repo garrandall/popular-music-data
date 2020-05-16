@@ -1,8 +1,11 @@
 ---
+album: Here's To The Good Times
 artists:
 - Florida Georgia Line
+external_ids:
+  spotify: spotify:track:3grPZ1iQg2tEdh0ZCh3HTt
 features: []
-genres: []
+first_released_as_single: false
 key: stay-florida-georgia-line
 lyrics_url: https://www.azlyrics.com/lyrics/floridageorgialine/stay.html
 name: Stay
@@ -87,8 +90,9 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '2014-03-15'
+release_year: 2012
+runtime: 199320
 ---
-
 I'd sell my soul just to see your face. 
 And I'd break my bones just to heal your pain.
 In these times I need a saving grace, but time is running out and I'm starting to lose my faith.
@@ -132,6 +136,3 @@ Would it make you, make you, wanna stay?
 (I can't go another day without you)
 
 Would it make you, make you, wanna stay?
-
-
-

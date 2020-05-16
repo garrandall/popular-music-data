@@ -1,8 +1,11 @@
 ---
+album: Chase
 artists:
 - Chase
+external_ids:
+  spotify: spotify:track:5rhWL3cAyyD0huYAQcWcrW
 features: []
-genres: []
+first_released_as_single: false
 key: handbags-and-gladrags-chase
 lyrics_url: https://genius.com/Chase-handbags-and-gladrags-lyrics
 name: Handbags And Gladrags
@@ -27,6 +30,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1971-10-09'
+release_year: 1971
+runtime: 203760
 ---
 Ever seen a blind man cross the road
 Trying to make the other side?

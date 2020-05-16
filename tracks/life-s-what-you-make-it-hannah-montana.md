@@ -1,8 +1,11 @@
 ---
+album: Hannah Montana 2 / Meet Miley Cyrus
 artists:
 - Hannah Montana
+external_ids:
+  spotify: spotify:track:1pEc2SNzgGvbmvcapQ566n
 features: []
-genres: []
+first_released_as_single: false
 key: life-s-what-you-make-it-hannah-montana
 lyrics_url: https://www.musixmatch.com/lyrics/Hannah-Montana/Life-s-What-You-Make-It
 name: Life's What You Make It
@@ -23,6 +26,8 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '2007-08-04'
+release_year: 2007
+runtime: 188466
 ---
 Put your hands together everybody!
 Aiaiaaaaaaaaaaaaa

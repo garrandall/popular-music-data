@@ -1,8 +1,11 @@
 ---
+album: Rockin' Orbit
 artists:
 - Jesse Lee Turner
+external_ids:
+  spotify: spotify:track:76vyLMICGFVFsrYYN03mkM
 features: []
-genres: []
+first_released_as_single: false
 key: the-little-space-girl-jesse-lee-turner
 lyrics_url: https://www.musixmatch.com/lyrics/Jesse-Lee-Turner/The-Little-Space-Girl
 name: The Little Space Girl
@@ -55,6 +58,8 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1959-03-23'
+release_year: 1959
+runtime: 169266
 ---
 I was strolling through the park one night
 And oh, I felt so blue

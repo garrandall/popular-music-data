@@ -1,8 +1,11 @@
 ---
+album: 6 Feet Deep
 artists:
 - Gravediggaz
+external_ids:
+  spotify: spotify:track:6XzPwIkXKpDrQ5e1bRWVFB
 features: []
-genres: []
+first_released_as_single: false
 key: diary-of-a-madman-gravediggaz
 lyrics_url: https://genius.com/Gravediggaz-diary-of-a-madman-lyrics
 name: Diary Of A Madman
@@ -35,6 +38,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1994-08-20'
+release_year: 1994
+runtime: 273800
 ---
 ​​​They killed my baby, oh God they killed my baby
 Order in the court, order in the court

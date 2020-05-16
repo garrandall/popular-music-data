@@ -1,8 +1,11 @@
 ---
+album: Beyond
 artists:
 - Herb Alpert
+external_ids:
+  spotify: spotify:track:0BqMBsuEzjfJlx7JAzufsz
 features: []
-genres: []
+first_released_as_single: false
 key: red-hot-herb-alpert
 lyrics_url: https://genius.com/Herb-alpert-red-hot-annotated
 name: Red Hot
@@ -27,5 +30,7 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1984-01-07'
+release_year: 1980
+runtime: 218680
 ---
 Instrumental

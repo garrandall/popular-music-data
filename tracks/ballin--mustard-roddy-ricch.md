@@ -1,9 +1,12 @@
 ---
+album: Perfect Ten
 artists:
 - Mustard
 - Roddy Ricch
+external_ids:
+  spotify: spotify:track:3QzAOrNlsabgbMwlZt7TAY
 features: []
-genres: []
+first_released_as_single: false
 key: ballin--mustard-roddy-ricch
 lyrics_url: https://genius.com/Mustard-and-roddy-ricch-ballin-lyrics
 name: Ballin'
@@ -144,6 +147,8 @@ rankings:
   rank: 29
   ranking_list: Billboard Hot 100
   start_date: '2020-03-21'
+release_year: 2019
+runtime: 180434
 ---
 I don't really wanna go
 I don't really wanna stay

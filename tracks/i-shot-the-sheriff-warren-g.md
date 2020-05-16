@@ -1,8 +1,11 @@
 ---
+album: Take A Look Over Your Shoulder (Reality)
 artists:
 - Warren G
+external_ids:
+  spotify: spotify:track:5uC1sC1OmVKfU0m5opiY25
 features: []
-genres: []
+first_released_as_single: false
 key: i-shot-the-sheriff-warren-g
 lyrics_url: https://www.azlyrics.com/lyrics/warreng/ishotthesheriff.html
 name: I Shot The Sheriff
@@ -83,9 +86,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1997-07-26'
+release_year: 1997
+runtime: 250240
 ---
-
-
 I shot the sheriff
 
 
@@ -139,6 +142,3 @@ straight game from tha pen from tha hommie jake
 so I keep away from fools they do crime it attract cops
 cops got guns and cuffs
 and cells to stuff you in
-
-
-

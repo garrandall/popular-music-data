@@ -1,8 +1,11 @@
 ---
+album: Mellon Collie And The Infinite Sadness
 artists:
 - The Smashing Pumpkins
+external_ids:
+  spotify: spotify:track:5QLHGv0DfpeXLNFo7SFEy1
 features: []
-genres: []
+first_released_as_single: false
 key: 1979-the-smashing-pumpkins
 lyrics_url: https://www.azlyrics.com/lyrics/smashingpumpkins/1979.html
 name: '1979'
@@ -95,8 +98,9 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1996-07-06'
+release_year: 1995
+runtime: 266200
 ---
-
 Shakedown 1979
 Cool kids never have the time
 On a live wire right up off the street
@@ -136,6 +140,3 @@ Forgotten and absorbed into the earth below
 
 The street heats the urgency of now
 As you see there's no one around
-
-
-

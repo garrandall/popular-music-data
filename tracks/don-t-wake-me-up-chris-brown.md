@@ -1,8 +1,11 @@
 ---
+album: Fortune
 artists:
 - Chris Brown
+external_ids:
+  spotify: spotify:track:1lLDna8O9VdoKbsWcLS38L
 features: []
-genres: []
+first_released_as_single: true
 key: don-t-wake-me-up-chris-brown
 lyrics_url: https://genius.com/Chris-brown-dont-wake-me-up-lyrics
 name: Don't Wake Me Up
@@ -119,6 +122,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2013-01-19'
+release_year: 2012
+runtime: 222293
 ---
 Dearly beloved, if this love only exists in my dreams
 Don't wake me up

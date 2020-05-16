@@ -1,8 +1,11 @@
 ---
+album: Carolina Dreams
 artists:
 - The Marshall Tucker Band
+external_ids:
+  spotify: spotify:track:0xTY7Tld4DRxqUhxdw7bZW
 features: []
-genres: []
+first_released_as_single: false
 key: heard-it-in-a-love-song-the-marshall-tucker-band
 lyrics_url: https://genius.com/The-marshall-tucker-band-heard-it-in-a-love-song-lyrics
 name: Heard It In A Love Song
@@ -91,6 +94,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1977-07-30'
+release_year: 1977
+runtime: 297973
 ---
 I ain't never been with a woman long enough for my boots to get old
 We've been together so long now they both need re-soled

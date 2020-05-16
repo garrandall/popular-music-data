@@ -1,8 +1,11 @@
 ---
+album: Casper
 artists:
 - Jordan Hill
+external_ids:
+  spotify: spotify:track:7plovQ8h25uA2eQMxGplw8
 features: []
-genres: []
+first_released_as_single: false
 key: remember-me-this-way-jordan-hill
 lyrics_url: https://genius.com/Jordan-hill-remember-me-this-way-lyrics
 name: Remember Me This Way
@@ -47,6 +50,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1995-09-09'
+release_year: 1995
+runtime: 268133
 ---
 Every now and then we find a special friend
 Who never lets us down

@@ -1,8 +1,11 @@
 ---
+album: The Original High (Deluxe Version)
 artists:
 - Adam Lambert
+external_ids:
+  spotify: spotify:track:2MQnx4xwm8lTUaFLfOSUG1
 features: []
-genres: []
+first_released_as_single: true
 key: ghost-town-adam-lambert
 lyrics_url: https://www.azlyrics.com/lyrics/adamlambert/ghosttown.html
 name: Ghost Town
@@ -75,8 +78,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2015-10-24'
+release_year: 2015
+runtime: 208330
 ---
-
 Died last night in my dreams
 Walking the streets
 Of some old ghost town
@@ -128,6 +132,3 @@ Oh, my heart is a ghost town
 (Said, my heart)
 My heart is a ghost town
 My heart is a ghost town
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: It Looks Like Snow
 artists:
 - Phoebe Snow
+external_ids:
+  spotify: spotify:track:3PcNsWAoCaoK63NIBdKj8n
 features: []
-genres: []
+first_released_as_single: false
 key: shakey-ground-phoebe-snow
 lyrics_url: https://www.azlyrics.com/lyrics/phoebesnow/shakeyground.html
 name: Shakey Ground
@@ -23,8 +26,9 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1977-02-12'
+release_year: 1974
+runtime: 257560
 ---
-
 Lady Luck and four-leaf clovers
 Won't ease this hurt I feel all over
 My life was one special occasion
@@ -59,6 +63,3 @@ Standing on shaky ground
 Ever since you put me down
 Standing on shaky ground
 Ever since you put me down
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Dangerous
 artists:
 - Michael Jackson
+external_ids:
+  spotify: spotify:track:7woW97CfcWaKtuC6W5BP2K
 features: []
-genres: []
+first_released_as_single: false
 key: heal-the-world-michael-jackson
 lyrics_url: https://genius.com/Michael-jackson-heal-the-world-lyrics
 name: Heal The World
@@ -87,6 +90,8 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '1993-04-24'
+release_year: 1991
+runtime: 384306
 ---
 Think about the generations and say that we want to make it a better place for our children, and our children's children, so that they know it's a better world for them
 

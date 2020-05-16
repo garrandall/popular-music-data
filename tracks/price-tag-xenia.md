@@ -1,8 +1,11 @@
 ---
+album: Price Tag (The Voice Performance)
 artists:
 - Xenia
+external_ids:
+  spotify: spotify:track:41ZoRomjH8tkdqItTnDGkM
 features: []
-genres: []
+first_released_as_single: true
 key: price-tag-xenia
 lyrics_url: https://www.azlyrics.com/lyrics/xenia/pricetag.html
 name: Price Tag
@@ -11,8 +14,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2011-07-02'
+release_year: 2011
+runtime: 210413
 ---
-
 Seems like everybody's got a price
 I wonder how they sleep at night
 When the sale comes first and the truth comes second
@@ -97,6 +101,3 @@ Ain't about the (uh) cha-ching cha-ching
 Ain't about the (yeah) ba-bling ba-bling
 Wanna make the world dance
 Forget about the price tag
-
-
-

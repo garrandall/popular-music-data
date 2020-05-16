@@ -1,8 +1,11 @@
 ---
+album: The Beginning
 artists:
 - Brooklyn Bounce
+external_ids:
+  spotify: spotify:track:5Q9dbebgSYnfX5m5jmA68D
 features: []
-genres: []
+first_released_as_single: true
 key: get-ready-to-bounce-brooklyn-bounce
 lyrics_url: https://genius.com/Brooklyn-bounce-get-ready-to-bounce-lyrics
 name: Get Ready To Bounce
@@ -23,6 +26,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1998-05-02'
+release_year: 1997
+runtime: 215160
 ---
 These are the sounds of Brooklyn Bounce
 Get ready to bounce, to bounce

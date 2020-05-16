@@ -1,8 +1,11 @@
 ---
+album: My Time + Bonus
 artists:
 - Boz Scaggs
+external_ids:
+  spotify: spotify:track:46zWwpVd5LykX0mrFLCOs0
 features: []
-genres: []
+first_released_as_single: false
 key: dinah-flo-boz-scaggs
 lyrics_url: https://www.azlyrics.com/lyrics/bozscaggs/dinahflo.html
 name: Dinah Flo
@@ -23,8 +26,9 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1972-10-21'
+release_year: 1972
+runtime: 184960
 ---
-
 Seems so long you've been gone
 I've been singing such a sad sad song
 I'm glad I found you
@@ -65,6 +69,3 @@ Dinah Flo love you so
 Love you more ever so
 
 Dinah Flo love you more each day
-
-
-

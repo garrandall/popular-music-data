@@ -1,8 +1,11 @@
 ---
+album: Music
 artists:
 - Madonna
+external_ids:
+  spotify: spotify:track:7DOtIhTTpPZyjvbO509hSC
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-tell-me-madonna
 lyrics_url: https://www.musixmatch.com/lyrics/Madonna-7/Don-t-Tell-Me
 name: Don't Tell Me
@@ -91,6 +94,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '2001-04-28'
+release_year: 2000
+runtime: 280973
 ---
 Don't tell me to stop
 Tell the rain not to drop

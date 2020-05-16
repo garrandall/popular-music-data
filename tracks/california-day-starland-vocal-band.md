@@ -1,8 +1,11 @@
 ---
+album: Starland Vocal Band
 artists:
 - Starland Vocal Band
+external_ids:
+  spotify: spotify:track:4tFJiSSjKtweJjj8uHIu3j
 features: []
-genres: []
+first_released_as_single: false
 key: california-day-starland-vocal-band
 lyrics_url: https://genius.com/Starland-vocal-band-california-day-lyrics
 name: California Day
@@ -19,6 +22,8 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '1976-10-30'
+release_year: 1976
+runtime: 215706
 ---
 To be blessed with forgetfulness
 Oh yes

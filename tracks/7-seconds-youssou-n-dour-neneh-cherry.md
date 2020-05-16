@@ -1,9 +1,12 @@
 ---
+album: The Guide (Wommat)
 artists:
 - Youssou N'Dour
 - Neneh Cherry
+external_ids:
+  spotify: spotify:track:0PrlpSOlCkA1SJlqaSzpou
 features: []
-genres: []
+first_released_as_single: false
 key: 7-seconds-youssou-n-dour-neneh-cherry
 lyrics_url: https://genius.com/Youssou-ndour-and-neneh-cherry-7-seconds-album-version-lyrics
 name: 7 Seconds
@@ -24,6 +27,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1994-10-29'
+release_year: 1994
+runtime: 306226
 ---
 Boul ma sene, boul ma guiss madi re nga fokni mane
 Khamouma li neka thi sama souf ak thi guinaw

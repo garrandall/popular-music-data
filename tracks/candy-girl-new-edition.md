@@ -1,8 +1,11 @@
 ---
+album: Candy Girl
 artists:
 - New Edition
+external_ids:
+  spotify: spotify:track:4bfxAGJtYENUyK85gvuuhw
 features: []
-genres: []
+first_released_as_single: true
 key: candy-girl-new-edition
 lyrics_url: https://www.azlyrics.com/lyrics/newedition/candygirl.html
 name: Candy Girl
@@ -51,8 +54,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1983-07-16'
+release_year: 1982
+runtime: 440093
 ---
-
 My girls like candy, a candy treat
 She knocks me hot up off me feet
 She's so fine as can be
@@ -170,6 +174,3 @@ Candy girl
 All I want to say
 You're everything, everything
 Everything to me
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: The Blessed Unrest
 artists:
 - Sara Bareilles
+external_ids:
+  spotify: spotify:track:7jJH8F3PHlNvxfqEAAfFDl
 features: []
-genres: []
+first_released_as_single: false
 key: i-choose-you-sara-bareilles
 lyrics_url: https://www.azlyrics.com/lyrics/sarabareilles/ichooseyou.html
 name: I Choose You
@@ -27,8 +30,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2014-06-28'
+release_year: 2013
+runtime: 218573
 ---
-
 Let the bough break, let it come down crashing
 Let the sun fade out to a dark sky
 I can't say I'd even notice it was absent
@@ -80,6 +84,3 @@ I will become yours and you will become mine
 I choose you
 I choose you
 I choose you
-
-
-

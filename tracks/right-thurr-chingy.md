@@ -1,8 +1,11 @@
 ---
+album: Jackpot
 artists:
 - Chingy
+external_ids:
+  spotify: spotify:track:0l3GEbH3CviUytD6iX4wzg
 features: []
-genres: []
+first_released_as_single: false
 key: right-thurr-chingy
 lyrics_url: https://www.azlyrics.com/lyrics/chingy/rightthurr.html
 name: Right Thurr
@@ -139,8 +142,9 @@ rankings:
   rank: 35
   ranking_list: Billboard Hot 100
   start_date: '2003-12-27'
+release_year: 2003
+runtime: 250746
 ---
-
 Uh, hey dirty, (what?)
 Look at that girl right there (oh)
 She make me say
@@ -215,6 +219,3 @@ I like that (yeah)
 I like that (yeah)
 I like that (Chingy)
 Oh oh oohohoho what you do
-
-
-

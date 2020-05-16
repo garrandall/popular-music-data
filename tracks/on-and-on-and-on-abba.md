@@ -1,8 +1,11 @@
 ---
+album: Super Trouper
 artists:
 - ABBA
+external_ids:
+  spotify: spotify:track:5k64eI1sCsJiFjkM2HTFi3
 features: []
-genres: []
+first_released_as_single: false
 key: on-and-on-and-on-abba
 lyrics_url: https://genius.com/Abba-on-and-on-and-on-lyrics
 name: On And On And On
@@ -31,6 +34,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1981-08-01'
+release_year: 1980
+runtime: 220266
 ---
 I was at a party and this fella said to me
 "Something bad is happening, I'm sure you do agree

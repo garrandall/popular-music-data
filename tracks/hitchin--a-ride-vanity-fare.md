@@ -1,8 +1,11 @@
 ---
+album: The Sun the Wind and Other Things
 artists:
 - Vanity Fare
+external_ids:
+  spotify: spotify:track:3aCiuxMcSedLDGbuy2YrHu
 features: []
-genres: []
+first_released_as_single: false
 key: hitchin--a-ride-vanity-fare
 lyrics_url: https://genius.com/Vanity-fare-hitchin-a-ride-lyrics
 name: Hitchin' A Ride
@@ -95,6 +98,8 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '1970-08-15'
+release_year: 1969
+runtime: 177573
 ---
 A thumb goes up, a car goes by
 It's nearly 1 AM and here am I

@@ -1,8 +1,11 @@
 ---
+album: 'All The Hits: The Complete Cameo Recordings'
 artists:
 - Jo Ann Campbell
+external_ids:
+  spotify: spotify:track:6nOVq3zm9YbUh0TRmIsab5
 features: []
-genres: []
+first_released_as_single: false
 key: mother-please--jo-ann-campbell
 lyrics_url: https://genius.com/Jo-ann-campbell-mother-please-lyrics
 name: Mother Please!
@@ -19,6 +22,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1963-05-11'
+release_year: 1963
+runtime: 153253
 ---
 Mother, please
 I'd rather do it myself

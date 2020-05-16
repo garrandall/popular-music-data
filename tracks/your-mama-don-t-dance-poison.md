@@ -1,8 +1,11 @@
 ---
+album: Open Up And Say...Ahh!
 artists:
 - Poison
+external_ids:
+  spotify: spotify:track:0FO5CkdIFiKOJNETXTyCMS
 features: []
-genres: []
+first_released_as_single: false
 key: your-mama-don-t-dance-poison
 lyrics_url: https://genius.com/Poison-your-mama-dont-dance-lyrics
 name: Your Mama Don't Dance
@@ -63,6 +66,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1989-05-20'
+release_year: 1988
+runtime: 180493
 ---
 Your Mama don't dance and your Daddy don't rock and roll
 Your Mama don't dance and your Daddy don't rock and roll

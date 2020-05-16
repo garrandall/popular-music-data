@@ -1,8 +1,11 @@
 ---
+album: Wonderland By Night
 artists:
 - Bert Kaempfert
+external_ids:
+  spotify: spotify:track:4nNxxn7Rxg1Qih719RYWF0
 features: []
-genres: []
+first_released_as_single: false
 key: wonderland-by-night-bert-kaempfert-and-his-orchestra
 lyrics_url: https://genius.com/Bert-kaempfert-wonderland-by-night-lyrics
 name: Wonderland By Night
@@ -75,6 +78,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1961-03-06'
+release_year: 1960
+runtime: 193106
 ---
 Stars hang suspended
 Above a floating yellow moon

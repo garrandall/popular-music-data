@@ -1,8 +1,11 @@
 ---
+album: Cuts Both Ways
 artists:
 - Gloria Estefan
+external_ids:
+  spotify: spotify:track:6abGhmG3EL3ZIpplUmo3qR
 features: []
-genres: []
+first_released_as_single: false
 key: here-we-are-gloria-estefan
 lyrics_url: https://genius.com/Gloria-estefan-here-we-are-lyrics
 name: Here We Are
@@ -91,6 +94,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1990-05-05'
+release_year: 1985
+runtime: 289506
 ---
 Here we are, face to face
 We forget, time and place

@@ -1,9 +1,12 @@
 ---
+album: Old School Love
 artists:
 - Lupe Fiasco
+external_ids:
+  spotify: spotify:track:2ulheqckkz2Ck3xIN0fDtL
 features:
 - Ed Sheeran
-genres: []
+first_released_as_single: true
 key: old-school-love-lupe-fiasco-ed-sheeran
 lyrics_url: https://www.azlyrics.com/lyrics/lupefiasco/oldschoollove.html
 name: Old School Love
@@ -28,9 +31,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2014-01-18'
+release_year: 2013
+runtime: 272063
 ---
-
-
 Give me that old school love right now
 You know when I hold you, you won't be alone...
 
@@ -102,4 +105,3 @@ Give me that old school love right now
 I'm leaving it all up to you darling, giving you everything you want
 And give me that old school love right now
 You know when I hold you, you won't be alone...
-

@@ -1,8 +1,11 @@
 ---
+album: Rascal Flatts
 artists:
 - Rascal Flatts
+external_ids:
+  spotify: spotify:track:7aNsPkxjfpxr6LM2Mg5sQr
 features: []
-genres: []
+first_released_as_single: false
 key: this-everyday-love-rascal-flatts
 lyrics_url: https://www.azlyrics.com/lyrics/rascalflatts/thiseverydaylove.html
 name: This Everyday Love
@@ -63,8 +66,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2001-03-24'
+release_year: 2000
+runtime: 184106
 ---
-
 Can't get enough of this everyday love
 Can't get enough of this everyday love
 
@@ -104,6 +108,3 @@ Can't get enough of this everyday love
 Can't get enough of this everyday love
 Can't get enough of this everyday love
 Can't get enough
-
-
-

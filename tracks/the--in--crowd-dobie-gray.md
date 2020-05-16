@@ -1,8 +1,11 @@
 ---
+album: Dobie Gray Sings For 'In' Crowders that go 'Go Go'
 artists:
 - Dobie Gray
+external_ids:
+  spotify: spotify:track:2QzofTlj6CqXjpK0lgP2CW
 features: []
-genres: []
+first_released_as_single: false
 key: the--in--crowd-dobie-gray
 lyrics_url: https://genius.com/Dobie-gray-the-in-crowd-lyrics
 name: The "In" Crowd
@@ -43,6 +46,8 @@ rankings:
   rank: 33
   ranking_list: Billboard Hot 100
   start_date: '1965-03-06'
+release_year: 1965
+runtime: 175840
 ---
 I'm in with the in crowd (Do-do-do)
 I go where the in crowd goes (Do-do-do)

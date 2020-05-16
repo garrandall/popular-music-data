@@ -1,8 +1,11 @@
 ---
+album: Ringo
 artists:
 - Ringo Starr
+external_ids:
+  spotify: spotify:track:4MAxWahEbzU8m4bD6mSZg9
 features: []
-genres: []
+first_released_as_single: false
 key: you-re-sixteen-ringo-starr
 lyrics_url: https://genius.com/Ringo-starr-youre-sixteen-lyrics
 name: You're Sixteen
@@ -67,6 +70,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1974-03-23'
+release_year: 1973
+runtime: 169693
 ---
 You come on like a dream, peaches and cream
 Lips like strawberry wine

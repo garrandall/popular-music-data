@@ -1,8 +1,11 @@
 ---
+album: Little Bit Of Everything
 artists:
 - Billy Currington
+external_ids:
+  spotify: spotify:track:7KnMHRj5xqsOGLv8lGCPa6
 features: []
-genres: []
+first_released_as_single: false
 key: that-s-how-country-boys-roll-billy-currington
 lyrics_url: https://www.azlyrics.com/lyrics/billycurrington/thatshowcountryboysroll.html
 name: That's How Country Boys Roll
@@ -87,9 +90,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2010-05-01'
+release_year: 2008
+runtime: 224266
 ---
-
-
 They wake up in the morning and they drink their coffee black
 They love their woman one beat shy of a heart attack
 On the way to work they might stop by a fishin' hole
@@ -135,6 +138,3 @@ Humble and proud
 They love momma and Jesus and Jones
 That's how country boys roll
 Don't you know
-
-
-

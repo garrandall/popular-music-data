@@ -1,8 +1,11 @@
 ---
+album: Californication
 artists:
 - Red Hot Chili Peppers
+external_ids:
+  spotify: spotify:track:48UPSzbZjgc449aqz8bxox
 features: []
-genres: []
+first_released_as_single: false
 key: californication-red-hot-chili-peppers
 lyrics_url: https://www.azlyrics.com/lyrics/redhotchilipeppers/californication.html
 name: Californication
@@ -83,8 +86,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2000-12-02'
+release_year: 1999
+runtime: 329733
 ---
-
 Psychic spies from China
 Try to steal your mind's elation
 Little girls from Sweden
@@ -155,6 +159,3 @@ Dream of Californication
 Dream of Californication
 Dream of Californication
 Dream of Californication
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Tha Carter V
 artists:
 - Lil Wayne
+external_ids:
+  spotify: spotify:track:2zNQ50t1IIwutIIUTEt8yr
 features: []
-genres: []
+first_released_as_single: false
 key: dedicate-lil-wayne
 lyrics_url: https://www.azlyrics.com/lyrics/lilwayne/dedicate.html
 name: Dedicate
@@ -15,9 +18,9 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '2018-10-20'
+release_year: 2018
+runtime: 189908
 ---
-
-
 If it wasn't for Wayne, it wouldn't be
 You tatted your face
 Bugatti, new boo
@@ -114,6 +117,3 @@ Tattoos, suu-whoop, Bugatti, new boo
 Tunechi
 (If it wasn't for Wayne, it wouldn't be)
 They might think they've got a pretty good jump shot, or a pretty good flow. But our kids can't all aspire to be LeBron or Lil Wayne!
-
-
-

@@ -1,9 +1,12 @@
 ---
+album: The Art of Hustle
 artists:
 - Yo Gotti
+external_ids:
+  spotify: spotify:track:5w1vhNA2OEWUQ371QzyMmM
 features:
 - Nicki Minaj
-genres: []
+first_released_as_single: false
 key: down-in-the-dm-yo-gotti-nicki-minaj
 lyrics_url: https://genius.com/Yo-gotti-down-in-the-dm-remix-lyrics
 name: Down In The DM
@@ -92,6 +95,8 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '2016-05-07'
+release_year: 2015
+runtime: 259072
 ---
 If she respond to this DM, boy you fucked up
 She took your pictures off her 'Gram, y'all must have broke up

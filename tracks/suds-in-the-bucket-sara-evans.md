@@ -1,8 +1,11 @@
 ---
+album: Restless
 artists:
 - Sara Evans
+external_ids:
+  spotify: spotify:track:6NhpIdjYoufuNNlBsgOztc
 features: []
-genres: []
+first_released_as_single: false
 key: suds-in-the-bucket-sara-evans
 lyrics_url: https://www.azlyrics.com/lyrics/saraevans/sudsinthebucket.html
 name: Suds In The Bucket
@@ -87,8 +90,9 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '2004-12-18'
+release_year: 2003
+runtime: 227266
 ---
-
 She was in the backyard
 Say it was a little past nine
 When her prince pulled up
@@ -159,6 +163,3 @@ Plenty old enough,
 And you can't stop love,
 And no you can't fence time
 And you can't stop love.
-
-
-

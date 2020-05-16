@@ -1,8 +1,11 @@
 ---
+album: Kind Of New/Kind Of Live
 artists:
 - Matthews' Southern Comfort
+external_ids:
+  spotify: spotify:track:1lImTmAMnc2qTXTJuiBu3s
 features: []
-genres: []
+first_released_as_single: false
 key: woodstock-matthews--southern-comfort
 lyrics_url: https://genius.com/Matthews-southern-comfort-woodstock-lyrics
 name: Woodstock
@@ -71,6 +74,8 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '1971-06-19'
+release_year: 1971
+runtime: 319733
 ---
 I came upon a child of God
 He was walking along the road

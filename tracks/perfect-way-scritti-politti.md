@@ -1,8 +1,11 @@
 ---
+album: Cupid & Psyche 85
 artists:
 - Scritti Politti
+external_ids:
+  spotify: spotify:track:4f79zDW0EEn7ahOTjiNUn6
 features: []
-genres: []
+first_released_as_single: false
 key: perfect-way-scritti-politti
 lyrics_url: https://genius.com/Scritti-politti-perfect-way-lyrics
 name: Perfect Way
@@ -107,6 +110,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1986-02-22'
+release_year: 1985
+runtime: 284120
 ---
 I took a backseat, a backhander, I took her back to her room
 I better get back to the basics for you, oh yeah

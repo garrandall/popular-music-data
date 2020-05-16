@@ -1,8 +1,11 @@
 ---
+album: MKTO
 artists:
 - MKTO
+external_ids:
+  spotify: spotify:track:6FE2iI43OZnszFLuLtvvmg
 features: []
-genres: []
+first_released_as_single: false
 key: classic-mkto
 lyrics_url: https://www.azlyrics.com/lyrics/mkto/classic.html
 name: Classic
@@ -115,8 +118,9 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '2014-08-30'
+release_year: 2012
+runtime: 175426
 ---
-
 Hey! Where's the drums?
 
 Oh whoa-oh-oh-oh
@@ -192,7 +196,7 @@ A star in the 40s, centerfold in the 50s
 Got me tripping out like the sixties
 Hippies, Queen of the discotheque
 A 70s dream and an 80s best
-Hepburn, BeyoncÃ©, Marilyn, Massive
+Hepburn, Beyoncé, Marilyn, Massive
 Girl you're timeless, just so classic
 
 
@@ -210,7 +214,4 @@ Whoa oh oh (Yeah, yeah)
 Baby you're so classic (Yeah, yeah)
 Yeah
 Baby you're so classic
-Uuuuuuh uh uh
-
-
-
+Uh uh uh

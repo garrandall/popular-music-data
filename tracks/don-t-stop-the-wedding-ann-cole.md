@@ -1,8 +1,11 @@
 ---
+album: Have Fun
 artists:
 - Ann Cole
+external_ids:
+  spotify: spotify:track:49b9VGOAOxAtqzNfldU20a
 features: []
-genres: []
+first_released_as_single: true
 key: don-t-stop-the-wedding-ann-cole
 lyrics_url: https://www.musixmatch.com/lyrics/Ann-Cole/Don-t-Stop-the-Wedding
 name: Don't Stop The Wedding
@@ -11,6 +14,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1962-11-24'
+release_year: 1962
+runtime: 131240
 ---
 I've heard your plea
 To stop the wedding

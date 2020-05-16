@@ -1,9 +1,12 @@
 ---
+album: Back Up
 artists:
 - DeJ Loaf
+external_ids:
+  spotify: spotify:track:5zBqPjh3vfttJScml99szD
 features:
 - Big Sean
-genres: []
+first_released_as_single: true
 key: back-up-dej-loaf-big-sean
 lyrics_url: https://www.azlyrics.com/lyrics/dejloaf/backup.html
 name: Back Up
@@ -80,9 +83,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2016-02-20'
+release_year: 2015
+runtime: 241200
 ---
-
-
 Back up off me, back up off me
 Back up off me, back up off me
 
@@ -154,6 +157,3 @@ For the city
 Whoa, yah yah, bitch back up off me
 You got Queen DeJ, Sean Don, straight up (ha ha)
 It's time to boss up on everything, I'm getting everything
-
-
-

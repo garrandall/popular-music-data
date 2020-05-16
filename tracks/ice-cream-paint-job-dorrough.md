@@ -1,8 +1,11 @@
 ---
+album: Dorrough Music
 artists:
 - Dorrough
+external_ids:
+  spotify: spotify:track:6Wah3QXNHv42xHAJhXgTg8
 features: []
-genres: []
+first_released_as_single: true
 key: ice-cream-paint-job-dorrough
 lyrics_url: https://genius.com/Dorrough-music-ice-cream-paint-job-lyrics
 name: Ice Cream Paint Job
@@ -87,6 +90,8 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '2009-10-24'
+release_year: 2009
+runtime: 242000
 ---
 Huh-huh, yo Mister D-O-Double-R
 

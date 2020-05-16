@@ -1,8 +1,11 @@
 ---
+album: Ten Best
 artists:
 - Gary Lewis And The Playboys
+external_ids:
+  spotify: spotify:track:2Am0VsWK9RvtcCy0O0v3QG
 features: []
-genres: []
+first_released_as_single: false
 key: my-heart-s-symphony-gary-lewis-and-the-playboys
 lyrics_url: https://genius.com/Gary-lewis-and-the-playboys-my-hearts-symphony-lyrics
 name: My Heart's Symphony
@@ -35,6 +38,8 @@ rankings:
   rank: 34
   ranking_list: Billboard Hot 100
   start_date: '1966-09-10'
+release_year: 1966
+runtime: 167640
 ---
 When you told me that you loved me
 And I thought I could tell that you did

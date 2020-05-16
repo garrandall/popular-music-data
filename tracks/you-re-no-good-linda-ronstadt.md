@@ -1,8 +1,11 @@
 ---
+album: Heart Like A Wheel
 artists:
 - Linda Ronstadt
+external_ids:
+  spotify: spotify:track:23DZLSxCK6kM8FF2RlzKDl
 features: []
-genres: []
+first_released_as_single: false
 key: you-re-no-good-linda-ronstadt
 lyrics_url: https://genius.com/Linda-ronstadt-youre-no-good-lyrics
 name: You're No Good
@@ -71,6 +74,8 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1975-03-22'
+release_year: 1974
+runtime: 224026
 ---
 Feeling better now that we're through
 Feeling better cause I'm over you

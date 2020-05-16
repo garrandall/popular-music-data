@@ -1,8 +1,11 @@
 ---
+album: Absolutely Right - The Best Of Five Man Electrical Band
 artists:
 - Five Man Electrical Band
+external_ids:
+  spotify: spotify:track:4k4OK0EW3OU3hv8m1sLjrt
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-a-stranger-here-five-man-electrical-band
 lyrics_url: https://genius.com/Five-man-electrical-band-im-a-stranger-here-lyrics
 name: I'm A Stranger Here
@@ -35,6 +38,8 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1973-06-02'
+release_year: 1973
+runtime: 219893
 ---
 Well, I'm a stranger here in this place called Earth
 And I was sent down here to discover the worth

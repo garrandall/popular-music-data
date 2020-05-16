@@ -1,8 +1,11 @@
 ---
+album: The Definitive Jackie Wilson
 artists:
 - Jackie Wilson
+external_ids:
+  spotify: spotify:track:7CHmNiReghVLKbD032HHwz
 features: []
-genres: []
+first_released_as_single: false
 key: my-empty-arms-jackie-wilson
 lyrics_url: https://genius.com/Jackie-wilson-my-empty-arms-lyrics
 name: My Empty Arms
@@ -43,6 +46,8 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '1961-03-06'
+release_year: 1961
+runtime: 172453
 ---
 My empty arms
 Are reaching for you

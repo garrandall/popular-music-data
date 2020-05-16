@@ -1,8 +1,11 @@
 ---
+album: Jailbreak
 artists:
 - Thin Lizzy
+external_ids:
+  spotify: spotify:track:43DeSV93pJPT4lCZaWZ6b1
 features: []
-genres: []
+first_released_as_single: false
 key: the-boys-are-back-in-town-thin-lizzy
 lyrics_url: https://genius.com/Thin-lizzy-the-boys-are-back-in-town-lyrics
 name: The Boys Are Back In Town
@@ -75,6 +78,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1976-09-04'
+release_year: 1976
+runtime: 266720
 ---
 Guess who just got back today?
 Them wild-eyed boys that'd been away

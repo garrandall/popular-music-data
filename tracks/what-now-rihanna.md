@@ -1,8 +1,11 @@
 ---
+album: Unapologetic (Edited Version)
 artists:
 - Rihanna
+external_ids:
+  spotify: spotify:track:2aeKVjuLPaZWOLzFELylB5
 features: []
-genres: []
+first_released_as_single: false
 key: what-now-rihanna
 lyrics_url: https://genius.com/Rihanna-what-now-lyrics
 name: What Now
@@ -39,6 +42,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2013-12-28'
+release_year: 2012
+runtime: 243093
 ---
 I've been ignoring this big lump in my throat
 I shouldn't be crying

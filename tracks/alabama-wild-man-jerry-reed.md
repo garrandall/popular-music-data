@@ -1,8 +1,11 @@
 ---
+album: Alabama Wild Man
 artists:
 - Jerry Reed
+external_ids:
+  spotify: spotify:track:3P2YpigD4WivGQCVX18S4V
 features: []
-genres: []
+first_released_as_single: false
 key: alabama-wild-man-jerry-reed
 lyrics_url: https://www.azlyrics.com/lyrics/jerryreed/alabamawildman.html
 name: Alabama Wild Man
@@ -39,8 +42,9 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1972-09-02'
+release_year: 1968
+runtime: 161533
 ---
-
 Alright, watch out
 
 Now my daddy was hard shelled Alabama preacher
@@ -102,6 +106,3 @@ Ah, sock it to your daddy, son"
 "Go ahead put it to me, put it to me
 Keep them checks coming in, boy
 We going to pave the drive next week"
-
-
-

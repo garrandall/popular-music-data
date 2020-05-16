@@ -1,8 +1,11 @@
 ---
+album: We got it from Here... Thank You 4 Your service
 artists:
 - A Tribe Called Quest
+external_ids:
+  spotify: spotify:track:3wUX7HpXS382s1DHTRouVk
 features: []
-genres: []
+first_released_as_single: false
 key: we-the-people-a-tribe-called-quest
 lyrics_url: https://genius.com/A-tribe-called-quest-we-the-people-lyrics
 name: We The People
@@ -11,6 +14,8 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '2016-12-03'
+release_year: 2016
+runtime: 172013
 ---
 We don't believe you 'cause we the people
 Are still here in the rear, ayo, we don't need you

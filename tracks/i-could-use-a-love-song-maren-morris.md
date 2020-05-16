@@ -1,8 +1,11 @@
 ---
+album: HERO
 artists:
 - Maren Morris
+external_ids:
+  spotify: spotify:track:09iyGiljLWRYXdRazFkdtJ
 features: []
-genres: []
+first_released_as_single: false
 key: i-could-use-a-love-song-maren-morris
 lyrics_url: https://genius.com/Maren-morris-i-could-use-a-love-song-lyrics
 name: I Could Use A Love Song
@@ -91,6 +94,8 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '2018-01-20'
+release_year: 2017
+runtime: 196421
 ---
 Usually a drink will do the trick
 Take the edge off quick, sitting in the dark

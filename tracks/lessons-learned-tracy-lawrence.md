@@ -1,8 +1,11 @@
 ---
+album: Lessons Learned
 artists:
 - Tracy Lawrence
+external_ids:
+  spotify: spotify:track:5ycxusRxQqTQYqrfU3iBLV
 features: []
-genres: []
+first_released_as_single: false
 key: lessons-learned-tracy-lawrence
 lyrics_url: https://www.azlyrics.com/lyrics/tracylawrence/lessonslearned.html
 name: Lessons Learned
@@ -87,8 +90,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2000-06-10'
+release_year: 2000
+runtime: 177293
 ---
-
 I was ten years old the day I got caught
 With some dime store candy, that I never bought
 I hung my head and I faced the wall
@@ -124,6 +128,3 @@ They don't go away and they don't come cheap
 Oh there's no way around it
 'Cause this world turns
 on lessons learned
-
-
-

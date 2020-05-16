@@ -1,8 +1,11 @@
 ---
+album: Baby, I'm Yours
 artists:
 - Barbara Lewis
+external_ids:
+  spotify: spotify:track:7g5RXhBoKskemgqGozQIfl
 features: []
-genres: []
+first_released_as_single: false
 key: straighten-up-your-heart-barbara-lewis
 lyrics_url: https://genius.com/Barbara-lewis-straighten-up-your-heart-lyrics
 name: Straighten Up Your Heart
@@ -35,6 +38,8 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '1963-09-28'
+release_year: 1963
+runtime: 145213
 ---
 Your cheating heart was playing from the start
 & our love's becoming the talk of the town
@@ -50,12 +55,9 @@ Just straighten up your heart
 & if you do this for me
 I'll know your lovin' is true
 
-(instrumental)
-
 So straighten up your heart
 & we can start anew
 & if you do this for me
 I'll know your lovin' is true
 Baby I'll know your love is true
 Darlin', I'll know your love is true, so true
-...&fade

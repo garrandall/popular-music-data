@@ -1,8 +1,11 @@
 ---
+album: "It\u2019s All In The Game: The Best Of Tommy Edwards"
 artists:
 - Tommy Edwards
+external_ids:
+  spotify: spotify:track:6MV23t3HuEmNR9NmdSI6Ny
 features: []
-genres: []
+first_released_as_single: false
 key: the-morning-side-of-the-mountain-tommy-edwards
 lyrics_url: https://genius.com/Tommy-edwards-the-morning-side-of-the-mountain-lyrics
 name: The Morning Side Of The Mountain
@@ -55,6 +58,8 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1959-05-18'
+release_year: 1959
+runtime: 159800
 ---
 There was a girl, there was a boy
 If they had met they might have found a world of joy

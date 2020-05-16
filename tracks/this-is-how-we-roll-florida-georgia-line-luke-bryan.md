@@ -1,9 +1,12 @@
 ---
+album: Here's To The Good Times...This Is How We Roll
 artists:
 - Florida Georgia Line
+external_ids:
+  spotify: spotify:track:2TR7A4ulH9R1PNwMyd8o8U
 features:
 - Luke Bryan
-genres: []
+first_released_as_single: false
 key: this-is-how-we-roll-florida-georgia-line-luke-bryan
 lyrics_url: https://www.azlyrics.com/lyrics/floridageorgialine/thisishowweroll.html
 name: This Is How We Roll
@@ -120,8 +123,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2014-08-30'
+release_year: 2013
+runtime: 220906
 ---
-
 The mixtape's got a little Hank, little Drake
 A little something bumping, thumb-thumping on the wheel ride
 The mix in our drink's a little stronger than you think
@@ -195,6 +199,3 @@ BK, Tyler, LB, baby
 One more time
 Let's go
 Yeah, this is how we roll
-
-
-

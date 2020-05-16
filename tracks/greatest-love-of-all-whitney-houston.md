@@ -1,8 +1,11 @@
 ---
+album: Whitney Houston
 artists:
 - Whitney Houston
+external_ids:
+  spotify: spotify:track:6yJxCltgtmGxIgKOS6ndnu
 features: []
-genres: []
+first_released_as_single: false
 key: greatest-love-of-all-whitney-houston
 lyrics_url: https://genius.com/Whitney-houston-greatest-love-of-all-lyrics
 name: Greatest Love Of All
@@ -87,6 +90,8 @@ rankings:
   rank: 36
   ranking_list: Billboard Hot 100
   start_date: '2012-03-03'
+release_year: 1985
+runtime: 291400
 ---
 I believe the children are our future
 Teach them well and let them lead the way

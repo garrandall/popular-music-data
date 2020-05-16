@@ -1,10 +1,13 @@
 ---
+album: Dying to Live
 artists:
 - Kodak Black
+external_ids:
+  spotify: spotify:track:0BkvZes677Mcp5WVUQjRxD
 features:
 - Travis Scott
 - Offset
-genres: []
+first_released_as_single: true
 key: zeze-kodak-black-travis-scott-offset
 lyrics_url: https://www.azlyrics.com/lyrics/kodakblack/zeze.html
 name: ZEZE
@@ -109,8 +112,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2019-04-13'
+release_year: 2018
+runtime: 229087
 ---
-
 D.A. got that dope!
 
 
@@ -219,6 +223,3 @@ Uh-huh, ha, oh-ah-oh
 Uh-huh, ha, oh-ah-oh
 Uh-huh, ha, oh-ah-oh
 Uh-huh, ha, oh-ah-oh
-
-
-

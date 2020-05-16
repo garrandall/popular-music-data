@@ -1,8 +1,11 @@
 ---
+album: Walk This Way
 artists:
 - The White Tie Affair
+external_ids:
+  spotify: spotify:track:7AwCMMlgX9IDljlJfG2I1q
 features: []
-genres: []
+first_released_as_single: true
 key: candle--sick-and-tired--the-white-tie-affair
 lyrics_url: https://www.azlyrics.com/lyrics/whitetieaffair/candlesickandtired.html
 name: Candle (Sick And Tired)
@@ -39,8 +42,9 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '2009-05-09'
+release_year: 2009
+runtime: 249960
 ---
-
 I took a ride on a February morning,
 Just getting over it and dealing with the mourning,
 I started thinking out loud: I'm so sick and tired of being sick and tired,
@@ -105,6 +109,3 @@ Burning for you,
 Burning like a candle,
 Burning for you,
 Burning like a candle
-
-
-

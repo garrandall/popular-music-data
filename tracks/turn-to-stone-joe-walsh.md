@@ -1,8 +1,11 @@
 ---
+album: Barnstorm
 artists:
 - Joe Walsh
+external_ids:
+  spotify: spotify:track:20IZ33kPSL7XV0WmKNaZVa
 features: []
-genres: []
+first_released_as_single: false
 key: turn-to-stone-joe-walsh
 lyrics_url: https://genius.com/Joe-walsh-turn-to-stone-lyrics
 name: Turn To Stone
@@ -19,6 +22,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1975-03-15'
+release_year: 1972
+runtime: 320200
 ---
 Hey now, the wells run dry
 Pages of your book on fire

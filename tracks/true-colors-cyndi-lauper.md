@@ -1,8 +1,11 @@
 ---
+album: True Colors
 artists:
 - Cyndi Lauper
+external_ids:
+  spotify: spotify:track:4wIcLl0zgr6KpkCcTKIoyh
 features: []
-genres: []
+first_released_as_single: false
 key: true-colors-cyndi-lauper
 lyrics_url: https://www.azlyrics.com/lyrics/cyndilauper/truecolors.html
 name: True Colors
@@ -87,8 +90,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1987-01-10'
+release_year: 1983
+runtime: 226173
 ---
-
 You with the sad eyes
 Don't be discouraged
 Oh I realize
@@ -146,6 +150,3 @@ So don't be afraid to let them show
 Your true colors
 True colors are beautiful
 Like a rainbow
-
-
-

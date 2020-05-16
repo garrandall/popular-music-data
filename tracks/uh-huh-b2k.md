@@ -1,8 +1,11 @@
 ---
+album: The New Guy - Music From The Motion Picture
 artists:
 - B2K
+external_ids:
+  spotify: spotify:track:2SFdgs8m9dlNuAPN81fJq1
 features: []
-genres: []
+first_released_as_single: false
 key: uh-huh-b2k
 lyrics_url: https://www.azlyrics.com/lyrics/b2k/uhhuh.html
 name: Uh Huh
@@ -95,8 +98,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2002-06-01'
+release_year: 2001
+runtime: 190106
 ---
-
 Yeah
 Hey yo trick
 How you gonna come up w/ something like this man?
@@ -193,6 +197,3 @@ I know that you wantin this (uh huh)
 tell me can you handle it (uh huh)
 show me how you work dem hips (uh huh)
 and maybe you can roll with it (uh huh)
-
-
-

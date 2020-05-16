@@ -1,8 +1,11 @@
 ---
+album: Electric Light Orchestra II
 artists:
 - Electric Light Orchestra
+external_ids:
+  spotify: spotify:track:625wN1sa3gtVxi74c7WS3n
 features: []
-genres: []
+first_released_as_single: false
 key: roll-over-beethoven-electric-light-orchestra
 lyrics_url: https://www.azlyrics.com/lyrics/electriclightorchestra/rolloverbeethoven.html
 name: Roll Over Beethoven
@@ -71,8 +74,9 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '1973-08-11'
+release_year: 1972
+runtime: 468560
 ---
-
 Gonna write a little letter gonna mail it to me local D.J.
 it's a jumpin little record I want my jockey to play
 Roll Over Beethoven, gotta hear it again today
@@ -102,6 +106,3 @@ roll it over, Roll Over Beethoven, dig these rhythm and blues
 Roll Over Beethoven, Roll Over Beethoven,
 Roll Over Beethoven, Roll Over Beethoven,
 Roll Over Beethoven, dig these rhythm and blues?
-
-
-

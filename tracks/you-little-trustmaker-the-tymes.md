@@ -1,8 +1,11 @@
 ---
+album: Trustmaker
 artists:
 - The Tymes
+external_ids:
+  spotify: spotify:track:6YOLCGOxiXr2yejYT17hTh
 features: []
-genres: []
+first_released_as_single: false
 key: you-little-trustmaker-the-tymes
 lyrics_url: https://genius.com/The-tymes-you-little-trustmaker-lyrics
 name: You Little Trustmaker
@@ -59,6 +62,8 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '1974-11-09'
+release_year: 1974
+runtime: 168040
 ---
 You little trustmaker, you're no heart-breaker, yes sir
 You little trustmaker, you're no heart-breaker

@@ -1,8 +1,11 @@
 ---
+album: Somewhere Down In Texas
 artists:
 - George Strait
+external_ids:
+  spotify: spotify:track:1mIQiN9xMz58kfQO6wjOeX
 features: []
-genres: []
+first_released_as_single: false
 key: she-let-herself-go-george-strait
 lyrics_url: https://www.azlyrics.com/lyrics/georgestrait/sheletherselfgo.html
 name: She Let Herself Go
@@ -83,8 +86,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2006-03-11'
+release_year: 2005
+runtime: 198213
 ---
-
 He wondered how she'd take it when he said goodbye.
 Thought she might do some cryin'... lose some sleep at night.
 But he had no idea, when he hit the road,
@@ -119,4 +123,3 @@ She let herself go.
 
 To Vegas once... Honolulu, New York City.
 Came back knocked-out pretty.
-

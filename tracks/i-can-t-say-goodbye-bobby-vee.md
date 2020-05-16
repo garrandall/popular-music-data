@@ -1,8 +1,11 @@
 ---
+album: A Bobby Vee Recording Session
 artists:
 - Bobby Vee
+external_ids:
+  spotify: spotify:track:6lyDqcj3PbLRnkWxUqJgqW
 features: []
-genres: []
+first_released_as_single: false
 key: i-can-t-say-goodbye-bobby-vee
 lyrics_url: https://www.musixmatch.com/lyrics/Bobby-Vee/I-Can-t-Say-Goodbye
 name: I Can't Say Goodbye
@@ -11,6 +14,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1962-02-24'
+release_year: 1962
+runtime: 127253
 ---
 I memorized the words
 I'm gonna say to you

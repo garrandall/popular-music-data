@@ -1,8 +1,11 @@
 ---
+album: A Nu Day
 artists:
 - Tamia
+external_ids:
+  spotify: spotify:track:0kyvUS4lUq0UBhVTnJNkgo
 features: []
-genres: []
+first_released_as_single: false
 key: can-t-go-for-that-tamia
 lyrics_url: https://genius.com/Tamia-cant-go-for-that-lyrics
 name: Can't Go For That
@@ -27,6 +30,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2000-10-14'
+release_year: 2000
+runtime: 226333
 ---
 Oh, oh, oh, oh
 (Yo, yo, yo uh)

@@ -1,8 +1,11 @@
 ---
+album: Don't Shoot Me I'm Only The Piano Player
 artists:
 - Elton John
+external_ids:
+  spotify: spotify:track:6WCeFNVAXUtNczb7lqLiZU
 features: []
-genres: []
+first_released_as_single: false
 key: crocodile-rock-elton-john
 lyrics_url: https://www.musixmatch.com/lyrics/Elton-John/Crocodile-Rock
 name: Crocodile Rock
@@ -75,6 +78,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1973-03-31'
+release_year: 1972
+runtime: 235440
 ---
 I remember when rock was young
 Me and Suzie had so much fun

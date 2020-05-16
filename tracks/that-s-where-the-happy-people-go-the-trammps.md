@@ -1,8 +1,11 @@
 ---
+album: Where The Happy People Go
 artists:
 - The Trammps
+external_ids:
+  spotify: spotify:track:4JuzaVgrM4qNz90qsLGigX
 features: []
-genres: []
+first_released_as_single: false
 key: that-s-where-the-happy-people-go-the-trammps
 lyrics_url: https://www.azlyrics.com/lyrics/trammps/thatswherethehappypeoplego.html
 name: That's Where The Happy People Go
@@ -67,8 +70,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1976-07-17'
+release_year: 1976
+runtime: 474266
 ---
-
 I used to spend most of my time
 Just being alone, yes, I did
 Nothing to do, no place to go
@@ -127,6 +131,3 @@ Disco, that's where
 The happy people go
 And they're just dancing along
 To a perfect song at the disco
-
-
-

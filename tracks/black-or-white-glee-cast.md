@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music, The Complete Season Three'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:2xNJzW1EyaH8k6ByBOoCif
 features: []
-genres: []
+first_released_as_single: false
 key: black-or-white-glee-cast
 lyrics_url: https://www.azlyrics.com/lyrics/gleecast/blackorwhite.html
 name: Black Or White
@@ -11,9 +14,9 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '2012-02-18'
+release_year: 2012
+runtime: 196440
 ---
-
-
 Ouh!
 Ouh!
 I took my baby
@@ -155,6 +158,3 @@ It's black, it's white, whoo
 It's tough for you to get by
 ( Yeah! Yeah! Yeah!)
 ( Oouh!)
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Meet Claude King
 artists:
 - Claude King
+external_ids:
+  spotify: spotify:track:4ZI24J7OFz908Ct3MJwumx
 features: []
-genres: []
+first_released_as_single: false
 key: big-river-big-man-claude-king
 name: Big River Big Man
 rankings:
@@ -26,5 +29,7 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1961-09-04'
+release_year: 1961
+runtime: 147133
 ---
 

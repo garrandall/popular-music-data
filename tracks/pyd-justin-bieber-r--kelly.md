@@ -1,9 +1,12 @@
 ---
+album: Journals
 artists:
 - Justin Bieber
+external_ids:
+  spotify: spotify:track:2GxCTEXhba060skpicYxTk
 features:
 - R. Kelly
-genres: []
+first_released_as_single: false
 key: pyd-justin-bieber-r--kelly
 lyrics_url: https://www.azlyrics.com/lyrics/justinbieber/pyd.html
 name: PYD
@@ -12,8 +15,9 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '2013-12-07'
+release_year: 2013
+runtime: 317200
 ---
-
 (PYD, PYD, PYD, PYD, PYD, PYD, PYD)
 I'mma put you down
 (PYD, PYD, PYD)
@@ -104,6 +108,3 @@ Put you down, put you down, put you down, put you down down
 PYD, PYD, PYD PYD PYD PYD
 I'mma put you down
 PYD PYD PYD PYD PYD
-
-
-

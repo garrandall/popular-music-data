@@ -1,8 +1,11 @@
 ---
+album: Goodbye Girl
 artists:
 - David Gates
+external_ids:
+  spotify: spotify:track:6f5vTwQNj4ZzFBBwCGQ9fA
 features: []
-genres: []
+first_released_as_single: false
 key: took-the-last-train-david-gates
 lyrics_url: https://www.azlyrics.com/lyrics/davidgates/tookthelasttrain.html
 name: Took The Last Train
@@ -63,8 +66,9 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1978-11-11'
+release_year: 1978
+runtime: 271893
 ---
-
 Took the last train to St. Tropez
 Had in mind to dance the night away
 Experimented with a cognac high
@@ -109,6 +113,3 @@ I took the last train, St. Tropez
 I took the last train, St. Tropez
 I took the last train, St. Tropez
 I took the last train, St. Tropez
-
-
-

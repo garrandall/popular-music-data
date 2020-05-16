@@ -1,8 +1,11 @@
 ---
+album: Live at The Bloomsbury Theatre
 artists:
 - The Zombies
+external_ids:
+  spotify: spotify:track:60HyeXPGwdeB2vL2rr95kk
 features: []
-genres: []
+first_released_as_single: false
 key: tell-her-no-the-zombies
 lyrics_url: https://genius.com/The-zombies-tell-her-no-lyrics
 name: Tell Her No
@@ -51,6 +54,8 @@ rankings:
   rank: 31
   ranking_list: Billboard Hot 100
   start_date: '1965-03-20'
+release_year: 1965
+runtime: 124737
 ---
 {Intro}
 

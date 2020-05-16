@@ -1,8 +1,11 @@
 ---
+album: i am > i was
 artists:
 - 21 Savage
+external_ids:
+  spotify: spotify:track:5ZSIExfQuVv69tw5Qw3yDl
 features: []
-genres: []
+first_released_as_single: false
 key: break-da-law-21-savage
 lyrics_url: https://www.azlyrics.com/lyrics/21savage/breakdalaw.html
 name: Break Da Law
@@ -11,8 +14,9 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '2019-01-05'
+release_year: 2018
+runtime: 177747
 ---
-
 (Southside on the track, yeah)
 Yeah
 Cut the bullshit, I'm not with it
@@ -110,6 +114,3 @@ The chopper can hit all of y'all (Straight up)
 Your buddy, your goldfish and dog (All)
 Most of my niggas just rob (Wow)
 They cut off and hand you your balls (On God)
-
-
-

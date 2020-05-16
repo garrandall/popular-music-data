@@ -1,8 +1,11 @@
 ---
+album: Main Course
 artists:
 - Bee Gees
+external_ids:
+  spotify: spotify:track:7KUHpRlZQR91SLflhsQCg9
 features: []
-genres: []
+first_released_as_single: false
 key: fanny--be-tender-with-my-love--bee-gees
 lyrics_url: https://www.azlyrics.com/lyrics/beegees/fannybetenderwithmylove.html
 name: Fanny (Be Tender With My Love)
@@ -71,8 +74,9 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '1976-04-10'
+release_year: 1975
+runtime: 243560
 ---
-
 First I rise, then I fall
 Seems like you don't want the love
 Of this man at all
@@ -111,6 +115,3 @@ You know how easy it is to break me
 Fanny, be tender with my love,
 'Cause it's all that I've got
 And my love won't forsake me.
-
-
-

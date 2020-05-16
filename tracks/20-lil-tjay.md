@@ -1,8 +1,11 @@
 ---
+album: '20'
 artists:
 - Lil Tjay
+external_ids:
+  spotify: spotify:track:4Hqh0dS4x07zuRw6eBTO7p
 features: []
-genres: []
+first_released_as_single: true
 key: 20-lil-tjay
 lyrics_url: https://www.azlyrics.com/lyrics/liltjay/2020.html
 name: '20'
@@ -11,8 +14,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2020-01-18'
+release_year: 2020
+runtime: 230448
 ---
-
 I feel like the greatest, only been at this for two years
 Thank God this shit happened so quick
 Fashion me the latest, money comin' in but so do hatred
@@ -94,6 +98,3 @@ Let a nigga run up on me, thinkin' I won't kill some
 
 I'ma soon be the greatest
 I'ma soon be the greatest
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: No Ordinary Girl
 artists:
 - Jordan Pruitt
+external_ids:
+  spotify: spotify:track:4QFbZ1cSkL718J6A8cMJdA
 features: []
-genres: []
+first_released_as_single: false
 key: jump-to-the-rhythm-jordan-pruitt
 lyrics_url: https://www.azlyrics.com/lyrics/jordanpruitt/jumptotherhythm.html
 name: Jump To The Rhythm
@@ -23,8 +26,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2007-02-17'
+release_year: 2007
+runtime: 227013
 ---
-
 Oh, Do-Do-Do-Do-Do-Do-Do-Do-Do Yeah
 Oh jump in
 Woah-oh Yeah
@@ -107,6 +111,3 @@ We do it
 Step to the rhythm
 And dance to the music
 All in together we shine
-
-
-

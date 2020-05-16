@@ -1,8 +1,11 @@
 ---
+album: Sinatra's Sinatra
 artists:
 - Frank Sinatra
+external_ids:
+  spotify: spotify:track:2MfNXoj8DThCX8JmzKv2Ee
 features: []
-genres: []
+first_released_as_single: false
 key: the-second-time-around-frank-sinatra
 lyrics_url: https://www.azlyrics.com/lyrics/franksinatra/thesecondtimearound.html
 name: The Second Time Around
@@ -35,8 +38,9 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1961-04-17'
+release_year: 1961
+runtime: 184266
 ---
-
 Love is lovelier the second time around
 Just as wonderful with both feet on the ground
 It's that second time you hear your love song sung
@@ -53,6 +57,3 @@ I'm oh, so glad we met the second time around
 Who can say what brought us to this miracle we've found?
 There are those who'll bet love comes but once, and yet
 I'm oh, so glad we met the second time around
-
-
-

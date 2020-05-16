@@ -1,8 +1,11 @@
 ---
+album: Your Precious Love
 artists:
 - Linda Jones
+external_ids:
+  spotify: spotify:track:7fBPIq8nkRN9TELM425YUV
 features: []
-genres: []
+first_released_as_single: false
 key: your-precious-love-linda-jones
 lyrics_url: https://www.musixmatch.com/lyrics/Linda-Jones/Your-Precious-Love
 name: Your Precious Love
@@ -43,6 +46,8 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1972-04-22'
+release_year: 1972
+runtime: 213623
 ---
 Your precious love
 Means more to me than

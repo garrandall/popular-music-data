@@ -1,8 +1,11 @@
 ---
+album: Since I Don't Have You
 artists:
 - The Skyliners
+external_ids:
+  spotify: spotify:track:2OpdKZpy03peUBEE4Dj6fa
 features: []
-genres: []
+first_released_as_single: false
 key: pennies-from-heaven-the-skyliners
 lyrics_url: https://genius.com/The-skyliners-pennies-from-heaven-lyrics
 name: Pennies From Heaven
@@ -59,6 +62,8 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '1960-08-01'
+release_year: 1960
+runtime: 129822
 ---
 Every time it rains, it rains
 Pennies from heaven (from heaven)

@@ -1,8 +1,11 @@
 ---
+album: Surfin' USA
 artists:
 - The Beach Boys
+external_ids:
+  spotify: spotify:track:0wz1LjDb9ZNEYwOmDJ3Q4b
 features: []
-genres: []
+first_released_as_single: false
 key: surfin--usa-the-beach-boys
 lyrics_url: https://www.azlyrics.com/lyrics/beachboys/surfinusa.html
 name: Surfin' USA
@@ -107,8 +110,9 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '1974-10-05'
+release_year: 1963
+runtime: 149373
 ---
-
 If everybody had an ocean
 Across the U. S. A.
 Then everybody'd be surfin'
@@ -152,6 +156,3 @@ Surfin' U.S. A.
 
 Everybody's gone surfin'
 Surfin' U.S. A.
-
-
-

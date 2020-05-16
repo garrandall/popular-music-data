@@ -1,8 +1,11 @@
 ---
+album: Now
 artists:
 - Maxwell
+external_ids:
+  spotify: spotify:track:0tXq1ob3ysGZN2oK1abtyp
 features: []
-genres: []
+first_released_as_single: false
 key: lifetime-maxwell
 lyrics_url: https://www.azlyrics.com/lyrics/maxwell/lifetime.html
 name: Lifetime
@@ -87,8 +90,9 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '2002-01-19'
+release_year: 2001
+runtime: 329413
 ---
-
 I was reborn when I was broken
 I wouldn't believe, I wouldn't believe, no
 been thru a storm, no use in hoping
@@ -126,9 +130,3 @@ if you want it you can have it girl
 maybe you will see maybe you will see (oh oh)
 oh oh oh wo oh
 lifetime lifetime
-
-
-
-
-
-

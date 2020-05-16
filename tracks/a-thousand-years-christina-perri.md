@@ -1,8 +1,11 @@
 ---
+album: This Love
 artists:
 - Christina Perri
+external_ids:
+  spotify: spotify:track:6lanRgr6wXibZr8KgzXxBl
 features: []
-genres: []
+first_released_as_single: true
 key: a-thousand-years-christina-perri
 lyrics_url: https://genius.com/Christina-perri-a-thousand-years-lyrics
 name: A Thousand Years
@@ -111,6 +114,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '2012-04-28'
+release_year: 2011
+runtime: 285120
 ---
 Heart beats fast
 Colors and promises

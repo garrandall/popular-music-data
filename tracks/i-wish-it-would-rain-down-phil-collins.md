@@ -1,8 +1,11 @@
 ---
+album: '...But Seriously'
 artists:
 - Phil Collins
+external_ids:
+  spotify: spotify:track:4F2t297QK40XFcIHqkmLHs
 features: []
-genres: []
+first_released_as_single: false
 key: i-wish-it-would-rain-down-phil-collins
 lyrics_url: https://www.azlyrics.com/lyrics/philcollins/iwishitwouldraindown.html
 name: I Wish It Would Rain Down
@@ -75,8 +78,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1990-05-26'
+release_year: 1989
+runtime: 327746
 ---
-
 You know I never meant to see you again
 But I only passed by as a friend (yeah)
 All this time I stayed out of sight
@@ -116,6 +120,3 @@ Oh yeah. Let it rain down, (rain) rain down over me.
 Just let it rain down,
 Just let it rain down, let it rain down.
 Just let it rain...
-
-
-

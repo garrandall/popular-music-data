@@ -1,8 +1,11 @@
 ---
+album: This Side Of Paradise
 artists:
 - Ric Ocasek
+external_ids:
+  spotify: spotify:track:66OCyXTh6qiyzhJj5DH1on
 features: []
-genres: []
+first_released_as_single: false
 key: true-to-you-ric-ocasek
 lyrics_url: https://genius.com/Ric-ocasek-true-to-you-lyrics
 name: True To You
@@ -39,6 +42,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1987-02-07'
+release_year: 1986
+runtime: 239733
 ---
 Well, you look just like a stranger
 And they're keeping you down

@@ -1,9 +1,12 @@
 ---
+album: THR33 RINGZ
 artists:
 - T-Pain
+external_ids:
+  spotify: spotify:track:54ESO6P1monoUtN6PBqINp
 features:
 - Chris Brown
-genres: []
+first_released_as_single: false
 key: freeze-t-pain-chris-brown
 lyrics_url: https://www.azlyrics.com/lyrics/tpain/freeze.html
 name: Freeze
@@ -48,9 +51,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2009-03-28'
+release_year: 2008
+runtime: 216933
 ---
-
-
 I get it down on the dance floor
 Watch this...You don't even know girl!
 
@@ -137,6 +140,3 @@ And you gon sweat ya outfit out
 Tryna dance like me
 Now let me see you move
 Oowoo-oo-oo-oo...now Freeze (like me)
-
-
-

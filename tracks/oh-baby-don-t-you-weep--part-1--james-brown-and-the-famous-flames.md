@@ -1,7 +1,8 @@
 ---
 artists:
-- James Brown And The Famous Flames
-features: []
+- James Brown
+features:
+- The Famous Flames
 genres: []
 key: oh-baby-don-t-you-weep--part-1--james-brown-and-the-famous-flames
 lyrics_url: https://genius.com/James-brown-and-the-famous-flames-oh-baby-dont-you-weep-part-1-lyrics

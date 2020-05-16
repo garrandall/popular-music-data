@@ -1,8 +1,11 @@
 ---
+album: So Red The Rose
 artists:
 - Arcadia
+external_ids:
+  spotify: spotify:track:75l1HJhqU1DKSXoiRra3um
 features: []
-genres: []
+first_released_as_single: false
 key: goodbye-is-forever-arcadia
 lyrics_url: https://genius.com/Arcadia-goodbye-is-forever-lyrics
 name: Goodbye Is Forever
@@ -47,6 +50,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1986-04-05'
+release_year: 1985
+runtime: 228560
 ---
 Sometimes you have no choice
 Sometimes you've got no voice to say

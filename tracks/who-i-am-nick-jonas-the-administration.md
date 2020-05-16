@@ -1,9 +1,12 @@
 ---
+album: Who I AM
 artists:
 - Nick Jonas
 - The Administration
+external_ids:
+  spotify: spotify:track:65YX6qx31L6SOQlrSMGYeM
 features: []
-genres: []
+first_released_as_single: false
 key: who-i-am-nick-jonas-the-administration
 lyrics_url: https://www.musixmatch.com/lyrics/Nick-Jonas-The-Administration/Who-I-Am
 name: Who I Am
@@ -16,6 +19,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2010-02-20'
+release_year: 2009
+runtime: 245573
 ---
 I want someone to love me
 For who I am

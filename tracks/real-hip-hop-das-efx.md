@@ -1,8 +1,11 @@
 ---
+album: Hold It Down
 artists:
 - Das EFX
+external_ids:
+  spotify: spotify:track:7Kutf53V4k0CvU4nKu5oK6
 features: []
-genres: []
+first_released_as_single: false
 key: real-hip-hop-das-efx
 lyrics_url: https://genius.com/Das-efx-real-hip-hop-lyrics
 name: Real Hip Hop
@@ -47,6 +50,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1995-11-25'
+release_year: 1995
+runtime: 247613
 ---
 To the hiddip the hop ya don't stop (Don't stop)
 Das EFX with the real hip-hop (Hip-hop)

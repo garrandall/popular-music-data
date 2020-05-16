@@ -1,8 +1,11 @@
 ---
+album: This Is My Country
 artists:
 - The Impressions
+external_ids:
+  spotify: spotify:track:7ppPgpUdNPbHhuqYwN2SXu
 features: []
-genres: []
+first_released_as_single: false
 key: fool-for-you-the-impressions
 lyrics_url: https://genius.com/The-impressions-fool-for-you-lyrics
 name: Fool For You
@@ -55,6 +58,8 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '1968-11-23'
+release_year: 1968
+runtime: 172813
 ---
 Never liked nobody
 That's been mean to me

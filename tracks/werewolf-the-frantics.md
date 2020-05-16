@@ -1,8 +1,11 @@
 ---
+album: The Complete Dolton Recordings
 artists:
 - The Frantics
+external_ids:
+  spotify: spotify:track:0UxlRGu6lxHsoyWgaME4UJ
 features: []
-genres: []
+first_released_as_single: false
 key: werewolf-the-frantics
 name: Werewolf
 rankings:
@@ -14,5 +17,7 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1960-03-07'
+release_year: 1960
+runtime: 123226
 ---
 

@@ -1,8 +1,11 @@
 ---
+album: I Am...
 artists:
 - Nas
+external_ids:
+  spotify: spotify:track:3gY6tiCNsuVi6s8kPV6aQg
 features: []
-genres: []
+first_released_as_single: false
 key: nas-is-like-nas
 lyrics_url: https://genius.com/Nas-nas-is-like-lyrics
 name: Nas Is Like
@@ -23,6 +26,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1999-04-10'
+release_year: 1999
+runtime: 237026
 ---
 (Nas is; Nas is; Nas is; Nas is; Nas is; Nas is; Nas is;
 Nas is like; Nas is like; Nas is like)

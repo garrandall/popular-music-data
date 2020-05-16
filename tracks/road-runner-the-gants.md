@@ -1,8 +1,11 @@
 ---
+album: Road Runner! The Best Of The Gants
 artists:
 - The Gants
+external_ids:
+  spotify: spotify:track:1k6Gsz8nnZThZ59ZsEjw0r
 features: []
-genres: []
+first_released_as_single: false
 key: road-runner-the-gants
 lyrics_url: https://www.musixmatch.com/lyrics/The-Gants/Road-Runner
 name: Road Runner
@@ -55,6 +58,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1965-12-11'
+release_year: 1965
+runtime: 139333
 ---
 (Beep beep schrooooam!)
 

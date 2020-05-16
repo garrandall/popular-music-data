@@ -1,8 +1,11 @@
 ---
+album: 'Buddy: The Buddy Holly Story (Original London Cast Recording)'
 artists:
 - Buddy Holly
+external_ids:
+  spotify: spotify:track:6QKoYmaw7qV9RIwqoI2NYP
 features: []
-genres: []
+first_released_as_single: false
 key: it-doesn-t-matter-anymore-buddy-holly
 lyrics_url: https://genius.com/Buddy-holly-it-doesnt-matter-anymore-lyrics
 name: It Doesn't Matter Anymore
@@ -63,6 +66,8 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '1959-05-25'
+release_year: 1959
+runtime: 124000
 ---
 There you go and baby here am I
 Well you left me here so I could sit and cry

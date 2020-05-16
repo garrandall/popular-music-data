@@ -1,8 +1,11 @@
 ---
+album: Fabian Avalon
 artists:
 - Fabian
+external_ids:
+  spotify: spotify:track:0Y0M3FxJ8vKedfCziVubca
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-a-man-fabian
 lyrics_url: https://genius.com/Fabian-im-a-man-lyrics
 name: I'm A Man
@@ -47,6 +50,8 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1959-03-16'
+release_year: 1959
+runtime: 149253
 ---
 Now when I was a little boy
 At the age of five

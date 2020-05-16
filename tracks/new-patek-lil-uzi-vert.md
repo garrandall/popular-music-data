@@ -1,8 +1,11 @@
 ---
+album: New Patek
 artists:
 - Lil Uzi Vert
+external_ids:
+  spotify: spotify:track:0Fpen1PTuEnCmOJtUU9Iud
 features: []
-genres: []
+first_released_as_single: true
 key: new-patek-lil-uzi-vert
 lyrics_url: https://genius.com/Lil-uzi-vert-new-patek-lyrics
 name: New Patek
@@ -35,6 +38,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2018-11-10'
+release_year: 2018
+runtime: 343099
 ---
 Hm
 New Patek on my wrist

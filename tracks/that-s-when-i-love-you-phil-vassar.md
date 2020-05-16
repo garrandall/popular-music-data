@@ -1,8 +1,11 @@
 ---
+album: Phil Vassar
 artists:
 - Phil Vassar
+external_ids:
+  spotify: spotify:track:4X6rYai8Al8NKdF5JlA2On
 features: []
-genres: []
+first_released_as_single: false
 key: that-s-when-i-love-you-phil-vassar
 lyrics_url: https://www.azlyrics.com/lyrics/philvassar/thatswheniloveyou.html
 name: That's When I Love You
@@ -87,8 +90,9 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '2002-07-06'
+release_year: 1999
+runtime: 209826
 ---
-
 When I hear you stop and laugh out loud
 When you're fallin' fast asleep
 When you're in the middle of a crowd
@@ -151,6 +155,3 @@ And every little thing you do
 That's when I love you
 
 That's when I love you
-
-
-

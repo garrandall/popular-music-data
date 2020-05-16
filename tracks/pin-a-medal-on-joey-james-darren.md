@@ -1,8 +1,11 @@
 ---
+album: The Best of James Darren
 artists:
 - James Darren
+external_ids:
+  spotify: spotify:track:3SNrnu1yw5IftmNQvmexGA
 features: []
-genres: []
+first_released_as_single: false
 key: pin-a-medal-on-joey-james-darren
 lyrics_url: https://genius.com/James-darren-pin-a-medal-on-joey-lyrics
 name: Pin A Medal On Joey
@@ -31,6 +34,8 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1963-03-16'
+release_year: 1963
+runtime: 141293
 ---
 I just got a letter from a very dear pal
 He wrote to say he's sorry for stealin' my gal

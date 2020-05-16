@@ -1,8 +1,11 @@
 ---
+album: Driving Rain
 artists:
 - Paul McCartney
+external_ids:
+  spotify: spotify:track:2gmjV6gyMMKOrwqsktfVlc
 features: []
-genres: []
+first_released_as_single: false
 key: freedom-paul-mccartney
 lyrics_url: https://www.azlyrics.com/lyrics/paulmccartney/freedom.html
 name: Freedom
@@ -15,8 +18,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2001-12-22'
+release_year: 2001
+runtime: 213893
 ---
-
 This is my right
 A right given by God
 To live a free life
@@ -61,6 +65,3 @@ I'm talkin' 'bout freedom
 We will fight
 For the right
 To live in freedom
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Numbers
 artists:
 - Cat Stevens
+external_ids:
+  spotify: spotify:track:5jIlfw0j7j2Xy7DOilzU7O
 features: []
-genres: []
+first_released_as_single: false
 key: banapple-gas-cat-stevens
 lyrics_url: https://www.azlyrics.com/lyrics/catstevens/banapplegas.html
 name: Banapple Gas
@@ -31,8 +34,9 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1976-03-13'
+release_year: 1975
+runtime: 189626
 ---
-
 Banapple gas, oh Banapple gas
 Everybody's sniffing it Banapple gas
 O-o alas!
@@ -69,6 +73,3 @@ All the world is breathing Banapple gas
 O-o alas!
 No one knows what's inside it Banapple gas
 Oh Banapple gas.
-
-
-

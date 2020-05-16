@@ -1,8 +1,11 @@
 ---
+album: Don't Take Away The Music
 artists:
 - Tavares
+external_ids:
+  spotify: spotify:track:5ShjoIfQ2smGbEJmtZcnc0
 features: []
-genres: []
+first_released_as_single: false
 key: more-than-a-woman-tavares
 lyrics_url: https://www.azlyrics.com/lyrics/tavares/morethanawoman.html
 name: More Than A Woman
@@ -91,8 +94,9 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '1978-05-20'
+release_year: 1977
+runtime: 196040
 ---
-
 Girl, I've known you very well
 I've seen you growing every day
 I never really looked before
@@ -153,6 +157,3 @@ More than a woman (More than a woman)
 More than a woman to me (She treats me good, like a love should)
 More than a woman (Yeah)
 More than a woman to me (Yeah baby)
-
-
-

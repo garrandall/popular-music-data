@@ -1,8 +1,11 @@
 ---
+album: Greatest Hits
 artists:
 - Frankie Avalon
+external_ids:
+  spotify: spotify:track:7FznuAphcIxCkQb6w5UeHv
 features: []
-genres: []
+first_released_as_single: false
 key: i-ll-wait-for-you-frankie-avalon
 lyrics_url: https://genius.com/Frankie-avalon-ill-wait-for-you-lyrics
 name: I'll Wait For You
@@ -75,6 +78,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1959-02-09'
+release_year: 1958
+runtime: 176066
 ---
 Oh I'll wait for you
 

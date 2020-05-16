@@ -1,8 +1,11 @@
 ---
+album: Good Times
 artists:
 - Elvis Presley
+external_ids:
+  spotify: spotify:track:4baNC6PNq37xOVRqoZcNY5
 features: []
-genres: []
+first_released_as_single: false
 key: my-boy-elvis-presley
 lyrics_url: https://genius.com/Elvis-presley-my-boy-lyrics
 name: My Boy
@@ -51,6 +54,8 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '1975-04-05'
+release_year: 1974
+runtime: 198853
 ---
 You're sleeping son, I know
 But, really, this can't wait

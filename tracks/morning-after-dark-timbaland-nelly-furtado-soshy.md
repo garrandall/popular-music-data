@@ -1,10 +1,13 @@
 ---
+album: Shock Value II
 artists:
 - Timbaland
+external_ids:
+  spotify: spotify:track:6mmtxbG5pzkrJ0BrSdg9uW
 features:
 - Nelly Furtado
 - SoShy
-genres: []
+first_released_as_single: false
 key: morning-after-dark-timbaland-nelly-furtado-soshy
 lyrics_url: https://www.azlyrics.com/lyrics/timbaland/morningafterdark.html
 name: Morning After Dark
@@ -17,8 +20,9 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '2009-12-19'
+release_year: 2009
+runtime: 231960
 ---
-
 Go Timbo
 
 I'll be the same when it all goes up, I'll be the same when it all goes down
@@ -97,6 +101,3 @@ The dawn is here, be gone, be on your way
 
 When the cats come out the bats come out to play
 The dawn is here, be gone, be on your way
-
-
-

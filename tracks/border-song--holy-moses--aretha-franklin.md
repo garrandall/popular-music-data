@@ -1,8 +1,11 @@
 ---
+album: Young, Gifted and Black
 artists:
 - Aretha Franklin
+external_ids:
+  spotify: spotify:track:67XS5wv6OoqXXcgoFVGnLr
 features: []
-genres: []
+first_released_as_single: false
 key: border-song--holy-moses--aretha-franklin
 lyrics_url: https://www.azlyrics.com/lyrics/arethafranklin/bordersongholymoses.html
 name: Border Song (Holy Moses)
@@ -35,8 +38,9 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1971-01-02'
+release_year: 1970
+runtime: 202293
 ---
-
 Holy Moses, I have been removed
 I have seen the spectre, he was been here too
 Distant cousin from down the line
@@ -67,6 +71,3 @@ Holy Moses, can we live in peace
 Holy Moses, can we live in peace
 Holy Moses, can we live in
 I wonder can we live in peace
-
-
-

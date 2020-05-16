@@ -1,8 +1,11 @@
 ---
+album: Human Touch
 artists:
 - Bruce Springsteen
+external_ids:
+  spotify: spotify:track:42eWzCqHuCD5QRwzq3I24e
 features: []
-genres: []
+first_released_as_single: false
 key: 57-channels--and-nothin--on--bruce-springsteen
 lyrics_url: https://www.azlyrics.com/lyrics/brucespringsteen/57channelsandnothinon.html
 name: 57 Channels (And Nothin' On)
@@ -31,8 +34,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1992-07-25'
+release_year: 1992
+runtime: 145466
 ---
-
 I bought a bourgeois house in the Hollywood hills 
 With a trunkload of hundred thousand dollar bills 
 Man came by to hook up my cable TV 
@@ -62,6 +66,3 @@ Judge said "What you got in your defense son ?"
 I can see by your eyes friend you're just about gone 
 Fifty-seven channels and nothin' on 
 Fifty-seven channels and nothin'...
-
-
-

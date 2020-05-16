@@ -1,8 +1,11 @@
 ---
+album: Circle Of One
 artists:
 - Oleta Adams
+external_ids:
+  spotify: spotify:track:1KT3ndndHOGXePgC4o0Jq9
 features: []
-genres: []
+first_released_as_single: false
 key: get-here-oleta-adams
 lyrics_url: https://www.azlyrics.com/lyrics/oletaadams/gethere.html
 name: Get Here
@@ -99,8 +102,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1991-05-18'
+release_year: 1990
+runtime: 276733
 ---
-
 You can reach me by railway, you can reach me by trailway
 You can reach me on an airplane, you can reach me with your mind
 You can reach me by caravan, cross the desert like an Arab man
@@ -130,6 +134,3 @@ I don't care, I don't care, I need you right here right now
 I need you right here, right now, right by my side (yeah, yeah, yeah, yeah)
 
 I don't care how you get here, get here if you can
-
-
-

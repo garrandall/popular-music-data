@@ -1,8 +1,11 @@
 ---
+album: Still Got The Blues
 artists:
 - Gary Moore
+external_ids:
+  spotify: spotify:track:0DnGfA1r8pAssJCuq4ojla
 features: []
-genres: []
+first_released_as_single: false
 key: still-got-the-blues-gary-moore
 lyrics_url: https://www.azlyrics.com/lyrics/garymoore/stillgotthebluesforyou.html
 name: Still Got The Blues
@@ -19,8 +22,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1991-03-02'
+release_year: 1990
+runtime: 370866
 ---
-
 Used to be so easy to give my heart away
 But I found out the hard way
 There's a price you have to pay
@@ -50,6 +54,3 @@ But I've still got the blues for you
 Though the days come and go
 There is one thing I know
 I've still got the blues for you.
-
-
-

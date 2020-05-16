@@ -1,8 +1,11 @@
 ---
+album: One Wish
 artists:
 - Deborah Cox
+external_ids:
+  spotify: spotify:track:2iUwgnyYykjFu1f7YikoTX
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-over-now-deborah-cox
 lyrics_url: https://www.azlyrics.com/lyrics/deborahcox/itsovernow.html
 name: It's Over Now
@@ -31,8 +34,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1999-06-26'
+release_year: 1998
+runtime: 260093
 ---
-
 Try to forget about it
 Ordinary things:typical predictable
 Baby I knew the end before it started
@@ -80,4 +84,3 @@ Just forget it:you'll regret it
 It's really over now
 Just turn around and watch me walk
 I'm gone
-

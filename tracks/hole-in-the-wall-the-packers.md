@@ -1,8 +1,11 @@
 ---
+album: Late Late Party (1965-67)
 artists:
 - The Packers
+external_ids:
+  spotify: spotify:track:5AxThlogq1ddfJdhMetYpq
 features: []
-genres: []
+first_released_as_single: false
 key: hole-in-the-wall-the-packers
 name: Hole In The Wall
 rankings:
@@ -50,5 +53,7 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '1966-01-22'
+release_year: 1965
+runtime: 170826
 ---
 

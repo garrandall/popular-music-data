@@ -1,8 +1,11 @@
 ---
+album: Simon Pure Soul
 artists:
 - Joe Simon
+external_ids:
+  spotify: spotify:track:5qPOWXeKQzjNHcA8rDLAna
 features: []
-genres: []
+first_released_as_single: false
 key: teenager-s-prayer-joe-simon
 name: Teenager's Prayer
 rankings:
@@ -34,5 +37,7 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '1966-07-30'
+release_year: 1966
+runtime: 149720
 ---
 

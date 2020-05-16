@@ -1,8 +1,11 @@
 ---
+album: Show Me Love
 artists:
 - Robin S.
+external_ids:
+  spotify: spotify:track:4t0UsYzmmmZRMTWn77jiGF
 features: []
-genres: []
+first_released_as_single: false
 key: show-me-love-robin-s-
 lyrics_url: https://genius.com/Robin-s-show-me-love-lyrics
 name: Show Me Love
@@ -119,6 +122,8 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '1993-10-09'
+release_year: 1993
+runtime: 252106
 ---
 Ah... Yeah yeah, yeah yeah yeah
 You’ve got to show me love

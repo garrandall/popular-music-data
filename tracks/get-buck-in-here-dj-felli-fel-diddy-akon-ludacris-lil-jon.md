@@ -1,12 +1,15 @@
 ---
+album: Get Buck In Here
 artists:
 - DJ Felli Fel
+external_ids:
+  spotify: spotify:track:5zN3VFmNhdOKxRElarvVq5
 features:
 - Diddy
 - Akon
 - Ludacris
 - Lil Jon
-genres: []
+first_released_as_single: true
 key: get-buck-in-here-dj-felli-fel-diddy-akon-ludacris-lil-jon
 lyrics_url: https://www.azlyrics.com/lyrics/djfellifel/getbuckinhere.html
 name: Get Buck In Here
@@ -83,8 +86,9 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '2008-03-22'
+release_year: 2007
+runtime: 229493
 ---
-
 Chyeah!
 It's that incredible shh...
 Talk to 'em
@@ -202,6 +206,3 @@ Crunk in this
 Crunk in this
 Crunk in this
 Hey!
-
-
-

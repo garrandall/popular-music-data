@@ -1,8 +1,11 @@
 ---
+album: Beauty Behind The Madness
 artists:
 - The Weeknd
+external_ids:
+  spotify: spotify:track:27NV2KxoQ8WuLMqlTDI61F
 features: []
-genres: []
+first_released_as_single: true
 key: often-the-weeknd
 lyrics_url: https://genius.com/The-weeknd-often-lyrics
 name: Often
@@ -87,6 +90,8 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '2015-03-14'
+release_year: 2014
+runtime: 234400
 ---
 Seneler sürer her günüm
 Oh yeah, ohyeah, ooheah, ohohah, oh oh

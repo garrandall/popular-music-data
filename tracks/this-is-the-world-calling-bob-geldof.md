@@ -1,8 +1,11 @@
 ---
+album: Deep In The Heart Of Nowhere
 artists:
 - Bob Geldof
+external_ids:
+  spotify: spotify:track:0L6d8fvp7Sx6J9pwsCGDsv
 features: []
-genres: []
+first_released_as_single: false
 key: this-is-the-world-calling-bob-geldof
 lyrics_url: https://genius.com/Bob-geldof-this-is-the-world-calling-lyrics
 name: This Is The World Calling
@@ -31,6 +34,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1987-01-17'
+release_year: 1986
+runtime: 269626
 ---
 I hear a heart beat
 It's ringing out across the universe

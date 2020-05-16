@@ -1,8 +1,11 @@
 ---
+album: i am > i was
 artists:
 - 21 Savage
+external_ids:
+  spotify: spotify:track:2FUNBaa5DwItJtYEBgAblU
 features: []
-genres: []
+first_released_as_single: false
 key: monster-21-savage
 lyrics_url: https://www.azlyrics.com/lyrics/21savage/monster.html
 name: Monster
@@ -19,9 +22,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2019-01-19'
+release_year: 2018
+runtime: 233039
 ---
-
-
 Power
 The money and the fame make a monster
 A monster
@@ -105,6 +108,3 @@ A monster
 Power
 The money and the fame make a monster
 A monster
-
-
-

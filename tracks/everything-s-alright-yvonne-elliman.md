@@ -1,8 +1,11 @@
 ---
+album: Jesus Christ Superstar
 artists:
 - Yvonne Elliman
+external_ids:
+  spotify: spotify:track:0RGNvCeXKsgvnLU6rlSwFd
 features: []
-genres: []
+first_released_as_single: false
 key: everything-s-alright-yvonne-elliman
 lyrics_url: https://genius.com/Yvonne-elliman-everythings-alright-lyrics
 name: Everything's Alright
@@ -31,6 +34,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1971-10-30'
+release_year: 1971
+runtime: 214973
 ---
 Yvonne:
 Sleep and I shall soothe you, calm you and anoint you

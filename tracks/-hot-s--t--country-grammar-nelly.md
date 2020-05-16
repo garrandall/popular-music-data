@@ -1,8 +1,11 @@
 ---
+album: Country Grammar
 artists:
 - Nelly
+external_ids:
+  spotify: spotify:track:4B4y6zANvKgcu54S4U9f89
 features: []
-genres: []
+first_released_as_single: true
 key: -hot-s--t--country-grammar-nelly
 lyrics_url: https://genius.com/Nelly-country-grammar-hot-shit-lyrics
 name: (Hot Shit) Country Grammar
@@ -143,6 +146,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2000-12-16'
+release_year: 2000
+runtime: 258426
 ---
 Hot Shit (Hot Shit)
 

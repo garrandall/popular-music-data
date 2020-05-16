@@ -1,8 +1,11 @@
 ---
+album: Boys, Boys, Boys
 artists:
 - Lesley Gore
+external_ids:
+  spotify: spotify:track:4CihRvhDabPlxNXr9hfxDx
 features: []
-genres: []
+first_released_as_single: false
 key: that-s-the-way-boys-are-lesley-gore
 lyrics_url: https://genius.com/Lesley-gore-thats-the-way-boys-are-lyrics
 name: That's The Way Boys Are
@@ -43,6 +46,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1964-05-23'
+release_year: 1964
+runtime: 133000
 ---
 When I'm with my guy, and he watches all the pretty girls go by
 And I feel so hurt, deep inside, I wish that I could die

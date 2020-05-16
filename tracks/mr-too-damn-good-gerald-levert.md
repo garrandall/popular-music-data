@@ -1,8 +1,11 @@
 ---
+album: G
 artists:
 - Gerald Levert
+external_ids:
+  spotify: spotify:track:0ayO9HLU8fRymoiFMVHqy3
 features: []
-genres: []
+first_released_as_single: false
 key: mr-too-damn-good-gerald-levert
 lyrics_url: https://www.musixmatch.com/lyrics/Gerald-Levert/Mr-Too-Damn-Good
 name: Mr Too Damn Good
@@ -39,6 +42,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2000-05-06'
+release_year: 2000
+runtime: 271560
 ---
 OOooooo
 Yeah yeah yeah yeah

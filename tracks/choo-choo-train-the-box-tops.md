@@ -1,8 +1,11 @@
 ---
+album: Non Stop
 artists:
 - The Box Tops
+external_ids:
+  spotify: spotify:track:1aR9HTokyIrreiVGXnhvyF
 features: []
-genres: []
+first_released_as_single: false
 key: choo-choo-train-the-box-tops
 lyrics_url: https://www.azlyrics.com/lyrics/boxtops/choochootrain.html
 name: Choo Choo Train
@@ -39,8 +42,9 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '1968-07-20'
+release_year: 1968
+runtime: 170826
 ---
-
 I got a present for brother
 Choo choo train 
 And I'm just dyin' to see my dear ol' mother
@@ -75,6 +79,3 @@ Can't you see the poor boy's goin' insane
 Choo choo train 
 Choo choo train 
 I gotta see my baby a on'e more again...
-
-
-

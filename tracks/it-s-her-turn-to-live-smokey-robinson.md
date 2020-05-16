@@ -1,8 +1,11 @@
 ---
+album: Pure Smokey
 artists:
 - Smokey Robinson
+external_ids:
+  spotify: spotify:track:2LGoZeAXCGO9cgg9pZeHEU
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-her-turn-to-live-smokey-robinson
 lyrics_url: https://www.azlyrics.com/lyrics/smokeyrobinson/itsherturntolive.html
 name: It's Her Turn To Live
@@ -27,8 +30,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1974-06-22'
+release_year: 1974
+runtime: 197413
 ---
-
 Mama raised us all her life
 And now it's her turn to live, yeah
 Mama gave us everything, boy
@@ -98,6 +102,3 @@ Mama got the right
 Mama got the right
 Mama got the right
 Mama got the right to live now
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Beyond
 artists:
 - Herb Alpert
+external_ids:
+  spotify: spotify:track:0PRAycNsQFwziR7ugStnv0
 features: []
-genres: []
+first_released_as_single: false
 key: beyond-herb-alpert
 lyrics_url: https://genius.com/Herb-alpert-beyond-lyrics
 name: Beyond
@@ -39,5 +42,7 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1980-08-16'
+release_year: 1980
+runtime: 361226
 ---
 Instrumental

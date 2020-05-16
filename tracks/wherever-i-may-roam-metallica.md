@@ -1,8 +1,11 @@
 ---
+album: Metallica
 artists:
 - Metallica
+external_ids:
+  spotify: spotify:track:49rcSzMayJhIwGf0CJCaxJ
 features: []
-genres: []
+first_released_as_single: false
 key: wherever-i-may-roam-metallica
 lyrics_url: https://www.azlyrics.com/lyrics/metallica/whereverimayroam.html
 name: Wherever I May Roam
@@ -35,8 +38,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1992-08-29'
+release_year: 1991
+runtime: 404240
 ---
-
 ...and the road becomes my bride
 I have stripped of all but pride
 So in her I do confide
@@ -104,6 +108,3 @@ Wherever I may roam
 Wherever I may roam
 Wherever I may wander, wander, wander
 Wherever I may roam
-
-
-

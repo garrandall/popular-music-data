@@ -1,8 +1,11 @@
 ---
+album: Nancy In London
 artists:
 - Nancy Sinatra
+external_ids:
+  spotify: spotify:track:25nEGGqcm7rrz7yqscoPCo
 features: []
-genres: []
+first_released_as_single: false
 key: 100-years-nancy-sinatra
 lyrics_url: https://www.azlyrics.com/lyrics/nancysinatra/100years.html
 name: 100 Years
@@ -31,8 +34,9 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1968-04-27'
+release_year: 1968
+runtime: 151510
 ---
-
 I'm not gonna say everything is OK 
 Cause OK is not the way that I feel. 
 I'm not gonna be any fool's Christmas tree 
@@ -56,6 +60,3 @@ Cause for me true love could be
 100 years away. 
 
 And if it is, I'll wait
-
-
-

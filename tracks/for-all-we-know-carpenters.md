@@ -1,8 +1,11 @@
 ---
+album: Carpenters
 artists:
 - Carpenters
+external_ids:
+  spotify: spotify:track:5llfFWv1tH61nENrsjg3KZ
 features: []
-genres: []
+first_released_as_single: false
 key: for-all-we-know-carpenters
 lyrics_url: https://genius.com/Carpenters-for-all-we-know-lyrics
 name: For All We Know
@@ -59,6 +62,8 @@ rankings:
   rank: 27
   ranking_list: Billboard Hot 100
   start_date: '1971-05-01'
+release_year: 1971
+runtime: 158933
 ---
 Love, look at the two of us
 Strangers in many ways

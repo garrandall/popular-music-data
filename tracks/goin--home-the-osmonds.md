@@ -1,8 +1,11 @@
 ---
+album: The Plan
 artists:
 - The Osmonds
+external_ids:
+  spotify: spotify:track:0p84j3ol6LPVQwW7cPB3y4
 features: []
-genres: []
+first_released_as_single: false
 key: goin--home-the-osmonds
 lyrics_url: https://genius.com/The-osmonds-goin-home-lyrics
 name: Goin' Home
@@ -39,6 +42,8 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '1973-08-04'
+release_year: 1973
+runtime: 148866
 ---
 I'm a track star, gotta run far
 And I'm ready to go

@@ -1,8 +1,11 @@
 ---
+album: Mask Of Smiles
 artists:
 - John Waite
+external_ids:
+  spotify: spotify:track:6pKeSbLxFR98kw6kraSulk
 features: []
-genres: []
+first_released_as_single: false
 key: welcome-to-paradise-john-waite
 lyrics_url: https://www.azlyrics.com/lyrics/johnwaite/welcometoparadise.html
 name: Welcome To Paradise
@@ -23,8 +26,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1985-11-09'
+release_year: 1985
+runtime: 238826
 ---
-
 Sour milk in the saucer
 And the cat won't come home
 And sometimes new york city
@@ -86,6 +90,3 @@ I'm still looking for paradise tonight
 And I won't find paradise
 I'll make it all right
 (we all find paradise)
-
-
-

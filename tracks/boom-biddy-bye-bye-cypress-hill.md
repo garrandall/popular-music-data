@@ -1,8 +1,11 @@
 ---
+album: Iii (Temples Of Boom)
 artists:
 - Cypress Hill
+external_ids:
+  spotify: spotify:track:5iFpHrm6qktoXZLaXTPoRJ
 features: []
-genres: []
+first_released_as_single: false
 key: boom-biddy-bye-bye-cypress-hill
 lyrics_url: https://www.azlyrics.com/lyrics/cypresshill/boombiddybyebye.html
 name: Boom Biddy Bye Bye
@@ -19,8 +22,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1996-07-06'
+release_year: 1995
+runtime: 241133
 ---
-
 Refugee camp, with Cypress Hill
 Yo, bringin' it on Cubans meet the Haitians
 Perfect combination, check it
@@ -105,6 +109,3 @@ You know the whole world watches soldier man
 
 Boom biddy bye bye
 Open up ya eyes you'll be the next one to die
-
-
-

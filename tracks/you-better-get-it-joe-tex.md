@@ -1,8 +1,11 @@
 ---
+album: The Very Best of, Volume 1
 artists:
 - Joe Tex
+external_ids:
+  spotify: spotify:track:0FU3ehy4N2AtaWUugKnuNR
 features: []
-genres: []
+first_released_as_single: false
 key: you-better-get-it-joe-tex
 lyrics_url: https://www.musixmatch.com/lyrics/Joe-Tex/You-Better-Get-It
 name: You Better Get It
@@ -35,6 +38,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1965-04-03'
+release_year: 1965
+runtime: 206480
 ---
 You asked me
 Do I love you

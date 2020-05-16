@@ -1,8 +1,11 @@
 ---
+album: YHLQMDLG
 artists:
 - Bad Bunny
+external_ids:
+  spotify: spotify:track:5DxXgozhkPLgrbKFY91w0c
 features: []
-genres: []
+first_released_as_single: true
 key: vete-bad-bunny
 lyrics_url: https://www.musixmatch.com/lyrics/Bad-Bunny-7/Vete
 name: Vete
@@ -67,6 +70,8 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '2020-03-21'
+release_year: 2019
+runtime: 192024
 ---
 Yeah, yeah, yeah, yeah
 Yeah, yeah, yeah, yeah

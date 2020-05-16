@@ -1,8 +1,11 @@
 ---
+album: Involved
 artists:
 - Edwin Starr
+external_ids:
+  spotify: spotify:track:1wsUotTLbe40MMumTDIaV3
 features: []
-genres: []
+first_released_as_single: false
 key: stop-the-war-now-edwin-starr
 lyrics_url: https://genius.com/Edwin-starr-stop-the-war-now-lyrics
 name: Stop The War Now
@@ -39,6 +42,8 @@ rankings:
   rank: 52
   ranking_list: Billboard Hot 100
   start_date: '1971-02-06'
+release_year: 1970
+runtime: 215413
 ---
 Alright, yeah
 Make the sound of peace sing out

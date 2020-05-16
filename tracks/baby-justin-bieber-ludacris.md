@@ -1,9 +1,12 @@
 ---
+album: My World 2.0
 artists:
 - Justin Bieber
+external_ids:
+  spotify: spotify:track:6epn3r7S14KUqlReYr77hA
 features:
 - Ludacris
-genres: []
+first_released_as_single: false
 key: baby-justin-bieber-ludacris
 lyrics_url: https://www.azlyrics.com/lyrics/justinbieber/baby.html
 name: Baby
@@ -88,8 +91,9 @@ rankings:
   rank: 52
   ranking_list: Billboard Hot 100
   start_date: '2010-06-19'
+release_year: 2010
+runtime: 214240
 ---
-
 Ohhh ah
 Ohhh ah
 Ohhhh ah
@@ -161,6 +165,3 @@ Now I'm all gone (Yeah Yeah Yeah, Yeah Yeah Yeah)
 Now I'm all gone (Yeah Yeah Yeah, Yeah Yeah Yeah)
 Now I'm all gone (gone, gone, gone...)
 I'm gone
-
-
-

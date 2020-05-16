@@ -1,8 +1,11 @@
 ---
+album: Something Special
 artists:
 - The Kingston Trio
+external_ids:
+  spotify: spotify:track:4B4uegYzVSITyQVzQtJ8XT
 features: []
-genres: []
+first_released_as_single: false
 key: jane-jane-jane-the-kingston-trio
 lyrics_url: https://genius.com/Kingston-trio-jane-jane-jane-lyrics
 name: Jane Jane Jane
@@ -11,6 +14,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1962-05-19'
+release_year: 1962
+runtime: 171960
 ---
 Jane, Jane, Jane, mark my bonnie Jane as sweet as sugar in the cane, don't be ashame
 Jane cannot see. She's as blind as she can be, but the prettiest girl in all the world to me

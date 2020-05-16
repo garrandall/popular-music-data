@@ -1,8 +1,11 @@
 ---
+album: Chris Rea
 artists:
 - Chris Rea
+external_ids:
+  spotify: spotify:track:0m3XcQ2LTh0eb4U1HNkpf8
 features: []
-genres: []
+first_released_as_single: false
 key: loving-you-chris-rea
 lyrics_url: https://genius.com/Chris-rea-loving-you-lyrics
 name: Loving You
@@ -19,6 +22,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1982-04-24'
+release_year: 1982
+runtime: 229440
 ---
 The night was black with thunder
 The streets were wet with rain

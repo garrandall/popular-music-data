@@ -1,8 +1,11 @@
 ---
+album: I'm A Hustla
 artists:
 - Cassidy
+external_ids:
+  spotify: spotify:track:73VvJn90uEkNsUD8ZDHzop
 features: []
-genres: []
+first_released_as_single: true
 key: i-m-a-hustla-cassidy
 lyrics_url: https://genius.com/Cassidy-im-a-hustla-lyrics
 name: I'm A Hustla
@@ -83,6 +86,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '2005-07-23'
+release_year: 2005
+runtime: 243440
 ---
 Nigga, ask about me, yeah, yeah, nigga, ask about me, yeah, yeah
 Nigga, ask about me, yeah, yeah, nigga, ask about me

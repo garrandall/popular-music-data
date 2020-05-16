@@ -1,10 +1,13 @@
 ---
+album: The Price Of Fame
 artists:
 - Bow Wow
+external_ids:
+  spotify: spotify:track:4F55RCGuM477OjznpYGhYz
 features:
 - Chris Brown
 - Johnta Austin
-genres: []
+first_released_as_single: false
 key: shortie-like-mine-bow-wow-chris-brown-johnta-austin
 lyrics_url: https://genius.com/Bow-wow-shortie-like-mine-lyrics
 name: Shortie Like Mine
@@ -93,6 +96,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2007-03-10'
+release_year: 2000
+runtime: 267506
 ---
 Y'all know what this is
 

@@ -1,8 +1,11 @@
 ---
+album: Crimes Of Passion
 artists:
 - Pat Benatar
+external_ids:
+  spotify: spotify:track:0vOkmmJEtjuFZDzrQSFzEE
 features: []
-genres: []
+first_released_as_single: false
 key: hit-me-with-your-best-shot-pat-benatar
 lyrics_url: https://genius.com/Pat-benatar-hit-me-with-your-best-shot-lyrics
 name: Hit Me With Your Best Shot
@@ -103,6 +106,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1981-03-14'
+release_year: 1980
+runtime: 171266
 ---
 Well you're the real tough cookie with a long history
 Of breaking little hearts like the one in me

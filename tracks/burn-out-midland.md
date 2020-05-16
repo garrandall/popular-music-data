@@ -1,8 +1,11 @@
 ---
+album: Spotify Sessions
 artists:
 - Midland
+external_ids:
+  spotify: spotify:track:0Mkpx9mBpu4xc7WLfFjaaG
 features: []
-genres: []
+first_released_as_single: false
 key: burn-out-midland
 lyrics_url: https://www.azlyrics.com/lyrics/midland/burnout.html
 name: Burn Out
@@ -43,8 +46,9 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '2019-03-16'
+release_year: 2017
+runtime: 208706
 ---
-
 Watchin' cigarettes burn out
 'Til all the neon gets turned out
 I was so on fire for you it hurts how
@@ -92,6 +96,3 @@ I was so on fire for you it hurts how
 Fast that a cigarette can burn out
 I was so on fire for you it hurts how
 Fast that a cigarette can burn out
-
-
-

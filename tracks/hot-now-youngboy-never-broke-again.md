@@ -1,8 +1,11 @@
 ---
+album: AI YoungBoy 2
 artists:
 - YoungBoy Never Broke Again
+external_ids:
+  spotify: spotify:track:4I7G5VP4hZdLjDoRF9naCl
 features: []
-genres: []
+first_released_as_single: false
 key: hot-now-youngboy-never-broke-again
 lyrics_url: https://genius.com/Youngboy-never-broke-again-hot-now-lyrics
 name: Hot Now
@@ -27,6 +30,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2019-11-23'
+release_year: 2019
+runtime: 128413
 ---
 Beat Execs
 Guwap

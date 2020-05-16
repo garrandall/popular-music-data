@@ -1,8 +1,11 @@
 ---
+album: Experiment Extended
 artists:
 - Kane Brown
+external_ids:
+  spotify: spotify:track:1zX4O1ezEkxMoEQsVw2eMA
 features: []
-genres: []
+first_released_as_single: true
 key: good-as-you-kane-brown
 lyrics_url: https://www.azlyrics.com/lyrics/kanebrown/goodasyou.html
 name: Good As You
@@ -87,8 +90,9 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '2019-07-20'
+release_year: 2019
+runtime: 202706
 ---
-
 See the way you're taking care of your momma
 The way you're taking care of me
 The way you light up any room girl
@@ -130,6 +134,3 @@ Never leave "I love you" left unsaid
 It might take a hundred lifetimes to do
 But baby, I just wanna be good as you
 Baby, I just wanna be good as you
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Tha Carter II
 artists:
 - Lil Wayne
+external_ids:
+  spotify: spotify:track:0aq7ohTG6VDYQvsnAYtA5e
 features: []
-genres: []
+first_released_as_single: false
 key: fireman-lil-wayne
 lyrics_url: https://www.azlyrics.com/lyrics/lilwayne/fireman.html
 name: Fireman
@@ -75,8 +78,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2006-03-11'
+release_year: 2005
+runtime: 263546
 ---
-
 Uh huh, I'm back what cha, uh whatcha gon do now?
 
 
@@ -167,6 +171,3 @@ I got that fire I'm hollering
 I got that fire come and try me and
 You can spark it up and I'ma put you out
 You can spark it up and I'ma put you out
-
-
-

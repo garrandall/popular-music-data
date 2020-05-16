@@ -1,8 +1,11 @@
 ---
+album: Concrete
 artists:
 - Sunny Sweeney
+external_ids:
+  spotify: spotify:track:6XVKfIPTK9C6ysfGFRz8Q5
 features: []
-genres: []
+first_released_as_single: true
 key: from-a-table-away-sunny-sweeney
 lyrics_url: https://www.azlyrics.com/lyrics/sunnysweeney/fromatableaway.html
 name: From A Table Away
@@ -55,8 +58,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2011-04-09'
+release_year: 2010
+runtime: 215733
 ---
-
 I bet you'd never guess who I saw tonight
 Guess you didn't see me in those low dim lights
 I knew who she was
@@ -94,6 +98,3 @@ I saw it all
 From a table away
 Yes you're gonna stay
 A table away
-
-
-

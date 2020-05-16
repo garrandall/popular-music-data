@@ -1,8 +1,11 @@
 ---
+album: Making Our Dreams Come True
 artists:
 - Cyndi Grecco
+external_ids:
+  spotify: spotify:track:4qNGhNFkGdDJ9m6WZrk242
 features: []
-genres: []
+first_released_as_single: false
 key: making-our-dreams-come-true-cyndi-grecco
 lyrics_url: https://genius.com/Cyndi-grecco-making-our-dreams-come-true-lyrics
 name: Making Our Dreams Come True
@@ -55,6 +58,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1976-07-24'
+release_year: 1976
+runtime: 148691
 ---
 We're gonna make it
 

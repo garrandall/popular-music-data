@@ -1,8 +1,11 @@
 ---
+album: Lullabies Of Birdland
 artists:
 - Ella Fitzgerald
+external_ids:
+  spotify: spotify:track:2cvztQuBIxwV38kg1Ydaww
 features: []
-genres: []
+first_released_as_single: false
 key: how-high-the-moon--part-1--ella-fitzgerald
 lyrics_url: https://genius.com/Ella-fitzgerald-how-high-the-moon-lyrics
 name: How High The Moon (Part 1)
@@ -27,6 +30,8 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1960-09-12'
+release_year: 1954
+runtime: 195426
 ---
 Somewhere there's music
 How faint the tune

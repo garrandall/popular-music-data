@@ -1,8 +1,11 @@
 ---
+album: The Other Side of the Mirror
 artists:
 - Stevie Nicks
+external_ids:
+  spotify: spotify:track:0QVlQTzp10Tj4Xql9ZRJzo
 features: []
-genres: []
+first_released_as_single: false
 key: rooms-on-fire-stevie-nicks
 lyrics_url: https://www.azlyrics.com/lyrics/stevienicks/roomsonfire.html
 name: Rooms On Fire
@@ -63,8 +66,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1989-08-05'
+release_year: 1989
+runtime: 274520
 ---
-
 Somewhere out in the back of your mind (Somewhere)
 Comes your real life and the life that you know
 It seems like it was the creation of some of those same old things
@@ -100,4 +104,3 @@ Well maybe I'm just thinking that the rooms are all on fire
 Everytime that you walk in the room
 Well there is magic all around you, if I do say so myself...
 Well I have known this much longer than I've known you...
-

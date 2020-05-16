@@ -1,8 +1,11 @@
 ---
+album: Windy City Workout
 artists:
 - Alvin Cash
+external_ids:
+  spotify: spotify:track:1aKI0LUYOvyUzvQLR3hES2
 features: []
-genres: []
+first_released_as_single: false
 key: keep-on-dancing-alvin-cash
 lyrics_url: https://genius.com/Alvin-cash-keep-on-dancing-lyrics
 name: Keep On Dancing
@@ -27,6 +30,8 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '1968-12-21'
+release_year: 1968
+runtime: 162866
 ---
 Oh, have mercy, baby
 

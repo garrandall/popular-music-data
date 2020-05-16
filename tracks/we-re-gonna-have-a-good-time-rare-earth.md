@@ -1,8 +1,11 @@
 ---
+album: Willie Remembers
 artists:
 - Rare Earth
+external_ids:
+  spotify: spotify:track:6otte2V1KCZEyZI8le9o6U
 features: []
-genres: []
+first_released_as_single: false
 key: we-re-gonna-have-a-good-time-rare-earth
 lyrics_url: https://www.azlyrics.com/lyrics/rareearth/weregonnahaveagoodtime.html
 name: We're Gonna Have A Good Time
@@ -19,8 +22,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1973-02-10'
+release_year: 1972
+runtime: 205626
 ---
-
 We're gonna have a good time
 Just listen to the band
 Groovin' with the music
@@ -92,6 +96,3 @@ We're gonna have a good time
 Said we're gonna have a good time
 We're gonna have a good time
 Gonna have a good, good, good time
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Plays More Golden Songs Of Love
 artists:
 - Roger Williams
+external_ids:
+  spotify: spotify:track:0VRBhWj4AlA4F5gitwGKnD
 features: []
-genres: []
+first_released_as_single: false
 key: love-me-forever-roger-williams
 name: Love Me Forever
 rankings:
@@ -26,5 +29,7 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '1967-06-03'
+release_year: 1967
+runtime: 154506
 ---
 

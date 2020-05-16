@@ -1,8 +1,11 @@
 ---
+album: Nick Jonas X2
 artists:
 - Nick Jonas
+external_ids:
+  spotify: spotify:track:3a8b0hgwISaxbfstBaXL7G
 features: []
-genres: []
+first_released_as_single: true
 key: levels-nick-jonas
 lyrics_url: https://www.azlyrics.com/lyrics/nickjonas/levelsalexghenearadioedit.html
 name: Levels
@@ -55,8 +58,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2015-11-28'
+release_year: 2015
+runtime: 215826
 ---
-
 Levels, levels, levels, levels
 
 Get on my elevator, baby we're going up
@@ -122,6 +126,3 @@ We can get higher
 There's levels to your love
 And I keep on climbing up
 (Levels)
-
-
-

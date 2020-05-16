@@ -1,8 +1,11 @@
 ---
+album: HIStory - PAST, PRESENT AND FUTURE - BOOK I
 artists:
 - Michael Jackson
+external_ids:
+  spotify: spotify:track:3AoeaZs8dFemFJr3JdzOL0
 features: []
-genres: []
+first_released_as_single: false
 key: you-are-not-alone-michael-jackson
 lyrics_url: https://genius.com/Michael-jackson-you-are-not-alone-lyrics
 name: You Are Not Alone
@@ -87,6 +90,8 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '1996-01-13'
+release_year: 1995
+runtime: 345600
 ---
 Another day has gone
 I'm still all alone

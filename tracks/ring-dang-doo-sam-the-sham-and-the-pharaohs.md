@@ -1,8 +1,11 @@
 ---
+album: The MGM Singles
 artists:
 - Sam The Sham and the Pharaohs
+external_ids:
+  spotify: spotify:track:0EPQxbqnJEDE0JIunJHgYf
 features: []
-genres: []
+first_released_as_single: false
 key: ring-dang-doo-sam-the-sham-and-the-pharaohs
 lyrics_url: https://genius.com/Sam-the-sham-and-the-pharaohs-ring-dang-doo-lyrics
 name: Ring Dang Doo
@@ -43,6 +46,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1965-12-04'
+release_year: 1965
+runtime: 145400
 ---
 Welllll!
 You can have your gold and your diamonds too

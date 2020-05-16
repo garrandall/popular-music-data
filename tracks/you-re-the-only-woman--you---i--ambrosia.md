@@ -1,8 +1,11 @@
 ---
+album: One Eighty
 artists:
 - Ambrosia
+external_ids:
+  spotify: spotify:track:11qmuUlW5q5diLiVSOlsSF
 features: []
-genres: []
+first_released_as_single: false
 key: you-re-the-only-woman--you---i--ambrosia
 lyrics_url: https://genius.com/Ambrosia-youre-the-only-woman-lyrics
 name: You're The Only Woman (You & I)
@@ -79,6 +82,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1980-11-08'
+release_year: 1980
+runtime: 262906
 ---
 Oh baby
 Say, now, you

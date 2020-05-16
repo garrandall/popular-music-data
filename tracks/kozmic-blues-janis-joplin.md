@@ -1,8 +1,11 @@
 ---
+album: I Got Dem Ol' Kozmic Blues Again Mama!
 artists:
 - Janis Joplin
+external_ids:
+  spotify: spotify:track:7eYYxblNEZKKeTT0HBQbXO
 features: []
-genres: []
+first_released_as_single: false
 key: kozmic-blues-janis-joplin
 lyrics_url: https://www.azlyrics.com/lyrics/janisjoplin/kozmicblues.html
 name: Kozmic Blues
@@ -43,8 +46,9 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '1970-01-03'
+release_year: 1969
+runtime: 261893
 ---
-
 Time keeps movin' on,
 Friends they turn away.
 I keep movin' on
@@ -117,6 +121,3 @@ Whoa,
 Whoa,
 Whoa,
 Whoa
-
-
-

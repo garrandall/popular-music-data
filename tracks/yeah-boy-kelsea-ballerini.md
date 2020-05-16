@@ -1,8 +1,11 @@
 ---
+album: The First Time
 artists:
 - Kelsea Ballerini
+external_ids:
+  spotify: spotify:track:2WaOQWSv0D1tZNxyLvnGAI
 features: []
-genres: []
+first_released_as_single: false
 key: yeah-boy-kelsea-ballerini
 lyrics_url: https://www.azlyrics.com/lyrics/kelseaballerini/yeahboy.html
 name: Yeah Boy
@@ -59,8 +62,9 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '2017-06-03'
+release_year: 2015
+runtime: 194413
 ---
-
 Captured my attention, make my heart stop and listen
 When you look my way
 Blue jeans and a ball cap, thinking that you're all that
@@ -152,6 +156,3 @@ I wanna sip a little wine with you
 Oh
 
 Yeah, boy
-
-
-

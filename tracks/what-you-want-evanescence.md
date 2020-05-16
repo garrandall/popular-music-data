@@ -1,8 +1,11 @@
 ---
+album: Evanescence
 artists:
 - Evanescence
+external_ids:
+  spotify: spotify:track:0uOo8xRtQ6okTZMR89ppVk
 features: []
-genres: []
+first_released_as_single: false
 key: what-you-want-evanescence
 lyrics_url: https://genius.com/Evanescence-what-you-want-lyrics
 name: What You Want
@@ -11,6 +14,8 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '2011-08-27'
+release_year: 2011
+runtime: 221360
 ---
 Do what you, what you want
 If you have a dream for better

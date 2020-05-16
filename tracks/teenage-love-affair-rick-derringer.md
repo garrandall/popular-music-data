@@ -1,8 +1,11 @@
 ---
+album: All American Boy
 artists:
 - Rick Derringer
+external_ids:
+  spotify: spotify:track:4zDb8AsEASOU8yobYNIixJ
 features: []
-genres: []
+first_released_as_single: false
 key: teenage-love-affair-rick-derringer
 lyrics_url: https://genius.com/Rick-derringer-teenage-love-affair-lyrics
 name: Teenage Love Affair
@@ -27,6 +30,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1974-05-25'
+release_year: 1973
+runtime: 200133
 ---
 I thought she noticed me when I saw her
 She seemed to check me out right away

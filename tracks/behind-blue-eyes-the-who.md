@@ -1,8 +1,11 @@
 ---
+album: Who's Next
 artists:
 - The Who
+external_ids:
+  spotify: spotify:track:0cKk8BKEi7zXbdrYdyqBP5
 features: []
-genres: []
+first_released_as_single: false
 key: behind-blue-eyes-the-who
 lyrics_url: https://genius.com/The-who-behind-blue-eyes-lyrics
 name: Behind Blue Eyes
@@ -51,6 +54,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1972-01-15'
+release_year: 1971
+runtime: 221426
 ---
 No one knows what it's like
 To be the bad man, to be the sad man

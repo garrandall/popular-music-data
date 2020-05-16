@@ -1,8 +1,11 @@
 ---
+album: Outlandos D'Amour (Remastered 2003)
 artists:
 - The Police
+external_ids:
+  spotify: spotify:track:3EYOJ48Et32uATr9ZmLnAo
 features: []
-genres: []
+first_released_as_single: false
 key: roxanne-the-police
 lyrics_url: https://genius.com/The-police-roxanne-lyrics
 name: Roxanne
@@ -59,6 +62,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1979-05-19'
+release_year: 1978
+runtime: 191946
 ---
 Ah ha ha ha
 

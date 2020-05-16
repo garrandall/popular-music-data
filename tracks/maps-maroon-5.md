@@ -1,8 +1,11 @@
 ---
+album: V
 artists:
 - Maroon 5
+external_ids:
+  spotify: spotify:track:4gbVRS8gloEluzf0GzDOFc
 features: []
-genres: []
+first_released_as_single: false
 key: maps-maroon-5
 lyrics_url: https://genius.com/Maroon-5-maps-lyrics
 name: Maps
@@ -95,6 +98,8 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '2014-11-29'
+release_year: 2014
+runtime: 189960
 ---
 I miss the taste of a sweeter life
 I miss the conversation

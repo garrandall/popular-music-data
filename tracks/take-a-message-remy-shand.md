@@ -1,8 +1,11 @@
 ---
+album: The Way I Feel
 artists:
 - Remy Shand
+external_ids:
+  spotify: spotify:track:0hJPZ0v8QxRwGIKiMGKE1G
 features: []
-genres: []
+first_released_as_single: false
 key: take-a-message-remy-shand
 lyrics_url: https://genius.com/Remy-shand-take-a-message-lyrics
 name: Take A Message
@@ -31,6 +34,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2002-06-01'
+release_year: 2002
+runtime: 243866
 ---
 How did she fall in love
 Tired and shaken up?

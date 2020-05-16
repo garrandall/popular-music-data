@@ -1,8 +1,11 @@
 ---
+album: Raw Like Sushi
 artists:
 - Neneh Cherry
+external_ids:
+  spotify: spotify:track:7wYlTznyA4pwedDSVZmSfC
 features: []
-genres: []
+first_released_as_single: false
 key: heart-neneh-cherry
 lyrics_url: https://www.azlyrics.com/lyrics/nenehcherry/heart.html
 name: Heart
@@ -39,8 +42,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1990-01-27'
+release_year: 1989
+runtime: 309200
 ---
-
 Out of control
 MMM - stick it where it hurts
 Girl, I'll be peeling you off the ceiling. That's right Hee Hee
@@ -98,6 +102,3 @@ Heart, heart you can't break my heart
 Hard, hard you think you're so hard
 If you meant what you did it wouldn't been half as bad
 But you did it in spite and that just isn't right
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Believe Acoustic
 artists:
 - Justin Bieber
+external_ids:
+  spotify: spotify:track:30Co9eN7JHPf1i2wEyVSMJ
 features: []
-genres: []
+first_released_as_single: false
 key: nothing-like-us-justin-bieber
 lyrics_url: https://genius.com/Justin-bieber-nothing-like-us-lyrics
 name: Nothing Like Us
@@ -15,6 +18,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2013-02-23'
+release_year: 2013
+runtime: 199800
 ---
 Lately I've been thinking, thinking 'bout what we had
 I know it was hard, it was all that we knew, yeah

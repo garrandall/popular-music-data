@@ -1,8 +1,11 @@
 ---
+album: Back To Back
 artists:
 - The Jets
+external_ids:
+  spotify: spotify:track:2sYLlZU3FuCF8SKNeIvdKA
 features: []
-genres: []
+first_released_as_single: false
 key: crush-on-you-the-jets
 lyrics_url: https://genius.com/The-jets-group-crush-on-you-lyrics
 name: Crush On You
@@ -87,6 +90,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1986-08-23'
+release_year: 1986
+runtime: 272493
 ---
 How did you know
 'Cause I never told

@@ -1,8 +1,11 @@
 ---
+album: A.M.
 artists:
 - Chris Young
+external_ids:
+  spotify: spotify:track:2j79NtwxoWDmkiH4MGwdLq
 features: []
-genres: []
+first_released_as_single: false
 key: lonely-eyes-chris-young
 lyrics_url: https://www.azlyrics.com/lyrics/chrisyoung/lonelyeyes.html
 name: Lonely Eyes
@@ -79,8 +82,9 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '2015-05-02'
+release_year: 2013
+runtime: 217413
 ---
-
 Tuesday night crowded bar
 Some guy lights a cheap cigar
 Bartender yells at him
@@ -130,6 +134,3 @@ And I think you'll see
 Those lonely eyes
 They don't have to be alone tonight
 Lonely Eyes, you don't have to be alone tonight
-
-
-

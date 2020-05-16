@@ -1,8 +1,11 @@
 ---
+album: 'GTTM: Goin Thru the Motions'
 artists:
 - PnB Rock
+external_ids:
+  spotify: spotify:track:3HTNVAGqm7Y6b45PgB1Rxv
 features: []
-genres: []
+first_released_as_single: true
 key: selfish-pnb-rock
 lyrics_url: https://www.azlyrics.com/lyrics/pnbrock/selfish.html
 name: Selfish
@@ -83,8 +86,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2017-04-01'
+release_year: 2016
+runtime: 245604
 ---
-
 Ohhhh
 Oh
 Oh, oh
@@ -188,6 +192,3 @@ Because I'm selfish yea
 I want you all to myself I swear
 You don't need nobody else
 I want you all to myself
-
-
-

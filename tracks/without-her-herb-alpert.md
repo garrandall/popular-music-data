@@ -1,8 +1,11 @@
 ---
+album: Warm
 artists:
 - Herb Alpert
+external_ids:
+  spotify: spotify:track:0C4aOuvj3YVUg4Lq98hfDb
 features: []
-genres: []
+first_released_as_single: false
 key: without-her-herb-alpert
 lyrics_url: https://genius.com/Herb-alpert-without-her-lyrics
 name: Without Her
@@ -31,6 +34,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1969-07-05'
+release_year: 1969
+runtime: 204293
 ---
 I spend the night in a chair
 Thinking she'll be there

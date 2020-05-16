@@ -1,8 +1,11 @@
 ---
+album: A Love Song
 artists:
 - Anne Murray
+external_ids:
+  spotify: spotify:track:7ucoZP0aopFf9UiJE3FyVB
 features: []
-genres: []
+first_released_as_single: false
 key: send-a-little-love-my-way-anne-murray
 lyrics_url: https://genius.com/Anne-murray-send-a-little-love-my-way-lyrics
 name: Send A Little Love My Way
@@ -35,6 +38,8 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1973-09-29'
+release_year: 1973
+runtime: 166840
 ---
 If I could be any tree in the ground
 I'd wanna be a tree where the birds hang around

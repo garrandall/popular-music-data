@@ -1,8 +1,11 @@
 ---
+album: Sooner Or Later
 artists:
 - BBMak
+external_ids:
+  spotify: spotify:track:5xHR6Eo11YoZjdkVtIwbb5
 features: []
-genres: []
+first_released_as_single: false
 key: still-on-your-side-bbmak
 lyrics_url: https://www.azlyrics.com/lyrics/bbmak/stillonyourside.html
 name: Still On Your Side
@@ -43,8 +46,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2001-02-24'
+release_year: 2000
+runtime: 230960
 ---
-
 I will stand up for you no matter what you are going through, 
 going through, going through 
 
@@ -89,6 +93,3 @@ I will be around when the others let you down
 I'm still on your side 
 Anytime you need help and you can't find nobody else 
 I'm still on your side
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Soulful Christmas
 artists:
 - James Brown
+external_ids:
+  spotify: spotify:track:0vnVUi5itNrsXpBa2HWq8A
 features: []
-genres: []
+first_released_as_single: false
 key: tit-for-tat--ain-t-no-taking-back--james-brown
 lyrics_url: https://genius.com/James-brown-tit-for-tat-aint-no-taking-back-lyrics
 name: Tit For Tat (Ain't No Taking Back)
@@ -23,6 +26,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1969-01-11'
+release_year: 1968
+runtime: 183892
 ---
 Everybody, have fun
 Everybody

@@ -1,8 +1,11 @@
 ---
+album: Whip My Hair
 artists:
 - WILLOW
+external_ids:
+  spotify: spotify:track:4Dio1t8RHzLv1nfPJTSZyP
 features: []
-genres: []
+first_released_as_single: true
 key: whip-my-hair-willow
 lyrics_url: https://www.musixmatch.com/lyrics/Willow-2/Whip-My-Hair
 name: Whip My Hair
@@ -79,6 +82,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2011-03-19'
+release_year: 2010
+runtime: 195440
 ---
 I whip my hair back and forth
 I whip my hair back and forth (just whip it)

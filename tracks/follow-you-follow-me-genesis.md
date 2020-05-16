@@ -1,8 +1,11 @@
 ---
+album: And Then There Were Three
 artists:
 - Genesis
+external_ids:
+  spotify: spotify:track:0rRRV71VjSd8cnNsoc5VLv
 features: []
-genres: []
+first_released_as_single: true
 key: follow-you-follow-me-genesis
 lyrics_url: https://genius.com/Genesis-follow-you-follow-me-lyrics
 name: Follow You Follow Me
@@ -71,6 +74,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1978-08-05'
+release_year: 1978
+runtime: 200026
 ---
 Stay with me
 My love, I hope you'll always be

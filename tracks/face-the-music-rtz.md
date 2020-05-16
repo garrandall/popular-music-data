@@ -1,8 +1,11 @@
 ---
+album: Return To Zero
 artists:
 - RTZ
+external_ids:
+  spotify: spotify:track:2F3ENbneNRsFZ0wpbpXLZF
 features: []
-genres: []
+first_released_as_single: false
 key: face-the-music-rtz
 lyrics_url: https://www.musixmatch.com/lyrics/RTZ/Face-the-Music
 name: Face The Music
@@ -47,6 +50,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1991-10-19'
+release_year: 1991
+runtime: 245906
 ---
 I can't blame you
 Nobody wants to be the fool

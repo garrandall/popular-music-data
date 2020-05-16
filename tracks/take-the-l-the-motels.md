@@ -1,8 +1,11 @@
 ---
+album: All Four One
 artists:
 - The Motels
+external_ids:
+  spotify: spotify:track:6rrhJqgWT2LsI8gdbmf7ib
 features: []
-genres: []
+first_released_as_single: false
 key: take-the-l-the-motels
 lyrics_url: https://genius.com/The-motels-take-the-l-lyrics
 name: Take The L
@@ -43,6 +46,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1982-10-30'
+release_year: 1982
+runtime: 222000
 ---
 Watching my head, holding my face
 One more evening gone to waste

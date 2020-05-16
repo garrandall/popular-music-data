@@ -1,8 +1,11 @@
 ---
+album: Huncho Jack, Jack Huncho
 artists:
 - Huncho Jack
+external_ids:
+  spotify: spotify:track:5vuiHi3QYbwcm1OKJOYnrf
 features: []
-genres: []
+first_released_as_single: false
 key: huncho-jack-huncho-jack
 lyrics_url: https://genius.com/Huncho-jack-huncho-jack-lyrics
 name: Huncho Jack
@@ -11,6 +14,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '2018-01-06'
+release_year: 2017
+runtime: 199227
 ---
 M-M-M-Murda
 

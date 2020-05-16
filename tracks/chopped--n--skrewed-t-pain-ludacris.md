@@ -1,9 +1,12 @@
 ---
+album: THR33 RINGZ
 artists:
 - T-Pain
+external_ids:
+  spotify: spotify:track:79MIzD8vsGu3Xqe07m8aS1
 features:
 - Ludacris
-genres: []
+first_released_as_single: false
 key: chopped--n--skrewed-t-pain-ludacris
 lyrics_url: https://genius.com/T-pain-chopped-n-skrewed-lyrics
 name: Chopped 'N' Skrewed
@@ -84,6 +87,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2009-03-07'
+release_year: 2008
+runtime: 261226
 ---
 Yayyy! Yeah-yeahhh
 Whoahhhhhhhh

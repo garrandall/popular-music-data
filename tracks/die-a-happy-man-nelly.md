@@ -1,8 +1,11 @@
 ---
+album: Die a Happy Man
 artists:
 - Nelly
+external_ids:
+  spotify: spotify:track:1mExCoXAGKI6abLGXoG7O3
 features: []
-genres: []
+first_released_as_single: true
 key: die-a-happy-man-nelly
 lyrics_url: https://www.azlyrics.com/lyrics/nelly/dieahappyman.html
 name: Die A Happy Man
@@ -11,8 +14,9 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '2016-02-27'
+release_year: 2016
+runtime: 214495
 ---
-
 Oh baby girl, last night
 Hands down
 One of the best nights
@@ -73,6 +77,3 @@ Yeah
 I could die, I could die a happy man
 I'd die a happy man, baby
 Yeah
-
-
-

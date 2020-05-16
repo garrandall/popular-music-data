@@ -1,8 +1,11 @@
 ---
+album: 'The Archies: Greatest Hits'
 artists:
 - The Archies
+external_ids:
+  spotify: spotify:track:6QPTsNePsXJBQmYLBIYnRQ
 features: []
-genres: []
+first_released_as_single: false
 key: sunshine-the-archies
 lyrics_url: https://genius.com/The-archies-sunshine-lyrics
 name: Sunshine
@@ -35,6 +38,8 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '1970-08-15'
+release_year: 1968
+runtime: 194320
 ---
 Hey, little girl
 Stand right there

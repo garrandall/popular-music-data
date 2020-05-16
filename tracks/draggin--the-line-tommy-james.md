@@ -1,8 +1,11 @@
 ---
+album: Christian Of The World
 artists:
 - Tommy James
+external_ids:
+  spotify: spotify:track:7yhDiIcvtA90uD1wh5E8d2
 features: []
-genres: []
+first_released_as_single: false
 key: draggin--the-line-tommy-james
 lyrics_url: https://www.azlyrics.com/lyrics/tommyjames/draggintheline.html
 name: Draggin' The Line
@@ -59,8 +62,9 @@ rankings:
   rank: 29
   ranking_list: Billboard Hot 100
   start_date: '1971-09-04'
+release_year: 1971
+runtime: 161826
 ---
-
 Makin' a livin' the old, hard way
 Takin' and givin' by day by day
 I dig snow and rain and the bright sunshine
@@ -98,6 +102,3 @@ Draggin' the line (Draggin' the line) (La-la la-la la-la la-la)
 Draggin' the line (Draggin' the line) (La-la la-la la-la la)
 Draggin' the line (Draggin' the line) (La-la la-la la-la la-la)
 Draggin' the line (Draggin' the line) (La-la la-la la-la la)
-
-
-

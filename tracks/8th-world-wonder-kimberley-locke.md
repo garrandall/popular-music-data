@@ -1,8 +1,11 @@
 ---
+album: One Love
 artists:
 - Kimberley Locke
+external_ids:
+  spotify: spotify:track:7B85EWtRlY8JGt2X4gicM6
 features: []
-genres: []
+first_released_as_single: true
 key: 8th-world-wonder-kimberley-locke
 lyrics_url: https://www.azlyrics.com/lyrics/kimberleylocke/8thworldwonder.html
 name: 8th World Wonder
@@ -87,8 +90,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2004-08-07'
+release_year: 2004
+runtime: 214493
 ---
-
 Woke up early this morning, made my coffee like I always do.
 Then it hit me from nowhere, everything I feel about me and you.
 The way you kiss me crazy, baby you're so amazing.
@@ -110,7 +114,4 @@ It's making me believe that you're the one for me.
 
 Seven days and seven nights of thunder,
 The waters rising and I'm slipping under.
-I think I fell in love with the 8th world wonder yeah 
-
-
-
+I think I fell in love with the 8th world wonder yeah

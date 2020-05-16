@@ -1,8 +1,11 @@
 ---
+album: Bad 25th Anniversary
 artists:
 - Michael Jackson
+external_ids:
+  spotify: spotify:track:5lWFrW5T3JtxVCLDb7etPu
 features: []
-genres: []
+first_released_as_single: false
 key: bad-michael-jackson
 lyrics_url: https://genius.com/Michael-jackson-bad-lyrics
 name: Bad
@@ -63,6 +66,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1987-12-19'
+release_year: 1987
+runtime: 247360
 ---
 Your butt is mine, gonna tell you right
 Just show your face in broad daylight

@@ -1,10 +1,13 @@
 ---
+album: NOT ALL HEROES WEAR CAPES
 artists:
 - Metro Boomin
+external_ids:
+  spotify: spotify:track:22ykS8KWpd2r4zcRZ0XMK5
 features:
 - Swae Lee
 - Travis Scott
-genres: []
+first_released_as_single: false
 key: dreamcatcher-metro-boomin-swae-lee-travis-scott
 lyrics_url: https://www.azlyrics.com/lyrics/metroboomin/dreamcatcher.html
 name: Dreamcatcher
@@ -13,8 +16,9 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '2018-11-17'
+release_year: 2018
+runtime: 211920
 ---
-
 When you come back in here, we gon' be like, ayy!
 Trust me, bitch, trust me
 
@@ -96,6 +100,3 @@ Do you see somethin' you like?
 I know what you're into
 I know what you're into
 I know what you're into
-
-
-

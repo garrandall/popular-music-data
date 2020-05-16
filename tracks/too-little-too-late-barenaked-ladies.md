@@ -1,8 +1,11 @@
 ---
+album: Maroon
 artists:
 - Barenaked Ladies
+external_ids:
+  spotify: spotify:track:7JUalHySYqNFmz1P3nfDyz
 features: []
-genres: []
+first_released_as_single: false
 key: too-little-too-late-barenaked-ladies
 lyrics_url: https://www.azlyrics.com/lyrics/barenakedladies/toolittletoolate.html
 name: Too Little Too Late
@@ -23,8 +26,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2001-04-28'
+release_year: 2000
+runtime: 203773
 ---
-
 You say, "Why does everything revolve around you?"
 You say, "Why does everything I do confound you?"
 You say that I pulled the world from under you,
@@ -59,6 +63,3 @@ Good, and I would -
 If I knew I was understood
 And it'll be great, just wait -
 Or is it too little too late?
-
-
-

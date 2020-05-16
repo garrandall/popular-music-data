@@ -1,8 +1,11 @@
 ---
+album: The Lonesome Jubilee
 artists:
 - John Mellencamp
+external_ids:
+  spotify: spotify:track:3fbVtEI5leNfYKvL7FxDz1
 features: []
-genres: []
+first_released_as_single: false
 key: paper-in-fire-john-mellencamp
 lyrics_url: https://genius.com/John-mellencamp-paper-in-fire-lyrics
 name: Paper In Fire
@@ -71,6 +74,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1987-11-28'
+release_year: 1987
+runtime: 231200
 ---
 She had a dream
 And boy it was a good one

@@ -1,8 +1,11 @@
 ---
+album: Hunter Hayes (Encore)
 artists:
 - Hunter Hayes
+external_ids:
+  spotify: spotify:track:0p1BcEcYVO3uk4KDf3gzkY
 features: []
-genres: []
+first_released_as_single: false
 key: wanted-hunter-hayes
 lyrics_url: https://genius.com/Hunter-hayes-wanted-lyrics
 name: Wanted
@@ -191,6 +194,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '2013-03-23'
+release_year: 2011
+runtime: 228840
 ---
 You know I'd fall apart without you
 I don't know how you do what you do

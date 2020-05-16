@@ -1,8 +1,11 @@
 ---
+album: Blue
 artists:
 - Third Eye Blind
+external_ids:
+  spotify: spotify:track:06iQLLK93Dlv7RcvzmZo2g
 features: []
-genres: []
+first_released_as_single: false
 key: deep-inside-of-you-third-eye-blind
 lyrics_url: https://www.azlyrics.com/lyrics/thirdeyeblind/deepinsideofyou.html
 name: Deep Inside Of You
@@ -55,8 +58,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2000-11-18'
+release_year: 1999
+runtime: 250533
 ---
-
 When we met light was shed 
 Thoughts free flow you said you've got something 
 Deep inside of you 
@@ -100,6 +104,3 @@ I've lost myself there's nothing left, it's all gone
 Deep inside of you 
 Deep inside of you 
 Deep inside of you
-
-
-

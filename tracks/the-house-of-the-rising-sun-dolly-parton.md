@@ -1,8 +1,11 @@
 ---
+album: 9 To 5 And Odd Jobs
 artists:
 - Dolly Parton
+external_ids:
+  spotify: spotify:track:6lyzUrhvbZIl8JU2iRKquL
 features: []
-genres: []
+first_released_as_single: false
 key: the-house-of-the-rising-sun-dolly-parton
 lyrics_url: https://www.azlyrics.com/lyrics/dollyparton/thehouseoftherisingsun.html
 name: The House Of The Rising Sun
@@ -23,8 +26,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1981-10-10'
+release_year: 1980
+runtime: 240306
 ---
-
 There is a house in New Orleans
 Down in the Vieux Carr'e
 A house they call the rising sun
@@ -52,6 +56,3 @@ They call the rising sun
 It's been the ruin of many a good girl
 And oh God, you know I'm one
 Oh God, you know I'm one
-
-
-

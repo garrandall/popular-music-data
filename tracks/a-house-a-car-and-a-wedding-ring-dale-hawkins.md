@@ -1,8 +1,11 @@
 ---
+album: Unforgettable
 artists:
 - Dale Hawkins
+external_ids:
+  spotify: spotify:track:7lZh0ZVppr0HH9t7k7wMqJ
 features: []
-genres: []
+first_released_as_single: false
 key: a-house-a-car-and-a-wedding-ring-dale-hawkins
 lyrics_url: https://www.musixmatch.com/lyrics/Dale-Hawkins/A-House-a-Car-and-a-Wedding-Ring
 name: A House A Car And A Wedding Ring
@@ -27,6 +30,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1958-12-15'
+release_year: 1958
+runtime: 131239
 ---
 Got a house and a car
 And a wedding ring

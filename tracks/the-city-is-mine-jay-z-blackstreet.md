@@ -1,9 +1,12 @@
 ---
+album: In My Lifetime Vol.1
 artists:
 - Jay-Z
+external_ids:
+  spotify: spotify:track:3qA9K2uI9v3lxq9ZFFtOmN
 features:
 - BLACKstreet
-genres: []
+first_released_as_single: false
 key: the-city-is-mine-jay-z-blackstreet
 lyrics_url: https://www.azlyrics.com/lyrics/jayz/thecityismine.html
 name: The City Is Mine
@@ -88,9 +91,9 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1998-06-13'
+release_year: 1997
+runtime: 242573
 ---
-
-
 Uh-uhh-uh, ge-ge-geyeah
 
 
@@ -165,4 +168,3 @@ From now until they blow holes in my frame
 I'ma stand firm, holdin my aim, feel me?
 I'm the focal, point like Biggie in his prime
 on the low though - shhhhh, the city is mine!
-

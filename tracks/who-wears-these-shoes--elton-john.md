@@ -1,8 +1,11 @@
 ---
+album: Breaking Hearts
 artists:
 - Elton John
+external_ids:
+  spotify: spotify:track:6mGOqiCzOhzG08qtFdoYHw
 features: []
-genres: []
+first_released_as_single: false
 key: who-wears-these-shoes--elton-john
 lyrics_url: https://www.azlyrics.com/lyrics/eltonjohn/whowearstheseshoes.html
 name: Who Wears These Shoes?
@@ -63,8 +66,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1984-12-08'
+release_year: 1984
+runtime: 243453
 ---
-
 There's a light on in your window
 There's a shadow on the street
 Two silhouettes tell me it's over
@@ -99,6 +103,3 @@ Oh and it's a chilling feeling
 When I can't see him
 What do I do
 When I face the two of you
-
-
-

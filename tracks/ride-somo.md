@@ -1,8 +1,11 @@
 ---
+album: SoMo
 artists:
 - SoMo
+external_ids:
+  spotify: spotify:track:1CI6YgwwNq3VfhgxPuEpE6
 features: []
-genres: []
+first_released_as_single: false
 key: ride-somo
 lyrics_url: https://genius.com/Somo-ride-lyrics
 name: Ride
@@ -67,6 +70,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2014-05-03'
+release_year: 2014
+runtime: 289133
 ---
 Yeah, yeah, yeah, yeah
 

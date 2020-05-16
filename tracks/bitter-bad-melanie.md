@@ -1,8 +1,11 @@
 ---
+album: Melanie at Carnegie Hall
 artists:
 - Melanie
+external_ids:
+  spotify: spotify:track:64X19N6Z5emaHrkSCLMjQ5
 features: []
-genres: []
+first_released_as_single: false
 key: bitter-bad-melanie
 lyrics_url: https://www.azlyrics.com/lyrics/melanie/bitterbad.html
 name: Bitter Bad
@@ -47,8 +50,9 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1973-04-21'
+release_year: 1973
+runtime: 183666
 ---
-
 It's bitter bad, heartsick sad
 When the one that you love has lost the feel for you
 If you do me wrong
@@ -76,6 +80,3 @@ When the one that you love has lost the feel for you
 When the one that you love has lost the feel for you
 When the one that you love don't love you anymore
 When the one that you love has lost the feel for you
-
-
-

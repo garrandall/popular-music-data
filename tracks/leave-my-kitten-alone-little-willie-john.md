@@ -1,8 +1,11 @@
 ---
+album: In Action!
 artists:
 - Little Willie John
+external_ids:
+  spotify: spotify:track:6UzdsQ8uKD6wSSeoui8Aos
 features: []
-genres: []
+first_released_as_single: false
 key: leave-my-kitten-alone-little-willie-john
 lyrics_url: https://www.musixmatch.com/lyrics/Little-Willie-John/Leave-My-Kitten-Alone
 name: Leave My Kitten Alone
@@ -67,6 +70,8 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1961-02-27'
+release_year: 1959
+runtime: 153739
 ---
 You better leave (meow) my kitten alone (meow, meow)
 You better leave (meow, meow) my kitten alone (meow, meow)
@@ -85,23 +90,16 @@ If you don't lee-ee-eave my kitten alone
 Yes, I love my little kitten
 Like you hounddogs love your bone
 
-(Instrumental & sax)
-
 Mr. Dog, I'm gonna hit you on the top a yo' head
 The *Batgirl's gonna miss you
 And you'll wish that you were dead
 
-If you don't lee-ee-eave my kitten alone
+If you don't leave my kitten alone
 Yes, I love my little kitten
 Like all you hounddogs love your bone
 
 Oh yeah
 You better leave
 You better leave
-FADES-
-You better lee-ee-ee-eave.
 
-Note:
-* Mr. Dog ('The Bathound) and *Batgirl, might refer to the comic characters from the 50's in Batman and Detective Comic Books.
-(Not sure, just guessing!)
-~
+You better leave.

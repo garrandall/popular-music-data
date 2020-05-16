@@ -1,8 +1,11 @@
 ---
+album: My Own Prison
 artists:
 - Creed
+external_ids:
+  spotify: spotify:track:35GwlKlVXgFCMF5uTp5r7P
 features: []
-genres: []
+first_released_as_single: false
 key: one-creed
 lyrics_url: https://genius.com/Creed-one-lyrics
 name: One
@@ -87,6 +90,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1999-07-10'
+release_year: 1997
+runtime: 302533
 ---
 Affirmative may be justified
 Take from one, give to another

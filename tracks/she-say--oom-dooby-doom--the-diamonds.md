@@ -1,8 +1,11 @@
 ---
+album: The Best Of The Diamonds
 artists:
 - The Diamonds
+external_ids:
+  spotify: spotify:track:5M7eKQC81c3xY1SBFQMox6
 features: []
-genres: []
+first_released_as_single: false
 key: she-say--oom-dooby-doom--the-diamonds
 lyrics_url: https://genius.com/The-diamonds-she-say-oom-dooby-doom-lyrics
 name: She Say (Oom Dooby Doom)
@@ -63,6 +66,8 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '1959-04-27'
+release_year: 1959
+runtime: 129106
 ---
 She say
 A oom dooby doom, dooby doom

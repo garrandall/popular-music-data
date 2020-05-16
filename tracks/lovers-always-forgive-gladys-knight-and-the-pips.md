@@ -1,8 +1,11 @@
 ---
+album: 'Gladys Knight & The Pips: Legends'
 artists:
 - Gladys Knight And The Pips
+external_ids:
+  spotify: spotify:track:4X3nSH052Ckqb6GugHIsyo
 features: []
-genres: []
+first_released_as_single: false
 key: lovers-always-forgive-gladys-knight-and-the-pips
 name: Lovers Always Forgive
 rankings:
@@ -26,5 +29,7 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1964-09-19'
+release_year: 1964
+runtime: 157666
 ---
 

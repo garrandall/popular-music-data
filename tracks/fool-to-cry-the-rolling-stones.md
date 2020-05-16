@@ -1,8 +1,11 @@
 ---
+album: Black And Blue (Remastered 2009)
 artists:
 - The Rolling Stones
+external_ids:
+  spotify: spotify:track:3T8dfE0azJUmXJA3QlmiZ5
 features: []
-genres: []
+first_released_as_single: false
 key: fool-to-cry-the-rolling-stones
 lyrics_url: https://genius.com/The-rolling-stones-fool-to-cry-lyrics
 name: Fool To Cry
@@ -43,6 +46,8 @@ rankings:
   rank: 21
   ranking_list: Billboard Hot 100
   start_date: '1976-06-19'
+release_year: 1976
+runtime: 305400
 ---
 When I come home, baby
 And I've been working all night long

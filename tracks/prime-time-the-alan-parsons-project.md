@@ -1,8 +1,11 @@
 ---
+album: Ammonia Avenue
 artists:
 - The Alan Parsons Project
+external_ids:
+  spotify: spotify:track:0Dem35MQEMka5Pt2Nvg3s1
 features: []
-genres: []
+first_released_as_single: false
 key: prime-time-the-alan-parsons-project
 lyrics_url: https://www.azlyrics.com/lyrics/alanparsonsproject/primetime.html
 name: Prime Time
@@ -51,8 +54,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1984-07-28'
+release_year: 1977
+runtime: 303400
 ---
-
 Well even the longest night won't last forever
 But too many hopes and dreams won't see the light
 And all of the plans I make won't come together
@@ -79,6 +83,3 @@ And it's a prime time, maybe the stars were right
 I had a premonition it's gonna be my turn tonight
 Gonna be my turn tonight
 Gonna be my turn tonight
-
-
-

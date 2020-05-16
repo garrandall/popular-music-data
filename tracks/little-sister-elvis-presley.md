@@ -1,8 +1,11 @@
 ---
+album: Elvis' Golden Records, Vol. 3
 artists:
 - Elvis Presley
+external_ids:
+  spotify: spotify:track:5jRnmQJAwBbtikNcvYbp3B
 features: []
-genres: []
+first_released_as_single: false
 key: little-sister-elvis-presley
 lyrics_url: https://genius.com/Elvis-presley-little-sister-lyrics
 name: Little Sister
@@ -59,6 +62,8 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '1961-11-13'
+release_year: 1961
+runtime: 151386
 ---
 Little sister, don't you
 Little sister, don't you

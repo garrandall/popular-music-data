@@ -1,8 +1,11 @@
 ---
+album: Greatest Hits
 artists:
 - Dr. Hook
+external_ids:
+  spotify: spotify:track:6ZnOQsOEWMhWNENR1HSClT
 features: []
-genres: []
+first_released_as_single: false
 key: better-love-next-time-dr--hook
 lyrics_url: https://genius.com/Dr-hook-better-love-next-time-lyrics
 name: Better Love Next Time
@@ -83,6 +86,8 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1980-02-16'
+release_year: 1979
+runtime: 180906
 ---
 I'm your friend you can talk to me
 I read your fate I see misery

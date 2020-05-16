@@ -1,8 +1,11 @@
 ---
+album: Breakdown
 artists:
 - Melissa Etheridge
+external_ids:
+  spotify: spotify:track:5vuLPGz5irIX7TAHsFKQcQ
 features: []
-genres: []
+first_released_as_single: false
 key: angels-would-fall-melissa-etheridge
 lyrics_url: https://www.azlyrics.com/lyrics/melissaetheridge/angelswouldfall.html
 name: Angels Would Fall
@@ -51,8 +54,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1999-11-27'
+release_year: 1999
+runtime: 279573
 ---
-
 The rope that's wrapped around me
 Is cutting through my skin
 And the doubts that have surrounded me 
@@ -94,6 +98,3 @@ I'll have to be a very good friend
 If I whisper they will know 
 I'll just turn around and go 
 You will never know my sin
-
-
-

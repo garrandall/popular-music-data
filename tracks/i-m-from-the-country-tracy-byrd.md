@@ -1,8 +1,11 @@
 ---
+album: I'm From The Country
 artists:
 - Tracy Byrd
+external_ids:
+  spotify: spotify:track:5Lwc3DTWzX6JaW2x2PZezt
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-from-the-country-tracy-byrd
 lyrics_url: https://genius.com/Tracy-byrd-im-from-the-country-lyrics
 name: I'm From The Country
@@ -79,6 +82,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1998-08-01'
+release_year: 1998
+runtime: 213973
 ---
 Way back up in the country, back in the hills
 Down in the hollows where the folks are real

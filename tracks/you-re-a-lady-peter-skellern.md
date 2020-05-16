@@ -1,8 +1,11 @@
 ---
+album: Oldies 101 (6CD)
 artists:
 - Peter Skellern
+external_ids:
+  spotify: spotify:track:19Wyf4hfbRKUO1svgHOxLC
 features: []
-genres: []
+first_released_as_single: false
 key: you-re-a-lady-peter-skellern
 lyrics_url: https://genius.com/Peter-skellern-youre-a-lady-lyrics
 name: You're A Lady
@@ -39,6 +42,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1973-01-13'
+release_year: 1972
+runtime: 274706
 ---
 Now the evening has come to a close
 And I've had my last dance with you

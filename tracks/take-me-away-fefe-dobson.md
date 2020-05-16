@@ -1,8 +1,11 @@
 ---
+album: Fefe Dobson
 artists:
 - Fefe Dobson
+external_ids:
+  spotify: spotify:track:2Cvdv8AWXuikxnLrMs5I13
 features: []
-genres: []
+first_released_as_single: false
 key: take-me-away-fefe-dobson
 lyrics_url: https://www.azlyrics.com/lyrics/fefedobson/takemeaway.html
 name: Take Me Away
@@ -31,8 +34,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2003-12-20'
+release_year: 2003
+runtime: 209706
 ---
-
 I...was waiting all my life to know you
 (all about you)
 And now...I'm staring in your eyes ocean blue
@@ -93,6 +97,3 @@ I will run with you wherever you go
 Don't be afraid
 Let's runaway and I will steer
 Into the sun, we will run.
-
-
-

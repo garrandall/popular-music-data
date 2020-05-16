@@ -1,9 +1,12 @@
 ---
+album: Right Place Right Time
 artists:
 - Olly Murs
+external_ids:
+  spotify: spotify:track:52VJwrmQflskeWoV0OmEEh
 features:
 - Chiddy Bang
-genres: []
+first_released_as_single: false
 key: heart-skips-a-beat-olly-murs-chiddy-bang
 lyrics_url: https://genius.com/Olly-murs-heart-skips-a-beat-remix-lyrics
 name: Heart Skips A Beat
@@ -16,6 +19,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2012-10-06'
+release_year: 2011
+runtime: 202093
 ---
 My heart skips-skips-skips-skips-skips-skips a beat
 Olly Murs, Chiddy Bang

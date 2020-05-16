@@ -1,8 +1,11 @@
 ---
+album: Gettin' Away With Murder
 artists:
 - Patti Austin
+external_ids:
+  spotify: spotify:track:0NnO1ZNWr35AEmN6R54C8h
 features: []
-genres: []
+first_released_as_single: false
 key: the-heat-of-heat-patti-austin
 lyrics_url: https://genius.com/Patti-austin-the-heat-of-heat-lyrics
 name: The Heat Of Heat
@@ -43,6 +46,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1986-06-28'
+release_year: 1985
+runtime: 289226
 ---
 In the heat of heat
 The heat is so hot

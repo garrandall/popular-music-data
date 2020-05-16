@@ -1,8 +1,11 @@
 ---
+album: Language of Love
 artists:
 - John D. Loudermilk
+external_ids:
+  spotify: spotify:track:1t4xcukIOdztApXm67avzA
 features: []
-genres: []
+first_released_as_single: false
 key: thou-shalt-not-steal-john-d--loudermilk
 name: Thou Shalt Not Steal
 rankings:
@@ -26,5 +29,7 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '1962-05-05'
+release_year: 1961
+runtime: 122226
 ---
 

@@ -1,8 +1,11 @@
 ---
+album: In Person at the Whiskey a Go Go
 artists:
 - Otis Redding
+external_ids:
+  spotify: spotify:track:62YYaU3RQgE7tIa77HSYwu
 features: []
-genres: []
+first_released_as_single: false
 key: papa-s-got-a-brand-new-bag-otis-redding
 lyrics_url: https://genius.com/Otis-redding-papas-got-a-brand-new-bag-lyrics
 name: Papa's Got A Brand New Bag
@@ -43,6 +46,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1969-01-25'
+release_year: 1968
+runtime: 149973
 ---
 Come here, sister
 Papa's in the thing

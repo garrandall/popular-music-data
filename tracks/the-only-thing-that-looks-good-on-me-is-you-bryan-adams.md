@@ -1,8 +1,11 @@
 ---
+album: 18 Til I Die
 artists:
 - Bryan Adams
+external_ids:
+  spotify: spotify:track:4XcNoJ4W4Qa4uuqxa2KRsm
 features: []
-genres: []
+first_released_as_single: false
 key: the-only-thing-that-looks-good-on-me-is-you-bryan-adams
 lyrics_url: https://www.azlyrics.com/lyrics/bryanadams/theonlythingthatlooksgoodonmeisyou.html
 name: The Only Thing That Looks Good On Me Is You
@@ -55,8 +58,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1996-08-10'
+release_year: 1996
+runtime: 217266
 ---
-
 I don't look good in no Armani Suits 
 No Gucci shoes - or designer boots 
 I've tried the latest lines from A to Z 
@@ -86,6 +90,3 @@ The only thing I want
 The only thing I need 
 The only thing I choose 
 The only thing that looks good on me...is you
-
-
-

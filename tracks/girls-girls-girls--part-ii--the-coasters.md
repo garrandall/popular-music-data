@@ -1,8 +1,11 @@
 ---
+album: Coast Along With The Coasters
 artists:
 - The Coasters
+external_ids:
+  spotify: spotify:track:4SPtuskN0gzxkXGhOU2ZIc
 features: []
-genres: []
+first_released_as_single: false
 key: girls-girls-girls--part-ii--the-coasters
 lyrics_url: https://genius.com/The-coasters-girls-girls-girls-lyrics
 name: Girls Girls Girls (Part II)
@@ -15,6 +18,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1961-08-21'
+release_year: 1961
+runtime: 130306
 ---
 Girls, girls, girls, girls, girls, girls
 Sitting on the buses (girls)

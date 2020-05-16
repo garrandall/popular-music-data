@@ -1,8 +1,11 @@
 ---
+album: Golden Oldies
 artists:
 - The Timetones
+external_ids:
+  spotify: spotify:track:1swNWmwncwVcXbFX72Klif
 features: []
-genres: []
+first_released_as_single: false
 key: in-my-heart-the-timetones
 lyrics_url: https://genius.com/The-timetones-in-my-heart-lyrics
 name: In My Heart
@@ -27,6 +30,8 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1961-06-05'
+release_year: 1961
+runtime: 152137
 ---
 Well here in my heart there's a story untold
 Of a girl I wanted for my own to have and to hold

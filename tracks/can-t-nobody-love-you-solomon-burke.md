@@ -1,8 +1,11 @@
 ---
+album: Rock 'N Soul
 artists:
 - Solomon Burke
+external_ids:
+  spotify: spotify:track:1ovGm2RHnWlTmbbtIxd2f8
 features: []
-genres: []
+first_released_as_single: false
 key: can-t-nobody-love-you-solomon-burke
 lyrics_url: https://genius.com/Solomon-burke-cant-nobody-love-you-lyrics
 name: Can't Nobody Love You
@@ -31,6 +34,8 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '1963-08-24'
+release_year: 1963
+runtime: 153960
 ---
 Can't nobody love you, baby
 Like I'm loving you right now

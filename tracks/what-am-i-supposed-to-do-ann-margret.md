@@ -1,8 +1,11 @@
 ---
+album: On the Way Up
 artists:
 - Ann-Margret
+external_ids:
+  spotify: spotify:track:0gP1oL18uDUPhwOW9ztEOm
 features: []
-genres: []
+first_released_as_single: false
 key: what-am-i-supposed-to-do-ann-margret
 lyrics_url: https://genius.com/Ann-margret-what-am-i-supposed-to-do-lyrics
 name: What Am I Supposed To Do
@@ -27,6 +30,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1962-04-21'
+release_year: 1962
+runtime: 167800
 ---
 What am I supposed to do
 With the love I have for you?

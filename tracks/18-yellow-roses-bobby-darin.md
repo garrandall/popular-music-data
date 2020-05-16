@@ -1,8 +1,11 @@
 ---
+album: The Legendary Bobby Darin
 artists:
 - Bobby Darin
+external_ids:
+  spotify: spotify:track:4oV06RtbavCRShDHtstmZB
 features: []
-genres: []
+first_released_as_single: false
 key: 18-yellow-roses-bobby-darin
 lyrics_url: https://www.azlyrics.com/lyrics/bobbydarin/18yellowroses.html
 name: 18 Yellow Roses
@@ -47,8 +50,9 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '1963-07-13'
+release_year: 1963
+runtime: 138200
 ---
-
 Eighteen yellow roses came today
 Eighteen yellow roses in a pretty bouquet
 When the boy came to the door
@@ -76,6 +80,3 @@ Cuz eighteen yellow roses
 Will wilt and die one day
 But a fathers love, will never fade away
 Will never fade away
-
-
-

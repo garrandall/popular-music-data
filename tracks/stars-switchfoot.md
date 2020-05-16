@@ -1,8 +1,11 @@
 ---
+album: Nothing Is Sound
 artists:
 - Switchfoot
+external_ids:
+  spotify: spotify:track:5DzQPujksVuzJbV4d8p0FA
 features: []
-genres: []
+first_released_as_single: true
 key: stars-switchfoot
 lyrics_url: https://www.azlyrics.com/lyrics/switchfoot/stars.html
 name: Stars
@@ -27,10 +30,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2005-11-19'
+release_year: 2005
+runtime: 239920
 ---
-
-
-
 Maybe I've been the problem, maybe I'm the one to blame
 But even when I turn it off and blame myself, the outcome feels the same
 I've been thinkin maybe I've been partly cloudy, maybe I'm the chance of rain
@@ -82,6 +84,3 @@ when I look at the stars I feel like myself
 
 When I look at the stars, the stars
 I see someone...
-
-
-

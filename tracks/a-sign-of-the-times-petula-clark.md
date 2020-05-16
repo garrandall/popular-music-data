@@ -1,8 +1,11 @@
 ---
+album: The Ultimate Petula Clark
 artists:
 - Petula Clark
+external_ids:
+  spotify: spotify:track:1SEHFXqilx4sH9Ss4ZkPff
 features: []
-genres: []
+first_released_as_single: false
 key: a-sign-of-the-times-petula-clark
 lyrics_url: https://www.azlyrics.com/lyrics/petulaclark/asignofthetimes.html
 name: A Sign Of The Times
@@ -39,8 +42,9 @@ rankings:
   rank: 36
   ranking_list: Billboard Hot 100
   start_date: '1966-05-14'
+release_year: 1966
+runtime: 174266
 ---
-
 It's a sign of the times
 That your love for me is getting so much stronger
 It's a sign of the times
@@ -93,6 +97,3 @@ It's a sign of the times
 It's a sign of the times
 It's a sign of the times
 It's a sign of the times
-
-
-

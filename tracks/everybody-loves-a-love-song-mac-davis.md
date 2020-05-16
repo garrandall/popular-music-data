@@ -1,8 +1,11 @@
 ---
+album: Baby Don't Get Hooked On Me
 artists:
 - Mac Davis
+external_ids:
+  spotify: spotify:track:3BmQL02PItbRsBL6j7VJc3
 features: []
-genres: []
+first_released_as_single: false
 key: everybody-loves-a-love-song-mac-davis
 lyrics_url: https://www.azlyrics.com/lyrics/macdavis/everybodylovesalovesong.html
 name: Everybody Loves A Love Song
@@ -35,8 +38,9 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1973-01-06'
+release_year: 1972
+runtime: 183360
 ---
-
 Sometimes it makes me dizzy
 Just like cherry wine
 Sometimes it makes me tremble
@@ -64,6 +68,3 @@ You know I do
 
 (Everybody loves a love song)
 (Everybody loves a love song)
-
-
-

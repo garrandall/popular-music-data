@@ -1,8 +1,11 @@
 ---
+album: Captain Fantastic And The Brown Dirt Cowboy
 artists:
 - Elton John
+external_ids:
+  spotify: spotify:track:0bLOiofyBB62YU2cNnONJG
 features: []
-genres: []
+first_released_as_single: false
 key: someone-saved-my-life-tonight-elton-john
 lyrics_url: https://genius.com/Elton-john-someone-saved-my-life-tonight-lyrics
 name: Someone Saved My Life Tonight
@@ -59,6 +62,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1975-09-27'
+release_year: 1975
+runtime: 404933
 ---
 When I think of those East End lights, muggy nights
 The curtains drawn in the little room downstairs

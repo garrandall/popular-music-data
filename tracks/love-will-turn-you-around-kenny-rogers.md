@@ -1,8 +1,11 @@
 ---
+album: Love Will Turn You Around
 artists:
 - Kenny Rogers
+external_ids:
+  spotify: spotify:track:1M2a5TNHqmr2zXZZcB7xTe
 features: []
-genres: []
+first_released_as_single: false
 key: love-will-turn-you-around-kenny-rogers
 lyrics_url: https://www.azlyrics.com/lyrics/kennyrogers/lovewillturnyouaround.html
 name: Love Will Turn You Around
@@ -75,8 +78,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1982-10-23'
+release_year: 1982
+runtime: 221193
 ---
-
 You can run
 You can hide
 Never let it inside
@@ -131,6 +135,3 @@ Turn you around
 Love will turn you around
 Turn you around
 Turn you around
-
-
-

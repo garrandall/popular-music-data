@@ -1,8 +1,11 @@
 ---
+album: Lose Control
 artists:
 - Silk
+external_ids:
+  spotify: spotify:track:0EcFzZUKTQysjIxMvAtemq
 features: []
-genres: []
+first_released_as_single: false
 key: girl-u-for-me-silk
 lyrics_url: https://genius.com/Silk-girl-u-for-me-lyrics
 name: Girl U For Me
@@ -87,6 +90,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1993-10-30'
+release_year: 1992
+runtime: 271440
 ---
 Just ask and I'll do (ask and I will do)
 I'll do it for you (I'll do it just for you)

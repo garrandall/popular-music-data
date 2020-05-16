@@ -1,8 +1,11 @@
 ---
+album: Karaoke - Classic Male Country - Vol. 17
 artists:
 - Sonny James
+external_ids:
+  spotify: spotify:track:4gZghdb6GPrpc8IgPRcaHm
 features: []
-genres: []
+first_released_as_single: false
 key: since-i-met-you-baby-sonny-james
 lyrics_url: https://www.musixmatch.com/lyrics/Sonny-James/Since-I-Met-You-Baby
 name: Since I Met You Baby
@@ -35,6 +38,8 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '1969-11-01'
+release_year: 1969
+runtime: 189521
 ---
 Since I met you baby
 My whole life has changed

@@ -1,8 +1,11 @@
 ---
+album: 'Greatest Hits: The Mercury Years'
 artists:
 - Brook Benton
+external_ids:
+  spotify: spotify:track:5Hcr7IkfNZ1FNmikY9MNly
 features: []
-genres: []
+first_released_as_single: false
 key: a-house-is-not-a-home-brook-benton
 lyrics_url: https://genius.com/Brook-benton-a-house-is-not-a-home-lyrics
 name: A House Is Not A Home
@@ -35,6 +38,8 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1964-08-29'
+release_year: 1964
+runtime: 181000
 ---
 A chair is still a chair
 Even when there's no one sitting there

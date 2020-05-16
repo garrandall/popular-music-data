@@ -1,8 +1,11 @@
 ---
+album: A Song For You
 artists:
 - Carpenters
+external_ids:
+  spotify: spotify:track:42CX3VhPsCG75BFp07r9Vj
 features: []
-genres: []
+first_released_as_single: false
 key: i-won-t-last-a-day-without-you-carpenters
 lyrics_url: https://genius.com/Carpenters-i-wont-last-a-day-without-you-lyrics
 name: I Won't Last A Day Without You
@@ -55,6 +58,8 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '1974-06-29'
+release_year: 1972
+runtime: 232533
 ---
 Day after day
 I must face a world of strangers

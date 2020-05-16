@@ -1,9 +1,12 @@
 ---
+album: Gee / Such a Good Night for Dreaming
 artists:
 - Jan
 - Dean
+external_ids:
+  spotify: spotify:track:2TqZC7BpPlwEHbMGWnjXf8
 features: []
-genres: []
+first_released_as_single: true
 key: gee-jan-dean
 lyrics_url: https://www.azlyrics.com/lyrics/jandean/gee.html
 name: Gee
@@ -28,8 +31,9 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1960-12-12'
+release_year: 1960
+runtime: 133026
 ---
-
 Da, da-da-da, da-da-da, da-da-da-la
 Da, da-da-da, da-da-da, da-da-da-la
 Da, da-da-da, da-da-da, da-da-da-la
@@ -73,6 +77,3 @@ Da
 Da, da-da-da, da-da-da, da-da-da-la
 Da, da-da-da, da-da-da, da-da-da-la
 Da, da-da-da, da-da-da
-
-
-

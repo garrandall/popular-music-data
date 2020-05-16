@@ -1,8 +1,11 @@
 ---
+album: Still Flexin, Still Steppin
 artists:
 - YoungBoy Never Broke Again
+external_ids:
+  spotify: spotify:track:0KVEBQA98JvkmB5ZydQ13k
 features: []
-genres: []
+first_released_as_single: false
 key: fine-by-time-youngboy-never-broke-again
 lyrics_url: https://genius.com/Youngboy-never-broke-again-fine-by-time-lyrics
 name: Fine By Time
@@ -11,6 +14,8 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '2020-03-07'
+release_year: 2020
+runtime: 175339
 ---
 This Vade on the keys
 It's YoungBoy, nigga, Lil Top, what up? Yeah

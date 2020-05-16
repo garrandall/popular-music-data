@@ -1,8 +1,11 @@
 ---
+album: The Pacific Age
 artists:
 - Orchestral Manoeuvres In The Dark
+external_ids:
+  spotify: spotify:track:7pFydJbDEToJHtvl6g579k
 features: []
-genres: []
+first_released_as_single: false
 key: -forever--live-and-die-orchestral-manoeuvres-in-the-dark
 lyrics_url: https://www.azlyrics.com/lyrics/orchestralmanoeuvresinthedark/foreverliveanddie.html
 name: (Forever) Live And Die
@@ -75,8 +78,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1987-01-17'
+release_year: 1986
+runtime: 218133
 ---
-
 I never wanted another
 Come over to me and discover
 How I want to be near you
@@ -108,4 +112,3 @@ I never knew, I never knew, I never knew why
 You make me wanna cry
 I never knew, I never knew, I never knew why
 Forever Live and Die
-

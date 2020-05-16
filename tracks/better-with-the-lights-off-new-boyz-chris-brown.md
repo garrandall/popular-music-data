@@ -1,9 +1,12 @@
 ---
+album: Too Cool To Care
 artists:
 - New Boyz
+external_ids:
+  spotify: spotify:track:3wCSVS7KM9CIIHrChpabQ3
 features:
 - Chris Brown
-genres: []
+first_released_as_single: false
 key: better-with-the-lights-off-new-boyz-chris-brown
 lyrics_url: https://genius.com/New-boyz-better-with-the-lights-off-lyrics
 name: Better With The Lights Off
@@ -84,6 +87,8 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '2011-11-19'
+release_year: 2011
+runtime: 219080
 ---
 It's the Cataracs
 

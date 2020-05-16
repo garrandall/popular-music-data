@@ -1,8 +1,11 @@
 ---
+album: EVERYTHING IS LOVE (Clean)
 artists:
 - The Carters
+external_ids:
+  spotify: spotify:track:4xlRayuMPAiu9Vcut1eABe
 features: []
-genres: []
+first_released_as_single: false
 key: friends-the-carters
 lyrics_url: https://genius.com/The-carters-friends-lyrics
 name: Friends
@@ -11,6 +14,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2018-06-30'
+release_year: 2018
+runtime: 344293
 ---
 My friends, real friends, better than your friends
 That's how we keep poppin' out that Benz, yeah

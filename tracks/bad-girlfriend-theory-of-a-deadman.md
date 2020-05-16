@@ -1,8 +1,11 @@
 ---
+album: Scars & Souvenirs
 artists:
 - Theory Of A Deadman
+external_ids:
+  spotify: spotify:track:5m7on0zpnmeAXy72ANrmfU
 features: []
-genres: []
+first_released_as_single: false
 key: bad-girlfriend-theory-of-a-deadman
 lyrics_url: https://www.azlyrics.com/lyrics/theoryofadeadman/badgirlfriend.html
 name: Bad Girlfriend
@@ -75,8 +78,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2009-02-07'
+release_year: 2008
+runtime: 205626
 ---
-
 My Girlfriend's a dick magnet My Girlfriend's gotta have it
 She's hot, can't stop, up on stage, doing shots, Tip the man he'll
 Ring the bell, get her drunk she'll scream like hell.
@@ -118,6 +122,3 @@ Ex-Miss Connolly!
 
 She's a bad, bad girlfriend.
 She's a bad, bad girlfriend.
-
-
-

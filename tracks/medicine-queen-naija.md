@@ -1,8 +1,11 @@
 ---
+album: Medicine
 artists:
 - Queen Naija
+external_ids:
+  spotify: spotify:track:4lFfMRH0YH4pW5gczTDbNC
 features: []
-genres: []
+first_released_as_single: true
 key: medicine-queen-naija
 lyrics_url: https://www.azlyrics.com/lyrics/queennaija/medicine.html
 name: Medicine
@@ -87,8 +90,9 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '2018-10-27'
+release_year: 2018
+runtime: 219135
 ---
-
 You tell me you love me
 But I ain't been feeling it lately
 You say you love keeping me fly but
@@ -159,6 +163,3 @@ So when I turn into a savage boy don't ask me why
 Ask me why
 Don't ask me why, yeah
 Give you a taste of your own medicine...
-
-
-

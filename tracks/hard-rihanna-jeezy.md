@@ -1,9 +1,12 @@
 ---
+album: Rated R
 artists:
 - Rihanna
+external_ids:
+  spotify: spotify:track:3YJkAQNEhmCZGLdmPsu6Ye
 features:
 - Jeezy
-genres: []
+first_released_as_single: false
 key: hard-rihanna-jeezy
 lyrics_url: https://www.azlyrics.com/lyrics/rihanna/hard.html
 name: Hard
@@ -88,8 +91,9 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '2010-04-17'
+release_year: 2009
+runtime: 250600
 ---
-
 Yeah, yeah, yeah (Yeah, yeah, yeah)
 Yeah, yeah, yeah (Ah yeah, yeah, yeah)
 Ah yeah, yeah, yeah (Ah yeah, yeah, yeah)
@@ -175,6 +179,3 @@ Ah yeah, yeah, yeah, I'm so hard
 So hard, so hard, so hard, so hard
 
 That I, I, I
-
-
-

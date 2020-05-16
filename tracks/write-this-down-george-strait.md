@@ -1,8 +1,11 @@
 ---
+album: Always Never The Same
 artists:
 - George Strait
+external_ids:
+  spotify: spotify:track:1TanmIWbaUj5NVwJ3k4XPd
 features: []
-genres: []
+first_released_as_single: false
 key: write-this-down-george-strait
 lyrics_url: https://genius.com/George-strait-write-this-down-lyrics
 name: Write This Down
@@ -87,6 +90,8 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '1999-09-04'
+release_year: 1999
+runtime: 219600
 ---
 I never saw the end in sight
 Fools are kind of blind

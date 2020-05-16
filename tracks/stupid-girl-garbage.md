@@ -1,8 +1,11 @@
 ---
+album: Garbage
 artists:
 - Garbage
+external_ids:
+  spotify: spotify:track:3fNf71Ktya4CYMqGM6eRud
 features: []
-genres: []
+first_released_as_single: false
 key: stupid-girl-garbage
 lyrics_url: https://genius.com/Garbage-stupid-girl-lyrics
 name: Stupid Girl
@@ -87,6 +90,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1996-12-07'
+release_year: 1995
+runtime: 258533
 ---
 You pretend you're high
 Pretend you're bored

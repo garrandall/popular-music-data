@@ -1,8 +1,11 @@
 ---
+album: 20/20
 artists:
 - The Beach Boys
+external_ids:
+  spotify: spotify:track:0vhCcrN8ULryq1KuEEYlm2
 features: []
-genres: []
+first_released_as_single: false
 key: do-it-again-the-beach-boys
 lyrics_url: https://genius.com/The-beach-boys-do-it-again-lyrics
 name: Do It Again
@@ -47,6 +50,8 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '1968-09-28'
+release_year: 1968
+runtime: 146373
 ---
 It's automatic when I
 Talk with old friends

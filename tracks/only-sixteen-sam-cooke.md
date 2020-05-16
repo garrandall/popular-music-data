@@ -1,8 +1,11 @@
 ---
+album: '30 Greatest Hits: Portrait of a Legend 1951-1964'
 artists:
 - Sam Cooke
+external_ids:
+  spotify: spotify:track:4ksfrsQSVrP0DYdMyMXYxN
 features: []
-genres: []
+first_released_as_single: false
 key: only-sixteen-sam-cooke
 lyrics_url: https://genius.com/Sam-cooke-only-sixteen-lyrics
 name: Only Sixteen
@@ -47,6 +50,8 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1959-08-10'
+release_year: 1959
+runtime: 123946
 ---
 She was only sixteen, only sixteen
 But I loved her so

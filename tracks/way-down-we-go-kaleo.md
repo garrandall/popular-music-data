@@ -1,8 +1,11 @@
 ---
+album: A/B
 artists:
 - KALEO
+external_ids:
+  spotify: spotify:track:1YA7YUyrxgSzf7IQDX1xcl
 features: []
-genres: []
+first_released_as_single: true
 key: way-down-we-go-kaleo
 lyrics_url: https://genius.com/Kaleo-way-down-we-go-lyrics
 name: Way Down We Go
@@ -39,6 +42,8 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '2017-03-04'
+release_year: 2015
+runtime: 208213
 ---
 Oh, father, tell me, do we get what we deserve?
 Oh, we get what we deserve
