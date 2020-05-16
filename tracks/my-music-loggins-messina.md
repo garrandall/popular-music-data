@@ -1,9 +1,12 @@
 ---
+album: Full Sail
 artists:
 - Loggins
 - Messina
+external_ids:
+  spotify: spotify:track:5871Of6ieAjfl6eMH0doXO
 features: []
-genres: []
+first_released_as_single: false
 key: my-music-loggins-messina
 lyrics_url: https://www.azlyrics.com/lyrics/logginsmessina/mymusic.html
 name: My Music
@@ -60,8 +63,9 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '1974-01-26'
+release_year: 1972
+runtime: 183226
 ---
-
 Do do do...
 
 Hey, little girl
@@ -117,6 +121,3 @@ Love my music
 Ain't no one gonna change my tune
 Don't you know that I love my music
 Ain't never gonna change my tune
-
-
-

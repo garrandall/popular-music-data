@@ -1,8 +1,11 @@
 ---
+album: Dancin' Undercover
 artists:
 - Ratt
+external_ids:
+  spotify: spotify:track:4kdy7pEmy9rvSUjTt5wFhV
 features: []
-genres: []
+first_released_as_single: false
 key: dance-ratt
 lyrics_url: https://www.azlyrics.com/lyrics/ratt/dance.html
 name: Dance
@@ -43,8 +46,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1987-04-18'
+release_year: 1986
+runtime: 261386
 ---
-
 Dance
 Dance
 Dance
@@ -134,6 +138,3 @@ Dance, dance
 
 We'll dance, dance, dance
 We'll dance, dance, dance
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Creedence Clearwater Revival
 artists:
 - Creedence Clearwater Revival
+external_ids:
+  spotify: spotify:track:6Jp0GuFxAYbTdre1uUPgaB
 features: []
-genres: []
+first_released_as_single: false
 key: suzie-q--part-one--creedence-clearwater-revival
 lyrics_url: https://www.musixmatch.com/lyrics/Creedence-Clearwater-Revival/Suzie-Q
 name: Suzie Q (Part One)
@@ -55,6 +58,8 @@ rankings:
   rank: 31
   ranking_list: Billboard Hot 100
   start_date: '1968-11-23'
+release_year: 1968
+runtime: 517159
 ---
 Oh, Suzie Q
 Oh, Suzie Q

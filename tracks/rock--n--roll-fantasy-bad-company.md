@@ -1,8 +1,11 @@
 ---
+album: Desolation Angels
 artists:
 - Bad Company
+external_ids:
+  spotify: spotify:track:71GMl3Q7U4JnrTqI9kfcoN
 features: []
-genres: []
+first_released_as_single: false
 key: rock--n--roll-fantasy-bad-company
 lyrics_url: https://www.azlyrics.com/lyrics/badcompany/rocknrollfantasy.html
 name: Rock 'n' Roll Fantasy
@@ -87,8 +90,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1979-07-28'
+release_year: 1979
+runtime: 197466
 ---
-
 Hey, yeah.
 Here come the jesters, one, two, three.
 It's all part of my fantasy,
@@ -123,6 +127,3 @@ It's all part of my rock 'n' roll fantasy.
 Its all part of my rock 'n' roll dream, yeah, yeah.
 Fantasy, yeah, yeah, yeah, yeah, yeah.
 Fantasy, yeah, yeah, yeah, yeah.
-
-
-

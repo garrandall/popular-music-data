@@ -1,8 +1,11 @@
 ---
+album: Life Goes On
 artists:
 - Donell Jones
+external_ids:
+  spotify: spotify:track:5QiTs0egWAq0k2O8HWKoEP
 features: []
-genres: []
+first_released_as_single: false
 key: you-know-that-i-love-you-donell-jones
 lyrics_url: https://genius.com/Donell-jones-you-know-that-i-love-you-lyrics
 name: You Know That I Love You
@@ -87,6 +90,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2002-09-07'
+release_year: 2002
+runtime: 260066
 ---
 Mmm, I really gotta know
 If you trust me, do you trust me now?

@@ -1,8 +1,11 @@
 ---
+album: Get Rich Or Die Tryin'- The Original Motion Picture Soundtrack
 artists:
 - 50 Cent
+external_ids:
+  spotify: spotify:track:7t67S1XHT4jU0GCkruG34R
 features: []
-genres: []
+first_released_as_single: false
 key: hustler-s-ambition-50-cent
 lyrics_url: https://www.azlyrics.com/lyrics/50cent/hustlersambition.html
 name: Hustler's Ambition
@@ -27,8 +30,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2005-12-03'
+release_year: 2005
+runtime: 237613
 ---
-
 (Like the fire needs the air)
 (I won't burn unless your there)
 
@@ -103,4 +107,3 @@ Hugh Hefner'll tell you he don't got shit on me
 The feds watch me, icey they can't stop me
 Racist, pointing at me look at the nigga ratchi
 Hello!
-

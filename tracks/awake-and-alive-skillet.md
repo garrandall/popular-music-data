@@ -1,8 +1,11 @@
 ---
+album: Awake
 artists:
 - Skillet
+external_ids:
+  spotify: spotify:track:0nkzd3yNniB767zSDDdLZ3
 features: []
-genres: []
+first_released_as_single: false
 key: awake-and-alive-skillet
 lyrics_url: https://www.azlyrics.com/lyrics/skillet/awakeandalive.html
 name: Awake And Alive
@@ -11,8 +14,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2009-09-12'
+release_year: 2009
+runtime: 209493
 ---
-
 I'm at war with the world and they
 Try to pull me into the dark
 I struggle to find my faith
@@ -76,6 +80,3 @@ Waking up waking up
 Waking up waking up
 Waking up waking up
 Waking up waking up
-
-
-

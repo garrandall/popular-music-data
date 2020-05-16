@@ -1,9 +1,12 @@
 ---
+album: Celebrate!
 artists:
 - Kool
 - The Gang
+external_ids:
+  spotify: spotify:track:0kxvCmLStAHSjfzeA5flcH
 features: []
-genres: []
+first_released_as_single: false
 key: jones-vs-jones-kool-the-gang
 lyrics_url: https://www.azlyrics.com/lyrics/koolthegang/jonesvsjones.html
 name: Jones Vs Jones
@@ -52,8 +55,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1981-07-25'
+release_year: 1980
+runtime: 256826
 ---
-
 We don't feel like talking
 There's nothing to be said
 I guess it's just confusion
@@ -132,6 +136,3 @@ I can't believe it
 Jones vs. Jones
 I just can't believe it, baby
 Goodbye baby
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Gratitude
 artists:
 - Earth, Wind & Fire
+external_ids:
+  spotify: spotify:track:6hsQO3hz648zS7t2QyUpfz
 features: []
-genres: []
+first_released_as_single: false
 key: can-t-hide-love-earth-wind-fire
 lyrics_url: https://genius.com/Earth-wind-and-fire-cant-hide-love-lyrics
 name: Can't Hide Love
@@ -43,6 +46,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1976-05-22'
+release_year: 1975
+runtime: 250586
 ---
 You want my love and you can't deny
 You know it's true, but you try to hide, yeah

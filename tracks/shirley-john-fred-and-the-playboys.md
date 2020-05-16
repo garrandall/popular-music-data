@@ -1,8 +1,11 @@
 ---
+album: Shirley
 artists:
 - John Fred And The Playboys
+external_ids:
+  spotify: spotify:track:5szXUiB2tGYd3yhf5eTvCF
 features: []
-genres: []
+first_released_as_single: true
 key: shirley-john-fred-and-the-playboys
 name: Shirley
 rankings:
@@ -26,5 +29,7 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1959-03-23'
+release_year: 1959
+runtime: 116267
 ---
 

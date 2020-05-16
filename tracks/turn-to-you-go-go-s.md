@@ -1,8 +1,11 @@
 ---
+album: Talk Show
 artists:
 - Go-Go's
+external_ids:
+  spotify: spotify:track:4y8RO3ws5u1eEdqHM1z5QP
 features: []
-genres: []
+first_released_as_single: false
 key: turn-to-you-go-go-s
 lyrics_url: https://genius.com/The-go-gos-turn-to-you-lyrics
 name: Turn To You
@@ -63,6 +66,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1984-09-15'
+release_year: 1984
+runtime: 231693
 ---
 You act so tough
 But I know what you're doing

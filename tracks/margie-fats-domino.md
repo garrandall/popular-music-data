@@ -1,8 +1,11 @@
 ---
+album: Sentimental Journey (Live at the University of New Orleans)
 artists:
 - Fats Domino
+external_ids:
+  spotify: spotify:track:6F1rjNHxwE9GAfN9hHCWSc
 features: []
-genres: []
+first_released_as_single: false
 key: margie-fats-domino
 lyrics_url: https://genius.com/Fats-domino-margie-lyrics
 name: Margie
@@ -39,6 +42,8 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1959-06-29'
+release_year: 1959
+runtime: 125586
 ---
 My little Margie
 I'm always thinking of you, Margie

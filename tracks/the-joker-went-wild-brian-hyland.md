@@ -1,8 +1,11 @@
 ---
+album: The Joker Went Wild / Run Run Look And See
 artists:
 - Brian Hyland
+external_ids:
+  spotify: spotify:track:4kV6opXYLOjYswb9G9liIp
 features: []
-genres: []
+first_released_as_single: false
 key: the-joker-went-wild-brian-hyland
 lyrics_url: https://www.musixmatch.com/lyrics/Brian-Hyland/The-Joker-Went-Wild
 name: The Joker Went Wild
@@ -51,6 +54,8 @@ rankings:
   rank: 34
   ranking_list: Billboard Hot 100
   start_date: '1966-09-24'
+release_year: 1966
+runtime: 164400
 ---
 Once I was a king, I thought always a king
 'Cause I just captured someone's heart

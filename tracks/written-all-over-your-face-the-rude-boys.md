@@ -1,8 +1,11 @@
 ---
+album: Kickback R'N'B Mode
 artists:
 - The Rude Boys
+external_ids:
+  spotify: spotify:track:3gk0lATx6SBRaJi1ZkBbc8
 features: []
-genres: []
+first_released_as_single: false
 key: written-all-over-your-face-the-rude-boys
 lyrics_url: https://genius.com/Rude-boys-written-all-over-your-face-lyrics
 name: Written All Over Your Face
@@ -79,6 +82,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1991-07-06'
+release_year: 1991
+runtime: 381040
 ---
 It's written all over your face
 You don't have to say a word

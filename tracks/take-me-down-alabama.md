@@ -1,8 +1,11 @@
 ---
+album: 'Livin'' Lovin'' Rockin'' Rollin'': The 25th Anniversary Collection'
 artists:
 - Alabama
+external_ids:
+  spotify: spotify:track:0vF93CIaoyM4g4R5KofEUw
 features: []
-genres: []
+first_released_as_single: false
 key: take-me-down-alabama
 lyrics_url: https://www.musixmatch.com/lyrics/Alabama/Take-Me-Down
 name: Take Me Down
@@ -59,6 +62,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1982-08-14'
+release_year: 1980
+runtime: 293133
 ---
 Fly away with me tonight
 Take me on a one-way flight in your lovin' arms

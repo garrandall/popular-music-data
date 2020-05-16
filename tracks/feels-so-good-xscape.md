@@ -1,8 +1,11 @@
 ---
+album: Off The Hook
 artists:
 - Xscape
+external_ids:
+  spotify: spotify:track:0b0vpt8e3AkV3GG8HoUEJm
 features: []
-genres: []
+first_released_as_single: false
 key: feels-so-good-xscape
 lyrics_url: https://www.azlyrics.com/lyrics/xscape/feelssogood.html
 name: Feels So Good
@@ -79,9 +82,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1995-10-21'
+release_year: 1995
+runtime: 212040
 ---
-
-
 Yo, it's Xscape,
 For the nine-five,
 And you know how they do,
@@ -127,4 +130,3 @@ He makes me...
 
 
 This is for those that like to pop the trunk and let it bump, b-bump.
-

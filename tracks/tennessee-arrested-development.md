@@ -1,8 +1,11 @@
 ---
+album: 3 Years, 5 Months And 2 Days In The Life Of...
 artists:
 - Arrested Development
+external_ids:
+  spotify: spotify:track:1aaoIHFT9UqhlaEwLAhh00
 features: []
-genres: []
+first_released_as_single: false
 key: tennessee-arrested-development
 lyrics_url: https://genius.com/Arrested-development-tennessee-lyrics
 name: Tennessee
@@ -95,6 +98,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1992-09-05'
+release_year: 1992
+runtime: 272706
 ---
 Lord I've really been real stressed
 Down and out, losing ground

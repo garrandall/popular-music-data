@@ -1,8 +1,11 @@
 ---
+album: You're My Man
 artists:
 - Lynn Anderson
+external_ids:
+  spotify: spotify:track:4hxcft7fKI2mQv4CvjSBka
 features: []
-genres: []
+first_released_as_single: false
 key: cry-lynn-anderson
 lyrics_url: https://genius.com/Lynn-anderson-cry-lyrics
 name: Cry
@@ -27,6 +30,8 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '1972-02-26'
+release_year: 1966
+runtime: 147133
 ---
 If your sweetheart sends a letter of goodbye it's no secret you feel better if you cry
 When waking from a bad dream don't you sometimes think it's real

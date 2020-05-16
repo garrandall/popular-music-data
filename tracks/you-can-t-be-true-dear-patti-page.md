@@ -1,8 +1,11 @@
 ---
+album: The Complete Columbia Singles (1962-1970)
 artists:
 - Patti Page
+external_ids:
+  spotify: spotify:track:1TeO5FsAnM9F6XOzJyImBG
 features: []
-genres: []
+first_released_as_single: false
 key: you-can-t-be-true-dear-patti-page
 lyrics_url: https://www.musixmatch.com/lyrics/Patti-Page/You-Can-t-Be-True-Dear
 name: You Can't Be True Dear
@@ -15,6 +18,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1965-09-18'
+release_year: 1965
+runtime: 137146
 ---
 You can't be true dear
 There's nothing more to say

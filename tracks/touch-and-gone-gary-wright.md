@@ -1,8 +1,11 @@
 ---
+album: Touch And Gone
 artists:
 - Gary Wright
+external_ids:
+  spotify: spotify:track:2q3LuI5doJd3OmTkUnQ13W
 features: []
-genres: []
+first_released_as_single: false
 key: touch-and-gone-gary-wright
 lyrics_url: https://www.azlyrics.com/lyrics/garywright/touchandgone.html
 name: Touch And Gone
@@ -19,8 +22,9 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '1978-02-04'
+release_year: 1978
+runtime: 236026
 ---
-
 Love as always such an illusion
 It brought me so much misery and pain
 I was staying in a state of confusion
@@ -83,6 +87,3 @@ And the feeling keeps on coming on
 
 Touch and gone
 Touch and gone
-
-
-

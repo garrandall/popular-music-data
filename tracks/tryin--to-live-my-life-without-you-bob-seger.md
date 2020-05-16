@@ -1,8 +1,11 @@
 ---
+album: Nine Tonight
 artists:
 - Bob Seger
+external_ids:
+  spotify: spotify:track:30XMQl7w3JozUbN6JVpk2Q
 features: []
-genres: []
+first_released_as_single: false
 key: tryin--to-live-my-life-without-you-bob-seger
 lyrics_url: https://www.azlyrics.com/lyrics/bobseger/tryintolivemylifewithoutyou.html
 name: Tryin' To Live My Life Without You
@@ -83,8 +86,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1982-01-16'
+release_year: 1981
+runtime: 240106
 ---
-
 I used to smoke five packs of cigarettes a day
 It was the hardest thing to put them away
 I drank four or five bottles of wine
@@ -112,6 +116,3 @@ Tryin' to live my life without you babe
 It's the hardest thing I'll ever do
 Tryin' to forget the love we once shared
 It's the hardest burden I'll ever bear
-
-
-

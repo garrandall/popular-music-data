@@ -1,8 +1,11 @@
 ---
+album: Foul Play
 artists:
 - Barry Manilow
+external_ids:
+  spotify: spotify:track:3Y6cMcPEOylYZKQGgrjblU
 features: []
-genres: []
+first_released_as_single: false
 key: ready-to-take-a-chance-again-barry-manilow
 lyrics_url: https://www.azlyrics.com/lyrics/barrymanilow/readytotakeachanceagain.html
 name: Ready To Take A Chance Again
@@ -71,8 +74,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1978-12-30'
+release_year: 1973
+runtime: 184906
 ---
-
 You remind me I live in a shell,
 Safe from the past,
 and doing' okay,
@@ -94,6 +98,3 @@ Then I found you there.
 And I'm Ready To Take A Chance Again
 Ready To Take A Chance Again with you,
 With you.
-
-
-

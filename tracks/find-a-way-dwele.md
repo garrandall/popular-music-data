@@ -1,8 +1,11 @@
 ---
+album: Subject
 artists:
 - Dwele
+external_ids:
+  spotify: spotify:track:3TkNsftUBh8dwwLUHpmYNC
 features: []
-genres: []
+first_released_as_single: false
 key: find-a-way-dwele
 lyrics_url: https://www.azlyrics.com/lyrics/dwele/findaway.html
 name: Find A Way
@@ -55,8 +58,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2003-12-06'
+release_year: 2003
+runtime: 249573
 ---
-
 It used to be that we would be the best of all friends
 It turned to be l-o-v-e and I was your man
 So, you where my lady friend, we'd spen time
@@ -95,4 +99,3 @@ Baby, let's try again to find our love
 I can't forget, the times we shared
 Didn't know love until love was gone
 Til' I moved on and now I'm right back to square one again
-

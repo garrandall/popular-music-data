@@ -1,8 +1,11 @@
 ---
+album: Ain't No Other
 artists:
 - MC Lyte
+external_ids:
+  spotify: spotify:track:5BC50dLe7dZKVc3gPvJRx9
 features: []
-genres: []
+first_released_as_single: false
 key: ruffneck-mc-lyte
 lyrics_url: https://www.azlyrics.com/lyrics/mclyte/ruffneck.html
 name: Ruffneck
@@ -87,9 +90,9 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1993-11-27'
+release_year: 1993
+runtime: 237266
 ---
-
-
 Gotta what yo
 Gotta get a ruffneck
 
@@ -149,4 +152,3 @@ Pissin' in corners
 Doing 80 by funeral mourners
 Showing little respect
 Now that's a ruffneck
-

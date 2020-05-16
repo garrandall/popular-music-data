@@ -1,8 +1,11 @@
 ---
+album: The Chiffons Absolutely The Best!
 artists:
 - The Chiffons
+external_ids:
+  spotify: spotify:track:39woPeTxfi48gt4qJqXIoV
 features: []
-genres: []
+first_released_as_single: false
 key: i-have-a-boyfriend-the-chiffons
 lyrics_url: https://www.azlyrics.com/lyrics/chiffons/ihaveaboyfriend.html
 name: I Have A Boyfriend
@@ -47,8 +50,9 @@ rankings:
   rank: 52
   ranking_list: Billboard Hot 100
   start_date: '1964-01-18'
+release_year: 1963
+runtime: 125840
 ---
-
 (Boom-sh-boom)
 (Boom-sh-boom)
 (Boom-sh-boom)
@@ -101,6 +105,3 @@ Oh-oh, I'm so glad I have a boyfriend
 I have a boyfriend
 Whoa-oh-oh-oh-oh, whoa-oh-oh-oh
 I have a boyfriend, yeah, I do
-
-
-

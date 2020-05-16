@@ -1,8 +1,11 @@
 ---
+album: The Time Has Come
 artists:
 - The Chambers Brothers
+external_ids:
+  spotify: spotify:track:6E1MuzutdHHkJv3KX6gf54
 features: []
-genres: []
+first_released_as_single: false
 key: time-has-come-today-the-chambers-brothers
 lyrics_url: https://genius.com/The-chambers-brothers-time-has-come-today-lyrics
 name: Time Has Come Today
@@ -63,6 +66,8 @@ rankings:
   rank: 30
   ranking_list: Billboard Hot 100
   start_date: '1968-11-09'
+release_year: 1966
+runtime: 661866
 ---
 Time has come today
 Young hearts can go their way

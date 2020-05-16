@@ -1,8 +1,11 @@
 ---
+album: White Witch
 artists:
 - Andrea True Connection
+external_ids:
+  spotify: spotify:track:0DFb31DLTYkgkNDJSqlPDH
 features: []
-genres: []
+first_released_as_single: true
 key: what-s-your-name-what-s-your-number-andrea-true-connection
 lyrics_url: https://www.azlyrics.com/lyrics/andreatrueconnection/whatsyournamewhatsyournumber.html
 name: What's Your Name What's Your Number
@@ -35,8 +38,9 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '1978-02-25'
+release_year: 1978
+runtime: 243160
 ---
-
 I've got to find out, I've got to find out
 
 I went dancin' at the disco last night
@@ -68,6 +72,3 @@ What's your name, what's your number
 What's your name, what's your number
 What's your name, what's your number
 I've got to find out, I've got to find out
-
-
-

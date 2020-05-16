@@ -1,9 +1,12 @@
 ---
+album: Soul and R&b Jams!
 artists:
 - Peggy Scott
 - Jo Jo Benson
+external_ids:
+  spotify: spotify:track:5qHiadntr66sUYsCP02rjB
 features: []
-genres: []
+first_released_as_single: false
 key: lover-s-holiday-peggy-scott-jo-jo-benson
 lyrics_url: https://www.musixmatch.com/lyrics/Peggy-Scott-Jo-Jo-Benson/Lover-s-Holiday
 name: Lover's Holiday
@@ -56,6 +59,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1968-08-24'
+release_year: 1968
+runtime: 171066
 ---
 Love
 Is quite a feeling

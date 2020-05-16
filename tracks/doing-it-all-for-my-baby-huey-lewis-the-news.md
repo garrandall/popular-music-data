@@ -1,8 +1,11 @@
 ---
+album: Fore!
 artists:
 - Huey Lewis & The News
+external_ids:
+  spotify: spotify:track:4c6KvhVNtJSCgNV6HfFhln
 features: []
-genres: []
+first_released_as_single: false
 key: doing-it-all-for-my-baby-huey-lewis-the-news
 lyrics_url: https://www.azlyrics.com/lyrics/hueylewisthenews/doingitallformybaby.html
 name: Doing It All For My Baby
@@ -71,8 +74,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1987-10-31'
+release_year: 1986
+runtime: 219866
 ---
-
 Early in the morning, I'm still in bed
 She comes to me with sweet affection
 Wakes me with kisses, "Hello sleepyhead."
@@ -96,6 +100,3 @@ Doing it all for my baby
 Because she's as fine as she can be
 Doing it all for my baby
 For everything she does for me
-
-
-

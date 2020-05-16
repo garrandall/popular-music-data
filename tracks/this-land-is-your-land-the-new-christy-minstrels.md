@@ -1,8 +1,11 @@
 ---
+album: 'On the Far Side of the Hill: A Retrospective 1962-1970'
 artists:
 - The New Christy Minstrels
+external_ids:
+  spotify: spotify:track:1v1vy9wS7LoRYAyBE67rEZ
 features: []
-genres: []
+first_released_as_single: false
 key: this-land-is-your-land-the-new-christy-minstrels
 lyrics_url: https://www.musixmatch.com/lyrics/The-New-Christy-Minstrels/This-Land-Is-Your-Land
 name: This Land Is Your Land
@@ -11,6 +14,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1962-12-01'
+release_year: 1962
+runtime: 135773
 ---
 This land is your land, this land is my land
 From the California to the New York island

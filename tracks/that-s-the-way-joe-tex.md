@@ -1,8 +1,11 @@
 ---
+album: The Very Best of, Volume 2.
 artists:
 - Joe Tex
+external_ids:
+  spotify: spotify:track:60N1VHlOm2nR24bN1DVGU2
 features: []
-genres: []
+first_released_as_single: false
 key: that-s-the-way-joe-tex
 name: That's The Way
 rankings:
@@ -18,5 +21,7 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1969-08-02'
+release_year: 1969
+runtime: 230373
 ---
 

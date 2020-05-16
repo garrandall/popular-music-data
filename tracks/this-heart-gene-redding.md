@@ -1,8 +1,11 @@
 ---
+album: Lost Hits Of The 70's
 artists:
 - Gene Redding
+external_ids:
+  spotify: spotify:track:0MfmjZR6t7imRWqYv6WggU
 features: []
-genres: []
+first_released_as_single: false
 key: this-heart-gene-redding
 lyrics_url: https://www.musixmatch.com/lyrics/Gene-Redding/This-Heart
 name: This Heart
@@ -71,6 +74,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1974-08-17'
+release_year: 1974
+runtime: 209351
 ---
 Yours are the lips that
 Are tempting mine, oh, baby

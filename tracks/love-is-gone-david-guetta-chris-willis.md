@@ -1,9 +1,12 @@
 ---
+album: Pop Life
 artists:
 - David Guetta
 - Chris Willis
+external_ids:
+  spotify: spotify:track:2MGRnjJc7C0z3EOEWRqcMw
 features: []
-genres: []
+first_released_as_single: false
 key: love-is-gone-david-guetta-chris-willis
 lyrics_url: https://www.azlyrics.com/lyrics/davidguetta/loveisgone.html
 name: Love Is Gone
@@ -12,8 +15,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2008-06-14'
+release_year: 2007
+runtime: 199386
 ---
-
 Now that the love is gone
 
 What are we supposed to do
@@ -69,6 +73,3 @@ Can't find the reason to keep holding on
 Now that the love is gone, love is gone
 
 Love is gone
-
-
-

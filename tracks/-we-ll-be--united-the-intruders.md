@@ -1,8 +1,11 @@
 ---
+album: Cowboys To Girls (Live)
 artists:
 - The Intruders
+external_ids:
+  spotify: spotify:track:1ldikvb9oHHtGUTaZz9XW2
 features: []
-genres: []
+first_released_as_single: false
 key: -we-ll-be--united-the-intruders
 lyrics_url: https://www.musixmatch.com/lyrics/The-Intruders/We-ll-Be-United
 name: (We'll Be) United
@@ -31,6 +34,8 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1966-08-20'
+release_year: 1964
+runtime: 171133
 ---
 (United, united)
 Whoa, oh, oh

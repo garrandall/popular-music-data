@@ -1,8 +1,11 @@
 ---
+album: Faster Than the Speed of Night
 artists:
 - Bonnie Tyler
+external_ids:
+  spotify: spotify:track:4tYAoqOQLxksYHuDqDvWRq
 features: []
-genres: []
+first_released_as_single: false
 key: total-eclipse-of-the-heart-bonnie-tyler
 lyrics_url: https://genius.com/Bonnie-tyler-total-eclipse-of-the-heart-lyrics
 name: Total Eclipse Of The Heart
@@ -123,6 +126,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1984-01-28'
+release_year: 1975
+runtime: 267640
 ---
 (Turn around)
 Every now and then I get a little bit lonely

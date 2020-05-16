@@ -1,8 +1,11 @@
 ---
+album: Even Now
 artists:
 - Barry Manilow
+external_ids:
+  spotify: spotify:track:26V05c5lCwCOyrwAZjC1vW
 features: []
-genres: []
+first_released_as_single: false
 key: can-t-smile-without-you-barry-manilow
 lyrics_url: https://genius.com/Barry-manilow-cant-smile-without-you-lyrics
 name: Can't Smile Without You
@@ -83,6 +86,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1978-06-10'
+release_year: 1974
+runtime: 191796
 ---
 You know I can't smile without you
 I can't smile without you

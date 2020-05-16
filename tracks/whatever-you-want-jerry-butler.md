@@ -1,8 +1,11 @@
 ---
+album: The Ice Man
 artists:
 - Jerry Butler
+external_ids:
+  spotify: spotify:track:1lmvk03Vc696TEC3Zw06nx
 features: []
-genres: []
+first_released_as_single: false
 key: whatever-you-want-jerry-butler
 lyrics_url: https://genius.com/Jerry-butler-whatever-you-want-lyrics
 name: Whatever You Want
@@ -31,6 +34,8 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '1963-05-04'
+release_year: 1963
+runtime: 143640
 ---
 Whatever you want
 I want for you

@@ -1,9 +1,12 @@
 ---
+album: New Jack City II
 artists:
 - Bow Wow
+external_ids:
+  spotify: spotify:track:6Iw1zculZ7HlWLXPP6Dd7O
 features:
 - Johnta Austin
-genres: []
+first_released_as_single: false
 key: you-can-get-it-all-bow-wow-johnta-austin
 lyrics_url: https://www.azlyrics.com/lyrics/bowwow/youcangetitall.html
 name: You Can Get It All
@@ -48,8 +51,9 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '2009-05-23'
+release_year: 2000
+runtime: 217973
 ---
-
 Uh Uh Uh,
 Got me like
 
@@ -169,6 +173,3 @@ I'm like
 Wooo-hoo
 Shawty you can get it all, what
 You can get it all, what, you can get it
-
-
-

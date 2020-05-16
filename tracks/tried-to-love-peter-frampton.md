@@ -1,8 +1,11 @@
 ---
+album: I'm In You
 artists:
 - Peter Frampton
+external_ids:
+  spotify: spotify:track:4Ot4uHTU1MpxrBGtPFDhkS
 features: []
-genres: []
+first_released_as_single: false
 key: tried-to-love-peter-frampton
 lyrics_url: https://www.azlyrics.com/lyrics/peterframpton/triedtolove.html
 name: Tried To Love
@@ -39,8 +42,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1978-01-28'
+release_year: 1977
+runtime: 267600
 ---
-
 What you want from me? 
 Just got myself free 
 Oh yeah 
@@ -76,6 +80,3 @@ I don't know why you come by
 I don't know why you come by 
 I can't see why you should lie 
 I don't know why you come by
-
-
-

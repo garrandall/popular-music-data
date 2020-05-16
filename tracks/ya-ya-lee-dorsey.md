@@ -1,8 +1,11 @@
 ---
+album: Ya! Ya!
 artists:
 - Lee Dorsey
+external_ids:
+  spotify: spotify:track:4hsNBu9gncNn0q00CTxT24
 features: []
-genres: []
+first_released_as_single: false
 key: ya-ya-lee-dorsey
 lyrics_url: https://genius.com/Lee-dorsey-ya-ya-lyrics
 name: Ya Ya
@@ -59,6 +62,8 @@ rankings:
   rank: 52
   ranking_list: Billboard Hot 100
   start_date: '1961-12-04'
+release_year: 1961
+runtime: 142072
 ---
 Oh, well, I'm... (UHH!)
 Sittin' here in La-La

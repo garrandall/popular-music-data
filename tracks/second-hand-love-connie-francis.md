@@ -1,8 +1,11 @@
 ---
+album: Gold
 artists:
 - Connie Francis
+external_ids:
+  spotify: spotify:track:19VCXvo9rISKssX7xwcaDg
 features: []
-genres: []
+first_released_as_single: false
 key: second-hand-love-connie-francis
 lyrics_url: https://genius.com/Connie-francis-second-hand-love-lyrics
 name: Second Hand Love
@@ -43,6 +46,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1962-07-07'
+release_year: 1962
+runtime: 169973
 ---
 They tell me that there's someone else you really, truly, love
 And even when we kiss, that she's the one you're thinking of

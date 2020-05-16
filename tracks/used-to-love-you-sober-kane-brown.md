@@ -1,8 +1,11 @@
 ---
+album: Chapter 1 - EP
 artists:
 - Kane Brown
+external_ids:
+  spotify: spotify:track:6V3wTb4VVDWRw3YEDgc6Py
 features: []
-genres: []
+first_released_as_single: true
 key: used-to-love-you-sober-kane-brown
 lyrics_url: https://www.azlyrics.com/lyrics/kanebrown/usedtoloveyousober.html
 name: Used To Love You Sober
@@ -11,8 +14,9 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '2015-11-14'
+release_year: 2015
+runtime: 181680
 ---
-
 Life was great,
 Wouldn't change a thing,
 I had it all but with you I had more,
@@ -50,6 +54,3 @@ And I couldn't get enough
 Girl, I'm drowning drunk in love
 I used to think you'd never say it's over, I used to love you sober
 I used to love you sober
-
-
-

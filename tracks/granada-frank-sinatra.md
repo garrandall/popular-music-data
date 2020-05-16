@@ -1,8 +1,11 @@
 ---
+album: Swing Along With Me
 artists:
 - Frank Sinatra
+external_ids:
+  spotify: spotify:track:2C1ItJ7G62AJyBje9WBpfW
 features: []
-genres: []
+first_released_as_single: false
 key: granada-frank-sinatra
 lyrics_url: https://www.azlyrics.com/lyrics/franksinatra/granada.html
 name: Granada
@@ -23,8 +26,9 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1961-07-24'
+release_year: 1961
+runtime: 219133
 ---
-
 Granada, I'm falling under your spell,
 And if you could speak, what a fascinating tale you would tell.
 Of an age the world has long forgotten,
@@ -62,6 +66,3 @@ Granada manola hitana de coplas preciosas.
 No tengo otra cosa que darte que un rama de rosas.
 De rosas de suave fragancia que alleje amargo la virgen morena.
 Granada tu tierra esta llena de lindas mujeres de sangre del sol..
-
-
-

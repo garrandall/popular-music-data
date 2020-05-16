@@ -1,8 +1,11 @@
 ---
+album: ACT ONE (The Complete Collection)
 artists:
 - Marian Hill
+external_ids:
+  spotify: spotify:track:0ZQfn5nh2TnVE6Q0AT8eXr
 features: []
-genres: []
+first_released_as_single: false
 key: down-marian-hill
 lyrics_url: https://www.azlyrics.com/lyrics/marianhill/down.html
 name: Down
@@ -75,8 +78,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2017-05-27'
+release_year: 2016
+runtime: 197773
 ---
-
 Didn't even really wanna go
 But if you get me out, you get a show
 There's so many bodies on the floor
@@ -127,6 +131,3 @@ Are you... down, down, down, d-d-d-down?
 Are you down, are you down, are you d-d-down?
 Are you down, are you down, are you d-d-d-d-down?
 Are you... down?
-
-
-

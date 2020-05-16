@@ -1,8 +1,11 @@
 ---
+album: Live in Concert 1982
 artists:
 - The Fixx
+external_ids:
+  spotify: spotify:track:1Z3MX7ckE5kEI5NwSmQuUB
 features: []
-genres: []
+first_released_as_single: false
 key: stand-or-fall-the-fixx
 lyrics_url: https://www.azlyrics.com/lyrics/fixx/standorfall.html
 name: Stand Or Fall
@@ -39,8 +42,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1982-12-18'
+release_year: 1982
+runtime: 250733
 ---
-
 Crying parents tell their children
 If you survive, don't do as we did
 A son exclaims there'll be nothing to do to
@@ -90,6 +94,3 @@ Stand or fall
 Stand or fall
 Stand or fall
 Stand or fall
-
-
-

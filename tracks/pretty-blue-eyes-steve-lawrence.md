@@ -1,8 +1,11 @@
 ---
+album: The Best Of
 artists:
 - Steve Lawrence
+external_ids:
+  spotify: spotify:track:7HDyKTm5e7XV6qszYSSlku
 features: []
-genres: []
+first_released_as_single: false
 key: pretty-blue-eyes-steve-lawrence
 lyrics_url: https://genius.com/Steve-lawrence-pretty-blue-eyes-lyrics
 name: Pretty Blue Eyes
@@ -79,6 +82,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1960-03-21'
+release_year: 1959
+runtime: 114466
 ---
 Thought I was in love before
 And then you moved in next door

@@ -1,8 +1,11 @@
 ---
+album: Casablanca Records Greatest Hits
 artists:
 - Teri DeSario
+external_ids:
+  spotify: spotify:track:71k4FgJ4GuBq35Zre9BCdc
 features: []
-genres: []
+first_released_as_single: false
 key: yes-i-m-ready-teri-desario-with-k-c-
 lyrics_url: https://genius.com/Teri-desario-yes-im-ready-lyrics
 name: Yes I'm Ready
@@ -99,6 +102,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1980-04-19'
+release_year: 1979
+runtime: 198600
 ---
 :
 I don't even know how to love you

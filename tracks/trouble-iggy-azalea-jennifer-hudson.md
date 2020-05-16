@@ -1,9 +1,12 @@
 ---
+album: Reclassified
 artists:
 - Iggy Azalea
+external_ids:
+  spotify: spotify:track:0Pon5WasecvBoYltknjmf2
 features:
 - Jennifer Hudson
-genres: []
+first_released_as_single: false
 key: trouble-iggy-azalea-jennifer-hudson
 lyrics_url: https://www.azlyrics.com/lyrics/iggyazalea/trouble.html
 name: Trouble
@@ -28,9 +31,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2015-05-09'
+release_year: 2014
+runtime: 166317
 ---
-
-
 Right
 I should've known you were bad news
 From the bad boy demeanor and the tattoos
@@ -104,6 +107,3 @@ I can tell by the way that you lean
 And the way that you kiss your teeth
 And you turn up so fresh and clean
 Smells like trouble to me
-
-
-

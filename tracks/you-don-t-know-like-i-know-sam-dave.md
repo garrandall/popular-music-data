@@ -1,9 +1,12 @@
 ---
+album: Hold On, I'm Comin'
 artists:
 - Sam
 - Dave
+external_ids:
+  spotify: spotify:track:0bWdtUzitoLGHvoRvu5ngq
 features: []
-genres: []
+first_released_as_single: false
 key: you-don-t-know-like-i-know-sam-dave
 lyrics_url: https://genius.com/Sam-and-dave-you-dont-know-like-i-know-lyrics
 name: You Don't Know Like I Know
@@ -16,6 +19,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1966-01-22'
+release_year: 1966
+runtime: 162400
 ---
 You don't know like I know
 What that woman has done for me

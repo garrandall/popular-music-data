@@ -1,8 +1,11 @@
 ---
+album: 'Ultimate Collection: Billy Preston'
 artists:
 - Billy Preston
+external_ids:
+  spotify: spotify:track:4DF6OPwM2LtbU6e2jeWuNe
 features: []
-genres: []
+first_released_as_single: false
 key: you-re-so-unique-billy-preston
 lyrics_url: https://genius.com/Billy-preston-youre-so-unique-lyrics
 name: You're So Unique
@@ -39,6 +42,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1974-02-23'
+release_year: 1974
+runtime: 199040
 ---
 Never had the pleasure of loving you
 Nothing, girl, can measure what I would do

@@ -1,8 +1,11 @@
 ---
+album: It's Up To You
 artists:
 - Ricky Nelson
+external_ids:
+  spotify: spotify:track:6jslRzC9teP8ls7A1tUMZo
 features: []
-genres: []
+first_released_as_single: false
 key: right-by-my-side-ricky-nelson
 lyrics_url: https://genius.com/Ricky-nelson-right-by-my-side-mono-lyrics
 name: Right By My Side
@@ -31,6 +34,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1960-06-13'
+release_year: 1960
+runtime: 163613
 ---
 Don't you know that I'm lost without your love
 And I just keep dreamin'

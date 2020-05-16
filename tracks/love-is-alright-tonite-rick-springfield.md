@@ -1,8 +1,11 @@
 ---
+album: Working Class Dog
 artists:
 - Rick Springfield
+external_ids:
+  spotify: spotify:track:0q9kwsDddMpLd5PVctArlK
 features: []
-genres: []
+first_released_as_single: false
 key: love-is-alright-tonite-rick-springfield
 lyrics_url: https://www.azlyrics.com/lyrics/rickspringfield/loveisalrighttonite.html
 name: Love Is Alright Tonite
@@ -71,8 +74,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1982-03-20'
+release_year: 1981
+runtime: 207866
 ---
-
 I'm picking up my baby tonight
 Though her daddy's making trouble
 It will be alright
@@ -113,6 +117,3 @@ Love is alright tonight
 We're gonna be alright
 Love is alright
 Love is alright tonight
-
-
-

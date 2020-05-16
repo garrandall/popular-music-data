@@ -1,8 +1,11 @@
 ---
+album: Frankie & Johnny
 artists:
 - Elvis Presley
+external_ids:
+  spotify: spotify:track:1gXmKCfRhKi35b3AFtSDWj
 features: []
-genres: []
+first_released_as_single: false
 key: frankie-and-johnny-elvis-presley
 lyrics_url: https://www.azlyrics.com/lyrics/elvispresley/frankieandjohnny.html
 name: Frankie And Johnny
@@ -39,8 +42,9 @@ rankings:
   rank: 28
   ranking_list: Billboard Hot 100
   start_date: '1966-05-07'
+release_year: 1966
+runtime: 152693
 ---
-
 Frankie and me we were lovers
 Oh lordy how we could love
 Swore we'd be true to each other
@@ -83,6 +87,3 @@ Well this is the end of my song
 I was her man, well I done her wrong
 Well , hey, hey, hey, hey, hey
 Done her wrong
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Baby Now That I've Found You
 artists:
 - The Foundations
+external_ids:
+  spotify: spotify:track:6OY3Pcn9wzoFuOGliAOC1C
 features: []
-genres: []
+first_released_as_single: false
 key: build-me-up-buttercup-the-foundations
 lyrics_url: https://genius.com/The-foundations-build-me-up-buttercup-lyrics
 name: Build Me Up Buttercup
@@ -67,6 +70,8 @@ rankings:
   rank: 23
   ranking_list: Billboard Hot 100
   start_date: '1969-04-12'
+release_year: 1967
+runtime: 178226
 ---
 Why do you build me up (Build me up)
 Buttercup, baby

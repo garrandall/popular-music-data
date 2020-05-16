@@ -1,8 +1,11 @@
 ---
+album: All I Have
 artists:
 - Amerie
+external_ids:
+  spotify: spotify:track:72Oh7sKJUEINkQnoPO4kHS
 features: []
-genres: []
+first_released_as_single: false
 key: talkin--to-me-amerie
 lyrics_url: https://www.azlyrics.com/lyrics/amerie/talkintome.html
 name: Talkin' To Me
@@ -67,8 +70,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2003-03-15'
+release_year: 2002
+runtime: 234706
 ---
-
 Funny how it's hard to find the words sometimes you know
 Wishin we could read minds
 Don't wanna let our feelings show
@@ -131,6 +135,3 @@ yeah yeah yeah yeah yeah
 yeah yeah yeah yeah yeah
 yeah yeah yeah
 oh oh
-
-
-

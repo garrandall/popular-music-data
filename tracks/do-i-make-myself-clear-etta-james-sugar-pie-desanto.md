@@ -1,9 +1,12 @@
 ---
+album: Blues
 artists:
 - Etta James
 - Sugar Pie DeSanto
+external_ids:
+  spotify: spotify:track:11HOlyTQ0Sro1qvH3YxoWe
 features: []
-genres: []
+first_released_as_single: false
 key: do-i-make-myself-clear-etta-james-sugar-pie-desanto
 lyrics_url: https://www.musixmatch.com/lyrics/Etta-James-with-Sugar-Pie-DeSanto/Do-I-Make-Myself-Clear
 name: Do I Make Myself Clear
@@ -12,6 +15,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1965-12-18'
+release_year: 1965
+runtime: 182400
 ---
 I don't wanna believe
 The bad things about you, oh, no, now

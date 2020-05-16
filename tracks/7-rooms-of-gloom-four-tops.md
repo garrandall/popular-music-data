@@ -1,8 +1,11 @@
 ---
+album: Reach Out
 artists:
 - Four Tops
+external_ids:
+  spotify: spotify:track:38SayNALjd9wkHdjuXZczk
 features: []
-genres: []
+first_released_as_single: false
 key: 7-rooms-of-gloom-four-tops
 lyrics_url: https://www.musixmatch.com/lyrics/Four-Tops-3/7-Rooms-Of-Gloom-1
 name: 7 Rooms Of Gloom
@@ -39,6 +42,8 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '1967-07-08'
+release_year: 1967
+runtime: 151773
 ---
 (Seven rooms) I see a house
 A house of stone

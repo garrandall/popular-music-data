@@ -1,8 +1,11 @@
 ---
+album: The Moonglow Years
 artists:
 - The Righteous Brothers
+external_ids:
+  spotify: spotify:track:6KfVhijRswRpWIuxq7Eqlr
 features: []
-genres: []
+first_released_as_single: false
 key: you-can-have-her-the-righteous-brothers
 lyrics_url: https://genius.com/The-righteous-brothers-you-can-have-her-lyrics
 name: You Can Have Her
@@ -27,6 +30,8 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1965-06-05'
+release_year: 1965
+runtime: 166000
 ---
 You can have her, I don't want her
 She didn't love me anyway

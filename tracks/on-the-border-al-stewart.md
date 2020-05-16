@@ -1,8 +1,11 @@
 ---
+album: Year Of The Cat
 artists:
 - Al Stewart
+external_ids:
+  spotify: spotify:track:4VzweaqBuc7LT6yluAt5Ol
 features: []
-genres: []
+first_released_as_single: false
 key: on-the-border-al-stewart
 lyrics_url: https://www.azlyrics.com/lyrics/alstewart/ontheborder.html
 name: On The Border
@@ -43,8 +46,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1977-06-18'
+release_year: 1976
+runtime: 202306
 ---
-
 The fishing boats go out across the evening water
 Smuggling guns and arms across the Spanish border
 The wind whips up the waves so loud
@@ -83,6 +87,3 @@ Turns the rifles into silver on the border
 On the border
 On the border
 On the border
-
-
-

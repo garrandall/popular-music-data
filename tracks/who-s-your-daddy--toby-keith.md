@@ -1,8 +1,11 @@
 ---
+album: Unleashed
 artists:
 - Toby Keith
+external_ids:
+  spotify: spotify:track:48OJNxzYVJNYzXDDY1xlnt
 features: []
-genres: []
+first_released_as_single: false
 key: who-s-your-daddy--toby-keith
 lyrics_url: https://www.azlyrics.com/lyrics/tobykeith/whosyourdaddy.html
 name: Who's Your Daddy?
@@ -87,8 +90,9 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '2003-02-15'
+release_year: 2002
+runtime: 237626
 ---
-
 Oh, alright
 
 Yeah, here you come knockin' on my door, baby
@@ -136,6 +140,3 @@ Who's your buddy, who's your man?
 
 Who's your daddy, who's your baby?
 Who's your buddy, who's your man?
-
-
-

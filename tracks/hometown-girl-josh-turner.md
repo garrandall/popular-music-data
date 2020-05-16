@@ -1,8 +1,11 @@
 ---
+album: Deep South
 artists:
 - Josh Turner
+external_ids:
+  spotify: spotify:track:5C6uh95eAL0RBTSGXKQwvk
 features: []
-genres: []
+first_released_as_single: false
 key: hometown-girl-josh-turner
 lyrics_url: https://www.azlyrics.com/lyrics/joshturner/hometowngirl.html
 name: Hometown Girl
@@ -71,8 +74,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2017-07-01'
+release_year: 2017
+runtime: 215080
 ---
-
 She grew up around here on that southwest side
 Where the corn grows up to the road side
 Went to high school here, got that Panther pride
@@ -109,6 +113,3 @@ I've been looking all over, all over the world
 For a pretty little homegrown hometown girl
 
 I need a pretty little homegrown hometown girl...
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: The Better Life
 artists:
 - 3 Doors Down
+external_ids:
+  spotify: spotify:track:2Qcbp9vrZKwbBLs2t2QIYZ
 features: []
-genres: []
+first_released_as_single: false
 key: here-without-you-3-doors-down
 lyrics_url: https://genius.com/3-doors-down-here-without-you-lyrics
 name: Here Without You
@@ -211,6 +214,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2004-08-14'
+release_year: 2000
+runtime: 306000
 ---
 A hundred days have made me older
 Since the last time that I saw your pretty face

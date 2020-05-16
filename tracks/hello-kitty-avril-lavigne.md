@@ -1,8 +1,11 @@
 ---
+album: Avril Lavigne
 artists:
 - Avril Lavigne
+external_ids:
+  spotify: spotify:track:5eo5uGyM4q70CLU3LZphfu
 features: []
-genres: []
+first_released_as_single: false
 key: hello-kitty-avril-lavigne
 lyrics_url: https://genius.com/Avril-lavigne-hello-kitty-lyrics
 name: Hello Kitty
@@ -11,6 +14,8 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '2014-05-10'
+release_year: 2013
+runtime: 196253
 ---
 Minna saikō, arigatō, ka-ka-ka-kawaii
 Ka-ka-ka-kawaii

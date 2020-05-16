@@ -1,8 +1,11 @@
 ---
+album: Rated Next
 artists:
 - Next
+external_ids:
+  spotify: spotify:track:3kVENeV7RMFRLkMTJqmzZu
 features: []
-genres: []
+first_released_as_single: true
 key: i-still-love-you-next
 lyrics_url: https://genius.com/Next-i-still-love-you-lyrics
 name: I Still Love You
@@ -87,6 +90,8 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '1998-12-19'
+release_year: 1997
+runtime: 275000
 ---
 Yeah, nine eight, ya'll, R.L.
 Tweety, teelo, (I, ah ah ah ah, I still love you)

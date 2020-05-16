@@ -1,8 +1,11 @@
 ---
+album: Still Bill
 artists:
 - Bill Withers
+external_ids:
+  spotify: spotify:track:4gRA0i5sxx3jAhHaVjPnUN
 features: []
-genres: []
+first_released_as_single: false
 key: use-me-bill-withers
 lyrics_url: https://genius.com/Bill-withers-use-me-lyrics
 name: Use Me
@@ -55,6 +58,8 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '1972-11-11'
+release_year: 1972
+runtime: 228326
 ---
 'My friends feel it's their appointed duty
 They keep trying to tell me

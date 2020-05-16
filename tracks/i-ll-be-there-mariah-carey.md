@@ -1,8 +1,11 @@
 ---
+album: MTV Unplugged EP
 artists:
 - Mariah Carey
+external_ids:
+  spotify: spotify:track:2exGHTlYAUQ5UX4e7Uqc79
 features: []
-genres: []
+first_released_as_single: true
 key: i-ll-be-there-mariah-carey
 lyrics_url: https://genius.com/Mariah-carey-ill-be-there-lyrics
 name: I'll Be There
@@ -87,6 +90,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1992-10-10'
+release_year: 1992
+runtime: 282373
 ---
 This next song is made popular
 By incredible Jackson 5

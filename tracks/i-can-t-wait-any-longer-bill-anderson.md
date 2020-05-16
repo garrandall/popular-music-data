@@ -1,8 +1,11 @@
 ---
+album: The Definitive Collection
 artists:
 - Bill Anderson
+external_ids:
+  spotify: spotify:track:7HC4cWnMws2BjL00Ziz7Ao
 features: []
-genres: []
+first_released_as_single: false
 key: i-can-t-wait-any-longer-bill-anderson
 lyrics_url: https://genius.com/Bill-anderson-i-cant-wait-any-longer-lyrics
 name: I Can't Wait Any Longer
@@ -23,6 +26,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1978-08-05'
+release_year: 1978
+runtime: 212066
 ---
 I can't take any longer baby I mean I can't wait any longer
 Mhm I gotta have you I gotta know how it is to touch you

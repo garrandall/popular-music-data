@@ -1,8 +1,11 @@
 ---
+album: The Joshua Tree (Super Deluxe)
 artists:
 - U2
+external_ids:
+  spotify: spotify:track:3w3qWhplVQcO5aGU6Ipdhq
 features: []
-genres: []
+first_released_as_single: false
 key: one-u2
 lyrics_url: https://genius.com/U2-one-lyrics
 name: One
@@ -87,6 +90,8 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '1992-07-25'
+release_year: 1987
+runtime: 322168
 ---
 Is it getting better
 Or do you feel the same?

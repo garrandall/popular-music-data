@@ -1,10 +1,13 @@
 ---
+album: Ecstasy, Passion & Pain
 artists:
 - Ecstasy
 - Passion
 - Pain
+external_ids:
+  spotify: spotify:track:0MLeCsnGwBYVzz7cVACbZD
 features: []
-genres: []
+first_released_as_single: false
 key: ask-me-ecstasy-passion-pain
 name: Ask Me
 rankings:
@@ -40,5 +43,7 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '1974-12-07'
+release_year: 1974
+runtime: 243426
 ---
 

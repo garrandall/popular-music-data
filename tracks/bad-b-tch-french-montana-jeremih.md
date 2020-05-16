@@ -1,9 +1,12 @@
 ---
+album: Bad B*tch
 artists:
 - French Montana
+external_ids:
+  spotify: spotify:track:0GRSF02AmBaMoD7wBiN8Pe
 features:
 - Jeremih
-genres: []
+first_released_as_single: true
 key: bad-b-tch-french-montana-jeremih
 lyrics_url: https://genius.com/French-montana-bad-btch-feat-jeremih-by-french-montana-lyrics
 name: Bad B*tch
@@ -12,6 +15,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2015-01-10'
+release_year: 2014
+runtime: 244386
 ---
 Got a good thing goin' with a bad bitch
 You know who to call when you need it

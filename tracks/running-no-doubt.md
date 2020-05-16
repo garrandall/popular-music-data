@@ -1,8 +1,11 @@
 ---
+album: Rock Steady
 artists:
 - No Doubt
+external_ids:
+  spotify: spotify:track:3GsbGZHKjSk4PLr3HXfcoo
 features: []
-genres: []
+first_released_as_single: false
 key: running-no-doubt
 lyrics_url: https://genius.com/No-doubt-running-lyrics
 name: Running
@@ -31,6 +34,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2003-05-03'
+release_year: 2001
+runtime: 240466
 ---
 Run, running all the time
 Running to the future

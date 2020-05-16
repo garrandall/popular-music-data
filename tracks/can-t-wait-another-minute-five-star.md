@@ -1,8 +1,11 @@
 ---
+album: The Greatest Hits
 artists:
 - Five Star
+external_ids:
+  spotify: spotify:track:0668Md7QtiVoYFQbOamolA
 features: []
-genres: []
+first_released_as_single: false
 key: can-t-wait-another-minute-five-star
 lyrics_url: https://genius.com/Five-star-cant-wait-another-minute-lyrics
 name: Can't Wait Another Minute
@@ -63,6 +66,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1986-12-13'
+release_year: 1986
+runtime: 270866
 ---
 I've been holding out on you
 I've been talang it slow and tough

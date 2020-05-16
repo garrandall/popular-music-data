@@ -1,8 +1,11 @@
 ---
+album: 0 To 100 / The Catch Up
 artists:
 - Drake
+external_ids:
+  spotify: spotify:track:4jtyUzZm9WLc2AdaJ1dso7
 features: []
-genres: []
+first_released_as_single: true
 key: 0-to-100-drake
 lyrics_url: https://www.azlyrics.com/lyrics/drake/0to100thecatchup.html
 name: 0 To 100
@@ -87,8 +90,9 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '2014-12-20'
+release_year: 2013
+runtime: 275226
 ---
-
 Fuck being on some chill shit
 We go 0 to 100 nigga, real quick
 They be on that rap-to-pay-the-bill shit
@@ -196,6 +200,3 @@ Damn, fuck how I was in the past tense
 Ask yourself, how do we match up now?
 'Cause I'm only 27 and I'm only gettin' better
 If I haven't passed you yet, watch me catch up now, for real
-
-
-

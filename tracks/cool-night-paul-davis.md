@@ -1,8 +1,11 @@
 ---
+album: Cool Night
 artists:
 - Paul Davis
+external_ids:
+  spotify: spotify:track:29KyVqHekckVGfxHn8QS7m
 features: []
-genres: []
+first_released_as_single: false
 key: cool-night-paul-davis
 lyrics_url: https://www.azlyrics.com/lyrics/pauldavis/coolnight.html
 name: Cool Night
@@ -83,8 +86,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1982-03-13'
+release_year: 1981
+runtime: 218826
 ---
-
 I sometimes wonder why all the flowers have to die
 I dream about you and now summer's come and gone
 And the nights they seem so long
@@ -117,6 +121,3 @@ If it don't feel right you can go
 On a cool night, let me hold you
 On a cool, just let me hold you by the firelight
 If it don't feel right you can go
-
-
-

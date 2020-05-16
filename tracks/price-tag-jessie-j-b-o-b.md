@@ -1,9 +1,12 @@
 ---
+album: Who You Are
 artists:
 - Jessie J
+external_ids:
+  spotify: spotify:track:5mvKuE9Lf9ARVXVXA32kK9
 features:
 - B.o.B
-genres: []
+first_released_as_single: false
 key: price-tag-jessie-j-b-o-b
 lyrics_url: https://www.azlyrics.com/lyrics/jessiej/pricetag.html
 name: Price Tag
@@ -88,9 +91,9 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '2011-07-02'
+release_year: 2011
+runtime: 223053
 ---
-
-
 Okay, Coconut man, Moon Head and Pea
 You ready?
 
@@ -180,6 +183,3 @@ It's not about the money
 Yeah, yeah
 Oh-oh
 Forget about the price tag, yeah
-
-
-

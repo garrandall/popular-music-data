@@ -1,8 +1,11 @@
 ---
+album: Love Songs
 artists:
 - John Michael Montgomery
+external_ids:
+  spotify: spotify:track:6MnDkyb3VstTCT9ELxjfeE
 features: []
-genres: []
+first_released_as_single: false
 key: i-love-the-way-you-love-me-john-michael-montgomery
 lyrics_url: https://genius.com/John-michael-montgomery-i-love-the-way-you-love-me-lyrics
 name: I Love The Way You Love Me
@@ -59,6 +62,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1993-07-31'
+release_year: 1993
+runtime: 241306
 ---
 I like the feel of your name on my lips
 And I like the sound of your sweet gentle kiss

@@ -1,8 +1,11 @@
 ---
+album: Because Of Winn-Dixie
 artists:
 - Shirley Ellis
+external_ids:
+  spotify: spotify:track:4aXv7B4upkzBRUbbckkORq
 features: []
-genres: []
+first_released_as_single: false
 key: the-clapping-song--clap-pat-clap-slap--shirley-ellis
 lyrics_url: https://genius.com/Shirley-ellis-the-clapping-song-lyrics
 name: The Clapping Song (Clap Pat Clap Slap)
@@ -43,6 +46,8 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '1965-05-15'
+release_year: 1965
+runtime: 191186
 ---
 Three, six, nine, the goose drank wine
 The monkey chewed tobacco on the streetcar line

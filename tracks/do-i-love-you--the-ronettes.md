@@ -1,8 +1,11 @@
 ---
+album: Presenting the Fabulous Ronettes Featuring Veronica
 artists:
 - The Ronettes
+external_ids:
+  spotify: spotify:track:0s9UE0q4I4OIft5Gy0JeQJ
 features: []
-genres: []
+first_released_as_single: false
 key: do-i-love-you--the-ronettes
 lyrics_url: https://genius.com/The-ronettes-do-i-love-you-lyrics
 name: Do I Love You?
@@ -43,6 +46,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1964-08-15'
+release_year: 1964
+runtime: 175133
 ---
 Do I want you for my baby?
 Do I want you by my side?

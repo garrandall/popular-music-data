@@ -1,9 +1,12 @@
 ---
+album: Buttons
 artists:
 - The Pussycat Dolls
+external_ids:
+  spotify: spotify:track:2ICylmg7jCYdOWUFNa8VW7
 features:
 - Snoop Dogg
-genres: []
+first_released_as_single: true
 key: buttons-the-pussycat-dolls-snoop-dogg
 lyrics_url: https://genius.com/The-pussycat-dolls-buttons-lyrics
 name: Buttons
@@ -128,6 +131,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '2006-12-16'
+release_year: 2006
+runtime: 231293
 ---
 What it do, baby boo?
 Yeah, lil' mama, you lookin' good

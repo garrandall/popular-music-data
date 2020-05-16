@@ -1,8 +1,11 @@
 ---
+album: Music Box
 artists:
 - Mariah Carey
+external_ids:
+  spotify: spotify:track:6HcQZfMrw3KwGyzrKw1Pjy
 features: []
-genres: []
+first_released_as_single: false
 key: dreamlover-mariah-carey
 lyrics_url: https://www.azlyrics.com/lyrics/mariahcarey/dreamlover.html
 name: Dreamlover
@@ -123,8 +126,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1994-02-19'
+release_year: 1993
+runtime: 232960
 ---
-
 I need a lover to give me
 The kind of love
 That will last always
@@ -158,4 +162,3 @@ Everyday
 Of my life
 Always
 So come and take me away
-

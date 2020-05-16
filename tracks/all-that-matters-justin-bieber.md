@@ -1,8 +1,11 @@
 ---
+album: Journals
 artists:
 - Justin Bieber
+external_ids:
+  spotify: spotify:track:70XP39KE8vTgxtRXcwfxJA
 features: []
-genres: []
+first_released_as_single: false
 key: all-that-matters-justin-bieber
 lyrics_url: https://genius.com/Justin-bieber-all-that-matters-lyrics
 name: All That Matters
@@ -39,6 +42,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2014-02-01'
+release_year: 2013
+runtime: 191173
 ---
 Oh-oh, just as sure as the stars in the sky
 I need you to shine in my life

@@ -1,10 +1,13 @@
 ---
+album: Shock Value
 artists:
 - Timbaland
+external_ids:
+  spotify: spotify:track:0wbDgMuAoy7O7pL3a69uZx
 features:
 - Nelly Furtado
 - Justin Timberlake
-genres: []
+first_released_as_single: false
 key: give-it-to-me-timbaland-nelly-furtado-justin-timberlake
 lyrics_url: https://www.azlyrics.com/lyrics/timbaland/giveittome.html
 name: Give It To Me
@@ -113,9 +116,9 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '2007-08-18'
+release_year: 2007
+runtime: 234026
 ---
-
-
 Is it going? Is it going?
 Is it going? Is it going?
 I don't know.. what you're lookin' for
@@ -202,6 +205,3 @@ We ain't here to hurt nobody
 (So give it to me, give it to me, give it to me)
 Wanna see you work your body
 (So give it to me, give it to me, give it to me)
-
-
-

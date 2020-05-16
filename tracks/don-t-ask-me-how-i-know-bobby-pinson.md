@@ -1,8 +1,11 @@
 ---
+album: Man Like Me
 artists:
 - Bobby Pinson
+external_ids:
+  spotify: spotify:track:3ExcxvkepzqXKkf8tfZlI8
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-ask-me-how-i-know-bobby-pinson
 lyrics_url: https://genius.com/Bobby-pinson-dont-ask-me-how-i-know-lyrics
 name: Don't Ask Me How I Know
@@ -35,6 +38,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2005-07-23'
+release_year: 2005
+runtime: 255373
 ---
 Don't ride your bike off a ramp that's more than three bricks high
 Don't take that candy from the store if you ain't got the dime

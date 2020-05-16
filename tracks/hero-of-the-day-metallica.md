@@ -1,8 +1,11 @@
 ---
+album: Load
 artists:
 - Metallica
+external_ids:
+  spotify: spotify:track:5ktyEZbrgBEePsu6MW5Cvw
 features: []
-genres: []
+first_released_as_single: false
 key: hero-of-the-day-metallica
 lyrics_url: https://genius.com/Metallica-hero-of-the-day-lyrics
 name: Hero Of The Day
@@ -79,15 +82,15 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1997-03-08'
+release_year: 1996
+runtime: 261693
 ---
 Mama, they try and break me
-
 
 The window burns to light the way back home
 A light that warms, no matter where they've gone
 They're off to find the hero of the day
 But what if they should fall by someone's wicked way?
-
 
 Still the window burns
 Time so slowly turns
@@ -96,16 +99,13 @@ Keepers of the flames
 Do you feel your name?
 Did you hear your babies crying?
 
-
 Mama, they try and break me
 Still they try and break me
-
 
 Excuse me while I tend to how I feel
 These things return to me that still seem real
 Now, deservingly, this easy chair
 But the rocking stopped by wheels of despair
-
 
 Don't want your aid
 But the fist I make
@@ -113,13 +113,11 @@ For years can't hold or feel
 No, I'm not all me
 So please excuse me while I tend to how I feel
 
-
 But now the dreams and waking screams
 That ever last the night
 So build the wall, behind it crawl
 And hide until it's light
 So can you hear your babies crying now?
-
 
 Still the window burns
 Time so slowly turns
@@ -128,14 +126,12 @@ Keepers of the flames
 Did you feel your names?
 Did you hear your babies crying?
 
-
 But now the dreams and waking screams
 That ever last the night
 So build a wall, behind it crawl
 And hide until it's light
 So can't you hear your babies crying now?
 
- x2
 Mama, they try and break me
 Mama, they try and break me
 Mama, they try and break me

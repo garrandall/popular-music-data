@@ -1,8 +1,11 @@
 ---
+album: Rhythm & Blues 1952-1959 - Music Sampler - Volume 3
 artists:
 - The Chanters
+external_ids:
+  spotify: spotify:track:1sVI0D7jTh5oXzVTP9aZHE
 features: []
-genres: []
+first_released_as_single: false
 key: no-no-no-the-chanters
 lyrics_url: https://genius.com/The-chanters-no-no-no-lyrics
 name: No No No
@@ -43,6 +46,8 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '1961-08-14'
+release_year: 1961
+runtime: 134920
 ---
 No, No, No
 Don't kiss me anymore

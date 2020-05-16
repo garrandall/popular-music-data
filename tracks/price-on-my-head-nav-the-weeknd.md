@@ -1,9 +1,12 @@
 ---
+album: Bad Habits
 artists:
 - NAV
+external_ids:
+  spotify: spotify:track:4hqOmrCCJKyiuwDexd8c2t
 features:
 - The Weeknd
-genres: []
+first_released_as_single: false
 key: price-on-my-head-nav-the-weeknd
 lyrics_url: https://www.azlyrics.com/lyrics/nav/priceonmyhead.html
 name: Price On My Head
@@ -12,8 +15,9 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '2019-04-06'
+release_year: 2019
+runtime: 217775
 ---
-
 I pull up to my town
 With a price on my head
 I pull up to my town I'm outside
@@ -99,6 +103,3 @@ Price on my head, got a price on my head
 Nine when I rest with a knife by my bed
 I'm so paranoid I'm a sleep when I'm dead
 I'm so paranoid I'm a sleep when I'm dead
-
-
-

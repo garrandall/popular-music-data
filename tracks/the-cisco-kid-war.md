@@ -1,8 +1,11 @@
 ---
+album: Live
 artists:
 - War
+external_ids:
+  spotify: spotify:track:1KRoZaNZ4Bp5CxyTRGDfxQ
 features: []
-genres: []
+first_released_as_single: false
 key: the-cisco-kid-war
 lyrics_url: https://www.azlyrics.com/lyrics/war/theciscokid.html
 name: The Cisco Kid
@@ -67,8 +70,9 @@ rankings:
   rank: 32
   ranking_list: Billboard Hot 100
   start_date: '1973-06-09'
+release_year: 1973
+runtime: 366866
 ---
-
 The Cisco Kid was a friend of mine
 The Cisco Kid was a friend of mine
 He drink whiskey, Poncho drink the wine
@@ -102,6 +106,3 @@ The Cisco Kid was a friend of mine
 The Cisco Kid he was a friend of mine
 The Cisco Kid he was a friend of mine
 The Cisco Kid he was a friend of mine
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Into The Skyline
 artists:
 - Cathy Dennis
+external_ids:
+  spotify: spotify:track:7g3cIyAuhXsBF9F063d4uo
 features: []
-genres: []
+first_released_as_single: false
 key: irresistible-cathy-dennis
 lyrics_url: https://genius.com/Cathy-dennis-irresistible-lyrics
 name: Irresistible
@@ -55,6 +58,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1993-03-13'
+release_year: 1992
+runtime: 228600
 ---
 Irresistible baby you are
 Irresistible baby you are

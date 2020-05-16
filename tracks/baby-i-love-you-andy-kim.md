@@ -1,8 +1,11 @@
 ---
+album: Baby I Love You
 artists:
 - Andy Kim
+external_ids:
+  spotify: spotify:track:3z2ZSQZXaWAufdyv3xnuLe
 features: []
-genres: []
+first_released_as_single: false
 key: baby-i-love-you-andy-kim
 lyrics_url: https://www.azlyrics.com/lyrics/andykim/babyiloveyou.html
 name: Baby I Love You
@@ -71,8 +74,9 @@ rankings:
   rank: 25
   ranking_list: Billboard Hot 100
   start_date: '1969-09-06'
+release_year: 1969
+runtime: 176440
 ---
-
 Have I ever told you
 How good it feels to hold you?
 It isn't easy to explain
@@ -117,6 +121,3 @@ Come on baby, na na na na na na na
 Baby, I love you
 Baby, I just love you
 Baby, I love you
-
-
-

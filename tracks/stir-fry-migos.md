@@ -1,8 +1,11 @@
 ---
+album: Culture II
 artists:
 - Migos
+external_ids:
+  spotify: spotify:track:2UVbBKQOdFAekPTRsnkzcf
 features: []
-genres: []
+first_released_as_single: false
 key: stir-fry-migos
 lyrics_url: https://www.azlyrics.com/lyrics/migos/stirfry.html
 name: Stir Fry
@@ -91,9 +94,9 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '2018-05-26'
+release_year: 2018
+runtime: 190288
 ---
-
-
 Woo, woo, woo, woo
 Woo, woo, woo, woo
 
@@ -172,6 +175,3 @@ In the kitchen, wrist twistin' like it's stir fry (whip it)
 In the kitchen, wrist twistin' like it's stir fry (whip it)
 In the kitchen, wrist twistin' like it's stir fry (whip it)
 In the kitchen, wrist twistin' like it's stir fry (wroof)
-
-
-

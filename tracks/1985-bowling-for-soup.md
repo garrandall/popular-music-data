@@ -1,8 +1,11 @@
 ---
+album: A Hangover You Don't Deserve
 artists:
 - Bowling For Soup
+external_ids:
+  spotify: spotify:track:6C3l52VZrzWwJ47Friop9B
 features: []
-genres: []
+first_released_as_single: true
 key: 1985-bowling-for-soup
 lyrics_url: https://www.azlyrics.com/lyrics/bowlingforsoup/1985.html
 name: '1985'
@@ -87,8 +90,9 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '2005-01-22'
+release_year: 1999
+runtime: 192560
 ---
-
 Debbie just hit the wall
 She never had it all
 One Prozac a day
@@ -164,6 +168,3 @@ Her two kids in high school
 They tell her that she's uncool
 'Cause she's still preoccupied
 With 19, 19, 1985
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: The ABC-Paramount Rarities
 artists:
 - The Impressions
+external_ids:
+  spotify: spotify:track:6lrYo0LfA4i3Ih65eKI8Tz
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-cry-my-love-the-impressions
 lyrics_url: https://genius.com/The-impressions-dont-cry-my-love-lyrics
 name: Don't Cry My Love
@@ -23,6 +26,8 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '1968-12-14'
+release_year: 1968
+runtime: 185040
 ---
 Don't cry my love, I'll be back
 Don't cry my sister, now that's no way to act

@@ -1,8 +1,11 @@
 ---
+album: In Blue
 artists:
 - The Corrs
+external_ids:
+  spotify: spotify:track:5OQGeJ1ceykovrykZsGhqL
 features: []
-genres: []
+first_released_as_single: false
 key: breathless-the-corrs
 lyrics_url: https://www.azlyrics.com/lyrics/corrs/breathless.html
 name: Breathless
@@ -87,8 +90,9 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '2001-06-09'
+release_year: 2000
+runtime: 207506
 ---
-
 Go on go on
 Leave me breathless
 Come on 
@@ -144,6 +148,3 @@ Go on, (go on) go on, (go on) come on, leave... me breathless
 Go on, (go on) go on, (go on) come on, leave... me breathless
 Go on, (go on) go on, (go on) come on, leave... me breathless
 Go on... go on!
-
-
-

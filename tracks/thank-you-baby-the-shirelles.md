@@ -1,8 +1,11 @@
 ---
+album: The Very Best Of...
 artists:
 - The Shirelles
+external_ids:
+  spotify: spotify:track:1KRUz5zL2F5dzQs6Q7WRyF
 features: []
-genres: []
+first_released_as_single: false
 key: thank-you-baby-the-shirelles
 lyrics_url: https://genius.com/The-shirelles-thank-you-baby-lyrics
 name: Thank You Baby
@@ -35,6 +38,8 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1964-08-29'
+release_year: 1964
+runtime: 156680
 ---
 Thank you baby, thank you baby)
 Thank you baby (thank you baby) after all the years I've been true

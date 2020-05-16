@@ -1,8 +1,11 @@
 ---
+album: Come to Me
 artists:
 - France Joli
+external_ids:
+  spotify: spotify:track:5wmVHVCMNO6TfCBcXU0cCk
 features: []
-genres: []
+first_released_as_single: false
 key: come-to-me-france-joli
 lyrics_url: https://genius.com/France-joli-come-to-me-lyrics
 name: Come To Me
@@ -71,6 +74,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1979-12-15'
+release_year: 1979
+runtime: 590986
 ---
 Come to Me
 When You're all alone and feeling down

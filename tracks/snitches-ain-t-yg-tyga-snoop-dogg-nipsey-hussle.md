@@ -1,11 +1,14 @@
 ---
+album: "Snitches Ain\u2019t..."
 artists:
 - YG
+external_ids:
+  spotify: spotify:track:4WlJWg84XpItmf5Jov9BEj
 features:
 - Tyga
 - Snoop Dogg
 - Nipsey Hussle
-genres: []
+first_released_as_single: true
 key: snitches-ain-t-yg-tyga-snoop-dogg-nipsey-hussle
 lyrics_url: https://www.musixmatch.com/lyrics/YG-feat-Tyga-Snoop-Dogg-Nipsey-Hussle/Snitches-Ain-t
 name: Snitches Ain't
@@ -14,6 +17,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2012-02-25'
+release_year: 2012
+runtime: 220493
 ---
 Bitches ain't shit, but hoes and tricks
 Bitches ain't shit, but hoes and tricks

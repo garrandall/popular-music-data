@@ -1,8 +1,11 @@
 ---
+album: En Concert
 artists:
 - Jack Johnson
+external_ids:
+  spotify: spotify:track:4FA5qZXkSzUNfzhgb6m8Yt
 features: []
-genres: []
+first_released_as_single: false
 key: flake-jack-johnson
 lyrics_url: https://www.azlyrics.com/lyrics/jackjohnson/flake.html
 name: Flake
@@ -75,8 +78,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2002-11-23'
+release_year: 2002
+runtime: 326933
 ---
-
 I know she said it's alright 
 But you can make it up next time 
 I know she knows it's not right 
@@ -131,6 +135,3 @@ Even after all the silly things you do
 Please please please don't drag me 
 Please please please don't drag me 
 Please please please don't drag me down
-
-
-

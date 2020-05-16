@@ -1,8 +1,11 @@
 ---
+album: Rock Your Baby
 artists:
 - George McCrae
+external_ids:
+  spotify: spotify:track:0iYtGebtnGzemwehimWusQ
 features: []
-genres: []
+first_released_as_single: false
 key: rock-your-baby-george-mccrae
 lyrics_url: https://www.azlyrics.com/lyrics/georgemccrae/rockyourbaby.html
 name: Rock Your Baby
@@ -75,8 +78,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1974-09-21'
+release_year: 1974
+runtime: 384000
 ---
-
 Sexy woman
 
 Woman, take me in your arms
@@ -117,6 +121,3 @@ Take me in your arms and rock me
 Ah-ah, yeah
 Take me in your arms and rock me
 Ah-ah
-
-
-

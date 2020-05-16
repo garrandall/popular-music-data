@@ -1,8 +1,11 @@
 ---
+album: I'm In Love
 artists:
 - Wilson Pickett
+external_ids:
+  spotify: spotify:track:35hMprxd8xjqmVo1Ss6R2c
 features: []
-genres: []
+first_released_as_single: false
 key: jealous-love-wilson-pickett
 lyrics_url: https://genius.com/Wilson-pickett-jealous-love-lyrics
 name: Jealous Love
@@ -27,6 +30,8 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '1968-03-16'
+release_year: 1968
+runtime: 168933
 ---
 Jealous love, jealous love of mine, jealous love
 Why can't you trust me some time? Look a-here

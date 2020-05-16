@@ -1,8 +1,11 @@
 ---
+album: Hang on Sloopy
 artists:
 - The McCoys
+external_ids:
+  spotify: spotify:track:1ovcf1mV4fEMTvctO9gUrD
 features: []
-genres: []
+first_released_as_single: false
 key: fever-the-mccoys
 lyrics_url: https://genius.com/The-mccoys-fever-lyrics
 name: Fever
@@ -51,6 +54,8 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1966-01-22'
+release_year: 1965
+runtime: 168453
 ---
 Never know how much I love you
 Never know how much I care

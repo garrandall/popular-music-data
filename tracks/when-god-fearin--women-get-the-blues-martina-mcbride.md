@@ -1,8 +1,11 @@
 ---
+album: Greatest Hits
 artists:
 - Martina McBride
+external_ids:
+  spotify: spotify:track:1LJBFWSjLASFl8UqdczZh7
 features: []
-genres: []
+first_released_as_single: false
 key: when-god-fearin--women-get-the-blues-martina-mcbride
 lyrics_url: https://www.azlyrics.com/lyrics/martinamcbride/whengodfearinwomengettheblues.html
 name: When God-Fearin' Women Get The Blues
@@ -47,8 +50,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2001-11-17'
+release_year: 2001
+runtime: 248426
 ---
-
 Lock up your husbands
 Lock up your sons
 Lock up your whiskey cabinets
@@ -95,6 +99,3 @@ It'll do eighty
 You don't have to be my baby
 I've stirred my last batch of gravy
 You don't have to be my baby"
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Glen Travis Campbell
 artists:
 - Glen Campbell
+external_ids:
+  spotify: spotify:track:09SbDTTf5rztBLmHZzzybO
 features: []
-genres: []
+first_released_as_single: false
 key: i-will-never-pass-this-way-again-glen-campbell
 lyrics_url: https://www.azlyrics.com/lyrics/glencampbell/iwillneverpassthiswayagain.html
 name: I Will Never Pass This Way Again
@@ -35,8 +38,9 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '1972-10-07'
+release_year: 1972
+runtime: 163613
 ---
-
 I will pass this way but once if there's any good that I can do
 Let me do it now for I'll never pass this way again
 I will see this day but once if there's any kindness I can show
@@ -47,6 +51,3 @@ I will know this world but once if there's any love that I can give
 Let me give it now oh Lord please show me how
 For I'll never know this world I'll never see this day
 I'll never pass this way again
-
-
-

@@ -1,8 +1,12 @@
 ---
+album: 'Finger Poppin'' And Stompin'' Feet: 20 Classic Allen Toussaint Productions
+  For Minit Records 1960-1962'
 artists:
 - The Showmen
+external_ids:
+  spotify: spotify:track:3ln9brkScMKIE9MsPirzLb
 features: []
-genres: []
+first_released_as_single: false
 key: it-will-stand-the-showmen
 lyrics_url: https://genius.com/The-showmen-it-will-stand-lyrics
 name: It Will Stand
@@ -67,6 +71,8 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '1964-07-18'
+release_year: 1961
+runtime: 142133
 ---
 Rock-roll-rock-roll
 

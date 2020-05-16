@@ -1,8 +1,11 @@
 ---
+album: 10th Anniversary - The Hits - Volume 1
 artists:
 - Fantasia
+external_ids:
+  spotify: spotify:track:79CMn8OuP2XhyEHl8NX41x
 features: []
-genres: []
+first_released_as_single: false
 key: when-i-see-u-fantasia
 lyrics_url: https://genius.com/Fantasia-when-i-see-u-lyrics
 name: When I See U
@@ -99,6 +102,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '2007-09-22'
+release_year: 2003
+runtime: 217546
 ---
 I put your picture on my mirror
 Start to blush when somebody says your name

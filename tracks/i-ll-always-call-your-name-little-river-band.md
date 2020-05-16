@@ -1,8 +1,11 @@
 ---
+album: Little River Band
 artists:
 - Little River Band
+external_ids:
+  spotify: spotify:track:5nLfgOFkgi1EOde4LQDcc8
 features: []
-genres: []
+first_released_as_single: false
 key: i-ll-always-call-your-name-little-river-band
 lyrics_url: https://genius.com/Little-river-band-ill-always-call-your-name-lyrics
 name: I'll Always Call Your Name
@@ -27,6 +30,8 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '1977-03-05'
+release_year: 1975
+runtime: 291053
 ---
 And I know if I don't go
 I'll never ever be like a rolling stone

@@ -1,8 +1,11 @@
 ---
+album: I Still Believe In You
 artists:
 - Vince Gill
+external_ids:
+  spotify: spotify:track:2rKtSHDkql7aZuWKUdSylq
 features: []
-genres: []
+first_released_as_single: false
 key: tryin--to-get-over-you-vince-gill
 lyrics_url: https://www.azlyrics.com/lyrics/vincegill/tryintogetoveryou.html
 name: Tryin' To Get Over You
@@ -15,8 +18,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1994-03-05'
+release_year: 1992
+runtime: 225626
 ---
-
 You could have given me a million reasons why
 But it wouldn't change a thing
 You said it all when you said goodbye
@@ -36,6 +40,3 @@ I've been tryin' to get over you
 I've been spending time alone
 I've been tryin' to get over you
 But it'll take dyin' to get it done
-
-
-

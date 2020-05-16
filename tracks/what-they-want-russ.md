@@ -1,8 +1,11 @@
 ---
+album: There's Really A Wolf
 artists:
 - Russ
+external_ids:
+  spotify: spotify:track:3aWhZ1zeqy1kdjXiyMh22T
 features: []
-genres: []
+first_released_as_single: true
 key: what-they-want-russ
 lyrics_url: https://genius.com/Russ-what-they-want-lyrics
 name: What They Want
@@ -39,6 +42,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2017-01-28'
+release_year: 2016
+runtime: 165853
 ---
 Yeah (Oh)
 Yeah (Oh)

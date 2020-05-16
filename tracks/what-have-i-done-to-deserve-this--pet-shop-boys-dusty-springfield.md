@@ -1,9 +1,12 @@
 ---
+album: 'Actually: Further Listening 1987-1988'
 artists:
 - Pet Shop Boys
 - Dusty Springfield
+external_ids:
+  spotify: spotify:track:5Knl7BTPCME3Kh5WxctWLU
 features: []
-genres: []
+first_released_as_single: false
 key: what-have-i-done-to-deserve-this--pet-shop-boys-dusty-springfield
 lyrics_url: https://genius.com/Pet-shop-boys-what-have-i-done-to-deserve-this-lyrics
 name: What Have I Done To Deserve This?
@@ -80,6 +83,8 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1988-04-09'
+release_year: 1987
+runtime: 260413
 ---
 You always wanted a lover
 I only wanted a job

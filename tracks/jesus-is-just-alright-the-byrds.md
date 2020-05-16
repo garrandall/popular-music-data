@@ -1,8 +1,11 @@
 ---
+album: Live
 artists:
 - The Byrds
+external_ids:
+  spotify: spotify:track:29eNy75Gj29jyhWh0av8OE
 features: []
-genres: []
+first_released_as_single: false
 key: jesus-is-just-alright-the-byrds
 lyrics_url: https://www.azlyrics.com/lyrics/byrds/jesusisjustalright.html
 name: Jesus Is Just Alright
@@ -11,8 +14,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1970-02-07'
+release_year: 1965
+runtime: 130866
 ---
-
 Jesus is just all right with me
 Jesus is just all right, Oh yeah
 Jesus is just all right with me
@@ -41,6 +45,3 @@ Jesus is just all right with me
 Jesus is just all right, Oh yeah
 Jesus is just all right with me
 Jesus is just all right
-
-
-

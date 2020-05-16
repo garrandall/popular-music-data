@@ -1,10 +1,13 @@
 ---
+album: Stay Trippy
 artists:
 - Juicy J
+external_ids:
+  spotify: spotify:track:7EZPH9Px3gXlxD5KJDwtwc
 features:
 - Lil Wayne
 - 2 Chainz
-genres: []
+first_released_as_single: false
 key: bandz-a-make-her-dance-juicy-j-lil-wayne-2-chainz
 lyrics_url: https://www.azlyrics.com/lyrics/juicyj/bandzamakeherdance.html
 name: Bandz A Make Her Dance
@@ -89,9 +92,9 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '2013-02-09'
+release_year: 2012
+runtime: 278826
 ---
-
-
 Bands a make her dance
 Bands a make her dance
 Bands a make her dance
@@ -231,6 +234,3 @@ Bands a make her dance
 Bands a make her dance
 These chicks clappin'
 And they ain't using hands
-
-
-

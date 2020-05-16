@@ -1,8 +1,11 @@
 ---
+album: Autoamerican
 artists:
 - Blondie
+external_ids:
+  spotify: spotify:track:0D6qZlc6vNR7PDW2RKGPsV
 features: []
-genres: []
+first_released_as_single: false
 key: rapture-blondie
 lyrics_url: https://www.azlyrics.com/lyrics/blondie/rapture.html
 name: Rapture
@@ -87,8 +90,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1981-06-13'
+release_year: 1980
+runtime: 391426
 ---
-
 Toe to toe
 Dancing very close
 Barely breathing
@@ -149,6 +153,3 @@ And you hip-hop, and you don't stop
 Just blast off, sure shot
 'Cause the man from Mars stopped eatin' cars and eatin' bars
 And now he only eats guitars, get up!
-
-
-

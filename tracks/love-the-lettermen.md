@@ -1,8 +1,11 @@
 ---
+album: A Song For Young Love
 artists:
 - The Lettermen
+external_ids:
+  spotify: spotify:track:1gMMY095TNREZ8ZZYsfM5L
 features: []
-genres: []
+first_released_as_single: false
 key: love-the-lettermen
 lyrics_url: https://genius.com/The-lettermen-never-my-love-lyrics
 name: Love
@@ -47,6 +50,8 @@ rankings:
   rank: 52
   ranking_list: Billboard Hot 100
   start_date: '1971-12-11'
+release_year: 1962
+runtime: 148360
 ---
 You ask me if there'll come a time
 When I grow tired of you

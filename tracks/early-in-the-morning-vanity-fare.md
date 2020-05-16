@@ -1,8 +1,11 @@
 ---
+album: The Sun the Wind and Other Things
 artists:
 - Vanity Fare
+external_ids:
+  spotify: spotify:track:6PzLcpsd4pDgahcvw3qFnm
 features: []
-genres: []
+first_released_as_single: false
 key: early-in-the-morning-vanity-fare
 lyrics_url: https://genius.com/Vanity-fare-early-in-the-morning-lyrics
 name: Early In The Morning
@@ -59,6 +62,8 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '1970-02-14'
+release_year: 1969
+runtime: 168830
 ---
 Evening, is a time of day
 I find nothing much to say

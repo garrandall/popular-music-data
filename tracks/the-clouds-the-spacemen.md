@@ -1,8 +1,11 @@
 ---
+album: The Clouds / The Lonely Jet Pilot (Digital 45)
 artists:
 - The Spacemen
+external_ids:
+  spotify: spotify:track:5B2Caa36wW8y0gSDVKJT7W
 features: []
-genres: []
+first_released_as_single: true
 key: the-clouds-the-spacemen
 name: The Clouds
 rankings:
@@ -62,5 +65,7 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1960-01-18'
+release_year: 1959
+runtime: 164571
 ---
 

@@ -1,8 +1,11 @@
 ---
+album: Wynonna
 artists:
 - Wynonna
+external_ids:
+  spotify: spotify:track:6Ek2xNsKHwkuYBqvzj20rl
 features: []
-genres: []
+first_released_as_single: false
 key: no-one-else-on-earth-wynonna
 lyrics_url: https://www.azlyrics.com/lyrics/wynonnajudd/nooneelseonearth.html
 name: No One Else On Earth
@@ -55,8 +58,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1993-01-09'
+release_year: 1992
+runtime: 240706
 ---
-
 I've been a rock and I've got my fences
 I never let them down
 When it comes to love, I keep my senses
@@ -86,4 +90,3 @@ How did you get to me?
 I shivered once you broke into my soul
 The damage is done now I'm out of control
 How did you get to me?
-

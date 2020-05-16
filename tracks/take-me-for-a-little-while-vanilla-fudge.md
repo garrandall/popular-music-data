@@ -1,8 +1,11 @@
 ---
+album: Vanilla Fudge
 artists:
 - Vanilla Fudge
+external_ids:
+  spotify: spotify:track:2AXigUpz4ycfVS550RH8wI
 features: []
-genres: []
+first_released_as_single: false
 key: take-me-for-a-little-while-vanilla-fudge
 lyrics_url: https://www.azlyrics.com/lyrics/vanillafudge/takemeforalittlewhile.html
 name: Take Me For A Little While
@@ -39,8 +42,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1968-11-23'
+release_year: 1967
+runtime: 235133
 ---
-
 I've been trying
 To make you love me
 But everything I try
@@ -86,6 +90,3 @@ Yeah, yeah, uh huh
 (Take me for a little while)
 (Take me for a little while)
 (Take me for a little while)
-
-
-

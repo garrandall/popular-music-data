@@ -1,8 +1,11 @@
 ---
+album: Blues
 artists:
 - Etta James
+external_ids:
+  spotify: spotify:track:228jEjW3dgYStlF1JrZfdq
 features: []
-genres: []
+first_released_as_single: false
 key: i-got-you-babe-etta-james
 lyrics_url: https://genius.com/Etta-james-i-got-you-babe-lyrics
 name: I Got You Babe
@@ -35,6 +38,8 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1968-06-29'
+release_year: 1968
+runtime: 148773
 ---
 People say that we don't know
 What love is or how to make it grow

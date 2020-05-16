@@ -1,8 +1,11 @@
 ---
+album: The 12" Album
 artists:
 - Howard Jones
+external_ids:
+  spotify: spotify:track:34XLH3LSpZSHMok9JpwL0F
 features: []
-genres: []
+first_released_as_single: false
 key: new-song-howard-jones
 lyrics_url: https://www.azlyrics.com/lyrics/howardjones/newsong.html
 name: New Song
@@ -67,8 +70,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1984-04-28'
+release_year: 1984
+runtime: 322706
 ---
-
 I've been waiting for so long
 To come here now and sing this song
 Don't be fooled by what you see
@@ -113,6 +117,3 @@ Don't crack up
 Bend your brain
 See both sides
 Throw off your mental chains
-
-
-

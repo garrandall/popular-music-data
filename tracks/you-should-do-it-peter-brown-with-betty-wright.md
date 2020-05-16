@@ -1,8 +1,12 @@
 ---
+album: 'The Essentials: Betty Wright'
 artists:
-- Peter Brown With Betty Wright
-features: []
-genres: []
+- Peter Brown
+external_ids:
+  spotify: spotify:track:4fF7vWtlKir78LFi8txuys
+features:
+- Betty Wright
+first_released_as_single: false
 key: you-should-do-it-peter-brown-with-betty-wright
 name: You Should Do It
 rankings:
@@ -38,5 +42,7 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1978-11-11'
+release_year: 1978
+runtime: 214640
 ---
 

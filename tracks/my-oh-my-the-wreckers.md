@@ -1,8 +1,11 @@
 ---
+album: Stand Still, Look Pretty (U.S. Version)
 artists:
 - The Wreckers
+external_ids:
+  spotify: spotify:track:0fGIhWOJecR9u9Bo9UOTKC
 features: []
-genres: []
+first_released_as_single: false
 key: my-oh-my-the-wreckers
 lyrics_url: https://www.azlyrics.com/lyrics/wreckers/myohmy.html
 name: My Oh My
@@ -19,8 +22,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '2007-02-10'
+release_year: 2006
+runtime: 210933
 ---
-
 This concrete road used to just be dirt
 We'd drive out here after work
 Every Friday night when I was eighteen
@@ -58,6 +62,3 @@ Oh my, oh my, my, my
 
 Oh my, oh my, oh my
 Oh my, oh my, oh my
-
-
-

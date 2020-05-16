@@ -1,8 +1,11 @@
 ---
+album: Walk Don't Run
 artists:
 - The Ventures
+external_ids:
+  spotify: spotify:track:7B2pUwzvlbNG9D855r9ugf
 features: []
-genres: []
+first_released_as_single: false
 key: walk----don-t-run-the-ventures
 name: Walk -- Don't Run
 rankings:
@@ -78,5 +81,7 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '1960-11-14'
+release_year: 1960
+runtime: 122933
 ---
 

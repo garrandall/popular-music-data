@@ -1,8 +1,11 @@
 ---
+album: This Ole Boy
 artists:
 - Craig Morgan
+external_ids:
+  spotify: spotify:track:18MS8gVY5UbjMQypepDgqi
 features: []
-genres: []
+first_released_as_single: true
 key: this-ole-boy-craig-morgan
 lyrics_url: https://www.azlyrics.com/lyrics/craigmorgan/thisoleboy.html
 name: This Ole Boy
@@ -43,8 +46,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2012-06-02'
+release_year: 2011
+runtime: 261576
 ---
-
 She got her smile on, dog'on nothing in the world's wrong
 Rolling down a country road
 She's my shotgun rider, I'm the lucky dog beside her
@@ -92,6 +96,3 @@ But this ole boy
 Yeah this ole boy
 Nobody but this ole boy
 This ole boy
-
-
-

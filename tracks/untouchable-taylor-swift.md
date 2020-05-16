@@ -1,8 +1,11 @@
 ---
+album: Live From Clear Channel Stripped 2008
 artists:
 - Taylor Swift
+external_ids:
+  spotify: spotify:track:4MbHDiHQjhmoVAV75G04Ql
 features: []
-genres: []
+first_released_as_single: false
 key: untouchable-taylor-swift
 lyrics_url: https://www.azlyrics.com/lyrics/taylorswift/untouchable.html
 name: Untouchable
@@ -15,8 +18,9 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '2009-11-21'
+release_year: 2008
+runtime: 222959
 ---
-
 Untouchable like a distant diamond sky,
 I'm reaching out and I just can't tell you why
 I'm caught up in you,
@@ -98,6 +102,3 @@ Come on, come on
 Like a million little stars
 Spelling out your name
 Spelling out your name
-
-
-

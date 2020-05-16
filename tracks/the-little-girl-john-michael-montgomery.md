@@ -1,8 +1,11 @@
 ---
+album: Brand New Me
 artists:
 - John Michael Montgomery
+external_ids:
+  spotify: spotify:track:572R9OVMyWKBeg1hOMgSsW
 features: []
-genres: []
+first_released_as_single: false
 key: the-little-girl-john-michael-montgomery
 lyrics_url: https://www.azlyrics.com/lyrics/johnmichaelmontgomery/thelittlegirl.html
 name: The Little Girl
@@ -87,8 +90,9 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '2001-01-20'
+release_year: 2000
+runtime: 232640
 ---
-
 Her parents never took the young girl to church
 Never spoke of His Name
 Never read her His Word
@@ -118,6 +122,3 @@ Cause He was there in my old house
 And held me close to His side
 As I hid there behind our couch
 The night that my parents died
-
-
-

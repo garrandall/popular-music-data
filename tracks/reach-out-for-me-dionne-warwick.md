@@ -1,8 +1,11 @@
 ---
+album: Make Way For Dionne Warwick
 artists:
 - Dionne Warwick
+external_ids:
+  spotify: spotify:track:0CxAi3kh5HrRsYVU6d6X2a
 features: []
-genres: []
+first_released_as_single: false
 key: reach-out-for-me-dionne-warwick
 lyrics_url: https://www.azlyrics.com/lyrics/dionnewarwick/reachoutforme.html
 name: Reach Out For Me
@@ -39,8 +42,9 @@ rankings:
   rank: 32
   ranking_list: Billboard Hot 100
   start_date: '1964-12-12'
+release_year: 1964
+runtime: 172400
 ---
-
 When you go through a day
 And the things that people say
 They make you feel so small
@@ -65,6 +69,3 @@ You haven't a reason for living
 So when you feel you
 Could throw in the towel and just given in
 Darlin' reach out for me
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: The Ventures
 artists:
 - The Ventures
+external_ids:
+  spotify: spotify:track:7fJhofKXs5MIutxbRK7LAi
 features: []
-genres: []
+first_released_as_single: false
 key: ram-bunk-shush-the-ventures
 lyrics_url: https://genius.com/The-ventures-ram-bunk-shush-lyrics
 name: Ram-Bunk-Shush
@@ -43,5 +46,7 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '1961-03-20'
+release_year: 1961
+runtime: 102773
 ---
 Instrumental

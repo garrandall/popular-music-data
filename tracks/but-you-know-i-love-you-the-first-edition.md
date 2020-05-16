@@ -1,8 +1,11 @@
 ---
+album: All Time Greatest Hits, Vol. 1
 artists:
 - The First Edition
+external_ids:
+  spotify: spotify:track:3QL1WUVydAYUl5kM2d1K8X
 features: []
-genres: []
+first_released_as_single: false
 key: but-you-know-i-love-you-the-first-edition
 lyrics_url: https://genius.com/Kenny-rogers-and-the-first-edition-but-you-know-i-love-you-lyrics
 name: But You Know I Love You
@@ -51,6 +54,8 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '1969-03-29'
+release_year: 1969
+runtime: 187506
 ---
 When the morning sun
 Streaks across my room

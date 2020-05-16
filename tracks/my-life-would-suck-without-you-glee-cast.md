@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music, Volume 2'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:0UrheRSNBXBiZgudI7tVQ2
 features: []
-genres: []
+first_released_as_single: false
 key: my-life-would-suck-without-you-glee-cast
 lyrics_url: https://www.azlyrics.com/lyrics/gleecast/mylifewouldsuckwithoutyou.html
 name: My Life Would Suck Without You
@@ -11,8 +14,9 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '2009-12-26'
+release_year: 2009
+runtime: 211800
 ---
-
 Guess this means you're sorry
 You're standing at my door
 Guess this means you take back
@@ -53,6 +57,3 @@ My life would suck without you
 Forever united here somehow, yeah
 You got a piece of me and honestly
 My life would suck without you
-
-
-

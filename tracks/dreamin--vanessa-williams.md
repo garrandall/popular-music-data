@@ -1,8 +1,11 @@
 ---
+album: Greatest Hits
 artists:
 - Vanessa Williams
+external_ids:
+  spotify: spotify:track:0Al1vUKETBbc9F1tS6VOra
 features: []
-genres: []
+first_released_as_single: false
 key: dreamin--vanessa-williams
 lyrics_url: https://www.azlyrics.com/lyrics/vanessawilliams/dreamin.html
 name: Dreamin'
@@ -87,8 +90,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1989-05-20'
+release_year: 1989
+runtime: 327000
 ---
-
 For the life of me
 I never thought that it could be
 The way it stands right now
@@ -131,6 +135,3 @@ Hoping baby you will be there
 I'll be dreamin'
 Dreamin'
 Hoping baby you will be there
-
-
-

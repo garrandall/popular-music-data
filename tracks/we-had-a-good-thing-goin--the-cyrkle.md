@@ -1,8 +1,11 @@
 ---
+album: Red Rubber Ball (A Collection)
 artists:
 - The Cyrkle
+external_ids:
+  spotify: spotify:track:1bmcrUnBHBKNI3R6ycO1Cc
 features: []
-genres: []
+first_released_as_single: false
 key: we-had-a-good-thing-goin--the-cyrkle
 lyrics_url: https://www.azlyrics.com/lyrics/cyrkle/wehadagoodthinggoin.html
 name: We Had A Good Thing Goin'
@@ -27,8 +30,9 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1967-06-10'
+release_year: 1967
+runtime: 170693
 ---
-
 We had a good thing going
 But it couldn't last
 We had a good thing going
@@ -61,6 +65,3 @@ We can get that good thing going again
 We can get that good thing going again
 We can get that good thing going again
 We can get that good thing going again...
-
-
-

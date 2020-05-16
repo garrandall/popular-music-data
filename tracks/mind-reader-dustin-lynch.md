@@ -1,8 +1,11 @@
 ---
+album: Where It's At
 artists:
 - Dustin Lynch
+external_ids:
+  spotify: spotify:track:2MNapHbu7QASoukvVVIxyr
 features: []
-genres: []
+first_released_as_single: false
 key: mind-reader-dustin-lynch
 lyrics_url: https://www.azlyrics.com/lyrics/dustinlynch/mindreader.html
 name: Mind Reader
@@ -71,8 +74,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '2016-06-25'
+release_year: 2014
+runtime: 185413
 ---
-
 How'd you know to wear your hair like that?
 How'd you know to turn up that song?
 How'd you know them little tore up jeans
@@ -126,6 +130,3 @@ Yeah, it's like you're reading my mind
 (Baby, you're a little mind, baby, you're a little mind reader)
 Yeah, that's what you are
 (Baby, you're a little mind, baby, you're a little mind reader)
-
-
-

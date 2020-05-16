@@ -1,8 +1,11 @@
 ---
+album: Saved
 artists:
 - LaVern Baker
+external_ids:
+  spotify: spotify:track:5LjT116RLtjeZWoBfETKnC
 features: []
-genres: []
+first_released_as_single: false
 key: bumble-bee-lavern-baker
 lyrics_url: https://genius.com/Lavern-baker-bumble-bee-lyrics
 name: Bumble Bee
@@ -51,6 +54,8 @@ rankings:
   rank: 52
   ranking_list: Billboard Hot 100
   start_date: '1961-01-23'
+release_year: 1960
+runtime: 147373
 ---
 I'm gonna have to put you down
 You been treating me like a clown

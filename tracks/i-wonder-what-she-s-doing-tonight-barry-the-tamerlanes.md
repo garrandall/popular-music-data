@@ -1,9 +1,12 @@
 ---
+album: 'So Fine: One Hit Wonders of AM Radio'
 artists:
 - Barry
 - The Tamerlanes
+external_ids:
+  spotify: spotify:track:1URixdT65DuE1s7nezaTom
 features: []
-genres: []
+first_released_as_single: false
 key: i-wonder-what-she-s-doing-tonight-barry-the-tamerlanes
 lyrics_url: https://genius.com/Barry-and-the-tamerlanes-i-wonder-what-shes-doing-tonight-lyrics
 name: I Wonder What She's Doing Tonight
@@ -48,6 +51,8 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1963-12-21'
+release_year: 1963
+runtime: 111720
 ---
 Can't help it if I wonder, wonder what she's doin'
 Can't help it if I wonder what she's doin' tonight

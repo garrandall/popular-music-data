@@ -1,8 +1,11 @@
 ---
+album: Stars And Stripes Forever
 artists:
 - Nitty Gritty Dirt Band
+external_ids:
+  spotify: spotify:track:1mrQPomno9a7r30XksGy0l
 features: []
-genres: []
+first_released_as_single: false
 key: mr-bojangles-nitty-gritty-dirt-band
 lyrics_url: https://www.azlyrics.com/lyrics/nittygrittydirtband/mrbojangles.html
 name: Mr Bojangles
@@ -83,8 +86,9 @@ rankings:
   rank: 26
   ranking_list: Billboard Hot 100
   start_date: '1971-03-27'
+release_year: 1970
+runtime: 229970
 ---
-
 I knew a man Bojangles and he'd dance for you 
 In worn out shoes 
 With silver hair, a ragged shirt, and baggy pants 
@@ -125,6 +129,3 @@ I heard someone ask him please
 
 Mr. Bojangles, Mr. Bojangles
 Mr. Bojangles, dance..
-
-
-

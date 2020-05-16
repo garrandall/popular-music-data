@@ -1,8 +1,11 @@
 ---
+album: Winning Combinations
 artists:
 - The Temptations
+external_ids:
+  spotify: spotify:track:3Bk781lWStgfPcshRReNtZ
 features: []
-genres: []
+first_released_as_single: false
 key: ball-of-confusion--that-s-what-the-world-is-today--the-temptations
 lyrics_url: https://www.azlyrics.com/lyrics/temptations/ballofconfusionthatswhattheworldistoday.html
 name: Ball Of Confusion (That's What The World Is Today)
@@ -67,8 +70,9 @@ rankings:
   rank: 30
   ranking_list: Billboard Hot 100
   start_date: '1970-08-29'
+release_year: 1970
+runtime: 244133
 ---
-
 1, 2... 1, 2, 3, 4, Ow!
 
 People moving out, people moving in
@@ -126,6 +130,3 @@ That's what the world is today, hey, hey
 Let me hear ya, let me hear ya, let me hear ya, let me hear ya, let me hear ya
 (Sayin') ball of confusion
 That's what the world is today...
-
-
-

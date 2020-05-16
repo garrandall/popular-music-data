@@ -1,10 +1,13 @@
 ---
+album: 4REAL 4REAL
 artists:
 - YG
 - Tyga
 - Jon Z
+external_ids:
+  spotify: spotify:track:1kK6DwzyXJSp58u5HYWwuD
 features: []
-genres: []
+first_released_as_single: false
 key: go-loko-yg-tyga-jon-z
 lyrics_url: https://genius.com/Yg-go-loko-lyrics
 name: Go Loko
@@ -85,6 +88,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2019-09-21'
+release_year: 2019
+runtime: 299226
 ---
 Mustard on the beat, ho
 

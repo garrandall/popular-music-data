@@ -1,8 +1,11 @@
 ---
+album: ''
 artists:
 - Ronnie Dyson
+external_ids:
+  spotify: spotify:track:3Ow83W1UJl7toY1S8zmc1A
 features: []
-genres: []
+first_released_as_single: false
 key: just-don-t-want-to-be-lonely-ronnie-dyson
 lyrics_url: https://genius.com/Ronnie-dyson-just-dont-want-to-be-lonely-lyrics
 name: Just Don't Want To Be Lonely
@@ -35,6 +38,8 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '1973-09-22'
+release_year: 1970
+runtime: 191973
 ---
 Just Don't Want To Be Lonely
 The Main Ingredient
@@ -53,5 +58,3 @@ I don't mind when the time sets the sun to the moon
 I just don't wanna be lonely
 Let the stairs find you there, at the end of the room
 I just don't wanna be lonely
-
-

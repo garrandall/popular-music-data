@@ -1,9 +1,12 @@
 ---
+album: Emergency (Reissue)
 artists:
 - Kool
 - The Gang
+external_ids:
+  spotify: spotify:track:6KthkBoyIkEPnVSVuHvdCB
 features: []
-genres: []
+first_released_as_single: false
 key: misled-kool-the-gang
 lyrics_url: https://www.azlyrics.com/lyrics/koolthegang/misled.html
 name: Misled
@@ -104,8 +107,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1985-05-04'
+release_year: 1984
+runtime: 300733
 ---
-
 Late at night, body's yearning
 Restless night, want to be with you
 Someone's playing in the garden
@@ -184,6 +188,3 @@ Misled
 I was misled by you
 Misled
 Misled
-
-
-

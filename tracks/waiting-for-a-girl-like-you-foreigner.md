@@ -1,8 +1,11 @@
 ---
+album: 4 (Expanded)
 artists:
 - Foreigner
+external_ids:
+  spotify: spotify:track:2OgVsp77En2nju8pnCieVU
 features: []
-genres: []
+first_released_as_single: false
 key: waiting-for-a-girl-like-you-foreigner
 lyrics_url: https://www.azlyrics.com/lyrics/foreigner/waitingforagirllikeyou.html
 name: Waiting For A Girl Like You
@@ -99,8 +102,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1982-03-13'
+release_year: 1981
+runtime: 292066
 ---
-
 So long
 I've been looking too hard
 I've been waiting too long
@@ -155,6 +159,3 @@ I've been waiting, yeah
 (I've been waiting for a girl like you
 I've been waiting)
 Won't you come into my life?
-
-
-

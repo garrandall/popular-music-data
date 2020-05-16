@@ -1,8 +1,11 @@
 ---
+album: Temple Bar
 artists:
 - John Waite
+external_ids:
+  spotify: spotify:track:38IDDkncsXoh1Q0weShawp
 features: []
-genres: []
+first_released_as_single: false
 key: how-did-i-get-by-without-you--john-waite
 lyrics_url: https://www.azlyrics.com/lyrics/johnwaite/howdidigetbywithoutyou.html
 name: How Did I Get By Without You?
@@ -39,8 +42,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1995-05-20'
+release_year: 1995
+runtime: 244666
 ---
-
 There was a time 
 When I thought I knew 
 Everything about 
@@ -114,6 +118,3 @@ Beautiful
 So how did I get by without you 
 Without you 
 Without you
-
-
-

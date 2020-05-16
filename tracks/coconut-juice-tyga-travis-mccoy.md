@@ -1,9 +1,12 @@
 ---
+album: Total Dance 2008 Vol. 2
 artists:
 - Tyga
+external_ids:
+  spotify: spotify:track:04aweMzj1HaG9jN5mwZPtD
 features:
 - Travis McCoy
-genres: []
+first_released_as_single: false
 key: coconut-juice-tyga-travis-mccoy
 lyrics_url: https://genius.com/Tyga-coconut-juice-lyrics
 name: Coconut Juice
@@ -12,6 +15,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2008-06-28'
+release_year: 2008
+runtime: 199413
 ---
 Put the lime in the coconut and twist it all up
 Put the lime in the coconut and twist it all up

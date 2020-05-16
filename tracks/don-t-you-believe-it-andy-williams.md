@@ -1,8 +1,11 @@
 ---
+album: Andy's Newest Hits
 artists:
 - Andy Williams
+external_ids:
+  spotify: spotify:track:57fXifdcomXuoCqRZY8KRN
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-you-believe-it-andy-williams
 lyrics_url: https://genius.com/Andy-williams-dont-you-believe-it-lyrics
 name: Don't You Believe It
@@ -47,6 +50,8 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '1962-11-17'
+release_year: 1962
+runtime: 147426
 ---
 If you should hear
 That someone new

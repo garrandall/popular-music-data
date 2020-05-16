@@ -1,9 +1,12 @@
 ---
+album: Moody Jr.
 artists:
 - Jr. Walker
 - The All Stars
+external_ids:
+  spotify: spotify:track:0C4CdjZponKJGIaTvLVP53
 features: []
-genres: []
+first_released_as_single: false
 key: walk-in-the-night-jr--walker-the-all-stars
 lyrics_url: https://www.musixmatch.com/lyrics/Jr-Walker-The-All-Stars/Walk-in-the-Night
 name: Walk In The Night
@@ -56,6 +59,8 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '1972-06-17'
+release_year: 1971
+runtime: 249693
 ---
 Walk in the night
 Walk in the night

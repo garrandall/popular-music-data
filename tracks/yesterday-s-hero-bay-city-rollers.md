@@ -1,8 +1,11 @@
 ---
+album: Dedication
 artists:
 - Bay City Rollers
+external_ids:
+  spotify: spotify:track:05B0TIzyqSDVNGLw4BEzFz
 features: []
-genres: []
+first_released_as_single: false
 key: yesterday-s-hero-bay-city-rollers
 lyrics_url: https://www.azlyrics.com/lyrics/baycityrollers/yesterdayshero.html
 name: Yesterday's Hero
@@ -35,8 +38,9 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1977-01-22'
+release_year: 1974
+runtime: 224444
 ---
-
 We want rollers
 We want rollers
 We want rollers
@@ -119,6 +123,3 @@ We don't wanna be
 Yesterday's hero
 Yesterday's hero
 No, no
-
-
-

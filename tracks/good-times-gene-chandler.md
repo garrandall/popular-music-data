@@ -1,8 +1,11 @@
 ---
+album: The Girl Don't Care
 artists:
 - Gene Chandler
+external_ids:
+  spotify: spotify:track:16TsuQ9RFvlfT8V1iHoOyl
 features: []
-genres: []
+first_released_as_single: false
 key: good-times-gene-chandler
 lyrics_url: https://genius.com/Gene-chandler-good-times-lyrics
 name: Good Times
@@ -19,6 +22,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1965-09-04'
+release_year: 1965
+runtime: 145640
 ---
 Early evening and the weather's fair
 Dark glasses and don't give a care

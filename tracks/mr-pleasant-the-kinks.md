@@ -1,8 +1,11 @@
 ---
+album: Something Else
 artists:
 - The Kinks
+external_ids:
+  spotify: spotify:track:6EOsbubL3lIxRmVz6L1cfK
 features: []
-genres: []
+first_released_as_single: false
 key: mr-pleasant-the-kinks
 lyrics_url: https://genius.com/The-kinks-mr-pleasant-lyrics
 name: Mr Pleasant
@@ -23,6 +26,8 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '1967-07-22'
+release_year: 1967
+runtime: 177973
 ---
 Oh, Mr. Pleasant, how is Mrs. Pleasant?
 I hope the world is treating you right

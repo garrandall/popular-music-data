@@ -1,8 +1,11 @@
 ---
+album: Reverence
 artists:
 - Faithless
+external_ids:
+  spotify: spotify:track:5z5wYWL1IO6y2yEFBOiGt0
 features: []
-genres: []
+first_released_as_single: false
 key: insomnia-faithless
 lyrics_url: https://www.azlyrics.com/lyrics/faithless/insomnia.html
 name: Insomnia
@@ -83,8 +86,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1997-08-02'
+release_year: 1996
+runtime: 527240
 ---
-
 Deep in the bosom of the gentle night
 Is when I search for the light
 Pick up my pen and start to write
@@ -116,6 +120,3 @@ I can't get no sleep
 I can't get no sleep
 I need to sleep, although I get no sleep
 I need to sleep, although I get no sleep
-
-
-

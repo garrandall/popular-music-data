@@ -1,8 +1,11 @@
 ---
+album: A Love Letter To You 4
 artists:
 - Trippie Redd
+external_ids:
+  spotify: spotify:track:2NSWi83peog6gHerzlMCqU
 features: []
-genres: []
+first_released_as_single: true
 key: love-me-more-trippie-redd
 lyrics_url: https://genius.com/Trippie-redd-love-me-more-lyrics
 name: Love Me More
@@ -15,6 +18,8 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '2019-12-07'
+release_year: 2019
+runtime: 143712
 ---
 Internet Money, bitch
 Hahahaha, Nick, you're stupid

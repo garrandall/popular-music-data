@@ -1,8 +1,11 @@
 ---
+album: Wild, Cool & Swingin'
 artists:
 - Mrs. Miller
+external_ids:
+  spotify: spotify:track:5Hife6QE6Hnq72Ims8CX96
 features: []
-genres: []
+first_released_as_single: false
 key: a-lover-s-concerto-mrs--miller
 lyrics_url: https://www.musixmatch.com/lyrics/Mrs-Miller/A-Lover-s-Concerto
 name: A Lover's Concerto
@@ -15,6 +18,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1966-05-14'
+release_year: 1966
+runtime: 153533
 ---
 How gentle is the rain, that falls gently on the meadow;
 Birds high upon the trees serenade the flow'rs with their melodies.

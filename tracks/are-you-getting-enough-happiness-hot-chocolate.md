@@ -1,8 +1,11 @@
 ---
+album: Funk!
 artists:
 - Hot Chocolate
+external_ids:
+  spotify: spotify:track:4rE09VUFLmK4WyyuznpBeZ
 features: []
-genres: []
+first_released_as_single: false
 key: are-you-getting-enough-happiness-hot-chocolate
 lyrics_url: https://www.musixmatch.com/lyrics/Hot-Chocolate/Are-You-Getting-Enough-Happiness
 name: Are You Getting Enough Happiness
@@ -35,6 +38,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1983-01-29'
+release_year: 1982
+runtime: 352533
 ---
 Every time I go to the movies
 All I see is happy love on the silver screen

@@ -1,9 +1,12 @@
 ---
+album: Invasion of Privacy
 artists:
 - Cardi B
+external_ids:
+  spotify: spotify:track:3YFA7RwJwp2hWP6rMAQfD2
 features:
 - SZA
-genres: []
+first_released_as_single: false
 key: i-do-cardi-b-sza
 lyrics_url: https://www.azlyrics.com/lyrics/cardi-b/ido.html
 name: I Do
@@ -28,8 +31,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2018-05-19'
+release_year: 2018
+runtime: 200205
 ---
-
 M-M-M-Murda
 
 
@@ -97,6 +101,3 @@ I do what I like, I do, I do
 I do what I like, I do, I do
 I do what I like, I do, I do
 I do what I like, I do, I do
-
-
-

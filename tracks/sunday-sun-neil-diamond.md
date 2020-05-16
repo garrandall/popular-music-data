@@ -1,8 +1,11 @@
 ---
+album: Velvet Gloves And Spit
 artists:
 - Neil Diamond
+external_ids:
+  spotify: spotify:track:4WZvrKAY4g6XB5EE4ajnta
 features: []
-genres: []
+first_released_as_single: false
 key: sunday-sun-neil-diamond
 lyrics_url: https://www.azlyrics.com/lyrics/neildiamond/sundaysun.html
 name: Sunday Sun
@@ -27,8 +30,9 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '1968-11-30'
+release_year: 1968
+runtime: 168693
 ---
-
 Hey, Sunday Sun
 Let's go walkin'
 And we'll talk about some things
@@ -72,6 +76,3 @@ And we'll dream about some dreams
 Come on Sunday Sun,
 We got some plans to make
 We go walking...
-
-
-

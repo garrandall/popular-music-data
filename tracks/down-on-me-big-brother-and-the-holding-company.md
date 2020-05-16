@@ -1,8 +1,11 @@
 ---
+album: Big Brother & The Holding Company
 artists:
 - Big Brother And The Holding Company
+external_ids:
+  spotify: spotify:track:42TKLlMFDXauhLzj7zOPUx
 features: []
-genres: []
+first_released_as_single: false
 key: down-on-me-big-brother-and-the-holding-company
 lyrics_url: https://genius.com/Big-brother-and-the-holding-company-down-on-me-lyrics
 name: Down On Me
@@ -39,6 +42,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1968-10-19'
+release_year: 1967
+runtime: 124760
 ---
 Down on me, down on me
 Looks like everybody in this whole round world

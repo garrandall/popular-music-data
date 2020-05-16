@@ -1,8 +1,11 @@
 ---
+album: Take A Look In The Mirror
 artists:
 - Korn
+external_ids:
+  spotify: spotify:track:2AsTgVcWojYwQAvzgacYWy
 features: []
-genres: []
+first_released_as_single: false
 key: did-my-time-korn
 lyrics_url: https://genius.com/Korn-did-my-time-lyrics
 name: Did My Time
@@ -47,6 +50,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2003-10-11'
+release_year: 2003
+runtime: 244493
 ---
 Realize that I can never win
 Sometimes feel like I have failed

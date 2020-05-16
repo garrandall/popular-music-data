@@ -1,10 +1,13 @@
 ---
+album: When It's Dark Out
 artists:
 - G-Eazy
+external_ids:
+  spotify: spotify:track:5sv4LTz8qayQYnXlzaxg2x
 features:
 - Chris Brown
 - Tory Lanez
-genres: []
+first_released_as_single: false
 key: drifting-g-eazy-chris-brown-tory-lanez
 lyrics_url: https://genius.com/G-eazy-drifting-lyrics
 name: Drifting
@@ -13,6 +16,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2015-12-26'
+release_year: 2015
+runtime: 273253
 ---
 Got this flight to London, I ain't pop no Xans for it
 In case you was wonderin', I ain't even plan for it

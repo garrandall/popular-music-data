@@ -1,8 +1,11 @@
 ---
+album: NOW That's What I Call Music, Vol. 71
 artists:
 - Ava Max
+external_ids:
+  spotify: spotify:track:10WVEHOf1FZf5XgK6dUWvN
 features: []
-genres: []
+first_released_as_single: true
 key: sweet-but-psycho-ava-max
 lyrics_url: https://genius.com/Ava-max-sweet-but-psycho-lyrics
 name: Sweet But Psycho
@@ -147,6 +150,8 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '2019-08-24'
+release_year: 2018
+runtime: 179265
 ---
 Oh, she's sweet but a psycho
 A little bit psycho

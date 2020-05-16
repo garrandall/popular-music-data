@@ -1,9 +1,12 @@
 ---
+album: Streets Is Watching
 artists:
 - Rell
+external_ids:
+  spotify: spotify:track:1kvVVUEGB0DQNVOuzJVnmG
 features:
 - Jay-Z
-genres: []
+first_released_as_single: false
 key: love-for-free-rell-jay-z
 lyrics_url: https://genius.com/Rell-love-for-free-lyrics
 name: Love For Free
@@ -20,6 +23,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1998-08-15'
+release_year: 1998
+runtime: 250400
 ---
 Uh huh uh, geah
 Roc-A-Fella y'all

@@ -1,8 +1,11 @@
 ---
+album: StarStruck
 artists:
 - Christopher Wilde
+external_ids:
+  spotify: spotify:track:03teNQu8rWlFnNzF1ULXIq
 features: []
-genres: []
+first_released_as_single: false
 key: starstruck-christopher-wilde
 lyrics_url: https://genius.com/Christopher-wilde-starstruck-lyrics
 name: StarStruck
@@ -11,6 +14,8 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '2010-03-06'
+release_year: 2010
+runtime: 175026
 ---
 Oh-oh, yeah
 Oh-oh, yeah

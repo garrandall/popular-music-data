@@ -1,9 +1,12 @@
 ---
+album: Rap Song
 artists:
 - T-Pain
+external_ids:
+  spotify: spotify:track:28gIO6msEpMiz8D8uk4zvr
 features:
 - Rick Ross
-genres: []
+first_released_as_single: true
 key: rap-song-t-pain-rick-ross
 lyrics_url: https://genius.com/T-pain-rap-song-lyrics
 name: Rap Song
@@ -12,6 +15,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2010-11-06'
+release_year: 2010
+runtime: 237800
 ---
 Nappy Boy oh-wee, oh-wee
 Everybody say yeah, oh oh oh

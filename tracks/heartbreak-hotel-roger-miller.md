@@ -1,8 +1,11 @@
 ---
+album: 'King Of The Road: The Genius Of Roger Miller'
 artists:
 - Roger Miller
+external_ids:
+  spotify: spotify:track:0UsAYccEydT3AoDZi6wXwG
 features: []
-genres: []
+first_released_as_single: false
 key: heartbreak-hotel-roger-miller
 lyrics_url: https://www.azlyrics.com/lyrics/rogermiller/heartbreakhotel.html
 name: Heartbreak Hotel
@@ -23,8 +26,9 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1966-11-26'
+release_year: 1966
+runtime: 135226
 ---
-
 Since my baby left me I've found new place to dwell
 Stand at the end on Lonely Street at Heartbreak Hotel
 Well I get so lonely baby I get so lonely I get so lonely I could die
@@ -37,6 +41,3 @@ Yeah the bellhop's tears keep flowing the deskclerk's dressed in black
 They've been so long on Lonely Street they ain't never gonna come back
 Well I get so lonely I get so lonely I get so lonely I could die
 One more since my baby left me...
-
-
-

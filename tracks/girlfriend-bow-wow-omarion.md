@@ -1,9 +1,12 @@
 ---
+album: Face Off
 artists:
 - Bow Wow
 - Omarion
+external_ids:
+  spotify: spotify:track:2w85F9RF9mWfWfN5fIFEYE
 features: []
-genres: []
+first_released_as_single: false
 key: girlfriend-bow-wow-omarion
 lyrics_url: https://www.azlyrics.com/lyrics/bowwow/girlfriend.html
 name: Girlfriend
@@ -68,9 +71,10 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '2008-02-23'
+release_year: 2000
+runtime: 284160
 ---
-
- Bow Wow & Omarion
+Bow Wow & Omarion
  Uh
  So special
  LB Dub
@@ -268,6 +272,3 @@ And cut
  L - B - DUB gang
 Ah
 T - U - G yeah
-
-
-

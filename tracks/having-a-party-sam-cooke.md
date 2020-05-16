@@ -1,8 +1,11 @@
 ---
+album: One Night Stand - Sam Cooke Live At The Harlem Square Club, 1963
 artists:
 - Sam Cooke
+external_ids:
+  spotify: spotify:track:3Pnpmp7t5Cwxq63kKvCMU4
 features: []
-genres: []
+first_released_as_single: false
 key: having-a-party-sam-cooke
 lyrics_url: https://www.azlyrics.com/lyrics/samcooke/havingaparty.html
 name: Having A Party
@@ -67,8 +70,9 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1962-09-01'
+release_year: 1962
+runtime: 303466
 ---
-
 We're having a party
 dancing to the music
 played by the DJ
@@ -109,6 +113,3 @@ We're having a party--yeah
 everybody's swinging--oh we're
 dancing to the music--yeah
 on the radio (song fades and ends)
-
-
-

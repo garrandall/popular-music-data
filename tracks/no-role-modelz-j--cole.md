@@ -1,8 +1,11 @@
 ---
+album: 2014 Forest Hills Drive
 artists:
 - J. Cole
+external_ids:
+  spotify: spotify:track:62vpWI1CHwFy7tMIcSStl8
 features: []
-genres: []
+first_released_as_single: false
 key: no-role-modelz-j--cole
 lyrics_url: https://www.azlyrics.com/lyrics/jcole/norolemodelz.html
 name: No Role Modelz
@@ -107,8 +110,9 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '2016-02-20'
+release_year: 2014
+runtime: 292986
 ---
-
 First things first rest in peace Uncle Phil
 For real, you the only father that I ever knew
 I get my bitch pregnant I'mma be a better you
@@ -188,4 +192,3 @@ She shallow but the pussy deep (she shallow, she shallow)
 She shallow but the pussy deep (she shallow, she shallow)
 She shallow but the pussy deep (she shallow, she shallow)
 She shallow but the pussy deep (she shallow, she shallow)
-

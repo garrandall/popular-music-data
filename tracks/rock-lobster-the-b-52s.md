@@ -1,8 +1,12 @@
 ---
+album: Live On Studio Jam - WSAI FM Chicago 1 Jan 1978 (Live FM Radio Concert Remastered
+  In Superb Fidelity)
 artists:
 - The B-52s
+external_ids:
+  spotify: spotify:track:6T93OiGgdLpijXPxwLfF5x
 features: []
-genres: []
+first_released_as_single: false
 key: rock-lobster-the-b-52s
 lyrics_url: https://www.azlyrics.com/lyrics/b52s/rocklobster.html
 name: Rock Lobster
@@ -39,8 +43,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1980-06-07'
+release_year: 1978
+runtime: 326321
 ---
-
 Ski-doo-be-dop
 Eww
 Ski-doo-be-dop
@@ -120,6 +125,3 @@ Here comes a bikini whale! (Ah!)
 (Lobster) Rock lobster (Ah-ah-ah-ah-ah)
 (Ah-ah-ah-ah-ah)
 (Ah-ah-ah-ah-ah)
-
-
-

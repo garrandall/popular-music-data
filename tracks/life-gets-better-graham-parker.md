@@ -1,8 +1,11 @@
 ---
+album: The Real Macaw
 artists:
 - Graham Parker
+external_ids:
+  spotify: spotify:track:6W43YGPlz8agyCbUZq2n0H
 features: []
-genres: []
+first_released_as_single: false
 key: life-gets-better-graham-parker
 lyrics_url: https://genius.com/Graham-parker-life-gets-better-lyrics
 name: Life Gets Better
@@ -15,6 +18,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1983-10-01'
+release_year: 1983
+runtime: 191440
 ---
 I used to think that it all stopped happening
 By the time you reached twenty one

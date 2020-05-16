@@ -1,8 +1,11 @@
 ---
+album: Small Change
 artists:
 - Prism
+external_ids:
+  spotify: spotify:track:5K61fvMXHaCA1qzbrJFjng
 features: []
-genres: []
+first_released_as_single: false
 key: turn-on-your-radar-prism
 lyrics_url: https://genius.com/Prism-turn-on-your-radar-lyrics
 name: Turn On Your Radar
@@ -35,6 +38,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1982-05-29'
+release_year: 1981
+runtime: 196026
 ---
 I'm from another country, an alien nation
 It's in another world of my own creation

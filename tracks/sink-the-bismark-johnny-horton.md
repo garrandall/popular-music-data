@@ -1,8 +1,11 @@
 ---
+album: American Originals
 artists:
 - Johnny Horton
+external_ids:
+  spotify: spotify:track:1wuRCnD6sLvs9YuIOlqqOj
 features: []
-genres: []
+first_released_as_single: false
 key: sink-the-bismark-johnny-horton
 lyrics_url: https://www.azlyrics.com/lyrics/johnnyhorton/sinkthebismark.html
 name: Sink The Bismark
@@ -79,8 +82,9 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1960-07-04'
+release_year: 1956
+runtime: 194933
 ---
-
 In May of 1941 the war had just begun
 The Germans had the biggest ships that had the biggest guns
 The Bismark was the fastest ship that ever sailed the seas
@@ -130,6 +134,3 @@ We found that German battleship was makin' such a fuss
 We had to sink the Bismark 'cause the world depends on us
 We hit the deck a-runnin' and we spun those guns around
 We found the mighty Bismark and then we cut her down
-
-
-

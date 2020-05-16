@@ -1,8 +1,11 @@
 ---
+album: A Thousand Miles Left Behind
 artists:
 - Gloriana
+external_ids:
+  spotify: spotify:track:1lNl7zRexUwxQ20OKONF3A
 features: []
-genres: []
+first_released_as_single: false
 key: can-t-shake-you-gloriana
 lyrics_url: https://genius.com/Gloriana-cant-shake-you-lyrics
 name: Can't Shake You
@@ -23,6 +26,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2013-06-22'
+release_year: 2012
+runtime: 266973
 ---
 I still change the station
 Every time they play that song

@@ -1,8 +1,11 @@
 ---
+album: The Chimes Meet the Videls
 artists:
 - The Videls
+external_ids:
+  spotify: spotify:track:39tQwlllxM5cV0tz8xdK0x
 features: []
-genres: []
+first_released_as_single: false
 key: mister-lonely-the-videls
 lyrics_url: https://www.musixmatch.com/lyrics/The-Videls/Mister-Lonely
 name: Mister Lonely
@@ -19,6 +22,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1960-06-27'
+release_year: 1960
+runtime: 151527
 ---
 I don't have a girl to call my own
 And I don't have a lover whose mine alone

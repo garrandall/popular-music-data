@@ -1,8 +1,11 @@
 ---
+album: Good Morning Vietnam (The Original Motion Picture Soundtrack)
 artists:
 - The Marvelettes
+external_ids:
+  spotify: spotify:track:4gOI04TYKDBc2LDJ0u9K9h
 features: []
-genres: []
+first_released_as_single: false
 key: danger-heartbreak-dead-ahead-the-marvelettes
 lyrics_url: https://www.azlyrics.com/lyrics/marvelettes/dangerheartbreakdeadahead.html
 name: Danger Heartbreak Dead Ahead
@@ -39,8 +42,9 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1965-10-02'
+release_year: 1965
+runtime: 148706
 ---
-
 When you give more than you get, you're in danger (you're in danger)
 You may find that you're in love with a stranger (with a stranger)
 For who knows what evil lurks within the hearts of men?
@@ -63,6 +67,3 @@ Listen to me, girl
 When there's nothing to be gained, don't keep goin' on in vain
 Cause there's danger: heartbreak dead ahead
 I said there's danger, I said there's danger
-
-
-

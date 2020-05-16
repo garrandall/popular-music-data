@@ -1,9 +1,12 @@
 ---
+album: A Girl Like Me
 artists:
 - Rihanna
 - Sean Paul
+external_ids:
+  spotify: spotify:track:4PgtB6Sul8WDTRZCe5e8St
 features: []
-genres: []
+first_released_as_single: false
 key: break-it-off-rihanna-sean-paul
 lyrics_url: https://genius.com/Rihanna-break-it-off-lyrics
 name: Break It Off
@@ -88,6 +91,8 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '2007-04-28'
+release_year: 2006
+runtime: 213373
 ---
 Breakin' it off and settin' it off in da real way
 Makin' da girls dem chill dey mind

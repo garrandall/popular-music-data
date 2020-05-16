@@ -1,8 +1,11 @@
 ---
+album: Bat Out Of Hell
 artists:
 - Meat Loaf
+external_ids:
+  spotify: spotify:track:7wawEkN4nhPqSBWleGvdxa
 features: []
-genres: []
+first_released_as_single: false
 key: you-took-the-words-right-out-of-my-mouth-meat-loaf
 lyrics_url: https://www.azlyrics.com/lyrics/meatloaf/youtookthewordsrightoutofmymouthhotsummernight.html
 name: You Took The Words Right Out Of My Mouth
@@ -59,10 +62,10 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1979-02-03'
+release_year: 1977
+runtime: 304440
 ---
-
-
- On a hot summer night
+On a hot summer night
 Would you offer your throat to the wolf with the red roses?
  Will he offer me his mouth?
  Yes
@@ -142,6 +145,3 @@ Oh it must have been while you were kissing me
 You took the words right out of my mouth
 And I swear it's true
 I was just about to say I love you
-
-
-

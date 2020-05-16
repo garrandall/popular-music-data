@@ -1,8 +1,11 @@
 ---
+album: When Disaster Strikes
 artists:
 - Busta Rhymes
+external_ids:
+  spotify: spotify:track:7rRFUMW90qaQVEbZOtepAw
 features: []
-genres: []
+first_released_as_single: false
 key: turn-it-up-busta-rhymes
 lyrics_url: https://genius.com/Busta-rhymes-turn-it-up-lyrics
 name: Turn It Up
@@ -87,6 +90,8 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '1998-09-19'
+release_year: 1997
+runtime: 251906
 ---
 We grind ya'll
 Bounce back, open your mind ya'll

@@ -1,8 +1,11 @@
 ---
+album: Stage Dolls
 artists:
 - Stage Dolls
+external_ids:
+  spotify: spotify:track:1nqLtisKUseNx2TMEkOVPm
 features: []
-genres: []
+first_released_as_single: false
 key: love-cries-stage-dolls
 lyrics_url: https://genius.com/Stage-dolls-love-cries-lyrics
 name: Love Cries
@@ -59,6 +62,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1989-10-21'
+release_year: 1988
+runtime: 251853
 ---
 As she drives, through the town
 Where she once, played around

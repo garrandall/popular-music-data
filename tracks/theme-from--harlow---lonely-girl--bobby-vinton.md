@@ -1,8 +1,11 @@
 ---
+album: Drive-In Movie Time (Live)
 artists:
 - Bobby Vinton
+external_ids:
+  spotify: spotify:track:6TvAEPaJCqLnLP4tLzbjFc
 features: []
-genres: []
+first_released_as_single: false
 key: theme-from--harlow---lonely-girl--bobby-vinton
 name: Theme From "Harlow" (Lonely Girl)
 rankings:
@@ -26,5 +29,7 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '1965-08-07'
+release_year: 1965
+runtime: 139720
 ---
 

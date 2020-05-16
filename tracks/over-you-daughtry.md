@@ -1,8 +1,11 @@
 ---
+album: Daughtry
 artists:
 - Daughtry
+external_ids:
+  spotify: spotify:track:2R5uY1gbIKzGB1yAOH067s
 features: []
-genres: []
+first_released_as_single: false
 key: over-you-daughtry
 lyrics_url: https://www.azlyrics.com/lyrics/daughtry/overyou.html
 name: Over You
@@ -107,8 +110,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2008-02-09'
+release_year: 2006
+runtime: 204853
 ---
-
 Now that it's all said and done,
 I can't believe you were the one
 To build me up and tear me down,
@@ -182,6 +186,3 @@ Well I got over you.
 I got over you.
 'Cause the day I thought I'd never get through,
 I got over you.
-
-
-

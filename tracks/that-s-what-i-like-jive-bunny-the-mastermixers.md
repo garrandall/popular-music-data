@@ -1,9 +1,12 @@
 ---
+album: The Essential Christmas Party Album
 artists:
 - Jive Bunny
 - The Mastermixers
+external_ids:
+  spotify: spotify:track:5UmDpzngy9Km4ennDma7jq
 features: []
-genres: []
+first_released_as_single: false
 key: that-s-what-i-like-jive-bunny-the-mastermixers
 lyrics_url: https://genius.com/Jive-bunny-and-the-mastermixers-thats-what-i-like-lyrics
 name: That's What I Like
@@ -28,6 +31,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1990-03-03'
+release_year: 1990
+runtime: 241506
 ---
 Come on everybody, everybody, everybody
 C C Come on everybody

@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music, The Complete Season Two'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:3ElRruui1pSlpqr5mLTn4y
 features: []
-genres: []
+first_released_as_single: false
 key: back-to-black-glee-cast
 lyrics_url: https://www.azlyrics.com/lyrics/gleecast/backtoblack.html
 name: Back To Black
@@ -11,8 +14,9 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '2011-06-04'
+release_year: 2011
+runtime: 239306
 ---
-
 He left no time to regret
 Kept his lips wet
 With his same old safe bet
@@ -45,4 +49,3 @@ Black, black, black, black,
 black, black, black,
 I go back to
 I go back to
-

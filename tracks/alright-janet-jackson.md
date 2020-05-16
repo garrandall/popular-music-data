@@ -1,8 +1,11 @@
 ---
+album: Rhythm Nation 1814
 artists:
 - Janet Jackson
+external_ids:
+  spotify: spotify:track:63W4sfeRTTiNKFLAzUJHFe
 features: []
-genres: []
+first_released_as_single: false
 key: alright-janet-jackson
 lyrics_url: https://www.azlyrics.com/lyrics/janetjackson/alright.html
 name: Alright
@@ -71,8 +74,9 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1990-07-21'
+release_year: 1989
+runtime: 386533
 ---
-
 Seeing that your love's true
 Never I'll doubt you
 My heart belongs to you
@@ -121,6 +125,3 @@ Through thick and thick to thin
 I'll love you till the end
 You know it's true my friend
 You're alright with me
-
-
-

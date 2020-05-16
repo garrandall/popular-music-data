@@ -1,8 +1,11 @@
 ---
+album: The Way I Walk
 artists:
 - Jack Scott
+external_ids:
+  spotify: spotify:track:22l0Ake5DUAUJBcCvSJ1El
 features: []
-genres: []
+first_released_as_single: false
 key: save-my-soul-jack-scott
 lyrics_url: https://genius.com/Jack-scott-save-my-soul-lyrics
 name: Save My Soul
@@ -19,6 +22,8 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1959-01-26'
+release_year: 1958
+runtime: 114733
 ---
 Going down the river John
 Going to ask to save my soul

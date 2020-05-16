@@ -1,8 +1,11 @@
 ---
+album: All the Right Reasons
 artists:
 - Nickelback
+external_ids:
+  spotify: spotify:track:0ADZ5dmXhlfzjMw6lefoPl
 features: []
-genres: []
+first_released_as_single: false
 key: far-away-nickelback
 lyrics_url: https://www.azlyrics.com/lyrics/nickelback/faraway.html
 name: Far Away
@@ -127,8 +130,9 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2007-02-24'
+release_year: 2005
+runtime: 238173
 ---
-
 This time, this place
 Misused mistakes
 Too long, too late
@@ -202,6 +206,3 @@ Keep breathing
 Hold on to me and never let me go
 Keep breathing
 Hold on to me and never let me go"
-
-
-

@@ -1,9 +1,12 @@
 ---
+album: Evolution
 artists:
 - Dennis Coffey
 - The Detroit Guitar Band
+external_ids:
+  spotify: spotify:track:1P8lIrb4yLlg1nzAjhhcfi
 features: []
-genres: []
+first_released_as_single: false
 key: scorpio-dennis-coffey-the-detroit-guitar-band
 name: Scorpio
 rankings:
@@ -75,5 +78,7 @@ rankings:
   rank: 28
   ranking_list: Billboard Hot 100
   start_date: '1972-02-19'
+release_year: 1971
+runtime: 260842
 ---
 

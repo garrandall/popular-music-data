@@ -1,8 +1,11 @@
 ---
+album: American Saturday Night
 artists:
 - Brad Paisley
+external_ids:
+  spotify: spotify:track:2qfGMqnRjiE4opZ4cBT65F
 features: []
-genres: []
+first_released_as_single: false
 key: welcome-to-the-future-brad-paisley
 lyrics_url: https://www.azlyrics.com/lyrics/bradpaisley/welcometothefuturereprise.html
 name: Welcome To The Future
@@ -71,8 +74,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '2009-12-05'
+release_year: 2009
+runtime: 351453
 ---
-
 I went to see father of the bride, 
 With a girl back home, 
 We broke up before the sequal, 
@@ -85,6 +89,3 @@ As I tuck them in at night.
 
 Heeeeey, I don't think dreams come any truer, 
 Boys, welcome to the future.
-
-
-

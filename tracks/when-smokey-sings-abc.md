@@ -1,8 +1,11 @@
 ---
+album: Alphabet City
 artists:
 - ABC
+external_ids:
+  spotify: spotify:track:5IfSEpxmVAyu41B3xMqbZQ
 features: []
-genres: []
+first_released_as_single: false
 key: when-smokey-sings-abc
 lyrics_url: https://www.azlyrics.com/lyrics/abc/whensmokeysings.html
 name: When Smokey Sings
@@ -83,8 +86,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1987-11-07'
+release_year: 1987
+runtime: 258573
 ---
-
 Debonair lullabies
 In melodies revealed
 In deep despair on lonely nights
@@ -143,6 +147,3 @@ She threw back the ring
 When Smokey sings
 Smokey sings
 Smokey sings
-
-
-

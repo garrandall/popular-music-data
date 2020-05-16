@@ -1,8 +1,11 @@
 ---
+album: Sleeping With The Past (Remastered with bonus tracks)
 artists:
 - Elton John
+external_ids:
+  spotify: spotify:track:0e3yhVeNaTfKIWQRw9U9sY
 features: []
-genres: []
+first_released_as_single: false
 key: sacrifice-elton-john
 lyrics_url: https://www.azlyrics.com/lyrics/eltonjohn/sacrifice.html
 name: Sacrifice
@@ -75,8 +78,9 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1990-05-05'
+release_year: 1989
+runtime: 304133
 ---
-
 It's a human sign
 When things go wrong
 When the scent of her lingers
@@ -137,6 +141,3 @@ No sacrifice, at all
 No sacrifice, at all
 No sacrifice, at all
 No sacrifice, at all
-
-
-

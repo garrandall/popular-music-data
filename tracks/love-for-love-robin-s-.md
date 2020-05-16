@@ -1,8 +1,11 @@
 ---
+album: Show Me Love
 artists:
 - Robin S.
+external_ids:
+  spotify: spotify:track:47iKV0KlcvlflSsrCPD3TQ
 features: []
-genres: []
+first_released_as_single: false
 key: love-for-love-robin-s-
 lyrics_url: https://genius.com/Robin-s-love-for-love-lyrics
 name: Love For Love
@@ -83,6 +86,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1993-12-25'
+release_year: 1993
+runtime: 255146
 ---
 Oh, I need somebody, somebody, yeah
 

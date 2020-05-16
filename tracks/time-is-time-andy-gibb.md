@@ -1,8 +1,11 @@
 ---
+album: The Very Best Of
 artists:
 - Andy Gibb
+external_ids:
+  spotify: spotify:track:1YnqUpgooPqfhJOcCxORtp
 features: []
-genres: []
+first_released_as_single: false
 key: time-is-time-andy-gibb
 lyrics_url: https://www.azlyrics.com/lyrics/andygibb/timeistime.html
 name: Time Is Time
@@ -75,8 +78,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1981-03-14'
+release_year: 1980
+runtime: 220693
 ---
-
 Time it goes on waits for nobody special
 In the prime of my life I'll remember you
 Living and breathing and some misbelieving
@@ -135,6 +139,3 @@ Don't give me no wrong in making love
 Love is love, turn me around till you burn me up
 Now is now, we master the world
 And time will make it all right, all right
-
-
-

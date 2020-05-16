@@ -1,8 +1,11 @@
 ---
+album: Bewitched! The Polly Browne Story
 artists:
 - Pickettywitch
+external_ids:
+  spotify: spotify:track:7DypetxccPbAqkQ12ECwQT
 features: []
-genres: []
+first_released_as_single: false
 key: that-same-old-feeling-pickettywitch
 lyrics_url: https://www.musixmatch.com/lyrics/Pickettywitch/That-Same-Old-Feeling
 name: That Same Old Feeling
@@ -55,6 +58,8 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '1970-08-01'
+release_year: 1970
+runtime: 188680
 ---
 I still get the same old feeling
 Tearing at this heart of mine

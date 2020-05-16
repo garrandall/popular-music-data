@@ -1,8 +1,11 @@
 ---
+album: Fuse
 artists:
 - Keith Urban
+external_ids:
+  spotify: spotify:track:50nzorQ9gi2md8UpFi8aJT
 features: []
-genres: []
+first_released_as_single: false
 key: somewhere-in-my-car-keith-urban
 lyrics_url: https://www.azlyrics.com/lyrics/keithurban/somewhereinmycar.html
 name: Somewhere In My Car
@@ -87,8 +90,9 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '2015-01-24'
+release_year: 2013
+runtime: 236906
 ---
-
 I'm driving home tonight, catching all red lights
 That's alright 'cause I don't want to be alone
 There's nobody waitin there, cold and empty bed
@@ -135,6 +139,3 @@ Mmm
 If I could bring you back
 Mmm
 Just close my eyes...
-
-
-

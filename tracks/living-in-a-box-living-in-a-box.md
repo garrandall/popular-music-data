@@ -1,8 +1,11 @@
 ---
+album: Living in a Box
 artists:
 - Living In A Box
+external_ids:
+  spotify: spotify:track:2y5DTMrFIcZySlsIOL6N4N
 features: []
-genres: []
+first_released_as_single: false
 key: living-in-a-box-living-in-a-box
 lyrics_url: https://genius.com/Living-in-a-box-living-in-a-box-lyrics
 name: Living In A Box
@@ -67,6 +70,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1987-09-26'
+release_year: 1987
+runtime: 186666
 ---
 Woke up this morning
 Closed in on all sides

@@ -1,8 +1,11 @@
 ---
+album: Funk-O-Metal Carpet Ride
 artists:
 - Electric Boys
+external_ids:
+  spotify: spotify:track:0x2lW60JnKE0oLkUP8kq8C
 features: []
-genres: []
+first_released_as_single: false
 key: all-lips-n--hips-electric-boys
 lyrics_url: https://genius.com/Electric-boys-all-lips-n-hips-lyrics
 name: All Lips N' Hips
@@ -31,6 +34,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1990-08-18'
+release_year: 1989
+runtime: 264826
 ---
 Let me tell you a story about a sweet hootchie-coo
 Who's a dancin' on the table right in front of you

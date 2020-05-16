@@ -1,8 +1,11 @@
 ---
+album: 1957-1972
 artists:
 - The Miracles
+external_ids:
+  spotify: spotify:track:7HopGeSKiR0vYrX0TiRXjz
 features: []
-genres: []
+first_released_as_single: false
 key: bad-girl-the-miracles
 lyrics_url: https://genius.com/The-miracles-bad-girl-lyrics
 name: Bad Girl
@@ -15,6 +18,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1959-10-12'
+release_year: 1959
+runtime: 164226
 ---
 She's not a bad girl
 Because she made me see

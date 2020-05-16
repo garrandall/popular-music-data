@@ -1,8 +1,11 @@
 ---
+album: The Best Of Bobby Rydell
 artists:
 - Bobby Rydell
+external_ids:
+  spotify: spotify:track:0ZqhPLdc7yEv6iADB7no3F
 features: []
-genres: []
+first_released_as_single: false
 key: little-bitty-girl-bobby-rydell
 lyrics_url: https://genius.com/Bobby-rydell-little-bitty-girl-lyrics
 name: Little Bitty Girl
@@ -67,6 +70,8 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1960-05-09'
+release_year: 1960
+runtime: 145360
 ---
 In such a big, big world
 Somewhere in this big big world

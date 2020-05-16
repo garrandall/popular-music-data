@@ -1,8 +1,11 @@
 ---
+album: Back To The World
 artists:
 - Tevin Campbell
+external_ids:
+  spotify: spotify:track:5yZ0CBNf1dFHVpFFfxrLbj
 features: []
-genres: []
+first_released_as_single: false
 key: back-to-the-world-tevin-campbell
 lyrics_url: https://www.azlyrics.com/lyrics/tevincampbell/backtotheworld.html
 name: Back To The World
@@ -43,8 +46,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1996-08-17'
+release_year: 1996
+runtime: 299630
 ---
-
 I know you're thinking
 I've been better off without you by my side
 But baby this season
@@ -84,4 +88,3 @@ Saying that I was the one
 Tell me you can feel it once again
 I know that we can love like we did then...so
 Bring it on home
-

@@ -1,8 +1,11 @@
 ---
+album: Scarecrow
 artists:
 - John Mellencamp
+external_ids:
+  spotify: spotify:track:1Xi2xGXEDGvliLRCM8eWyV
 features: []
-genres: []
+first_released_as_single: false
 key: rumbleseat-john-mellencamp
 lyrics_url: https://www.azlyrics.com/lyrics/johnmellencamp/rumbleseat.html
 name: Rumbleseat
@@ -59,8 +62,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1986-09-20'
+release_year: 1985
+runtime: 178426
 ---
-
 All the leaves are green
 All my friends are gone
 I'm livin' in my hometown
@@ -113,6 +117,3 @@ Yeah we'll go for a drive
 And we'll be singin' shotgun from that rumbleseat
 Yes I'll blow you a kiss
 And we'll be ridin' big time in my rumbleseat
-
-
-

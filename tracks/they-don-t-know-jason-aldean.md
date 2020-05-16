@@ -1,8 +1,11 @@
 ---
+album: They Don't Know
 artists:
 - Jason Aldean
+external_ids:
+  spotify: spotify:track:3bzE57iNavJJxXL9GgBiOK
 features: []
-genres: []
+first_released_as_single: false
 key: they-don-t-know-jason-aldean
 lyrics_url: https://genius.com/Jason-aldean-they-dont-know-lyrics
 name: They Don't Know
@@ -55,6 +58,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2017-11-04'
+release_year: 2016
+runtime: 195306
 ---
 They call us a two lane just passing by slow down town
 Yeah they say what's there to do when you ain't got nothin' around

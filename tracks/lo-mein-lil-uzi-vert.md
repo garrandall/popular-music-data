@@ -1,8 +1,11 @@
 ---
+album: Eternal Atake
 artists:
 - Lil Uzi Vert
+external_ids:
+  spotify: spotify:track:6CUP2khYzdphXebxVTfPE3
 features: []
-genres: []
+first_released_as_single: false
 key: lo-mein-lil-uzi-vert
 lyrics_url: https://www.azlyrics.com/lyrics/liluzivert/lomein.html
 name: Lo Mein
@@ -11,8 +14,9 @@ rankings:
   rank: 8
   ranking_list: Billboard Hot 100
   start_date: '2020-03-21'
+release_year: 2020
+runtime: 195299
 ---
-
 Yeah, chopstick came with a large lo mein
 Extra clip in it, nigga, I ain't got no aim
 Balmain pocket filled with fresh romaine
@@ -106,6 +110,3 @@ And my pants, and my socks, and my undies (Yeah, yeah, yeah)
 
 What the f...
 That shit smoking, what the...
-
-
-

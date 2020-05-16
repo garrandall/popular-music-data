@@ -1,8 +1,11 @@
 ---
+album: 1 + 1
 artists:
 - Grin
+external_ids:
+  spotify: spotify:track:1Pvj7fnVmantOCqaFe7HVo
 features: []
-genres: []
+first_released_as_single: false
 key: white-lies-grin
 lyrics_url: https://genius.com/Grin-white-lies-lyrics
 name: White Lies
@@ -31,6 +34,8 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1972-03-11'
+release_year: 1971
+runtime: 207760
 ---
 This ain't fair, but I fear
 I traveled here alone 'cause of you

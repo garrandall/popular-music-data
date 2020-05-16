@@ -1,8 +1,11 @@
 ---
+album: Tina Snow
 artists:
 - Megan Thee Stallion
+external_ids:
+  spotify: spotify:track:3YEbLhXRDPTtctnb3ddg8g
 features: []
-genres: []
+first_released_as_single: false
 key: big-ole-freak-megan-thee-stallion
 lyrics_url: https://www.azlyrics.com/lyrics/megantheestallion/bigolefreak.html
 name: Big Ole Freak
@@ -55,8 +58,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2019-07-06'
+release_year: 2018
+runtime: 214850
 ---
-
 Ay, big ole freak
 Big booty, big ole treat
 Imma make him wait for the pussy
@@ -145,6 +149,3 @@ Going brazy, brazy
 Feigning for me lately
 I got what you need
 I'mma give you what you craving
-
-
-

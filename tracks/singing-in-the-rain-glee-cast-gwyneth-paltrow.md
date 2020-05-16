@@ -1,9 +1,12 @@
 ---
+album: 'Glee: The Music, The Complete Season Two'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:1v3RJ3mtHllca29JVi12OB
 features:
 - Gwyneth Paltrow
-genres: []
+first_released_as_single: false
 key: singing-in-the-rain-glee-cast-gwyneth-paltrow
 lyrics_url: https://www.azlyrics.com/lyrics/gleecast/singingintherainumbrella.html
 name: Singing In The Rain
@@ -20,8 +23,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2010-12-18'
+release_year: 2010
+runtime: 183293
 ---
-
 (Uh-huh, uh-huh) Yeah, Holly
 (Uh-huh, uh-huh) Good girl gone bad
 (Uh-huh, uh-huh) Take three...action!
@@ -94,6 +98,3 @@ And I'm ready for love
 
 My umbrella, my umbrella
 My umbrella, my umbrella
-
-
-

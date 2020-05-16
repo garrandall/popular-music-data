@@ -1,8 +1,11 @@
 ---
+album: Halfway To Heaven
 artists:
 - Brantley Gilbert
+external_ids:
+  spotify: spotify:track:28ov70yrukmJDAFtiThdTS
 features: []
-genres: []
+first_released_as_single: false
 key: more-than-miles-brantley-gilbert
 lyrics_url: https://www.azlyrics.com/lyrics/brantleygilbert/morethanmiles.html
 name: More Than Miles
@@ -83,8 +86,9 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '2013-07-20'
+release_year: 2010
+runtime: 252866
 ---
-
 Maybe I should take that picture off the dashboard
 Before her memory hits the brakes and takes the wheel
 Yeah I bet she's still crying on that front porch
@@ -138,6 +142,3 @@ There's still more than miles in my rear view
 
 More than miles, yeah
 More than miles
-
-
-

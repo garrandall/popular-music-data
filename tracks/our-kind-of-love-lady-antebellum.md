@@ -1,8 +1,11 @@
 ---
+album: Need You Now
 artists:
 - Lady Antebellum
+external_ids:
+  spotify: spotify:track:4mtIIpksLr41WmzNHyUtKy
 features: []
-genres: []
+first_released_as_single: false
 key: our-kind-of-love-lady-antebellum
 lyrics_url: https://www.azlyrics.com/lyrics/ladyantebellum/ourkindoflove.html
 name: Our Kind Of Love
@@ -87,8 +90,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2010-11-06'
+release_year: 2010
+runtime: 249253
 ---
-
 Here we go!
 
 You wear your smile like a summer sky
@@ -142,6 +146,3 @@ Oh, that's our kind of love
 Oo, yeah
 That's our kind of love, girl
 Dontcha know it
-
-
-

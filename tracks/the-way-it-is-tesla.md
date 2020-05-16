@@ -1,8 +1,11 @@
 ---
+album: The Great Radio Controversy
 artists:
 - Tesla
+external_ids:
+  spotify: spotify:track:3l4L10OL1gbfypzTwjvINb
 features: []
-genres: []
+first_released_as_single: false
 key: the-way-it-is-tesla
 lyrics_url: https://genius.com/Tesla-the-way-it-is-lyrics
 name: The Way It Is
@@ -55,6 +58,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1990-05-26'
+release_year: 1989
+runtime: 308866
 ---
 Doesn't matter who gets the best of who
 Or who can hurt who the most, no

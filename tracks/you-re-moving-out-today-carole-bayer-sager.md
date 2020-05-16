@@ -1,8 +1,11 @@
 ---
+album: Carole Bayer Sager
 artists:
 - Carole Bayer Sager
+external_ids:
+  spotify: spotify:track:6nSt8n7r0bznM8PCvHEmPj
 features: []
-genres: []
+first_released_as_single: false
 key: you-re-moving-out-today-carole-bayer-sager
 lyrics_url: https://genius.com/Carole-bayer-sager-youre-moving-out-today-lyrics
 name: You're Moving Out Today
@@ -35,6 +38,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1977-11-26'
+release_year: 1977
+runtime: 215053
 ---
 I stayed out late one night and you moved in
 I didn't mind 'cause of the state you were in

@@ -1,8 +1,11 @@
 ---
+album: Welcome To The Dollhouse
 artists:
 - Danity Kane
+external_ids:
+  spotify: spotify:track:4tid7sSC9622l4jOrslaPl
 features: []
-genres: []
+first_released_as_single: false
 key: damaged-danity-kane
 lyrics_url: https://www.azlyrics.com/lyrics/danitykane/damaged.html
 name: Damaged
@@ -95,8 +98,9 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '2008-08-23'
+release_year: 2008
+runtime: 341866
 ---
-
 Do, do you got a first-aid kit handy?
 Do, do you know how to patch up a wound?
 Tell me, are, are, are, are you
@@ -187,6 +191,3 @@ My heart is damaged, damaged, damaged
 My heart is damaged, damaged, damaged
 My heart is damaged, damaged, damaged
 My heart is damaged
-
-
-

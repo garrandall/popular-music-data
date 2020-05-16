@@ -1,10 +1,13 @@
 ---
+album: Championships
 artists:
 - Meek Mill
+external_ids:
+  spotify: spotify:track:5kTQa2G88tHnKB1Y6vNTyn
 features:
 - Fabolous
 - Anuel AA
-genres: []
+first_released_as_single: true
 key: uptown-vibes-meek-mill-fabolous-anuel-aa
 lyrics_url: https://genius.com/Meek-mill-uptown-vibes-lyrics
 name: Uptown Vibes
@@ -21,6 +24,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2018-12-29'
+release_year: 2018
+runtime: 190955
 ---
 Papamitrou Boi
 Spanish bitch from uptown

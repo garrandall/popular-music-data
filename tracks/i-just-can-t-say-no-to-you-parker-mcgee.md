@@ -1,8 +1,11 @@
 ---
+album: Parker McGee
 artists:
 - Parker McGee
+external_ids:
+  spotify: spotify:track:1tOFoFOeDpLo0j9ysPO496
 features: []
-genres: []
+first_released_as_single: false
 key: i-just-can-t-say-no-to-you-parker-mcgee
 name: I Just Can't Say No To You
 rankings:
@@ -34,5 +37,7 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1977-03-05'
+release_year: 1976
+runtime: 192733
 ---
 

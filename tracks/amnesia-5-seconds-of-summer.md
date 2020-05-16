@@ -1,8 +1,11 @@
 ---
+album: LIVESOS
 artists:
 - 5 Seconds Of Summer
+external_ids:
+  spotify: spotify:track:3gQ3oX6c4QY7Gb5nN0gDR1
 features: []
-genres: []
+first_released_as_single: true
 key: amnesia-5-seconds-of-summer
 lyrics_url: https://www.azlyrics.com/lyrics/5secondsofsummer/amnesia.html
 name: Amnesia
@@ -87,9 +90,9 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '2014-11-29'
+release_year: 2014
+runtime: 237247
 ---
-
-
 I drove by all the places we used to hang out getting wasted
 I thought about our last kiss, how it felt, the way you tasted
 And even though your friends tell me you're doing fine
@@ -156,6 +159,3 @@ And the memories I never can escape
 No, I'm really not fine at all
 Tell me this is just a dream
 'Cause I'm really not fine at all
-
-
-

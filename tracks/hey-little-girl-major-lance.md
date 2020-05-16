@@ -1,8 +1,11 @@
 ---
+album: 'The Best Of Major Lance: Everybody Loves A Good Time!'
 artists:
 - Major Lance
+external_ids:
+  spotify: spotify:track:6BRIjKLGDzIOUZDQdY7I2K
 features: []
-genres: []
+first_released_as_single: false
 key: hey-little-girl-major-lance
 lyrics_url: https://genius.com/Major-lance-hey-little-girl-lyrics
 name: Hey Little Girl
@@ -47,6 +50,8 @@ rankings:
   rank: 35
   ranking_list: Billboard Hot 100
   start_date: '1963-12-21'
+release_year: 1963
+runtime: 148693
 ---
 Hey little girl
 (Hey little girl)

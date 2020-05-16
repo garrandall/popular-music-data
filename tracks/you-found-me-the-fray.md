@@ -1,8 +1,11 @@
 ---
+album: The Fray
 artists:
 - The Fray
+external_ids:
+  spotify: spotify:track:0cniEW3qI7wliWIaQNmArE
 features: []
-genres: []
+first_released_as_single: true
 key: you-found-me-the-fray
 lyrics_url: https://genius.com/The-fray-you-found-me-lyrics
 name: You Found Me
@@ -163,6 +166,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '2009-08-29'
+release_year: 2007
+runtime: 247493
 ---
 I found God on the corner of First and Amistad
 Where the west was all but won

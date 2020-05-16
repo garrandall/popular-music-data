@@ -1,8 +1,11 @@
 ---
+album: 'Danger Days: The True Lives of the Fabulous Killjoys'
 artists:
 - My Chemical Romance
+external_ids:
+  spotify: spotify:track:5FbMKftNTXCKiBYSf0TQrs
 features: []
-genres: []
+first_released_as_single: true
 key: na-na-na--na-na-na-na-na-na-na-na-na--my-chemical-romance
 lyrics_url: https://www.azlyrics.com/lyrics/mychemicalromance/nanana.html
 name: Na Na Na (Na Na Na Na Na Na Na Na Na)
@@ -11,9 +14,9 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '2010-10-16'
+release_year: 2010
+runtime: 203426
 ---
-
-
 Look alive, sunshine
 One-oh-nine in the sky
 But the pigs won't quit
@@ -129,6 +132,3 @@ Let this world explode
 
 
 Keep running!
-
-
-

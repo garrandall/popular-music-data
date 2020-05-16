@@ -1,8 +1,11 @@
 ---
+album: 'Careless World: Rise Of The Last King'
 artists:
 - Tyga
+external_ids:
+  spotify: spotify:track:71Wf5qK9wdtjOfMgujlN6A
 features: []
-genres: []
+first_released_as_single: false
 key: make-it-nasty-tyga
 lyrics_url: https://genius.com/Tyga-make-it-nasty-lyrics
 name: Make It Nasty
@@ -15,6 +18,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2012-03-17'
+release_year: 2012
+runtime: 188866
 ---
 Make it nasty, make it nasty
 Drop, drop it on the bitch make it nasty

@@ -1,8 +1,11 @@
 ---
+album: Love Story
 artists:
 - Andy Williams
+external_ids:
+  spotify: spotify:track:45FLu3nL1iMYXYPzhqLdko
 features: []
-genres: []
+first_released_as_single: false
 key: -where-do-i-begin--love-story-andy-williams
 lyrics_url: https://www.azlyrics.com/lyrics/andywilliams/wheredoibeginlovestory.html
 name: (Where Do I Begin) Love Story
@@ -59,8 +62,9 @@ rankings:
   rank: 24
   ranking_list: Billboard Hot 100
   start_date: '1971-05-01'
+release_year: 1971
+runtime: 189066
 ---
-
 Where do I begin
 To tell the story of how great a love can be
 The sweet love story that is older than the sea
@@ -91,6 +95,3 @@ Can love be measured by the hours in a day
 I have no answers now but this much I can say
 I know I'll need her till the stars all burn away
 And she'll be there
-
-
-

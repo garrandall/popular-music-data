@@ -1,8 +1,11 @@
 ---
+album: A Touch Of Gold
 artists:
 - Johnny Rivers
+external_ids:
+  spotify: spotify:track:3BrENzt9JkhbNgKD0Ir1Lv
 features: []
-genres: []
+first_released_as_single: false
 key: the-tracks-of-my-tears-johnny-rivers
 lyrics_url: https://genius.com/Johnny-rivers-the-tracks-of-my-tears-lyrics
 name: The Tracks Of My Tears
@@ -43,6 +46,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1967-07-29'
+release_year: 1967
+runtime: 181013
 ---
 People say I'm the life of the party
 'Cause I tell a joke or two

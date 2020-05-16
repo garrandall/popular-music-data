@@ -1,8 +1,11 @@
 ---
+album: A Rose Is Still A Rose
 artists:
 - Aretha Franklin
+external_ids:
+  spotify: spotify:track:3pi27Gt4NetgWmEMFOCjBQ
 features: []
-genres: []
+first_released_as_single: false
 key: a-rose-is-still-a-rose-aretha-franklin
 lyrics_url: https://www.azlyrics.com/lyrics/arethafranklin/aroseisstillarose.html
 name: A Rose Is Still A Rose
@@ -79,8 +82,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1998-07-11'
+release_year: 1998
+runtime: 266666
 ---
-
 Doo doo doo
 Doo doo doo
 Doo doo doo
@@ -157,6 +161,3 @@ Baby girl, you're still a flower
 He can't lead you and then take you
 Make you and then break you
 Darlin', you hold the power
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Candida
 artists:
 - Dawn
+external_ids:
+  spotify: spotify:track:1QdrUOQkbXJbpNqOKgJpq5
 features: []
-genres: []
+first_released_as_single: false
 key: candida-dawn
 lyrics_url: https://www.musixmatch.com/lyrics/Tony-Orlando-Dawn-Dawn/Candida
 name: Candida
@@ -79,6 +82,8 @@ rankings:
   rank: 26
   ranking_list: Billboard Hot 100
   start_date: '1970-11-21'
+release_year: 1970
+runtime: 182973
 ---
 The stars won't come out
 If they know that you're about

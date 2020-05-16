@@ -1,9 +1,12 @@
 ---
+album: SUPER SLIMEY
 artists:
 - Future
 - Young Thug
+external_ids:
+  spotify: spotify:track:4W598w0KcHVG5Nwqk0qMpj
 features: []
-genres: []
+first_released_as_single: false
 key: three-future-young-thug
 lyrics_url: https://genius.com/Future-and-young-thug-three-lyrics
 name: Three
@@ -12,6 +15,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2017-11-11'
+release_year: 2017
+runtime: 159400
 ---
 DY Krazy
 Peter Piper pepper, I never kept her

@@ -1,9 +1,12 @@
 ---
+album: Xanadu
 artists:
 - Olivia Newton-John
 - Cliff Richard
+external_ids:
+  spotify: spotify:track:6XuXGAgqgTOqLZ5ZDgTuCh
 features: []
-genres: []
+first_released_as_single: false
 key: suddenly-olivia-newton-john-cliff-richard
 lyrics_url: https://genius.com/Olivia-newton-john-suddenly-lyrics
 name: Suddenly
@@ -84,6 +87,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1981-02-28'
+release_year: 1980
+runtime: 242426
 ---
 She walks in and I'm suddenly a hero
 I'm taken in

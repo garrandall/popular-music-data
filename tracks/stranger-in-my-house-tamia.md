@@ -1,8 +1,11 @@
 ---
+album: A Nu Day
 artists:
 - Tamia
+external_ids:
+  spotify: spotify:track:08GOEVXupC6ECbulhPGQKm
 features: []
-genres: []
+first_released_as_single: false
 key: stranger-in-my-house-tamia
 lyrics_url: https://www.azlyrics.com/lyrics/tamia/strangerinmyhouse.html
 name: Stranger In My House
@@ -91,8 +94,9 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '2001-06-02'
+release_year: 2000
+runtime: 285386
 ---
-
 I don't understand
 You look just like the man
 In the picture by our bed
@@ -153,6 +157,3 @@ Cuz he wouldn't touch me like that
 And he wouldn't treat me like you do
 He would adore me, he wouldn't ignore me
 So I'm convinced there's a stranger in my house
-
-
-

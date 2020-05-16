@@ -1,8 +1,11 @@
 ---
+album: Wilson Phillips
 artists:
 - Wilson Phillips
+external_ids:
+  spotify: spotify:track:1rIy3lkFJnMsTLZpxFmYU8
 features: []
-genres: []
+first_released_as_single: false
 key: release-me-wilson-phillips
 lyrics_url: https://www.azlyrics.com/lyrics/wilsonphillips/releaseme.html
 name: Release Me
@@ -95,8 +98,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1990-11-24'
+release_year: 1990
+runtime: 295693
 ---
-
 I know that it's time for a change
 Mmm but when that change comes
 Will you still feel the same?
@@ -141,6 +145,3 @@ Release me
 Will you release me
 Ah...Release me
 Will you release me
-
-
-

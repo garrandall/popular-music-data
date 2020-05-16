@@ -1,8 +1,11 @@
 ---
+album: 'One More Time: Rarely Heard Hits'
 artists:
 - Joey Powers
+external_ids:
+  spotify: spotify:track:6XRkqwxyWLyEGIN8pnMqAi
 features: []
-genres: []
+first_released_as_single: false
 key: midnight-mary-joey-powers
 lyrics_url: https://genius.com/Joey-powers-midnight-mary-lyrics
 name: Midnight Mary
@@ -59,6 +62,8 @@ rankings:
   rank: 29
   ranking_list: Billboard Hot 100
   start_date: '1964-02-01'
+release_year: 1963
+runtime: 143333
 ---
 Meet me at midnight, Mary
 Same place we always go –

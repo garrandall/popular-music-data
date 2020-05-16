@@ -1,8 +1,11 @@
 ---
+album: Caught In The Act
 artists:
 - Grand Funk Railroad
+external_ids:
+  spotify: spotify:track:3e4fX7Zvz2zAWJei1sLFnI
 features: []
-genres: []
+first_released_as_single: false
 key: footstompin--music-grand-funk-railroad
 lyrics_url: https://www.azlyrics.com/lyrics/grandfunkrailroad/footstompinmusic.html
 name: Footstompin' Music
@@ -51,8 +54,9 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '1972-03-18'
+release_year: 1972
+runtime: 247360
 ---
-
 Come on everybody
 We're gonna have a good time
 Gimme all the love that's in ya
@@ -73,6 +77,3 @@ Everybody want to
 
 Come on, right now
 Everybody
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Dead Again
 artists:
 - Mercy
+external_ids:
+  spotify: spotify:track:0aAAjxCX8BuhcILhnqYoHi
 features: []
-genres: []
+first_released_as_single: false
 key: forever-mercy
 lyrics_url: https://genius.com/Mercy-band-forever-lyrics
 name: Forever
@@ -27,6 +30,8 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1969-07-26'
+release_year: 1969
+runtime: 279866
 ---
 Hold me, kiss me
 Whisper sweetly

@@ -1,8 +1,11 @@
 ---
+album: More Life
 artists:
 - Drake
+external_ids:
+  spotify: spotify:track:2KvHC9z14GSl4YpkNMX384
 features: []
-genres: []
+first_released_as_single: false
 key: do-not-disturb-drake
 lyrics_url: https://www.azlyrics.com/lyrics/drake/donotdisturb.html
 name: Do Not Disturb
@@ -15,8 +18,9 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2017-04-15'
+release_year: 2017
+runtime: 283550
 ---
-
 Yeah, stylin' though
 Dissin', but got pictures with me smilin' though
 All the things you need, you still want problems though
@@ -85,6 +89,3 @@ Takin' summer off, 'cause they tell me I need recovery
 Maybe gettin' back to my regular life will humble me
 I'll be back in 2018 to give you the summary
 More Life
-
-
-

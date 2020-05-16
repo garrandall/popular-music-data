@@ -1,8 +1,11 @@
 ---
+album: In The Pocket
 artists:
 - Commodores
+external_ids:
+  spotify: spotify:track:3w2l59kc5PY242gznHN12b
 features: []
-genres: []
+first_released_as_single: false
 key: why-you-wanna-try-me-commodores
 lyrics_url: https://www.azlyrics.com/lyrics/commodores/whyyouwannatryme.html
 name: Why You Wanna Try Me
@@ -27,8 +30,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1982-03-06'
+release_year: 1981
+runtime: 277800
 ---
-
 Why you wanna try me, baby
 Why you wanna do me this way (Oh, oh)
 Why you wanna try me, baby
@@ -92,6 +96,3 @@ Stop right there, hold on
 Why you wanna try me
 
 Stop right there, hold on
-
-
-

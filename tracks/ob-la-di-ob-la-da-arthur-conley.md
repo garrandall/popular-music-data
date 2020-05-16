@@ -1,8 +1,11 @@
 ---
+album: More Sweet Soul
 artists:
 - Arthur Conley
+external_ids:
+  spotify: spotify:track:63qL37oSySINeOqrnIaYTJ
 features: []
-genres: []
+first_released_as_single: false
 key: ob-la-di-ob-la-da-arthur-conley
 lyrics_url: https://genius.com/Arthur-conley-ob-la-di-ob-la-da-single-lyrics
 name: Ob-La-Di Ob-La-Da
@@ -31,6 +34,8 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '1969-02-08'
+release_year: 1969
+runtime: 181399
 ---
 Desmond has a barrow
 In the marketplace

@@ -1,8 +1,11 @@
 ---
+album: Boots Randolph's Yakety Sax!
 artists:
 - Boots Randolph
+external_ids:
+  spotify: spotify:track:1IfFphfaKhVd4h6woepFpV
 features: []
-genres: []
+first_released_as_single: false
 key: yakety-sax-boots-randolph-and-his-combo
 lyrics_url: https://genius.com/Boots-randolph-yakety-sax-lyrics
 name: Yakety Sax
@@ -43,5 +46,7 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '1963-04-20'
+release_year: 1963
+runtime: 121933
 ---
 Instrumental

@@ -1,9 +1,12 @@
 ---
+album: 'Victorious: Music From The Hit TV Show'
 artists:
 - Victorious Cast
+external_ids:
+  spotify: spotify:track:5A4OiB8vQcBIGe2GIMW8LF
 features:
 - Victoria Justice
-genres: []
+first_released_as_single: true
 key: beggin--on-your-knees-victorious-cast-victoria-justice
 lyrics_url: https://genius.com/Victorious-cast-beggin-on-your-knees-lyrics
 name: Beggin' On Your Knees
@@ -24,6 +27,8 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '2011-05-07'
+release_year: 2011
+runtime: 194080
 ---
 You had it all
 The day you told me, told me you want me

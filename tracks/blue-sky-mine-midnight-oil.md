@@ -1,8 +1,11 @@
 ---
+album: Blue Sky Mining
 artists:
 - Midnight Oil
+external_ids:
+  spotify: spotify:track:6z9ehfxE973fOlKJKNJL2x
 features: []
-genres: []
+first_released_as_single: false
 key: blue-sky-mine-midnight-oil
 lyrics_url: https://www.azlyrics.com/lyrics/midnightoil/blueskymine.html
 name: Blue Sky Mine
@@ -47,9 +50,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1990-04-21'
+release_year: 1990
+runtime: 255600
 ---
-
-
 An Exxon oil tanker (CSR Company faced tough questioning at the company's annual)
 From Geelong (payouts to workers affected by asbestos)
 
@@ -103,6 +106,3 @@ We got nothing to fear
 In the end the rain comes down
 In the end the rain comes down
 Washes clean the streets of the blue sky town
-
-
-

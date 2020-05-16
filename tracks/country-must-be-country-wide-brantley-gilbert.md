@@ -1,8 +1,11 @@
 ---
+album: Halfway To Heaven
 artists:
 - Brantley Gilbert
+external_ids:
+  spotify: spotify:track:454JIJlQ8GvrCoBvSfq3KA
 features: []
-genres: []
+first_released_as_single: false
 key: country-must-be-country-wide-brantley-gilbert
 lyrics_url: https://www.azlyrics.com/lyrics/brantleygilbert/countrymustbecountrywide.html
 name: Country Must Be Country Wide
@@ -91,8 +94,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2011-12-03'
+release_year: 2010
+runtime: 214826
 ---
-
 I grew up south of the Mason Dixon
 Workin' spittin' huntin' and fishin'
 Stone cold country by the grace of God
@@ -154,6 +158,3 @@ Country must be country wide
 
 There ain't no doubt in my mind
 Country must be country wide
-
-
-

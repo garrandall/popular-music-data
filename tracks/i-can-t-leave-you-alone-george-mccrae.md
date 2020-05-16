@@ -1,8 +1,11 @@
 ---
+album: Rock Your Baby
 artists:
 - George McCrae
+external_ids:
+  spotify: spotify:track:05UOD6Y4NGV9yZLOFbO6FM
 features: []
-genres: []
+first_released_as_single: false
 key: i-can-t-leave-you-alone-george-mccrae
 lyrics_url: https://genius.com/George-mccrae-i-cant-leave-you-alone-lyrics
 name: I Can't Leave You Alone
@@ -31,6 +34,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1974-11-16'
+release_year: 1974
+runtime: 190813
 ---
 Baby
 It happens when you're close to me

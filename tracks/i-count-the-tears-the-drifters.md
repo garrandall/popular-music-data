@@ -1,8 +1,11 @@
 ---
+album: Save the Last Dance for Me
 artists:
 - The Drifters
+external_ids:
+  spotify: spotify:track:3AHyv71iObFO9tKVS6rTwU
 features: []
-genres: []
+first_released_as_single: false
 key: i-count-the-tears-the-drifters
 lyrics_url: https://www.azlyrics.com/lyrics/drifters/icountthetears.html
 name: I Count The Tears
@@ -51,8 +54,9 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '1961-02-27'
+release_year: 1960
+runtime: 135373
 ---
-
 Na, na, na, na, na, na late at nite
 Na, na, na, na, na, na late at nite
 
@@ -79,6 +83,3 @@ He'll sit and count his tears
 He'll sit and count his tears
 He'll sit and count his tears
 He'll sit...and count his tears
-
-
-

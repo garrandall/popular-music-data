@@ -1,8 +1,11 @@
 ---
+album: Seven The Hard Way
 artists:
 - Pat Benatar
+external_ids:
+  spotify: spotify:track:6bhE7I4xF5un9bc5d2YQSA
 features: []
-genres: []
+first_released_as_single: false
 key: sex-as-a-weapon-pat-benatar
 lyrics_url: https://www.azlyrics.com/lyrics/patbenatar/sexasaweapon.html
 name: Sex As A Weapon
@@ -59,8 +62,9 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1986-02-15'
+release_year: 1985
+runtime: 260574
 ---
-
 You really do know how to strut that stuff
 You really do know how to act tough
 Your body's just like a centerfold
@@ -111,6 +115,3 @@ Stop using sex
 Stop using sex
 Stop using sex
 Using sex as a weapon, as a weapon
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Olivia's Live Hits
 artists:
 - Olivia Newton-John
+external_ids:
+  spotify: spotify:track:2AAlmeU8WV5xQOP5oNFrRi
 features: []
-genres: []
+first_released_as_single: false
 key: if-not-for-you-olivia-newton-john
 lyrics_url: https://genius.com/Olivia-newton-john-if-not-for-you-lyrics
 name: If Not For You
@@ -75,6 +78,8 @@ rankings:
   rank: 32
   ranking_list: Billboard Hot 100
   start_date: '1971-09-18'
+release_year: 1971
+runtime: 115560
 ---
 If not for you
 Babe, I couldn't even find the door

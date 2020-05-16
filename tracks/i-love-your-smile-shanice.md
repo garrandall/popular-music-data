@@ -1,8 +1,11 @@
 ---
+album: Inner Child
 artists:
 - Shanice
+external_ids:
+  spotify: spotify:track:69mFxANpGyq9s69LqH3d9G
 features: []
-genres: []
+first_released_as_single: false
 key: i-love-your-smile-shanice
 lyrics_url: https://genius.com/Shanice-i-love-your-smile-lyrics
 name: I Love Your Smile
@@ -111,6 +114,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1992-05-16'
+release_year: 1991
+runtime: 257973
 ---
 Sitting in my class
 Just drifting away

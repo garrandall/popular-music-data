@@ -1,8 +1,11 @@
 ---
+album: One To One
 artists:
 - Howard Jones
+external_ids:
+  spotify: spotify:track:2D6cQOzzdeMqXxHy6NjOa0
 features: []
-genres: []
+first_released_as_single: false
 key: all-i-want-howard-jones
 lyrics_url: https://genius.com/Howard-jones-all-i-want-lyrics
 name: All I Want
@@ -27,6 +30,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1987-02-21'
+release_year: 1986
+runtime: 277266
 ---
 Ride the wild one cowboy in the rodeo
 Love like crazy juliet and romeo

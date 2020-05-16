@@ -1,8 +1,11 @@
 ---
+album: Three for Love
 artists:
 - Shalamar
+external_ids:
+  spotify: spotify:track:1J8BojSSdrfotC7IGyIvt4
 features: []
-genres: []
+first_released_as_single: false
 key: make-that-move-shalamar
 lyrics_url: https://www.azlyrics.com/lyrics/shalamar/makethatmove.html
 name: Make That Move
@@ -39,8 +42,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1981-06-13'
+release_year: 1980
+runtime: 369906
 ---
-
 Make that move right now, baby
 Make that move right now, baby
 
@@ -125,6 +129,3 @@ Make that move right now, baby
 Make that move right now, baby
 Make that move right now, baby
 Make that move right now, baby
-
-
-

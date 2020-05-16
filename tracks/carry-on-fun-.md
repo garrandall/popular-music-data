@@ -1,8 +1,11 @@
 ---
+album: Some Nights
 artists:
 - fun.
+external_ids:
+  spotify: spotify:track:7gpy7sfWPNuOKmUNs3XQYE
 features: []
-genres: []
+first_released_as_single: false
 key: carry-on-fun-
 lyrics_url: https://genius.com/Fun-carry-on-lyrics
 name: Carry On
@@ -87,6 +90,8 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '2013-06-01'
+release_year: 2012
+runtime: 278373
 ---
 Well I woke up to the sound of silence
 The cars were cutting like knives in a fist fight

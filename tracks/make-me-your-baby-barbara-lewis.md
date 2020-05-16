@@ -1,8 +1,11 @@
 ---
+album: Working On A Groovy Thing
 artists:
 - Barbara Lewis
+external_ids:
+  spotify: spotify:track:75f3C2aMNaEis1uFS0oZZF
 features: []
-genres: []
+first_released_as_single: false
 key: make-me-your-baby-barbara-lewis
 lyrics_url: https://genius.com/Barbara-lewis-make-me-your-baby-lyrics
 name: Make Me Your Baby
@@ -55,6 +58,8 @@ rankings:
   rank: 38
   ranking_list: Billboard Hot 100
   start_date: '1965-11-27'
+release_year: 1965
+runtime: 153306
 ---
 I'm gonna kiss you in a special way
 Make me your baby

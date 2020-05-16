@@ -1,8 +1,11 @@
 ---
+album: Too Rye Ay
 artists:
 - Dexys Midnight Runners
+external_ids:
+  spotify: spotify:track:6K9wIZpz2D8xNt7jPURm54
 features: []
-genres: []
+first_released_as_single: false
 key: the-celtic-soul-brothers-dexys-midnight-runners
 lyrics_url: https://www.azlyrics.com/lyrics/dexysmidnightrunners/thecelticsoulbrothers.html
 name: The Celtic Soul Brothers
@@ -23,8 +26,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1983-06-18'
+release_year: 1982
+runtime: 193066
 ---
-
 More please and thank you
 More please and thank you
 Introducing the Celtic Soul Brothers and featuring the Strong Devoted
@@ -71,6 +75,3 @@ Hey, hey, hey
 More please and thank you
 Yes, yes, yes
 More please and thank you
-
-
-

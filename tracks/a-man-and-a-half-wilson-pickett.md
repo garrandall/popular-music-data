@@ -1,8 +1,11 @@
 ---
+album: Hey Jude
 artists:
 - Wilson Pickett
+external_ids:
+  spotify: spotify:track:7II22fb2A8y90vqcLfb2jJ
 features: []
-genres: []
+first_released_as_single: false
 key: a-man-and-a-half-wilson-pickett
 lyrics_url: https://genius.com/Wilson-pickett-a-man-and-a-half-lyrics
 name: A Man And A Half
@@ -31,6 +34,8 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '1968-12-21'
+release_year: 1968
+runtime: 172573
 ---
 Let me tell you baby, I sure know how to please a woman, yes I do now
 Now I can make you feel better than you've ever felt before, yes I can now

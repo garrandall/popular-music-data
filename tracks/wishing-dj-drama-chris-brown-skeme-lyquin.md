@@ -1,11 +1,14 @@
 ---
+album: Quality Street Music 2
 artists:
 - DJ Drama
+external_ids:
+  spotify: spotify:track:3FM9mryo6yae4MogbZnd1A
 features:
 - Chris Brown
 - Skeme
 - Lyquin
-genres: []
+first_released_as_single: true
 key: wishing-dj-drama-chris-brown-skeme-lyquin
 lyrics_url: https://www.azlyrics.com/lyrics/djdrama/wishing.html
 name: Wishing
@@ -66,9 +69,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2016-12-03'
+release_year: 2016
+runtime: 252306
 ---
-
-
 Haha, back at it
 Baby, I'm a make a wish and I want you to make one
 Nah, don't tell me that, we can talk 'bout that later
@@ -154,6 +157,3 @@ Wishing that I was your nigga
 Wishing that I was your nigga
 Oh, oh, wish I was yours
 Haha, wishing that I was your nigga, Breezy holla at me
-
-
-

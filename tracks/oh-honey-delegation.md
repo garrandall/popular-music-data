@@ -1,8 +1,11 @@
 ---
+album: 'Late Night Tales: Badbadnotgood'
 artists:
 - Delegation
+external_ids:
+  spotify: spotify:track:3TiCuJiisBOB9HzKAM6FDG
 features: []
-genres: []
+first_released_as_single: true
 key: oh-honey-delegation
 lyrics_url: https://genius.com/Delegation-oh-honey-lyrics
 name: Oh Honey
@@ -55,6 +58,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1979-04-21'
+release_year: 1978
+runtime: 356200
 ---
 When I get lost, feel I've been crossed
 She will be my salvation

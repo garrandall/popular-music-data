@@ -1,8 +1,11 @@
 ---
+album: We Are Young Money
 artists:
 - Young Money
+external_ids:
+  spotify: spotify:track:4UXpJDvdsfneLvT09oJocg
 features: []
-genres: []
+first_released_as_single: false
 key: roger-that-young-money
 lyrics_url: https://genius.com/Young-money-roger-that-lyrics
 name: Roger That
@@ -51,6 +54,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2010-06-19'
+release_year: 2009
+runtime: 209826
 ---
 I'm in the collard green 6, cornbread in the guts
 Got the Halloween kicks, trick-or-treating the clutch

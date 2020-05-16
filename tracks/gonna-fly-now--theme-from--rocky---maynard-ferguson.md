@@ -1,8 +1,11 @@
 ---
+album: Conquistador
 artists:
 - Maynard Ferguson
+external_ids:
+  spotify: spotify:track:3kptOaH2SE1lbgKm3Umhf6
 features: []
-genres: []
+first_released_as_single: false
 key: gonna-fly-now--theme-from--rocky---maynard-ferguson
 lyrics_url: https://genius.com/Maynard-ferguson-gonna-fly-now-lyrics
 name: Gonna Fly Now (Theme From "Rocky")
@@ -59,6 +62,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1977-07-16'
+release_year: 1977
+runtime: 261466
 ---
 Trying hard now
 It's so hard now

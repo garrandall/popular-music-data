@@ -1,8 +1,11 @@
 ---
+album: Wrap Around Joy
 artists:
 - Carole King
+external_ids:
+  spotify: spotify:track:2I8zTJYp6fyFqauXcSuZd6
 features: []
-genres: []
+first_released_as_single: false
 key: jazzman-carole-king
 lyrics_url: https://www.azlyrics.com/lyrics/caroleking/jazzman.html
 name: Jazzman
@@ -71,8 +74,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1974-12-14'
+release_year: 1968
+runtime: 225600
 ---
-
 Lift me, won't you lift me above the old routine
 Make it nice, play it clean, Jazzman
 
@@ -105,6 +109,3 @@ With every change you play
 
 Oh, lift me, won't you lift me with every turnaround
 Play it sweetly, take me down, oh, Jazzman
-
-
-

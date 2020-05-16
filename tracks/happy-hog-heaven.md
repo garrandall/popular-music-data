@@ -1,8 +1,11 @@
 ---
+album: Hog Heaven
 artists:
 - Hog Heaven
+external_ids:
+  spotify: spotify:track:4ymeUZIjg7YjwCN0pv6JR2
 features: []
-genres: []
+first_released_as_single: false
 key: happy-hog-heaven
 name: Happy
 rankings:
@@ -14,5 +17,7 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1971-05-01'
+release_year: 1971
+runtime: 413000
 ---
 

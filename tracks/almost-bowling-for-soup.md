@@ -1,8 +1,11 @@
 ---
+album: A Hangover You Don't Deserve
 artists:
 - Bowling For Soup
+external_ids:
+  spotify: spotify:track:6TclVCUxDQm9s3Bey6Ao8H
 features: []
-genres: []
+first_released_as_single: false
 key: almost-bowling-for-soup
 lyrics_url: https://www.azlyrics.com/lyrics/bowlingforsoup/almost.html
 name: Almost
@@ -87,8 +90,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2005-07-02'
+release_year: 2004
+runtime: 206160
 ---
-
 I almost got drunk at school at 14
 Where I almost made out with the homecoming queen
 Who almost went on to be Miss Texas
@@ -136,6 +140,3 @@ to spend my time missing you
 And I almost had you 
 
 I almost wish you would've loved me too
-
-
-

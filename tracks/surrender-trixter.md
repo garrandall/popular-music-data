@@ -1,8 +1,11 @@
 ---
+album: Trixter
 artists:
 - Trixter
+external_ids:
+  spotify: spotify:track:4EEAHK0c3M7CCgcQt9bfts
 features: []
-genres: []
+first_released_as_single: false
 key: surrender-trixter
 lyrics_url: https://genius.com/Trixter-surrender-lyrics
 name: Surrender
@@ -47,6 +50,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1991-08-10'
+release_year: 1990
+runtime: 350960
 ---
 Words of silence echo through this lonely room
 Just a photograph and dreams that won't come true

@@ -1,8 +1,11 @@
 ---
+album: Doo-Wop - The Golden Age 1956-1963
 artists:
 - The Blue Notes
+external_ids:
+  spotify: spotify:track:1qqiUCVo3VQxYvIAW2UuHe
 features: []
-genres: []
+first_released_as_single: false
 key: my-hero-the-blue-notes
 lyrics_url: https://www.musixmatch.com/lyrics/The-Blue-Notes/My-Hero
 name: My Hero
@@ -23,6 +26,8 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '1960-10-24'
+release_year: 1960
+runtime: 161213
 ---
 Oh come, come
 I love you true

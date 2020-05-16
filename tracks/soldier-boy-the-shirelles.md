@@ -1,8 +1,11 @@
 ---
+album: Baby It's You
 artists:
 - The Shirelles
+external_ids:
+  spotify: spotify:track:7Ag7rVozR1OhzSdqc9K0KN
 features: []
-genres: []
+first_released_as_single: false
 key: soldier-boy-the-shirelles
 lyrics_url: https://www.azlyrics.com/lyrics/shirelles/soldierboy.html
 name: Soldier Boy
@@ -63,8 +66,9 @@ rankings:
   rank: 32
   ranking_list: Billboard Hot 100
   start_date: '1962-06-23'
+release_year: 1962
+runtime: 161746
 ---
-
 Soldier boy
 Oh my little soldier boy
 I'll be true to you
@@ -92,6 +96,3 @@ And I'll be true to you
 Soldier boy
 Oh my little soldier boy
 I'll be true to you
-
-
-

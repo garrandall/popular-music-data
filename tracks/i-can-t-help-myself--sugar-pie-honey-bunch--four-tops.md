@@ -1,8 +1,11 @@
 ---
+album: Four Tops Second Album
 artists:
 - Four Tops
+external_ids:
+  spotify: spotify:track:6b6IMqP565TbtFFZg9iFf3
 features: []
-genres: []
+first_released_as_single: false
 key: i-can-t-help-myself--sugar-pie-honey-bunch--four-tops
 lyrics_url: https://genius.com/The-four-tops-i-cant-help-myself-sugar-pie-honey-bunch-lyrics
 name: I Can't Help Myself (Sugar Pie Honey Bunch)
@@ -63,6 +66,8 @@ rankings:
   rank: 35
   ranking_list: Billboard Hot 100
   start_date: '1965-08-14'
+release_year: 1965
+runtime: 160280
 ---
 Uuh
 Sugar pie, honey bunch

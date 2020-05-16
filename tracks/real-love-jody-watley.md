@@ -1,8 +1,11 @@
 ---
+album: Larger Than Life
 artists:
 - Jody Watley
+external_ids:
+  spotify: spotify:track:0vbbwEUSkZf3oA1dLlIoFL
 features: []
-genres: []
+first_released_as_single: false
 key: real-love-jody-watley
 lyrics_url: https://www.azlyrics.com/lyrics/jodywatley/reallove.html
 name: Real Love
@@ -79,8 +82,9 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1989-07-15'
+release_year: 1989
+runtime: 261440
 ---
-
 I said I would get over you
 Now I'm here out on my own
 Trying to live my life
@@ -178,6 +182,3 @@ Real love (I don't need opinions)
 (Real love)
 (Got to give real love)
 Real love
-
-
-

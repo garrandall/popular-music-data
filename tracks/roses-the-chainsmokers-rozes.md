@@ -1,9 +1,12 @@
 ---
+album: Roses
 artists:
 - The Chainsmokers
+external_ids:
+  spotify: spotify:track:3vv9phIu6Y1vX3jcqaGz5Z
 features:
 - Rozes
-genres: []
+first_released_as_single: true
 key: roses-the-chainsmokers-rozes
 lyrics_url: https://www.azlyrics.com/lyrics/chainsmokers/roses.html
 name: Roses
@@ -132,8 +135,9 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2016-06-04'
+release_year: 2015
+runtime: 226738
 ---
-
 Taking it slow, but it's not typical
 He already knows that my love is fire
 His heart was a stone, but then his hands roamed
@@ -179,6 +183,3 @@ Say you'll never let me go
 Ah
 Say you'll never let me go
 Ah
-
-
-

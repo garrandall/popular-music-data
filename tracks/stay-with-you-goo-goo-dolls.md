@@ -1,8 +1,11 @@
 ---
+album: Let Love In
 artists:
 - Goo Goo Dolls
+external_ids:
+  spotify: spotify:track:3yJ2eboERY4HroE22RG7c2
 features: []
-genres: []
+first_released_as_single: false
 key: stay-with-you-goo-goo-dolls
 lyrics_url: https://www.azlyrics.com/lyrics/googoodolls/staywithyou.html
 name: Stay With You
@@ -87,8 +90,9 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2006-09-09'
+release_year: 2006
+runtime: 236560
 ---
-
 These streets
 Turn me inside out
 Everything shines
@@ -135,6 +139,3 @@ Take my hand now
 We'll run forever
 I can feel the storm inside you
 I'll stay with you
-
-
-

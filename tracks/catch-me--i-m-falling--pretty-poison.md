@@ -1,8 +1,11 @@
 ---
+album: Catch Me I'm Falling
 artists:
 - Pretty Poison
+external_ids:
+  spotify: spotify:track:2MQ23MqDI0N9IVy8iaZddc
 features: []
-genres: []
+first_released_as_single: false
 key: catch-me--i-m-falling--pretty-poison
 lyrics_url: https://genius.com/Pretty-poison-catch-me-im-falling-lyrics
 name: Catch Me (I'm Falling)
@@ -99,6 +102,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1988-02-27'
+release_year: 1987
+runtime: 295226
 ---
 Are you ready, boy?
 Here I come

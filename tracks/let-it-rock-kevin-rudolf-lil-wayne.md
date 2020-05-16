@@ -1,9 +1,12 @@
 ---
+album: In The City
 artists:
 - Kevin Rudolf
+external_ids:
+  spotify: spotify:track:6TrNRd98WksT9Kkmx9uj6R
 features:
 - Lil Wayne
-genres: []
+first_released_as_single: false
 key: let-it-rock-kevin-rudolf-lil-wayne
 lyrics_url: https://www.azlyrics.com/lyrics/kevinrudolf/letitrock.html
 name: Let It Rock
@@ -148,8 +151,9 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '2009-05-09'
+release_year: 2008
+runtime: 231173
 ---
-
 I see your dirty face
 Hide behind your collar
 What is done in vain
@@ -206,7 +210,7 @@ And Pamela (rock)
 And Samantha (rock)
 And Amanda (rock)
 And Tamara (rock)
-MÃ©nage Ã  moi
+Ménage Ã  moi
 I'm in here like, "Bitch, what's up?"
 Mechanic, me, I can fix you up
 I can dick you up
@@ -252,6 +256,3 @@ The things you do
 
 But I can't and I won't live a lie
 No, not this time
-
-
-

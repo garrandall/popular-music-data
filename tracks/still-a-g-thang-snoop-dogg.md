@@ -1,8 +1,11 @@
 ---
+album: Da Game Is To Be Sold, Not To Be Told
 artists:
 - Snoop Dogg
+external_ids:
+  spotify: spotify:track:25FbujVRm2y8A5HSHERaRa
 features: []
-genres: []
+first_released_as_single: false
 key: still-a-g-thang-snoop-dogg
 lyrics_url: https://genius.com/Snoop-dogg-still-a-g-thang-lyrics
 name: Still A G Thang
@@ -59,6 +62,8 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '1998-11-28'
+release_year: 1998
+runtime: 260133
 ---
 Yeah, yeah, yeah, I'm finna up in the corner in my lowrider, dogg. Ya heard me?
 Top dollar with the gold flea collar

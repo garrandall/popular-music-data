@@ -1,8 +1,12 @@
 ---
+album: Jagged Little Thrill
 artists:
-- Jagged Edge With Nelly
-features: []
-genres: []
+- Jagged Edge
+external_ids:
+  spotify: spotify:track:4KZ7CrgkvAn3BbSCAmYp0U
+features:
+- Nelly
+first_released_as_single: true
 key: where-the-party-at-jagged-edge-with-nelly
 name: Where The Party At
 rankings:
@@ -122,5 +126,7 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '2001-12-15'
+release_year: 2001
+runtime: 234066
 ---
 

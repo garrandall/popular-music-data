@@ -1,9 +1,12 @@
 ---
+album: Intuition
 artists:
 - Jamie Foxx
+external_ids:
+  spotify: spotify:track:6Gm1DPTZmMEB8U1db5oVyh
 features:
 - T.I.
-genres: []
+first_released_as_single: true
 key: just-like-me-jamie-foxx-t-i-
 lyrics_url: https://genius.com/Jamie-foxx-just-like-me-lyrics
 name: Just Like Me
@@ -80,6 +83,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2009-04-25'
+release_year: 2008
+runtime: 206053
 ---
 Say Foxx? (Yeah-eah-eah...)
 I had, I had a chick man (Yeah-eah-eah...)

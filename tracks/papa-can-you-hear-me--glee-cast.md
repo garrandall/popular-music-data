@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music, The Complete Season Two'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:4IibBPekuv2Ynz4PnUuNdw
 features: []
-genres: []
+first_released_as_single: false
 key: papa-can-you-hear-me--glee-cast
 lyrics_url: https://www.azlyrics.com/lyrics/gleecast/papacanyouhearme.html
 name: Papa Can You Hear Me?
@@ -11,8 +14,9 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '2010-10-23'
+release_year: 2010
+runtime: 211000
 ---
-
 God - our heavenly Father.
 Oh, God - and my father
 Who is also in heaven.
@@ -61,6 +65,3 @@ Papa, how I love you.
 Papa, how I need you.
 Papa, how I miss you
 Kissing me goodnight.
-
-
-

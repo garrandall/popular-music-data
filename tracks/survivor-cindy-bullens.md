@@ -1,8 +1,11 @@
 ---
+album: Desire Wire
 artists:
 - Cindy Bullens
+external_ids:
+  spotify: spotify:track:7gf0RdxRbZVpnQqs9V84BJ
 features: []
-genres: []
+first_released_as_single: true
 key: survivor-cindy-bullens
 lyrics_url: https://genius.com/Cindy-bullens-survivor-lyrics
 name: Survivor
@@ -35,6 +38,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1979-03-17'
+release_year: 1978
+runtime: 265366
 ---
 Oh, he left me
 Didn't even say goodbye

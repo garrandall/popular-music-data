@@ -1,8 +1,11 @@
 ---
+album: Real Love
 artists:
 - Lisa Stansfield
+external_ids:
+  spotify: spotify:track:0vlUt4FhSZOaYGR3MT4ETO
 features: []
-genres: []
+first_released_as_single: false
 key: change-lisa-stansfield
 lyrics_url: https://genius.com/Lisa-stansfield-change-lyrics
 name: Change
@@ -87,6 +90,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1992-03-14'
+release_year: 1991
+runtime: 339546
 ---
 If I could change the way I live my life today
 I wouldn't change a single thing

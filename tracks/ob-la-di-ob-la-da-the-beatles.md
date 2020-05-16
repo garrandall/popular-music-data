@@ -1,8 +1,11 @@
 ---
+album: The Beatles
 artists:
 - The Beatles
+external_ids:
+  spotify: spotify:track:1gFNm7cXfG1vSMcxPpSxec
 features: []
-genres: []
+first_released_as_single: false
 key: ob-la-di-ob-la-da-the-beatles
 lyrics_url: https://genius.com/The-beatles-ob-la-di-ob-la-da-lyrics
 name: Ob-la-di Ob-la-da
@@ -35,6 +38,8 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '1977-01-01'
+release_year: 1968
+runtime: 188960
 ---
 Desmond has a barrow in the market place
 Molly is the singer in a band

@@ -1,8 +1,11 @@
 ---
+album: 'Live: Blow Your Face Out'
 artists:
 - The J. Geils Band
+external_ids:
+  spotify: spotify:track:0GbvNMjTXRaNordYZx2dTv
 features: []
-genres: []
+first_released_as_single: false
 key: where-did-our-love-go-the-j--geils-band
 lyrics_url: https://www.azlyrics.com/lyrics/jgeilsband/wheredidourlovego.html
 name: Where Did Our Love Go
@@ -31,8 +34,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1976-05-22'
+release_year: 1976
+runtime: 240173
 ---
-
 Baby, baby, baby, don't leave me
 Oh, don't leave me all by myself, yeah
 
@@ -53,6 +57,3 @@ You don't want me, want me no more
 
 Baby, baby, where did our love go?
 You don't want me, want me no more
-
-
-

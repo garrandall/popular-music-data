@@ -1,8 +1,11 @@
 ---
+album: $ (Original Motion Picture Soundtrack)
 artists:
 - Quincy Jones
+external_ids:
+  spotify: spotify:track:14B9F2Y9FGqsXMmigsYaxo
 features: []
-genres: []
+first_released_as_single: false
 key: money-runner-quincy-jones
 lyrics_url: https://www.musixmatch.com/lyrics/Quincy-Jones/Money-Runner
 name: Money Runner
@@ -39,6 +42,8 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '1972-04-29'
+release_year: 1972
+runtime: 188400
 ---
 Sister, sister, sister
 Sister, sister, sister

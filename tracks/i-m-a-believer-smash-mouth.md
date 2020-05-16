@@ -1,8 +1,11 @@
 ---
+album: Smash Mouth
 artists:
 - Smash Mouth
+external_ids:
+  spotify: spotify:track:1RC5Mb0VhnlhnMlFDnrvE0
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-a-believer-smash-mouth
 lyrics_url: https://genius.com/Smash-mouth-im-a-believer-lyrics
 name: I'm A Believer
@@ -87,6 +90,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2001-12-01'
+release_year: 2001
+runtime: 183400
 ---
 I thought love was only true in fairy tales
 Meant for someone else but not for me

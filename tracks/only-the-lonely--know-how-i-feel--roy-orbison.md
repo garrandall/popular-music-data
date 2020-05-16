@@ -1,8 +1,11 @@
 ---
+album: Sings Lonely and Blue
 artists:
 - Roy Orbison
+external_ids:
+  spotify: spotify:track:0PkBTqRtN25z3oKasWoKlj
 features: []
-genres: []
+first_released_as_single: false
 key: only-the-lonely--know-how-i-feel--roy-orbison
 lyrics_url: https://www.azlyrics.com/lyrics/royorbison/onlythelonelyknowhowifeel.html
 name: Only The Lonely (Know How I Feel)
@@ -91,8 +94,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1960-10-24'
+release_year: 1960
+runtime: 145533
 ---
-
 Dum-dum-dum-dumdy-doo-wah
 Oh-yay-yay-yay-yeah
 Oh-oh-oh-oh-wah
@@ -135,6 +139,3 @@ If your lonely heart breaks
 Only the lonely
 
 Dum-dum-dum-dumdy-doo-wah
-
-
-

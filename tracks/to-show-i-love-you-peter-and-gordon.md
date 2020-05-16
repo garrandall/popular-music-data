@@ -1,8 +1,11 @@
 ---
+album: Peter And Gordon (1966) Plus
 artists:
 - Peter And Gordon
+external_ids:
+  spotify: spotify:track:2jHfXdCLibrI1J56LnUAZv
 features: []
-genres: []
+first_released_as_single: false
 key: to-show-i-love-you-peter-and-gordon
 lyrics_url: https://genius.com/Peter-and-gordon-to-show-i-love-you-lyrics
 name: To Show I Love You
@@ -15,6 +18,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1966-08-06'
+release_year: 1966
+runtime: 145293
 ---
 I will come to you each night
 And hold you tight

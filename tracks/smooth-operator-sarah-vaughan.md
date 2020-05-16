@@ -1,8 +1,11 @@
 ---
+album: Sarah Vaughan's Golden Hits
 artists:
 - Sarah Vaughan
+external_ids:
+  spotify: spotify:track:2jmOQZ16pdAC6t7GYTyFqS
 features: []
-genres: []
+first_released_as_single: false
 key: smooth-operator-sarah-vaughan
 lyrics_url: https://genius.com/Sarah-vaughan-smooth-operator-lyrics
 name: Smooth Operator
@@ -43,6 +46,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1959-12-28'
+release_year: 1958
+runtime: 140240
 ---
 Cha, cha, cha, cha
 

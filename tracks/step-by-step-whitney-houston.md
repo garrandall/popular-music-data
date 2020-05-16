@@ -1,8 +1,11 @@
 ---
+album: The Preacher's Wife
 artists:
 - Whitney Houston
+external_ids:
+  spotify: spotify:track:5dEBcymDDG9TUjJnAouOPp
 features: []
-genres: []
+first_released_as_single: false
 key: step-by-step-whitney-houston
 lyrics_url: https://www.azlyrics.com/lyrics/whitneyhouston/stepbystep.html
 name: Step By Step
@@ -75,8 +78,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1997-07-05'
+release_year: 1996
+runtime: 252533
 ---
-
 Well there's a bridge and there's a river that I still must cross
 As I'm going on my journey
 Oh, I might be lost
@@ -127,6 +131,3 @@ c'mon baby,
 step by step keep on moving, day by day (day by day-ee),
 mile by mile by mile by mile,go your own way,
 c'mon baby got to keep moving, bit by bit (bit by bit, bit by bit)...
-
-
-

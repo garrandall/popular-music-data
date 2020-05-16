@@ -1,8 +1,11 @@
 ---
+album: Rare Gems - Volume One
 artists:
 - The Diamonds
+external_ids:
+  spotify: spotify:track:15NPJtiKnH6vl1YTIBx9Mf
 features: []
-genres: []
+first_released_as_single: false
 key: happy-years-the-diamonds
 lyrics_url: https://www.musixmatch.com/lyrics/The-Diamonds/Happy-Years
 name: Happy Years
@@ -23,6 +26,8 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1958-08-25'
+release_year: 1958
+runtime: 132280
 ---
 Roll out of bed and I'm off to school
 (Happy years, those happy years)

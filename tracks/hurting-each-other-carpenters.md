@@ -1,8 +1,11 @@
 ---
+album: A Song For You
 artists:
 - Carpenters
+external_ids:
+  spotify: spotify:track:4wGKFjv7PUEZJsRk79wNKu
 features: []
-genres: []
+first_released_as_single: false
 key: hurting-each-other-carpenters
 lyrics_url: https://www.azlyrics.com/lyrics/carpenters/hurtingeachother.html
 name: Hurting Each Other
@@ -55,8 +58,9 @@ rankings:
   rank: 33
   ranking_list: Billboard Hot 100
   start_date: '1972-04-01'
+release_year: 1972
+runtime: 168533
 ---
-
 No one in the world
 Ever had a love as sweet as my love
 For nowhere in the wolrd
@@ -98,6 +102,3 @@ Gotta stop hurting each other
 Making each other cry
 Breaking each other's heart
 Tearing each other apart
-
-
-

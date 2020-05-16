@@ -1,8 +1,11 @@
 ---
+album: Under The Blade
 artists:
 - Twisted Sister
+external_ids:
+  spotify: spotify:track:0hikTQaXspfYfjrnqZG2MJ
 features: []
-genres: []
+first_released_as_single: false
 key: leader-of-the-pack-twisted-sister
 lyrics_url: https://www.azlyrics.com/lyrics/twistedsister/leaderofthepack.html
 name: Leader Of The Pack
@@ -47,8 +50,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1986-02-01'
+release_year: 1982
+runtime: 241093
 ---
-
 Hey, is he really goin' out with her?
 There he is, let's ask him
 Hey man, is that your ring she's wearin'?
@@ -98,6 +102,3 @@ The leader of the pack
 Leader of the pack
 And now she's gone
 ...
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Drunk Enough To Dance
 artists:
 - Bowling For Soup
+external_ids:
+  spotify: spotify:track:0KqyBk4aVT88TEqBIC8mAP
 features: []
-genres: []
+first_released_as_single: false
 key: girl-all-the-bad-guys-want-bowling-for-soup
 lyrics_url: https://www.azlyrics.com/lyrics/bowlingforsoup/girlallthebadguyswant.html
 name: Girl All The Bad Guys Want
@@ -43,8 +46,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2003-05-24'
+release_year: 2002
+runtime: 197800
 ---
-
 8 o'clock, Monday night and I'm waitin'
 To finally talk to a girl a little cooler than me.
 Her name is Nona, she's a rocker with a nose ring,
@@ -126,6 +130,3 @@ She's the girl all the bad guys want!
 (There she goes again)
 She's the girl all the bad guys want!
 She's the girl all the bad guys want!
-
-
-

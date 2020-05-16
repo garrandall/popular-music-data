@@ -1,9 +1,12 @@
 ---
+album: Beneath Your Beautiful
 artists:
 - Labrinth
+external_ids:
+  spotify: spotify:track:1wVcLKdJ4AFKPhKucNvEpy
 features:
 - Emeli Sande
-genres: []
+first_released_as_single: true
 key: beneath-your-beautiful-labrinth-emeli-sande
 lyrics_url: https://www.azlyrics.com/lyrics/labrinth/beneathyourbeautiful.html
 name: Beneath Your Beautiful
@@ -64,8 +67,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2013-09-28'
+release_year: 2013
+runtime: 271813
 ---
-
 You tell all the boys "No"
 Makes you feel good, yeah
 I know you're out of my league
@@ -119,6 +123,3 @@ Would you let me see beneath your beautiful tonight, oh, oh, oh, tonight?
 See beneath your beautiful, oh, tonight
 We ain't perfect, we ain't perfect, no
 Would you let me see beneath your beautiful tonight?
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Barbra Streisand's Greatest Hits
 artists:
 - Barbra Streisand
+external_ids:
+  spotify: spotify:track:1k9rx6o8vBnaWTBoYsjM68
 features: []
-genres: []
+first_released_as_single: false
 key: sam-you-made-the-pants-too-long-barbra-streisand
 lyrics_url: https://genius.com/Barbra-streisand-sam-you-made-the-pants-too-long-lyrics
 name: Sam You Made The Pants Too Long
@@ -11,6 +14,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1966-05-21'
+release_year: 1966
+runtime: 124026
 ---
 Trousers drag on, slowly drag on through the street
 Yes, I'm walking, but I'm walking without feet

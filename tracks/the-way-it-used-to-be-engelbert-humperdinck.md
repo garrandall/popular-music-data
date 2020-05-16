@@ -1,8 +1,11 @@
 ---
+album: Engelbert
 artists:
 - Engelbert Humperdinck
+external_ids:
+  spotify: spotify:track:6tYUxluyasuxI4W5mDg4j8
 features: []
-genres: []
+first_released_as_single: false
 key: the-way-it-used-to-be-engelbert-humperdinck
 lyrics_url: https://www.azlyrics.com/lyrics/engelberthumperdinck/thewayitusedtobe.html
 name: The Way It Used To Be
@@ -51,8 +54,9 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '1969-05-10'
+release_year: 1969
+runtime: 193400
 ---
-
 Lonely table just for one
 In a bright and crowded room
 While the music has begun
@@ -78,6 +82,3 @@ And maybe if she's passing by the window
 She will hear our love song and the melody
 And even if the words are not so tender
 She will always remember the way it used to be
-
-
-

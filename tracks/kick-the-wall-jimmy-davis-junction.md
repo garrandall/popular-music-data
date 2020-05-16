@@ -1,9 +1,12 @@
 ---
+album: Kick the Wall
 artists:
 - Jimmy Davis
 - Junction
+external_ids:
+  spotify: spotify:track:46hkd8Eq6FcsTUKkjclqpB
 features: []
-genres: []
+first_released_as_single: false
 key: kick-the-wall-jimmy-davis-junction
 lyrics_url: https://genius.com/Jimmy-davis-and-junction-kick-the-wall-lyrics
 name: Kick The Wall
@@ -32,6 +35,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1987-12-12'
+release_year: 1987
+runtime: 218200
 ---
 Sometimes she's undecided
 Sometimes she just don't care

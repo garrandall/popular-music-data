@@ -1,8 +1,11 @@
 ---
+album: Some Girls
 artists:
 - The Rolling Stones
+external_ids:
+  spotify: spotify:track:77oU2rjC5XbjQfNe3bD6so
 features: []
-genres: []
+first_released_as_single: false
 key: beast-of-burden-the-rolling-stones
 lyrics_url: https://genius.com/The-rolling-stones-beast-of-burden-lyrics
 name: Beast Of Burden
@@ -59,6 +62,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1978-12-02'
+release_year: 1978
+runtime: 265173
 ---
 I'll never be your beast of burden
 My back is broad, but it's a-hurting

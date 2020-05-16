@@ -1,8 +1,11 @@
 ---
+album: Battlefield
 artists:
 - Jordin Sparks
+external_ids:
+  spotify: spotify:track:1Nme6K1PYAh7p7uygyuRdf
 features: []
-genres: []
+first_released_as_single: false
 key: battlefield-jordin-sparks
 lyrics_url: https://www.azlyrics.com/lyrics/jordinsparks/battlefield.html
 name: Battlefield
@@ -95,8 +98,9 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '2009-10-24'
+release_year: 2009
+runtime: 241920
 ---
-
 Don't try to explain your mind
 I know what's happening here
 One minute it's love and suddenly
@@ -190,4 +194,3 @@ Don't even know what we're fighting for
 I never meant to start a war
 Don't even know what we're fighting for
 (whoa ooow)
-

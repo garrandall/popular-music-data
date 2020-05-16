@@ -1,8 +1,11 @@
 ---
+album: Kellie Pickler (Deluxe Version)
 artists:
 - Kellie Pickler
+external_ids:
+  spotify: spotify:track:16jvUOIQ2P54P0bNN4rAdv
 features: []
-genres: []
+first_released_as_single: false
 key: best-days-of-your-life-kellie-pickler
 lyrics_url: https://www.azlyrics.com/lyrics/kelliepickler/bestdaysofyourlife.html
 name: Best Days Of Your Life
@@ -87,8 +90,9 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '2009-09-05'
+release_year: 2008
+runtime: 226800
 ---
-
 'Cause I'll be there in the back of your mind
 From the day we met 'til you were making me cry
 And it's just too bad you already had the best days
@@ -146,6 +150,3 @@ Oh, oh yeah
 
 It's a shame, it's a shame
 it's a shame, it's a shame, it's a shame, it's a shame
-
-
-

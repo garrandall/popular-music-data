@@ -1,8 +1,11 @@
 ---
+album: Hollies
 artists:
 - The Hollies
+external_ids:
+  spotify: spotify:track:2Iwh0xufjUta5lCpyYVgAy
 features: []
-genres: []
+first_released_as_single: false
 key: the-air-that-i-breathe-the-hollies
 lyrics_url: https://genius.com/The-hollies-the-air-that-i-breathe-lyrics
 name: The Air That I Breathe
@@ -91,6 +94,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1974-09-07'
+release_year: 1967
+runtime: 249666
 ---
 If I could make a wish
 I think I'd pass

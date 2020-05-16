@@ -1,8 +1,11 @@
 ---
+album: Greatest Latin Hits
 artists:
 - Connie Francis
+external_ids:
+  spotify: spotify:track:2hwBYxp2dUdjnkaqwzgUyj
 features: []
-genres: []
+first_released_as_single: false
 key: "malague\xF1a-connie-francis"
 name: "Malague\xF1a"
 rankings:
@@ -42,5 +45,7 @@ rankings:
   rank: 52
   ranking_list: Billboard Hot 100
   start_date: '1960-10-17'
+release_year: 1960
+runtime: 187600
 ---
 

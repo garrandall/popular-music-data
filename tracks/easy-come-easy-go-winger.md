@@ -1,8 +1,11 @@
 ---
+album: In The Heart Of The Young
 artists:
 - Winger
+external_ids:
+  spotify: spotify:track:0giUVQS9tpiaJJ5D9UeX6Y
 features: []
-genres: []
+first_released_as_single: false
 key: easy-come-easy-go-winger
 lyrics_url: https://www.azlyrics.com/lyrics/winger/easycomeeasygo.html
 name: Easy Come Easy Go
@@ -51,8 +54,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1991-04-20'
+release_year: 1990
+runtime: 245240
 ---
-
 If you start to feel like there's no time to waste
 Baby, try to let go - there's
 Nothing that strong - can't break your heart
@@ -87,4 +91,3 @@ Nothing that strong - can't break your heart
 Sometimes high, sometimes low
 
 And you only only only own it when you say...
-

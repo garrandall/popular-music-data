@@ -1,8 +1,11 @@
 ---
+album: The Chi-Lites
 artists:
 - The Chi-lites
+external_ids:
+  spotify: spotify:track:0vy0KgJyR3eVrQc6Y7yXFK
 features: []
-genres: []
+first_released_as_single: false
 key: homely-girl-the-chi-lites
 lyrics_url: https://www.azlyrics.com/lyrics/chilites/homelygirl.html
 name: Homely Girl
@@ -39,8 +42,9 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1974-03-30'
+release_year: 1973
+runtime: 215720
 ---
-
 It must have broke your poor little heart
 When the boys used to say
 You looked better in the dark
@@ -80,6 +84,3 @@ You're a beautiful woman oh yeah
 Oh first they want a chance to hold you
 Then they want a chance to try to control you
 Oh no, don't you know I got to say it
-
-
-

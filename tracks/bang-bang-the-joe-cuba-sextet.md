@@ -1,8 +1,11 @@
 ---
+album: The Best Of Joe Cuba
 artists:
 - The Joe Cuba Sextet
+external_ids:
+  spotify: spotify:track:1toOx0wW9ZlaC8lrEPhY3L
 features: []
-genres: []
+first_released_as_single: false
 key: bang-bang-the-joe-cuba-sextet
 lyrics_url: https://www.musixmatch.com/lyrics/Joe-Cuba-Sextet/Bang-Bang
 name: Bang Bang
@@ -39,6 +42,8 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '1966-12-10'
+release_year: 1966
+runtime: 247200
 ---
 Beep Beep... Ah
 Bang Bang

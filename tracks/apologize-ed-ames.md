@@ -1,8 +1,11 @@
 ---
+album: Ed Ames Sings Apologize
 artists:
 - Ed Ames
+external_ids:
+  spotify: spotify:track:0SUU73gD2GfY4c5lRFGIQ8
 features: []
-genres: []
+first_released_as_single: false
 key: apologize-ed-ames
 lyrics_url: https://www.musixmatch.com/lyrics/Ed-Ames/Apologize
 name: Apologize
@@ -31,6 +34,8 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1968-06-15'
+release_year: 1968
+runtime: 127826
 ---
 In the fury of the moment
 When the words of wrath rang out

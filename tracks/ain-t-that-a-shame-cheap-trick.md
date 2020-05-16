@@ -1,8 +1,11 @@
 ---
+album: At Budokan
 artists:
 - Cheap Trick
+external_ids:
+  spotify: spotify:track:7ej76VUd7UrJv6k11GGByI
 features: []
-genres: []
+first_released_as_single: false
 key: ain-t-that-a-shame-cheap-trick
 lyrics_url: https://genius.com/Cheap-trick-aint-that-a-shame-lyrics
 name: Ain't That A Shame
@@ -47,6 +50,8 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1979-10-06'
+release_year: 1978
+runtime: 309266
 ---
 You made me cry when you said good-bye
 Ain't that a shame...my tears fall like rain

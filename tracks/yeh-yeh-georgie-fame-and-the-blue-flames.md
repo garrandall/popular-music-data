@@ -1,8 +1,11 @@
 ---
+album: Fame At Last
 artists:
 - Georgie Fame And The Blue Flames
+external_ids:
+  spotify: spotify:track:4B1TRsyU6vgeJxf9w7LjOz
 features: []
-genres: []
+first_released_as_single: false
 key: yeh-yeh-georgie-fame-and-the-blue-flames
 name: Yeh Yeh
 rankings:
@@ -38,5 +41,7 @@ rankings:
   rank: 24
   ranking_list: Billboard Hot 100
   start_date: '1965-04-03'
+release_year: 1965
+runtime: 167040
 ---
 

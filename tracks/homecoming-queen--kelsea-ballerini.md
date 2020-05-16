@@ -1,8 +1,11 @@
 ---
+album: kelsea
 artists:
 - Kelsea Ballerini
+external_ids:
+  spotify: spotify:track:1s71G3V7XQaVo5IOR6gLbp
 features: []
-genres: []
+first_released_as_single: true
 key: homecoming-queen--kelsea-ballerini
 lyrics_url: https://www.azlyrics.com/lyrics/kelseaballerini/homecomingqueen.html
 name: homecoming queen?
@@ -55,8 +58,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2020-03-07'
+release_year: 2019
+runtime: 167796
 ---
-
 Hey homecoming queen
 Why do you lie
 When somebody's mean
@@ -113,6 +117,3 @@ Hey homecoming queen
 Why do you lie
 When somebody's mean
 Where do you hide
-
-
-

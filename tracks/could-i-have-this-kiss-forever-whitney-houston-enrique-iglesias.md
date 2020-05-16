@@ -1,9 +1,12 @@
 ---
+album: Whitney The Greatest Hits
 artists:
 - Whitney Houston
 - Enrique Iglesias
+external_ids:
+  spotify: spotify:track:549DBe4tw3IYPnedaz0q0J
 features: []
-genres: []
+first_released_as_single: false
 key: could-i-have-this-kiss-forever-whitney-houston-enrique-iglesias
 lyrics_url: https://www.azlyrics.com/lyrics/whitneyhouston/couldihavethiskissforever.html
 name: Could I Have This Kiss Forever
@@ -84,8 +87,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2000-10-28'
+release_year: 2000
+runtime: 235613
 ---
-
 Over and over I look in your eyes
 You are all I desire
 You have captured me
@@ -133,6 +137,3 @@ Could I hold you close beside me
 Could I hold you for all time
 Could I could I have this kiss forever
 Could I could I have this kiss forever, forever
-
-
-

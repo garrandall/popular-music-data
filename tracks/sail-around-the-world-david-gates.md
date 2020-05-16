@@ -1,8 +1,11 @@
 ---
+album: First
 artists:
 - David Gates
+external_ids:
+  spotify: spotify:track:7bLBlkxbLZu4tc4STpvNeD
 features: []
-genres: []
+first_released_as_single: false
 key: sail-around-the-world-david-gates
 lyrics_url: https://www.azlyrics.com/lyrics/davidgates/sailaroundtheworld.html
 name: Sail Around The World
@@ -39,8 +42,9 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1973-12-08'
+release_year: 1973
+runtime: 199906
 ---
-
 I would sail around the world
 Look for gold and dive for pearl
 But I know I will never get to go
@@ -66,6 +70,3 @@ Look for gold and dive for pearl
 But I know I will never get to go
 Guess it's true, I would probably not get to
 Oh no, I will never get to go
-
-
-

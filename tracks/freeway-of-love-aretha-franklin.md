@@ -1,8 +1,11 @@
 ---
+album: Who's Zoomin' Who?
 artists:
 - Aretha Franklin
+external_ids:
+  spotify: spotify:track:6Uhmf736HHPm5i9wrNyZuR
 features: []
-genres: []
+first_released_as_single: false
 key: freeway-of-love-aretha-franklin
 lyrics_url: https://www.azlyrics.com/lyrics/arethafranklin/freewayoflove.html
 name: Freeway Of Love
@@ -83,8 +86,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1985-10-26'
+release_year: 1985
+runtime: 246733
 ---
-
 Knew you'd be a vision in white
 How'd you get your pants so tight?
 Don't know what you're doin'
@@ -169,6 +173,3 @@ A whole lot of kisses and sweet stuff
 We'll be just about ow, ow, ow!
 And satisfaction roll down
 Satisfaction, yeah!
-
-
-

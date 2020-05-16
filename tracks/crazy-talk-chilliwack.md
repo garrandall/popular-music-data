@@ -1,8 +1,11 @@
 ---
+album: Riding High
 artists:
 - Chilliwack
+external_ids:
+  spotify: spotify:track:2dh1nIS7gbj5QH5nmKYWla
 features: []
-genres: []
+first_released_as_single: false
 key: crazy-talk-chilliwack
 lyrics_url: https://www.azlyrics.com/lyrics/chilliwack/crazytalk.html
 name: Crazy Talk
@@ -31,8 +34,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1975-02-01'
+release_year: 1974
+runtime: 325093
 ---
-
 She talks crazy talk
 She talks crazy talk
 She talks crazy talk
@@ -79,6 +83,3 @@ She talk crazy talk, mumbo jumbo
 Monkey on your back
 She talkin' crazy talk
 She can make a man a ruin
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: 'The Everest Sessions: How Can I Forget?'
 artists:
 - Jimmy Holiday
+external_ids:
+  spotify: spotify:track:6msWzWBvm8vqySnPtgbdR2
 features: []
-genres: []
+first_released_as_single: false
 key: how-can-i-forget-jimmy-holiday
 lyrics_url: https://www.musixmatch.com/lyrics/Jimmy-Holiday/How-Can-I-Forget
 name: How Can I Forget
@@ -43,6 +46,8 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '1963-05-11'
+release_year: 1963
+runtime: 160133
 ---
 I want to know know know
 (How can I forget)

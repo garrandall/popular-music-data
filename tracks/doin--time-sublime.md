@@ -1,8 +1,11 @@
 ---
+album: Sublime
 artists:
 - Sublime
+external_ids:
+  spotify: spotify:track:4eamJr2k9YDH8j58RSTmSc
 features: []
-genres: []
+first_released_as_single: false
 key: doin--time-sublime
 lyrics_url: https://genius.com/Sublime-doin-time-lyrics
 name: Doin' Time
@@ -35,6 +38,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1998-01-31'
+release_year: 1996
+runtime: 253840
 ---
 Summertime, and the livin's easy
 Bradley's on the microphone with Ras M.G.​

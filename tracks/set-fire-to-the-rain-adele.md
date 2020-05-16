@@ -1,8 +1,11 @@
 ---
+album: '21'
 artists:
 - Adele
+external_ids:
+  spotify: spotify:track:3CKCZ9pfwAfoMZlMncA1Nc
 features: []
-genres: []
+first_released_as_single: false
 key: set-fire-to-the-rain-adele
 lyrics_url: https://www.azlyrics.com/lyrics/adele/setfiretotherain.html
 name: Set Fire To The Rain
@@ -179,8 +182,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2012-07-07'
+release_year: 2011
+runtime: 241693
 ---
-
 I let it fall, my heart
 And as it fell, you rose to claim it
 It was dark, and I was over
@@ -246,6 +250,3 @@ Oh, no
 Let it burn, oh
 Let it burn
 Let it burn
-
-
-

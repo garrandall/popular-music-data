@@ -1,8 +1,11 @@
 ---
+album: Get Rich Or Die Tryin'
 artists:
 - 50 Cent
+external_ids:
+  spotify: spotify:track:6MU4M0XEtvQsDz4b6jxe8R
 features: []
-genres: []
+first_released_as_single: false
 key: wanksta-50-cent
 lyrics_url: https://genius.com/50-cent-wanksta-lyrics
 name: Wanksta
@@ -87,6 +90,8 @@ rankings:
   rank: 35
   ranking_list: Billboard Hot 100
   start_date: '2003-04-12'
+release_year: 2002
+runtime: 218920
 ---
 It's 50 a.k.a. Ferrari F-50
 Break it down

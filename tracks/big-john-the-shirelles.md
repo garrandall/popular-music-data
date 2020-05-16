@@ -1,8 +1,11 @@
 ---
+album: Baby It's You
 artists:
 - The Shirelles
+external_ids:
+  spotify: spotify:track:5thFH0jyRLPMAilFoS9Xn6
 features: []
-genres: []
+first_released_as_single: false
 key: big-john-the-shirelles
 lyrics_url: https://www.azlyrics.com/lyrics/shirelles/bigjohnaintyougonnamarryme.html
 name: Big John
@@ -43,8 +46,9 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '1961-11-27'
+release_year: 1961
+runtime: 140533
 ---
-
 (Big John, Big John)
 
 Big John, won't you come on home?
@@ -88,6 +92,3 @@ Been waitin' so long
 (Big John)
 There's somethin' goin' wrong
 (Big John)
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Finally
 artists:
 - CeCe Peniston
+external_ids:
+  spotify: spotify:track:5Rg4i5SEzUXAiztaIwG3Qd
 features: []
-genres: []
+first_released_as_single: false
 key: keep-on-walkin--cece-peniston
 lyrics_url: https://genius.com/Cece-peniston-keep-on-walkin-lyrics
 name: Keep On Walkin'
@@ -91,6 +94,8 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '1992-10-10'
+release_year: 1992
+runtime: 270837
 ---
 You can just... walk on
 You can just go, walk on, keep on

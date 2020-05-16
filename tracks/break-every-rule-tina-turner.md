@@ -1,8 +1,11 @@
 ---
+album: Break Every Rule
 artists:
 - Tina Turner
+external_ids:
+  spotify: spotify:track:2uabJKR8oOhyk89TsfMxgu
 features: []
-genres: []
+first_released_as_single: false
 key: break-every-rule-tina-turner
 lyrics_url: https://www.azlyrics.com/lyrics/tinaturner/breakeveryrule.html
 name: Break Every Rule
@@ -27,8 +30,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1987-06-06'
+release_year: 1986
+runtime: 242133
 ---
-
 EVERY ROAD THAT I WALK
 EVERY SINGLE FLIGHT I EVER TAKE
 THOUGH I`M THOUSANDS OF MILES AWAY
@@ -71,6 +75,3 @@ AND EVERY ROAD THAT I WALK
 AND EVERY FLIGHT THAT I EVER TAKE
 AND EVERY DREAM THAT I DREAM
 EVERY JOURNEY BRINGS ME CLOSER
-
-
-

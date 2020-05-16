@@ -1,10 +1,13 @@
 ---
+album: The Wack Album
 artists:
 - The Lonely Island
+external_ids:
+  spotify: spotify:track:6XmT1eehtQjAtuZL3gMBNT
 features:
 - Adam Levine
 - Kendrick Lamar
-genres: []
+first_released_as_single: false
 key: yolo-the-lonely-island-adam-levine-kendrick-lamar
 lyrics_url: https://www.azlyrics.com/lyrics/lonelyisland/yolo.html
 name: Yolo
@@ -13,9 +16,10 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '2013-02-16'
+release_year: 2013
+runtime: 184640
 ---
-
- YOLO
+YOLO
 
  YOLO, you only live once.
 
@@ -146,6 +150,3 @@ Just take our advice and hide
 And scream YOLO to the sky.
 
  You oughta look out.
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: II
 artists:
 - Boyz II Men
+external_ids:
+  spotify: spotify:track:7MYmo0JJJDmu4MZTSAF9y3
 features: []
-genres: []
+first_released_as_single: false
 key: on-bended-knee-boyz-ii-men
 lyrics_url: https://genius.com/Boyz-ii-men-on-bended-knee-lyrics
 name: On Bended Knee
@@ -115,6 +118,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1995-05-20'
+release_year: 1994
+runtime: 329800
 ---
 Darlin' I, I can't explain
 Where did we lose our way

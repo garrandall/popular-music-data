@@ -1,8 +1,11 @@
 ---
+album: The Road And The Radio
 artists:
 - Kenny Chesney
+external_ids:
+  spotify: spotify:track:5Vkdh8GfdXmwyJjzPewMWM
 features: []
-genres: []
+first_released_as_single: false
 key: who-you-d-be-today-kenny-chesney
 lyrics_url: https://genius.com/Kenny-chesney-who-youd-be-today-lyrics
 name: Who You'd Be Today
@@ -75,6 +78,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '2006-01-28'
+release_year: 2005
+runtime: 254573
 ---
 Sunny days seem to hurt the most
 I wear the pain like a heavy coat

@@ -1,10 +1,13 @@
 ---
+album: The Best of Ashton Gardner & Dyke
 artists:
 - Ashton
 - Gardner
 - Dyke
+external_ids:
+  spotify: spotify:track:393WZ3Qnwcib5ehS18OBH3
 features: []
-genres: []
+first_released_as_single: false
 key: resurrection-shuffle-ashton-gardner-dyke
 lyrics_url: https://genius.com/Ashton-gardner-and-dyke-resurrection-shuffle-lyrics
 name: Resurrection Shuffle
@@ -49,6 +52,8 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '1971-08-21'
+release_year: 1971
+runtime: 193760
 ---
 Twist yourself further from the middle of the floor
 Throw a little kiss to the woman next door

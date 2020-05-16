@@ -1,8 +1,11 @@
 ---
+album: 'Goodies Old Is New: Backseat Romance'
 artists:
 - Bertha Tillman
+external_ids:
+  spotify: spotify:track:73PD3qhn7qef0yE3Udn4om
 features: []
-genres: []
+first_released_as_single: false
 key: oh-my-angel-bertha-tillman
 lyrics_url: https://genius.com/Bertha-tillman-oh-my-angel-lyrics
 name: Oh My Angel
@@ -43,6 +46,8 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1962-06-30'
+release_year: 1962
+runtime: 142890
 ---
 Oh, my angel
 Come back to me

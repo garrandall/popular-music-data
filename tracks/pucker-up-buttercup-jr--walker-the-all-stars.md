@@ -1,9 +1,12 @@
 ---
+album: Road Runner
 artists:
 - Jr. Walker
 - The All Stars
+external_ids:
+  spotify: spotify:track:3kRYpzmIe69GtasshqMU42
 features: []
-genres: []
+first_released_as_single: false
 key: pucker-up-buttercup-jr--walker-the-all-stars
 lyrics_url: https://genius.com/Jr-walker-and-the-all-stars-pucker-up-buttercup-lyrics
 name: Pucker Up Buttercup
@@ -40,6 +43,8 @@ rankings:
   rank: 35
   ranking_list: Billboard Hot 100
   start_date: '1967-04-01'
+release_year: 1966
+runtime: 196880
 ---
 Pucker up, buttercup
 (Hey!)

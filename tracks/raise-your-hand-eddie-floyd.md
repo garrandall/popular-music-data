@@ -1,8 +1,11 @@
 ---
+album: Knock On Wood
 artists:
 - Eddie Floyd
+external_ids:
+  spotify: spotify:track:46rtoQbjaiQBN35fwXDfjK
 features: []
-genres: []
+first_released_as_single: false
 key: raise-your-hand-eddie-floyd
 lyrics_url: https://genius.com/Eddie-floyd-raise-your-hand-lyrics
 name: Raise Your Hand
@@ -31,6 +34,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1967-03-11'
+release_year: 1967
+runtime: 143293
 ---
 If there's something you need
 That you never had

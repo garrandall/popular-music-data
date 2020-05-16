@@ -1,8 +1,11 @@
 ---
+album: 'Mack The Knife: Ella In Berlin'
 artists:
 - Ella Fitzgerald
+external_ids:
+  spotify: spotify:track:7549epm7P9NV1zTMfKBI8m
 features: []
-genres: []
+first_released_as_single: false
 key: mack-the-knife-ella-fitzgerald
 lyrics_url: https://www.azlyrics.com/lyrics/ellafitzgerald/macktheknife.html
 name: Mack The Knife
@@ -63,8 +66,9 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1960-08-01'
+release_year: 1960
+runtime: 313706
 ---
-
 Oh the shark has pretty teeth dear 
 And he shows them pearly white 
 Just a jack-knife has Mac-heath, dear 
@@ -89,6 +93,3 @@ Oh Mack-heath's back in town
 He's back, he's back, he's back, he's back
 He's back, he's back, he's back, he's back, he's back, he's back in town
 Mack-heath's back in town
-
-
-

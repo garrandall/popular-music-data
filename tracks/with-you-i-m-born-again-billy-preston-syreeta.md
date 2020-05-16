@@ -1,9 +1,12 @@
 ---
+album: Heart Of Soul Classics
 artists:
 - Billy Preston
 - Syreeta
+external_ids:
+  spotify: spotify:track:6vw25zdudtnenbUhvy5nXj
 features: []
-genres: []
+first_released_as_single: false
 key: with-you-i-m-born-again-billy-preston-syreeta
 lyrics_url: https://genius.com/Billy-preston-with-you-im-born-again-lyrics
 name: With You I'm Born Again
@@ -124,6 +127,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1980-06-21'
+release_year: 1979
+runtime: 219706
 ---
 Come bring me your softness
 Comfort me through all this madness

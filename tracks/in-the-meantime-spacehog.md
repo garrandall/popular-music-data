@@ -1,8 +1,11 @@
 ---
+album: Resident Alien
 artists:
 - Spacehog
+external_ids:
+  spotify: spotify:track:02lTDOxHeXTHsdwXoz6lpC
 features: []
-genres: []
+first_released_as_single: false
 key: in-the-meantime-spacehog
 lyrics_url: https://www.azlyrics.com/lyrics/spacehog/inthemeantime.html
 name: In The Meantime
@@ -87,8 +90,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1996-08-17'
+release_year: 1995
+runtime: 299506
 ---
-
 And in the end, we shall achieve in time
 The thing they call divine
 And all the stars will smile for me
@@ -142,6 +146,3 @@ Just like you
 We're just like you
 We're just like, just like
 Just like you
-
-
-

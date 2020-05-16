@@ -1,8 +1,11 @@
 ---
+album: ASTROWORLD
 artists:
 - Travis Scott
+external_ids:
+  spotify: spotify:track:6vnfObZ4Ys70SBAtti1xZ9
 features: []
-genres: []
+first_released_as_single: false
 key: coffee-bean-travis-scott
 lyrics_url: https://genius.com/Travis-scott-coffee-bean-lyrics
 name: Coffee Bean
@@ -11,6 +14,8 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '2018-08-18'
+release_year: 2018
+runtime: 209115
 ---
 (This is all)
 This is all

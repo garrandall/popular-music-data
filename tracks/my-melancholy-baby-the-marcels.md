@@ -1,8 +1,11 @@
 ---
+album: Blue Moon
 artists:
 - The Marcels
+external_ids:
+  spotify: spotify:track:6rUtOE7BMX8iQtyJNxTUDO
 features: []
-genres: []
+first_released_as_single: false
 key: my-melancholy-baby-the-marcels
 lyrics_url: https://www.musixmatch.com/lyrics/The-Marcels/My-Melancholy-Baby
 name: My Melancholy Baby
@@ -27,6 +30,8 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1962-03-03'
+release_year: 1962
+runtime: 147026
 ---
 Nah, not that thing again... sing Melancholy baby
 All right... we will!

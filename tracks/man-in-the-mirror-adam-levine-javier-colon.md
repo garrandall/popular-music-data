@@ -1,9 +1,12 @@
 ---
+album: Man In The Mirror (The Voice Performance)
 artists:
 - Adam Levine
 - Javier Colon
+external_ids:
+  spotify: spotify:track:2zSxo9FebD1H3kk7bTxNzA
 features: []
-genres: []
+first_released_as_single: true
 key: man-in-the-mirror-adam-levine-javier-colon
 lyrics_url: https://genius.com/Adam-levine-man-in-the-mirror-lyrics
 name: Man In The Mirror
@@ -12,6 +15,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '2011-07-16'
+release_year: 2011
+runtime: 202400
 ---
 I'm gonna make a change
 For once in my life

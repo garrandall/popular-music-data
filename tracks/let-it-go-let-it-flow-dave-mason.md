@@ -1,8 +1,11 @@
 ---
+album: Super Hits
 artists:
 - Dave Mason
+external_ids:
+  spotify: spotify:track:1RmfG7Zy07WJIz64H0dLYw
 features: []
-genres: []
+first_released_as_single: false
 key: let-it-go-let-it-flow-dave-mason
 lyrics_url: https://www.azlyrics.com/lyrics/davemason/letitgoletitflow.html
 name: Let It Go Let It Flow
@@ -39,8 +42,9 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '1978-03-11'
+release_year: 1973
+runtime: 194733
 ---
-
 When I'm alone
 I sometimes get to thinkin'
 How it's gonna be
@@ -86,6 +90,3 @@ Let it go
 Let it flow live a river
 Let it go
 Let it flow through you
-
-
-

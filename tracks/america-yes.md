@@ -1,8 +1,11 @@
 ---
+album: Fragile
 artists:
 - 'Yes'
+external_ids:
+  spotify: spotify:track:5jleoXgOf41HdLITE0Omu3
 features: []
-genres: []
+first_released_as_single: false
 key: america-yes
 lyrics_url: https://genius.com/Yes-america-lyrics
 name: America
@@ -35,6 +38,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1972-09-23'
+release_year: 1971
+runtime: 631573
 ---
 Let us be lovers, we'll marry our fortunes together
 I've got some real estate in my bag

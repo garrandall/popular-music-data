@@ -1,8 +1,11 @@
 ---
+album: Road Island (US Internet Release)
 artists:
 - Ambrosia
+external_ids:
+  spotify: spotify:track:5SVuelai9DFZFtnKxF7wLD
 features: []
-genres: []
+first_released_as_single: false
 key: how-can-you-love-me-ambrosia
 lyrics_url: https://www.azlyrics.com/lyrics/ambrosia/howcanyouloveme.html
 name: How Can You Love Me
@@ -23,8 +26,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1982-06-26'
+release_year: 1982
+runtime: 245440
 ---
-
 Babe, it took a long, long time to get it out this way
 Now, that the hurtin's over all I've got to say
 (is) that I know
@@ -60,6 +64,3 @@ Oh, it gets so hard to wait
 Oh, we're far away and it ain't gettin' better
 Well, I know that somethin' is surely wrong
 When I feel this way, well I can't go on and on
-
-
-

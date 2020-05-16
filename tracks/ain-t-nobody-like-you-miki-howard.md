@@ -1,8 +1,11 @@
 ---
+album: Femme Fatale
 artists:
 - Miki Howard
+external_ids:
+  spotify: spotify:track:4ceQKHtNjYa3f3zwEDYY7q
 features: []
-genres: []
+first_released_as_single: false
 key: ain-t-nobody-like-you-miki-howard
 lyrics_url: https://genius.com/Miki-howard-aint-nobody-like-you-lyrics
 name: Ain't Nobody Like You
@@ -23,6 +26,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1992-12-12'
+release_year: 1992
+runtime: 295373
 ---
 There are times when I feel good
 Now, babe

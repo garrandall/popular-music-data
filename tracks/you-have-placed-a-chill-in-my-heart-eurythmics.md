@@ -1,8 +1,11 @@
 ---
+album: Savage
 artists:
 - Eurythmics
+external_ids:
+  spotify: spotify:track:0DHLZaTioQnCk8mu6th15o
 features: []
-genres: []
+first_released_as_single: false
 key: you-have-placed-a-chill-in-my-heart-eurythmics
 lyrics_url: https://www.azlyrics.com/lyrics/eurythmics/youhaveplacedachillinmyheart.html
 name: You Have Placed A Chill In My Heart
@@ -35,8 +38,9 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1988-07-09'
+release_year: 1987
+runtime: 234560
 ---
-
 Take me to the desert
 Where there's got to be
 A whole heap of nothing
@@ -77,6 +81,3 @@ Love is hot and love is cold
 I've been bought and I've been sold
 Love is rock and love is roll
 I just want someone to hold.
-
-
-

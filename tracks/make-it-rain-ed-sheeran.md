@@ -1,8 +1,11 @@
 ---
+album: x
 artists:
 - Ed Sheeran
+external_ids:
+  spotify: spotify:track:5puU24G3lHVsUXPAWW2ZpV
 features: []
-genres: []
+first_released_as_single: false
 key: make-it-rain-ed-sheeran
 lyrics_url: https://www.azlyrics.com/lyrics/edsheeran/makeitrain.html
 name: Make It Rain
@@ -15,8 +18,9 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '2014-12-27'
+release_year: 2013
+runtime: 404480
 ---
-
 When the sins of my father
 Weigh down in my soul
 And the pain of my mother
@@ -93,6 +97,3 @@ Make it rain
 Make in rain
 Make it rain
 Oh, make in rain
-
-
-

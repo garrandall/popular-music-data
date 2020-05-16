@@ -1,8 +1,11 @@
 ---
+album: Looking Back
 artists:
 - Nat King Cole
+external_ids:
+  spotify: spotify:track:4tRnUUeXZYLuiF6YvaYuBB
 features: []
-genres: []
+first_released_as_single: false
 key: looking-back-nat-king-cole
 lyrics_url: https://genius.com/Nat-king-cole-looking-back-lyrics
 name: Looking Back
@@ -11,6 +14,8 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1958-08-11'
+release_year: 1958
+runtime: 146400
 ---
 Looking ba-a-ack over my life
 I can see where I caused you strife

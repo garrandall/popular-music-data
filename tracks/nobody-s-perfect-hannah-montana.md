@@ -1,8 +1,11 @@
 ---
+album: Hannah Montana 2 / Meet Miley Cyrus
 artists:
 - Hannah Montana
+external_ids:
+  spotify: spotify:track:1GBknQ67DCfKTPms1dw9EW
 features: []
-genres: []
+first_released_as_single: false
 key: nobody-s-perfect-hannah-montana
 lyrics_url: https://www.musixmatch.com/lyrics/Hannah-Montana/Nobody-s-Perfect
 name: Nobody's Perfect
@@ -35,6 +38,8 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '2007-08-04'
+release_year: 2007
+runtime: 200826
 ---
 Everybody makes mistakes
 Everybody has those days

@@ -1,8 +1,11 @@
 ---
+album: Very Necessary
 artists:
 - Salt-N-Pepa
+external_ids:
+  spotify: spotify:track:6CUWzTRmC1GjjSDTtiVfsI
 features: []
-genres: []
+first_released_as_single: false
 key: none-of-your-business-salt-n-pepa
 lyrics_url: https://www.azlyrics.com/lyrics/saltnpepa/noneofyourbusiness.html
 name: None Of Your Business
@@ -95,8 +98,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1994-12-17'
+release_year: 1993
+runtime: 213173
 ---
-
 What's the matter with your life?
 Why you gotta mess with mine?
 Don't keep sweatin' what I do
@@ -172,6 +176,3 @@ Cause Salt and Pepa's got it swingin' again
 Cause Salt and Pepa's got it swingin' again
 Cause Salt and Pepa's got it swingin' again
 Cause Salt and Pepa's got it swingin' again...
-
-
-

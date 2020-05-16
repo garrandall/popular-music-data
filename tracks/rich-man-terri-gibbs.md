@@ -1,8 +1,11 @@
 ---
+album: Best of Terri Gibbs
 artists:
 - Terri Gibbs
+external_ids:
+  spotify: spotify:track:0MK5cWK5ayWQQyGFNuwFz1
 features: []
-genres: []
+first_released_as_single: false
 key: rich-man-terri-gibbs
 name: Rich Man
 rankings:
@@ -26,5 +29,7 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1981-07-18'
+release_year: 1981
+runtime: 188800
 ---
 

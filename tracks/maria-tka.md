@@ -1,8 +1,11 @@
 ---
+album: Greatest Hits
 artists:
 - TKA
+external_ids:
+  spotify: spotify:track:2GlCfUheirwLr62pmb6rMt
 features: []
-genres: []
+first_released_as_single: false
 key: maria-tka
 lyrics_url: https://genius.com/Tka-maria-lyrics
 name: Maria
@@ -79,6 +82,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1992-08-01'
+release_year: 1990
+runtime: 417120
 ---
 Maria
 Maria

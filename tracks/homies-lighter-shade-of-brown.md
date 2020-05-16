@@ -1,8 +1,11 @@
 ---
+album: Hip Hop Locos
 artists:
 - Lighter Shade Of Brown
+external_ids:
+  spotify: spotify:track:3kk66lcmo2blwB1uLHMkPJ
 features: []
-genres: []
+first_released_as_single: false
 key: homies-lighter-shade-of-brown
 lyrics_url: https://genius.com/Lighter-shade-of-brown-homies-lyrics
 name: Homies
@@ -83,6 +86,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1993-04-17'
+release_year: 1992
+runtime: 211800
 ---
 Well you ask me what the definition of a homie is
 A friend till the end but some start when you're kids

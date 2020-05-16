@@ -1,8 +1,11 @@
 ---
+album: The Wild Heart
 artists:
 - Stevie Nicks
+external_ids:
+  spotify: spotify:track:1DqYqVLxUsR6NLUH1ys3AU
 features: []
-genres: []
+first_released_as_single: false
 key: if-anyone-falls-stevie-nicks
 lyrics_url: https://www.azlyrics.com/lyrics/stevienicks/ifanyonefalls.html
 name: If Anyone Falls
@@ -63,8 +66,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1983-12-10'
+release_year: 1983
+runtime: 249133
 ---
-
 I hear a voice... in the room next to mine
 Feels good... sounds good...
 Closes the door from behind
@@ -101,6 +105,3 @@ Never gonna see you... deep inside my heart
 Oh I see your shadow against
 Shadow against... shadow against the wall
 Baby I see your shadow against the wall
-
-
-

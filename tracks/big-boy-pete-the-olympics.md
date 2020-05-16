@@ -1,8 +1,11 @@
 ---
+album: Doin' the Hully Gully
 artists:
 - The Olympics
+external_ids:
+  spotify: spotify:track:2zN8CUOWRFiCUlPVdLb0Pj
 features: []
-genres: []
+first_released_as_single: false
 key: big-boy-pete-the-olympics
 lyrics_url: https://genius.com/The-olympics-big-boy-pete-lyrics
 name: Big Boy Pete
@@ -63,16 +66,9 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '1960-10-03'
+release_year: 1960
+runtime: 149123
 ---
-Big Boy Pete
-The Olympics
-Arvee Records Single #595
-Pop Chart #50 May 23, 1960
-(Don 'Sugarcane' Harris and Dewey Terry)
-(also recorded by authors Don and Dewey for Specialty Records #659 - was uncharted)
-
-Piano Intro
-
 WOO!
 
 The joint was a jumpin' on the corner (yeah-yeah)
@@ -118,7 +114,4 @@ Take a message from-a Big Boy Pete
 Umm-umm, umm umm umm (yeah-yeah)
 Umm-umm, umm umm umm (yeah-yeah)
 
-FADES-
 Umm, umm, umm
-
-~

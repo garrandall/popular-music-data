@@ -1,8 +1,11 @@
 ---
+album: Hits
 artists:
 - Dru Hill
+external_ids:
+  spotify: spotify:track:0fW2lTbzO1dcd2uahQUtwV
 features: []
-genres: []
+first_released_as_single: false
 key: we-re-not-making-love-no-more-dru-hill
 lyrics_url: https://www.azlyrics.com/lyrics/druhill/werenotmakinglovenomore.html
 name: We're Not Making Love No More
@@ -87,9 +90,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1998-04-25'
+release_year: 1997
+runtime: 292506
 ---
-
-
 Sure I've been in love a time or two
 But in the end I still chose you
 No one could ever make me feel this way
@@ -123,4 +126,3 @@ She lost the only man she loved
 He went away
 Well it's not too late for us
 To change
-

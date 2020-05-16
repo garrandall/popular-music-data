@@ -1,10 +1,13 @@
 ---
+album: Frozen
 artists:
 - Kristen Bell
 - Agatha Lee Monn
 - Katie Lopez
+external_ids:
+  spotify: spotify:track:2yi7HZrBOC4bMUSTcs4VK6
 features: []
-genres: []
+first_released_as_single: false
 key: do-you-want-to-build-a-snowman--kristen-bell-agatha-lee-monn-katie-lopez
 lyrics_url: https://www.azlyrics.com/lyrics/kristenbell/doyouwanttobuildasnowman.html
 name: Do You Want To Build A Snowman?
@@ -81,9 +84,9 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '2014-05-10'
+release_year: 2013
+runtime: 206506
 ---
-
-
 Elsa?
 
 Do you wanna build a snowman?
@@ -127,6 +130,3 @@ It's just you and me
 What are we gonna do?
 
 Do you wanna build a snowman?
-
-
-

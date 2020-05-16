@@ -1,8 +1,11 @@
 ---
+album: Face to Face
 artists:
 - Faith Band
+external_ids:
+  spotify: spotify:track:4uM5yY5f3430f8Q27ijmLd
 features: []
-genres: []
+first_released_as_single: false
 key: you-re-my-weakness-faith-band
 name: You're My Weakness
 rankings:
@@ -22,5 +25,7 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1979-07-14'
+release_year: 1979
+runtime: 270641
 ---
 

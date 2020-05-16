@@ -1,11 +1,14 @@
 ---
+album: Excuse My French
 artists:
 - French Montana
+external_ids:
+  spotify: spotify:track:0b3nY1KEqfdYoK75aylbV6
 features:
 - Rick Ross
 - Drake
 - Lil Wayne
-genres: []
+first_released_as_single: true
 key: pop-that-french-montana-rick-ross-drake-lil-wayne
 lyrics_url: https://genius.com/French-montana-pop-that-lyrics
 name: Pop That
@@ -98,6 +101,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2012-12-22'
+release_year: 2012
+runtime: 303640
 ---
 Don't stop, pop that, don't stop
 Pop that, pop that, pop that

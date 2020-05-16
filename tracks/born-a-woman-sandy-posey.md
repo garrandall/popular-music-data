@@ -1,8 +1,11 @@
 ---
+album: 34 Great American Songs
 artists:
 - Sandy Posey
+external_ids:
+  spotify: spotify:track:6uDumYvlbqBcImP65Cfzcn
 features: []
-genres: []
+first_released_as_single: false
 key: born-a-woman-sandy-posey
 lyrics_url: https://genius.com/Sandy-posey-born-a-woman-lyrics
 name: Born A Woman
@@ -63,6 +66,8 @@ rankings:
   rank: 31
   ranking_list: Billboard Hot 100
   start_date: '1966-10-22'
+release_year: 1966
+runtime: 122280
 ---
 It makes no difference
 If you're rich or poor

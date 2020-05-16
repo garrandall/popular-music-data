@@ -1,8 +1,11 @@
 ---
+album: The 2nd Law
 artists:
 - Muse
+external_ids:
+  spotify: spotify:track:0c4IEciLCDdXEhhKxj4ThA
 features: []
-genres: []
+first_released_as_single: false
 key: madness-muse
 lyrics_url: https://www.azlyrics.com/lyrics/muse/madness.html
 name: Madness
@@ -123,8 +126,9 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '2013-04-20'
+release_year: 2012
+runtime: 281040
 ---
-
 (Ma-ma-ma-ma-ma-ma-ma...)
 
 I, I can't get these memories out of my mind
@@ -170,6 +174,3 @@ And baby, you're too headstrong
 Our love is
 (Ma-ma-ma-ma-ma-ma-ma...)
 Madness
-
-
-

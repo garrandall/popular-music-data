@@ -1,8 +1,11 @@
 ---
+album: The Ultimate Tribute To Garth Brooks
 artists:
 - Garth Brooks
+external_ids:
+  spotify: spotify:track:47rP8iAz6WJutMWslCnbHZ
 features: []
-genres: []
+first_released_as_single: false
 key: wrapped-up-in-you-garth-brooks
 lyrics_url: https://www.azlyrics.com/lyrics/garthbrooks/wrappedupinyou.html
 name: Wrapped Up In You
@@ -87,8 +90,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2002-03-09'
+release_year: 2001
+runtime: 261200
 ---
-
 How do I love you. well let me see
 I love you like a lyric love a melody
 Baby, completely wrapped up in you
@@ -113,6 +117,3 @@ Baby, completely wrapped up in you
 How do I love you, well, don't you know
 I love you about as deep as any love can grow
 Baby, completely wrapped up in you
-
-
-

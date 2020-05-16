@@ -1,8 +1,11 @@
 ---
+album: So
 artists:
 - Peter Gabriel
+external_ids:
+  spotify: spotify:track:4qN7nSAVTjPfOOz0wkRQpM
 features: []
-genres: []
+first_released_as_single: false
 key: in-your-eyes--theme-from--say-anything---peter-gabriel
 lyrics_url: https://genius.com/Peter-gabriel-in-your-eyes-lyrics
 name: In Your Eyes (Theme From "Say Anything")
@@ -119,6 +122,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1989-08-19'
+release_year: 1986
+runtime: 330373
 ---
 Love, I get so lost sometimes
 Days pass and this emptiness fills my heart

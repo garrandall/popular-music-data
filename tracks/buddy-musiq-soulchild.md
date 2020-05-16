@@ -1,8 +1,11 @@
 ---
+album: Buddy (110844)
 artists:
 - Musiq Soulchild
+external_ids:
+  spotify: spotify:track:15mokSo2NjyiGigyQS2Qyw
 features: []
-genres: []
+first_released_as_single: true
 key: buddy-musiq-soulchild
 lyrics_url: https://www.azlyrics.com/lyrics/musiqsoulchild/buddy.html
 name: Buddy
@@ -79,9 +82,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2007-06-09'
+release_year: 2007
+runtime: 223813
 ---
-
-
 Pardon darling ..if I alarmed you
 I don't mean to bother you I just wanna
 Get you to pause and slow your walk so
@@ -129,4 +132,3 @@ Together there's no limit to what we can do
 And once we in it girl it's all about me and you
 So baby what you say don't pass this by
 'cause if you decide...
-

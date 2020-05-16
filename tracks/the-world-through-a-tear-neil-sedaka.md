@@ -1,8 +1,11 @@
 ---
+album: Neil Sedaka Sings The Hits
 artists:
 - Neil Sedaka
+external_ids:
+  spotify: spotify:track:3IeUG8Sgyjb5ujKYk7lW1g
 features: []
-genres: []
+first_released_as_single: false
 key: the-world-through-a-tear-neil-sedaka
 lyrics_url: https://www.azlyrics.com/lyrics/neilsedaka/theworldthroughatear.html
 name: The World Through A Tear
@@ -43,8 +46,9 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1965-10-23'
+release_year: 1965
+runtime: 204573
 ---
-
 Grass is green
 Like I've never seen
 Sky above was never so blue
@@ -75,6 +79,3 @@ The world through a tear
 Too slow to dry
 The world through a tear
 The tear I cry
-
-
-

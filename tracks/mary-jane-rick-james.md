@@ -1,8 +1,11 @@
 ---
+album: Come Get It!
 artists:
 - Rick James
+external_ids:
+  spotify: spotify:track:5hWLHFSmomXmeTXEE478My
 features: []
-genres: []
+first_released_as_single: false
 key: mary-jane-rick-james
 lyrics_url: https://www.azlyrics.com/lyrics/rickjames/maryjane.html
 name: Mary Jane
@@ -55,8 +58,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1979-01-20'
+release_year: 1978
+runtime: 297346
 ---
-
 Come here, baby. Mary, I love you. Do it girl.
 
 Mary Jane, Mary Jane
@@ -109,6 +113,3 @@ Sing! La-du-da-da-du-da-dahh.
 Sing it for me baby.
 Come Mary, Mary Jane.
 Sing it for me baby.
-
-
-

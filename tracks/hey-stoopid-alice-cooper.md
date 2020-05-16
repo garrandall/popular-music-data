@@ -1,8 +1,11 @@
 ---
+album: Hey Stoopid
 artists:
 - Alice Cooper
+external_ids:
+  spotify: spotify:track:0EKcQpe6GYyQukPknqZniA
 features: []
-genres: []
+first_released_as_single: false
 key: hey-stoopid-alice-cooper
 lyrics_url: https://www.azlyrics.com/lyrics/alicecooper/heystoopid.html
 name: Hey Stoopid
@@ -27,10 +30,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1991-08-24'
+release_year: 1989
+runtime: 272800
 ---
-
-
-
 Hey bro, take it slow
 You ain't livin' in a video
 You're flying low with a high velocity
@@ -70,4 +72,3 @@ Your story ain't so shocking
 You know, I know
 Blow some steam
 C'mon and scream
-

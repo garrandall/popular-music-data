@@ -1,8 +1,11 @@
 ---
+album: Only Human
 artists:
 - Calum Scott
+external_ids:
+  spotify: spotify:track:7tOAtB2F50KXEkw86frba6
 features: []
-genres: []
+first_released_as_single: true
 key: dancing-on-my-own-calum-scott
 lyrics_url: https://genius.com/Calum-scott-dancing-on-my-own-lyrics
 name: Dancing On My Own
@@ -15,6 +18,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2017-03-11'
+release_year: 2016
+runtime: 253482
 ---
 Somebody said you got a new friend
 But does she love you better than I can?

@@ -1,8 +1,11 @@
 ---
+album: All-4-One
 artists:
 - All-4-One
+external_ids:
+  spotify: spotify:track:4tlryZypTlbIaa7YrgxCSN
 features: []
-genres: []
+first_released_as_single: false
 key: -she-s-got--skillz-all-4-one
 lyrics_url: https://genius.com/All-4-one-shes-got-skillz-lyrics
 name: (She's Got) Skillz
@@ -87,6 +90,8 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '1995-05-20'
+release_year: 1994
+runtime: 245066
 ---
 Little rump shaker she can really shake and bake
 She's got skillz

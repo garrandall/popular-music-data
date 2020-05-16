@@ -1,8 +1,11 @@
 ---
+album: True Confessions
 artists:
 - Bananarama
+external_ids:
+  spotify: spotify:track:43K5PyhJ1LTukDaaNDxkdZ
 features: []
-genres: []
+first_released_as_single: false
 key: more-than-physical-bananarama
 lyrics_url: https://www.azlyrics.com/lyrics/bananarama/morethanphysical.html
 name: More Than Physical
@@ -27,8 +30,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1986-11-15'
+release_year: 1986
+runtime: 303569
 ---
-
 Hey boy
 Its a matter of fact
 I got what you want so don't go back
@@ -90,6 +94,3 @@ This is more than physical
 I can't disguise it
 I'm so excited
 Oh oh oh yeah
-
-
-

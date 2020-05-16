@@ -1,8 +1,11 @@
 ---
+album: Lives in the Balance
 artists:
 - Jackson Browne
+external_ids:
+  spotify: spotify:track:2r0oEagiOBdEAhVzc3ltly
 features: []
-genres: []
+first_released_as_single: false
 key: for-america-jackson-browne
 lyrics_url: https://www.azlyrics.com/lyrics/jacksonbrowne/foramerica.html
 name: For America
@@ -55,8 +58,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1986-05-17'
+release_year: 1986
+runtime: 307933
 ---
-
 As if I really didn't understand
 That I was just another part of their plan
 I went off looking for the promise
@@ -106,6 +110,3 @@ I can't let go till she comes around
 Until the land of the free
 Is awake and can see
 And until her conscience has been found
-
-
-

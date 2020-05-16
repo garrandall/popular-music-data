@@ -1,8 +1,11 @@
 ---
+album: Strange Company
 artists:
 - Wendy Waldman
+external_ids:
+  spotify: spotify:track:39ZUKDpKeQUZp2MZVWTBKZ
 features: []
-genres: []
+first_released_as_single: false
 key: long-hot-summer-nights-wendy-waldman
 lyrics_url: https://genius.com/Wendy-waldman-long-hot-summer-nights-lyrics
 name: Long Hot Summer Nights
@@ -23,6 +26,8 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1978-09-09'
+release_year: 1978
+runtime: 253000
 ---
 My best friend came from the other side of town
 We followed our own rule and we loved to run around

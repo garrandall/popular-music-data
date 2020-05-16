@@ -1,8 +1,11 @@
 ---
+album: The Colour And The Shape
 artists:
 - Foo Fighters
+external_ids:
+  spotify: spotify:track:7pS2OVdIWviLpz5GOtJLzz
 features: []
-genres: []
+first_released_as_single: false
 key: walk-foo-fighters
 lyrics_url: https://www.azlyrics.com/lyrics/foofighters/walk.html
 name: Walk
@@ -59,8 +62,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2011-10-15'
+release_year: 1997
+runtime: 303813
 ---
-
 A million miles away
 Your signal in the distance
 To whom it may concern
@@ -126,6 +130,3 @@ Learning to walk again
 I believe I've waited long enough
 Learning to talk again
 Can't you see I've waited long enough?
-
-
-

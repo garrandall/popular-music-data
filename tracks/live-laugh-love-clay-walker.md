@@ -1,8 +1,11 @@
 ---
+album: Live, Laugh, Love
 artists:
 - Clay Walker
+external_ids:
+  spotify: spotify:track:3Th5HBAlRZF0oN31ubxHA9
 features: []
-genres: []
+first_released_as_single: false
 key: live-laugh-love-clay-walker
 lyrics_url: https://www.azlyrics.com/lyrics/claywalker/livelaughlove.html
 name: Live Laugh Love
@@ -51,8 +54,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2000-02-12'
+release_year: 1999
+runtime: 246266
 ---
-
 I'm gonna live, laugh, love just for today
 Gonna take all the trouble that tomorrow might bring and put it away
 Gonna drink every drop of happiness till they cover me up
@@ -90,6 +94,3 @@ Gonna take all the trouble that tomorrow might bring and put it away
 I'm gonna drink every drop of happiness till they cover me up
 I'm gonna live, gonna laugh, gonna love
 I'm gonna live, gonna laugh, gonna love
-
-
-

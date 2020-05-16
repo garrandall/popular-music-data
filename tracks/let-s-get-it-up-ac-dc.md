@@ -1,8 +1,11 @@
 ---
+album: For Those About to Rock (We Salute You)
 artists:
 - AC/DC
+external_ids:
+  spotify: spotify:track:1EJIEPzahlUiev5IQ1HnuL
 features: []
-genres: []
+first_released_as_single: false
 key: let-s-get-it-up-ac-dc
 lyrics_url: https://genius.com/Ac-dc-lets-get-it-up-lyrics
 name: Let's Get It Up
@@ -43,6 +46,8 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '1982-03-13'
+release_year: 1981
+runtime: 234026
 ---
 Loose lips sink ships
 So, come aboard for a pleasure trip

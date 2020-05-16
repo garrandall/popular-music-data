@@ -1,8 +1,11 @@
 ---
+album: The Very Best Of After 7
 artists:
 - After 7
+external_ids:
+  spotify: spotify:track:6KYOzBfCt8uGxQrVG8UhcJ
 features: []
-genres: []
+first_released_as_single: false
 key: nights-like-this-after-7
 lyrics_url: https://genius.com/After-7-nights-like-this-lyrics
 name: Nights Like This
@@ -67,6 +70,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1991-08-31'
+release_year: 1991
+runtime: 242000
 ---
 Shoo bee doop do do doo oo...
 Shoo bee doop do do doo

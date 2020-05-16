@@ -1,8 +1,11 @@
 ---
+album: Time Exposure
 artists:
 - Little River Band
+external_ids:
+  spotify: spotify:track:5p0Et9J14mQUaqZsNiFlsY
 features: []
-genres: []
+first_released_as_single: false
 key: take-it-easy-on-me-little-river-band
 lyrics_url: https://www.azlyrics.com/lyrics/littleriverband/takeiteasyonme.html
 name: Take It Easy On Me
@@ -83,8 +86,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1982-04-10'
+release_year: 1981
+runtime: 227080
 ---
-
 It used to be so easy to be your lover
 We wandered through the days like they had no end
 But now that you are gone I'm under cover
@@ -132,6 +136,3 @@ Take it easy on me
 
 It's still up to you but whatever you do
 Take it easy on me
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Give It Away
 artists:
 - The Chi-lites
+external_ids:
+  spotify: spotify:track:5MDed9QBgtIhK7BBLj2ObT
 features: []
-genres: []
+first_released_as_single: false
 key: let-me-be-the-man-my-daddy-was-the-chi-lites
 lyrics_url: https://www.azlyrics.com/lyrics/chilites/letmebethemanmydaddywas.html
 name: Let Me Be The Man My Daddy Was
@@ -19,8 +22,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1969-08-16'
+release_year: 1969
+runtime: 210960
 ---
-
 He's worth more
 Than every star in the sky
 With that look of forgiveness
@@ -79,6 +83,3 @@ The man my daddy was
 He was a good man
 He was a poor man
 Oh, let me be
-
-
-

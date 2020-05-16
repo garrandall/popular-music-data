@@ -1,8 +1,11 @@
 ---
+album: Doo-Wops & Hooligans
 artists:
 - Bruno Mars
+external_ids:
+  spotify: spotify:track:2tJulUYLDKOg9XrtVkMgcJ
 features: []
-genres: []
+first_released_as_single: false
 key: grenade-bruno-mars
 lyrics_url: https://www.musixmatch.com/lyrics/Bruno-Mars/Grenade
 name: Grenade
@@ -151,6 +154,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2011-06-18'
+release_year: 2010
+runtime: 223253
 ---
 Easy come, easy go, that's just how you live oh
 Take, take, take it all, but you never give

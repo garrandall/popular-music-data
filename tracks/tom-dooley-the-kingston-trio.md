@@ -1,8 +1,11 @@
 ---
+album: The Kingston Trio
 artists:
 - The Kingston Trio
+external_ids:
+  spotify: spotify:track:2qLxtO0iaFGI9x19vU3bDI
 features: []
-genres: []
+first_released_as_single: false
 key: tom-dooley-the-kingston-trio
 lyrics_url: https://genius.com/Kingston-trio-tom-dooley-lyrics
 name: Tom Dooley
@@ -91,6 +94,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1959-02-16'
+release_year: 1958
+runtime: 183973
 ---
 Throughout history, there have been many songs written about the eternal triangle. This next one tells the story of Mister Grayson, a beautiful woman and a condemned man named Tom Dooley. When the sun rises tomorrow, Tom Dooley must hang
 

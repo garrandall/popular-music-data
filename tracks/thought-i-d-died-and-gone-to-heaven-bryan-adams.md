@@ -1,8 +1,11 @@
 ---
+album: Waking Up The Neighbours
 artists:
 - Bryan Adams
+external_ids:
+  spotify: spotify:track:68Qv4S2uJ0nLvdtWPrlOVt
 features: []
-genres: []
+first_released_as_single: false
 key: thought-i-d-died-and-gone-to-heaven-bryan-adams
 lyrics_url: https://genius.com/Bryan-adams-thought-id-died-and-gone-to-heaven-lyrics
 name: Thought I'd Died And Gone To Heaven
@@ -87,6 +90,8 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '1992-07-25'
+release_year: 1991
+runtime: 348400
 ---
 Love is forever - As I lie awake
 Beside you

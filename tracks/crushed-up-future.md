@@ -1,8 +1,11 @@
 ---
+album: 'Future Hndrxx Presents: The WIZRD'
 artists:
 - Future
+external_ids:
+  spotify: spotify:track:7wcyO1rrH3Ru4t659IjG41
 features: []
-genres: []
+first_released_as_single: false
 key: crushed-up-future
 lyrics_url: https://genius.com/Future-crushed-up-lyrics
 name: Crushed Up
@@ -27,6 +30,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2019-02-16'
+release_year: 2019
+runtime: 149948
 ---
 Plain jane, Jackie Chan, Richard Mille
 You gon' be the one bust it down, I can see it

@@ -1,9 +1,12 @@
 ---
+album: Love's Crazy
 artists:
 - Slim
+external_ids:
+  spotify: spotify:track:6nqscDOWhTkD1tfpTNrh5A
 features:
 - Yung Joc
-genres: []
+first_released_as_single: true
 key: so-fly-slim-yung-joc
 lyrics_url: https://genius.com/Slim-of-112-so-fly-lyrics
 name: So Fly
@@ -68,6 +71,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2008-12-20'
+release_year: 2008
+runtime: 216360
 ---
 (Slim)
 Hey! I'm on my daily baby!

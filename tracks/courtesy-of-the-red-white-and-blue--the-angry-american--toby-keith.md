@@ -1,8 +1,11 @@
 ---
+album: Unleashed
 artists:
 - Toby Keith
+external_ids:
+  spotify: spotify:track:0M7mWKqwTIaVjYyxfZmtTa
 features: []
-genres: []
+first_released_as_single: false
 key: courtesy-of-the-red-white-and-blue--the-angry-american--toby-keith
 lyrics_url: https://www.azlyrics.com/lyrics/tobykeith/courtesyoftheredwhiteandbluetheangryamerican.html
 name: Courtesy Of The Red White And Blue (The Angry American)
@@ -87,8 +90,9 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '2002-10-19'
+release_year: 2002
+runtime: 195533
 ---
-
 American Girls and American Guys
 We'll always stand up and salute
 We'll always recognize
@@ -146,6 +150,3 @@ And it'll feel like the whole wide world is raining down on you
 Oh, brought to you Courtesy of the Red White and Blue
 Oh, oh, of the Red, White and Blue
 Oh, oh, of my Red, White and Blue
-
-
-

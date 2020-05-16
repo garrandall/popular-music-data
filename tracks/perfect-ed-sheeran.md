@@ -1,8 +1,11 @@
 ---
+album: "\xF7"
 artists:
 - Ed Sheeran
+external_ids:
+  spotify: spotify:track:0tgVpDi06FyKpA1z0VMD4v
 features: []
-genres: []
+first_released_as_single: false
 key: perfect-ed-sheeran
 lyrics_url: https://genius.com/Ed-sheeran-perfect-lyrics
 name: Perfect
@@ -235,6 +238,8 @@ rankings:
   rank: 21
   ranking_list: Billboard Hot 100
   start_date: '2018-10-06'
+release_year: 2017
+runtime: 263400
 ---
 I found a love for me
 Oh darling, just dive right in and follow my lead

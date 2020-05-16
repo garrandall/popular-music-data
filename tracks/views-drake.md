@@ -1,8 +1,11 @@
 ---
+album: Views
 artists:
 - Drake
+external_ids:
+  spotify: spotify:track:7MjSipTto9QljYzZnloXOn
 features: []
-genres: []
+first_released_as_single: false
 key: views-drake
 lyrics_url: https://genius.com/Drake-views-lyrics
 name: Views
@@ -11,6 +14,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2016-05-21'
+release_year: 2016
+runtime: 311960
 ---
 Question is, will I ever leave you?
 The answer is no, no, no-no-no, no, no

@@ -1,8 +1,11 @@
 ---
+album: The Rolling Stones In Mono (Remastered 2016)
 artists:
 - The Rolling Stones
+external_ids:
+  spotify: spotify:track:32JR98omvHvfKhvQKXHdM3
 features: []
-genres: []
+first_released_as_single: false
 key: dandelion-the-rolling-stones
 lyrics_url: https://www.azlyrics.com/lyrics/rollingstones/dandelion.html
 name: Dandelion
@@ -39,8 +42,9 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '1967-10-28'
+release_year: 1966
+runtime: 231800
 ---
-
 Prince or pauper, beggar man or thing
 Play the game with every flow'r you bring
 Dandelion don't tell no lies
@@ -73,6 +77,3 @@ Dandelion don't tell no lies
 Dandelion will make you wise
 Tell me if she laughs or cries
 Blow away dandelion, blow away dandelion
-
-
-

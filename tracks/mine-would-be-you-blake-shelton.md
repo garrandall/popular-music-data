@@ -1,8 +1,11 @@
 ---
+album: Based on a True Story...
 artists:
 - Blake Shelton
+external_ids:
+  spotify: spotify:track:1zvQt99d5oTkEQLmSoO1yu
 features: []
-genres: []
+first_released_as_single: false
 key: mine-would-be-you-blake-shelton
 lyrics_url: https://genius.com/Blake-shelton-mine-would-be-you-lyrics
 name: Mine Would Be You
@@ -87,6 +90,8 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '2013-12-28'
+release_year: 2013
+runtime: 239506
 ---
 What's your all-time high, your good as it gets?
 Your hands down best ever make-up sex?

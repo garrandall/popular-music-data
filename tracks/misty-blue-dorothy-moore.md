@@ -1,8 +1,11 @@
 ---
+album: Misty Blue
 artists:
 - Dorothy Moore
+external_ids:
+  spotify: spotify:track:20JcxdRw8gvqTY1EEpYxHb
 features: []
-genres: []
+first_released_as_single: false
 key: misty-blue-dorothy-moore
 lyrics_url: https://genius.com/Dorothy-moore-misty-blue-lyrics
 name: Misty Blue
@@ -95,6 +98,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1976-08-14'
+release_year: 1976
+runtime: 222400
 ---
 Oh, it's been such a long, long time
 Looks like I'd get you off my mind

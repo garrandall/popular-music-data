@@ -1,8 +1,11 @@
 ---
+album: Golden Road
 artists:
 - Keith Urban
+external_ids:
+  spotify: spotify:track:0NSMyTBtAhxibdKbPU1Sv9
 features: []
-genres: []
+first_released_as_single: false
 key: raining-on-sunday-keith-urban
 lyrics_url: https://www.azlyrics.com/lyrics/keithurban/rainingonsunday.html
 name: Raining On Sunday
@@ -83,8 +86,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2003-07-19'
+release_year: 2002
+runtime: 285600
 ---
-
 It ticks just like a Timex
 It never lets up on you 
 Who said life was easy
@@ -129,6 +133,3 @@ When it's raining on Sunday
 When it's raining on Sunday
 When it's raining on Sunday
 Let it rain
-
-
-

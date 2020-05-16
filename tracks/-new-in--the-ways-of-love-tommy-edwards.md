@@ -1,8 +1,11 @@
 ---
+album: "It\u2019s All In The Game: The Best Of Tommy Edwards"
 artists:
 - Tommy Edwards
+external_ids:
+  spotify: spotify:track:4pNXt2MMFvTSBOkOPWjD8r
 features: []
-genres: []
+first_released_as_single: false
 key: -new-in--the-ways-of-love-tommy-edwards
 name: (New In) The Ways Of Love
 rankings:
@@ -42,5 +45,7 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '1960-01-11'
+release_year: 1959
+runtime: 159640
 ---
 

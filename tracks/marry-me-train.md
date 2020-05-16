@@ -1,8 +1,11 @@
 ---
+album: Save Me, San Francisco
 artists:
 - Train
+external_ids:
+  spotify: spotify:track:2MWOqewf5j0qf2b6S5J6cS
 features: []
-genres: []
+first_released_as_single: false
 key: marry-me-train
 lyrics_url: https://genius.com/Train-marry-me-lyrics
 name: Marry Me
@@ -87,6 +90,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2011-04-16'
+release_year: 2010
+runtime: 205453
 ---
 Forever can never be long enough for me
 Feel like I've had long enough with you

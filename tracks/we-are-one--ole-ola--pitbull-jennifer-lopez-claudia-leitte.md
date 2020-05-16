@@ -1,10 +1,13 @@
 ---
+album: Globalization
 artists:
 - Pitbull
+external_ids:
+  spotify: spotify:track:0S2qXOyCf7MJlpxvsmZJVa
 features:
 - Jennifer Lopez
 - Claudia Leitte
-genres: []
+first_released_as_single: true
 key: we-are-one--ole-ola--pitbull-jennifer-lopez-claudia-leitte
 lyrics_url: https://www.azlyrics.com/lyrics/pitbull/weareoneoleola.html
 name: We Are One (Ole Ola)
@@ -33,14 +36,15 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2014-07-19'
+release_year: 2014
+runtime: 236813
 ---
-
 Put your flags up in the sky (put them in the sky) (jogue lÃ¡ no alto)
 And wave them side to side (side to side) (lado a lado)
 Show the world where you're from (show them where you're from) (we are one, baby)
 Show the world we are one (one love, life)
 
-Ole, Ole, Ole, Ola 
+Ole, Ole, Ole, Ola
 
 When the going gets tough
 The tough get it going
@@ -61,7 +65,7 @@ And wave them side to side (side to side) (lado a lado)
 Show the world where you're from (show them where you're from) (we are one, baby)
 Show the world we are one (one love, life)
 
-Ole, Ole, Ole, Ola 
+Ole, Ole, Ole, Ola
 
 Jenny, dale!
 
@@ -91,11 +95,11 @@ And wave them side to side (side to side) (lado a lado)
 Show the world where you're from (show them where you're from) (we are one, baby)
 Show the world we are one (one love, life)
 
-Ole, Ole, Ole, Ola 
+Ole, Ole, Ole, Ola
 
 Claudia Leitte, obrigado
 
-Ã meu, Ã© seu, hoje Ã© tudo nosso
+Ã meu, é seu, hoje é tudo nosso
 Quando eu chamo o mundo inteiro pra jogar
 Ã pra mostrar que eu posso
 Torcer, chorar, sorrir, gritar
@@ -106,7 +110,4 @@ And wave them side to side (side to side) (lado a lado)
 Show the world where you're from (show them where you're from) (we are one, baby)
 Show the world we are one (one love, life)
 
-Ole, Ole, Ole, Ola 
-
-
-
+Ole, Ole, Ole, Ola

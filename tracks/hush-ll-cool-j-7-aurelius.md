@@ -1,9 +1,12 @@
 ---
+album: THE DEFinition
 artists:
 - LL Cool J
+external_ids:
+  spotify: spotify:track:0CCDW5SLBppFbtfe2bKwfX
 features:
 - 7 Aurelius
-genres: []
+first_released_as_single: false
 key: hush-ll-cool-j-7-aurelius
 lyrics_url: https://www.azlyrics.com/lyrics/llcoolj/hush.html
 name: Hush
@@ -80,9 +83,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2005-01-22'
+release_year: 2004
+runtime: 214560
 ---
-
-
 Hush baby, wanna let ya know
 This is how its gonna go
 
@@ -165,6 +168,3 @@ Hush baby hush
 
 
 Hush baby wanna let ya know
-
-
-

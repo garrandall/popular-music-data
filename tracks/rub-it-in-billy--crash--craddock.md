@@ -1,8 +1,11 @@
 ---
+album: The Best Of Billy "Crash" Craddock
 artists:
 - Billy "Crash" Craddock
+external_ids:
+  spotify: spotify:track:6q014fQ3SqLy180KPuCTG1
 features: []
-genres: []
+first_released_as_single: false
 key: rub-it-in-billy--crash--craddock
 lyrics_url: https://genius.com/Billy-crash-craddock-rub-it-in-lyrics
 name: Rub It In
@@ -67,6 +70,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1974-10-05'
+release_year: 1974
+runtime: 146800
 ---
 Lie beside me on the sand
 Put some lotion in your hand

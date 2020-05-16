@@ -1,8 +1,11 @@
 ---
+album: Headstrong
 artists:
 - Ashley Tisdale
+external_ids:
+  spotify: spotify:track:0jTTjg6q4jsd2RhuHwTvLj
 features: []
-genres: []
+first_released_as_single: false
 key: he-said-she-said-ashley-tisdale
 lyrics_url: https://www.azlyrics.com/lyrics/ashleytisdale/hesaidshesaid.html
 name: He Said She Said
@@ -39,8 +42,9 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '2008-02-09'
+release_year: 2007
+runtime: 188000
 ---
-
 Boy walk in the spot, he's so fresh and
 He got what he needs to impressin'
 Just look at the way that he dressin'
@@ -139,6 +143,3 @@ You're gonna like it
 You're gonna want it
 You're gonna like it
 We don't need no more that he said she said.
-
-
-

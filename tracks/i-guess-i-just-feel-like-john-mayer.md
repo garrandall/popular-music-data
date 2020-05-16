@@ -1,8 +1,11 @@
 ---
+album: I Guess I Just Feel Like
 artists:
 - John Mayer
+external_ids:
+  spotify: spotify:track:1HNywa8Bk0TmzRwQrzhtPo
 features: []
-genres: []
+first_released_as_single: true
 key: i-guess-i-just-feel-like-john-mayer
 lyrics_url: https://www.azlyrics.com/lyrics/johnmayer/iguessijustfeellike.html
 name: I Guess I Just Feel Like
@@ -11,8 +14,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2019-03-09'
+release_year: 2019
+runtime: 285480
 ---
-
 I guess I just feel like
 I guess I just feel like
 Nobody's honest
@@ -46,6 +50,3 @@ Wherever I'll be
 And if I go blind I'd still find my way
 I guess I just felt like
 Giving up today
-
-
-

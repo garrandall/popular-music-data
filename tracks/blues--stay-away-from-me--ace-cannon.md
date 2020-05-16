@@ -1,8 +1,11 @@
 ---
+album: The Cannon Explosion
 artists:
 - Ace Cannon
+external_ids:
+  spotify: spotify:track:1aT6gqt8ehKR6v1H5ueiZj
 features: []
-genres: []
+first_released_as_single: false
 key: blues--stay-away-from-me--ace-cannon
 name: Blues (Stay Away From Me)
 rankings:
@@ -34,5 +37,7 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1962-05-26'
+release_year: 1962
+runtime: 114600
 ---
 

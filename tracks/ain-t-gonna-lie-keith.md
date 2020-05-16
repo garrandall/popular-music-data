@@ -1,8 +1,11 @@
 ---
+album: 98.6 / Ain't Gonna Lie
 artists:
 - Keith
+external_ids:
+  spotify: spotify:track:2HcT0IGf27ov1w9ncWtij6
 features: []
-genres: []
+first_released_as_single: false
 key: ain-t-gonna-lie-keith
 lyrics_url: https://genius.com/Keith-aint-gonna-lie-lyrics
 name: Ain't Gonna Lie
@@ -47,6 +50,8 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '1966-11-19'
+release_year: 1966
+runtime: 181306
 ---
 Ain't gonna lie
 That's one thing

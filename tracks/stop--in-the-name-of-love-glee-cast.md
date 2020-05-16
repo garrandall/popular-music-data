@@ -1,8 +1,11 @@
 ---
+album: Karaoke Fun Time
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:0RSdm5JvSGsdyQPHWNMG9X
 features: []
-genres: []
+first_released_as_single: false
 key: stop--in-the-name-of-love-glee-cast
 lyrics_url: https://www.azlyrics.com/lyrics/gleecast/stopinthenameoflovefreeyourmind.html
 name: Stop! In The Name Of Love
@@ -11,8 +14,9 @@ rankings:
   rank: 38
   ranking_list: Billboard Hot 100
   start_date: '2010-11-27'
+release_year: 2010
+runtime: 210024
 ---
-
 Here we go!
 Stop! In the name of love
 Before you break my heart (Free your mind!)
@@ -79,6 +83,3 @@ Before you break my heart
 
 Baby, think it over
 Free Your Mind and the rest will stop!
-
-
-

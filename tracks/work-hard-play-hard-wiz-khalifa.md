@@ -1,8 +1,11 @@
 ---
+album: O.N.I.F.C.
 artists:
 - Wiz Khalifa
+external_ids:
+  spotify: spotify:track:62csqLJbdvAKb38rYijV1R
 features: []
-genres: []
+first_released_as_single: true
 key: work-hard-play-hard-wiz-khalifa
 lyrics_url: https://genius.com/Wiz-khalifa-work-hard-play-hard-lyrics
 name: Work Hard Play Hard
@@ -87,6 +90,8 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '2012-09-22'
+release_year: 2012
+runtime: 220714
 ---
 Work hard, play hard
 Work hard, play hard

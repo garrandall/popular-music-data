@@ -68,7 +68,7 @@ But nothing's the matter, it's love
 
 We helped each other through sad love affairs
 Turning the tears into laughter
-Ev'ryone said that our friendship was rare
+Everyone said that our friendship was rare
 Not even we saw all the love that was there
 
 But last night was wine

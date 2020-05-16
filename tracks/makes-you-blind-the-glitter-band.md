@@ -1,8 +1,11 @@
 ---
+album: Listen to the Band (Bonus Track Version)
 artists:
 - The Glitter Band
+external_ids:
+  spotify: spotify:track:4vlhdk0F3cdfTjkC8otnu1
 features: []
-genres: []
+first_released_as_single: false
 key: makes-you-blind-the-glitter-band
 name: Makes You Blind
 rankings:
@@ -30,5 +33,7 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1976-12-11'
+release_year: 1975
+runtime: 193146
 ---
 

@@ -1,8 +1,11 @@
 ---
+album: Oh No
 artists:
 - OK Go
+external_ids:
+  spotify: spotify:track:1pHP4JeQV9wDx87D6qH9hD
 features: []
-genres: []
+first_released_as_single: false
 key: here-it-goes-again-ok-go
 lyrics_url: https://genius.com/Ok-go-here-it-goes-again-lyrics
 name: Here It Goes Again
@@ -87,6 +90,8 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '2007-01-27'
+release_year: 2005
+runtime: 179813
 ---
 It could be ten, but then again I can't remember
 Half an hour since a quarter to four

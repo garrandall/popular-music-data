@@ -1,8 +1,11 @@
 ---
+album: Night And Day
 artists:
 - Joe Jackson
+external_ids:
+  spotify: spotify:track:36lvQP8MgB6ZDJ0zgQ64Cn
 features: []
-genres: []
+first_released_as_single: false
 key: breaking-us-in-two-joe-jackson
 lyrics_url: https://www.azlyrics.com/lyrics/joejackson/breakingusintwo.html
 name: Breaking Us In Two
@@ -71,8 +74,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1983-04-30'
+release_year: 1982
+runtime: 292896
 ---
-
 Don't you feel like trying something new
 Don't you feel like breaking out
 Or breaking us in two
@@ -99,6 +103,3 @@ Into each other's eyes
 Maybe we could last an hour
 Maybe then we'd see right through
 Always something breaking us in two
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Drive
 artists:
 - Alan Jackson
+external_ids:
+  spotify: spotify:track:38hbQ1wHHBNXDpPGJRMY28
 features: []
-genres: []
+first_released_as_single: false
 key: drive--for-daddy-gene--alan-jackson
 lyrics_url: https://www.azlyrics.com/lyrics/alanjackson/drivefordaddygene.html
 name: Drive (For Daddy Gene)
@@ -87,8 +90,9 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '2002-07-27'
+release_year: 1991
+runtime: 241800
 ---
-
 It was painted red the stripe was white
 It was 18 feet from the bow to stern light
 Secondhand from a dealer in Atlanta
@@ -159,6 +163,3 @@ Oh he let me drive
 It's just an old plywood boat
 With a 75 johnson
 And electric choke
-
-
-

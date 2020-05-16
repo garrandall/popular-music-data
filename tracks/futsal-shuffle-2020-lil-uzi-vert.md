@@ -1,8 +1,11 @@
 ---
+album: Eternal Atake
 artists:
 - Lil Uzi Vert
+external_ids:
+  spotify: spotify:track:2Ec33AVlkTTq8BHFgBTdQs
 features: []
-genres: []
+first_released_as_single: true
 key: futsal-shuffle-2020-lil-uzi-vert
 lyrics_url: https://www.musixmatch.com/lyrics/Lil-Uzi-Vert/Futsal-Shuffle-2020
 name: Futsal Shuffle 2020
@@ -47,6 +50,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2020-03-21'
+release_year: 2019
+runtime: 198912
 ---
 Yo, sing this shit, are y'all fuckin' dumb?
 

@@ -1,8 +1,11 @@
 ---
+album: Confessions
 artists:
 - Usher
+external_ids:
+  spotify: spotify:track:5zdUc1JRCImBYcDWgvFNpE
 features: []
-genres: []
+first_released_as_single: false
 key: caught-up-usher
 lyrics_url: https://genius.com/Usher-caught-up-lyrics
 name: Caught Up
@@ -115,6 +118,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '2005-06-11'
+release_year: 2004
+runtime: 224640
 ---
 I'm the kind of brother
 Who been doing it my way, getting my way for years

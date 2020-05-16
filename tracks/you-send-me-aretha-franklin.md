@@ -1,8 +1,11 @@
 ---
+album: Aretha Now
 artists:
 - Aretha Franklin
+external_ids:
+  spotify: spotify:track:4VijLEUxHEzbWKYL5u9wuN
 features: []
-genres: []
+first_released_as_single: false
 key: you-send-me-aretha-franklin
 lyrics_url: https://genius.com/Aretha-franklin-you-send-me-lyrics
 name: You Send Me
@@ -31,6 +34,8 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1968-07-20'
+release_year: 1968
+runtime: 149626
 ---
 Darling you send me
 Darling you send me

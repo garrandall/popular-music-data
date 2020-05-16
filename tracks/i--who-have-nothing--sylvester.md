@@ -1,8 +1,11 @@
 ---
+album: Step II
 artists:
 - Sylvester
+external_ids:
+  spotify: spotify:track:1sGXhGcZWlwTNHAUoL97iJ
 features: []
-genres: []
+first_released_as_single: false
 key: i--who-have-nothing--sylvester
 lyrics_url: https://genius.com/Sylvester-i-need-you-lyrics
 name: I (Who Have Nothing)
@@ -35,6 +38,8 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '1979-05-19'
+release_year: 1978
+runtime: 256506
 ---
 You
 I need you

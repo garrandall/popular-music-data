@@ -1,8 +1,11 @@
 ---
+album: Greatest Hits
 artists:
 - The Bangles
+external_ids:
+  spotify: spotify:track:7EmsauPLjAy9XMNELaHBZa
 features: []
-genres: []
+first_released_as_single: false
 key: hazy-shade-of-winter-the-bangles
 lyrics_url: https://www.azlyrics.com/lyrics/bangles/hazyshadeofwinter.html
 name: Hazy Shade Of Winter
@@ -91,8 +94,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1988-04-02'
+release_year: 1987
+runtime: 167133
 ---
-
 Time, time, time, see what's become of me
 While I looked around
 For my possibilities
@@ -123,6 +127,3 @@ And the sky is a hazy shade of winter
 
 Look around, leaves are brown
 There's a patch of snow on the ground...
-
-
-

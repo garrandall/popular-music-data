@@ -1,8 +1,11 @@
 ---
+album: Whispers
 artists:
 - Jackie Wilson
+external_ids:
+  spotify: spotify:track:0ydH7amZ8mOIVE2GIfOYx1
 features: []
-genres: []
+first_released_as_single: false
 key: just-be-sincere-jackie-wilson
 lyrics_url: https://genius.com/Jackie-wilson-just-be-sincere-lyrics
 name: Just Be Sincere
@@ -19,6 +22,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1967-02-25'
+release_year: 1966
+runtime: 175400
 ---
 (Just be sincere to me)
 (Just be sincere to me)

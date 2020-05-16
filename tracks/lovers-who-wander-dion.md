@@ -1,8 +1,11 @@
 ---
+album: Lovers Who Wander
 artists:
 - Dion
+external_ids:
+  spotify: spotify:track:3ApktgPHkNDBWaZCWvOKjK
 features: []
-genres: []
+first_released_as_single: false
 key: lovers-who-wander-dion
 lyrics_url: https://www.azlyrics.com/lyrics/dionband/loverswhowander.html
 name: Lovers Who Wander
@@ -55,8 +58,9 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '1962-07-07'
+release_year: 1962
+runtime: 151466
 ---
-
 When she kissed me I was born and she said goodbye
 And I knew right away I was born to cry
 Now I'm happy and the joke's on her
@@ -93,6 +97,3 @@ All my lovin' dreams have gone for her
 'Cause I found that place for lover's who wander
 
 Dum dum did it, dum dum did it...
-
-
-

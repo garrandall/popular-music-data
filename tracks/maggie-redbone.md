@@ -1,8 +1,11 @@
 ---
+album: Potlatch
 artists:
 - Redbone
+external_ids:
+  spotify: spotify:track:2gsRZD8bNwwTWHTdlXXHYH
 features: []
-genres: []
+first_released_as_single: false
 key: maggie-redbone
 lyrics_url: https://www.azlyrics.com/lyrics/redbone/maggie.html
 name: Maggie
@@ -75,8 +78,9 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '1971-09-25'
+release_year: 1970
+runtime: 307640
 ---
-
 Maggie was a buck and gain
 Following the hookin' game
 Boo-lah rooka hook and chain
@@ -126,6 +130,3 @@ Boom boom boom - boom poor Maggie
 Boom boom boom - poor Maggie
 Boom boom boom - boom poor Maggie
 Boom boom boom - poor Maggie
-
-
-

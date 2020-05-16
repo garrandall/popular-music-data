@@ -1,9 +1,12 @@
 ---
+album: '!!!Going Places!!!'
 artists:
 - Herb Alpert
 - The Tijuana Brass
+external_ids:
+  spotify: spotify:track:7JH6N7qstfxRhaB7PjiE9q
 features: []
-genres: []
+first_released_as_single: false
 key: tijuana-taxi-herb-alpert-the-tijuana-brass
 name: Tijuana Taxi
 rankings:
@@ -39,5 +42,7 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '1966-02-12'
+release_year: 1965
+runtime: 125920
 ---
 

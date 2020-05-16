@@ -1,8 +1,11 @@
 ---
+album: One Wish
 artists:
 - Deborah Cox
+external_ids:
+  spotify: spotify:track:51QxenFmXlJXUN9mpvxlaL
 features: []
-genres: []
+first_released_as_single: false
 key: nobody-s-supposed-to-be-here-deborah-cox
 lyrics_url: https://genius.com/Deborah-cox-nobodys-supposed-to-be-here-lyrics
 name: Nobody's Supposed To Be Here
@@ -123,6 +126,8 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '1999-04-17'
+release_year: 1998
+runtime: 262333
 ---
 How did you get here? Nobody's supposed to be here
 I tried that love thing for the last time

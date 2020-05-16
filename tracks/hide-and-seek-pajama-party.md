@@ -1,8 +1,11 @@
 ---
+album: Up All Night
 artists:
 - Pajama Party
+external_ids:
+  spotify: spotify:track:34DQNlufkpoXUeSaKopJjE
 features: []
-genres: []
+first_released_as_single: false
 key: hide-and-seek-pajama-party
 lyrics_url: https://genius.com/Pajama-party-hide-and-seek-lyrics
 name: Hide And Seek
@@ -47,6 +50,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1990-05-12'
+release_year: 1989
+runtime: 253866
 ---
 Don't need a lover who's a mystery
 I want somebody who can talk to me

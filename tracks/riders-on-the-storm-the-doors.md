@@ -1,8 +1,11 @@
 ---
+album: L.A. Woman
 artists:
 - The Doors
+external_ids:
+  spotify: spotify:track:14XWXWv5FoCbFzLksawpEe
 features: []
-genres: []
+first_released_as_single: false
 key: riders-on-the-storm-the-doors
 lyrics_url: https://genius.com/The-doors-riders-on-the-storm-lyrics
 name: Riders On The Storm
@@ -55,6 +58,8 @@ rankings:
   rank: 28
   ranking_list: Billboard Hot 100
   start_date: '1971-09-18'
+release_year: 1971
+runtime: 434720
 ---
 Riders on the storm
 Riders on the storm

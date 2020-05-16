@@ -1,8 +1,11 @@
 ---
+album: A Symphony For Susan
 artists:
 - The Arbors
+external_ids:
+  spotify: spotify:track:65t1qUTFzrl94IxuDq7oQa
 features: []
-genres: []
+first_released_as_single: false
 key: a-symphony-for-susan-the-arbors
 lyrics_url: https://genius.com/The-arbors-a-symphony-for-susan-lyrics
 name: A Symphony For Susan
@@ -47,6 +50,8 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '1966-12-17'
+release_year: 1966
+runtime: 155146
 ---
 If I could write a symphony for Susan
 I would write a melody

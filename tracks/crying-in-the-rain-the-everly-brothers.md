@@ -1,8 +1,11 @@
 ---
+album: The Golden Hits Of The Everly Brothers
 artists:
 - The Everly Brothers
+external_ids:
+  spotify: spotify:track:3lWuagNhAzcqOikD5KnBku
 features: []
-genres: []
+first_released_as_single: false
 key: crying-in-the-rain-the-everly-brothers
 lyrics_url: https://genius.com/The-everly-brothers-crying-in-the-rain-lyrics
 name: Crying In The Rain
@@ -59,6 +62,8 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '1962-04-07'
+release_year: 1962
+runtime: 120306
 ---
 I'll never let you see
 The way my broken heart is hurtin' me

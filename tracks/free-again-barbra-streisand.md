@@ -1,8 +1,11 @@
 ---
+album: Je m'appelle Barbra
 artists:
 - Barbra Streisand
+external_ids:
+  spotify: spotify:track:0WxPGuKaTQe20nm8UAAohJ
 features: []
-genres: []
+first_released_as_single: false
 key: free-again-barbra-streisand
 lyrics_url: https://www.azlyrics.com/lyrics/barbrastreisand/freeagain.html
 name: Free Again
@@ -23,8 +26,9 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1966-11-05'
+release_year: 1966
+runtime: 223560
 ---
-
 Back to being free again
 Back to being me again
 With all my precious freedom, my precious, precious freedom
@@ -55,6 +59,3 @@ Lucky me, take a look at lucky, lucky me
 Back to where I used to be! Back to where I used to be!
 Free again... Free again...
 Free...
-
-
-

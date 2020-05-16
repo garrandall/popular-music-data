@@ -1,8 +1,11 @@
 ---
+album: Dangerous
 artists:
 - Michael Jackson
+external_ids:
+  spotify: spotify:track:4jnFqNWeJCeCRHc4HCdxfd
 features: []
-genres: []
+first_released_as_single: false
 key: remember-the-time-michael-jackson
 lyrics_url: https://genius.com/Michael-jackson-remember-the-time-lyrics
 name: Remember The Time
@@ -87,6 +90,8 @@ rankings:
   rank: 52
   ranking_list: Billboard Hot 100
   start_date: '1992-06-06'
+release_year: 1991
+runtime: 239226
 ---
 Do you remember when we fell in love?
 We were young and innocent then

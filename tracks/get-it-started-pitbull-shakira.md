@@ -1,9 +1,12 @@
 ---
+album: Global Warming (Deluxe Version)
 artists:
 - Pitbull
+external_ids:
+  spotify: spotify:track:3JNqJPbbS1KhVzStLyxw1h
 features:
 - Shakira
-genres: []
+first_released_as_single: true
 key: get-it-started-pitbull-shakira
 lyrics_url: https://www.azlyrics.com/lyrics/pitbull/getitstarted.html
 name: Get It Started
@@ -16,8 +19,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2012-07-28'
+release_year: 2012
+runtime: 245746
 ---
-
 To these rappers I apologize, I know it ain't fair
 Only ball I drop, New Year's Times Square
 The world is mine, sixth sense, I see the seventh sense
@@ -92,6 +96,3 @@ We can get started
 
 
 (You know it feels right, let's go, you know it feels right)
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Lover Please/The Complete MGM & Mercury Singles
 artists:
 - Clyde McPhatter
+external_ids:
+  spotify: spotify:track:3vnpzlWkgqMoeFN4SOfugJ
 features: []
-genres: []
+first_released_as_single: false
 key: let-s-try-again-clyde-mcphatter
 name: Let's Try Again
 rankings:
@@ -38,5 +41,7 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1960-02-08'
+release_year: 1959
+runtime: 148866
 ---
 

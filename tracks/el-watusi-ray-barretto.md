@@ -1,8 +1,11 @@
 ---
+album: Charanga Moderna
 artists:
 - Ray Barretto
+external_ids:
+  spotify: spotify:track:5jK21S6FXKQqjlK4vTBiMd
 features: []
-genres: []
+first_released_as_single: false
 key: el-watusi-ray-barretto
 lyrics_url: https://genius.com/Ray-barretto-el-watusi-lyrics
 name: El Watusi
@@ -43,6 +46,8 @@ rankings:
   rank: 38
   ranking_list: Billboard Hot 100
   start_date: '1963-06-22'
+release_year: 1962
+runtime: 160115
 ---
 Caballero hay acaba de entrar Watusi
 Ese mulato que mide siete pies y pesa 169 libras

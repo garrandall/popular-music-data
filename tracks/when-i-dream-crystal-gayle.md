@@ -1,8 +1,11 @@
 ---
+album: Crystal Gayle
 artists:
 - Crystal Gayle
+external_ids:
+  spotify: spotify:track:3d9AUjRiWmXwzpdqNK9kgL
 features: []
-genres: []
+first_released_as_single: false
 key: when-i-dream-crystal-gayle
 lyrics_url: https://genius.com/Crystal-gayle-when-i-dream-lyrics
 name: When I Dream
@@ -19,6 +22,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1979-07-21'
+release_year: 1975
+runtime: 171266
 ---
 I could have a mansion that is higher than the trees
 I could have all the gifts I want and never ask please

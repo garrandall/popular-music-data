@@ -1,8 +1,11 @@
 ---
+album: Honeymoon
 artists:
 - Lana Del Rey
+external_ids:
+  spotify: spotify:track:7g3htkaLz4ETFn0cifwM3y
 features: []
-genres: []
+first_released_as_single: false
 key: high-by-the-beach-lana-del-rey
 lyrics_url: https://www.azlyrics.com/lyrics/lanadelrey/highbythebeach.html
 name: High By The Beach
@@ -19,8 +22,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2015-09-12'
+release_year: 2015
+runtime: 257573
 ---
-
 Boy, look at you, looking at me
 I know you know how I feel
 Loving you is hard, being here is harder
@@ -87,6 +91,3 @@ Not through love but through revenge
 Through the fire, we're born again
 Peace by vengeance
 Brings the end
-
-
-

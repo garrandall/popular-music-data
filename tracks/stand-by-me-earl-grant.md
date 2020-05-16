@@ -1,8 +1,11 @@
 ---
+album: 'Singin'' & Swingin'': The Best Of Earl Grant'
 artists:
 - Earl Grant
+external_ids:
+  spotify: spotify:track:6j0OVI9OAeu2HJdkSNVxs7
 features: []
-genres: []
+first_released_as_single: false
 key: stand-by-me-earl-grant
 lyrics_url: https://www.musixmatch.com/lyrics/Earl-Grant/Stand-by-Me
 name: Stand By Me
@@ -35,6 +38,8 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1965-12-11'
+release_year: 1965
+runtime: 187066
 ---
 When the night has come
 And the land is dark

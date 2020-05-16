@@ -1,8 +1,11 @@
 ---
+album: Neither One Of Us
 artists:
 - Gladys Knight And The Pips
+external_ids:
+  spotify: spotify:track:2EljJKZd4yCPBhWczgQjoo
 features: []
-genres: []
+first_released_as_single: false
 key: daddy-could-swear-i-declare-gladys-knight-and-the-pips
 lyrics_url: https://genius.com/Gladys-knight-and-the-pips-daddy-could-swear-i-declare-lyrics
 name: Daddy Could Swear I Declare
@@ -67,6 +70,8 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '1973-08-04'
+release_year: 1973
+runtime: 225146
 ---
 Oh, oh, yeah
 Oh my mercy

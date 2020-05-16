@@ -1,8 +1,11 @@
 ---
+album: Hits Anthology
 artists:
 - Stevie B
+external_ids:
+  spotify: spotify:track:6GjAlBVV4rwOMvtARgPmaN
 features: []
-genres: []
+first_released_as_single: false
 key: in-my-eyes-stevie-b
 lyrics_url: https://genius.com/Stevie-b-in-my-eyes-lyrics
 name: In My Eyes
@@ -75,6 +78,8 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1989-09-16'
+release_year: 1989
+runtime: 316373
 ---
 You gotta believe there is something inside of me
 You might say, "How could you so fast"

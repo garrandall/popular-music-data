@@ -1,8 +1,11 @@
 ---
+album: Strictly Nashville
 artists:
 - Ned Miller
+external_ids:
+  spotify: spotify:track:1NBoIJWhpd9RPGvdNUeh2T
 features: []
-genres: []
+first_released_as_single: false
 key: do-what-you-do-do-well-ned-miller
 lyrics_url: https://genius.com/Ned-miller-do-what-you-do-do-well-lyrics
 name: Do What You Do Do Well
@@ -43,6 +46,8 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '1965-02-20'
+release_year: 1964
+runtime: 153000
 ---
 He couldn't move a mountain
 Nor pull down a big old tree-ee

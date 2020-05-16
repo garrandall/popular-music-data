@@ -1,8 +1,11 @@
 ---
+album: Restless
 artists:
 - Sara Evans
+external_ids:
+  spotify: spotify:track:4kUmPSgNMjedQW63iEf8g2
 features: []
-genres: []
+first_released_as_single: false
 key: perfect-sara-evans
 lyrics_url: https://www.azlyrics.com/lyrics/saraevans/perfect.html
 name: Perfect
@@ -83,8 +86,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2004-05-29'
+release_year: 2003
+runtime: 241813
 ---
-
 If you don't take me to Paris
 On a lover's getaway
 It's all right, it's all right
@@ -122,6 +126,3 @@ Ain't it nice to know that we don't have to be
 It's good enough for me (perfect)
 Yeah good enough for me (perfect)
 Good enough for me (perfect)
-
-
-

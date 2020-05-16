@@ -1,8 +1,11 @@
 ---
+album: The Roulette Years
 artists:
 - The Three Degrees
+external_ids:
+  spotify: spotify:track:4WBA4a92vh5NoejU4q900a
 features: []
-genres: []
+first_released_as_single: false
 key: you-re-the-one-the-three-degrees
 lyrics_url: https://genius.com/The-three-degrees-youre-the-one-lyrics
 name: You're The One
@@ -31,6 +34,8 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1971-02-27'
+release_year: 1971
+runtime: 204520
 ---
 You blame the world for everything that's wrong
 And you? You think you're cool

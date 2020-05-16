@@ -1,8 +1,11 @@
 ---
+album: No Brakes
 artists:
 - John Waite
+external_ids:
+  spotify: spotify:track:4yJwYm8Y9fKXD0Pjf9lWYh
 features: []
-genres: []
+first_released_as_single: false
 key: tears-john-waite
 lyrics_url: https://www.azlyrics.com/lyrics/johnwaite/tears.html
 name: Tears
@@ -59,8 +62,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1985-01-12'
+release_year: 1984
+runtime: 238666
 ---
-
 You left me here alone
 I guess I'll never see the light
 You turned another's thumb
@@ -115,6 +119,3 @@ I'm gonna cry for you tonight
 I'm gonna cry you a river 
 (Cry for you)
 I'll cry for you tonight
-
-
-

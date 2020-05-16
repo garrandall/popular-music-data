@@ -1,8 +1,11 @@
 ---
+album: Christine McVie
 artists:
 - Christine McVie
+external_ids:
+  spotify: spotify:track:0FCgqHNdcbhGIEmU8r6ZF1
 features: []
-genres: []
+first_released_as_single: false
 key: got-a-hold-on-me-christine-mcvie
 lyrics_url: https://genius.com/Christine-mcvie-got-a-hold-on-me-lyrics
 name: Got A Hold On Me
@@ -71,6 +74,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1984-05-12'
+release_year: 1984
+runtime: 232906
 ---
 You're lifting me up
 Never let me down

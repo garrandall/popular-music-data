@@ -1,8 +1,11 @@
 ---
+album: I'll Give All My Love to You
 artists:
 - Keith Sweat
+external_ids:
+  spotify: spotify:track:3iI6xZkQSWGjWx5phFVLn2
 features: []
-genres: []
+first_released_as_single: false
 key: make-you-sweat-keith-sweat
 lyrics_url: https://genius.com/Keith-sweat-make-you-sweat-lyrics
 name: Make You Sweat
@@ -91,6 +94,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1990-10-20'
+release_year: 1990
+runtime: 320506
 ---
 Oh baby, give it to me now, girl, yeah
 

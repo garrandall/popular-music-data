@@ -1,8 +1,11 @@
 ---
+album: Love You To Tears
 artists:
 - The O'Jays
+external_ids:
+  spotify: spotify:track:3h66kAaZiXZk5RyU9PDsQ8
 features: []
-genres: []
+first_released_as_single: false
 key: baby-you-know-the-o-jays
 lyrics_url: https://genius.com/The-ojays-baby-you-know-lyrics
 name: Baby You Know
@@ -35,6 +38,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1997-12-20'
+release_year: 1997
+runtime: 281573
 ---
 Baby, you know
 That we should be together forever

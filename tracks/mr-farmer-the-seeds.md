@@ -1,8 +1,11 @@
 ---
+album: The Seeds
 artists:
 - The Seeds
+external_ids:
+  spotify: spotify:track:3vMD8nPtK2mTQ5YVIQDNR2
 features: []
-genres: []
+first_released_as_single: false
 key: mr-farmer-the-seeds
 lyrics_url: https://genius.com/The-seeds-mr-farmer-lyrics
 name: Mr Farmer
@@ -15,6 +18,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1967-03-18'
+release_year: 1966
+runtime: 174753
 ---
 See the farmer on the other side of town
 He's always working hard 'til the sun goes down

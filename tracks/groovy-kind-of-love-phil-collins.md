@@ -1,8 +1,11 @@
 ---
+album: Serious Hits...Live!
 artists:
 - Phil Collins
+external_ids:
+  spotify: spotify:track:3GDUInBurDXWZqbvHXb9U3
 features: []
-genres: []
+first_released_as_single: false
 key: groovy-kind-of-love-phil-collins
 lyrics_url: https://www.azlyrics.com/lyrics/philcollins/agroovykindoflove.html
 name: Groovy Kind Of Love
@@ -107,8 +110,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1989-02-18'
+release_year: 1988
+runtime: 208600
 ---
-
 When I'm feeling blue, all I have to do
 Is take a look at you, then I'm not so blue
 When you're close to me, I can feel your heart beat
@@ -129,6 +133,3 @@ Wouldn't you agree, baby you and me got a groovy kind of love
 We got a groovy kind of love
 We got a groovy kind of love, oh
 We got a groovy kind of love
-
-
-

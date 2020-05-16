@@ -1,8 +1,11 @@
 ---
+album: The Best Of Jimmie Rodgers
 artists:
 - Jimmie Rodgers
+external_ids:
+  spotify: spotify:track:2ieO6C3dUH2LajM2wSOJfe
 features: []
-genres: []
+first_released_as_single: false
 key: the-wizard-jimmie-rodgers
 lyrics_url: https://www.musixmatch.com/lyrics/Jimmie-Rodgers/The-Wizard
 name: The Wizard
@@ -35,6 +38,8 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '1958-09-22'
+release_year: 1958
+runtime: 142933
 ---
 One day I met a wizard, many years ago.
 He was very, very old. He was very very wise.

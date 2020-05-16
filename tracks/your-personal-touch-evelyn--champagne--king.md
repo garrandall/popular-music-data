@@ -1,8 +1,11 @@
 ---
+album: A Long Time Coming
 artists:
 - Evelyn "Champagne" King
+external_ids:
+  spotify: spotify:track:0xkUvZwzvXvnrTcAHnrGdw
 features: []
-genres: []
+first_released_as_single: false
 key: your-personal-touch-evelyn--champagne--king
 lyrics_url: https://www.azlyrics.com/lyrics/evelynchampagneking/yourpersonaltouch.html
 name: Your Personal Touch
@@ -23,8 +26,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1986-02-01'
+release_year: 1985
+runtime: 349960
 ---
-
 Come on and get my love
 Your person, your personal touch
 (You know you got it, come give it to me)
@@ -124,6 +128,3 @@ Your person, your personal touch
 Come on and get my love
 Your person, your personal touch
 (You know I love it, come give it to me)
-
-
-

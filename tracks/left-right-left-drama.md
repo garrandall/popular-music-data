@@ -1,8 +1,11 @@
 ---
+album: Causin' Drama
 artists:
 - Drama
+external_ids:
+  spotify: spotify:track:0vk5b6kj3QISHg4fpRPi6n
 features: []
-genres: []
+first_released_as_single: false
 key: left-right-left-drama
 lyrics_url: https://genius.com/Drama-rap-left-right-left-lyrics
 name: Left Right Left
@@ -59,6 +62,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2000-05-06'
+release_year: 2000
+runtime: 217426
 ---
 Chorus: Drama
 

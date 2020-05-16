@@ -1,8 +1,11 @@
 ---
+album: Private Room
 artists:
 - Avant
+external_ids:
+  spotify: spotify:track:6cR1U61DMpYbS2TtNTlSvo
 features: []
-genres: []
+first_released_as_single: false
 key: read-your-mind-avant
 lyrics_url: https://genius.com/Avant-read-your-mind-lyrics
 name: Read Your Mind
@@ -111,6 +114,8 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '2004-03-27'
+release_year: 2003
+runtime: 263506
 ---
 Listen, I been waitin' to tell you this
 You are more than a man could ever want

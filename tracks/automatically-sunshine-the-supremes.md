@@ -1,8 +1,11 @@
 ---
+album: Floy Joy
 artists:
 - The Supremes
+external_ids:
+  spotify: spotify:track:6RDUb0KZc0lnXJqStMgs5k
 features: []
-genres: []
+first_released_as_single: false
 key: automatically-sunshine-the-supremes
 lyrics_url: https://www.azlyrics.com/lyrics/supremes/automaticallysunshine.html
 name: Automatically Sunshine
@@ -43,9 +46,9 @@ rankings:
   rank: 52
   ranking_list: Billboard Hot 100
   start_date: '1972-07-01'
+release_year: 1972
+runtime: 160200
 ---
-
-
 Oh baby let's take life's highway
 It's automatically yours and my way
 No road is too rough to travel
@@ -106,6 +109,3 @@ And you're mine
 It's automatically sunshine
 Cause you're mine and I'm yours
 So who cares if when it rains it pours
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Get It On Credit
 artists:
 - Toronto
+external_ids:
+  spotify: spotify:track:3UVq4JZfCk4CJAGpcy9JMk
 features: []
-genres: []
+first_released_as_single: false
 key: your-daddy-don-t-know-toronto
 lyrics_url: https://genius.com/Toronto-your-daddy-dont-know-lyrics
 name: Your Daddy Don't Know
@@ -39,6 +42,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1982-09-25'
+release_year: 1981
+runtime: 199280
 ---
 Makin' your move
 You come down as fast as lightnin'

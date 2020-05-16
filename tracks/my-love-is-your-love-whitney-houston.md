@@ -1,8 +1,11 @@
 ---
+album: My Love Is Your Love
 artists:
 - Whitney Houston
+external_ids:
+  spotify: spotify:track:1ckU1EhAO0Nr73QYw24SWJ
 features: []
-genres: []
+first_released_as_single: false
 key: my-love-is-your-love-whitney-houston
 lyrics_url: https://genius.com/Whitney-houston-my-love-is-your-love-lyrics
 name: My Love Is Your Love
@@ -119,6 +122,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2000-03-11'
+release_year: 1998
+runtime: 261573
 ---
 Clap your hands, y'all
 It's alright (Turn me up, turn me up, turn me up)

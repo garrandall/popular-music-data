@@ -1,8 +1,11 @@
 ---
+album: Cozy Little Christmas
 artists:
 - Katy Perry
+external_ids:
+  spotify: spotify:track:02FaKXXL7KUtRc7K0k54tL
 features: []
-genres: []
+first_released_as_single: true
 key: cozy-little-christmas-katy-perry
 lyrics_url: https://www.azlyrics.com/lyrics/katyperry/cozylittlechristmas.html
 name: Cozy Little Christmas
@@ -15,8 +18,9 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '2019-01-05'
+release_year: 2018
+runtime: 182520
 ---
-
 Everybody's in a hurry, in a flurry
 Shopping 'til they're droppin' in the snow
 Kids are cryin', dogs are barkin'
@@ -68,6 +72,3 @@ Just want a cozy, a cozy little Christmas here with you
 Just you and me, under a tree
 (Fa la la la la la la la, la la la la la la la la la la)
 A cozy little Christmas here with you
-
-
-

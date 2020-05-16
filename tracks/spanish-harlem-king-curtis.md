@@ -1,8 +1,11 @@
 ---
+album: That Lovin' Feeling (Mono)
 artists:
 - King Curtis
+external_ids:
+  spotify: spotify:track:0NHtbgj4l2RDAYIFLJyVnc
 features: []
-genres: []
+first_released_as_single: false
 key: spanish-harlem-king-curtis
 lyrics_url: https://www.musixmatch.com/lyrics/King-Curtis/Spanish-Harlem
 name: Spanish Harlem
@@ -27,6 +30,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1966-01-22'
+release_year: 1965
+runtime: 166426
 ---
 There is a rose in Spanish Harlem
 A red rose up in Spanish Harlem

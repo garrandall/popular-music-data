@@ -1,8 +1,11 @@
 ---
+album: The Complete Season 4 Collection (The Voice Performance)
 artists:
 - Danielle Bradbery
+external_ids:
+  spotify: spotify:track:1rIusB0mmJglKOFmV1iMft
 features: []
-genres: []
+first_released_as_single: false
 key: born-to-fly-danielle-bradbery
 lyrics_url: https://www.azlyrics.com/lyrics/daniellebradbery/borntofly.html
 name: Born To Fly
@@ -11,8 +14,9 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '2013-07-06'
+release_year: 2013
+runtime: 197200
 ---
-
 I've been tellin' my dreams to the scarecrow
 'Bout the places that I'd like to see
 I said, friend do you think I'll ever get there
@@ -45,6 +49,3 @@ And who has that much time
 And how do you keep your feet on the ground
 When you know that you were born
 You were born to fly fly fly fly...
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Down in the Boondocks
 artists:
 - Billy Joe Royal
+external_ids:
+  spotify: spotify:track:2wTdZ6wy0AJp5LcYzWcVt5
 features: []
-genres: []
+first_released_as_single: false
 key: down-in-the-boondocks-billy-joe-royal
 lyrics_url: https://genius.com/Billy-joe-royal-down-in-the-boondocks-lyrics
 name: Down In The Boondocks
@@ -59,6 +62,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1965-09-25'
+release_year: 1965
+runtime: 153146
 ---
 Down in the boondocks, down in the boondocks
 People put me down cause that's the side of town I was born in

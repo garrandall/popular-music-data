@@ -1,8 +1,11 @@
 ---
+album: Homecoming
 artists:
 - America
+external_ids:
+  spotify: spotify:track:2fqDuYbP9LsoiC1DiXDhWk
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-cross-the-river-america
 lyrics_url: https://genius.com/America-dont-cross-the-river-lyrics
 name: Don't Cross The River
@@ -39,6 +42,8 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '1973-03-17'
+release_year: 1972
+runtime: 149866
 ---
 There's a little girl out lyin'
 On her own

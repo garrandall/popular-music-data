@@ -1,8 +1,11 @@
 ---
+album: My Woman, My Woman, My Wife
 artists:
 - Marty Robbins
+external_ids:
+  spotify: spotify:track:7K40sZ0ZV6vGjzSso2nFyr
 features: []
-genres: []
+first_released_as_single: false
 key: my-woman-my-woman-my-wife-marty-robbins
 lyrics_url: https://www.azlyrics.com/lyrics/martyrobbins/mywomanmywomanmywife.html
 name: My Woman My Woman My Wife
@@ -39,8 +42,9 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '1970-05-02'
+release_year: 1952
+runtime: 211106
 ---
-
 Hands, that are strong but wrinkled
 Doing work that never gets done
 Hair, that's lost some of its beauty
@@ -73,6 +77,3 @@ If I've earned any here in this life
 Cause God, I believe she deserves it
 My woman, my woman, my wife
 My woman, my woman, my wife
-
-
-

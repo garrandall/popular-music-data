@@ -1,10 +1,13 @@
 ---
+album: Bad Vibes Forever
 artists:
 - XXXTENTACION
+external_ids:
+  spotify: spotify:track:69dXVFCMiz3SL1L7M24NdX
 features:
 - PnB Rock
 - Trippie Redd
-genres: []
+first_released_as_single: true
 key: bad-vibes-forever-xxxtentacion-pnb-rock-trippie-redd
 lyrics_url: https://www.azlyrics.com/lyrics/xxxtentacion/badvibesforever.html
 name: Bad Vibes Forever
@@ -13,9 +16,9 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '2019-12-21'
+release_year: 2019
+runtime: 150475
 ---
-
-
 Ohohoohgot you grindin' all on that
 Ridin' all on that thing, make a young nigga eyes roll in my brain
 What we gon' do? I can barely keep control
@@ -65,6 +68,3 @@ Ohohoohgot you grindin' all on that
 Ridin' all on that thing, make a young nigga eyes roll in my brain
 What we gon' do? I can barely keep control
 Catch the vibe of me, get the feel of me, vibe with me
-
-
-

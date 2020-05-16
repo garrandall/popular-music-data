@@ -1,8 +1,11 @@
 ---
+album: The Search for Everything
 artists:
 - John Mayer
+external_ids:
+  spotify: spotify:track:0j2WBxWZnWti5TpSxjJvPb
 features: []
-genres: []
+first_released_as_single: true
 key: love-on-the-weekend-john-mayer
 lyrics_url: https://www.azlyrics.com/lyrics/johnmayer/loveontheweekend.html
 name: Love On The Weekend
@@ -15,8 +18,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2017-02-11'
+release_year: 2016
+runtime: 212626
 ---
-
 It's a Friday, we finally made it
 I can't believe I get to see your face
 You've been working and I've been waiting
@@ -57,6 +61,3 @@ I'm busted up but I'm loving every minute of it
 I'm looking for a little love
 I'm looking for a little love, oh yeah
 (Love on the weekend, love on the weekend)
-
-
-

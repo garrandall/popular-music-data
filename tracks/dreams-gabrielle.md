@@ -1,8 +1,11 @@
 ---
+album: The Little Albums
 artists:
 - Gabrielle
+external_ids:
+  spotify: spotify:track:7ege0PUoR7mZVa60CzyeJ5
 features: []
-genres: []
+first_released_as_single: true
 key: dreams-gabrielle
 lyrics_url: https://genius.com/Gabrielle-dreams-lyrics
 name: Dreams
@@ -119,6 +122,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1994-04-16'
+release_year: 1993
+runtime: 385266
 ---
 They can come true, yeah
 They can come true

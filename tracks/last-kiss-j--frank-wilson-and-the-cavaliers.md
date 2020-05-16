@@ -1,8 +1,11 @@
 ---
+album: Last Kiss
 artists:
 - J. Frank Wilson and The Cavaliers
+external_ids:
+  spotify: spotify:track:48obzdkQV1biEq8cPsGLys
 features: []
-genres: []
+first_released_as_single: true
 key: last-kiss-j--frank-wilson-and-the-cavaliers
 lyrics_url: https://genius.com/J-frank-wilson-and-the-cavaliers-last-kiss-lyrics
 name: Last Kiss
@@ -87,6 +90,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1974-01-19'
+release_year: 1964
+runtime: 148680
 ---
 Well where oh where can my baby be
 The Lord took her away from me

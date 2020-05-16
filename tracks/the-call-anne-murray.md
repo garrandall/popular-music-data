@@ -1,8 +1,11 @@
 ---
+album: Honey, Wheat & Laughter
 artists:
 - Anne Murray
+external_ids:
+  spotify: spotify:track:1nyh7u4XsIl19QBWfelC4d
 features: []
-genres: []
+first_released_as_single: false
 key: the-call-anne-murray
 lyrics_url: https://genius.com/Anne-murray-the-call-lyrics
 name: The Call
@@ -27,6 +30,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1976-03-20'
+release_year: 1970
+runtime: 129666
 ---
 It's a long distance phone
 And I feel so alone

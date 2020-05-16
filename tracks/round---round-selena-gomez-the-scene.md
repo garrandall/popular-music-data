@@ -1,9 +1,12 @@
 ---
+album: A Year Without Rain
 artists:
 - Selena Gomez
 - The Scene
+external_ids:
+  spotify: spotify:track:5RhxBpoCwX2vLBcSJzYa5j
 features: []
-genres: []
+first_released_as_single: false
 key: round---round-selena-gomez-the-scene
 lyrics_url: https://genius.com/Selena-gomez-and-the-scene-round-and-round-lyrics
 name: Round & Round
@@ -64,6 +67,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2010-10-09'
+release_year: 2010
+runtime: 186493
 ---
 Round and round
 Round and round

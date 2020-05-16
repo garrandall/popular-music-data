@@ -1,8 +1,11 @@
 ---
+album: 'The Complete Atco/Atlantic Singles, Vol. 1: 1960-1966'
 artists:
 - Ben E. King
+external_ids:
+  spotify: spotify:track:7ACk1x9kaXkqwdooclmdUR
 features: []
-genres: []
+first_released_as_single: false
 key: too-bad-ben-e--king
 lyrics_url: https://www.musixmatch.com/lyrics/Ben-E-King/Too-Bad
 name: Too Bad
@@ -15,6 +18,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1962-08-18'
+release_year: 1962
+runtime: 156546
 ---
 Too bad for me, too bad
 I'll be your fool again

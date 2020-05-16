@@ -1,8 +1,11 @@
 ---
+album: Songs From The Big Chair (Deluxe)
 artists:
 - Tears For Fears
+external_ids:
+  spotify: spotify:track:5lwQGZYF4BXOzFtXc5zk8q
 features: []
-genres: []
+first_released_as_single: false
 key: head-over-heels-tears-for-fears
 lyrics_url: https://www.musixmatch.com/lyrics/Tears-for-Fears/Head-Over-Heels
 name: Head Over Heels
@@ -87,6 +90,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1986-01-25'
+release_year: 1985
+runtime: 257315
 ---
 I wanted to be with you alone
 And talk about the weather

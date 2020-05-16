@@ -1,8 +1,11 @@
 ---
+album: Sings His Hit Song Ten Commandments
 artists:
 - Prince Buster
+external_ids:
+  spotify: spotify:track:62t1MvJGQBtH9DQJbkZp6i
 features: []
-genres: []
+first_released_as_single: false
 key: ten-commandments-prince-buster
 lyrics_url: https://genius.com/Prince-buster-ten-commandments-lyrics
 name: Ten Commandments
@@ -23,6 +26,8 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1967-02-25'
+release_year: 1967
+runtime: 199880
 ---
 Theses are the ten commandments from man
 Given to woman

@@ -1,8 +1,11 @@
 ---
+album: Big Big World
 artists:
 - Emilia
+external_ids:
+  spotify: spotify:track:5I4xjdu4DeKUNMiufzQLoA
 features: []
-genres: []
+first_released_as_single: false
 key: big-big-world-emilia
 lyrics_url: https://www.azlyrics.com/lyrics/emilia/bigbigworld.html
 name: Big Big World
@@ -15,8 +18,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1999-01-23'
+release_year: 1998
+runtime: 205466
 ---
-
 I'm a big big girl
 in a big big world
 It's not a big big thing if you leave me
@@ -64,6 +68,3 @@ in a big big world
 It's not a big big thing if you leave me
 but I do feel I will miss you much...
 miss you much...
-
-
-

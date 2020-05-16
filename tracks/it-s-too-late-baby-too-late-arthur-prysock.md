@@ -1,8 +1,11 @@
 ---
+album: Too Late Baby
 artists:
 - Arthur Prysock
+external_ids:
+  spotify: spotify:track:7iF0k2rkpDnQcXog7Ha0XX
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-too-late-baby-too-late-arthur-prysock
 name: It's Too Late Baby Too Late
 rankings:
@@ -38,5 +41,7 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '1965-09-04'
+release_year: 1965
+runtime: 193986
 ---
 

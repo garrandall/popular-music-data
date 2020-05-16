@@ -1,8 +1,11 @@
 ---
+album: (Alone) In My Room
 artists:
 - Verdelle Smith
+external_ids:
+  spotify: spotify:track:0oJo99vN0V5kFqxpLhiPXa
 features: []
-genres: []
+first_released_as_single: false
 key: in-my-room--el-amor--verdelle-smith
 lyrics_url: https://www.musixmatch.com/lyrics/Verdelle-Smith/In-My-Room-El-Amor
 name: In My Room (El Amor)
@@ -35,6 +38,8 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1966-03-19'
+release_year: 1966
+runtime: 140779
 ---
 There's a world where I can go
 And tell my secrets to

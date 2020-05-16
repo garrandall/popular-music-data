@@ -1,8 +1,11 @@
 ---
+album: 'OOO Baby Baby: The Anthlogy'
 artists:
 - The Miracles
+external_ids:
+  spotify: spotify:track:1CfQZztUvK8D4aEJ9OA9IX
 features: []
-genres: []
+first_released_as_single: false
 key: come-on-do-the-jerk-the-miracles
 lyrics_url: https://www.azlyrics.com/lyrics/smokeyrobinsonthemiracles/comeondothejerk.html
 name: Come On Do The Jerk
@@ -39,8 +42,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1965-01-30'
+release_year: 1964
+runtime: 172693
 ---
-
 Come on do the jerk (come on do the jerk)
 
 Come on do the jerk (come on do the jerk)
@@ -136,6 +140,3 @@ Yeah, come on do the jerk right now (come on do the jerk )
 Everybody come on do the jerk right now (come on do the jerk )
 
 Jerk children jerk (jerk children jerk)
-
-
-

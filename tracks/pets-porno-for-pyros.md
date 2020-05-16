@@ -1,8 +1,11 @@
 ---
+album: Porno For Pyros
 artists:
 - Porno For Pyros
+external_ids:
+  spotify: spotify:track:5kcQEPksJHTOLQ4In5oGN2
 features: []
-genres: []
+first_released_as_single: false
 key: pets-porno-for-pyros
 lyrics_url: https://www.azlyrics.com/lyrics/pornoforpyros/pets.html
 name: Pets
@@ -47,8 +50,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1993-09-11'
+release_year: 1993
+runtime: 216733
 ---
-
 Children are innocent, yeah
 Teenagers fucked up in the head
 Adults are even more fucked up
@@ -89,6 +93,3 @@ We will make great pets
 We'll make great pets
 We'll make great pets
 We'll make great pets
-
-
-

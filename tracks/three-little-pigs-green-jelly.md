@@ -1,8 +1,11 @@
 ---
+album: Triple Live Mother Goose at Budokan
 artists:
 - Green Jelly
+external_ids:
+  spotify: spotify:track:77V9RUrYWajCo9benYPKsP
 features: []
-genres: []
+first_released_as_single: false
 key: three-little-pigs-green-jelly
 lyrics_url: https://genius.com/Green-jelly-three-little-pigs-lyrics
 name: Three Little Pigs
@@ -87,6 +90,8 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '1993-08-07'
+release_year: 1989
+runtime: 400554
 ---
 Why don't you, sit right back
 And I, I may tell you, a tale

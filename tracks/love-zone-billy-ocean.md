@@ -1,8 +1,11 @@
 ---
+album: Love Zone
 artists:
 - Billy Ocean
+external_ids:
+  spotify: spotify:track:6cT8251k8H4w8HCxwtOtvz
 features: []
-genres: []
+first_released_as_single: false
 key: love-zone-billy-ocean
 lyrics_url: https://www.azlyrics.com/lyrics/billyocean/lovezone.html
 name: Love Zone
@@ -71,8 +74,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1986-11-08'
+release_year: 1986
+runtime: 335773
 ---
-
 Don't you believe that I want you?
 I need you here in my arms.
 Although you won't have to worry
@@ -124,6 +128,3 @@ Together we can live and learn - in the love zone.
 Love zone - I keep your warm - love zone - night and day -
 Love zone - come rest your head on my shoulder - love zone -
 We can count the stars every night - live and learn.
-
-
-

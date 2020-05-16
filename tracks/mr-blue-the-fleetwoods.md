@@ -1,8 +1,11 @@
 ---
+album: Come Softly To Me
 artists:
 - The Fleetwoods
+external_ids:
+  spotify: spotify:track:6bnFjTW3EnMG4BwreDnSHK
 features: []
-genres: []
+first_released_as_single: false
 key: mr-blue-the-fleetwoods
 lyrics_url: https://genius.com/The-fleetwoods-mr-blue-lyrics
 name: Mr Blue
@@ -87,6 +90,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1960-01-18'
+release_year: 1959
+runtime: 145133
 ---
 Our guardian star lost all his glow
 The day that I lost you

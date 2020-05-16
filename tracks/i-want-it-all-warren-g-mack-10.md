@@ -1,9 +1,12 @@
 ---
+album: I Want It All
 artists:
 - Warren G
+external_ids:
+  spotify: spotify:track:7GFytG8skEsUMTtNcqCxx7
 features:
 - Mack 10
-genres: []
+first_released_as_single: false
 key: i-want-it-all-warren-g-mack-10
 lyrics_url: https://www.azlyrics.com/lyrics/warreng/iwantitall.html
 name: I Want It All
@@ -68,9 +71,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1999-12-25'
+release_year: 1999
+runtime: 307826
 ---
-
-
 What's up negros and negrettes?
 It's your boy Warren G
 You know what I'm saying?
@@ -197,6 +200,3 @@ Right: All the hood rats
 What up? You know
 
 Paper's out there
-
-
-

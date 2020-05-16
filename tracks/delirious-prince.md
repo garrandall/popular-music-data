@@ -1,8 +1,11 @@
 ---
+album: '1999'
 artists:
 - Prince
+external_ids:
+  spotify: spotify:track:6hazdpTPlt5W2BTCGYKBoj
 features: []
-genres: []
+first_released_as_single: false
 key: delirious-prince
 lyrics_url: https://www.azlyrics.com/lyrics/prince/delirious.html
 name: Delirious
@@ -79,8 +82,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1983-12-31'
+release_year: 1982
+runtime: 240800
 ---
-
 I get delirious whenever you're near
 Lose all self-control, baby just can't steer
 Wheels get locked in place
@@ -129,6 +133,3 @@ Yeah-yeah-yeah-yeah-yeah-yeah (Delirious)
 (Delirious)
 (Delirious)
 (Delirious)
-
-
-

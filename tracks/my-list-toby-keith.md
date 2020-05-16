@@ -1,8 +1,11 @@
 ---
+album: Pull My Chain
 artists:
 - Toby Keith
+external_ids:
+  spotify: spotify:track:5WFDseVq6n2LnKQMByCYnj
 features: []
-genres: []
+first_released_as_single: false
 key: my-list-toby-keith
 lyrics_url: https://www.azlyrics.com/lyrics/tobykeith/mylist.html
 name: My List
@@ -87,8 +90,9 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '2002-06-29'
+release_year: 2001
+runtime: 200973
 ---
-
 Under an old brass paperweight is my list of things to do today
 Go to the bank and the hardware store, put a new lock on the cellar door
 I cross 'em off as I get 'em done but when the sun is set
@@ -128,6 +132,3 @@ Just start livin', that's the next thing on my list
 
 Under an old brass paperweight
 Is my list of things to do today
-
-
-

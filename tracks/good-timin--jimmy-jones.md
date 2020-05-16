@@ -1,8 +1,11 @@
 ---
+album: Essential Masters
 artists:
 - Jimmy Jones
+external_ids:
+  spotify: spotify:track:0HsMCDZOh9gWDh5KgsD70H
 features: []
-genres: []
+first_released_as_single: false
 key: good-timin--jimmy-jones
 lyrics_url: https://www.musixmatch.com/lyrics/Jimmy-Jones/Good-Timin
 name: Good Timin'
@@ -67,6 +70,8 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '1960-07-25'
+release_year: 1960
+runtime: 129773
 ---
 Oh, you need timin'
 A tick, a tick, a tick, good timin'

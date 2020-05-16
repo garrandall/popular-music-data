@@ -1,8 +1,11 @@
 ---
+album: September
 artists:
 - September
+external_ids:
+  spotify: spotify:track:4s3CHmungRHAI5ho2edqXb
 features: []
-genres: []
+first_released_as_single: true
 key: cry-for-you-september
 lyrics_url: https://genius.com/Leo-gold-cry-for-you-september-cover-lyrics
 name: Cry For You
@@ -47,6 +50,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2008-11-01'
+release_year: 2007
+runtime: 211600
 ---
 I never had to say goodbye
 You must have known I wouldn't stay

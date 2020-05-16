@@ -1,8 +1,11 @@
 ---
+album: The Definitive Collection
 artists:
 - Brenda Lee
+external_ids:
+  spotify: spotify:track:3f63DDspa9ZjEZR4vB0A7G
 features: []
-genres: []
+first_released_as_single: false
 key: coming-on-strong-brenda-lee
 lyrics_url: https://www.azlyrics.com/lyrics/brendalee/comingonstrong.html
 name: Coming On Strong
@@ -59,8 +62,9 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1966-12-24'
+release_year: 1966
+runtime: 122306
 ---
-
 Comin' on strong, comin' on strong.
 I can feel the heartaches
 Comin' on strong.
@@ -85,6 +89,3 @@ And memories of a love gone wrong, that keep
 Comin' on strong. Comin' on strong
 Comin' on strong. Comin' on strong
 Comin' on strong. Comin' on strong
-
-
-

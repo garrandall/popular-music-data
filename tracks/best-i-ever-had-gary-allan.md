@@ -1,8 +1,11 @@
 ---
+album: Tough All Over
 artists:
 - Gary Allan
+external_ids:
+  spotify: spotify:track:120w1eBYfiYrSXtegu6uEb
 features: []
-genres: []
+first_released_as_single: false
 key: best-i-ever-had-gary-allan
 lyrics_url: https://www.azlyrics.com/lyrics/garyallan/bestieverhad.html
 name: Best I Ever Had
@@ -79,8 +82,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2006-01-14'
+release_year: 2005
+runtime: 251480
 ---
-
 So you sailed away into a grey sky morning
 Now I'm here to stay, love can be so boring
 And nothing's quite the same now
@@ -117,6 +121,3 @@ You don't want me back
 You're just the best I ever had.
 
 You're just the best I ever had
-
-
-

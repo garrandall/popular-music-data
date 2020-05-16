@@ -1,8 +1,11 @@
 ---
+album: 'Golden Legends: The Everly Brothers Live'
 artists:
 - The Everly Brothers
+external_ids:
+  spotify: spotify:track:4FrMb1ckGBrhARbHySQKx5
 features: []
-genres: []
+first_released_as_single: false
 key: devoted-to-you-the-everly-brothers
 lyrics_url: https://www.azlyrics.com/lyrics/everlybrothers/devotedtoyou.html
 name: Devoted To You
@@ -63,8 +66,9 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '1958-11-10'
+release_year: 1958
+runtime: 141040
 ---
-
 Darlin' you can count on me 
 Till the sun dries up the sea 
 Until then I'll always be devoted to you 
@@ -90,6 +94,3 @@ I'd be unhappy if you were blue
 Through the years my love will grow 
 Like a river it will flow 
 It can't die because I'm so devoted to you
-
-
-

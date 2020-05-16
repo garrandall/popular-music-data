@@ -1,8 +1,11 @@
 ---
+album: Artist 2.0
 artists:
 - A Boogie Wit da Hoodie
+external_ids:
+  spotify: spotify:track:1aNaUNjSp4hoiKwahgWhOu
 features: []
-genres: []
+first_released_as_single: false
 key: me-and-my-guitar-a-boogie-wit-da-hoodie
 lyrics_url: https://genius.com/A-boogie-wit-da-hoodie-me-and-my-guitar-lyrics
 name: Me And My Guitar
@@ -15,6 +18,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2020-03-07'
+release_year: 2020
+runtime: 161764
 ---
 Yeah, I loved her too hard, she left me here with this guitar
 You can try stealing my heart, it's already gone

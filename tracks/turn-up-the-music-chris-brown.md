@@ -1,8 +1,11 @@
 ---
+album: Fortune
 artists:
 - Chris Brown
+external_ids:
+  spotify: spotify:track:1RMRkCn07y2xtBip9DzwmC
 features: []
-genres: []
+first_released_as_single: false
 key: turn-up-the-music-chris-brown
 lyrics_url: https://genius.com/Chris-brown-turn-up-the-music-lyrics
 name: Turn Up The Music
@@ -87,6 +90,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2012-07-14'
+release_year: 2012
+runtime: 227973
 ---
 Turn up the music 'cause this song just came on
 Turn up the music if they try to turn us down

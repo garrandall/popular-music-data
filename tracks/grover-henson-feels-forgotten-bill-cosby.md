@@ -1,8 +1,11 @@
 ---
+album: Bill Cosby At His Best
 artists:
 - Bill Cosby
+external_ids:
+  spotify: spotify:track:1er2tyXb4iw23SfZxb1FW1
 features: []
-genres: []
+first_released_as_single: false
 key: grover-henson-feels-forgotten-bill-cosby
 lyrics_url: https://www.musixmatch.com/lyrics/Bill-Cosby/Grover-Henson-Feels-Forgotten
 name: Grover Henson Feels Forgotten
@@ -19,6 +22,8 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1970-05-16'
+release_year: 1970
+runtime: 220800
 ---
 World, I'm writing you this letter
 And I'm not the kind of guy

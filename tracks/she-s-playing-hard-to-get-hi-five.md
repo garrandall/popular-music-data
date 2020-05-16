@@ -1,8 +1,11 @@
 ---
+album: Keep It Goin' On
 artists:
 - Hi-Five
+external_ids:
+  spotify: spotify:track:3xRbymJj98leHL7K8Y94WS
 features: []
-genres: []
+first_released_as_single: false
 key: she-s-playing-hard-to-get-hi-five
 lyrics_url: https://genius.com/Hi-five-shes-playing-hard-to-get-lyrics
 name: She's Playing Hard To Get
@@ -87,6 +90,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1992-12-12'
+release_year: 1990
+runtime: 276573
 ---
 She likes me
 

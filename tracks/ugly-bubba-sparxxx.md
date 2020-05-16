@@ -1,8 +1,11 @@
 ---
+album: Dark Days, Bright Nights
 artists:
 - Bubba Sparxxx
+external_ids:
+  spotify: spotify:track:3NOq1Gpiy4KwDni8NhOmHQ
 features: []
-genres: []
+first_released_as_single: false
 key: ugly-bubba-sparxxx
 lyrics_url: https://genius.com/Bubba-sparxxx-ugly-lyrics
 name: Ugly
@@ -87,6 +90,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2002-01-12'
+release_year: 2001
+runtime: 265226
 ---
 Uhh.. uh-oh, uh-oh
 Tch-tchka-tchka-tchka-tchka uhh

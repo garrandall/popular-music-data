@@ -1,8 +1,11 @@
 ---
+album: City In The Sky
 artists:
 - The Staple Singers
+external_ids:
+  spotify: spotify:track:374HeKQw1UAGl5g5PK930a
 features: []
-genres: []
+first_released_as_single: false
 key: my-main-man-the-staple-singers
 lyrics_url: https://www.azlyrics.com/lyrics/staplesingers/mymainman.html
 name: My Main Man
@@ -19,8 +22,9 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1974-12-21'
+release_year: 1974
+runtime: 135560
 ---
-
 Look over my shoulder now what do you think I see
 Me and my main man just him and me
 'Round the corner now, I found love
@@ -50,6 +54,3 @@ Me and my main man against the whole wide world
 Now, me and my main man we gotta pocket full of love
 Me and my main man against the whole wide world
 Now, me and my main man we gotta pocket full of love
-
-
-

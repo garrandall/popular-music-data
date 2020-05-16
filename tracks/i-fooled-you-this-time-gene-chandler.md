@@ -1,8 +1,11 @@
 ---
+album: Soul Master
 artists:
 - Gene Chandler
+external_ids:
+  spotify: spotify:track:2ORiVCWQc0gBk4FStlm0dC
 features: []
-genres: []
+first_released_as_single: false
 key: i-fooled-you-this-time-gene-chandler
 lyrics_url: https://genius.com/Gene-chandler-i-fooled-you-this-time-lyrics
 name: I Fooled You This Time
@@ -39,6 +42,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1967-01-14'
+release_year: 1966
+runtime: 169666
 ---
 Whoa, I, whoa, I
 Whoa, I fooled you this time

@@ -1,9 +1,12 @@
 ---
+album: Hip Hug-Her
 artists:
 - Booker T.
 - The MG's
+external_ids:
+  spotify: spotify:track:5b10f6T43ux4JRz0WVDVsC
 features: []
-genres: []
+first_released_as_single: false
 key: hip-hug-her-booker-t--the-mg-s
 name: Hip Hug-Her
 rankings:
@@ -59,5 +62,7 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '1967-06-17'
+release_year: 1967
+runtime: 145199
 ---
 

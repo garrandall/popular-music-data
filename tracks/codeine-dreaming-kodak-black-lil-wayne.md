@@ -1,9 +1,12 @@
 ---
+album: 'Project Baby 2: All Grown Up'
 artists:
 - Kodak Black
+external_ids:
+  spotify: spotify:track:4DTpngLjoHj5gFxEZFeD3J
 features:
 - Lil Wayne
-genres: []
+first_released_as_single: false
 key: codeine-dreaming-kodak-black-lil-wayne
 lyrics_url: https://www.azlyrics.com/lyrics/kodakblack/codeinedreaming.html
 name: Codeine Dreaming
@@ -64,9 +67,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2018-03-10'
+release_year: 2017
+runtime: 264531
 ---
-
-
 Yeah, yeah, yeah
 Take that all the way up
 I'm about to take off on these niggas
@@ -158,6 +161,3 @@ I'm moonwalking but my Christian Loubotin's bleeding
 I'm smoking moonrocks, shawty, and I'm feeling seated
 (And I'm codeine dreaming, and I'm codeine dreaming
 And I'm codeine dreaming, and I'm codeine dreaming)
-
-
-

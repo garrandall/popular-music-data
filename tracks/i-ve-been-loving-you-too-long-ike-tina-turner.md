@@ -1,9 +1,12 @@
 ---
+album: Get Yer Ya-Ya's Out! The Rolling Stones In Concert
 artists:
 - Ike
 - Tina Turner
+external_ids:
+  spotify: spotify:track:4vnF9EvCsHrsrjegaiZA0T
 features: []
-genres: []
+first_released_as_single: false
 key: i-ve-been-loving-you-too-long-ike-tina-turner
 lyrics_url: https://genius.com/Ike-and-tina-turner-ive-been-loving-you-too-long-lyrics
 name: I've Been Loving You Too Long
@@ -36,6 +39,8 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1969-06-07'
+release_year: 1969
+runtime: 340626
 ---
 I've been loving you too long, I don't wanna stop now
 You are tired and you want to be free

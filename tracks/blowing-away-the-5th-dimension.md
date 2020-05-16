@@ -1,8 +1,11 @@
 ---
+album: The Age Of Aquarius
 artists:
 - The 5th Dimension
+external_ids:
+  spotify: spotify:track:7sr2GzZ8yoxmPC20IoXtfy
 features: []
-genres: []
+first_released_as_single: false
 key: blowing-away-the-5th-dimension
 lyrics_url: https://www.azlyrics.com/lyrics/5thdimension/blowingaway.html
 name: Blowing Away
@@ -43,8 +46,9 @@ rankings:
   rank: 29
   ranking_list: Billboard Hot 100
   start_date: '1970-02-28'
+release_year: 1970
+runtime: 151266
 ---
-
 You old fire, I'm mad with desire
 You're my favorite one
 You got me cookin' with the fever
@@ -80,6 +84,3 @@ Blow, blow, blowin' away
 Blow, blow, blowin' away
 Blow, blow, blowin' away
 Blow, blow, blowin' away
-
-
-

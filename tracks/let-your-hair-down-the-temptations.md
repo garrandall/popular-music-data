@@ -1,8 +1,11 @@
 ---
+album: '1990'
 artists:
 - The Temptations
+external_ids:
+  spotify: spotify:track:3MvJztukgQFkiHFluA39Zh
 features: []
-genres: []
+first_released_as_single: false
 key: let-your-hair-down-the-temptations
 lyrics_url: https://genius.com/The-temptations-let-your-hair-down-lyrics
 name: Let Your Hair Down
@@ -43,6 +46,8 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '1974-02-16'
+release_year: 1973
+runtime: 158773
 ---
 Well
 Get down

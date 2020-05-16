@@ -1,8 +1,11 @@
 ---
+album: What The World Needs Now
 artists:
 - The Sweet Inspirations
+external_ids:
+  spotify: spotify:track:2MuUExl0s8Vxsl6t8tZLr0
 features: []
-genres: []
+first_released_as_single: false
 key: to-love-somebody-the-sweet-inspirations
 name: To Love Somebody
 rankings:
@@ -22,5 +25,7 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '1968-07-27'
+release_year: 1968
+runtime: 163653
 ---
 

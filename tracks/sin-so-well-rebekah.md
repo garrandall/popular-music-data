@@ -1,8 +1,11 @@
 ---
+album: Remember To Breathe
 artists:
 - Rebekah
+external_ids:
+  spotify: spotify:track:3mUmd78qWMY1qxYgXgO0gT
 features: []
-genres: []
+first_released_as_single: false
 key: sin-so-well-rebekah
 lyrics_url: https://genius.com/Rebecca-rebekah-jordan-sin-so-well-lyrics
 name: Sin So Well
@@ -31,6 +34,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1998-07-25'
+release_year: 1998
+runtime: 219360
 ---
 Mama doesn't like when I sin so well
 Heaven's kinda far

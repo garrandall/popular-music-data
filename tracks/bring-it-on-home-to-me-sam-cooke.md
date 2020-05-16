@@ -1,8 +1,11 @@
 ---
+album: One Night Stand - Sam Cooke Live At The Harlem Square Club, 1963
 artists:
 - Sam Cooke
+external_ids:
+  spotify: spotify:track:4yjz1aazw6R8ZURpGbCAkp
 features: []
-genres: []
+first_released_as_single: false
 key: bring-it-on-home-to-me-sam-cooke
 lyrics_url: https://genius.com/Sam-cooke-bring-it-on-home-to-me-lyrics
 name: Bring It On Home To Me
@@ -51,6 +54,8 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1962-09-15'
+release_year: 1960
+runtime: 165280
 ---
 If you ever change your mind
 About leaving, leaving me behind

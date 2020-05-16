@@ -1,8 +1,11 @@
 ---
+album: Babushka Boi
 artists:
 - A$AP Rocky
+external_ids:
+  spotify: spotify:track:643PW82aBMUa1FiWi5VQY7
 features: []
-genres: []
+first_released_as_single: true
 key: babushka-boi-a-ap-rocky
 lyrics_url: https://genius.com/A-ap-rocky-babushka-boi-lyrics
 name: Babushka Boi
@@ -11,6 +14,8 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '2019-09-14'
+release_year: 2019
+runtime: 187105
 ---
 Uh
 They call me F-L-A-C-K-O and don't play, no, 'bout my papes

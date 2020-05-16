@@ -1,8 +1,11 @@
 ---
+album: Bee Gees' 1st
 artists:
 - Bee Gees
+external_ids:
+  spotify: spotify:track:4Wk7X0K7pp8jJk5yfHdOQo
 features: []
-genres: []
+first_released_as_single: false
 key: one-bee-gees
 lyrics_url: https://genius.com/Bee-gees-one-lyrics
 name: One
@@ -63,6 +66,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1989-10-28'
+release_year: 1967
+runtime: 139306
 ---
 I feel my heartbeat
 When you run your fingers through my hair

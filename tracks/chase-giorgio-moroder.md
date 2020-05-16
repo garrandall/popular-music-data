@@ -1,8 +1,11 @@
 ---
+album: From Here To Eternity... And Back
 artists:
 - Giorgio Moroder
+external_ids:
+  spotify: spotify:track:3CgonfeyRh23O9F4aKiIbW
 features: []
-genres: []
+first_released_as_single: false
 key: chase-giorgio-moroder
 name: Chase
 rankings:
@@ -54,5 +57,7 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '1979-04-07'
+release_year: 1978
+runtime: 506160
 ---
 

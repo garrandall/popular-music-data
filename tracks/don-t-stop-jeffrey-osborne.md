@@ -1,8 +1,11 @@
 ---
+album: Don't Stop
 artists:
 - Jeffrey Osborne
+external_ids:
+  spotify: spotify:track:0jwQX3iUamARLWYb9YlXXB
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-stop-jeffrey-osborne
 lyrics_url: https://genius.com/Jeffrey-osborne-dont-stop-lyrics
 name: Don't Stop
@@ -67,6 +70,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1985-01-19'
+release_year: 1984
+runtime: 248800
 ---
 Baby, don't stop
 

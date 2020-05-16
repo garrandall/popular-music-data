@@ -1,9 +1,12 @@
 ---
+album: Bass Down Low
 artists:
 - Dev
+external_ids:
+  spotify: spotify:track:4Xf7EL8G6FRYwvJADl0nf4
 features:
 - The Cataracs
-genres: []
+first_released_as_single: true
 key: bass-down-low-dev-the-cataracs
 lyrics_url: https://genius.com/Dev-bass-down-low-lyrics
 name: Bass Down Low
@@ -56,6 +59,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2011-03-19'
+release_year: 2010
+runtime: 210600
 ---
 If you wanna get with me
 There's some things you gotta know

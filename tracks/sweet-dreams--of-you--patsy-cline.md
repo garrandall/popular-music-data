@@ -1,8 +1,11 @@
 ---
+album: 'Sweet Dreams: The Life And Times Of Patsy Cline (Original Motion Picture Soundtrack)'
 artists:
 - Patsy Cline
+external_ids:
+  spotify: spotify:track:0gnQsZ607gfNhIUqCNFC1G
 features: []
-genres: []
+first_released_as_single: false
 key: sweet-dreams--of-you--patsy-cline
 lyrics_url: https://www.azlyrics.com/lyrics/patsycline/sweetdreams.html
 name: Sweet Dreams (Of You)
@@ -47,8 +50,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1963-06-22'
+release_year: 1963
+runtime: 155733
 ---
-
 Sweet dreams of you
 Every night I go through
 Why can't I forget you and start my life anew
@@ -63,6 +67,3 @@ Sweet dreams of you
 Things I know can't come true
 Why can't I forget the past, start loving someone new
 Instead of having sweet dreams about you
-
-
-

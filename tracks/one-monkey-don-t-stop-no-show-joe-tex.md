@@ -1,8 +1,11 @@
 ---
+album: The Very Best of, Volume 1
 artists:
 - Joe Tex
+external_ids:
+  spotify: spotify:track:24KSqmEDwKMyTW60sUEI9I
 features: []
-genres: []
+first_released_as_single: false
 key: one-monkey-don-t-stop-no-show-joe-tex
 lyrics_url: https://genius.com/Joe-tex-one-monkey-dont-stop-no-show-lyrics
 name: One Monkey Don't Stop No Show
@@ -23,6 +26,8 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '1965-07-17'
+release_year: 1965
+runtime: 182920
 ---
 Oh yes
 Oh yes

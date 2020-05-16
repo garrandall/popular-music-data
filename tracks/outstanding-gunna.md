@@ -1,8 +1,11 @@
 ---
+album: Drip or Drown 2
 artists:
 - Gunna
+external_ids:
+  spotify: spotify:track:1aU2MrZHIENj5L2G0RxN8a
 features: []
-genres: []
+first_released_as_single: false
 key: outstanding-gunna
 lyrics_url: https://www.azlyrics.com/lyrics/gunna/outstanding.html
 name: Outstanding
@@ -11,8 +14,9 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '2019-03-09'
+release_year: 2019
+runtime: 180780
 ---
-
 When I made my first million
 I ain't panic
 I only drank out this here
@@ -114,6 +118,3 @@ Got my interior all mint
 And outside candy
 I put your bitch in Balmain
 Because she pretty
-
-
-

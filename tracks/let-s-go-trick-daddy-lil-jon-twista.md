@@ -1,10 +1,13 @@
 ---
+album: 'Thug Matrimony: Married To The Streets (Edited Version U.S. Version)'
 artists:
 - Trick Daddy
+external_ids:
+  spotify: spotify:track:4MatugKuTLRqQGLss6Ch4a
 features:
 - Lil Jon
 - Twista
-genres: []
+first_released_as_single: false
 key: let-s-go-trick-daddy-lil-jon-twista
 lyrics_url: https://www.azlyrics.com/lyrics/trickdaddy/letsgo.html
 name: Let's Go
@@ -97,9 +100,9 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '2005-02-12'
+release_year: 2004
+runtime: 223626
 ---
-
-
 Yeah (Yeaaaahhhh!)
 Theres a lotta fuck niggas in the club tonight,
 (fuck em, fuck em, fuck em)
@@ -175,6 +178,3 @@ The AK go chop, chop, chop, chop
 The SK go fire, fire, fire, fire
 The AK go chop, chop, chop, chop
 The SK go fire, fire, fire, fire
-
-
-

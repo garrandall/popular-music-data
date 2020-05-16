@@ -1,8 +1,11 @@
 ---
+album: Something
 artists:
 - Shirley Bassey
+external_ids:
+  spotify: spotify:track:7KarW18mqK87nTQc4QrVvk
 features: []
-genres: []
+first_released_as_single: false
 key: something-shirley-bassey
 lyrics_url: https://www.azlyrics.com/lyrics/shirleybassey/something.html
 name: Something
@@ -43,8 +46,9 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '1970-11-14'
+release_year: 1970
+runtime: 215306
 ---
-
 Oh, uhhhhhh, oh
 
 Something in the way he moves
@@ -82,6 +86,3 @@ Something in the way he moves
 Something in the way he knows
 Something in the way he smiles
 Something
-
-
-

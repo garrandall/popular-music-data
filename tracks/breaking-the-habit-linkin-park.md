@@ -1,8 +1,11 @@
 ---
+album: Meteora
 artists:
 - Linkin Park
+external_ids:
+  spotify: spotify:track:4HcDu9IGRCvSTJE4yW5Ugv
 features: []
-genres: []
+first_released_as_single: false
 key: breaking-the-habit-linkin-park
 lyrics_url: https://www.azlyrics.com/lyrics/linkinpark/breakingthehabit.html
 name: Breaking The Habit
@@ -87,8 +90,9 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '2004-12-04'
+release_year: 2003
+runtime: 196906
 ---
-
 Memories consume
 Like opening the wound
 I'm picking me apart again
@@ -145,6 +149,3 @@ I'll never be alright
 So I'm breaking the habit
 I'm breaking the habit
 I'm breaking the habit tonight
-
-
-

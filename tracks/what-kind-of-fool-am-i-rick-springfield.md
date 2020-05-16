@@ -1,8 +1,11 @@
 ---
+album: Success Hasn't Spoiled Me
 artists:
 - Rick Springfield
+external_ids:
+  spotify: spotify:track:0fRIcFSHK1xlbbdQP43hu8
 features: []
-genres: []
+first_released_as_single: false
 key: what-kind-of-fool-am-i-rick-springfield
 lyrics_url: https://www.azlyrics.com/lyrics/rickspringfield/whatkindoffoolami.html
 name: What Kind Of Fool Am I
@@ -55,8 +58,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1982-08-21'
+release_year: 1981
+runtime: 200306
 ---
-
 I wonder who she's seeing tonight
 Is she really going out with him
 He's not her type
@@ -105,6 +109,3 @@ What kind of fool am I
 What kind of fool am I
 What kind of fool am I
 To lose you
-
-
-

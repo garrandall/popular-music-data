@@ -1,8 +1,11 @@
 ---
+album: Tommy
 artists:
 - The Who
+external_ids:
+  spotify: spotify:track:7tbp39GZvDA0cItgHynVnG
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-free-the-who
 lyrics_url: https://genius.com/The-who-im-free-lyrics
 name: I'm Free
@@ -39,6 +42,8 @@ rankings:
   rank: 52
   ranking_list: Billboard Hot 100
   start_date: '1969-09-06'
+release_year: 1969
+runtime: 159204
 ---
 I'm free, I'm free
 And freedom tastes of reality

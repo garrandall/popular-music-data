@@ -1,8 +1,11 @@
 ---
+album: Makin' It (Re-Recorded) - Single
 artists:
 - David Naughton
+external_ids:
+  spotify: spotify:track:035Ag6mdG1EWFZvgdnK8lK
 features: []
-genres: []
+first_released_as_single: true
 key: makin--it-david-naughton
 lyrics_url: https://genius.com/David-naughton-makin-it-lyrics
 name: Makin' It
@@ -103,6 +106,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1979-09-08'
+release_year: 1979
+runtime: 189582
 ---
 Makin' it
 Oh-ohooh

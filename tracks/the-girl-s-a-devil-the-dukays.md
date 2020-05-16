@@ -1,8 +1,11 @@
 ---
+album: Great Rare Songs, Vol. 6
 artists:
 - The Dukays
+external_ids:
+  spotify: spotify:track:1ViXf1GXbu63qufb0eoua2
 features: []
-genres: []
+first_released_as_single: false
 key: the-girl-s-a-devil-the-dukays
 name: The Girl's A Devil
 rankings:
@@ -58,5 +61,7 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1961-08-07'
+release_year: 1961
+runtime: 149906
 ---
 

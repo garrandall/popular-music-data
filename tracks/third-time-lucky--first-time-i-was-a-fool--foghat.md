@@ -1,8 +1,11 @@
 ---
+album: Boogie Motel
 artists:
 - Foghat
+external_ids:
+  spotify: spotify:track:2GrXeR0yhjkyXTp0alMF2u
 features: []
-genres: []
+first_released_as_single: false
 key: third-time-lucky--first-time-i-was-a-fool--foghat
 lyrics_url: https://www.azlyrics.com/lyrics/foghat/thirdtimeluckyfirsttimeiwasafool.html
 name: Third Time Lucky (First Time I Was A Fool)
@@ -67,8 +70,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1980-02-23'
+release_year: 1979
+runtime: 252640
 ---
-
 It's all behind me
 There's good luck up ahead
 Can't break what's left of my heart
@@ -109,6 +113,3 @@ never knew that love could be so cruel
 It happened again
 Third time lucky
 Oh Yeah
-
-
-

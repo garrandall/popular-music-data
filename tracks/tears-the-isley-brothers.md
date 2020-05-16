@@ -1,8 +1,11 @@
 ---
+album: Mission To Please
 artists:
 - The Isley Brothers
+external_ids:
+  spotify: spotify:track:3WAgCGsQ88VW3GFSMVK8td
 features: []
-genres: []
+first_released_as_single: false
 key: tears-the-isley-brothers
 lyrics_url: https://www.azlyrics.com/lyrics/isleybrothers/tears.html
 name: Tears
@@ -51,8 +54,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1997-03-22'
+release_year: 1996
+runtime: 285600
 ---
-
 Thank you, baby
 For the years you've given me
 For each beat of my heart
@@ -108,6 +112,3 @@ Let me cry
 If I hold back my tears
 I'll just die
 (you've given so much to my life)
-
-
-

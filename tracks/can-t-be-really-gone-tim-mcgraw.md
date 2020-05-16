@@ -1,8 +1,11 @@
 ---
+album: All I Want
 artists:
 - Tim McGraw
+external_ids:
+  spotify: spotify:track:4IHy0lCAlMBTfdGuzd0sVk
 features: []
-genres: []
+first_released_as_single: false
 key: can-t-be-really-gone-tim-mcgraw
 lyrics_url: https://genius.com/Tim-mcgraw-cant-be-really-gone-lyrics
 name: Can't Be Really Gone
@@ -27,6 +30,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1996-02-03'
+release_year: 1995
+runtime: 201133
 ---
 Her hat is hanging by the door
 The one she bought in Mexico

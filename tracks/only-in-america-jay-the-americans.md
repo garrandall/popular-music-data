@@ -1,9 +1,12 @@
 ---
+album: Come A Little Bit Closer
 artists:
 - Jay
 - The Americans
+external_ids:
+  spotify: spotify:track:6X4Sn2nTswhtxuo7Lf80h3
 features: []
-genres: []
+first_released_as_single: false
 key: only-in-america-jay-the-americans
 lyrics_url: https://www.azlyrics.com/lyrics/jaytheamericans/onlyinamerica.html
 name: Only In America
@@ -52,8 +55,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1963-10-26'
+release_year: 1963
+runtime: 122000
 ---
-
 Only in America
 Can a guy from anywhere
 Go to sleep a pauper and wake up a millionaire
@@ -84,6 +88,3 @@ Only in America (only in America)
 Only in America (only in America)
 Only in America (only in America)
 Only in America
-
-
-

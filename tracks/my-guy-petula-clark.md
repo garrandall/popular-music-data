@@ -1,8 +1,11 @@
 ---
+album: 'I Couldn''t Live Without Your Love: Hits, Classics & More'
 artists:
 - Petula Clark
+external_ids:
+  spotify: spotify:track:1d7r7hVBbZ0ui4Yh2tedFA
 features: []
-genres: []
+first_released_as_single: false
 key: my-guy-petula-clark
 lyrics_url: https://genius.com/Petula-clark-my-guy-lyrics
 name: My Guy
@@ -59,6 +62,8 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1972-09-02'
+release_year: 1972
+runtime: 178160
 ---
 Nothing you could say could tear me away from my guy
 (My guy)

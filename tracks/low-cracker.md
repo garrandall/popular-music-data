@@ -1,8 +1,11 @@
 ---
+album: Kerosene Hat
 artists:
 - Cracker
+external_ids:
+  spotify: spotify:track:6ctbCIikHbC6tSOL1rewQX
 features: []
-genres: []
+first_released_as_single: false
 key: low-cracker
 lyrics_url: https://genius.com/Cracker-low-lyrics
 name: Low
@@ -59,6 +62,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1994-07-02'
+release_year: 1993
+runtime: 276131
 ---
 Sometimes I wanna take you down
 Sometime I wanna get you low

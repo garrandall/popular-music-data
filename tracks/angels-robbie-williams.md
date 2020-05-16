@@ -1,8 +1,11 @@
 ---
+album: The Ego Has Landed
 artists:
 - Robbie Williams
+external_ids:
+  spotify: spotify:track:7CKbqqrs0AS1si1ZgaQdcj
 features: []
-genres: []
+first_released_as_single: true
 key: angels-robbie-williams
 lyrics_url: https://www.azlyrics.com/lyrics/robbiewilliams/angels.html
 name: Angels
@@ -83,8 +86,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2000-03-25'
+release_year: 1997
+runtime: 265333
 ---
-
 I sit and wait
 Does an angel contemplate my fate
 And do they know
@@ -128,4 +132,3 @@ Wherever it may take me
 I know that life won't break me
 When I come to call she won't forsake me
 I'm loving angels instead
-

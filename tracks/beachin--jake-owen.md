@@ -1,8 +1,11 @@
 ---
+album: Days of Gold
 artists:
 - Jake Owen
+external_ids:
+  spotify: spotify:track:5dNGORzxFb5z3v7vSAFkTU
 features: []
-genres: []
+first_released_as_single: false
 key: beachin--jake-owen
 lyrics_url: https://www.azlyrics.com/lyrics/jakeowen/beachin.html
 name: Beachin'
@@ -87,8 +90,9 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '2014-08-23'
+release_year: 2013
+runtime: 191040
 ---
-
 So just watchin' her blonde hair, sun burnt, stare at them, white caps rolling over
 Laid back in a thrift store beach chair, droppin' limes in a Corona
 Well, she looks back, yeah, she throws me a kiss, like "Honey, I sure want you."
@@ -125,6 +129,3 @@ Beachin'
 
 Sunshine, blue eyes, tan lines, slow tide rollin'
 White sand, cold can, koozie in my hand
-
-
-

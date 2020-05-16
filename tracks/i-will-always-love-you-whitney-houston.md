@@ -1,8 +1,11 @@
 ---
+album: The Bodyguard - Original Soundtrack Album
 artists:
 - Whitney Houston
+external_ids:
+  spotify: spotify:track:4eHbdreAnSOrDDsFfc4Fpm
 features: []
-genres: []
+first_released_as_single: false
 key: i-will-always-love-you-whitney-houston
 lyrics_url: https://genius.com/Whitney-houston-i-will-always-love-you-lyrics
 name: I Will Always Love You
@@ -123,6 +126,8 @@ rankings:
   rank: 30
   ranking_list: Billboard Hot 100
   start_date: '2012-03-10'
+release_year: 1992
+runtime: 271093
 ---
 If I should stay
 I would only be in your way

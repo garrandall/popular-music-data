@@ -1,10 +1,13 @@
 ---
+album: This Is Me...Then
 artists:
 - Jennifer Lopez
+external_ids:
+  spotify: spotify:track:4ZOyH6KjomjlqCz3oFqglr
 features:
 - Styles
 - Jadakiss
-genres: []
+first_released_as_single: false
 key: jenny-from-the-block-jennifer-lopez-styles-jadakiss
 lyrics_url: https://www.musixmatch.com/lyrics/Jennifer-Lopez-feat-Jadakiss-Styles/Jenny-From-the-Block
 name: Jenny From The Block
@@ -89,6 +92,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2003-02-22'
+release_year: 2002
+runtime: 187840
 ---
 Children growing, women producing
 Men go work, and some go stealing

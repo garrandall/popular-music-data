@@ -1,9 +1,12 @@
 ---
+album: Blood, Sweat & 3 Years
 artists:
 - Cash Cash
+external_ids:
+  spotify: spotify:track:7iT98FhZ7BAE8xdCxBlw55
 features:
 - Bebe Rexha
-genres: []
+first_released_as_single: true
 key: take-me-home-cash-cash-bebe-rexha
 lyrics_url: https://www.azlyrics.com/lyrics/cashcash/takemehome.html
 name: Take Me Home
@@ -60,8 +63,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2014-04-26'
+release_year: 2013
+runtime: 206320
 ---
-
 I'm falling to pieces
 But I need this
 Yeah, I need this
@@ -114,6 +118,3 @@ Take me
 
 Take me, I still stay, oh, won't you take me home
 Take me home.
-
-
-

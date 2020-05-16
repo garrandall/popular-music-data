@@ -1,8 +1,11 @@
 ---
+album: Live From Batley Variety Club
 artists:
 - Roy Orbison
+external_ids:
+  spotify: spotify:track:3HZMEIZY9Z6GdhPaG5bAK2
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-over-roy-orbison
 lyrics_url: https://genius.com/Roy-orbison-its-over-lyrics
 name: It's Over
@@ -51,6 +54,8 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '1964-06-20'
+release_year: 1962
+runtime: 181666
 ---
 Your baby doesn't love you anymore
 Golden days before they end

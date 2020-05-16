@@ -1,8 +1,11 @@
 ---
+album: Battle Of The Sexes
 artists:
 - Ludacris
+external_ids:
+  spotify: spotify:track:1WtTLtofvcjQM3sXSMkDdX
 features: []
-genres: []
+first_released_as_single: false
 key: how-low-ludacris
 lyrics_url: https://genius.com/Ludacris-how-low-lyrics
 name: How Low
@@ -91,6 +94,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '2010-05-15'
+release_year: 2009
+runtime: 201586
 ---
 How low can you go? How low can you go?
 How low can you go? How low can you go?

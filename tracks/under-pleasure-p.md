@@ -1,8 +1,11 @@
 ---
+album: The Introduction of Marcus Cooper
 artists:
 - Pleasure P
+external_ids:
+  spotify: spotify:track:48TPQWN8wy8vgJ0rKWM0z3
 features: []
-genres: []
+first_released_as_single: false
 key: under-pleasure-p
 lyrics_url: https://genius.com/Pleasure-p-under-lyrics
 name: Under
@@ -47,6 +50,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2009-11-14'
+release_year: 2009
+runtime: 231160
 ---
 Callin' my river to let her know
 I'mma be on my way

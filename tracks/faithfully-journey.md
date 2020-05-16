@@ -1,8 +1,11 @@
 ---
+album: Frontiers
 artists:
 - Journey
+external_ids:
+  spotify: spotify:track:1Xrhbz98sBHxQi255oXH9C
 features: []
-genres: []
+first_released_as_single: false
 key: faithfully-journey
 lyrics_url: https://www.azlyrics.com/lyrics/journey/faithfully.html
 name: Faithfully
@@ -71,8 +74,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1983-07-30'
+release_year: 1975
+runtime: 267933
 ---
-
 Highway run
 Into the midnight sun
 Wheels go round and round
@@ -113,6 +117,3 @@ I'm still yours
 I'm forever yours
 Ever yours
 Faithfully
-
-
-

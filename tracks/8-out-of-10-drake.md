@@ -1,8 +1,11 @@
 ---
+album: Scorpion
 artists:
 - Drake
+external_ids:
+  spotify: spotify:track:0zqy3ss4CwD6u4QPksS0nI
 features: []
-genres: []
+first_released_as_single: false
 key: 8-out-of-10-drake
 lyrics_url: https://www.azlyrics.com/lyrics/drake/8outof10.html
 name: 8 Out Of 10
@@ -19,8 +22,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2018-07-28'
+release_year: 2018
+runtime: 195720
 ---
-
 Too rich for who? Y'all just got rich again
 Who grips the mic and likes to kill they friends?
 I never been the type to make amends
@@ -94,6 +98,3 @@ I don't get paid to argue with you
 No! Who is you?
 You ain't nobody
 You mad!
-
-
-

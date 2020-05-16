@@ -1,8 +1,11 @@
 ---
+album: Chocolate Factory
 artists:
 - R. Kelly
+external_ids:
+  spotify: spotify:track:7lrAsaTw9CTh5uSr0fvHOd
 features: []
-genres: []
+first_released_as_single: false
 key: step-in-the-name-of-love-r--kelly
 lyrics_url: https://genius.com/R-kelly-step-in-the-name-of-love-lyrics
 name: Step In The Name Of Love
@@ -115,6 +118,8 @@ rankings:
   rank: 37
   ranking_list: Billboard Hot 100
   start_date: '2004-02-21'
+release_year: 2003
+runtime: 432146
 ---
 Many lovers has come, and
 Many lovers have gone

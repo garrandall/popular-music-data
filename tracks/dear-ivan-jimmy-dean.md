@@ -1,8 +1,11 @@
 ---
+album: 'Jimmy Dean: All-Time Greatest Hits'
 artists:
 - Jimmy Dean
+external_ids:
+  spotify: spotify:track:6IF7vSafOdYl8zbCnCjkNy
 features: []
-genres: []
+first_released_as_single: false
 key: dear-ivan-jimmy-dean
 lyrics_url: https://genius.com/Jimmy-dean-dear-ivan-lyrics
 name: Dear Ivan
@@ -35,6 +38,8 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '1962-02-17'
+release_year: 1961
+runtime: 230933
 ---
 Dear daughter, I tiptoed in your room tonight and I looked down at
 You smilin' in your sleep. You were so lovely my heart nearly broke;

@@ -1,8 +1,11 @@
 ---
+album: Notorious
 artists:
 - Duran Duran
+external_ids:
+  spotify: spotify:track:2YdD7ItiVKXKpr5aQjeCTk
 features: []
-genres: []
+first_released_as_single: false
 key: meet-el-presidente-duran-duran
 lyrics_url: https://www.azlyrics.com/lyrics/duranduran/meetelpresidente.html
 name: Meet El Presidente
@@ -27,8 +30,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1987-05-30'
+release_year: 1986
+runtime: 260226
 ---
-
 Miss November Tuesday,
 Bend your rubber rules.
 Take your time, but don't take
@@ -72,4 +76,3 @@ For this production
 They gave her a gun.
 Ain't no director--
 So watch out actors!
-

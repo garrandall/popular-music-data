@@ -1,8 +1,11 @@
 ---
+album: Wild Weekend
 artists:
 - The Rebels
+external_ids:
+  spotify: spotify:track:6wsSItRzNdCIKHslDRk7rD
 features: []
-genres: []
+first_released_as_single: false
 key: wild-weekend-the-rebels
 lyrics_url: https://genius.com/The-rockin-rebels-wild-weekend-lyrics
 name: Wild Weekend
@@ -75,6 +78,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1963-04-20'
+release_year: 1962
+runtime: 138346
 ---
 Pd... Musik: Russ Hallett; Aldo Brozzetti; and Jack Sinchaski ℗1963 ...Pd
 Pd... ®ReRec1963; Us Ht#8 ...Pd

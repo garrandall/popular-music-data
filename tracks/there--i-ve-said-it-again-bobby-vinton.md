@@ -1,8 +1,11 @@
 ---
+album: There I've Said It Again
 artists:
 - Bobby Vinton
+external_ids:
+  spotify: spotify:track:6Scrggc1xNuIKYWdsftodj
 features: []
-genres: []
+first_released_as_single: false
 key: there--i-ve-said-it-again-bobby-vinton
 lyrics_url: https://genius.com/Bobby-vinton-there-ive-said-it-again-lyrics
 name: There! I've Said It Again
@@ -59,6 +62,8 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '1964-02-22'
+release_year: 1962
+runtime: 140666
 ---
 I love you, there's nothing to hide
 It's better than burning inside

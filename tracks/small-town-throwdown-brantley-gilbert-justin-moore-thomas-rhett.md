@@ -1,10 +1,13 @@
 ---
+album: Just As I Am
 artists:
 - Brantley Gilbert
+external_ids:
+  spotify: spotify:track:3JUT20Ycry03hgIbMSSBzV
 features:
 - Justin Moore
 - Thomas Rhett
-genres: []
+first_released_as_single: false
 key: small-town-throwdown-brantley-gilbert-justin-moore-thomas-rhett
 lyrics_url: https://genius.com/Brantley-gilbert-small-town-throwdown-lyrics
 name: Small Town Throwdown
@@ -89,6 +92,8 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '2014-11-08'
+release_year: 2014
+runtime: 201680
 ---
 Oh son
 

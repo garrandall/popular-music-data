@@ -1,8 +1,11 @@
 ---
+album: Thirds
 artists:
 - James Gang
+external_ids:
+  spotify: spotify:track:3jWeD82HOwB25ub77Qguvv
 features: []
-genres: []
+first_released_as_single: false
 key: midnight-man-james-gang
 lyrics_url: https://www.azlyrics.com/lyrics/jamesgang/midnightman.html
 name: Midnight Man
@@ -23,8 +26,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1971-10-30'
+release_year: 1971
+runtime: 209093
 ---
-
 I'm the midnight man
 I do what I can
 To make sure that I am
@@ -41,6 +45,3 @@ Midnight man, you're fine
 Midnight man, be careful
 Midnight man
 Midnight man, be mine
-
-
-

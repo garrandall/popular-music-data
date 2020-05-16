@@ -1,8 +1,11 @@
 ---
+album: Firehouse
 artists:
 - Firehouse
+external_ids:
+  spotify: spotify:track:2kDH08boXJyhKMl5hnZbrE
 features: []
-genres: []
+first_released_as_single: false
 key: love-of-a-lifetime-firehouse
 lyrics_url: https://www.azlyrics.com/lyrics/firehouse/loveofalifetime.html
 name: Love Of A Lifetime
@@ -95,8 +98,9 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '1991-11-23'
+release_year: 1990
+runtime: 286573
 ---
-
 I guess the time was right for us to say
 We'd take our time and live our lives
 Together day by day
@@ -134,6 +138,3 @@ Love of a lifetime (I finally found the love of a lifetime)
 I finally found the love (I finally found the love of a lifetime)
 Oh forever in my heart
 I finally found the love of a lifetime, oh
-
-
-

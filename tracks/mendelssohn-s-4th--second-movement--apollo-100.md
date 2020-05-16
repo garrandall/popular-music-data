@@ -1,8 +1,11 @@
 ---
+album: Joy
 artists:
 - Apollo 100
+external_ids:
+  spotify: spotify:track:2pRsXZPQnQKqt8YbQZa7ap
 features: []
-genres: []
+first_released_as_single: false
 key: mendelssohn-s-4th--second-movement--apollo-100
 name: Mendelssohn's 4th (Second Movement)
 rankings:
@@ -18,5 +21,7 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1972-04-29'
+release_year: 1972
+runtime: 158741
 ---
 

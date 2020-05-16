@@ -1,8 +1,11 @@
 ---
+album: Tha Carter III
 artists:
 - Lil Wayne
+external_ids:
+  spotify: spotify:track:7k97NZTpES8UV88YahNgEB
 features: []
-genres: []
+first_released_as_single: false
 key: 3-peat-lil-wayne
 lyrics_url: https://www.azlyrics.com/lyrics/lilwayne/3peat.html
 name: 3 Peat
@@ -11,10 +14,11 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '2008-06-28'
+release_year: 2008
+runtime: 199426
 ---
-
 Yes sir!
-They can't stop me...even if they stopped me ha ha ha yea
+They can't stop me... even if they stopped me ha ha ha yea
 
 I'm on it ohI'm on it I'm so on it and however you want it
 You can get it tonight hoe
@@ -95,6 +99,3 @@ So retreat
 Or suffer defeat
 I'm back 3 Peat
 C3
-
-
-

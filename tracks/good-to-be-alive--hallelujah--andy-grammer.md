@@ -1,8 +1,11 @@
 ---
+album: Magazines Or Novels
 artists:
 - Andy Grammer
+external_ids:
+  spotify: spotify:track:41LGnsm9rkjSs3UTNMLZy2
 features: []
-genres: []
+first_released_as_single: true
 key: good-to-be-alive--hallelujah--andy-grammer
 lyrics_url: https://www.azlyrics.com/lyrics/andygrammer/goodtobealivehallelujah.html
 name: Good To Be Alive (Hallelujah)
@@ -47,8 +50,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2016-03-05'
+release_year: 2015
+runtime: 189098
 ---
-
 Uh huh
 Uh huh
 Oh
@@ -111,6 +115,3 @@ Good, good, good, good to be alive right about now
 Good, good, good, good to be alive right about now
 Good, good, good, good to be alive right about now
 Alright
-
-
-

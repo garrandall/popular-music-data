@@ -1,9 +1,12 @@
 ---
+album: Significant Other
 artists:
 - Limp Bizkit
+external_ids:
+  spotify: spotify:track:5SEBSAio1N77Vbrj1cAEGb
 features:
 - Method Man
-genres: []
+first_released_as_single: false
 key: n-2-gether-now-limp-bizkit-method-man
 lyrics_url: https://www.azlyrics.com/lyrics/limpbizkit/n2gethernow.html
 name: N 2 Gether Now
@@ -52,9 +55,10 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2000-02-12'
+release_year: 1999
+runtime: 289866
 ---
-
- Who can be the boss? 
+Who can be the boss? 
 Look up to the cross 
 Stranded in the land of the lost 
 Standin up, I'm sideways 
@@ -200,6 +204,3 @@ You guys feel it out there?
 Check your head if you feel it 
 Hey, hey, hey 
 Every day is brigther than the next day, at least that's what you think
-
-
-

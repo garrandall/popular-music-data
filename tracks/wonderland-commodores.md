@@ -1,8 +1,11 @@
 ---
+album: Midnight Magic
 artists:
 - Commodores
+external_ids:
+  spotify: spotify:track:1drgQiDzoxUuLembCMcZ5T
 features: []
-genres: []
+first_released_as_single: false
 key: wonderland-commodores
 lyrics_url: https://www.azlyrics.com/lyrics/commodores/wonderland.html
 name: Wonderland
@@ -67,8 +70,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1980-03-22'
+release_year: 1979
+runtime: 327160
 ---
-
 Hello, honey, this is your lucky day
 I've come to take you far, far away
 We'll use love as our guide to the stars
@@ -102,6 +106,3 @@ Whoa, girl, let me take you to a (Wonderland)
 Got so many thing we can do, girl
 (It's for you, it's for me, that's how it's gonna be in Wonderland)
 (It's for you, it's for me, that's how it's gonna be in Wonderland)
-
-
-

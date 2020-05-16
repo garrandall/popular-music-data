@@ -1,8 +1,11 @@
 ---
+album: All That You Can't Leave Behind
 artists:
 - U2
+external_ids:
+  spotify: spotify:track:3xjTuTBaihydhSC7ByNoSb
 features: []
-genres: []
+first_released_as_single: false
 key: stuck-in-a-moment-you-can-t-get-out-of-u2
 lyrics_url: https://genius.com/U2-stuck-in-a-moment-you-cant-get-out-of-lyrics
 name: Stuck In A Moment You Can't Get Out Of
@@ -87,6 +90,8 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '2002-02-09'
+release_year: 2000
+runtime: 271800
 ---
 I'm not afraid
 Of anything in this world

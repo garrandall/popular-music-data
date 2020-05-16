@@ -1,8 +1,11 @@
 ---
+album: Hooray For Boobies
 artists:
 - Bloodhound Gang
+external_ids:
+  spotify: spotify:track:2TBMK0ADywam6eVOXWL9Or
 features: []
-genres: []
+first_released_as_single: true
 key: the-bad-touch-bloodhound-gang
 lyrics_url: https://www.azlyrics.com/lyrics/bloodhoundgang/thebadtouch.html
 name: The Bad Touch
@@ -55,8 +58,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2000-06-03'
+release_year: 1999
+runtime: 260653
 ---
-
 Ha-Ha! Well now, we call this the act of mating
 But there are several other very important differences
 Between human beings and animals that you should know about
@@ -109,6 +113,3 @@ Do it again now
 You and me baby ain't nothin' but mammals
 So let's do it like they do on the Discovery Channel
 Gettin' horny now
-
-
-

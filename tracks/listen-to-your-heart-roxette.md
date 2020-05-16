@@ -1,8 +1,11 @@
 ---
+album: Look Sharp!
 artists:
 - Roxette
+external_ids:
+  spotify: spotify:track:1qIKynV6YQZgocodkPdCy7
 features: []
-genres: []
+first_released_as_single: false
 key: listen-to-your-heart-roxette
 lyrics_url: https://www.azlyrics.com/lyrics/roxette/listentoyourheart.html
 name: Listen To Your Heart
@@ -95,8 +98,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1990-01-20'
+release_year: 1988
+runtime: 328093
 ---
-
 I know there's something in the wake of your smile.
 I get a notion from the look in your eyes, yea.
 You've built a love but that love falls apart.
@@ -161,6 +165,3 @@ Listen to your heart
 Take a listen to your heart
 Take a
 Take a listen to your heart
-
-
-

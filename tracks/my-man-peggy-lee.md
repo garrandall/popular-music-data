@@ -1,8 +1,11 @@
 ---
+album: I Like Men!
 artists:
 - Peggy Lee
+external_ids:
+  spotify: spotify:track:3F3aJ3XGjPmLr7kGTe98aA
 features: []
-genres: []
+first_released_as_single: false
 key: my-man-peggy-lee
 lyrics_url: https://genius.com/Peggy-lee-my-man-1995-remaster-lyrics
 name: My Man
@@ -31,6 +34,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1959-03-02'
+release_year: 1959
+runtime: 133333
 ---
 It cost me a lot
 But there's one thing that I've got

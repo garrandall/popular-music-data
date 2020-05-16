@@ -1,9 +1,12 @@
 ---
+album: Scouts Honor By Way Of Blood (Non-PA Version)
 artists:
 - Rampage
+external_ids:
+  spotify: spotify:track:65ixMuOsB8YCPwnODWJvKa
 features:
 - Billy Lawrence
-genres: []
+first_released_as_single: false
 key: take-it-to-the-streets-rampage-billy-lawrence
 lyrics_url: https://genius.com/Rampage-take-it-to-the-streets-lyrics
 name: Take It To The Streets
@@ -76,6 +79,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1997-11-08'
+release_year: 1997
+runtime: 217906
 ---
 Rock on, rock on, rock on...
 

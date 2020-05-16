@@ -1,8 +1,11 @@
 ---
+album: Welcome To Our World
 artists:
 - Mass Production
+external_ids:
+  spotify: spotify:track:0sQ4OcMgLkLahjZ3D1D4OU
 features: []
-genres: []
+first_released_as_single: false
 key: welcome-to-our-world--of-merry-music--mass-production
 name: Welcome To Our World (Of Merry Music)
 rankings:
@@ -22,5 +25,7 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '1977-03-12'
+release_year: 1976
+runtime: 452920
 ---
 

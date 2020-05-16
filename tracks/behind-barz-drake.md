@@ -1,8 +1,11 @@
 ---
+album: Top Boy (A Selection of Music Inspired by the Series)
 artists:
 - Drake
+external_ids:
+  spotify: spotify:track:5r7WvQtyPfy1xch5zMgGRp
 features: []
-genres: []
+first_released_as_single: false
 key: behind-barz-drake
 lyrics_url: https://www.azlyrics.com/lyrics/drake/behindbarzlinkuptvfreestyle.html
 name: Behind Barz
@@ -15,8 +18,9 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '2019-10-05'
+release_year: 2019
+runtime: 163120
 ---
-
 Yeah
 Link Up TV, Behind Barz
 Big up man like Rashid, Joey, Tadas
@@ -98,6 +102,3 @@ I'ma just end that there, that's that
 Yeah, Link Up TV
 Drizzy Drake
 Maddas, jheeze
-
-
-

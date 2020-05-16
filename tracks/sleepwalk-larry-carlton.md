@@ -1,8 +1,11 @@
 ---
+album: Sleepwalk
 artists:
 - Larry Carlton
+external_ids:
+  spotify: spotify:track:7mNV6DQo3Pkvw305WQs9XV
 features: []
-genres: []
+first_released_as_single: false
 key: sleepwalk-larry-carlton
 name: Sleepwalk
 rankings:
@@ -38,5 +41,7 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1982-04-17'
+release_year: 1982
+runtime: 275226
 ---
 

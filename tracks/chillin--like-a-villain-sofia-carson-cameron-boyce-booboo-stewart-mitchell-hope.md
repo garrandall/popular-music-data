@@ -1,11 +1,14 @@
 ---
+album: Descendants 2 (Original TV Movie Soundtrack)
 artists:
 - Sofia Carson
 - Cameron Boyce
 - Booboo Stewart
 - Mitchell Hope
+external_ids:
+  spotify: spotify:track:1rM0CnyUiiw6A9CHJRXjZA
 features: []
-genres: []
+first_released_as_single: false
 key: chillin--like-a-villain-sofia-carson-cameron-boyce-booboo-stewart-mitchell-hope
 lyrics_url: https://www.azlyrics.com/lyrics/sofiacarson/chillinlikeavillain.html
 name: Chillin' Like A Villain
@@ -14,8 +17,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2017-08-26'
+release_year: 2017
+runtime: 193792
 ---
-
 Let me tell you something you can really trust
 Everybody's got a wicked side
 I know you think that you could never be like us
@@ -92,6 +96,3 @@ Chillin' like a villain (chillin')
 Chillin' like a villain (chillin')
 Chillin' like a villain (chillin')
 Chillin' like a villain
-
-
-

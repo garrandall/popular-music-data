@@ -1,8 +1,11 @@
 ---
+album: Above The Rim
 artists:
 - Sweet Sable
+external_ids:
+  spotify: spotify:track:4gD0RVC0bxf8mhXKkjABft
 features: []
-genres: []
+first_released_as_single: false
 key: old-times--sake-sweet-sable
 lyrics_url: https://www.musixmatch.com/lyrics/Sweet-Sable/Old-Time-s-Sake
 name: Old Times' Sake
@@ -19,6 +22,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1994-05-28'
+release_year: 1994
+runtime: 259040
 ---
 I know a place where we could go outside and have some fun
 Just you and me, together we are one on one

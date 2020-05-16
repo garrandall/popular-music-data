@@ -1,8 +1,11 @@
 ---
+album: Two Teardrops
 artists:
 - Steve Wariner
+external_ids:
+  spotify: spotify:track:2UiLR0Qwg4UABC4eHYHxH7
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-already-taken-steve-wariner
 lyrics_url: https://genius.com/Steve-wariner-im-already-taken-lyrics
 name: I'm Already Taken
@@ -63,6 +66,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1999-12-11'
+release_year: 1999
+runtime: 200666
 ---
 My little third grade hand wrote I love you
 On a note of yellow paper

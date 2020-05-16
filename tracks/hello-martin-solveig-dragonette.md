@@ -1,9 +1,12 @@
 ---
+album: Smash
 artists:
 - Martin Solveig
 - Dragonette
+external_ids:
+  spotify: spotify:track:4Ch7K8Ud1pS2uB3Xa1zjOq
 features: []
-genres: []
+first_released_as_single: true
 key: hello-martin-solveig-dragonette
 lyrics_url: https://www.azlyrics.com/lyrics/martinsolveig/hello.html
 name: Hello
@@ -88,8 +91,9 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '2011-09-03'
+release_year: 2010
+runtime: 281589
 ---
-
 I could stick around and get along with you 
 Hello 
 It doesn't really mean that I'm into you 
@@ -146,6 +150,3 @@ Kinda like this thing but there's something you should know
 I just came to say hello 
 
 Hey
-
-
-

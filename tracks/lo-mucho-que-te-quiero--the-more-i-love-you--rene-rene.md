@@ -1,9 +1,12 @@
 ---
+album: Lo Mucho Que Te Quiero
 artists:
 - Rene
 - Rene
+external_ids:
+  spotify: spotify:track:67axT1JUxXAEGKQU9Z9QeL
 features: []
-genres: []
+first_released_as_single: false
 key: lo-mucho-que-te-quiero--the-more-i-love-you--rene-rene
 lyrics_url: https://genius.com/Rene-rene-lo-mucho-que-te-quiero-lyrics
 name: Lo Mucho Que Te Quiero (The More I Love You)
@@ -56,6 +59,8 @@ rankings:
   rank: 27
   ranking_list: Billboard Hot 100
   start_date: '1969-02-08'
+release_year: 1968
+runtime: 195693
 ---
 Quisiera que supieres vida mia
 Lo mucho que to quiero y que te adoro

@@ -1,8 +1,11 @@
 ---
+album: Van Halen
 artists:
 - Van Halen
+external_ids:
+  spotify: spotify:track:7mDQWsUOZcWtxSBHXRRsRK
 features: []
-genres: []
+first_released_as_single: true
 key: you-really-got-me-van-halen
 lyrics_url: https://genius.com/Van-halen-you-really-got-me-lyrics
 name: You Really Got Me
@@ -51,6 +54,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1978-04-08'
+release_year: 1978
+runtime: 157280
 ---
 Girl, you really got me now
 You got me so I don't know what I'm doin'

@@ -1,8 +1,11 @@
 ---
+album: Because I Said So (Music From And Inspired By The Motion Picture)
 artists:
 - The Honey Cone
+external_ids:
+  spotify: spotify:track:3YpN9pvaTXKSXurj3HBq8M
 features: []
-genres: []
+first_released_as_single: false
 key: want-ads-the-honey-cone
 lyrics_url: https://www.azlyrics.com/lyrics/honeycone/wantads.html
 name: Want Ads
@@ -71,8 +74,9 @@ rankings:
   rank: 38
   ranking_list: Billboard Hot 100
   start_date: '1971-07-24'
+release_year: 1971
+runtime: 166386
 ---
-
 Wanted, young man single and free
 Experience in love preferred, but will accept a young trainee
 Oh I'm gonna put it in the want ads, I need a love that's true
@@ -111,6 +115,3 @@ Gonna put it in the want ads, I need somebody new
 Gonna put it in the want ads, my man and I are through
 Gonna put it in the want ads, this girl's in misery
 Gonna put it in the want ads, please some...
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Nice Baby and The Angel
 artists:
 - David Blue
+external_ids:
+  spotify: spotify:track:6X6o9mmX7P9adZMDY2SLOw
 features: []
-genres: []
+first_released_as_single: false
 key: outlaw-man-david-blue
 name: Outlaw Man
 rankings:
@@ -22,5 +25,7 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1973-06-02'
+release_year: 1973
+runtime: 169720
 ---
 

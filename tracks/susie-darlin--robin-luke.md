@@ -1,8 +1,11 @@
 ---
+album: The Wonderful World of the 50's - 100 Hit Songs
 artists:
 - Robin Luke
+external_ids:
+  spotify: spotify:track:6fb0Yo4q22mmf0XCkIh2dO
 features: []
-genres: []
+first_released_as_single: false
 key: susie-darlin--robin-luke
 lyrics_url: https://genius.com/Robin-luke-susie-darlin-lyrics
 name: Susie Darlin'
@@ -75,6 +78,8 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1958-12-01'
+release_year: 1958
+runtime: 153920
 ---
 I stood a-watchin' all night long
 I stood a-watchin' all night long

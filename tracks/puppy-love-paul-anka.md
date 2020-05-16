@@ -1,8 +1,11 @@
 ---
+album: Excitement on Park Avenue, Live at the Waldorf-Astoria
 artists:
 - Paul Anka
+external_ids:
+  spotify: spotify:track:6PwgMjWyQJBryRlXiPVXDM
 features: []
-genres: []
+first_released_as_single: false
 key: puppy-love-paul-anka
 lyrics_url: https://genius.com/Paul-anka-puppy-love-lyrics
 name: Puppy Love
@@ -63,6 +66,8 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '1960-05-23'
+release_year: 1960
+runtime: 263000
 ---
 And they called it puppy love
 Oh I guess they'll never know

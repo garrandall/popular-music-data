@@ -1,8 +1,11 @@
 ---
+album: Point Of Know Return
 artists:
 - Kansas
+external_ids:
+  spotify: spotify:track:4g6WmqSDwomEt0DNc2T5ot
 features: []
-genres: []
+first_released_as_single: false
 key: dust-in-the-wind-kansas
 lyrics_url: https://www.azlyrics.com/lyrics/kansas/dustinthewind.html
 name: Dust In The Wind
@@ -87,8 +90,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1978-06-10'
+release_year: 1975
+runtime: 205053
 ---
-
 I close my eyes
 Only for a moment, and the moment's gone
 All my dreams
@@ -117,6 +121,3 @@ Dust in the wind
 (Everything is dust in the wind)
 Everything is dust in the wind
 (In the wind)
-
-
-

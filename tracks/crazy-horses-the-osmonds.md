@@ -1,8 +1,11 @@
 ---
+album: Crazy Horses
 artists:
 - The Osmonds
+external_ids:
+  spotify: spotify:track:6LqbJXriVJyqJCd9jYoPqP
 features: []
-genres: []
+first_released_as_single: false
 key: crazy-horses-the-osmonds
 lyrics_url: https://genius.com/The-osmonds-crazy-horses-lyrics
 name: Crazy Horses
@@ -55,6 +58,8 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '1973-01-06'
+release_year: 1972
+runtime: 153173
 ---
 There's a message floating in the air
 Crazy horses riding everywhere

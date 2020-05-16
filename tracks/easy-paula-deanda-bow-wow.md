@@ -1,9 +1,12 @@
 ---
+album: Total Dance 2008
 artists:
 - Paula DeAnda
+external_ids:
+  spotify: spotify:track:5fpwjYJaChMcMgiFzGcwmv
 features:
 - Bow Wow
-genres: []
+first_released_as_single: false
 key: easy-paula-deanda-bow-wow
 lyrics_url: https://genius.com/Paula-deanda-easy-remix-lyrics
 name: Easy
@@ -52,6 +55,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2007-09-22'
+release_year: 2007
+runtime: 236053
 ---
 Yeah!
 (Yeah, Paula)

@@ -1,8 +1,11 @@
 ---
+album: Door To Door
 artists:
 - The Cars
+external_ids:
+  spotify: spotify:track:0fGxULfiyfL8M4SxwaDLU4
 features: []
-genres: []
+first_released_as_single: false
 key: strap-me-in-the-cars
 lyrics_url: https://genius.com/The-cars-strap-me-in-lyrics
 name: Strap Me In
@@ -23,6 +26,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1987-12-05'
+release_year: 1987
+runtime: 264573
 ---
 Well, you took me for a ride
 You beat me to the gun

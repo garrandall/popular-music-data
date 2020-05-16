@@ -1,8 +1,11 @@
 ---
+album: If You're Reading This It's Too Late
 artists:
 - Drake
+external_ids:
+  spotify: spotify:track:4kdfjhj9xNkYU0R8xlDy8k
 features: []
-genres: []
+first_released_as_single: false
 key: 6-man-drake
 lyrics_url: https://genius.com/Drake-6-man-lyrics
 name: 6 Man
@@ -11,6 +14,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2015-03-07'
+release_year: 2015
+runtime: 167653
 ---
 Yeah, yeah
 

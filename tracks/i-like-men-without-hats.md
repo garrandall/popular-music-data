@@ -1,8 +1,11 @@
 ---
+album: Rhythm Of Youth
 artists:
 - Men Without Hats
+external_ids:
+  spotify: spotify:track:5UFyR8cVjiyIFjOd7PhkBm
 features: []
-genres: []
+first_released_as_single: false
 key: i-like-men-without-hats
 lyrics_url: https://genius.com/Men-without-hats-i-like-lyrics
 name: I Like
@@ -19,6 +22,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1983-11-26'
+release_year: 1983
+runtime: 262920
 ---
 It makes you wonder just who they really are
 They say, "Money is no object, and we've got a car"

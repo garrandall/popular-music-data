@@ -1,8 +1,11 @@
 ---
+album: Future History
 artists:
 - Jason Derulo
+external_ids:
+  spotify: spotify:track:2X42KFgnOSaxOHMG0nDOdj
 features: []
-genres: []
+first_released_as_single: false
 key: fight-for-you-jason-derulo
 lyrics_url: https://www.azlyrics.com/lyrics/jasonderulo/fightforyou.html
 name: Fight For You
@@ -11,8 +14,9 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '2011-10-15'
+release_year: 2011
+runtime: 242173
 ---
-
 It's gonna take a lot to drag me away from you
 There's nothing that a hundred men, or more, could ever do
 Just like the rain down in Africa
@@ -89,6 +93,3 @@ I'd fight for you
 Just like the rain down in Africa
 I'd fight for you
 It's gonna take some time but I know you're worth fighting for
-
-
-

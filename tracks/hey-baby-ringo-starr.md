@@ -1,8 +1,11 @@
 ---
+album: Ringo's Rotogravure
 artists:
 - Ringo Starr
+external_ids:
+  spotify: spotify:track:4qnkbKRdqtTklZMkC3wk1w
 features: []
-genres: []
+first_released_as_single: false
 key: hey-baby-ringo-starr
 lyrics_url: https://www.azlyrics.com/lyrics/ringostarr/heybaby.html
 name: Hey Baby
@@ -19,8 +22,9 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '1977-02-12'
+release_year: 1976
+runtime: 191226
 ---
-
 Hey, hey, baby, I wanna know
 If you'll be my girl;
 Hey, hey, baby, I wanna know
@@ -60,6 +64,3 @@ Hey, (hey, hey) hey baby, I wanna know
 If you'll be my girl.
 
 Hey, (hey) all right, oh!
-
-
-

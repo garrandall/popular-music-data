@@ -1,8 +1,11 @@
 ---
+album: Famous Cryp
 artists:
 - Blueface
+external_ids:
+  spotify: spotify:track:3oh6SCCeLuXhFpEyepla6G
 features: []
-genres: []
+first_released_as_single: false
 key: thotiana-blueface
 lyrics_url: https://genius.com/Blueface-thotiana-lyrics
 name: Thotiana
@@ -87,6 +90,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2019-06-08'
+release_year: 2018
+runtime: 129264
 ---
 Blueface, baby
 Yeah aight

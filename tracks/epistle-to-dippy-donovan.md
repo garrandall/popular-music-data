@@ -1,8 +1,11 @@
 ---
+album: Donovan's Greatest Hits
 artists:
 - Donovan
+external_ids:
+  spotify: spotify:track:59cm6cC5cJYyS6efV0swbP
 features: []
-genres: []
+first_released_as_single: false
 key: epistle-to-dippy-donovan
 lyrics_url: https://www.azlyrics.com/lyrics/donovan/epistletodippy.html
 name: Epistle To Dippy
@@ -35,8 +38,9 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '1967-03-25'
+release_year: 1964
+runtime: 190000
 ---
-
 Look on yonder misty mountain
 See the young monk meditating rhododendron forest
 Over dusty years, I ask you
@@ -80,6 +84,3 @@ Dum dum dum, dum dum, dum dum dum
 Dum dum dum, dum dum, dum dum dum
 Dum dum dum, dum dum, dum dum dum
 Dum dum dum, dum dum, dum dum dum
-
-
-

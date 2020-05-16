@@ -1,8 +1,11 @@
 ---
+album: Infinite
 artists:
 - Eminem
+external_ids:
+  spotify: spotify:track:01xhMrdCefADl7HSttJaf7
 features: []
-genres: []
+first_released_as_single: true
 key: infinite-eminem
 lyrics_url: https://genius.com/Eminem-infinite-lyrics
 name: Infinite
@@ -11,6 +14,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2016-12-10'
+release_year: 1996
+runtime: 251707
 ---
 Aw, yeah (It's like this, like this)
 It's Eminem, baby

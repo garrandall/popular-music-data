@@ -1,8 +1,11 @@
 ---
+album: Symphonic Hits
 artists:
 - The Grass Roots
+external_ids:
+  spotify: spotify:track:7fmkcFIZCKpSVfu8zAJI7j
 features: []
-genres: []
+first_released_as_single: false
 key: glory-bound-the-grass-roots
 lyrics_url: https://www.azlyrics.com/lyrics/grassroots/glorybound.html
 name: Glory Bound
@@ -47,8 +50,9 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1972-04-15'
+release_year: 1972
+runtime: 245413
 ---
-
 All the sun on the outside
 Doesn't touch what I feel within
 When I've got you beside me
@@ -76,6 +80,3 @@ Don't you know that you can
 
 Glory bound to that everlastin' feelin'
 Glory bound, oh I'm never never comin' down
-
-
-

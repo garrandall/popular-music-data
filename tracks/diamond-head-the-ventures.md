@@ -1,8 +1,11 @@
 ---
+album: Walk, Don't Run Vol. 2
 artists:
 - The Ventures
+external_ids:
+  spotify: spotify:track:1hBjIqiezIKgUXN4QIePb8
 features: []
-genres: []
+first_released_as_single: false
 key: diamond-head-the-ventures
 lyrics_url: https://www.musixmatch.com/lyrics/The-Ventures/Diamond-Head-Pipeline
 name: Diamond Head
@@ -19,6 +22,8 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1965-02-13'
+release_year: 1964
+runtime: 126040
 ---
 Sitting on my bed with just a t-shirt on Turning up the volume to my favorite song
 Boy I can't lie

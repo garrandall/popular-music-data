@@ -1,8 +1,11 @@
 ---
+album: Let Them Be Little
 artists:
 - Billy Dean
+external_ids:
+  spotify: spotify:track:1QvCbkLDuF7yX7gIUDJUmp
 features: []
-genres: []
+first_released_as_single: false
 key: let-them-be-little-billy-dean
 lyrics_url: https://www.musixmatch.com/lyrics/Billy-Dean/Let-Them-Be-Little
 name: Let Them Be Little
@@ -51,6 +54,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2005-04-09'
+release_year: 2005
+runtime: 225653
 ---
 I can remember when you fit in the palm of my hand.
 You felt so good in it; no bigger than a minute.

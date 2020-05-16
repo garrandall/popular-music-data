@@ -1,8 +1,11 @@
 ---
+album: Peter, Paul And Mommy
 artists:
 - Peter, Paul, and Mary
+external_ids:
+  spotify: spotify:track:0Qgn91ZestsloqP5er8LcD
 features: []
-genres: []
+first_released_as_single: false
 key: day-is-done-peter-paul-and-mary
 lyrics_url: https://genius.com/Peter-paul-and-mary-day-is-done-lyrics
 name: Day Is Done
@@ -47,6 +50,8 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '1969-06-28'
+release_year: 1969
+runtime: 196826
 ---
 Tell me why you're crying, my son
 I know you're frightened, like everyone

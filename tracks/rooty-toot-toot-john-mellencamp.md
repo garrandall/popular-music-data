@@ -1,8 +1,11 @@
 ---
+album: The Lonesome Jubilee
 artists:
 - John Mellencamp
+external_ids:
+  spotify: spotify:track:3GwtJVyiwj5SSOvLcxWcu6
 features: []
-genres: []
+first_released_as_single: false
 key: rooty-toot-toot-john-mellencamp
 lyrics_url: https://www.azlyrics.com/lyrics/johnmellencamp/rootytoottoot.html
 name: Rooty Toot Toot
@@ -39,8 +42,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1988-07-02'
+release_year: 1987
+runtime: 209373
 ---
-
 Got my hands on a little bit of dough
 So I went to the grocery store
 And got some steaks to go
@@ -84,4 +88,3 @@ He said, You're on private property
 But once he cooled down he was ok
 Sometimes you're golden, man
 That's all I got to say
-

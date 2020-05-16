@@ -1,8 +1,11 @@
 ---
+album: My Turn
 artists:
 - Lil Baby
+external_ids:
+  spotify: spotify:track:2XEsbmynS9dLSzNSuZzfXF
 features: []
-genres: []
+first_released_as_single: false
 key: same-thing-lil-baby
 lyrics_url: https://genius.com/Lil-baby-same-thing-lyrics
 name: Same Thing
@@ -11,6 +14,8 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '2020-03-14'
+release_year: 2020
+runtime: 162791
 ---
 (Tay Keith, fuck these niggas up)
 

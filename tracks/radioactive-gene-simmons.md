@@ -1,8 +1,11 @@
 ---
+album: Gene Simmons
 artists:
 - Gene Simmons
+external_ids:
+  spotify: spotify:track:7vuY5BAa62myydewdpOBaG
 features: []
-genres: []
+first_released_as_single: false
 key: radioactive-gene-simmons
 lyrics_url: https://genius.com/Gene-simmons-radioactive-lyrics
 name: Radioactive
@@ -39,6 +42,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1979-01-20'
+release_year: 1978
+runtime: 231040
 ---
 You're my food, you're my water
 You've got to be the devil's daughter

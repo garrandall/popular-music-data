@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music, Volume 2'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:5uir0D2kSUtWug1kK8HUkb
 features: []
-genres: []
+first_released_as_single: false
 key: lean-on-me-glee-cast
 lyrics_url: https://www.azlyrics.com/lyrics/gleecast/leanonme.html
 name: Lean On Me
@@ -11,8 +14,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2009-12-05'
+release_year: 2009
+runtime: 257240
 ---
-
 Sometimes in our lives
 We all have pain
 We all have sorrow
@@ -95,6 +99,3 @@ You can lean on me
 I'm gonna need (somebody) somebody to lean on
 I'm gonna need somebody to lean on
 (somebody to lean on)
-
-
-

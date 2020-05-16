@@ -1,8 +1,11 @@
 ---
+album: Pictures For Pleasure
 artists:
 - Charlie Sexton
+external_ids:
+  spotify: spotify:track:6LQvtsFHnhn28rW4qU8UTB
 features: []
-genres: []
+first_released_as_single: false
 key: beat-s-so-lonely-charlie-sexton
 lyrics_url: https://genius.com/Charlie-sexton-beats-so-lonely-lyrics
 name: Beat's So Lonely
@@ -87,6 +90,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1986-04-26'
+release_year: 1985
+runtime: 316773
 ---
 Beat's so lonely
 I bet it's lonely at the top

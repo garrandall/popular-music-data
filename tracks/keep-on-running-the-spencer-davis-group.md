@@ -1,8 +1,11 @@
 ---
+album: The Second Album (Mono Version)
 artists:
 - The Spencer Davis Group
+external_ids:
+  spotify: spotify:track:7075xm8gIgz2nyBvsFJ4GR
 features: []
-genres: []
+first_released_as_single: true
 key: keep-on-running-the-spencer-davis-group
 lyrics_url: https://genius.com/The-spencer-davis-group-keep-on-running-lyrics
 name: Keep On Running
@@ -23,6 +26,8 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1966-03-26'
+release_year: 1965
+runtime: 166573
 ---
 Keep on running, keep on hiding
 One fine day I'm gonna be the one

@@ -1,8 +1,11 @@
 ---
+album: Carolyne Mas
 artists:
 - Carolyne Mas
+external_ids:
+  spotify: spotify:track:3Qcw8gA6BhdhgA0HQ3S7xP
 features: []
-genres: []
+first_released_as_single: false
 key: stillsane-carolyne-mas
 lyrics_url: https://genius.com/Carolyne-mas-stillsane-lyrics
 name: Stillsane
@@ -27,6 +30,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1979-10-06'
+release_year: 1979
+runtime: 165834
 ---
 Oh, you had me crying
 Tears upon your pillow

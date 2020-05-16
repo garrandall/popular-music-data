@@ -1,8 +1,11 @@
 ---
+album: Steel Wheels (Remastered 2009)
 artists:
 - The Rolling Stones
+external_ids:
+  spotify: spotify:track:2r41JRUZ5Cjcx98ARVI0vo
 features: []
-genres: []
+first_released_as_single: false
 key: almost-hear-you-sigh-the-rolling-stones
 lyrics_url: https://www.azlyrics.com/lyrics/rollingstones/almosthearyousigh.html
 name: Almost Hear You Sigh
@@ -43,8 +46,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1990-04-07'
+release_year: 1989
+runtime: 277466
 ---
-
 I can almost hear you sigh
 I can almost hear you cry
 On every crowded street
@@ -82,6 +86,3 @@ When you make sweet love to me
 Almost see your smile
 It stretched half a mile
 You had a stone cold look in your eyes
-
-
-

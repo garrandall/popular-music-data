@@ -1,8 +1,11 @@
 ---
+album: Once Upon A Dream
 artists:
 - The Rascals
+external_ids:
+  spotify: spotify:track:2GI6Y06vuos2sOgZiXhU2y
 features: []
-genres: []
+first_released_as_single: false
 key: love-me-the-rascals
 lyrics_url: https://genius.com/The-young-rascals-please-love-me-lyrics
 name: Love Me
@@ -23,6 +26,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1971-07-17'
+release_year: 1968
+runtime: 123600
 ---
 (Please) love me
 (Please) mm now, love me

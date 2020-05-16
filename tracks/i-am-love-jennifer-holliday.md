@@ -1,8 +1,11 @@
 ---
+album: Feel My Soul
 artists:
 - Jennifer Holliday
+external_ids:
+  spotify: spotify:track:4EFThxuJ1AQeVhJG4vo8Vy
 features: []
-genres: []
+first_released_as_single: false
 key: i-am-love-jennifer-holliday
 lyrics_url: https://genius.com/Jennifer-holliday-i-am-love-lyrics
 name: I Am Love
@@ -51,6 +54,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1983-12-31'
+release_year: 1983
+runtime: 276800
 ---
 If I talk too much you see
 I'm trying desperately to be understood

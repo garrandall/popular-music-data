@@ -1,8 +1,11 @@
 ---
+album: The Beach Boys Today!
 artists:
 - The Beach Boys
+external_ids:
+  spotify: spotify:track:1YXQw0aG37hbdkyHXNTL8l
 features: []
-genres: []
+first_released_as_single: false
 key: do-you-wanna-dance--the-beach-boys
 lyrics_url: https://genius.com/The-beach-boys-do-you-wanna-dance-lyrics
 name: Do You Wanna Dance?
@@ -39,6 +42,8 @@ rankings:
   rank: 21
   ranking_list: Billboard Hot 100
   start_date: '1965-04-17'
+release_year: 1965
+runtime: 141400
 ---
 Do you wanna dance and hold my hand?
 Tell me, baby, I'm your lover man

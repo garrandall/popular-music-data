@@ -1,8 +1,11 @@
 ---
+album: Twice Shy
 artists:
 - Great White
+external_ids:
+  spotify: spotify:track:7pkWZL0kA26s754CwyK0SH
 features: []
-genres: []
+first_released_as_single: false
 key: once-bitten-twice-shy-great-white
 lyrics_url: https://www.azlyrics.com/lyrics/greatwhite/oncebittentwiceshy.html
 name: Once Bitten Twice Shy
@@ -111,8 +114,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1989-11-04'
+release_year: 1989
+runtime: 322896
 ---
-
 Well the times are getting hard for you, little girl
 I'm a humming and a strumming all over god's world
 You can't remember when you got your last meal
@@ -163,6 +167,3 @@ My, my, my, I'm once bitten, twice shy, baby
 
 So shy, so shy, so shy, so shy
 So shy, so shy, so shy, so shy
-
-
-

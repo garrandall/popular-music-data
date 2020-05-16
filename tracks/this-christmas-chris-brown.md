@@ -1,8 +1,11 @@
 ---
+album: This Christmas - Songs From The Motion Picture
 artists:
 - Chris Brown
+external_ids:
+  spotify: spotify:track:3W6PmtGTyLwWBWUYplSWHT
 features: []
-genres: []
+first_released_as_single: false
 key: this-christmas-chris-brown
 lyrics_url: https://www.azlyrics.com/lyrics/chrisbrown/thischristmas.html
 name: This Christmas
@@ -27,8 +30,9 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '2008-01-05'
+release_year: 2007
+runtime: 197560
 ---
-
 Hang all the mistletoe
 I'm gonna get to know you better
 This Christmas
@@ -70,6 +74,3 @@ Shake a hand now, come on
 Everybody shake a hand now, family
 We'll be together to make this Christmas right
 Yes, we will
-
-
-

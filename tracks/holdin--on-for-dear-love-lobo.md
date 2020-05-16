@@ -1,8 +1,11 @@
 ---
+album: Best Of Lobo
 artists:
 - Lobo
+external_ids:
+  spotify: spotify:track:6sOnMczmrjIkUut7w8pMzO
 features: []
-genres: []
+first_released_as_single: false
 key: holdin--on-for-dear-love-lobo
 lyrics_url: https://genius.com/Lobo-singer-holdin-on-for-dear-love-lyrics
 name: Holdin' On For Dear Love
@@ -39,6 +42,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1980-02-09'
+release_year: 1979
+runtime: 166000
 ---
 It's been the lovers question
 Ever since time began

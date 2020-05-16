@@ -1,9 +1,12 @@
 ---
+album: Finally Famous
 artists:
 - Big Sean
+external_ids:
+  spotify: spotify:track:70tFuqBcduJv15bEnOPRTh
 features:
 - Chris Brown
-genres: []
+first_released_as_single: false
 key: my-last-big-sean-chris-brown
 lyrics_url: https://www.azlyrics.com/lyrics/bigsean/mylast.html
 name: My Last
@@ -92,9 +95,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2011-08-27'
+release_year: 2011
+runtime: 254120
 ---
-
-
 Hands up in the air
 I just want the
 I just want the baddest bitch in the world
@@ -191,6 +194,3 @@ Like I, like I never had it at all all all all, all all all all
 Like I, like I never had it at all all all all, all all all all
 All, all, all, all, all all all all
 Like I, like I never had it at all all all all, all all all all
-
-
-

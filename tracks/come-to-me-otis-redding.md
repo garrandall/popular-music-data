@@ -1,8 +1,11 @@
 ---
+album: The Great Otis Redding Sings Soul Ballads
 artists:
 - Otis Redding
+external_ids:
+  spotify: spotify:track:25rfcLcczxo0vJHRaFwCkX
 features: []
-genres: []
+first_released_as_single: false
 key: come-to-me-otis-redding
 lyrics_url: https://genius.com/Otis-redding-come-to-me-lyrics
 name: Come To Me
@@ -35,6 +38,8 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1964-05-02'
+release_year: 1964
+runtime: 167906
 ---
 Come to me for I'm lonely
 Come to me for I'm lonely, darling

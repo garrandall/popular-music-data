@@ -1,9 +1,12 @@
 ---
+album: Shock Value
 artists:
 - Timbaland
+external_ids:
+  spotify: spotify:track:2bLqfJjuC5syrsgDsZfGmn
 features:
 - Keri Hilson
-genres: []
+first_released_as_single: false
 key: the-way-i-are-timbaland-keri-hilson
 lyrics_url: https://www.azlyrics.com/lyrics/timbaland/thewayiare.html
 name: The Way I Are
@@ -160,8 +163,9 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2008-03-01'
+release_year: 2007
+runtime: 179120
 ---
-
 Remember the time baby
 
 
@@ -215,6 +219,3 @@ Baby girl, I don't got a huge old house I rent a room in a house
 Listen baby girl, I ain't got a motorboat but I can float your boat
 So listen baby girl, once you get a dose of D.O.E. you're gon' want some more
 So listen baby girl, when I make it I want you there, want you there, yeah
-
-
-

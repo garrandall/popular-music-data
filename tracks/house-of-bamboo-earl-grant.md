@@ -1,8 +1,11 @@
 ---
+album: 'Singin'' & Swingin'': The Best Of Earl Grant'
 artists:
 - Earl Grant
+external_ids:
+  spotify: spotify:track:6JHWHuirGmD0x2PKINh0v8
 features: []
-genres: []
+first_released_as_single: false
 key: house-of-bamboo-earl-grant
 lyrics_url: https://www.musixmatch.com/lyrics/Earl-Grant/House-of-Bamboo
 name: House Of Bamboo
@@ -19,6 +22,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1960-04-11'
+release_year: 1960
+runtime: 159666
 ---
 Number fifty-four,
 The house with the bamboo door,

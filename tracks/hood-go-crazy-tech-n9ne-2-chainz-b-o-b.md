@@ -1,10 +1,13 @@
 ---
+album: Special Effects
 artists:
 - Tech N9Ne
+external_ids:
+  spotify: spotify:track:0kIHfcHGFGm5xb0dSlKEdp
 features:
 - 2 Chainz
 - B.o.B
-genres: []
+first_released_as_single: false
 key: hood-go-crazy-tech-n9ne-2-chainz-b-o-b
 lyrics_url: https://www.azlyrics.com/lyrics/techn9ne/hoodgocrazy.html
 name: Hood Go Crazy
@@ -37,9 +40,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2015-08-01'
+release_year: 2015
+runtime: 225040
 ---
-
-
 (Hello?)
 I want to par-ty (Huh?)
 You want to par-ty (Yeah?)
@@ -118,4 +121,3 @@ Errbody got they hands up like (Oh!)
 See a bad bitch like (Woah!)
 This whole damn city fuckin' go
 But this is how the hood go crazy in the MO
-

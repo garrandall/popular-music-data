@@ -1,8 +1,11 @@
 ---
+album: The Best Of Robbie Neville
 artists:
 - Robbie Nevil
+external_ids:
+  spotify: spotify:track:5Ax6PS0vJDIJJ5KHJL8Zwi
 features: []
-genres: []
+first_released_as_single: false
 key: for-your-mind-robbie-nevil
 lyrics_url: https://www.musixmatch.com/lyrics/Robbie-Nevil/For-Your-Mind
 name: For Your Mind
@@ -23,6 +26,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1991-11-16'
+release_year: 1991
+runtime: 229466
 ---
 Do you like philosophy
 What are your political views

@@ -1,8 +1,11 @@
 ---
+album: Moondog Matinee
 artists:
 - The Band
+external_ids:
+  spotify: spotify:track:06DUiFHmbHo6sSbDxQbMBx
 features: []
-genres: []
+first_released_as_single: false
 key: ain-t-got-no-home-the-band
 lyrics_url: https://genius.com/The-band-aint-got-no-home-lyrics
 name: Ain't Got No Home
@@ -35,6 +38,8 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1974-01-05'
+release_year: 1973
+runtime: 204933
 ---
 I ain't got no home
 No place to roam

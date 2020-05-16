@@ -1,8 +1,11 @@
 ---
+album: Greetings From Timbuk 3
 artists:
 - Timbuk 3
+external_ids:
+  spotify: spotify:track:4EfZ2eaFjn1MQbKZD8urIz
 features: []
-genres: []
+first_released_as_single: false
 key: the-future-s-so-bright-i-gotta-wear-shades-timbuk-3
 lyrics_url: https://genius.com/Timbuk-3-the-futures-so-bright-i-gotta-wear-shades-lyrics
 name: The Future's So Bright I Gotta Wear Shades
@@ -71,6 +74,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1987-02-07'
+release_year: 1986
+runtime: 204240
 ---
 I study nuclear science
 I love my classes

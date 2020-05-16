@@ -1,8 +1,11 @@
 ---
+album: Two Teardrops
 artists:
 - Steve Wariner
+external_ids:
+  spotify: spotify:track:6YxZAKDWDPpNPoRwoiCGOb
 features: []
-genres: []
+first_released_as_single: false
 key: two-teardrops-steve-wariner
 lyrics_url: https://www.azlyrics.com/lyrics/stevewariner/twoteardrops.html
 name: Two Teardrops
@@ -87,8 +90,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1999-08-14'
+release_year: 1999
+runtime: 269826
 ---
-
 Two teardrops were floatin' down the river
 One teardrop said to the other
 I'm from the soft blue eyes of a woman in love
@@ -134,6 +138,3 @@ Where tears are a part of the pleasure and part of the pain
 
 Two teardrops floatin' down the river.
 Two teardrops floatin' down the river...
-
-
-

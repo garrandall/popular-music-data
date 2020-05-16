@@ -1,8 +1,11 @@
 ---
+album: Ya Ya
 artists:
 - The Kingsmen
+external_ids:
+  spotify: spotify:track:5PaWiOpagb2p6X8PbFBK1G
 features: []
-genres: []
+first_released_as_single: false
 key: annie-fanny-the-kingsmen
 lyrics_url: https://genius.com/The-kingsmen-annie-fanny-lyrics
 name: Annie Fanny
@@ -39,6 +42,8 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1965-09-25'
+release_year: 1965
+runtime: 123532
 ---
 Easton
 

@@ -1,8 +1,11 @@
 ---
+album: All Summer Long
 artists:
 - The Beach Boys
+external_ids:
+  spotify: spotify:track:1QL2yb3tD2zF5I1NAYH3mD
 features: []
-genres: []
+first_released_as_single: false
 key: little-honda-the-beach-boys
 lyrics_url: https://www.azlyrics.com/lyrics/beachboys/littlehonda.html
 name: Little Honda
@@ -27,8 +30,9 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '1964-11-14'
+release_year: 1964
+runtime: 114333
 ---
-
 GO!
 
 I'm gonna wake you up early
@@ -71,6 +75,3 @@ First gear (Honda Honda) it's alright (faster faster)
 Second gear (little Honda Honda) I lean right (faster faster)
 Third gear (Honda Honda) hang on tight (faster faster)
 Faster it's alright
-
-
-

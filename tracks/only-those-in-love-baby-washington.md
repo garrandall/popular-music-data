@@ -1,8 +1,11 @@
 ---
+album: Only Those In Love
 artists:
 - Baby Washington
+external_ids:
+  spotify: spotify:track:475yfAikvSAt5sQrDFkNGH
 features: []
-genres: []
+first_released_as_single: false
 key: only-those-in-love-baby-washington
 lyrics_url: https://genius.com/Baby-washington-only-those-in-love-lyrics
 name: Only Those In Love
@@ -43,6 +46,8 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '1965-09-18'
+release_year: 1965
+runtime: 168800
 ---
 Only those in love
 Only those in love

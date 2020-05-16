@@ -1,8 +1,11 @@
 ---
+album: Drowning In the Sea of Love
 artists:
 - Joe Simon
+external_ids:
+  spotify: spotify:track:3N6EJl3WCh5CTaTCGq6RqR
 features: []
-genres: []
+first_released_as_single: false
 key: i-found-my-dad-joe-simon
 name: I Found My Dad
 rankings:
@@ -22,5 +25,7 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1972-11-25'
+release_year: 1972
+runtime: 170266
 ---
 

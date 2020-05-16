@@ -1,8 +1,11 @@
 ---
+album: The Fanatic
 artists:
 - Felony
+external_ids:
+  spotify: spotify:track:1Iq2pmpj7yRb0sqhM6goA4
 features: []
-genres: []
+first_released_as_single: false
 key: the-fanatic-felony
 lyrics_url: https://genius.com/Felony-the-fanatic-lyrics
 name: The Fanatic
@@ -55,6 +58,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1983-04-30'
+release_year: 1983
+runtime: 216711
 ---
 Hey, the fanatic
 I am the fanatic

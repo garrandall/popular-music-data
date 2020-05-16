@@ -1,8 +1,11 @@
 ---
+album: Simply Carrie
 artists:
 - Carrie
+external_ids:
+  spotify: spotify:track:3EgWpwzy2wfsluBvd6UzBV
 features: []
-genres: []
+first_released_as_single: false
 key: i-gotta-keep-dancin--carrie
 lyrics_url: https://genius.com/Carrie-lucas-i-gotta-keep-dancin-lyrics
 name: I Gotta Keep Dancin'
@@ -39,6 +42,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1977-06-18'
+release_year: 1977
+runtime: 308040
 ---
 Keep on dancing
 Do do do, yeah, yeah, yeah

@@ -1,8 +1,11 @@
 ---
+album: Burning Memories
 artists:
 - Ray Price
+external_ids:
+  spotify: spotify:track:5ULLAuJgn4Of7XhwtWMBh2
 features: []
-genres: []
+first_released_as_single: false
 key: make-the-world-go-away-ray-price
 lyrics_url: https://genius.com/Ray-price-make-the-world-go-away-lyrics
 name: Make The World Go Away
@@ -11,6 +14,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1963-08-31'
+release_year: 1956
+runtime: 152226
 ---
 (Make the world go away)
 And get it off of my shoulders

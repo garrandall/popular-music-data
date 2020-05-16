@@ -1,8 +1,11 @@
 ---
+album: 'Bobby Byrd Got Soul: The Best Of Bobby Byrd'
 artists:
 - Bobby Byrd
+external_ids:
+  spotify: spotify:track:1dc8NZt0QAUxHh5vXVcv8d
 features: []
-genres: []
+first_released_as_single: false
 key: i-need-help--i-can-t-do-it-alone--pt-1-bobby-byrd
 name: I Need Help (I Can't Do It Alone) Pt 1
 rankings:
@@ -26,5 +29,7 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1970-11-21'
+release_year: 1970
+runtime: 335600
 ---
 

@@ -1,8 +1,11 @@
 ---
+album: Just Gets Better With Time
 artists:
 - The Whispers
+external_ids:
+  spotify: spotify:track:1YCsTFttuHAzgfEWKdOb9K
 features: []
-genres: []
+first_released_as_single: false
 key: rock-steady-the-whispers
 lyrics_url: https://www.azlyrics.com/lyrics/whispers/rocksteady.html
 name: Rock Steady
@@ -99,8 +102,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1987-11-07'
+release_year: 1987
+runtime: 307773
 ---
-
 I looked at you 
 You stole my heart 
 You were all that I anticipated 
@@ -138,6 +142,3 @@ And we begin to rock steady
 Steady rockin all night long 
 And we begin to rock steady 
 Rockin till the break of dawn
-
-
-

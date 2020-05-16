@@ -1,8 +1,11 @@
 ---
+album: 4 Way Street
 artists:
 - Crosby, Stills, Nash & Young
+external_ids:
+  spotify: spotify:track:4oC11US2tUMb9WaxoniIiR
 features: []
-genres: []
+first_released_as_single: false
 key: ohio-crosby-stills-nash-young
 lyrics_url: https://www.azlyrics.com/lyrics/crosbystillsnashyoung/ohio.html
 name: Ohio
@@ -43,8 +46,9 @@ rankings:
   rank: 24
   ranking_list: Billboard Hot 100
   start_date: '1970-08-22'
+release_year: 1970
+runtime: 214133
 ---
-
 Tin soldiers and Nixon coming
 We're finally on our own
 This summer I hear the drumming
@@ -68,6 +72,3 @@ Tin soldiers and Nixon coming
 We're finally on our own
 This summer I hear the drumming
 Four dead in Ohio
-
-
-

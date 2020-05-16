@@ -1,8 +1,11 @@
 ---
+album: The Essential Joe Diffie
 artists:
 - Joe Diffie
+external_ids:
+  spotify: spotify:track:1oJvv6D3TYxJDlVTrtJU7b
 features: []
-genres: []
+first_released_as_single: false
 key: so-help-me-girl-joe-diffie
 lyrics_url: https://www.azlyrics.com/lyrics/joediffie/sohelpmegirl.html
 name: So Help Me Girl
@@ -35,8 +38,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1995-05-20'
+release_year: 1990
+runtime: 212093
 ---
-
 You could've kissed me, like this wasn't gonna last
 Kept me from saying something I'll never take back
 You could have held me like there was no chance
@@ -80,6 +84,3 @@ And I can't help myself
 So help me girl
 
 Now I can't help myself so help me girl
-
-
-

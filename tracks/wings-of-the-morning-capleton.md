@@ -1,8 +1,11 @@
 ---
+album: Prophecy
 artists:
 - Capleton
+external_ids:
+  spotify: spotify:track:6NY8PMePZSyy2YPzJlhO7H
 features: []
-genres: []
+first_released_as_single: false
 key: wings-of-the-morning-capleton
 lyrics_url: https://www.azlyrics.com/lyrics/capleton/wingsofthemorning.html
 name: Wings Of The Morning
@@ -47,8 +50,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1995-12-30'
+release_year: 1995
+runtime: 231666
 ---
-
 And so great is a man goin to be praised
 Selassie I every time
 I say Jah shall execute judgment and justice
@@ -135,6 +139,3 @@ For nine-five, the nine-nickel
 Cold as an icicle, Method Man
 Capleton, representing
 Dynamic Duo on the track
-
-
-

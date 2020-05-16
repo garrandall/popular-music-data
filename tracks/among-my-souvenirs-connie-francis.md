@@ -1,8 +1,11 @@
 ---
+album: Gold
 artists:
 - Connie Francis
+external_ids:
+  spotify: spotify:track:5i443FmGBBGNMJSy1mIJoF
 features: []
-genres: []
+first_released_as_single: false
 key: among-my-souvenirs-connie-francis
 lyrics_url: https://www.azlyrics.com/lyrics/conniefrancis/amongmysouvenirs.html
 name: Among My Souvenirs
@@ -67,8 +70,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1960-02-29'
+release_year: 1959
+runtime: 150000
 ---
-
 There's nothing left for me
 Of days that used to be
 They're just a memory
@@ -93,6 +97,3 @@ I count them all apart
 And, as the teardrops start
 I find a broken heart
 Among my souvenirs
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Bratz Motion Picture Soundtrack
 artists:
 - Ashlee Simpson
+external_ids:
+  spotify: spotify:track:6ElumkJqdCEk1CJjLDWL1C
 features: []
-genres: []
+first_released_as_single: false
 key: invisible-ashlee-simpson
 lyrics_url: https://genius.com/Ashlee-simpson-invisible-lyrics
 name: Invisible
@@ -23,6 +26,8 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '2006-08-26'
+release_year: 2006
+runtime: 224626
 ---
 Like a grain on the beach
 Like a star in the sky

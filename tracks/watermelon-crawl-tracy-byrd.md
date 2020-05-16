@@ -1,8 +1,11 @@
 ---
+album: No Ordinary Man
 artists:
 - Tracy Byrd
+external_ids:
+  spotify: spotify:track:3Q9t1A12iUemHTAWnH7PjD
 features: []
-genres: []
+first_released_as_single: false
 key: watermelon-crawl-tracy-byrd
 lyrics_url: https://www.azlyrics.com/lyrics/tracybyrd/watermeloncrawl.html
 name: Watermelon Crawl
@@ -27,8 +30,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1994-11-19'
+release_year: 1994
+runtime: 181973
 ---
-
 I was drivin' through Georgia in late July
 On a day hot enough to make the devil sigh
 I saw a homemade sign written in red
@@ -72,6 +76,3 @@ If you drink, don't drive, do the watermelon crawl
 Yeah do the watermelon crawl
 Have fun you all
 And do the watermelon crawl
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Live
 artists:
 - Blondie
+external_ids:
+  spotify: spotify:track:0Qfv4U5HqVba2vpMlKdm1S
 features: []
-genres: []
+first_released_as_single: false
 key: maria-blondie
 lyrics_url: https://www.azlyrics.com/lyrics/blondie/maria.html
 name: Maria
@@ -31,8 +34,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1999-05-15'
+release_year: 1999
+runtime: 289626
 ---
-
 She moves like she don't care
 Smooth as silk, cool as air
 Oh it makes you wanna cry
@@ -84,6 +88,3 @@ Maria, you've gotta see her
 Go insane and out of your mind
 Latina, Ave Maria
 A million and one candle lights
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Diplomatic Immunity
 artists:
 - Drake
+external_ids:
+  spotify: spotify:track:4haJoBPbPj9QFKNpp9e8kx
 features: []
-genres: []
+first_released_as_single: true
 key: diplomatic-immunity-drake
 lyrics_url: https://genius.com/Drake-diplomatic-immunity-lyrics
 name: Diplomatic Immunity
@@ -19,6 +22,8 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '2018-02-17'
+release_year: 2018
+runtime: 255866
 ---
 Diplomatic immunity, fuck 'em
 All that peace and that unity

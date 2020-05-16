@@ -103,7 +103,6 @@ Girl, I'll see you another time
 I'm talking to you, pretty baby
 Girl, I'll see you another time
 If you're a policeman's woman
-Lyrics courtesy Top40db
 Just talking to you is a crime
 
 

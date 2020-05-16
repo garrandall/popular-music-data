@@ -1,8 +1,11 @@
 ---
+album: If You're Going Through Hell
 artists:
 - Rodney Atkins
+external_ids:
+  spotify: spotify:track:292hQrFkBjVmbHRqGVqBta
 features: []
-genres: []
+first_released_as_single: false
 key: cleaning-this-gun--come-on-in-boy--rodney-atkins
 lyrics_url: https://genius.com/Rodney-atkins-cleaning-this-gun-lyrics
 name: Cleaning This Gun (Come On In Boy)
@@ -87,6 +90,8 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '2008-04-19'
+release_year: 2006
+runtime: 226813
 ---
 The Declaration of Independence
 Think I could tell you that first sentence but then Im lost

@@ -1,8 +1,11 @@
 ---
+album: Deep Grooves
 artists:
 - MFSB
+external_ids:
+  spotify: spotify:track:1bcWUfFbKefstBhacbop9I
 features: []
-genres: []
+first_released_as_single: false
 key: sexy-mfsb
 lyrics_url: https://genius.com/Mfsb-sexy-lyrics
 name: Sexy
@@ -35,5 +38,7 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '1975-08-02'
+release_year: 1973
+runtime: 213200
 ---
 (instrumental)

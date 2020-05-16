@@ -1,8 +1,11 @@
 ---
+album: If I Ever Fall In Love
 artists:
 - Shai
+external_ids:
+  spotify: spotify:track:6vHJpgX1QTYa9SVXankGVR
 features: []
-genres: []
+first_released_as_single: false
 key: comforter-shai
 lyrics_url: https://www.azlyrics.com/lyrics/shai/comforter.html
 name: Comforter
@@ -103,8 +106,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1993-07-03'
+release_year: 1992
+runtime: 250600
 ---
-
 Talk to me, baby.
 I'm listening.
 
@@ -154,6 +158,3 @@ And tell me what's on your mind Tell me what's on your mind
 What exactly did he do? To make you cry this time
 Well, I'll be your comforter. I will make it alright
 He cast a shadow on your heart. And I will bring back your light
-
-
-

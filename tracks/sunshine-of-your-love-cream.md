@@ -1,8 +1,11 @@
 ---
+album: Disraeli Gears
 artists:
 - Cream
+external_ids:
+  spotify: spotify:track:4KQilA0T8noRB4uwAQyiXz
 features: []
-genres: []
+first_released_as_single: false
 key: sunshine-of-your-love-cream
 lyrics_url: https://genius.com/Cream-sunshine-of-your-love-lyrics
 name: Sunshine Of Your Love
@@ -111,6 +114,8 @@ rankings:
   rank: 25
   ranking_list: Billboard Hot 100
   start_date: '1968-09-21'
+release_year: 1968
+runtime: 445493
 ---
 It’s getting near dawn
 When lights close their tired eyes

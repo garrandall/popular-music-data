@@ -1,9 +1,12 @@
 ---
+album: All About You
 artists:
 - Jeremih
+external_ids:
+  spotify: spotify:track:0x3TibRgnSqzkcwrqBd4iX
 features:
 - 50 Cent
-genres: []
+first_released_as_single: false
 key: down-on-me-jeremih-50-cent
 lyrics_url: https://www.azlyrics.com/lyrics/jeremih/downonme.html
 name: Down On Me
@@ -140,9 +143,9 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '2011-07-09'
+release_year: 2010
+runtime: 228453
 ---
-
-
 She want it I can tell she want it
 Want me to push up on it 'fore she know when I'm all on it
 We get the party goin liquor flowin this is fire
@@ -224,6 +227,3 @@ Just put it down on me put it down on me
 Down-down on me put it down on me
 Don't throw it off the mound show me how It's 'gon be
 Girl all I really want is you down on me, put it down on me
-
-
-

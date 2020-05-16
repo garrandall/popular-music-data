@@ -1,8 +1,11 @@
 ---
+album: Size Isn't Everything
 artists:
 - Bee Gees
+external_ids:
+  spotify: spotify:track:33Z1BRngcyzyEYo3lRQY8H
 features: []
-genres: []
+first_released_as_single: false
 key: paying-the-price-of-love-bee-gees
 lyrics_url: https://www.azlyrics.com/lyrics/beegees/payingthepriceoflove.html
 name: Paying The Price Of Love
@@ -43,8 +46,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1993-12-18'
+release_year: 1993
+runtime: 252133
 ---
-
 How did you find there was somebody
 More than you want me
 I never understood
@@ -102,6 +106,3 @@ My heart in my hands over you
 But the battle is just not fair
 You'll never be free
 That emotion is always replaying
-
-
-

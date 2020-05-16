@@ -1,9 +1,12 @@
 ---
+album: Jackpot
 artists:
 - Chingy
+external_ids:
+  spotify: spotify:track:0UNTBB02C1aB55Fu4H63qd
 features:
 - J. Weav
-genres: []
+first_released_as_single: false
 key: one-call-away-chingy-j--weav
 lyrics_url: https://www.azlyrics.com/lyrics/chingy/onecallaway.html
 name: One Call Away
@@ -88,9 +91,9 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '2004-06-12'
+release_year: 2003
+runtime: 276800
 ---
-
-
 Oh, yea yea
 DTP, how we do
 Call you and you can call me
@@ -178,6 +181,3 @@ Don't worry be happy and smile and. . .
 Gimme a call if you wanna come roll with me
 (If you was my baby)
 I'm only one call away
-
-
-

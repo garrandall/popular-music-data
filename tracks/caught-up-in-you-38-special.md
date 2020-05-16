@@ -1,8 +1,11 @@
 ---
+album: Special Forces
 artists:
 - 38 Special
+external_ids:
+  spotify: spotify:track:3jYRpwbctfqB77uU7T7K3U
 features: []
-genres: []
+first_released_as_single: false
 key: caught-up-in-you-38-special
 lyrics_url: https://genius.com/38-special-caught-up-in-you-lyrics
 name: Caught Up In You
@@ -75,6 +78,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1982-08-21'
+release_year: 1982
+runtime: 279333
 ---
 I never knew there'd come a day
 When I'd be sayin' to you

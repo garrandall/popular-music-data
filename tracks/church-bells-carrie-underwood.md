@@ -1,8 +1,11 @@
 ---
+album: Storyteller
 artists:
 - Carrie Underwood
+external_ids:
+  spotify: spotify:track:67citk3uzWs5qbaIVKTeg8
 features: []
-genres: []
+first_released_as_single: false
 key: church-bells-carrie-underwood
 lyrics_url: https://www.azlyrics.com/lyrics/carrieunderwood/churchbells.html
 name: Church Bells
@@ -75,8 +78,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2016-09-17'
+release_year: 2015
+runtime: 193333
 ---
-
 Jenny grew up wild, like a blackfoot daisy
 Out in the shack with a blue tick hound
 Broke as hell, but blessed with beauty
@@ -130,6 +134,3 @@ Fold your hands and close your eyes
 Yeah, it's all gonna be alright
 And just listen to the church bells ringing, ringing
 Yeah, they're ringing
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Single White Female
 artists:
 - Chely Wright
+external_ids:
+  spotify: spotify:track:1fC89py9z6DXa2mWvsGaJZ
 features: []
-genres: []
+first_released_as_single: false
 key: it-was-chely-wright
 lyrics_url: https://genius.com/Chely-wright-it-was-lyrics
 name: It Was
@@ -47,6 +50,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2000-05-06'
+release_year: 1999
+runtime: 231093
 ---
 I guess we guess our way through life
 How many times do we really know for sure

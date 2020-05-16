@@ -1,9 +1,12 @@
 ---
+album: Gotta Go Solo
 artists:
 - Patti LaBelle
+external_ids:
+  spotify: spotify:track:38j7IKSmSfAWLeRNNZPXNV
 features:
 - Ron Isley
-genres: []
+first_released_as_single: true
 key: gotta-go-solo-patti-labelle-ron-isley
 lyrics_url: https://www.azlyrics.com/lyrics/pattilabelle/gottagosolo.html
 name: Gotta Go Solo
@@ -44,9 +47,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2005-02-05'
+release_year: 2004
+runtime: 241680
 ---
-
-
 Raindrops on my window seal (well, well, well)
 It's quiet as a mouse in here (oh, oh, oh
 You're somewhere with the girls doing nails
@@ -101,4 +104,3 @@ Now honey here's Mrs. Bigg
  talk to me
  That's what I've been doing all for twenty long years
  Yeah
-

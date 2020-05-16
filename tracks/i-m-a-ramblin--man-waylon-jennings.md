@@ -1,8 +1,11 @@
 ---
+album: The Ramblin' Man
 artists:
 - Waylon Jennings
+external_ids:
+  spotify: spotify:track:24uwABPWPejBuvFL4tMkvD
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-a-ramblin--man-waylon-jennings
 lyrics_url: https://genius.com/Waylon-jennings-im-a-ramblin-man-lyrics
 name: I'm A Ramblin' Man
@@ -35,6 +38,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1974-10-19'
+release_year: 1974
+runtime: 167000
 ---
 I've been down to Mississippi
 Down through New Orleans

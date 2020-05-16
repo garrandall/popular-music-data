@@ -1,8 +1,11 @@
 ---
+album: What's Bin Did and What's Bin Hid
 artists:
 - Donovan
+external_ids:
+  spotify: spotify:track:4aDBO2DBS6XPhnyHhALxYz
 features: []
-genres: []
+first_released_as_single: false
 key: colours-donovan
 lyrics_url: https://www.azlyrics.com/lyrics/donovan/colours.html
 name: Colours
@@ -35,8 +38,9 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1965-09-25'
+release_year: 1965
+runtime: 165200
 ---
-
 Yellow is the color of my true love's hair
 In the mornin', when we rise
 In the mornin', when we rise
@@ -66,6 +70,3 @@ Without thinkin', mm hm
 Without thinkin', uh huh
 Of the time, of the time
 When I've been loved
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: All 'N All
 artists:
 - Earth, Wind & Fire
+external_ids:
+  spotify: spotify:track:0KDc8l4VNTu6OkMYK9D7HC
 features: []
-genres: []
+first_released_as_single: false
 key: serpentine-fire-earth-wind-fire
 lyrics_url: https://www.azlyrics.com/lyrics/earthwindandfire/serpentinefire.html
 name: Serpentine Fire
@@ -79,8 +82,9 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '1978-02-25'
+release_year: 1977
+runtime: 230760
 ---
-
 When I see you're face like the mornin sun you spark me to shine
 Tell all the world, my need is fulfilled and that's a new design
 As long as you're near, there is no fear of a victory
@@ -104,6 +108,3 @@ Oh yeah oh yeah oh yeah, oh yeah oh yeah oh yeah
 Surely as life begun, you will as one battle with the serpentine fire
 Surely as life begun, you will as one battle with the serpentine fire
 Gonna tell a story morning glory all about the serpentine fire
-
-
-

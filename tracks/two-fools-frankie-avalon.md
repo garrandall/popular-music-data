@@ -1,8 +1,11 @@
 ---
+album: 'A Day at the Beach: Frankie Avalon'
 artists:
 - Frankie Avalon
+external_ids:
+  spotify: spotify:track:37TP6ts9wTCuaueFmMEKa3
 features: []
-genres: []
+first_released_as_single: false
 key: two-fools-frankie-avalon
 lyrics_url: https://genius.com/Frankie-avalon-two-fools-lyrics
 name: Two Fools
@@ -27,6 +30,8 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '1959-10-19'
+release_year: 1959
+runtime: 138947
 ---
 Two fools
 You for wanting me

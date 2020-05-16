@@ -1,8 +1,11 @@
 ---
+album: Southside
 artists:
 - Texas
+external_ids:
+  spotify: spotify:track:000u1dTg7y1XCDXi80hbBX
 features: []
-genres: []
+first_released_as_single: false
 key: i-don-t-want-a-lover-texas
 lyrics_url: https://genius.com/Texas-i-dont-want-a-lover-lyrics
 name: I Don't Want A Lover
@@ -31,6 +34,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1989-10-14'
+release_year: 1989
+runtime: 300600
 ---
 I don't want a lover
 I just need a friend

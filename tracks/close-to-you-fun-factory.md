@@ -1,8 +1,11 @@
 ---
+album: Close To You
 artists:
 - Fun Factory
+external_ids:
+  spotify: spotify:track:71yXqabmZkne39AAxPCWyT
 features: []
-genres: []
+first_released_as_single: false
 key: close-to-you-fun-factory
 lyrics_url: https://genius.com/Fun-factory-close-to-you-lyrics
 name: Close To You
@@ -87,6 +90,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1995-07-29'
+release_year: 1995
+runtime: 280426
 ---
 Oh Baby talk to me
 Oh Baby can't you see

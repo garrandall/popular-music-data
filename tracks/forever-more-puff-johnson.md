@@ -1,8 +1,11 @@
 ---
+album: Miracle
 artists:
 - Puff Johnson
+external_ids:
+  spotify: spotify:track:3IKdFAeGF7BkRSHcaxnS1V
 features: []
-genres: []
+first_released_as_single: false
 key: forever-more-puff-johnson
 lyrics_url: https://genius.com/Puff-johnson-forever-more-lyrics
 name: Forever More
@@ -59,6 +62,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1996-08-10'
+release_year: 1996
+runtime: 303426
 ---
 When you close your eyes
 I hope you think of me

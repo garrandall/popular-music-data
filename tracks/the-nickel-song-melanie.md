@@ -1,8 +1,11 @@
 ---
+album: On Air
 artists:
 - Melanie
+external_ids:
+  spotify: spotify:track:2BdE4tOpt8X2qMNtj8023z
 features: []
-genres: []
+first_released_as_single: false
 key: the-nickel-song-melanie
 lyrics_url: https://www.musixmatch.com/lyrics/Melanie/The-Nickel-Song
 name: The Nickel Song
@@ -47,6 +50,8 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '1972-03-25'
+release_year: 1972
+runtime: 241440
 ---
 Nickel song
 *With refrain from music! music! music!

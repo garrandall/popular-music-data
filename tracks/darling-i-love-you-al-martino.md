@@ -1,8 +1,11 @@
 ---
+album: We Could
 artists:
 - Al Martino
+external_ids:
+  spotify: spotify:track:0wirja9YVSzdXKUP6cZZk9
 features: []
-genres: []
+first_released_as_single: false
 key: darling-i-love-you-al-martino
 lyrics_url: https://genius.com/Al-martino-darling-i-love-you-lyrics
 name: Darling I Love You
@@ -31,6 +34,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1959-11-02'
+release_year: 1959
+runtime: 180533
 ---
 Take my hand in yours
 Press my lips to yours

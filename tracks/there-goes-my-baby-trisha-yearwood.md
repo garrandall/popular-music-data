@@ -1,8 +1,11 @@
 ---
+album: Where Your Road Leads
 artists:
 - Trisha Yearwood
+external_ids:
+  spotify: spotify:track:4ke1a35DUJFvPeqINRunaJ
 features: []
-genres: []
+first_released_as_single: false
 key: there-goes-my-baby-trisha-yearwood
 lyrics_url: https://www.azlyrics.com/lyrics/trishayearwood/theregoesmybaby.html
 name: There Goes My Baby
@@ -15,8 +18,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1998-07-25'
+release_year: 1998
+runtime: 233000
 ---
-
 He was the kind of guy who loved so unselfishly
 And everyone could see what a prize he was
 Everyone but me
@@ -67,6 +71,3 @@ There goes my baby
 Bye bye, baby, goodbye
 Bye bye, baby, goodbye
 Bye bye, baby, goodbye
-
-
-

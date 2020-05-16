@@ -1,8 +1,11 @@
 ---
+album: 'I Want Candy: The Best Of The Strangeloves'
 artists:
 - The Strangeloves
+external_ids:
+  spotify: spotify:track:4jQAWmK7RTRWaofM5n2NhK
 features: []
-genres: []
+first_released_as_single: false
 key: cara-lin-the-strangeloves
 lyrics_url: https://genius.com/The-strangeloves-cara-lin-lyrics
 name: Cara-Lin
@@ -39,6 +42,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1965-11-06'
+release_year: 1965
+runtime: 162333
 ---
 Pretty as a picture
 Glory what a picture

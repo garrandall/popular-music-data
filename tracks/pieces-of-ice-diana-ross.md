@@ -1,8 +1,11 @@
 ---
+album: Ross
 artists:
 - Diana Ross
+external_ids:
+  spotify: spotify:track:4L7asjKaSIdw972341v1sg
 features: []
-genres: []
+first_released_as_single: false
 key: pieces-of-ice-diana-ross
 lyrics_url: https://www.azlyrics.com/lyrics/dianaross/piecesofice.html
 name: Pieces Of Ice
@@ -47,8 +50,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1983-08-27'
+release_year: 1983
+runtime: 297013
 ---
-
 Walking blind across this silver room
 Looking through a smoke menagerie
 Looking at your face inside of me
@@ -76,6 +80,3 @@ Pieces of ice
 Pieces of ice
 Pieces of ice
 Pieces of ice
-
-
-

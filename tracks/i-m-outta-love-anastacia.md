@@ -1,8 +1,11 @@
 ---
+album: Pieces of A Dream
 artists:
 - Anastacia
+external_ids:
+  spotify: spotify:track:2CaseM6BKvQpi6blK8nbxC
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-outta-love-anastacia
 lyrics_url: https://genius.com/Anastacia-im-outta-love-lyrics
 name: I'm Outta Love
@@ -19,6 +22,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2000-06-17'
+release_year: 1999
+runtime: 245400
 ---
 Now, baby, come on
 Don't claim that love you never let me feel

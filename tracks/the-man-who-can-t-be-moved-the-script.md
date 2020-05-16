@@ -1,8 +1,11 @@
 ---
+album: The Script
 artists:
 - The Script
+external_ids:
+  spotify: spotify:track:3nqqDo8CcCLke3ZoTgiOKf
 features: []
-genres: []
+first_released_as_single: false
 key: the-man-who-can-t-be-moved-the-script
 lyrics_url: https://genius.com/The-script-the-man-who-cant-be-moved-lyrics
 name: The Man Who Can't Be Moved
@@ -31,6 +34,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2010-09-25'
+release_year: 2008
+runtime: 241373
 ---
 Going back to the corner where I first saw you
 Gonna camp in my sleeping bag, I'm not gonna move

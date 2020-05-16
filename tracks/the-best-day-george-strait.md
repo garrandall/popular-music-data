@@ -1,8 +1,11 @@
 ---
+album: Latest Greatest Straitest Hits
 artists:
 - George Strait
+external_ids:
+  spotify: spotify:track:5ApdBBa3MtTzpF0MbpB2NG
 features: []
-genres: []
+first_released_as_single: false
 key: the-best-day-george-strait
 lyrics_url: https://genius.com/George-strait-the-best-day-lyrics
 name: The Best Day
@@ -87,6 +90,8 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '2000-06-10'
+release_year: 2000
+runtime: 204066
 ---
 We loaded up my old station wagon
 With a tent, a Coleman, and sleeping bags

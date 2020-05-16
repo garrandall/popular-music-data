@@ -1,8 +1,11 @@
 ---
+album: I've Got the Music in Me (Bonus Track Version)
 artists:
 - Kiki Dee
+external_ids:
+  spotify: spotify:track:5Rc4qU7yBLRrSiQbzqFzA2
 features: []
-genres: []
+first_released_as_single: false
 key: once-a-fool-kiki-dee
 lyrics_url: https://genius.com/Kiki-dee-once-a-fool-lyrics
 name: Once A Fool
@@ -23,6 +26,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1976-03-27'
+release_year: 1974
+runtime: 223893
 ---
 I let the pain just walk on in
 And I pulled up the nearest chair

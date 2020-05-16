@@ -1,8 +1,11 @@
 ---
+album: Signed, Sealed And Delivered
 artists:
 - Stevie Wonder
+external_ids:
+  spotify: spotify:track:41q8ZiB3LZl4HRmmzUTIo4
 features: []
-genres: []
+first_released_as_single: false
 key: we-can-work-it-out-stevie-wonder
 lyrics_url: https://genius.com/Stevie-wonder-we-can-work-it-out-lyrics
 name: We Can Work It Out
@@ -51,6 +54,8 @@ rankings:
   rank: 32
   ranking_list: Billboard Hot 100
   start_date: '1971-05-22'
+release_year: 1970
+runtime: 199506
 ---
 (Hey) Try to see things my way (Hey)
 Do I have to keep on talking 'till I can't go on?

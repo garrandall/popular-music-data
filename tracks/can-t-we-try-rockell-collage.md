@@ -1,9 +1,12 @@
 ---
+album: What Are You Lookin' At?
 artists:
 - Rockell
 - Collage
+external_ids:
+  spotify: spotify:track:05x2GKR3eEzPNglTIkAwVL
 features: []
-genres: []
+first_released_as_single: false
 key: can-t-we-try-rockell-collage
 lyrics_url: https://www.musixmatch.com/lyrics/Rockell/Can-t-We-Try-feat-Collage
 name: Can't We Try
@@ -88,6 +91,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1998-11-14'
+release_year: 1998
+runtime: 257106
 ---
 I see your face cloud over like a little girl's
 And your eyes have lost their shine

@@ -1,8 +1,11 @@
 ---
+album: Don't Let Love Slip Away
 artists:
 - Freddie Jackson
+external_ids:
+  spotify: spotify:track:0GPB7AjTSh3j0aboIzEojn
 features: []
-genres: []
+first_released_as_single: false
 key: nice--n--slow-freddie-jackson
 lyrics_url: https://genius.com/Freddie-jackson-nice-n-slow-lyrics
 name: Nice 'N' Slow
@@ -55,6 +58,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1988-10-08'
+release_year: 1988
+runtime: 316173
 ---
 Hey, girl, we're gonna take it nice and slow
 Hey, girl, we're gonna take it nice and slow

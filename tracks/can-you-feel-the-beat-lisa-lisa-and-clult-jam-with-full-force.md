@@ -1,8 +1,11 @@
 ---
+album: Lisa Lisa and Cult Jam with Full Force  (with Full Force)
 artists:
-- Lisa Lisa And Clult Jam With Full Force
+- Lisa Lisa And Cult Jam
+external_ids:
+  spotify: spotify:track:6ArFGc1tVxYEhmGreRYoAi
 features: []
-genres: []
+first_released_as_single: false
 key: can-you-feel-the-beat-lisa-lisa-and-clult-jam-with-full-force
 name: Can You Feel The Beat
 rankings:
@@ -86,5 +89,7 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1986-03-29'
+release_year: 1985
+runtime: 410693
 ---
 

@@ -1,8 +1,11 @@
 ---
+album: 'Greatest Hits: Immature'
 artists:
 - IMx
+external_ids:
+  spotify: spotify:track:15YtixaZ1VgE3fPfXahlzD
 features: []
-genres: []
+first_released_as_single: false
 key: stay-the-night-imx
 lyrics_url: https://www.azlyrics.com/lyrics/imx/staythenight.html
 name: Stay The Night
@@ -87,9 +90,9 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '2000-02-19'
+release_year: 1999
+runtime: 219466
 ---
-
-
 Oh oh baby
 Immature's back, back, back
 Oh oh baby baby, oh oh baby
@@ -144,4 +147,3 @@ Throw your hands in the sky
 Hey girls
 Do you think we're tight?
 Oh baby
-

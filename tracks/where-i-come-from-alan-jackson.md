@@ -1,8 +1,11 @@
 ---
+album: When Somebody Loves You
 artists:
 - Alan Jackson
+external_ids:
+  spotify: spotify:track:0CbYifhB6vcAtnDzUyQh4T
 features: []
-genres: []
+first_released_as_single: false
 key: where-i-come-from-alan-jackson
 lyrics_url: https://www.azlyrics.com/lyrics/alanjackson/whereicomefrom.html
 name: Where I Come From
@@ -87,8 +90,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2002-01-05'
+release_year: 1991
+runtime: 239573
 ---
-
 Well I was rollin' wheels and shiftin' gears
 'Round that Jersey Turnpike
 Barney stopped me with his gun
@@ -167,6 +171,3 @@ Where I come from
 Yeah where I come from
 Get back down there sometimes
 Where I come from
-
-
-

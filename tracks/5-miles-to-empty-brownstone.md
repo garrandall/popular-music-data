@@ -1,8 +1,11 @@
 ---
+album: The Greatest Dance Album In The World
 artists:
 - Brownstone
+external_ids:
+  spotify: spotify:track:2kJxVNGxZSENlLGCdV8AIV
 features: []
-genres: []
+first_released_as_single: false
 key: 5-miles-to-empty-brownstone
 lyrics_url: https://www.azlyrics.com/lyrics/brownstone/5milestoempty.html
 name: 5 Miles To Empty
@@ -71,8 +74,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1997-08-30'
+release_year: 1993
+runtime: 225933
 ---
-
 Oh yeah, yeah, yeah, yeah, yeah, yeah 
 Yeah, yeah, yeah, yeah, yeah, yeah 
 Oh yeah, oh yeah, yeah, yeah, yeah 
@@ -152,7 +156,4 @@ My heart is running low, whoa
 I need a good man to fill me up 
 I need a good man to give me love 
 
-Five miles to empty 
-
-
-
+Five miles to empty

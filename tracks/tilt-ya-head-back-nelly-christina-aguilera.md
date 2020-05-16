@@ -1,12 +1,15 @@
 ---
+album: Sweat
 artists:
 - Nelly
 - Christina Aguilera
+external_ids:
+  spotify: spotify:track:2VJg6kEJXgeBNm0xnl7xYk
 features: []
-genres: []
+first_released_as_single: false
 key: tilt-ya-head-back-nelly-christina-aguilera
-name: Tilt Ya Head Back
 lyrics_url: https://genius.com/Nelly-tilt-ya-head-back-lyrics
+name: Tilt Ya Head Back
 rankings:
 - end_date: '2004-10-01'
   rank: 75
@@ -32,6 +35,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2004-10-30'
+release_year: 2004
+runtime: 253253
 ---
 Somebody gimme a bass line
 Yeah, that's tight, check it

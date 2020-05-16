@@ -1,8 +1,11 @@
 ---
+album: Rock with Sedaka
 artists:
 - Neil Sedaka
+external_ids:
+  spotify: spotify:track:2bHXXAgNA9MMvHE2e6Dgay
 features: []
-genres: []
+first_released_as_single: false
 key: stairway-to-heaven-neil-sedaka
 lyrics_url: https://www.azlyrics.com/lyrics/neilsedaka/stairwaytoheaven.html
 name: Stairway To Heaven
@@ -67,8 +70,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1960-07-04'
+release_year: 1959
+runtime: 162640
 ---
-
 Climb up
 Way up high
 Climb up
@@ -122,6 +126,3 @@ Climb up
 Way up high
 Climb up
 Way up high
-
-
-

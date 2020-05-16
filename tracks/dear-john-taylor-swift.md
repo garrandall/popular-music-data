@@ -1,8 +1,11 @@
 ---
+album: Speak Now
 artists:
 - Taylor Swift
+external_ids:
+  spotify: spotify:track:1ubvV5ECkm6nSI6g1HmbBK
 features: []
-genres: []
+first_released_as_single: false
 key: dear-john-taylor-swift
 lyrics_url: https://www.azlyrics.com/lyrics/taylorswift/dearjohn.html
 name: Dear John
@@ -11,8 +14,9 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '2010-11-13'
+release_year: 2010
+runtime: 403920
 ---
-
 Long were the nights
 When my days once revolved around you
 Counting my footsteps
@@ -95,6 +99,3 @@ You should've known.
 You should've known.
 Don't you think I was too young?
 You should've known.
-
-
-

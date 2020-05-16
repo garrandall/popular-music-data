@@ -1,8 +1,11 @@
 ---
+album: Strictly 4 My N.I.G.G.A.Z...
 artists:
 - 2Pac
+external_ids:
+  spotify: spotify:track:4voEoczU7Ijborps9XF1n3
 features: []
-genres: []
+first_released_as_single: false
 key: i-get-around-2pac
 lyrics_url: https://genius.com/2pac-i-get-around-lyrics
 name: I Get Around
@@ -107,6 +110,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1993-12-18'
+release_year: 1993
+runtime: 259000
 ---
 Round and round (aw yeah)
 Round and round, round we go (I get around)

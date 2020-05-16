@@ -1,8 +1,11 @@
 ---
+album: Pieces Of You
 artists:
 - Jewel
+external_ids:
+  spotify: spotify:track:3pPyv196sOJrbZdNiVNYCA
 features: []
-genres: []
+first_released_as_single: false
 key: foolish-games-jewel
 lyrics_url: https://www.azlyrics.com/lyrics/jewel/foolishgames.html
 name: Foolish Games
@@ -267,8 +270,9 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1998-02-21'
+release_year: 1995
+runtime: 340666
 ---
-
 You took your coat off and stood in the rain
 You're always crazy like that
 And I watched from my window
@@ -315,6 +319,3 @@ You're breaking my heart
 You took your coat off
 Stood in the rain
 You're always crazy like that
-
-
-

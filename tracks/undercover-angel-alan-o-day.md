@@ -1,8 +1,11 @@
 ---
+album: It Happened In The Seventies
 artists:
 - Alan O'Day
+external_ids:
+  spotify: spotify:track:21jOt25HxvWACZoPQkOzJ7
 features: []
-genres: []
+first_released_as_single: false
 key: undercover-angel-alan-o-day
 lyrics_url: https://genius.com/Alan-oday-undercover-angel-lyrics
 name: Undercover Angel
@@ -107,6 +110,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1977-09-17'
+release_year: 1977
+runtime: 217440
 ---
 Crying on my pillow, lonely in my bed
 Then I heard a voice beside me and she softly said

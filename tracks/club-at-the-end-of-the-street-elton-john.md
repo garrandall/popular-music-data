@@ -1,8 +1,11 @@
 ---
+album: Sleeping With The Past (Remastered with bonus tracks)
 artists:
 - Elton John
+external_ids:
+  spotify: spotify:track:3spWfMlB39jSkstIslYnvG
 features: []
-genres: []
+first_released_as_single: false
 key: club-at-the-end-of-the-street-elton-john
 lyrics_url: https://www.azlyrics.com/lyrics/eltonjohn/clubattheendofthestreet.html
 name: Club At The End Of The Street
@@ -71,8 +74,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1990-08-11'
+release_year: 1989
+runtime: 292173
 ---
-
 When the shades are drawn
 And the light of the moon is banned
 And the stars up above
@@ -106,6 +110,3 @@ There's a sax and a big bass pumping
 Lord have mercy
 You can't sit still
 You can't sit still
-
-
-

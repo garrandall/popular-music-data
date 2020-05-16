@@ -1,8 +1,11 @@
 ---
+album: Not Me
 artists:
 - The Orlons
+external_ids:
+  spotify: spotify:track:6vIn75MvMef5rUQyJP8sCb
 features: []
-genres: []
+first_released_as_single: false
 key: not-me-the-orlons
 lyrics_url: https://genius.com/The-orlons-not-me-lyrics
 name: Not Me
@@ -47,6 +50,8 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '1963-08-17'
+release_year: 1963
+runtime: 153706
 ---
 Ya-Da-da-da-da-dat, dat-dat-dat-dat
 Ya-Da-da-da-da-dat-dat-dat-dat-dat

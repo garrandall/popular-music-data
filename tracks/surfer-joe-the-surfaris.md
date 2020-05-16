@@ -1,8 +1,11 @@
 ---
+album: Play
 artists:
 - The Surfaris
+external_ids:
+  spotify: spotify:track:6wxbV47QEBDNKwyevvSQrr
 features: []
-genres: []
+first_released_as_single: false
 key: surfer-joe-the-surfaris
 lyrics_url: https://genius.com/The-surfaris-surfer-joe-lyrics
 name: Surfer Joe
@@ -31,6 +34,8 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '1963-10-05'
+release_year: 1963
+runtime: 141133
 ---
 Down in Doheny where the surfers all go
 There's a big beach blondie, named Surfer Joe

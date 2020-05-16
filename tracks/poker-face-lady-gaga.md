@@ -1,8 +1,11 @@
 ---
+album: The Fame
 artists:
 - Lady Gaga
+external_ids:
+  spotify: spotify:track:5R8dQOPq8haW94K7mgERlO
 features: []
-genres: []
+first_released_as_single: false
 key: poker-face-lady-gaga
 lyrics_url: https://www.azlyrics.com/lyrics/ladygaga/pokerface.html
 name: Poker Face
@@ -167,8 +170,9 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '2009-10-03'
+release_year: 2008
+runtime: 237200
 ---
-
 Mum mum mum mah
 Mum mum mum mah
 Mum mum mum mah
@@ -232,6 +236,3 @@ P-p-p-poker face, p-p-poker face
 (Mum mum mum mah)
 P-p-p-poker face, p-p-poker face
 (Mum mum mum mah)
-
-
-

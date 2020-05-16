@@ -1,8 +1,11 @@
 ---
+album: Baby It's Me
 artists:
 - Diana Ross
+external_ids:
+  spotify: spotify:track:5HfMfjdJoAB1x1R2fbsAf7
 features: []
-genres: []
+first_released_as_single: false
 key: you-got-it-diana-ross
 lyrics_url: https://genius.com/Diana-ross-you-got-it-lyrics
 name: You Got It
@@ -35,6 +38,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1978-06-17'
+release_year: 1977
+runtime: 235200
 ---
 Warmer than sunshine, baby
 Sweeter than tears

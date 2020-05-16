@@ -1,8 +1,11 @@
 ---
+album: Breakin' Away
 artists:
 - Al Jarreau
+external_ids:
+  spotify: spotify:track:5yHSqWWUpU27n9s8kbZ94g
 features: []
-genres: []
+first_released_as_single: false
 key: breakin--away-al-jarreau
 lyrics_url: https://www.azlyrics.com/lyrics/aljarreau/breakinaway.html
 name: Breakin' Away
@@ -47,8 +50,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1982-02-06'
+release_year: 1981
+runtime: 253933
 ---
-
 Look what you've done for me-
 You're makin' more fun for me.
 Troubadour me, destined to be
@@ -80,6 +84,3 @@ Breakin' away, your love has opened
 eyes that couldn't see.
 Breakin' away, your beacon in the
 night discovered me.
-
-
-

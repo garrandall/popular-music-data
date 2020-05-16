@@ -1,8 +1,11 @@
 ---
+album: Stull
 artists:
 - Urge Overkill
+external_ids:
+  spotify: spotify:track:5u6Woby9oKAF8LhhuxykH1
 features: []
-genres: []
+first_released_as_single: true
 key: girl-you-ll-be-a-woman-soon-urge-overkill
 lyrics_url: https://genius.com/Urge-overkill-girl-youll-be-a-woman-soon-lyrics
 name: Girl You'll Be A Woman Soon
@@ -51,6 +54,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1995-01-28'
+release_year: 1992
+runtime: 189626
 ---
 Girl, you'll be a woman soon
 I love you so much, can't count all the ways

@@ -1,8 +1,11 @@
 ---
+album: Running In The Family
 artists:
 - Level 42
+external_ids:
+  spotify: spotify:track:3EGI5qmVmGlfgy9BmNb1R8
 features: []
-genres: []
+first_released_as_single: false
 key: lessons-in-love-level-42
 lyrics_url: https://www.azlyrics.com/lyrics/level42/lessonsinlove.html
 name: Lessons In Love
@@ -79,8 +82,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1987-08-01'
+release_year: 1987
+runtime: 246013
 ---
-
 I'm not proud, I was wrong
 And the truth is hard to take
 I felt sure we had enough
@@ -139,6 +143,3 @@ If we lose the time before us
 The future will ignore us
 We should use it, we could use it, yeah
 Lessons in love
-
-
-

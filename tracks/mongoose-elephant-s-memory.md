@@ -1,8 +1,11 @@
 ---
+album: Take It to the Streets
 artists:
 - Elephant's Memory
+external_ids:
+  spotify: spotify:track:7vY6glCrnLZH3O5IJ7mkYV
 features: []
-genres: []
+first_released_as_single: false
 key: mongoose-elephant-s-memory
 lyrics_url: https://genius.com/Elephants-memory-mongoose-lyrics
 name: Mongoose
@@ -63,6 +66,8 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '1970-11-07'
+release_year: 1970
+runtime: 292552
 ---
 In the village
 Of Leboga

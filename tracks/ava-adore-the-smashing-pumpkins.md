@@ -1,8 +1,11 @@
 ---
+album: Adore (Super Deluxe)
 artists:
 - The Smashing Pumpkins
+external_ids:
+  spotify: spotify:track:6bVB2MGR7LcotAIB1vfpw6
 features: []
-genres: []
+first_released_as_single: false
 key: ava-adore-the-smashing-pumpkins
 lyrics_url: https://www.azlyrics.com/lyrics/smashingpumpkins/avaadore.html
 name: Ava Adore
@@ -87,8 +90,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1998-11-14'
+release_year: 1998
+runtime: 270893
 ---
-
 It's you that I adore
 You'll always be my whore
 You'll be a mother to my child
@@ -137,6 +141,3 @@ You'll be perfect just like me
 In you I feel so dirty in you I crash cars
 In you I feel so pretty in you I taste god
 We must never be apart
-
-
-

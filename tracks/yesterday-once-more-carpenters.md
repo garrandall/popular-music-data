@@ -1,8 +1,11 @@
 ---
+album: Now & Then (Reissue)
 artists:
 - Carpenters
+external_ids:
+  spotify: spotify:track:3wM6RTAnF7IQpMFd7b9ZcL
 features: []
-genres: []
+first_released_as_single: false
 key: yesterday-once-more-carpenters
 lyrics_url: https://www.azlyrics.com/lyrics/carpenters/yesterdayoncemore.html
 name: Yesterday Once More
@@ -63,8 +66,9 @@ rankings:
   rank: 35
   ranking_list: Billboard Hot 100
   start_date: '1973-09-01'
+release_year: 1973
+runtime: 233533
 ---
-
 When I was young
 I'd listen to the radio
 Waitin' for my favorite songs
@@ -130,6 +134,3 @@ Still shines
 Every shing-a-ling-a-ling
 That they're startin' to sing's
 So fine
-
-
-

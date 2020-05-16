@@ -1,9 +1,13 @@
 ---
+album: No.6 Collaborations Project
 artists:
-- Ed Sheeran With Chris Stapleton
+- Ed Sheeran
+external_ids:
+  spotify: spotify:track:6EbduYTr62sSzvl36wWiFM
+features:
 - Bruno Mars
-features: []
-genres: []
+- Chris Stapleton
+first_released_as_single: true
 key: blow-ed-sheeran-with-chris-stapleton-bruno-mars
 name: BLOW
 rankings:
@@ -15,5 +19,7 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '2019-07-27'
+release_year: 2019
+runtime: 209120
 ---
 

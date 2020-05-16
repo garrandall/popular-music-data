@@ -1,9 +1,12 @@
 ---
+album: These Things Happen
 artists:
 - G-Eazy
+external_ids:
+  spotify: spotify:track:6jmTHeoWvBaSrwWttr8Xvu
 features:
 - Remo
-genres: []
+first_released_as_single: false
 key: i-mean-it-g-eazy-remo
 lyrics_url: https://www.azlyrics.com/lyrics/geazy/imeanit.html
 name: I Mean It
@@ -24,9 +27,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2015-02-21'
+release_year: 2014
+runtime: 236480
 ---
-
-
 You know if I say something I mean it
 These things happen
 Yeah
@@ -106,6 +109,3 @@ You know I mean it
 Just know I mean it
 Just know I mean it
 Oh yeah oh yeah oh yeah
-
-
-

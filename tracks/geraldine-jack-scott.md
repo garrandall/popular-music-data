@@ -1,8 +1,11 @@
 ---
+album: The Way I Walk
 artists:
 - Jack Scott
+external_ids:
+  spotify: spotify:track:3hWFEibUtyOEYcVC4SR78D
 features: []
-genres: []
+first_released_as_single: false
 key: geraldine-jack-scott
 lyrics_url: https://genius.com/Jack-scott-geraldine-lyrics
 name: Geraldine
@@ -11,6 +14,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1958-10-13'
+release_year: 1958
+runtime: 126720
 ---
 Geraldine (Geraldine, Geraldine, Geraldine)
 Geraldine (Geraldine, Geraldine, Geraldine)

@@ -1,8 +1,11 @@
 ---
+album: Whoomp! There It Is
 artists:
 - Tag Team
+external_ids:
+  spotify: spotify:track:70jtZsS59vhmyZSsln0std
 features: []
-genres: []
+first_released_as_single: true
 key: whoomp---there-it-is--tag-team
 lyrics_url: https://genius.com/Tag-team-whoomp-there-it-is-lyrics
 name: Whoomp! (There It Is)
@@ -187,6 +190,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1994-04-02'
+release_year: 1993
+runtime: 226026
 ---
 Party-people!
 Yeah, Tag Team music in full effect!

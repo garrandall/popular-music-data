@@ -1,8 +1,11 @@
 ---
+album: My Dear Melancholy,
 artists:
 - The Weeknd
+external_ids:
+  spotify: spotify:track:7DKS0rX27cCEPsK0R6tFWS
 features: []
-genres: []
+first_released_as_single: false
 key: wasted-times-the-weeknd
 lyrics_url: https://www.azlyrics.com/lyrics/weeknd/wastedtimes.html
 name: Wasted Times
@@ -19,8 +22,9 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '2018-04-28'
+release_year: 2018
+runtime: 220293
 ---
-
 Wasted times I spent with someone else
 She wasn't even half of you
 Reminiscin' how you felt
@@ -76,6 +80,3 @@ I don't wanna wake up
 If you ain't layin' next to me-e-e
 On me, me, on me, oh, I
 On me, on me, on me
-
-
-

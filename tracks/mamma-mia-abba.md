@@ -1,8 +1,11 @@
 ---
+album: Abba
 artists:
 - ABBA
+external_ids:
+  spotify: spotify:track:22NN4BS1AlqVbyKIWExgON
 features: []
-genres: []
+first_released_as_single: false
 key: mamma-mia-abba
 lyrics_url: https://www.azlyrics.com/lyrics/abba/mammamia.html
 name: Mamma Mia
@@ -43,8 +46,9 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1976-07-17'
+release_year: 1975
+runtime: 215266
 ---
-
 I've been cheated by you since I don't know when
 So I made up my mind, it must come to an end
 Look at me now, will I ever learn?
@@ -92,6 +96,3 @@ Blue since the day we parted
 Why, why did I ever let you go
 Mamma mia, now I really know
 My my, I could never let you go
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: The Very Best Of Jerry Butler
 artists:
 - Jerry Butler
+external_ids:
+  spotify: spotify:track:7D9ViCvLC6atoIV042u0Ta
 features: []
-genres: []
+first_released_as_single: false
 key: i-dig-you-baby-jerry-butler
 lyrics_url: https://genius.com/Jerry-butler-i-dig-you-baby-lyrics
 name: I Dig You Baby
@@ -43,6 +46,8 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '1967-03-18'
+release_year: 1967
+runtime: 161133
 ---
 I dig you, baby, I dig you, yes, I do
 I dig you, baby, I dig you, yes, I do

@@ -1,8 +1,11 @@
 ---
+album: L.A. Reggae
 artists:
 - Johnny Rivers
+external_ids:
+  spotify: spotify:track:5aDrdnIRVwhp1DTfSmbW6z
 features: []
-genres: []
+first_released_as_single: false
 key: memphis-johnny-rivers
 lyrics_url: https://www.azlyrics.com/lyrics/johnnyrivers/memphis.html
 name: Memphis
@@ -55,8 +58,9 @@ rankings:
   rank: 26
   ranking_list: Billboard Hot 100
   start_date: '1964-08-15'
+release_year: 1964
+runtime: 201320
 ---
-
 Long distance information, give me Memphis, Tennessee 
 Help me find a party that tried to get in touch with me 
 She could not leave a number, but I know who placed the call 
@@ -76,6 +80,3 @@ Help me, information, more than that I cannot add
 Only that I miss her and all the fun we had 
 Marie is only six years old, information, please 
 Try to put me through to her in Memphis, Tennessee
-
-
-

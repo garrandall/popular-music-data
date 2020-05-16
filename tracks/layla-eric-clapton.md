@@ -1,8 +1,11 @@
 ---
+album: Eric Clapton's Rainbow Concert
 artists:
 - Eric Clapton
+external_ids:
+  spotify: spotify:track:0e4os6wHr1jbFn4yPtSEOe
 features: []
-genres: []
+first_released_as_single: false
 key: layla-eric-clapton
 lyrics_url: https://www.azlyrics.com/lyrics/ericclapton/layla108863.html
 name: Layla
@@ -87,8 +90,9 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '1993-02-13'
+release_year: 1973
+runtime: 385637
 ---
-
 What'll you do when you get lonely?
 And nobody's waiting by your side?
 You've been running and hiding much too long
@@ -130,6 +134,3 @@ Layla
 You've got me on my knees, Layla
 I'm begging, darling please, Layla
 Darling won't you ease my worried mind
-
-
-

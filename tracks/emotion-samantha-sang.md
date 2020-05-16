@@ -1,8 +1,11 @@
 ---
+album: Emotion
 artists:
 - Samantha Sang
+external_ids:
+  spotify: spotify:track:1TSehAcbBAcmZlSNMjmf6U
 features: []
-genres: []
+first_released_as_single: false
 key: emotion-samantha-sang
 lyrics_url: https://genius.com/Samantha-sang-emotion-lyrics
 name: Emotion
@@ -115,6 +118,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1978-05-20'
+release_year: 1977
+runtime: 237293
 ---
 It's over and done
 But the heartache lives on inside

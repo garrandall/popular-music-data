@@ -1,8 +1,11 @@
 ---
+album: My Kinda Party
 artists:
 - Jason Aldean
+external_ids:
+  spotify: spotify:track:215FCyLSBcXeX0NASXEjyn
 features: []
-genres: []
+first_released_as_single: false
 key: my-kinda-party-jason-aldean
 lyrics_url: https://genius.com/Jason-aldean-my-kinda-party-lyrics
 name: My Kinda Party
@@ -87,6 +90,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2011-01-22'
+release_year: 2010
+runtime: 284960
 ---
 I worked all week
 Cleaned up clean cut and clean shaved

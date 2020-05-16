@@ -1,9 +1,12 @@
 ---
+album: There's Gonna Be A Showdown
 artists:
 - Archie Bell
 - The Drells
+external_ids:
+  spotify: spotify:track:7v7iraFbfC12qCZEJFmHAg
 features: []
-genres: []
+first_released_as_single: false
 key: girl-you-re-too-young-archie-bell-the-drells
 lyrics_url: https://www.musixmatch.com/lyrics/Archie-Bell-feat-The-Drells-3/Girl-You-re-Too-Young
 name: Girl You're Too Young
@@ -36,6 +39,8 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '1969-08-02'
+release_year: 1969
+runtime: 143853
 ---
 You're just a baby
 (Girl, you're too young) oh, yeah

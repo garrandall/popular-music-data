@@ -1,10 +1,13 @@
 ---
+album: Curtis
 artists:
 - 50 Cent
+external_ids:
+  spotify: spotify:track:36Hwcla06Q5BCr59CL0sBp
 features:
 - Justin Timberlake
 - Timbaland
-genres: []
+first_released_as_single: false
 key: ayo-technology-50-cent-justin-timberlake-timbaland
 lyrics_url: https://www.azlyrics.com/lyrics/50cent/ayotechnology.html
 name: Ayo Technology
@@ -89,8 +92,9 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '2008-01-05'
+release_year: 2007
+runtime: 247946
 ---
-
 Something special,
 Unforgettable,
 50 Cent (cent),
@@ -189,6 +193,3 @@ Your hips, your thighs, you got me hypnotized, let me tell you
 Your hips, your thighs, you got me hypnotized, let me tell you
 Your hips, your thighs, you got me hypnotized, let me tell you
 Your hips, your thighs, you got me hypnotized, let me tell you
-
-
-

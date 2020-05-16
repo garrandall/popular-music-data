@@ -1,8 +1,11 @@
 ---
+album: Honky Chateau
 artists:
 - Elton John
+external_ids:
+  spotify: spotify:track:3gdewACMIVMEWVbyb8O9sY
 features: []
-genres: []
+first_released_as_single: false
 key: rocket-man-elton-john
 lyrics_url: https://genius.com/Elton-john-rocket-man-03-lyrics
 name: Rocket Man
@@ -67,6 +70,8 @@ rankings:
   rank: 35
   ranking_list: Billboard Hot 100
   start_date: '1972-08-12'
+release_year: 1972
+runtime: 281613
 ---
 She packed my bags last night pre-flight
 Zero hour nine a.m

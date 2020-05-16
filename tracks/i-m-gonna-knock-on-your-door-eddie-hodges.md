@@ -1,8 +1,11 @@
 ---
+album: Hit Singles - EP
 artists:
 - Eddie Hodges
+external_ids:
+  spotify: spotify:track:6C5IC9bZ0q6mI16Hay23gB
 features: []
-genres: []
+first_released_as_single: true
 key: i-m-gonna-knock-on-your-door-eddie-hodges
 lyrics_url: https://genius.com/Eddie-hodges-i-m-gonna-knock-on-your-door-lyrics
 name: I'm Gonna Knock On Your Door
@@ -59,6 +62,8 @@ rankings:
   rank: 38
   ranking_list: Billboard Hot 100
   start_date: '1961-09-11'
+release_year: 1961
+runtime: 126266
 ---
 I'm gonna knock on your door
 Ring on your bell

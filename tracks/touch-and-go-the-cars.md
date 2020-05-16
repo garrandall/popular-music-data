@@ -1,8 +1,11 @@
 ---
+album: Panorama
 artists:
 - The Cars
+external_ids:
+  spotify: spotify:track:2pGw0Nuj75rdFt84bIAMlT
 features: []
-genres: []
+first_released_as_single: false
 key: touch-and-go-the-cars
 lyrics_url: https://genius.com/The-cars-touch-and-go-lyrics
 name: Touch And Go
@@ -51,6 +54,8 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1980-11-15'
+release_year: 1980
+runtime: 297733
 ---
 All I need is what you've got
 All I'll tell is what you're not

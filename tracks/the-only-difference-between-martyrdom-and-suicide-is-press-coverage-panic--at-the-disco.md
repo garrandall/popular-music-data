@@ -1,8 +1,11 @@
 ---
+album: A Fever You Can't Sweat Out
 artists:
 - Panic! At The Disco
+external_ids:
+  spotify: spotify:track:4WdopfTdSd0nCLropjhsgH
 features: []
-genres: []
+first_released_as_single: false
 key: the-only-difference-between-martyrdom-and-suicide-is-press-coverage-panic--at-the-disco
 lyrics_url: https://www.azlyrics.com/lyrics/panicatthedisco/theonlydifferencebetweenmartyrdomandsuicideispresscoverage.html
 name: The Only Difference Between Martyrdom And Suicide Is Press Coverage
@@ -39,8 +42,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2006-05-20'
+release_year: 2005
+runtime: 176933
 ---
-
 Sit tight, I'm gonna need you to keep time
 Come on just snap, snap, snap your fingers for me
 Good, good now we're making some progress
@@ -85,6 +89,3 @@ I aim to be your eyes, trophy boys, trophy wives
 Swear to shake it up, if you swear to listen
 Oh, we're still so young, desperate for attention
 I aim to be your eyes
-
-
-

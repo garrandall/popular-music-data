@@ -1,9 +1,12 @@
 ---
+album: Fearless Platinum Edition
 artists:
 - Taylor Swift
+external_ids:
+  spotify: spotify:track:6S9G7J3EB1ZY0rrZPwsBg5
 features:
 - Colbie Caillat
-genres: []
+first_released_as_single: false
 key: breathe-taylor-swift-colbie-caillat
 lyrics_url: https://www.azlyrics.com/lyrics/taylorswift/breathe.html
 name: Breathe
@@ -12,8 +15,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '2008-11-29'
+release_year: 2008
+runtime: 263986
 ---
-
 I see your face in my mind as I drive away
 'Cause none of us thought it was gonna end that way.
 People are people, and sometimes we change our minds.
@@ -72,6 +76,3 @@ I'm sorry.
 I'm sorry.
 I'm sorry.
 I'm sorry
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Black Seeds
 artists:
 - The Main Ingredient
+external_ids:
+  spotify: spotify:track:22BJ7Ji9wwh4YwxuZGMIqA
 features: []
-genres: []
+first_released_as_single: false
 key: black-seeds-keep-on-growing-the-main-ingredient
 name: Black Seeds Keep On Growing
 rankings:
@@ -18,5 +21,7 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1971-09-25'
+release_year: 1971
+runtime: 211853
 ---
 

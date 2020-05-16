@@ -1,8 +1,11 @@
 ---
+album: 'If I Ruled The World: Songs For The Jet Set'
 artists:
 - Tony Bennett
+external_ids:
+  spotify: spotify:track:7LImTa7vwDT3dDFBzq5wfw
 features: []
-genres: []
+first_released_as_single: false
 key: if-i-ruled-the-world-tony-bennett
 lyrics_url: https://www.azlyrics.com/lyrics/tonybennett/ifiruledtheworld.html
 name: If I Ruled The World
@@ -43,8 +46,9 @@ rankings:
   rank: 38
   ranking_list: Billboard Hot 100
   start_date: '1965-04-10'
+release_year: 1965
+runtime: 179106
 ---
-
 If I ruled the world,
 Every day would be the first day of spring,
 Every heart would have a new song to sing,
@@ -68,6 +72,3 @@ No my friend, not if I ruled the world.
 Every head would be held up high,
 There'd be sunshine in everyone's sky,
 If the day ever dawned when I ruled the world
-
-
-

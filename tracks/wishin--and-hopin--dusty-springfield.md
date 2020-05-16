@@ -1,8 +1,11 @@
 ---
+album: Stay Awhile / I Only Want To Be With You
 artists:
 - Dusty Springfield
+external_ids:
+  spotify: spotify:track:1UBcwKIAUHo7BYAvae6yeA
 features: []
-genres: []
+first_released_as_single: false
 key: wishin--and-hopin--dusty-springfield
 lyrics_url: https://www.azlyrics.com/lyrics/dustyspringfield/wishinandhopin.html
 name: Wishin' And Hopin'
@@ -59,8 +62,9 @@ rankings:
   rank: 30
   ranking_list: Billboard Hot 100
   start_date: '1964-09-12'
+release_year: 1964
+runtime: 176400
 ---
-
 Wishin' and hopin' and thinkin' and prayin'
 Plannin' and dreamin' each night of his charms
 That won't get you into his arms
@@ -103,6 +107,3 @@ All you gotta do is
 Hold him and kiss him and squeeze him and love him
 Yeah, just do it and after you do, you will be his
 You will be his, you will be his
-
-
-

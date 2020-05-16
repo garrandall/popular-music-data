@@ -1,8 +1,11 @@
 ---
+album: Traveller
 artists:
 - Chris Stapleton
+external_ids:
+  spotify: spotify:track:3fqwjXwUGN6vbzIwvyFMhx
 features: []
-genres: []
+first_released_as_single: false
 key: tennessee-whiskey-chris-stapleton
 lyrics_url: https://www.azlyrics.com/lyrics/chrisstapleton/tennesseewhiskey.html
 name: Tennessee Whiskey
@@ -31,8 +34,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2016-04-23'
+release_year: 2015
+runtime: 293293
 ---
-
 Used to spend my nights out in a barroom
 Liquor was the only love I'd known
 But you rescued me from reachin' for the bottom
@@ -67,6 +71,3 @@ Tennessee whiskey
 You're as smooth as Tennessee whiskey
 Tennessee whiskey
 Tennessee whiskey
-
-
-

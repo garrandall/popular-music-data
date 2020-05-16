@@ -1,8 +1,11 @@
 ---
+album: 'Tommy James And The Shondells: Anthology'
 artists:
 - Tommy James And The Shondells
+external_ids:
+  spotify: spotify:track:1iesv8xiE4cgtssvBUBM4K
 features: []
-genres: []
+first_released_as_single: false
 key: sweet-cherry-wine-tommy-james-and-the-shondells
 lyrics_url: https://www.azlyrics.com/lyrics/tommyjamesandtheshondells/sweetcherrywine.html
 name: Sweet Cherry Wine
@@ -47,8 +50,9 @@ rankings:
   rank: 27
   ranking_list: Billboard Hot 100
   start_date: '1969-05-24'
+release_year: 1969
+runtime: 271200
 ---
-
 C'mon, everyone, we got to get together now
 Oh, yeah, love's the only thing that matters anyhow
 And the beauty of life
@@ -111,6 +115,3 @@ Come on
 Hey (Sweet)
 Oh
 Oh
-
-
-

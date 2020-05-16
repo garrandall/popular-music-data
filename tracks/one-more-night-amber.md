@@ -1,8 +1,11 @@
 ---
+album: This Is Your Night
 artists:
 - Amber
+external_ids:
+  spotify: spotify:track:18cAagHHgjb62pUwDCv8EF
 features: []
-genres: []
+first_released_as_single: false
 key: one-more-night-amber
 lyrics_url: https://genius.com/Amber-one-more-night-lyrics
 name: One More Night
@@ -87,6 +90,8 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1998-02-28'
+release_year: 1996
+runtime: 209733
 ---
 One
 Baby I'm waiting

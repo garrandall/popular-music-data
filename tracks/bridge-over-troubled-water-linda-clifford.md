@@ -1,8 +1,11 @@
 ---
+album: Let Me Be Your Woman
 artists:
 - Linda Clifford
+external_ids:
+  spotify: spotify:track:380RyIFYXJPLBxrX0uOR2W
 features: []
-genres: []
+first_released_as_single: false
 key: bridge-over-troubled-water-linda-clifford
 lyrics_url: https://genius.com/Linda-clifford-bridge-over-troubled-water-lyrics
 name: Bridge Over Troubled Water
@@ -31,6 +34,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1979-04-28'
+release_year: 1979
+runtime: 610840
 ---
 When you need a friend
 When you need a friend

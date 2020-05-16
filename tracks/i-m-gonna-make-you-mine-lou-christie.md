@@ -1,8 +1,11 @@
 ---
+album: I'm Gonna Make You Mine
 artists:
 - Lou Christie
+external_ids:
+  spotify: spotify:track:4CjLp84JmIqzInzYxYZoAS
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-gonna-make-you-mine-lou-christie
 lyrics_url: https://genius.com/Lou-christie-im-gonna-make-you-mine-lyrics
 name: I'm Gonna Make You Mine
@@ -55,6 +58,8 @@ rankings:
   rank: 24
   ranking_list: Billboard Hot 100
   start_date: '1969-11-08'
+release_year: 1969
+runtime: 162320
 ---
 I'll try every trick in the book
 With every step that you take

@@ -1,8 +1,11 @@
 ---
+album: Tha Carter III (MTV Bonus Version)
 artists:
 - Lil Wayne
+external_ids:
+  spotify: spotify:track:1xPW9rS8dkuJP46WBTqU2C
 features: []
-genres: []
+first_released_as_single: false
 key: a-milli-lil-wayne
 lyrics_url: https://genius.com/Lil-wayne-a-milli-lyrics
 name: A Milli
@@ -99,6 +102,8 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '2008-10-11'
+release_year: 2008
+runtime: 221813
 ---
 Bangladesh
 Young Money!

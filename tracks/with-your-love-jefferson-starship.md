@@ -1,8 +1,11 @@
 ---
+album: Spitfire
 artists:
 - Jefferson Starship
+external_ids:
+  spotify: spotify:track:62NJcC5piTuieIFiDZxiz1
 features: []
-genres: []
+first_released_as_single: false
 key: with-your-love-jefferson-starship
 lyrics_url: https://genius.com/Jefferson-starship-with-your-love-lyrics
 name: With Your Love
@@ -75,6 +78,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1976-11-13'
+release_year: 1976
+runtime: 216240
 ---
 Don't know what's happened to me since I met you
 Feel like I'm falling in love since I met you

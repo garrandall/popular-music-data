@@ -1,8 +1,11 @@
 ---
+album: In Search Of A Song
 artists:
 - Tom T. Hall
+external_ids:
+  spotify: spotify:track:1sfXFEpGVK5s5i8eHEtNPj
 features: []
-genres: []
+first_released_as_single: false
 key: the-year-that-clayton-delaney-died-tom-t--hall
 lyrics_url: https://www.azlyrics.com/lyrics/tomthall/theyearthatclaytondelaneydied.html
 name: The Year That Clayton Delaney Died
@@ -55,8 +58,9 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1971-11-06'
+release_year: 1971
+runtime: 164720
 ---
-
 I remember the year that Clayton Delaney died
 They said for the last two weeks that he suffered and cried
 It made a big impression on me, although I was a barefoot kid
@@ -82,6 +86,3 @@ Nobody ever knew it but I went out in the woods and I cried
 Well, I know there's a lotta big preachers that know a lot more than I do
 But it could be that the good lord likes a little pickin' too
 Yeah, I remember the year that Clayton Delaney died
-
-
-

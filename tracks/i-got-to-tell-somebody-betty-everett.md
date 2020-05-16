@@ -1,8 +1,11 @@
 ---
+album: Bad, Bad Whiskey
 artists:
 - Betty Everett
+external_ids:
+  spotify: spotify:track:0TGRhDKk5DSWEkPPi3PW0H
 features: []
-genres: []
+first_released_as_single: false
 key: i-got-to-tell-somebody-betty-everett
 name: I Got To Tell Somebody
 rankings:
@@ -22,5 +25,7 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1971-01-16'
+release_year: 1970
+runtime: 138573
 ---
 

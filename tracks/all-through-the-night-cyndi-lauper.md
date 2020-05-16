@@ -1,8 +1,11 @@
 ---
+album: She's So Unusual
 artists:
 - Cyndi Lauper
+external_ids:
+  spotify: spotify:track:65R45MnObidxcXL6q3fHZW
 features: []
-genres: []
+first_released_as_single: false
 key: all-through-the-night-cyndi-lauper
 lyrics_url: https://www.musixmatch.com/lyrics/Cyndi-Lauper/All-Through-the-Night
 name: All Through The Night
@@ -83,6 +86,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1985-02-09'
+release_year: 1983
+runtime: 269800
 ---
 All through the night
 I'll be awake and I'll be with you

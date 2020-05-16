@@ -1,8 +1,11 @@
 ---
+album: 'Superfly: Deluxe 25th Anniversary Edition'
 artists:
 - Curtis Mayfield
+external_ids:
+  spotify: spotify:track:2ouFIPC3O1HNBcVTw1d9AN
 features: []
-genres: []
+first_released_as_single: false
 key: freddie-s-dead--theme-from--superfly---curtis-mayfield
 lyrics_url: https://www.musixmatch.com/lyrics/Curtis-Mayfield/Freddie-s-Dead-Theme-From-Superfly-single-mix
 name: Freddie's Dead (Theme From "Superfly")
@@ -71,6 +74,8 @@ rankings:
   rank: 23
   ranking_list: Billboard Hot 100
   start_date: '1972-12-02'
+release_year: 1972
+runtime: 329466
 ---
 Hey, hey
 Love, love

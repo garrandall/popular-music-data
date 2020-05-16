@@ -1,8 +1,11 @@
 ---
+album: Colors
 artists:
 - Ice-T
+external_ids:
+  spotify: spotify:track:1a7dYR84TTIBx1WyccwsbT
 features: []
-genres: []
+first_released_as_single: true
 key: colors-ice-t
 lyrics_url: https://genius.com/Ice-t-colors-lyrics
 name: Colors
@@ -35,6 +38,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1988-07-23'
+release_year: 1988
+runtime: 267200
 ---
 Yo Iz, let's do this
 

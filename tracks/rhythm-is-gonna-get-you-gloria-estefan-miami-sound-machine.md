@@ -1,9 +1,12 @@
 ---
+album: Let It Loose
 artists:
 - Gloria Estefan
 - Miami Sound Machine
+external_ids:
+  spotify: spotify:track:69U1Mlh2xMxx3SGOL1mSXQ
 features: []
-genres: []
+first_released_as_single: false
 key: rhythm-is-gonna-get-you-gloria-estefan-miami-sound-machine
 lyrics_url: https://genius.com/Gloria-estefan-and-miami-sound-machine-rhythm-is-gonna-get-you-special-12-dance-mix-lyrics
 name: Rhythm Is Gonna Get You
@@ -76,6 +79,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1987-09-19'
+release_year: 1984
+runtime: 236440
 ---
 O eh, o eh, o eh, o eh
 O eh, oo ah, o eh, oo ah

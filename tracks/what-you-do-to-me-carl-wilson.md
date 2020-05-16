@@ -1,8 +1,11 @@
 ---
+album: Youngblood
 artists:
 - Carl Wilson
+external_ids:
+  spotify: spotify:track:4wFPUsioL0kiLkjwM3MduT
 features: []
-genres: []
+first_released_as_single: false
 key: what-you-do-to-me-carl-wilson
 lyrics_url: https://genius.com/Carl-wilson-what-you-do-to-me-lyrics
 name: What You Do To Me
@@ -31,6 +34,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1983-06-18'
+release_year: 1983
+runtime: 234746
 ---
 Baby, maybe I look like a fool
 Standing before you tryin' to figure out

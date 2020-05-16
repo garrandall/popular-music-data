@@ -1,8 +1,11 @@
 ---
+album: Alpha
 artists:
 - Asia
+external_ids:
+  spotify: spotify:track:3rZLNPadgHyZ2ST4UgrsI1
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-cry-asia
 lyrics_url: https://genius.com/Asia-dont-cry-lyrics
 name: Don't Cry
@@ -59,6 +62,8 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '1983-10-22'
+release_year: 1983
+runtime: 210400
 ---
 Hard Times you had before you
 I knew when I first saw you

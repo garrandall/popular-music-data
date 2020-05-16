@@ -1,8 +1,11 @@
 ---
+album: Bad Girls
 artists:
 - Donna Summer
+external_ids:
+  spotify: spotify:track:1ibRqifchaAfeNdQGpbRVW
 features: []
-genres: []
+first_released_as_single: false
 key: bad-girls-donna-summer
 lyrics_url: https://www.azlyrics.com/lyrics/donnasummer/badgirls.html
 name: Bad Girls
@@ -87,8 +90,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1979-10-06'
+release_year: 1979
+runtime: 295106
 ---
-
 Bad girls
 Talking about the sad girls
 Sad girls
@@ -135,6 +139,3 @@ I got what you want, you got what I need
 I'll be your baby, come and spend it on me
 Hey, Mister
 I'll spend some time with you
-
-
-

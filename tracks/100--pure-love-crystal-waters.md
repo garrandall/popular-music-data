@@ -1,8 +1,11 @@
 ---
+album: History Of House Music
 artists:
 - Crystal Waters
+external_ids:
+  spotify: spotify:track:0dfQwyoZoS9LgQiU6AJO7f
 features: []
-genres: []
+first_released_as_single: false
 key: 100--pure-love-crystal-waters
 lyrics_url: https://genius.com/Crystal-waters-100-pure-love-lyrics
 name: 100% Pure Love
@@ -187,6 +190,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1995-04-01'
+release_year: 1994
+runtime: 278626
 ---
 It's twelve past midnight
 Don't close your eyes

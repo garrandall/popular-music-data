@@ -1,8 +1,11 @@
 ---
+album: Winger
 artists:
 - Winger
+external_ids:
+  spotify: spotify:track:2XbxWdh1e6Tyku9pbaXlFI
 features: []
-genres: []
+first_released_as_single: false
 key: headed-for-a-heartbreak-winger
 lyrics_url: https://www.azlyrics.com/lyrics/winger/headedforaheartbreak.html
 name: Headed For A Heartbreak
@@ -79,8 +82,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1989-09-30'
+release_year: 1988
+runtime: 312600
 ---
-
 Yeah
 
 Morning came and I was on my way
@@ -118,6 +122,3 @@ Headed for a heartbreak ('Cause I love you...)
 Headed for a heartbreak
 
 Don't you think I feel the pain?
-
-
-

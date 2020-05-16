@@ -1,8 +1,11 @@
 ---
+album: Blacka Da Berry
 artists:
 - Alfonzo Hunter
+external_ids:
+  spotify: spotify:track:69tB9bR5h5Y6KhsAmV9cLQ
 features: []
-genres: []
+first_released_as_single: false
 key: weekend-thang-alfonzo-hunter
 lyrics_url: https://www.musixmatch.com/lyrics/Alfonzo-Hunter/Weekend-Thang
 name: Weekend Thang
@@ -27,6 +30,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1997-04-12'
+release_year: 1996
+runtime: 203760
 ---
 I go and see her
 When I need some loving

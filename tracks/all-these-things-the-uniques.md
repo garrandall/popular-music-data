@@ -1,8 +1,11 @@
 ---
+album: Uniquely Yours
 artists:
 - The Uniques
+external_ids:
+  spotify: spotify:track:2MIL3ekW2l2baTgtJEZCLV
 features: []
-genres: []
+first_released_as_single: false
 key: all-these-things-the-uniques
 lyrics_url: https://www.musixmatch.com/lyrics/The-Uniques/All-These-Things
 name: All These Things
@@ -15,6 +18,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1966-07-09'
+release_year: 1966
+runtime: 236434
 ---
 The touch of your lips next to mine
 Gets me excited, makes me feel fine

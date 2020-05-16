@@ -1,8 +1,11 @@
 ---
+album: Free Yourself
 artists:
 - Fantasia
+external_ids:
+  spotify: spotify:track:3EavRQ4NZTRzSyX82bxABG
 features: []
-genres: []
+first_released_as_single: true
 key: i-believe-fantasia
 lyrics_url: https://genius.com/Fantasia-i-believe-lyrics
 name: I Believe
@@ -47,6 +50,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2004-09-11'
+release_year: 2003
+runtime: 299119
 ---
 Have you ever reached a rainbow's end
 And did you find your pot of gold

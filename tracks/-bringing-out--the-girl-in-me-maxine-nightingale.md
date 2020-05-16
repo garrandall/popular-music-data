@@ -1,8 +1,11 @@
 ---
+album: Lead Me On
 artists:
 - Maxine Nightingale
+external_ids:
+  spotify: spotify:track:5fuRsSCGDlOImVIJktdyoV
 features: []
-genres: []
+first_released_as_single: false
 key: -bringing-out--the-girl-in-me-maxine-nightingale
 name: (Bringing Out) The Girl In Me
 rankings:
@@ -26,5 +29,7 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '1979-12-01'
+release_year: 1979
+runtime: 210973
 ---
 

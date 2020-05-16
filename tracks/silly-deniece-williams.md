@@ -1,8 +1,11 @@
 ---
+album: Love Songs
 artists:
 - Deniece Williams
+external_ids:
+  spotify: spotify:track:3YDnZvDLMM6Neih8hyzRvV
 features: []
-genres: []
+first_released_as_single: false
 key: silly-deniece-williams
 lyrics_url: https://www.azlyrics.com/lyrics/deniecewilliams/silly.html
 name: Silly
@@ -47,8 +50,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1981-10-17'
+release_year: 1976
+runtime: 355666
 ---
-
 Silly of me to think that I could ever have you for my guy
 How I love you... How I want you...
 Silly of me to think that you could ever really want me too
@@ -92,6 +96,3 @@ Oh, oh oohohohh.ohSilly
 Oh, oh oohohohh.ohSilly
 Oh, oh la, la, la, la, la, la, la... Silly
 La, la, la, la, la, la, la, la, la, la, la... Silly
-
-
-

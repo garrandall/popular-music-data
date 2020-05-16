@@ -1,8 +1,11 @@
 ---
+album: 'Magic Lanters, Shame Shame: The Complete Recordings'
 artists:
 - Magic Lanterns
+external_ids:
+  spotify: spotify:track:4z375DRT2OBS1VpKUdgCZ2
 features: []
-genres: []
+first_released_as_single: false
 key: shame-shame-magic-lanterns
 lyrics_url: https://www.musixmatch.com/lyrics/Magic-Lanterns/Shame-Shame
 name: Shame Shame
@@ -55,6 +58,8 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1969-01-11'
+release_year: 1968
+runtime: 178660
 ---
 Love, was the game
 Fool, was my name

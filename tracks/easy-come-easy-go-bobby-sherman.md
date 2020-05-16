@@ -1,8 +1,11 @@
 ---
+album: Here Comes Bobby
 artists:
 - Bobby Sherman
+external_ids:
+  spotify: spotify:track:7vAs8FySNkvVqFlwIfTyZe
 features: []
-genres: []
+first_released_as_single: false
 key: easy-come-easy-go-bobby-sherman
 lyrics_url: https://genius.com/Bobby-sherman-easy-come-easy-go-lyrics
 name: Easy Come Easy Go
@@ -63,6 +66,8 @@ rankings:
   rank: 24
   ranking_list: Billboard Hot 100
   start_date: '1970-05-09'
+release_year: 1970
+runtime: 160373
 ---
 I'm taking the shade out of the sun
 Whatever made me think that I was number one

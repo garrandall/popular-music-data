@@ -1,8 +1,11 @@
 ---
+album: Dru World Order
 artists:
 - Dru Hill
+external_ids:
+  spotify: spotify:track:6gTQ91lrQ2QIZ7IwPv4Go8
 features: []
-genres: []
+first_released_as_single: false
 key: i-love-you-dru-hill
 lyrics_url: https://genius.com/Dru-hill-i-love-you-lyrics
 name: I Love You
@@ -59,6 +62,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2003-07-26'
+release_year: 2002
+runtime: 313586
 ---
 Yo, my time wasn't enough
 My heart wasn't enough

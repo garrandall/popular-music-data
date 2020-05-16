@@ -1,9 +1,12 @@
 ---
+album: Reba Duets
 artists:
 - Reba McEntire
 - Kelly Clarkson
+external_ids:
+  spotify: spotify:track:5LGEfWqwgYL16tyXkrRC8J
 features: []
-genres: []
+first_released_as_single: false
 key: because-of-you-reba-mcentire-kelly-clarkson
 lyrics_url: https://www.azlyrics.com/lyrics/rebamcentire/becauseofyou.html
 name: Because Of You
@@ -68,9 +71,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2007-10-20'
+release_year: 2007
+runtime: 223746
 ---
-
-
 I will not make the same mistakes that you did
 I will not let myself
 Cause my heart so much misery
@@ -144,6 +147,3 @@ Mmm... Oh...
 Because of you...
 
 Mmm... Oh...
-
-
-

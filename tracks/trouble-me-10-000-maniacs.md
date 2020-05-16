@@ -1,8 +1,11 @@
 ---
+album: Blind Man's Zoo
 artists:
 - 10,000 Maniacs
+external_ids:
+  spotify: spotify:track:6b75NS26jrAoHwFAU39tuI
 features: []
-genres: []
+first_released_as_single: true
 key: trouble-me-10-000-maniacs
 lyrics_url: https://genius.com/10000-maniacs-trouble-me-lyrics
 name: Trouble Me
@@ -55,6 +58,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1989-09-02'
+release_year: 1989
+runtime: 193266
 ---
 Trouble me
 Disturb me with all your cares and your worries

@@ -1,8 +1,11 @@
 ---
+album: Beginnings
 artists:
 - Rick Springfield
+external_ids:
+  spotify: spotify:track:3U7WGQgdrFM9SWbVkPQSPn
 features: []
-genres: []
+first_released_as_single: false
 key: speak-to-the-sky-rick-springfield
 lyrics_url: https://www.azlyrics.com/lyrics/rickspringfield/speaktothesky164713.html
 name: Speak To The Sky
@@ -59,8 +62,9 @@ rankings:
   rank: 37
   ranking_list: Billboard Hot 100
   start_date: '1972-10-28'
+release_year: 1972
+runtime: 162986
 ---
-
 Speak to the sky when ever things go wrong
 and you know you're not talkin' to the air, to the air
 and the world will look better from up there
@@ -94,6 +98,3 @@ and you know you're not talkin' to the air, to the air
 and the world will look better from up there
 and the world will look better from up there
 and the world will look better from up there
-
-
-

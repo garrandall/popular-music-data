@@ -1,8 +1,11 @@
 ---
+album: Unstoppable
 artists:
 - Rascal Flatts
+external_ids:
+  spotify: spotify:track:6IX5nEnp3BDGtGFQJzh1EH
 features: []
-genres: []
+first_released_as_single: false
 key: things-that-matter-rascal-flatts
 lyrics_url: https://genius.com/Rascal-flatts-things-that-matter-lyrics
 name: Things That Matter
@@ -11,6 +14,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '2009-04-18'
+release_year: 2009
+runtime: 281426
 ---
 Sometimes he lets that boss get
 In his head

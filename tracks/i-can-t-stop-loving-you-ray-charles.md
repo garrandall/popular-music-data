@@ -1,8 +1,11 @@
 ---
+album: Modern Sounds in Country and Western Music, Vols 1 & 2
 artists:
 - Ray Charles
+external_ids:
+  spotify: spotify:track:79nJj5dMyTsUzKvN5jUXsJ
 features: []
-genres: []
+first_released_as_single: false
 key: i-can-t-stop-loving-you-ray-charles
 lyrics_url: https://genius.com/Ray-charles-i-cant-stop-loving-you-lyrics
 name: I Can't Stop Loving You
@@ -79,6 +82,8 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '1962-09-01'
+release_year: 1962
+runtime: 256120
 ---
 (I can't stop loving you)
 I've made up my mind

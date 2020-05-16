@@ -1,8 +1,11 @@
 ---
+album: I'm Your Baby Tonight
 artists:
 - Whitney Houston
+external_ids:
+  spotify: spotify:track:3SmPl0CGxvvkQCrTv7edEE
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-your-baby-tonight-whitney-houston
 lyrics_url: https://genius.com/Whitney-houston-im-your-baby-tonight-lyrics
 name: I'm Your Baby Tonight
@@ -83,6 +86,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1991-02-23'
+release_year: 1990
+runtime: 299426
 ---
 From the moment I saw you
 I went outta my mind

@@ -1,8 +1,11 @@
 ---
+album: Cameo Parkway 1957-1967
 artists:
 - Pete Antell
+external_ids:
+  spotify: spotify:track:5Vx3vPFnLjwW4yD6ReZPMv
 features: []
-genres: []
+first_released_as_single: false
 key: night-time-pete-antell
 lyrics_url: https://www.musixmatch.com/lyrics/Pete-Antell/Night-Time
 name: Night Time
@@ -11,6 +14,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1962-12-08'
+release_year: 1962
+runtime: 134533
 ---
 (Dip dip sip sha da da)
 Sounds in the distance cry

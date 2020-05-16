@@ -1,9 +1,12 @@
 ---
+album: Indigo
 artists:
 - Chris Brown
+external_ids:
+  spotify: spotify:track:1wN6UMOnoOWqqQ6MY5R09T
 features:
 - Gunna
-genres: []
+first_released_as_single: true
 key: heat-chris-brown-gunna
 lyrics_url: https://www.azlyrics.com/lyrics/chrisbrown/heat.html
 name: Heat
@@ -88,8 +91,9 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '2020-01-25'
+release_year: 2019
+runtime: 232733
 ---
-
 Buddah bless this beat
 
 
@@ -185,6 +189,3 @@ This drip got you in heat (In heat)
 Just jump in, baby girl, hop on this dick (This dick), yeah
 You know that I'ma beat (Oh, uh)
 All this drip got your ass in heat, yeah
-
-
-

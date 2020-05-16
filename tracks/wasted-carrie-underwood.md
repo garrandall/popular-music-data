@@ -1,8 +1,11 @@
 ---
+album: Some Hearts
 artists:
 - Carrie Underwood
+external_ids:
+  spotify: spotify:track:5d98TnYzxQmFE4vKgzWXuT
 features: []
-genres: []
+first_released_as_single: false
 key: wasted-carrie-underwood
 lyrics_url: https://www.azlyrics.com/lyrics/carrieunderwood/wasted.html
 name: Wasted
@@ -87,8 +90,9 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '2007-06-30'
+release_year: 2005
+runtime: 274266
 ---
-
 Standing at the back door
 She tried to make it fast
 One tear hit the hard wood
@@ -150,6 +154,3 @@ Oh I don't wanna' keep on wishing, missing
 The still of the morning, the color of the night
 I ain't spending no more time
 Wasted
-
-
-

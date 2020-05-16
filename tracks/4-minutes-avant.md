@@ -1,8 +1,11 @@
 ---
+album: Director
 artists:
 - Avant
+external_ids:
+  spotify: spotify:track:55oXddT8pT8DL6HvLpXmtB
 features: []
-genres: []
+first_released_as_single: true
 key: 4-minutes-avant
 lyrics_url: https://genius.com/Avant-4-minutes-annotated
 name: 4 Minutes
@@ -63,6 +66,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2006-06-24'
+release_year: 2005
+runtime: 236680
 ---
 Hold, hold up, hold up
 Slow, slow down

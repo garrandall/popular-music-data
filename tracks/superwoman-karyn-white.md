@@ -1,8 +1,11 @@
 ---
+album: Karyn White
 artists:
 - Karyn White
+external_ids:
+  spotify: spotify:track:5iUGRvlnBtz9D1rmR3Sc9x
 features: []
-genres: []
+first_released_as_single: false
 key: superwoman-karyn-white
 lyrics_url: https://www.azlyrics.com/lyrics/karynwhite/superwoman.html
 name: Superwoman
@@ -79,9 +82,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1989-05-27'
+release_year: 1978
+runtime: 272226
 ---
-
-
 Early in the morning I put breakfast at your table
 And make sure that your coffee has it's sugar and cream
 Your eggs are overeasy
@@ -171,6 +174,3 @@ That you can let down
 And think that everything is okay
 Boy I am only human
 This girl needs more than occasional hugs as a token of love from you to me
-
-
-

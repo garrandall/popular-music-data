@@ -1,8 +1,11 @@
 ---
+album: Kevin Denney
 artists:
 - Kevin Denney
+external_ids:
+  spotify: spotify:track:0hHLFYQOVwKhpnO7oSXcFz
 features: []
-genres: []
+first_released_as_single: false
 key: that-s-just-jessie-kevin-denney
 lyrics_url: https://genius.com/Kevin-denney-thats-just-jessie-lyrics
 name: That's Just Jessie
@@ -75,6 +78,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2002-05-25'
+release_year: 2002
+runtime: 232266
 ---
 Sometimes in the morning
 My coffee gets ice cold

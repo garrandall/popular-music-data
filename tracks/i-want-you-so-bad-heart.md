@@ -1,8 +1,11 @@
 ---
+album: Bad Animals
 artists:
 - Heart
+external_ids:
+  spotify: spotify:track:1aupoGq6oWjYKOKbabJ0Bm
 features: []
-genres: []
+first_released_as_single: false
 key: i-want-you-so-bad-heart
 lyrics_url: https://genius.com/Heart-i-want-you-so-bad-lyrics
 name: I Want You So Bad
@@ -43,6 +46,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1988-04-16'
+release_year: 1987
+runtime: 261640
 ---
 When the wind blows through your hair
 I want you so bad, want you so bad

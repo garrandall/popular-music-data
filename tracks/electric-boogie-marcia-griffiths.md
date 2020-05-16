@@ -1,8 +1,11 @@
 ---
+album: Carousel
 artists:
 - Marcia Griffiths
+external_ids:
+  spotify: spotify:track:1JyaAeaXVFnVv5ikwWQVQ4
 features: []
-genres: []
+first_released_as_single: false
 key: electric-boogie-marcia-griffiths
 lyrics_url: https://genius.com/Marcia-griffiths-electric-boogie-lyrics
 name: Electric Boogie
@@ -51,6 +54,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1990-02-17'
+release_year: 1989
+runtime: 242773
 ---
 It's Electric!
 

@@ -1,8 +1,11 @@
 ---
+album: The Singles Collection, Vol. 3
 artists:
 - The Four Preps
+external_ids:
+  spotify: spotify:track:0plC6iWLWj47wldCTc3oWs
 features: []
-genres: []
+first_released_as_single: false
 key: a-letter-to-the-beatles-the-four-preps
 lyrics_url: https://genius.com/The-four-preps-a-letter-to-the-beatles-lyrics
 name: A Letter To The Beatles
@@ -19,6 +22,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1964-04-04'
+release_year: 1964
+runtime: 171693
 ---
 My girl fell in love with a singing group
 From England far away

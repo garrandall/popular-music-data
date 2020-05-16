@@ -1,8 +1,11 @@
 ---
+album: Lost Pop & Doo Wop, Vol. 4
 artists:
 - Chris Crosby
+external_ids:
+  spotify: spotify:track:4hCdeVQKc1yPBnZ9D9B3Re
 features: []
-genres: []
+first_released_as_single: false
 key: young-and-in-love-chris-crosby
 lyrics_url: https://www.musixmatch.com/lyrics/Chris-Crosby/Young-and-in-Love
 name: Young And In Love
@@ -35,6 +38,8 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '1964-03-28'
+release_year: 1964
+runtime: 145266
 ---
 I can tell by their talk
 Like they don't understand

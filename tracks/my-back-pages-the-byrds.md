@@ -1,8 +1,11 @@
 ---
+album: Younger Than Yesterday
 artists:
 - The Byrds
+external_ids:
+  spotify: spotify:track:30fUyVe4RDPRt6eug5vmVm
 features: []
-genres: []
+first_released_as_single: false
 key: my-back-pages-the-byrds
 lyrics_url: https://www.azlyrics.com/lyrics/byrds/mybackpages.html
 name: My Back Pages
@@ -35,8 +38,9 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '1967-05-13'
+release_year: 1965
+runtime: 188106
 ---
-
 Crimson flames tied through my ears
 Throwin' high and mighty traps
 Countless fire and flaming road
@@ -75,6 +79,3 @@ Good and bad, I define these terms
 Quite clear, no doubt, somehow.
 Ah, but I was so much older then,
 I'm younger than that now.
-
-
-

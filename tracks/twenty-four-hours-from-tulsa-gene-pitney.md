@@ -1,8 +1,11 @@
 ---
+album: Super Hits
 artists:
 - Gene Pitney
+external_ids:
+  spotify: spotify:track:5FxPUjVlH62XfPoa1UrFWA
 features: []
-genres: []
+first_released_as_single: false
 key: twenty-four-hours-from-tulsa-gene-pitney
 lyrics_url: https://www.musixmatch.com/lyrics/Gene-Pitney/Twenty-Four-Hours-From-Tulsa
 name: Twenty Four Hours From Tulsa
@@ -51,6 +54,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1963-12-28'
+release_year: 1963
+runtime: 177720
 ---
 Dearest darling
 I had to write to say that I won't be home anymore

@@ -1,8 +1,11 @@
 ---
+album: The Singles
 artists:
 - Johnny Mathis
+external_ids:
+  spotify: spotify:track:7kYA94PXwjCZLJsv31Ec6G
 features: []
-genres: []
+first_released_as_single: false
 key: wasn-t-the-summer-short--johnny-mathis
 lyrics_url: https://www.musixmatch.com/lyrics/Johnny-Mathis-feat-Nelson-Riddle-and-His-Orchestra/Wasn-t-the-Summer-Short
 name: Wasn't The Summer Short?
@@ -11,6 +14,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1961-10-23'
+release_year: 1961
+runtime: 175733
 ---
 Wasn't the summer short?
 Didn't it seem to fly?

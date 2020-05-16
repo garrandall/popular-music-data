@@ -1,8 +1,11 @@
 ---
+album: Curtis
 artists:
 - 50 Cent
+external_ids:
+  spotify: spotify:track:1FKFCvi0i46qEJLZSEBH8p
 features: []
-genres: []
+first_released_as_single: false
 key: i-get-money-50-cent
 lyrics_url: https://genius.com/50-cent-i-get-money-lyrics
 name: I Get Money
@@ -63,6 +66,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2007-12-08'
+release_year: 2007
+runtime: 223720
 ---
 I, I get money, money I got (I, I get it)
 I, I get money, money I got (I, I get it)

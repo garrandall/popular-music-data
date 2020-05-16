@@ -1,8 +1,11 @@
 ---
+album: The Youngbloods
 artists:
 - The Youngbloods
+external_ids:
+  spotify: spotify:track:6GrU8CtcbnSluWp2yI4Mt0
 features: []
-genres: []
+first_released_as_single: false
 key: grizzly-bear-the-youngbloods
 lyrics_url: https://www.azlyrics.com/lyrics/youngbloods/grizzlybear.html
 name: Grizzly Bear
@@ -47,8 +50,9 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '1967-02-18'
+release_year: 1966
+runtime: 144546
 ---
-
 Whoa, when I woke up this morning
 She was gone, solid gone
 When I woke up this morning
@@ -82,6 +86,3 @@ To dance out there
 
 'Cause whoa, when I woke up this morning
 Yeah, she was gone, solid gone
-
-
-

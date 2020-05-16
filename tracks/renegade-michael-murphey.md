@@ -1,8 +1,11 @@
 ---
+album: Swans Against The Sun
 artists:
 - Michael Murphey
+external_ids:
+  spotify: spotify:track:0VcTK2E0t0W0MQhqJ76q9z
 features: []
-genres: []
+first_released_as_single: false
 key: renegade-michael-murphey
 name: Renegade
 rankings:
@@ -34,5 +37,7 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '1976-03-06'
+release_year: 1975
+runtime: 372373
 ---
 

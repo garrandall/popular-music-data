@@ -1,8 +1,11 @@
 ---
+album: Savage Garden
 artists:
 - Savage Garden
+external_ids:
+  spotify: spotify:track:1usIChy4rUEzOMPYiB8AjY
 features: []
-genres: []
+first_released_as_single: true
 key: to-the-moon-and-back-savage-garden
 lyrics_url: https://www.azlyrics.com/lyrics/savagegarden/tothemoonandback.html
 name: To The Moon And Back
@@ -139,8 +142,9 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1998-10-03'
+release_year: 1996
+runtime: 341333
 ---
-
 She's taking her time making up
 the reasons
 To justify all the hurt inside
@@ -201,4 +205,3 @@ And now she's waiting for the right
 kind of pilot to come
 And she'll say to him
 Just saying
-

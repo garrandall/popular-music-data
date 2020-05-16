@@ -1,8 +1,11 @@
 ---
+album: Superstar Series - Celebrating Motown's Twentieth Anniversary
 artists:
 - The Originals
+external_ids:
+  spotify: spotify:track:5nxq8rI3FSk8BaXusm0nf4
 features: []
-genres: []
+first_released_as_single: false
 key: down-to-love-town-the-originals
 lyrics_url: https://genius.com/The-originals-down-to-love-town-lyrics
 name: Down To Love Town
@@ -43,6 +46,8 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '1976-12-18'
+release_year: 1976
+runtime: 174666
 ---
 (Down to...)
 
@@ -93,7 +98,6 @@ I didn't miss you
 (I'm gonna take my body down)
 (Down to love town)
 
-Lyrics courtesy Top40db
 I didn't miss you
 
 (I'm goin' down)

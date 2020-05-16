@@ -1,8 +1,11 @@
 ---
+album: You've Come A Long Way Baby
 artists:
 - Fatboy Slim
+external_ids:
+  spotify: spotify:track:3yGy1JYz3zQKlxSgjgpQqX
 features: []
-genres: []
+first_released_as_single: false
 key: praise-you-fatboy-slim
 lyrics_url: https://www.azlyrics.com/lyrics/fatboyslim/praiseyou.html
 name: Praise You
@@ -87,8 +90,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1999-07-24'
+release_year: 1998
+runtime: 323240
 ---
-
 We've come a long long way together,
 Through the hard times and the good,
 I have to celebrate you baby,

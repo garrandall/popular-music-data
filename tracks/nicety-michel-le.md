@@ -1,8 +1,11 @@
 ---
+album: Michel'le
 artists:
 - Michel'le
+external_ids:
+  spotify: spotify:track:1vw9MuorZMUxhsQBGsgyo1
 features: []
-genres: []
+first_released_as_single: false
 key: nicety-michel-le
 lyrics_url: https://genius.com/Michelle-nicety-lyrics
 name: Nicety
@@ -71,6 +74,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1990-07-28'
+release_year: 1989
+runtime: 211160
 ---
 Nice and...("Nasty!" [-- James Brown)
 (Ho!) ("HEY!")

@@ -1,8 +1,11 @@
 ---
+album: Albert Hammond
 artists:
 - Albert Hammond
+external_ids:
+  spotify: spotify:track:4Kcn3bOKxqVpSka7XMhSHN
 features: []
-genres: []
+first_released_as_single: false
 key: air-disaster-albert-hammond
 lyrics_url: https://www.azlyrics.com/lyrics/alberthammond/idontwanadieinanairdisaster.html
 name: Air Disaster
@@ -23,8 +26,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1974-07-20'
+release_year: 1974
+runtime: 218866
 ---
-
 The engines spit out fire, I'm pushed back in my chair
 The pressure gives me thrills as we climb in the air
 And I love to watch the clouds and the mountains and the sky
@@ -64,6 +68,3 @@ And I don't wanna go like a fading chorus
 And I don't wanna die for no good reason
 
 And I just wanna go on and on
-
-
-

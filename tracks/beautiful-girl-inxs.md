@@ -1,8 +1,11 @@
 ---
+album: Welcome To Wherever You Are
 artists:
 - INXS
+external_ids:
+  spotify: spotify:track:6N81xlWzMaEYhjHry55OSI
 features: []
-genres: []
+first_released_as_single: false
 key: beautiful-girl-inxs
 lyrics_url: https://www.azlyrics.com/lyrics/inxs/beautifulgirl.html
 name: Beautiful Girl
@@ -55,8 +58,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1993-05-08'
+release_year: 1992
+runtime: 207546
 ---
-
 Nicky's in the corner
 With a black coat on
 Running from a bad home
@@ -94,6 +98,3 @@ Stay with me (beautiful girl)
 Stay with me (beautiful girl)
 Stay with me (beautiful girl)
 Stay with me (beautiful girl)
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Start Of A Romance
 artists:
 - Skyy
+external_ids:
+  spotify: spotify:track:5Z3zDee9HvKhDYVWBHTQog
 features: []
-genres: []
+first_released_as_single: false
 key: real-love-skyy
 lyrics_url: https://genius.com/Skyy-real-love-lyrics
 name: Real Love
@@ -55,6 +58,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1990-04-07'
+release_year: 1989
+runtime: 314546
 ---
 Don't be afraid of the way you feel
 It's real love, boy

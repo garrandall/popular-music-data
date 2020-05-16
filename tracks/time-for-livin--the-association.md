@@ -1,8 +1,11 @@
 ---
+album: Birthday
 artists:
 - The Association
+external_ids:
+  spotify: spotify:track:4etvAuQXqBKHEGL2UF16v1
 features: []
-genres: []
+first_released_as_single: false
 key: time-for-livin--the-association
 lyrics_url: https://www.azlyrics.com/lyrics/association/timeforlivin.html
 name: Time For Livin'
@@ -39,8 +42,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1968-07-06'
+release_year: 1968
+runtime: 165586
 ---
-
 I kicked off my shoes, and felt the good earth under my feet
 I loosened my tie, and felt what it feels like to breathe
 I found the secret to life
@@ -66,6 +70,3 @@ Grooving on everything life is giving
 Lifetime for living
 Grooving on everything life is giving
 Lifetime for living
-
-
-

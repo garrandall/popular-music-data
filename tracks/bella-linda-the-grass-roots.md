@@ -1,8 +1,11 @@
 ---
+album: Temptation Eyes
 artists:
 - The Grass Roots
+external_ids:
+  spotify: spotify:track:6pPTIRIbmeIMmvXZaRreav
 features: []
-genres: []
+first_released_as_single: false
 key: bella-linda-the-grass-roots
 lyrics_url: https://www.azlyrics.com/lyrics/grassroots/bellalinda.html
 name: Bella Linda
@@ -43,8 +46,9 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1969-01-25'
+release_year: 1968
+runtime: 178906
 ---
-
 Bella Linda, try and understand
 Bella Linda, I'm doin' all I can
 Bella Linda, I'm only what I am
@@ -85,6 +89,3 @@ Bella Linda, I'm doin' all I can
 Bella Linda, I'm only what I am
 
 Bella Linda
-
-
-

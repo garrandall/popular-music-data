@@ -1,9 +1,12 @@
 ---
+album: If I Know Me
 artists:
 - Morgan Wallen
+external_ids:
+  spotify: spotify:track:3EWMoDIm6lzuR0zQKtuCJX
 features:
 - Florida Georgia Line
-genres: []
+first_released_as_single: false
 key: up-down-morgan-wallen-florida-georgia-line
 lyrics_url: https://www.azlyrics.com/lyrics/morganwallen/updown.html
 name: Up Down
@@ -88,8 +91,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2018-08-18'
+release_year: 2018
+runtime: 197253
 ---
-
 Was Friday after five, I got here just in time
 Went ahead and wet a line 'fore I went and lost my mind
 I ain't been here long, but the bobbers in the pond
@@ -136,6 +140,3 @@ Can turn this parking lot into a party
 With an ice chest, dancing, cold beer
 Man, we live it up, down, up, down
 We live it up, down here
-
-
-

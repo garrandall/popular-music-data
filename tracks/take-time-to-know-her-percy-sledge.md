@@ -1,8 +1,11 @@
 ---
+album: Take Time To Know Her
 artists:
 - Percy Sledge
+external_ids:
+  spotify: spotify:track:5UgzlDrLBJj9qIjSXdU0Yj
 features: []
-genres: []
+first_released_as_single: false
 key: take-time-to-know-her-percy-sledge
 lyrics_url: https://www.azlyrics.com/lyrics/percysledge/taketimetoknowher.html
 name: Take Time To Know Her
@@ -63,8 +66,9 @@ rankings:
   rank: 37
   ranking_list: Billboard Hot 100
   start_date: '1968-06-15'
+release_year: 1968
+runtime: 185106
 ---
-
 I found a woman
 I felt I truely loved
 She was everything
@@ -109,6 +113,3 @@ Please don't rush into this thing
 Take time to know her
 Its not an overnight fling
 Take time to know her
-
-
-

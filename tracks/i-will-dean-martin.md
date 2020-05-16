@@ -1,8 +1,11 @@
 ---
+album: Houston
 artists:
 - Dean Martin
+external_ids:
+  spotify: spotify:track:0Owtxy5TtDmnAQjcd8UZxZ
 features: []
-genres: []
+first_released_as_single: false
 key: i-will-dean-martin
 lyrics_url: https://genius.com/Dean-martin-i-will-lyrics
 name: I Will
@@ -47,6 +50,8 @@ rankings:
   rank: 32
   ranking_list: Billboard Hot 100
   start_date: '1966-01-01'
+release_year: 1965
+runtime: 141906
 ---
 I don't want to be the one to say I'm gonna miss you
 But I will

@@ -1,8 +1,11 @@
 ---
+album: Lost Without Your Love
 artists:
 - Bread
+external_ids:
+  spotify: spotify:track:78DSnVdZiuakQPwV0ler7s
 features: []
-genres: []
+first_released_as_single: false
 key: lost-without-your-love-bread
 lyrics_url: https://genius.com/Bread-lost-without-your-love-lyrics
 name: Lost Without Your Love
@@ -71,6 +74,8 @@ rankings:
   rank: 52
   ranking_list: Billboard Hot 100
   start_date: '1977-03-12'
+release_year: 1973
+runtime: 176853
 ---
 Lost and all alone
 I always thought

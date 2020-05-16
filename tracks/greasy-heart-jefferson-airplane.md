@@ -1,8 +1,11 @@
 ---
+album: Crown Of Creation
 artists:
 - Jefferson Airplane
+external_ids:
+  spotify: spotify:track:1xTyfejmnulYD3fO390sz9
 features: []
-genres: []
+first_released_as_single: false
 key: greasy-heart-jefferson-airplane
 lyrics_url: https://www.azlyrics.com/lyrics/jeffersonairplane/greasyheart.html
 name: Greasy Heart
@@ -19,8 +22,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1968-05-04'
+release_year: 1968
+runtime: 205853
 ---
-
 Lady, you keep asking why he likes you how come
 Wonder why he wants more if he just had some
 Boys, she's got more to play with in the way of toys
@@ -41,6 +45,3 @@ Don't ever change people your face will hit the fan
 Don't ever change people even if you can
 Don't change before the empire falls
 You'll laugh so hard you'll crack the walls
-
-
-

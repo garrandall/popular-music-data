@@ -1,9 +1,12 @@
 ---
+album: Dance Party
 artists:
 - Martha
 - The Vandellas
+external_ids:
+  spotify: spotify:track:2jZt2lazpC7eU9TaO7vGoS
 features: []
-genres: []
+first_released_as_single: false
 key: wild-one-martha-the-vandellas
 lyrics_url: https://www.azlyrics.com/lyrics/marthaandthevandellas/wildone.html
 name: Wild One
@@ -36,8 +39,9 @@ rankings:
   rank: 37
   ranking_list: Billboard Hot 100
   start_date: '1965-01-16'
+release_year: 1964
+runtime: 168266
 ---
-
 Wild one, wild one
 Wild one, you're a rebel
 And they say you're just no good
@@ -78,6 +82,3 @@ And go where you want to
 Be wild as can be
 But save your love for me
 Save your love for me
-
-
-

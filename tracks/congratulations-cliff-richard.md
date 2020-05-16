@@ -1,8 +1,11 @@
 ---
+album: Cliff Live At The Talk Of The Town
 artists:
 - Cliff Richard
+external_ids:
+  spotify: spotify:track:0uKl2tH03jvcyWfMkinfnq
 features: []
-genres: []
+first_released_as_single: false
 key: congratulations-cliff-richard
 lyrics_url: https://www.azlyrics.com/lyrics/cliffrichard/congratulations.html
 name: Congratulations
@@ -19,8 +22,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1968-06-22'
+release_year: 1968
+runtime: 158546
 ---
-
 Congratulations 
 And celebrations
 When I tell everyone that you're in love
@@ -61,6 +65,3 @@ And jubilations
 I want the world to know I'm happy as can be
 I want the world to know
 I'm happy as can be
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: The Best Of Joe Dowell
 artists:
 - Joe Dowell
+external_ids:
+  spotify: spotify:track:2ELAMT68a78OGwhCgj9Kai
 features: []
-genres: []
+first_released_as_single: false
 key: wooden-heart-joe-dowell
 lyrics_url: https://genius.com/Joe-dowell-wooden-heart-lyrics
 name: Wooden Heart
@@ -71,6 +74,8 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '1961-10-09'
+release_year: 1961
+runtime: 118426
 ---
 Can't you see, I love you
 Please don't break my heart in two

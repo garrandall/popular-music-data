@@ -1,8 +1,11 @@
 ---
+album: Dusty In Memphis
 artists:
 - Dusty Springfield
+external_ids:
+  spotify: spotify:track:7odHgoLFi3GQ90E9PeraI3
 features: []
-genres: []
+first_released_as_single: false
 key: son-of-a-preacher-man-dusty-springfield
 lyrics_url: https://genius.com/Dusty-springfield-son-of-a-preacher-man-lyrics
 name: Son-Of-A Preacher Man
@@ -55,6 +58,8 @@ rankings:
   rank: 34
   ranking_list: Billboard Hot 100
   start_date: '1969-02-15'
+release_year: 1968
+runtime: 149160
 ---
 Billy Ray was a preacher's son
 And when his daddy would visit he'd come along

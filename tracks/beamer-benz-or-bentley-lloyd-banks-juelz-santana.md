@@ -1,9 +1,12 @@
 ---
+album: H.F.M. 2 (Hunger For More 2)
 artists:
 - Lloyd Banks
+external_ids:
+  spotify: spotify:track:0cNJ3huiV99wvUN1tmQLTL
 features:
 - Juelz Santana
-genres: []
+first_released_as_single: false
 key: beamer-benz-or-bentley-lloyd-banks-juelz-santana
 lyrics_url: https://www.azlyrics.com/lyrics/lloydbanks/beamerbenzorbentley.html
 name: Beamer Benz Or Bentley
@@ -72,9 +75,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2010-06-26'
+release_year: 2010
+runtime: 208386
 ---
-
-
 Beamer, Benz, Or Bentley
 Beamer, Benz, Or Bentley
 Beamer, Benz, Or Bentley
@@ -151,4 +154,3 @@ I just wanna get between her
 turn it over scream her
 than its one, two, Im through, see ya
 I scoop her in my Beamer, Benz or Bentley.
-

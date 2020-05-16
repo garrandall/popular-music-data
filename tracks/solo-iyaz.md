@@ -1,8 +1,11 @@
 ---
+album: Contemporary R&B Dancers
 artists:
 - Iyaz
+external_ids:
+  spotify: spotify:track:3fV2ZnSsxgvXUHshkGCBdR
 features: []
-genres: []
+first_released_as_single: true
 key: solo-iyaz
 lyrics_url: https://www.azlyrics.com/lyrics/iyaz/solo.html
 name: Solo
@@ -79,8 +82,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2010-07-03'
+release_year: 2010
+runtime: 194266
 ---
-
 Well ya dun know it's ya boy I-Y-A-Z
 Alongside the man J-R'a
 
@@ -162,6 +166,3 @@ And now I'm so low
 And I don't wanna walk around alone, solo
 I said I don't want to walk this earth
 If I gotta do it solo (solo, solo)
-
-
-

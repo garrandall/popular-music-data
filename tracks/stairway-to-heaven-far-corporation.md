@@ -1,8 +1,11 @@
 ---
+album: Solitude
 artists:
 - Far Corporation
+external_ids:
+  spotify: spotify:track:6pJC09UVDzeMLO4rFlip82
 features: []
-genres: []
+first_released_as_single: false
 key: stairway-to-heaven-far-corporation
 lyrics_url: https://genius.com/Far-corporation-stairway-to-heaven-lyrics
 name: Stairway To Heaven
@@ -23,6 +26,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1986-10-25'
+release_year: 1986
+runtime: 526960
 ---
 There's a lady who's sure
 All that glitters is gold

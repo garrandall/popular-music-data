@@ -1,8 +1,11 @@
 ---
+album: Love, Peace and Happiness / Live at Bill Graham's Fillmore East
 artists:
 - The Chambers Brothers
+external_ids:
+  spotify: spotify:track:4dTU2FPYgADbJlOQXOyy7e
 features: []
-genres: []
+first_released_as_single: false
 key: wake-up-the-chambers-brothers
 lyrics_url: https://genius.com/The-chambers-brothers-wake-up-lyrics
 name: Wake Up
@@ -15,6 +18,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1969-07-19'
+release_year: 1969
+runtime: 137466
 ---
 Wake up
 (Wake up)

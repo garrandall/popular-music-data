@@ -1,8 +1,11 @@
 ---
+album: The Best Of Stephanie Mills
 artists:
 - Stephanie Mills
+external_ids:
+  spotify: spotify:track:0YHgQnCiCfjKq3onzayWy1
 features: []
-genres: []
+first_released_as_single: false
 key: the-medicine-song-stephanie-mills
 lyrics_url: https://www.azlyrics.com/lyrics/stephaniemills/themedicinesong.html
 name: The Medicine Song
@@ -31,8 +34,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1984-11-17'
+release_year: 1984
+runtime: 292600
 ---
-
 Danger eyes are no surprise
 In stayin' wise to you
 Shady walks and midnight stalks
@@ -144,6 +148,3 @@ Mama's gonna give you some medicine
 You need a little bit of this medicine
 (Oh, my medicine)
 Mama's gonna give you some medicine
-
-
-

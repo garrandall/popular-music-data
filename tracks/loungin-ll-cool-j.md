@@ -1,8 +1,11 @@
 ---
+album: Mr. Smith
 artists:
 - LL Cool J
+external_ids:
+  spotify: spotify:track:0UN5OvKlbg06LnZyVk48ll
 features: []
-genres: []
+first_released_as_single: false
 key: loungin-ll-cool-j
 lyrics_url: https://www.azlyrics.com/lyrics/llcoolj/loungin.html
 name: Loungin
@@ -123,8 +126,9 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1997-01-18'
+release_year: 1995
+runtime: 229373
 ---
-
 keep it chickenhead,im lookin for a dime
 get my swirve on,make it hot,word is bond, I'm lickin on your ankle
 bracelet,we'll be sippin' moet wit strawberries and dat shit, I'm nasty ask me
@@ -171,4 +175,3 @@ so here u are,smack dab up in the mix,shorty this here's about as good as it
 gets
 word up,i'ma treat u like a queen from the heart,crack the bubbly,and let the
 episode start.
-

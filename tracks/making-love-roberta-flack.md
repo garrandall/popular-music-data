@@ -1,8 +1,11 @@
 ---
+album: I'm The One
 artists:
 - Roberta Flack
+external_ids:
+  spotify: spotify:track:1UpKK7U9ow2K1G6qNw9wnW
 features: []
-genres: []
+first_released_as_single: false
 key: making-love-roberta-flack
 lyrics_url: https://genius.com/Roberta-flack-making-love-lyrics
 name: Making Love
@@ -91,6 +94,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1982-07-24'
+release_year: 1982
+runtime: 223946
 ---
 Here... close to our feeling... we touch again... we love again
 Remember when we thought our hearts would never mend?

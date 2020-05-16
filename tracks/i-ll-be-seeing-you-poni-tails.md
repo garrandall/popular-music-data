@@ -1,8 +1,11 @@
 ---
+album: Born Too Late
 artists:
 - Poni-Tails
+external_ids:
+  spotify: spotify:track:3A2d4YI6HV3jyDIg3g13vp
 features: []
-genres: []
+first_released_as_single: false
 key: i-ll-be-seeing-you-poni-tails
 lyrics_url: https://www.musixmatch.com/lyrics/The-Poni-Tails/I-ll-Be-Seeing-You
 name: I'll Be Seeing You
@@ -19,6 +22,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1959-11-16'
+release_year: 1959
+runtime: 168666
 ---
 I'll be seeing you in
 All the old familiar places

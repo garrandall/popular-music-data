@@ -1,8 +1,11 @@
 ---
+album: thank u, next
 artists:
 - Ariana Grande
+external_ids:
+  spotify: spotify:track:1TuSAhOzTqoFf7BZxBl6nz
 features: []
-genres: []
+first_released_as_single: false
 key: imagine-ariana-grande
 lyrics_url: https://genius.com/Ariana-grande-imagine-lyrics
 name: Imagine
@@ -39,6 +42,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '2019-03-09'
+release_year: 2018
+runtime: 212266
 ---
 Step up, the two of us, nobody knows us
 Get in the car like, "Skrrt"

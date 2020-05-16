@@ -1,8 +1,11 @@
 ---
+album: In Color
 artists:
 - Cheap Trick
+external_ids:
+  spotify: spotify:track:2cYTvQC3cwKwSnF9XxA2nz
 features: []
-genres: []
+first_released_as_single: false
 key: i-want-you-to-want-me-cheap-trick
 lyrics_url: https://genius.com/Cheap-trick-i-want-you-to-want-me-lyrics
 name: I Want You To Want Me
@@ -83,6 +86,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1979-09-01'
+release_year: 1977
+runtime: 179840
 ---
 I want you to want me
 I need you to need me

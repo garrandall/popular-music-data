@@ -1,8 +1,11 @@
 ---
+album: Dad Loves His Work
 artists:
 - James Taylor
+external_ids:
+  spotify: spotify:track:6jMNpRglqktDICL8HGfOBG
 features: []
-genres: []
+first_released_as_single: false
 key: hard-times-james-taylor
 lyrics_url: https://genius.com/James-taylor-hard-times-lyrics
 name: Hard Times
@@ -27,6 +30,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1981-07-11'
+release_year: 1981
+runtime: 191426
 ---
 We've seen some hard times, hard time
 Holding it together ain't always easy

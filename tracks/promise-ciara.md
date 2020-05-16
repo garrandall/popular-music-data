@@ -1,8 +1,11 @@
 ---
+album: The Evolution
 artists:
 - Ciara
+external_ids:
+  spotify: spotify:track:1pLdjo3lOBbMaoR4ZpybFH
 features: []
-genres: []
+first_released_as_single: false
 key: promise-ciara
 lyrics_url: https://genius.com/Ciara-promise-lyrics
 name: Promise
@@ -87,6 +90,8 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '2007-04-07'
+release_year: 2006
+runtime: 267413
 ---
 Come enjoy the life
 Baby, take a ride

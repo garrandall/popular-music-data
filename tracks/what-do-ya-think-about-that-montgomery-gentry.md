@@ -1,8 +1,11 @@
 ---
+album: Some People Change
 artists:
 - Montgomery Gentry
+external_ids:
+  spotify: spotify:track:30Q0MN8pPGv7ChP8KjOn0y
 features: []
-genres: []
+first_released_as_single: false
 key: what-do-ya-think-about-that-montgomery-gentry
 lyrics_url: https://www.azlyrics.com/lyrics/montgomerygentry/whatdoyathinkaboutthat.html
 name: What Do Ya Think About That
@@ -87,8 +90,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2008-03-01'
+release_year: 1999
+runtime: 218320
 ---
-
 I heard it through the grapevine
 My new neighbor don't like my big red barn
 A '47 Ford, bullet holes in the door
@@ -139,6 +143,3 @@ What do ya think about that
 Say, I don't give a damn what other people think
 What do ya think about that
 What do ya think about that
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: The Lizard
 artists:
 - Saigon Kick
+external_ids:
+  spotify: spotify:track:3F3n2V9XBrtb1omqLfcNPe
 features: []
-genres: []
+first_released_as_single: false
 key: love-is-on-the-way-saigon-kick
 lyrics_url: https://www.azlyrics.com/lyrics/saigonkick/loveisontheway.html
 name: Love Is On The Way
@@ -95,8 +98,9 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1993-01-30'
+release_year: 1992
+runtime: 264173
 ---
-
 Lonely sidewalks
 Silent night
 Bring the evenin'
@@ -149,6 +153,3 @@ Let's give it one more try tonight baby
 Love is on the way
 I can see it in your eyes
 Let's give it one more try tonight
-
-
-

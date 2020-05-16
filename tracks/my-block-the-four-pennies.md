@@ -1,8 +1,11 @@
 ---
+album: The Best Of Laurie Records
 artists:
 - The Four Pennies
+external_ids:
+  spotify: spotify:track:6eESmZIEy6BWDBLgzidjtu
 features: []
-genres: []
+first_released_as_single: false
 key: my-block-the-four-pennies
 lyrics_url: https://www.musixmatch.com/lyrics/The-Four-Pennies/My-Block
 name: My Block
@@ -27,6 +30,8 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1963-07-20'
+release_year: 1963
+runtime: 161466
 ---
 I'd be so ashamed to meet you
 If you came to my block (my block)

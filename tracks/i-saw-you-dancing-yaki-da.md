@@ -1,8 +1,11 @@
 ---
+album: Pride
 artists:
 - Yaki-Da
+external_ids:
+  spotify: spotify:track:5FhRWxcqWIu3JoFS0kEPom
 features: []
-genres: []
+first_released_as_single: false
 key: i-saw-you-dancing-yaki-da
 lyrics_url: https://genius.com/Yaki-da-i-saw-you-dancing-lyrics
 name: I Saw You Dancing
@@ -51,6 +54,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1995-08-12'
+release_year: 1994
+runtime: 225626
 ---
 I saw you dancing
 And I'll never be the same again for sure

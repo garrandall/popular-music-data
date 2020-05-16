@@ -1,8 +1,11 @@
 ---
+album: The Chimes
 artists:
 - The Chimes
+external_ids:
+  spotify: spotify:track:59SxsQ3e2bQ9U65GelEMqV
 features: []
-genres: []
+first_released_as_single: false
 key: 1-2-3-the-chimes
 lyrics_url: https://www.musixmatch.com/lyrics/The-Chimes/1-2-3
 name: 1-2-3
@@ -27,6 +30,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1990-03-03'
+release_year: 1990
+runtime: 203360
 ---
 Oh, yeah, mmm, oh, yeah
 

@@ -1,8 +1,11 @@
 ---
+album: Live In Europe
 artists:
 - Billy Paul
+external_ids:
+  spotify: spotify:track:6UQKCg6rfWg7zQVDSQ7gxT
 features: []
-genres: []
+first_released_as_single: false
 key: thanks-for-saving-my-life-billy-paul
 lyrics_url: https://www.azlyrics.com/lyrics/billypaul/thanksforsavingmylife.html
 name: Thanks For Saving My Life
@@ -75,8 +78,9 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1974-05-18'
+release_year: 1973
+runtime: 257146
 ---
-
 Thanks for saving my life
 For picking me up, dusting me off
 Making me feel like I'm living again
@@ -143,6 +147,3 @@ Didn't you, didn't you, didn't you, didn't you save me
 
 Thank you for saving my life
 For picking me up
-
-
-

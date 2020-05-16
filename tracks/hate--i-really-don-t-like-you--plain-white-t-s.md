@@ -1,8 +1,11 @@
 ---
+album: Every Second Counts
 artists:
 - Plain White T's
+external_ids:
+  spotify: spotify:track:6cQSR4chKDTFhlCT2MuNwq
 features: []
-genres: []
+first_released_as_single: false
 key: hate--i-really-don-t-like-you--plain-white-t-s
 lyrics_url: https://genius.com/Plain-white-ts-hate-lyrics
 name: Hate (I Really Don't Like You)
@@ -31,6 +34,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2007-01-13'
+release_year: 2006
+runtime: 224853
 ---
 Love, love, love, love, love, love
 Woo!

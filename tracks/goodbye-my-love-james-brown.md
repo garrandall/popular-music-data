@@ -1,8 +1,11 @@
 ---
+album: Say It Loud - I'm Black And I'm Proud
 artists:
 - James Brown
+external_ids:
+  spotify: spotify:track:7qA41EPaEQRIIJoEmus3H3
 features: []
-genres: []
+first_released_as_single: false
 key: goodbye-my-love-james-brown
 lyrics_url: https://www.azlyrics.com/lyrics/jamesbrown/goodbyemylove.html
 name: Goodbye My Love
@@ -35,8 +38,9 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1968-12-21'
+release_year: 1968
+runtime: 331626
 ---
-
 You know sometimes a man 
 Or a woman makes a mistake 
 Try to find a reason for making a mistake 
@@ -75,6 +79,3 @@ I still love you
 Woa, oh, I still love you 
 Oh, oh take it down Jimmy 
 Oh, oh take it down Jimmy look a here
-
-
-

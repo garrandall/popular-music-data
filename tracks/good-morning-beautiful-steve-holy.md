@@ -1,8 +1,11 @@
 ---
+album: Blue Moon
 artists:
 - Steve Holy
+external_ids:
+  spotify: spotify:track:0eHT8N5YQglv8cYYizXvSw
 features: []
-genres: []
+first_released_as_single: false
 key: good-morning-beautiful-steve-holy
 lyrics_url: https://www.azlyrics.com/lyrics/steveholy/goodmorningbeautiful.html
 name: Good Morning Beautiful
@@ -87,8 +90,9 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '2002-04-13'
+release_year: 2000
+runtime: 210933
 ---
-
 Good morning, beautiful, how was your night?
 Mine was wonderful with you by my side
 And when I open my eyes to see your sweet face
@@ -117,6 +121,3 @@ Hm, it's a beautiful day
 (Good morning beautiful, good morning beautiful)
 Good morning, what a beautiful day
 (Good morning beautiful, good morning beautiful)
-
-
-

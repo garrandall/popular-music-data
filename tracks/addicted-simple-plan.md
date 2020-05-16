@@ -1,8 +1,11 @@
 ---
+album: MTV Hard Rock Live (U.S. Version)
 artists:
 - Simple Plan
+external_ids:
+  spotify: spotify:track:3QzSzbqBYgW9xSxXFfV4MY
 features: []
-genres: []
+first_released_as_single: false
 key: addicted-simple-plan
 lyrics_url: https://genius.com/Simple-plan-addicted-lyrics
 name: Addicted
@@ -83,6 +86,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2003-11-01'
+release_year: 2003
+runtime: 247440
 ---
 I heard you're doing OK
 But I want you to know

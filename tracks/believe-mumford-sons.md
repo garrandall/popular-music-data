@@ -1,9 +1,12 @@
 ---
+album: Live from Shepherd's Bush Empire
 artists:
 - Mumford
 - Sons
+external_ids:
+  spotify: spotify:track:2va7x2PRDMO8wRDvkK5hwV
 features: []
-genres: []
+first_released_as_single: false
 key: believe-mumford-sons
 lyrics_url: https://www.azlyrics.com/lyrics/mumfordsons/believe.html
 name: Believe
@@ -68,8 +71,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2015-07-04'
+release_year: 2011
+runtime: 244466
 ---
-
 You may call it in this evening
 But you've only lost the night
 Present all your pretty feelings
@@ -117,6 +121,3 @@ So, open up my eyes
 Tell me I'm alive
 This is never gonna go our way
 If I'm gonna have to guess what's on your mind
-
-
-

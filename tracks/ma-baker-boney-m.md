@@ -1,8 +1,11 @@
 ---
+album: Love For Sale
 artists:
 - Boney M
+external_ids:
+  spotify: spotify:track:1BqnZOkYJbvYLOhN0qPJDm
 features: []
-genres: []
+first_released_as_single: false
 key: ma-baker-boney-m
 lyrics_url: https://genius.com/Boney-m-ma-baker-lyrics
 name: Ma Baker
@@ -19,6 +22,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1977-09-10'
+release_year: 1977
+runtime: 276080
 ---
 Freeze! I'm Ma Baker
 Put your hands in the air and give me all your money!

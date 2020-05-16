@@ -1,8 +1,11 @@
 ---
+album: Drive
 artists:
 - Alan Jackson
+external_ids:
+  spotify: spotify:track:48ykOM780IeqcmTcwK9IM4
 features: []
-genres: []
+first_released_as_single: false
 key: that-d-be-alright-alan-jackson
 lyrics_url: https://genius.com/Alan-jackson-thatd-be-alright-lyrics
 name: That'd Be Alright
@@ -87,6 +90,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2003-06-21'
+release_year: 1989
+runtime: 221760
 ---
 If money grew on hackberry trees
 If time wasn't such a luxury

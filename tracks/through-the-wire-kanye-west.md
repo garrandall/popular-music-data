@@ -1,8 +1,11 @@
 ---
+album: The College Dropout
 artists:
 - Kanye West
+external_ids:
+  spotify: spotify:track:4mmkhcEm1Ljy1U9nwtsxUo
 features: []
-genres: []
+first_released_as_single: false
 key: through-the-wire-kanye-west
 lyrics_url: https://genius.com/Kanye-west-through-the-wire-lyrics
 name: Through The Wire
@@ -91,6 +94,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '2004-04-17'
+release_year: 2003
+runtime: 221226
 ---
 Yo, Gee, they can't stop me from rappin', can they?
 Can they, Hop?

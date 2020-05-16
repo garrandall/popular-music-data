@@ -1,8 +1,11 @@
 ---
+album: Lover Please/The Complete MGM & Mercury Singles
 artists:
 - Clyde McPhatter
+external_ids:
+  spotify: spotify:track:1PKOM44lXQUUZrlvWvHVjf
 features: []
-genres: []
+first_released_as_single: false
 key: think-me-a-kiss-clyde-mcphatter
 lyrics_url: https://www.musixmatch.com/lyrics/Clyde-McPhatter/Think-Me-a-Kiss
 name: Think Me A Kiss
@@ -31,6 +34,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1960-05-09'
+release_year: 1960
+runtime: 120893
 ---
 Think me a kiss, whoa, oh
 Think me a kiss, come on

@@ -1,8 +1,11 @@
 ---
+album: Girl Problems
 artists:
 - Chris Lane
+external_ids:
+  spotify: spotify:track:19yTqpHTUrw7mOcRDvXYzn
 features: []
-genres: []
+first_released_as_single: false
 key: for-her-chris-lane
 lyrics_url: https://genius.com/Chris-lane-for-her-lyrics
 name: For Her
@@ -23,6 +26,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2017-09-09'
+release_year: 2016
+runtime: 211226
 ---
 She got a smile that makes your worst day
 Feel like it's your birthday

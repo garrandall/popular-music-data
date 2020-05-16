@@ -1,8 +1,11 @@
 ---
+album: Forever, Michael
 artists:
 - Michael Jackson
+external_ids:
+  spotify: spotify:track:7vtaQNW7QHtQsLeshQlm3D
 features: []
-genres: []
+first_released_as_single: false
 key: one-day-in-your-life-michael-jackson
 lyrics_url: https://genius.com/Michael-jackson-one-day-in-your-life-lyrics
 name: One Day In Your Life
@@ -35,6 +38,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1981-05-30'
+release_year: 1975
+runtime: 258160
 ---
 One day in your life
 You will remember a place

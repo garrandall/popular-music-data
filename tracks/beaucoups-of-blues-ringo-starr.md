@@ -1,8 +1,11 @@
 ---
+album: Beaucoups Of Blues
 artists:
 - Ringo Starr
+external_ids:
+  spotify: spotify:track:7n6atOFCp6aPynayCzflsj
 features: []
-genres: []
+first_released_as_single: false
 key: beaucoups-of-blues-ringo-starr
 lyrics_url: https://www.azlyrics.com/lyrics/ringostarr/beaucoupsofblues.html
 name: Beaucoups Of Blues
@@ -27,8 +30,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1970-12-05'
+release_year: 1970
+runtime: 155442
 ---
-
 I left louisian, I had me big plans
 To go out and take me all over this land.
 To see me the world, I left my sweet girl
@@ -54,6 +58,3 @@ I'm coming home, (coming home)
 I've had me enough.
 I'm coming home, (coming home)
 I've had me enough.
-
-
-

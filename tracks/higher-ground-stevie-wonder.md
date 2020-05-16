@@ -1,8 +1,11 @@
 ---
+album: Innervisions
 artists:
 - Stevie Wonder
+external_ids:
+  spotify: spotify:track:0dMd4rilfd6gPbXaLpNYhu
 features: []
-genres: []
+first_released_as_single: false
 key: higher-ground-stevie-wonder
 lyrics_url: https://genius.com/Stevie-wonder-higher-ground-lyrics
 name: Higher Ground
@@ -63,6 +66,8 @@ rankings:
   rank: 33
   ranking_list: Billboard Hot 100
   start_date: '1973-11-17'
+release_year: 1973
+runtime: 222600
 ---
 People keep on learning
 Soldiers keep on warring

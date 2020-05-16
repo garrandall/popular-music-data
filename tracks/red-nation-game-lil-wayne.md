@@ -1,9 +1,12 @@
 ---
+album: The R.E.D. Album
 artists:
 - Game
+external_ids:
+  spotify: spotify:track:2sYUGgzQfHQ6lOWzbrny8Z
 features:
 - Lil Wayne
-genres: []
+first_released_as_single: false
 key: red-nation-game-lil-wayne
 lyrics_url: https://www.azlyrics.com/lyrics/game/rednation.html
 name: Red Nation
@@ -12,9 +15,9 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '2011-04-30'
+release_year: 2011
+runtime: 229480
 ---
-
-
 Throw your motherfucking Cincinnati hats in the sky
 Nigga don't ask why
 Red laces in and out of them Air Max '95's
@@ -101,6 +104,3 @@ And that's, B's up, hoes down
 Lookin' in the mirror, I know where to be found
 Blood, I'm a dog, call me a blood hound
 Throwin' blood in the air, leave blood on the ground
-
-
-

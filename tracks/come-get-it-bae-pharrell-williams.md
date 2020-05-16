@@ -1,8 +1,11 @@
 ---
+album: G I R L
 artists:
 - Pharrell Williams
+external_ids:
+  spotify: spotify:track:24MSdaNRlLgjp8xYeJeXwZ
 features: []
-genres: []
+first_released_as_single: false
 key: come-get-it-bae-pharrell-williams
 lyrics_url: https://www.azlyrics.com/lyrics/pharrellwilliams/comegetitbae.html
 name: Come Get It Bae
@@ -67,9 +70,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2014-09-13'
+release_year: 2014
+runtime: 201933
 ---
-
-
 You miss me?
 I miss all of y'all
 Why y'all girls standin' together like that, I can't take it
@@ -116,4 +119,3 @@ And there will come a time, this is where you wanna be
 Cause it's everything you need, you will only find in me
 
 Come get it bae
-

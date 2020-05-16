@@ -1,8 +1,11 @@
 ---
+album: The Best of The Kingsmen
 artists:
 - The Kingsmen
+external_ids:
+  spotify: spotify:track:2pIhOwhpKagalKdP89hMEo
 features: []
-genres: []
+first_released_as_single: false
 key: killer-joe-the-kingsmen
 name: Killer Joe
 rankings:
@@ -22,5 +25,7 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1966-04-23'
+release_year: 1966
+runtime: 135915
 ---
 

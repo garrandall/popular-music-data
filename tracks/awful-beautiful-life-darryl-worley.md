@@ -1,8 +1,11 @@
 ---
+album: Darryl Worley
 artists:
 - Darryl Worley
+external_ids:
+  spotify: spotify:track:5uqbTKo8Ogq1sBQ3u940Xz
 features: []
-genres: []
+first_released_as_single: false
 key: awful-beautiful-life-darryl-worley
 lyrics_url: https://www.azlyrics.com/lyrics/darrylworley/awfulbeautifullife.html
 name: Awful Beautiful Life
@@ -87,8 +90,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2005-03-26'
+release_year: 2004
+runtime: 232800
 ---
-
 I woke up early with a poundin' in my head
 I'd been out the night before with all my friends
 A little worried, kinda wonderin' what I did
@@ -136,6 +140,3 @@ It's a beautiful life
 Awful, beautiful, life
 I love this life
 It's a beautiful life
-
-
-

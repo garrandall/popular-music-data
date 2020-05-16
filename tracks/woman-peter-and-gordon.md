@@ -1,8 +1,11 @@
 ---
+album: The Ultimate Peter And Gordon
 artists:
 - Peter And Gordon
+external_ids:
+  spotify: spotify:track:7zd7QV2lCDGGmwOxMiULVY
 features: []
-genres: []
+first_released_as_single: false
 key: woman-peter-and-gordon
 lyrics_url: https://genius.com/Peter-and-gordon-woman-lyrics
 name: Woman
@@ -55,6 +58,8 @@ rankings:
   rank: 24
   ranking_list: Billboard Hot 100
   start_date: '1966-04-30'
+release_year: 1966
+runtime: 147826
 ---
 Woman, do you love me?
 Woman, if you need me then

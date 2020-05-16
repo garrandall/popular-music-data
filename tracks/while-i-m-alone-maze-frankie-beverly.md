@@ -1,9 +1,12 @@
 ---
+album: Anthology
 artists:
 - Maze
+external_ids:
+  spotify: spotify:track:0TL4pQTDqyx1r4VlnQQCwC
 features:
 - Frankie Beverly
-genres: []
+first_released_as_single: false
 key: while-i-m-alone-maze-frankie-beverly
 lyrics_url: https://genius.com/Maze-featuring-frankie-beverly-while-im-alone-lyrics
 name: While I'm Alone
@@ -52,6 +55,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1977-08-06'
+release_year: 1977
+runtime: 280106
 ---
 Doo Doo Doo Doo...Doo
 Doo Doo Doo Doo...Doo Doo...Doo Doo...Doo

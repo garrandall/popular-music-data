@@ -1,8 +1,11 @@
 ---
+album: All the Hits and More!
 artists:
 - Jimmy Clanton
+external_ids:
+  spotify: spotify:track:15mwNCoUIJJ1dvtNeSbY7J
 features: []
-genres: []
+first_released_as_single: false
 key: go-jimmy-go-jimmy-clanton
 lyrics_url: https://genius.com/Jimmy-clanton-go-jimmy-go-lyrics
 name: Go Jimmy Go
@@ -71,6 +74,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1960-03-21'
+release_year: 1959
+runtime: 126426
 ---
 I told her when it comes to talking
 I'm the sweetest sweet-talker in the world

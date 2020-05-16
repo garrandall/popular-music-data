@@ -1,8 +1,11 @@
 ---
+album: American Idol Season 5 Encores
 artists:
 - Chris Daughtry
+external_ids:
+  spotify: spotify:track:63MeDGLOFgYCvIv7kgA6mf
 features: []
-genres: []
+first_released_as_single: false
 key: wanted-dead-or-alive-chris-daughtry
 lyrics_url: https://genius.com/Chris-daughtry-wanted-dead-or-alive-lyrics
 name: Wanted Dead Or Alive
@@ -19,6 +22,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2006-06-24'
+release_year: 2006
+runtime: 271573
 ---
 It's all the same, only the names will change
 Everyday it seems we're wasting away

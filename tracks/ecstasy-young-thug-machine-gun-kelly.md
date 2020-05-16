@@ -1,9 +1,12 @@
 ---
+album: So Much Fun
 artists:
 - Young Thug
+external_ids:
+  spotify: spotify:track:6jVFvD6tpUGtlCGq9dw6F5
 features:
 - Machine Gun Kelly
-genres: []
+first_released_as_single: false
 key: ecstasy-young-thug-machine-gun-kelly
 lyrics_url: https://genius.com/Young-thug-ecstasy-lyrics
 name: Ecstasy
@@ -12,6 +15,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2019-08-31'
+release_year: 2019
+runtime: 178240
 ---
 12 Hunna on the beat
 DY Krazy

@@ -1,8 +1,11 @@
 ---
+album: How To Save A Life
 artists:
 - The Fray
+external_ids:
+  spotify: spotify:track:5l6hpyTGBK0LAAxgPnqTQL
 features: []
-genres: []
+first_released_as_single: false
 key: look-after-you-the-fray
 lyrics_url: https://genius.com/The-fray-look-after-you-lyrics
 name: Look After You
@@ -47,6 +50,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2007-05-19'
+release_year: 2005
+runtime: 266773
 ---
 If I don't say this now, I will surely break
 As I'm leaving the one I wanna take

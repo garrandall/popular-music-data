@@ -1,8 +1,11 @@
 ---
+album: Balance of Power
 artists:
 - Electric Light Orchestra
+external_ids:
+  spotify: spotify:track:2hYFq15Sofn8CeVZyvr9yF
 features: []
-genres: []
+first_released_as_single: false
 key: calling-america-electric-light-orchestra
 lyrics_url: https://genius.com/Electric-light-orchestra-calling-america-lyrics
 name: Calling America
@@ -67,6 +70,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1986-05-10'
+release_year: 1972
+runtime: 206906
 ---
 (Somebody)
 Told her that there was a place like Heaven

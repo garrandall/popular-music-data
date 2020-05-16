@@ -1,8 +1,11 @@
 ---
+album: In Touch With Peter And Gordon Plus
 artists:
 - Peter And Gordon
+external_ids:
+  spotify: spotify:track:2EuyCCWC1aJlQKjcIANOUN
 features: []
-genres: []
+first_released_as_single: false
 key: i-don-t-want-to-see-you-again-peter-and-gordon
 lyrics_url: https://genius.com/Peter-and-gordon-i-dont-want-to-see-you-again-lyrics
 name: I Don't Want To See You Again
@@ -43,6 +46,8 @@ rankings:
   rank: 33
   ranking_list: Billboard Hot 100
   start_date: '1964-11-28'
+release_year: 1964
+runtime: 123240
 ---
 I don't wanna see you again
 

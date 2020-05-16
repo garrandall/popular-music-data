@@ -1,8 +1,11 @@
 ---
+album: Rainy Night In Georgia
 artists:
 - Brook Benton
+external_ids:
+  spotify: spotify:track:0Kr5qLPpSzaF1CG9KSiTWz
 features: []
-genres: []
+first_released_as_single: false
 key: revenge-brook-benton
 lyrics_url: https://genius.com/Brook-benton-revenge-lyrics
 name: Revenge
@@ -47,6 +50,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1962-01-27'
+release_year: 1961
+runtime: 144022
 ---
 You keep looking at me
 While you dance in another's arms

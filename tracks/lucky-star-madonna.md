@@ -1,8 +1,11 @@
 ---
+album: Madonna (Reissue)
 artists:
 - Madonna
+external_ids:
+  spotify: spotify:track:2hWI9GNr3kBrxZ7Mphho4Q
 features: []
-genres: []
+first_released_as_single: false
 key: lucky-star-madonna
 lyrics_url: https://www.azlyrics.com/lyrics/madonna/luckystar.html
 name: Lucky Star
@@ -71,8 +74,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1984-12-08'
+release_year: 1983
+runtime: 333773
 ---
-
 You must be my Lucky Star
 'Cause you shine on me wherever you are
 I just think of you and I start to glow
@@ -98,6 +102,3 @@ Come on shine your heavenly body tonight
 
 You may be my lucky star
 But I'm the luckiest by far
-
-
-

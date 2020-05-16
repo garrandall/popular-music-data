@@ -1,8 +1,11 @@
 ---
+album: Juice
 artists:
 - Juice Newton
+external_ids:
+  spotify: spotify:track:6R6ib5FgDYlG0rPA9c5DVv
 features: []
-genres: []
+first_released_as_single: false
 key: queen-of-hearts-juice-newton
 lyrics_url: https://www.azlyrics.com/lyrics/juicenewton/queenofhearts.html
 name: Queen Of Hearts
@@ -115,8 +118,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1981-11-28'
+release_year: 1981
+runtime: 205826
 ---
-
 Midnight, and I'm a-waiting on the twelve-oh-five
 Hoping it'll take me just a little farther down the line
 
@@ -175,6 +179,3 @@ Playing with the queen of hearts
 Playing with the queen of hearts
 Playing with the queen of hearts
 Playing with the queen of hearts
-
-
-

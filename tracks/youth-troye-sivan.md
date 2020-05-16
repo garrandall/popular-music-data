@@ -1,8 +1,11 @@
 ---
+album: Blue Neighbourhood
 artists:
 - Troye Sivan
+external_ids:
+  spotify: spotify:track:1cOyWWUr3oXJIxY0AjJEx9
 features: []
-genres: []
+first_released_as_single: false
 key: youth-troye-sivan
 lyrics_url: https://www.azlyrics.com/lyrics/troyesivan/youth.html
 name: Youth
@@ -79,8 +82,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2016-06-25'
+release_year: 2015
+runtime: 185194
 ---
-
 What if
 What if we run away
 What if
@@ -153,6 +157,3 @@ Oh, oh, oh
 My youth is yours
 Oh, oh, oh
 My youth is yours
-
-
-

@@ -1,10 +1,13 @@
 ---
+album: MDNA
 artists:
 - Madonna
+external_ids:
+  spotify: spotify:track:2woCC5hiuPTDAonxhEojP0
 features:
 - Nicki Minaj
 - M.I.A.
-genres: []
+first_released_as_single: false
 key: give-me-all-your-luvin--madonna-nicki-minaj-m-i-a-
 lyrics_url: https://www.azlyrics.com/lyrics/madonna/givemeallyourluvin.html
 name: Give Me All Your Luvin'
@@ -33,9 +36,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '2012-04-14'
+release_year: 2012
+runtime: 202760
 ---
-
-
 L-U-V Madonna
 Y-O-U you wanna
 I see you coming and I don't wanna know your name
@@ -123,6 +126,3 @@ Give me all your love today
 Give me all your luvin' give me your love
 Let's forget about time
 And dance our lives away
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: House Of The Rising Sun (The Voice Performance)
 artists:
 - Kimberly Nichole
+external_ids:
+  spotify: spotify:track:2UomTx9OqG8ii3pJRZkVOk
 features: []
-genres: []
+first_released_as_single: true
 key: house-of-the-rising-sun-kimberly-nichole
 lyrics_url: https://www.musixmatch.com/lyrics/kimberly-nichole/House-of-the-Rising-Sun-The-Voice-Performance
 name: House Of The Rising Sun
@@ -11,6 +14,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2015-05-02'
+release_year: 2015
+runtime: 175070
 ---
 There is a house in New Orleans
 They call the Rising Sun

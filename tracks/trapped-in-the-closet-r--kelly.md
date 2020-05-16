@@ -1,8 +1,11 @@
 ---
+album: Tp.3 Reloaded
 artists:
 - R. Kelly
+external_ids:
+  spotify: spotify:track:2tEagno8vjhL5mQ4DgkoXw
 features: []
-genres: []
+first_released_as_single: false
 key: trapped-in-the-closet-r--kelly
 lyrics_url: https://genius.com/R-kelly-trapped-in-the-closet-chapter-1-lyrics
 name: Trapped In The Closet
@@ -71,6 +74,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2005-08-20'
+release_year: 2005
+runtime: 205560
 ---
 Seven o'clock in the morning
 And the rays from the sun wakes me

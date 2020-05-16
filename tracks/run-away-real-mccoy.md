@@ -1,8 +1,11 @@
 ---
+album: Another Night
 artists:
 - Real McCoy
+external_ids:
+  spotify: spotify:track:0ibYVniVLMJWvc3eNfYk8T
 features: []
-genres: []
+first_released_as_single: false
 key: run-away-real-mccoy
 lyrics_url: https://genius.com/Real-mccoy-run-away-lyrics
 name: Run Away
@@ -87,6 +90,8 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '1995-07-22'
+release_year: 1995
+runtime: 244133
 ---
 Run away, run away, run away and save your life
 Run away, run away, run away if you want to survive

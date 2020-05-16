@@ -1,8 +1,11 @@
 ---
+album: Heart and Soul
 artists:
 - Lorraine Ellison
+external_ids:
+  spotify: spotify:track:0vV3IUO4fhuDeHggZqnsI0
 features: []
-genres: []
+first_released_as_single: false
 key: stay-with-me-lorraine-ellison
 lyrics_url: https://genius.com/Lorraine-ellison-stay-with-me-lyrics
 name: Stay With Me
@@ -39,6 +42,8 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '1966-11-26'
+release_year: 1966
+runtime: 209533
 ---
 Where did you go when things went wrong baby?
 Who did you run to

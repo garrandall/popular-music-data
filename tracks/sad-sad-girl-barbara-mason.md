@@ -1,8 +1,11 @@
 ---
+album: Yes I'm Ready
 artists:
 - Barbara Mason
+external_ids:
+  spotify: spotify:track:5lSElmz9CNo1FZJRwrmnQx
 features: []
-genres: []
+first_released_as_single: false
 key: sad-sad-girl-barbara-mason
 lyrics_url: https://genius.com/Barbara-mason-sad-sad-girl-lyrics
 name: Sad Sad Girl
@@ -43,6 +46,8 @@ rankings:
   rank: 35
   ranking_list: Billboard Hot 100
   start_date: '1965-10-02'
+release_year: 1965
+runtime: 193733
 ---
 Sad, sad, girl (sad girl)
 I'm a sad, sad girl

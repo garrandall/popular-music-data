@@ -1,8 +1,11 @@
 ---
+album: DNA
 artists:
 - Backstreet Boys
+external_ids:
+  spotify: spotify:track:79Mjfhh393dZdAsTvUFDR6
 features: []
-genres: []
+first_released_as_single: true
 key: don-t-go-breaking-my-heart-backstreet-boys
 lyrics_url: https://genius.com/Backstreet-boys-dont-go-breaking-my-heart-lyrics
 name: Don't Go Breaking My Heart
@@ -47,6 +50,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2018-09-08'
+release_year: 2018
+runtime: 215724
 ---
 I got mixed emotions
 Did I finally find me a river that could lead me out to the ocean?

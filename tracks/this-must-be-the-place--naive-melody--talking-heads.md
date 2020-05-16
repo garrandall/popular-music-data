@@ -1,8 +1,11 @@
 ---
+album: Speaking in Tongues (Deluxe Version)
 artists:
 - Talking Heads
+external_ids:
+  spotify: spotify:track:6aBUnkXuCEQQHAlTokv9or
 features: []
-genres: []
+first_released_as_single: false
 key: this-must-be-the-place--naive-melody--talking-heads
 lyrics_url: https://genius.com/Talking-heads-this-must-be-the-place-naive-melody-lyrics
 name: This Must Be The Place (Naive Melody)
@@ -39,6 +42,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1984-01-14'
+release_year: 1983
+runtime: 296146
 ---
 Home is where I want to be
 Pick me up and turn me 'round

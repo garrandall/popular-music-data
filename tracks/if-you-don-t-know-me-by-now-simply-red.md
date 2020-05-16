@@ -1,8 +1,11 @@
 ---
+album: A New Flame (Expanded)
 artists:
 - Simply Red
+external_ids:
+  spotify: spotify:track:7DFawVSjI88xR9mjnWwURg
 features: []
-genres: []
+first_released_as_single: false
 key: if-you-don-t-know-me-by-now-simply-red
 lyrics_url: https://genius.com/Simply-red-if-you-dont-know-me-by-now-lyrics
 name: If You Don't Know Me By Now
@@ -95,6 +98,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1989-09-30'
+release_year: 1989
+runtime: 204000
 ---
 If you don't know me by now
 You will never, never, never know me, uh-uh-uh
@@ -124,7 +129,7 @@ What good is a love affair when we can't see eye to eye
 
 If you don't know me by now (If you don't know me)
 You will never, never, never know me (No you won't), uh-uh-uh
-If you don't know by now (Youuuu will never, never, never know me)
+If you don't know by now (You will never, never, never know me)
 You will never, never, never know me, uh-uh-uh
 (Uh)
 If you don't know me by now (Uhhhh)

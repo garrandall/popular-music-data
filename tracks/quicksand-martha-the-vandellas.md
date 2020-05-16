@@ -1,9 +1,12 @@
 ---
+album: Heat Wave
 artists:
 - Martha
 - The Vandellas
+external_ids:
+  spotify: spotify:track:6u3gUOpOWar583e7yxZpHF
 features: []
-genres: []
+first_released_as_single: false
 key: quicksand-martha-the-vandellas
 lyrics_url: https://www.azlyrics.com/lyrics/marthaandthevandellas/quicksand.html
 name: Quicksand
@@ -56,8 +59,9 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '1964-02-08'
+release_year: 1963
+runtime: 162773
 ---
-
 Quicksand, quicksand
 Pulling me closer, closer in your arms
 Can't resist your loving charms
@@ -94,6 +98,3 @@ Quicksand, quicksand, quicksand pulling me closer
 Deeper, deeper, deeper, deeper in love with you
 Deeper, deeper, deeper, deeper in love with you
 Quicksand, quicksand, quicksand pulling me closer
-
-
-

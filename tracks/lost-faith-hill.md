@@ -1,8 +1,11 @@
 ---
+album: Country Love
 artists:
 - Faith Hill
+external_ids:
+  spotify: spotify:track:7fN2R6wBvpnLh2Kzt5qZVH
 features: []
-genres: []
+first_released_as_single: false
 key: lost-faith-hill
 lyrics_url: https://genius.com/Faith-hill-lost-lyrics
 name: Lost
@@ -15,6 +18,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2007-07-14'
+release_year: 2007
+runtime: 250266
 ---
 Is it obvious to you
 When you walk into a room

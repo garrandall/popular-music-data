@@ -1,8 +1,11 @@
 ---
+album: Departure
 artists:
 - Journey
+external_ids:
+  spotify: spotify:track:3k9UmiphX9wDrCq8OVla93
 features: []
-genres: []
+first_released_as_single: false
 key: good-morning-girl-journey
 lyrics_url: https://genius.com/Journey-good-morning-girl-lyrics
 name: Good Morning Girl
@@ -39,6 +42,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1980-10-11'
+release_year: 1975
+runtime: 104293
 ---
 Good morning girl, how you been?
 Good morning girl, is love within?

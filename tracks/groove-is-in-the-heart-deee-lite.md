@@ -1,8 +1,11 @@
 ---
+album: World Clique
 artists:
 - Deee-Lite
+external_ids:
+  spotify: spotify:track:2He3NOyqtLNE3RQPpeDdSb
 features: []
-genres: []
+first_released_as_single: false
 key: groove-is-in-the-heart-deee-lite
 lyrics_url: https://genius.com/Deee-lite-groove-is-in-the-heart-lyrics
 name: Groove Is In The Heart
@@ -99,6 +102,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1991-02-16'
+release_year: 1990
+runtime: 231786
 ---
 (We're going to dance)
 (We're going to dance)

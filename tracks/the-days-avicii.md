@@ -1,8 +1,11 @@
 ---
+album: The Days / Nights
 artists:
 - Avicii
+external_ids:
+  spotify: spotify:track:5Iy2Jj87Ha0C0IBlNE1I4y
 features: []
-genres: []
+first_released_as_single: false
 key: the-days-avicii
 lyrics_url: https://genius.com/Avicii-the-days-lyrics
 name: The Days
@@ -11,6 +14,8 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '2014-10-25'
+release_year: 2014
+runtime: 278480
 ---
 Under the tree where the grass don't grow
 We made a promise to never get old

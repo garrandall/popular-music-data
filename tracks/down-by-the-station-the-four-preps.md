@@ -1,8 +1,11 @@
 ---
+album: Down By the Station
 artists:
 - The Four Preps
+external_ids:
+  spotify: spotify:track:3kpuidZaDOsLP3YgFi8sxu
 features: []
-genres: []
+first_released_as_single: false
 key: down-by-the-station-the-four-preps
 lyrics_url: https://www.musixmatch.com/lyrics/The-Four-Preps/Down-by-the-Station
 name: Down By The Station
@@ -67,6 +70,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1960-04-04'
+release_year: 1959
+runtime: 172066
 ---
 Down by the station early in the morning
 Met a little girl about as cute as she could be

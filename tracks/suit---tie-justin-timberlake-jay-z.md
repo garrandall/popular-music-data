@@ -1,9 +1,12 @@
 ---
+album: The 20/20 Experience (Deluxe Version)
 artists:
 - Justin Timberlake
+external_ids:
+  spotify: spotify:track:4mQVHEjrnuUd7G5IVhSYTk
 features:
 - JAY Z
-genres: []
+first_released_as_single: true
 key: suit---tie-justin-timberlake-jay-z
 lyrics_url: https://www.azlyrics.com/lyrics/justintimberlake/suittie.html
 name: Suit & Tie
@@ -112,9 +115,9 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '2013-07-20'
+release_year: 2013
+runtime: 269146
 ---
-
-
 I be on my suit and tie, shit tied, shit tied
 I be on my suit and tie, shit tied, shit
 Can I show you a few things, a few things, a few things, little baby?
@@ -236,6 +239,3 @@ Let me show you a few things
 Show you a few things about love, love, love
 Let me show you a few things
 Show you a few things about love, hey
-
-
-

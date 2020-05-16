@@ -1,8 +1,11 @@
 ---
+album: Cool Hand Loc
 artists:
 - Tone-Loc
+external_ids:
+  spotify: spotify:track:5XlgIjaIwqD5q5dVjdVo9V
 features: []
-genres: []
+first_released_as_single: false
 key: all-through-the-night-tone-loc
 lyrics_url: https://genius.com/Tone-loc-all-through-the-night-lyrics
 name: All Through The Night
@@ -35,6 +38,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1992-01-25'
+release_year: 1991
+runtime: 295066
 ---
 Whoa!
 Lord have mercy

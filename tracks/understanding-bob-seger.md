@@ -1,8 +1,11 @@
 ---
+album: Greatest Hits 2
 artists:
 - Bob Seger
+external_ids:
+  spotify: spotify:track:4oBLp0Gx8xoxhq4DXcQ7ps
 features: []
-genres: []
+first_released_as_single: false
 key: understanding-bob-seger
 lyrics_url: https://www.azlyrics.com/lyrics/bobseger/understanding.html
 name: Understanding
@@ -67,8 +70,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1985-02-16'
+release_year: 1984
+runtime: 224666
 ---
-
 It seems like only yesterday
 I didn't have a clue
 I stood alone not knowing where to turn
@@ -112,6 +116,3 @@ You've got me understanding
 Yeah, yeah, yeah, yeah
 
 You've got me understanding
-
-
-

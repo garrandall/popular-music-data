@@ -1,8 +1,11 @@
 ---
+album: '20th Century Masters: The Millennium Collection: Best of Donny & Marie Osmond'
 artists:
 - Marie Osmond
+external_ids:
+  spotify: spotify:track:0Z26tC7zCiQ4khpDjDn8BZ
 features: []
-genres: []
+first_released_as_single: false
 key: who-s-sorry-now-marie-osmond
 lyrics_url: https://www.azlyrics.com/lyrics/marieosmond/whossorrynow.html
 name: Who's Sorry Now
@@ -31,8 +34,9 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '1975-04-12'
+release_year: 1975
+runtime: 128600
 ---
-
 Who's sorry now, who's sorry now
 Whose heart is achin' for breakin' each vow
 Who's sad and blue, who's cryin too
@@ -47,6 +51,3 @@ Right to the end just like a friend
 I tried to warn you somehow
 You had your way, now you must pay
 I'm glad that you're sorry now
-
-
-

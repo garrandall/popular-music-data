@@ -1,8 +1,11 @@
 ---
+album: Scars & Souvenirs
 artists:
 - Theory Of A Deadman
+external_ids:
+  spotify: spotify:track:2ejt6exJRE2bXPfp37Xi8w
 features: []
-genres: []
+first_released_as_single: false
 key: all-or-nothing-theory-of-a-deadman
 lyrics_url: https://www.musixmatch.com/lyrics/Theory-of-a-Deadman/All-or-Nothing
 name: All Or Nothing
@@ -11,6 +14,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2010-05-22'
+release_year: 2008
+runtime: 210560
 ---
 When I first saw you standing there
 You know, it was a little hard not to stare

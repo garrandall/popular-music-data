@@ -1,8 +1,11 @@
 ---
+album: Men Amongst Mountains
 artists:
 - The Revivalists
+external_ids:
+  spotify: spotify:track:2EWpa5XnAuSn0sIkSSIhYk
 features: []
-genres: []
+first_released_as_single: false
 key: wish-i-knew-you-the-revivalists
 lyrics_url: https://www.azlyrics.com/lyrics/revivalists/wishiknewyou.html
 name: Wish I Knew You
@@ -43,8 +46,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2017-10-14'
+release_year: 2015
+runtime: 274093
 ---
-
 You shine like a star
 You know who you are
 You're everything beautiful
@@ -112,6 +116,3 @@ Two strangers in the bright lights
 I wish I knew you 
 I wish I knew you
 Oh I wish I knew you when I was young
-
-
-

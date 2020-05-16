@@ -1,8 +1,11 @@
 ---
+album: No Reason To Cry
 artists:
 - Eric Clapton
+external_ids:
+  spotify: spotify:track:6R74C0CCtsvORQAjXvgYF2
 features: []
-genres: []
+first_released_as_single: false
 key: hello-old-friend-eric-clapton
 lyrics_url: https://www.azlyrics.com/lyrics/ericclapton/hellooldfriend108754.html
 name: Hello Old Friend
@@ -63,8 +66,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1977-01-15'
+release_year: 1976
+runtime: 214426
 ---
-
 As I am strolling down the garden path,
 I saw a flower glowing in the dark.
 It looked so pretty and it was unique;
@@ -87,4 +91,3 @@ An old man passed me on the street today;
 I thought I knew him but I couldn't say.
 I stopped to think if I could place his frame.
 When he tipped his hat I knew his name.
-

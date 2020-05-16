@@ -1,8 +1,11 @@
 ---
+album: Who Needs Pictures
 artists:
 - Brad Paisley
+external_ids:
+  spotify: spotify:track:6A426nfNHDuTDs1uY0W0NF
 features: []
-genres: []
+first_released_as_single: false
 key: me-neither-brad-paisley
 lyrics_url: https://www.azlyrics.com/lyrics/bradpaisley/meneither.html
 name: Me Neither
@@ -23,8 +26,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2000-06-03'
+release_year: 1999
+runtime: 200160
 ---
-
 Darlin' I've been standin' here just watchin' you all night
 And I think I've even caught you watchin' me a couple times
 If I don't ask I'll never know
@@ -60,6 +64,3 @@ This has been a waste of time
 And I'm runnin' outta lines
 Don't you think it's time for me to end this song
 Me neither
-
-
-

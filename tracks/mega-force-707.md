@@ -1,8 +1,11 @@
 ---
+album: Mega Force
 artists:
 - '707'
+external_ids:
+  spotify: spotify:track:5j0c9ZwegGFuNhfl4JhFJQ
 features: []
-genres: []
+first_released_as_single: false
 key: mega-force-707
 lyrics_url: https://www.musixmatch.com/lyrics/707/Mega-Force
 name: Mega Force
@@ -31,6 +34,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1982-08-14'
+release_year: 1980
+runtime: 245346
 ---
 There's something moving
 In the air tonight

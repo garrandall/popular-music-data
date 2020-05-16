@@ -1,8 +1,11 @@
 ---
+album: Wins & Losses
 artists:
 - Meek Mill
+external_ids:
+  spotify: spotify:track:1CGP5ioAXECjvTJdMTvX0O
 features: []
-genres: []
+first_released_as_single: false
 key: heavy-heart-meek-mill
 lyrics_url: https://www.azlyrics.com/lyrics/meekmill/heavyheart.html
 name: Heavy Heart
@@ -11,8 +14,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2017-08-12'
+release_year: 2017
+runtime: 250466
 ---
-
 I gave this hustle everything I got (thing I got)
 Always kept it real from the very start (very start)
 Niggas ain't thorough like I always thought
@@ -97,6 +101,3 @@ The streets left me with a heavy heart (heavy heart)
 Niggas said they with you when they really not (really not)
 Niggas plot on everything you got (everything you got)
 The streets left me with a heavy heart (heavy heart)
-
-
-

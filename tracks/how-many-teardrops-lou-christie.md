@@ -1,8 +1,11 @@
 ---
+album: Lou Christie
 artists:
 - Lou Christie
+external_ids:
+  spotify: spotify:track:3wVLgOY97gLsEGJzn0Uyxs
 features: []
-genres: []
+first_released_as_single: false
 key: how-many-teardrops-lou-christie
 lyrics_url: https://genius.com/Lou-christie-how-many-teardrops-lyrics
 name: How Many Teardrops
@@ -27,6 +30,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1963-08-17'
+release_year: 1963
+runtime: 125893
 ---
 How many teardrops must I cry till you believe in me?
 & how many teardrops must I dry to end this misery?

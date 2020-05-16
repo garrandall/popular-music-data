@@ -1,8 +1,11 @@
 ---
+album: The Very Best Of Jerry Butler
 artists:
 - Jerry Butler
+external_ids:
+  spotify: spotify:track:6i68reGiO50cNQKGKPbFLF
 features: []
-genres: []
+first_released_as_single: false
 key: are-you-happy-jerry-butler
 lyrics_url: https://genius.com/Jerry-butler-are-you-happy-lyrics
 name: Are You Happy
@@ -47,6 +50,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1969-02-08'
+release_year: 1968
+runtime: 157666
 ---
 You're a very pretty girl and all that's good
 A lot of guys would love you if they could

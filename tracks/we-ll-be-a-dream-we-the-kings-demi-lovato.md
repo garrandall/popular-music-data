@@ -1,9 +1,12 @@
 ---
+album: Smile Kid
 artists:
 - WE the Kings
+external_ids:
+  spotify: spotify:track:5L441bJlqd4wSogIp1WFj0
 features:
 - Demi Lovato
-genres: []
+first_released_as_single: false
 key: we-ll-be-a-dream-we-the-kings-demi-lovato
 lyrics_url: https://genius.com/We-the-kings-well-be-a-dream-lyrics
 name: We'll Be A Dream
@@ -32,6 +35,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2010-08-21'
+release_year: 2009
+runtime: 233066
 ---
 Do you remember the nights we
 Stayed up, just laughing

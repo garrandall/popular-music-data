@@ -1,8 +1,11 @@
 ---
+album: Mack 10
 artists:
 - Mack 10
+external_ids:
+  spotify: spotify:track:28SF0lKRqso9SSTDpbv991
 features: []
-genres: []
+first_released_as_single: false
 key: foe-life-mack-10
 lyrics_url: https://genius.com/Mack-10-foe-life-lyrics
 name: Foe Life
@@ -51,6 +54,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1995-09-02'
+release_year: 1995
+runtime: 253800
 ---
 Mack 10 you know you rule hip-hop and
 Ice Cube you know you rule hip-hop and

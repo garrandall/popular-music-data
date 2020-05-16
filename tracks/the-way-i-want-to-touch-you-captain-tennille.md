@@ -1,9 +1,12 @@
 ---
+album: Love Will Keep Us Together
 artists:
 - Captain
 - Tennille
+external_ids:
+  spotify: spotify:track:7KdcZQ3GJeGdserhK61kfv
 features: []
-genres: []
+first_released_as_single: false
 key: the-way-i-want-to-touch-you-captain-tennille
 lyrics_url: https://www.azlyrics.com/lyrics/captaintennille/thewayiwanttotouchyou.html
 name: The Way I Want To Touch You
@@ -76,8 +79,9 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '1976-01-17'
+release_year: 1975
+runtime: 163586
 ---
-
 I never wanted
 I never wanted to touch a man
 The way that I want to touch you
@@ -123,6 +127,3 @@ The way that I want to touch you now
 The way that I want to touch you
 The way that I want to touch you now
 The way that I want to touch you
-
-
-

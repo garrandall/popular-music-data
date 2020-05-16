@@ -1,9 +1,12 @@
 ---
+album: Testimony
 artists:
 - August Alsina
+external_ids:
+  spotify: spotify:track:7iayfwVovocBQgZJrPyNOO
 features:
 - Trinidad James
-genres: []
+first_released_as_single: false
 key: i-luv-this-sh-t-august-alsina-trinidad-james
 lyrics_url: https://www.musixmatch.com/lyrics/August-Alsina-feat-Trinidad-James/I-Luv-This-Sh-t
 name: I Luv This Sh*t
@@ -88,6 +91,8 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '2014-02-01'
+release_year: 2013
+runtime: 266960
 ---
 (James) Man I luv this shit
 Man I luv this shit (Okay)

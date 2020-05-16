@@ -1,8 +1,11 @@
 ---
+album: All the Hits and More!
 artists:
 - Jimmy Clanton
+external_ids:
+  spotify: spotify:track:6odVVnWACHr45CItLzQ4Ep
 features: []
-genres: []
+first_released_as_single: false
 key: my-own-true-love-jimmy-clanton
 lyrics_url: https://www.musixmatch.com/lyrics/Jimmy-Clanton/My-Own-True-Love
 name: My Own True Love
@@ -55,6 +58,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1959-10-19'
+release_year: 1959
+runtime: 156456
 ---
 My own true love
 My own true love

@@ -1,8 +1,11 @@
 ---
+album: Golden Girl (The Columbia Recordings 1944-1966)
 artists:
 - Doris Day
+external_ids:
+  spotify: spotify:track:6QfGyzfwf7dm38Tmf49BpC
 features: []
-genres: []
+first_released_as_single: false
 key: everybody-loves-a-lover-doris-day
 lyrics_url: https://genius.com/Doris-day-everybody-loves-a-lover-lyrics
 name: Everybody Loves A Lover
@@ -55,6 +58,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1958-10-20'
+release_year: 1945
+runtime: 160466
 ---
 Everybody loves a lover
 I'm a lover, everybody loves me
@@ -78,4 +83,4 @@ Everybody loves me, yes they do
 And I love everybody
 Since I fell in love with
 Fell in love with
-Fell in love with youuuu
+Fell in love with you

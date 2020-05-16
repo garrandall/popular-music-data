@@ -1,10 +1,13 @@
 ---
+album: Philadelphia Freeway
 artists:
 - Freeway
+external_ids:
+  spotify: spotify:track:5kDkWHFx0AEvJ1Pfm2i0ac
 features:
 - Jay-Z
 - Beanie Sigel
-genres: []
+first_released_as_single: false
 key: what-we-do-freeway-jay-z-beanie-sigel
 lyrics_url: https://www.azlyrics.com/lyrics/freeway/whatwedo.html
 name: What We Do
@@ -17,10 +20,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2003-03-08'
+release_year: 2003
+runtime: 229106
 ---
-
-
-
 Man if I get rocked, this shit for my kids nigga
 It's that real shit...
 
@@ -99,6 +101,3 @@ Real gangstas make hood holidays
 They ain't thank us but we still paid homage mang
 Soul Food Sunday lookin' like Big Momma's mang
 Tell the gang I never break my promise mang...mang...unnh!
-
-
-

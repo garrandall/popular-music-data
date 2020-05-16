@@ -1,8 +1,11 @@
 ---
+album: Can't Fight Fate
 artists:
 - Taylor Dayne
+external_ids:
+  spotify: spotify:track:3HLgjHYaEhKFvV4SSvI9Te
 features: []
-genres: []
+first_released_as_single: false
 key: love-will-lead-you-back-taylor-dayne
 lyrics_url: https://genius.com/Taylor-dayne-love-will-lead-you-back-lyrics
 name: Love Will Lead You Back
@@ -87,6 +90,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1990-06-09'
+release_year: 1989
+runtime: 277600
 ---
 Saying goodbye is never an easy thing
 But you never said, that you'd stay forever

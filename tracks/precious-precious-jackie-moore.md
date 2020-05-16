@@ -1,8 +1,11 @@
 ---
+album: Sweet Charlie Babe
 artists:
 - Jackie Moore
+external_ids:
+  spotify: spotify:track:6prWxpTEt8plvsveu6bB7Q
 features: []
-genres: []
+first_released_as_single: true
 key: precious-precious-jackie-moore
 lyrics_url: https://genius.com/Jackie-moore-precious-precious-lyrics
 name: Precious Precious
@@ -67,6 +70,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1971-03-13'
+release_year: 1970
+runtime: 205933
 ---
 Precious, precious
 Precious, precious

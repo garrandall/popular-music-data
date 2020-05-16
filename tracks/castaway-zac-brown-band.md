@@ -1,8 +1,11 @@
 ---
+album: JEKYLL + HYDE
 artists:
 - Zac Brown Band
+external_ids:
+  spotify: spotify:track:5PNcJn4oFNvlRfrZBHfqWh
 features: []
-genres: []
+first_released_as_single: false
 key: castaway-zac-brown-band
 lyrics_url: https://www.azlyrics.com/lyrics/zacbrownband/castaway.html
 name: Castaway
@@ -15,8 +18,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2016-09-03'
+release_year: 2015
+runtime: 188053
 ---
-
 Pour me another one
 Make it a strong one
 We're gonna have some fun tonight
@@ -93,6 +97,3 @@ Make it a double rum
 We're gonna castaway tonight
 (For a little while I'll be a castaway)
 Castaway
-
-
-

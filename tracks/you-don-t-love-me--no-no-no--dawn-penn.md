@@ -1,8 +1,11 @@
 ---
+album: No, No, No
 artists:
 - Dawn Penn
+external_ids:
+  spotify: spotify:track:0INtJm8gCJKtNaAYQNVlpZ
 features: []
-genres: []
+first_released_as_single: false
 key: you-don-t-love-me--no-no-no--dawn-penn
 lyrics_url: https://genius.com/Dawn-penn-you-dont-love-me-extended-mix-lyrics
 name: You Don't Love Me (No No No)
@@ -55,6 +58,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1994-05-14'
+release_year: 1994
+runtime: 277893
 ---
 No no no
 You don't love me

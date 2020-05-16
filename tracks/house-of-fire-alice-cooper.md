@@ -1,8 +1,11 @@
 ---
+album: Trash
 artists:
 - Alice Cooper
+external_ids:
+  spotify: spotify:track:4M3G1VNbKsNS0gKsE3si4k
 features: []
-genres: []
+first_released_as_single: false
 key: house-of-fire-alice-cooper
 lyrics_url: https://genius.com/Alice-cooper-house-of-fire-lyrics
 name: House Of Fire
@@ -43,6 +46,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1990-03-17'
+release_year: 1989
+runtime: 225693
 ---
 House of fire
 House of fire

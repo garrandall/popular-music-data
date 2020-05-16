@@ -1,9 +1,12 @@
 ---
+album: Unleash The Dragon
 artists:
 - Sisqo
+external_ids:
+  spotify: spotify:track:5z17Oquw4RhTv8VaqOvDt0
 features:
 - Make It Hot
-genres: []
+first_released_as_single: false
 key: got-to-get-it-sisqo-make-it-hot
 lyrics_url: https://www.azlyrics.com/lyrics/sisqo/gottogetit.html
 name: Got To Get It
@@ -88,8 +91,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2000-04-01'
+release_year: 1999
+runtime: 174666
 ---
-
 See what I wanna do
 (Oh oh)
 I don't know if I can say what I wanna do
@@ -184,6 +188,3 @@ Get it
 Get it
 Get it
 Let's go
-
-
-

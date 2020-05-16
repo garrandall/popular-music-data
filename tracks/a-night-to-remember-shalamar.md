@@ -1,8 +1,11 @@
 ---
+album: Friends
 artists:
 - Shalamar
+external_ids:
+  spotify: spotify:track:2vZny8SPiZ9YsgTvWnKpJO
 features: []
-genres: []
+first_released_as_single: false
 key: a-night-to-remember-shalamar
 lyrics_url: https://genius.com/Shalamar-a-night-to-remember-lyrics
 name: A Night To Remember
@@ -47,6 +50,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1982-06-12'
+release_year: 1982
+runtime: 310920
 ---
 When you love someone
 It's natural

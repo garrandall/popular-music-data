@@ -1,9 +1,12 @@
 ---
+album: Hillbilly Deluxe
 artists:
 - Brooks
 - Dunn
+external_ids:
+  spotify: spotify:track:0SineTesaejYlgW5pwLo10
 features: []
-genres: []
+first_released_as_single: false
 key: play-something-country-brooks-dunn
 lyrics_url: https://www.azlyrics.com/lyrics/brooksdunn/playsomethingcountry.html
 name: Play Something Country
@@ -76,8 +79,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2005-10-22'
+release_year: 2005
+runtime: 194826
 ---
-
 Yes, she blew through the door like TNT,
 Put her hand on her hip, pointed a finger at me.
 Said: "I'm a whiskey drinkin', cowboy chasin', helluva time.
@@ -120,6 +124,3 @@ Hank it up a little, let's rock this bar.
 Threw back a shot; yelled: "I'm a George Strait junkie.
 "Ah-oh-hoo, play somethin' country.
 "Ha-oh-hoo, play somethin' country."
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: 10,000 Towns
 artists:
 - Eli Young Band
+external_ids:
+  spotify: spotify:track:4hnK8P3v7kE7T4PMBYwRhu
 features: []
-genres: []
+first_released_as_single: false
 key: drunk-last-night-eli-young-band
 lyrics_url: https://www.azlyrics.com/lyrics/eliyoungband/drunklastnight.html
 name: Drunk Last Night
@@ -87,8 +90,9 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '2014-02-01'
+release_year: 2013
+runtime: 219213
 ---
-
 I got a little drunk last night
 There's something 'bout a midnight rain
 Staring at the ceiling fan
@@ -150,6 +154,3 @@ I got a little drunk last night
 I got a little drunk last night
 Thought I could keep it all inside
 But I got a little drunk last night
-
-
-

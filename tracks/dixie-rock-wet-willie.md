@@ -1,8 +1,11 @@
 ---
+album: Dixie Rock
 artists:
 - Wet Willie
+external_ids:
+  spotify: spotify:track:7t1fjQogZTmeq1QDMD4btj
 features: []
-genres: []
+first_released_as_single: false
 key: dixie-rock-wet-willie
 lyrics_url: https://genius.com/Wet-willie-dixie-rock-lyrics
 name: Dixie Rock
@@ -15,6 +18,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1975-06-07'
+release_year: 1975
+runtime: 311626
 ---
 I was feelin' tired and troubled
 I was feelin' down and out

@@ -1,8 +1,11 @@
 ---
+album: '16 Most Requested Songs: Encore!'
 artists:
 - Andy Williams
+external_ids:
+  spotify: spotify:track:1Bhi7v5aafrvWuIF4D8mI8
 features: []
-genres: []
+first_released_as_single: false
 key: charade-andy-williams
 lyrics_url: https://www.azlyrics.com/lyrics/andywilliams/charade.html
 name: Charade
@@ -11,8 +14,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1964-01-18'
+release_year: 1964
+runtime: 151466
 ---
-
 When we played our charade
 We were like children posing
 Playing at games, acting out names
@@ -33,6 +37,3 @@ Song of my heart's composing
 I hear it still, I always will
 Best on the bill
 Charade
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Soul Alone
 artists:
 - Daryl Hall
+external_ids:
+  spotify: spotify:track:2T0U0YXfoeBmy3wyrnj4vD
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-in-a-philly-mood-daryl-hall
 lyrics_url: https://genius.com/Daryl-hall-im-in-a-philly-mood-edit-lyrics
 name: I'm In A Philly Mood
@@ -15,6 +18,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1993-10-09'
+release_year: 1993
+runtime: 313066
 ---
 Oh, let's make it groove
 Taking it nice and smooth

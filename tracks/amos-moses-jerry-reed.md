@@ -1,8 +1,11 @@
 ---
+album: Georgia Sunshine
 artists:
 - Jerry Reed
+external_ids:
+  spotify: spotify:track:7zVZF0OgDJkFJohnlKwEpa
 features: []
-genres: []
+first_released_as_single: false
 key: amos-moses-jerry-reed
 lyrics_url: https://genius.com/Jerry-reed-amos-moses-lyrics
 name: Amos Moses
@@ -103,6 +106,8 @@ rankings:
   rank: 36
   ranking_list: Billboard Hot 100
   start_date: '1971-04-10'
+release_year: 1970
+runtime: 139226
 ---
 Yeah, here comes Amos
 

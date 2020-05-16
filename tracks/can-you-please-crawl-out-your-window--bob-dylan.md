@@ -1,8 +1,11 @@
 ---
+album: 'The Best of The Cutting Edge 1965-1966: The Bootleg Series, Vol. 12'
 artists:
 - Bob Dylan
+external_ids:
+  spotify: spotify:track:7DXnuhBeO4DkNc75w0x3Rs
 features: []
-genres: []
+first_released_as_single: false
 key: can-you-please-crawl-out-your-window--bob-dylan
 lyrics_url: https://genius.com/Bob-dylan-can-you-please-crawl-out-your-window-lyrics
 name: Can You Please Crawl Out Your Window?
@@ -31,6 +34,8 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '1966-02-05'
+release_year: 1965
+runtime: 243280
 ---
 He sits in your room, his tomb, with a fist full of tacks
 Preoccupied with his vengeance

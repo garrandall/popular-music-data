@@ -1,8 +1,11 @@
 ---
+album: Head East
 artists:
 - Head East
+external_ids:
+  spotify: spotify:track:5vIJJklN9p1FfY8DdbF0XA
 features: []
-genres: []
+first_released_as_single: false
 key: since-you-been-gone-head-east
 lyrics_url: https://www.musixmatch.com/lyrics/Head-East/Since-You-Been-Gone
 name: Since You Been Gone
@@ -39,6 +42,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1978-06-03'
+release_year: 1978
+runtime: 181813
 ---
 I get the same old dream same time every night
 Fall to the ground and I wake up

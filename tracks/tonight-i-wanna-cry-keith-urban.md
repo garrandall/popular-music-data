@@ -1,8 +1,11 @@
 ---
+album: Be Here
 artists:
 - Keith Urban
+external_ids:
+  spotify: spotify:track:61hmCqoIlTJjcVMMLhcH5n
 features: []
-genres: []
+first_released_as_single: false
 key: tonight-i-wanna-cry-keith-urban
 lyrics_url: https://www.azlyrics.com/lyrics/keithurban/tonightiwannacry.html
 name: Tonight I Wanna Cry
@@ -87,8 +90,9 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '2006-05-13'
+release_year: 2004
+runtime: 259506
 ---
-
 Alone in this house again tonight
 I got the TV on, the sound turned down and a bottle of wine
 There's pictures of you and I on the walls around me
@@ -122,6 +126,3 @@ To hell with this pride, let it fall like rain
 From my eyes
 
 Tonight I wanna cry
-
-
-

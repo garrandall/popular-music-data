@@ -1,8 +1,11 @@
 ---
+album: 5000 Volts
 artists:
 - 5000 Volts
+external_ids:
+  spotify: spotify:track:1BIrBq1iQFMaHdBmmfxR08
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-on-fire-5000-volts
 lyrics_url: https://genius.com/5000-volts-im-on-fire-lyrics
 name: I'm On Fire
@@ -47,6 +50,8 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '1975-12-20'
+release_year: 1975
+runtime: 163459
 ---
 If you wanna squeeze me a lot tonight
 Call me and I'll make you feel alright

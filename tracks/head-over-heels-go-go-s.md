@@ -1,8 +1,11 @@
 ---
+album: Talk Show
 artists:
 - Go-Go's
+external_ids:
+  spotify: spotify:track:14zMkyaYN6TGAFwsB69bz6
 features: []
-genres: []
+first_released_as_single: false
 key: head-over-heels-go-go-s
 lyrics_url: https://genius.com/The-go-gos-head-over-heels-lyrics
 name: Head Over Heels
@@ -71,6 +74,8 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '1984-06-30'
+release_year: 1984
+runtime: 217600
 ---
 Been running so long
 I've nearly lost all track of time

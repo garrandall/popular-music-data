@@ -1,9 +1,12 @@
 ---
+album: Doggumentary
 artists:
 - Snoop Dogg
+external_ids:
+  spotify: spotify:track:5BAQaMRd8ty7q1N1xVssZZ
 features:
 - T-Pain
-genres: []
+first_released_as_single: false
 key: boom-snoop-dogg-t-pain
 lyrics_url: https://genius.com/Snoop-dogg-boom-lyrics
 name: Boom
@@ -24,6 +27,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2011-04-23'
+release_year: 2011
+runtime: 230156
 ---
 Boom!
 Boom!

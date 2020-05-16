@@ -1,8 +1,11 @@
 ---
+album: Heart and Soul
 artists:
 - Johnny Adams
+external_ids:
+  spotify: spotify:track:0Rz9IUnHJmSnPMqSHqYQkp
 features: []
-genres: []
+first_released_as_single: false
 key: i-can-t-be-all-bad-johnny-adams
 lyrics_url: https://genius.com/Johnny-adams-i-cant-be-all-bad-lyrics
 name: I Can't Be All Bad
@@ -15,6 +18,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1969-10-18'
+release_year: 1969
+runtime: 183558
 ---
 Yes, baby
 I know, I know

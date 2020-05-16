@@ -1,9 +1,12 @@
 ---
+album: Dance Party
 artists:
 - Martha
 - The Vandellas
+external_ids:
+  spotify: spotify:track:6rLqjzGV5VMLDWEnuUqi8q
 features: []
-genres: []
+first_released_as_single: false
 key: dancing-in-the-street-martha-the-vandellas
 lyrics_url: https://genius.com/Martha-reeves-and-the-vandellas-dancing-in-the-street-lyrics
 name: Dancing In The Street
@@ -64,6 +67,8 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '1964-11-21'
+release_year: 1964
+runtime: 165226
 ---
 Calling out around the world
 Are you ready for a brand new beat

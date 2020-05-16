@@ -1,8 +1,11 @@
 ---
+album: I Wanna Be Around
 artists:
 - Tony Bennett
+external_ids:
+  spotify: spotify:track:1smChL3Aq1U9DZA83LuDtp
 features: []
-genres: []
+first_released_as_single: false
 key: i-wanna-be-around-tony-bennett
 lyrics_url: https://genius.com/Tony-bennett-i-wanna-be-around-lyrics
 name: I Wanna Be Around
@@ -71,6 +74,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1963-04-27'
+release_year: 1963
+runtime: 131226
 ---
 I wanna be around, to pick up the pieces -
 When somebody breaks your heart -

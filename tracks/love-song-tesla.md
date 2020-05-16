@@ -1,8 +1,11 @@
 ---
+album: The Great Radio Controversy
 artists:
 - Tesla
+external_ids:
+  spotify: spotify:track:0vJUdIefT5caKla9H8b1q4
 features: []
-genres: []
+first_released_as_single: false
 key: love-song-tesla
 lyrics_url: https://genius.com/Tesla-love-song-lyrics
 name: Love Song
@@ -115,6 +118,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1990-03-31'
+release_year: 1989
+runtime: 323360
 ---
 So you think that it's over
 That your love has finally reached the end

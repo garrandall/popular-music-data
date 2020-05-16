@@ -1,8 +1,11 @@
 ---
+album: American Oxygen
 artists:
 - Rihanna
+external_ids:
+  spotify: spotify:track:0bHA8LApeZHv7ZlhVUWg8X
 features: []
-genres: []
+first_released_as_single: true
 key: american-oxygen-rihanna
 lyrics_url: https://www.azlyrics.com/lyrics/rihanna/americanoxygen.html
 name: American Oxygen
@@ -23,8 +26,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2015-05-23'
+release_year: 2015
+runtime: 320161
 ---
-
 Breathe out, breathe in
 American oxygen
 Every breath I breathe
@@ -98,4 +102,3 @@ American, American oxygen
 
 This is the new America
 We are the new America
-

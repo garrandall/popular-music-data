@@ -1,8 +1,11 @@
 ---
+album: Odelay
 artists:
 - Beck
+external_ids:
+  spotify: spotify:track:1AQg7H4Ohu6s3qzq4m1KrN
 features: []
-genres: []
+first_released_as_single: false
 key: devil-s-haircut-beck
 lyrics_url: https://www.azlyrics.com/lyrics/beck/devilshaircut.html
 name: Devil's Haircut
@@ -23,8 +26,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1996-11-30'
+release_year: 1996
+runtime: 192813
 ---
-
 Something's wrong 'cause my mind is fading
 And everywhere I look
 There's a dead end waiting
@@ -66,6 +70,3 @@ Got a devil's haircut in my mind
 Devil's haircut! In my mind!
 Devil's haircut! In my mind!
 Devil's haircut! In my mind!
-
-
-

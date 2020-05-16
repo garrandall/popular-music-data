@@ -1,8 +1,11 @@
 ---
+album: Eve
 artists:
 - The Alan Parsons Project
+external_ids:
+  spotify: spotify:track:6L6I4Tfwg77CYoo5vkUFNV
 features: []
-genres: []
+first_released_as_single: false
 key: damned-if-i-do-the-alan-parsons-project
 lyrics_url: https://www.azlyrics.com/lyrics/alanparsonsproject/damnedifido.html
 name: Damned If I Do
@@ -75,8 +78,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1980-01-19'
+release_year: 1977
+runtime: 291426
 ---
-
 I ain't got a heart of stone
 I'm hurtin' more than I've ever kown
 If you mean the things you said
@@ -109,6 +113,3 @@ Can't seem to see the light
 I've done everything but I can't get it right
 Damned if I do
 Damned if I don't but love you
-
-
-

@@ -1,9 +1,12 @@
 ---
+album: The Definitive Collection
 artists:
 - Dionne
 - Kashif
+external_ids:
+  spotify: spotify:track:3oA9BEQBT32U0puv2dnQ0g
 features: []
-genres: []
+first_released_as_single: false
 key: reservations-for-two-dionne-kashif
 lyrics_url: https://www.azlyrics.com/lyrics/dionnewarwick/reservationsfortwo.html
 name: Reservations For Two
@@ -36,8 +39,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1987-12-12'
+release_year: 1987
+runtime: 263533
 ---
-
 It's been so long
 Since I last saw you
 We're always running
@@ -98,6 +102,3 @@ This is just between me and you
 There will be no standing in line
 For baby, tonight you're mine
 Tonight you're mine.
-
-
-

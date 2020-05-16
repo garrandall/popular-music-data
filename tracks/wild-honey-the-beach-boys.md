@@ -1,8 +1,11 @@
 ---
+album: Wild Honey
 artists:
 - The Beach Boys
+external_ids:
+  spotify: spotify:track:5Phhw1cIA41fyoXABRBaZs
 features: []
-genres: []
+first_released_as_single: false
 key: wild-honey-the-beach-boys
 lyrics_url: https://www.azlyrics.com/lyrics/beachboys/wildhoney.html
 name: Wild Honey
@@ -31,8 +34,9 @@ rankings:
   rank: 31
   ranking_list: Billboard Hot 100
   start_date: '1967-12-09'
+release_year: 1967
+runtime: 160000
 ---
-
 Sweet sweet wild honey bee
 Eat up eat up eat up honey
 
@@ -67,6 +71,3 @@ So I can spend my life with her
 Sock it to me wild honey
 Wild honey she's mine
 Wild honey she's mine
-
-
-

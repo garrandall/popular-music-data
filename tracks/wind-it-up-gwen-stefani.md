@@ -1,8 +1,11 @@
 ---
+album: The Sweet Escape
 artists:
 - Gwen Stefani
+external_ids:
+  spotify: spotify:track:1GeECVH4Msg1zLm8DExkbH
 features: []
-genres: []
+first_released_as_single: false
 key: wind-it-up-gwen-stefani
 lyrics_url: https://www.azlyrics.com/lyrics/gwenstefani/winditup.html
 name: Wind It Up
@@ -79,8 +82,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2007-03-17'
+release_year: 2006
+runtime: 189586
 ---
-
 High on the hills with the lonely goatherd, lay-od-lay-od-lay-he-hoo
 Yodell back with the girl and goatherd, lay-od-lay-od-low
 
@@ -148,6 +152,3 @@ But does he know how to wind you up?
 Wind it up, uh, uh, uh, uh
 Wind it up, uh, uh, uh, uh
 Yodellay, yodallay, yodal-low, hey!
-
-
-

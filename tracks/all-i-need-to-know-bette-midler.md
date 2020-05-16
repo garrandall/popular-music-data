@@ -1,8 +1,11 @@
 ---
+album: No Frills
 artists:
 - Bette Midler
+external_ids:
+  spotify: spotify:track:4c488pAGlVixKB3dWftQ15
 features: []
-genres: []
+first_released_as_single: false
 key: all-i-need-to-know-bette-midler
 lyrics_url: https://www.azlyrics.com/lyrics/bettemidler/allineedtoknow.html
 name: All I Need To Know
@@ -23,8 +26,9 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1983-09-24'
+release_year: 1983
+runtime: 246640
 ---
-
 Look at my face. I know the years are showin'.
 Look at my life. Still don't know where it's goin'.
 I don't know much, but I know I love you,
@@ -51,6 +55,3 @@ I don't kow much, but if I know you love me,
 that will be all I need to know.
 I don't know much, but if you say you love me,
 that will be all I need to know.
-
-
-

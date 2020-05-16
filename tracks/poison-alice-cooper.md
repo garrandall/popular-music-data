@@ -1,8 +1,11 @@
 ---
+album: Trash
 artists:
 - Alice Cooper
+external_ids:
+  spotify: spotify:track:1iQpStZpzBb5TOuTDKJKdj
 features: []
-genres: []
+first_released_as_single: false
 key: poison-alice-cooper
 lyrics_url: https://www.azlyrics.com/lyrics/alicecooper/poison.html
 name: Poison
@@ -83,8 +86,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1990-01-27'
+release_year: 1989
+runtime: 269600
 ---
-
 Your cruel device,
 Your blood like ice.
 One look could kill,
@@ -137,6 +141,3 @@ Poison
 I don't wanna break these chains
 Poison
 I don't wanna break these chains
-
-
-

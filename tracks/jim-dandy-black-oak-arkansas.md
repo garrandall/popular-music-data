@@ -1,8 +1,11 @@
 ---
+album: High On The Hog
 artists:
 - Black Oak Arkansas
+external_ids:
+  spotify: spotify:track:0JFEn4sPozptBShOuqMQVs
 features: []
-genres: []
+first_released_as_single: false
 key: jim-dandy-black-oak-arkansas
 lyrics_url: https://genius.com/Black-oak-arkansas-jim-dandy-lyrics
 name: Jim Dandy
@@ -59,6 +62,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1974-03-09'
+release_year: 1973
+runtime: 161506
 ---
 Jim Dandy to the rescue!
 Jim Dandy to the rescue!

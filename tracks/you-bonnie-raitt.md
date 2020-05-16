@@ -1,8 +1,11 @@
 ---
+album: Bonnie Raitt (Remastered Version)
 artists:
 - Bonnie Raitt
+external_ids:
+  spotify: spotify:track:2zLIjfjQ8kMy7WSSLmF0I2
 features: []
-genres: []
+first_released_as_single: false
 key: you-bonnie-raitt
 lyrics_url: https://genius.com/Bonnie-raitt-since-i-fell-for-you-lyrics
 name: You
@@ -35,6 +38,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1994-09-17'
+release_year: 1971
+runtime: 170800
 ---
 When you just give love, and never get love
 You'd better let love depart

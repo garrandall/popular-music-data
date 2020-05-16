@@ -1,8 +1,11 @@
 ---
+album: Home State
 artists:
 - Jordan Davis
+external_ids:
+  spotify: spotify:track:3IPkbTA8KkdDXyWtGkfFXa
 features: []
-genres: []
+first_released_as_single: true
 key: singles-you-up-jordan-davis
 lyrics_url: https://www.azlyrics.com/lyrics/jordandavis/singlesyouup.html
 name: Singles You Up
@@ -83,8 +86,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2018-06-23'
+release_year: 2017
+runtime: 182693
 ---
-
 I ain't heard you laugh like that in a long time
 I wonder if you stopped his world like you did mine just now
 I see you sippin' white wine instead of whiskey
@@ -129,6 +133,3 @@ That the right guy's staring you back into your eyes, right now
 No rush, but if he ever singles you up
 Oh, if he ever singles you up
 If he ever singles you up
-
-
-

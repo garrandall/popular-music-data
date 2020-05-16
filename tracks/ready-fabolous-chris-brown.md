@@ -1,9 +1,12 @@
 ---
+album: Ready
 artists:
 - Fabolous
+external_ids:
+  spotify: spotify:track:3dTwLV3pAQ3OhEKPVG42fx
 features:
 - Chris Brown
-genres: []
+first_released_as_single: true
 key: ready-fabolous-chris-brown
 lyrics_url: https://www.azlyrics.com/lyrics/fabolous/ready.html
 name: Ready
@@ -40,9 +43,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2013-06-29'
+release_year: 2013
+runtime: 239946
 ---
-
-
 And baby we don't need a bed, no
 Don't need a master room, don't need to set the mood
 She like, "Yeah, yeah"
@@ -89,4 +92,3 @@ I'm feelin' good, chillin' good, I'm ready (I'm ready, yo)
 Left a girl in the back, she ready (She so ready)
 We don't know how to act, we ready (Cause we're ready)
 And we can't wait to get home (If you're ready, come on)
-

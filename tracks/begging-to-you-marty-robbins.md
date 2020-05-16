@@ -1,8 +1,11 @@
 ---
+album: I Walk Alone
 artists:
 - Marty Robbins
+external_ids:
+  spotify: spotify:track:1uTW56HD7k8cNmp7cMPd8m
 features: []
-genres: []
+first_released_as_single: false
 key: begging-to-you-marty-robbins
 lyrics_url: https://genius.com/Marty-robbins-begging-to-you-lyrics
 name: Begging To You
@@ -27,6 +30,8 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '1963-12-28'
+release_year: 1952
+runtime: 154266
 ---
 I left you this morning couldn't take anymore
 You laughed and you dared me to walk out the door

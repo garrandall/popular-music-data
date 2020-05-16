@@ -1,8 +1,11 @@
 ---
+album: Money and Cigarettes
 artists:
 - Eric Clapton
+external_ids:
+  spotify: spotify:track:0pEu81PfEP0L9u4iTY5zvI
 features: []
-genres: []
+first_released_as_single: false
 key: i-ve-got-a-rock-n--roll-heart-eric-clapton
 lyrics_url: https://genius.com/Eric-clapton-ive-got-a-rock-n-roll-heart-lyrics
 name: I've Got A Rock N' Roll Heart
@@ -71,6 +74,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1983-05-14'
+release_year: 1983
+runtime: 193386
 ---
 I've got a feeling we could be serious, girl
 Right at this moment, I could promise you the world

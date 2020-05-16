@@ -1,8 +1,11 @@
 ---
+album: Suspicion
 artists:
 - Terry Stafford
+external_ids:
+  spotify: spotify:track:78fBKpVQLaBQheVqYf991b
 features: []
-genres: []
+first_released_as_single: false
 key: i-ll-touch-a-star-terry-stafford
 lyrics_url: https://www.musixmatch.com/lyrics/Terry-Stafford/I-ll-Touch-a-Star
 name: I'll Touch A Star
@@ -39,6 +42,8 @@ rankings:
   rank: 36
   ranking_list: Billboard Hot 100
   start_date: '1964-07-11'
+release_year: 1964
+runtime: 145066
 ---
 I'll touch a star
 When your lips touch mine

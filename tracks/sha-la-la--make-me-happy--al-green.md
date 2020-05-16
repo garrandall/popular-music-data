@@ -1,8 +1,11 @@
 ---
+album: Al Green Explores Your Mind
 artists:
 - Al Green
+external_ids:
+  spotify: spotify:track:2J9ChZBgjDLdGaIKdKQcP0
 features: []
-genres: []
+first_released_as_single: false
 key: sha-la-la--make-me-happy--al-green
 lyrics_url: https://www.azlyrics.com/lyrics/algreen/shalalamakemehappy413809.html
 name: Sha-La-La (Make Me Happy)
@@ -83,8 +86,9 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1975-02-01'
+release_year: 1974
+runtime: 179840
 ---
-
 Sha la la la-- la la la
 Oh baby
 Sha la la la-- la la la
@@ -119,6 +123,3 @@ Sha la la la-- la la la
 Oh baby
 Sha la la la-- la la la
 Oh baby...
-
-
-

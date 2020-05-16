@@ -1,8 +1,11 @@
 ---
+album: Worlds Away
 artists:
 - Pablo Cruise
+external_ids:
+  spotify: spotify:track:2LqzuRukwnpeWYLXBtiwmq
 features: []
-genres: []
+first_released_as_single: false
 key: love-will-find-a-way-pablo-cruise
 lyrics_url: https://www.azlyrics.com/lyrics/pablocruise/lovewillfindaway.html
 name: Love Will Find A Way
@@ -79,8 +82,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1978-09-30'
+release_year: 1978
+runtime: 251426
 ---
-
 Someone, someone's done you wrong
 You thought that
 Your love was strong
@@ -149,6 +153,3 @@ Don't be afraid
 Yes, it's all right (all right)
 Keep your heart open
 'Cause love will find a way
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: PowerBallin'
 artists:
 - Chingy
+external_ids:
+  spotify: spotify:track:6HFXjB2fvQUBuE3B5kmvfW
 features: []
-genres: []
+first_released_as_single: false
 key: balla-baby-chingy
 lyrics_url: https://www.azlyrics.com/lyrics/chingy/ballababy.html
 name: Balla Baby
@@ -79,9 +82,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2005-02-05'
+release_year: 2004
+runtime: 215906
 ---
-
-
 You know the definition... of a Balla
 That's me... C-H-I-N-G to the Y
 Lemme explain it to you though
@@ -177,6 +180,3 @@ Why you tryna play me (I don't think he know)
 Fake playa (Fake playa)
 Scared I'll take ya lady
 Ain't nobody gettin it like me (I'mma balla fa real)
-
-
-

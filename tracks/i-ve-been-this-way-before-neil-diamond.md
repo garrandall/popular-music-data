@@ -1,8 +1,11 @@
 ---
+album: Serenade
 artists:
 - Neil Diamond
+external_ids:
+  spotify: spotify:track:4R7o0ZYcpxSTIY5VydDtD5
 features: []
-genres: []
+first_released_as_single: false
 key: i-ve-been-this-way-before-neil-diamond
 lyrics_url: https://genius.com/Neil-diamond-ive-been-this-way-before-lyrics
 name: I've Been This Way Before
@@ -35,6 +38,8 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '1975-03-15'
+release_year: 1974
+runtime: 226400
 ---
 I've seen the light
 And I've seen the flame

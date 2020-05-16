@@ -1,8 +1,11 @@
 ---
+album: Satin Pillows
 artists:
 - Bobby Vinton
+external_ids:
+  spotify: spotify:track:6cyuQP6SxQkYiF3zLKQL8Y
 features: []
-genres: []
+first_released_as_single: false
 key: satin-pillows-bobby-vinton
 lyrics_url: https://genius.com/Bobby-vinton-satin-pillows-lyrics
 name: Satin Pillows
@@ -47,6 +50,8 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '1966-02-05'
+release_year: 1965
+runtime: 146813
 ---
 Satin pillows to cry on
 Satin pillows to cry on

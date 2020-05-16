@@ -1,8 +1,11 @@
 ---
+album: Magna Carta... Holy Grail
 artists:
 - JAY-Z
+external_ids:
+  spotify: spotify:track:2tcatycPdcN1gMxA1V4heS
 features: []
-genres: []
+first_released_as_single: false
 key: crown-jay-z
 lyrics_url: https://genius.com/Jay-z-crown-lyrics
 name: Crown
@@ -11,6 +14,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2013-07-27'
+release_year: 2013
+runtime: 274053
 ---
 They can't keep a good man down
 Always keep a smile when they want me to frowns

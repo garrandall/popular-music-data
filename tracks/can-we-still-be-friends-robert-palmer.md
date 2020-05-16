@@ -1,8 +1,11 @@
 ---
+album: Secrets
 artists:
 - Robert Palmer
+external_ids:
+  spotify: spotify:track:1Rgvh8FujfYrghalBtAQ9n
 features: []
-genres: []
+first_released_as_single: false
 key: can-we-still-be-friends-robert-palmer
 lyrics_url: https://www.azlyrics.com/lyrics/robertpalmer/canwestillbefriends.html
 name: Can We Still Be Friends
@@ -43,8 +46,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1980-02-16'
+release_year: 1979
+runtime: 219333
 ---
-
 We can't play this game anymore
 But can we still be friends?
 Things just can't go on like before
@@ -71,6 +75,3 @@ Memories linger on
 It's like a sweet, sad, old song
 Dannana ,
 Can we still be friends
-
-
-

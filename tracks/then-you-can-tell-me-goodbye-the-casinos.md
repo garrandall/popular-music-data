@@ -1,8 +1,11 @@
 ---
+album: Then You Can Tell Me Goodbye
 artists:
 - The Casinos
+external_ids:
+  spotify: spotify:track:00MejIEmrvjw0aE8uz0HzR
 features: []
-genres: []
+first_released_as_single: false
 key: then-you-can-tell-me-goodbye-the-casinos
 lyrics_url: https://genius.com/The-casinos-then-you-can-tell-me-goodbye-lyrics
 name: Then You Can Tell Me Goodbye
@@ -59,6 +62,8 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '1967-04-08'
+release_year: 1967
+runtime: 187431
 ---
 Kiss me each morning for a million years
 Hold me each evening by your side

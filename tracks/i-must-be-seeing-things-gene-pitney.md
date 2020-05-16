@@ -1,8 +1,11 @@
 ---
+album: The Best Of Gene Pitney
 artists:
 - Gene Pitney
+external_ids:
+  spotify: spotify:track:1H7zy2mbvJLVP0CofeuDhA
 features: []
-genres: []
+first_released_as_single: false
 key: i-must-be-seeing-things-gene-pitney
 lyrics_url: https://www.azlyrics.com/lyrics/genepitney/imustbeseeingthings.html
 name: I Must Be Seeing Things
@@ -35,8 +38,9 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '1965-04-10'
+release_year: 1965
+runtime: 148133
 ---
-
 Isn't that my girl
 And is that my best friend
 Aren't they walking much to close together
@@ -67,6 +71,3 @@ I must be seeing things
 And hearing things
 
 Oh no, I need you so, Oh please don't go...
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Tell Me This Is a Dream (Expanded Version)
 artists:
 - The Delfonics
+external_ids:
+  spotify: spotify:track:5LVTzrOs7Ban5EpU9XkGSW
 features: []
-genres: []
+first_released_as_single: false
 key: hey--love-the-delfonics
 lyrics_url: https://genius.com/The-delfonics-hey-love-lyrics
 name: Hey! Love
@@ -39,6 +42,8 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '1971-08-07'
+release_year: 1971
+runtime: 201973
 ---
 Hey love (Hey love)
 Turn your head around (Turn your head around)

@@ -1,8 +1,11 @@
 ---
+album: Carroll - '60s Rockin' Girls
 artists:
 - Cathy Carroll
+external_ids:
+  spotify: spotify:track:28C0mqGkQlWfIgOZLrKlnu
 features: []
-genres: []
+first_released_as_single: false
 key: poor-little-puppet-cathy-carroll
 lyrics_url: https://www.musixmatch.com/lyrics/Cathy-Carroll/Poor-Little-Puppet
 name: Poor Little Puppet
@@ -19,6 +22,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1962-08-18'
+release_year: 1962
+runtime: 149013
 ---
 Poor little puppet
 He's got her tied to a string

@@ -1,8 +1,11 @@
 ---
+album: Back Home Again
 artists:
 - John Denver
+external_ids:
+  spotify: spotify:track:721gOIOYPYJIGw2LLvLjsd
 features: []
-genres: []
+first_released_as_single: false
 key: back-home-again-john-denver
 lyrics_url: https://www.azlyrics.com/lyrics/johndenver/backhomeagain.html
 name: Back Home Again
@@ -71,8 +74,9 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1975-01-04'
+release_year: 1974
+runtime: 285373
 ---
-
 There's a storm across the valley, clouds are rolling in
 The afternoon is heavy on your shoulders
 There's a truck out on the four lane, a mile or more away
@@ -114,6 +118,3 @@ Hey, it's good to be back home again
 Sometimes this old farm feels like a long lost friend
 Yes, and hey, it's good to be back home again
 I said hey, it's good to be back home again
-
-
-

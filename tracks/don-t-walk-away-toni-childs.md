@@ -1,8 +1,11 @@
 ---
+album: Union
 artists:
 - Toni Childs
+external_ids:
+  spotify: spotify:track:4R9rKeBJjQSMiKIXacPPEI
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-walk-away-toni-childs
 lyrics_url: https://genius.com/Toni-childs-dont-walk-away-lyrics
 name: Don't Walk Away
@@ -35,6 +38,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1988-09-24'
+release_year: 1988
+runtime: 238973
 ---
 Don't walk away
 Ripping out the root of love

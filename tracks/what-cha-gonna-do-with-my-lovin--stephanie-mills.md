@@ -1,8 +1,11 @@
 ---
+album: The Best Of Stephanie Mills
 artists:
 - Stephanie Mills
+external_ids:
+  spotify: spotify:track:7IK5aGFxQ0N8cOsH9wjI74
 features: []
-genres: []
+first_released_as_single: false
 key: what-cha-gonna-do-with-my-lovin--stephanie-mills
 lyrics_url: https://www.azlyrics.com/lyrics/stephaniemills/whatchagonnadowithmylovin.html
 name: What Cha Gonna Do With My Lovin'
@@ -63,8 +66,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1979-10-20'
+release_year: 1979
+runtime: 483360
 ---
-
 Oh, I'm wishin'
 Boy, I got my eyes on you
 This mystery is thrillin'
@@ -163,6 +167,3 @@ Tell me, are you ready to tell me, tell me, baby
 
 What cha gonna do, what cha gonna do
 What cha gonna do
-
-
-

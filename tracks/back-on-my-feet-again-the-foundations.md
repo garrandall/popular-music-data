@@ -1,8 +1,11 @@
 ---
+album: Baby Now That I've Found You
 artists:
 - The Foundations
+external_ids:
+  spotify: spotify:track:5htyUo4WIxKzlkvTsni89X
 features: []
-genres: []
+first_released_as_single: false
 key: back-on-my-feet-again-the-foundations
 lyrics_url: https://www.azlyrics.com/lyrics/foundations/backonmyfeetagain.html
 name: Back On My Feet Again
@@ -31,8 +34,9 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1968-04-13'
+release_year: 1967
+runtime: 174546
 ---
-
 Yeh
 Yeh
 Yeh
@@ -85,6 +89,3 @@ Back on my feet again
 And make this life of mine sweet again
 Cause you got what it takes
 To end all the heartaches
-
-
-

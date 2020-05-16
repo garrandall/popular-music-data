@@ -1,9 +1,12 @@
 ---
+album: Crystal Illusions
 artists:
 - Sergio Mendes
 - Brasil '66
+external_ids:
+  spotify: spotify:track:50ke5rRrtViW0vfUfbDLNT
 features: []
-genres: []
+first_released_as_single: false
 key: pretty-world-sergio-mendes-brasil--66
 lyrics_url: https://genius.com/Sergio-mendes-and-brasil-66-pretty-world-lyrics
 name: Pretty World
@@ -32,6 +35,8 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '1969-06-07'
+release_year: 1969
+runtime: 198786
 ---
 Why don't we take a little piece of summer sky?
 Hang it on a tree

@@ -1,9 +1,12 @@
 ---
+album: United
 artists:
 - Marvin Gaye
 - Tammi Terrell
+external_ids:
+  spotify: spotify:track:7tqhbajSfrz2F7E1Z75ASX
 features: []
-genres: []
+first_released_as_single: false
 key: ain-t-no-mountain-high-enough-marvin-gaye-tammi-terrell
 lyrics_url: https://genius.com/Marvin-gaye-and-tammi-terrell-aint-no-mountain-high-enough-lyrics
 name: Ain't No Mountain High Enough
@@ -56,6 +59,8 @@ rankings:
   rank: 38
   ranking_list: Billboard Hot 100
   start_date: '1967-07-29'
+release_year: 1967
+runtime: 151666
 ---
 Listen, baby
 Ain't no mountain high

@@ -1,9 +1,12 @@
 ---
+album: My Everything
 artists:
 - Ariana Grande
+external_ids:
+  spotify: spotify:track:7vS3Y0IKjde7Xg85LWIEdP
 features:
 - Iggy Azalea
-genres: []
+first_released_as_single: false
 key: problem-ariana-grande-iggy-azalea
 lyrics_url: https://www.azlyrics.com/lyrics/arianagrande/problem.html
 name: Problem
@@ -108,9 +111,9 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '2014-11-01'
+release_year: 2014
+runtime: 193920
 ---
-
-
 Uh huh!
 It's Iggy Iggs!
 I got one more problem with you girl
@@ -252,6 +255,3 @@ I got!
 One less problem without ya!
 
 I got one less, one less problem
-
-
-

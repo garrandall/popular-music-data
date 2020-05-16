@@ -1,9 +1,12 @@
 ---
+album: Sweat
 artists:
 - Bow Wow
+external_ids:
+  spotify: spotify:track:5aJDXbAN2TSctGEDFdaKhc
 features:
 - Lil Wayne
-genres: []
+first_released_as_single: true
 key: sweat-bow-wow-lil-wayne
 lyrics_url: https://www.azlyrics.com/lyrics/bowwow/sweat.html
 name: Sweat
@@ -12,8 +15,9 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2011-11-12'
+release_year: 2011
+runtime: 292706
 ---
-
 Young mula baby, I got you nigga, leggo
 
 
@@ -80,6 +84,3 @@ Now buss it open for me baby
 Now buss it, now buss it open, buss it wide open
 Now buss it, just buss it open, buss it wide open
 Now won't you run and get ya gat for me cause I'm a gangsta ass nigga from YMCMB.
-
-
-

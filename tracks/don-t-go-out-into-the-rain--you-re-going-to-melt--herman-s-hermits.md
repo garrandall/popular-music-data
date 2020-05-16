@@ -1,8 +1,11 @@
 ---
+album: Herman's Hermits Retrospective
 artists:
 - Herman's Hermits
+external_ids:
+  spotify: spotify:track:2tfY5A60urfzfAvlfTHQQ2
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-go-out-into-the-rain--you-re-going-to-melt--herman-s-hermits
 lyrics_url: https://genius.com/Hermans-hermits-dont-go-out-into-the-rain-lyrics
 name: Don't Go Out Into The Rain (You're Going To Melt)
@@ -35,6 +38,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1967-08-05'
+release_year: 1966
+runtime: 132706
 ---
 (Kenny Young)
 

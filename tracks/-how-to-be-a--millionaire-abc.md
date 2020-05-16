@@ -1,8 +1,11 @@
 ---
+album: How To Be A Zillionaire
 artists:
 - ABC
+external_ids:
+  spotify: spotify:track:3zC02nmo5OrDDMW3U905AU
 features: []
-genres: []
+first_released_as_single: false
 key: -how-to-be-a--millionaire-abc
 lyrics_url: https://www.azlyrics.com/lyrics/abc/howtobeamillionaire.html
 name: (How To Be A) Millionaire
@@ -63,8 +66,9 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1986-04-19'
+release_year: 1985
+runtime: 215733
 ---
-
 I've seen the future, I can't afford it
 Tell me the truth sir, someone just bought it
 Say mr. whispers! Here come the click of dice
@@ -100,6 +104,3 @@ Who wants to be millionaire?
 I do! - I don't!
 
 I've seen the future and I can't afford it
-
-
-

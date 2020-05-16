@@ -1,8 +1,11 @@
 ---
+album: '#16'
 artists:
 - The Kingston Trio
+external_ids:
+  spotify: spotify:track:5oylNWup5X2pXeTO24LiBB
 features: []
-genres: []
+first_released_as_single: false
 key: reverend-mr-black-the-kingston-trio
 lyrics_url: https://genius.com/Kingston-trio-reverend-mr-black-1990-digital-remaster-lyrics
 name: Reverend Mr Black
@@ -51,6 +54,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1963-06-15'
+release_year: 1963
+runtime: 184200
 ---
 He rode easy in the saddle. He was tall and lean, and at first you'd a-thought nothing but a streak of mean could make a man look so down right strong, but one look in his eyes and you knowed you was wrong. He was a mountain of a man, and I want you to know. He could preach hot hell or freezin' snow. He carried a Bible in a canvas sack and folks just called him The Reverend Mr. Black. He was poor as a beggar, but he rode like a king. Sometimes in the evening, I'd hear him sing:
 

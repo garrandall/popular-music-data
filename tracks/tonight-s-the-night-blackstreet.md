@@ -1,8 +1,11 @@
 ---
+album: Blackstreet
 artists:
 - BLACKstreet
+external_ids:
+  spotify: spotify:track:3scEwKiAkfdPUdZ6k1AEoW
 features: []
-genres: []
+first_released_as_single: false
 key: tonight-s-the-night-blackstreet
 lyrics_url: https://www.azlyrics.com/lyrics/blackstreet/tonightsthenight.html
 name: Tonight's The Night
@@ -35,8 +38,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1995-10-28'
+release_year: 1994
+runtime: 258026
 ---
-
 You know baby
 (Tonight's the night, tonight's the night)
 I know I've been promising you everything in the world
@@ -106,6 +110,3 @@ Tonight's the night, tonight's the night, oh yeah
 
 Tonight's the night, tonight's the night
 Tonight's the night, tonight's the night
-
-
-

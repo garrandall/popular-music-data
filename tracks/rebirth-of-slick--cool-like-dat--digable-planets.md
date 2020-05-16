@@ -1,8 +1,11 @@
 ---
+album: Reachin' (A New Refutation Of Time And Space)
 artists:
 - Digable Planets
+external_ids:
+  spotify: spotify:track:26q6YTrXt9l8qshIveiTX9
 features: []
-genres: []
+first_released_as_single: false
 key: rebirth-of-slick--cool-like-dat--digable-planets
 lyrics_url: https://www.azlyrics.com/lyrics/digableplanets/rebirthofslickcoollikedat.html
 name: Rebirth Of Slick (Cool Like Dat)
@@ -87,8 +90,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1993-05-29'
+release_year: 1993
+runtime: 261266
 ---
-
 We like the breeze flow straight out of our lids
 Them they got moved by these hard-rock Brooklyn kids
 Us floor rush when the DJ's booming classics
@@ -192,6 +196,3 @@ We jazz like dat
 We freak like dat
 We zoom like dat
 We out, we out...
-
-
-

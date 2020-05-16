@@ -1,8 +1,11 @@
 ---
+album: Nature Of The Beast
 artists:
 - April Wine
+external_ids:
+  spotify: spotify:track:5fsU7AtSTp0zySUf46hwbt
 features: []
-genres: []
+first_released_as_single: false
 key: just-between-you-and-me-april-wine
 lyrics_url: https://genius.com/April-wine-just-between-you-and-me-lyrics
 name: Just Between You And Me
@@ -71,6 +74,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1981-05-23'
+release_year: 1981
+runtime: 235560
 ---
 Time and time again I see
 A love that seemed strong was not meant to be

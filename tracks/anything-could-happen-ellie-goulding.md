@@ -1,8 +1,11 @@
 ---
+album: Halcyon
 artists:
 - Ellie Goulding
+external_ids:
+  spotify: spotify:track:7C7yqFTM0ncyJ04GIKrxdV
 features: []
-genres: []
+first_released_as_single: false
 key: anything-could-happen-ellie-goulding
 lyrics_url: https://genius.com/Ellie-goulding-anything-could-happen-lyrics
 name: Anything Could Happen
@@ -87,6 +90,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2013-03-09'
+release_year: 2012
+runtime: 286322
 ---
 Stripped to the waist we fall into the river
 Cover your eyes so you don't know the secret

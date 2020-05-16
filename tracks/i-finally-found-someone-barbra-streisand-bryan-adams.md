@@ -1,9 +1,12 @@
 ---
+album: THE MIRROR HAS TWO FACES - Music From The Motion Picture
 artists:
 - Barbra Streisand
 - Bryan Adams
+external_ids:
+  spotify: spotify:track:1y1Q1OPlYmXRml9WrXVABT
 features: []
-genres: []
+first_released_as_single: false
 key: i-finally-found-someone-barbra-streisand-bryan-adams
 lyrics_url: https://www.azlyrics.com/lyrics/barbrastreisand/ifinallyfoundsomeone.html
 name: I Finally Found Someone
@@ -88,9 +91,9 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1997-04-05'
+release_year: 1991
+runtime: 220826
 ---
-
-
 I finally found someone, that knocks me off my feet
 I finally found the one, that makes me feel complete
 
@@ -197,6 +200,3 @@ It's just got to be you
 
 My life has just begun
 I finally found someone...
-
-
-

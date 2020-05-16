@@ -1,9 +1,12 @@
 ---
+album: Pretty Girls Like Trap Music
 artists:
 - 2 Chainz
+external_ids:
+  spotify: spotify:track:2YTgFfLZS8IqnrBM6WGm9h
 features:
 - Travis Scott
-genres: []
+first_released_as_single: false
 key: 4-am-2-chainz-travis-scott
 lyrics_url: https://www.azlyrics.com/lyrics/2chainz/4am.html
 name: 4 AM
@@ -56,9 +59,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2017-09-09'
+release_year: 2017
+runtime: 255560
 ---
-
-
 Yeah, yeah, yeah
 (M-M-M-Murda)
 Yeah, yeah
@@ -155,6 +158,3 @@ Got the pitbull in the corner, she pregnant
 Got the crackhead in the corner, she pregnant
 Everybody in here pregnant, 'cept my partner and them
 But we gettin' this money though, I'm tellin' you that
-
-
-

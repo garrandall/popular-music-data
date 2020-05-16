@@ -1,9 +1,12 @@
 ---
+album: Candida
 artists:
 - Dawn
+external_ids:
+  spotify: spotify:track:7x5eu2rXvHr6GpJJgtXjiP
 features:
 - Tony Orlando
-genres: []
+first_released_as_single: false
 key: what-are-you-doing-sunday-dawn-tony-orlando
 lyrics_url: https://www.azlyrics.com/lyrics/tonyorlandodawn/whatareyoudoingsunday.html
 name: What Are You Doing Sunday
@@ -44,8 +47,9 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '1971-11-27'
+release_year: 1970
+runtime: 151173
 ---
-
 I hear some people get married in the park on a Sunday afternoon
 And all their friends bring pretty flowers while the band plays a happy tune
 Now, do you want me, do you need me
@@ -82,6 +86,3 @@ If it's a nice day now
 What are you doing Sunday, baby?
 Gee, I wanna marry you
 Oh, what do you say now
-
-
-

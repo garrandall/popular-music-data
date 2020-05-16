@@ -1,8 +1,11 @@
 ---
+album: Christopher Cross
 artists:
 - Christopher Cross
+external_ids:
+  spotify: spotify:track:6Hu6dzwlvoyg3zBUC8k4BK
 features: []
-genres: []
+first_released_as_single: false
 key: sailing-christopher-cross
 lyrics_url: https://www.azlyrics.com/lyrics/christophercross/sailing.html
 name: Sailing
@@ -91,8 +94,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1980-11-01'
+release_year: 1979
+runtime: 256146
 ---
-
 Well, it's not far down to paradise, at least it's not for me
 And if the wind is right you can sail away and find tranquility
 Oh, the canvas can do miracles, just you wait and see
@@ -124,6 +128,3 @@ Believe me
 Sailing takes me away to where I've always heard it could be
 Just a dream and the wind to carry me
 And soon I will be free
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: '!'
 artists:
 - Trippie Redd
+external_ids:
+  spotify: spotify:track:1usK5eLBzpQTMwDt8SR2dr
 features: []
-genres: []
+first_released_as_single: false
 key: snake-skin-trippie-redd
 lyrics_url: https://www.azlyrics.com/lyrics/trippieredd/snakeskin.html
 name: Snake Skin
@@ -11,8 +14,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '2019-08-24'
+release_year: 2019
+runtime: 186944
 ---
-
 Ayy
 Bitch so bad with the snakeskin, ayy
 Foreign do the dash, you know I'm racin'
@@ -62,6 +66,3 @@ Don't, die on me, say no to suicide
 Don't, die on me, say no to suicide
 Don't, die on me, say no to suicide
 Don't try on me (Die on me)
-
-
-

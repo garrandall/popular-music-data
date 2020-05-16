@@ -1,8 +1,11 @@
 ---
+album: Seven Separate Fools
 artists:
 - Three Dog Night
+external_ids:
+  spotify: spotify:track:0OnaNcIz9ErQwML7u06DRF
 features: []
-genres: []
+first_released_as_single: false
 key: pieces-of-april-three-dog-night
 lyrics_url: https://www.azlyrics.com/lyrics/threedognight/piecesofapril.html
 name: Pieces Of April
@@ -63,8 +66,9 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '1973-02-17'
+release_year: 1972
+runtime: 250866
 ---
-
 April gave us springtime and the promise of the flowers
 And the feeling that we both shared and the love that we called ours
 We knew no time for sadness, that's a road we each had crossed
@@ -84,6 +88,3 @@ I've got pieces of April, but it's a morning in May
 
 I've got pieces of April, I keep them in a memory bouquet
 I've got pieces of April, but it's a morning in May
-
-
-

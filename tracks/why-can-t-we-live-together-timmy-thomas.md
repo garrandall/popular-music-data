@@ -1,8 +1,11 @@
 ---
+album: Why Can't We Live Together
 artists:
 - Timmy Thomas
+external_ids:
+  spotify: spotify:track:722E6CPY8biq4sUnf40u6Y
 features: []
-genres: []
+first_released_as_single: false
 key: why-can-t-we-live-together-timmy-thomas
 lyrics_url: https://genius.com/Timmy-thomas-why-cant-we-live-together-lyrics
 name: Why Can't We Live Together
@@ -67,6 +70,8 @@ rankings:
   rank: 25
   ranking_list: Billboard Hot 100
   start_date: '1973-03-03'
+release_year: 1972
+runtime: 277973
 ---
 Tell me why? Tell me why? Tell me why?
 Mmm, why can't we live together?

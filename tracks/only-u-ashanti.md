@@ -1,8 +1,11 @@
 ---
+album: Concrete Rose
 artists:
 - Ashanti
+external_ids:
+  spotify: spotify:track:3sckKKIx96cjPXtiqPHCTB
 features: []
-genres: []
+first_released_as_single: false
 key: only-u-ashanti
 lyrics_url: https://www.azlyrics.com/lyrics/ashanti/onlyu.html
 name: Only U
@@ -83,8 +86,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2005-03-26'
+release_year: 2004
+runtime: 186306
 ---
-
 Oh I can't wait to get next to you
 Oh I just can't leave you alone
 Boy you got me doing things that I would never do
@@ -128,6 +132,3 @@ And only u can take me there (only you can take me there)
 
 Oh I can't wait to get next to you
 Oh I just can't leave you alone...
-
-
-

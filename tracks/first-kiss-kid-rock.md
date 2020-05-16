@@ -1,8 +1,11 @@
 ---
+album: First Kiss
 artists:
 - Kid Rock
+external_ids:
+  spotify: spotify:track:5rxZHy9BW9sgjOQ67Zod7n
 features: []
-genres: []
+first_released_as_single: true
 key: first-kiss-kid-rock
 lyrics_url: https://genius.com/Kid-rock-first-kiss-lyrics
 name: First Kiss
@@ -11,6 +14,8 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '2015-03-14'
+release_year: 2015
+runtime: 280346
 ---
 I remember waiting for the school bus
 Jenny Clayton was my first crush

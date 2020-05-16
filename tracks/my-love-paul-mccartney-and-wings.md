@@ -1,6 +1,6 @@
 ---
 artists:
-- Paul McCartney And Wings
+- Paul McCartney & Wings
 features: []
 genres: []
 key: my-love-paul-mccartney-and-wings

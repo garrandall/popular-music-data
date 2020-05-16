@@ -1,8 +1,11 @@
 ---
+album: Hard Or Smooth
 artists:
 - Wreckx-N-Effect
+external_ids:
+  spotify: spotify:track:0UxEiVVQuhje4Tnmw6Yijl
 features: []
-genres: []
+first_released_as_single: false
 key: knock-n-boots-wreckx-n-effect
 name: Knock-N-Boots
 rankings:
@@ -50,5 +53,7 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1993-05-01'
+release_year: 1992
+runtime: 291026
 ---
 

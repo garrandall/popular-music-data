@@ -1,8 +1,11 @@
 ---
+album: I Can See Clearly Now
 artists:
 - Johnny Nash
+external_ids:
+  spotify: spotify:track:4UvXfxg1ommzERwd6JVIHv
 features: []
-genres: []
+first_released_as_single: false
 key: stir-it-up-johnny-nash
 lyrics_url: https://genius.com/Johnny-nash-stir-it-up-lyrics
 name: Stir It Up
@@ -63,6 +66,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1973-05-12'
+release_year: 1972
+runtime: 182466
 ---
 Stir It Up
 Bob Marley

@@ -1,8 +1,11 @@
 ---
+album: Fearless Platinum Edition
 artists:
 - Taylor Swift
+external_ids:
+  spotify: spotify:track:0xvsgzM8AtBtRHZm5rav8A
 features: []
-genres: []
+first_released_as_single: false
 key: the-other-side-of-the-door-taylor-swift
 lyrics_url: https://www.azlyrics.com/lyrics/taylorswift/theothersideofthedoor.html
 name: The Other Side Of The Door
@@ -15,8 +18,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2009-11-21'
+release_year: 2008
+runtime: 237600
 ---
-
 In the heat of the fight I walked away
 Ignoring words that you were saying
 Trying to make me stay
@@ -70,6 +74,3 @@ You carry me from your car up the stairs
 And I broke down crying, was she worth this mess?
 After everything and that little black dress
 After everything I must confess, I need you
-
-
-

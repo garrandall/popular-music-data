@@ -1,8 +1,11 @@
 ---
+album: Piece By Piece (Deluxe Version)
 artists:
 - Kelly Clarkson
+external_ids:
+  spotify: spotify:track:5r39UzGM1SokpLQwRr13gz
 features: []
-genres: []
+first_released_as_single: true
 key: heartbeat-song-kelly-clarkson
 lyrics_url: https://www.azlyrics.com/lyrics/kellyclarkson/heartbeatsong.html
 name: Heartbeat Song
@@ -87,8 +90,9 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '2015-06-13'
+release_year: 2015
+runtime: 228000
 ---
-
 This is my heartbeat song and I'm gonna play it
 Been so long I forgot how to turn it up, up, up, up all night long
 Oh up, up all night long
@@ -148,6 +152,3 @@ This is my heartbeat song and I'm gonna play it
 Turned it on
 But I know you can take it up, up, up, up all night long
 Oh, up, up all night long
-
-
-

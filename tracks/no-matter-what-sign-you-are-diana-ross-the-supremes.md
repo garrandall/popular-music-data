@@ -1,9 +1,12 @@
 ---
+album: Let The Sunshine In
 artists:
 - Diana Ross
 - The Supremes
+external_ids:
+  spotify: spotify:track:76vHCf3Z485OCrg3I8yL18
 features: []
-genres: []
+first_released_as_single: false
 key: no-matter-what-sign-you-are-diana-ross-the-supremes
 lyrics_url: https://www.musixmatch.com/lyrics/Diana-Ross-feat-The-Supremes-24/No-Matter-What-Sign-You-Are
 name: No Matter What Sign You Are
@@ -32,6 +35,8 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '1969-07-05'
+release_year: 1969
+runtime: 172906
 ---
 No matter what sign you are
 The supremes

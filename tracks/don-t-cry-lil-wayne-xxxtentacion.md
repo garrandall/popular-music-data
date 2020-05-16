@@ -1,9 +1,12 @@
 ---
+album: Tha Carter V
 artists:
 - Lil Wayne
+external_ids:
+  spotify: spotify:track:1Un5u8iqiv4A069MMj36pw
 features:
 - XXXTENTACION
-genres: []
+first_released_as_single: false
 key: don-t-cry-lil-wayne-xxxtentacion
 lyrics_url: https://genius.com/Genius-russian-translations-lil-wayne-and-xxxtentacion-dont-cry-lyrics
 name: Don't Cry
@@ -20,6 +23,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2018-10-27'
+release_year: 2018
+runtime: 249450
 ---
 C5
 

@@ -1,8 +1,11 @@
 ---
+album: I'm Him
 artists:
 - Kevin Gates
+external_ids:
+  spotify: spotify:track:25AEevSO1lu4EKMIP5Sy5p
 features: []
-genres: []
+first_released_as_single: false
 key: by-my-lonely-kevin-gates
 lyrics_url: https://www.azlyrics.com/lyrics/kevingates/bymylonely.html
 name: By My Lonely
@@ -11,8 +14,9 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2019-10-12'
+release_year: 2019
+runtime: 130612
 ---
-
 Killers in my hood, they know me by my first name
 You know 'em by their work name, I know 'em by their birth name
 Type of weight make a man stand on principle
@@ -58,6 +62,3 @@ I had to make a couple bands by my lonely (Lonely)
 I had to make a couple bands by my lonely (By my lonely)
 I had to make a couple bands by my lonely (By my lonely)
 Fuck nigga, I don't wanna be your homie (For real)
-
-
-

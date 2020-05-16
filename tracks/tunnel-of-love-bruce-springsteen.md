@@ -1,8 +1,11 @@
 ---
+album: Tunnel Of Love
 artists:
 - Bruce Springsteen
+external_ids:
+  spotify: spotify:track:2rUHBIfbMBB92n1gSfSqwF
 features: []
-genres: []
+first_released_as_single: false
 key: tunnel-of-love-bruce-springsteen
 lyrics_url: https://www.azlyrics.com/lyrics/brucespringsteen/tunneloflove.html
 name: Tunnel Of Love
@@ -71,8 +74,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1988-03-19'
+release_year: 1987
+runtime: 309760
 ---
-
 Fat man sitting on a little stool 
 Takes the money from my hand while his eyes take a walk all over you 
 Hands me the ticket smiles and whispers good luck 
@@ -94,6 +98,3 @@ it ought to be easy ought to be simple enough
 Man meets woman and they fall in love 
 But the house is haunted and the ride gets rough 
 And you've got to learn to live with what you can't rise above if you want to ride on down in through this tunnel of love
-
-
-

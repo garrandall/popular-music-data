@@ -1,9 +1,12 @@
 ---
+album: FMA
 artists:
 - Grace
+external_ids:
+  spotify: spotify:track:2CpH1L4CUR47RARB3PgY1l
 features:
 - G-Eazy
-genres: []
+first_released_as_single: true
 key: you-don-t-own-me-grace-g-eazy
 lyrics_url: https://genius.com/G-eazy-and-grace-you-dont-own-me-lyrics
 name: You Don't Own Me
@@ -88,6 +91,8 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '2016-10-29'
+release_year: 2015
+runtime: 199314
 ---
 You don't own me
 You don't own me

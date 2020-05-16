@@ -1,9 +1,12 @@
 ---
+album: Diana & Marvin
 artists:
 - Diana Ross
 - Marvin Gaye
+external_ids:
+  spotify: spotify:track:09fFNAVcwcXJcXUP7mM4Xe
 features: []
-genres: []
+first_released_as_single: false
 key: you-re-a-special-part-of-me-diana-ross-marvin-gaye
 lyrics_url: https://genius.com/Diana-ross-and-marvin-gaye-youre-a-special-part-of-me-lyrics
 name: You're A Special Part Of Me
@@ -56,6 +59,8 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '1973-12-22'
+release_year: 1973
+runtime: 221053
 ---
 Both: That special tear I shed means you're a part of me
 Thoughts of you running through my head mean you're a part of me

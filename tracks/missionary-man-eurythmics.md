@@ -1,8 +1,11 @@
 ---
+album: Revenge
 artists:
 - Eurythmics
+external_ids:
+  spotify: spotify:track:1LgZRmGoSyiOOWxjTjMJy0
 features: []
-genres: []
+first_released_as_single: false
 key: missionary-man-eurythmics
 lyrics_url: https://genius.com/Eurythmics-missionary-man-lyrics
 name: Missionary Man
@@ -71,6 +74,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1986-11-08'
+release_year: 1986
+runtime: 267946
 ---
 Well I was born an original sinner
 I was born from original sin

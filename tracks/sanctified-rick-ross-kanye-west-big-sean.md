@@ -1,10 +1,13 @@
 ---
+album: Mastermind
 artists:
 - Rick Ross
+external_ids:
+  spotify: spotify:track:39RWgrQOBCLQH88wy0TBm9
 features:
 - Kanye West
 - Big Sean
-genres: []
+first_released_as_single: false
 key: sanctified-rick-ross-kanye-west-big-sean
 lyrics_url: https://www.azlyrics.com/lyrics/rickross/sanctified.html
 name: Sanctified
@@ -13,9 +16,9 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '2014-03-22'
+release_year: 2014
+runtime: 289626
 ---
-
-
 There's a field with angels movin' around me
 I just worship thee, for all he's done for me
 It's a new day, I have been born again
@@ -69,11 +72,10 @@ Balmain uniform, you know Donda designed the vest
 Double M, that be the Army, better yet, the Navy
 Baby seen me in that Wraith, wanna have my baby
 All I wanted was a hundred million dollars and a bad bitch
-Now I want two hundred and mÃ©nage in my palace
+Now I want two hundred and ménage in my palace
 Walkin' out the jeweler with no mothafuckin' balance
 Somewhere in Jamaica I'm still holdin' on my chalice
 Rims on my Ferrari, my bitch said that I was childish
 'Til I fuck a girl, that girl tweeted that I was stylish
 When we fucked again, she told me "That was just some foul shit"
 I walk into the room, you can even hear all the silence
-

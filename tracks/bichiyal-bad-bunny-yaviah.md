@@ -1,9 +1,12 @@
 ---
+album: YHLQMDLG
 artists:
 - Bad Bunny
 - Yaviah
+external_ids:
+  spotify: spotify:track:4j4w4CXm6BSr0s25wAWrrX
 features: []
-genres: []
+first_released_as_single: false
 key: bichiyal-bad-bunny-yaviah
 lyrics_url: https://genius.com/Bad-bunny-and-yaviah-bichiyal-lyrics
 name: Bichiyal
@@ -12,6 +15,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2020-03-14'
+release_year: 2020
+runtime: 196500
 ---
 Ah, ¡auh!
 

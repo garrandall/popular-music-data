@@ -1,8 +1,11 @@
 ---
+album: Talk A Good Game
 artists:
 - Kelly Rowland
+external_ids:
+  spotify: spotify:track:4KhanrenBxgyXYkFCArMyd
 features: []
-genres: []
+first_released_as_single: false
 key: kisses-down-low-kelly-rowland
 lyrics_url: https://www.musixmatch.com/lyrics/Kelly-Rowland/Kisses-Down-Low
 name: Kisses Down Low
@@ -59,6 +62,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2013-06-15'
+release_year: 2013
+runtime: 254866
 ---
 Mike will made It
 Right above no, yeah

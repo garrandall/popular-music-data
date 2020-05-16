@@ -1,8 +1,11 @@
 ---
+album: Magna Carta... Holy Grail
 artists:
 - JAY-Z
+external_ids:
+  spotify: spotify:track:6DlJZmRXDfHzGzAVo1yjfP
 features: []
-genres: []
+first_released_as_single: false
 key: picasso-baby-jay-z
 lyrics_url: https://www.azlyrics.com/lyrics/jayz/picassobaby.html
 name: Picasso Baby
@@ -11,9 +14,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2013-07-27'
+release_year: 2013
+runtime: 245786
 ---
-
-
 I just want a Picasso, in my casa
 No, my castle
 I'm a hassa, no I'm an asshole
@@ -94,4 +97,3 @@ For me to go
 For y'all to see
 I'm the modern day Pablo
 Picasso baby
-

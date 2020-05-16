@@ -1,8 +1,11 @@
 ---
+album: For Your Hully Gully Party/You Can't Sit Down
 artists:
 - The Dovells
+external_ids:
+  spotify: spotify:track:2GOXRG253GichrSuiZ5j0H
 features: []
-genres: []
+first_released_as_single: false
 key: hully-gully-baby-the-dovells
 lyrics_url: https://genius.com/The-dovells-hully-gully-baby-lyrics
 name: Hully Gully Baby
@@ -55,6 +58,8 @@ rankings:
   rank: 35
   ranking_list: Billboard Hot 100
   start_date: '1962-10-27'
+release_year: 1962
+runtime: 153466
 ---
 The Dovells
 Miscellaneous

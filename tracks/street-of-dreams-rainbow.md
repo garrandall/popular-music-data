@@ -1,8 +1,11 @@
 ---
+album: Bent Out Of Shape
 artists:
 - Rainbow
+external_ids:
+  spotify: spotify:track:2hDopFcMjFcRi5IRpTSSyr
 features: []
-genres: []
+first_released_as_single: false
 key: street-of-dreams-rainbow
 lyrics_url: https://genius.com/Rainbow-street-of-dreams-lyrics
 name: Street Of Dreams
@@ -47,6 +50,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1984-01-07'
+release_year: 1983
+runtime: 265506
 ---
 I heard the sound of voices in the night
 Spellbound there was someone calling

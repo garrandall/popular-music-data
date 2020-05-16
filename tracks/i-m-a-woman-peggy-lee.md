@@ -1,8 +1,11 @@
 ---
+album: I'm A Woman
 artists:
 - Peggy Lee
+external_ids:
+  spotify: spotify:track:2oBweKXM5LRYS3QQAeXTUK
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-a-woman-peggy-lee
 lyrics_url: https://genius.com/Peggy-lee-im-a-woman-lyrics
 name: I'm A Woman
@@ -43,6 +46,8 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1963-03-02'
+release_year: 1963
+runtime: 131120
 ---
 I can wash out 44 pairs of socks and have 'em hangin out on the line
 I can starch & iron 2 dozens shirts 'fore you can count from 1 to 9

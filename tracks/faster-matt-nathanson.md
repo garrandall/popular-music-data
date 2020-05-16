@@ -1,8 +1,11 @@
 ---
+album: Modern Love
 artists:
 - Matt Nathanson
+external_ids:
+  spotify: spotify:track:6plKFdrBnKF0y3CRuceTDh
 features: []
-genres: []
+first_released_as_single: false
 key: faster-matt-nathanson
 lyrics_url: https://www.azlyrics.com/lyrics/mattnathanson/faster.html
 name: Faster
@@ -55,8 +58,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2011-10-29'
+release_year: 2011
+runtime: 208280
 ---
-
 You're so delicious
 You're so soft
 Sweet on the tip of my tongue
@@ -108,6 +112,3 @@ Till I can't control myself
 Make me a liar
 One big disaster
 You make my heart beat faster
-
-
-

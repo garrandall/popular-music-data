@@ -1,8 +1,11 @@
 ---
+album: Press To Play
 artists:
 - Paul McCartney
+external_ids:
+  spotify: spotify:track:7oJLxq4WVOjtHDB4War58k
 features: []
-genres: []
+first_released_as_single: false
 key: stranglehold-paul-mccartney
 lyrics_url: https://www.azlyrics.com/lyrics/paulmccartney/stranglehold.html
 name: Stranglehold
@@ -31,8 +34,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1986-12-20'
+release_year: 1986
+runtime: 217600
 ---
-
 Can I Get You To Give Me A Minute Of Your Time?
 Can I Get You To Slip Me The Answer?
 Can I Get You To Slow Me A Little Of Your Mime?
@@ -63,6 +67,3 @@ And I Want To Know More About You I Want To Know More
 About You.
 I Can Wait, I Can Wait Back In The Bar I Can Wait, I Can Wait
 I Can Wait Back In The Car I'll Be Waiting For You.
-
-
-

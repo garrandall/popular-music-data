@@ -1,8 +1,11 @@
 ---
+album: Trey Day
 artists:
 - Trey Songz
+external_ids:
+  spotify: spotify:track:6UBqk9rh6e2Rj7LLzDjn6R
 features: []
-genres: []
+first_released_as_single: false
 key: last-time-trey-songz
 lyrics_url: https://genius.com/Trey-songz-last-time-lyrics
 name: Last Time
@@ -59,6 +62,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2008-07-12'
+release_year: 2007
+runtime: 261706
 ---
 Songbook baby
 I'd like to than Mr. Bryan-Michael Cox for helping me illustrate my feelings

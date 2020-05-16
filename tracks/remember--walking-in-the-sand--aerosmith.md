@@ -1,8 +1,11 @@
 ---
+album: Night In The Ruts
 artists:
 - Aerosmith
+external_ids:
+  spotify: spotify:track:4AFHB8laVETw8ruPZscDbe
 features: []
-genres: []
+first_released_as_single: false
 key: remember--walking-in-the-sand--aerosmith
 lyrics_url: https://www.azlyrics.com/lyrics/aerosmith/rememberwalkinginthesand.html
 name: Remember (Walking In The Sand)
@@ -31,8 +34,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1980-02-16'
+release_year: 1979
+runtime: 244400
 ---
-
 Seems like the other day 
 My baby went away 
 She went away, 'cross the sea 
@@ -84,6 +88,3 @@ That girl that said, she'd been true
 Whatever happened to 
 That night I gave it to you 
 What would you do with it now
-
-
-

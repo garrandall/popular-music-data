@@ -1,8 +1,11 @@
 ---
+album: Demi
 artists:
 - Demi Lovato
+external_ids:
+  spotify: spotify:track:1V6gIisPpYqgFeWbMLI0bA
 features: []
-genres: []
+first_released_as_single: false
 key: heart-attack-demi-lovato
 lyrics_url: https://www.azlyrics.com/lyrics/demilovato/heartattack.html
 name: Heart Attack
@@ -87,8 +90,9 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '2013-07-27'
+release_year: 2013
+runtime: 210840
 ---
-
 Puttin' my defenses up
 'Cause I don't wanna fall in love
 If I ever did that
@@ -168,6 +172,3 @@ I think I'd have a heart attack (heart attack)
 I think I'd have a heart attack (-tack)
 Oh, I think I'd have a heart attack
 I think I'd have a heart attack
-
-
-

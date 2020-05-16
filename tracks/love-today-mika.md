@@ -1,8 +1,11 @@
 ---
+album: Life in Cartoon Motion
 artists:
 - MIKA
+external_ids:
+  spotify: spotify:track:3PXmfF2hsjQwWi3GpAZ24f
 features: []
-genres: []
+first_released_as_single: true
 key: love-today-mika
 lyrics_url: https://genius.com/Mika-love-today-lyrics
 name: Love Today
@@ -11,6 +14,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2007-04-14'
+release_year: 2006
+runtime: 177186
 ---
 I’ve been crying for so long
 Fighting tears just to carry on

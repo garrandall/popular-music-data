@@ -1,8 +1,11 @@
 ---
+album: R.E.M. Live
 artists:
 - R.E.M.
+external_ids:
+  spotify: spotify:track:7w57O4o0xCTn9YpKuaPZDd
 features: []
-genres: []
+first_released_as_single: false
 key: the-great-beyond-r-e-m-
 lyrics_url: https://www.azlyrics.com/lyrics/rem/thegreatbeyond.html
 name: The Great Beyond
@@ -63,8 +66,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2000-03-25'
+release_year: 1999
+runtime: 307000
 ---
-
 I've watched the stars fall silent from your eyes
 All the sights that I have seen
 I can't believe that I believed I wished
@@ -130,6 +134,3 @@ I'm breaking through
 I'm bending spoons
 I'm keeping flowers in full bloom
 I'm looking for answers from the great beyond
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: 'Hang On Sloopy: The Best Of The McCoys'
 artists:
 - The McCoys
+external_ids:
+  spotify: spotify:track:0o4pKAWsrM8YKfkCC5Xjxy
 features: []
-genres: []
+first_released_as_single: false
 key: up-and-down-the-mccoys
 lyrics_url: https://genius.com/The-mccoys-up-and-down-lyrics
 name: Up And Down
@@ -31,6 +34,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1966-03-19'
+release_year: 1966
+runtime: 180333
 ---
 Up and down
 Runnin' all around

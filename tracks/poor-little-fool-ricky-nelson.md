@@ -1,8 +1,11 @@
 ---
+album: Ricky Nelson
 artists:
 - Ricky Nelson
+external_ids:
+  spotify: spotify:track:5ayybTSXNwcarDtxQKqvWX
 features: []
-genres: []
+first_released_as_single: false
 key: poor-little-fool-ricky-nelson
 lyrics_url: https://www.azlyrics.com/lyrics/rickynelson/poorlittlefool.html
 name: Poor Little Fool
@@ -51,8 +54,9 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '1958-10-13'
+release_year: 1958
+runtime: 153933
 ---
-
 I used to play around with hearts that hastened at my call
 But when I met that little girl I knew that I would fall
 
@@ -78,6 +82,3 @@ The day that someone else would play love's foolish game with me
 
 Poor little fool, oh yeah, I was a fool, uh huh..
 Poor little fool, oh yeah, I was a fool, uh huh..
-
-
-

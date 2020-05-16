@@ -1,8 +1,11 @@
 ---
+album: A Thousand Miles Left Behind
 artists:
 - Gloriana
+external_ids:
+  spotify: spotify:track:3d1Hbu6v1uJ2rTClxKYYRl
 features: []
-genres: []
+first_released_as_single: true
 key: -kissed-you--good-night-gloriana
 lyrics_url: https://www.azlyrics.com/lyrics/gloriana/kissedyougoodnight.html
 name: (Kissed You) Good Night
@@ -87,8 +90,9 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '2012-09-01'
+release_year: 2011
+runtime: 232903
 ---
-
 I dropped you off
 Just a little after midnight
 Sat in my car
@@ -144,6 +148,3 @@ It's a good night good night baby goodnight
 It's a good night good night baby goodnight
 It's a good night good night baby goodnight
 It's a good night good night baby goodnight
-
-
-

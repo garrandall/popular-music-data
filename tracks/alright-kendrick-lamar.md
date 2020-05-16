@@ -1,8 +1,11 @@
 ---
+album: To Pimp A Butterfly
 artists:
 - Kendrick Lamar
+external_ids:
+  spotify: spotify:track:3iVcZ5G6tvkXZkZKlMpIUs
 features: []
-genres: []
+first_released_as_single: false
 key: alright-kendrick-lamar
 lyrics_url: https://genius.com/Kendrick-lamar-alright-lyrics
 name: Alright
@@ -63,6 +66,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2015-10-10'
+release_year: 2015
+runtime: 219333
 ---
 Alls my life I has to fight, nigga
 Alls my life I

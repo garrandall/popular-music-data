@@ -1,8 +1,11 @@
 ---
+album: 'Legacy: The Greatest Hits Collection'
 artists:
 - Boyz II Men
+external_ids:
+  spotify: spotify:track:2BBbO8FKLzaYgmAA73kUE7
 features: []
-genres: []
+first_released_as_single: false
 key: i-remember-boyz-ii-men
 lyrics_url: https://genius.com/Boyz-ii-men-i-remember-lyrics
 name: I Remember
@@ -51,6 +54,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1996-02-10'
+release_year: 1995
+runtime: 281546
 ---
 I used to think that you were down
 I used to think that you were down

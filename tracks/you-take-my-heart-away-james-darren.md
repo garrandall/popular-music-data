@@ -1,8 +1,11 @@
 ---
+album: You Take My Heart Away
 artists:
 - James Darren
+external_ids:
+  spotify: spotify:track:49dHSs71gext9qKLOrnBqv
 features: []
-genres: []
+first_released_as_single: true
 key: you-take-my-heart-away-james-darren
 lyrics_url: https://genius.com/James-darren-you-take-my-heart-away-lyrics
 name: You Take My Heart Away
@@ -43,6 +46,8 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '1977-05-14'
+release_year: 1977
+runtime: 378409
 ---
 Love me
 Love me from your heart

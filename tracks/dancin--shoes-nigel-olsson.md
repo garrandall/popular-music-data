@@ -1,8 +1,11 @@
 ---
+album: The Very Best
 artists:
 - Nigel Olsson
+external_ids:
+  spotify: spotify:track:3DdqJR9hrVAaXQRwJkkJP6
 features: []
-genres: []
+first_released_as_single: false
 key: dancin--shoes-nigel-olsson
 lyrics_url: https://genius.com/Nigel-olsson-dancin-shoes-lyrics
 name: Dancin' Shoes
@@ -71,6 +74,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1979-03-31'
+release_year: 1978
+runtime: 245066
 ---
 Too many long conversations
 And no one is hearin a word

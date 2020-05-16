@@ -1,8 +1,11 @@
 ---
+album: "It\u2019s All In The Game: The Best Of Tommy Edwards"
 artists:
 - Tommy Edwards
+external_ids:
+  spotify: spotify:track:0C8O5V0V8NN3aD0ddedCNJ
 features: []
-genres: []
+first_released_as_single: false
 key: my-melancholy-baby-tommy-edwards
 lyrics_url: https://genius.com/Tommy-edwards-my-melancholy-baby-lyrics
 name: My Melancholy Baby
@@ -39,6 +42,8 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1959-07-06'
+release_year: 1959
+runtime: 161533
 ---
 Why do you grieve?
 Try and believe

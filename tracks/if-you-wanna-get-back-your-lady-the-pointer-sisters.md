@@ -1,8 +1,11 @@
 ---
+album: Energy
 artists:
 - The Pointer Sisters
+external_ids:
+  spotify: spotify:track:6BMKMhwqlBsc94zFGBT6uD
 features: []
-genres: []
+first_released_as_single: false
 key: if-you-wanna-get-back-your-lady-the-pointer-sisters
 lyrics_url: https://www.azlyrics.com/lyrics/pointersisters/ifyouwannagetbackyourlady.html
 name: If You Wanna Get Back Your Lady
@@ -27,8 +30,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1983-04-23'
+release_year: 1978
+runtime: 369760
 ---
-
 If you wanna get back your lady
 Your lady needs to know, oh yeah
 Oh, if you really love her
@@ -86,6 +90,3 @@ If you wanna get back your lady
 Yeah, yeah, yeah, oh baby
 If you wanna get back your lady
 Now what can I do?
-
-
-

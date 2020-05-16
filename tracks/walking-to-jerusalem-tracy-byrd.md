@@ -1,8 +1,11 @@
 ---
+album: Love Lessons
 artists:
 - Tracy Byrd
+external_ids:
+  spotify: spotify:track:05u3Si3CO5FBZhEdA76Xsd
 features: []
-genres: []
+first_released_as_single: false
 key: walking-to-jerusalem-tracy-byrd
 lyrics_url: https://www.azlyrics.com/lyrics/tracybyrd/walkingtojerusalem.html
 name: Walking To Jerusalem
@@ -19,8 +22,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1995-08-26'
+release_year: 1995
+runtime: 206666
 ---
-
 I dressed up in my best
 My Ropers and my vest
 And waited by the door with these roses
@@ -71,6 +75,3 @@ I'll be stickin' out my thumb
 And walkin' to Jerusalem
 And walkin' to Jerusalem
 And walkin' to Jerusalem
-
-
-

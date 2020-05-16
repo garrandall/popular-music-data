@@ -1,8 +1,11 @@
 ---
+album: Seven Separate Fools
 artists:
 - Three Dog Night
+external_ids:
+  spotify: spotify:track:6LQsrJmTt1JKPUbivcZln9
 features: []
-genres: []
+first_released_as_single: false
 key: black---white-three-dog-night
 lyrics_url: https://genius.com/Three-dog-night-black-and-white-lyrics
 name: Black & White
@@ -51,6 +54,8 @@ rankings:
   rank: 33
   ranking_list: Billboard Hot 100
   start_date: '1972-10-21'
+release_year: 1972
+runtime: 231093
 ---
 The ink is black, the page is white
 Together we learn to read and write

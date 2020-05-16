@@ -1,8 +1,11 @@
 ---
+album: Forever
 artists:
 - Mike Pinera
+external_ids:
+  spotify: spotify:track:2pzNY4u1tKbBk4qw5lKwT2
 features: []
-genres: []
+first_released_as_single: false
 key: goodnight-my-love-mike-pinera
 lyrics_url: https://www.musixmatch.com/lyrics/Mike-Pinera/Goodnight-My-Love
 name: Goodnight My Love
@@ -39,6 +42,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1980-02-23'
+release_year: 1980
+runtime: 250733
 ---
 Good night, my love, good night
 When will I see you again?

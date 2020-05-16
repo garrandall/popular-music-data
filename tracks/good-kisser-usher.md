@@ -1,8 +1,11 @@
 ---
+album: Good Kisser
 artists:
 - Usher
+external_ids:
+  spotify: spotify:track:3CX3WMBg6lzWk72bYL29vP
 features: []
-genres: []
+first_released_as_single: true
 key: good-kisser-usher
 lyrics_url: https://www.musixmatch.com/lyrics/Usher/Good-Kisser
 name: Good Kisser
@@ -83,6 +86,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2014-09-27'
+release_year: 2014
+runtime: 249626
 ---
 Make every minute worth it, baby
 This for Usher, baby (watch this)

@@ -1,8 +1,11 @@
 ---
+album: A Mi Shabba
 artists:
 - Shabba Ranks
+external_ids:
+  spotify: spotify:track:2KznT5GjThKWgDGM7yppb4
 features: []
-genres: []
+first_released_as_single: false
 key: let-s-get-it-on-shabba-ranks
 name: Let's Get It On
 rankings:
@@ -42,5 +45,7 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1995-05-06'
+release_year: 1991
+runtime: 315533
 ---
 

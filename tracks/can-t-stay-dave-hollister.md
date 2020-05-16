@@ -1,8 +1,11 @@
 ---
+album: Ghetto Hymns
 artists:
 - Dave Hollister
+external_ids:
+  spotify: spotify:track:2aJpRgyHYENSWWCHl1stQz
 features: []
-genres: []
+first_released_as_single: false
 key: can-t-stay-dave-hollister
 lyrics_url: https://genius.com/Dave-hollister-cant-stay-lyrics
 name: Can't Stay
@@ -23,6 +26,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2000-04-15'
+release_year: 1999
+runtime: 377400
 ---
 Girl I gotta go I can't stay
 You said things would change

@@ -1,9 +1,12 @@
 ---
+album: F__K New York
 artists:
 - Rodney O
 - Joe Cooley
+external_ids:
+  spotify: spotify:track:4v2cz9dgb0RP7guR0nPkBv
 features: []
-genres: []
+first_released_as_single: false
 key: u-don-t-hear-me-tho--rodney-o-joe-cooley
 lyrics_url: https://genius.com/Rodney-o-and-joe-cooley-u-dont-hear-me-tho-lyrics
 name: U Don't Hear Me Tho'
@@ -28,6 +31,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1993-07-31'
+release_year: 1993
+runtime: 219200
 ---
 But you don't hear me though
 

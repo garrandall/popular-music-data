@@ -1,8 +1,11 @@
 ---
+album: It's Only Love
 artists:
 - Tommy James And The Shondells
+external_ids:
+  spotify: spotify:track:1GO2PhCj8MHKPU1TPUBgOq
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-only-love-tommy-james-and-the-shondells
 lyrics_url: https://genius.com/Tommy-james-and-the-shondells-its-only-love-lyrics
 name: It's Only Love
@@ -43,6 +46,8 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '1966-12-31'
+release_year: 1966
+runtime: 128293
 ---
 You can't laugh
 You can't cry

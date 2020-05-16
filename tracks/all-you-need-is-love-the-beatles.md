@@ -1,8 +1,11 @@
 ---
+album: Magical Mystery Tour
 artists:
 - The Beatles
+external_ids:
+  spotify: spotify:track:68BTFws92cRztMS1oQ7Ewj
 features: []
-genres: []
+first_released_as_single: false
 key: all-you-need-is-love-the-beatles
 lyrics_url: https://genius.com/The-beatles-all-you-need-is-love-lyrics
 name: All You Need Is Love
@@ -51,6 +54,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1967-09-30'
+release_year: 1967
+runtime: 230386
 ---
 Love, love, love
 Love, love, love

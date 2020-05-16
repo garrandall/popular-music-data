@@ -1,8 +1,11 @@
 ---
+album: Everything Is Beautiful
 artists:
 - Ray Stevens
+external_ids:
+  spotify: spotify:track:3rrrMhc76FDnS4N7wu2KfH
 features: []
-genres: []
+first_released_as_single: false
 key: everything-is-beautiful-ray-stevens
 lyrics_url: https://genius.com/Ray-stevens-everything-is-beautiful-lyrics
 name: Everything Is Beautiful
@@ -67,6 +70,8 @@ rankings:
   rank: 29
   ranking_list: Billboard Hot 100
   start_date: '1970-07-11'
+release_year: 1970
+runtime: 212773
 ---
 Jesus loves the little children
 All the little children of the world

@@ -1,8 +1,11 @@
 ---
+album: Milk And Honey
 artists:
 - John Lennon
+external_ids:
+  spotify: spotify:track:31QuJZfFiMk1uOawow8ejS
 features: []
-genres: []
+first_released_as_single: false
 key: nobody-told-me-john-lennon
 lyrics_url: https://www.azlyrics.com/lyrics/johnlennon/nobodytoldme.html
 name: Nobody Told Me
@@ -63,8 +66,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1984-04-21'
+release_year: 1984
+runtime: 214280
 ---
-
 Everybody's talking and no one says a word
 Everybody's making love and no one really cares
 There's Nazis in the bathroom just below the stairs
@@ -97,6 +101,3 @@ Nobody told me there'd be days like these
 Nobody told me there'd be days like these
 Nobody told me there'd be days like these
 Strange days indeed -- most peculiar, mama
-
-
-

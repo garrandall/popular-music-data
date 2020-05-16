@@ -1,8 +1,11 @@
 ---
+album: Flashpoint
 artists:
 - The Rolling Stones
+external_ids:
+  spotify: spotify:track:7tlbHVveasgXlT0HmHXm5Y
 features: []
-genres: []
+first_released_as_single: false
 key: highwire-the-rolling-stones
 lyrics_url: https://www.azlyrics.com/lyrics/rollingstones/highwire.html
 name: Highwire
@@ -35,8 +38,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1991-04-20'
+release_year: 1991
+runtime: 285573
 ---
-
 We sell 'em missiles, We sell 'em tanks
 We give 'em credit, You can call up the bank
 It's just a business, You can pay us in crude
@@ -96,6 +100,3 @@ With hot guns and cold, cold, cold, cold, cold lies
 We walk the highwire
 We walk the highwire
 With hot guns and cold, cold, cold lies.
-
-
-

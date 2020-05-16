@@ -1,8 +1,11 @@
 ---
+album: The Lost LP
 artists:
 - Len Barry
+external_ids:
+  spotify: spotify:track:5a8eQZcut98ho3QDqhDUKi
 features: []
-genres: []
+first_released_as_single: false
 key: lip-sync--to-the-tongue-twisters--len-barry
 name: Lip Sync (To The Tongue Twisters)
 rankings:
@@ -22,5 +25,7 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1965-06-19'
+release_year: 1965
+runtime: 159493
 ---
 

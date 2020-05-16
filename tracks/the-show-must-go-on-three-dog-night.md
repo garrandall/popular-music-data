@@ -1,8 +1,11 @@
 ---
+album: Hard Labor
 artists:
 - Three Dog Night
+external_ids:
+  spotify: spotify:track:7uqAZrOCpGBNIsz8rVogqC
 features: []
-genres: []
+first_released_as_single: false
 key: the-show-must-go-on-three-dog-night
 lyrics_url: https://genius.com/Three-dog-night-the-show-must-go-on-lyrics
 name: The Show Must Go On
@@ -83,6 +86,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1974-07-20'
+release_year: 1974
+runtime: 267253
 ---
 (Baby), although I chose this lonely life
 It seems it's strangling me now

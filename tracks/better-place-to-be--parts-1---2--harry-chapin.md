@@ -1,8 +1,11 @@
 ---
+album: Sniper & Other Love Songs
 artists:
 - Harry Chapin
+external_ids:
+  spotify: spotify:track:5pyvIO6UdTIrBf249uMwXA
 features: []
-genres: []
+first_released_as_single: false
 key: better-place-to-be--parts-1---2--harry-chapin
 lyrics_url: https://genius.com/Harry-chapin-a-better-place-to-be-lyrics
 name: Better Place To Be (Parts 1 & 2)
@@ -19,6 +22,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1976-07-10'
+release_year: 1972
+runtime: 516293
 ---
 It was an early morning bar room
 And the place just opened up

@@ -1,9 +1,12 @@
 ---
+album: Love Always
 artists:
 - K-Ci
 - JoJo
+external_ids:
+  spotify: spotify:track:6dubSkmTrXTLqm24ldMX5s
 features: []
-genres: []
+first_released_as_single: false
 key: you-bring-me-up-k-ci-jojo
 lyrics_url: https://www.azlyrics.com/lyrics/kcijojo/youbringmeup.html
 name: You Bring Me Up
@@ -88,8 +91,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1997-10-25'
+release_year: 1997
+runtime: 263693
 ---
-
 Isn't it funny
 The things you said and done to me
 But now Lady I wanna be free
@@ -124,6 +128,3 @@ It's a feeling I can't explain
 I won't let you wreck my brain
 You said you never hurt me
 But then you going to desert me baby
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Jibbs feat. Jibbs
 artists:
 - Jibbs
+external_ids:
+  spotify: spotify:track:0tYPj0NYa7vjlJaqlRSnJb
 features: []
-genres: []
+first_released_as_single: false
 key: chain-hang-low-jibbs
 lyrics_url: https://www.azlyrics.com/lyrics/jibbs/chainhanglow.html
 name: Chain Hang Low
@@ -87,9 +90,9 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '2006-12-30'
+release_year: 2006
+runtime: 207586
 ---
-
-
 Beasta!
 
 Do your chain hang low
@@ -210,6 +213,3 @@ Is it platinum, Is it gold
 Could you throw it over ya shoulda
 If ya hot, it make ya cold
 Do your chain hang low
-
-
-

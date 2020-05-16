@@ -1,8 +1,11 @@
 ---
+album: Have a Good Time
 artists:
 - Al Green
+external_ids:
+  spotify: spotify:track:29vsrexDzpFMeYO4wcmTpT
 features: []
-genres: []
+first_released_as_single: false
 key: keep-me-cryin--al-green
 lyrics_url: https://www.azlyrics.com/lyrics/algreen/keepmecryin.html
 name: Keep Me Cryin'
@@ -63,8 +66,9 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1977-01-22'
+release_year: 1976
+runtime: 187146
 ---
-
 You keep me crying all the time
 I have to say that you
 Keep me crying all the time
@@ -101,6 +105,3 @@ Friends knocking in my door
 They keep me crying
 Somebody calling on the phone and
 They keep me crying...
-
-
-

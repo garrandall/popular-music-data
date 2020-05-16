@@ -1,8 +1,11 @@
 ---
+album: Nyasia
 artists:
 - Nyasia
+external_ids:
+  spotify: spotify:track:44e6togOkEOuPLpaop4FN5
 features: []
-genres: []
+first_released_as_single: false
 key: who-s-got-your-love-nyasia
 lyrics_url: https://genius.com/Nyasia-whos-got-your-love-lyrics
 name: Who's Got Your Love
@@ -31,6 +34,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1992-08-15'
+release_year: 1992
+runtime: 294800
 ---
 I've seen that look before
 And I can't ignore, it's lovelessness

@@ -1,8 +1,11 @@
 ---
+album: Singles Collection 1953-62
 artists:
 - Jerry Vale
+external_ids:
+  spotify: spotify:track:79RiTM9fIZ2Snf4bH1xFQQ
 features: []
-genres: []
+first_released_as_single: false
 key: go-chase-a-moonbeam-jerry-vale
 lyrics_url: https://www.musixmatch.com/lyrics/Jerry-Vale/Go-Chase-a-Moonbeam
 name: Go Chase A Moonbeam
@@ -35,6 +38,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1958-11-24'
+release_year: 1958
+runtime: 150893
 ---
 I was feeling so alone today
 Watching lovers as they passed my way

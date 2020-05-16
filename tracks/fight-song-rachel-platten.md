@@ -1,8 +1,11 @@
 ---
+album: Wildfire
 artists:
 - Rachel Platten
+external_ids:
+  spotify: spotify:track:37f4ITSlgPX81ad2EvmVQr
 features: []
-genres: []
+first_released_as_single: false
 key: fight-song-rachel-platten
 lyrics_url: https://www.azlyrics.com/lyrics/rachelplatten/fightsong.html
 name: Fight Song
@@ -131,8 +134,9 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '2015-11-28'
+release_year: 2015
+runtime: 204013
 ---
-
 Like a small boat
 On the ocean
 Sending big waves
@@ -201,6 +205,3 @@ And I don't really care if nobody else believes
 'Cause I've still got a lot of fight left in me
 
 No I've still got a lot of fight left in me
-
-
-

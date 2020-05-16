@@ -1,8 +1,11 @@
 ---
+album: Forgotten Freshness Vol.1 & 2
 artists:
 - Insane Clown Posse
+external_ids:
+  spotify: spotify:track:4nMQuIRsbTV1VLLeUNyZ9c
 features: []
-genres: []
+first_released_as_single: false
 key: santa-s-a-fat-bitch-insane-clown-posse
 lyrics_url: https://www.azlyrics.com/lyrics/insaneclownposse/santasafatbitch.html
 name: Santa's A Fat Bitch
@@ -27,8 +30,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1998-01-24'
+release_year: 1997
+runtime: 263533
 ---
-
 Sleigh bells jingle-ling rin jing jingle-ling
 Horses, horses, horses, horses.
 Sleigh bells jingle-ling ring jing jingle-ling
@@ -134,6 +138,3 @@ I'm a bust your ass in the too-hoo-hoo-hoo-hooth
 A bright red hat you can see for a mile,
 A bag full of goodies and a great big grin,
 Here comes Santa Claus again."
-
-
-

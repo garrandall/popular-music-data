@@ -1,8 +1,11 @@
 ---
+album: Secret Messages
 artists:
 - Electric Light Orchestra
+external_ids:
+  spotify: spotify:track:35ETYhF17N7YRynHCyFZWw
 features: []
-genres: []
+first_released_as_single: false
 key: four-little-diamonds-electric-light-orchestra
 lyrics_url: https://www.azlyrics.com/lyrics/electriclightorchestra/fourlittlediamonds.html
 name: Four Little Diamonds
@@ -15,8 +18,9 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1983-10-08'
+release_year: 1972
+runtime: 246333
 ---
-
 I used to think she was the greatest thing
 I really cared, gave her a diamond ring
 She said she'd rather die than ever leave me
@@ -55,6 +59,3 @@ But it never even crossed my mind she was a cheater
 I gotta find where she hides
 'Cause if the law don't get her then I will -
 Four little diamonds
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Bedroom Gems from Lady Love
 artists:
 - Barbara Mason
+external_ids:
+  spotify: spotify:track:0QOpxIDdvi6uCxcJJo1xml
 features: []
-genres: []
+first_released_as_single: false
 key: bed-and-board-barbara-mason
 lyrics_url: https://genius.com/Barbara-mason-bed-and-board-lyrics
 name: Bed And Board
@@ -31,6 +34,8 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1972-07-15'
+release_year: 1972
+runtime: 493866
 ---
 You know, sometimes a man will
 Cause such heartache (yes, he will)

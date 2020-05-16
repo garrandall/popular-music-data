@@ -1,8 +1,11 @@
 ---
+album: Changes
 artists:
 - Justin Bieber
+external_ids:
+  spotify: spotify:track:40qyPyljksBEqlNw5sW37T
 features: []
-genres: []
+first_released_as_single: false
 key: habitual-justin-bieber
 lyrics_url: https://www.azlyrics.com/lyrics/justinbieber/habitual.html
 name: Habitual
@@ -11,8 +14,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2020-02-29'
+release_year: 2020
+runtime: 168200
 ---
-
 Flowers open when they feel the sunlight
 Moon rise, tide change right before our eyes
 Aggressive but softly, you place your lips on my lips
@@ -57,6 +61,3 @@ Habitual
 Can't nobody keep me like you (Oh, keep me like you)
 Call it unconventional (Call it unconventional)
 Our love is habitual yeah (Our love is habitual)
-
-
-

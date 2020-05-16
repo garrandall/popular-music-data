@@ -1,8 +1,11 @@
 ---
+album: Philadelphia Freedom
 artists:
 - MFSB
+external_ids:
+  spotify: spotify:track:0mA8UHOhtsCXiol13MB3dV
 features: []
-genres: []
+first_released_as_single: false
 key: the-zip-mfsb
 name: The Zip
 rankings:
@@ -30,5 +33,7 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1976-01-03'
+release_year: 1975
+runtime: 232320
 ---
 

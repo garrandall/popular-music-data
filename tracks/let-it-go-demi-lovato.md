@@ -1,8 +1,11 @@
 ---
+album: Gyeowool Wangguk (Original Motion Picture Soundtrack)
 artists:
 - Demi Lovato
+external_ids:
+  spotify: spotify:track:1A2PVHd6kWaMlaJVkMfXmz
 features: []
-genres: []
+first_released_as_single: false
 key: let-it-go-demi-lovato
 lyrics_url: https://genius.com/Demi-lovato-let-it-go-lyrics
 name: Let It Go
@@ -87,6 +90,8 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '2014-04-26'
+release_year: 2013
+runtime: 224386
 ---
 Let it go, let it go
 Can’t hold it back anymore

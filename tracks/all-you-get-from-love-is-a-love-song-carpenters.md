@@ -1,8 +1,11 @@
 ---
+album: Passage
 artists:
 - Carpenters
+external_ids:
+  spotify: spotify:track:0iscir8JzbagvY3p3uQyqf
 features: []
-genres: []
+first_released_as_single: false
 key: all-you-get-from-love-is-a-love-song-carpenters
 lyrics_url: https://www.azlyrics.com/lyrics/carpenters/allyougetfromloveisalovesong.html
 name: All You Get From Love Is A Love Song
@@ -47,8 +50,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1977-07-23'
+release_year: 1977
+runtime: 226533
 ---
-
 Like sailin' on a sailin' ship to nowhere
 Love took over my heart like an ocean breeze
 As seagulls fly I knew that I was losin'
@@ -68,6 +72,3 @@ And now the tears in my eyes are ever blinding
 The future that lies before me I cannot see
 Although tomorrow I know the sun is rising
 Lighting up the world for everyone, but not for me
-
-
-

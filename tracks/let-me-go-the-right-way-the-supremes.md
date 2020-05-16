@@ -1,8 +1,11 @@
 ---
+album: Meet The Supremes
 artists:
 - The Supremes
+external_ids:
+  spotify: spotify:track:3P7JEzCDqTDM5PJX383OvS
 features: []
-genres: []
+first_released_as_single: false
 key: let-me-go-the-right-way-the-supremes
 lyrics_url: https://www.azlyrics.com/lyrics/supremes/letmegotherightway.html
 name: Let Me Go The Right Way
@@ -31,8 +34,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1963-02-16'
+release_year: 1962
+runtime: 151120
 ---
-
 I'm your's
 Don't you know that I done fell for you
 I wanna know, baby
@@ -71,6 +75,3 @@ All my love
 Don't lead me astray
 Let me go the right way
 Don't you lead me astray
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Caprice! The Story Behind Gerry Granahan's Caprice Label 1960 - 1963
 artists:
 - James Ray
+external_ids:
+  spotify: spotify:track:1pT8Q13wqYFvGzvbpIMsqc
 features: []
-genres: []
+first_released_as_single: false
 key: itty-bitty-pieces-james-ray
 lyrics_url: https://genius.com/James-ray-itty-bitty-pieces-lyrics
 name: Itty Bitty Pieces
@@ -47,6 +50,8 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '1962-06-09'
+release_year: 1962
+runtime: 144213
 ---
 You're breaking me up
 And I don't mean maybe

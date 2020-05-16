@@ -1,8 +1,11 @@
 ---
+album: Tangled Up (Deluxe
 artists:
 - Thomas Rhett
+external_ids:
+  spotify: spotify:track:1nIyZKYmUsbEowiizbyr2Q
 features: []
-genres: []
+first_released_as_single: false
 key: star-of-the-show-thomas-rhett
 lyrics_url: https://www.azlyrics.com/lyrics/thomasrhett/staroftheshow.html
 name: Star Of The Show
@@ -83,8 +86,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2017-03-25'
+release_year: 2016
+runtime: 182600
 ---
-
 Walking down the street, hand in mine
 It don't keep them other guys
 And their wandering eyes from looking at you
@@ -135,6 +139,3 @@ You are, you are, you are, you are
 The star of the show..
 
 Don't you know, you're the star of the show, baby
-
-
-

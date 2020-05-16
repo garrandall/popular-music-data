@@ -1,8 +1,11 @@
 ---
+album: Against The Wind
 artists:
 - Bob Seger
+external_ids:
+  spotify: spotify:track:6o8gxO2r5EAJFSzYFryqrV
 features: []
-genres: []
+first_released_as_single: false
 key: the-horizontal-bop-bob-seger
 lyrics_url: https://www.azlyrics.com/lyrics/bobseger/thehorizontalbop.html
 name: The Horizontal Bop
@@ -55,8 +58,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1981-01-24'
+release_year: 1980
+runtime: 243360
 ---
-
 Wally's getting' anxious thinkin' 'bout tonight
 Bruce is all spiffy lookin' wicked lookin' right
 Eddie's getting' spruced
@@ -106,6 +110,3 @@ Everybody wants to do the Horizontal Bop
 Tell 'em we'll be dancin'
 Dancin' till we drop
 Everybody wants to do the Horizontal Bop
-
-
-

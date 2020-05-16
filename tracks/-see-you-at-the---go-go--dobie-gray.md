@@ -1,8 +1,11 @@
 ---
+album: Dobie Gray Sings For 'In' Crowders that go 'Go Go'
 artists:
 - Dobie Gray
+external_ids:
+  spotify: spotify:track:2OI2bl9NmX8Gl0sCjEznRz
 features: []
-genres: []
+first_released_as_single: false
 key: -see-you-at-the---go-go--dobie-gray
 name: (See You At The) "Go-Go"
 rankings:
@@ -34,5 +37,7 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1965-05-15'
+release_year: 1965
+runtime: 178480
 ---
 

@@ -1,8 +1,11 @@
 ---
+album: Off The Beaten Path
 artists:
 - Justin Moore
+external_ids:
+  spotify: spotify:track:33LSgUa20mKNgeut1XwP2E
 features: []
-genres: []
+first_released_as_single: false
 key: lettin--the-night-roll-justin-moore
 lyrics_url: https://genius.com/Justin-moore-lettin-the-night-roll-lyrics
 name: Lettin' The Night Roll
@@ -87,6 +90,8 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '2014-07-19'
+release_year: 2013
+runtime: 203120
 ---
 That water tower's got the sun going down behind it
 If there’s a good time in this town, girl, we're gonna find it

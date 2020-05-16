@@ -1,9 +1,12 @@
 ---
+album: The Emancipation of Mimi
 artists:
 - Mariah Carey
+external_ids:
+  spotify: spotify:track:52hTb2UmmPYUShMAIenLQo
 features:
 - Snoop Dogg
-genres: []
+first_released_as_single: false
 key: say-somethin--mariah-carey-snoop-dogg
 lyrics_url: https://www.azlyrics.com/lyrics/mariahcarey/saysomethin.html
 name: Say Somethin'
@@ -28,8 +31,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2006-05-27'
+release_year: 2005
+runtime: 224440
 ---
-
 I'm over here
 Looking at you
 You're over there
@@ -124,6 +128,3 @@ Hey, hey, hey
 Hey, hey
 If it's worth your while
 Do something good to me
-
-
-

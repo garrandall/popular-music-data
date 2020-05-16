@@ -1,10 +1,13 @@
 ---
+album: FRIENDS KEEP SECRETS
 artists:
 - benny blanco
 - Juice WRLD
+external_ids:
+  spotify: spotify:track:5YAP8zpqj1eIX88makBjDe
 features:
 - Brendon Urie
-genres: []
+first_released_as_single: true
 key: roses-benny-blanco-juice-wrld-brendon-urie
 lyrics_url: https://www.azlyrics.com/lyrics/bennyblanco/roses.html
 name: Roses
@@ -33,9 +36,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2019-02-16'
+release_year: 2018
+runtime: 223542
 ---
-
-
 Ayy, ayy, uh
 
 Roses are red, violets are blue (Check)
@@ -106,6 +109,3 @@ No, no, oh, oh
 At the end of the day, what are you gon' do?
 At the end of the day I don't wanna be with you
 Oh, at the end of the day I'ma still keep it true, true, true
-
-
-

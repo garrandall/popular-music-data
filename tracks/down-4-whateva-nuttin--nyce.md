@@ -1,8 +1,11 @@
 ---
+album: Down 4 Whateva
 artists:
 - Nuttin' Nyce
+external_ids:
+  spotify: spotify:track:03WsrEB8eyCeUfvRxGP5JX
 features: []
-genres: []
+first_released_as_single: false
 key: down-4-whateva-nuttin--nyce
 lyrics_url: https://genius.com/Nuttin-nyce-down-4-whateva-lyrics
 name: Down 4 Whateva
@@ -23,6 +26,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1995-02-04'
+release_year: 1993
+runtime: 287866
 ---
 Straight west coast flava
 Um, 1994

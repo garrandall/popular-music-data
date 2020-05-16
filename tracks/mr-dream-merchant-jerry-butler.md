@@ -1,8 +1,11 @@
 ---
+album: The Very Best Of Jerry Butler
 artists:
 - Jerry Butler
+external_ids:
+  spotify: spotify:track:29o0iNkdp5DHtzq4hNPc48
 features: []
-genres: []
+first_released_as_single: false
 key: mr-dream-merchant-jerry-butler
 lyrics_url: https://genius.com/Jerry-butler-mr-dream-merchant-lyrics
 name: Mr Dream Merchant
@@ -35,6 +38,8 @@ rankings:
   rank: 38
   ranking_list: Billboard Hot 100
   start_date: '1967-12-02'
+release_year: 1967
+runtime: 153066
 ---
 Hey-ay Mr. Dream Merchant
 Everything depends on you

@@ -1,8 +1,11 @@
 ---
+album: Coming Down Your Way
 artists:
 - Three Dog Night
+external_ids:
+  spotify: spotify:track:3hLI9e8EQzv2qjrocoSw79
 features: []
-genres: []
+first_released_as_single: false
 key: til-the-world-ends-three-dog-night
 lyrics_url: https://www.azlyrics.com/lyrics/threedognight/tiltheworldends.html
 name: Til The World Ends
@@ -43,8 +46,9 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '1975-08-30'
+release_year: 1975
+runtime: 211960
 ---
-
 Seasons change and summer's gone
 Another year of love I've known
 Fades like a dream
@@ -79,6 +83,3 @@ It will be that way
 'Til the world ends
 
 'Til the world ends
-
-
-

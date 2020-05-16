@@ -1,8 +1,11 @@
 ---
+album: The Golden Age Of Wireless
 artists:
 - Thomas Dolby
+external_ids:
+  spotify: spotify:track:6y9VZNRczyKeQihebHSMJ8
 features: []
-genres: []
+first_released_as_single: false
 key: she-blinded-me-with-science-thomas-dolby
 lyrics_url: https://www.azlyrics.com/lyrics/thomasdolby/sheblindedmewithscience.html
 name: She Blinded Me With Science
@@ -95,8 +98,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1983-07-16'
+release_year: 1982
+runtime: 222386
 ---
-
 Ha!
 
 It's poetry in motion
@@ -160,6 +164,3 @@ Huh, she blinded me with science
 (She blinded me with - with science!)
 She blinded me with
 (Huh, huh, huh, huh, huh, huh)
-
-
-

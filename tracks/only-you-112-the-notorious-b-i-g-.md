@@ -1,9 +1,12 @@
 ---
+album: '112'
 artists:
 - '112'
+external_ids:
+  spotify: spotify:track:06zRQw9U7G9R8CKqPw58jc
 features:
 - The Notorious B.I.G.
-genres: []
+first_released_as_single: true
 key: only-you-112-the-notorious-b-i-g-
 lyrics_url: https://genius.com/112-only-you-lyrics
 name: Only You
@@ -120,6 +123,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1996-12-07'
+release_year: 1996
+runtime: 285453
 ---
 Oh, I need to know where we stand
 Do we share this special thing called love?

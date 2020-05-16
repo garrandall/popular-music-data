@@ -1,8 +1,11 @@
 ---
+album: The Black Parade
 artists:
 - My Chemical Romance
+external_ids:
+  spotify: spotify:track:2d6m2F4I7wCuAKtSsdhh83
 features: []
-genres: []
+first_released_as_single: false
 key: famous-last-words-my-chemical-romance
 lyrics_url: https://genius.com/My-chemical-romance-famous-last-words-lyrics
 name: Famous Last Words
@@ -35,6 +38,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2007-04-07'
+release_year: 2006
+runtime: 299226
 ---
 Now, I know that I can't make you stay, but where's your heart?
 But where's your heart? But where's your-

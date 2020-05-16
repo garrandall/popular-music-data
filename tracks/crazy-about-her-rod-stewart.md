@@ -1,8 +1,11 @@
 ---
+album: Out of Order
 artists:
 - Rod Stewart
+external_ids:
+  spotify: spotify:track:60tCUGmI1Yhz5gLjXhplXx
 features: []
-genres: []
+first_released_as_single: false
 key: crazy-about-her-rod-stewart
 lyrics_url: https://www.azlyrics.com/lyrics/rodstewart/crazyabouther.html
 name: Crazy About Her
@@ -75,8 +78,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1989-09-02'
+release_year: 1988
+runtime: 299093
 ---
-
 I walk the streets at night
 until the morning light comes shining through
 Can't get a good night's sleep
@@ -137,6 +141,3 @@ Somebody gonna get burned
 But, oh the problem is I think my loves at risk
 She's the boss's girl
 Oh no
-
-
-

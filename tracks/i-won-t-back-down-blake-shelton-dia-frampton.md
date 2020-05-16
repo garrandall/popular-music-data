@@ -1,9 +1,12 @@
 ---
+album: I Won't Back Down (The Voice Performance)
 artists:
 - Blake Shelton
 - Dia Frampton
+external_ids:
+  spotify: spotify:track:6XscPNlnKw0mnVYE7kvWRj
 features: []
-genres: []
+first_released_as_single: true
 key: i-won-t-back-down-blake-shelton-dia-frampton
 lyrics_url: https://genius.com/Blake-shelton-i-wont-back-down-lyrics
 name: I Won't Back Down
@@ -12,6 +15,8 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '2011-07-16'
+release_year: 2011
+runtime: 199493
 ---
 Well, I won't back down
 No, I won't back down

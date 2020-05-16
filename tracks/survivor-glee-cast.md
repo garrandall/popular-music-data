@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music, The Complete Season Three'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:6m2qba8pt0oa13nBLA2Nt2
 features: []
-genres: []
+first_released_as_single: false
 key: survivor-glee-cast
 lyrics_url: https://www.azlyrics.com/lyrics/gleecast/survivoriwillsurvive.html
 name: Survivor
@@ -11,8 +14,9 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '2011-12-24'
+release_year: 2011
+runtime: 208573
 ---
-
 At first I was afraid, I was petrified
 Kept thinkin' I could never live without you by my side
 But then I spent so many nights thinking how you did me wrong
@@ -110,6 +114,3 @@ I will survive (What?)
 Keep on survivin' (What?)
 
 I will survive
-
-
-

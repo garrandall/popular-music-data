@@ -1,8 +1,11 @@
 ---
+album: Burn
 artists:
 - Jo Dee Messina
+external_ids:
+  spotify: spotify:track:1ALL0q76OjQeBvkLmD3Tbo
 features: []
-genres: []
+first_released_as_single: false
 key: burn-jo-dee-messina
 lyrics_url: https://www.azlyrics.com/lyrics/jodeemessina/burn.html
 name: Burn
@@ -87,8 +90,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2001-04-14'
+release_year: 2000
+runtime: 281426
 ---
-
 Do you want to be a poet and write... 
 Do you want to be an actor up in lights 
 Do you wanna be a solider -- and fight for love 
@@ -102,6 +106,3 @@ Bring to life your fantasies
 I want something in return 
 I want you to burn 
 Burn for me baby, like a candle in my night
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Weekend in London
 artists:
 - The Dave Clark Five
+external_ids:
+  spotify: spotify:track:1mwmFFf3A6tEdfkiIgVt5z
 features: []
-genres: []
+first_released_as_single: false
 key: reelin--and-rockin--the-dave-clark-five
 lyrics_url: https://genius.com/The-dave-clark-five-reelin-and-rockin-lyrics
 name: Reelin' And Rockin'
@@ -43,6 +46,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1965-06-12'
+release_year: 1965
+runtime: 167373
 ---
 Well sometimes I will
 Then again, I think I won't

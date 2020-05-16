@@ -1,8 +1,11 @@
 ---
+album: Let It Go
 artists:
 - Tim McGraw
+external_ids:
+  spotify: spotify:track:35bEmBJLZeCeNERYl6t4FU
 features: []
-genres: []
+first_released_as_single: false
 key: suspicions-tim-mcgraw
 lyrics_url: https://www.azlyrics.com/lyrics/timmcgraw/suspicions.html
 name: Suspicions
@@ -27,8 +30,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2008-02-23'
+release_year: 2007
+runtime: 316973
 ---
-
 I'm so glad that I met you baby
 I'm so proud when we walk in the room
 I know it's crazy to worry like I do
@@ -72,6 +76,3 @@ Cause I love her
 
 I love her and she loves me
 Ain't nobody gonna take my girl from me
-
-
-

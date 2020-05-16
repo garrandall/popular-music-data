@@ -1,8 +1,11 @@
 ---
+album: Very Dionne
 artists:
 - Dionne Warwick
+external_ids:
+  spotify: spotify:track:4B1qHEdXOVcGNMCJUv4VyJ
 features: []
-genres: []
+first_released_as_single: false
 key: the-green-grass-starts-to-grow-dionne-warwick
 lyrics_url: https://www.azlyrics.com/lyrics/dionnewarwick/thegreengrassstartstogrow.html
 name: The Green Grass Starts To Grow
@@ -43,8 +46,9 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '1971-01-30'
+release_year: 1970
+runtime: 183906
 ---
-
 The world outside your house is cold and windy
 The summer breeze becomes a winter storm
 And then you smile at me
@@ -77,6 +81,3 @@ Melts the snow
 Slowly the green grass starts to grow
 Softly the sunshine of your smile
 Melts the snow
-
-
-

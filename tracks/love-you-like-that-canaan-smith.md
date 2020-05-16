@@ -1,8 +1,11 @@
 ---
+album: Bronco
 artists:
 - Canaan Smith
+external_ids:
+  spotify: spotify:track:2QVzUws1l5mzZ4v46tGHrC
 features: []
-genres: []
+first_released_as_single: false
 key: love-you-like-that-canaan-smith
 lyrics_url: https://www.azlyrics.com/lyrics/canaansmith/loveyoulikethat.html
 name: Love You Like That
@@ -87,8 +90,9 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '2015-08-22'
+release_year: 2015
+runtime: 203053
 ---
-
 Hey, girl, I'm just a small town run around
 I get my kicks out on the outskirts of town
 I could never do it like a pretty city boy
@@ -126,6 +130,3 @@ Baby, I wanna love, wanna love, wanna love you like that
 Yeah
 I could never do it like a pretty city boy
 I'm a fishin' in the dark nitty gritty boy
-
-
-

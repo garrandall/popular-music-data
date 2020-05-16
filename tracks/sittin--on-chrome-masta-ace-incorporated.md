@@ -1,8 +1,11 @@
 ---
+album: Sittin' On Chrome
 artists:
 - Masta Ace Incorporated
+external_ids:
+  spotify: spotify:track:6g6iuGWVZVvNDylillKqrL
 features: []
-genres: []
+first_released_as_single: false
 key: sittin--on-chrome-masta-ace-incorporated
 lyrics_url: https://www.musixmatch.com/lyrics/Masta-Ace-Incorporated/Sittin-on-Chrome
 name: Sittin' On Chrome
@@ -39,6 +42,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1995-11-04'
+release_year: 1995
+runtime: 247973
 ---
 Sittin on chrome (8X)
 

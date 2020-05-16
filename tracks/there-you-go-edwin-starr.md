@@ -1,8 +1,11 @@
 ---
+album: The Hits Of Edwin Starr
 artists:
 - Edwin Starr
+external_ids:
+  spotify: spotify:track:6iFozpuuokILvPe02T0DFV
 features: []
-genres: []
+first_released_as_single: false
 key: there-you-go-edwin-starr
 lyrics_url: https://genius.com/Edwin-starr-there-you-go-lyrics
 name: There You Go
@@ -31,6 +34,8 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1973-08-04'
+release_year: 1973
+runtime: 184733
 ---
 There you go
 There you go

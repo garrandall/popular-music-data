@@ -1,9 +1,12 @@
 ---
+album: Please Me
 artists:
 - Cardi B
 - Bruno Mars
+external_ids:
+  spotify: spotify:track:33ibnqcJkCfVSq32QacbMV
 features: []
-genres: []
+first_released_as_single: true
 key: please-me-cardi-b-bruno-mars
 lyrics_url: https://www.azlyrics.com/lyrics/cardi-b/pleaseme.html
 name: Please Me
@@ -88,9 +91,9 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '2019-07-13'
+release_year: 2019
+runtime: 200889
 ---
-
-
 Uh, uh, yeah, come on
 
 
@@ -192,6 +195,3 @@ You got what I want and need, baby
 Please
 (Let me hear you say)
 Please (Woo)
-
-
-

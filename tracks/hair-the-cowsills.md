@@ -1,8 +1,11 @@
 ---
+album: The Cowsills In Concert
 artists:
 - The Cowsills
+external_ids:
+  spotify: spotify:track:0vJPoBfIgwAwLwH4KCPLNF
 features: []
-genres: []
+first_released_as_single: false
 key: hair-the-cowsills
 lyrics_url: https://genius.com/The-cowsills-hair-lyrics
 name: Hair
@@ -67,6 +70,8 @@ rankings:
   rank: 23
   ranking_list: Billboard Hot 100
   start_date: '1969-06-21'
+release_year: 1969
+runtime: 212013
 ---
 She asks him why
 Why I'm a hairy guy

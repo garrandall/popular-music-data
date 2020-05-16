@@ -1,10 +1,13 @@
 ---
+album: Nothing but the Beat 2.0
 artists:
 - David Guetta
+external_ids:
+  spotify: spotify:track:3dvynJHFt37j6R8CIIEZh5
 features:
 - Chris Brown
 - Lil Wayne
-genres: []
+first_released_as_single: false
 key: i-can-only-imagine-david-guetta-chris-brown-lil-wayne
 lyrics_url: https://www.azlyrics.com/lyrics/davidguetta/icanonlyimagine.html
 name: I Can Only Imagine
@@ -65,9 +68,9 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2012-11-24'
+release_year: 2011
+runtime: 209533
 ---
-
-
 Where you been? Where you been all my life?
 Baby, it's a sin, the way you look in the light
 It's obvious that I want something from you
@@ -125,6 +128,3 @@ So let's turn off the lights and give me that spark.
 
 
 What it'd be like
-
-
-

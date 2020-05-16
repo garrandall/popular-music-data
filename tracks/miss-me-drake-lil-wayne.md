@@ -1,9 +1,12 @@
 ---
+album: Thank Me Later
 artists:
 - Drake
+external_ids:
+  spotify: spotify:track:1U4mweNwisxNj23ffuC9gO
 features:
 - Lil Wayne
-genres: []
+first_released_as_single: false
 key: miss-me-drake-lil-wayne
 lyrics_url: https://genius.com/Drake-miss-me-lyrics
 name: Miss Me
@@ -88,6 +91,8 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '2010-10-30'
+release_year: 2010
+runtime: 305520
 ---
 I said, "Tell me what's really goin' on"
 Drizzy back up in this thing, I'm ready, what's hannenin'?

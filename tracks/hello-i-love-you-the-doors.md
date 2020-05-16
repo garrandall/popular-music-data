@@ -1,8 +1,11 @@
 ---
+album: Waiting for the Sun
 artists:
 - The Doors
+external_ids:
+  spotify: spotify:track:3bWGaqVeYKMlLss40mPgNn
 features: []
-genres: []
+first_released_as_single: false
 key: hello-i-love-you-the-doors
 lyrics_url: https://genius.com/The-doors-hello-i-love-you-lyrics
 name: Hello I Love You
@@ -55,6 +58,8 @@ rankings:
   rank: 23
   ranking_list: Billboard Hot 100
   start_date: '1968-09-21'
+release_year: 1968
+runtime: 133200
 ---
 Hello, I love you
 Won't you tell me your name?

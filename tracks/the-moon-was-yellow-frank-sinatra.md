@@ -1,8 +1,11 @@
 ---
+album: Moonlight Sinatra
 artists:
 - Frank Sinatra
+external_ids:
+  spotify: spotify:track:1uq6hjdQvd3jHbM2ABPUyK
 features: []
-genres: []
+first_released_as_single: false
 key: the-moon-was-yellow-frank-sinatra
 lyrics_url: https://www.azlyrics.com/lyrics/franksinatra/themoonwasyellowandthenightwasyoung.html
 name: The Moon Was Yellow
@@ -11,8 +14,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1962-03-17'
+release_year: 1962
+runtime: 190040
 ---
-
 The moon was yellow, and the night was young.
 A smile brought us together, and I was wond'ring whether
 We'd meet again someday.
@@ -23,6 +27,3 @@ Here we are! Is our romance to continue?
 Will it be my luck to win you.
 May I look that far? Ah! My love is
 Ah, my love is yellow and the night is young.
-
-
-

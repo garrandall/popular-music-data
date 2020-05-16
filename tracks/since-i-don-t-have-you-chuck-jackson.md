@@ -1,8 +1,11 @@
 ---
+album: Super Hits
 artists:
 - Chuck Jackson
+external_ids:
+  spotify: spotify:track:0t22pTUA8MULIomcESJG1S
 features: []
-genres: []
+first_released_as_single: true
 key: since-i-don-t-have-you-chuck-jackson
 lyrics_url: https://genius.com/Chuck-jackson-since-i-dont-have-you-lyrics
 name: Since I Don't Have You
@@ -39,6 +42,8 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '1965-01-02'
+release_year: 1964
+runtime: 159106
 ---
 I don't have plans and schemes
 And I don't have hopes and dreams

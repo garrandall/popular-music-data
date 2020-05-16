@@ -1,8 +1,11 @@
 ---
+album: Allies
 artists:
 - Crosby, Stills & Nash
+external_ids:
+  spotify: spotify:track:1KHehOVBdMmOxKi5Zcv0Ju
 features: []
-genres: []
+first_released_as_single: false
 key: war-games-crosby-stills-nash
 lyrics_url: https://www.musixmatch.com/lyrics/Crosby-Stills-Nash/War-Games
 name: War Games
@@ -43,6 +46,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1983-08-20'
+release_year: 1983
+runtime: 141026
 ---
 Can you stop your instincts?
 Can you man your thought control, sir?

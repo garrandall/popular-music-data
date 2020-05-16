@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music, Volume 7'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:0Y1JthFAUbcqmNxEMAklOe
 features: []
-genres: []
+first_released_as_single: false
 key: last-friday-night-glee-cast
 lyrics_url: https://www.azlyrics.com/lyrics/gleecast/lastfridaynight.html
 name: Last Friday Night
@@ -11,8 +14,9 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '2011-11-19'
+release_year: 2011
+runtime: 228066
 ---
-
 There's a stranger in my bed,
 There's a pounding my head
 Glitter all over the room
@@ -128,6 +132,3 @@ Oh-whoa-oh
 
 This Friday night
 Do it all again
-
-
-

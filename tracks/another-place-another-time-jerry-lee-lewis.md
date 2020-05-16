@@ -1,8 +1,11 @@
 ---
+album: Another Place Another Time
 artists:
 - Jerry Lee Lewis
+external_ids:
+  spotify: spotify:track:4ji8rXBodYFYDTyenDNjuy
 features: []
-genres: []
+first_released_as_single: false
 key: another-place-another-time-jerry-lee-lewis
 lyrics_url: https://genius.com/Jerry-lee-lewis-another-place-another-time-lyrics
 name: Another Place Another Time
@@ -15,6 +18,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1968-04-06'
+release_year: 1968
+runtime: 147413
 ---
 One by one they're turning out the lights
 I've been feedin' that ol' jukebox just to hold you tight

@@ -1,8 +1,11 @@
 ---
+album: Curtain Call
 artists:
 - Eminem
+external_ids:
+  spotify: spotify:track:42YNobZ4HN3tRVEA47wLT6
 features: []
-genres: []
+first_released_as_single: false
 key: when-i-m-gone-eminem
 lyrics_url: https://genius.com/Eminem-when-im-gone-lyrics
 name: When I'm Gone
@@ -75,6 +78,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2006-03-18'
+release_year: 2005
+runtime: 281133
 ---
 Yeah, it's my life
 In my own words, I guess

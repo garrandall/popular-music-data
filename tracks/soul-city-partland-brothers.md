@@ -1,8 +1,11 @@
 ---
+album: Electric Honey
 artists:
 - Partland Brothers
+external_ids:
+  spotify: spotify:track:4Shs08HBaH4AfUMomP27zT
 features: []
-genres: []
+first_released_as_single: false
 key: soul-city-partland-brothers
 lyrics_url: https://genius.com/The-partland-brothers-soul-city-lyrics
 name: Soul City
@@ -59,6 +62,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1987-07-25'
+release_year: 1986
+runtime: 232200
 ---
 Boy, you're looking great
 Yeah, you got what it takes alright

@@ -1,8 +1,11 @@
 ---
+album: Harry Styles
 artists:
 - Harry Styles
+external_ids:
+  spotify: spotify:track:13sXuI5RjMHm7dz7O3spYs
 features: []
-genres: []
+first_released_as_single: true
 key: sweet-creature-harry-styles
 lyrics_url: https://www.azlyrics.com/lyrics/harrystyles/sweetcreature.html
 name: Sweet Creature
@@ -11,8 +14,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2017-05-20'
+release_year: 2017
+runtime: 224866
 ---
-
 Sweet creature
 Had another talk about where it's going wrong
 But we're still young
@@ -56,6 +60,3 @@ Wherever I go, you bring me home
 Sweet creature, sweet creature
 When I run out of road, you bring me home
 You bring me home
-
-
-

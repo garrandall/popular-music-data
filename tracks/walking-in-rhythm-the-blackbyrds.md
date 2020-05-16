@@ -1,8 +1,11 @@
 ---
+album: The Blackbyrds
 artists:
 - The Blackbyrds
+external_ids:
+  spotify: spotify:track:2U2QZzgqA8qGWFMV6v39s7
 features: []
-genres: []
+first_released_as_single: false
 key: walking-in-rhythm-the-blackbyrds
 lyrics_url: https://www.musixmatch.com/lyrics/The-Blackbyrds/Walking-in-Rhythm
 name: Walking In Rhythm
@@ -75,6 +78,8 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '1975-05-31'
+release_year: 1975
+runtime: 251866
 ---
 Walking in rhythm
 Moving in sound

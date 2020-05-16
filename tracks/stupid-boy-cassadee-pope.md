@@ -1,8 +1,11 @@
 ---
+album: The Complete Season 3 Collection (The Voice Performance)
 artists:
 - Cassadee Pope
+external_ids:
+  spotify: spotify:track:5H5APugL36GmvXjZiRwYWU
 features: []
-genres: []
+first_released_as_single: false
 key: stupid-boy-cassadee-pope
 lyrics_url: https://genius.com/Cassadee-pope-stupid-boy-the-voice-performance-lyrics
 name: Stupid Boy
@@ -11,6 +14,8 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '2012-12-29'
+release_year: 2012
+runtime: 219040
 ---
 She was precious like a flower
 She grew wild, wild but innocent

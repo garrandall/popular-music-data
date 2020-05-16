@@ -1,8 +1,11 @@
 ---
+album: Ben E. King Anthology
 artists:
 - Ben E. King
+external_ids:
+  spotify: spotify:track:5AqStt41Fo1T7pSnSKdNbW
 features: []
-genres: []
+first_released_as_single: false
 key: tears-tears-tears-ben-e--king
 lyrics_url: https://genius.com/Ben-e-king-tears-tears-tears-lyrics
 name: Tears Tears Tears
@@ -15,6 +18,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1967-04-29'
+release_year: 1967
+runtime: 201626
 ---
 Tears, Tears, Tears
 Ben E. King

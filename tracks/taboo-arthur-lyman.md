@@ -1,8 +1,11 @@
 ---
+album: Taboo
 artists:
 - Arthur Lyman
+external_ids:
+  spotify: spotify:track:00YRVIVqaL7XXJo5LQjIZd
 features: []
-genres: []
+first_released_as_single: false
 key: taboo-arthur-lyman
 name: Taboo
 rankings:
@@ -30,5 +33,7 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1959-07-20'
+release_year: 1958
+runtime: 282493
 ---
 

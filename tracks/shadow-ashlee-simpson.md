@@ -1,8 +1,11 @@
 ---
+album: Autobiography
 artists:
 - Ashlee Simpson
+external_ids:
+  spotify: spotify:track:1xus3kv8tqlzeOxVZzDd0f
 features: []
-genres: []
+first_released_as_single: false
 key: shadow-ashlee-simpson
 lyrics_url: https://www.azlyrics.com/lyrics/ashleesimpson/shadow.html
 name: Shadow
@@ -35,8 +38,9 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '2004-11-13'
+release_year: 2004
+runtime: 237426
 ---
-
 I was six years old
 When my parents went away
 I was stuck inside a broken life
@@ -95,6 +99,3 @@ Don't feel sorry, don't feel sorry for me
 
 Living in, living in, living in the shadow
 Living in, living in, living in a new day
-
-
-

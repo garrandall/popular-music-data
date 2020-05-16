@@ -1,9 +1,12 @@
 ---
+album: If You Can Believe Your Eyes & Ears
 artists:
 - The Mamas
 - The Papas
+external_ids:
+  spotify: spotify:track:4s6LhHAV5SEsOV0lC2tjvJ
 features: []
-genres: []
+first_released_as_single: false
 key: california-dreamin--the-mamas-the-papas
 lyrics_url: https://genius.com/The-mamas-and-the-papas-california-dreamin-lyrics
 name: California Dreamin'
@@ -76,6 +79,8 @@ rankings:
   rank: 26
   ranking_list: Billboard Hot 100
   start_date: '1966-04-30'
+release_year: 1966
+runtime: 162373
 ---
 All the leaves are brown
 (All the leaves are brown)

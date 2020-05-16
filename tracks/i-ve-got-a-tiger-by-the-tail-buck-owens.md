@@ -1,8 +1,11 @@
 ---
+album: All-Time Greatest Hits, Vol. 1
 artists:
 - Buck Owens
+external_ids:
+  spotify: spotify:track:464fUpkgSEPH1onUGoW8Kt
 features: []
-genres: []
+first_released_as_single: false
 key: i-ve-got-a-tiger-by-the-tail-buck-owens
 lyrics_url: https://genius.com/Buck-owens-ive-got-a-tiger-by-the-tail-lyrics
 name: I've Got A Tiger By The Tail
@@ -43,6 +46,8 @@ rankings:
   rank: 52
   ranking_list: Billboard Hot 100
   start_date: '1965-03-20'
+release_year: 1965
+runtime: 134400
 ---
 I've got a tiger by the tail it's plain to see
 I won't be much when you get through with me

@@ -1,8 +1,11 @@
 ---
+album: I'm Breathless
 artists:
 - Madonna
+external_ids:
+  spotify: spotify:track:5npMYgysWSKOIVXj2szeLn
 features: []
-genres: []
+first_released_as_single: false
 key: vogue-madonna
 lyrics_url: https://genius.com/Madonna-vogue-lyrics
 name: Vogue
@@ -103,6 +106,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1990-09-22'
+release_year: 1990
+runtime: 289560
 ---
 Strike a pose
 Strike a pose

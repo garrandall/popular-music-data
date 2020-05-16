@@ -1,8 +1,11 @@
 ---
+album: Let's Get It
 artists:
 - Ca$h Out
+external_ids:
+  spotify: spotify:track:5VUSw4P2amr0FFPKfrrjhk
 features: []
-genres: []
+first_released_as_single: true
 key: she-twerkin-ca-h-out
 lyrics_url: https://www.musixmatch.com/lyrics/Ca-h-Out/She-Twerkin
 name: She Twerkin
@@ -19,6 +22,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2014-08-02'
+release_year: 2014
+runtime: 172466
 ---
 See you grabbin' on my tooly
 She told me smack her on the booty

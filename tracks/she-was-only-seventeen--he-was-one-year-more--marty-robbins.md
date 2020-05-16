@@ -1,8 +1,11 @@
 ---
+album: The Essential Marty Robbins 1951-1982
 artists:
 - Marty Robbins
+external_ids:
+  spotify: spotify:track:1zQvlTtOe3oZWVwXkexscS
 features: []
-genres: []
+first_released_as_single: false
 key: she-was-only-seventeen--he-was-one-year-more--marty-robbins
 lyrics_url: https://www.azlyrics.com/lyrics/martyrobbins/shewasonlyseventeenhewasoneyearmore.html
 name: She Was Only Seventeen (He Was One Year More)
@@ -59,8 +62,9 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1958-10-27'
+release_year: 1958
+runtime: 140866
 ---
-
 She was only seventeen and he was one year more
 She loved him with all her heart and he the girl adored
 But all their friends believed they're too young to know the score
@@ -83,6 +87,3 @@ Do we have the right to question love that seems so strong
 As long as God has no objections there can be no wrong
 Let us be the first to wish them all the very best
 Let us hope their love is strong enough to meet the test.
-
-
-

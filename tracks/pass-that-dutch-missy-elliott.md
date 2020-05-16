@@ -1,8 +1,11 @@
 ---
+album: This Is Not a Test!
 artists:
 - Missy Elliott
+external_ids:
+  spotify: spotify:track:1MaI6NwdrqnE3mRzOYTpoo
 features: []
-genres: []
+first_released_as_single: false
 key: pass-that-dutch-missy-elliott
 lyrics_url: https://genius.com/Missy-elliott-pass-that-dutch-lyrics
 name: Pass That Dutch
@@ -67,6 +70,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2004-01-24'
+release_year: 2003
+runtime: 217200
 ---
 Listen up, everyone!
 We have been just informed that there's an unknown virus that's attacking all clubs

@@ -1,8 +1,11 @@
 ---
+album: Kala
 artists:
 - M.I.A.
+external_ids:
+  spotify: spotify:track:1kusepF3AacIEtUTYrw4GV
 features: []
-genres: []
+first_released_as_single: false
 key: paper-planes-m-i-a-
 lyrics_url: https://genius.com/Mia-paper-planes-lyrics
 name: Paper Planes
@@ -87,6 +90,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '2008-12-13'
+release_year: 2007
+runtime: 203760
 ---
 I fly like paper, get high like planes
 If you catch me at the border I got visas in my name

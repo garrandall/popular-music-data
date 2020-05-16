@@ -1,8 +1,11 @@
 ---
+album: Flesh & Blood
 artists:
 - Poison
+external_ids:
+  spotify: spotify:track:5gpJr7OLgZWVYAyKWj0GuH
 features: []
-genres: []
+first_released_as_single: false
 key: ride-the-wind-poison
 lyrics_url: https://genius.com/Poison-ride-the-wind-lyrics
 name: Ride The Wind
@@ -55,6 +58,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1991-04-20'
+release_year: 1990
+runtime: 231400
 ---
 Hearts of fire
 Streets of stone
@@ -106,4 +111,3 @@ Of all the truths and lies
 And stories of riders in the sky
 They say only the bravest try
 Where eagles and angels dare to fly
-

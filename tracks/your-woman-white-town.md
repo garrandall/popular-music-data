@@ -1,8 +1,11 @@
 ---
+album: Women In Technology
 artists:
 - White Town
+external_ids:
+  spotify: spotify:track:4ACxa9buEUnOdYEoPcnMpi
 features: []
-genres: []
+first_released_as_single: false
 key: your-woman-white-town
 lyrics_url: https://genius.com/White-town-your-woman-lyrics
 name: Your Woman
@@ -87,6 +90,8 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '1997-08-09'
+release_year: 1997
+runtime: 259893
 ---
 Just tell me what you've got to say to me
 I've been waiting for so long to hear the truth

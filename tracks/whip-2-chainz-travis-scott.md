@@ -1,9 +1,12 @@
 ---
+album: Rap Or Go To The League
 artists:
 - 2 Chainz
+external_ids:
+  spotify: spotify:track:6Z4rmc0uujCpl8yXe3yjgI
 features:
 - Travis Scott
-genres: []
+first_released_as_single: false
 key: whip-2-chainz-travis-scott
 lyrics_url: https://www.musixmatch.com/lyrics/2-Chainz-feat-Travis-Scott/Whip
 name: Whip
@@ -12,6 +15,8 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '2019-03-16'
+release_year: 2019
+runtime: 226600
 ---
 Yeah
 Do it no hands, yeah, do it, no handstand

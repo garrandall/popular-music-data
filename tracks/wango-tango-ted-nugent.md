@@ -1,8 +1,11 @@
 ---
+album: Scream Dream
 artists:
 - Ted Nugent
+external_ids:
+  spotify: spotify:track:0jolDjW30tf7JKkZaZVfVK
 features: []
-genres: []
+first_released_as_single: false
 key: wango-tango-ted-nugent
 lyrics_url: https://www.azlyrics.com/lyrics/tednugent/wangotango.html
 name: Wango Tango
@@ -23,8 +26,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1980-08-16'
+release_year: 1975
+runtime: 290173
 ---
-
 All right! It's zee Wango, zee Tango
 1-2-3-4
 Come on boys
@@ -129,6 +133,3 @@ Wango Wango
 Tango Tango
 Wango Wango Wango Wango
 Tango Tango Tango Tango, yeah...
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Four Tops Second Album
 artists:
 - Four Tops
+external_ids:
+  spotify: spotify:track:7d1ustAIlXG7ht5Q4IOv7s
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-the-same-old-song-four-tops
 lyrics_url: https://genius.com/The-four-tops-its-the-same-old-song-lyrics
 name: It's The Same Old Song
@@ -43,6 +46,8 @@ rankings:
   rank: 38
   ranking_list: Billboard Hot 100
   start_date: '1965-09-25'
+release_year: 1965
+runtime: 166400
 ---
 You're sweet (you're sweet) as a honeybee
 But like a honeybee stings

@@ -1,8 +1,11 @@
 ---
+album: Yesterday, Today, Tomorrow - The Greatest Hits Of Kenny Loggins
 artists:
 - Kenny Loggins
+external_ids:
+  spotify: spotify:track:34x6hEJgGAOQvmlMql5Ige
 features: []
-genres: []
+first_released_as_single: false
 key: danger-zone-kenny-loggins
 lyrics_url: https://genius.com/Kenny-loggins-danger-zone-lyrics
 name: Danger Zone
@@ -91,6 +94,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1986-09-27'
+release_year: 1986
+runtime: 215133
 ---
 Revvin' up your engine
 Listen to her howlin' roar

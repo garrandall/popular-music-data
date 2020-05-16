@@ -1,8 +1,11 @@
 ---
+album: 11th Song
 artists:
 - Deep Blue Something
+external_ids:
+  spotify: spotify:track:0SaOhWDuRf7X67Xv9q68QZ
 features: []
-genres: []
+first_released_as_single: false
 key: breakfast-at-tiffany-s-deep-blue-something
 lyrics_url: https://genius.com/Deep-blue-something-breakfast-at-tiffanys-lyrics
 name: Breakfast At Tiffany's
@@ -151,6 +154,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1996-04-20'
+release_year: 1993
+runtime: 320400
 ---
 You say that we've got nothing in common
 No common ground to start from

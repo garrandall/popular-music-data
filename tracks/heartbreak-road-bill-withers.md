@@ -1,8 +1,11 @@
 ---
+album: '''Justments'
 artists:
 - Bill Withers
+external_ids:
+  spotify: spotify:track:2Ln4fno71kJLPZfy1XZoj1
 features: []
-genres: []
+first_released_as_single: false
 key: heartbreak-road-bill-withers
 lyrics_url: https://www.musixmatch.com/lyrics/Bill-Withers/Heartbreak-Road
 name: Heartbreak Road
@@ -23,6 +26,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1975-01-18'
+release_year: 1974
+runtime: 189146
 ---
 Wonder who is waiting for me
 At the end of Heartbreak Road

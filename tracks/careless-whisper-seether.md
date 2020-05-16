@@ -1,8 +1,11 @@
 ---
+album: Finding Beauty In Negative Spaces (Bonus Track Version)
 artists:
 - Seether
+external_ids:
+  spotify: spotify:track:46eHxWRKmtYhUHPDRgclt6
 features: []
-genres: []
+first_released_as_single: false
 key: careless-whisper-seether
 lyrics_url: https://www.azlyrics.com/lyrics/seether/carelesswhisper.html
 name: Careless Whisper
@@ -79,8 +82,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2009-07-18'
+release_year: 2007
+runtime: 296973
 ---
-
 I feel so unsure
 As I take your hand and lead you to the dance floor
 As the music dies
@@ -130,6 +134,3 @@ I should've known better than to cheat a friend
 And waste the chance that I'd been given
 So I'm never gonna dance again...
 The way I danced with you
-
-
-

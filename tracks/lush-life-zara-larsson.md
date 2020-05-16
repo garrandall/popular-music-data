@@ -1,8 +1,11 @@
 ---
+album: So Good
 artists:
 - Zara Larsson
+external_ids:
+  spotify: spotify:track:1rIKgCH4H52lrvDcz50hS8
 features: []
-genres: []
+first_released_as_single: false
 key: lush-life-zara-larsson
 lyrics_url: https://www.azlyrics.com/lyrics/zaralarsson/lushlife.html
 name: Lush Life
@@ -19,8 +22,9 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '2016-08-20'
+release_year: 2016
+runtime: 201122
 ---
-
 I live my day as if it was the last
 Live my day as if there was no past
 Doin' it all night, all summer
@@ -108,6 +112,3 @@ Now I've found another crush
 The lush life's given me a rush
 Had one chance to make me blush
 Second time is one too late
-
-
-

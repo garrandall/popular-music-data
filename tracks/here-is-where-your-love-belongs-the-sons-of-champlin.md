@@ -1,8 +1,11 @@
 ---
+album: A Circle Filled With Love
 artists:
 - The Sons Of Champlin
+external_ids:
+  spotify: spotify:track:49eyTpRAFSKUSMQa4ymL6Y
 features: []
-genres: []
+first_released_as_single: false
 key: here-is-where-your-love-belongs-the-sons-of-champlin
 lyrics_url: https://genius.com/Sons-of-champlin-here-is-where-your-love-belongs-lyrics
 name: Here Is Where Your Love Belongs
@@ -27,6 +30,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1977-03-05'
+release_year: 1976
+runtime: 216226
 ---
 When the morning comes
 I find myself just missin' you

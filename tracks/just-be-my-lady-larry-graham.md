@@ -1,8 +1,11 @@
 ---
+album: Just Be My Lady
 artists:
 - Larry Graham
+external_ids:
+  spotify: spotify:track:1Vgp0V58HF5IaHato81c7P
 features: []
-genres: []
+first_released_as_single: false
 key: just-be-my-lady-larry-graham
 lyrics_url: https://genius.com/Larry-graham-just-be-my-lady-lyrics
 name: Just Be My Lady
@@ -27,6 +30,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1981-10-03'
+release_year: 1981
+runtime: 265066
 ---
 Just Be My Lady
 And everything will be alright

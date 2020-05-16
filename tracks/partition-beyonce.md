@@ -126,14 +126,14 @@ The man ain't ever seen a booty like this
 And why do you think you keep my name rollin' off the tongue?
 Cause when you wanna smash, I just write another one
 I sneezed on the beat and the beat got sicker
-YoncÃ© all on his mouth like liquor
-YoncÃ© all on his mouth like liquor
-YoncÃ© all on his mouth like liquor
-YoncÃ© all on his mouth like liquor
+Yoncé all on his mouth like liquor
+Yoncé all on his mouth like liquor
+Yoncé all on his mouth like liquor
+Yoncé all on his mouth like liquor
 Like like liquor like like like liquor
-YoncÃ© all on his mouth like liquor
-YoncÃ© all on his mouth like liquor
-YoncÃ© all on his mouth like liquor
+Yoncé all on his mouth like liquor
+Yoncé all on his mouth like liquor
+Yoncé all on his mouth like liquor
 Like like liquor, like like like liquor
 
 Drop!
@@ -142,7 +142,7 @@ Drop!
 
 Driver, roll up the partition, please
 Driver, roll up the partition, please
-I don't need you seeing YoncÃ© on her knees
+I don't need you seeing Yoncé on her knees
 Took 45 minutes to get all dressed up
 We ain't even gonna make it to this club
 Now my mascara runnin', red lipstick smudged
@@ -194,11 +194,11 @@ Hello!
 
 
 Est-ce que tu aimes le sexe?
-Le sexe. Je veux dire, l'activitÃ© physique.
+Le sexe. Je veux dire, l'activité physique.
 Le coÃ¯t. Tu aimes Ã§a?
-Tu ne t'intÃ©resses pas au sexe?
-Les hommes pensent que les fÃ©ministes dÃ©testent le sexe,
-Mais c'est une activitÃ© trÃ¨s stimulante et naturelle que les femmes adorent.
+Tu ne t'intéresses pas au sexe?
+Les hommes pensent que les féministes détestent le sexe,
+Mais c'est une activité trÃ¨s stimulante et naturelle que les femmes adorent.
 [English translation:
 "Do you like sex?
 Sex. I mean, the physical activity.

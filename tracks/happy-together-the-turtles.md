@@ -1,8 +1,11 @@
 ---
+album: Happy Together
 artists:
 - The Turtles
+external_ids:
+  spotify: spotify:track:1JO1xLtVc8mWhIoE3YaCL0
 features: []
-genres: []
+first_released_as_single: false
 key: happy-together-the-turtles
 lyrics_url: https://genius.com/The-turtles-happy-together-lyrics
 name: Happy Together
@@ -67,6 +70,8 @@ rankings:
   rank: 33
   ranking_list: Billboard Hot 100
   start_date: '1967-05-20'
+release_year: 1967
+runtime: 176293
 ---
 Imagine me and you, I do
 I think about you day and night, it's only right

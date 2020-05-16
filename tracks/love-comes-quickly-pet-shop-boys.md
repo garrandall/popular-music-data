@@ -1,8 +1,11 @@
 ---
+album: Please
 artists:
 - Pet Shop Boys
+external_ids:
+  spotify: spotify:track:3g8p7uno48IqoM78RzI8NJ
 features: []
-genres: []
+first_released_as_single: false
 key: love-comes-quickly-pet-shop-boys
 lyrics_url: https://www.azlyrics.com/lyrics/petshopboys/lovecomesquickly.html
 name: Love Comes Quickly
@@ -39,8 +42,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1986-10-18'
+release_year: 1986
+runtime: 259466
 ---
-
 Sooner or later, this happens to everyone
 To everyone
 
@@ -95,6 +99,3 @@ Love comes quickly, whatever you do
 You can't stop falling (Oh ooh
 Love comes quickly, whatever you do
 You can't stop falling (Oh ooh
-
-
-

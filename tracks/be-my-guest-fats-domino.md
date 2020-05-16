@@ -1,8 +1,11 @@
 ---
+album: Going Home
 artists:
 - Fats Domino
+external_ids:
+  spotify: spotify:track:2AifJNWZJDb8aDIH0XvhWR
 features: []
-genres: []
+first_released_as_single: false
 key: be-my-guest-fats-domino
 lyrics_url: https://www.azlyrics.com/lyrics/fatsdomino/bemyguest.html
 name: Be My Guest
@@ -63,8 +66,9 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1960-01-25'
+release_year: 1959
+runtime: 116800
 ---
-
 Come on baby and be my guest
 Come join the party and meet the rest
 Everything is gonna be alright
@@ -91,6 +95,3 @@ I'm gonna sing, my band gonna play
 I'm gonna make you "Queen For A Day"
 Everything gonna be alright
 So be my guest tonight!
-
-
-

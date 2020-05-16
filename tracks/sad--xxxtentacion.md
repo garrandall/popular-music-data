@@ -1,8 +1,11 @@
 ---
+album: '?'
 artists:
 - XXXTENTACION
+external_ids:
+  spotify: spotify:track:3ee8Jmje8o58CHK66QrVC2
 features: []
-genres: []
+first_released_as_single: false
 key: sad--xxxtentacion
 lyrics_url: https://www.azlyrics.com/lyrics/xxxtentacion/sad.html
 name: Sad!
@@ -159,8 +162,9 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '2018-12-01'
+release_year: 2018
+runtime: 166605
 ---
-
 Yeah
 
 Who am I? Someone that's afraid to let go, uh
@@ -202,6 +206,3 @@ You decide if you're ever gonna let me know (yeah)
 Suicide if you ever try to let go, uh
 I'm sad, I know, yeah
 I'm sad, I know, yeah
-
-
-

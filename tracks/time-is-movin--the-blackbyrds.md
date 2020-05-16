@@ -1,8 +1,11 @@
 ---
+album: City Life/Unfinished Business
 artists:
 - The Blackbyrds
+external_ids:
+  spotify: spotify:track:6qLs56fv8Qdt88oh7JZkDu
 features: []
-genres: []
+first_released_as_single: false
 key: time-is-movin--the-blackbyrds
 lyrics_url: https://genius.com/The-blackbyrds-time-is-movin-lyrics
 name: Time Is Movin'
@@ -19,6 +22,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1977-03-26'
+release_year: 1977
+runtime: 282426
 ---
 Time is moving on
 Better get with it

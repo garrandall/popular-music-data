@@ -1,8 +1,11 @@
 ---
+album: Happy Organs, Wild Guitars And Piano Shuffles
 artists:
 - Dave "Baby" Cortez
+external_ids:
+  spotify: spotify:track:1h4YpUiNB67DuQscri9aex
 features: []
-genres: []
+first_released_as_single: false
 key: fiesta-dave--baby--cortez
 name: Fiesta
 rankings:
@@ -14,5 +17,7 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1962-11-24'
+release_year: 1962
+runtime: 140061
 ---
 

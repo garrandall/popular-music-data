@@ -1,8 +1,11 @@
 ---
+album: Funk 100
 artists:
 - Wilson Pickett
+external_ids:
+  spotify: spotify:track:1XuMhgEXSJQrcIKBS8T7ce
 features: []
-genres: []
+first_released_as_single: false
 key: funk-factory-wilson-pickett
 lyrics_url: https://genius.com/Wilson-pickett-funk-factory-lyrics
 name: Funk Factory
@@ -39,6 +42,8 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '1972-07-15'
+release_year: 1972
+runtime: 175640
 ---
 Was born in a funk factory, born in a funk factory
 Workin' hard like a slave, y'all, comin' up short on my pay, y'all

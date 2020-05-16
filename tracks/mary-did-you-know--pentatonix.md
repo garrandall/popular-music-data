@@ -1,8 +1,11 @@
 ---
+album: That's Christmas To Me
 artists:
 - Pentatonix
+external_ids:
+  spotify: spotify:track:4z8sz6E4YyFuEkv5o7IJni
 features: []
-genres: []
+first_released_as_single: false
 key: mary-did-you-know--pentatonix
 lyrics_url: https://www.azlyrics.com/lyrics/pentatonix/marydidyouknow.html
 name: Mary Did You Know?
@@ -35,8 +38,9 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '2017-01-07'
+release_year: 2014
+runtime: 203373
 ---
-
 Mary, did you know that your baby boy would one day walk on water?
 Mary, did you know that your baby boy would save our sons and daughters?
 Did you know that your baby boy has come to make you new?
@@ -60,6 +64,3 @@ That sleeping child you're holding is the great I am.
 
 Mary, did you know? Mary, did you know? Mary, did you know?..
 Mary, did you know?
-
-
-

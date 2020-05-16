@@ -1,8 +1,11 @@
 ---
+album: Paul Anka Sings His Big Ten, Vol. 1
 artists:
 - Paul Anka
+external_ids:
+  spotify: spotify:track:3Knoc610pRikw0oiN0c0a3
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-time-to-cry-paul-anka
 lyrics_url: https://www.azlyrics.com/lyrics/paulanka/itstimetocry.html
 name: It's Time To Cry
@@ -67,8 +70,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1960-02-29'
+release_year: 1959
+runtime: 145466
 ---
-
 When somebody leaves you
 That's the time to cry
 When you know you're lonely
@@ -91,6 +95,3 @@ That's the time to cry
 When you know she's left you
 You'll know that she has left you
 So you can cry
-
-
-

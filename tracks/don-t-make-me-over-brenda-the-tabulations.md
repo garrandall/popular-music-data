@@ -1,9 +1,12 @@
 ---
+album: Right on the Tip of My Tongue
 artists:
 - Brenda
 - The Tabulations
+external_ids:
+  spotify: spotify:track:1c0QZKXEROc5A9D32EDbHR
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-make-me-over-brenda-the-tabulations
 lyrics_url: https://genius.com/Brenda-and-the-tabulations-dont-make-me-over-lyrics
 name: Don't Make Me Over
@@ -20,6 +23,8 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1970-09-05'
+release_year: 1970
+runtime: 232493
 ---
 Don't make me over
 Now that I'd do
@@ -55,8 +60,6 @@ Now that you've got me
 At your command
 
 Accept me for what I am
-
-Lyrics courtesy Top40db
 
 Accept me for all the
 Things that I do

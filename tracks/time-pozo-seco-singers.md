@@ -1,8 +1,11 @@
 ---
+album: 'Time For...The Pozo-Sego Singers: The Complete 1966 Recordings'
 artists:
 - Pozo Seco Singers
+external_ids:
+  spotify: spotify:track:7duFyBg8iBNpZQ2bFjvdUk
 features: []
-genres: []
+first_released_as_single: false
 key: time-pozo-seco-singers
 lyrics_url: https://genius.com/The-pozo-seco-singers-time-lyrics
 name: Time
@@ -35,6 +38,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1966-04-09'
+release_year: 1965
+runtime: 203746
 ---
 Some people run, some people crawl
 Some people don't even move at all

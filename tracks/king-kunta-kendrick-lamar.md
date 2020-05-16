@@ -1,8 +1,11 @@
 ---
+album: To Pimp A Butterfly
 artists:
 - Kendrick Lamar
+external_ids:
+  spotify: spotify:track:0N3W5peJUQtI4eyR6GJT5O
 features: []
-genres: []
+first_released_as_single: false
 key: king-kunta-kendrick-lamar
 lyrics_url: https://www.azlyrics.com/lyrics/kendricklamar/kingkunta.html
 name: King Kunta
@@ -51,8 +54,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2015-06-13'
+release_year: 2015
+runtime: 234693
 ---
-
 I got a bone to pick
 I don't want you monkey mouth motherfuckers sittin' in my throne again
 (Aye aye nigga what's happenin' nigga, K Dot back in the hood nigga)
@@ -147,6 +151,3 @@ We want the funk
 (Now if I give you the funk, you gon' take it)
 We want the funk
 I remember you was conflicted, misusing your influence
-
-
-

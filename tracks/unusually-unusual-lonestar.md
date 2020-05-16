@@ -1,8 +1,11 @@
 ---
+album: I'm Already There
 artists:
 - Lonestar
+external_ids:
+  spotify: spotify:track:5UjOihPL1c53V9y6VNErWl
 features: []
-genres: []
+first_released_as_single: false
 key: unusually-unusual-lonestar
 lyrics_url: https://www.azlyrics.com/lyrics/lonestar/unusuallyunusual.html
 name: Unusually Unusual
@@ -27,8 +30,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2003-02-22'
+release_year: 1995
+runtime: 216053
 ---
-
 She introduced herself as Amy, said call me Caroline for short
 I just moved in three doors down so I wouldn't be the girl next door
 And I knew the shoes she wasn't wearing fit her just right
@@ -58,6 +62,3 @@ Absolutely unpredictable
 She's so different and that's what's wonderful
 She's unusually unusual
 And that's beautiful to me
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: In the Morning of My Days
 artists:
 - The Tee Set
+external_ids:
+  spotify: spotify:track:3ikrq3gPTInGc7m0qvoHWb
 features: []
-genres: []
+first_released_as_single: false
 key: if-you-do-believe-in-love-the-tee-set
 lyrics_url: https://www.musixmatch.com/lyrics/Tee-Set/If-You-Do-Believe-In-Love
 name: If You Do Believe In Love
@@ -23,6 +26,8 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1970-05-30'
+release_year: 1970
+runtime: 150687
 ---
 Whatever the world may say
 Nothing can change the love

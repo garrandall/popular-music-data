@@ -1,8 +1,11 @@
 ---
+album: Blackface
 artists:
 - Shai
+external_ids:
+  spotify: spotify:track:09s7AzC1vXpkIBS8xphJgP
 features: []
-genres: []
+first_released_as_single: false
 key: come-with-me-shai
 lyrics_url: https://www.azlyrics.com/lyrics/shai/comewithme.html
 name: Come With Me
@@ -87,8 +90,9 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '1996-01-27'
+release_year: 1995
+runtime: 279960
 ---
-
 I got a call. A telephone call today. 
 Somebody's offering a job a thousand miles away, 
 And I want to take it, it's the opportunity of a life time, 
@@ -125,7 +129,4 @@ If you really want me to go,
 And if so, Come with me.
 
 I need you to
-come with me 
-
-
-
+come with me

@@ -1,8 +1,11 @@
 ---
+album: Wooden Leather (Explicit Content U.S. Version)
 artists:
 - Nappy Roots
+external_ids:
+  spotify: spotify:track:5t3Tf1KBXWcfJngEWNtSRe
 features: []
-genres: []
+first_released_as_single: true
 key: roun--the-globe-nappy-roots
 lyrics_url: https://genius.com/Nappy-roots-roun-the-globe-lyrics
 name: Roun' The Globe
@@ -23,6 +26,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2003-09-20'
+release_year: 2003
+runtime: 243533
 ---
 The whole damn world is country...
 The whole damn world is country...

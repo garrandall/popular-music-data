@@ -1,8 +1,11 @@
 ---
+album: Cherry Pie
 artists:
 - Warrant
+external_ids:
+  spotify: spotify:track:5Kz1hj2NNSsgf0YkgFJh4e
 features: []
-genres: []
+first_released_as_single: false
 key: i-saw-red-warrant
 lyrics_url: https://genius.com/Warrant-i-saw-red-lyrics
 name: I Saw Red
@@ -83,6 +86,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1991-04-06'
+release_year: 1990
+runtime: 226920
 ---
 Oh it must be magic
 How inside your eyes I see my destiny

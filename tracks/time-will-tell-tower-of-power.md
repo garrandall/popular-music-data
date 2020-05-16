@@ -1,8 +1,11 @@
 ---
+album: Back To Oakland
 artists:
 - Tower Of Power
+external_ids:
+  spotify: spotify:track:6FuZzYXnkS6h4MYA4vJpAj
 features: []
-genres: []
+first_released_as_single: false
 key: time-will-tell-tower-of-power
 lyrics_url: https://genius.com/Tower-of-power-time-will-tell-lyrics
 name: Time Will Tell
@@ -31,6 +34,8 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1974-06-01'
+release_year: 1974
+runtime: 189626
 ---
 It's a rare occasion
 When your plans and expectations

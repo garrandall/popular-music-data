@@ -1,9 +1,12 @@
 ---
+album: Artist 2.0
 artists:
 - A Boogie Wit da Hoodie
+external_ids:
+  spotify: spotify:track:6DDij4AxiSF6QYdtMFEDnV
 features:
 - Young Thug
-genres: []
+first_released_as_single: false
 key: might-not-give-up-a-boogie-wit-da-hoodie-young-thug
 lyrics_url: https://genius.com/A-boogie-wit-da-hoodie-might-not-give-up-lyrics
 name: Might Not Give Up
@@ -12,6 +15,8 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '2020-02-29'
+release_year: 2020
+runtime: 225265
 ---
 Y'all just love me for my lifestyle, baby
 Y'all just love me for my lifestyle, uh

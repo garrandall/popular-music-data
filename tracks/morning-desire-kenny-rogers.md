@@ -1,8 +1,11 @@
 ---
+album: The Heart of the Matter
 artists:
 - Kenny Rogers
+external_ids:
+  spotify: spotify:track:6yHufQMVXN5rbNu8FJclYj
 features: []
-genres: []
+first_released_as_single: false
 key: morning-desire-kenny-rogers
 lyrics_url: https://www.azlyrics.com/lyrics/kennyrogers/morningdesire.html
 name: Morning Desire
@@ -43,8 +46,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1986-01-18'
+release_year: 1985
+runtime: 249666
 ---
-
 (Dave Loggins)
 Here it's seven in the am,
 It's gonna take more then wakin" to rise me
@@ -86,6 +90,3 @@ And tell her that I'm on fire
 With morning desire
 
 With Morning Desire
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: G.T.O. Best Of The Mala Recordings
 artists:
 - Ronny And The Daytonas
+external_ids:
+  spotify: spotify:track:3djP82UEfvX6YkM2HGg98s
 features: []
-genres: []
+first_released_as_single: false
 key: bucket--t--ronny-and-the-daytonas
 name: Bucket "T"
 rankings:
@@ -34,5 +37,7 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '1965-01-30'
+release_year: 1964
+runtime: 157173
 ---
 

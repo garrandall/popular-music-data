@@ -1,8 +1,11 @@
 ---
+album: 'Soul Masters: Don''t Be Cruel'
 artists:
 - Bill Black's Combo
+external_ids:
+  spotify: spotify:track:5VCtU2gWEYLQ51QAx7muBS
 features: []
-genres: []
+first_released_as_single: false
 key: do-it---rat-now-bill-black-s-combo
 name: Do It - Rat Now
 rankings:
@@ -38,5 +41,7 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '1963-06-15'
+release_year: 1963
+runtime: 139120
 ---
 

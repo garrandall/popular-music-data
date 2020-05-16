@@ -1,8 +1,11 @@
 ---
+album: Where to Now
 artists:
 - Charlie Dore
+external_ids:
+  spotify: spotify:track:0aMgFXpZTDZvWqMXwPIMNK
 features: []
-genres: []
+first_released_as_single: false
 key: pilot-of-the-airwaves-charlie-dore
 lyrics_url: https://genius.com/Charlie-dore-pilot-of-the-airwaves-lyrics
 name: Pilot Of The Airwaves
@@ -75,6 +78,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1980-06-14'
+release_year: 1979
+runtime: 235115
 ---
 Pilot of the Airwaves, here is my request
 You don't have to play it but I hope you'll do your best

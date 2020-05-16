@@ -1,8 +1,11 @@
 ---
+album: In The Wind
 artists:
 - Peter, Paul, and Mary
+external_ids:
+  spotify: spotify:track:62Yu8QL1g9pdbvN4XL9Rah
 features: []
-genres: []
+first_released_as_single: false
 key: blowin--in-the-wind-peter-paul-and-mary
 lyrics_url: https://www.azlyrics.com/lyrics/peterpaulandmary/blowininthewind.html
 name: Blowin' In The Wind
@@ -67,8 +70,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1963-10-05'
+release_year: 1963
+runtime: 177360
 ---
-
 How many roads must a man walk down
 Before they call him a man?
 How many seas must a white dove sail

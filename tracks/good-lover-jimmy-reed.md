@@ -1,8 +1,11 @@
 ---
+album: Just Jimmy Reed
 artists:
 - Jimmy Reed
+external_ids:
+  spotify: spotify:track:0GrhsM0eQQFyFN4M2zqc5f
 features: []
-genres: []
+first_released_as_single: false
 key: good-lover-jimmy-reed
 lyrics_url: https://www.azlyrics.com/lyrics/jimmyreed/goodlover.html
 name: Good Lover
@@ -23,8 +26,9 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1962-07-14'
+release_year: 1962
+runtime: 152493
 ---
-
 Well my baby wants mansion, diamond ring
 Big fine car and everything
 But I'm a natural born lover
@@ -46,6 +50,3 @@ But I'm a natural born lover
 Hey, I'm a real good lover
 Well now tell me baby
 Which one of us would you rather
-
-
-

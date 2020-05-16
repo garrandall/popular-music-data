@@ -1,8 +1,11 @@
 ---
+album: Body And Soul
 artists:
 - Joe Jackson
+external_ids:
+  spotify: spotify:track:1PRiwwG9wDMsqgtapWlu70
 features: []
-genres: []
+first_released_as_single: false
 key: you-can-t-get-what-you-want-joe-jackson
 lyrics_url: https://genius.com/Joe-jackson-you-cant-get-what-you-want-lyrics
 name: You Can't Get What You Want
@@ -71,6 +74,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1984-08-04'
+release_year: 1984
+runtime: 293000
 ---
 Sometimes you start feelin'
 So lost and lonely

@@ -1,9 +1,12 @@
 ---
+album: Music
 artists:
 - Erick Sermon
+external_ids:
+  spotify: spotify:track:6IFOw9Ck9mWHRQgw6QrPYx
 features:
 - Marvin Gaye
-genres: []
+first_released_as_single: false
 key: music-erick-sermon-marvin-gaye
 lyrics_url: https://genius.com/Erick-sermon-music-feat-marvin-gaye-lyrics
 name: Music
@@ -88,6 +91,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2001-10-13'
+release_year: 2001
+runtime: 223133
 ---
 Just like music..
 

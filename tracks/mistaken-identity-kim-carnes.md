@@ -1,8 +1,11 @@
 ---
+album: Mistaken Identity
 artists:
 - Kim Carnes
+external_ids:
+  spotify: spotify:track:6TzYJV7zORhhrLYxLkLzt4
 features: []
-genres: []
+first_released_as_single: false
 key: mistaken-identity-kim-carnes
 lyrics_url: https://www.azlyrics.com/lyrics/kimcarnes/mistakenidentity.html
 name: Mistaken Identity
@@ -31,8 +34,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1981-11-28'
+release_year: 1981
+runtime: 288226
 ---
-
 Did she tell you it's over
 Did she throw you out in the night
 Here you come to your other lover
@@ -81,6 +85,3 @@ Must be a case of mistaken identity
 I'm not the girl you want me to be
 Must be a case of mistaken identity
 I'm not the girl you want me to be
-
-
-

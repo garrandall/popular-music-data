@@ -1,8 +1,11 @@
 ---
+album: Fool's Hall of Fame
 artists:
 - Jerry Wallace
+external_ids:
+  spotify: spotify:track:06uH1OuvJe7OQY62XAaOSm
 features: []
-genres: []
+first_released_as_single: true
 key: diamond-ring-jerry-wallace
 name: Diamond Ring
 rankings:
@@ -22,5 +25,7 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1958-12-29'
+release_year: 1958
+runtime: 146386
 ---
 

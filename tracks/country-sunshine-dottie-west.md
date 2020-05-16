@@ -1,8 +1,11 @@
 ---
+album: The Essential Dottie West
 artists:
 - Dottie West
+external_ids:
+  spotify: spotify:track:4jE0JNXJ2H3UdhoYBeu8st
 features: []
-genres: []
+first_released_as_single: false
 key: country-sunshine-dottie-west
 lyrics_url: https://genius.com/Dottie-west-country-sunshine-lyrics
 name: Country Sunshine
@@ -51,6 +54,8 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '1973-12-08'
+release_year: 1973
+runtime: 123666
 ---
 I love you please believe me
 I wouldn't want you to ever leave me

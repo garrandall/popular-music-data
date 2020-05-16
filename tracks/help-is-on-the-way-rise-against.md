@@ -1,8 +1,11 @@
 ---
+album: Endgame
 artists:
 - Rise Against
+external_ids:
+  spotify: spotify:track:09jPXOz0LS0kpqmkQRaFPO
 features: []
-genres: []
+first_released_as_single: false
 key: help-is-on-the-way-rise-against
 lyrics_url: https://genius.com/Rise-against-help-is-on-the-way-lyrics
 name: Help Is On The Way
@@ -11,6 +14,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2011-02-12'
+release_year: 2011
+runtime: 237480
 ---
 I have my mother's dreams, I have my father's eyes
 You can't take that from me, just go ahead and try

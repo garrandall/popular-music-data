@@ -1,8 +1,11 @@
 ---
+album: The Anita Bryant Collection 1958-62
 artists:
 - Anita Bryant
+external_ids:
+  spotify: spotify:track:0MfEsraMRE1knGMyiNnRf4
 features: []
-genres: []
+first_released_as_single: false
 key: a-texan-and-a-girl-from-mexico-anita-bryant
 lyrics_url: https://genius.com/Anita-bryant-a-texan-and-a-girl-from-mexico-lyrics
 name: A Texan And A Girl From Mexico
@@ -23,6 +26,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1961-03-06'
+release_year: 1961
+runtime: 160960
 ---
 There's a story that they tell of long ago
 'Bout a Texan and a girl from Mexico

@@ -1,9 +1,12 @@
 ---
+album: We Run The Night
 artists:
 - Havana Brown
+external_ids:
+  spotify: spotify:track:0mtPNQl5vePVwiI9Vykp7L
 features:
 - Pitbull
-genres: []
+first_released_as_single: true
 key: we-run-the-night-havana-brown-pitbull
 lyrics_url: https://genius.com/Havana-brown-we-run-the-night-redone-remix-lyrics
 name: We Run The Night
@@ -96,6 +99,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '2012-09-08'
+release_year: 2011
+runtime: 228200
 ---
 Havana Brown
 RedOne

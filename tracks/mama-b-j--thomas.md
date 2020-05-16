@@ -1,8 +1,11 @@
 ---
+album: The Best Of BJ Thomas - Live
 artists:
 - B.J. Thomas
+external_ids:
+  spotify: spotify:track:43GwM2dqAFTegMvd7GQprH
 features: []
-genres: []
+first_released_as_single: false
 key: mama-b-j--thomas
 lyrics_url: https://genius.com/Bj-thomas-mama-lyrics
 name: Mama
@@ -39,6 +42,8 @@ rankings:
   rank: 38
   ranking_list: Billboard Hot 100
   start_date: '1966-07-02'
+release_year: 1966
+runtime: 180400
 ---
 Who's the one who tied you shoe when you were young
 And knew just when to come and see what you had done

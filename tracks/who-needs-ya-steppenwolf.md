@@ -1,8 +1,11 @@
 ---
+album: Steppenwolf 7
 artists:
 - Steppenwolf
+external_ids:
+  spotify: spotify:track:2RiD1K9cT6wnGmvsmkdWEc
 features: []
-genres: []
+first_released_as_single: false
 key: who-needs-ya-steppenwolf
 lyrics_url: https://www.azlyrics.com/lyrics/steppenwolf/whoneedsya.html
 name: Who Needs Ya
@@ -31,8 +34,9 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '1970-12-19'
+release_year: 1970
+runtime: 180373
 ---
-
 Well, it's sunrise on the freeway as I get back from town
 Find you standin' in my boots, kicking my dog around
 Empty bottles on the floor
@@ -54,6 +58,3 @@ Turned this place into a sty
 Darlin' by tomorrow you'll be eatin' humble pie
 
 Repeat Chorus
-
-
-

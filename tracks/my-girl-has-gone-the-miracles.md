@@ -1,8 +1,11 @@
 ---
+album: Going To A Go-Go
 artists:
 - The Miracles
+external_ids:
+  spotify: spotify:track:4oHcMcbUjbPK7zKyx4dQln
 features: []
-genres: []
+first_released_as_single: false
 key: my-girl-has-gone-the-miracles
 lyrics_url: https://genius.com/The-miracles-my-girl-has-gone-second-version-lyrics
 name: My Girl Has Gone
@@ -47,6 +50,8 @@ rankings:
   rank: 38
   ranking_list: Billboard Hot 100
   start_date: '1965-12-11'
+release_year: 1965
+runtime: 170026
 ---
 When you were mine I loved you so much
 A got a thrill from your every touch

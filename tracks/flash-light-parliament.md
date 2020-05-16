@@ -1,8 +1,11 @@
 ---
+album: Funkentelechy Vs. The Placebo Syndrome
 artists:
 - Parliament
+external_ids:
+  spotify: spotify:track:1v1PV2wERHiMPesMWX0qmO
 features: []
-genres: []
+first_released_as_single: false
 key: flash-light-parliament
 lyrics_url: https://www.azlyrics.com/lyrics/parliament/flashlight.html
 name: Flash Light
@@ -71,8 +74,9 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1978-05-27'
+release_year: 1977
+runtime: 346666
 ---
-
 Now, I lay me down to sleep
 Oh, I just can't find a beat
 Flash light (oh, I will never dance!)
@@ -165,6 +169,3 @@ Ha da da dee da hada hada da da
 
 Everybody's got a little light under the sun
 Under the sun...
-
-
-

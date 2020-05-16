@@ -1,8 +1,11 @@
 ---
+album: Do You Wanna Go Party
 artists:
 - KC And The Sunshine Band
+external_ids:
+  spotify: spotify:track:6dw6BquK0Mv72p6HpusqKN
 features: []
-genres: []
+first_released_as_single: false
 key: please-don-t-go-kc-and-the-sunshine-band
 lyrics_url: https://genius.com/Kc-and-the-sunshine-band-please-dont-go-lyrics
 name: Please Don't Go
@@ -111,6 +114,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1980-02-16'
+release_year: 1979
+runtime: 230533
 ---
 I love you
 Yeah

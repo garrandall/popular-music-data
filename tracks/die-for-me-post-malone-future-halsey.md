@@ -1,10 +1,13 @@
 ---
+album: Hollywood's Bleeding
 artists:
 - Post Malone
+external_ids:
+  spotify: spotify:track:2C6WXnmZ66tHhHlnvwePiK
 features:
 - Future
 - Halsey
-genres: []
+first_released_as_single: false
 key: die-for-me-post-malone-future-halsey
 lyrics_url: https://www.azlyrics.com/lyrics/postmalone/dieforme.html
 name: Die For Me
@@ -29,8 +32,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2019-10-19'
+release_year: 2019
+runtime: 245266
 ---
-
 (Oh yeah, oh yeah, oh yeah)
 You'd die for me
 (Said you'd die, said you'd die, but you lied, you lied to me)
@@ -118,6 +122,3 @@ Said you'd die for me, you'd die for me, you'd die for me
 (You'd die, you'd die, you'd die)
 But you lied to me, you lied to me, you lied to me
 (You lied, you lied, you lied)
-
-
-

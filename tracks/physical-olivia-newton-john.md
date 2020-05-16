@@ -1,8 +1,11 @@
 ---
+album: Physical
 artists:
 - Olivia Newton-John
+external_ids:
+  spotify: spotify:track:3hVrI7snZMTmHCnbwME47u
 features: []
-genres: []
+first_released_as_single: false
 key: physical-olivia-newton-john
 lyrics_url: https://www.azlyrics.com/lyrics/olivianewtonjohn/physical.html
 name: Physical
@@ -111,8 +114,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1982-03-27'
+release_year: 1981
+runtime: 224773
 ---
-
 I'm saying all the things that I know you'll like
 Making good conversation
 I gotta handle you just right
@@ -161,6 +165,3 @@ I wanna get animal
 Let's get into animal
 Let me hear your body talk
 Let me hear your body talk
-
-
-

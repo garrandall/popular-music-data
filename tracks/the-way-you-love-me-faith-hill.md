@@ -1,8 +1,11 @@
 ---
+album: Breathe
 artists:
 - Faith Hill
+external_ids:
+  spotify: spotify:track:6vgN6KGstss0GnBbKlMNK9
 features: []
-genres: []
+first_released_as_single: false
 key: the-way-you-love-me-faith-hill
 lyrics_url: https://genius.com/Faith-hill-the-way-you-love-me-lyrics
 name: The Way You Love Me
@@ -231,6 +234,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2001-05-26'
+release_year: 1999
+runtime: 186066
 ---
 If I could grant you one wish
 I'd wish you could see the way you kiss

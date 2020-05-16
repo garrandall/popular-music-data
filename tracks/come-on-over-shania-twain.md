@@ -1,8 +1,11 @@
 ---
+album: Come On Over
 artists:
 - Shania Twain
+external_ids:
+  spotify: spotify:track:0kxEMIpNL0GmIMKkTJ7vw0
 features: []
-genres: []
+first_released_as_single: false
 key: come-on-over-shania-twain
 lyrics_url: https://www.azlyrics.com/lyrics/shaniatwain/comeonover.html
 name: Come On Over
@@ -47,8 +50,9 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1999-12-25'
+release_year: 1997
+runtime: 174026
 ---
-
 Get a life-get a grip
 Get away somewhere, take a trip
 Take a break-take control
@@ -91,6 +95,3 @@ Come on over-come on in
 You can unwind-take a load off your mind 
 
 Oh, oh, oh...
-
-
-

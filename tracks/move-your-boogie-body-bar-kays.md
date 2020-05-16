@@ -1,8 +1,11 @@
 ---
+album: Injoy
 artists:
 - Bar-Kays
+external_ids:
+  spotify: spotify:track:7oR2quSsW5O7YmUC7HmwiV
 features: []
-genres: []
+first_released_as_single: false
 key: move-your-boogie-body-bar-kays
 lyrics_url: https://genius.com/The-bar-kays-move-your-boogie-body-lyrics
 name: Move Your Boogie Body
@@ -35,6 +38,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1980-01-19'
+release_year: 1979
+runtime: 376226
 ---
 Move Your Boogie Body
 

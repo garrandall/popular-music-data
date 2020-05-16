@@ -1,8 +1,11 @@
 ---
+album: T.E.V.I.N.
 artists:
 - Tevin Campbell
+external_ids:
+  spotify: spotify:track:7mjTuZkE1XkJnco5bVsZCf
 features: []
-genres: []
+first_released_as_single: false
 key: round-and-round-tevin-campbell
 lyrics_url: https://www.azlyrics.com/lyrics/tevincampbell/roundandround.html
 name: Round And Round
@@ -123,9 +126,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1991-06-22'
+release_year: 1990
+runtime: 293053
 ---
-
-
 Can you tell me where we're going to
 Can you tell me what it is we really want to find
 Is the truth really there or is it right under our hair
@@ -156,4 +159,3 @@ One day I'll make it in the big city
 And I'll by lookin' for a girl who's pretty
 On day I'll make a play and she will say ok
 Cuz I plan to be a cool kitty
-

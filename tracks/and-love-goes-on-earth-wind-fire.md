@@ -1,8 +1,11 @@
 ---
+album: Faces
 artists:
 - Earth, Wind & Fire
+external_ids:
+  spotify: spotify:track:4fLyo0TfSm6eZuYpK33Wye
 features: []
-genres: []
+first_released_as_single: false
 key: and-love-goes-on-earth-wind-fire
 name: And Love Goes On
 rankings:
@@ -34,5 +37,7 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1981-03-21'
+release_year: 1980
+runtime: 244786
 ---
 

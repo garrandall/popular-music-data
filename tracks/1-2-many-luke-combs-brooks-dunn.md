@@ -1,10 +1,13 @@
 ---
+album: What You See Is What You Get
 artists:
 - Luke Combs
 - Brooks
 - Dunn
+external_ids:
+  spotify: spotify:track:226le7T3p82reYWzsi9Hsz
 features: []
-genres: []
+first_released_as_single: false
 key: 1-2-many-luke-combs-brooks-dunn
 lyrics_url: https://www.azlyrics.com/lyrics/lukecombs/12many.html
 name: 1 2 Many
@@ -13,8 +16,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2019-09-28'
+release_year: 2019
+runtime: 180906
 ---
-
 Well, I got a call from Rowdy 'round six o'clock
 Saying he caught a hankerin' for a honky tonk
 Wants an ice cold beer and a country song
@@ -63,6 +67,3 @@ Too many
 
 Yeah, five, four, three, two, one
 Too many
-
-
-

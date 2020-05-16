@@ -1,10 +1,13 @@
 ---
+album: Music For The People
 artists:
 - Marky Mark
 - The Funky Bunch
+external_ids:
+  spotify: spotify:track:5hWdgGVcfTeLPAiHM6EZG9
 features:
 - Loleatta Holloway
-genres: []
+first_released_as_single: false
 key: good-vibrations-marky-mark-the-funky-bunch-loleatta-holloway
 lyrics_url: https://www.azlyrics.com/lyrics/markymarkandthefunkybunch/goodvibrations.html
 name: Good Vibrations
@@ -89,8 +92,9 @@ rankings:
   rank: 27
   ranking_list: Billboard Hot 100
   start_date: '1991-11-30'
+release_year: 1991
+runtime: 269306
 ---
-
 Yeah
 Can you feel it baby
 I can too
@@ -194,6 +198,3 @@ It's such a good vibration
 It's such a sweet sensation
 It's such a good vibration
 It's such a sweet sensation
-
-
-

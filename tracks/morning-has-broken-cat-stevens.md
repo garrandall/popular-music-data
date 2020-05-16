@@ -1,8 +1,11 @@
 ---
+album: Teaser And The Firecat
 artists:
 - Cat Stevens
+external_ids:
+  spotify: spotify:track:3BqqF8suAIzW8655yJfcvh
 features: []
-genres: []
+first_released_as_single: false
 key: morning-has-broken-cat-stevens
 lyrics_url: https://genius.com/Cat-stevens-morning-has-broken-lyrics
 name: Morning Has Broken
@@ -63,6 +66,8 @@ rankings:
   rank: 24
   ranking_list: Billboard Hot 100
   start_date: '1972-07-01'
+release_year: 1971
+runtime: 200000
 ---
 Morning has broken like the first morning
 Blackbird has spoken like the first bird

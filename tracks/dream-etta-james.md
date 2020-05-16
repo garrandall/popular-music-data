@@ -1,8 +1,11 @@
 ---
+album: At Last!
 artists:
 - Etta James
+external_ids:
+  spotify: spotify:track:4C4ZGls8SqHMrYayEqK8BT
 features: []
-genres: []
+first_released_as_single: false
 key: dream-etta-james
 lyrics_url: https://genius.com/Etta-james-dream-lyrics
 name: Dream
@@ -19,6 +22,8 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1961-07-10'
+release_year: 1960
+runtime: 141800
 ---
 Dream when you're feeling blue
 Dream that's the thing to do

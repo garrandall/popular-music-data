@@ -1,9 +1,12 @@
 ---
+album: 'Barbershop 2: Back In Business (Original Motion Picture Soundtrack)'
 artists:
 - Sleepy Brown
+external_ids:
+  spotify: spotify:track:23XFjkEHUpVh3fmcNJFkaR
 features:
 - OutKast
-genres: []
+first_released_as_single: true
 key: i-can-t-wait-sleepy-brown-outkast
 lyrics_url: https://genius.com/Sleepy-brown-i-cant-wait-lyrics
 name: I Can't Wait
@@ -60,6 +63,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2004-05-15'
+release_year: 2004
+runtime: 272546
 ---
 This is dedicated to the lover (to the lover)
 In you, in you, in you

@@ -1,8 +1,11 @@
 ---
+album: Under The Iron Sea
 artists:
 - Keane
+external_ids:
+  spotify: spotify:track:3RyuWd7xlLJdLddH6Kt2o6
 features: []
-genres: []
+first_released_as_single: false
 key: is-it-any-wonder--keane
 lyrics_url: https://www.azlyrics.com/lyrics/keane/isitanywonder.html
 name: Is It Any Wonder?
@@ -43,8 +46,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2006-09-23'
+release_year: 2006
+runtime: 186173
 ---
-
 I, I always thought that I knew
 I'd always have the right to
 Be living in the kingdom of the good and true
@@ -84,6 +88,3 @@ Is it any wonder I don't know what's right?
 Oh, these days, after all the misery you made
 Is it any wonder that I feel afraid?
 Is it any wonder that I feel betrayed?
-
-
-

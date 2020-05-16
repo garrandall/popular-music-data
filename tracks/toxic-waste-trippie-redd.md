@@ -1,8 +1,11 @@
 ---
+album: A Love Letter To You 3
 artists:
 - Trippie Redd
+external_ids:
+  spotify: spotify:track:1SxagO9GK0UUeEYLmH8Pln
 features: []
-genres: []
+first_released_as_single: false
 key: toxic-waste-trippie-redd
 lyrics_url: https://www.azlyrics.com/lyrics/trippieredd/toxicwaste.html
 name: Toxic Waste
@@ -11,8 +14,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2018-11-24'
+release_year: 2018
+runtime: 173129
 ---
-
 Even though it isn't healthy
 Won't you help me?
 I need some more love
@@ -63,6 +67,3 @@ Baby, fuck my life (fuck it)
 It is yours (yeah)
 
 Don't want nobody to save me
-
-
-

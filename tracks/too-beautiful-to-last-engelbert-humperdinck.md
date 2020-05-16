@@ -1,8 +1,11 @@
 ---
+album: In Time
 artists:
 - Engelbert Humperdinck
+external_ids:
+  spotify: spotify:track:2XaRkqsrM3dGDByFfYPv1N
 features: []
-genres: []
+first_released_as_single: false
 key: too-beautiful-to-last-engelbert-humperdinck
 lyrics_url: https://www.azlyrics.com/lyrics/engelberthumperdinck/toobeautifultolast.html
 name: Too Beautiful To Last
@@ -19,8 +22,9 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1972-05-13'
+release_year: 1972
+runtime: 188760
 ---
-
 The days of autumn splendor
 Those moments warm and tender
 Was it too beautiful to last?
@@ -64,6 +68,3 @@ Why did that dream go by so fast?
 
 Was it too beautiful
 Was it too beautiful to last?
-
-
-

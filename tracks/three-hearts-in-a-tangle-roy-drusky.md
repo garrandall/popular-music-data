@@ -1,8 +1,11 @@
 ---
+album: The Golden Hits of Roy Drusky
 artists:
 - Roy Drusky
+external_ids:
+  spotify: spotify:track:7yQttsqzo0g6RJbgYUElxJ
 features: []
-genres: []
+first_released_as_single: false
 key: three-hearts-in-a-tangle-roy-drusky
 lyrics_url: https://genius.com/Roy-drusky-three-hearts-in-a-tangle-lyrics
 name: Three Hearts In A Tangle
@@ -71,6 +74,8 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '1961-07-24'
+release_year: 1961
+runtime: 158222
 ---
 Three hearts in a tangle one heart will have to break
 Tonight as I sit by my window watching the people go by

@@ -1,8 +1,11 @@
 ---
+album: Fast Times At Ridgemont High
 artists:
 - Jackson Browne
+external_ids:
+  spotify: spotify:track:4bst6cEJAYgaKvOWWlbU86
 features: []
-genres: []
+first_released_as_single: false
 key: somebody-s-baby-jackson-browne
 lyrics_url: https://genius.com/Jackson-browne-somebodys-baby-lyrics
 name: Somebody's Baby
@@ -83,6 +86,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1982-12-04'
+release_year: 1982
+runtime: 243373
 ---
 Well, just look at that girl
 With the lights comin' up in her eyes

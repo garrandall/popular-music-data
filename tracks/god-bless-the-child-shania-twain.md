@@ -1,8 +1,11 @@
 ---
+album: The Woman In Me
 artists:
 - Shania Twain
+external_ids:
+  spotify: spotify:track:5VlcN32sMteWvg1Qg57Av6
 features: []
-genres: []
+first_released_as_single: false
 key: god-bless-the-child-shania-twain
 lyrics_url: https://genius.com/Shania-twain-god-bless-the-child-lyrics
 name: God Bless The Child
@@ -27,6 +30,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1997-01-25'
+release_year: 1995
+runtime: 90733
 ---
 Hallelujah, hallelujah
 God bless the child who suffers

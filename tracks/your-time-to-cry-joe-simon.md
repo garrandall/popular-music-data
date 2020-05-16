@@ -1,8 +1,11 @@
 ---
+album: The Power of Joe Simon +
 artists:
 - Joe Simon
+external_ids:
+  spotify: spotify:track:2VfYOHOlWAyujV04DhzoUp
 features: []
-genres: []
+first_released_as_single: false
 key: your-time-to-cry-joe-simon
 lyrics_url: https://genius.com/Joe-simon-your-time-to-cry-lyrics
 name: Your Time To Cry
@@ -59,6 +62,8 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '1971-03-13'
+release_year: 1970
+runtime: 176701
 ---
 I gave you all of my love
 But you treated me like a fool

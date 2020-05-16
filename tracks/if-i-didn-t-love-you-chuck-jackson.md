@@ -1,8 +1,11 @@
 ---
+album: Super Hits
 artists:
 - Chuck Jackson
+external_ids:
+  spotify: spotify:track:473hgaSdgEKvL20YdhqVaK
 features: []
-genres: []
+first_released_as_single: false
 key: if-i-didn-t-love-you-chuck-jackson
 lyrics_url: https://genius.com/Chuck-jackson-if-i-didnt-love-you-lyrics
 name: If I Didn't Love You
@@ -35,6 +38,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1965-09-18'
+release_year: 1965
+runtime: 132080
 ---
 You asked me, do I love you?
 That's a silly question...

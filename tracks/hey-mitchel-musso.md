@@ -1,8 +1,11 @@
 ---
+album: Mitchel Musso
 artists:
 - Mitchel Musso
+external_ids:
+  spotify: spotify:track:7zKObGlclVsHMwOG0Q3wYO
 features: []
-genres: []
+first_released_as_single: false
 key: hey-mitchel-musso
 lyrics_url: https://www.azlyrics.com/lyrics/mitchelmusso/hey.html
 name: Hey
@@ -15,8 +18,9 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '2009-06-27'
+release_year: 2009
+runtime: 181226
 ---
-
 I'm counting the days since I began to live without you
 I'm covered in rain but it feels just like its the sun
 And it don't get me down, don't come around
@@ -60,6 +64,3 @@ Better off without you, better off without you
 Hey! I'm screaming at you!
 Hey! Don't care enough to write you a letter
 Now that I'm doing better better off without you. . .
-
-
-

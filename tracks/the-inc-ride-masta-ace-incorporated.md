@@ -1,8 +1,11 @@
 ---
+album: Sittin' On Chrome
 artists:
 - Masta Ace Incorporated
+external_ids:
+  spotify: spotify:track:37iYAAUVZezZRmgTGnWbhY
 features: []
-genres: []
+first_released_as_single: false
 key: the-inc-ride-masta-ace-incorporated
 lyrics_url: https://www.musixmatch.com/lyrics/Masta-Ace-Incorporated/The-I-N-C-Ride
 name: The INC Ride
@@ -71,6 +74,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1995-08-12'
+release_year: 1995
+runtime: 250266
 ---
 It's the ride y'all, come on we're goin on a ride
 It's the ride y'all, come on I know you wanna ride

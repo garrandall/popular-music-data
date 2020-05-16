@@ -1,8 +1,11 @@
 ---
+album: Best Of/20th Century
 artists:
 - Hugh Masekela
+external_ids:
+  spotify: spotify:track:0M433gqUejjCujkzISWinQ
 features: []
-genres: []
+first_released_as_single: false
 key: riot-hugh-masekela
 name: Riot
 rankings:
@@ -38,5 +41,7 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '1969-03-01'
+release_year: 1969
+runtime: 120413
 ---
 

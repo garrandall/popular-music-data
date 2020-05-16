@@ -1,8 +1,11 @@
 ---
+album: ASTROWORLD
 artists:
 - Travis Scott
+external_ids:
+  spotify: spotify:track:2xLMifQCjDGFmkHkpNLD9h
 features: []
-genres: []
+first_released_as_single: false
 key: sicko-mode-travis-scott
 lyrics_url: https://genius.com/Travis-scott-sicko-mode-lyrics
 name: Sicko Mode
@@ -215,6 +218,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2019-08-10'
+release_year: 2018
+runtime: 312820
 ---
 Astro, yeah
 Sun is down, freezin' cold

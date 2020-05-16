@@ -1,8 +1,11 @@
 ---
+album: RISER
 artists:
 - Dierks Bentley
+external_ids:
+  spotify: spotify:track:1soxUgYIZb1qx1c7o1Lc7z
 features: []
-genres: []
+first_released_as_single: false
 key: drunk-on-a-plane-dierks-bentley
 lyrics_url: https://www.azlyrics.com/lyrics/dierksbentley/drunkonaplane.html
 name: Drunk On A Plane
@@ -87,8 +90,9 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '2014-10-11'
+release_year: 2014
+runtime: 254466
 ---
-
 I took two weeks vacation for the honeymoon
 A couple tickets all inclusive down in Cancun
 I couldn't get my money back so I'm in seat 7A
@@ -150,6 +154,3 @@ I might be passed out
 In the baggage claim
 But right now
 I'm drunk on a plane
-
-
-

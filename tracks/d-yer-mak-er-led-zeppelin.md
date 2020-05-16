@@ -1,8 +1,11 @@
 ---
+album: Houses of the Holy
 artists:
 - Led Zeppelin
+external_ids:
+  spotify: spotify:track:4ItljeeAXtHsnsnnQojaO2
 features: []
-genres: []
+first_released_as_single: false
 key: d-yer-mak-er-led-zeppelin
 lyrics_url: https://genius.com/Led-zeppelin-dyer-maker-lyrics
 name: D'yer Mak'er
@@ -71,6 +74,8 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1974-02-02'
+release_year: 1973
+runtime: 262748
 ---
 Oh, oh, oh, oh, oh, oh
 You don't have to go, oh, oh, oh, oh, oh

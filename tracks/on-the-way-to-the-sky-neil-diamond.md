@@ -1,8 +1,11 @@
 ---
+album: On The Way To The Sky
 artists:
 - Neil Diamond
+external_ids:
+  spotify: spotify:track:1JfCKlPwbIty2pGavUFsu6
 features: []
-genres: []
+first_released_as_single: false
 key: on-the-way-to-the-sky-neil-diamond
 lyrics_url: https://www.azlyrics.com/lyrics/neildiamond/onthewaytothesky.html
 name: On The Way To The Sky
@@ -47,8 +50,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1982-04-17'
+release_year: 1981
+runtime: 226400
 ---
-
 We are two
 And two of us are one
 I'm back on my feet again,
@@ -97,6 +101,3 @@ I'm out on the street again
 Looking for love
 On the way to the sky
 You and I
-
-
-

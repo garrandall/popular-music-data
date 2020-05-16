@@ -1,8 +1,11 @@
 ---
+album: Complete Recordings
 artists:
 - Bob Kuban And The In-Men
+external_ids:
+  spotify: spotify:track:4YehhvNVDkI2DNwrsR5JJc
 features: []
-genres: []
+first_released_as_single: false
 key: the-cheater-bob-kuban-and-the-in-men
 name: The Cheater
 rankings:
@@ -50,5 +53,7 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1966-04-09'
+release_year: 1966
+runtime: 159666
 ---
 

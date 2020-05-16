@@ -1,8 +1,11 @@
 ---
+album: 'The Compilation: Greatest Hits II & More'
 artists:
 - H-Town
+external_ids:
+  spotify: spotify:track:1ZQndK2NBHKKOaS8n1CTGP
 features: []
-genres: []
+first_released_as_single: false
 key: a-thin-line-between-love---hate-h-town
 lyrics_url: https://genius.com/H-town-a-thin-line-between-love-and-hate-lyrics
 name: A Thin Line Between Love & Hate
@@ -87,6 +90,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1996-06-29'
+release_year: 1996
+runtime: 300000
 ---
 It's a thin line, it's 5 o'clock in the morning
 And I'm just getting in, I knock on the door

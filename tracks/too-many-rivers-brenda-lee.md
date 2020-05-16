@@ -1,8 +1,11 @@
 ---
+album: Greatest Country Songs
 artists:
 - Brenda Lee
+external_ids:
+  spotify: spotify:track:6ArMNMfKNWCqBopzAHbveK
 features: []
-genres: []
+first_released_as_single: false
 key: too-many-rivers-brenda-lee
 lyrics_url: https://genius.com/Brenda-lee-too-many-rivers-lyrics
 name: Too Many Rivers
@@ -59,6 +62,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1965-08-21'
+release_year: 1965
+runtime: 168960
 ---
 I wish I could come back to you, dear
 'Cause I know that you want me to

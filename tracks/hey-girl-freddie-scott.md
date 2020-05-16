@@ -1,8 +1,11 @@
 ---
+album: Hey Girl
 artists:
 - Freddie Scott
+external_ids:
+  spotify: spotify:track:4V0dOjhEmnnSQatSaSOyUh
 features: []
-genres: []
+first_released_as_single: true
 key: hey-girl-freddie-scott
 lyrics_url: https://genius.com/Freddie-scott-hey-girl-lyrics
 name: Hey Girl
@@ -55,6 +58,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1963-10-12'
+release_year: 1963
+runtime: 188032
 ---
 Hey girl, I want you to know
 I'm gonna miss you so much if you go

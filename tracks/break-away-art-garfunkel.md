@@ -1,8 +1,11 @@
 ---
+album: Breakaway
 artists:
 - Art Garfunkel
+external_ids:
+  spotify: spotify:track:2i4nfMalkKDkp7wIwUImqT
 features: []
-genres: []
+first_released_as_single: false
 key: break-away-art-garfunkel
 lyrics_url: https://www.azlyrics.com/lyrics/artgarfunkel/breakaway.html
 name: Break Away
@@ -51,8 +54,9 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '1976-03-06'
+release_year: 1975
+runtime: 215573
 ---
-
 I watch the distant lights on the runway
 Disappear into the evening sky
 Oh you know I'm with you on your journey
@@ -97,6 +101,3 @@ Break awa-(breakaway)-a-ay
 Fly across your ocean
 Break awa-(breakaway)-a-ay
 Time has come for you
-
-
-

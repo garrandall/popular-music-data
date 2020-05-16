@@ -1,8 +1,11 @@
 ---
+album: Windsong
 artists:
 - John Denver
+external_ids:
+  spotify: spotify:track:53Pun4aCDqLIFFb47axzZ2
 features: []
-genres: []
+first_released_as_single: false
 key: looking-for-space-john-denver
 lyrics_url: https://www.azlyrics.com/lyrics/johndenver/lookingforspace.html
 name: Looking For Space
@@ -39,8 +42,9 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1976-04-24'
+release_year: 1975
+runtime: 240706
 ---
-
 On the road of experience, I'm trying to find my own way.
 Sometimes I wish that I could fly away.
 When I think that I'm moving, suddenly things stand still.
@@ -63,6 +67,3 @@ When you're looking for space and to find out who you are.
 When you're looking to try and reach the stars.
 It's a sweet, sweet dream, sometimes I'm almost there.
 Sometimes I fly like an eagle and sometimes I'm deep in despair.
-
-
-

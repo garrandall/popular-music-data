@@ -1,8 +1,11 @@
 ---
+album: Love Songs
 artists:
 - Dan Fogelberg
+external_ids:
+  spotify: spotify:track:69nvFTDnYvvvQ6th8rmJkm
 features: []
-genres: []
+first_released_as_single: false
 key: make-love-stay-dan-fogelberg
 lyrics_url: https://www.azlyrics.com/lyrics/danfogelberg/makelovestay.html
 name: Make Love Stay
@@ -71,8 +74,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1983-05-21'
+release_year: 1979
+runtime: 271866
 ---
-
 Now that we love
 Now that the lonely nights are over
 How do we make love stay?
@@ -104,6 +108,3 @@ And once deceased not easily exhumed.
 Now that we loved
 Look at the moonless night and tell me
 How do we make love stay?
-
-
-

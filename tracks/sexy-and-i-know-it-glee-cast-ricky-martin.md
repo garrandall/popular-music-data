@@ -1,9 +1,12 @@
 ---
+album: 'Glee: The Music, The Complete Season Three'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:3hTHfK1PVAPgZ8aU1eqbfT
 features:
 - Ricky Martin
-genres: []
+first_released_as_single: false
 key: sexy-and-i-know-it-glee-cast-ricky-martin
 lyrics_url: https://genius.com/Glee-cast-sexy-and-i-know-it-lyrics
 name: Sexy And I Know It
@@ -12,6 +15,8 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '2012-02-25'
+release_year: 2012
+runtime: 197853
 ---
 Yeah, yeah Cuando salgo a andar
 Girls be looking like que duro está

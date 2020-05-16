@@ -1,8 +1,11 @@
 ---
+album: Wild Honey
 artists:
 - The Beach Boys
+external_ids:
+  spotify: spotify:track:4BcAcEbp6j6luowfAliUfW
 features: []
-genres: []
+first_released_as_single: false
 key: darlin--the-beach-boys
 lyrics_url: https://genius.com/The-beach-boys-darlin-lyrics
 name: Darlin'
@@ -43,6 +46,8 @@ rankings:
   rank: 33
   ranking_list: Billboard Hot 100
   start_date: '1968-02-17'
+release_year: 1967
+runtime: 134560
 ---
 Oh darling
 Oh, my darling, you're so fine

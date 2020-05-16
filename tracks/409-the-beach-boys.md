@@ -1,8 +1,11 @@
 ---
+album: Surfin' Safari
 artists:
 - The Beach Boys
+external_ids:
+  spotify: spotify:track:1gWj5OlKlZmBvtkYxluZux
 features: []
-genres: []
+first_released_as_single: false
 key: 409-the-beach-boys
 lyrics_url: https://www.azlyrics.com/lyrics/beachboys/409.html
 name: '409'
@@ -11,8 +14,9 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1962-10-13'
+release_year: 1962
+runtime: 120866
 ---
-
 She's real fine my 409
 She's real fine my 409
 My 409
@@ -61,6 +65,3 @@ Giddy up 409
 (409 409 409 409)
 Giddy up 409
 (409 409 409 409)
-
-
-

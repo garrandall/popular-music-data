@@ -1,9 +1,12 @@
 ---
+album: The Perfect Storm
 artists:
 - Twista
+external_ids:
+  spotify: spotify:track:7CisLSqtKbDw2VtpN6IuLw
 features:
 - Chris Brown
-genres: []
+first_released_as_single: false
 key: make-a-movie-twista-chris-brown
 lyrics_url: https://www.azlyrics.com/lyrics/twista/makeamovie.html
 name: Make A Movie
@@ -64,8 +67,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2011-02-26'
+release_year: 2010
+runtime: 202000
 ---
-
 The perfect storm is Twista and Chris Brown ya dig
 I got a new one for ya
 Lets make a movie baby
@@ -143,6 +147,3 @@ We deal with them working with, I'ma break your back with this
 Let me pull my camera out lets make a movie yeah
 Starring you and me yeah yeah
 Girl.
-
-
-

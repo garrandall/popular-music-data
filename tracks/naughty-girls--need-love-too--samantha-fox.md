@@ -1,8 +1,11 @@
 ---
+album: Samantha Fox
 artists:
 - Samantha Fox
+external_ids:
+  spotify: spotify:track:4FGAOmf2vxT7FF8w2vL6R6
 features: []
-genres: []
+first_released_as_single: false
 key: naughty-girls--need-love-too--samantha-fox
 lyrics_url: https://genius.com/Samantha-fox-naughty-girls-lyrics
 name: Naughty Girls (Need Love Too)
@@ -115,6 +118,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1988-08-27'
+release_year: 1987
+runtime: 310386
 ---
 "Maybe, just maybe
 Naughty girls need love too."

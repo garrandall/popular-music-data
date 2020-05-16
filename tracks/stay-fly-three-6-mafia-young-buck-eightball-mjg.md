@@ -1,11 +1,14 @@
 ---
+album: Most Known Unknown (Explicit)
 artists:
 - Three 6 Mafia
+external_ids:
+  spotify: spotify:track:5FGs2enRe23RODlTmGYbX6
 features:
 - Young Buck
 - Eightball
 - MJG
-genres: []
+first_released_as_single: true
 key: stay-fly-three-6-mafia-young-buck-eightball-mjg
 lyrics_url: https://genius.com/Three-6-mafia-stay-fly-lyrics
 name: Stay Fly
@@ -102,6 +105,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '2006-02-25'
+release_year: 2005
+runtime: 238466
 ---
 Yeah!
 For the 1st time it's going down, history baby

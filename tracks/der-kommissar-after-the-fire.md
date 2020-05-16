@@ -1,8 +1,11 @@
 ---
+album: Der Kommissar
 artists:
 - After The Fire
+external_ids:
+  spotify: spotify:track:0ROtxObpdDA25o5DriPSOk
 features: []
-genres: []
+first_released_as_single: false
 key: der-kommissar-after-the-fire
 lyrics_url: https://genius.com/After-the-fire-der-kommissar-lyrics
 name: Der Kommissar
@@ -91,6 +94,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1983-07-02'
+release_year: 1979
+runtime: 337186
 ---
 Zwei, drei, vier, one, two, three, it's easy to see
 But it's not that I don't care, so?

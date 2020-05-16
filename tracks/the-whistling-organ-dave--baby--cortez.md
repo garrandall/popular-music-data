@@ -1,8 +1,11 @@
 ---
+album: Dave 'Baby' Cortez & His Happy Organ
 artists:
 - Dave "Baby" Cortez
+external_ids:
+  spotify: spotify:track:6FzRH9FQ2lPmIVaOSdCxkf
 features: []
-genres: []
+first_released_as_single: false
 key: the-whistling-organ-dave--baby--cortez
 name: The Whistling Organ
 rankings:
@@ -38,5 +41,7 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1959-07-27'
+release_year: 1959
+runtime: 123992
 ---
 

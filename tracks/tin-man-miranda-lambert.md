@@ -1,8 +1,11 @@
 ---
+album: The Weight of These Wings
 artists:
 - Miranda Lambert
+external_ids:
+  spotify: spotify:track:4ckQIgBy1gVeevf7UAereE
 features: []
-genres: []
+first_released_as_single: false
 key: tin-man-miranda-lambert
 lyrics_url: https://www.azlyrics.com/lyrics/mirandalambert/tinman.html
 name: Tin Man
@@ -11,8 +14,9 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '2017-04-22'
+release_year: 2016
+runtime: 259279
 ---
-
 Hey there, Mr. Tin Man
 You don't know how lucky you are
 You shouldn't spend your whole life wishin'
@@ -51,6 +55,3 @@ Ohh, oh, oh
 Ohh, oh, oh
 Ohh, oh, oh
 Ohh, oh, oh
-
-
-

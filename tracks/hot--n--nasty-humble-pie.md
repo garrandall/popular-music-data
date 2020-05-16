@@ -1,8 +1,11 @@
 ---
+album: Smokin'
 artists:
 - Humble Pie
+external_ids:
+  spotify: spotify:track:5Cx0EhTHkqwWu71FAm7urb
 features: []
-genres: []
+first_released_as_single: false
 key: hot--n--nasty-humble-pie
 lyrics_url: https://www.azlyrics.com/lyrics/humblepie/hotnnasty.html
 name: Hot 'N' Nasty
@@ -39,8 +42,9 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '1972-06-24'
+release_year: 1972
+runtime: 201933
 ---
-
 Find it (Who that?)
 Mercy (Who that sayin' mercy?)
 So hot 'n' nasty.
@@ -83,6 +87,3 @@ Do you get the feelin'? Oh yeah
 Then you gonna, then you gonna hit the ceiling
 Hot 'n' nasty, hot 'n' nasty
 It's hot 'n' nasty, so hot 'n' nasty...
-
-
-

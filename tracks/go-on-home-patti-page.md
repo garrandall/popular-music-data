@@ -1,8 +1,11 @@
 ---
+album: Greatest Hits Live
 artists:
 - Patti Page
+external_ids:
+  spotify: spotify:track:1DkKuAjfuTMypBMQbauk1L
 features: []
-genres: []
+first_released_as_single: false
 key: go-on-home-patti-page
 lyrics_url: https://www.musixmatch.com/lyrics/Patti-Page/Go-On-Home
 name: Go On Home
@@ -39,6 +42,8 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '1962-02-17'
+release_year: 1961
+runtime: 152346
 ---
 You're watching your watch
 And I know what's on your mind

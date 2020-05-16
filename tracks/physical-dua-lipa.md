@@ -1,8 +1,11 @@
 ---
+album: Future Nostalgia
 artists:
 - Dua Lipa
+external_ids:
+  spotify: spotify:track:23jEeXRyrjFbfs2Q8tBwdI
 features: []
-genres: []
+first_released_as_single: true
 key: physical-dua-lipa
 lyrics_url: https://www.azlyrics.com/lyrics/dualipa/physical.html
 name: Physical
@@ -11,8 +14,9 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '2020-02-15'
+release_year: 2020
+runtime: 193696
 ---
-
 Common love isn't for us
 We created something phenomenal
 Don't you agree?
@@ -83,6 +87,3 @@ Let's get physical
 (Physical, Physical)
 Come on
 Phy-phy-phy-physical
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Sunset Man (Standard Version)
 artists:
 - James Otto
+external_ids:
+  spotify: spotify:track:4b0XF7CDpJEBAdVHMw7amV
 features: []
-genres: []
+first_released_as_single: false
 key: just-got-started-lovin--you-james-otto
 lyrics_url: https://www.azlyrics.com/lyrics/jamesotto/justgotstartedlovinyou.html
 name: Just Got Started Lovin' You
@@ -87,8 +90,9 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '2008-07-19'
+release_year: 2008
+runtime: 234640
 ---
-
 You don't have to go now honey
 Call and tell 'em you won't be in today
 Baby there ain't nothin' at the office
@@ -130,6 +134,3 @@ This is gonna take forever darlin'
 Girl I just got started lovin' you
 Come back and let me hold you darlin'
 Girl I just got started lovin' you
-
-
-

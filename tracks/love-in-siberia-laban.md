@@ -1,8 +1,11 @@
 ---
+album: Laban 4
 artists:
 - Laban
+external_ids:
+  spotify: spotify:track:75aJSaJWuu6iq48LzKxPuQ
 features: []
-genres: []
+first_released_as_single: false
 key: love-in-siberia-laban
 lyrics_url: https://genius.com/Laban-love-in-siberia-lyrics
 name: Love In Siberia
@@ -23,6 +26,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1986-11-29'
+release_year: 1986
+runtime: 297000
 ---
 I can feel something just ain't right
 I can see when you sleep at night

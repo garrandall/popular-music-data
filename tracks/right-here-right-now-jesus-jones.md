@@ -1,8 +1,11 @@
 ---
+album: Doubt
 artists:
 - Jesus Jones
+external_ids:
+  spotify: spotify:track:3fcGGP62sllcNEhuFJVYeC
 features: []
-genres: []
+first_released_as_single: false
 key: right-here-right-now-jesus-jones
 lyrics_url: https://genius.com/Jesus-jones-right-here-right-now-lyrics
 name: Right Here Right Now
@@ -107,6 +110,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1991-09-28'
+release_year: 1991
+runtime: 189293
 ---
 A woman on the radio talks about revolution
 When it's already passed her by

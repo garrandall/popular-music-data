@@ -1,9 +1,12 @@
 ---
+album: LP1
 artists:
 - Liam Payne
+external_ids:
+  spotify: spotify:track:4Ro98RCK90oHqqSZUnTFq5
 features:
 - Quavo
-genres: []
+first_released_as_single: true
 key: strip-that-down-liam-payne-quavo
 lyrics_url: https://www.azlyrics.com/lyrics/liampayne/stripthatdown.html
 name: Strip That Down
@@ -120,9 +123,9 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '2017-12-16'
+release_year: 2017
+runtime: 204502
 ---
-
-
 Huncho
 Quavo
 Yo yo
@@ -243,6 +246,3 @@ Yeah, yeah, yeah, yeah
 You're the one, girl,
 C'mon, strip that down for me
 Yeah, yeah, yeah, yeah
-
-
-

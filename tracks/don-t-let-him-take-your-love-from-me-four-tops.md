@@ -1,8 +1,11 @@
 ---
+album: Four Tops Now
 artists:
 - Four Tops
+external_ids:
+  spotify: spotify:track:1wVNVHIywYAfHuVgdHXr3p
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-let-him-take-your-love-from-me-four-tops
 lyrics_url: https://www.musixmatch.com/lyrics/Four-Tops-3/Don-t-Let-Him-Take-Your-Love-From-Me-1
 name: Don't Let Him Take Your Love From Me
@@ -35,6 +38,8 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1970-01-17'
+release_year: 1969
+runtime: 173573
 ---
 Hm, baby, baby, baby, baby, baby
 You don't have to tell me you've gone to found someone new.

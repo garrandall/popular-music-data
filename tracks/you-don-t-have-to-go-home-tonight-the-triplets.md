@@ -1,8 +1,11 @@
 ---
+album: Thicker Than Water
 artists:
 - The Triplets
+external_ids:
+  spotify: spotify:track:4T4SmH3nUX8FnxjAZ6RXE6
 features: []
-genres: []
+first_released_as_single: false
 key: you-don-t-have-to-go-home-tonight-the-triplets
 lyrics_url: https://genius.com/The-triplets-you-dont-have-to-go-home-tonight-lyrics
 name: You Don't Have To Go Home Tonight
@@ -71,6 +74,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1991-06-29'
+release_year: 1991
+runtime: 239333
 ---
 Come over my head
 I'm in too deep

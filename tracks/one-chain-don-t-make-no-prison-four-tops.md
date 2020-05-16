@@ -1,8 +1,11 @@
 ---
+album: Meeting Of The Minds
 artists:
 - Four Tops
+external_ids:
+  spotify: spotify:track:7ANkG0b2VrBHInwnT5Akvw
 features: []
-genres: []
+first_released_as_single: false
 key: one-chain-don-t-make-no-prison-four-tops
 lyrics_url: https://genius.com/The-four-tops-one-chain-dont-make-no-prison-lyrics
 name: One Chain Don't Make No Prison
@@ -39,6 +42,8 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '1974-06-22'
+release_year: 1974
+runtime: 246626
 ---
 Just because in a moment of madness
 I took advantage of your sweet love

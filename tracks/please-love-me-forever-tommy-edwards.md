@@ -1,8 +1,11 @@
 ---
+album: "It\u2019s All In The Game: The Best Of Tommy Edwards"
 artists:
 - Tommy Edwards
+external_ids:
+  spotify: spotify:track:6H4YevxmxUxNgDbCRl4GU0
 features: []
-genres: []
+first_released_as_single: false
 key: please-love-me-forever-tommy-edwards
 lyrics_url: https://genius.com/Tommy-edwards-please-love-me-forever-lyrics
 name: Please Love Me Forever
@@ -19,6 +22,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1958-11-03'
+release_year: 1958
+runtime: 154560
 ---
 Please love me forever
 Don't forget me ever

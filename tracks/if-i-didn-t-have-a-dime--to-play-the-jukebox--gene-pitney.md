@@ -1,8 +1,11 @@
 ---
+album: The Best Of Gene Pitney
 artists:
 - Gene Pitney
+external_ids:
+  spotify: spotify:track:4Weq7NHF6XL9tTAyOMq52m
 features: []
-genres: []
+first_released_as_single: false
 key: if-i-didn-t-have-a-dime--to-play-the-jukebox--gene-pitney
 lyrics_url: https://genius.com/Gene-pitney-if-i-didnt-have-a-dime-lyrics
 name: If I Didn't Have A Dime (To Play The Jukebox)
@@ -35,6 +38,8 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1962-10-13'
+release_year: 1962
+runtime: 149586
 ---
 If I didn't have a dime and I didn't take the time
 To play the jukebox

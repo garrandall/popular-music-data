@@ -1,8 +1,11 @@
 ---
+album: The Very Best of, Volume 1
 artists:
 - Joe Tex
+external_ids:
+  spotify: spotify:track:3ZIWniZzllHIeyLxOtUEwt
 features: []
-genres: []
+first_released_as_single: false
 key: you-got-what-it-takes-joe-tex
 lyrics_url: https://genius.com/Joe-tex-you-got-what-it-takes-lyrics
 name: You Got What It Takes
@@ -31,6 +34,8 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '1965-04-03'
+release_year: 1965
+runtime: 136946
 ---
 Some boys say they like your eyes
 I heard some boys say

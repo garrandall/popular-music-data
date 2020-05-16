@@ -1,8 +1,11 @@
 ---
+album: More Life
 artists:
 - Drake
+external_ids:
+  spotify: spotify:track:2dfqS3MRtbLZSZA1IL8xY5
 features: []
-genres: []
+first_released_as_single: false
 key: skepta-interlude-drake
 lyrics_url: https://www.azlyrics.com/lyrics/drake/skeptainterlude.html
 name: Skepta Interlude
@@ -11,9 +14,9 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '2017-04-08'
+release_year: 2017
+runtime: 143213
 ---
-
-
 It's a madness
 Check my account, it's a madness (Mmm)
 Block that account, it's a catfish (Yeah)
@@ -88,6 +91,3 @@ Check my account, that's a madness
 Check my account, that's a madness
 Block that account, it's a catfish
 Block that account, it's a catfish
-
-
-

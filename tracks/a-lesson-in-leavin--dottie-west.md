@@ -1,8 +1,11 @@
 ---
+album: Special Delivery
 artists:
 - Dottie West
+external_ids:
+  spotify: spotify:track:0ImxI6CSbQsrYdhv9C8eUO
 features: []
-genres: []
+first_released_as_single: false
 key: a-lesson-in-leavin--dottie-west
 lyrics_url: https://genius.com/Dottie-west-a-lesson-in-leaving-lyrics
 name: A Lesson In Leavin'
@@ -27,6 +30,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1980-04-05'
+release_year: 1979
+runtime: 180773
 ---
 Somebody's gonna give you
 A lesson in leavin'

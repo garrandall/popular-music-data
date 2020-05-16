@@ -1,8 +1,11 @@
 ---
+album: Bongo Bongo Bongo
 artists:
 - Preston Epps
+external_ids:
+  spotify: spotify:track:1iiOIUbOeHxJHPp1PYoauj
 features: []
-genres: []
+first_released_as_single: false
 key: bongo-rock-preston-epps
 lyrics_url: https://genius.com/Preston-epps-bongo-rock-lyrics
 name: Bongo Rock
@@ -59,6 +62,8 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '1959-08-10'
+release_year: 1959
+runtime: 144080
 ---
 Pd... Musik: Preston Epps ℗1959 ...Pd
 Pd... ®1959; Us Ht#14 ...Pd

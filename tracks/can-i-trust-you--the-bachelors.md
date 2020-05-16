@@ -1,8 +1,11 @@
 ---
+album: The Bachelors - The Decca Years
 artists:
 - The Bachelors
+external_ids:
+  spotify: spotify:track:3rGQZbNH41FZEwkxfAY0nf
 features: []
-genres: []
+first_released_as_single: false
 key: can-i-trust-you--the-bachelors
 lyrics_url: https://www.musixmatch.com/lyrics/The-Bachelors/Can-I-Trust-You
 name: Can I Trust You?
@@ -31,6 +34,8 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1966-08-06'
+release_year: 1966
+runtime: 161840
 ---
 Can I trust you
 Will you hurt me

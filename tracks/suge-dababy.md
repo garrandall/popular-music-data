@@ -1,8 +1,11 @@
 ---
+album: Baby On Baby
 artists:
 - DaBaby
+external_ids:
+  spotify: spotify:track:2gwkD6igEhQbDQegRCcdoB
 features: []
-genres: []
+first_released_as_single: false
 key: suge-dababy
 lyrics_url: https://genius.com/Dababy-suge-lyrics
 name: Suge
@@ -155,6 +158,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2020-01-18'
+release_year: 2019
+runtime: 163320
 ---
 Pooh, you a fool for this one
 Ha

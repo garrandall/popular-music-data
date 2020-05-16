@@ -1,8 +1,11 @@
 ---
+album: The Pye Anthology
 artists:
 - Petula Clark
+external_ids:
+  spotify: spotify:track:5YJ0ZY6FUTJacEExjGwQiq
 features: []
-genres: []
+first_released_as_single: false
 key: look-at-mine-petula-clark
 lyrics_url: https://www.musixmatch.com/lyrics/Petula-Clark/Look-at-Mine
 name: Look At Mine
@@ -19,6 +22,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1969-08-23'
+release_year: 1969
+runtime: 174693
 ---
 Look at mine
 Look at mine, look at mine

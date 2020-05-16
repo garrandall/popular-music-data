@@ -1,8 +1,11 @@
 ---
+album: Songs In The Key Of Life
 artists:
 - Stevie Wonder
+external_ids:
+  spotify: spotify:track:687YZan9Gol1UVvbpUSO6Y
 features: []
-genres: []
+first_released_as_single: false
 key: i-wish-stevie-wonder
 lyrics_url: https://genius.com/Stevie-wonder-i-wish-lyrics
 name: I Wish
@@ -75,6 +78,8 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1977-03-26'
+release_year: 1976
+runtime: 252373
 ---
 Looking back on when I
 Was a little nappy headed boy

@@ -1,8 +1,11 @@
 ---
+album: Cool Christmas Blues
 artists:
 - Charles Brown
+external_ids:
+  spotify: spotify:track:5xXqvovFthbY5sYQ9OrLh1
 features: []
-genres: []
+first_released_as_single: false
 key: please-come-home-for-christmas-charles-brown
 lyrics_url: https://genius.com/Charles-brown-please-come-home-for-christmas-lyrics
 name: Please Come Home For Christmas
@@ -15,6 +18,8 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1962-01-06'
+release_year: 1961
+runtime: 198266
 ---
 Bells will be ringing the glad, glad news
 Oh, what a Christmas to have the blues

@@ -1,8 +1,11 @@
 ---
+album: Enter The Dru
 artists:
 - Dru Hill
+external_ids:
+  spotify: spotify:track:79IjeSGwqOoKrbD1O6KKcu
 features: []
-genres: []
+first_released_as_single: false
 key: you-are-everything-dru-hill
 lyrics_url: https://genius.com/Dru-hill-you-are-everything-lyrics
 name: You Are Everything
@@ -47,6 +50,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1999-08-21'
+release_year: 1998
+runtime: 275266
 ---
 Can I play for you, baby?
 Ayo Woody, help me out

@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music, The Complete Season Three'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:2L35cGDE5vuM2T3Sa6oMFk
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-the-only-one-glee-cast
 lyrics_url: https://www.musixmatch.com/lyrics/Glee-Cast/I-m-the-Only-One
 name: I'm The Only One
@@ -11,6 +14,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2011-12-17'
+release_year: 2011
+runtime: 265920
 ---
 Please baby can't you see
 My mind's a burnin' hell

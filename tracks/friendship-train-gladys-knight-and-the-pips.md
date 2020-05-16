@@ -1,8 +1,11 @@
 ---
+album: Nitty Gritty
 artists:
 - Gladys Knight And The Pips
+external_ids:
+  spotify: spotify:track:6nQk9zPytXbYRB0RKqX8i9
 features: []
-genres: []
+first_released_as_single: false
 key: friendship-train-gladys-knight-and-the-pips
 lyrics_url: https://genius.com/Gladys-knight-and-the-pips-friendship-train-lyrics
 name: Friendship Train
@@ -63,6 +66,8 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '1970-01-24'
+release_year: 1969
+runtime: 230160
 ---
 Calling out to everyone across the nation
 Said the world is in a desperate situation

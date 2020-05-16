@@ -1,8 +1,11 @@
 ---
+album: 'Singin'' & Swingin'': The Best Of Earl Grant'
 artists:
 - Earl Grant
+external_ids:
+  spotify: spotify:track:40Q3NmphsaIOkaIhhtXQQ2
 features: []
-genres: []
+first_released_as_single: false
 key: evening-rain-earl-grant
 lyrics_url: https://www.musixmatch.com/lyrics/Earl-Grant/Evening-Rain
 name: Evening Rain
@@ -35,6 +38,8 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1959-03-09'
+release_year: 1959
+runtime: 161733
 ---
 I see the evening rain
 Against my window pane

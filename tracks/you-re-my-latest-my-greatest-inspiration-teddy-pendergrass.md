@@ -1,8 +1,11 @@
 ---
+album: It's Time For Love
 artists:
 - Teddy Pendergrass
+external_ids:
+  spotify: spotify:track:3KvnF95wCJkQlCxUumLEDe
 features: []
-genres: []
+first_released_as_single: false
 key: you-re-my-latest-my-greatest-inspiration-teddy-pendergrass
 lyrics_url: https://genius.com/Teddy-pendergrass-youre-my-latest-my-greatest-inspiration-lyrics
 name: You're My Latest My Greatest Inspiration
@@ -51,6 +54,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1982-03-20'
+release_year: 1981
+runtime: 321093
 ---
 I've been so many places
 I've seen so many things

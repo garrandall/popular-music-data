@@ -1,8 +1,11 @@
 ---
+album: Public Warning
 artists:
 - Lady Sovereign
+external_ids:
+  spotify: spotify:track:4OikxHAgM14El0wQIyyhP8
 features: []
-genres: []
+first_released_as_single: false
 key: love-me-or-hate-me--f--k-you------lady-sovereign
 lyrics_url: https://genius.com/Lady-sovereign-love-me-or-hate-me-lyrics
 name: Love Me Or Hate Me (F**k You!)
@@ -43,6 +46,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2007-01-20'
+release_year: 2006
+runtime: 209826
 ---
 Yeah!
 It's officially the biggest midget in the game

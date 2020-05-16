@@ -1,9 +1,12 @@
 ---
+album: From Nothin' To Somethin' (Bonus Track Version)
 artists:
 - Fabolous
+external_ids:
+  spotify: spotify:track:0YkJU6TjjwzsVXUPRIO0DB
 features:
 - Ne-Yo
-genres: []
+first_released_as_single: false
 key: make-me-better-fabolous-ne-yo
 lyrics_url: https://www.azlyrics.com/lyrics/fabolous/makemebetter.html
 name: Make Me Better
@@ -92,9 +95,9 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '2007-10-27'
+release_year: 2007
+runtime: 253573
 ---
-
-
 Timbo.
 Hey, Ne-Yo.
 Say what? Lo-So.
@@ -171,4 +174,3 @@ Nice-look Ne-Yo.
 Livin' good Lo-So.
 They ask you how you doin' now, tell 'em better 'den them.
 Ha ha ha ha ha ha.
-

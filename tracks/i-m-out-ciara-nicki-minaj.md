@@ -1,9 +1,12 @@
 ---
+album: Ciara
 artists:
 - Ciara
+external_ids:
+  spotify: spotify:track:3c7MNgwEBQTnrOWLjU1DHq
 features:
 - Nicki Minaj
-genres: []
+first_released_as_single: false
 key: i-m-out-ciara-nicki-minaj
 lyrics_url: https://genius.com/Ciara-im-out-lyrics
 name: I'm Out
@@ -28,6 +31,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2013-08-17'
+release_year: 2013
+runtime: 241613
 ---
 Ladies, it's your song, so as soon as this come on
 You should get out on the floor, go and get your sexy on

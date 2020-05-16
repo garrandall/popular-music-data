@@ -1,8 +1,11 @@
 ---
+album: Life & Times
 artists:
 - Jim Croce
+external_ids:
+  spotify: spotify:track:1O0xeZrBDbq7HPREdmYUYK
 features: []
-genres: []
+first_released_as_single: false
 key: bad-bad-leroy-brown-jim-croce
 lyrics_url: https://www.azlyrics.com/lyrics/jimcroce/badbadleroybrown.html
 name: Bad Bad Leroy Brown
@@ -95,8 +98,9 @@ rankings:
   rank: 37
   ranking_list: Billboard Hot 100
   start_date: '1973-09-15'
+release_year: 1973
+runtime: 182240
 ---
-
 Woah!
 
 Well, the South side of Chicago
@@ -162,6 +166,3 @@ Badder than old King Kong
 And meaner than a junkyard dog
 Yeah, badder than old King Kong
 And meaner than a junkyard dog
-
-
-

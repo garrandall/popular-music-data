@@ -1,8 +1,11 @@
 ---
+album: Bobby Bitch
 artists:
 - Bobby Shmurda
+external_ids:
+  spotify: spotify:track:6j8lAie0mdUNreql5d5Ejz
 features: []
-genres: []
+first_released_as_single: true
 key: bobby-bitch-bobby-shmurda
 lyrics_url: https://genius.com/Bobby-shmurda-bobby-bitch-lyrics
 name: Bobby Bitch
@@ -19,6 +22,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2014-11-29'
+release_year: 2014
+runtime: 160383
 ---
 Bobby, bitch, oh, you ain't know?
 Bobby, bitch, Bobby, bitch

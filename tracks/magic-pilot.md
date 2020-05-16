@@ -1,8 +1,11 @@
 ---
+album: A's, B's And Rarities
 artists:
 - Pilot
+external_ids:
+  spotify: spotify:track:2TSd55BFGI75LVW00mm3c2
 features: []
-genres: []
+first_released_as_single: false
 key: magic-pilot
 lyrics_url: https://genius.com/Pilot-band-magic-lyrics
 name: Magic
@@ -87,6 +90,8 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1975-08-16'
+release_year: 1975
+runtime: 186733
 ---
 Oh, ho, ho
 It's magic you know

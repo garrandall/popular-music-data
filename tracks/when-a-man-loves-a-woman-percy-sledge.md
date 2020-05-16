@@ -1,8 +1,11 @@
 ---
+album: When A Man Loves A Woman
 artists:
 - Percy Sledge
+external_ids:
+  spotify: spotify:track:51FpzuGkRYXFgsE2zXt9av
 features: []
-genres: []
+first_released_as_single: false
 key: when-a-man-loves-a-woman-percy-sledge
 lyrics_url: https://genius.com/Percy-sledge-when-a-man-loves-a-woman-lyrics
 name: When A Man Loves A Woman
@@ -59,6 +62,8 @@ rankings:
   rank: 29
   ranking_list: Billboard Hot 100
   start_date: '1966-07-02'
+release_year: 1966
+runtime: 173866
 ---
 When a man loves a woman
 Can't keep his mind on nothin' else

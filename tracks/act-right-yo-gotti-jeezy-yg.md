@@ -1,10 +1,13 @@
 ---
+album: I Am
 artists:
 - Yo Gotti
+external_ids:
+  spotify: spotify:track:7yz6wjkAV0ZByLrlcrMkAx
 features:
 - Jeezy
 - YG
-genres: []
+first_released_as_single: false
 key: act-right-yo-gotti-jeezy-yg
 lyrics_url: https://www.azlyrics.com/lyrics/yogotti/actright.html
 name: Act Right
@@ -13,9 +16,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2013-09-21'
+release_year: 2013
+runtime: 250773
 ---
-
-
 I'm going going back back to the Bay
 Rest in peace Mac Dre
 All I do is talk yay
@@ -83,4 +86,3 @@ All gold everything like Trinidad
 I went to high school with you bitch you been a rat
 I don't got money problems, I got trust issues
 Two things I gotta stay is with the two pistols
-

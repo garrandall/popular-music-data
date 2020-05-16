@@ -1,8 +1,11 @@
 ---
+album: Mushroom 25 Live
 artists:
 - Models
+external_ids:
+  spotify: spotify:track:2DvoT3UI3t8kd62PXXMHjJ
 features: []
-genres: []
+first_released_as_single: false
 key: out-of-mind-out-of-sight-models
 lyrics_url: https://genius.com/Models-out-of-mind-out-of-sight-lyrics
 name: Out Of Mind Out Of Sight
@@ -59,6 +62,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1986-07-19'
+release_year: 1986
+runtime: 206933
 ---
 Hey hey honey when I'm without you
 I get a chill up and down my spine

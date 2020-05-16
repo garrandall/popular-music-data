@@ -1,8 +1,11 @@
 ---
+album: Wonderful World, Beautiful People
 artists:
 - Jimmy Cliff
+external_ids:
+  spotify: spotify:track:0Gms0Ad9iBfwoInbDbSoLn
 features: []
-genres: []
+first_released_as_single: false
 key: come-into-my-life-jimmy-cliff
 lyrics_url: https://www.azlyrics.com/lyrics/jimmycliff/comeintomylife.html
 name: Come Into My Life
@@ -19,8 +22,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1970-03-28'
+release_year: 1970
+runtime: 175026
 ---
-
 Mmh mmh mmh mmh, yeah
 
 Come into my life, come into my life
@@ -83,6 +87,3 @@ Said I need you, child
 Ah ah yeah, I need your love
 (Come into my life)
 I gotta have you right now
-
-
-

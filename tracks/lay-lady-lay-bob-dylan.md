@@ -1,8 +1,11 @@
 ---
+album: Nashville Skyline
 artists:
 - Bob Dylan
+external_ids:
+  spotify: spotify:track:4uYwlMp841PLJmj1gJJwIq
 features: []
-genres: []
+first_released_as_single: false
 key: lay-lady-lay-bob-dylan
 lyrics_url: https://genius.com/Bob-dylan-lay-lady-lay-lyrics
 name: Lay Lady Lay
@@ -63,6 +66,8 @@ rankings:
   rank: 28
   ranking_list: Billboard Hot 100
   start_date: '1969-10-11'
+release_year: 1969
+runtime: 197093
 ---
 Lay, lady, lay
 Lay across my big brass bed

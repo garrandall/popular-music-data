@@ -1,8 +1,11 @@
 ---
+album: Private Dancer (30th Anniversary Issue)
 artists:
 - Tina Turner
+external_ids:
+  spotify: spotify:track:5JjdJK0uGRUk4skRTuQdUZ
 features: []
-genres: []
+first_released_as_single: false
 key: private-dancer-tina-turner
 lyrics_url: https://www.azlyrics.com/lyrics/tinaturner/privatedancer.html
 name: Private Dancer
@@ -79,8 +82,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1985-05-18'
+release_year: 1984
+runtime: 434373
 ---
-
 Well, the men come in these places
 And the men are all the same
 You don't look at their faces
@@ -157,6 +161,3 @@ I'm your private dancer, a dancer for money
 I'm your private dancer, a dancer for money
 I'm your private dancer, a dancer for money
 Just a private dancer, a dancer for money
-
-
-

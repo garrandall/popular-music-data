@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music, Volume 2'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:7emV91bLzV662TpX9Tmxnr
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-rain-on-my-parade-glee-cast
 lyrics_url: https://genius.com/Glee-cast-dont-rain-on-my-parade-lyrics
 name: Don't Rain On My Parade
@@ -11,6 +14,8 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '2009-12-26'
+release_year: 2009
+runtime: 165493
 ---
 Don't tell me not to live, just sit and putter
 Life's candy and the sun's a ball of butter

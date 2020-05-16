@@ -1,8 +1,11 @@
 ---
+album: Nolan
 artists:
 - Nolan
+external_ids:
+  spotify: spotify:track:2yGCbgGczWs1apieyZy4Zj
 features: []
-genres: []
+first_released_as_single: false
 key: i-like-what-you-give-nolan
 name: I Like What You Give
 rankings:
@@ -38,5 +41,7 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1971-11-20'
+release_year: 1971
+runtime: 191946
 ---
 

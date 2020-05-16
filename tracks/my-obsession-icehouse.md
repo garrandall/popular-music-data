@@ -1,8 +1,11 @@
 ---
+album: Man Of Colours
 artists:
 - Icehouse
+external_ids:
+  spotify: spotify:track:3i4Kxx9CgV9QOAehqpgkuB
 features: []
-genres: []
+first_released_as_single: false
 key: my-obsession-icehouse
 lyrics_url: https://www.azlyrics.com/lyrics/icehouse/myobsession.html
 name: My Obsession
@@ -23,8 +26,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1988-07-30'
+release_year: 1987
+runtime: 248986
 ---
-
 I used to be the one who made you feel
 So safe and strong
 I could always make it right
@@ -62,4 +66,3 @@ So I watch the hours turn
 Until I lose the last lony roy of light
 And I know I can't pretend
 Those shadows won't come out tonight
-

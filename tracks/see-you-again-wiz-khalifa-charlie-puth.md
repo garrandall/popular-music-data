@@ -1,9 +1,12 @@
 ---
+album: See You Again
 artists:
 - Wiz Khalifa
+external_ids:
+  spotify: spotify:track:2JzZzZUQj3Qff7wapcbKjc
 features:
 - Charlie Puth
-genres: []
+first_released_as_single: true
 key: see-you-again-wiz-khalifa-charlie-puth
 lyrics_url: https://genius.com/Wiz-khalifa-feat-charlie-puth-see-you-again-lyrics-lyrics
 name: See You Again
@@ -216,6 +219,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2016-03-19'
+release_year: 2015
+runtime: 229525
 ---
 It's been a long day without you, my friend
 And I'll tell you all about it when I see you again

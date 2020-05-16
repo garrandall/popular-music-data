@@ -1,8 +1,11 @@
 ---
+album: Bayou Country
 artists:
 - Creedence Clearwater Revival
+external_ids:
+  spotify: spotify:track:7xpaGxMTyRzACXol5U7QtI
 features: []
-genres: []
+first_released_as_single: false
 key: proud-mary-creedence-clearwater-revival
 lyrics_url: https://www.azlyrics.com/lyrics/creedenceclearwaterrevival/proudmary.html
 name: Proud Mary
@@ -63,8 +66,9 @@ rankings:
   rank: 23
   ranking_list: Billboard Hot 100
   start_date: '1969-04-26'
+release_year: 1969
+runtime: 184626
 ---
-
 Left a good job in the city,
 Workin' for the man every night and day,
 And I never lost one minute of sleepin',
@@ -97,6 +101,3 @@ Rollin', rollin', rollin' on the river.
 Rollin', rollin', rollin' on the river.
 Rollin', rollin', rollin' on the river.
 Rollin', rollin', rollin' on the river.
-
-
-

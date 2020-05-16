@@ -1,8 +1,11 @@
 ---
+album: 20th Century Masters:The Best Of The Bells
 artists:
 - The Bells
+external_ids:
+  spotify: spotify:track:7vNUGMKj2DSPqqGWYKE7fW
 features: []
-genres: []
+first_released_as_single: false
 key: stay-awhile-the-bells
 lyrics_url: https://genius.com/The-bells-stay-awhile-lyrics
 name: Stay Awhile
@@ -63,6 +66,8 @@ rankings:
   rank: 24
   ranking_list: Billboard Hot 100
   start_date: '1971-06-05'
+release_year: 1971
+runtime: 203013
 ---
 Into my room, he creeps
 Without making a sound

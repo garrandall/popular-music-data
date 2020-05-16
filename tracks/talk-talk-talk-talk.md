@@ -1,8 +1,11 @@
 ---
+album: The Party's Over
 artists:
 - Talk Talk
+external_ids:
+  spotify: spotify:track:6Vipnok4Hf5xpH6eJaxvr0
 features: []
-genres: []
+first_released_as_single: false
 key: talk-talk-talk-talk
 lyrics_url: https://genius.com/A-perfect-circle-talktalk-lyrics
 name: Talk Talk
@@ -35,6 +38,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1982-11-27'
+release_year: 1982
+runtime: 203626
 ---
 You're waiting (you're waiting ...)
 On miracles (on miracles ...)

@@ -1,8 +1,11 @@
 ---
+album: True Story
 artists:
 - Terror Squad
+external_ids:
+  spotify: spotify:track:25fqrbEPDnqe9Bf8RLL7an
 features: []
-genres: []
+first_released_as_single: false
 key: take-me-home-terror-squad
 lyrics_url: https://genius.com/Terror-squad-take-me-home-lyrics
 name: Take Me Home
@@ -71,6 +74,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2005-02-05'
+release_year: 2004
+runtime: 210840
 ---
 She wanna take me home and lay me up inside her home
 She wanna turn me on, breakfast in the morning

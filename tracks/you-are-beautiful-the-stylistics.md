@@ -1,8 +1,11 @@
 ---
+album: You Are Beautiful
 artists:
 - The Stylistics
+external_ids:
+  spotify: spotify:track:70lDiPqiFek7mfpx5ZmKt3
 features: []
-genres: []
+first_released_as_single: false
 key: you-are-beautiful-the-stylistics
 name: You Are Beautiful
 rankings:
@@ -34,5 +37,7 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1976-04-24'
+release_year: 1975
+runtime: 197986
 ---
 

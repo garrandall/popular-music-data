@@ -1,8 +1,11 @@
 ---
+album: Enrique
 artists:
 - Enrique Iglesias
+external_ids:
+  spotify: spotify:track:2bbeNsFmjZqdoDhjLsKNWe
 features: []
-genres: []
+first_released_as_single: false
 key: bailamos-enrique-iglesias
 lyrics_url: https://genius.com/Enrique-iglesias-bailamos-lyrics
 name: Bailamos
@@ -87,6 +90,8 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '1999-11-20'
+release_year: 1999
+runtime: 214066
 ---
 Esta noche bailamos
 Te doy toda mi vida

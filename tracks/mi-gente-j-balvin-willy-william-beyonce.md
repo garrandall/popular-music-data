@@ -1,10 +1,13 @@
 ---
+album: Mi Gente
 artists:
 - J Balvin
 - Willy William
+external_ids:
+  spotify: spotify:track:0GzmMQizDeA2NVMUaZksv0
 features:
 - Beyonce
-genres: []
+first_released_as_single: true
 key: mi-gente-j-balvin-willy-william-beyonce
 lyrics_url: https://genius.com/J-balvin-and-willy-william-mi-gente-beyonce-remix-lyrics
 name: Mi Gente
@@ -129,6 +132,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '2018-02-03'
+release_year: 2017
+runtime: 209733
 ---
 Si el ritmo te lleva a mover la cabeza ya empezamos cómo es
 Mi música no discrimina a nadie así que vamos a romper

@@ -1,8 +1,11 @@
 ---
+album: 3 Years, 5 Months And 2 Days In The Life Of...
 artists:
 - Arrested Development
+external_ids:
+  spotify: spotify:track:1fC7Ff8HOYuR2GMSgHZVwO
 features: []
-genres: []
+first_released_as_single: false
 key: revolution-arrested-development
 lyrics_url: https://genius.com/Arrested-development-revolution-lyrics
 name: Revolution
@@ -31,6 +34,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1993-01-16'
+release_year: 1992
+runtime: 236666
 ---
 (Revolution) (revolution)
 (Revolution) (revolution)...

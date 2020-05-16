@@ -1,8 +1,11 @@
 ---
+album: Way Out Here
 artists:
 - Josh Thompson
+external_ids:
+  spotify: spotify:track:3E9kjnz0hjlCAaNkpDAJLG
 features: []
-genres: []
+first_released_as_single: false
 key: way-out-here-josh-thompson
 lyrics_url: https://www.azlyrics.com/lyrics/joshthompson/wayouthere.html
 name: Way Out Here
@@ -43,8 +46,9 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '2010-11-06'
+release_year: 2010
+runtime: 245960
 ---
-
 Our houses are protected by the good Lord and a gun
 And you might meet 'em both if you show up here not welcome son
 Our necks are burnt, our roads are dirt and our trucks ain't clean
@@ -82,6 +86,3 @@ Way out here, way out here
 
 Our houses are protected by the good Lord and a gun
 And you might meet 'em both if you show up here not welcome son
-
-
-

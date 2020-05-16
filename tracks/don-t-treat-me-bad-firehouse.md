@@ -1,8 +1,11 @@
 ---
+album: Firehouse
 artists:
 - Firehouse
+external_ids:
+  spotify: spotify:track:4lbhQdbiTpNP7GowZG8KsM
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-treat-me-bad-firehouse
 lyrics_url: https://genius.com/Firehouse-dont-treat-me-bad-lyrics
 name: Don't Treat Me Bad
@@ -99,6 +102,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1991-08-10'
+release_year: 1990
+runtime: 235360
 ---
 I never thought you'd hurt me
 I guess you live and learn

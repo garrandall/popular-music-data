@@ -1,9 +1,12 @@
 ---
+album: "Regulate\u2026 G Funk Era"
 artists:
 - Warren G
 - Nate Dogg
+external_ids:
+  spotify: spotify:track:7nYvUtkQMx1v80S2FH2s9J
 features: []
-genres: []
+first_released_as_single: false
 key: regulate-warren-g-nate-dogg
 lyrics_url: https://www.azlyrics.com/lyrics/warreng/regulate.html
 name: Regulate
@@ -88,9 +91,9 @@ rankings:
   rank: 32
   ranking_list: Billboard Hot 100
   start_date: '1994-09-03'
+release_year: 1994
+runtime: 248866
 ---
-
-
 Regulators
 We regulate any stealing of his property
 We're damn good too
@@ -206,6 +209,3 @@ If you smoke like I smoke
 Then you're high like everyday
 And if your ass is a buster
 213 will regulate
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Bobby Vinton's Greatest Hits
 artists:
 - Bobby Vinton
+external_ids:
+  spotify: spotify:track:7dO8y24ZYL7kW3VWhsecCO
 features: []
-genres: []
+first_released_as_single: false
 key: let-s-kiss-and-make-up-bobby-vinton
 lyrics_url: https://www.azlyrics.com/lyrics/bobbyvinton/letskissandmakeup.html
 name: Let's Kiss And Make Up
@@ -43,8 +46,9 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1963-01-26'
+release_year: 1962
+runtime: 147000
 ---
-
 Last night we had a quarrel 
 And I lost my head 
 How silly of me to say 
@@ -72,6 +76,3 @@ Let's kiss and make up
 Why should we break up 
 Say it's not too late yet 
 To forgive and forget
-
-
-

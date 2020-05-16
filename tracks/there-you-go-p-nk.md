@@ -1,8 +1,11 @@
 ---
+album: Can't Take Me Home
 artists:
 - P!nk
+external_ids:
+  spotify: spotify:track:6dJ2mSRaKE9ctYw9qWNGWQ
 features: []
-genres: []
+first_released_as_single: false
 key: there-you-go-p-nk
 lyrics_url: https://genius.com/P-nk-there-you-go-lyrics
 name: There You Go
@@ -135,6 +138,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '2000-10-07'
+release_year: 2000
+runtime: 202800
 ---
 Please don't come around talking about that you love me
 Because that love shit just is not for me

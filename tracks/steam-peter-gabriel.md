@@ -1,8 +1,11 @@
 ---
+album: Us (Remastered Version)
 artists:
 - Peter Gabriel
+external_ids:
+  spotify: spotify:track:4x8g2OO1JhtmZz6psVAEOH
 features: []
-genres: []
+first_released_as_single: false
 key: steam-peter-gabriel
 lyrics_url: https://www.azlyrics.com/lyrics/petergabriel/steam.html
 name: Steam
@@ -67,8 +70,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1993-03-27'
+release_year: 1992
+runtime: 363093
 ---
-
 Stand Back!
 Stand Back!
 
@@ -151,6 +155,3 @@ Give me steam, lady
 Give me steam around me now
 Ah coming alive
 Said give me some steam
-
-
-

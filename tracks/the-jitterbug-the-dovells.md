@@ -1,8 +1,11 @@
 ---
+album: For Your Hully Gully Party/You Can't Sit Down
 artists:
 - The Dovells
+external_ids:
+  spotify: spotify:track:6wDZC8YZ97vV2hBxvx3UVt
 features: []
-genres: []
+first_released_as_single: false
 key: the-jitterbug-the-dovells
 lyrics_url: https://genius.com/The-dovells-the-jitterbug-lyrics
 name: The Jitterbug
@@ -19,6 +22,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1962-12-08'
+release_year: 1962
+runtime: 135920
 ---
 Can you dance?
 Here's your chance

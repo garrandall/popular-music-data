@@ -1,8 +1,11 @@
 ---
+album: Singles Plus
 artists:
 - Johnny Cash
+external_ids:
+  spotify: spotify:track:1YR24sA6nsntEjaYhoj6QW
 features: []
-genres: []
+first_released_as_single: false
 key: second-honeymoon-johnny-cash
 lyrics_url: https://www.azlyrics.com/lyrics/johnnycash/secondhoneymoon.html
 name: Second Honeymoon
@@ -23,8 +26,9 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1960-07-25'
+release_year: 1960
+runtime: 114546
 ---
-
 I walked up to the desk and asked the man about a room
 I asked about the bridal suite, I told him I'm the groom
 Then I took the elevator to the floor I was assigned
@@ -43,6 +47,3 @@ The blushing bride that gave me such a free and eager kiss
 Two loving arms around me as you offered wedded bliss
 We'd said that we'd return to live it over in this room
 But I'm alone on our second honeymoon
-
-
-

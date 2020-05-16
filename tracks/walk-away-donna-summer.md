@@ -1,8 +1,11 @@
 ---
+album: Bad Girls
 artists:
 - Donna Summer
+external_ids:
+  spotify: spotify:track:2vMBiLBgYY8AYFTBjBAAQ0
 features: []
-genres: []
+first_released_as_single: false
 key: walk-away-donna-summer
 lyrics_url: https://www.azlyrics.com/lyrics/donnasummer/walkaway.html
 name: Walk Away
@@ -51,8 +54,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1980-11-22'
+release_year: 1979
+runtime: 272413
 ---
-
 Just another emotion
 Is this something more
 If it's only a passionate phase
@@ -113,6 +117,3 @@ When you know that I need you
 Here by my side
 
 (Don't) walk away...
-
-
-

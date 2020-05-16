@@ -1,8 +1,11 @@
 ---
+album: Johnny Otis Presents Eldo Records Featuring Image of a Girl
 artists:
 - Safaris
+external_ids:
+  spotify: spotify:track:7KfwGraITe6aLd827Wq0bh
 features: []
-genres: []
+first_released_as_single: false
 key: image-of-a-girl-safaris-with-the-phantom-s-band
 lyrics_url: https://genius.com/The-safaris-image-of-a-girl-lyrics
 name: Image Of A Girl
@@ -79,6 +82,8 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1960-10-03'
+release_year: 1960
+runtime: 162266
 ---
 As I lie awake resting from the day
 I can hear the clock passing time away

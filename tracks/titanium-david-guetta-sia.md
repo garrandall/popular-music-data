@@ -1,9 +1,12 @@
 ---
+album: Nothing but the Beat 2.0
 artists:
 - David Guetta
+external_ids:
+  spotify: spotify:track:2h4AMOhyQ9UyYCXzeVD1v0
 features:
 - Sia
-genres: []
+first_released_as_single: false
 key: titanium-david-guetta-sia
 lyrics_url: https://www.azlyrics.com/lyrics/davidguetta/titanium.html
 name: Titanium
@@ -140,8 +143,9 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2012-12-08'
+release_year: 2011
+runtime: 397513
 ---
-
 You shout it out, but I can't hear a word you say
 I'm talking loud, not saying much
 I'm criticized, but all your bullets ricochet
@@ -187,6 +191,3 @@ I am titanium
 You shoot me down, but I won't fall
 I am titanium
 I am titanium
-
-
-

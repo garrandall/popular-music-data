@@ -1,8 +1,11 @@
 ---
+album: Be Here
 artists:
 - Keith Urban
+external_ids:
+  spotify: spotify:track:2jwaErbghhcia4JqUYWz3g
 features: []
-genres: []
+first_released_as_single: false
 key: days-go-by-keith-urban
 lyrics_url: https://genius.com/Keith-urban-days-go-by-lyrics
 name: Days Go By
@@ -87,6 +90,8 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '2004-12-04'
+release_year: 2004
+runtime: 224629
 ---
 Oh, yeah, yeah, yeah
 

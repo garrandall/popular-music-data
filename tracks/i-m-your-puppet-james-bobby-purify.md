@@ -1,9 +1,12 @@
 ---
+album: James & Bobby Purify
 artists:
 - James
 - Bobby Purify
+external_ids:
+  spotify: spotify:track:0p9GbPgwjZW6kvuO9o7iyU
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-your-puppet-james-bobby-purify
 lyrics_url: https://genius.com/James-and-bobby-purify-im-your-puppet-lyrics
 name: I'm Your Puppet
@@ -64,6 +67,8 @@ rankings:
   rank: 36
   ranking_list: Billboard Hot 100
   start_date: '1966-12-24'
+release_year: 1962
+runtime: 179346
 ---
 Pull the string and I'll wink at you
 I'm your puppet

@@ -1,8 +1,11 @@
 ---
+album: Summer Pack
 artists:
 - Childish Gambino
+external_ids:
+  spotify: spotify:track:4j3GWI86JvSaF0BLdmgcfF
 features: []
-genres: []
+first_released_as_single: true
 key: summertime-magic-childish-gambino
 lyrics_url: https://www.azlyrics.com/lyrics/childishgambino/summertimemagic.html
 name: Summertime Magic
@@ -27,8 +30,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2018-09-15'
+release_year: 2018
+runtime: 213600
 ---
-
 You feel like summertime
 You took this heart of mine
 You be my valentine in the summer
@@ -98,6 +102,3 @@ Put no one else above you
 Do love me, do love me, do
 Do love me, do love me, do
 It's just summertime, it's just summertime magic
-
-
-

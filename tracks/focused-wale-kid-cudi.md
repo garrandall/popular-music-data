@@ -1,9 +1,12 @@
 ---
+album: Ambition
 artists:
 - Wale
+external_ids:
+  spotify: spotify:track:4w27lZ9zcceZp6rumzGCBx
 features:
 - Kid Cudi
-genres: []
+first_released_as_single: false
 key: focused-wale-kid-cudi
 lyrics_url: https://genius.com/Wale-focused-lyrics
 name: Focused
@@ -12,6 +15,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2011-11-05'
+release_year: 2011
+runtime: 212333
 ---
 Shawty no jokin'
 And I'm hopin'

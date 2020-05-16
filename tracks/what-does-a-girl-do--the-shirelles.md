@@ -1,8 +1,11 @@
 ---
+album: The Very Best Of...
 artists:
 - The Shirelles
+external_ids:
+  spotify: spotify:track:50Murp0DfSrvrFkiCRODtj
 features: []
-genres: []
+first_released_as_single: false
 key: what-does-a-girl-do--the-shirelles
 lyrics_url: https://genius.com/The-shirelles-what-does-a-girl-do-lyrics
 name: What Does A Girl Do?
@@ -31,6 +34,8 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '1963-10-12'
+release_year: 1963
+runtime: 151586
 ---
 When a boy meets a girl
 That he wants to get to know

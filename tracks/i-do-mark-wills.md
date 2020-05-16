@@ -1,8 +1,11 @@
 ---
+album: Wish You Were Here
 artists:
 - Mark Wills
+external_ids:
+  spotify: spotify:track:24SM5UDYgjEzNUcVu2cURV
 features: []
-genres: []
+first_released_as_single: false
 key: i-do-mark-wills
 lyrics_url: https://genius.com/Mark-wills-all-the-crap-i-do-lyrics
 name: I Do
@@ -59,6 +62,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1998-08-01'
+release_year: 1998
+runtime: 199706
 ---
 All the crap I do, I don't know why
 My demons fight my angels and beat 'em every time

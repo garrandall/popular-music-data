@@ -1,8 +1,11 @@
 ---
+album: Diana
 artists:
 - Diana Ross
+external_ids:
+  spotify: spotify:track:3pbtBomO4Zt5gGiqsYeiBH
 features: []
-genres: []
+first_released_as_single: false
 key: upside-down-diana-ross
 lyrics_url: https://genius.com/Diana-ross-upside-down-lyrics
 name: Upside Down
@@ -123,6 +126,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1981-01-24'
+release_year: 1980
+runtime: 245600
 ---
 I said, "Upside down, you're turning me."
 You're giving love instinctively

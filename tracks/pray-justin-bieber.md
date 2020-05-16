@@ -1,8 +1,11 @@
 ---
+album: My Worlds Acoustic
 artists:
 - Justin Bieber
+external_ids:
+  spotify: spotify:track:0kQirFeMMngR2i4cek5PwL
 features: []
-genres: []
+first_released_as_single: false
 key: pray-justin-bieber
 lyrics_url: https://genius.com/Justin-bieber-pray-lyrics
 name: Pray
@@ -23,6 +26,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2011-03-19'
+release_year: 2010
+runtime: 212920
 ---
 Oh oh oh, whoa
 Oh oh oh, whoa

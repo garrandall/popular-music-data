@@ -1,8 +1,11 @@
 ---
+album: Slippery When Wet
 artists:
 - Bon Jovi
+external_ids:
+  spotify: spotify:track:0rmGAIH9LNJewFw7nKzZnc
 features: []
-genres: []
+first_released_as_single: false
 key: you-give-love-a-bad-name-bon-jovi
 lyrics_url: https://genius.com/Bon-jovi-you-give-love-a-bad-name-lyrics
 name: You Give Love A Bad Name
@@ -103,6 +106,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1987-02-14'
+release_year: 1986
+runtime: 222706
 ---
 Shot through the heart and you're to blame
 Darling, you give love a bad name

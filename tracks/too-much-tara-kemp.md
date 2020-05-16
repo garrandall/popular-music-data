@@ -1,8 +1,11 @@
 ---
+album: Tara Kemp
 artists:
 - Tara Kemp
+external_ids:
+  spotify: spotify:track:4Fx6lhR3lRy3dP0yKtD64D
 features: []
-genres: []
+first_released_as_single: false
 key: too-much-tara-kemp
 lyrics_url: https://genius.com/Tara-kemp-too-much-lyrics
 name: Too Much
@@ -15,6 +18,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1991-11-02'
+release_year: 1991
+runtime: 296966
 ---
 Too much for us to hold on to
 In a world where we can't be

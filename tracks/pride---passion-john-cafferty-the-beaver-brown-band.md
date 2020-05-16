@@ -1,9 +1,12 @@
 ---
+album: 'Eddie & The Cruisers II: Eddie Lives'
 artists:
 - John Cafferty
 - The Beaver Brown Band
+external_ids:
+  spotify: spotify:track:3Qh01z2TD1B8RTyQ2s9Obp
 features: []
-genres: []
+first_released_as_single: false
 key: pride---passion-john-cafferty-the-beaver-brown-band
 lyrics_url: https://www.azlyrics.com/lyrics/johncaffertythebeaverbrownband/pridepassion.html
 name: Pride & Passion
@@ -36,8 +39,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1989-09-09'
+release_year: 1989
+runtime: 210133
 ---
-
 I don't run for the money honey
 It don't mean a thing
 and the power and the glory
@@ -87,6 +91,3 @@ Talkin' bout the pride and passion
 And the thrill of it all
 Talkin' bout the pride and passion
 And the thrill of it all
-
-
-

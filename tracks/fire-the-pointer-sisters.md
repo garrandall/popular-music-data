@@ -1,8 +1,11 @@
 ---
+album: Energy
 artists:
 - The Pointer Sisters
+external_ids:
+  spotify: spotify:track:65lHwG8JFJs67PnOUhCYPq
 features: []
-genres: []
+first_released_as_single: false
 key: fire-the-pointer-sisters
 lyrics_url: https://www.azlyrics.com/lyrics/pointersisters/fire.html
 name: Fire
@@ -99,8 +102,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1979-04-14'
+release_year: 1978
+runtime: 210640
 ---
-
 I'm ridin' in your car
 You turn on the radio
 You're pullin' me close
@@ -148,6 +152,3 @@ Touchin' me
 Burnin' me
 Fire
 Take me home
-
-
-

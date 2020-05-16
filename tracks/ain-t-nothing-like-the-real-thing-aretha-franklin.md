@@ -1,8 +1,11 @@
 ---
+album: Let Me In Your Life
 artists:
 - Aretha Franklin
+external_ids:
+  spotify: spotify:track:2ZLTVGtWmEnuWzTmFPSyvz
 features: []
-genres: []
+first_released_as_single: false
 key: ain-t-nothing-like-the-real-thing-aretha-franklin
 lyrics_url: https://genius.com/Aretha-franklin-aint-nothing-like-the-real-thing-lyrics
 name: Ain't Nothing Like The Real Thing
@@ -35,6 +38,8 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '1974-10-12'
+release_year: 1974
+runtime: 229960
 ---
 There ain't nothing like the real thing, baby
 There ain't nothing like the real thing

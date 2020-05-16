@@ -1,8 +1,11 @@
 ---
+album: Chicago 19
 artists:
 - Chicago
+external_ids:
+  spotify: spotify:track:7AELLxxqxpgncqKjrnhoBr
 features: []
-genres: []
+first_released_as_single: false
 key: you-re-not-alone-chicago
 lyrics_url: https://genius.com/Chicago-youre-not-alone-lyrics
 name: You're Not Alone
@@ -75,6 +78,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1989-05-13'
+release_year: 1988
+runtime: 236653
 ---
 I see you there, a silhouette in the moonlight
 Looks like you've given up on love

@@ -1,8 +1,11 @@
 ---
+album: The Temptations Sing Smokey
 artists:
 - The Temptations
+external_ids:
+  spotify: spotify:track:745H5CctFr12Mo7cqa1BMH
 features: []
-genres: []
+first_released_as_single: false
 key: my-girl-the-temptations
 lyrics_url: https://genius.com/The-temptations-my-girl-lyrics
 name: My Girl
@@ -59,6 +62,8 @@ rankings:
   rank: 29
   ranking_list: Billboard Hot 100
   start_date: '1965-04-10'
+release_year: 1965
+runtime: 165000
 ---
 I've got sunshine on a cloudy day
 When it's cold outside, I've got the month of May

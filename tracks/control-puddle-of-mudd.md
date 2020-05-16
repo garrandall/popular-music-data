@@ -1,8 +1,11 @@
 ---
+album: Come Clean
 artists:
 - Puddle Of Mudd
+external_ids:
+  spotify: spotify:track:7eGaKeURfqALME31Xqw6GF
 features: []
-genres: []
+first_released_as_single: false
 key: control-puddle-of-mudd
 lyrics_url: https://www.azlyrics.com/lyrics/puddleofmudd/control.html
 name: Control
@@ -87,8 +90,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2002-02-23'
+release_year: 2001
+runtime: 230093
 ---
-
 I love the way you look at me
 I feel the pain you place inside
 you lock me up inside your dirty cage
@@ -150,6 +154,3 @@ So why's there even you and me...
 
 
 You're not the one for me, no
-
-
-

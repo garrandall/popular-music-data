@@ -1,8 +1,11 @@
 ---
+album: George Maharis Sings!
 artists:
 - George Maharis
+external_ids:
+  spotify: spotify:track:3s6pnpgC7aDwR6tSByPpef
 features: []
-genres: []
+first_released_as_single: false
 key: teach-me-tonight-george-maharis
 lyrics_url: https://genius.com/George-maharis-teach-me-tonight-lyrics
 name: Teach Me Tonight
@@ -51,6 +54,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1962-06-30'
+release_year: 1962
+runtime: 171693
 ---
 Did you say (that) I've got a lot to learn
 Well don't think I'm trying not to learn

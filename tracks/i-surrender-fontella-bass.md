@@ -1,8 +1,11 @@
 ---
+album: No Ways Tired
 artists:
 - Fontella Bass
+external_ids:
+  spotify: spotify:track:3osIiNeeYjPJrIbl24qw4G
 features: []
-genres: []
+first_released_as_single: false
 key: i-surrender-fontella-bass
 lyrics_url: https://genius.com/Fontella-bass-i-surrender-lyrics
 name: I Surrender
@@ -31,6 +34,8 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1966-04-30'
+release_year: 1966
+runtime: 179000
 ---
 I surrender
 I give my love to you

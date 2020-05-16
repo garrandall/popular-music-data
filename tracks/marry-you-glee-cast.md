@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music, Volume 4'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:3IFo5x0HWlvRu0QIAtefor
 features: []
-genres: []
+first_released_as_single: false
 key: marry-you-glee-cast
 lyrics_url: https://www.azlyrics.com/lyrics/gleecast/marryyou.html
 name: Marry You
@@ -15,8 +18,9 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '2010-12-18'
+release_year: 2010
+runtime: 225133
 ---
-
 It's a beautiful night,
 We're looking for something dumb to do.
 Hey baby,
@@ -91,6 +95,3 @@ Is it the look in your eyes,
 Or is it this dancing juice?
 Who cares baby,
 I think I wanna marry you.
-
-
-

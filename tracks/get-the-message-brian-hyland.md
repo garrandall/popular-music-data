@@ -1,8 +1,11 @@
 ---
+album: Chronology
 artists:
 - Brian Hyland
+external_ids:
+  spotify: spotify:track:2Gg6aMWjkpyRp4IkAXHKHp
 features: []
-genres: []
+first_released_as_single: false
 key: get-the-message-brian-hyland
 lyrics_url: https://genius.com/Brian-hyland-get-the-message-lyrics
 name: Get The Message
@@ -15,6 +18,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1967-08-19'
+release_year: 1967
+runtime: 163200
 ---
 I can't seem to quite get through to you, baby
 Looks like your reception isn't too clear

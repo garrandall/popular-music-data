@@ -1,8 +1,11 @@
 ---
+album: Love At First Sting
 artists:
 - Scorpions
+external_ids:
+  spotify: spotify:track:7kjsCbksOZotNNHOvKsJJh
 features: []
-genres: []
+first_released_as_single: false
 key: still-loving-you-scorpions
 lyrics_url: https://genius.com/Scorpions-still-loving-you-lyrics
 name: Still Loving You
@@ -31,6 +34,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1984-08-11'
+release_year: 1984
+runtime: 387000
 ---
 Time, it needs time
 To win back your love again

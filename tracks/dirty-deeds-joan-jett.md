@@ -1,8 +1,11 @@
 ---
+album: The Hit List
 artists:
 - Joan Jett
+external_ids:
+  spotify: spotify:track:5EmjBlrR2TzVzyveICMllj
 features: []
-genres: []
+first_released_as_single: false
 key: dirty-deeds-joan-jett
 lyrics_url: https://www.azlyrics.com/lyrics/joanjettandtheblackhearts/dirtydeeds.html
 name: Dirty Deeds
@@ -47,8 +50,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1990-03-31'
+release_year: 1990
+runtime: 197760
 ---
-
 If you're havin' trouble with the high school head
 He's givin' you the blues
 You wanna graduate but not in his bed
@@ -87,6 +91,3 @@ Done dirt cheap
 Done dirt cheap
 Done dirt cheap
 Done dirt cheap
-
-
-

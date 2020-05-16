@@ -1,8 +1,12 @@
 ---
+album: Bella Donna
 artists:
-- Stevie Nicks With Don Henley
-features: []
-genres: []
+- Stevie Nicks
+external_ids:
+  spotify: spotify:track:7kXM2obnaUVl014k00cdhF
+features:
+- Don Henley
+first_released_as_single: false
 key: leather-and-lace-stevie-nicks-with-don-henley
 name: Leather And Lace
 rankings:
@@ -82,5 +86,7 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1982-02-27'
+release_year: 1981
+runtime: 225573
 ---
 

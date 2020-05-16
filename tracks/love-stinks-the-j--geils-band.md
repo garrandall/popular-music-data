@@ -1,8 +1,11 @@
 ---
+album: Love Stinks
 artists:
 - The J. Geils Band
+external_ids:
+  spotify: spotify:track:3K9QlS0VCtkzUvo0HY75VE
 features: []
-genres: []
+first_released_as_single: false
 key: love-stinks-the-j--geils-band
 lyrics_url: https://www.azlyrics.com/lyrics/jgeilsband/lovestinks.html
 name: Love Stinks
@@ -55,8 +58,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1980-06-28'
+release_year: 1980
+runtime: 224560
 ---
-
 You love her
 But she loves him
 And he loves somebody else
@@ -140,6 +144,3 @@ Love stinks (Love stinks)
 Yeah, yeah
 (Love stinks)
 Love stinks (Love stinks)
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Sings Heart Songs
 artists:
 - Charley Pride
+external_ids:
+  spotify: spotify:track:37GWhu8R61gTStMvVQfDuE
 features: []
-genres: []
+first_released_as_single: false
 key: kiss-an-angel-good-mornin--charley-pride
 lyrics_url: https://www.azlyrics.com/lyrics/charleypride/kissanangelgoodmornin.html
 name: Kiss An Angel Good Mornin'
@@ -71,8 +74,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1972-03-04'
+release_year: 1971
+runtime: 123466
 ---
-
 Whenever I chance to meet some old friends on the street
 They wonder how does a man get to be this way
 I've always got a smilin' face any time and any place
@@ -87,6 +91,3 @@ The secret I'm speaking of is a woman and a man in love
 And the answer is in the song that I always sing
 You've got to kiss an angel good mornin'...
 Kiss an angel good mornin'...
-
-
-

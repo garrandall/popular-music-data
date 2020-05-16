@@ -1,8 +1,11 @@
 ---
+album: Fox
 artists:
 - Fox
+external_ids:
+  spotify: spotify:track:1sICzrKDn6RQZRnIIRB9PM
 features: []
-genres: []
+first_released_as_single: false
 key: only-you-can-fox
 lyrics_url: https://genius.com/Fox-jw-only-you-can-lyrics
 name: Only You Can
@@ -39,6 +42,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1975-10-11'
+release_year: 1975
+runtime: 207213
 ---
 Who can fly my heart like a bamboo kite
 Make it twirl and gyrate just like a gyro delight

@@ -1,8 +1,11 @@
 ---
+album: Greg Lake
 artists:
 - Greg Lake
+external_ids:
+  spotify: spotify:track:76KSRvDh2Sj2KdCLuNS0L7
 features: []
-genres: []
+first_released_as_single: false
 key: let-me-love-you-once-greg-lake
 lyrics_url: https://genius.com/Greg-lake-let-me-love-you-once-lyrics
 name: Let Me Love You Once
@@ -47,6 +50,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1982-01-23'
+release_year: 1981
+runtime: 258053
 ---
 When there's something I can't have
 I only want it more

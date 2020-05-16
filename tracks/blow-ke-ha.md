@@ -1,8 +1,11 @@
 ---
+album: Cannibal
 artists:
 - Kesha
+external_ids:
+  spotify: spotify:track:3pYDZTJM2tVBUhIRifWVzI
 features: []
-genres: []
+first_released_as_single: false
 key: blow-ke-ha
 lyrics_url: https://www.azlyrics.com/lyrics/keha/blowremix.html
 name: Blow
@@ -111,6 +114,8 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '2011-07-30'
+release_year: 2010
+runtime: 219973
 ---
 BLOWWWW BLOOOWWWW
 

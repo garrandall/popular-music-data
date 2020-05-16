@@ -1,8 +1,11 @@
 ---
+album: Live As It Gets
 artists:
 - The Temptations
+external_ids:
+  spotify: spotify:track:3PbgV4gC1U1we6i0PaF22v
 features: []
-genres: []
+first_released_as_single: false
 key: run-away-child-running-wild-the-temptations
 lyrics_url: https://www.azlyrics.com/lyrics/temptations/runawaychildrunningwild.html
 name: Run Away Child Running Wild
@@ -55,8 +58,9 @@ rankings:
   rank: 26
   ranking_list: Billboard Hot 100
   start_date: '1969-05-03'
+release_year: 1969
+runtime: 303053
 ---
-
 You played hooky from school
 And you can't go out to play, yeah
 Mama said for the rest of the week
@@ -123,6 +127,3 @@ But she's much too far away
 She can't hear a word you say I want my mama
 You're frightened and confused
 Which way will you choose
-
-
-

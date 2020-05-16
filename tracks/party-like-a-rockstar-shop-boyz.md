@@ -1,8 +1,11 @@
 ---
+album: Street Swag, Vol. 2
 artists:
 - Shop Boyz
+external_ids:
+  spotify: spotify:track:39f1z90tPI650Fak3YAi4I
 features: []
-genres: []
+first_released_as_single: false
 key: party-like-a-rockstar-shop-boyz
 lyrics_url: https://genius.com/Shop-boyz-party-like-a-rockstar-lyrics
 name: Party Like A Rockstar
@@ -95,17 +98,19 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '2007-09-29'
+release_year: 2007
+runtime: 253466
 ---
 Y-y-yeah!
 Y-y-yeah!
 Y-y-yeah!
 Y-y-yeah!
-(T-t-t-totally duuuude!)
+(Totally dude!)
 
 Party like a rock - party like a rock star
 Party like a rock - party like a rock star
 Party like a rock - party like a rock star
-Party like a rockstar (T-t-t-totally duuuude!)
+Party like a rockstar (Totally dude!)
 
 I'm on a money makin mission but I party like a rock star
 Flyin' down 20 lookin' good in my hot car
@@ -113,36 +118,36 @@ You know dem hoes be at my show, grabbin where my chain go
 I'm tryna grab and hold my pants but these hoes won't let my thang go
 I DO like I DO, cause you know da hoes be tryin dat
 Ho don't you know I fuck wit fine dimes that look like Pamela
-They fine and they hot brah, when I'm in the spot, brah... (yeah..)
-I PARTY LIKE A ROCKSTAAAAAR!
+They fine and they hot brah, when I'm in the spot, brah (yeah)
+I PARTY LIKE A ROCKSTAR!
 
 Party like a rock - party like a rock star
 Party like a rock - party like a rock star
 Party like a rock - party like a rock star
-Party like a rockstar (T-t-t-totally duuuude!)
+Party like a rockstar (Totally dude!)
 Party like a rock - party like a rock star
 Party like a rock - party like a rock star
 Party like a rock - party like a rock star
-Party like a rockstar (T-t-t-totally duuuude!)
+Party like a rockstar (Totally dude!)
 
-IIIII... (IIII...) - party like a rock star
+I - I - party like a rock star
 Do it wit the black, and the white, like a cop car
 (Yeah!) WHOOP, WHOOP! Me and my band, man
-On the yacht wit Marilyn Manson, gettin a tan maaaan!
+On the yacht wit Marilyn Manson, gettin a tan man!
 (Cool!) You know me, wit a skull belt and wallet chain
 Shop Boyz, rock stars, yeah we bout to change the game
 (Change the game? Uh oh!)
 They know that I'm a star (I'm a star)
-I make it rain from the center of my gui-tar
+I make it rain from the center of my guitar
 
 Party like a rock - party like a rock star
 Party like a rock - party like a rock star
 Party like a rock - party like a rock star
-Party like a rockstar (T-t-t-totally duuuude!)
+Party like a rockstar (Totally dude!)
 Party like a rock - party like a rock star
 Party like a rock - party like a rock star
 Party like a rock - party like a rock star
-Party like a rockstar (T-t-t-totally duuuude!)
+Party like a rockstar (Totally dude!)
 
 As soon as I came out the womb, my momma knew a star was born
 Now I'm on the golf course, trippin wit the Osbournes
@@ -151,22 +156,22 @@ I'm jumpin in the crowd just to see if they would carry me
 Bitches wanna marry me, they see me they just might panic
 My ice make em go down quick, like the Titanic!
 Yeah, I'm wit Da Shop Boyz, you know what we do
-I'm surfin screamin "Cowabonga, TOTALLY DUUUDE!"
+I'm surfin screamin "Cowabonga, totally dude!"
 
 Party like a rock - party like a rock star
 Party like a rock - party like a rock star
 Party like a rock - party like a rock star
-Party like a rockstar (T-t-t-totally duuuude!)
+Party like a rockstar (Totally dude!)
 Party like a rock - party like a rock star
 Party like a rock - party like a rock star
 Party like a rock - party like a rock star
-Party like a rockstar (T-t-t-totally duuuude!)
-(T-t-t-totally duuuude!)
+Party like a rockstar (Totally dude!)
+(T-t-t-totally dude!)
 Party like a rock - party like a rock star
 Party like a rock - party like a rock star
 Party like a rock - party like a rock star
-Party like a rockstar (T-t-t-totally duuuude!)
+Party like a rockstar (Totally dude!)
 Party like a rock - party like a rock star
 Party like a rock - party like a rock star
 Party like a rock - party like a rock star
-Party like a rockstar (T-t-t-totally duuuude!)
+Party like a rockstar (Totally dude!)

@@ -1,8 +1,11 @@
 ---
+album: Mariah Carey
 artists:
 - Mariah Carey
+external_ids:
+  spotify: spotify:track:48l7PNpT2fBoT4cdLW6EzP
 features: []
-genres: []
+first_released_as_single: false
 key: love-takes-time-mariah-carey
 lyrics_url: https://genius.com/Mariah-carey-love-takes-time-lyrics
 name: Love Takes Time
@@ -111,6 +114,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1991-03-09'
+release_year: 1990
+runtime: 229226
 ---
 I had it all but I let it slip away
 Couldn't see I treated you wrong

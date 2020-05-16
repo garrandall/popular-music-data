@@ -1,8 +1,11 @@
 ---
+album: Friends
 artists:
 - The Beach Boys
+external_ids:
+  spotify: spotify:track:0vKTQKH82qOthIyP4L9Tk9
 features: []
-genres: []
+first_released_as_single: false
 key: friends-the-beach-boys
 lyrics_url: https://genius.com/The-beach-boys-friends-lyrics
 name: Friends
@@ -35,6 +38,8 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '1968-06-01'
+release_year: 1968
+runtime: 153026
 ---
 We've been friends now for so many years
 We've been together through the good times and the tears

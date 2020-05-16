@@ -1,8 +1,11 @@
 ---
+album: '1984'
 artists:
 - Van Halen
+external_ids:
+  spotify: spotify:track:2TIKWWCf6qAtVP6AGa7e9k
 features: []
-genres: []
+first_released_as_single: false
 key: i-ll-wait-van-halen
 lyrics_url: https://genius.com/Van-halen-ill-wait-lyrics
 name: I'll Wait
@@ -63,6 +66,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1984-07-14'
+release_year: 1984
+runtime: 280146
 ---
 You've got me captured, I'm under your spell
 I guess I'll never learn

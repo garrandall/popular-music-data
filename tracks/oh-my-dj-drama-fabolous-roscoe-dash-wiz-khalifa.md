@@ -1,11 +1,14 @@
 ---
+album: Third Power
 artists:
 - DJ Drama
+external_ids:
+  spotify: spotify:track:0C4C6Zw6zdg3HFyt8Gl56w
 features:
 - Fabolous
 - Roscoe Dash
 - Wiz Khalifa
-genres: []
+first_released_as_single: true
 key: oh-my-dj-drama-fabolous-roscoe-dash-wiz-khalifa
 lyrics_url: https://www.azlyrics.com/lyrics/djdrama/ohmy.html
 name: Oh My
@@ -22,9 +25,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2011-08-20'
+release_year: 2011
+runtime: 263686
 ---
-
-
 Light skinned, dark skinned, bottom right, top heavy
 Jeans fitting right, hair did, shawty you the best
 Light skinned, dark skinned, bottom right, top heavy
@@ -88,4 +91,3 @@ Girl you the one, too bad I'm not a jumper?
 She love the way the rapper tastes, too bad I'm not a sucker
 She call me when she need it
 And I'm a come running to feed that appetite I do it anyway she want it
-

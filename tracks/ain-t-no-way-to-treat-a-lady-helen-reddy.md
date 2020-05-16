@@ -1,8 +1,11 @@
 ---
+album: Greatest & Latest
 artists:
 - Helen Reddy
+external_ids:
+  spotify: spotify:track:6eVAEqfTAe6FmPcwY7hhnG
 features: []
-genres: []
+first_released_as_single: false
 key: ain-t-no-way-to-treat-a-lady-helen-reddy
 lyrics_url: https://genius.com/Helen-reddy-aint-no-way-to-treat-a-lady-re-recorded-lyrics
 name: Ain't No Way To Treat A Lady
@@ -71,6 +74,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1975-11-22'
+release_year: 1975
+runtime: 208760
 ---
 I guess it was yourself you were involved with
 I would have sworn it was me

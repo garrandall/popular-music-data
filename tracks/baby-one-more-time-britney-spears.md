@@ -1,8 +1,11 @@
 ---
+album: '...Baby One More Time (Digital Deluxe Version)'
 artists:
 - Britney Spears
+external_ids:
+  spotify: spotify:track:3MjUtNVVq3C8Fn0MP3zhXa
 features: []
-genres: []
+first_released_as_single: false
 key: baby-one-more-time-britney-spears
 lyrics_url: https://genius.com/Britney-spears-baby-one-more-time-lyrics
 name: Baby One More Time
@@ -135,6 +138,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1999-06-26'
+release_year: 1998
+runtime: 211066
 ---
 Oh baby, baby
 Oh baby, baby

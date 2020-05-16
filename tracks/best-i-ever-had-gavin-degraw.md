@@ -1,8 +1,11 @@
 ---
+album: Make A Move
 artists:
 - Gavin DeGraw
+external_ids:
+  spotify: spotify:track:2bN0VoXCagktb6yAi9942I
 features: []
-genres: []
+first_released_as_single: false
 key: best-i-ever-had-gavin-degraw
 lyrics_url: https://www.musixmatch.com/lyrics/Gavin-DeGraw/Best-I-Ever-Had
 name: Best I Ever Had
@@ -27,6 +30,8 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '2013-11-09'
+release_year: 2013
+runtime: 226200
 ---
 Melt Antarctica, savin' Africa
 I failed algebra and I miss you sometimes

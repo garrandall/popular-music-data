@@ -1,9 +1,12 @@
 ---
+album: You've Got Your Troubles
 artists:
 - David
 - Jonathan
+external_ids:
+  spotify: spotify:track:3otTW0oS4ug71SMDw5bazR
 features: []
-genres: []
+first_released_as_single: false
 key: michelle-david-jonathan
 lyrics_url: https://genius.com/David-and-jonathan-michelle-lyrics
 name: Michelle
@@ -44,6 +47,8 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '1966-03-05'
+release_year: 1966
+runtime: 175053
 ---
 Michelle
 The Beatles

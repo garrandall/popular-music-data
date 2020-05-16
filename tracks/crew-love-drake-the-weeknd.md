@@ -1,9 +1,12 @@
 ---
+album: Take Care
 artists:
 - Drake
+external_ids:
+  spotify: spotify:track:0V4l4GQhgnWQGtCWpvA7va
 features:
 - The Weeknd
-genres: []
+first_released_as_single: false
 key: crew-love-drake-the-weeknd
 lyrics_url: https://genius.com/Drake-crew-love-lyrics
 name: Crew Love
@@ -88,6 +91,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2012-08-18'
+release_year: 2011
+runtime: 208813
 ---
 Take your nose off my keyboard
 What you bothering me for?

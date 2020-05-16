@@ -1,8 +1,11 @@
 ---
+album: More ...
 artists:
 - Montell Jordan
+external_ids:
+  spotify: spotify:track:1q3C05jegoKRuU1biZtVxv
 features: []
-genres: []
+first_released_as_single: false
 key: what-s-on-tonight-montell-jordan
 lyrics_url: https://genius.com/Montell-jordan-whats-on-tonight-lyrics
 name: What's On Tonight
@@ -87,6 +90,8 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1997-06-28'
+release_year: 1996
+runtime: 276653
 ---
 I'm coming over
 Coming, coming, listen girl

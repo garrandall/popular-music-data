@@ -1,10 +1,13 @@
 ---
+album: Hard 'N' Heavy (With Marshmallow)
 artists:
 - Paul Revere
 - The Raiders
+external_ids:
+  spotify: spotify:track:4FJLbOUFTNl795TCcutUlA
 features:
 - Mark Lindsay
-genres: []
+first_released_as_single: false
 key: cinderella-sunshine-paul-revere-the-raiders-mark-lindsay
 name: Cinderella Sunshine
 rankings:
@@ -32,5 +35,7 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '1968-11-16'
+release_year: 1968
+runtime: 120693
 ---
 

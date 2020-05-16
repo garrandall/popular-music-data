@@ -1,8 +1,11 @@
 ---
+album: Love Deluxe
 artists:
 - Sade
+external_ids:
+  spotify: spotify:track:4ssiCx4MjZW1Rl9VOF0GZL
 features: []
-genres: []
+first_released_as_single: false
 key: kiss-of-life-sade
 lyrics_url: https://www.azlyrics.com/lyrics/sade/kissoflife.html
 name: Kiss Of Life
@@ -51,8 +54,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1993-05-29'
+release_year: 1992
+runtime: 350000
 ---
-
 There must have been an angel by my side
 Something heavenly led me to you
 Look at the sky
@@ -111,6 +115,3 @@ You gave me the kiss of life
 Kiss of Life
 You gave me the kiss of life
 The kiss of life
-
-
-

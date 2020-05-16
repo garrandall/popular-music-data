@@ -1,8 +1,11 @@
 ---
+album: Man In Black
 artists:
 - Johnny Cash
+external_ids:
+  spotify: spotify:track:7wL9EVloIobMw22rT7Ve8x
 features: []
-genres: []
+first_released_as_single: false
 key: man-in-black-johnny-cash
 lyrics_url: https://genius.com/Johnny-cash-man-in-black-lyrics
 name: Man In Black
@@ -31,6 +34,8 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1971-04-24'
+release_year: 1971
+runtime: 172986
 ---
 Well, you wonder why I always dress in black
 Why you never see bright colors on my back

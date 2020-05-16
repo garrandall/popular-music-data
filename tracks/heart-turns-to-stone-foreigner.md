@@ -1,8 +1,11 @@
 ---
+album: Inside Information
 artists:
 - Foreigner
+external_ids:
+  spotify: spotify:track:4aFNkzXifTfkc452lMHmym
 features: []
-genres: []
+first_released_as_single: false
 key: heart-turns-to-stone-foreigner
 lyrics_url: https://www.azlyrics.com/lyrics/foreigner/heartturnstostone.html
 name: Heart Turns To Stone
@@ -47,8 +50,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1988-09-17'
+release_year: 1987
+runtime: 250773
 ---
-
 The days and nights you sit around wondering where can
 she be
 Hoping that she might appear, out of nowhere
@@ -108,6 +112,3 @@ Oh it's a sad thing to see
 To see a heart turn to stone
 The heart of a woman
 A heart turned to stone
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Moana
 artists:
 - Auli'i Cravalho
+external_ids:
+  spotify: spotify:track:6mb6lVLNrcUgLnEN8QnDJd
 features: []
-genres: []
+first_released_as_single: false
 key: how-far-i-ll-go-auli-i-cravalho
 lyrics_url: https://genius.com/Aulii-cravalho-how-far-ill-go-lyrics
 name: How Far I'll Go
@@ -87,6 +90,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2017-05-13'
+release_year: 2016
+runtime: 163386
 ---
 I've been staring at the edge of the water
 Long as I can remember, never really knowing why

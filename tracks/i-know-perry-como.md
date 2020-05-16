@@ -1,8 +1,11 @@
 ---
+album: Sings Songs Of Faith And Devotion
 artists:
 - Perry Como
+external_ids:
+  spotify: spotify:track:20CReBexer8mcyIf0nnniF
 features: []
-genres: []
+first_released_as_single: false
 key: i-know-perry-como
 lyrics_url: https://genius.com/Perry-como-i-know-lyrics
 name: I Know
@@ -43,6 +46,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1959-08-03'
+release_year: 1959
+runtime: 181133
 ---
 ( I Know, I know, oh yes, I know! )
 

@@ -1,8 +1,11 @@
 ---
+album: Misplaced Childhood
 artists:
 - Marillion
+external_ids:
+  spotify: spotify:track:0r5Ju8WyodpXBHmg3f4zYf
 features: []
-genres: []
+first_released_as_single: false
 key: kayleigh-marillion
 lyrics_url: https://www.azlyrics.com/lyrics/marillion/kayleigh.html
 name: Kayleigh
@@ -39,8 +42,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1985-11-23'
+release_year: 1985
+runtime: 243560
 ---
-
 Do you remember chalk hearts melting on a playground wall
 Do you remember dawn escapes from moon washed college halls 
 Do you remember the cherry blossom in the market square
@@ -73,6 +77,3 @@ Kayleigh I'm still trying to write that love song
 Kayleigh it's more important to me now you're gone
 Maybe it will prove that we were right
 Or ever prove that I was wrong
-
-
-

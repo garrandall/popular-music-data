@@ -1,9 +1,12 @@
 ---
+album: Maverick
 artists:
 - George Thorogood
 - The Destroyers
+external_ids:
+  spotify: spotify:track:0f0FXdyHWAx3q7XyU9oLMI
 features: []
-genres: []
+first_released_as_single: false
 key: willie---the-hand-jive-george-thorogood-the-destroyers
 lyrics_url: https://www.azlyrics.com/lyrics/georgethorogoodandthedestroyers/willieandthehandjive.html
 name: Willie & The Hand Jive
@@ -40,8 +43,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1985-08-03'
+release_year: 1985
+runtime: 249400
 ---
-
 I know a cat named Way-out Willie
 He's got a groovy little chick named Rocking' Lily
 Yeah, rock'n'rolling Suzie Q
@@ -81,6 +85,3 @@ When he did that hand jive on MTV
 
 Hand jive, hand jive, hand jive
 Do that crazy hand jive
-
-
-

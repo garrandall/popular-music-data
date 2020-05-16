@@ -1,8 +1,11 @@
 ---
+album: Look Sharp!
 artists:
 - Joe Jackson
+external_ids:
+  spotify: spotify:track:29SRvYOKbMLOZeOubNGtLb
 features: []
-genres: []
+first_released_as_single: false
 key: is-she-really-going-out-with-him--joe-jackson
 lyrics_url: https://www.azlyrics.com/lyrics/joejackson/isshereallygoingoutwithhim.html
 name: Is She Really Going Out With Him?
@@ -67,8 +70,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1979-09-15'
+release_year: 1979
+runtime: 215066
 ---
-
 Pretty women out walking with gorillas down my street
 From my window, I'm staring while my coffee goes cold
 Look over there (where?)
@@ -108,6 +112,3 @@ Something going wrong around here
 Something going wrong around here
 Something going wrong around here
 Something going wrong around
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Get Weird
 artists:
 - Little Mix
+external_ids:
+  spotify: spotify:track:7KZu6Rbeggzw3RbfiztAwJ
 features: []
-genres: []
+first_released_as_single: true
 key: black-magic-little-mix
 lyrics_url: https://genius.com/Little-mix-black-magic-lyrics
 name: Black Magic
@@ -39,6 +42,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2015-10-17'
+release_year: 2015
+runtime: 207333
 ---
 All the girls on the block knocking at my door
 Wanna know what it is, make the boys want more

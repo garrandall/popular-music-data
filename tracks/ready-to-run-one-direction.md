@@ -1,8 +1,11 @@
 ---
+album: FOUR
 artists:
 - One Direction
+external_ids:
+  spotify: spotify:track:7GtGeeChOx4NS77bqK8SUx
 features: []
-genres: []
+first_released_as_single: false
 key: ready-to-run-one-direction
 lyrics_url: https://genius.com/One-direction-ready-to-run-lyrics
 name: Ready To Run
@@ -11,6 +14,8 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '2014-11-22'
+release_year: 2014
+runtime: 196053
 ---
 There's a lightning in your eyes, I can't deny
 Then there's me inside a sinking boat

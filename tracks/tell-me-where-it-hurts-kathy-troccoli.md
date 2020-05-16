@@ -1,8 +1,11 @@
 ---
+album: Kathy Troccoli
 artists:
 - Kathy Troccoli
+external_ids:
+  spotify: spotify:track:5mToyWoRfFU64nKZIpYrGO
 features: []
-genres: []
+first_released_as_single: false
 key: tell-me-where-it-hurts-kathy-troccoli
 lyrics_url: https://genius.com/Kathy-troccoli-tell-me-where-it-hurts-lyrics
 name: Tell Me Where It Hurts
@@ -31,6 +34,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1994-08-13'
+release_year: 1994
+runtime: 240240
 ---
 Why is that sad look in your eyes
 Why are you crying

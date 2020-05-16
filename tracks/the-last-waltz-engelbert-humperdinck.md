@@ -1,8 +1,11 @@
 ---
+album: The Last Waltz
 artists:
 - Engelbert Humperdinck
+external_ids:
+  spotify: spotify:track:03OArDwBMEgtTDcty84Rcp
 features: []
-genres: []
+first_released_as_single: false
 key: the-last-waltz-engelbert-humperdinck
 lyrics_url: https://www.azlyrics.com/lyrics/engelberthumperdinck/thelastwaltz.html
 name: The Last Waltz
@@ -43,8 +46,9 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '1967-11-18'
+release_year: 1967
+runtime: 184186
 ---
-
 I wondered should I go or should I stay
 The band had only one more song to play
 And then I saw you out the corner of my eyes
@@ -71,6 +75,3 @@ Two lonely people together
 I fell in love with you
 The last waltz should last forever
 La la la la la la la la la la
-
-
-

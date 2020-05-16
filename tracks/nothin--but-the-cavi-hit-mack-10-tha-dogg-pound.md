@@ -1,9 +1,12 @@
 ---
+album: Best Of Mack 10
 artists:
 - Mack 10
 - Tha Dogg Pound
+external_ids:
+  spotify: spotify:track:2rwmKpWW6o6anOhvcyiJOw
 features: []
-genres: []
+first_released_as_single: false
 key: nothin--but-the-cavi-hit-mack-10-tha-dogg-pound
 lyrics_url: https://www.azlyrics.com/lyrics/mack10/nothinbutthecavihit.html
 name: Nothin' But The Cavi Hit
@@ -88,9 +91,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1997-04-26'
+release_year: 1996
+runtime: 241360
 ---
-
-
 (Blaze up)
 
 World wide, west side
@@ -203,6 +206,3 @@ It might make ya rich
 Wesssydeee,
 Biatch)
 Death Row
-
-
-

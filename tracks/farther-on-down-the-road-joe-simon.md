@@ -1,8 +1,11 @@
 ---
+album: Best of Joe Simon
 artists:
 - Joe Simon
+external_ids:
+  spotify: spotify:track:314NrtNDbaR8dvOyWBQupG
 features: []
-genres: []
+first_released_as_single: false
 key: farther-on-down-the-road-joe-simon
 lyrics_url: https://www.musixmatch.com/lyrics/Joe-Simon/Farther-on-Down-the-Road
 name: Farther On Down The Road
@@ -39,6 +42,8 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1970-06-06'
+release_year: 1970
+runtime: 189673
 ---
 Alright
 Baby, you're alright

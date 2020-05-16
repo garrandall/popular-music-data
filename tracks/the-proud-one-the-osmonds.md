@@ -1,8 +1,11 @@
 ---
+album: The Proud One
 artists:
 - The Osmonds
+external_ids:
+  spotify: spotify:track:58NGD7CwAHKGqalPG9Tw6O
 features: []
-genres: []
+first_released_as_single: false
 key: the-proud-one-the-osmonds
 lyrics_url: https://www.musixmatch.com/lyrics/The-Osmonds/The-Proud-One
 name: The Proud One
@@ -51,6 +54,8 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1975-10-04'
+release_year: 1975
+runtime: 184520
 ---
 Livin' is dyin'
 'Cause love you've left me cryin'

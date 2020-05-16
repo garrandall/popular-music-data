@@ -1,8 +1,11 @@
 ---
+album: John Barleycorn Must Die
 artists:
 - Traffic
+external_ids:
+  spotify: spotify:track:3MT4gmgqhOxg6gyqnRQBzB
 features: []
-genres: []
+first_released_as_single: false
 key: empty-pages-traffic
 lyrics_url: https://genius.com/Traffic-uk-empty-pages-lyrics
 name: Empty Pages
@@ -39,9 +42,9 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '1970-11-14'
+release_year: 1970
+runtime: 275000
 ---
-
-
 Found someone who can comfort me
 But there are always exceptions
 And she's good at appearing sane

@@ -1,8 +1,11 @@
 ---
+album: Switch II
 artists:
 - Switch
+external_ids:
+  spotify: spotify:track:54eM1QNuCFXJmHAa0d2kXR
 features: []
-genres: []
+first_released_as_single: false
 key: i-call-your-name-switch
 lyrics_url: https://genius.com/Switch-r-b-band-i-call-your-name-lyrics
 name: I Call Your Name
@@ -67,6 +70,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1980-02-09'
+release_year: 1979
+runtime: 440666
 ---
 I used to think about immature things
 You know like, do you love me? Do you want me?

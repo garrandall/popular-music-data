@@ -1,8 +1,11 @@
 ---
+album: Greetings!... We're The Monitors
 artists:
 - The Monitors
+external_ids:
+  spotify: spotify:track:4i7mbnAXwZDFCWLcPwiq6F
 features: []
-genres: []
+first_released_as_single: false
 key: greetings--this-is-uncle-sam--the-monitors
 lyrics_url: https://www.musixmatch.com/lyrics/The-Monitors/Greetings-This-Is-Uncle-Sam
 name: Greetings (This Is Uncle Sam)
@@ -11,6 +14,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1966-04-16'
+release_year: 1966
+runtime: 182306
 ---
 Greetings
 This is Uncle Sam

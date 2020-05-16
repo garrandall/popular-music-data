@@ -1,9 +1,12 @@
 ---
+album: Ripcord
 artists:
 - Keith Urban
+external_ids:
+  spotify: spotify:track:5OUSPcqhYTOzpbXzoEvKim
 features:
 - Carrie Underwood
-genres: []
+first_released_as_single: false
 key: the-fighter-keith-urban-carrie-underwood
 lyrics_url: https://www.azlyrics.com/lyrics/keithurban/thefighter.html
 name: The Fighter
@@ -100,9 +103,9 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '2017-08-12'
+release_year: 2016
+runtime: 184040
 ---
-
-
 I know he hurt you
 Made you scared of love, too scared to love
 He didn't deserve you
@@ -179,6 +182,3 @@ What if I cry?
 And if I get scared?
 I'll hold you tighter
 When they're tryna get to you, baby, I'll be the fighter
-
-
-

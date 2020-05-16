@@ -1,8 +1,11 @@
 ---
+album: News Of The World (Deluxe Remastered Version)
 artists:
 - Queen
+external_ids:
+  spotify: spotify:track:0bnTlF0pyVHFRXuwS9QB7x
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-late-queen
 lyrics_url: https://genius.com/Queen-its-late-lyrics
 name: It's Late
@@ -27,6 +30,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1978-06-10'
+release_year: 1977
+runtime: 386360
 ---
 You say you love me
 And I hardly know your name

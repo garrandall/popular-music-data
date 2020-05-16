@@ -1,8 +1,11 @@
 ---
+album: Repeat Offender
 artists:
 - Richard Marx
+external_ids:
+  spotify: spotify:track:4LFwNJWoj74Yd71fIr1W8x
 features: []
-genres: []
+first_released_as_single: false
 key: right-here-waiting-richard-marx
 lyrics_url: https://genius.com/Richard-marx-right-here-waiting-lyrics
 name: Right Here Waiting
@@ -91,6 +94,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1989-11-25'
+release_year: 1989
+runtime: 264333
 ---
 Oceans apart, day after day
 And I slowly go insane

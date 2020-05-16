@@ -1,9 +1,12 @@
 ---
+album: Dusk Till Dawn (Radio Edit)
 artists:
 - Zayn
+external_ids:
+  spotify: spotify:track:1j4kHkkpqZRBwE0A4CN4Yv
 features:
 - Sia
-genres: []
+first_released_as_single: true
 key: dusk-till-dawn-zayn-sia
 lyrics_url: https://www.azlyrics.com/lyrics/zaynmalik/dusktilldawn.html
 name: Dusk Till Dawn
@@ -76,9 +79,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2018-01-13'
+release_year: 2017
+runtime: 239000
 ---
-
-
 Not tryna be indie
 Not tryna be cool
 Just tryna be in this
@@ -182,6 +185,3 @@ Baby, I am right here
 
 I'll be with you from dusk till dawn
 Baby, I am right here
-
-
-

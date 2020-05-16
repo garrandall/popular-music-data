@@ -1,8 +1,11 @@
 ---
+album: The Fabulous Johnny Cash
 artists:
 - Johnny Cash
+external_ids:
+  spotify: spotify:track:5J65xr8NkvpHy9RkxzSUAO
 features: []
-genres: []
+first_released_as_single: false
 key: frankie-s-man-johnny-johnny-cash
 lyrics_url: https://genius.com/Johnny-cash-frankies-man-johnny-lyrics
 name: Frankie's Man Johnny
@@ -35,6 +38,8 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1959-06-08'
+release_year: 1958
+runtime: 135360
 ---
 Well now, Frankie and Johnny were sweethearts
 They were true as a blue, blue sky

@@ -1,8 +1,11 @@
 ---
+album: Nona
 artists:
 - Nona Hendryx
+external_ids:
+  spotify: spotify:track:0k7AXjrp5rb0IzI1vLc49w
 features: []
-genres: []
+first_released_as_single: false
 key: keep-it-confidential-nona-hendryx
 lyrics_url: https://genius.com/Nona-hendryx-keep-it-confidential-lyrics
 name: Keep It Confidential
@@ -19,6 +22,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1983-06-18'
+release_year: 1983
+runtime: 352173
 ---
 If a man can love a liar
 And a woman can love a thief

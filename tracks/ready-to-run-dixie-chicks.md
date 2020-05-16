@@ -1,8 +1,11 @@
 ---
+album: Runaway Bride - Music From The Motion Picture
 artists:
 - Dixie Chicks
+external_ids:
+  spotify: spotify:track:2Ix6UO45MqAMStN8FrqnZV
 features: []
-genres: []
+first_released_as_single: false
 key: ready-to-run-dixie-chicks
 lyrics_url: https://www.azlyrics.com/lyrics/dixiechicks/readytorun.html
 name: Ready To Run
@@ -79,8 +82,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1999-11-20'
+release_year: 1982
+runtime: 230760
 ---
-
 When the train rolls by
 I'm gonna be ready this time
 When the boy gets that look in his eye
@@ -119,6 +123,3 @@ ready to run...yeah I'm ready to run. I'm ready
 Whoa I'm ready to run...I'm ready...I'm ready to run...
 I'm ready to run...I'm ready
 Oh I'm ready to run...I'm ready.
-
-
-

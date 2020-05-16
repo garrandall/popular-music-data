@@ -1,8 +1,11 @@
 ---
+album: Sweat
 artists:
 - Nelly
+external_ids:
+  spotify: spotify:track:4rY3KONqdimczgu2NhxI8k
 features: []
-genres: []
+first_released_as_single: false
 key: flap-your-wings-nelly
 lyrics_url: https://www.azlyrics.com/lyrics/nelly/flapyourwings.html
 name: Flap Your Wings
@@ -51,9 +54,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2004-11-13'
+release_year: 2004
+runtime: 243560
 ---
-
-
 Drop down and get your eagle on, girl (flap your wings)
 Drop down and get your eagle on, girl (flap your wings)
 Hell naw, ain't leavin' me alone, girl (flap your wings)
@@ -145,4 +148,3 @@ Come on
 Flap your wings
 Come on
 Flap your wings
-

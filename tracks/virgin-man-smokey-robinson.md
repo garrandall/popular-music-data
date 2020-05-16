@@ -1,8 +1,11 @@
 ---
+album: Pure Smokey
 artists:
 - Smokey Robinson
+external_ids:
+  spotify: spotify:track:7o5z1nevck3AM9xSYywHzr
 features: []
-genres: []
+first_released_as_single: false
 key: virgin-man-smokey-robinson
 lyrics_url: https://www.azlyrics.com/lyrics/smokeyrobinson/virginman.html
 name: Virgin Man
@@ -35,8 +38,9 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '1974-11-09'
+release_year: 1974
+runtime: 306613
 ---
-
 Can you love a virgin man
 Can you love a virgin man
 
@@ -95,6 +99,3 @@ Can you love a virgin man
 Can you love a virgin man
 Can you love a virgin man
 Can you love a virgin man
-
-
-

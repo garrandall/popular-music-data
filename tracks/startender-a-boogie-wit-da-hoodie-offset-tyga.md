@@ -1,10 +1,13 @@
 ---
+album: Hoodie SZN
 artists:
 - A Boogie Wit da Hoodie
+external_ids:
+  spotify: spotify:track:6uSSupG4TMu3vW8QgynAB6
 features:
 - Offset
 - Tyga
-genres: []
+first_released_as_single: true
 key: startender-a-boogie-wit-da-hoodie-offset-tyga
 lyrics_url: https://genius.com/A-boogie-wit-da-hoodie-startender-lyrics
 name: Startender
@@ -45,6 +48,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2019-03-02'
+release_year: 2018
+runtime: 192779
 ---
 Yeah, shawty got ass, she just got a tummy tuck, yeah
 Startenders, run it up, ah

@@ -1,8 +1,11 @@
 ---
+album: Mariah Carey
 artists:
 - Mariah Carey
+external_ids:
+  spotify: spotify:track:6TSM5vkz0WzyZsNAKKYDcw
 features: []
-genres: []
+first_released_as_single: false
 key: someday-mariah-carey
 lyrics_url: https://www.azlyrics.com/lyrics/mariahcarey/someday.html
 name: Someday
@@ -83,8 +86,9 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1991-05-25'
+release_year: 1990
+runtime: 246106
 ---
-
 You were so blind to let me go
 You had it all but did not know
 No one you'll find will ever be
@@ -124,4 +128,3 @@ And you're thinking
 That you might be coming back to own me
 Just think again
 'Cause I won't need your love anymore
-

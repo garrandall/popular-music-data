@@ -1,8 +1,11 @@
 ---
+album: Snoopy And His Friends The Royal Guardsmen
 artists:
 - The Royal Guardsmen
+external_ids:
+  spotify: spotify:track:0MmluR9xqG0a15ecfJP2qy
 features: []
-genres: []
+first_released_as_single: false
 key: the-return-of-the-red-baron-the-royal-guardsmen
 lyrics_url: https://www.azlyrics.com/lyrics/royalguardsmen/thereturnoftheredbaron.html
 name: The Return Of The Red Baron
@@ -35,8 +38,9 @@ rankings:
   rank: 24
   ranking_list: Billboard Hot 100
   start_date: '1967-04-08'
+release_year: 1967
+runtime: 165240
 ---
-
 You remember that baron flying high in the sky
 When Snoopy shot him down with a gleam in his eye
 But that German had leaped from his blood red plane
@@ -70,6 +74,3 @@ Hey, watch out, Red Baron. Snoopy is on your trail
 One of these days, he's gonna make you pay, and you'll go straight to
 Well, watch out, Red Baron. Snoopy is on your trail
 One of these days, he's gonna make you pay, and you'll go straight to...
-
-
-

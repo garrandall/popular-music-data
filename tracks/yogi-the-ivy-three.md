@@ -1,8 +1,11 @@
 ---
+album: Famous One Hit Wonders - Back In Time Vol. 3
 artists:
 - The Ivy Three
+external_ids:
+  spotify: spotify:track:66CLCCdFgpvbSUVDYvPZtx
 features: []
-genres: []
+first_released_as_single: false
 key: yogi-the-ivy-three
 lyrics_url: https://www.musixmatch.com/lyrics/The-Ivy-Three/Yogi
 name: Yogi
@@ -47,6 +50,8 @@ rankings:
   rank: 25
   ranking_list: Billboard Hot 100
   start_date: '1960-10-10'
+release_year: 1960
+runtime: 131586
 ---
 I saw a Kook who was standing on his head
 He flipped his lid like he should have been in bed

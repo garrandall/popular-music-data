@@ -1,8 +1,11 @@
 ---
+album: a girl a bottle a boat
 artists:
 - Train
+external_ids:
+  spotify: spotify:track:77hjM9bMmgfTGJXv14UFmi
 features: []
-genres: []
+first_released_as_single: false
 key: play-that-song-train
 lyrics_url: https://genius.com/Train-play-that-song-lyrics
 name: Play That Song
@@ -87,6 +90,8 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '2017-04-29'
+release_year: 2016
+runtime: 243253
 ---
 Play that song
 The one that makes me go all night long

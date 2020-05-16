@@ -1,8 +1,11 @@
 ---
+album: The Wanderer
 artists:
 - Donna Summer
+external_ids:
+  spotify: spotify:track:54yk4QQVx9u3PB2qJWTuHA
 features: []
-genres: []
+first_released_as_single: false
 key: who-do-you-think-you-re-foolin--donna-summer
 lyrics_url: https://genius.com/Donna-summer-who-do-you-think-youre-foolin-lyrics
 name: Who Do You Think You're Foolin'
@@ -51,6 +54,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1981-05-02'
+release_year: 1980
+runtime: 258826
 ---
 You made it to the bright lights
 You only come alive at night

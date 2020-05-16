@@ -1,8 +1,11 @@
 ---
+album: Lisa Stansfield
 artists:
 - Lisa Stansfield
+external_ids:
+  spotify: spotify:track:1YwM86VfyDhJv5obDMMjp5
 features: []
-genres: []
+first_released_as_single: false
 key: never-never-gonna-give-you-up-lisa-stansfield
 lyrics_url: https://www.azlyrics.com/lyrics/lisastansfield/nevernevergonnagiveyouup.html
 name: Never Never Gonna Give You Up
@@ -43,8 +46,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1997-10-04'
+release_year: 1996
+runtime: 301973
 ---
-
 Oh baby, you know I've waited, waited so long 
 To sing...to sing this song
 
@@ -101,6 +105,3 @@ I just can't live without you
 I'm never ever gonna quit 'cause quiting just ain't my schtick 
 I'm gonna lay right here with you and do all the 
 things you want me to
-
-
-

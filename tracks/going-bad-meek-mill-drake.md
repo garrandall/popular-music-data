@@ -1,9 +1,12 @@
 ---
+album: Championships
 artists:
 - Meek Mill
+external_ids:
+  spotify: spotify:track:47Mf1u67oqXtWBAaUHUSi7
 features:
 - Drake
-genres: []
+first_released_as_single: false
 key: going-bad-meek-mill-drake
 lyrics_url: https://www.azlyrics.com/lyrics/meekmill/goingbad.html
 name: Going Bad
@@ -156,9 +159,9 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2019-08-24'
+release_year: 2018
+runtime: 180522
 ---
-
-
 Yeah
 (Wheezy outta here)
 G, G
@@ -227,6 +230,3 @@ Saw you last night, but did it broad day
 
 
 Wheezy outta here
-
-
-

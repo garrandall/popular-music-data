@@ -1,9 +1,12 @@
 ---
+album: Voodoo
 artists:
 - D'Angelo
+external_ids:
+  spotify: spotify:track:4EQ0dK6Sg7v685NGrQvuki
 features:
 - Method Man And Redman
-genres: []
+first_released_as_single: false
 key: left---right-d-angelo-method-man-and-redman
 lyrics_url: https://genius.com/Dangelo-left-and-right-lyrics
 name: Left & Right
@@ -28,6 +31,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2000-01-08'
+release_year: 1999
+runtime: 286466
 ---
 My flow's remarkable
 Doc walk like Caine from Kung Fu 'round the globe

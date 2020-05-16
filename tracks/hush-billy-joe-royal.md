@@ -1,8 +1,11 @@
 ---
+album: Billy Joe Royal Featuring "Hush"
 artists:
 - Billy Joe Royal
+external_ids:
+  spotify: spotify:track:2WVv7qWC8CClLrdDDYC0eD
 features: []
-genres: []
+first_released_as_single: false
 key: hush-billy-joe-royal
 lyrics_url: https://genius.com/Billy-joe-royal-hush-lyrics
 name: Hush
@@ -39,6 +42,8 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '1967-11-18'
+release_year: 1967
+runtime: 158160
 ---
 Na nanana nanana nanana
 

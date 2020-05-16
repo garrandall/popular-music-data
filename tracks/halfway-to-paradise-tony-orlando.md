@@ -1,8 +1,11 @@
 ---
+album: Halfway to Paradise
 artists:
 - Tony Orlando
+external_ids:
+  spotify: spotify:track:54oRwZxnC8fN6RyjdlHBTP
 features: []
-genres: []
+first_released_as_single: false
 key: halfway-to-paradise-tony-orlando
 lyrics_url: https://genius.com/Tony-orlando-halfway-to-paradise-lyrics
 name: Halfway To Paradise
@@ -39,6 +42,8 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '1961-06-19'
+release_year: 1961
+runtime: 162626
 ---
 I want to be your lover
 But your friend is all I've stayed

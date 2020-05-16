@@ -1,8 +1,11 @@
 ---
+album: No Ordinary Girl
 artists:
 - Jordan Pruitt
+external_ids:
+  spotify: spotify:track:1wF2QB0bAAYQdPUIn0L0VE
 features: []
-genres: []
+first_released_as_single: false
 key: outside-looking-in-jordan-pruitt
 lyrics_url: https://www.azlyrics.com/lyrics/jordanpruitt/outsidelookingin.html
 name: Outside Looking In
@@ -15,8 +18,9 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2007-03-03'
+release_year: 2007
+runtime: 159466
 ---
-
 You don't know my name
 you don't know anything about me
 I try to play nice
@@ -67,6 +71,3 @@ You don't know what it's like
 To be left out
 And you don't know how it feels
 To be your own best friend on the outside looking in
-
-
-

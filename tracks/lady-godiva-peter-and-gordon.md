@@ -1,8 +1,11 @@
 ---
+album: The Ultimate Peter And Gordon
 artists:
 - Peter And Gordon
+external_ids:
+  spotify: spotify:track:1nneC7m6oPIo1JuCXPZyHa
 features: []
-genres: []
+first_released_as_single: false
 key: lady-godiva-peter-and-gordon
 lyrics_url: https://genius.com/Peter-and-gordon-lady-godiva-lyrics
 name: Lady Godiva
@@ -63,6 +66,8 @@ rankings:
   rank: 35
   ranking_list: Billboard Hot 100
   start_date: '1967-01-07'
+release_year: 1966
+runtime: 147040
 ---
 Seventeen, a beauty queen
 She made a ride that caused a scene

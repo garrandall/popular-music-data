@@ -1,8 +1,11 @@
 ---
+album: Sorry For Party Rocking (Deluxe Version)
 artists:
 - LMFAO
+external_ids:
+  spotify: spotify:track:48kwdkeHEJEuMzcKklPv5b
 features: []
-genres: []
+first_released_as_single: false
 key: sorry-for-party-rocking-lmfao
 lyrics_url: https://genius.com/Lmfao-sorry-for-party-rocking-lyrics
 name: Sorry For Party Rocking
@@ -51,6 +54,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2012-04-21'
+release_year: 2011
+runtime: 203973
 ---
 Sorry for Party Rocking
 

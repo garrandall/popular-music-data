@@ -1,8 +1,11 @@
 ---
+album: In The Heat Of The Night
 artists:
 - Pat Benatar
+external_ids:
+  spotify: spotify:track:1TE4S9kqvml9o8JpPR8kBf
 features: []
-genres: []
+first_released_as_single: false
 key: we-live-for-love-pat-benatar
 lyrics_url: https://www.azlyrics.com/lyrics/patbenatar/weliveforlove.html
 name: We Live For Love
@@ -63,8 +66,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1980-07-05'
+release_year: 1979
+runtime: 237400
 ---
-
 Your love's contagious, one kiss is dangerous
 But I have more to risk, than you to lose
 I feel passion growing
@@ -95,6 +99,3 @@ We Live For Love
 We Live For Love
 We Live For Love
 We Live For Love
-
-
-

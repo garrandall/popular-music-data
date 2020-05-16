@@ -1,8 +1,11 @@
 ---
+album: Shabooh Shoobah
 artists:
 - INXS
+external_ids:
+  spotify: spotify:track:20CvyqKfRsnFVChsAKYA9f
 features: []
-genres: []
+first_released_as_single: false
 key: the-one-thing-inxs
 lyrics_url: https://www.azlyrics.com/lyrics/inxs/theonething.html
 name: The One Thing
@@ -63,8 +66,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1983-06-25'
+release_year: 1982
+runtime: 205426
 ---
-
 Well you know just what you do to me
 The way you move soft and slippery
 Cut the night just like a razor
@@ -94,6 +98,3 @@ You are my thing
 
 It's the one thing
 You are my thing
-
-
-

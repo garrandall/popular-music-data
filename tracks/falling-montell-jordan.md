@@ -1,8 +1,11 @@
 ---
+album: More ...
 artists:
 - Montell Jordan
+external_ids:
+  spotify: spotify:track:6b0mf7tkMei83pEeITIqIf
 features: []
-genres: []
+first_released_as_single: false
 key: falling-montell-jordan
 lyrics_url: https://www.azlyrics.com/lyrics/montelljordan/falling.html
 name: Falling
@@ -87,9 +90,9 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '1997-02-15'
+release_year: 1996
+runtime: 241533
 ---
-
-
 Falling for you 
 And I just can't help myself
 Baby I'm falling
@@ -154,6 +157,3 @@ Won't you help me sugar
 
 
 (I'm falling)
-
-
-

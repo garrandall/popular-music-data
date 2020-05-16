@@ -1,8 +1,11 @@
 ---
+album: Here We Go Again
 artists:
 - Demi Lovato
+external_ids:
+  spotify: spotify:track:7eM88DF4yL4hpNnB6oJLnD
 features: []
-genres: []
+first_released_as_single: false
 key: catch-me-demi-lovato
 lyrics_url: https://genius.com/Demi-lovato-catch-me-lyrics
 name: Catch Me
@@ -11,6 +14,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2009-08-08'
+release_year: 2009
+runtime: 190000
 ---
 Before I fall too fast
 Kiss me quick, but make it last

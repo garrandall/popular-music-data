@@ -1,8 +1,11 @@
 ---
+album: Bad Hair Day
 artists:
 - '"Weird Al" Yankovic'
+external_ids:
+  spotify: spotify:track:5r96TaQquRrlo3Ym3ZlSL2
 features: []
-genres: []
+first_released_as_single: false
 key: amish-paradise--weird-al--yankovic
 lyrics_url: https://www.azlyrics.com/lyrics/weirdalyankovic/amishparadise.html
 name: Amish Paradise
@@ -71,8 +74,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1996-07-13'
+release_year: 1996
+runtime: 202920
 ---
-
 As I walk through the valley where I harvest my grain
 I take a look at my wife and realize she's very plain
 But that's just perfect for an Amish like me
@@ -139,6 +143,3 @@ There's no cops or traffic lights
 Living in an Amish paradise
 But you'd probably think it bites
 Living in an Amish paradise
-
-
-

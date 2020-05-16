@@ -1,8 +1,11 @@
 ---
+album: Under The Boardwalk
 artists:
 - The Drifters
+external_ids:
+  spotify: spotify:track:2eFTEkvuCiR0KsgUbo9WqM
 features: []
-genres: []
+first_released_as_single: false
 key: i-ll-take-you-home-the-drifters
 lyrics_url: https://genius.com/The-drifters-ill-take-you-home-lyrics
 name: I'll Take You Home
@@ -47,6 +50,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1963-11-09'
+release_year: 1963
+runtime: 156800
 ---
 Everybody knows you came with him
 But another girl caught his eye

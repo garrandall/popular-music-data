@@ -1,8 +1,11 @@
 ---
+album: Chicago VIII
 artists:
 - Chicago
+external_ids:
+  spotify: spotify:track:0C6cEiQPL98K1Qg1HKrV2k
 features: []
-genres: []
+first_released_as_single: false
 key: brand-new-love-affair--part-i---ii--chicago
 lyrics_url: https://www.azlyrics.com/lyrics/chicago/brandnewloveaffairpartiandii.html
 name: Brand New Love Affair (Part I & II)
@@ -27,8 +30,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1975-10-04'
+release_year: 1975
+runtime: 267693
 ---
-
 Wish I knew what was going wrong
 Seems so very long since we laughed together
 It's no good to be all alone
@@ -56,6 +60,3 @@ I can hardly believe
 How much I really love you baby
 All our tomorrows will be
 A love affair with you my lady
-
-
-

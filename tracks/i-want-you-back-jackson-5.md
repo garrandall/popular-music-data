@@ -1,8 +1,11 @@
 ---
+album: Diana Ross Presents The Jackson 5
 artists:
 - Jackson 5
+external_ids:
+  spotify: spotify:track:5LxvwujISqiB8vpRYv887S
 features: []
-genres: []
+first_released_as_single: false
 key: i-want-you-back-jackson-5
 lyrics_url: https://genius.com/The-jackson-5-i-want-you-back-lyrics
 name: I Want You Back
@@ -83,6 +86,8 @@ rankings:
   rank: 33
   ranking_list: Billboard Hot 100
   start_date: '1970-03-21'
+release_year: 1969
+runtime: 176333
 ---
 Uh-huh huh huh huh
 Let me tell ya now

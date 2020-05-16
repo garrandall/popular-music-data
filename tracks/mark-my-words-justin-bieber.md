@@ -1,8 +1,11 @@
 ---
+album: Purpose
 artists:
 - Justin Bieber
+external_ids:
+  spotify: spotify:track:2SnNaoNhMjC1WRMTWD8qTX
 features: []
-genres: []
+first_released_as_single: false
 key: mark-my-words-justin-bieber
 lyrics_url: https://www.azlyrics.com/lyrics/justinbieber/markmywords.html
 name: Mark My Words
@@ -23,8 +26,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2015-12-26'
+release_year: 2015
+runtime: 134346
 ---
-
 Mark my words, that's all that I have
 Mark my words, give you all I got
 In every way I will
@@ -52,6 +56,3 @@ Mark my words
 
 Oh-oh oh oooooha
 Oh-oh ah
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Avril Lavigne
 artists:
 - Avril Lavigne
+external_ids:
+  spotify: spotify:track:0qwcGscxUHGZTgq0zcaqk1
 features: []
-genres: []
+first_released_as_single: false
 key: here-s-to-never-growing-up-avril-lavigne
 lyrics_url: https://genius.com/Avril-lavigne-heres-to-never-growing-up-lyrics
 name: Here's To Never Growing Up
@@ -67,6 +70,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2013-08-03'
+release_year: 2013
+runtime: 214320
 ---
 Singin' Radiohead at the top of our lungs
 With the boombox blarin' as we're fallin' in love

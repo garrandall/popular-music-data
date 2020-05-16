@@ -1,8 +1,11 @@
 ---
+album: Boots
 artists:
 - Nancy Sinatra
+external_ids:
+  spotify: spotify:track:13ta4h3JwEmiRzoEZetyd9
 features: []
-genres: []
+first_released_as_single: false
 key: in-our-time-nancy-sinatra
 lyrics_url: https://www.azlyrics.com/lyrics/nancysinatra/inourtime.html
 name: In Our Time
@@ -31,8 +34,9 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '1966-10-22'
+release_year: 1966
+runtime: 159320
 ---
-
 People used to bill and coo
 But that don't make it with you
 Coz there's other things we do
@@ -80,6 +84,3 @@ In our time
 In our time, baby
 In our time, yeah
 In our time...
-
-
-

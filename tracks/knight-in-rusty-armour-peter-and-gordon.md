@@ -1,8 +1,11 @@
 ---
+album: Peter And Gordon (1966) Plus
 artists:
 - Peter And Gordon
+external_ids:
+  spotify: spotify:track:0x1n1hDJYMdht8N13zSQm1
 features: []
-genres: []
+first_released_as_single: false
 key: knight-in-rusty-armour-peter-and-gordon
 lyrics_url: https://genius.com/Peter-and-gordon-knight-in-rusty-armour-lyrics
 name: Knight In Rusty Armour
@@ -43,6 +46,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1967-02-18'
+release_year: 1966
+runtime: 157906
 ---
 Long ago in days of old
 There lived a knight who

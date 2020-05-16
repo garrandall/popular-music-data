@@ -1,9 +1,12 @@
 ---
+album: Crime Mob (U.S. PA Version)
 artists:
 - Crime Mob
+external_ids:
+  spotify: spotify:track:75coSP9CvhDRprlGCO2NM9
 features:
 - Lil Scrappy
-genres: []
+first_released_as_single: true
 key: knuck-if-you-buck-crime-mob-lil-scrappy
 lyrics_url: https://www.azlyrics.com/lyrics/crimemob/knuckifyoubuck.html
 name: Knuck If You Buck
@@ -88,10 +91,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '2005-01-01'
+release_year: 2004
+runtime: 205120
 ---
-
-
-
 Knuck if you buck boy
 Knuck if you buck
 Knuck if you buck
@@ -186,7 +188,3 @@ Aint Neva seen no pussy niggas scared to throw dem thangs main
 Crime mob niggas off in this bitch
 Break bread records I represent
 Fuckin wit them HB niggas you bout to get yo wig split
-
-
-
-

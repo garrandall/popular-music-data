@@ -1,9 +1,12 @@
 ---
+album: Silence
 artists:
 - Marshmello
+external_ids:
+  spotify: spotify:track:7vGuf3Y35N4wmASOKLUVVU
 features:
 - Khalid
-genres: []
+first_released_as_single: true
 key: silence-marshmello-khalid
 lyrics_url: https://www.azlyrics.com/lyrics/marshmello/silence.html
 name: Silence
@@ -100,8 +103,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2018-01-27'
+release_year: 2017
+runtime: 180822
 ---
-
 Yeah, I'd rather be a lover than a fighter
 'Cause all my life, I've been fighting
 Never felt a feeling of comfort
@@ -142,6 +146,3 @@ I've been quiet for too long
 I found peace in your violence
 Can't show me there's no point in trying
 I'm at one, and I've been quiet for too long
-
-
-

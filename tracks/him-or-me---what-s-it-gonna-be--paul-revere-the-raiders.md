@@ -1,9 +1,12 @@
 ---
+album: Revolution!
 artists:
 - Paul Revere
 - The Raiders
+external_ids:
+  spotify: spotify:track:0AA6HF90AGlS4KhUfJH74f
 features: []
-genres: []
+first_released_as_single: false
 key: him-or-me---what-s-it-gonna-be--paul-revere-the-raiders
 lyrics_url: https://www.azlyrics.com/lyrics/paulreveretheraiders/himormewhatsitgonnabe.html
 name: Him Or Me - What's It Gonna Be?
@@ -44,8 +47,9 @@ rankings:
   rank: 32
   ranking_list: Billboard Hot 100
   start_date: '1967-06-24'
+release_year: 1967
+runtime: 170960
 ---
-
 Now have you got yourself a brand new baby
 Don't tell me maybe
 Is it so
@@ -105,6 +109,3 @@ Him or me
 Him or me 
 Him or me
 What's it gonna be
-
-
-

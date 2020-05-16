@@ -1,9 +1,12 @@
 ---
+album: 'Glee: The Music, The Complete Season One'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:3CBSZ4j53i5Zg3iF10fU5o
 features:
 - Jonathan Groff
-genres: []
+first_released_as_single: false
 key: run-joey-run-glee-cast-jonathan-groff
 lyrics_url: https://www.azlyrics.com/lyrics/gleecast/runjoeyrun.html
 name: Run Joey Run
@@ -12,8 +15,9 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '2010-05-22'
+release_year: 2010
+runtime: 171666
 ---
-
 Daddy please don't
 It wasn't his fault
 He means so much to me
@@ -67,6 +71,3 @@ Daddy please don't
 We're gon...na get... mar...ried...
 
 Run, Joey run, Joey run, Joey run, Joey run, Joey run, Joey run!
-
-
-

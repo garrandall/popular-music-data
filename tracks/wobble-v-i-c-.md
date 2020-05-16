@@ -1,8 +1,11 @@
 ---
+album: Beast (Explicit Version)
 artists:
 - V.I.C.
+external_ids:
+  spotify: spotify:track:6JLcz9UGiVxAmEZXlCucn5
 features: []
-genres: []
+first_released_as_single: false
 key: wobble-v-i-c-
 lyrics_url: https://www.azlyrics.com/lyrics/vic/wobble.html
 name: Wobble
@@ -15,9 +18,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2012-01-14'
+release_year: 2008
+runtime: 321986
 ---
-
-
 Oh, oh, oh, oh
 All the shawtys in the club
 (Let me see you just)
@@ -99,7 +102,4 @@ Ey big girl make em' back it up, make em' back it up
 Wait a minute now 
 Wobble baby, wobble baby, wobble baby, wobble (yeah) 
 Get in there, yeah, yeah 
-Ey big girl make em' back it up, make em' back it up 
-
-
-
+Ey big girl make em' back it up, make em' back it up

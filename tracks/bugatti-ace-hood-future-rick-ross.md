@@ -1,10 +1,13 @@
 ---
+album: Trials & Tribulations
 artists:
 - Ace Hood
+external_ids:
+  spotify: spotify:track:0uFvvXbmGIXlf5ZgtHyYpf
 features:
 - Future
 - Rick Ross
-genres: []
+first_released_as_single: false
 key: bugatti-ace-hood-future-rick-ross
 lyrics_url: https://www.azlyrics.com/lyrics/acehood/bugatti.html
 name: Bugatti
@@ -89,9 +92,9 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '2013-07-13'
+release_year: 2013
+runtime: 269266
 ---
-
-
 We the motherfucking best nigga
 Ace Hood
 Super, Future
@@ -202,6 +205,3 @@ I woke up in a new Bugatti
 I woke up in a new Bugatti
 I woke up in a new Bugatti
 I woke up in a new Bugatti
-
-
-

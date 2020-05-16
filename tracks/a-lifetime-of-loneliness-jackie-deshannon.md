@@ -1,8 +1,11 @@
 ---
+album: This Is Jackie DeShannon
 artists:
 - Jackie DeShannon
+external_ids:
+  spotify: spotify:track:0tQ5o8C7OjPOLSDtfZ5231
 features: []
-genres: []
+first_released_as_single: false
 key: a-lifetime-of-loneliness-jackie-deshannon
 lyrics_url: https://genius.com/Jackie-deshannon-a-lifetime-of-loneliness-lyrics
 name: A Lifetime Of Loneliness
@@ -31,6 +34,8 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '1965-11-06'
+release_year: 1965
+runtime: 157453
 ---
 Since you left me
 I'm finding out what heartbreak is so

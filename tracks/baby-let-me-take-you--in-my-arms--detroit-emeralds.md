@@ -1,8 +1,11 @@
 ---
+album: Greatest Hits
 artists:
 - Detroit Emeralds
+external_ids:
+  spotify: spotify:track:4CrPVZPXRTGl5EhsKjGL6L
 features: []
-genres: []
+first_released_as_single: false
 key: baby-let-me-take-you--in-my-arms--detroit-emeralds
 lyrics_url: https://genius.com/Detroit-emeralds-baby-let-me-take-you-in-my-arms-lyrics
 name: Baby Let Me Take You (In My Arms)
@@ -75,6 +78,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1972-09-16'
+release_year: 1971
+runtime: 229112
 ---
 Baby, let me take you
 Let me take you in my arms

@@ -1,8 +1,11 @@
 ---
+album: Vincebus Eruptum
 artists:
 - Blue Cheer
+external_ids:
+  spotify: spotify:track:7J8A3XOuGFnGheoSsHUXC8
 features: []
-genres: []
+first_released_as_single: false
 key: summertime-blues-blue-cheer
 lyrics_url: https://genius.com/Blue-cheer-summertime-blues-lyrics
 name: Summertime Blues
@@ -59,6 +62,8 @@ rankings:
   rank: 33
   ranking_list: Billboard Hot 100
   start_date: '1968-05-25'
+release_year: 1968
+runtime: 227040
 ---
 Lord, I gotta raise a fuss
 Lord, I gotta raise a holler

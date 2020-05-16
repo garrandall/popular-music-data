@@ -1,8 +1,11 @@
 ---
+album: Glad All Over
 artists:
 - The Dave Clark Five
+external_ids:
+  spotify: spotify:track:3bMt6mpqpDiCRQ3poewMAo
 features: []
-genres: []
+first_released_as_single: false
 key: bits-and-pieces-the-dave-clark-five
 lyrics_url: https://www.azlyrics.com/lyrics/daveclarkfive/bitsandpieces.html
 name: Bits And Pieces
@@ -51,8 +54,9 @@ rankings:
   rank: 38
   ranking_list: Billboard Hot 100
   start_date: '1964-06-13'
+release_year: 1964
+runtime: 118906
 ---
-
 (I'm in pieces, bits and pieces)
 Since you left me and you said goodbye
 (I'm in pieces, bits and pieces)
@@ -84,6 +88,3 @@ You're still way up there on your throne
 Nothin' seems to ever go right
 (I'm in pieces, bits and pieces)
 'Cause night is day and day is night
-
-
-

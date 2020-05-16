@@ -1,8 +1,11 @@
 ---
+album: Back Of My Lac'
 artists:
 - J. Holiday
+external_ids:
+  spotify: spotify:track:6TlRNJaezOdzdECnQeRuMM
 features: []
-genres: []
+first_released_as_single: false
 key: bed-j--holiday
 lyrics_url: https://genius.com/J-holiday-bed-lyrics
 name: Bed
@@ -99,6 +102,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '2008-01-05'
+release_year: 2007
+runtime: 275106
 ---
 J. Holiday
 Oo-oh, oo-oh

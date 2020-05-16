@@ -1,8 +1,11 @@
 ---
+album: It's On (Dr. Dre) 187um Killa
 artists:
 - Eazy-E
+external_ids:
+  spotify: spotify:track:7q6lr1W6cmGWijl5kCv5RG
 features: []
-genres: []
+first_released_as_single: false
 key: real-muthaphuckkin-g-s-eazy-e
 lyrics_url: https://genius.com/Eazy-e-real-muthaphuckkin-gs-lyrics
 name: Real Muthaphuckkin G's
@@ -71,6 +74,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1994-02-26'
+release_year: 1993
+runtime: 332626
 ---
 Compton, Compton, Compton
 Ah, real muthaphuckkin G's

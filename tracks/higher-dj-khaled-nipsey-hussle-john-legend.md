@@ -1,10 +1,13 @@
 ---
+album: Father Of Asahd
 artists:
 - DJ Khaled
+external_ids:
+  spotify: spotify:track:62jiUv5B0Ps4E1s6lAzYyr
 features:
 - Nipsey Hussle
 - John Legend
-genres: []
+first_released_as_single: true
 key: higher-dj-khaled-nipsey-hussle-john-legend
 lyrics_url: https://www.azlyrics.com/lyrics/djkhaled/higher.html
 name: Higher
@@ -17,8 +20,9 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '2019-06-08'
+release_year: 2019
+runtime: 176874
 ---
-
 We The Best Music
 
 Mmm, yeah, oh
@@ -80,6 +84,3 @@ Can you feel it?
 My shoes is scrapin' the sky
 I'm so high
 We keep goin' higher
-
-
-

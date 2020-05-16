@@ -1,8 +1,11 @@
 ---
+album: Girls With Guns
 artists:
 - Tommy Shaw
+external_ids:
+  spotify: spotify:track:7FfFE8UP7TcLopiCwUHg6E
 features: []
-genres: []
+first_released_as_single: false
 key: girls-with-guns-tommy-shaw
 lyrics_url: https://genius.com/Tommy-shaw-girls-with-guns-lyrics
 name: Girls With Guns
@@ -55,6 +58,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1984-12-15'
+release_year: 1984
+runtime: 190040
 ---
 I'll tell you now
 And I won't tell you twice

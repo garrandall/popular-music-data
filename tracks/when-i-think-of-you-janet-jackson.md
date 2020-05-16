@@ -1,8 +1,11 @@
 ---
+album: Control
 artists:
 - Janet Jackson
+external_ids:
+  spotify: spotify:track:3mJ6pNcFM2CkykCYSREdKT
 features: []
-genres: []
+first_released_as_single: false
 key: when-i-think-of-you-janet-jackson
 lyrics_url: https://genius.com/Janet-jackson-when-i-think-of-you-lyrics
 name: When I Think Of You
@@ -83,6 +86,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1986-12-13'
+release_year: 1986
+runtime: 235493
 ---
 Oh, baby
 Anytime my world gets crazy

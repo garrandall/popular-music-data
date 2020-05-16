@@ -1,8 +1,11 @@
 ---
+album: Wake Up...It's Tomorrow
 artists:
 - Strawberry Alarm Clock
+external_ids:
+  spotify: spotify:track:6SKHCNr72Dzc52nXu7QPQQ
 features: []
-genres: []
+first_released_as_single: false
 key: tomorrow-strawberry-alarm-clock
 lyrics_url: https://www.azlyrics.com/lyrics/strawberryalarmclock/tomorrow.html
 name: Tomorrow
@@ -47,8 +50,9 @@ rankings:
   rank: 33
   ranking_list: Billboard Hot 100
   start_date: '1968-03-02'
+release_year: 1967
+runtime: 133813
 ---
-
 Tomorrow
 Things won't be the same
 Tomorrow
@@ -86,6 +90,3 @@ Together we can make it through
 But right now I am with you, and
 Together we can make it through
 Wow
-
-
-

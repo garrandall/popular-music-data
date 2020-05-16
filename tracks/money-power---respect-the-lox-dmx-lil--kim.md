@@ -1,10 +1,13 @@
 ---
+album: Money, Power & Respect
 artists:
 - The Lox
+external_ids:
+  spotify: spotify:track:2cXWKSIbNwqxz1TEKdOupS
 features:
 - DMX
 - Lil' Kim
-genres: []
+first_released_as_single: false
 key: money-power---respect-the-lox-dmx-lil--kim
 lyrics_url: https://www.azlyrics.com/lyrics/lox/moneypowerrespect.html
 name: Money Power & Respect
@@ -89,9 +92,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1998-08-15'
+release_year: 1998
+runtime: 256640
 ---
-
-
 See I believe in money, power, and respect.
 First You get the money.
 Then you get the muthafuckin, power.
@@ -294,6 +297,3 @@ When you eatin' right.
 Money, power, and respect.
 Money, power, and respect.
 Money, power, and respect.
-
-
-

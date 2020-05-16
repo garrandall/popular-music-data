@@ -1,8 +1,11 @@
 ---
+album: New Amerykah Part One (4th World War)
 artists:
 - Erykah Badu
+external_ids:
+  spotify: spotify:track:0HDLrKyfiE0AwP37i6mFtm
 features: []
-genres: []
+first_released_as_single: true
 key: honey-erykah-badu
 lyrics_url: https://www.azlyrics.com/lyrics/erykahbadu/honey.html
 name: Honey
@@ -19,8 +22,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2008-03-29'
+release_year: 2007
+runtime: 611666
 ---
-
 So tell me Slim what you wanna do
 When you know I'm in love wit you
 Everytime that I turn around
@@ -71,9 +75,3 @@ I need to know if you're feelin' me
 Can you stick your pinky finger in my tea
 Cause you soo sweet ta me
 Oww!
-
-
-
-
-
-

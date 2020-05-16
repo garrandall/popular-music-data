@@ -1,8 +1,11 @@
 ---
+album: Flavours
 artists:
 - The Guess Who
+external_ids:
+  spotify: spotify:track:4RtQvFCoINFAvX9Y4P4RBA
 features: []
-genres: []
+first_released_as_single: false
 key: dancin--fool-the-guess-who
 lyrics_url: https://www.azlyrics.com/lyrics/guesswho/dancinfool.html
 name: Dancin' Fool
@@ -51,8 +54,9 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1975-02-01'
+release_year: 1974
+runtime: 211626
 ---
-
 It was a Saturday night without a whole lot shakin'
 Oh my, oh my, I was bored
 I had my best duds on, it was a chance worth takin'
@@ -94,6 +98,3 @@ Been too long, been too long
 Now I'm a dancin' fool (I'm a dancin' fool, I'm a dancer)
 Been too long since I been shy and lonely
 Now I'm a dancin' fool
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: "E=MC\xB2"
 artists:
 - Mariah Carey
+external_ids:
+  spotify: spotify:track:3qmvIbYkFxsyLgl7myqHr7
 features: []
-genres: []
+first_released_as_single: false
 key: i-ll-be-lovin--u-long-time-mariah-carey
 lyrics_url: https://genius.com/Mariah-carey-ill-be-lovin-u-long-time-lyrics
 name: I'll Be Lovin' U Long Time
@@ -39,6 +42,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2008-09-13'
+release_year: 2008
+runtime: 181026
 ---
 I... I... I
 I'll be lovin' you long time (eternally)

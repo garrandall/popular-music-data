@@ -1,8 +1,11 @@
 ---
+album: Lemonade Mouth
 artists:
 - Bridgit Mendler
+external_ids:
+  spotify: spotify:track:0KXvGydCYbBgHUlqrDbz3N
 features: []
-genres: []
+first_released_as_single: false
 key: somebody-bridgit-mendler
 lyrics_url: https://genius.com/Bridgit-mendler-somebody-lyrics
 name: Somebody
@@ -11,6 +14,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2011-05-07'
+release_year: 2011
+runtime: 208866
 ---
 Can you see me?
 'Cause I'm right here

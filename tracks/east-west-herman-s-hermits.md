@@ -1,8 +1,11 @@
 ---
+album: Herman's Hermits Retrospective
 artists:
 - Herman's Hermits
+external_ids:
+  spotify: spotify:track:09AzkO1fzUDnGOKlgh2nZH
 features: []
-genres: []
+first_released_as_single: false
 key: east-west-herman-s-hermits
 lyrics_url: https://www.azlyrics.com/lyrics/hermanshermits/eastwest.html
 name: East West
@@ -39,8 +42,9 @@ rankings:
   rank: 34
   ranking_list: Billboard Hot 100
   start_date: '1967-01-21'
+release_year: 1966
+runtime: 119560
 ---
-
 East, west, over the ocean
 Perpetual motion, traveling around
 No rest, singing and playing
@@ -49,7 +53,7 @@ What a great life it must seem
 (What a great life it must seem)
 
 Swell joints, everything classy
-Nothing that's passÃ©, only the best
+Nothing that's passé, only the best
 Lush girls ogling and eyeing
 Crying and sighing, this is success
 What a great life it must seem
@@ -71,6 +75,3 @@ But when I hear young voices singin' out
 The bells at home start ringing out
 When I feel all alone
 Then I long for my home
-
-
-

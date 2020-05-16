@@ -1,8 +1,11 @@
 ---
+album: Miss Rhythm
 artists:
 - Ruth Brown
+external_ids:
+  spotify: spotify:track:4EQ0RSFlCh45LY3nYhYmgz
 features: []
-genres: []
+first_released_as_single: false
 key: jack-o-diamonds-ruth-brown
 lyrics_url: https://genius.com/Ruth-brown-jack-o-diamonds-lyrics
 name: Jack O'Diamonds
@@ -15,6 +18,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1959-06-08'
+release_year: 1959
+runtime: 153173
 ---
 Jack O'Diamonds, one-eyed knave
 On the move, hits the street

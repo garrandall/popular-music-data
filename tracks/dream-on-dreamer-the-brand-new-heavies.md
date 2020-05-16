@@ -1,8 +1,11 @@
 ---
+album: Brother Sister
 artists:
 - The Brand New Heavies
+external_ids:
+  spotify: spotify:track:3STruEx3jCXJPJOIedFtAP
 features: []
-genres: []
+first_released_as_single: false
 key: dream-on-dreamer-the-brand-new-heavies
 lyrics_url: https://genius.com/The-brand-new-heavies-dream-on-dreamer-lyrics
 name: Dream On Dreamer
@@ -51,6 +54,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1994-05-28'
+release_year: 1994
+runtime: 240760
 ---
 Dream on dreamer life gets in your way
 Dream on dreamer life gets in your way

@@ -1,8 +1,11 @@
 ---
+album: Bright Lights and Back Alleys (New Extended Version)
 artists:
 - Smokie
+external_ids:
+  spotify: spotify:track:1TR6rWgEmn5zBGXqDkOy46
 features: []
-genres: []
+first_released_as_single: false
 key: needles-and-pins-smokie
 lyrics_url: https://www.azlyrics.com/lyrics/smokie/needlesandpins.html
 name: Needles And Pins
@@ -27,8 +30,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1977-10-15'
+release_year: 1977
+runtime: 163893
 ---
-
 I saw her today,
 I saw her face,
 It was a face I loved, and I knew,
@@ -75,6 +79,3 @@ Needles and pins,
 Needles and pins,
 Needles and pins,
 Needles and pins.
-
-
-

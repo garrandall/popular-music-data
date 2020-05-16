@@ -1,8 +1,11 @@
 ---
+album: Sur La Mer
 artists:
 - The Moody Blues
+external_ids:
+  spotify: spotify:track:4JGkSbpXu1ufwkZhC4PFZJ
 features: []
-genres: []
+first_released_as_single: false
 key: i-know-you-re-out-there-somewhere-the-moody-blues
 lyrics_url: https://genius.com/The-moody-blues-i-know-youre-out-there-somewhere-lyrics
 name: I Know You're Out There Somewhere
@@ -71,6 +74,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1988-09-17'
+release_year: 1988
+runtime: 397066
 ---
 I know you're out there somewhere
 Somewhere, somewhere

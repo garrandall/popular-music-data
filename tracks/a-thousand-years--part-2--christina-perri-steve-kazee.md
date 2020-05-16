@@ -1,9 +1,12 @@
 ---
+album: 'The Twilight Saga: Breaking Dawn - Part 2 (Original Motion Picture Soundtrack)'
 artists:
 - Christina Perri
+external_ids:
+  spotify: spotify:track:7hn8Q8WAxFdL4aZ159GI7C
 features:
 - Steve Kazee
-genres: []
+first_released_as_single: false
 key: a-thousand-years--part-2--christina-perri-steve-kazee
 lyrics_url: https://www.azlyrics.com/lyrics/christinaperri/athousandyearspart2.html
 name: A Thousand Years (Part 2)
@@ -20,9 +23,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2012-12-15'
+release_year: 2012
+runtime: 305893
 ---
-
-
 The day we met
 Frozen I held my breath
 Right from the start
@@ -80,6 +83,3 @@ And all along I believed I would find you
 Time has brought your heart to me
 I have loved you for a thousand years
 I'll love you for a thousand more
-
-
-

@@ -1,9 +1,12 @@
 ---
+album: 'Sly & The Family Stone: The Woodstock Experience'
 artists:
 - Sly
 - The Family Stone
+external_ids:
+  spotify: spotify:track:4IQcNZVrKNumO9BYsw4QY2
 features: []
-genres: []
+first_released_as_single: false
 key: everyday-people-sly-the-family-stone
 lyrics_url: https://genius.com/Sly-and-the-family-stone-everyday-people-lyrics
 name: Everyday People
@@ -84,6 +87,8 @@ rankings:
   rank: 22
   ranking_list: Billboard Hot 100
   start_date: '1969-04-05'
+release_year: 1968
+runtime: 195586
 ---
 Sometimes I'm right and I can be wrong
 My own beliefs are in my song

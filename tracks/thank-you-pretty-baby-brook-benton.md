@@ -1,8 +1,11 @@
 ---
+album: Hotel Happiness
 artists:
 - Brook Benton
+external_ids:
+  spotify: spotify:track:0TgJTJ9xtPWBX8lW1uRyLp
 features: []
-genres: []
+first_released_as_single: false
 key: thank-you-pretty-baby-brook-benton
 lyrics_url: https://genius.com/Brook-benton-thank-you-pretty-baby-lyrics
 name: Thank You Pretty Baby
@@ -63,6 +66,8 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '1959-10-12'
+release_year: 1959
+runtime: 140411
 ---
 I want to thank you, pretty baby, for givin' your love to me
 I want to thank you, pretty baby, for givin' your love to me

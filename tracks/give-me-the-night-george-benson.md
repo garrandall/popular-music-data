@@ -1,8 +1,11 @@
 ---
+album: Give Me the Night
 artists:
 - George Benson
+external_ids:
+  spotify: spotify:track:5gaUkg5JNk8c4mr2jnpX8H
 features: []
-genres: []
+first_released_as_single: false
 key: give-me-the-night-george-benson
 lyrics_url: https://www.azlyrics.com/lyrics/georgebenson/givemethenight.html
 name: Give Me The Night
@@ -99,8 +102,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1980-12-06'
+release_year: 1980
+runtime: 301026
 ---
-
 Whenever dark has fallen
 You know the spirit of the party
 Starts to come alive
@@ -164,6 +168,3 @@ Gimme the night
 Gimme the night
 Gimme the night
 So, gimme the night
-
-
-

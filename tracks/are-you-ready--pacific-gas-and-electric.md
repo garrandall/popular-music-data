@@ -1,8 +1,11 @@
 ---
+album: Are You Ready?
 artists:
 - Pacific Gas And Electric
+external_ids:
+  spotify: spotify:track:3pWuy7GIIruVst2J3thkYQ
 features: []
-genres: []
+first_released_as_single: false
 key: are-you-ready--pacific-gas-and-electric
 lyrics_url: https://genius.com/Pacific-gas-and-electric-are-you-ready-lyrics
 name: Are You Ready?
@@ -55,6 +58,8 @@ rankings:
   rank: 22
   ranking_list: Billboard Hot 100
   start_date: '1970-08-15'
+release_year: 1970
+runtime: 322266
 ---
 There's rumors of war
 Men dying and women crying

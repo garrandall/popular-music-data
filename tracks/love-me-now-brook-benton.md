@@ -1,8 +1,11 @@
 ---
+album: 'Greatest Hits: The Mercury Years'
 artists:
 - Brook Benton
+external_ids:
+  spotify: spotify:track:2V1jzWfUm1HdsqSt08fFtt
 features: []
-genres: []
+first_released_as_single: false
 key: love-me-now-brook-benton
 lyrics_url: https://www.musixmatch.com/lyrics/Brook-Benton/Love-Me-Now
 name: Love Me Now
@@ -11,6 +14,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1965-07-03'
+release_year: 1965
+runtime: 182266
 ---
 If you're ever going to love me
 Love me now (love me now)

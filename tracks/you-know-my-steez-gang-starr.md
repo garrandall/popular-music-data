@@ -1,8 +1,11 @@
 ---
+album: Moment Of Truth
 artists:
 - Gang Starr
+external_ids:
+  spotify: spotify:track:2C3QwVE5adFCVsCqayhPW7
 features: []
-genres: []
+first_released_as_single: false
 key: you-know-my-steez-gang-starr
 lyrics_url: https://www.azlyrics.com/lyrics/gangstarr/youknowmysteez.html
 name: You Know My Steez
@@ -59,9 +62,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1998-02-28'
+release_year: 1997
+runtime: 247626
 ---
-
-
 That makes me know that, we we we we're doin
 We had the right idea in the beginning
 And and we just need to maintain our focus, and elevate
@@ -159,6 +162,3 @@ I stay up, I stay on, shine bright, like neon
 Your song's, pathetic, synthetic, like Rayon
 Fat beats, they play on, want dope rhymes, put me on
 Word is bond... you know my stee
-
-
-

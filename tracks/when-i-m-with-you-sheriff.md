@@ -1,8 +1,11 @@
 ---
+album: Sheriff
 artists:
 - Sheriff
+external_ids:
+  spotify: spotify:track:3RJof5CojqlbgZ5adHw50O
 features: []
-genres: []
+first_released_as_single: false
 key: when-i-m-with-you-sheriff
 lyrics_url: https://genius.com/Sheriff-when-im-with-you-lyrics
 name: When I'm With You
@@ -119,6 +122,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1989-04-15'
+release_year: 1982
+runtime: 238040
 ---
 I never needed love
 Like I need you

@@ -1,8 +1,11 @@
 ---
+album: 'Return To The 36 Chambers: The Dirty Version'
 artists:
 - Ol' Dirty Bastard
+external_ids:
+  spotify: spotify:track:2FWmKZ3kNbVsKGhuNHsltW
 features: []
-genres: []
+first_released_as_single: false
 key: brooklyn-zoo-ol--dirty-bastard
 lyrics_url: https://www.musixmatch.com/lyrics/Ol-Dirty-Bastard/Brooklyn-Zoo-Remastered-Version
 name: Brooklyn Zoo
@@ -71,6 +74,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1995-06-10'
+release_year: 1995
+runtime: 217506
 ---
 I bust that nigga ass right now
 Ain't none of them niggas can't fuck with me

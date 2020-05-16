@@ -1,8 +1,11 @@
 ---
+album: Hoku
 artists:
 - Hoku
+external_ids:
+  spotify: spotify:track:0RhkktMnJyR08vMnE34epK
 features: []
-genres: []
+first_released_as_single: false
 key: another-dumb-blonde-hoku
 lyrics_url: https://genius.com/Hoku-another-dumb-blonde-lyrics
 name: Another Dumb Blonde
@@ -63,6 +66,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2000-05-20'
+release_year: 2000
+runtime: 232066
 ---
 I think that it’s time that
 I should just let you go (let you go)

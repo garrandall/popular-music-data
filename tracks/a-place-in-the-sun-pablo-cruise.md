@@ -1,8 +1,11 @@
 ---
+album: A Place In The Sun
 artists:
 - Pablo Cruise
+external_ids:
+  spotify: spotify:track:0pvQtJzaIcBJelSZo3PeDw
 features: []
-genres: []
+first_released_as_single: false
 key: a-place-in-the-sun-pablo-cruise
 lyrics_url: https://www.azlyrics.com/lyrics/pablocruise/aplaceinthesun.html
 name: A Place In The Sun
@@ -43,8 +46,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1977-11-12'
+release_year: 1977
+runtime: 284200
 ---
-
 Well, everybody's heart needs a holiday, sometime
 And everyone of us needs to get away, somehow
 So I'm laughing lighthearted moods, oh, the sight-seeing afternoons
@@ -88,6 +92,3 @@ It's time to find your place in the sun
 (Come on now, come on now)
 It's time to find your place in the sun
 (You better find your place, you better find your place)
-
-
-

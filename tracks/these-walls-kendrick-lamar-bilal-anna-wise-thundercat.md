@@ -1,11 +1,14 @@
 ---
+album: To Pimp A Butterfly
 artists:
 - Kendrick Lamar
+external_ids:
+  spotify: spotify:track:7uWVT3UkCAZyANvv0bdyQn
 features:
 - Bilal
 - Anna Wise
 - Thundercat
-genres: []
+first_released_as_single: false
 key: these-walls-kendrick-lamar-bilal-anna-wise-thundercat
 lyrics_url: https://genius.com/Kendrick-lamar-these-walls-lyrics
 name: These Walls
@@ -14,6 +17,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2015-04-04'
+release_year: 2015
+runtime: 300973
 ---
 I remember you was conflicted, misusing your influence
 Sometimes, I did the same

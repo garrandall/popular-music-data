@@ -1,8 +1,11 @@
 ---
+album: Rock & Roll Covers - Hot Steamy Lovers, Vol. 5
 artists:
 - The Velaires
+external_ids:
+  spotify: spotify:track:0HkgSsFpKnOAYlzUfUz1if
 features: []
-genres: []
+first_released_as_single: false
 key: roll-over-beethoven-the-velaires
 lyrics_url: https://www.musixmatch.com/lyrics/The-Velaires/Roll-Over-Beethoven
 name: Roll Over Beethoven
@@ -35,6 +38,8 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1961-09-25'
+release_year: 1961
+runtime: 157773
 ---
 I'm gonna write a little letter
 Gonna mail it to my local D.J.

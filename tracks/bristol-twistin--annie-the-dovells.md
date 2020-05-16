@@ -1,8 +1,11 @@
 ---
+album: The Best Of The Dovells 1961-1965
 artists:
 - The Dovells
+external_ids:
+  spotify: spotify:track:02Cr2z2dPQ0RKCmgZTQgRq
 features: []
-genres: []
+first_released_as_single: false
 key: bristol-twistin--annie-the-dovells
 lyrics_url: https://www.musixmatch.com/lyrics/The-Dovells/Bristol-Twistin-Annie
 name: Bristol Twistin' Annie
@@ -51,6 +54,8 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '1962-07-28'
+release_year: 1962
+runtime: 134533
 ---
 Bristol twisting Annie
 Lay your twisting down

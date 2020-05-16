@@ -1,8 +1,11 @@
 ---
+album: Dance The Cool Jerk
 artists:
 - The Capitols
+external_ids:
+  spotify: spotify:track:1CQHMHRCDs1qioeseVTbaR
 features: []
-genres: []
+first_released_as_single: false
 key: cool-jerk-the-capitols
 lyrics_url: https://genius.com/The-capitols-cool-jerk-lyrics
 name: Cool Jerk
@@ -63,6 +66,8 @@ rankings:
   rank: 38
   ranking_list: Billboard Hot 100
   start_date: '1966-07-30'
+release_year: 1966
+runtime: 166746
 ---
 Cool jerk, cool jerk, cool jerk, cool jerk
 We know a cat who can really do the cool jerk

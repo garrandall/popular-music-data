@@ -1,8 +1,11 @@
 ---
+album: Adrenalize
 artists:
 - Def Leppard
+external_ids:
+  spotify: spotify:track:0LoH6lFQLNscy3RyljAewK
 features: []
-genres: []
+first_released_as_single: false
 key: let-s-get-rocked-def-leppard
 lyrics_url: https://www.azlyrics.com/lyrics/defleppard/letsgetrocked.html
 name: Let's Get Rocked
@@ -79,8 +82,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1992-08-08'
+release_year: 1992
+runtime: 295957
 ---
-
 Do ya wanna get rocked?
 
 Let's get, let's get, let's get, let's get
@@ -164,6 +168,3 @@ C'mon
 Let's get, let's get, let's get, let's get (rocked)
 Oh,
 Do ya wanna get rocked?
-
-
-

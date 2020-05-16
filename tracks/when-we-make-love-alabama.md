@@ -1,8 +1,11 @@
 ---
+album: 'Livin'' Lovin'' Rockin'' Rollin'': The 25th Anniversary Collection'
 artists:
 - Alabama
+external_ids:
+  spotify: spotify:track:3sqAwwY7mZ05ylPDcw62ly
 features: []
-genres: []
+first_released_as_single: false
 key: when-we-make-love-alabama
 lyrics_url: https://genius.com/Alabama-when-we-make-love-lyrics
 name: When We Make Love
@@ -47,6 +50,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1984-07-21'
+release_year: 1980
+runtime: 216600
 ---
 There's a light
 In your eyes tonight

@@ -1,8 +1,11 @@
 ---
+album: The Doobie Brothers
 artists:
 - The Doobie Brothers
+external_ids:
+  spotify: spotify:track:6jREzOYrZmp7gxYwKwBdl5
 features: []
-genres: []
+first_released_as_single: false
 key: nobody-the-doobie-brothers
 lyrics_url: https://www.azlyrics.com/lyrics/doobiebrothers/nobody.html
 name: Nobody
@@ -31,8 +34,9 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1974-12-07'
+release_year: 1971
+runtime: 209133
 ---
-
 Evil ways of practice may surround you
 Callin' on your inner core of life
 But your father was just a complex man of bus'ness
@@ -57,6 +61,3 @@ And changes will be swayed around me
 
 Nobody, nobody gonna take my love away from me
 Nobody, nobody gonna take my love away from me
-
-
-

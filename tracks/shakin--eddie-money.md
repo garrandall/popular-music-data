@@ -1,8 +1,11 @@
 ---
+album: No Control
 artists:
 - Eddie Money
+external_ids:
+  spotify: spotify:track:1JPXXDx2OHtSRuEq7ru6zf
 features: []
-genres: []
+first_released_as_single: false
 key: shakin--eddie-money
 lyrics_url: https://www.azlyrics.com/lyrics/eddiemoney/shakin.html
 name: Shakin'
@@ -43,8 +46,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1982-12-04'
+release_year: 1977
+runtime: 188200
 ---
-
 Rosanna's daddy had a car she loved to drive
 Stole the keys one night and took me for a ride
 Turned up the music just as loud as it could go
@@ -92,6 +96,3 @@ Sha sha sha sha sha she was shakin'
 Sha sha sha sha sha she was shakin'
 Sha sha sha sha sha she was shakin'
 Sha sha sha sha sha she was shakin'
-
-
-

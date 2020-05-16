@@ -1,8 +1,11 @@
 ---
+album: Something To Love
 artists:
 - L.T.D.
+external_ids:
+  spotify: spotify:track:3QA0o6VBN3xZbkX2SYs6Uv
 features: []
-genres: []
+first_released_as_single: false
 key: never-get-enough-of-your-love-l-t-d-
 name: Never Get Enough Of Your Love
 rankings:
@@ -34,5 +37,7 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1978-04-22'
+release_year: 1977
+runtime: 227560
 ---
 

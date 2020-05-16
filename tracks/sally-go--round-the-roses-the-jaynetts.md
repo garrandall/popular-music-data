@@ -1,8 +1,11 @@
 ---
+album: Sally Go 'Round The Roses - The Very Best Of The Jaynetts
 artists:
 - The Jaynetts
+external_ids:
+  spotify: spotify:track:1WlWj9UkTPUCNnpW6Mqmso
 features: []
-genres: []
+first_released_as_single: false
 key: sally-go--round-the-roses-the-jaynetts
 lyrics_url: https://genius.com/Jaynetts-sally-go-round-the-roses-lyrics
 name: Sally Go 'round The Roses
@@ -55,6 +58,8 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '1963-11-16'
+release_year: 1963
+runtime: 178360
 ---
 Sally go round the roses (sally go round the roses)
 Sally go round the roses (sally go round the pretty roses)

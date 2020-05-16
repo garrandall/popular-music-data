@@ -1,8 +1,11 @@
 ---
+album: Lovers Who Wander
 artists:
 - Dion
+external_ids:
+  spotify: spotify:track:6G2PfUDAlaxIqfsPON0Av5
 features: []
-genres: []
+first_released_as_single: false
 key: little-diane-dion
 lyrics_url: https://genius.com/Dion-little-diane-lyrics
 name: Little Diane
@@ -51,6 +54,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1962-09-15'
+release_year: 1962
+runtime: 165600
 ---
 Diane...Down deep inside I cry
 Diane...Without your love I'd die

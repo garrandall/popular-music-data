@@ -1,9 +1,12 @@
 ---
+album: Make Way For The Motherlode
 artists:
 - Yo-Yo
+external_ids:
+  spotify: spotify:track:7yFVwzeawvaoysd2fyCR8t
 features:
 - Ice Cube
-genres: []
+first_released_as_single: false
 key: you-can-t-play-with-my-yo-yo-yo-yo-ice-cube
 lyrics_url: https://genius.com/Yo-yo-you-cant-play-with-my-yo-yo-lyrics
 name: You Can't Play With My Yo-Yo
@@ -56,6 +59,8 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1991-08-10'
+release_year: 1991
+runtime: 304134
 ---
 Yo Jinx, man, we gotta find somebody that's down for hers, man
 All these girls sympin', man!

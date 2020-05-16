@@ -1,8 +1,11 @@
 ---
+album: Strange Trails
 artists:
 - Lord Huron
+external_ids:
+  spotify: spotify:track:4iH31mAwPbG9SSPN6nHWgu
 features: []
-genres: []
+first_released_as_single: true
 key: the-night-we-met-lord-huron
 lyrics_url: https://genius.com/Lord-huron-the-night-we-met-lyrics
 name: The Night We Met
@@ -23,6 +26,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2017-05-27'
+release_year: 2015
+runtime: 208226
 ---
 (Oh oh oh)
 (Oh oh oh)

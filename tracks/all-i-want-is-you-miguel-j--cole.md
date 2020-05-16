@@ -1,9 +1,12 @@
 ---
+album: All I Want Is You
 artists:
 - Miguel
+external_ids:
+  spotify: spotify:track:5hABmqLQ49RNtErlQYZJtI
 features:
 - J. Cole
-genres: []
+first_released_as_single: true
 key: all-i-want-is-you-miguel-j--cole
 lyrics_url: https://genius.com/Miguel-all-i-want-is-you-lyrics
 name: All I Want Is You
@@ -64,6 +67,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2011-01-01'
+release_year: 2010
+runtime: 298333
 ---
 Damn
 Damn

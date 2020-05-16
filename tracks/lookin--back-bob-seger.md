@@ -1,8 +1,11 @@
 ---
+album: '''Live'' Bullet'
 artists:
 - Bob Seger
+external_ids:
+  spotify: spotify:track:1qJdYt8OBaF1FNNF5vYfxz
 features: []
-genres: []
+first_released_as_single: false
 key: lookin--back-bob-seger
 lyrics_url: https://www.azlyrics.com/lyrics/bobseger/lookinback.html
 name: Lookin' Back
@@ -15,8 +18,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1971-11-27'
+release_year: 1971
+runtime: 156320
 ---
-
 You hit the street, you feel them staring
 You know they hate you you can feel their eyes a glarin'
 Because you're different, because you're free
@@ -39,4 +43,3 @@ When they could vote, and end the war
 They're much too busy fittin' locks upon the back door
 Give you a foxhole, a place to hide
 Cause when the war come the cops'll be on their side
-

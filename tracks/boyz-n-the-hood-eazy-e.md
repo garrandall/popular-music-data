@@ -1,8 +1,11 @@
 ---
+album: Eazy-Duz-It
 artists:
 - Eazy-E
+external_ids:
+  spotify: spotify:track:5RGXoZt1qxmAErdhbyKJKq
 features: []
-genres: []
+first_released_as_single: false
 key: boyz-n-the-hood-eazy-e
 lyrics_url: https://genius.com/Eazy-e-boyz-n-the-hood-lyrics
 name: Boyz-N-The Hood
@@ -15,6 +18,8 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '2015-09-12'
+release_year: 1987
+runtime: 339893
 ---
 Cruisin' down the street in my 6-4
 Jockin' the freaks, clockin' the dough

@@ -1,8 +1,11 @@
 ---
+album: Don't Play That Song
 artists:
 - Ben E. King
+external_ids:
+  spotify: spotify:track:4BJ7pulc0R4KrdnH27fzLg
 features: []
-genres: []
+first_released_as_single: false
 key: first-taste-of-love-ben-e--king
 lyrics_url: https://www.azlyrics.com/lyrics/beneking/firsttasteoflove.html
 name: First Taste Of Love
@@ -35,8 +38,9 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '1961-02-13'
+release_year: 1961
+runtime: 139000
 ---
-
 Mmm, the very first time you kissed me
 It was so thrilling
 What made it so great was
@@ -80,6 +84,3 @@ Swear it's never gonna die
 'Cause I've got my first taste of love
 Swear it's gonna never die
 'Cause I've got my first taste of love
-
-
-

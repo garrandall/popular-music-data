@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music, The Complete Season Three'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:3JCqj1UuBXCLvpceZscXYr
 features: []
-genres: []
+first_released_as_single: false
 key: we-found-love-glee-cast
 lyrics_url: https://genius.com/Glee-cast-we-found-love-lyrics
 name: We Found Love
@@ -11,6 +14,8 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '2012-02-04'
+release_year: 2012
+runtime: 214960
 ---
 Rachel:
 Yellow diamonds in light

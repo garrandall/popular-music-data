@@ -1,8 +1,11 @@
 ---
+album: Five O'clock World
 artists:
 - The Vogues
+external_ids:
+  spotify: spotify:track:7B0Gb4RbjuI4qn9ByWtvsS
 features: []
-genres: []
+first_released_as_single: false
 key: till-the-vogues
 lyrics_url: https://genius.com/The-vogues-till-lyrics
 name: Till
@@ -31,6 +34,8 @@ rankings:
   rank: 31
   ranking_list: Billboard Hot 100
   start_date: '1968-12-28'
+release_year: 1965
+runtime: 131355
 ---
 Till the moon deserts the sky
 Till the all the seas run dry
@@ -47,8 +52,6 @@ Just to have you adore me, oh, oh, oh
 Till the rivers flow upstream
 Till lovers cease to dream
 Till then I'm yours, be mine
-
-Instrumental interlude
 
 You are my reason to live
 All I own I would give

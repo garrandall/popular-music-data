@@ -1,8 +1,11 @@
 ---
+album: Yours
 artists:
 - Russell Dickerson
+external_ids:
+  spotify: spotify:track:3I4WFddKpe2PGZWFh7f10J
 features: []
-genres: []
+first_released_as_single: false
 key: yours-russell-dickerson
 lyrics_url: https://www.azlyrics.com/lyrics/russelldickerson/yours.html
 name: Yours
@@ -87,8 +90,9 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '2018-03-10'
+release_year: 2017
+runtime: 216960
 ---
-
 I was a boat stuck in a bottle
 That never got the chance to touch the sea
 Just forgot on the shelf
@@ -139,6 +143,3 @@ Thank God I'm yours
 Thank God I'm yours
 Thank God I'm yours
 Thank God I'm yours
-
-
-

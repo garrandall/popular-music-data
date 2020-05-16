@@ -1,8 +1,11 @@
 ---
+album: Nu Flavor
 artists:
 - Nu Flavor
+external_ids:
+  spotify: spotify:track:0zLMsK6UeAP4KrbekFbHvC
 features: []
-genres: []
+first_released_as_single: false
 key: heaven-nu-flavor
 lyrics_url: https://www.azlyrics.com/lyrics/nuflavor/heaven.html
 name: Heaven
@@ -103,8 +106,9 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1998-03-21'
+release_year: 1997
+runtime: 298133
 ---
-
 First time I saw you girl,
 You turn me upside down
 I can't stop thinking bout you
@@ -157,6 +161,3 @@ Heaven oh heaven can't you help me
 I'm down on my knees please, heaven
 
 Heaven...
-
-
-

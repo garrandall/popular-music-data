@@ -1,8 +1,11 @@
 ---
+album: It's All Over
 artists:
 - Walter Jackson
+external_ids:
+  spotify: spotify:track:0cdd3tfG1tQMVyafEAY4N4
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-all-over-walter-jackson
 lyrics_url: https://genius.com/Walter-jackson-its-all-over-lyrics
 name: It's All Over
@@ -31,6 +34,8 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1964-12-26'
+release_year: 1964
+runtime: 176786
 ---
 It's all over
 

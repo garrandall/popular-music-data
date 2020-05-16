@@ -1,8 +1,11 @@
 ---
+album: Nitty Gritty
 artists:
 - Gladys Knight And The Pips
+external_ids:
+  spotify: spotify:track:1aMprzGYfTyP5DN4jM5NBZ
 features: []
-genres: []
+first_released_as_single: false
 key: the-nitty-gritty-gladys-knight-and-the-pips
 lyrics_url: https://genius.com/Gladys-knight-and-the-pips-the-nitty-gritty-single-version-lyrics
 name: The Nitty Gritty
@@ -51,6 +54,8 @@ rankings:
   rank: 35
   ranking_list: Billboard Hot 100
   start_date: '1969-09-27'
+release_year: 1969
+runtime: 181586
 ---
 Yeah, mmm, yeah
 Do you know that some folks know about it, some don't

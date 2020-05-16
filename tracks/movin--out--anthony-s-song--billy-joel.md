@@ -1,8 +1,11 @@
 ---
+album: The Stranger
 artists:
 - Billy Joel
+external_ids:
+  spotify: spotify:track:16GUMo6u3D2qo9a19AkYct
 features: []
-genres: []
+first_released_as_single: false
 key: movin--out--anthony-s-song--billy-joel
 lyrics_url: https://genius.com/Billy-joel-movin-out-anthonys-song-lyrics
 name: Movin' Out (Anthony's Song)
@@ -63,6 +66,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1978-06-17'
+release_year: 1977
+runtime: 210760
 ---
 Anthony works in the grocery store
 Savin' his pennies for someday

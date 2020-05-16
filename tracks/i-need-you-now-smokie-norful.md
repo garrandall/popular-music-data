@@ -1,8 +1,11 @@
 ---
+album: I Need You Now
 artists:
 - Smokie Norful
+external_ids:
+  spotify: spotify:track:44q2DhInsQYJ8X1q2H1RNj
 features: []
-genres: []
+first_released_as_single: false
 key: i-need-you-now-smokie-norful
 lyrics_url: https://www.azlyrics.com/lyrics/smokienorful/ineedyounow.html
 name: I Need You Now
@@ -19,8 +22,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2003-12-13'
+release_year: 2002
+runtime: 251466
 ---
-
 Not a second or another minute
 Not an hour of another day
 But at this moment with my arms outstretched
@@ -57,6 +61,3 @@ I need you now
 Oh, not another second, not another minute, Lord,
 Can't wait another day (oh no, no)
 Please, make a way (oh, lord, oh, God, oo yeah)
-
-
-

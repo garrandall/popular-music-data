@@ -1,8 +1,11 @@
 ---
+album: The Love Songs
 artists:
 - Clint Black
+external_ids:
+  spotify: spotify:track:6NBaOUmCVpNAaqBDFiJkCn
 features: []
-genres: []
+first_released_as_single: false
 key: when-i-said-i-do-clint-black
 lyrics_url: https://genius.com/Clint-black-when-i-said-i-do-lyrics
 name: When I Said I Do
@@ -87,6 +90,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '2000-02-26'
+release_year: 1999
+runtime: 268960
 ---
 Clint Black & Lisa Hartman Black
 

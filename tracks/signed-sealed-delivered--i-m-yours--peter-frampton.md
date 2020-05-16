@@ -1,8 +1,11 @@
 ---
+album: I'm In You
 artists:
 - Peter Frampton
+external_ids:
+  spotify: spotify:track:7gEcXNb1ma3CZfI8emLTiF
 features: []
-genres: []
+first_released_as_single: false
 key: signed-sealed-delivered--i-m-yours--peter-frampton
 lyrics_url: https://genius.com/Peter-frampton-signed-sealed-delivered-im-yours-lyrics
 name: Signed Sealed Delivered (I'm Yours)
@@ -71,6 +74,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1977-12-10'
+release_year: 1977
+runtime: 234093
 ---
 Like a fool I went and stayed too long
 Now I'm wondering if your love's still strong

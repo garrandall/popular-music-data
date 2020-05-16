@@ -1,8 +1,11 @@
 ---
+album: The Very Best Of
 artists:
 - Damita Jo
+external_ids:
+  spotify: spotify:track:2JuHkrWEmd7h2plB0mIBRW
 features: []
-genres: []
+first_released_as_single: false
 key: keep-your-hands-off-of-him-damita-jo
 lyrics_url: https://genius.com/Damita-jo-keep-your-hands-off-of-him-lyrics
 name: Keep Your Hands Off Of Him
@@ -27,6 +30,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1961-03-06'
+release_year: 1961
+runtime: 149653
 ---
 Take your hands off of him
 He don't belong to you

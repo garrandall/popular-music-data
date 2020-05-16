@@ -1,8 +1,11 @@
 ---
+album: Unmasked
 artists:
 - KISS
+external_ids:
+  spotify: spotify:track:1aJtdcYdncvyNrVKCcj0eD
 features: []
-genres: []
+first_released_as_single: false
 key: shandi-kiss
 lyrics_url: https://www.azlyrics.com/lyrics/kiss/shandi.html
 name: Shandi
@@ -47,8 +50,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1980-08-23'
+release_year: 1980
+runtime: 216866
 ---
-
 I just can't pretend no more, I keep runnin' out of lies
 Lovin' you is killin' me inside
 Everytime I find the words to end it, something in your eyes won't let it
@@ -69,6 +73,3 @@ Say goodnight when we should say goodbye (say goodbye)
 (Shandi, Shandi) Tonight must last us forever and ever
 Forever we say goodnight and go home
 Shandi, Shandi, tonight must last us forever
-
-
-

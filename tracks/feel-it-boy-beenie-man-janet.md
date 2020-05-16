@@ -1,9 +1,12 @@
 ---
+album: Tropical Storm
 artists:
 - Beenie Man
+external_ids:
+  spotify: spotify:track:6KUI3A3jmZ0cGLDzOT41lX
 features:
 - Janet
-genres: []
+first_released_as_single: false
 key: feel-it-boy-beenie-man-janet
 lyrics_url: https://www.azlyrics.com/lyrics/beenieman/feelitboy.html
 name: Feel It Boy
@@ -56,9 +59,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2002-10-19'
+release_year: 2002
+runtime: 207133
 ---
-
-
 Baby Girl
 Alright now
 Ooo Lord, Lord, Lord
@@ -146,6 +149,3 @@ Forget everything and everybody, let's just have a parting, me and you
 (Let's just have a aprting, let's just have a parting)
 Forget everything and everybody, boy, let's just have a parting, me and you
 (Let's have a parting now, now)
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: How I Feel
 artists:
 - Flo Rida
+external_ids:
+  spotify: spotify:track:3et1SjQkOhOSUl9vzfDzlx
 features: []
-genres: []
+first_released_as_single: true
 key: how-i-feel-flo-rida
 lyrics_url: https://genius.com/Flo-rida-how-i-feel-lyrics
 name: How I Feel
@@ -15,6 +18,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2014-02-01'
+release_year: 2013
+runtime: 169557
 ---
 Birds flying high
 You know how I feel (oh)

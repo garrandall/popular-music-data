@@ -1,8 +1,11 @@
 ---
+album: Let Me In Your Life
 artists:
 - Aretha Franklin
+external_ids:
+  spotify: spotify:track:1PbB82yaidq8X0XPhLlBek
 features: []
-genres: []
+first_released_as_single: false
 key: until-you-come-back-to-me--that-s-what-i-m-gonna-do--aretha-franklin
 lyrics_url: https://genius.com/Aretha-franklin-until-you-come-back-to-me-thats-what-im-gonna-do-lyrics
 name: Until You Come Back To Me (That's What I'm Gonna Do)
@@ -91,6 +94,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1974-04-13'
+release_year: 1972
+runtime: 206906
 ---
 Though you don’t call anymore
 I sit and wait in vain

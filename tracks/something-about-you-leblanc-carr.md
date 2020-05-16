@@ -1,9 +1,12 @@
 ---
+album: Midnight Light
 artists:
 - LeBlanc
 - Carr
+external_ids:
+  spotify: spotify:track:1qgVc78R3aYp1ieEeT2BDq
 features: []
-genres: []
+first_released_as_single: false
 key: something-about-you-leblanc-carr
 name: Something About You
 rankings:
@@ -31,5 +34,7 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1977-08-06'
+release_year: 1977
+runtime: 200813
 ---
 

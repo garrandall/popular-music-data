@@ -1,8 +1,11 @@
 ---
+album: Groove Theory
 artists:
 - Groove Theory
+external_ids:
+  spotify: spotify:track:5R20SLXw67E9YarADeTIoe
 features: []
-genres: []
+first_released_as_single: false
 key: baby-luv-groove-theory
 lyrics_url: https://www.azlyrics.com/lyrics/groovetheory/babyluv.html
 name: Baby Luv
@@ -51,8 +54,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1996-10-12'
+release_year: 1995
+runtime: 287266
 ---
-
 There's something I know I should of told you
 Something that's growing everyday
 Whether or not
@@ -97,8 +101,3 @@ It's a delight
 God gave you life
 Baby love
 Oh, baby luv, baby, baby
-
-
-
-
-

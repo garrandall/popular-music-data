@@ -1,9 +1,12 @@
 ---
+album: Soul Power, Vol. 2
 artists:
 - Frankie Karl
 - The Dreams
+external_ids:
+  spotify: spotify:track:6hkcW1ud6rTmwSmkGYQV8I
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-be-afraid--do-as-i-say--frankie-karl-the-dreams
 lyrics_url: https://www.musixmatch.com/lyrics/Frankie-Karl-and-the-Dreams/Don-t-Be-Afraid-Do-as-I-Say
 name: Don't Be Afraid (Do As I Say)
@@ -12,6 +15,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1968-12-14'
+release_year: 1968
+runtime: 140320
 ---
 Don't be afraid, do as I say, baby
 Don't be afraid, do as I say, baby

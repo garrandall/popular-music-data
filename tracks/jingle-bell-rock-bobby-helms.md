@@ -1,8 +1,11 @@
 ---
+album: 'The Classic Years: 1956-1962'
 artists:
 - Bobby Helms
+external_ids:
+  spotify: spotify:track:7vQbuQcyTflfCIOu3Uzzya
 features: []
-genres: []
+first_released_as_single: true
 key: jingle-bell-rock-bobby-helms
 lyrics_url: https://genius.com/Bobby-helms-jingle-bell-rock-lyrics
 name: Jingle Bell Rock
@@ -127,6 +130,8 @@ rankings:
   rank: 3
   ranking_list: Billboard Hot 100
   start_date: '2020-01-04'
+release_year: 1957
+runtime: 130973
 ---
 Jingle bell, jingle bell, jingle bell rock
 Jingle bells swing and jingle bells ring

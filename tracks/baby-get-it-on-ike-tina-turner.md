@@ -1,9 +1,12 @@
 ---
+album: Sessions
 artists:
 - Ike
 - Tina Turner
+external_ids:
+  spotify: spotify:track:7JnqlIJ9jJD6KPPAIImS7V
 features: []
-genres: []
+first_released_as_single: false
 key: baby-get-it-on-ike-tina-turner
 lyrics_url: https://genius.com/Ike-and-tina-turner-baby-get-it-on-lyrics
 name: Baby-Get It On
@@ -24,6 +27,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1975-06-28'
+release_year: 1975
+runtime: 191893
 ---
 You don't know girl how you blow my mind
 I said now, baby, won't you hear what I say?

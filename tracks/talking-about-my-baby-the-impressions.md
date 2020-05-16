@@ -1,8 +1,11 @@
 ---
+album: Keep On Pushing
 artists:
 - The Impressions
+external_ids:
+  spotify: spotify:track:6uqPpCZXAT00AQPZgaI6hp
 features: []
-genres: []
+first_released_as_single: false
 key: talking-about-my-baby-the-impressions
 lyrics_url: https://genius.com/The-impressions-talking-about-my-baby-lyrics
 name: Talking About My Baby
@@ -43,6 +46,8 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '1964-03-14'
+release_year: 1964
+runtime: 154133
 ---
 I wanna talk about my baby, yeah yeah
 With her pretty smile, yeah yeah

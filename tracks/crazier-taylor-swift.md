@@ -1,8 +1,11 @@
 ---
+album: Hannah Montana The Movie
 artists:
 - Taylor Swift
+external_ids:
+  spotify: spotify:track:5vyxXfD5gLlyPxGZMEjtmd
 features: []
-genres: []
+first_released_as_single: false
 key: crazier-taylor-swift
 lyrics_url: https://www.azlyrics.com/lyrics/taylorswift/crazier.html
 name: Crazier
@@ -39,8 +42,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2009-05-30'
+release_year: 2009
+runtime: 191946
 ---
-
 I'd never gone with the wind
 Just let it flow
 Let it take me where it wants to go
@@ -82,6 +86,3 @@ You make me crazier, crazier
 Feels like I'm fallin' and I am lost in your eyes
 You make me crazier, crazier, crazier
 Crazier, crazier.
-
-
-

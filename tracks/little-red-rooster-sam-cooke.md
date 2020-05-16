@@ -1,8 +1,11 @@
 ---
+album: Night Beat
 artists:
 - Sam Cooke
+external_ids:
+  spotify: spotify:track:2Jiy1soBkPkbt62V9iqz9e
 features: []
-genres: []
+first_released_as_single: false
 key: little-red-rooster-sam-cooke
 lyrics_url: https://www.azlyrics.com/lyrics/samcooke/littleredrooster.html
 name: Little Red Rooster
@@ -47,8 +50,9 @@ rankings:
   rank: 34
   ranking_list: Billboard Hot 100
   start_date: '1963-12-28'
+release_year: 1960
+runtime: 173786
 ---
-
 I'm a little red rooster,
 Too lazy to crow for day
 I'm a little red rooster,
@@ -76,6 +80,3 @@ I'm a little red rooster,
 Too lazy to crow for day
 Keep everything in the barnyard,
 Upset in every way
-
-
-

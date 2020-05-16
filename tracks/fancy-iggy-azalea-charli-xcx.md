@@ -1,9 +1,12 @@
 ---
+album: The New Classic (Deluxe Version)
 artists:
 - Iggy Azalea
+external_ids:
+  spotify: spotify:track:3oiMJQAWVaxSubJ7b2VUtX
 features:
 - Charli XCX
-genres: []
+first_released_as_single: false
 key: fancy-iggy-azalea-charli-xcx
 lyrics_url: https://www.azlyrics.com/lyrics/iggyazalea/fancy.html
 name: Fancy
@@ -164,9 +167,9 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '2014-12-13'
+release_year: 2014
+runtime: 199938
 ---
-
-
 First thing's first, I'm the realest (realest)
 Drop this and let the whole world feel it (let them feel it)
 And I'm still in the Murda Bizness

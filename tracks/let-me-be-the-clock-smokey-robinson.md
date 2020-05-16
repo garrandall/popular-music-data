@@ -1,8 +1,11 @@
 ---
+album: Warm Thoughts
 artists:
 - Smokey Robinson
+external_ids:
+  spotify: spotify:track:6XljaLDO81KTEY3YhOQsuB
 features: []
-genres: []
+first_released_as_single: false
 key: let-me-be-the-clock-smokey-robinson
 lyrics_url: https://www.azlyrics.com/lyrics/smokeyrobinson/letmebetheclock.html
 name: Let Me Be The Clock
@@ -63,8 +66,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1980-06-14'
+release_year: 1980
+runtime: 315813
 ---
-
 Let me be the clock for the time of your life, oh, yeah
 Let me be the pendulum that strikes your chime
 For the first time
@@ -122,6 +126,3 @@ For the first time and every time after that
 So let me, let me, let me, let me
 Let me, let me, baby, oh oh
 Let me be the pendulum striking your chime
-
-
-

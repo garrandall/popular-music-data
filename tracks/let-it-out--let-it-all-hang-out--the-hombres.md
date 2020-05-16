@@ -1,8 +1,11 @@
 ---
+album: Karaoke - Male Oldies - Vol.14
 artists:
 - The Hombres
+external_ids:
+  spotify: spotify:track:4yGJsn0qCPbXfoupkBvTKP
 features: []
-genres: []
+first_released_as_single: false
 key: let-it-out--let-it-all-hang-out--the-hombres
 lyrics_url: https://genius.com/The-hombres-let-it-out-let-it-all-hang-out-lyrics
 name: Let It Out (Let It All Hang Out)
@@ -59,6 +62,8 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '1967-12-09'
+release_year: 1967
+runtime: 138019
 ---
 (spoken): "A preachment, dear friends, you are about to receive
 On John Barleycorn, nicotine, and the temptations of Eve"

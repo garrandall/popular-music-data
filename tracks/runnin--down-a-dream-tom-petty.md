@@ -1,8 +1,11 @@
 ---
+album: Full Moon Fever
 artists:
 - Tom Petty
+external_ids:
+  spotify: spotify:track:3KBUg1LskpL8o8DayZy82N
 features: []
-genres: []
+first_released_as_single: false
 key: runnin--down-a-dream-tom-petty
 lyrics_url: https://genius.com/Tom-petty-runnin-down-a-dream-lyrics
 name: Runnin' Down A Dream
@@ -63,6 +66,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1989-10-28'
+release_year: 1975
+runtime: 13792
 ---
 It was a beautiful day, the sun beat down
 I had the radio on, I was drivin'

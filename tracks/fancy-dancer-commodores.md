@@ -1,8 +1,11 @@
 ---
+album: Hot On The Tracks
 artists:
 - Commodores
+external_ids:
+  spotify: spotify:track:5U5HnMPCg1NJpLsAo2HxrP
 features: []
-genres: []
+first_released_as_single: false
 key: fancy-dancer-commodores
 lyrics_url: https://genius.com/Commodores-fancy-dancer-lyrics
 name: Fancy Dancer
@@ -43,6 +46,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1977-03-05'
+release_year: 1976
+runtime: 264466
 ---
 Have you found yourself in love before
 Tell me ain't it a different kind of thang

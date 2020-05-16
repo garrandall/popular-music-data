@@ -1,9 +1,12 @@
 ---
+album: The Soul of a Boy and Girl
 artists:
 - Jon
 - Robin
+external_ids:
+  spotify: spotify:track:0AEwlgUZ8zkVH2WEJibDQz
 features: []
-genres: []
+first_released_as_single: false
 key: drums-jon-robin
 lyrics_url: https://www.musixmatch.com/lyrics/Jon-Robin/Drums
 name: Drums
@@ -16,6 +19,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1967-08-26'
+release_year: 1967
+runtime: 170000
 ---
 Do you feel it
 When we touch

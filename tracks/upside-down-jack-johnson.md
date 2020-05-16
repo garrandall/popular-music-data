@@ -1,8 +1,12 @@
 ---
+album: 'Jack Johnson And Friends: Sing-A-Longs And Lullabies For The Film Curious
+  George'
 artists:
 - Jack Johnson
+external_ids:
+  spotify: spotify:track:6shRGWCtBUOPFLFTTqXZIC
 features: []
-genres: []
+first_released_as_single: false
 key: upside-down-jack-johnson
 lyrics_url: https://genius.com/Jack-johnson-upside-down-lyrics
 name: Upside Down
@@ -87,6 +91,8 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '2006-06-10'
+release_year: 2006
+runtime: 208653
 ---
 Who's to say what's impossible?
 Well they forgot, this world keeps spinning

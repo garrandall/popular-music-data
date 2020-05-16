@@ -1,8 +1,11 @@
 ---
+album: Monster
 artists:
 - Meek Mill
+external_ids:
+  spotify: spotify:track:37EDnGj3yFe5Hs4Zk3s3YF
 features: []
-genres: []
+first_released_as_single: true
 key: monster-meek-mill
 lyrics_url: https://www.azlyrics.com/lyrics/meekmill/monster.html
 name: Monster
@@ -11,8 +14,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2015-03-21'
+release_year: 2015
+runtime: 170882
 ---
-
 The money turned me into a monster
 The money turned my noodles into pasta
 The money turned my tuna into lobster
@@ -77,6 +81,3 @@ I put my jeweler on his feet
 Hundred thou I used to do that every week
 Never sleep its funny how I never speak
 You see a foreign in my city that was me
-
-
-

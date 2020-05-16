@@ -1,8 +1,11 @@
 ---
+album: The Worm
 artists:
 - Jimmy McGriff
+external_ids:
+  spotify: spotify:track:1VsMIGb2CX63J2Yt1sa12v
 features: []
-genres: []
+first_released_as_single: false
 key: the-worm-jimmy-mcgriff
 name: The Worm
 rankings:
@@ -10,5 +13,7 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1968-12-14'
+release_year: 1968
+runtime: 200733
 ---
 

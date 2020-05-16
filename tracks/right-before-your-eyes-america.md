@@ -1,8 +1,11 @@
 ---
+album: View From The Ground
 artists:
 - America
+external_ids:
+  spotify: spotify:track:1nZb59z7a16fY7HmHbLIZI
 features: []
-genres: []
+first_released_as_single: false
 key: right-before-your-eyes-america
 lyrics_url: https://genius.com/America-right-before-your-eyes-lyrics
 name: Right Before Your Eyes
@@ -59,6 +62,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1983-02-19'
+release_year: 1982
+runtime: 233400
 ---
 Every day I sit beside you
 On the bus to Madison Avenue

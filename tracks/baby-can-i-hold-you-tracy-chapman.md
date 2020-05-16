@@ -1,8 +1,11 @@
 ---
+album: Tracy Chapman
 artists:
 - Tracy Chapman
+external_ids:
+  spotify: spotify:track:2DjWsDGgL1xNbhnr7f6t5F
 features: []
-genres: []
+first_released_as_single: false
 key: baby-can-i-hold-you-tracy-chapman
 lyrics_url: https://genius.com/Tracy-chapman-baby-can-i-hold-you-lyrics
 name: Baby Can I Hold You
@@ -55,6 +58,8 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1989-01-21'
+release_year: 1988
+runtime: 193120
 ---
 Sorry
 Is all that you can say

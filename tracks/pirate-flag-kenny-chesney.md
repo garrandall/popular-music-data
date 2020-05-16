@@ -1,8 +1,11 @@
 ---
+album: Life on a Rock
 artists:
 - Kenny Chesney
+external_ids:
+  spotify: spotify:track:1RfPA6mxhOvc5dVK9MHReF
 features: []
-genres: []
+first_released_as_single: false
 key: pirate-flag-kenny-chesney
 lyrics_url: https://www.azlyrics.com/lyrics/kennychesney/pirateflag.html
 name: Pirate Flag
@@ -79,8 +82,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2013-06-22'
+release_year: 2013
+runtime: 225426
 ---
-
 Well I come from a little bitty, homegrown small town,
 Smoky Mountains, nice place to hang around.
 Moonshine, that's where they make it,
@@ -128,6 +132,3 @@ A pirate flag and an island girl
 A pirate flag and an island girl
 A pirate flag and an island girl
 A pirate flag and an island girl
-
-
-

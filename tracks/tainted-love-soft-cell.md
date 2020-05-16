@@ -1,8 +1,11 @@
 ---
+album: Non-Stop Erotic Cabaret
 artists:
 - Soft Cell
+external_ids:
+  spotify: spotify:track:58E1XVmZTODC67YNjneuXM
 features: []
-genres: []
+first_released_as_single: false
 key: tainted-love-soft-cell
 lyrics_url: https://genius.com/Soft-cell-tainted-love-lyrics
 name: Tainted Love
@@ -179,6 +182,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1982-11-06'
+release_year: 1981
+runtime: 153840
 ---
 Sometimes I feel I've got to
 Run away I've got to

@@ -1,8 +1,11 @@
 ---
+album: The "Angry" Young Them!
 artists:
 - Them
+external_ids:
+  spotify: spotify:track:2aH5Pqq1F0sqZN1NFmWNvL
 features: []
-genres: []
+first_released_as_single: false
 key: gloria-them
 lyrics_url: https://genius.com/Them-gloria-lyrics
 name: Gloria
@@ -35,6 +38,8 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '1966-05-28'
+release_year: 1965
+runtime: 159106
 ---
 Like to tell ya about my baby
 You know she comes around

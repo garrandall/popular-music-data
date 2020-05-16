@@ -1,8 +1,11 @@
 ---
+album: They're Coming to Take Me Away, Ha-Haaa!
 artists:
 - Napoleon XIV
+external_ids:
+  spotify: spotify:track:794O0j1i57zgUMC7BCBMqY
 features: []
-genres: []
+first_released_as_single: true
 key: they-re-coming-to-take-me-away-ha-haaa--napoleon-xiv
 lyrics_url: https://genius.com/Napoleon-xiv-theyre-coming-to-take-me-away-ha-haaa-lyrics
 name: They're Coming To Take Me Away Ha-Haaa!
@@ -47,6 +50,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1973-09-22'
+release_year: 1966
+runtime: 134066
 ---
 Remember when you ran away
 And I got on my knees

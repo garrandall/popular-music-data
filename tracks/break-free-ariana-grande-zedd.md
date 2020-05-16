@@ -1,9 +1,12 @@
 ---
+album: My Everything
 artists:
 - Ariana Grande
+external_ids:
+  spotify: spotify:track:12KUFSHFgT0XCoiSlvdQi4
 features:
 - Zedd
-genres: []
+first_released_as_single: false
 key: break-free-ariana-grande-zedd
 lyrics_url: https://www.azlyrics.com/lyrics/arianagrande/breakfree.html
 name: Break Free
@@ -96,8 +99,9 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '2014-12-13'
+release_year: 2014
+runtime: 214840
 ---
-
 If you want it, take it
 I should've said it before
 Tried to hide it, fake it
@@ -158,6 +162,3 @@ This is the part when I say I don't want ya
 I'm stronger than I've been before
 This is the part when I break free
 'Cause I can't resist it no more
-
-
-

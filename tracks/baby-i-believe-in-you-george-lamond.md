@@ -1,8 +1,11 @@
 ---
+album: Creo En Ti
 artists:
 - George LaMond
+external_ids:
+  spotify: spotify:track:0wWOeA6NFUbsz7JESOGpEY
 features: []
-genres: []
+first_released_as_single: false
 key: baby-i-believe-in-you-george-lamond
 lyrics_url: https://genius.com/George-lamond-baby-i-believe-in-you-lyrics
 name: Baby I Believe In You
@@ -35,9 +38,11 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1993-01-16'
+release_year: 1992
+runtime: 235906
 ---
-Huu hu huuu
-Yeeahh yeahhh
+Hu hu hu
+Yeah yeah
 
 (Believe in you)
 
@@ -55,14 +60,12 @@ Baby you are just so amazing
 That I'm so in love girl
 (With you)
 
-(CHORUS)
 I Believe In You
 (I Believe In us)
 I Believe In You
 It's something about you
 I Believe, I Believe
 (I Believe In You)
-Haa ah
 Baby, I Believe In us
 
 And every little Mention about trust
@@ -74,9 +77,8 @@ Baby, I might sound crazy
 For the way I feel about you
 Baby you are just so amazing
 That I'm so in love girl
-(With you) ohooh
+(With you) oh oh
 
-(repeat CHORUS)
 I Believe In You
 
 (I Believe In us)
@@ -85,21 +87,19 @@ It's something about you
 I Believe, I Believe
 (I Believe In You)
 
-I Believe In youuuuu huu
+I Believe In you huu
 
 Wyyyy Close to you
 
 Iiii know I Believe In you
 I Believe, I Believe
 
-(repeat CHORUS)
 I Believe In You
 
 (I Believe In us)
-Youuu
+You
 It's something about you
 I Believe, I Believe
 I Believe In You
-Haa ah
 Baby, I Believe In you
 I Believe In us

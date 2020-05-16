@@ -1,9 +1,12 @@
 ---
+album: Mecca And The Soul Brother
 artists:
 - Pete Rock
 - C.L. Smooth
+external_ids:
+  spotify: spotify:track:2Mb3zpobD0CvJGWv6NpsPy
 features: []
-genres: []
+first_released_as_single: false
 key: they-reminisce-over-you--troy--pete-rock-c-l--smooth
 lyrics_url: https://genius.com/Pete-rock-and-cl-smooth-they-reminisce-over-you-troy-lyrics
 name: They Reminisce Over You (TROY)
@@ -68,6 +71,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1992-10-03'
+release_year: 1992
+runtime: 286693
 ---
 (I reminisce, I reminisce)
 (I reminisce, I reminisce)

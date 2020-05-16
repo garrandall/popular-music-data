@@ -1,9 +1,12 @@
 ---
+album: How Do You Do?
 artists:
 - Mouth
 - MacNeal
+external_ids:
+  spotify: spotify:track:07LmfgQGJ96uLSP3Lho5ne
 features: []
-genres: []
+first_released_as_single: false
 key: hey-you-love-mouth-macneal
 name: Hey You Love
 rankings:
@@ -19,5 +22,7 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1972-11-04'
+release_year: 1972
+runtime: 216733
 ---
 

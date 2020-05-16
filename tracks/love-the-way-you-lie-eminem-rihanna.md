@@ -1,9 +1,12 @@
 ---
+album: Recovery
 artists:
 - Eminem
+external_ids:
+  spotify: spotify:track:15JINEqzVMv3SvJTAXAKED
 features:
 - Rihanna
-genres: []
+first_released_as_single: false
 key: love-the-way-you-lie-eminem-rihanna
 lyrics_url: https://www.azlyrics.com/lyrics/eminem/lovethewayyoulie.html
 name: Love The Way You Lie
@@ -124,9 +127,9 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '2011-01-22'
+release_year: 2010
+runtime: 263373
 ---
-
-
 Just gonna stand there and watch me burn
 Well, that's alright because I like the way it hurts
 Just gonna stand there and hear me cry
@@ -227,6 +230,3 @@ Just gonna stand there and hear me cry
 Well, that's alright because I love the way you lie
 I love the way you lie
 I love the way you lie
-
-
-

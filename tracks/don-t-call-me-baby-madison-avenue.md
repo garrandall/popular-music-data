@@ -1,8 +1,11 @@
 ---
+album: Don't Call Me Baby
 artists:
 - Madison Avenue
+external_ids:
+  spotify: spotify:track:4fazGt0v2v2zkzddQOcDZD
 features: []
-genres: []
+first_released_as_single: true
 key: don-t-call-me-baby-madison-avenue
 lyrics_url: https://genius.com/Madison-avenue-dont-call-me-baby-lyrics
 name: Don't Call Me Baby
@@ -87,6 +90,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2000-11-18'
+release_year: 1999
+runtime: 228140
 ---
 You and me, we have an opportunity
 And we could make it something really cool

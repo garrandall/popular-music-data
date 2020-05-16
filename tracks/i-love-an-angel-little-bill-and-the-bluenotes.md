@@ -1,8 +1,11 @@
 ---
+album: The History of Northwest Rock Vol. 1
 artists:
 - Little Bill and The Bluenotes
+external_ids:
+  spotify: spotify:track:4QsPBDj0KQNInNqVF5uA13
 features: []
-genres: []
+first_released_as_single: false
 key: i-love-an-angel-little-bill-and-the-bluenotes
 name: I Love An Angel
 rankings:
@@ -30,5 +33,7 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '1959-07-27'
+release_year: 1959
+runtime: 168333
 ---
 

@@ -1,8 +1,11 @@
 ---
+album: Business As Usual
 artists:
 - Men At Work
+external_ids:
+  spotify: spotify:track:5MTQHfYH4RkJMtmtBQmnEj
 features: []
-genres: []
+first_released_as_single: false
 key: down-under-men-at-work
 lyrics_url: https://genius.com/Men-at-work-down-under-lyrics
 name: Down Under
@@ -107,6 +110,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1983-04-23'
+release_year: 1981
+runtime: 223760
 ---
 Traveling in a fried-out Kombi
 On a hippie trail, head full of zombie

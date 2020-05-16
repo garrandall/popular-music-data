@@ -1,8 +1,11 @@
 ---
+album: When You Hear Lou, You've Heard It All
 artists:
 - Lou Rawls
+external_ids:
+  spotify: spotify:track:1jItpr7KnM71qdb1ZwgWwt
 features: []
-genres: []
+first_released_as_single: false
 key: lady-love-lou-rawls
 lyrics_url: https://www.azlyrics.com/lyrics/lourawls/ladylove.html
 name: Lady Love
@@ -75,8 +78,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1978-05-13'
+release_year: 1972
+runtime: 220040
 ---
-
 Lady love, your love is peaceful
 Like the summer's breeze
 My lady love, with love that's tender
@@ -125,6 +129,3 @@ You are so good to me
 Lady love, like a warm summer breeze
 (So glad I found my lady love, lady love)
 (So glad I found my lady love, lady love)
-
-
-

@@ -1,9 +1,12 @@
 ---
+album: Culture II
 artists:
 - Migos
+external_ids:
+  spotify: spotify:track:3OnOomd79OjqSYHchCQ6ht
 features:
 - Post Malone
-genres: []
+first_released_as_single: false
 key: notice-me-migos-post-malone
 lyrics_url: https://www.azlyrics.com/lyrics/migos/noticeme.html
 name: Notice Me
@@ -28,8 +31,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2018-03-10'
+release_year: 2018
+runtime: 233880
 ---
-
 Good job First
 
 
@@ -127,6 +131,3 @@ Get live, yeah
 Nawfside, yeah
 Can we ride, yeah
 Yeah, yeah, yeah, yeah
-
-
-

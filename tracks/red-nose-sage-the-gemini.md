@@ -1,8 +1,11 @@
 ---
+album: Remember Me
 artists:
 - Sage The Gemini
+external_ids:
+  spotify: spotify:track:65rZ4oDVon6GMzTkSBzUnK
 features: []
-genres: []
+first_released_as_single: true
 key: red-nose-sage-the-gemini
 lyrics_url: https://genius.com/Sage-the-gemini-red-nose-lyrics
 name: Red Nose
@@ -87,6 +90,8 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '2013-12-14'
+release_year: 2013
+runtime: 193573
 ---
 Ho-ho-ho-ho-holy shit
 

@@ -1,8 +1,11 @@
 ---
+album: American Saturday Night
 artists:
 - Brad Paisley
+external_ids:
+  spotify: spotify:track:2FGGvxPrVkpJ3lNZQfottL
 features: []
-genres: []
+first_released_as_single: false
 key: anything-like-me-brad-paisley
 lyrics_url: https://www.azlyrics.com/lyrics/bradpaisley/anythinglikeme.html
 name: Anything Like Me
@@ -83,8 +86,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2011-01-22'
+release_year: 2009
+runtime: 253706
 ---
-
 I remember sayin' I don't care either way
 Just as long as he or she is healthy I'm OK
 Then the doctor pointed to the corner of the screen
@@ -136,6 +140,3 @@ If he's anything like me
 There's worse folks to be like
 Oh, he'll be alright
 If he's anything like me
-
-
-

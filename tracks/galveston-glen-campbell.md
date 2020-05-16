@@ -1,8 +1,11 @@
 ---
+album: Galveston
 artists:
 - Glen Campbell
+external_ids:
+  spotify: spotify:track:7GCNh1ibQiae8aimaEUOFq
 features: []
-genres: []
+first_released_as_single: false
 key: galveston-glen-campbell
 lyrics_url: https://www.azlyrics.com/lyrics/glencampbell/galveston.html
 name: Galveston
@@ -55,8 +58,9 @@ rankings:
   rank: 31
   ranking_list: Billboard Hot 100
   start_date: '1969-05-17'
+release_year: 1969
+runtime: 161066
 ---
-
 Galveston, oh Galveston, I still hear your sea winds blowin'
 I still see her dark eyes glowin'
 She was 21 when I left Galveston
@@ -74,4 +78,3 @@ Galveston, oh Galveston, I am so afraid of dying
 Before I dry the tears she's crying
 Before I watch your sea birds flying in the sun
 At Galveston, at Galveston
-

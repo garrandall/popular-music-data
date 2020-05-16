@@ -1,8 +1,11 @@
 ---
+album: Starfish
 artists:
 - The Church
+external_ids:
+  spotify: spotify:track:34cySUA32zvu58Y6XuMHqX
 features: []
-genres: []
+first_released_as_single: false
 key: under-the-milky-way-the-church
 lyrics_url: https://genius.com/The-church-under-the-milky-way-lyrics
 name: Under The Milky Way
@@ -67,6 +70,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1988-07-16'
+release_year: 1979
+runtime: 296933
 ---
 Sometimes, when this place gets kind of empty
 Sound of their breath fades with the light

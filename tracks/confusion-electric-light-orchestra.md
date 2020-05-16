@@ -1,8 +1,11 @@
 ---
+album: Discovery
 artists:
 - Electric Light Orchestra
+external_ids:
+  spotify: spotify:track:7aP1aGXFOhIuKjcm8KuGac
 features: []
-genres: []
+first_released_as_single: false
 key: confusion-electric-light-orchestra
 lyrics_url: https://www.azlyrics.com/lyrics/electriclightorchestra/confusion.html
 name: Confusion
@@ -39,8 +42,9 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1979-12-08'
+release_year: 1972
+runtime: 218866
 ---
-
 Everywhere the sun is shining.
 All around the world it's shining.
 But cold winds blow across your mind.
@@ -64,6 +68,3 @@ Confusion,you know it's drivin' me wild.
 Confusion,it comes as no big surprise.
 You've lost your love and you just can't carry on.
 You feel there's no-one there for you to lean on.
-
-
-

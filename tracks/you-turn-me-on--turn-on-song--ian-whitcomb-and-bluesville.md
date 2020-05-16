@@ -1,8 +1,11 @@
 ---
+album: Volume 3 - EP
 artists:
 - Ian Whitcomb And Bluesville
+external_ids:
+  spotify: spotify:track:3rmpCyBbtHUW2oIMNiMYv1
 features: []
-genres: []
+first_released_as_single: true
 key: you-turn-me-on--turn-on-song--ian-whitcomb-and-bluesville
 name: You Turn Me On (Turn On Song)
 rankings:
@@ -58,5 +61,7 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1965-08-14'
+release_year: 1965
+runtime: 163906
 ---
 

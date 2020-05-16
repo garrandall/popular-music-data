@@ -1,8 +1,11 @@
 ---
+album: 16 Most Requested Songs - Encore!
 artists:
 - Doris Day
+external_ids:
+  spotify: spotify:track:5IiOyosjPGvRnTi8GYKCEC
 features: []
-genres: []
+first_released_as_single: false
 key: tunnel-of-love-doris-day
 lyrics_url: https://genius.com/Doris-day-tunnel-of-love-lyrics
 name: Tunnel Of Love
@@ -39,6 +42,8 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1958-12-15'
+release_year: 1958
+runtime: 131840
 ---
 Getting crazy on the waltzers but it's the life that I choose
 Sing about the sixblade sing about the switchback and a torture tattoo

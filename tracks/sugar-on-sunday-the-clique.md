@@ -1,8 +1,11 @@
 ---
+album: The Clique
 artists:
 - The Clique
+external_ids:
+  spotify: spotify:track:2mB7RE3hJubHlEJag8K9pj
 features: []
-genres: []
+first_released_as_single: false
 key: sugar-on-sunday-the-clique
 lyrics_url: https://genius.com/The-clique-sugar-on-sunday-lyrics
 name: Sugar On Sunday
@@ -51,6 +54,8 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '1969-11-08'
+release_year: 1969
+runtime: 190200
 ---
 Oh the night
 Is slipping away

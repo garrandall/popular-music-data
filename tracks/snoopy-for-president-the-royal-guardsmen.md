@@ -1,8 +1,11 @@
 ---
+album: Snoopy For President
 artists:
 - The Royal Guardsmen
+external_ids:
+  spotify: spotify:track:4nGVgxqZPzG5g9Azml2lko
 features: []
-genres: []
+first_released_as_single: false
 key: snoopy-for-president-the-royal-guardsmen
 lyrics_url: https://www.azlyrics.com/lyrics/royalguardsmen/snoopyforpresident.html
 name: Snoopy For President
@@ -15,8 +18,9 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1968-07-20'
+release_year: 1968
+runtime: 179293
 ---
-
 The time had come to elect a president
 And all the famous candidates thought they were heaven sent
 They screamed and raved and pounded their hands upon their hearts
@@ -49,6 +53,3 @@ But, we'll hold the sign of the beagle high and love will shine right through
 
 Some wear the sign of the elephant and some wear the sign of the mule
 But, we'll hold the sign of the beagle high and love will shine right through
-
-
-

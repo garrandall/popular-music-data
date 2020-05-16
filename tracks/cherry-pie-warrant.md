@@ -1,8 +1,11 @@
 ---
+album: Cherry Pie
 artists:
 - Warrant
+external_ids:
+  spotify: spotify:track:18ESXa5mEm1V4Pkt5GSXWx
 features: []
-genres: []
+first_released_as_single: false
 key: cherry-pie-warrant
 lyrics_url: https://www.azlyrics.com/lyrics/warrant/cherrypie.html
 name: Cherry Pie
@@ -83,8 +86,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1991-01-12'
+release_year: 1990
+runtime: 201106
 ---
-
 Dirty, rotten, filthy, stinkin...
 
 She's my cherry pie
@@ -182,6 +186,3 @@ Sweet cherry pie
 Sweet cherry pie
 
 Swing it!
-
-
-

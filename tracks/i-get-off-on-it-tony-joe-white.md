@@ -1,8 +1,11 @@
 ---
+album: Live From Austin, TX
 artists:
 - Tony Joe White
+external_ids:
+  spotify: spotify:track:2ug6WUfty20byALkaVlF1W
 features: []
-genres: []
+first_released_as_single: false
 key: i-get-off-on-it-tony-joe-white
 lyrics_url: https://genius.com/Tony-joe-white-i-get-off-on-it-lyrics
 name: I Get Off On It
@@ -27,6 +30,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1980-07-26'
+release_year: 1980
+runtime: 353920
 ---
 I met a pretty girl who really turned me on
 But we didn't make it very far

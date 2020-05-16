@@ -1,8 +1,11 @@
 ---
+album: No Sound Without Silence
 artists:
 - The Script
+external_ids:
+  spotify: spotify:track:37sINbJZcFdHFAsVNsPq1i
 features: []
-genres: []
+first_released_as_single: false
 key: superheroes-the-script
 lyrics_url: https://www.azlyrics.com/lyrics/script/superheroes.html
 name: Superheroes
@@ -43,8 +46,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2014-11-29'
+release_year: 2014
+runtime: 245466
 ---
-
 All her life she has seen
 All the meanest side of me
 They took away the prophet's dream for a profit on the street
@@ -156,6 +160,3 @@ Turn the pain into power
 When you've been fighting for it all your life
 You've been struggling to make things right
 That's how a superhero learns to fly
-
-
-

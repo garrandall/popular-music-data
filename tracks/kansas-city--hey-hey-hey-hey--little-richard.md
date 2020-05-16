@@ -1,8 +1,11 @@
 ---
+album: 'Directly From My Heart: The Best Of The Specialty & Vee-Jay Years'
 artists:
 - Little Richard
+external_ids:
+  spotify: spotify:track:5jvdUxDgtW51bDFtEoAlvt
 features: []
-genres: []
+first_released_as_single: false
 key: kansas-city--hey-hey-hey-hey--little-richard
 lyrics_url: https://genius.com/Little-richard-kansas-city-lyrics
 name: Kansas City (Hey-Hey-Hey-Hey)
@@ -15,6 +18,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1959-05-18'
+release_year: 1959
+runtime: 158760
 ---
 I'm goin' to Kansas City
 Kansas City, here I come

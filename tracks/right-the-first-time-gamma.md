@@ -1,8 +1,11 @@
 ---
+album: Gamma 3
 artists:
 - Gamma
+external_ids:
+  spotify: spotify:track:79lDwxky82NLcqLGxHIag7
 features: []
-genres: []
+first_released_as_single: false
 key: right-the-first-time-gamma
 lyrics_url: https://www.musixmatch.com/lyrics/Gamma/Right-the-First-Time
 name: Right The First Time
@@ -27,6 +30,8 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1982-05-01'
+release_year: 1982
+runtime: 227586
 ---
 You say you're looking for someone
 And you're burning up inside

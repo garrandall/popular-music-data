@@ -1,8 +1,11 @@
 ---
+album: Golden Hits - The World's Most Famous Auctioneer
 artists:
 - Leroy Van Dyke
+external_ids:
+  spotify: spotify:track:7x38YfJniccmit7jgQOP0y
 features: []
-genres: []
+first_released_as_single: false
 key: walk-on-by-leroy-van-dyke
 lyrics_url: https://genius.com/Leroy-van-dyke-walk-on-by-lyrics
 name: Walk On By
@@ -71,6 +74,8 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '1962-02-17'
+release_year: 1961
+runtime: 137480
 ---
 If I see you tomorrow on some street in town
 Pardon me if I don't say hello (hello)

@@ -1,8 +1,11 @@
 ---
+album: Eat 'Em And Smile
 artists:
 - David Lee Roth
+external_ids:
+  spotify: spotify:track:4w6jUILSRpQ9I8XJ2pbzt3
 features: []
-genres: []
+first_released_as_single: false
 key: that-s-life-david-lee-roth
 lyrics_url: https://genius.com/David-lee-roth-thats-life-lyrics
 name: That's Life
@@ -23,6 +26,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1986-12-13'
+release_year: 1986
+runtime: 165533
 ---
 That's life (that's life)
 That's what all the people say

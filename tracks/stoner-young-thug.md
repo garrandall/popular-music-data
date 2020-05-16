@@ -1,8 +1,11 @@
 ---
+album: Stoner
 artists:
 - Young Thug
+external_ids:
+  spotify: spotify:track:1jROHCeEzDr6VnV8EnBnik
 features: []
-genres: []
+first_released_as_single: true
 key: stoner-young-thug
 lyrics_url: https://genius.com/Young-thug-stoner-lyrics
 name: Stoner
@@ -67,6 +70,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2014-06-07'
+release_year: 2014
+runtime: 239999
 ---
 When you were worrying about pissing on your fuckin' self, I was a stoner
 Bang gang

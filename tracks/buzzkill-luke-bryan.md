@@ -1,8 +1,11 @@
 ---
+album: Spring Break...Here To Party
 artists:
 - Luke Bryan
+external_ids:
+  spotify: spotify:track:3UJvgGaBEJcDqz61mbvqAp
 features: []
-genres: []
+first_released_as_single: false
 key: buzzkill-luke-bryan
 lyrics_url: https://www.azlyrics.com/lyrics/lukebryan/buzzkill.html
 name: Buzzkill
@@ -15,8 +18,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2013-03-30'
+release_year: 2013
+runtime: 217853
 ---
-
 You're like a screen flashin', insufficient funds,
 Cops knockin' when the party's just begun. 
 You're a big rain cloud parked over my boat. 
@@ -65,6 +69,3 @@ and mess up what this night was gonna be?
 You walk right by, crashing my high like I know you will, 
 you little buzzkill.
 You little buzzkill.
-
-
-

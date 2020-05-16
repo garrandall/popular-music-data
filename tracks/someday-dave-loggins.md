@@ -1,8 +1,11 @@
 ---
+album: Apprentice
 artists:
 - Dave Loggins
+external_ids:
+  spotify: spotify:track:0i02IxripqtuvBJrWwipvs
 features: []
-genres: []
+first_released_as_single: false
 key: someday-dave-loggins
 lyrics_url: https://www.musixmatch.com/lyrics/Dave-Loggins/Someday
 name: Someday
@@ -27,6 +30,8 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1974-12-14'
+release_year: 1974
+runtime: 201386
 ---
 Now one day, girl
 All of our dreams will come true

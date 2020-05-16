@@ -1,8 +1,11 @@
 ---
+album: Discovery
 artists:
 - Daft Punk
+external_ids:
+  spotify: spotify:track:2Uy6EhQXAYkXA6MohPgjpV
 features: []
-genres: []
+first_released_as_single: true
 key: one-more-time-daft-punk
 lyrics_url: https://www.azlyrics.com/lyrics/daftpunk/onemoretime.html
 name: One More Time
@@ -71,8 +74,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2001-05-26'
+release_year: 2000
+runtime: 235466
 ---
-
 One more time
 One more time
 
@@ -197,6 +201,3 @@ One more time
 Music's got me feeling so free
 We're gonna celebrate
 One more time
-
-
-

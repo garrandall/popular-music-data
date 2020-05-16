@@ -1,8 +1,11 @@
 ---
+album: The Stylistics - The Original Debut Album
 artists:
 - The Stylistics
+external_ids:
+  spotify: spotify:track:1MHMrCWHC5h8gkEi0etHeS
 features: []
-genres: []
+first_released_as_single: false
 key: people-make-the-world-go-round-the-stylistics
 lyrics_url: https://genius.com/The-stylistics-people-make-the-world-go-round-lyrics
 name: People Make The World Go Round
@@ -51,6 +54,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1972-08-12'
+release_year: 1972
+runtime: 211560
 ---
 Trash men didn't get my trash today
 Oh, why? Because they want more pay

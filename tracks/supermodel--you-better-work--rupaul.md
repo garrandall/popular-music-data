@@ -1,8 +1,11 @@
 ---
+album: Supermodel of the World
 artists:
 - RuPaul
+external_ids:
+  spotify: spotify:track:4ur9ySyKci3HLs10Fns9hn
 features: []
-genres: []
+first_released_as_single: true
 key: supermodel--you-better-work--rupaul
 lyrics_url: https://genius.com/Rupaul-supermodel-lyrics
 name: Supermodel (You Better Work)
@@ -87,6 +90,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1993-06-26'
+release_year: 1992
+runtime: 226840
 ---
 Work it! On the runway
 (Work!)

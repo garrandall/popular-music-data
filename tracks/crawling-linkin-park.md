@@ -1,8 +1,11 @@
 ---
+album: Hybrid Theory
 artists:
 - Linkin Park
+external_ids:
+  spotify: spotify:track:57BrRMwf9LrcmuOsyGilwr
 features: []
-genres: []
+first_released_as_single: false
 key: crawling-linkin-park
 lyrics_url: https://www.azlyrics.com/lyrics/linkinpark/crawling.html
 name: Crawling
@@ -87,9 +90,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2001-12-22'
+release_year: 2000
+runtime: 208960
 ---
-
-
 Crawling in my skin
 These wounds they will not heal
 Fear is how I fall
@@ -139,6 +142,3 @@ There's something inside me that pulls beneath the surface consuming
 Confusing what is real
 This lack of self-control I fear is never ending controlling
 Confusing what is real
-
-
-

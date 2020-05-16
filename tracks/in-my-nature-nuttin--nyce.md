@@ -1,8 +1,11 @@
 ---
+album: Down 4 Whateva
 artists:
 - Nuttin' Nyce
+external_ids:
+  spotify: spotify:track:1pffZVnM5873zd8AzT6crr
 features: []
-genres: []
+first_released_as_single: false
 key: in-my-nature-nuttin--nyce
 lyrics_url: https://genius.com/Nuttin-nyce-in-my-nature-lyrics
 name: In My Nature
@@ -31,6 +34,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1993-09-18'
+release_year: 1993
+runtime: 219240
 ---
 Seems, that thinking about what to do
 Boy I think about part of you

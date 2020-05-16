@@ -1,8 +1,11 @@
 ---
+album: '15'
 artists:
 - Buckcherry
+external_ids:
+  spotify: spotify:track:0EbnUc05YEKhZRKgbrZWpq
 features: []
-genres: []
+first_released_as_single: false
 key: sorry-buckcherry
 lyrics_url: https://www.azlyrics.com/lyrics/buckcherry/sorry.html
 name: Sorry
@@ -103,8 +106,9 @@ rankings:
   rank: 34
   ranking_list: Billboard Hot 100
   start_date: '2008-05-31'
+release_year: 2006
+runtime: 228386
 ---
-
 Oh I had a lot to say
 Was thinking all my time away
 I missed you and things weren't the same
@@ -154,6 +158,3 @@ And I just wanted to say "I'm sorry"
 I'm sorry, baby
 I'm sorry, baby
 Yeah I'm sorry
-
-
-

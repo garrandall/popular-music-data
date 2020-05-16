@@ -1,10 +1,13 @@
 ---
+album: Smile (Living My Best Life)
 artists:
 - Lil' Duval
+external_ids:
+  spotify: spotify:track:2SDv98x8cy3HMsXicFtWJ6
 features:
 - Snoop Dogg
 - Ball Greezy
-genres: []
+first_released_as_single: true
 key: smile--living-my-best-life--lil--duval-snoop-dogg-ball-greezy
 lyrics_url: https://www.azlyrics.com/lyrics/lilduval/smilelivingmybestlife.html
 name: Smile (Living My Best Life)
@@ -85,9 +88,9 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '2019-01-19'
+release_year: 2018
+runtime: 213495
 ---
-
-
 We gon' start this thing off right
 Duval in the motherfuckin' house, c'mon, c'mon
 Do it baby, stick it baby
@@ -179,6 +182,3 @@ Smile bitch, smile bitch, c'mon!
 Smile bitch, smile bitch, c'mon!
 Smile bitch, smile bitch, c'mon!
 Smile bitch, smile bitch, c'mon!
-
-
-

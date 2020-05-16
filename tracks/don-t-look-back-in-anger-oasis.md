@@ -1,8 +1,11 @@
 ---
+album: ''
 artists:
 - Oasis
+external_ids:
+  spotify: spotify:track:7CVYxHq1L0Z4G84jTDS6Jl
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-look-back-in-anger-oasis
 lyrics_url: https://www.musixmatch.com/lyrics/Oasis/Don-t-Look-Back-in-Anger
 name: Don't Look Back In Anger
@@ -63,6 +66,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1996-11-16'
+release_year: 1995
+runtime: 289559
 ---
 Slip inside the eye of your mind
 Don't you know you might find

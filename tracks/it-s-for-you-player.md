@@ -1,8 +1,11 @@
 ---
+album: A Room With A View
 artists:
 - Player
+external_ids:
+  spotify: spotify:track:6RjI4if1A7qu5Ca9V495gz
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-for-you-player
 lyrics_url: https://genius.com/Player-its-for-you-lyrics
 name: It's For You
@@ -39,6 +42,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1980-07-26'
+release_year: 1980
+runtime: 277666
 ---
 Sometimes at the end of the day, another battle won
 I sit down, take a look at my life, and all the things that I have done

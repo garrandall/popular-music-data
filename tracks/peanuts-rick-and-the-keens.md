@@ -1,8 +1,11 @@
 ---
+album: Explosive Doowops, Vol. 10
 artists:
 - Rick And The Keens
+external_ids:
+  spotify: spotify:track:1i1RRNiQOQ0qQAV6enlm3Y
 features: []
-genres: []
+first_released_as_single: false
 key: peanuts-rick-and-the-keens
 lyrics_url: https://www.musixmatch.com/lyrics/Rick-and-the-Keens/Peanuts
 name: Peanuts
@@ -39,6 +42,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1961-08-21'
+release_year: 1961
+runtime: 126733
 ---
 Peanuts, oh-oh, oh-oh, oh-oh
 Peanuts, oh-oh, oh-oh, oh-oh

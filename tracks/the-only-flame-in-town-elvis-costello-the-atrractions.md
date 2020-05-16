@@ -1,9 +1,12 @@
 ---
+album: Goodbye Cruel World
 artists:
 - Elvis Costello
+external_ids:
+  spotify: spotify:track:3zY0g3bPtYJmIoO9shlTiU
 features:
 - The Attractions
-genres: []
+first_released_as_single: false
 key: the-only-flame-in-town-elvis-costello-the-atrractions
 lyrics_url: https://genius.com/Elvis-costello-the-only-flame-in-town-lyrics
 name: The Only Flame In Town
@@ -44,6 +47,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1984-09-22'
+release_year: 1984
+runtime: 241560
 ---
 I know a girl got my mind in a mess
 I never heard her say goodnight and God bless

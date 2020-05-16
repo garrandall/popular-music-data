@@ -1,8 +1,11 @@
 ---
+album: Lukas Graham
 artists:
 - Lukas Graham
+external_ids:
+  spotify: spotify:track:5kqIPrATaCc2LqxVWzQGbk
 features: []
-genres: []
+first_released_as_single: false
 key: 7-years-lukas-graham
 lyrics_url: https://www.azlyrics.com/lyrics/lukasgraham/7years.html
 name: 7 Years
@@ -151,8 +154,9 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '2016-10-08'
+release_year: 2016
+runtime: 237300
 ---
-
 Once I was seven years old, my mama told me
 "Go make yourself some friends or you'll be lonely"
 Once I was seven years old
@@ -217,6 +221,3 @@ Once I was seven years old, my mama told me
 Once I was seven years old
 
 Once I was seven years old
-
-
-

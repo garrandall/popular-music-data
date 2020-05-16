@@ -1,8 +1,11 @@
 ---
+album: The Lonesome Jubilee
 artists:
 - John Mellencamp
+external_ids:
+  spotify: spotify:track:43oPpqzWPSZmeiwYicmzjG
 features: []
-genres: []
+first_released_as_single: false
 key: cherry-bomb-john-mellencamp
 lyrics_url: https://www.azlyrics.com/lyrics/johnmellencamp/cherrybomb.html
 name: Cherry Bomb
@@ -91,8 +94,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1988-03-12'
+release_year: 1987
+runtime: 287106
 ---
-
 Well I lived on the outskirts of town
 In an eight room farmhouse, baby
 When my brothers and friends were around
@@ -156,6 +160,3 @@ Outside the club "Cherry Bomb"
 Our hearts were really thumpin'
 Say yeah yeah yeah
 Say yeah yeah yeah
-
-
-

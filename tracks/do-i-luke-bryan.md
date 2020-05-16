@@ -1,8 +1,11 @@
 ---
+album: Doin' My Thing
 artists:
 - Luke Bryan
+external_ids:
+  spotify: spotify:track:7A5CReD6yWe0rrkJym34QI
 features: []
-genres: []
+first_released_as_single: false
 key: do-i-luke-bryan
 lyrics_url: https://genius.com/Luke-bryan-do-i-lyrics
 name: Do I
@@ -87,6 +90,8 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '2010-01-30'
+release_year: 2009
+runtime: 239413
 ---
 Baby, what are we becoming?
 It feels just like we're always running

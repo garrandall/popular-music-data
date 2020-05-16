@@ -1,10 +1,13 @@
 ---
+album: So Far Gone
 artists:
 - Drake
+external_ids:
+  spotify: spotify:track:6NwhtCYkfwWlcR62Ac4E7y
 features:
 - Trey Songz
 - Lil Wayne
-genres: []
+first_released_as_single: false
 key: successful-drake-trey-songz-lil-wayne
 lyrics_url: https://www.azlyrics.com/lyrics/drake/successful.html
 name: Successful
@@ -81,9 +84,9 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '2009-11-28'
+release_year: 2009
+runtime: 375050
 ---
-
-
 I want the money,
 Money and the cars,
 Cars and the clothes,
@@ -243,6 +246,3 @@ Ask her who I am to her,
 And she yell god,
 Weezy baby I go real hard
 No further details boy.
-
-
-

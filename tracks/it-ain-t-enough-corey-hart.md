@@ -1,8 +1,11 @@
 ---
+album: First Offense
 artists:
 - Corey Hart
+external_ids:
+  spotify: spotify:track:3q9LRpghuXumIQLna5MZjq
 features: []
-genres: []
+first_released_as_single: false
 key: it-ain-t-enough-corey-hart
 lyrics_url: https://genius.com/Corey-hart-it-aint-enough-lyrics
 name: It Ain't Enough
@@ -83,6 +86,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1985-02-02'
+release_year: 1984
+runtime: 210026
 ---
 I could capture all the love the great romantics had
 Sing you a song that ain't half bad

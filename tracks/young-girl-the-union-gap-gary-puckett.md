@@ -1,9 +1,12 @@
 ---
+album: Super Hits
 artists:
 - The Union Gap
+external_ids:
+  spotify: spotify:track:3F64pIPqvcujnwvcVLVZ64
 features:
 - Gary Puckett
-genres: []
+first_released_as_single: false
 key: young-girl-the-union-gap-gary-puckett
 lyrics_url: https://genius.com/Gary-puckett-and-the-union-gap-young-girl-lyrics
 name: Young Girl
@@ -68,6 +71,8 @@ rankings:
   rank: 36
   ranking_list: Billboard Hot 100
   start_date: '1968-06-08'
+release_year: 1968
+runtime: 194493
 ---
 Young girl
 Get out of my mind

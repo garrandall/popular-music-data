@@ -1,8 +1,11 @@
 ---
+album: Loud
 artists:
 - Rihanna
+external_ids:
+  spotify: spotify:track:3pUzi6jElXjjuu0Tqeg8iM
 features: []
-genres: []
+first_released_as_single: true
 key: only-girl--in-the-world--rihanna
 lyrics_url: https://genius.com/Rihanna-only-girl-in-the-world-lyrics
 name: Only Girl (In The World)
@@ -115,6 +118,8 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '2011-03-26'
+release_year: 2010
+runtime: 437440
 ---
 La-la-la-la
 La-la-la-la

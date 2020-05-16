@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music, The Complete Season Two'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:2CtYpnf7UBAyjtqyHIn3qf
 features: []
-genres: []
+first_released_as_single: false
 key: listen-glee-cast
 lyrics_url: https://genius.com/Glee-cast-listen-lyrics
 name: Listen
@@ -11,6 +14,8 @@ rankings:
   rank: 38
   ranking_list: Billboard Hot 100
   start_date: '2010-10-09'
+release_year: 2010
+runtime: 219253
 ---
 Listen to the song here in my heart
 A melody I start but can't complete

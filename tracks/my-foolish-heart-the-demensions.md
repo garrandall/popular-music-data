@@ -1,8 +1,11 @@
 ---
+album: My Foolish Heart - The Best Of
 artists:
 - The Demensions
+external_ids:
+  spotify: spotify:track:0ZPDk6tgiqMgtMoRQ7iYj1
 features: []
-genres: []
+first_released_as_single: false
 key: my-foolish-heart-the-demensions
 lyrics_url: https://genius.com/The-demensions-my-foolish-heart-lyrics
 name: My Foolish Heart
@@ -19,6 +22,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1963-03-16'
+release_year: 1963
+runtime: 187200
 ---
 The scene is set for dreaming
 Love's knocking at my door

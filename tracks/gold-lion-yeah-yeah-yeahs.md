@@ -1,8 +1,11 @@
 ---
+album: Show Your Bones
 artists:
 - Yeah Yeah Yeahs
+external_ids:
+  spotify: spotify:track:6ttg1sxtU12beFZkjoc6j5
 features: []
-genres: []
+first_released_as_single: false
 key: gold-lion-yeah-yeah-yeahs
 lyrics_url: https://genius.com/Yeah-yeah-yeahs-gold-lion-lyrics
 name: Gold Lion
@@ -19,6 +22,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2006-04-22'
+release_year: 2006
+runtime: 187133
 ---
 Gold Lion's gonna tell me where the light is
 Gold Lion's gonna tell me where the light is

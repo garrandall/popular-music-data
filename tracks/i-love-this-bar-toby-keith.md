@@ -1,8 +1,11 @@
 ---
+album: Shock 'N Y'all
 artists:
 - Toby Keith
+external_ids:
+  spotify: spotify:track:32jHB7W9b08OTorAqR0cJo
 features: []
-genres: []
+first_released_as_single: false
 key: i-love-this-bar-toby-keith
 lyrics_url: https://genius.com/Toby-keith-i-love-this-bar-lyrics
 name: I Love This Bar
@@ -87,6 +90,8 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '2004-01-17'
+release_year: 2003
+runtime: 335333
 ---
 We got winners, we got losers
 Chain smokers and boozers

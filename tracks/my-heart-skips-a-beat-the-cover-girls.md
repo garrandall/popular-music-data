@@ -1,8 +1,11 @@
 ---
+album: We Can't Go Wrong
 artists:
 - The Cover Girls
+external_ids:
+  spotify: spotify:track:43xOqAcwcJ8s3jPwU5R8fq
 features: []
-genres: []
+first_released_as_single: false
 key: my-heart-skips-a-beat-the-cover-girls
 lyrics_url: https://www.azlyrics.com/lyrics/covergirls/myheartskipsabeat.html
 name: My Heart Skips A Beat
@@ -63,8 +66,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1989-12-09'
+release_year: 1989
+runtime: 320533
 ---
-
 My heart skips a beat
 Everytime we meet
 I don't what to do
@@ -185,6 +189,3 @@ Everytime we meet
 'Cause I love you
 
 My heart skips a beat
-
-
-

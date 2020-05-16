@@ -1,8 +1,11 @@
 ---
+album: Diamonds & Rust
 artists:
 - Joan Baez
+external_ids:
+  spotify: spotify:track:4O0sGJdqpHMaWz7KoVd7tb
 features: []
-genres: []
+first_released_as_single: false
 key: diamonds-and-rust-joan-baez
 lyrics_url: https://genius.com/Joan-baez-diamonds-and-rust-lyrics
 name: Diamonds And Rust
@@ -51,6 +54,8 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '1975-11-29'
+release_year: 1975
+runtime: 286106
 ---
 Well I'll be damned
 Here comes your ghost again

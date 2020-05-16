@@ -1,9 +1,12 @@
 ---
+album: Only One Flo (Part 1)
 artists:
 - Flo Rida
+external_ids:
+  spotify: spotify:track:0xcl9XT60Siji6CSG4y6nb
 features:
 - David Guetta
-genres: []
+first_released_as_single: true
 key: club-can-t-handle-me-flo-rida-david-guetta
 lyrics_url: https://genius.com/Flo-rida-club-cant-handle-me-lyrics
 name: Club Can't Handle Me
@@ -124,6 +127,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2011-01-29'
+release_year: 2010
+runtime: 232615
 ---
 You know I know how
 To make 'em stop and stare as I zone out

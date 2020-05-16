@@ -1,8 +1,11 @@
 ---
+album: Music From The House That Ahmet Built
 artists:
 - The Coasters
+external_ids:
+  spotify: spotify:track:4nL9MFB9rqSqhAnAxlmg79
 features: []
-genres: []
+first_released_as_single: false
 key: shoppin--for-clothes-the-coasters
 lyrics_url: https://www.azlyrics.com/lyrics/coasters/shoppinforclothes.html
 name: Shoppin' For Clothes
@@ -23,8 +26,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1960-10-24'
+release_year: 1960
+runtime: 178546
 ---
-
 I was shopping for a suit the other day
 And walked into the department store
 I stepped on the elevator and told the girl
@@ -72,6 +76,3 @@ Oh... My heart's in pain
 Oh... Pure, pure herringbone
 Oh... That's a suit you'll never own
 Oh, Lord have mercy
-
-
-

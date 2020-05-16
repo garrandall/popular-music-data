@@ -1,8 +1,11 @@
 ---
+album: Flowers (Bonus Track Version)
 artists:
 - The Emotions
+external_ids:
+  spotify: spotify:track:7BngbNGLogotcTM0PSvnYB
 features: []
-genres: []
+first_released_as_single: false
 key: flowers-the-emotions
 lyrics_url: https://genius.com/The-emotions-flowers-lyrics
 name: Flowers
@@ -23,6 +26,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1976-10-30'
+release_year: 1976
+runtime: 268733
 ---
 We (We) hold the key (Hold the key)
 To the world's (The world's) destiny (Destiny)

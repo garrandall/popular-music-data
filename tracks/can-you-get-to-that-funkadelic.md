@@ -1,8 +1,11 @@
 ---
+album: Maggot Brain
 artists:
 - Funkadelic
+external_ids:
+  spotify: spotify:track:2liDEMyPVzDDLXKUnyiznA
 features: []
-genres: []
+first_released_as_single: false
 key: can-you-get-to-that-funkadelic
 lyrics_url: https://genius.com/Funkadelic-can-you-get-to-that-lyrics
 name: Can You Get To That
@@ -19,6 +22,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1971-09-25'
+release_year: 1971
+runtime: 171560
 ---
 I once had a life, or rather, life had me
 I was one among many or at least I seemed to be

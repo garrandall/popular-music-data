@@ -1,8 +1,11 @@
 ---
+album: Origins
 artists:
 - RaeLynn
+external_ids:
+  spotify: spotify:track:7GQ5vlRMY5czwpwcxHBAJZ
 features: []
-genres: []
+first_released_as_single: true
 key: god-made-girls-raelynn
 lyrics_url: https://www.azlyrics.com/lyrics/raelynn/godmadegirls.html
 name: God Made Girls
@@ -71,8 +74,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2015-02-21'
+release_year: 2014
+runtime: 214320
 ---
-
 Somebody's gotta wear a pretty skirt
 Somebody's gotta be the one to flirt
 Somebody's gotta wanna hold his hand
@@ -137,6 +141,3 @@ And God made girls, yeah
 Somebody's gotta wanna hold his hand
 
 So God made girls
-
-
-

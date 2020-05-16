@@ -1,8 +1,11 @@
 ---
+album: The Seekers
 artists:
 - The Seekers
+external_ids:
+  spotify: spotify:track:1DVTwlo4nWm41i91rN4xqh
 features: []
-genres: []
+first_released_as_single: false
 key: a-world-of-our-own-the-seekers
 lyrics_url: https://www.azlyrics.com/lyrics/seekers/aworldofourown.html
 name: A World Of Our Own
@@ -47,8 +50,9 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '1965-07-31'
+release_year: 1965
+runtime: 163200
 ---
-
 Close the doors, light the lights.
 We're stayin' home tonight,
 Far away from the bustle and the bright city lights.
@@ -87,6 +91,3 @@ When we live in a world of our own.
 And I know you will find 
 There'll be peace of mind
 When we live in a world of our own!
-
-
-

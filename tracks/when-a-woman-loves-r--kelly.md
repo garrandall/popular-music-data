@@ -1,8 +1,11 @@
 ---
+album: Love Letter
 artists:
 - R. Kelly
+external_ids:
+  spotify: spotify:track:67UivNNJwBPb8XS7r4fGmf
 features: []
-genres: []
+first_released_as_single: false
 key: when-a-woman-loves-r--kelly
 lyrics_url: https://genius.com/R-kelly-when-a-woman-loves-lyrics
 name: When A Woman Loves
@@ -11,6 +14,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2011-01-01'
+release_year: 2010
+runtime: 310560
 ---
 When a woman loves
 She, she loves for real

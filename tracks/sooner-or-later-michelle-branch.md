@@ -1,8 +1,11 @@
 ---
+album: Everything Comes And Goes
 artists:
 - Michelle Branch
+external_ids:
+  spotify: spotify:track:1r8kvW5Sax4ZsXfRkwM27z
 features: []
-genres: []
+first_released_as_single: true
 key: sooner-or-later-michelle-branch
 lyrics_url: https://www.azlyrics.com/lyrics/michellebranch/soonerorlater.html
 name: Sooner Or Later
@@ -11,8 +14,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2009-08-15'
+release_year: 2009
+runtime: 187106
 ---
-
 Lipstick pretty face and maybe you'll notice something
 Different bout me, different bout me
 Yeah, you talk, talk all you want
@@ -64,6 +68,3 @@ You're gonna wish you had me, yeah
 You're gonna wish you had me, oh
 You're gonna wish you had me, oh
 You're gonna wish you had me
-
-
-

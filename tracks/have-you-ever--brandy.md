@@ -1,8 +1,11 @@
 ---
+album: Never Say Never
 artists:
 - Brandy
+external_ids:
+  spotify: spotify:track:6tBD4yjOf9P8rWwUlXdJFm
 features: []
-genres: []
+first_released_as_single: false
 key: have-you-ever--brandy
 lyrics_url: https://genius.com/Brandy-have-you-ever-lyrics
 name: Have You Ever?
@@ -95,6 +98,8 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '1999-05-01'
+release_year: 1998
+runtime: 273440
 ---
 Have you ever loved somebody
 So much it makes you cry

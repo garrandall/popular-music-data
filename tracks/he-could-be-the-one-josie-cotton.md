@@ -1,8 +1,11 @@
 ---
+album: Convertible Music
 artists:
 - Josie Cotton
+external_ids:
+  spotify: spotify:track:7HZzG0cvGndYCxx7qc8Wd1
 features: []
-genres: []
+first_released_as_single: false
 key: he-could-be-the-one-josie-cotton
 lyrics_url: https://genius.com/Josie-cotton-he-could-be-the-one-lyrics
 name: He Could Be The One
@@ -35,6 +38,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1982-10-02'
+release_year: 1982
+runtime: 168520
 ---
 Yesterday I met a guy
 The kind I dream about at night

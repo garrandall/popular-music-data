@@ -1,8 +1,11 @@
 ---
+album: Issa Album
 artists:
 - 21 Savage
+external_ids:
+  spotify: spotify:track:675NeQd7AKLNLzXFqZtF51
 features: []
-genres: []
+first_released_as_single: false
 key: bank-account-21-savage
 lyrics_url: https://genius.com/21-savage-bank-account-lyrics
 name: Bank Account
@@ -123,6 +126,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '2018-02-03'
+release_year: 2017
+runtime: 220306
 ---
 Oh oh oohow, ow, ow
 Wow, wow, ow, ah, ow, ah, ah, ah

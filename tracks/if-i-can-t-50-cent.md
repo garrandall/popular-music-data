@@ -1,8 +1,11 @@
 ---
+album: Get Rich Or Die Tryin'
 artists:
 - 50 Cent
+external_ids:
+  spotify: spotify:track:7JeKXMQKm6GoLGTkNy2jZ0
 features: []
-genres: []
+first_released_as_single: false
 key: if-i-can-t-50-cent
 lyrics_url: https://genius.com/50-cent-if-i-cant-lyrics
 name: If I Can't
@@ -39,6 +42,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2003-11-22'
+release_year: 2003
+runtime: 196640
 ---
 Yeah, ha ha, yeah, yeah
 

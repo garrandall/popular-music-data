@@ -1,8 +1,11 @@
 ---
+album: Underneath The Radar
 artists:
 - Underworld
+external_ids:
+  spotify: spotify:track:1UPJoPSCpOzYcRBq5nc586
 features: []
-genres: []
+first_released_as_single: false
 key: underneath-the-radar-underworld
 lyrics_url: https://genius.com/Underworld-underneath-the-radar-lyrics
 name: Underneath The Radar
@@ -39,6 +42,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1988-06-04'
+release_year: 1988
+runtime: 367453
 ---
 Unknown, unseen
 We live underneath the radar

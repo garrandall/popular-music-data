@@ -1,8 +1,11 @@
 ---
+album: Mario
 artists:
 - Mario
+external_ids:
+  spotify: spotify:track:2cxbxpHrND6i4uvUGVvC9J
 features: []
-genres: []
+first_released_as_single: false
 key: just-a-friend-2002-mario
 lyrics_url: https://genius.com/Mario-just-a-friend-2002-lyrics
 name: Just A Friend 2002
@@ -91,6 +94,8 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '2002-10-12'
+release_year: 2002
+runtime: 214200
 ---
 You Ready for me
 

@@ -1,8 +1,11 @@
 ---
+album: The Soul of the Kung Fu Fighter
 artists:
 - Carl Douglas
+external_ids:
+  spotify: spotify:track:1XJGRuqfyh9xvBXAVuGD3g
 features: []
-genres: []
+first_released_as_single: false
 key: dance-the-kung-fu-carl-douglas
 lyrics_url: https://genius.com/Carl-douglas-dance-the-kung-fu-lyrics
 name: Dance The Kung Fu
@@ -35,6 +38,8 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1975-03-29'
+release_year: 1975
+runtime: 188293
 ---
 Oho, dance the kung fu (I'll tell you what to do)
 You just dance the kung fu, haha, y'all

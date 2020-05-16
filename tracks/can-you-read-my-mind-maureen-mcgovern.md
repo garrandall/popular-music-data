@@ -1,8 +1,11 @@
 ---
+album: Greatest Hits
 artists:
 - Maureen McGovern
+external_ids:
+  spotify: spotify:track:1dn3JoBbd7PYWwwTtlMPVk
 features: []
-genres: []
+first_released_as_single: false
 key: can-you-read-my-mind-maureen-mcgovern
 lyrics_url: https://www.azlyrics.com/lyrics/maureenmcgovern/canyoureadmymind.html
 name: Can You Read My Mind
@@ -43,8 +46,9 @@ rankings:
   rank: 52
   ranking_list: Billboard Hot 100
   start_date: '1979-04-21'
+release_year: 1979
+runtime: 200933
 ---
-
 Can you read my mind?
 Do you know what it is you do to me?
 Don't know who you are
@@ -79,6 +83,3 @@ If you need to be loved
 Here I am, read my mind!
 
 Read my mind!
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: The Final Tic
 artists:
 - Crucial Conflict
+external_ids:
+  spotify: spotify:track:56hvN4r1qI7kDW9cw1lVov
 features: []
-genres: []
+first_released_as_single: false
 key: hay-crucial-conflict
 lyrics_url: https://www.azlyrics.com/lyrics/crucialconflict/hay.html
 name: Hay
@@ -87,8 +90,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1996-09-21'
+release_year: 1996
+runtime: 260240
 ---
-
 Sittin on a quarter 'p of hay
 Thangs is feelin good today.
 I'm tore up,from the floor up
@@ -208,4 +212,3 @@ The flies keep us chokin.
 Thank you jesus christ
 For all the hay you're givin us
 Cause we'll keep on smokin'.
-

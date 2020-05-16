@@ -1,8 +1,11 @@
 ---
+album: The Best Of Meco
 artists:
 - Meco
+external_ids:
+  spotify: spotify:track:692qNJdZ4BuiEGsXiYl9ms
 features: []
-genres: []
+first_released_as_single: false
 key: theme-from-close-encounters-meco
 name: Theme From Close Encounters
 rankings:
@@ -46,5 +49,7 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '1978-03-11'
+release_year: 1978
+runtime: 181026
 ---
 

@@ -1,9 +1,12 @@
 ---
+album: Strength & Loyalty
 artists:
 - Bone Thugs-N-Harmony
+external_ids:
+  spotify: spotify:track:2elA6JLRaQ6iB7hxiuTKN4
 features:
 - Akon
-genres: []
+first_released_as_single: false
 key: i-tried-bone-thugs-n-harmony-akon
 lyrics_url: https://www.azlyrics.com/lyrics/bonethugsnharmony/itried.html
 name: I Tried
@@ -80,10 +83,9 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '2007-08-11'
+release_year: 2007
+runtime: 287480
 ---
-
-
-
 You know nothing come easy, you gotta try real real hard, I tried hard...but I guess I
 gotta try harder.
 
@@ -173,6 +175,3 @@ hoping one day you'll come and rescue me
 but until then, I'll be posted up right here rain sleet hail snow
 but until then...
 I'll be posted up right here with my heat getting dough
-
-
-

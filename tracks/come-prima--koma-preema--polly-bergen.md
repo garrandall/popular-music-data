@@ -1,8 +1,11 @@
 ---
+album: My Heart Sings
 artists:
 - Polly Bergen
+external_ids:
+  spotify: spotify:track:0HC9cuWz83j6QBypwRXquP
 features: []
-genres: []
+first_released_as_single: false
 key: come-prima--koma-preema--polly-bergen
 lyrics_url: https://www.musixmatch.com/lyrics/Polly-Bergen/Come-Prima-For-the-First-Time
 name: Come Prima (Koma Preema)
@@ -31,6 +34,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1959-01-19'
+release_year: 1958
+runtime: 145866
 ---
 Come Prima, piu de prima t'amerò
 Per la vita, la mia vita, ti darò

@@ -1,8 +1,11 @@
 ---
+album: New Lost City Ramblers - Volume 5
 artists:
 - The Ramblers
+external_ids:
+  spotify: spotify:track:293eqWHDIwj36Cd1s33TLA
 features: []
-genres: []
+first_released_as_single: false
 key: rambling-the-ramblers
 name: Rambling
 rankings:
@@ -22,5 +25,7 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '1960-12-26'
+release_year: 1960
+runtime: 168280
 ---
 

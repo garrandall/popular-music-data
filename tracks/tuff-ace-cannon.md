@@ -1,8 +1,11 @@
 ---
+album: Back to the Beginning
 artists:
 - Ace Cannon
+external_ids:
+  spotify: spotify:track:5qq70OcR8PIUwLRFx7l7nJ
 features: []
-genres: []
+first_released_as_single: false
 key: tuff-ace-cannon
 lyrics_url: https://genius.com/Ace-cannon-tuff-lyrics
 name: Tuff
@@ -71,6 +74,8 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '1962-04-14'
+release_year: 1961
+runtime: 136680
 ---
 When you say it's dead and gone, yes, I know you're wrong
 Cut and slash, sharpest knife, it won't die

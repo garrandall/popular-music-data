@@ -1,8 +1,11 @@
 ---
+album: My Turn
 artists:
 - Lil Baby
+external_ids:
+  spotify: spotify:track:3PSUg0M68bXMb8vQJIPMZO
 features: []
-genres: []
+first_released_as_single: false
 key: can-t-explain-lil-baby
 lyrics_url: https://genius.com/Lil-baby-cant-explain-lyrics
 name: Can't Explain
@@ -11,6 +14,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2020-03-14'
+release_year: 2020
+runtime: 181341
 ---
 (Cook that shit up, Quay)
 Don't know how to feel, I got some feelings that I can't explain

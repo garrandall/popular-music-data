@@ -1,8 +1,11 @@
 ---
+album: Poolside
 artists:
 - Nu Shooz
+external_ids:
+  spotify: spotify:track:0KCCNoVVXBatkTRvKOEf2t
 features: []
-genres: []
+first_released_as_single: false
 key: i-can-t-wait-nu-shooz
 lyrics_url: https://www.musixmatch.com/lyrics/Nu-Shooz/I-Can-t-Wait
 name: I Can't Wait
@@ -99,6 +102,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1986-08-09'
+release_year: 1986
+runtime: 326506
 ---
 Baby, I-I-I can't wait
 

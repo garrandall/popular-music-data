@@ -1,8 +1,11 @@
 ---
+album: Live In Concert
 artists:
 - Lone Justice
+external_ids:
+  spotify: spotify:track:4o3rmB2UXp7rMmQM9Mdnhg
 features: []
-genres: []
+first_released_as_single: false
 key: shelter-lone-justice
 lyrics_url: https://genius.com/Lone-justice-shelter-lyrics
 name: Shelter
@@ -55,6 +58,8 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '1987-03-28'
+release_year: 1987
+runtime: 305266
 ---
 Well alright, you gave it all up for a dream
 Fate proved unkind, to lock the door and leave no key

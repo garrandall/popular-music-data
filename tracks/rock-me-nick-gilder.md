@@ -1,8 +1,11 @@
 ---
+album: Rock America
 artists:
 - Nick Gilder
+external_ids:
+  spotify: spotify:track:3ZmpDiiDtP4GunYIGoOFY1
 features: []
-genres: []
+first_released_as_single: false
 key: rock-me-nick-gilder
 lyrics_url: https://genius.com/Nick-gilder-you-really-rock-me-lyrics
 name: Rock Me
@@ -31,6 +34,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1979-07-21'
+release_year: 1979
+runtime: 169038
 ---
 Take them for the ride
 Let them feel the energy you can provide

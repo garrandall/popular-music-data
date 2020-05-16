@@ -1,8 +1,11 @@
 ---
+album: Songs I've Written
 artists:
 - Jim Weatherly
+external_ids:
+  spotify: spotify:track:2xAZNRSK7d9Gn5nxOTLEOU
 features: []
-genres: []
+first_released_as_single: false
 key: the-need-to-be-jim-weatherly
 lyrics_url: https://genius.com/Jim-weatherly-the-need-to-be-lyrics
 name: The Need To Be
@@ -71,6 +74,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1974-12-28'
+release_year: 1974
+runtime: 280853
 ---
 To for-fill to need to be
 Who I am in this world

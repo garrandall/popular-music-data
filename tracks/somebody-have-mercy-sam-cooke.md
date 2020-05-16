@@ -1,8 +1,11 @@
 ---
+album: Twistin' the Night Away
 artists:
 - Sam Cooke
+external_ids:
+  spotify: spotify:track:3Z6b3MvRYCC1cf4ngp1GYB
 features: []
-genres: []
+first_released_as_single: false
 key: somebody-have-mercy-sam-cooke
 lyrics_url: https://genius.com/Sam-cooke-somebody-have-mercy-lyrics
 name: Somebody Have Mercy
@@ -31,6 +34,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1962-12-01'
+release_year: 1962
+runtime: 176080
 ---
 Somebody have mercy
 And tell me what is wrong with me

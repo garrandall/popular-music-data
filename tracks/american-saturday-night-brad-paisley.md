@@ -1,8 +1,11 @@
 ---
+album: American Saturday Night
 artists:
 - Brad Paisley
+external_ids:
+  spotify: spotify:track:7xJqaCgeteqWPogqjjxkBl
 features: []
-genres: []
+first_released_as_single: false
 key: american-saturday-night-brad-paisley
 lyrics_url: https://www.azlyrics.com/lyrics/bradpaisley/americansaturdaynight.html
 name: American Saturday Night
@@ -67,8 +70,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2010-04-03'
+release_year: 2009
+runtime: 274200
 ---
-
 Woahhhhh woahhhhhhh 
 Shes got Brazilian leather boots on the pedal of her German car 
 Listen to the Beatles singing back in the USSR 
@@ -104,6 +108,3 @@ It's a French kiss, Italian ice,
 Spanish moss in the moonlight 
 Just another American, just another American,
 Its just another American Saturday night
-
-
-

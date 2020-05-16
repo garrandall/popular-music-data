@@ -1,9 +1,12 @@
 ---
+album: We'll Be United
 artists:
 - Peaches
 - Herb
+external_ids:
+  spotify: spotify:track:1NjONcJwrUi9sCDNER48RF
 features: []
-genres: []
+first_released_as_single: false
 key: united-peaches-herb
 lyrics_url: https://genius.com/Peaches-and-herb-well-be-united-lyrics
 name: United
@@ -40,6 +43,8 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '1968-07-06'
+release_year: 1966
+runtime: 165279
 ---
 Ooo oo oo, yeah
 Honey you are my shining star

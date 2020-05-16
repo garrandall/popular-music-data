@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music, Volume 5'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:67lMr5SLliCy6erdyT2RG0
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-you-want-me-glee-cast
 lyrics_url: https://genius.com/Glee-cast-dont-you-want-me-lyrics
 name: Don't You Want Me
@@ -11,6 +14,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2011-03-12'
+release_year: 2011
+runtime: 213573
 ---
 You were workin' as a waitress in a cocktail bar
 When I met you

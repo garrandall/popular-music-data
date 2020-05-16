@@ -1,8 +1,11 @@
 ---
+album: Heavy Nova
 artists:
 - Robert Palmer
+external_ids:
+  spotify: spotify:track:0bSr5pybJSlgG5OZH441gF
 features: []
-genres: []
+first_released_as_single: false
 key: simply-irresistible-robert-palmer
 lyrics_url: https://genius.com/Robert-palmer-simply-irresistible-lyrics
 name: Simply Irresistible
@@ -87,6 +90,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1988-11-12'
+release_year: 1988
+runtime: 255093
 ---
 How can it be permissible?
 She compromise my principle, yeah, yeah

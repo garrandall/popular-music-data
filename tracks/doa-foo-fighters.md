@@ -1,8 +1,11 @@
 ---
+album: In Your Honor
 artists:
 - Foo Fighters
+external_ids:
+  spotify: spotify:track:1QZFn6QUNHfCp8s06C91hw
 features: []
-genres: []
+first_released_as_single: false
 key: doa-foo-fighters
 lyrics_url: https://www.azlyrics.com/lyrics/foofighters/doa.html
 name: DOA
@@ -55,8 +58,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2006-01-28'
+release_year: 2005
+runtime: 252106
 ---
-
 Oh, you know I did it, it's over and I feel fine
 Nothing you could say is gonna change my mind
 Waited and I waited the longest night
@@ -132,6 +136,3 @@ Alive
 This time
 This time
 This time
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: The Hunger
 artists:
 - Michael Bolton
+external_ids:
+  spotify: spotify:track:0MSsPwiZj71s8grwMb6WOK
 features: []
-genres: []
+first_released_as_single: false
 key: wait-on-love-michael-bolton
 lyrics_url: https://www.musixmatch.com/lyrics/Michael-Bolton/Wait-on-Love
 name: Wait On Love
@@ -31,6 +34,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1988-07-02'
+release_year: 1987
+runtime: 266826
 ---
 Now she's gone, from my life
 And it nearly drove me out of my mind

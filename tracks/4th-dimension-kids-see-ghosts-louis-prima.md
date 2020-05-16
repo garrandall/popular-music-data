@@ -1,9 +1,12 @@
 ---
+album: KIDS SEE GHOSTS
 artists:
 - KIDS SEE GHOSTS
+external_ids:
+  spotify: spotify:track:6JyEh4kl9DLwmSAoNDRn5b
 features:
 - Louis Prima
-genres: []
+first_released_as_single: false
 key: 4th-dimension-kids-see-ghosts-louis-prima
 lyrics_url: https://www.azlyrics.com/lyrics/kidsseeghosts/4thdimension.html
 name: 4th Dimension
@@ -12,6 +15,8 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '2018-06-23'
+release_year: 2018
+runtime: 153351
 ---
 "Down the chimney, he will come
 With his great big smile
@@ -64,6 +69,3 @@ I wonder whether he'll be swingin'"
 
 "Just do that and then let the music do somethin', then do that again, that'd be enough for a record
 I mean, you only want two and a half minutes if you can get it, you know, three minutes max-"
-
-
-

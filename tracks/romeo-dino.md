@@ -1,8 +1,11 @@
 ---
+album: Standing Still
 artists:
 - Dino
+external_ids:
+  spotify: spotify:track:7xez8LRby1hw2nBvse9E9e
 features: []
-genres: []
+first_released_as_single: true
 key: romeo-dino
 lyrics_url: https://genius.com/Dino-dean-esposito-romeo-lyrics
 name: Romeo
@@ -79,6 +82,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1990-12-08'
+release_year: 1990
+runtime: 256733
 ---
 Check this out
 

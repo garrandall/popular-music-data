@@ -1,8 +1,11 @@
 ---
+album: "GOLDEN\u2606BEST -Complete Single Collection"
 artists:
 - Pink Lady
+external_ids:
+  spotify: spotify:track:1zYI2rt8AVU04zaP9hUzPG
 features: []
-genres: []
+first_released_as_single: true
 key: kiss-in-the-dark-pink-lady
 name: Kiss In The Dark
 rankings:
@@ -50,5 +53,7 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1979-08-11'
+release_year: 1979
+runtime: 175685
 ---
 

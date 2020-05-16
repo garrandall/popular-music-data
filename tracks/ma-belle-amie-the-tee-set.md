@@ -1,8 +1,11 @@
 ---
+album: She Likes Weeds (Collected)
 artists:
 - The Tee Set
+external_ids:
+  spotify: spotify:track:4in2Jcaax74is2EJlUqrPA
 features: []
-genres: []
+first_released_as_single: false
 key: ma-belle-amie-the-tee-set
 lyrics_url: https://genius.com/Tee-set-ma-belle-amie-lyrics
 name: Ma Belle Amie
@@ -55,6 +58,8 @@ rankings:
   rank: 29
   ranking_list: Billboard Hot 100
   start_date: '1970-04-11'
+release_year: 1970
+runtime: 213360
 ---
 Ma Belle Amie
 You were a child of the sun and the sky and the deep blue sea

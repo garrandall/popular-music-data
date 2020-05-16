@@ -1,8 +1,11 @@
 ---
+album: Oh, How It Hurts
 artists:
 - Barbara Mason
+external_ids:
+  spotify: spotify:track:10IBTu8gY4srVpgqSuHz8Q
 features: []
-genres: []
+first_released_as_single: false
 key: i-need-love-barbara-mason
 lyrics_url: https://genius.com/Barbara-mason-i-need-love-lyrics
 name: I Need Love
@@ -15,6 +18,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1966-06-18'
+release_year: 1966
+runtime: 204066
 ---
 I need love
 I wanna be kissed

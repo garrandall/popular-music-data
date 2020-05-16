@@ -1,8 +1,11 @@
 ---
+album: The Crazy World of Arthur Brown
 artists:
 - The Crazy World Of Arthur Brown
+external_ids:
+  spotify: spotify:track:44Y5Yh5OSciJB6ODlAhlHo
 features: []
-genres: []
+first_released_as_single: false
 key: fire-the-crazy-world-of-arthur-brown
 lyrics_url: https://genius.com/The-crazy-world-of-arthur-brown-fire-lyrics
 name: Fire
@@ -59,6 +62,8 @@ rankings:
   rank: 32
   ranking_list: Billboard Hot 100
   start_date: '1968-11-30'
+release_year: 1968
+runtime: 175893
 ---
 I am the god of hellfire! And I bring you
 Fire, I'll take you to burn

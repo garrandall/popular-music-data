@@ -1,8 +1,11 @@
 ---
+album: Rocky Mountain Music
 artists:
 - Eddie Rabbitt
+external_ids:
+  spotify: spotify:track:0OzORKw1UOkacqlIymFKLD
 features: []
-genres: []
+first_released_as_single: false
 key: rocky-mountain-music-eddie-rabbitt
 lyrics_url: https://www.azlyrics.com/lyrics/eddierabbitt/rockymountainmusic.html
 name: Rocky Mountain Music
@@ -39,8 +42,9 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1976-09-18'
+release_year: 1976
+runtime: 214560
 ---
-
 Back upon an old dirt road 
 Next to a swamp full of toads
 Was a slanted wood shack with three little kids and a mama
@@ -84,6 +88,3 @@ Rocky mountain music
 Fills my memory
 Rocky mountain music
 Papa, can I hear you playing for me?
-
-
-

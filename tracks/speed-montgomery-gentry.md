@@ -1,8 +1,11 @@
 ---
+album: My Town
 artists:
 - Montgomery Gentry
+external_ids:
+  spotify: spotify:track:5sPjFaqbhprKmMGD8haEkh
 features: []
-genres: []
+first_released_as_single: false
 key: speed-montgomery-gentry
 lyrics_url: https://www.azlyrics.com/lyrics/montgomerygentry/speed.html
 name: Speed
@@ -87,8 +90,9 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '2003-08-02'
+release_year: 1999
+runtime: 239893
 ---
-
 I'm tired of spinning my wheels 
 I need to find a place where my heart can go to heal 
 I need to get there pretty quick 
@@ -145,6 +149,3 @@ And a whole lot of speed
 That's what I need 
 I'm tired of spinning my wheels 
 I'm tired of spinning my wheels
-
-
-

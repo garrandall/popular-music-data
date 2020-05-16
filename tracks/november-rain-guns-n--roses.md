@@ -1,8 +1,11 @@
 ---
+album: Appetite For Destruction
 artists:
 - Guns N' Roses
+external_ids:
+  spotify: spotify:track:4Cl8oXTWpY0do2PpeYCmAv
 features: []
-genres: []
+first_released_as_single: false
 key: november-rain-guns-n--roses
 lyrics_url: https://genius.com/Guns-n-roses-november-rain-lyrics
 name: November Rain
@@ -87,6 +90,8 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '1992-11-07'
+release_year: 1987
+runtime: 300586
 ---
 When I look into your eyes
 I can see a love restrained

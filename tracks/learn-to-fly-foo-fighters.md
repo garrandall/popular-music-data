@@ -1,8 +1,11 @@
 ---
+album: There Is Nothing Left To Lose
 artists:
 - Foo Fighters
+external_ids:
+  spotify: spotify:track:5OQsiBsky2k2kDKy2bX2eT
 features: []
-genres: []
+first_released_as_single: false
 key: learn-to-fly-foo-fighters
 lyrics_url: https://genius.com/Foo-fighters-learn-to-fly-lyrics
 name: Learn To Fly
@@ -91,6 +94,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2000-03-04'
+release_year: 1999
+runtime: 235293
 ---
 Run and tell all of the angels
 This could take all night

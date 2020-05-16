@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music, Volume 7'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:1kaVnEJOzERCdCKtQKGDUH
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-not-unusual-glee-cast
 lyrics_url: https://www.azlyrics.com/lyrics/gleecast/itsnotunusual.html
 name: It's Not Unusual
@@ -11,8 +14,9 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '2011-10-08'
+release_year: 2011
+runtime: 125266
 ---
-
 It's not unusual to be loved by anyone
 It's not unusual to have fun with anyone
 but when I see you hanging about with anyone
@@ -30,6 +34,3 @@ It's not unusual, to be sad with anyone
 but if I ever find that you've changed at anytime
 it's not unusual to find out that I'm in love with you
 whoa-oh-oh-oh-oh
-
-
-

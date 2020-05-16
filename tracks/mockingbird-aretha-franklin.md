@@ -1,8 +1,11 @@
 ---
+album: Runnin' Out of Fools
 artists:
 - Aretha Franklin
+external_ids:
+  spotify: spotify:track:6IOD0OTFbUK4gaz74sLQNL
 features: []
-genres: []
+first_released_as_single: false
 key: mockingbird-aretha-franklin
 lyrics_url: https://genius.com/Aretha-franklin-mockingbird-lyrics
 name: Mockingbird
@@ -15,6 +18,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1967-12-30'
+release_year: 1964
+runtime: 153506
 ---
 (Mock) Yeah
 (Ing) Yeah

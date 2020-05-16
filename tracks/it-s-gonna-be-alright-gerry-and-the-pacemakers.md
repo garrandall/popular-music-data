@@ -1,8 +1,11 @@
 ---
+album: Ferry Cross The Mersey
 artists:
 - Gerry And The Pacemakers
+external_ids:
+  spotify: spotify:track:7nqaTpqP0qmnWeL8bNmipi
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-gonna-be-alright-gerry-and-the-pacemakers
 lyrics_url: https://genius.com/Gerry-and-the-pacemakers-its-gonna-be-alright-lyrics
 name: It's Gonna Be Alright
@@ -39,6 +42,8 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '1965-05-29'
+release_year: 1965
+runtime: 148666
 ---
 It's gonna be all right, all right, all right
 It's gonna be all right

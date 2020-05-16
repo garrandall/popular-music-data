@@ -1,9 +1,12 @@
 ---
+album: Dancing to Your Music
 artists:
 - Archie Bell
 - The Drells
+external_ids:
+  spotify: spotify:track:6CP6aBUvs3QuXLHaxJD5Hj
 features: []
-genres: []
+first_released_as_single: true
 key: dancing-to-your-music-archie-bell-the-drells
 lyrics_url: https://www.azlyrics.com/lyrics/archiebellthedrells/dancingtoyourmusic.html
 name: Dancing To Your Music
@@ -44,8 +47,9 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '1973-05-12'
+release_year: 1973
+runtime: 175426
 ---
-
 (Dancing to your music)
 I remember when I was
 The captain in command
@@ -96,6 +100,3 @@ You know that I'll do it
 I'm dancing to your music
 Anything you tell me, girl
 You know that I'll do it
-
-
-

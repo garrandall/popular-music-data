@@ -1,8 +1,11 @@
 ---
+album: Greatest Hits Live
 artists:
 - Pat Boone
+external_ids:
+  spotify: spotify:track:5RLaugGtUgimPZjTfdpqDC
 features: []
-genres: []
+first_released_as_single: false
 key: fools-hall-of-fame-pat-boone
 lyrics_url: https://genius.com/Pat-boone-fools-hall-of-fame-lyrics
 name: Fools Hall Of Fame
@@ -43,6 +46,8 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '1959-11-09'
+release_year: 1959
+runtime: 145111
 ---
 Just hang my picture
 In the fools hall of fame (the fools hall of fame) (the fools hall of fame)

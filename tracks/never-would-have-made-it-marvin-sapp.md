@@ -1,8 +1,11 @@
 ---
+album: Thirsty
 artists:
 - Marvin Sapp
+external_ids:
+  spotify: spotify:track:3QdBvvYJ9k1CES1e9aYvaA
 features: []
-genres: []
+first_released_as_single: false
 key: never-would-have-made-it-marvin-sapp
 lyrics_url: https://www.azlyrics.com/lyrics/marvinsapp/neverwouldhavemadeit.html
 name: Never Would Have Made It
@@ -59,8 +62,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2008-09-20'
+release_year: 2007
+runtime: 415133
 ---
-
 Never would have made it
 Never could have made it without You
 I would have lost it all
@@ -231,6 +235,3 @@ Everybody sing with me
 Never would have made it
 Oh
 Never could have made it without You
-
-
-

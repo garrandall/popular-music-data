@@ -1,8 +1,11 @@
 ---
+album: The Clique
 artists:
 - The Clique
+external_ids:
+  spotify: spotify:track:5CSRuOixA0hWAvctAM44wJ
 features: []
-genres: []
+first_released_as_single: false
 key: sparkle-and-shine-the-clique
 lyrics_url: https://genius.com/The-clique-sparkle-and-shine-lyrics
 name: Sparkle And Shine
@@ -11,6 +14,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1970-02-28'
+release_year: 1970
+runtime: 152800
 ---
 Ah, I'm in love, I'm in love
 I'm in love, I'm in love

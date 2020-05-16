@@ -1,8 +1,11 @@
 ---
+album: Time & Charges
 artists:
 - The Buckinghams
+external_ids:
+  spotify: spotify:track:7qWwWg1oIczYhL3kVyabG3
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-you-care-the-buckinghams
 lyrics_url: https://genius.com/The-buckinghams-dont-you-care-lyrics
 name: Don't You Care
@@ -63,6 +66,8 @@ rankings:
   rank: 34
   ranking_list: Billboard Hot 100
   start_date: '1967-06-10'
+release_year: 1967
+runtime: 148800
 ---
 If you don't love me
 Why don't you tell me

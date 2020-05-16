@@ -1,9 +1,12 @@
 ---
+album: Diamond Princess
 artists:
 - Trina
+external_ids:
+  spotify: spotify:track:7iKXO3oCFiiZRniwAJaGa4
 features:
 - Ludacris
-genres: []
+first_released_as_single: false
 key: b-r-right-trina-ludacris
 lyrics_url: https://www.azlyrics.com/lyrics/trina/brright.html
 name: B R Right
@@ -64,9 +67,10 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2003-04-12'
+release_year: 2002
+runtime: 261986
 ---
-
- I want my ass smacked
+I want my ass smacked
  legs wide
  front back
  side to side
@@ -184,6 +188,3 @@ fuck all yall bitches, get a life. you got too much time on your hands. i
 want yall bitches to get a job, up your game. pimp your game up baby, its
 all about me this time, fuck that. fuck a dime, I'm a silva dolla, holla.
 catch me when I come off tour, fuck yall. I'm out.
-
-
-

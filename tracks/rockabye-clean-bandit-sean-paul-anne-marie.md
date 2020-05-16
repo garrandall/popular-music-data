@@ -1,10 +1,13 @@
 ---
+album: Speak Your Mind
 artists:
 - Clean Bandit
+external_ids:
+  spotify: spotify:track:5knuzwU65gJK7IF5yJsuaW
 features:
 - Sean Paul
 - Anne-Marie
-genres: []
+first_released_as_single: true
 key: rockabye-clean-bandit-sean-paul-anne-marie
 lyrics_url: https://genius.com/Dj-shadow-clean-bandit-rockabye-ft-sean-paul-and-anne-marie-annotated
 name: Rockabye
@@ -117,6 +120,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2017-06-24'
+release_year: 2016
+runtime: 251088
 ---
 Call it love and devotion
 Call it a mom's adoration

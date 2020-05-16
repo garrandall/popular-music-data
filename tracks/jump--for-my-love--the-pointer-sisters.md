@@ -1,8 +1,11 @@
 ---
+album: Break Out
 artists:
 - The Pointer Sisters
+external_ids:
+  spotify: spotify:track:1kIu9zpYtWjgrLlsactlna
 features: []
-genres: []
+first_released_as_single: false
 key: jump--for-my-love--the-pointer-sisters
 lyrics_url: https://www.azlyrics.com/lyrics/pointersisters/jumpformylove.html
 name: Jump (for My Love)
@@ -103,8 +106,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1984-10-06'
+release_year: 1983
+runtime: 262560
 ---
-
 Your eyes tell me how you love me
 Can feel it in your heart beat
 I know you like what you see
@@ -152,6 +156,3 @@ Jump, you know these arms can feel you up
 Jump in, you want to taste my kisses
 In the night then
 Jump, jump for my love
-
-
-

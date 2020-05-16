@@ -1,8 +1,11 @@
 ---
+album: The Manhattans (Expanded Version)
 artists:
 - The Manhattans
+external_ids:
+  spotify: spotify:track:263mg6sY0n4NQHKcmIf1OJ
 features: []
-genres: []
+first_released_as_single: false
 key: hurt-the-manhattans
 lyrics_url: https://genius.com/The-manhattans-hurt-lyrics
 name: Hurt
@@ -15,6 +18,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1975-06-07'
+release_year: 1973
+runtime: 183640
 ---
 (You made a promise,and you broke it, he could never love you like I do, oh I feel so bad)
 

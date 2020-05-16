@@ -1,8 +1,11 @@
 ---
+album: Boogity Boogity
 artists:
 - Ray Stevens
+external_ids:
+  spotify: spotify:track:3HiIBzaoBkOTLmRYkdsusv
 features: []
-genres: []
+first_released_as_single: false
 key: the-streak-ray-stevens
 lyrics_url: https://www.azlyrics.com/lyrics/raystevens/thestreak.html
 name: The Streak
@@ -75,9 +78,9 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '1974-08-03'
+release_year: 1974
+runtime: 197733
 ---
-
-
 Hello, everyone, this is your action news reporter with all the news that is news across the nation, on the scene at the supermarket.
 There seems to have been some disturbance here. Pardon me, sir, did you see what happened?
 
@@ -171,6 +174,3 @@ Ethel! Where you goin'?
 Ethel, you shameless
 hussy! Say it isn't so,
 Ethel! Ethelllllll!
-
-
-

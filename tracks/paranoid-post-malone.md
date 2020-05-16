@@ -1,8 +1,11 @@
 ---
+album: beerbongs & bentleys
 artists:
 - Post Malone
+external_ids:
+  spotify: spotify:track:3fpVWegR6YOS1Yk5HSMYIq
 features: []
-genres: []
+first_released_as_single: false
 key: paranoid-post-malone
 lyrics_url: https://www.azlyrics.com/lyrics/postmalone/paranoid.html
 name: Paranoid
@@ -31,8 +34,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2018-06-16'
+release_year: 2018
+runtime: 221786
 ---
-
 Never know when someone comes and tries to take my life
 I've been sleepin' with the .45 like every night
 In the whip I pray to God I don't see flashin' lights
@@ -90,6 +94,3 @@ Wonderin' when they'll come for me
 A paranoid man makes paranoid plans
 I'll do what I can, but it's out of my hands
 Strugglin' just to find my peace
-
-
-

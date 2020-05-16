@@ -1,8 +1,11 @@
 ---
+album: Happy Trails
 artists:
 - Quicksilver Messenger Service
+external_ids:
+  spotify: spotify:track:14hykKy6TC9y6chiptCtje
 features: []
-genres: []
+first_released_as_single: false
 key: who-do-you-love-quicksilver-messenger-service
 lyrics_url: https://www.azlyrics.com/lyrics/quicksilvermessengerservice/whodoyoulovepart1.html
 name: Who Do You Love
@@ -19,8 +22,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1969-08-23'
+release_year: 1969
+runtime: 212733
 ---
-
 I walked forty-seven miles of barbed wire, I got a cobra snake for a necktie
 A brand new house by the road side, made out of rattlesnake hide
 I got me a chimney that's made on the top, made from a human skull
@@ -40,6 +44,3 @@ Who do you love? Who-who-who...?
 A graveyard hand in a tombstone mind, just twenty-two and I don't mind dying
 Who do you love? Who do you love?
 Who do you love? Who-who...?
-
-
-

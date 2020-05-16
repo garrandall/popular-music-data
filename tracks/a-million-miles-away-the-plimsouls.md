@@ -1,8 +1,11 @@
 ---
+album: Everywhere At Once
 artists:
 - The Plimsouls
+external_ids:
+  spotify: spotify:track:4jF4kZArkVKvvYXOlplMtA
 features: []
-genres: []
+first_released_as_single: false
 key: a-million-miles-away-the-plimsouls
 lyrics_url: https://www.musixmatch.com/lyrics/The-Plimsouls/A-Million-Miles-Away
 name: A Million Miles Away
@@ -19,6 +22,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1983-08-13'
+release_year: 1983
+runtime: 215200
 ---
 Friday night, I'd just got back
 I had my eyes shut, was dreamin' 'bout the past

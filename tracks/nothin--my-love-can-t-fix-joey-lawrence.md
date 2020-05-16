@@ -1,8 +1,11 @@
 ---
+album: Joey Lawrence
 artists:
 - Joey Lawrence
+external_ids:
+  spotify: spotify:track:15ni9ro5GuIad268WAZN32
 features: []
-genres: []
+first_released_as_single: false
 key: nothin--my-love-can-t-fix-joey-lawrence
 lyrics_url: https://genius.com/Joey-lawrence-nothin-my-love-cant-fix-lyrics
 name: Nothin' My Love Can't Fix
@@ -87,6 +90,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1993-07-17'
+release_year: 1993
+runtime: 243266
 ---
 Why is my baby blue
 Can't see the colors

@@ -1,8 +1,11 @@
 ---
+album: Love Crazy
 artists:
 - Atlantic Starr
+external_ids:
+  spotify: spotify:track:2R3L6vYiE93dYwJZvvD9M6
 features: []
-genres: []
+first_released_as_single: false
 key: love-crazy-atlantic-starr
 lyrics_url: https://genius.com/Atlantic-starr-love-crazy-lyrics
 name: Love Crazy
@@ -39,6 +42,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1992-01-11'
+release_year: 1991
+runtime: 286760
 ---
 I'm love, love crazy
 Crazy over you

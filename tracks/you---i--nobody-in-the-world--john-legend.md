@@ -1,8 +1,11 @@
 ---
+album: Love In The Future
 artists:
 - John Legend
+external_ids:
+  spotify: spotify:track:55nlbqqFVnSsArIeYSQlqx
 features: []
-genres: []
+first_released_as_single: false
 key: you---i--nobody-in-the-world--john-legend
 lyrics_url: https://www.azlyrics.com/lyrics/johnlegend/youinobodyintheworld.html
 name: You & I (Nobody In The World)
@@ -15,8 +18,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2014-08-02'
+release_year: 2013
+runtime: 252653
 ---
-
 You fix your make up, just so
 Guess you don't know, that you're beautiful
 Try on every dress that you own
@@ -69,6 +73,3 @@ You and I
 You and I
 Nobody in the world tonight
 Ain't nobody in the world but you and I
-
-
-

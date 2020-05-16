@@ -1,8 +1,11 @@
 ---
+album: Rare Stamps
 artists:
 - Eddie Floyd
+external_ids:
+  spotify: spotify:track:0zirALGtWVweiz23yTSfiR
 features: []
-genres: []
+first_released_as_single: false
 key: i-ve-never-found-a-girl--to-love-me-like-you-do--eddie-floyd
 lyrics_url: https://genius.com/Eddie-floyd-ive-never-found-a-girl-to-love-me-like-you-do-lyrics
 name: I've Never Found A Girl (To Love Me Like You Do)
@@ -43,6 +46,8 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '1968-09-21'
+release_year: 1968
+runtime: 163964
 ---
 Ain't no love, ain't no love, like my baby's love
 It's like burnin' fire, set off in my bones

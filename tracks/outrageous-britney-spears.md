@@ -1,8 +1,11 @@
 ---
+album: In The Zone
 artists:
 - Britney Spears
+external_ids:
+  spotify: spotify:track:2vPCRs3g0vdLU8sHlAEytO
 features: []
-genres: []
+first_released_as_single: false
 key: outrageous-britney-spears
 lyrics_url: https://www.azlyrics.com/lyrics/britneyspears/outrageous.html
 name: Outrageous
@@ -23,8 +26,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '2004-09-04'
+release_year: 2003
+runtime: 201906
 ---
-
 Outrageous
 When I move my body
 Outrageous
@@ -152,6 +156,3 @@ Outrageous
 We on a world tour
 Outrageous
 Just be it, girl
-
-
-

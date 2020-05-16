@@ -1,8 +1,11 @@
 ---
+album: The Anthology
 artists:
 - The McGuire Sisters
+external_ids:
+  spotify: spotify:track:10hkfuMIpEbTuHBTbfxlDv
 features: []
-genres: []
+first_released_as_single: false
 key: volare--nel-blu-dipinto-di-blu--the-mcguire-sisters
 lyrics_url: https://genius.com/The-mcguire-sisters-volare-lyrics
 name: Volare (Nel Blu Dipinto Di Blu)
@@ -11,6 +14,8 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '1958-09-01'
+release_year: 1958
+runtime: 160026
 ---
 Penso che un sogno così non ritorni mai più
 Mi dipingevo le mani e la faccia di blu

@@ -1,8 +1,11 @@
 ---
+album: RISER
 artists:
 - Dierks Bentley
+external_ids:
+  spotify: spotify:track:01e8dGbulrphX8j3fZDQYk
 features: []
-genres: []
+first_released_as_single: false
 key: i-hold-on-dierks-bentley
 lyrics_url: https://genius.com/Dierks-bentley-i-hold-on-lyrics
 name: I Hold On
@@ -83,6 +86,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2014-05-10'
+release_year: 2014
+runtime: 279533
 ---
 It's just an old beat up truck
 Some say that I should trade up

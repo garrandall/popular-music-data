@@ -1,8 +1,11 @@
 ---
+album: Skyy Line
 artists:
 - Skyy
+external_ids:
+  spotify: spotify:track:5ouj4J1s8WlPsLfDjxMwSc
 features: []
-genres: []
+first_released_as_single: false
 key: call-me-skyy
 lyrics_url: https://genius.com/Skyy-call-me-lyrics
 name: Call Me
@@ -51,6 +54,8 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1982-03-27'
+release_year: 1975
+runtime: 383440
 ---
 Sittin' here
 Couldn't help hear you talkin' to your best friend

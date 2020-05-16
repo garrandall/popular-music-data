@@ -48,8 +48,6 @@ If this happened to you
 But with your feet in my shoes
 I wonder what you'd do?
 
---- Instrumental ---
-
 If it's wrong to long for lost love
 Then I'm wrong as I can be
 You say it's wrong and that may be true

@@ -1,8 +1,11 @@
 ---
+album: Superman
 artists:
 - Barbra Streisand
+external_ids:
+  spotify: spotify:track:0OkUPkLrDSM8XHlhx4MSKV
 features: []
-genres: []
+first_released_as_single: false
 key: my-heart-belongs-to-me-barbra-streisand
 lyrics_url: https://www.azlyrics.com/lyrics/barbrastreisand/myheartbelongstome.html
 name: My Heart Belongs To Me
@@ -75,8 +78,9 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '1977-09-10'
+release_year: 1972
+runtime: 201000
 ---
-
 I got the feelin' the feelin's gone
 My heart has gone to sleep
 One of these mornings I'll be gone
@@ -106,6 +110,3 @@ My heart belongs to me...
 
 
 Didn't I love you, didn't I love you
-
-
-

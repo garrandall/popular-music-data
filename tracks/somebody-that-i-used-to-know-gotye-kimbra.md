@@ -1,9 +1,12 @@
 ---
+album: Making Mirrors
 artists:
 - Gotye
+external_ids:
+  spotify: spotify:track:4wCmqSrbyCgxEXROQE6vtV
 features:
 - Kimbra
-genres: []
+first_released_as_single: false
 key: somebody-that-i-used-to-know-gotye-kimbra
 lyrics_url: https://www.azlyrics.com/lyrics/gotye/somebodythatiusedtoknow.html
 name: Somebody That I Used To Know
@@ -244,9 +247,9 @@ rankings:
   rank: 36
   ranking_list: Billboard Hot 100
   start_date: '2013-03-02'
+release_year: 2011
+runtime: 244973
 ---
-
-
 Now and then I think of when we were together
 Like when you said you felt so happy you could die
 Told myself that you were right for me
@@ -303,6 +306,3 @@ Somebody
 (That I used to know)
 (I used to know)
 Somebody
-
-
-

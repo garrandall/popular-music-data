@@ -1,8 +1,11 @@
 ---
+album: Escape
 artists:
 - Journey
+external_ids:
+  spotify: spotify:track:3vEp814STMaCXvMj6M1JU2
 features: []
-genres: []
+first_released_as_single: false
 key: still-they-ride-journey
 lyrics_url: https://genius.com/Journey-still-they-ride-lyrics
 name: Still They Ride
@@ -63,6 +66,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1982-08-21'
+release_year: 1975
+runtime: 229400
 ---
 Jesse rides through the night
 Under the Main Street light

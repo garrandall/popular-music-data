@@ -1,8 +1,11 @@
 ---
+album: Near You
 artists:
 - Roger Williams
+external_ids:
+  spotify: spotify:track:0aVMdNotlKqTs5eVAomnBw
 features: []
-genres: []
+first_released_as_single: false
 key: near-you-roger-williams
 name: Near You
 rankings:
@@ -74,5 +77,7 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1958-12-08'
+release_year: 1958
+runtime: 167146
 ---
 

@@ -1,8 +1,11 @@
 ---
+album: Live From Agora
 artists:
 - Dwight Twilley Band
+external_ids:
+  spotify: spotify:track:4WQCFU7rfrOjtF73dL5nNi
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-on-fire-dwight-twilley-band
 lyrics_url: https://genius.com/Dwight-twilley-band-im-on-fire-lyrics
 name: I'm On Fire
@@ -79,6 +82,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1975-08-23'
+release_year: 1975
+runtime: 259839
 ---
 Got your lady on the line
 Got your name on the cover

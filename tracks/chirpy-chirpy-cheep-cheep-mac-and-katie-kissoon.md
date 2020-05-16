@@ -1,8 +1,11 @@
 ---
+album: 'Mac & Katie Kissoon: I''ve Found My Freedom, The Greatest Hits'
 artists:
 - Mac And Katie Kissoon
+external_ids:
+  spotify: spotify:track:7m6QgZFpK9HDRfxNStLVGF
 features: []
-genres: []
+first_released_as_single: false
 key: chirpy-chirpy-cheep-cheep-mac-and-katie-kissoon
 lyrics_url: https://genius.com/Mac-and-katie-kissoon-chirpy-chirpy-cheep-cheep-lyrics
 name: Chirpy Chirpy Cheep Cheep
@@ -67,6 +70,8 @@ rankings:
   rank: 31
   ranking_list: Billboard Hot 100
   start_date: '1971-10-30'
+release_year: 1971
+runtime: 164011
 ---
 Where's your mama gone
 Where's your mama gone

@@ -1,8 +1,11 @@
 ---
+album: Battle Hymns For Children Singing
 artists:
 - Haysi Fantayzee
+external_ids:
+  spotify: spotify:track:439nrLtmKb4iAZPNJXWfkX
 features: []
-genres: []
+first_released_as_single: false
 key: shiny-shiny-haysi-fantayzee
 lyrics_url: https://genius.com/Haysi-fantayzee-shiny-shiny-lyrics
 name: Shiny Shiny
@@ -27,6 +30,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1983-08-20'
+release_year: 1982
+runtime: 222546
 ---
 Good times come to me now
 Good times come to me now

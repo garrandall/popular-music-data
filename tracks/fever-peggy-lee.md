@@ -1,8 +1,11 @@
 ---
+album: Sea Shells
 artists:
 - Peggy Lee
+external_ids:
+  spotify: spotify:track:5jEesegxMGCBWbLQCOewzC
 features: []
-genres: []
+first_released_as_single: false
 key: fever-peggy-lee
 lyrics_url: https://www.azlyrics.com/lyrics/peggylee/fever.html
 name: Fever
@@ -55,8 +58,9 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1958-10-20'
+release_year: 1958
+runtime: 120280
 ---
-
 Never know how much I love you
 Never know how much I care
 When you put your arms around me
@@ -119,6 +123,3 @@ What a lovely way to burn
 What a lovely way to burn
 What a lovely way to burn
 What a lovely way to burn
-
-
-

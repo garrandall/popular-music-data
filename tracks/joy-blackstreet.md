@@ -1,8 +1,11 @@
 ---
+album: Blackstreet
 artists:
 - BLACKstreet
+external_ids:
+  spotify: spotify:track:08TTz3bxSStwQKxZ8bEJ8C
 features: []
-genres: []
+first_released_as_single: false
 key: joy-blackstreet
 lyrics_url: https://www.azlyrics.com/lyrics/blackstreet/joy.html
 name: Joy
@@ -59,8 +62,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1995-06-24'
+release_year: 1994
+runtime: 295800
 ---
-
 Can't forget the day
 That you walked into my life
 It was just the kind of thing
@@ -139,6 +143,3 @@ Check one check two
 There's nothing in the world that I won't do for you
 
 Girl you're my joy
-
-
-

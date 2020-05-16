@@ -1,8 +1,11 @@
 ---
+album: Blind To Reason
 artists:
 - Grayson Hugh
+external_ids:
+  spotify: spotify:track:0OKXjd9ZpZioaHyowpQ7as
 features: []
-genres: []
+first_released_as_single: false
 key: talk-it-over-grayson-hugh
 lyrics_url: https://genius.com/Grayson-hugh-talk-it-over-lyrics
 name: Talk It Over
@@ -79,6 +82,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1989-10-21'
+release_year: 1988
+runtime: 258399
 ---
 Harsh words are spoken
 Promises are broken

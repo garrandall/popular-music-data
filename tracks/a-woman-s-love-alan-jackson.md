@@ -1,8 +1,11 @@
 ---
+album: High Mileage
 artists:
 - Alan Jackson
+external_ids:
+  spotify: spotify:track:2ZrEwdAFMESSUi1D95v26Y
 features: []
-genres: []
+first_released_as_single: false
 key: a-woman-s-love-alan-jackson
 lyrics_url: https://genius.com/Alan-jackson-a-womans-love-lyrics
 name: A Woman's Love
@@ -55,6 +58,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2007-06-30'
+release_year: 1998
+runtime: 232906
 ---
 I have felt it
 And I have held it

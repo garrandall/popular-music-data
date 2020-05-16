@@ -1,9 +1,12 @@
 ---
+album: Over It
 artists:
 - Summer Walker
+external_ids:
+  spotify: spotify:track:4Qxn47gWPSucovKrMyRf1z
 features:
 - A Boogie Wit da Hoodie
-genres: []
+first_released_as_single: false
 key: stretch-you-out-summer-walker-a-boogie-wit-da-hoodie
 lyrics_url: https://www.azlyrics.com/lyrics/summerwalker/stretchyouout.html
 name: Stretch You Out
@@ -12,8 +15,9 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '2019-10-19'
+release_year: 2019
+runtime: 143493
 ---
-
 Niggas be insecure
 Claiming that you ain't doing enough
 Claiming that they need more
@@ -54,6 +58,3 @@ You just wanna have fun, fun, fun (Ohh)
 We gon make you cum, cum, cum, cum, cum
 
 We gonna smile
-
-
-

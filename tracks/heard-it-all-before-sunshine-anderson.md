@@ -1,8 +1,11 @@
 ---
+album: Your Woman
 artists:
 - Sunshine Anderson
+external_ids:
+  spotify: spotify:track:0xikWgPgYN9BEes0ieZ8Co
 features: []
-genres: []
+first_released_as_single: false
 key: heard-it-all-before-sunshine-anderson
 lyrics_url: https://www.azlyrics.com/lyrics/sunshineanderson/hearditallbefore.html
 name: Heard It All Before
@@ -87,8 +90,9 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '2001-07-21'
+release_year: 2001
+runtime: 295826
 ---
-
 Baby let me explain to you I'm sayin
 what you sayin
 It's not even like that
@@ -170,6 +174,3 @@ But your lies ain't working now look who's hurting now
 See I had to shut you down (I had to shut you down)
 
 See I heard it all before
-
-
-

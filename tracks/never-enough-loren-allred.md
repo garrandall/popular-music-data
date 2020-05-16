@@ -1,8 +1,11 @@
 ---
+album: The Greatest Showman (Original Motion Picture Soundtrack)
 artists:
 - Loren Allred
+external_ids:
+  spotify: spotify:track:0Gl5s8IhMmQE5YQwM8Qx1J
 features: []
-genres: []
+first_released_as_single: false
 key: never-enough-loren-allred
 lyrics_url: https://genius.com/Loren-allred-never-enough-lyrics
 name: Never Enough
@@ -23,6 +26,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2018-02-03'
+release_year: 2017
+runtime: 207786
 ---
 I'm trying to hold my breath
 Let it stay this way

@@ -1,8 +1,11 @@
 ---
+album: Tangled Up
 artists:
 - Thomas Rhett
+external_ids:
+  spotify: spotify:track:1zWZvrk13cL8Sl3VLeG57F
 features: []
-genres: []
+first_released_as_single: false
 key: t-shirt-thomas-rhett
 lyrics_url: https://www.azlyrics.com/lyrics/thomasrhett/tshirt.html
 name: T-Shirt
@@ -87,8 +90,9 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '2016-07-30'
+release_year: 2015
+runtime: 227693
 ---
-
 Get off of work and we meet down at our spot
 We had a patio with a view of a parkin' lot
 It was 2 for 1 and 4 for 2
@@ -147,6 +151,3 @@ I ain't ever seen anything like -your dress -my floor -the way -you wore -my, my
 (Yeah baby, you look good in my t-shirt)
 (Oh yes, you look so good in my t-shirt)
 (Nah nah nah nah nah-nah-nah)
-
-
-

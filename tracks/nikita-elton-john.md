@@ -1,8 +1,11 @@
 ---
+album: Ice On Fire
 artists:
 - Elton John
+external_ids:
+  spotify: spotify:track:3G0ENKW9vzV0SuYKaWFflI
 features: []
-genres: []
+first_released_as_single: false
 key: nikita-elton-john
 lyrics_url: https://www.azlyrics.com/lyrics/eltonjohn/nikita.html
 name: Nikita
@@ -79,8 +82,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1986-05-17'
+release_year: 1985
+runtime: 343240
 ---
-
 Hey Nikita is it cold
 In your little corner of the world
 You could roll around the globe
@@ -107,6 +111,3 @@ And if there comes a time
 Guns and gates no longer hold you in
 And if you're free to make a choice
 Just look towards the west and find a friend
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: KIRK
 artists:
 - DaBaby
+external_ids:
+  spotify: spotify:track:0fySG6A6qLE8IvDpayb5bM
 features: []
-genres: []
+first_released_as_single: false
 key: vibez-dababy
 lyrics_url: https://www.azlyrics.com/lyrics/dababy/vibez.html
 name: VIBEZ
@@ -87,8 +90,9 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '2020-02-22'
+release_year: 2019
+runtime: 144935
 ---
-
 Let's go
 You know it's baby, nigga
 (Oh Lord, Jetson made another one)
@@ -174,6 +178,3 @@ She wanna fuck on me but I don't got the time
 I just hopped off a private plane and went and hopped on 85
 Go call my chauffeur bitch, cause' I don't like to drive
 We in suburban's back to back and we gone fill em' up with vibes
-
-
-

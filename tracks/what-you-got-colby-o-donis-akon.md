@@ -1,9 +1,12 @@
 ---
+album: Colby O
 artists:
 - Colby O'Donis
+external_ids:
+  spotify: spotify:track:3MldzywZOH4Uci6bq9noyJ
 features:
 - Akon
-genres: []
+first_released_as_single: false
 key: what-you-got-colby-o-donis-akon
 lyrics_url: https://genius.com/Colby-odonis-and-akon-what-you-got-main-lyrics
 name: What You Got
@@ -108,6 +111,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2008-08-30'
+release_year: 2008
+runtime: 243013
 ---
 Konvict, Konvict
 Ooo oo, oo oo

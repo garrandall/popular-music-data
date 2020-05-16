@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music, Volume 5'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:3CozB1UhpMXQEdcdz9C6ze
 features: []
-genres: []
+first_released_as_single: false
 key: fat-bottomed-girls-glee-cast
 lyrics_url: https://www.azlyrics.com/lyrics/gleecast/fatbottomedgirls.html
 name: Fat Bottomed Girls
@@ -11,8 +14,9 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '2011-02-26'
+release_year: 2011
+runtime: 252173
 ---
-
 Are you gonna take me home tonight?
 Ah down beside that red fire light
 Are you gonna let it all hang out?
@@ -55,6 +59,3 @@ Fat bottomed girls you make the rocking world go round
 Get on your bikes and ride
 Fat bottomed girls
 Fat bottomed girls
-
-
-

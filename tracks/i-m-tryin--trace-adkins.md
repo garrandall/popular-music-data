@@ -1,8 +1,11 @@
 ---
+album: Chrome
 artists:
 - Trace Adkins
+external_ids:
+  spotify: spotify:track:7HJkWMlVIsuxeN4VCwEaDp
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-tryin--trace-adkins
 lyrics_url: https://genius.com/Trace-adkins-im-tryin-lyrics
 name: I'm Tryin'
@@ -87,6 +90,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2002-03-02'
+release_year: 2001
+runtime: 284800
 ---
 This gettin' up early, pullin' double shifts
 Gonna make an old man of me long before I ever get rich

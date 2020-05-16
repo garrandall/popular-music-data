@@ -1,8 +1,11 @@
 ---
+album: Cowboys To Girls (Live)
 artists:
 - The Intruders
+external_ids:
+  spotify: spotify:track:58T2nMKugbIsjRe7jEZkTI
 features: []
-genres: []
+first_released_as_single: false
 key: together-the-intruders
 lyrics_url: https://www.musixmatch.com/lyrics/The-Intruders/Together
 name: Together
@@ -43,6 +46,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1967-06-24'
+release_year: 1964
+runtime: 177160
 ---
 (Together, together)
 Oh, oh we could be on a desert

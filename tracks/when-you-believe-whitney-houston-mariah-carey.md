@@ -1,9 +1,12 @@
 ---
+album: My Love Is Your Love
 artists:
 - Whitney Houston
 - Mariah Carey
+external_ids:
+  spotify: spotify:track:0JN7vUgUolHGHFrOR8xk7S
 features: []
-genres: []
+first_released_as_single: false
 key: when-you-believe-whitney-houston-mariah-carey
 lyrics_url: https://genius.com/Whitney-houston-when-you-believe-lyrics
 name: When You Believe
@@ -76,6 +79,8 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '1999-03-27'
+release_year: 1998
+runtime: 272893
 ---
 Many nights we've prayed
 With no proof anyone could hear

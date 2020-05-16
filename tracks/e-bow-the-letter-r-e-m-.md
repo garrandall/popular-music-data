@@ -1,8 +1,11 @@
 ---
+album: New Adventures In Hi-Fi
 artists:
 - R.E.M.
+external_ids:
+  spotify: spotify:track:2S3wW83zk0CosLGYN7jfor
 features: []
-genres: []
+first_released_as_single: false
 key: e-bow-the-letter-r-e-m-
 lyrics_url: https://www.azlyrics.com/lyrics/rem/ebowtheletter.html
 name: E-Bow The Letter
@@ -43,8 +46,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1996-11-02'
+release_year: 1996
+runtime: 324826
 ---
-
 Look up, what do you see?
 all of you and all of me
 florescent and starry
@@ -136,6 +140,3 @@ I'll take you there
 over, let me
 I'll take you there...
 there, there, baby, yeah
-
-
-

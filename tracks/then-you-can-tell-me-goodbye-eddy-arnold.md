@@ -1,8 +1,11 @@
 ---
+album: Walkin' In Love Land
 artists:
 - Eddy Arnold
+external_ids:
+  spotify: spotify:track:1UPL1kUkE8lxoVhuvWIkDF
 features: []
-genres: []
+first_released_as_single: false
 key: then-you-can-tell-me-goodbye-eddy-arnold
 lyrics_url: https://www.azlyrics.com/lyrics/eddyarnold/thenyoucantellmegoodbye.html
 name: Then You Can Tell Me Goodbye
@@ -23,8 +26,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1968-09-28'
+release_year: 1968
+runtime: 170693
 ---
-
 Kiss me each morning for a million years
 Hold me each evening by your side
 Tell me you love me for a million years
@@ -46,6 +50,3 @@ Tell me you love me for a million years
 If it don't work out, if it don't work out
 Then you can tell me goodbye
 Then you can tell me goodbye
-
-
-

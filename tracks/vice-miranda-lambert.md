@@ -1,8 +1,11 @@
 ---
+album: The Weight of These Wings
 artists:
 - Miranda Lambert
+external_ids:
+  spotify: spotify:track:4Qtw0HNKSbIRT5sWUnbRXc
 features: []
-genres: []
+first_released_as_single: false
 key: vice-miranda-lambert
 lyrics_url: https://www.azlyrics.com/lyrics/mirandalambert/vice.html
 name: Vice
@@ -83,8 +86,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2016-12-10'
+release_year: 2016
+runtime: 240280
 ---
-
 Sting of the needle dropping on a vinyl
 Neon singer with a jukebox title full of heartbreak
 33, 45, 78
@@ -130,6 +134,3 @@ Oh another vice
 Another vice
 Another vice
 Another vice
-
-
-

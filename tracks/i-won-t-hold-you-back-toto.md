@@ -1,8 +1,11 @@
 ---
+album: Toto IV
 artists:
 - Toto
+external_ids:
+  spotify: spotify:track:7D4EtbE7LfQiH8CWj7fQoz
 features: []
-genres: []
+first_released_as_single: false
 key: i-won-t-hold-you-back-toto
 lyrics_url: https://genius.com/Toto-i-wont-hold-you-back-lyrics
 name: I Won't Hold You Back
@@ -75,6 +78,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1983-07-02'
+release_year: 1982
+runtime: 293306
 ---
 If I had another chance tonight
 I'd try to tell you that the things we had were right

@@ -1,8 +1,11 @@
 ---
+album: One Eighty
 artists:
 - Ambrosia
+external_ids:
+  spotify: spotify:track:6JHXiRD1QjMK1N6AQEnL04
 features: []
-genres: []
+first_released_as_single: false
 key: biggest-part-of-me-ambrosia
 lyrics_url: https://www.azlyrics.com/lyrics/ambrosia/biggestpartofme.html
 name: Biggest Part Of Me
@@ -83,8 +86,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1980-08-09'
+release_year: 1980
+runtime: 324040
 ---
-
 (Sunrise) There's a new sun a-risin'
 (In your eyes) I can see a new horizon
 (Realize) That will keep me realizin'
@@ -169,6 +173,3 @@ And I'll be a servant to you
 For the rest of my life
 
 You're the biggest part of me
-
-
-

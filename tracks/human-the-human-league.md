@@ -1,8 +1,11 @@
 ---
+album: Reproduction
 artists:
 - The Human League
+external_ids:
+  spotify: spotify:track:5dUK5h41IMCZcFdZvmHNG0
 features: []
-genres: []
+first_released_as_single: false
 key: human-the-human-league
 lyrics_url: https://genius.com/The-human-league-human-lyrics
 name: Human
@@ -87,6 +90,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1987-01-24'
+release_year: 1979
+runtime: 197853
 ---
 Come on, baby, dry your eyes
 Wipe your tears

@@ -1,8 +1,11 @@
 ---
+album: 'Swing & Jive: You Can Dance'
 artists:
 - Tuxedo Junction
+external_ids:
+  spotify: spotify:track:5zt4lrHyA7g54mARhrTyuJ
 features: []
-genres: []
+first_released_as_single: false
 key: chattanooga-choo-choo-tuxedo-junction
 lyrics_url: https://www.musixmatch.com/lyrics/Tuxedo-Junction/Chattanooga-Choo-Choo
 name: Chattanooga Choo Choo
@@ -75,6 +78,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1978-08-12'
+release_year: 1978
+runtime: 242426
 ---
 Pardon me boy, is that the Chattanooga Choo Choo?
 Track twenty nine, boy you can gimme a shine

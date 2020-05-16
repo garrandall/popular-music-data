@@ -1,8 +1,11 @@
 ---
+album: Band Of Gold (Almighty Mixes)
 artists:
 - Freda Payne
+external_ids:
+  spotify: spotify:track:0rE4WmpTDtb4k5KjzZ3AaD
 features: []
-genres: []
+first_released_as_single: false
 key: band-of-gold-freda-payne
 lyrics_url: https://genius.com/Freda-payne-band-of-gold-lyrics
 name: Band Of Gold
@@ -87,6 +90,8 @@ rankings:
   rank: 22
   ranking_list: Billboard Hot 100
   start_date: '1970-09-05'
+release_year: 1970
+runtime: 281026
 ---
 Now that you're gone
 All that's left is a band of gold

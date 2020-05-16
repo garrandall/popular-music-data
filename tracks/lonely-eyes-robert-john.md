@@ -1,8 +1,11 @@
 ---
+album: Classic Masters
 artists:
 - Robert John
+external_ids:
+  spotify: spotify:track:4DBdePBC6vzrNMrTWv2ck3
 features: []
-genres: []
+first_released_as_single: false
 key: lonely-eyes-robert-john
 lyrics_url: https://www.musixmatch.com/lyrics/Robert-John/Lonely-Eyes
 name: Lonely Eyes
@@ -51,6 +54,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1980-02-16'
+release_year: 1979
+runtime: 190226
 ---
 Across the crowded room
 See her sitting all alone

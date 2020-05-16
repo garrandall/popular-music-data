@@ -1,8 +1,11 @@
 ---
+album: Skin Tight
 artists:
 - Ohio Players
+external_ids:
+  spotify: spotify:track:5Uh45W2nIIEbp2hvvbsvcz
 features: []
-genres: []
+first_released_as_single: false
 key: jive-turkey--part-1--ohio-players
 lyrics_url: https://genius.com/Ohio-players-jive-turkey-lyrics
 name: Jive Turkey (Part 1)
@@ -51,6 +54,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1974-08-24'
+release_year: 1974
+runtime: 429466
 ---
 Hey, is that your old lady over there, man?
 No, man, that ain't none of my old lady

@@ -1,8 +1,11 @@
 ---
+album: Unleashed
 artists:
 - Toby Keith
+external_ids:
+  spotify: spotify:track:1hDyukwpyJ9H5QBZoIs0Dm
 features: []
-genres: []
+first_released_as_single: false
 key: rock-you-baby-toby-keith
 lyrics_url: https://www.azlyrics.com/lyrics/tobykeith/rockyoubaby.html
 name: Rock You Baby
@@ -27,9 +30,10 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2003-04-12'
+release_year: 2002
+runtime: 241760
 ---
-
-Met you in a cafÃ©
+Met you in a café
 At a table meant for two
 You were sitting by your lonesome
 When I sat down with you
@@ -53,7 +57,7 @@ I'm gonna rock you, baby
 
 Over open conversation and a bottle of red wine
 You said this world is full of users and I know that I've had mine
-We danced a little slow dance until they closed that cafÃ© down
+We danced a little slow dance until they closed that café down
 You said, 'What would be the chances that tonight I finally found
 Someone who makes me feel like my life is just begun?'
 I said, 'Girl, believe in me and I'll show you how it's done.'
@@ -68,6 +72,3 @@ Then I'm gonna love you all over in and out of control
 If this is how love is supposed to feel
 Oh, baby, I know I've fallen head over heels
 I'm gonna rock you, baby
-
-
-

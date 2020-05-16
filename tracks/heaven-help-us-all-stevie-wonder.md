@@ -1,8 +1,11 @@
 ---
+album: Signed, Sealed And Delivered
 artists:
 - Stevie Wonder
+external_ids:
+  spotify: spotify:track:06n4xlUyRu88SKeQW1veOa
 features: []
-genres: []
+first_released_as_single: false
 key: heaven-help-us-all-stevie-wonder
 lyrics_url: https://genius.com/Stevie-wonder-heaven-help-us-all-lyrics
 name: Heaven Help Us All
@@ -51,6 +54,8 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1970-12-26'
+release_year: 1970
+runtime: 195173
 ---
 Heaven help the child who never had a home
 Heaven help the girl who walks the streets alone

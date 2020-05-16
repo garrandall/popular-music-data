@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music, Volume 6'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:2uq0ZXtL4mF5pvZ8LeVIDo
 features: []
-genres: []
+first_released_as_single: false
 key: pretending-glee-cast
 lyrics_url: https://www.azlyrics.com/lyrics/gleecast/pretending.html
 name: Pretending
@@ -11,8 +14,9 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '2011-06-11'
+release_year: 2011
+runtime: 237520
 ---
-
 Face to face and heart to heart
 We're so close yet so far apart
 I close my eyes I look away
@@ -53,6 +57,3 @@ Or will we forever only be pretending?
 Will we always, always, always be
 Will we always, always, always be
 WIll we always, always, always be pretending?
-
-
-

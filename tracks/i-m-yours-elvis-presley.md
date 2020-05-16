@@ -1,8 +1,11 @@
 ---
+album: Pot Luck
 artists:
 - Elvis Presley
+external_ids:
+  spotify: spotify:track:5gu5laRy0DJd17tb6bRMNm
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-yours-elvis-presley
 lyrics_url: https://genius.com/Elvis-presley-im-yours-lyrics
 name: I'm Yours
@@ -51,6 +54,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1965-11-06'
+release_year: 1962
+runtime: 140840
 ---
 My love I offer you now
 My heart and all it can give

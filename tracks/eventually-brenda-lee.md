@@ -1,8 +1,11 @@
 ---
+album: All The Way
 artists:
 - Brenda Lee
+external_ids:
+  spotify: spotify:track:2LhIq64BYsvV1UABBhCfG7
 features: []
-genres: []
+first_released_as_single: false
 key: eventually-brenda-lee
 lyrics_url: https://www.azlyrics.com/lyrics/brendalee/eventually.html
 name: Eventually
@@ -19,8 +22,9 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1961-07-17'
+release_year: 1961
+runtime: 184120
 ---
-
 Eventually your penalty will be to hurt as I do
 Eventually my memory ah my memory will haunt the dreams of you
 This look I'm wearing it's called a frown
@@ -31,6 +35,3 @@ Oh oh this look I'm wearing its called a frown
 But it use to be a smile till you turned it upside down
 I'd hate to see you feel like me but baby this will be
 Eventually my memory ah my memory will haunt the dreams of you
-
-
-

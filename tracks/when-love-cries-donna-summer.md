@@ -1,8 +1,11 @@
 ---
+album: Mistaken Identity
 artists:
 - Donna Summer
+external_ids:
+  spotify: spotify:track:6QiIEgVpaFpWOavU2sJq19
 features: []
-genres: []
+first_released_as_single: false
 key: when-love-cries-donna-summer
 lyrics_url: https://www.azlyrics.com/lyrics/donnasummer/whenlovecries.html
 name: When Love Cries
@@ -27,8 +30,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1991-09-14'
+release_year: 1991
+runtime: 319106
 ---
-
 Baby you
 Turned my world into something new
 Nights are long when you're far away
@@ -91,6 +95,3 @@ We'll be the one who hear
 When love cries
 
 You make my heart sing...
-
-
-

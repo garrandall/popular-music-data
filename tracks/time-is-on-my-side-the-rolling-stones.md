@@ -1,8 +1,11 @@
 ---
+album: 12 X 5
 artists:
 - The Rolling Stones
+external_ids:
+  spotify: spotify:track:4s8wL4SxEmAEd6XO9mi1Pn
 features: []
-genres: []
+first_released_as_single: false
 key: time-is-on-my-side-the-rolling-stones
 lyrics_url: https://genius.com/The-rolling-stones-time-is-on-my-side-lyrics
 name: Time Is On My Side
@@ -59,6 +62,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1965-01-09'
+release_year: 1964
+runtime: 172693
 ---
 Time is on my side, yes it is
 Time is on my side, yes it is

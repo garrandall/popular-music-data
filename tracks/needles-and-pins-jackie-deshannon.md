@@ -1,8 +1,11 @@
 ---
+album: Breakin' It Up On The Beatles Tour!
 artists:
 - Jackie DeShannon
+external_ids:
+  spotify: spotify:track:3SzTZZi8aNe6EDkuXP1eQl
 features: []
-genres: []
+first_released_as_single: false
 key: needles-and-pins-jackie-deshannon
 lyrics_url: https://genius.com/Jackie-deshannon-needles-and-pins-lyrics
 name: Needles And Pins
@@ -23,6 +26,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1963-06-08'
+release_year: 1963
+runtime: 160373
 ---
 I saw him today
 I saw his face

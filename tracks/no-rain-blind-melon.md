@@ -1,8 +1,11 @@
 ---
+album: Blind Melon
 artists:
 - Blind Melon
+external_ids:
+  spotify: spotify:track:6txWz9UapYHVxEd7dDIHXT
 features: []
-genres: []
+first_released_as_single: false
 key: no-rain-blind-melon
 lyrics_url: https://www.azlyrics.com/lyrics/blindmelon/norain.html
 name: No Rain
@@ -99,8 +102,9 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1994-01-22'
+release_year: 1992
+runtime: 217106
 ---
-
 All I can say
 Is that my life is pretty plain
 I like watchin' the puddles gather rain
@@ -142,6 +146,3 @@ Really gonna
 Have it made
 And I'll have it made
 Ah ah ah ah, ah ah ah ah, ah ah ah ah
-
-
-

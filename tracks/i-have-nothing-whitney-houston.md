@@ -1,8 +1,11 @@
 ---
+album: The Bodyguard - Original Soundtrack Album
 artists:
 - Whitney Houston
+external_ids:
+  spotify: spotify:track:31er9IGsfFbwqy1pH4aiTP
 features: []
-genres: []
+first_released_as_single: false
 key: i-have-nothing-whitney-houston
 lyrics_url: https://genius.com/Whitney-houston-i-have-nothing-lyrics
 name: I Have Nothing
@@ -87,6 +90,8 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '1993-07-10'
+release_year: 1992
+runtime: 289160
 ---
 Share my life, take me for what I am
 Because I'll never change all my colors for you

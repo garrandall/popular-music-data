@@ -1,8 +1,11 @@
 ---
+album: Best Of Mickey Newbury
 artists:
 - Mickey Newbury
+external_ids:
+  spotify: spotify:track:0mN7e4veSJ9vb0M9GhngYL
 features: []
-genres: []
+first_released_as_single: false
 key: sunshine-mickey-newbury
 lyrics_url: https://genius.com/Mickey-newbury-sunshine-lyrics
 name: Sunshine
@@ -19,6 +22,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1973-08-04'
+release_year: 1973
+runtime: 266440
 ---
 Sunshine, so you found my window
 But you won't find me

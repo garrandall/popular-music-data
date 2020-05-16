@@ -1,8 +1,11 @@
 ---
+album: Faithful
 artists:
 - Hi-Five
+external_ids:
+  spotify: spotify:track:0MAN1rfwKRlzjltPho8opa
 features: []
-genres: []
+first_released_as_single: false
 key: never-should-ve-let-you-go-hi-five
 lyrics_url: https://genius.com/Hi-five-never-shouldve-let-you-go-lyrics
 name: Never Should've Let You Go
@@ -87,6 +90,8 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1994-02-26'
+release_year: 1990
+runtime: 283026
 ---
 Girl, when I first met you, I didn't realize
 You were looking to stay around but I was looking to play around

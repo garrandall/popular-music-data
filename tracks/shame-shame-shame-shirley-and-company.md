@@ -1,8 +1,11 @@
 ---
+album: Shame Shame Shame
 artists:
 - Shirley And Company
+external_ids:
+  spotify: spotify:track:2RvoIv22fdI9Uhife5zdDl
 features: []
-genres: []
+first_released_as_single: false
 key: shame-shame-shame-shirley-and-company
 lyrics_url: https://genius.com/Shirley-and-company-shame-shame-shame-lyrics
 name: Shame Shame Shame
@@ -71,6 +74,8 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1975-04-26'
+release_year: 1975
+runtime: 245786
 ---
 Shirley And Company
 Miscellaneous

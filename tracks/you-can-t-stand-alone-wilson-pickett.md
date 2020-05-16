@@ -1,8 +1,11 @@
 ---
+album: The Sound of Wilson Pickett
 artists:
 - Wilson Pickett
+external_ids:
+  spotify: spotify:track:0yY93L0Ligj9McONit3FCI
 features: []
-genres: []
+first_released_as_single: false
 key: you-can-t-stand-alone-wilson-pickett
 lyrics_url: https://genius.com/Wilson-pickett-you-cant-stand-alone-lyrics
 name: You Can't Stand Alone
@@ -27,6 +30,8 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '1967-06-24'
+release_year: 1967
+runtime: 171746
 ---
 Somebody broke your heart once before, yeah
 Now you claim you don't want love no more

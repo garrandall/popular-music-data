@@ -1,8 +1,11 @@
 ---
+album: Mama's Gun
 artists:
 - Erykah Badu
+external_ids:
+  spotify: spotify:track:7uAL8lsESR9Nl03BzHlKhF
 features: []
-genres: []
+first_released_as_single: true
 key: bag-lady-erykah-badu
 lyrics_url: https://genius.com/Erykah-badu-bag-lady-lyrics
 name: Bag Lady
@@ -87,6 +90,8 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '2000-12-30'
+release_year: 2000
+runtime: 252066
 ---
 Bag lady you gone hurt your back
 Dragging all them bags like that

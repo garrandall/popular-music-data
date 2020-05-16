@@ -1,8 +1,11 @@
 ---
+album: Hot Coko
 artists:
 - Coko
+external_ids:
+  spotify: spotify:track:5YEpXBb9dyffXRaC0nSuCE
 features: []
-genres: []
+first_released_as_single: false
 key: sunshine-coko
 lyrics_url: https://genius.com/Coko-sunshine-lyrics
 name: Sunshine
@@ -55,6 +58,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1999-10-09'
+release_year: 1999
+runtime: 247733
 ---
 Sunshine, sunshine
 You brighten up my days, I'll love you always

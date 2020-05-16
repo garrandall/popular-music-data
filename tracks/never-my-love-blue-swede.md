@@ -1,8 +1,11 @@
 ---
+album: Hooked On A Feeling - 40th Anniversary Collection
 artists:
 - Blue Swede
+external_ids:
+  spotify: spotify:track:2IfScly5l6u93EfNdZPe6V
 features: []
-genres: []
+first_released_as_single: false
 key: never-my-love-blue-swede
 lyrics_url: https://www.azlyrics.com/lyrics/blueswede/nevermylove.html
 name: Never My Love
@@ -51,8 +54,9 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1974-11-02'
+release_year: 1974
+runtime: 146760
 ---
-
 You ask me if there'll come a time 
 When I grow tired of you 
 Never my love 
@@ -78,6 +82,3 @@ Never my love
 How can you think love will end 
 When I've asked you to spend your whole life 
 With me (with me, with me)
-
-
-

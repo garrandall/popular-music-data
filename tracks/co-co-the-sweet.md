@@ -1,8 +1,11 @@
 ---
+album: Hits
 artists:
 - The Sweet
+external_ids:
+  spotify: spotify:track:5A4PMHqitYGOHDrSc4BqQW
 features: []
-genres: []
+first_released_as_single: false
 key: co-co-the-sweet
 lyrics_url: https://www.musixmatch.com/lyrics/Sweet/Co-Co
 name: Co-Co
@@ -15,6 +18,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1971-10-09'
+release_year: 1971
+runtime: 388440
 ---
 Co-Co would dream of dancing
 At midnight beneath the stars

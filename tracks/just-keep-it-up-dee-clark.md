@@ -1,8 +1,11 @@
 ---
+album: Hold on, It's Dee Clark
 artists:
 - Dee Clark
+external_ids:
+  spotify: spotify:track:5FKmGOOsNu5TvxjFmj4HwT
 features: []
-genres: []
+first_released_as_single: false
 key: just-keep-it-up-dee-clark
 lyrics_url: https://www.musixmatch.com/lyrics/Dee-Clark/Just-Keep-It-Up-And-See-What-Happens
 name: Just Keep It Up
@@ -67,6 +70,8 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1959-08-10'
+release_year: 1959
+runtime: 129048
 ---
 Well, one day baby
 You'll be sorry
@@ -147,11 +152,7 @@ Just keep it up
 (Bom, ba-bom, ba-bom)
 (Bom-bom-bom-bom)
 
-FADES-
-
 Just keep it up
 And see what happens
 Just keep it up, mmm
-(Bom, ba-bom, ba-bom).
-
-~
+(Bom, ba-bom, ba-bom)

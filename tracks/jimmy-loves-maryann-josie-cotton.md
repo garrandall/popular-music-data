@@ -1,8 +1,11 @@
 ---
+album: From The Hip
 artists:
 - Josie Cotton
+external_ids:
+  spotify: spotify:track:196yNFOFZFpRAhD3jZEkyT
 features: []
-genres: []
+first_released_as_single: false
 key: jimmy-loves-maryann-josie-cotton
 lyrics_url: https://www.musixmatch.com/lyrics/Josie-Cotton/Jimmy-Loves-Maryann
 name: Jimmy Loves Maryann
@@ -23,6 +26,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1984-04-28'
+release_year: 1984
+runtime: 210480
 ---
 Just seventeen, everything that she's seen
 Is all there in her eyes

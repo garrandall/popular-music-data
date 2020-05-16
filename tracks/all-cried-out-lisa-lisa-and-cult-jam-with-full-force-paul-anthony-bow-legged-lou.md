@@ -1,6 +1,6 @@
 ---
 artists:
-- Lisa Lisa And Cult Jam With Full Force
+- Lisa Lisa And Cult Jam
 features:
 - Paul Anthony
 - Bow Legged Lou

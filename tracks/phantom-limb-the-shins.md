@@ -1,8 +1,11 @@
 ---
+album: Wincing The Night Away
 artists:
 - The Shins
+external_ids:
+  spotify: spotify:track:6vnSvOFGko0fssGdqlNSaS
 features: []
-genres: []
+first_released_as_single: true
 key: phantom-limb-the-shins
 lyrics_url: https://www.azlyrics.com/lyrics/shins/phantomlimb.html
 name: Phantom Limb
@@ -11,8 +14,9 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2007-02-10'
+release_year: 2006
+runtime: 292960
 ---
-
 Foals in winter coats
 White girls of the North
 File past: one, five and one
@@ -61,6 +65,3 @@ And we'll no longer memorize or rhyme
 Too far along in our crime
 Stepping over what now towers to the sky
 With no connection
-
-
-
