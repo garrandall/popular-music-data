@@ -1,9 +1,12 @@
 ---
+album: Da REAList
 artists:
 - Plies
+external_ids:
+  spotify: spotify:track:2m0dyKic2V40cSkuO9CNm7
 features:
 - Chris J
-genres: []
+first_released_as_single: false
 key: put-it-on-ya-plies-chris-j
 lyrics_url: https://genius.com/Plies-put-it-on-ya-feat-chris-j-lyrics
 name: Put It On Ya
@@ -60,6 +63,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2009-02-28'
+release_year: 2008
+runtime: 257413
 ---
 Shorty I wanna know if you come over
 If you don't mind girl put your legs up on my shoulders

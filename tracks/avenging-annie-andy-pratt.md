@@ -1,8 +1,11 @@
 ---
+album: Do You Remember Me?
 artists:
 - Andy Pratt
+external_ids:
+  spotify: spotify:track:3UGLcFMyS7FCAg45k5CJI3
 features: []
-genres: []
+first_released_as_single: false
 key: avenging-annie-andy-pratt
 lyrics_url: https://genius.com/Andy-pratt-avenging-annie-lyrics
 name: Avenging Annie
@@ -47,6 +50,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1973-06-30'
+release_year: 1973
+runtime: 300146
 ---
 We ran the through hills and forests
 As two under a spell

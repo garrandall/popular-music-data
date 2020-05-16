@@ -1,8 +1,11 @@
 ---
+album: Manic
 artists:
 - Halsey
+external_ids:
+  spotify: spotify:track:3Hah1es0TvdRG7HWNx5e3E
 features: []
-genres: []
+first_released_as_single: true
 key: graveyard-halsey
 lyrics_url: https://www.azlyrics.com/lyrics/halsey/graveyard.html
 name: Graveyard
@@ -87,8 +90,9 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '2020-02-08'
+release_year: 2019
+runtime: 209780
 ---
-
 It's crazy when
 The thing you love the most
 Is the detriment
@@ -161,6 +165,3 @@ I won't stop till I get where you are
 Oh, when you go
 Down all your darkest roads
 I woulda followed all the way to the graveyard
-
-
-

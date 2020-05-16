@@ -1,8 +1,11 @@
 ---
+album: Johnny Tillotson's Best
 artists:
 - Johnny Tillotson
+external_ids:
+  spotify: spotify:track:3i739F2zAhaIJgC1nO4Obn
 features: []
-genres: []
+first_released_as_single: true
 key: poetry-in-motion-johnny-tillotson
 lyrics_url: https://genius.com/Johnny-tillotson-poetry-in-motion-lyrics
 name: Poetry In Motion
@@ -67,6 +70,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1961-01-16'
+release_year: 1960
+runtime: 150028
 ---
 When I see my baby, what do I see
 Poetry, poetry in motion

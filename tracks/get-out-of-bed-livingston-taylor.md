@@ -1,8 +1,11 @@
 ---
+album: Liv
 artists:
 - Livingston Taylor
+external_ids:
+  spotify: spotify:track:1OXgyl9ryrwWGzY6fC9dj0
 features: []
-genres: []
+first_released_as_single: false
 key: get-out-of-bed-livingston-taylor
 lyrics_url: https://genius.com/Livingston-taylor-get-out-of-bed-lyrics
 name: Get Out Of Bed
@@ -15,6 +18,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1972-02-12'
+release_year: 1971
+runtime: 172200
 ---
 There's a festival today
 Come and see it's all so fine

@@ -1,8 +1,11 @@
 ---
+album: Survivor
 artists:
 - Destiny's Child
+external_ids:
+  spotify: spotify:track:55dZv6ZuUDRHrLvrffXnpD
 features: []
-genres: []
+first_released_as_single: false
 key: girl-destiny-s-child
 lyrics_url: https://genius.com/Destinys-child-girl-lyrics
 name: Girl
@@ -83,6 +86,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2005-08-13'
+release_year: 1999
+runtime: 206720
 ---
 Take a minute girl, come sit down
 And tell us what's been happening

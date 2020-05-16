@@ -1,8 +1,11 @@
 ---
+album: Jasper County
 artists:
 - Trisha Yearwood
+external_ids:
+  spotify: spotify:track:6qdKKHh8r7N8nRYih2g7Pm
 features: []
-genres: []
+first_released_as_single: false
 key: georgia-rain-trisha-yearwood
 lyrics_url: https://www.azlyrics.com/lyrics/trishayearwood/georgiarain.html
 name: Georgia Rain
@@ -43,8 +46,9 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '2005-10-08'
+release_year: 2005
+runtime: 311360
 ---
-
 Barefoot in the bed of your truck,
 On a blanket lookin' up.
 Half a moon peekin' down at us,
@@ -88,6 +92,3 @@ The old dirt road's paved over now,
 Nothin' here's the same except for the Georgia rain.
 
 Couldn't wash away...
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Sound Loaded
 artists:
 - Ricky Martin
+external_ids:
+  spotify: spotify:track:1qj8Td79dgmLqCYafkhQ3G
 features: []
-genres: []
+first_released_as_single: false
 key: loaded-ricky-martin
 lyrics_url: https://www.azlyrics.com/lyrics/rickymartin/loaded.html
 name: Loaded
@@ -15,8 +18,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2001-06-23'
+release_year: 2000
+runtime: 233173
 ---
-
 I've loaded up a good thing
 To see the way she feels
 Faster than a Sosa homerun
@@ -84,6 +88,3 @@ Move like a thing, swing line a thong
 And do your jiggy mama til the break of dawn
 Load the rocket, shock it and rock it til you drop
 Do the bump to the bump and don't stop
-
-
-

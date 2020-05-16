@@ -1,9 +1,12 @@
 ---
+album: Smooth Jazz Plays Earth, Wind & Fire
 artists:
 - Ramsey Lewis
+external_ids:
+  spotify: spotify:track:6QxH5iY3sAVcSmRzbS8LNK
 features:
 - Earth, Wind & Fire
-genres: []
+first_released_as_single: false
 key: sun-goddess-ramsey-lewis-and-earth-wind-fire
 lyrics_url: https://www.musixmatch.com/lyrics/Earth-Wind-Fire-feat-Ramsey-Lewis/Sun-Goddess
 name: Sun Goddess
@@ -36,6 +39,8 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '1975-05-03'
+release_year: 1975
+runtime: 507373
 ---
 Way oh
 Way oh

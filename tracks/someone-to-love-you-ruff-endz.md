@@ -1,8 +1,11 @@
 ---
+album: Someone To Love You
 artists:
 - Ruff Endz
+external_ids:
+  spotify: spotify:track:1TYEfvGTYpdimygplYu0Hk
 features: []
-genres: []
+first_released_as_single: false
 key: someone-to-love-you-ruff-endz
 lyrics_url: https://www.azlyrics.com/lyrics/ruffendz/someonetoloveyou.html
 name: Someone To Love You
@@ -87,8 +90,9 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '2002-09-21'
+release_year: 2000
+runtime: 297533
 ---
-
 Mmm...yeah
 Mmm...mmm...mmm...mmm
 
@@ -169,6 +173,3 @@ take my hand, I wanna be that someone
 all you need is someone
 momma said there'd be days like this, momma said there'd be days like this
 tell me, tell me baby you believe in someone
-
-
-

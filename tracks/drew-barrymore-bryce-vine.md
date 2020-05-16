@@ -1,8 +1,11 @@
 ---
+album: Carnival
 artists:
 - Bryce Vine
+external_ids:
+  spotify: spotify:track:4liWAztZvt6giE3BfN1c7F
 features: []
-genres: []
+first_released_as_single: true
 key: drew-barrymore-bryce-vine
 lyrics_url: https://www.azlyrics.com/lyrics/brycevine/drewbarrymore688893.html
 name: Drew Barrymore
@@ -63,9 +66,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2018-11-24'
+release_year: 2017
+runtime: 191146
 ---
-
-
 I want this forever
 Just you in the grotto
 Nothin' but your nights on
@@ -154,6 +157,3 @@ And all these other girls keep wonderin' what I fuck with you for (what I fuck w
 You're the next Drew Barry, yeah
 And I want more (and I want more, more)
 And all these other girls keep wonderin' what I fuck with you for
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Scorpion
 artists:
 - Drake
+external_ids:
+  spotify: spotify:track:44Du2IM1bGY7dicmLfXbUs
 features: []
-genres: []
+first_released_as_single: false
 key: final-fantasy-drake
 lyrics_url: https://genius.com/Drake-final-fantasy-lyrics
 name: Final Fantasy
@@ -11,6 +14,8 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '2018-07-14'
+release_year: 2018
+runtime: 219960
 ---
 Yeah, I never really talk about dick that I wanna give you
 Or places I wanna get to

@@ -1,8 +1,11 @@
 ---
+album: No Gravity
 artists:
 - Shontelle
+external_ids:
+  spotify: spotify:track:45EDI3rk0f4cAMt9f8b56R
 features: []
-genres: []
+first_released_as_single: false
 key: impossible-shontelle
 lyrics_url: https://www.azlyrics.com/lyrics/shontelle/impossible.html
 name: Impossible
@@ -87,8 +90,9 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '2010-09-18'
+release_year: 2010
+runtime: 226533
 ---
-
 I remember years ago
 Someone told me I should take
 Caution when it comes to love
@@ -170,6 +174,3 @@ I remember years ago
 Someone told me I should take
 Caution when it comes to love
 I did...
-
-
-

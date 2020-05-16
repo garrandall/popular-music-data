@@ -1,8 +1,11 @@
 ---
+album: WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?
 artists:
 - Billie Eilish
+external_ids:
+  spotify: spotify:track:6IRdLKIyS4p7XNiP8r6rsx
 features: []
-genres: []
+first_released_as_single: false
 key: all-the-good-girls-go-to-hell-billie-eilish
 lyrics_url: https://www.azlyrics.com/lyrics/billieeilish/allthegoodgirlsgotohell.html
 name: All The Good Girls Go To Hell
@@ -35,8 +38,9 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '2019-12-14'
+release_year: 2019
+runtime: 168839
 ---
-
 My Lucifer is lonely
 
 Standing there, killing time
@@ -85,6 +89,3 @@ My God is gonna owe me
 There's nothing left to save now
 
 (I cannot do this snowflake)
-
-
-

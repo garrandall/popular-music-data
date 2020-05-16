@@ -1,8 +1,11 @@
 ---
+album: Younger Now
 artists:
 - Miley Cyrus
+external_ids:
+  spotify: spotify:track:2fGxYYMQbVqgIdaqfz2OwA
 features: []
-genres: []
+first_released_as_single: false
 key: younger-now-miley-cyrus
 lyrics_url: https://genius.com/Miley-cyrus-younger-now-lyrics
 name: Younger Now
@@ -11,6 +14,8 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '2017-09-09'
+release_year: 2017
+runtime: 248773
 ---
 Feels like I just woke up
 Like all this time I've been asleep

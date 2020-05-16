@@ -1,8 +1,11 @@
 ---
+album: Why?
 artists:
 - Anthony Newley
+external_ids:
+  spotify: spotify:track:3AiFVm5j6wesgO1xPCpQfo
 features: []
-genres: []
+first_released_as_single: false
 key: if-she-should-come-to-you--la-montana--anthony-newley
 lyrics_url: https://www.musixmatch.com/lyrics/Anthony-Newley/If-She-Should-Come-to-You-La-Monta%C3%B1a
 name: If She Should Come To You (La Montana)
@@ -27,6 +30,8 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '1960-11-07'
+release_year: 1960
+runtime: 154200
 ---
 If she should come to you
 Be gentle

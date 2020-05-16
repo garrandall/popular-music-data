@@ -1,8 +1,11 @@
 ---
+album: The Show, The After Party, The Hotel
 artists:
 - Jodeci
+external_ids:
+  spotify: spotify:track:1SyR0qHmGNRZQ49Z0rFU4A
 features: []
-genres: []
+first_released_as_single: false
 key: get-on-up-jodeci
 lyrics_url: https://genius.com/Jodeci-get-on-up-lyrics
 name: Get On Up
@@ -79,6 +82,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1996-09-14'
+release_year: 1995
+runtime: 225933
 ---
 Said it sounds so good to me
 You gotta get on up (Get on up)

@@ -1,8 +1,11 @@
 ---
+album: 'Tears Of Fire: The 25th Anniversary Collection'
 artists:
 - Tammy Wynette
+external_ids:
+  spotify: spotify:track:6xatfNMI8NkY5XxRHAeiS4
 features: []
-genres: []
+first_released_as_single: false
 key: stand-by-your-man-tammy-wynette
 lyrics_url: https://genius.com/Tammy-wynette-stand-by-your-man-lyrics
 name: Stand By Your Man
@@ -71,6 +74,8 @@ rankings:
   rank: 34
   ranking_list: Billboard Hot 100
   start_date: '1969-02-22'
+release_year: 1964
+runtime: 159760
 ---
 Sometimes it's hard to be a woman
 Giving all your love to just one man

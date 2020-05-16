@@ -1,8 +1,11 @@
 ---
+album: Proud Mary (With Bonus Tracks)
 artists:
 - Solomon Burke
+external_ids:
+  spotify: spotify:track:1DoB9qQAEHwV9s5BWofgUm
 features: []
-genres: []
+first_released_as_single: false
 key: proud-mary-solomon-burke
 lyrics_url: https://www.azlyrics.com/lyrics/solomonburke/proudmary.html
 name: Proud Mary
@@ -35,8 +38,9 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '1969-06-14'
+release_year: 1969
+runtime: 202266
 ---
-
 Left a good job in the city
 Working for The Man every night and day
 And I never lost one minute of sleeping
@@ -60,6 +64,3 @@ People on the river are happy to give
 Rolling, rolling, rolling on the river
 Rolling, rolling, rolling on the river
 Rolling, rolling, rolling on the river
-
-
-

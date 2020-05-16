@@ -1,8 +1,11 @@
 ---
+album: The Marshall Mathers LP
 artists:
 - Eminem
+external_ids:
+  spotify: spotify:track:3X4Oz9LjhhtgyOhVNlfoYa
 features: []
-genres: []
+first_released_as_single: false
 key: marsh-eminem
 lyrics_url: https://genius.com/Eminem-marsh-lyrics
 name: Marsh
@@ -11,6 +14,8 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '2020-02-01'
+release_year: 2000
+runtime: 321266
 ---
 My name is Marsh and this world, I'm out of it (Out of it)
 'Cause with all this A-B-C shit, I'm starting to sound like ALF a bit

@@ -1,8 +1,11 @@
 ---
+album: Foolish Little Girl
 artists:
 - The Shirelles
+external_ids:
+  spotify: spotify:track:7BZUmtqjIHbhxlePH1oO9z
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-say-goodnight-and-mean-goodbye-the-shirelles
 lyrics_url: https://genius.com/The-shirelles-dont-say-goodnight-and-mean-goodbye-lyrics
 name: Don't Say Goodnight And Mean Goodbye
@@ -43,8 +46,9 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '1963-08-10'
+release_year: 1963
+runtime: 155426
 ---
-
 Tonight you're actin' strange I find
 And you got something on your mind
 Something's wrong, I can see it

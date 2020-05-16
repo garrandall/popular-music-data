@@ -1,8 +1,11 @@
 ---
+album: Barry
 artists:
 - Barry Manilow
+external_ids:
+  spotify: spotify:track:0M7fqh7MIaJMjHI3nn5hfk
 features: []
-genres: []
+first_released_as_single: false
 key: lonely-together-barry-manilow
 lyrics_url: https://www.azlyrics.com/lyrics/barrymanilow/lonelytogether.html
 name: Lonely Together
@@ -47,8 +50,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1981-05-16'
+release_year: 1980
+runtime: 260533
 ---
-
 Your eyes are sad eyes
 Mine are too
 It doesn't take too much to see
@@ -89,4 +93,3 @@ All you got to give and no regrets
 But love it can live again
 Stay with me tonight
 I'll make it work out right
-

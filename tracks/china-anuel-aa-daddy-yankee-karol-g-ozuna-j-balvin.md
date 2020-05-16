@@ -1,12 +1,15 @@
 ---
+album: China
 artists:
 - Anuel AA
 - Daddy Yankee
 - Karol G
 - Ozuna
 - J Balvin
+external_ids:
+  spotify: spotify:track:2ksOAxtIxY8yElEWw8RhgK
 features: []
-genres: []
+first_released_as_single: true
 key: china-anuel-aa-daddy-yankee-karol-g-ozuna-j-balvin
 lyrics_url: https://genius.com/Genius-english-translations-anuel-aa-daddy-yankee-and-karol-g-china-ft-ozuna-and-j-balvin-english-translation-lyrics
 name: China
@@ -83,6 +86,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2020-01-11'
+release_year: 2019
+runtime: 301714
 ---
 Honey came in and she caught me red-handed
 Creeping with the girl next door

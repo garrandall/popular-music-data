@@ -1,8 +1,11 @@
 ---
+album: Doin' the Hully Gully
 artists:
 - The Olympics
+external_ids:
+  spotify: spotify:track:6Myo4FEuWQEQysjKuV4t0b
 features: []
-genres: []
+first_released_as_single: false
 key: private-eye-the-olympics
 lyrics_url: https://www.musixmatch.com/lyrics/The-Olympics/Private-Eye
 name: Private Eye
@@ -11,6 +14,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1959-09-14'
+release_year: 1959
+runtime: 143804
 ---
 (Scream and gunshots)
 

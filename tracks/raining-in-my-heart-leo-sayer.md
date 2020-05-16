@@ -1,8 +1,11 @@
 ---
+album: Leo Sayer
 artists:
 - Leo Sayer
+external_ids:
+  spotify: spotify:track:3BNZqcKefd2AfMdfojlQSf
 features: []
-genres: []
+first_released_as_single: false
 key: raining-in-my-heart-leo-sayer
 lyrics_url: https://www.azlyrics.com/lyrics/leosayer/raininginmyheart.html
 name: Raining In My Heart
@@ -35,8 +38,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1978-11-11'
+release_year: 1978
+runtime: 192493
 ---
-
 The sun is out, the sky is blue
 There's not a cloud to spoil the view
 But it's raining
@@ -60,4 +64,3 @@ What's gonna become of me, oh
 The sun is out, the sky is blue
 There's not a cloud to spoil the view
 But it's raining, oh it's raining in my heart
-

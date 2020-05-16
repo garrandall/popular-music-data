@@ -1,8 +1,11 @@
 ---
+album: The Woman In Me
 artists:
 - Shania Twain
+external_ids:
+  spotify: spotify:track:0pdfN7nOHMYmKykzu1cyfm
 features: []
-genres: []
+first_released_as_single: false
 key: any-man-of-mine-shania-twain
 lyrics_url: https://www.azlyrics.com/lyrics/shaniatwain/anymanofmine.html
 name: Any Man Of Mine
@@ -83,8 +86,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1995-09-30'
+release_year: 1995
+runtime: 246760
 ---
-
 This is what a woman wants...
 Any man of mine better be proud of me
 Even when I'm ugly he still better love me
@@ -146,6 +150,3 @@ A-one two, a-three four
 Hup two, hum
 If you wanna be a man of mine, that's right
 This is what a woman wants...
-
-
-

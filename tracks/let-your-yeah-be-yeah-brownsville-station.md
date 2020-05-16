@@ -1,8 +1,11 @@
 ---
+album: Yeah! (US Internet Release)
 artists:
 - Brownsville Station
+external_ids:
+  spotify: spotify:track:0pcp9kETdrLJBVzTG0xn7l
 features: []
-genres: []
+first_released_as_single: false
 key: let-your-yeah-be-yeah-brownsville-station
 lyrics_url: https://www.azlyrics.com/lyrics/brownsvillestation/letyouryeahbeyeah.html
 name: Let Your Yeah Be Yeah
@@ -39,8 +42,9 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '1973-04-21'
+release_year: 1973
+runtime: 217200
 ---
-
 You keep telling me yes
 But you don't mean it
 You keep telling me no
@@ -66,6 +70,3 @@ Let your yeah be yeah and your no be no, now
 Let your yeah be yeah and your no be no, now 
 Because I'm on my guard and I'm watching you from head to toe
 You better let your yeah be yeah and your no be no
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Dean Martin Hits Again
 artists:
 - Dean Martin
+external_ids:
+  spotify: spotify:track:4n4SAV90v25ioOYqOkTQJv
 features: []
-genres: []
+first_released_as_single: false
 key: send-me-the-pillow-you-dream-on-dean-martin
 lyrics_url: https://www.azlyrics.com/lyrics/deanmartin/sendmethepillowyoudreamon.html
 name: Send Me The Pillow You Dream On
@@ -43,8 +46,9 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '1965-04-17'
+release_year: 1965
+runtime: 150280
 ---
-
 (So darling I can dream on it too)
 Send me the pillow that you dream on
 Don't you know that I still care for you
@@ -61,6 +65,3 @@ But just a memory's all that's left of me
 So send me the pillow that you dream on
 So darling I can dream on it too
 So darling I can dream on it too
-
-
-

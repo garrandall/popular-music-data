@@ -1,7 +1,11 @@
 ---
+album: Odessa
 artists:
 - Bee Gees
+external_ids:
+  spotify: spotify:track:5SFsenqWlLzPW2YZgGhUhl
 features: []
+first_released_as_single: false
 genres: []
 key: first-of-may-bee-gees
 lyrics_url: https://www.musixmatch.com/lyrics/Bee-Gees/First-of-May
@@ -35,6 +39,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1969-05-03'
+release_year: 1969
+runtime: 171866
 ---
 When I was small and Christmas trees were tall
 We used to love while others used to play

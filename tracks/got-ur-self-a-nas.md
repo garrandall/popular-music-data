@@ -1,8 +1,11 @@
 ---
+album: Stillmatic
 artists:
 - Nas
+external_ids:
+  spotify: spotify:track:6FGJ3le0QnVyo5RoOTPcqn
 features: []
-genres: []
+first_released_as_single: false
 key: got-ur-self-a-nas
 lyrics_url: https://genius.com/Nas-got-ur-self-a-lyrics
 name: Got Ur Self A
@@ -83,6 +86,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2002-04-20'
+release_year: 1999
+runtime: 233173
 ---
 Woke up this mornin' (yeah)
 You got yourself a gun (yeah, yeah, yeah)

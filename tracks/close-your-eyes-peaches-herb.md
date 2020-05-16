@@ -1,9 +1,12 @@
 ---
+album: Let's Fall In Love
 artists:
 - Peaches
 - Herb
+external_ids:
+  spotify: spotify:track:0d9rN4NbUgOtuPyQa2286E
 features: []
-genres: []
+first_released_as_single: false
 key: close-your-eyes-peaches-herb
 lyrics_url: https://www.azlyrics.com/lyrics/peachesherb/closeyoureyes.html
 name: Close Your Eyes
@@ -56,8 +59,9 @@ rankings:
   rank: 35
   ranking_list: Billboard Hot 100
   start_date: '1967-06-10'
+release_year: 1966
+runtime: 153808
 ---
-
 Close your eyes (close your eyes), take a deep breathe (ah!)
 Open your heart (open your heart), and whisper
 I love you, I love you,
@@ -75,4 +79,3 @@ Oh no no, (oh no no) even though (even though)
 This is not the way I want it to be
 But if you must pretend
 That's alright with me
-

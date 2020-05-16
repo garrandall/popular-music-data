@@ -1,8 +1,11 @@
 ---
+album: Ghostbusters (Original Motion Picture Soundtrack)
 artists:
 - Bus Boys
+external_ids:
+  spotify: spotify:track:0Uuiri0IOIQVhy5f4PIPnr
 features: []
-genres: []
+first_released_as_single: false
 key: cleanin--up-the-town-bus-boys
 lyrics_url: https://genius.com/The-busboys-cleanin-up-the-town-lyrics
 name: Cleanin' Up The Town
@@ -27,6 +30,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1984-09-01'
+release_year: 1984
+runtime: 177866
 ---
 Gonna tell you a story about a little town I know
 They had a real big problem

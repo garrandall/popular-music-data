@@ -1,8 +1,11 @@
 ---
+album: Danity Kane
 artists:
 - Danity Kane
+external_ids:
+  spotify: spotify:track:5OIC83vOPXGU5ZzrfLVR4g
 features: []
-genres: []
+first_released_as_single: false
 key: sleep-on-it-danity-kane
 lyrics_url: https://www.azlyrics.com/lyrics/danitykane/sleeponit.html
 name: Sleep On It
@@ -15,9 +18,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2006-09-16'
+release_year: 2006
+runtime: 203240
 ---
-
-
 I might like to get to know you
 But I can't hear you right now,
 You're competing with the music
@@ -92,6 +95,3 @@ You-you keep on stressing me (Damn!)
 Keep on stressin' if you wanna
 But I'ma sleep on it, sleep on it
 And I'll get back at ya when I wanna
-
-
-

@@ -1,9 +1,12 @@
 ---
+album: The Neptunes Present... Clones
 artists:
 - Pharrell
+external_ids:
+  spotify: spotify:track:4CdssehXghyKlPamxgN3Sa
 features:
 - Jay-Z
-genres: []
+first_released_as_single: false
 key: frontin--pharrell-jay-z
 lyrics_url: https://genius.com/Pharrell-williams-frontin-lyrics
 name: Frontin'
@@ -100,6 +103,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '2003-11-15'
+release_year: 2003
+runtime: 239133
 ---
 Don't wanna sound full of myself or rude
 But you ain't looking at no other dudes

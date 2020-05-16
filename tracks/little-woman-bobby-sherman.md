@@ -1,8 +1,11 @@
 ---
+album: Bobby Sherman
 artists:
 - Bobby Sherman
+external_ids:
+  spotify: spotify:track:3HnYevn5u936rEQkQTaB00
 features: []
-genres: []
+first_released_as_single: false
 key: little-woman-bobby-sherman
 lyrics_url: https://genius.com/Bobby-sherman-little-woman-lyrics
 name: Little Woman
@@ -59,6 +62,8 @@ rankings:
   rank: 31
   ranking_list: Billboard Hot 100
   start_date: '1969-11-15'
+release_year: 1969
+runtime: 145240
 ---
 Hey Little Woman please make up your mind
 You've got to come into my world and leave your world behind

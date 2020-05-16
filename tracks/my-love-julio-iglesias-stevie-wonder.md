@@ -1,9 +1,12 @@
 ---
+album: Non Stop
 artists:
 - Julio Iglesias
+external_ids:
+  spotify: spotify:track:6srOzwAhnTUVX0kmw7Iden
 features:
 - Stevie Wonder
-genres: []
+first_released_as_single: false
 key: my-love-julio-iglesias-stevie-wonder
 lyrics_url: https://www.azlyrics.com/lyrics/julioiglesias/mylove.html
 name: My Love
@@ -28,8 +31,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1988-06-18'
+release_year: 1988
+runtime: 340760
 ---
-
 My love is warmer than a smile
 My love gives to every needing child
 If anyone should ask you who's my true love
@@ -69,6 +73,3 @@ Let all its forces join as one
 So to rebuke all signs of evil
 Through every valley, land and sea
 Our love's all people
-
-
-

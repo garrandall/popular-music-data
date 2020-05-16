@@ -1,8 +1,11 @@
 ---
+album: Brother, Brother, Brother
 artists:
 - The Isley Brothers
+external_ids:
+  spotify: spotify:track:2lpkeVjNP3sbilp2TH5nc5
 features: []
-genres: []
+first_released_as_single: false
 key: lay-away-the-isley-brothers
 lyrics_url: https://genius.com/The-isley-brothers-lay-away-lyrics
 name: Lay-Away
@@ -43,6 +46,8 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '1972-05-27'
+release_year: 1972
+runtime: 203093
 ---
 That's what I told a girl one time
 I'm coming back to getcha one day

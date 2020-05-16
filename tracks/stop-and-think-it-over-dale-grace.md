@@ -1,9 +1,12 @@
 ---
+album: Swamp Gold, Vol. 4
 artists:
 - Dale
 - Grace
+external_ids:
+  spotify: spotify:track:04JFw8lYhqwFn1dXbdGfc7
 features: []
-genres: []
+first_released_as_single: false
 key: stop-and-think-it-over-dale-grace
 lyrics_url: https://www.musixmatch.com/lyrics/Dale-Grace/Stop-and-Think-It-Over
 name: Stop And Think It Over
@@ -44,6 +47,8 @@ rankings:
   rank: 31
   ranking_list: Billboard Hot 100
   start_date: '1964-03-21'
+release_year: 1964
+runtime: 155014
 ---
 We've got to stop and think it over
 Before we say we're in love

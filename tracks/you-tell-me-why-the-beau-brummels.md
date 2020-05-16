@@ -1,8 +1,11 @@
 ---
+album: 'The Beau Brummels: Volume 2'
 artists:
 - The Beau Brummels
+external_ids:
+  spotify: spotify:track:22aGDyrzrkb8l1FzTFjfMh
 features: []
-genres: []
+first_released_as_single: false
 key: you-tell-me-why-the-beau-brummels
 lyrics_url: https://genius.com/The-beau-brummels-you-tell-me-why-lyrics
 name: You Tell Me Why
@@ -35,6 +38,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1965-09-04'
+release_year: 1965
+runtime: 185921
 ---
 You tell me that I should not cry...
 You tell me all good things must die...

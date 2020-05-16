@@ -1,8 +1,11 @@
 ---
+album: Hand Sown...Home Grown
 artists:
 - Linda Ronstadt
+external_ids:
+  spotify: spotify:track:4FLUda3tCvPWBCvUeyiivd
 features: []
-genres: []
+first_released_as_single: false
 key: silver-threads-and-golden-needles-linda-ronstadt
 lyrics_url: https://www.azlyrics.com/lyrics/lindaronstadt/silverthreadsandgoldenneedles.html
 name: Silver Threads And Golden Needles
@@ -35,8 +38,9 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1974-05-18'
+release_year: 1969
+runtime: 141160
 ---
-
 I don't want your lonely mansion with a tear in every room
 All I want's the love you promised beneath the haloed moon
 But you think I should be happy with your money and your name
@@ -53,6 +57,3 @@ You can't buy my love with money cause I never was that kind
 Silver threads and golden needles cannot mend this heart of mine
 
 Silver threads and golden needles cannot mend this heart of mine
-
-
-

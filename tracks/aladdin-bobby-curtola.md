@@ -1,8 +1,11 @@
 ---
+album: Hitchhiker, Vol. 1
 artists:
 - Bobby Curtola
+external_ids:
+  spotify: spotify:track:0F0jot0pnbZ0lMzcpJhtnI
 features: []
-genres: []
+first_released_as_single: false
 key: aladdin-bobby-curtola
 lyrics_url: https://www.musixmatch.com/lyrics/Bobby-Curtola/Aladdin
 name: Aladdin
@@ -19,6 +22,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1962-11-17'
+release_year: 1962
+runtime: 129693
 ---
 (Aladdin, Aladdin, Aladdin)
 

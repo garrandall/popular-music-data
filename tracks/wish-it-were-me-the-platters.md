@@ -1,8 +1,11 @@
 ---
+album: Have The Magic Touch
 artists:
 - The Platters
+external_ids:
+  spotify: spotify:track:1Kqv2Pd6wickaHuQlw6s9W
 features: []
-genres: []
+first_released_as_single: false
 key: wish-it-were-me-the-platters
 lyrics_url: https://www.musixmatch.com/lyrics/The-Platters/Wish-It-Were-Me
 name: Wish It Were Me
@@ -35,6 +38,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1959-10-26'
+release_year: 1959
+runtime: 154933
 ---
 Saw you dancing last night with someone
 Wish it were me, wish it were me

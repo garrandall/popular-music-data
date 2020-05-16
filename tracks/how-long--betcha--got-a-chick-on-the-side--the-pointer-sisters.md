@@ -1,8 +1,11 @@
 ---
+album: Steppin'
 artists:
 - The Pointer Sisters
+external_ids:
+  spotify: spotify:track:6mXSg8hjQpxfl1sVpOvo4c
 features: []
-genres: []
+first_released_as_single: false
 key: how-long--betcha--got-a-chick-on-the-side--the-pointer-sisters
 lyrics_url: https://genius.com/The-pointer-sisters-how-long-betcha-got-a-chick-on-the-side-lyrics
 name: How Long (Betcha' Got A Chick On The Side)
@@ -67,6 +70,8 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1975-10-25'
+release_year: 1975
+runtime: 440960
 ---
 (4x)
 Betcha got a chick on the side, sure you got a chick

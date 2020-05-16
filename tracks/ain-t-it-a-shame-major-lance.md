@@ -1,8 +1,11 @@
 ---
+album: 'The Best Of Major Lance: Everybody Loves A Good Time!'
 artists:
 - Major Lance
+external_ids:
+  spotify: spotify:track:2LaZEQCvMAxOEzzSUHIBoO
 features: []
-genres: []
+first_released_as_single: false
 key: ain-t-it-a-shame-major-lance
 lyrics_url: https://genius.com/Major-lance-aint-it-a-shame-lyrics
 name: Ain't It A Shame
@@ -19,6 +22,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1965-06-19'
+release_year: 1965
+runtime: 123560
 ---
 I have to love
 To keep from crying

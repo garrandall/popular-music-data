@@ -1,8 +1,11 @@
 ---
+album: Keep The Fire Burnin'
 artists:
 - Dan Hartman
+external_ids:
+  spotify: spotify:track:4R9PY7rOJuI5lWAK73lTaD
 features: []
-genres: []
+first_released_as_single: false
 key: we-are-the-young-dan-hartman
 lyrics_url: https://www.azlyrics.com/lyrics/danhartman/wearetheyoung.html
 name: We Are The Young
@@ -75,8 +78,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1985-01-26'
+release_year: 1984
+runtime: 257733
 ---
-
 We're the ones with the runaway eyes
 We're the ones who can improvise
 Give us room in a hot situation
@@ -130,6 +134,3 @@ We are the young
 We are the young (we are the young)
 Young, young, young (we are the young)
 Young, young, oh (we are the young)
-
-
-

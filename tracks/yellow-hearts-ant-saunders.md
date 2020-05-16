@@ -1,8 +1,11 @@
 ---
+album: Yellow Hearts
 artists:
 - Ant Saunders
+external_ids:
+  spotify: spotify:track:2W4yABdLc4Jnds67Poi5Nl
 features: []
-genres: []
+first_released_as_single: true
 key: yellow-hearts-ant-saunders
 lyrics_url: https://www.azlyrics.com/lyrics/antsaunders/yellowhearts.html
 name: Yellow Hearts
@@ -39,8 +42,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2020-01-11'
+release_year: 2019
+runtime: 223257
 ---
-
 She put my name with yellow hearts
 Her favorite color, like the stars
 I didn't listen very hard
@@ -104,6 +108,3 @@ When she told me she was crazy from the start (Have you only been playing games?
 
 Have you only been playing games?
 No, no
-
-
-

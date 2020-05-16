@@ -1,8 +1,11 @@
 ---
+album: Doubt
 artists:
 - Jesus Jones
+external_ids:
+  spotify: spotify:track:5gbPzqSC9MFfkeM3L06Imy
 features: []
-genres: []
+first_released_as_single: false
 key: real-real-real-jesus-jones
 lyrics_url: https://genius.com/Jesus-jones-real-real-real-lyrics
 name: Real Real Real
@@ -87,6 +90,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1992-01-04'
+release_year: 1991
+runtime: 188760
 ---
 I think I know what you mean
 And although it sounds obscene

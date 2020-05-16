@@ -1,8 +1,11 @@
 ---
+album: Continuum
 artists:
 - John Mayer
+external_ids:
+  spotify: spotify:track:7keXdrB4mz57u4b8YkCwag
 features: []
-genres: []
+first_released_as_single: false
 key: dreaming-with-a-broken-heart-john-mayer
 lyrics_url: https://www.azlyrics.com/lyrics/johnmayer/dreamingwithabrokenheart.html
 name: Dreaming With A Broken Heart
@@ -15,8 +18,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2007-12-01'
+release_year: 2006
+runtime: 245746
 ---
-
 When you're dreaming with a broken heart
 The waking up is the hardest part
 You roll outta bed and down on your knees
@@ -42,6 +46,3 @@ No you won't, 'cause you're gone, gone, gone, gone, gone...
 
 When you're dreaming with a broken heart
 The waking up is the hardest part
-
-
-

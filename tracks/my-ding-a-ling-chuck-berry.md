@@ -1,8 +1,11 @@
 ---
+album: Live At Fillmore Auditorium
 artists:
 - Chuck Berry
+external_ids:
+  spotify: spotify:track:4LjlazEWwJqbTqwcCbRhqK
 features: []
-genres: []
+first_released_as_single: false
 key: my-ding-a-ling-chuck-berry
 lyrics_url: https://www.azlyrics.com/lyrics/chuckberry/mydingaling.html
 name: My Ding-A-Ling
@@ -75,8 +78,9 @@ rankings:
   rank: 32
   ranking_list: Billboard Hot 100
   start_date: '1972-11-25'
+release_year: 1967
+runtime: 276493
 ---
-
 When I was a little bitty boy
 My grandmother bought me a cute little toy
 Silver bells hanging on a string
@@ -132,6 +136,3 @@ We saw you playin' with your own ding-a-ling
 My ding-a-ling, everybody sing 
 I wanna play with my ding-a-ling
 I wanna play with my ding-a-ling
-
-
-

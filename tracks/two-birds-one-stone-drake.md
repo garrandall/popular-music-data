@@ -1,8 +1,11 @@
 ---
+album: Two Birds, One Stone
 artists:
 - Drake
+external_ids:
+  spotify: spotify:track:3m62bJJXGyQKdR9XyRocnl
 features: []
-genres: []
+first_released_as_single: true
 key: two-birds-one-stone-drake
 lyrics_url: https://genius.com/Drake-two-birds-one-stone-lyrics
 name: Two Birds One Stone
@@ -11,6 +14,8 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '2016-11-19'
+release_year: 2016
+runtime: 238960
 ---
 Yeah, more, yeah
 

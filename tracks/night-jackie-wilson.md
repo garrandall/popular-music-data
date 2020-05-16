@@ -1,8 +1,11 @@
 ---
+album: A Woman, A Lover, A Friend
 artists:
 - Jackie Wilson
+external_ids:
+  spotify: spotify:track:5bhvrqUcsa3SnxhgLNxybU
 features: []
-genres: []
+first_released_as_single: false
 key: night-jackie-wilson
 lyrics_url: https://www.azlyrics.com/lyrics/jackiewilson/night.html
 name: Night
@@ -75,8 +78,9 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1960-07-11'
+release_year: 1960
+runtime: 174720
 ---
-
 Night, here comes the night
 Another night to dream about you
 Night, each lovely night
@@ -91,6 +95,3 @@ Once more, I feel your kisses
 Once more, I know what bliss is
 Comes dawn, my darling, you're gone
 But you come back into my arms each night
-
-
-

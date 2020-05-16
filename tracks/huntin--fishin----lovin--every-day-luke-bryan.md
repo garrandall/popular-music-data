@@ -1,8 +1,11 @@
 ---
+album: Kill The Lights
 artists:
 - Luke Bryan
+external_ids:
+  spotify: spotify:track:0dbzWSYpMcRtwjI1S7Pkql
 features: []
-genres: []
+first_released_as_single: false
 key: huntin--fishin----lovin--every-day-luke-bryan
 lyrics_url: https://www.azlyrics.com/lyrics/lukebryan/huntinfishinandlovineveryday.html
 name: Huntin' Fishin' & Lovin' Every Day
@@ -87,8 +90,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2016-08-27'
+release_year: 2015
+runtime: 278613
 ---
-
 If I could make a livin' from walkin' in the woods
 You can bet I'd be sittin' pretty good
 High on a hill looking at a field down wind
@@ -140,6 +144,3 @@ Won't you come along with me
 Won't you come along with me
 I know you wanna see
 Huntin', fishin', and lovin' every day
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Gold
 artists:
 - Connie Francis
+external_ids:
+  spotify: spotify:track:5SjzoQOSgXcxUiRl5trJBS
 features: []
-genres: []
+first_released_as_single: false
 key: for-mama--la-mamma--connie-francis
 lyrics_url: https://www.musixmatch.com/lyrics/Connie-Francis/For-Mama
 name: For Mama (La Mamma)
@@ -31,6 +34,8 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '1965-04-10'
+release_year: 1965
+runtime: 210000
 ---
 Ave Maria
 

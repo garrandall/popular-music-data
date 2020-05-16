@@ -1,8 +1,11 @@
 ---
+album: Doo-Wops & Hooligans
 artists:
 - Bruno Mars
+external_ids:
+  spotify: spotify:track:7BqBn9nzAq8spo5e7cZ0dJ
 features: []
-genres: []
+first_released_as_single: false
 key: just-the-way-you-are-bruno-mars
 lyrics_url: https://genius.com/Bruno-mars-just-the-way-you-are-lyrics
 name: Just The Way You Are
@@ -199,6 +202,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2011-07-02'
+release_year: 2010
+runtime: 220733
 ---
 Oh, her eyes, her eyes
 Make the stars look like they're not shinin'

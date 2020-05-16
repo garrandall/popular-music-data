@@ -1,8 +1,11 @@
 ---
+album: gloria!
 artists:
 - Gloria Estefan
+external_ids:
+  spotify: spotify:track:72YUMQAg0ZGPo9I031IM6f
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-let-this-moment-end-gloria-estefan
 lyrics_url: https://genius.com/Gloria-estefan-dont-let-this-moment-end-lyrics
 name: Don't Let This Moment End
@@ -15,6 +18,8 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1998-11-28'
+release_year: 1984
+runtime: 249266
 ---
 Kiss me, hold me, touch me
 Don't let this moment end

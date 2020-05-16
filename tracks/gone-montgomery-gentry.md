@@ -1,8 +1,11 @@
 ---
+album: Tattoos & Scars
 artists:
 - Montgomery Gentry
+external_ids:
+  spotify: spotify:track:3wriRJJhxypupwZ8boXaaO
 features: []
-genres: []
+first_released_as_single: false
 key: gone-montgomery-gentry
 lyrics_url: https://genius.com/Montgomery-gentry-gone-lyrics
 name: Gone
@@ -87,6 +90,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2005-06-18'
+release_year: 1999
+runtime: 249106
 ---
 This ain't no temporary, typical, tearful goodbye
 This ain't no breakin' up, then wakin' up and makin' up one more time

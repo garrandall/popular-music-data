@@ -1,27 +1,73 @@
 ---
 artists:
 - 21 Savage
-features: []
+features:
+- Offset
 genres: []
 key: 15-21-savage
-lyrics_url: https://genius.com/21-savage-untitled-snippet-2-15-20-lyrics
-name: '15'
+lyrics_url: https://genius.com/21-savage-15-lyrics
+name: '1.5'
 rankings:
 - end_date: '2019-01-11'
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2019-01-05'
 ---
-Lyrics from Snippet
+My earrings cost a half a ticket, I don't hear the same shit y'all niggas hear
+On God
 
-I'm from Atlanta, bitch, I bring my gun everywhere
-Left the crime scene like I was never there
-Said he wanted smoke, but he got Teddie bears
-Put a hundred shots in his 
-Diamonds in my piss, won't shake hands with a snitch
-, if he die, if he don't, jump his shit
-It ain't hard to find me, I'm in the cater of the city
-High-speed chase, I can't get caught with the stick
-Valentine's Day, I play 2K and that's it
-You took her out to eat and then she sucked on his dick
-I'm not Little Debbie, I'm not cakin' no bitch
+Pockets on Cheez-Its, heavy on the cheddar (Cheddar)
+Run off with your money, Savage a.k.a. Jerry Heller (Heller)
+Too much drip, I'm rainin', bought a Gucci umbrella (Umbrella)
+Why you always trippin' bitch? You must look up to Ella (Ella)
+It's only the first night and she keep tryna snuggle (Snuggle)
+I slept on my back just so I ain't have to cuddle (Cuddle)
+Nothing 'bout me average, hit her with a Fendi rubber (Straight up)
+Feel like a magician, all these bitches that I juggle (Straight up)
+'Rari red, Bentley black, got a Demon and a Cat
+Check the stats, all facts, rap made me a lot of racks
+Down bad, caught a flat, change his tire, he got jacked
+Ass fat, waist snatched, can I get some of that pussycat?
+
+1.5 (1.5) on the ride (On the ride)
+Niggas die (Niggas die) when we slide (When we slide)
+Draw the line (Draw the line) pick a side (Pick a side)
+Ain't no switchin' (Ain't no switchin') on my guys (On the gang)
+1.5 (1.5) on the ride (On the ride)
+Niggas die (Niggas die) when we slide (When we slide)
+Draw the line (Draw the line) pick a side (Pick a side)
+Ain't no switchin' (Ain't no switchin') on my guys (On the gang)
+
+Offset!
+Catch a vibe (Vibes)
+The doors go up, suicides ('Cides)
+The diamonds poke your eyes (Eyes)
+Don't tread my gang, they shiest (Gang)
+I don't take advice (Nah)
+I don't care 'bout price (Woo)
+Sticks, the boss don't fight (Brr)
+Flippin' bricks in the loft at night (Bricks)
+Told her "Get what you want, I swipe" (Hey)
+Hop in the Lambo, brains open (Skrr)
+My chain soakin' (Soakin')
+Codeine in my vein, I'm strokin' (Codeine)
+I put her head in motion (Bow)
+This Patek right here a trophy (Patek)
+Passed out on the Hermès sofa (Hey)
+Straight face, this a game of poker (Game)
+The green Lambo a ogre (Skrr)
+We pass the bitch (Bitch)
+Got to flippin' the bitch in the wrist (Flippin' the bitch)
+Just ask your bitch (Ask her)
+I fuck, no kiss (Smash)
+Walked right in this bitch, don't touch me, don't get frisked
+Let's get lit (Lit)
+
+1.5 (1.5) on the ride (On the ride)
+Niggas die (Niggas die) when we slide (When we slide)
+Draw the line (Draw the line) pick a side (Pick a side)
+Ain't no switchin' (Ain't no switchin') on my guys (On the gang)
+1.5 (1.5) on the ride (On the ride)
+Niggas die (Niggas die) when we slide (When we slide)
+Draw the line (Draw the line) pick a side (Pick a side)
+Ain't no switchin' (Ain't no switchin') on my guys (On the gang)

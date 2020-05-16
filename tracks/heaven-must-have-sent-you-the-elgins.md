@@ -1,8 +1,11 @@
 ---
+album: Oooh Honey Baby
 artists:
 - The Elgins
+external_ids:
+  spotify: spotify:track:4iWytemcQqCczcPPpT0L0P
 features: []
-genres: []
+first_released_as_single: false
 key: heaven-must-have-sent-you-the-elgins
 lyrics_url: https://genius.com/The-elgins-heaven-must-have-sent-you-lyrics
 name: Heaven Must Have Sent You
@@ -39,6 +42,8 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '1966-12-10'
+release_year: 1966
+runtime: 152933
 ---
 I've cried through many endless nights
 While holding my pillow tight

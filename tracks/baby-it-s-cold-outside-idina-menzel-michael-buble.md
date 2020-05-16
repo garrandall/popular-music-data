@@ -1,9 +1,12 @@
 ---
+album: Holiday Wishes
 artists:
 - Idina Menzel
 - Michael Buble
+external_ids:
+  spotify: spotify:track:0Ie5uiv54KgCr7P4sYDTHl
 features: []
-genres: []
+first_released_as_single: false
 key: baby-it-s-cold-outside-idina-menzel-michael-buble
 lyrics_url: https://www.azlyrics.com/lyrics/idinamenzel/babyitscoldoutside.html
 name: Baby It's Cold Outside
@@ -12,8 +15,9 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '2014-12-06'
+release_year: 2014
+runtime: 166146
 ---
-
 I really can't stay
 Baby, it's cold outside
 I gotta go away
@@ -92,6 +96,3 @@ Baby, it's cold outside
 
 (OK, fine, just another drink then
 Well, that took a lot of convincing)
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Solid Soul
 artists:
 - Willie Mitchell
+external_ids:
+  spotify: spotify:track:19YLQaeQT88GJ6nz1IlbNK
 features: []
-genres: []
+first_released_as_single: false
 key: prayer-meetin--willie-mitchell
 name: Prayer Meetin'
 rankings:
@@ -34,5 +37,7 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '1968-08-24'
+release_year: 1968
+runtime: 134720
 ---
 

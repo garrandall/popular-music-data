@@ -1,8 +1,11 @@
 ---
+album: Road Food
 artists:
 - The Guess Who
+external_ids:
+  spotify: spotify:track:6YLWRvxvC4VbFTuNRHeaDU
 features: []
-genres: []
+first_released_as_single: false
 key: clap-for-the-wolfman-the-guess-who
 lyrics_url: https://www.azlyrics.com/lyrics/guesswho/clapforthewolfman.html
 name: Clap For The Wolfman
@@ -71,8 +74,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1974-11-02'
+release_year: 1974
+runtime: 256173
 ---
-
 Clap for the Wolfman
 He gonna rate your record high
 Clap for the Wolfman
@@ -135,6 +139,3 @@ Clap for the Wolfman
 Clap for the Wolfman
 Clap for the Wolfman
 Clap for the Wolfman
-
-
-

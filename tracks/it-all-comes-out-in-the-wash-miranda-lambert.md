@@ -1,8 +1,11 @@
 ---
+album: Wildcard
 artists:
 - Miranda Lambert
+external_ids:
+  spotify: spotify:track:41FLEFSeRCv19OBn0vLiaH
 features: []
-genres: []
+first_released_as_single: false
 key: it-all-comes-out-in-the-wash-miranda-lambert
 lyrics_url: https://www.azlyrics.com/lyrics/mirandalambert/itallcomesoutinthewash.html
 name: It All Comes Out In The Wash
@@ -15,8 +18,9 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '2019-11-23'
+release_year: 2019
+runtime: 214786
 ---
-
 If you wear a white shirt to a crawfish boil
 Stonewashed jeans while you're changing the oil
 When you find yourself dating the bridesmaid's ex
@@ -69,6 +73,3 @@ Yeah, put that sucker on spin
 Yeah, you put that sucker on spin
 And around and around and around and around we go
 'Round and around and around and around we go
-
-
-

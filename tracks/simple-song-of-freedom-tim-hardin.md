@@ -1,8 +1,11 @@
 ---
+album: 'Simple Songs Of Freedom: The Tim Hardin Collection'
 artists:
 - Tim Hardin
+external_ids:
+  spotify: spotify:track:6qsngfhruE792s577j5VwN
 features: []
-genres: []
+first_released_as_single: false
 key: simple-song-of-freedom-tim-hardin
 lyrics_url: https://genius.com/Tim-hardin-simple-song-of-freedom-lyrics
 name: Simple Song Of Freedom
@@ -35,6 +38,8 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '1969-09-13'
+release_year: 1969
+runtime: 230666
 ---
 Come and sing a simple song of freedom
 Sing it like you've never sung before

@@ -1,8 +1,11 @@
 ---
+album: Happy Music Box-a music box for peace-
 artists:
 - USA For Africa
+external_ids:
+  spotify: spotify:track:5Z5dYF7PNmRB100RJPFdcs
 features: []
-genres: []
+first_released_as_single: false
 key: we-are-the-world-usa-for-africa
 lyrics_url: https://genius.com/Usa-for-africa-we-are-the-world-lyrics
 name: We Are The World
@@ -79,6 +82,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1985-07-20'
+release_year: 1985
+runtime: 282226
 ---
 There comes a time when we heed a certain call
 When the world must come together as one

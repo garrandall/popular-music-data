@@ -1,9 +1,12 @@
 ---
+album: A Pocket Full Of Miracles
 artists:
 - Smokey Robinson
 - The Miracles
+external_ids:
+  spotify: spotify:track:4bhWaphns611F3SWzhMIUe
 features: []
-genres: []
+first_released_as_single: false
 key: who-s-gonna-take-the-blame-smokey-robinson-the-miracles
 lyrics_url: https://www.azlyrics.com/lyrics/smokeyrobinsonthemiracles/whosgonnataketheblame.html
 name: Who's Gonna Take The Blame
@@ -36,8 +39,9 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '1970-07-04'
+release_year: 1970
+runtime: 219226
 ---
-
 We were just kids,
 Playin' in the rain,
 When you threw a stone,
@@ -115,6 +119,3 @@ Who will take the blame?
 Who's gonna bear the shame?
 Put the blame...
 Put it on me.
-
-
-

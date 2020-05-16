@@ -1,8 +1,11 @@
 ---
+album: Saving Abel
 artists:
 - Saving Abel
+external_ids:
+  spotify: spotify:track:3pxCXv0NACYfYnLjFcQW5D
 features: []
-genres: []
+first_released_as_single: false
 key: addicted-saving-abel
 lyrics_url: https://www.azlyrics.com/lyrics/savingabel/addicted.html
 name: Addicted
@@ -143,8 +146,9 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2009-02-14'
+release_year: 2008
+runtime: 222826
 ---
-
 I'm so addicted to
 All the things you do
 When you're going down on me
@@ -215,6 +219,3 @@ All the sound you make with every breath
 You take it's unlike anything
 I'm so addicted to you
 Addicted to you
-
-
-

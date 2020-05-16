@@ -1,8 +1,11 @@
 ---
+album: Give the People What They Want
 artists:
 - The Kinks
+external_ids:
+  spotify: spotify:track:4QPV0FWGVGi5MSrtuvaXOA
 features: []
-genres: []
+first_released_as_single: false
 key: better-things-the-kinks
 lyrics_url: https://genius.com/The-kinks-better-things-lyrics
 name: Better Things
@@ -39,6 +42,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1982-01-16'
+release_year: 1981
+runtime: 165346
 ---
 Here's wishing you the bluest sky
 And hoping something better comes tomorrow

@@ -1,8 +1,11 @@
 ---
+album: Stadium Arcadium
 artists:
 - Red Hot Chili Peppers
+external_ids:
+  spotify: spotify:track:6vODhpvfWwdsO0i9MBWnEq
 features: []
-genres: []
+first_released_as_single: true
 key: dani-california-red-hot-chili-peppers
 lyrics_url: https://genius.com/Red-hot-chili-peppers-dani-california-lyrics
 name: Dani California
@@ -111,6 +114,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2006-10-14'
+release_year: 2006
+runtime: 282160
 ---
 Gettin' born in the state of Mississippi
 Poppa was a copper and her momma was a hippie

@@ -1,8 +1,11 @@
 ---
+album: Burl Ives (8 Original Albums)
 artists:
 - Burl Ives
+external_ids:
+  spotify: spotify:track:1D2LKpYa2GwDzaTCS72MEb
 features: []
-genres: []
+first_released_as_single: false
 key: mary-ann-regrets-burl-ives
 lyrics_url: https://www.azlyrics.com/lyrics/burlives/maryannregrets.html
 name: Mary Ann Regrets
@@ -35,8 +38,9 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1962-12-15'
+release_year: 1962
+runtime: 214893
 ---
-
 I saved up my money to buy my sweetheart some flowers
 For Saturday's date and I restlessly counted the hours
 Then today in the mail I received this short little note
@@ -66,6 +70,3 @@ Mary Ann regrets she's unable to see you again
 We're leaving for Europe next week, she'll be busy till then
 They know that she loves me but poor boys don't fit in their plan
 Good-bye true love, good-bye my sweet Mary-Ann
-
-
-

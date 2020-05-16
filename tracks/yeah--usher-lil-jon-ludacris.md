@@ -1,10 +1,13 @@
 ---
+album: Confessions
 artists:
 - Usher
+external_ids:
+  spotify: spotify:track:5rb9QrpfcKFHM1EUbSIurX
 features:
 - Lil Jon
 - Ludacris
-genres: []
+first_released_as_single: false
 key: yeah--usher-lil-jon-ludacris
 lyrics_url: https://genius.com/Usher-yeah-remix-lyrics
 name: Yeah!
@@ -189,6 +192,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2004-11-13'
+release_year: 2004
+runtime: 250373
 ---
 Peace up, A Town down, Philly, yeah, yeah, okay, okay
 Usher, Usher, wait, Lil Jon, yeah, yeah, yeah, yeah

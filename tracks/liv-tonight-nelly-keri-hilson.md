@@ -1,9 +1,12 @@
 ---
+album: '5.0'
 artists:
 - Nelly
+external_ids:
+  spotify: spotify:track:2BuJG2fuvyTOMRyNHo0P17
 features:
 - Keri Hilson
-genres: []
+first_released_as_single: false
 key: liv-tonight-nelly-keri-hilson
 lyrics_url: https://www.azlyrics.com/lyrics/nelly/livtonight.html
 name: Liv Tonight
@@ -12,9 +15,9 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '2010-12-04'
+release_year: 2010
+runtime: 271053
 ---
-
- 
 I just wanna live tonight 
 I just wanna live tonight away 
 I just wanna live tonight 
@@ -139,6 +142,3 @@ Dance tonight away
 I just wanna live my life, ay 
 Said, I just wanna live tonight away 
 I just wanna live my life, ay
-
-
-

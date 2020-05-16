@@ -1,8 +1,11 @@
 ---
+album: In Your Honor
 artists:
 - Foo Fighters
+external_ids:
+  spotify: spotify:track:5FZxsHWIvUsmSK1IAvm2pp
 features: []
-genres: []
+first_released_as_single: false
 key: best-of-you-foo-fighters
 lyrics_url: https://genius.com/Foo-fighters-best-of-you-lyrics
 name: Best Of You
@@ -91,6 +94,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2005-10-01'
+release_year: 2005
+runtime: 255626
 ---
 I've got another confession to make, I'm your fool
 Everyone's got their chains to break, holdin' you

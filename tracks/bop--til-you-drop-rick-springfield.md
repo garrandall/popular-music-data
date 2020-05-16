@@ -1,8 +1,11 @@
 ---
+album: Hard To Hold
 artists:
 - Rick Springfield
+external_ids:
+  spotify: spotify:track:6xp6KJMIqkDkkmpFxSgwC5
 features: []
-genres: []
+first_released_as_single: false
 key: bop--til-you-drop-rick-springfield
 lyrics_url: https://www.azlyrics.com/lyrics/rickspringfield/boptilyoudrop.html
 name: Bop 'til You Drop
@@ -67,8 +70,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1984-11-24'
+release_year: 1981
+runtime: 240280
 ---
-
 Bop 'til you drop 
 In the hot city 
 Keep on working day and night 
@@ -152,6 +156,3 @@ You gotta get up, you gotta get up
 Bop 'til you drop
 In the hot city 
 Keep on working day and night
-
-
-

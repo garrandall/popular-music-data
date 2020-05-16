@@ -1,8 +1,11 @@
 ---
+album: Rhythm Of The Rain
 artists:
 - The Cascades
+external_ids:
+  spotify: spotify:track:7GHf8dQ2wA71wYOuRsQCZP
 features: []
-genres: []
+first_released_as_single: false
 key: rhythm-of-the-rain-the-cascades
 lyrics_url: https://genius.com/The-cascades-rhythm-of-the-rain-lyrics
 name: Rhythm Of The Rain
@@ -71,9 +74,9 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1963-04-27'
+release_year: 1963
+runtime: 146360
 ---
-
-
 Listen to the rhythm of the falling rain
 Telling me just what a fool I've been
 I wish that it would go and let me cry in vain

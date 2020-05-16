@@ -1,8 +1,11 @@
 ---
+album: Rocky IV
 artists:
 - Survivor
+external_ids:
+  spotify: spotify:track:2avaSeKHI5l4sLruVfLdi2
 features: []
-genres: []
+first_released_as_single: false
 key: burning-heart-survivor
 lyrics_url: https://genius.com/Survivor-burning-heart-lyrics
 name: Burning Heart
@@ -95,6 +98,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1986-03-29'
+release_year: 1985
+runtime: 230720
 ---
 Two worlds collide, rival nations
 It's a primitive clash venting years of frustrations

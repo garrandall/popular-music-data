@@ -1,8 +1,11 @@
 ---
+album: Everywhere But On
 artists:
 - Matt Stell
+external_ids:
+  spotify: spotify:track:6DuEfVcF8bmEkiFKr41SiM
 features: []
-genres: []
+first_released_as_single: true
 key: prayed-for-you-matt-stell
 lyrics_url: https://www.azlyrics.com/lyrics/mattstell/prayedforyou.html
 name: Prayed For You
@@ -87,8 +90,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '2019-12-28'
+release_year: 2018
+runtime: 205915
 ---
-
 I've never been one to ask for help
 If I need a mountain moved I move it myself
 I ain't the church pew regular, twice on Sunday
@@ -130,6 +134,3 @@ It's hard to imagine, bigger than I could fathom
 I didn't know you from Adam but I prayed for you
 I prayed for you
 I prayed for you
-
-
-

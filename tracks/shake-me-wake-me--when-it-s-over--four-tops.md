@@ -1,8 +1,11 @@
 ---
+album: On Top
 artists:
 - Four Tops
+external_ids:
+  spotify: spotify:track:2PUkN5yn30Zqyte21DamYO
 features: []
-genres: []
+first_released_as_single: false
 key: shake-me-wake-me--when-it-s-over--four-tops
 lyrics_url: https://www.azlyrics.com/lyrics/fourtops/shakemewakemewhenitsover.html
 name: Shake Me Wake Me (When It's Over)
@@ -43,8 +46,9 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '1966-04-16'
+release_year: 1966
+runtime: 161013
 ---
-
 All through this long and sleepless night
 I hear my neighbors talking, "She don't love him"
 Saying that out of my life
@@ -91,6 +95,3 @@ Somebody tell me that I'm dreaming
 And wake me when it's over, when it's over
 Come on and shake me, wake me somebody
 When it's over
-
-
-

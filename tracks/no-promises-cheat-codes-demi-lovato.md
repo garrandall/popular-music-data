@@ -1,9 +1,12 @@
 ---
+album: Tell Me You Love Me
 artists:
 - Cheat Codes
+external_ids:
+  spotify: spotify:track:5lNuqFVMca4vPupY10cH0J
 features:
 - Demi Lovato
-genres: []
+first_released_as_single: true
 key: no-promises-cheat-codes-demi-lovato
 lyrics_url: https://www.azlyrics.com/lyrics/cheatcodes/nopromises.html
 name: No Promises
@@ -100,8 +103,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2017-11-04'
+release_year: 2017
+runtime: 222786
 ---
-
 Cutting me up like a knife
 And I feel it deep in my bones
 Kicking a habit I love even harder
@@ -153,6 +157,3 @@ Don't you promise me nothing
 Promise me, me, me, me
 Just be careful
 Promise me no promises
-
-
-

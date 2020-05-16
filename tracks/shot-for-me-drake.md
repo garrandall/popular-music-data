@@ -1,8 +1,11 @@
 ---
+album: Take Care
 artists:
 - Drake
+external_ids:
+  spotify: spotify:track:1RCh4yRzrxhjuZrCSUfTVt
 features: []
-genres: []
+first_released_as_single: true
 key: shot-for-me-drake
 lyrics_url: https://genius.com/Drake-shot-for-me-lyrics
 name: Shot For Me
@@ -11,6 +14,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2011-12-03'
+release_year: 2011
+runtime: 225697
 ---
 I can see it in your eyes, you're angry
 Regret got shit on what you're feelin' now

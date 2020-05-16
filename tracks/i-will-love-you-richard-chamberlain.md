@@ -1,8 +1,11 @@
 ---
+album: Richard Chamberlain Sings (TV's Dr. Kildare)
 artists:
 - Richard Chamberlain
+external_ids:
+  spotify: spotify:track:1DLjHi9qGLiuwtqngEBAFv
 features: []
-genres: []
+first_released_as_single: false
 key: i-will-love-you-richard-chamberlain
 lyrics_url: https://www.musixmatch.com/lyrics/Richard-Chamberlain/I-Will-Love-You
 name: I Will Love You
@@ -35,6 +38,8 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1963-08-17'
+release_year: 1962
+runtime: 148400
 ---
 I will love you
 Til the day I die

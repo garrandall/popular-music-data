@@ -1,8 +1,11 @@
 ---
+album: Windows And Walls
 artists:
 - Dan Fogelberg
+external_ids:
+  spotify: spotify:track:3YnoRANvisc9OL9LTjQWYJ
 features: []
-genres: []
+first_released_as_single: false
 key: believe-in-me-dan-fogelberg
 lyrics_url: https://www.azlyrics.com/lyrics/danfogelberg/believeinme.html
 name: Believe In Me
@@ -43,8 +46,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1984-06-23'
+release_year: 1984
+runtime: 274000
 ---
-
 If I could ever say it right
 And reach your hostage heart
 Despite the doubts you harbor then you might
@@ -81,6 +85,3 @@ A song that ends your questioning
 And makes you believe in me
 makes you believe in me.
 Oh, you can believe in me.
-
-
-

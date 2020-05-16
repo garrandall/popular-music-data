@@ -1,8 +1,11 @@
 ---
+album: The Best Of
 artists:
 - Major Harris
+external_ids:
+  spotify: spotify:track:2mUnSn7NDQ3xEVdERedT7s
 features: []
-genres: []
+first_released_as_single: false
 key: laid-back-love-major-harris
 lyrics_url: https://genius.com/Major-harris-laid-back-love-lyrics
 name: Laid Back Love
@@ -23,6 +26,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1976-12-18'
+release_year: 1976
+runtime: 198760
 ---
 We got a laid back love
 A love that's got a groove that's all its own

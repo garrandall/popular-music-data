@@ -1,8 +1,11 @@
 ---
+album: 'Bat Out Of Hell II: Back Into Hell'
 artists:
 - Meat Loaf
+external_ids:
+  spotify: spotify:track:391CwgcBxvUHmEKda2b5In
 features: []
-genres: []
+first_released_as_single: false
 key: i-d-do-anything-for-love--but-i-won-t-do-that--meat-loaf
 lyrics_url: https://genius.com/Meat-loaf-id-do-anything-for-love-but-i-wont-do-that-lyrics
 name: I'd Do Anything For Love (But I Won't Do That)
@@ -95,6 +98,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1994-02-12'
+release_year: 1993
+runtime: 316466
 ---
 And I would do anything for love
 I'd run right into hell and back

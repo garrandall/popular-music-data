@@ -1,8 +1,11 @@
 ---
+album: Pipeline
 artists:
 - Chantay's
+external_ids:
+  spotify: spotify:track:3Wwy5wlxd8CpKMZGc4Mgjf
 features: []
-genres: []
+first_released_as_single: false
 key: pipeline-chantay-s
 name: Pipeline
 rankings:
@@ -70,5 +73,7 @@ rankings:
   rank: 34
   ranking_list: Billboard Hot 100
   start_date: '1963-06-15'
+release_year: 1963
+runtime: 139253
 ---
 

@@ -1,8 +1,11 @@
 ---
+album: Let It Go
 artists:
 - Tim McGraw
+external_ids:
+  spotify: spotify:track:0C5o7QeUJmPc98XK8lhSCr
 features: []
-genres: []
+first_released_as_single: false
 key: last-dollar--fly-away--tim-mcgraw
 lyrics_url: https://www.azlyrics.com/lyrics/timmcgraw/lastdollarflyaway.html
 name: Last Dollar (Fly Away)
@@ -67,8 +70,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2007-06-23'
+release_year: 2007
+runtime: 270093
 ---
-
 1-2-3 Like a bird I sing
 Cause you've given me the most beautiful set of wings
 I'm so glad you're here today
@@ -127,6 +131,3 @@ I'm so glad you're here today
 Cause tomorrow I might have to go and fly away
 Fly away, Fly Away, Fly away, Fly away
 Fly away!
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Greatest Hits
 artists:
 - Frankie Avalon
+external_ids:
+  spotify: spotify:track:0CUsZyJMSDjhdoQZxHhTtx
 features: []
-genres: []
+first_released_as_single: false
 key: a-boy-without-a-girl-frankie-avalon
 lyrics_url: https://genius.com/Frankie-avalon-a-boy-without-a-girl-lyrics
 name: A Boy Without A Girl
@@ -63,6 +66,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1959-08-24'
+release_year: 1959
+runtime: 117093
 ---
 A boy without a girl
 Is a song without a tune

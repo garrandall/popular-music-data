@@ -1,8 +1,11 @@
 ---
+album: Troubadour
 artists:
 - George Strait
+external_ids:
+  spotify: spotify:track:4GWDHnXmJBZfxe3DWZcPmg
 features: []
-genres: []
+first_released_as_single: false
 key: river-of-love-george-strait
 lyrics_url: https://www.azlyrics.com/lyrics/georgestrait/riveroflove.html
 name: River Of Love
@@ -87,8 +90,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2009-05-09'
+release_year: 2008
+runtime: 195146
 ---
-
 Hey baby, won't you take a little ride with me
 Have a look around
 See what we can see
@@ -123,6 +127,3 @@ Let's go rolling on the river of love
 Rolling on the river of love
 Rolling on the river of love
 Let's go rolling, rolling on the river of love
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: What Is Soul?
 artists:
 - Ben E. King
+external_ids:
+  spotify: spotify:track:6QwHXIZxcRn1EH4FM5fRAM
 features: []
-genres: []
+first_released_as_single: false
 key: the-record--baby-i-love-you--ben-e--king
 lyrics_url: https://www.musixmatch.com/lyrics/Ben-E-King/The-Record-Baby-I-Love-You
 name: The Record (Baby I Love You)
@@ -19,6 +22,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1965-04-17'
+release_year: 1965
+runtime: 151973
 ---
 Hello, baby
 I'm in a penny arcade

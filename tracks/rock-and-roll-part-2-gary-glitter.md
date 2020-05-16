@@ -1,8 +1,11 @@
 ---
+album: The Ultimate Gary Glitter
 artists:
 - Gary Glitter
+external_ids:
+  spotify: spotify:track:17ebcNznhPl7yf8zCfsNV8
 features: []
-genres: []
+first_released_as_single: false
 key: rock-and-roll-part-2-gary-glitter
 lyrics_url: https://genius.com/Gary-glitter-rock-and-roll-part-2-lyrics
 name: Rock And Roll Part 2
@@ -51,6 +54,8 @@ rankings:
   rank: 30
   ranking_list: Billboard Hot 100
   start_date: '1972-09-30'
+release_year: 1972
+runtime: 193253
 ---
 Hey! Hey!
 Hey! Hey! Hey! Hey!
@@ -62,7 +67,7 @@ Hey! Huh! Psh! Huh! Huh!
 He-ey! He-ey! He-e-ey! He-e-ey, he-e-ey!
 He-ey, he-ey! He-e-e-ey, he-e-e-ey, he-e-e-ey!
 He-ey, he-ey! He-ey, he-ey!
-He-e-e-e-ey... ouuuu!
+He-e-e-e-ey... ou!
 Hey! Heeey! Heeey!
 Huh! Huh! Huh! Huh!
 He-ey, he-ey! He-e-ey! He-e-ey, he-e-ey!

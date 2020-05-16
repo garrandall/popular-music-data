@@ -1,8 +1,11 @@
 ---
+album: Little Games
 artists:
 - The Yardbirds
+external_ids:
+  spotify: spotify:track:1sLciXCWuOQOTVWlvSt82B
 features: []
-genres: []
+first_released_as_single: false
 key: ten-little-indians-the-yardbirds
 lyrics_url: https://www.azlyrics.com/lyrics/yardbirds/tenlittleindians.html
 name: Ten Little Indians
@@ -15,8 +18,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1967-11-25'
+release_year: 1967
+runtime: 135666
 ---
-
 Ten little Indians,
 Standing in a line.
 One stood looking at another man's wife,
@@ -66,6 +70,3 @@ One little Indian,
 Out looking for the sun.
 At six o'clock, the moon came out,
 Then there was none.
-
-
-

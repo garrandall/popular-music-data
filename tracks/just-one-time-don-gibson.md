@@ -1,8 +1,11 @@
 ---
+album: Look Who's Blue
 artists:
 - Don Gibson
+external_ids:
+  spotify: spotify:track:5SvpntrCSEeM6rwOwbO7tL
 features: []
-genres: []
+first_released_as_single: false
 key: just-one-time-don-gibson
 lyrics_url: https://genius.com/Don-gibson-just-one-time-lyrics
 name: Just One Time
@@ -51,6 +54,8 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '1960-05-16'
+release_year: 1960
+runtime: 164826
 ---
 If I could see you just one time oh how it'd ease my troubled mind
 If I could hold you just one time and then pretend that you're still mine

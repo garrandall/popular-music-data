@@ -1,8 +1,11 @@
 ---
+album: Asylum
 artists:
 - Disturbed
+external_ids:
+  spotify: spotify:track:04uEdmmNi1PzDhlxyAoRYG
 features: []
-genres: []
+first_released_as_single: true
 key: another-way-to-die-disturbed
 lyrics_url: https://genius.com/Disturbed-another-way-to-die-lyrics
 name: Another Way To Die
@@ -11,6 +14,8 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '2010-07-03'
+release_year: 2010
+runtime: 253680
 ---
 The indulgence of our lives has cast a shadow on our world
 Our devotion to our appetites betrayed us all

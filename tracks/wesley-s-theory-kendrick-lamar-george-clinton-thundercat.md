@@ -1,10 +1,13 @@
 ---
+album: To Pimp A Butterfly
 artists:
 - Kendrick Lamar
+external_ids:
+  spotify: spotify:track:7Ks4VCY1wFebnOdJrM13t6
 features:
 - George Clinton
 - Thundercat
-genres: []
+first_released_as_single: false
 key: wesley-s-theory-kendrick-lamar-george-clinton-thundercat
 lyrics_url: https://www.musixmatch.com/lyrics/Kendrick-Lamar-feat-George-Clinton-Thundercat/Wesley-s-Theory
 name: Wesley's Theory
@@ -13,6 +16,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2015-04-04'
+release_year: 2015
+runtime: 287360
 ---
 When the four corners of this cocoon collide
 You'll slip through the cracks hoping that you'll survive

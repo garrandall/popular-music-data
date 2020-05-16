@@ -1,8 +1,11 @@
 ---
+album: Live At The House Of Blues
 artists:
 - Gavin Rossdale
+external_ids:
+  spotify: spotify:track:7IoHvFl24BaH4kzTBEe3sD
 features: []
-genres: []
+first_released_as_single: false
 key: love-remains-the-same-gavin-rossdale
 lyrics_url: https://www.musixmatch.com/lyrics/Gavin-Rossdale/Love-Remains-the-Same
 name: Love Remains The Same
@@ -131,6 +134,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '2009-01-17'
+release_year: 2008
+runtime: 310373
 ---
 A thousand times I've seen you standing
 Gravity like lunar landing

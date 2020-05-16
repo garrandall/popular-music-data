@@ -1,8 +1,11 @@
 ---
+album: Let Me Get Close To You (With Bonus Tracks)
 artists:
 - Skeeter Davis
+external_ids:
+  spotify: spotify:track:7bArAE6f6ywXEVI08HPzfs
 features: []
-genres: []
+first_released_as_single: false
 key: i-can-t-stay-mad-at-you-skeeter-davis
 lyrics_url: https://genius.com/Skeeter-davis-i-cant-stay-mad-at-you-lyrics
 name: I Can't Stay Mad At You
@@ -59,6 +62,8 @@ rankings:
   rank: 34
   ranking_list: Billboard Hot 100
   start_date: '1963-11-30'
+release_year: 1963
+runtime: 126600
 ---
 I can't stay mad at you
 You can make me cry

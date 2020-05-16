@@ -1,8 +1,11 @@
 ---
+album: Silver Bird
 artists:
 - Mark Lindsay
+external_ids:
+  spotify: spotify:track:3iigco3j8EYAdS8bUv0hyK
 features: []
-genres: []
+first_released_as_single: false
 key: and-the-grass-won-t-pay-no-mind-mark-lindsay
 lyrics_url: https://genius.com/Mark-lindsay-and-the-grass-wont-pay-no-mind-lyrics
 name: And The Grass Won't Pay No Mind
@@ -55,6 +58,8 @@ rankings:
   rank: 52
   ranking_list: Billboard Hot 100
   start_date: '1970-12-05'
+release_year: 1970
+runtime: 204866
 ---
 Listen easy, you can hear God callin'
 Walkin' barefoot by a stream

@@ -1,8 +1,11 @@
 ---
+album: Essential
 artists:
 - Kim Carnes
+external_ids:
+  spotify: spotify:track:2571NtXJ1kC7McY9ThEsgH
 features: []
-genres: []
+first_released_as_single: false
 key: i-pretend-kim-carnes
 lyrics_url: https://www.azlyrics.com/lyrics/kimcarnes/ipretend.html
 name: I Pretend
@@ -27,8 +30,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1984-06-16'
+release_year: 1984
+runtime: 247133
 ---
-
 Time hasn't healed the wound
 I wish I was in her shoes
 She's got the man I could never have
@@ -71,6 +75,3 @@ I pretend that your valentine is for me
 Pretend that I'm the only one that you need
 Pretend that we're making love in our dreams
 Oh I'm lost in my fantasy
-
-
-

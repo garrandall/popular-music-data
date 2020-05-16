@@ -1,8 +1,11 @@
 ---
+album: FOUR
 artists:
 - One Direction
+external_ids:
+  spotify: spotify:track:5O2P9iiztwhomNh8xkR9lJ
 features: []
-genres: []
+first_released_as_single: false
 key: night-changes-one-direction
 lyrics_url: https://www.azlyrics.com/lyrics/onedirection/nightchanges.html
 name: Night Changes
@@ -87,9 +90,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2015-04-18'
+release_year: 2014
+runtime: 226600
 ---
-
-
 Going out tonight
 Changes into something red
 Her mother doesn't like that kind of dress
@@ -153,6 +156,3 @@ Even when the night changes
 It will never change, baby
 It will never change, baby
 It will never change me and you
-
-
-

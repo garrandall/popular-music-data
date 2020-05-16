@@ -1,10 +1,13 @@
 ---
+album: Hall Of Fame
 artists:
 - Big Sean
+external_ids:
+  spotify: spotify:track:6bxUnsSGZCmoHHU5auwtps
 features:
 - Lil Wayne
 - Jhene Aiko
-genres: []
+first_released_as_single: false
 key: beware-big-sean-lil-wayne-jhene-aiko
 lyrics_url: https://www.azlyrics.com/lyrics/bigsean/beware.html
 name: Beware
@@ -89,9 +92,9 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '2013-12-21'
+release_year: 2013
+runtime: 235186
 ---
-
-
 When you said it was over you shot right through my heart
 Why you let these hoes tear what we had right apart?
 Oh, I was so mad; I could've/should've seen this coming right from the start
@@ -170,6 +173,3 @@ You should beware, beware, beware of a woman with a broken heart
 ...Baby
 Last time calling me "baby"
 Last time calling me "crazy", "crazy", "crazy"
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Tom Tom Club
 artists:
 - Tom Tom Club
+external_ids:
+  spotify: spotify:track:6UBQONiLH8kNmmB8UrV2Ef
 features: []
-genres: []
+first_released_as_single: false
 key: genius-of-love-tom-tom-club
 lyrics_url: https://genius.com/Tom-tom-club-genius-of-love-lyrics
 name: Genius Of Love
@@ -75,6 +78,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1982-05-15'
+release_year: 1981
+runtime: 334360
 ---
 What you gonna do when you get out of jail?
 I'm gonna have some fun

@@ -1,9 +1,12 @@
 ---
+album: Tha Carter IV
 artists:
 - Lil Wayne
+external_ids:
+  spotify: spotify:track:6CNlnlcnQ7DMFmloIRR1e3
 features:
 - John Legend
-genres: []
+first_released_as_single: false
 key: so-special-lil-wayne-john-legend
 lyrics_url: https://www.azlyrics.com/lyrics/lilwayne/sospecial.html
 name: So Special
@@ -12,9 +15,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2011-09-17'
+release_year: 2011
+runtime: 232093
 ---
-
-
 (So special girl, So special)
 (So special girl, So special)
 (So special girl, So special)
@@ -89,6 +92,3 @@ Baby that you'll let me in, then I'mma make you feel so special girl
 (So special y'all, So special)
 (Girl I got that 12 play for ya, that 12 play for ya, that 12 play for ya)
 (So special girl, So special to Me)
-
-
-

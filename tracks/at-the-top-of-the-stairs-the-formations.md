@@ -1,8 +1,11 @@
 ---
+album: The Best of Northern Soul Vol. 1
 artists:
 - The Formations
+external_ids:
+  spotify: spotify:track:129tNnQKfYO3SfmV5ajFpr
 features: []
-genres: []
+first_released_as_single: false
 key: at-the-top-of-the-stairs-the-formations
 lyrics_url: https://www.musixmatch.com/lyrics/The-Formations/At-the-Top-of-the-Stairs
 name: At The Top Of The Stairs
@@ -27,6 +30,8 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1968-04-13'
+release_year: 1968
+runtime: 137520
 ---
 At the top of the stairs, there's darkness
 My life is not based on unhappiness,

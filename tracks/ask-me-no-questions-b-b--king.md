@@ -1,8 +1,11 @@
 ---
+album: Indianola Mississippi Seeds
 artists:
 - B.B. King
+external_ids:
+  spotify: spotify:track:1xYMjKafRgMj9mr8fNgY85
 features: []
-genres: []
+first_released_as_single: false
 key: ask-me-no-questions-b-b--king
 lyrics_url: https://genius.com/Bb-king-ask-me-no-questions-lyrics
 name: Ask Me No Questions
@@ -47,6 +50,8 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '1971-04-17'
+release_year: 1970
+runtime: 188573
 ---
 You go out when you get ready
 And you come home when you please

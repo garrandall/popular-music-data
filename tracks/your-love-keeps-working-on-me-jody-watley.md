@@ -1,8 +1,11 @@
 ---
+album: Intimacy
 artists:
 - Jody Watley
+external_ids:
+  spotify: spotify:track:5aKffgtKHn3KwuOchRuBIp
 features: []
-genres: []
+first_released_as_single: false
 key: your-love-keeps-working-on-me-jody-watley
 lyrics_url: https://www.azlyrics.com/lyrics/jodywatley/yourlovekeepsworkingonme.html
 name: Your Love Keeps Working On Me
@@ -15,8 +18,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1993-11-20'
+release_year: 1993
+runtime: 279000
 ---
-
 I was so lonely
 I was left with no one to call my own
 Then you came along, boy
@@ -93,6 +97,3 @@ Your love keeps working on me
 Your love keeps working on me
 Your love keeps working on me
 Your love keeps working on me
-
-
-

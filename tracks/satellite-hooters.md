@@ -1,8 +1,11 @@
 ---
+album: Super Hits
 artists:
 - Hooters
+external_ids:
+  spotify: spotify:track:46Jsh7QvWw3JKZnjP8tUfB
 features: []
-genres: []
+first_released_as_single: false
 key: satellite-hooters
 lyrics_url: https://www.azlyrics.com/lyrics/hooters/satellite.html
 name: Satellite
@@ -39,8 +42,9 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1987-11-21'
+release_year: 1985
+runtime: 254397
 ---
-
 Hush little baby don't cry like that 
 God's gonna buy you a Cadillac 
 He's chosen you to do his will 
@@ -70,6 +74,3 @@ So jump in the river and learn to swim
 God's gonna wash away all your sins 
 And when at last you see the light 
 God's gonna buy you a satellite
-
-
-

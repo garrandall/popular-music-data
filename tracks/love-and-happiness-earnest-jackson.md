@@ -1,8 +1,11 @@
 ---
+album: Funky Funky Baton Rouge
 artists:
 - Earnest Jackson
+external_ids:
+  spotify: spotify:track:74xedhgpkdmXUD9Q39Po5W
 features: []
-genres: []
+first_released_as_single: false
 key: love-and-happiness-earnest-jackson
 name: Love And Happiness
 rankings:
@@ -30,5 +33,7 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1973-07-07'
+release_year: 1973
+runtime: 293446
 ---
 

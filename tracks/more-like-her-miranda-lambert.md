@@ -1,8 +1,11 @@
 ---
+album: Crazy Ex-Girlfriend
 artists:
 - Miranda Lambert
+external_ids:
+  spotify: spotify:track:6vMiU1tMnWXkWlmMWjX6ZN
 features: []
-genres: []
+first_released_as_single: false
 key: more-like-her-miranda-lambert
 lyrics_url: https://www.azlyrics.com/lyrics/mirandalambert/morelikeher.html
 name: More Like Her
@@ -39,8 +42,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2009-03-21'
+release_year: 2007
+runtime: 208866
 ---
-
 She's beautiful in her simple little way
 She don't have too much to say when she gets mad
 She understands she don't let go of anything
@@ -70,6 +74,3 @@ I guess you got what you deserved
 I guess I should've been more like her
 
 She's beautiful in her simple, little way
-
-
-

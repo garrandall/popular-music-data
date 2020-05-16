@@ -1,8 +1,11 @@
 ---
+album: Remington
 artists:
 - Granger Smith
+external_ids:
+  spotify: spotify:track:1LZNdHSaGjV2S9q8BrZwnh
 features: []
-genres: []
+first_released_as_single: false
 key: if-the-boot-fits-granger-smith
 lyrics_url: https://www.azlyrics.com/lyrics/grangersmith/ifthebootfits.html
 name: If The Boot Fits
@@ -19,8 +22,9 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '2017-02-18'
+release_year: 2016
+runtime: 170093
 ---
-
 Just a small town Cinderella
 Daddy wants you back home by midnight
 Every time we're together
@@ -82,6 +86,3 @@ Whoa
 Mmm if the boot fits
 Whoa
 Yeah if the boot fits
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Arrives!
 artists:
 - Chuck Jackson
+external_ids:
+  spotify: spotify:track:1kkyUSwuSCkM8nnbqBdtEf
 features: []
-genres: []
+first_released_as_single: false
 key: -you-can-t-let-the-boy-overpower--the-man-in-you-chuck-jackson
 lyrics_url: https://genius.com/Chuck-jackson-you-cant-let-the-boy-overpower-the-man-in-you-lyrics
 name: (You Can't Let The Boy Overpower) The Man In You
@@ -11,6 +14,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1968-03-09'
+release_year: 1968
+runtime: 186146
 ---
 Now don't you know my daddy told me
 Told me right from the start

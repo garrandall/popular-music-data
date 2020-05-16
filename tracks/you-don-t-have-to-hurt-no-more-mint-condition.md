@@ -1,8 +1,11 @@
 ---
+album: Definition Of A Band
 artists:
 - Mint Condition
+external_ids:
+  spotify: spotify:track:0pkDaXVCdaectYFIl1WWX9
 features: []
-genres: []
+first_released_as_single: false
 key: you-don-t-have-to-hurt-no-more-mint-condition
 lyrics_url: https://genius.com/Mint-condition-you-dont-have-to-hurt-no-more-lyrics
 name: You Don't Have To Hurt No More
@@ -71,6 +74,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1997-07-12'
+release_year: 1996
+runtime: 322040
 ---
 I don't like the way he treats you
 That's not the way

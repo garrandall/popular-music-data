@@ -1,8 +1,11 @@
 ---
+album: My Cherie Amour
 artists:
 - Soul Train Gang
+external_ids:
+  spotify: spotify:track:7LP7EujcqXOswvYAOK8Jyx
 features: []
-genres: []
+first_released_as_single: false
 key: soul-train--75--soul-train-gang
 name: Soul Train "75"
 rankings:
@@ -26,5 +29,7 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1976-01-03'
+release_year: 1975
+runtime: 310266
 ---
 

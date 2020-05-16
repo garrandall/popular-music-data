@@ -1,8 +1,11 @@
 ---
+album: Cupid & Psyche 85
 artists:
 - Scritti Politti
+external_ids:
+  spotify: spotify:track:7zjdO3toeBJIUzxjHkvRan
 features: []
-genres: []
+first_released_as_single: false
 key: wood-beez--pray-like-aretha-franklin--scritti-politti
 lyrics_url: https://genius.com/Scritti-politti-wood-beez-lyrics
 name: Wood Beez (Pray Like Aretha Franklin)
@@ -23,6 +26,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1986-03-01'
+release_year: 1985
+runtime: 288080
 ---
 There's nothing I wouldn't be
 To get to be together

@@ -1,8 +1,11 @@
 ---
+album: Bachman-Turner Overdrive II
 artists:
 - Bachman-Turner Overdrive
+external_ids:
+  spotify: spotify:track:0lzNXoZINVBLHWNIxKxWOo
 features: []
-genres: []
+first_released_as_single: false
 key: takin--care-of-business-bachman-turner-overdrive
 lyrics_url: https://www.azlyrics.com/lyrics/btobachmanturneroverdrive/takincareofbusiness.html
 name: Takin' Care Of Business
@@ -87,10 +90,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1974-09-28'
+release_year: 1973
+runtime: 289893
 ---
-
-
-
 You get up every morning
 From your 'larm clock's warning
 Take the 8:15 into the city
@@ -178,4 +180,3 @@ We be Takin' care of business
 We be Takin' care of business
 Takin' care of business
 Takin' care of business
-

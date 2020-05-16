@@ -1,8 +1,11 @@
 ---
+album: Paradise
 artists:
 - Sammy Turner
+external_ids:
+  spotify: spotify:track:2h51JNyP7Zg7toVa86BvvY
 features: []
-genres: []
+first_released_as_single: false
 key: paradise-sammy-turner
 lyrics_url: https://genius.com/Sammy-turner-paradise-lyrics
 name: Paradise
@@ -51,6 +54,8 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1960-04-25'
+release_year: 1960
+runtime: 123826
 ---
 And when she holds my hand
 And then I understand

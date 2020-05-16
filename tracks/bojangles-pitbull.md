@@ -1,8 +1,11 @@
 ---
+album: El Mariel
 artists:
 - Pitbull
+external_ids:
+  spotify: spotify:track:38IdfTHmTNf8iLxh83G5bb
 features: []
-genres: []
+first_released_as_single: true
 key: bojangles-pitbull
 lyrics_url: https://genius.com/Pitbull-bojangles-lyrics
 name: Bojangles
@@ -11,6 +14,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2006-07-22'
+release_year: 2006
+runtime: 226546
 ---
 Oh you killed it on this one dawg
 If you don't know her name it's cool, call her this

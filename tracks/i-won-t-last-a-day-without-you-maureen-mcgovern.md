@@ -1,8 +1,11 @@
 ---
+album: Best Of/20th Century
 artists:
 - Maureen McGovern
+external_ids:
+  spotify: spotify:track:1Cs8W6RaseaqixphdePm4V
 features: []
-genres: []
+first_released_as_single: false
 key: i-won-t-last-a-day-without-you-maureen-mcgovern
 lyrics_url: https://genius.com/Maureen-mcgovern-i-wont-last-a-day-without-you-lyrics
 name: I Won't Last A Day Without You
@@ -27,6 +30,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1973-11-10'
+release_year: 1973
+runtime: 232613
 ---
 Day after day, I must face the world of strangers
 Where I don't belong

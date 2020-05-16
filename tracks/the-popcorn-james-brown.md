@@ -1,8 +1,11 @@
 ---
+album: The Popcorn
 artists:
 - James Brown
+external_ids:
+  spotify: spotify:track:2irlk8IK9WNdxQrqHa9Wll
 features: []
-genres: []
+first_released_as_single: false
 key: the-popcorn-james-brown
 lyrics_url: https://www.azlyrics.com/lyrics/jamesbrown/letamancomeinanddothepopcornpt1.html
 name: The Popcorn
@@ -43,8 +46,9 @@ rankings:
   rank: 37
   ranking_list: Billboard Hot 100
   start_date: '1969-07-26'
+release_year: 1969
+runtime: 181626
 ---
-
 Hey you all look out let a man come in 
 I got to have fun I'm gonna do my thing 
 Way over yonder can you dig that mess 
@@ -72,6 +76,3 @@ A look a here I got the best band in the land
 I just gotta jump back take my stand 
 I want to ask the fellows don't have no doubt 
 I just got to lay to lay it right out
-
-
-

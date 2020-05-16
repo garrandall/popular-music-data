@@ -1,9 +1,12 @@
 ---
+album: Recall
 artists:
 - Technotronic
+external_ids:
+  spotify: spotify:track:1sKKqbK0zlQSYRzHggEtvO
 features:
 - Ya Kid K
-genres: []
+first_released_as_single: false
 key: move-it-to-the-rhythm-technotronic-ya-kid-k
 lyrics_url: https://genius.com/Technotronic-move-it-to-the-rhythm-club-mix-lyrics
 name: Move It To The Rhythm
@@ -36,6 +39,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1995-05-27'
+release_year: 1995
+runtime: 209893
 ---
 You've got to move it to the rhythm
 You've got to move it to the beat

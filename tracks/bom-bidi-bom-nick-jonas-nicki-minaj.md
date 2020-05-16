@@ -1,9 +1,12 @@
 ---
+album: Fifty Shades Darker (Original Motion Picture Soundtrack)
 artists:
 - Nick Jonas
 - Nicki Minaj
+external_ids:
+  spotify: spotify:track:4PxDHEEyHgYC6NUgqMtDFy
 features: []
-genres: []
+first_released_as_single: false
 key: bom-bidi-bom-nick-jonas-nicki-minaj
 lyrics_url: https://www.azlyrics.com/lyrics/nickjonas/bombidibom.html
 name: Bom Bidi Bom
@@ -12,9 +15,9 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '2017-03-04'
+release_year: 2017
+runtime: 214760
 ---
-
-
 I was wrong and you were right
 If I was yours and you were mine
 But it was all good (yeah)
@@ -109,6 +112,3 @@ Bom bodi bom bodi bodi bom besti)
 B-b-b-b-bye, b-b-b-b-bye
 He tryna bless me like his rabbi-bi
 B-b-b-b-bye
-
-
-

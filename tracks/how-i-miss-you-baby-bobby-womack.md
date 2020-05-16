@@ -1,8 +1,11 @@
 ---
+album: My Prescription
 artists:
 - Bobby Womack
+external_ids:
+  spotify: spotify:track:6EW5O0AbSLcamB2L89YrNq
 features: []
-genres: []
+first_released_as_single: false
 key: how-i-miss-you-baby-bobby-womack
 lyrics_url: https://www.azlyrics.com/lyrics/bobbywomack/howimissyoubaby.html
 name: How I Miss You Baby
@@ -15,8 +18,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1969-12-20'
+release_year: 1969
+runtime: 196733
 ---
-
 Oh, how I miss you, baby
 Oh, how I miss you, baby
 Listen to me
@@ -69,6 +73,3 @@ Oh, how I miss you, baby
 I've got to keep on singing
 Oh, how I miss you, baby
 I swear, I swear
-
-
-

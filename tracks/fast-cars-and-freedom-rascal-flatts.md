@@ -1,8 +1,11 @@
 ---
+album: Feels Like Today
 artists:
 - Rascal Flatts
+external_ids:
+  spotify: spotify:track:0CKba2KBPP9TFbh5Nf8i4P
 features: []
-genres: []
+first_released_as_single: false
 key: fast-cars-and-freedom-rascal-flatts
 lyrics_url: https://www.azlyrics.com/lyrics/rascalflatts/fastcarsandfreedom.html
 name: Fast Cars And Freedom
@@ -87,8 +90,9 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '2005-09-17'
+release_year: 2004
+runtime: 262186
 ---
-
 Starin' at you takin' off your makeup
 Wondering why you even put it on
 I know you think you do but baby you don't need it
@@ -119,6 +123,3 @@ I see a dust trail following an old red Nova
 Baby blue eyes, your head on my shoulder
 You don't look a day over Fast Cars and Freedom
 That sunset river bank first time feeling
-
-
-

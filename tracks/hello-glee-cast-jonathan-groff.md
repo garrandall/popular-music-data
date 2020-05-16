@@ -1,9 +1,12 @@
 ---
+album: 'Glee: The Music, Volume 3 Showstoppers'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:09MQwsUkzi29VEQLsUBSvX
 features:
 - Jonathan Groff
-genres: []
+first_released_as_single: false
 key: hello-glee-cast-jonathan-groff
 lyrics_url: https://www.azlyrics.com/lyrics/gleecast/hello.html
 name: Hello
@@ -12,8 +15,9 @@ rankings:
   rank: 35
   ranking_list: Billboard Hot 100
   start_date: '2010-05-01'
+release_year: 2010
+runtime: 206040
 ---
-
 I've been alone with you inside my mind
 And in my dreams I've kissed your lips a thousand times
 I sometimes see you pass outside my door
@@ -47,6 +51,3 @@ Are you somewhere feeling lonely or is someone loving you?
 Tell me how to win your heart
 For I haven't got a clue
 But let me start by saying ... I love you
-
-
-

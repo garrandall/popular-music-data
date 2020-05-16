@@ -1,8 +1,11 @@
 ---
+album: Starting Over
 artists:
 - Raspberries
+external_ids:
+  spotify: spotify:track:2LdvwaKrCE897N5RVGAti1
 features: []
-genres: []
+first_released_as_single: false
 key: overnight-sensation--hit-record--raspberries
 lyrics_url: https://www.azlyrics.com/lyrics/raspberries/overnightsensationhitrecord.html
 name: Overnight Sensation (Hit Record)
@@ -55,8 +58,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1974-11-30'
+release_year: 1974
+runtime: 336560
 ---
-
 Well I know it sounds funny
 But I'm not in it for the money, no
 I don't need no reputation
@@ -88,6 +92,3 @@ Hear it play
 Hit record, yeah
 Wanna hit record, yeah
 Wanna hit record, yeah (number one)
-
-
-

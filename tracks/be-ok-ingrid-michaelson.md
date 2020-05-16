@@ -1,8 +1,11 @@
 ---
+album: Be OK
 artists:
 - Ingrid Michaelson
+external_ids:
+  spotify: spotify:track:4I8Nhe8qN9xgR8tosYQ5ut
 features: []
-genres: []
+first_released_as_single: false
 key: be-ok-ingrid-michaelson
 lyrics_url: https://www.azlyrics.com/lyrics/ingridmichaelson/beok.html
 name: Be OK
@@ -11,8 +14,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2008-11-01'
+release_year: 2008
+runtime: 148080
 ---
-
 I just want to be ok, be ok, be ok
 I just want to be ok today
 I just want to be ok, be ok, be ok
@@ -52,6 +56,3 @@ I just want to know today, know today, know today
 Know that maybe I will be ok
 Know that maybe I will be ok
 Know that maybe I will be ok
-
-
-

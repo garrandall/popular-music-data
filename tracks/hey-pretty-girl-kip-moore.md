@@ -1,8 +1,11 @@
 ---
+album: Up All Night
 artists:
 - Kip Moore
+external_ids:
+  spotify: spotify:track:75p6fgACKYIyIhsoG411SZ
 features: []
-genres: []
+first_released_as_single: false
 key: hey-pretty-girl-kip-moore
 lyrics_url: https://www.azlyrics.com/lyrics/kipmoore/heyprettygirl.html
 name: Hey Pretty Girl
@@ -87,8 +90,9 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '2013-08-17'
+release_year: 2012
+runtime: 215920
 ---
-
 Hey pretty girl, won't you look my way
 Love's in the air tonight
 You can bet you make this ol' boy's day
@@ -133,6 +137,3 @@ Hey pretty girl, when I see the light
 And it's my time to go
 I'm gonna thank the Lord for a real good life
 A pretty little girl and a beautiful wife
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Home
 artists:
 - Dierks Bentley
+external_ids:
+  spotify: spotify:track:2WKCH4ISejDV9ad7iPp5XU
 features: []
-genres: []
+first_released_as_single: false
 key: 5-1-5-0-dierks-bentley
 lyrics_url: https://genius.com/Dierks-bentley-5-1-5-0-lyrics
 name: 5-1-5-0
@@ -87,6 +90,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2012-10-06'
+release_year: 2012
+runtime: 182893
 ---
 Ever since I met you girl, you been on my brain
 I can’t think of nothing else but you all night and day

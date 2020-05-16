@@ -1,8 +1,11 @@
 ---
+album: A Private Heaven
 artists:
 - Sheena Easton
+external_ids:
+  spotify: spotify:track:6gFIFMI3tsrM5QojcvVMfZ
 features: []
-genres: []
+first_released_as_single: false
 key: strut-sheena-easton
 lyrics_url: https://www.azlyrics.com/lyrics/sheenaeaston/strut.html
 name: Strut
@@ -107,8 +110,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1985-02-09'
+release_year: 1984
+runtime: 240960
 ---
-
 He said, "Baby, what's wrong with you?
 Why don't you use your imagination?"
 (Oh no, oh no)
@@ -165,6 +169,3 @@ Come on, baby, whatcha takin' me for?
 Strut, pout, cut it out
 All takin' and no givin'
 Watch me baby, while I walk out the door
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: It's About Time
 artists:
 - SWV
+external_ids:
+  spotify: spotify:track:5A0aUvnfAEcmUx3hoXjI8R
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-so-into-you-swv
 lyrics_url: https://genius.com/Swv-im-so-into-you-lyrics
 name: I'm So Into You
@@ -115,6 +118,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1993-08-07'
+release_year: 1992
+runtime: 278333
 ---
 Boy there you go
 You're tellin me that you love me

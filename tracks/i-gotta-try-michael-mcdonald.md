@@ -1,8 +1,11 @@
 ---
+album: If That's What It Takes
 artists:
 - Michael McDonald
+external_ids:
+  spotify: spotify:track:0qnfAVtzFPY0pOGYpTkZeY
 features: []
-genres: []
+first_released_as_single: false
 key: i-gotta-try-michael-mcdonald
 lyrics_url: https://www.azlyrics.com/lyrics/michaelmcdonald/igottatry.html
 name: I Gotta Try
@@ -51,8 +54,9 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '1983-01-22'
+release_year: 1982
+runtime: 235333
 ---
-
 Maybe it's true what they say about
 Maybe we can't make the ends meet
 Maybe we'll all have to do without
@@ -110,6 +114,3 @@ Someone's cryin' out
 While we live under the gun
 Someone's livin'
 Someone's givin' up
-
-
-

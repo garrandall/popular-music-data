@@ -1,8 +1,11 @@
 ---
+album: Reel Life
 artists:
 - Boy Meets Girl
+external_ids:
+  spotify: spotify:track:09huOVRryZNV2deKFZLJDC
 features: []
-genres: []
+first_released_as_single: false
 key: waiting-for-a-star-to-fall-boy-meets-girl
 lyrics_url: https://genius.com/Boy-meets-girl-waiting-for-a-star-to-fall-lyrics
 name: Waiting For A Star To Fall
@@ -107,6 +110,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1989-02-25'
+release_year: 1988
+runtime: 270720
 ---
 I hear your name whispered on the wind
 It's a sound that makes me cry

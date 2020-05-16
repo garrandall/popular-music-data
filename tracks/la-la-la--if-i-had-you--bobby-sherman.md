@@ -1,8 +1,11 @@
 ---
+album: Here Comes Bobby
 artists:
 - Bobby Sherman
+external_ids:
+  spotify: spotify:track:45xjMZrqYMdZSbubva5kpr
 features: []
-genres: []
+first_released_as_single: false
 key: la-la-la--if-i-had-you--bobby-sherman
 lyrics_url: https://www.musixmatch.com/lyrics/Bobby-Sherman/La-La-La-If-I-Had-You
 name: La La La (If I Had You)
@@ -51,6 +54,8 @@ rankings:
   rank: 23
   ranking_list: Billboard Hot 100
   start_date: '1970-01-31'
+release_year: 1969
+runtime: 165320
 ---
 La, la, la, la, la, la
 There ain't nothing in this world I couldn't do

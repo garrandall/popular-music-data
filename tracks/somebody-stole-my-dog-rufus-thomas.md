@@ -1,8 +1,11 @@
 ---
+album: 'Stax-Volt: The Complete Singles 1959-1968'
 artists:
 - Rufus Thomas
+external_ids:
+  spotify: spotify:track:31yNB9p7R6CapMvmjcbj48
 features: []
-genres: []
+first_released_as_single: false
 key: somebody-stole-my-dog-rufus-thomas
 lyrics_url: https://genius.com/Rufus-thomas-somebody-stole-my-dog-lyrics
 name: Somebody Stole My Dog
@@ -15,6 +18,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1964-04-18'
+release_year: 1964
+runtime: 159773
 ---
 Somebody stole my dog
 Somebody stole my dog

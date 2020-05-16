@@ -1,10 +1,13 @@
 ---
+album: DUMMY BOY
 artists:
 - 6ix9ine
+external_ids:
+  spotify: spotify:track:5FlmoOiXokZHJvESrFbsyg
 features:
 - Nicki Minaj
 - Kanye West
-genres: []
+first_released_as_single: false
 key: mama-6ix9ine-nicki-minaj-kanye-west
 lyrics_url: https://www.azlyrics.com/lyrics/6ix9ine/mama.html
 name: MAMA
@@ -25,9 +28,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2018-12-29'
+release_year: 2018
+runtime: 192405
 ---
-
-
 Uh
 
 Murda on the beat so it's not nice!
@@ -98,6 +101,3 @@ Tiki Taki, Spanish mami, she a hot tamale (Hot)
 Make her spend that money, dummy, go retarded for me (Pop it)
 Pop it, pop it, she get started, she won't ever stop it
 Little thottie, got her rowdy, choosing everybody
-
-
-

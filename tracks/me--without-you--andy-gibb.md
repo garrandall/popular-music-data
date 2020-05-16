@@ -1,8 +1,11 @@
 ---
+album: Flowing Rivers
 artists:
 - Andy Gibb
+external_ids:
+  spotify: spotify:track:2WyVg2BATY57DpkEhtn7OJ
 features: []
-genres: []
+first_released_as_single: false
 key: me--without-you--andy-gibb
 lyrics_url: https://www.azlyrics.com/lyrics/andygibb/mewithoutyou.html
 name: Me (Without You)
@@ -39,8 +42,9 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1981-05-02'
+release_year: 1977
+runtime: 210666
 ---
-
 Without you, stood alone on the edge of time
 Out of sight, but forever mine, without you
 Sometime's there's no forgetting the night
@@ -73,6 +77,3 @@ You were the love I was in
 How can I try to be me, me 
 Without you, without you honey, ah...
 Without you, ev'rything's lost...
-
-
-

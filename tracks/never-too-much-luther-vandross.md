@@ -1,8 +1,11 @@
 ---
+album: Never Too Much
 artists:
 - Luther Vandross
+external_ids:
+  spotify: spotify:track:3nFJbZCHP4d9vduKjJLdBL
 features: []
-genres: []
+first_released_as_single: false
 key: never-too-much-luther-vandross
 lyrics_url: https://www.musixmatch.com/lyrics/Luther-Vandross/Never-Too-Much
 name: Never Too Much
@@ -67,6 +70,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1982-01-16'
+release_year: 1981
+runtime: 230466
 ---
 I can't fool myself, I don't want nobody else to ever love me
 You are my shinin' star, my guiding light, my love fantasy

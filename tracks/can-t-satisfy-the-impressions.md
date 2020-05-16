@@ -1,8 +1,11 @@
 ---
+album: The Greatest Hits
 artists:
 - The Impressions
+external_ids:
+  spotify: spotify:track:6IcUdlgT1l2XwSYGFkx5YY
 features: []
-genres: []
+first_released_as_single: false
 key: can-t-satisfy-the-impressions
 lyrics_url: https://genius.com/The-impressions-cant-satisfy-lyrics
 name: Can't Satisfy
@@ -35,6 +38,8 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '1966-10-15'
+release_year: 1966
+runtime: 156133
 ---
 You know I can't satisfy your love, I can't satisfy
 Seems I can't satisfy your love, I can't satisfy

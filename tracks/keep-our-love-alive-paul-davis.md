@@ -1,8 +1,11 @@
 ---
+album: Paul Davis
 artists:
 - Paul Davis
+external_ids:
+  spotify: spotify:track:20ifY12pc1zTasLRO5s85j
 features: []
-genres: []
+first_released_as_single: false
 key: keep-our-love-alive-paul-davis
 lyrics_url: https://www.azlyrics.com/lyrics/pauldavis/keepourlovealive.html
 name: Keep Our Love Alive
@@ -15,8 +18,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1975-07-12'
+release_year: 1972
+runtime: 175866
 ---
-
 You're the sunlight that opened my eyes
 When the world was tumbling down
 You're the river that gave me a drink
@@ -78,6 +82,3 @@ We've got to keep our love alive
 So I can go on living, we've got to keep
 (We've got to keep our love alive)
 So don't ever stop what you're giving to me
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: The Outsiders
 artists:
 - Eric Church
+external_ids:
+  spotify: spotify:track:3MykNWa65IP2VN1Qa6B9yK
 features: []
-genres: []
+first_released_as_single: false
 key: give-me-back-my-hometown-eric-church
 lyrics_url: https://www.azlyrics.com/lyrics/ericchurch/givemebackmyhometown.html
 name: Give Me Back My Hometown
@@ -87,8 +90,9 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '2014-06-07'
+release_year: 2014
+runtime: 252493
 ---
-
 Damn, I used to love this view
 Sit here and drink a few
 Main street and the high school lit up on Friday night
@@ -125,6 +129,3 @@ Yeah everything, everything, everything
 Give me back my hometown
 'Cause this is my hometown
 Yeah, yeah, oh, yeah, yeah
-
-
-

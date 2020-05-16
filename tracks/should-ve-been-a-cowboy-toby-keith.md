@@ -1,8 +1,11 @@
 ---
+album: Toby Keith 35 Biggest Hits
 artists:
 - Toby Keith
+external_ids:
+  spotify: spotify:track:4EDBgrYqYQ6b50yhJWKsHp
 features: []
-genres: []
+first_released_as_single: false
 key: should-ve-been-a-cowboy-toby-keith
 lyrics_url: https://genius.com/Toby-keith-shouldve-been-a-cowboy-lyrics
 name: Should've Been A Cowboy
@@ -15,6 +18,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1993-07-03'
+release_year: 1993
+runtime: 209866
 ---
 I bet you have never heard ol' Marshal Dillon say
 "Miss Kitty, have you ever thought of running away

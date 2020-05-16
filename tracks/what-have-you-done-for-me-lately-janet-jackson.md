@@ -1,8 +1,11 @@
 ---
+album: Control
 artists:
 - Janet Jackson
+external_ids:
+  spotify: spotify:track:2SFq0UIiBWkBgky0fkrHP0
 features: []
-genres: []
+first_released_as_single: false
 key: what-have-you-done-for-me-lately-janet-jackson
 lyrics_url: https://www.azlyrics.com/lyrics/janetjackson/whathaveyoudoneformelately.html
 name: What Have You Done For Me Lately
@@ -91,9 +94,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1986-07-12'
+release_year: 1986
+runtime: 299493
 ---
-
-
 What's up girl?
 He stood me up again
 Again?
@@ -172,6 +175,3 @@ Oh oh oh yeah
 What have you done for me lately? (lately)
 
 This is wild, I swear
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: The Power Station
 artists:
 - The Power Station
+external_ids:
+  spotify: spotify:track:6ILe7rZd0C5DQBYtSio2rt
 features: []
-genres: []
+first_released_as_single: false
 key: communication-the-power-station
 lyrics_url: https://www.azlyrics.com/lyrics/powerstation/communication.html
 name: Communication
@@ -47,8 +50,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1985-11-09'
+release_year: 1985
+runtime: 217266
 ---
-
 Airmail, cassettes... postcards, telex
 Drop me a line, be my grapevine
 I'm always trying to reach you, can't get through
@@ -98,6 +102,3 @@ Communication... don't put me on hold
 Situation... soul to soul
 
 Communication... ah, don't hang up...
-
-
-

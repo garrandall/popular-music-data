@@ -1,8 +1,11 @@
 ---
+album: Soulful
 artists:
 - Ruben Studdard
+external_ids:
+  spotify: spotify:track:4vey3VC7ZROIESUu0kgiBc
 features: []
-genres: []
+first_released_as_single: false
 key: sorry-2004-ruben-studdard
 lyrics_url: https://www.azlyrics.com/lyrics/rubenstuddard/sorry2004.html
 name: Sorry 2004
@@ -87,8 +90,9 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '2004-05-15'
+release_year: 2003
+runtime: 261906
 ---
-
 (I'm sorry)
 (I'm Sorry)
 
@@ -198,6 +202,3 @@ Girl this is my sorry for, 2004.
 Sorry 2004
 Girl this is my sorry for, 2004.
 Sorry 2004
-
-
-

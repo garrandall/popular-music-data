@@ -1,8 +1,11 @@
 ---
+album: A Spanner in the Works
 artists:
 - Rod Stewart
+external_ids:
+  spotify: spotify:track:6kkjWyd4jVX8GgP2WEPKl6
 features: []
-genres: []
+first_released_as_single: false
 key: leave-virginia-alone-rod-stewart
 lyrics_url: https://www.azlyrics.com/lyrics/rodstewart/leavevirginiaalone.html
 name: Leave Virginia Alone
@@ -55,8 +58,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1995-08-19'
+release_year: 1995
+runtime: 247400
 ---
-
 Well I've Seen her
 Down the alley
 And over the hill
@@ -120,6 +124,3 @@ La, la, la, leave her alone
 Oh, Virginia
 Oh, Virginia
 Leave her alone
-
-
-

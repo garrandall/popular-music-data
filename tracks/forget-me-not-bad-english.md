@@ -1,8 +1,11 @@
 ---
+album: Bad English
 artists:
 - Bad English
+external_ids:
+  spotify: spotify:track:4SdixGEJtSwCPu1c9wHDjz
 features: []
-genres: []
+first_released_as_single: false
 key: forget-me-not-bad-english
 lyrics_url: https://genius.com/Bad-english-forget-me-not-lyrics
 name: Forget Me Not
@@ -51,6 +54,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1989-09-30'
+release_year: 1989
+runtime: 295826
 ---
 You leave the light on at your door
 You cross your heart

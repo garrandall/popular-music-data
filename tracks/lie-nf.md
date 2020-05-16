@@ -1,8 +1,11 @@
 ---
+album: Perception
 artists:
 - NF
+external_ids:
+  spotify: spotify:track:07FkzikE6FuHIa8Ma7zJGc
 features: []
-genres: []
+first_released_as_single: false
 key: lie-nf
 lyrics_url: https://genius.com/Nf-lie-lyrics
 name: Lie
@@ -87,6 +90,8 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '2018-12-22'
+release_year: 2017
+runtime: 209213
 ---
 I heard you told your friends that I'm just not your type
 If that's how you really feel, then why'd you call last night?

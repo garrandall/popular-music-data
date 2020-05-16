@@ -1,8 +1,11 @@
 ---
+album: Tell It to My Heart
 artists:
 - Taylor Dayne
+external_ids:
+  spotify: spotify:track:6enR2PAZd7LUMMwQb4ciuh
 features: []
-genres: []
+first_released_as_single: false
 key: i-ll-always-love-you-taylor-dayne
 lyrics_url: https://genius.com/Taylor-dayne-ill-always-love-you-lyrics
 name: I'll Always Love You
@@ -127,6 +130,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1988-12-31'
+release_year: 1988
+runtime: 270786
 ---
 Hoooooooooo! Ah Ah Ah!
 

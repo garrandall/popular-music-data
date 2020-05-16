@@ -1,8 +1,11 @@
 ---
+album: Shot Through The Heart
 artists:
 - Jennifer Warnes
+external_ids:
+  spotify: spotify:track:2gQa0ncd02TIX726oAYnaL
 features: []
-genres: []
+first_released_as_single: false
 key: when-the-feeling-comes-around-jennifer-warnes
 lyrics_url: https://www.azlyrics.com/lyrics/jenniferwarnes/whenthefeelingcomesaround.html
 name: When The Feeling Comes Around
@@ -39,8 +42,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1980-05-24'
+release_year: 1979
+runtime: 197133
 ---
-
 We were walking in the sand
 I could feel your heart pound
 A man and a woman
@@ -94,6 +98,3 @@ It's like the rocking of the ocean
 The rolling of the sea
 When the feeling comes around
 When the feeling comes around
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Free The Music
 artists:
 - Jerrod Niemann
+external_ids:
+  spotify: spotify:track:56hUUEbFVeJXCmbdPfsy1T
 features: []
-genres: []
+first_released_as_single: false
 key: shinin--on-me-jerrod-niemann
 lyrics_url: https://genius.com/Jerrod-niemann-shinin-on-me-lyrics
 name: Shinin' On Me
@@ -35,6 +38,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2012-10-27'
+release_year: 2012
+runtime: 194573
 ---
 Life is taking turns, falling flat on your chin
 Trying to fly with the birds

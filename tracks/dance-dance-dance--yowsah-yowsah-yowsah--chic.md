@@ -1,8 +1,11 @@
 ---
+album: The Chic Organization 1977-1979
 artists:
 - Chic
+external_ids:
+  spotify: spotify:track:2HXNOuXxXOyKahilEfQHHO
 features: []
-genres: []
+first_released_as_single: false
 key: dance-dance-dance--yowsah-yowsah-yowsah--chic
 lyrics_url: https://www.azlyrics.com/lyrics/chic/dancedancedanceyowsahyowsahyowsah.html
 name: Dance Dance Dance (Yowsah Yowsah Yowsah)
@@ -119,8 +122,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1978-05-06'
+release_year: 1977
+runtime: 502240
 ---
-
 Dance, dance, dance, dance
 Keep on dancing
 Dance, dance, dance, dance
@@ -175,6 +179,3 @@ Dance, dance, dance, dance
 Keep on, keep on
 Dance, dance, dance, dance
 Keep on dancing
-
-
-

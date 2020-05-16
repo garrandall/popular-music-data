@@ -1,8 +1,11 @@
 ---
+album: The Letter/Neon Rainbow
 artists:
 - The Box Tops
+external_ids:
+  spotify: spotify:track:3HuyiVITRMpjsebm2oogMT
 features: []
-genres: []
+first_released_as_single: false
 key: turn-on-a-dream-the-box-tops
 lyrics_url: https://genius.com/The-box-tops-turn-on-a-dream-lyrics
 name: Turn On A Dream
@@ -35,6 +38,8 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '1969-11-29'
+release_year: 1967
+runtime: 168133
 ---
 We're too far away from each other
 We got to get together

@@ -1,8 +1,11 @@
 ---
+album: Certified
 artists:
 - David Banner
+external_ids:
+  spotify: spotify:track:5CWyE2OcZI1HVnHBh4RrKF
 features: []
-genres: []
+first_released_as_single: false
 key: play-david-banner
 lyrics_url: https://genius.com/David-banner-play-lyrics
 name: Play
@@ -87,6 +90,8 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '2005-12-03'
+release_year: 2005
+runtime: 230133
 ---
 Cum girl, I'm tryna get your pussy wet
 Work that, lemme see you drip sweat

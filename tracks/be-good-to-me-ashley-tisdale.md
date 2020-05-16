@@ -1,8 +1,11 @@
 ---
+album: Headstrong
 artists:
 - Ashley Tisdale
+external_ids:
+  spotify: spotify:track:0yfcOmDBSaW1fGY1PHuwU3
 features: []
-genres: []
+first_released_as_single: false
 key: be-good-to-me-ashley-tisdale
 lyrics_url: https://genius.com/Ashley-tisdale-be-good-to-me-lyrics
 name: Be Good To Me
@@ -15,6 +18,8 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '2007-02-24'
+release_year: 2007
+runtime: 213826
 ---
 Everyday is getting worse
 Do the same things, and it hurts

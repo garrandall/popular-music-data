@@ -1,8 +1,11 @@
 ---
+album: Music From The Edge Of Heaven
 artists:
 - Wham!
+external_ids:
+  spotify: spotify:track:40ehe4FBNzo6rCQ0s7KyMp
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-your-man-wham-
 lyrics_url: https://www.azlyrics.com/lyrics/wham/imyourman.html
 name: I'm Your Man
@@ -79,6 +82,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1986-03-29'
+release_year: 1985
+runtime: 414200
 ---
 Call me good
 Call me bad

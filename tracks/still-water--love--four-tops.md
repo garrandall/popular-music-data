@@ -1,8 +1,11 @@
 ---
+album: Still Waters Run Deep
 artists:
 - Four Tops
+external_ids:
+  spotify: spotify:track:5feUxmo1qphxusEo1N9GRt
 features: []
-genres: []
+first_released_as_single: false
 key: still-water--love--four-tops
 lyrics_url: https://genius.com/The-four-tops-still-water-love-lyrics
 name: Still Water (Love)
@@ -63,6 +66,8 @@ rankings:
   rank: 28
   ranking_list: Billboard Hot 100
   start_date: '1970-11-28'
+release_year: 1970
+runtime: 194693
 ---
 Come on walk with me
 Take my hand

@@ -1,8 +1,11 @@
 ---
+album: Burning Bridges And Other Great Motion Picture Themes
 artists:
 - The Mike Curb Congregation
+external_ids:
+  spotify: spotify:track:3vebNfy1J5fqvz05hKt2Xl
 features: []
-genres: []
+first_released_as_single: false
 key: burning-bridges-the-mike-curb-congregation
 lyrics_url: https://genius.com/Mike-curb-congregation-burning-bridges-lyrics
 name: Burning Bridges
@@ -75,6 +78,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1971-03-27'
+release_year: 1970
+runtime: 165333
 ---
 Friends all tried to warn me
 But I held my head up high

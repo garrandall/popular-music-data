@@ -1,8 +1,11 @@
 ---
+album: Ready
 artists:
 - Trey Songz
+external_ids:
+  spotify: spotify:track:5cU50IAoAFF7qFWOtdbEjr
 features: []
-genres: []
+first_released_as_single: false
 key: i-need-a-girl-trey-songz
 lyrics_url: https://genius.com/Trey-songz-i-need-a-girl-lyrics
 name: I Need A Girl
@@ -71,6 +74,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2009-09-19'
+release_year: 2009
+runtime: 214480
 ---
 Shawty where you at?
 Shawty where you at?

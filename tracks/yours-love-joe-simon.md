@@ -1,8 +1,11 @@
 ---
+album: The Chokin' Kind
 artists:
 - Joe Simon
+external_ids:
+  spotify: spotify:track:5Fk2OULCHwW9ZpGxbq7AaD
 features: []
-genres: []
+first_released_as_single: false
 key: yours-love-joe-simon
 lyrics_url: https://www.musixmatch.com/lyrics/Joe-Simon/Yours-Love
 name: Yours Love
@@ -35,6 +38,8 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1970-09-12'
+release_year: 1969
+runtime: 182560
 ---
 You're the one that never lets me sleep
 To my mind, down to my soul you touch my lips

@@ -1,8 +1,11 @@
 ---
+album: Stay With Me (Brass Bed)
 artists:
 - Josh Gracin
+external_ids:
+  spotify: spotify:track:1DJgRkwljWXGb1sFxfSlOE
 features: []
-genres: []
+first_released_as_single: true
 key: stay-with-me--brass-bed--josh-gracin
 lyrics_url: https://www.azlyrics.com/lyrics/joshgracin/staywithmebrassbed.html
 name: Stay With Me (Brass Bed)
@@ -71,8 +74,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2005-11-26'
+release_year: 2005
+runtime: 251133
 ---
-
 Baby, the clock on the wall is lying
 It's not really that late
 It's too cold outside to be walking around
@@ -109,6 +113,3 @@ So Stay
 
 I'll be all right as long as you
 Stay with me
-
-
-

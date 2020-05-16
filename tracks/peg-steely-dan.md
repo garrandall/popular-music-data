@@ -1,8 +1,11 @@
 ---
+album: Aja
 artists:
 - Steely Dan
+external_ids:
+  spotify: spotify:track:5DQAHkO9U4IZIombHefcqK
 features: []
-genres: []
+first_released_as_single: false
 key: peg-steely-dan
 lyrics_url: https://www.azlyrics.com/lyrics/steelydan/peg.html
 name: Peg
@@ -83,8 +86,9 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '1978-03-25'
+release_year: 1977
+runtime: 240293
 ---
-
 I've seen your picture
 Your name in lights above it
 This is your big debut
@@ -131,4 +135,3 @@ It's your favorite foreign movie
 Then the shutter falls
 You see all in 3D
 It's your favorite foreign movie
-

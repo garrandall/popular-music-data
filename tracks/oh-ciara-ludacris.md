@@ -1,9 +1,12 @@
 ---
+album: Goodies
 artists:
 - Ciara
+external_ids:
+  spotify: spotify:track:7i7UIbm5E0DD7aSOYvwp2v
 features:
 - Ludacris
-genres: []
+first_released_as_single: false
 key: oh-ciara-ludacris
 lyrics_url: https://genius.com/Ciara-oh-lyrics
 name: Oh
@@ -100,6 +103,8 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '2005-08-27'
+release_year: 2004
+runtime: 256346
 ---
 This is where they stay crunk, throw it up
 Dubs on the Cadillac

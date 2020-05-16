@@ -1,8 +1,11 @@
 ---
+album: Earth Wind & Fire Experience
 artists:
 - Earth, Wind & Fire
+external_ids:
+  spotify: spotify:track:4vGQNeWAh2WKPYsqhp5wSg
 features: []
-genres: []
+first_released_as_single: false
 key: got-to-get-you-into-my-life-earth-wind-fire
 lyrics_url: https://www.musixmatch.com/lyrics/Earth-feat-Wind-Fire/Got-to-Get-You-into-My-Life-From-The-Best-of-Earth-Wind-Fire-Vol-1
 name: Got To Get You Into My Life
@@ -59,6 +62,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1978-10-14'
+release_year: 1978
+runtime: 243106
 ---
 Got to get you into my life, into my life
 Got to get you into my life, into my life

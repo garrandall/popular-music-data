@@ -1,8 +1,11 @@
 ---
+album: Themes For Young Lovers
 artists:
 - Percy Faith
+external_ids:
+  spotify: spotify:track:77rQNU36fGs90c3SH1Bzzo
 features: []
-genres: []
+first_released_as_single: false
 key: theme-for-young-lovers-percy-faith-and-his-orchestra
 name: Theme For Young Lovers
 rankings:
@@ -46,5 +49,7 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1960-07-11'
+release_year: 1954
+runtime: 156560
 ---
 

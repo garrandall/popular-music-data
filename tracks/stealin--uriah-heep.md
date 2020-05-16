@@ -1,8 +1,11 @@
 ---
+album: Live
 artists:
 - Uriah Heep
+external_ids:
+  spotify: spotify:track:6Tig42Y4qqF7yyHViHMfsB
 features: []
-genres: []
+first_released_as_single: false
 key: stealin--uriah-heep
 lyrics_url: https://www.azlyrics.com/lyrics/uriahheep/stealin.html
 name: Stealin'
@@ -35,8 +38,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1973-11-24'
+release_year: 1973
+runtime: 328706
 ---
-
 Take me across the water 'cause I need some place to hide
 I done the rancher's daughter and I sure did hurt his pride aha
 
@@ -65,4 +69,3 @@ I made my break and a big mistake stealin' when I should've been buyin'
 I was stealin' when I should've been buyin'
 I was stealin' when I should've been buyin' yeah
 Stealin' when I should've been buyin'
-

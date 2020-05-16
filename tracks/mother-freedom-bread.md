@@ -1,8 +1,11 @@
 ---
+album: Baby I'm-a Want You
 artists:
 - Bread
+external_ids:
+  spotify: spotify:track:0pCpYq0UHY2pYEIFWLAfIj
 features: []
-genres: []
+first_released_as_single: false
 key: mother-freedom-bread
 lyrics_url: https://www.azlyrics.com/lyrics/bread/motherfreedom.html
 name: Mother Freedom
@@ -43,8 +46,9 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1971-09-11'
+release_year: 1971
+runtime: 155533
 ---
-
 Freedom, keep walkin'
 Keep on your toesand don't stop talkin' 'bout
 Freedom, get goin'
@@ -72,6 +76,3 @@ Hey tomorrow
 You're not so far away
 Mother freedom
 We'll know you well someday
-
-
-

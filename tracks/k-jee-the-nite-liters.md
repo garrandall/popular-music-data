@@ -1,8 +1,11 @@
 ---
+album: 'The Northern Soul Story Vol.2: The Golden Torch'
 artists:
 - The Nite-Liters
+external_ids:
+  spotify: spotify:track:03WWKLmyguLY0cLbEuKOfN
 features: []
-genres: []
+first_released_as_single: false
 key: k-jee-the-nite-liters
 lyrics_url: https://genius.com/The-nite-liters-k-jee-lyrics
 name: K-Jee
@@ -71,5 +74,7 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '1971-10-23'
+release_year: 1971
+runtime: 248493
 ---
 Instrumental

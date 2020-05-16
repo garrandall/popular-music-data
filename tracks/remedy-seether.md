@@ -1,8 +1,11 @@
 ---
+album: Karma and Effect
 artists:
 - Seether
+external_ids:
+  spotify: spotify:track:5ynxx6zC4dgzsMHLYQ04Dc
 features: []
-genres: []
+first_released_as_single: false
 key: remedy-seether
 lyrics_url: https://www.azlyrics.com/lyrics/seether/remedy.html
 name: Remedy
@@ -31,8 +34,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2006-01-21'
+release_year: 2005
+runtime: 207213
 ---
-
 Throw your dollar bills and leave your thrills all here with me 
 And speak but don't pretend I won't defend you anymore you see 
 It aches in every bone, I'll die alone, but not for you 
@@ -70,6 +74,3 @@ Frail, the skin is dry and pale, the pain will never fail
 And so we go back to the remedy 
 Clip the wings that get you high, just leave them where they lie 
 And tell yourself, "You'll be the death of me"
-
-
-

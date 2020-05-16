@@ -1,8 +1,11 @@
 ---
+album: We Can't Be Stopped
 artists:
 - Geto Boys
+external_ids:
+  spotify: spotify:track:63BokRfXSQhEU6Qi2dSJpZ
 features: []
-genres: []
+first_released_as_single: false
 key: mind-playing-tricks-on-me-geto-boys
 lyrics_url: https://genius.com/Geto-boys-mind-playing-tricks-on-me-lyrics
 name: Mind Playing Tricks On Me
@@ -87,6 +90,8 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '1992-02-15'
+release_year: 1991
+runtime: 308733
 ---
 I sit alone in my four-cornered room
 Starin' at candles

@@ -1,8 +1,11 @@
 ---
+album: Time Passages
 artists:
 - Al Stewart
+external_ids:
+  spotify: spotify:track:5zVKisBri6JH1fooBhUaVq
 features: []
-genres: []
+first_released_as_single: false
 key: time-passages-al-stewart
 lyrics_url: https://www.azlyrics.com/lyrics/alstewart/timepassages.html
 name: Time Passages
@@ -79,8 +82,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1979-01-27'
+release_year: 1978
+runtime: 403040
 ---
-
 It was late in December, the sky turned to snow
 All round the day was going down slow
 Night like a river beginning to flow
@@ -115,6 +119,3 @@ Time passages
 I know you're in there, you're just out of sight
 Time passages
 Buy me a ticket on the last train home tonight
-
-
-

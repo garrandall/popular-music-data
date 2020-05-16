@@ -1,8 +1,11 @@
 ---
+album: Rocks The House
 artists:
 - Etta James
+external_ids:
+  spotify: spotify:track:32vbBnfDsIWGcWpdswQ3xv
 features: []
-genres: []
+first_released_as_single: false
 key: something-s-got-a-hold-on-me-etta-james
 lyrics_url: https://genius.com/Etta-james-somethings-got-a-hold-on-me-lyrics
 name: Something's Got A Hold On Me
@@ -55,6 +58,8 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '1962-05-12'
+release_year: 1962
+runtime: 302927
 ---
 Oh, sometimes I get a good feeling, yeah (yeah)
 I get a feeling that I never, never, never

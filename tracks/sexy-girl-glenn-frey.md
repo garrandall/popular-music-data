@@ -1,8 +1,11 @@
 ---
+album: The Allnighter
 artists:
 - Glenn Frey
+external_ids:
+  spotify: spotify:track:6c3rTjGR3FuGfTGj4D5S7l
 features: []
-genres: []
+first_released_as_single: false
 key: sexy-girl-glenn-frey
 lyrics_url: https://www.azlyrics.com/lyrics/glennfrey/sexygirl.html
 name: Sexy Girl
@@ -67,8 +70,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1984-10-06'
+release_year: 1984
+runtime: 211440
 ---
-
 She moved in next door to me
 And she showed me her world
 What a neighbor, thanks for the favor
@@ -113,6 +117,3 @@ She's a sexy girl, sexy girl, sexy girl
 She's a very sexy girl
 She's a sexy girl, sexy girl, sexy girl
 She's a very sexy girl
-
-
-

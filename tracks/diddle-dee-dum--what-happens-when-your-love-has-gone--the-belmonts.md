@@ -1,8 +1,11 @@
 ---
+album: Tell Me Why & Other Favorites
 artists:
 - The Belmonts
+external_ids:
+  spotify: spotify:track:0AcecqWYhUxI7jdJmE7wct
 features: []
-genres: []
+first_released_as_single: false
 key: diddle-dee-dum--what-happens-when-your-love-has-gone--the-belmonts
 lyrics_url: https://www.musixmatch.com/lyrics/The-Belmonts/Diddle-Dee-Dum
 name: Diddle-Dee-Dum (What Happens When Your Love Has Gone)
@@ -31,6 +34,8 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '1962-12-22'
+release_year: 1962
+runtime: 167032
 ---
 I wanna talk awhile, so gather round
 I went to pick up my girl

@@ -1,8 +1,11 @@
 ---
+album: Agent Provocateur
 artists:
 - Foreigner
+external_ids:
+  spotify: spotify:track:7iXGUsbYaJddOHj9sYH8Nw
 features: []
-genres: []
+first_released_as_single: false
 key: reaction-to-action-foreigner
 lyrics_url: https://www.azlyrics.com/lyrics/foreigner/reactiontoaction.html
 name: Reaction To Action
@@ -39,9 +42,9 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1985-07-20'
+release_year: 1984
+runtime: 212000
 ---
-
-
 Alright
 It's hard getting through to me
 I'm truly elusive
@@ -97,6 +100,3 @@ Reaction to action
 Reaction to action
 Reaction to action
 Reaction to action
-
-
-

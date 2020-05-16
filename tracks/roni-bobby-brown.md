@@ -1,8 +1,11 @@
 ---
+album: Don't Be Cruel
 artists:
 - Bobby Brown
+external_ids:
+  spotify: spotify:track:6mdNRnbiVerwM8kGCS1KwD
 features: []
-genres: []
+first_released_as_single: false
 key: roni-bobby-brown
 lyrics_url: https://www.azlyrics.com/lyrics/bobbybrown/roni.html
 name: Roni
@@ -75,8 +78,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1989-04-29'
+release_year: 1988
+runtime: 358333
 ---
-
 The truth about Roni
 She's a sweet little girl
 If you treat her right
@@ -217,6 +221,3 @@ For the rest of my life
 
 My heart belongs to a Roni
 She's my only love
-
-
-

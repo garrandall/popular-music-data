@@ -1,8 +1,11 @@
 ---
+album: 'We All Are One: The Best Of Jimmy Cliff'
 artists:
 - Jimmy Cliff
+external_ids:
+  spotify: spotify:track:7aJZxI6TVdIvQSuWxQ4rqp
 features: []
-genres: []
+first_released_as_single: false
 key: i-can-see-clearly-now-jimmy-cliff
 lyrics_url: https://www.azlyrics.com/lyrics/jimmycliff/icanseeclearlynow.html
 name: I Can See Clearly Now
@@ -107,8 +110,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1994-04-23'
+release_year: 1969
+runtime: 195326
 ---
-
 I can see clearly now the rain is gone
 I can see all obstacles in my way
 Gone are the dark clouds that had me blind
@@ -138,6 +142,3 @@ Bright (bright) sunshiny day
 Yeah, hey, it's gonna be a bright (bright) bright (bright)
 Sunshiny day
 ...
-
-
-

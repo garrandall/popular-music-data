@@ -1,9 +1,12 @@
 ---
+album: The Story Of Cornelius Brothers & Sister Rose
 artists:
 - Cornelius Brothers
 - Sister Rose
+external_ids:
+  spotify: spotify:track:2OyaNAq8BcGstyzueloqpE
 features: []
-genres: []
+first_released_as_single: false
 key: too-late-to-turn-back-now-cornelius-brothers-sister-rose
 lyrics_url: https://genius.com/Cornelius-brothers-and-sister-rose-too-late-to-turn-back-now-lyrics
 name: Too Late To Turn Back Now
@@ -64,6 +67,8 @@ rankings:
   rank: 30
   ranking_list: Billboard Hot 100
   start_date: '1972-08-26'
+release_year: 1972
+runtime: 198693
 ---
 My mama told me
 She said, son, please beware

@@ -1,8 +1,11 @@
 ---
+album: Back At One
 artists:
 - Brian McKnight
+external_ids:
+  spotify: spotify:track:6mwA6YiKDjAUG8kWvRRUPh
 features: []
-genres: []
+first_released_as_single: false
 key: back-at-one-brian-mcknight
 lyrics_url: https://genius.com/Brian-mcknight-back-at-one-lyrics
 name: Back At One
@@ -155,6 +158,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2000-05-06'
+release_year: 1999
+runtime: 263666
 ---
 It's undeniable
 That we should be together

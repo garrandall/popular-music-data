@@ -1,8 +1,11 @@
 ---
+album: In a Word or 2
 artists:
 - Monie Love
+external_ids:
+  spotify: spotify:track:6xMTU3y8sdJb76NpadGU0m
 features: []
-genres: []
+first_released_as_single: false
 key: full-term-love-monie-love
 lyrics_url: https://genius.com/Monie-love-full-term-love-lyrics
 name: Full Term Love
@@ -11,6 +14,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1992-08-08'
+release_year: 1992
+runtime: 284840
 ---
 Full term love
 

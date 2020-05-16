@@ -1,8 +1,11 @@
 ---
+album: Doo Wop, Vol. 3
 artists:
 - The Capris
+external_ids:
+  spotify: spotify:track:16e31sR1oahwizufXdql5j
 features: []
-genres: []
+first_released_as_single: false
 key: there-s-a-moon-out-tonight-the-capris
 lyrics_url: https://genius.com/The-capris-theres-a-moon-out-tonight-lyrics
 name: There's A Moon Out Tonight
@@ -63,6 +66,8 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '1961-04-03'
+release_year: 1961
+runtime: 132294
 ---
 There's a (moon out tonight) whoa-oh-oh oh
 Let's go strollin'

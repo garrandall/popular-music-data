@@ -1,8 +1,11 @@
 ---
+album: I Want To Be With You
 artists:
 - Dee Dee Warwick
+external_ids:
+  spotify: spotify:track:7sNAmlTx7wkCwZ5aKHYkPE
 features: []
-genres: []
+first_released_as_single: false
 key: i-want-to-be-with-you-dee-dee-warwick
 lyrics_url: https://www.musixmatch.com/lyrics/Dee-Dee-Warwick/I-Want-to-Be-With-You
 name: I Want To Be With You
@@ -55,6 +58,8 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '1966-11-12'
+release_year: 1966
+runtime: 140626
 ---
 I wanna be with you
 I wanna be with you

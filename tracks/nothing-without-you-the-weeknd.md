@@ -1,8 +1,11 @@
 ---
+album: Starboy
 artists:
 - The Weeknd
+external_ids:
+  spotify: spotify:track:3Te3gG6MPEDNqLGzWrjKC3
 features: []
-genres: []
+first_released_as_single: false
 key: nothing-without-you-the-weeknd
 lyrics_url: https://www.azlyrics.com/lyrics/weeknd/nothingwithoutyou.html
 name: Nothing Without You
@@ -11,8 +14,9 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '2016-12-17'
+release_year: 2016
+runtime: 198653
 ---
-
 I realized I belong to you
 I feel the darkness when I'm away from you
 Hey
@@ -63,6 +67,3 @@ Without your touch, touch, touch.
 I'd be nothing, nothing, nothing, nothing, nothing,
 Nothing, nothing, nothing, nothing,
 Nothing, nothing, nothing without you
-
-
-

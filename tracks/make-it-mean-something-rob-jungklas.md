@@ -1,8 +1,11 @@
 ---
+album: Lost Hits Of The 80's
 artists:
 - Rob Jungklas
+external_ids:
+  spotify: spotify:track:2T8kbLmiTRcbivETQyksel
 features: []
-genres: []
+first_released_as_single: false
 key: make-it-mean-something-rob-jungklas
 lyrics_url: https://www.musixmatch.com/lyrics/Rob-Jungklas/Make-It-Mean-Something
 name: Make It Mean Something
@@ -19,6 +22,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1987-02-21'
+release_year: 1987
+runtime: 235960
 ---
 People living by a constalation
 Everybody wants to be a star

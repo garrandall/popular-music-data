@@ -1,8 +1,11 @@
 ---
+album: Walking Off the Buzz
 artists:
 - Blessid Union Of Souls
+external_ids:
+  spotify: spotify:track:34c09e1nnPqjQ48TKZvSnt
 features: []
-genres: []
+first_released_as_single: false
 key: hey-leonardo--she-likes-me-for-me--blessid-union-of-souls
 lyrics_url: https://www.azlyrics.com/lyrics/blessidunionofsouls/heyleonardoshelikesmeforme.html
 name: Hey Leonardo (She Likes Me For Me)
@@ -87,8 +90,9 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '1999-10-23'
+release_year: 1999
+runtime: 208493
 ---
-
 She don't care about my car 
 She don't care about my money 
 And that's real good because I don't got alot to spend 
@@ -150,6 +154,3 @@ And I'm so glad I found her once again
 Found her once again 
 I'm so glad I found her once again 
 On again
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Pete Fountain's New Orleans
 artists:
 - Pete Fountain
+external_ids:
+  spotify: spotify:track:7vvB9xuUJVXEpMHawVD3ge
 features: []
-genres: []
+first_released_as_single: false
 key: a-closer-walk-pete-fountain
 lyrics_url: https://www.musixmatch.com/lyrics/Pete-Fountain/Just-a-Closer-Walk-With-Thee
 name: A Closer Walk
@@ -19,6 +22,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1960-03-14'
+release_year: 1959
+runtime: 130693
 ---
 Just a closer walk with Thee,
 Grant it, Jesus, is my plea,

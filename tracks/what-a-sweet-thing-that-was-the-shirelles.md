@@ -1,8 +1,11 @@
 ---
+album: Sing To Trumpets And Strings
 artists:
 - The Shirelles
+external_ids:
+  spotify: spotify:track:7D4BVAlWP7bXWywcTXCjVr
 features: []
-genres: []
+first_released_as_single: false
 key: what-a-sweet-thing-that-was-the-shirelles
 lyrics_url: https://genius.com/The-shirelles-what-a-sweet-thing-that-was-lyrics
 name: What A Sweet Thing That Was
@@ -31,6 +34,8 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1961-08-21'
+release_year: 1961
+runtime: 148333
 ---
 You said hello and loneliness said goodbye then
 It made me so glad that I almost had to cry then

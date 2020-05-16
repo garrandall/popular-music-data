@@ -1,7 +1,6 @@
 ---
 artists:
-- The Wing And A Prayer Fife
-- Drum Corps.
+- The Wing And A Prayer Fife And Drum Corps.
 features: []
 genres: []
 key: baby-face-the-wing-and-a-prayer-fife-drum-corps-

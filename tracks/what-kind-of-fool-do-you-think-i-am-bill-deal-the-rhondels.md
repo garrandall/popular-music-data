@@ -1,9 +1,12 @@
 ---
+album: The Heritage / Colossus Story
 artists:
 - Bill Deal
 - The Rhondels
+external_ids:
+  spotify: spotify:track:6LQHfGK9wkx2kWxAPDbPil
 features: []
-genres: []
+first_released_as_single: false
 key: what-kind-of-fool-do-you-think-i-am-bill-deal-the-rhondels
 lyrics_url: https://www.musixmatch.com/lyrics/Bill-Deal-the-Rhondels/What-Kind-of-Fool-Do-You-Think-I-Am
 name: What Kind Of Fool Do You Think I Am
@@ -44,6 +47,8 @@ rankings:
   rank: 34
   ranking_list: Billboard Hot 100
   start_date: '1969-10-11'
+release_year: 1969
+runtime: 126960
 ---
 What kind of fool do you think I am
 You think you're gonna go on seeing him

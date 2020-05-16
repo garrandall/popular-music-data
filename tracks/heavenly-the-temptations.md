@@ -1,8 +1,11 @@
 ---
+album: '1990'
 artists:
 - The Temptations
+external_ids:
+  spotify: spotify:track:2FEtlnZ3qzhqW25Z4MdWsV
 features: []
-genres: []
+first_released_as_single: false
 key: heavenly-the-temptations
 lyrics_url: https://genius.com/The-temptations-heavenly-lyrics
 name: Heavenly
@@ -43,6 +46,8 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '1974-05-11'
+release_year: 1973
+runtime: 236093
 ---
 So you're through with love
 And you say

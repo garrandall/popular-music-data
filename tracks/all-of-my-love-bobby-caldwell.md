@@ -1,8 +1,11 @@
 ---
+album: Carry On
 artists:
 - Bobby Caldwell
+external_ids:
+  spotify: spotify:track:4rGHpDjGls5omPpsc3VVX6
 features: []
-genres: []
+first_released_as_single: false
 key: all-of-my-love-bobby-caldwell
 lyrics_url: https://genius.com/Bobby-caldwell-all-of-my-love-lyrics
 name: All Of My Love
@@ -31,6 +34,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1982-10-16'
+release_year: 1982
+runtime: 210066
 ---
 Fall in love
 Why can't you fall in love

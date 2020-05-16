@@ -1,8 +1,11 @@
 ---
+album: Bellamy Brothers
 artists:
 - Bellamy Brothers
+external_ids:
+  spotify: spotify:track:4yHq1fsp9vhX1T34zoHnAu
 features: []
-genres: []
+first_released_as_single: false
 key: satin-sheets-bellamy-brothers
 lyrics_url: https://www.azlyrics.com/lyrics/bellamybrothers/satinsheets.html
 name: Satin Sheets
@@ -19,8 +22,9 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '1976-09-25'
+release_year: 1976
+runtime: 247053
 ---
-
 I wish I was a millionaire
 I'd play rock music and grow long hair
 I tell you boys I'd buy a new Rolls Royce.
@@ -48,6 +52,3 @@ I wish you was a millionaire
 Hallelujah
 let me sook it to ya
 ...
-
-
-

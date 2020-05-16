@@ -1,8 +1,11 @@
 ---
+album: All Or Nothing
 artists:
 - Milli Vanilli
+external_ids:
+  spotify: spotify:track:3t4EJY6cTsb6FyP1EQzajK
 features: []
-genres: []
+first_released_as_single: false
 key: baby-don-t-forget-my-number-milli-vanilli
 lyrics_url: https://genius.com/Milli-vanilli-baby-dont-forget-my-number-lyrics
 name: Baby Don't Forget My Number
@@ -91,6 +94,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1989-09-16'
+release_year: 1988
+runtime: 249640
 ---
 Babe, don't be shy
 When you're holding my hand

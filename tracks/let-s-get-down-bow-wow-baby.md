@@ -1,9 +1,12 @@
 ---
+album: Unleashed
 artists:
 - Bow Wow
+external_ids:
+  spotify: spotify:track:3qDaMUFsXqJh4SAcF0pysr
 features:
 - Baby
-genres: []
+first_released_as_single: true
 key: let-s-get-down-bow-wow-baby
 lyrics_url: https://genius.com/Bow-wow-lets-get-down-lyrics
 name: Let's Get Down
@@ -76,6 +79,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2003-10-25'
+release_year: 2003
+runtime: 259746
 ---
 Birdman! (lady's and gentlemen) mm-huh!
 Jazzy Fizzle product-shizzle my nizzle

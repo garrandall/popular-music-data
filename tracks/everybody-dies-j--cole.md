@@ -1,8 +1,11 @@
 ---
+album: everybody dies
 artists:
 - J. Cole
+external_ids:
+  spotify: spotify:track:4kn5FFkZo2gj9f6vB7x2A1
 features: []
-genres: []
+first_released_as_single: true
 key: everybody-dies-j--cole
 lyrics_url: https://genius.com/J-cole-everybody-dies-lyrics
 name: Everybody Dies
@@ -11,6 +14,8 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '2016-12-31'
+release_year: 2016
+runtime: 162933
 ---
 Yeah, we back
 Back in Mohammed crib, nigga, top floor

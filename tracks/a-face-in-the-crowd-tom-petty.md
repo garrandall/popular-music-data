@@ -1,8 +1,11 @@
 ---
+album: Full Moon Fever
 artists:
 - Tom Petty
+external_ids:
+  spotify: spotify:track:4tSZr210OTY6upjNYfEYUI
 features: []
-genres: []
+first_released_as_single: false
 key: a-face-in-the-crowd-tom-petty
 lyrics_url: https://genius.com/Tom-petty-a-face-in-the-crowd-lyrics
 name: A Face In The Crowd
@@ -39,6 +42,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1990-04-21'
+release_year: 1989
+runtime: 239306
 ---
 Before all of this ever went down
 In another place, another town

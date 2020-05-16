@@ -1,8 +1,11 @@
 ---
+album: They Only Come Out At Night
 artists:
 - Edgar Winter Group
+external_ids:
+  spotify: spotify:track:2l0Z9fY1E8Bep8opmhmDhq
 features: []
-genres: []
+first_released_as_single: false
 key: frankenstein-edgar-winter-group
 name: Frankenstein
 rankings:
@@ -86,5 +89,7 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '1973-07-21'
+release_year: 1972
+runtime: 284293
 ---
 

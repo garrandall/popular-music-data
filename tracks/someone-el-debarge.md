@@ -1,8 +1,11 @@
 ---
+album: El DeBarge
 artists:
 - El DeBarge
+external_ids:
+  spotify: spotify:track:3Cn1aiqSnvaj3FF4eFT80W
 features: []
-genres: []
+first_released_as_single: false
 key: someone-el-debarge
 lyrics_url: https://www.azlyrics.com/lyrics/eldebarge/someone.html
 name: Someone
@@ -43,9 +46,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1987-02-21'
+release_year: 1986
+runtime: 283400
 ---
-
-
 Someone just like me
 Runnin' into someone just like you
 An accidental touch
@@ -80,4 +83,3 @@ Nothing for us to do
 But finding ways to hold each other tight
 
 Imagine
-

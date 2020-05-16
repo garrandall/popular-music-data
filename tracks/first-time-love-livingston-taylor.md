@@ -1,8 +1,11 @@
 ---
+album: Ink
 artists:
 - Livingston Taylor
+external_ids:
+  spotify: spotify:track:1N4G5CmGDyQ7ql3IEIVRNJ
 features: []
-genres: []
+first_released_as_single: false
 key: first-time-love-livingston-taylor
 lyrics_url: https://genius.com/Livingston-taylor-first-time-love-lyrics
 name: First Time Love
@@ -47,6 +50,8 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1980-09-27'
+release_year: 1980
+runtime: 189826
 ---
 First time you fall for somebody
 The world becomes your lucky star

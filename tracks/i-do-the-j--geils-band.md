@@ -1,8 +1,11 @@
 ---
+album: The Morning After
 artists:
 - The J. Geils Band
+external_ids:
+  spotify: spotify:track:1HKr4zUACoh3QfxbfVz8Du
 features: []
-genres: []
+first_released_as_single: false
 key: i-do-the-j--geils-band
 lyrics_url: https://genius.com/The-j-geils-band-i-do-lyrics
 name: I Do
@@ -63,6 +66,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1983-02-19'
+release_year: 1971
+runtime: 155640
 ---
 Two, one, two, three, four
 

@@ -1,8 +1,11 @@
 ---
+album: Jump Up!
 artists:
 - Elton John
+external_ids:
+  spotify: spotify:track:01PjrDX13iIjeHc5iJZmb3
 features: []
-genres: []
+first_released_as_single: false
 key: empty-garden--hey-hey-johnny--elton-john
 lyrics_url: https://www.azlyrics.com/lyrics/eltonjohn/emptygardenheyheyjohnny.html
 name: Empty Garden (Hey Hey Johnny)
@@ -75,8 +78,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1982-07-10'
+release_year: 1982
+runtime: 308200
 ---
-
 What happened here
 As the New York sunset disappeared
 I found an empty garden among the flagstones there
@@ -110,6 +114,3 @@ Now we pray for rain, and with every drop that falls
 We hear, we hear your name
 
 Johnny can't you come out to play in your empty garden
-
-
-

@@ -1,9 +1,12 @@
 ---
+album: Takin' It Easy
 artists:
 - Seals
 - Crofts
+external_ids:
+  spotify: spotify:track:0Vb2jkXz1dcvMpng0lbkrN
 features: []
-genres: []
+first_released_as_single: false
 key: takin--it-easy-seals-crofts
 lyrics_url: https://www.azlyrics.com/lyrics/sealscrofts/takiniteasy.html
 name: Takin' It Easy
@@ -20,8 +23,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1978-09-16'
+release_year: 1978
+runtime: 240480
 ---
-
 Well I've driven half my life under the city lights. I'm gonna meet the San Jose Bay.
 Workin' hard 'til the sunrise, I've been at it so long.
 Got to pack my bags and get me away.
@@ -38,6 +42,3 @@ Maybe down Mexico way.
 There comes a time when for no reason or rhyme,
 A man is bound to seek a sunnier day, bound to seek a sunnier day.
 Now come on down...
-
-
-

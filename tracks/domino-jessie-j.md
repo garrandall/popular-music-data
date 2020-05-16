@@ -1,8 +1,11 @@
 ---
+album: Who You Are
 artists:
 - Jessie J
+external_ids:
+  spotify: spotify:track:6MAdEUilV2p9RQUqE5bMAK
 features: []
-genres: []
+first_released_as_single: false
 key: domino-jessie-j
 lyrics_url: https://www.azlyrics.com/lyrics/jessiej/domino.html
 name: Domino
@@ -123,8 +126,9 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '2012-05-12'
+release_year: 2011
+runtime: 231693
 ---
-
 I'm feeling sexy and free
 Like glitter's raining on me
 You're like a shot of pure gold
@@ -202,6 +206,3 @@ Every second is a highlight
 When we touch don't ever let me go
 Dirty dancing in the moonlight
 Take me down like I'm a domino
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Drip or Drown 2
 artists:
 - Gunna
+external_ids:
+  spotify: spotify:track:3BXXkwyhsHM0EPApHMhQC5
 features: []
-genres: []
+first_released_as_single: true
 key: speed-it-up-gunna
 lyrics_url: https://genius.com/Gunna-speed-it-up-lyrics
 name: Speed It Up
@@ -11,6 +14,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2019-03-09'
+release_year: 2019
+runtime: 179021
 ---
 Hold on, hold on, speed it up, hold on
 (Run that back, Turbo)

@@ -1,8 +1,11 @@
 ---
+album: Chess Sing A Song Of Soul 2
 artists:
 - Tommy Tucker
+external_ids:
+  spotify: spotify:track:0ovaa13vJCUVDq0U2cCWnZ
 features: []
-genres: []
+first_released_as_single: false
 key: hi-heel-sneakers-tommy-tucker
 lyrics_url: https://genius.com/Tommy-tucker-hi-heel-sneakers-lyrics
 name: Hi-Heel Sneakers
@@ -51,6 +54,8 @@ rankings:
   rank: 34
   ranking_list: Billboard Hot 100
   start_date: '1964-04-18'
+release_year: 1964
+runtime: 171000
 ---
 Put on your red dress, baby
 Lord, we goin' out tonight

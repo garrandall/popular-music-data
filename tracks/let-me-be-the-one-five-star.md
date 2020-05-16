@@ -1,8 +1,11 @@
 ---
+album: The Greatest Hits
 artists:
 - Five Star
+external_ids:
+  spotify: spotify:track:7Ly6unSf5gXUdF3S3nGlSH
 features: []
-genres: []
+first_released_as_single: false
 key: let-me-be-the-one-five-star
 lyrics_url: https://genius.com/Five-star-let-me-be-the-one-lyrics
 name: Let Me Be The One
@@ -43,6 +46,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1986-04-05'
+release_year: 1986
+runtime: 281600
 ---
 Let me be the one
 You give your love to

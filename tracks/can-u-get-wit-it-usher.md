@@ -1,8 +1,11 @@
 ---
+album: Usher
 artists:
 - Usher
+external_ids:
+  spotify: spotify:track:5oDDFHXz3YfhkmyPeOuFxV
 features: []
-genres: []
+first_released_as_single: false
 key: can-u-get-wit-it-usher
 lyrics_url: https://genius.com/Usher-can-u-get-wit-it-lyrics
 name: Can U Get Wit It
@@ -71,6 +74,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1994-12-17'
+release_year: 1994
+runtime: 295600
 ---
 Every time I look at you
 There's so many things that I want to do

@@ -1,8 +1,12 @@
 ---
+album: EMI Legends Rock 'n' Roll Seris - The Definitive Collection
 artists:
-- Billy J. Kramer With The Dakotas
-features: []
-genres: []
+- Billy J. Kramer
+external_ids:
+  spotify: spotify:track:07FNAgRj1ovRwdnsS0NgLc
+features:
+- The Dakotas
+first_released_as_single: false
 key: i-ll-keep-you-satisfied-billy-j--kramer-with-the-dakotas
 lyrics_url: https://genius.com/Billy-j-kramer-with-the-dakotas-ill-keep-you-satisfied-lyrics
 name: I'll Keep You Satisfied
@@ -35,6 +39,8 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '1964-09-05'
+release_year: 1964
+runtime: 126360
 ---
 I'll Keep You Satisfied
 Billy J. Kramer with The Dakotas

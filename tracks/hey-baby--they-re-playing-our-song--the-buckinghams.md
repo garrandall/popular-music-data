@@ -1,8 +1,11 @@
 ---
+album: Portraits
 artists:
 - The Buckinghams
+external_ids:
+  spotify: spotify:track:2k9XwzyCNfjkLvAu7FXPkA
 features: []
-genres: []
+first_released_as_single: false
 key: hey-baby--they-re-playing-our-song--the-buckinghams
 lyrics_url: https://genius.com/The-buckinghams-hey-baby-theyre-playin-our-song-lyrics
 name: Hey Baby (They're Playing Our Song)
@@ -47,6 +50,8 @@ rankings:
   rank: 36
   ranking_list: Billboard Hot 100
   start_date: '1967-11-11'
+release_year: 1967
+runtime: 165733
 ---
 Hey baby they're playin' our song
 The one we used to hear when we used to get along

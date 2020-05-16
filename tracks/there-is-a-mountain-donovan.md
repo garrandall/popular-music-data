@@ -1,8 +1,11 @@
 ---
+album: In Concert At The Anaheim Convention Center, CA - November 17, 1967
 artists:
 - Donovan
+external_ids:
+  spotify: spotify:track:4cOt4yXLpE0i24ZudX8qFC
 features: []
-genres: []
+first_released_as_single: false
 key: there-is-a-mountain-donovan
 lyrics_url: https://www.azlyrics.com/lyrics/donovan/thereisamountain.html
 name: There Is A Mountain
@@ -43,8 +46,9 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1967-10-07'
+release_year: 1964
+runtime: 155000
 ---
-
 The lock upon my garden gate's a snail, that's what it is
 The lock upon my garden gate's a snail, that's what it is
 First there is a mountain, then there is no mountain, then there is
@@ -70,6 +74,3 @@ First there is a mountain, then there is no mountain, then there is
 First there is a mountain, then there is no mountain, then there is
 First there is a mountain, then there is no mountain, then there is
 First there is a mountain
-
-
-

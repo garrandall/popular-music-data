@@ -1,8 +1,11 @@
 ---
+album: 'Africa To America: The Journey Of The Drum'
 artists:
 - The Sounds Of Blackness
+external_ids:
+  spotify: spotify:track:3sZzBq1teSfgr26ONy22vO
 features: []
-genres: []
+first_released_as_single: false
 key: i-believe-the-sounds-of-blackness
 lyrics_url: https://genius.com/Sounds-of-blackness-i-believe-lyrics
 name: I Believe
@@ -19,6 +22,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1994-06-18'
+release_year: 1994
+runtime: 278960
 ---
 I believe
 Yeah yeah yeah

@@ -1,8 +1,11 @@
 ---
+album: 'A Day at the Beach: Frankie Avalon'
 artists:
 - Frankie Avalon
+external_ids:
+  spotify: spotify:track:26qG4DXBnaBgke7u2t0qvz
 features: []
-genres: []
+first_released_as_single: false
 key: togetherness-frankie-avalon
 lyrics_url: https://genius.com/Frankie-avalon-togetherness-lyrics
 name: Togetherness
@@ -59,6 +62,8 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '1960-12-12'
+release_year: 1960
+runtime: 153000
 ---
 Two hearts are
 Better than one heart

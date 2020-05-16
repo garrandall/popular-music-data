@@ -1,8 +1,11 @@
 ---
+album: Kiss & Tell
 artists:
 - Selena Gomez
+external_ids:
+  spotify: spotify:track:1UXBbmjIrxjckrbv5EfSVT
 features: []
-genres: []
+first_released_as_single: false
 key: tell-me-something-i-don-t-know-selena-gomez
 lyrics_url: https://genius.com/Selena-gomez-and-the-scene-tell-me-something-i-dont-know-lyrics
 name: Tell Me Something I Don't Know
@@ -23,6 +26,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '2009-02-14'
+release_year: 2008
+runtime: 201426
 ---
 Everybody tells me that it's so hard to make it
 It's so hard to break in

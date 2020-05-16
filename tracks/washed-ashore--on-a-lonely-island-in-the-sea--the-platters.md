@@ -1,8 +1,11 @@
 ---
+album: 16 Greatest Hits
 artists:
 - The Platters
+external_ids:
+  spotify: spotify:track:2c7t7MAOaToiZMQGJdQEM1
 features: []
-genres: []
+first_released_as_single: false
 key: washed-ashore--on-a-lonely-island-in-the-sea--the-platters
 lyrics_url: https://www.musixmatch.com/lyrics/The-Platters/Washed-Ashore-On-a-Lonely-Island-in-the-Sea
 name: Washed Ashore (On A Lonely Island In The Sea)
@@ -39,6 +42,8 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1967-08-19'
+release_year: 1967
+runtime: 172200
 ---
 (Washed ashore on a lonely island in the sea)
 (Washed ashore on a lonely island in the sea)

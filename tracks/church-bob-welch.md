@@ -1,8 +1,11 @@
 ---
+album: Three Hearts
 artists:
 - Bob Welch
+external_ids:
+  spotify: spotify:track:402BoRj5QNsxPv5RBS98eV
 features: []
-genres: []
+first_released_as_single: false
 key: church-bob-welch
 lyrics_url: https://genius.com/Bob-welch-church-lyrics
 name: Church
@@ -19,6 +22,8 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '1979-06-09'
+release_year: 1979
+runtime: 187226
 ---
 Well come down from your church
 And talk to a man

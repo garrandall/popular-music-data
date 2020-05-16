@@ -1,8 +1,11 @@
 ---
+album: Year Of The Cat
 artists:
 - Al Stewart
+external_ids:
+  spotify: spotify:track:7MTX3vevnm41xuEoPxWT3j
 features: []
-genres: []
+first_released_as_single: false
 key: year-of-the-cat-al-stewart
 lyrics_url: https://www.azlyrics.com/lyrics/alstewart/yearofthecat.html
 name: Year Of The Cat
@@ -75,8 +78,9 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '1977-04-02'
+release_year: 1976
+runtime: 400066
 ---
-
 On a morning from a Bogart movie
 In a country where they turn back time
 You go strolling through the crowd like Peter Lorre
@@ -120,6 +124,3 @@ But for now you're going to stay
 
 In the year of the cat
 Year of the cat
-
-
-

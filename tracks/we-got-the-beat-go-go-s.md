@@ -1,8 +1,11 @@
 ---
+album: Beauty And The Beat
 artists:
 - Go-Go's
+external_ids:
+  spotify: spotify:track:5kz9GDBTX846OXwqWoyKzF
 features: []
-genres: []
+first_released_as_single: false
 key: we-got-the-beat-go-go-s
 lyrics_url: https://genius.com/The-go-gos-we-got-the-beat-lyrics
 name: We Got The Beat
@@ -83,6 +86,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1982-06-05'
+release_year: 1981
+runtime: 153133
 ---
 See the people walking down the street
 Fall in line just watching all their feet

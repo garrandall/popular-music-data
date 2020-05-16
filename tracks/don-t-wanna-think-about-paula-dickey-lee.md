@@ -1,8 +1,11 @@
 ---
+album: 'Dickey Lee Country: Rockabilly'
 artists:
 - Dickey Lee
+external_ids:
+  spotify: spotify:track:3GoF1YKAqCnTTpBS7HUnUI
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-wanna-think-about-paula-dickey-lee
 lyrics_url: https://www.musixmatch.com/lyrics/Dickey-Lee/Don-t-Wanna-Think-About-Paula
 name: Don't Wanna Think About Paula
@@ -27,6 +30,8 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '1963-04-13'
+release_year: 1963
+runtime: 132866
 ---
 I thought that when we parted
 I'd broken all the ties that bind

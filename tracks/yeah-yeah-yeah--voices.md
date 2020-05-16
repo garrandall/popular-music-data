@@ -1,8 +1,11 @@
 ---
+album: We Don't Play Guitars
 artists:
 - Voices
+external_ids:
+  spotify: spotify:track:5dv2Z0HAdnA9uM3gTNLect
 features: []
-genres: []
+first_released_as_single: false
 key: yeah-yeah-yeah--voices
 lyrics_url: https://genius.com/The-voices-yeah-yeah-yeah-lyrics
 name: Yeah Yeah Yeah!
@@ -39,6 +42,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1992-10-24'
+release_year: 1992
+runtime: 105960
 ---
 I thought
 True love for me existed in fairy tales

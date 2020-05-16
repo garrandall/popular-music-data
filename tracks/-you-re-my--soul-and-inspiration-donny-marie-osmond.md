@@ -1,9 +1,12 @@
 ---
+album: Winning Combination
 artists:
 - Donny
 - Marie Osmond
+external_ids:
+  spotify: spotify:track:4GEhLyiNVnpioIIBVvj77j
 features: []
-genres: []
+first_released_as_single: false
 key: -you-re-my--soul-and-inspiration-donny-marie-osmond
 lyrics_url: https://www.musixmatch.com/lyrics/Donny-Osmond-Marie-Osmond/You-re-My-Soul-and-Inspiration
 name: (You're My) Soul And Inspiration
@@ -52,6 +55,8 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1978-01-28'
+release_year: 1977
+runtime: 194880
 ---
 Soul and Inspiration
 

@@ -1,8 +1,11 @@
 ---
+album: Still Caught Up
 artists:
 - Millie Jackson
+external_ids:
+  spotify: spotify:track:1jU7zLZf49TkQfz1CUlLya
 features: []
-genres: []
+first_released_as_single: false
 key: leftovers-millie-jackson
 lyrics_url: https://genius.com/Millie-jackson-leftovers-lyrics
 name: Leftovers
@@ -15,6 +18,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1975-10-04'
+release_year: 1975
+runtime: 272958
 ---
 MILLIE: Philip, now I know you said you're leaving, but can't we discuss this at all?
 PHILIP: Look, baby, there ain't nothing to discuss. I mean, you know, we've been through this a thousand times. Everything has been said

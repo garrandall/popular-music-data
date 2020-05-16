@@ -1,8 +1,11 @@
 ---
+album: Silk Degrees
 artists:
 - Boz Scaggs
+external_ids:
+  spotify: spotify:track:0nlZjTPzW6S9JIESuGfImT
 features: []
-genres: []
+first_released_as_single: false
 key: lowdown-boz-scaggs
 lyrics_url: https://www.azlyrics.com/lyrics/bozscaggs/lowdown.html
 name: Lowdown
@@ -95,8 +98,9 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1976-11-27'
+release_year: 1976
+runtime: 315640
 ---
-
 Baby's into runnin' round
 Hangin' with the crowd
 Putting your business in the street
@@ -166,6 +170,3 @@ That dirty dirty dirty dirty lowdown
 I wonder wonder wonder wonder who
 Oh hooo
 I wonder who got you thinking like that...
-
-
-

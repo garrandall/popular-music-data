@@ -1,8 +1,11 @@
 ---
+album: Metallica
 artists:
 - Metallica
+external_ids:
+  spotify: spotify:track:2lF8jQFhIjpmQa501sYXxR
 features: []
-genres: []
+first_released_as_single: false
 key: the-unforgiven-metallica
 lyrics_url: https://www.musixmatch.com/lyrics/Metallica/The-Unforgiven-1
 name: The Unforgiven
@@ -75,6 +78,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1992-03-28'
+release_year: 1991
+runtime: 387133
 ---
 New blood joins this earth
 And quickly he's subdued

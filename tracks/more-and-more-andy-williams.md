@@ -1,8 +1,11 @@
 ---
+album: The Essential Andy Williams
 artists:
 - Andy Williams
+external_ids:
+  spotify: spotify:track:0LP7QXzRsu5IGKaYICEbaw
 features: []
-genres: []
+first_released_as_single: false
 key: more-and-more-andy-williams
 lyrics_url: https://genius.com/Andy-williams-more-and-more-lyrics
 name: More And More
@@ -23,6 +26,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1967-08-05'
+release_year: 1967
+runtime: 146840
 ---
 More and more I miss you, honey
 More and more each day

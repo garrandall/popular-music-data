@@ -1,8 +1,11 @@
 ---
+album: Luv Is Rage 2
 artists:
 - Lil Uzi Vert
+external_ids:
+  spotify: spotify:track:3gjJTEX2ZgWH9SYeYxM5I0
 features: []
-genres: []
+first_released_as_single: false
 key: sauce-it-up-lil-uzi-vert
 lyrics_url: https://genius.com/Lil-uzi-vert-sauce-it-up-lyrics
 name: Sauce It Up
@@ -67,6 +70,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2017-12-23'
+release_year: 2017
+runtime: 207038
 ---
 (Sauce it up, ayy, sauce it up, ayy)
 (Sauce it up, ayy, goin' numb)

@@ -1,8 +1,11 @@
 ---
+album: Soul Surfin'
 artists:
 - Kai Winding
+external_ids:
+  spotify: spotify:track:05f3cqpj6Mf5EU0xiVLA4e
 features: []
-genres: []
+first_released_as_single: false
 key: more-kai-winding-orchestra
 lyrics_url: https://genius.com/Kai-winding-more-theme-from-mondo-cane-lyrics
 name: More
@@ -67,6 +70,8 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '1963-10-12'
+release_year: 1963
+runtime: 122373
 ---
 Pd... Musik: Riz Ortolani; Nino Oliviero ℗1962
 Lyrik Ilia: Marcello Ciorciolini ...Pd

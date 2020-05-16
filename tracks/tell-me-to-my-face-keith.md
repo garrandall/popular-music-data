@@ -1,8 +1,11 @@
 ---
+album: 98.6 / Ain't Gonna Lie
 artists:
 - Keith
+external_ids:
+  spotify: spotify:track:4yt90IbMhzW8ed7pV90rJ8
 features: []
-genres: []
+first_released_as_single: false
 key: tell-me-to-my-face-keith
 lyrics_url: https://genius.com/Keith-tell-me-to-my-face-lyrics
 name: Tell Me To My Face
@@ -31,6 +34,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1967-04-22'
+release_year: 1967
+runtime: 172880
 ---
 (Clarke/Hicks/Nash)
 Will you try to justify the meaning, of the note you sent this evening, to my door your not deceiving me

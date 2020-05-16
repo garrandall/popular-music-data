@@ -1,9 +1,12 @@
 ---
+album: Lil Boat 2
 artists:
 - Lil Yachty
+external_ids:
+  spotify: spotify:track:2PsZsnqSMXt4oKi0xHVvgF
 features:
 - Ugly God
-genres: []
+first_released_as_single: false
 key: boom--lil-yachty-ugly-god
 lyrics_url: https://www.azlyrics.com/lyrics/lilyachty/boom.html
 name: Boom!
@@ -12,9 +15,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2018-03-24'
+release_year: 2018
+runtime: 229525
 ---
-
-
 30, you a fool for this one
 Run it up, mhm
 I finally realized why you niggas hatin'
@@ -119,6 +122,3 @@ Don't give a fuck 'bout your clique, uh
 Y'all can get hit with the boom (boom)
 Don't give a fuck 'bout the bitch, uh
 Give her the dick, then I zoom (skrr)
-
-
-

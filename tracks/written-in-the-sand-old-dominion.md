@@ -1,8 +1,11 @@
 ---
+album: Happy Endings
 artists:
 - Old Dominion
+external_ids:
+  spotify: spotify:track:2A69wys3S9uiPSmn6UZWJn
 features: []
-genres: []
+first_released_as_single: false
 key: written-in-the-sand-old-dominion
 lyrics_url: https://genius.com/Old-dominion-written-in-the-sand-lyrics
 name: Written In The Sand
@@ -87,6 +90,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2018-04-14'
+release_year: 2017
+runtime: 184080
 ---
 Turn me on turn me off then you turn me back on by the weekend
 And you won’t say the words that I want but you flirt when you’re drinkin’

@@ -1,8 +1,11 @@
 ---
+album: M.I.U. Album
 artists:
 - The Beach Boys
+external_ids:
+  spotify: spotify:track:6CjId5Ur6jRP6ndGLy6vm2
 features: []
-genres: []
+first_released_as_single: false
 key: peggy-sue-the-beach-boys
 lyrics_url: https://genius.com/The-beach-boys-peggy-sue-lyrics
 name: Peggy Sue
@@ -31,6 +34,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1978-10-14'
+release_year: 1978
+runtime: 136466
 ---
 If you knew a-Peggy Sue
 Then you'd know why I feel blue

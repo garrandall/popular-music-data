@@ -1,8 +1,11 @@
 ---
+album: The Best of Buster Brown
 artists:
 - Buster Brown
+external_ids:
+  spotify: spotify:track:5GwlaZYksclv2EMmRzSXof
 features: []
-genres: []
+first_released_as_single: false
 key: sugar-babe-buster-brown
 lyrics_url: https://www.musixmatch.com/lyrics/Buster-Brown/Sugar-Babe
 name: Sugar Babe
@@ -15,6 +18,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1962-02-10'
+release_year: 1961
+runtime: 147229
 ---
 Sugar babe, Sugar baby
 Please say you'll be mine

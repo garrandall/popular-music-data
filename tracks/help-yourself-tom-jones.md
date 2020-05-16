@@ -1,8 +1,11 @@
 ---
+album: Live In Las Vegas
 artists:
 - Tom Jones
+external_ids:
+  spotify: spotify:track:26j2Bofp37nwc5eo1stcmi
 features: []
-genres: []
+first_released_as_single: false
 key: help-yourself-tom-jones
 lyrics_url: https://www.azlyrics.com/lyrics/tomjones/helpyourself.html
 name: Help Yourself
@@ -39,8 +42,9 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '1968-10-19'
+release_year: 1968
+runtime: 154906
 ---
-
 Love is like candy on a shelf
 You want to taste and help yourself
 The sweetest things are there for you
@@ -81,6 +85,3 @@ To my arms just say the word, and they are yours
 Just help yourself to the love
 
 In my heart your smile...
-
-
-

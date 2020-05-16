@@ -1,8 +1,11 @@
 ---
+album: Percy Mayfield Live
 artists:
 - Percy Mayfield
+external_ids:
+  spotify: spotify:track:3WY4LT13Pcmn8C6FXPkrKY
 features: []
-genres: []
+first_released_as_single: false
 key: river-s-invitation-percy-mayfield
 lyrics_url: https://genius.com/Percy-mayfield-rivers-invitation-lyrics
 name: River's Invitation
@@ -11,6 +14,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1963-06-01'
+release_year: 1963
+runtime: 282666
 ---
 I've been all across the country
 And I've stayed in every town

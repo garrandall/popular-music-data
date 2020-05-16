@@ -1,8 +1,11 @@
 ---
+album: If You're Reading This It's Too Late
 artists:
 - Drake
+external_ids:
+  spotify: spotify:track:79XrkTOfV1AqySNjVlygpW
 features: []
-genres: []
+first_released_as_single: false
 key: energy-drake
 lyrics_url: https://genius.com/Drake-energy-lyrics
 name: Energy
@@ -87,6 +90,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '2015-07-11'
+release_year: 2015
+runtime: 181933
 ---
 Lickwood means "rewind" and gunshot means "forward"
 You requested it, so we rewind

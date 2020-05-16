@@ -1,8 +1,11 @@
 ---
+album: Something To Love
 artists:
 - LTD
+external_ids:
+  spotify: spotify:track:1eeySrWP5X7hsbfyc3PPge
 features: []
-genres: []
+first_released_as_single: false
 key: -every-time-i-turn-around--back-in-love-again-ltd
 lyrics_url: https://genius.com/Ltd-every-time-i-turn-around-back-in-love-again-lyrics
 name: (Every Time I Turn Around) Back In Love Again
@@ -83,6 +86,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1978-02-18'
+release_year: 1977
+runtime: 280133
 ---
 Every time I move, I lose
 When I look I'm in

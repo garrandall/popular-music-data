@@ -1,8 +1,11 @@
 ---
+album: Two Lovers
 artists:
 - Mary Wells
+external_ids:
+  spotify: spotify:track:00CmjeeHvAVKvx3tcIiZTy
 features: []
-genres: []
+first_released_as_single: false
 key: two-lovers-mary-wells
 lyrics_url: https://www.azlyrics.com/lyrics/marywells/twolovers.html
 name: Two Lovers
@@ -59,8 +62,9 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1963-02-23'
+release_year: 1962
+runtime: 166732
 ---
-
 Well, I've got two lovers,
 And I ain't ashamed.
 Two lovers, and I love them both the same.
@@ -91,6 +95,3 @@ And in reality, both of them are you.
 (They both are you)
 
 Well, I've got two lovers...
-
-
-

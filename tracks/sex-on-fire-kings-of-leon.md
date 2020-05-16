@@ -1,8 +1,11 @@
 ---
+album: Only By The Night
 artists:
 - Kings Of Leon
+external_ids:
+  spotify: spotify:track:0ntQJM78wzOLVeCUAW7Y45
 features: []
-genres: []
+first_released_as_single: false
 key: sex-on-fire-kings-of-leon
 lyrics_url: https://genius.com/Kings-of-leon-sex-on-fire-lyrics
 name: Sex On Fire
@@ -87,6 +90,8 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '2009-03-21'
+release_year: 2008
+runtime: 203346
 ---
 Lay where you're layin'
 Don't make a sound

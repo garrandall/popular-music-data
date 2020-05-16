@@ -1,8 +1,11 @@
 ---
+album: Great Picks & New Traditions
 artists:
 - Roy Clark
+external_ids:
+  spotify: spotify:track:1VcFjojUvIhcfMmFX2gXCR
 features: []
-genres: []
+first_released_as_single: false
 key: come-live-with-me-roy-clark
 lyrics_url: https://genius.com/Roy-clark-come-live-with-me-lyrics
 name: Come Live With Me
@@ -19,6 +22,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1973-06-09'
+release_year: 1973
+runtime: 177106
 ---
 Come live with me and be my love
 Share my bread and wine

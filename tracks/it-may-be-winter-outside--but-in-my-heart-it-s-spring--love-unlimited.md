@@ -1,8 +1,11 @@
 ---
+album: Love Songs
 artists:
 - Love Unlimited
+external_ids:
+  spotify: spotify:track:4tHGsplffm1rxS33yrL59b
 features: []
-genres: []
+first_released_as_single: false
 key: it-may-be-winter-outside--but-in-my-heart-it-s-spring--love-unlimited
 lyrics_url: https://genius.com/Love-unlimited-it-may-be-winter-outside-but-in-my-heart-its-spring-edit-lyrics
 name: It May Be Winter Outside (But In My Heart It's Spring)
@@ -23,6 +26,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1974-01-05'
+release_year: 1973
+runtime: 187733
 ---
 When the temperature dips
 I miss my baby's arms

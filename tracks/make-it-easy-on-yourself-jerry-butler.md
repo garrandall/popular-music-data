@@ -1,8 +1,11 @@
 ---
+album: 'The Vee-Jay Story: Celebrating 40 Years Of Classic Hits'
 artists:
 - Jerry Butler
+external_ids:
+  spotify: spotify:track:7GFZ5xehLR65KbD9koUc4f
 features: []
-genres: []
+first_released_as_single: false
 key: make-it-easy-on-yourself-jerry-butler
 lyrics_url: https://genius.com/Jerry-butler-make-it-easy-on-yourself-lyrics
 name: Make It Easy On Yourself
@@ -51,6 +54,8 @@ rankings:
   rank: 52
   ranking_list: Billboard Hot 100
   start_date: '1962-09-15'
+release_year: 1962
+runtime: 165733
 ---
 Oh, breaking up is so very hard to do!
 

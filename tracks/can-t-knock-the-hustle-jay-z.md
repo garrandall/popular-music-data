@@ -1,8 +1,11 @@
 ---
+album: Reasonable Doubt
 artists:
 - JAY-Z
+external_ids:
+  spotify: spotify:track:05Iawel3maRW3mSHYmXxMZ
 features: []
-genres: []
+first_released_as_single: false
 key: can-t-knock-the-hustle-jay-z
 lyrics_url: https://www.musixmatch.com/lyrics/Jay-Z-feat-Beyonc%C3%A9/Can-t-Knock-the-Hustle
 name: Can't Knock The Hustle
@@ -63,6 +66,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1996-12-14'
+release_year: 1996
+runtime: 317800
 ---
 Bounce. bounce, bounce, Jay-Z huh?
 Yeah, yeah, yeah, Roc-A-Fella y'all, ha ha

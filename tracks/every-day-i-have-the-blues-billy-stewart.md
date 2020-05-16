@@ -1,8 +1,11 @@
 ---
+album: 'One More Time : The Chess Years'
 artists:
 - Billy Stewart
+external_ids:
+  spotify: spotify:track:5RPRoRFsE4cKwnHpuTVeMz
 features: []
-genres: []
+first_released_as_single: false
 key: every-day-i-have-the-blues-billy-stewart
 lyrics_url: https://genius.com/Billy-stewart-every-day-i-have-the-blues-lyrics
 name: Every Day I Have The Blues
@@ -27,6 +30,8 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1967-03-11'
+release_year: 1967
+runtime: 175333
 ---
 Every day
 Every day I have the blues

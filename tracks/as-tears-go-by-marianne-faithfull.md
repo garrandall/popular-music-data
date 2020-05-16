@@ -1,8 +1,11 @@
 ---
+album: Strange Weather
 artists:
 - Marianne Faithfull
+external_ids:
+  spotify: spotify:track:5zyYjd6yeJsO37EHGDhv5M
 features: []
-genres: []
+first_released_as_single: true
 key: as-tears-go-by-marianne-faithfull
 lyrics_url: https://www.azlyrics.com/lyrics/mariannefaithfull/astearsgoby.html
 name: As Tears Go By
@@ -43,8 +46,9 @@ rankings:
   rank: 37
   ranking_list: Billboard Hot 100
   start_date: '1965-01-23'
+release_year: 1964
+runtime: 156186
 ---
-
 It is the evening of the day
 I sit and watch the children play
 Smiling faces I can see
@@ -63,6 +67,3 @@ Doing things I used to do
 They think are new
 I sit and watch as tears go by
 ...
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Native
 artists:
 - OneRepublic
+external_ids:
+  spotify: spotify:track:1YDJ2f1JuKzYWZpRYiBYHu
 features: []
-genres: []
+first_released_as_single: true
 key: if-i-lose-myself-onerepublic
 lyrics_url: https://www.azlyrics.com/lyrics/onerepublic/ifilosemyself.html
 name: If I Lose Myself
@@ -27,8 +30,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2013-05-04'
+release_year: 2013
+runtime: 214066
 ---
-
 I stared up at the sun,
 Thought of all of the people, places and things I've loved.
 I stared up just to see
@@ -74,6 +78,3 @@ Forty thousand feet, keep flying.
 
 Lose myself.
 If I lose myself tonight.
-
-
-

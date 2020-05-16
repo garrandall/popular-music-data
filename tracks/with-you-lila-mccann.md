@@ -1,8 +1,11 @@
 ---
+album: Something In The Air
 artists:
 - Lila McCann
+external_ids:
+  spotify: spotify:track:10OvXiitSHEoxWLulzqG9s
 features: []
-genres: []
+first_released_as_single: false
 key: with-you-lila-mccann
 lyrics_url: https://genius.com/Lila-mccann-with-you-lyrics
 name: With You
@@ -83,6 +86,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1999-08-07'
+release_year: 1999
+runtime: 212360
 ---
 Last night I couldn't sleep
 I found it hard to even breathe

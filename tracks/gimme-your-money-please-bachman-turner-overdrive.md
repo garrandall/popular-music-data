@@ -1,8 +1,11 @@
 ---
+album: Bachman Turner Overdrive
 artists:
 - Bachman-Turner Overdrive
+external_ids:
+  spotify: spotify:track:6sqshZ3VTPTQL2EW5c3WQ9
 features: []
-genres: []
+first_released_as_single: false
 key: gimme-your-money-please-bachman-turner-overdrive
 lyrics_url: https://www.azlyrics.com/lyrics/btobachmanturneroverdrive/gimmeyourmoneyplease.html
 name: Gimme Your Money Please
@@ -27,8 +30,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1976-10-16'
+release_year: 1973
+runtime: 285040
 ---
-
 I was walking on down the alley
 When a face I've never seen
 Came so from deep in the darkness
@@ -87,6 +91,3 @@ He said, "Gimme your money please."
 He said, "Gimme your money please."
 He said, "Gimme your money please."
 (Awww!)
-
-
-

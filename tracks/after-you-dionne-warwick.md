@@ -1,8 +1,11 @@
 ---
+album: Dionne
 artists:
 - Dionne Warwick
+external_ids:
+  spotify: spotify:track:5Cxv11eVuzxA2uQGlEIitQ
 features: []
-genres: []
+first_released_as_single: false
 key: after-you-dionne-warwick
 lyrics_url: https://genius.com/Dionne-warwick-after-you-lyrics
 name: After You
@@ -31,6 +34,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1980-05-03'
+release_year: 1979
+runtime: 241440
 ---
 Some times I tell myself I'm leaving
 And I'd like to think I could really go

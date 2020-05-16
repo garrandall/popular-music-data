@@ -1,8 +1,11 @@
 ---
+album: Just Another Way To Say I Love You
 artists:
 - Barry White
+external_ids:
+  spotify: spotify:track:6VJZL38AyilSCBlqylwSRL
 features: []
-genres: []
+first_released_as_single: false
 key: what-am-i-gonna-do-with-you-barry-white
 lyrics_url: https://genius.com/Barry-white-what-am-i-gonna-do-with-you-lyrics
 name: What Am I Gonna Do With You
@@ -51,6 +54,8 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '1975-05-17'
+release_year: 1975
+runtime: 215333
 ---
 You got to do anything
 You got to do anything

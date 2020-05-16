@@ -1,8 +1,11 @@
 ---
+album: By Request
 artists:
 - Brenda Lee
+external_ids:
+  spotify: spotify:track:5TwBbUyRLMiat8RUkcd6D0
 features: []
-genres: []
+first_released_as_single: false
 key: my-whole-world-is-falling-down-brenda-lee
 lyrics_url: https://www.azlyrics.com/lyrics/brendalee/mywholeworldisfallingdown.html
 name: My Whole World Is Falling Down
@@ -43,8 +46,9 @@ rankings:
   rank: 37
   ranking_list: Billboard Hot 100
   start_date: '1963-08-31'
+release_year: 1963
+runtime: 114106
 ---
-
 My whole world is falling down, falling down, falling down
 My whole world is falling down, I'm losing my baby
 
@@ -66,6 +70,3 @@ My whole world is falling down, I'm losing my baby
 
 My whole world is falling down, falling down, falling down
 My whole world is falling down, I'm losing my baby
-
-
-

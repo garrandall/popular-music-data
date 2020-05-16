@@ -1,8 +1,11 @@
 ---
+album: Happiness Begins
 artists:
 - Jonas Brothers
+external_ids:
+  spotify: spotify:track:0DiDStADDVh3SvAsoJAFMk
 features: []
-genres: []
+first_released_as_single: false
 key: only-human-jonas-brothers
 lyrics_url: https://www.azlyrics.com/lyrics/jonasbrothers/onlyhuman.html
 name: Only Human
@@ -151,8 +154,9 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2020-03-07'
+release_year: 2019
+runtime: 183000
 ---
-
 Yeah, ayy
 
 I don't want this night to end
@@ -210,6 +214,3 @@ Oh, yeah, yeah, yeah
 Only human
 It's only (man), it's only (man)
 Only human
-
-
-

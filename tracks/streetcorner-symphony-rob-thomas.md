@@ -1,8 +1,11 @@
 ---
+album: Something To Be
 artists:
 - Rob Thomas
+external_ids:
+  spotify: spotify:track:20117nklRrpujknMRpueYQ
 features: []
-genres: []
+first_released_as_single: false
 key: streetcorner-symphony-rob-thomas
 lyrics_url: https://www.azlyrics.com/lyrics/robthomas/streetcornersymphony.html
 name: Streetcorner Symphony
@@ -87,8 +90,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2007-02-24'
+release_year: 2005
+runtime: 247826
 ---
-
 It's morning
 I wake up
 The taste of summer sweetness on my mind
@@ -129,6 +133,3 @@ But here and now this is our time
 And I may never find the meaning of life
 But for this moment I am fine
 So
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: El tren de los momentos
 artists:
 - Alejandro Sanz
+external_ids:
+  spotify: spotify:track:3ijypgrX5od1wFDOihARrO
 features: []
-genres: []
+first_released_as_single: false
 key: a-la-primera-persona-alejandro-sanz
 lyrics_url: https://genius.com/Alejandro-sanz-a-la-primera-persona-lyrics
 name: A La Primera Persona
@@ -11,6 +14,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2006-11-25'
+release_year: 2006
+runtime: 301933
 ---
 A la primera persona que me ayude a comprender
 Pienso entregarle mi tiempo, pienso entregarle mi fe

@@ -1,8 +1,11 @@
 ---
+album: Presenting Dionne Warwick
 artists:
 - Dionne Warwick
+external_ids:
+  spotify: spotify:track:5EdGhqHqRIHAb5DSsPVKqE
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-make-me-over-dionne-warwick
 lyrics_url: https://genius.com/Dionne-warwick-dont-make-me-over-lyrics
 name: Don't Make Me Over
@@ -55,6 +58,8 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1963-02-23'
+release_year: 1962
+runtime: 165053
 ---
 Don't make me over
 Now that I'd do anything for you

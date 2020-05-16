@@ -1,8 +1,11 @@
 ---
+album: Back to Front
 artists:
 - Gilbert O'Sullivan
+external_ids:
+  spotify: spotify:track:772P0xStGVB1aopd5aTbKb
 features: []
-genres: []
+first_released_as_single: false
 key: out-of-the-question-gilbert-o-sullivan
 lyrics_url: https://genius.com/Gilbert-osullivan-out-of-the-question-lyrics
 name: Out Of The Question
@@ -67,6 +70,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1973-06-09'
+release_year: 1972
+runtime: 177986
 ---
 One minute you say you will
 And the next you won't

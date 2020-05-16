@@ -1,8 +1,11 @@
 ---
+album: The Dutchess
 artists:
 - Fergie
+external_ids:
+  spotify: spotify:track:3Q4WeJmzxuDpzMu9QjQqbM
 features: []
-genres: []
+first_released_as_single: false
 key: big-girls-don-t-cry-fergie
 lyrics_url: https://genius.com/Fergie-big-girls-dont-cry-personal-lyrics
 name: Big Girls Don't Cry
@@ -199,6 +202,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '2008-03-29'
+release_year: 2006
+runtime: 268120
 ---
 La, da, da, da
 

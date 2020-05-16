@@ -1,8 +1,11 @@
 ---
+album: Can You Tell What It Is Yet?
 artists:
 - Rolf Harris
+external_ids:
+  spotify: spotify:track:2bbyTHrxBLaeXApibjL6Uu
 features: []
-genres: []
+first_released_as_single: false
 key: sun-arise-rolf-harris
 lyrics_url: https://genius.com/Rolf-harris-sun-arise-lyrics
 name: Sun Arise
@@ -35,6 +38,8 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '1963-04-27'
+release_year: 1963
+runtime: 294733
 ---
 Sun arise, she bring in the morning
 Sun arise, bring in the morning, fluttering the skirts all around

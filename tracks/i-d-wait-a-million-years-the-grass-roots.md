@@ -1,8 +1,11 @@
 ---
+album: 'Golden Legends: The Grass Roots'
 artists:
 - The Grass Roots
+external_ids:
+  spotify: spotify:track:6gPupdCItjnUCF6L79VS1U
 features: []
-genres: []
+first_released_as_single: false
 key: i-d-wait-a-million-years-the-grass-roots
 lyrics_url: https://www.musixmatch.com/lyrics/The-Grass-Roots/I-d-Wait-a-Million-Years
 name: I'd Wait A Million Years
@@ -67,6 +70,8 @@ rankings:
   rank: 29
   ranking_list: Billboard Hot 100
   start_date: '1969-10-11'
+release_year: 1969
+runtime: 167866
 ---
 All of the lonely nights
 Waiting for you to come

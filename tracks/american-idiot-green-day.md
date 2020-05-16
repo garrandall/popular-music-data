@@ -1,8 +1,11 @@
 ---
+album: American Idiot
 artists:
 - Green Day
+external_ids:
+  spotify: spotify:track:6nTiIhLmQ3FWhvrGafw2zj
 features: []
-genres: []
+first_released_as_single: false
 key: american-idiot-green-day
 lyrics_url: https://genius.com/Green-day-american-idiot-lyrics
 name: American Idiot
@@ -87,6 +90,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2005-01-01'
+release_year: 2004
+runtime: 176346
 ---
 Don't wanna be an American idiot
 Don't want a nation under the new mania

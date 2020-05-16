@@ -1,8 +1,11 @@
 ---
+album: Irresistible
 artists:
 - Tammi Terrell
+external_ids:
+  spotify: spotify:track:7DdWyBaZwwKr3z9eZyFgto
 features: []
-genres: []
+first_released_as_single: false
 key: i-can-t-believe-you-love-me-tammi-terrell
 lyrics_url: https://genius.com/Tammi-terrell-i-cant-believe-you-love-me-lyrics
 name: I Can't Believe You Love Me
@@ -27,6 +30,8 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1966-02-05'
+release_year: 1966
+runtime: 154906
 ---
 No I can't believe you love me
 No I can't believe you love me

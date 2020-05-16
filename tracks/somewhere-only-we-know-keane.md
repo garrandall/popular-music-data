@@ -1,8 +1,11 @@
 ---
+album: Hopes And Fears
 artists:
 - Keane
+external_ids:
+  spotify: spotify:track:0ll8uFnc0nANY35E0Lfxvg
 features: []
-genres: []
+first_released_as_single: false
 key: somewhere-only-we-know-keane
 lyrics_url: https://www.azlyrics.com/lyrics/keane/somewhereonlyweknow.html
 name: Somewhere Only We Know
@@ -55,8 +58,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2005-04-30'
+release_year: 2004
+runtime: 236160
 ---
-
 I walked across an empty land
 I knew the pathway like the back of my hand
 I felt the earth beneath my feet
@@ -103,6 +107,3 @@ So why don't we go
 Somewhere only we know?
 Somewhere only we know?
 Somewhere only we know?
-
-
-

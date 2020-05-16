@@ -1,8 +1,11 @@
 ---
+album: Best Of
 artists:
 - Bob Lind
+external_ids:
+  spotify: spotify:track:6XB9L1nzsoHvB2igECVjGe
 features: []
-genres: []
+first_released_as_single: false
 key: remember-the-rain-bob-lind
 lyrics_url: https://www.musixmatch.com/lyrics/Bob-Lind/Remember-the-Rain
 name: Remember The Rain
@@ -27,6 +30,8 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1966-05-21'
+release_year: 1966
+runtime: 168733
 ---
 Angel that you are
 You still remember summer walks

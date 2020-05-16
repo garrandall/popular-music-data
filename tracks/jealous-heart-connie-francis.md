@@ -1,8 +1,11 @@
 ---
+album: Gold
 artists:
 - Connie Francis
+external_ids:
+  spotify: spotify:track:4rTszyh3bsd6xy6UpXsFjl
 features: []
-genres: []
+first_released_as_single: false
 key: jealous-heart-connie-francis
 lyrics_url: https://genius.com/Connie-francis-jealous-heart-lyrics
 name: Jealous Heart
@@ -39,6 +42,8 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '1966-01-15'
+release_year: 1965
+runtime: 154586
 ---
 Oh, jealous heart
 Oh jealous heart stop beating

@@ -1,8 +1,11 @@
 ---
+album: B-Movie Matinee
 artists:
 - Nile Rodgers
+external_ids:
+  spotify: spotify:track:1t6970dAHNvTlsF62hou13
 features: []
-genres: []
+first_released_as_single: false
 key: let-s-go-out-tonight-nile-rodgers
 name: Let's Go Out Tonight
 rankings:
@@ -18,5 +21,7 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1985-06-15'
+release_year: 1985
+runtime: 319080
 ---
 

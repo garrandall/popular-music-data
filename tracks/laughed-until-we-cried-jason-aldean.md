@@ -1,8 +1,11 @@
 ---
+album: Relentless
 artists:
 - Jason Aldean
+external_ids:
+  spotify: spotify:track:1nJlb0ZE6uZHk7D8YS7353
 features: []
-genres: []
+first_released_as_single: false
 key: laughed-until-we-cried-jason-aldean
 lyrics_url: https://www.azlyrics.com/lyrics/jasonaldean/laugheduntilwecried.html
 name: Laughed Until We Cried
@@ -71,8 +74,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2008-05-17'
+release_year: 2007
+runtime: 202520
 ---
-
 Going through my closet the other day
 Found an old yearbook, flipped right to the page
 Of that senior trip down there on that Panama strip
@@ -110,6 +114,3 @@ We danced and screamed and held each other tight
 We laughed until we cried 
 (although, the cd cover says Oh man were livin I'll never forget it,
 We danced and kissed and thanked the Lord that night)
-
-
-

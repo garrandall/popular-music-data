@@ -1,8 +1,11 @@
 ---
+album: Spring Session M.
 artists:
 - Missing Persons
+external_ids:
+  spotify: spotify:track:2S3flt2KfOpG7JNmtteAAZ
 features: []
-genres: []
+first_released_as_single: false
 key: words-missing-persons
 lyrics_url: https://genius.com/Missing-persons-words-lyrics
 name: Words
@@ -51,6 +54,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1982-09-11'
+release_year: 1982
+runtime: 267866
 ---
 Do you hear me
 Do you care

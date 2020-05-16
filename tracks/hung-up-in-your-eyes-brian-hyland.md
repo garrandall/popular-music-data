@@ -1,8 +1,11 @@
 ---
+album: Chronology
 artists:
 - Brian Hyland
+external_ids:
+  spotify: spotify:track:6Ke3G3jvDM0k93bvkr4mqm
 features: []
-genres: []
+first_released_as_single: false
 key: hung-up-in-your-eyes-brian-hyland
 lyrics_url: https://www.musixmatch.com/lyrics/Brian-Hyland/Hung-Up-in-Your-Eyes
 name: Hung Up In Your Eyes
@@ -27,6 +30,8 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1967-03-18'
+release_year: 1967
+runtime: 148666
 ---
 Your face is a masterpiece
 A lovely, unusual and unique

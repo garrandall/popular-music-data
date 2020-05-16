@@ -1,8 +1,11 @@
 ---
+album: Infinity On High
 artists:
 - Fall Out Boy
+external_ids:
+  spotify: spotify:track:3Zwu2K0Qa5sT6teCCHPShP
 features: []
-genres: []
+first_released_as_single: false
 key: thnks-fr-th-mmrs-fall-out-boy
 lyrics_url: https://genius.com/Fall-out-boy-thnks-fr-th-mmrs-lyrics
 name: Thnks Fr Th Mmrs
@@ -119,6 +122,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2007-11-03'
+release_year: 2007
+runtime: 203506
 ---
 I'm going to make it bend and break
 (It sent you to me without wings)

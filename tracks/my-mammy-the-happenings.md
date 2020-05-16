@@ -1,8 +1,11 @@
 ---
+album: Psycle
 artists:
 - The Happenings
+external_ids:
+  spotify: spotify:track:7gen818QlnY5REVx0D70mZ
 features: []
-genres: []
+first_released_as_single: false
 key: my-mammy-the-happenings
 lyrics_url: https://www.musixmatch.com/lyrics/The-Happenings/My-Mammy
 name: My Mammy
@@ -39,6 +42,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1967-09-02'
+release_year: 1966
+runtime: 178533
 ---
 Mammy, mammy
 The sun shines east, the sun shines west

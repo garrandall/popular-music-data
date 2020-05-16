@@ -1,8 +1,11 @@
 ---
+album: Who Knows Where The Time Goes
 artists:
 - Judy Collins
+external_ids:
+  spotify: spotify:track:0Cwl389eg6mvLxcaAbV24Z
 features: []
-genres: []
+first_released_as_single: false
 key: someday-soon-judy-collins
 lyrics_url: https://www.azlyrics.com/lyrics/judycollins/somedaysoon.html
 name: Someday Soon
@@ -31,8 +34,9 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '1969-03-08'
+release_year: 1968
+runtime: 226986
 ---
-
 There's a young man that I know, his age is twenty-one
 Comes from down in southern Colorado
 Just out of the service, he's looking for the sun
@@ -59,6 +63,3 @@ He's driving in tonight from California
 He loves his damned old rodeo as much as he loves me
 Someday soon, going with him someday soon
 Someday soon, going with him ...someday soon
-
-
-

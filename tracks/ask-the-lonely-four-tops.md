@@ -1,8 +1,11 @@
 ---
+album: Four Tops
 artists:
 - Four Tops
+external_ids:
+  spotify: spotify:track:5z6CfS8CJ2fnmF5BZ5FCUN
 features: []
-genres: []
+first_released_as_single: false
 key: ask-the-lonely-four-tops
 lyrics_url: https://www.azlyrics.com/lyrics/fourtops/askthelonely.html
 name: Ask The Lonely
@@ -39,9 +42,10 @@ rankings:
   rank: 34
   ranking_list: Billboard Hot 100
   start_date: '1965-03-27'
+release_year: 1965
+runtime: 162653
 ---
-
- Just ask the lonely
+Just ask the lonely
 
 
 When you feel that need
@@ -92,4 +96,3 @@ A story too hard to believe...
 I'm the loneliest one you'll see
 
  Just ask the lonely
-

@@ -1,8 +1,11 @@
 ---
+album: Pioneer
 artists:
 - The Band Perry
+external_ids:
+  spotify: spotify:track:172FxN9bhJFdgnpRep1Ll9
 features: []
-genres: []
+first_released_as_single: true
 key: better-dig-two-the-band-perry
 lyrics_url: https://www.azlyrics.com/lyrics/bandperry/betterdigtwo.html
 name: Better Dig Two
@@ -87,8 +90,9 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '2013-03-30'
+release_year: 2012
+runtime: 192240
 ---
-
 I told you on the day we wed
 I was gonna love you 'til I's dead
 Made you wait 'til our wedding night
@@ -149,6 +153,3 @@ I'm gonna tell the gravedigger that he better dig two
 
 I told you on the day we wed
 I was gonna love you 'til I's dead
-
-
-

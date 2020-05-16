@@ -1,9 +1,12 @@
 ---
+album: Fetty Wap
 artists:
 - Fetty Wap
+external_ids:
+  spotify: spotify:track:74gP1TxJfnFnIqiVFTuOws
 features:
 - Monty
-genres: []
+first_released_as_single: true
 key: jugg-fetty-wap-monty
 lyrics_url: https://www.azlyrics.com/lyrics/fettywap/jugg.html
 name: Jugg
@@ -32,9 +35,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2016-01-16'
+release_year: 2015
+runtime: 199986
 ---
-
-
 (Zoovier)
 Yeah baby ayy
 Oh oh oohaoh
@@ -105,6 +108,3 @@ I'll teach you how to jugg with me, ayy
 I'll teach you how to jugg with me, ayy
 I'll teach you how to jugg baby
 I'll teach you how to jugg with me
-
-
-

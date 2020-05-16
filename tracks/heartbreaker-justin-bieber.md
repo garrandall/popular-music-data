@@ -1,8 +1,11 @@
 ---
+album: Journals
 artists:
 - Justin Bieber
+external_ids:
+  spotify: spotify:track:21pCToQdqcPi879auxjxKe
 features: []
-genres: []
+first_released_as_single: false
 key: heartbreaker-justin-bieber
 lyrics_url: https://www.azlyrics.com/lyrics/justinbieber/heartbreaker.html
 name: Heartbreaker
@@ -15,8 +18,9 @@ rankings:
   rank: 13
   ranking_list: Billboard Hot 100
   start_date: '2013-10-26'
+release_year: 2013
+runtime: 262840
 ---
-
 Girl you don't know how I feel (how I really feel)
 Since you've been away, oh baby
 Any chance that you could take my call (take my call)
@@ -88,6 +92,3 @@ I wanna know if you're feeling, the way that I, the way that I
 You told me to be careful with your heart, your heart
 You told me to be careful with your heart, your heart
 With your heart
-
-
-

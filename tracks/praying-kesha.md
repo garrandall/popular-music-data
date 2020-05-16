@@ -1,8 +1,11 @@
 ---
+album: Rainbow
 artists:
 - Kesha
+external_ids:
+  spotify: spotify:track:0jdny0dhgjUwoIp5GkqEaA
 features: []
-genres: []
+first_released_as_single: false
 key: praying-kesha
 lyrics_url: https://genius.com/Kesha-praying-lyrics
 name: Praying
@@ -91,6 +94,8 @@ rankings:
   rank: 35
   ranking_list: Billboard Hot 100
   start_date: '2017-12-16'
+release_year: 2017
+runtime: 230266
 ---
 Well, you almost had me fooled
 Told me that I was nothing without you

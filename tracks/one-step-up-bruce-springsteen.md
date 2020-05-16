@@ -1,8 +1,11 @@
 ---
+album: Tunnel Of Love
 artists:
 - Bruce Springsteen
+external_ids:
+  spotify: spotify:track:3ICZte49haM8ID7H6LSSjb
 features: []
-genres: []
+first_released_as_single: false
 key: one-step-up-bruce-springsteen
 lyrics_url: https://www.azlyrics.com/lyrics/brucespringsteen/onestepup.html
 name: One Step Up
@@ -67,8 +70,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1988-06-04'
+release_year: 1987
+runtime: 261826
 ---
-
 Woke up this morning my house was cold
 Checked out the furnace she wasn't burnin'
 Went out and hopped in my old Ford
@@ -104,6 +108,3 @@ Last night I dreamed I held you in my arms
 The music was never-ending
 We danced as the evening sky faded to black
 One step up and two steps back
-
-
-

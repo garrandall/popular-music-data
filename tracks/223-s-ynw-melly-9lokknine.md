@@ -1,9 +1,12 @@
 ---
+album: Melly vs. Melvin
 artists:
 - YNW Melly
 - 9lokknine
+external_ids:
+  spotify: spotify:track:4sjiIpEv617LDXaidKioOI
 features: []
-genres: []
+first_released_as_single: true
 key: 223-s-ynw-melly-9lokknine
 lyrics_url: https://www.musixmatch.com/lyrics/YNW-Melly-feat-9lokknine/223-s-9lokknine
 name: 223's
@@ -84,6 +87,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2020-01-25'
+release_year: 2019
+runtime: 176640
 ---
 Oh, this bitch recording?
 

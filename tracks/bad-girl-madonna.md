@@ -1,8 +1,11 @@
 ---
+album: Erotica (PA Version)
 artists:
 - Madonna
+external_ids:
+  spotify: spotify:track:2tySjBBWqam7oaBUZ26oNL
 features: []
-genres: []
+first_released_as_single: false
 key: bad-girl-madonna
 lyrics_url: https://genius.com/Madonna-bad-girl-lyrics
 name: Bad Girl
@@ -51,6 +54,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1993-05-01'
+release_year: 1992
+runtime: 323333
 ---
 Something's missing and I don't know why
 I always feel the need to hide my feelings from you

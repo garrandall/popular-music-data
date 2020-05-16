@@ -1,8 +1,11 @@
 ---
+album: The Second
 artists:
 - Steppenwolf
+external_ids:
+  spotify: spotify:track:4c4jJJoaiY21t2TyRZgdWS
 features: []
-genres: []
+first_released_as_single: false
 key: magic-carpet-ride-steppenwolf
 lyrics_url: https://www.azlyrics.com/lyrics/steppenwolf/magiccarpetride.html
 name: Magic Carpet Ride
@@ -71,8 +74,9 @@ rankings:
   rank: 32
   ranking_list: Billboard Hot 100
   start_date: '1969-01-18'
+release_year: 1968
+runtime: 271573
 ---
-
 I like to dream yes, yes, right between my sound machine
 On a cloud of sound I drift in the night
 Any place it goes is right
@@ -103,6 +107,3 @@ Fantasy will set you free
 Close your eyes girl
 Look inside girl
 Let the sound take you away
-
-
-

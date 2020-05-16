@@ -1,8 +1,11 @@
 ---
+album: Outside Inside
 artists:
 - The Tubes
+external_ids:
+  spotify: spotify:track:4yMA1dHFvvQeWGqPtdiuop
 features: []
-genres: []
+first_released_as_single: false
 key: the-monkey-time-the-tubes
 lyrics_url: https://www.azlyrics.com/lyrics/tubes/themonkeytime.html
 name: The Monkey Time
@@ -23,8 +26,9 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1983-10-22'
+release_year: 1983
+runtime: 233200
 ---
-
 Now there's a place right across town
 Whenever you're ready
 Where the people gather 'round
@@ -107,6 +111,3 @@ Want a whole lot o' love tonight
 Monkey time tonight
 
 Want a whole lot o' love tonight
-
-
-

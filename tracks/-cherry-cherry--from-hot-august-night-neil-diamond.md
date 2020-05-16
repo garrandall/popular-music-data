@@ -1,10 +1,13 @@
 ---
+album: The Bang Years 1966-1968 (The 23 Original Mono Recordings)
 artists:
 - Neil Diamond
+external_ids:
+  spotify: spotify:track:2SS3WeSe24ZqTlTSK4KzQZ
 features: []
-genres: []
+first_released_as_single: false
 key: -cherry-cherry--from-hot-august-night-neil-diamond
-name: '"Cherry Cherry" from Hot August Night'
+name: Cherry Cherry
 rankings:
 - end_date: '1973-03-23'
   rank: 84
@@ -46,5 +49,7 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '1973-05-19'
+release_year: 1968
+runtime: 163906
 ---
 

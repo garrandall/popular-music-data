@@ -1,8 +1,11 @@
 ---
+album: Third Annual Pipe Dream
 artists:
 - Atlanta Rhythm Section
+external_ids:
+  spotify: spotify:track:6WYY0XCuaHNSq5yPHskeVy
 features: []
-genres: []
+first_released_as_single: false
 key: doraville-atlanta-rhythm-section
 lyrics_url: https://www.azlyrics.com/lyrics/atlantarhythmsection/doraville.html
 name: Doraville
@@ -39,8 +42,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1974-11-23'
+release_year: 1974
+runtime: 208213
 ---
-
 Doraville, touch of country in the city
 Doraville, it ain't much, but it's home
 
@@ -71,6 +75,3 @@ Doraville
 Doraville, it's all right, it's all right, it's all right
 Doraville
 Doraville
-
-
-

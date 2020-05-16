@@ -1,8 +1,11 @@
 ---
+album: Anytime
 artists:
 - Henry Paul Band
+external_ids:
+  spotify: spotify:track:38EahDW0CKRoXuGrS6CYhc
 features: []
-genres: []
+first_released_as_single: false
 key: keeping-our-love-alive-henry-paul-band
 name: Keeping Our Love Alive
 rankings:
@@ -46,5 +49,7 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1982-02-13'
+release_year: 1981
+runtime: 235013
 ---
 

@@ -1,8 +1,11 @@
 ---
+album: The Best Of The Shangri-Las
 artists:
 - The Shangri-Las
+external_ids:
+  spotify: spotify:track:1asba4YipSYUk4WY6A2O1g
 features: []
-genres: []
+first_released_as_single: false
 key: maybe-the-shangri-las
 lyrics_url: https://www.azlyrics.com/lyrics/shangrilas/maybe.html
 name: Maybe
@@ -15,8 +18,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1965-01-02'
+release_year: 1964
+runtime: 151373
 ---
-
 Maybe if I pray every night
 You'll come back to me
 And maybe if I cried everyday
@@ -43,6 +47,3 @@ You'll come back to stay
 
 Oh, oh, oh, oh, oh, maybe
 Oh, oh, oh, oh, oh, maybe
-
-
-

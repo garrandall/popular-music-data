@@ -1,8 +1,11 @@
 ---
+album: Camila
 artists:
 - Camila Cabello
+external_ids:
+  spotify: spotify:track:0BlY60NrN0fFWbdW3RW40q
 features: []
-genres: []
+first_released_as_single: true
 key: never-be-the-same-camila-cabello
 lyrics_url: https://www.musixmatch.com/lyrics/Camila-Cabello/Never-Be-the-Same
 name: Never Be The Same
@@ -155,6 +158,8 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '2018-09-08'
+release_year: 2017
+runtime: 227076
 ---
 Something must've gone wrong in my brain
 Got your chemicals all in my veins

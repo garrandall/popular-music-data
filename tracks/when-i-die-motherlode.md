@@ -1,8 +1,11 @@
 ---
+album: When I Die
 artists:
 - Motherlode
+external_ids:
+  spotify: spotify:track:2h7A00Xc3UHDyGSLpKnBxa
 features: []
-genres: []
+first_released_as_single: false
 key: when-i-die-motherlode
 lyrics_url: https://genius.com/Motherlode-when-i-die-lyrics
 name: When I Die
@@ -59,6 +62,8 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '1969-11-01'
+release_year: 1969
+runtime: 202360
 ---
 When I die I hope to be
 A better man then you thought I'd be

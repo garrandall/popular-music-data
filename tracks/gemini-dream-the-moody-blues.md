@@ -1,8 +1,11 @@
 ---
+album: Long Distance Voyager (Expanded)
 artists:
 - The Moody Blues
+external_ids:
+  spotify: spotify:track:7qJySqpQPr0NcZhNlX8BGX
 features: []
-genres: []
+first_released_as_single: false
 key: gemini-dream-the-moody-blues
 lyrics_url: https://www.azlyrics.com/lyrics/moodyblues/geminidream.html
 name: Gemini Dream
@@ -67,8 +70,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1981-09-12'
+release_year: 1981
+runtime: 249546
 ---
-
 Long time, no see
 Short time for you and me
 So fine, so good
@@ -121,6 +125,3 @@ Long time no see
 Short time for you and me
 So fine, so far, so good
 We're on the road, like you knew we would
-
-
-

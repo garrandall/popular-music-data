@@ -1,8 +1,11 @@
 ---
+album: Thank You (Deluxe Version)
 artists:
 - Meghan Trainor
+external_ids:
+  spotify: spotify:track:4QwAqYq8mkWkYC58mSGv7I
 features: []
-genres: []
+first_released_as_single: false
 key: me-too-meghan-trainor
 lyrics_url: https://genius.com/Meghan-trainor-me-too-lyrics
 name: Me Too
@@ -87,6 +90,8 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '2016-10-15'
+release_year: 2016
+runtime: 179933
 ---
 Ow!
 

@@ -1,8 +1,11 @@
 ---
+album: Shelley!
 artists:
 - Shelley Fabares
+external_ids:
+  spotify: spotify:track:6XEW0P64pYXfD06e4oLcWz
 features: []
-genres: []
+first_released_as_single: false
 key: johnny-angel-shelley-fabares
 lyrics_url: https://www.musixmatch.com/lyrics/Shelley-Fabares/Johnny-Angel
 name: Johnny Angel
@@ -67,6 +70,8 @@ rankings:
   rank: 33
   ranking_list: Billboard Hot 100
   start_date: '1962-06-09'
+release_year: 1962
+runtime: 139320
 ---
 (Johnny Angel, Johnny Angel, Johnny Angel)
 Johnny Angel

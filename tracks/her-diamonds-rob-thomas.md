@@ -1,8 +1,11 @@
 ---
+album: cradlesong
 artists:
 - Rob Thomas
+external_ids:
+  spotify: spotify:track:3LtwmK1OfN0dGs9jf3qSjn
 features: []
-genres: []
+first_released_as_single: false
 key: her-diamonds-rob-thomas
 lyrics_url: https://www.azlyrics.com/lyrics/robthomas/herdiamonds.html
 name: Her Diamonds
@@ -87,8 +90,9 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '2009-10-17'
+release_year: 2009
+runtime: 280000
 ---
-
 Oh what the hell she said
 I just can't win for losing
 And she lays back down
@@ -154,6 +158,3 @@ She's down in it
 She tried her best but now she can't win it
 Hard to see them on the ground
 Her diamonds falling down
-
-
-

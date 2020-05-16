@@ -1,8 +1,11 @@
 ---
+album: KIDS SEE GHOSTS
 artists:
 - KIDS SEE GHOSTS
+external_ids:
+  spotify: spotify:track:2I3dW2dCBZAJGj5X21E53k
 features: []
-genres: []
+first_released_as_single: false
 key: kids-see-ghosts-kids-see-ghosts
 lyrics_url: https://genius.com/Kids-see-ghosts-kids-see-ghosts-lyrics
 name: KIDS SEE GHOSTS
@@ -11,6 +14,8 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '2018-06-23'
+release_year: 2018
+runtime: 245098
 ---
 Kids see ghosts sometimes
 Kids see ghosts sometimes

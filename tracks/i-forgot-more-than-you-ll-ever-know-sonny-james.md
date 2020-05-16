@@ -1,8 +1,11 @@
 ---
+album: Sonny
 artists:
 - Sonny James
+external_ids:
+  spotify: spotify:track:3QMloujG5pu38kQxiQxVxE
 features: []
-genres: []
+first_released_as_single: false
 key: i-forgot-more-than-you-ll-ever-know-sonny-james
 lyrics_url: https://www.musixmatch.com/lyrics/Sonny-James/I-Forgot-More-Than-You-ll-Ever-Know
 name: I Forgot More Than You'll Ever Know
@@ -19,6 +22,8 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '1960-02-01'
+release_year: 1957
+runtime: 140213
 ---
 I forgot more than you'll ever know about her
 You think you know the smile on her lips

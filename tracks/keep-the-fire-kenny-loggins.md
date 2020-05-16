@@ -1,8 +1,11 @@
 ---
+album: Keep The Fire
 artists:
 - Kenny Loggins
+external_ids:
+  spotify: spotify:track:1G7qAHMXF6byYff460YqnM
 features: []
-genres: []
+first_released_as_single: false
 key: keep-the-fire-kenny-loggins
 lyrics_url: https://www.azlyrics.com/lyrics/kennyloggins/keepthefire.html
 name: Keep The Fire
@@ -59,8 +62,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1980-05-17'
+release_year: 1979
+runtime: 275733
 ---
-
 There's a river in
 Evening ember glow
 And you're wishing you could see
@@ -106,6 +110,3 @@ Only that you'll be here with me.
 
 While the embers still glow
 We'll be safe till tomorrow.
-
-
-

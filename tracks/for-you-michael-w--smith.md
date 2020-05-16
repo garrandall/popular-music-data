@@ -1,8 +1,11 @@
 ---
+album: Go West Young Man
 artists:
 - Michael W. Smith
+external_ids:
+  spotify: spotify:track:2OiTtw4qqCMKn8dikc6zrn
 features: []
-genres: []
+first_released_as_single: false
 key: for-you-michael-w--smith
 lyrics_url: https://genius.com/Michael-w-smith-i-will-be-here-for-you-lyrics
 name: For You
@@ -51,6 +54,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1991-11-23'
+release_year: 1990
+runtime: 248093
 ---
 When you feel the sunlight
 Fade into the cold night

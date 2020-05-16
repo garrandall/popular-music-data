@@ -1,8 +1,11 @@
 ---
+album: The Yellow Balloon
 artists:
 - The Yellow Balloon
+external_ids:
+  spotify: spotify:track:5fY0sxLDOrM38whFo5SMYO
 features: []
-genres: []
+first_released_as_single: false
 key: yellow-balloon-the-yellow-balloon
 lyrics_url: https://genius.com/The-yellow-balloon-yellow-balloon-lyrics
 name: Yellow Balloon
@@ -47,6 +50,8 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '1967-06-03'
+release_year: 1967
+runtime: 140266
 ---
 I never liked the rain before
 It always made me stay inside

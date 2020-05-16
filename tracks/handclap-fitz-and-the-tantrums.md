@@ -1,8 +1,11 @@
 ---
+album: Fitz and The Tantrums
 artists:
 - Fitz And The Tantrums
+external_ids:
+  spotify: spotify:track:6gonxEicLUPcuJsQOtLGuk
 features: []
-genres: []
+first_released_as_single: true
 key: handclap-fitz-and-the-tantrums
 lyrics_url: https://www.azlyrics.com/lyrics/fitzandthetantrums/handclap.html
 name: HandClap
@@ -87,8 +90,9 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '2017-02-25'
+release_year: 2016
+runtime: 295932
 ---
-
 (Turn it up)
 
 Somebody save your soul 'cause you've been sinning in this city I know
@@ -144,6 +148,3 @@ That I can make your hands clap
 That I can make your hands clap
 That I can make your hands clap
 So can I get a handclap?
-
-
-

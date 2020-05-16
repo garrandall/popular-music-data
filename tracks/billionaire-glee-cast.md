@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music, Volume 4'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:6d5CfH0P84foEd1fkmp7po
 features: []
-genres: []
+first_released_as_single: false
 key: billionaire-glee-cast
 lyrics_url: https://www.azlyrics.com/lyrics/gleecast/billionaire.html
 name: Billionaire
@@ -11,9 +14,9 @@ rankings:
   rank: 28
   ranking_list: Billboard Hot 100
   start_date: '2010-10-09'
+release_year: 2010
+runtime: 211440
 ---
-
-
 I wanna be a billionaire so freakin' bad
 Buy all of the things I never had
 I wanna be on the cover of Forbes magazine
@@ -106,6 +109,3 @@ Oh oh oh oh
 
 I wanna be a billionaire
 So freakin' bad
-
-
-

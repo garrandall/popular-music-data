@@ -1,8 +1,11 @@
 ---
+album: Uplifting Songs
 artists:
 - The Doors
+external_ids:
+  spotify: spotify:track:1WAY28vj2tclESQYcRUMvH
 features: []
-genres: []
+first_released_as_single: false
 key: gloria-the-doors
 lyrics_url: https://genius.com/The-doors-gloria-lyrics
 name: Gloria
@@ -35,6 +38,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1984-01-14'
+release_year: 1983
+runtime: 604053
 ---
 Yeah, right
 

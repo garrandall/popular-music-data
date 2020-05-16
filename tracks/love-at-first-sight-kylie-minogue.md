@@ -1,8 +1,11 @@
 ---
+album: Kylie
 artists:
 - Kylie Minogue
+external_ids:
+  spotify: spotify:track:36g1NSIQ8sNcIQWr8gI4ON
 features: []
-genres: []
+first_released_as_single: false
 key: love-at-first-sight-kylie-minogue
 lyrics_url: https://www.azlyrics.com/lyrics/kylieminogue/loveatfirstsight.html
 name: Love At First Sight
@@ -71,8 +74,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2002-10-12'
+release_year: 1988
+runtime: 191853
 ---
-
 Thought that I was going crazy
 Just having one those days yeah
 Didn't know what to do
@@ -105,6 +109,3 @@ And everything went from wrong to right
 And the stars came out and filled up the sky
 The music you were playing really blew my mind
 It was love at first sight
-
-
-

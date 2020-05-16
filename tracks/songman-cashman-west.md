@@ -1,9 +1,12 @@
 ---
+album: The Am-fm Blues (Their Very Best)
 artists:
 - Cashman
 - West
+external_ids:
+  spotify: spotify:track:2hsC9lj7ZtXUEn74bxBEAj
 features: []
-genres: []
+first_released_as_single: false
 key: songman-cashman-west
 lyrics_url: https://genius.com/Cashman-and-west-songman-lyrics
 name: Songman
@@ -36,6 +39,8 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '1973-02-10'
+release_year: 1972
+runtime: 220197
 ---
 Songman, sing your song
 Until the morning comes

@@ -1,8 +1,11 @@
 ---
+album: Goodbye & Good Riddance
 artists:
 - Juice WRLD
+external_ids:
+  spotify: spotify:track:3oDkdAySo1VQQG0ptV7uwa
 features: []
-genres: []
+first_released_as_single: false
 key: lean-wit-me-juice-wrld
 lyrics_url: https://www.azlyrics.com/lyrics/juicewrld/leanwitme.html
 name: Lean Wit Me
@@ -39,8 +42,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2018-10-06'
+release_year: 2018
+runtime: 175755
 ---
-
 Drugs got me sweatin', but the room gettin' colder
 Lookin' at the devil and the angel on my shoulder
 Will I die tonight? I don't know, is it over?
@@ -98,6 +102,3 @@ Lean with me, pop with me
 Get high with me if you rock with me
 Smoke with me, drink with me
 Fucked up liver with some bad kidneys (Bad kidneys)
-
-
-

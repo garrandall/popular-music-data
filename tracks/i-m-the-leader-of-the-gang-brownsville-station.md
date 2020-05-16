@@ -1,8 +1,11 @@
 ---
+album: School Punks
 artists:
 - Brownsville Station
+external_ids:
+  spotify: spotify:track:38GNgypSKlbztsE4DSp0Ic
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-the-leader-of-the-gang-brownsville-station
 lyrics_url: https://www.musixmatch.com/lyrics/Brownsville-Station/I-m-the-Leader-of-the-Gang
 name: I'm The Leader Of The Gang
@@ -39,6 +42,8 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '1974-07-13'
+release_year: 1974
+runtime: 200440
 ---
 Oh, look out
 Out of the way

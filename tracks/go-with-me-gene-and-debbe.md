@@ -1,8 +1,11 @@
 ---
+album: Playboy
 artists:
 - Gene And Debbe
+external_ids:
+  spotify: spotify:track:76TIRbq0sMsX2RIq1KNQI9
 features: []
-genres: []
+first_released_as_single: false
 key: go-with-me-gene-and-debbe
 name: Go With Me
 rankings:
@@ -30,5 +33,7 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1967-11-18'
+release_year: 1967
+runtime: 145200
 ---
 

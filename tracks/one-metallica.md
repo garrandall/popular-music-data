@@ -1,8 +1,11 @@
 ---
+album: '...And Justice for All (Remastered Deluxe Box Set)'
 artists:
 - Metallica
+external_ids:
+  spotify: spotify:track:0LAcM6I7ijW4VVW0aytl1t
 features: []
-genres: []
+first_released_as_single: false
 key: one-metallica
 lyrics_url: https://genius.com/Metallica-one-lyrics
 name: One
@@ -67,6 +70,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1989-05-27'
+release_year: 1988
+runtime: 446145
 ---
 I can't remember anything
 Can't tell if this is true or a dream

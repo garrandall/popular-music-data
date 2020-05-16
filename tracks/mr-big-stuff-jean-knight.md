@@ -1,8 +1,11 @@
 ---
+album: Mr. Big Stuff
 artists:
 - Jean Knight
+external_ids:
+  spotify: spotify:track:2Bls0igCm79XQQ95IoUbhq
 features: []
-genres: []
+first_released_as_single: false
 key: mr-big-stuff-jean-knight
 lyrics_url: https://www.musixmatch.com/lyrics/Jean-Knight/Mr-Big-Stuff
 name: Mr Big Stuff
@@ -71,6 +74,8 @@ rankings:
   rank: 21
   ranking_list: Billboard Hot 100
   start_date: '1971-09-11'
+release_year: 1971
+runtime: 164560
 ---
 (Oh yeah)(Oh)
 Mr. Big Stuff

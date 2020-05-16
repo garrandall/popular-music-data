@@ -1,8 +1,11 @@
 ---
+album: Very Best Of Freddie And The Dreamers
 artists:
 - Freddie And The Dreamers
+external_ids:
+  spotify: spotify:track:6Y609znJunsJnpW0RYf7iR
 features: []
-genres: []
+first_released_as_single: false
 key: do-the-freddie-freddie-and-the-dreamers
 lyrics_url: https://genius.com/Freddie-and-the-dreamers-do-the-freddie-lyrics
 name: Do The Freddie
@@ -39,6 +42,8 @@ rankings:
   rank: 26
   ranking_list: Billboard Hot 100
   start_date: '1965-06-12'
+release_year: 1965
+runtime: 121960
 ---
 Hear the happy feet dancing to the beat of the Freddie (Freddie)
 Put a guy in front make a line in back then you're ready (ready)

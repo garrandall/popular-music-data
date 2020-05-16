@@ -1,8 +1,11 @@
 ---
+album: The Net
 artists:
 - Little River Band
+external_ids:
+  spotify: spotify:track:4LfWMwJSjyVj0kPJHecc69
 features: []
-genres: []
+first_released_as_single: false
 key: you-re-driving-me-out-of-my-mind-little-river-band
 lyrics_url: https://genius.com/Little-river-band-youre-driving-me-out-of-my-mind-lyrics
 name: You're Driving Me Out Of My Mind
@@ -51,6 +54,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1983-10-01'
+release_year: 1983
+runtime: 313160
 ---
 Feeling bluesy, you know you do confuse me all night
 I sit at home alone and wonder if you're all right

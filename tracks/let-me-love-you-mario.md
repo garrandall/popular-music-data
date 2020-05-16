@@ -1,8 +1,11 @@
 ---
+album: Turning Point
 artists:
 - Mario
+external_ids:
+  spotify: spotify:track:3ibKnFDaa3GhpPGlOUj7ff
 features: []
-genres: []
+first_released_as_single: true
 key: let-me-love-you-mario
 lyrics_url: https://genius.com/Mario-let-me-love-you-lyrics
 name: Let Me Love You
@@ -151,6 +154,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '2005-06-25'
+release_year: 2004
+runtime: 256733
 ---
 Mmm, ah
 Mmm, yeah

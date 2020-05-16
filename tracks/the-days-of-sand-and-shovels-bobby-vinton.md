@@ -1,8 +1,11 @@
 ---
+album: Vinton
 artists:
 - Bobby Vinton
+external_ids:
+  spotify: spotify:track:3glPdKy9ystj2fKTMCPfA8
 features: []
-genres: []
+first_released_as_single: false
 key: the-days-of-sand-and-shovels-bobby-vinton
 lyrics_url: https://www.azlyrics.com/lyrics/bobbyvinton/thedaysofsandandshovels.html
 name: The Days Of Sand And Shovels
@@ -39,8 +42,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1969-08-02'
+release_year: 1969
+runtime: 225160
 ---
-
 When I noticed her the first time 
 I was outside running barefoot in the rain 
 She lived in the house next door 
@@ -82,6 +86,3 @@ And I've loved her since every doll was shirley Temple
 Soda pop was still a nickel 
 Jam was on her fingertips 
 Milk was circled on her lips
-
-
-

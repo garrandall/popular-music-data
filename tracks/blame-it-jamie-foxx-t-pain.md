@@ -1,9 +1,12 @@
 ---
+album: Intuition
 artists:
 - Jamie Foxx
+external_ids:
+  spotify: spotify:track:08uGhvS5MfBk7crUCpnjva
 features:
 - T-Pain
-genres: []
+first_released_as_single: false
 key: blame-it-jamie-foxx-t-pain
 lyrics_url: https://genius.com/Jamie-foxx-blame-it-lyrics
 name: Blame It
@@ -116,6 +119,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '2009-08-01'
+release_year: 2008
+runtime: 289746
 ---
 Deep
 Blame it on the Goose, gotcha feelin' loose

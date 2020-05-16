@@ -1,9 +1,12 @@
 ---
+album: Black Panther The Album Music From And Inspired By
 artists:
 - The Weeknd
 - Kendrick Lamar
+external_ids:
+  spotify: spotify:track:5k9YFf1kIUBHs8vlZXYJTQ
 features: []
-genres: []
+first_released_as_single: false
 key: pray-for-me-the-weeknd-kendrick-lamar
 lyrics_url: https://www.azlyrics.com/lyrics/weeknd/prayforme.html
 name: Pray For Me
@@ -88,8 +91,9 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '2018-06-30'
+release_year: 2018
+runtime: 211440
 ---
-
 Oh, oh, oh, oh
 
 
@@ -156,6 +160,3 @@ Just in case my faith go, I'll live by my own law
 I'll live by my own law, I'll live by my own
 Just in case my faith go, I'll live by my own law
 I'll live by my own law, I'll live by my own
-
-
-

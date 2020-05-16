@@ -1,8 +1,11 @@
 ---
+album: Purpose
 artists:
 - Justin Bieber
+external_ids:
+  spotify: spotify:track:2IjyFRCRn8x1bEquOM3vxg
 features: []
-genres: []
+first_released_as_single: false
 key: purpose-justin-bieber
 lyrics_url: https://www.azlyrics.com/lyrics/justinbieber/purpose.html
 name: Purpose
@@ -35,8 +38,9 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2016-01-16'
+release_year: 2015
+runtime: 210160
 ---
-
 Feeling like I'm breathing my last breath
 Feeling like I'm walking my last steps
 Look at all of these tears I've wept
@@ -76,6 +80,3 @@ I don't know if this is wrong, because someone else is telling me that it's wron
 You can't be hard on yourself for it, these are the cards you were given so you have to understand that's not who you are. You know you're trying to be the best you can be, but that's all you can do. If you don't give it all you got, you're only cheating yourself give it all you got but if it ends up happening, it ends up happening
 
 That's what happening with me, it's like "God, I'm giving it all I've got, sometimes I'm weak and I'm going to do it." And it's like I'm not giving myself grace, I'm just like understanding that's how it is
-
-
-

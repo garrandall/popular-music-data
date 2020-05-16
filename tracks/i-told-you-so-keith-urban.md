@@ -1,8 +1,11 @@
 ---
+album: Love, Pain & The Whole Crazy Thing
 artists:
 - Keith Urban
+external_ids:
+  spotify: spotify:track:6sLOx9Y61JMhnScunGzo4g
 features: []
-genres: []
+first_released_as_single: false
 key: i-told-you-so-keith-urban
 lyrics_url: https://genius.com/Keith-urban-i-told-you-so-lyrics
 name: I Told You So
@@ -71,6 +74,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2007-09-08'
+release_year: 2006
+runtime: 266600
 ---
 You said you needed your space
 I wasn't where you wanted to be

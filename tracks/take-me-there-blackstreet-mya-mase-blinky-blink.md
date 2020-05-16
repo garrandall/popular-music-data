@@ -1,11 +1,14 @@
 ---
+album: 'Music From The Motion Picture: The Rugrats Movie'
 artists:
 - BLACKstreet
 - Mya
+external_ids:
+  spotify: spotify:track:4TQOC2AhsD96oPxAC6NB6w
 features:
 - Mase
 - Blinky Blink
-genres: []
+first_released_as_single: false
 key: take-me-there-blackstreet-mya-mase-blinky-blink
 lyrics_url: https://genius.com/Blackstreet-and-mya-take-me-there-lyrics
 name: Take Me There
@@ -78,6 +81,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1999-03-27'
+release_year: 1998
+runtime: 243000
 ---
 Take me there, I wanna go there
 Take me there, Let's go there
@@ -126,4 +131,3 @@ So take the time of day
 And we'll find the place
 And I guarantee that we will all get home safe
 Just Take me there!
-

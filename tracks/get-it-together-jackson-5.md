@@ -1,8 +1,11 @@
 ---
+album: Get It Together
 artists:
 - Jackson 5
+external_ids:
+  spotify: spotify:track:3EfbMcO1IKgofdn6dyHFd3
 features: []
-genres: []
+first_released_as_single: false
 key: get-it-together-jackson-5
 lyrics_url: https://www.azlyrics.com/lyrics/jackson5/getittogether.html
 name: Get It Together
@@ -59,8 +62,9 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '1973-11-24'
+release_year: 1973
+runtime: 168013
 ---
-
 You better get it together
 Or leave it alone
 If you don't want my lovin'
@@ -108,6 +112,3 @@ Throwin' this heart of mine all away
 Oh, big girl you know I love you
 To keep a love like mine is hard this day
 All ya gotta do, girl
-
-
-

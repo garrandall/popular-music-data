@@ -1,8 +1,11 @@
 ---
+album: The Album
 artists:
 - DJ Company
+external_ids:
+  spotify: spotify:track:73qjbJcnWtMySl3HIvgnd4
 features: []
-genres: []
+first_released_as_single: false
 key: rhythm-of-love-dj-company
 lyrics_url: https://www.musixmatch.com/lyrics/DJ-Company/Rhythm-of-Love
 name: Rhythm Of Love
@@ -83,6 +86,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1998-01-24'
+release_year: 1995
+runtime: 230360
 ---
 CHORUS:
 And if you feel the need

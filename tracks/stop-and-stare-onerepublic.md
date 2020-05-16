@@ -1,8 +1,11 @@
 ---
+album: Dreaming Out Loud
 artists:
 - OneRepublic
+external_ids:
+  spotify: spotify:track:48s0QHJgmiNsth3WEO6U4M
 features: []
-genres: []
+first_released_as_single: false
 key: stop-and-stare-onerepublic
 lyrics_url: https://genius.com/Onerepublic-stop-and-stare-lyrics
 name: Stop And Stare
@@ -131,6 +134,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2008-07-26'
+release_year: 2007
+runtime: 223853
 ---
 This town is colder now, I think it's sick of us
 It's time to make our move, I'm shaking off the rust

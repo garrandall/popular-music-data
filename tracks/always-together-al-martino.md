@@ -1,8 +1,11 @@
 ---
+album: We Could
 artists:
 - Al Martino
+external_ids:
+  spotify: spotify:track:2iBsIDqzSg9tTE0zfmLPdf
 features: []
-genres: []
+first_released_as_single: false
 key: always-together-al-martino
 lyrics_url: https://genius.com/Al-martino-always-together-lyrics
 name: Always Together
@@ -39,6 +42,8 @@ rankings:
   rank: 33
   ranking_list: Billboard Hot 100
   start_date: '1964-10-03'
+release_year: 1964
+runtime: 158560
 ---
 Always together, until forever
 Leaving the dreams that we share

@@ -1,8 +1,11 @@
 ---
+album: With Teeth
 artists:
 - Nine Inch Nails
+external_ids:
+  spotify: spotify:track:0ypg59NyOVCpWVzd0SUsT5
 features: []
-genres: []
+first_released_as_single: false
 key: every-day-is-exactly-the-same-nine-inch-nails
 lyrics_url: https://www.azlyrics.com/lyrics/nineinchnails/everydayisexactlythesame.html
 name: Every Day Is Exactly The Same
@@ -11,8 +14,9 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '2006-04-22'
+release_year: 2005
+runtime: 294893
 ---
-
 I believe I can see the future
 Cause I repeat the same routine
 I think I used to have a purpose
@@ -48,4 +52,3 @@ I'm still inside here
 A little bit comes bleeding through
 I wish this could have been any other way
 But I just don't know, I don't know what else I can do
-

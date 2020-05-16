@@ -1,8 +1,11 @@
 ---
+album: I Don't Know How To Love Him
 artists:
 - Helen Reddy
+external_ids:
+  spotify: spotify:track:0tA6LjhrON1eOtWI0URxSp
 features: []
-genres: []
+first_released_as_single: false
 key: i-don-t-know-how-to-love-him-helen-reddy
 lyrics_url: https://genius.com/Helen-reddy-i-dont-know-how-to-love-him-lyrics
 name: I Don't Know How To Love Him
@@ -87,6 +90,8 @@ rankings:
   rank: 32
   ranking_list: Billboard Hot 100
   start_date: '1971-07-03'
+release_year: 1971
+runtime: 198800
 ---
 I don't know how to love him
 What to do, how to move him

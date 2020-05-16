@@ -1,8 +1,11 @@
 ---
+album: Speak Now
 artists:
 - Taylor Swift
+external_ids:
+  spotify: spotify:track:74WBGgUnpKrJXt6TETfR6Z
 features: []
-genres: []
+first_released_as_single: false
 key: never-grow-up-taylor-swift
 lyrics_url: https://www.azlyrics.com/lyrics/taylorswift/nevergrowup.html
 name: Never Grow Up
@@ -11,8 +14,9 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '2010-11-13'
+release_year: 2010
+runtime: 290466
 ---
-
 Your little hand's wrapped around my finger
 And it's so quiet in the world tonight
 Your little eyelids flutter cause you're dreaming
@@ -71,6 +75,3 @@ Won't let no one break your heart
 And even though you want to, please try to never grow up
 Oh, don't you ever grow up
 Oh, never grow up, just never grow up
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Shaft
 artists:
 - Isaac Hayes
+external_ids:
+  spotify: spotify:track:5OeM9OI2hYiwnXuZirlu5c
 features: []
-genres: []
+first_released_as_single: false
 key: do-your-thing-isaac-hayes
 lyrics_url: https://genius.com/Isaac-hayes-do-your-thing-lyrics
 name: Do Your Thing
@@ -51,6 +54,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1972-05-06'
+release_year: 1971
+runtime: 1170573
 ---
 If the music make you move
 Cause you can dig the groove

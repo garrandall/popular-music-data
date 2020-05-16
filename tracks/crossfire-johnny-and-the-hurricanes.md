@@ -1,8 +1,11 @@
 ---
+album: Red River Rock
 artists:
 - Johnny And The Hurricanes
+external_ids:
+  spotify: spotify:track:2vtwtoBpOMHIP0cgj87cWx
 features: []
-genres: []
+first_released_as_single: false
 key: crossfire-johnny-and-the-hurricanes
 name: Crossfire
 rankings:
@@ -62,5 +65,7 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '1959-07-27'
+release_year: 1959
+runtime: 151706
 ---
 

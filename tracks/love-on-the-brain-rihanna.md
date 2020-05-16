@@ -1,8 +1,11 @@
 ---
+album: ANTI
 artists:
 - Rihanna
+external_ids:
+  spotify: spotify:track:5oO3drDxtziYU2H1X23ZIp
 features: []
-genres: []
+first_released_as_single: false
 key: love-on-the-brain-rihanna
 lyrics_url: https://www.azlyrics.com/lyrics/rihanna/loveonthebrain.html
 name: Love On The Brain
@@ -131,8 +134,9 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '2017-06-03'
+release_year: 2016
+runtime: 224000
 ---
-
 And you got me like oh
 What you want from me?
 (What you want from me?)
@@ -142,7 +146,7 @@ You love when I fall apart, fall apart
 So you can put me together
 And throw me against the wall
 
-Baby, you got me like i-i-i-i-i-i-i-i-i-hiii, woo i-i-i-i-i-i-i-i-i-hiii
+Baby, you got me like
 Don't you stop loving me, loving me
 Don't quit loving me, loving me
 Just start loving me, loving me
@@ -170,7 +174,7 @@ Got me like ah-ah-ah-ow
 I'm tired of being played like a violin
 What do I gotta do to get in your motherfuckin' heart?
 
-Baby like i-i-i-i-i-i-i-i-i-hiii, woo i-i-i-i-i-i-i-i-i-hiii
+Baby like
 Don't you stop loving me, loving me
 Don't quit loving me, loving me
 Just start loving me, loving me
@@ -189,6 +193,3 @@ No matter what I do
 I'm no good without you
 And I can't get enough
 Must be love on the brain
-
-
-

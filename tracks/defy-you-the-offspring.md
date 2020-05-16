@@ -1,8 +1,11 @@
 ---
+album: Greatest Hits
 artists:
 - The Offspring
+external_ids:
+  spotify: spotify:track:5VBVIcMh6CWy8szP3U0Ttp
 features: []
-genres: []
+first_released_as_single: false
 key: defy-you-the-offspring
 lyrics_url: https://www.azlyrics.com/lyrics/offspring/defyyou.html
 name: Defy You
@@ -51,8 +54,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2002-03-16'
+release_year: 2002
+runtime: 228240
 ---
-
 You may push me around
 But you cannot win
 You may throw me down
@@ -86,6 +90,3 @@ Can you leave it all behind?
 Can you leave it all behind?
 Cause you can't go back
 You can't go back
-
-
-

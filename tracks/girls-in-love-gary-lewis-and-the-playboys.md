@@ -1,8 +1,11 @@
 ---
+album: New Directions
 artists:
 - Gary Lewis And The Playboys
+external_ids:
+  spotify: spotify:track:0YeUGDBbsmueeUoL3VfPkb
 features: []
-genres: []
+first_released_as_single: false
 key: girls-in-love-gary-lewis-and-the-playboys
 lyrics_url: https://genius.com/Gary-lewis-and-the-playboys-girls-in-love-lyrics
 name: Girls In Love
@@ -31,6 +34,8 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '1967-06-17'
+release_year: 1967
+runtime: 150400
 ---
 Speaking of all those girls in love
 With a guy in their eye, they're lookin' so adorable

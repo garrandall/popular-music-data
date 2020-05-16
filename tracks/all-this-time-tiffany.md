@@ -1,8 +1,11 @@
 ---
+album: Hold An Old Friend's Hand
 artists:
 - Tiffany
+external_ids:
+  spotify: spotify:track:5jzDnEoTtwzvJfvVx52rDC
 features: []
-genres: []
+first_released_as_single: false
 key: all-this-time-tiffany
 lyrics_url: https://genius.com/Tiffany-all-this-time-lyrics
 name: All This Time
@@ -91,6 +94,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1989-03-25'
+release_year: 1988
+runtime: 261906
 ---
 All this time
 I knew someday you'd need to find

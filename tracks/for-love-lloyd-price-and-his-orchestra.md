@@ -1,8 +1,11 @@
 ---
+album: The Best Of Lloyd Price
 artists:
 - Lloyd Price
+external_ids:
+  spotify: spotify:track:3NLX1PKEXHWSJoa20PJ0EB
 features: []
-genres: []
+first_released_as_single: false
 key: for-love-lloyd-price-and-his-orchestra
 lyrics_url: https://www.musixmatch.com/lyrics/Lloyd-Price/For-Love
 name: For Love
@@ -31,6 +34,8 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1960-06-06'
+release_year: 1960
+runtime: 141036
 ---
 (For love)
 Honey may I change your name

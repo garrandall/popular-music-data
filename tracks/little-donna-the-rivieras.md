@@ -1,8 +1,11 @@
 ---
+album: California Sun - the Best of the Rivieras
 artists:
 - The Rivieras
+external_ids:
+  spotify: spotify:track:0j36IBRfwm1Vvwz2q7Ve29
 features: []
-genres: []
+first_released_as_single: false
 key: little-donna-the-rivieras
 lyrics_url: https://genius.com/The-rivieras-little-donna-lyrics
 name: Little Donna
@@ -19,6 +22,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1964-05-16'
+release_year: 1963
+runtime: 127000
 ---
 I got a baby that I call my Little Donna
 Well, she knows just what I wanna

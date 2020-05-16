@@ -1,8 +1,11 @@
 ---
+album: Stay Awhile / I Only Want To Be With You
 artists:
 - Dusty Springfield
+external_ids:
+  spotify: spotify:track:39kie4P9r2qYp5AgE41gRw
 features: []
-genres: []
+first_released_as_single: false
 key: stay-awhile-dusty-springfield
 lyrics_url: https://genius.com/Dusty-springfield-stay-awhile-lyrics
 name: Stay Awhile
@@ -35,6 +38,8 @@ rankings:
   rank: 38
   ranking_list: Billboard Hot 100
   start_date: '1964-05-09'
+release_year: 1964
+runtime: 118626
 ---
 Stay awhile, let me hold you
 Stay awhile, 'til I've told you, oh, oh

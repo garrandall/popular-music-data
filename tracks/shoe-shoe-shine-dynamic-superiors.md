@@ -1,8 +1,11 @@
 ---
+album: The Dynamic Superiors
 artists:
 - Dynamic Superiors
+external_ids:
+  spotify: spotify:track:4p8Vhi8qJfQYuIHPGSMimd
 features: []
-genres: []
+first_released_as_single: false
 key: shoe-shoe-shine-dynamic-superiors
 lyrics_url: https://www.musixmatch.com/lyrics/The-Dynamic-Superiors/Shoe-Shoe-Shine
 name: Shoe Shoe Shine
@@ -35,6 +38,8 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1974-12-14'
+release_year: 1974
+runtime: 225786
 ---
 First of all
 Let's get one thing straight

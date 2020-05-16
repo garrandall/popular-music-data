@@ -1,8 +1,11 @@
 ---
+album: Three for Love
 artists:
 - Shalamar
+external_ids:
+  spotify: spotify:track:0WttIjTeQtigU0UD02ZCUw
 features: []
-genres: []
+first_released_as_single: false
 key: full-of-fire-shalamar
 lyrics_url: https://www.azlyrics.com/lyrics/shalamar/fulloffire.html
 name: Full Of Fire
@@ -55,8 +58,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1981-03-07'
+release_year: 1980
+runtime: 372626
 ---
-
 You came into my life
 When I was lost and all alone
 With no one to call my own
@@ -161,6 +165,3 @@ Your love is full of fire
 Burnin'
 Your love is full of fire
 Can't stop
-
-
-

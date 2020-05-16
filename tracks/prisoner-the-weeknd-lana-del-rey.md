@@ -1,9 +1,12 @@
 ---
+album: Beauty Behind The Madness
 artists:
 - The Weeknd
+external_ids:
+  spotify: spotify:track:1gZADNt16Oh23jWyMYRk4p
 features:
 - Lana Del Rey
-genres: []
+first_released_as_single: false
 key: prisoner-the-weeknd-lana-del-rey
 lyrics_url: https://www.azlyrics.com/lyrics/weeknd/prisoner.html
 name: Prisoner
@@ -20,9 +23,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2015-10-03'
+release_year: 2015
+runtime: 274960
 ---
-
-
 You bring good to my lonely life, honestly
 It's hard for me to look into your eyes
 When, I say that I would be nothing without your love
@@ -65,6 +68,3 @@ Oh, oh oh
 I don't know
 I get so wrapped up in a world where nothing's as it seems
 And real life is stranger than my dreams, hm
-
-
-

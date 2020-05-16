@@ -1,8 +1,11 @@
 ---
+album: Primitive Cool
 artists:
 - Mick Jagger
+external_ids:
+  spotify: spotify:track:5amJrR2DUoxEHCMomzhgkE
 features: []
-genres: []
+first_released_as_single: false
 key: let-s-work-mick-jagger
 lyrics_url: https://www.azlyrics.com/lyrics/mickjagger/letswork.html
 name: Let's Work
@@ -43,8 +46,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1987-11-07'
+release_year: 1987
+runtime: 291173
 ---
-
 No sitting down on your butt
 The world don't owe you
 No sitting down in a rut
@@ -104,6 +108,3 @@ Get down in the dirt
 Take off your shirt
 Get down in the dirt
 Let's work
-
-
-

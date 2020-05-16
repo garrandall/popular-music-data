@@ -1,8 +1,11 @@
 ---
+album: Mountain High Valley Low (U.S. Version)
 artists:
 - Yolanda Adams
+external_ids:
+  spotify: spotify:track:4cNbCWPJjLHP5ijow5LbVg
 features: []
-genres: []
+first_released_as_single: false
 key: open-my-heart-yolanda-adams
 lyrics_url: https://www.azlyrics.com/lyrics/yolandaadams/openmyheart.html
 name: Open My Heart
@@ -87,8 +90,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2001-01-06'
+release_year: 1999
+runtime: 340040
 ---
-
 Mmm, oh, talk to me
 Ohhh, oh, oh, talk to me
 
@@ -167,6 +171,3 @@ You're the lover of my soul
 The captain of my sea
 I need a word from you
 That's why I open up my heart
-
-
-

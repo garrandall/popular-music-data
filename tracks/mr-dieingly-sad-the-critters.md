@@ -1,8 +1,11 @@
 ---
+album: TRACKS
 artists:
 - The Critters
+external_ids:
+  spotify: spotify:track:4lgkyAvwudA9fcjmOKM706
 features: []
-genres: []
+first_released_as_single: false
 key: mr-dieingly-sad-the-critters
 lyrics_url: https://genius.com/The-critters-mr-dieingly-sad-lyrics
 name: Mr Dieingly Sad
@@ -51,6 +54,8 @@ rankings:
   rank: 36
   ranking_list: Billboard Hot 100
   start_date: '1966-10-22'
+release_year: 1966
+runtime: 172434
 ---
 Just a breeze will muss your hair
 But you smile away each little care

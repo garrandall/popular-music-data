@@ -1,9 +1,12 @@
 ---
+album: Rock Steady
 artists:
 - No Doubt
+external_ids:
+  spotify: spotify:track:2QsoVMTKj5m5kgztTOep98
 features:
 - Bounty Killer
-genres: []
+first_released_as_single: false
 key: hey-baby-no-doubt-bounty-killer
 lyrics_url: https://genius.com/No-doubt-hey-baby-lyrics
 name: Hey Baby
@@ -88,6 +91,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2002-04-20'
+release_year: 2001
+runtime: 207040
 ---
 Hey baby, hey baby, hey!
 Girls say, boys say:

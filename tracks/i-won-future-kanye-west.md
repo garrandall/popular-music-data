@@ -1,9 +1,12 @@
 ---
+album: Honest
 artists:
 - Future
+external_ids:
+  spotify: spotify:track:5phs2cWm2aWM2vXmTCITvc
 features:
 - Kanye West
-genres: []
+first_released_as_single: false
 key: i-won-future-kanye-west
 lyrics_url: https://www.azlyrics.com/lyrics/future/iwon.html
 name: I Won
@@ -20,9 +23,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2014-06-14'
+release_year: 2014
+runtime: 240013
 ---
-
-
 I just want to take you out and show you off
 You already know that you the perfect one
 Girl when I'm with you, feel like a champion
@@ -72,4 +75,3 @@ My trophy on that Bound bike, I gave you only pipe
 If people don't hate then it won't be right
 You could look at Kylie, Kendall, Kourtney and Khloe
 All your Mama ever made was trophies, right?
-

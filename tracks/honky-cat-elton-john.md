@@ -1,8 +1,11 @@
 ---
+album: Honky Chateau
 artists:
 - Elton John
+external_ids:
+  spotify: spotify:track:1plcM0XlbKdjND7Ufokuzb
 features: []
-genres: []
+first_released_as_single: false
 key: honky-cat-elton-john
 lyrics_url: https://genius.com/Elton-john-honky-cat-lyrics
 name: Honky Cat
@@ -47,6 +50,8 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '1972-10-14'
+release_year: 1972
+runtime: 313026
 ---
 When I look back, boy, I must have been green
 Bopping in the country, fishing in a stream

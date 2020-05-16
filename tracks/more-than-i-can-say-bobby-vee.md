@@ -1,8 +1,11 @@
 ---
+album: Bobby Vee
 artists:
 - Bobby Vee
+external_ids:
+  spotify: spotify:track:1t2zYsS4UgIkkuBgSe0fZt
 features: []
-genres: []
+first_released_as_single: false
 key: more-than-i-can-say-bobby-vee
 lyrics_url: https://www.azlyrics.com/lyrics/bobbyvee/morethanicansay.html
 name: More Than I Can Say
@@ -27,8 +30,9 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1961-03-27'
+release_year: 1961
+runtime: 149973
 ---
-
 Wo-oh yay yay
 Love you more than I can say
 I'll love you twice as much tomorrow
@@ -58,6 +62,3 @@ Wo-oh yay yay
 I love you more than I can say
 I'll love you twice as much tomorrow
 Wo-oh, love you more than I can say
-
-
-

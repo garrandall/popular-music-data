@@ -1,8 +1,11 @@
 ---
+album: See You in September
 artists:
 - The Tempos
+external_ids:
+  spotify: spotify:track:5fSQWtq5LleieeCbiidoXK
 features: []
-genres: []
+first_released_as_single: true
 key: see-you-in-september-the-tempos
 lyrics_url: https://genius.com/The-tempos-see-you-in-september-lyrics
 name: See You In September
@@ -63,6 +66,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1959-09-28'
+release_year: 1959
+runtime: 130533
 ---
 I'll be alone each and every night
 While you're away, don't forget to write

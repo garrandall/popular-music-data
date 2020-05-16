@@ -1,8 +1,11 @@
 ---
+album: Diary Of A Mad Band
 artists:
 - Jodeci
+external_ids:
+  spotify: spotify:track:0IyGPlGWkWZubMgC3qdBWz
 features: []
-genres: []
+first_released_as_single: false
 key: feenin--jodeci
 lyrics_url: https://www.azlyrics.com/lyrics/jodeci/feenin.html
 name: Feenin'
@@ -87,8 +90,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1994-07-23'
+release_year: 1993
+runtime: 310800
 ---
-
 Hit me
 All the chronic in the world couldn't even mess with you
 You are the ultimate high
@@ -167,6 +171,3 @@ I can't leave you alone
 You got me feenin
 Girl I'm feenin for you
 I can't leave you alone
-
-
-

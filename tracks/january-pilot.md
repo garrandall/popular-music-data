@@ -1,8 +1,11 @@
 ---
+album: Second Flight
 artists:
 - Pilot
+external_ids:
+  spotify: spotify:track:37ncw2kChEJzbmmKMzGAoE
 features: []
-genres: []
+first_released_as_single: false
 key: january-pilot
 lyrics_url: https://www.azlyrics.com/lyrics/pilot/january.html
 name: January
@@ -31,8 +34,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1976-03-06'
+release_year: 1975
+runtime: 211920
 ---
-
 January
 Sick and tired, you've been hanging on me
 You make me sad with your eyes
@@ -92,6 +96,3 @@ Don't be cold, don't be angry to me
 You make me sad, come and see
 Oh, January
 Don't go, don't go
-
-
-

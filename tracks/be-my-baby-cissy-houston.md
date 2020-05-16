@@ -1,8 +1,11 @@
 ---
+album: The Long and Winding Road
 artists:
 - Cissy Houston
+external_ids:
+  spotify: spotify:track:2W5iyOqKMDvx4LX4Ws6H14
 features: []
-genres: []
+first_released_as_single: false
 key: be-my-baby-cissy-houston
 lyrics_url: https://www.musixmatch.com/lyrics/Cissy-Houston/Be-My-Baby
 name: Be My Baby
@@ -15,6 +18,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1971-05-01'
+release_year: 1971
+runtime: 190373
 ---
 The night we met
 I knew I, I needed you so

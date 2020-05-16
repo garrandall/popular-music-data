@@ -1,8 +1,11 @@
 ---
+album: Young, Gifted and Black
 artists:
 - Aretha Franklin
+external_ids:
+  spotify: spotify:track:3Cd1VBCEpzFqttEA0i8yzx
 features: []
-genres: []
+first_released_as_single: false
 key: oh-me-oh-my--i-m-a-fool-for-you-baby--aretha-franklin
 lyrics_url: https://genius.com/Aretha-franklin-oh-me-oh-my-im-a-fool-for-you-baby-lyrics
 name: Oh Me Oh My (I'm A Fool For You Baby)
@@ -23,6 +26,8 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1972-02-05'
+release_year: 1972
+runtime: 222093
 ---
 To make you laugh, I would be a fool for you
 Although the people turn and stare

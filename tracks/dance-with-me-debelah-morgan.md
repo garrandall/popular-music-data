@@ -1,8 +1,11 @@
 ---
+album: Dance With Me
 artists:
 - Debelah Morgan
+external_ids:
+  spotify: spotify:track:1C2Q3AymKS17bw7T5gfq6p
 features: []
-genres: []
+first_released_as_single: false
 key: dance-with-me-debelah-morgan
 lyrics_url: https://genius.com/Debelah-morgan-dance-with-me-lyrics
 name: Dance With Me
@@ -123,6 +126,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2001-02-10'
+release_year: 2000
+runtime: 220106
 ---
 Oh, come and dance with me, my baby
 Let's dance 'till we go crazy

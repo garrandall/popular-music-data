@@ -1,8 +1,11 @@
 ---
+album: The Royal Scam
 artists:
 - Steely Dan
+external_ids:
+  spotify: spotify:track:1FLQYGTaDYzGjpP9c82Q1G
 features: []
-genres: []
+first_released_as_single: false
 key: the-fez-steely-dan
 lyrics_url: https://www.azlyrics.com/lyrics/steelydan/thefez.html
 name: The Fez
@@ -27,8 +30,9 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '1976-10-23'
+release_year: 1976
+runtime: 241266
 ---
-
 No I'm never gonna do it without the fez on
 Oh no
 No I'm never gonna do it without the fez on
@@ -49,6 +53,3 @@ Oh no
 Don't make me do it without the fez on
 Oh no
 That's what I am please understand
-
-
-

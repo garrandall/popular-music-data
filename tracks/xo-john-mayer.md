@@ -1,8 +1,11 @@
 ---
+album: XO
 artists:
 - John Mayer
+external_ids:
+  spotify: spotify:track:7cpCU3Denug5NGZsSpQl8v
 features: []
-genres: []
+first_released_as_single: true
 key: xo-john-mayer
 lyrics_url: https://www.azlyrics.com/lyrics/johnmayer/xo.html
 name: XO
@@ -11,8 +14,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2014-06-14'
+release_year: 2014
+runtime: 213626
 ---
-
 Your love is bright as ever
 Even in the shadows
 Baby kiss me
@@ -67,6 +71,3 @@ I'll give you everything
 Baby, love me lights out
 Baby, love me lights out
 You can turn my lights out
-
-
-

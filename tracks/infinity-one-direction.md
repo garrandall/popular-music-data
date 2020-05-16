@@ -1,8 +1,11 @@
 ---
+album: Made In The A.M.
 artists:
 - One Direction
+external_ids:
+  spotify: spotify:track:7zlF2G7QFPdj9lmmGNVuNq
 features: []
-genres: []
+first_released_as_single: true
 key: infinity-one-direction
 lyrics_url: https://www.azlyrics.com/lyrics/onedirection/infinity.html
 name: Infinity
@@ -15,8 +18,9 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '2015-10-17'
+release_year: 2015
+runtime: 249493
 ---
-
 Down to Earth
 Keep on falling when I know it hurts
 Going faster than a million miles an hour
@@ -72,6 +76,3 @@ I never counted all of mine
 If I tried, I know it would feel like infinity
 Infinity, infinity, infinity, infinity, yeah
 Infinity
-
-
-

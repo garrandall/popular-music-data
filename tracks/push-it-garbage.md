@@ -1,8 +1,11 @@
 ---
+album: Version 2.0 (The Official Remixes)
 artists:
 - Garbage
+external_ids:
+  spotify: spotify:track:1j3NnZCkOvpB4rj7t4yOXD
 features: []
-genres: []
+first_released_as_single: false
 key: push-it-garbage
 lyrics_url: https://genius.com/Garbage-push-it-lyrics
 name: Push It
@@ -79,6 +82,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1998-09-05'
+release_year: 1998
+runtime: 402856
 ---
 I was angry when I met you
 I think I'm angry still

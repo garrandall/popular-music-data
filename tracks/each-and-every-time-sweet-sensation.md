@@ -1,8 +1,11 @@
 ---
+album: Love Child
 artists:
 - Sweet Sensation
+external_ids:
+  spotify: spotify:track:2gVTFOO0vTL0Ss3QZtQmAs
 features: []
-genres: []
+first_released_as_single: false
 key: each-and-every-time-sweet-sensation
 lyrics_url: https://www.azlyrics.com/lyrics/sweetsensation/eachandeverytime.html
 name: Each And Every Time
@@ -35,8 +38,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1990-12-01'
+release_year: 1990
+runtime: 246826
 ---
-
 Whoa whoa oh
 Oh oh
 Whoa whoa
@@ -132,6 +136,3 @@ And when you take my hand
 I know you understand
 Each and every time
 Each and every time
-
-
-

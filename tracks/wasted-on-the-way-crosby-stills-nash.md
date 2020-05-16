@@ -1,8 +1,11 @@
 ---
+album: Daylight Again
 artists:
 - Crosby, Stills & Nash
+external_ids:
+  spotify: spotify:track:3LMe4h7CrPLJrViTVzfDot
 features: []
-genres: []
+first_released_as_single: false
 key: wasted-on-the-way-crosby-stills-nash
 lyrics_url: https://www.azlyrics.com/lyrics/crosbystillsnash/wastedontheway.html
 name: Wasted On The Way
@@ -67,10 +70,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1982-10-02'
+release_year: 1982
+runtime: 171080
 ---
-
-
-
 Look around me
 I can see my life before me
 Running rings around the way it used to be
@@ -104,6 +106,3 @@ Love we have wasted on the way
 So much water moving underneath the bridge
 Let the water come and carry us away
 Let the water come and carry us away
-
-
-

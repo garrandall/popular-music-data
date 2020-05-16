@@ -1,8 +1,11 @@
 ---
+album: Here We Are!
 artists:
 - The Jive Five
+external_ids:
+  spotify: spotify:track:3pTiQlUdORQ8TwokuiNyUW
 features: []
-genres: []
+first_released_as_single: false
 key: never-never-the-jive-five-with-joe-rene-and-orchestra
 lyrics_url: https://www.musixmatch.com/lyrics/The-Jive-Five/Never-Never-Never-Stereo
 name: Never Never
@@ -31,6 +34,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1961-12-18'
+release_year: 1961
+runtime: 206440
 ---
 He perdido todo y ya no tengo nada,
 Lo unico que yo hice fue quererte

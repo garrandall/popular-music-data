@@ -1,8 +1,11 @@
 ---
+album: From Nowhere
 artists:
 - The Troggs
+external_ids:
+  spotify: spotify:track:7jGzYUZ2Bgg8BDfYlQRfn8
 features: []
-genres: []
+first_released_as_single: false
 key: wild-thing-the-troggs
 lyrics_url: https://genius.com/The-troggs-wild-thing-lyrics
 name: Wild Thing
@@ -51,9 +54,9 @@ rankings:
   rank: 31
   ranking_list: Billboard Hot 100
   start_date: '1966-09-03'
+release_year: 1966
+runtime: 155333
 ---
-
-
 Wild thing you make my heart sing
 You make everything groovy, wild thing
 Wild thing, I think I love you

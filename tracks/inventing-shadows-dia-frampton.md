@@ -1,8 +1,11 @@
 ---
+album: Inventing Shadows (The Voice Performance)
 artists:
 - Dia Frampton
+external_ids:
+  spotify: spotify:track:2oc1Oh7ONhVDBTvwQy8xBx
 features: []
-genres: []
+first_released_as_single: true
 key: inventing-shadows-dia-frampton
 lyrics_url: https://www.azlyrics.com/lyrics/diaframpton/inventingshadows.html
 name: Inventing Shadows
@@ -11,8 +14,9 @@ rankings:
   rank: 20
   ranking_list: Billboard Hot 100
   start_date: '2011-07-16'
+release_year: 2011
+runtime: 213040
 ---
-
 It's not surprising it could end like this
 Your eyes are open even when you kiss
 You're so distant
@@ -77,6 +81,3 @@ You dim the lights in the world I see
 How I wish that I could still believe
 Time to save me
 If I go who could blame me?
-
-
-

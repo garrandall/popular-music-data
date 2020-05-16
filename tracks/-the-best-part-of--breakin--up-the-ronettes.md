@@ -1,8 +1,11 @@
 ---
+album: Presenting the Fabulous Ronettes Featuring Veronica
 artists:
 - The Ronettes
+external_ids:
+  spotify: spotify:track:5F0PczJRVXQGpYXYnysoxb
 features: []
-genres: []
+first_released_as_single: false
 key: -the-best-part-of--breakin--up-the-ronettes
 lyrics_url: https://www.azlyrics.com/lyrics/ronettes/thebestpartofbreakinup.html
 name: (The Best Part Of) Breakin' Up
@@ -39,8 +42,9 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1964-05-23'
+release_year: 1964
+runtime: 182680
 ---
-
 Baby when we break up from a quarrel or a fight
 I can't wait to have you back and hold you, oh, so tight
 Tell me why, I wanna know, tell me why, is it so
@@ -73,6 +77,3 @@ Come on baby,
 Come on baby,
 Don't say maybe
 Come on baby, woo wee baby, come on baby
-
-
-

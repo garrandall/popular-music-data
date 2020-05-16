@@ -1,8 +1,11 @@
 ---
+album: Rio
 artists:
 - Duran Duran
+external_ids:
+  spotify: spotify:track:1ff8lsrJ2kuZuofMw81EQo
 features: []
-genres: []
+first_released_as_single: false
 key: save-a-prayer-duran-duran
 lyrics_url: https://genius.com/Duran-duran-save-a-prayer-lyrics
 name: Save A Prayer
@@ -63,6 +66,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1985-05-04'
+release_year: 1982
+runtime: 333306
 ---
 You saw me standing by the wall
 Corner of a main street

@@ -1,9 +1,12 @@
 ---
+album: Forever
 artists:
 - Kool
 - The Gang
+external_ids:
+  spotify: spotify:track:1M3WV3EnKoHqDdHO4ksxlw
 features: []
-genres: []
+first_released_as_single: false
 key: holiday-kool-the-gang
 lyrics_url: https://www.azlyrics.com/lyrics/koolthegang/holiday.html
 name: Holiday
@@ -36,8 +39,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1987-08-08'
+release_year: 1986
+runtime: 254866
 ---
-
 Summer fun, work is over
 Let your hair down, invade the beach town
 Crystal Lake, where we like to play
@@ -69,6 +73,3 @@ Holiday, let's celebrate holiday fun!
 Holiday, time to play, holiday fun
 Holiday, let's celebrate holiday fun!
 Holiday, time to play, holiday fun
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Heaven Live
 artists:
 - Los Lonely Boys
+external_ids:
+  spotify: spotify:track:2mQ1RBK7s87mdPCzh97RSH
 features: []
-genres: []
+first_released_as_single: false
 key: heaven-los-lonely-boys
 lyrics_url: https://www.azlyrics.com/lyrics/loslonelyboys/heaven.html
 name: Heaven
@@ -127,8 +130,9 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '2004-12-04'
+release_year: 2003
+runtime: 227346
 ---
-
 Vamanos!
 
 Save me from this prison
@@ -178,6 +182,3 @@ Yeah, Lord, can you tell me?
 how far is heaven?
 'Cause I just gotta know how far?
 I just wanna know how far?
-
-
-

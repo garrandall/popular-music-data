@@ -1,8 +1,11 @@
 ---
+album: Best Of Mickey Newbury
 artists:
 - Mickey Newbury
+external_ids:
+  spotify: spotify:track:6ExbJbxOYK1mQXGKBrZsjR
 features: []
-genres: []
+first_released_as_single: false
 key: an-american-trilogy-mickey-newbury
 lyrics_url: https://genius.com/Mickey-newbury-an-american-trilogy-lyrics
 name: An American Trilogy
@@ -51,6 +54,8 @@ rankings:
   rank: 34
   ranking_list: Billboard Hot 100
   start_date: '1972-01-15'
+release_year: 1971
+runtime: 293466
 ---
 Oh I wish I was in the land of cotton
 Old things they are not forgotten

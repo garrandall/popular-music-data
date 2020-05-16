@@ -1,10 +1,13 @@
 ---
+album: El Regreso del Sobreviviente
 artists:
 - Wisin
+external_ids:
+  spotify: spotify:track:2eqDUxbd0JPEhNrJdPlHLs
 features:
 - Jennifer Lopez
 - Ricky Martin
-genres: []
+first_released_as_single: false
 key: adrenalina-wisin-jennifer-lopez-ricky-martin
 lyrics_url: https://www.azlyrics.com/lyrics/wisin/adrenalina.html
 name: Adrenalina
@@ -13,8 +16,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2014-03-22'
+release_year: 2014
+runtime: 235546
 ---
-
 Me gusta cuando sexy te me pegas
 Tu seduccion a la hora de bailar
 Ese juego que tienen tus caderas
@@ -89,6 +93,3 @@ Me tiene al borde de la locura
 Sube la adrenalina
 Sube la adrenalina
 Sube la adrenalina
-
-
-

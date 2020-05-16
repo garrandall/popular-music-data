@@ -1,8 +1,11 @@
 ---
+album: Permanently
 artists:
 - Mark Wills
+external_ids:
+  spotify: spotify:track:72MSivvHmzBcpSvcHRyf9b
 features: []
-genres: []
+first_released_as_single: false
 key: back-at-one-mark-wills
 lyrics_url: https://www.musixmatch.com/lyrics/Mark-Wills/Back-at-One
 name: Back At One
@@ -87,6 +90,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2000-06-24'
+release_year: 2000
+runtime: 246493
 ---
 Its undeniable... that we should be together...
 Its unbelievable how I used to say that I'd fall never

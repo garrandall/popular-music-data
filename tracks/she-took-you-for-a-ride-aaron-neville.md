@@ -1,8 +1,11 @@
 ---
+album: Tell It Like It Is - The Par Lo Years
 artists:
 - Aaron Neville
+external_ids:
+  spotify: spotify:track:33vOmVmYIgn4QGUc0ooNio
 features: []
-genres: []
+first_released_as_single: false
 key: she-took-you-for-a-ride-aaron-neville
 lyrics_url: https://www.azlyrics.com/lyrics/aaronneville/shetookyouforaride.html
 name: She Took You For A Ride
@@ -23,8 +26,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1967-04-15'
+release_year: 1967
+runtime: 199360
 ---
-
 (Lee diamond, george davis)
 
 It was just imagination, the temptation that went to your head and now you are a victim of circumstance
@@ -60,6 +64,3 @@ She took you for a ride
 Was just imagination, the temptation that went to your head and now you are a victim of circumstance
 
 She took you for a ride
-
-
-

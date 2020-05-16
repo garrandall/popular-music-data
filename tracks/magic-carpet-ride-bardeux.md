@@ -1,8 +1,11 @@
 ---
+album: Bold As Love
 artists:
 - Bardeux
+external_ids:
+  spotify: spotify:track:4CQXSLW5x5XT7MPBandDaB
 features: []
-genres: []
+first_released_as_single: false
 key: magic-carpet-ride-bardeux
 lyrics_url: https://genius.com/Bardeux-magic-carpet-ride-lyrics
 name: Magic Carpet Ride
@@ -35,6 +38,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1988-04-09'
+release_year: 1988
+runtime: 203560
 ---
 I've never seen a boy who
 Looks as good as you tonight

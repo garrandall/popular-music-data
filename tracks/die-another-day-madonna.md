@@ -1,8 +1,11 @@
 ---
+album: The Las Vegas International Philharmonic Plays 007 Classics
 artists:
 - Madonna
+external_ids:
+  spotify: spotify:track:5TCFr6PW1EaVyu9MDT54QY
 features: []
-genres: []
+first_released_as_single: false
 key: die-another-day-madonna
 lyrics_url: https://www.azlyrics.com/lyrics/madonna/dieanotherday.html
 name: Die Another Day
@@ -75,8 +78,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2003-02-08'
+release_year: 2001
+runtime: 230853
 ---
-
 I'm gonna wake up, yes and no
 I'm gonna kiss some part of
 I'm gonna keep this secret
@@ -141,7 +145,4 @@ I guess I'll die another day
 I guess, die another day
 I guess I'll die another day
 
-Another day 
-
-
-
+Another day

@@ -1,8 +1,11 @@
 ---
+album: Monster
 artists:
 - R.E.M.
+external_ids:
+  spotify: spotify:track:2hSKvY62ov866JemepG5Jl
 features: []
-genres: []
+first_released_as_single: false
 key: strange-currencies-r-e-m-
 lyrics_url: https://www.azlyrics.com/lyrics/rem/strangecurrencies.html
 name: Strange Currencies
@@ -67,8 +70,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1995-08-05'
+release_year: 1994
+runtime: 232306
 ---
-
 I don't know why you're mean to me
 when I call on the telephone.
 and I don't know what you mean to me
@@ -102,6 +106,3 @@ These words, "You will be mine." all the time. oh
 These words, "You will be mine."
 These words, they haunt me, hunt me down, catch in my throat, make me pray,
 say, love's confined, on Earth
-
-
-

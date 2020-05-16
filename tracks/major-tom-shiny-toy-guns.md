@@ -1,8 +1,11 @@
 ---
+album: Girls Le Disko (The Remixes)
 artists:
 - Shiny Toy Guns
+external_ids:
+  spotify: spotify:track:6MQdIVpcXuaa9QpuCd33ei
 features: []
-genres: []
+first_released_as_single: true
 key: major-tom-shiny-toy-guns
 lyrics_url: https://www.azlyrics.com/lyrics/shinytoyguns/majortom.html
 name: Major Tom
@@ -11,8 +14,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2010-02-20'
+release_year: 2009
+runtime: 262333
 ---
-
 Standing there alone, the ship is waiting
 All systems are go. Are you sure?
 Control is not convinced
@@ -68,6 +72,3 @@ Floating weightless
 Calling home
 
 Home
-
-
-

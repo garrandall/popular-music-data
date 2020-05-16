@@ -1,8 +1,11 @@
 ---
+album: Gets Next to You
 artists:
 - Al Green
+external_ids:
+  spotify: spotify:track:10vkYRKw6Jjr7try1ir50G
 features: []
-genres: []
+first_released_as_single: false
 key: tired-of-being-alone-al-green
 lyrics_url: https://www.azlyrics.com/lyrics/algreen/tiredofbeingalone.html
 name: Tired Of Being Alone
@@ -83,8 +86,9 @@ rankings:
   rank: 37
   ranking_list: Billboard Hot 100
   start_date: '1971-11-27'
+release_year: 1971
+runtime: 172320
 ---
-
 I'm so tired of being alone
 I'm so tired of on-my-own
 Won't you help me girl
@@ -131,6 +135,3 @@ Oh baby, baby
 I'm so tired of being alone
 I'm so tired of being alone
 I'm so tired of being alone
-
-
-

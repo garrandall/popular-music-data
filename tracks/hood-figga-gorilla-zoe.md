@@ -1,8 +1,11 @@
 ---
+album: Welcome To The Zoo
 artists:
 - Gorilla Zoe
+external_ids:
+  spotify: spotify:track:1OeTY85K4i1I7kNnvESfeb
 features: []
-genres: []
+first_released_as_single: false
 key: hood-figga-gorilla-zoe
 lyrics_url: https://genius.com/Gorilla-zoe-hood-figga-lyrics
 name: Hood Figga
@@ -87,6 +90,8 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '2007-12-22'
+release_year: 2007
+runtime: 200933
 ---
 All the girls jockin', beat steady knockin'
 Middle of the stage got the whole club rockin'

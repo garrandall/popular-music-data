@@ -1,8 +1,11 @@
 ---
+album: Cowboys to Girls
 artists:
 - The Intruders
+external_ids:
+  spotify: spotify:track:6n3WVi0pxFQuAjAQRPPryY
 features: []
-genres: []
+first_released_as_single: false
 key: cowboys-to-girls-the-intruders
 lyrics_url: https://www.azlyrics.com/lyrics/intruders/cowboystogirls.html
 name: Cowboys To Girls
@@ -63,8 +66,9 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1968-06-22'
+release_year: 1968
+runtime: 159080
 ---
-
 (Cowboys to girls)
 I remember (I remember)
 When I used to play shoot 'em up
@@ -116,6 +120,3 @@ Oh, yes (Shoot 'em up)
 (Baby dolls to boys)
 Talkin' 'bout, talkin' 'bout
 (Cowboys to girls)
-
-
-

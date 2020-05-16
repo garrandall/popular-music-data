@@ -1,8 +1,11 @@
 ---
+album: Live And More
 artists:
 - Donna Summer
+external_ids:
+  spotify: spotify:track:1fKIU7UiShU0H9CRjVXgq2
 features: []
-genres: []
+first_released_as_single: false
 key: macarthur-park-donna-summer
 lyrics_url: https://www.azlyrics.com/lyrics/donnasummer/macarthurparkreprise.html
 name: MacArthur Park
@@ -87,8 +90,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1979-01-20'
+release_year: 1978
+runtime: 1067446
 ---
-
 MacArthur Park is melting in the dark
 All the sweet, green icing flowing down...
 Someone left the cake out in the rain
@@ -96,6 +100,3 @@ I don't think that I can take it
 'cause it took so long to bake it
 And I'll never have that recipe again
 Oh, nooo...
-
-
-

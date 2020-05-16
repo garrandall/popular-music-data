@@ -1,8 +1,11 @@
 ---
+album: Merry Clayton
 artists:
 - Merry Clayton
+external_ids:
+  spotify: spotify:track:202Rv6z4W2aE0rxYwUfCq9
 features: []
-genres: []
+first_released_as_single: false
 key: after-all-this-time-merry-clayton
 lyrics_url: https://genius.com/Merry-clayton-after-all-this-time-lyrics
 name: After All This Time
@@ -35,6 +38,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1972-01-22'
+release_year: 1971
+runtime: 190346
 ---
 Oh, I get a feeling every night
 When you come home

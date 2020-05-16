@@ -1,8 +1,11 @@
 ---
+album: For You
 artists:
 - Eddie Kendricks
+external_ids:
+  spotify: spotify:track:2ZUxXXIxjseX89Tc1vlfHz
 features: []
-genres: []
+first_released_as_single: false
 key: one-tear-eddie-kendricks
 lyrics_url: https://www.azlyrics.com/lyrics/eddiekendricks/onetear.html
 name: One Tear
@@ -39,8 +42,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1975-01-25'
+release_year: 1974
+runtime: 245653
 ---
-
 I wake up early every morning
 With just one tear in my eye
 I remember late one evening
@@ -80,6 +84,3 @@ You, my baby, stop my crying
 I, I, I've been slowly dying
 Want to feel me
 Want to free me
-
-
-

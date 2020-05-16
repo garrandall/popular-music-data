@@ -1,8 +1,11 @@
 ---
+album: The Best Of 1990-2000
 artists:
 - U2
+external_ids:
+  spotify: spotify:track:3gkijt6bxk8ts6S2RCEu4n
 features: []
-genres: []
+first_released_as_single: false
 key: electrical-storm-u2
 lyrics_url: https://www.azlyrics.com/lyrics/u2band/electricalstorm.html
 name: Electrical Storm
@@ -35,8 +38,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2002-11-09'
+release_year: 2002
+runtime: 277466
 ---
-
 The sea it swells like a sore head and the night it is aching
 Two lovers lie with no sheets on their bed
 And the day it is breaking
@@ -79,7 +83,4 @@ To love and only love
 
 Electrical storm 
 
-Baby don't cry 
-
-
-
+Baby don't cry

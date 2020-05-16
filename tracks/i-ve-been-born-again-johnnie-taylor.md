@@ -1,8 +1,11 @@
 ---
+album: Super Taylor
 artists:
 - Johnnie Taylor
+external_ids:
+  spotify: spotify:track:7sU6XqG55OqKbOofmWhu8a
 features: []
-genres: []
+first_released_as_single: false
 key: i-ve-been-born-again-johnnie-taylor
 lyrics_url: https://genius.com/Johnnie-taylor-ive-been-born-again-lyrics
 name: I've Been Born Again
@@ -23,6 +26,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1974-07-20'
+release_year: 1974
+runtime: 199960
 ---
 I've been born again, I'm a brand new man
 Kind of brand new, I've been born again

@@ -1,8 +1,11 @@
 ---
+album: Right On
 artists:
 - Wilson Pickett
+external_ids:
+  spotify: spotify:track:3NuKKai62W3W8etSaNqarg
 features: []
-genres: []
+first_released_as_single: false
 key: she-said-yes-wilson-pickett
 lyrics_url: https://genius.com/Wilson-pickett-she-said-yes-lyrics
 name: She Said Yes
@@ -27,6 +30,8 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1970-09-19'
+release_year: 1970
+runtime: 195373
 ---
 Ooo oo oo yeah
 La la la, la la la la la la la

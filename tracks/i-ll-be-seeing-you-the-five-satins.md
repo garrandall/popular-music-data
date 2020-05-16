@@ -1,8 +1,11 @@
 ---
+album: Candlelight
 artists:
 - The Five Satins
+external_ids:
+  spotify: spotify:track:6G86NlSsZc2wvqSvrIpzW5
 features: []
-genres: []
+first_released_as_single: false
 key: i-ll-be-seeing-you-the-five-satins
 lyrics_url: https://genius.com/The-five-satins-ill-be-seeing-you-lyrics
 name: I'll Be Seeing You
@@ -31,6 +34,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1960-06-13'
+release_year: 1915
+runtime: 178750
 ---
 I'll be seeing you in all the old, familiar places
 That this heart of mine embraces all day through

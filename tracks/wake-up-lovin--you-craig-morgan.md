@@ -1,8 +1,11 @@
 ---
+album: The Journey (Livin' Hits)
 artists:
 - Craig Morgan
+external_ids:
+  spotify: spotify:track:5UY3Vzkc5INzJ3wBJm5FlD
 features: []
-genres: []
+first_released_as_single: false
 key: wake-up-lovin--you-craig-morgan
 lyrics_url: https://www.azlyrics.com/lyrics/craigmorgan/wakeuplovinyou.html
 name: Wake Up Lovin' You
@@ -15,8 +18,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2014-05-31'
+release_year: 2013
+runtime: 198840
 ---
-
 My friends call me up 'cause they know I'm down
 Take me out to paint the town and help me get over it
 Pretty blonde girl at the end of the bar
@@ -58,6 +62,3 @@ I wake up lovin' you, oh
 I wake up lovin' you
 I wake up lovin' you
 I wake up lovin' you
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Just As I Am
 artists:
 - Brantley Gilbert
+external_ids:
+  spotify: spotify:track:1FyUU6CfikRZoeCz0IKqzh
 features: []
-genres: []
+first_released_as_single: false
 key: 17-again-brantley-gilbert
 lyrics_url: https://www.azlyrics.com/lyrics/brantleygilbert/17again.html
 name: 17 Again
@@ -11,8 +14,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2014-05-24'
+release_year: 2014
+runtime: 239773
 ---
-
 There ain't nothing like 'em first loves baby
 Remember them high school days
 Friday nights, homecomin' dances
@@ -68,6 +72,3 @@ Yeah just like we're 17 again
 
 17 Again
 Oh
-
-
-

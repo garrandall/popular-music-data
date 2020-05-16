@@ -1,8 +1,11 @@
 ---
+album: Red
 artists:
 - Taylor Swift
+external_ids:
+  spotify: spotify:track:1x0J8LFX23d5h1zzuzZorc
 features: []
-genres: []
+first_released_as_single: false
 key: stay-stay-stay-taylor-swift
 lyrics_url: https://genius.com/Taylor-swift-stay-stay-stay-lyrics
 name: Stay Stay Stay
@@ -11,6 +14,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2012-11-10'
+release_year: 2012
+runtime: 204826
 ---
 I'm pretty sure we almost broke up last night
 I threw my phone across the room, at you

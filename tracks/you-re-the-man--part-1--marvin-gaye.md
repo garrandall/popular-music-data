@@ -1,8 +1,11 @@
 ---
+album: What's Going On - 40th Anniversary (Super Deluxe)
 artists:
 - Marvin Gaye
+external_ids:
+  spotify: spotify:track:2At3M0gstV1oi6j2c4t0SY
 features: []
-genres: []
+first_released_as_single: false
 key: you-re-the-man--part-1--marvin-gaye
 lyrics_url: https://genius.com/Marvin-gaye-youre-the-man-part-1-lyrics
 name: You're The Man (Part 1)
@@ -27,6 +30,8 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '1972-06-17'
+release_year: 1971
+runtime: 345760
 ---
 You been talkin', talkin' to the people
 Tryin' to get them to go your way

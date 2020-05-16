@@ -1,8 +1,11 @@
 ---
+album: Sunshine & Whiskey - Commentary
 artists:
 - Frankie Ballard
+external_ids:
+  spotify: spotify:track:137djAHQ70xFTvjSxbYpbE
 features: []
-genres: []
+first_released_as_single: false
 key: sunshine---whiskey-frankie-ballard
 lyrics_url: https://www.azlyrics.com/lyrics/frankieballard/sunshinewhiskey.html
 name: Sunshine & Whiskey
@@ -87,8 +90,9 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '2014-12-06'
+release_year: 2014
+runtime: 26200
 ---
-
 Every time you kiss me it's like sunshine and whiskey
 
 Chilling on a beach with my sweet Georgia peach.
@@ -133,7 +137,4 @@ It's like a bottle of Jack straight to the head.
 One shot, two shot, copper tone red.
 Every time you kiss me it's like sunshine and whiskey.
 
-Every time you kiss me it's like sunshine and whiskey. 
-
-
-
+Every time you kiss me it's like sunshine and whiskey.

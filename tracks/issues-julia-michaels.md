@@ -1,8 +1,11 @@
 ---
+album: Nervous System
 artists:
 - Julia Michaels
+external_ids:
+  spotify: spotify:track:4TqiKcUUvK7y6x6JG5NpJX
 features: []
-genres: []
+first_released_as_single: true
 key: issues-julia-michaels
 lyrics_url: https://www.azlyrics.com/lyrics/juliamichaels/issues.html
 name: Issues
@@ -123,8 +126,9 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '2017-08-26'
+release_year: 2017
+runtime: 175280
 ---
-
 I'm jealous, I'm overzealous
 When I'm down, I get real down
 When I'm high, I don't come down
@@ -197,6 +201,3 @@ Yeah, I got issues (I got issues)
 And one of them is how bad I need you (You got 'em too)
 Yeah, I got issues (I got)
 And one of them is how bad I need you
-
-
-

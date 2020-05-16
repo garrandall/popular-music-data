@@ -1,8 +1,11 @@
 ---
+album: True Blue (Reissue)
 artists:
 - Madonna
+external_ids:
+  spotify: spotify:track:095MMFhB9qxPx2VsmvjnUs
 features: []
-genres: []
+first_released_as_single: false
 key: live-to-tell-madonna
 lyrics_url: https://genius.com/Madonna-live-to-tell-lyrics
 name: Live To Tell
@@ -79,6 +82,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1986-08-09'
+release_year: 1986
+runtime: 353000
 ---
 I have a tale to tell
 Sometimes, it gets so hard to hide it well

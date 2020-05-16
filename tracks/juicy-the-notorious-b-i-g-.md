@@ -1,8 +1,11 @@
 ---
+album: Ready to Die
 artists:
 - The Notorious B.I.G.
+external_ids:
+  spotify: spotify:track:5ByAIlEEnxYdvpnezg7HTX
 features: []
-genres: []
+first_released_as_single: false
 key: juicy-the-notorious-b-i-g-
 lyrics_url: https://www.azlyrics.com/lyrics/notoriousbig/juicy.html
 name: Juicy
@@ -87,8 +90,9 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '1995-01-07'
+release_year: 1994
+runtime: 302693
 ---
-
 Fuck all you hoes
 Get a grip motherfucker.
 
@@ -183,6 +187,3 @@ Uh...and if you don't know, now you know, nigga, uh
 
 Representin' B-Town in the house, Junior Mafia, mad flavor, uh
 Uh, yeah, a-ight
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Richard Harris & Scott English Greatest Hits
 artists:
 - Richard Harris
+external_ids:
+  spotify: spotify:track:2KPUkQyadhmHOQwuZxHYC8
 features: []
-genres: []
+first_released_as_single: false
 key: my-boy-richard-harris
 lyrics_url: https://www.musixmatch.com/lyrics/Richard-Harris/My-Boy
 name: My Boy
@@ -51,6 +54,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1972-01-29'
+release_year: 1971
+runtime: 193329
 ---
 You're sleeping, son, I know
 But really this can't wait

@@ -1,9 +1,12 @@
 ---
+album: Club Life, Vol. 3 - Stockholm
 artists:
 - Icona Pop
+external_ids:
+  spotify: spotify:track:3VZQshi4COChhXaz7cLP02
 features:
 - Charli XCX
-genres: []
+first_released_as_single: true
 key: i-love-it-icona-pop-charli-xcx
 lyrics_url: https://www.azlyrics.com/lyrics/iconapop/iloveit.html
 name: I Love It
@@ -124,8 +127,9 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '2013-08-31'
+release_year: 2012
+runtime: 155337
 ---
-
 I got this feeling on the summer day when you were gone.
 I crashed my car into the bridge. I watched, I let it burn.
 I threw your shit into a bag and pushed it down the stairs.
@@ -171,6 +175,3 @@ I don't care, I love it.
 I don't care, I love it, I love it.
 I don't care.
 I love it.
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: 70's Pop Gems
 artists:
 - New York City
+external_ids:
+  spotify: spotify:track:2G5ohWJfctEeCfYFKzQIkO
 features: []
-genres: []
+first_released_as_single: true
 key: i-m-doin--fine-now-new-york-city
 lyrics_url: https://genius.com/New-york-city-im-doin-fine-now-lyrics
 name: I'm Doin' Fine Now
@@ -87,6 +90,8 @@ rankings:
   rank: 30
   ranking_list: Billboard Hot 100
   start_date: '1973-07-14'
+release_year: 1973
+runtime: 164880
 ---
 Remember the day you up and left
 I nearly cried myself to death, oh yeah

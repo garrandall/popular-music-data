@@ -1,8 +1,11 @@
 ---
+album: Blackout
 artists:
 - Britney Spears
+external_ids:
+  spotify: spotify:track:52K4Nl7eVNqUpUeJeWJlwT
 features: []
-genres: []
+first_released_as_single: false
 key: break-the-ice-britney-spears
 lyrics_url: https://www.azlyrics.com/lyrics/britneyspears/breaktheice.html
 name: Break The Ice
@@ -75,8 +78,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '2008-07-05'
+release_year: 2007
+runtime: 196053
 ---
-
 It's been a while
 I know I shouldn't have kept you waiting
 But I'm here now
@@ -156,6 +160,3 @@ Allow me to get you right
 Let you warm up to me
 Baby I can make you feel
 Hot (more)
-
-
-

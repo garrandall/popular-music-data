@@ -1,8 +1,11 @@
 ---
+album: Fearless
 artists:
 - Jazmine Sullivan
+external_ids:
+  spotify: spotify:track:56z2qI0gKcPthQF6l8AW3E
 features: []
-genres: []
+first_released_as_single: false
 key: bust-your-windows-jazmine-sullivan
 lyrics_url: https://www.azlyrics.com/lyrics/jazminesullivan/bustyourwindows.html
 name: Bust Your Windows
@@ -67,8 +70,9 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2009-01-31'
+release_year: 2008
+runtime: 266306
 ---
-
 I bust the windows out your car
 And no it didn't mend my broken heart
 I'll probably always have these ugly scars
@@ -127,6 +131,3 @@ Now watch me you
 Now watch
 
 I bust the windows out your car
-
-
-

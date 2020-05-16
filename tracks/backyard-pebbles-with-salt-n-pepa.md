@@ -1,8 +1,12 @@
 ---
+album: Always
 artists:
-- Pebbles With Salt-N-Pepa
-features: []
-genres: []
+- Pebbles
+external_ids:
+  spotify: spotify:track:79f0Nf57j7YnsnZr7exiv2
+features:
+- Salt-N-Pepa
+first_released_as_single: false
 key: backyard-pebbles-with-salt-n-pepa
 name: Backyard
 rankings:
@@ -34,5 +38,7 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1991-05-25'
+release_year: 1990
+runtime: 358106
 ---
 

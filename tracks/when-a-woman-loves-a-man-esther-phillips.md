@@ -1,8 +1,11 @@
 ---
+album: Set Me Free
 artists:
 - Esther Phillips
+external_ids:
+  spotify: spotify:track:5SZU3WaGGCI91YPs1kxOnl
 features: []
-genres: []
+first_released_as_single: false
 key: when-a-woman-loves-a-man-esther-phillips
 lyrics_url: https://genius.com/Esther-phillips-when-a-woman-loves-a-man-lyrics
 name: When A Woman Loves A Man
@@ -27,6 +30,8 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '1966-07-02'
+release_year: 1966
+runtime: 172573
 ---
 When a woman loves a man
 Can't keep her mind on nothing else

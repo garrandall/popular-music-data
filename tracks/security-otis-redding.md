@@ -1,8 +1,11 @@
 ---
+album: Pain in My Heart
 artists:
 - Otis Redding
+external_ids:
+  spotify: spotify:track:10nhpwBswpSd6YH9Lj9Jlj
 features: []
-genres: []
+first_released_as_single: false
 key: security-otis-redding
 lyrics_url: https://www.azlyrics.com/lyrics/otisredding/security.html
 name: Security
@@ -11,8 +14,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1964-05-23'
+release_year: 1964
+runtime: 157960
 ---
-
 I want security, yeah
 Without it I had a great loss, oh now
 Security, yeah
@@ -46,6 +50,3 @@ How can I forget, yeah now
 Alone with just a little bit of soul, right now, now, baby
 Darling, everything is gonna be allright
 One more time, just one more time, baby...
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Rebels On The Run
 artists:
 - Montgomery Gentry
+external_ids:
+  spotify: spotify:track:1YR1ChVR8n5EtLRIIDhRTF
 features: []
-genres: []
+first_released_as_single: false
 key: where-i-come-from-montgomery-gentry
 lyrics_url: https://www.azlyrics.com/lyrics/montgomerygentry/whereicomefrom.html
 name: Where I Come From
@@ -67,8 +70,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2012-04-28'
+release_year: 2011
+runtime: 201840
 ---
-
 Don't you dare go runnin' down my little town where I grew up
 And I won't cuss your city lights
 If you ain't ever took a ride around
@@ -118,6 +122,3 @@ No, ain't nobody gonna call the cops
 Yeah, that river runs across that Oakland rock
 Where I come from
 Where I come from
-
-
-

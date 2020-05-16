@@ -1,8 +1,11 @@
 ---
+album: Rover's Return
 artists:
 - John Waite
+external_ids:
+  spotify: spotify:track:5DdwTllBqV9AGrzfKrkwTH
 features: []
-genres: []
+first_released_as_single: false
 key: these-times-are-hard-for-lovers-john-waite
 lyrics_url: https://www.azlyrics.com/lyrics/johnwaite/thesetimesarehardforlovers.html
 name: These Times Are Hard For Lovers
@@ -71,8 +74,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1987-10-03'
+release_year: 1987
+runtime: 255693
 ---
-
 Babe I had a dream
 Woke up in a sweat
 Darkness all around me
@@ -164,6 +168,3 @@ Baby I believe in you
 (These times are hard for lovers whoa)
 Baby I believe in you
 (These times are hard for lovers oh yeah)
-
-
-

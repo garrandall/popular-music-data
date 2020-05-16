@@ -1,8 +1,11 @@
 ---
+album: Night Moves
 artists:
 - Bob Seger
+external_ids:
+  spotify: spotify:track:6UBjSnyP1O5W5ndJoO9vUk
 features: []
-genres: []
+first_released_as_single: false
 key: night-moves-bob-seger
 lyrics_url: https://www.azlyrics.com/lyrics/bobseger/nightmoves.html
 name: Night Moves
@@ -91,8 +94,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1977-04-30'
+release_year: 1976
+runtime: 324422
 ---
-
 I was a little too tall
 Could've used a few pounds
 Tight pants points hardly renown
@@ -136,6 +140,3 @@ Ain't it funny how the night moves
 When you just don't seem to have as much to lose
 Strange how the night moves
 With autumn closing in
-
-
-

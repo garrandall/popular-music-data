@@ -1,8 +1,11 @@
 ---
+album: That's A Plenty
 artists:
 - The Pointer Sisters
+external_ids:
+  spotify: spotify:track:4t8OiAzSLbCY26pzTKwF88
 features: []
-genres: []
+first_released_as_single: false
 key: fairytale-the-pointer-sisters
 lyrics_url: https://www.azlyrics.com/lyrics/pointersisters/fairytale.html
 name: Fairytale
@@ -71,8 +74,9 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '1975-01-18'
+release_year: 1974
+runtime: 303066
 ---
-
 I'll pack up all my things and walk away
 I don't want to hear another word you have to say
 I've been waiting for so long,
@@ -144,6 +148,3 @@ Move on... got to move on
 Move on
 Hit it Nellie
 I've got to move on
-
-
-

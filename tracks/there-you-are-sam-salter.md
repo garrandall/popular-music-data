@@ -1,8 +1,11 @@
 ---
+album: It's On Tonight
 artists:
 - Sam Salter
+external_ids:
+  spotify: spotify:track:29o8jhM7RbYzaSOV13ISGA
 features: []
-genres: []
+first_released_as_single: false
 key: there-you-are-sam-salter
 lyrics_url: https://genius.com/Sam-salter-there-you-are-lyrics
 name: There You Are
@@ -55,6 +58,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1998-09-05'
+release_year: 1997
+runtime: 258399
 ---
 Like a candle with a flame
 That never dies

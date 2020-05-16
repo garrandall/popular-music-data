@@ -1,8 +1,11 @@
 ---
+album: The Foundation
 artists:
 - Zac Brown Band
+external_ids:
+  spotify: spotify:track:2ISojTv3VUnimEOiLddIw4
 features: []
-genres: []
+first_released_as_single: false
 key: whatever-it-is-zac-brown-band
 lyrics_url: https://www.azlyrics.com/lyrics/zacbrownband/whateveritis.html
 name: Whatever It Is
@@ -87,8 +90,9 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '2009-08-08'
+release_year: 2008
+runtime: 208213
 ---
-
 She got eyes that cut you like a
 Knife and lips that taste like sweet red wine
 And her pretty legs go to heaven every time
@@ -143,6 +147,3 @@ I don't know what to do
 It comes out "I love you" (I do)
 You got whatever it is
 Oh, you got whatever it is
-
-
-

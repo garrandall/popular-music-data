@@ -1,8 +1,11 @@
 ---
+album: 'Songs About Jane: 10th Anniversary Edition'
 artists:
 - Maroon 5
+external_ids:
+  spotify: spotify:track:5qII2n90lVdPDcgXEEVHNy
 features: []
-genres: []
+first_released_as_single: false
 key: sunday-morning-maroon-5
 lyrics_url: https://www.azlyrics.com/lyrics/maroon5/sundaymorning.html
 name: Sunday Morning
@@ -87,8 +90,9 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '2005-05-21'
+release_year: 2002
+runtime: 244880
 ---
-
 Sunday morning rain is falling
 Steal some covers share some skin
 Clouds are shrouding us in moments unforgettable
@@ -134,6 +138,3 @@ There is a flower in your hair.
 I'm a flower in your hair.
 
 Oh, yeah, yeah, oh
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: 'The Magic Touch: An Anthology'
 artists:
 - The Platters
+external_ids:
+  spotify: spotify:track:3uCXarDsIYEJ6noaI64jhW
 features: []
-genres: []
+first_released_as_single: false
 key: enchanted-the-platters
 lyrics_url: https://www.azlyrics.com/lyrics/platters/enchanted.html
 name: Enchanted
@@ -67,8 +70,9 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1959-06-29'
+release_year: 1959
+runtime: 172293
 ---
-
 Living is a dream when you make it seem enchanted
 Lovers take for granted all the world's aglow, they ought to know
 When you touch a star then you really are enchanted
@@ -89,6 +93,3 @@ Your dreams run to dreams in continuous flight
 
 Love is ecstasy, it's divine to be enchanted
 When your dreams are slanted through a lover's eyes
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Soulful Truth
 artists:
 - Barbara Mason
+external_ids:
+  spotify: spotify:track:4bjOes4xHKSBNNp5W069Ib
 features: []
-genres: []
+first_released_as_single: false
 key: from-his-woman-to-you-barbara-mason
 lyrics_url: https://genius.com/Barbara-mason-from-his-woman-to-you-lyrics
 name: From His Woman To You
@@ -47,6 +50,8 @@ rankings:
   rank: 52
   ranking_list: Billboard Hot 100
   start_date: '1975-02-01'
+release_year: 1974
+runtime: 298466
 ---
 "Hello Barbara, this is Shirley
 I would like you to know that the man...

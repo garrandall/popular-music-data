@@ -1,8 +1,11 @@
 ---
+album: ye
 artists:
 - Kanye West
+external_ids:
+  spotify: spotify:track:0yhxBvedRdGxsPZHJNI4VA
 features: []
-genres: []
+first_released_as_single: false
 key: i-thought-about-killing-you-kanye-west
 lyrics_url: https://genius.com/Kanye-west-i-thought-about-killing-you-lyrics
 name: I Thought About Killing You
@@ -11,6 +14,8 @@ rankings:
   rank: 28
   ranking_list: Billboard Hot 100
   start_date: '2018-06-16'
+release_year: 2018
+runtime: 274186
 ---
 I know, I know, I know, I know, know
 I know, I know, I know, I know, know

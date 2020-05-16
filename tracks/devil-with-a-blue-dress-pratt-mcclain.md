@@ -1,9 +1,12 @@
 ---
+album: Pratt & McClain featuring "Happy Days"
 artists:
 - Pratt
 - McClain
+external_ids:
+  spotify: spotify:track:2bZKmeIiF79MMBH9VINdpM
 features: []
-genres: []
+first_released_as_single: false
 key: devil-with-a-blue-dress-pratt-mcclain
 lyrics_url: https://www.musixmatch.com/lyrics/Pratt-McClain/Devil-With-a-Blue-Dress
 name: Devil With A Blue Dress
@@ -24,6 +27,8 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '1976-08-07'
+release_year: 1976
+runtime: 254862
 ---
 Devil with the blue dress, blue dress, blue dress
 Devil with the blue dress on

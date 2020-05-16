@@ -1,8 +1,11 @@
 ---
+album: Stay The Same
 artists:
 - Joey McIntyre
+external_ids:
+  spotify: spotify:track:0LX9NtcK0BdAp83Tl5pDIJ
 features: []
-genres: []
+first_released_as_single: false
 key: i-love-you-came-too-late-joey-mcintyre
 lyrics_url: https://genius.com/Joey-mcintyre-i-love-you-came-too-late-lyrics
 name: I Love You Came Too Late
@@ -31,6 +34,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1999-10-09'
+release_year: 1999
+runtime: 194400
 ---
 Baby listen to me
 If I had the chance

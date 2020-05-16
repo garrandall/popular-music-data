@@ -1,9 +1,12 @@
 ---
+album: Kathy, My Girl
 artists:
 - Randy
 - The Rainbows
+external_ids:
+  spotify: spotify:track:2uyTuHLAB3unDK1vkjViH5
 features: []
-genres: []
+first_released_as_single: false
 key: denise-randy-the-rainbows
 lyrics_url: https://www.azlyrics.com/lyrics/randytherainbows/denise.html
 name: Denise
@@ -76,8 +79,9 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '1963-10-05'
+release_year: 1963
+runtime: 118413
 ---
-
 Oh Denise, shooby doo
 I'm in love with you, Denise, shooby doo
 I'm in love with you, Denise, shooby doo
@@ -118,6 +122,3 @@ Oh Denise, shooby doo
 I'm in love with you, Denise, shooby doo
 I'm in love with you, Denise, shooby doo
 I'm in love with you
-
-
-

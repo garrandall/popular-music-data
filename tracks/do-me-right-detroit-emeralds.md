@@ -1,8 +1,11 @@
 ---
+album: Do Me Right
 artists:
 - Detroit Emeralds
+external_ids:
+  spotify: spotify:track:4cOestgYrks0dUNXl5mJtV
 features: []
-genres: []
+first_released_as_single: false
 key: do-me-right-detroit-emeralds
 lyrics_url: https://www.musixmatch.com/lyrics/Detroit-Emeralds/Do-Me-Right
 name: Do Me Right
@@ -63,6 +66,8 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '1971-05-22'
+release_year: 1971
+runtime: 168714
 ---
 Do me right
 I'll do you no wrong

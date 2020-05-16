@@ -1,9 +1,12 @@
 ---
+album: Forget The World
 artists:
 - Afrojack
+external_ids:
+  spotify: spotify:track:2ldAdghnrO34HPcZ0IWfTu
 features:
 - Wrabel
-genres: []
+first_released_as_single: false
 key: ten-feet-tall-afrojack-wrabel
 lyrics_url: https://www.azlyrics.com/lyrics/afrojack/tenfeettall.html
 name: Ten Feet Tall
@@ -12,8 +15,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2014-07-19'
+release_year: 2014
+runtime: 229149
 ---
-
 I'm clumsy, yeah my head's a mess
 'Cause you got me growing taller everyday
 We're giants in a little man's world
@@ -59,4 +63,3 @@ Oh, oh, oh
 I'm ten feet tall
 Oh, oh, oh
 I'm ten feet tall
-

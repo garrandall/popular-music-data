@@ -1,8 +1,11 @@
 ---
+album: Bad Blood
 artists:
 - Bastille
+external_ids:
+  spotify: spotify:track:2HHiH52OPxe8qyVO7N4uH7
 features: []
-genres: []
+first_released_as_single: false
 key: bad-blood-bastille
 lyrics_url: https://genius.com/Bastille-bad-blood-lyrics
 name: Bad Blood
@@ -11,6 +14,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2014-04-26'
+release_year: 2013
+runtime: 212613
 ---
 I don't wanna talk about it
 I don't wanna talk about it

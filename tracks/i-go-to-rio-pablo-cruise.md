@@ -1,8 +1,11 @@
 ---
+album: Worlds Away
 artists:
 - Pablo Cruise
+external_ids:
+  spotify: spotify:track:698F9QrhDemBL8WUKR9PlW
 features: []
-genres: []
+first_released_as_single: false
 key: i-go-to-rio-pablo-cruise
 lyrics_url: https://www.azlyrics.com/lyrics/pablocruise/igotorio.html
 name: I Go To Rio
@@ -39,8 +42,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1979-03-03'
+release_year: 1978
+runtime: 239733
 ---
-
 Hello?
 Hello, Bill. This is Pablo
 Where are you?
@@ -135,6 +139,3 @@ I put it in
 Take me where I know
 I'm gon' to Rio
 Oh oh
-
-
-

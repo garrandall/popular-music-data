@@ -1,8 +1,11 @@
 ---
+album: All-Time Greatest Hits
 artists:
 - Lee Greenwood
+external_ids:
+  spotify: spotify:track:5CxsREoQI9e8lZIrEeiDA5
 features: []
-genres: []
+first_released_as_single: false
 key: iou-lee-greenwood
 lyrics_url: https://genius.com/Lee-greenwood-iou-lyrics
 name: Iou
@@ -51,6 +54,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1983-08-06'
+release_year: 1983
+runtime: 186013
 ---
 You believe, that l've changed your life forever
 And you're never gonna find another somebody like me

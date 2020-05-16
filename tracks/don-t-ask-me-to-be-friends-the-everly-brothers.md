@@ -1,8 +1,11 @@
 ---
+album: 60's Romance
 artists:
 - The Everly Brothers
+external_ids:
+  spotify: spotify:track:26tY1oOrCnLsPHGoayAADo
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-ask-me-to-be-friends-the-everly-brothers
 lyrics_url: https://genius.com/The-everly-brothers-dont-ask-me-to-be-friends-lyrics
 name: Don't Ask Me To Be Friends
@@ -35,6 +38,8 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '1962-12-01'
+release_year: 1962
+runtime: 149973
 ---
 After all we've been
 To one another

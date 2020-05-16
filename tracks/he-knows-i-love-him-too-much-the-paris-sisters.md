@@ -1,8 +1,11 @@
 ---
+album: Best Of The Paris Sisters
 artists:
 - The Paris Sisters
+external_ids:
+  spotify: spotify:track:2PWsXnkraV4vamzbjpF3Wi
 features: []
-genres: []
+first_released_as_single: false
 key: he-knows-i-love-him-too-much-the-paris-sisters
 lyrics_url: https://genius.com/The-paris-sisters-he-knows-i-love-him-too-much-lyrics
 name: He Knows I Love Him Too Much
@@ -47,6 +50,8 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '1962-03-31'
+release_year: 1962
+runtime: 166000
 ---
 He can stay away too long
 Then come back like nothin's wrong

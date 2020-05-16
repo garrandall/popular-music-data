@@ -1,9 +1,12 @@
 ---
+album: Like Father Like Son
 artists:
 - Birdman
 - Lil Wayne
+external_ids:
+  spotify: spotify:track:3rMyMv8EjKXoPnaRo2hdJN
 features: []
-genres: []
+first_released_as_single: false
 key: stuntin--like-my-daddy-birdman-lil-wayne
 lyrics_url: https://www.azlyrics.com/lyrics/birdman/stuntinlikemydaddy.html
 name: Stuntin' Like My Daddy
@@ -88,9 +91,9 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '2007-01-27'
+release_year: 2006
+runtime: 267293
 ---
-
-
 "Pyong" on the Yamaha, chromed out 11 hundred
 What I'm doing? Getting money. What we doing? Getting money
 What they doing? Hating on me, but they never cross
@@ -170,6 +173,3 @@ I'm still ballin', a bullet gotta get me
 And I've never been a pussy cause my hood never let me
 A made nigga, got made niggas with me
 I'm a motorcycle boy, so I'm about to park the Bentley
-
-
-

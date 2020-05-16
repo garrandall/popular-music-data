@@ -1,8 +1,11 @@
 ---
+album: Greatest Hits
 artists:
 - Bobby Freeman
+external_ids:
+  spotify: spotify:track:2FQcPtw6VJ8t2D8YC6OiCC
 features: []
-genres: []
+first_released_as_single: false
 key: -i-do-the--shimmy-shimmy-bobby-freeman
 lyrics_url: https://genius.com/Bobby-freeman-i-do-the-shimmy-shimmy-lyrics
 name: (I Do The) Shimmy Shimmy
@@ -59,6 +62,8 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1960-11-07'
+release_year: 1960
+runtime: 157466
 ---
 Shimmy shimmy, to and fro
 Shimmy shimmy, to and fro

@@ -1,8 +1,11 @@
 ---
+album: Rolling Papers
 artists:
 - Wiz Khalifa
+external_ids:
+  spotify: spotify:track:53DB6LJV9B8sz0p1s6tlGS
 features: []
-genres: []
+first_released_as_single: false
 key: roll-up-wiz-khalifa
 lyrics_url: https://genius.com/Wiz-khalifa-roll-up-lyrics
 name: Roll Up
@@ -95,6 +98,8 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '2011-07-23'
+release_year: 2011
+runtime: 227773
 ---
 I roll up
 I roll up

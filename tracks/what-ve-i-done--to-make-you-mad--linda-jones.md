@@ -1,8 +1,11 @@
 ---
+album: Hypnotized
 artists:
 - Linda Jones
+external_ids:
+  spotify: spotify:track:23WQ46Xx63TGMOJ8dtl6OI
 features: []
-genres: []
+first_released_as_single: false
 key: what-ve-i-done--to-make-you-mad--linda-jones
 name: What've I Done (To Make You Mad)
 rankings:
@@ -30,5 +33,7 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '1967-11-04'
+release_year: 1967
+runtime: 138853
 ---
 

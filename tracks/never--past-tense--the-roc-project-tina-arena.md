@@ -1,9 +1,12 @@
 ---
+album: "Vous \xEAtes toujours l\xE0"
 artists:
 - The Roc Project
+external_ids:
+  spotify: spotify:track:64YTahrpTcJ2BgnEaTs9yb
 features:
 - Tina Arena
-genres: []
+first_released_as_single: false
 key: never--past-tense--the-roc-project-tina-arena
 lyrics_url: https://genius.com/The-roc-project-and-tina-arena-never-lyrics
 name: Never (Past Tense)
@@ -28,6 +31,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2003-12-13'
+release_year: 2003
+runtime: 224386
 ---
 I can't be with you again
 Don't remind me of the good times we had

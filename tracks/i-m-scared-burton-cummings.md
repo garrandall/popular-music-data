@@ -1,8 +1,11 @@
 ---
+album: Burton Cummings
 artists:
 - Burton Cummings
+external_ids:
+  spotify: spotify:track:2Vo4QsdcoU1ak1uCPWXBnl
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-scared-burton-cummings
 lyrics_url: https://genius.com/Burton-cummings-im-scared-lyrics
 name: I'm Scared
@@ -27,6 +30,8 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '1977-03-19'
+release_year: 1976
+runtime: 245226
 ---
 Said I'm scared, Lord, I'm scared, I'm terrified
 Never been much on religion

@@ -1,8 +1,11 @@
 ---
+album: Hannah Montana 3
 artists:
 - Hannah Montana
+external_ids:
+  spotify: spotify:track:3FRuUuqmFDk3BYHaDzAjTI
 features: []
-genres: []
+first_released_as_single: false
 key: ice-cream-freeze--let-s-chill--hannah-montana
 lyrics_url: https://www.azlyrics.com/lyrics/hannahmontana/icecreamfreezeletschill.html
 name: Ice Cream Freeze (Let's Chill)
@@ -11,8 +14,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '2009-07-25'
+release_year: 2009
+runtime: 187400
 ---
-
 Alright!
 Here we go!
 Follow me now!
@@ -100,6 +104,3 @@ Shake it, shake it, shake it, shake it, shake it
 Put your hands in the air
 Go crazy!
 Everybody, let's chill!
-
-
-

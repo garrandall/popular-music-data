@@ -1,8 +1,11 @@
 ---
+album: Dua Lipa
 artists:
 - Dua Lipa
+external_ids:
+  spotify: spotify:track:7kJlTKjNZVT26iwiDUVhRm
 features: []
-genres: []
+first_released_as_single: true
 key: blow-your-mind--mwah--dua-lipa
 lyrics_url: https://www.azlyrics.com/lyrics/dualipa/blowyourmindmwah.html
 name: Blow Your Mind (Mwah)
@@ -11,8 +14,9 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '2016-11-05'
+release_year: 2016
+runtime: 178583
 ---
-
 I know it's hot
 I know we've got
 Something that money can't buy
@@ -90,6 +94,3 @@ And tonight I'm alive, ain't no dollar sign
 Guaranteed, I can blow your mind, mwah
 And tonight I'm alive, ain't no dollar sign
 Guaranteed, I can blow your mind, mwah
-
-
-

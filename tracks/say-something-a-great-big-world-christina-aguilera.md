@@ -1,9 +1,12 @@
 ---
+album: Is There Anybody Out There?
 artists:
 - A Great Big World
 - Christina Aguilera
+external_ids:
+  spotify: spotify:track:78TKtlSLWK8pZAKKW3MyQL
 features: []
-genres: []
+first_released_as_single: true
 key: say-something-a-great-big-world-christina-aguilera
 lyrics_url: https://genius.com/Say-something-say-something-tribute-to-a-great-big-world-and-christina-aguilera-instrumental-version-lyrics
 name: Say Something
@@ -112,5 +115,7 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '2014-05-17'
+release_year: 2013
+runtime: 229400
 ---
 Instrumental

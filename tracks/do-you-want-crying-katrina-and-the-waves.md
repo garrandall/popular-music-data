@@ -1,8 +1,11 @@
 ---
+album: Katrina & The Waves
 artists:
 - Katrina And The Waves
+external_ids:
+  spotify: spotify:track:0Ea4GdyudP4ZTJXmm7PNd2
 features: []
-genres: []
+first_released_as_single: false
 key: do-you-want-crying-katrina-and-the-waves
 lyrics_url: https://www.azlyrics.com/lyrics/katrinaandthewaves/doyouwantcrying.html
 name: Do You Want Crying
@@ -47,8 +50,9 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1985-09-28'
+release_year: 1985
+runtime: 214773
 ---
-
 So long now
 Since you walked and left me
 Why did your love grow cold?
@@ -96,6 +100,3 @@ Do you want crying?
 Look, I'm crying
 Do you want crying?
 Oh, oh, oh
-
-
-

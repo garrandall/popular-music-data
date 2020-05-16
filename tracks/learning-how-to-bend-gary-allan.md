@@ -1,8 +1,11 @@
 ---
+album: Living Hard
 artists:
 - Gary Allan
+external_ids:
+  spotify: spotify:track:4s74ZQGzkOKumax5AqZrWC
 features: []
-genres: []
+first_released_as_single: false
 key: learning-how-to-bend-gary-allan
 lyrics_url: https://www.azlyrics.com/lyrics/garyallan/learninghowtobend.html
 name: Learning How To Bend
@@ -23,8 +26,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2008-08-23'
+release_year: 2007
+runtime: 205800
 ---
-
 I'm still learning how to pray
 Trying hard not to stray
 Try to see things your way
@@ -67,6 +71,3 @@ I'm still learning how to bend
 I'm still learning how to bend
 I'll be there till the end
 I'm still learning how to bend
-
-
-

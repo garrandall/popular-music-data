@@ -1,8 +1,11 @@
 ---
+album: Mance
 artists:
 - Etta Jones
+external_ids:
+  spotify: spotify:track:7DcnTlblxJMbB84c8BpqiV
 features: []
-genres: []
+first_released_as_single: false
 key: when-i-fall-in-love-etta-jones
 lyrics_url: https://genius.com/Etta-jones-when-i-fall-in-love-lyrics
 name: When I Fall In Love
@@ -39,6 +42,8 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1961-03-06'
+release_year: 1961
+runtime: 538360
 ---
 When I fall in love
 It  will be forever

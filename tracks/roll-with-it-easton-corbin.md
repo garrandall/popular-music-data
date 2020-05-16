@@ -1,8 +1,11 @@
 ---
+album: Easton Corbin
 artists:
 - Easton Corbin
+external_ids:
+  spotify: spotify:track:68dRlNNEUBrw7VvR9pA6J5
 features: []
-genres: []
+first_released_as_single: true
 key: roll-with-it-easton-corbin
 lyrics_url: https://www.azlyrics.com/lyrics/eastoncorbin/rollwithit.html
 name: Roll With It
@@ -83,8 +86,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2010-12-04'
+release_year: 2009
+runtime: 208413
 ---
-
 I got my old guitar and some fishin poles
 So baby fill that cooler full of something cold
 Don't ask just pack and we'll hit the road runnin
@@ -129,6 +133,3 @@ And it won't be no thing if it starts to rain
 And we have to wait it out in the truck
 We might wind up a little deeper in love
 So baby lets roll with it
-
-
-

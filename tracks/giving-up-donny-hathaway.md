@@ -1,8 +1,11 @@
 ---
+album: Donny Hathaway
 artists:
 - Donny Hathaway
+external_ids:
+  spotify: spotify:track:0OjM5L6DlTQ6FWTZGFE183
 features: []
-genres: []
+first_released_as_single: false
 key: giving-up-donny-hathaway
 lyrics_url: https://www.azlyrics.com/lyrics/donnyhathaway/givingup.html
 name: Giving Up
@@ -27,8 +30,9 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1972-06-10'
+release_year: 1971
+runtime: 380466
 ---
-
 Giving up is hard to do
 When you really love someone
 Giving up... so hard to do
@@ -69,6 +73,3 @@ Giving up
 So hard for me to do
 I don't want to lose you
 Cause you mean so much to me
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: My Kind Of Country
 artists:
 - Reba McEntire
+external_ids:
+  spotify: spotify:track:4m3VFxVwSPk8VGoA9qcLRC
 features: []
-genres: []
+first_released_as_single: false
 key: somebody-reba-mcentire
 lyrics_url: https://genius.com/Reba-mcentire-somebody-lyrics
 name: Somebody
@@ -75,6 +78,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2004-10-02'
+release_year: 1984
+runtime: 213560
 ---
 At a diner down on Broadway they make small talk
 When she brings his eggs and fills his coffee cup

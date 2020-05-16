@@ -1,8 +1,11 @@
 ---
+album: Muddy Waters
 artists:
 - Redman
+external_ids:
+  spotify: spotify:track:0pSaDwrMLM7F82LWJg9v6s
 features: []
-genres: []
+first_released_as_single: false
 key: whateva-man-redman
 lyrics_url: https://www.azlyrics.com/lyrics/redman/whatevaman.html
 name: Whateva Man
@@ -67,10 +70,10 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1997-05-10'
+release_year: 1996
+runtime: 188546
 ---
-
-
- Microphone check one two
+Microphone check one two
 Aiyyo, you ready to get down man?
  Yo, whateva man
  You ready to get drunk as fuck?
@@ -157,8 +160,3 @@ Ten on it, get on it, or get the fuck out my cypher
  Whateva man
  You ready to guzzle this liquor?
  Whateva man
-
-
-
-
-

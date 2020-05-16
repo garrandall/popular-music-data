@@ -1,8 +1,11 @@
 ---
+album: Flesh And Blood
 artists:
 - Roxy Music
+external_ids:
+  spotify: spotify:track:3FUgeEAXmITQys2lwVhU2Y
 features: []
-genres: []
+first_released_as_single: false
 key: over-you-roxy-music
 lyrics_url: https://www.musixmatch.com/lyrics/Roxy-Music/Over-You
 name: Over You
@@ -23,6 +26,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1980-08-30'
+release_year: 1980
+runtime: 207026
 ---
 Oh baby this is nowhere
 Wish I was somewhere - over you

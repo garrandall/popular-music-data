@@ -1,8 +1,11 @@
 ---
+album: Save the Last Dance for Me
 artists:
 - The Drifters
+external_ids:
+  spotify: spotify:track:4eXw75zmi8x2Rz27tFyiHL
 features: []
-genres: []
+first_released_as_single: false
 key: lonely-winds-the-drifters
 lyrics_url: https://www.azlyrics.com/lyrics/drifters/lonelywinds.html
 name: Lonely Winds
@@ -43,8 +46,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1960-07-18'
+release_year: 1960
+runtime: 167333
 ---
-
 Lonely wind, lonely wind
 Lonely wind, lonely wind
 
@@ -126,6 +130,3 @@ Yeah, yeah, yeah
 Yeah, yeah, yeah, yeah
 (Lonely winds)
 Yeah, yeah, yeah, yeah
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: The Hurdy Gurdy Man
 artists:
 - Donovan
+external_ids:
+  spotify: spotify:track:2khzOhrj293pjZgcyWIqrm
 features: []
-genres: []
+first_released_as_single: false
 key: jennifer-juniper-donovan
 lyrics_url: https://www.azlyrics.com/lyrics/donovan/jenniferjuniper.html
 name: Jennifer Juniper
@@ -43,8 +46,9 @@ rankings:
   rank: 52
   ranking_list: Billboard Hot 100
   start_date: '1968-05-04'
+release_year: 1964
+runtime: 162906
 ---
-
 Jennifer Juniper, lives upon the hill
 Jennifer Juniper, sitting very still
 
@@ -84,6 +88,3 @@ Qu'est-ce que tu fais, Jenny, mon amour?
 Jennifer Juniper
 Jennifer Juniper
 Jennifer Juniper
-
-
-

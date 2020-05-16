@@ -1,8 +1,11 @@
 ---
+album: Tell Me Why & Other Favorites
 artists:
 - The Belmonts
+external_ids:
+  spotify: spotify:track:24JIP5hydmXKT1aX4Nwejq
 features: []
-genres: []
+first_released_as_single: false
 key: come-on-little-angel-the-belmonts
 lyrics_url: https://genius.com/The-belmonts-come-on-little-angel-lyrics
 name: Come On Little Angel
@@ -63,6 +66,8 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '1962-10-20'
+release_year: 1962
+runtime: 180313
 ---
 Come on little angel won't you dance with me
 Well at last I know you know it was plain to see

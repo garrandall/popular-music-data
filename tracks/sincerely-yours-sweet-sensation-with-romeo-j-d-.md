@@ -1,7 +1,8 @@
 ---
 artists:
-- Sweet Sensation With Romeo J.D.
-features: []
+- Sweet Sensation
+features:
+- Romeo J.D.
 genres: []
 key: sincerely-yours-sweet-sensation-with-romeo-j-d-
 name: Sincerely Yours

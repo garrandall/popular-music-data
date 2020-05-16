@@ -1,8 +1,11 @@
 ---
+album: Music and Me
 artists:
 - Michael Jackson
+external_ids:
+  spotify: spotify:track:0ls2HeVRI2LELC9uk43Kje
 features: []
-genres: []
+first_released_as_single: false
 key: with-a-child-s-heart-michael-jackson
 lyrics_url: https://www.musixmatch.com/lyrics/Michael-Jackson/With-a-Child-s-Heart
 name: With A Child's Heart
@@ -35,6 +38,8 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '1973-06-16'
+release_year: 1973
+runtime: 214320
 ---
 With a child's heart
 Go face the worries of the day

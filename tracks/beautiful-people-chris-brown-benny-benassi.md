@@ -1,9 +1,12 @@
 ---
+album: F.A.M.E.
 artists:
 - Chris Brown
+external_ids:
+  spotify: spotify:track:4dWwszfZ6vOmgUBpcMIP68
 features:
 - Benny Benassi
-genres: []
+first_released_as_single: true
 key: beautiful-people-chris-brown-benny-benassi
 lyrics_url: https://genius.com/Chris-brown-beautiful-people-lyrics
 name: Beautiful People
@@ -24,6 +27,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2011-10-08'
+release_year: 2011
+runtime: 380480
 ---
 Everywhere everywhere, everywhere I go
 Everywhere that I've been the only thing I see is

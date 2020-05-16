@@ -1,9 +1,12 @@
 ---
+album: Superstition
 artists:
 - Siouxsie
 - The Banshees
+external_ids:
+  spotify: spotify:track:3rW0ATGLT6kOUtfsIKygyI
 features: []
-genres: []
+first_released_as_single: false
 key: kiss-them-for-me-siouxsie-the-banshees
 lyrics_url: https://www.azlyrics.com/lyrics/siouxsieandthebanshees/kissthemforme.html
 name: Kiss Them For Me
@@ -60,8 +63,9 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1991-11-09'
+release_year: 1991
+runtime: 277146
 ---
-
 It glittered and it gleamed
 For the arriving beauty queen
 A ring and a car
@@ -102,6 +106,3 @@ Kiss them for me, I may find myself delayed
 
 Kiss them for me, kiss them for me
 Kiss them for me, I may be delayed
-
-
-

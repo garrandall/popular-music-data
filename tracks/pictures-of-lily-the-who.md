@@ -1,8 +1,11 @@
 ---
+album: A tribute to The Who
 artists:
 - The Who
+external_ids:
+  spotify: spotify:track:123RhEzztpTieeEd13NexC
 features: []
-genres: []
+first_released_as_single: false
 key: pictures-of-lily-the-who
 lyrics_url: https://www.azlyrics.com/lyrics/who/picturesoflily.html
 name: Pictures Of Lily
@@ -31,8 +34,9 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '1967-08-05'
+release_year: 1967
+runtime: 162760
 ---
-
 I used to wake up in the morning
 I used to feel so bad
 I got so sick of having sleepless nights
@@ -74,6 +78,3 @@ Pictures of Lily
 But me and Lily are together in my dreams
 And I ask ya, "Hey mister have ya ever seen?"
 Pictures of Lily!
-
-
-

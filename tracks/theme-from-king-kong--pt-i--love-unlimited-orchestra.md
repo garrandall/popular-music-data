@@ -1,8 +1,11 @@
 ---
+album: Unlimited
 artists:
 - Love Unlimited Orchestra
+external_ids:
+  spotify: spotify:track:18elM8wvq0jzzNiQWTzhab
 features: []
-genres: []
+first_released_as_single: false
 key: theme-from-king-kong--pt-i--love-unlimited-orchestra
 name: Theme From King Kong (Pt I)
 rankings:
@@ -34,5 +37,7 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '1977-03-05'
+release_year: 1977
+runtime: 485706
 ---
 

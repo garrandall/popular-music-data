@@ -1,8 +1,11 @@
 ---
+album: So Long, Astoria
 artists:
 - The Ataris
+external_ids:
+  spotify: spotify:track:5BmagRD7Thki6O1zZwbxBy
 features: []
-genres: []
+first_released_as_single: false
 key: the-boys-of-summer-the-ataris
 lyrics_url: https://www.azlyrics.com/lyrics/ataris/theboysofsummer.html
 name: The Boys Of Summer
@@ -79,8 +82,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2003-11-22'
+release_year: 2003
+runtime: 258000
 ---
-
 Nobody on the road
 Nobody on the beach
 I feel it in the air
@@ -128,6 +132,3 @@ Your brown skin shinin' in the sun
 You got that hair slicked back and those Wayfarers on, baby
 I can tell you my love for you will still be strong
 After the boys of summer have gone
-
-
-

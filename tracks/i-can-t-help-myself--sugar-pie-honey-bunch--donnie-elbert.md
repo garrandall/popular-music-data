@@ -1,8 +1,11 @@
 ---
+album: I Can't Help Myself / Love Is Here
 artists:
 - Donnie Elbert
+external_ids:
+  spotify: spotify:track:6v3R4WlQUw1hweXEeRcRsW
 features: []
-genres: []
+first_released_as_single: true
 key: i-can-t-help-myself--sugar-pie-honey-bunch--donnie-elbert
 lyrics_url: https://genius.com/Donnie-elbert-i-cant-help-myself-lyrics
 name: I Can't Help Myself (Sugar Pie Honey Bunch)
@@ -43,6 +46,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1972-03-25'
+release_year: 1972
+runtime: 156723
 ---
 Sugarpie, honeybunch
 You know that I love you

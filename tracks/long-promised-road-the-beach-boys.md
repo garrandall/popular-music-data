@@ -1,8 +1,11 @@
 ---
+album: Surf's Up
 artists:
 - The Beach Boys
+external_ids:
+  spotify: spotify:track:4x3wjsXr6MtWNXii5gA1Ai
 features: []
-genres: []
+first_released_as_single: false
 key: long-promised-road-the-beach-boys
 lyrics_url: https://www.azlyrics.com/lyrics/beachboys/longpromisedroad.html
 name: Long Promised Road
@@ -27,8 +30,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1971-11-27'
+release_year: 1971
+runtime: 212573
 ---
-
 So hard to answer future's riddle
 When ahead is seeming so far behind
 So hard to laugh a child-like giggle
@@ -85,6 +89,3 @@ I'd love to see you
 I'd love to see you
 I'd love to see you
 I'd love to see you
-
-
-

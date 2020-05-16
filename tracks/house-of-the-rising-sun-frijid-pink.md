@@ -1,8 +1,11 @@
 ---
+album: On the Edge
 artists:
 - Frijid Pink
+external_ids:
+  spotify: spotify:track:2lCv7li31yvGnH1H3TUbez
 features: []
-genres: []
+first_released_as_single: true
 key: house-of-the-rising-sun-frijid-pink
 lyrics_url: https://genius.com/Frijid-pink-house-of-the-rising-sun-lyrics
 name: House Of The Rising Sun
@@ -59,6 +62,8 @@ rankings:
   rank: 27
   ranking_list: Billboard Hot 100
   start_date: '1970-05-02'
+release_year: 1970
+runtime: 271946
 ---
 There is a house in New Orleans
 They call the rising sun

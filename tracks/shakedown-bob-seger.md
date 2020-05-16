@@ -1,8 +1,11 @@
 ---
+album: Greatest Hits 2
 artists:
 - Bob Seger
+external_ids:
+  spotify: spotify:track:303oOLP2Jf6M4rke52qItM
 features: []
-genres: []
+first_released_as_single: false
 key: shakedown-bob-seger
 lyrics_url: https://www.azlyrics.com/lyrics/bobseger/shakedown.html
 name: Shakedown
@@ -79,8 +82,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1987-09-19'
+release_year: 1987
+runtime: 241946
 ---
-
 No matter what you think you pull you'll find it's not enough
 No matter who you think you know you won't get through
 It's a given L.A. law
@@ -167,6 +171,3 @@ You're busted
 Let down
 Your guard
 Honey, just about the time you're thinkin' it's alright
-
-
-

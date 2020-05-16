@@ -1,8 +1,11 @@
 ---
+album: I AM YOU
 artists:
 - YNW Melly
+external_ids:
+  spotify: spotify:track:3dQ7q0vGS0NryPfW1W8wZ3
 features: []
-genres: []
+first_released_as_single: true
 key: murder-on-my-mind-ynw-melly
 lyrics_url: https://www.azlyrics.com/lyrics/ynwmelly/murderonmymind.html
 name: Murder On My Mind
@@ -87,8 +90,9 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '2019-06-15'
+release_year: 2018
+runtime: 269794
 ---
-
 Get to roll no
 Ay, I'm in the studio, bro
 Oh, nah, yeah, call me, ball me
@@ -176,6 +180,3 @@ I got murder on my mind
 Whoa-oh-oh-oh
 Young Nigga World, bitch
 Whoa-oh-oh-oh
-
-
-

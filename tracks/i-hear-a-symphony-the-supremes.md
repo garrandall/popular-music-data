@@ -1,8 +1,11 @@
 ---
+album: I Hear A Symphony
 artists:
 - The Supremes
+external_ids:
+  spotify: spotify:track:5SCB7L1alKg7ZEeSw7Sq9f
 features: []
-genres: []
+first_released_as_single: false
 key: i-hear-a-symphony-the-supremes
 lyrics_url: https://www.azlyrics.com/lyrics/supremes/ihearasymphony.html
 name: I Hear A Symphony
@@ -47,8 +50,9 @@ rankings:
   rank: 30
   ranking_list: Billboard Hot 100
   start_date: '1966-01-01'
+release_year: 1965
+runtime: 162533
 ---
-
 You've given me a true love
 And every day I thank you, love
 For a feeling that's so new
@@ -85,6 +89,3 @@ Keep standing close to me
 Oh, so close to me, baby, baby, baby, baby
 I hear a symphony
 A tender melody
-
-
-

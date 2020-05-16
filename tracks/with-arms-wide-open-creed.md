@@ -1,8 +1,11 @@
 ---
+album: Human Clay
 artists:
 - Creed
+external_ids:
+  spotify: spotify:track:0eKyHwckh9vQb8ncZ2DXCs
 features: []
-genres: []
+first_released_as_single: false
 key: with-arms-wide-open-creed
 lyrics_url: https://www.azlyrics.com/lyrics/creed/witharmswideopen.html
 name: With Arms Wide Open
@@ -195,8 +198,9 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '2001-03-31'
+release_year: 1999
+runtime: 274800
 ---
-
 Well I just heard the news today
 It seems my life is gonna change
 I close my eyes, begin to pray
@@ -250,6 +254,3 @@ With arms wide open
 
 I'll show you everything
 With arms wide open, wide open
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Essential
 artists:
 - Matt Monro
+external_ids:
+  spotify: spotify:track:4otoz66kYmUhJckTRaQVtu
 features: []
-genres: []
+first_released_as_single: false
 key: my-kind-of-girl-matt-monro
 lyrics_url: https://genius.com/Matt-monro-my-kind-of-girl-lyrics
 name: My Kind Of Girl
@@ -63,6 +66,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1961-08-28'
+release_year: 1961
+runtime: 177600
 ---
 She walks like an angel walks
 She talks like an angel talks

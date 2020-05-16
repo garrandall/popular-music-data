@@ -1,8 +1,11 @@
 ---
+album: The Cookbook
 artists:
 - Missy Elliott
+external_ids:
+  spotify: spotify:track:4z5fkIflIBvSG9elVNmiOJ
 features: []
-genres: []
+first_released_as_single: false
 key: we-run-this-missy-elliott
 lyrics_url: https://genius.com/Missy-elliott-we-run-this-lyrics
 name: We Run This
@@ -27,6 +30,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2006-06-03'
+release_year: 2005
+runtime: 204461
 ---
 My style can't be duplicated or recycled
 This chick is a sick individual

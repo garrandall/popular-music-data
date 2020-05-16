@@ -1,8 +1,11 @@
 ---
+album: Secret Love (Shellac Memories)
 artists:
 - Frankie Avalon
+external_ids:
+  spotify: spotify:track:0pd7Kno7y61Kf7KSCvBrSd
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-throw-away-all-those-teardrops-frankie-avalon
 lyrics_url: https://genius.com/Frankie-avalon-dont-throw-away-all-those-teardrops-lyrics
 name: Don't Throw Away All Those Teardrops
@@ -47,6 +50,8 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '1960-05-16'
+release_year: 1960
+runtime: 147908
 ---
 I love you, I need you
 I understand

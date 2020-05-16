@@ -1,8 +1,11 @@
 ---
+album: Blonde
 artists:
 - Frank Ocean
+external_ids:
+  spotify: spotify:track:3xKsf9qdS1CyvXSMEid6g8
 features: []
-genres: []
+first_released_as_single: false
 key: pink---white-frank-ocean
 lyrics_url: https://www.azlyrics.com/lyrics/frankocean/pinkwhite.html
 name: Pink + White
@@ -11,9 +14,9 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '2016-09-10'
+release_year: 2016
+runtime: 184516
 ---
-
-
 Yeah, yeah oh
 Yeah, yeah yeah
 
@@ -71,6 +74,3 @@ Stealing granny cigs (Take it easy)
 Gimme something sweet
 Bitch, I might like immortality
 This is life, life immortality
-
-
-

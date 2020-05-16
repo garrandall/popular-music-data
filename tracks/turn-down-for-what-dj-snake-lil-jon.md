@@ -1,9 +1,12 @@
 ---
+album: Turn Down for What
 artists:
 - DJ Snake
 - Lil Jon
+external_ids:
+  spotify: spotify:track:67awxiNHNyjMXhVgsHuIrs
 features: []
-genres: []
+first_released_as_single: true
 key: turn-down-for-what-dj-snake-lil-jon
 lyrics_url: https://genius.com/Dj-snake-and-lil-jon-turn-down-for-what-lyrics
 name: Turn Down For What
@@ -156,6 +159,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '2014-09-20'
+release_year: 2013
+runtime: 213733
 ---
 Fire up that loud, another round of shots
 

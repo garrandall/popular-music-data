@@ -1,8 +1,11 @@
 ---
+album: A Momentary Lapse of Reason
 artists:
 - Pink Floyd
+external_ids:
+  spotify: spotify:track:3ieDOGcOqVxScs2VZBzidt
 features: []
-genres: []
+first_released_as_single: false
 key: learning-to-fly-pink-floyd
 lyrics_url: https://www.azlyrics.com/lyrics/pinkfloyd/learningtofly.html
 name: Learning To Fly
@@ -39,8 +42,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1987-11-28'
+release_year: 1987
+runtime: 292080
 ---
-
 Into the distance, a ribbon of black
 Stretched to the point of no turning back
 A flight of fancy on a windswept field
@@ -89,6 +93,3 @@ Suspended animation, a state of bliss
 
 Can't keep my mind from the circling skies
 Tongue-tied and twisted just an earth-bound misfit, I
-
-
-

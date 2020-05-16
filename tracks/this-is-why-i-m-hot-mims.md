@@ -1,8 +1,11 @@
 ---
+album: Music Is My Savior
 artists:
 - Mims
+external_ids:
+  spotify: spotify:track:0AA6zq5ArZ1sSH7VIMi4NK
 features: []
-genres: []
+first_released_as_single: false
 key: this-is-why-i-m-hot-mims
 lyrics_url: https://www.musixmatch.com/lyrics/Mims/This-Is-Why-I-m-Hot
 name: This Is Why I'm Hot
@@ -99,6 +102,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '2007-07-07'
+release_year: 2007
+runtime: 253706
 ---
 This is why I'm hot
 This is why I'm hot, yeah

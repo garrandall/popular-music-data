@@ -1,8 +1,11 @@
 ---
+album: Too Young
 artists:
 - Donny Osmond
+external_ids:
+  spotify: spotify:track:3Gfb4v2Bg8QHNyrU0UYOra
 features: []
-genres: []
+first_released_as_single: false
 key: why-donny-osmond
 lyrics_url: https://www.azlyrics.com/lyrics/donnyosmond/why.html
 name: Why
@@ -55,6 +58,8 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '1972-11-11'
+release_year: 1972
+runtime: 164800
 ---
 I'll never let you go
 Why? Because I love you

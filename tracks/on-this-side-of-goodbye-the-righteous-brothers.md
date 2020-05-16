@@ -1,8 +1,11 @@
 ---
+album: The Very Best Of The Righteous Brothers - Unchained Melody
 artists:
 - The Righteous Brothers
+external_ids:
+  spotify: spotify:track:7x29Vj48r9cPuQCEC2VUia
 features: []
-genres: []
+first_released_as_single: false
 key: on-this-side-of-goodbye-the-righteous-brothers
 lyrics_url: https://www.azlyrics.com/lyrics/righteousbrothers/onthissideofgoodbye.html
 name: On This Side Of Goodbye
@@ -31,8 +34,9 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '1966-12-03'
+release_year: 1966
+runtime: 190600
 ---
-
 I've had my taste of independence
 Since the day I set you free
 Now I don't bare the least resemblance
@@ -72,6 +76,3 @@ Now baby, things look so much different now
 On this side of goodbye
 Things look so much different now
 Oh baby
-
-
-

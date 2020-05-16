@@ -1,8 +1,11 @@
 ---
+album: Billy Idol
 artists:
 - Billy Idol
+external_ids:
+  spotify: spotify:track:1gzIbdFnGJ226LTl0Cn2SX
 features: []
-genres: []
+first_released_as_single: false
 key: white-wedding-billy-idol
 lyrics_url: https://genius.com/Billy-idol-white-wedding-lyrics
 name: White Wedding
@@ -59,6 +62,8 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '1983-08-13'
+release_year: 1982
+runtime: 252200
 ---
 Hey little sister, what have you done?
 Hey little sister, who's the only one?

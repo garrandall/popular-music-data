@@ -1,8 +1,11 @@
 ---
+album: 24/7
 artists:
 - Dino
+external_ids:
+  spotify: spotify:track:0El4vsM1m7ef4nMTb0vyrV
 features: []
-genres: []
+first_released_as_single: false
 key: never-2-much-of-u-dino
 lyrics_url: https://genius.com/Dino-dean-esposito-never-2-much-of-u-lyrics
 name: Never 2 Much Of U
@@ -43,6 +46,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1990-02-10'
+release_year: 1989
+runtime: 329960
 ---
 There's never too much of you
 The sun goes up the sun goes down

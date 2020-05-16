@@ -1,8 +1,11 @@
 ---
+album: Scenic Views
 artists:
 - Rubber Rodeo
+external_ids:
+  spotify: spotify:track:2jlcUz84FigsD2IklXSsGI
 features: []
-genres: []
+first_released_as_single: false
 key: anywhere-with-you-rubber-rodeo
 lyrics_url: https://genius.com/Rubber-rodeo-anywhere-with-you-lyrics
 name: Anywhere With You
@@ -27,6 +30,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1984-09-22'
+release_year: 1984
+runtime: 279533
 ---
 Turn around
 And you'll find

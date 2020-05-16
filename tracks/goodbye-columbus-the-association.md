@@ -1,8 +1,11 @@
 ---
+album: Goodbye Columbus
 artists:
 - The Association
+external_ids:
+  spotify: spotify:track:3ZataHBrE33PYEeReqFtKK
 features: []
-genres: []
+first_released_as_single: false
 key: goodbye-columbus-the-association
 lyrics_url: https://www.azlyrics.com/lyrics/association/goodbyecolumbus.html
 name: Goodbye Columbus
@@ -51,8 +54,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1969-10-04'
+release_year: 1969
+runtime: 142066
 ---
-
 Got to say hello
 It's a lucky day
 Kiss the moon goodbye
@@ -108,6 +112,3 @@ It's a lucky day
 Yeah, yeah...
 Goodbye, goodbye Columbus
 Goodbye, goodbye Columbus...
-
-
-

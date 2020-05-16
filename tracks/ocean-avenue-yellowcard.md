@@ -1,8 +1,11 @@
 ---
+album: Ocean Avenue
 artists:
 - Yellowcard
+external_ids:
+  spotify: spotify:track:23oxJmDc1V9uLUSmN2LIvx
 features: []
-genres: []
+first_released_as_single: false
 key: ocean-avenue-yellowcard
 lyrics_url: https://www.azlyrics.com/lyrics/yellowcard/oceanavenue.html
 name: Ocean Avenue
@@ -87,8 +90,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2004-09-25'
+release_year: 2003
+runtime: 198266
 ---
-
 There's a place off Ocean Avenue
 Where I used to sit and talk with you
 We were both 16 and it felt so right
@@ -129,6 +133,3 @@ If I could find you now things would get better
 We could leave this town and run forever
 I know somewhere, somehow we'll be together
 Let your waves crash down on me and take me away
-
-
-

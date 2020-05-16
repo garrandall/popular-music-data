@@ -1,8 +1,11 @@
 ---
+album: The Motown Anthology
 artists:
 - Kim Weston
+external_ids:
+  spotify: spotify:track:14VLPV5U9S6bWbM2nOxs83
 features: []
-genres: []
+first_released_as_single: false
 key: helpless-kim-weston
 lyrics_url: https://genius.com/Kim-weston-helpless-lyrics
 name: Helpless
@@ -35,6 +38,8 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '1966-04-23'
+release_year: 1966
+runtime: 155426
 ---
 Every day I walk some lonely street
 Searching for you 'til you come back to me

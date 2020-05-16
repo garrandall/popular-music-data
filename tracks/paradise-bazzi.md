@@ -1,8 +1,11 @@
 ---
+album: Soul Searching
 artists:
 - Bazzi
+external_ids:
+  spotify: spotify:track:0l6x309YwxTrgsIBHgk6u0
 features: []
-genres: []
+first_released_as_single: true
 key: paradise-bazzi
 lyrics_url: https://www.azlyrics.com/lyrics/bazzi/paradise.html
 name: Paradise
@@ -19,8 +22,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2019-06-08'
+release_year: 2019
+runtime: 244250
 ---
-
 One, two, three, four
 
 Hands on your body
@@ -79,6 +83,3 @@ But I swear I've never loved you more
 With you right here I come alive
 One more hit and we can fly
 This shit feel like (Paradise)
-
-
-

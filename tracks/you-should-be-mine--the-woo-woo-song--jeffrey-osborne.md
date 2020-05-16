@@ -1,8 +1,11 @@
 ---
+album: Emotional
 artists:
 - Jeffrey Osborne
+external_ids:
+  spotify: spotify:track:2SfuAy85nKuB71LCLZFDPk
 features: []
-genres: []
+first_released_as_single: false
 key: you-should-be-mine--the-woo-woo-song--jeffrey-osborne
 lyrics_url: https://www.azlyrics.com/lyrics/jeffreyosborne/youshouldbeminethewoowoosong.html
 name: You Should Be Mine (The Woo Woo Song)
@@ -83,8 +86,9 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1986-09-27'
+release_year: 1986
+runtime: 266506
 ---
-
 Oh...Oh
 
 When you wants all the lu you deserve and the heat's on your mind.
@@ -152,6 +156,3 @@ Oh...Oh, Oh...Oh
 
 
 Oh...Oh, Oh...Oh
-
-
-

@@ -1,10 +1,13 @@
 ---
+album: The Understanding
 artists:
 - Memphis Bleek
+external_ids:
+  spotify: spotify:track:4aWxp4mBOnWIUDlXb4ngaV
 features:
 - Jay-Z
 - Missy Elliott
-genres: []
+first_released_as_single: false
 key: is-that-your-chick-memphis-bleek-jay-z-missy-elliott
 lyrics_url: https://www.azlyrics.com/lyrics/memphisbleek/isthatyourchickthelostverses.html
 name: Is That Your Chick
@@ -61,9 +64,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2001-03-10'
+release_year: 2000
+runtime: 294040
 ---
-
-
 R-O-C
 Memph Bleek
 Jigga man
@@ -305,6 +308,3 @@ Is that your chick?
 Why she beeping him?
 Keep praising him?
 Cause that's Bleek and them, trick
-
-
-

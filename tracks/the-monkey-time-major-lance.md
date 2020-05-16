@@ -1,8 +1,11 @@
 ---
+album: 'The Best Of Major Lance: Everybody Loves A Good Time!'
 artists:
 - Major Lance
+external_ids:
+  spotify: spotify:track:6FR1i5g41rMtTSoCK6wQZc
 features: []
-genres: []
+first_released_as_single: false
 key: the-monkey-time-major-lance
 lyrics_url: https://www.musixmatch.com/lyrics/Major-Lance/The-Monkey-Time-Rerecorded
 name: The Monkey Time
@@ -67,6 +70,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1963-10-19'
+release_year: 1963
+runtime: 166466
 ---
 There's a place right across town, whenever you're ready
 Where people gather 'round, whenever they're ready

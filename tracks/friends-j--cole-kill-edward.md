@@ -1,9 +1,12 @@
 ---
+album: KOD
 artists:
 - J. Cole
+external_ids:
+  spotify: spotify:track:2GF1SiCjxeNpuvGbROVy8O
 features:
 - kiLL edward
-genres: []
+first_released_as_single: false
 key: friends-j--cole-kill-edward
 lyrics_url: https://www.azlyrics.com/lyrics/jcole/friends.html
 name: Friends
@@ -12,9 +15,9 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '2018-05-05'
+release_year: 2018
+runtime: 257646
 ---
-
-
 Cop another bag of smoke today
 Cop another bag of smoke today
 Cop another bag of smoke today
@@ -113,6 +116,3 @@ Cop another bag of smoke today
 Cop another bag of smoke today
 Cop another bag of smoke today
 Cop another bag of smoke today
-
-
-

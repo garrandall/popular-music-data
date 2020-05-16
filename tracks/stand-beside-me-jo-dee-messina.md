@@ -1,8 +1,11 @@
 ---
+album: I'm Alright
 artists:
 - Jo Dee Messina
+external_ids:
+  spotify: spotify:track:6bZOZIVFWpCydhyXrqP1iR
 features: []
-genres: []
+first_released_as_single: false
 key: stand-beside-me-jo-dee-messina
 lyrics_url: https://www.azlyrics.com/lyrics/jodeemessina/standbesideme.html
 name: Stand Beside Me
@@ -87,8 +90,9 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1999-04-24'
+release_year: 1998
+runtime: 224640
 ---
-
 He left me cryin' late one Sunday night outside of Boulder
 He said he had to find himself out on the road
 I guess when love goes wrong
@@ -125,6 +129,3 @@ I want a man
 Who stands beside me
 Stand beside me
 Stand beside me
-
-
-

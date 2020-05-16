@@ -1,8 +1,11 @@
 ---
+album: Club Going Crazy
 artists:
 - Travis Porter
+external_ids:
+  spotify: spotify:track:45Ry9ZjzPQEFzlhJfae1V8
 features: []
-genres: []
+first_released_as_single: true
 key: bring-it-back-travis-porter
 lyrics_url: https://www.musixmatch.com/lyrics/Travis-Porter/Bring-It-Back
 name: Bring It Back
@@ -47,6 +50,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2011-06-04'
+release_year: 2011
+runtime: 216240
 ---
 Runnin' in that pussy like a crash dummy
 Bend it over, touch ya toes, shake that ass for me

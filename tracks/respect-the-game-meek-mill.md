@@ -1,8 +1,11 @@
 ---
+album: Championships
 artists:
 - Meek Mill
+external_ids:
+  spotify: spotify:track:0xsRJrM2v4wAOWK8UYBx6j
 features: []
-genres: []
+first_released_as_single: false
 key: respect-the-game-meek-mill
 lyrics_url: https://genius.com/Meek-mill-respect-the-game-lyrics
 name: Respect The Game
@@ -11,6 +14,8 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '2018-12-15'
+release_year: 2018
+runtime: 192098
 ---
 Yah
 Big bag, got 'em big mad

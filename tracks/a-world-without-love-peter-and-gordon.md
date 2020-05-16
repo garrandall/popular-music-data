@@ -1,8 +1,11 @@
 ---
+album: The Ultimate Peter And Gordon
 artists:
 - Peter And Gordon
+external_ids:
+  spotify: spotify:track:1A0j6qANKHgk7VZ6uvYO06
 features: []
-genres: []
+first_released_as_single: false
 key: a-world-without-love-peter-and-gordon
 lyrics_url: https://genius.com/Peter-and-gordon-a-world-without-love-lyrics
 name: A World Without Love
@@ -55,6 +58,8 @@ rankings:
   rank: 28
   ranking_list: Billboard Hot 100
   start_date: '1964-07-25'
+release_year: 1964
+runtime: 160880
 ---
 Please lock me away
 And don't allow the day

@@ -1,8 +1,11 @@
 ---
+album: Simple Dreams
 artists:
 - Linda Ronstadt
+external_ids:
+  spotify: spotify:track:3zxklD2EGecZre9MjEEvIU
 features: []
-genres: []
+first_released_as_single: false
 key: blue-bayou-linda-ronstadt
 lyrics_url: https://www.azlyrics.com/lyrics/lindaronstadt/bluebayou.html
 name: Blue Bayou
@@ -99,8 +102,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1978-02-11'
+release_year: 1977
+runtime: 239399
 ---
-
 I feel so bad I got a worried mind
 I'm so lonesome all the time
 Since I left my baby behind
@@ -157,6 +161,3 @@ This hurting inside
 Well I'll never be blue
 My dreams come true
 On Blue Bayou
-
-
-

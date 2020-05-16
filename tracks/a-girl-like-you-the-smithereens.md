@@ -1,8 +1,11 @@
 ---
+album: Smithereens 11
 artists:
 - The Smithereens
+external_ids:
+  spotify: spotify:track:4qz8PpznLcX5AtoUusIiAh
 features: []
-genres: []
+first_released_as_single: false
 key: a-girl-like-you-the-smithereens
 lyrics_url: https://genius.com/The-smithereens-a-girl-like-you-lyrics
 name: A Girl Like You
@@ -87,6 +90,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1990-04-21'
+release_year: 1989
+runtime: 282866
 ---
 The following tone is a reference tone of 700
 Hertz. The remainder of the tones, are

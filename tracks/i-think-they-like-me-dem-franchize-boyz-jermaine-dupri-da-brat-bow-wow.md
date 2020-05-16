@@ -1,11 +1,14 @@
 ---
+album: Jermaine Dupri Presents... Young, Fly & Flashy Vol. 1
 artists:
 - Dem Franchize Boyz
+external_ids:
+  spotify: spotify:track:27Hy9xVNYxG3q4xnKvZago
 features:
 - Jermaine Dupri
 - Da Brat
 - Bow Wow
-genres: []
+first_released_as_single: false
 key: i-think-they-like-me-dem-franchize-boyz-jermaine-dupri-da-brat-bow-wow
 lyrics_url: https://genius.com/Dem-franchize-boyz-i-think-they-like-me-remix-lyrics
 name: I Think They Like Me
@@ -114,6 +117,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2006-03-18'
+release_year: 2005
+runtime: 283333
 ---
 * originally from Jermaine Dupri's "Young Fly & Flashy"
 

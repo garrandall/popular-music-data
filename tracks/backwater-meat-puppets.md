@@ -1,8 +1,11 @@
 ---
+album: Too High To Die
 artists:
 - Meat Puppets
+external_ids:
+  spotify: spotify:track:3KZVWVH4epY2JGaqRs8bqg
 features: []
-genres: []
+first_released_as_single: false
 key: backwater-meat-puppets
 lyrics_url: https://www.azlyrics.com/lyrics/meatpuppets/backwater.html
 name: Backwater
@@ -87,8 +90,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1994-10-22'
+release_year: 1994
+runtime: 220533
 ---
-
 And when I wake up in the morning
 To feel the daybreak on my face
 There's a blood that's flowing through the feeling
@@ -128,6 +132,3 @@ Some things will never change
 You just stand there looking backwards half unconscious from the pain
 It may seem rearranged
 In the backwater swirling there is something that will never change
-
-
-

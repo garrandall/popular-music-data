@@ -1,8 +1,11 @@
 ---
+album: Live At The BBC
 artists:
 - Marianne Faithfull
+external_ids:
+  spotify: spotify:track:6a1gog9IQJ3jMaHhdIaBE0
 features: []
-genres: []
+first_released_as_single: false
 key: go-away-from-my-world-marianne-faithfull
 lyrics_url: https://www.azlyrics.com/lyrics/mariannefaithfull/goawayfrommyworld.html
 name: Go Away From My World
@@ -19,8 +22,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1965-12-25'
+release_year: 1965
+runtime: 153333
 ---
-
 Go away from my world
 Let me dream alone
 And you see it never worked from the start
@@ -43,6 +47,3 @@ I can dream of how I wanted us to be
 Dreams I have the kind I knew could ever be
 
 Go away from my world
-
-
-

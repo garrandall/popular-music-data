@@ -1,8 +1,11 @@
 ---
+album: Sanctuary
 artists:
 - Joji
+external_ids:
+  spotify: spotify:track:3xaugmCyXrVkrDTXbFkMW3
 features: []
-genres: []
+first_released_as_single: true
 key: sanctuary-joji
 lyrics_url: https://www.azlyrics.com/lyrics/joji/sanctuary.html
 name: Sanctuary
@@ -11,8 +14,9 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '2019-06-29'
+release_year: 2019
+runtime: 180018
 ---
-
 Go ahead and bark after dark, fallen star
 I'm your one-call away
 Motel halls, neon walls
@@ -44,6 +48,3 @@ If you've been waiting for falling in love
 Babe, you don't have to wait on me
 'Cause I've been aiming for heaven above
 But an angel ain't what I need
-
-
-

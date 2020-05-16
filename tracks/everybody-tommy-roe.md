@@ -1,8 +1,11 @@
 ---
+album: Everybody Likes Tommy Roe
 artists:
 - Tommy Roe
+external_ids:
+  spotify: spotify:track:4IJcHdY7t0TcHnmjNtPkil
 features: []
-genres: []
+first_released_as_single: false
 key: everybody-tommy-roe
 lyrics_url: https://www.azlyrics.com/lyrics/tommyroe/everybody.html
 name: Everybody
@@ -63,8 +66,9 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1964-01-11'
+release_year: 1963
+runtime: 119186
 ---
-
 Everybody!
 Everybody!
 Everybody's had a broken heart now!
@@ -101,6 +105,3 @@ Everybody's blue when they're lonesome!
 Everybody!
 Everybody!
 Everybody's had the blues
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Wild. Wild West
 artists:
 - The Escape Club
+external_ids:
+  spotify: spotify:track:3No58kMPkXye4EP4iPOiOZ
 features: []
-genres: []
+first_released_as_single: false
 key: shake-for-the-sheik-the-escape-club
 lyrics_url: https://www.azlyrics.com/lyrics/escapeclub/shakeforthesheik.html
 name: Shake For The Sheik
@@ -63,8 +66,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1989-03-11'
+release_year: 1988
+runtime: 242893
 ---
-
 All around the big bad world
 On the CIA machine
 Ten ten the President's men
@@ -118,6 +122,3 @@ Till I feel my body break
 I've got the blues - bad news
 My heart's dropped down to my shoes
 Yeah yeah
-
-
-

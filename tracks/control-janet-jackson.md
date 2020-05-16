@@ -1,8 +1,11 @@
 ---
+album: Control
 artists:
 - Janet Jackson
+external_ids:
+  spotify: spotify:track:5vywtoD7fO1CP0B2wtm6I6
 features: []
-genres: []
+first_released_as_single: false
 key: control-janet-jackson
 lyrics_url: https://genius.com/Janet-jackson-control-lyrics
 name: Control
@@ -79,6 +82,8 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '1987-02-28'
+release_year: 1986
+runtime: 353306
 ---
 This is a story about control
 My control

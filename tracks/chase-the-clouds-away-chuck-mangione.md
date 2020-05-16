@@ -1,8 +1,11 @@
 ---
+album: Chase The Clouds Away
 artists:
 - Chuck Mangione
+external_ids:
+  spotify: spotify:track:2q82JCEyg3G61cEIXk1nqN
 features: []
-genres: []
+first_released_as_single: false
 key: chase-the-clouds-away-chuck-mangione
 name: Chase The Clouds Away
 rankings:
@@ -22,5 +25,7 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1975-08-09'
+release_year: 1975
+runtime: 291800
 ---
 

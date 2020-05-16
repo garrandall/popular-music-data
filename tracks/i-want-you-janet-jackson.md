@@ -1,8 +1,11 @@
 ---
+album: Damita Jo
 artists:
 - Janet Jackson
+external_ids:
+  spotify: spotify:track:0asiXYLtkLysGJTFdYs0My
 features: []
-genres: []
+first_released_as_single: false
 key: i-want-you-janet-jackson
 lyrics_url: https://www.musixmatch.com/lyrics/Janet-Jackson/I-Want-You
 name: I Want You
@@ -47,6 +50,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2004-06-05'
+release_year: 2004
+runtime: 252773
 ---
 Feels like I'm going in circles
 You're like a maze I can't get through

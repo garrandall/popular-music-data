@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music, The Complete Season Three'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:0BEiDA0JOycXaDI5ynEWgz
 features: []
-genres: []
+first_released_as_single: false
 key: hungry-like-the-wolf-glee-cast
 lyrics_url: https://www.azlyrics.com/lyrics/gleecast/hungrylikethewolfrio.html
 name: Hungry Like The Wolf
@@ -11,8 +14,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2012-04-28'
+release_year: 2012
+runtime: 183386
 ---
-
 Dark in the city, night is a wire
 Steam in the subway, Earth is a fire
 Do-do do do, do do do, do do do, do do do, do do
@@ -51,6 +55,3 @@ From mountains in the north down to the Rio Grande (burning the ground)
 
 Her name is Rio, she don't need to understand (smell like I sound)
 From mountains in the north down to the Rio Grande (burning the ground)
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Long Distance Voyager (Expanded)
 artists:
 - The Moody Blues
+external_ids:
+  spotify: spotify:track:2XcqVRhBgGAG5OqW2Q0zro
 features: []
-genres: []
+first_released_as_single: false
 key: talking-out-of-turn-the-moody-blues
 lyrics_url: https://www.azlyrics.com/lyrics/moodyblues/talkingoutofturn.html
 name: Talking Out Of Turn
@@ -35,8 +38,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1981-12-19'
+release_year: 1981
+runtime: 439666
 ---
-
 When I took a little loving from you
 Oh I, never thought about the hurting inside
 But I took a little more than I should
@@ -91,6 +95,3 @@ When will I learn
 Talking out of turn
 Shot to pieces
 When will I learn
-
-
-

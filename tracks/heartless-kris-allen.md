@@ -1,8 +1,11 @@
 ---
+album: Kris Allen
 artists:
 - Kris Allen
+external_ids:
+  spotify: spotify:track:4gwDrsXJPXfCAYFbpUjeCW
 features: []
-genres: []
+first_released_as_single: false
 key: heartless-kris-allen
 lyrics_url: https://www.azlyrics.com/lyrics/krisallen/heartless.html
 name: Heartless
@@ -19,8 +22,9 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '2009-06-20'
+release_year: 2009
+runtime: 222333
 ---
-
 In the night
 I hear 'em talk
 Coldest story ever told
@@ -109,6 +113,3 @@ The coldest story ever told
 Somewhere far along this road
 He lost his soul
 To a woman so heartless
-
-
-

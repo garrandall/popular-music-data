@@ -1,8 +1,11 @@
 ---
+album: Aretha
 artists:
 - Aretha Franklin
+external_ids:
+  spotify: spotify:track:0xXH73mgW4Kc1dRZrHZHBE
 features: []
-genres: []
+first_released_as_single: false
 key: united-together-aretha-franklin
 lyrics_url: https://www.azlyrics.com/lyrics/arethafranklin/unitedtogether.html
 name: United Together
@@ -39,8 +42,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1981-02-14'
+release_year: 1980
+runtime: 303893
 ---
-
 We've had a hard time
 You and I
 Life sent us through some changes
@@ -110,6 +114,3 @@ United together (United together)
 I finally found the one (I finally found the one)
 Who'll love me forever (Oh, who will love me forever)
 We two have just become
-
-
-

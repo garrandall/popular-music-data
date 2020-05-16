@@ -1,8 +1,11 @@
 ---
+album: Mr. Happy Go Lucky
 artists:
 - John Mellencamp
+external_ids:
+  spotify: spotify:track:43bvQNBz3LPzTxEgPSs9qQ
 features: []
-genres: []
+first_released_as_single: false
 key: key-west-intermezzo--i-saw-you-first--john-mellencamp
 lyrics_url: https://www.azlyrics.com/lyrics/johnmellencamp/keywestintermezzoisawyoufirst.html
 name: Key West Intermezzo (I Saw You First)
@@ -103,8 +106,9 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1997-02-08'
+release_year: 1996
+runtime: 294293
 ---
-
 In a hand painted night, me and Gypsy Scotty are partners
 At the Hotel Flamingo, wearin black market shoes
 This loud Cuban band is crucifying John Lennon
@@ -148,6 +152,3 @@ To move around in your heart
 Everyone was lookin
 But I saw you first
 I saw you first
-
-
-

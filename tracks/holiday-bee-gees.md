@@ -1,8 +1,11 @@
 ---
+album: Bee Gees' 1st
 artists:
 - Bee Gees
+external_ids:
+  spotify: spotify:track:4SyA5GahcFVbJEcDooBybR
 features: []
-genres: []
+first_released_as_single: false
 key: holiday-bee-gees
 lyrics_url: https://www.azlyrics.com/lyrics/beegees/holiday.html
 name: Holiday
@@ -43,8 +46,9 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1967-11-25'
+release_year: 1967
+runtime: 175893
 ---
-
 Oh you're a holiday , such a holiday
 Oh you're a holiday , such a holiday
 
@@ -79,6 +83,3 @@ If not then you're throwing stones
 Throwing stones , throwing stones
 
 de de de de de de de de de de de de de de
-
-
-

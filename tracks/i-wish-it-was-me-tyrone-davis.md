@@ -1,8 +1,11 @@
 ---
+album: Simply Tyrone
 artists:
 - Tyrone Davis
+external_ids:
+  spotify: spotify:track:4RyUy8gWNGAHAQrzf7lrBE
 features: []
-genres: []
+first_released_as_single: false
 key: i-wish-it-was-me-tyrone-davis
 lyrics_url: https://genius.com/Tyrone-davis-i-wish-it-was-me-lyrics
 name: I Wish It Was Me
@@ -43,6 +46,8 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '1974-03-30'
+release_year: 1974
+runtime: 240480
 ---
 I see you every day
 When you walk by this way

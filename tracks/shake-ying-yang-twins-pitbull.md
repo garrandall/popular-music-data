@@ -1,9 +1,12 @@
 ---
+album: United States Of Atlanta
 artists:
 - Ying Yang Twins
+external_ids:
+  spotify: spotify:track:5U1lQBg8zLFZCv9UzU6Noh
 features:
 - Pitbull
-genres: []
+first_released_as_single: false
 key: shake-ying-yang-twins-pitbull
 lyrics_url: https://www.azlyrics.com/lyrics/yingyangtwins/shake.html
 name: Shake
@@ -88,10 +91,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2006-01-14'
+release_year: 2005
+runtime: 241586
 ---
-
-
-
 Shake shake just shake shake
 Just shake shake
 Just shake chica shake shake
@@ -236,6 +238,3 @@ That ho's fine but but but but this one's a killa
 That ho's is fine but but but but this one's a killa
 That ho's is fine but but but but this one's a killa
 That ho's is fine but but but but this one's a killa
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Hop, Skip and Jump
 artists:
 - The Virtues
+external_ids:
+  spotify: spotify:track:6CIHxvT7MnSGsJLCoihLtV
 features: []
-genres: []
+first_released_as_single: false
 key: guitar-boogie-shuffle-the-virtues
 lyrics_url: https://genius.com/The-virtues-guitar-boogie-shuffle-lyrics
 name: Guitar Boogie Shuffle
@@ -71,6 +74,8 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '1959-06-22'
+release_year: 1959
+runtime: 156800
 ---
 Don't change yourself to suit everybody else
 Don't change yourself to suit everybody else

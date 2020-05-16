@@ -1,8 +1,11 @@
 ---
+album: Get In Where You Fit In
 artists:
 - Too $hort
+external_ids:
+  spotify: spotify:track:0aMhtRysxPRDSYtY1E1rwt
 features: []
-genres: []
+first_released_as_single: false
 key: money-in-the-ghetto-too--hort
 lyrics_url: https://www.azlyrics.com/lyrics/toohort/moneyintheghetto.html
 name: Money In The Ghetto
@@ -19,6 +22,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1994-03-05'
+release_year: 1993
+runtime: 343733
 ---
 In the ghetto, you think life is hard
 Food stamps and to' up cars

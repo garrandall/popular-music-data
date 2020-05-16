@@ -1,8 +1,11 @@
 ---
+album: Danzig
 artists:
 - Danzig
+external_ids:
+  spotify: spotify:track:7txxAtOMwLLnQTpKeBL6bp
 features: []
-genres: []
+first_released_as_single: false
 key: mother-danzig
 lyrics_url: https://www.azlyrics.com/lyrics/danzig/mother.html
 name: Mother
@@ -67,10 +70,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1994-05-21'
+release_year: 1988
+runtime: 204866
 ---
-
-
-
 Mother
 Tell your children not to walk my way
 Tell your children not to hear my words
@@ -128,6 +130,3 @@ I can show you what it's like
 Wo-oh
 Mother
 Yea
-
-
-

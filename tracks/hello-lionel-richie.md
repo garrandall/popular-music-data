@@ -1,8 +1,11 @@
 ---
+album: Can't Slow Down
 artists:
 - Lionel Richie
+external_ids:
+  spotify: spotify:track:0mHyWYXmmCB9iQyK18m3FQ
 features: []
-genres: []
+first_released_as_single: false
 key: hello-lionel-richie
 lyrics_url: https://www.azlyrics.com/lyrics/lionelrichie/hello.html
 name: Hello
@@ -103,8 +106,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1984-08-04'
+release_year: 1983
+runtime: 251106
 ---
-
 I've been alone with you
 Inside my mind
 And in my dreams I've kissed your lips
@@ -147,6 +151,3 @@ Or is someone loving you?
 Tell me how to win your heart
 For I haven't got a clue
 But let me start by saying I love you
-
-
-

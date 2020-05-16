@@ -1,9 +1,12 @@
 ---
+album: 'Careless World: Rise Of The Last King'
 artists:
 - Tyga
+external_ids:
+  spotify: spotify:track:2NRUU0gP1d8Yif8CpsCW8l
 features:
 - Lil Wayne
-genres: []
+first_released_as_single: false
 key: faded-tyga-lil-wayne
 lyrics_url: https://genius.com/Alec-alec-kyle-reese-remix-of-faded-by-tyga-feat-lil-wayne-lyrics
 name: Faded
@@ -96,6 +99,8 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '2012-06-30'
+release_year: 2012
+runtime: 206666
 ---
 I'll 'nail' it, 'hammer' time, but you fuckers cannot 'stop' this
 Man of 'Steal' up in this ho like I fuck her, never 'bought this.'

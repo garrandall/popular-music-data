@@ -1,10 +1,13 @@
 ---
+album: Bad Boy 20th Anniversary Box Set Edition
 artists:
 - Nelly
 - P. Diddy
 - Murphy Lee
+external_ids:
+  spotify: spotify:track:1lKS7SZQ7r5vOChLwJurmm
 features: []
-genres: []
+first_released_as_single: false
 key: shake-ya-tailfeather-nelly-p--diddy-murphy-lee
 lyrics_url: https://genius.com/Diddy-shake-ya-tailfeather-nelly-p-diddy-murphy-lee-lyrics
 name: Shake Ya Tailfeather
@@ -129,6 +132,8 @@ rankings:
   rank: 38
   ranking_list: Billboard Hot 100
   start_date: '2004-01-17'
+release_year: 2003
+runtime: 293666
 ---
 We do it for fun, we just do it for fun
 Dirty E.A.T, we do it for fun

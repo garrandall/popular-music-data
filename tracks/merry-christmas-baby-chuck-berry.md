@@ -1,8 +1,11 @@
 ---
+album: St. Louis To Liverpool
 artists:
 - Chuck Berry
+external_ids:
+  spotify: spotify:track:3mBqSjoj9R22gct558sIgG
 features: []
-genres: []
+first_released_as_single: false
 key: merry-christmas-baby-chuck-berry
 lyrics_url: https://www.azlyrics.com/lyrics/chuckberry/merrychristmasbaby.html
 name: Merry Christmas Baby
@@ -19,8 +22,9 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '1958-12-29'
+release_year: 1958
+runtime: 193106
 ---
-
 Merry Christmas, baby, you really did treat me nice
 Merry Christmas, baby, you really did treat me nice
 Bought me a hi-fi for Christmas, now I'm living in paradise
@@ -35,6 +39,3 @@ Merry Christmas baby, you really been good to me.
 
 I will always love you baby
 Now I'm happy as I can be
-
-
-

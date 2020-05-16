@@ -1,9 +1,12 @@
 ---
+album: 'Stax-Volt: The Complete Singles 1959-1968'
 artists:
 - Sam
 - Dave
+external_ids:
+  spotify: spotify:track:5wnzbplqelpAyBSkA56m3I
 features: []
-genres: []
+first_released_as_single: false
 key: hold-on--i-m-a-comin--sam-dave
 lyrics_url: https://www.musixmatch.com/lyrics/Sam-feat-Dave-2/Hold-On-I-m-a-Comin
 name: Hold On! I'm A Comin'
@@ -60,6 +63,8 @@ rankings:
   rank: 37
   ranking_list: Billboard Hot 100
   start_date: '1966-07-16'
+release_year: 1966
+runtime: 155600
 ---
 Don't you ever feel sad
 Lean on me when times are bad

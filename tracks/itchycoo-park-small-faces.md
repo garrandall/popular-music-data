@@ -1,8 +1,11 @@
 ---
+album: Small Faces - Deluxe Edition
 artists:
 - Small Faces
+external_ids:
+  spotify: spotify:track:4P9qbRFA26qtfZNLCwizwH
 features: []
-genres: []
+first_released_as_single: true
 key: itchycoo-park-small-faces
 lyrics_url: https://genius.com/The-small-faces-itchycoo-park-lyrics
 name: Itchycoo Park
@@ -75,6 +78,8 @@ rankings:
   rank: 28
   ranking_list: Billboard Hot 100
   start_date: '1968-03-02'
+release_year: 1967
+runtime: 166680
 ---
 Over bridge of sighs
 To rest my eyes in shades of green

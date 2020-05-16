@@ -1,8 +1,11 @@
 ---
+album: The Essential Poco
 artists:
 - Poco
+external_ids:
+  spotify: spotify:track:2pFLsd3LCZAxhBzkbql331
 features: []
-genres: []
+first_released_as_single: false
 key: call-it-love-poco
 lyrics_url: https://genius.com/Poco-call-it-love-lyrics
 name: Call It Love
@@ -71,6 +74,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1989-12-09'
+release_year: 1989
+runtime: 257426
 ---
 We've got all night
 Let's take our time

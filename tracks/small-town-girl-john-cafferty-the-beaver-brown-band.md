@@ -1,9 +1,12 @@
 ---
+album: Tough All Over
 artists:
 - John Cafferty
 - The Beaver Brown Band
+external_ids:
+  spotify: spotify:track:1PCZ7jXQ7DC3Iipp6iAmQ0
 features: []
-genres: []
+first_released_as_single: false
 key: small-town-girl-john-cafferty-the-beaver-brown-band
 lyrics_url: https://www.musixmatch.com/lyrics/John-Cafferty-The-Beaver-Brown-Band/Small-Town-Girl
 name: Small Town Girl
@@ -48,6 +51,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1986-01-11'
+release_year: 1985
+runtime: 262160
 ---
 I work the late shift
 At my daddy's shop

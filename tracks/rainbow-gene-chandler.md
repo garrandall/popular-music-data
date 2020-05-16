@@ -1,8 +1,11 @@
 ---
+album: The Duke Of Earl
 artists:
 - Gene Chandler
+external_ids:
+  spotify: spotify:track:2lSuhDQ0ir7tka3Kbmpw6u
 features: []
-genres: []
+first_released_as_single: false
 key: rainbow-gene-chandler
 lyrics_url: https://genius.com/Gene-chandler-rainbow-lyrics
 name: Rainbow
@@ -55,6 +58,8 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '1963-05-11'
+release_year: 1962
+runtime: 144511
 ---
 There's a rainbow
 In my heart

@@ -1,8 +1,11 @@
 ---
+album: Every Girl
 artists:
 - Young Money
+external_ids:
+  spotify: spotify:track:6klZDCEsQzMELAPyovvpUw
 features: []
-genres: []
+first_released_as_single: true
 key: every-girl-young-money
 lyrics_url: https://genius.com/Young-money-every-girl-lyrics
 name: Every Girl
@@ -87,6 +90,8 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '2009-10-03'
+release_year: 2009
+runtime: 315320
 ---
 Tha Biz, The Bizness
 

@@ -1,8 +1,11 @@
 ---
+album: Power
 artists:
 - The Temptations
+external_ids:
+  spotify: spotify:track:4tsvwzVibxw9uIbkbUQX5s
 features: []
-genres: []
+first_released_as_single: false
 key: power-the-temptations
 lyrics_url: https://www.musixmatch.com/lyrics/The-Temptations/Power
 name: Power
@@ -43,6 +46,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1980-07-05'
+release_year: 1980
+runtime: 367093
 ---
 My hands are clean, my heart is so pure
 The world is sick, I am the cure

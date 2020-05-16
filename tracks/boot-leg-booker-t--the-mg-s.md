@@ -1,9 +1,12 @@
 ---
+album: 100 Greatest Northern Soul Classics
 artists:
 - Booker T.
 - The MG's
+external_ids:
+  spotify: spotify:track:1c2nHpUKQKexqK7HBQxdjr
 features: []
-genres: []
+first_released_as_single: false
 key: boot-leg-booker-t--the-mg-s
 name: Boot-Leg
 rankings:
@@ -47,5 +50,7 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '1965-08-07'
+release_year: 1965
+runtime: 126399
 ---
 

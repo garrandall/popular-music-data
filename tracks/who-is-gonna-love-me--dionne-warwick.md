@@ -1,8 +1,11 @@
 ---
+album: Promises, Promises
 artists:
 - Dionne Warwick
+external_ids:
+  spotify: spotify:track:1L4GnTwQq8Uuff376kJDeZ
 features: []
-genres: []
+first_released_as_single: false
 key: who-is-gonna-love-me--dionne-warwick
 lyrics_url: https://genius.com/Dionne-warwick-who-is-gonna-love-me-lyrics
 name: Who Is Gonna Love Me?
@@ -43,6 +46,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1968-10-19'
+release_year: 1968
+runtime: 192573
 ---
 Who is gonna love me? Not you
 You will be gone

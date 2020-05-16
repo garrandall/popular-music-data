@@ -1,8 +1,11 @@
 ---
+album: 'Deliver: The Singles 1961-1971'
 artists:
 - The Marvelettes
+external_ids:
+  spotify: spotify:track:42wmL3XqWPyn9C5clU7VMc
 features: []
-genres: []
+first_released_as_single: false
 key: i-ll-keep-holding-on-the-marvelettes
 lyrics_url: https://genius.com/The-marvelettes-ill-keep-holding-on-lyrics
 name: I'll Keep Holding On
@@ -35,6 +38,8 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '1965-07-10'
+release_year: 1965
+runtime: 146666
 ---
 I'll keep on holdin' on, oh yes I will, I'll keep on holdin' on
 I know that you're the kind of guy, you've got too much pride

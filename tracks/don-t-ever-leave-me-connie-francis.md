@@ -1,8 +1,11 @@
 ---
+album: Rocksides (1957-64)
 artists:
 - Connie Francis
+external_ids:
+  spotify: spotify:track:23eEGOLfI2pFof1rmQNpg5
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-ever-leave-me-connie-francis
 lyrics_url: https://genius.com/Connie-francis-dont-ever-leave-me-lyrics
 name: Don't Ever Leave Me
@@ -35,6 +38,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1964-12-05'
+release_year: 1964
+runtime: 163866
 ---
 Baby, Baby - I've been waiting
 For somebody to love just me

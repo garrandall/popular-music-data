@@ -1,8 +1,11 @@
 ---
+album: The Many Moods Of Tony
 artists:
 - Tony Bennett
+external_ids:
+  spotify: spotify:track:6m6s3MapXf4go7fmDJv3IP
 features: []
-genres: []
+first_released_as_single: false
 key: a-taste-of-honey-tony-bennett
 lyrics_url: https://www.azlyrics.com/lyrics/tonybennett/atasteofhoney.html
 name: A Taste Of Honey
@@ -19,8 +22,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1964-09-05'
+release_year: 1964
+runtime: 174666
 ---
-
 Winds may blow over the icy sea
 I'll take with me the warmth of thee
 A taste of honey
@@ -48,6 +52,3 @@ I will return
 I will return
 I'll come back for the honey and you
 I'll come back for the honey and you
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Lost R&B Hits Of The 80S
 artists:
 - Ronnie Laws
+external_ids:
+  spotify: spotify:track:51o0KKiJkY7EOpxm0vtSs1
 features: []
-genres: []
+first_released_as_single: false
 key: stay-awake-ronnie-laws
 lyrics_url: https://genius.com/Ronnie-laws-stay-awake-lyrics
 name: Stay Awake
@@ -43,6 +46,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1981-11-07'
+release_year: 1981
+runtime: 250360
 ---
 Another day, another place
 Another night and you're not here

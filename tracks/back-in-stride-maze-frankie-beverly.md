@@ -1,9 +1,12 @@
 ---
+album: Southern Girl
 artists:
 - Maze
+external_ids:
+  spotify: spotify:track:3G9vkLzT3S1FzikOXmisO2
 features:
 - Frankie Beverly
-genres: []
+first_released_as_single: false
 key: back-in-stride-maze-frankie-beverly
 lyrics_url: https://www.azlyrics.com/lyrics/maze/backinstride.html
 name: Back In Stride
@@ -32,8 +35,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1985-04-20'
+release_year: 1985
+runtime: 427773
 ---
-
 There's so much going on it's crazy trouble all around
 I'll tell you something I'm not gonna let it get me down
 I been going through some funky changes changes are the same
@@ -78,6 +82,3 @@ Back in stride again
 Back in stride again
 Back in stride again
 Back in stride again
-
-
-

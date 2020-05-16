@@ -1,9 +1,12 @@
 ---
+album: Believe
 artists:
 - Justin Bieber
+external_ids:
+  spotify: spotify:track:6WgrB8d7GLBGweYLDI6ObR
 features:
 - Ludacris
-genres: []
+first_released_as_single: false
 key: all-around-the-world-justin-bieber-ludacris
 lyrics_url: https://www.azlyrics.com/lyrics/justinbieber/allaroundtheworld.html
 name: All Around The World
@@ -44,9 +47,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2013-05-11'
+release_year: 2012
+runtime: 244546
 ---
-
-
 You're beautiful, beautiful, you should know it
 (You're beautiful, beautiful, you should know it)
 I think it's time, think it's time that you show it
@@ -107,6 +110,3 @@ All around the world (all around the world they're no different than us)
 All around the world (all around the world people wanna be loved)
 All around the world (all around the world they're no different than us)
 All around the world
-
-
-

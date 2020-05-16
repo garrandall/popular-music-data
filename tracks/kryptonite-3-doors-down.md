@@ -1,8 +1,11 @@
 ---
+album: The Better Life
 artists:
 - 3 Doors Down
+external_ids:
+  spotify: spotify:track:6ZOBP3NvffbU4SZcrnt1k6
 features: []
-genres: []
+first_released_as_single: false
 key: kryptonite-3-doors-down
 lyrics_url: https://www.azlyrics.com/lyrics/3doorsdown/kryptonite.html
 name: Kryptonite
@@ -219,8 +222,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2001-04-07'
+release_year: 2000
+runtime: 233933
 ---
-
 Well, I took a walk around the world
 To ease my troubled mind
 I left my body lying somewhere
@@ -266,6 +270,3 @@ If I'm alive and well, will you be there a-holding my hand?
 I'll keep you by my side
 With my superhuman might
 Kryptonite
-
-
-

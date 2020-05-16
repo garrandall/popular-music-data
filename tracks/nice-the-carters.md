@@ -1,8 +1,11 @@
 ---
+album: EVERYTHING IS LOVE (Clean)
 artists:
 - The Carters
+external_ids:
+  spotify: spotify:track:5sN07TqtitRxf95JxR2740
 features: []
-genres: []
+first_released_as_single: false
 key: nice-the-carters
 lyrics_url: https://genius.com/The-carters-nice-lyrics
 name: Nice
@@ -11,6 +14,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2018-06-30'
+release_year: 2018
+runtime: 233680
 ---
 I can do anything (Woo!), yeah
 Hell nah, hell nah, hell nah, hell nah

@@ -1,8 +1,11 @@
 ---
+album: The Seekers
 artists:
 - The Seekers
+external_ids:
+  spotify: spotify:track:1sQ5WUWw3JrsSEhdiQlfRt
 features: []
-genres: []
+first_released_as_single: false
 key: i-ll-never-find-another-you-the-seekers
 lyrics_url: https://genius.com/The-seekers-ill-never-find-another-you-lyrics
 name: I'll Never Find Another You
@@ -59,6 +62,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1965-06-19'
+release_year: 1965
+runtime: 162320
 ---
 There's a new world somewhere
 They call the promised land,

@@ -1,8 +1,11 @@
 ---
+album: Here For The Party
 artists:
 - Gretchen Wilson
+external_ids:
+  spotify: spotify:track:26bL4gSULWDgdIMX0pRFrG
 features: []
-genres: []
+first_released_as_single: false
 key: redneck-woman-gretchen-wilson
 lyrics_url: https://www.azlyrics.com/lyrics/gretchenwilson/redneckwoman.html
 name: Redneck Woman
@@ -87,8 +90,9 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '2004-08-21'
+release_year: 2004
+runtime: 221333
 ---
-
 Well, I ain't never been the Barbie-doll type
 No, I can't swig that sweet Champagne, I'd rather drink beer all night
 In a tavern or in a honky tonk or on a four-wheel drive tailgate
@@ -151,48 +155,45 @@ I said hell yeah!
 
 
 
-Eh bien, je n'ai jamais Ã©tÃ© le type de poupÃ©e Barbie
-Non, je ne peux pas cette douce gorgÃ©e de Champagne, je prÃ©fÃ¨re boire de la biÃ¨re toute la nuit
+Eh bien, je n'ai jamais été le type de poupée Barbie
+Non, je ne peux pas cette douce gorgée de Champagne, je préfÃ¨re boire de la biÃ¨re toute la nuit
 Dans une taverne ou dans un honky tonk, ou sur un hayon Ã  quatre roues motrices
 J'ai posters sur mon mur de Skynyrd, Kid et Strait
-Certaines personnes me regardent de haut, mais je ne donne pas une dÃ©chirure
-Je prÃ©fÃ¨re rester debout pieds nus dans ma propre cour avant avec un bÃ©bÃ© sur la hanche
+Certaines personnes me regardent de haut, mais je ne donne pas une déchirure
+Je préfÃ¨re rester debout pieds nus dans ma propre cour avant avec un bébé sur la hanche
 Parce que je suis une femme de redneck
 Je ne suis pas de grande classe large
-Je suis juste un produit de mon Ã©levage
+Je suis juste un produit de mon élevage
 Je dis, Â«vous tous heyÂ» et Â«yee-hawÂ»
 Et je garde mes lumiÃ¨res de NoÃ«l
-Sur mon porche toute l'annÃ©e
+Sur mon porche toute l'année
 Et connais toutes les paroles de chaque chanson Charlie Daniels
 Voici donc Ã  tous mes soeurs lÃ -bas gardant pays
 Permettez-moi "ouais" un gros beauf des filles comme moi, ouais
-Victoria's Secret, ainsi leurs trucs sympa rÃ©el
-Mais je peux acheter la mÃªme fichue chose sur un prix de Wal-Mart moitiÃ© plateau
-Et toujours l'air sexy, tout aussi sexy que celles des modÃ¨les Ã  la tÃ©lÃ©vision
+Victoria's Secret, ainsi leurs trucs sympa réel
+Mais je peux acheter la mÃªme fichue chose sur un prix de Wal-Mart moitié plateau
+Et toujours l'air sexy, tout aussi sexy que celles des modÃ¨les Ã  la télévision
 Non, je n'ai pas besoin de tag concepteur pour faire envie Ã  mon homme
 Eh bien, vous pourriez penser que je suis trash, un peu trop hardcore
-Mais dans mon coin de pays, je suis juste la fille d'Ã  cÃ´tÃ©
+Mais dans mon coin de pays, je suis juste la fille d'Ã  cÃ´té
 Je suis une femme de redneck
 Je ne suis pas de grande classe large
-Je suis juste un produit de mon Ã©levage
+Je suis juste un produit de mon élevage
 Je dis: Â«hey y'allÂ» et Â«yee-hawÂ»
 Et je garde mes lumiÃ¨res de NoÃ«l
-Sur mon porche toute l'annÃ©e
+Sur mon porche toute l'année
 Et je connais toutes les paroles de chaque chanson Tanya Tucker
 Voici donc Ã  tous mes soeurs lÃ -bas gardant pays
 Permettez-moi "ouais" un gros beauf des filles comme moi, ouais
 Hey, je suis une femme de redneck
 Et je ne n'est pas de grande classe large
-Je suis juste un produit de mon Ã©levage
+Je suis juste un produit de mon élevage
 Et je dis: Â«hey y'allÂ» et Â«yee-hawÂ»
 Et je garde mes lumiÃ¨res de NoÃ«l
-Sur mon porche toute l'annÃ©e
+Sur mon porche toute l'année
 Et je connais tous les mots de la chanson des ol 'Bocephus
 Voici donc Ã  tous mes soeurs lÃ -bas gardant pays
 Permettez-moi "ouais" un gros beauf des filles comme moi, ouais
 Hell yeah, yeah enfer
 Hell yeah
 J'ai dit ouais!
-
-
-

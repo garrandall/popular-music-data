@@ -1,9 +1,12 @@
 ---
+album: Dry Your Eyes
 artists:
 - Brenda
 - The Tabulations
+external_ids:
+  spotify: spotify:track:4xTO6qvRnREo3Axva7SGdo
 features: []
-genres: []
+first_released_as_single: false
 key: stay-together-young-lovers-brenda-the-tabulations
 name: Stay Together Young Lovers
 rankings:
@@ -35,5 +38,7 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1967-07-01'
+release_year: 1967
+runtime: 192666
 ---
 

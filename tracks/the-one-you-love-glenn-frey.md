@@ -1,8 +1,11 @@
 ---
+album: No Fun Aloud
 artists:
 - Glenn Frey
+external_ids:
+  spotify: spotify:track:4uvARnZIajUDXWXPifhK3B
 features: []
-genres: []
+first_released_as_single: false
 key: the-one-you-love-glenn-frey
 lyrics_url: https://genius.com/Glenn-frey-the-one-you-love-lyrics
 name: The One You Love
@@ -75,6 +78,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1982-12-11'
+release_year: 1982
+runtime: 274560
 ---
 I know you need a friend, someone you can talk to
 Who will understand what you're going through

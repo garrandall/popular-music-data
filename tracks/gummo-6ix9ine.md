@@ -1,8 +1,11 @@
 ---
+album: 'Day69: Graduation Day'
 artists:
 - 6ix9ine
+external_ids:
+  spotify: spotify:track:2vjmyyAnDUzilFYxOlTdO1
 features: []
-genres: []
+first_released_as_single: true
 key: gummo-6ix9ine
 lyrics_url: https://genius.com/6ix9ine-gummo-lyrics
 name: Gummo
@@ -87,6 +90,8 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '2018-04-07'
+release_year: 2017
+runtime: 157643
 ---
 Niggas iffy, uh, blicky got the stiffy, uh
 Got the blicky, uh, drum, it hold fifty, uh

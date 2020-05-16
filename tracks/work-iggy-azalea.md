@@ -1,8 +1,11 @@
 ---
+album: The New Classic
 artists:
 - Iggy Azalea
+external_ids:
+  spotify: spotify:track:3jQ6PsQJZ0LXrvdsyRyM6J
 features: []
-genres: []
+first_released_as_single: true
 key: work-iggy-azalea
 lyrics_url: https://genius.com/Iggy-azalea-work-lyrics
 name: Work
@@ -87,6 +90,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '2014-09-27'
+release_year: 2013
+runtime: 223196
 ---
 Walk a mile in these Louboutins
 But they don't wear these shits where I'm from

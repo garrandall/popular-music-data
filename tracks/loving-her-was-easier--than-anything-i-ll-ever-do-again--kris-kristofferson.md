@@ -1,8 +1,11 @@
 ---
+album: Live at the Big Sur Folk Festival
 artists:
 - Kris Kristofferson
+external_ids:
+  spotify: spotify:track:4TW89UxPGq5xpd2vPTszx6
 features: []
-genres: []
+first_released_as_single: false
 key: loving-her-was-easier--than-anything-i-ll-ever-do-again--kris-kristofferson
 lyrics_url: https://genius.com/Kris-kristofferson-loving-her-was-easier-lyrics
 name: Loving Her Was Easier (Than Anything I'll Ever Do Again)
@@ -59,6 +62,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1971-11-13'
+release_year: 1970
+runtime: 214960
 ---
 I have seen the mornin' burnin' golden on the mountain in the skies
 Achin' with the feelin' of the freedom of an eagle when she flies

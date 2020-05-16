@@ -1,8 +1,11 @@
 ---
+album: Aliens & Rainbows
 artists:
 - Ferras
+external_ids:
+  spotify: spotify:track:5wizvr1JlRR3XWmKkOmEtV
 features: []
-genres: []
+first_released_as_single: false
 key: hollywood-s-not-america-ferras
 lyrics_url: https://www.azlyrics.com/lyrics/ferras/hollywoodsnotamerica.html
 name: Hollywood's Not America
@@ -47,8 +50,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2008-06-07'
+release_year: 2008
+runtime: 195066
 ---
-
 Born Helena Jane
 With a restless soul
 She moved west to California
@@ -99,6 +103,3 @@ Go home
 Remember Hollywood's not America
 Hollywood's not America
 It's not America
-
-
-

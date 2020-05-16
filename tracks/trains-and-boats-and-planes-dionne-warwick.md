@@ -1,8 +1,11 @@
 ---
+album: Here Where There Is Love
 artists:
 - Dionne Warwick
+external_ids:
+  spotify: spotify:track:0X0fJGYcQmB9Qsgi6ioTJG
 features: []
-genres: []
+first_released_as_single: false
 key: trains-and-boats-and-planes-dionne-warwick
 lyrics_url: https://www.azlyrics.com/lyrics/dionnewarwick/trainsandboatsandplanes.html
 name: Trains And Boats And Planes
@@ -35,8 +38,9 @@ rankings:
   rank: 32
   ranking_list: Billboard Hot 100
   start_date: '1966-08-13'
+release_year: 1966
+runtime: 166053
 ---
-
 Trains and boats and planes are passing by
 They mean a trip to Paris or Rome
 For someone else, but not for me
@@ -63,6 +67,3 @@ Will bring you back, back home to me
 
 The trains and the boats and planes
 Will bring you back, back home to me
-
-
-

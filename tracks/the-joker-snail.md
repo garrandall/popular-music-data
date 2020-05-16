@@ -1,8 +1,11 @@
 ---
+album: Snail
 artists:
 - Snail
+external_ids:
+  spotify: spotify:track:5fjJBti0HAsxNNoD3C7KUr
 features: []
-genres: []
+first_released_as_single: false
 key: the-joker-snail
 lyrics_url: https://www.musixmatch.com/lyrics/Snail/The-Joker
 name: The Joker
@@ -15,6 +18,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1978-09-30'
+release_year: 1978
+runtime: 314320
 ---
 The Joker, he cried
 He said, "Drifter, go home!"

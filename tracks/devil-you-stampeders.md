@@ -1,8 +1,11 @@
 ---
+album: Carryin' On
 artists:
 - Stampeders
+external_ids:
+  spotify: spotify:track:34ZZqE9GI3l9TDljybBEQ6
 features: []
-genres: []
+first_released_as_single: false
 key: devil-you-stampeders
 lyrics_url: https://genius.com/Stampeders-devil-you-lyrics
 name: Devil You
@@ -35,6 +38,8 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '1972-01-15'
+release_year: 1971
+runtime: 177293
 ---
 Devil you
 When will you ever learn

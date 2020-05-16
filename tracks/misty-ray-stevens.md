@@ -1,8 +1,11 @@
 ---
+album: Misty
 artists:
 - Ray Stevens
+external_ids:
+  spotify: spotify:track:6oamuJZeT7F13iLwACdQ4X
 features: []
-genres: []
+first_released_as_single: false
 key: misty-ray-stevens
 lyrics_url: https://www.azlyrics.com/lyrics/raystevens/misty.html
 name: Misty
@@ -71,8 +74,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1975-08-09'
+release_year: 1975
+runtime: 175933
 ---
-
 Look at me
 I'm as helpless as a kitten up a tree
 Ah, I'm walking on a cloud
@@ -111,6 +115,3 @@ I'm misty, and too much in love
 (Misty) Too much in love
 (Misty)
 (Misty) Too much in love
-
-
-

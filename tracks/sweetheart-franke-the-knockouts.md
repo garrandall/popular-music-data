@@ -1,9 +1,12 @@
 ---
+album: Franke & The Knockouts
 artists:
 - Franke
 - The Knockouts
+external_ids:
+  spotify: spotify:track:0D2UIFvpE0xb5wEgWrpps2
 features: []
-genres: []
+first_released_as_single: false
 key: sweetheart-franke-the-knockouts
 lyrics_url: https://genius.com/Franke-and-the-knockouts-sweetheart-lyrics
 name: Sweetheart
@@ -84,6 +87,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1981-07-11'
+release_year: 1981
+runtime: 251293
 ---
 I know baby it's hard to be strong
 Just take the good with the bad

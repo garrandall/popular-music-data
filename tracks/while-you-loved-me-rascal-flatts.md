@@ -1,8 +1,11 @@
 ---
+album: Rascal Flatts
 artists:
 - Rascal Flatts
+external_ids:
+  spotify: spotify:track:2rsjgtDbLeSYttYBPL5L1m
 features: []
-genres: []
+first_released_as_single: false
 key: while-you-loved-me-rascal-flatts
 lyrics_url: https://www.azlyrics.com/lyrics/rascalflatts/whileyoulovedme.html
 name: While You Loved Me
@@ -55,8 +58,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2001-09-15'
+release_year: 2000
+runtime: 209933
 ---
-
 If I ever write the story of my life
 Don't be surprised if you're where it begins
 Girl, I'd have to dedicate every line on every page
@@ -72,4 +76,3 @@ I'd start with chapter one, love innocent and young
 As a morning sun on a new day
 Even though I know the end, Well I'd do it all again
 'Cause I got a lifetime in while you loved me
-

@@ -1,8 +1,11 @@
 ---
+album: Wandering Spirit
 artists:
 - Mick Jagger
+external_ids:
+  spotify: spotify:track:46oxhVXWECsaPytsDW6GKb
 features: []
-genres: []
+first_released_as_single: false
 key: sweet-thing-mick-jagger
 lyrics_url: https://www.azlyrics.com/lyrics/mickjagger/sweetthing.html
 name: Sweet Thing
@@ -27,8 +30,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1993-03-13'
+release_year: 1993
+runtime: 259519
 ---
-
 In the beginning, when life was simple
 We were at each other night and day
 You were so sensual and so inventive
@@ -67,6 +71,3 @@ Really love my sweet thing, wanna' lick it up
 Really love my sweet thing, wanna' lick it up
 Really love my sweet thing, can't give it up
 Really love my sweet thing, can't give it up
-
-
-

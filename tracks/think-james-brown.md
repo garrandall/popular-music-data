@@ -1,8 +1,11 @@
 ---
+album: Think!
 artists:
 - James Brown
+external_ids:
+  spotify: spotify:track:5CUpG7mTYvHYlk3xSLwl6z
 features: []
-genres: []
+first_released_as_single: false
 key: think-james-brown
 lyrics_url: https://www.musixmatch.com/lyrics/James-Brown-et-The-Famous-Flames/Think
 name: Think
@@ -35,6 +38,8 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '1973-08-18'
+release_year: 1960
+runtime: 172093
 ---
 About the good thing
 About the bad thing

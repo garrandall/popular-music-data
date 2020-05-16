@@ -1,8 +1,11 @@
 ---
+album: Dove's In Love Vol. 2 -
 artists:
 - Ronnie Dove
+external_ids:
+  spotify: spotify:track:6RLQKvHTxPIGdG1ux6c0KZ
 features: []
-genres: []
+first_released_as_single: false
 key: let-s-start-all-over-again-ronnie-dove
 lyrics_url: https://genius.com/Ronnie-dove-lets-start-all-over-again-lyrics
 name: Let's Start All Over Again
@@ -39,6 +42,8 @@ rankings:
   rank: 36
   ranking_list: Billboard Hot 100
   start_date: '1966-06-04'
+release_year: 1966
+runtime: 159626
 ---
 (Let's start all over again)
 Pretend my kisses are new

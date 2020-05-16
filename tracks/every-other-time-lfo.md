@@ -1,8 +1,11 @@
 ---
+album: Life Is Good
 artists:
 - LFO
+external_ids:
+  spotify: spotify:track:3uD4aRM8QoEAAhwpOke7QU
 features: []
-genres: []
+first_released_as_single: false
 key: every-other-time-lfo
 lyrics_url: https://www.azlyrics.com/lyrics/lfo/everyothertime.html
 name: Every Other Time
@@ -79,8 +82,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2001-12-22'
+release_year: 2001
+runtime: 247866
 ---
-
 C'mon
 nananananananananana
 nananananananananana
@@ -197,6 +201,3 @@ Every oth-every other time
 
 Oh yeah
 Every other time
-
-
-

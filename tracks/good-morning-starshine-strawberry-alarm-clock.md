@@ -1,8 +1,11 @@
 ---
+album: Good Morning Starshine
 artists:
 - Strawberry Alarm Clock
+external_ids:
+  spotify: spotify:track:0lww1kpOD3qTFIf4vBxoIU
 features: []
-genres: []
+first_released_as_single: false
 key: good-morning-starshine-strawberry-alarm-clock
 lyrics_url: https://www.azlyrics.com/lyrics/strawberryalarmclock/goodmorningstarshine.html
 name: Good Morning Starshine
@@ -15,8 +18,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1969-05-31'
+release_year: 1969
+runtime: 142706
 ---
-
 Good morning starshine
 The earth says "hello" (the earth says "hello")
 You twinkle above us (twinkle above us)
@@ -49,6 +53,3 @@ Singin' a song
 
 Sing a song, song a-singing
 Song song song sing...
-
-
-

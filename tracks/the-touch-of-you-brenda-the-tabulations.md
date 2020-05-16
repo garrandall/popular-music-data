@@ -1,9 +1,12 @@
 ---
+album: Right on the Tip of My Tongue
 artists:
 - Brenda
 - The Tabulations
+external_ids:
+  spotify: spotify:track:2AtOK9b7QlqQhDST8H2Mq3
 features: []
-genres: []
+first_released_as_single: false
 key: the-touch-of-you-brenda-the-tabulations
 lyrics_url: https://genius.com/Brenda-and-the-tabulations-the-touch-of-you-lyrics
 name: The Touch Of You
@@ -40,6 +43,8 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1970-03-07'
+release_year: 1970
+runtime: 186373
 ---
 The touch of you
 (Baby, baby, the touch of you)

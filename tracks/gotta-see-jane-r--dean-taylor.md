@@ -1,8 +1,11 @@
 ---
+album: 'The Complete Motown Singles - Vol. 8: 1968'
 artists:
 - R. Dean Taylor
+external_ids:
+  spotify: spotify:track:4tWMKvFGcpPpQyjt2wId1q
 features: []
-genres: []
+first_released_as_single: false
 key: gotta-see-jane-r--dean-taylor
 lyrics_url: https://www.musixmatch.com/lyrics/R-Dean-Taylor/Gotta-See-Jane
 name: Gotta See Jane
@@ -23,6 +26,8 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1971-05-08'
+release_year: 1971
+runtime: 187373
 ---
 Red light, green light,
 Speedin' trough the dark night,

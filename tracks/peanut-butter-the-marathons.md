@@ -1,8 +1,11 @@
 ---
+album: Talkin' Trash
 artists:
 - The Marathons
+external_ids:
+  spotify: spotify:track:2z1axmZKsR0nwh6N4VE3Ih
 features: []
-genres: []
+first_released_as_single: false
 key: peanut-butter-the-marathons
 lyrics_url: https://genius.com/The-marathons-peanut-butter-lyrics
 name: Peanut Butter
@@ -55,6 +58,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1961-07-10'
+release_year: 1960
+runtime: 122733
 ---
 (Bill Barnum / Martin Cooper / Cliff Goldsmith / Fred Smith)
 There's a food goin' around that's a sticky sticky goo

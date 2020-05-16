@@ -1,8 +1,11 @@
 ---
+album: Home Workout
 artists:
 - Tones And I
+external_ids:
+  spotify: spotify:track:5ZULALImTm80tzUbYQYM9d
 features: []
-genres: []
+first_released_as_single: true
 key: dance-monkey-tones-and-i
 lyrics_url: https://www.azlyrics.com/lyrics/tonesandi/dancemonkey.html
 name: Dance Monkey
@@ -99,8 +102,9 @@ rankings:
   rank: 12
   ranking_list: Billboard Hot 100
   start_date: '2020-03-21'
+release_year: 2019
+runtime: 209438
 ---
-
 They say, oh my god, I see the way you shine
 Take your hands, my dear, and place them both in mine
 You know you stopped me dead while I was passing by
@@ -174,6 +178,3 @@ Move for me
 Move for me ay ay ay
 And when you're done I'll make you do it all again
 All again
-
-
-

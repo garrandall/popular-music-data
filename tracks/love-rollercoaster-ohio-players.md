@@ -1,8 +1,11 @@
 ---
+album: Honey
 artists:
 - Ohio Players
+external_ids:
+  spotify: spotify:track:1hRDHWWealh2Pk3fnpIe75
 features: []
-genres: []
+first_released_as_single: false
 key: love-rollercoaster-ohio-players
 lyrics_url: https://www.azlyrics.com/lyrics/ohioplayers/loverollercoaster.html
 name: Love Rollercoaster
@@ -71,8 +74,9 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '1976-02-28'
+release_year: 1975
+runtime: 290160
 ---
-
 Rollercoaster, of love (Say what?)
 Rollercoaster, (huh huh)
 Oh, oh oohohoh
@@ -168,6 +172,3 @@ Your love is like a rollercoaster baby, baby
 (Love rollercoaster) All you do is ride
 (Love rollercoaster) Your love is like a rollercoaster baby, baby
 (Love rollercoaster) All you do is ride
-
-
-

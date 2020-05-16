@@ -1,8 +1,11 @@
 ---
+album: Golden Star Collection
 artists:
 - Ivo Robic
+external_ids:
+  spotify: spotify:track:0BJHzqk1agz54Q3YzvcRez
 features: []
-genres: []
+first_released_as_single: false
 key: the-happy-muleteer-ivo-robic
 name: The Happy Muleteer
 rankings:
@@ -30,5 +33,7 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1960-02-22'
+release_year: 1960
+runtime: 136600
 ---
 

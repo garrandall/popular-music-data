@@ -1,9 +1,12 @@
 ---
+album: ICE
 artists:
 - Kelly Rowland
+external_ids:
+  spotify: spotify:track:0WjQu6qf7KlVWAb6JqICYd
 features:
 - Lil Wayne
-genres: []
+first_released_as_single: true
 key: ice-kelly-rowland-lil-wayne
 lyrics_url: https://www.azlyrics.com/lyrics/kellyrowland/ice.html
 name: Ice
@@ -56,8 +59,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2013-01-19'
+release_year: 2012
+runtime: 248933
 ---
-
 You're like ice
 I-C-E,
 Feels so nice
@@ -149,6 +153,3 @@ Scorching me,
 You're so hot, hot
 Baby, your love is so hot, hot
 You're like ice
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Excitement on Park Avenue, Live at the Waldorf-Astoria
 artists:
 - Paul Anka
+external_ids:
+  spotify: spotify:track:6PmY6dEDpOIZEtqbzzGfkh
 features: []
-genres: []
+first_released_as_single: false
 key: eso-beso--that-kiss---paul-anka
 lyrics_url: https://www.azlyrics.com/lyrics/paulanka/esobesothatkiss.html
 name: Eso Beso (That Kiss!)
@@ -39,8 +42,9 @@ rankings:
   rank: 36
   ranking_list: Billboard Hot 100
   start_date: '1962-12-22'
+release_year: 1962
+runtime: 184746
 ---
-
 Mmm, eso beso, oh that kiss
 Ah, eso beso, oh your kiss
 It's got something, don't know what
@@ -83,6 +87,3 @@ A little more mucho (the bossanova)
 Then we'll dance
 Ah that kiss, kiss, kiss, kiss, kiss, kiss, kiss
 Mucho, mucho, mucho
-
-
-

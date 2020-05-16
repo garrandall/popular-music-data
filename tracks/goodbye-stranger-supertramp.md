@@ -1,8 +1,11 @@
 ---
+album: Breakfast In America
 artists:
 - Supertramp
+external_ids:
+  spotify: spotify:track:67oyFnjJnn78fZP9KjeZx0
 features: []
-genres: []
+first_released_as_single: false
 key: goodbye-stranger-supertramp
 lyrics_url: https://www.azlyrics.com/lyrics/supertramp/goodbyestranger.html
 name: Goodbye Stranger
@@ -63,8 +66,9 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1979-10-06'
+release_year: 1979
+runtime: 350573
 ---
-
 It was an early morning yesterday
 I was up before the dawn
 And I really have enjoyed my stay
@@ -114,6 +118,3 @@ Shining like brand new
 I'll never look behind me
 My troubles will be few
 Goodbye stranger it's been nice etc...
-
-
-

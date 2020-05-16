@@ -1,8 +1,11 @@
 ---
+album: Solo
 artists:
 - Frankie Valli
+external_ids:
+  spotify: spotify:track:5kdcegDcV723E5Stp1pZLf
 features: []
-genres: []
+first_released_as_single: false
 key: the-proud-one-frankie-valli
 lyrics_url: https://www.azlyrics.com/lyrics/frankievalli/theproudone.html
 name: The Proud One
@@ -31,8 +34,9 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1966-12-17'
+release_year: 1966
+runtime: 179786
 ---
-
 Livin' (livin') is dyin' (dyin') 'cause love you left me cryin'
 Now there's no use tryin' to go on
 Each night and day baby
@@ -72,6 +76,3 @@ I need you
 I'm not the proud one
 I need you
 I'm beggin' to you baby please
-
-
-

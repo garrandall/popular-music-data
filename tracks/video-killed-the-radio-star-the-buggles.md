@@ -1,8 +1,11 @@
 ---
+album: The Age Of Plastic
 artists:
 - The Buggles
+external_ids:
+  spotify: spotify:track:6t1FIJlZWTQfIZhsGjaulM
 features: []
-genres: []
+first_released_as_single: false
 key: video-killed-the-radio-star-the-buggles
 lyrics_url: https://genius.com/Buggles-video-killed-the-radio-star-lyrics
 name: Video Killed The Radio Star
@@ -47,6 +50,8 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1980-01-12'
+release_year: 1979
+runtime: 253800
 ---
 I heard you on the wireless back in '52
 Lying awake, intently tuning in on you

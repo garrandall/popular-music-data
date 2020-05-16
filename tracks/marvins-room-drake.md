@@ -1,8 +1,11 @@
 ---
+album: Take Care
 artists:
 - Drake
+external_ids:
+  spotify: spotify:track:1GpSXGBCDDHKRrOTqg4jdr
 features: []
-genres: []
+first_released_as_single: true
 key: marvins-room-drake
 lyrics_url: https://genius.com/Drake-marvins-room-lyrics
 name: Marvins Room
@@ -79,6 +82,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2011-12-17'
+release_year: 2011
+runtime: 347586
 ---
 Hello? Yeah, I just walked in
 Yeah, I'm good… You still working?

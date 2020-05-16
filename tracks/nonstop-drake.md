@@ -1,8 +1,11 @@
 ---
+album: Scorpion
 artists:
 - Drake
+external_ids:
+  spotify: spotify:track:0TlLq3lA83rQOYtrqBqSct
 features: []
-genres: []
+first_released_as_single: false
 key: nonstop-drake
 lyrics_url: https://www.azlyrics.com/lyrics/drake/nonstop.html
 name: Nonstop
@@ -95,8 +98,9 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '2018-12-08'
+release_year: 2018
+runtime: 238614
 ---
-
 Tay Keith, fuck these niggas up
 
 Look, I just flipped a switch (flipped, flipped)
@@ -197,6 +201,3 @@ From smokin' the chicken
 The bass is kickin'
 My head is spinnin'
 (This the flow that got the block hot, shit got super hot)
-
-
-

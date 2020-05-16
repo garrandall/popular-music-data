@@ -1,8 +1,11 @@
 ---
+album: Getting Together
 artists:
 - Bobby Sherman
+external_ids:
+  spotify: spotify:track:6BUNQzhqCBP09pg8jFR50z
 features: []
-genres: []
+first_released_as_single: false
 key: waiting-at-the-bus-stop-bobby-sherman
 lyrics_url: https://www.musixmatch.com/lyrics/Bobby-Sherman/Waiting-at-the-Bus-Stop
 name: Waiting At The Bus Stop
@@ -27,6 +30,8 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '1971-09-18'
+release_year: 1971
+runtime: 120640
 ---
 Pretty little girl
 Standing on the corner

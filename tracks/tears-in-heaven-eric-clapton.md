@@ -1,8 +1,11 @@
 ---
+album: Rush (Music from the Motion Picture Soundtrack)
 artists:
 - Eric Clapton
+external_ids:
+  spotify: spotify:track:1kgdslQYmeTR4thk9whoRw
 features: []
-genres: []
+first_released_as_single: false
 key: tears-in-heaven-eric-clapton
 lyrics_url: https://genius.com/Eric-clapton-tears-in-heaven-lyrics
 name: Tears In Heaven
@@ -111,6 +114,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1992-08-01'
+release_year: 1992
+runtime: 271760
 ---
 Would you know my name if I saw you in heaven?
 Would it be the same if I saw you in heaven?

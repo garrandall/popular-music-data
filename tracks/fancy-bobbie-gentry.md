@@ -1,8 +1,11 @@
 ---
+album: Fancy
 artists:
 - Bobbie Gentry
+external_ids:
+  spotify: spotify:track:6aarvZBVzYo3sp4NYOBqCp
 features: []
-genres: []
+first_released_as_single: false
 key: fancy-bobbie-gentry
 lyrics_url: https://www.azlyrics.com/lyrics/bobbiegentry/fancy.html
 name: Fancy
@@ -63,8 +66,9 @@ rankings:
   rank: 36
   ranking_list: Billboard Hot 100
   start_date: '1970-02-21'
+release_year: 1969
+runtime: 258912
 ---
-
 Well, I remember it all very well lookin' back
 It was the summer that I turned eighteen
 We lived in a one-room, run down shack
@@ -168,6 +172,3 @@ Lord forgive me for what I do
 But if you want out well it's up to you
 Now get on out, you better move uptown
 And I guess she did"
-
-
-

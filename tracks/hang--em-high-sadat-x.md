@@ -1,8 +1,11 @@
 ---
+album: Wild Cowboys
 artists:
 - Sadat X
+external_ids:
+  spotify: spotify:track:5TCVpaEDguqQrgOsRy5nTQ
 features: []
-genres: []
+first_released_as_single: false
 key: hang--em-high-sadat-x
 lyrics_url: https://genius.com/Sadat-x-hang-em-high-wilderness-version-lyrics
 name: Hang 'Em High
@@ -15,6 +18,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1996-08-03'
+release_year: 1996
+runtime: 240800
 ---
 Wild Cowboys (And you know that...)
 Legend of the Cowboy (And you know that they're...)

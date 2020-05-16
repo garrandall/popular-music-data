@@ -1,8 +1,11 @@
 ---
+album: Sings For All Sizes
 artists:
 - James Darren
+external_ids:
+  spotify: spotify:track:2zaXKQ2IErjfIGGES2ai6C
 features: []
-genres: []
+first_released_as_single: false
 key: goodbye-cruel-world-james-darren
 lyrics_url: https://genius.com/James-darren-goodbye-cruel-world-lyrics
 name: Goodbye Cruel World
@@ -75,6 +78,8 @@ rankings:
   rank: 52
   ranking_list: Billboard Hot 100
   start_date: '1962-02-10'
+release_year: 1961
+runtime: 146720
 ---
 (Goodbye, cruel world)
 (Goodbye, cruel world)

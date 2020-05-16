@@ -1,8 +1,11 @@
 ---
+album: I Don't Want To Miss A Thing
 artists:
 - Mark Chesnutt
+external_ids:
+  spotify: spotify:track:3FN7JMZaaQ9lSzIaan0YZ1
 features: []
-genres: []
+first_released_as_single: false
 key: i-don-t-want-to-miss-a-thing-mark-chesnutt
 lyrics_url: https://genius.com/Mark-chesnutt-i-dont-want-to-miss-a-thing-lyrics
 name: I Don't Want To Miss A Thing
@@ -87,6 +90,8 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1999-05-01'
+release_year: 1998
+runtime: 246226
 ---
 I could stay awake just to hear you breathing
 Watch you smile while you are sleeping

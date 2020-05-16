@@ -1,8 +1,11 @@
 ---
+album: Almost Persuaded
 artists:
 - David Houston
+external_ids:
+  spotify: spotify:track:2Krnm3qWdy4VG5vTkT0cDn
 features: []
-genres: []
+first_released_as_single: false
 key: almost-persuaded-david-houston
 lyrics_url: https://genius.com/David-houston-almost-persuaded-lyrics
 name: Almost Persuaded
@@ -67,6 +70,8 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '1966-10-22'
+release_year: 1966
+runtime: 176360
 ---
 Last night all alone in a barroom
 Met a girl with a drink in her hand

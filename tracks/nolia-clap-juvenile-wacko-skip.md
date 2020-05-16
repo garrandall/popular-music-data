@@ -1,10 +1,13 @@
 ---
+album: The Beginning of the End...
 artists:
 - Juvenile
 - Wacko
 - Skip
+external_ids:
+  spotify: spotify:track:7pWcjb71SqY2256QasmAhJ
 features: []
-genres: []
+first_released_as_single: false
 key: nolia-clap-juvenile-wacko-skip
 lyrics_url: https://genius.com/Juvenile-wacko-skip-nolia-clap-lyrics
 name: Nolia Clap
@@ -89,6 +92,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '2005-01-08'
+release_year: 2004
+runtime: 270333
 ---
 Where dat Melph at? Where dat Yo at?
 Where dat Thomas at? Where VL at?

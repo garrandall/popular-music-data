@@ -1,8 +1,11 @@
 ---
+album: Away We Go-Go
 artists:
 - The Miracles
+external_ids:
+  spotify: spotify:track:06PjPPrL9gUOKWTSiL3LBD
 features: []
-genres: []
+first_released_as_single: false
 key: whole-lot-of-shakin--in-my-heart--since-i-met-you--the-miracles
 lyrics_url: https://www.azlyrics.com/lyrics/smokeyrobinsonthemiracles/wholelotofshakininmyheartsinceimetyou.html
 name: Whole Lot Of Shakin' In My Heart (Since I Met You)
@@ -39,8 +42,9 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1966-08-06'
+release_year: 1966
+runtime: 163066
 ---
-
 I can't explain the things you do to me
 But I'm sure there's an explanation
 Maybe it's the way you carry yourself
@@ -76,6 +80,3 @@ I walk around daily in a state of shock (oh-oh-oh, I love you)
 
 Cause I feel a whole lot of shakin' in my heart since I met you
 Don't you know I feel a whole lot of shakin' in my heart since I met you
-
-
-

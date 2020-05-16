@@ -1,8 +1,11 @@
 ---
+album: Small Town Girl
 artists:
 - Kellie Pickler
+external_ids:
+  spotify: spotify:track:7oi6O0Ql0Idb00afP5WNJJ
 features: []
-genres: []
+first_released_as_single: false
 key: didn-t-you-know-how-much-i-loved-you-kellie-pickler
 lyrics_url: https://genius.com/Kellie-pickler-didnt-you-know-how-much-i-loved-you-lyrics
 name: Didn't You Know How Much I Loved You
@@ -15,6 +18,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2010-03-13'
+release_year: 2006
+runtime: 247960
 ---
 I remember the way you made love to me
 Like I was all you'd ever need

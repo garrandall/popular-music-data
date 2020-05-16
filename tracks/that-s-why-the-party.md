@@ -1,8 +1,11 @@
 ---
+album: Karaoke Party Highlights, Vol. 37 (Sing the Songs of the Stars)
 artists:
 - The Party
+external_ids:
+  spotify: spotify:track:3jeWqiR1i3OU3ctIW9NeXM
 features: []
-genres: []
+first_released_as_single: false
 key: that-s-why-the-party
 lyrics_url: https://www.musixmatch.com/lyrics/The-Party/That-s-Why
 name: That's Why
@@ -55,6 +58,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1991-05-18'
+release_year: 1991
+runtime: 284212
 ---
 That's why baby baby baby
 That's why I've got to see you again

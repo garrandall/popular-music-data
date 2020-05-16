@@ -1,8 +1,11 @@
 ---
+album: Broken Heart
 artists:
 - The Babys
+external_ids:
+  spotify: spotify:track:3pyoAvbBO4kDKkh999Miyj
 features: []
-genres: []
+first_released_as_single: false
 key: isn-t-it-time-the-babys
 lyrics_url: https://genius.com/The-babys-isnt-it-time-lyrics
 name: Isn't It Time
@@ -71,6 +74,8 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1978-01-21'
+release_year: 1977
+runtime: 243920
 ---
 Falling in love was the last thing I had on my mind
 Holding you is a warmth that I thought I could never find

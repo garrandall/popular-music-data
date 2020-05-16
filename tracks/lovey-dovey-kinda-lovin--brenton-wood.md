@@ -1,8 +1,11 @@
 ---
+album: Brenton Wood's 18 Best
 artists:
 - Brenton Wood
+external_ids:
+  spotify: spotify:track:52FrlMkSp2fhtR5DRzg4AL
 features: []
-genres: []
+first_released_as_single: false
 key: lovey-dovey-kinda-lovin--brenton-wood
 lyrics_url: https://www.azlyrics.com/lyrics/brentonwood/loveydoveykindalovin.html
 name: Lovey Dovey Kinda Lovin'
@@ -15,8 +18,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1968-03-16'
+release_year: 1968
+runtime: 125640
 ---
-
 If you want it, better come and get it
 I'll be so glad to see you wit' it
 My love, it's a lovey dovey kinda lovin'
@@ -42,6 +46,3 @@ My love, it's a mellow yellow kinda lovin'
 Get it, get it, get it, get it, my love
 Come on and get it, get it, get it, get it, my love
 Come on and get it, get it, get it, get it
-
-
-

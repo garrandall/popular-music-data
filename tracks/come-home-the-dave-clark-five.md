@@ -1,8 +1,11 @@
 ---
+album: Weekend in London
 artists:
 - The Dave Clark Five
+external_ids:
+  spotify: spotify:track:2XVZTpCGZFjlt5quE90n5h
 features: []
-genres: []
+first_released_as_single: false
 key: come-home-the-dave-clark-five
 lyrics_url: https://genius.com/The-dave-clark-five-come-home-lyrics
 name: Come Home
@@ -43,6 +46,8 @@ rankings:
   rank: 37
   ranking_list: Billboard Hot 100
   start_date: '1965-04-03'
+release_year: 1965
+runtime: 168493
 ---
 As I write my letter today
 Tears start falling from my eyes

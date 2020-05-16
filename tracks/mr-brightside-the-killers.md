@@ -1,8 +1,11 @@
 ---
+album: Hot Fuss
 artists:
 - The Killers
+external_ids:
+  spotify: spotify:track:2jrJEy61zyESXv9sW8bAx6
 features: []
-genres: []
+first_released_as_single: true
 key: mr-brightside-the-killers
 lyrics_url: https://genius.com/The-killers-mr-brightside-lyrics
 name: Mr Brightside
@@ -159,6 +162,8 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '2005-10-29'
+release_year: 2003
+runtime: 530080
 ---
 Coming out of my cage and I've been doing just fine
 Gotta gotta be down because I want it all

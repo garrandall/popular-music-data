@@ -1,8 +1,11 @@
 ---
+album: Underground Basement, Vol. 02
 artists:
 - Daisy Dee
+external_ids:
+  spotify: spotify:track:55V3I8DjZD7Tlz2hgyPNmx
 features: []
-genres: []
+first_released_as_single: false
 key: crazy-daisy-dee
 lyrics_url: https://genius.com/Daisy-dee-crazy-lyrics
 name: Crazy
@@ -51,6 +54,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1991-06-08'
+release_year: 1991
+runtime: 332786
 ---
 Babyyy (X2)
 Hi it's me once again

@@ -1,8 +1,11 @@
 ---
+album: The New Look
 artists:
 - Fontella Bass
+external_ids:
+  spotify: spotify:track:1GY8zOFi8rC39xXnD0tKO8
 features: []
-genres: []
+first_released_as_single: false
 key: rescue-me-fontella-bass
 lyrics_url: https://genius.com/Fontella-bass-rescue-me-lyrics
 name: Rescue Me
@@ -59,6 +62,8 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '1965-12-25'
+release_year: 1965
+runtime: 171026
 ---
 Rescue me
 Or take me in your arms

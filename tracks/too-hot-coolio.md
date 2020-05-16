@@ -1,8 +1,11 @@
 ---
+album: Gangsta's Paradise
 artists:
 - Coolio
+external_ids:
+  spotify: spotify:track:3YudkhBvFZDDcZF8nNtnc5
 features: []
-genres: []
+first_released_as_single: false
 key: too-hot-coolio
 lyrics_url: https://www.azlyrics.com/lyrics/coolio/toohot.html
 name: Too Hot
@@ -67,8 +70,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1996-03-16'
+release_year: 1995
+runtime: 218933
 ---
-
 Everybody listen up cuz I'm about to get my speak on
 Fools be trippin' when it's time to get their freak on
 Runnin' round town
@@ -156,4 +160,3 @@ In God we trust
 What started off as a plan
 Ended up in the plot
 Water can't cool it off cuz it's too damn hot...
-

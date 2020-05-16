@@ -1,8 +1,11 @@
 ---
+album: 'Hang On Sloopy: The Best Of The McCoys'
 artists:
 - The McCoys
+external_ids:
+  spotify: spotify:track:4V5RFkTNDTGjkHEkg31aQQ
 features: []
-genres: []
+first_released_as_single: false
 key: -you-make-me-feel--so-good-the-mccoys
 lyrics_url: https://genius.com/The-mccoys-you-make-me-feel-so-good-lyrics
 name: (You Make Me Feel) So Good
@@ -23,6 +26,8 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '1966-08-20'
+release_year: 1966
+runtime: 161560
 ---
 You and me got somethin', (baby)
 That I know is good (do-do-do-dewh)

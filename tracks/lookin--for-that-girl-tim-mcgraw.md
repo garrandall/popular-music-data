@@ -1,8 +1,11 @@
 ---
+album: Sundown Heaven Town
 artists:
 - Tim McGraw
+external_ids:
+  spotify: spotify:track:4tK5L8FD5Gl1dSwhzXuU6K
 features: []
-genres: []
+first_released_as_single: true
 key: lookin--for-that-girl-tim-mcgraw
 lyrics_url: https://genius.com/Tim-mcgraw-lookin-for-that-girl-lyrics
 name: Lookin' For That Girl
@@ -23,6 +26,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '2014-04-26'
+release_year: 2014
+runtime: 261346
 ---
 That girl, she's a party all-nighter
 A little "Funky Cold Medina,"

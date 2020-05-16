@@ -1,8 +1,11 @@
 ---
+album: Honeymoon
 artists:
 - Lana Del Rey
+external_ids:
+  spotify: spotify:track:44JxL1qNXXQYniZ5T3MUs9
 features: []
-genres: []
+first_released_as_single: false
 key: love-lana-del-rey
 lyrics_url: https://genius.com/Lana-del-rey-love-lyrics
 name: Love
@@ -15,6 +18,8 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '2017-03-18'
+release_year: 2015
+runtime: 290636
 ---
 Look at you, kids, with your vintage music
 Comin' through satellites while cruisin'

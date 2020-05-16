@@ -1,8 +1,11 @@
 ---
+album: Chess Divas
 artists:
 - Fontella Bass
+external_ids:
+  spotify: spotify:track:0bJrWYVfCpObiOpeN0TUOW
 features: []
-genres: []
+first_released_as_single: false
 key: recovery-fontella-bass
 lyrics_url: https://genius.com/Fontella-bass-recovery-lyrics
 name: Recovery
@@ -39,6 +42,8 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '1966-02-12'
+release_year: 1965
+runtime: 150800
 ---
 Oh baby, recovery
 I'm falling again happiness is in my heart, yeah

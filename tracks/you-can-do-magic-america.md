@@ -1,8 +1,11 @@
 ---
+album: View From The Ground
 artists:
 - America
+external_ids:
+  spotify: spotify:track:5dXED6MP1v1qghkaniirb1
 features: []
-genres: []
+first_released_as_single: false
 key: you-can-do-magic-america
 lyrics_url: https://genius.com/America-you-can-do-magic-lyrics
 name: You Can Do Magic
@@ -87,6 +90,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1982-12-11'
+release_year: 1982
+runtime: 237466
 ---
 I never believed in things that I couldn't see
 I said if I can't feel it then how could it be?

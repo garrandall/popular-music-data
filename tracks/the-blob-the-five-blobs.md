@@ -1,8 +1,11 @@
 ---
+album: 'Halloween Classics: The Evil, The Demented, And The Just Plain Weird'
 artists:
 - The Five Blobs
+external_ids:
+  spotify: spotify:track:4m9yCjMCg0JbACCo7rAJ7N
 features: []
-genres: []
+first_released_as_single: false
 key: the-blob-the-five-blobs
 lyrics_url: https://genius.com/The-five-blobs-the-blob-lyrics
 name: The Blob
@@ -47,6 +50,8 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1958-12-08'
+release_year: 1958
+runtime: 160733
 ---
 Bpa
 Beware of the blob, it creeps

@@ -1,9 +1,12 @@
 ---
+album: Emergency (Reissue)
 artists:
 - Kool
 - The Gang
+external_ids:
+  spotify: spotify:track:7qDG0cqLV83tNePOvda4Jm
 features: []
-genres: []
+first_released_as_single: false
 key: emergency-kool-the-gang
 lyrics_url: https://www.azlyrics.com/lyrics/koolthegang/emergency.html
 name: Emergency
@@ -72,8 +75,9 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1986-02-08'
+release_year: 1984
+runtime: 320840
 ---
-
 I need a taxi, she's so hot fresh
 In the serious love reaction
 Give it to me 'cause I need your love
@@ -126,6 +130,3 @@ Emergency, emergency
 You energize me, standing beside me
 
 Love and affection give satisfaction
-
-
-

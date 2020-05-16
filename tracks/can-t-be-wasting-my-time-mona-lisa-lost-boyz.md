@@ -1,9 +1,12 @@
 ---
+album: 11-20-79
 artists:
 - Mona Lisa
+external_ids:
+  spotify: spotify:track:1SOZaBObZRdbCJXzWk6QYH
 features:
 - Lost Boyz
-genres: []
+first_released_as_single: false
 key: can-t-be-wasting-my-time-mona-lisa-lost-boyz
 lyrics_url: https://genius.com/Mona-lisa-cant-be-wasting-my-time-lyrics
 name: Can't Be Wasting My Time
@@ -60,6 +63,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1996-05-11'
+release_year: 1995
+runtime: 275066
 ---
 Hey baby, baby
 Can you tell me what you're going through

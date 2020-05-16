@@ -1,8 +1,11 @@
 ---
+album: Emotions In Motion
 artists:
 - Billy Squier
+external_ids:
+  spotify: spotify:track:6wWps1wyZVFb2tjIc2gWGW
 features: []
-genres: []
+first_released_as_single: false
 key: emotions-in-motion-billy-squier
 lyrics_url: https://www.azlyrics.com/lyrics/billysquier/emotionsinmotion.html
 name: Emotions In Motion
@@ -31,8 +34,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1982-09-11'
+release_year: 1982
+runtime: 298400
 ---
-
 Bend your back by the light o' the sun
 You come to the business--you're the number one
 When twilight comes you're a runner in the night
@@ -59,6 +63,3 @@ Get down--you really get down--you really get down
 Right now--you want it right now--hold tight now
 
 Emotions in motion
-
-
-

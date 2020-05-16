@@ -1,8 +1,11 @@
 ---
+album: Up!
 artists:
 - Shania Twain
+external_ids:
+  spotify: spotify:track:5eQtR62IZ8P8qZM2pSD9Ip
 features: []
-genres: []
+first_released_as_single: false
 key: forever-and-for-always-shania-twain
 lyrics_url: https://www.azlyrics.com/lyrics/shaniatwain/foreverandforalways.html
 name: Forever And For Always
@@ -99,8 +102,9 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '2003-10-25'
+release_year: 2002
+runtime: 283000
 ---
-
 In your arms I can still feel the way you
 Want me when you hold me
 I can still hear the words you whispered
@@ -165,6 +169,3 @@ We will be together all of our days
 Wanna wake up every morning to your sweet face
 I'm keeping you forever and for always
 I'm in your arms
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Jerry Wallace's Greatest Hits
 artists:
 - Jerry Wallace
+external_ids:
+  spotify: spotify:track:61wCVx5B4X8nM64dM3Bln8
 features: []
-genres: []
+first_released_as_single: true
 key: in-the-misty-moonlight-jerry-wallace
 lyrics_url: https://genius.com/Jerry-wallace-in-the-misty-moonlight-lyrics
 name: In The Misty Moonlight
@@ -51,6 +54,8 @@ rankings:
   rank: 36
   ranking_list: Billboard Hot 100
   start_date: '1964-10-03'
+release_year: 1964
+runtime: 180546
 ---
 In the misty moonlight
 By the flickering firelight

@@ -1,8 +1,11 @@
 ---
+album: Up-Tight
 artists:
 - Stevie Wonder
+external_ids:
+  spotify: spotify:track:1OJzbyjqsfvIrb92LxkwKI
 features: []
-genres: []
+first_released_as_single: false
 key: nothing-s-too-good-for-my-baby-stevie-wonder
 lyrics_url: https://genius.com/Stevie-wonder-nothings-too-good-for-my-baby-lyrics
 name: Nothing's Too Good For My Baby
@@ -35,6 +38,8 @@ rankings:
   rank: 37
   ranking_list: Billboard Hot 100
   start_date: '1966-05-28'
+release_year: 1966
+runtime: 158066
 ---
 Hey
 

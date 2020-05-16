@@ -1,8 +1,11 @@
 ---
+album: Memories...Do Not Open
 artists:
 - The Chainsmokers
+external_ids:
+  spotify: spotify:track:15vzANxN8G9wWfwAJLLMCg
 features: []
-genres: []
+first_released_as_single: true
 key: paris-the-chainsmokers
 lyrics_url: https://www.azlyrics.com/lyrics/chainsmokers/paris.html
 name: Paris
@@ -87,8 +90,9 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '2017-06-17'
+release_year: 2017
+runtime: 221520
 ---
-
 We were staying in Paris
 To get away from your parents
 And I thought, "Wow, if I could take this in a shot right now
@@ -162,6 +166,3 @@ Let's show them we are better
 If we go down
 Let's show them we are better
 Let's show them we are better
-
-
-

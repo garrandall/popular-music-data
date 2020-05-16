@@ -1,8 +1,11 @@
 ---
+album: Green Tambourine
 artists:
 - The Lemon Pipers
+external_ids:
+  spotify: spotify:track:240FNg8tSGXr9OGswVMuO6
 features: []
-genres: []
+first_released_as_single: false
 key: green-tambourine-the-lemon-pipers
 lyrics_url: https://www.azlyrics.com/lyrics/lemonpipers/greentambourine.html
 name: Green Tambourine
@@ -59,8 +62,9 @@ rankings:
   rank: 25
   ranking_list: Billboard Hot 100
   start_date: '1968-03-09'
+release_year: 1967
+runtime: 146426
 ---
-
 Drop your silver in my tambourine
 Help a poor man fill a pretty dream
 Give me pennies, I'll take anything
@@ -80,6 +84,3 @@ Now listen while I play
 My green tambourine
 
 Listen and I'll play
-
-
-

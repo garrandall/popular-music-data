@@ -1,8 +1,11 @@
 ---
+album: The Very Best of, Volume 1
 artists:
 - Joe Tex
+external_ids:
+  spotify: spotify:track:6hG59WXc951utGHcrbhr4V
 features: []
-genres: []
+first_released_as_single: false
 key: i-ll-never-do-you-wrong-joe-tex
 lyrics_url: https://genius.com/Joe-tex-ill-never-do-you-wrong-lyrics
 name: I'll Never Do You Wrong
@@ -27,6 +30,8 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '1968-06-15'
+release_year: 1965
+runtime: 188920
 ---
 If I ever do you wrong
 If I ever leave you all alone

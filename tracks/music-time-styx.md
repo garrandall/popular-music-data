@@ -1,8 +1,11 @@
 ---
+album: Caught In The Act - Live
 artists:
 - Styx
+external_ids:
+  spotify: spotify:track:4tj1w7zjl2meQFYud0JdZA
 features: []
-genres: []
+first_released_as_single: false
 key: music-time-styx
 lyrics_url: https://www.azlyrics.com/lyrics/styx/musictime.html
 name: Music Time
@@ -43,8 +46,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1984-06-30'
+release_year: 1984
+runtime: 284933
 ---
-
 Hey Everybody It's Music Time
 
 "Now, you can't expect to figure out how to be cool looking in catalogs, so forget about it"
@@ -188,6 +192,3 @@ Turn it loud (hey everybody it's music time)
 Hey everbody it's music time!
 Hey everbody it's music time!
 Hey everbody it's music time!
-
-
-

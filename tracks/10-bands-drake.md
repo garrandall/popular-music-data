@@ -1,8 +1,11 @@
 ---
+album: If You're Reading This It's Too Late
 artists:
 - Drake
+external_ids:
+  spotify: spotify:track:12d5QFwzh60IIHlsSnAvps
 features: []
-genres: []
+first_released_as_single: false
 key: 10-bands-drake
 lyrics_url: https://www.azlyrics.com/lyrics/drake/10bands.html
 name: 10 Bands
@@ -59,9 +62,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2015-05-23'
+release_year: 2015
+runtime: 177733
 ---
-
-
 10 Bands, 50 bands, 100 bands, fuck it man
 Let's just not even discuss it, man, O-M-G
 Niggas sleep, I ain't trippin' I'ma let em sleep
@@ -114,6 +117,3 @@ I been in the crib with the phones off
 I been at the house taking no calls
 I done hit the stride got my shit going
 In the six cooking with the wri-wri-wri-wri
-
-
-

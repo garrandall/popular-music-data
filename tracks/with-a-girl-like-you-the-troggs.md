@@ -1,8 +1,11 @@
 ---
+album: From Nowhere
 artists:
 - The Troggs
+external_ids:
+  spotify: spotify:track:3VGBUfN2EOVHJ4Y92yIh2f
 features: []
-genres: []
+first_released_as_single: false
 key: with-a-girl-like-you-the-troggs
 lyrics_url: https://genius.com/The-troggs-with-a-girl-like-you-lyrics
 name: With A Girl Like You
@@ -39,6 +42,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1966-09-24'
+release_year: 1966
+runtime: 128493
 ---
 I want to spend my life with a girl like you
 Ba ba ba ba, ba ba ba

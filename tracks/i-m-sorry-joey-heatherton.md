@@ -1,8 +1,11 @@
 ---
+album: The Joey Heatherton Album
 artists:
 - Joey Heatherton
+external_ids:
+  spotify: spotify:track:6xNpAf2GUWHHQU0OpnNj7n
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-sorry-joey-heatherton
 lyrics_url: https://www.musixmatch.com/lyrics/Joey-Heatherton/I-m-Sorry
 name: I'm Sorry
@@ -43,6 +46,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1973-01-20'
+release_year: 1972
+runtime: 161200
 ---
 I'm sorry, so sorry
 That I was such a fool

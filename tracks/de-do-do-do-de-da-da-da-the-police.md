@@ -1,8 +1,11 @@
 ---
+album: Zenyatta Mondatta (Remastered 2003)
 artists:
 - The Police
+external_ids:
+  spotify: spotify:track:0yJvWbn8xQKiDZ84VN5lQG
 features: []
-genres: []
+first_released_as_single: false
 key: de-do-do-do-de-da-da-da-the-police
 lyrics_url: https://genius.com/The-police-de-do-do-do-de-da-da-da-lyrics
 name: De Do Do Do De Da Da Da
@@ -91,6 +94,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1981-03-14'
+release_year: 1980
+runtime: 247293
 ---
 Don't think me unkind
 Words are hard to find

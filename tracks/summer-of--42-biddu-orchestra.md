@@ -1,8 +1,11 @@
 ---
+album: Eastern Star In A Western Sky
 artists:
 - Biddu Orchestra
+external_ids:
+  spotify: spotify:track:4xRmdBSwe1i7YnmGgrIVvN
 features: []
-genres: []
+first_released_as_single: false
 key: summer-of--42-biddu-orchestra
 name: Summer Of '42
 rankings:
@@ -30,5 +33,7 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '1975-11-08'
+release_year: 1975
+runtime: 223506
 ---
 

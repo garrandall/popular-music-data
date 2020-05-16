@@ -1,8 +1,11 @@
 ---
+album: The Golden Hits Of
 artists:
 - Dorsey Burnette
+external_ids:
+  spotify: spotify:track:4Cf5RigFToa0AdrNDJIVS1
 features: []
-genres: []
+first_released_as_single: false
 key: the-greatest-love-dorsey-burnette
 name: The Greatest Love
 rankings:
@@ -30,5 +33,7 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1969-03-01'
+release_year: 1969
+runtime: 157746
 ---
 

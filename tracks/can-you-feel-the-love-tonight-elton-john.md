@@ -1,8 +1,11 @@
 ---
+album: Helt Ny Varld (En) (A Whole New World) - Disney Favourites
 artists:
 - Elton John
+external_ids:
+  spotify: spotify:track:0EANX0OVKSCcmarY50Xa4p
 features: []
-genres: []
+first_released_as_single: false
 key: can-you-feel-the-love-tonight-elton-john
 lyrics_url: https://genius.com/Can-you-feel-the-love-tonight-elton-john-lyrics
 name: Can You Feel The Love Tonight
@@ -111,6 +114,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1994-11-12'
+release_year: 1994
+runtime: 241013
 ---
 There's a calm surrender
 To the rush of day

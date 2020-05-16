@@ -1,8 +1,11 @@
 ---
+album: Tha Carter V
 artists:
 - Lil Wayne
+external_ids:
+  spotify: spotify:track:3K2mWbuNAu8OoTG2gCzf7i
 features: []
-genres: []
+first_released_as_single: false
 key: took-his-time-lil-wayne
 lyrics_url: https://genius.com/Lil-wayne-took-his-time-lyrics
 name: Took His Time
@@ -11,6 +14,8 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '2018-10-13'
+release_year: 2018
+runtime: 262399
 ---
 Momma said God took his time when he made me
 I put my pride to the side, off safety

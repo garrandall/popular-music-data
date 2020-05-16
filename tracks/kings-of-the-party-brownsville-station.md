@@ -1,8 +1,11 @@
 ---
+album: School Punks
 artists:
 - Brownsville Station
+external_ids:
+  spotify: spotify:track:5bEwvSEv3zzgV6Wb6cpVwu
 features: []
-genres: []
+first_released_as_single: false
 key: kings-of-the-party-brownsville-station
 lyrics_url: https://www.azlyrics.com/lyrics/brownsvillestation/kingsoftheparty.html
 name: Kings Of The Party
@@ -43,8 +46,9 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '1974-10-26'
+release_year: 1974
+runtime: 256093
 ---
-
 All right now, get your ears lowered down to the speakers
 So you can understand what I'm talking about
 You know it seems like no matter where we go to play a concert at
@@ -93,6 +97,3 @@ We're the kings, the kings of the rock 'n' roll party
 We're the kings of the party, we're the baddest people alive
 We're the kings of the party, aw come on, and slip me five
 Now we're the kings of the party, 'cause we're the baddest people alive
-
-
-

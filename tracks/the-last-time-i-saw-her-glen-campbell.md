@@ -1,8 +1,11 @@
 ---
+album: The Last Time I Saw Her
 artists:
 - Glen Campbell
+external_ids:
+  spotify: spotify:track:52nJoUoPIrpSkmo4QEGX1U
 features: []
-genres: []
+first_released_as_single: false
 key: the-last-time-i-saw-her-glen-campbell
 lyrics_url: https://www.azlyrics.com/lyrics/glencampbell/thelasttimeisawher.html
 name: The Last Time I Saw Her
@@ -35,8 +38,9 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1971-08-07'
+release_year: 1971
+runtime: 247266
 ---
-
 The last time I saw her face her eyes were bathed in starlight and her hair hung long
 The last time she spoke to me
 Her lips were like the scented flowers inside a rain-drenched forest
@@ -57,6 +61,3 @@ The last time I saw her face her eyes were bathed in starlight and she walked al
 The last time she kissed my cheek her lips were like the wilted leaves
 Upon the autumn covered hills resting on the frozen ground
 The seeds of love lie cold and still beneath a battered marking stone it lies forgotten
-
-
-

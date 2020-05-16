@@ -1,8 +1,11 @@
 ---
+album: Even Now
 artists:
 - Barry Manilow
+external_ids:
+  spotify: spotify:track:3fgGLmCh0RnuWyIn7t55RU
 features: []
-genres: []
+first_released_as_single: false
 key: somewhere-in-the-night-barry-manilow
 lyrics_url: https://www.azlyrics.com/lyrics/barrymanilow/somewhereinthenight.html
 name: Somewhere In The Night
@@ -67,8 +70,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1979-03-24'
+release_year: 1973
+runtime: 206866
 ---
-
 Time, you found time enough to love
 And I found love enough to hold you
 So tonight I'll stir the fire you feel inside
@@ -105,6 +109,3 @@ Somewhere in the night!
 (We'll just go on burnin' bright)
 
 (Somewhere in the night)
-
-
-

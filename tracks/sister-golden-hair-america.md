@@ -1,8 +1,11 @@
 ---
+album: Hearts (US Internet Release)
 artists:
 - America
+external_ids:
+  spotify: spotify:track:4BCmdMShfg9uz1WeyXaFae
 features: []
-genres: []
+first_released_as_single: false
 key: sister-golden-hair-america
 lyrics_url: https://genius.com/America-sister-golden-hair-lyrics
 name: Sister Golden Hair
@@ -71,6 +74,8 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '1975-07-19'
+release_year: 1972
+runtime: 197226
 ---
 Well I tried to make it Sunday
 But I got so damn depressed

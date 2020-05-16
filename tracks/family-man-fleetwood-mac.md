@@ -1,8 +1,11 @@
 ---
+album: Tango In the Night
 artists:
 - Fleetwood Mac
+external_ids:
+  spotify: spotify:track:56yLJIyy1EfAyujm5HSxJR
 features: []
-genres: []
+first_released_as_single: false
 key: family-man-fleetwood-mac
 lyrics_url: https://www.azlyrics.com/lyrics/fleetwoodmac/familyman.html
 name: Family Man
@@ -23,8 +26,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1988-04-23'
+release_year: 1987
+runtime: 247133
 ---
-
 Walk down this road
 When the road gets rough
 I fall down
@@ -51,6 +55,3 @@ I am what I am
 A family man
 Mother... father... brother...
 Mother... father... brother...
-
-
-

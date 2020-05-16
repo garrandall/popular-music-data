@@ -1,8 +1,11 @@
 ---
+album: Phenomenon (Music From The Motion Picture)
 artists:
 - Eric Clapton
+external_ids:
+  spotify: spotify:track:3jYr59dZBKzFa7Ji7be6fT
 features: []
-genres: []
+first_released_as_single: false
 key: change-the-world-eric-clapton
 lyrics_url: https://genius.com/Eric-clapton-change-the-world-lyrics
 name: Change The World
@@ -179,6 +182,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1997-05-10'
+release_year: 1996
+runtime: 234866
 ---
 If I could reach the stars
 Pull one down for you

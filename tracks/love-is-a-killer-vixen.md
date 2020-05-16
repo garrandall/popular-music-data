@@ -1,8 +1,11 @@
 ---
+album: Rev It Up!
 artists:
 - Vixen
+external_ids:
+  spotify: spotify:track:2ZMO4x1D3aeXP1ISozKOnU
 features: []
-genres: []
+first_released_as_single: false
 key: love-is-a-killer-vixen
 lyrics_url: https://www.azlyrics.com/lyrics/vixen/loveisakiller.html
 name: Love Is A Killer
@@ -31,8 +34,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1990-12-15'
+release_year: 1990
+runtime: 283306
 ---
-
 Only a fool believes 
 It's better to have loved and lost 
 Than never to have loved at all 
@@ -95,6 +99,3 @@ I got a target on my back
 for a cupid dressed in black
 Love is a killer
 It's killing me
-
-
-

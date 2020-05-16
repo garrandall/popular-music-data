@@ -1,8 +1,11 @@
 ---
+album: Dickie Goodman Greatest Hits
 artists:
 - Dickie Goodman
+external_ids:
+  spotify: spotify:track:0fyM39f1Ht40ht6FHEcQmR
 features: []
-genres: []
+first_released_as_single: false
 key: watergrate-dickie-goodman
 name: Watergrate
 rankings:
@@ -34,5 +37,7 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '1973-07-28'
+release_year: 1973
+runtime: 130173
 ---
 

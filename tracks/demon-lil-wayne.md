@@ -1,8 +1,11 @@
 ---
+album: Tha Carter V
 artists:
 - Lil Wayne
+external_ids:
+  spotify: spotify:track:4sHjzveD13xNAIwa6cTxkr
 features: []
-genres: []
+first_released_as_single: false
 key: demon-lil-wayne
 lyrics_url: https://genius.com/Lil-wayne-demon-lyrics
 name: Demon
@@ -11,6 +14,8 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '2018-10-13'
+release_year: 2018
+runtime: 214313
 ---
 Sleepin' with the enemy, my demons are too intimate
 She's sleepin' very gently so now they're startin' to enter it

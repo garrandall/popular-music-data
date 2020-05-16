@@ -1,8 +1,11 @@
 ---
+album: 20 Greatest Hits
 artists:
 - Brook Benton
+external_ids:
+  spotify: spotify:track:0L8nLcu8DFkeGRndyV6xtP
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-just-a-house-without-you-brook-benton
 lyrics_url: https://genius.com/Brook-benton-its-just-a-house-without-you-lyrics
 name: It's Just A House Without You
@@ -27,6 +30,8 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '1961-10-30'
+release_year: 1961
+runtime: 147530
 ---
 Cause you see
 I'm going home to no one

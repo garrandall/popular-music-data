@@ -1,8 +1,11 @@
 ---
+album: Dangerous
 artists:
 - Michael Jackson
+external_ids:
+  spotify: spotify:track:0lQC3Ky9S77b4ihF5hFfVZ
 features: []
-genres: []
+first_released_as_single: false
 key: will-you-be-there-michael-jackson
 lyrics_url: https://genius.com/Michael-jackson-will-you-be-there-lyrics
 name: Will You Be There
@@ -87,6 +90,8 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '1993-11-27'
+release_year: 1991
+runtime: 352106
 ---
 Hold me
 Like the River Jordan

@@ -1,11 +1,14 @@
 ---
+album: 1st Infantry
 artists:
 - The Alchemist
+external_ids:
+  spotify: spotify:track:5Lzumvaqcoa6eZLLQn0IW2
 features:
 - Prodigy
 - Illa Ghee
 - Nina Sky
-genres: []
+first_released_as_single: false
 key: hold-you-down-the-alchemist-prodigy-illa-ghee-nina-sky
 lyrics_url: https://www.azlyrics.com/lyrics/alchemist/holdyoudown.html
 name: Hold You Down
@@ -26,9 +29,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2005-01-29'
+release_year: 2004
+runtime: 238706
 ---
-
-
 Let's do this shit, ayo
 It's like this man, ayo
 
@@ -122,6 +125,3 @@ Long as you roll with me, we are (down)
  ("Alchemist been my nephew for a minute... ")
 
 "Soon, you'll, un-der-stand"
-
-
-

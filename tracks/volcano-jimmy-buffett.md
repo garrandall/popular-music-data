@@ -1,8 +1,11 @@
 ---
+album: Volcano
 artists:
 - Jimmy Buffett
+external_ids:
+  spotify: spotify:track:0s4jINkD2RoxH96zpy2i0D
 features: []
-genres: []
+first_released_as_single: false
 key: volcano-jimmy-buffett
 lyrics_url: https://www.azlyrics.com/lyrics/jimmybuffett/volcano.html
 name: Volcano
@@ -35,8 +38,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1980-02-02'
+release_year: 1979
+runtime: 219893
 ---
-
 Now, I don't know, I don't know where I'm a gonna go
 when the volcano blow.
 Let me say it now,
@@ -84,4 +88,3 @@ Don't want to land no San Diego.
 Don't want to land in no Buzzards Bay.
 I don't want to land on no Ayatolla.
 I got nothin' more to say.
-

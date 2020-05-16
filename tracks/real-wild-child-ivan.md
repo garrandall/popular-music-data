@@ -1,8 +1,11 @@
 ---
+album: 'Rockin'' Reelin'' & Rollin'': 1950 to 1959'
 artists:
 - Ivan
+external_ids:
+  spotify: spotify:track:6NdQz3vMzufMu2Nr2BDnHm
 features: []
-genres: []
+first_released_as_single: false
 key: real-wild-child-ivan
 lyrics_url: https://genius.com/Ivan-real-wild-child-lyrics
 name: Real Wild Child
@@ -27,6 +30,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1958-10-20'
+release_year: 1958
+runtime: 139413
 ---
 Well I'm just outta school
 Like I'm real, real cool

@@ -1,8 +1,11 @@
 ---
+album: Lives in the Balance
 artists:
 - Jackson Browne
+external_ids:
+  spotify: spotify:track:3Z7fmgWQXBfEnTQ3aCmjgm
 features: []
-genres: []
+first_released_as_single: false
 key: in-the-shape-of-a-heart-jackson-browne
 lyrics_url: https://www.azlyrics.com/lyrics/jacksonbrowne/intheshapeofaheart.html
 name: In The Shape Of A Heart
@@ -35,8 +38,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1986-07-19'
+release_year: 1986
+runtime: 342173
 ---
-
 It was a ruby that she wore
 On a chain around her neck
 In the shape of a heart
@@ -102,6 +106,3 @@ And never know
 The shallows and the unseen reefs
 That are there from the start
 In the shape of a heart
-
-
-

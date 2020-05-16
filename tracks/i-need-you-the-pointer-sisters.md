@@ -1,8 +1,11 @@
 ---
+album: Break Out
 artists:
 - The Pointer Sisters
+external_ids:
+  spotify: spotify:track:5GAzY9g3ZZxaP0DOOol3xO
 features: []
-genres: []
+first_released_as_single: false
 key: i-need-you-the-pointer-sisters
 lyrics_url: https://genius.com/The-pointer-sisters-i-need-you-lyrics
 name: I Need You
@@ -67,6 +70,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1984-01-14'
+release_year: 1983
+runtime: 241720
 ---
 Something's wrong, things aren't right
 And it turns into a silly fight

@@ -1,8 +1,11 @@
 ---
+album: The Good Life With The Drifters
 artists:
 - The Drifters
+external_ids:
+  spotify: spotify:track:1R1e6Cw3elL8bSRuf2YPcz
 features: []
-genres: []
+first_released_as_single: false
 key: saturday-night-at-the-movies-the-drifters
 lyrics_url: https://www.azlyrics.com/lyrics/drifters/saturdaynightatthemovies.html
 name: Saturday Night At The Movies
@@ -43,8 +46,9 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '1965-01-09'
+release_year: 1964
+runtime: 147786
 ---
-
 Well, Saturday night at eight o'clock
 I know where I'm gonna go
 I'm a-gonna pick my baby up
@@ -84,6 +88,3 @@ When you're hugging with your baby
 Last row in the balcony?
 
 Yeah, Saturday night at the movies
-
-
-

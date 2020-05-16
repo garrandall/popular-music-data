@@ -1,9 +1,12 @@
 ---
+album: The Recipe
 artists:
 - Mack 10
+external_ids:
+  spotify: spotify:track:4zT9PygOyH6GenO6a1kES8
 features:
 - Gerald Levert
-genres: []
+first_released_as_single: false
 key: money-s-just-a-touch-away-mack-10-gerald-levert
 lyrics_url: https://www.azlyrics.com/lyrics/mack10/moneysjustatouchaway.html
 name: Money's Just A Touch Away
@@ -24,9 +27,9 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '1998-11-28'
+release_year: 1998
+runtime: 273560
 ---
-
-
 This song is dedicated
 to all the up and coming rappers, singers, hustlers, actors
 Whatever you may be remember:
@@ -100,6 +103,3 @@ Money's just a touch away..
 Man I knew I was gonna make it, but they didn't believe me
 YaknowhatI'msayin? Clowned me - gon' be a rapper, what?
 Hahahaha
-
-
-

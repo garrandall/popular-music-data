@@ -1,8 +1,11 @@
 ---
+album: Deliverin'
 artists:
 - Poco
+external_ids:
+  spotify: spotify:track:33iOKEuI38vJ74MA8I1pKg
 features: []
-genres: []
+first_released_as_single: false
 key: c-mon-poco
 lyrics_url: https://genius.com/Poco-cmon-lyrics
 name: C'mon
@@ -35,6 +38,8 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1971-05-08'
+release_year: 1971
+runtime: 190866
 ---
 (richie furay)
 

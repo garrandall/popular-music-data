@@ -1,8 +1,11 @@
 ---
+album: No More Looking Over My Shoulder
 artists:
 - Travis Tritt
+external_ids:
+  spotify: spotify:track:4BT0ltNgL8JljaedanwyVT
 features: []
-genres: []
+first_released_as_single: false
 key: if-i-lost-you-travis-tritt
 lyrics_url: https://www.azlyrics.com/lyrics/travistritt/ifilostyou.html
 name: If I Lost You
@@ -51,8 +54,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1998-12-26'
+release_year: 1998
+runtime: 228866
 ---
-
 There's been times I've felt like half a man
 Life had me down on my knees
 Troubled times I don't understand
@@ -76,6 +80,3 @@ But if I lost you
 There'd be no sun shine shinin through
 I don't know what in the world I would do
 If I lost you
-
-
-

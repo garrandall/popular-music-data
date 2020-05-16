@@ -1,8 +1,11 @@
 ---
+album: Summer Forever
 artists:
 - Billy Currington
+external_ids:
+  spotify: spotify:track:3I7krC8kr0gFR7P6vInR1I
 features: []
-genres: []
+first_released_as_single: false
 key: do-i-make-you-wanna-billy-currington
 lyrics_url: https://www.azlyrics.com/lyrics/billycurrington/doimakeyouwanna.html
 name: Do I Make You Wanna
@@ -83,8 +86,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2017-11-04'
+release_year: 2015
+runtime: 234306
 ---
-
 Baby what's on your mind,
 When you see me pull up to your drive?
 Do you wanna go downtown,
@@ -183,6 +187,3 @@ Go flyin' down a two lane road.
 
 Ah, babe, tell me,
 Do I make you wanna?
-
-
-

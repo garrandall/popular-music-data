@@ -1,8 +1,11 @@
 ---
+album: Street Life
 artists:
 - The Crusaders
+external_ids:
+  spotify: spotify:track:5CtKsA5lA75wWaqxrC1r02
 features: []
-genres: []
+first_released_as_single: false
 key: street-life-the-crusaders
 lyrics_url: https://genius.com/The-crusaders-street-life-single-edit-lyrics
 name: Street Life
@@ -71,6 +74,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1979-12-08'
+release_year: 1979
+runtime: 678200
 ---
 I still hang around
 Neither lost nor found

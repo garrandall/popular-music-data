@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music, Volume 4'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:5FeMd5rQHvn9oQQoD8j0Z9
 features: []
-genres: []
+first_released_as_single: false
 key: i-want-to-hold-your-hand-glee-cast
 lyrics_url: https://www.azlyrics.com/lyrics/gleecast/iwanttoholdyourhand.html
 name: I Want To Hold Your Hand
@@ -11,8 +14,9 @@ rankings:
   rank: 36
   ranking_list: Billboard Hot 100
   start_date: '2010-10-23'
+release_year: 2010
+runtime: 156346
 ---
-
 Oh yeah, I'll tell you something
 I think you'll understand
 When I'll say that something
@@ -41,6 +45,3 @@ I wanna hold your hand
 I wanna hold your hand
 I wanna hold your hand
 I wanna hold your hand.
-
-
-

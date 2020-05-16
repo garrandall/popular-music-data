@@ -1,8 +1,11 @@
 ---
+album: I'm Your Baby Tonight
 artists:
 - Whitney Houston
+external_ids:
+  spotify: spotify:track:07M76e7IXxYdnC1BBiJxEX
 features: []
-genres: []
+first_released_as_single: false
 key: all-the-man-that-i-need-whitney-houston
 lyrics_url: https://genius.com/Whitney-houston-all-the-man-that-i-need-lyrics
 name: All The Man That I Need
@@ -99,6 +102,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1991-05-25'
+release_year: 1990
+runtime: 251426
 ---
 I used to cry myself to sleep at night
 But that was all before he came

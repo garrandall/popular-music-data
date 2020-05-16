@@ -1,8 +1,11 @@
 ---
+album: It's Hard
 artists:
 - The Who
+external_ids:
+  spotify: spotify:track:0LN5gIsS5tQSmRzQrHSaTR
 features: []
-genres: []
+first_released_as_single: false
 key: eminence-front-the-who
 lyrics_url: https://www.azlyrics.com/lyrics/who/eminencefront.html
 name: Eminence Front
@@ -31,8 +34,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1983-01-29'
+release_year: 1982
+runtime: 339106
 ---
-
 The sun shines
 And people forget
 The spray flies as the speedboat glides
@@ -96,6 +100,3 @@ Dress to
 Come on join the party
 Dress to kill
 Dress yourself to kill
-
-
-

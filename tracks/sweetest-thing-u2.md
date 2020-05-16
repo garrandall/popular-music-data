@@ -1,8 +1,11 @@
 ---
+album: The Joshua Tree (Super Deluxe)
 artists:
 - U2
+external_ids:
+  spotify: spotify:track:7ndGFo9nZ108KPgXtfYWCe
 features: []
-genres: []
+first_released_as_single: false
 key: sweetest-thing-u2
 lyrics_url: https://www.azlyrics.com/lyrics/u2band/thesweetestthing.html
 name: Sweetest Thing
@@ -75,8 +78,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1999-03-27'
+release_year: 1987
+runtime: 184543
 ---
-
 My love throws me like a rubber ball
 Oh oh oh, the sweetest thing
 She won't catch me or break my fall
@@ -114,6 +118,3 @@ Oh oh oh, the sweetest thing
 Oh oh oh, the sweetest thing
 Oh oh oh, the sweetest thing
 Oh oh oh, the sweetest thing
-
-
-

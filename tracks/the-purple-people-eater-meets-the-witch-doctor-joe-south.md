@@ -1,8 +1,11 @@
 ---
+album: 'National Recording Corporation: The NRC Years 1958-1961'
 artists:
 - Joe South
+external_ids:
+  spotify: spotify:track:1OdIJI2nChNUwj9tJ6riFr
 features: []
-genres: []
+first_released_as_single: false
 key: the-purple-people-eater-meets-the-witch-doctor-joe-south
 lyrics_url: https://www.azlyrics.com/lyrics/joesouth/thepurplepeopleeatermeetsthewitchdoctor.html
 name: The Purple People Eater Meets The Witch Doctor
@@ -15,8 +18,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1958-08-11'
+release_year: 1958
+runtime: 160346
 ---
-
 While strolling through the woods
 Not so far from town
 I got real shook
@@ -107,6 +111,3 @@ Crazy man, crazy
 Walla walla bing bang)
 
 (Ha ha ha ha)
-
-
-

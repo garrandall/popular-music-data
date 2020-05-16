@@ -1,8 +1,11 @@
 ---
+album: Meet The Orphans
 artists:
 - Don Omar
+external_ids:
+  spotify: spotify:track:4cyYC67XY3weSVmSLdKLP8
 features: []
-genres: []
+first_released_as_single: false
 key: taboo-don-omar
 lyrics_url: https://genius.com/Don-omar-taboo-lyrics
 name: Taboo
@@ -11,6 +14,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2011-07-23'
+release_year: 2010
+runtime: 292160
 ---
 Bahía Azul
 A&X

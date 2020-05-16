@@ -1,8 +1,11 @@
 ---
+album: 'Playlist: The Very Best Of The Intruders'
 artists:
 - The Intruders
+external_ids:
+  spotify: spotify:track:0NV93JVFGTMn3aZ8Gb1S3X
 features: []
-genres: []
+first_released_as_single: false
 key: slow-drag-the-intruders
 lyrics_url: https://www.azlyrics.com/lyrics/intruders/slowdrag.html
 name: Slow Drag
@@ -35,8 +38,9 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1968-12-21'
+release_year: 1964
+runtime: 144933
 ---
-
 Hm, closer
 I wanna be closer to you
 
@@ -127,6 +131,3 @@ So I slow drag
 I like to close
 To the one I love
 So I slow drag
-
-
-

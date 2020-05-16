@@ -1,8 +1,11 @@
 ---
+album: Destiny
 artists:
 - The Jacksons
+external_ids:
+  spotify: spotify:track:3qI94hINNNeb4S7xQi18lS
 features: []
-genres: []
+first_released_as_single: false
 key: blame-it-on-the-boogie-the-jacksons
 lyrics_url: https://genius.com/The-jacksons-blame-it-on-the-boogie-lyrics
 name: Blame It On The Boogie
@@ -31,6 +34,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1978-12-09'
+release_year: 1978
+runtime: 214200
 ---
 My baby's always dancin' and it wouldn't be a bad thing
 But I don't get no lovin' and that's no lie

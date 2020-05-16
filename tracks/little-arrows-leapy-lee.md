@@ -1,8 +1,11 @@
 ---
+album: 50th Anniversary Album
 artists:
 - Leapy Lee
+external_ids:
+  spotify: spotify:track:223FGltOdavs2zy6kpr1dB
 features: []
-genres: []
+first_released_as_single: false
 key: little-arrows-leapy-lee
 lyrics_url: https://genius.com/Leapy-lee-little-arrows-lyrics
 name: Little Arrows
@@ -63,6 +66,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1969-01-11'
+release_year: 1968
+runtime: 148333
 ---
 There's a boy a little boy
 Shooting arrows in the blue

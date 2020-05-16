@@ -1,8 +1,11 @@
 ---
+album: Goldisc Records From The Vault Vol. 4
 artists:
 - Donnie and The Dreamers
+external_ids:
+  spotify: spotify:track:6R8dZJ0hAurSStsFZf7EDF
 features: []
-genres: []
+first_released_as_single: false
 key: count-every-star-donnie-and-the-dreamers
 name: Count Every Star
 rankings:
@@ -46,5 +49,7 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '1961-07-03'
+release_year: 1961
+runtime: 118960
 ---
 

@@ -1,8 +1,11 @@
 ---
+album: The Singles
 artists:
 - Johnny Mathis
+external_ids:
+  spotify: spotify:track:1g4TxcBA5cueNRWKr2oQE6
 features: []
-genres: []
+first_released_as_single: false
 key: every-step-of-the-way-johnny-mathis
 lyrics_url: https://www.musixmatch.com/lyrics/Johnny-Mathis/Every-Step-of-the-Way
 name: Every Step Of The Way
@@ -35,6 +38,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1963-07-06'
+release_year: 1963
+runtime: 203773
 ---
 Well walk the road of life together, day by day
 And I will love you every step of the way

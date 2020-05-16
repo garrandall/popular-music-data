@@ -1,8 +1,11 @@
 ---
+album: "Sinatra \u201965"
 artists:
 - Frank Sinatra
+external_ids:
+  spotify: spotify:track:0Yj8rO6Nzuvp3gsAW00BuI
 features: []
-genres: []
+first_released_as_single: false
 key: stay-with-me-frank-sinatra
 lyrics_url: https://genius.com/Frank-sinatra-stay-with-me-lyrics
 name: Stay With Me
@@ -19,6 +22,8 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1964-02-01'
+release_year: 1964
+runtime: 184960
 ---
 Should my heart not be humble, should my eyes fail to see
 Should my feet sometimes stumble on the way, stay with me

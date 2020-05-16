@@ -1,8 +1,11 @@
 ---
+album: Live At The BBC
 artists:
 - The Beatles
+external_ids:
+  spotify: spotify:track:3k6zSunlStXxWF0s1063lk
 features: []
-genres: []
+first_released_as_single: false
 key: thank-you-girl-the-beatles
 lyrics_url: https://genius.com/The-beatles-thank-you-girl-lyrics
 name: Thank You Girl
@@ -35,6 +38,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1964-05-16'
+release_year: 1964
+runtime: 123600
 ---
 Oh, oh, you've been good to me
 You made me glad

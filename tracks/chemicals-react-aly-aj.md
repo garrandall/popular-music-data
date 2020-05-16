@@ -1,9 +1,12 @@
 ---
+album: Insomniatic
 artists:
 - Aly
 - AJ
+external_ids:
+  spotify: spotify:track:7vOjTY220BqIttYDbwshED
 features: []
-genres: []
+first_released_as_single: false
 key: chemicals-react-aly-aj
 lyrics_url: https://genius.com/Aly-and-aj-chemicals-react-lyrics
 name: Chemicals React
@@ -24,6 +27,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2006-10-21'
+release_year: 2006
+runtime: 175920
 ---
 You make me feel out of my element
 Like I'm walkin' on broken glass

@@ -1,8 +1,11 @@
 ---
+album: The Ghosts That Haunt Me
 artists:
 - Crash Test Dummies
+external_ids:
+  spotify: spotify:track:6kCNE5PfZV7iQFb6daC8la
 features: []
-genres: []
+first_released_as_single: false
 key: superman-s-song-crash-test-dummies
 lyrics_url: https://www.azlyrics.com/lyrics/crashtestdummies/supermanssong.html
 name: Superman's Song
@@ -31,8 +34,9 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1991-11-09'
+release_year: 1991
+runtime: 270360
 ---
-
 Tarzan
 Wasn't a ladies' man
 He'd just come along and scoop 'em up under his arm like that
@@ -85,6 +89,3 @@ For saving the world from Solomon Grundy
 And sometimes I despair the world will never see another man like him
 
 And sometimes I despair the world will never see another man like him
-
-
-

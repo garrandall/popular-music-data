@@ -1,8 +1,11 @@
 ---
+album: Pieces Of Eight
 artists:
 - Styx
+external_ids:
+  spotify: spotify:track:1CQqupcyMg7176PPmIVmSj
 features: []
-genres: []
+first_released_as_single: false
 key: renegade-styx
 lyrics_url: https://www.azlyrics.com/lyrics/styx/renegade.html
 name: Renegade
@@ -83,8 +86,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1979-07-21'
+release_year: 1978
+runtime: 257226
 ---
-
 Oh, Mama, I'm in fear for my life from the long arm of the law
 Law man has put an end to my running and I'm so far from my home
 Oh, Mama I can hear you a-cryin', you're so scared and all alone
@@ -130,6 +134,3 @@ And I don't wanna go, oh, no
 Oh, Mama, don't let them take me
 No, no, no, I can't go
 Hey, hey
-
-
-

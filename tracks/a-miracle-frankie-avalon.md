@@ -1,8 +1,11 @@
 ---
+album: Venus
 artists:
 - Frankie Avalon
+external_ids:
+  spotify: spotify:track:1USwd0VpMKlgfMYmdrJJvq
 features: []
-genres: []
+first_released_as_single: false
 key: a-miracle-frankie-avalon
 lyrics_url: https://genius.com/Frankie-avalon-a-miracle-lyrics
 name: A Miracle
@@ -31,6 +34,8 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '1962-08-18'
+release_year: 1962
+runtime: 138005
 ---
 Love can bring sorrow
 Love can bring joy

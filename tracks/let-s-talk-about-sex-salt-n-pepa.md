@@ -1,8 +1,11 @@
 ---
+album: Blacks' Magic
 artists:
 - Salt-N-Pepa
+external_ids:
+  spotify: spotify:track:6hTBP6QLwJdxbKyLlLXrGo
 features: []
-genres: []
+first_released_as_single: false
 key: let-s-talk-about-sex-salt-n-pepa
 lyrics_url: https://www.azlyrics.com/lyrics/saltnpepa/letstalkaboutsex.html
 name: Let's Talk About Sex
@@ -87,8 +90,9 @@ rankings:
   rank: 25
   ranking_list: Billboard Hot 100
   start_date: '1992-01-04'
+release_year: 1990
+runtime: 213266
 ---
-
 (Punch it, Hurb
 Yo, I don't think we should talk about this
 Come on, why not?
@@ -157,4 +161,3 @@ Come on, all the ladies - let's talk about sex, all right
 And why not? Everybody has sex
 I mean, everybody should be makin' love
 Come on, how many guys you know make love?)
-

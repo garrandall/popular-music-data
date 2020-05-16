@@ -1,8 +1,11 @@
 ---
+album: Jon Secada
 artists:
 - Jon Secada
+external_ids:
+  spotify: spotify:track:5AoBNJQDXXEnIJGjJjZu3y
 features: []
-genres: []
+first_released_as_single: false
 key: just-another-day-jon-secada
 lyrics_url: https://www.azlyrics.com/lyrics/jonsecada/justanotherday.html
 name: Just Another Day
@@ -155,8 +158,9 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1992-12-26'
+release_year: 1992
+runtime: 327426
 ---
-
 Mornings alone
 When you come home
 I breathe a little faster
@@ -217,6 +221,3 @@ Make it through the day without you
 I, I, I can't resist
 Trying to find exactly what I miss
 It's just another day without you.
-
-
-

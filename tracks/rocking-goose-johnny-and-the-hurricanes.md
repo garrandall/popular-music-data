@@ -1,8 +1,11 @@
 ---
+album: '20 Best: Johhny & The Hurricanes'
 artists:
 - Johnny And The Hurricanes
+external_ids:
+  spotify: spotify:track:6TknUQFAnrxc3iqEOnaRrM
 features: []
-genres: []
+first_released_as_single: false
 key: rocking-goose-johnny-and-the-hurricanes
 lyrics_url: https://genius.com/Johnny-and-the-hurricanes-rocking-goose-lyrics
 name: Rocking Goose
@@ -31,5 +34,7 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1960-10-10'
+release_year: 1960
+runtime: 115240
 ---
 ♫ Instrumental ♫

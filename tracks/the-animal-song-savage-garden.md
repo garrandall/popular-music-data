@@ -1,8 +1,11 @@
 ---
+album: Affirmation
 artists:
 - Savage Garden
+external_ids:
+  spotify: spotify:track:6GIpZEzx5d1hm1s3ap7C5r
 features: []
-genres: []
+first_released_as_single: true
 key: the-animal-song-savage-garden
 lyrics_url: https://www.azlyrics.com/lyrics/savagegarden/theanimalsong.html
 name: The Animal Song
@@ -47,8 +50,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1999-05-15'
+release_year: 1999
+runtime: 221600
 ---
-
 When superstars and cannonballs are running through your head
 A television freak show cops and robbers everywhere
 Subway makes me nervous, people pushing me too far
@@ -91,4 +95,3 @@ Compassion in the jungle
 Compassion in your hands, yeah
 Would you like to make a run for it
 Would you like to take my hand, yeah
-

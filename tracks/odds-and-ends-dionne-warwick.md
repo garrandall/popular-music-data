@@ -1,8 +1,11 @@
 ---
+album: 'Odds & Ends: Scepter Records Rarities'
 artists:
 - Dionne Warwick
+external_ids:
+  spotify: spotify:track:66g7RleXwZuFUlec54oXnG
 features: []
-genres: []
+first_released_as_single: false
 key: odds-and-ends-dionne-warwick
 lyrics_url: https://www.azlyrics.com/lyrics/dionnewarwick/oddsandends.html
 name: Odds And Ends
@@ -39,8 +42,9 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '1969-09-13'
+release_year: 1969
+runtime: 208693
 ---
-
 Your pillow wasn't slept upon
 Your closet was empty, too
 All of your shirts and ties were gone
@@ -70,6 +74,3 @@ Just an empty tube of toothpaste
 And a half-filled cup of coffee
 Odds and ends of a beautiful love affair
 Odds and ends of a beautiful love affair
-
-
-

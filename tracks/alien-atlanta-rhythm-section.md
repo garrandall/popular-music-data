@@ -1,8 +1,11 @@
 ---
+album: Quinella
 artists:
 - Atlanta Rhythm Section
+external_ids:
+  spotify: spotify:track:7DZQd335o3GLCJhkqUox4I
 features: []
-genres: []
+first_released_as_single: false
 key: alien-atlanta-rhythm-section
 lyrics_url: https://www.azlyrics.com/lyrics/atlantarhythmsection/alien.html
 name: Alien
@@ -67,8 +70,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1981-12-05'
+release_year: 1981
+runtime: 294400
 ---
-
 The sun just went behind a cloud again
 Down crowded streets he walks alone
 He's a stranger out of place
@@ -101,6 +105,3 @@ He's feelin' like he don't belong
 Have mercy, cried the alien
 Help him find his way
 Help him find his way
-
-
-

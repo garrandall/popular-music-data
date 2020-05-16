@@ -1,8 +1,11 @@
 ---
+album: Groove Theory
 artists:
 - Groove Theory
+external_ids:
+  spotify: spotify:track:0MXNzVX7zTva4U569d5oOq
 features: []
-genres: []
+first_released_as_single: false
 key: keep-tryin--groove-theory
 lyrics_url: https://www.azlyrics.com/lyrics/groovetheory/keeptryin.html
 name: Keep Tryin'
@@ -55,8 +58,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1996-04-27'
+release_year: 1995
+runtime: 260440
 ---
-
 You've been
 Missin'
 Out on all the chances you've been given
@@ -88,4 +92,3 @@ Nothin' can stop you as long as you listen to your heart
 
 
 You can make it if you try
-

@@ -1,8 +1,11 @@
 ---
+album: Full Circle
 artists:
 - The Doors
+external_ids:
+  spotify: spotify:track:5rMfihaxthEm9rMDSnNk1r
 features: []
-genres: []
+first_released_as_single: false
 key: the-mosquito-the-doors
 lyrics_url: https://genius.com/The-doors-the-mosquito-lyrics
 name: The Mosquito
@@ -23,6 +26,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1972-10-21'
+release_year: 1972
+runtime: 319493
 ---
 No me moleste mosquito
 No me moleste mosquito

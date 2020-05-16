@@ -1,8 +1,11 @@
 ---
+album: The Best Of Bobby Rydell
 artists:
 - Bobby Rydell
+external_ids:
+  spotify: spotify:track:5Zt2tF219dfVI32VAORqXH
 features: []
-genres: []
+first_released_as_single: false
 key: good-time-baby-bobby-rydell
 lyrics_url: https://genius.com/Bobby-rydell-good-time-baby-lyrics
 name: Good Time Baby
@@ -51,17 +54,13 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1961-04-03'
+release_year: 1961
+runtime: 129466
 ---
-Good Time Baby
-Bobby Rydell
-Words and Music by Bernie Lowe, Kal Mann, and Dave Appell
-
-(peak Billboard position # 11 in 1961)
-
-(Good time baby -yeah)
+(Good time baby yeah)
 
 My chick's dynamite, kicks, kicks every night
-Good time baby--- let's go crazy
+Good time baby, let's go crazy
 You're such a thrill to kiss
 Too much when we twist
 Good time baby, I'm gonna stick with you
@@ -69,10 +68,10 @@ Good time baby, I'm gonna stick with you
 You're a real cool baby and I don't mean maybe
 And when I'm with you everything we do moves me to my soul (hm)
 Yeah yeah super-fine make sure you're all mine
-Good time baby I love you yes I do'Whoa
+Good time baby I love you yes I do, Whoa
 
-Instrumental-- Good time baby, let's go crazy, whoa-oh
-Instrumental-- Good time baby I love you yes I do
+Good time baby, let's go crazy, whoa
+Good time baby I love you yes I do
 
 You're a real cool baby and I don't mean-a maybe
 And when I'm with you everything we do moves me to my soul'yay
@@ -80,11 +79,9 @@ Yeah, you're mine, super fine make sure you're all mine
 Good time baby, I love you yes I do
 
 Yeah, my chick's dynamite, kicks, kicks every night
-Good time baby, I love you yes I do'yeah-oh
+Good time baby, I love you yes I do, yeah
 Good time, good time baby
-I really love you-oh yes I do
+I really love you, oh yes I do
 You're my dynamite with a kiss and a twist every night
-
-Fade
 
 Whoa don't stop don't stop now yeah c'mon keep it in the groove

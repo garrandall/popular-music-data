@@ -1,8 +1,11 @@
 ---
+album: Team
 artists:
 - Iggy Azalea
+external_ids:
+  spotify: spotify:track:2bocAPQcUTLUXx8lAOTiK3
 features: []
-genres: []
+first_released_as_single: true
 key: team-iggy-azalea
 lyrics_url: https://genius.com/Iggy-azalea-team-lyrics
 name: Team
@@ -39,6 +42,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2016-05-28'
+release_year: 2016
+runtime: 209466
 ---
 Iggs
 Look

@@ -1,8 +1,11 @@
 ---
+album: The Single Collection, Vol. 2
 artists:
 - The Four Preps
+external_ids:
+  spotify: spotify:track:1pv3699AsljqUH9yrlNZ3P
 features: []
-genres: []
+first_released_as_single: false
 key: the-big-draft-the-four-preps
 lyrics_url: https://www.musixmatch.com/lyrics/The-Four-Preps/The-Big-Draft
 name: The Big Draft
@@ -31,6 +34,8 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '1962-05-05'
+release_year: 1962
+runtime: 388640
 ---
 Why don't you draft all the other groups?
 Give them a chance to go see the world

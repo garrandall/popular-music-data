@@ -1,8 +1,11 @@
 ---
+album: Passionworks
 artists:
 - Heart
+external_ids:
+  spotify: spotify:track:2EPOoZCvCYGfl5HqhXLpn6
 features: []
-genres: []
+first_released_as_single: false
 key: how-can-i-refuse-heart
 lyrics_url: https://genius.com/Heart-how-can-i-refuse-lyrics
 name: How Can I Refuse
@@ -51,6 +54,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1983-10-22'
+release_year: 1983
+runtime: 232066
 ---
 Wake me up with laughter
 Wrap me in your arms

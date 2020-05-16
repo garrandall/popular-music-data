@@ -1,8 +1,11 @@
 ---
+album: Touch
 artists:
 - Laura Branigan
+external_ids:
+  spotify: spotify:track:431HgPSwQBZOtcEnAFMDyM
 features: []
-genres: []
+first_released_as_single: false
 key: power-of-love-laura-branigan
 lyrics_url: https://www.azlyrics.com/lyrics/laurabranigan/poweroflove.html
 name: Power Of Love
@@ -79,8 +82,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1988-02-20'
+release_year: 1987
+runtime: 325253
 ---
-
 The whispers in the morning
 Of lovers sleeping tight
 Are rolling by like thunder now
@@ -115,4 +119,3 @@ The sound of your heart beating
 Made it clear
 Suddenly the feeling that I can't go on
 Is light years away
-

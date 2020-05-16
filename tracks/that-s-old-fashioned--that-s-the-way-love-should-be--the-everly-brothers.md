@@ -1,8 +1,11 @@
 ---
+album: The Golden Hits Of The Everly Brothers
 artists:
 - The Everly Brothers
+external_ids:
+  spotify: spotify:track:6s1oemQxdwD68Riby81dw0
 features: []
-genres: []
+first_released_as_single: false
 key: that-s-old-fashioned--that-s-the-way-love-should-be--the-everly-brothers
 lyrics_url: https://www.azlyrics.com/lyrics/everlybrothers/thatsoldfashionedthatsthewayloveshouldbe.html
 name: That's Old Fashioned (That's The Way Love Should Be)
@@ -51,8 +54,9 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '1962-07-21'
+release_year: 1962
+runtime: 142133
 ---
-
 We hold hands in the movie show
 So they say that we're old fashioned
 Or we stroll beneath the silvery moon
@@ -75,6 +79,3 @@ So the boys say I'm old fashioned
 Let them laugh, honey I don't mind
 I've made plans for a wedding day for you and me
 That's old fashioned, that's the way love should be
-
-
-

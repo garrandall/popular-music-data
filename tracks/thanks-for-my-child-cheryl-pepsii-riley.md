@@ -1,8 +1,11 @@
 ---
+album: Me, Myself and I
 artists:
 - Cheryl Pepsii Riley
+external_ids:
+  spotify: spotify:track:5Fb32MKOFK6ovEbngBeoN8
 features: []
-genres: []
+first_released_as_single: true
 key: thanks-for-my-child-cheryl-pepsii-riley
 lyrics_url: https://genius.com/Cheryl-pepsii-riley-thanks-for-my-child-lyrics
 name: Thanks For My Child
@@ -59,6 +62,8 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1989-01-21'
+release_year: 1988
+runtime: 316786
 ---
 Oh, yeah
 

@@ -1,9 +1,12 @@
 ---
+album: lovely (with Khalid)
 artists:
 - Billie Eilish
 - Khalid
+external_ids:
+  spotify: spotify:track:0u2P5u6lvoDfwTYjAADbn4
 features: []
-genres: []
+first_released_as_single: true
 key: lovely-billie-eilish-khalid
 lyrics_url: https://www.azlyrics.com/lyrics/hippiesabotage/lovelybillieeilishkhalidflip.html
 name: Lovely
@@ -96,8 +99,9 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '2019-04-13'
+release_year: 2018
+runtime: 200185
 ---
-
 But I know someday I'll make it out of here
 Even if it takes all night or a hundred years
 Need a place to hide, but I can't find one near
@@ -143,6 +147,3 @@ Isn't it lovely, lovely, lovely
 Heart made of glass, my mind of stone
 Tear me to pieces, skin to bone
 Hello, welcome home
-
-
-

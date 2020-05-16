@@ -1,8 +1,11 @@
 ---
+album: Whitney
 artists:
 - Whitney Houston
+external_ids:
+  spotify: spotify:track:4gDBc1RxPAvinJrZzZ9nYX
 features: []
-genres: []
+first_released_as_single: false
 key: love-will-save-the-day-whitney-houston
 lyrics_url: https://www.azlyrics.com/lyrics/whitneyhouston/lovewillsavetheday.html
 name: Love Will Save The Day
@@ -71,8 +74,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1988-10-15'
+release_year: 1987
+runtime: 321666
 ---
-
 Sometimes life can make you crazy 
 It can really put your body to the test 
 You try so hard to make sure everything goes right 
@@ -116,6 +120,3 @@ Cause we all could use some peace and harmony
 
 Love is gonna save the day 
 You've gotta believe it
-
-
-

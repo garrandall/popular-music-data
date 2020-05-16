@@ -1,9 +1,12 @@
 ---
+album: Rebirth
 artists:
 - Lil Wayne
+external_ids:
+  spotify: spotify:track:1DDsYldutVWnRrRbZc5X5B
 features:
 - Nicki Minaj
-genres: []
+first_released_as_single: false
 key: knockout-lil-wayne-nicki-minaj
 lyrics_url: https://www.azlyrics.com/lyrics/lilwayne/knockout.html
 name: Knockout
@@ -28,9 +31,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2010-03-20'
+release_year: 2009
+runtime: 249306
 ---
-
-
 Hey Barbie, are, are, are, are you into black men?
 Hey, hey, hey, Barbie! I could be your black Ken Wow!
 'Cause once you go black, you never go back
@@ -108,6 +111,3 @@ Just knock me out
 Just knock me out
 Just knock me out
 Just knock me out
-
-
-

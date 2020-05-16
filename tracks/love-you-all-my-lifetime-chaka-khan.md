@@ -1,8 +1,11 @@
 ---
+album: The Woman I Am
 artists:
 - Chaka Khan
+external_ids:
+  spotify: spotify:track:2yTswsiLkNGzzzX54WroNS
 features: []
-genres: []
+first_released_as_single: false
 key: love-you-all-my-lifetime-chaka-khan
 lyrics_url: https://www.azlyrics.com/lyrics/chakakhan/loveyouallmylifetime.html
 name: Love You All My Lifetime
@@ -43,8 +46,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1992-06-20'
+release_year: 1992
+runtime: 281679
 ---
-
 Cold endless summer days
 Since you went away
 Tore my heart in two
@@ -72,6 +76,3 @@ You make the rain and the night go away
 You make the sun rise up in my sky
 You make the rain and the night go away
 You make the sun rise up in my sky
-
-
-

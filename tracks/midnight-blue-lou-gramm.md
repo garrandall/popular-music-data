@@ -1,8 +1,11 @@
 ---
+album: Ready Or Not
 artists:
 - Lou Gramm
+external_ids:
+  spotify: spotify:track:4iQZi2sMZlbTpcUlo5YGBf
 features: []
-genres: []
+first_released_as_single: false
 key: midnight-blue-lou-gramm
 lyrics_url: https://www.azlyrics.com/lyrics/lougramm/midnightblue.html
 name: Midnight Blue
@@ -87,8 +90,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1987-06-13'
+release_year: 1987
+runtime: 236093
 ---
-
 Ain't got no regrets
 I ain't losin' track
 Of which way I'm going
@@ -154,6 +158,3 @@ Midnight blue, oh
 The deepest midnight blue, oh, oh
 
 Into the midnight blue
-
-
-

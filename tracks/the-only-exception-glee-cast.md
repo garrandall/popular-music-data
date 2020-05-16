@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music, Volume 4'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:3YmHNOqtLsyg2nTlrapWcd
 features: []
-genres: []
+first_released_as_single: false
 key: the-only-exception-glee-cast
 lyrics_url: https://www.azlyrics.com/lyrics/gleecast/theonlyexception.html
 name: The Only Exception
@@ -11,9 +14,9 @@ rankings:
   rank: 26
   ranking_list: Billboard Hot 100
   start_date: '2010-10-16'
+release_year: 2010
+runtime: 266706
 ---
-
-
 when I was younger I saw
 my daddy cry
 and curse at the wind
@@ -68,6 +71,3 @@ you are the only exception
 
 and I'm on my way to believing
 oh and I'm on my way to believing
-
-
-

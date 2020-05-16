@@ -1,8 +1,11 @@
 ---
+album: Ain't It The Truth
 artists:
 - Daryle Singletary
+external_ids:
+  spotify: spotify:track:3f0Le90S1CWheOUhEWJ99D
 features: []
-genres: []
+first_released_as_single: false
 key: the-note-daryle-singletary
 lyrics_url: https://www.azlyrics.com/lyrics/darylesingletary/thenote.html
 name: The Note
@@ -31,8 +34,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1998-04-04'
+release_year: 1998
+runtime: 202733
 ---
-
 The note was short, but lord so strong
 It simply said I can't go on
 And live a lie with someone I don't love
@@ -61,6 +65,3 @@ By the hand that held the pen
 That wrote the words that broke the heart
 Of the one, the only one that really loves her
 I'm the one, the only one that really loves her
-
-
-

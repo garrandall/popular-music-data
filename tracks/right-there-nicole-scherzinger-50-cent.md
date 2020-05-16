@@ -1,9 +1,12 @@
 ---
+album: Right There
 artists:
 - Nicole Scherzinger
+external_ids:
+  spotify: spotify:track:2X5MRkOPx9PlkodmllL036
 features:
 - 50 Cent
-genres: []
+first_released_as_single: true
 key: right-there-nicole-scherzinger-50-cent
 lyrics_url: https://www.musixmatch.com/lyrics/Nicole-Scherzinger-feat-50-Cent/Right-There
 name: Right There
@@ -56,6 +59,8 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '2011-08-20'
+release_year: 2011
+runtime: 262253
 ---
 Fifty, Nicole
 It's just another one

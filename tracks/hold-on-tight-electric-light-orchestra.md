@@ -1,8 +1,11 @@
 ---
+album: Time
 artists:
 - Electric Light Orchestra
+external_ids:
+  spotify: spotify:track:0U6kAx9by8cvL5ED4Dlnbo
 features: []
-genres: []
+first_released_as_single: false
 key: hold-on-tight-electric-light-orchestra
 lyrics_url: https://www.azlyrics.com/lyrics/electriclightorchestra/holdontight.html
 name: Hold On Tight
@@ -83,8 +86,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1981-11-28'
+release_year: 1972
+runtime: 187866
 ---
-
 Hold on tight to your dream
 Hold on tight to your dream
 When you see your ship go sailing
@@ -121,6 +125,3 @@ Oh, yeah
 Hold on tight to your dream
 Yeah, hold on tight...
 To your dream.
-
-
-

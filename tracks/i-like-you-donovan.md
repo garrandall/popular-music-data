@@ -1,8 +1,11 @@
 ---
+album: I Think I Love You
 artists:
 - Donovan
+external_ids:
+  spotify: spotify:track:4TJfkbtrjMR2WPuDAaScCz
 features: []
-genres: []
+first_released_as_single: false
 key: i-like-you-donovan
 lyrics_url: https://genius.com/Donovan-i-like-you-lyrics
 name: I Like You
@@ -39,6 +42,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1973-06-16'
+release_year: 1973
+runtime: 214465
 ---
 You're such a good friend
 I'd had to have you as an enemy

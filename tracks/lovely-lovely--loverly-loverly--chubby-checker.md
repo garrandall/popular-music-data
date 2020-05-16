@@ -1,8 +1,11 @@
 ---
+album: Hits Of '64
 artists:
 - Chubby Checker
+external_ids:
+  spotify: spotify:track:5cbVOpAECzRwlkFgd1wypR
 features: []
-genres: []
+first_released_as_single: false
 key: lovely-lovely--loverly-loverly--chubby-checker
 lyrics_url: https://www.azlyrics.com/lyrics/chubbychecker/lovelylovelyloverlyloverly.html
 name: Lovely Lovely (Loverly Loverly)
@@ -23,8 +26,9 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1965-01-23'
+release_year: 1964
+runtime: 150973
 ---
-
 I met her in the morning she was lovely, lovely
 Standing on the corner with my books in my hand
 I said, "I'll see ya later"
@@ -76,6 +80,3 @@ Now were goin' steady and my plans are complete
 (Lovely, lovely) Uh huh
 (Lovely, lovely, walkin' on air)
 (Lovely, lovely)
-
-
-

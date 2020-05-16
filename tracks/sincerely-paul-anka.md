@@ -1,8 +1,11 @@
 ---
+album: Sincerely - Recorded Live at The Copa
 artists:
 - Paul Anka
+external_ids:
+  spotify: spotify:track:0Bp6HuwGiP610hAbLWISal
 features: []
-genres: []
+first_released_as_single: false
 key: sincerely-paul-anka
 lyrics_url: https://genius.com/Paul-anka-sincerely-lyrics
 name: Sincerely
@@ -23,6 +26,8 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '1969-06-21'
+release_year: 1969
+runtime: 158200
 ---
 Sincerely, oh, yeah, sincerely
 Cause I love you so dearly

@@ -1,8 +1,11 @@
 ---
+album: Cicero Park
 artists:
 - Hot Chocolate
+external_ids:
+  spotify: spotify:track:0bsuSsRatN6sXKTnOMIwBb
 features: []
-genres: []
+first_released_as_single: false
 key: emma-hot-chocolate
 lyrics_url: https://www.azlyrics.com/lyrics/hotchocolate/emma.html
 name: Emma
@@ -63,8 +66,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1975-05-10'
+release_year: 1974
+runtime: 232040
 ---
-
 We were together since we were five
 She was so pretty
 Emma was a star in everyone's eyes
@@ -109,6 +113,3 @@ I just can't keep on tryin' no more."
 Emmalene 
 Oh, Emmalene
 Emmalene
-
-
-

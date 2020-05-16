@@ -1,8 +1,11 @@
 ---
+album: Mr. Bass Man - The Best Of
 artists:
 - Johnny Cymbal
+external_ids:
+  spotify: spotify:track:3mdCQlCi3v2kwl3l4mFlLe
 features: []
-genres: []
+first_released_as_single: false
 key: mr-bass-man-johnny-cymbal
 lyrics_url: https://genius.com/Johnny-cymbal-mr-bass-man-lyrics
 name: Mr Bass Man
@@ -59,6 +62,8 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '1963-05-11'
+release_year: 1963
+runtime: 162000
 ---
 (Bop-bop-bop singing by bass voice)
 

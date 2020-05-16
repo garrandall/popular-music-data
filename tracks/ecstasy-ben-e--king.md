@@ -1,8 +1,11 @@
 ---
+album: Don't Play That Song
 artists:
 - Ben E. King
+external_ids:
+  spotify: spotify:track:4p4JBSLuLagmLOWyZF7Ycr
 features: []
-genres: []
+first_released_as_single: false
 key: ecstasy-ben-e--king
 lyrics_url: https://www.azlyrics.com/lyrics/beneking/ecstasy.html
 name: Ecstasy
@@ -31,8 +34,9 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '1962-03-10'
+release_year: 1962
+runtime: 142973
 ---
-
 The magic of your kiss is holding you like this is ecstasy (ecstasy)
 The love that you have given makes this life I'm livin' ecstasy (ecstasy)
 Never let me go, let that love light show
@@ -51,6 +55,3 @@ Come on and take me by the hand and lead me to the land of ecstasy (ecstasy)
 Ecstasy
 Ecstasy
 Baby, baby, baby...
-
-
-

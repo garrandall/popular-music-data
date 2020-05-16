@@ -1,8 +1,11 @@
 ---
+album: thank u, next
 artists:
 - Ariana Grande
+external_ids:
+  spotify: spotify:track:2hLYQ60kR5lpf86EZwed8T
 features: []
-genres: []
+first_released_as_single: false
 key: needy-ariana-grande
 lyrics_url: https://genius.com/Ariana-grande-needy-lyrics
 name: Needy
@@ -23,6 +26,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2019-03-16'
+release_year: 2018
+runtime: 171573
 ---
 If you take too long to hit me back
 I can't promise you how I’ll react

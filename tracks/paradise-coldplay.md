@@ -1,8 +1,11 @@
 ---
+album: Mylo Xyloto
 artists:
 - Coldplay
+external_ids:
+  spotify: spotify:track:6nek1Nin9q48AVZcWs9e9D
 features: []
-genres: []
+first_released_as_single: false
 key: paradise-coldplay
 lyrics_url: https://www.azlyrics.com/lyrics/coldplay/paradise.html
 name: Paradise
@@ -135,8 +138,9 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '2012-06-02'
+release_year: 2011
+runtime: 278719
 ---
-
 When she was just a girl
 She expected the world
 But it flew away from her reach
@@ -193,6 +197,3 @@ Para-para-paradise
 This could be
 Para-para-paradise
 Oh oh oh oh oh oh-oh-oh
-
-
-

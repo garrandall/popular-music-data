@@ -1,8 +1,11 @@
 ---
+album: thank u, next
 artists:
 - Ariana Grande
+external_ids:
+  spotify: spotify:track:7EQpvVujgytLVY8vKiDHAg
 features: []
-genres: []
+first_released_as_single: false
 key: bad-idea-ariana-grande
 lyrics_url: https://genius.com/Ariana-grande-bad-idea-lyrics
 name: Bad Idea
@@ -19,6 +22,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2019-03-09'
+release_year: 2018
+runtime: 267106
 ---
 I've been outta sight
 I've been worried 'bout you lately

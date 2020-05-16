@@ -1,8 +1,11 @@
 ---
+album: Joey Kid
 artists:
 - Joey Kid
+external_ids:
+  spotify: spotify:track:349H2E0ZhBGjYLhcAQcAxE
 features: []
-genres: []
+first_released_as_single: false
 key: counting-the-days-joey-kid
 lyrics_url: https://genius.com/Joey-kid-counting-the-days-lyrics
 name: Counting The Days
@@ -55,6 +58,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1990-07-21'
+release_year: 1990
+runtime: 233040
 ---
 Four, three, two, one
 

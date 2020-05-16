@@ -1,8 +1,11 @@
 ---
+album: 20 All Time Greatest Hits
 artists:
 - Jack Greene
+external_ids:
+  spotify: spotify:track:4w6KzdRpUwyKfEf4vFLeiI
 features: []
-genres: []
+first_released_as_single: false
 key: there-goes-my-everything-jack-greene
 lyrics_url: https://genius.com/Jack-greene-there-goes-my-everything-lyrics
 name: There Goes My Everything
@@ -43,6 +46,8 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1967-03-04'
+release_year: 1967
+runtime: 142880
 ---
 There goes my only possesion there goes my everything
 I hear footsteps slowly walking as they gently walk across a lonely floor

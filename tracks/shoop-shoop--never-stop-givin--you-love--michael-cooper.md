@@ -1,8 +1,11 @@
 ---
+album: Get Closer
 artists:
 - Michael Cooper
+external_ids:
+  spotify: spotify:track:5fknQFkpTHBqFCtQQsJAHC
 features: []
-genres: []
+first_released_as_single: false
 key: shoop-shoop--never-stop-givin--you-love--michael-cooper
 lyrics_url: https://www.musixmatch.com/lyrics/Michael-Cooper/Shoop-Shoop-Never-Stop-Givin-You-Love
 name: Shoop Shoop (Never Stop Givin' You Love)
@@ -43,6 +46,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1993-05-08'
+release_year: 1992
+runtime: 256306
 ---
 Shoop shoop, shoop shoop
 Now it's nice to know

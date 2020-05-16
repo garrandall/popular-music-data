@@ -1,10 +1,13 @@
 ---
+album: Think Like A Man - Music From & Inspired By The Film
 artists:
 - Jennifer Hudson
 - Ne-Yo
+external_ids:
+  spotify: spotify:track:0XgyAhZ70xUnFpoPVEX9yM
 features:
 - Rick Ross
-genres: []
+first_released_as_single: false
 key: think-like-a-man-jennifer-hudson-ne-yo-rick-ross
 lyrics_url: https://www.azlyrics.com/lyrics/jenniferhudson/thinklikeaman.html
 name: Think Like A Man
@@ -17,8 +20,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2012-05-05'
+release_year: 2012
+runtime: 241173
 ---
-
 In love, love, love, love
 You gotta act like a woman, and think like a man
 
@@ -92,6 +96,3 @@ In love, in love, in love, love
 You gotta act like a woman, and think like a man
 In love, in love, in love, love
 You gotta act like a woman, and think like a man
-
-
-

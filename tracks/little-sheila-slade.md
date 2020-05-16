@@ -1,8 +1,11 @@
 ---
+album: Rogues Gallery (Expanded)
 artists:
 - Slade
+external_ids:
+  spotify: spotify:track:4Ov0RiWJmaRI0GUfl8Jaxc
 features: []
-genres: []
+first_released_as_single: false
 key: little-sheila-slade
 lyrics_url: https://www.azlyrics.com/lyrics/slade/littlesheila.html
 name: Little Sheila
@@ -19,8 +22,9 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1985-05-18'
+release_year: 1985
+runtime: 237133
 ---
-
 The boys are getting rowdy,
 Skys are getting cloudy,
 And we're standing in the rain.
@@ -58,4 +62,3 @@ And see it floating down the drain.
 There's another urban jungle on heat,
 And another rebel out on the street,
 You've gotta watch yourself whoever you meet.
-

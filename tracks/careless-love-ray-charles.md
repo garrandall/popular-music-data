@@ -1,8 +1,11 @@
 ---
+album: Modern Sounds in Country and Western Music, Vols 1 & 2
 artists:
 - Ray Charles
+external_ids:
+  spotify: spotify:track:5fnlUDWCW3wgoiaCjyfakI
 features: []
-genres: []
+first_released_as_single: false
 key: careless-love-ray-charles
 lyrics_url: https://genius.com/Ray-charles-careless-love-lyrics
 name: Careless Love
@@ -23,6 +26,8 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1962-08-18'
+release_year: 1962
+runtime: 241453
 ---
 Oh love, oh love, oh careless love
 Oh love, oh love, oh careless love

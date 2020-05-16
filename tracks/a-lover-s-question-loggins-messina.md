@@ -1,9 +1,12 @@
 ---
+album: So Fine (With Bonus Tracks)
 artists:
 - Loggins
 - Messina
+external_ids:
+  spotify: spotify:track:4uniE3cbok1zOTUC64G8Yq
 features: []
-genres: []
+first_released_as_single: false
 key: a-lover-s-question-loggins-messina
 lyrics_url: https://www.musixmatch.com/lyrics/Loggins-Messina/A-Lover-s-Question
 name: A Lover's Question
@@ -16,6 +19,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1975-10-25'
+release_year: 1975
+runtime: 201626
 ---
 Does she love me, with all her heart
 Should I worry, when were apart

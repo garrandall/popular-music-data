@@ -1,8 +1,11 @@
 ---
+album: In My Own Words
 artists:
 - Ne-Yo
+external_ids:
+  spotify: spotify:track:5FXOEdfNW7nYQrBWtW49Cl
 features: []
-genres: []
+first_released_as_single: false
 key: when-you-re-mad-ne-yo
 lyrics_url: https://genius.com/Ne-yo-when-youre-mad-annotated
 name: When You're Mad
@@ -87,6 +90,8 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '2006-07-29'
+release_year: 2006
+runtime: 222000
 ---
 It's just the cutest thing
 When you get to fussing (cussing)

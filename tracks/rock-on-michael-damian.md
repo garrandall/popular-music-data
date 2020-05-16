@@ -1,8 +1,11 @@
 ---
+album: Rock On
 artists:
 - Michael Damian
+external_ids:
+  spotify: spotify:track:6e3O5XkMEhMAatdKnOlZPh
 features: []
-genres: []
+first_released_as_single: false
 key: rock-on-michael-damian
 lyrics_url: https://genius.com/Michael-damian-rock-on-lyrics
 name: Rock On
@@ -91,6 +94,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1989-08-05'
+release_year: 1989
+runtime: 212348
 ---
 Hey kids, rock and roll
 Rock on, ohmy soul

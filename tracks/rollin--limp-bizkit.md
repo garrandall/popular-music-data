@@ -1,8 +1,11 @@
 ---
+album: Chocolate Starfish And The Hot Dog Flavored Water
 artists:
 - Limp Bizkit
+external_ids:
+  spotify: spotify:track:3IV4swNduIRunHREK80owz
 features: []
-genres: []
+first_released_as_single: false
 key: rollin--limp-bizkit
 lyrics_url: https://www.azlyrics.com/lyrics/limpbizkit/rollinairraidvehicle.html
 name: Rollin'
@@ -75,8 +78,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2001-03-03'
+release_year: 2000
+runtime: 213760
 ---
-
 Alright partner
 Keep on rollin' baby
 You know what time it is
@@ -202,6 +206,3 @@ Keep rollin' rollin' rollin' rollin' (what)
 Keep rollin' rollin' rollin' rollin' (come on)
 Keep rollin' rollin' rollin' rollin' (yeah)
 Keep rollin' rollin' rollin' rolling
-
-
-

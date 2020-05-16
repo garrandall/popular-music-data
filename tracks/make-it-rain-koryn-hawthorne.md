@@ -1,8 +1,11 @@
 ---
+album: The Complete Season 8 Collection (The Voice Performance)
 artists:
 - Koryn Hawthorne
+external_ids:
+  spotify: spotify:track:1DH1DGQzth0K6YouejlNLY
 features: []
-genres: []
+first_released_as_single: false
 key: make-it-rain-koryn-hawthorne
 lyrics_url: https://www.musixmatch.com/lyrics/Koryn-Hawthorne/Make-It-Rain-The-Voice-Performance
 name: Make It Rain
@@ -11,6 +14,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '2015-05-09'
+release_year: 2015
+runtime: 203481
 ---
 When the sins of my father
 Weigh down in my soul

@@ -1,8 +1,11 @@
 ---
+album: Found Love
 artists:
 - Jimmy Reed
+external_ids:
+  spotify: spotify:track:3IHiCJwE3wcuvUPDeNqlDi
 features: []
-genres: []
+first_released_as_single: false
 key: baby-what-you-want-me-to-do-jimmy-reed
 lyrics_url: https://genius.com/Jimmy-reed-baby-what-you-want-me-to-do-lyrics
 name: Baby What You Want Me To Do
@@ -63,6 +66,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1960-05-16'
+release_year: 1960
+runtime: 147979
 ---
 Got me running, got me hiding
 Got me run, hide, hide, run anyway you want to let it roll

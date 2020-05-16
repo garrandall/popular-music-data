@@ -1,8 +1,11 @@
 ---
+album: The Best Of The Honeycombs
 artists:
 - The Honeycombs
+external_ids:
+  spotify: spotify:track:3DzwsdqmeL60taVeshJ8WP
 features: []
-genres: []
+first_released_as_single: false
 key: have-i-the-right--the-honeycombs
 lyrics_url: https://www.musixmatch.com/lyrics/The-Honeycombs/Have-I-the-Right
 name: Have I The Right?
@@ -59,6 +62,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1964-12-12'
+release_year: 1964
+runtime: 178040
 ---
 Have I the right to hold you? You know I've always told you
 That we must never ever part oh oh oh oh

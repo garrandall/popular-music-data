@@ -1,8 +1,11 @@
 ---
+album: Gold
 artists:
 - The Righteous Brothers
+external_ids:
+  spotify: spotify:track:3bcG9lnJ5knDBnxKEhdr7N
 features: []
-genres: []
+first_released_as_single: false
 key: dream-on-the-righteous-brothers
 lyrics_url: https://genius.com/The-righteous-brothers-dream-on-lyrics
 name: Dream On
@@ -39,6 +42,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1974-12-28'
+release_year: 1974
+runtime: 211880
 ---
 Lay your head down on my shoulder
 I won't let the night get colder

@@ -1,8 +1,11 @@
 ---
+album: Dreams Worth More Than Money
 artists:
 - Meek Mill
+external_ids:
+  spotify: spotify:track:57hCSu4zMTdnSum7NBL1Ye
 features: []
-genres: []
+first_released_as_single: false
 key: lord-knows-meek-mill
 lyrics_url: https://genius.com/Meek-mill-lord-knows-lyrics
 name: Lord Knows
@@ -15,6 +18,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2015-08-01'
+release_year: 2015
+runtime: 318840
 ---
 All I wanted was a new Mercedes
 Bending off the corner whipping out the lot, I got it

@@ -1,9 +1,12 @@
 ---
+album: 90's Superclub
 artists:
 - The Art Of Noise
+external_ids:
+  spotify: spotify:track:2HhChnQKK2v3YVEULXK0wa
 features:
 - Tom Jones
-genres: []
+first_released_as_single: false
 key: kiss-the-art-of-noise-tom-jones
 lyrics_url: https://www.musixmatch.com/lyrics/The-Art-of-Noise-feat-Tom-Jones/Kiss
 name: Kiss
@@ -52,6 +55,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1989-02-11'
+release_year: 1988
+runtime: 211946
 ---
 You don't have to be beautiful
 To turn me on

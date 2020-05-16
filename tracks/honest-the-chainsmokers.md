@@ -1,8 +1,11 @@
 ---
+album: Memories...Do Not Open
 artists:
 - The Chainsmokers
+external_ids:
+  spotify: spotify:track:6KjbNLbRjuoa8rEq5yNA6H
 features: []
-genres: []
+first_released_as_single: false
 key: honest-the-chainsmokers
 lyrics_url: https://www.azlyrics.com/lyrics/chainsmokers/honest.html
 name: Honest
@@ -23,8 +26,9 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '2017-09-09'
+release_year: 2017
+runtime: 208000
 ---
-
 It's 5 a.m. and I'm on the radio
 I'm supposed to call you, but I don't know what to say at all
 And there's this girl, she wants me to take her home
@@ -69,6 +73,3 @@ You said I should be honest
 So I'm being honest
 
 If I'm being honest
-
-
-

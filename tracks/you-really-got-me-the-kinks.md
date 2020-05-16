@@ -1,8 +1,11 @@
 ---
+album: Kinks
 artists:
 - The Kinks
+external_ids:
+  spotify: spotify:track:29SyMC0plk6qw8NMF7lfRL
 features: []
-genres: []
+first_released_as_single: false
 key: you-really-got-me-the-kinks
 lyrics_url: https://genius.com/The-kinks-you-really-got-me-lyrics
 name: You Really Got Me
@@ -67,6 +70,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1965-01-02'
+release_year: 1964
+runtime: 134253
 ---
 Girl, you really got me goin'
 You got me so I don't know what I'm doin'

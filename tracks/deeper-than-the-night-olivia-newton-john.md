@@ -1,8 +1,11 @@
 ---
+album: Totally Hot
 artists:
 - Olivia Newton-John
+external_ids:
+  spotify: spotify:track:6Wu8O1Nyy41SbTwoSWQJs2
 features: []
-genres: []
+first_released_as_single: false
 key: deeper-than-the-night-olivia-newton-john
 lyrics_url: https://www.azlyrics.com/lyrics/olivianewtonjohn/deeperthanthenight.html
 name: Deeper Than The Night
@@ -59,8 +62,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1979-07-07'
+release_year: 1978
+runtime: 216933
 ---
-
 I can't imagine why you say the things you do
 Maybe in time I'll understand
 What is the reason for the emptiness you feel
@@ -95,4 +99,3 @@ I'll love you, I'll stay the same
 My love is running deeper than the night
 Stronger than the north wind blowing
 Fire burning bright, and it keeps on growing, keeps on growing
-

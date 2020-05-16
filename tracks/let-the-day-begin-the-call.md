@@ -1,8 +1,11 @@
 ---
+album: Let The Day Begin
 artists:
 - The Call
+external_ids:
+  spotify: spotify:track:7mBTxMVwCB9fs4giIDt6kz
 features: []
-genres: []
+first_released_as_single: false
 key: let-the-day-begin-the-call
 lyrics_url: https://genius.com/The-call-let-the-day-begin-lyrics
 name: Let The Day Begin
@@ -43,6 +46,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1989-09-16'
+release_year: 1989
+runtime: 231666
 ---
 Here's to the babies in a brand new world
 Here's to the beauty of the stars

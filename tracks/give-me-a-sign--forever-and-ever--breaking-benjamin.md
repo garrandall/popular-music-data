@@ -1,8 +1,11 @@
 ---
+album: Dear Agony
 artists:
 - Breaking Benjamin
+external_ids:
+  spotify: spotify:track:6BWrIaoodtt7EX6kToWZw0
 features: []
-genres: []
+first_released_as_single: false
 key: give-me-a-sign--forever-and-ever--breaking-benjamin
 lyrics_url: https://www.azlyrics.com/lyrics/breakingbenjamin/givemeasign.html
 name: Give Me A Sign (Forever And Ever)
@@ -27,8 +30,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2010-05-22'
+release_year: 2009
+runtime: 257693
 ---
-
 Dead star shine 
 Light up the sky 
 I'm all out of breath 
@@ -101,6 +105,3 @@ Your tears are adding to the flood
 
 Forever - and ever 
 The scars will remain
-
-
-

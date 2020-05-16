@@ -1,8 +1,11 @@
 ---
+album: Never Die Young
 artists:
 - James Taylor
+external_ids:
+  spotify: spotify:track:7qjlSkOiFQHkzZCM9KNoro
 features: []
-genres: []
+first_released_as_single: false
 key: never-die-young-james-taylor
 lyrics_url: https://www.azlyrics.com/lyrics/jamestaylor/neverdieyoung.html
 name: Never Die Young
@@ -27,8 +30,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1988-04-30'
+release_year: 1977
+runtime: 263800
 ---
-
 We were ring-around-the-rosy children, they were circles around the sun.
 Never give up, never slow down, never grow old, never ever die young.
 Synchronized with the rising moon, even with the evening star,
@@ -52,6 +56,3 @@ but our golden ones sail on, sail on to another land beneath another sky.
 but our golden ones sail on, sail on to another land beneath another sky, beneath another sky.
 Hold them up, hold them up, hold them up, hold them up, hold them up, hold them up...
 (Hold them up, don't let them fall).
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: A Little Good News
 artists:
 - Anne Murray
+external_ids:
+  spotify: spotify:track:2NNbn4ofwfTlr4ptAoGK0T
 features: []
-genres: []
+first_released_as_single: false
 key: a-little-good-news-anne-murray
 lyrics_url: https://www.azlyrics.com/lyrics/annemurray/alittlegoodnews.html
 name: A Little Good News
@@ -43,8 +46,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1983-12-10'
+release_year: 1983
+runtime: 188333
 ---
-
 I rolled out this morning...kids had the morning news show on
 Bryant Gumbel was talking about the fighting in Lebanon
 Some senator was squawking about the bad economy
@@ -78,6 +82,3 @@ Nobody robbed a liquor store on the lower part of town
 Nobody OD'd, nobody burned a single building down
 Nobody fired a shot in anger...nobody had to die in vain
 We sure could use a little good news today
-
-
-

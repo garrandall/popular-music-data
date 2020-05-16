@@ -1,8 +1,11 @@
 ---
+album: Three Chord Country and American Rock & Roll
 artists:
 - Keith Anderson
+external_ids:
+  spotify: spotify:track:3aVCHTY93NQQbOcDDbwwXA
 features: []
-genres: []
+first_released_as_single: false
 key: every-time-i-hear-your-name-keith-anderson
 lyrics_url: https://www.azlyrics.com/lyrics/keithanderson/everytimeihearyourname.html
 name: Every Time I Hear Your Name
@@ -83,8 +86,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2006-08-26'
+release_year: 2005
+runtime: 263026
 ---
-
 Fin'lly got over that song of ours; stopped chasin' little red sports cars,
 To check the license plates and I quit drivin' by your place.
 Back makin' the rounds at our old haunts... Honky Tonks, restaurants.
@@ -136,6 +140,3 @@ Oh, oh, oh, oh.
 (Every time I hear your name.)
 Ah ah.
 Every time I hear your name.
-
-
-

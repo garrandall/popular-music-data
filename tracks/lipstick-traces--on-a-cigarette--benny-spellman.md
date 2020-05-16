@@ -1,8 +1,12 @@
 ---
+album: 'Finger Poppin'' And Stompin'' Feet: 20 Classic Allen Toussaint Productions
+  For Minit Records 1960-1962'
 artists:
 - Benny Spellman
+external_ids:
+  spotify: spotify:track:3FYjQxzABtEXtzrnm3DK1B
 features: []
-genres: []
+first_released_as_single: false
 key: lipstick-traces--on-a-cigarette--benny-spellman
 lyrics_url: https://genius.com/Benny-spellman-lipstick-traces-on-a-cigarette-lyrics
 name: Lipstick Traces (On A Cigarette)
@@ -31,6 +35,8 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1962-06-16'
+release_year: 1962
+runtime: 147133
 ---
 Your pretty brown eyes
 Your wavy hair

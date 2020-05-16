@@ -1,8 +1,11 @@
 ---
+album: She Works Hard For The Money
 artists:
 - Donna Summer
+external_ids:
+  spotify: spotify:track:6rX8XrnLLIggn6ItYWnoMM
 features: []
-genres: []
+first_released_as_single: false
 key: unconditional-love-donna-summer
 lyrics_url: https://www.azlyrics.com/lyrics/donnasummer/unconditionallove.html
 name: Unconditional Love
@@ -39,8 +42,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1983-10-22'
+release_year: 1983
+runtime: 284000
 ---
-
 What a man
 You know it's a bright and shiny day
 I want to say something to you
@@ -106,6 +110,3 @@ This agape love to learn
 Give me your unconditional love
 My torn heart to discern
 This agape love to learn
-
-
-

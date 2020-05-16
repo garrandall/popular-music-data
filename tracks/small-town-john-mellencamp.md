@@ -1,8 +1,11 @@
 ---
+album: Scarecrow
 artists:
 - John Mellencamp
+external_ids:
+  spotify: spotify:track:2HsjJJL4DhPCzMlnaGv7ap
 features: []
-genres: []
+first_released_as_single: false
 key: small-town-john-mellencamp
 lyrics_url: https://www.azlyrics.com/lyrics/johnmellencamp/smalltown.html
 name: Small Town
@@ -79,8 +82,9 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1986-03-01'
+release_year: 1985
+runtime: 221626
 ---
-
 Well I was born in a small town
 And I live in a small town
 Prob'ly die in a small town
@@ -116,6 +120,3 @@ Well I was born in a small town
 And I can breathe in a small town
 Gonna die in this small town
 And that's prob'ly where they'll bury me
-
-
-

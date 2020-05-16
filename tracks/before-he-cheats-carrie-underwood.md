@@ -1,8 +1,11 @@
 ---
+album: 10th Anniversary - The Hits - Volume 1
 artists:
 - Carrie Underwood
+external_ids:
+  spotify: spotify:track:41axwreXl85bV8ScP1X9k8
 features: []
-genres: []
+first_released_as_single: false
 key: before-he-cheats-carrie-underwood
 lyrics_url: https://www.azlyrics.com/lyrics/carrieunderwood/beforehecheats.html
 name: Before He Cheats
@@ -263,8 +266,9 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '2007-12-01'
+release_year: 2003
+runtime: 199346
 ---
-
 Right now he's probably slow dancing with a bleached-blond tramp
 And she's probably getting frisky...
 Right now, he's probably buying her some fruity little drink
@@ -313,6 +317,3 @@ Maybe next time he'll think before he cheats
 Oh, maybe next time he'll think before he cheats...
 
 Oh, before he cheats... oh, oh
-
-
-

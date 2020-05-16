@@ -1,8 +1,11 @@
 ---
+album: BLACKsummers'night (2009)
 artists:
 - Maxwell
+external_ids:
+  spotify: spotify:track:0f62w1teOSaYgKObtzygaR
 features: []
-genres: []
+first_released_as_single: false
 key: bad-habits-maxwell
 lyrics_url: https://www.azlyrics.com/lyrics/maxwell/badhabits.html
 name: Bad Habits
@@ -63,8 +66,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2010-01-23'
+release_year: 2009
+runtime: 352280
 ---
-
 Make me crazy, don't speak no sound
 I want you to prove it to me in the nude
 Addicted to the way you move
@@ -127,6 +131,3 @@ I can't control the feeling, feeling, feeling, feeling, feeling
 
 You're my soul, soul
 You're my soul, soul
-
-
-

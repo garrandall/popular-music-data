@@ -1,8 +1,11 @@
 ---
+album: Mandatory Fun
 artists:
 - '"Weird Al" Yankovic'
+external_ids:
+  spotify: spotify:track:4JqQWAr47pGEoaMArpA7Z3
 features: []
-genres: []
+first_released_as_single: false
 key: word-crimes--weird-al--yankovic
 lyrics_url: https://www.azlyrics.com/lyrics/weirdalyankovic/wordcrimes.html
 name: Word Crimes
@@ -15,8 +18,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2014-08-09'
+release_year: 2014
+runtime: 223120
 ---
-
 Everybody shut up
 Everyone listen up!
 
@@ -134,6 +138,3 @@ Try your best to not drool
 Never mind I give up
 Really now I give up
 Go away!
-
-
-

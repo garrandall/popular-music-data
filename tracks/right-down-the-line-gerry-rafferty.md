@@ -1,8 +1,11 @@
 ---
+album: City To City
 artists:
 - Gerry Rafferty
+external_ids:
+  spotify: spotify:track:2Xb6wJYGi0QXwURw5WWvI5
 features: []
-genres: []
+first_released_as_single: false
 key: right-down-the-line-gerry-rafferty
 lyrics_url: https://genius.com/Gerry-rafferty-right-down-the-line-lyrics
 name: Right Down The Line
@@ -67,6 +70,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1978-11-18'
+release_year: 1978
+runtime: 267773
 ---
 You know I need your love
 You've got that hold over me

@@ -1,9 +1,12 @@
 ---
+album: Bobby Taylor & The Vancouvers
 artists:
 - Bobby Taylor
 - The Vancouvers
+external_ids:
+  spotify: spotify:track:4uzZxUDg471hxNqtM69KIz
 features: []
-genres: []
+first_released_as_single: false
 key: i-am-your-man-bobby-taylor-the-vancouvers
 lyrics_url: https://genius.com/Bobby-taylor-and-the-vancouvers-i-am-your-man-lyrics
 name: I Am Your Man
@@ -20,6 +23,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1968-08-24'
+release_year: 1968
+runtime: 212400
 ---
 Rely on me to supply your needs from now on
 Shelter you and be a pillar to lean on

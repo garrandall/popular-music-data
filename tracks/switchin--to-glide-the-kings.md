@@ -1,8 +1,11 @@
 ---
+album: The Kings Are Here
 artists:
 - The Kings
+external_ids:
+  spotify: spotify:track:6CwEGjy08USZrUMg0O00eC
 features: []
-genres: []
+first_released_as_single: false
 key: switchin--to-glide-the-kings
 lyrics_url: https://genius.com/The-kings-switchin-to-glide-lyrics
 name: Switchin' To Glide
@@ -99,6 +102,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1981-01-24'
+release_year: 1980
+runtime: 155093
 ---
 Nothing matters but the weekend
 From a Tuesday point of view

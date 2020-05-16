@@ -1,9 +1,12 @@
 ---
+album: We All Shine
 artists:
 - YNW Melly
+external_ids:
+  spotify: spotify:track:6vWEAOUSxohKxhp0K1BsxL
 features:
 - Kanye West
-genres: []
+first_released_as_single: false
 key: mixed-personalities-ynw-melly-kanye-west
 lyrics_url: https://www.azlyrics.com/lyrics/ynwmelly/mixedpersonalities.html
 name: Mixed Personalities
@@ -80,9 +83,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2019-06-08'
+release_year: 2019
+runtime: 230400
 ---
-
-
 Because I am hard, you will not like me
 
 
@@ -170,6 +173,3 @@ Say you want someone
 Say you want someone
 Said you want someone
 (Said you want someone)
-
-
-

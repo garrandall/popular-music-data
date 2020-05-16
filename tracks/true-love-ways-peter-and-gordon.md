@@ -1,8 +1,11 @@
 ---
+album: The Ultimate Peter And Gordon
 artists:
 - Peter And Gordon
+external_ids:
+  spotify: spotify:track:2fGe1krTxovW7xsgiaHkrN
 features: []
-genres: []
+first_released_as_single: false
 key: true-love-ways-peter-and-gordon
 lyrics_url: https://genius.com/Peter-and-gordon-true-love-ways-lyrics
 name: True Love Ways
@@ -51,6 +54,8 @@ rankings:
   rank: 26
   ranking_list: Billboard Hot 100
   start_date: '1965-06-26'
+release_year: 1965
+runtime: 159106
 ---
 Just you know why
 Why you and I

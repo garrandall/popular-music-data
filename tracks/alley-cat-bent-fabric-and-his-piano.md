@@ -1,8 +1,11 @@
 ---
+album: Tv & Film Hits Vol.2
 artists:
 - Bent Fabric
+external_ids:
+  spotify: spotify:track:28b5KEVkiJgppfhtryyFN5
 features: []
-genres: []
+first_released_as_single: false
 key: alley-cat-bent-fabric-and-his-piano
 lyrics_url: https://en.wikipedia.org/wiki/Alley_Cat_%28song%29
 name: Alley Cat
@@ -79,5 +82,7 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '1962-11-24'
+release_year: 1962
+runtime: 153173
 ---
 (Instrumental)

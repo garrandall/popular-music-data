@@ -1,9 +1,12 @@
 ---
+album: My Everything
 artists:
 - Ariana Grande
+external_ids:
+  spotify: spotify:track:70yhaHLp9STtzI2Kzba6Tr
 features:
 - Big Sean
-genres: []
+first_released_as_single: false
 key: best-mistake-ariana-grande-big-sean
 lyrics_url: https://genius.com/Genius-traductions-francaises-ariana-grande-best-mistake-ft-big-sean-traduction-francaise-lyrics
 name: Best Mistake
@@ -16,6 +19,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2014-09-13'
+release_year: 2014
+runtime: 233733
 ---
 Quand oublions-nous comment nous nous sommes sentis?
 Faisant face à des émotions qui ne sont jamais parties

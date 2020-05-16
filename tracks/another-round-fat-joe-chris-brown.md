@@ -1,9 +1,12 @@
 ---
+album: Another Round  - Single
 artists:
 - Fat Joe
+external_ids:
+  spotify: spotify:track:3Rh3zDYanZFHaeXFT4Asps
 features:
 - Chris Brown
-genres: []
+first_released_as_single: true
 key: another-round-fat-joe-chris-brown
 lyrics_url: https://www.azlyrics.com/lyrics/fatjoe/anotherround.html
 name: Another Round
@@ -32,9 +35,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2012-05-26'
+release_year: 2011
+runtime: 288894
 ---
-
-
 Don't you be holding back your love
 Don't you be holding back
 Don't you be holding back your love
@@ -92,7 +95,7 @@ As long as we can kick it with your home, girl
 
 Had two on one fast break. That's a slam dunk
 I know you want it. I can take you where ya man won't
-Champs-ÃlysÃ©es. Think Rolls Royce
+Champs-Ãlysées. Think Rolls Royce
 Yellow Nuvo and pink boy shorts
 
 
@@ -134,6 +137,3 @@ Shorty got a mean walk, a mean shoe game
 Bitch badder than any bitch that you name
 Go, girl. Yeah. Just shake it
 I want you, baby, naked
-
-
-

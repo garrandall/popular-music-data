@@ -1,13 +1,16 @@
 ---
+album: This Unruly Mess I've Made
 artists:
 - Macklemore
 - Ryan Lewis
+external_ids:
+  spotify: spotify:track:6dVcHbKVKid0REz9kZyT0Q
 features:
 - Eric Nally
 - Melle Mel
 - Kool Moe Dee
 - Grandmaster Caz
-genres: []
+first_released_as_single: false
 key: downtown-macklemore-ryan-lewis-eric-nally-melle-mel-kool-moe-dee-grandmaster-caz
 lyrics_url: https://genius.com/Macklemore-and-ryan-lewis-downtown-lyrics
 name: Downtown
@@ -92,6 +95,8 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '2016-01-23'
+release_year: 2015
+runtime: 292639
 ---
 I went to the moped store, said "Fuck it"
 And salesman's like "What up, what's your budget?"

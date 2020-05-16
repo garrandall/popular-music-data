@@ -1,8 +1,11 @@
 ---
+album: So into You
 artists:
 - Atlanta Rhythm Section
+external_ids:
+  spotify: spotify:track:1i9DKGN5w0tNX8Jy9m8oNj
 features: []
-genres: []
+first_released_as_single: false
 key: do-it-or-die-atlanta-rhythm-section
 lyrics_url: https://www.azlyrics.com/lyrics/atlantarhythmsection/doitordie.html
 name: Do It Or Die
@@ -63,8 +66,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1979-08-25'
+release_year: 1972
+runtime: 203569
 ---
-
 Don't let your troubles make you cry
 Don't waste a moment wonderin' why
 When everything goes wrong, you have to go on
@@ -110,6 +114,3 @@ You got nothin' to lose
 Just go on and roll the dice
 You only live twice
 Do it or die
-
-
-

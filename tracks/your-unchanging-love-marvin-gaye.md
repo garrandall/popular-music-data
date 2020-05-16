@@ -1,8 +1,11 @@
 ---
+album: Moods Of Marvin Gaye
 artists:
 - Marvin Gaye
+external_ids:
+  spotify: spotify:track:605dIOk2fnhJHg8SbgCYao
 features: []
-genres: []
+first_released_as_single: false
 key: your-unchanging-love-marvin-gaye
 lyrics_url: https://www.azlyrics.com/lyrics/marvingaye/yourunchanginglove.html
 name: Your Unchanging Love
@@ -35,9 +38,9 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '1967-08-12'
+release_year: 1966
+runtime: 192000
 ---
-
-
 I'm gonna hold on (hold on) hold on (hold on)
 To your unchanging love
 I'm gonna hold on (hold on) hold on (hold on)
@@ -69,4 +72,3 @@ One more thing:
 I've changed, girl, through my life as often as I change my suits
 Only to learn the only true happiness is being, honey, being loved by you
 That's why...
-

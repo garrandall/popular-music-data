@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music, The Christmas Album Volume 2'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:2wolVp6ZmJjHGwUaFm99Hz
 features: []
-genres: []
+first_released_as_single: false
 key: do-they-know-it-s-christmas--glee-cast
 lyrics_url: https://www.azlyrics.com/lyrics/gleecast/dotheyknowitschristmas.html
 name: Do They Know It's Christmas?
@@ -11,8 +14,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2011-12-31'
+release_year: 2011
+runtime: 205360
 ---
-
 It's Christmas time, and there's no need to be afraid
 At Christmas time, we let in light and we banish shade
 And in our world of plenty, we can spread a smile of joy
@@ -43,6 +47,3 @@ Feed the world; let them know it's Christmas time
 And feed the world; let them know it's Christmas time
 And feed the world; let them know it's Christmas time
 And feed the world; let them know it's Christmas time
-
-
-

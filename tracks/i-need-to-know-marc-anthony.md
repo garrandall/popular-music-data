@@ -1,8 +1,11 @@
 ---
+album: Marc Anthony
 artists:
 - Marc Anthony
+external_ids:
+  spotify: spotify:track:07y6AUUSUcl8bFDWckaDGr
 features: []
-genres: []
+first_released_as_single: true
 key: i-need-to-know-marc-anthony
 lyrics_url: https://genius.com/Marc-anthony-i-need-to-know-lyrics
 name: I Need To Know
@@ -167,6 +170,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2000-06-10'
+release_year: 1999
+runtime: 227093
 ---
 They say around the way you've asked for me
 There's even talk about you wanting me

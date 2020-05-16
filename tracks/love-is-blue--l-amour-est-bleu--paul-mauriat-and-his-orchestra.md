@@ -1,8 +1,11 @@
 ---
+album: Love Is Blue
 artists:
 - Paul Mauriat
+external_ids:
+  spotify: spotify:track:1PlZt5i69FgDl45KbHlLzr
 features: []
-genres: []
+first_released_as_single: false
 key: love-is-blue--l-amour-est-bleu--paul-mauriat-and-his-orchestra
 lyrics_url: https://genius.com/Paul-mauriat-love-is-blue-lyrics
 name: Love Is Blue (L'amour Est Bleu)
@@ -79,6 +82,8 @@ rankings:
   rank: 35
   ranking_list: Billboard Hot 100
   start_date: '1968-05-04'
+release_year: 1968
+runtime: 157493
 ---
 Blue, blue, my world is blue
 Blue is my world now I'm without you

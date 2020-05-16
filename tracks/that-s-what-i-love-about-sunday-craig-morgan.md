@@ -1,8 +1,11 @@
 ---
+album: My Kind Of Livin'
 artists:
 - Craig Morgan
+external_ids:
+  spotify: spotify:track:1fmi1hOBtH8xfUiWz4LVtE
 features: []
-genres: []
+first_released_as_single: false
 key: that-s-what-i-love-about-sunday-craig-morgan
 lyrics_url: https://www.azlyrics.com/lyrics/craigmorgan/thatswhatiloveaboutsunday.html
 name: That's What I Love About Sunday
@@ -87,8 +90,9 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '2005-06-18'
+release_year: 2005
+runtime: 201493
 ---
-
 Raymond's in his Sunday best,
 He's usually up to his chest in oil and grease.
 There's the Martin's walkin' in,
@@ -133,6 +137,3 @@ Oh, yeah.
 
 That's what I love about Sunday,
 Oh, yeah.
-
-
-

@@ -1,10 +1,13 @@
 ---
+album: Street Dreams
 artists:
 - Fabolous
+external_ids:
+  spotify: spotify:track:2MEhmHkMU9aSJHpJ6F7aat
 features:
 - Mike Shorey
 - Lil' Mo
-genres: []
+first_released_as_single: false
 key: can-t-let-you-go-fabolous-mike-shorey-lil--mo
 lyrics_url: https://genius.com/Geko-cant-let-you-go-remix-feat-mike-shorey-and-lil-mo-by-fabolous-annotated
 name: Can't Let You Go
@@ -101,6 +104,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2003-08-09'
+release_year: 2003
+runtime: 223613
 ---
 Listen girl you know my situation,
 you know my problems and the shit that I'm facin'

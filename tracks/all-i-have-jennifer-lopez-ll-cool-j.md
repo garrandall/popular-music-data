@@ -1,9 +1,12 @@
 ---
+album: This Is Me...Then
 artists:
 - Jennifer Lopez
+external_ids:
+  spotify: spotify:track:3kgutGd839IOYRl6ekeq6V
 features:
 - LL Cool J
-genres: []
+first_released_as_single: false
 key: all-i-have-jennifer-lopez-ll-cool-j
 lyrics_url: https://genius.com/Jennifer-lopez-all-i-have-lyrics
 name: All I Have
@@ -92,6 +95,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2003-05-17'
+release_year: 2002
+runtime: 254466
 ---
 Love is life and life is living
 It's very special

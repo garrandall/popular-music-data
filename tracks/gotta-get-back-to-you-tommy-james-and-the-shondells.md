@@ -1,8 +1,11 @@
 ---
+album: Travelin'
 artists:
 - Tommy James And The Shondells
+external_ids:
+  spotify: spotify:track:18rfUVDkibMedZIFNjE8IE
 features: []
-genres: []
+first_released_as_single: false
 key: gotta-get-back-to-you-tommy-james-and-the-shondells
 lyrics_url: https://www.azlyrics.com/lyrics/tommyjamesandtheshondells/gottagetbacktoyou.html
 name: Gotta Get Back To You
@@ -39,8 +42,9 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '1970-04-11'
+release_year: 1970
+runtime: 186760
 ---
-
 Fortunata woman,
 you know I wanted to fly,
 make it by myself alone.
@@ -90,4 +94,3 @@ Gotta get back,
 gotta get back,
 gotta get,
 gotta get back to you.
-

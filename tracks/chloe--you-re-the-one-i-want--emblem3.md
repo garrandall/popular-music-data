@@ -1,8 +1,11 @@
 ---
+album: Nothing To Lose (Deluxe Version)
 artists:
 - Emblem3
+external_ids:
+  spotify: spotify:track:5o0oypIQQ2PgGde8wLjbhx
 features: []
-genres: []
+first_released_as_single: true
 key: chloe--you-re-the-one-i-want--emblem3
 lyrics_url: https://genius.com/Emblem3-chloe-youre-the-one-i-want-lyrics
 name: Chloe (You're The One I Want)
@@ -19,6 +22,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2013-08-24'
+release_year: 2013
+runtime: 222093
 ---
 Chloe, I know your sister turns everyone on
 But you're the one I want

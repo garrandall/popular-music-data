@@ -1,8 +1,11 @@
 ---
+album: Success Hasn't Spoiled Me
 artists:
 - Rick Springfield
+external_ids:
+  spotify: spotify:track:1hs36YxbJsm0RpdSzgAa26
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-talk-to-strangers-rick-springfield
 lyrics_url: https://www.azlyrics.com/lyrics/rickspringfield/donttalktostrangers.html
 name: Don't Talk To Strangers
@@ -91,8 +94,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1982-07-24'
+release_year: 1981
+runtime: 178586
 ---
-
 When you were just a young girl and still in school
 How come you never learned the golden rule?
 Don't talk to strange men, don't be a fool
@@ -156,6 +160,3 @@ Baby, don't'cha
 (Don't talk to strangers)
 Baby, don't'cha talk
 (Don't talk to strangers...)
-
-
-

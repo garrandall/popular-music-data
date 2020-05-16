@@ -1,10 +1,13 @@
 ---
+album: Famouz
 artists:
 - Jhay Cortez
 - J Balvin
 - Bad Bunny
+external_ids:
+  spotify: spotify:track:7rknFhrVDyxzTJkPSf7LoW
 features: []
-genres: []
+first_released_as_single: true
 key: no-me-conoce-jhay-cortez-j-balvin-bad-bunny
 lyrics_url: https://genius.com/Jhay-cortez-j-balvin-and-bad-bunny-no-me-conoce-remix-lyrics
 name: No Me Conoce
@@ -65,6 +68,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2019-10-19'
+release_year: 2019
+runtime: 307546
 ---
 (Se hace la que no me conoce
 Pero en mi cama se volvió un vicio como la 5-12)

@@ -1,8 +1,11 @@
 ---
+album: Cameo Parkway 1957-1967
 artists:
 - Georgie Young
+external_ids:
+  spotify: spotify:track:1eIK074m2N2klVFCY6tyrw
 features: []
-genres: []
+first_released_as_single: false
 key: nine-more-miles--the--faster-faster--song--georgie-young
 name: Nine More Miles (The "Faster-Faster" Song)
 rankings:
@@ -42,5 +45,7 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1958-11-17'
+release_year: 1958
+runtime: 149960
 ---
 

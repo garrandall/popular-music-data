@@ -1,8 +1,11 @@
 ---
+album: Stop! Get A Ticket
 artists:
 - Clefs Of Lavender Hill
+external_ids:
+  spotify: spotify:track:7CzsQaxOCUXNLrxQ3uTENN
 features: []
-genres: []
+first_released_as_single: false
 key: stop----get-a-ticket-clefs-of-lavender-hill
 lyrics_url: https://www.musixmatch.com/lyrics/Clefs-of-Lavender-Hill/Stop-Get-a-Ticket
 name: Stop! - Get A Ticket
@@ -31,6 +34,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1966-07-30'
+release_year: 1966
+runtime: 142600
 ---
 You know your baby's gonna leave you
 If you don't treat her better

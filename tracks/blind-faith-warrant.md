@@ -1,8 +1,11 @@
 ---
+album: Cherry Pie
 artists:
 - Warrant
+external_ids:
+  spotify: spotify:track:7Fmv4QiyAdMroX61cOPaGn
 features: []
-genres: []
+first_released_as_single: false
 key: blind-faith-warrant
 lyrics_url: https://www.azlyrics.com/lyrics/warrant/blindfaith.html
 name: Blind Faith
@@ -31,8 +34,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1991-08-03'
+release_year: 1990
+runtime: 212933
 ---
-
 Darlin' I know you're sleepin'
 But there's something I've just got to say
 Wonder if you'll hear me
@@ -74,6 +78,3 @@ Blind faith in you
 And I'm not sure I deserve
 A woman so true but I love
 That you think I do.
-
-
-

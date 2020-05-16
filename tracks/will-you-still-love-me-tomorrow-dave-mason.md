@@ -1,8 +1,11 @@
 ---
+album: Mariposa De Oro
 artists:
 - Dave Mason
+external_ids:
+  spotify: spotify:track:6vzaZfZMUAp9CBilyu0GDb
 features: []
-genres: []
+first_released_as_single: false
 key: will-you-still-love-me-tomorrow-dave-mason
 lyrics_url: https://www.azlyrics.com/lyrics/davemason/willyoustilllovemetomorrow.html
 name: Will You Still Love Me Tomorrow
@@ -55,8 +58,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1978-08-19'
+release_year: 1974
+runtime: 302184
 ---
-
 Tonight you're mine completely
 You give your love so sweetly
 Tonight the light of love is in your eyes
@@ -77,6 +81,3 @@ Is love I can be sure of
 So tell me now, and I won't ask again
 Will you still love me tomorrow?
 Will you still love me tomorrow?
-
-
-

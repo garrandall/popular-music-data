@@ -1,8 +1,11 @@
 ---
+album: The Funky Headhunter
 artists:
 - M.C. Hammer
+external_ids:
+  spotify: spotify:track:4y2vzy436lUS1yWWQjUf9E
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-all-good-m-c--hammer
 lyrics_url: https://genius.com/Mc-hammer-its-all-good-lyrics
 name: It's All Good
@@ -83,6 +86,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1994-06-18'
+release_year: 1994
+runtime: 250640
 ---
 (Hey)
 (It's all good)

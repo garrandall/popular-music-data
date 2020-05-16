@@ -1,9 +1,12 @@
 ---
+album: Championships
 artists:
 - Meek Mill
+external_ids:
+  spotify: spotify:track:0KLXLbcknNdLV7oIvmiinV
 features:
 - Cardi B
-genres: []
+first_released_as_single: false
 key: on-me-meek-mill-cardi-b
 lyrics_url: https://www.azlyrics.com/lyrics/meekmill/onme.html
 name: On Me
@@ -16,9 +19,9 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '2018-12-22'
+release_year: 2018
+runtime: 225007
 ---
-
-
 Yeah, reportin' live from the northside of litty city
 You fuck my bitch, I'ma keep it player
 I just want you to know that we the Navy Seals
@@ -123,6 +126,3 @@ Fuck on me, tell her come fuck on me
 I want a freak nasty ho, and I want all bad bitches
 I want a freak nasty ho, that'll grant all my wishes, yeah
 (Booty, booty, booty, booty)
-
-
-

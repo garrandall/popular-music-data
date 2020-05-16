@@ -1,8 +1,11 @@
 ---
+album: Bill Brandon
 artists:
 - Bill Brandon
+external_ids:
+  spotify: spotify:track:561wqPVwU3XR5dyHk0QDZe
 features: []
-genres: []
+first_released_as_single: false
 key: we-fell-in-love-while-dancing-bill-brandon
 lyrics_url: https://genius.com/Bill-brandon-we-fell-in-love-while-dancing-lyrics
 name: We Fell In Love While Dancing
@@ -35,6 +38,8 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '1978-04-08'
+release_year: 1977
+runtime: 463133
 ---
 I was looking for a place to go
 To forget about someone I used to know

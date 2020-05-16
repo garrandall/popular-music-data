@@ -1,8 +1,11 @@
 ---
+album: The Folk Album
 artists:
 - Trini Lopez
+external_ids:
+  spotify: spotify:track:2M2IpOIle6Y2UuRGfiwIH2
 features: []
-genres: []
+first_released_as_single: false
 key: lemon-tree-trini-lopez
 lyrics_url: https://genius.com/Trini-lopez-lemon-tree-lyrics
 name: Lemon Tree
@@ -35,6 +38,8 @@ rankings:
   rank: 34
   ranking_list: Billboard Hot 100
   start_date: '1965-03-06'
+release_year: 1965
+runtime: 173666
 ---
 When I was just a lad of ten, my father said to me
 "Come here and take a lesson from the lovely lemon tree."

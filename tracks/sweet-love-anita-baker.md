@@ -1,8 +1,11 @@
 ---
+album: 80's Slow Grooves
 artists:
 - Anita Baker
+external_ids:
+  spotify: spotify:track:1YomRK89YsnQzg4eXTvUfz
 features: []
-genres: []
+first_released_as_single: false
 key: sweet-love-anita-baker
 lyrics_url: https://www.azlyrics.com/lyrics/anitabaker/sweetlove.html
 name: Sweet Love
@@ -95,8 +98,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1987-01-10'
+release_year: 1986
+runtime: 266173
 ---
-
 With all my heart I love you baby
 Stay with me and you will see
 My arms will hold you, baby
@@ -141,6 +145,3 @@ It will always be this way
 Oh no no no no
 No no no sweet love umm hm
 So sweet, so sweet, so sweet
-
-
-

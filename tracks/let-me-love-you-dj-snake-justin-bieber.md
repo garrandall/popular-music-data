@@ -1,9 +1,12 @@
 ---
+album: Encore
 artists:
 - DJ Snake
+external_ids:
+  spotify: spotify:track:0lYBSQXN6rCTvUZvg9S0lU
 features:
 - Justin Bieber
-genres: []
+first_released_as_single: false
 key: let-me-love-you-dj-snake-justin-bieber
 lyrics_url: https://genius.com/Dj-snake-let-me-love-you-lyrics
 name: Let Me Love You
@@ -140,6 +143,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '2017-04-08'
+release_year: 2016
+runtime: 205946
 ---
 I used to believe
 We were burnin' on the edge of somethin' beautiful

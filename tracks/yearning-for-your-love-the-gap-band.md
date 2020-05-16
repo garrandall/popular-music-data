@@ -1,8 +1,11 @@
 ---
+album: Gap Band 3
 artists:
 - The Gap Band
+external_ids:
+  spotify: spotify:track:5qM925z83TMCtj6h0qooVi
 features: []
-genres: []
+first_released_as_single: false
 key: yearning-for-your-love-the-gap-band
 lyrics_url: https://www.azlyrics.com/lyrics/gapband/yearningforyourlove.html
 name: Yearning For Your Love
@@ -35,8 +38,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1981-07-04'
+release_year: 1980
+runtime: 343400
 ---
-
 The time has come for us to stop messin' around
 'Cause don't you know that I like havin' you around
 In my life
@@ -113,6 +117,3 @@ You can't keep runnin' in and out of my life
 You can't keep runnin' in and out of my life
 (Keep runnin')
 You can't keep runnin' in and out of my life
-
-
-

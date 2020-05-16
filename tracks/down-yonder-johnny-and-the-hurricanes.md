@@ -1,8 +1,11 @@
 ---
+album: Live at the Star Club, Volume 2
 artists:
 - Johnny And The Hurricanes
+external_ids:
+  spotify: spotify:track:0aGImh7xUflWbmQoTIVyq2
 features: []
-genres: []
+first_released_as_single: false
 key: down-yonder-johnny-and-the-hurricanes
 name: Down Yonder
 rankings:
@@ -42,5 +45,7 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1960-07-25'
+release_year: 1960
+runtime: 138546
 ---
 

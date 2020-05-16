@@ -1,8 +1,11 @@
 ---
+album: Spike
 artists:
 - Elvis Costello
+external_ids:
+  spotify: spotify:track:5zHgT1ibsBrSOEnQwZapto
 features: []
-genres: []
+first_released_as_single: false
 key: veronica-elvis-costello
 lyrics_url: https://www.azlyrics.com/lyrics/elviscostello/veronica.html
 name: Veronica
@@ -63,8 +66,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1989-07-22'
+release_year: 1989
+runtime: 189506
 ---
-
 Is it all in that pretty little head of yours?
 What goes on in that place in the dark?
 Well I used to know a girl and I would have
@@ -106,4 +110,3 @@ But she used to have a carefree mind of her
 own, with devilish look in her eye
 Saying "You can call me anything you like, but
 my name is Veronica"
-

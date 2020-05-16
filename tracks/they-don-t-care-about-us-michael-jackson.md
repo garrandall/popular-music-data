@@ -1,8 +1,11 @@
 ---
+album: HIStory - PAST, PRESENT AND FUTURE - BOOK I
 artists:
 - Michael Jackson
+external_ids:
+  spotify: spotify:track:3wuCCNCnBhJlwkIJTBZFiv
 features: []
-genres: []
+first_released_as_single: false
 key: they-don-t-care-about-us-michael-jackson
 lyrics_url: https://genius.com/Michael-jackson-they-dont-care-about-us-lyrics
 name: They Don't Care About Us
@@ -59,6 +62,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1996-08-31'
+release_year: 1995
+runtime: 284160
 ---
 All I want to say is that they don't really care about us
 Don't worry what people say, we know the truth

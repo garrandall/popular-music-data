@@ -1,8 +1,11 @@
 ---
+album: A Day At The Races (Deluxe Remastered Version)
 artists:
 - Queen
+external_ids:
+  spotify: spotify:track:6cFZ4PLC19taNlpl9pbGMf
 features: []
-genres: []
+first_released_as_single: false
 key: somebody-to-love-queen
 lyrics_url: https://genius.com/Queen-somebody-to-love-lyrics
 name: Somebody To Love
@@ -15,6 +18,8 @@ rankings:
   rank: 16
   ranking_list: Billboard Hot 100
   start_date: '1977-02-05'
+release_year: 1976
+runtime: 296493
 ---
 Can anybody find me somebody to love?
 

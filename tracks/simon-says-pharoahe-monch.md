@@ -1,8 +1,11 @@
 ---
+album: Internal Affairs
 artists:
 - Pharoahe Monch
+external_ids:
+  spotify: spotify:track:67IvfvAMYQzJEeHopvwMMW
 features: []
-genres: []
+first_released_as_single: true
 key: simon-says-pharoahe-monch
 lyrics_url: https://genius.com/Pharoahe-monch-simon-says-lyrics
 name: Simon Says
@@ -27,6 +30,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1999-11-20'
+release_year: 1999
+runtime: 173159
 ---
 Uh-uh, uh-uh, uh-uh
 Uh-uh, uh-uh, uh

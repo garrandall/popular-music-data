@@ -1,8 +1,11 @@
 ---
+album: Stars Dance (Bonus Track Version)
 artists:
 - Selena Gomez
+external_ids:
+  spotify: spotify:track:6LoQHIo74tOzQ8EsLEkhgF
 features: []
-genres: []
+first_released_as_single: false
 key: come---get-it-selena-gomez
 lyrics_url: https://genius.com/Selena-gomez-come-and-get-it-lyrics
 name: Come & Get It
@@ -95,6 +98,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '2013-09-21'
+release_year: 2013
+runtime: 231986
 ---
 When you're ready come and get it
 Na-na-na-na, na-na-na-na, na-na-na-na

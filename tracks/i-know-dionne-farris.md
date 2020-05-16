@@ -1,8 +1,11 @@
 ---
+album: Wild Seed - Wild Flower
 artists:
 - Dionne Farris
+external_ids:
+  spotify: spotify:track:6V4sJKkWYffnpaYz8OfiFi
 features: []
-genres: []
+first_released_as_single: true
 key: i-know-dionne-farris
 lyrics_url: https://genius.com/Dionne-farris-i-know-lyrics
 name: I Know
@@ -159,6 +162,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1995-10-14'
+release_year: 1994
+runtime: 203640
 ---
 I know what you're doing, yeah, yeah
 I know why you dialed my number

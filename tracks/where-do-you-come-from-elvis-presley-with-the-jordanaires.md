@@ -1,9 +1,12 @@
 ---
+album: Girls! Girls! Girls!
 artists:
 - Elvis Presley
 - The Jordanaires
+external_ids:
+  spotify: spotify:track:4IPAMIpLNAO7npC1LAc7xV
 features: []
-genres: []
+first_released_as_single: false
 key: where-do-you-come-from-elvis-presley-with-the-jordanaires
 lyrics_url: https://www.musixmatch.com/lyrics/Elvis-Presley-and-The-Jordanaires/Where-Do-You-Come-From
 name: Where Do You Come From
@@ -12,6 +15,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1962-10-27'
+release_year: 1962
+runtime: 127133
 ---
 Where do you come from?
 Tell me who you are

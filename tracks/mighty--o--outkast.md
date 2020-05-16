@@ -1,8 +1,11 @@
 ---
+album: Idlewild
 artists:
 - OutKast
+external_ids:
+  spotify: spotify:track:7LwFNRNeH1SpKSeBk7kArZ
 features: []
-genres: []
+first_released_as_single: true
 key: mighty--o--outkast
 lyrics_url: https://www.azlyrics.com/lyrics/outkast/mightyo.html
 name: Mighty "O"
@@ -15,9 +18,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2006-07-01'
+release_year: 2006
+runtime: 256399
 ---
-
-
 Mighty-I-de-I-de-I (Mighty-I-de-I-de-I)
 Ode ode ode oo (Ode ode ode oo)
 Mighty-I-de-I-de-I (Mighty-I-de-I-de-I)
@@ -89,8 +92,3 @@ Mighty ighty ighty ighty ighty ighty O
 The worse thing since Crack/Cocaine distributed to the poor
 By the government, oh I meant, don't nobody know
 Conspiracy theory, you be the judge, nobodys slow
-
-
-
-
-

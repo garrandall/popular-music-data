@@ -1,8 +1,11 @@
 ---
+album: Rebellious Soul
 artists:
 - K. Michelle
+external_ids:
+  spotify: spotify:track:0vvKyFjX1hzSwpNtVwnJ2H
 features: []
-genres: []
+first_released_as_single: false
 key: can-t-raise-a-man-k--michelle
 lyrics_url: https://genius.com/K-michelle-cant-raise-a-man-lyrics
 name: Can't Raise A Man
@@ -35,6 +38,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2014-04-05'
+release_year: 2013
+runtime: 208040
 ---
 He got older but never grew
 For his life he can't tell the truth

@@ -1,8 +1,11 @@
 ---
+album: Justified
 artists:
 - Justin Timberlake
+external_ids:
+  spotify: spotify:track:1AWQoqb9bSvzTjaLralEkT
 features: []
-genres: []
+first_released_as_single: false
 key: rock-your-body-justin-timberlake
 lyrics_url: https://www.azlyrics.com/lyrics/justintimberlake/rockyourbody.html
 name: Rock Your Body
@@ -95,8 +98,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2003-08-16'
+release_year: 2002
+runtime: 267266
 ---
-
 Don't be so quick to walk away
 Dance with me
 I wanna rock your body
@@ -224,6 +228,3 @@ Are you feeling me?
 Let's do something
 Let's make a bet
 Cause I, gotta have you naked by the end of this song
-
-
-

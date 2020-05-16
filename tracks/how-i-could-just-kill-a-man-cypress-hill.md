@@ -1,8 +1,11 @@
 ---
+album: Cypress Hill
 artists:
 - Cypress Hill
+external_ids:
+  spotify: spotify:track:6l4wMAXzI8RxIysQMYZY0w
 features: []
-genres: []
+first_released_as_single: false
 key: how-i-could-just-kill-a-man-cypress-hill
 lyrics_url: https://genius.com/Cypress-hill-how-i-could-just-kill-a-man-lyrics
 name: How I Could Just Kill A Man
@@ -39,6 +42,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1992-04-11'
+release_year: 1991
+runtime: 252240
 ---
 It's another one of them ol' funky Cypress Hill things
 You know what I'm sayin?

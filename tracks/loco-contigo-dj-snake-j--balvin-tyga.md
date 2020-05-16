@@ -1,10 +1,13 @@
 ---
+album: Carte Blanche
 artists:
 - DJ Snake
 - J. Balvin
 - Tyga
+external_ids:
+  spotify: spotify:track:6osaMSJh9NguagEDQcZaKx
 features: []
-genres: []
+first_released_as_single: false
 key: loco-contigo-dj-snake-j--balvin-tyga
 lyrics_url: https://www.musixmatch.com/lyrics/DJ-Snake-feat-J-Balvin-Tyga/Loco-Contigo
 name: Loco Contigo
@@ -17,6 +20,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2020-01-11'
+release_year: 2019
+runtime: 185194
 ---
 Uh-uh, hu-uh, hu-hu, hu-hu
 Uh, hu-uh, hu-hu, hu-hu

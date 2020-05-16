@@ -1,8 +1,11 @@
 ---
+album: Drive Me Crazy
 artists:
 - Britney Spears
+external_ids:
+  spotify: spotify:track:5qeJFHnszk3MJ7TCcGi5YN
 features: []
-genres: []
+first_released_as_single: false
 key: -you-drive-me--crazy-britney-spears
 lyrics_url: https://www.azlyrics.com/lyrics/britneyspears/youdrivemecrazy.html
 name: (You Drive Me) Crazy
@@ -87,8 +90,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2000-01-29'
+release_year: 1999
+runtime: 197466
 ---
-
 Baby, I'm so into you
 You got that somethin'. What can I do?
 Baby, you spin me around
@@ -136,6 +140,3 @@ Oh... crazy (you make me feel alright)
 But it feels alright
 Baby, thinkin' of you keeps me up all night
 Baby, thinkin' of you keeps me up all night
-
-
-

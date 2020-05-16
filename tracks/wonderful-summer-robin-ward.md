@@ -1,8 +1,11 @@
 ---
+album: Wonderful Summer
 artists:
 - Robin Ward
+external_ids:
+  spotify: spotify:track:7nSyzFpoLZUds8P6387E3Y
 features: []
-genres: []
+first_released_as_single: false
 key: wonderful-summer-robin-ward
 lyrics_url: https://genius.com/Robin-ward-wonderful-summer-lyrics
 name: Wonderful Summer
@@ -47,6 +50,8 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '1964-01-04'
+release_year: 1963
+runtime: 148926
 ---
 Wonderful Summer
 

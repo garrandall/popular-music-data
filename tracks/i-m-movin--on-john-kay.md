@@ -1,8 +1,11 @@
 ---
+album: Live at 25 Silver Anniversary
 artists:
 - John Kay
+external_ids:
+  spotify: spotify:track:1qUlgJXm8Wf9wsFm270U4k
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-movin--on-john-kay
 lyrics_url: https://genius.com/John-k-ay-im-movin-on-lyrics
 name: I'm Movin' On
@@ -35,6 +38,8 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '1972-06-03'
+release_year: 1972
+runtime: 207880
 ---
 I warned ya, baby
 From time to time

@@ -1,8 +1,11 @@
 ---
+album: When Seconds Count
 artists:
 - Survivor
+external_ids:
+  spotify: spotify:track:6rt4FH5qFgXGmyhgKmlJcL
 features: []
-genres: []
+first_released_as_single: false
 key: is-this-love-survivor
 lyrics_url: https://www.musixmatch.com/lyrics/Survivor/Is-This-Love
 name: Is This Love
@@ -83,6 +86,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1987-02-28'
+release_year: 1986
+runtime: 222560
 ---
 I've heard talk of blind devotion
 Lovers through thick and thin

@@ -1,8 +1,11 @@
 ---
+album: Greatest Hits / Tequila
 artists:
 - The Champs
+external_ids:
+  spotify: spotify:track:4gXQlqSWEhyyrAd8MZUEzP
 features: []
-genres: []
+first_released_as_single: false
 key: too-much-tequila-the-champs
 lyrics_url: https://www.musixmatch.com/lyrics/The-Champs/Too-Much-Tequila
 name: Too Much Tequila
@@ -51,6 +54,8 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '1960-03-28'
+release_year: 1958
+runtime: 132453
 ---
 I was at the bar with my drinkin team,
 It was me Jack Daniels and my homey Jim Bean.

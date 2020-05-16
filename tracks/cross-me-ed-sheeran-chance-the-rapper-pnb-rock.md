@@ -1,10 +1,13 @@
 ---
+album: No.6 Collaborations Project
 artists:
 - Ed Sheeran
+external_ids:
+  spotify: spotify:track:543bCW2ruMPmxUBWirQ3MR
 features:
 - Chance The Rapper
 - PnB Rock
-genres: []
+first_released_as_single: true
 key: cross-me-ed-sheeran-chance-the-rapper-pnb-rock
 lyrics_url: https://www.azlyrics.com/lyrics/edsheeran/crossme.html
 name: Cross Me
@@ -49,9 +52,9 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '2019-08-10'
+release_year: 2019
+runtime: 206186
 ---
-
-
 Anything she needs, she can call me
 Don't worry 'bout her, that's my seed, dawg that's all me
 Just know if you cross her then you cross me
@@ -170,6 +173,3 @@ Then you cross me
 (Cross me, cross me)
 (If you, if you, if you, if you)
 (Oh yeah)
-
-
-

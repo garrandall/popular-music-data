@@ -1,8 +1,11 @@
 ---
+album: Hang On In There Baby
 artists:
 - Johnny Bristol
+external_ids:
+  spotify: spotify:track:4hciqwt20fn3JZ998GkpWz
 features: []
-genres: []
+first_released_as_single: false
 key: you-and-i-johnny-bristol
 lyrics_url: https://www.musixmatch.com/lyrics/Johnny-Bristol/You-and-I
 name: You And I
@@ -35,6 +38,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1974-12-28'
+release_year: 1974
+runtime: 220453
 ---
 You and I, you and I
 Sounds like a whole lotta fun

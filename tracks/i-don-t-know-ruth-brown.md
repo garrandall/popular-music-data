@@ -1,8 +1,11 @@
 ---
+album: R+B=Ruth Brown
 artists:
 - Ruth Brown
+external_ids:
+  spotify: spotify:track:0NYxqPqh40x0CILlzovfLf
 features: []
-genres: []
+first_released_as_single: false
 key: i-don-t-know-ruth-brown
 lyrics_url: https://genius.com/Ruth-brown-i-dont-know-lyrics
 name: I Don't Know
@@ -31,6 +34,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1959-11-16'
+release_year: 1959
+runtime: 173826
 ---
 Should I let myself go
 In his direction

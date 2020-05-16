@@ -1,9 +1,12 @@
 ---
+album: Future & Juice WRLD Present... WRLD ON DRUGS
 artists:
 - Future
 - Juice WRLD
+external_ids:
+  spotify: spotify:track:5274I4mUMnYczyeXkGDWZN
 features: []
-genres: []
+first_released_as_single: false
 key: fine-china-future-juice-wrld
 lyrics_url: https://www.azlyrics.com/lyrics/future/finechina.html
 name: Fine China
@@ -60,9 +63,9 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '2019-01-26'
+release_year: 2018
+runtime: 141586
 ---
-
-
 (The world on drugs)
 Ten (Yeah) thousand dollar plates
 (Thousand dollar plates)
@@ -124,6 +127,3 @@ So if she leaves, I'ma kill it all, she'a die
 Did I say that out loud? I'm so crazy about mine
 
 Did I say that out loud? I'm so crazy about mine
-
-
-

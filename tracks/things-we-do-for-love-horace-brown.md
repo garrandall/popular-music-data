@@ -1,8 +1,11 @@
 ---
+album: Horace Brown
 artists:
 - Horace Brown
+external_ids:
+  spotify: spotify:track:2fzKLDa3YlAJ1Qkkxm5ZqH
 features: []
-genres: []
+first_released_as_single: false
 key: things-we-do-for-love-horace-brown
 lyrics_url: https://genius.com/Horace-brown-things-we-do-for-love-lyrics
 name: Things We Do For Love
@@ -11,6 +14,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1996-08-10'
+release_year: 1996
+runtime: 297760
 ---
 Diamond rings, pearls and things
 Trips in December

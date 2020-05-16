@@ -1,8 +1,11 @@
 ---
+album: Afterglow
 artists:
 - Sarah McLachlan
+external_ids:
+  spotify: spotify:track:0zZNqS9atue6wwQXVA1UTJ
 features: []
-genres: []
+first_released_as_single: false
 key: fallen-sarah-mclachlan
 lyrics_url: https://genius.com/Sarah-mclachlan-fallen-lyrics
 name: Fallen
@@ -91,6 +94,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2004-03-13'
+release_year: 1996
+runtime: 223800
 ---
 Heaven bend to take my hand
 And lead me through the fire

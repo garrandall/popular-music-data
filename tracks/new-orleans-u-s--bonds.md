@@ -128,14 +128,8 @@ Down in New Orleans
 
 Hey, hey!
 
-(sax & instrumental)
-
 Well, I says, a-hey-hey-a-hey-yeah
 (Said, yeah-yeah-yeah-yeah)
 
-FADES-
-
 I said, a-look out child!
 Yeah, yeah, yeah
-
-~

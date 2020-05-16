@@ -1,8 +1,11 @@
 ---
+album: I've Been Everywhere
 artists:
 - Hank Snow
+external_ids:
+  spotify: spotify:track:5fle0b4Py30UeusQUzyxbG
 features: []
-genres: []
+first_released_as_single: false
 key: i-ve-been-everywhere-hank-snow
 lyrics_url: https://genius.com/Hank-snow-ive-been-everywhere-lyrics
 name: I've Been Everywhere
@@ -39,6 +42,8 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1962-11-24'
+release_year: 1962
+runtime: 166333
 ---
 I was totin' my pack along the dusty Winemaca road
 When along came a semi with high and canvas covered load

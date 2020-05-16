@@ -1,8 +1,11 @@
 ---
+album: Drive Me Wild
 artists:
 - Sawyer Brown
+external_ids:
+  spotify: spotify:track:7ldDBX4XPJ3RpMWJorOsJ7
 features: []
-genres: []
+first_released_as_single: false
 key: drive-me-wild-sawyer-brown
 lyrics_url: https://www.azlyrics.com/lyrics/sawyerbrown/drivemewild.html
 name: Drive Me Wild
@@ -63,8 +66,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1999-05-29'
+release_year: 1999
+runtime: 215506
 ---
-
 You pull over and I jump in
 Into your little red Mercedes Benz
 Well, I know there's no turning back
@@ -119,6 +123,3 @@ Take me by the hand
 Pull me by the heart
 With you, with you
 I'll go anywhere
-
-
-

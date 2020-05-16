@@ -1,8 +1,11 @@
 ---
+album: More Songs From The Original Soundtrack Of The Big Chill 15th Anniversary
 artists:
 - The Marvelettes
+external_ids:
+  spotify: spotify:track:4ZPRkTHgVXSZOgVa72ym8k
 features: []
-genres: []
+first_released_as_single: false
 key: too-many-fish-in-the-sea-the-marvelettes
 lyrics_url: https://genius.com/The-marvelettes-too-many-fish-in-the-sea-lyrics
 name: Too Many Fish In The Sea
@@ -55,6 +58,8 @@ rankings:
   rank: 29
   ranking_list: Billboard Hot 100
   start_date: '1965-01-23'
+release_year: 1964
+runtime: 151226
 ---
 Listen here, girls
 Take this advice

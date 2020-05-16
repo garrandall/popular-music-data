@@ -1,8 +1,11 @@
 ---
+album: Kick Out The Jams (Live)
 artists:
 - MC5
+external_ids:
+  spotify: spotify:track:1cLfXnBwTFuRngRZfQeLof
 features: []
-genres: []
+first_released_as_single: false
 key: kick-out-the-jams-mc5
 lyrics_url: https://genius.com/Mc5-kick-out-the-jams-lyrics
 name: Kick Out The Jams
@@ -23,6 +26,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1969-04-05'
+release_year: 1969
+runtime: 160533
 ---
 And right now
 Right now

@@ -1,8 +1,11 @@
 ---
+album: SEX AND LOVE
 artists:
 - Enrique Iglesias
+external_ids:
+  spotify: spotify:track:4HQQugufFOumfSO0ukf8Uv
 features: []
-genres: []
+first_released_as_single: false
 key: heart-attack-enrique-iglesias
 lyrics_url: https://www.azlyrics.com/lyrics/enriqueiglesias/heartattack.html
 name: Heart Attack
@@ -15,8 +18,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2014-01-11'
+release_year: 2013
+runtime: 170146
 ---
-
 Loving you was easy
 Thought you'd never leave me yeah, yeah
 Wrapped around my finger
@@ -68,6 +72,3 @@ And now I'm hearing around
 That you been running around
 I didn't think I'd miss you
 Now I'm feeling like a fool
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Paradise
 artists:
 - Inner City
+external_ids:
+  spotify: spotify:track:5sJiLlgQKBL81QCTOkoLB5
 features: []
-genres: []
+first_released_as_single: false
 key: good-life-inner-city
 lyrics_url: https://genius.com/Inner-city-good-life-lyrics
 name: Good Life
@@ -51,6 +54,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1989-05-13'
+release_year: 1989
+runtime: 244773
 ---
 Let me take you to a place I know you want to go
 It's a good life

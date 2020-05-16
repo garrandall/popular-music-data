@@ -1,8 +1,11 @@
 ---
+album: I Like Your Lovin' (Do You Like Mine?)
 artists:
 - The Chi-lites
+external_ids:
+  spotify: spotify:track:7B32ckntos5QYbV9o7GF3q
 features: []
-genres: []
+first_released_as_single: false
 key: are-you-my-woman---tell-me-so--the-chi-lites
 lyrics_url: https://www.azlyrics.com/lyrics/chilites/areyoumywomantellmeso.html
 name: Are You My Woman? (Tell Me So)
@@ -35,8 +38,9 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1971-01-30'
+release_year: 1970
+runtime: 182066
 ---
-
 Seems to be a misunderstanding
 Bout who you belong to
 I'm tired of he saying, she saying
@@ -74,6 +78,3 @@ Well, you set my soul on fire
 
 Are you my woman, tell me so
 Are you my woman, tell me so
-
-
-

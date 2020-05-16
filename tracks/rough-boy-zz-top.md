@@ -1,8 +1,11 @@
 ---
+album: Afterburner
 artists:
 - ZZ Top
+external_ids:
+  spotify: spotify:track:09C7ULYG1WhWgngwkkvVxN
 features: []
-genres: []
+first_released_as_single: false
 key: rough-boy-zz-top
 lyrics_url: https://genius.com/Zz-top-rough-boy-lyrics
 name: Rough Boy
@@ -59,6 +62,8 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1986-06-21'
+release_year: 1985
+runtime: 289160
 ---
 What in the world's come all over me?
 I ain't got a chance of one in three

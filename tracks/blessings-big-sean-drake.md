@@ -1,9 +1,12 @@
 ---
+album: Dark Sky Paradise
 artists:
 - Big Sean
+external_ids:
+  spotify: spotify:track:30dkQSLaSpCDP5b6C1dFab
 features:
 - Drake
-genres: []
+first_released_as_single: true
 key: blessings-big-sean-drake
 lyrics_url: https://www.azlyrics.com/lyrics/bigsean/blessings.html
 name: Blessings
@@ -88,9 +91,9 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2015-07-04'
+release_year: 2015
+runtime: 301746
 ---
-
-
 Look, I feel blessed
 Way up I feel blessed, way up I feel blessed
 Straight up
@@ -186,6 +189,3 @@ And my daughter right there gettin' homeschooled
 I'm blessed, and I was thinkin' 'bout startin' up my own school
 A Montessori, and the hallway lookin' like a monastery
 Oh yes I'm way up, I feel blessed
-
-
-

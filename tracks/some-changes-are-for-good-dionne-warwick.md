@@ -1,8 +1,11 @@
 ---
+album: Hot! Live & Otherwise
 artists:
 - Dionne Warwick
+external_ids:
+  spotify: spotify:track:24yLTeWOoxu7e3lxCxSBTn
 features: []
-genres: []
+first_released_as_single: false
 key: some-changes-are-for-good-dionne-warwick
 lyrics_url: https://genius.com/Dionne-warwick-some-changes-are-for-good-lyrics
 name: Some Changes Are For Good
@@ -31,6 +34,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1981-07-25'
+release_year: 1981
+runtime: 229080
 ---
 Didn't you ever want to climb
 The highest mountain you could find?

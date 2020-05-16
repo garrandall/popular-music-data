@@ -1,8 +1,11 @@
 ---
+album: Compelling Percussion
 artists:
 - Sandy Nelson
+external_ids:
+  spotify: spotify:track:1fHHq3qHU8wpRKHzhojZ4a
 features: []
-genres: []
+first_released_as_single: false
 key: and-then-there-were-drums-sandy-nelson
 name: And Then There Were Drums
 rankings:
@@ -22,5 +25,7 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '1962-10-13'
+release_year: 1962
+runtime: 172066
 ---
 

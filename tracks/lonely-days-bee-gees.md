@@ -1,8 +1,11 @@
 ---
+album: 2 Years On
 artists:
 - Bee Gees
+external_ids:
+  spotify: spotify:track:7uLKyipL5WfndsHMRSGEUS
 features: []
-genres: []
+first_released_as_single: false
 key: lonely-days-bee-gees
 lyrics_url: https://genius.com/Bee-gees-lonely-days-lyrics
 name: Lonely Days
@@ -63,6 +66,8 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1971-03-06'
+release_year: 1970
+runtime: 225666
 ---
 Good morning mister sunshine, you brighten up my day
 Come sit beside me in your way

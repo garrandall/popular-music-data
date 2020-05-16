@@ -1,9 +1,12 @@
 ---
+album: First Time
 artists:
 - Kygo
 - Ellie Goulding
+external_ids:
+  spotify: spotify:track:2Gl0FzuLxflY6nPifJp5Dr
 features: []
-genres: []
+first_released_as_single: true
 key: first-time-kygo-ellie-goulding
 lyrics_url: https://www.azlyrics.com/lyrics/kygo/firsttime.html
 name: First Time
@@ -12,8 +15,9 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '2017-05-20'
+release_year: 2017
+runtime: 193511
 ---
-
 We were lovers for the first time
 Running all the red lights
 The middle finger was our peace sign, yeah
@@ -64,6 +68,3 @@ Speed speed, speed speed oh oh...
 Stack stack, stack stack, oh oh...
 Speed speed, speed speed oh oh...
 Stack stack, stack stack, oh oh...
-
-
-

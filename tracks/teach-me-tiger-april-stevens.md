@@ -1,8 +1,11 @@
 ---
+album: Capricer med OD, Vol. 5 (Recorded 1987-1990)
 artists:
 - April Stevens
+external_ids:
+  spotify: spotify:track:6agMRKrQ92cVTuV8keXhD7
 features: []
-genres: []
+first_released_as_single: false
 key: teach-me-tiger-april-stevens
 lyrics_url: https://genius.com/April-stevens-teach-me-tiger-lyrics
 name: Teach Me Tiger
@@ -19,6 +22,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1959-12-14'
+release_year: 1959
+runtime: 143200
 ---
 Hi Tiger
 

@@ -1,8 +1,11 @@
 ---
+album: Fighter
 artists:
 - David Nail
+external_ids:
+  spotify: spotify:track:5y2pNuAvWcPKiORZ12e44S
 features: []
-genres: []
+first_released_as_single: false
 key: night-s-on-fire-david-nail
 lyrics_url: https://genius.com/David-nail-nights-on-fire-lyrics
 name: Night's On Fire
@@ -27,6 +30,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2016-08-06'
+release_year: 2016
+runtime: 189733
 ---
 Cue the music out the driveway
 Slow summer on a Friday

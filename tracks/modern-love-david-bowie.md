@@ -1,8 +1,11 @@
 ---
+album: Let's Dance
 artists:
 - David Bowie
+external_ids:
+  spotify: spotify:track:3gxEZXUjrNbl3TlSrTGbR5
 features: []
-genres: []
+first_released_as_single: false
 key: modern-love-david-bowie
 lyrics_url: https://genius.com/David-bowie-modern-love-lyrics
 name: Modern Love
@@ -59,6 +62,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1983-12-10'
+release_year: 1983
+runtime: 288339
 ---
 I know when to go out
 And when to stay in

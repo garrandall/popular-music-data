@@ -1,8 +1,11 @@
 ---
+album: Chronology
 artists:
 - Brian Hyland
+external_ids:
+  spotify: spotify:track:5cfhjwlnKG5TkCUWdUNCct
 features: []
-genres: []
+first_released_as_single: false
 key: a-million-to-one-brian-hyland
 lyrics_url: https://www.musixmatch.com/lyrics/Brian-Hyland/A-Million-to-One
 name: A Million To One
@@ -27,6 +30,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1969-05-03'
+release_year: 1969
+runtime: 161693
 ---
 A million to one
 That's what our folks think

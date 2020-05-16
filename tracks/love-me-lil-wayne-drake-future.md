@@ -1,10 +1,13 @@
 ---
+album: I Am Not A Human Being II
 artists:
 - Lil Wayne
+external_ids:
+  spotify: spotify:track:7tGlzXJv6GD5e5qlu5YmDg
 features:
 - Drake
 - Future
-genres: []
+first_released_as_single: false
 key: love-me-lil-wayne-drake-future
 lyrics_url: https://www.azlyrics.com/lyrics/lilwayne/bitcheslovemegoodkushalcohol.html
 name: Love Me
@@ -97,9 +100,9 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '2013-06-29'
+release_year: 2013
+runtime: 253440
 ---
-
-
 I'm on that good kush and alcohol
 (Mike will made it)
 I got some down bitches I can call
@@ -205,6 +208,3 @@ I can give a fuck 'bout no hater
 Long as my bitches love me
 I can give a fuck 'bout no niggas
 Long as these bitches love me
-
-
-

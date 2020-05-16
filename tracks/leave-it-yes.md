@@ -1,8 +1,11 @@
 ---
+album: 90125 (Deluxe Version)
 artists:
 - 'Yes'
+external_ids:
+  spotify: spotify:track:3qSlbAE7VfK1AVyxfoHNJZ
 features: []
-genres: []
+first_released_as_single: false
 key: leave-it-yes
 lyrics_url: https://genius.com/Yes-leave-it-lyrics
 name: Leave It
@@ -67,6 +70,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1984-06-09'
+release_year: 1983
+runtime: 253800
 ---
 I can feel no sense of measure
 No illusions as we take

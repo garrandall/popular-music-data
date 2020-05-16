@@ -1,8 +1,11 @@
 ---
+album: New Adventures In Hi-Fi
 artists:
 - R.E.M.
+external_ids:
+  spotify: spotify:track:6TU0zW9qJaG53vSa1R57qb
 features: []
-genres: []
+first_released_as_single: false
 key: electrolite-r-e-m-
 lyrics_url: https://www.azlyrics.com/lyrics/rem/electrolite.html
 name: Electrolite
@@ -15,8 +18,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1997-03-01'
+release_year: 1996
+runtime: 245373
 ---
-
 Your eyes are burnin' holes through me
 I'm gasoline
 I'm burnin' clean
@@ -71,6 +75,3 @@ I'm not scared
 I'm outta here
 I'm not scared
 I'm outta here
-
-
-

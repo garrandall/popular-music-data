@@ -1,9 +1,12 @@
 ---
+album: The Legacy (1961-2017)
 artists:
 - Glen Campbell
 - Rita Coolidge
+external_ids:
+  spotify: spotify:track:3UK0kgXfuWt6gZjQNYmknO
 features: []
-genres: []
+first_released_as_single: false
 key: somethin---bout-you-baby-i-like-glen-campbell-rita-coolidge
 lyrics_url: https://www.musixmatch.com/lyrics/Glen-Campbell-Rita-Coolidge/Somethin-Bout-You-Baby-I-Like
 name: Somethin' 'Bout You Baby I Like
@@ -48,6 +51,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1980-07-19'
+release_year: 1980
+runtime: 166200
 ---
 I see you every day
 Walking down the avenue

@@ -1,8 +1,11 @@
 ---
+album: Mancini's Angels
 artists:
 - Henry Mancini
+external_ids:
+  spotify: spotify:track:0ZA8EGsw0Zy0PEM2R875yS
 features: []
-genres: []
+first_released_as_single: false
 key: -theme-from--charlie-s-angels-henry-mancini-and-his-orchestra
 name: (Theme from) Charlie's Angels
 rankings:
@@ -42,5 +45,7 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1977-05-14'
+release_year: 1977
+runtime: 183160
 ---
 

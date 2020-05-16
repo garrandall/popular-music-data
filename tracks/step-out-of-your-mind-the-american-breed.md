@@ -1,8 +1,11 @@
 ---
+album: The Best Of The American Breed
 artists:
 - The American Breed
+external_ids:
+  spotify: spotify:track:5aRjujywmA6PysAPVVQd1y
 features: []
-genres: []
+first_released_as_single: false
 key: step-out-of-your-mind-the-american-breed
 lyrics_url: https://www.musixmatch.com/lyrics/The-American-Breed/Step-Out-of-Your-Mind
 name: Step Out Of Your Mind
@@ -43,6 +46,8 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '1967-07-29'
+release_year: 1967
+runtime: 150093
 ---
 You gotta get out of your head
 You gotta step out of your mind

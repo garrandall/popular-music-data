@@ -1,8 +1,11 @@
 ---
+album: Hooked On Classics
 artists:
 - Royal Philharmonic Orchestra
+external_ids:
+  spotify: spotify:track:3kTcvDQLW3zVbLyWyid6ua
 features: []
-genres: []
+first_released_as_single: false
 key: hooked-on-classics-royal-philharmonic-orchestra
 lyrics_url: https://genius.com/Royal-philharmonic-orchestra-hooked-on-classics-parts-1-and-2-lyrics
 name: Hooked On Classics
@@ -87,5 +90,7 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1982-03-13'
+release_year: 1981
+runtime: 306133
 ---
 Instrumental

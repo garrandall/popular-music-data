@@ -1,8 +1,11 @@
 ---
+album: The Complete Hits Of Vic Dana
 artists:
 - Vic Dana
+external_ids:
+  spotify: spotify:track:5uPKJXCJse6seJX3DegLDN
 features: []
-genres: []
+first_released_as_single: false
 key: shangri-la-vic-dana
 lyrics_url: https://genius.com/Vic-dana-shangri-la-lyrics
 name: Shangri-La
@@ -47,6 +50,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1964-05-30'
+release_year: 1964
+runtime: 126346
 ---
 Your kisses take me
 To Shangri-La

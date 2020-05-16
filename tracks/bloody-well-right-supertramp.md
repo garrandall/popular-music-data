@@ -1,8 +1,11 @@
 ---
+album: Crime Of The Century
 artists:
 - Supertramp
+external_ids:
+  spotify: spotify:track:2SmlWvdYG6FsagxN3FkHMI
 features: []
-genres: []
+first_released_as_single: false
 key: bloody-well-right-supertramp
 lyrics_url: https://www.azlyrics.com/lyrics/supertramp/bloodywellright.html
 name: Bloody Well Right
@@ -47,8 +50,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1975-06-14'
+release_year: 1974
+runtime: 272432
 ---
-
 So you think your schooling's phoney
 I guess it's hard not to agree
 You say it all depends on money
@@ -67,6 +71,3 @@ Take them to a higher place
 You've had your cry - no, I should say wail
 In the meantime hush your face
 Right, quite right, you're bloody well right... etc.
-
-
-

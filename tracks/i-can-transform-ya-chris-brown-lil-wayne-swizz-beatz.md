@@ -1,10 +1,13 @@
 ---
+album: Graffiti
 artists:
 - Chris Brown
+external_ids:
+  spotify: spotify:track:1QMljBxoueZp0cy1HXRdZt
 features:
 - Lil Wayne
 - Swizz Beatz
-genres: []
+first_released_as_single: true
 key: i-can-transform-ya-chris-brown-lil-wayne-swizz-beatz
 lyrics_url: https://genius.com/Chris-brown-i-can-transform-ya-lyrics
 name: I Can Transform Ya
@@ -85,6 +88,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2010-02-27'
+release_year: 2009
+runtime: 230586
 ---
 Go 'head, lil' mama, I can transform ya
 No, I can't dance but I could dance on ya

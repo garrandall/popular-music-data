@@ -1,8 +1,11 @@
 ---
+album: This One's From The Heart
 artists:
 - James Darren
+external_ids:
+  spotify: spotify:track:5FghKDW0T6ARG4U3Ef4x7N
 features: []
-genres: []
+first_released_as_single: false
 key: all-james-darren
 lyrics_url: https://genius.com/James-darren-all-lyrics
 name: All
@@ -39,6 +42,8 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '1967-03-04'
+release_year: 1967
+runtime: 258399
 ---
 All the words I can recall
 Could never capture all

@@ -1,8 +1,11 @@
 ---
+album: True to Self
 artists:
 - Bryson Tiller
+external_ids:
+  spotify: spotify:track:0OVhQZkNe7lh0fQeH96EFW
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-get-too-high-bryson-tiller
 lyrics_url: https://genius.com/Bryson-tiller-dont-get-too-high-lyrics
 name: Don't Get Too High
@@ -11,6 +14,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2017-06-17'
+release_year: 2017
+runtime: 209040
 ---
 (Blow that dope, don't) Hey
 (Blow that dope, don't) Yeah

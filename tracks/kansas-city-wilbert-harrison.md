@@ -1,8 +1,11 @@
 ---
+album: An Introduction to Wilbert Harrison
 artists:
 - Wilbert Harrison
+external_ids:
+  spotify: spotify:track:2T4vR4OkNRMOS4fEAesPIM
 features: []
-genres: []
+first_released_as_single: false
 key: kansas-city-wilbert-harrison
 lyrics_url: https://genius.com/Wilbert-harrison-kansas-city-lyrics
 name: Kansas City
@@ -71,6 +74,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1959-07-27'
+release_year: 1950
+runtime: 144973
 ---
 I'm going to Kansas City
 Kansas City here I come

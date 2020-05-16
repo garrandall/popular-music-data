@@ -1,8 +1,11 @@
 ---
+album: Lonely Blue Boy
 artists:
 - Conway Twitty
+external_ids:
+  spotify: spotify:track:555aGlegOjCZVH9ifvf61s
 features: []
-genres: []
+first_released_as_single: false
 key: lonely-blue-boy-conway-twitty
 lyrics_url: https://www.musixmatch.com/lyrics/Conway-Twitty/Danny-Lonely-Blue-Boy
 name: Lonely Blue Boy
@@ -67,6 +70,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1960-04-04'
+release_year: 1959
+runtime: 135066
 ---
 My name should be trouble
 My name should be woe

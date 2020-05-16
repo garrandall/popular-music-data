@@ -1,8 +1,11 @@
 ---
+album: C'Mon C'Mon
 artists:
 - Sheryl Crow
+external_ids:
+  spotify: spotify:track:215JYyyUnrJ98NK3KEwu6d
 features: []
-genres: []
+first_released_as_single: false
 key: soak-up-the-sun-sheryl-crow
 lyrics_url: https://www.azlyrics.com/lyrics/sherylcrow/soakupthesun.html
 name: Soak Up The Sun
@@ -123,8 +126,9 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '2002-10-26'
+release_year: 2002
+runtime: 292306
 ---
-
 My friend the communist 
 Holds meetings in his RV
 I can't afford his gas
@@ -193,6 +197,3 @@ I'm looking up
 I'm gonna soak up the sun
 I got my 45 on
 So I can rock on
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Do The John Wall
 artists:
 - Troop 41
+external_ids:
+  spotify: spotify:track:7FFqcNFMdRjWYE9PfN4Zu7
 features: []
-genres: []
+first_released_as_single: true
 key: do-the-john-wall-troop-41
 lyrics_url: https://www.azlyrics.com/lyrics/troop41/dothejohnwall.html
 name: Do The John Wall
@@ -39,8 +42,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2011-03-05'
+release_year: 2011
+runtime: 263880
 ---
-
 Raleigh be the city where we like to do the dance
 
 Flex to left throw some money out ya hands, we do it for the city, ya we do it for the fans to ball like wall boy you gotta do the dance
@@ -120,6 +124,3 @@ Raleigh be the city where we like to do the dance
 Flex to left throw some money out ya hands, we do it for the city, ya we do it for the fans to ball like wall boy you gotta do the dance
 
 Everybody do the john wall, john wall, john wall, john wall, john wall, john wall, john wall, john wall
-
-
-

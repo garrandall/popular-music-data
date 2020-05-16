@@ -1,8 +1,11 @@
 ---
+album: Live At De Montfort Hall, Leicester 1977
 artists:
 - Gallagher And Lyle
+external_ids:
+  spotify: spotify:track:6SXCIiTWLlfyz2HDJtB0cE
 features: []
-genres: []
+first_released_as_single: false
 key: i-wanna-stay-with-you-gallagher-and-lyle
 lyrics_url: https://genius.com/Gallagher-and-lyle-i-wanna-stay-with-you-lyrics
 name: I Wanna Stay With You
@@ -63,6 +66,8 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1976-07-10'
+release_year: 1976
+runtime: 206499
 ---
 Inside, outside, up and around
 Love set me up and love let me down

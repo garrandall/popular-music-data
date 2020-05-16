@@ -1,8 +1,11 @@
 ---
+album: Madman Across The Water
 artists:
 - Elton John
+external_ids:
+  spotify: spotify:track:2TVxnKdb3tqe1nhQWwwZCO
 features: []
-genres: []
+first_released_as_single: false
 key: tiny-dancer-elton-john
 lyrics_url: https://www.azlyrics.com/lyrics/eltonjohn/tinydancer.html
 name: Tiny Dancer
@@ -35,8 +38,9 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1972-04-15'
+release_year: 1971
+runtime: 377093
 ---
-
 Blue jean baby, L.A. lady, seamstress for the band
 Pretty eyed, pirate smile, you'll marry a music man
 Ballerina, you must have seen her dancing in the sand
@@ -86,6 +90,3 @@ Hold me closer tiny dancer
 Count the headlights on the highway
 Lay me down in sheets of linen
 You had a busy day today
-
-
-

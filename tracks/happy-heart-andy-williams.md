@@ -1,8 +1,11 @@
 ---
+album: Happy Heart
 artists:
 - Andy Williams
+external_ids:
+  spotify: spotify:track:5dcxuUQZI7nPldcNkxAR9v
 features: []
-genres: []
+first_released_as_single: false
 key: happy-heart-andy-williams
 lyrics_url: https://www.azlyrics.com/lyrics/andywilliams/happyheart.html
 name: Happy Heart
@@ -51,8 +54,9 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '1969-06-21'
+release_year: 1969
+runtime: 192466
 ---
-
 There's a certain sound
 Always follows me around
 When your close to me
@@ -89,6 +93,3 @@ Let me love you night and day
 In your arms I want to stay, oh my love
 
 La, la, la, la, la, la, la, la,
-
-
-

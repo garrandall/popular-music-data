@@ -1,8 +1,11 @@
 ---
+album: Troubadour
 artists:
 - George Strait
+external_ids:
+  spotify: spotify:track:7maV3I3KQNYpsOWYTOhGqn
 features: []
-genres: []
+first_released_as_single: false
 key: i-saw-god-today-george-strait
 lyrics_url: https://www.azlyrics.com/lyrics/georgestrait/isawgodtoday.html
 name: I Saw God Today
@@ -87,8 +90,9 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '2008-07-19'
+release_year: 2008
+runtime: 203200
 ---
-
 Just walked down the street to the coffee shop
 Had to take a break
 I've been by her side for eighteen hours straight
@@ -146,6 +150,3 @@ She's got her Mama's eyes
 My bran new baby girl
 She's a miracle
 I Saw God Today
-
-
-

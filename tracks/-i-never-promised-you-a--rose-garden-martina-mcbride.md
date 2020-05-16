@@ -1,8 +1,11 @@
 ---
+album: Timeless
 artists:
 - Martina McBride
+external_ids:
+  spotify: spotify:track:3UB02E0dG5TZwEwpeXboFa
 features: []
-genres: []
+first_released_as_single: true
 key: -i-never-promised-you-a--rose-garden-martina-mcbride
 lyrics_url: https://www.azlyrics.com/lyrics/martinamcbride/ineverpromisedyouarosegarden.html
 name: (I Never Promised You A) Rose Garden
@@ -15,8 +18,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2005-12-10'
+release_year: 2005
+runtime: 196400
 ---
-
 I beg your pardon I never promised you a rose garden
 Along with the sunshine there's gotta be a little rain sometime
 When you take you gotta give so live and let live and let go oh oh oh oh
@@ -49,6 +53,3 @@ Along with the sunshine there's gotta be a little rain sometime...
 
 I beg your pardon I never promised you a rose garden
 Along with the sunshine there's gotta be a little rain sometime...
-
-
-

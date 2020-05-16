@@ -1,8 +1,11 @@
 ---
+album: Rock with Sedaka
 artists:
 - Neil Sedaka
+external_ids:
+  spotify: spotify:track:1dyEgbiT6hWeNnwhgKsCzu
 features: []
-genres: []
+first_released_as_single: false
 key: the-diary-neil-sedaka
 lyrics_url: https://www.azlyrics.com/lyrics/neilsedaka/thediary.html
 name: The Diary
@@ -67,8 +70,9 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '1959-03-16'
+release_year: 1958
+runtime: 135533
 ---
-
 Whoa, oh
 
 How I'd like to look
@@ -101,6 +105,3 @@ Whoa, oh
 
 Oh, whoo, whoo, whoo, whoo, whoo
 Whoo
-
-
-

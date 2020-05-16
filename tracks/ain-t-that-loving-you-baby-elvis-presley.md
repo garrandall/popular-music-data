@@ -1,8 +1,11 @@
 ---
+album: Elvis' Gold Records, Vol. 4
 artists:
 - Elvis Presley
+external_ids:
+  spotify: spotify:track:1puwYWRSG7g0d8ChPmOV6t
 features: []
-genres: []
+first_released_as_single: false
 key: ain-t-that-loving-you-baby-elvis-presley
 lyrics_url: https://genius.com/Elvis-presley-aint-that-loving-you-baby-lyrics
 name: Ain't That Loving You Baby
@@ -47,6 +50,8 @@ rankings:
   rank: 38
   ranking_list: Billboard Hot 100
   start_date: '1964-12-12'
+release_year: 1964
+runtime: 143013
 ---
 I could ride around the world in an old oxcart
 And never let another girl thrill my heart

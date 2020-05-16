@@ -1,8 +1,11 @@
 ---
+album: The Last Rocket
 artists:
 - TakeOff
+external_ids:
+  spotify: spotify:track:1B4gJRq61xTs6r1O0Uq2iY
 features: []
-genres: []
+first_released_as_single: false
 key: casper-takeoff
 lyrics_url: https://www.azlyrics.com/lyrics/takeoff/casper.html
 name: Casper
@@ -11,8 +14,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2018-11-17'
+release_year: 2018
+runtime: 197079
 ---
-
 What do I want to do today?
 808 Mafia
 Um
@@ -112,6 +116,3 @@ I'ma ghost ride the Wraith
 Thinkin' 'bout coppin' that Don today (Skrrt)
 I'ma ghost ride the Wraith (Ghost)
 I'ma ghost ride the Wraith (Takeoff)
-
-
-

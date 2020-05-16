@@ -1,8 +1,11 @@
 ---
+album: Katy Lied
 artists:
 - Steely Dan
+external_ids:
+  spotify: spotify:track:1kn4dN91ha8qZS3pPYqjug
 features: []
-genres: []
+first_released_as_single: false
 key: black-friday-steely-dan
 lyrics_url: https://www.azlyrics.com/lyrics/steelydan/blackfriday.html
 name: Black Friday
@@ -35,8 +38,9 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '1975-07-05'
+release_year: 1975
+runtime: 221200
 ---
-
 When Black Friday comes
 I'll stand down by the door
 And catch the grey men when they
@@ -69,6 +73,3 @@ I'm gonna let it roll
 When Black Friday comes
 I'm gonna stake my claim
 I'll guess I'll change my name
-
-
-

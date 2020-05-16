@@ -1,8 +1,11 @@
 ---
+album: Touch
 artists:
 - The Supremes
+external_ids:
+  spotify: spotify:track:2djxoTjKyb4JVGv19s9ZxW
 features: []
-genres: []
+first_released_as_single: false
 key: nathan-jones-the-supremes
 lyrics_url: https://genius.com/The-supremes-nathan-jones-lyrics
 name: Nathan Jones
@@ -47,6 +50,8 @@ rankings:
   rank: 27
   ranking_list: Billboard Hot 100
   start_date: '1971-07-10'
+release_year: 1971
+runtime: 181360
 ---
 You packed your bags, as I recall
 And you walked slowly down the hall

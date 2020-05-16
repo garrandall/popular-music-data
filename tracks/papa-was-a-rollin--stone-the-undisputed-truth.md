@@ -1,8 +1,11 @@
 ---
+album: The Law Of The Land
 artists:
 - The Undisputed Truth
+external_ids:
+  spotify: spotify:track:1XwloNz9FH1feiKJE9teK1
 features: []
-genres: []
+first_released_as_single: false
 key: papa-was-a-rollin--stone-the-undisputed-truth
 lyrics_url: https://genius.com/The-undisputed-truth-papa-was-a-rollin-stone-lyrics
 name: Papa Was A Rollin' Stone
@@ -27,6 +30,8 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '1972-07-08'
+release_year: 1972
+runtime: 206440
 ---
 It was the third of September
 That day I'll always remember, yes I will

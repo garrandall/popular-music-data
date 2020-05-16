@@ -1,9 +1,12 @@
 ---
+album: Hookah
 artists:
 - Tyga
+external_ids:
+  spotify: spotify:track:3qQ6WFhcAx6LOH1UHz1c0U
 features:
 - Young Thug
-genres: []
+first_released_as_single: true
 key: hookah-tyga-young-thug
 lyrics_url: https://www.azlyrics.com/lyrics/tyga/hookah.html
 name: Hookah
@@ -52,9 +55,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2014-11-08'
+release_year: 2014
+runtime: 202320
 ---
-
-
 Thug
 Baby pass me the hookah
 Didn't describe
@@ -157,6 +160,3 @@ Baby, pass me the hookah, aye
 Baby, pass me the hookah
 Pass me the hookah, pass the hookah, pass the hookah
 For all my bitches that smoke hookah
-
-
-

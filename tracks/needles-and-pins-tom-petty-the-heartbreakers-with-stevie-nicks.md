@@ -1,9 +1,12 @@
 ---
+album: 'Pack Up The Plantation: Live!'
 artists:
 - Tom Petty & The Heartbreakers
+external_ids:
+  spotify: spotify:track:6Alshe3WYMVZRbYWgijYWT
 features:
 - Stevie Nicks
-genres: []
+first_released_as_single: false
 key: needles-and-pins-tom-petty-the-heartbreakers-with-stevie-nicks
 name: Needles And Pins
 rankings:
@@ -43,5 +46,7 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1986-03-29'
+release_year: 1985
+runtime: 145201
 ---
 

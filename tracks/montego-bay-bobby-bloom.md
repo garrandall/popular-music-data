@@ -1,8 +1,11 @@
 ---
+album: The Bobby Bloom Album
 artists:
 - Bobby Bloom
+external_ids:
+  spotify: spotify:track:6TBUBqz21JmF2hkeRbnwme
 features: []
-genres: []
+first_released_as_single: false
 key: montego-bay-bobby-bloom
 lyrics_url: https://genius.com/Bobby-bloom-montego-bay-lyrics
 name: Montego Bay
@@ -71,6 +74,8 @@ rankings:
   rank: 27
   ranking_list: Billboard Hot 100
   start_date: '1970-12-26'
+release_year: 1970
+runtime: 176466
 ---
 Vernon'll meet me when the BOAC lands
 Keys to the MG will be in his hands

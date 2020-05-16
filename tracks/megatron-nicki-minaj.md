@@ -1,8 +1,11 @@
 ---
+album: MEGATRON
 artists:
 - Nicki Minaj
+external_ids:
+  spotify: spotify:track:1ZDmxwg7Lywlx68b7SsJjj
 features: []
-genres: []
+first_released_as_single: true
 key: megatron-nicki-minaj
 lyrics_url: https://genius.com/Nicki-minaj-megatron-lyrics
 name: MEGATRON
@@ -27,6 +30,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2019-08-10'
+release_year: 2019
+runtime: 190746
 ---
 Brra-ta-ta-ta
 Brra-ta-ta-ta

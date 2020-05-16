@@ -1,8 +1,11 @@
 ---
+album: Reunion
 artists:
 - Miguel
+external_ids:
+  spotify: spotify:track:3swUsFhGxM2yT0k76ovONE
 features: []
-genres: []
+first_released_as_single: false
 key: coffee-miguel
 lyrics_url: https://www.azlyrics.com/lyrics/miguel/coffee.html
 name: Coffee
@@ -19,8 +22,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2015-07-18'
+release_year: 1963
+runtime: 189314
 ---
-
 I wish I could paint our love
 These moments in vibrant hues
 Wordplay turns into gun play
@@ -146,6 +150,3 @@ Now I'm swimming in that sin, that's baptism
 
 Pick a star in the sky
 We could both say goodbye
-
-
-

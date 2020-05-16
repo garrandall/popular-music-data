@@ -1,8 +1,11 @@
 ---
+album: Down Every Road 1962-1994
 artists:
 - Merle Haggard And The Strangers
+external_ids:
+  spotify: spotify:track:1gxuKSUMWFb53fG243CFl9
 features: []
-genres: []
+first_released_as_single: false
 key: everybody-s-had-the-blues-merle-haggard-and-the-strangers
 name: Everybody's Had The Blues
 rankings:
@@ -38,5 +41,7 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1973-10-20'
+release_year: 1973
+runtime: 187200
 ---
 

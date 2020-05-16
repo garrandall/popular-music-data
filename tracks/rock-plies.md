@@ -1,8 +1,11 @@
 ---
+album: Rock
 artists:
 - Plies
+external_ids:
+  spotify: spotify:track:0QVISdPWRllAmoDBG3DEHU
 features: []
-genres: []
+first_released_as_single: true
 key: rock-plies
 lyrics_url: https://genius.com/Plies-rock-lyrics
 name: Rock
@@ -27,6 +30,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2018-03-10'
+release_year: 2018
+runtime: 174653
 ---
 She is my rock, bust at the op
 Hold down the spot, beast with the box

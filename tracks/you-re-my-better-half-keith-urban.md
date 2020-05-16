@@ -1,8 +1,11 @@
 ---
+album: Be Here
 artists:
 - Keith Urban
+external_ids:
+  spotify: spotify:track:4C2eMvzGAzSDMjXrZeh2M2
 features: []
-genres: []
+first_released_as_single: false
 key: you-re-my-better-half-keith-urban
 lyrics_url: https://genius.com/Keith-urban-youre-my-better-half-lyrics
 name: You're My Better Half
@@ -87,6 +90,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2005-04-16'
+release_year: 2004
+runtime: 252600
 ---
 Car door slams, it's been a long day at work
 I'm out on the freeway and I'm wondering if it's all worth

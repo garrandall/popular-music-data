@@ -1,8 +1,11 @@
 ---
+album: Lost Pop & Doo Wop, Vol. 4
 artists:
 - Ronnie Love
+external_ids:
+  spotify: spotify:track:027cLcLR8uxfjAf8kLd8ng
 features: []
-genres: []
+first_released_as_single: false
 key: chills-and-fever-ronnie-love-and-his-orchestra
 lyrics_url: https://genius.com/Ronnie-love-chills-and-fever-lyrics
 name: Chills And Fever
@@ -23,6 +26,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1961-01-30'
+release_year: 1961
+runtime: 147480
 ---
 Whoa, chills and fever
 Whoa, chills and fever

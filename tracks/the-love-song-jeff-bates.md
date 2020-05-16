@@ -1,8 +1,11 @@
 ---
+album: Rainbow Man
 artists:
 - Jeff Bates
+external_ids:
+  spotify: spotify:track:3Bs3HwoCuS0UxMlSWodb9A
 features: []
-genres: []
+first_released_as_single: false
 key: the-love-song-jeff-bates
 lyrics_url: https://genius.com/Jeff-bates-the-love-song-lyrics
 name: The Love Song
@@ -55,6 +58,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2003-08-09'
+release_year: 2003
+runtime: 245200
 ---
 First time I felt it
 I think I was five years old

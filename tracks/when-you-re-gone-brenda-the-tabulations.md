@@ -1,9 +1,12 @@
 ---
+album: Dry Your Eyes
 artists:
 - Brenda
 - The Tabulations
+external_ids:
+  spotify: spotify:track:1fZC5RQre8kgyhqNVflPTm
 features: []
-genres: []
+first_released_as_single: false
 key: when-you-re-gone-brenda-the-tabulations
 lyrics_url: https://genius.com/Brenda-and-the-tabulations-when-youre-gone-lyrics
 name: When You're Gone
@@ -36,6 +39,8 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1967-12-16'
+release_year: 1967
+runtime: 155040
 ---
 Never goodbye, baby
 It'll be never goodbye, baby

@@ -1,8 +1,11 @@
 ---
+album: The Open Door
 artists:
 - Evanescence
+external_ids:
+  spotify: spotify:track:663Karu2rvKLdnY0eo1n3M
 features: []
-genres: []
+first_released_as_single: false
 key: call-me-when-you-re-sober-evanescence
 lyrics_url: https://genius.com/Evanescence-call-me-when-youre-sober-lyrics
 name: Call Me When You're Sober
@@ -95,6 +98,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '2007-01-27'
+release_year: 2006
+runtime: 214706
 ---
 Don't cry to me
 If you loved me

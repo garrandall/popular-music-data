@@ -1,9 +1,12 @@
 ---
+album: Come And Get These Memories
 artists:
 - Martha
 - The Vandellas
+external_ids:
+  spotify: spotify:track:5gwvsIrTVL4F76tn9xEhQ3
 features: []
-genres: []
+first_released_as_single: false
 key: come-and-get-these-memories-martha-the-vandellas
 lyrics_url: https://www.musixmatch.com/lyrics/Martha-Reeves-feat-The-Vandellas-20/Come-and-Get-These-Memories-2
 name: Come And Get These Memories
@@ -72,6 +75,8 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1963-07-20'
+release_year: 1963
+runtime: 143666
 ---
 Lover you've gone from me
 And left behind so many memories

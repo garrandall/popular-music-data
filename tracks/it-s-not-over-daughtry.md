@@ -1,8 +1,11 @@
 ---
+album: Daughtry
 artists:
 - Daughtry
+external_ids:
+  spotify: spotify:track:234RqTZmnDTnxWlVciXHLD
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-not-over-daughtry
 lyrics_url: https://www.azlyrics.com/lyrics/daughtry/itsnotover.html
 name: It's Not Over
@@ -123,8 +126,9 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '2007-06-23'
+release_year: 2006
+runtime: 215026
 ---
-
 I was blown away.
 What could I say?
 It all seemed to make sense.
@@ -182,6 +186,3 @@ It's not over, yeah...
 This love is killing me,
 But you're the only one.
 It's not over.
-
-
-

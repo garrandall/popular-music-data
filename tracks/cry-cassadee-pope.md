@@ -1,8 +1,11 @@
 ---
+album: The Complete Season 3 Collection (The Voice Performance)
 artists:
 - Cassadee Pope
+external_ids:
+  spotify: spotify:track:4sBm1Ek1ieohxc8qmkBzjH
 features: []
-genres: []
+first_released_as_single: false
 key: cry-cassadee-pope
 lyrics_url: https://genius.com/Cassadee-pope-cry-the-voice-performance-lyrics
 name: Cry
@@ -11,6 +14,8 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '2013-01-05'
+release_year: 2012
+runtime: 208320
 ---
 If I had just one tear running down your cheek
 Maybe I could cope maybe I'd get some sleep

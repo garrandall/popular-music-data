@@ -1,8 +1,11 @@
 ---
+album: FutureSex/LoveSounds
 artists:
 - Justin Timberlake
+external_ids:
+  spotify: spotify:track:0O45fw2L5vsWpdsOdXwNAR
 features: []
-genres: []
+first_released_as_single: false
 key: sexyback-justin-timberlake
 lyrics_url: https://www.azlyrics.com/lyrics/justintimberlake/sexyback.html
 name: SexyBack
@@ -151,8 +154,9 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '2007-03-24'
+release_year: 2006
+runtime: 242733
 ---
-
 I'm bringing sexy back
 Them other boys don't know how to act
 I think it's special, what's behind your back?
@@ -272,6 +276,3 @@ Get your sexy on
 You ready? Yes!
 You ready? Yes!
 You ready? Yes!
-
-
-

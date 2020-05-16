@@ -1,8 +1,11 @@
 ---
+album: The Best of Jewel Akens
 artists:
 - Jewel Akens
+external_ids:
+  spotify: spotify:track:0XfQwE6S9qvGbXTD5uoalh
 features: []
-genres: []
+first_released_as_single: false
 key: georgie-porgie-jewel-akens
 lyrics_url: https://www.musixmatch.com/lyrics/Jewel-Akens/Georgie-Porgie
 name: Georgie Porgie
@@ -27,6 +30,8 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '1965-05-29'
+release_year: 1965
+runtime: 128613
 ---
 Hey, baby
 It's your Georgie Porgie

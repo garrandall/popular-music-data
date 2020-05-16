@@ -1,8 +1,11 @@
 ---
+album: Moontan
 artists:
 - Golden Earring
+external_ids:
+  spotify: spotify:track:5t7tuBGnmy1AegGj6WMvqt
 features: []
-genres: []
+first_released_as_single: false
 key: candy-s-going-bad-golden-earring
 lyrics_url: https://genius.com/Golden-earring-candys-going-bad-lyrics
 name: Candy's Going Bad
@@ -23,6 +26,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1974-11-09'
+release_year: 1973
+runtime: 372533
 ---
 Candy took the pearls, got ahead of the girls
 Got on top and found the secret entrance

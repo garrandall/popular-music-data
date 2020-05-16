@@ -1,8 +1,12 @@
 ---
+album: Hip Hop 100 Hits - Urban rap & R n B anthems inc. Jay Z, A$ap Rocky, Wu-Tang
+  Clan & Nas
 artists:
 - Delinquent Habits
+external_ids:
+  spotify: spotify:track:1dstLlsgEFPsaiccsUz2SP
 features: []
-genres: []
+first_released_as_single: false
 key: tres-delinquentes-delinquent-habits
 lyrics_url: https://genius.com/Delinquent-habits-tres-delinquentes-lyrics
 name: Tres Delinquentes
@@ -87,6 +91,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1996-09-07'
+release_year: 1996
+runtime: 255693
 ---
 I flex my brazos hardcore down for the clicka'
 Who's that eminating funk through the speaka'

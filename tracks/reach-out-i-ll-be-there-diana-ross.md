@@ -1,8 +1,11 @@
 ---
+album: Surrender
 artists:
 - Diana Ross
+external_ids:
+  spotify: spotify:track:0Uoy6VBK6vAVVkClwq4a8w
 features: []
-genres: []
+first_released_as_single: false
 key: reach-out-i-ll-be-there-diana-ross
 lyrics_url: https://genius.com/Diana-ross-reach-out-ill-be-there-lyrics
 name: Reach Out I'll Be There
@@ -35,6 +38,8 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '1971-06-12'
+release_year: 1971
+runtime: 334973
 ---
 If you feel that
 You can't go on

@@ -1,8 +1,11 @@
 ---
+album: Pants On The Ground
 artists:
 - General Larry Platt
+external_ids:
+  spotify: spotify:track:2aYguRih2pKaKXiW7UFrbA
 features: []
-genres: []
+first_released_as_single: true
 key: pants-on-the-ground-general-larry-platt
 lyrics_url: https://genius.com/General-larry-platt-pants-on-the-ground-lyrics
 name: Pants On The Ground
@@ -19,6 +22,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '2010-03-13'
+release_year: 2010
+runtime: 210546
 ---
 Pants on the ground! Pants on the ground!
 

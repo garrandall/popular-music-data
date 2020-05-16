@@ -1,8 +1,11 @@
 ---
+album: 52nd Street
 artists:
 - Billy Joel
+external_ids:
+  spotify: spotify:track:4ZoBC5MhSEzuknIgAkBaoT
 features: []
-genres: []
+first_released_as_single: false
 key: my-life-billy-joel
 lyrics_url: https://genius.com/Billy-joel-my-life-lyrics
 name: My Life
@@ -83,6 +86,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1979-03-10'
+release_year: 1978
+runtime: 284000
 ---
 Got a call from an old friend, we used to be real close
 Said he couldn't go on the American way

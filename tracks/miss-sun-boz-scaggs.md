@@ -1,8 +1,11 @@
 ---
+album: Greatest Hits Live
 artists:
 - Boz Scaggs
+external_ids:
+  spotify: spotify:track:6L488kGfWqESwrtTwL3AQ2
 features: []
-genres: []
+first_released_as_single: false
 key: miss-sun-boz-scaggs
 lyrics_url: https://www.musixmatch.com/lyrics/Boz-Scaggs/Miss-Sun
 name: Miss Sun
@@ -75,6 +78,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1981-03-21'
+release_year: 1980
+runtime: 328906
 ---
 Been thinking 'bout you all night
 Guess you got me in your spell

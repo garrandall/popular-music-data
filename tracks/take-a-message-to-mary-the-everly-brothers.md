@@ -1,8 +1,11 @@
 ---
+album: The Greatest Hits Album (The Best Of)
 artists:
 - The Everly Brothers
+external_ids:
+  spotify: spotify:track:0gkeJ4mW3kpXt3li6WFkQV
 features: []
-genres: []
+first_released_as_single: false
 key: take-a-message-to-mary-the-everly-brothers
 lyrics_url: https://www.azlyrics.com/lyrics/everlybrothers/takeamessagetomary.html
 name: Take A Message To Mary
@@ -59,8 +62,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1959-06-22'
+release_year: 1957
+runtime: 148398
 ---
-
 These are the words of a frontier lad
 Who lost his love when he turned bad
 
@@ -96,6 +100,3 @@ Oh, Lord, this cell is cold
 
 Mary, Mary
 Oh, Lord this cell is cold
-
-
-

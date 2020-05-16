@@ -1,9 +1,12 @@
 ---
+album: Take Care
 artists:
 - Drake
+external_ids:
+  spotify: spotify:track:0LhuXw3d3aS71nKCb7AwNC
 features:
 - Rihanna
-genres: []
+first_released_as_single: true
 key: take-care-drake-rihanna
 lyrics_url: https://www.azlyrics.com/lyrics/drake/takecare.html
 name: Take Care
@@ -144,9 +147,9 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2012-07-21'
+release_year: 2011
+runtime: 249808
 ---
-
-
 I know you've been hurt by someone else
 I can tell by the way you carry yourself
 If you let me, here's what I'll do
@@ -218,6 +221,3 @@ I can tell by the way you carry yourself
 If you let me, here's what I'll do
 I'll take care of you
 I've loved and I've lost
-
-
-

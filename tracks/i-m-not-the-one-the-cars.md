@@ -1,8 +1,11 @@
 ---
+album: Shake It Up (Expanded)
 artists:
 - The Cars
+external_ids:
+  spotify: spotify:track:42Mf4dY4gail6pfPiyifgQ
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-not-the-one-the-cars
 lyrics_url: https://genius.com/The-cars-im-not-the-one-lyrics
 name: I'm Not The One
@@ -51,6 +54,8 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1986-04-12'
+release_year: 1981
+runtime: 249866
 ---
 I'm not the one, that you'll be shootin' for
 I'm not the one, who's coming back for more

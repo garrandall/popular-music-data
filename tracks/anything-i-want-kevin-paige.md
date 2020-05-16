@@ -1,8 +1,11 @@
 ---
+album: Kevin Paige
 artists:
 - Kevin Paige
+external_ids:
+  spotify: spotify:track:612ZS6tWAnroELI74JrrrW
 features: []
-genres: []
+first_released_as_single: false
 key: anything-i-want-kevin-paige
 lyrics_url: https://genius.com/Kevin-paige-anything-i-want-lyrics
 name: Anything I Want
@@ -55,6 +58,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1990-04-07'
+release_year: 1989
+runtime: 287733
 ---
 People always sayin' what you can and cannot do
 Well listen to me people I just do what I want to

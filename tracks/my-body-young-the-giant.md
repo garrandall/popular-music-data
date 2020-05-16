@@ -1,8 +1,11 @@
 ---
+album: Young The Giant
 artists:
 - Young The Giant
+external_ids:
+  spotify: spotify:track:1KDYN3odJHnj9pqGHN3FVs
 features: []
-genres: []
+first_released_as_single: false
 key: my-body-young-the-giant
 lyrics_url: https://genius.com/Young-the-giant-my-body-lyrics
 name: My Body
@@ -11,6 +14,8 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '2011-09-17'
+release_year: 2011
+runtime: 244400
 ---
 Stop! The train is riding
 Down to the station

@@ -1,9 +1,12 @@
 ---
+album: I Decided.
 artists:
 - Big Sean
+external_ids:
+  spotify: spotify:track:04gpBAQIjpgdUDOa1Et0c4
 features:
 - Eminem
-genres: []
+first_released_as_single: false
 key: no-favors-big-sean-eminem
 lyrics_url: https://genius.com/Genius-turkce-ceviri-big-sean-no-favors-feat-eminem-turkce-ceviri-lyrics
 name: No Favors
@@ -20,6 +23,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2017-03-11'
+release_year: 2017
+runtime: 325840
 ---
 Yapmak, yapmak, yapmak, dostum, yapmak zorundayız
 Elini çıkarmana gerek yok, tokalaşmayacağız

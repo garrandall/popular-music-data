@@ -1,8 +1,11 @@
 ---
+album: cradlesong
 artists:
 - Rob Thomas
+external_ids:
+  spotify: spotify:track:4L9J2or96xvWhQwWw09fHO
 features: []
-genres: []
+first_released_as_single: false
 key: mockingbird-rob-thomas
 lyrics_url: https://www.azlyrics.com/lyrics/robthomas/mockingbird.html
 name: Mockingbird
@@ -23,8 +26,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2010-09-11'
+release_year: 2009
+runtime: 240320
 ---
-
 Here we stand
 Somewhere in between this moment and the end
 Will we bend
@@ -55,6 +59,3 @@ I don't wanna love you now
 If you'll just leave some day
 I don't wanna turn around
 If you'll just walk away
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Getting Dressed In The Dark
 artists:
 - Jaron And The Long Road To Love
+external_ids:
+  spotify: spotify:track:3HMMQkT3IMvMBbvxUNPpK3
 features: []
-genres: []
+first_released_as_single: false
 key: pray-for-you-jaron-and-the-long-road-to-love
 lyrics_url: https://www.azlyrics.com/lyrics/jaronandthelongroadtolove/prayforyou.html
 name: Pray For You
@@ -87,8 +90,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2010-08-21'
+release_year: 2010
+runtime: 190240
 ---
-
 I haven't been in church since I don't remember when
 Things were goin' great 'til they fell apart again
 So I listened to the preacher as he told me what to do
@@ -122,6 +126,3 @@ I pray all your dreams never come true
 Just know wherever you are, near or far, in your house or in your car
 wherever you are honey, I pray for you
 I pray for you
-
-
-

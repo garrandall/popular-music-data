@@ -1,9 +1,12 @@
 ---
+album: Very Necessary
 artists:
 - Salt-N-Pepa
+external_ids:
+  spotify: spotify:track:7IioziQQTPrYiKWyIp3Nmg
 features:
 - En Vogue
-genres: []
+first_released_as_single: true
 key: whatta-man-salt-n-pepa-en-vogue
 lyrics_url: https://genius.com/Salt-n-pepa-whatta-man-lyrics
 name: Whatta Man
@@ -124,6 +127,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1994-08-06'
+release_year: 1993
+runtime: 269493
 ---
 Yeee-hey, yeah
 Alright

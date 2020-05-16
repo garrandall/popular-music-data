@@ -1,8 +1,11 @@
 ---
+album: Ferlin Husky
 artists:
 - Ferlin Husky
+external_ids:
+  spotify: spotify:track:2pwa7GLDGVxefz0USgaPi2
 features: []
-genres: []
+first_released_as_single: false
 key: wings-of-a-dove-ferlin-husky
 lyrics_url: https://genius.com/Ferlin-husky-wings-of-a-dove-lyrics
 name: Wings Of A Dove
@@ -79,6 +82,8 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '1961-03-27'
+release_year: 1960
+runtime: 139154
 ---
 On the wings of a snow white dove
 He sends his pure sweet love

@@ -1,8 +1,11 @@
 ---
+album: The One
 artists:
 - Frankie J
+external_ids:
+  spotify: spotify:track:05wbsMDvcaD56O4SnESOaJ
 features: []
-genres: []
+first_released_as_single: false
 key: how-to-deal-frankie-j
 lyrics_url: https://www.azlyrics.com/lyrics/frankiej/howtodeal.html
 name: How To Deal
@@ -83,8 +86,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2005-10-01'
+release_year: 2003
+runtime: 230506
 ---
-
 Sometimes a man has to choose
 And do something he doesn't wanna do
 Do I live my life with you as my wife
@@ -137,6 +141,3 @@ you just deal with it,deal with it
 How do you cope when
 The one you love is with somebody else
 And there's nothing you could do about it...
-
-
-

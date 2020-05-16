@@ -1,8 +1,11 @@
 ---
+album: Do the Funky Washing Machine
 artists:
 - The Esquires
+external_ids:
+  spotify: spotify:track:73U6zVKu1pumny4voFbmeT
 features: []
-genres: []
+first_released_as_single: false
 key: you-ve-got-the-power-the-esquires
 name: You've Got The Power
 rankings:
@@ -26,5 +29,7 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1969-01-25'
+release_year: 1968
+runtime: 155400
 ---
 

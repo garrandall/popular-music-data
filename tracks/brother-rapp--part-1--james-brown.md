@@ -1,8 +1,11 @@
 ---
+album: Sex Machine
 artists:
 - James Brown
+external_ids:
+  spotify: spotify:track:0W4kDgplQHeGQjh4XfqosI
 features: []
-genres: []
+first_released_as_single: false
 key: brother-rapp--part-1--james-brown
 lyrics_url: https://www.musixmatch.com/lyrics/James-Brown/Brother-Rapp
 name: Brother Rapp (Part 1)
@@ -39,6 +42,8 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '1970-06-20'
+release_year: 1970
+runtime: 309240
 ---
 Yeah, yeah, yeah, yeah
 Baby, here I come

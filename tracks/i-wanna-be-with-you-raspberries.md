@@ -1,8 +1,11 @@
 ---
+album: Fresh
 artists:
 - Raspberries
+external_ids:
+  spotify: spotify:track:7AC2sIU1IhrsNsI5x3dImr
 features: []
-genres: []
+first_released_as_single: false
 key: i-wanna-be-with-you-raspberries
 lyrics_url: https://www.azlyrics.com/lyrics/raspberries/iwannabewithyou.html
 name: I Wanna Be With You
@@ -51,8 +54,9 @@ rankings:
   rank: 31
   ranking_list: Billboard Hot 100
   start_date: '1973-02-03'
+release_year: 1972
+runtime: 187720
 ---
-
 If we were older
 We wouldn't have to be worried tonight
 
@@ -71,6 +75,3 @@ Hold me tight
 Our love could live forever after tonight
 If you believe that what we're doing is right
 Close your eyes and be still
-
-
-

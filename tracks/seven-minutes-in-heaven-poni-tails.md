@@ -1,8 +1,11 @@
 ---
+album: Born Too Late
 artists:
 - Poni-Tails
+external_ids:
+  spotify: spotify:track:2l6lkbfcTcYWRIcIrU3GAE
 features: []
-genres: []
+first_released_as_single: false
 key: seven-minutes-in-heaven-poni-tails
 lyrics_url: https://genius.com/The-poni-tails-seven-minutes-in-heaven-lyrics
 name: Seven Minutes In Heaven
@@ -19,6 +22,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1958-12-22'
+release_year: 1958
+runtime: 154466
 ---
 I want seven minutes in heaven
 Give me up 'til eleven

@@ -1,9 +1,12 @@
 ---
+album: In Case You're In Love
 artists:
 - Sonny
 - Cher
+external_ids:
+  spotify: spotify:track:1WLidmnJgWxGyupQ3jgdGd
 features: []
-genres: []
+first_released_as_single: false
 key: little-man-sonny-cher
 lyrics_url: https://www.azlyrics.com/lyrics/sonnycher/littleman.html
 name: Little Man
@@ -36,8 +39,9 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1966-11-12'
+release_year: 1966
+runtime: 202026
 ---
-
 Little man
 When you stand by my side
 Then I know I don't have
@@ -71,4 +75,3 @@ And it will always be
 So little man, please understand
 In this world with all its land
 You're all I see
-

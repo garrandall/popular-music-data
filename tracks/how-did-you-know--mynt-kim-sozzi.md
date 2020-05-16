@@ -1,9 +1,12 @@
 ---
+album: 'Hi-Bias: Now Dance 4'
 artists:
 - Mynt
+external_ids:
+  spotify: spotify:track:0n7lRfotDm9SToUM0UOIYD
 features:
 - Kim Sozzi
-genres: []
+first_released_as_single: false
 key: how-did-you-know--mynt-kim-sozzi
 lyrics_url: https://genius.com/Mynt-how-did-you-know-feat-kim-sozzi-lyrics
 name: How Did You Know?
@@ -16,6 +19,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2004-09-11'
+release_year: 2004
+runtime: 468292
 ---
 Im in a spin
 Im giving in

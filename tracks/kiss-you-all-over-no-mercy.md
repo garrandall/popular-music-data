@@ -1,8 +1,11 @@
 ---
+album: My Promise
 artists:
 - No Mercy
+external_ids:
+  spotify: spotify:track:69DUJJ9xWtS12GOWDSq4XW
 features: []
-genres: []
+first_released_as_single: false
 key: kiss-you-all-over-no-mercy
 lyrics_url: https://genius.com/No-mercy-kiss-you-all-over-lyrics
 name: Kiss You All Over
@@ -19,6 +22,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1997-11-29'
+release_year: 1996
+runtime: 274400
 ---
 When I get home babe, I'm gonna light your fire
 All day I've been thinking about you babe

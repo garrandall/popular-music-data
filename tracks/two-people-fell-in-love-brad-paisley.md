@@ -1,8 +1,11 @@
 ---
+album: Part II
 artists:
 - Brad Paisley
+external_ids:
+  spotify: spotify:track:154grZhOoDf2FDTnS2BpK6
 features: []
-genres: []
+first_released_as_single: false
 key: two-people-fell-in-love-brad-paisley
 lyrics_url: https://www.azlyrics.com/lyrics/bradpaisley/twopeoplefellinlove.html
 name: Two People Fell In Love
@@ -79,8 +82,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2001-08-25'
+release_year: 2001
+runtime: 247173
 ---
-
 A baby's born in the middle of the night in a local delivery room
 They grab his feet, smack him till he cries he goes home the next afternoon
 'Fore you know it he's off to school and then he graduates in May
@@ -129,6 +133,3 @@ All because two people fell in love
 
 A baby's born in the middle of the night in a local delivery room
 They grab his feet, smack him till he cries he goes home the next afternoon
-
-
-

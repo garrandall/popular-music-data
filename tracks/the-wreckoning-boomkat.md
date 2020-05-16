@@ -1,8 +1,11 @@
 ---
+album: Boomkatalog One
 artists:
 - Boomkat
+external_ids:
+  spotify: spotify:track:06suf4o6wEAbT0vBKCv9KX
 features: []
-genres: []
+first_released_as_single: true
 key: the-wreckoning-boomkat
 lyrics_url: https://www.azlyrics.com/lyrics/boomkat/thewreckoning.html
 name: The Wreckoning
@@ -15,8 +18,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2003-03-29'
+release_year: 2003
+runtime: 200653
 ---
-
 I came I saw I kicked some ass
 The pain I cause it makes me laugh
 'Cause the way I do my thing is strange
@@ -116,6 +120,3 @@ The wreckoning
 The wreckoning
 The wreckoning
 I'm walking out the door
-
-
-

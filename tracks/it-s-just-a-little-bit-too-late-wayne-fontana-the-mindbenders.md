@@ -1,9 +1,13 @@
 ---
+album: The Best Of Wayne Fontana & The Mindbenders 20th Century Masters The Millennium
+  Collection
 artists:
 - Wayne Fontana
 - The Mindbenders
+external_ids:
+  spotify: spotify:track:0xUt2TLACg0gLlDGWsceGd
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-just-a-little-bit-too-late-wayne-fontana-the-mindbenders
 lyrics_url: https://www.musixmatch.com/lyrics/Wayne-Fontana-Feat-The-Mindbenders-2/Its-Just-a-Little-Bit-Too-Late
 name: It's Just A Little Bit Too Late
@@ -40,6 +44,8 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '1965-07-31'
+release_year: 1965
+runtime: 140826
 ---
 What good does it do
 To worry about the past

@@ -1,8 +1,11 @@
 ---
+album: Meant To Be Mint
 artists:
 - Mint Condition
+external_ids:
+  spotify: spotify:track:5PsY36TgdGdCoYJAF7075a
 features: []
-genres: []
+first_released_as_single: false
 key: forever-in-your-eyes-mint-condition
 lyrics_url: https://www.azlyrics.com/lyrics/mintcondition/foreverinyoureyes.html
 name: Forever In Your Eyes
@@ -39,8 +42,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1992-08-08'
+release_year: 1991
+runtime: 312693
 ---
-
 It came unannounced.
 This feeling I feel for you.
 I had to know was it what you felt too.
@@ -97,6 +101,3 @@ Do I wanna hold you?
 Your head on my shoulder.
 With you, I'll never tire.
 We'll take it higher and higher.
-
-
-

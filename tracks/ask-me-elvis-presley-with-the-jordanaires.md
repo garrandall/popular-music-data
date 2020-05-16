@@ -1,9 +1,12 @@
 ---
+album: Today, Tomorrow and Forever
 artists:
 - Elvis Presley
 - The Jordanaires
+external_ids:
+  spotify: spotify:track:2MAkKS7m1lVuZFdsryhGiE
 features: []
-genres: []
+first_released_as_single: false
 key: ask-me-elvis-presley-with-the-jordanaires
 lyrics_url: https://www.musixmatch.com/lyrics/Elvis-Presley-feat-The-Jordanaires/Ask-Me-Take-2
 name: Ask Me
@@ -56,6 +59,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1964-12-26'
+release_year: 1964
+runtime: 134920
 ---
 Ask me if I wanted to caress you
 And I'd confess

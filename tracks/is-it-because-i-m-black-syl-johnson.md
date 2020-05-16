@@ -1,8 +1,11 @@
 ---
+album: Is It Because I'm Black
 artists:
 - Syl Johnson
+external_ids:
+  spotify: spotify:track:2tqd5MGF8wXhpHoOKXoF3A
 features: []
-genres: []
+first_released_as_single: false
 key: is-it-because-i-m-black-syl-johnson
 lyrics_url: https://www.musixmatch.com/lyrics/Syl-Johnson/Is-It-Because-I-m-Black
 name: Is It Because I'm Black
@@ -31,6 +34,8 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '1970-01-17'
+release_year: 1969
+runtime: 454853
 ---
 Syl Johnson
 

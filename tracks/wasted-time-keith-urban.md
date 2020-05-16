@@ -1,8 +1,11 @@
 ---
+album: Ripcord
 artists:
 - Keith Urban
+external_ids:
+  spotify: spotify:track:13wYXGimJ5fANFu0y2pqG1
 features: []
-genres: []
+first_released_as_single: false
 key: wasted-time-keith-urban
 lyrics_url: https://www.azlyrics.com/lyrics/keithurban/wastedtime.html
 name: Wasted Time
@@ -75,8 +78,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2016-09-03'
+release_year: 2016
+runtime: 233826
 ---
-
 The rain is coming down tonight
 I'm smiling looking at this photograph
 I hear that song and I'm flying right back to when we had it made
@@ -134,6 +138,3 @@ Hey, you know oh
 All that wasted time
 Don't you feel it coming on back now?
 Time, time, time
-
-
-

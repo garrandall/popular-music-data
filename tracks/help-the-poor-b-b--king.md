@@ -1,8 +1,11 @@
 ---
+album: Live At The Regal
 artists:
 - B.B. King
+external_ids:
+  spotify: spotify:track:5qcrexsUJ4AYyxw7zn3YKi
 features: []
-genres: []
+first_released_as_single: false
 key: help-the-poor-b-b--king
 lyrics_url: https://www.azlyrics.com/lyrics/bbking/helpthepoor.html
 name: Help The Poor
@@ -23,8 +26,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1971-06-19'
+release_year: 1964
+runtime: 158333
 ---
-
 Help the poor
 Won't you help poor me
 I need help from you baby
@@ -73,6 +77,3 @@ You got what it takes baby
 To pull me through
 Help the poor
 Oh baby won't you help poor me
-
-
-

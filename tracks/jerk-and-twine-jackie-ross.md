@@ -1,8 +1,11 @@
 ---
+album: Chess Sing A Song Of Soul
 artists:
 - Jackie Ross
+external_ids:
+  spotify: spotify:track:21f8rcouzIT9PR9j78f5MR
 features: []
-genres: []
+first_released_as_single: false
 key: jerk-and-twine-jackie-ross
 lyrics_url: https://www.musixmatch.com/lyrics/Jackie-Ross/Jerk-and-Twine
 name: Jerk And Twine
@@ -23,6 +26,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1965-02-20'
+release_year: 1965
+runtime: 167685
 ---
 Hey - hey hey
 Oh-oh, whoa oh oh, oh oh

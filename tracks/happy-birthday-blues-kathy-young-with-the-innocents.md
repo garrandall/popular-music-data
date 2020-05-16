@@ -1,7 +1,8 @@
 ---
 artists:
-- Kathy Young With The Innocents
-features: []
+- Kathy Young
+features:
+- The Innocents
 genres: []
 key: happy-birthday-blues-kathy-young-with-the-innocents
 lyrics_url: https://www.musixmatch.com/lyrics/Kathy-Young-with-The-Innocents/Happy-Birthday-Blues

@@ -1,8 +1,11 @@
 ---
+album: '1984'
 artists:
 - Van Halen
+external_ids:
+  spotify: spotify:track:6QDbGdbJ57Mtkflsg42WV5
 features: []
-genres: []
+first_released_as_single: false
 key: hot-for-teacher-van-halen
 lyrics_url: https://genius.com/Van-halen-hot-for-teacher-lyrics
 name: Hot For Teacher
@@ -35,6 +38,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1984-12-08'
+release_year: 1984
+runtime: 282746
 ---
 "Oh wow, man, that's it"
 "Wait a second, man

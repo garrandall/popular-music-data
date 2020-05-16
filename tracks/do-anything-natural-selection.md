@@ -1,8 +1,11 @@
 ---
+album: Natural Selection
 artists:
 - Natural Selection
+external_ids:
+  spotify: spotify:track:5nNwxsg6vS3pKcLNcAvRWP
 features: []
-genres: []
+first_released_as_single: false
 key: do-anything-natural-selection
 lyrics_url: https://genius.com/Natural-selection-do-anything-lyrics
 name: Do Anything
@@ -91,6 +94,8 @@ rankings:
   rank: 27
   ranking_list: Billboard Hot 100
   start_date: '1991-12-28'
+release_year: 1991
+runtime: 237373
 ---
 Oh yeah
 Whatcha gonna do for me

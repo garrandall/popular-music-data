@@ -1,8 +1,11 @@
 ---
+album: The Man Who Invented Soul
 artists:
 - Sam Cooke
+external_ids:
+  spotify: spotify:track:3G7spgNysEke1Fr8ZYYbwg
 features: []
-genres: []
+first_released_as_single: false
 key: teenage-sonata-sam-cooke
 lyrics_url: https://www.azlyrics.com/lyrics/samcooke/teenagesonata.html
 name: Teenage Sonata
@@ -35,8 +38,9 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '1960-04-25'
+release_year: 1960
+runtime: 160440
 ---
-
 Here, here in the moonlight
 Hold me while I sing to you
 My teenage sonata
@@ -56,6 +60,3 @@ But my teenage sonata
 Will tell you that my love is real
 My love is real
 My love is real
-
-
-

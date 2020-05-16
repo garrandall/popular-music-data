@@ -1,8 +1,11 @@
 ---
+album: Listen Without Prejudice / MTV Unplugged
 artists:
 - George Michael
+external_ids:
+  spotify: spotify:track:4HqzrFaDWY2MdnYnEGf5Vu
 features: []
-genres: []
+first_released_as_single: false
 key: waiting-for-that-day-george-michael
 lyrics_url: https://www.azlyrics.com/lyrics/georgemichael/waitingforthatday.html
 name: Waiting For That Day
@@ -47,8 +50,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1991-03-23'
+release_year: 1991
+runtime: 290066
 ---
-
 So every day I see you in some other face
 They crack a smile, talk a while
 Try to take your place
@@ -109,6 +113,3 @@ I know
 You hear these words that I say
 I know
 You can't always get what you want...
-
-
-

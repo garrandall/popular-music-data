@@ -1,8 +1,11 @@
 ---
+album: Bad 25th Anniversary
 artists:
 - Michael Jackson
+external_ids:
+  spotify: spotify:track:21VCYxPZ8A2XpSNUyQCT3B
 features: []
-genres: []
+first_released_as_single: false
 key: another-part-of-me-michael-jackson
 lyrics_url: https://genius.com/Michael-jackson-another-part-of-me-lyrics
 name: Another Part Of Me
@@ -59,6 +62,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1988-10-15'
+release_year: 1987
+runtime: 234720
 ---
 We're taking over
 We have the truth

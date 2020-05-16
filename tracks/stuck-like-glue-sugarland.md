@@ -1,8 +1,11 @@
 ---
+album: The Incredible Machine
 artists:
 - Sugarland
+external_ids:
+  spotify: spotify:track:0JcKdUGNR7zI4jJDLyYXbi
 features: []
-genres: []
+first_released_as_single: false
 key: stuck-like-glue-sugarland
 lyrics_url: https://genius.com/Sugarland-stuck-like-glue-lyrics
 name: Stuck Like Glue
@@ -103,6 +106,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '2011-01-22'
+release_year: 2010
+runtime: 247586
 ---
 MMMM better, MMMM better
 Absolutely no one that knows me better

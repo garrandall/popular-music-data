@@ -1,8 +1,11 @@
 ---
+album: Lost in Love
 artists:
 - Air Supply
+external_ids:
+  spotify: spotify:track:6MfVSA5iKBPHzo6RGARjL0
 features: []
-genres: []
+first_released_as_single: false
 key: lost-in-love-air-supply
 lyrics_url: https://genius.com/Air-supply-lost-in-love-lyrics
 name: Lost In Love
@@ -99,6 +102,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1980-07-12'
+release_year: 1980
+runtime: 233866
 ---
 I realize the best part of love is the thinnest slice
 And it don't count for much

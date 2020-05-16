@@ -1,8 +1,11 @@
 ---
+album: My Name Is Allan
 artists:
 - Allan Sherman
+external_ids:
+  spotify: spotify:track:4BZo9zSqVl55H3zEuQKbkc
 features: []
-genres: []
+first_released_as_single: false
 key: the-drinking-man-s-diet-allan-sherman
 lyrics_url: https://genius.com/Allan-sherman-the-drinking-mans-diet-lyrics
 name: The Drinking Man's Diet
@@ -11,6 +14,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1965-12-18'
+release_year: 1965
+runtime: 161933
 ---
 Oh, I'm on the Drinking Man's Diet
 It came from a book I was loaned

@@ -1,9 +1,12 @@
 ---
+album: Born Into The 90's
 artists:
 - R. Kelly
 - Public Announcement
+external_ids:
+  spotify: spotify:track:3YqH26H4kyG3usFtOc8v4P
 features: []
-genres: []
+first_released_as_single: false
 key: she-s-got-that-vibe-r--kelly-public-announcement
 lyrics_url: https://genius.com/R-kelly-and-public-announcement-shes-got-that-vibe-lyrics
 name: She's Got That Vibe
@@ -56,6 +59,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1992-05-30'
+release_year: 1992
+runtime: 274133
 ---
 Ayo, R. Kelly, what's up, man?
 You've been spending a lot of time with this girl, man

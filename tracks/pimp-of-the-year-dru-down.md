@@ -1,8 +1,11 @@
 ---
+album: Explicit Game
 artists:
 - Dru Down
+external_ids:
+  spotify: spotify:track:5f8KgDZ8aQKQii0U1qdRbC
 features: []
-genres: []
+first_released_as_single: false
 key: pimp-of-the-year-dru-down
 lyrics_url: https://genius.com/Dru-down-pimp-of-the-year-lyrics
 name: Pimp Of The Year
@@ -71,6 +74,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1995-04-15'
+release_year: 1994
+runtime: 254093
 ---
 Mack playas, ballas, grindas
 Yeah I'm the real true pimp of the year

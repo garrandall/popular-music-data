@@ -1,8 +1,11 @@
 ---
+album: Real Life
 artists:
 - Simple Minds
+external_ids:
+  spotify: spotify:track:00Jk0pSoXt92IT9yYNaFqt
 features: []
-genres: []
+first_released_as_single: false
 key: see-the-lights-simple-minds
 lyrics_url: https://genius.com/Simple-minds-see-the-lights-lyrics
 name: See The Lights
@@ -47,6 +50,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1991-07-20'
+release_year: 1991
+runtime: 261874
 ---
 Summer's gone winter's in your eyes
 I can feel the thunder storms inside

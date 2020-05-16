@@ -1,8 +1,11 @@
 ---
+album: Same As It Ever Was
 artists:
 - House Of Pain
+external_ids:
+  spotify: spotify:track:2h5hQFc6tPJO3O1tz0bSkY
 features: []
-genres: []
+first_released_as_single: false
 key: on-point-house-of-pain
 lyrics_url: https://genius.com/House-of-pain-on-point-lyrics
 name: On Point
@@ -27,6 +30,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1994-08-27'
+release_year: 1992
+runtime: 228866
 ---
 Yeah
 The House of Pain

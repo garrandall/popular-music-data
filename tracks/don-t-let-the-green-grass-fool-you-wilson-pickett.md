@@ -1,8 +1,11 @@
 ---
+album: In Philadelphia
 artists:
 - Wilson Pickett
+external_ids:
+  spotify: spotify:track:79krwDoFzJ6dbNRwceAwgH
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-let-the-green-grass-fool-you-wilson-pickett
 lyrics_url: https://genius.com/Wilson-pickett-dont-let-the-green-grass-fool-you-lyrics
 name: Don't Let The Green Grass Fool You
@@ -51,6 +54,8 @@ rankings:
   rank: 33
   ranking_list: Billboard Hot 100
   start_date: '1971-03-27'
+release_year: 1970
+runtime: 169706
 ---
 Girl, try to remember
 When we didn't have no shoes
@@ -79,8 +84,6 @@ You know why?
 It may be greener on the other side, baby
 But right in my arms is where you belong
 
-(short instrumental)
-
 Umm, mmm
 Ooo-oo, baby
 Oh-oh
@@ -96,5 +99,3 @@ Don't let the green grass fool ya, baby
 Ah-hey (greener on the other side)
 Don't, don't let it fool ya
 Baby, in my arms is where you belong, yeah
-
-~

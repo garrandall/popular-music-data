@@ -1,9 +1,12 @@
 ---
+album: Easy
 artists:
 - Marvin Gaye
 - Tammi Terrell
+external_ids:
+  spotify: spotify:track:1yrZ0GevGt5HwBGH16MGBg
 features: []
-genres: []
+first_released_as_single: false
 key: what-you-gave-me-marvin-gaye-tammi-terrell
 lyrics_url: https://www.azlyrics.com/lyrics/marvingaye/whatyougaveme.html
 name: What You Gave Me
@@ -40,9 +43,10 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '1970-01-17'
+release_year: 1969
+runtime: 167266
 ---
-
- Like a breath of spring you came
+Like a breath of spring you came
 & as you leave, I can only sigh your name
 Cries of anguish echo from way down
 But will never reach my lips to make a sound
@@ -81,4 +85,3 @@ You'll always be a part of me
  I love you, I love you
  Hey now, & what you gave me is more than enough to last
 & what you gave me is more than enough to last
-

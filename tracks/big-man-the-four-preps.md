@@ -1,8 +1,11 @@
 ---
+album: The Single Collection, Vol. 1
 artists:
 - The Four Preps
+external_ids:
+  spotify: spotify:track:0KayDFomB8iDyAdOpKfKTK
 features: []
-genres: []
+first_released_as_single: false
 key: big-man-the-four-preps
 lyrics_url: https://genius.com/The-four-preps-big-man-lyrics
 name: Big Man
@@ -11,6 +14,8 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1958-08-04'
+release_year: 1958
+runtime: 143266
 ---
 I was a big man yesterday but boy you oughta see me now
 Well I talked big yesterday, but boy you oughta see me now

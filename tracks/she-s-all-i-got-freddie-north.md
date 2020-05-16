@@ -1,8 +1,11 @@
 ---
+album: She's All I Got
 artists:
 - Freddie North
+external_ids:
+  spotify: spotify:track:06dYiP6pK6xRpsB4DLSGdQ
 features: []
-genres: []
+first_released_as_single: false
 key: she-s-all-i-got-freddie-north
 lyrics_url: https://www.musixmatch.com/lyrics/Freddie-North/She-s-All-I-Got
 name: She's All I Got
@@ -55,6 +58,8 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '1971-12-18'
+release_year: 1971
+runtime: 163040
 ---
 Friend, don't take her
 Please don't take her

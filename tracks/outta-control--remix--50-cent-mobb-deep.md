@@ -1,9 +1,12 @@
 ---
+album: Blood Money
 artists:
 - 50 Cent
+external_ids:
+  spotify: spotify:track:7BKi4ZcyMBXeAvJ1OPxhdV
 features:
 - Mobb Deep
-genres: []
+first_released_as_single: true
 key: outta-control--remix--50-cent-mobb-deep
 lyrics_url: https://genius.com/50-cent-outta-control-remix-lyrics
 name: Outta Control (Remix)
@@ -84,6 +87,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '2005-11-26'
+release_year: 2005
+runtime: 247973
 ---
 It's the Infamous Mobb, M-O-B-B
 We can't be touched nigga, can't you see (G-Unit)

@@ -1,8 +1,11 @@
 ---
+album: Keep The Faith
 artists:
 - Bon Jovi
+external_ids:
+  spotify: spotify:track:0UXYMyhcOg1iOaIQ2EKVHE
 features: []
-genres: []
+first_released_as_single: false
 key: i-ll-sleep-when-i-m-dead-bon-jovi
 lyrics_url: https://genius.com/Bon-jovi-ill-sleep-when-im-dead-lyrics
 name: I'll Sleep When I'm Dead
@@ -23,6 +26,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1993-09-04'
+release_year: 1992
+runtime: 283133
 ---
 Seven days of Saturday
 Is all that I need

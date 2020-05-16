@@ -1,8 +1,11 @@
 ---
+album: Pinball
 artists:
 - Brian Protheroe
+external_ids:
+  spotify: spotify:track:6xe3iovLb0xJPlFCATowgp
 features: []
-genres: []
+first_released_as_single: false
 key: pinball-brian-protheroe
 lyrics_url: https://genius.com/Brian-protheroe-pinball-lyrics
 name: Pinball
@@ -35,6 +38,8 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '1975-05-10'
+release_year: 1974
+runtime: 193453
 ---
 And I've run out of pale ale and I feel like I'm in jail
 And my music bores me once again

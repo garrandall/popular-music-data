@@ -1,8 +1,11 @@
 ---
+album: Hysteria
 artists:
 - Def Leppard
+external_ids:
+  spotify: spotify:track:4qjscZh4jfhkpcQG4ZQfi2
 features: []
-genres: []
+first_released_as_single: false
 key: animal-def-leppard
 lyrics_url: https://www.azlyrics.com/lyrics/defleppard/animal.html
 name: Animal
@@ -83,8 +86,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1988-02-13'
+release_year: 1987
+runtime: 244560
 ---
-
 A wild ride, over stony ground
 Such a lust for life, the circus comes to town
 We are the hungry ones, on a lightning raid
@@ -118,6 +122,3 @@ Make me your animal
 Show me stroke me
 Let me be your animal
 I want, ohyeah, animal
-
-
-

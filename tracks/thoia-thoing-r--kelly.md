@@ -1,8 +1,11 @@
 ---
+album: 'The R. In R&B Collection: Volume 1'
 artists:
 - R. Kelly
+external_ids:
+  spotify: spotify:track:5uj2AfrbHQREGXVxhqhvyU
 features: []
-genres: []
+first_released_as_single: false
 key: thoia-thoing-r--kelly
 lyrics_url: https://www.azlyrics.com/lyrics/rkelly/thoiathoing.html
 name: Thoia Thoing
@@ -87,9 +90,9 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '2003-11-29'
+release_year: 2003
+runtime: 220728
 ---
-
-
 Thoia thoia thoia thoia thoing thoing (uh)
 Thoia thoia thoia thoia thoing (It's Kellz)
 Thoia thoia thoia thoia thoing thoing (From Chi-Town)
@@ -177,6 +180,3 @@ Thoia thoia thoia thoia thoing
 She had me singing
 Thoia thoia thoia thoia thoing thoing
 Thoia thoia thoia thoia thoing
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Coliseum Rock
 artists:
 - Starz
+external_ids:
+  spotify: spotify:track:0yMPkF8R8iQrt9PHacRpD2
 features: []
-genres: []
+first_released_as_single: false
 key: so-young-so-bad-starz
 name: So Young So Bad
 rankings:
@@ -18,5 +21,7 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1978-11-04'
+release_year: 1978
+runtime: 206520
 ---
 

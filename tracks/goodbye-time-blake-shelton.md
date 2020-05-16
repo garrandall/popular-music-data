@@ -1,8 +1,11 @@
 ---
+album: Blake Shelton's Barn & Grill
 artists:
 - Blake Shelton
+external_ids:
+  spotify: spotify:track:1M9qgq0SaZ5OuAeU0GKXif
 features: []
-genres: []
+first_released_as_single: false
 key: goodbye-time-blake-shelton
 lyrics_url: https://genius.com/Blake-shelton-goodbye-time-lyrics
 name: Goodbye Time
@@ -43,6 +46,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '2005-08-06'
+release_year: 2004
+runtime: 201733
 ---
 It's your life, you say you need a change
 Don't all the dreams we've seen come true mean anything

@@ -1,8 +1,11 @@
 ---
+album: Heaven On Earth
 artists:
 - Belinda Carlisle
+external_ids:
+  spotify: spotify:track:58mFu3oIpBa0HLNeJIxsw3
 features: []
-genres: []
+first_released_as_single: false
 key: heaven-is-a-place-on-earth-belinda-carlisle
 lyrics_url: https://genius.com/Belinda-carlisle-heaven-is-a-place-on-earth-lyrics
 name: Heaven Is A Place On Earth
@@ -91,6 +94,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1988-02-13'
+release_year: 1987
+runtime: 247293
 ---
 Oh, baby, do you know what that's worth?
 Oh, heaven is a place on earth

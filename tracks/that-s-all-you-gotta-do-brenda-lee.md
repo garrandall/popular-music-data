@@ -1,8 +1,11 @@
 ---
+album: Brenda Lee
 artists:
 - Brenda Lee
+external_ids:
+  spotify: spotify:track:1aTHBOr0V8XnbgHSRPyJtg
 features: []
-genres: []
+first_released_as_single: false
 key: that-s-all-you-gotta-do-brenda-lee
 lyrics_url: https://www.azlyrics.com/lyrics/brendalee/thatsallyougottado.html
 name: That's All You Gotta Do
@@ -63,8 +66,9 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '1960-09-05'
+release_year: 1960
+runtime: 148973
 ---
-
 Anytime you're feeling low
 And you got no place to go
 You don't have to be blue
@@ -112,6 +116,3 @@ Tell me just a how you feel
 Tell me that your love is real
 And I'll give my heart to you
 Baby thats all you gotta do
-
-
-

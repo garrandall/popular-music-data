@@ -1,8 +1,11 @@
 ---
+album: The Best Of Little Anthony & The Imperials
 artists:
 - Little Anthony And The Imperials
+external_ids:
+  spotify: spotify:track:4URcCVFgWv9cWZxgjhveFj
 features: []
-genres: []
+first_released_as_single: false
 key: better-use-your-head-little-anthony-and-the-imperials
 lyrics_url: https://genius.com/Little-anthony-and-the-imperials-better-use-your-head-lyrics
 name: Better Use Your Head
@@ -35,6 +38,8 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '1966-06-25'
+release_year: 1966
+runtime: 170906
 ---
 You better stop and think what you're sayin'
 You'd better hold on, make sure you're sold on

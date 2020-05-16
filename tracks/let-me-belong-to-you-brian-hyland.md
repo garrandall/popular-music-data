@@ -1,8 +1,11 @@
 ---
+album: Let Me Belong To You
 artists:
 - Brian Hyland
+external_ids:
+  spotify: spotify:track:1yd9fH4cmpm3to1jDpm6B1
 features: []
-genres: []
+first_released_as_single: false
 key: let-me-belong-to-you-brian-hyland
 lyrics_url: https://genius.com/Brian-hyland-let-me-belong-to-you-lyrics
 name: Let Me Belong To You
@@ -51,6 +54,8 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '1961-10-16'
+release_year: 1961
+runtime: 186680
 ---
 Make me your slave
 Tie me down, make me behave

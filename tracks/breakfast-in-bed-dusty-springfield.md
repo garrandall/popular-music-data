@@ -1,8 +1,11 @@
 ---
+album: Dusty In Memphis
 artists:
 - Dusty Springfield
+external_ids:
+  spotify: spotify:track:5bsVqbCNaiHlGZRAlP0aK5
 features: []
-genres: []
+first_released_as_single: false
 key: breakfast-in-bed-dusty-springfield
 lyrics_url: https://www.azlyrics.com/lyrics/dustyspringfield/breakfastinbed.html
 name: Breakfast In Bed
@@ -15,8 +18,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1969-04-19'
+release_year: 1969
+runtime: 177960
 ---
-
 You've been cryin' 
 Your face is a mess
 Come in baby
@@ -65,6 +69,3 @@ You don't have to say you love me
 Breakfast in bed
 Nothing need be said, yeah
 You don't have to
-
-
-

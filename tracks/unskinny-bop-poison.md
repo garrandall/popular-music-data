@@ -1,8 +1,11 @@
 ---
+album: Flesh & Blood
 artists:
 - Poison
+external_ids:
+  spotify: spotify:track:1Z6lKdYhwp8WYoBqGCKxlM
 features: []
-genres: []
+first_released_as_single: false
 key: unskinny-bop-poison
 lyrics_url: https://www.azlyrics.com/lyrics/poison/unskinnybop.html
 name: Unskinny Bop
@@ -83,8 +86,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1990-11-10'
+release_year: 1990
+runtime: 228066
 ---
-
 What's got you so jumpy?
 Why can't you sit still, yeah?
 Like gasoline you wanna pump me
@@ -125,4 +129,3 @@ What's right
 What's wrong
 What's left
 What the hell is going on
-

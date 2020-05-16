@@ -1,8 +1,11 @@
 ---
+album: We Started Nothing
 artists:
 - The Ting Tings
+external_ids:
+  spotify: spotify:track:0GrrLYCH8u81aENhC8FBF4
 features: []
-genres: []
+first_released_as_single: false
 key: that-s-not-my-name-the-ting-tings
 lyrics_url: https://www.musixmatch.com/lyrics/The-Ting-Tings/That-s-Not-My-Name
 name: That's Not My Name
@@ -111,6 +114,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2009-08-22'
+release_year: 2008
+runtime: 310573
 ---
 Four letter word just to get me along
 It's a difficulty and I'm bitin' on my tongue

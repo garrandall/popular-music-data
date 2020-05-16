@@ -1,8 +1,11 @@
 ---
+album: Calumet
 artists:
 - Lobo
+external_ids:
+  spotify: spotify:track:50kRweD4XY7v3crVRyECGw
 features: []
-genres: []
+first_released_as_single: false
 key: it-sure-took-a-long-long-time-lobo
 lyrics_url: https://www.azlyrics.com/lyrics/lobo/itsuretookalonglongtime.html
 name: It Sure Took A Long Long Time
@@ -51,8 +54,9 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '1973-06-16'
+release_year: 1973
+runtime: 200320
 ---
-
 I'm sure it might have grown old
 Like most young things usually do
 and dangling a line to try and find your mind
@@ -72,6 +76,3 @@ The magic that we had together
 Seems so much stronger than before
 What did I learn to make the love return
 O girl I've got to learn some more.
-
-
-

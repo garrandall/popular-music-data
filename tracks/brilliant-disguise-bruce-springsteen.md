@@ -1,8 +1,11 @@
 ---
+album: Tunnel Of Love
 artists:
 - Bruce Springsteen
+external_ids:
+  spotify: spotify:track:0nqbZ17t9v52SCemAm1QP0
 features: []
-genres: []
+first_released_as_single: false
 key: brilliant-disguise-bruce-springsteen
 lyrics_url: https://www.azlyrics.com/lyrics/brucespringsteen/brilliantdisguise.html
 name: Brilliant Disguise
@@ -71,8 +74,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1988-01-16'
+release_year: 1987
+runtime: 254840
 ---
-
 I hold you in my arms
 As the band plays
 What are those words whispered baby
@@ -125,6 +129,3 @@ Tonight our bed is cold
 I'm lost in the darkness of our love
 God have mercy on the man
 Who doubts what he's sure of
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Carrying On
 artists:
 - Montgomery Gentry
+external_ids:
+  spotify: spotify:track:1SPxdV4YstGqaA8eg1lRyJ
 features: []
-genres: []
+first_released_as_single: false
 key: she-couldn-t-change-me-montgomery-gentry
 lyrics_url: https://genius.com/Montgomery-gentry-she-couldnt-change-me-lyrics
 name: She Couldn't Change Me
@@ -91,6 +94,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2001-08-25'
+release_year: 1999
+runtime: 260786
 ---
 Sometime I think what turned her on
 Was my old broke down boots

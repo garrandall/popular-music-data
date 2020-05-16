@@ -1,8 +1,11 @@
 ---
+album: Always On My Mind
 artists:
 - Willie Nelson
+external_ids:
+  spotify: spotify:track:6sQkTCSV4OvhzXlSJawlhx
 features: []
-genres: []
+first_released_as_single: false
 key: let-it-be-me-willie-nelson
 lyrics_url: https://genius.com/Willie-nelson-let-it-be-me-lyrics
 name: Let It Be Me
@@ -55,6 +58,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1982-10-23'
+release_year: 1982
+runtime: 211333
 ---
 I bless the day I found you
 I want to stay around you

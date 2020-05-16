@@ -1,8 +1,11 @@
 ---
+album: The MGM Singles
 artists:
 - Sam The Sham and the Pharaohs
+external_ids:
+  spotify: spotify:track:2D5P12JsC2QJCijaENtQMe
 features: []
-genres: []
+first_released_as_single: false
 key: how-do-you-catch-a-girl-sam-the-sham-and-the-pharaohs
 lyrics_url: https://genius.com/Sam-the-sham-and-the-pharaohs-how-do-you-catch-a-girl-lyrics
 name: How Do You Catch A Girl
@@ -39,6 +42,8 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '1967-02-11'
+release_year: 1966
+runtime: 139773
 ---
 Won't somebody tell me please?
 How do you catch a girl?

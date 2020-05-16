@@ -1,8 +1,11 @@
 ---
+album: Toni Braxton
 artists:
 - Toni Braxton
+external_ids:
+  spotify: spotify:track:1NNYZKOk91y4mnqfjK4uqW
 features: []
-genres: []
+first_released_as_single: false
 key: i-belong-to-you-toni-braxton
 lyrics_url: https://www.azlyrics.com/lyrics/tonibraxton/ibelongtoyou.html
 name: I Belong To You
@@ -91,8 +94,9 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '1995-02-18'
+release_year: 1993
+runtime: 234306
 ---
-
 I wouldn't change
 A single thing about you baby
 You shower my world with your love
@@ -137,6 +141,3 @@ I belong to you
 You belong to me
 I belong to you
 The love we share comes naturally
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Candyass
 artists:
 - Orgy
+external_ids:
+  spotify: spotify:track:5267gVdYWrLoz6ClOhlqmE
 features: []
-genres: []
+first_released_as_single: false
 key: blue-monday-orgy
 lyrics_url: https://www.azlyrics.com/lyrics/orgy/bluemonday.html
 name: Blue Monday
@@ -87,8 +90,9 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1999-07-10'
+release_year: 1998
+runtime: 267000
 ---
-
 How does it feel to treat me like you do
 When you've laid your hands upon me
 And told me who you are
@@ -131,6 +135,3 @@ How does it feel?
 How should I feel?
 Tell me how does it feel?
 To treat me like you do
-
-
-

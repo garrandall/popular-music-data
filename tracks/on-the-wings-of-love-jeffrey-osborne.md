@@ -1,8 +1,11 @@
 ---
+album: Jeffrey Osborne
 artists:
 - Jeffrey Osborne
+external_ids:
+  spotify: spotify:track:6AEdWbrFREOUNmI1hMPbyc
 features: []
-genres: []
+first_released_as_single: false
 key: on-the-wings-of-love-jeffrey-osborne
 lyrics_url: https://genius.com/Jeffrey-osborne-on-the-wings-of-love-lyrics
 name: On The Wings Of Love
@@ -79,6 +82,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1983-01-22'
+release_year: 1982
+runtime: 241760
 ---
 Just smile for me
 And let the day begin

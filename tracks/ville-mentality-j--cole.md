@@ -1,8 +1,11 @@
 ---
+album: 4 Your Eyez Only
 artists:
 - J. Cole
+external_ids:
+  spotify: spotify:track:3o0qclEVG010UMVJNDbYZB
 features: []
-genres: []
+first_released_as_single: false
 key: ville-mentality-j--cole
 lyrics_url: https://www.azlyrics.com/lyrics/jcole/villementality.html
 name: Ville Mentality
@@ -15,8 +18,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2017-01-07'
+release_year: 2016
+runtime: 194346
 ---
-
 How long can I survive with this mentality?
 How long can I survive with this mentality?
 
@@ -63,6 +67,3 @@ How long can I survive with this mentality?
 
 I get mad, I slam my door and go in my room..
 And then, I get mad and I say, "I wish my dad was here"
-
-
-

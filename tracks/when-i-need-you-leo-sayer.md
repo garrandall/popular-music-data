@@ -1,8 +1,11 @@
 ---
+album: Endless Flight
 artists:
 - Leo Sayer
+external_ids:
+  spotify: spotify:track:2TcwEYyydQuEMJwdmSgVLD
 features: []
-genres: []
+first_released_as_single: false
 key: when-i-need-you-leo-sayer
 lyrics_url: https://genius.com/Leo-sayer-when-i-need-you-lyrics
 name: When I Need You
@@ -87,6 +90,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1977-07-09'
+release_year: 1976
+runtime: 253226
 ---
 When I need you
 I just close my eyes and I'm with you

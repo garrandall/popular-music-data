@@ -1,8 +1,11 @@
 ---
+album: They Call Me The Fat Man (The Legendary Imperial Recordings)
 artists:
 - Fats Domino
+external_ids:
+  spotify: spotify:track:4Ta3ldW6fXAO2PVbvoXU6J
 features: []
-genres: []
+first_released_as_single: false
 key: country-boy-fats-domino
 lyrics_url: https://genius.com/Fats-domino-country-boy-lyrics
 name: Country Boy
@@ -47,6 +50,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1960-04-04'
+release_year: 1960
+runtime: 137866
 ---
 Have you heard the story
 Of a little country boy

@@ -1,8 +1,11 @@
 ---
+album: Shiver
 artists:
 - Jamie O'Neal
+external_ids:
+  spotify: spotify:track:6X1MOfJSjBT54VcbD1o7vR
 features: []
-genres: []
+first_released_as_single: false
 key: when-i-think-about-angels-jamie-o-neal
 lyrics_url: https://genius.com/Jamie-oneal-when-i-think-about-angels-lyrics
 name: When I Think About Angels
@@ -87,6 +90,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '2001-10-20'
+release_year: 2000
+runtime: 182613
 ---
 Why does the color of my coffee match your eyes?
 Why do I see you when a stranger passes by?

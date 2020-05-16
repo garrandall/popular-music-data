@@ -1,8 +1,11 @@
 ---
+album: Thank Me Later
 artists:
 - Drake
+external_ids:
+  spotify: spotify:track:6BdgtqiV3oXNqBikezwdvC
 features: []
-genres: []
+first_released_as_single: false
 key: over-drake
 lyrics_url: https://genius.com/Drake-over-lyrics
 name: Over
@@ -87,6 +90,8 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '2010-08-07'
+release_year: 2010
+runtime: 233560
 ---
 Uh, uh
 Young Money

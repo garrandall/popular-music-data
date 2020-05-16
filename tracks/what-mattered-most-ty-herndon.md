@@ -1,8 +1,11 @@
 ---
+album: What Mattered Most
 artists:
 - Ty Herndon
+external_ids:
+  spotify: spotify:track:5pmkqn8VT7kZ1X7MY6xz7J
 features: []
-genres: []
+first_released_as_single: false
 key: what-mattered-most-ty-herndon
 lyrics_url: https://www.azlyrics.com/lyrics/tyherndon/whatmatteredmost.html
 name: What Mattered Most
@@ -19,8 +22,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1995-06-03'
+release_year: 1994
+runtime: 219866
 ---
-
 I thought I knew, the girl so well
 if she was sad I couldn't tell
 I missed the point, I missed the signs
@@ -64,6 +68,3 @@ she moved out west when she was 2
 the way she laughed 
 the way she loved
 oh my God what did I do?
-
-
-

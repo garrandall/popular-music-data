@@ -1,8 +1,11 @@
 ---
+album: Four The Record
 artists:
 - Miranda Lambert
+external_ids:
+  spotify: spotify:track:1hTSImeofoaFWptq9JSFpP
 features: []
-genres: []
+first_released_as_single: false
 key: baggage-claim-miranda-lambert
 lyrics_url: https://www.azlyrics.com/lyrics/mirandalambert/baggageclaim.html
 name: Baggage Claim
@@ -87,8 +90,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2012-01-07'
+release_year: 2011
+runtime: 197546
 ---
-
 I have been draggin' around your sensitive ego
 Making sure that your bags arrive on time for the dog and pony show
 A little suitcase like a brick
@@ -132,6 +136,3 @@ It's all over the yard, in the trunk of the car
 Well I'm packin' it in, so come and get it
 
 Come and get it
-
-
-

@@ -1,9 +1,12 @@
 ---
+album: At Last!
 artists:
 - Etta
 - Harvey
+external_ids:
+  spotify: spotify:track:1swNbKiUEwgTM6jnkx5rkm
 features: []
-genres: []
+first_released_as_single: false
 key: spoonful-etta-harvey
 lyrics_url: https://www.azlyrics.com/lyrics/ettajames/spoonful.html
 name: Spoonful
@@ -20,8 +23,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1961-01-09'
+release_year: 1960
+runtime: 167466
 ---
-
 It could be a spoonful of coffee
 It could be a spoonful of tea
 But one little spoon of your precious love
@@ -61,6 +65,3 @@ That spoon, that spoon, that spoonful
 That spoon, that spoon, that spoonful
 That spoon, that spoon, that spoonful
 That spoon, that spoon, that spoonful
-
-
-

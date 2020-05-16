@@ -1,8 +1,11 @@
 ---
+album: Adrenalize
 artists:
 - Def Leppard
+external_ids:
+  spotify: spotify:track:4kmsbka0IvuC1x4GdK3FcH
 features: []
-genres: []
+first_released_as_single: false
 key: make-love-like-a-man-def-leppard
 lyrics_url: https://www.azlyrics.com/lyrics/defleppard/makelovelikeaman.html
 name: Make Love Like A Man
@@ -47,8 +50,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1992-08-29'
+release_year: 1992
+runtime: 255624
 ---
-
 Make love like a man
 I'm a man
 That's what I am, uh!
@@ -114,6 +118,3 @@ Make love like a man
 Oh, you love her like a man
 She's gonna feel a lot better
 And that's a fact!
-
-
-

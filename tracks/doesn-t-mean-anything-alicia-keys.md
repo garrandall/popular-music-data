@@ -1,8 +1,11 @@
 ---
+album: The Element Of Freedom
 artists:
 - Alicia Keys
+external_ids:
+  spotify: spotify:track:0qP6SwdJVok2cUAKKMzg3A
 features: []
-genres: []
+first_released_as_single: true
 key: doesn-t-mean-anything-alicia-keys
 lyrics_url: https://genius.com/Alicia-keys-doesnt-mean-anything-lyrics
 name: Doesn't Mean Anything
@@ -47,6 +50,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2009-12-12'
+release_year: 2009
+runtime: 275040
 ---
 Used to dream of being a millionaire without a care
 But if I'm seeing my dreams and you aren't there

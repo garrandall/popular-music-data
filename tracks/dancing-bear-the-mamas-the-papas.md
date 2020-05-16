@@ -1,9 +1,12 @@
 ---
+album: The Mamas & The Papas
 artists:
 - The Mamas
 - The Papas
+external_ids:
+  spotify: spotify:track:5dyH958ip694mJLUmac7Ab
 features: []
-genres: []
+first_released_as_single: false
 key: dancing-bear-the-mamas-the-papas
 lyrics_url: https://www.azlyrics.com/lyrics/mamasandthepapas/dancingbear.html
 name: Dancing Bear
@@ -36,8 +39,9 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1968-01-20'
+release_year: 1966
+runtime: 250626
 ---
-
 I wouldn't want to be a chimney sweep
 All black from head to foot
 From climbing in them chimneys
@@ -71,6 +75,3 @@ The earth, the wind, a girl, someone to share these things with me.
 I wouldn't want to be a chimney sweep,
 (I'd rather be the gypsy, )
 (I dreamed I was a cabin boy, )
-
-
-

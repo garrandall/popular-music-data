@@ -1,8 +1,11 @@
 ---
+album: Hold on, It's Dee Clark
 artists:
 - Dee Clark
+external_ids:
+  spotify: spotify:track:6INWhKTdVazJnEmaxTNP0s
 features: []
-genres: []
+first_released_as_single: false
 key: hey-little-girl-dee-clark
 lyrics_url: https://genius.com/Dee-clark-hey-little-girl-lyrics
 name: Hey Little Girl
@@ -67,6 +70,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1959-11-30'
+release_year: 1959
+runtime: 135063
 ---
 Hey, little girl in the high school sweater
 Gee, but I'd like to know you better
@@ -88,8 +93,6 @@ I'm hopin' that you tell me, yes
 Because you're the girl that I love best
 Hey, hey-hey-hey
 
-(instrumental)
-
 A-hey-hey
 
 Um-hm, um-hm
@@ -104,7 +107,7 @@ Uuh-huh
 Hey, little girl in the high school sweater
 Gee, I hope you're feelin' better
 Not just like the time before
-'Member when you closed that door?
+Remember when you closed that door?
 Hey, hey-hey, hey-hey, hey
 Little girl
 
@@ -120,9 +123,7 @@ Mmm-hm-hm
 Mmm-hm-hm
 Yeah!
 
-Goin' t'your house
-
-FADES-
+Goin' to your house
 
 Well
 Ya-ya-ya
@@ -130,5 +131,3 @@ Ya-ya-ya
 Ya-ya-ya
 Ya-ya-ya
 Ya-ya-da-da
-
-~

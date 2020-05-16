@@ -1,8 +1,11 @@
 ---
+album: Life of a Dark Rose
 artists:
 - Lil Skies
+external_ids:
+  spotify: spotify:track:7oJrVhiTPZGBXWPwhxjy9S
 features: []
-genres: []
+first_released_as_single: false
 key: lust-lil-skies
 lyrics_url: https://www.azlyrics.com/lyrics/lilskies/lust.html
 name: Lust
@@ -23,8 +26,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2018-06-16'
+release_year: 2017
+runtime: 156000
 ---
-
 CashMoneyAP
 Ayy, ayy, ayy
 
@@ -77,6 +81,3 @@ Ayy, bitch, not a lot of love
 It's a lot of lust, not a lot of love
 Ayy, bitch, not a lot of love
 It's a lot of lust, not a lot of love
-
-
-

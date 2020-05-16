@@ -1,8 +1,11 @@
 ---
+album: Last Time I Saw Him
 artists:
 - Diana Ross
+external_ids:
+  spotify: spotify:track:6DKuGMSudWft99JDKH8eKF
 features: []
-genres: []
+first_released_as_single: false
 key: sleepin--diana-ross
 lyrics_url: https://www.azlyrics.com/lyrics/dianaross/sleepin.html
 name: Sleepin'
@@ -27,8 +30,9 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1974-06-08'
+release_year: 1973
+runtime: 282440
 ---
-
 Johnny's been runnin' hard all his life
 'Cause life never treated him right
 Well he ain't running now
@@ -81,6 +85,3 @@ And rock him in my arms
 Sleepin', he's sleepin'
 He doesn't rest very much
 You see he lives hard and gives hard
-
-
-

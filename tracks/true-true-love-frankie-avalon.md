@@ -1,8 +1,11 @@
 ---
+album: 'A Day at the Beach: Frankie Avalon'
 artists:
 - Frankie Avalon
+external_ids:
+  spotify: spotify:track:49JyvsH6SdsldNMAG0KKYu
 features: []
-genres: []
+first_released_as_single: false
 key: true-true-love-frankie-avalon
 lyrics_url: https://www.musixmatch.com/lyrics/Frankie-Avalon/True-True-Love
 name: True True Love
@@ -15,6 +18,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1961-10-02'
+release_year: 1961
+runtime: 140947
 ---
 I love the way they look
 When they give me the eyes

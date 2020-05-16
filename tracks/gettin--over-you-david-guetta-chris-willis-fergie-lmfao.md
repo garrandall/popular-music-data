@@ -1,11 +1,14 @@
 ---
+album: One Love
 artists:
 - David Guetta
 - Chris Willis
+external_ids:
+  spotify: spotify:track:6FbGlkHKGkYqpSCuBgurn3
 features:
 - Fergie
 - LMFAO
-genres: []
+first_released_as_single: false
 key: gettin--over-you-david-guetta-chris-willis-fergie-lmfao
 lyrics_url: https://www.azlyrics.com/lyrics/davidguetta/gettinoveryou.html
 name: Gettin' Over You
@@ -90,9 +93,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2010-09-25'
+release_year: 2009
+runtime: 187426
 ---
-
-
 All the things I know right now
 If I only knew back then
 There's no gettin' over
@@ -154,6 +157,3 @@ I'm a party, and party and party and party...
 And party and party and party...
 I'm a party, and party and party and party...
 And party and party and party...
-
-
-

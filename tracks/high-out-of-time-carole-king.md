@@ -1,8 +1,11 @@
 ---
+album: Thoroughbred
 artists:
 - Carole King
+external_ids:
+  spotify: spotify:track:1OG2IBegrMugiKf0QVjwRb
 features: []
-genres: []
+first_released_as_single: false
 key: high-out-of-time-carole-king
 lyrics_url: https://www.azlyrics.com/lyrics/caroleking/highoutoftime.html
 name: High Out Of Time
@@ -19,8 +22,9 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1976-06-05'
+release_year: 1976
+runtime: 194640
 ---
-
 High out of time
 I wish the years away
 Look into your eyes
@@ -46,6 +50,3 @@ Horizons that we've crossed
 I cross again with you
 Traveling through the years
 When I'm high out of time
-
-
-

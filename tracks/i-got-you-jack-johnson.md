@@ -1,8 +1,11 @@
 ---
+album: From Here To Now To You
 artists:
 - Jack Johnson
+external_ids:
+  spotify: spotify:track:12jjuxN1gxlm29cqL5M6MW
 features: []
-genres: []
+first_released_as_single: false
 key: i-got-you-jack-johnson
 lyrics_url: https://genius.com/Jack-johnson-i-got-you-lyrics
 name: I Got You
@@ -11,6 +14,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2013-06-29'
+release_year: 2013
+runtime: 179346
 ---
 Back when all my little goals seemed so important
 Every pot of gold feeling full of distortion

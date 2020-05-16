@@ -1,8 +1,11 @@
 ---
+album: The Hits / The B-Sides
 artists:
 - Prince
+external_ids:
+  spotify: spotify:track:06iK9tZaEPCmbIPdskNQ8Q
 features: []
-genres: []
+first_released_as_single: false
 key: pink-cashmere-prince
 lyrics_url: https://genius.com/Prince-pink-cashmere-lyrics
 name: Pink Cashmere
@@ -43,6 +46,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1993-11-13'
+release_year: 1993
+runtime: 374893
 ---
 Oh...
 There I go again falling in love all over

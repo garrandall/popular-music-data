@@ -1,8 +1,11 @@
 ---
+album: I'm Gonna Make You Mine
 artists:
 - Lou Christie
+external_ids:
+  spotify: spotify:track:5Jb3RfbPcmkoKSy7003xOP
 features: []
-genres: []
+first_released_as_single: false
 key: are-you-getting-any-sunshine--lou-christie
 lyrics_url: https://genius.com/Lou-christie-are-you-getting-any-sunshine-lyrics
 name: Are You Getting Any Sunshine?
@@ -23,6 +26,8 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '1970-01-10'
+release_year: 1969
+runtime: 164106
 ---
 It's love when you're
 Feeling like a child of light

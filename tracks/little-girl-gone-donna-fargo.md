@@ -1,8 +1,11 @@
 ---
+album: Winners
 artists:
 - Donna Fargo
+external_ids:
+  spotify: spotify:track:12BaGm6ikudPRIQqxJmRyt
 features: []
-genres: []
+first_released_as_single: false
 key: little-girl-gone-donna-fargo
 lyrics_url: https://www.azlyrics.com/lyrics/donnafargo/littlegirlgone.html
 name: Little Girl Gone
@@ -47,8 +50,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1973-12-08'
+release_year: 1973
+runtime: 137933
 ---
-
 It just took a little while for me
 To get my head together
 Growing up's the hardest thing I've ever done
@@ -91,6 +95,3 @@ And it just took a little while for me to get my head together
 
 Growing up's the hardest thing I've ever done
 Oh, but I can still remember...
-
-
-

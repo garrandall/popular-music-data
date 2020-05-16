@@ -1,8 +1,11 @@
 ---
+album: Classic Masters
 artists:
 - Boy George
+external_ids:
+  spotify: spotify:track:3txSqHwGING6J7waJXN8RJ
 features: []
-genres: []
+first_released_as_single: false
 key: the-crying-game-boy-george
 lyrics_url: https://genius.com/Boy-george-the-crying-game-lyrics
 name: The Crying Game
@@ -75,6 +78,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1993-07-03'
+release_year: 1993
+runtime: 202840
 ---
 I know all there is to know about the crying game
 I've had my share of the crying game

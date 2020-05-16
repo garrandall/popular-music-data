@@ -1,8 +1,11 @@
 ---
+album: Tusk
 artists:
 - Fleetwood Mac
+external_ids:
+  spotify: spotify:track:0iINibMKtoS8duvexsqnm5
 features: []
-genres: []
+first_released_as_single: false
 key: tusk-fleetwood-mac
 lyrics_url: https://www.azlyrics.com/lyrics/fleetwoodmac/tusk.html
 name: TUSK
@@ -67,8 +70,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1980-01-12'
+release_year: 1979
+runtime: 217573
 ---
-
 Why don't you ask him if he's going to stay?
 Why don't you ask him if he's going away?
 Why don't you tell me what's going on?
@@ -84,6 +88,3 @@ Tusk! Tusk! Tusk! Tusk!
 Tusk! Tusk! Tusk! Tusk!
 Tusk! Tusk! Tusk! Tusk!
 Tusk!
-
-
-

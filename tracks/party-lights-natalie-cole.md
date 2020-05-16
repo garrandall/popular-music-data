@@ -1,8 +1,11 @@
 ---
+album: Unpredictable
 artists:
 - Natalie Cole
+external_ids:
+  spotify: spotify:track:0lDxU9YM2UZyWWTZ1xye0B
 features: []
-genres: []
+first_released_as_single: false
 key: party-lights-natalie-cole
 lyrics_url: https://www.azlyrics.com/lyrics/nataliecole/partylights.html
 name: Party Lights
@@ -23,8 +26,9 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1977-08-13'
+release_year: 1977
+runtime: 248520
 ---
-
 I see the party lights
 Shining in the night
 Make me feel all right
@@ -143,6 +147,3 @@ Well, oh, oh
 Party lights
 Shining in the night
 Out of sight
-
-
-

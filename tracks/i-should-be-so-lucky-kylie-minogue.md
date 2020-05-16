@@ -1,8 +1,11 @@
 ---
+album: Kylie
 artists:
 - Kylie Minogue
+external_ids:
+  spotify: spotify:track:4TxRsgJIhmpfv6AuCIQCoL
 features: []
-genres: []
+first_released_as_single: true
 key: i-should-be-so-lucky-kylie-minogue
 lyrics_url: https://www.azlyrics.com/lyrics/kylieminogue/ishouldbesolucky.html
 name: I Should Be So Lucky
@@ -63,9 +66,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1988-08-06'
+release_year: 1987
+runtime: 204440
 ---
-
-
 In my imagination
 There is no complication
 I dream about you all the time
@@ -118,4 +121,3 @@ I, I, (I, I)
 I should be so lucky (so lucky, so lucky)
 I should be so lucky
 I, I, I, I, I, I, I, I, I, I
-

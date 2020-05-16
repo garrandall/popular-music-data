@@ -1,8 +1,11 @@
 ---
+album: Billy Ocean
 artists:
 - Billy Ocean
+external_ids:
+  spotify: spotify:track:4GhtDORJiSRYxj6M1bv0vX
 features: []
-genres: []
+first_released_as_single: false
 key: love-really-hurts-without-you-billy-ocean
 lyrics_url: https://www.azlyrics.com/lyrics/billyocean/lovereallyhurtswithoutyou.html
 name: Love Really Hurts Without You
@@ -51,8 +54,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1976-06-12'
+release_year: 1976
+runtime: 179013
 ---
-
 You run around town like a fool and you think that it's groovy
 You're givin' it to some other guy who gives you the eye
 You don't give nothin' to me, you painted a smile
@@ -84,4 +88,3 @@ Love really hurts without you,
 Love really hurts through and through
 And it's breaking my heart
 But what can I do without you?
-

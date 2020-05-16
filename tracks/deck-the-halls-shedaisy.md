@@ -1,8 +1,11 @@
 ---
+album: Brand New Year
 artists:
 - SHeDAISY
+external_ids:
+  spotify: spotify:track:3MAQlKrBxFN5QXR7SqxYQh
 features: []
-genres: []
+first_released_as_single: false
 key: deck-the-halls-shedaisy
 lyrics_url: https://www.azlyrics.com/lyrics/shedaisy/deckthehalls.html
 name: Deck The Halls
@@ -19,8 +22,9 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '2000-01-08'
+release_year: 1999
+runtime: 229773
 ---
-
 Deck the halls with boughs of holly
 Fa la la, la la
 
@@ -66,4 +70,3 @@ Yeah la la la (fa la la...a very merry christmas)
 Jingle, jangle santa's got a brand new bag
 
 Merry merry christmas
-

@@ -1,9 +1,12 @@
 ---
+album: Uptown Special
 artists:
 - Mark Ronson
+external_ids:
+  spotify: spotify:track:32OlwWuMpZ6b0aN2RZOeMS
 features:
 - Bruno Mars
-genres: []
+first_released_as_single: false
 key: uptown-funk--mark-ronson-bruno-mars
 lyrics_url: https://www.azlyrics.com/lyrics/markronson/uptownfunk.html
 name: Uptown Funk!
@@ -232,8 +235,9 @@ rankings:
   rank: 22
   ranking_list: Billboard Hot 100
   start_date: '2016-03-05'
+release_year: 2014
+runtime: 269666
 ---
-
 Doh
 Doh doh doh, doh doh doh, doh doh
 Doh doh doh, doh doh doh, doh doh
@@ -368,6 +372,3 @@ Uptown funk you up, uptown funk you up
 Uptown funk you up, uptown funk you up (say whaa?!)
 Uptown funk you up
 Aaaaaaow!
-
-
-

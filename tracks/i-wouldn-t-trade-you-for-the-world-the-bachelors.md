@@ -1,8 +1,11 @@
 ---
+album: The Bachelors - The Decca Years
 artists:
 - The Bachelors
+external_ids:
+  spotify: spotify:track:05nTynN0ierKiHGRKNYzOb
 features: []
-genres: []
+first_released_as_single: false
 key: i-wouldn-t-trade-you-for-the-world-the-bachelors
 lyrics_url: https://genius.com/The-bachelors-i-wouldnt-trade-you-for-the-world-lyrics
 name: I Wouldn't Trade You For The World
@@ -31,6 +34,8 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1964-10-17'
+release_year: 1964
+runtime: 162133
 ---
 Oh ohoohhohh-ohoohoh
 Ohohoohohoh-ohoh

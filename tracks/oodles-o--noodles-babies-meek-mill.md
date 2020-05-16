@@ -1,8 +1,11 @@
 ---
+album: Championships
 artists:
 - Meek Mill
+external_ids:
+  spotify: spotify:track:4FjirFc2N47mHeNrd0dQEu
 features: []
-genres: []
+first_released_as_single: true
 key: oodles-o--noodles-babies-meek-mill
 lyrics_url: https://genius.com/Meek-mill-oodles-o-noodles-babies-lyrics
 name: Oodles O' Noodles Babies
@@ -11,6 +14,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '2018-12-15'
+release_year: 2018
+runtime: 184260
 ---
 This shit right here for my Oodles o' Noodles babies
 His ma’ smoked the crack while she was pregnant so he can't even help that he crazy

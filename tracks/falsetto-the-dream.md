@@ -1,8 +1,11 @@
 ---
+album: Lovehate
 artists:
 - The-Dream
+external_ids:
+  spotify: spotify:track:2P1e3xpjDhYFqOFeu8IWzS
 features: []
-genres: []
+first_released_as_single: false
 key: falsetto-the-dream
 lyrics_url: https://www.azlyrics.com/lyrics/thedream/falsetto.html
 name: Falsetto
@@ -83,8 +86,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2008-05-31'
+release_year: 2007
+runtime: 271173
 ---
-
 Oh oh oh
 Oh oh oh
 Started out talking right here
@@ -182,6 +186,3 @@ Ima meet chu right back here in a half an hour (eyy) (eyy) (eyy)
 
 Ella ella
 Ella ella
-
-
-

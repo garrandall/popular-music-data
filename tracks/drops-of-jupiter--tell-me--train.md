@@ -1,8 +1,11 @@
 ---
+album: Drops Of Jupiter
 artists:
 - Train
+external_ids:
+  spotify: spotify:track:2hKdd3qO7cWr2Jo0Bcs0MA
 features: []
-genres: []
+first_released_as_single: false
 key: drops-of-jupiter--tell-me--train
 lyrics_url: https://genius.com/Train-train-drops-of-jupiter-lyrics
 name: Drops Of Jupiter (Tell Me)
@@ -219,6 +222,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '2002-03-16'
+release_year: 2001
+runtime: 259933
 ---
 Now that she's back in the atmosphere
 With drops of Jupiter in her hair

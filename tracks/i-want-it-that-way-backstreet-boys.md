@@ -1,8 +1,11 @@
 ---
+album: Drive Me Crazy
 artists:
 - Backstreet Boys
+external_ids:
+  spotify: spotify:track:5bQ8Jd4mAYv7CqOuRWyS0V
 features: []
-genres: []
+first_released_as_single: false
 key: i-want-it-that-way-backstreet-boys
 lyrics_url: https://genius.com/Backstreet-boys-i-want-it-that-way-lyrics
 name: I Want It That Way
@@ -131,6 +134,8 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '1999-11-20'
+release_year: 1999
+runtime: 244640
 ---
 Yeah
 

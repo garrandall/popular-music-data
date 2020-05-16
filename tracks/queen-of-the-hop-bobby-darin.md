@@ -1,8 +1,11 @@
 ---
+album: Twist With Bobby Darin
 artists:
 - Bobby Darin
+external_ids:
+  spotify: spotify:track:6GNzFswd2lirFJ2ocGCQQ5
 features: []
-genres: []
+first_released_as_single: false
 key: queen-of-the-hop-bobby-darin
 lyrics_url: https://www.azlyrics.com/lyrics/bobbydarin/queenofthehop.html
 name: Queen Of The Hop
@@ -83,8 +86,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1959-02-09'
+release_year: 1958
+runtime: 131666
 ---
-
 Well you can talk about your Julie and your Peggy Sue 
 You can keep your Miss Molly and your Mary Lou
 When it comes to the chicken or to doing the hop
@@ -124,6 +128,3 @@ Yes that's my queen
 Well that's my queen
 Yes that's my queen
 Well that's my queen...
-
-
-

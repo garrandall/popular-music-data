@@ -1,8 +1,11 @@
 ---
+album: Lou Rawls And Strings
 artists:
 - Lou Rawls
+external_ids:
+  spotify: spotify:track:3WEb8n860JzyMxnRASarOI
 features: []
-genres: []
+first_released_as_single: false
 key: three-o-clock-in-the-morning-lou-rawls
 lyrics_url: https://www.musixmatch.com/lyrics/Lou-Rawls/Three-O-Clock-in-the-Morning
 name: Three O'Clock In The Morning
@@ -11,6 +14,8 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1965-06-05'
+release_year: 1965
+runtime: 173333
 ---
 Three o'clock
 In the morning

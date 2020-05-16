@@ -1,8 +1,11 @@
 ---
+album: '...But Seriously'
 artists:
 - Phil Collins
+external_ids:
+  spotify: spotify:track:4ziqqoW1o3P5EhNqK6CPb1
 features: []
-genres: []
+first_released_as_single: false
 key: something-happened-on-the-way-to-heaven-phil-collins
 lyrics_url: https://www.azlyrics.com/lyrics/philcollins/somethinghappenedonthewaytoheaven.html
 name: Something Happened On The Way To Heaven
@@ -95,8 +98,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1990-12-29'
+release_year: 1989
+runtime: 291586
 ---
-
 We had a life, we had a love,
 But you don't know what you've got 'til you lose it
 Well that was then and this is now
@@ -130,6 +134,3 @@ here with you, you know
 I'd rather leave it
 
 You can run...
-
-
-

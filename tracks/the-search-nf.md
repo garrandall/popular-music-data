@@ -1,8 +1,11 @@
 ---
+album: The Search
 artists:
 - NF
+external_ids:
+  spotify: spotify:track:2OKo7g3KfmCt3kyLvUAL0g
 features: []
-genres: []
+first_released_as_single: true
 key: the-search-nf
 lyrics_url: https://genius.com/Nf-the-search-lyrics
 name: The Search
@@ -15,6 +18,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2019-08-10'
+release_year: 2019
+runtime: 248040
 ---
 "Hey, Nate, how's life?"
 I don’t know, it's alright

@@ -1,8 +1,11 @@
 ---
+album: Mony Mony
 artists:
 - Tommy James And The Shondells
+external_ids:
+  spotify: spotify:track:23xk9Rf7oIHVUU1JvmXYFn
 features: []
-genres: []
+first_released_as_single: false
 key: mony-mony-tommy-james-and-the-shondells
 lyrics_url: https://www.azlyrics.com/lyrics/tommyjamesandtheshondells/monymony.html
 name: Mony Mony
@@ -75,8 +78,9 @@ rankings:
   rank: 34
   ranking_list: Billboard Hot 100
   start_date: '1968-07-27'
+release_year: 1968
+runtime: 174133
 ---
-
 Here she come now, say "Mony, Mony"
 Well, shoot 'em down, turn around, come home, yeah
 Hey, she gives me love and I feel alright now
@@ -131,6 +135,3 @@ Everybody (Mony, Mony)
 All right (Mony, Mony)
 All right (Mony, Mony)
 Come on (Mony, Mony)
-
-
-

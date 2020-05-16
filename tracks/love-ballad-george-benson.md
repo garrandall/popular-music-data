@@ -1,8 +1,11 @@
 ---
+album: Livin' Inside Your Love
 artists:
 - George Benson
+external_ids:
+  spotify: spotify:track:1ZWVUWNY40bbEWX9P833Z3
 features: []
-genres: []
+first_released_as_single: false
 key: love-ballad-george-benson
 lyrics_url: https://www.azlyrics.com/lyrics/georgebenson/loveballad.html
 name: Love Ballad
@@ -67,8 +70,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1979-06-02'
+release_year: 1979
+runtime: 316160
 ---
-
 I have never been so much
 In love, in love before
 What a difference
@@ -103,6 +107,3 @@ And what we have is much more than they can see
 Baby, what we have is much more than they can see
 
 Oh, yeah
-
-
-

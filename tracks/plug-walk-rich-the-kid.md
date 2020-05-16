@@ -1,8 +1,11 @@
 ---
+album: The World Is Yours
 artists:
 - Rich The Kid
+external_ids:
+  spotify: spotify:track:1ZAyjvIk9YiD76yYy0TEG6
 features: []
-genres: []
+first_released_as_single: false
 key: plug-walk-rich-the-kid
 lyrics_url: https://genius.com/Rich-the-kid-plug-walk-lyrics
 name: Plug Walk
@@ -87,6 +90,8 @@ rankings:
   rank: 15
   ranking_list: Billboard Hot 100
   start_date: '2018-07-07'
+release_year: 2018
+runtime: 175229
 ---
 Ayy, ayy (TheLabCook)
 

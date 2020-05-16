@@ -1,8 +1,11 @@
 ---
+album: The Love Album
 artists:
 - Trini Lopez
+external_ids:
+  spotify: spotify:track:4cj5wrbKodTgwR8AMqdYUv
 features: []
-genres: []
+first_released_as_single: false
 key: sad-tomorrows-trini-lopez
 lyrics_url: https://www.musixmatch.com/lyrics/Trini-Lopez/Sad-Tomorrows
 name: Sad Tomorrows
@@ -11,6 +14,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1965-05-01'
+release_year: 1965
+runtime: 173626
 ---
 I don't want no sad tomorrows
 I've had my share of heartache and sorrow

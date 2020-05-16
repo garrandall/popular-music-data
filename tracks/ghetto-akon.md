@@ -1,8 +1,11 @@
 ---
+album: Trouble
 artists:
 - Akon
+external_ids:
+  spotify: spotify:track:6QUHWicoDehyYS0UXQwKAR
 features: []
-genres: []
+first_released_as_single: false
 key: ghetto-akon
 lyrics_url: https://genius.com/Akon-ghetto-lyrics
 name: Ghetto
@@ -27,6 +30,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2005-02-05'
+release_year: 2004
+runtime: 235306
 ---
 Ghetto, ghetto
 Ghetto, ghetto livin'

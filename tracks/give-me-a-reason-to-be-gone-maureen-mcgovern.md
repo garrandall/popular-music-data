@@ -1,8 +1,11 @@
 ---
+album: Best Of/20th Century
 artists:
 - Maureen McGovern
+external_ids:
+  spotify: spotify:track:4mahAIH1RYF6DFblTr3Sor
 features: []
-genres: []
+first_released_as_single: false
 key: give-me-a-reason-to-be-gone-maureen-mcgovern
 lyrics_url: https://www.musixmatch.com/lyrics/Maureen-McGovern/Give-Me-a-Reason-to-Be-Gone
 name: Give Me A Reason To Be Gone
@@ -35,6 +38,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1974-11-30'
+release_year: 1974
+runtime: 165946
 ---
 I don't know what you want from me, baby,
 But I've already given ev'rything I can

@@ -1,8 +1,11 @@
 ---
+album: Passage
 artists:
 - Carpenters
+external_ids:
+  spotify: spotify:track:4ykZMXKdWHgumz5XEOAh9N
 features: []
-genres: []
+first_released_as_single: false
 key: sweet-sweet-smile-carpenters
 lyrics_url: https://www.azlyrics.com/lyrics/carpenters/sweetsweetsmile.html
 name: Sweet Sweet Smile
@@ -59,8 +62,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1978-04-29'
+release_year: 1977
+runtime: 181760
 ---
-
 Yoy're always in my heart
 From early in the mornin' til it's dark
 I gotta see your sweet , sweet smile every day
@@ -93,6 +97,3 @@ From early in the mornin' til it's dark
 I gotta see your sweet , sweet smile every day
 I gotta see your sweet , sweet smile every day
 I gotta see your sweet , sweet smile every day
-
-
-

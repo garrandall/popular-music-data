@@ -1,8 +1,11 @@
 ---
+album: Basket Case 3 (Original Motion Picture Soundtrack)
 artists:
 - Lloyd Price
+external_ids:
+  spotify: spotify:track:5vjigjfoXuJEttqLB3HTAg
 features: []
-genres: []
+first_released_as_single: false
 key: personality-lloyd-price-and-his-orchestra
 lyrics_url: https://genius.com/Lloyd-price-personality-lyrics
 name: Personality
@@ -83,6 +86,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1959-08-31'
+release_year: 1959
+runtime: 157733
 ---
 Over and over
 I tried to prove my love to you

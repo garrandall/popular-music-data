@@ -1,8 +1,11 @@
 ---
+album: THE E.N.D. (THE ENERGY NEVER DIES)
 artists:
 - The Black Eyed Peas
+external_ids:
+  spotify: spotify:track:0xfpx7AiwgSKEtjotea2L6
 features: []
-genres: []
+first_released_as_single: false
 key: meet-me-halfway-the-black-eyed-peas
 lyrics_url: https://genius.com/The-black-eyed-peas-meet-me-halfway-lyrics
 name: Meet Me Halfway
@@ -103,6 +106,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2010-03-13'
+release_year: 2009
+runtime: 284373
 ---
 Oh I can't go any further than this
 Oh I want you so badly, it's my biggest wish

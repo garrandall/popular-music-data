@@ -1,8 +1,11 @@
 ---
+album: Justified
 artists:
 - Justin Timberlake
+external_ids:
+  spotify: spotify:track:6W2Ef5Ph6ILTUAedoQ3QIv
 features: []
-genres: []
+first_released_as_single: false
 key: like-i-love-you-justin-timberlake
 lyrics_url: https://genius.com/Justin-timberlake-like-i-love-you-lyrics
 name: Like I Love You
@@ -87,6 +90,8 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '2003-01-18'
+release_year: 2002
+runtime: 283626
 ---
 Just somethin' 'bout you...
 Way I'm lookin' at you, whatever

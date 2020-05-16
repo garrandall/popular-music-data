@@ -1,8 +1,11 @@
 ---
+album: Outsideinside
 artists:
 - Blue Cheer
+external_ids:
+  spotify: spotify:track:49iKFDnxIRvohfjUlqtQmh
 features: []
-genres: []
+first_released_as_single: false
 key: just-a-little-bit-blue-cheer
 lyrics_url: https://genius.com/Blue-cheer-just-a-little-bit-lyrics
 name: Just A Little Bit
@@ -23,6 +26,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1968-07-27'
+release_year: 1968
+runtime: 205600
 ---
 (Dickie Peterson)
 I feel good sensation

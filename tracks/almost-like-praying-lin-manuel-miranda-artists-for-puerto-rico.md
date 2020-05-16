@@ -1,9 +1,12 @@
 ---
+album: Almost Like Praying
 artists:
 - Lin-Manuel Miranda
+external_ids:
+  spotify: spotify:track:3dskm5fAe8OkBtM9E0VVWx
 features:
 - Artists For Puerto Rico
-genres: []
+first_released_as_single: true
 key: almost-like-praying-lin-manuel-miranda-artists-for-puerto-rico
 lyrics_url: https://www.musixmatch.com/lyrics/Lin-Manuel-Miranda-feat-Alex-Lacamoire-Ana-Villafa%C3%B1e-Anthony-Ramos-Camila-Cabello-Dessa-Ednita-Nazario-Fat-Joe-Gilberto-Santa-Rosa-Gina-Rodriguez-Gloria-Estefan-Joell-Ortiz-John-Leguizamo-Juan-Luis-Gu/Almost-Like-Praying-feat-Artists-for-Puerto-Rico
 name: Almost Like Praying
@@ -12,6 +15,8 @@ rankings:
   rank: 20
   ranking_list: Billboard Hot 100
   start_date: '2017-10-28'
+release_year: 2017
+runtime: 200457
 ---
 Say it loud and there's music playing...
 Say it soft and it's almost like praying

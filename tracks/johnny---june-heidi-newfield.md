@@ -1,8 +1,11 @@
 ---
+album: What Am I Waiting For
 artists:
 - Heidi Newfield
+external_ids:
+  spotify: spotify:track:6FmgSnILynpsvDmWTE9uPW
 features: []
-genres: []
+first_released_as_single: false
 key: johnny---june-heidi-newfield
 lyrics_url: https://www.azlyrics.com/lyrics/heidinewfield/johnnyjune.html
 name: Johnny & June
@@ -67,8 +70,9 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '2008-11-01'
+release_year: 2008
+runtime: 218453
 ---
-
 Oh there's something 'bout a man in black,
 Makes me want to buy a cadillac,
 Throw the top back,
@@ -137,6 +141,3 @@ There'll be no tears to cry,
 Only memories of our lives,
 They'll remember, remember,
 A love like that.
-
-
-

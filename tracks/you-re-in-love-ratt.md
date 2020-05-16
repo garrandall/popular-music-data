@@ -1,8 +1,11 @@
 ---
+album: Invasion Of Your Privacy
 artists:
 - Ratt
+external_ids:
+  spotify: spotify:track:3D3lmTEhuWaunO1yxpYPD8
 features: []
-genres: []
+first_released_as_single: false
 key: you-re-in-love-ratt
 lyrics_url: https://genius.com/Ratt-youre-in-love-lyrics
 name: You're In Love
@@ -15,6 +18,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1985-10-19'
+release_year: 1985
+runtime: 194106
 ---
 You take the midnight subway train
 You're callin' all the shots

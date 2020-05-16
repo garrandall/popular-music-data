@@ -1,8 +1,11 @@
 ---
+album: Emotional Traffic
 artists:
 - Tim McGraw
+external_ids:
+  spotify: spotify:track:0MT21PlGXvd67TNk3ski6c
 features: []
-genres: []
+first_released_as_single: false
 key: better-than-i-used-to-be-tim-mcgraw
 lyrics_url: https://genius.com/Tim-mcgraw-better-than-i-used-to-be-lyrics
 name: Better Than I Used To Be
@@ -87,6 +90,8 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '2012-06-16'
+release_year: 2011
+runtime: 201000
 ---
 I know how to hold a grudge
 I can send a bridge up in smoke

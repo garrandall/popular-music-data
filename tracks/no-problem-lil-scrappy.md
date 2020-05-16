@@ -1,8 +1,11 @@
 ---
+album: Arena Hip-Hop
 artists:
 - Lil Scrappy
+external_ids:
+  spotify: spotify:track:0lP73Fx57TYA9Tc2JRC6VC
 features: []
-genres: []
+first_released_as_single: true
 key: no-problem-lil-scrappy
 lyrics_url: https://www.azlyrics.com/lyrics/lilscrappy/noproblem.html
 name: No Problem
@@ -87,11 +90,9 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '2004-11-27'
+release_year: 2004
+runtime: 256346
 ---
-
-
-
-
 You can get crunk in the club
 Roll wit your hood
 Get stomped in the club
@@ -144,4 +145,3 @@ In the A we don't play them games
 We just stack and slang and load up them things
 Gettin buck if you wanna and catch a bow
 Keep your pretty ass gull, beat your ass, and take your hoe
-

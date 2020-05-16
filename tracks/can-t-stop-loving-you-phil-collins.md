@@ -1,8 +1,11 @@
 ---
+album: Testify
 artists:
 - Phil Collins
+external_ids:
+  spotify: spotify:track:6VHTM8wPmXUYeDSucBNhrA
 features: []
-genres: []
+first_released_as_single: true
 key: can-t-stop-loving-you-phil-collins
 lyrics_url: https://genius.com/Phil-collins-cant-stop-loving-you-lyrics
 name: Can't Stop Loving You
@@ -87,6 +90,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2003-06-14'
+release_year: 2002
+runtime: 257173
 ---
 So you're leaving in the morning on the early train
 I could say everything's alright

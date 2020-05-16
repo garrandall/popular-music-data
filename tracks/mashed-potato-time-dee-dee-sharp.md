@@ -1,8 +1,11 @@
 ---
+album: It's Mashed Potato Time/Do The Bird
 artists:
 - Dee Dee Sharp
+external_ids:
+  spotify: spotify:track:6jouZcdraQvsbh7SWkLEui
 features: []
-genres: []
+first_released_as_single: false
 key: mashed-potato-time-dee-dee-sharp
 lyrics_url: https://genius.com/Dee-dee-sharp-mashed-potato-time-lyrics
 name: Mashed Potato Time
@@ -79,6 +82,8 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '1962-06-30'
+release_year: 1962
+runtime: 150866
 ---
 It's the latest, it's the greatest
 Mashed Potato, ya, ya ,ya

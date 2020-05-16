@@ -1,8 +1,11 @@
 ---
+album: Running on Empty
 artists:
 - Jackson Browne
+external_ids:
+  spotify: spotify:track:5eMjcHVRRh1tbimTgJPoGn
 features: []
-genres: []
+first_released_as_single: false
 key: stay-jackson-browne
 lyrics_url: https://genius.com/Jackson-browne-the-load-out-stay-lyrics
 name: Stay
@@ -67,6 +70,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1978-09-16'
+release_year: 1977
+runtime: 204464
 ---
 Now the seats are all empty
 Let the roadies take the stage

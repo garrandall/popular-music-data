@@ -1,8 +1,11 @@
 ---
+album: Dove's In Love Vol. 2 -
 artists:
 - Ronnie Dove
+external_ids:
+  spotify: spotify:track:0uTIjk6BJ2dcz5bbZNchk4
 features: []
-genres: []
+first_released_as_single: false
 key: i-really-don-t-want-to-know-ronnie-dove
 lyrics_url: https://genius.com/Ronnie-dove-i-really-dont-want-to-know-lyrics
 name: I Really Don't Want To Know
@@ -43,6 +46,8 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '1966-10-29'
+release_year: 1966
+runtime: 182520
 ---
 (I really don't want to know)
 

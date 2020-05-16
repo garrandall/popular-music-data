@@ -1,8 +1,11 @@
 ---
+album: Crowded House
 artists:
 - Crowded House
+external_ids:
+  spotify: spotify:track:6aInKHoFNCD7DPWUhFRfUE
 features: []
-genres: []
+first_released_as_single: false
 key: world-where-you-live-crowded-house
 lyrics_url: https://www.musixmatch.com/lyrics/Crowded-House/World-Where-You-Live-Live-at-Sydney-Opera-House-2006-Remaster
 name: World Where You Live
@@ -39,6 +42,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1987-09-26'
+release_year: 1986
+runtime: 184640
 ---
 Here's someone now who's got the muscle
 His steady hand could move a mountain

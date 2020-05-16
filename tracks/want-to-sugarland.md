@@ -1,8 +1,11 @@
 ---
+album: Enjoy The Ride
 artists:
 - Sugarland
+external_ids:
+  spotify: spotify:track:3kqLybBT5LRSB9QCoR3ojK
 features: []
-genres: []
+first_released_as_single: false
 key: want-to-sugarland
 lyrics_url: https://www.azlyrics.com/lyrics/sugarland/alliwanttodo.html
 name: Want To
@@ -87,8 +90,9 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2007-02-17'
+release_year: 2006
+runtime: 215293
 ---
-
 I don't want to get up, baby lets turn off the phone
 I don't want to go to work today or even put my make-up on
 I got better things to do on my to-do list anyway
@@ -127,6 +131,3 @@ All I really want to do is
 
 Ooo...
 Ooo...
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Mr. Soul
 artists:
 - Sam Cooke
+external_ids:
+  spotify: spotify:track:2wMoTrnS0xlNBA74TsWsiz
 features: []
-genres: []
+first_released_as_single: false
 key: nothing-can-change-this-love-sam-cooke
 lyrics_url: https://genius.com/Sam-cooke-nothing-can-change-this-love-lyrics
 name: Nothing Can Change This Love
@@ -51,6 +54,8 @@ rankings:
   rank: 34
   ranking_list: Billboard Hot 100
   start_date: '1962-12-08'
+release_year: 1960
+runtime: 159653
 ---
 If I go, a million miles away
 I'd write a letter, each and everyday

@@ -1,10 +1,13 @@
 ---
+album: JACKBOYS
 artists:
 - Don Toliver
+external_ids:
+  spotify: spotify:track:7LGWmZaoS7jZJ5tEi9EcDi
 features:
 - Quavo
 - Offset
-genres: []
+first_released_as_single: false
 key: had-enough-don-toliver-quavo-offset
 lyrics_url: https://www.azlyrics.com/lyrics/dontoliver/hadenough.html
 name: HAD ENOUGH
@@ -17,9 +20,9 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '2020-01-18'
+release_year: 2019
+runtime: 157133
 ---
-
-
 I know
 I know you had enough (Oh)
 I know you had enough (Oh)
@@ -78,6 +81,3 @@ I know you had enough
 I know you had enough of me
 I can't really tell what you want
 I know you had enough of me
-
-
-

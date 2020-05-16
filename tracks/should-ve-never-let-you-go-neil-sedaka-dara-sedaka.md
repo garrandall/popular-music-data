@@ -1,9 +1,12 @@
 ---
+album: The Definitive Collection
 artists:
 - Neil Sedaka
 - Dara Sedaka
+external_ids:
+  spotify: spotify:track:4hIAiFaEtHWWofVzVm4eTo
 features: []
-genres: []
+first_released_as_single: false
 key: should-ve-never-let-you-go-neil-sedaka-dara-sedaka
 lyrics_url: https://genius.com/Neil-sedaka-shouldve-never-let-you-go-lyrics
 name: Should've Never Let You Go
@@ -84,6 +87,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1980-08-02'
+release_year: 1980
+runtime: 258133
 ---
 When you walk into a room
 Your beauty steals my breath away

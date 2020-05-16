@@ -1,8 +1,11 @@
 ---
+album: Ecology
 artists:
 - Rare Earth
+external_ids:
+  spotify: spotify:track:18bZGZU0wZ2lV1SEDoXqqr
 features: []
-genres: []
+first_released_as_single: false
 key: -i-know--i-m-losing-you-rare-earth
 lyrics_url: https://genius.com/Rare-earth-i-know-im-losing-you-lyrics
 name: (I Know) I'm Losing You
@@ -63,6 +66,8 @@ rankings:
   rank: 32
   ranking_list: Billboard Hot 100
   start_date: '1970-10-31'
+release_year: 1970
+runtime: 215986
 ---
 Your love is fadin', I feel it fade
 Ah, your love is fadin', I feel it fade

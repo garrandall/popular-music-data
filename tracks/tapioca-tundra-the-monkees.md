@@ -1,8 +1,11 @@
 ---
+album: The Birds, The Bees, & The Monkees
 artists:
 - The Monkees
+external_ids:
+  spotify: spotify:track:0J50Q2cDZtUP3hXIJTddpa
 features: []
-genres: []
+first_released_as_single: false
 key: tapioca-tundra-the-monkees
 lyrics_url: https://www.azlyrics.com/lyrics/monkees/tapiocatundra.html
 name: Tapioca Tundra
@@ -31,8 +34,9 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1968-04-13'
+release_year: 1968
+runtime: 185213
 ---
-
 Reasoned verse, some prose or rhyme
 Lose themselves in other times
 And waiting hopes cast cast silent spells
@@ -77,6 +81,3 @@ And one more time the faded dream
 Is saddened by the news.
 It cannot be a part of me
 For now it's part of you.
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Music From The Edge Of Heaven
 artists:
 - Wham!
+external_ids:
+  spotify: spotify:track:6hoUWEGKF3BgIdXrDOiF6c
 features: []
-genres: []
+first_released_as_single: false
 key: where-did-your-heart-go--wham-
 lyrics_url: https://www.azlyrics.com/lyrics/wham/wheredidyourheartgo.html
 name: Where Did Your Heart Go?
@@ -39,8 +42,9 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1986-11-29'
+release_year: 1986
+runtime: 342866
 ---
-
 I spend my nights down on the wharf
 In unlit alleyways
 By the church downtown
@@ -67,4 +71,3 @@ And rock 'n' roll won't teach me
 What the river said that night
 I jumped into this beauty
 And drifted out of sight...
-

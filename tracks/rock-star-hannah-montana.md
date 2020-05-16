@@ -1,8 +1,11 @@
 ---
+album: Hannah Montana 2 / Meet Miley Cyrus
 artists:
 - Hannah Montana
+external_ids:
+  spotify: spotify:track:7smCjIc7MoUM4ay55LQrdu
 features: []
-genres: []
+first_released_as_single: false
 key: rock-star-hannah-montana
 lyrics_url: https://www.azlyrics.com/lyrics/hannahmontana/rockstar.html
 name: Rock Star
@@ -23,9 +26,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2008-03-08'
+release_year: 2007
+runtime: 178560
 ---
-
-
 Sometimes I walk a little faster
 In the school hallway
 Just to get next to you
@@ -97,6 +100,3 @@ I am a rock star
 Whoa whoa whoa
 
 Good night everybody!
-
-
-

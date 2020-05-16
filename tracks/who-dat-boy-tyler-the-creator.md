@@ -1,8 +1,11 @@
 ---
+album: Flower Boy
 artists:
 - Tyler, The Creator
+external_ids:
+  spotify: spotify:track:1a0wEEHipnBR7WOHFA6ucQ
 features: []
-genres: []
+first_released_as_single: true
 key: who-dat-boy-tyler-the-creator
 lyrics_url: https://www.azlyrics.com/lyrics/tylerthecreator/whodatboy.html
 name: Who Dat Boy
@@ -11,6 +14,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '2017-07-22'
+release_year: 2017
+runtime: 205093
 ---
 Yo, who dat boy? Who him is?
 Him that nig-ga, I swear

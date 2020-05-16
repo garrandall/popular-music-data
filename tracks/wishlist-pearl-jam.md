@@ -1,8 +1,11 @@
 ---
+album: Yield
 artists:
 - Pearl Jam
+external_ids:
+  spotify: spotify:track:7hObovvcbBpXgZHQ9if4WU
 features: []
-genres: []
+first_released_as_single: false
 key: wishlist-pearl-jam
 lyrics_url: https://www.azlyrics.com/lyrics/pearljam/wishlist.html
 name: Wishlist
@@ -87,8 +90,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1998-10-03'
+release_year: 1998
+runtime: 206586
 ---
-
 I wish I was a neutron bomb, for once I could go off
 I wish I was a sacrifice but somehow still lived on
 I wish I was a sentimental ornament you hung on
@@ -109,6 +113,3 @@ I wish I was the verb 'to trust' and never let you down
 I wish I was a radio song, the one that you turned up
 I wish...
 I wish...
-
-
-

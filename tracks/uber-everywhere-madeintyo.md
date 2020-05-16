@@ -1,8 +1,11 @@
 ---
+album: You Are Forgiven
 artists:
 - MadeinTYO
+external_ids:
+  spotify: spotify:track:7zBPzAjKAqQpcv8F8GCq5s
 features: []
-genres: []
+first_released_as_single: true
 key: uber-everywhere-madeintyo
 lyrics_url: https://genius.com/Madeintyo-uber-everywhere-lyrics
 name: Uber Everywhere
@@ -87,6 +90,8 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '2016-09-03'
+release_year: 2016
+runtime: 153428
 ---
 K. Swisha on the track
 Skrrt-skrrt

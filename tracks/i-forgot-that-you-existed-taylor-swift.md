@@ -1,8 +1,11 @@
 ---
+album: Lover
 artists:
 - Taylor Swift
+external_ids:
+  spotify: spotify:track:43rA71bccXFGD4C8GOpIlN
 features: []
-genres: []
+first_released_as_single: false
 key: i-forgot-that-you-existed-taylor-swift
 lyrics_url: https://www.azlyrics.com/lyrics/taylorswift/iforgotthatyouexisted.html
 name: I Forgot That You Existed
@@ -15,8 +18,9 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '2019-09-14'
+release_year: 2019
+runtime: 170640
 ---
-
 How many days did I spend thinking
 'Bout how you did me wrong, wrong, wrong?
 Lived in the shade you were throwing
@@ -69,6 +73,3 @@ I did, I did, I did
 It isn't hate, it's just indifference
 It isn't love, it isn't hate, it's just indifference
 So, yeah
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: We Were Dead Before The Ship Even Sank
 artists:
 - Modest Mouse
+external_ids:
+  spotify: spotify:track:0Fe3WxeO6lZZxj7ytvbDUh
 features: []
-genres: []
+first_released_as_single: false
 key: dashboard-modest-mouse
 lyrics_url: https://www.azlyrics.com/lyrics/modestmouse/dashboard.html
 name: Dashboard
@@ -31,8 +34,9 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '2007-04-14'
+release_year: 2007
+runtime: 246173
 ---
-
 Well, it would've been, could've been worse than you would ever know.
 Oh, the dashboard melted, but we still have the radio.
 
@@ -92,6 +96,3 @@ and in the evening one's consoling
 Saying "See it wasn't quite as bad as"
 
 Oh it would've been, could've been worse than you would ever know.
-
-
-

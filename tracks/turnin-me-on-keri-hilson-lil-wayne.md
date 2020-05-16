@@ -1,9 +1,12 @@
 ---
+album: In A Perfect World...
 artists:
 - Keri Hilson
+external_ids:
+  spotify: spotify:track:3R6dN42VdwivkZTMz03Rci
 features:
 - Lil Wayne
-genres: []
+first_released_as_single: true
 key: turnin-me-on-keri-hilson-lil-wayne
 lyrics_url: https://genius.com/Keri-hilson-turnin-me-on-lyrics
 name: Turnin Me On
@@ -96,6 +99,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '2009-05-30'
+release_year: 2008
+runtime: 248066
 ---
 Yeah
 Like this

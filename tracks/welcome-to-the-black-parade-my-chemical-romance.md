@@ -1,8 +1,11 @@
 ---
+album: The Black Parade
 artists:
 - My Chemical Romance
+external_ids:
+  spotify: spotify:track:5wQnmLuC1W7ATsArWACrgW
 features: []
-genres: []
+first_released_as_single: false
 key: welcome-to-the-black-parade-my-chemical-romance
 lyrics_url: https://genius.com/My-chemical-romance-welcome-to-the-black-parade-lyrics
 name: Welcome To The Black Parade
@@ -111,6 +114,8 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '2007-03-24'
+release_year: 2006
+runtime: 311106
 ---
 When I was a young boy, my father
 Took me into the city to see a marching band

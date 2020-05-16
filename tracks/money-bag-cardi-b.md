@@ -1,8 +1,11 @@
 ---
+album: Invasion of Privacy
 artists:
 - Cardi B
+external_ids:
+  spotify: spotify:track:1pDbsP7PvHrZZ70NVFyEWX
 features: []
-genres: []
+first_released_as_single: false
 key: money-bag-cardi-b
 lyrics_url: https://genius.com/Cardi-b-money-bag-lyrics
 name: Money Bag
@@ -15,6 +18,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '2018-04-28'
+release_year: 2018
+runtime: 229004
 ---
 Money bag, money bag
 Money bag, bitch, I'm lookin' like a money bag (yeah)

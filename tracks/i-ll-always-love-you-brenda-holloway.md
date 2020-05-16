@@ -1,8 +1,11 @@
 ---
+album: The Motown Anthology
 artists:
 - Brenda Holloway
+external_ids:
+  spotify: spotify:track:1WetFltHqdcEaVUJ2EvRc8
 features: []
-genres: []
+first_released_as_single: false
 key: i-ll-always-love-you-brenda-holloway
 lyrics_url: https://genius.com/Brenda-holloway-ill-always-love-you-lyrics
 name: I'll Always Love You
@@ -27,6 +30,8 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '1964-09-05'
+release_year: 1964
+runtime: 172560
 ---
 Your kiss, your kiss, your kiss
 Means more to me than anything I've ever known before

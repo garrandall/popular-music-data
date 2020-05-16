@@ -1,8 +1,11 @@
 ---
+album: New Clear Days
 artists:
 - The Vapors
+external_ids:
+  spotify: spotify:track:1lEZPb7x0eWAN8Ds9NJyKY
 features: []
-genres: []
+first_released_as_single: true
 key: turning-japanese-the-vapors
 lyrics_url: https://genius.com/The-vapors-turning-japanese-lyrics
 name: Turning Japanese
@@ -75,6 +78,8 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1981-01-17'
+release_year: 1980
+runtime: 225186
 ---
 I've got your picture
 Of me and you

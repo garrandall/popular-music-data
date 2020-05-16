@@ -1,8 +1,11 @@
 ---
+album: Deborah Cox (Expanded)
 artists:
 - Deborah Cox
+external_ids:
+  spotify: spotify:track:0HxnxjgFTmj1MZYOUj8Sq1
 features: []
-genres: []
+first_released_as_single: false
 key: the-sound-of-my-tears-deborah-cox
 lyrics_url: https://www.azlyrics.com/lyrics/deborahcox/thesoundofmytears.html
 name: The Sound Of My Tears
@@ -23,8 +26,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1997-01-25'
+release_year: 1995
+runtime: 291573
 ---
-
 Always the life of the party
 Always the clown of the class
 All of my friends see me happy baby
@@ -55,4 +59,3 @@ It's only just a lie
 Pay it no mind
 You know the truth behind the smile
 It's only just a lie
-

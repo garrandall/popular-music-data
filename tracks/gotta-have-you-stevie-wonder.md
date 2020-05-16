@@ -1,8 +1,11 @@
 ---
+album: Music From The Movie "Jungle Fever"
 artists:
 - Stevie Wonder
+external_ids:
+  spotify: spotify:track:6zYUYfZ5wzJUN8BhL0nA4k
 features: []
-genres: []
+first_released_as_single: false
 key: gotta-have-you-stevie-wonder
 lyrics_url: https://genius.com/Stevie-wonder-gotta-have-you-lyrics
 name: Gotta Have You
@@ -19,6 +22,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1991-08-03'
+release_year: 1991
+runtime: 386306
 ---
 Never been too much for watching
 Because there's too many things to view

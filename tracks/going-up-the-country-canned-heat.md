@@ -1,8 +1,11 @@
 ---
+album: On The Road Again
 artists:
 - Canned Heat
+external_ids:
+  spotify: spotify:track:57460SJgSpCXaRJ9YIYHxy
 features: []
-genres: []
+first_released_as_single: false
 key: going-up-the-country-canned-heat
 lyrics_url: https://genius.com/Canned-heat-going-up-the-country-lyrics
 name: Going Up The Country
@@ -51,6 +54,8 @@ rankings:
   rank: 37
   ranking_list: Billboard Hot 100
   start_date: '1969-02-15'
+release_year: 1968
+runtime: 171373
 ---
 I'm going up the country, baby, don't you wanna go?
 I'm going up the country, baby, don't you wanna go?

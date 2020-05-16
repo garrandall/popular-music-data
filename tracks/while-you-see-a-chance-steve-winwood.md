@@ -1,8 +1,11 @@
 ---
+album: Arc Of A Diver
 artists:
 - Steve Winwood
+external_ids:
+  spotify: spotify:track:4JAFyW6oZV6DIADeV619QG
 features: []
-genres: []
+first_released_as_single: false
 key: while-you-see-a-chance-steve-winwood
 lyrics_url: https://genius.com/Steve-winwood-while-you-see-a-chance-lyrics
 name: While You See A Chance
@@ -79,6 +82,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1981-06-06'
+release_year: 1980
+runtime: 312773
 ---
 Stand up in a clear blue morning
 Until you see what can be

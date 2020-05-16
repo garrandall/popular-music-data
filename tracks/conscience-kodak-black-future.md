@@ -1,9 +1,12 @@
 ---
+album: Painting Pictures
 artists:
 - Kodak Black
+external_ids:
+  spotify: spotify:track:16dXg2YuFOxwDC3cTf5jde
 features:
 - Future
-genres: []
+first_released_as_single: false
 key: conscience-kodak-black-future
 lyrics_url: https://www.azlyrics.com/lyrics/kodakblack/conscience.html
 name: Conscience
@@ -12,9 +15,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2017-04-22'
+release_year: 2017
+runtime: 219753
 ---
-
-
 Yeah, Project Baby
 These streets took my conscience
 Glee
@@ -96,6 +99,3 @@ These streets took my conscience
 All the finer things, designer jeans, I'm getting paid
 All the finer things, designer jeans, I'm getting paid
 All the finer things, designer jeans, I'm getting paid
-
-
-

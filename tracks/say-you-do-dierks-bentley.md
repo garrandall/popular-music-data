@@ -1,8 +1,11 @@
 ---
+album: RISER
 artists:
 - Dierks Bentley
+external_ids:
+  spotify: spotify:track:2sE61ZmvYH8wiOx5jygkHH
 features: []
-genres: []
+first_released_as_single: false
 key: say-you-do-dierks-bentley
 lyrics_url: https://www.azlyrics.com/lyrics/dierksbentley/sayyoudo.html
 name: Say You Do
@@ -79,8 +82,9 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '2015-05-30'
+release_year: 2014
+runtime: 219360
 ---
-
 Don't worry about the damage done
 Just let those words roll off your tongue
 Even if you're lyin'
@@ -127,6 +131,3 @@ Even if you're lyin'
 
 Say you do
 Just say you do
-
-
-

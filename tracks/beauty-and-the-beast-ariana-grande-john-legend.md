@@ -1,9 +1,12 @@
 ---
+album: Beauty and the Beast
 artists:
 - Ariana Grande
 - John Legend
+external_ids:
+  spotify: spotify:track:7wMPhUSe6CZga1vOMpLTJP
 features: []
-genres: []
+first_released_as_single: false
 key: beauty-and-the-beast-ariana-grande-john-legend
 lyrics_url: https://www.azlyrics.com/lyrics/arianagrande/beautyandthebeast.html
 name: Beauty And The Beast
@@ -12,9 +15,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '2017-02-25'
+release_year: 2017
+runtime: 227928
 ---
-
-
 Tale as old as time
 True as it can be
 Barely even friends
@@ -75,6 +78,3 @@ Beauty and the Beast
 
 Beauty and...
 Beauty and the Beast
-
-
-

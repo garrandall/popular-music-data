@@ -1,8 +1,11 @@
 ---
+album: This One's For You
 artists:
 - Barry Manilow
+external_ids:
+  spotify: spotify:track:04rH8VUco2tMUsKTcTknlF
 features: []
-genres: []
+first_released_as_single: false
 key: looks-like-we-made-it-barry-manilow
 lyrics_url: https://www.azlyrics.com/lyrics/barrymanilow/lookslikewemadeit.html
 name: Looks Like We Made It
@@ -83,8 +86,9 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '1977-09-10'
+release_year: 1974
+runtime: 213762
 ---
-
 There you are
 Looking just the same as you did last time I touched you
 And here I am
@@ -129,6 +133,3 @@ Until you were there, everywhere
 And all I could taste is love the way we made it
 Looks like we made it
 Whoa babe we made it
-
-
-

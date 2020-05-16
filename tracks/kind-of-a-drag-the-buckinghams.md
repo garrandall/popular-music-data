@@ -1,8 +1,11 @@
 ---
+album: Kind of a Drag
 artists:
 - The Buckinghams
+external_ids:
+  spotify: spotify:track:65wUTKQhWvfCoGvayiJ4du
 features: []
-genres: []
+first_released_as_single: false
 key: kind-of-a-drag-the-buckinghams
 lyrics_url: https://www.azlyrics.com/lyrics/buckinghams/kindofadrag.html
 name: Kind Of A Drag
@@ -59,8 +62,9 @@ rankings:
   rank: 34
   ranking_list: Billboard Hot 100
   start_date: '1967-03-25'
+release_year: 1966
+runtime: 127160
 ---
-
 Kind of a drag
 When your baby don't love you
 Kind of a drag
@@ -98,6 +102,3 @@ Anyway
 Anyway
 Anyway
 Anyway
-
-
-

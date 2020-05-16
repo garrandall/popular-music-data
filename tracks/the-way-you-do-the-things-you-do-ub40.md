@@ -1,8 +1,11 @@
 ---
+album: Labour Of Love II
 artists:
 - UB40
+external_ids:
+  spotify: spotify:track:6ozp716QFraV8OrewK6ln4
 features: []
-genres: []
+first_released_as_single: false
 key: the-way-you-do-the-things-you-do-ub40
 lyrics_url: https://www.azlyrics.com/lyrics/ub40/thewayyoudothethingsyoudo.html
 name: The Way You Do The Things You Do
@@ -107,8 +110,9 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1991-03-02'
+release_year: 1989
+runtime: 182466
 ---
-
 You got a smile so bright
 You know you could have been a candle
 I'm holding you so tight
@@ -149,4 +153,3 @@ The way you stole my heart
 You know you could have been a crook
 And baby your so smart
 You know you could have been a school book
-

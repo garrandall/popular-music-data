@@ -1,8 +1,11 @@
 ---
+album: In the Summertime
 artists:
 - Mungo Jerry
+external_ids:
+  spotify: spotify:track:3RNyGLgSvmVRZ7xKUp8Wgd
 features: []
-genres: []
+first_released_as_single: false
 key: in-the-summertime-mungo-jerry
 lyrics_url: https://genius.com/Mungo-jerry-in-the-summertime-lyrics
 name: In The Summertime
@@ -59,6 +62,8 @@ rankings:
   rank: 35
   ranking_list: Billboard Hot 100
   start_date: '1970-10-03'
+release_year: 1970
+runtime: 211880
 ---
 Chh chh-chh, uh, Chh chh-chh, uh
 Chh chh-chh, uh, Chh chh-chh, uh

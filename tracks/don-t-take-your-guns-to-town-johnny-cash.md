@@ -1,8 +1,11 @@
 ---
+album: The Fabulous Johnny Cash
 artists:
 - Johnny Cash
+external_ids:
+  spotify: spotify:track:0kgnY9oWyxnqRY0iPHOy8O
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-take-your-guns-to-town-johnny-cash
 lyrics_url: https://genius.com/Johnny-cash-dont-take-your-guns-to-town-lyrics
 name: Don't Take Your Guns To Town
@@ -55,6 +58,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1959-04-06'
+release_year: 1954
+runtime: 180800
 ---
 A young cowboy named Billy Joe grew restless on the farm
 A boy filled with wonderlust who really meant no harm

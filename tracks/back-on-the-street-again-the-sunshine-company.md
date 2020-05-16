@@ -1,8 +1,11 @@
 ---
+album: Lost Hits Of The 60's
 artists:
 - The Sunshine Company
+external_ids:
+  spotify: spotify:track:6Lh3SlKQAe86VtJpOJWqTt
 features: []
-genres: []
+first_released_as_single: false
 key: back-on-the-street-again-the-sunshine-company
 lyrics_url: https://genius.com/The-sunshine-company-back-on-the-street-again-lyrics
 name: Back On The Street Again
@@ -35,6 +38,8 @@ rankings:
   rank: 36
   ranking_list: Billboard Hot 100
   start_date: '1967-12-02'
+release_year: 1967
+runtime: 151160
 ---
 I'm back on the street again
 Gotta stand on my own two feet again

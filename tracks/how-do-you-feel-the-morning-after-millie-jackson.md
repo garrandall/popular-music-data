@@ -1,8 +1,11 @@
 ---
+album: I Got To Try It One Time
 artists:
 - Millie Jackson
+external_ids:
+  spotify: spotify:track:0gHjLOYL4ECUAfSHPm2AGF
 features: []
-genres: []
+first_released_as_single: false
 key: how-do-you-feel-the-morning-after-millie-jackson
 lyrics_url: https://genius.com/Millie-jackson-how-do-you-feel-the-morning-after-lyrics
 name: How Do You Feel The Morning After
@@ -35,6 +38,8 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1974-07-20'
+release_year: 1974
+runtime: 180600
 ---
 You've given me things
 That mean a lot

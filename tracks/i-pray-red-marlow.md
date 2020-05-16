@@ -1,8 +1,11 @@
 ---
+album: The Complete Season 13 Collection (The Voice Performance)
 artists:
 - Red Marlow
+external_ids:
+  spotify: spotify:track:4cF4l5ShMLqMCFeabt8Xa6
 features: []
-genres: []
+first_released_as_single: false
 key: i-pray-red-marlow
 lyrics_url: https://genius.com/Red-marlow-i-pray-lyrics
 name: I Pray
@@ -11,6 +14,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '2018-01-03'
+release_year: 2017
+runtime: 213577
 ---
 When I look up from the bottom
 I still don't see the light

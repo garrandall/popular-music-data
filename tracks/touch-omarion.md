@@ -1,8 +1,11 @@
 ---
+album: O
 artists:
 - Omarion
+external_ids:
+  spotify: spotify:track:6LKktlXnCRORBK7ZwCRvEj
 features: []
-genres: []
+first_released_as_single: false
 key: touch-omarion
 lyrics_url: https://genius.com/Omarion-touch-lyrics
 name: Touch
@@ -19,6 +22,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2005-07-30'
+release_year: 2002
+runtime: 202586
 ---
 Yeah, Lets get real comfortable
 Lay back

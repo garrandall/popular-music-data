@@ -1,8 +1,11 @@
 ---
+album: 'The Best Of Vikki Carr: It Must Be Him'
 artists:
 - Vikki Carr
+external_ids:
+  spotify: spotify:track:2KukEvIw9uzm5rbfvtAsae
 features: []
-genres: []
+first_released_as_single: false
 key: she-ll-be-there-vikki-carr
 lyrics_url: https://genius.com/Vikki-carr-shell-be-there-lyrics
 name: She'll Be There
@@ -19,6 +22,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1968-04-06'
+release_year: 1968
+runtime: 155666
 ---
 He will walk into the room
 And look at me

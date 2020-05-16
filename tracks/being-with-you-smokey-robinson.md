@@ -1,8 +1,11 @@
 ---
+album: Being With You
 artists:
 - Smokey Robinson
+external_ids:
+  spotify: spotify:track:5khAYmr8HHFwI3sp0Lw9wp
 features: []
-genres: []
+first_released_as_single: false
 key: being-with-you-smokey-robinson
 lyrics_url: https://genius.com/Smokey-robinson-being-with-you-lyrics
 name: Being With You
@@ -107,6 +110,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1981-08-01'
+release_year: 1981
+runtime: 246960
 ---
 I don't care what they think about me and
 I don't care what they say

@@ -1,9 +1,12 @@
 ---
+album: Soul and R&b Jams!
 artists:
 - Peggy Scott
 - Jo Jo Benson
+external_ids:
+  spotify: spotify:track:6z5SZJS63lj7Boc5PlOGUc
 features: []
-genres: []
+first_released_as_single: true
 key: pickin--wild-mountain-berries-peggy-scott-jo-jo-benson
 lyrics_url: https://www.musixmatch.com/lyrics/Peggy-Scott-Jo-Jo-Benson/Pickin-Wild-Mountain-Berries
 name: Pickin' Wild Mountain Berries
@@ -48,6 +51,8 @@ rankings:
   rank: 33
   ranking_list: Billboard Hot 100
   start_date: '1968-12-21'
+release_year: 1965
+runtime: 174266
 ---
 Where you've been where you've been it's the same ole question again
 What's the use baby what's the use they ain't never gonna turn us loose

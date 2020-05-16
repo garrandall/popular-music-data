@@ -1,8 +1,11 @@
 ---
+album: Black Is Black
 artists:
 - Los Bravos
+external_ids:
+  spotify: spotify:track:6lazLV13sV8VNGJTjL4Zeu
 features: []
-genres: []
+first_released_as_single: false
 key: black-is-black-los-bravos
 lyrics_url: https://genius.com/Los-bravos-black-is-black-lyrics
 name: Black Is Black
@@ -55,6 +58,8 @@ rankings:
   rank: 28
   ranking_list: Billboard Hot 100
   start_date: '1966-10-29'
+release_year: 1966
+runtime: 176600
 ---
 Black is black, I want my baby back
 It's grey, it's grey, since she went away, oh oh

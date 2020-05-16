@@ -1,8 +1,11 @@
 ---
+album: If I'm Honest
 artists:
 - Blake Shelton
+external_ids:
+  spotify: spotify:track:0c4ICGb0jvszKj3KPR59JU
 features: []
-genres: []
+first_released_as_single: false
 key: every-time-i-hear-that-song-blake-shelton
 lyrics_url: https://www.azlyrics.com/lyrics/blakeshelton/everytimeihearthatsong.html
 name: Every Time I Hear That Song
@@ -51,8 +54,9 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '2017-08-05'
+release_year: 2016
+runtime: 214800
 ---
-
 There's something 'bout yesterday
 How fast it all flies away
 I don't know what it is about a goodbye kiss
@@ -106,6 +110,3 @@ Yeah, I still think about you
 There's a soundtrack in my mind
 That takes me back in time
 When I hear that melody
-
-
-

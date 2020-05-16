@@ -1,8 +1,11 @@
 ---
+album: (You Don't Have To) Paint Me A Picture
 artists:
 - Gary Lewis And The Playboys
+external_ids:
+  spotify: spotify:track:19eolVl0e9EDVl4cTRSZti
 features: []
-genres: []
+first_released_as_single: false
 key: where-will-the-words-come-from-gary-lewis-and-the-playboys
 lyrics_url: https://genius.com/Gary-lewis-and-the-playboys-where-will-the-words-come-from-lyrics
 name: Where Will The Words Come From
@@ -43,6 +46,8 @@ rankings:
   rank: 34
   ranking_list: Billboard Hot 100
   start_date: '1967-02-11'
+release_year: 1966
+runtime: 122813
 ---
 Where will the words come from
 When I tell you I don't love you anymore?

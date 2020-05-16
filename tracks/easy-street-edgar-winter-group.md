@@ -1,8 +1,11 @@
 ---
+album: Shock Treatment
 artists:
 - Edgar Winter Group
+external_ids:
+  spotify: spotify:track:1qCKBs6LdaDcZ9zrpUiH6u
 features: []
-genres: []
+first_released_as_single: false
 key: easy-street-edgar-winter-group
 lyrics_url: https://genius.com/The-edgar-winter-group-easy-street-lyrics
 name: Easy Street
@@ -23,6 +26,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1974-11-16'
+release_year: 1974
+runtime: 252800
 ---
 Easy Street
 Saturday night at the corner cafe

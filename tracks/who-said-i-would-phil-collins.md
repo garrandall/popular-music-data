@@ -1,8 +1,11 @@
 ---
+album: No Jacket Required
 artists:
 - Phil Collins
+external_ids:
+  spotify: spotify:track:6JrbcoCC9Zotanq4Or4nST
 features: []
-genres: []
+first_released_as_single: false
 key: who-said-i-would-phil-collins
 lyrics_url: https://www.azlyrics.com/lyrics/philcollins/whosaidiwould.html
 name: Who Said I Would
@@ -27,8 +30,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1991-03-02'
+release_year: 1985
+runtime: 241786
 ---
-
 I know she says she wants me
 I hear it every day
 And I know she know it keeps me
@@ -75,6 +79,3 @@ Cos when I tell her that she'll miss me when I'm gone
 She says
 Who said I would, tell me, who said I would
 Who said I would, who said I would
-
-
-

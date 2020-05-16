@@ -1,8 +1,11 @@
 ---
+album: Atlantic Crossing
 artists:
 - Rod Stewart
+external_ids:
+  spotify: spotify:track:2JWKzkQbYsNzx019WyGzaH
 features: []
-genres: []
+first_released_as_single: false
 key: i-don-t-want-to-talk-about-it-rod-stewart
 lyrics_url: https://genius.com/Rod-stewart-i-dont-want-to-talk-about-it-lyrics
 name: I Don't Want To Talk About It
@@ -51,6 +54,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1980-03-01'
+release_year: 1975
+runtime: 288266
 ---
 I can tell by your eyes that you've probably been crying forever
 And the stars in the sky don't mean nothing to you; they're a mirror

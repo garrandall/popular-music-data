@@ -1,8 +1,11 @@
 ---
+album: KOD
 artists:
 - J. Cole
+external_ids:
+  spotify: spotify:track:77tZRw1R60WIbjwBP7HjRu
 features: []
-genres: []
+first_released_as_single: false
 key: window-pain--outro--j--cole
 lyrics_url: https://www.azlyrics.com/lyrics/jcole/windowpainoutro.html
 name: Window Pain (Outro)
@@ -11,8 +14,9 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '2018-05-05'
+release_year: 2018
+runtime: 286729
 ---
-
 One night when I, when me, my mom
 We was about to go to bed
 All the doors was locked
@@ -93,6 +97,3 @@ He's comin' back to, um, have us be His children and for us to see Him for the f
 And after we do that, he's gonna restart the world
 K.O.D
 Choose wisely!
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Natural High
 artists:
 - Commodores
+external_ids:
+  spotify: spotify:track:2uTGX4wxnRGS3i0FSOMGCQ
 features: []
-genres: []
+first_released_as_single: false
 key: three-times-a-lady-commodores
 lyrics_url: https://genius.com/Commodores-three-times-a-lady-lyrics
 name: Three Times A Lady
@@ -87,6 +90,8 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1978-10-28'
+release_year: 1978
+runtime: 398506
 ---
 Thanks for the times that you've given me
 The memories are all in my mind

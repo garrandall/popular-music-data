@@ -1,9 +1,12 @@
 ---
+album: All Day, All Night
 artists:
 - Changing Faces
+external_ids:
+  spotify: spotify:track:1kOFpvRGPlwq0hSyyCD92E
 features:
 - Jay-Z
-genres: []
+first_released_as_single: false
 key: all-of-my-days-changing-faces-jay-z
 lyrics_url: https://www.azlyrics.com/lyrics/changingfaces/allofmydays.html
 name: All Of My Days
@@ -56,9 +59,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1998-01-24'
+release_year: 1997
+runtime: 239453
 ---
-
-
 Changing Faces, Jay-Z, R. Kelly
 Yeah, check her
 Uh huh, Changing faces
@@ -144,4 +147,3 @@ Jigger R. Kelly, Changing Faces, uh
 All I want is
 To be with you all of my days
 All I want, all I need
-

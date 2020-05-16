@@ -1,8 +1,11 @@
 ---
+album: Eagles
 artists:
 - Eagles
+external_ids:
+  spotify: spotify:track:4yugZvBYaoREkJKtbG08Qr
 features: []
-genres: []
+first_released_as_single: false
 key: take-it-easy-eagles
 lyrics_url: https://genius.com/Eagles-take-it-easy-lyrics
 name: Take It Easy
@@ -51,6 +54,8 @@ rankings:
   rank: 38
   ranking_list: Billboard Hot 100
   start_date: '1972-08-12'
+release_year: 1972
+runtime: 211577
 ---
 Well, I'm running down the road tryin' to loosen my load
 I've got seven women on my mind

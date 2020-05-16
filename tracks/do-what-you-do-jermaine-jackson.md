@@ -1,8 +1,11 @@
 ---
+album: Jermaine Jackson
 artists:
 - Jermaine Jackson
+external_ids:
+  spotify: spotify:track:0QAiTq1vLdg4RfBsOvZ85s
 features: []
-genres: []
+first_released_as_single: false
 key: do-what-you-do-jermaine-jackson
 lyrics_url: https://genius.com/Jermaine-jackson-do-what-you-do-lyrics
 name: Do What You Do
@@ -87,6 +90,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1985-03-09'
+release_year: 1984
+runtime: 288720
 ---
 I don't mind
 

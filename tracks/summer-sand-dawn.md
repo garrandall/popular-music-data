@@ -1,8 +1,11 @@
 ---
+album: Candida
 artists:
 - Dawn
+external_ids:
+  spotify: spotify:track:3sA7D3Z96m4QwTP6suyMPm
 features: []
-genres: []
+first_released_as_single: false
 key: summer-sand-dawn
 lyrics_url: https://genius.com/The-dawn-summer-sand-lyrics
 name: Summer Sand
@@ -47,6 +50,8 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1971-08-21'
+release_year: 1970
+runtime: 175133
 ---
 Tonight I'm yours
 And you are mine, now

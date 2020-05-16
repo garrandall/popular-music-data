@@ -1,9 +1,12 @@
 ---
+album: Best Thang Smokin' (Explicit Version)
 artists:
 - Young Dro
+external_ids:
+  spotify: spotify:track:2OqYarizUUGzSSNHPrDEii
 features:
 - T.I.
-genres: []
+first_released_as_single: false
 key: shoulder-lean-young-dro-t-i-
 lyrics_url: https://www.azlyrics.com/lyrics/youngdro/shoulderlean.html
 name: Shoulder Lean
@@ -88,6 +91,8 @@ rankings:
   rank: 36
   ranking_list: Billboard Hot 100
   start_date: '2006-10-28'
+release_year: 2006
+runtime: 258680
 ---
 Let me see you bounce right to left and let your shoulder lean
 Let your shoulder lean, just let your shoulder lean

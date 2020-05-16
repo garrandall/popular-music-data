@@ -1,8 +1,11 @@
 ---
+album: Barking At Airplanes (Bonus Tracks)
 artists:
 - Kim Carnes
+external_ids:
+  spotify: spotify:track:37eMGFTYhBZKeH2YcDNwyf
 features: []
-genres: []
+first_released_as_single: false
 key: abadabadango-kim-carnes
 lyrics_url: https://www.azlyrics.com/lyrics/kimcarnes/abadabadango.html
 name: Abadabadango
@@ -23,8 +26,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1985-08-24'
+release_year: 1985
+runtime: 237666
 ---
-
 Abadabadango, can you hear
 It's the rhythm of the heart
 That beats for a million years
@@ -83,6 +87,3 @@ Voice inside that you wait to hear
 Abadabadango, can you hear
 It's the rhythm of the heart
 That beats for a million years
-
-
-

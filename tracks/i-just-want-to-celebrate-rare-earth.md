@@ -1,8 +1,11 @@
 ---
+album: In Concert (Live In Concert, US/1971)
 artists:
 - Rare Earth
+external_ids:
+  spotify: spotify:track:6tLdYw7SrE8z4mCg5Hmf9H
 features: []
-genres: []
+first_released_as_single: false
 key: i-just-want-to-celebrate-rare-earth
 lyrics_url: https://www.azlyrics.com/lyrics/rareearth/ijustwanttocelebrate.html
 name: I Just Want To Celebrate
@@ -59,8 +62,9 @@ rankings:
   rank: 26
   ranking_list: Billboard Hot 100
   start_date: '1971-10-09'
+release_year: 1971
+runtime: 282853
 ---
-
 One, two, three, four
 I just want to celebrate another day of livin'
 I just want to celebrate another day of life
@@ -104,6 +108,3 @@ Said I just want to celebrate (celebrate)
 I just want to celebrate (I want to celebrate)
 I just want to celebrate (I got to celebrate)
 I just want to celebrate
-
-
-

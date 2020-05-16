@@ -1,9 +1,12 @@
 ---
+album: OMG
 artists:
 - Camila Cabello
+external_ids:
+  spotify: spotify:track:4xBjsLUSjcx2h7PcRikpQp
 features:
 - Quavo
-genres: []
+first_released_as_single: true
 key: omg-camila-cabello-quavo
 lyrics_url: https://www.azlyrics.com/lyrics/camilacabello/omg.html
 name: OMG
@@ -12,9 +15,9 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '2017-08-26'
+release_year: 2017
+runtime: 228893
 ---
-
-
 Baby, what'cha say?
 I ain't here to, I ain't here to conversate
 Baby, I don't play
@@ -102,6 +105,3 @@ When she drop, it bounce back like a yo-yo
 Woo, my God, you look good today
 You look good today, yeah
 Oh my God
-
-
-

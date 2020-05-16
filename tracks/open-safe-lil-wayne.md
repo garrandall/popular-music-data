@@ -1,8 +1,11 @@
 ---
+album: Tha Carter V
 artists:
 - Lil Wayne
+external_ids:
+  spotify: spotify:track:4n0T22OMgbYeBdYhsK02X5
 features: []
-genres: []
+first_released_as_single: false
 key: open-safe-lil-wayne
 lyrics_url: https://www.azlyrics.com/lyrics/lilwayne/opensafe.html
 name: Open Safe
@@ -11,8 +14,9 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '2018-10-13'
+release_year: 2018
+runtime: 223938
 ---
-
 Turn the music up
 Mustard on that beat, hoe
 
@@ -102,6 +106,3 @@ Your hoe smiling in my face nigga
 She outta line, she out of place, nigga
 I hope that they gon' think that I'mma have faith in her (no-no)
 Bitch screamed when the dick was halfway in her
-
-
-

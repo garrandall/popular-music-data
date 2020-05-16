@@ -1,8 +1,11 @@
 ---
+album: I'm Jessi Colter
 artists:
 - Jessi Colter
+external_ids:
+  spotify: spotify:track:73MpEwQiZtFLevKlZcB4fR
 features: []
-genres: []
+first_released_as_single: false
 key: you-ain-t-never-been-loved--like-i-m-gonna-love-you--jessi-colter
 lyrics_url: https://genius.com/Jessi-colter-you-aint-never-been-loved-like-im-gonna-love-you-lyrics
 name: You Ain't Never Been Loved (Like I'm Gonna Love You)
@@ -27,6 +30,8 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '1975-10-04'
+release_year: 1975
+runtime: 178546
 ---
 You ain't never been loved
 Like I'm going to love you

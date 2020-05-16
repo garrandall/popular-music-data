@@ -1,9 +1,12 @@
 ---
+album: I Hit It First - Single
 artists:
 - Ray J
+external_ids:
+  spotify: spotify:track:6nJN1GYIHIdg1HQtrmJsqU
 features:
 - Bobby Brackins
-genres: []
+first_released_as_single: true
 key: i-hit-it-first-ray-j-bobby-brackins
 lyrics_url: https://genius.com/Ray-j-i-hit-it-first-lyrics
 name: I Hit It First
@@ -20,6 +23,8 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '2013-05-18'
+release_year: 2013
+runtime: 205714
 ---
 She might move on to rappers and ballplayers
 But we all know I hit it first

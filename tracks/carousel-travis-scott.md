@@ -1,8 +1,11 @@
 ---
+album: ASTROWORLD
 artists:
 - Travis Scott
+external_ids:
+  spotify: spotify:track:7KZ5MMVgBVox9ycroB2UrI
 features: []
-genres: []
+first_released_as_single: false
 key: carousel-travis-scott
 lyrics_url: https://www.azlyrics.com/lyrics/travisscott/carousel.html
 name: Carousel
@@ -15,9 +18,9 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '2018-08-25'
+release_year: 2018
+runtime: 180182
 ---
-
-
 What's crackin'?
 You already know who it is
 Ya' boy, Big Tuck
@@ -95,6 +98,3 @@ Boy you're too flash, too flash
 Keep the flash minimal
 Bitch, I'm too cold, too cold
 See my breath visible
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: High School High - The Soundtrack
 artists:
 - The Braxtons
+external_ids:
+  spotify: spotify:track:3eYOJEkXdp0x1c8ebgcrHK
 features: []
-genres: []
+first_released_as_single: false
 key: so-many-ways-the-braxtons
 lyrics_url: https://genius.com/The-braxtons-so-many-ways-lyrics
 name: So Many Ways
@@ -39,6 +42,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1996-10-12'
+release_year: 1996
+runtime: 234840
 ---
 Woo
 Ah

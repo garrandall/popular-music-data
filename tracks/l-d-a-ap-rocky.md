@@ -1,8 +1,11 @@
 ---
+album: AT.LONG.LAST.A$AP
 artists:
 - A$AP Rocky
+external_ids:
+  spotify: spotify:track:33BC1kE0ewdO9vaB4wbct8
 features: []
-genres: []
+first_released_as_single: true
 key: l-d-a-ap-rocky
 lyrics_url: https://genius.com/A-ap-rocky-l-d-lyrics
 name: L$D
@@ -19,6 +22,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2015-06-27'
+release_year: 2015
+runtime: 238306
 ---
 I know I dream about her all day
 I think about her with her clothes off

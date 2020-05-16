@@ -1,8 +1,11 @@
 ---
+album: Takin' It to the Streets
 artists:
 - The Doobie Brothers
+external_ids:
+  spotify: spotify:track:5g7aKEM3a2S0TJazJ8cgX7
 features: []
-genres: []
+first_released_as_single: false
 key: wheels-of-fortune-the-doobie-brothers
 lyrics_url: https://www.azlyrics.com/lyrics/doobiebrothers/wheelsoffortune.html
 name: Wheels Of Fortune
@@ -15,8 +18,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1976-09-04'
+release_year: 1976
+runtime: 296973
 ---
-
 Caught up in wheels of fortune while you've been asleep
 Come on, give it up, you got what's comin' to you
 No use for you to struggle, now you're in too deep

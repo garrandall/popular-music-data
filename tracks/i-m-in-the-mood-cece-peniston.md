@@ -1,8 +1,11 @@
 ---
+album: Thought Ya Knew
 artists:
 - CeCe Peniston
+external_ids:
+  spotify: spotify:track:1kgXreo3UR48y3ICMgthiW
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-in-the-mood-cece-peniston
 lyrics_url: https://genius.com/Cece-peniston-im-in-the-mood-east-87th-st-mix-lyrics
 name: I'm In The Mood
@@ -87,6 +90,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1994-05-14'
+release_year: 1994
+runtime: 252026
 ---
 You ain't nothin' but a sweet thing, yeah
 And I'll come back for more every day

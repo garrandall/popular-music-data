@@ -1,8 +1,11 @@
 ---
+album: Did I Shave My Legs For This?
 artists:
 - Deana Carter
+external_ids:
+  spotify: spotify:track:5Pgwi0iizu96RHxJ4xL3SH
 features: []
-genres: []
+first_released_as_single: false
 key: strawberry-wine-deana-carter
 lyrics_url: https://www.azlyrics.com/lyrics/deanacarter/strawberrywine.html
 name: Strawberry Wine
@@ -47,8 +50,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1996-12-07'
+release_year: 1996
+runtime: 291533
 ---
-
 He was working through college 
 On my grandpa's farm
 I was thirsting for knowledge 
@@ -98,6 +102,3 @@ The green on the vine
 Like strawberry wine
 Strawberry wine
 Strawberry wine
-
-
-

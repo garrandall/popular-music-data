@@ -1,8 +1,11 @@
 ---
+album: Share My World
 artists:
 - Mary J. Blige
+external_ids:
+  spotify: spotify:track:4MTHIKGWNTBoubzDMkXFfa
 features: []
-genres: []
+first_released_as_single: false
 key: i-can-love-you-mary-j--blige
 lyrics_url: https://genius.com/Mary-j-blige-i-can-love-you-lyrics
 name: I Can Love You
@@ -83,6 +86,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1997-11-29'
+release_year: 1997
+runtime: 286400
 ---
 I can love you (I can love you), I can love you (I can love you)
 I can love you better than she can

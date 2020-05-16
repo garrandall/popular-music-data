@@ -1,8 +1,11 @@
 ---
+album: The Best Of Jimmie Rodgers
 artists:
 - Jimmie Rodgers
+external_ids:
+  spotify: spotify:track:1kkA3PE0tEezpqh7VYEo54
 features: []
-genres: []
+first_released_as_single: false
 key: tucumcari-jimmie-rodgers
 lyrics_url: https://www.musixmatch.com/lyrics/Jimmie-Rodgers/Tucumcari
 name: Tucumcari
@@ -43,6 +46,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1959-11-16'
+release_year: 1959
+runtime: 135266
 ---
 Twelve more miles to Tucumcari
 I've been hurrying there

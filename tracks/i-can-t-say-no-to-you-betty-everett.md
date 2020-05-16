@@ -1,8 +1,11 @@
 ---
+album: There'll Come A Time
 artists:
 - Betty Everett
+external_ids:
+  spotify: spotify:track:78TdinDawX2yhF22cOSLkS
 features: []
-genres: []
+first_released_as_single: false
 key: i-can-t-say-no-to-you-betty-everett
 lyrics_url: https://www.musixmatch.com/lyrics/Betty-Everett/I-Can-t-Say-No-To-You
 name: I Can't Say No To You
@@ -23,6 +26,8 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1969-05-17'
+release_year: 1969
+runtime: 162626
 ---
 I can't say no) can't say no
 (I can't say no)

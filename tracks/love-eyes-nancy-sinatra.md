@@ -1,8 +1,11 @@
 ---
+album: Sugar
 artists:
 - Nancy Sinatra
+external_ids:
+  spotify: spotify:track:28st5OVMNqrgTkIP1IflEi
 features: []
-genres: []
+first_released_as_single: false
 key: love-eyes-nancy-sinatra
 lyrics_url: https://genius.com/Nancy-sinatra-love-eyes-lyrics
 name: Love Eyes
@@ -39,6 +42,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1967-05-13'
+release_year: 1967
+runtime: 157596
 ---
 Love eyes... Baby you sure got
 Love eyes... Turn me on a lot

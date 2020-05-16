@@ -1,8 +1,11 @@
 ---
+album: Have Yourself A Merry Little Christmas
 artists:
 - Sam Smith
+external_ids:
+  spotify: spotify:track:1Qi2wh8fFgDV7tl4Sj3f2K
 features: []
-genres: []
+first_released_as_single: true
 key: have-yourself-a-merry-little-christmas-sam-smith
 lyrics_url: https://www.azlyrics.com/lyrics/samsmith/haveyourselfamerrylittlechristmas.html
 name: Have Yourself A Merry Little Christmas
@@ -11,8 +14,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2014-12-27'
+release_year: 2014
+runtime: 170964
 ---
-
 Have yourself a merry little Christmas,
 Let your heart be light
 From now on,
@@ -36,6 +40,3 @@ Hang a shining star upon the highest bough.
 So have yourself a merry little Christmas,
 Have yourself a merry little Christmas,
 So have yourself a merry little Christmas now.
-
-
-

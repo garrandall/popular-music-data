@@ -1,8 +1,11 @@
 ---
+album: The Best of The Kingsmen
 artists:
 - The Kingsmen
+external_ids:
+  spotify: spotify:track:7mp74IKoo9oaES5JwBWBWO
 features: []
-genres: []
+first_released_as_single: false
 key: death-of-an-angel-the-kingsmen
 lyrics_url: https://genius.com/The-kingsmen-death-of-an-angel-lyrics
 name: Death Of An Angel
@@ -43,6 +46,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1964-11-07'
+release_year: 1964
+runtime: 153652
 ---
 My baby's gone
 And she left me to stay

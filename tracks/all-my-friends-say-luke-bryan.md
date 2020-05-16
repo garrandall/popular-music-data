@@ -1,8 +1,11 @@
 ---
+album: I'll Stay Me
 artists:
 - Luke Bryan
+external_ids:
+  spotify: spotify:track:539dFCMA8lfEElDPgGpcIB
 features: []
-genres: []
+first_released_as_single: false
 key: all-my-friends-say-luke-bryan
 lyrics_url: https://www.azlyrics.com/lyrics/lukebryan/allmyfriendssay.html
 name: All My Friends Say
@@ -59,8 +62,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2007-11-10'
+release_year: 2007
+runtime: 242800
 ---
-
 I got smoke in my hair
 My clothes thrown everywhere
 Woke up in my rocking chair
@@ -123,6 +127,3 @@ Getting over you comeback kid
 Yay I must have did
 What all my friends say
 Yeah, Yeah, Yeah
-
-
-

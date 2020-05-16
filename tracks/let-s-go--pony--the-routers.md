@@ -1,8 +1,11 @@
 ---
+album: Let's Go! With The Routers
 artists:
 - The Routers
+external_ids:
+  spotify: spotify:track:1LEJw4cJAxgItBzA1nTJzP
 features: []
-genres: []
+first_released_as_single: false
 key: let-s-go--pony--the-routers
 lyrics_url: https://genius.com/The-routers-lets-go-lyrics
 name: Let's Go (pony)
@@ -59,5 +62,7 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '1963-01-26'
+release_year: 1962
+runtime: 140053
 ---
 Instrumental

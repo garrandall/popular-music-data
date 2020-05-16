@@ -1,8 +1,11 @@
 ---
+album: Notorious
 artists:
 - Duran Duran
+external_ids:
+  spotify: spotify:track:0sEP94eLdxXmK0XyuGeB8f
 features: []
-genres: []
+first_released_as_single: false
 key: skin-trade-duran-duran
 lyrics_url: https://www.azlyrics.com/lyrics/duranduran/skintrade.html
 name: Skin Trade
@@ -43,8 +46,9 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '1987-03-28'
+release_year: 1986
+runtime: 356920
 ---
-
 Working on the weekend, baby.
 She's working all through the night.
 A jump into the deep end gave her
@@ -80,4 +84,3 @@ Sometimes you wonder, and ask yourself the question.
 
 
 I know the answer, but I'm asking you the question.
-

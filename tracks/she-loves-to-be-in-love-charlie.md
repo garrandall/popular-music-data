@@ -1,8 +1,11 @@
 ---
+album: Lines
 artists:
 - Charlie
+external_ids:
+  spotify: spotify:track:5trEcRW0hwJfot7uDhB9Ct
 features: []
-genres: []
+first_released_as_single: false
 key: she-loves-to-be-in-love-charlie
 lyrics_url: https://genius.com/Charlie-she-loves-to-be-in-love-lyrics
 name: She Loves To Be In Love
@@ -35,6 +38,8 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '1978-09-16'
+release_year: 1978
+runtime: 265893
 ---
 Thomas
 

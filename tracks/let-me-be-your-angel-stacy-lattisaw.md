@@ -1,8 +1,11 @@
 ---
+album: Let Me Be Your Angel
 artists:
 - Stacy Lattisaw
+external_ids:
+  spotify: spotify:track:3UteV5HVR6c6vMfFTvYtuG
 features: []
-genres: []
+first_released_as_single: false
 key: let-me-be-your-angel-stacy-lattisaw
 lyrics_url: https://genius.com/Stacy-lattisaw-let-me-be-your-angel-lyrics
 name: Let Me Be Your Angel
@@ -103,6 +106,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1981-01-17'
+release_year: 1980
+runtime: 239653
 ---
 Look at me
 I have fallen so in love with you

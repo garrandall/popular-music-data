@@ -1,8 +1,11 @@
 ---
+album: 'Oh Me, Oh My: Aretha Live In Philly 1972'
 artists:
 - Aretha Franklin
+external_ids:
+  spotify: spotify:track:0sQ594D1EuU66VDdtHBE6j
 features: []
-genres: []
+first_released_as_single: false
 key: spanish-harlem-aretha-franklin
 lyrics_url: https://www.azlyrics.com/lyrics/arethafranklin/spanishharlem.html
 name: Spanish Harlem
@@ -55,8 +58,9 @@ rankings:
   rank: 21
   ranking_list: Billboard Hot 100
   start_date: '1971-10-16'
+release_year: 1971
+runtime: 213560
 ---
-
 (La-la-la la la la la la la la)
 (La-la-la la la la la la la la)
 
@@ -103,6 +107,3 @@ In his garden
 
 
 (La la la-la-la la-la-la la)
-
-
-

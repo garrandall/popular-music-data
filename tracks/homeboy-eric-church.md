@@ -1,8 +1,11 @@
 ---
+album: Chief
 artists:
 - Eric Church
+external_ids:
+  spotify: spotify:track:29aSfWddeZJCfnrcMb20sy
 features: []
-genres: []
+first_released_as_single: false
 key: homeboy-eric-church
 lyrics_url: https://www.azlyrics.com/lyrics/ericchurch/homeboy.html
 name: Homeboy
@@ -91,8 +94,9 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '2011-08-20'
+release_year: 2011
+runtime: 227226
 ---
-
 You were too bad for a little square town
 With your hip-hop hat and your pants on the ground
 Heard you cussed out mamma, pushed daddy around
@@ -127,6 +131,3 @@ Homeboy
 Come on homeboy
 Homeboy
 Come on homeboy
-
-
-

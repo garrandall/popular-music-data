@@ -1,8 +1,11 @@
 ---
+album: The Complete Season 8 Collection (The Voice Performance)
 artists:
 - Sawyer Fredericks
+external_ids:
+  spotify: spotify:track:5fKbkAwQqPNF7Us0UUFNJK
 features: []
-genres: []
+first_released_as_single: false
 key: imagine-sawyer-fredericks
 lyrics_url: https://www.azlyrics.com/lyrics/sawyerfredericks/imagine.html
 name: Imagine
@@ -11,8 +14,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2015-05-02'
+release_year: 2015
+runtime: 191320
 ---
-
 Imagine there's no heaven
 Is easy if you try
 No hell below us
@@ -43,6 +47,3 @@ You may say I'm a dreamer
 But I'm not the only one
 I hope someday you'll join us
 And the world will live as one.
-
-
-

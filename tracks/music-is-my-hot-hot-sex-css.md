@@ -1,8 +1,11 @@
 ---
+album: Cansei De Ser Sexy
 artists:
 - CSS
+external_ids:
+  spotify: spotify:track:6M2iIzUzlea2yZROhTlxDl
 features: []
-genres: []
+first_released_as_single: false
 key: music-is-my-hot-hot-sex-css
 lyrics_url: https://genius.com/Css-music-is-my-hot-hot-sex-lyrics
 name: Music Is My Hot Hot Sex
@@ -19,6 +22,8 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '2007-12-08'
+release_year: 2006
+runtime: 187026
 ---
 From all the drugs the one I like more is music
 From all the junks the one I need more is music

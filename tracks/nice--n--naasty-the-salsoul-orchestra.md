@@ -1,8 +1,11 @@
 ---
+album: Nice 'N' Nasty
 artists:
 - The Salsoul Orchestra
+external_ids:
+  spotify: spotify:track:4SJ02jpkY6bNTnySXh6llb
 features: []
-genres: []
+first_released_as_single: false
 key: nice--n--naasty-the-salsoul-orchestra
 lyrics_url: https://www.musixmatch.com/lyrics/The-Salsoul-Orchestra/Nice-N-Naasty
 name: Nice 'N' Naasty
@@ -63,6 +66,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1976-12-18'
+release_year: 1976
+runtime: 324293
 ---
 Nasty, you're nasty
 Oh, that was nasty

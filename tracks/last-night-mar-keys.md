@@ -1,8 +1,11 @@
 ---
+album: The Last Night!
 artists:
 - Mar-Keys
+external_ids:
+  spotify: spotify:track:7H22uQMwKWl43uagzO4Pnn
 features: []
-genres: []
+first_released_as_single: false
 key: last-night-mar-keys
 name: Last Night
 rankings:
@@ -62,5 +65,7 @@ rankings:
   rank: 34
   ranking_list: Billboard Hot 100
   start_date: '1961-10-02'
+release_year: 1961
+runtime: 159173
 ---
 

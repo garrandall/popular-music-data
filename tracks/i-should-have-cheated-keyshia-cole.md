@@ -1,8 +1,11 @@
 ---
+album: The Way It Is
 artists:
 - Keyshia Cole
+external_ids:
+  spotify: spotify:track:6drX5qjGrMjsn3rh2sQkWG
 features: []
-genres: []
+first_released_as_single: true
 key: i-should-have-cheated-keyshia-cole
 lyrics_url: https://genius.com/Keyshia-cole-i-should-have-cheated-lyrics
 name: I Should Have Cheated
@@ -83,6 +86,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2006-02-11'
+release_year: 2004
+runtime: 330693
 ---
 Baby
 First of all let me say

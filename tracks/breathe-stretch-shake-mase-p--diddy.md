@@ -1,9 +1,12 @@
 ---
+album: Welcome Back
 artists:
 - Mase
+external_ids:
+  spotify: spotify:track:5qjESLw4uzDNvG2V5QIoaS
 features:
 - P. Diddy
-genres: []
+first_released_as_single: false
 key: breathe-stretch-shake-mase-p--diddy
 lyrics_url: https://www.musixmatch.com/lyrics/Mase-feat-P-Diddy/Breathe-Stretch-Shake
 name: Breathe Stretch Shake
@@ -72,6 +75,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2004-12-11'
+release_year: 2004
+runtime: 197276
 ---
 Uh
 This is what I sound like after 5 years

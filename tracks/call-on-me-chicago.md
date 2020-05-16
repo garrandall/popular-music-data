@@ -1,8 +1,11 @@
 ---
+album: Chicago VII
 artists:
 - Chicago
+external_ids:
+  spotify: spotify:track:5BCPL5mWm6UqI4atl18kVm
 features: []
-genres: []
+first_released_as_single: false
 key: call-on-me-chicago
 lyrics_url: https://genius.com/Chicago-call-on-me-lyrics
 name: Call On Me
@@ -67,6 +70,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1974-09-28'
+release_year: 1974
+runtime: 242653
 ---
 The feeling was clear
 Clear as a blue sky on a Sunday day

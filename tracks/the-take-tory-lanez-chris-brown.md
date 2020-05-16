@@ -1,9 +1,12 @@
 ---
+album: Chixtape 5
 artists:
 - Tory Lanez
+external_ids:
+  spotify: spotify:track:0Odu228D0yGcFySGuxU4rY
 features:
 - Chris Brown
-genres: []
+first_released_as_single: false
 key: the-take-tory-lanez-chris-brown
 lyrics_url: https://www.azlyrics.com/lyrics/torylanez/thetake.html
 name: The Take
@@ -12,9 +15,9 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '2019-11-30'
+release_year: 2019
+runtime: 221492
 ---
-
-
 I wanna put you in seven positions for seventy minutes, you'll get it babe
 You got a lot on your mind, and I want to ease it up and lick it and slip it in
 You do a light scream on the ice cream when I scoop it and dip it in
@@ -77,6 +80,3 @@ And promise when you promise, keep them promises
 I promise not to give it to nobody babe
 And promise you won't give it to nobody babe
 And promise when you promise, keep them promises
-
-
-

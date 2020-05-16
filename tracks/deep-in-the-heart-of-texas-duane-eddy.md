@@ -1,8 +1,11 @@
 ---
+album: The Best Of Duane Eddy
 artists:
 - Duane Eddy
+external_ids:
+  spotify: spotify:track:6krfYZxsSyc56uCXC7CKn2
 features: []
-genres: []
+first_released_as_single: false
 key: deep-in-the-heart-of-texas-duane-eddy
 name: Deep In The Heart Of Texas
 rankings:
@@ -26,5 +29,7 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1962-05-19'
+release_year: 1962
+runtime: 119333
 ---
 

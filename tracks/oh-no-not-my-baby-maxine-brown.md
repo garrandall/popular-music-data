@@ -1,8 +1,11 @@
 ---
+album: Super Hits
 artists:
 - Maxine Brown
+external_ids:
+  spotify: spotify:track:3LMrhf0XCMQHeiJJtxEWcc
 features: []
-genres: []
+first_released_as_single: true
 key: oh-no-not-my-baby-maxine-brown
 lyrics_url: https://genius.com/Maxine-brown-oh-no-not-my-baby-lyrics
 name: Oh No Not My Baby
@@ -59,6 +62,8 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '1965-01-16'
+release_year: 1964
+runtime: 157373
 ---
 When my friends told me you had someone new
 I didn't believe a single word was true

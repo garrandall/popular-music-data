@@ -1,8 +1,11 @@
 ---
+album: Get It While You Can - The Complete Legendary Verve Sessions
 artists:
 - Howard Tate
+external_ids:
+  spotify: spotify:track:13t4VV3Y9PBk0OnAAw03WT
 features: []
-genres: []
+first_released_as_single: false
 key: ain-t-nobody-home-howard-tate
 lyrics_url: https://genius.com/Howard-tate-aint-nobody-home-lyrics
 name: Ain't Nobody Home
@@ -35,6 +38,8 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '1966-10-01'
+release_year: 1966
+runtime: 146826
 ---
 Once upon a time
 A long, long time ago

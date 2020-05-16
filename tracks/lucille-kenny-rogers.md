@@ -1,8 +1,11 @@
 ---
+album: Kenny Rogers
 artists:
 - Kenny Rogers
+external_ids:
+  spotify: spotify:track:15ADURMdkO25JGD5mIcodM
 features: []
-genres: []
+first_released_as_single: false
 key: lucille-kenny-rogers
 lyrics_url: https://www.azlyrics.com/lyrics/kennyrogers/lucille.html
 name: Lucille
@@ -83,8 +86,9 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1977-07-30'
+release_year: 1976
+runtime: 220866
 ---
-
 In a bar in Toledo
 Across from the depot
 On a bar stool she took off her ring
@@ -139,6 +143,3 @@ I've had some bad times
 Lived through some sad times
 But this time your hurtin' won't heal
 You picked a fine time to leave me Lucille
-
-
-

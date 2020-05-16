@@ -1,8 +1,11 @@
 ---
+album: Ghetto Love
 artists:
 - Jaheim
+external_ids:
+  spotify: spotify:track:0IzYeZEMfDB71ZnsxyfraM
 features: []
-genres: []
+first_released_as_single: true
 key: could-it-be-jaheim
 lyrics_url: https://genius.com/Jaheim-could-it-be-lyrics
 name: Could It Be
@@ -87,6 +90,8 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '2001-04-28'
+release_year: 2000
+runtime: 185826
 ---
 Huh, uh yeah
 Bout to put it to 'em

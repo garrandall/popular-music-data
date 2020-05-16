@@ -1,8 +1,11 @@
 ---
+album: Glen Travis Campbell
 artists:
 - Glen Campbell
+external_ids:
+  spotify: spotify:track:63pY1KMpHn0r5Ehn6ApBtT
 features: []
-genres: []
+first_released_as_single: false
 key: one-last-time-glen-campbell
 lyrics_url: https://www.azlyrics.com/lyrics/glencampbell/onelasttime.html
 name: One Last Time
@@ -35,8 +38,9 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1973-01-20'
+release_year: 1972
+runtime: 200186
 ---
-
 One last time let me love you one last time
 All I need is one more chance to say goodbye
 One last kiss then I swear I'll let you go baby I need you I've got to see you
@@ -50,6 +54,3 @@ Baby I need you (one last time) I've got to see you (one last time)
 Baby I need you (one last time) baby I need you (one last time)
 Baby I want you (one last time) baby I want you (one last time)
 Baby I want you (one last time) baby I want you (one last time)
-
-
-

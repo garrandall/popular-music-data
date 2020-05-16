@@ -1,8 +1,11 @@
 ---
+album: The Best Of The Ikettes
 artists:
 - The Ikettes
+external_ids:
+  spotify: spotify:track:0tgwJKFJ7Itl5d386q5QkJ
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-blue--the-gong-gong-song--the-ikettes
 lyrics_url: https://genius.com/The-ikettes-im-blue-lyrics
 name: I'm Blue (The Gong-Gong Song)
@@ -55,6 +58,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1962-03-31'
+release_year: 1962
+runtime: 153373
 ---
 (I'm blue do be, do be, do be do)
 Gong gong gong, yeah

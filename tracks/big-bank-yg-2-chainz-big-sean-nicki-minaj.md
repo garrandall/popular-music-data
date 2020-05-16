@@ -1,11 +1,14 @@
 ---
+album: STAY DANGEROUS
 artists:
 - YG
+external_ids:
+  spotify: spotify:track:0ZNrc4kNeQYD9koZ3KvCsy
 features:
 - 2 Chainz
 - Big Sean
 - Nicki Minaj
-genres: []
+first_released_as_single: false
 key: big-bank-yg-2-chainz-big-sean-nicki-minaj
 lyrics_url: https://www.azlyrics.com/lyrics/yg/bigbank.html
 name: Big Bank
@@ -106,9 +109,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2018-11-24'
+release_year: 2018
+runtime: 237240
 ---
-
-
 My bitch drive a all white Range
 Couldn't hit it if you nigga's had aim
 Lames can't call and you a lame
@@ -217,6 +220,3 @@ From the hood, it's type of money make you stay awake
 Type of money she gon' let you put it in her face
 Big bank take lil' bank, bank
 Big bank take lil' bank, bank
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Future & Juice WRLD Present... WRLD ON DRUGS
 artists:
 - Juice WRLD
+external_ids:
+  spotify: spotify:track:2EhJijFUs0WUmNClDBpYJq
 features: []
-genres: []
+first_released_as_single: false
 key: make-it-back-juice-wrld
 lyrics_url: https://genius.com/Juice-wrld-make-it-back-lyrics
 name: Make It Back
@@ -11,6 +14,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2018-11-03'
+release_year: 2018
+runtime: 102560
 ---
 I remember math class, I ain't do shit, I was just Xanned out
 Now a nigga got millions, give a fuck about my teachers now

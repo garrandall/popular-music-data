@@ -1,8 +1,11 @@
 ---
+album: Up For The Down Stroke
 artists:
 - Parliament
+external_ids:
+  spotify: spotify:track:7bQ3ANugLPZCPsRl8le3VQ
 features: []
-genres: []
+first_released_as_single: false
 key: up-for-the-down-stroke-parliament
 lyrics_url: https://www.azlyrics.com/lyrics/parliament/upforthedownstroke.html
 name: Up For The Down Stroke
@@ -43,8 +46,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1974-10-26'
+release_year: 1974
+runtime: 307986
 ---
-
 Talking 'bout he's mad
 Let's take it to the stage, jack, come on!
 And get up for the down stroke
@@ -115,6 +119,3 @@ I don't care about the cold, baby (get up for the down stroke)
 'Cause when you're hot, you're too much
 'Cause when you're hot, you're hot
 Look at what you've got
-
-
-

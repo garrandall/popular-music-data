@@ -1,8 +1,11 @@
 ---
+album: Alias
 artists:
 - Alias
+external_ids:
+  spotify: spotify:track:1EB3Z38oKDKVp4K2yEO2dl
 features: []
-genres: []
+first_released_as_single: false
 key: more-than-words-can-say-alias
 lyrics_url: https://genius.com/Alias-band-more-than-words-can-say-lyrics
 name: More Than Words Can Say
@@ -99,6 +102,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1991-02-09'
+release_year: 1990
+runtime: 234196
 ---
 Here I am at six o'clock in the morning
 Still thinking about you

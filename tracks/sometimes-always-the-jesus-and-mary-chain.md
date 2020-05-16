@@ -1,8 +1,11 @@
 ---
+album: Stoned And Dethroned
 artists:
 - The Jesus And Mary Chain
+external_ids:
+  spotify: spotify:track:11sxpJrfYJFxkA77PauDj4
 features: []
-genres: []
+first_released_as_single: false
 key: sometimes-always-the-jesus-and-mary-chain
 lyrics_url: https://genius.com/The-jesus-and-mary-chain-sometimes-always-lyrics
 name: Sometimes Always
@@ -15,6 +18,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1994-10-22'
+release_year: 1994
+runtime: 151960
 ---
 I gave you all I had
 I gave you good and bad

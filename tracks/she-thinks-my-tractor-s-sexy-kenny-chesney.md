@@ -1,8 +1,11 @@
 ---
+album: Everywhere We Go
 artists:
 - Kenny Chesney
+external_ids:
+  spotify: spotify:track:3QV7NYkrmV0Q0IHdFJw9hO
 features: []
-genres: []
+first_released_as_single: false
 key: she-thinks-my-tractor-s-sexy-kenny-chesney
 lyrics_url: https://genius.com/Kenny-chesney-she-thinks-my-tractors-sexy-lyrics
 name: She Thinks My Tractor's Sexy
@@ -55,6 +58,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2000-02-05'
+release_year: 1999
+runtime: 248066
 ---
 Plowing these fields in the hot summer sun
 Over by the gate lordy here she comes

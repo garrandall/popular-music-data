@@ -1,8 +1,11 @@
 ---
+album: Fortune
 artists:
 - Chris Brown
+external_ids:
+  spotify: spotify:track:3CScJ0ttMJ687s3rlLdrnV
 features: []
-genres: []
+first_released_as_single: false
 key: sweet-love-chris-brown
 lyrics_url: https://genius.com/Chris-brown-sweet-love-lyrics
 name: Sweet Love
@@ -11,6 +14,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2012-05-05'
+release_year: 2012
+runtime: 200000
 ---
 Yeah (Yeah)
 (Freak me, baby)

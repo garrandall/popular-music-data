@@ -1,8 +1,11 @@
 ---
+album: It's Only Rock 'N' Roll
 artists:
 - The Rolling Stones
+external_ids:
+  spotify: spotify:track:4h385lRE0c4zR78GErkmT7
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-only-rock--n-roll--but-i-like-it--the-rolling-stones
 lyrics_url: https://www.musixmatch.com/lyrics/The-Rolling-Stones/It-s-Only-Rock-n-Roll-But-I-Like-It
 name: It's Only Rock 'N Roll (But I Like It)
@@ -47,6 +50,8 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '1974-10-05'
+release_year: 1974
+runtime: 307173
 ---
 If I could stick my pen in my heart
 And spill it all over the stage

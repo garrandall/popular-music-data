@@ -1,8 +1,11 @@
 ---
+album: Anthology
 artists:
 - Tavares
+external_ids:
+  spotify: spotify:track:4a4jlsn8iOXvCIB8Cxp99R
 features: []
-genres: []
+first_released_as_single: false
 key: that-s-the-sound-that-lonely-makes-tavares
 lyrics_url: https://genius.com/Tavares-thats-the-sound-that-lonely-makes-lyrics
 name: That's The Sound That Lonely Makes
@@ -35,6 +38,8 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1974-03-16'
+release_year: 1974
+runtime: 222933
 ---
 Mmm, that's the sound
 That lonely makes

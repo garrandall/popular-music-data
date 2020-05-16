@@ -1,8 +1,11 @@
 ---
+album: 'The Sue Records Story: The Sound Of Soul'
 artists:
 - Duals
+external_ids:
+  spotify: spotify:track:4x03nN2BqnO6y4JLegqbyP
 features: []
-genres: []
+first_released_as_single: false
 key: stick-shift-duals
 name: Stick Shift
 rankings:
@@ -50,5 +53,7 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '1961-11-20'
+release_year: 1961
+runtime: 150866
 ---
 

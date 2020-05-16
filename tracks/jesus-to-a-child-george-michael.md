@@ -1,8 +1,11 @@
 ---
+album: Older
 artists:
 - George Michael
+external_ids:
+  spotify: spotify:track:2SzCxX6M6vDwdEwnHDiTaY
 features: []
-genres: []
+first_released_as_single: false
 key: jesus-to-a-child-george-michael
 lyrics_url: https://www.azlyrics.com/lyrics/georgemichael/jesustoachild.html
 name: Jesus To A Child
@@ -63,8 +66,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1996-05-25'
+release_year: 1996
+runtime: 411146
 ---
-
 Kindness in your eyes
 I guess you heard me cry
 You smiled at me
@@ -125,6 +129,3 @@ Well I've been loved
 So I know just what love is
 And the lover that I kissed is always by my side
 Oh the lover I still miss... was Jesus to a child
-
-
-

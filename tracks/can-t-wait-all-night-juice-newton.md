@@ -1,8 +1,11 @@
 ---
+album: Can't Wait All Night
 artists:
 - Juice Newton
+external_ids:
+  spotify: spotify:track:1rLQBnmGJnZALKuqYm9fJY
 features: []
-genres: []
+first_released_as_single: false
 key: can-t-wait-all-night-juice-newton
 lyrics_url: https://genius.com/Juice-newton-cant-wait-all-night-lyrics
 name: Can't Wait All Night
@@ -31,6 +34,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1984-09-15'
+release_year: 1984
+runtime: 239266
 ---
 I've got a secret in my heart
 I've been holdin' for some time

@@ -1,8 +1,11 @@
 ---
+album: Sex Machine
 artists:
 - James Brown
+external_ids:
+  spotify: spotify:track:69gZupqgQyafNCZykdcCIo
 features: []
-genres: []
+first_released_as_single: false
 key: spinning-wheel--pt-1--james-brown
 name: Spinning Wheel (Pt 1)
 rankings:
@@ -14,5 +17,7 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1971-03-13'
+release_year: 1970
+runtime: 242906
 ---
 

@@ -1,8 +1,11 @@
 ---
+album: Real Life
 artists:
 - Jake Owen
+external_ids:
+  spotify: spotify:track:5NUvj4WX2tAQGxOF4CWJ7I
 features: []
-genres: []
+first_released_as_single: true
 key: real-life-jake-owen
 lyrics_url: https://genius.com/Jake-owen-real-life-lyrics
 name: Real Life
@@ -59,6 +62,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2015-10-03'
+release_year: 2015
+runtime: 169826
 ---
 Well I grew up in a real town
 Where the prom queen had a plastic crown

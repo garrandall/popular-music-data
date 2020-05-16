@@ -1,8 +1,11 @@
 ---
+album: Gypsys, Tramps & Thieves
 artists:
 - Cher
+external_ids:
+  spotify: spotify:track:1q1oeOO8LQJH0qWI549cqN
 features: []
-genres: []
+first_released_as_single: false
 key: the-way-of-love-cher
 lyrics_url: https://genius.com/Cher-the-way-of-love-lyrics
 name: The Way Of Love
@@ -59,6 +62,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1972-04-22'
+release_year: 1971
+runtime: 152493
 ---
 When you meet a boy
 That you like a lot

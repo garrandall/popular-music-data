@@ -1,8 +1,11 @@
 ---
+album: Andrew McMahon In The Wilderness
 artists:
 - Andrew McMahon In The Wilderness
+external_ids:
+  spotify: spotify:track:1MSM3Fo2fvnwVqMcz8Jhjq
 features: []
-genres: []
+first_released_as_single: false
 key: cecilia-and-the-satellite-andrew-mcmahon-in-the-wilderness
 lyrics_url: https://www.azlyrics.com/lyrics/andrewmcmahoninthewilderness/ceciliaandthesatellite.html
 name: Cecilia And The Satellite
@@ -19,8 +22,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2015-10-24'
+release_year: 2014
+runtime: 223879
 ---
-
 I locked myself in a hotel room
 Then waited all night for the walls to move
 I've loved some girls that I barely knew
@@ -38,7 +42,7 @@ I'd keep you safe, I'd keep you dry
 Don't be afraid, Cecilia, I'm the satellite
 And you're the sky
 
-I've cafÃ© crawled through Amsterdam
+I've café crawled through Amsterdam
 Been around the world with a punk rock band
 And I've seen London, and I've played Japan
 I've been knocked down, I got up again
@@ -69,6 +73,3 @@ I'm the satellite
 And you're the sky
 
 And you're the sky
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: We're An American Band (Remastered / Bonus Track)
 artists:
 - Grand Funk
+external_ids:
+  spotify: spotify:track:0gRiVUZhN7AErXjiJnCqPX
 features: []
-genres: []
+first_released_as_single: false
 key: walk-like-a-man-grand-funk
 lyrics_url: https://genius.com/Grand-funk-railroad-walk-like-a-man-lyrics
 name: Walk Like A Man
@@ -55,6 +58,8 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '1974-02-09'
+release_year: 1973
+runtime: 245200
 ---
 Walk like a man
 And talk like a man

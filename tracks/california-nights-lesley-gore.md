@@ -1,8 +1,11 @@
 ---
+album: California Nights
 artists:
 - Lesley Gore
+external_ids:
+  spotify: spotify:track:361voLkTmDFBk0Wb6JPg9q
 features: []
-genres: []
+first_released_as_single: false
 key: california-nights-lesley-gore
 lyrics_url: https://www.azlyrics.com/lyrics/lesleygore/californianights.html
 name: California Nights
@@ -63,8 +66,9 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '1967-05-06'
+release_year: 1967
+runtime: 164000
 ---
-
 Along the sand
 Let's walk the shores together now
 Yes, hand in hand
@@ -103,6 +107,3 @@ And we'll spend
 California nights
 Always pluses of kiss
 Nothing sweeter than
-
-
-

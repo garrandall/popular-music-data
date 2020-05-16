@@ -1,8 +1,11 @@
 ---
+album: Night Lights Harmony
 artists:
 - Four Tops
+external_ids:
+  spotify: spotify:track:3EGwwiirkejV2wnIGhRiaW
 features: []
-genres: []
+first_released_as_single: false
 key: seven-lonely-nights-four-tops
 lyrics_url: https://genius.com/The-four-tops-seven-lonely-nights-lyrics
 name: Seven Lonely Nights
@@ -23,6 +26,8 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '1975-06-14'
+release_year: 1975
+runtime: 182066
 ---
 Seven lonely nights I cried for you
 All week long

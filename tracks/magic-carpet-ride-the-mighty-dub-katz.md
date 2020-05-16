@@ -1,8 +1,11 @@
 ---
+album: The 2012 Remixes
 artists:
 - The Mighty Dub Katz
+external_ids:
+  spotify: spotify:track:2lQ8WY3El1usUM2k3JjNuc
 features: []
-genres: []
+first_released_as_single: false
 key: magic-carpet-ride-the-mighty-dub-katz
 lyrics_url: https://genius.com/Mighty-dub-katz-magic-carpet-ride-the-house-moguls-remix-lyrics
 name: Magic Carpet Ride
@@ -87,6 +90,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1996-02-24'
+release_year: 1995
+runtime: 245167
 ---
 I like to dream
 Right between the sound machine

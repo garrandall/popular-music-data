@@ -1,8 +1,11 @@
 ---
+album: Baby, I'm Yours
 artists:
 - Barbara Lewis
+external_ids:
+  spotify: spotify:track:486DaeZjbBVsY6VWueOCkH
 features: []
-genres: []
+first_released_as_single: false
 key: snap-your-fingers-barbara-lewis
 lyrics_url: https://genius.com/Barbara-lewis-snap-your-fingers-lyrics
 name: Snap Your Fingers
@@ -27,6 +30,8 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '1964-01-25'
+release_year: 1963
+runtime: 187946
 ---
 (Snap your fingers)
 And I'll come running

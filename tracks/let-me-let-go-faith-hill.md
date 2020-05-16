@@ -1,8 +1,11 @@
 ---
+album: Faith
 artists:
 - Faith Hill
+external_ids:
+  spotify: spotify:track:4HuBioo0RnWcqCDeyg8bGL
 features: []
-genres: []
+first_released_as_single: false
 key: let-me-let-go-faith-hill
 lyrics_url: https://genius.com/Faith-hill-let-me-let-go-lyrics
 name: Let Me Let Go
@@ -47,6 +50,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1999-02-06'
+release_year: 1998
+runtime: 264196
 ---
 I thought it was over, baby
 We said our goodbyes

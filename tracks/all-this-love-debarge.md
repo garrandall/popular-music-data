@@ -1,8 +1,11 @@
 ---
+album: All This Love
 artists:
 - Debarge
+external_ids:
+  spotify: spotify:track:6ABtlkvl08XQo6Xu24FJaf
 features: []
-genres: []
+first_released_as_single: false
 key: all-this-love-debarge
 lyrics_url: https://genius.com/Debarge-all-this-love-lyrics
 name: All This Love
@@ -83,6 +86,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1983-08-27'
+release_year: 1982
+runtime: 352586
 ---
 I had some problems
 And no one could seem to solve them

@@ -1,8 +1,11 @@
 ---
+album: Starting All Over Again
 artists:
 - Mel And Tim
+external_ids:
+  spotify: spotify:track:7u79I5TpIKMnuognG4oNpL
 features: []
-genres: []
+first_released_as_single: false
 key: starting-all-over-again-mel-and-tim
 lyrics_url: https://genius.com/Mel-and-tim-starting-all-over-again-lyrics
 name: Starting All Over Again
@@ -87,6 +90,8 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1972-11-18'
+release_year: 1972
+runtime: 248466
 ---
 Starting all over again is gonna be rough, so rough
 But we're gonna make it

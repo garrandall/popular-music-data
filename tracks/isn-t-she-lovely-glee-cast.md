@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music, Volume 6'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:2Y3jOksd3DVmmznyGvMwzM
 features: []
-genres: []
+first_released_as_single: false
 key: isn-t-she-lovely-glee-cast
 lyrics_url: https://genius.com/Glee-cast-isnt-she-lovely-lyrics
 name: Isn't She Lovely
@@ -11,6 +14,8 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '2011-05-28'
+release_year: 2011
+runtime: 98666
 ---
 Isn't she lovely?
 Isn't she wonderful?

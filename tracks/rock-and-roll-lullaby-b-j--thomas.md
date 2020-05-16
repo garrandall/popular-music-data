@@ -1,8 +1,11 @@
 ---
+album: 'Rock N'' Roll Masters: BJ Thomas (Re-recorded)'
 artists:
 - B.J. Thomas
+external_ids:
+  spotify: spotify:track:5LQ1nSJcVSYkGJbvYGrd6n
 features: []
-genres: []
+first_released_as_single: false
 key: rock-and-roll-lullaby-b-j--thomas
 lyrics_url: https://www.azlyrics.com/lyrics/bjthomas/rockandrolllullaby.html
 name: Rock And Roll Lullaby
@@ -51,8 +54,9 @@ rankings:
   rank: 32
   ranking_list: Billboard Hot 100
   start_date: '1972-04-22'
+release_year: 1972
+runtime: 309200
 ---
-
 She was just sixteen and all alone
 When I came to be
 So we grew up together
@@ -95,6 +99,3 @@ Like the sound of a good old rock and roll lullaby
 It'll be alright
 Just hold on tight
 Sing it sweet and clear
-
-
-

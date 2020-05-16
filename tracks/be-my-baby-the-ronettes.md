@@ -1,8 +1,11 @@
 ---
+album: Quadrophenia (Original Motion Picture Soundtrack)
 artists:
 - The Ronettes
+external_ids:
+  spotify: spotify:track:4omQXEF9TDkGr9XKB67vwD
 features: []
-genres: []
+first_released_as_single: false
 key: be-my-baby-the-ronettes
 lyrics_url: https://genius.com/The-ronettes-be-my-baby-lyrics
 name: Be My Baby
@@ -59,6 +62,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1963-11-23'
+release_year: 1963
+runtime: 150758
 ---
 The night we met I knew I needed you so
 And if I had the chance I'd never let you go

@@ -1,8 +1,11 @@
 ---
+album: Marcy Playground
 artists:
 - Marcy Playground
+external_ids:
+  spotify: spotify:track:5mkGfmJGFZpwK9nA5amOhv
 features: []
-genres: []
+first_released_as_single: false
 key: sex-and-candy-marcy-playground
 lyrics_url: https://genius.com/Marcy-playground-sex-and-candy-lyrics
 name: Sex And Candy
@@ -119,6 +122,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1998-10-17'
+release_year: 1997
+runtime: 173493
 ---
 Hanging around, downtown by myself
 And I had so much time to sit and think about myself

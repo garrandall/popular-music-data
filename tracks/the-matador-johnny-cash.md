@@ -1,8 +1,11 @@
 ---
+album: The Legend
 artists:
 - Johnny Cash
+external_ids:
+  spotify: spotify:track:20IjsA4PoP8gz6mWySdsmf
 features: []
-genres: []
+first_released_as_single: false
 key: the-matador-johnny-cash
 lyrics_url: https://www.azlyrics.com/lyrics/johnnycash/thematador.html
 name: The Matador
@@ -35,8 +38,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1963-12-07'
+release_year: 1963
+runtime: 164106
 ---
-
 The crowd is waiting for the bullfight
 Matador
 My final fight the place is packed once more
@@ -63,6 +67,3 @@ They want blood you know!
 You're still their idol as you were before
 Kill just one more!
 Remind Anita, you're the greatest Matador
-
-
-

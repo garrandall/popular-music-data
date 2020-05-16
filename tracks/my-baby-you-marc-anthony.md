@@ -1,8 +1,11 @@
 ---
+album: Marc Anthony
 artists:
 - Marc Anthony
+external_ids:
+  spotify: spotify:track:124qDsjeZZkujOuer8gG45
 features: []
-genres: []
+first_released_as_single: false
 key: my-baby-you-marc-anthony
 lyrics_url: https://www.azlyrics.com/lyrics/marcanthony/mybabyyou.html
 name: My Baby You
@@ -87,8 +90,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2001-01-27'
+release_year: 1999
+runtime: 236960
 ---
-
 as I look into your eyes
 i see all the reasons why
 my life's worth a thousand skies
@@ -115,6 +119,3 @@ i'll be right there if you call
 you're my greatest love of all
 
 arianna I feel so alive
-
-
-

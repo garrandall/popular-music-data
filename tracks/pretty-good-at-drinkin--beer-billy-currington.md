@@ -1,8 +1,11 @@
 ---
+album: Enjoy Yourself
 artists:
 - Billy Currington
+external_ids:
+  spotify: spotify:track:6a7wXoZOARI8IqEXObjhDz
 features: []
-genres: []
+first_released_as_single: false
 key: pretty-good-at-drinkin--beer-billy-currington
 lyrics_url: https://www.azlyrics.com/lyrics/billycurrington/prettygoodatdrinkinbeer.html
 name: Pretty Good At Drinkin' Beer
@@ -87,8 +90,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2010-10-30'
+release_year: 2010
+runtime: 179906
 ---
-
 I wasn't born for diggin deep holes
 I'm not made for pavin long roads
 I aint cut out to climb high line poles
@@ -131,6 +135,3 @@ I'm pretty good at drinkin beer
 
  So hand me one more boys...
 That's what I'm here for
-
-
-

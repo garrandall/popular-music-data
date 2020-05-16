@@ -1,8 +1,11 @@
 ---
+album: No Ordinary Man
 artists:
 - Tracy Byrd
+external_ids:
+  spotify: spotify:track:5WEK4szbQp9c7ZK6LkYd9k
 features: []
-genres: []
+first_released_as_single: false
 key: the-keeper-of-the-stars-tracy-byrd
 lyrics_url: https://www.azlyrics.com/lyrics/tracybyrd/thekeeperofthestars.html
 name: The Keeper Of The Stars
@@ -35,8 +38,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1995-05-13'
+release_year: 1994
+runtime: 247626
 ---
-
 It was no accident me finding you
 Someone had a hand in it
 Long before we ever knew
@@ -70,6 +74,3 @@ Thanks to the keeper of the stars
 It was no accident me finding you
 Someone had a hand in it
 Long before we ever knew
-
-
-

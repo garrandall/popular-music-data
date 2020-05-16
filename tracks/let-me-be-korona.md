@@ -1,8 +1,11 @@
 ---
+album: Lost Hits Of The 80's
 artists:
 - Korona
+external_ids:
+  spotify: spotify:track:7z4K4liL4dp8oMpLMdETD9
 features: []
-genres: []
+first_released_as_single: false
 key: let-me-be-korona
 name: Let Me Be
 rankings:
@@ -38,5 +41,7 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1980-05-10'
+release_year: 1980
+runtime: 213520
 ---
 

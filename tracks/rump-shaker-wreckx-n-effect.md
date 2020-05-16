@@ -1,8 +1,11 @@
 ---
+album: Hard Or Smooth
 artists:
 - Wreckx-N-Effect
+external_ids:
+  spotify: spotify:track:4dY4JVC0Q9CwpeZ6JAclIc
 features: []
-genres: []
+first_released_as_single: false
 key: rump-shaker-wreckx-n-effect
 lyrics_url: https://genius.com/Wreckx-n-effect-rump-shaker-lyrics
 name: Rump Shaker
@@ -119,6 +122,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1993-04-10'
+release_year: 1992
+runtime: 312360
 ---
 You are listening to the sound of
 WNE posse

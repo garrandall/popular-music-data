@@ -1,8 +1,11 @@
 ---
+album: Who Is Mike Jones?
 artists:
 - Mike Jones
+external_ids:
+  spotify: spotify:track:5krOROgmf8adn3SJzeKLZy
 features: []
-genres: []
+first_released_as_single: false
 key: back-then-mike-jones
 lyrics_url: https://genius.com/Mike-jones-back-then-lyrics
 name: Back Then
@@ -87,6 +90,8 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '2005-10-15'
+release_year: 2005
+runtime: 244186
 ---
 Back then hoes didn't want me, now hot hoes all on me
 Back then hoes didn't want me, now hot hoes all on me, I said

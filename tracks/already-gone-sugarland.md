@@ -1,8 +1,11 @@
 ---
+album: Love On The Inside
 artists:
 - Sugarland
+external_ids:
+  spotify: spotify:track:6Gd842MwS4ySeBdQTU09sh
 features: []
-genres: []
+first_released_as_single: false
 key: already-gone-sugarland
 lyrics_url: https://www.azlyrics.com/lyrics/sugarland/alreadygone.html
 name: Already Gone
@@ -83,8 +86,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2009-02-14'
+release_year: 2008
+runtime: 275866
 ---
-
 My Mama mapped out the road that she knows
 Which hands you shake and which hands you hold
 In my hand-me-down Mercury, ready to roll
@@ -135,6 +139,3 @@ My mama mapped out the road that she knows
 Which hands to shake, which hands you hold
 In my hand-me-down Mercury
 Life is a runaway train you can't wait to jump on
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Jason Derulo
 artists:
 - Jason Derulo
+external_ids:
+  spotify: spotify:track:4IBuAtdsM6psUgfhHgoy4e
 features: []
-genres: []
+first_released_as_single: false
 key: what-if-jason-derulo
 lyrics_url: https://genius.com/Jason-derulo-what-if-lyrics
 name: What If
@@ -15,6 +18,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2010-12-04'
+release_year: 2010
+runtime: 203240
 ---
 What if?
 What if I'm the one for you?

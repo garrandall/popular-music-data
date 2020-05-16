@@ -1,8 +1,11 @@
 ---
+album: Songs
 artists:
 - Luther Vandross
+external_ids:
+  spotify: spotify:track:3xvcFlh6hHqxyiAFkqpsjZ
 features: []
-genres: []
+first_released_as_single: false
 key: always-and-forever-luther-vandross
 lyrics_url: https://www.azlyrics.com/lyrics/luthervandross/alwaysandforever.html
 name: Always And Forever
@@ -79,8 +82,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1995-04-08'
+release_year: 1994
+runtime: 292733
 ---
-
 Always and forever
 Each moment with you
 Is just like a dream to me
@@ -106,10 +110,3 @@ If you get lonely
 Call me and take
 A second to give to me
 That magic you make and
-
-
-
-
-
-
-

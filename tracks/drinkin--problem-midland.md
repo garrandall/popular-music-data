@@ -1,8 +1,11 @@
 ---
+album: Spotify Sessions
 artists:
 - Midland
+external_ids:
+  spotify: spotify:track:22umOfAq48etBLGbk8Ffpn
 features: []
-genres: []
+first_released_as_single: false
 key: drinkin--problem-midland
 lyrics_url: https://www.azlyrics.com/lyrics/midland/drinkinproblem.html
 name: Drinkin' Problem
@@ -87,8 +90,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2017-10-07'
+release_year: 2017
+runtime: 247133
 ---
-
 One more night, one more down
 One more, one more round
 First one in, last one out
@@ -138,6 +142,3 @@ They keep on talking, drawing conclusions
 They call it a problem, I call it a solution
 Sitting here in all my grand illusions
 They call it a problem, I call it a solution
-
-
-

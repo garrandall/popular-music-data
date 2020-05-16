@@ -1,9 +1,12 @@
 ---
+album: 'B.o.B Presents: The Adventures of Bobby Ray'
 artists:
 - B.o.B
+external_ids:
+  spotify: spotify:track:6lV2MSQmRIkycDScNtrBXO
 features:
 - Hayley Williams
-genres: []
+first_released_as_single: false
 key: airplanes-b-o-b-hayley-williams
 lyrics_url: https://www.azlyrics.com/lyrics/bob/airplanes.html
 name: Airplanes
@@ -128,9 +131,9 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '2010-11-20'
+release_year: 2010
+runtime: 180480
 ---
-
-
 Can we pretend that airplanes
 In the night sky are like shooting stars?
 I could really use a wish right now
@@ -214,6 +217,3 @@ Like, like, like shootin' stars (oh, oh... oh)
 I-I-I-I could really use a wish right now
 A wish, a wish right now
 (A wish right now)
-
-
-

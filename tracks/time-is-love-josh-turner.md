@@ -1,8 +1,11 @@
 ---
+album: Punching Bag
 artists:
 - Josh Turner
+external_ids:
+  spotify: spotify:track:2rg3yLJKN5Yl4JCHHkMgeC
 features: []
-genres: []
+first_released_as_single: false
 key: time-is-love-josh-turner
 lyrics_url: https://www.azlyrics.com/lyrics/joshturner/timeislove.html
 name: Time Is Love
@@ -107,8 +110,9 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '2012-09-29'
+release_year: 2012
+runtime: 200373
 ---
-
 I know I gotta put in the hours,
 Make the money while the sunlight shines
 But anything I gotta get done,
@@ -152,6 +156,3 @@ She's where I need to be,
 Time is love, gotta run.
 
 Time is Love, gotta run...
-
-
-

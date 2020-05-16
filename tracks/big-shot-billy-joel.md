@@ -1,8 +1,11 @@
 ---
+album: 52nd Street
 artists:
 - Billy Joel
+external_ids:
+  spotify: spotify:track:22wxe2Yc9JzihICXYLGAQ7
 features: []
-genres: []
+first_released_as_single: false
 key: big-shot-billy-joel
 lyrics_url: https://genius.com/Billy-joel-big-shot-lyrics
 name: Big Shot
@@ -51,6 +54,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1979-04-21'
+release_year: 1978
+runtime: 243493
 ---
 Well, you went uptown ridin' in your limousine
 With your fine Park Avenue clothes

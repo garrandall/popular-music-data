@@ -1,8 +1,11 @@
 ---
+album: Up All Night
 artists:
 - One Direction
+external_ids:
+  spotify: spotify:track:5G2c6FsfTzgYUzageCmfXY
 features: []
-genres: []
+first_released_as_single: false
 key: one-thing-one-direction
 lyrics_url: https://www.musixmatch.com/lyrics/One-Direction/One-Thing
 name: One Thing
@@ -87,6 +90,8 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '2012-08-25'
+release_year: 2012
+runtime: 197600
 ---
 I've tried playin' it cool
 But when I'm lookin' at you

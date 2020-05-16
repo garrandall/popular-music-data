@@ -1,8 +1,11 @@
 ---
+album: Sing & Swing With Bobby Darin
 artists:
 - Bobby Darin
+external_ids:
+  spotify: spotify:track:6SI0GacLVtXOgvCSKpaXqo
 features: []
-genres: []
+first_released_as_single: false
 key: won-t-you-come-home-bill-bailey-bobby-darin
 lyrics_url: https://www.musixmatch.com/lyrics/Bobby-Darin/Won-t-You-Come-Home-Bill-Bailey
 name: Won't You Come Home Bill Bailey
@@ -51,6 +54,8 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1960-08-01'
+release_year: 1960
+runtime: 124986
 ---
 Hey, Bill Bailey, Don't look now but somebody's callin' you
 Who? Why, your lady friend, that's who

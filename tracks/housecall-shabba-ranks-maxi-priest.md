@@ -1,9 +1,12 @@
 ---
+album: Shabba Ranks and Friends
 artists:
 - Shabba Ranks
+external_ids:
+  spotify: spotify:track:3lOrfY4S4kXe6oSrSnXVwS
 features:
 - Maxi Priest
-genres: []
+first_released_as_single: false
 key: housecall-shabba-ranks-maxi-priest
 lyrics_url: https://www.musixmatch.com/lyrics/Shabba-Ranks-feat-Maxi-Priest/Housecall
 name: Housecall
@@ -68,6 +71,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1992-02-01'
+release_year: 1991
+runtime: 237493
 ---
 False pretender, stop pretending
 All gals single have dem singing, watch this

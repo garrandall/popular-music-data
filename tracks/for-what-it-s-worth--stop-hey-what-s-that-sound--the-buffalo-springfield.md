@@ -1,8 +1,11 @@
 ---
+album: The Wonder Years
 artists:
 - The Buffalo Springfield
+external_ids:
+  spotify: spotify:track:7LJmZ8lOhB22Q5NQjitqHp
 features: []
-genres: []
+first_released_as_single: false
 key: for-what-it-s-worth--stop-hey-what-s-that-sound--the-buffalo-springfield
 lyrics_url: https://genius.com/Buffalo-springfield-for-what-its-worth-lyrics
 name: For What It's Worth (Stop Hey What's That Sound)
@@ -67,6 +70,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1967-05-06'
+release_year: 1967
+runtime: 160933
 ---
 There's something happening here
 But what it is ain't exactly clear

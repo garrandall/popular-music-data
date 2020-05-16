@@ -1,8 +1,11 @@
 ---
+album: Black & Blue
 artists:
 - Harold Melvin And The Blue Notes
+external_ids:
+  spotify: spotify:track:5BokNOKT47jjJvpZAos2vM
 features: []
-genres: []
+first_released_as_single: false
 key: the-love-i-lost--part-1--harold-melvin-and-the-blue-notes
 lyrics_url: https://genius.com/Harold-melvin-and-the-blue-notes-the-love-i-lost-lyrics
 name: The Love I Lost (Part 1)
@@ -79,6 +82,8 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1974-01-26'
+release_year: 1968
+runtime: 220106
 ---
 The love I lost
 Was a sweet love

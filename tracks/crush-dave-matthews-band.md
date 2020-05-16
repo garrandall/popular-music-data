@@ -1,8 +1,11 @@
 ---
+album: Before These Crowded Streets
 artists:
 - Dave Matthews Band
+external_ids:
+  spotify: spotify:track:6AKSrodq9kU9hmTLEeWFFr
 features: []
-genres: []
+first_released_as_single: false
 key: crush-dave-matthews-band
 lyrics_url: https://www.azlyrics.com/lyrics/davematthewsband/crush.html
 name: Crush
@@ -71,8 +74,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1999-05-29'
+release_year: 1998
+runtime: 489333
 ---
-
 Crazy how it feels tonight 
 Crazy how you make it all alright love 
 You crush me with the things you do 
@@ -130,6 +134,3 @@ So much you have given love
 That I would give you back again and again 
 Meaning I'll hold you 
 And please let me always
-
-
-

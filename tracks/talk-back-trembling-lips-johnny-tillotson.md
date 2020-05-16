@@ -1,8 +1,11 @@
 ---
+album: American Legend
 artists:
 - Johnny Tillotson
+external_ids:
+  spotify: spotify:track:6jLAoebOE5IrmIuHjoGBXZ
 features: []
-genres: []
+first_released_as_single: false
 key: talk-back-trembling-lips-johnny-tillotson
 lyrics_url: https://genius.com/Johnny-tillotson-talk-back-trembling-lips-lyrics
 name: Talk Back Trembling Lips
@@ -59,6 +62,8 @@ rankings:
   rank: 34
   ranking_list: Billboard Hot 100
   start_date: '1964-02-01'
+release_year: 1963
+runtime: 156235
 ---
 Talk back trembling lips
 Shaky legs don't just stand there

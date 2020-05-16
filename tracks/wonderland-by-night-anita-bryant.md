@@ -1,8 +1,11 @@
 ---
+album: The Anita Bryant Collection 1958-62
 artists:
 - Anita Bryant
+external_ids:
+  spotify: spotify:track:6ruGwNK60pYhDZrcgb9j6V
 features: []
-genres: []
+first_released_as_single: false
 key: wonderland-by-night-anita-bryant
 lyrics_url: https://genius.com/Anita-bryant-wonderland-by-night-lyrics
 name: Wonderland By Night
@@ -47,6 +50,8 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1961-02-06'
+release_year: 1960
+runtime: 195933
 ---
 Stars hung suspended
 Above a floating yellow moon

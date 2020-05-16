@@ -1,8 +1,11 @@
 ---
+album: Old School Soul Masters
 artists:
 - Big Sambo and The House Wreckers
+external_ids:
+  spotify: spotify:track:7LaqQ8S4kwVt8nKVHT9ESD
 features: []
-genres: []
+first_released_as_single: false
 key: the-rains-came-big-sambo-and-the-house-wreckers
 name: The Rains Came
 rankings:
@@ -34,5 +37,7 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1962-04-21'
+release_year: 1962
+runtime: 136826
 ---
 

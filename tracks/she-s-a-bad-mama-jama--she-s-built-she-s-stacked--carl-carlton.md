@@ -1,8 +1,11 @@
 ---
+album: Funk Funk - The Best Of Funk Essentials 2
 artists:
 - Carl Carlton
+external_ids:
+  spotify: spotify:track:5wDGOutd9HNv8UQsMUtOaL
 features: []
-genres: []
+first_released_as_single: false
 key: she-s-a-bad-mama-jama--she-s-built-she-s-stacked--carl-carlton
 lyrics_url: https://genius.com/Carl-carlton-shes-a-bad-mama-jama-shes-built-shes-stacked-lyrics
 name: She's A Bad Mama Jama (She's Built She's Stacked)
@@ -91,6 +94,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1982-01-09'
+release_year: 1981
+runtime: 352600
 ---
 She's a bad mama jama
 Just as fine as she can be

@@ -1,8 +1,11 @@
 ---
+album: Clear As Day
 artists:
 - Scotty McCreery
+external_ids:
+  spotify: spotify:track:0Yvyj5YkjSBNgD4Ai0clSG
 features: []
-genres: []
+first_released_as_single: false
 key: the-trouble-with-girls-scotty-mccreery
 lyrics_url: https://genius.com/Scotty-mccreery-the-trouble-with-girls-lyrics
 name: The Trouble With Girls
@@ -79,6 +82,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2012-03-24'
+release_year: 2011
+runtime: 229573
 ---
 The trouble with girls is they’re a mystery
 Something about ’em puzzles me

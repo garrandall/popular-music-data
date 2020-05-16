@@ -1,8 +1,11 @@
 ---
+album: Pet Sounds (Original Mono & Stereo Mix Versions)
 artists:
 - The Beach Boys
+external_ids:
+  spotify: spotify:track:2ULL3VZf4WwBKO4vjwT7Bg
 features: []
-genres: []
+first_released_as_single: false
 key: sloop-john-b-the-beach-boys
 lyrics_url: https://www.azlyrics.com/lyrics/beachboys/sloopjohnb.html
 name: Sloop John B
@@ -51,8 +54,9 @@ rankings:
   rank: 33
   ranking_list: Billboard Hot 100
   start_date: '1966-06-11'
+release_year: 1966
+runtime: 180133
 ---
-
 We come on the sloop John B
 My grandfather and me
 Around Nassau town we did roam
@@ -100,6 +104,3 @@ Call for the Captain ashore
 Let me go home, let me go home
 I wanna go home, let me go home
 Why don't you let me go home
-
-
-

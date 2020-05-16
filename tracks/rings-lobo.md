@@ -1,8 +1,11 @@
 ---
+album: Just A Singer
 artists:
 - Lobo
+external_ids:
+  spotify: spotify:track:1YbH7nlArVNoWPlaFBtfA8
 features: []
-genres: []
+first_released_as_single: false
 key: rings-lobo
 lyrics_url: https://www.azlyrics.com/lyrics/lobo/rings.html
 name: Rings
@@ -43,8 +46,9 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '1974-09-14'
+release_year: 1974
+runtime: 209986
 ---
-
 Ring ring telephone rings
 Somebody says baby what you doin'
 I've been wonderin' where you've been
@@ -85,6 +89,3 @@ Hand in hand
 We'll stand upon the sand
 With the preacher man
 And let the wedding bell ring
-
-
-

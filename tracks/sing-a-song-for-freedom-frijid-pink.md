@@ -1,8 +1,11 @@
 ---
+album: Defrosted
 artists:
 - Frijid Pink
+external_ids:
+  spotify: spotify:track:0OaGuxUl5arPeeQOtixZ0j
 features: []
-genres: []
+first_released_as_single: false
 key: sing-a-song-for-freedom-frijid-pink
 lyrics_url: https://www.musixmatch.com/lyrics/Frijid-Pink/Sing-a-Song-for-Freedom
 name: Sing A Song For Freedom
@@ -35,6 +38,8 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '1970-09-05'
+release_year: 1970
+runtime: 179760
 ---
 Everybody's gotta get a job together
 Take it back all the way

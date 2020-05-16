@@ -1,8 +1,11 @@
 ---
+album: New Routes
 artists:
 - Lulu
+external_ids:
+  spotify: spotify:track:6pbUTPNk144OwRGpGD7qti
 features: []
-genres: []
+first_released_as_single: false
 key: oh-me-oh-my--i-m-a-fool-for-you-baby--lulu
 lyrics_url: https://genius.com/Lulu-oh-me-oh-my-lyrics
 name: Oh Me Oh My (I'm A Fool For You Baby)
@@ -63,6 +66,8 @@ rankings:
   rank: 38
   ranking_list: Billboard Hot 100
   start_date: '1970-03-28'
+release_year: 1969
+runtime: 164493
 ---
 To make you laugh I'd play the fool for you
 Although the people turn and stare

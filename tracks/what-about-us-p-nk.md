@@ -1,8 +1,11 @@
 ---
+album: Beautiful Trauma
 artists:
 - P!nk
+external_ids:
+  spotify: spotify:track:5Xt5iEbljmwJW51LMTQ6Nx
 features: []
-genres: []
+first_released_as_single: true
 key: what-about-us-p-nk
 lyrics_url: https://genius.com/P-nk-what-about-us-lyrics
 name: What About Us
@@ -95,6 +98,8 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '2018-01-13'
+release_year: 2017
+runtime: 233902
 ---
 La-da-da-da-da, la-da-da-da-da
 Da-da-da

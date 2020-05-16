@@ -1,8 +1,11 @@
 ---
+album: Creedence Clearwater Revival
 artists:
 - Creedence Clearwater Revival
+external_ids:
+  spotify: spotify:track:4SDywo3ykB2PEthjXvo1UP
 features: []
-genres: []
+first_released_as_single: false
 key: i-put-a-spell-on-you-creedence-clearwater-revival
 lyrics_url: https://www.azlyrics.com/lyrics/creedenceclearwaterrevival/iputaspellonyou.html
 name: I Put A Spell On You
@@ -43,8 +46,9 @@ rankings:
   rank: 64
   ranking_list: Billboard Hot 100
   start_date: '1969-01-04'
+release_year: 1968
+runtime: 271786
 ---
-
 I put a spell on you
 Because you're mine
 You better stop
@@ -60,6 +64,3 @@ I put a spell on you
 Because you're mine
 
 All right!
-
-
-

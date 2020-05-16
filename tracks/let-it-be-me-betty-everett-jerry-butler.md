@@ -1,9 +1,12 @@
 ---
+album: Doo Wop 51 Live! Original Soundtrack
 artists:
 - Betty Everett
 - Jerry Butler
+external_ids:
+  spotify: spotify:track:4rmB4N9wNLiq18OT40mZvd
 features: []
-genres: []
+first_released_as_single: false
 key: let-it-be-me-betty-everett-jerry-butler
 lyrics_url: https://genius.com/Jerry-butler-and-betty-everett-let-it-be-me-lyrics
 name: Let It Be Me
@@ -60,6 +63,8 @@ rankings:
   rank: 32
   ranking_list: Billboard Hot 100
   start_date: '1964-11-28'
+release_year: 1964
+runtime: 218640
 ---
 I bless the day I found you
 I want to stay around you

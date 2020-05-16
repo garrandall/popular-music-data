@@ -1,8 +1,11 @@
 ---
+album: At Abbey Road
 artists:
 - Gerry And The Pacemakers
+external_ids:
+  spotify: spotify:track:3x7suPNmMkXGLBLMi0cFEg
 features: []
-genres: []
+first_released_as_single: false
 key: la-la-la-gerry-and-the-pacemakers
 lyrics_url: https://www.azlyrics.com/lyrics/gerryandthepacemakers/lalala.html
 name: La La La
@@ -19,8 +22,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1966-04-16'
+release_year: 1966
+runtime: 157733
 ---
-
 Now I'm gonna try and find a girl
 Who will make me feel so good
 And when I do, I'll sing this song
@@ -51,6 +55,3 @@ Just shout this and your mouse and hide
 Let's shout:
 
 La la la
-
-
-

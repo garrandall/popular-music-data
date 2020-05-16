@@ -1,8 +1,11 @@
 ---
+album: First Under The Wire
 artists:
 - Little River Band
+external_ids:
+  spotify: spotify:track:1RaUxP6LHVAgbmLOn2naLl
 features: []
-genres: []
+first_released_as_single: false
 key: cool-change-little-river-band
 lyrics_url: https://www.azlyrics.com/lyrics/littleriverband/coolchange.html
 name: Cool Change
@@ -79,8 +82,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1980-02-16'
+release_year: 1979
+runtime: 313320
 ---
-
 If there's one thing
 In my life that's missing
 It's the time that I spend alone
@@ -149,6 +153,3 @@ I know, I know
 It's time for a cool change
 Yes, it is, yes, it is yes, it is
 You know it's time for a cool change
-
-
-

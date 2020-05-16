@@ -1,9 +1,12 @@
 ---
+album: Chemically Imbalanced
 artists:
 - Ying Yang Twins
+external_ids:
+  spotify: spotify:track:7HhR1L61r3Z3PMWRRJSDHe
 features:
 - Wyclef
-genres: []
+first_released_as_single: false
 key: dangerous-ying-yang-twins-wyclef
 lyrics_url: https://www.azlyrics.com/lyrics/yingyangtwins/dangerous.html
 name: Dangerous
@@ -12,8 +15,9 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '2006-12-16'
+release_year: 2006
+runtime: 260426
 ---
-
 Wycelf
 Collik park
 Lets Go
@@ -130,4 +134,3 @@ Ramalam
 
 Wow Black Baby
 Ramalam
-

@@ -1,8 +1,11 @@
 ---
+album: Bad English
 artists:
 - Bad English
+external_ids:
+  spotify: spotify:track:4c9pXEaHBDpQT2HnXOUult
 features: []
-genres: []
+first_released_as_single: false
 key: possession-bad-english
 lyrics_url: https://www.azlyrics.com/lyrics/badenglish/possession.html
 name: Possession
@@ -75,8 +78,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1990-09-29'
+release_year: 1989
+runtime: 308306
 ---
-
 Oh Yeah
 
 I can't find myself
@@ -146,6 +150,3 @@ I wanna dream
 (Possession)
 (Possession)
 (Possession)
-
-
-

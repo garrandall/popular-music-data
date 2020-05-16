@@ -1,8 +1,11 @@
 ---
+album: In The Eye Of The Storm
 artists:
 - Roger Hodgson
+external_ids:
+  spotify: spotify:track:37yEfFkY54AijZUjDv0gAl
 features: []
-genres: []
+first_released_as_single: false
 key: had-a-dream--sleeping-with-the-enemy--roger-hodgson
 lyrics_url: https://genius.com/Roger-hodgson-had-a-dream-sleeping-with-the-enemy-lyrics
 name: Had A Dream (Sleeping With The Enemy)
@@ -67,6 +70,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1985-01-19'
+release_year: 1984
+runtime: 506146
 ---
 Had a dream, I was born to be naked in the eye of the storm
 And now it's standing right in front of me

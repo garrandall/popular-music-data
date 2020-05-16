@@ -1,8 +1,11 @@
 ---
+album: Minutes to Midnight
 artists:
 - Linkin Park
+external_ids:
+  spotify: spotify:track:0sp00HSXkQyqTa6QqM0O8V
 features: []
-genres: []
+first_released_as_single: false
 key: leave-out-all-the-rest-linkin-park
 lyrics_url: https://genius.com/Linkin-park-leave-out-all-the-rest-lyrics
 name: Leave Out All The Rest
@@ -15,6 +18,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2008-12-13'
+release_year: 2007
+runtime: 209306
 ---
 I dreamed I was missing, you were so scared
 But no one would listen 'cause no one else cared

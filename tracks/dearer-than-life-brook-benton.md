@@ -1,8 +1,11 @@
 ---
+album: 'Greatest Hits: The Mercury Years'
 artists:
 - Brook Benton
+external_ids:
+  spotify: spotify:track:5JsyNZivccIDRbtHgofJ8X
 features: []
-genres: []
+first_released_as_single: false
 key: dearer-than-life-brook-benton
 lyrics_url: https://www.musixmatch.com/lyrics/Brook-Benton/Dearer-Than-Life
 name: Dearer Than Life
@@ -39,6 +42,8 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '1963-04-27'
+release_year: 1963
+runtime: 155933
 ---
 Sweeter than honey are your kisses
 Truer than all the stars above

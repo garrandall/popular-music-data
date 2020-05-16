@@ -1,9 +1,12 @@
 ---
+album: Rock Steady
 artists:
 - No Doubt
+external_ids:
+  spotify: spotify:track:6fR6Z0Vc1K6yQWNUIKjAIR
 features:
 - Lady Saw
-genres: []
+first_released_as_single: false
 key: underneath-it-all-no-doubt-lady-saw
 lyrics_url: https://www.azlyrics.com/lyrics/nodoubt/underneathitall.html
 name: Underneath It All
@@ -128,8 +131,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2003-03-22'
+release_year: 2001
+runtime: 302720
 ---
-
 Hey, you don't have to forget
 Just remember this Sunday, alright
 
@@ -219,6 +223,3 @@ Underneath it all
 Underneath it all
 Underneath it all
 Underneath it all
-
-
-

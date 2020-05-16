@@ -1,8 +1,11 @@
 ---
+album: Tossin' and Turnin'
 artists:
 - Bobby Lewis
+external_ids:
+  spotify: spotify:track:7avPp9iHutIDdeaisGTCYY
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-tossin--and-turnin--again-bobby-lewis
 lyrics_url: https://www.musixmatch.com/lyrics/Bobby-Lewis/I-m-Tossin-and-Turnin-Again
 name: I'm Tossin' And Turnin' Again
@@ -11,6 +14,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1962-07-28'
+release_year: 1961
+runtime: 160844
 ---
 (He's tossing and turning)
 My b-b-b-baby got me

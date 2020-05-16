@@ -1,8 +1,11 @@
 ---
+album: Cowboys To Girls (Live)
 artists:
 - The Intruders
+external_ids:
+  spotify: spotify:track:7BSxKWqOEC3hKFllCMuwq5
 features: []
-genres: []
+first_released_as_single: false
 key: when-we-get-married-the-intruders
 lyrics_url: https://www.azlyrics.com/lyrics/intruders/whenwegetmarried.html
 name: When We Get Married
@@ -39,8 +42,9 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1970-08-08'
+release_year: 1964
+runtime: 201186
 ---
-
 Darlin', oh...
 
 When we get married
@@ -81,6 +85,3 @@ We both are
 We'll have a ball
 Dancin' and all
 ...When we get married
-
-
-

@@ -1,9 +1,12 @@
 ---
+album: Full Moon
 artists:
 - Kris Kristofferson
 - Rita Coolidge
+external_ids:
+  spotify: spotify:track:2BR7FF7KdaL1ygxVJ39Iad
 features: []
-genres: []
+first_released_as_single: false
 key: loving-arms-kris-kristofferson-rita-coolidge
 lyrics_url: https://genius.com/Kris-kristofferson-and-rita-coolidge-loving-arms-lyrics
 name: Loving Arms
@@ -28,6 +31,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1974-04-20'
+release_year: 1973
+runtime: 226146
 ---
 If you could see me now
 The one who said that he'd rather roam

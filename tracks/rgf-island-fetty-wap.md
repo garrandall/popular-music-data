@@ -1,8 +1,11 @@
 ---
+album: Fetty Wap
 artists:
 - Fetty Wap
+external_ids:
+  spotify: spotify:track:5PD4Fwjy5yCpNmXxpQbuuq
 features: []
-genres: []
+first_released_as_single: true
 key: rgf-island-fetty-wap
 lyrics_url: https://www.azlyrics.com/lyrics/fettywap/rgfisland.html
 name: RGF Island
@@ -63,9 +66,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2016-01-30'
+release_year: 2015
+runtime: 173880
 ---
-
-
 My niggas stack their money just to spend it
 Cause when you die you cannot take it with you
 If you ain't beefin' 'bout the money, then what's the problem?
@@ -87,4 +90,3 @@ Come try the 100 gang and they'll shoot ya
 I do this for my squad, I do this for my gang
 I do this for my squad, I do this for my gang
 It's Zoovier from the trap and ain't a damn thing change
-

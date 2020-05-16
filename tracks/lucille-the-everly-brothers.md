@@ -1,8 +1,11 @@
 ---
+album: A Date With The Everly Brothers
 artists:
 - The Everly Brothers
+external_ids:
+  spotify: spotify:track:3WukGcfF9iWbMCb2yLbtxS
 features: []
-genres: []
+first_released_as_single: false
 key: lucille-the-everly-brothers
 lyrics_url: https://www.azlyrics.com/lyrics/everlybrothers/lucille.html
 name: Lucille
@@ -47,8 +50,9 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '1960-11-07'
+release_year: 1960
+runtime: 152533
 ---
-
 Lucille
 You don't do your daddy's will
 Lucille
@@ -83,6 +87,3 @@ There ain't nothing to you
 But I love you still
 
 Oh
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Live! Takin' the Stage
 artists:
 - Pure Prairie League
+external_ids:
+  spotify: spotify:track:57Wjx9rTGaMNoiEF6R5GP4
 features: []
-genres: []
+first_released_as_single: false
 key: two-lane-highway-pure-prairie-league
 lyrics_url: https://www.azlyrics.com/lyrics/pureprairieleague/twolanehighway.html
 name: Two Lane Highway
@@ -11,8 +14,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1975-06-28'
+release_year: 1975
+runtime: 252200
 ---
-
 Soon it will be time to go
 I don't want to leave, I guess you know
 Maybe something new will come up
@@ -44,6 +48,3 @@ Two lane highway
 Taking me home, home at last
 Is taking me home, home at last
 Oh, is taking me home, home at last
-
-
-

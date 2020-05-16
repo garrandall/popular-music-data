@@ -1,8 +1,11 @@
 ---
+album: Based on a True Story...
 artists:
 - Blake Shelton
+external_ids:
+  spotify: spotify:track:1MDogqDrStFSO9cdUTUFem
 features: []
-genres: []
+first_released_as_single: false
 key: doin--what-she-likes-blake-shelton
 lyrics_url: https://www.azlyrics.com/lyrics/blakeshelton/doinwhatshelikes.html
 name: Doin' What She Likes
@@ -75,8 +78,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2014-05-24'
+release_year: 2013
+runtime: 222613
 ---
-
 She likes it when I call in sick to work
 Spend the whole day hanging with her
 I might get fired but that's alright
@@ -135,6 +139,3 @@ I like doin' what she likes
 
 Yeah, I like doin' what she likes
 Hm, yeah
-
-
-

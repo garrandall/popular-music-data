@@ -1,8 +1,11 @@
 ---
+album: Needles & Pins
 artists:
 - The Searchers
+external_ids:
+  spotify: spotify:track:0zABw1PtGYHsU4VDpDZsra
 features: []
-genres: []
+first_released_as_single: false
 key: needles-and-pins-the-searchers
 lyrics_url: https://www.azlyrics.com/lyrics/searchers/needlesandpins.html
 name: Needles And Pins
@@ -47,8 +50,9 @@ rankings:
   rank: 37
   ranking_list: Billboard Hot 100
   start_date: '1964-05-09'
+release_year: 1964
+runtime: 131360
 ---
-
 I saw her today
 I saw her face
 It was a face I loved
@@ -99,6 +103,3 @@ The tears I gotta hide
 Oh, needles and pins
 Needles and pins
 Needles and pins
-
-
-

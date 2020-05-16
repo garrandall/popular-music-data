@@ -1,8 +1,11 @@
 ---
+album: Funky Divas
 artists:
 - En Vogue
+external_ids:
+  spotify: spotify:track:3QliYjFTtgOmkQPdPan5BE
 features: []
-genres: []
+first_released_as_single: true
 key: free-your-mind-en-vogue
 lyrics_url: https://genius.com/En-vogue-free-your-mind-lyrics
 name: Free Your Mind
@@ -87,6 +90,8 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '1993-01-23'
+release_year: 1992
+runtime: 250453
 ---
 Prejudice, wrote a song about it
 Like to hear it? Here it go

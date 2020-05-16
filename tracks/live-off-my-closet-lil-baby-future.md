@@ -1,9 +1,12 @@
 ---
+album: My Turn
 artists:
 - Lil Baby
+external_ids:
+  spotify: spotify:track:6AyWdCtEn1DdxjnxPeojR2
 features:
 - Future
-genres: []
+first_released_as_single: false
 key: live-off-my-closet-lil-baby-future
 lyrics_url: https://www.azlyrics.com/lyrics/lilbaby/liveoffmycloset.html
 name: Live Off My Closet
@@ -12,9 +15,9 @@ rankings:
   rank: 28
   ranking_list: Billboard Hot 100
   start_date: '2020-03-14'
+release_year: 2020
+runtime: 173061
 ---
-
-
 (Who made this beat?)
 Drippin'
 (Twysted Genius, baby)
@@ -117,6 +120,3 @@ I been making these deals, numbers come with decimals
 I been making these deals, numbers come with decimals
 I been making these deals, numbers come with decimals
 I been making these deals, numbers come with decimals
-
-
-

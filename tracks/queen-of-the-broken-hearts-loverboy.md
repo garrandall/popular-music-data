@@ -1,8 +1,11 @@
 ---
+album: KEEP IT UP
 artists:
 - Loverboy
+external_ids:
+  spotify: spotify:track:1xOlMzaxfYhh6xJASBksdq
 features: []
-genres: []
+first_released_as_single: false
 key: queen-of-the-broken-hearts-loverboy
 lyrics_url: https://www.azlyrics.com/lyrics/loverboy/queenofthebrokenhearts.html
 name: Queen Of The Broken Hearts
@@ -55,8 +58,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1983-12-03'
+release_year: 1983
+runtime: 230000
 ---
-
 Both sides are fightin'
 You don't know who to choose
 You're stuck in the middle
@@ -121,6 +125,3 @@ She was born the Queen of the Broken Hearts
 She was born the Queen of the Broken Hearts
 
 Yeah, yeah, yeah...
-
-
-

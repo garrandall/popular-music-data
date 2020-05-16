@@ -1,8 +1,11 @@
 ---
+album: Dear Eloise / King Midas In Reverse
 artists:
 - The Hollies
+external_ids:
+  spotify: spotify:track:64gpxD0IvZnnjUzv6rCDBt
 features: []
-genres: []
+first_released_as_single: false
 key: do-the-best-you-can-the-hollies
 lyrics_url: https://genius.com/The-hollies-do-the-best-you-can-lyrics
 name: Do The Best You Can
@@ -11,6 +14,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1968-09-14'
+release_year: 1967
+runtime: 168306
 ---
 When you come across
 The guy who thinks he's boss

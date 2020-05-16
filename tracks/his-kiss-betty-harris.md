@@ -1,8 +1,11 @@
 ---
+album: It's Dark Outside / His Kiss
 artists:
 - Betty Harris
+external_ids:
+  spotify: spotify:track:1UMzgGjcCec8QIbA8VuxBB
 features: []
-genres: []
+first_released_as_single: true
 key: his-kiss-betty-harris
 lyrics_url: https://www.musixmatch.com/lyrics/Betty-Harris/His-Kiss
 name: His Kiss
@@ -23,6 +26,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1964-01-25'
+release_year: 1963
+runtime: 175362
 ---
 Get away, run away
 Stay away from that man

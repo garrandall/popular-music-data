@@ -1,8 +1,11 @@
 ---
+album: Ink.
 artists:
 - The Fixx
+external_ids:
+  spotify: spotify:track:55VsLK0l9sc3OpyxBUS4LX
 features: []
-genres: []
+first_released_as_single: false
 key: how-much-is-enough-the-fixx
 lyrics_url: https://www.azlyrics.com/lyrics/fixx/howmuchisenough.html
 name: How Much Is Enough
@@ -51,8 +54,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1991-06-08'
+release_year: 1991
+runtime: 243973
 ---
-
 How much is enough?
 
 Good enough's not good enough
@@ -103,6 +107,3 @@ When you have all you want and you still feel nothing
 How much is enough, is enough?
 How much is enough, oh?
 When you feel nothing at all
-
-
-

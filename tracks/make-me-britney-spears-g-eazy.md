@@ -1,9 +1,12 @@
 ---
+album: Glory (Deluxe Version)
 artists:
 - Britney Spears
+external_ids:
+  spotify: spotify:track:0nUGa8WQpQqg2vzJUprEo5
 features:
 - G-Eazy
-genres: []
+first_released_as_single: false
 key: make-me-britney-spears-g-eazy
 lyrics_url: https://genius.com/Britney-spears-make-me-lyrics
 name: Make Me
@@ -44,6 +47,8 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '2016-10-01'
+release_year: 2016
+runtime: 230960
 ---
 Friday
 I'm dreaming a mile a minute 'bout somebody

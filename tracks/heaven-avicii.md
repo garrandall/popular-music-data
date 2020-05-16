@@ -1,8 +1,11 @@
 ---
+album: TIM
 artists:
 - Avicii
+external_ids:
+  spotify: spotify:track:0vrmHPfoBadXVr2n0m1aqZ
 features: []
-genres: []
+first_released_as_single: false
 key: heaven-avicii
 lyrics_url: https://www.azlyrics.com/lyrics/avicii/heaven.html
 name: Heaven
@@ -11,8 +14,9 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '2019-06-22'
+release_year: 2019
+runtime: 277261
 ---
-
 Step out into the dawn
 You pray 'til, you pray 'til the lights come on
 And then you feel like you've just been born
@@ -57,6 +61,3 @@ We're gonna lose ourselves tonight, oh
 Heaven (Heaven)
 Went to heaven
 And went to heaven
-
-
-

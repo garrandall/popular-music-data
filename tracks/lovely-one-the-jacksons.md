@@ -1,8 +1,11 @@
 ---
+album: Triumph
 artists:
 - The Jacksons
+external_ids:
+  spotify: spotify:track:0ly0K8nNKxIYUVxA8IGLWi
 features: []
-genres: []
+first_released_as_single: false
 key: lovely-one-the-jacksons
 lyrics_url: https://genius.com/The-jacksons-lovely-one-lyrics
 name: Lovely One
@@ -79,6 +82,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1981-01-24'
+release_year: 1980
+runtime: 291573
 ---
 By Michael Jackson and Randy Jackson)
 Why don't you believe me when I say that I love you?

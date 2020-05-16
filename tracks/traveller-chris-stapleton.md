@@ -1,8 +1,11 @@
 ---
+album: Traveller
 artists:
 - Chris Stapleton
+external_ids:
+  spotify: spotify:track:178OI1A3qjROeFeh8lmNwW
 features: []
-genres: []
+first_released_as_single: false
 key: traveller-chris-stapleton
 lyrics_url: https://genius.com/Chris-stapleton-traveller-lyrics
 name: Traveller
@@ -11,6 +14,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '2015-11-28'
+release_year: 2015
+runtime: 222413
 ---
 I see the sunrise creepin' in
 Everything changes like the desert wind

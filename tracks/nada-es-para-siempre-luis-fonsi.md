@@ -1,8 +1,11 @@
 ---
+album: Paso A Paso
 artists:
 - Luis Fonsi
+external_ids:
+  spotify: spotify:track:5ToI5oXnUmX5Nsmg8enL1N
 features: []
-genres: []
+first_released_as_single: false
 key: nada-es-para-siempre-luis-fonsi
 lyrics_url: https://genius.com/Luis-fonsi-nada-es-para-siempre-lyrics
 name: Nada Es Para Siempre
@@ -11,6 +14,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2005-08-27'
+release_year: 2005
+runtime: 239826
 ---
 Nada es para siempre amor
 Hoy nos toca compartir la misma luna

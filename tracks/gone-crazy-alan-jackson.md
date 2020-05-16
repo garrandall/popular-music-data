@@ -1,8 +1,11 @@
 ---
+album: High Mileage
 artists:
 - Alan Jackson
+external_ids:
+  spotify: spotify:track:5FF1zkuNs0xEiXj9RaZeo0
 features: []
-genres: []
+first_released_as_single: false
 key: gone-crazy-alan-jackson
 lyrics_url: https://www.azlyrics.com/lyrics/alanjackson/gonecrazy.html
 name: Gone Crazy
@@ -59,8 +62,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1999-06-05'
+release_year: 1989
+runtime: 230440
 ---
-
 here I am alone again tonight
 in this old empty house
 its hard to learn what you don't think you need
@@ -96,6 +100,3 @@ ever since you left
 i've been gone
 
 i've been gone
-
-
-

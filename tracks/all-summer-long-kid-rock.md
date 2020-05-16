@@ -1,8 +1,11 @@
 ---
+album: Rock N Roll Jesus
 artists:
 - Kid Rock
+external_ids:
+  spotify: spotify:track:5rX6C5QVvvZB7XckETNych
 features: []
-genres: []
+first_released_as_single: false
 key: all-summer-long-kid-rock
 lyrics_url: https://genius.com/Kid-rock-all-summer-long-lyrics
 name: All Summer Long
@@ -87,6 +90,8 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '2008-11-29'
+release_year: 2007
+runtime: 297586
 ---
 It was 1989, my thoughts were short my hair was long
 Caught somewhere between a boy and man

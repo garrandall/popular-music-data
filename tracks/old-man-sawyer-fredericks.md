@@ -1,8 +1,11 @@
 ---
+album: The Complete Season 8 Collection (The Voice Performance)
 artists:
 - Sawyer Fredericks
+external_ids:
+  spotify: spotify:track:2Yh8cnpddujSLPOVJKlSDt
 features: []
-genres: []
+first_released_as_single: false
 key: old-man-sawyer-fredericks
 lyrics_url: https://www.azlyrics.com/lyrics/sawyerfredericks/oldman.html
 name: Old Man
@@ -11,8 +14,9 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '2015-06-06'
+release_year: 2015
+runtime: 184529
 ---
-
 Old man look at my life
 I'm a lot like you were
 Old man look at my life
@@ -64,6 +68,3 @@ Old man look at my life,
 I'm a lot like you were.
 Old man look at my life,
 I'm a lot like you were.
-
-
-

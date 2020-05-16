@@ -1,8 +1,11 @@
 ---
+album: It Keeps Right On A-Hurtin'
 artists:
 - Johnny Tillotson
+external_ids:
+  spotify: spotify:track:7d0sUxZ1O3zyM5B8t6CYST
 features: []
-genres: []
+first_released_as_single: false
 key: it-keeps-right-on-a-hurtin--johnny-tillotson
 lyrics_url: https://genius.com/Johnny-tillotson-it-keeps-right-on-a-hurtin-lyrics
 name: It Keeps Right On A-Hurtin'
@@ -63,6 +66,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1962-08-11'
+release_year: 1962
+runtime: 169573
 ---
 I cry myself to sleep each night
 Wishing I could hold you tight

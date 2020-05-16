@@ -1,8 +1,11 @@
 ---
+album: Strong
 artists:
 - Tracy Lawrence
+external_ids:
+  spotify: spotify:track:7cxOL3nvmqd6w811wOlWT1
 features: []
-genres: []
+first_released_as_single: false
 key: paint-me-a-birmingham-tracy-lawrence
 lyrics_url: https://www.azlyrics.com/lyrics/tracylawrence/paintmeabirmingham.html
 name: Paint Me A Birmingham
@@ -71,8 +74,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2004-07-17'
+release_year: 2004
+runtime: 228173
 ---
-
 He was sitting' there, his brush in hand
 Painting' waves as they danced, upon the sand
 With every stroke, he brought to life
@@ -115,6 +119,3 @@ For a while she'll be, mine again
 If you can Paint Me A Birmingham
 
 Oh paint me a Birmingham
-
-
-

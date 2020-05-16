@@ -1,8 +1,11 @@
 ---
+album: One More Story
 artists:
 - Peter Cetera
+external_ids:
+  spotify: spotify:track:1nOrWvdIkhxfRuLD1eALls
 features: []
-genres: []
+first_released_as_single: false
 key: best-of-times-peter-cetera
 lyrics_url: https://www.azlyrics.com/lyrics/petercetera/bestoftimes.html
 name: Best Of Times
@@ -39,8 +42,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1988-12-17'
+release_year: 1988
+runtime: 255533
 ---
-
 Things get bad, times get tough
 Everybody knows
 You gotta be a little stronger
@@ -72,4 +76,3 @@ See my way, I know where I'm goin'
 I know I'd never think that I'd ever give up
 I want it all as soon as I can
 Right where I am
-

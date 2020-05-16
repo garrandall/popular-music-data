@@ -1,8 +1,11 @@
 ---
+album: The Rolling Stones In Mono (Remastered 2016)
 artists:
 - The Rolling Stones
+external_ids:
+  spotify: spotify:track:5dDPFVD26G55XYYaKIexRS
 features: []
-genres: []
+first_released_as_single: false
 key: we-love-you-the-rolling-stones
 lyrics_url: https://genius.com/The-rolling-stones-we-love-you-lyrics
 name: We Love You
@@ -31,6 +34,8 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '1967-10-21'
+release_year: 1966
+runtime: 276960
 ---
 We don't care if you only love "we"
 We don't care if you only love "we"

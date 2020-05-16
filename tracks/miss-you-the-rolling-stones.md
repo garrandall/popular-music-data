@@ -1,8 +1,11 @@
 ---
+album: Some Girls
 artists:
 - The Rolling Stones
+external_ids:
+  spotify: spotify:track:3hJLKtTpgct9Y9wKww0BiR
 features: []
-genres: []
+first_released_as_single: false
 key: miss-you-the-rolling-stones
 lyrics_url: https://genius.com/The-rolling-stones-miss-you-lyrics
 name: Miss You
@@ -87,6 +90,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1978-10-07'
+release_year: 1978
+runtime: 288666
 ---
 I've been holding out so long
 I've been sleeping all alone

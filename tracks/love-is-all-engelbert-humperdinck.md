@@ -1,8 +1,11 @@
 ---
+album: Live At The Royal Albert Hall
 artists:
 - Engelbert Humperdinck
+external_ids:
+  spotify: spotify:track:40dCAw6HEo6ib8MteLAnih
 features: []
-genres: []
+first_released_as_single: false
 key: love-is-all-engelbert-humperdinck
 lyrics_url: https://genius.com/Engelbert-humperdinck-love-is-all-lyrics
 name: Love Is All
@@ -19,6 +22,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1973-10-13'
+release_year: 1973
+runtime: 190720
 ---
 Yesterday, I knew the games to play
 I thought I knew the way life was meant to be

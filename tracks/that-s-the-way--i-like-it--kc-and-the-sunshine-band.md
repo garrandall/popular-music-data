@@ -1,8 +1,11 @@
 ---
+album: KC and the Sunshine Band
 artists:
 - KC And The Sunshine Band
+external_ids:
+  spotify: spotify:track:1qiQduM84A0VeH8Y2uAbqi
 features: []
-genres: []
+first_released_as_single: false
 key: that-s-the-way--i-like-it--kc-and-the-sunshine-band
 lyrics_url: https://genius.com/Kc-and-the-sunshine-band-thats-the-way-i-like-it-lyrics
 name: That's The Way (I Like It)
@@ -71,6 +74,8 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1976-02-07'
+release_year: 1975
+runtime: 185106
 ---
 {Lead in}
 

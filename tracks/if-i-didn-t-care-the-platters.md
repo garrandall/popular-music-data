@@ -1,8 +1,11 @@
 ---
+album: Remember When?
 artists:
 - The Platters
+external_ids:
+  spotify: spotify:track:0hUrQ65aXYHm2zEAlBVI6F
 features: []
-genres: []
+first_released_as_single: false
 key: if-i-didn-t-care-the-platters
 lyrics_url: https://genius.com/The-platters-if-i-didnt-care-lyrics
 name: If I Didn't Care
@@ -39,6 +42,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1961-02-27'
+release_year: 1959
+runtime: 191093
 ---
 They asked me how I knew
 My true love was true

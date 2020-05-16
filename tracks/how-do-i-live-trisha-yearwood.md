@@ -1,8 +1,11 @@
 ---
+album: Ballads
 artists:
 - Trisha Yearwood
+external_ids:
+  spotify: spotify:track:5xM53GMJzt0g16Ke9islN4
 features: []
-genres: []
+first_released_as_single: false
 key: how-do-i-live-trisha-yearwood
 lyrics_url: https://www.azlyrics.com/lyrics/trishayearwood/howdoilive.html
 name: How Do I Live
@@ -55,8 +58,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1997-09-06'
+release_year: 1997
+runtime: 243226
 ---
-
 How do I get through one night without you
 If I had to live without you
 What kind of life would that be
@@ -98,6 +102,3 @@ How do I, how do I
 Oh, how do I live
 How do I live
 Without you baby
-
-
-

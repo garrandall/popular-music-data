@@ -1,8 +1,11 @@
 ---
+album: Set This Circus Down
 artists:
 - Tim McGraw
+external_ids:
+  spotify: spotify:track:0khUsHfJrVCu3Pn4WuzNd5
 features: []
-genres: []
+first_released_as_single: false
 key: angry-all-the-time-tim-mcgraw
 lyrics_url: https://www.azlyrics.com/lyrics/timmcgraw/angryallthetime.html
 name: Angry All The Time
@@ -87,8 +90,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '2001-12-29'
+release_year: 2001
+runtime: 270106
 ---
-
 Here we are 
 What is left of a husband and a wife four good kids 
 Who have a way of gettin on with their lives 
@@ -121,6 +125,3 @@ The reasons that I can't stay don't have a thing to do with being in love
 And I understand that lovin a man shouldn't have to be this rough 
 You ain't the only one Who feels like this world left you far behind 
 I don't know why you gotta be Angry All The Time
-
-
-

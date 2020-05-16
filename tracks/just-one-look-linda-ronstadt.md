@@ -1,8 +1,11 @@
 ---
+album: Living In The USA
 artists:
 - Linda Ronstadt
+external_ids:
+  spotify: spotify:track:6DCtwa4lvTku1JOXeWmH0V
 features: []
-genres: []
+first_released_as_single: false
 key: just-one-look-linda-ronstadt
 lyrics_url: https://www.azlyrics.com/lyrics/lindaronstadt/justonelook.html
 name: Just One Look
@@ -39,8 +42,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1979-03-31'
+release_year: 1978
+runtime: 201373
 ---
-
 Just one look and I fell so hard
 In love with you Oh Oh
 
@@ -68,6 +72,3 @@ That's all it took hah just one look
 That's all it took woah just one look
 That's all it woah baby you know I love you baby
 I'll build my world around you come on baby
-
-
-

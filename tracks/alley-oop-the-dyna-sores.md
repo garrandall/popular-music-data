@@ -1,8 +1,11 @@
 ---
+album: "U.S. Smash Hit Records The \u201860s"
 artists:
 - The Dyna-Sores
+external_ids:
+  spotify: spotify:track:3sPBM9tnKzHsmp5xe8nn9j
 features: []
-genres: []
+first_released_as_single: false
 key: alley-oop-the-dyna-sores
 lyrics_url: https://genius.com/Dyna-sores-alley-oop-lyrics
 name: Alley-Oop
@@ -19,6 +22,8 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '1960-06-20'
+release_year: 1960
+runtime: 150746
 ---
 Theres a man in the funny papers we all know (Alley Oop, oop, oop-oop)
 He lived 'way back a long time ago (Alley Oop, oop, oop-oop)

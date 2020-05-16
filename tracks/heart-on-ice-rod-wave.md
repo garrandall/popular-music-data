@@ -1,8 +1,11 @@
 ---
+album: PTSD
 artists:
 - Rod Wave
+external_ids:
+  spotify: spotify:track:56sxR3i2zr7AtFbgGu12ZD
 features: []
-genres: []
+first_released_as_single: true
 key: heart-on-ice-rod-wave
 lyrics_url: https://www.azlyrics.com/lyrics/rodwave/heartonice.html
 name: Heart On Ice
@@ -79,8 +82,9 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '2020-03-21'
+release_year: 2019
+runtime: 158784
 ---
-
 SpeakerBangerz
 Look, uh, look
 
@@ -112,6 +116,3 @@ Yeah, yeah
 Yeah, yeah, yeah
 Yeah, yeah
 Brrt
-
-
-

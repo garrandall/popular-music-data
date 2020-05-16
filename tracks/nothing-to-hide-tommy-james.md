@@ -1,8 +1,11 @@
 ---
+album: My Head, My Bed & My Red Guitar
 artists:
 - Tommy James
+external_ids:
+  spotify: spotify:track:1TrQWqPz4z0jFGrJk8kqJ0
 features: []
-genres: []
+first_released_as_single: false
 key: nothing-to-hide-tommy-james
 lyrics_url: https://www.azlyrics.com/lyrics/tommyjames/nothingtohide.html
 name: Nothing To Hide
@@ -43,8 +46,9 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '1972-01-22'
+release_year: 1971
+runtime: 164253
 ---
-
 Coming to carry, coming, sweet Mary.
 Lay down my body, my sins I will bare thee.
 Now I lay me down to sleep,
@@ -67,4 +71,3 @@ I've got nothing to hide, I'm satisfied,
 Gonna rest my soul on the other side.
 Coming to carry, coming, sweet Mary,
 Lay down my body, my sins I will bare thee.
-

@@ -1,8 +1,11 @@
 ---
+album: Rocks
 artists:
 - Aerosmith
+external_ids:
+  spotify: spotify:track:5btAcDEgNCJDrfmINA4Qrn
 features: []
-genres: []
+first_released_as_single: false
 key: home-tonight-aerosmith
 lyrics_url: https://www.azlyrics.com/lyrics/aerosmith/hometonight.html
 name: Home Tonight
@@ -23,8 +26,9 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '1976-10-16'
+release_year: 1976
+runtime: 196666
 ---
-
 Now it's time 
 To say good night to you 
 Now it's time 
@@ -43,6 +47,3 @@ Hold on real tight
 'Cause i'll be home tonight
 Tonight
 Tonight
-
-
-

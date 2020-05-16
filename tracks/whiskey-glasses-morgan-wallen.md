@@ -1,8 +1,11 @@
 ---
+album: If I Know Me
 artists:
 - Morgan Wallen
+external_ids:
+  spotify: spotify:track:6foY66mWZN0pSRjZ408c00
 features: []
-genres: []
+first_released_as_single: false
 key: whiskey-glasses-morgan-wallen
 lyrics_url: https://www.azlyrics.com/lyrics/morganwallen/whiskeyglasses.html
 name: Whiskey Glasses
@@ -115,8 +118,9 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '2019-09-14'
+release_year: 2018
+runtime: 234346
 ---
-
 Poor me, pour me another drink
 Cause I don't wanna feel a thing
 No more, hell nah
@@ -178,6 +182,3 @@ If I'ma be single I'ma need a double shot of that heartbreak proof
 And see the world through whiskey glasses
 Ohh see the world through whiskey glasses, yeah
 See the world through whiskey glasses, yeah
-
-
-

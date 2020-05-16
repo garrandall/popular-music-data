@@ -1,8 +1,11 @@
 ---
+album: The Return Of Bruno
 artists:
 - Bruce Willis
+external_ids:
+  spotify: spotify:track:6a4mvE1CdiRMPyAvG8ByLN
 features: []
-genres: []
+first_released_as_single: false
 key: under-the-boardwalk-bruce-willis
 lyrics_url: https://genius.com/Bruce-willis-under-the-boardwalk-lyrics
 name: Under The Boardwalk
@@ -35,6 +38,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1987-07-25'
+release_year: 1987
+runtime: 183173
 ---
 Hey, Bruno!
 

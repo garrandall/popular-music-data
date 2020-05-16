@@ -1,8 +1,11 @@
 ---
+album: The Golden Hits Of The Everly Brothers
 artists:
 - The Everly Brothers
+external_ids:
+  spotify: spotify:track:3NUXLtK8UGdD8TvZ12b4dD
 features: []
-genres: []
+first_released_as_single: false
 key: walk-right-back-the-everly-brothers
 lyrics_url: https://genius.com/The-everly-brothers-walk-right-back-lyrics
 name: Walk Right Back
@@ -59,6 +62,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1961-05-01'
+release_year: 1961
+runtime: 139640
 ---
 I want you to tell me why you walked out on me
 I'm so lonesome every day

@@ -1,8 +1,11 @@
 ---
+album: A Matter Of Time
 artists:
 - Mike Posner
+external_ids:
+  spotify: spotify:track:2qE3sj3jXj44kbCIU7bkIn
 features: []
-genres: []
+first_released_as_single: false
 key: cooler-than-me-mike-posner
 lyrics_url: https://genius.com/Mike-posner-cooler-than-me-lyrics
 name: Cooler Than Me
@@ -123,6 +126,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2010-11-27'
+release_year: 2009
+runtime: 225123
 ---
 If I could write you a song to make you fall in love
 I would already have you up under my arm

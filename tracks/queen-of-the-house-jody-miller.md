@@ -1,8 +1,11 @@
 ---
+album: Queen Of The House
 artists:
 - Jody Miller
+external_ids:
+  spotify: spotify:track:2dKxzd3AMmGpBvKhtsWzI8
 features: []
-genres: []
+first_released_as_single: false
 key: queen-of-the-house-jody-miller
 lyrics_url: https://genius.com/Jody-miller-queen-of-the-house-lyrics
 name: Queen Of The House
@@ -43,6 +46,8 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '1965-06-19'
+release_year: 1965
+runtime: 139323
 ---
 Up every day at six bacon and eggs to fix
 Four kids from one to four pretty soon there'll be one more

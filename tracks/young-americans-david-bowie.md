@@ -1,8 +1,11 @@
 ---
+album: Young Americans (2016 Remastered Version)
 artists:
 - David Bowie
+external_ids:
+  spotify: spotify:track:7uPmQttafLiJyju14JREY4
 features: []
-genres: []
+first_released_as_single: false
 key: young-americans-david-bowie
 lyrics_url: https://www.azlyrics.com/lyrics/davidbowie/youngamericans.html
 name: Young Americans
@@ -51,8 +54,9 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1975-05-24'
+release_year: 1975
+runtime: 313706
 ---
-
 They pulled in just behind the bridge
 He lays her down, he frowns
 "Gee my life's a funny thing, am I
@@ -139,6 +143,3 @@ I want the young American
 Young American, young American, I want the young American
 All right
 I want the young American
-
-
-

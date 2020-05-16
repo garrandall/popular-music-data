@@ -1,10 +1,13 @@
 ---
+album: All-Time Greatest Hits
 artists:
 - Paul Revere
 - The Raiders
+external_ids:
+  spotify: spotify:track:7qLPm5AVzE0LC0hs89jIGZ
 features:
 - Mark Lindsay
-genres: []
+first_released_as_single: false
 key: just-like-me-paul-revere-the-raiders-mark-lindsay
 lyrics_url: https://www.musixmatch.com/lyrics/Paul-Revere-The-Raiders-feat-Mark-Lindsay-2/Just-Like-Me
 name: Just Like Me
@@ -69,6 +72,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1966-03-12'
+release_year: 1965
+runtime: 149613
 ---
 It's just like me
 To say to you

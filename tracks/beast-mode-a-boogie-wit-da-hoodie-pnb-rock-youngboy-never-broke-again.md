@@ -1,10 +1,13 @@
 ---
+album: The Bigger Artist
 artists:
 - A Boogie Wit da Hoodie
+external_ids:
+  spotify: spotify:track:1AH60dMaEfNjzDoUIFwIQi
 features:
 - PnB Rock
 - YoungBoy Never Broke Again
-genres: []
+first_released_as_single: false
 key: beast-mode-a-boogie-wit-da-hoodie-pnb-rock-youngboy-never-broke-again
 lyrics_url: https://genius.com/A-boogie-wit-da-hoodie-beast-mode-lyrics
 name: Beast Mode
@@ -13,6 +16,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2017-10-21'
+release_year: 2017
+runtime: 258158
 ---
 Beast mode (Yeah), go beast mode
 Ballin' so hard, yeah, they think I got the cheat code

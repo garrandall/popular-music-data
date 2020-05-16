@@ -1,8 +1,11 @@
 ---
+album: Funhouse
 artists:
 - P!nk
+external_ids:
+  spotify: spotify:track:2gnZad0pb6QtUqMLTj2AjI
 features: []
-genres: []
+first_released_as_single: false
 key: please-don-t-leave-me-p-nk
 lyrics_url: https://genius.com/P-nk-please-dont-leave-me-lyrics
 name: Please Don't Leave Me
@@ -111,6 +114,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2009-10-24'
+release_year: 2008
+runtime: 231560
 ---
 Da da da da
 Da da da da

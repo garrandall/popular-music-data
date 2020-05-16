@@ -1,8 +1,11 @@
 ---
+album: The Tokens Again
 artists:
 - The Tokens
+external_ids:
+  spotify: spotify:track:0EvnFzzEtC3GCaMyx4zLnT
 features: []
-genres: []
+first_released_as_single: false
 key: hear-the-bells-the-tokens
 lyrics_url: https://www.musixmatch.com/lyrics/The-Tokens/Hear-the-Bells-Ringing-Bells
 name: Hear The Bells
@@ -23,6 +26,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1963-09-21'
+release_year: 1963
+runtime: 119960
 ---
 Hear the bells are calling
 From the village just a mile away

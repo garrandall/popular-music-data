@@ -1,8 +1,11 @@
 ---
+album: Get up on It
 artists:
 - Keith Sweat
+external_ids:
+  spotify: spotify:track:2K5tllslbKc50g1RqtiPuZ
 features: []
-genres: []
+first_released_as_single: false
 key: how-do-you-like-it--keith-sweat
 lyrics_url: https://genius.com/Keith-sweat-interlude-how-do-you-like-it-lyrics
 name: How Do You Like It?
@@ -87,6 +90,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1994-08-06'
+release_year: 1994
+runtime: 273693
 ---
 How do you like it, baby?
 What makes you feel the lady?

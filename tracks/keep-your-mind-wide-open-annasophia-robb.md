@@ -1,8 +1,11 @@
 ---
+album: Bridge to Terabithia
 artists:
 - AnnaSophia Robb
+external_ids:
+  spotify: spotify:track:7CG8Oz7GD8cTdU9SausPhj
 features: []
-genres: []
+first_released_as_single: false
 key: keep-your-mind-wide-open-annasophia-robb
 lyrics_url: https://genius.com/Annasophia-robb-keep-your-mind-wide-open-lyrics
 name: Keep Your Mind Wide Open
@@ -11,6 +14,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2007-03-10'
+release_year: 2007
+runtime: 216906
 ---
 Have you ever seen the sky
 So beautiful, colorful

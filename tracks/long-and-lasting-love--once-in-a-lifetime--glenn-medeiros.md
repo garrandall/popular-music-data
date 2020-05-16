@@ -1,8 +1,11 @@
 ---
+album: Not Me
 artists:
 - Glenn Medeiros
+external_ids:
+  spotify: spotify:track:7zZMGTeMoC4ERCX6hgteUs
 features: []
-genres: []
+first_released_as_single: false
 key: long-and-lasting-love--once-in-a-lifetime--glenn-medeiros
 lyrics_url: https://genius.com/Glenn-medeiros-long-and-lasting-love-once-in-a-lifetime-lyrics
 name: Long And Lasting Love (Once In A Lifetime)
@@ -47,6 +50,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '1988-10-15'
+release_year: 1987
+runtime: 219306
 ---
 A long and lasting love
 Not many people find it

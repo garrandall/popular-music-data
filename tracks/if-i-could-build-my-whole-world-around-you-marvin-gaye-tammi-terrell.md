@@ -1,9 +1,12 @@
 ---
+album: United
 artists:
 - Marvin Gaye
 - Tammi Terrell
+external_ids:
+  spotify: spotify:track:1hgTF2XaLpPBSgmmHIL0ra
 features: []
-genres: []
+first_released_as_single: false
 key: if-i-could-build-my-whole-world-around-you-marvin-gaye-tammi-terrell
 lyrics_url: https://genius.com/Marvin-gaye-and-tammi-terrell-if-i-could-build-my-whole-world-around-you-lyrics
 name: If I Could Build My Whole World Around You
@@ -52,6 +55,8 @@ rankings:
   rank: 36
   ranking_list: Billboard Hot 100
   start_date: '1968-02-10'
+release_year: 1967
+runtime: 146226
 ---
 Oh, if I could build my whole world around you, darling
 First I'd put heaven by your side

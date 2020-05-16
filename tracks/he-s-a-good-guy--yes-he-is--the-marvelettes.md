@@ -1,8 +1,11 @@
 ---
+album: 'Deliver: The Singles 1961-1971'
 artists:
 - The Marvelettes
+external_ids:
+  spotify: spotify:track:7fRAihkQYt2tQNtCAji5dL
 features: []
-genres: []
+first_released_as_single: false
 key: he-s-a-good-guy--yes-he-is--the-marvelettes
 lyrics_url: https://genius.com/The-marvelettes-hes-a-good-guy-yes-he-is-lyrics
 name: He's A Good Guy (Yes He Is)
@@ -35,6 +38,8 @@ rankings:
   rank: 55
   ranking_list: Billboard Hot 100
   start_date: '1964-04-04'
+release_year: 1964
+runtime: 157000
 ---
 He's a good guy, yes he is
 Just as sweet as he can be

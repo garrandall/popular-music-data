@@ -1,8 +1,11 @@
 ---
+album: 'Winkin'', Blinkin'' and Nod: The Kapp Recordings'
 artists:
 - The Simon Sisters
+external_ids:
+  spotify: spotify:track:3DgIaxMZ7gwc4EEIOtor6S
 features: []
-genres: []
+first_released_as_single: false
 key: winkin--blinkin--and-nod-the-simon-sisters
 lyrics_url: https://www.musixmatch.com/lyrics/The-Simon-Sisters/Winkin-Blinkin-and-Nod
 name: Winkin' Blinkin' And Nod
@@ -31,6 +34,8 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1964-05-30'
+release_year: 1964
+runtime: 128000
 ---
 Winkin' and Blinkin' and Nod one night
 Sailed off on a wooden shoe

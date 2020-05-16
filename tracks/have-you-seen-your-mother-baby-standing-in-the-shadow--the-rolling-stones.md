@@ -1,8 +1,11 @@
 ---
+album: got LIVE if you want it!
 artists:
 - The Rolling Stones
+external_ids:
+  spotify: spotify:track:48Uo4HyxT8ch4vmK7BRhNw
 features: []
-genres: []
+first_released_as_single: false
 key: have-you-seen-your-mother-baby-standing-in-the-shadow--the-rolling-stones
 lyrics_url: https://www.azlyrics.com/lyrics/rollingstones/haveyouseenyourmotherbabystandingintheshadow.html
 name: Have You Seen Your Mother Baby Standing In The Shadow?
@@ -35,8 +38,9 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1966-11-19'
+release_year: 1966
+runtime: 155400
 ---
-
 Have you seen your mother, baby, standing in the shadow?
 Have you had another, baby, standing in the shadow?
 I'm glad I opened your eyes
@@ -57,6 +61,3 @@ Have you seen your mother, baby, standing in the shadow?
 Have you had another baby, standing in the shadow?
 You take your choice at this time
 The brave old world or the slide to the depths of decline
-
-
-

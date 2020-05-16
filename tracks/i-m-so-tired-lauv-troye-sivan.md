@@ -1,9 +1,12 @@
 ---
+album: ~how i'm feeling~ (the extras)
 artists:
 - Lauv
 - Troye Sivan
+external_ids:
+  spotify: spotify:track:5QMi6PPw9h6KilJNfa2vjZ
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-so-tired-lauv-troye-sivan
 lyrics_url: https://genius.com/Lauv-and-troye-sivan-im-so-tired-lyrics
 name: I'm So Tired
@@ -32,6 +35,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2019-05-25'
+release_year: 2019
+runtime: 187675
 ---
 I'm so tired of love songs, tired of love songs
 Tired of love songs, tired of love

@@ -1,8 +1,11 @@
 ---
+album: A Boy Named Goo
 artists:
 - Goo Goo Dolls
+external_ids:
+  spotify: spotify:track:1G8jae4jD8mwkXdodqHsBM
 features: []
-genres: []
+first_released_as_single: false
 key: name-goo-goo-dolls
 lyrics_url: https://genius.com/Goo-goo-dolls-name-lyrics
 name: Name
@@ -151,6 +154,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1996-06-15'
+release_year: 1995
+runtime: 270000
 ---
 And even though the moment passed me by
 I still can't turn away

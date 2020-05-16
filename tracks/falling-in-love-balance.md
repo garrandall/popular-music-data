@@ -1,8 +1,11 @@
 ---
+album: Balance
 artists:
 - Balance
+external_ids:
+  spotify: spotify:track:1NgGeQsSz2HTODNthA5CpP
 features: []
-genres: []
+first_released_as_single: false
 key: falling-in-love-balance
 lyrics_url: https://genius.com/Balance-falling-in-love-lyrics
 name: Falling In Love
@@ -51,6 +54,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1982-01-30'
+release_year: 1981
+runtime: 197666
 ---
 Crazy as it may seem
 I keep on having this dream

@@ -1,8 +1,11 @@
 ---
+album: Berry Is On Top
 artists:
 - Chuck Berry
+external_ids:
+  spotify: spotify:track:43Nyh6ndafXIC9pdiQtmMn
 features: []
-genres: []
+first_released_as_single: false
 key: anthony-boy-chuck-berry
 lyrics_url: https://www.azlyrics.com/lyrics/chuckberry/anthonyboy.html
 name: Anthony Boy
@@ -27,8 +30,9 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '1959-03-16'
+release_year: 1959
+runtime: 114040
 ---
-
 Eight o'clock in the morning
 And I'm movin' on out to school
 With an open book and a sleepy look
@@ -73,6 +77,3 @@ Hey there Anthony boy
 Why are you in such a rush (go!)
 The girl, she wanna talk to you
 Look at him, he's a-blush (go!)
-
-
-

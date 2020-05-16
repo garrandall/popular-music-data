@@ -1,8 +1,11 @@
 ---
+album: Spartacus
 artists:
 - The Farm
+external_ids:
+  spotify: spotify:track:1ysmnwsl0Z1xwokMMx0LLL
 features: []
-genres: []
+first_released_as_single: false
 key: groovy-train-the-farm
 lyrics_url: https://genius.com/The-farm-groovy-train-lyrics
 name: Groovy Train
@@ -71,6 +74,8 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1992-01-11'
+release_year: 1991
+runtime: 244466
 ---
 I saw you walking down our street
 Well you looked quite neat

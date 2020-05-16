@@ -1,8 +1,11 @@
 ---
+album: Live Hits
 artists:
 - Tavares
+external_ids:
+  spotify: spotify:track:5k7eDKGTQuqlu2hAypxMGF
 features: []
-genres: []
+first_released_as_single: false
 key: check-it-out-tavares
 lyrics_url: https://www.azlyrics.com/lyrics/tavares/checkitout.html
 name: Check It Out
@@ -55,8 +58,9 @@ rankings:
   rank: 58
   ranking_list: Billboard Hot 100
   start_date: '1973-12-08'
+release_year: 1973
+runtime: 161000
 ---
-
 If you need a strong hand
 To guide you through the night
 If you want someone who understands
@@ -112,6 +116,3 @@ Look into my eyes (Ain't a big surprise, girl)
 Check it out (Check it out, check it out, girl)
 Check it out (Check it out, check it out, girl)
 Check out your mind (Check it out, check it out, girl)
-
-
-

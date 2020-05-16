@@ -1,8 +1,11 @@
 ---
+album: New Beginning
 artists:
 - Tracy Chapman
+external_ids:
+  spotify: spotify:track:4vDBJeeQCbhP9FaPPMsYkY
 features: []
-genres: []
+first_released_as_single: false
 key: give-me-one-reason-tracy-chapman
 lyrics_url: https://www.azlyrics.com/lyrics/tracychapman/givemeonereason.html
 name: Give Me One Reason
@@ -163,8 +166,9 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1996-12-28'
+release_year: 1995
+runtime: 268333
 ---
-
 Give me one reason to stay here
 And I'll turn right back around
 Give me one reason to stay here
@@ -204,6 +208,3 @@ Baby just give me one reason, Give me just one reason why
 Baby just give me one reason, Give me just one reason why I should stay
 Said I told you that I loved you
 And there ain't no more to say
-
-
-

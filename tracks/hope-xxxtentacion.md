@@ -1,8 +1,11 @@
 ---
+album: '?'
 artists:
 - XXXTENTACION
+external_ids:
+  spotify: spotify:track:2ZRo7axmMPeSVUvDbGkJah
 features: []
-genres: []
+first_released_as_single: false
 key: hope-xxxtentacion
 lyrics_url: https://genius.com/Xxxtentacion-hope-lyrics
 name: Hope
@@ -15,6 +18,8 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '2018-07-07'
+release_year: 2018
+runtime: 110886
 ---
 Yeah
 Rest in peace to all the kids that lost their lives in the Parkland shooting, this song is dedicated to you

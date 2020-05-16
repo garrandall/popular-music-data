@@ -1,8 +1,11 @@
 ---
+album: Red
 artists:
 - Taylor Swift
+external_ids:
+  spotify: spotify:track:1q3RiD1tIWUpGsNFADMlvl
 features: []
-genres: []
+first_released_as_single: false
 key: all-too-well-taylor-swift
 lyrics_url: https://genius.com/Taylor-swift-all-too-well-lyrics
 name: All Too Well
@@ -11,6 +14,8 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '2012-11-10'
+release_year: 2012
+runtime: 327893
 ---
 I walked through the door with you
 The air was cold

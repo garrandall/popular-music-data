@@ -1,8 +1,11 @@
 ---
+album: Longer Fuse
 artists:
 - Dan Hill
+external_ids:
+  spotify: spotify:track:2hw2fDtNPkIowTNuQRmlnN
 features: []
-genres: []
+first_released_as_single: false
 key: sometimes-when-we-touch-dan-hill
 lyrics_url: https://www.azlyrics.com/lyrics/danhill/sometimeswhenwetouch.html
 name: Sometimes When We Touch
@@ -95,8 +98,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1978-04-22'
+release_year: 1977
+runtime: 252707
 ---
-
 You ask me if I love you
 And I choke on my reply
 I'd rather hurt you honestly
@@ -148,6 +152,3 @@ And I have to close my eyes and hide
 I wanna hold you til I die
 Til we both break down and cry
 I wanna hold you till the fear in me subsides
-
-
-

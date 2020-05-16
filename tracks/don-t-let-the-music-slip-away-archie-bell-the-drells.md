@@ -1,9 +1,12 @@
 ---
+album: There's Gonna Be A Showdown
 artists:
 - Archie Bell
 - The Drells
+external_ids:
+  spotify: spotify:track:1NyYgY2eqKQWJJrnp5kgPW
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-let-the-music-slip-away-archie-bell-the-drells
 lyrics_url: https://www.musixmatch.com/lyrics/Archie-Bell-feat-The-Drells-3/Don-t-Let-the-Music-Slip-Away
 name: Don't Let The Music Slip Away
@@ -12,6 +15,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1970-04-18'
+release_year: 1969
+runtime: 134879
 ---
 Don't let the music slip away, no, no
 (Don't let it slip away now, baby)

@@ -1,8 +1,11 @@
 ---
+album: Stayed Awake All Night
 artists:
 - Krokus
+external_ids:
+  spotify: spotify:track:0vAQuXGvwjKApDWPlIWWSt
 features: []
-genres: []
+first_released_as_single: false
 key: school-s-out-krokus
 lyrics_url: https://www.azlyrics.com/lyrics/krokus/schoolsout.html
 name: School's Out
@@ -35,8 +38,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1986-07-19'
+release_year: 1986
+runtime: 196973
 ---
-
 Well, we got no choice
 All the girls and boys
 Makin' all that noise
@@ -74,6 +78,3 @@ School's out forever
 School's out for summer
 School's out with fever
 School's out completely
-
-
-

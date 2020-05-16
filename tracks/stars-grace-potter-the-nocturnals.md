@@ -1,9 +1,12 @@
 ---
+album: The Lion The Beast The Beat
 artists:
 - Grace Potter
 - The Nocturnals
+external_ids:
+  spotify: spotify:track:6s7sq2Quh4TxHRfdk6eFxk
 features: []
-genres: []
+first_released_as_single: false
 key: stars-grace-potter-the-nocturnals
 lyrics_url: https://www.azlyrics.com/lyrics/gracepotterandthenocturnals/stars.html
 name: Stars
@@ -12,8 +15,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2012-12-08'
+release_year: 2012
+runtime: 215933
 ---
-
 I lit a fire with the love you left behind
 And it burned wild and crept up the mountain side
 I followed your ashes into outer space
@@ -42,6 +46,3 @@ Stars, they make me wonder where you are
 Stars, up on heaven's boulevard
 And if I know you at all, I know you've gone too far
 So I can't look at the stars.
-
-
-

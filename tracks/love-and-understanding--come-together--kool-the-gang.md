@@ -1,9 +1,12 @@
 ---
+album: Love & Understanding
 artists:
 - Kool
 - The Gang
+external_ids:
+  spotify: spotify:track:5LZfkiX7YupIGPSqvWyYs0
 features: []
-genres: []
+first_released_as_single: false
 key: love-and-understanding--come-together--kool-the-gang
 lyrics_url: https://genius.com/Kool-and-the-gang-love-and-understanding-lyrics
 name: Love And Understanding (Come Together)
@@ -40,6 +43,8 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1976-05-08'
+release_year: 1976
+runtime: 473160
 ---
 What would the world be like
 Without music and a song

@@ -1,8 +1,11 @@
 ---
+album: 28 Big Ones
 artists:
 - Little Willie John
+external_ids:
+  spotify: spotify:track:2QgRceE7yUSn82yLDAA3ZS
 features: []
-genres: []
+first_released_as_single: false
 key: -i-ve-got--spring-fever-little-willie-john
 lyrics_url: https://www.musixmatch.com/lyrics/Little-Willie-John/I-ve-Got-Spring-Fever
 name: (I've Got) Spring Fever
@@ -27,6 +30,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1961-06-12'
+release_year: 1961
+runtime: 131533
 ---
 Every year when
 Spring rolls around

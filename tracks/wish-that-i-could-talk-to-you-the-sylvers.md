@@ -1,8 +1,11 @@
 ---
+album: The Sylvers
 artists:
 - The Sylvers
+external_ids:
+  spotify: spotify:track:2n5BCKChXCrv9QoIbkUADA
 features: []
-genres: []
+first_released_as_single: false
 key: wish-that-i-could-talk-to-you-the-sylvers
 lyrics_url: https://genius.com/The-sylvers-wish-that-i-could-talk-to-you-lyrics
 name: Wish That I Could Talk To You
@@ -47,6 +50,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1973-04-07'
+release_year: 1972
+runtime: 176093
 ---
 Into my life
 There comes a change

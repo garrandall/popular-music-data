@@ -1,8 +1,11 @@
 ---
+album: The Blueprint
 artists:
 - JAY-Z
+external_ids:
+  spotify: spotify:track:6BUiGVFv9jW66DSnbNpPki
 features: []
-genres: []
+first_released_as_single: false
 key: jigga-jay-z
 lyrics_url: https://www.musixmatch.com/lyrics/Jay-Z-Linkin-Park/Jigga-What-Faint
 name: Jigga
@@ -43,6 +46,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2002-03-23'
+release_year: 2001
+runtime: 204026
 ---
 Jigga what, Jigga who?
 Jigga what, Jigga who?

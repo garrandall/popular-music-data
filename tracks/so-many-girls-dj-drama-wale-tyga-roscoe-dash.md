@@ -1,11 +1,14 @@
 ---
+album: So Many Girls feat. Wale, Tyga & Roscoe Dash
 artists:
 - DJ Drama
+external_ids:
+  spotify: spotify:track:2C4cWGQz6cSLsVUXfwSvry
 features:
 - Wale
 - Tyga
 - Roscoe Dash
-genres: []
+first_released_as_single: true
 key: so-many-girls-dj-drama-wale-tyga-roscoe-dash
 lyrics_url: https://www.azlyrics.com/lyrics/djdrama/somanygirls.html
 name: So Many Girls
@@ -14,9 +17,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2013-03-30'
+release_year: 2013
+runtime: 211240
 ---
-
-
 I got sand all by my bath water
 Candles by my wine glass
 Women all on my time
@@ -79,4 +82,3 @@ Ya'll some fisher price niggas
 And we some life livers
 Hoping that this life give us
 A lot of money, success, and a woman to ride with us
-

@@ -1,8 +1,11 @@
 ---
+album: Pocketful Of Sunshine
 artists:
 - Natasha Bedingfield
+external_ids:
+  spotify: spotify:track:1pJJcWEtSpbv8UAom5bkvW
 features: []
-genres: []
+first_released_as_single: false
 key: angel-natasha-bedingfield
 lyrics_url: https://www.azlyrics.com/lyrics/natashabedingfield/trickyangel.html
 name: Angel
@@ -39,8 +42,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2008-11-22'
+release_year: 2008
+runtime: 246946
 ---
-
 I like to think I know how to look out for myself
 I've got ways and means to filter wrong guys out
 When the B.S. meter is slamming into the red
@@ -109,6 +113,3 @@ And I'm so glad he did
 
 Tricky angel got me falling
 And I'm so glad he did
-
-
-

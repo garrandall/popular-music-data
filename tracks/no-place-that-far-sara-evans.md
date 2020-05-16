@@ -1,8 +1,11 @@
 ---
+album: No Place That Far
 artists:
 - Sara Evans
+external_ids:
+  spotify: spotify:track:0Rg5tIACULED7Jv2sEzWSd
 features: []
-genres: []
+first_released_as_single: false
 key: no-place-that-far-sara-evans
 lyrics_url: https://www.azlyrics.com/lyrics/saraevans/noplacethatfar.html
 name: No Place That Far
@@ -83,8 +86,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1999-04-17'
+release_year: 1998
+runtime: 217060
 ---
-
 I can't imagine, any greater fear
 Then waking up, without you here
 And though the sun, would still shine on
@@ -113,6 +117,3 @@ Always know that I would find a way, to get to where you are
 There's no place that far
 
 Baby there's no place that far
-
-
-

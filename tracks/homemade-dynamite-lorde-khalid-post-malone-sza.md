@@ -1,11 +1,14 @@
 ---
+album: Melodrama
 artists:
 - Lorde
+external_ids:
+  spotify: spotify:track:7rdUtXasA973gmrr2Xxh3E
 features:
 - Khalid
 - Post Malone
 - SZA
-genres: []
+first_released_as_single: true
 key: homemade-dynamite-lorde-khalid-post-malone-sza
 lyrics_url: https://genius.com/Genius-traduzioni-italiane-lorde-homemade-dynamite-remix-feat-khalid-post-malone-and-sza-traduzione-italiana-lyrics
 name: Homemade Dynamite
@@ -14,6 +17,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2017-10-07'
+release_year: 2017
+runtime: 214254
 ---
 Un paio di piloti ribelli
 Stanno volando ma non devono essere da nessuna parte

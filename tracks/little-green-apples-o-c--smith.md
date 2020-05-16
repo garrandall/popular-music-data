@@ -1,8 +1,11 @@
 ---
+album: Pop Classics Of The 60's
 artists:
 - O.C. Smith
+external_ids:
+  spotify: spotify:track:5VKdlRg4PXPh8H1cpGo16C
 features: []
-genres: []
+first_released_as_single: false
 key: little-green-apples-o-c--smith
 lyrics_url: https://genius.com/Oc-smith-little-green-apples-lyrics
 name: Little Green Apples
@@ -75,6 +78,8 @@ rankings:
   rank: 21
   ranking_list: Billboard Hot 100
   start_date: '1968-12-07'
+release_year: 1968
+runtime: 234960
 ---
 And I wake up in the morning
 With my hair down in my eyes and she says "Hi"

@@ -1,9 +1,12 @@
 ---
+album: The Wonderous World Of Sonny & Cher
 artists:
 - Sonny
 - Cher
+external_ids:
+  spotify: spotify:track:6UfXkk6W9NlhEFBRaTxB3j
 features: []
-genres: []
+first_released_as_single: false
 key: but-you-re-mine-sonny-cher
 lyrics_url: https://genius.com/Sonny-and-cher-but-youre-mine-lyrics
 name: But You're Mine
@@ -40,6 +43,8 @@ rankings:
   rank: 34
   ranking_list: Billboard Hot 100
   start_date: '1965-11-27'
+release_year: 1965
+runtime: 184533
 ---
 When people say you're not my kind
 And that your clothes are out of line

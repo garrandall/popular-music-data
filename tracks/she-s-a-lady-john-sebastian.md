@@ -1,8 +1,11 @@
 ---
+album: John B. Sebastian
 artists:
 - John Sebastian
+external_ids:
+  spotify: spotify:track:3TIg1dio3AHo3XnzwDlSRE
 features: []
-genres: []
+first_released_as_single: false
 key: she-s-a-lady-john-sebastian
 lyrics_url: https://genius.com/John-sebastian-shes-a-lady-lyrics
 name: She's A Lady
@@ -23,6 +26,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1969-01-25'
+release_year: 1969
+runtime: 104333
 ---
 She's a lady
 And I chanced to meet her

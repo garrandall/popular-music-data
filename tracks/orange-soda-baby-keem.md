@@ -1,8 +1,11 @@
 ---
+album: DIE FOR MY BITCH
 artists:
 - Baby Keem
+external_ids:
+  spotify: spotify:track:6b5fPdo7XNZrwcTASG1hK7
 features: []
-genres: []
+first_released_as_single: true
 key: orange-soda-baby-keem
 lyrics_url: https://genius.com/Baby-keem-orange-soda-lyrics
 name: ORANGE SODA
@@ -19,6 +22,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2020-02-22'
+release_year: 2019
+runtime: 129882
 ---
 Bitch sit on my face, I attack that
 Choose up, lil' junt, I'm finna pack him

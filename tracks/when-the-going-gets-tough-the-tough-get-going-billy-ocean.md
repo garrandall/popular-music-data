@@ -1,8 +1,11 @@
 ---
+album: Love Zone
 artists:
 - Billy Ocean
+external_ids:
+  spotify: spotify:track:3PwwRQRDvqn69cwYnjO7f8
 features: []
-genres: []
+first_released_as_single: false
 key: when-the-going-gets-tough-the-tough-get-going-billy-ocean
 lyrics_url: https://www.azlyrics.com/lyrics/billyocean/whenthegoinggetstoughthetoughgetgoing.html
 name: When The Going Gets Tough The Tough Get Going
@@ -99,8 +102,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1986-05-03'
+release_year: 1985
+runtime: 343773
 ---
-
 When the going gets tough
 The tough get going, tough, tough, huh, huh, huh
 When the going gets tough, the tough get ready
@@ -170,6 +174,3 @@ When the going gets tough
 Going gets tough
 Going gets rough
 Going gets rough...
-
-
-

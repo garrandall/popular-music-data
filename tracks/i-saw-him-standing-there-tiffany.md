@@ -1,8 +1,11 @@
 ---
+album: Tiffany
 artists:
 - Tiffany
+external_ids:
+  spotify: spotify:track:7ujeMX32d72A3mcTytAlbv
 features: []
-genres: []
+first_released_as_single: false
 key: i-saw-him-standing-there-tiffany
 lyrics_url: https://genius.com/Tiffany-i-saw-him-standing-there-lyrics
 name: I Saw Him Standing There
@@ -63,6 +66,8 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1988-05-28'
+release_year: 1987
+runtime: 256800
 ---
 I saw him standing there
 I saw him standing there

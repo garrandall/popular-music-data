@@ -1,8 +1,11 @@
 ---
+album: Mama Said Knock You Out
 artists:
 - LL Cool J
+external_ids:
+  spotify: spotify:track:6jL1SnyXcXiKOmw4M2RnmT
 features: []
-genres: []
+first_released_as_single: false
 key: around-the-way-girl-ll-cool-j
 lyrics_url: https://genius.com/Ll-cool-j-around-the-way-girl-lyrics
 name: Around The Way Girl
@@ -99,6 +102,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1991-05-04'
+release_year: 1990
+runtime: 248493
 ---
 You got me shook up, shook down, shook out
 On your loving, your loving

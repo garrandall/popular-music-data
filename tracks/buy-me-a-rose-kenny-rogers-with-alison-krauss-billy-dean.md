@@ -1,8 +1,9 @@
 ---
 artists:
-- Kenny Rogers With Alison Krauss
+- Kenny Rogers
+features:
+- Alison Krauss
 - Billy Dean
-features: []
 genres: []
 key: buy-me-a-rose-kenny-rogers-with-alison-krauss-billy-dean
 lyrics_url: https://www.musixmatch.com/lyrics/Kenny-Rogers-with-Alison-Krauss-Billy-Dean/Buy-Me-a-Rose

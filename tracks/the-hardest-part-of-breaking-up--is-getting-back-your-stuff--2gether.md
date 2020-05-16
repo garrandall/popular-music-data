@@ -1,8 +1,11 @@
 ---
+album: The Hardest Part Of Breaking Up (Is Getting Back Your Stuff) - Single
 artists:
 - 2Gether
+external_ids:
+  spotify: spotify:track:1hVUDzhWm9Uok4iKvzaNLx
 features: []
-genres: []
+first_released_as_single: true
 key: the-hardest-part-of-breaking-up--is-getting-back-your-stuff--2gether
 lyrics_url: https://www.azlyrics.com/lyrics/2gether/thehardestpartofbreakingup.html
 name: The Hardest Part Of Breaking Up (Is Getting Back Your Stuff)
@@ -19,8 +22,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2000-09-16'
+release_year: 2000
+runtime: 197626
 ---
-
 C'mon
 Yeaaa
 
@@ -94,6 +98,3 @@ You got my sweaters, my hat...
 I can't find my cat! *meow*
 The Hardest Part Of Breaking Up
 is getting Back Your Stuff.
-
-
-

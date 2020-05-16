@@ -1,8 +1,11 @@
 ---
+album: Kinda Kinks
 artists:
 - The Kinks
+external_ids:
+  spotify: spotify:track:5e3isD5st7PGYzSJuoRSIV
 features: []
-genres: []
+first_released_as_single: false
 key: a-well-respected-man-the-kinks
 lyrics_url: https://www.azlyrics.com/lyrics/kinks/awellrespectedman.html
 name: A Well Respected Man
@@ -63,8 +66,9 @@ rankings:
   rank: 38
   ranking_list: Billboard Hot 100
   start_date: '1966-03-05'
+release_year: 1965
+runtime: 161586
 ---
-
 'Cause he gets up in the morning,
 And he goes to work at nine,
 And he comes back home at five-thirty,
@@ -120,6 +124,3 @@ And he's oh, so healthy,
 In his body and his mind.
 He's a well respected man about town,
 Doing the best things so conservatively.
-
-
-

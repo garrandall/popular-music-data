@@ -1,8 +1,11 @@
 ---
+album: Burn
 artists:
 - Jo Dee Messina
+external_ids:
+  spotify: spotify:track:296XGtH5MeGisqD3uAz6Q6
 features: []
-genres: []
+first_released_as_single: false
 key: that-s-the-way-jo-dee-messina
 lyrics_url: https://genius.com/Jo-dee-messina-thats-the-way-lyrics
 name: That's The Way
@@ -87,6 +90,8 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '2000-11-04'
+release_year: 2000
+runtime: 202253
 ---
 Everybody wants an easy ride
 On the merry-go-round that we call life

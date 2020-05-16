@@ -1,8 +1,11 @@
 ---
+album: From Philly With Love
 artists:
 - Johnny Williams
+external_ids:
+  spotify: spotify:track:6EdVvkxAYAgT3DXW8Op4ZH
 features: []
-genres: []
+first_released_as_single: false
 key: slow-motion--part-1--johnny-williams
 lyrics_url: https://genius.com/Johnny-williams-slow-motion-lyrics
 name: Slow Motion (Part 1)
@@ -35,6 +38,8 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1973-02-17'
+release_year: 1972
+runtime: 177826
 ---
 Come on, come on, come on, come on
 Give it, give it, give it, give it, give it, alright

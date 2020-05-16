@@ -1,8 +1,11 @@
 ---
+album: Sounds Good Feels Good
 artists:
 - 5 Seconds Of Summer
+external_ids:
+  spotify: spotify:track:6Wv4fOspSlbsrlFrOAB1ZD
 features: []
-genres: []
+first_released_as_single: true
 key: she-s-kinda-hot-5-seconds-of-summer
 lyrics_url: https://genius.com/5-seconds-of-summer-shes-kinda-hot-lyrics
 name: She's Kinda Hot
@@ -43,6 +46,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '2015-10-03'
+release_year: 2015
+runtime: 215216
 ---
 My girlfriend’s bitching 'cause I always sleep in
 She’s always screaming when she’s calling her friends

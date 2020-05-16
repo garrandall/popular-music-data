@@ -1,8 +1,11 @@
 ---
+album: Songs From The Big Chair
 artists:
 - Tears For Fears
+external_ids:
+  spotify: spotify:track:2p87CAEgL7eJzVgNZt2M0J
 features: []
-genres: []
+first_released_as_single: false
 key: mothers-talk-tears-for-fears
 lyrics_url: https://genius.com/Tears-for-fears-mothers-talk-lyrics
 name: Mothers Talk
@@ -55,6 +58,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1986-06-28'
+release_year: 1985
+runtime: 306320
 ---
 My features form with a change in the weather
 Weekend

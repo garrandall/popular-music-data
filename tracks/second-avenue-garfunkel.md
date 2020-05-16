@@ -1,8 +1,11 @@
 ---
+album: Garfunkel
 artists:
 - Art Garfunkel
+external_ids:
+  spotify: spotify:track:12Ew62WBntsVlqN0fPUof0
 features: []
-genres: []
+first_released_as_single: false
 key: second-avenue-garfunkel
 lyrics_url: https://www.azlyrics.com/lyrics/artgarfunkel/secondavenue.html
 name: Second Avenue
@@ -39,8 +42,9 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1974-11-09'
+release_year: 1974
+runtime: 165640
 ---
-
 Since we can no longer make it, girl
 I found a new place to live my life
 It's really no place at all
@@ -74,6 +78,3 @@ Must eventually melt and fade
 Like the frost on my window pane
 Where I wrote, "I. M. U." (I Miss You)
 On Second Avenue
-
-
-

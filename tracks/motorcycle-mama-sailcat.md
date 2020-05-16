@@ -1,8 +1,11 @@
 ---
+album: Motorcycle Mama
 artists:
 - Sailcat
+external_ids:
+  spotify: spotify:track:1TkgnYlGsO7nva2PF97tVM
 features: []
-genres: []
+first_released_as_single: false
 key: motorcycle-mama-sailcat
 lyrics_url: https://genius.com/Sailcat-motorcycle-mama-lyrics
 name: Motorcycle Mama
@@ -67,6 +70,8 @@ rankings:
   rank: 34
   ranking_list: Billboard Hot 100
   start_date: '1972-09-16'
+release_year: 1972
+runtime: 126573
 ---
 Tell your daddy and your mama too
 You got something better to do

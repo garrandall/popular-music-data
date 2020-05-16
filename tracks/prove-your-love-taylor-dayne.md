@@ -1,8 +1,11 @@
 ---
+album: Tell It to My Heart
 artists:
 - Taylor Dayne
+external_ids:
+  spotify: spotify:track:6qwTCkJ7red7bQsPxvgHaD
 features: []
-genres: []
+first_released_as_single: false
 key: prove-your-love-taylor-dayne
 lyrics_url: https://www.azlyrics.com/lyrics/taylordayne/proveyourlove.html
 name: Prove Your Love
@@ -79,8 +82,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1988-06-18'
+release_year: 1988
+runtime: 206186
 ---
-
 Prove your love
 Got to prove your love
 I hear all about what you can do
@@ -122,4 +126,3 @@ If you want to be with me tonight
 Show your stuff, cause words
 Are not enough
 I want to hear your body
-

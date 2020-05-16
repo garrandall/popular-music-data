@@ -1,8 +1,11 @@
 ---
+album: Startin' With Me
 artists:
 - Jake Owen
+external_ids:
+  spotify: spotify:track:6FcLwLlOZhwn1sVbS0LOvJ
 features: []
-genres: []
+first_released_as_single: false
 key: eight-second-ride-jake-owen
 lyrics_url: https://www.azlyrics.com/lyrics/jakeowen/eightsecondride.html
 name: Eight Second Ride
@@ -59,8 +62,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2010-02-13'
+release_year: 2006
+runtime: 183893
 ---
-
 Come on
 
 I said, "Hey girl, what's your name
@@ -103,6 +107,3 @@ She said, "Hey boy, do you mind taking me home tonight
 I said, "Climb on up but honey watch the cup that I spittin' my dip inside
 And hold on tight 'cuz it's gonna be wilder then any eight second ride
 Yeah, hold on tight 'cuz it's gonna be wilder then any eight second ride"
-
-
-

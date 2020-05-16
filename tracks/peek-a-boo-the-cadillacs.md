@@ -1,8 +1,11 @@
 ---
+album: Twisting With The Cadillacs
 artists:
 - The Cadillacs
+external_ids:
+  spotify: spotify:track:0xwB7QOidsS9OlUXDq5wiS
 features: []
-genres: []
+first_released_as_single: false
 key: peek-a-boo-the-cadillacs
 lyrics_url: https://www.musixmatch.com/lyrics/The-Cadillacs/Peek-A-Boo
 name: Peek-A-Boo
@@ -47,18 +50,9 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '1959-02-09'
+release_year: 1958
+runtime: 130133
 ---
-Peek-A-Boo 2: 05 Trk 14
-(Hammer)
-The Cadillacs
-Earl 'Speedy' Carroll - lead tenor
-Charles Brooks - tenor
-Bobby Phillips - bass and Earl Wade - baritone.
-Josie Records single #846
-Pop Chart #28 Dec 8, 1958+
-Album: The Best of The Cadillacs, Rhino 70955
-Transcriber: Awcantor@aol.com
-
 When you come home from the dance
 Stand in the halls and make a romance
 When ya do the thing you shouldn't do
@@ -85,11 +79,9 @@ The soles right off your shoes
 
 (Ha-ha-ha-ha-ha)
 
-(Guitar & instrumental)
-
 Look in the dark
 You see my face
-(Oooow!)
+(Ow!)
 Don't try to hide
 I'm er'ry place
 Very cool, kind-a sweet
@@ -107,17 +99,8 @@ Doin' the things you shouldn't do
 Doin' the things you shouldn't do
 (Peek-a-boo, I'm watchin' you)
 
-FADES-
-
 Doin' the things you shouldn't do
 (Peek-a-boo, I'm watchin' you)
 
 Doin' the things you shouldn't do
 (Peek-a-boo, I'm watchin' you).
-
-~
-* 'hot feet' refers to a Southern hoodoo
-Foot track magic powder (in a can) used to
-Send the unwanted person away. Sprinkled
-On footprints or socks or shoes. Some of the
-Scents are hot, sweet and/or spicey.

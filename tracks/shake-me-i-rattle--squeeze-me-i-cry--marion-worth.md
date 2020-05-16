@@ -1,8 +1,11 @@
 ---
+album: Girls Ride Horses Too
 artists:
 - Marion Worth
+external_ids:
+  spotify: spotify:track:4W8hkjsrpbe0In5hgMInl2
 features: []
-genres: []
+first_released_as_single: false
 key: shake-me-i-rattle--squeeze-me-i-cry--marion-worth
 name: Shake Me I Rattle (Squeeze Me I Cry)
 rankings:
@@ -38,5 +41,7 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1963-02-16'
+release_year: 1962
+runtime: 193306
 ---
 

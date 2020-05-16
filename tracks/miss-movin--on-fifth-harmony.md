@@ -1,8 +1,11 @@
 ---
+album: Miss Movin' On
 artists:
 - Fifth Harmony
+external_ids:
+  spotify: spotify:track:0gL0Xf8CN95HmgfEYYLRZV
 features: []
-genres: []
+first_released_as_single: true
 key: miss-movin--on-fifth-harmony
 lyrics_url: https://www.azlyrics.com/lyrics/fifthharmony/missmovinon.html
 name: Miss Movin' On
@@ -51,9 +54,9 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '2013-11-09'
+release_year: 2013
+runtime: 193733
 ---
-
-
 I'm breakin' down
 Gonna start from scratch
 Shake it off like an etch-a-sketch
@@ -123,6 +126,3 @@ Miss movin' on
 Oh oh oh
 
 Yeah, I'm movin' on
-
-
-

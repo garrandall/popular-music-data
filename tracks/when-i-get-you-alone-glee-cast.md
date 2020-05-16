@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music presents The Warblers'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:63dHVDt4TXudnl2K1eziJT
 features: []
-genres: []
+first_released_as_single: false
 key: when-i-get-you-alone-glee-cast
 lyrics_url: https://genius.com/Glee-cast-when-i-get-you-alone-lyrics
 name: When I Get You Alone
@@ -11,6 +14,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '2011-02-26'
+release_year: 2011
+runtime: 151986
 ---
 Vum Vum Vum Vum
 Vum Vum Vum Vum

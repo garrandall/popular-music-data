@@ -1,8 +1,11 @@
 ---
+album: Suddenly
 artists:
 - Billy Ocean
+external_ids:
+  spotify: spotify:track:65h7Qhxl2WfW31Bl6sjWAI
 features: []
-genres: []
+first_released_as_single: false
 key: suddenly-billy-ocean
 lyrics_url: https://www.azlyrics.com/lyrics/billyocean/suddenly.html
 name: Suddenly
@@ -95,8 +98,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1985-08-17'
+release_year: 1984
+runtime: 234706
 ---
-
 I used to think that love was just a fairy tale
 
 Until that first hello
@@ -126,6 +130,3 @@ You wake up and suddenly you're in love.
 There's beauty up above and things we never take notice of
 
 You wake up and suddenly you're in love.
-
-
-

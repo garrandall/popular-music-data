@@ -1,8 +1,11 @@
 ---
+album: cradlesong
 artists:
 - Rob Thomas
+external_ids:
+  spotify: spotify:track:7uPQU7uKvsZZ7T9XnpBpFg
 features: []
-genres: []
+first_released_as_single: false
 key: someday-rob-thomas
 lyrics_url: https://www.azlyrics.com/lyrics/robthomas/someday.html
 name: Someday
@@ -95,8 +98,9 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '2010-04-17'
+release_year: 2009
+runtime: 247800
 ---
-
 You can go
 You can start all over again
 You can try to find a way to make another day go by
@@ -142,6 +146,3 @@ Cause sometimes we don't really notice
 Just how good it can get
 So maybe we should start all over
 Start all over again
-
-
-

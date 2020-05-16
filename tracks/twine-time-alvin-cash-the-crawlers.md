@@ -1,9 +1,12 @@
 ---
+album: Windy City Workout
 artists:
 - Alvin Cash
 - The Crawlers
+external_ids:
+  spotify: spotify:track:2O15a93zCNUn3JyFeXfJ7u
 features: []
-genres: []
+first_released_as_single: false
 key: twine-time-alvin-cash-the-crawlers
 name: Twine Time
 rankings:
@@ -51,5 +54,7 @@ rankings:
   rank: 33
   ranking_list: Billboard Hot 100
   start_date: '1965-03-13'
+release_year: 1965
+runtime: 164040
 ---
 

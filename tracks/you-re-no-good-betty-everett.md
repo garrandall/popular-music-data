@@ -1,8 +1,11 @@
 ---
+album: 'The Vee-Jay Story: Celebrating 40 Years Of Classic Hits'
 artists:
 - Betty Everett
+external_ids:
+  spotify: spotify:track:38fqQTzSdMtwHukI5zbHmf
 features: []
-genres: []
+first_released_as_single: false
 key: you-re-no-good-betty-everett
 lyrics_url: https://genius.com/Betty-everett-youre-no-good-lyrics
 name: You're No Good
@@ -47,6 +50,8 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '1964-02-01'
+release_year: 1963
+runtime: 141666
 ---
 Feeling better, now that we're through
 Feeling better, 'cause I'm over you

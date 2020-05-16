@@ -1,8 +1,11 @@
 ---
+album: 'The Monkees Present: Micky, David & Michael'
 artists:
 - The Monkees
+external_ids:
+  spotify: spotify:track:1t4I9xuq9Mgdq4SR5hV8p5
 features: []
-genres: []
+first_released_as_single: false
 key: good-clean-fun-the-monkees
 lyrics_url: https://www.azlyrics.com/lyrics/monkees/goodcleanfun.html
 name: Good Clean Fun
@@ -27,8 +30,9 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1969-10-18'
+release_year: 1969
+runtime: 135800
 ---
-
 There's a smile on the wind as it touches my face
 And starts to erase all the gloom
 And the sun with a kiss, begins to dismiss the
@@ -55,6 +59,3 @@ And I look in the crowd and there you stand
 And the gap that once was time
 Is forever closed behind
 I told you I'd come back and here I am
-
-
-

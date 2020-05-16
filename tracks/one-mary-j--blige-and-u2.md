@@ -1,9 +1,12 @@
 ---
+album: The Breakthrough
 artists:
 - Mary J. Blige
+external_ids:
+  spotify: spotify:track:3Lk7RWStfLaHG7lXsuS87j
 features:
 - U2
-genres: []
+first_released_as_single: false
 key: one-mary-j--blige-and-u2
 lyrics_url: https://www.musixmatch.com/lyrics/Mary-J-Blige-feat-U2/One-Mary-J-Blige-and-U2
 name: One
@@ -12,6 +15,8 @@ rankings:
   rank: 86
   ranking_list: Billboard Hot 100
   start_date: '2006-06-17'
+release_year: 2005
+runtime: 260466
 ---
 Is it getting better?
 Or do you feel the same?

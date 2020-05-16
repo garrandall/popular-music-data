@@ -1,8 +1,11 @@
 ---
+album: Barefootin'
 artists:
 - Robert Parker
+external_ids:
+  spotify: spotify:track:0VwK5pLjwFPy8FSEC1htp9
 features: []
-genres: []
+first_released_as_single: false
 key: barefootin--robert-parker
 lyrics_url: https://genius.com/Robert-parker-us-barefootin-lyrics
 name: Barefootin'
@@ -63,6 +66,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '1966-07-23'
+release_year: 1966
+runtime: 157172
 ---
 Everybody get on your feet
 You make me nervous when you in your seat

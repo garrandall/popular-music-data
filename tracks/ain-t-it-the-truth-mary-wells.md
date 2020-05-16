@@ -1,8 +1,11 @@
 ---
+album: All-Time Greatest Hits
 artists:
 - Mary Wells
+external_ids:
+  spotify: spotify:track:58p1pH8V4ZLfJ1RusdeUIk
 features: []
-genres: []
+first_released_as_single: false
 key: ain-t-it-the-truth-mary-wells
 lyrics_url: https://www.musixmatch.com/lyrics/Mary-Wells/Ain-t-It-the-Truth
 name: Ain't It The Truth
@@ -39,6 +42,8 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '1964-12-19'
+release_year: 1964
+runtime: 166493
 ---
 Your conscience has got a hold on you, uh huh huh
 You're thinkin' of things you used to do, un huh huh

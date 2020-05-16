@@ -1,8 +1,11 @@
 ---
+album: Saint Julian
 artists:
 - Julian Cope
+external_ids:
+  spotify: spotify:track:4JBkrs9CPkGdOiuFjh0V9A
 features: []
-genres: []
+first_released_as_single: false
 key: world-shut-your-mouth-julian-cope
 lyrics_url: https://genius.com/Julian-cope-world-shut-your-mouth-lyrics
 name: World Shut Your Mouth
@@ -23,6 +26,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1987-04-11'
+release_year: 1987
+runtime: 214200
 ---
 She's flying in the face of fashion now
 She seems to have a will of her own

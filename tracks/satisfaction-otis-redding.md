@@ -1,8 +1,11 @@
 ---
+album: 'Otis Blue: Otis Redding Sings Soul'
 artists:
 - Otis Redding
+external_ids:
+  spotify: spotify:track:6qf0g9xgEJvSdxGEuyQOlP
 features: []
-genres: []
+first_released_as_single: false
 key: satisfaction-otis-redding
 lyrics_url: https://www.azlyrics.com/lyrics/otisredding/satisfaction.html
 name: Satisfaction
@@ -39,8 +42,9 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1966-04-23'
+release_year: 1965
+runtime: 171493
 ---
-
 I can't get no satisfaction
 I can't get no satisfaction
 I have tried, I have tried
@@ -93,6 +97,3 @@ Satisfaction, we got to have it
 Satisfaction, earlier in the morning
 Satisfaction, later in the evening
 Satisfaction, and don't make my
-
-
-

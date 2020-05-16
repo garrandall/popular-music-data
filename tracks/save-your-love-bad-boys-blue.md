@@ -1,8 +1,11 @@
 ---
+album: More Bad Boys Best
 artists:
 - Bad Boys Blue
+external_ids:
+  spotify: spotify:track:7hNwkgXHdMf9Es1WSjrLsO
 features: []
-genres: []
+first_released_as_single: true
 key: save-your-love-bad-boys-blue
 lyrics_url: https://genius.com/Bad-boys-blue-save-your-love-lyrics
 name: Save Your Love
@@ -35,6 +38,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1993-04-24'
+release_year: 1992
+runtime: 243333
 ---
 It started one night in Milano
 A candlelight dinner, Italian style

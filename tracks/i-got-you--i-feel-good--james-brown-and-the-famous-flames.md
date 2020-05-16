@@ -1,8 +1,12 @@
 ---
+album: I Got You (I Feel Good)
 artists:
-- James Brown And The Famous Flames
-features: []
-genres: []
+- James Brown
+external_ids:
+  spotify: spotify:track:5haXbSJqjjM0TCJ5XkfEaC
+features:
+- The Famous Flames
+first_released_as_single: false
 key: i-got-you--i-feel-good--james-brown-and-the-famous-flames
 lyrics_url: https://genius.com/James-brown-and-the-famous-flames-i-got-you-i-feel-good-lyrics
 name: I Got You (I Feel Good)
@@ -55,6 +59,8 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '1966-01-29'
+release_year: 1965
+runtime: 165800
 ---
 Wow! I feel good, I knew that I would now
 I feel good, I knew that I would now

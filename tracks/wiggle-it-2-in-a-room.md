@@ -1,8 +1,11 @@
 ---
+album: Wiggle It
 artists:
 - 2 In A Room
+external_ids:
+  spotify: spotify:track:4Ainx6BECl4tc4py2iv93e
 features: []
-genres: []
+first_released_as_single: false
 key: wiggle-it-2-in-a-room
 lyrics_url: https://genius.com/2-in-a-room-wiggle-it-lyrics
 name: Wiggle It
@@ -95,6 +98,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1991-03-02'
+release_year: 1990
+runtime: 244133
 ---
 As it grooves, your body moves
 Your body starts to get the feeling

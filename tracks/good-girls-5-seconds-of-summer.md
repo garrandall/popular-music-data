@@ -1,8 +1,11 @@
 ---
+album: LIVESOS
 artists:
 - 5 Seconds Of Summer
+external_ids:
+  spotify: spotify:track:5KEB0dYNuoIUc5iFt1j6uQ
 features: []
-genres: []
+first_released_as_single: true
 key: good-girls-5-seconds-of-summer
 lyrics_url: https://genius.com/5-seconds-of-summer-good-girls-lyrics
 name: Good Girls
@@ -15,6 +18,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '2014-12-06'
+release_year: 2014
+runtime: 183729
 ---
 She's a good girl, she's Daddy's favourite
 He's saved for Harvard, he knows she'll make it

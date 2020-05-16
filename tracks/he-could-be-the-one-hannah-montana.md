@@ -1,8 +1,11 @@
 ---
+album: Hannah Montana 3
 artists:
 - Hannah Montana
+external_ids:
+  spotify: spotify:track:07HPV6hzecJmMJwsIX8YVU
 features: []
-genres: []
+first_released_as_single: false
 key: he-could-be-the-one-hannah-montana
 lyrics_url: https://www.musixmatch.com/lyrics/Hannah-Montana/He-Could-Be-the-One
 name: He Could Be The One
@@ -27,6 +30,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2009-08-22'
+release_year: 2009
+runtime: 180800
 ---
 Woo!
 

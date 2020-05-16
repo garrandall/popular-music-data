@@ -1,8 +1,11 @@
 ---
+album: Standing Hampton
 artists:
 - Sammy Hagar
+external_ids:
+  spotify: spotify:track:5y9gFWBjJBLsVsVoj92Oee
 features: []
-genres: []
+first_released_as_single: false
 key: i-ll-fall-in-love-again-sammy-hagar
 lyrics_url: https://genius.com/Sammy-hagar-ill-fall-in-love-again-lyrics
 name: I'll Fall In Love Again
@@ -47,6 +50,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1982-04-03'
+release_year: 1981
+runtime: 254600
 ---
 You do what you wanna do
 I'll leave it all up to you

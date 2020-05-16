@@ -1,8 +1,11 @@
 ---
+album: Out Of The Blue
 artists:
 - Debbie Gibson
+external_ids:
+  spotify: spotify:track:7AxqfuOFVg1IMMtXorffGm
 features: []
-genres: []
+first_released_as_single: false
 key: staying-together-debbie-gibson
 lyrics_url: https://www.azlyrics.com/lyrics/debbiegibson/stayingtogether.html
 name: Staying Together
@@ -55,8 +58,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1988-10-22'
+release_year: 1987
+runtime: 244200
 ---
-
 You can't go boy
 We've been over it a hundred times but this one's different
 This time I'm not asking what you think
@@ -125,6 +129,3 @@ No, don't you say goodbye
 It's right before your
 It's right before your eyes
 Yeah!
-
-
-

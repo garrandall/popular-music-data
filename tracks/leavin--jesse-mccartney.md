@@ -1,8 +1,11 @@
 ---
+album: Departure - Recharged
 artists:
 - Jesse McCartney
+external_ids:
+  spotify: spotify:track:20ORwCJusz4KS2PbTPVNKo
 features: []
-genres: []
+first_released_as_single: false
 key: leavin--jesse-mccartney
 lyrics_url: https://www.azlyrics.com/lyrics/jessemccartney/leavin.html
 name: Leavin'
@@ -103,8 +106,9 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '2008-10-18'
+release_year: 2008
+runtime: 216880
 ---
-
 Hey baby girl
 I've been watching you all day
 Man that thing you got behind you is amazing
@@ -175,6 +179,3 @@ She gon' be singing
 She gon' be singing
 She gon' be singing
 Girl you gon' be singing
-
-
-

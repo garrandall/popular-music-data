@@ -1,8 +1,11 @@
 ---
+album: Don't Take Away The Music
 artists:
 - Tavares
+external_ids:
+  spotify: spotify:track:7xJHtECUDzwl7m54YJWEFi
 features: []
-genres: []
+first_released_as_single: true
 key: heaven-must-be-missing-an-angel--part-1--tavares
 lyrics_url: https://genius.com/Tavares-heaven-must-be-missing-an-angel-lyrics
 name: Heaven Must Be Missing An Angel (part 1)
@@ -91,6 +94,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1976-10-23'
+release_year: 1976
+runtime: 233880
 ---
 Heaven must be missing an angel
 Missing one angel, child, cause you're here with me right now

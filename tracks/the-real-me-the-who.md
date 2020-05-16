@@ -1,8 +1,11 @@
 ---
+album: Quadrophenia
 artists:
 - The Who
+external_ids:
+  spotify: spotify:track:4rVvheUQ2wQpn5uXX5l0gS
 features: []
-genres: []
+first_released_as_single: false
 key: the-real-me-the-who
 lyrics_url: https://genius.com/The-who-the-real-me-lyrics
 name: The Real Me
@@ -19,6 +22,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1974-02-16'
+release_year: 1973
+runtime: 200706
 ---
 I went back to the doctor
 To get another shrink

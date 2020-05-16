@@ -1,8 +1,11 @@
 ---
+album: Lost Hits Of The 60's (All Original Artists & Versions)
 artists:
 - People
+external_ids:
+  spotify: spotify:track:1lwoluJGH1W0Ue0CCwR9cS
 features: []
-genres: []
+first_released_as_single: false
 key: i-love-you-people
 lyrics_url: https://genius.com/People-i-love-you-lyrics
 name: I Love You
@@ -79,6 +82,8 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '1968-08-03'
+release_year: 1968
+runtime: 274960
 ---
 I love you, I love you, I love you, yes I do
 But the words won't come and I don't know what to say
@@ -104,4 +109,3 @@ But something holds me back when I try to tell you
 And I don't know what to say
 And oh how hard I try to tell you I love you
 But something holds me back when I try to tell you
-

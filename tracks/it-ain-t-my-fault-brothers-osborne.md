@@ -1,8 +1,11 @@
 ---
+album: Pawn Shop
 artists:
 - Brothers Osborne
+external_ids:
+  spotify: spotify:track:4hQQHuxhgLVlF0962bJQCx
 features: []
-genres: []
+first_released_as_single: true
 key: it-ain-t-my-fault-brothers-osborne
 lyrics_url: https://genius.com/Brothers-osborne-it-aint-my-fault-lyrics
 name: It Ain't My Fault
@@ -71,6 +74,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2017-10-21'
+release_year: 2016
+runtime: 216813
 ---
 Blame the whiskey on the beer
 Blame the beer on the whiskey

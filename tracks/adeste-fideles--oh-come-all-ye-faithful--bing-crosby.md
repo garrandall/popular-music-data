@@ -1,8 +1,11 @@
 ---
+album: White Christmas
 artists:
 - Bing Crosby
+external_ids:
+  spotify: spotify:track:04DYwFIKeq2Bkn9aqSI9PC
 features: []
-genres: []
+first_released_as_single: false
 key: adeste-fideles--oh-come-all-ye-faithful--bing-crosby
 lyrics_url: https://genius.com/Bing-crosby-adeste-fideles-lyrics
 name: Adeste Fideles (Oh Come All Ye Faithful)
@@ -19,6 +22,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1960-12-26'
+release_year: 1945
+runtime: 190440
 ---
 Adeste fideles
 Laeti triumphantes

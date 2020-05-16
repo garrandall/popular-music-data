@@ -1,8 +1,11 @@
 ---
+album: Fur
 artists:
 - Jane Wiedlin
+external_ids:
+  spotify: spotify:track:6ZlwRotqB3w6GUHkw05Nwq
 features: []
-genres: []
+first_released_as_single: false
 key: inside-a-dream-jane-wiedlin
 lyrics_url: https://genius.com/Jane-wiedlin-inside-a-dream-lyrics
 name: Inside A Dream
@@ -35,6 +38,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1988-10-15'
+release_year: 1988
+runtime: 216906
 ---
 This is not an easy life
 It's hard to hang on to hope

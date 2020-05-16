@@ -1,8 +1,11 @@
 ---
+album: Main Course
 artists:
 - Bee Gees
+external_ids:
+  spotify: spotify:track:4JjcCdm0RSPuvQWnZyrNkm
 features: []
-genres: []
+first_released_as_single: false
 key: nights-on-broadway-bee-gees
 lyrics_url: https://genius.com/Bee-gees-nights-on-broadway-lyrics
 name: Nights On Broadway
@@ -71,6 +74,8 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '1976-01-17'
+release_year: 1975
+runtime: 271373
 ---
 Here we are
 In a room full of strangers

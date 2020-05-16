@@ -1,10 +1,13 @@
 ---
+album: Home (with Machine Gun Kelly, X Ambassadors & Bebe Rexha)
 artists:
 - Machine Gun Kelly
 - X Ambassadors
 - Bebe Rexha
+external_ids:
+  spotify: spotify:track:0OI7AFifLSoGzpb8bdBLLV
 features: []
-genres: []
+first_released_as_single: true
 key: home-machine-gun-kelly-x-ambassadors-bebe-rexha
 lyrics_url: https://www.azlyrics.com/lyrics/machinegunkelly/home.html
 name: Home
@@ -29,9 +32,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2018-01-20'
+release_year: 2017
+runtime: 202804
 ---
-
-
 Home
 A place where I can go
 To take this off my shoulders
@@ -121,6 +124,3 @@ Someone, someone
 Nothing here feels like home
 Home, home
 (Someone take me)
-
-
-

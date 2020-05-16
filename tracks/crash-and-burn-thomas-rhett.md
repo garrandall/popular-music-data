@@ -1,8 +1,11 @@
 ---
+album: Tangled Up
 artists:
 - Thomas Rhett
+external_ids:
+  spotify: spotify:track:2Fk0WwAqTBesLtKg97nojy
 features: []
-genres: []
+first_released_as_single: false
 key: crash-and-burn-thomas-rhett
 lyrics_url: https://www.azlyrics.com/lyrics/thomasrhett/crashandburn.html
 name: Crash And Burn
@@ -87,10 +90,11 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '2015-10-10'
+release_year: 2015
+runtime: 190733
 ---
-
 So I guess it's over baby
-DÃ©jÃ  vu again
+DéjÃ  vu again
 Who'd have thought that time don't stop
 And somehow girl, the world keeps spinning
 I guess I've turned myself into a solitary man
@@ -143,6 +147,3 @@ Yeah, I let another lover crash and burn
 Mhhhmm
 
 Mhhhmm
-
-
-

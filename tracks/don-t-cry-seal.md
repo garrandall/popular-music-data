@@ -1,8 +1,11 @@
 ---
+album: Seal
 artists:
 - Seal
+external_ids:
+  spotify: spotify:track:5gRQz5E3bcD1AugZkO7ewN
 features: []
-genres: []
+first_released_as_single: true
 key: don-t-cry-seal
 lyrics_url: https://genius.com/Seal-dont-cry-lyrics
 name: Don't Cry
@@ -87,6 +90,8 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '1996-06-29'
+release_year: 1994
+runtime: 377906
 ---
 Don't be so hard on yourself
 Those tears are for someone else

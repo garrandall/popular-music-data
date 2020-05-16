@@ -1,8 +1,11 @@
 ---
+album: Cornerstone
 artists:
 - Styx
+external_ids:
+  spotify: spotify:track:5W7YROOF6bFfBexY81LFjt
 features: []
-genres: []
+first_released_as_single: false
 key: babe-styx
 lyrics_url: https://www.azlyrics.com/lyrics/styx/babe.html
 name: Babe
@@ -83,8 +86,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1980-02-09'
+release_year: 1979
+runtime: 265973
 ---
-
 Babe, I'm leaving, I must be on my way
 The time is drawing near
 My train is going, I see it in your eyes
@@ -121,6 +125,3 @@ Cause I'll be missing you
 Babe, I love you
 Babe, I love you
 Oh, Babe
-
-
-

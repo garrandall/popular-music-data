@@ -1,8 +1,11 @@
 ---
+album: Gold
 artists:
 - Connie Francis
+external_ids:
+  spotify: spotify:track:4i2uvNAtz0yPbTKtrmlq4l
 features: []
-genres: []
+first_released_as_single: false
 key: where-the-boys-are-connie-francis
 lyrics_url: https://www.azlyrics.com/lyrics/conniefrancis/wheretheboysare.html
 name: Where The Boys Are
@@ -67,8 +70,9 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '1961-04-24'
+release_year: 1961
+runtime: 156906
 ---
-
 Where the boys are, someone waits for me
 A smilin' face, a warm embrace, two arms to hold me tenderly
 
@@ -85,6 +89,3 @@ Where the boys are, someone waits for me
 'Til he holds me I'll wait impatiently
 Where the boys are, where the boys are
 Where the boys are, someone waits for me
-
-
-

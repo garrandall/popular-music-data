@@ -1,8 +1,11 @@
 ---
+album: Dance Party
 artists:
 - Gary's Gang
+external_ids:
+  spotify: spotify:track:6J2lAR3TaTi4Q9rb3LwPiI
 features: []
-genres: []
+first_released_as_single: false
 key: keep-on-dancin--gary-s-gang
 lyrics_url: https://genius.com/Garys-gang-keep-on-dancin-lyrics
 name: Keep On Dancin'
@@ -47,6 +50,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1979-04-21'
+release_year: 1979
+runtime: 428933
 ---
 Oh, ah
 Oh, ah

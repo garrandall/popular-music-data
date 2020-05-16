@@ -1,8 +1,11 @@
 ---
+album: Zebop!
 artists:
 - Santana
+external_ids:
+  spotify: spotify:track:1NT76WD8FONQqTXKZ4MIRT
 features: []
-genres: []
+first_released_as_single: false
 key: winning-santana
 lyrics_url: https://genius.com/Santana-winning-lyrics
 name: Winning
@@ -79,6 +82,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1981-08-08'
+release_year: 1981
+runtime: 209733
 ---
 One day I was on the ground
 When I needed a hand

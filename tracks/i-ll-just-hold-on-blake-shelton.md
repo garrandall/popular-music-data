@@ -1,8 +1,11 @@
 ---
+album: Startin' Fires
 artists:
 - Blake Shelton
+external_ids:
+  spotify: spotify:track:4ZTVWCfZewoOYhhIEIrAlT
 features: []
-genres: []
+first_released_as_single: false
 key: i-ll-just-hold-on-blake-shelton
 lyrics_url: https://genius.com/Blake-shelton-ill-just-hold-on-lyrics
 name: I'll Just Hold On
@@ -63,6 +66,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2009-10-17'
+release_year: 2008
+runtime: 239200
 ---
 I can taste your kiss on my lips
 And I'm wrapped around your finger tips

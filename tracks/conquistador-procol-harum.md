@@ -1,8 +1,11 @@
 ---
+album: Procol Harum
 artists:
 - Procol Harum
+external_ids:
+  spotify: spotify:track:2Wr1PqAw6bzMYhngpb3f96
 features: []
-genres: []
+first_released_as_single: false
 key: conquistador-procol-harum
 lyrics_url: https://www.azlyrics.com/lyrics/procolharum/conquistador.html
 name: Conquistador
@@ -59,8 +62,9 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1972-08-19'
+release_year: 1967
+runtime: 158146
 ---
-
 Conquistador your stallion stands in need of company
 And like some angel's haloed brow
 You reek of purity
@@ -87,6 +91,3 @@ And though you came with sword held high
 You did not conquer, only die
 And though I hoped for something to find
 I could see no maze to unwind
-
-
-

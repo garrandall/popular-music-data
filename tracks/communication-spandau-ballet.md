@@ -1,8 +1,11 @@
 ---
+album: True (2003 Remastered Version)
 artists:
 - Spandau Ballet
+external_ids:
+  spotify: spotify:track:2n3M0AI4M6LxZOhzAbTRgb
 features: []
-genres: []
+first_released_as_single: false
 key: communication-spandau-ballet
 lyrics_url: https://www.azlyrics.com/lyrics/spandauballet/communication.html
 name: Communication
@@ -35,8 +38,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1984-05-12'
+release_year: 1983
+runtime: 220506
 ---
-
 Communication always leaves me incomplete,
 The grass is greener, but it's grown beneath my feet...
 Love inspiration is a message on a wing,
@@ -80,6 +84,3 @@ And I'm left here, I'm left here, I, I, I
 (I'm a-left a-here-oh!)
 (I'm a-left a-here-oh!)
 (I'm a-left a-here-oh!)
-
-
-

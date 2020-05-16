@@ -1,8 +1,11 @@
 ---
+album: Forever Young
 artists:
 - Alphaville
+external_ids:
+  spotify: spotify:track:7wnagOAqma4Sg6JOGjWr5R
 features: []
-genres: []
+first_released_as_single: false
 key: big-in-japan-alphaville
 lyrics_url: https://www.musixmatch.com/lyrics/Alphaville/Big-in-Japan-FFF-Time-Warp
 name: Big In Japan
@@ -47,6 +50,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1985-01-26'
+release_year: 1984
+runtime: 284625
 ---
 Winter's cityside, crystal bits of snowflakes
 All around my head and in the wind

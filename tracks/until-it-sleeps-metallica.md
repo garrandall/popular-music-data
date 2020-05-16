@@ -1,8 +1,11 @@
 ---
+album: Load
 artists:
 - Metallica
+external_ids:
+  spotify: spotify:track:63aVbch5VRXtQnCITdeDTZ
 features: []
-genres: []
+first_released_as_single: false
 key: until-it-sleeps-metallica
 lyrics_url: https://genius.com/Metallica-until-it-sleeps-lyrics
 name: Until It Sleeps
@@ -87,6 +90,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1996-10-19'
+release_year: 1996
+runtime: 269573
 ---
 Where do I take this pain of mine
 I run but it stays right by my side

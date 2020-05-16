@@ -1,10 +1,13 @@
 ---
+album: 'Strung Out On Something New: The Reprise Recordings'
 artists:
 - Dino
 - Desi
 - Billy
+external_ids:
+  spotify: spotify:track:4JLnUYJHDNLYFRqzHzrawV
 features: []
-genres: []
+first_released_as_single: false
 key: not-the-lovin--kind-dino-desi-billy
 lyrics_url: https://www.musixmatch.com/lyrics/Dino-Desi-Billy/Not-the-Lovin-Kind
 name: Not The Lovin' Kind
@@ -45,6 +48,8 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '1965-11-13'
+release_year: 1964
+runtime: 126186
 ---
 Tell you, baby
 I'm not the loving kind

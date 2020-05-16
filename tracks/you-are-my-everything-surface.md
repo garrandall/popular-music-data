@@ -1,8 +1,11 @@
 ---
+album: 2nd Wave
 artists:
 - Surface
+external_ids:
+  spotify: spotify:track:3UyYXfRb0X1M7acRj0b5S1
 features: []
-genres: []
+first_released_as_single: false
 key: you-are-my-everything-surface
 lyrics_url: https://genius.com/Surface-you-are-my-everything-lyrics
 name: You Are My Everything
@@ -27,6 +30,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1989-12-02'
+release_year: 1986
+runtime: 236373
 ---
 Oh, baby
 

@@ -1,9 +1,12 @@
 ---
+album: Untitled
 artists:
 - R. Kelly
+external_ids:
+  spotify: spotify:track:5JBEnvi2OxTw8H6RHHjWFM
 features:
 - Keri Hilson
-genres: []
+first_released_as_single: true
 key: number-one-r--kelly-keri-hilson
 lyrics_url: https://www.azlyrics.com/lyrics/rkelly/numberone.html
 name: Number One
@@ -52,9 +55,9 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '2009-11-21'
+release_year: 2009
+runtime: 285373
 ---
-
-
 A lot of these cats out here be fakin
 When it comes to makin love
 But you and me baby
@@ -174,6 +177,3 @@ Before you go I'll scream damelo
 
 (Num-num-number one, number one
 This is, this is number one)
-
-
-

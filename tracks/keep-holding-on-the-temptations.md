@@ -1,8 +1,11 @@
 ---
+album: House Party
 artists:
 - The Temptations
+external_ids:
+  spotify: spotify:track:24Lf7wARfUvBputrHP7Rvt
 features: []
-genres: []
+first_released_as_single: false
 key: keep-holding-on-the-temptations
 lyrics_url: https://genius.com/The-temptations-keep-holding-on-lyrics
 name: Keep Holding On
@@ -31,6 +34,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1976-03-13'
+release_year: 1975
+runtime: 236946
 ---
 Your truth is like
 A woman brought me

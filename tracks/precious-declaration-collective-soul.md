@@ -1,8 +1,11 @@
 ---
+album: Disciplined Breakdown
 artists:
 - Collective Soul
+external_ids:
+  spotify: spotify:track:3k0h2g42N7CInuIKT9p33P
 features: []
-genres: []
+first_released_as_single: false
 key: precious-declaration-collective-soul
 lyrics_url: https://www.azlyrics.com/lyrics/collectivesoul/preciousdeclaration.html
 name: Precious Declaration
@@ -47,8 +50,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1997-06-07'
+release_year: 1997
+runtime: 221186
 ---
-
 Hitched a ride to the peaceful side of town 
 Then proceeded where thieves were no longer found 
 Can't crash now I've been waiting for this 
@@ -71,6 +75,3 @@ Once I jumped thru hoops of fire
 High and far as you required 
 I was blind but now I see 
 Salvation has discovered me
-
-
-

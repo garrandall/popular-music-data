@@ -1,9 +1,12 @@
 ---
+album: Blood Sweat & Tears
 artists:
 - Ace Hood
+external_ids:
+  spotify: spotify:track:2aDsxXzs55S9I7THzNoHdD
 features:
 - Chris Brown
-genres: []
+first_released_as_single: false
 key: body-2-body-ace-hood-chris-brown
 lyrics_url: https://www.azlyrics.com/lyrics/acehood/body2body.html
 name: Body 2 Body
@@ -60,9 +63,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2011-12-24'
+release_year: 2011
+runtime: 235306
 ---
-
-
 Yeah, Ace Hood
 What's up baby?
 We the Best huh
@@ -150,6 +153,3 @@ Body to body
 I don't mean to rush you girl but
 We should be body to body
 Body to body, body to body
-
-
-

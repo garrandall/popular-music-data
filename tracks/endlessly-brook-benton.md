@@ -1,8 +1,11 @@
 ---
+album: Brook Benton - His Very Best
 artists:
 - Brook Benton
+external_ids:
+  spotify: spotify:track:5QiWvZvXVb9aF7XdtZxI1b
 features: []
-genres: []
+first_released_as_single: false
 key: endlessly-brook-benton
 lyrics_url: https://genius.com/Brook-benton-endlessly-lyrics
 name: Endlessly
@@ -59,6 +62,8 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1959-07-13'
+release_year: 1959
+runtime: 142333
 ---
 Higher than the highest mountain
 And deeper than the deepest sea

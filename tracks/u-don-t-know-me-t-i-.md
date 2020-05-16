@@ -1,8 +1,11 @@
 ---
+album: Urban Legend
 artists:
 - T.I.
+external_ids:
+  spotify: spotify:track:2SuMoyOaAVBg5AzfKyZaKV
 features: []
-genres: []
+first_released_as_single: false
 key: u-don-t-know-me-t-i-
 lyrics_url: https://genius.com/Ti-u-dont-know-me-lyrics
 name: U Don't Know Me
@@ -87,6 +90,8 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '2005-06-04'
+release_year: 2004
+runtime: 243506
 ---
 I'mma tell y'all sucka ass niggas somethin'..
 First of all nigga, look'a here dawg..

@@ -1,8 +1,11 @@
 ---
+album: A Young Man's Fancy
 artists:
 - Johnny Crawford
+external_ids:
+  spotify: spotify:track:3oYog20P3yIadymvzWSIZt
 features: []
-genres: []
+first_released_as_single: false
 key: your-nose-is-gonna-grow-johnny-crawford
 lyrics_url: https://genius.com/Johnny-crawford-your-nose-is-gonna-grow-lyrics
 name: Your Nose Is Gonna Grow
@@ -43,6 +46,8 @@ rankings:
   rank: 52
   ranking_list: Billboard Hot 100
   start_date: '1962-10-06'
+release_year: 1962
+runtime: 125680
 ---
 I carry your books I give you looks that say "I love you"
 
@@ -54,11 +59,11 @@ Go ahead, explain But remember, if you lie
 
 The bogeyman will get you And your nose is gonna grow
 
-So remember if you lie Ev'ryone will know
+So remember if you lie Everyone will know
 
 Remember, if you lie your nose is gonna grow-oh-oh-oh-oh-oh
 
-And ev'ryone will know
+And everyone will know
 
 You're holding my hand Making plans to stay together
 
@@ -70,7 +75,7 @@ Go ahead, explain But remember if you lie
 
 The bogeyman will get you And your nose is gonna grow-oh-oh-oh-oh-oh
 
-So remember, if you lie ev'ryone will know, ohoh-oh
+So remember, if you lie everyone will know, ohoh-oh
 
 The bogeyman will get you Your nose is gonna grow-oh-oh-oh-oh-oh
 

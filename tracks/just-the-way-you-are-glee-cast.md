@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music, Volume 4'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:3LRcDiWeIFSXmBZtyv7sJ4
 features: []
-genres: []
+first_released_as_single: false
 key: just-the-way-you-are-glee-cast
 lyrics_url: https://genius.com/Glee-cast-just-the-way-you-are-lyrics
 name: Just The Way You Are
@@ -11,6 +14,8 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '2010-12-11'
+release_year: 2010
+runtime: 216093
 ---
 Oh, her eyes, her eyes, make the stars look like they're not shinin'
 Her hair, her hair, falls perfectly without her tryin'

@@ -1,8 +1,11 @@
 ---
+album: Age Ain't Nothing But A Number
 artists:
 - Aaliyah
+external_ids:
+  spotify: spotify:track:4lRrk574qIHpoEEKC1zuam
 features: []
-genres: []
+first_released_as_single: false
 key: at-your-best--you-are-love--aaliyah
 lyrics_url: https://genius.com/Aaliyah-at-your-best-you-are-love-lyrics
 name: At Your Best (You Are Love)
@@ -87,6 +90,8 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1995-01-14'
+release_year: 1994
+runtime: 291400
 ---
 Let me know, let me know
 Ah, let me know

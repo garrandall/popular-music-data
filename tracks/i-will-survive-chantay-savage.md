@@ -1,8 +1,11 @@
 ---
+album: I Will Survive (Doin' It My Way)
 artists:
 - Chantay Savage
+external_ids:
+  spotify: spotify:track:140QoNMw1OQqyo1tpeeTpm
 features: []
-genres: []
+first_released_as_single: false
 key: i-will-survive-chantay-savage
 lyrics_url: https://genius.com/Chantay-savage-i-will-survive-lyrics
 name: I Will Survive
@@ -87,6 +90,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1996-06-29'
+release_year: 1996
+runtime: 372400
 ---
 Ohh, I, I will survive
 As long as I know how to love

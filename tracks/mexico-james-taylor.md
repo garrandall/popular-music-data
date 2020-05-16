@@ -1,8 +1,11 @@
 ---
+album: Gorilla
 artists:
 - James Taylor
+external_ids:
+  spotify: spotify:track:0CMuiL9aePFA6VG3wBeNPi
 features: []
-genres: []
+first_released_as_single: false
 key: mexico-james-taylor
 lyrics_url: https://www.azlyrics.com/lyrics/jamestaylor/mexico.html
 name: Mexico
@@ -39,8 +42,9 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '1975-11-22'
+release_year: 1975
+runtime: 178693
 ---
-
 Way down here, you need a reason to move. Feel a fool running your stateside games
 Lose your load, leave your mind behind, Baby James
 Woh, Mexico, it sounds so simple, I just got to go
@@ -59,6 +63,3 @@ Woh, Mexico, I guess I'll have to go
 Woh, Mexico, I never really been but I'd sure like to go
 And oh, Mexico, I guess I'll have to go now
 Talking bout Mexico. Big ol' honkey-tonk down in Mexico
-
-
-

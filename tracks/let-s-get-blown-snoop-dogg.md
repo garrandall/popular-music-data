@@ -1,8 +1,11 @@
 ---
+album: 'R&G (Rhythm & Gangsta): The Masterpiece'
 artists:
 - Snoop Dogg
+external_ids:
+  spotify: spotify:track:0NdxbFFknA7kQ4E2zvJfey
 features: []
-genres: []
+first_released_as_single: false
 key: let-s-get-blown-snoop-dogg
 lyrics_url: https://genius.com/Snoop-dogg-lets-get-blown-lyrics
 name: Let's Get Blown
@@ -51,6 +54,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '2005-03-19'
+release_year: 2004
+runtime: 280680
 ---
 Yessir!
 

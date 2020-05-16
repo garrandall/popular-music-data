@@ -1,8 +1,11 @@
 ---
+album: Have A Nice Day
 artists:
 - Bon Jovi
+external_ids:
+  spotify: spotify:track:06Zz2l7cVTCTgCNDe1bnEF
 features: []
-genres: []
+first_released_as_single: false
 key: have-a-nice-day-bon-jovi
 lyrics_url: https://www.azlyrics.com/lyrics/bonjovi/haveaniceday.html
 name: Have A Nice Day
@@ -67,8 +70,9 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '2006-02-04'
+release_year: 2005
+runtime: 229106
 ---
-
 Why you wanna tell me how to live my life?
 Who are you to tell me if it's black or white?
 Mama, can you hear me? Try to understand.
@@ -123,6 +127,3 @@ I say,
 "Have a nice day!
 Have a nice day!
 Have a nice day!"
-
-
-

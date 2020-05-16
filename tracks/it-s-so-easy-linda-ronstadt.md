@@ -1,8 +1,11 @@
 ---
+album: Simple Dreams
 artists:
 - Linda Ronstadt
+external_ids:
+  spotify: spotify:track:6AZyiAl6mr3Jcp6AlmiQwF
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-so-easy-linda-ronstadt
 lyrics_url: https://www.azlyrics.com/lyrics/lindaronstadt/itssoeasy.html
 name: It's So Easy
@@ -79,8 +82,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1978-02-04'
+release_year: 1977
+runtime: 145173
 ---
-
 It's so easy to fall in love
 It's so easy to fall in love
 
@@ -121,6 +125,3 @@ It's so easy to fall in love
 It's so easy to fall in love
 It's so easy to fall in love (Wa-uh-oh)
 It's so easy to fall in love
-
-
-

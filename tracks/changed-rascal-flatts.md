@@ -1,8 +1,11 @@
 ---
+album: Changed
 artists:
 - Rascal Flatts
+external_ids:
+  spotify: spotify:track:7ClZTubD4KudpEuBysLMUI
 features: []
-genres: []
+first_released_as_single: false
 key: changed-rascal-flatts
 lyrics_url: https://www.azlyrics.com/lyrics/rascalflatts/changed.html
 name: Changed
@@ -39,8 +42,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2013-04-27'
+release_year: 2012
+runtime: 262226
 ---
-
 I came up out of the water
 Raised my hands up to the Father
 Gave it all to him that day
@@ -85,6 +89,3 @@ I'm changed
 Yes I am
 I'm changed for the better
 Thank God I'm changed
-
-
-

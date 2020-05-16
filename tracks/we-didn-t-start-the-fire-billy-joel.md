@@ -1,8 +1,11 @@
 ---
+album: Storm Front
 artists:
 - Billy Joel
+external_ids:
+  spotify: spotify:track:3Cx4yrFaX8CeHwBMReOWXI
 features: []
-genres: []
+first_released_as_single: false
 key: we-didn-t-start-the-fire-billy-joel
 lyrics_url: https://www.musixmatch.com/lyrics/Billy-Joel/We-Didn-t-Start-the-Fire
 name: We Didn't Start The Fire
@@ -83,6 +86,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1990-02-17'
+release_year: 1989
+runtime: 287733
 ---
 Harry Truman, Doris Day, Red China, Johnnie Ray
 South Pacific, Walter Winchell, Joe DiMaggio

@@ -1,8 +1,11 @@
 ---
+album: Unapologetically
 artists:
 - Kelsea Ballerini
+external_ids:
+  spotify: spotify:track:5NfJGBAL9mgFPRQxKJmiX2
 features: []
-genres: []
+first_released_as_single: false
 key: miss-me-more-kelsea-ballerini
 lyrics_url: https://www.azlyrics.com/lyrics/kelseaballerini/missmemore.html
 name: Miss Me More
@@ -87,8 +90,9 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '2019-06-29'
+release_year: 2018
+runtime: 192840
 ---
-
 I retired my red lipstick 'cause you said you didn't like it
 I didn't wear my high heel shoes
 'Cause I couldn't be taller than you
@@ -148,6 +152,3 @@ But I miss me more
 (I miss me more)
 (I miss me more)
 (I miss me more)
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Rearview Town
 artists:
 - Jason Aldean
+external_ids:
+  spotify: spotify:track:2ZxTjs4EdJl4Y9YByIiNoo
 features: []
-genres: []
+first_released_as_single: true
 key: you-make-it-easy-jason-aldean
 lyrics_url: https://www.azlyrics.com/lyrics/jasonaldean/youmakeiteasy.html
 name: You Make It Easy
@@ -87,8 +90,9 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '2018-06-23'
+release_year: 2018
+runtime: 196800
 ---
-
 Like a rainy Sunday morning makes me want to stay in bed
 Twisted up all day long
 You're my inspiration, girl you take me places
@@ -134,6 +138,3 @@ My better half, my saving grace
 You make me who I wanna be
 You make it easy
 You make it easy
-
-
-

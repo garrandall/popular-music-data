@@ -1,8 +1,11 @@
 ---
+album: Steel Breeze
 artists:
 - Steel Breeze
+external_ids:
+  spotify: spotify:track:0CzCmJ1gQO25qqSLlkf1ut
 features: []
-genres: []
+first_released_as_single: false
 key: you-don-t-want-me-anymore-steel-breeze
 lyrics_url: https://genius.com/Steel-breeze-you-dont-want-me-anymore-lyrics
 name: You Don't Want Me Anymore
@@ -87,6 +90,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1983-01-08'
+release_year: 1982
+runtime: 207240
 ---
 Undecided
 Don't know where to go

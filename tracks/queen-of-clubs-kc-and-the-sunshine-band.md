@@ -1,8 +1,11 @@
 ---
+album: Do It Good
 artists:
 - KC And The Sunshine Band
+external_ids:
+  spotify: spotify:track:2w70FKcKWCpp3uvtmcQyVX
 features: []
-genres: []
+first_released_as_single: false
 key: queen-of-clubs-kc-and-the-sunshine-band
 lyrics_url: https://genius.com/Kc-and-the-sunshine-band-queen-of-clubs-lyrics
 name: Queen Of Clubs
@@ -27,6 +30,8 @@ rankings:
   rank: 66
   ranking_list: Billboard Hot 100
   start_date: '1976-04-10'
+release_year: 1974
+runtime: 199440
 ---
 In every night club across the nation
 She’s the life of the party, she’s a real sensation

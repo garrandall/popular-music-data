@@ -1,9 +1,12 @@
 ---
+album: Huncho Jack, Jack Huncho
 artists:
 - Huncho Jack
+external_ids:
+  spotify: spotify:track:6urLjX35oXXRYtcH1b3dCh
 features:
 - Offset
-genres: []
+first_released_as_single: false
 key: dubai-shit-huncho-jack-offset
 lyrics_url: https://genius.com/Huncho-jack-dubai-shit-lyrics
 name: Dubai Shit
@@ -12,6 +15,8 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '2018-01-06'
+release_year: 2017
+runtime: 228431
 ---
 I could jump off a bridge and let you walk over me
 I tend to stay inside myself, I don't want you to take over me

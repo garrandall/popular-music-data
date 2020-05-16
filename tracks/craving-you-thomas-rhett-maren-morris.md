@@ -1,9 +1,12 @@
 ---
+album: Life Changes (Big Machine Radio Release Special)
 artists:
 - Thomas Rhett
+external_ids:
+  spotify: spotify:track:17hd4ptJCbsEeLj0auPcwy
 features:
 - Maren Morris
-genres: []
+first_released_as_single: false
 key: craving-you-thomas-rhett-maren-morris
 lyrics_url: https://www.azlyrics.com/lyrics/thomasrhett/cravingyou.html
 name: Craving You
@@ -88,9 +91,9 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '2017-09-02'
+release_year: 2017
+runtime: 223626
 ---
-
-
 Every time we have to say goodbye
 I'm counting down until we say hello
 Every touch is like the strongest drug
@@ -163,6 +166,3 @@ Craving you
 (I'm craving you baby)
 I'm craving you
 I'm craving you babe
-
-
-

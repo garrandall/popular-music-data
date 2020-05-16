@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music, Volume 7'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:4PcrxYt1pnxf3KApGx9BGA
 features: []
-genres: []
+first_released_as_single: false
 key: man-in-the-mirror-glee-cast
 lyrics_url: https://www.azlyrics.com/lyrics/gleecast/maninthemirror.html
 name: Man In The Mirror
@@ -11,9 +14,9 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '2011-12-24'
+release_year: 2011
+runtime: 246853
 ---
-
-
 I'm gonna make a change, for once in my life
 
 
@@ -139,6 +142,3 @@ Change!
 
 
 Make that change.
-
-
-

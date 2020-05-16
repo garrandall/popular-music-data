@@ -1,9 +1,12 @@
 ---
+album: Andy & David Williams
 artists:
 - Andy
 - David Williams
+external_ids:
+  spotify: spotify:track:1XZcXocN74Psgx2BXEl1I2
 features: []
-genres: []
+first_released_as_single: false
 key: what-s-your-name-andy-david-williams
 name: What's Your Name
 rankings:
@@ -23,5 +26,7 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1974-07-13'
+release_year: 1974
+runtime: 149266
 ---
 

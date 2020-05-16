@@ -1,8 +1,11 @@
 ---
+album: Corinne Bailey Rae
 artists:
 - Corinne Bailey Rae
+external_ids:
+  spotify: spotify:track:2nGFzvICaeEWjIrBrL2RAx
 features: []
-genres: []
+first_released_as_single: false
 key: put-your-records-on-corinne-bailey-rae
 lyrics_url: https://genius.com/Corinne-bailey-rae-put-your-records-on-lyrics
 name: Put Your Records On
@@ -83,6 +86,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '2006-11-18'
+release_year: 2006
+runtime: 215360
 ---
 Three little birds sat on my window
 And they told me I don't need to worry

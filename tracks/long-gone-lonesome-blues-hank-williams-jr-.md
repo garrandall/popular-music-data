@@ -1,8 +1,11 @@
 ---
+album: 127 Rose Avenue
 artists:
 - Hank Williams Jr.
+external_ids:
+  spotify: spotify:track:0mWg7tAhfh3yEspzx4FHWS
 features: []
-genres: []
+first_released_as_single: false
 key: long-gone-lonesome-blues-hank-williams-jr-
 lyrics_url: https://www.azlyrics.com/lyrics/hankwilliamsjr/longgonelonesomeblues.html
 name: Long Gone Lonesome Blues
@@ -43,8 +46,9 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '1964-03-28'
+release_year: 1964
+runtime: 160200
 ---
-
 I went down to the river to watch the fish swim by
 But I got to the river so lonesome I wanted to die, oh Lord
 And then I jumped in the river, but the doggone river was dry
@@ -66,6 +70,3 @@ Long about Monday she was nowhere about
 And here it is Tuesday, ain't had no news
 I got them gone but not forgotten blues
 She's long gone, and now I'm lonesome blue
-
-
-

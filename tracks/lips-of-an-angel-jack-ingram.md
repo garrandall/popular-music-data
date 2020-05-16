@@ -1,8 +1,11 @@
 ---
+album: This Is It
 artists:
 - Jack Ingram
+external_ids:
+  spotify: spotify:track:7CnuusZCdhzNQlPdUDBhcA
 features: []
-genres: []
+first_released_as_single: false
 key: lips-of-an-angel-jack-ingram
 lyrics_url: https://genius.com/Jack-ingram-lips-of-an-angel-lyrics
 name: Lips Of An Angel
@@ -15,6 +18,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2007-04-14'
+release_year: 2007
+runtime: 227453
 ---
 Honey, why you calling me so late
 It's kinda hard to talk right now

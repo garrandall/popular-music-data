@@ -1,8 +1,11 @@
 ---
+album: Rocksides (1957-64)
 artists:
 - Connie Francis
+external_ids:
+  spotify: spotify:track:2JQ3vENt8gCpeqpNfs1CW1
 features: []
-genres: []
+first_released_as_single: false
 key: looking-for-love-connie-francis
 lyrics_url: https://genius.com/Connie-francis-looking-for-love-lyrics
 name: Looking For Love
@@ -35,6 +38,8 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '1964-08-29'
+release_year: 1964
+runtime: 139400
 ---
 Yeah, yeah, I'm just-a-lookin'
 Uh-huh, I'm just-a-lookin'

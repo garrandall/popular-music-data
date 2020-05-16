@@ -1,8 +1,11 @@
 ---
+album: Insight Out
 artists:
 - The Association
+external_ids:
+  spotify: spotify:track:1lHiKWnlJtjzA4vHnjAr39
 features: []
-genres: []
+first_released_as_single: false
 key: windy-the-association
 lyrics_url: https://www.azlyrics.com/lyrics/association/windy.html
 name: Windy
@@ -63,8 +66,9 @@ rankings:
   rank: 34
   ranking_list: Billboard Hot 100
   start_date: '1967-08-26'
+release_year: 1967
+runtime: 176600
 ---
-
 Who's peeking out from under a stairway
 Calling a name that's lighter than air?
 Who's bending down to give me a rainbow?
@@ -111,6 +115,3 @@ Who's tripping down the streets of the city
 Smiling at everybody she sees?
 Who's reaching out to capture a moment?
 Everyone knows it's Windy
-
-
-

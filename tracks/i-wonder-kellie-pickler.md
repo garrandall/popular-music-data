@@ -1,8 +1,11 @@
 ---
+album: Small Town Girl
 artists:
 - Kellie Pickler
+external_ids:
+  spotify: spotify:track:4TWDBIZt5tJwEqyNYPCY4V
 features: []
-genres: []
+first_released_as_single: false
 key: i-wonder-kellie-pickler
 lyrics_url: https://genius.com/Kellie-pickler-i-wonder-lyrics
 name: I Wonder
@@ -47,6 +50,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2007-08-25'
+release_year: 2006
+runtime: 237960
 ---
 Sometimes I think about you
 Wonder if you're out there somewhere thinkin' 'bout me

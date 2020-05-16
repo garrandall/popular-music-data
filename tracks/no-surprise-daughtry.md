@@ -1,8 +1,11 @@
 ---
+album: It's Not Over....The Hits So Far
 artists:
 - Daughtry
+external_ids:
+  spotify: spotify:track:6q4XLE5WeOBWftoc9gTl2P
 features: []
-genres: []
+first_released_as_single: false
 key: no-surprise-daughtry
 lyrics_url: https://www.azlyrics.com/lyrics/daughtry/nosurprise.html
 name: No Surprise
@@ -103,8 +106,9 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2009-10-31'
+release_year: 2006
+runtime: 270640
 ---
-
 (And I hope.. and I hope..)
 I've practiced this for hours, gone round and round
 And now I think that I've got it all down
@@ -159,6 +163,3 @@ The warm embrace that no one knows
 The lovin' look that's left your eyes
 But I know in time we'll find this was no surprise
 (And I hope, and I hope, and I hope, and I hope, and I hope.)
-
-
-

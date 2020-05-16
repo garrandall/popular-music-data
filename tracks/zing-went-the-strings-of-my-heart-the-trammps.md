@@ -1,8 +1,11 @@
 ---
+album: The Legendary Zing Album
 artists:
 - The Trammps
+external_ids:
+  spotify: spotify:track:0A2OB79E4Z5szptDHdF7gK
 features: []
-genres: []
+first_released_as_single: false
 key: zing-went-the-strings-of-my-heart-the-trammps
 lyrics_url: https://genius.com/The-trammps-penguin-at-the-big-apple-zing-went-the-strings-of-my-heart-lyrics
 name: Zing Went The Strings Of My Heart
@@ -51,6 +54,8 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '1972-09-16'
+release_year: 1972
+runtime: 292600
 ---
 Ha, look here, mm hm
 Strings of my heart, baby

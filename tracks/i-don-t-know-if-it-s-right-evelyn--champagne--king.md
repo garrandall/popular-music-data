@@ -1,8 +1,11 @@
 ---
+album: Smooth Talk
 artists:
 - Evelyn "Champagne" King
+external_ids:
+  spotify: spotify:track:4FZzrRJtNB1Y4uO8ZgfgWf
 features: []
-genres: []
+first_released_as_single: false
 key: i-don-t-know-if-it-s-right-evelyn--champagne--king
 lyrics_url: https://genius.com/Evelyn-champagne-king-i-dont-know-if-its-right-lyrics
 name: I Don't Know If It's Right
@@ -71,6 +74,8 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '1979-04-21'
+release_year: 1977
+runtime: 257839
 ---
 I don't know if it's right
 To let you make love to me tonight

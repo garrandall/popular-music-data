@@ -1,8 +1,11 @@
 ---
+album: Golden Hits
 artists:
 - Roger Miller
+external_ids:
+  spotify: spotify:track:2X4uFSf7nQPSSwTxw1RRxX
 features: []
-genres: []
+first_released_as_single: false
 key: one-dyin--and-a-buryin--roger-miller
 lyrics_url: https://www.azlyrics.com/lyrics/rogermiller/onedyinandaburyin.html
 name: One Dyin' And A Buryin'
@@ -35,8 +38,9 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '1965-08-21'
+release_year: 1965
+runtime: 121760
 ---
-
 Well, I think I finally found me a sure-fire way to forget 
 It's so simple, I'm surprised I hadn't done thought of it before yet 
 It's foolproof - well, it's foolhardy, maybe, but who knows 
@@ -67,6 +71,3 @@ One dying and a buryin'
 Some cryin' 
 Six carryin' me 
 I wanna be free
-
-
-

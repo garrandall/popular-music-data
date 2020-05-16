@@ -1,9 +1,12 @@
 ---
+album: Globalization
 artists:
 - Pitbull
 - Ne-Yo
+external_ids:
+  spotify: spotify:track:2KJnNfCzNIyBJl07Go0fV8
 features: []
-genres: []
+first_released_as_single: true
 key: time-of-our-lives-pitbull-ne-yo
 lyrics_url: https://www.azlyrics.com/lyrics/pitbull/timeofourlives.html
 name: Time Of Our Lives
@@ -116,9 +119,9 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '2015-06-27'
+release_year: 2014
+runtime: 229360
 ---
-
-
 I knew my rent was gon' be late about a week ago
 I worked my ass off, but I still can't pay it though
 But I got just enough
@@ -219,7 +222,7 @@ Pour it up, drink it up, throw it up tonight
 This for everybody going through tough times
 Believe me: been there, done that
 But everyday above ground is a great day, remember that
-DalÃ©
+Dalé
 
 
 I knew my rent was gon' be late about a week ago
@@ -235,6 +238,3 @@ Oh, baby
 Oh give me the time of my life
 Hey, hey, hey
 Let's get it now
-
-
-

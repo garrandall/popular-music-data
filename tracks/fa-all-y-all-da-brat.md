@@ -1,8 +1,11 @@
 ---
+album: Funkdafied
 artists:
 - Da Brat
+external_ids:
+  spotify: spotify:track:1zAfYrddgjP1NmkdX7Lo6B
 features: []
-genres: []
+first_released_as_single: false
 key: fa-all-y-all-da-brat
 lyrics_url: https://genius.com/Da-brat-fa-all-yall-lyrics
 name: Fa All Y'all
@@ -79,6 +82,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1995-02-11'
+release_year: 1994
+runtime: 199960
 ---
 I am... quick to pull the trigger quick to pull your card
 Hard late for the boulevard

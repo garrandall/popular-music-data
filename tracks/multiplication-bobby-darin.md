@@ -1,8 +1,11 @@
 ---
+album: Twist With Bobby Darin
 artists:
 - Bobby Darin
+external_ids:
+  spotify: spotify:track:2Nff3m7wldOofrtSIu2n4e
 features: []
-genres: []
+first_released_as_single: false
 key: multiplication-bobby-darin
 lyrics_url: https://genius.com/Bobby-darin-multiplication-lyrics
 name: Multiplication
@@ -47,6 +50,8 @@ rankings:
   rank: 47
   ranking_list: Billboard Hot 100
   start_date: '1962-02-24'
+release_year: 1961
+runtime: 135733
 ---
 When you see a gentleman bee
 Round a lady bee buzzin'

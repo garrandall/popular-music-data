@@ -1,11 +1,14 @@
 ---
+album: Bag of Money
 artists:
 - Wale
+external_ids:
+  spotify: spotify:track:1BvTqJLeB9ZeGU01gFzJbh
 features:
 - Rick Ross
 - Meek Mill
 - T-Pain
-genres: []
+first_released_as_single: true
 key: bag-of-money-wale-rick-ross-meek-mill-t-pain
 lyrics_url: https://www.musixmatch.com/lyrics/Wale-feat-Rick-Ross-Meek-Mill-T-Pain/Bag-of-Money
 name: Bag Of Money
@@ -62,6 +65,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2012-10-06'
+release_year: 2012
+runtime: 247293
 ---
 My chick bad, looking like a bag of money
 That chick bad, looking like a bag of money

@@ -1,9 +1,12 @@
 ---
+album: The Day After
 artists:
 - Twista
+external_ids:
+  spotify: spotify:track:6EywEcHVTHcX0gzOlglnhx
 features:
 - Trey Songz
-genres: []
+first_released_as_single: true
 key: girl-tonite-twista-trey-songz
 lyrics_url: https://www.azlyrics.com/lyrics/twista/girltonite.html
 name: Girl Tonite
@@ -88,8 +91,9 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '2006-01-21'
+release_year: 2005
+runtime: 221373
 ---
-
 Mmhm, mmhmm, mmhm, aye baby
 
 When I touch her she like (Ohhh)
@@ -191,6 +195,3 @@ When I rub her
 When I hug her
 When I love her
 When I touch her she like ohhoh
-
-
-

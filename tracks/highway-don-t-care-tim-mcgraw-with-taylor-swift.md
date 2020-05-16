@@ -1,8 +1,12 @@
 ---
+album: Two Lanes Of Freedom
 artists:
-- Tim McGraw With Taylor Swift
-features: []
-genres: []
+- Tim McGraw
+external_ids:
+  spotify: spotify:track:4wFUdSCer8bdQsrp1M90sa
+features:
+- Taylor Swift
+first_released_as_single: false
 key: highway-don-t-care-tim-mcgraw-with-taylor-swift
 name: Highway Don't Care
 rankings:
@@ -86,5 +90,7 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '2013-07-27'
+release_year: 2013
+runtime: 276880
 ---
 

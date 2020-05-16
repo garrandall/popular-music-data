@@ -1,8 +1,11 @@
 ---
+album: Every Shade Of Love
 artists:
 - Jesse Johnson
+external_ids:
+  spotify: spotify:track:04e2Pf6WzAyOH2HizMggm2
 features: []
-genres: []
+first_released_as_single: false
 key: love-struck-jesse-johnson
 lyrics_url: https://genius.com/Jesse-johnson-love-struck-lyrics
 name: Love Struck
@@ -39,6 +42,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1988-06-11'
+release_year: 1988
+runtime: 318733
 ---
 Everytime I see you, baby
 I think you're all aflame

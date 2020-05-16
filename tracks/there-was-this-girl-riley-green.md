@@ -1,8 +1,11 @@
 ---
+album: Soundtrack To Summer 2018
 artists:
 - Riley Green
+external_ids:
+  spotify: spotify:track:79Dky8ud938SRvC8e6eX1v
 features: []
-genres: []
+first_released_as_single: false
 key: there-was-this-girl-riley-green
 lyrics_url: https://www.azlyrics.com/lyrics/rileygreen/therewasthisgirl.html
 name: There Was This Girl
@@ -39,8 +42,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2019-04-27'
+release_year: 2018
+runtime: 195653
 ---
-
 Never knew my old man's truck could even run like that
 Should've known better than to take that curve so fast
 Daddy pulled up, I was down in a ditch
@@ -81,6 +85,3 @@ There was this girl
 Yeah, there was this girl
 Yeah, there was this girl
 There was this girl
-
-
-

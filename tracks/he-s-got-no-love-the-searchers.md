@@ -1,8 +1,11 @@
 ---
+album: Needles & Pins
 artists:
 - The Searchers
+external_ids:
+  spotify: spotify:track:3BjitDpDJErAxMGnqDpdMn
 features: []
-genres: []
+first_released_as_single: false
 key: he-s-got-no-love-the-searchers
 lyrics_url: https://www.azlyrics.com/lyrics/searchers/hesgotnolove.html
 name: He's Got No Love
@@ -19,8 +22,9 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1965-08-14'
+release_year: 1964
+runtime: 154946
 ---
-
 Sometimes a man might wanna cry
 Sometimes a man might wanna die
 He wonders why he's standin' all alone
@@ -48,6 +52,3 @@ He wonders why he's feelin' sad inside
 It's 'cause he's got no love to stand beside
 
 He's got no love, he's got no love, he's got no love
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Some People
 artists:
 - Belouis Some
+external_ids:
+  spotify: spotify:track:0DJFfzpoWz0wiaBzqcSeuh
 features: []
-genres: []
+first_released_as_single: false
 key: imagination-belouis-some
 lyrics_url: https://genius.com/Belouis-some-imagination-lyrics
 name: Imagination
@@ -27,6 +30,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1985-06-01'
+release_year: 1985
+runtime: 214613
 ---
 She lit a cigarette, both hands behind her back
 Thought she was hungry, lack of choice saw to that

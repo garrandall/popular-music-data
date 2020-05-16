@@ -1,8 +1,11 @@
 ---
+album: Monster
 artists:
 - Steppenwolf
+external_ids:
+  spotify: spotify:track:6RbvfVblYgW4cL53sWAhE7
 features: []
-genres: []
+first_released_as_single: false
 key: move-over-steppenwolf
 lyrics_url: https://www.azlyrics.com/lyrics/steppenwolf/moveover.html
 name: Move Over
@@ -43,8 +46,9 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '1969-10-11'
+release_year: 1969
+runtime: 173440
 ---
-
 Things look bad from over here
 Too much confusion and no solution
 Everyone here knows your fear
@@ -91,6 +95,3 @@ Move over
 Come on, Move Over
 
 Repeat Chorus
-
-
-

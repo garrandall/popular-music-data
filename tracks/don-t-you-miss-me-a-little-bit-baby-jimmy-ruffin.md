@@ -1,8 +1,11 @@
 ---
+album: Ruff 'N Ready
 artists:
 - Jimmy Ruffin
+external_ids:
+  spotify: spotify:track:0T6SH2vVwZszg8qLc2RGyS
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-you-miss-me-a-little-bit-baby-jimmy-ruffin
 lyrics_url: https://genius.com/Jimmy-ruffin-dont-you-miss-me-a-little-bit-baby-lyrics
 name: Don't You Miss Me A Little Bit Baby
@@ -27,6 +30,8 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '1967-08-19'
+release_year: 1967
+runtime: 175813
 ---
 I hear you're telling everybody
 That you're glad I'm gone

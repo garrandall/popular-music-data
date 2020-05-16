@@ -1,8 +1,11 @@
 ---
+album: The Grand Illusion
 artists:
 - Styx
+external_ids:
+  spotify: spotify:track:0PsbWiVtix5FoTZ1s00mEl
 features: []
-genres: []
+first_released_as_single: false
 key: come-sail-away-styx
 lyrics_url: https://www.azlyrics.com/lyrics/styx/comesailaway.html
 name: Come Sail Away
@@ -95,8 +98,9 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1978-02-18'
+release_year: 1977
+runtime: 367000
 ---
-
 I'm sailing away, set an open course for the virgin sea
 Cause I've got to be free, free to face the life that's ahead of me
 On board, I'm the captain, so climb aboard
@@ -135,6 +139,3 @@ Come sail away with me
 
 Come sail away, come sail away
 Come sail away, come sail away
-
-
-

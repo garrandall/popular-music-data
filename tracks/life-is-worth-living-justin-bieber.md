@@ -1,8 +1,11 @@
 ---
+album: Purpose
 artists:
 - Justin Bieber
+external_ids:
+  spotify: spotify:track:4yWCzA44dQyp0SoeM81bUb
 features: []
-genres: []
+first_released_as_single: false
 key: life-is-worth-living-justin-bieber
 lyrics_url: https://www.azlyrics.com/lyrics/justinbieber/lifeisworthliving.html
 name: Life Is Worth Living
@@ -15,8 +18,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2015-12-12'
+release_year: 2015
+runtime: 234786
 ---
-
 Ended up on a crossroad
 Try to figure out which way to go
 It's like you're stuck on a treadmill
@@ -81,6 +85,3 @@ Only God can judge me
 Life is worth living again
 Another day
 Life is worth living again
-
-
-

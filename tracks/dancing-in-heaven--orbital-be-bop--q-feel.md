@@ -1,8 +1,11 @@
 ---
+album: Dancing in Heaven (Orbital Be-Bop)
 artists:
 - Q-feel
+external_ids:
+  spotify: spotify:track:1kPq8QhmSbR7cC9G3KnZHa
 features: []
-genres: []
+first_released_as_single: true
 key: dancing-in-heaven--orbital-be-bop--q-feel
 lyrics_url: https://genius.com/Q-feel-dancing-in-heaven-orbital-be-bop-lyrics
 name: Dancing In Heaven (Orbital Be-Bop)
@@ -35,6 +38,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1989-07-29'
+release_year: 1982
+runtime: 398768
 ---
 (Are you ready? Here we go)
 Slow, slow, quick, quick, slow

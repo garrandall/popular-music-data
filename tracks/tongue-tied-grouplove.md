@@ -1,8 +1,11 @@
 ---
+album: Never Trust A Happy Song
 artists:
 - Grouplove
+external_ids:
+  spotify: spotify:track:0GO8y8jQk1PkHzS31d699N
 features: []
-genres: []
+first_released_as_single: false
 key: tongue-tied-grouplove
 lyrics_url: https://www.azlyrics.com/lyrics/grouplove/tonguetied.html
 name: Tongue Tied
@@ -87,8 +90,9 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '2012-09-22'
+release_year: 2011
+runtime: 218013
 ---
-
 Take me to your best friend's house
 Go around this roundabout
 Oh yeah
@@ -139,6 +143,3 @@ Don't leave me tongue tied
 Don't wave no goodbye
 Don't leave me tongue tied
 Don't...
-
-
-

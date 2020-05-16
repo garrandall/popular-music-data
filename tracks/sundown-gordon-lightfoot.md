@@ -1,8 +1,11 @@
 ---
+album: Sundown
 artists:
 - Gordon Lightfoot
+external_ids:
+  spotify: spotify:track:0SjnBEHZVXgCKvOrpvzL2k
 features: []
-genres: []
+first_released_as_single: false
 key: sundown-gordon-lightfoot
 lyrics_url: https://www.azlyrics.com/lyrics/gordonlightfoot/sundown.html
 name: Sundown
@@ -79,8 +82,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1974-08-10'
+release_year: 1974
+runtime: 213400
 ---
-
 I can see her lying back in her satin dress
 In a room where you do what you don't confess
 
@@ -116,6 +120,3 @@ Sundown, you better take care
 If I find you been creeping 'round my back stairs
 Sometimes I think it's a sin
 When I feel like I'm winning when I'm losing again
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: I Hear You Rockin'
 artists:
 - Dave Edmunds
+external_ids:
+  spotify: spotify:track:6My1PfmDeYo8jr5c1Bzhjm
 features: []
-genres: []
+first_released_as_single: false
 key: slipping-away-dave-edmunds
 lyrics_url: https://genius.com/Dave-edmunds-slipping-away-lyrics
 name: Slipping Away
@@ -67,6 +70,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1983-08-20'
+release_year: 1970
+runtime: 260826
 ---
 I can feel you slipping away from me
 A little bit further now every day

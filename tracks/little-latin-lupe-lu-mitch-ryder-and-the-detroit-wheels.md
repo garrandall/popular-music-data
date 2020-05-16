@@ -1,8 +1,11 @@
 ---
+album: Breakout...!!!
 artists:
 - Mitch Ryder And The Detroit Wheels
+external_ids:
+  spotify: spotify:track:5aARHANTyK8IM41nnvD0d8
 features: []
-genres: []
+first_released_as_single: false
 key: little-latin-lupe-lu-mitch-ryder-and-the-detroit-wheels
 lyrics_url: https://genius.com/Mitch-ryder-and-the-detroit-wheels-little-latin-lupe-lu-lyrics
 name: Little Latin Lupe Lu
@@ -43,6 +46,8 @@ rankings:
   rank: 31
   ranking_list: Billboard Hot 100
   start_date: '1966-04-30'
+release_year: 1966
+runtime: 189506
 ---
 (Spoken)
 Allright, is everybody ready?

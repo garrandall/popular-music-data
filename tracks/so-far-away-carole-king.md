@@ -1,8 +1,11 @@
 ---
+album: Tapestry
 artists:
 - Carole King
+external_ids:
+  spotify: spotify:track:7lpWD5OkNFtfuD9lecNmm6
 features: []
-genres: []
+first_released_as_single: false
 key: so-far-away-carole-king
 lyrics_url: https://genius.com/Carole-king-so-far-away-lyrics
 name: So Far Away
@@ -47,6 +50,8 @@ rankings:
   rank: 27
   ranking_list: Billboard Hot 100
   start_date: '1971-10-30'
+release_year: 1968
+runtime: 236333
 ---
 So far away
 Doesn't anybody stay in one place anymore

@@ -1,8 +1,11 @@
 ---
+album: SKINS
 artists:
 - XXXTENTACION
+external_ids:
+  spotify: spotify:track:7pdF27mSDuPWhppnHAmWHa
 features: []
-genres: []
+first_released_as_single: false
 key: whoa--mind-in-awe--xxxtentacion
 lyrics_url: https://www.azlyrics.com/lyrics/xxxtentacion/whoamindinawe.html
 name: whoa (mind in awe)
@@ -19,8 +22,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2019-01-12'
+release_year: 2018
+runtime: 157776
 ---
-
 I was like oh-oh-oh
 Oh-oh-oh
 Oh-woah-oh
@@ -49,6 +53,3 @@ Oh-oh-oh
 Oh-oh-oh
 Oh-woah-oh
 Oh-oh-oh
-
-
-

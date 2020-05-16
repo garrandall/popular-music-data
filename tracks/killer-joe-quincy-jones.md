@@ -1,8 +1,11 @@
 ---
+album: Walking in Space
 artists:
 - Quincy Jones
+external_ids:
+  spotify: spotify:track:7qhAbHGsFjYl19uaWi3KTQ
 features: []
-genres: []
+first_released_as_single: false
 key: killer-joe-quincy-jones
 lyrics_url: https://www.azlyrics.com/lyrics/quincyjones/cooljoemeanjoekillerjoe.html
 name: Killer Joe
@@ -19,9 +22,9 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '1970-05-30'
+release_year: 1969
+runtime: 311866
 ---
-
-
 Shucky Ducky, quack quack
 Kick that sh...
 Yeah, this is how we do it
@@ -97,6 +100,3 @@ Cool Joe
 
 
 Yeah, I told you Killer Joe was coming down here tonight, baby
-
-
-

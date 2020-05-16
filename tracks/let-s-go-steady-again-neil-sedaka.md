@@ -1,8 +1,11 @@
 ---
+album: Neil Sedaka Sings The Hits
 artists:
 - Neil Sedaka
+external_ids:
+  spotify: spotify:track:58IthgKS3dMppMRCzmnWzf
 features: []
-genres: []
+first_released_as_single: false
 key: let-s-go-steady-again-neil-sedaka
 lyrics_url: https://www.azlyrics.com/lyrics/neilsedaka/letsgosteadyagain.html
 name: Let's Go Steady Again
@@ -43,8 +46,9 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '1963-06-22'
+release_year: 1963
+runtime: 156066
 ---
-
 Down down down rudup do, let's go steady again
 Down down down rudup do, let's go steady again
 
@@ -72,6 +76,3 @@ Say you're ready and then we can start anew
 For seven days we didn't speak
 It's been a long and lonely week
 Come on baby let's go steady again
-
-
-

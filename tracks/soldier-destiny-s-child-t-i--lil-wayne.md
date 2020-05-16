@@ -1,10 +1,13 @@
 ---
+album: Destiny Fulfilled
 artists:
 - Destiny's Child
+external_ids:
+  spotify: spotify:track:1RhDOG6rdVNLqKC6ZoNah2
 features:
 - T.I.
 - Lil Wayne
-genres: []
+first_released_as_single: false
 key: soldier-destiny-s-child-t-i--lil-wayne
 lyrics_url: https://genius.com/Destinys-child-soldier-copy-lyrics
 name: Soldier
@@ -93,6 +96,8 @@ rankings:
   rank: 36
   ranking_list: Billboard Hot 100
   start_date: '2005-04-16'
+release_year: 1999
+runtime: 244746
 ---
 Feat. T.I. & Lil Wayne)
 

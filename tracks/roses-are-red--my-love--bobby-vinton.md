@@ -1,8 +1,11 @@
 ---
+album: Live at the Copa
 artists:
 - Bobby Vinton
+external_ids:
+  spotify: spotify:track:0qYok0f8O5DE8yJSo146dn
 features: []
-genres: []
+first_released_as_single: false
 key: roses-are-red--my-love--bobby-vinton
 lyrics_url: https://www.azlyrics.com/lyrics/bobbyvinton/rosesareredmylove.html
 name: Roses Are Red (My Love)
@@ -67,8 +70,9 @@ rankings:
   rank: 44
   ranking_list: Billboard Hot 100
   start_date: '1962-09-15'
+release_year: 1962
+runtime: 158933
 ---
-
 (Roses are red, my love)
 (Doo doo da doo)
 
@@ -112,6 +116,3 @@ Violets are blue.
 Sugar is sweet, my love.
 But not as sweet as you."
 (Roses are red)
-
-
-

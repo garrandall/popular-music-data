@@ -1,8 +1,11 @@
 ---
+album: Jealous Kind Of Fella
 artists:
 - Garland Green
+external_ids:
+  spotify: spotify:track:1dtKN6wwlolkM8XZy2y9C1
 features: []
-genres: []
+first_released_as_single: false
 key: jealous-kind-of-fella-garland-green
 lyrics_url: https://www.musixmatch.com/lyrics/Garland-Green/Jealous-Kind-of-Fella
 name: Jealous Kind Of Fella
@@ -47,6 +50,8 @@ rankings:
   rank: 57
   ranking_list: Billboard Hot 100
   start_date: '1969-11-15'
+release_year: 1969
+runtime: 173533
 ---
 Jealous kind of fella
 Hey, hey, hey...

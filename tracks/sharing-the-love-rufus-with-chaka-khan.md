@@ -1,7 +1,8 @@
 ---
 artists:
-- Rufus With Chaka Khan
-features: []
+- Rufus
+features:
+- Chaka Khan
 genres: []
 key: sharing-the-love-rufus-with-chaka-khan
 name: Sharing The Love

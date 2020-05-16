@@ -1,9 +1,12 @@
 ---
+album: Neon Future III
 artists:
 - Steve Aoki
+external_ids:
+  spotify: spotify:track:2FWyJIT0gL2G3xWVQ9Id5f
 features:
 - BTS
-genres: []
+first_released_as_single: true
 key: waste-it-on-me-steve-aoki-bts
 lyrics_url: https://www.azlyrics.com/lyrics/steveaoki/wasteitonme.html
 name: Waste It On Me
@@ -12,8 +15,9 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2018-11-10'
+release_year: 2018
+runtime: 192536
 ---
-
 (Waste it on me)
 
 You say love is messed up
@@ -86,6 +90,3 @@ Baby, why not waste it on me? Waste it on me
 Tell me, why not waste it on me? Waste it on me
 (Waste it on me)
 Tell me, why not?
-
-
-

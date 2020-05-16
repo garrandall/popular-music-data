@@ -1,8 +1,11 @@
 ---
+album: Return Of The Mack
 artists:
 - Mark Morrison
+external_ids:
+  spotify: spotify:track:6hxK603i8PoKCsGwnvLOeD
 features: []
-genres: []
+first_released_as_single: false
 key: moan---groan-mark-morrison
 lyrics_url: https://www.azlyrics.com/lyrics/markmorrison/moanandgroan.html
 name: Moan & Groan
@@ -35,8 +38,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1998-05-30'
+release_year: 1996
+runtime: 330200
 ---
-
 Ah
 This ain't no love song girl
 Wow wow wow
@@ -108,7 +112,3 @@ Make it, break it, shake it, all night, all night, all night.
 Show me you can love a woman to the morning light, morning light
 
 If you wanna take me home you better make me moan (make me moan)
-
-
-
-

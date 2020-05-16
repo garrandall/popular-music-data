@@ -1,8 +1,11 @@
 ---
+album: Women and Children First
 artists:
 - Van Halen
+external_ids:
+  spotify: spotify:track:4MM0jT9z9m7VFiusFrGJ8C
 features: []
-genres: []
+first_released_as_single: false
 key: and-the-cradle-will-rock-van-halen
 lyrics_url: https://www.azlyrics.com/lyrics/vanhalen/andthecradlewillrock.html
 name: And The Cradle Will Rock
@@ -35,8 +38,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1980-07-05'
+release_year: 1980
+runtime: 213150
 ---
-
 Well, they say it's kinda fright'nin' how this younger generation swings. 
 You know, it's more than just some new sensation. 
 Well, the kid is into losin' sleep and he don't come home for half the week. 
@@ -63,6 +67,3 @@ And I say, rock on!
 Rock on! 
 Rock on! 
 Rock on!
-
-
-

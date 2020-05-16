@@ -1,9 +1,12 @@
 ---
+album: Better Dayz
 artists:
 - 2Pac
+external_ids:
+  spotify: spotify:track:6CMidyjegRGsM2NyEmbuoT
 features:
 - Trick Daddy
-genres: []
+first_released_as_single: false
 key: still-ballin-2pac-trick-daddy
 lyrics_url: https://www.azlyrics.com/lyrics/2pac/stillballin.html
 name: Still Ballin
@@ -88,9 +91,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2003-08-16'
+release_year: 2002
+runtime: 169600
 ---
-
-
 Straight motherfuckin' ballin', part 2
 Still ballin', Westside!
 
@@ -170,6 +173,3 @@ Motherfucker, still ballin', until the day I die
 (Thug life), still ballin'
 Motherfucker, still ballin'
 Straight motherfuckin' ballin'
-
-
-

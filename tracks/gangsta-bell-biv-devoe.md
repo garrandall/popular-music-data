@@ -1,8 +1,11 @@
 ---
+album: Bell Biv DeVoe Greatest Hits
 artists:
 - Bell Biv DeVoe
+external_ids:
+  spotify: spotify:track:1XgiaKAh3lzjaABhHUB0IX
 features: []
-genres: []
+first_released_as_single: false
 key: gangsta-bell-biv-devoe
 lyrics_url: https://www.azlyrics.com/lyrics/bellbivdevoe/gangsta.html
 name: Gangsta
@@ -75,8 +78,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1993-03-06'
+release_year: 1992
+runtime: 269066
 ---
-
 Yo
 Shoot 'em, Biv
 Yeah
@@ -177,6 +181,3 @@ Cause she's a gangsta
 She don't know that I know
 She's a gangsta
 She's a gangsta
-
-
-

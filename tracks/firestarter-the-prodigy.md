@@ -1,8 +1,11 @@
 ---
+album: The Fat of the Land - Expanded Edition
 artists:
 - The Prodigy
+external_ids:
+  spotify: spotify:track:2uvqg13i9F1LuIW7ddLBEV
 features: []
-genres: []
+first_released_as_single: true
 key: firestarter-the-prodigy
 lyrics_url: https://genius.com/The-prodigy-firestarter-lyrics
 name: Firestarter
@@ -87,6 +90,8 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '1997-05-31'
+release_year: 1996
+runtime: 227426
 ---
 I'm the trouble starter, punkin' instigator
 I'm the fear addicted, danger illustrated

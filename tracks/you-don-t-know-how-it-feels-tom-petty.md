@@ -1,8 +1,11 @@
 ---
+album: Wildflowers
 artists:
 - Tom Petty
+external_ids:
+  spotify: spotify:track:7MooGz4ZPE4bNxjFegR6Jx
 features: []
-genres: []
+first_released_as_single: false
 key: you-don-t-know-how-it-feels-tom-petty
 lyrics_url: https://genius.com/Tom-petty-you-dont-know-how-it-feels-lyrics
 name: You Don't Know How It Feels
@@ -95,6 +98,8 @@ rankings:
   rank: 50
   ranking_list: Billboard Hot 100
   start_date: '1995-04-29'
+release_year: 1994
+runtime: 289440
 ---
 Let me run with you tonight
 I'll take you on a moonlight ride

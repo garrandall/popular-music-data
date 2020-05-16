@@ -1,8 +1,11 @@
 ---
+album: Golden Hits - The World's Most Famous Auctioneer
 artists:
 - Leroy Van Dyke
+external_ids:
+  spotify: spotify:track:7yOdugXDwaKMkzzYrXsLrV
 features: []
-genres: []
+first_released_as_single: false
 key: if-a-woman-answers--hang-up-the-phone--leroy-van-dyke
 lyrics_url: https://www.musixmatch.com/lyrics/Leroy-Van-Dyke/If-a-Woman-Answers-Hang-Up-the-Phone
 name: If A Woman Answers (Hang Up The Phone)
@@ -35,6 +38,8 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1962-04-21'
+release_year: 1962
+runtime: 137239
 ---
 Her arms are cold but still she holds me to that vow
 What once was love is now a prison wall

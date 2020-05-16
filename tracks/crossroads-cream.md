@@ -1,8 +1,11 @@
 ---
+album: Wheels Of Fire
 artists:
 - Cream
+external_ids:
+  spotify: spotify:track:6PUabSMXmPnZna361Wwmf7
 features: []
-genres: []
+first_released_as_single: false
 key: crossroads-cream
 lyrics_url: https://www.azlyrics.com/lyrics/cream/crossroads.html
 name: Crossroads
@@ -39,8 +42,9 @@ rankings:
   rank: 34
   ranking_list: Billboard Hot 100
   start_date: '1969-03-15'
+release_year: 1968
+runtime: 258466
 ---
-
 I went down to the crossroads
 Fell down on my knees
 Down to the crossroads
@@ -75,6 +79,3 @@ Run, you can run
 Tell my friend boy Willie Brown
 And I'm standing at the crossroads
 Believe I'm sinking down
-
-
-

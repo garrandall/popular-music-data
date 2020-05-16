@@ -1,8 +1,11 @@
 ---
+album: Full Circle
 artists:
 - Creed
+external_ids:
+  spotify: spotify:track:25TQBBKOrtTfnH6QBM9He1
 features: []
-genres: []
+first_released_as_single: false
 key: overcome-creed
 lyrics_url: https://genius.com/Creed-overcome-lyrics
 name: Overcome
@@ -11,6 +14,8 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '2009-09-12'
+release_year: 2009
+runtime: 226826
 ---
 Don’t cry victim to me
 Everything we are and used to be

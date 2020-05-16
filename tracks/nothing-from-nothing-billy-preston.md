@@ -1,8 +1,11 @@
 ---
+album: The Kids & Me
 artists:
 - Billy Preston
+external_ids:
+  spotify: spotify:track:72PoJMDfdaw9gGECgA9kTZ
 features: []
-genres: []
+first_released_as_single: false
 key: nothing-from-nothing-billy-preston
 lyrics_url: https://genius.com/Billy-preston-nothing-from-nothing-lyrics
 name: Nothing From Nothing
@@ -79,6 +82,8 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1974-11-09'
+release_year: 1974
+runtime: 156200
 ---
 Nothing from nothing leaves nothing
 You gotta have something if you wanna be with me

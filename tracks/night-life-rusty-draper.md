@@ -1,8 +1,11 @@
 ---
+album: Sings Night Life
 artists:
 - Rusty Draper
+external_ids:
+  spotify: spotify:track:2c4FIAviMIwuHBonZEO6Ut
 features: []
-genres: []
+first_released_as_single: false
 key: night-life-rusty-draper
 lyrics_url: https://www.musixmatch.com/lyrics/Rusty-Draper/Night-Life
 name: Night Life
@@ -39,6 +42,8 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '1963-11-16'
+release_year: 1963
+runtime: 145853
 ---
 When the evening sun goes down
 You will find me hanging round

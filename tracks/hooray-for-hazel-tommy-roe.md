@@ -1,8 +1,11 @@
 ---
+album: Tommy Roe's Greatest Hits
 artists:
 - Tommy Roe
+external_ids:
+  spotify: spotify:track:5tTmGR9y9D0Nisa9N4JMXe
 features: []
-genres: []
+first_released_as_single: false
 key: hooray-for-hazel-tommy-roe
 lyrics_url: https://www.azlyrics.com/lyrics/tommyroe/hoorayforhazel.html
 name: Hooray For Hazel
@@ -59,8 +62,9 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '1966-12-10'
+release_year: 1966
+runtime: 148666
 ---
-
 Hooray for Hazel, she put me down
 Hooray for Hazel, she made me her clown
 Hooray for Hazel, she's up to her tricks
@@ -97,6 +101,3 @@ Hooray for Hazel, she's meek as a dove
 Hooray for Hazel, she's beggin' for love
 Hooray for Hazel, there's tears in her eyes
 Hooray for Hazel, she know how to cry
-
-
-

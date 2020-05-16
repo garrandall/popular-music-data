@@ -1,8 +1,11 @@
 ---
+album: The Unicorn
 artists:
 - The Irish Rovers
+external_ids:
+  spotify: spotify:track:6HvRHu2HtWgE720gG5v3wE
 features: []
-genres: []
+first_released_as_single: false
 key: the-unicorn-the-irish-rovers
 lyrics_url: https://genius.com/The-irish-rovers-the-unicorn-lyrics
 name: The Unicorn
@@ -55,6 +58,8 @@ rankings:
   rank: 45
   ranking_list: Billboard Hot 100
   start_date: '1968-06-08'
+release_year: 1968
+runtime: 202693
 ---
 A long time ago when the earth was green
 And there was more kinds of animals than you've ever seen

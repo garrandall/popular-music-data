@@ -1,8 +1,11 @@
 ---
+album: Evacuate The Dancefloor
 artists:
 - Cascada
+external_ids:
+  spotify: spotify:track:5uXR7Nanrm9FfWDrpQBGfN
 features: []
-genres: []
+first_released_as_single: true
 key: evacuate-the-dancefloor-cascada
 lyrics_url: https://www.azlyrics.com/lyrics/cascada/evacuatethedancefloor.html
 name: Evacuate The Dancefloor
@@ -111,8 +114,9 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '2010-02-20'
+release_year: 2009
+runtime: 208360
 ---
-
 (Oh)
 Turn up the music
 Let's get out on the floor
@@ -236,6 +240,3 @@ I'm infected by the sound
 Oh, oh
 Stop this beat is killing me
 Hey Mr. DJ come burn this place right down to the ground
-
-
-

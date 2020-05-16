@@ -1,8 +1,11 @@
 ---
+album: Starland Vocal Band
 artists:
 - Starland Vocal Band
+external_ids:
+  spotify: spotify:track:1VPQVK5q0JscUk5duLSKHw
 features: []
-genres: []
+first_released_as_single: false
 key: hail--hail--rock-and-roll--starland-vocal-band
 lyrics_url: https://genius.com/Starland-vocal-band-hail-hail-rock-and-roll-lyrics
 name: Hail! Hail! Rock And Roll!
@@ -31,6 +34,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1977-02-12'
+release_year: 1976
+runtime: 164293
 ---
 If you believe in magic
 You will never, never, never grow old

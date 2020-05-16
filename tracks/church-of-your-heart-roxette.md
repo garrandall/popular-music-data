@@ -1,8 +1,11 @@
 ---
+album: Joyride
 artists:
 - Roxette
+external_ids:
+  spotify: spotify:track:6broBHB7ObAA2BhzLT2nlX
 features: []
-genres: []
+first_released_as_single: false
 key: church-of-your-heart-roxette
 lyrics_url: https://www.azlyrics.com/lyrics/roxette/churchofyourheart.html
 name: Church Of Your Heart
@@ -51,8 +54,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1992-05-09'
+release_year: 1991
+runtime: 195986
 ---
-
 Can't we leave the world outside 
 Just for a while? Just for a while? 
 Spend some time, you and I 
@@ -90,6 +94,3 @@ I believed in the church of your heart
 Yes it's you that make me be part of 
 And I believe in the church of your heart 
 In the church of your heart
-
-
-

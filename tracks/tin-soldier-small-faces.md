@@ -1,8 +1,11 @@
 ---
+album: Small Faces - Deluxe Edition
 artists:
 - Small Faces
+external_ids:
+  spotify: spotify:track:21CBQkKOMaKGwop8IM1boY
 features: []
-genres: []
+first_released_as_single: true
 key: tin-soldier-small-faces
 lyrics_url: https://genius.com/The-small-faces-tin-soldier-lyrics
 name: Tin Soldier
@@ -27,6 +30,8 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1968-04-13'
+release_year: 1967
+runtime: 201800
 ---
 I am a little tin soldier
 That wants to jump into your fire

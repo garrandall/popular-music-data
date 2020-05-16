@@ -1,8 +1,11 @@
 ---
+album: Word Up
 artists:
 - Cameo
+external_ids:
+  spotify: spotify:track:0Aj8EagrPfDoOe5OlUdrLC
 features: []
-genres: []
+first_released_as_single: false
 key: candy-cameo
 lyrics_url: https://www.azlyrics.com/lyrics/cameo/candy.html
 name: Candy
@@ -75,8 +78,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1987-04-18'
+release_year: 1986
+runtime: 339933
 ---
-
 Yeah, yeah, mmm
 
 It's like candy
@@ -161,6 +165,3 @@ Oh
 
 You're so dandy (Watch this)
 Ohoho
-
-
-

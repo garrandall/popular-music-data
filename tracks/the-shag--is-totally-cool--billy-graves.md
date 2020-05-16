@@ -1,8 +1,11 @@
 ---
+album: Dancing At The Nick At NiteClub
 artists:
 - Billy Graves
+external_ids:
+  spotify: spotify:track:3mcWna3RxsDYD4emxyFLCF
 features: []
-genres: []
+first_released_as_single: false
 key: the-shag--is-totally-cool--billy-graves
 name: The Shag (Is Totally Cool)
 rankings:
@@ -42,5 +45,7 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1959-03-23'
+release_year: 1959
+runtime: 135866
 ---
 

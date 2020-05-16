@@ -1,8 +1,11 @@
 ---
+album: A Little Bit Longer
 artists:
 - Jonas Brothers
+external_ids:
+  spotify: spotify:track:7KX5NC5lHbjywDbHa2Uace
 features: []
-genres: []
+first_released_as_single: false
 key: bb-good-jonas-brothers
 lyrics_url: https://www.azlyrics.com/lyrics/jonasbrothers/bbgood.html
 name: BB Good
@@ -11,8 +14,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2008-08-30'
+release_year: 2008
+runtime: 176240
 ---
-
 I'll pick you up at 7
 We can drive around and see a movie
 Every scene will have a meaning
@@ -68,6 +72,3 @@ I think you and me
 Would be a great
 Cou-ple
 Yeah
-
-
-

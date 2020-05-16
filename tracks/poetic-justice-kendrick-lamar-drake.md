@@ -1,9 +1,12 @@
 ---
+album: good kid, m.A.A.d city
 artists:
 - Kendrick Lamar
+external_ids:
+  spotify: spotify:track:2P3SLxeQHPqh8qKB6gtJY2
 features:
 - Drake
-genres: []
+first_released_as_single: false
 key: poetic-justice-kendrick-lamar-drake
 lyrics_url: https://www.azlyrics.com/lyrics/kendricklamar/poeticjustice.html
 name: Poetic Justice
@@ -104,9 +107,9 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '2013-04-20'
+release_year: 2012
+runtime: 300160
 ---
-
-
 Every second, every minute, man, I swear that she can get it
 Say if you a bad bitch put your hands up high, hands up high, hands up high
 Tell 'em dim the lights down right now, put me in the mood
@@ -201,6 +204,3 @@ Poetic justice, put it in a song
 "Hol' up hol' up hol' up, we gon' do it like this, OK? I'mma tell you where I'm from, OK? You gon' tell me where you from, OK? Or where your Grandma stay, where your mama stay, or where your daddy stay, OK?"
 "Enough with all this talkin"
 "Matter of fact, get out the van homie. Get out the car before I snatch you out that motherfucker homie"
-
-
-

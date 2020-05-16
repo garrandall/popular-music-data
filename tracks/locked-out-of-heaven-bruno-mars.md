@@ -1,8 +1,11 @@
 ---
+album: Unorthodox Jukebox
 artists:
 - Bruno Mars
+external_ids:
+  spotify: spotify:track:3w3y8KPTfNeOKPiqUTakBh
 features: []
-genres: []
+first_released_as_single: false
 key: locked-out-of-heaven-bruno-mars
 lyrics_url: https://www.musixmatch.com/lyrics/Bruno-Mars/Locked-Out-of-Heaven
 name: Locked Out Of Heaven
@@ -151,6 +154,8 @@ rankings:
   rank: 49
   ranking_list: Billboard Hot 100
   start_date: '2013-06-22'
+release_year: 2012
+runtime: 233478
 ---
 One, two, one, two, three
 

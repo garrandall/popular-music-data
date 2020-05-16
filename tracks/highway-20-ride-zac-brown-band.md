@@ -1,8 +1,11 @@
 ---
+album: The Foundation
 artists:
 - Zac Brown Band
+external_ids:
+  spotify: spotify:track:2oAGUpLorRToXExl2FtUVy
 features: []
-genres: []
+first_released_as_single: false
 key: highway-20-ride-zac-brown-band
 lyrics_url: https://www.azlyrics.com/lyrics/zacbrownband/highway20ride.html
 name: Highway 20 Ride
@@ -87,8 +90,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '2010-06-12'
+release_year: 2008
+runtime: 229280
 ---
-
 I ride east every other Friday but if I had it my way
 A day would not be wasted on this drive
 And I want so bad to hold you
@@ -136,6 +140,3 @@ Highway 20 ride
 And I ride
 
 Whoa-ho-oh-oh
-
-
-

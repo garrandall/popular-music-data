@@ -1,8 +1,11 @@
 ---
+album: Something Nice
 artists:
 - Etta Jones
+external_ids:
+  spotify: spotify:track:7EKMfvkFVCaCPNDgeWZDm8
 features: []
-genres: []
+first_released_as_single: false
 key: canadian-sunset-etta-jones
 lyrics_url: https://www.musixmatch.com/lyrics/Etta-Jones/Canadian-Sunset
 name: Canadian Sunset
@@ -11,6 +14,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1961-03-13'
+release_year: 1961
+runtime: 155306
 ---
 Once I was alone
 So lonely and then

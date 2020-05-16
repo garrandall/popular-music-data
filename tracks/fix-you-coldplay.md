@@ -1,8 +1,11 @@
 ---
+album: X&Y
 artists:
 - Coldplay
+external_ids:
+  spotify: spotify:track:0yoc8cq3IbH7Q3C3a8mCFj
 features: []
-genres: []
+first_released_as_single: false
 key: fix-you-coldplay
 lyrics_url: https://www.azlyrics.com/lyrics/coldplay/fixyou.html
 name: Fix You
@@ -35,8 +38,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2006-01-14'
+release_year: 2005
+runtime: 297612
 ---
-
 When you try your best, but you don't succeed
 When you get what you want, but not what you need
 When you feel so tired, but you can't sleep
@@ -69,6 +73,3 @@ Tears stream down your face and I
 Lights will guide you home
 And ignite your bones
 And I will try to fix you
-
-
-

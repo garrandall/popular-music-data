@@ -1,9 +1,12 @@
 ---
+album: Chicken Noodle Soup
 artists:
 - j-hope
+external_ids:
+  spotify: spotify:track:6wyr4ReB05D9sJB1Rsmcqo
 features:
 - Becky G.
-genres: []
+first_released_as_single: true
 key: chicken-noodle-soup-j-hope-becky-g-
 lyrics_url: https://www.azlyrics.com/lyrics/jhope/chickennoodlesoup.html
 name: Chicken Noodle Soup
@@ -12,6 +15,8 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '2019-10-12'
+release_year: 2019
+runtime: 235497
 ---
 I let it rain, I clear it out
 I let it rain, I clear it out

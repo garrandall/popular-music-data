@@ -1,8 +1,11 @@
 ---
+album: Parting Should Be Painless
 artists:
 - Roger Daltrey
+external_ids:
+  spotify: spotify:track:3aBNmGvg85AFXcvBXu6OJ6
 features: []
-genres: []
+first_released_as_single: false
 key: walking-in-my-sleep-roger-daltrey
 lyrics_url: https://genius.com/Roger-daltrey-walking-in-my-sleep-lyrics
 name: Walking In My Sleep
@@ -43,6 +46,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1984-04-14'
+release_year: 1984
+runtime: 208853
 ---
 Lookin' 'round at all the faces
 I can see they're all the same

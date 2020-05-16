@@ -1,9 +1,12 @@
 ---
+album: Hot & Wet
 artists:
 - '112'
+external_ids:
+  spotify: spotify:track:6EbzdoQBCyM0b9VB4F5uwc
 features:
 - Super Cat
-genres: []
+first_released_as_single: false
 key: na-na-na-112-super-cat
 lyrics_url: https://genius.com/112-na-na-na-na-lyrics
 name: Na Na Na
@@ -32,6 +35,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2003-09-13'
+release_year: 2003
+runtime: 223493
 ---
 It's all the long long ye love
 Fi the girl dem, na na na na

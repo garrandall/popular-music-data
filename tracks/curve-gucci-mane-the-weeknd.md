@@ -1,9 +1,12 @@
 ---
+album: Mr. Davis
 artists:
 - Gucci Mane
+external_ids:
+  spotify: spotify:track:40IF3Vl2auBIVxSr3mNSTk
 features:
 - The Weeknd
-genres: []
+first_released_as_single: false
 key: curve-gucci-mane-the-weeknd
 lyrics_url: https://www.azlyrics.com/lyrics/guccimane/curve.html
 name: Curve
@@ -20,9 +23,9 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '2017-11-04'
+release_year: 2017
+runtime: 162408
 ---
-
-
 Huh, Gucci
 XO (yeah)
 1-0 (yeah)
@@ -101,6 +104,3 @@ I got that work
 I need to know for certain
 Tell me, are you worth it?
 You know Wop
-
-
-

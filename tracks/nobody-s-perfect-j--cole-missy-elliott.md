@@ -1,9 +1,12 @@
 ---
+album: 'Cole World: The Sideline Story'
 artists:
 - J. Cole
+external_ids:
+  spotify: spotify:track:6Nw1WHydftZy2joT2nTiCR
 features:
 - Missy Elliott
-genres: []
+first_released_as_single: false
 key: nobody-s-perfect-j--cole-missy-elliott
 lyrics_url: https://genius.com/J-cole-nobodys-perfect-lyrics
 name: Nobody's Perfect
@@ -84,6 +87,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2012-10-06'
+release_year: 2011
+runtime: 190653
 ---
 Ay, oh, yeah
 Cole world, ah, oh, yeah

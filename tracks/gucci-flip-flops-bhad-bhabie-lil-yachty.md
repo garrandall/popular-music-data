@@ -1,9 +1,12 @@
 ---
+album: '15'
 artists:
 - Bhad Bhabie
+external_ids:
+  spotify: spotify:track:3hv6ndi7uFT9L9wrhQCsqY
 features:
 - Lil Yachty
-genres: []
+first_released_as_single: false
 key: gucci-flip-flops-bhad-bhabie-lil-yachty
 lyrics_url: https://www.azlyrics.com/lyrics/bhadbhabie/gucciflipflops.html
 name: Gucci Flip Flops
@@ -20,8 +23,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2018-06-02'
+release_year: 2018
+runtime: 151850
 ---
-
 30 you a fool for this one
 Cheeze
 
@@ -75,6 +79,3 @@ Gucci flip flops (fuck it), make it kick rocks (bust it)
 This a big clock, check the wrist watch (check it)
 Gucci flip flops, fuck it, hit your bitch in my socks (bust it)
 This a big watch, diamond drippin' off of the clock (off of the clock)
-
-
-

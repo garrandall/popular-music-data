@@ -1,8 +1,11 @@
 ---
+album: Everything You Want
 artists:
 - Vertical Horizon
+external_ids:
+  spotify: spotify:track:2EVNYzHWebyLvKxPX6Ozt8
 features: []
-genres: []
+first_released_as_single: false
 key: best-i-ever-had--grey-sky-morning--vertical-horizon
 lyrics_url: https://www.azlyrics.com/lyrics/verticalhorizon/bestieverhadgreyskymorning.html
 name: Best I Ever Had (Grey Sky Morning)
@@ -71,8 +74,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2001-06-16'
+release_year: 1999
+runtime: 270800
 ---
-
 So you sailed away
 Into a grey sky morning
 Now I'm here to stay
@@ -121,6 +125,3 @@ I don't want you back
 You're just the best I ever had
 The best I ever had
 The best I ever
-
-
-

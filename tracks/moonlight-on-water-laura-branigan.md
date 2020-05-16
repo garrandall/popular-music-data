@@ -1,8 +1,11 @@
 ---
+album: Laura Branigan
 artists:
 - Laura Branigan
+external_ids:
+  spotify: spotify:track:21J5SyEJkfFG3dvuNXra2n
 features: []
-genres: []
+first_released_as_single: false
 key: moonlight-on-water-laura-branigan
 lyrics_url: https://www.azlyrics.com/lyrics/laurabranigan/moonlightonwater.html
 name: Moonlight On Water
@@ -43,8 +46,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1990-05-26'
+release_year: 1990
+runtime: 279346
 ---
-
 What's going on down on the planet
 What's going on inside your pretty head 
 What's life without a Mercedes
@@ -99,6 +103,3 @@ I'm here for you
 Want you in my arms uncomplicated 
 I am for you I am
 But don't you worry 'bout the wrong things
-
-
-

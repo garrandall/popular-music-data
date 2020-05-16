@@ -1,8 +1,11 @@
 ---
+album: Can't Slow Down
 artists:
 - Lionel Richie
+external_ids:
+  spotify: spotify:track:0ROwoz82DIW4tOzkxYnSjf
 features: []
-genres: []
+first_released_as_single: false
 key: stuck-on-you-lionel-richie
 lyrics_url: https://www.azlyrics.com/lyrics/lionelrichie/stuckonyou.html
 name: Stuck On You
@@ -83,8 +86,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1984-10-27'
+release_year: 1983
+runtime: 195133
 ---
-
 Stuck on you
 I've got this feeling down
 Deep in my soul
@@ -123,6 +127,3 @@ And the way I feel now I guess
 I'll be with you till the end
 Guess I'm on my way
 I'm mighty glad you stayed
-
-
-

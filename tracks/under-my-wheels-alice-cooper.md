@@ -1,8 +1,11 @@
 ---
+album: Killer
 artists:
 - Alice Cooper
+external_ids:
+  spotify: spotify:track:6TPMFSJFmyIohTM5El90Po
 features: []
-genres: []
+first_released_as_single: false
 key: under-my-wheels-alice-cooper
 lyrics_url: https://www.azlyrics.com/lyrics/alicecooper/undermywheels.html
 name: Under My Wheels
@@ -39,8 +42,9 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '1972-02-12'
+release_year: 1971
+runtime: 171560
 ---
-
 The telephone is ringing you got me on the run I'm driving in my car now anticipating fun
 I'm driving right up to you babe I guess that you couldn't see yeah yeah
 But you were under my wheels why don't you let me be
@@ -55,6 +59,3 @@ But you were under my wheels why don't you let me be
 Yeah yeah got you under my wheels yeah yeah I got you under my wheels
 I got you under my wheels got you got you got you got you
 Under my wheels got you under my wheels wheels wheels wheels
-
-
-

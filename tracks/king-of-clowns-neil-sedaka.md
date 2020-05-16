@@ -1,8 +1,11 @@
 ---
+album: Circulate
 artists:
 - Neil Sedaka
+external_ids:
+  spotify: spotify:track:3EgtYezrTKD2U5SJb9ng9S
 features: []
-genres: []
+first_released_as_single: false
 key: king-of-clowns-neil-sedaka
 lyrics_url: https://www.azlyrics.com/lyrics/neilsedaka/kingofclowns.html
 name: King Of Clowns
@@ -43,8 +46,9 @@ rankings:
   rank: 53
   ranking_list: Billboard Hot 100
   start_date: '1962-05-26'
+release_year: 1960
+runtime: 162440
 ---
-
 Here I come
 The king of clowns
 As I hide behind this smile and paint the town
@@ -88,6 +92,3 @@ Here comes the king of clowns
 Here comes the king of clowns
 
 Here comes the king of clowns
-
-
-

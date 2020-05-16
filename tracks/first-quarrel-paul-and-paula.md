@@ -1,8 +1,11 @@
 ---
+album: Hey Paul - The Very Best Of
 artists:
 - Paul and Paula
+external_ids:
+  spotify: spotify:track:0Tz8molbVbQnUawtdn4u32
 features: []
-genres: []
+first_released_as_single: false
 key: first-quarrel-paul-and-paula
 lyrics_url: https://genius.com/Paul-and-paula-first-quarrel-lyrics
 name: First Quarrel
@@ -39,6 +42,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1963-07-20'
+release_year: 1963
+runtime: 155040
 ---
 Both We had our first quarrel today
 Paula I threw your picture away

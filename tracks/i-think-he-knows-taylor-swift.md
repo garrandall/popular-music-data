@@ -1,8 +1,11 @@
 ---
+album: Lover
 artists:
 - Taylor Swift
+external_ids:
+  spotify: spotify:track:2YWtcWi3a83pdEg3Gif4Pd
 features: []
-genres: []
+first_released_as_single: false
 key: i-think-he-knows-taylor-swift
 lyrics_url: https://genius.com/Taylor-swift-i-think-he-knows-lyrics
 name: I Think He Knows
@@ -11,6 +14,8 @@ rankings:
   rank: 51
   ranking_list: Billboard Hot 100
   start_date: '2019-09-07'
+release_year: 2019
+runtime: 173386
 ---
 I think he knows
 His footprints on the sidewalk

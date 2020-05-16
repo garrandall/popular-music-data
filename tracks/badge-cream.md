@@ -1,8 +1,11 @@
 ---
+album: Goodbye
 artists:
 - Cream
+external_ids:
+  spotify: spotify:track:08xsXR637CEqbxJmpFcuSA
 features: []
-genres: []
+first_released_as_single: false
 key: badge-cream
 lyrics_url: https://www.azlyrics.com/lyrics/cream/badge.html
 name: Badge
@@ -27,8 +30,9 @@ rankings:
   rank: 60
   ranking_list: Billboard Hot 100
   start_date: '1969-05-03'
+release_year: 1969
+runtime: 164706
 ---
-
 Thinkin' 'bout the times you drove in my car.
 Thinkin' that I might have drove you too far.
 And I'm thinkin' 'bout the love that you laid on my table.
@@ -49,6 +53,3 @@ Ah Ah Ah, yeh yeh yeh
 Talkin' 'bout a girl that looks quite like you.
 She didn't have the time to wait in the queue.
 She cried away her life since she fell off the cradle.
-
-
-

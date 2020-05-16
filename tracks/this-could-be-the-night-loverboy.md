@@ -1,8 +1,11 @@
 ---
+album: Lovin' Every Minute Of It
 artists:
 - Loverboy
+external_ids:
+  spotify: spotify:track:2Qt6mXHybGb8fitLAA97HT
 features: []
-genres: []
+first_released_as_single: false
 key: this-could-be-the-night-loverboy
 lyrics_url: https://www.azlyrics.com/lyrics/loverboy/thiscouldbethenight.html
 name: This Could Be The Night
@@ -79,8 +82,9 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1986-05-17'
+release_year: 1985
+runtime: 298440
 ---
-
 Ask any girl
 In this lonely world 
 Ask any girl
@@ -134,6 +138,3 @@ This could be the night
 Oh, to end all nights 
 
 To end all nights
-
-
-

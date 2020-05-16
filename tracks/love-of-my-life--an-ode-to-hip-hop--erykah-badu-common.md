@@ -1,9 +1,12 @@
 ---
+album: Brown Sugar
 artists:
 - Erykah Badu
+external_ids:
+  spotify: spotify:track:5zQPY8KQNzanpGjeoNvTnr
 features:
 - Common
-genres: []
+first_released_as_single: false
 key: love-of-my-life--an-ode-to-hip-hop--erykah-badu-common
 lyrics_url: https://genius.com/Erykah-badu-love-of-my-life-an-ode-to-hip-hop-lyrics
 name: Love Of My Life (An Ode To Hip Hop)
@@ -116,6 +119,8 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '2003-03-08'
+release_year: 2002
+runtime: 338866
 ---
 Right here what we gone do is go back
 Way

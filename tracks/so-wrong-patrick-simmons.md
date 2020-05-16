@@ -1,8 +1,11 @@
 ---
+album: Arcade
 artists:
 - Patrick Simmons
+external_ids:
+  spotify: spotify:track:0Hxqin6Aq1lnnjRRXML8T1
 features: []
-genres: []
+first_released_as_single: false
 key: so-wrong-patrick-simmons
 lyrics_url: https://genius.com/Patrick-simmons-so-wrong-lyrics
 name: So Wrong
@@ -59,6 +62,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1983-06-11'
+release_year: 1983
+runtime: 200413
 ---
 They were young
 Living for the moment

@@ -1,8 +1,11 @@
 ---
+album: IV
 artists:
 - Cypress Hill
+external_ids:
+  spotify: spotify:track:4rgtUNM0q1TR10qkyMEo3B
 features: []
-genres: []
+first_released_as_single: true
 key: dr-greenthumb-cypress-hill
 lyrics_url: https://www.azlyrics.com/lyrics/cypresshill/drgreenthumb.html
 name: Dr Greenthumb
@@ -51,9 +54,9 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1998-11-28'
+release_year: 1998
+runtime: 188826
 ---
-
-
 Hello, I'm Dr. Greenthumb
 Have you ever had the problem of running out of weed
 and just can't find some anywhere?
@@ -161,6 +164,3 @@ Doctor, your Bulova plant needs special tending to
 Doctor, we need more oxygen we need more CO2
 Doctor, Dr. Greenthumb you're needed
 Doctor, dahyahahahhh... Doctor
-
-
-

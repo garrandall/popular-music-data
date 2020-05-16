@@ -1,8 +1,11 @@
 ---
+album: Night Train
 artists:
 - Jason Aldean
+external_ids:
+  spotify: spotify:track:5ytc87gcx6dZ4nWRNykinV
 features: []
-genres: []
+first_released_as_single: false
 key: night-train-jason-aldean
 lyrics_url: https://www.azlyrics.com/lyrics/jasonaldean/nighttrain.html
 name: Night Train
@@ -87,8 +90,9 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '2013-11-30'
+release_year: 2012
+runtime: 232306
 ---
-
 I've been thinkin' 'bout you all day baby
 Waitin' on that sun to go down
 Whatcha say I pick you up after work
@@ -136,6 +140,3 @@ Sound of steel and old boxcars
 The thought of you is driving me insane
 Come on baby, let's go listen to the night train
 Let's go listen to the night train
-
-
-

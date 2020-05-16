@@ -1,8 +1,11 @@
 ---
+album: Sweet Dreams
 artists:
 - Don Gibson
+external_ids:
+  spotify: spotify:track:0AlyARiNtivxUeENDUYUKF
 features: []
-genres: []
+first_released_as_single: false
 key: sweet-dreams-don-gibson
 lyrics_url: https://genius.com/Don-gibson-sweet-dreams-lyrics
 name: Sweet Dreams
@@ -23,6 +26,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1960-12-05'
+release_year: 1960
+runtime: 114013
 ---
 Sweet dreams of you
 Every night I go through

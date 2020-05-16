@@ -1,8 +1,11 @@
 ---
+album: 50 Years - Don't Stop
 artists:
 - Fleetwood Mac
+external_ids:
+  spotify: spotify:track:0TevBnk5pL8DEqKixmcgt9
 features: []
-genres: []
+first_released_as_single: false
 key: as-long-as-you-follow-fleetwood-mac
 lyrics_url: https://www.azlyrics.com/lyrics/fleetwoodmac/aslongasyoufollow.html
 name: As Long As You Follow
@@ -63,8 +66,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1989-03-04'
+release_year: 1988
+runtime: 258053
 ---
-
 I've been searching
 For a pot of gold
 Like the kind you find
@@ -120,6 +124,3 @@ As long as you follow
 As long as you follow
 As long as you follow
 As long as you follow
-
-
-

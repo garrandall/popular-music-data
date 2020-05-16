@@ -1,8 +1,11 @@
 ---
+album: Waterloo
 artists:
 - ABBA
+external_ids:
+  spotify: spotify:track:2KgGzC2tP6DYbatyvdap3O
 features: []
-genres: []
+first_released_as_single: false
 key: honey-honey-abba
 lyrics_url: https://www.azlyrics.com/lyrics/abba/honeyhoney.html
 name: Honey Honey
@@ -47,8 +50,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1974-11-16'
+release_year: 1974
+runtime: 176466
 ---
-
 Honey honey, how you thrill me
 Ah-hah, honey honey
 Honey honey, nearly kill me
@@ -106,6 +110,3 @@ You're a love machine
 Oh you make me dizzy
 
 Honey honey, how you thrill me...
-
-
-

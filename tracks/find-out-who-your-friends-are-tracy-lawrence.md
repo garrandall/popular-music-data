@@ -1,8 +1,11 @@
 ---
+album: For the Love
 artists:
 - Tracy Lawrence
+external_ids:
+  spotify: spotify:track:73njvNJmgXA180vTPkA16C
 features: []
-genres: []
+first_released_as_single: false
 key: find-out-who-your-friends-are-tracy-lawrence
 lyrics_url: https://genius.com/Tracy-lawrence-find-out-who-your-friends-are-lyrics
 name: Find Out Who Your Friends Are
@@ -87,6 +90,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2007-09-01'
+release_year: 2007
+runtime: 227840
 ---
 Run your car off the side of the road
 Get stuck in a ditch way out in the middle of nowhere

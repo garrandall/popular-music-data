@@ -1,8 +1,11 @@
 ---
+album: Aretha Now
 artists:
 - Aretha Franklin
+external_ids:
+  spotify: spotify:track:3NfxSdJnVdon1axzloJgba
 features: []
-genres: []
+first_released_as_single: false
 key: i-say-a-little-prayer-aretha-franklin
 lyrics_url: https://genius.com/Aretha-franklin-i-say-a-little-prayer-lyrics
 name: I Say A Little Prayer
@@ -51,6 +54,8 @@ rankings:
   rank: 26
   ranking_list: Billboard Hot 100
   start_date: '1968-10-26'
+release_year: 1968
+runtime: 216773
 ---
 (I say a little prayer for you)
 The moment I wake up

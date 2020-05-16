@@ -1,8 +1,11 @@
 ---
+album: The Dream Of The Blue Turtles
 artists:
 - Sting
+external_ids:
+  spotify: spotify:track:0MBYW7CcBJmsY3HTP05VQg
 features: []
-genres: []
+first_released_as_single: false
 key: russians-sting
 lyrics_url: https://www.azlyrics.com/lyrics/sting/russians.html
 name: Russians
@@ -59,9 +62,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1986-04-12'
+release_year: 1985
+runtime: 238266
 ---
-
-
 ...Ð¸ Ð¿ÑÐµÐ¼ÑÐµÑ Ð¾ÑÐ°ÑÐ°ÐºÑÐµÑÐ¸Ð·Ð¾Ð²Ð°Ð»Ð° Ð¿ÐµÑÐµÐ³Ð¾Ð²Ð¾ÑÑ Ñ Ð³Ð»Ð°Ð²Ð¾Ð¹ Ð´ÐµÐ»ÐµÐ³Ð°ÑÐ¸Ð¸ ÐÐ¸ÑÐ°Ð¸Ð»Ð° Ð¡ÐµÑÐ³ÐµÐµÐ²Ð¸ÑÐ° ÐÐ¾ÑÐ±Ð°ÑÑÐ²Ð° ÐºÐ°Ðº ÐºÐ¾Ð½ÑÑÑÑÐºÑÐ¸Ð²Ð½ÑÐ¹, ÑÐµÐ°Ð»Ð¸ÑÑÐ¸ÑÐµÑÐºÐ¸Ð¹, ÑÐ¸Ð¿Ð¾Ð²Ð¾Ð¹ Ð¸ Ð´ÑÑÐ¶ÐµÑÑÐ²ÐµÐ½Ð½ÑÐ¹ Ð¾Ð±Ð¼ÐµÐ½... ...Ð½Ð¾ Ð¿Ð¾ÑÐ»Ð°Ð½Ð¸Ðµ Ð·Ð°Ð»Ð¾Ð¶ÐµÐ½Ð¾...
 
 In Europe and America there's a growing feeling of hysteria
@@ -94,6 +97,3 @@ We share the same biology
 Regardless of ideology
 What might save us, me and you
 Is if the Russians love their children too
-
-
-

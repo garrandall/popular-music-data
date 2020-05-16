@@ -1,9 +1,12 @@
 ---
+album: Pink Friday ... Roman Reloaded
 artists:
 - Nicki Minaj
+external_ids:
+  spotify: spotify:track:13LfHo9gqlczML1VJAlqPh
 features:
 - Lil Wayne
-genres: []
+first_released_as_single: false
 key: roman-reloaded-nicki-minaj-lil-wayne
 lyrics_url: https://www.azlyrics.com/lyrics/nickiminaj/romanreloaded.html
 name: Roman Reloaded
@@ -12,9 +15,9 @@ rankings:
   rank: 70
   ranking_list: Billboard Hot 100
   start_date: '2012-03-17'
+release_year: 2011
+runtime: 196786
 ---
-
-
 Bang, my shit bang, b-b-bang, bang
 B-b-bang, my shit bang, b-b-bang, bang
 
@@ -94,7 +97,7 @@ That mean I'm a high roller
 My ex wanna work it out. Bitch, try yoga
 Two hoes in the bed. Tell 'em hoes slide over
 Excuse my French: two bitches and moi
-That's a Nicki MÃ©nage Ã  trois
+That's a Nicki Ménage Ã  trois
 Ha
 Tunechi
 
@@ -127,6 +130,3 @@ We bang, bang-bang
 Bang, b-b-b-bang, bang
 Bang, b-b-b-bang, bang
 Blood gang
-
-
-

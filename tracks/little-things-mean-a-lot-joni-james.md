@@ -1,8 +1,11 @@
 ---
+album: The Best of Joni James
 artists:
 - Joni James
+external_ids:
+  spotify: spotify:track:5opP1p1Ulc1Q6Sx5pZ3eYy
 features: []
-genres: []
+first_released_as_single: false
 key: little-things-mean-a-lot-joni-james
 lyrics_url: https://genius.com/Joni-james-little-things-mean-a-lot-lyrics
 name: Little Things Mean A Lot
@@ -43,6 +46,8 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1960-02-22'
+release_year: 1959
+runtime: 152360
 ---
 Blow me a kiss from across the room
 Say I look nice when I'm not

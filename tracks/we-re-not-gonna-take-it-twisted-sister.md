@@ -1,8 +1,11 @@
 ---
+album: Stay Hungry
 artists:
 - Twisted Sister
+external_ids:
+  spotify: spotify:track:1hlveB9M6ijHZRbzZ2teyh
 features: []
-genres: []
+first_released_as_single: false
 key: we-re-not-gonna-take-it-twisted-sister
 lyrics_url: https://genius.com/Twisted-sister-were-not-gonna-take-it-lyrics
 name: We're Not Gonna Take It
@@ -67,6 +70,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1984-11-03'
+release_year: 1984
+runtime: 219666
 ---
 Oh, we're not gonna take it
 No, we ain't gonna take it

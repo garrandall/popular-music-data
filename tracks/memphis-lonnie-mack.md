@@ -1,8 +1,11 @@
 ---
+album: Strike Like Lightning
 artists:
 - Lonnie Mack
+external_ids:
+  spotify: spotify:track:7mjeK9z5vPnnAiyHixUUdT
 features: []
-genres: []
+first_released_as_single: false
 key: memphis-lonnie-mack
 name: Memphis
 rankings:
@@ -58,5 +61,7 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1963-08-31'
+release_year: 1963
+runtime: 204560
 ---
 

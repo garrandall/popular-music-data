@@ -1,8 +1,11 @@
 ---
+album: Joe Public
 artists:
 - Joe Public
+external_ids:
+  spotify: spotify:track:6yp5IPPZnOYe1DO6ZBKtu1
 features: []
-genres: []
+first_released_as_single: true
 key: live-and-learn-joe-public
 lyrics_url: https://genius.com/Joe-public-live-and-learn-lyrics
 name: Live And Learn
@@ -91,6 +94,8 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '1992-08-01'
+release_year: 1992
+runtime: 406240
 ---
 You've got to live and learn
 You've got to live and learn

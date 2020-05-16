@@ -1,8 +1,11 @@
 ---
+album: Best Of Herman's Hermits
 artists:
 - Herman's Hermits
+external_ids:
+  spotify: spotify:track:74a5tu4qTDIEDG8H8HNbO3
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-henry-viii-i-am-herman-s-hermits
 lyrics_url: https://www.musixmatch.com/lyrics/Herman-s-Hermits-2/I-m-Henry-VIII-I-Am
 name: I'm Henry VIII I Am
@@ -47,6 +50,8 @@ rankings:
   rank: 43
   ranking_list: Billboard Hot 100
   start_date: '1965-09-04'
+release_year: 1965
+runtime: 103385
 ---
 I'm Henry the eighth, I am
 Henry the eighth, I am, I am

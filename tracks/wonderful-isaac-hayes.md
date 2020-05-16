@@ -1,8 +1,11 @@
 ---
+album: Isaac Hayes Sings For Lovers
 artists:
 - Isaac Hayes
+external_ids:
+  spotify: spotify:track:22Y5mdteXnKvtRiFVIAoe9
 features: []
-genres: []
+first_released_as_single: false
 key: wonderful-isaac-hayes
 lyrics_url: https://www.azlyrics.com/lyrics/isaachayes/wonderful.html
 name: Wonderful
@@ -39,8 +42,9 @@ rankings:
   rank: 72
   ranking_list: Billboard Hot 100
   start_date: '1974-06-22'
+release_year: 1974
+runtime: 217666
 ---
-
 It's wonderful to be in love with you
 It's so nice to know that you love me too
 
@@ -77,6 +81,3 @@ Just as long as I'm your man
 
 It's wonderful to be in love with you, yes it is
 I said that it's so nice to know that you love me too
-
-
-

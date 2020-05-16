@@ -1,8 +1,11 @@
 ---
+album: Lucy Pearl
 artists:
 - Lucy Pearl
+external_ids:
+  spotify: spotify:track:1TwVcKR6JojvPwBGbWZT36
 features: []
-genres: []
+first_released_as_single: false
 key: dance-tonight-lucy-pearl
 lyrics_url: https://genius.com/Lucy-pearl-dance-tonight-lyrics
 name: Dance Tonight
@@ -83,6 +86,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2000-09-23'
+release_year: 2000
+runtime: 221280
 ---
 I wanna dance tonight (Dance tonight)
 I wanna toast tonight (Toast tonight)

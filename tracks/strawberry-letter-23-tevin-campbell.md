@@ -1,8 +1,11 @@
 ---
+album: T.E.V.I.N.
 artists:
 - Tevin Campbell
+external_ids:
+  spotify: spotify:track:2U96QtBPJE158fZ74GIqQX
 features: []
-genres: []
+first_released_as_single: false
 key: strawberry-letter-23-tevin-campbell
 lyrics_url: https://www.azlyrics.com/lyrics/tevincampbell/strawberryletter23.html
 name: Strawberry Letter 23
@@ -43,8 +46,9 @@ rankings:
   rank: 87
   ranking_list: Billboard Hot 100
   start_date: '1992-08-01'
+release_year: 1991
+runtime: 196880
 ---
-
 Hello my love
 I heard a kiss from you
 Red magic satin playing near, too
@@ -101,6 +105,3 @@ The music plays I sit in for a few (ah, ah, ah, ah, ah)
 (Oh, oh, oh, oh, oh)
 (Oh, oh, oh, oh, oh)
 (Oh, oh, oh, oh, oh)
-
-
-

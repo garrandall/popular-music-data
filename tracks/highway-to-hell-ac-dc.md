@@ -1,8 +1,11 @@
 ---
+album: Highway to Hell
 artists:
 - AC/DC
+external_ids:
+  spotify: spotify:track:2zYzyRzz6pRmhPzyfMEC8s
 features: []
-genres: []
+first_released_as_single: false
 key: highway-to-hell-ac-dc
 lyrics_url: https://genius.com/Ac-dc-highway-to-hell-lyrics
 name: Highway To Hell
@@ -47,6 +50,8 @@ rankings:
   rank: 73
   ranking_list: Billboard Hot 100
   start_date: '1979-12-15'
+release_year: 1979
+runtime: 208400
 ---
 Living easy, living free
 Season ticket on a one way ride

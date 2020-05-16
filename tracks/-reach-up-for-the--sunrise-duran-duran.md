@@ -1,8 +1,11 @@
 ---
+album: A Diamond In The Mind (Live At The MEN Arena,Manchester, England / 2011)
 artists:
 - Duran Duran
+external_ids:
+  spotify: spotify:track:1UiRhN1y1ML67E7oTjKtlZ
 features: []
-genres: []
+first_released_as_single: false
 key: -reach-up-for-the--sunrise-duran-duran
 lyrics_url: https://www.azlyrics.com/lyrics/duranduran/reachupforthesunrise.html
 name: (Reach Up For The) Sunrise
@@ -27,8 +30,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2004-12-04'
+release_year: 2004
+runtime: 334586
 ---
-
 Now the time has come
 The music's between us
 Though the night seems young
@@ -81,6 +85,3 @@ Reach up for the sunrise
 Put your hands into the big sky
 You can touch the sunrise
 Feel the new day enter your life
-
-
-

@@ -1,9 +1,12 @@
 ---
+album: SremmLife 2
 artists:
 - Rae Sremmurd
+external_ids:
+  spotify: spotify:track:6fujklziTHa8uoM5OQSfIo
 features:
 - Gucci Mane
-genres: []
+first_released_as_single: false
 key: black-beatles-rae-sremmurd-gucci-mane
 lyrics_url: https://www.azlyrics.com/lyrics/raesremmurd/blackbeatles.html
 name: Black Beatles
@@ -116,9 +119,9 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '2017-04-01'
+release_year: 2016
+runtime: 291893
 ---
-
-
 Black Beatles in the city be back immediately to confiscate the moneys
 Rae Sremm, Guwop, Mike Will!
 Sent flowers but you said you didn't receive them.
@@ -205,6 +208,3 @@ Frat girls still tryna get even
 Haters mad for whatever reason
 Smoke in the air, binge drinkin'
 They lose it when the DJ drops the needle
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Styx II
 artists:
 - Styx
+external_ids:
+  spotify: spotify:track:2o0m5LpTv6sMOFL1uCyqcc
 features: []
-genres: []
+first_released_as_single: false
 key: you-need-love-styx
 lyrics_url: https://genius.com/Styx-you-need-love-lyrics
 name: You Need Love
@@ -15,6 +18,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1975-05-24'
+release_year: 1973
+runtime: 225346
 ---
 Bah bah bah bah bya ba ba dada
 Bah bah bah bah bya ba ba dada

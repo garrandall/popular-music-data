@@ -1,8 +1,11 @@
 ---
+album: 12 Inches & More
 artists:
 - Madleen Kane
+external_ids:
+  spotify: spotify:track:5voyo3rpCN1mtAa930dQaW
 features: []
-genres: []
+first_released_as_single: false
 key: you-can-madleen-kane
 lyrics_url: https://genius.com/Madleen-kane-you-can-lyrics
 name: You Can
@@ -27,6 +30,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1982-03-06'
+release_year: 1982
+runtime: 418333
 ---
 If you wanna love me
 Baby, then just love me

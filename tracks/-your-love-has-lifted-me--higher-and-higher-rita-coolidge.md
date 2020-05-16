@@ -1,8 +1,11 @@
 ---
+album: Anytime... Anywhere
 artists:
 - Rita Coolidge
+external_ids:
+  spotify: spotify:track:39iKJpLPhsDTOzH2lXliWF
 features: []
-genres: []
+first_released_as_single: false
 key: -your-love-has-lifted-me--higher-and-higher-rita-coolidge
 lyrics_url: https://www.azlyrics.com/lyrics/ritacoolidge/yourlovehasliftedmehigherandhigher.html
 name: (your Love Has Lifted Me) Higher And Higher
@@ -115,8 +118,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1977-11-05'
+release_year: 1977
+runtime: 241720
 ---
-
 Your love is liftin' me higher
 Than I've ever been lifted before
 
@@ -149,6 +153,3 @@ Your love is liftin' me higher
 Than I've ever been lifted before
 So keep it up, quench my desire
 And I'll be at your side forevermore
-
-
-

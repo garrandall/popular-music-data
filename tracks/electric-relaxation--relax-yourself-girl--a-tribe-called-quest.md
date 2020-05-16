@@ -1,8 +1,11 @@
 ---
+album: Midnight Marauders
 artists:
 - A Tribe Called Quest
+external_ids:
+  spotify: spotify:track:32WDVNZXIAuu7EqncTTKjH
 features: []
-genres: []
+first_released_as_single: false
 key: electric-relaxation--relax-yourself-girl--a-tribe-called-quest
 lyrics_url: https://genius.com/A-tribe-called-quest-electric-relaxation-lyrics
 name: Electric Relaxation (Relax Yourself Girl)
@@ -43,6 +46,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1994-05-14'
+release_year: 1993
+runtime: 243800
 ---
 Relax yourself girl, please set-tle down
 Relax yourself girl, please set-tle down

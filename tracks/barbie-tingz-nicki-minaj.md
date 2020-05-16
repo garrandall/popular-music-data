@@ -1,8 +1,11 @@
 ---
+album: Barbie Tingz
 artists:
 - Nicki Minaj
+external_ids:
+  spotify: spotify:track:0TXaCOWV4goHywejejdEWh
 features: []
-genres: []
+first_released_as_single: true
 key: barbie-tingz-nicki-minaj
 lyrics_url: https://www.azlyrics.com/lyrics/nickiminaj/barbietingz.html
 name: Barbie Tingz
@@ -23,8 +26,9 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '2018-05-19'
+release_year: 2018
+runtime: 191699
 ---
-
 Dem-dem-dem-dem dem-dem
 Dem-dem-dem-dem
 Dem-dem-dem-dem dem-dem
@@ -110,6 +114,3 @@ I'ma put you in the box where my dollies been
 Chop it up and the next stop garbage bin
 'Cause you hoes too old to be gossipin'
 I'm just tryna find out when the new Porsche come in
-
-
-

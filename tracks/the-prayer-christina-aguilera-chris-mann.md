@@ -1,9 +1,12 @@
 ---
+album: The Prayer (The Voice Performance)
 artists:
 - Christina Aguilera
 - Chris Mann
+external_ids:
+  spotify: spotify:track:7eEYuH17fOI941ktLbEzOD
 features: []
-genres: []
+first_released_as_single: true
 key: the-prayer-christina-aguilera-chris-mann
 lyrics_url: https://www.musixmatch.com/lyrics/Christina-Aguilera-Chris-Mann/The-Prayer-The-Voice-Performance
 name: The Prayer
@@ -12,6 +15,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '2012-05-26'
+release_year: 2012
+runtime: 188560
 ---
 I pray you'll be our eyes, and watch us where we go
 And help us to be wise in times when we don't know

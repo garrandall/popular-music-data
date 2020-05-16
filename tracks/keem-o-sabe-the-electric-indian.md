@@ -1,8 +1,11 @@
 ---
+album: Compilation CD
 artists:
 - The Electric Indian
+external_ids:
+  spotify: spotify:track:5IV5mqmSj1PSg57dE0twiH
 features: []
-genres: []
+first_released_as_single: false
 key: keem-o-sabe-the-electric-indian
 name: Keem-O-Sabe
 rankings:
@@ -50,5 +53,7 @@ rankings:
   rank: 23
   ranking_list: Billboard Hot 100
   start_date: '1969-10-11'
+release_year: 1969
+runtime: 128293
 ---
 

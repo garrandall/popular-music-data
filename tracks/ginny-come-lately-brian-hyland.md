@@ -1,8 +1,11 @@
 ---
+album: Chronology
 artists:
 - Brian Hyland
+external_ids:
+  spotify: spotify:track:5UF2d8uk5JHmRsBfLHvYdo
 features: []
-genres: []
+first_released_as_single: false
 key: ginny-come-lately-brian-hyland
 lyrics_url: https://genius.com/Brian-hyland-ginny-come-lately-lyrics
 name: Ginny Come Lately
@@ -51,6 +54,8 @@ rankings:
   rank: 52
   ranking_list: Billboard Hot 100
   start_date: '1962-05-19'
+release_year: 1962
+runtime: 167906
 ---
 I only met you just a couple of days ago
 I only met you and I want your lovin' so

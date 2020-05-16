@@ -1,8 +1,11 @@
 ---
+album: Lap Of Luxury
 artists:
 - Cheap Trick
+external_ids:
+  spotify: spotify:track:4V3aY13j3FUamYQ16TpWyO
 features: []
-genres: []
+first_released_as_single: false
 key: ghost-town-cheap-trick
 lyrics_url: https://www.azlyrics.com/lyrics/cheaptrick/ghosttown.html
 name: Ghost Town
@@ -63,8 +66,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1989-02-04'
+release_year: 1988
+runtime: 253373
 ---
-
 Well the streets are all crowded.
 Lots of people around.
 And there's music playing,
@@ -120,6 +124,3 @@ It's like like a ghost town
 Til you come, till you come back to me
 Oo oo oo
 Til you come, till you come back to me
-
-
-

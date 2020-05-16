@@ -1,8 +1,11 @@
 ---
+album: Echoes, Silence, Patience & Grace
 artists:
 - Foo Fighters
+external_ids:
+  spotify: spotify:track:0bORa4VpL8NzyMXEI6UFGK
 features: []
-genres: []
+first_released_as_single: false
 key: long-road-to-ruin-foo-fighters
 lyrics_url: https://www.azlyrics.com/lyrics/foofighters/longroadtoruin.html
 name: Long Road To Ruin
@@ -55,8 +58,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2008-04-19'
+release_year: 2007
+runtime: 224880
 ---
-
 Here now don't make a sound
 Say have you heard the news today?
 One flag was taken down
@@ -118,6 +122,3 @@ No tomorrow, no dead ends
 Long road to ruin there in your eyes
 Under the cold streetlights
 No tomorrow, no dead end in sight
-
-
-

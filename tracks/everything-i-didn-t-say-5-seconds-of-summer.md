@@ -1,8 +1,11 @@
 ---
+album: LIVESOS
 artists:
 - 5 Seconds Of Summer
+external_ids:
+  spotify: spotify:track:5ABXmRyQTVc0ZaIg3P54y6
 features: []
-genres: []
+first_released_as_single: false
 key: everything-i-didn-t-say-5-seconds-of-summer
 lyrics_url: https://genius.com/5-seconds-of-summer-everything-i-didnt-say-lyrics
 name: Everything I Didn't Say
@@ -11,6 +14,8 @@ rankings:
   rank: 24
   ranking_list: Billboard Hot 100
   start_date: '2014-08-02'
+release_year: 2014
+runtime: 237449
 ---
 Oh, oh, oh, oh, oh, oh
 Oh, oh, oh, oh, oh

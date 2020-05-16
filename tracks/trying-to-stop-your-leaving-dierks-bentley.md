@@ -1,8 +1,11 @@
 ---
+album: Long Trip Alone
 artists:
 - Dierks Bentley
+external_ids:
+  spotify: spotify:track:7zOtXBS23pOhmef9hv6CKk
 features: []
-genres: []
+first_released_as_single: false
 key: trying-to-stop-your-leaving-dierks-bentley
 lyrics_url: https://www.musixmatch.com/lyrics/Dierks-Bentley/Trying-to-Stop-Your-Leaving
 name: Trying To Stop Your Leaving
@@ -67,6 +70,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '2008-07-26'
+release_year: 2006
+runtime: 218146
 ---
 Got a guitar
 Got a guitar on my back

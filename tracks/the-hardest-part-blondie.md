@@ -1,8 +1,11 @@
 ---
+album: Eat To The Beat
 artists:
 - Blondie
+external_ids:
+  spotify: spotify:track:03SV49CTiBv7llc0s0FqhV
 features: []
-genres: []
+first_released_as_single: false
 key: the-hardest-part-blondie
 lyrics_url: https://www.azlyrics.com/lyrics/blondie/thehardestpart.html
 name: The Hardest Part
@@ -19,8 +22,9 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1980-02-16'
+release_year: 1979
+runtime: 222600
 ---
-
 Twenty five tons of hardened steel rolls on no ordinary wheel
 Inside the armoured car ride two big armed guards
 In a bullet-proof vest, shatterproof glass, overdrive, we're gonna pass
@@ -45,6 +49,3 @@ The hardest part of the armoured guard
 Big man of steel behind the steering wheel
 
 Twenty five tons of hardened steel deliver the big money deal
-
-
-

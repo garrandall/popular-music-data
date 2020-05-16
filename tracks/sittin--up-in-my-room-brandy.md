@@ -1,8 +1,11 @@
 ---
+album: Waiting To Exhale
 artists:
 - Brandy
+external_ids:
+  spotify: spotify:track:4330XmgVWlx98Y3Naswycg
 features: []
-genres: []
+first_released_as_single: false
 key: sittin--up-in-my-room-brandy
 lyrics_url: https://www.azlyrics.com/lyrics/brandy/sittinupinmyroom.html
 name: Sittin' Up In My Room
@@ -139,9 +142,9 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1996-08-10'
+release_year: 1995
+runtime: 292066
 ---
-
-
 Seems like ever since the first day we met
 There is no one else I think of more than you
 Can't seem to forget,
@@ -180,4 +183,3 @@ I feel trembles in my heart
 I have but one concern,how can I get with you
 Til my day comes, here's what I'm gonna
 do
-

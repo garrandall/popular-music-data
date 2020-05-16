@@ -1,8 +1,11 @@
 ---
+album: Nicolette
 artists:
 - Nicolette Larson
+external_ids:
+  spotify: spotify:track:0wtJdaMsnWFcCGaKKm675a
 features: []
-genres: []
+first_released_as_single: false
 key: rhumba-girl-nicolette-larson
 lyrics_url: https://genius.com/Nicolette-larson-rhumba-girl-lyrics
 name: Rhumba Girl
@@ -43,6 +46,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1979-05-26'
+release_year: 1978
+runtime: 232200
 ---
 Well I'm the same old girl that I used to be
 I haven't changed at all

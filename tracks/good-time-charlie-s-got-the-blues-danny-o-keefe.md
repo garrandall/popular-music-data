@@ -1,8 +1,11 @@
 ---
+album: O'Keefe
 artists:
 - Danny O'Keefe
+external_ids:
+  spotify: spotify:track:2EuHw21uxVU8I9kEUD3O9J
 features: []
-genres: []
+first_released_as_single: false
 key: good-time-charlie-s-got-the-blues-danny-o-keefe
 lyrics_url: https://genius.com/Danny-okeefe-good-time-charlies-got-the-blues-lyrics
 name: Good Time Charlie's Got The Blues
@@ -59,6 +62,8 @@ rankings:
   rank: 31
   ranking_list: Billboard Hot 100
   start_date: '1972-11-25'
+release_year: 1972
+runtime: 180080
 ---
 Everybody's goin' away
 Said they're movin' to LA

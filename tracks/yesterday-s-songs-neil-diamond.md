@@ -1,8 +1,11 @@
 ---
+album: On The Way To The Sky
 artists:
 - Neil Diamond
+external_ids:
+  spotify: spotify:track:11pJkEXM1lnmC9d3KLgH6H
 features: []
-genres: []
+first_released_as_single: false
 key: yesterday-s-songs-neil-diamond
 lyrics_url: https://www.azlyrics.com/lyrics/neildiamond/yesterdayssongs.html
 name: Yesterday's Songs
@@ -67,8 +70,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1982-02-13'
+release_year: 1981
+runtime: 169000
 ---
-
 Saying "I love you"
 Just sayin' "I love you"
 
@@ -108,6 +112,3 @@ Like sayin' "I love you"
 Just sayin' "I love you"
 Sayin' "I love you"
 Like sayin' "I love you"
-
-
-

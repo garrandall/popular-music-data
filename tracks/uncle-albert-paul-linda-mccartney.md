@@ -1,9 +1,12 @@
 ---
+album: Ram (Archive Collection)
 artists:
 - Paul
 - Linda McCartney
+external_ids:
+  spotify: spotify:track:5SwgE4wA0P7f6AEz2UQMB2
 features: []
-genres: []
+first_released_as_single: false
 key: uncle-albert-paul-linda-mccartney
 lyrics_url: https://genius.com/Paul-mccartney-uncle-albert-admiral-halsey-lyrics
 name: Uncle Albert
@@ -60,6 +63,8 @@ rankings:
   rank: 26
   ranking_list: Billboard Hot 100
   start_date: '1971-11-06'
+release_year: 1971
+runtime: 295146
 ---
 We're so sorry, Uncle Albert
 We're so sorry if we caused you any pain

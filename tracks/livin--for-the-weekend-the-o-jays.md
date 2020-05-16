@@ -1,8 +1,11 @@
 ---
+album: Family Reunion
 artists:
 - The O'Jays
+external_ids:
+  spotify: spotify:track:3oj8Ptdt3Nwercld0CCEhp
 features: []
-genres: []
+first_released_as_single: false
 key: livin--for-the-weekend-the-o-jays
 lyrics_url: https://genius.com/The-ojays-livin-for-the-weekend-lyrics
 name: Livin' For The Weekend
@@ -55,6 +58,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1976-05-22'
+release_year: 1972
+runtime: 395133
 ---
 Let me just sit down and relax a minute
 Let me tell you about it

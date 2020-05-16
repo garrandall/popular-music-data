@@ -1,8 +1,11 @@
 ---
+album: No Easy Way Out
 artists:
 - Robert Tepper
+external_ids:
+  spotify: spotify:track:1BT34NbvXFm1a364i8ZxJ6
 features: []
-genres: []
+first_released_as_single: false
 key: don-t-walk-away-robert-tepper
 lyrics_url: https://genius.com/Robert-tepper-dont-walk-away-lyrics
 name: Don't Walk Away
@@ -19,6 +22,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1986-05-24'
+release_year: 1986
+runtime: 262733
 ---
 Oh yeah, oh
 

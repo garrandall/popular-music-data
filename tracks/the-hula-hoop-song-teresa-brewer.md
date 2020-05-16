@@ -1,8 +1,11 @@
 ---
+album: A Sweet Old-Fashioned Girl
 artists:
 - Teresa Brewer
+external_ids:
+  spotify: spotify:track:0t2sEjYJpzizEzZgnaXHDw
 features: []
-genres: []
+first_released_as_single: false
 key: the-hula-hoop-song-teresa-brewer
 lyrics_url: https://www.musixmatch.com/lyrics/Teresa-Brewer/The-Hula-Hoop-Song
 name: The Hula Hoop Song
@@ -27,6 +30,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1958-11-03'
+release_year: 1958
+runtime: 171533
 ---
 Hula hoop, hula hoop
 Anyone can play from three

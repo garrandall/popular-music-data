@@ -1,8 +1,11 @@
 ---
+album: Straight Outta Cashville
 artists:
 - Young Buck
+external_ids:
+  spotify: spotify:track:6Y9kdB2O0h9gq9y2vclsWT
 features: []
-genres: []
+first_released_as_single: false
 key: shorty-wanna-ride-young-buck
 lyrics_url: https://genius.com/Young-buck-shorty-wanna-ride-lyrics
 name: Shorty Wanna Ride
@@ -83,6 +86,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2005-02-19'
+release_year: 2004
+runtime: 261320
 ---
 Shorty wanna ride wit me (ride wit me)
 Shorty wanna ride wit me (ride wit me)

@@ -1,8 +1,11 @@
 ---
+album: The Life Of Pablo
 artists:
 - Kanye West
+external_ids:
+  spotify: spotify:track:66Q3fAmSX5eHamgbKa9alP
 features: []
-genres: []
+first_released_as_single: false
 key: real-friends-kanye-west
 lyrics_url: https://genius.com/Kanye-west-real-friends-lyrics
 name: Real Friends
@@ -11,6 +14,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2016-04-23'
+release_year: 2016
+runtime: 251573
 ---
 Real friends, how many of us?
 How many of us, how many jealous? Real friends

@@ -1,8 +1,11 @@
 ---
+album: WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?
 artists:
 - Billie Eilish
+external_ids:
+  spotify: spotify:track:3Fj47GNK2kUF0uaEDgXLaD
 features: []
-genres: []
+first_released_as_single: false
 key: wish-you-were-gay-billie-eilish
 lyrics_url: https://genius.com/Billie-eilish-wish-you-were-gay-lyrics
 name: Wish You Were Gay
@@ -51,6 +54,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2019-05-25'
+release_year: 2019
+runtime: 221543
 ---
 "Baby, I don't feel so good," six words you never understood
 "I'll never let you go," five words you'll never say (Aww)

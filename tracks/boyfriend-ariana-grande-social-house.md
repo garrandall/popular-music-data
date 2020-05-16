@@ -1,9 +1,12 @@
 ---
+album: NOW That's What I Call Music! Vol. 72
 artists:
 - Ariana Grande
 - Social House
+external_ids:
+  spotify: spotify:track:0Ryd8975WihbObpp5cPW1t
 features: []
-genres: []
+first_released_as_single: true
 key: boyfriend-ariana-grande-social-house
 lyrics_url: https://www.azlyrics.com/lyrics/arianagrande/boyfriend.html
 name: Boyfriend
@@ -56,9 +59,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2019-11-02'
+release_year: 2019
+runtime: 186106
 ---
-
-
 I'm a motherfuckin' train wreck
 I don't wanna be too much
 But I don't wanna miss your touch
@@ -137,6 +140,3 @@ But you ain't my boyfriend (Boyfriend)
 And I ain't your girlfriend (Girlfriend, yeah)
 But you don't want me to touch nobody else (Nobody)
 Baby, we ain't gotta tell nobody
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: I'll Be Your Everything
 artists:
 - Percy Sledge
+external_ids:
+  spotify: spotify:track:1LALkNkIVdRXnwtLRBp1W2
 features: []
-genres: []
+first_released_as_single: false
 key: i-ll-be-your-everything-percy-sledge
 lyrics_url: https://genius.com/Percy-sledge-ill-be-your-everything-lyrics
 name: I'll Be Your Everything
@@ -31,6 +34,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1974-12-21'
+release_year: 1974
+runtime: 202840
 ---
 Paroles de la chanson I'll Be Your Everything :
 You can call me when you want me, if you need a friend you got me

@@ -1,8 +1,11 @@
 ---
+album: Beg For Mercy
 artists:
 - G Unit
+external_ids:
+  spotify: spotify:track:6QdVBqkKNUqCqercvUHMkP
 features: []
-genres: []
+first_released_as_single: false
 key: stunt-101-g-unit
 lyrics_url: https://www.azlyrics.com/lyrics/gunit/stunt101.html
 name: Stunt 101
@@ -79,11 +82,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '2004-02-28'
+release_year: 2003
+runtime: 232226
 ---
-
-
-
-
 I'll teach you how to stunt
 My wrists stay rocked up
 My TV's pop up in a Maybach benz
@@ -147,4 +148,3 @@ I just pull up, get out, and get all the hoes
 They never seen door let up on a car before
 Don't be mad at me dog, that's all I know
 That's how to show these fougaisies how it's supposed to go
-

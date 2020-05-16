@@ -1,8 +1,11 @@
 ---
+album: Album
 artists:
 - Peter, Paul, and Mary
+external_ids:
+  spotify: spotify:track:7nHpusEs6QsRM2dDQVsuDo
 features: []
-genres: []
+first_released_as_single: false
 key: the-other-side-of-this-life-peter-paul-and-mary
 lyrics_url: https://www.musixmatch.com/lyrics/Peter-Paul-and-Mary-3/The-Other-Side-Of-This-Life
 name: The Other Side Of This Life
@@ -11,6 +14,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1966-09-24'
+release_year: 1966
+runtime: 183973
 ---
 Would you like to know a secret
 Just between you and me

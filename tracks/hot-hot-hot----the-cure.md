@@ -1,8 +1,11 @@
 ---
+album: Kiss Me Kiss Me Kiss Me
 artists:
 - The Cure
+external_ids:
+  spotify: spotify:track:7x8jinx6zTL74mN5cf8kq9
 features: []
-genres: []
+first_released_as_single: false
 key: hot-hot-hot----the-cure
 lyrics_url: https://genius.com/The-cure-hot-hot-hot-lyrics
 name: Hot Hot Hot!
@@ -35,6 +38,8 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1988-04-16'
+release_year: 1987
+runtime: 214240
 ---
 She may be the face I can’t forget
 

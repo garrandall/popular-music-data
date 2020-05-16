@@ -1,8 +1,11 @@
 ---
+album: Yardcore
 artists:
 - Born Jamericans
+external_ids:
+  spotify: spotify:track:2Y9iaL6hNUIUMCiaIFq0ox
 features: []
-genres: []
+first_released_as_single: false
 key: send-my-love-born-jamericans
 lyrics_url: https://genius.com/Born-jamericans-send-my-love-send-one-your-love-lyrics
 name: Send My Love
@@ -47,6 +50,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1998-04-11'
+release_year: 1997
+runtime: 259133
 ---
 Ah send you my love
 With a dozen roses

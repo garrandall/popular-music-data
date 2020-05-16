@@ -1,8 +1,11 @@
 ---
+album: Valotte
 artists:
 - Julian Lennon
+external_ids:
+  spotify: spotify:track:6h08x0Lv6ETSiRwMbhzj1n
 features: []
-genres: []
+first_released_as_single: false
 key: jesse-julian-lennon
 lyrics_url: https://genius.com/Julian-lennon-jesse-lyrics
 name: Jesse
@@ -31,6 +34,8 @@ rankings:
   rank: 84
   ranking_list: Billboard Hot 100
   start_date: '1985-09-07'
+release_year: 1984
+runtime: 231693
 ---
 Jesse's in a new low rider outside Frank's Drive-in
 He's there with Juanita and the gang, but nodding out again

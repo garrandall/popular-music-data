@@ -1,8 +1,11 @@
 ---
+album: Yakety Sax! The Very Best Of
 artists:
 - Boots Randolph
+external_ids:
+  spotify: spotify:track:1nGj8dPY6iV3wppAaCs77v
 features: []
-genres: []
+first_released_as_single: false
 key: hey-mr-sax-man-boots-randolph
 name: Hey Mr Sax Man
 rankings:
@@ -30,5 +33,7 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1964-05-16'
+release_year: 1964
+runtime: 142466
 ---
 

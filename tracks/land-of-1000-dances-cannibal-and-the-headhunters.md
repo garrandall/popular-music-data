@@ -1,8 +1,11 @@
 ---
+album: Land of 1000 Dances
 artists:
 - Cannibal And The Headhunters
+external_ids:
+  spotify: spotify:track:4V671oKOcpCqAd431DJQ2H
 features: []
-genres: []
+first_released_as_single: false
 key: land-of-1000-dances-cannibal-and-the-headhunters
 lyrics_url: https://genius.com/Cannibal-and-the-headhunters-land-of-1000-dances-lyrics
 name: Land Of 1000 Dances
@@ -63,6 +66,8 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1965-05-29'
+release_year: 1965
+runtime: 154773
 ---
 I said na na na na
 You gotta know how to pony

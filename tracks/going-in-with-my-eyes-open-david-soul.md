@@ -1,8 +1,11 @@
 ---
+album: Playing to an Audience of One
 artists:
 - David Soul
+external_ids:
+  spotify: spotify:track:7KnSQMDfPNVKJkiniY2fZF
 features: []
-genres: []
+first_released_as_single: false
 key: going-in-with-my-eyes-open-david-soul
 lyrics_url: https://genius.com/David-soul-going-in-with-my-eyes-open-lyrics
 name: Going In With My Eyes Open
@@ -35,6 +38,8 @@ rankings:
   rank: 67
   ranking_list: Billboard Hot 100
   start_date: '1977-06-18'
+release_year: 1977
+runtime: 243333
 ---
 You smiled that misty way and something in my said
 Remember the last time

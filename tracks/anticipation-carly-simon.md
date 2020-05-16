@@ -1,8 +1,11 @@
 ---
+album: Anticipation
 artists:
 - Carly Simon
+external_ids:
+  spotify: spotify:track:0rLRrCTqWVMgv1DpMBSezw
 features: []
-genres: []
+first_released_as_single: false
 key: anticipation-carly-simon
 lyrics_url: https://www.azlyrics.com/lyrics/carlysimon/anticipation.html
 name: Anticipation
@@ -59,8 +62,9 @@ rankings:
   rank: 24
   ranking_list: Billboard Hot 100
   start_date: '1972-03-04'
+release_year: 1971
+runtime: 201706
 ---
-
 We can never know about the days to come
 But we think about them anyway
 And I wonder if I'm really with you now
@@ -91,6 +95,3 @@ These are the good old days
 These are the good old days 
 These are the good old days 
 These are the good old days
-
-
-

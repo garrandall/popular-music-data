@@ -1,8 +1,11 @@
 ---
+album: Ten Years Of Hits
 artists:
 - Mickey Gilley
+external_ids:
+  spotify: spotify:track:0R2fpPKRo1qjA9aFnIXwZW
 features: []
-genres: []
+first_released_as_single: false
 key: you-don-t-know-me-mickey-gilley
 lyrics_url: https://genius.com/Mickey-gilley-you-dont-know-me-lyrics
 name: You Don't Know Me
@@ -55,6 +58,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1981-09-26'
+release_year: 1974
+runtime: 183760
 ---
 You give your hand to me, and then you say, "Hello"
 I can hardly speak, my heart is beating so

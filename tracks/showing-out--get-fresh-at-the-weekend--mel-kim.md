@@ -1,9 +1,12 @@
 ---
+album: F.L.M.
 artists:
 - Mel
 - Kim
+external_ids:
+  spotify: spotify:track:5hVUbtzEMl8BLwZCG0ZMtD
 features: []
-genres: []
+first_released_as_single: false
 key: showing-out--get-fresh-at-the-weekend--mel-kim
 lyrics_url: https://genius.com/Mel-and-kim-showing-out-lyrics
 name: Showing Out (Get Fresh At The Weekend)
@@ -36,6 +39,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1987-04-04'
+release_year: 1987
+runtime: 214866
 ---
 Show show show show, show show show show
 Show show show show, show show show

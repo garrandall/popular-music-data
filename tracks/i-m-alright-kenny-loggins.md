@@ -1,8 +1,11 @@
 ---
+album: Alive
 artists:
 - Kenny Loggins
+external_ids:
+  spotify: spotify:track:75zzfOvmT9Ok6SPoibAYsg
 features: []
-genres: []
+first_released_as_single: false
 key: i-m-alright-kenny-loggins
 lyrics_url: https://genius.com/Kenny-loggins-im-alright-theme-from-caddyshack-lyrics
 name: I'm Alright
@@ -95,6 +98,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1980-12-06'
+release_year: 1980
+runtime: 308706
 ---
 I'm alright
 Nobody worry 'bout me

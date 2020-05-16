@@ -1,8 +1,11 @@
 ---
+album: All By Myself
 artists:
 - Eddie Kendricks
+external_ids:
+  spotify: spotify:track:1AbYcVQg5T5nlLAzHMWPqA
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-so-hard-for-me-to-say-good-bye-eddie-kendricks
 lyrics_url: https://www.azlyrics.com/lyrics/eddiekendricks/itssohardformetosaygoodbye.html
 name: It's So Hard For Me To Say Good-Bye
@@ -19,8 +22,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1971-06-12'
+release_year: 1971
+runtime: 189253
 ---
-
 After lovin' you the longest time
 Your eyes show me the exit sign
 I can't ignore the sign I read
@@ -53,6 +57,3 @@ So I'll go before I break down and cry
 Every time I think about it, it's so hard for me to say goodbye
 I'll break down and cry every time I think about it
 It's hard, oh
-
-
-

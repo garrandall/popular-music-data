@@ -1,8 +1,11 @@
 ---
+album: Chicago VIII
 artists:
 - Chicago
+external_ids:
+  spotify: spotify:track:1qvFHNSBXGOsryKOr3p03m
 features: []
-genres: []
+first_released_as_single: false
 key: harry-truman-chicago
 lyrics_url: https://www.azlyrics.com/lyrics/chicago/harrytruman.html
 name: Harry Truman
@@ -43,8 +46,9 @@ rankings:
   rank: 38
   ranking_list: Billboard Hot 100
   start_date: '1975-04-19'
+release_year: 1975
+runtime: 180226
 ---
-
 America needs you
 Harry Truman
 Harry could you please come home
@@ -83,6 +87,3 @@ Oh
 Harry is there something we can do to save the land we love
 Harry
 Harry is there something we can do to save the land we love
-
-
-

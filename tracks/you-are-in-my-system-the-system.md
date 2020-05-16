@@ -1,8 +1,11 @@
 ---
+album: Sweat
 artists:
 - The System
+external_ids:
+  spotify: spotify:track:47HusOVsGPUcsJtMq40aRd
 features: []
-genres: []
+first_released_as_single: false
 key: you-are-in-my-system-the-system
 lyrics_url: https://genius.com/The-system-you-are-in-my-system-lyrics
 name: You Are In My System
@@ -39,6 +42,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1983-04-23'
+release_year: 1983
+runtime: 357812
 ---
 Day by day
 And night by night

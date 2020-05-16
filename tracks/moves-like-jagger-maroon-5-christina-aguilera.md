@@ -1,9 +1,12 @@
 ---
+album: Hands All Over
 artists:
 - Maroon 5
+external_ids:
+  spotify: spotify:track:7LcfRTgAVTs5pQGEQgUEzN
 features:
 - Christina Aguilera
-genres: []
+first_released_as_single: false
 key: moves-like-jagger-maroon-5-christina-aguilera
 lyrics_url: https://www.azlyrics.com/lyrics/maroon5/moveslikejagger.html
 name: Moves Like Jagger
@@ -204,9 +207,9 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '2012-06-09'
+release_year: 2010
+runtime: 201160
 ---
-
-
 Oh...
 Oh!
 
@@ -308,6 +311,3 @@ Look into my eyes and I'll own you
 With them moves like Jagger
 I've got the moves like Jagger
 I've got the moves like Jagger
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Recollection
 artists:
 - P.M. Dawn
+external_ids:
+  spotify: spotify:track:0eOud7XflP6vuIB0hQfCij
 features: []
-genres: []
+first_released_as_single: false
 key: paper-doll-p-m--dawn
 lyrics_url: https://genius.com/Pm-dawn-paper-doll-lyrics
 name: Paper Doll
@@ -55,6 +58,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1992-04-04'
+release_year: 1992
+runtime: 293426
 ---
 Imagine yourself as a link on a chain
 The chain is wrapped around someone's mind

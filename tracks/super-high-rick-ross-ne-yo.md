@@ -1,9 +1,12 @@
 ---
+album: Teflon Don
 artists:
 - Rick Ross
+external_ids:
+  spotify: spotify:track:1GxvjSEB6lQOLz2KITn32r
 features:
 - Ne-Yo
-genres: []
+first_released_as_single: false
 key: super-high-rick-ross-ne-yo
 lyrics_url: https://www.azlyrics.com/lyrics/rickross/superhigh.html
 name: Super High
@@ -12,8 +15,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2010-06-12'
+release_year: 2010
+runtime: 226493
 ---
-
 Uh...uh...uh
 
 
@@ -34,7 +38,7 @@ I'm beatin' niggas by margins bigger than Fran Tarkenton
 All these cars, all these stars, all around me (super high)
 Put your eyes... to the sky, that's where you'll find meee (ohoohhoh
 
-Cuz we are... we are... super hiiiigh
+Cuz we are... we are... super high
 Ohyeah, ohyeah
 
 
@@ -63,7 +67,7 @@ Women of a caliber
 only seen in magazines and calendars
 And I'm sitting with Miss October
 cuz my birthday's in October
-Strawberry and her RosÃ© on
+Strawberry and her Rosé on
 I can see it in her eye, cuz she wink and she toast me
 and later on we gonna mosy..
 to a place where it's populated and get
@@ -81,6 +85,3 @@ ohyeah, ooheah
 What the fuck are they yellin' ?
 
 Super hiiighhh
-
-
-

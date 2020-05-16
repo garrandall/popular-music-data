@@ -1,8 +1,11 @@
 ---
+album: It Goes Like This
 artists:
 - Thomas Rhett
+external_ids:
+  spotify: spotify:track:3X33opT0KHbkadEKmBPyPD
 features: []
-genres: []
+first_released_as_single: true
 key: make-me-wanna-thomas-rhett
 lyrics_url: https://www.azlyrics.com/lyrics/thomasrhett/makemewanna.html
 name: Make Me Wanna
@@ -87,8 +90,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2015-04-11'
+release_year: 2012
+runtime: 227106
 ---
-
 Windows down, country sound, FM on the radio
 Just me and you and the man on the moon
 Cruisin' down some old back road
@@ -144,6 +148,3 @@ If you don't stop I'm gonna
 Girl you make me wanna
 
 Windows down, country sound, FM on the radio
-
-
-

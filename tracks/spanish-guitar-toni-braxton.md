@@ -1,8 +1,11 @@
 ---
+album: The Heat
 artists:
 - Toni Braxton
+external_ids:
+  spotify: spotify:track:1ieouFxB2A3JjKEt1OoEiB
 features: []
-genres: []
+first_released_as_single: false
 key: spanish-guitar-toni-braxton
 lyrics_url: https://www.azlyrics.com/lyrics/tonibraxton/spanishguitar.html
 name: Spanish Guitar
@@ -19,8 +22,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2000-12-16'
+release_year: 2000
+runtime: 289000
 ---
-
 A smoky room, a small cafe
 They come to hear you play
 And drink and dance the night away
@@ -76,6 +80,3 @@ I wish you'd hold me in your arms
 Like that Spanish guitar
 All night long, all night long
 I'd be your song, I'd be your song
-
-
-

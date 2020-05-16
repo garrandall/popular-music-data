@@ -1,8 +1,11 @@
 ---
+album: The Mail Man (Original Master Peace)
 artists:
 - E-40
+external_ids:
+  spotify: spotify:track:4ixD6bSwnSlzuBrd2c80vI
 features: []
-genres: []
+first_released_as_single: false
 key: captain-save-a-hoe-e-40
 lyrics_url: https://www.azlyrics.com/lyrics/e40/captainsaveahoe.html
 name: Captain Save A Hoe
@@ -15,9 +18,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1994-07-23'
+release_year: 1993
+runtime: 288297
 ---
-
-
 Ah is a, Ah is a, Should I save her?
 I want to be saved!
 
@@ -126,6 +129,3 @@ Want you phone cranked on, I can get it cranked on to my name
 Matter of fact I get you a cellular phone and a pager
 We can get that package deal down there at Cellular One
 Baby I'm here for you I got you
-
-
-

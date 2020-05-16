@@ -1,8 +1,11 @@
 ---
+album: Lesley Gore Sings Of Mixed-Up Hearts
 artists:
 - Lesley Gore
+external_ids:
+  spotify: spotify:track:7ngRS53kqxLcEt9Pythc5d
 features: []
-genres: []
+first_released_as_single: false
 key: you-don-t-own-me-lesley-gore
 lyrics_url: https://genius.com/Lesley-gore-you-dont-own-me-lyrics
 name: You Don't Own Me
@@ -59,6 +62,8 @@ rankings:
   rank: 48
   ranking_list: Billboard Hot 100
   start_date: '1964-03-21'
+release_year: 1963
+runtime: 150000
 ---
 You don't own me
 I'm not just one of your many toys

@@ -1,8 +1,11 @@
 ---
+album: My Turn
 artists:
 - Lil Baby
+external_ids:
+  spotify: spotify:track:20Yz5dzjdTCVjXte9KrJbi
 features: []
-genres: []
+first_released_as_single: false
 key: get-ugly-lil-baby
 lyrics_url: https://genius.com/Lil-baby-get-ugly-lyrics
 name: Get Ugly
@@ -11,6 +14,8 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '2020-03-14'
+release_year: 2020
+runtime: 155832
 ---
 ATL Jacob, ATL Jacob
 

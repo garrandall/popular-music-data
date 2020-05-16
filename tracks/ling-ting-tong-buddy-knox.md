@@ -1,8 +1,11 @@
 ---
+album: Party Doll
 artists:
 - Buddy Knox
+external_ids:
+  spotify: spotify:track:47CW2Of2TdxF616jtbD9Se
 features: []
-genres: []
+first_released_as_single: false
 key: ling-ting-tong-buddy-knox
 lyrics_url: https://www.musixmatch.com/lyrics/Buddy-Knox/Ling-Ting-Tong
 name: Ling-Ting-Tong
@@ -35,6 +38,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1961-04-17'
+release_year: 1961
+runtime: 145573
 ---
 I sa mok em boo la ay
 I sa mok em boo

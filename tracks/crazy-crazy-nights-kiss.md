@@ -1,8 +1,11 @@
 ---
+album: Crazy Nights
 artists:
 - KISS
+external_ids:
+  spotify: spotify:track:3YSfGJNDtF8KrHlwCAaVns
 features: []
-genres: []
+first_released_as_single: false
 key: crazy-crazy-nights-kiss
 lyrics_url: https://www.musixmatch.com/lyrics/Kiss-2/Crazy-Crazy-Nights
 name: Crazy Crazy Nights
@@ -35,6 +38,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1987-11-07'
+release_year: 1987
+runtime: 227600
 ---
 Woh!
 Here's a little song for everybody out there!

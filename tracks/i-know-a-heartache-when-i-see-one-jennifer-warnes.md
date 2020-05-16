@@ -1,8 +1,11 @@
 ---
+album: Shot Through The Heart
 artists:
 - Jennifer Warnes
+external_ids:
+  spotify: spotify:track:2TdmVYj3FKYTjXsVbovuf0
 features: []
-genres: []
+first_released_as_single: false
 key: i-know-a-heartache-when-i-see-one-jennifer-warnes
 lyrics_url: https://www.azlyrics.com/lyrics/jenniferwarnes/iknowaheartachewheniseeone.html
 name: I Know A Heartache When I See One
@@ -95,8 +98,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1979-11-24'
+release_year: 1979
+runtime: 208773
 ---
-
 Look at who the wind's blowing up the road
 Shining like the Northern star
 Acting like the answer to all my prayers
@@ -136,6 +140,3 @@ You can find me out walking in the sun
 Oh, you hide it so well
 It isn't easy to tell
 But I know a heartache when I see one
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Don't Stop Believin'
 artists:
 - Olivia Newton-John
+external_ids:
+  spotify: spotify:track:2ljjoZun9Xid1AAFKEEXam
 features: []
-genres: []
+first_released_as_single: false
 key: sam-olivia-newton-john
 lyrics_url: https://www.azlyrics.com/lyrics/olivianewtonjohn/sam.html
 name: Sam
@@ -59,8 +62,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1977-04-23'
+release_year: 1976
+runtime: 221933
 ---
-
 I heard that you're on your own now
 So am I
 I'm living alone now
@@ -104,6 +108,3 @@ Oh Sam, you know where I am
 Oh Sam, oh Sam
 You know, you know
 You know where I am
-
-
-

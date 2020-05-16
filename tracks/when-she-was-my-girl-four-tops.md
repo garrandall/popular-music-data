@@ -1,8 +1,11 @@
 ---
+album: Tonight
 artists:
 - Four Tops
+external_ids:
+  spotify: spotify:track:3FPaQv0qldYuF0XD0ziwT8
 features: []
-genres: []
+first_released_as_single: false
 key: when-she-was-my-girl-four-tops
 lyrics_url: https://genius.com/The-four-tops-when-she-was-my-girl-lyrics
 name: When She Was My Girl
@@ -95,6 +98,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1982-01-09'
+release_year: 1981
+runtime: 206053
 ---
 She Used To Be
 Everything To Me

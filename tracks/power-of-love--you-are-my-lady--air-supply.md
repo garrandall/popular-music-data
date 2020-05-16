@@ -1,8 +1,11 @@
 ---
+album: Air Supply
 artists:
 - Air Supply
+external_ids:
+  spotify: spotify:track:1uLCT6iQki4UpyCJimWHHg
 features: []
-genres: []
+first_released_as_single: false
 key: power-of-love--you-are-my-lady--air-supply
 lyrics_url: https://www.azlyrics.com/lyrics/airsupply/thepoweroflove.html
 name: Power Of Love (You Are My Lady)
@@ -31,8 +34,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1985-09-14'
+release_year: 1985
+runtime: 327786
 ---
-
 The whispers in the morning
 Of lovers sleeping tight
 Are rolling by like thunder now
@@ -91,6 +95,3 @@ Somewhere I've never been
 Sometimes I am frightened
 But I'm ready to learn
 'Bout the power of love
-
-
-

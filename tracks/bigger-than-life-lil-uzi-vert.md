@@ -1,8 +1,11 @@
 ---
+album: Eternal Atake
 artists:
 - Lil Uzi Vert
+external_ids:
+  spotify: spotify:track:2oHDJHNondITqbl8xZ9vPn
 features: []
-genres: []
+first_released_as_single: false
 key: bigger-than-life-lil-uzi-vert
 lyrics_url: https://www.azlyrics.com/lyrics/liluzivert/biggerthanlife.html
 name: Bigger Than Life
@@ -11,8 +14,9 @@ rankings:
   rank: 33
   ranking_list: Billboard Hot 100
   start_date: '2020-03-21'
+release_year: 2020
+runtime: 192705
 ---
-
 Let's go, let's go
 Lil Uzi Vert
 Let's go, let's go (I'm Working on Dying)
@@ -80,7 +84,7 @@ Walked in and I had to go get a bag
 Walked in and had to go get a big bag (Yeah)
 Brought the big bag for the brand new bae
 Why the fuck would I care what you say? (Amen)
-Had a fuck nigga head like a toupÃ©e (What?)
+Had a fuck nigga head like a toupée (What?)
 Okay, they wanna see a new wave (Yah)
 Made two hundred racks in two days (Check it out)
 My diamonds they cooler than Cool J (Yah)
@@ -117,6 +121,3 @@ I ain't do it on purpose, oops, my bad, I didn't mean
 There goes the reason he hatin' now
 Got a V12 that's all on my engine
 That's prolly the reason that my head be racin' off
-
-
-

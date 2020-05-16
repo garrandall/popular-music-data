@@ -1,8 +1,11 @@
 ---
+album: A Session With Gary Lewis And The Playboys
 artists:
 - Gary Lewis And The Playboys
+external_ids:
+  spotify: spotify:track:06oBmaDk2mQDe6kIE4aXYX
 features: []
-genres: []
+first_released_as_single: false
 key: save-your-heart-for-me-gary-lewis-and-the-playboys
 lyrics_url: https://genius.com/Gary-lewis-and-the-playboys-save-your-heart-for-me-lyrics
 name: Save Your Heart For Me
@@ -51,6 +54,8 @@ rankings:
   rank: 33
   ranking_list: Billboard Hot 100
   start_date: '1965-09-11'
+release_year: 1965
+runtime: 119186
 ---
 Walk along the lake with someone new
 Have yourself a summer fling or two
@@ -73,7 +78,6 @@ You'll be in my arms again I know, so
 Save your heart for me
 Darlin', save your heart for me
 
-Brief instrumental with whistling-first two lines of a verse
 Please remember I'm in love with you so
 Save your heart for me
 Darlin', save your heart for me

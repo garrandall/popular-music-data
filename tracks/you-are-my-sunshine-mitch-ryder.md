@@ -1,8 +1,11 @@
 ---
+album: Sings the Hits
 artists:
 - Mitch Ryder
+external_ids:
+  spotify: spotify:track:19ddB7zpRhIXI8gPcR4VCO
 features: []
-genres: []
+first_released_as_single: false
 key: you-are-my-sunshine-mitch-ryder
 lyrics_url: https://www.musixmatch.com/lyrics/Mitch-Ryder-feat-The-Detroit-Wheels/You-Are-My-Sunshine-2
 name: You Are My Sunshine
@@ -19,6 +22,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1967-11-11'
+release_year: 1967
+runtime: 184866
 ---
 The other night
 As I lay sleeping

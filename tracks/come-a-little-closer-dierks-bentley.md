@@ -1,8 +1,11 @@
 ---
+album: Modern Day Drifter
 artists:
 - Dierks Bentley
+external_ids:
+  spotify: spotify:track:6yFD0TSZvxydqGxLNDjZUO
 features: []
-genres: []
+first_released_as_single: false
 key: come-a-little-closer-dierks-bentley
 lyrics_url: https://www.azlyrics.com/lyrics/dierksbentley/comealittlecloser.html
 name: Come A Little Closer
@@ -87,8 +90,9 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '2006-02-04'
+release_year: 2005
+runtime: 281973
 ---
-
 Come a little closer, baby
 I feel like layin' you down
 On a bed sweet surrender
@@ -127,6 +131,3 @@ Come a little bit closer baby
 Just a little bit closer baby
 Come a little bit closer baby
 I feel like layin' you down
-
-
-

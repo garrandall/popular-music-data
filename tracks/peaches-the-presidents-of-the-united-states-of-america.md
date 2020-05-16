@@ -1,8 +1,12 @@
 ---
+album: 'The Presidents of The United States of America: Ten Year Super Bonus Special
+  Anniversary Edition'
 artists:
 - The Presidents Of The United States Of America
+external_ids:
+  spotify: spotify:track:3VEFybccRTeWSZRkJxDuNR
 features: []
-genres: []
+first_released_as_single: false
 key: peaches-the-presidents-of-the-united-states-of-america
 lyrics_url: https://www.azlyrics.com/lyrics/presidentsoftheunitedstatesofamerica/peaches.html
 name: Peaches
@@ -63,8 +67,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1996-06-08'
+release_year: 1995
+runtime: 171693
 ---
-
 Movin' to the country,
 Gonna eat a lot of peaches
 I'm movin' to the country,
@@ -112,6 +117,3 @@ Millions of peaches, peaches for me
 Millions of peaches, peaches for free
 
 Look out!
-
-
-

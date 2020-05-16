@@ -1,8 +1,11 @@
 ---
+album: Jam Session
 artists:
 - Dinah Washington
+external_ids:
+  spotify: spotify:track:6WW6yltU2ZCBGu9PSlzyuI
 features: []
-genres: []
+first_released_as_single: false
 key: dream-dinah-washington
 lyrics_url: https://genius.com/Dinah-washington-darn-that-dream-lyrics
 name: Dream
@@ -15,6 +18,8 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '1962-05-19'
+release_year: 1954
+runtime: 316506
 ---
 Darn that dream, I dream each night
 You say you love me, and you hold me tight

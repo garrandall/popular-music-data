@@ -1,8 +1,11 @@
 ---
+album: The Essential Marty Robbins 1951-1982
 artists:
 - Marty Robbins
+external_ids:
+  spotify: spotify:track:6SmTXd10pvCAr8Kn18Jokh
 features: []
-genres: []
+first_released_as_single: false
 key: devil-woman-marty-robbins
 lyrics_url: https://www.azlyrics.com/lyrics/martyrobbins/devilwoman.html
 name: Devil Woman
@@ -51,8 +54,9 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '1962-10-06'
+release_year: 1952
+runtime: 171693
 ---
-
 I told Mary about us.
 I told her about our great sin.
 Mary cried and forgave me,
@@ -116,6 +120,3 @@ Devil Woman, don't follow me.
 Devil Woman let me be,
 And leave me alone.
 I'm goin' back home.
-
-
-

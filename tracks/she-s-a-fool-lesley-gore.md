@@ -1,8 +1,11 @@
 ---
+album: Lesley Gore Sings Of Mixed-Up Hearts
 artists:
 - Lesley Gore
+external_ids:
+  spotify: spotify:track:3h681qZSmhBOciAXLl1nsA
 features: []
-genres: []
+first_released_as_single: false
 key: she-s-a-fool-lesley-gore
 lyrics_url: https://genius.com/Lesley-gore-shes-a-fool-lyrics
 name: She's A Fool
@@ -67,6 +70,8 @@ rankings:
   rank: 54
   ranking_list: Billboard Hot 100
   start_date: '1964-01-04'
+release_year: 1963
+runtime: 127000
 ---
 She dunno that she's a lucky girl
 Got the best thing in the whole wide world

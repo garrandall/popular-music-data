@@ -1,8 +1,11 @@
 ---
+album: Very Best Of
 artists:
 - Ringo Starr
+external_ids:
+  spotify: spotify:track:0fOAIOvfKsD7XStpBkwKjJ
 features: []
-genres: []
+first_released_as_single: false
 key: wrack-my-brain-ringo-starr
 lyrics_url: https://www.azlyrics.com/lyrics/ringostarr/wrackmybrain.html
 name: Wrack My Brain
@@ -51,8 +54,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1982-01-16'
+release_year: 1981
+runtime: 141666
 ---
-
 Wrack my brain, wrack my brain,
 Till my head's filled with pain,
 Wrack my brain.
@@ -82,6 +86,3 @@ Till my head is filled with pain,
 Wrack my brain, (wrack my brain)
 While I slowly go insane,
 Wrack my brain. (wrack my brain)
-
-
-

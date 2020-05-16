@@ -1,9 +1,12 @@
 ---
+album: Planet Pit (Deluxe Version)
 artists:
 - Pitbull
+external_ids:
+  spotify: spotify:track:35mEv58HlenLquXVyWnq9c
 features:
 - T-Pain
-genres: []
+first_released_as_single: true
 key: hey-baby--drop-it-to-the-floor--pitbull-t-pain
 lyrics_url: https://genius.com/Pitbull-hey-baby-lyrics
 name: Hey Baby (Drop It To The Floor)
@@ -132,6 +135,8 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '2011-05-14'
+release_year: 2010
+runtime: 263160
 ---
 Mr. Worldwide
 T-Pain

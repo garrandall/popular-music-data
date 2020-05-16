@@ -1,8 +1,11 @@
 ---
+album: Bad English
 artists:
 - Bad English
+external_ids:
+  spotify: spotify:track:56y9EmjGAAejQ6QX9blIGI
 features: []
-genres: []
+first_released_as_single: false
 key: price-of-love-bad-english
 lyrics_url: https://www.azlyrics.com/lyrics/badenglish/priceoflove.html
 name: Price Of Love
@@ -83,8 +86,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1990-04-28'
+release_year: 1989
+runtime: 286040
 ---
-
 Girl, sometimes it seems to me
 That I don't say the things I should, 
 To you, I act like I'm no good
@@ -138,6 +142,3 @@ That's the price of love
 
 That's the price of love, that's the price of love
 That's the price of love...
-
-
-

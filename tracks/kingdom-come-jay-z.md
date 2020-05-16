@@ -1,8 +1,11 @@
 ---
+album: Kingdom Come
 artists:
 - JAY-Z
+external_ids:
+  spotify: spotify:track:42x5XhtFhCziVAKodqCLUr
 features: []
-genres: []
+first_released_as_single: false
 key: kingdom-come-jay-z
 lyrics_url: https://www.azlyrics.com/lyrics/jayz/kingdomcome.html
 name: Kingdom Come
@@ -11,9 +14,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '2006-12-09'
+release_year: 2006
+runtime: 263546
 ---
-
-
 I don't know what life will be in H.I.P. H.O.P.
 Without the boy H.O.V. (I will be, I will be)
 Not only N.Y.C. I'm hip hop's savior (Yeah)
@@ -61,7 +64,7 @@ Cause ya boy Hov is back, you know them broads coming out
 Got 'em dancing on the bankhead, like they from Bankhead
 Fuck Cristal, so they ask me what we drinking
 I thought dudes remark was rude okay
-So I moved on to Dom, Krug RosÃ©
+So I moved on to Dom, Krug Rosé
 And it's much bigger issues in the world, I know
 But I first had to take care of the world I know
 I'm from the bottom, so I still feel em from the bottom
@@ -106,6 +109,3 @@ When kingdom come, uh huh (I will be)
 Not only N.Y.C. I'm hip hop's savior (Yeah, yeah)
 So after this flow you might owe me a favor
 (Hey! Hey! Hey Hey Hey!)
-
-
-

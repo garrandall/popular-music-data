@@ -1,8 +1,11 @@
 ---
+album: Mornings Like These
 artists:
 - Julie
+external_ids:
+  spotify: spotify:track:1WkE9eHkfggxOB8V7hw1R0
 features: []
-genres: []
+first_released_as_single: false
 key: one-fine-day-julie
 name: One Fine Day
 rankings:
@@ -22,5 +25,7 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1976-02-07'
+release_year: 1976
+runtime: 170346
 ---
 

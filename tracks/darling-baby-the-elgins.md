@@ -1,8 +1,11 @@
 ---
+album: Hitsville USA - The Motown Singles Collection 1959-1971
 artists:
 - The Elgins
+external_ids:
+  spotify: spotify:track:10u9028SSfRyIKxV4xrzsg
 features: []
-genres: []
+first_released_as_single: false
 key: darling-baby-the-elgins
 lyrics_url: https://genius.com/The-elgins-darling-baby-lyrics
 name: Darling Baby
@@ -39,6 +42,8 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1966-05-14'
+release_year: 1966
+runtime: 156106
 ---
 Darling, baby
 Life is so lonely without you

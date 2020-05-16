@@ -1,12 +1,15 @@
 ---
+album: Grateful
 artists:
 - DJ Khaled
+external_ids:
+  spotify: spotify:track:7qPWepejZUaBn9uDF5Lo3e
 features:
 - Justin Bieber
 - Quavo
 - Chance The Rapper
 - Lil Wayne
-genres: []
+first_released_as_single: false
 key: i-m-the-one-dj-khaled-justin-bieber-quavo-chance-the-rapper-lil-wayne
 lyrics_url: https://genius.com/Genius-brasil-traducoes-dj-khaled-im-the-one-ft-justin-bieber-chance-the-rapper-quavo-and-lil-wayne-traducao-em-portugues-lyrics
 name: I'm The One
@@ -99,6 +102,8 @@ rankings:
   rank: 42
   ranking_list: Billboard Hot 100
   start_date: '2017-10-14'
+release_year: 2017
+runtime: 288876
 ---
 Nós somos Best Music
 Mais uma!

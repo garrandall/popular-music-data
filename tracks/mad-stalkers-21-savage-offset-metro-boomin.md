@@ -1,10 +1,13 @@
 ---
+album: Without Warning
 artists:
 - 21 Savage
 - Offset
 - Metro Boomin
+external_ids:
+  spotify: spotify:track:6HR1z11h0ROUlWP4Kx8Z7G
 features: []
-genres: []
+first_released_as_single: false
 key: mad-stalkers-21-savage-offset-metro-boomin
 lyrics_url: https://genius.com/21-savage-offset-and-metro-boomin-mad-stalkers-lyrics
 name: Mad Stalkers
@@ -13,6 +16,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2017-11-25'
+release_year: 2017
+runtime: 202666
 ---
 21, 21, 21 21 21
 I'm from out the gutter, middle finger, Zone 6

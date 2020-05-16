@@ -1,8 +1,11 @@
 ---
+album: Grand Slam
 artists:
 - The Isley Brothers
+external_ids:
+  spotify: spotify:track:4kckVBE2xGdfWR77Q3eYl0
 features: []
-genres: []
+first_released_as_single: false
 key: hurry-up-and-wait-the-isley-brothers
 lyrics_url: https://www.azlyrics.com/lyrics/isleybrothers/hurryupandwait.html
 name: Hurry Up And Wait
@@ -35,8 +38,9 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1981-05-30'
+release_year: 1981
+runtime: 234413
 ---
-
 I don't wanna be no clock watcher
 Standin' in line
 I don't wanna be someone in love
@@ -94,6 +98,3 @@ Hurry up and wait, yeah, baby
 Waitin' here on your love
 Hurry up and wait, yeah, baby
 Waitin' here on your love
-
-
-

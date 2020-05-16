@@ -1,8 +1,11 @@
 ---
+album: Tell Him
 artists:
 - The Exciters
+external_ids:
+  spotify: spotify:track:65NLzFAodrb3WLNm4NT3rl
 features: []
-genres: []
+first_released_as_single: false
 key: he-s-got-the-power-the-exciters
 lyrics_url: https://genius.com/The-exciters-hes-got-the-power-lyrics
 name: He's Got The Power
@@ -39,6 +42,8 @@ rankings:
   rank: 65
   ranking_list: Billboard Hot 100
   start_date: '1963-04-20'
+release_year: 1963
+runtime: 146293
 ---
 Yeah, yeah, yeah, yeah
 He makes me do things I don't wanna do

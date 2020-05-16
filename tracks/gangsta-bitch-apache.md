@@ -1,8 +1,11 @@
 ---
+album: Apache Ain't Shit
 artists:
 - Apache
+external_ids:
+  spotify: spotify:track:5wDwRWRJmRkVbg0d7vH4Lx
 features: []
-genres: []
+first_released_as_single: false
 key: gangsta-bitch-apache
 lyrics_url: https://genius.com/Apache-gangsta-bitch-lyrics
 name: Gangsta Bitch
@@ -47,6 +50,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1993-04-03'
+release_year: 1993
+runtime: 284066
 ---
 I need a gangsta bitch (a gangsta bitch)
 I want a gangsta bitch yo (a gangsta bitch)

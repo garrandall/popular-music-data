@@ -1,8 +1,11 @@
 ---
+album: Inside Information
 artists:
 - Foreigner
+external_ids:
+  spotify: spotify:track:5nW7RbN0mBLPts9CURNwdy
 features: []
-genres: []
+first_released_as_single: false
 key: say-you-will-foreigner
 lyrics_url: https://genius.com/Foreigner-say-you-will-lyrics
 name: Say You Will
@@ -83,6 +86,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1988-04-09'
+release_year: 1987
+runtime: 255653
 ---
 Say you will, say you won't
 Make up your mind tonight

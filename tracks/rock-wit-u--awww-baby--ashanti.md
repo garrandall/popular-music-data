@@ -1,8 +1,11 @@
 ---
+album: Chapter II
 artists:
 - Ashanti
+external_ids:
+  spotify: spotify:track:6pWzCKTrKrwbUPzY8RLCoP
 features: []
-genres: []
+first_released_as_single: false
 key: rock-wit-u--awww-baby--ashanti
 lyrics_url: https://www.azlyrics.com/lyrics/ashanti/rockwituawwwbaby.html
 name: Rock Wit U (Awww Baby)
@@ -91,9 +94,10 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '2003-09-27'
+release_year: 2003
+runtime: 209120
 ---
-
- Aw baby (aw baby)
+Aw baby (aw baby)
  Yeah, murda inc
  I wanna love you babe
  hahahahhaha
@@ -186,6 +190,3 @@ Oh, mmm, love you babe
 Mmm, yeah-yeah, yeah-yeah, yeah
 Oh mmm, love you babe
 Mmm, yeah-yeah, yeah-yeah, yeah
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: 20 All-Time Greatest Hits
 artists:
 - Cowboy Copas
+external_ids:
+  spotify: spotify:track:6x8EqpeM8XzeoEKfatpSYP
 features: []
-genres: []
+first_released_as_single: false
 key: alabam-cowboy-copas
 lyrics_url: https://genius.com/Cowboy-copas-alabam-lyrics
 name: Alabam
@@ -55,6 +58,8 @@ rankings:
   rank: 81
   ranking_list: Billboard Hot 100
   start_date: '1960-12-12'
+release_year: 1960
+runtime: 139906
 ---
 Well I went to a turkey roast down the street
 The people down there eat like wild geese;

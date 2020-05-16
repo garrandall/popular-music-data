@@ -1,8 +1,11 @@
 ---
+album: Metamorphosis
 artists:
 - Hilary Duff
+external_ids:
+  spotify: spotify:track:0J1Wfjo9H3R62yaCuuNDZX
 features: []
-genres: []
+first_released_as_single: false
 key: so-yesterday-hilary-duff
 lyrics_url: https://www.azlyrics.com/lyrics/hilaryduff/soyesterday.html
 name: So Yesterday
@@ -87,8 +90,9 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '2003-12-27'
+release_year: 2003
+runtime: 215333
 ---
-
 You can change your life - if you wanna
 You can change your clothes - if you wanna
 If you change your mind
@@ -135,4 +139,3 @@ If you're moving on, I'm already gone
 If the light is off then it isn't on
 At least not today, not today, not today
 'cause
-

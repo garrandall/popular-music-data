@@ -1,8 +1,11 @@
 ---
+album: Bobby Vee
 artists:
 - Bobby Vee
+external_ids:
+  spotify: spotify:track:0HvhqgQ3WbTSL9Fa2ewzow
 features: []
-genres: []
+first_released_as_single: false
 key: stayin--in-bobby-vee
 lyrics_url: https://www.azlyrics.com/lyrics/bobbyvee/stayinin.html
 name: Stayin' In
@@ -35,8 +38,9 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1961-03-27'
+release_year: 1961
+runtime: 125373
 ---
-
 I punched my buddy
 In the nose after lunch
 Now I'm in trouble
@@ -76,6 +80,3 @@ I did it then
 And I'd do it again
 I love her so
 But I'm stayin' in
-
-
-

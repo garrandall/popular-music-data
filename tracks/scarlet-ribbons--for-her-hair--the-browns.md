@@ -1,8 +1,11 @@
 ---
+album: The Essential Jim Ed Brown And The Browns
 artists:
 - The Browns
+external_ids:
+  spotify: spotify:track:1BogZ2vCN97dA7dYvTYeou
 features: []
-genres: []
+first_released_as_single: false
 key: scarlet-ribbons--for-her-hair--the-browns
 lyrics_url: https://genius.com/The-browns-scarlet-ribbons-for-her-hair-lyrics
 name: Scarlet Ribbons (For Her Hair)
@@ -63,6 +66,8 @@ rankings:
   rank: 76
   ranking_list: Billboard Hot 100
   start_date: '1960-02-01'
+release_year: 1959
+runtime: 159493
 ---
 I peeked in to say goodnight
 When I heard my child in prayer

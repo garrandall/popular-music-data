@@ -1,10 +1,13 @@
 ---
+album: Greatest Hits
 artists:
 - Juvenile
+external_ids:
+  spotify: spotify:track:5jbKpvtoxZB14tbnBafMuL
 features:
 - Mannie Fresh
 - Lil' Wayne
-genres: []
+first_released_as_single: false
 key: back-that-thang-up-juvenile-mannie-fresh-lil--wayne
 name: Back That Thang Up
 rankings:
@@ -128,5 +131,7 @@ rankings:
   rank: 37
   ranking_list: Billboard Hot 100
   start_date: '2000-01-29'
+release_year: 1999
+runtime: 273786
 ---
 

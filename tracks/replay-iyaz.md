@@ -1,8 +1,11 @@
 ---
+album: Dance Music
 artists:
 - Iyaz
+external_ids:
+  spotify: spotify:track:5vlEg2fT4cFWAqU5QptIpQ
 features: []
-genres: []
+first_released_as_single: true
 key: replay-iyaz
 lyrics_url: https://www.azlyrics.com/lyrics/iyaz/replay.html
 name: Replay
@@ -143,8 +146,9 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '2010-04-24'
+release_year: 2009
+runtime: 182306
 ---
-
 Shawty's like a melody in my head
 That I can't keep out
 Got me singin' like
@@ -239,6 +243,3 @@ That I can't keep out
 Got me singin' like
 Na na na na everyday
 It's like my iPod stuck on replay, replay-ay-ay-ay
-
-
-

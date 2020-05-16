@@ -1,8 +1,11 @@
 ---
+album: The Principle of Moments
 artists:
 - Robert Plant
+external_ids:
+  spotify: spotify:track:1fOrdq5lDitklPno27DeHV
 features: []
-genres: []
+first_released_as_single: false
 key: in-the-mood-robert-plant
 lyrics_url: https://www.azlyrics.com/lyrics/robertplant/inthemood.html
 name: In The Mood
@@ -55,8 +58,9 @@ rankings:
   rank: 79
   ranking_list: Billboard Hot 100
   start_date: '1984-02-04'
+release_year: 1983
+runtime: 322640
 ---
-
 I'm in the mood for a melody
 I'm in the mood for a melody
 I'm in the mood
@@ -95,6 +99,3 @@ If you want me to
 I can do it right - I can do it wrong
 'Cause a matter of fact it'll turn out to be strong
 If you want me to
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Greatest Hits Volume I & Volume II
 artists:
 - Billy Joel
+external_ids:
+  spotify: spotify:track:4aaOblwrIiVnScKL51pGdo
 features: []
-genres: []
+first_released_as_single: false
 key: you-re-only-human--second-wind--billy-joel
 lyrics_url: https://genius.com/Billy-joel-youre-only-human-second-wind-lyrics
 name: You're Only Human (Second Wind)
@@ -71,6 +74,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1985-10-26'
+release_year: 1985
+runtime: 288440
 ---
 You're having a hard time and lately you don't feel so good
 You're getting a bad reputation in your neighborhood

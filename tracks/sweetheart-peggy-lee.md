@@ -1,8 +1,11 @@
 ---
+album: Extra Special!
 artists:
 - Peggy Lee
+external_ids:
+  spotify: spotify:track:0DjqdfMx16eZmO37rPYAvt
 features: []
-genres: []
+first_released_as_single: false
 key: sweetheart-peggy-lee
 lyrics_url: https://www.musixmatch.com/lyrics/Peggy-Lee/Someday-Sweetheart
 name: Sweetheart
@@ -15,6 +18,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1958-12-01'
+release_year: 1958
+runtime: 157560
 ---
 Someday, sweetheart,
 You may be sorry

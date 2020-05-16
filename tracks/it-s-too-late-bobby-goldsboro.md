@@ -1,8 +1,11 @@
 ---
+album: It's Too Late
 artists:
 - Bobby Goldsboro
+external_ids:
+  spotify: spotify:track:6MWZvL0YOKvr3mB2iR4eT9
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-too-late-bobby-goldsboro
 lyrics_url: https://www.azlyrics.com/lyrics/bobbygoldsboro/itstoolate.html
 name: It's Too Late
@@ -39,8 +42,9 @@ rankings:
   rank: 33
   ranking_list: Billboard Hot 100
   start_date: '1966-04-09'
+release_year: 1966
+runtime: 151000
 ---
-
 I remember when I told you
 That I tried in every way
 To hold you and kiss you and love you and keep you till my dying day
@@ -82,6 +86,3 @@ And I'm going to make her mine
 It's too late
 It's too late
 To say you're mine
-
-
-

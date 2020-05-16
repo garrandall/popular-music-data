@@ -1,8 +1,11 @@
 ---
+album: Blue Side of Lonesome
 artists:
 - Jim Reeves
+external_ids:
+  spotify: spotify:track:3UM1kSjXPIt9lYqbga1imv
 features: []
-genres: []
+first_released_as_single: false
 key: blue-side-of-lonesome-jim-reeves
 lyrics_url: https://www.azlyrics.com/lyrics/jimreeves/bluesideoflonesome.html
 name: Blue Side Of Lonesome
@@ -39,8 +42,9 @@ rankings:
   rank: 63
   ranking_list: Billboard Hot 100
   start_date: '1966-10-15'
+release_year: 1966
+runtime: 164746
 ---
-
 I'm calling to tell you its over
 Yes darling, you're now free to go.
 You're saying you're sorry you hurt me
@@ -65,4 +69,3 @@ The hands on the clock never alter,
 For things never change in this place.
 There's no present, no past, no future,
 We're the ones who have lost in loves race.
-

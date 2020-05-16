@@ -1,9 +1,12 @@
 ---
+album: Great White North
 artists:
 - Bob
 - Doug McKenzie
+external_ids:
+  spotify: spotify:track:41fyYJhle2TU49ZLYrruSm
 features: []
-genres: []
+first_released_as_single: false
 key: take-off-bob-doug-mckenzie
 lyrics_url: https://genius.com/Bob-and-doug-mckenzie-take-off-lyrics
 name: Take Off
@@ -64,6 +67,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1982-05-01'
+release_year: 1981
+runtime: 286506
 ---
 Okay, uh, be real nice to him, eh
 Okay, eh

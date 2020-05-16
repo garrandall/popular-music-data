@@ -1,8 +1,11 @@
 ---
+album: Here's To Future Days
 artists:
 - Thompson Twins
+external_ids:
+  spotify: spotify:track:0tBo8Uj7BmK3E5UBVhON2v
 features: []
-genres: []
+first_released_as_single: false
 key: king-for-a-day-thompson-twins
 lyrics_url: https://www.azlyrics.com/lyrics/thompsontwins/kingforaday.html
 name: King For A Day
@@ -71,8 +74,9 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1986-05-03'
+release_year: 1985
+runtime: 318146
 ---
-
 I know you well
 And I can tell
 Something's on your mind
@@ -164,6 +168,3 @@ I would give it all away to be with you
 If I was King for just one day
 Just one thing to say
 Love
-
-
-

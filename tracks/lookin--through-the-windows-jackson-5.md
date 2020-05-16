@@ -1,8 +1,11 @@
 ---
+album: Lookin' Through The Windows
 artists:
 - Jackson 5
+external_ids:
+  spotify: spotify:track:6xgj1R3NoymZzjnjgxywLd
 features: []
-genres: []
+first_released_as_single: false
 key: lookin--through-the-windows-jackson-5
 lyrics_url: https://www.azlyrics.com/lyrics/jackson5/lookinthroughthewindows.html
 name: Lookin' Through The Windows
@@ -47,8 +50,9 @@ rankings:
   rank: 36
   ranking_list: Billboard Hot 100
   start_date: '1972-09-16'
+release_year: 1972
+runtime: 223853
 ---
-
 (Lookin' through the window)
 (Lookin' through the window)
 (Lookin' through the window)
@@ -92,6 +96,3 @@ Right by your side
 (By your side)
 To keep on lookin' through the windows
 Lookin' in your eyes
-
-
-

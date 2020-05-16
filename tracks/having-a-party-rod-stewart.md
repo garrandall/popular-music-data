@@ -1,8 +1,11 @@
 ---
+album: Unplugged....And Seated
 artists:
 - Rod Stewart
+external_ids:
+  spotify: spotify:track:2TBnYW00VGuNJk6xVQYEQe
 features: []
-genres: []
+first_released_as_single: false
 key: having-a-party-rod-stewart
 lyrics_url: https://www.azlyrics.com/lyrics/rodstewart/havingaparty.html
 name: Having A Party
@@ -87,8 +90,9 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '1994-05-14'
+release_year: 1993
+runtime: 286026
 ---
-
 Yeah, clap your hands
 
 We're having a party,
@@ -160,6 +164,3 @@ Everybody's swinging
 dancing to the music
 on the radio
 Yeah, yeah, oh oh
-
-
-

@@ -1,9 +1,12 @@
 ---
+album: Stranger In Town
 artists:
 - Bob Seger
 - The Silver Bullet Band
+external_ids:
+  spotify: spotify:track:1Ryxsiacu8pUXIMCVnIQ8J
 features: []
-genres: []
+first_released_as_single: false
 key: still-the-same-bob-seger-the-silver-bullet-band
 lyrics_url: https://www.musixmatch.com/lyrics/Bob-Seger-feat-The-Silver-Bullet-Band/Still-the-Same
 name: Still The Same
@@ -80,6 +83,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1978-09-09'
+release_year: 1978
+runtime: 203546
 ---
 You always won every time you placed a bet
 You're still damn good no one's gotten to you yet

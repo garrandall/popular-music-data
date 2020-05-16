@@ -1,8 +1,11 @@
 ---
+album: Little Caesar and the Romans
 artists:
 - Little Caesar and The Romans
+external_ids:
+  spotify: spotify:track:6o3R69ldWuqUIQzSHKlu2I
 features: []
-genres: []
+first_released_as_single: false
 key: those-oldies-but-goodies--remind-me-of-you--little-caesar-and-the-romans
 lyrics_url: https://genius.com/Little-caesar-and-the-romans-those-oldies-but-goodies-annotated
 name: Those Oldies But Goodies (Remind Me Of You)
@@ -59,6 +62,8 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '1961-07-24'
+release_year: 1961
+runtime: 179480
 ---
 Those oldies but goodies reminds me of you
 The songs of the past bring back memories of you

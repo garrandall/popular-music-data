@@ -1,8 +1,11 @@
 ---
+album: A Little More Personal (RAW)
 artists:
 - Lindsay Lohan
+external_ids:
+  spotify: spotify:track:0x7663BmBYv7m1ejUzXHfd
 features: []
-genres: []
+first_released_as_single: false
 key: confessions-of-a-broken-heart--daughter-to-father--lindsay-lohan
 lyrics_url: https://genius.com/Lindsay-lohan-confessions-of-a-broken-heart-daughter-to-father-lyrics
 name: Confessions Of A Broken Heart (Daughter To Father)
@@ -35,6 +38,8 @@ rankings:
   rank: 62
   ranking_list: Billboard Hot 100
   start_date: '2006-01-14'
+release_year: 2005
+runtime: 220800
 ---
 I wait for the postman
 To bring me a letter

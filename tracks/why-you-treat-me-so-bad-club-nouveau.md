@@ -1,8 +1,11 @@
 ---
+album: Life, Love & Pain
 artists:
 - Club Nouveau
+external_ids:
+  spotify: spotify:track:2b2s72CoDYJD7HrYhU9aVu
 features: []
-genres: []
+first_released_as_single: false
 key: why-you-treat-me-so-bad-club-nouveau
 lyrics_url: https://genius.com/Club-nouveau-why-you-treat-me-so-bad-lyrics
 name: Why You Treat Me So Bad
@@ -59,6 +62,8 @@ rankings:
   rank: 90
   ranking_list: Billboard Hot 100
   start_date: '1987-08-22'
+release_year: 1986
+runtime: 311800
 ---
 Why you treat me so bad
 Why you treat me so bad

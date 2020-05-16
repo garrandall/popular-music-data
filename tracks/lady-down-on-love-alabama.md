@@ -1,8 +1,11 @@
 ---
+album: Alabama Live
 artists:
 - Alabama
+external_ids:
+  spotify: spotify:track:3BMcC4eIzdBmAeYfkRY1ld
 features: []
-genres: []
+first_released_as_single: false
 key: lady-down-on-love-alabama
 lyrics_url: https://www.azlyrics.com/lyrics/alabama/ladydownonlove.html
 name: Lady Down On Love
@@ -31,8 +34,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1983-12-03'
+release_year: 1980
+runtime: 231266
 ---
-
 It's her first night on the town since she was just eighteen
 A lady down on love and out of hope and dreams
 The ties that once bound her now are broke away
@@ -60,6 +64,3 @@ She needs somebody to gently pick her up
 She's got her freedom, but she'd rather be bound
 To a man who would love her and never let her down
 Now she's a lady down on love...
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: The Night Chicago Died
 artists:
 - Paper Lace
+external_ids:
+  spotify: spotify:track:5cHP2CA01VIAZixCfZdI3U
 features: []
-genres: []
+first_released_as_single: false
 key: billy---don-t-be-a-hero-paper-lace
 lyrics_url: https://genius.com/Paper-lace-billy-dont-be-a-hero-lyrics
 name: Billy - Don't Be A Hero
@@ -19,6 +22,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1974-05-11'
+release_year: 1974
+runtime: 225306
 ---
 The marchin' band came down along Maine Street
 The soldier-blues fell in behind

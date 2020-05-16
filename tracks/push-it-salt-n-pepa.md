@@ -1,8 +1,11 @@
 ---
+album: Hot, Cool & Vicious
 artists:
 - Salt-N-Pepa
+external_ids:
+  spotify: spotify:track:6sT9MWlJManry3EQwf4V80
 features: []
-genres: []
+first_released_as_single: false
 key: push-it-salt-n-pepa
 lyrics_url: https://genius.com/Salt-n-pepa-push-it-lyrics
 name: Push It
@@ -107,6 +110,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1988-05-07'
+release_year: 1986
+runtime: 272133
 ---
 Ah, push it
 Ah, push it

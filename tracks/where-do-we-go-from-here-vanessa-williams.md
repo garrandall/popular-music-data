@@ -1,8 +1,11 @@
 ---
+album: Greatest Hits
 artists:
 - Vanessa Williams
+external_ids:
+  spotify: spotify:track:5jsUDRV7q3mB4D1fbgQ0ye
 features: []
-genres: []
+first_released_as_single: false
 key: where-do-we-go-from-here-vanessa-williams
 lyrics_url: https://www.azlyrics.com/lyrics/vanessawilliams/wheredowegofromhere.html
 name: Where Do We Go From Here
@@ -63,8 +66,9 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1996-10-12'
+release_year: 1996
+runtime: 258760
 ---
-
 Life can be strange, somethings we forget
 Or rearrange in time, lose the past
 Tell me the truth, tell me how can I know
@@ -102,6 +106,3 @@ Where do we go from here I know
 No matter what the road, your love will lead me home
 
 No matter what the road, your love will lead me home
-
-
-

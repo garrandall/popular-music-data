@@ -1,8 +1,11 @@
 ---
+album: Consensual Sex
 artists:
 - Kinsu
+external_ids:
+  spotify: spotify:track:0hyJHL9VTqHn5VheJDFeRE
 features: []
-genres: []
+first_released_as_single: false
 key: tha-hop-kinsu
 name: Tha Hop
 rankings:
@@ -38,5 +41,7 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1998-03-14'
+release_year: 1997
+runtime: 253333
 ---
 

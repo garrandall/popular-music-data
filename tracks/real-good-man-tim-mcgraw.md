@@ -1,8 +1,11 @@
 ---
+album: Tim McGraw And The Dancehall Doctors
 artists:
 - Tim McGraw
+external_ids:
+  spotify: spotify:track:2G5bas1NMxlSYOPAJxBKfo
 features: []
-genres: []
+first_released_as_single: false
 key: real-good-man-tim-mcgraw
 lyrics_url: https://www.azlyrics.com/lyrics/timmcgraw/realgoodman.html
 name: Real Good Man
@@ -87,8 +90,9 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '2003-11-22'
+release_year: 2002
+runtime: 254600
 ---
-
 Girl you've never known no one like me
 Up there in your high society
 They might tell you I'm no good
@@ -125,6 +129,3 @@ But baby I'm a real good man
 I may be a real bad boy
 Oh but baby I'm a real good man
 Yes I am
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Strength
 artists:
 - The Alarm
+external_ids:
+  spotify: spotify:track:2nn460Tc5Cr1rszQ0y1TPD
 features: []
-genres: []
+first_released_as_single: false
 key: strength-the-alarm
 lyrics_url: https://genius.com/The-alarm-strength-lyrics
 name: Strength
@@ -47,6 +50,8 @@ rankings:
   rank: 99
   ranking_list: Billboard Hot 100
   start_date: '1986-03-01'
+release_year: 1985
+runtime: 334266
 ---
 GIVE ME LOVE
 GIVE ME HOPE

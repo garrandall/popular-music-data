@@ -1,8 +1,11 @@
 ---
+album: All Shook Up
 artists:
 - Cheap Trick
+external_ids:
+  spotify: spotify:track:2G27ua2bJlltlsISrwaWVv
 features: []
-genres: []
+first_released_as_single: false
 key: stop-this-game-cheap-trick
 lyrics_url: https://genius.com/Cheap-trick-stop-this-game-lyrics
 name: Stop This Game
@@ -55,6 +58,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1981-01-24'
+release_year: 1977
+runtime: 237066
 ---
 Well I can't stop the music
 I could stop it before

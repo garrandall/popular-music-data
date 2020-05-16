@@ -1,8 +1,11 @@
 ---
+album: Rumours (Super Deluxe)
 artists:
 - Fleetwood Mac
+external_ids:
+  spotify: spotify:track:55mQhobuwtY7lfLAXylg1k
 features: []
-genres: []
+first_released_as_single: false
 key: you-make-loving-fun-fleetwood-mac
 lyrics_url: https://www.azlyrics.com/lyrics/fleetwoodmac/youmakelovingfun.html
 name: You Make Loving Fun
@@ -63,8 +66,9 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1978-01-14'
+release_year: 1977
+runtime: 216626
 ---
-
 Sweet wonderful you,
 You make me happy with the things you do.
 Oh, can it be so?
@@ -94,6 +98,3 @@ You, you make loving fun.
 It's all I wanna do.
 You, you make loving fun.
 It's all I wanna do.
-
-
-

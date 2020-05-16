@@ -1,8 +1,11 @@
 ---
+album: 'The Complete Motown Singles - Vol. 12A: 1972'
 artists:
 - R. Dean Taylor
+external_ids:
+  spotify: spotify:track:6Qoa1kEcbOAxw4vQYDPijk
 features: []
-genres: []
+first_released_as_single: false
 key: taos-new-mexico-r--dean-taylor
 lyrics_url: https://genius.com/R-dean-taylor-taos-new-mexico-lyrics
 name: Taos New Mexico
@@ -19,6 +22,8 @@ rankings:
   rank: 83
   ranking_list: Billboard Hot 100
   start_date: '1972-04-29'
+release_year: 1972
+runtime: 190346
 ---
 My mama wrote a letter in she said:
 "Son, you beter hurry, get home quick

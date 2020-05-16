@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music, The Christmas Album'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:0fUFpFczhuhJBz2Z28IL2x
 features: []
-genres: []
+first_released_as_single: false
 key: last-christmas-glee-cast
 lyrics_url: https://genius.com/Glee-cast-last-christmas-lyrics
 name: Last Christmas
@@ -15,6 +18,8 @@ rankings:
   rank: 89
   ranking_list: Billboard Hot 100
   start_date: '2009-12-26'
+release_year: 2009
+runtime: 216626
 ---
 Bum, bum-bum-bum, bum-bum-bum-bum, bum, bum-bum
 Bum, bum-bum-bum, bum-bum-bum-bum, bum, bum-bum (Yeah, yeah, yeah)

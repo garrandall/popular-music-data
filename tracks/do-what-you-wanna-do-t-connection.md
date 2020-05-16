@@ -1,8 +1,11 @@
 ---
+album: Move & Groove
 artists:
 - T-Connection
+external_ids:
+  spotify: spotify:track:5M2KkUMV5OejG8dUdz321g
 features: []
-genres: []
+first_released_as_single: false
 key: do-what-you-wanna-do-t-connection
 lyrics_url: https://genius.com/T-connection-do-what-you-wanna-do-lyrics
 name: Do What You Wanna Do
@@ -75,6 +78,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '1977-07-02'
+release_year: 1977
+runtime: 200191
 ---
 Everybody's startin' to pick on you
 Just can't let them tell you what to do

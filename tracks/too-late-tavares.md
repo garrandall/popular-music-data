@@ -1,8 +1,11 @@
 ---
+album: Anthology
 artists:
 - Tavares
+external_ids:
+  spotify: spotify:track:73JUaLdsvKj9iMM0K7XSu8
 features: []
-genres: []
+first_released_as_single: false
 key: too-late-tavares
 lyrics_url: https://www.azlyrics.com/lyrics/tavares/toolate.html
 name: Too Late
@@ -35,8 +38,9 @@ rankings:
   rank: 59
   ranking_list: Billboard Hot 100
   start_date: '1974-07-13'
+release_year: 1974
+runtime: 264200
 ---
-
 Too late
 Am I too late
 Too late
@@ -102,6 +106,3 @@ Girl, I was wrong, this is where I belong
 
 Am I too late to get in the door
 Am I too late
-
-
-

@@ -1,8 +1,11 @@
 ---
+album: Made In America
 artists:
 - Carpenters
+external_ids:
+  spotify: spotify:track:4WVl3or8Xtnvv4XfSqAVNY
 features: []
-genres: []
+first_released_as_single: false
 key: those-good-old-dreams-carpenters
 lyrics_url: https://www.azlyrics.com/lyrics/carpenters/thosegoodolddreams.html
 name: Those Good Old Dreams
@@ -31,8 +34,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1982-01-23'
+release_year: 1981
+runtime: 253066
 ---
-
 As a child I was known for make-believing
 All alone I created fantasies
 As I grew people called it self-deceiving
@@ -74,6 +78,3 @@ It's a new day for those good old dreams
 All my life I dreamed of you
 It's a new day for those good old dreams
 And it's all because of you
-
-
-

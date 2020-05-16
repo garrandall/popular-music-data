@@ -1,8 +1,11 @@
 ---
+album: Frantic Romantic
 artists:
 - Jermaine Stewart
+external_ids:
+  spotify: spotify:track:6S7OQQ19MSi5Fo2PQ6LL1u
 features: []
-genres: []
+first_released_as_single: true
 key: we-don-t-have-to-take-our-clothes-off-jermaine-stewart
 lyrics_url: https://genius.com/Jermaine-stewart-we-dont-have-to-take-our-clothes-off-lyrics
 name: We Don't Have To Take Our Clothes Off
@@ -95,6 +98,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1986-10-11'
+release_year: 1986
+runtime: 245026
 ---
 Not a word from your lips
 You just took for granted that I want to skinny dip

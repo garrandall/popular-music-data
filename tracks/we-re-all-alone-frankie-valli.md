@@ -1,8 +1,11 @@
 ---
+album: Valli
 artists:
 - Frankie Valli
+external_ids:
+  spotify: spotify:track:0ZYNt9bvCVjK8cwyrvF8H0
 features: []
-genres: []
+first_released_as_single: false
 key: we-re-all-alone-frankie-valli
 lyrics_url: https://www.azlyrics.com/lyrics/frankievalli/wereallalone.html
 name: We're All Alone
@@ -19,8 +22,9 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1976-08-28'
+release_year: 1976
+runtime: 248173
 ---
-
 Outside the rain begins
 And it may never end
 So cry no more
@@ -72,6 +76,3 @@ Throw it to the wind, my love
 Hold me dear
 All's forgotten now, my love
 We're all alone
-
-
-

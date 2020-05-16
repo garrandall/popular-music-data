@@ -1,8 +1,11 @@
 ---
+album: Jimmy Wayne
 artists:
 - Jimmy Wayne
+external_ids:
+  spotify: spotify:track:2HEMdZPNfOLF9W3LeE7dkC
 features: []
-genres: []
+first_released_as_single: false
 key: stay-gone-jimmy-wayne
 lyrics_url: https://www.azlyrics.com/lyrics/jimmywayne/staygone.html
 name: Stay Gone
@@ -87,8 +90,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2003-09-06'
+release_year: 2003
+runtime: 226600
 ---
-
 I've found peace of mind, I'm feeling good again
 I'm on the other side, back among the living
 Ain't a cloud in the sky
@@ -138,6 +142,3 @@ If you just stay gone
 
 I know everything's gonna be okay
 If you just stay gone
-
-
-

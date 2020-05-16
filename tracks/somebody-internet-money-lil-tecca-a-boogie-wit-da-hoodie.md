@@ -1,10 +1,13 @@
 ---
+album: Somebody
 artists:
 - Internet Money
 - Lil Tecca
 - A Boogie Wit da Hoodie
+external_ids:
+  spotify: spotify:track:735RSTb2xbtWbDtKD9XDYi
 features: []
-genres: []
+first_released_as_single: true
 key: somebody-internet-money-lil-tecca-a-boogie-wit-da-hoodie
 lyrics_url: https://genius.com/Internet-money-lil-tecca-and-a-boogie-wit-da-hoodie-somebody-lyrics
 name: Somebody
@@ -25,6 +28,8 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '2019-11-23'
+release_year: 2019
+runtime: 174333
 ---
 Internet Money, bitch
 We love you, Tecca

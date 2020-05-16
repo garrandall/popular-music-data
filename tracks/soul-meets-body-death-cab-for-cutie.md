@@ -1,8 +1,11 @@
 ---
+album: Plans
 artists:
 - Death Cab For Cutie
+external_ids:
+  spotify: spotify:track:5yc59J3MR3tVDPTOgwgRI5
 features: []
-genres: []
+first_released_as_single: false
 key: soul-meets-body-death-cab-for-cutie
 lyrics_url: https://genius.com/Death-cab-for-cutie-soul-meets-body-lyrics
 name: Soul Meets Body
@@ -83,6 +86,8 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '2006-02-11'
+release_year: 2005
+runtime: 229413
 ---
 I want to live where soul meets body
 And let the sun wrap its arms around me

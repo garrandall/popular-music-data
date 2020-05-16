@@ -1,8 +1,11 @@
 ---
+album: Schizophrenic
 artists:
 - JC Chasez
+external_ids:
+  spotify: spotify:track:5nOMJVZ4rsY5PpYiKD15BS
 features: []
-genres: []
+first_released_as_single: false
 key: blowin--me-up--with-her-love--jc-chasez
 lyrics_url: https://genius.com/Jc-chasez-blowin-me-up-with-her-love-lyrics
 name: Blowin' Me Up (With Her Love)
@@ -75,6 +78,8 @@ rankings:
   rank: 94
   ranking_list: Billboard Hot 100
   start_date: '2003-04-26'
+release_year: 2003
+runtime: 290200
 ---
 Saw you 'round the other day
 Shorty she was all the way

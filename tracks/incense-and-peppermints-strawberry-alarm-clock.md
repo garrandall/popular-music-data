@@ -1,8 +1,11 @@
 ---
+album: Incense And Peppermints
 artists:
 - Strawberry Alarm Clock
+external_ids:
+  spotify: spotify:track:16iApoNZYaN6gbMtRRVV6B
 features: []
-genres: []
+first_released_as_single: false
 key: incense-and-peppermints-strawberry-alarm-clock
 lyrics_url: https://genius.com/Strawberry-alarm-clock-incense-and-peppermints-lyrics
 name: Incense And Peppermints
@@ -71,6 +74,8 @@ rankings:
   rank: 37
   ranking_list: Billboard Hot 100
   start_date: '1968-01-13'
+release_year: 1967
+runtime: 167453
 ---
 Ba-ba, ba-ba
 Ba-ba, ba-ba

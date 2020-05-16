@@ -1,8 +1,11 @@
 ---
+album: El Mejor De Freddy Fender, Volume 2
 artists:
 - Freddy Fender
+external_ids:
+  spotify: spotify:track:0hjCC1uNldl1tMAqvLvyCf
 features: []
-genres: []
+first_released_as_single: false
 key: vaya-con-dios-freddy-fender
 lyrics_url: https://www.azlyrics.com/lyrics/freddyfender/vayacondios.html
 name: Vaya Con Dios
@@ -31,8 +34,9 @@ rankings:
   rank: 96
   ranking_list: Billboard Hot 100
   start_date: '1976-07-04'
+release_year: 1976
+runtime: 167493
 ---
-
 Now the hacienda's dark, the town is sleeping
 Now the time has come to part, the time for weeping
 Vaya con Dios, my darling
@@ -62,6 +66,3 @@ Now the dawn is breaking through a gray tomorrow
 But the memories we share are there to borrow
 Vaya con Dios, my darling
 Vaya con Dios, my love
-
-
-

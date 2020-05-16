@@ -1,9 +1,12 @@
 ---
+album: You Get What You Give
 artists:
 - Zac Brown Band
+external_ids:
+  spotify: spotify:track:2q40yq9UxqYGKuVZnynPxV
 features:
 - Alan Jackson
-genres: []
+first_released_as_single: false
 key: as-she-s-walking-away-zac-brown-band-alan-jackson
 lyrics_url: https://genius.com/Zac-brown-band-as-shes-walking-away-lyrics
 name: As She's Walking Away
@@ -88,6 +91,8 @@ rankings:
   rank: 61
   ranking_list: Billboard Hot 100
   start_date: '2011-01-08'
+release_year: 2010
+runtime: 223826
 ---
 We never spoke a word
 But every thought she had, I heard

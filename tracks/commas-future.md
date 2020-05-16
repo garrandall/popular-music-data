@@ -1,8 +1,11 @@
 ---
+album: DS2
 artists:
 - Future
+external_ids:
+  spotify: spotify:track:4aoo6M6VeimaKHd5XwElaK
 features: []
-genres: []
+first_released_as_single: false
 key: commas-future
 lyrics_url: https://genius.com/Future-fuck-up-some-commas-lyrics
 name: Commas
@@ -87,6 +90,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '2015-08-29'
+release_year: 2015
+runtime: 236748
 ---
 Fake nigga lie to a real nigga
 Now that's just some shit that you don't do

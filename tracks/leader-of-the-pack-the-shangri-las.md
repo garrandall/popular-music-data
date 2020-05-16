@@ -1,8 +1,11 @@
 ---
+album: The Dixie Cups Meet The Shangri-Las
 artists:
 - The Shangri-Las
+external_ids:
+  spotify: spotify:track:2eq8JtABmx1sCItzaddEyD
 features: []
-genres: []
+first_released_as_single: false
 key: leader-of-the-pack-the-shangri-las
 lyrics_url: https://www.azlyrics.com/lyrics/shangrilas/leaderofthepack.html
 name: Leader Of The Pack
@@ -55,8 +58,9 @@ rankings:
   rank: 22
   ranking_list: Billboard Hot 100
   start_date: '1964-12-26'
+release_year: 1964
+runtime: 168146
 ---
-
 Is she really going out with him?
 Well, there she is. Let's ask her.
 Betty, is that Jimmy's ring you're wearing?
@@ -103,6 +107,3 @@ The leader of the pack - now he's gone
 The leader of the pack - now he's gone
 The leader of the pack - now he's gone
 The leader of the pack - now he's gone
-
-
-

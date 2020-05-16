@@ -1,8 +1,11 @@
 ---
+album: All 20 Of Their Chart Hits 1953-1962
 artists:
 - Hank Ballard And The Midnighters
+external_ids:
+  spotify: spotify:track:14UiLs83FrAKzizWB0xbNy
 features: []
-genres: []
+first_released_as_single: false
 key: nothing-but-good-hank-ballard-and-the-midnighters
 lyrics_url: https://genius.com/Hank-ballard-and-the-midnighters-nothing-but-good-lyrics
 name: Nothing But Good
@@ -19,6 +22,8 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '1961-09-04'
+release_year: 1961
+runtime: 162626
 ---
 You're so pretty and so fine
 I wonder will I ever

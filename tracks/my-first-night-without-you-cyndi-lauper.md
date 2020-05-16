@@ -1,8 +1,11 @@
 ---
+album: A Night To Remember
 artists:
 - Cyndi Lauper
+external_ids:
+  spotify: spotify:track:62IZzPQIZhWWOnHaGWjrx9
 features: []
-genres: []
+first_released_as_single: false
 key: my-first-night-without-you-cyndi-lauper
 lyrics_url: https://www.azlyrics.com/lyrics/cyndilauper/myfirstnightwithoutyou.html
 name: My First Night Without You
@@ -31,8 +34,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1989-09-09'
+release_year: 1989
+runtime: 181333
 ---
-
 I'm driving home from work
 Knowing you're not there
 I used to hurry home
@@ -76,6 +80,3 @@ My first night without you
 My first night without you
 And I wonder how I'll get through
 Oh... without you
-
-
-

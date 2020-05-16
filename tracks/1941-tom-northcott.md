@@ -1,8 +1,11 @@
 ---
+album: 'Sunny Goodge Street: The Warner Bros. Recordings'
 artists:
 - Tom Northcott
+external_ids:
+  spotify: spotify:track:0a4pdyzHJzLhY8YWEb72GX
 features: []
-genres: []
+first_released_as_single: false
 key: 1941-tom-northcott
 lyrics_url: https://www.musixmatch.com/lyrics/Tom-Northcott/1941
 name: '1941'
@@ -15,6 +18,8 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '1968-03-23'
+release_year: 1968
+runtime: 172693
 ---
 Well in 1941 a happy father had a son
 And by 1944 the father walked right out the door

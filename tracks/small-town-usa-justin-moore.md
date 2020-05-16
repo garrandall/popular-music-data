@@ -1,8 +1,11 @@
 ---
+album: Justin Moore
 artists:
 - Justin Moore
+external_ids:
+  spotify: spotify:track:5pyB5WEAEwqwl18UaBLeBl
 features: []
-genres: []
+first_released_as_single: false
 key: small-town-usa-justin-moore
 lyrics_url: https://www.azlyrics.com/lyrics/justinmoore/smalltownusa.html
 name: Small Town USA
@@ -87,8 +90,9 @@ rankings:
   rank: 68
   ranking_list: Billboard Hot 100
   start_date: '2009-10-31'
+release_year: 2009
+runtime: 218853
 ---
-
 A lot of people called it prison when I was growin up
 But these are my roots and this is what I love
 Cause everybody knows me and I know them
@@ -131,6 +135,3 @@ A simple life and I'll be okay
 Yeah I'll be okay
 Here in small town USA
 Oh yeah small town USA
-
-
-

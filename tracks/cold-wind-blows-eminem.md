@@ -1,8 +1,11 @@
 ---
+album: Recovery
 artists:
 - Eminem
+external_ids:
+  spotify: spotify:track:3Tj1luJyKPQt7WbrqpJ2Az
 features: []
-genres: []
+first_released_as_single: false
 key: cold-wind-blows-eminem
 lyrics_url: https://www.azlyrics.com/lyrics/eminem/coldwindblows.html
 name: Cold Wind Blows
@@ -11,8 +14,9 @@ rankings:
   rank: 71
   ranking_list: Billboard Hot 100
   start_date: '2010-07-10'
+release_year: 2010
+runtime: 303733
 ---
-
 'Cause some things just don't change
 It's better when they stay the same
 Although the whole world knows your name
@@ -118,6 +122,3 @@ I don't know, I don't know what caused, I don't know what caused me to be this w
 I don't know, I don't know but I'll probably be this way 'til my dying day
 I don't know why I'm so, I'm so cold mean things I don't mean to say
 I guess this is how you made me
-
-
-

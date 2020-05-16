@@ -1,9 +1,12 @@
 ---
+album: QUAVO HUNCHO
 artists:
 - Quavo
+external_ids:
+  spotify: spotify:track:69PkhA9q3xCWU2CzoZnLAu
 features:
 - Lil Baby
-genres: []
+first_released_as_single: false
 key: lose-it-quavo-lil-baby
 lyrics_url: https://www.azlyrics.com/lyrics/quavo/loseit.html
 name: Lose It
@@ -12,9 +15,9 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '2018-10-27'
+release_year: 2018
+runtime: 237654
 ---
-
-
 Yeah, she lookin' like a movie, yeah (Woo, bad, yeah)
 I think that I'ma choose her, yeah (Choose her, hoo, yeah)
 Back that ass up, no Juvie, yeah (Juvie, hoo, yeah)
@@ -93,6 +96,3 @@ Don't get involved with her besties, they messy
 Spent a fifty ball on her neckpiece, she flexing
 I don't give no calls, I just hit her with the texting
 Emoji all drippin', leakin' waterfalls, yeah
-
-
-

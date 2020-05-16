@@ -1,10 +1,13 @@
 ---
+album: D.N.A.
 artists:
 - Mario
+external_ids:
+  spotify: spotify:track:6aVRQ6laU8vT6i0WbdngSU
 features:
 - Gucci Mane
 - Sean Garrett
-genres: []
+first_released_as_single: true
 key: break-up-mario-gucci-mane-sean-garrett
 lyrics_url: https://genius.com/Mario-break-up-lyrics
 name: Break Up
@@ -101,6 +104,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '2009-12-05'
+release_year: 2009
+runtime: 250586
 ---
 I love you, but I don't think I can love you anymore...
 

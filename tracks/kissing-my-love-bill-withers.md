@@ -1,8 +1,11 @@
 ---
+album: Still Bill
 artists:
 - Bill Withers
+external_ids:
+  spotify: spotify:track:262qk9k0LTyMXmjH9YT2xU
 features: []
-genres: []
+first_released_as_single: false
 key: kissing-my-love-bill-withers
 lyrics_url: https://genius.com/Bill-withers-kissing-my-love-lyrics
 name: Kissing My Love
@@ -47,6 +50,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1973-04-07'
+release_year: 1972
+runtime: 231044
 ---
 Whoa now
 When I'm kissing my love

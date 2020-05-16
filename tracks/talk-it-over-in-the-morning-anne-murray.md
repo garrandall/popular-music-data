@@ -1,8 +1,11 @@
 ---
+album: Talk It Over In The Morning
 artists:
 - Anne Murray
+external_ids:
+  spotify: spotify:track:0GxsnkXzE6hwwd9HMNMkqh
 features: []
-genres: []
+first_released_as_single: false
 key: talk-it-over-in-the-morning-anne-murray
 lyrics_url: https://www.azlyrics.com/lyrics/annemurray/talkitoverinthemorning.html
 name: Talk It Over In The Morning
@@ -35,8 +38,9 @@ rankings:
   rank: 69
   ranking_list: Billboard Hot 100
   start_date: '1971-10-23'
+release_year: 1971
+runtime: 150173
 ---
-
 I disappointed you
 By sayin' things I never meant to say
 Now after all this time
@@ -83,6 +87,3 @@ Without your lovin' touch
 The world won't be the same
 All the birds that sing
 Might end up cryin'
-
-
-

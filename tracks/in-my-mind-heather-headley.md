@@ -1,8 +1,11 @@
 ---
+album: In My Mind
 artists:
 - Heather Headley
+external_ids:
+  spotify: spotify:track:42jK6Pmqulqclwg5nWIrtQ
 features: []
-genres: []
+first_released_as_single: true
 key: in-my-mind-heather-headley
 lyrics_url: https://www.azlyrics.com/lyrics/heatherheadley/inmymind.html
 name: In My Mind
@@ -67,8 +70,9 @@ rankings:
   rank: 88
   ranking_list: Billboard Hot 100
   start_date: '2006-05-27'
+release_year: 2005
+runtime: 246266
 ---
-
 Imagine seeing him on the town
 Holding another hand
 She's starin' me down,
@@ -113,6 +117,3 @@ I'll always keep you there.
 
 Yeah, yeah, yeah.
 Yeah, yeah, yeah.
-
-
-

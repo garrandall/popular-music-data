@@ -1,8 +1,11 @@
 ---
+album: Merkin Ball
 artists:
 - Pearl Jam
+external_ids:
+  spotify: spotify:track:3ZzJkuppQw26ZciijHwK3W
 features: []
-genres: []
+first_released_as_single: true
 key: i-got-id-pearl-jam
 lyrics_url: https://www.azlyrics.com/lyrics/pearljam/igotid.html
 name: I Got Id
@@ -87,8 +90,9 @@ rankings:
   rank: 82
   ranking_list: Billboard Hot 100
   start_date: '1996-05-04'
+release_year: 1995
+runtime: 291800
 ---
-
 My lips are shaking, my nails are bit off
 Been a month since I heard myself talk
 All the advantage this life's got on me
@@ -124,6 +128,3 @@ I paid the price
 Never held you in real life
 
 My lips are shaking
-
-
-

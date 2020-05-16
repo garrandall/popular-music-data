@@ -1,8 +1,11 @@
 ---
+album: 'Glee: The Music, The Complete Season Three'
 artists:
 - Glee Cast
+external_ids:
+  spotify: spotify:track:7qL8mpMQoOFPseE2RYfxRv
 features: []
-genres: []
+first_released_as_single: false
 key: human-nature-glee-cast
 lyrics_url: https://www.azlyrics.com/lyrics/gleecast/humannature.html
 name: Human Nature
@@ -11,9 +14,9 @@ rankings:
   rank: 56
   ranking_list: Billboard Hot 100
   start_date: '2012-02-18'
+release_year: 2012
+runtime: 204853
 ---
-
-
 Looking out
 Across the nighttime
 The city winks a sleepless eye
@@ -97,6 +100,3 @@ Oh why
 
 Why, why, tell 'em that it's human nature
 Why.
-
-
-

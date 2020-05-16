@@ -1,9 +1,12 @@
 ---
+album: Exclusive
 artists:
 - Chris Brown
+external_ids:
+  spotify: spotify:track:6K1ppbXeslg4ATviINa6rO
 features:
 - T-Pain
-genres: []
+first_released_as_single: true
 key: kiss-kiss-chris-brown-t-pain
 lyrics_url: https://genius.com/Chris-brown-kiss-kiss-lyrics
 name: Kiss Kiss
@@ -112,6 +115,8 @@ rankings:
   rank: 40
   ranking_list: Billboard Hot 100
   start_date: '2008-03-22'
+release_year: 2007
+runtime: 250906
 ---
 Yo, this is Nappy Boy Radio live
 With your boy T-Pain, we love rap music

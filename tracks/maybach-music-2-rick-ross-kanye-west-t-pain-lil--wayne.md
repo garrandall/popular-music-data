@@ -1,11 +1,14 @@
 ---
+album: Deeper Than Rap
 artists:
 - Rick Ross
+external_ids:
+  spotify: spotify:track:1PSOEWhJXNJ0NpjgedMqZ6
 features:
 - Kanye West
 - T-Pain
 - Lil' Wayne
-genres: []
+first_released_as_single: false
 key: maybach-music-2-rick-ross-kanye-west-t-pain-lil--wayne
 lyrics_url: https://www.azlyrics.com/lyrics/rickross/maybachmusic2.html
 name: Maybach Music 2
@@ -14,9 +17,9 @@ rankings:
   rank: 92
   ranking_list: Billboard Hot 100
   start_date: '2009-05-09'
+release_year: 2009
+runtime: 299866
 ---
-
-
 Realest shit I ever wrote, chillin' in my Maybach
 Whatever I sing now homie I'm a Maybach
 Can you believe that? Who
@@ -89,4 +92,3 @@ You see the Big, you see the Jay, the 2Pac in him
 
 The Kurt Cobain and Andre Three Stacks then I'm back to doing shit like I do
 Sing Maybach Music
-

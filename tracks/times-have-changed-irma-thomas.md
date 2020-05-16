@@ -1,8 +1,11 @@
 ---
+album: Take A Look
 artists:
 - Irma Thomas
+external_ids:
+  spotify: spotify:track:0ZU5cyKKJYiykDWCTPK6kg
 features: []
-genres: []
+first_released_as_single: false
 key: times-have-changed-irma-thomas
 lyrics_url: https://www.musixmatch.com/lyrics/Irma-Thomas/Times-Have-Changed
 name: Times Have Changed
@@ -15,6 +18,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1964-11-14'
+release_year: 1964
+runtime: 146000
 ---
 There was a time
 When you could snap your fingers

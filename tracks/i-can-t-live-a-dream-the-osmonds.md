@@ -1,8 +1,11 @@
 ---
+album: Brainstorm
 artists:
 - The Osmonds
+external_ids:
+  spotify: spotify:track:2GDtLoN8RcQ5lAjHwp2jGS
 features: []
-genres: []
+first_released_as_single: false
 key: i-can-t-live-a-dream-the-osmonds
 lyrics_url: https://genius.com/The-osmonds-i-cant-live-a-dream-lyrics
 name: I Can't Live A Dream
@@ -43,6 +46,8 @@ rankings:
   rank: 100
   ranking_list: Billboard Hot 100
   start_date: '1976-11-27'
+release_year: 1976
+runtime: 174840
 ---
 The day that you moved away
 Life was so empty

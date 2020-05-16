@@ -1,8 +1,11 @@
 ---
+album: Flower
 artists:
 - Jody Watley
+external_ids:
+  spotify: spotify:track:02mtwNZg77qNuctp0H6VDe
 features: []
-genres: []
+first_released_as_single: false
 key: off-the-hook-jody-watley
 lyrics_url: https://www.azlyrics.com/lyrics/jodywatley/offthehook.html
 name: Off The Hook
@@ -59,8 +62,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1998-05-16'
+release_year: 1998
+runtime: 242733
 ---
-
 You're off the hook
 
 Unlike my past relations
@@ -124,6 +128,3 @@ Between us there's fire (fire)
 My only desire
 'Cause baby, it's all good, yeah, yeah
 Your love is off the hook
-
-
-

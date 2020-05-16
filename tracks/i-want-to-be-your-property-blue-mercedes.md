@@ -1,8 +1,11 @@
 ---
+album: Rich And Famous
 artists:
 - Blue Mercedes
+external_ids:
+  spotify: spotify:track:0dDegRkX2YDeRCr2gYVjBw
 features: []
-genres: []
+first_released_as_single: true
 key: i-want-to-be-your-property-blue-mercedes
 lyrics_url: https://www.musixmatch.com/lyrics/Blue-Mercedes/I-Want-to-Be-Your-Property
 name: I Want To Be Your Property
@@ -31,6 +34,8 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1988-04-09'
+release_year: 1987
+runtime: 198026
 ---
 I want to be your property
 I want to live like Cyd Charisse

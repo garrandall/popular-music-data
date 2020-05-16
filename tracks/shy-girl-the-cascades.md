@@ -1,8 +1,11 @@
 ---
+album: Rhythm Of The Rain
 artists:
 - The Cascades
+external_ids:
+  spotify: spotify:track:2WjI3iFrkA8c7jyQ7rhOMS
 features: []
-genres: []
+first_released_as_single: false
 key: shy-girl-the-cascades
 lyrics_url: https://genius.com/The-cascades-shy-girl-lyrics
 name: Shy Girl
@@ -23,6 +26,8 @@ rankings:
   rank: 91
   ranking_list: Billboard Hot 100
   start_date: '1963-05-18'
+release_year: 1963
+runtime: 122160
 ---
 Shy girl, shy girl
 Don't shy away

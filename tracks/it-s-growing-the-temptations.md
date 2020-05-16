@@ -1,8 +1,11 @@
 ---
+album: The Temptations Sing Smokey
 artists:
 - The Temptations
+external_ids:
+  spotify: spotify:track:6Bd0PY42QkzbxPvW7zPgWN
 features: []
-genres: []
+first_released_as_single: false
 key: it-s-growing-the-temptations
 lyrics_url: https://genius.com/The-temptations-its-growing-lyrics
 name: It's Growing
@@ -43,6 +46,8 @@ rankings:
   rank: 37
   ranking_list: Billboard Hot 100
   start_date: '1965-05-29'
+release_year: 1965
+runtime: 179573
 ---
 Like a snowball rolling down the side of a snow covered hill
 It's growing

@@ -1,8 +1,11 @@
 ---
+album: Blake Shelton
 artists:
 - Blake Shelton
+external_ids:
+  spotify: spotify:track:2WQAknZHrJAEQOFXe0F44P
 features: []
-genres: []
+first_released_as_single: false
 key: austin-blake-shelton
 lyrics_url: https://www.azlyrics.com/lyrics/blakeshelton/austin.html
 name: Austin
@@ -87,8 +90,9 @@ rankings:
   rank: 41
   ranking_list: Billboard Hot 100
   start_date: '2001-10-06'
+release_year: 2001
+runtime: 230333
 ---
-
 She left without leavin' a number
 Said she needed to clear her mind
 He figured she'd gone back to Austin
@@ -132,6 +136,3 @@ And by the way, boy, this is no machine you're talkin' to
 Can't you tell, this is Austin, and I still love you
 
 I still love you
-
-
-

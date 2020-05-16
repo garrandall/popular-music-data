@@ -1,8 +1,11 @@
 ---
+album: Pride of America
 artists:
 - Charley Pride
+external_ids:
+  spotify: spotify:track:1vomCcDUMYmp2yH44l0Q99
 features: []
-genres: []
+first_released_as_single: false
 key: mississippi-cotton-picking-delta-town-charley-pride
 lyrics_url: https://www.musixmatch.com/lyrics/Charley-Pride/Mississippi-Cotton-Picking-Delta-Town
 name: Mississippi Cotton Picking Delta Town
@@ -23,6 +26,8 @@ rankings:
   rank: 98
   ranking_list: Billboard Hot 100
   start_date: '1974-12-07'
+release_year: 1974
+runtime: 143373
 ---
 In a Mississippi cotton pickin' Delta town
 One dusty street to walk up and down

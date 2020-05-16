@@ -1,8 +1,11 @@
 ---
+album: Now And Forever
 artists:
 - Air Supply
+external_ids:
+  spotify: spotify:track:09bRmFRViBORKQ2miwp04P
 features: []
-genres: []
+first_released_as_single: false
 key: even-the-nights-are-better-air-supply
 lyrics_url: https://www.azlyrics.com/lyrics/airsupply/eventhenightsarebetter.html
 name: Even The Nights Are Better
@@ -79,8 +82,9 @@ rankings:
   rank: 95
   ranking_list: Billboard Hot 100
   start_date: '1982-10-09'
+release_year: 1982
+runtime: 237106
 ---
-
 I, I was the lonely one
 Wondering what went wrong
 Why love had gone
@@ -125,4 +129,3 @@ Told me and now that I've found
 I never dreamed there'd be
 Someone to hold me until you
 Told me and now that I've found
-

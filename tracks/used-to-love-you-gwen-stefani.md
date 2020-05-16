@@ -1,8 +1,11 @@
 ---
+album: This Is What The Truth Feels Like
 artists:
 - Gwen Stefani
+external_ids:
+  spotify: spotify:track:5eWoeyaUleLlBwZQ7VvGPY
 features: []
-genres: []
+first_released_as_single: true
 key: used-to-love-you-gwen-stefani
 lyrics_url: https://www.azlyrics.com/lyrics/gwenstefani/usedtoloveyou.html
 name: Used To Love You
@@ -43,8 +46,9 @@ rankings:
   rank: 80
   ranking_list: Billboard Hot 100
   start_date: '2016-01-30'
+release_year: 2015
+runtime: 211640
 ---
-
 Never thought this would happen
 Gonna let it sink in, you're gone
 Don't know, know what I'm feeling
@@ -125,6 +129,3 @@ I don't know why I cry
 I don't, I don't, I don't
 I don't know why I used to love you
 I don't, I don't, I don't
-
-
-

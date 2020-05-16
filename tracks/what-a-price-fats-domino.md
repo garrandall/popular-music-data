@@ -1,8 +1,11 @@
 ---
+album: Sentimental Journey (Live at the University of New Orleans)
 artists:
 - Fats Domino
+external_ids:
+  spotify: spotify:track:78oZILua9C0fuqbNWZWyA1
 features: []
-genres: []
+first_released_as_single: false
 key: what-a-price-fats-domino
 lyrics_url: https://genius.com/Fats-domino-what-a-price-lyrics
 name: What A Price
@@ -43,6 +46,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1961-03-20'
+release_year: 1961
+runtime: 128386
 ---
 Oh what a price
 I had to pay

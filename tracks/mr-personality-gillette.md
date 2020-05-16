@@ -1,8 +1,11 @@
 ---
+album: On the Attack
 artists:
 - Gillette
+external_ids:
+  spotify: spotify:track:3tcpZKk012t3CzMNWBMfx8
 features: []
-genres: []
+first_released_as_single: false
 key: mr-personality-gillette
 lyrics_url: https://genius.com/Gillette-mr-personality-lyrics
 name: Mr Personality
@@ -79,6 +82,8 @@ rankings:
   rank: 97
   ranking_list: Billboard Hot 100
   start_date: '1995-07-01'
+release_year: 1994
+runtime: 214733
 ---
 They call you mr personality because you so ugly
 They call you mr personality because you so ugly

@@ -1,8 +1,11 @@
 ---
+album: Flush The Fashion
 artists:
 - Alice Cooper
+external_ids:
+  spotify: spotify:track:5ikKQMNDzPRPLTXRWemIAc
 features: []
-genres: []
+first_released_as_single: false
 key: clones--we-re-all--alice-cooper
 lyrics_url: https://www.azlyrics.com/lyrics/alicecooper/cloneswereall.html
 name: Clones (We're All)
@@ -43,8 +46,9 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '1980-07-12'
+release_year: 1980
+runtime: 171133
 ---
-
 I'm a clone
 I know it and I'm fine
 I'm one and more are on the way
@@ -104,6 +108,3 @@ I'm all alone, so are we all
 We're all clones
 All are one and one are all
 All are one and one are all
-
-
-

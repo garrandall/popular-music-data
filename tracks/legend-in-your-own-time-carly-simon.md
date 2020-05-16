@@ -1,8 +1,11 @@
 ---
+album: Anticipation
 artists:
 - Carly Simon
+external_ids:
+  spotify: spotify:track:4JBDflJI1pOKyT4f3f7Aiv
 features: []
-genres: []
+first_released_as_single: false
 key: legend-in-your-own-time-carly-simon
 lyrics_url: https://www.azlyrics.com/lyrics/carlysimon/legendinyourowntime.html
 name: Legend In Your Own Time
@@ -47,8 +50,9 @@ rankings:
   rank: 77
   ranking_list: Billboard Hot 100
   start_date: '1972-05-27'
+release_year: 1971
+runtime: 224826
 ---
-
 Well I have know you
 Since you were a small boy
 And your mama used to say
@@ -82,6 +86,3 @@ A hero in the footlights
 Playin' tunes to fit your rhyme
 But a legends only a lonely boy
 When he goes home alone.
-
-
-

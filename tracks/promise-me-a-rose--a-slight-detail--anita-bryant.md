@@ -1,8 +1,11 @@
 ---
+album: The Anita Bryant Collection 1958-62
 artists:
 - Anita Bryant
+external_ids:
+  spotify: spotify:track:1PwbGAcxx4Ywi8OIWvdlW9
 features: []
-genres: []
+first_released_as_single: false
 key: promise-me-a-rose--a-slight-detail--anita-bryant
 lyrics_url: https://genius.com/Anita-bryant-promise-me-a-rose-a-slight-detail-lyrics
 name: Promise Me A Rose (A Slight Detail)
@@ -19,6 +22,8 @@ rankings:
   rank: 78
   ranking_list: Billboard Hot 100
   start_date: '1960-01-11'
+release_year: 1959
+runtime: 153320
 ---
 If you promise me a rose
 I'd go out and buy a pot

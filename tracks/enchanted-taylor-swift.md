@@ -1,8 +1,11 @@
 ---
+album: Speak Now
 artists:
 - Taylor Swift
+external_ids:
+  spotify: spotify:track:10eBRyImhfqVvkiVEGf0N0
 features: []
-genres: []
+first_released_as_single: false
 key: enchanted-taylor-swift
 lyrics_url: https://www.azlyrics.com/lyrics/taylorswift/enchanted.html
 name: Enchanted
@@ -11,8 +14,9 @@ rankings:
   rank: 75
   ranking_list: Billboard Hot 100
   start_date: '2010-11-13'
+release_year: 2010
+runtime: 352186
 ---
-
 There I was again tonight
 Forcing laughter, faking smiles
 Same old tired lonely place
@@ -79,6 +83,3 @@ I was enchanted to meet you
 
 Please don't be in love with someone else
 Please don't have somebody waiting on you
-
-
-

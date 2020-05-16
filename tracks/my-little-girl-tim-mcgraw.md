@@ -1,8 +1,11 @@
 ---
+album: Love Story
 artists:
 - Tim McGraw
+external_ids:
+  spotify: spotify:track:0XSgBuKI0h4xc7lw4dxuRy
 features: []
-genres: []
+first_released_as_single: false
 key: my-little-girl-tim-mcgraw
 lyrics_url: https://genius.com/Tim-mcgraw-my-little-girl-lyrics
 name: My Little Girl
@@ -87,6 +90,8 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '2007-02-10'
+release_year: 2006
+runtime: 223533
 ---
 Gotta hold on easy as I let you go
 Gonna tell you how much I love you, though you think you already know

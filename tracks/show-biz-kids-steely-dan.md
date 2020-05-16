@@ -1,8 +1,11 @@
 ---
+album: Countdown To Ecstasy
 artists:
 - Steely Dan
+external_ids:
+  spotify: spotify:track:5SuggdLS4Jdh8anflh9lNe
 features: []
-genres: []
+first_released_as_single: false
 key: show-biz-kids-steely-dan
 lyrics_url: https://www.azlyrics.com/lyrics/steelydan/showbizkids.html
 name: Show Biz Kids
@@ -39,9 +42,9 @@ rankings:
   rank: 74
   ranking_list: Billboard Hot 100
   start_date: '1973-09-15'
+release_year: 1973
+runtime: 324333
 ---
-
-
 While the poor people sleepin'
 With the shade on the light
 While the poor people sleepin'
@@ -72,4 +75,3 @@ They're outrageous
 Show biz kids making movies
 Of themselves you know they
 Don't give a fuck about anybody else
-

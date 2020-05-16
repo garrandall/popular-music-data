@@ -1,8 +1,11 @@
 ---
+album: Portrait
 artists:
 - The 5th Dimension
+external_ids:
+  spotify: spotify:track:0IQ31hGBrqA2QZ8NiNXMGT
 features: []
-genres: []
+first_released_as_single: false
 key: one-less-bell-to-answer-the-5th-dimension
 lyrics_url: https://genius.com/The-5th-dimension-one-less-bell-to-answer-lyrics
 name: One Less Bell To Answer
@@ -83,6 +86,8 @@ rankings:
   rank: 39
   ranking_list: Billboard Hot 100
   start_date: '1971-02-27'
+release_year: 1970
+runtime: 208133
 ---
 One less bell to answer
 One less egg to fry

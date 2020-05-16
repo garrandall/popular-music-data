@@ -1,8 +1,11 @@
 ---
+album: Uncle Sam
 artists:
 - Uncle Sam
+external_ids:
+  spotify: spotify:track:4oJEy4qDPwDk5ac26yEMeL
 features: []
-genres: []
+first_released_as_single: false
 key: i-don-t-ever-want-to-see-you-again-uncle-sam
 lyrics_url: https://genius.com/Uncle-sam-i-dont-ever-want-to-see-you-again-lyrics
 name: I Don't Ever Want To See You Again
@@ -119,6 +122,8 @@ rankings:
   rank: 46
   ranking_list: Billboard Hot 100
   start_date: '1998-05-16'
+release_year: 1997
+runtime: 344584
 ---
 Early one mornin'
 While you were asleep

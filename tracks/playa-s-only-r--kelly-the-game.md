@@ -1,9 +1,12 @@
 ---
+album: Tp.3 Reloaded
 artists:
 - R. Kelly
+external_ids:
+  spotify: spotify:track:3JV9Hs3iTF4UhTIkN054i4
 features:
 - The Game
-genres: []
+first_released_as_single: false
 key: playa-s-only-r--kelly-the-game
 lyrics_url: https://genius.com/R-kelly-playas-only-lyrics
 name: Playa's Only
@@ -36,6 +39,8 @@ rankings:
   rank: 93
   ranking_list: Billboard Hot 100
   start_date: '2005-08-27'
+release_year: 2005
+runtime: 231967
 ---
 I hope y'all got y'all playa's cards
 'Cause y'all ain't gettin' in unless you do

@@ -1,8 +1,11 @@
 ---
+album: Chase Bryant
 artists:
 - Chase Bryant
+external_ids:
+  spotify: spotify:track:19OKWQPIupVomZOgBHvhV3
 features: []
-genres: []
+first_released_as_single: true
 key: take-it-on-back-chase-bryant
 lyrics_url: https://www.azlyrics.com/lyrics/chasebryant/takeitonback.html
 name: Take It On Back
@@ -39,8 +42,9 @@ rankings:
   rank: 85
   ranking_list: Billboard Hot 100
   start_date: '2015-03-07'
+release_year: 2014
+runtime: 246613
 ---
-
 Take it on back
 Take it on back
 Take it on back to where the grass is greener
@@ -119,6 +123,3 @@ Take it on back
 (Take it on back, take it on back, take it on back to where the grass is greener)
 Take it on back
 Take it on back
-
-
-
