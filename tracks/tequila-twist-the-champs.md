@@ -6,6 +6,7 @@ external_ids:
   spotify: spotify:track:0NsMzB7f8vfU1JyVCN0RW8
 features: []
 first_released_as_single: false
+lyrics_url: https://www.shazam.com/track/190760/tequila-twist
 key: tequila-twist-the-champs
 name: Tequila Twist
 rankings:
@@ -16,4 +17,4 @@ rankings:
 release_year: 1958
 runtime: 113400
 ---
-
+(instrumental)

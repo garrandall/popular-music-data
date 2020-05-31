@@ -7,6 +7,7 @@ external_ids:
 features: []
 first_released_as_single: false
 key: i-wonder-if-i-take-you-home-lisa-lisa-and-clult-jam-with-full-force
+lyrics_url: https://genius.com/Lisa-lisa-and-cult-jam-i-wonder-if-i-take-you-home-lyrics
 name: I Wonder If I Take You Home
 rankings:
 - end_date: '1985-06-14'
@@ -96,4 +97,101 @@ rankings:
 release_year: 1985
 runtime: 404213
 ---
+Take me home
+Take me home
 
+Baby, I know you're wondering
+Why I won't go over to your place
+Cause I'm not too sure about how you feel
+So I'd rather go at my own pace
+And I know and you know that if we get together
+Emotions will go to work
+And I may do something I might regret the next day
+And end up hurt
+Oh I don't know...
+That's the way that I feel
+I'm so afraid of a one night deal
+
+
+I wonder if I take you home would you still be in love baby
+Because I need you tonight
+I wonder if I take you home would you still be in love baby
+Because I need you tonight
+
+Your love is... take me home
+
+Lately you've been expressing to me
+Just how much you want to make love
+I want it just as much as you do
+But will you still keep in touch
+You say I'm teasing but I do have a reason
+Don't let your feelings fade
+'Cause you will have me and sooner than you know it
+If you could only wait
+Oh I don't know...
+That's the way i feel
+Im so afraid of a one night deal
+And sometimes
+
+
+I wonder if I take you home would you still be in love baby
+Because I need you tonight
+I wonder if I take you home would you still be in love baby
+(home home, home home)
+Because I need you tonight
+
+I wonder if I take you home would you still be in love baby
+Because I need you tonight
+I wonder if I take you home would you still be in love baby
+(home home, home home)
+Because I need you tonight
+
+
+And on the real side, if you love me (huhh)
+You would wait
+
+I wonder if i take you home, (home home, home home)
+I wonder if i take you home
+
+Your love is...
+
+I wonder if take you home, would you still make me love baby
+Because i need you tonight
+I wonder if take you home, would you still make me love baby
+Because i need you tonight
+
+I wonder, I wonder, I really really wonder (home home, home home)
+Take me home
+I wonder, I wonder, I really really wonder
+Take me home
+
+Your love is...
+No Good!
+
+Keep telling me lies & ur still not sure
+-in my eyes, our relationship would be more clear
+"no its just i feel that your rushing me"
+"ok, since you dont love me & dont want to be with me"
+"no its not that its just that im afraid of getting hurt"
+I dont know i just keep asking myself, Should i really take you home?
+What do you think?
+
+Take me, take me
+Take me home
+Take me, take me
+Take me home
+Take me, take me
+Take me home
+Home home, home home
+
+Home
+Your down on your knees
+Begging me please
+
+Take me home
+TAKE ME HOME!
+
+Will you still love me
+IF I TAKE YOU HOME!
+Will you still love me
+IF I TAKE YOU HOME!!!!

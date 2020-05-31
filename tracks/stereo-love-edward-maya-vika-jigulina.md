@@ -8,7 +8,7 @@ external_ids:
 features: []
 first_released_as_single: false
 key: stereo-love-edward-maya-vika-jigulina
-lyrics_url: https://genius.com/Dj-redo-stereo-love-edward-maya-feat-vika-jigulina-ultra-weekend-6instrumental-lyrics
+lyrics_url: https://genius.com/Edward-maya-stereo-love-lyrics
 name: Stereo Love
 rankings:
 - end_date: '2010-10-29'
@@ -126,4 +126,52 @@ rankings:
 release_year: 2009
 runtime: 247760
 ---
-Instrumental
+When you gonna stop breaking my heart?
+I don't wanna be another one
+Paying for the things I never done
+Don't let go, don't let go to my love
+
+Can I get to your soul? Can you get to my flow?
+Can we promise we won't let go?
+All the things that I need, all the things that you need
+You can make it feel so real
+
+'Cause you can't deny, you've blown my mind
+When I touch your body, I feel I'm losing control
+'Cause you can't deny, you've blown my mind
+When I see you, baby, I just don't wanna let go
+
+I hate to see you cry, your smile is a beautiful lie
+I hate to see you cry, my love is dying inside
+
+I can fix all those lies
+Oh baby, baby, I run, but I'm running to you
+You won't see me cry, I'm hiding inside
+My heart is in pain, but I'm smiling for you
+
+Can I get to your soul? Can you get to my flow?
+Can we promise we won't let go?
+All the things that I need, all the things that you need
+You can make it feel so real
+
+'Cause you can't deny, you've blown my mind
+When I touch your body, I feel I'm losing control
+'Cause you can't deny, you've blown my mind
+When I see you, baby, I just don't wanna let go
+
+When you gonna stop breaking my heart?
+Don't let go, don't let go to my love
+
+I hate to see you cry, your smile is a beautiful lie
+I hate to see you cry, my love is dying inside
+I hate to see you cry, my love is dying inside
+I haven't seen you smilin' but I'm dying tonight
+
+I can fix all those lies
+Oh baby, baby, I run, but I'm running to you
+You won't see me cry, I'm hiding inside
+My heart is in pain, but I'm smiling for you
+Oh baby I'll try to make the things right
+I need you more than air when I'm not with you
+Please don't ask me why, just kiss me this time
+My only dream is about you and I

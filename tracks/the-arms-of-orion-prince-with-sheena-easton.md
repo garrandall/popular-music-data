@@ -1,10 +1,11 @@
 ---
 artists:
 - Prince
+external_ids: {}
 features:
 - Sheena Easton
-genres: []
 key: the-arms-of-orion-prince-with-sheena-easton
+lyrics_url: https://www.musixmatch.com/lyrics/Prince-feat-Sheena-Easton/The-Arms-of-Orion-edit
 name: The Arms Of Orion
 rankings:
 - end_date: '1989-10-27'
@@ -64,4 +65,67 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1990-01-20'
 ---
+Orions arms are wide enough to hold us both together
+Although we're worlds apart
+I'd cross the stars for you
+In the heart of a sleepless moon i'll be with you forever
+This is my destiny
+Til my life is through
 
+The Arms of orion that's where i wanna be
+Since you've been gone
+I've been searching for a lover in the sea of tranquility
+Drowning without you here my dear
+
+When i'm lost or feel alone i just look to heaven
+I find my comfort there
+God only knows where you are tonight.
+
+God only knows where you are tonight
+Maybe time will tell me
+Til then i close my eyes
+Say a prayer for you
+Say a prayer for you, to you.
+
+The arms of orion that's where i wanna be
+Since you've been gone i've been searching for a lover in the sea of tranquility
+Drowning without you here my dear
+
+Orions heart is bright enough to shine on both of us
+The constellations never fail
+To light the way for love
+
+Orions arms are wide enough to hold us both together
+Although we're worlds apart
+I'd cross the stars for you
+I'd cross the stars for you
+
+The arms of orion that's where i wanna be
+Since you've been gone i've been searching for a lover in the sea of tranquility
+Drowning without you here my dear
+Uh oh
+
+The arms of orion that's where i wanna be
+Since you've been gone i've been drowning
+Lost
+In the sea of tranquility
+Lost
+Drowning without you here my dear
+Oooh my dear
+
+Arms of orion
+They're open wide
+Arms of orion
+Where i hide
+That's where i wanna be
+That's where i wanna be
+The arms of orion
+That's where i wanna be
+The arms of orion
+Since you've been gone babe
+Since you've been gone i've been drowning
+Drowning, Drowning
+Drowning without your love
+The arms of orion
+The arms of orion
+Ooooh oooh ooh oooh

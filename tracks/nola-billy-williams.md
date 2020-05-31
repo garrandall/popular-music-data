@@ -1,9 +1,10 @@
 ---
 artists:
 - Billy Williams
+external_ids: {}
 features: []
-genres: []
 key: nola-billy-williams
+lyrics_url: https://www.musixmatch.com/lyrics/Billy-Williams/Nola
 name: Nola
 rankings:
 - end_date: '1959-01-18'
@@ -55,3 +56,75 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1959-04-13'
 ---
+Nola is like a dream come true
+She's sweet and unaffected
+Everything Nola seems to do
+Is really unexpected
+
+Nola has twinkling eyes of blue
+And cherry lips perfected
+Everything nice
+Like sugar and spice is Nola
+
+Walking along the thoroughfare
+She always draws attention
+All of the fellas stop to stare
+She's called the fourth dimension
+
+But if they think
+That she could care
+It's mere misapprehension
+Wait till you see the angel with me
+It's Nola
+
+On her hand
+She wears a diamond ring
+It's a mighty pretty thing
+I'm the one who
+Saved and bought it
+
+There's a house
+With roses all around it
+Awfully glad I found it
+Lucky I can just afford it
+
+When she's near
+The winter turns to spring
+Bells begin to ring
+There's a magic charm about her
+
+She's divine
+And she's mine, all mine
+I'm in love
+So in love with Nola
+
+Eyes that haunt you
+Lips that taunt you
+Kiss that taste like wine
+
+If you knew her
+You'd pursue her
+But she's mine, all mine
+
+Nola is like a dream come true
+She's sweet and unaffected
+Everything Nola seems to do
+Is really unexpected
+
+Nola has twinkling eyes of blue
+And cherry lips perfected
+Everything nice like sugar and spice
+Is Nola
+
+Walking along the thoroughfare
+She always draws attention
+All of the fellas stop to stare
+She's called the fourth dimension
+
+But if they think
+That she could care
+It's mere misapprehension
+Wait till you see the angel with me
+It's Nola
+
+Oh, yeah

@@ -7,6 +7,7 @@ external_ids:
 features: []
 first_released_as_single: false
 key: walk----don-t-run-the-ventures
+lyrics_url: https://www.musixmatch.com/lyrics/The-Ventures/%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%AF%E3%83%BB%E3%83%89%E3%83%B3%E3%83%88%E3%83%BB%E3%83%A9%E3%83%B3-WALK-DON-T-RUN
 name: Walk -- Don't Run
 rankings:
 - end_date: '1960-07-24'
@@ -84,4 +85,25 @@ rankings:
 release_year: 1960
 runtime: 122933
 ---
+Wind and storm (wah-ooh)
+Gone's the sun (wah-ooh)
+From the stars (wah-ooh)
+My dark has come
+You've gone from me, whoa, whoa, tragedy
 
+Oh, come back (come back)
+Have me here (right here)
+Hold me love (my love)
+Be sincere
+You've gone from me, whoa, whoa, tragedy
+
+Like smoke (like smoke) from a fire (from a fire)
+Our love (of love) whoa oh oh whoa
+Our dreams (our dreams) have all gone (all gone)
+Above (above) whoa oh oh whoa
+
+Blown (blown by wind)
+Kissed by the snow
+All that's left is the dark be-ee (below)
+You've gone from me, whoa, whoa, tragedy
+Whoa, whoa, whoa tragedy.

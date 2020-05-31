@@ -8,6 +8,7 @@ features:
 - Steve Wariner
 first_released_as_single: false
 key: been-there-clint-black-with-steve-wariner
+lyrics_url: https://genius.com/Clint-black-been-there-lyrics
 name: Been There
 rankings:
 - end_date: '2000-02-25'
@@ -93,4 +94,29 @@ rankings:
 release_year: 2000
 runtime: 335200
 ---
+Did you ever wake up in the middle of the night
+And wonder where you were
+You need the one and only that can hold you tight
+And you reach for her, but she's not with you
+You just wish this trip would end
+You know I've been there, I don't wanna go back again
 
+Did you ever wake up in the middle of the day
+And wonder who you are
+You suddenly discover there's a price you pay
+For gettin' this far, and it's the part of you
+You really don't have to spend
+You know I've been there, and I don't wanna go back again
+
+There's so many moments that I've left incomplete
+Those are the moments that I'm not gonna repeat, no
+
+Did you ever wake up in the middle of a dream
+That didn't come true
+You think you're gotta give up on makin' that scene
+And seeing it through, you feel like breaking
+When you really just need to bend
+You know I've been there, and I'll never go back again
+
+There's so many moments that I've left incomplete
+Those are the moments that I'm not gonna repeat, no

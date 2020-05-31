@@ -8,6 +8,7 @@ features:
 - The Twilights
 first_released_as_single: false
 key: sea-of-love-phil-phillips-with-the-twilights
+lyrics_url: https://genius.com/Phil-phillips-and-the-twilights-sea-of-love-lyrics
 name: Sea Of Love
 rankings:
 - end_date: '1959-07-12'
@@ -85,4 +86,25 @@ rankings:
 release_year: 1959
 runtime: 141933
 ---
+Come with me, my love
+To the sea, the sea of love
+I want to tell you how much I love you
 
+Do you remember when we met
+That's the day I knew you were my pet
+I want to tell you how much I love you
+
+Come with me to the sea of love
+
+Do you remember when we met
+That's the day I knew you were my pet
+I want to tell you how much I love you
+
+Come with me to the sea of love
+
+Do you remember when we met
+That's the day I knew you were my pet
+I want to tell you how much I love you
+
+I want to tell you how much I love you
+I want to tell you how much I love you

@@ -1,11 +1,12 @@
 ---
 artists:
 - Lisa Lisa And Cult Jam
+external_ids: {}
 features:
 - Paul Anthony
 - Bow Legged Lou
-genres: []
 key: all-cried-out-lisa-lisa-and-cult-jam-with-full-force-paul-anthony-bow-legged-lou
+lyrics_url: https://genius.com/Lisa-lisa-and-cult-jam-all-cried-out-lyrics
 name: All Cried Out
 rankings:
 - end_date: '1986-08-01'
@@ -113,4 +114,57 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1987-01-17'
 ---
+All alone on a Sunday morning
+Outside I see the rain is falling
+Inside I'm slowly dying
+But the rain will hide my crying, crying, crying
+And you...
 
+
+Don't you know my tears will burn the pillow
+Set this place on fire 'cause I'm tired of your lies
+All I needed was a simple hello
+But the traffic was so noisy that you could not hear my cry
+
+
+I...
+I gave you my love in vain
+My body never knew such pleasure
+My heart never knew such pain
+And you...
+You leave me so confused
+Now I'm all cried out
+Over you (Oh, you, all over you, ooh)
+
+
+Never wanted to see things your way, I had to go astray
+Oh, why was I such a fool?
+Now I see that the grass is greener, is it too late for me
+To find my way home? How could I be so wrong?
+Leaving me all alone
+
+
+Don't you know the hurt will cause an inferno
+Romance up in flames, why should I take the blame?
+You were the one who left me neglected (I'm so sorry)
+Apology not accepted, add me to the broken hearts you've collected
+
+
+Oh...
+I gave you all of me (Gave me all of you)
+How was I to know you would weaken so easily
+I...
+I don't know what to do
+Now I'm all cried out (I'm all)
+Over you (I'm cried out, too)
+
+
+I...
+I gave you my love in vain
+My body never knew such pleasure
+My heart never knew such pain
+And you...
+(I left you so confused
+Now I'm all cried out)
+Now I'm all cried out
+Over you

@@ -8,6 +8,7 @@ features:
 - Jim Brickman
 first_released_as_single: false
 key: valentine-martina-mcbride-with-jim-brickman
+lyrics_url: https://www.musixmatch.com/lyrics/Jim-Brickman-Jim-Brickman-Martina-McBride/Valentine
 name: Valentine
 rankings:
 - end_date: '1997-10-10'
@@ -93,4 +94,33 @@ rankings:
 release_year: 1997
 runtime: 192173
 ---
+If there were no words
+No way to speak
+I would still hear you
+If there were no tears
+No way to feel inside
+I'd still feel for you
 
+And even if the sun refused to shine
+Even if romance ran out of rhyme
+You would still have my heart
+Until the end of time
+You're all I need, my love, my Valentine
+
+All of my life
+I have been waiting for
+All you give to me
+You've opened my eyes
+And shown me how to love unselfishly
+I've dreamed of this a thousand times before
+But in my dreams I couldn't love you more
+I will give you my heart
+Until the end of time
+You're all I need, my love, my Valentine
+
+And even if the sun refused to shine
+Even if romance ran out of rhyme
+You would still have my heart
+Until the end of time
+'Cause all I need is you, my Valentine
+You're all I need, my love, my Valentine

@@ -7,6 +7,7 @@ external_ids:
 features: []
 first_released_as_single: false
 key: -cherry-cherry--from-hot-august-night-neil-diamond
+lyrics_url: https://genius.com/Neil-diamond-cherry-cherry-lyrics
 name: Cherry Cherry
 rankings:
 - end_date: '1973-03-23'
@@ -52,4 +53,52 @@ rankings:
 release_year: 1968
 runtime: 163906
 ---
+Baby loves me, yes, yes she does
+Ah, the girl's outta sight, yeah
+Says she loves me, yes, yes she does
+Mmm, gonna show me tonight, yeah
 
+Hey, she got the way to move me
+Cherry
+(She got the way to groove me)
+(She got the way to groove me)
+Cherry, baby
+She got the way to move me
+(She got the way to groove me)
+All right
+
+Tell your mama, girl, I can't stay long
+We got things we gotta catch up on
+Mmm, you know
+You know what I'm sayin'
+Can't stand still while the music is playin'
+All right
+
+Y'ain't got no right, no, no you don't
+Ah, to be so exciting
+Won't need bright lights, no, no we won't
+Gonna make our own lightning
+
+Hey, she got the way to move me
+Cherry
+(She got the way to groove me)
+Cherry, baby
+She got the way to move me
+(She got the way to groove me)
+
+No, we won't tell a soul where we gone to
+Girl, we do whatever we want to
+Ah, I love the way that you do me
+Cherry, babe, you really get to me
+
+Hey, she got the way to move me
+Cherry
+(She got the way to groove me)
+Cherry, baby
+She got the way to move me
+(She got the way to groove me)
+Cherry....
+She got the way to move me
+(She got the way to groove me)
+Cherry....
+(She got the way to groove me)

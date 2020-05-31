@@ -7,6 +7,7 @@ external_ids:
 features: []
 first_released_as_single: false
 key: dream-a-little-dream-of-me-mama-cass-with-the-mamas-the-papas
+lyrics_url: https://genius.com/The-mamas-and-the-papas-dream-a-little-dream-of-me-lyrics
 name: Dream A Little Dream Of Me
 rankings:
 - end_date: '1968-07-12'
@@ -56,4 +57,38 @@ rankings:
 release_year: 1968
 runtime: 194426
 ---
+Album version:
+You keep pouring into one glass and you're never changing the straw
 
+Single version:
+And now to sing this lovely ballad, here is Mama Cass
+
+Stars shining bright above you
+Night breezes seem to whisper "I love you"
+Birds singin' in the sycamore tree
+Dream a little dream of me
+
+Say "nighty-night" and kiss me
+Just hold me tight and tell me you'll miss me
+While I'm alone and blue as can be
+Dream a little dream of me
+
+Stars fading but I linger on, dear
+Still craving your kiss
+I'm longing to linger till dawn, dear
+Just saying this
+
+Sweet dreams till sunbeams find you
+Sweet dreams that leave all worries behind you
+But in your dreams, whatever they be
+Dream a little dream of me
+
+Stars fading but I linger on, dear
+Still craving your kiss
+I'm longing to linger till dawn, dear
+Just saying this
+
+Sweet dreams till sunbeams find you
+Sweet dreams that leave all worries far behind you
+But in your dreams, whatever they be
+Dream a little dream of me

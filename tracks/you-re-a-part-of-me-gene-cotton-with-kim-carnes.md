@@ -8,6 +8,7 @@ features:
 - Kim Carnes
 first_released_as_single: false
 key: you-re-a-part-of-me-gene-cotton-with-kim-carnes
+lyrics_url: https://genius.com/Kim-carnes-youre-a-part-of-me-feat-gene-cotton-lyrics
 name: You're A Part Of Me
 rankings:
 - end_date: '1978-06-23'
@@ -61,4 +62,48 @@ rankings:
 release_year: 1978
 runtime: 232493
 ---
+I'd like to live out all my dreams
+And if I could, yes if I could
+The nicest one would be with you
+And you'd be here with me
+Don't you ever get lonely?
 
+Lord, I'm no good when you're away
+But what do you expect, from a girl
+Who loves you like I love you
+Won't you ever just get tired
+And come on home to me?
+Won't you ever get lonely?
+
+You're a part of me
+That I can't live without
+You're a part of me
+That dreams are all about
+But you can't hold on to
+Something that you've never had before
+Love waits for the wind
+To bring you back again
+And take me away, take me away
+
+Friends say it's great now you're a star
+But what do they expect, from a girl
+Who loves you just the way you are
+
+Oh, and late at night
+How I wish things had never changed
+And you were here with me
+Don't you ever get lonely?
+
+You're a part of me
+That I can't live without
+You're a part of me
+That dreams are all about
+But you can't hold on to
+Something that you've never had before
+Love waits for the wind
+To bring you back again
+And take me away, take me away
+And take me away, take me away
+And take me away, take me away
+And take me away, take me away
+And take me away
