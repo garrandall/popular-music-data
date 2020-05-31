@@ -8,7 +8,7 @@ external_ids:
 features: []
 first_released_as_single: true
 key: say-something-a-great-big-world-christina-aguilera
-lyrics_url: https://genius.com/Say-something-say-something-tribute-to-a-great-big-world-and-christina-aguilera-instrumental-version-lyrics
+lyrics_url: https://genius.com/A-great-big-world-say-something-lyrics
 name: Say Something
 rankings:
 - end_date: '2013-11-29'
@@ -118,4 +118,32 @@ rankings:
 release_year: 2013
 runtime: 229400
 ---
-Instrumental
+Say something, I'm giving up on you
+I'll be the one, if you want me to
+Anywhere, I would've followed you
+Say something, I'm giving up on you
+
+And I... am feeling so small
+It was over my head
+I know nothing at all
+
+And I will stumble and fall
+I'm still learning to love
+Just starting to crawl
+
+Say something, I'm giving up on you
+I'm sorry that I couldn't get to you
+Anywhere, I would've followed you
+Say something, I'm giving up on you
+
+And I will swallow my pride
+You're the one that I love
+And I'm saying goodbye
+
+Say something, I'm giving up on you
+And I'm sorry that I couldn't get to you
+And anywhere, I would've followed you, oh-oh
+Say something, I'm giving up on you
+
+Say something, I'm giving up on you
+Say something...

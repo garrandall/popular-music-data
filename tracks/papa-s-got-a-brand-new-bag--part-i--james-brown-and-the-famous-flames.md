@@ -8,6 +8,7 @@ features:
 - The Famous Flames
 first_released_as_single: false
 key: papa-s-got-a-brand-new-bag--part-i--james-brown-and-the-famous-flames
+lyrics_url: https://www.musixmatch.com/lyrics/James-Brown-the-famous-flames-6/Papa-s-Got-A-Brand-New-Bag-Pt-2
 name: Papa's Got A Brand New Bag (Part I)
 rankings:
 - end_date: '1965-07-23'
@@ -65,4 +66,32 @@ rankings:
 release_year: 1965
 runtime: 125933
 ---
-
+Come Here Sister... Papa's In The Swing
+He Ain't Too Hip... About That New Breed Thing
+He Ain't No Drag
+Papa's Got A Brand New Bag
+Come Here Mama... And Dig This Crazy Scene
+He's Not Too Fancy... But His Mind Is Might Clean
+He Ain't No Drag.
+Papa's Got A Brand New Bag
+He's Doing The Jerk...
+He's Doing The Fly
+Don't Play Him Cheap 'Cause You Know He Ain't Shy
+He's Doing The Monkey,
+The Mashed Potatoes, Jump Back Jack, See You Later
+Alligator.
+Come Here Sister
+Papa's In The Swing
+He Ain't Too Hip Now
+But I Can Dig That New Breed Babe;
+He Ain't No Drag
+He's Got A Brand New Bag
+Oh Papa! He's Doing The Jerk
+Papa... He's Doing The Jerk
+He's Doing The Twist ... Just Like This,
+He's Doing The Fly Ev'ry Day And Ev'ry Night
+The Thing's... Like The Boomerang.
+Hey... Come On
+Hey! Hey... Come On
+Hey! Hey... He's Pu Tight... Out Of Sight...
+Come On. Hey! Hey!

@@ -7,6 +7,7 @@ external_ids:
 features: []
 first_released_as_single: false
 key: why-should-i-cry-the-gentrys
+lyrics_url: https://genius.com/The-gentrys-why-should-i-cry-lyrics
 name: Why Should I Cry
 rankings:
 - end_date: '1970-02-13'
@@ -36,4 +37,3 @@ rankings:
 release_year: 1970
 runtime: 132002
 ---
-

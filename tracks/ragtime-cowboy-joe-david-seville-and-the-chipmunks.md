@@ -8,6 +8,7 @@ features:
 - David Seville
 first_released_as_single: false
 key: ragtime-cowboy-joe-david-seville-and-the-chipmunks
+lyrics_url: https://genius.com/Alvin-and-the-chipmunks-ragtime-cowboy-joe-lyrics
 name: Ragtime Cowboy Joe
 rankings:
 - end_date: '1959-07-12'
@@ -49,4 +50,96 @@ rankings:
 release_year: 1959
 runtime: 128893
 ---
+Oh how he sings
+Raggy music to his cattle
+As he swings
+Back in forth in his saddle
+On a horse
 
+
+What a horse!
+
+
+Who is syncopated gaited
+And with such a funny meter
+To the roar of his repeater!
+
+How they run
+When they hear the fella's gun
+Because the western folks all know:
+He's a high falutin'
+
+
+Rootin' tootin'!
+
+
+Son-of-a-gun from Arizona
+He's some cowboy
+Talk about your cowboy
+Ragtime Cowboy Joe!
+
+
+
+(Gunshots)
+
+
+Look out, Sheriff! They're gettin' away!
+
+(Gunshot)
+
+
+Alvin, stop shooting that gun
+
+(Gunshot)
+
+
+Reach for the sky, you sidewinder!
+
+(Gunshot)
+
+Alvin, will you put that gun down!
+
+(Gunshot)
+
+
+Don't worry lady! I'll go get 'em!
+
+(Loud gunshot)
+
+
+Alvin!
+Will you please put that thing down and get back here and sing!?
+
+
+Oh how he sings
+Raggy music to his cattle
+As he swings
+Back in forth in his saddle
+On a horse
+
+
+What a horse!
+
+
+Who is syncopated gaited
+And with such a funny meter
+To the roar of his repeater!
+
+How they run
+When they hear the fella's gun
+Because the western folks all know:
+He's a high falutin'
+
+
+Rootin' tootin'!
+
+
+Son of a gun from Arizona
+He's some cowboy
+Talk about your cowboy
+Ragtime Cowboy Joe!
+
+(Gunshots to the beat)
+
+
+High-ho, Alvin!

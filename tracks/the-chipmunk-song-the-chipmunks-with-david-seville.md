@@ -8,6 +8,7 @@ features:
 - David Seville
 first_released_as_single: false
 key: the-chipmunk-song-the-chipmunks-with-david-seville
+lyrics_url: https://genius.com/Alvin-and-the-chipmunks-the-chipmunk-song-lyrics
 name: The Chipmunk Song
 rankings:
 - end_date: '1958-12-07'
@@ -65,4 +66,42 @@ rankings:
 release_year: 1958
 runtime: 141906
 ---
+Alright you Chipmunks, Ready to sing your song?
+ I'd say we are
+ Yeah, Lets sing it now!
+ Okay, Simon?
+ OK
+ Okay, Theodore?
+ OK
+ Okay Alvin?...Alvin?...ALVIN!!!
+ OKAY!!
 
+
+Christmas, Christmas time is near
+Time for toys and time for cheer
+We've been good, but we can't last
+Hurry Christmas, hurry fast
+
+Want a plane that loops the loop
+ Me, I want a Hula-Hoop
+
+We can hardly stand the wait
+Please Christmas don't be late
+
+ Ok Fellas, Get ready
+That was very good, Simon
+ Naturally!
+ Very Good Theodore
+ He He He He
+ Uh Alvin, You were a little flat
+Watch it, Alvin...Alvin?...ALVIN!!!
+ OKAY!!
+
+
+Want a plane that loops the loop
+ I still want a Hula-Hoop
+
+We can hardly stand the wait
+Please Christmas don't be late
+We can hardly stand the wait
+Please Christmas don't be late

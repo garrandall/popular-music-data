@@ -8,6 +8,7 @@ features:
 - Brooklyn Dreams
 first_released_as_single: false
 key: heaven-knows-donna-summer-with-brooklyn-dreams
+lyrics_url: https://genius.com/Donna-summer-heaven-knows-lyrics
 name: Heaven Knows
 rankings:
 - end_date: '1979-01-19'
@@ -89,4 +90,53 @@ rankings:
 release_year: 1979
 runtime: 404146
 ---
+Baby please
+Baby please don't take your love from me
+I am yours forever more
+'till eternity
+Silently please, listen to the words I say well
+I'm not talking just for play, listen to me please
 
+Heaven knows
+It's not the way it should be
+Heaven knows
+It's not the way it could be
+Don't you know
+There's no need to leave
+
+Heaven knows
+I never wanna leave you
+Heaven knows
+I only wanna please you
+Don't you know
+Love is what I need
+
+Down inside
+Don't get caught with foolish pride
+Put all the other things aside
+There's only you and me
+Believe in us
+We were always meant to be
+Me for you and you for me
+'till eternity
+
+Heaven knows
+It's not the way it should be
+Heaven knows
+It's not the way it could be
+Don't you know
+There's no need to leave
+
+Heaven knows
+I only wanna love you
+Heaven knows
+I never wanna lose you
+Don't you know
+Love is meant to be
+
+Heaven knows
+It's not the way it should be
+And it's no use now
+So stop with the pretending
+So come on child, and hear me
+When I cry...

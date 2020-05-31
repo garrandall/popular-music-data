@@ -8,7 +8,7 @@ features:
 - Sean Paul
 first_released_as_single: false
 key: breathe-blu-cantrell-sean-paul
-lyrics_url: https://genius.com/Blu-cantrell-breathe-instrumental-lyrics
+lyrics_url: https://genius.com/Blu-cantrell-breathe-rap-version-lyrics
 name: Breathe
 rankings:
 - end_date: '2003-03-07'

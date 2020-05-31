@@ -9,6 +9,7 @@ features:
 - Eric Church
 first_released_as_single: false
 key: the-only-way-i-know-jason-aldean-with-luke-bryan-eric-church
+lyrics_url: https://www.musixmatch.com/lyrics/Jason-Aldean/The-Only-Way-I-Know-with-Luke-Bryan-Eric-Church
 name: The Only Way I Know
 rankings:
 - end_date: '2012-11-30'
@@ -94,4 +95,64 @@ rankings:
 release_year: 2012
 runtime: 193186
 ---
+Well, I grew up in one of them old farm towns
+Where they hit it hard 'til the sun goes down
+Nobody really seemed to care
+That we were living in the middle of nowhere
+We just figured that's how it was
+And everybody else was just like us
+Soaking in the rain baking in the sun
+Don't quit 'til the job gets done
 
+That's the only way I know
+Don't stop 'til everything's gone
+Straight ahead, never turn round
+Don't back up, don't back down
+Full throttle, wide open
+You get tired and you don't show it
+Dig a little deeper when you think you can't dig no more
+That's the only way I know
+
+That old red dirt ‒ the first thing you learn
+Is you don't get nothing that you don't earn
+Humble pride that I grew up on
+You find out just how bad you want it
+Sun in our eyes backs to the fences
+We didn't know the odds were against us
+Hit the wall smoking and spinning
+Still wasn't thinking 'bout nothing but winning
+
+That's the only way I know
+Don't stop 'til everything's gone
+Straight ahead, never turn round
+Don't back up, don't back down
+Full throttle, wide open
+You get tired and you don't show it
+Dig a little deeper when you think you can't dig no more
+That's the only way I know
+
+Maybe there's another path that'll
+Get you there a little bit faster
+But I'm sticking with the one inside of me
+
+That's the only way I know
+Don't stop 'til everything's gone
+Straight ahead, never turn round
+Don't back up, don't back down
+Full throttle, wide open
+You get tired and you don't show it
+Dig a little deeper when you think you can't dig no more
+That's the only way I...
+
+That's the only way I know
+Don't stop 'til everything's gone
+Straight ahead, never turn round
+Don't back up, don't back down
+Full throttle, wide open
+You get tired, you don't show it
+Dig a little deeper when you think you can't dig no more
+That's the only way I know
+
+That's the only way I know
+That's the only way I know
+The only way I know

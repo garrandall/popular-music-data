@@ -1,11 +1,12 @@
 ---
 artists:
 - Missy Elliott
+external_ids: {}
 features:
 - Ginuwine
 - Tweet
-genres: []
 key: take-away-missy--misdemeanor--elliott-ginuwine-tweet
+lyrics_url: https://www.musixmatch.com/lyrics/Missy-Elliott-feat-Ginuwine-Tweet/Take-Away
 name: Take Away
 rankings:
 - end_date: '2001-12-21'
@@ -89,4 +90,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '2002-04-27'
 ---
-
+You're So Incredible
+Ever Since The Day We Became, We Became. So Personal
+Everyday That I Spend With You It Gets. Unforgettable
+Anything That I Did With You, I Don't. Regret At All
+(I Love Everything About You)
+Take Away, Your Gold And Platinum Chains
+(And I'm Gonna Love You Baby)
+Cause I'm Gon' Love, Love You Anyway
+(I Ain't In It For The Cheddar Baby)
+I'm Not In It For, For The Love Of Cash
+(Oh No No, You Might Go Broke, But I'm)
+Cause If You Go Broke, I Gotta Make It Last
+(Not Goin Nowhere, Nowhere, Nowhere.)
+[Ginuwine
+Listen, Let's Make, It National
+I Want The Whole World To Know
+I'm With You, And I'm. In Love
+Ain't No Girl In This World
+Can Fill Your Shoes, None Not At All
+The Things You Do For Me Is So. Unbelievable
+And You Can Take Away All The Platinum Chains
+[Missy
+] + (Ginuwine)
+Take Away, Your Gold And Platinum Chains
+Cause I'm Gon Love, Love You Anyway
+(I'ma Love You Anyway, Yes I Am)
+I'm Not In It For, For The Love Of Cash
+(I'm Only In It For The Love Of You)
+Cause If You Go Broke I Gotta Make It Last
+(I Gotta Make It Last Babyyy)
+I Just Wanna Be The Perfect Match
+You Don't Even Have To Ask.
+I Just Wanna Be The Perfect Match
+We Become So Attached.
+(We Become So Attached Baby That's All I Ask)
+I Just Wanna Be The Perfect Match
+You Don't Even Have To Ask.
+I Just Wanna Be The Perfect Match
+We Become So Attached.
+(Be The Perfect Match Baby, So Attached, Yeahyeaheyeahhh)
+[Computer Voice
+Now Can You Hold Me, Now Can You Feel Me
+Now Can You Get Nea

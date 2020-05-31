@@ -8,6 +8,7 @@ features:
 - Mac McAnally
 first_released_as_single: false
 key: down-the-road-kenny-chesney-with-mac-mcanally
+lyrics_url: https://www.musixmatch.com/lyrics/Kenny-Chesney-feat-Mac-McAnally/Down-the-Road
 name: Down The Road
 rankings:
 - end_date: '2008-12-26'
@@ -85,4 +86,42 @@ rankings:
 release_year: 2008
 runtime: 181333
 ---
+When I was a boy
 
+Four houses down from me
+Was a family with an only child
+She was the only girl
+In this whole world that can make me smile
+
+I made up reasons to go
+
+Somewhere inside of me
+There was something she took a liking to
+Well, I ask her to marry me
+She said she really wanted to
+
+See what life's gonna hold
+
+Her momma wants to know
+Am I washed in the blood or just in the water?
+Her daddy wants to know
+If I make enough to take his daughter
+
+Before he could let her go
+
+And now down the street from here
+There's an engineer with an only son
+And our baby girl says
+She believes that he is the only one
+
+Her momma wants to know
+Is he washed in the blood or just in the water?
+And I wanna know
+That he makes enough to take my daughter
+
+When it comes time to go
+
+You know I wanna help her go
+
+Down, down, down that road
+Down, down, down that road

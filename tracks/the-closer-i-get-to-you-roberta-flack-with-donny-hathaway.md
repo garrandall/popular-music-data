@@ -8,6 +8,7 @@ features:
 - Donny Hathaway
 first_released_as_single: false
 key: the-closer-i-get-to-you-roberta-flack-with-donny-hathaway
+lyrics_url: https://genius.com/Roberta-flack-the-closer-i-get-to-you-lyrics
 name: The Closer I Get To You
 rankings:
 - end_date: '1978-02-24'
@@ -93,4 +94,55 @@ rankings:
 release_year: 1977
 runtime: 280800
 ---
+The closer I get to you
+The more you make me see
+By giving me all you've got
+Your love has captured me
 
+
+Over and over again
+I try to tell myself that we
+Could never be more than friends
+And all the while inside
+I knew it was real
+The way you make me feel
+
+
+Lying here next to you
+Time just seems to fly
+Needing you more and more
+Let's give love a try
+
+
+Oh, oh, sweeter than sweeter love grows
+And heaven's there for those
+Who fool the tricks of time
+With the hearts in love they find
+True love
+In a special way
+
+
+The closer I get to you
+The more you make me see
+By giving me all you've got
+Your love has captured me
+
+
+Over and over again
+I try to tell myself that we
+Could never be more than friends
+And all the while inside
+I knew it was real
+The way you make me feel
+
+
+The closer I get to you
+The more you make me see
+By giving you all I've got
+Your love has captured me
+
+
+The closer I get to you
+A feeling comes over me (Me, too)
+Falling closer, sweet as the gravity
+The closer I get to you

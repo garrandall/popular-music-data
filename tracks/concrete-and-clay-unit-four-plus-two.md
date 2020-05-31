@@ -1,9 +1,10 @@
 ---
 artists:
 - Unit Four plus Two
+external_ids: {}
 features: []
-genres: []
 key: concrete-and-clay-unit-four-plus-two
+lyrics_url: https://www.musixmatch.com/lyrics/Unit-Four-Plus-Two/Concrete-and-Clay-Rerecorded
 name: Concrete And Clay
 rankings:
 - end_date: '1965-05-07'
@@ -43,4 +44,46 @@ rankings:
   ranking_list: Billboard Hot 100
   start_date: '1965-06-26'
 ---
+You to me
+Are sweet as roses in the morning
+And you to me
+Are soft as summer rain at dawn, in love we share
+That something rare
 
+The sidewalks in the street
+The concrete and the clay beneath my feet
+Begins to crumble
+But love will never die
+Because we'll see the mountains tumble
+Before we say goodbye
+My love and I will be In love eternally That's the way
+That's the way it's meant to be
+
+All around, I see the purple shades of evening
+And on the ground
+The shadows fall and once again you're in my arms
+So tenderly
+The sidewalks in the street
+The concrete and the clay beneath my feet
+Begins to crumble
+But love will never die
+Because we'll see the mountains tumble
+Before we say goodbye
+My love and I will be In love eternally
+That's the way
+That's the way it's meant to be
+
+The sidewalks in the street
+The concrete and the clay beneath my feet
+Begins to crumble
+But love will never die
+Because we'll see the mountains tumble
+Before we say goodbye
+My love and I will be In love eternally
+That's the way
+That's the way it's meant to be
+That's the way
+That's the way
+That's the way it's meant to be
+That's the way
+That's the way it's meant to be

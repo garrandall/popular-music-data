@@ -8,6 +8,7 @@ features:
 - Kelly Clarkson
 first_released_as_single: false
 key: don-t-you-wanna-stay-jason-aldean-with-kelly-clarkson
+lyrics_url: https://genius.com/Jason-aldean-dont-you-wanna-stay-lyrics
 name: Don't You Wanna Stay
 rankings:
 - end_date: '2010-11-26'
@@ -137,4 +138,46 @@ rankings:
 release_year: 2010
 runtime: 256440
 ---
+I really hate to let this moment go
+Touchin' your skin, and your hair fallin' slow
+When a goodbye kiss, feels like this
 
+
+Don't you wanna stay here a little while?
+Don't you wanna hold each other tight?
+Don't you wanna fall asleep with me tonight?
+Don't you wanna stay here a little while?
+We can make forever feel this way
+Don't you wanna stay?
+
+
+Let's take it slow, I don't wanna move too fast
+I don't wanna just make love, I wanna make love last
+When you're up this high, it's a sad goodbye
+
+
+Don't you wanna stay here a little while?
+Don't you wanna hold each other tight?
+Don't you wanna fall asleep with me tonight?
+Don't you wanna stay here a little while?
+We can make forever feel this way
+Don't you wanna stay?
+
+
+Oh, yeah
+Oh, you feel so perfect, baby
+Yeah, you feel so perfect, baby
+Don't you wanna stay here a little while?
+
+
+Don't you wanna stay here a little while?
+Don't you wanna hold each other tight?
+Don't you wanna fall asleep with me tonight?
+Don't you wanna stay here a little while?
+We can make forever feel this way
+Don't you wanna stay?
+
+
+Don't you wanna stay?
+Yeah, yeah, yeah
+Yeah, yeah, yeah
