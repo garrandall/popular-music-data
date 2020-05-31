@@ -4,6 +4,8 @@ artists:
 external_ids: {}
 features:
 - David Seville
+features:
+- David Seville
 key: alvin-for-president-david-seville-and-the-chipmunks
 lyrics_url: https://genius.com/Alvin-and-the-chipmunks-alvin-for-president-lyrics
 name: Alvin For President

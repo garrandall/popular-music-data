@@ -37,4 +37,3 @@ rankings:
 release_year: 1970
 runtime: 132002
 ---
-(Verse)
